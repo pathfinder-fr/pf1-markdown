@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** [[druide#FORMEANIMALE|Forme animale]], 5 rangs en [[Connaissances]] (nature)
 
-**Avantage.** Si le personnage est un [[druide]] multiclassé, sa forme animale se calcule comme s’il avait quatre niveaux de druide de plus, avec un maximum égal à son niveau de personnage.
+**Avantage.** Si le personnage est un [[druide]] multiclassé, sa forme animale se calcule comme s’il avait quatre niveaux de druide de plus, avec un maximum égal à son niveau de personnage. 
 
 **Spécial.** Ce don n’a aucun effet si le personnage n’est pas un druide multiclassé.

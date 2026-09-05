@@ -42,7 +42,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupe (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Défi monstrueux (Sur).** Par une [[action simple]], le barégare peut faire un test d’[[Intimidation]] pour démoraliser son adversaire. S’il réussit, il sent la puissance monter en lui et bénéficie d’un bonus de +4 en [[Force]] et en [[Constitution]] pendant 10 minutes. Il peut utiliser cette capacité trois fois par jour.}
+{s:BDTexte|**Défi monstrueux (Sur).** Par une [[action simple]], le barégare peut faire un test d’[[Intimidation]] pour démoraliser son adversaire. S’il réussit, il sent la puissance monter en lui et bénéficie d’un bonus de +4 en [[Force]] et en [[Constitution]] pendant 10 minutes. Il peut utiliser cette capacité trois fois par jour.} 
 {s:BDTexte|**Étreinte dévorante (Ext).** La bouche située au milieu de la poitrine du barégare inflige automatiquement 2d8+4 points de dégâts par [[round]] à toute créature que le barégare parvient à saisir.}
 {s:BDTexte|**Immobilisation à une main (Ext).** Les bras énormes du barégare lui permettent d’initier et de maintenir une prise sans souffrir du malus standard de -4 s’appliquant à une créature qui n’a pas les deux mains libres}
 

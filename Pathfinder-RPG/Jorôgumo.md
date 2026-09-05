@@ -37,7 +37,7 @@ ou 1d3 [[veuve noire géante|veuves noires géantes]] ou 1d4+1 [[araignée géan
 {s:BDTexte|**BBA** +14, **BMO** +20, **DMD** 35}
 {s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque en puissance]], [[Esquive]], [[Science de la volonté de fer]], [[Science du critique]] (morsure), [[Souplesse du serpent]], [[Volonté de fer]]}
 {s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Bluff]] +19,
-[[Escalade]] +29 (+37 avec les pattes d’araignée), [[Diplomatie]] +18, [[Perception]] +18,
+[[Escalade]] +29 (+37 avec les pattes d’araignée), [[Diplomatie]] +18, [[Perception]] +18, 
 [[Représentation]] (instruments à cordes) +10, [[Psychologie]] +15,
 [[Discrétion]] +19, [[Natation]] +14}
 {s:BDTexte|**Modificateur racial** +8 en [[Escalade]] avec les pattes d’araignée}

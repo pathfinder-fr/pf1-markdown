@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Boule de cristal asservissante|{s:AE}}
 **Aura** [[école divination|Divination]] puissante ; **NLS** 17 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Poids** 3,5 kg
 (((Description)))
-Au premier abord, rien ne distingue cet objet d’une [[boule de cristal]] ordinaire. Pourtant, si quelqu’un tente de s’en servir, il est [[fasciné]] pendant 1d6 minutes et reçoit une *[[suggestion]]* par télépathie ([[Volonté]] [[DD]] 19 pour annuler).
+Au premier abord, rien ne distingue cet objet d’une [[boule de cristal]] ordinaire. Pourtant, si quelqu’un tente de s’en servir, il est [[fasciné]] pendant 1d6 minutes et reçoit une *[[suggestion]]* par télépathie ([[Volonté]] [[DD]] 19 pour annuler).  
 L’utilisateur est persuadé d’avoir visualisé la scène ou la créature qui l’intéressait, mais en réalité, il est tombé sous la coupe d’un puissant [[magicien]], d’une [[liche]] ou même d’une entité d’un autre plan. À chaque nouvelle utilisation, le personnage est un peu plus asservi par son lointain maître. Pendant tout cette période, le personnage n’a jamais conscience de ce qui lui arrive.
 (((Objet magique prévu)))
 [[boule de cristal]]

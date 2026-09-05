@@ -14,28 +14,28 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F/DF]] (une fine tige en fer de 30 centimètres de long)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone d'effet** [[émanation]] d'un rayon de 6 m au maximum centrée sur un point dans l'espace
-**Durée** 2 heures/niveau (T)
+{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F/DF]] (une fine tige en fer de 30 centimètres de long)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone d'effet** [[émanation]] d'un rayon de 6 m au maximum centrée sur un point dans l'espace  
+**Durée** 2 heures/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[alarme]]*, excepté que le personnage peut affiner le sort afin qu'il discerne le type de créatures ou d'objets qui déclenche l'alarme. Plutôt que d'être déclenchée quand n'importe quelle créature de taille TP ou plus grande entre la zone protégée, le personnage peut choisir une condition de déclenchement, tant qu'elle se base sur un phénomène observable. Par exemple, il pourrait faire en sorte que l’*alarme sélective* se déclenche lorsqu'une créature d'une certaine race (comme [[Orque|orques]], [[gobelours]] ou [[Kobold|kobolds]]) entre dans la zone, lorsqu'un groupe de quatre créatures ou plus entre ensembles, ou lorsqu'un objet en métal arrive dans la zone. Il ne peut pas choisir une condition de déclenchement basée sur un phénomène non-observable, comme l'arrivée d'une “chose d'une valeur de 5 000 po” dans la zone, ou même l'entrée d'une “arme”, puisque la valeur et la classification d'un objet est subjective et peut varier d'une personne à l'autre.
 
 
 
 (((
 ## Alarme
-**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[COMPOSANTES|V, G, F/FD]] (une clochette et un peu de fil d’argent extrêmement fin)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon autour du point choisi
-**Durée** 2 heures/[[niveau]] (T)
+**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[COMPOSANTES|V, G, F/FD]] (une clochette et un peu de fil d’argent extrêmement fin)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon autour du point choisi  
+**Durée** 2 heures/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 *Alarme* fait résonner une sonnerie d’alerte audible ou mentale chaque fois qu’une créature au minimum de [[taille TP]] pénètre dans la zone protégée ou la touche. Quiconque donne le mot de passe (choisi par le personnage au moment de l’incantation) peut entrer sans déclencher l’*alarme*. La sonnerie est audible ou mentale suivant la décision du jeteur de sorts.
 
 **Alarme mentale.** Le personnage est le seul à se rendre compte de l’intrusion, mais il doit se trouver à moins de 1,5 km de l’endroit protégé. Il entend une brève sonnerie qui le réveille s’il dormait mais ne dérange pas sa [[concentration]]. Il perçoit l’*alarme* même s’il est sous le coup d’un sort de *[[silence]]*.

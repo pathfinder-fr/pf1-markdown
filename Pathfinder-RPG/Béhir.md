@@ -62,7 +62,7 @@ ce qu’elles peuvent apercevoir depuis leurs repaires haut perchés les
 mènent souvent à des conflits avec les autres races. Les négociateurs
 les plus courageux disposés à s’approcher suffisamment des béhirs
 pour leur proposer une offre parviennent souvent à les soudoyer ou
-à les raisonner.
+à les raisonner. 
 
 Mais, pour contrecarrer les tendances naturelles des
 béhirs à attaquer d’abord puis à poser des questions ensuite (ou à ne

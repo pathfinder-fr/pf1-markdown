@@ -16,26 +16,26 @@ Celle qui fleurit sans cesse|%2fPCUP%2fReligion-PNG%2fMilani.png|[[Divinités#AU
 |[[Inquisitions#CLANDESTINITE|Clandestinité]], [[Inquisitions#SEDITION|Sédition]]}{s:cs}{s:ISG}La déesse mineure Milani, également connue sous le nom de Celle qui fleurit sans cesse, est la protectrice de tous ceux qui luttent contre l'oppression et les règles injustes. Son symbole est une rose poussant dans une rue maculée de sang.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]).**
+**Lancement de sorts ([[inquisiteur]]).**  
 • *[[Espoir]]* peut être préparé comme un sort de 3e niveau.
 
-**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
 • Les prêtres de Milani comprennent que le travail d'un révolutionnaire est souvent récompensé par la mort, et ils acceptent qu'ils puissent un jour être appelés à mourir pour une cause. Heureusement, la déesse enseigne que les vrais dévots qui sont martyrisés en sauvant d'autres personnes de la mort ou de la tyrannie ressusciteront d'une manière ou d'une autre - peut-être même immédiatement, bien qu'il soit beaucoup plus probable qu'ils renaissent dans la foi.
 
 Certains prêtres prétendent être les incarnations d'anciens disciples de la déesse, capables d'accéder aux souvenirs de leurs vies antérieures grâce à la magie et à la méditation appropriées. Un adepte né après l'accession de Milani (il y a environ un siècle) peut tenter de rechercher les souvenirs de ses vies antérieures en lançant un sort de *[[mythes et légendes]]*, que Milani n'accorde que dans ce but aux inquisiteurs, prêtres et prêtres combattants, en tant que sort divin de 4e niveau. La première fois qu'un lanceur de sorts tente d'utiliser ce sort, il lance 1d4-1 pour déterminer le nombre d'adeptes de Milani dont il accède aux souvenirs ; chaque fois qu'il utilise le sort, celui-ci ne révèle que les informations connues de ces individus. Si le résultat du jet est 0, le lanceur ne peut accéder à aucun souvenir, soit parce qu'il n'est pas un adepte réincarné de Milani, soit parce que la déesse n'a pas mis à sa disposition les souvenirs de ses vies antérieures.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Efforts coordonnés]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Efforts coordonnés]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Espoir]]* peut être préparé comme un sort de 3e niveau.
 
-**Lancement de sorts ([[rôdeur]]).**
-• *[[Efforts coordonnés]]* peut être préparé comme un sort de 3e niveau.
-• *[[Espoir]]* peut être préparé comme un sort de 3e niveau.
-• *[[Regain dassurance|Regain d'assurance]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[rôdeur]]).**  
+• *[[Efforts coordonnés]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Espoir]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Regain dassurance|Regain d'assurance]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Transfert de sorts]]* peut être préparé comme un sort de 3e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres I]].* [[Grand-duc]] ([[sous-type extraplanaire|extraplanaire]])
+**Convocations étendues.**  
+• *[[Convocation de monstres I]].* [[Grand-duc]] ([[sous-type extraplanaire|extraplanaire]])  
 • *[[Convocation de monstres IV]].* [[Archon canin]] - CB
 
 ### Options de personnage thématiques

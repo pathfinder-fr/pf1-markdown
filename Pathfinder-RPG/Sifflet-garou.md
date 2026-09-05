@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Sifflet-garou|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 8 000 po ; **Poids** —
 (((Description)))
-Ce sifflet en argent a la forme d’une tête de loup. Une fois par jour, son possesseur peut souffler dedans pour obliger un lycanthrope distant de 9 mètres ou moins à faire un jet de [[Volonté]] [[DD]] 17. En cas d’échec, il reprend son apparence humanoïde pendant les 24 prochaines heures.
+Ce sifflet en argent a la forme d’une tête de loup. Une fois par jour, son possesseur peut souffler dedans pour obliger un lycanthrope distant de 9 mètres ou moins à faire un jet de [[Volonté]] [[DD]] 17. En cas d’échec, il reprend son apparence humanoïde pendant les 24 prochaines heures. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[métamorphose funeste]]* ; **Coût** 4 000 po
 </div>

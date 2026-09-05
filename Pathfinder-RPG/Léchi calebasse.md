@@ -57,7 +57,7 @@ avoir la tête creuse, ils ont une excellente mémoire et un léchi calebasse ou
 Les léchis calebasses poussent mieux dans les petits potagers ou dans les prairies ensoleillées. La taille des yeux
 et de la bouche du léchi constitue une étape importante du rituel de croissance puisque, sans cela, le léchi calebasse ne peut ni voir ni parler. L’apparence et la nature exacte du léchi calebasse varient grandement d’un individu à l’autre.
 
-**NLS** 6 ; **Prix** 1 500 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[Convocation dalliés naturels I|convocation d’alliés naturels I]]*, *[[croissance végétale]]*, *[[enchevêtrement]]*
+**NLS** 6 ; **Prix** 1 500 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[Convocation dalliés naturels I|convocation d’alliés naturels I]]*, *[[croissance végétale]]*, *[[enchevêtrement]]*  
 **Compétences** [[Connaissances]] (nature) DD 13 ; **Coût** 750 po
 </div></td></tr></table>

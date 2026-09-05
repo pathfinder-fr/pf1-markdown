@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po (d'appartement), 25 po (de garde), 150 po (de selle) ; **Poids** 2,5 kg (d'appartement), 12,5 kg (de garde), 25 kg (de selle)
+{s:AE}**Prix** 15 po (d'appartement), 25 po (de garde), 150 po (de selle) ; **Poids** 2,5 kg (d'appartement), 12,5 kg (de garde), 25 kg (de selle)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 La plupart des chiens appartiennent à l’une de ces trois catégories.  
   
 *Chien d’appartement*. Ces chiens de taille TP sont généralement utilisés comme animaux de compagnie. On ne peut pas les former au combat mais ils peuvent servir de créatures de garde bruyantes mais capricieuses. Les chiens d’appartement ont les mêmes statistiques que les [[Renard|renards]].  

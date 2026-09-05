@@ -36,13 +36,13 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-20)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Renversement de navires (Ext)** Un hippopotame peut renverser un navire de sa taille ou plus petit que lui
+{s:BDTexte|**Renversement de navires (Ext)** Un hippopotame peut renverser un navire de sa taille ou plus petit que lui 
 en effectuant une charge et en réalisant un test de manœuvre de combat. Le DD de ce test est égal à 25 ou au résultat d’un test de Profession (marin) réalisé par le capitaine du navire si celui-ci est plus élevé.}
 {s:BDTexte|**Transpiration (Ext)** La transpiration rougeâtre qui recouvre un hippopotame le protège contre les dégâts non létaux dus à des chaleurs extrêmes et lui donne un bonus racial de +2 aux jets de sauvegarde contre les maladies non magiques.}</div>
 </td><td><div>*Cet  hippopotame  mâle  plutôt  lourdaud  sort  de  l’eau  et  ouvre  grand  la gueule pour bâiller, dévoilant plusieurs crocs impressionnants.*
 
-La réputation de créatures colériques et hostiles qui
-accompagne généralement les hippopotames est tout
+La réputation de créatures colériques et hostiles qui 
+accompagne généralement les hippopotames est tout 
 à fait justifiée, même si ces animaux sont herbivores.
 
 #### L'hippopotame comme compagnon animal

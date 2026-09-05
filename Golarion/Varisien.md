@@ -28,7 +28,7 @@ Là où les [[Shoanti|Shoantis]] utilisent les tatouages comme des distinctions 
 **Région :** [[Terres des Rois des Linnorms]] ; [[Dernier-Rempart]] ; [[Nidal]] ; [[Nirmathas]] ; [[Numérie]] ; [[Ustalav]] ; [[Varisie]]{br}
 **Religion :** [[Abadar]] ; [[Calistria]] ; [[Cayden Cailéan]] ; [[Desna]] ; [[Érastil]] ; [[Gozreh]] ; [[Norgorber]] ; [[Sarenrae]] ; [[Shélyn]] ; [[Urgathoa]]
 
-Les Varisiens ont des peaux mates et de grands yeux expressifs aux couleurs exotiques ; violets ou or notamment. Leur capillarité regorge de teintes étonnantes, allant du blond platine au noir ébène en passant par le rouge écarlate. Les hommes ont généralement du mal à faire pousser une barbe drue, trait rendu célèbre par les fines moustaches des voyous Sczarnis.
+Les Varisiens ont des peaux mates et de grands yeux expressifs aux couleurs exotiques ; violets ou or notamment. Leur capillarité regorge de teintes étonnantes, allant du blond platine au noir ébène en passant par le rouge écarlate. Les hommes ont généralement du mal à faire pousser une barbe drue, trait rendu célèbre par les fines moustaches des voyous Sczarnis.     
 
 **Noms masculins :** Alezandaru ; Andrezi ; Dortlin ; Eugeni ; Henric ; Ionacu ; Iozif ; Kazallin ; Marduzi ; Silvui ; Skender ; Tiberiu ; Viorec ; Zandu ; Zstelian{br}
 **Noms féminins :** Alika ; Alinza ; Anca ; Bordana ; Carmelizzia ; Ilinica ; Iolana ; Luminita ; Mirelinda ; Narcizia ; Nicinniana ; Piousa ; Zeldana ; Zriorica

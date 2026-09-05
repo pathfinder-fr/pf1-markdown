@@ -10,12 +10,12 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) <nowiki>[[</nowiki>voyage<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (fragment de bateau)
-**Portée** voir description
-**Effet** symbole magique
-**Durée** 1 heure/niveau
+{s:PMI}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) <nowiki>[[</nowiki>voyage<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (fragment de bateau)  
+**Portée** voir description  
+**Effet** symbole magique  
+**Durée** 1 heure/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Afin de pouvoir lancer ce sort, le personnage doit posséder un fragment du navire qu’il souhaite pister. Les marchands conservent souvent des morceaux de leurs navires pour pouvoir utiliser ce sort en particulier. Le personnage a également besoin d’une [[Carte nautique (objet)|carte nautique]].

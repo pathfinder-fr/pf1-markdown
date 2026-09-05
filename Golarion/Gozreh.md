@@ -22,7 +22,7 @@ Le héraut de Gozreh est un puissant et très ancien élémentaire qu'on surnomm
 
 ### Doctrine
 
-Les fidèles de Gozreh sont souvent ceux qui vivent le plus au contact de la nature et dont la survie dépend de la clémence des éléments. C'est le cas des fermiers, agriculteurs ainsi que des marins qui agissent souvent avec une grande piété vis à vis des éléments instables de la nature. Nombre des Druides qui le vénèrent comme source de leur pouvoir n'accordent aucun crédit aux autres religions et voient dans Gozreh une déité plus puissante et globale de la nature et la force vitale dans son ensemble.
+Les fidèles de Gozreh sont souvent ceux qui vivent le plus au contact de la nature et dont la survie dépend de la clémence des éléments. C'est le cas des fermiers, agriculteurs ainsi que des marins qui agissent souvent avec une grande piété vis à vis des éléments instables de la nature. Nombre des Druides qui le vénèrent comme source de leur pouvoir n'accordent aucun crédit aux autres religions et voient dans Gozreh une déité plus puissante et globale de la nature et la force vitale dans son ensemble. 
 
 Une petite caste de fidèles de Gozreh officie sur la côte Ouest du [[Garund]] et voue une vénération particulière à l'Oeil d'Abendego, un typhon permanent apparût à la mort d'Aroden.
 

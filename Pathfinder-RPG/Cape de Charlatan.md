@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:58
 {s:BDTitre|Cape de charlatan|{s:AE}}
 **Aura** [[Évocation]] et [[Illusion]] puissantes ; **NLS** 13 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 45.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape tape-à-l’œil en velours rouge est brodée au fil d’or d’images représentant le plus souvent des arlequins masqués d’aspect sinistre ou des scènes de réjouissances tout aussi sinistres. La cape fonctionne comme une [[cape de prestidigitateur]] mais le pouvoir de *[[porte dimensionnelle]]* peut être utilisé trois fois par jour. De plus, une fois par jour, le porteur de la cape peut utiliser le pouvoir de *[[forme éthérée]]*, comme le sort du même nom.
+Cette cape tape-à-l’œil en velours rouge est brodée au fil d’or d’images représentant le plus souvent des arlequins masqués d’aspect sinistre ou des scènes de réjouissances tout aussi sinistres. La cape fonctionne comme une [[cape de prestidigitateur]] mais le pouvoir de *[[porte dimensionnelle]]* peut être utilisé trois fois par jour. De plus, une fois par jour, le porteur de la cape peut utiliser le pouvoir de *[[forme éthérée]]*, comme le sort du même nom. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[porte dimensionnelle]]*, *[[forme éthérée]]* ; **Coût** 22.500 po
 </div>

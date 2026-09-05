@@ -13,11 +13,11 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des trésors|}
 **Aura** Multiples modérées ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 55 866 po ; **Poids** 2,5 kg
 (((Description)))
-Ce magnifique bâton de bois de teck est incrusté de pièces d'or et d'argent. Il permet de lancer les sorts suivants :
-• *[[aura magique]]* (1 charge)
-• *[[coffre secret]]* (2 charges)
-• *[[identification]]* (1 charge)
-• *[[localisation dobjet|localisation d'objet]]* (1 charge)
+Ce magnifique bâton de bois de teck est incrusté de pièces d'or et d'argent. Il permet de lancer les sorts suivants :  
+• *[[aura magique]]* (1 charge)  
+• *[[coffre secret]]* (2 charges)  
+• *[[identification]]* (1 charge)  
+• *[[localisation dobjet|localisation d'objet]]* (1 charge)  
 • *[[mythes et légendes]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[aura magique]]*, *[[coffre secret]]*, *[[identification]]*, *[[localisation dobjet|localisation d'objet]]*, *[[mythes et légendes]]* ; **Coût** 30 016 po

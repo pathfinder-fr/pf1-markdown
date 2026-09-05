@@ -16,7 +16,7 @@ Categories:
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)  
 **Cible** un objet ou une créature/niveau, de taille M ou plus petit, chacun ne devant pas se trouver à plus de 6 m des autres  
 **Durée** jusqu'à 1 round/[[niveau]] (cf. texte)  
-**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet)  
 **Résistance à la magie** oui (objet)
 
 La cible affectée acquiert une incroyable flottabilité : elle flotte naturellement sur toute étendue d’eau d’au moins 30 centimètres de profondeur. Une créature affectée qui essaye délibérément de s’immerger doit réussir un test de Natation DD 20 tous les rounds pour rester sous l’eau. Si une cible passe au moins 1 round sur la terre ferme, le sort se termine pour elle uniquement.

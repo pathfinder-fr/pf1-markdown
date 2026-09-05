@@ -9,12 +9,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Antipaladin|Antipal]] 2, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 2
-**Temps d'incantation** 10 minutes (voir description)
-**Composantes** [[composantes|V, G, M]] (carré de soie noire d'une valeur de 50 po)
-**Portée** [[contact]]
-**Cibles** piège touché
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:UI}**École**  [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Antipaladin|Antipal]] 2, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 2  
+**Temps d'incantation** 10 minutes (voir description)  
+**Composantes** [[composantes|V, G, M]] (carré de soie noire d'une valeur de 50 po)  
+**Portée** [[contact]]  
+**Cibles** piège touché  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage enveloppe un unique piège d'une illusion puissante afin qu'il soit plus difficile à localiser. Les sorts comme *[[détection de la magie]]* ne révèlent pas d'aura magique, que ce soit celle du piège ciblé ou de *piège indétectable*. De plus, un personnage sous l'effet de *[[détection des pièges]]* n'a pas droit à un test automatique pour remarquer le piège ciblé lorsqu'il est à 3 m ou moins de lui, et le bonus aux tests de [[Perception]] de *détection des pièges* ne s'applique pas aux tentatives actives pour remarquer le piège ciblé. Le [[DD]] des tests de Perception pour repérer le piège ciblé est augmenté d'un montant égal à la moitié du [[NLS|niveau de lanceur de sorts]] du personnage pour les créatures qui ne possèdent pas la capacité de classe [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]].

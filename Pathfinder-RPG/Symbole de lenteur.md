@@ -12,14 +12,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 1 000 po)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+{s:UM}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 1 000 po)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[symbole de mort]]* mais toutes les créatures situées dans les 18 mètres (12 {s:c}) sont ralenties (comme avec un sort de *[[lenteur]]*) pendant 1 [[round]] par [[NLS|niveau de lanceur de sorts]].
 
 On peut rendre le *symbole de lenteur* permanent à l’aide d’un sort de *[[permanence]]* si le lanceur de sorts est de [[NLS|niveau]] 11 ou plus et s’il paie 10 000 po.
@@ -28,14 +28,14 @@ On peut rendre le *symbole de lenteur* permanent à l’aide d’un sort de *[[p
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

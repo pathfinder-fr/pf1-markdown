@@ -16,12 +16,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École** [[Divination]] ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation**  1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** 18 m
-**Zone d'effet** émanation en forme de cône
-**Durée** concentration jusqu’à 1 minute/niveau (T)
+{s:cs}{s:UI}**École** [[Divination]] ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation**  1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** 18 m  
+**Zone d'effet** émanation en forme de cône  
+**Durée** concentration jusqu’à 1 minute/niveau (T)  
 **Jet de sauvegarde** [[Présentation des sorts#JETDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Le personnage peut détecter la présence d’adorateurs de sa divinité (des fidèles mortels, des serviteurs extérieurs, ect.). Les informations révélées dépendent de la durée de concentration du personnage sur une zone ou une cible donnée.

@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:Menuarchétypetueur}{s:mca}*Ces tueurs professionnels sont formés et utilisés presque exclusivement par les diverses familles criminelles des Terres sauvages. Rusés et impitoyables, ils agissent seuls et louent leurs services à ceux qui proposent les rémunérations les plus alléchantes. Même si quelques exécuteurs des barons du crime peu scrupuleux en profitent et obligent les familles à payer toujours un peu plus pour bénéficier de leurs services, la plupart de ces assassins suivent un code personnel strict et appliquent une politique de transparence absolue envers leurs employeurs.*
+{s:Menuarchétypetueur}{s:mca}*Ces tueurs professionnels sont formés et utilisés presque exclusivement par les diverses familles criminelles des Terres sauvages. Rusés et impitoyables, ils agissent seuls et louent leurs services à ceux qui proposent les rémunérations les plus alléchantes. Même si quelques exécuteurs des barons du crime peu scrupuleux en profitent et obligent les familles à payer toujours un peu plus pour bénéficier de leurs services, la plupart de ces assassins suivent un code personnel strict et appliquent une politique de transparence absolue envers leurs employeurs.* 
 
 Les talents indiqués par un astérisque (*) ajoutent des effets à l’attaque sournoise des tueurs. Le personnage ne peut appliquer qu’un seul de ces talents à une même attaque et doit décider duquel avant d’effectuer le jet d’attaque.
 

@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Onguent des roches|{s:AE}}
 **Aura** [[Abjuration]] et [[Transmutation]] puissantes ; **NLS** 13 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 4 000 po ; **Poids** —
 (((Description)))
-Deux usages peuvent être faits de cet onguent. Si on en applique une dose (soit vingt-cinq grammes) sur une créature [[pétrifié|pétrifiée]], celle-ci est ramenée à la vie (comme le sort *[[transmutation de la pierre en chair]]*). À l’inverse, si une créature de chair et de sang s’en enduit la peau, elle bénéficie de l’équivalent du sort *[[peau de pierre]]*.
+Deux usages peuvent être faits de cet onguent. Si on en applique une dose (soit vingt-cinq grammes) sur une créature [[pétrifié|pétrifiée]], celle-ci est ramenée à la vie (comme le sort *[[transmutation de la pierre en chair]]*). À l’inverse, si une créature de chair et de sang s’en enduit la peau, elle bénéficie de l’équivalent du sort *[[peau de pierre]]*.  
 Le prix indiqué est pour une dose.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[peau de pierre]]*, *[[transmutation de la pierre en chair]]* ; **Coût** 2 000 po par dose

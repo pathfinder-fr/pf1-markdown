@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Sceptre du serpent d'eau|{s:RSE}}
 **Aura** [[Illusion]] et [[Transmutation]] modérées ; **NLS** 10 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 20 000 po ; **Poids**  5 kg
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce lourd sceptre ressemble à la tête d’Apep, le serpent d’eau aux longs crochets, le serpent primordial, le perfide, le dévoreur et le destructeur du soleil, de la lumière et de la vie. Le personnage peut utiliser le sceptre comme une *[[masse darmes lourde (arme)|masse d’armes lourde]] +1* et, s’il est Chaotique, il peut activer ses pouvoirs supplémentaires.
 
 Il bénéficie de la [[Vision dans le noir (capacité)|vision dans le noir]] à 9 mètres tant qu’il tient le sceptre. Une fois par jour, il peut l’utiliser pour créer d’étranges dessins d’ombre qui agissent comme des *[[lueurs hypnotiques]]* ([[Volonté]] [[DD]] 13 pour annuler). Ces ombres agissent aussi comme une *[[dissipation de la magie]]* vis-à-vis de tous les sorts du registre de la [[registre|lumière]] actifs dans la zone d’effet.

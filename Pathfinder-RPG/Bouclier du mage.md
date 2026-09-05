@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Bouclier du mage|{s:AE}}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 11 ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 14 500 po ; **Poids** 2,5 kg
 (((Caractéristiques)))
-**Alignement** N ; **Sens** 9 m
-**Intelligence** 16 ; **Sagesse** 10 ; **Charisme** 10 ; **Ego** 6
+**Alignement** N ; **Sens** 9 m  
+**Intelligence** 16 ; **Sagesse** 10 ; **Charisme** 10 ; **Ego** 6  
 **Langues** télépathie (commun et 6 autres langues)
 (((Description)))
 Ce [[bouclier des arcanes]] dispose toujours d’un [[parchemins magiques|parchemin profane]] et connaît les mêmes sorts de magie profane que son propriétaire. Quand il lance le sort de son parchemin, un nouveau parchemin se matérialise pour le remplacer, sur lequel est inscrit un sort aléatoire connu du propriétaire du bouclier. Le bouclier n’occasionne aucun risque d’échec des sorts profanes. Il peut aussi lancer *[[lecture de la magie]]*. Il débat souvent avec son propriétaire pour le pousser à adopter la conduite la plus dévastatrice possible mais il fait tout de même ce qu’on lui ordonne.

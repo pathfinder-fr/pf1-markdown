@@ -13,7 +13,7 @@ Categories:
 ---
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[créer un sort#MAL|Mal]]<nowiki>]</nowiki> ;
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[créer un sort#MAL|Mal]]<nowiki>]</nowiki> ; 
 **Niveau** [[Antipaladin|Apal]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
 **Temps d'incantation** 1 heure  
 **Composantes** [[Composantes|V, G, M]] (un onyx d’une valeur minimum de 10 po)  
@@ -22,33 +22,33 @@ Categories:
 **Durée** permanente (T) ; voir description  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-Le lanceur de sorts restaure ses sens à une tête tranchée d’humanoïde ou
-d’humanoïde monstrueux tué au cours des dernières 24 heures, créant une
-sentinelle macabre. La tête doit être attachée à un bâton, une lance, une
-branche d’arbre ou un autre objet stable, et le sort se termine si la tête
-ou l’objet est déplacé. La tête a [[vision dans le noir]] à 18 mètres et
-[[vision nocturne]],
-elle peut pivoter sur place pour regarder dans n’importe quelle
-direction, et elle a un bonus de +5 à ses tests de [[Perception]]. Si le
-lanceur
-est dans un rayon de 9 mètres de la tête, il peut, par une [[action simple]],
-déplacer ses sens jusqu’à la tête, voyant et entendant de sa position et
-bénéficiant de sa vision dans le noir et de sa vision nocturne, et il peut
-utiliser la compétence de [[Perception]] de la tête plutôt que la sienne.
-Tandis
-que ses sens sont dans la tête tranchée, son corps est aveugle et sourd
-jusqu’à ce qu’il dépense une [[action libre]] pour ramener ses sens jusqu’à
-son
-propre corps. Lorsque le lanceur crée la tête, il peut y intégrer une
-condition de déclenchement, similaire à [[bouche magique]]. Une fois ce
-déclencheur installé, il ne peut plus être changé. Si le lanceur est dans
-un rayon de 9 mètres de la tête, il sait immédiatement si elle a été
-déclenchée (s’il a plusieurs crânes de sentinelle actifs, il sait également
-lequel a été déclenché). Ceci réveille le lanceur d’un sommeil normal, mais
-ne perturbe pas sa concentration. Par exemple, le lanceur peut s’arranger
-pour qu’un crâne de sentinelle l’alerte si un humanoïde entre dans son champ
-de vision, si un ennemi particulier approche, si son animal de garde est
-tué, etc. tant que cela se passe là où la tête tranchée peut le voir. Ce
-sort ne donne pas à la tête la capacité de parler, de penser ou
-d’entreprendre d’autres actions que de pivoter sur elle-même, mais elle
+Le lanceur de sorts restaure ses sens à une tête tranchée d’humanoïde ou 
+d’humanoïde monstrueux tué au cours des dernières 24 heures, créant une 
+sentinelle macabre. La tête doit être attachée à un bâton, une lance, une 
+branche d’arbre ou un autre objet stable, et le sort se termine si la tête 
+ou l’objet est déplacé. La tête a [[vision dans le noir]] à 18 mètres et 
+[[vision nocturne]], 
+elle peut pivoter sur place pour regarder dans n’importe quelle 
+direction, et elle a un bonus de +5 à ses tests de [[Perception]]. Si le 
+lanceur 
+est dans un rayon de 9 mètres de la tête, il peut, par une [[action simple]], 
+déplacer ses sens jusqu’à la tête, voyant et entendant de sa position et 
+bénéficiant de sa vision dans le noir et de sa vision nocturne, et il peut 
+utiliser la compétence de [[Perception]] de la tête plutôt que la sienne. 
+Tandis 
+que ses sens sont dans la tête tranchée, son corps est aveugle et sourd 
+jusqu’à ce qu’il dépense une [[action libre]] pour ramener ses sens jusqu’à 
+son 
+propre corps. Lorsque le lanceur crée la tête, il peut y intégrer une 
+condition de déclenchement, similaire à [[bouche magique]]. Une fois ce 
+déclencheur installé, il ne peut plus être changé. Si le lanceur est dans 
+un rayon de 9 mètres de la tête, il sait immédiatement si elle a été 
+déclenchée (s’il a plusieurs crânes de sentinelle actifs, il sait également 
+lequel a été déclenché). Ceci réveille le lanceur d’un sommeil normal, mais 
+ne perturbe pas sa concentration. Par exemple, le lanceur peut s’arranger 
+pour qu’un crâne de sentinelle l’alerte si un humanoïde entre dans son champ 
+de vision, si un ennemi particulier approche, si son animal de garde est 
+tué, etc. tant que cela se passe là où la tête tranchée peut le voir. Ce 
+sort ne donne pas à la tête la capacité de parler, de penser ou 
+d’entreprendre d’autres actions que de pivoter sur elle-même, mais elle 
 fait une cible parfaite pour d’autres sorts tels que [[bouche magique]].

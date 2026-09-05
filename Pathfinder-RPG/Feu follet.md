@@ -64,7 +64,7 @@ potence ou se rendent invisibles et suivent des armées afin
 de collecter les peurs des mourants. En fait, on ne sait
 pas pourquoi la majorité d’entre eux choisissent
 de rester dans les marais où les victimes sont
-plutôt rares.
+plutôt rares. 
 
 Les feux follets n’utilisent leur capacité de choc électrique qu’en
 dernier recours : ils préfèrent laisser
@@ -84,7 +84,7 @@ pour former des silhouettes. Bon
 nombre d’entre eux aiment afficher
 des formes ressemblant vaguement à des
 crânes afin d’intensifier la terreur que
-leurs victimes ressentent.
+leurs victimes ressentent. 
 
 Leurs corps sont
 en fait des globes difficilement visibles constitués
@@ -101,7 +101,7 @@ puisse paraître étrange. Ils se rassemblent parfois en groupes
 appelés « chapelets » mais les rouages de leur société, leurs buts et
 leurs origines restent un mystère pour les autres races. Ils passent
 parfois des marchés avec ceux qui peuvent leur offrir un grand
-nombre de victimes suffisamment effrayées.
+nombre de victimes suffisamment effrayées. 
 
 Comme les feux follets ne vieillissent pas et sont pratiquement immortels (à moins
 d’être tués de manière violente), les spécimens les plus anciens

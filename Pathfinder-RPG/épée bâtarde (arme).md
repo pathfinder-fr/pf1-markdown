@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 35 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}**Prix** 35 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#21|→]] Épée bâtarde : Est-ce une arme à une main ou une arme à deux mains ?***
 
 Une <u>[[épée bâtarde (arme)|épée bâtarde]]</u> est une arme à une main (bien que pour certaines règles elle brouille la limite entre une arme à une main et une arme à deux mains).

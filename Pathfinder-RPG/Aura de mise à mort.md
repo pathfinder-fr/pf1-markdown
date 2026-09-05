@@ -11,27 +11,27 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[prêtre|Prê]] 4, [[sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 6 m (4 {s:c})
-**Zone** émanation de 6 m (4 {s:c}) de rayon centrée sur le personnage
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[prêtre|Prê]] 4, [[sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 6 m (4 {s:c})  
+**Zone** émanation de 6 m (4 {s:c}) de rayon centrée sur le personnage  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 L’aura grise scintillante qui entoure le personnage se nourrit des âmes des créatures qui meurent en son sein et émet autant de lumière qu’une [[Bougie (objet)|bougie]]. Si une créature se trouve à -1 point de vie ou moins dans l’aura au début de son tour, elle doit réussir un [[jds|jet de sauvegarde]] ou mourir, conférant au personnage les avantages d’une *[[mise à mort]]*.
 
 
 
 ((({s:sortssimilaires|aura de mise à mort}
 ## [[Aura de mise à mort suprême]]
-{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[prêtre|Prê]] 6, [[sorcière|Sor]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 6 m (4 {s:c})
-**Zone** émanation de 6 m (4 {s:c}) de rayon centrée sur le personnage
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[prêtre|Prê]] 6, [[sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 6 m (4 {s:c})  
+**Zone** émanation de 6 m (4 {s:c}) de rayon centrée sur le personnage  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[aura de mise à mort]]*, à l’exception du fait qu’une créature [[mourant|mourante]] qui se trouve dans la zone ne peut pas se stabiliser seule et subit automatiquement 1 point de dégât de [[saignement]] lors de son tour à chaque round. Un [[type Mort-vivant|mort-vivant]] intangible ou un esprit vivant voyageant en dehors de son corps (comme dans le cas d’une personne utilisant *[[projection astrale]]* ou *[[possession]]*) et situé dans la zone d’effet de l’aura au début de son tour subit 1d8 points de dégâts.
 )))

@@ -13,7 +13,7 @@ Categories:
 
 #### Agile (Ext)
 
-Le casse-cou ajoute la moitié de son [[Pathfinder-RPG.niveau|niveau]] de classe (1 au minimum) à ses tests d’[[Pathfinder-RPG.Acrobaties|Acrobaties]], de [[Pathfinder-RPG.Bluff|Bluff]], d’[[Pathfinder-RPG.Escalade|Escalade]] et d’[[Pathfinder-RPG.évasion|Évasion]]. Ce pouvoir remplace [[Pathfinder-RPG.barde|savoir bardique]].
+Le casse-cou ajoute la moitié de son [[Pathfinder-RPG.niveau|niveau]] de classe (1 au minimum) à ses tests d’[[Pathfinder-RPG.Acrobaties|Acrobaties]], de [[Pathfinder-RPG.Bluff|Bluff]], d’[[Pathfinder-RPG.Escalade|Escalade]] et d’[[Pathfinder-RPG.évasion|Évasion]]. Ce pouvoir remplace [[Pathfinder-RPG.barde|savoir bardique]]. 
 
 
 #### Représentation bardique

@@ -8,7 +8,7 @@ LastModified: 2024-05-31 11:02
 {s:BDTitre|Sandales réactives|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 4 000 po ; **Poids** 0.5 kg
 (((Description)))
-Ces sandales de cuir souple confèrent un sursaut de vitesse en cas de besoin. Lorsque leur porteur agit pendant un [[round]] de surprise, il peut effectuer une [[action simple]] et une [[action de mouvement]]. S’il peut déjà agir de la sorte, il gagne à la place un bonus de circonstance de +3 mètres à sa vitesse de déplacement pendant le [[Déroulement dun combat#SURPRISE|round de surprise]].
+Ces sandales de cuir souple confèrent un sursaut de vitesse en cas de besoin. Lorsque leur porteur agit pendant un [[round]] de surprise, il peut effectuer une [[action simple]] et une [[action de mouvement]]. S’il peut déjà agir de la sorte, il gagne à la place un bonus de circonstance de +3 mètres à sa vitesse de déplacement pendant le [[Déroulement dun combat#SURPRISE|round de surprise]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[anticipation du danger]]*, *[[rapidité]]* ; **Coût** 2 000 po
 </div>

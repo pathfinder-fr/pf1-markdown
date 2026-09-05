@@ -53,7 +53,7 @@ points de vie temporaires et un bonus de moral de +4 à leur jets de
 sauvegarde contre la terreur pendant 12 heures. Les créatures affectées
 subissent également un malus de -4 aux jets de [[Volonté]] (ce malus ne
 s’appliquent pas aux jets de sauvegarde contre la terreur) et auront
-tendance à se laisser aller à la débauche, aux excès et à la violence.}
+tendance à se laisser aller à la débauche, aux excès et à la violence.} 
 {s:BDTexte|**Poison (Ext).** Morsure – blessure ; *JdS* [[Vigueur]] [[DD]] 19 ; *fréquence* 1/round
 pendant 6 rounds ; *effet* 1d3 [[Constitution|Con]] ; guérison 2 réussites consécutives}
 </div>

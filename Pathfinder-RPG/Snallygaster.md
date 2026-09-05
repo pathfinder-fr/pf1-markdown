@@ -43,13 +43,13 @@ Le snallygaster est une affreuse créature ayant l’aspect d’un oiseau et d�
 grotesquement dès que la créature les sort de sa gueule.
 
 Un snallygaster typique mesure 2,70 mètres depuis le bout de la queue jusqu’à l’extrémité du bec, pour une envergure de 4,50
-mètres et un poids approximatif de 100 kilogrammes.
+mètres et un poids approximatif de 100 kilogrammes. 
 
-Le snallygaster est un prédateur embusqué qui attaque ses proies depuis une position surélevée. Lorsqu’il repère une victime potentielle et inconsciente du danger, il plonge sur elle et profite de son élan pour renforcer la puissance de son attaque. Le snallygaster utilise ses tentacules en guise de langue pour aspirer bruyamment le sang de ses victimes, une fois celles-ci mortes ou inconscientes.
+Le snallygaster est un prédateur embusqué qui attaque ses proies depuis une position surélevée. Lorsqu’il repère une victime potentielle et inconsciente du danger, il plonge sur elle et profite de son élan pour renforcer la puissance de son attaque. Le snallygaster utilise ses tentacules en guise de langue pour aspirer bruyamment le sang de ses victimes, une fois celles-ci mortes ou inconscientes. 
 
 L’alcool est la seule chose qu’un snallygaster apprécie davantage que le sang et, chaque automne, il passe la plupart de son temps à fouiller son territoire à la recherche de fruits fermentés dont il se repaît jusqu’à l’ébriété. Les snallygasters saouls sont extrêmement agressifs.
 
 Les snallygasters préfèrent nicher dans les régions montagneuses et boisées. Ils sont principalement actifs durant la journée
-qu’ils passent à chercher de la nourriture ou à effrayer leurs rivaux.
+qu’ils passent à chercher de la nourriture ou à effrayer leurs rivaux. 
 Qu’elle trouve un mâle ou non, un snallygaster femelle pond un ou deux oeufs par an.
 </div></td></tr></table>

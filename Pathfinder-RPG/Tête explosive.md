@@ -14,7 +14,7 @@ Categories:
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  
 **Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-**Cible** Une créature corporelle vivante  
+**Cible** Une créature corporelle vivante   
 **Durée** instantanée  
 **Jet de sauvegarde** Spécial (voir le texte) ; **Résistance à la magie** oui
 

@@ -24,7 +24,7 @@ Ils considèrent les nains et les elfes comme des rivaux mortels. Ils craignent 
 
 **Aventuriers.** Les kobolds quittent rarement leurs confortables terriers volontairement. La plupart de ceux qui partent à l’aventure sont les derniers de leur tribu, et ces individus se réinstallent dès qu’ils trouvent une autre communauté de kobolds prête à les accueillir. Les kobolds qui ne peuvent pas réfréner, ou du moins dissimuler, leur méchanceté et leur malice ont beaucoup de mal à survivre dans le reste du monde.
 
-**Noms masculins.** Draahzin, Éadoo, Ipmeerk, Jamada, kib, Makroo, Olp, Yraalik, Zornesk.
+**Noms masculins.** Draahzin, Éadoo, Ipmeerk, Jamada, kib, Makroo, Olp, Yraalik, Zornesk.  
 **Noms féminins.** Adriaak, Harkail, Neeral, Ozula, Poro, Saassraa, Tarka.
 
 {s:Reference|TRAITSSTANDARDS}

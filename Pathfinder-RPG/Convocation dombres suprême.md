@@ -9,28 +9,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** voir texte
-**Effet** voir texte
-**Durée** voir texte
+**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** voir texte  
+**Effet** voir texte  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; variable (voir texte) ; **Résistance à la magie** oui (voir texte)
----
+<hr />
 Ce sort s’apparente à *[[convocation dombres|convocation d’ombres]]*, à la différence qu’il permet de reproduire les [[invocation|invocations]] d’[[ensorceleur]] ou de [[magicien]] jusqu’au 6e [[niveau de sort|niveau]] et que les créatures, objets ou effets magiques qu’il permet de créer ont 60 % de leur potentiel habituel (au lieu de 20 % seulement).
 
 
 
 (((
 ## Convocation d'ombres
-**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** voir texte
-**Effet** voir texte
-**Durée** voir texte
+**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** voir texte  
+**Effet** voir texte  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; variable (voir texte) ; **Résistance à la magie** oui (voir texte)
----
+<hr />
 Cette [[illusion]] permet d’invoquer la matière même du [[plan de lombre|plan de l’Ombre]] afin de donner naissance à un ou plusieurs êtres, objets ou effets magiques. Grâce à *Convocation d’ombres* il est possible de reproduire l’effet de n’importe quel sort d’[[invocation]] ([[convocation]]) ou d’[[invocation]] ([[création]]) du 3e [[Niveau de sort|niveau]] ou moins de [[magicien]] ou d’[[ensorceleur]].
 
 L’efficacité du résultat est fortement réduite (20 % de l’original seulement), mais les créatures persuadées de la réalité de l’[[illusion]] sont affectées de façon normale. Toute personne ayant la moindre interaction avec l’objet, l’effet magique ou la créature d’ombre peut lancer un jet de [[Volonté]]. S’il réussit, il prend conscience qu’il a affaire à une ombre.

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C et P ; **Spécial** —
+{s:AE}**Prix** 8 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C et P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Le morgenstern est une boule de métal à pointes montée sur un manche.

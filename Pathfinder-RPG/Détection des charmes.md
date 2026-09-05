@@ -20,11 +20,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1,  [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 18 m
-**Zone d'effet** émanation en forme de cône
+{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1,  [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 18 m  
+**Zone d'effet** émanation en forme de cône  
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/niveau (T)
 
 Fonctionne comme *[[détection de la magie]]* mais le personnage repère immédiatement la puissance et l’emplacement de l’aura de chaque effet de [[branche charme|charme]], de [[branche coercition|coercition]] ou de possession placé sur les créatures situées dans la zone. Il peut tenter d’[[Art de la magie|identifier les propriétés]] de chaque aura. En plus de repérer les victimes de ces effets, il peut voir si des créatures les utilisent sur autrui par une [[action simple]], avec un test de [[Psychologie]] [[DD]] 20 + [[NLS]]. S’il réussit, il a droit à un test d’[[Art de la magie]] pour identifier le type de magie utilisé (même si la cible ne se trouve pas dans la zone).

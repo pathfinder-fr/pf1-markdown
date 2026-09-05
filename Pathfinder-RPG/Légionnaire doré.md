@@ -7,11 +7,11 @@ Categories:
 - Src Paths of Prestige
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:PP}''Les gardes de la liberté sont les membres d'une branche de l'ordre des chevaliers de la liberté. Protecteurs principaux du Berceau de la liberté et de sa population, les gardes de la liberté sont souvent occupés à garder les frontières de leur nation et à surveiller les zones rurales les plus sauvages.
+{s:MenuClassesDePrestige}{s:cs}{s:PP}''Les gardes de la liberté sont les membres d'une branche de l'ordre des chevaliers de la liberté. Protecteurs principaux du Berceau de la liberté et de sa population, les gardes de la liberté sont souvent occupés à garder les frontières de leur nation et à surveiller les zones rurales les plus sauvages. 
 
 À l'intérieur des frontières du Berceau de la liberté, les gardes de la liberté opèrent indépendamment aux côtés des forces armées de la nation, comme des membres d'unités militaires élites. Ces commandants et officiers extrêmement compétents s'adaptent aux besoins des différentes régions et ont tendance à développer alors des talents spécialisés pour contrer des menaces spécifiques trouvées dans ces régions particulières. Que ce soit des fées enragées dans les forêts, de fourbes kobolds cachés dans les cavernes ou de dangereux loups-garous rôdant dans les vallées de la région, tous menacent les gardes de la liberté et leur mission de protection de leur pays. Dans les villes et cités du Berceau de la liberté, des équipes de gardes de la liberté travaillent activement à déjouer les plans des espions et des agents appartenant à des puissances étrangères, tels que les empoisonneurs de l'Empire décadent, des diabolistes ou encore des chasseurs de primes.
 
-Avant tout, la mission de la légion de la liberté est la sécurité domestique. La légion forme extensivement ses soldats aux tactiques et stratégies défensives qui assureront la protection des habitants du Berceau de la liberté et des autres membres de la légion. Cela dit, un garde de la liberté classique fait toujours preuve d'audace et d'un grand courage et se mettra toujours entre ceux qu'il souhaite protéger et ses ennemis sans la moindre hésitation. Une embuscade ou une attaque injustifiée révolteront toujours un garde de la liberté et le pousseront à accomplir de grands actes altruistes de bravoure et des exploits audacieux. Même lorsqu'ils sont à des centaines de kilomètres de leur foyer, les gardes de la liberté utilisent leurs compétences et leurs talents au combat pour protéger leurs alliés et les idéaux de leur nation.
+Avant tout, la mission de la légion de la liberté est la sécurité domestique. La légion forme extensivement ses soldats aux tactiques et stratégies défensives qui assureront la protection des habitants du Berceau de la liberté et des autres membres de la légion. Cela dit, un garde de la liberté classique fait toujours preuve d'audace et d'un grand courage et se mettra toujours entre ceux qu'il souhaite protéger et ses ennemis sans la moindre hésitation. Une embuscade ou une attaque injustifiée révolteront toujours un garde de la liberté et le pousseront à accomplir de grands actes altruistes de bravoure et des exploits audacieux. Même lorsqu'ils sont à des centaines de kilomètres de leur foyer, les gardes de la liberté utilisent leurs compétences et leurs talents au combat pour protéger leurs alliés et les idéaux de leur nation. 
 
 Bien qu'une grande proportion des gardes de la liberté engagés viennent des rangs des militaires de l'armée du Berceau de la liberté, la légion recrute également un certain nombre de soldats peu conventionnels pour leurs compétences uniques. Les candidats doivent démontrer leur dévotion envers les idéaux d'égalité, de liberté et de justice prônés par le Berceau de la liberté tout en obtenant une recommandation écrite d'un supérieur de l'ordre des chevaliers de la liberté – ou alors, dans des circonstances particulières, la recommandation spéciale d'un membre du conseil législatif du Berceau de la liberté.''
 
@@ -151,10 +151,10 @@ Pour pouvoir devenir garde de la liberté, le personnage doit satisfaire aux con
 ### Compétences de classe
 Voici les compétences de la classe de garde de la liberté : [[Équitation]] (Dex), [[Escalade]] (For), [[Natation]] (For), [[Premiers secours]] (Sag), [[Survie]] (Sag).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe de garde de la liberté.
+Voici les caractéristiques de la classe de garde de la liberté. 
 #### Armes et armures
 Un garde de la liberté obtient la formation aux ports de toutes les armes courantes et des armes de guerre, ainsi que la formation au port de toutes les armures et tous les boucliers.
 
@@ -172,7 +172,7 @@ Un garde de la liberté obtient les dons bonus suivants au niveaux indiqués mê
 
 {s:reference|INTERCEPTER}
 #### Intercepter (Ext)
-Au niveau 2, un garde de la liberté obtient un bonus égal à la moitié de son niveau de classe aux tests de [[Manœuvres offensives|manœuvre offensive]] quand il utilise le don [[Immobiliser]] et il obtient le même bonus à son [[DMD]] lorsqu'un ennemi tente un test d'[[Acrobaties]] pour se déplacer à travers une case contrôlée par le garde de la liberté.
+Au niveau 2, un garde de la liberté obtient un bonus égal à la moitié de son niveau de classe aux tests de [[Manœuvres offensives|manœuvre offensive]] quand il utilise le don [[Immobiliser]] et il obtient le même bonus à son [[DMD]] lorsqu'un ennemi tente un test d'[[Acrobaties]] pour se déplacer à travers une case contrôlée par le garde de la liberté. 
 
 {s:reference|DEFENSEUNIFIEE}
 #### Défense unifiée (Ext)
@@ -184,11 +184,11 @@ Au niveau 3, si un garde de la liberté voit une créature à 18 m (12 {s:c}) ou
 
 {s:reference|SCIENCEDELAIDE}
 #### Aide supérieure (Ext)
-Au niveau 4, lorsqu'un garde de la liberté utilise l'action [[aider qqn|aider quelqu'un]] en combat avec succès, le bonus de l'allié à son [[jet dattaque|jet d'attaque]] ou à sa [[CA]] augmente de 1. Au niveau 9, ce bonus augmente encore de 1.
+Au niveau 4, lorsqu'un garde de la liberté utilise l'action [[aider qqn|aider quelqu'un]] en combat avec succès, le bonus de l'allié à son [[jet dattaque|jet d'attaque]] ou à sa [[CA]] augmente de 1. Au niveau 9, ce bonus augmente encore de 1. 
 
 {s:reference|TENIRLAPOSITION}
 #### Tenir la position (Ext)
-Au niveau 5, si une créature réalise un [[pas de placement]] pour sortir d'une case à la fois adjacente à un garde de la liberté et qu'il contrôle, ou si la créature se désengage de cette zone, la créature provoque une [[AO|attaque d'opportunité]] de la part du garde.
+Au niveau 5, si une créature réalise un [[pas de placement]] pour sortir d'une case à la fois adjacente à un garde de la liberté et qu'il contrôle, ou si la créature se désengage de cette zone, la créature provoque une [[AO|attaque d'opportunité]] de la part du garde. 
 
 {s:reference|FRAPPEPREVENTIVE}
 #### Frappe préventive (Ext)

@@ -17,7 +17,7 @@ Il existe plusieurs variantes de cet élixir luminescent et gargouillant. Chacun
 • Dragon d’airain : ligne de feu de 9 mètres de long. \
 • Dragon vert : cône d’acide de 4,50 mètres de long. \
 • Dragon rouge ou d’or : cône de feu de 4,50 mètres de long. \
-• Dragon blanc ou d’argent : cône de froid de 4,50 mètres de long.
+• Dragon blanc ou d’argent : cône de froid de 4,50 mètres de long. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[souffle de dragon]]* ; **Coût** 700 po
 </div>

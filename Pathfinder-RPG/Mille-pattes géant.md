@@ -56,18 +56,18 @@ Les mille-pattes géants s’attaquent à quasiment toutes les créatures
 vivantes à l’aide de leurs mandibules venimeuses. Ces créatures
 se sont adaptées à de nombreux environnements, où elles se
 nourrissent voracement de la faune locale (ce qui peut inclure des
-humanoïdes).
+humanoïdes). 
 
 On retrouve chez les mille-pattes géants les mêmes
 couleurs que chez leurs cousins de taille normale, avec un gamme
 allant des teintes pâles jusqu’aux oranges et rouges les plus vifs.
 Il existe aussi d’autres espèces de mille-pattes géants. Quelques-unes
-sont plus petites, mais la plupart sont bien plus grandes.
+sont plus petites, mais la plupart sont bien plus grandes. 
 
 Vous pouvez représenter un large éventail d’espèces de mille-pattes
 géants à partir des caractéristiques données ci-dessus, en ajustant
 leur nombre de dés de vie et leur taille (adaptez la [[Force]], la [[Dextérité]]
-et la [[Constitution]] en conséquence).
+et la [[Constitution]] en conséquence). 
 
 Les variantes les plus courantes sont reprises dans la table ci-dessous :
 

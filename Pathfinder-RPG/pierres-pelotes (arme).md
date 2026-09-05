@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 1 pa ; **Poids** 2 kg
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 1 pa ; **Poids** 2 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 Ces boules denses de fibres élastiques infligent des dégâts [[Blessures et mort#NONLETAL|non létaux]] lorsqu’elles sont lancées à la [[fronde (arme)|fronde]].

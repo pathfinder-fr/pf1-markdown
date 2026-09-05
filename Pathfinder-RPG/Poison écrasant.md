@@ -12,12 +12,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Prêtre|Prê]] 6, [[Rôdeur|Rôd]] 4, [[Sorcière|Sor]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un croc de vipère)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** une créature ou une dose de poison ; voir description
-**Durée** 10 minutes/niveau
+{s:cs}{s:UI}**École**  [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Prêtre|Prê]] 6, [[Rôdeur|Rôd]] 4, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un croc de vipère)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** une créature ou une dose de poison ; voir description  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort augmente la virulence de la dose de poison ciblée, afin qu'il soit plus difficile d'y résister. Le poison n'est pas affecté par *[[ralentissement du poison]]*, et le [[DD]] pour le supprimer grâce à *[[neutralisation du poison]]* est augmenté de 5. De plus, le poison en lui-même utilise soit son propre DD, soit celui de *poison écrasant*, selon le plus élevé.

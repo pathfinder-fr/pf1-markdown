@@ -127,7 +127,7 @@ LastModified: 2026-07-19 17:41
 <li>[[Ninja|Le ninja]] *([[astuces|astuces de ninja]])*</li>
 <li>[[Oracle|L'oracle]] *([[mystères]], [[malédictions doracle|malédictions]])*</li>
 <li>[[Pistolier|Le pistolier]] *([[exploits|exploits de pistolier]])*</li>
-<li>[[Samouraï|Le samouraï]] *([[ordres|ordres pour samouraï]])*</li>
+<li>[[Samouraï|Le samouraï]] *([[ordres|ordres pour samouraï]])*</li> 
 <li>[[Sorcière|La sorcière]] *([[maléfices]], [[protecteurs]])*</li>
 </ul></li>
 <li>{s:PM|CLASSESHYBRIDES}Les classes hybrides

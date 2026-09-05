@@ -44,13 +44,13 @@ Tant que les poussières restent collées sur une créature, les effets d’invo
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature reptilienne efflanquée est couverte de longues piques sur le torse, les pattes et même sur sa tête de chauve-souris. Elle possède deux larges ailes.*
 
-Les sages pensent que les drakes des tertres doivent leur silhouette eff lanquée et leurs ailes miteuses aux siècles passés dans des terres ravagées par la magie et des zones désolées et maudites. Ils affirment que la souillure des lieux s’est infiltrée dans leur chair, dans leurs os et dans chaque couvée et que cette déliquescence s’est ainsi transmise de génération en génération. Pourtant, même si les drakes des tertres ont une apparence quelque peu f létrie, ils sont aussi forts et aussi féroces que les autres drakes.
+Les sages pensent que les drakes des tertres doivent leur silhouette eff lanquée et leurs ailes miteuses aux siècles passés dans des terres ravagées par la magie et des zones désolées et maudites. Ils affirment que la souillure des lieux s’est infiltrée dans leur chair, dans leurs os et dans chaque couvée et que cette déliquescence s’est ainsi transmise de génération en génération. Pourtant, même si les drakes des tertres ont une apparence quelque peu f létrie, ils sont aussi forts et aussi féroces que les autres drakes. 
 
 Ils sont d’une intelligence remarquable pour des membres de leur espèce et montrent une grande curiosité vis-à-vis des objets
 magiques et de la magie en général. Ils aiment beaucoup collectionner ces objets, même quand ils ne savent pas s’en servir. Comme ils sont incapables de détecter la magie, ils sillonnent souvent leur domaine, en quête d’objets susceptibles de renfermer quelque magie et collectionnent toutes sortes d’outils et d’objets étranges qu’ils exhibent fièrement, afin de se vanter de leur collection devant les autres drakes (qui, jaloux, tentent souvent de piller ou de détruire les collections de leurs rivaux). Les drakes des tertres demandent souvent un tribut aux caravanes et aux marchands qui traversent leur territoire ou passent non loin. Ils laissent parfois leurs adversaires s’enfuir en échange d’un objet magique. Pourtant,
 ces drakes ne sont pas aussi intelligents qu’ils le croient et on peut facilement les tromper en leur faisant croire qu’un objet est magique en le nimbant d’un effet temporaire.
 
-En revanche, les drakes des tertres qui parviennent à récupérer de véritables objets magiques s’en servent efficacement, que ce soit pour attaquer ou pour se défendre, selon les capacités de l’objet. Ils adorent faire étalage de leurs dernières acquisitions.
+En revanche, les drakes des tertres qui parviennent à récupérer de véritables objets magiques s’en servent efficacement, que ce soit pour attaquer ou pour se défendre, selon les capacités de l’objet. Ils adorent faire étalage de leurs dernières acquisitions. 
 
 Un drake des tertres mesure généralement dans les cinq mètres cinquante de long pour un poids de huit cent cinquante kilos.
 

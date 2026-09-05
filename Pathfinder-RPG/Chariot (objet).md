@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po (léger), 100 po (intermédiaire), 200 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 2 cp (lourd)
+{s:AE}**Prix** 50 po (léger), 100 po (intermédiaire), 200 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 2 cp (lourd)  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 Ce véhicule ouvert à quatre roues sert à transporter des chargements lourds. Il est livré avec un harnais permettant de le tracter. Il existe trois types courants de chariots.  
   
 *Chariot léger.* Les chariots de ce type sont surtout utilisés par les fermiers et les artisans qui transportent leurs marchandises sur de courtes distances ou par les marchands à l’intérieur ou à proximité des villes.  

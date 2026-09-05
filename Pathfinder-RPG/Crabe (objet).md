@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 2,5–3,5 kg
+{s:AE}**Prix** 20 po ; **Poids** 2,5–3,5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Les lanceurs de sorts marins trouvent souvent que les grands crabes des océans font des [[Familiers]] agréables. Néanmoins, sans le lien de familier, ces crustacés dépourvus d’intelligence sont des animaux de compagnie sans intérêt. Voir les statistiques du [[crabe royal]].

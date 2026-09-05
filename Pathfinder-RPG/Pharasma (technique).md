@@ -36,33 +36,33 @@ Ramasser de petits os chaque fois que c'est possible et respectueux. Au moment d
 : **3.** ***Ancré au monde matériel (Ext).*** Le personnage s'accroche férocement à la vie - il retournera au royaume de Pharasma quand elle l'appellera et pas avant. Une fois par jour, le personnage peut entrer dans un état de détermination qui dure 1 minute. Dans cet état, il peut tomber à un nombre de points de vie négatifs égal à 10 + sa valeur de [[Constitution]] avant de mourir. S'il tombe en points de vie négatifs alors qu'il est en état de détermination, il peut continuer à agir normalement, et il ne saigne pas à chaque round à cause de ses actions. Si l'état de détermination du personnage se termine alors qu'il a encore un nombre de points de vie négatifs supérieur ou égal à sa valeur de Constitution, il meurt instantanément. Si l'état de détermination du personnage se termine alors qu'il a encore des points de vie négatifs, mais que le nombre de points de vie négatifs n'est pas supérieur ou égal à sa valeur de Constitution, il tombe [[inconscient]] et devient [[mourant]] comme à l'accoutumée.
 
 ### Règles uniques aux suivants
-**Capacités de classe.**
+**Capacités de classe.**  
 • Puisque Pharasma méprise les morts-vivants, les [[Prêtre|prêtres]] pharasmites qui choisissent le [[domaine de la Mort]] remplacent les sorts de domaine *[[animation des morts]]* par *[[communication avec les morts]]*, *[[création de mort-vivant]]* par *[[coquille antivie]]*, et *[[création de mort-vivant dominant]]* par *[[symbole de mort]]*.
 • Les [[Prêtre|prêtres]] du [[Domaine du Repos|sous-domaine des  mes]] remplacent le sort de domaine *[[animation des morts]]* par *[[communication avec les morts]]*.
 
-**Lancement de sorts ([[adepte]]/[[barde]]/[[ensorceleur]]/[[magicien]]/[[rôdeur]]).**
-• *[[Augure]]* peut être préparé comme  un sort de 2e niveau.
-• *[[Communication avec les morts]]* peut être préparé comme  un sort de 3e niveau.
+**Lancement de sorts ([[adepte]]/[[barde]]/[[ensorceleur]]/[[magicien]]/[[rôdeur]]).**  
+• *[[Augure]]* peut être préparé comme  un sort de 2e niveau.  
+• *[[Communication avec les morts]]* peut être préparé comme  un sort de 3e niveau.  
 • *[[Mise à mort]]* peut être préparé comme  un sort de 2e niveau.
 
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Augure]]* peut être préparé comme  un sort de 2e niveau.
-• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau.
-• *[[Moment de prescience]]* peut être préparé comme  un sort de 6e niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Augure]]* peut être préparé comme  un sort de 2e niveau.  
+• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau.  
+• *[[Moment de prescience]]* peut être préparé comme  un sort de 6e niveau.  
 • *[[Simulacre de vie]]* peut être préparé comme  un sort de 2e niveau.
 
-**Lancement de sorts ([[oracle]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau.
-• *[[Moment de prescience]]* peut être préparé comme  un sort de 8e niveau.
+**Lancement de sorts ([[oracle]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau.  
+• *[[Moment de prescience]]* peut être préparé comme  un sort de 8e niveau.  
 • *[[Simulacre de vie]]* peut être préparé comme  un sort de 2e niveau.
 
-**Convocations étendues.**
-• *[[Convocation dalliés naturels I|Convocation d'alliés naturels I]].* [[Aigle|Engoulevent]] -  (utilise les statistiques de l'aigle)
-• *[[Convocation de monstres I]].* [[Aigle|Engoulevent]] (utilise les statistiques de l'aigle)
-• *[[Convocation de monstres III]].* [[Nosoï]]
+**Convocations étendues.**  
+• *[[Convocation dalliés naturels I|Convocation d'alliés naturels I]].* [[Aigle|Engoulevent]] -  (utilise les statistiques de l'aigle)  
+• *[[Convocation de monstres I]].* [[Aigle|Engoulevent]] (utilise les statistiques de l'aigle)  
+• *[[Convocation de monstres III]].* [[Nosoï]]  
 • *[[Convocation de monstres VI]].* [[Vanth]]
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

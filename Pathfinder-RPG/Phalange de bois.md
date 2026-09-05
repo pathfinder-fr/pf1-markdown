@@ -19,5 +19,5 @@ Categories:
 **Durée** 1 heure/[[niveau]] (T)  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage crée 1d4+2 [[Golem de bois|golems de bois]] avec
+Le personnage crée 1d4+2 [[Golem de bois|golems de bois]] avec 
 l’[[archétypes simples#CREATUREEVOLUEE|archétype évolués]]. Les [[Golem de bois|golems]] aident volontiers le personnage lors d’un combat ou d’une bataille, accomplissent une mission pour lui ou lui servent de gardes du corps. Le personnage ne peut avoir qu’une *phalange de bois* active à la fois. S’il lance de nouveau ce sort alors qu’une version précédente fait encore effet, cette ancienne version se dissipe.

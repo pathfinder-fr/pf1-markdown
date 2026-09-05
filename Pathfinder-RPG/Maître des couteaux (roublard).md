@@ -14,7 +14,7 @@ Categories:
 Un maître des couteaux ajoute 1/2 [[niveau]] à ses tests d’[[Escamotage]] quand il cache une lame légère. Ce pouvoir remplace [[recherche des pièges]].
 
 #### Coup sournois (Ext)
-Le maître des couteaux concentre tout son art de l’[[attaque sournoise]] dans les dagues et armes similaires, ce qui lui permet d’infliger plus de dégâts avec elles au détriment des autres. Quand il réussit une attaque sournoise avec une dague, une dague brise-épée, une dague coup-de-poing, un kérambit, un kukri ou une lamétoile, il utilise des d8 pour faire les dégâts d’attaque sournoise et non des d6. Pour toute les autres armes, les attaques sournoises infligent des d4 à la place de d6.
+Le maître des couteaux concentre tout son art de l’[[attaque sournoise]] dans les dagues et armes similaires, ce qui lui permet d’infliger plus de dégâts avec elles au détriment des autres. Quand il réussit une attaque sournoise avec une dague, une dague brise-épée, une dague coup-de-poing, un kérambit, un kukri ou une lamétoile, il utilise des d8 pour faire les dégâts d’attaque sournoise et non des d6. Pour toute les autres armes, les attaques sournoises infligent des d4 à la place de d6.  
 À part cela, ce pouvoir fonctionne comme l’[[attaque sournoise]] et la remplace.
 
 #### Perception des lames (Ext)

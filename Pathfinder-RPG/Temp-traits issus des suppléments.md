@@ -22,7 +22,7 @@ Pour ces traits, je vous demande d'indiquer la source et la page si possible
 - ceux qui sont parus dans **des suppléments en VO et pas encore traduits par BBE**
 Pour ces traits, je vous demande d'indiquer la source et la page si possible, de reprendre le texte en vo entre des triples parenthèses en dessous de la traduction que vous proposerez en indiquant là aussi la source
 
-Le rangement se fera ensuite par ordre alphabétique dans les différents types de dons.
+Le rangement se fera ensuite par ordre alphabétique dans les différents types de dons. 
 
 Pour le format, je suggère de mettre le bénéfice mécanique en italiques pour le différencier de la phrase descriptive.
 
@@ -71,7 +71,7 @@ Source : Faction Guide, page 64
 
 - **Traqueur de la Société.** Grâce à l'expérience d'éclaireur du personnage, il maîtrise l'art de traquer une proie. *Il gagne un bonus de trait de +1 sur les tests d'initiative et un bonus de trait de +2 sur les tests de compétences de Survie lorsqu'il voyage en terrain connu. Ce bonus se cumule avec tous les autres qu'il a reçu de sa classe de prédilection.*
 
-(((Tracker of the Society (Ranger, Pathfinder Society): Thanks to your time as a Pathfinder, you’ve mastered the art of tracking. You gain a +1 trait bonus on Initiative checks and a +2 trait bonus on Survival skill checks made while traveling through any of your favored terrains. This is in addition to any bonuses you receive from your Favored Terrain class
+(((Tracker of the Society (Ranger, Pathfinder Society): Thanks to your time as a Pathfinder, you’ve mastered the art of tracking. You gain a +1 trait bonus on Initiative checks and a +2 trait bonus on Survival skill checks made while traveling through any of your favored terrains. This is in addition to any bonuses you receive from your Favored Terrain class 
 ability)))
 Source : Faction Guide, page 64
 

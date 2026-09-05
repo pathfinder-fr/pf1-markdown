@@ -15,7 +15,7 @@ Categories:
 
 **Conditions.** [[Science de la maîtrise du fouet]], [[Arme de prédilection]] (fouet), [[Maîtrise du fouet]], [[BBA]] +8
 
-**Avantage.** Le personnage manie son fouet si rapidement qu’il ne risque pas de le lâcher s’il rate une tentative de [[désarmement]] ou de [[croc-en-jambe]].
+**Avantage.** Le personnage manie son fouet si rapidement qu’il ne risque pas de le lâcher s’il rate une tentative de [[désarmement]] ou de [[croc-en-jambe]]. 
 
 De plus, il peut s’en servir pour faire une [[lutte]]. La lutte suit alors les règles habituelles, avec les modifications suivantes :
 - *Allonge.* Quand le personnage réussit un test de lutte et qu’il veut déplacer cette lutte, il n’est pas obligé d’[[attirer]] son adversaire à lui, il doit le garder à portée de son fouet mais se tenir lui-même hors de portée de cet adversaire.

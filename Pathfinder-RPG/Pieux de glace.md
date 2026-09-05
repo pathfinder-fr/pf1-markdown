@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Invocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un petit cristal en forme de stalagmite)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Effet** 1 pieu de glace/4 niveaux
-**Durée** instantanée
+{s:MMI}**École** [[Invocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un petit cristal en forme de stalagmite)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Effet** 1 pieu de glace/4 niveaux  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et voir texte ; **Résistance à la magie** non
 
 *Particulièrement apprécié des lanceurs de sorts à l'Enclave de la Reine-Sorcière, ce sort puissant peut interrompre les incantations des lanceurs de sorts, renverser les ennemis et stopper net les charges, même celles qui paraissent imparables.*

@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 po ; **Poids** —
+{s:cs}{s:AA}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Si elle est inhalée par le nez, cette poudre dorée à l'odeur de suie rend les mâles humanoïdes temporairement stériles sans affecter leurs performances. Une dose dure généralement 1 à 3 jours. Les utilisateurs à long terme de tabac à priser ont tendance à développer une légère teinte dorée, mais toujours perceptible, sur leurs dents et leurs ongles.

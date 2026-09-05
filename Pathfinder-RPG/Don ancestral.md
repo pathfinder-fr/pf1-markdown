@@ -9,11 +9,11 @@ Categories:
 - Sort prêtre 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde|Bard]] 4, [[prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F/FD]] (une effigie en pierre ou en métal de l’ancêtre du personnage)
-**Portée** personnelle
-**Cible** une arme magique
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde|Bard]] 4, [[prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F/FD]] (une effigie en pierre ou en métal de l’ancêtre du personnage)  
+**Portée** personnelle  
+**Cible** une arme magique  
 **Durée** 10 minutes/niveau
 
 La manifestation fantomatique d’un des ancêtres du personnage apparaît devant lui en portant une arme de son choix en main. L’arme peut être une arme courante, de guerre ou naine. Elle possède un bonus d’altération de +1 et une propriété spéciale d’arme (choisie par le personnage) avec un prix équivalent à celui d’un bonus de +1 (dans le cas d’une arme double, la propriété et le bonus d’altération s’appliquent uniquement sur l’une des extrémités de l’arme ; l’arme peut également posséder un bonus d’altération de +1 sur les deux extrémités, mais pas de propriété spéciale).

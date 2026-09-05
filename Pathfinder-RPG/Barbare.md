@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[pouvoirs de rage]].***
-***Voir la [[Barbare unchained|version unchained]] du barbare.***
+<div class="fright">***Voir aussi les [[pouvoirs de rage]].***  
+***Voir la [[Barbare unchained|version unchained]] du barbare.***  
 {s:PM0|barbares}**Voir les archétypes du barbare**&emsp;
 <li ID="barbares" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypebarbare}</li>
 </div>*Pour certains individus, tout n’est que rage. Que ce soit dans les coutumes de leur peuple, dans la fureur de leurs passions ou dans leurs cris de bataille, la seule chose qu’ils connaissent est le conflit. Il s’agit de sauvages, de mercenaires qui louent leurs services ou encore d’experts en techniques martiales violentes. Ce ne sont ni des soldats ni des guerriers professionnels mais des créatures entièrement dévouées à la bataille et au carnage, des esprits de la guerre. Ces combattants, connus sous le nom de barbares, font peu de cas de l’entraînement, de la préparation ou des règles d’affrontement. Seuls comptent pour eux le moment présent, les ennemis qui se tiennent devant eux et le fait de savoir que la mort pourrait les surprendre à tout moment. Ils possèdent un sixième sens pour le danger et sont suffisamment endurants pour supporter tout ce qui pourrait leur arriver. Ces combattants violents peuvent apparaître au sein de n’importe quelle communauté, qu’elle soit civilisée ou primitive, mais, dans les recoins sauvages du monde, des sociétés entières ont embrassé cette philosophie. C’est l’esprit originel des batailles qui se déchaîne dans le cœur des barbares : malheur à ceux qui affronteront leur rage.*

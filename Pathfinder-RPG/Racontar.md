@@ -11,12 +11,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 1, [[Psychiste|Psy]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** 1 rumeur
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 1, [[Psychiste|Psy]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** 1 rumeur  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** Volonté, annule (voir description) ; **Résistance à la magie** oui
 
 Le personnage énonce une courte anecdote ou un élément d'information en tant que composante verbale pour ce sort et traque son progrès à travers les rassemblements sociaux et les foules. Lorsqu'un individu qui a entendu la rumeur directement par le personnage la raconte dans la portée du sort, il brille d'une lueur argentée à travers les yeux du personnage, à part si la créature est déguisée (sauf si elle portait ce même déguisement au moment de l'incantation). Le personnage peut choisir de suivre la rumeur en choisissant une créature brillante à portée, auquel cas les créatures qui ont entendu la rumeur par le personnage ne brillent plus, et celles qui ont entendu la rumeur par la créature choisie se mettent à briller de cette même lueur argentée. Le personnage peut suivre l'évolution de la rumeur jusqu'à ce qu'il atteigne une créature qui a entendu la rumeur mais décide de ne pas la partager (ou la répète de façon incorrecte). La lueur n'identifie que les créatures qui ont entendu la même information énoncée au départ. Les changements mineurs dans la façon de raconter la rumeur n'interrompent pas la chaîne, mais si elle ne ressemble plus à l'énoncée de départ, la piste s'arrête et le sort se termine.

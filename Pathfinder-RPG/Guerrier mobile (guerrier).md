@@ -14,7 +14,7 @@ Categories:
 Au niveau 2, le personnage reçoit un bonus sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les effets visant à le [[paralysé|paralyser]], le ralentir ou l'[[enchevêtré|enchevêtrer]]. Ce bonus est de +1 au niveau 2, +1 par tranche de quatre niveaux au-delà du niveau 2. Cette capacité remplace [[guerrier#COURAGE|courage]].
 
 #### Attaque en saut (Ext).
-Au niveau 5, le guerrier reçoit un bonus à ses jets d'attaque et de dégâts, à condition qu'il aie parcouru au moins une case avant d'attaquer. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1, 2, 3 et 4]].
+Au niveau 5, le guerrier reçoit un bonus à ses jets d'attaque et de dégâts, à condition qu'il aie parcouru au moins une case avant d'attaquer. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1, 2, 3 et 4]]. 
 
 #### Attaque éclair (Ext).
 Au niveau 11, le personnage peut combiner une [[attaque à outrance]] et un mouvement unique. Il doit renoncer à l'attaque qui bénéficie de son [[BBA]] maximum, mais il peut porter celles qui lui restent à n'importe quel moment pendant son mouvement. Ce faisant, il provoque normalement des [[attaque dopportunité|attaques d'opportunités]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 3]].

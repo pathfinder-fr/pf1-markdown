@@ -14,28 +14,28 @@ Categories:
 ---
 
 {s:racial|Suli (race)|sulis|Illustrations/PNJ/Suli.jpg}{s:MR}
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|voir texte]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Sanguin|San]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée, voir texte
-**Durée** 24 heures ou fin de la durée ([[Présentation des sorts#DUREE|T]])
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|voir texte]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Sanguin|San]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée, voir texte  
+**Durée** 24 heures ou fin de la durée ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[transfert de sorts]]*, à la seule différence que le personnage transfère l’utilisation de sa capacité [[suli (race)|assaut élémentaire]] à la cible. La cible doit avoir un score d’[[Intelligence]] d’au moins 5 pour utiliser cette capacité. L’[[suli (race)|assaut élémentaire]] transféré fonctionne exactement comme celui du personnage, à la seule différence que la durée de la capacité est basée sur le [[niveau]] ou les [[dés de vie]] de la cible. Une fois que le personnage a [[Lancer des sorts|lancé ce sort]], il ne peut plus utiliser sa capacité [[suli (race)|assaut élémentaire]] tant que la durée du sort n’est pas terminée.
 
 
 
 (((
 ## Transfert de sorts
-**École** [[Évocation]] ; **Niveau** [[Chaman|Cham]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée, voir texte
-**Durée** [[Présentation des sorts#DUREE|permanente]] jusqu’à utilisation ([[Présentation des sorts#DUREE|T]])
+**École** [[Évocation]] ; **Niveau** [[Chaman|Cham]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée, voir texte  
+**Durée** [[Présentation des sorts#DUREE|permanente]] jusqu’à utilisation ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Au terme de l’incantation, le [[prêtre]] transfère à la créature de son choix un ou plusieurs sorts qu’il a préparés. Le bénéficiaire, qui doit avoir un minimum de 5 en [[Intelligence]] et de 9 en [[Sagesse]], peut alors lancer ces sorts comme s’il les avait préparés normalement. Le lanceur ne peut transmettre que des [[abjuration|abjurations]], des [[divination|divinations]] et des [[invocation|invocations]] ([[guérison]]) de cette manière. Le nombre de sorts transférés (et leur niveau) dépend uniquement du nombre de [[DV]] de la créature ; Le lanceur de sorts aura beau lancer *transfert de sorts* à plusieurs reprises il ne pourra pas dépasser cette limite.
 
 

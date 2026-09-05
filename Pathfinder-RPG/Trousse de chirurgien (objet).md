@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 400 po ; **Poids** 2 kg
+{s:AE}**Prix** 400 po ; **Poids** 2 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Ce robuste étui de cuir s'attache à la taille ou à la cuisse, ou se porte sur l'épaule. Il comprend une sacoche en cuir, une [[Trousse de premiers secours (objet)|trousse de premiers secours]], une bouteille de cognac, une *[[Potions magiques|potion]] de [[soins légers]]*, une fiole de [[Sels odorants (objet)|sels odorants]], 2 doses de [[Bonté de lalchimiste (objet)|bonté de l'alchimiste]], d'[[Anti-maladie (objet)|anti-maladie]], d'[[Antitoxine (objet)|antitoxine]], de [[Coagulant (objet)|coagulant]] et de [[Sirop apaisant (objet)|sirop apaisant]].

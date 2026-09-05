@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:09
 {s:BDTitre|Vareuse de sorcière ricaneuse|{s:AE}}
 **Aura** [[Enchantement]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 6.000 po ; **Poids** 1 kg
 (((Description)))
-Cette ample vareuse est ornée de fétiches et de trophées grotesques. Elle octroie un bonus de compétence de +2 aux tests d’[[Intimidation]]. Si le porteur est une [[sorcière]], elle gagne le [[sorcière#MALEFICE|maléfice]] de [[maléfices#Ricanement|ricanement]]. Si elle connaît déjà ce [[sorcière#MALEFICE|maléfice]], elle peut l’utiliser deux fois par jour par une [[action rapide]] au lieu d’une [[action de mouvement]].
+Cette ample vareuse est ornée de fétiches et de trophées grotesques. Elle octroie un bonus de compétence de +2 aux tests d’[[Intimidation]]. Si le porteur est une [[sorcière]], elle gagne le [[sorcière#MALEFICE|maléfice]] de [[maléfices#Ricanement|ricanement]]. Si elle connaît déjà ce [[sorcière#MALEFICE|maléfice]], elle peut l’utiliser deux fois par jour par une [[action rapide]] au lieu d’une [[action de mouvement]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], soit *[[fou rire]]*, soit maléfice de [[maléfices#Ricanement|ricanement]], le créateur doit posséder 5 rangs au moins en [[Intimidation]]  ; **Coût** 3.000 po
 </div>

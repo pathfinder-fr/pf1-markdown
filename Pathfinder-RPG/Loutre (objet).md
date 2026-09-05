@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 5 kg
+{s:AE}**Prix** 20 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces espiègles mammifères aquatiques sont utilisés comme [[Familiers]] ou dressés pour faire des tours comme animaux de compagnie. Les loutres sont étonnamment intelligentes et sont réputées pour se servir de pierres comme outils rudimentaires, par exemple pour ouvrir les coquilles de mollusques. Voir les statistiques de la [[loutre]].

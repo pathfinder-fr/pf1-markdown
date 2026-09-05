@@ -11,13 +11,13 @@ Categories:
 {s:BDTitre|Totem du Roi Gorille|{s:AE}}
 **Aura** [[Nécromancie]] et [[Transmutation]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 75 kg
 (((Caractéristiques)))
-**Alignement** CM ; **Sens** 9 m, ouïe et perception des vibrations, vision lucide
-**Intelligence** 7 ; **Sagesse** 14 ; **Charisme** 13 ; **Ego** 18
-**Langues** empathie
-**Dessein spécial** tuer tous les non-disciples du Roi Gorille
-**Pouvoirs magiques** *(NLS 20<sup>e</sup>, concentration +21)*
-: À volonté — *[[ennemi subconscient]]* ([[DD]] 20)
-: 1/jour — *[[réincarnation]]* ([[charau-ka]], cf.description)
+**Alignement** CM ; **Sens** 9 m, ouïe et perception des vibrations, vision lucide  
+**Intelligence** 7 ; **Sagesse** 14 ; **Charisme** 13 ; **Ego** 18  
+**Langues** empathie  
+**Dessein spécial** tuer tous les non-disciples du Roi Gorille  
+**Pouvoirs magiques** *(NLS 20<sup>e</sup>, concentration +21)*  
+: À volonté — *[[ennemi subconscient]]* ([[DD]] 20)  
+: 1/jour — *[[réincarnation]]* ([[charau-ka]], cf.description)  
 : 1/an — *[[réincarnation]]* ([[gorille sanguinaire]], cf. description)
 (((Description)))
 Plusieurs *totems du Roi Gorille* reposent cachés dans les profondeurs de l'étendue du Mwangi. Ce sont de dangereux artefacts créés par le seigneur-démon des bêtes. Chacun d’eux est un artefact [[Objets intelligents|intelligent]] qui fonctionne presque de manière autonome. Les totems irradient d’une aura qui oblige tous les non-disciples du Roi Gorille dans un rayon de 9 mètres à réussir un jet de [[Volonté]] [[DD]] 15 pour ne pas être paniqués pendant 1 [[round]]. Il s’agit d’un effet mental de terreur. Les totems peuvent également utiliser leurs propres pouvoirs magiques comme ils l’entendent, lançant souvent *[[ennemi subconscient]]* pour attaquer. À cause de leur taille et leur lien direct avec le seigneur démon, les autres créatures ont bien du mal à les utiliser. Quiconque souhaite se servir des pouvoirs d’un totem doit le toucher. Ceux qui ne sont pas des disciples Chaotiques Mauvais du Roi Gorille doivent alors se livrer à un [[objets intelligents#CONTRE|duel de volontés]] avec le totem afin de pouvoir utiliser ses pouvoirs pour la journée. Si une créature remporte la lutte, elle peut forcer le totem à utiliser ses pouvoirs. En outre, la créature est immunisée contre l’aura de panique du totem pendant 24 heures et le totem ne peut pas utiliser ses pouvoirs magiques contre elle de toute la journée.
@@ -26,7 +26,7 @@ Une fois par jour, le *totem du Roi Gorille* peut réincarner une unique créatu
 
 Quand un nouveau champion gorille sanguinaire est créé, il est investi du désir de retrouver le roi-gorille alors en place pour le défier dans un combat à mort : le survivant devient le roi-gorille pendant une année de plus. Comme pour tous les effets de réincarnation, la créature ramenée à la vie doit être volontaire pour que l’effet fonctionne : la créature sait qu’en acceptant d’être ramenée à la vie, elle offre son âme à seigneur démon (d’où le changement d’alignement en Chaotique Mauvais et le désir de retrouver et de remplacer le roi-gorille en place).
 
-Si un *totem du Roi Gorille* est placé sur un autel dédié à au seigneur démon sous les effets d’un sort de *[[sanctification maléfique]]* lancé par un disciple du Roi Gorille, ou sur une case adjacente, la portée sensorielle du totem s’étend à 90 mètres et il peut utiliser ses pouvoirs dans ce nouveau rayon d’action tant que sa cible est en ligne de vue.
+Si un *totem du Roi Gorille* est placé sur un autel dédié à au seigneur démon sous les effets d’un sort de *[[sanctification maléfique]]* lancé par un disciple du Roi Gorille, ou sur une case adjacente, la portée sensorielle du totem s’étend à 90 mètres et il peut utiliser ses pouvoirs dans ce nouveau rayon d’action tant que sa cible est en ligne de vue.  
 (((Destruction)))
 Seul un roi-gorille peut détruire un *totem du Roi Gorille* (soit en agissant de son propre chef, soit en agissant sous les effets d’un contrôle magique) : il peut endommager le totem comme s’il s’agissait d’un objet normal avec une solidité de 8 et 100 points de vie (ou en réussissant un test de [[Force]] [[DD]] 30 pour le casser en deux). Bien entendu, une fois que le roi-gorille a porté sa première attaque sur l’un de ces totems, le blasphème que cela représente à l’encontre du seigneur démon fait que le roi-gorille n’est plus considéré comme un disciple du seigneur démoniaque et peut désormais être affecté par l’aura de panique du totem.
 

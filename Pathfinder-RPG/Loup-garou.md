@@ -104,7 +104,7 @@ les routes forestières isolées, les landes embrumées en bordure des
 communautés rurales ou les recoins sombres des grandes cités. La
 plupart des sociétés craignent et détestent les loups-garous, à juste
 titre, car le loup-garou moyen incarne toute la brutalité et la
-bestialité des lycanthropes.
+bestialité des lycanthropes. 
 
 Cela ne veut pas dire qu’il
 n’existe aucun loup-garou d’alignement Bon,
@@ -120,7 +120,7 @@ certains loups-garous
 forment parfois des colonies
 où ils peuvent vivre
 entre eux, humanoïdes le
-jour et bêtes la nuit.
+jour et bêtes la nuit. 
 
 Les visiteurs
 qui pénètrent dans ces villages de
@@ -129,7 +129,7 @@ conduits hors de la ville avec empressement
 avant que la nuit ne
 tombe, pour éviter qu’ils ne découvrent
 le terrible secret que cachent
-les habitants.
+les habitants. 
 
 À moins,
 bien sûr, que la

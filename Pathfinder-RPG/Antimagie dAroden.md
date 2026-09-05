@@ -8,12 +8,12 @@ Categories:
 - Sort magicien 9
 ---
 
-{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (sceptre en fer froid d’une valeur de 1 000 po au moins)
-**Portée** 3 m
-**Zone d'effet** émanation de 3 m centrée sur le personnage
-**Durée** 1 heure/niveau (T)
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (sceptre en fer froid d’une valeur de 1 000 po au moins)  
+**Portée** 3 m  
+**Zone d'effet** émanation de 3 m centrée sur le personnage  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** voir description
 
 L’*antimagie du Dieu défunt* est l’un des nombreux sorts conçus à l’origine par le Dernier des premiers hommes avant sa déification. Elle crée une zone dans laquelle les sorts sélectionnés par le personnage ne fonctionnent tout simplement plus. Le personnage choisit, au moment de l’incantation, un sort par tranche de cinq [[NLS|niveaux de lanceur de sorts]]. Il n’est pas possible de modifier ce choix après l’incantation. L’*antimagie du Dieu défunt* fonctionne par ailleurs comme une *[[zone dantimagie|zone d’antimagie]]*, sauf que son émanation empêche le fonctionnement des sorts choisis uniquement. Seule l’exacte sélection des sorts est affectée : une *antimagie du Dieu défunt* lancée pour empêcher l’incantation d’une *[[convocation dalliés naturels II|convocation d’alliés naturels II]]* n’empêchera pas l’incantation d’une *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* ou d’une *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*. Si le personnage se déplace dans la zone d’un sort actif précédemment lancé qui fait partie de la sélection des sorts bannis, ce sort est affecté comme par une *[[zone dantimagie|zone d’antimagie]]*. Si le sort affecte une créature convoquée dotée d’une [[RM|résistance à la magie]], le personnage doit réussir un test de [[NLS|niveau de lanceur de sorts]] contre la résistance à la magie de cette créature pour provoquer sa disparition.

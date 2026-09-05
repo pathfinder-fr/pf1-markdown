@@ -214,7 +214,7 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td></tr><tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Duperie)Sous-domaine de l'Espionnage
-**Couverture approfondie(Sur).** *(remplace Double)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [[prêtre]]+ votre mod de [[Sagesse]]). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3+ votre modificateur de [[Sagesse]].
+**Couverture approfondie(Sur).** *(remplace Double)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [[prêtre]]+ votre mod de [[Sagesse]]). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3+ votre modificateur de [[Sagesse]]. 
 
 **Sorts de ce sous-domaine:** 2ème- [[Interaction anonyme]] // 4ème- [[Zone de silence]] // 8ème- [[Esprit impénétrable]]
 
@@ -224,13 +224,13 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Artisanat)Sous-domaine de l'industrie
-**Aura d'efficacité(Sur).** *(remplace Armes dansantes)* Au niveau 8, vous pouvez émettre une aura de 6{s:c}/9m qui octroie à vos alliés un bonus de +4 sur tous les jets de sauvegarde contre les effets qui infligent la fatigue et l'épuisement. Toute arme maniée par vos alliés obtient un bonus à la [[solidité]] égal à la moitié de votre niveau de [[prêtre]], et les attaques de vos alliés contre des ennemis dans cette aura ignorent un même montant de solidité. Vous pouvez utiliser cette aura un nombre de rounds par jour égal à votre niveau de prêtre.
+**Aura d'efficacité(Sur).** *(remplace Armes dansantes)* Au niveau 8, vous pouvez émettre une aura de 6{s:c}/9m qui octroie à vos alliés un bonus de +4 sur tous les jets de sauvegarde contre les effets qui infligent la fatigue et l'épuisement. Toute arme maniée par vos alliés obtient un bonus à la [[solidité]] égal à la moitié de votre niveau de [[prêtre]], et les attaques de vos alliés contre des ennemis dans cette aura ignorent un même montant de solidité. Vous pouvez utiliser cette aura un nombre de rounds par jour égal à votre niveau de prêtre. 
 
 Ces rounds n'ont pas besoin d'être consécutifs.
 
 **Sorts de ce sous-domaine:** 1er- [[Chance de lartisan|Chance de l'artisan]] // 7ème- [[Manoir somptueux]] // 9ème- [[Phalange de bois]]
 
-**Dieux de ce sous-domaine:** Le murmure au sein du Bronze (Brigh) // Dame des renards (Daikitsu) // Le Père de la Création
+**Dieux de ce sous-domaine:** Le murmure au sein du Bronze (Brigh) // Dame des renards (Daikitsu) // Le Père de la Création 
 </div>
 
 </td><td>

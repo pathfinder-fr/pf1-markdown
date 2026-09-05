@@ -129,7 +129,7 @@ Pour devenir porteur de lanterne, le personnage doit satisfaire aux conditions s
 
 **Bonus de base à l'attaque.** +5.
 
-**Compétences.** 5 rangs en [[Connaissances]] (exploration souterraine), 2 rangs en [[Connaissances]] (nature), 5 rangs en [[Survie]].
+**Compétences.** 5 rangs en [[Connaissances]] (exploration souterraine), 2 rangs en [[Connaissances]] (nature), 5 rangs en [[Survie]]. 
 
 **Maniement des armes.** Doit être formé au maniement de l'[[arc long (arme)|arc long]] (ou de l'[[arc long composite (arme)|arc long composite]]) et d'une arme de corps-à-corps de guerre.
 
@@ -147,7 +147,7 @@ Un porteur de lanterne ne gagne aucune formation supplémentaire au maniement de
 #### Arcane de la lanterne (Mag)
 Un porteur de lanterne gagne un ensemble de [[Pouvoirs magiques (capacité)|pouvoirs magiques]]. Le [[niveau de lanceur de sorts]] effectif du porteur de lanterne pour ces effets est égal à son niveau de personnage et le [[DD]] de leurs [[jds|jets de sauvegarde]] est égal à 10 + niveau du sort + modificateur d'[[Intelligence]] du personnage. Pour utiliser un pouvoir magique, il doit avoir une valeur d'[[Intelligence]] supérieure ou égal à 10 + niveau de sort du pouvoir magique.
 
-Un porteur de lanterne obtient des pouvoirs supplémentaires au fur et à mesure qu'il monte de niveau. Quand il accède pour la première fois à un groupe de pouvoirs magiques de niveau 1 ou plus, il peut utiliser chaque pouvoir magique une fois par jour. Tous les 2 niveaux après qu'il ait gagné un groupe spécifique de pouvoirs magiques, il gagne une utilisation supplémentaire pour chaque pouvoir dans ce groupe. (Par exemple, un porteur de lanterne de niveau 3 peut lancer *[[sort vision dans le noir|vision dans le noir]]*, *[[ralentissement du poison]]* et *[[détection de linvisibilité|détection de l'invisibilité]]* une fois par jour chacun, et *[[lueur féerique]]*, *[[passage sans traces]]* et *[[protection contre le mal]]* deux fois par jour chacun).
+Un porteur de lanterne obtient des pouvoirs supplémentaires au fur et à mesure qu'il monte de niveau. Quand il accède pour la première fois à un groupe de pouvoirs magiques de niveau 1 ou plus, il peut utiliser chaque pouvoir magique une fois par jour. Tous les 2 niveaux après qu'il ait gagné un groupe spécifique de pouvoirs magiques, il gagne une utilisation supplémentaire pour chaque pouvoir dans ce groupe. (Par exemple, un porteur de lanterne de niveau 3 peut lancer *[[sort vision dans le noir|vision dans le noir]]*, *[[ralentissement du poison]]* et *[[détection de linvisibilité|détection de l'invisibilité]]* une fois par jour chacun, et *[[lueur féerique]]*, *[[passage sans traces]]* et *[[protection contre le mal]]* deux fois par jour chacun). 
 - ***À volonté. *** *[[Lumières dansantes]]*, *[[lumière]]* et *[[étincelles]]*
 - ***Niveau 1. *** *[[Lueur féerique]]*, *[[passage sans traces]]*, *[[protection contre le mal]]*
 - ***Niveau 3.***  *[[sort vision dans le noir|Vision dans le noir]]* (sur soi uniquement), *[[ralentissement du poison]]* (sur soi uniquement), et *[[détection de linvisibilité|détection de l'invisibilité]]*
@@ -156,7 +156,7 @@ Un porteur de lanterne obtient des pouvoirs supplémentaires au fur et à mesure
 
 {s:reference|PUISSANCELUMINEUSE}
 #### Puissance lumineuse (Sur)
-Quand il lance des sorts d'une autre classe ou qu'il utilise des pouvoirs magiques de l'[[Porteur de lanterne#ARCANEDELALANTERNE|arcane de la lanterne]], un porteur de lanterne obtient un bonus égal à son niveau de classe aux tests de [[NLS|niveau de lanceur de sorts]] pour passer la [[RM|résistance à la magie]].
+Quand il lance des sorts d'une autre classe ou qu'il utilise des pouvoirs magiques de l'[[Porteur de lanterne#ARCANEDELALANTERNE|arcane de la lanterne]], un porteur de lanterne obtient un bonus égal à son niveau de classe aux tests de [[NLS|niveau de lanceur de sorts]] pour passer la [[RM|résistance à la magie]]. 
 
 {s:reference|ARMEMENTGLACIAL}
 #### Armement glacial (Sur)
@@ -164,9 +164,9 @@ Au niveau 2, les armes de métal maniées par un porteur de lanterne sont consid
 
 {s:reference|ENNEMIJURE}
 #### Ennemi juré (Ext)
-Au niveau 2, un porteur de lanterne sélectionne un type de créature parmi la liste suivante : [[type Aberration|Aberration]], [[type Animal|animal]], [[type Fée|fée]], [[type Humanoïde|humanoïde]] ([[sous-type Elfe|elfe]]), [[type Extérieur|extérieur]] ([[sous-type Mal]]), et [[type Plante|plante]]. Cette capacité fonctionne comme la [[Rôdeur#ENNEMIJURE|capacité de classe]] de rôdeur du même nom, et les niveaux dans la classe de porteur de lanterne se cumulent avec les autres niveaux de classe qui offrent la capacité ennemi juré.
+Au niveau 2, un porteur de lanterne sélectionne un type de créature parmi la liste suivante : [[type Aberration|Aberration]], [[type Animal|animal]], [[type Fée|fée]], [[type Humanoïde|humanoïde]] ([[sous-type Elfe|elfe]]), [[type Extérieur|extérieur]] ([[sous-type Mal]]), et [[type Plante|plante]]. Cette capacité fonctionne comme la [[Rôdeur#ENNEMIJURE|capacité de classe]] de rôdeur du même nom, et les niveaux dans la classe de porteur de lanterne se cumulent avec les autres niveaux de classe qui offrent la capacité ennemi juré. 
 
-Au niveau 8, le porteur de lanterne peut choisir un type d'ennemi juré supplémentaire de la liste. De plus, le bonus contre l'un des types d'ennemi juré choisi (ce qui inclut le type qu'il vient de sélectionner, s'il le désire) augmente de 2.
+Au niveau 8, le porteur de lanterne peut choisir un type d'ennemi juré supplémentaire de la liste. De plus, le bonus contre l'un des types d'ennemi juré choisi (ce qui inclut le type qu'il vient de sélectionner, s'il le désire) augmente de 2. 
 
 {s:reference|PERCEPTIONSUPERIEURE}
 #### Perception supérieure (Ext)
@@ -174,7 +174,7 @@ Au niveau 3, un porteur de lanterne reçoit l'un des dons suivants comme don sup
 
 {s:reference|LIBERTEDEMOUVEMENT}
 #### Liberté de mouvement (Sur)
-Au niveau 4 par une [[action rapide]], un porteur de lanterne peut s'immuniser aux effets qui entraveraient ses mouvements, comme du feuillage trop épais, du brouillard solide, des toiles d'araignées, ou d'autres effets magiques qui gênent les mouvements ou qui imposent l'état préjudiciable [[États préjudiciables#Enchevêtré|enchevêtré]]. Cette capacité est similaire à la capacité [[Druide#DEPLACEMENTFACILITE|déplacement facilité]] du druide sauf que ses avantages s'étendent aux effets magiques. Le porteur de lanterne ne prend pas de dégâts quand il se déplace à travers des ronces, de la végétation piquante ou même un *[[mur dépines|mur d'épines]]* mais des gaz nocifs et autres effets néfastes comme les dégâts de feu d'un *[[nuage incendiaire]]* affectent le porteur de lanterne normalement. Un porteur de lanterne peut utiliser cette capacité pendant un nombre de [[round|rounds]] égal à son niveau de classe. Ces rounds n'ont pas être consécutifs.
+Au niveau 4 par une [[action rapide]], un porteur de lanterne peut s'immuniser aux effets qui entraveraient ses mouvements, comme du feuillage trop épais, du brouillard solide, des toiles d'araignées, ou d'autres effets magiques qui gênent les mouvements ou qui imposent l'état préjudiciable [[États préjudiciables#Enchevêtré|enchevêtré]]. Cette capacité est similaire à la capacité [[Druide#DEPLACEMENTFACILITE|déplacement facilité]] du druide sauf que ses avantages s'étendent aux effets magiques. Le porteur de lanterne ne prend pas de dégâts quand il se déplace à travers des ronces, de la végétation piquante ou même un *[[mur dépines|mur d'épines]]* mais des gaz nocifs et autres effets néfastes comme les dégâts de feu d'un *[[nuage incendiaire]]* affectent le porteur de lanterne normalement. Un porteur de lanterne peut utiliser cette capacité pendant un nombre de [[round|rounds]] égal à son niveau de classe. Ces rounds n'ont pas être consécutifs. 
 
 {s:reference|MAITRISEIRREFUTABLEDESARMES}
 #### Maîtrise irréfutable des armes (Ext)
@@ -190,7 +190,7 @@ Au niveau 7, un porteur de lanterne peut utiliser la compétence de [[Discrétio
 
 {s:reference|CONNEXIONAUXPORTESSELFIQUES}
 #### Connexion aux Portes elfiques (Sur)
-Au niveau 9, une fois par jour et par une [[action complexe]], un porteur de lanterne peut utiliser le pouvoir interconnecté des portails magiques appelés « portes elfiques » pour se téléporter vers une porte elfique qu'il a étudiée avec attention (comme avec le sort *[[téléportation]]*). Cette capacité fonctionne comme *[[mot de rappel]]*, mais le porteur de lanterne ne peut transporter que lui-même et 25 kilogrammes d'objets.
+Au niveau 9, une fois par jour et par une [[action complexe]], un porteur de lanterne peut utiliser le pouvoir interconnecté des portails magiques appelés « portes elfiques » pour se téléporter vers une porte elfique qu'il a étudiée avec attention (comme avec le sort *[[téléportation]]*). Cette capacité fonctionne comme *[[mot de rappel]]*, mais le porteur de lanterne ne peut transporter que lui-même et 25 kilogrammes d'objets. 
 
 De plus, un porteur de lanterne peut magiquement glisser entre les espaces de la réalité deux fois par jour par une [[action rapide]], comme s'il utilisait *[[porte dimensionnelle]]*. Cette capacité a une portée de 15 mètres et le porteur de lanterne ne peut pas emporter d'autres créatures avec lui.
 

@@ -26,7 +26,7 @@ Mais leurs temples tombent en ruines et sont récupérés par d'autres cultes, p
 ### Tenues vestimentaires du clergé
 Les prêtres d’Aroden portent des vêtements au style antique, où plusieurs étoffes élaborées se superposent, des tenues inspirées des vêtements portés dans l’ancien [[Taldor]].
 On peut également trouver de hauts chapeaux ou encore des casques d’inspiration azlante.
-Leur symbole : un œil ailé dans un cercle.
+Leur symbole : un œil ailé dans un cercle. 
 
 ### Les douze habits d’Aroden
 

@@ -8,7 +8,7 @@ LastModified: 2024-05-30 17:37
 {s:BDTitre|Brassards de lutteur|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 500 po ; **Poids** 0,5 kg
 (((Description)))
-Ces brassards éraflés et usés ont de toute évidence été mis à rude épreuve. Ils sont confectionnés dans un cuir épais et sont attachés aux avant-bras à l’aide de grosses lanières. Ils confèrent un bonus de compétence de +1 aux tests de [[manœuvres offensives#LUTTE|lutte]] et aux tests effectués pour briser une étreinte en situation de lutte.
+Ces brassards éraflés et usés ont de toute évidence été mis à rude épreuve. Ils sont confectionnés dans un cuir épais et sont attachés aux avant-bras à l’aide de grosses lanières. Ils confèrent un bonus de compétence de +1 aux tests de [[manœuvres offensives#LUTTE|lutte]] et aux tests effectués pour briser une étreinte en situation de lutte. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[force de taureau]]* ; **Coût** 250 po
 </div>

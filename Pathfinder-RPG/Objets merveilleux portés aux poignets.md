@@ -7,7 +7,7 @@ LastModified: 2025-01-09 17:34
 {s:MenuObjetsMagiques}
 Ces objets sont des brassards, des bracelets, des menottes, des fers, des canons d’avant-bras et tous les objets pouvant être portés aux poignets.
 
-Tout le monde peut utiliser un objet merveilleux porté aux poignets à moins que le contraire ne soit indiqué dans sa description. Ces objets sont habituellement activés par usage ou par un mot de commande mais il y a parfois des différences en fonction des objets.
+Tout le monde peut utiliser un objet merveilleux porté aux poignets à moins que le contraire ne soit indiqué dans sa description. Ces objets sont habituellement activés par usage ou par un mot de commande mais il y a parfois des différences en fonction des objets. 
 
 Tous les objets merveilleux décrits ci-dessous pèsent entre 0 g et 1,5 kg sauf les *Chaînes dimensionnelles* qui pèsent 2,5 kg.
 

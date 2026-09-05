@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** —
+{s:AE}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette cloche portable émet une seule note retentissante.

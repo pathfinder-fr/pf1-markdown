@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:30
 {s:BDTitre|Châle d’écume de mer|{s:MR}{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 6.000 po ; **Poids** 0,5 kg
 (((Description)))
-Le personnage peut activer la fine dentelle de ce châle une fois par jour pour gagner les avantages du sort *[[petite sirène]]*, ce qui transforme ses nageoires ou ses membres inférieurs en pieds à chaque fois qu’il s’aventure sur la terre ferme. S’il n’est pas préalablement annulé, cet effet dure 5 heures.
+Le personnage peut activer la fine dentelle de ce châle une fois par jour pour gagner les avantages du sort *[[petite sirène]]*, ce qui transforme ses nageoires ou ses membres inférieurs en pieds à chaque fois qu’il s’aventure sur la terre ferme. S’il n’est pas préalablement annulé, cet effet dure 5 heures. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[petite sirène]]* ; **Coût** 3.000 po
 </div>

@@ -10,7 +10,7 @@ Source : Manuel des PNJ, p.438
 
 **Conditions.** [[Vampire, archétype|Vampire]], [[Cha|Charisme]] 18, aptitude de classe de compagnon animal, niveau suffisant (cf. ci-dessous).
 
-**Avantages.** Un vampire ayant ce don peut décider d’utiliser sa capacité création de rejetons sur un animal invoqué au moyen de la capacité enfant de la nuit (une chauve-souris sanguinaire, un rat sanguinaire ou un loup) afin de créer un compagnon animal vampirique.
+**Avantages.** Un vampire ayant ce don peut décider d’utiliser sa capacité création de rejetons sur un animal invoqué au moyen de la capacité enfant de la nuit (une chauve-souris sanguinaire, un rat sanguinaire ou un loup) afin de créer un compagnon animal vampirique. 
 
 Cette décision doit être prise par une [[action libre]] au moment où le vampire tue l’animal avec sa capacité absorption de sang ou absorption d’énergie. L’animal se relève d’entre les morts en 1d4 jours sous forme de compagnon animal vampirique lié au vampire qui l’a engendré. Ensuite, l’animal vampirique progresse dans ses capacités comme un compagnon animal normal, à mesure que le vampire gagne des niveaux dans la classe qui lui a accordé le compagnon animal.
 

@@ -27,9 +27,9 @@ Categories:
 {s:BDTexte|**Espace occupé** 3 m  (2 {s:c}); allonge 1,50 m  (1 {s:c})}
 {s:BDTexte|**Attaque spéciale** piétinement (2d6+10, [[DD]] 22)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; [[concentration]] +16)}
-{s:BDTexte|Constant - *[[vision lucide]]*, *[[détection du Chaos]]*, *[[détection du mal]]*}
+{s:BDTexte|Constant - *[[vision lucide]]*, *[[détection du Chaos]]*, *[[détection du mal]]*} 
 {s:BDSorts|3/jour — *[[dissipation de la magie]]*, *[[cercle magique contre le Mal]]*, *[[guérison des maladies]]*, *[[protection dautrui|protection d'autrui]]*, *[[soins modérés]]* à [[Extension deffet|Extension d'effet]]}
-{s:BDTexte|1/jour — *[[colonne de feu]]* *([[DD]] 19)*, *[[renvoi]]* *([[DD]] 19)*, *[[restauration]]*}
+{s:BDTexte|1/jour — *[[colonne de feu]]* *([[DD]] 19)*, *[[renvoi]]* *([[DD]] 19)*, *[[restauration]]*} 
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 13, **Con** 20, **Int** 19, **Sag** 22, **Cha** 19}
 {s:BDTexte|**BBA** +11, **BMO** +19 (+23 bousculade), **DMD** 36 (38 contre la [[bousculade]], 40 contre le [[croc-en-jambe]])}
@@ -46,7 +46,7 @@ plupart des shedus).}
 </div>
 </td><td><div>*Cette créature noble, grande et solide, a un puissant corps de taureau et une tête de sage humain.*
 
-Les shedus vivent loin de l’effervescence de l’humanité, dans les déserts arides. Ils y vivent dans les grottes, les ruines ou les anciens temples arrachés aux tempêtes de sable. Dans ces refuges, les shedus contemplent les luttes entre le bien et le mal qui font rage dans tout l’univers. Vecteurs infatigables de bonté et de gentillesse, les shedus combattent les extérieurs qui corrompent et menacent l’humanité. Doués pour les soins, les shedus se concentrent sur l’élimination des épidémies, traquant même les extérieurs et les [[type mort-vivant|morts-vivants]] qui travaillent sur ce genre de fléau.
+Les shedus vivent loin de l’effervescence de l’humanité, dans les déserts arides. Ils y vivent dans les grottes, les ruines ou les anciens temples arrachés aux tempêtes de sable. Dans ces refuges, les shedus contemplent les luttes entre le bien et le mal qui font rage dans tout l’univers. Vecteurs infatigables de bonté et de gentillesse, les shedus combattent les extérieurs qui corrompent et menacent l’humanité. Doués pour les soins, les shedus se concentrent sur l’élimination des épidémies, traquant même les extérieurs et les [[type mort-vivant|morts-vivants]] qui travaillent sur ce genre de fléau. 
 
 Les shedus installent rarement leurs repaires à proximité les uns des autres. Ils agissent ainsi parce qu’ils estiment que deux shedus ou plus vivant à proximité gâche leur chance d’apporter leur aide à de plus grandes régions, non à cause d’un quelconque sentiment d’animosité. Lorsque le shedu sillonne les terres d’un autre, il se met toujours en quête du shedu résident, afin de pouvoir discuter avec lui et partager ses connaissances pendant trois jours. Après cette période, le shedu en visite s’en va avec une nouvelle vision des choses et plus d’éléments à partir desquels méditer sur sa lutte éternelle contres les forces du mal du monde.
 </div></td></tr></table>

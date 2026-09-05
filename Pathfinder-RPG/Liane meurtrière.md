@@ -46,14 +46,14 @@ son engrais selon un procédé macabre qui consiste à agripper puis à
 Ces plantes étonnantes peuvent repérer les moindres mouvements
 dans la terre ou l’air et détecter les changements de luminosité et de
 température grâce à leurs feuilles épaisses, et ainsi savoir précisément
-ce qui les entoure.
+ce qui les entoure. 
 
 Dénuées d’intelligence et de motivations, elles s’en
 prennent à toutes les choses vivantes qui passent près d’elles, quels que
 soient leur taille, leur état de conscience ou leur dangerosité. Une plante
 adulte comporte une liane centrale de 6 mètres de long qui supporte
 des segments plus petits espacés d’une quinzaine de centimètres et
-pouvant mesurer jusqu’à 1,50 mètre.
+pouvant mesurer jusqu’à 1,50 mètre. 
 
 Ces segments portent des touffes
 de feuilles et, à la fin de l’été, produisent des grappes de petits fruits
@@ -67,7 +67,7 @@ Les lianes meurtrières peuvent se déplacer mais le font rarement,
 des tactiques simples. Elles restent immobiles jusqu’à ce qu’une
 proie passe à leur portée puis elles attaquent. Une fois qu’une liane
 meurtrière a choisi une proie, elle la poursuit (lentement) jusqu’à ce
-qu’elle l’attrape et la transforme en compost.
+qu’elle l’attrape et la transforme en compost. 
 
 La liane n’abandonne
 pas tant que sa victime reste à portée de vue. Une fois qu’elle sort de
@@ -79,7 +79,7 @@ des forêts denses et des marécages, mais certaines d’entre elles
 pénètrent dans les champs et les vignobles mal entretenus. Les
 oiseaux qui parviennent à s’emparer d’une de leurs graines et
 à s’enfuir assez rapidement peuvent disséminer leur semence
-assez loin.
+assez loin. 
 
 Certaines histoires évoquent des lianes meurtrières
 qui seraient apparues dans des pots de fleur ou à l’intérieur de

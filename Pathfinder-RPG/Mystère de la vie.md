@@ -9,7 +9,7 @@ Categories:
 {s:MenuMystères}{s:APG}
 **Compétences de classe.** Un oracle du mystère de la vie ajoute [[Dressage]], [[Connaissances]] (nature) et [[Survie]] à sa liste de compétences de classe.
 
-**Sorts supplémentaires.** *[[Détection des morts-vivants]]* (2), *[[restauration partielle]]* (4), *[[neutralisation du poison]]* (6), *[[restauration]]* (8), *[[souffle de vie]]* (10), *[[guérison suprême]]* (12), *[[restauration suprême]]* (14), *[[guérison suprême de groupe]]* (16), *[[résurrection suprême]]* (18).
+**Sorts supplémentaires.** *[[Détection des morts-vivants]]* (2), *[[restauration partielle]]* (4), *[[neutralisation du poison]]* (6), *[[restauration]]* (8), *[[souffle de vie]]* (10), *[[guérison suprême]]* (12), *[[restauration suprême]]* (14), *[[guérison suprême de groupe]]* (16), *[[résurrection suprême]]* (18). 
 
 ===Révélations=== *Un oracle du mystère de la vie peut choisir l’une des révélations suivantes.*
 

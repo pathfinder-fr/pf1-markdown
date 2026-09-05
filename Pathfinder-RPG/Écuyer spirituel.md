@@ -13,11 +13,11 @@ Categories:
 - Src Armor Masters Handbook
 ---
 
-{s:cs}{s:AMH}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Durée** 1 minute/[[niveau]] (T)
+{s:cs}{s:AMH}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Durée** 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait apparaître un être constitué de force pure sur une case à portée. Cet allié prend l’apparence d’un serviteur de la divinité tutélaire du personnage (le cas échéant) ou d’un ancêtre. L’écuyer spirituel occupe son espace, mais le lanceur et ses alliés peuvent passer au travers, puisqu'il s'agit également d'un allié. Bien que l’écuyer spirituel semble porter une arme et une armure, il ne peut pas attaquer et ne contrôle aucun espace. Au tour du personnage, l’écuyer spirituel peut faire l’une des actions suivante : récupérer un objet dans les affaires du personnage, porter un objet ne pesant pas plus de 5 kg par [[NLS|niveau de lanceur de sorts]], donner un objet qu’il porte au personnage, accomplir l’action [[aider qqn|aider quelqu’un]] sur le personnage ou un autre allié, ou aider une créature au choix du personnage à enfiler une armure (réduisant le temps nécessaire de moitié). Quand l’écuyer spirituel accompli l’action [[aider qqn|aider quelqu’un]] en combat, son bonus d’attaque est égal au [[BBA]] du personnage + son modificateur de [[Sagesse]].

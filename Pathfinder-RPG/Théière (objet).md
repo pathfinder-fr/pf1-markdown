@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Il s'agit d'un petit pot à bec verseur pour préparer le thé. Il inclut un couvercle et une passoire et permet de faire 4 [[Thé (objet)|tasses de thé]] à la fois.

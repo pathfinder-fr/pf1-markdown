@@ -47,7 +47,7 @@ Categories:
 
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de Cassomir dans les suppléments
+Vous pourrez trouver plus d'informations à propos de Cassomir dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING2|Pathfinder Univers: Cadre de Campagne La Mer Intérieure]].
 - [Pathfinder Univers: Cité de Golarion](http://www.black-book-editions.fr/produit.php?id=2235).
 {s:VoirAussiAprès}

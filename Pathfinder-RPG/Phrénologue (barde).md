@@ -14,7 +14,7 @@ Un phrénologue maîtrise la plupart des méthodes pour analyser le crâne des c
 À partir du niveau 2, un phrénologue peut exploiter les informations obtenues en analysant le crâne d’une créature pour personnaliser ses représentations. Toutes les créatures sur lesquelles le phrénologue a réussi à utiliser son extension de compétence occulte [[extensions de compétences occultes#PHRÉNOLOGIE|phrénologie]] subissent un malus de -2 aux jets de sauvegarde effectués contre ses [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]]. Cette aptitude remplace celle d’[[barde#ERUDITION|érudition]].
 
 #### Phrénologue érudit
-Un phrénologue de niveau 10 acquiert soit [[Maestro psychique]], soit [[Virtuose psychique]] en don supplémentaire. S’il choisit [[Maestro psychique]], l’une des deux extensions de compétence occultes utilisable une fois de plus doit être la [[extensions de compétences occultes#PHRÉNOLOGIE|phrénologie]]. Cette aptitude remplace celle de [[barde#TOUCHE-A-TOUT|touche-à-tout]].
+Un phrénologue de niveau 10 acquiert soit [[Maestro psychique]], soit [[Virtuose psychique]] en don supplémentaire. S’il choisit [[Maestro psychique]], l’une des deux extensions de compétence occultes utilisable une fois de plus doit être la [[extensions de compétences occultes#PHRÉNOLOGIE|phrénologie]]. Cette aptitude remplace celle de [[barde#TOUCHE-A-TOUT|touche-à-tout]]. 
 
 #### Représentations bardiques
 

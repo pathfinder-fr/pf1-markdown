@@ -14,6 +14,6 @@ Categories:
 
 **Avantage.** Une fois par jour, le personnage peut utiliser le pouvoir d’imposition des mains du [[paladin]]. Son niveau effectif de paladin est égal à 1/2 son niveau de personnage (1 au minimum). S’il possède déjà le pouvoir d’imposition des mains (ou le gagne plus tard), il peut, à la place, gagner une utilisation supplémentaire par jour d’imposition des mains.
 
-**Spécial.** Ce don compte comme le pouvoir d’imposition des mains quand il s’agit de remplir les conditions requises pour les dons tels qu’[[Imposition des mains supplémentaire]].
+**Spécial.** Ce don compte comme le pouvoir d’imposition des mains quand il s’agit de remplir les conditions requises pour les dons tels qu’[[Imposition des mains supplémentaire]]. 
 
 Si le personnage enfreint outrageusement le code de conduite imposé par sa divinité, si son alignement change de telle façon qu’il s’éloigne de plus d’un cran de celui de sa divinité ou, s’il ne vénère plus son dieu, il perd accès à ce don. Le personnage peut le regagner en faisant pénitence pour ses méfaits à l’égard de sa divinité (cf. le sort de *[[pénitence]]*).

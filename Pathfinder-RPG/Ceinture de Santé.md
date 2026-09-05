@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:27
 {s:BDTitre|Ceinture de santé|{s:AE}}
 **Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 12 000 po ; **Poids** 0,5 kg
 (((Description)))
-Tant que le porteur de cette ceinture se déplace d’un maximum de 1,50 mètre pendant son tour, il ignore les malus dus à la *[[fatigue]]* et au fait d’être secoué ou fiévreux. Cet effet dure jusqu’à la fin de son prochain tour ou jusqu’à ce qu’il se déplace d’une distance supérieure à 1,50 mètre. Même s’il ne subit aucun des malus provoqués par ces états, il est toujours considéré comme victime de ces effets jusqu’à leur suppression ou la fin de leur durée.
+Tant que le porteur de cette ceinture se déplace d’un maximum de 1,50 mètre pendant son tour, il ignore les malus dus à la *[[fatigue]]* et au fait d’être secoué ou fiévreux. Cet effet dure jusqu’à la fin de son prochain tour ou jusqu’à ce qu’il se déplace d’une distance supérieure à 1,50 mètre. Même s’il ne subit aucun des malus provoqués par ces états, il est toujours considéré comme victime de ces effets jusqu’à leur suppression ou la fin de leur durée. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[restauration partielle]]*, *[[Regain dassurance|regain d’assurance]]* ; **Coût** 6 000 po
 </div>

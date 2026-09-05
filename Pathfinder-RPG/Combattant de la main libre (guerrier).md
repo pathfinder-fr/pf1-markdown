@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypeguerrier}{s:APG}*Ce guerrier se spécialise dans l'art délicat de se battre avec une arme et d'utiliser sa main libre pour garder son équilibre, mais aussi bloquer, pousser, distraire ses adversaires. Même si ce n'est pas un pugiliste, cette main est tout autant une arme qu'un arc ou qu'une lame. le combattant de la main libre ne profite de tous les avantages de ce style de combat que s'il a une arme dans une main et rien dans l'autre.*
+{s:Menuarchétypeguerrier}{s:APG}*Ce guerrier se spécialise dans l'art délicat de se battre avec une arme et d'utiliser sa main libre pour garder son équilibre, mais aussi bloquer, pousser, distraire ses adversaires. Même si ce n'est pas un pugiliste, cette main est tout autant une arme qu'un arc ou qu'une lame. le combattant de la main libre ne profite de tous les avantages de ce style de combat que s'il a une arme dans une main et rien dans l'autre.* 
 
 #### Coup trompeur (Ext).
 Au niveau 2, le personnage reçoit un bonus de +1 à son [[BMO]] et à son  [[DMD]] sur des tests de [[désarmement]], ainsi que sur les tests de [[bluff]] visant à [[feinte|feinter]] ou à créer une diversion. Ce bonus est de +1 au niveau 2, +1 par tranche de quatre niveau au delà du niveau 2. Cette capacité remplace [[guerrier#COURAGE|courage]].

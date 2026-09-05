@@ -11,12 +11,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (un croc et une écaille de serpent)
-**Portée** [[contact]]
-**Cibles** objet touché
-**Durée** 1 heure/niveau ou jusqu'à déchargement (T)
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (un croc et une écaille de serpent)  
+**Portée** [[contact]]  
+**Cibles** objet touché  
+**Durée** 1 heure/niveau ou jusqu'à déchargement (T)  
 **Jet de sauvegarde** Vigueur, annule (objet) ; **Résistance à la magie** non
 
 Le personnage appose une protection magique sur l'objet touché, qui doit être un contenant comme une bourse, un sac, un sac à dos ou une poche. Si n'importe quelle créature ouvre le contenant sans prononcer un mot de commande auparavant, 1d3 [[Serpent venimeux|serpents venimeux]] sont convoqués, ils se faufilent hors du contenant et attaquent cette créature pendant 1 round/niveau avant de disparaître. Ils n'attaquent d'autres créatures que s'ils sont eux-mêmes attaqués.

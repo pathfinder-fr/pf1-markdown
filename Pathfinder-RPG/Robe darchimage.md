@@ -6,14 +6,14 @@ Categories:
 - Objet mag merveilleux
 ---
 
-<div class="BD">
+<div class="BD"> 
 {s:BDTitre|Robe d’archimage|{s:AE}}
 **Aura** Multiples puissantes ; **NLS** 14 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 75 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette robe d’aspect banal est harmonisée avec un type d’alignement. Elle peut être blanche (01–45 sur 1d100, ce qui correspond à un alignement Bon), grise (46–75, alignement Neutre) ou noire (76–100, alignement Mauvais). Elle n’offre pas de pouvoir et n’a pas d’effet sur la plupart des gens, à moins que leur alignement ne corresponde pas au sien (voir plus bas). Les lanceurs de sorts profanes sont les seuls à pouvoirs utiliser la puissance de la robe dont voici les pouvoirs.
-• Bonus d’armure de +5 à la [[CA]].
-• [[RM|Résistance à la magie]] de 18.
-• Bonus de résistance de +4 à tous les [[jet de sauvegarde|jets de sauvegarde]].
+Cette robe d’aspect banal est harmonisée avec un type d’alignement. Elle peut être blanche (01–45 sur 1d100, ce qui correspond à un alignement Bon), grise (46–75, alignement Neutre) ou noire (76–100, alignement Mauvais). Elle n’offre pas de pouvoir et n’a pas d’effet sur la plupart des gens, à moins que leur alignement ne corresponde pas au sien (voir plus bas). Les lanceurs de sorts profanes sont les seuls à pouvoirs utiliser la puissance de la robe dont voici les pouvoirs.  
+• Bonus d’armure de +5 à la [[CA]].  
+• [[RM|Résistance à la magie]] de 18.  
+• Bonus de résistance de +4 à tous les [[jet de sauvegarde|jets de sauvegarde]].  
 • [[bonus daltération|Bonus d’altération]] de +2 sur les tests de niveau de lanceur de sorts joués pour vaincre la [[RM|résistance à la magie]].
 
 Si un personnage d’alignement Mauvais enfile une robe blanche, il acquiert immédiatement trois [[niveau négatif|niveaux négatifs]]. Le même phénomène se produit si un personnage d’alignement Bon revêt une robe noire. Si un individu Bon ou Mauvais se glisse dans une robe grise ou si un personnage Neutre enfile une robe blanche ou noire, il acquiert deux [[niveau négatif|niveaux négatifs]]. Ces [[niveau négatif|niveaux négatifs]] persistent tant que le personnage porte la robe (même les sorts tels que *[[restauration]]* ne peuvent rien y faire). Ils disparaissent dès que le personnage enlève la robe.

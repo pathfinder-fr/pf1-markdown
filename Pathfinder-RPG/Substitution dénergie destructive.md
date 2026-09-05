@@ -7,11 +7,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|acide, électricité, feu ou froid]], voir description<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[Composantes|V]]
-**Portée** [[portée|personnelle]]
-**Cible** le personnage
+{s:MCA}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|acide, électricité, feu ou froid]], voir description<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[Composantes|V]]  
+**Portée** [[portée|personnelle]]  
+**Cible** le personnage  
 **Durée** 1 [[round]]/[[niveau]] (voir description)
 
 Le personnage peut lancer ce sort uniquement quand il subit 10 points ou plus de dégâts d’acide, d’électricité, de feu ou de froid infligés par un sort ou un pouvoir magique. Ce sort acquiert alors les mêmes registres d’énergie destructive que l’effet à l’origine des dégâts. Quand le personnage utilise un sort ou un pouvoir magique doté du registre acide, électricité, feu ou froid ou s’il utilise une [[arcaniste#EXPLOITATION|exploitation d’arcaniste]], un pouvoir d’[[magicien#ECOLEDEMAGIE|école de magie]], un pouvoir de [[ensorceleur#LIGNAGE|lignage]], un [[magus#ARCANES|arcane de magus]] ou un [[sorcière#MALEFICE|maléfice]] qui inflige des dégâts d’acide, d’électricité de feu ou de froid, il peut décider de changer son type d’énergie destructive et son registre pour qu’ils correspondent à l’un des registres de la substitution d’énergie destructive. Tous les autres effets de ce sort restent les mêmes.

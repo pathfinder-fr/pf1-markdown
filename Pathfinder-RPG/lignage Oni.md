@@ -21,7 +21,7 @@ Categories:
 
 *Certains diraient le personnage maudit, mais il a appris à tirer profit de cet héritage maudit, et sa cruauté se fait de plus en plus apparente à mesure que ses pouvoirs s'accroissent.*
 
-**Contact d'agonie (Mag).** Au [[niveau]] 1, par une [[action simple]], le personnage peut effectuer une attaque de contact au corps à corps qui inflige une douleur effroyable à une unique créature vivante. A chaque tour, la créature subit 1d4 points de [[Blessures et mort#NONLETAL|dégâts non-létaux]], pour un nombre de tours égal à la moitié du niveau d'[[ensorceleur]] du personnage. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]].
+**Contact d'agonie (Mag).** Au [[niveau]] 1, par une [[action simple]], le personnage peut effectuer une attaque de contact au corps à corps qui inflige une douleur effroyable à une unique créature vivante. A chaque tour, la créature subit 1d4 points de [[Blessures et mort#NONLETAL|dégâts non-létaux]], pour un nombre de tours égal à la moitié du niveau d'[[ensorceleur]] du personnage. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]]. 
 
 **Forme modifiée (Mag).** Au [[niveau]] 3, le personnage est capable de se métamorphoser, comme avec un sort de [[modification dapparence|modification d'apparence]] pour un nombre de minutes par jour égal à son niveau d'[[ensorceleur]]. Ces minutes n'ont pas besoin d'être consécutives. Au niveau 17, cette durée n'est plus limitée.
 

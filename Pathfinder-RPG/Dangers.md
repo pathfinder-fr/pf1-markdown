@@ -15,7 +15,7 @@ Les dangers ont un FP, comme les pièges ou les monstres. Un danger type se déc
 
 {s:Reference|INFESTATION}
 ### Les infestations
-Les parasites comme les cherche‑oreilles ou les croûtes pourries provoquent des infestations, un genre d’affliction semblable aux maladies. Pour les soigner, il faut recourir à des méthodes spécifiques car, quel que soit le nombre de [[jet de sauvegarde|jets de sauvegarde]] effectués, la cible sera toujours infestée. Un sort de [[guérison des maladies]] (ou autre effet similaire) met tout de suite un terme à l’infestation mais l’*immunité contre les maladies* n’offre aucune protection car ce fléau est causé par des parasites.
+Les parasites comme les cherche‑oreilles ou les croûtes pourries provoquent des infestations, un genre d’affliction semblable aux maladies. Pour les soigner, il faut recourir à des méthodes spécifiques car, quel que soit le nombre de [[jet de sauvegarde|jets de sauvegarde]] effectués, la cible sera toujours infestée. Un sort de [[guérison des maladies]] (ou autre effet similaire) met tout de suite un terme à l’infestation mais l’*immunité contre les maladies* n’offre aucune protection car ce fléau est causé par des parasites. 
 
 ### Exemples de dangers inhabituels
 Voici un échantillon de dangers inhabituels.
@@ -26,75 +26,75 @@ Les effets persistants d’une ancienne malédiction ou les énergies maléfique
 
 {s:Reference|MAUVAISAIR}
 #### Le mauvais air (FP 1 ou 4)
-Danger invisible, les poches de gaz pauvres en oxygène présentent un danger pour les mineurs et les spéléologues comme pour les aventuriers qui explorent un réseau de caverne. Les gaz non inflammables comme le dioxyde de carbone ou le nitrogène ont un [[FP]] 1 et il faut réussir un test de [[Survie]] [[DD]] 25. Les créatures qui respirent cet air doivent faire un test de Vigueur ([[DD]] 15 + 1 par test précédent) par heure ou être [[Fatigué|fatiguées]]. Une fois [[Fatigué|fatiguées]], elles se mettent à [[asphyxie|suffoquer]] lentement. Une créature qui retient son souffle échappe à ces effets.
+Danger invisible, les poches de gaz pauvres en oxygène présentent un danger pour les mineurs et les spéléologues comme pour les aventuriers qui explorent un réseau de caverne. Les gaz non inflammables comme le dioxyde de carbone ou le nitrogène ont un [[FP]] 1 et il faut réussir un test de [[Survie]] [[DD]] 25. Les créatures qui respirent cet air doivent faire un test de Vigueur ([[DD]] 15 + 1 par test précédent) par heure ou être [[Fatigué|fatiguées]]. Une fois [[Fatigué|fatiguées]], elles se mettent à [[asphyxie|suffoquer]] lentement. Une créature qui retient son souffle échappe à ces effets.  
 Les vapeurs inflammables comme le gaz de charbon sont bien plus dangereuses (FP 4). Les gaz chassent l’air respirable des poumons et causent un excès de [[Fatigué|fatigue]] comme décrit plus haut. En plus, toute étincelle ou flamme à nu provoque une explosion pour 6d6 points de dégâts ([[Réflexes]] [[DD]] 15 pour réduire de moitié). À toute personne qui se trouve dans la caverne ou à 1,50 (1 c) mètre de son entrée. Le feu brûle l’oxygène contenu dans l’air qui est alors irrespirable pendant 2d4 minutes. Après l’explosion, les gaz inflammables mettent généralement plusieurs jours avant de s’accumuler au point de devenir dangereux.
 
 {s:Reference|PERTURBATIONMAGIQUE}
 #### La perturbation magique (FP 6)
-Zones de magie entropique qui troublent les sorts, les perturbations magiques se forment parfois sur le site de grands duels de magie, lorsque l’on détruit un puissant artefact ou au niveau de vortex d’étranges énergies en bordure des zones d’antimagie. Leur taille varie d’une petite bulle de quelques mètres de large à de vastes zones de la taille d’une ville.
-Un test d’[[Art de la magie]] permet de détecter des picotements dans l’air qui annoncent la présence d’une turbulence voisine. Tout sort actif qui entre dans une zone de turbulences risque d’être dissipé et tout sort lancé à l’intérieur est immédiatement soumis à un [[contresort]] (tous deux comme une [[dissipation de la magie]] [[NLS]] 18).
-La libération d’énergie magique qui en résulte inflige 1d6 points de dégâts par niveau du sort dans un rayon de 1,50 mètre (1 c) centré sur le lanceur du nouveau sort ou sur le bénéficiaire du sort actif ([[Réflexes]] [[DD]] 15 pour réduire les dégâts de moitié). Si une cible est visée par plusieurs déflagrations magiques superposées, on applique seulement les effets de la plus puissante. Si un sort résiste à une tentative de dissipation, il ne risque plus d’être affecté à moins de sortir de la perturbation et d’y rentrer à nouveau.
+Zones de magie entropique qui troublent les sorts, les perturbations magiques se forment parfois sur le site de grands duels de magie, lorsque l’on détruit un puissant artefact ou au niveau de vortex d’étranges énergies en bordure des zones d’antimagie. Leur taille varie d’une petite bulle de quelques mètres de large à de vastes zones de la taille d’une ville.  
+Un test d’[[Art de la magie]] permet de détecter des picotements dans l’air qui annoncent la présence d’une turbulence voisine. Tout sort actif qui entre dans une zone de turbulences risque d’être dissipé et tout sort lancé à l’intérieur est immédiatement soumis à un [[contresort]] (tous deux comme une [[dissipation de la magie]] [[NLS]] 18).  
+La libération d’énergie magique qui en résulte inflige 1d6 points de dégâts par niveau du sort dans un rayon de 1,50 mètre (1 c) centré sur le lanceur du nouveau sort ou sur le bénéficiaire du sort actif ([[Réflexes]] [[DD]] 15 pour réduire les dégâts de moitié). Si une cible est visée par plusieurs déflagrations magiques superposées, on applique seulement les effets de la plus puissante. Si un sort résiste à une tentative de dissipation, il ne risque plus d’être affecté à moins de sortir de la perturbation et d’y rentrer à nouveau.  
 Les turbulences les plus puissantes sont bien plus perturbatrices : pour chaque augmentation de +1 au [[FP]], le [[niveau de lanceur de sorts]] du test de dissipation augmente de 2 et le [[DD]] du [[jet de sauvegarde]] de la déflagration de 1.
 
 {s:Reference|CHERCHEOREILLES}
 #### Les cherche‑oreilles (FP 5)
-Les cherche‑oreilles sont de minuscules vers pâles qui vivent dans le bois pourri et d’autres détritus organiques. On les remarque à l’aide d’un test de [[Perception]] [[DD]] 15. En cas d’échec, une créature qui farfouille dans leur antre risque d’emporter par inadvertance quelques vers sur elle. Les cherche‑oreille se mettent alors en quête d’un endroit chaud, de préférence le canal auriculaire.
-Une fois là, ils pondent 2d8 oeufs avant de mourir. Ces oeufs éclosent 4d6 heures plus tard et les larves se mettent à dévorer la chair qui les entoure.
+Les cherche‑oreilles sont de minuscules vers pâles qui vivent dans le bois pourri et d’autres détritus organiques. On les remarque à l’aide d’un test de [[Perception]] [[DD]] 15. En cas d’échec, une créature qui farfouille dans leur antre risque d’emporter par inadvertance quelques vers sur elle. Les cherche‑oreille se mettent alors en quête d’un endroit chaud, de préférence le canal auriculaire.  
+Une fois là, ils pondent 2d8 oeufs avant de mourir. Ces oeufs éclosent 4d6 heures plus tard et les larves se mettent à dévorer la chair qui les entoure.  
 Quand leur hôte meurt, les vers rampent à l’extérieur et cherchent un nouvel hôte. La guérison des maladies tue tout cherche‑oreille et tout oeuf non‑éclos qui se trouve sur l’hôte ou dans son corps. Certains cherche‑oreille préfèrent loger dans un bois intact et se cachent dans les portes des donjons. Les minuscules trous que laisse cette variété sont particulièrement difficiles à repérer ([[Perception]] [[DD]] 20).
 
 <table width="50%"><tr><td>
 <div class="BD">
 {s:BDTitre|Cherche‑oreilles}
-**Type** [[Dangers#INFESTATION|infestation]] ; **Jet de sauvegarde** [[Volonté]] [[DD]] 15
-**Incubation** 4d6 heures; **Fréquence** 1/heure]
+**Type** [[Dangers#INFESTATION|infestation]] ; **Jet de sauvegarde** [[Volonté]] [[DD]] 15  
+**Incubation** 4d6 heures; **Fréquence** 1/heure]  
 **Effet** 1d6 points d’[[affaiblissement temporaire]] de [[Constitution]].
 </div>
 </td></tr></table>
 
 {s:Reference|MINERAIMAGNETIQUE}
 #### Le minerai magnétique (FP 2)
-Il arrive que les étranges énergies du monde souterrain chargent les rochers et les veines de minerai d’un puissant champ magnétique et présentent un danger pour toute personne qui porte ou transporte des objets en fer. Toute pièce d’acier ou de fer qui approche à moins de 6 mètres ( 4 c) du minerai est attirée vers lui. Les créatures de taille moyenne qui transportent 15 kilos de métal ou plus sont attirées vers le minerai comme par la capacité spéciale [[Attirer]]. Le minerai a un [[BMO]] effectif de +7 et un [[DMD]] de 17.
-Les créatures de petite taille sont attirées si elles transportent 7,5 kilos de métal et les grandes si elles en portent 30. Pour les créatures de tailles différentes, modifiez le poids requis comme à l’aide des règles de [[État civil et mensurations#POIDSTRANSPORTABLE|capacité de charge]]. Les créatures qui portent une armure métallique souffrent d’un malus au [[DMD]] quand elles tentent de résister à l’attraction (‑2 pour une [[armure intermédiaire]] et –4 pour une [[armure lourde]]).
+Il arrive que les étranges énergies du monde souterrain chargent les rochers et les veines de minerai d’un puissant champ magnétique et présentent un danger pour toute personne qui porte ou transporte des objets en fer. Toute pièce d’acier ou de fer qui approche à moins de 6 mètres ( 4 c) du minerai est attirée vers lui. Les créatures de taille moyenne qui transportent 15 kilos de métal ou plus sont attirées vers le minerai comme par la capacité spéciale [[Attirer]]. Le minerai a un [[BMO]] effectif de +7 et un [[DMD]] de 17.  
+Les créatures de petite taille sont attirées si elles transportent 7,5 kilos de métal et les grandes si elles en portent 30. Pour les créatures de tailles différentes, modifiez le poids requis comme à l’aide des règles de [[État civil et mensurations#POIDSTRANSPORTABLE|capacité de charge]]. Les créatures qui portent une armure métallique souffrent d’un malus au [[DMD]] quand elles tentent de résister à l’attraction (‑2 pour une [[armure intermédiaire]] et –4 pour une [[armure lourde]]).  
 Les créatures affectées sont traînées sur 6 mètres ( 4 c) et frappent la roche, subissant 2d6 points de dégâts. Elles sont alors en [[lutte]]. Les créatures qui ne portent pas de grosses quantités de métal mais qui tiennent des objets métalliques en main sont la cible de manoeuvre de [[désarmement]] lorsque l’objet tente de s’arracher à leur étreinte. Pour libérer un objet aimanté, il faut réussir un test de [[lutte]] contre le [[DMD]] du minerai.
 
 {s:Reference|CRISTALMNEMOTECHNIQUE}
 #### Les cristaux mnémotechniques (FP 3)
-Les cristaux mnémotechniques sont de larges grappes de cristaux de quartz violets (de 60 centimètres à 1,20 mètre de long) qui émettent une forte aura d’[[abjuration]]. On peut les identifier à l’aide d’un test de [[Connaissances]] (mystères) [[DD]] 25.
-Les cristaux mnémotechniques s’harmonisent avec les énergies uniques de la magie et récoltent l’énergie mystique pour grandir et se protéger. Les cristaux absorbent les sorts préparés des lanceurs de sorts situés dans un rayon de 9 mètres ( 6 c). Ces lanceurs de sorts doivent réussir un test de [[Volonté]] [[DD]] 22 à chaque [[round]] où ils se trouvent dans la zone d’effet des cristaux. En cas d’échec, ils perdent un sort préparé, choisi au hasard. Les lanceurs de sorts spontanés, comme les ensorceleurs, ne sont pas affectés.
+Les cristaux mnémotechniques sont de larges grappes de cristaux de quartz violets (de 60 centimètres à 1,20 mètre de long) qui émettent une forte aura d’[[abjuration]]. On peut les identifier à l’aide d’un test de [[Connaissances]] (mystères) [[DD]] 25.  
+Les cristaux mnémotechniques s’harmonisent avec les énergies uniques de la magie et récoltent l’énergie mystique pour grandir et se protéger. Les cristaux absorbent les sorts préparés des lanceurs de sorts situés dans un rayon de 9 mètres ( 6 c). Ces lanceurs de sorts doivent réussir un test de [[Volonté]] [[DD]] 22 à chaque [[round]] où ils se trouvent dans la zone d’effet des cristaux. En cas d’échec, ils perdent un sort préparé, choisi au hasard. Les lanceurs de sorts spontanés, comme les ensorceleurs, ne sont pas affectés.  
 Si quelqu’un brise ou abîme les cristaux, ils libèrent les sorts absorbés en une déflagration d’énergie mentale qui inflige 1d6 points d’affaiblissement de [[Sagesse]] à toutes les créatures situées dans un rayon de 9 mètres ( 6 c). Les cristaux mnémotechniques sont extrêmement fragiles ([[solidité]] 0, 1 point de vie). Dans les zones encombrées par les cristaux, il faut réussir un test d’Acrobaties [[DD]] 10 pour éviter de leur marcher dessus ou de les frôler et de les casser.
 
 {s:Reference|CHENEEMPOISONNE}
 #### Le chêne empoisonné (FP 1 ou 3)
-Tout contact avec un chêne empoisonné (FP 1) provoque une douloureuse éruption cutanée qui provoque des démangeaisons qui laissent la malheureuse victime [[Fiévreux|fiévreuse]] jusqu’à ce que l’on soigne ses dégâts.
+Tout contact avec un chêne empoisonné (FP 1) provoque une douloureuse éruption cutanée qui provoque des démangeaisons qui laissent la malheureuse victime [[Fiévreux|fiévreuse]] jusqu’à ce que l’on soigne ses dégâts.  
 Toute personne qui se retrouve avec la totalité du corps en contact avec un chêne empoisonné ou qui inhale sa fumée s’expose à un grand danger qui pourrait même s’avérer fatal (FP 3). Un test de [[Connaissances]] (nature) [[DD]] 15 permet de reconnaître cette plante, apparemment inoffensive, pour ce qu’elle est. On peut appliquer ce genre de danger à toute plante toxique similaire, comme le lierre empoisonné, le sumac ou les orties épineuses, ces dernières ne représentant aucun danger si on les brûle.
 
 <table width="50%"><tr>
 <td><div class="BD">
 {s:BDTitre|Chêne empoisonné}
-**Type** poison; **Jet de sauvegarde** [[Vigueur]] [[DD]] 13
-**Incubation** 1 heure
-**Effet** Diminution 1d4 points d’[[affaiblissement temporaire]] de [[Dextérité]] et créature fiévreuse jusqu’à guérison des dégâts.
+**Type** poison; **Jet de sauvegarde** [[Vigueur]] [[DD]] 13  
+**Incubation** 1 heure  
+**Effet** Diminution 1d4 points d’[[affaiblissement temporaire]] de [[Dextérité]] et créature fiévreuse jusqu’à guérison des dégâts.  
 **Guérison** 1 jet de sauvegarde
 </div></td>
 <td><div class="BD">
 {s:BDTitre|Chêne empoisonné (Exposition sévère)}
-**Type** poison, contact ou inhalation; **Jet de sauvegarde** [[Vigueur]] [[DD]] 16
-**Incubation** 1 heure ; **Fréquence** 1/heure
-**Effet initial** 2d4 points d’[[affaiblissement temporaire]] de Dextérité et 1d4 points d’[[affaiblissement temporaire]] de [[Constitution]] et créature fiévreuse jusqu’à guérison des dégâts.
-**Guérison** 1 jet de sauvegarde
+**Type** poison, contact ou inhalation; **Jet de sauvegarde** [[Vigueur]] [[DD]] 16  
+**Incubation** 1 heure ; **Fréquence** 1/heure  
+**Effet initial** 2d4 points d’[[affaiblissement temporaire]] de Dextérité et 1d4 points d’[[affaiblissement temporaire]] de [[Constitution]] et créature fiévreuse jusqu’à guérison des dégâts.  
+**Guérison** 1 jet de sauvegarde  
 </div></td>
 </tr></table>
 
 {s:Reference|CROUTESPOURRIES}
 #### Les croûtes pourries (FP 4)
-Les croûtes pourries sont des parasites écœurants qui se nourrissent de chair et nichent dans les cadavres. Généralement un cadavre est seulement infesté par une poignée de croûtes et il faut réussir un test de [[Perception]] [[DD]] 15 pour les remarquer et les éviter. Sinon, 1d6 croûtes se hâtent de jaillir de la carcasse pour s’enfouir dans la créature qui peut tenter un jet de [[Réflexes]] [[DD]] 15 pour les esquiver (mais seulement si elle sait qu’elles sont là). La moindre [[RD|réduction de dégâts]] immunise la créature contre toute [[Dangers#INFESTATION|infestation]].
+Les croûtes pourries sont des parasites écœurants qui se nourrissent de chair et nichent dans les cadavres. Généralement un cadavre est seulement infesté par une poignée de croûtes et il faut réussir un test de [[Perception]] [[DD]] 15 pour les remarquer et les éviter. Sinon, 1d6 croûtes se hâtent de jaillir de la carcasse pour s’enfouir dans la créature qui peut tenter un jet de [[Réflexes]] [[DD]] 15 pour les esquiver (mais seulement si elle sait qu’elles sont là). La moindre [[RD|réduction de dégâts]] immunise la créature contre toute [[Dangers#INFESTATION|infestation]].  
 Dès que les croûtes pourries ont infesté un être vivant, elles s’enfoncent en direction de son cœur, de son cerveau ou d’un autre organe interne clef, et finissent par causer la mort de leur victime. On peut extraire les croûtes mais plus elles ont passé de temps dans l’organisme, plus cette méthode se révèle dangereuse. Pour les retirer, il faut disposer d’une arme tranchante et réussir un test de [[Premiers secours]] [[DD]] 20 qui inflige 1d6 points de dégâts par round pendant lequel l’hôte a été infesté. Si le test est une réussite, le guérisseur extrait une croûte. La [[guérison des maladies]] tue toute croûte qui se trouve dans un hôte ou sur lui.
 
 <table width="50%"><tr><td>
 <div class="BD">
 {s:BDTitre|Croûte pourrie}
 **Type** [[Dangers#INFESTATION|infestation]] ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 17
-**Incubation** immédiate ; **Fréquence** 1/round
+**Incubation** immédiate ; **Fréquence** 1/round  
 **Effet** Diminution 1d2 points d’[[affaiblissement temporaire]] de [[Constitution]] par croûte.
 </div>
 </td></tr></table>
@@ -131,7 +131,7 @@ Ces plantes poussent en groupe épais dans les marais boueux de l'ouest de la Fa
 #### Morille de minuit (FP 7)
 Ces champignons poussent généralement en groupe de 1,5 mètres de diamètre qui bourgeonnent de dizaines de pieds pales surmontés d'un chapeau conique alvéolé de couleur bleue ou noire et pouvant atteindre les 20 centimètres de hauteur. Ces champignons carnivores se nourrissent de petits insectes et d'autres créatures en projetant de minuscules filaments qui emprisonnement leurs proies puis les attirent jusqu'à leur chapeau creux qui leur sert également de poche digestive. Bien que cette attaque ne représente qu'une faible menace pour les créatures plus grandes que les guêpes ou les mouches, la méthode de reproduction de la morille de minuit est une tout autre histoire. Quand une créature vivante de taille P ou plus grande se trouve à moins de 1,5 mètre d'une morille de minuit, le champignon dégage un nuage de spores invisibles, forçant la créature à réussir un jet de [[Vigueur]] [[DD]] 18 pour résister à l'[[Dangers#INFESTATION|infestation]]. Un personnage qui réussit un test de  [[Connaissances]] (nature) [[DD]] 20 ou de [[Perception]] [[DD]] 25 repère le danger que pose la morille de minuit avant d'arriver à portée de son nuage de spores. La lumière directe du soleil plonge la morille de minuit en sommeil mais ne la blesse pas (quoi que [[rayon de soleil]] et [[explosion de lumière]] détruisent toutes les morailles de minuit présentes dans la zone d'effet). Les dégâts d'origine sacré (comme l'eau bénite ou les armes saintes) détruisent les morilles de minuit, au même titre que le feu.
 
-Quand une créature est [[Dangers#INFESTATION|infestée]] par les spores d'une morille de minuit, celle ci restent en sommeil pendant 1d6 heures. Puis la victime est prise de crampes soudaines et violents dans tous le corps, ce qui la rend  [[fiévreux|fiévreuse]] et lui inflige aussi tôt 1d6 points d’[[affaiblissement temporaire]] de [[Constitution]]. Après cela toutes les minutes pendant 1d4 minutes, la victime doit faire un nouveau jet de [[Vigueur]] [[DD]] 18, pour ne pas subit un nouvel [[affaiblissement temporaire]] de 1d6 points de [[Constitution]] tandis que sa chair devient de plus en plus noire, moite et alvéolée, ce qui n'est pas sans rappeler le chapeau des morilles de minuit. De temps à autres des filaments jaillissent des alvéoles qui se développent sur la créature, essayant d'attraper de petits insectes et autres casse-croûtes.
+Quand une créature est [[Dangers#INFESTATION|infestée]] par les spores d'une morille de minuit, celle ci restent en sommeil pendant 1d6 heures. Puis la victime est prise de crampes soudaines et violents dans tous le corps, ce qui la rend  [[fiévreux|fiévreuse]] et lui inflige aussi tôt 1d6 points d’[[affaiblissement temporaire]] de [[Constitution]]. Après cela toutes les minutes pendant 1d4 minutes, la victime doit faire un nouveau jet de [[Vigueur]] [[DD]] 18, pour ne pas subit un nouvel [[affaiblissement temporaire]] de 1d6 points de [[Constitution]] tandis que sa chair devient de plus en plus noire, moite et alvéolée, ce qui n'est pas sans rappeler le chapeau des morilles de minuit. De temps à autres des filaments jaillissent des alvéoles qui se développent sur la créature, essayant d'attraper de petits insectes et autres casse-croûtes.  
 Une créature qui meurt des suites de ces dégâts de [[Constitution]] s'effondre et se transforme aussitôt en en nouveau groupe de morilles de minuit, créant une zone de 1,5 mètre de diamètre pour chaque case qu'occupait la créatures. Si la victime ne meure par, elle reste [[fiévreux|fiévreuse]] à cause de la douleur tant qu'elle continue de souffrir des effets de son [[affaiblissement temporaire]] de [[Constitution]]. Cette infestation de spore est un effet de poison et ne peut donc pas affecter une créature immunisé au poison, comme les démons.
 
 {s:Reference|NUEEDENEOLARVES}

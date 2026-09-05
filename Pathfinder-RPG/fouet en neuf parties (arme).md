@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 8 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#PARADE|parade]]
+{s:AE}{s:UC}**Prix** 8 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#PARADE|parade]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ([[armes orientales|orientale]])
 ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Ce fouet en neuf parties se compose de barres en acier reliées. La dernière barre est une lourde pointe de 15 centimètres. On peut manier cette arme comme une arme à une main, une arme à deux mains ou par paire. Les fouets en neuf parties sont souvent dotés de foulards colorés fixés aux extrémités pour les contrôler plus facilement.

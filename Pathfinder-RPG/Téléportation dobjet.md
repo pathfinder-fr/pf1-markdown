@@ -11,14 +11,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** 1 objet touché, dans la limite de 25 kg/[[niveau]] et 0,1 m³/[[niveau]]
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** 1 objet touché, dans la limite de 25 kg/[[niveau]] et 0,1 m³/[[niveau]]  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort est semblable à *[[téléportation]]*, si ce n’est qu’il transporte un objet au lieu d’un personnage. Les créatures et les forces magiques (telles que la bille créée par *[[boule de feu à retardement]]*) ne peuvent pas être téléportées de la sorte.
 
 Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan Éthéré. Dans ce cas, l’endroit que l’objet occupait dans le plan Matériel dégage une légère aura magique jusqu’à ce qu’il revienne. Une *[[dissipation de la magie]]* réussie qui cible ce point bien précis ramène l’objet du plan Éthéré.
@@ -27,14 +27,14 @@ Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan Éth�
 
 (((
 ## Téléportation
-**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort transporte instantanément le personnage sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [[NLS|niveau de lanceur de sorts]] mais le personnage ne peut pas se rendre dans un autre plan d’existence. Il peut emporter des objets à concurrence de sa [[charge maximale]] et peut aussi emmener une créature consentante de [[taille M]] ou inférieure (qui transporte un poids inférieur à sa [[charge maximale]]) par tranche de trois [[NLS|niveaux de lanceur de sorts]]. Une créature de [[taille G]] compte comme deux créatures de [[taille M]], une créature de [[taille TG]] vaut quatre créatures de [[taille M]], etc. Toutes les créatures transportées doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le lanceur de sorts. Comme tous les sorts dont la portée est [[personnelle]], le lanceur de sorts n’a pas besoin d’effectuer de [[jet de sauvegarde]] ou de [[test de résistance à la magie]]. Seuls les objets tenus ou utilisés par quelqu’un d’autre nécessitent un tel jet.
 
 Le personnage doit avoir une idée exacte de l’endroit où il va réapparaître. Plus le personnage a une image mentale précise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut être difficile, voire impossible, de se rendre dans certaines zones balayées par de violentes énergies physiques ou magiques.

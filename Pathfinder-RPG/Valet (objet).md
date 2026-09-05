@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa
+{s:AE}**Prix** 5 pa  
 <span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
----
+<hr />
 Un valet est un serviteur en bonne santé physique, qui porte la livrée de son employeur et arriver à destination avant lui pour prendre les dispositions nécessaires (comme réserver une auberge ou une maison de noble). Il a un statut inférieur à celui du domestique. Il symbolise le statut social de son employeur et les valets les plus grands ou les plus avenants gagnent mieux leur. Un valet compétent et agréable peut espérer devenir domestique. Le prix est indiqué par jour.

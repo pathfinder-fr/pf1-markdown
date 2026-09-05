@@ -39,7 +39,7 @@ Si un allié possède sa propre aptitude de rage (comme la [[Barbare#RAGE|rage]]
 
 {s:Reference|CHANTDEMARCHE}
 #### Chant de marche (Sur)
-Au niveau 3, le scalde utilise son chant de rage pour aider ses alliés à se déplacer plus vite sans être fatigués. En dépensant 1 round de chant de rage, il revigore les alliés situés dans un rayon de 18 mètres et leur permet de courir en [[Déplacements|footing]] pendant l’heure qui suit. Ce déplacement est assimilé à une marche (et non un footing) quand il s’agit de déterminer la [[fatigué|fatigue]] et les [[Blessures et mort#NONLETAL|dégâts non-létaux]]. Le scalde doit continuer de chanter pendant toute l’heure, sinon, l’effet se dissipe mais cette heure de chant ne consomme qu’un round de chant de rage utilisé pour l’activer.
+Au niveau 3, le scalde utilise son chant de rage pour aider ses alliés à se déplacer plus vite sans être fatigués. En dépensant 1 round de chant de rage, il revigore les alliés situés dans un rayon de 18 mètres et leur permet de courir en [[Déplacements|footing]] pendant l’heure qui suit. Ce déplacement est assimilé à une marche (et non un footing) quand il s’agit de déterminer la [[fatigué|fatigue]] et les [[Blessures et mort#NONLETAL|dégâts non-létaux]]. Le scalde doit continuer de chanter pendant toute l’heure, sinon, l’effet se dissipe mais cette heure de chant ne consomme qu’un round de chant de rage utilisé pour l’activer. 
 
 {s:Reference|CHANTDEFORCE}
 #### Chant de force (Sur)

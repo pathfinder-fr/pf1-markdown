@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un chaînon d’une chaîne cloutée)
-**Portée** 0 m
-**Effet** une arme faite d’ombres semblable à une [[chaîne cloutée (arme)|chaîne cloutée]]
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un chaînon d’une chaîne cloutée)  
+**Portée** 0 m  
+**Effet** une arme faite d’ombres semblable à une [[chaîne cloutée (arme)|chaîne cloutée]]  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
 *Ce sort, développé à l’origine par les prêtres du dieu de la torture lors des premiers jours de l'État qui le sert, a récemment traversé la frontière qui sépare la magie divine de la magie profane. Même s’il porte toujours les stigmates de son association avec le Seigneur de minuit, les magus et autres lanceurs de sorts profanes formés au combat se sont rapidement appropriés ce sort.*

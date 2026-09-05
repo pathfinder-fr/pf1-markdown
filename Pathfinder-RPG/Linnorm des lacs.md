@@ -52,7 +52,7 @@ Les légendes disent qu’il existe des linnorms encore plus puissants
 que les linnorms des lacs, mais c’est difficile à croire lorsqu’on a vu
 la dévastation que ces linnorms à deux têtes peuvent laisser dans leur
 sillage. Les linnorms des lacs sont de véritables horreurs que craignent
-même les plus puissants héros.
+même les plus puissants héros. 
 
 Ils peuvent rester tapis dans les
 profondeurs obscures des lacs de montagne pendant plusieurs siècles.

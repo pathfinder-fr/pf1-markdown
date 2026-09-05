@@ -15,7 +15,7 @@ Categories:
 Le maître des forges a accès à un seul [[prêtre#DOMAINE|domaine]], celui de l’[[domaine de lArtisanat|Artisanat]] (et non à ses sous-domaines). S’il vénère une divinité, elle doit donner accès au domaine de l’Artisanat.
 
 #### Sorts d’acier
-Le maître des forges ajoute les sorts suivants à sa liste :
+Le maître des forges ajoute les sorts suivants à sa liste : 
 - **Niveau 1** — *[[lames de plomb]]*, *[[chance de lartisan|chance de l’artisan]]*, *[[malchance de lartisan|malchance de l’artisan]]*
 - **Niveau 2** — *[[fracassement]]*, *[[métal brûlant]]*, *[[métal gelé]]*
 - **Niveau 3** — *[[affûtage]]*, *[[arme polyvalente]]*
@@ -25,9 +25,9 @@ Le maître des forges ajoute les sorts suivants à sa liste :
 Quand le maître des forges lance un sort sur une arme, un bouclier ou une armure, il fait effet comme si le personnage avait un niveau de lanceur de sorts de plus qu’en réalité. Si le sort bénéficie d’un ou plusieurs [[dons de métamagie]], il réduit la modification de niveau de 1 (avec un minimum de 0).
 
 #### Forgerune (Sur)
-Un maître des forges peut graver des runes sur une armure, un bouclier ou une arme par une [[action complexe]], en utilisant ce pouvoir et ce, un nombre de fois par jour égal à 3 + modificateur d’[[Intelligence]]. Ces runes durent 1 [[round]] par niveau de lanceur de prêtre, mais, si le personnage inscrit deux fois la même rune sur un objet, elles persistent 1 minute par niveau. S’il en inscrit trois, elles restent 10 minutes par niveau et s’il en inscrit quatre, elles restent une heure par niveau. Un sort d’*[[effacement]]* les affecte comme n’importe quel écrit magique.
+Un maître des forges peut graver des runes sur une armure, un bouclier ou une arme par une [[action complexe]], en utilisant ce pouvoir et ce, un nombre de fois par jour égal à 3 + modificateur d’[[Intelligence]]. Ces runes durent 1 [[round]] par niveau de lanceur de prêtre, mais, si le personnage inscrit deux fois la même rune sur un objet, elles persistent 1 minute par niveau. S’il en inscrit trois, elles restent 10 minutes par niveau et s’il en inscrit quatre, elles restent une heure par niveau. Un sort d’*[[effacement]]* les affecte comme n’importe quel écrit magique. 
 
-Le maître des forges apprend bénédiction du maître des forges au niveau 1 et apprend une rune de plus au niveau 2, puis tous les deux niveaux. Si la rune est marquée d’un astérisque (*), le maître ne peut en placer qu’une seule par objet.
+Le maître des forges apprend bénédiction du maître des forges au niveau 1 et apprend une rune de plus au niveau 2, puis tous les deux niveaux. Si la rune est marquée d’un astérisque (*), le maître ne peut en placer qu’une seule par objet. 
 
 Ce pouvoir remplace [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]].
 - **Ancienne splendeur.** L’arme, l’armure ou le bouclier gravé donne un bonus de circonstances de +2 aux tests de [[Diplomatie]] et d’[[Intimidation]] (+4 en cas d’interaction avec des nains).

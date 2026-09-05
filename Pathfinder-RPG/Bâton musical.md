@@ -8,10 +8,10 @@ LastModified: 2024-05-27 16:22
 {s:AE}{s:BDTitre|Bâton musical|}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 32 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est taillé dans un bois de très bonne qualité et orné de baguettes et de clés en airain, ce qui lui donne des airs d’instrument. Il permet d’utiliser les sorts suivants.
-• *[[son imaginaire]]* (1 charge)
-• *[[hurlement perçant]]* (1 charge)
-• *[[manipulation des sons]]* (2 charges)
+Ce bâton est taillé dans un bois de très bonne qualité et orné de baguettes et de clés en airain, ce qui lui donne des airs d’instrument. Il permet d’utiliser les sorts suivants.  
+• *[[son imaginaire]]* (1 charge)  
+• *[[hurlement perçant]]* (1 charge)  
+• *[[manipulation des sons]]* (2 charges)  
 • *[[mur de son]]* (2 charges)
 
 En outre, par une [[action rapide]], le porteur d’un bâton musical peut transformer celui-ci en un instrument à cordes ou à vent. Tous les tests de [[Représentation]] effectués avec un bâton musical bénéficient d’un bonus de compétence de +5. Le bâton peut également servir à lancer des sorts lorsqu’il est sous forme d’instrument. Il retrouve sa forme de bâton par une [[action libre]].

@@ -15,12 +15,12 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [[Divination (école)|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M/FD]] (un carré d'argent réfléchissant d'une valeur de 100 po)
-**Portée** [[personnelle]]
-**Cibles** le lanceur de sorts
-**Durée** 1 minute/[[niveau]]
+{s:cs}{s:MTT}**École** [[Divination (école)|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M/FD]] (un carré d'argent réfléchissant d'une valeur de 100 po)  
+**Portée** [[personnelle]]  
+**Cibles** le lanceur de sorts  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage essaie d'obtenir une esquisse d'un événement spécifique à partir des [[Plans ésotériques#LESANNALESAKASHIQUES|annales akashiques]], le répertoire extraplanaire de toutes les expériences qui se sont déjà produites. Cela permet au personnage de tenter un test de compétence [[Connaissances|Connaissance]] de son choix par 3 [[NLS|niveaux de lanceur de sorts]] qu'il possède, chacun avec un bonus d'intuition de +10. Le personnage est considéré comme étant formé à toutes les compétences de [[Connaissances]] utilisées pour ces tests, et il peut utiliser ce sort pour relancer un test de compétence de Connaissances qu'il a déjà échoué. Le MJ effectue les tests de Connaissances en secret, car les annales akashiques sont incroyablement éloignées et les impressions glanées dans le référentiel distant sont parfois faussées lorsqu'elles sont reçues. Sur un 1 naturel, la réponse obtenue est extrêmement inexacte.

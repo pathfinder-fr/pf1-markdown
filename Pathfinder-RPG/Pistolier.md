@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [[Exploits|exploits du pistolier]].***
+<div class="fright">***Voir aussi les [[Exploits|exploits du pistolier]].***  
 {s:PM0|pistolier}**Voir les archétypes du pistolier**&emsp;
 <li ID="pistolier" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypepistolier}</li>
 </div>{s:UC}''Pour certains rebelles, les batailles ne font pas le même bruit que pour un guerrier classique. Le fracas de l’acier et les crépitements d’énergie magiques sont noyés sous le tonnerre des coups de feu qui sont autant de roulements de tambours pour le pistolier.

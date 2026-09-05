@@ -64,7 +64,7 @@ Ces terrifiantes sorcières dont on dit qu’elles hantent les marais
 putrides et les forêts aux plantes rabougries éprouvent une haine
 intense pour tout ce qui est beau et pur. Elles adorent se servir de
 leurs diverses capacités de tromperie pour tuer des innocents, perturber
-les esprits nobles et corrompre les cœurs purs.
+les esprits nobles et corrompre les cœurs purs. 
 
 Elles aiment tout particulièrement utiliser [[déguisement]] pour prendre la forme de
 jeunes et séduisantes vierges afin d’éloigner les jeunes gens de leurs
@@ -76,7 +76,7 @@ leurs amants à un moment bien choisi pour accroître l’horreur et la
 honte inspirées. D’autres font durer leur plaisir et font tout ce qu’elles
 peuvent pour dévaster la vie des hommes qu’elles ont séduits avant
 de les mettre face à la vérité une fois qu’ils ont été complètement
-détruits.
+détruits. 
 
 Au final, les plus chanceux parmi ces amants malheureux
 sont ceux qui se font dévorer par leurs compagnes guenaudes vertes.
@@ -101,9 +101,9 @@ Chaque fois que les trois guenaudes
 d’un cercle donné se trouvent à moins
 de 3 mètres l’une de l’autre, elles peuvent
 collaborer pour accéder aux pouvoirs
-magiques suivant :
+magiques suivant : 
 
-[[animation des morts]], [[cage de force]], [[charme-monstre]] (DD 17), [[Clairaudienceclairvoyance|clairaudience/clairvoyance]],
+[[animation des morts]], [[cage de force]], [[charme-monstre]] (DD 17), [[Clairaudienceclairvoyance|clairaudience/clairvoyance]], 
 [[communication avec les morts]],
 [[communion]], [[contrôle du climat]], [[esprit impénétrable]],
 [[flétrissement végétal]] (DD 17), [[malédiction]] (DD 17), [[métamorphose funeste]] (DD 18), [[mirage]] (DD 18), [[réincarnation]], [[songe]], [[vision mystique]], [[voile]] (DD 19).

@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Votre divinité imprègne votre énergie canalisée de munificence.*
+{s:cs}{s:ISG}*Votre divinité imprègne votre énergie canalisée de munificence.* 
 
 **Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6, suivant d'[[Érastil (technique)|Érastil]]
 

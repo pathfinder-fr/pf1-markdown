@@ -8,6 +8,6 @@ LastModified: 2017-11-30 20:46
 
 **Conditions.** Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]].
 
-**Avantage.** Le bonus de [[moine#SERENITE|sérénité]] aux [[jet de sauvegarde|jets de sauvegarde]] s’applique contre les effets de [[possession spirituelle|possession]]. Le personnage peut dépenser une [[types dactions#IMMEDIATE|action immédiate]] et un point de ki pour doubler le bonus de [[moine#SERENITE|sérénité]] au [[jet de sauvegarde]].
+**Avantage.** Le bonus de [[moine#SERENITE|sérénité]] aux [[jet de sauvegarde|jets de sauvegarde]] s’applique contre les effets de [[possession spirituelle|possession]]. Le personnage peut dépenser une [[types dactions#IMMEDIATE|action immédiate]] et un point de ki pour doubler le bonus de [[moine#SERENITE|sérénité]] au [[jet de sauvegarde]]. 
 
 **Normal.** Le pouvoir de classe [[moine#SERENITE|sérénité]] s’applique seulement contre les sorts et effets d’[[enchantement]].

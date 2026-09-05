@@ -13,10 +13,10 @@ Categories:
 (((Description)))
 *Ce sceptre fonctionne comme une masse légère +1 et ressemble au fémur déformé d'une créature monstrueuse.*
 
-Jusqu'à trois fois par jour, lorsque le porteur endommage une créature avec le sceptre, il peut, en tant qu'[[action libre]], forcer la cible à tenter un jet de sauvegarde de [[Volonté]] DD 14. En cas d'échec, la créature subit une malédiction mineure. Le manieur choisit laquelle des malédictions suivantes affecte la cible
-- Pénalité de -2 en [[Force]] (la [[Force]] de la cible ne peut être réduite en dessous de 1)
-- Pénalité de -1 aux jets d'attaque, aux sauvegardes, aux tests d'aptitude et aux tests de compétence
-- La cible a 20% de chances de commencer chaque round avec l'état d'[[Étourdi|étourdissement]].
+Jusqu'à trois fois par jour, lorsque le porteur endommage une créature avec le sceptre, il peut, en tant qu'[[action libre]], forcer la cible à tenter un jet de sauvegarde de [[Volonté]] DD 14. En cas d'échec, la créature subit une malédiction mineure. Le manieur choisit laquelle des malédictions suivantes affecte la cible  
+- Pénalité de -2 en [[Force]] (la [[Force]] de la cible ne peut être réduite en dessous de 1)  
+- Pénalité de -1 aux jets d'attaque, aux sauvegardes, aux tests d'aptitude et aux tests de compétence  
+- La cible a 20% de chances de commencer chaque round avec l'état d'[[Étourdi|étourdissement]]. 
 
 Sur un coup critique réussi, le porteur peut infliger deux malédictions distinctes si la cible rate sa sauvegarde. Sinon, la cible ne peut subir qu'une seule malédiction à la fois.
 

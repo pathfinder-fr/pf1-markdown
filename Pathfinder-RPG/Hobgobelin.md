@@ -48,7 +48,7 @@ régions. Comme ils se reproduisent
 rapidement, leurs morts sont vite remplacés
 par de nouveaux soldats, et ils conservent
 une population stable malgré les heurs
-de la guerre.
+de la guerre. 
 
 Il ne leur faut pas grand
 chose pour déclarer une guerre,
@@ -65,7 +65,7 @@ plus civilisés. Ils considèrent leurs cousins [[gobelours]], plus grands et
 plus solitaires, comme de simples outils à utiliser lorsque c’est nécessaire
 (le plus souvent pour des missions spéciales requérant de la
 discrétion ou impliquant un assassinat). Ils voient les [[Gobelin|gobelins]] avec
-un mélange de honte et d’agacement.
+un mélange de honte et d’agacement. 
 
 Ils admirent la ténacité de leurs petits cousins mais leur nature imprévisible et leur penchant pour
 le feu les rend indésirables dans les communautés hobgobelines.
@@ -79,7 +79,7 @@ est fascinée par la science des machines de guerre, l’alchimie
 et les merveilles de la mécanique. Les hobgobelins qui sont
 particulièrement doués dans ces domaines sont considérés
 comme des héros et accèdent invariablement à de hautes positions
-au sein de la tribu.
+au sein de la tribu. 
 
 Les hobgobelins accordent beaucoup de valeur
 aux esclaves dotés d’un esprit analytique. C’est pour cela qu’ils
@@ -92,7 +92,7 @@ chamanes suscitent un mélange
 de terreur et de respect et sont
 généralement contraints à vivre
 seuls dans un coin reculé du
-campement.
+campement. 
 
 Les hobgobelins qui
 pratiquent la magie profane (ou,

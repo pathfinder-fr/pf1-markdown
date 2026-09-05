@@ -12,7 +12,7 @@ Categories:
 
 **Formation nécessaire** : non
 
-*Le personnage connaît un ou plusieurs arts du spectacle (tels que chant, théâtre, instrument de musique).*
+*Le personnage connaît un ou plusieurs arts du spectacle (tels que chant, théâtre, instrument de musique).* 
 
 Comme les compétences d’[[Artisanat]], de [[Connaissances]] et de [[Profession]], la compétence de Représentation regroupe plusieurs compétences correspondant à des formes de spectacle distinctes. Le personnage peut connaître plusieurs formes de Représentation et investir des points de compétences séparément dans chacune d’elles.
 

@@ -15,17 +15,17 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Universelle]] ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[Composantes|V, G, F]] (un diapason en bronze)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible**  une créature
+{s:RSE}**École** [[Universelle]] ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[Composantes|V, G, F]] (un diapason en bronze)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible**  une créature  
 **Durée** instantanée
 
 Le personnage utilise la résonance magique qui existe entre ses alliés et lui-même pour améliorer la magie de chacun. Il peut lancer ce sort quand un de ses alliés lance un sort inférieur d’au moins un niveau au sort de plus haut niveau qu’il peut lancer. L’allié lance alors son sort comme s’il bénéficiait d’un des dons de métamagie suivants, sans que cela augmente le niveau du sort ni sa durée d’incantation : [[Extension de durée]], [[Extension de portée]], [[Incantation statique]], [[Incantation silencieuse]].
 
-Si l’allié est la cible de deux *thaumaturgies associatives*, il peut appliquer le don [[Extension deffet|Extension d’effet]] à un sort inférieur d’au moins deux niveaux au sort de plus haut niveau qu’il peut lancer.
+Si l’allié est la cible de deux *thaumaturgies associatives*, il peut appliquer le don [[Extension deffet|Extension d’effet]] à un sort inférieur d’au moins deux niveaux au sort de plus haut niveau qu’il peut lancer. 
 
-Enfin, si l’allié est la cible de trois *thaumaturgies associatives*, il peut appliquer les dons [[Quintessence des sorts]] ou [[Extension de zone deffet|Extension de zone d’effet]] à un sort inférieur d’au moins trois niveaux au sort de plus haut niveau qu’il peut lancer.
+Enfin, si l’allié est la cible de trois *thaumaturgies associatives*, il peut appliquer les dons [[Quintessence des sorts]] ou [[Extension de zone deffet|Extension de zone d’effet]] à un sort inférieur d’au moins trois niveaux au sort de plus haut niveau qu’il peut lancer. 
 
 Le personnage ne peut pas se prendre pour cible d’une *thaumaturgie associative*.

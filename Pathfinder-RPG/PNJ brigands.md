@@ -105,8 +105,8 @@ Un [[PNJ criminels#MAITREDEGUILDE|maître de guilde]] peut avoir deux bandits de
 {s:BDTexte|**Faveur** Les seigneurs bandits peuvent s’arranger pour que les PJ et leurs alliés puissent voyager sans être attaqués par les bandits pendant 3 jours. Ils peuvent également faciliter l’achat ou la vente de biens (calculez la limite de pièces d’or comme si la communauté avait une taille de plus que sa taille réelle).}
 </div>
 </td><td><div>
-Les seigneurs bandits sont les audacieuses têtes pensantes qui gouvernent des gangs de bandits, bien souvent depuis un camp situé au milieu des bois où nulle piste ne conduit, de repaires cachés dans les bas-quartiers tout aussi difficiles à atteindre, ou encore des égouts d’une grande cité.
-Certains dissimulent leur identité derrière un déguisement ou un nom d’emprunt  alors  que  d’autres  recherchent  la  célébrité.  Les  seigneurs bandits  peuvent  être  utilisés  comme  assassins,  duellistes  ou  maîtres
+Les seigneurs bandits sont les audacieuses têtes pensantes qui gouvernent des gangs de bandits, bien souvent depuis un camp situé au milieu des bois où nulle piste ne conduit, de repaires cachés dans les bas-quartiers tout aussi difficiles à atteindre, ou encore des égouts d’une grande cité. 
+Certains dissimulent leur identité derrière un déguisement ou un nom d’emprunt  alors  que  d’autres  recherchent  la  célébrité.  Les  seigneurs bandits  peuvent  être  utilisés  comme  assassins,  duellistes  ou  maîtres 
 d’armes de la cour.
 
 Ils peuvent avoir deux [[PNJ mercenaires#MERCENAIREARME|mercenaires armés]] comme gardes du corps et partenaires d’entraînement (FP 12) ou voyager avec un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]], un [[PNJ mercenaires#MERCENAIREARME|mercenaire armé]] et un gang de huit [[PNJ brigands#BANDIT|bandits]] (FP 12).

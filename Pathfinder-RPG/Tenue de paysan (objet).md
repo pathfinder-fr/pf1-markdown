@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 1 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Ces vêtements sont de qualité médiocre, le tissu n’étant rien de plus que de la toile de jute, souvent rapiécée et recousue de nombreuses fois. La tenue de paysan comprend une chemise ample et un pantalon large ou une chemise ample et une jupe ou une chasuble. On utilise des bandes de tissu en guise de chaussures, ce qui fait que les pieds sont nettement plus usés.

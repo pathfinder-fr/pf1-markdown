@@ -45,7 +45,7 @@ ou des âmes torturées qui les entourent. Les traits des lémures,
 monstrueux et inutiles, n’ont rien à voir avec ce qu’ils étaient
 autrefois. Certains d’entre eux possèdent plusieurs visages
 horribles ou se réduisent à des colonnes bouillonnantes
-de tumeurs.
+de tumeurs. 
 
 Seuls leurs membres noueux (bras et jambes)
 semblent avoir une véritable fonction et celle-ci se limite bien
@@ -62,7 +62,7 @@ perverse de l’Enfer. Lorsqu’à la fin de sa vie, l’âme d’un individu
 se retrouve damnée (parce qu’il a vénéré des forces diaboliques
 ou a refusé de vénérer un autre dieu), elle rejoint la foule d’âmes
 en souffrance qui habitent les plaines de l’Avernus, la première
-strate de l’Enfer.
+strate de l’Enfer. 
 
 Là, ses tourments commencent alors que des
 diables mineurs la regroupe avec d’autres esprits semblables en vue d’un long et dangereux voyage vers une des autres strates de
@@ -71,7 +71,7 @@ la punition qui correspond aux crimes de l’âme ou tout simplement
 le domaine d’un diable qui a besoin d’esclaves. Une fois arrivées
 dans leur domaine de damnation, les âmes subissent des éternités
 de souffrance infligées par les diables, les autres fiélons et les
-dangereuses machinations de l’Enfer lui-même.
+dangereuses machinations de l’Enfer lui-même. 
 
 Les anciennes
 essences mortelles sombrent lentement dans la folie, oublient leur
@@ -80,7 +80,7 @@ terreur et de haine. Après ces souffrances interminables, les âmes
 sont soit complètement annihilées par l’Enfer, soit (dans le cas des
 esprits les plus vils) remodelés sous la forme de lémures, des amas
 abominables de crasse et de chair diabolique qui constituent les
-briques de base à partir desquelles les diables sont créés.
+briques de base à partir desquelles les diables sont créés. 
 
 Ces êtres répugnants se rassemblent en de vastes troupeaux semblables à des
 vagues de corruption comportant plusieurs milliers d’individus.

@@ -12,14 +12,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 15 000 po)
-**Portée** 0 m ; voir texte
-**Effet** un symbole
-**Durée** voir texte
+{s:UM}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 15 000 po)  
+**Portée** 0 m ; voir texte  
+**Effet** un symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[symbole de mort]]* mais il sape les défenses de toutes les créatures situées dans les 18 mètres (12 {s:c}). Elles subissent un malus de -4 à la [[RM|résistance à la magie]] et aux [[Jet de sauvegarde|jets de sauvegarde]]. Les [[résistance|résistances aux énergies]] et à la [[RD|réduction de dégâts]] (le cas échéant) sont réduites de 10 chacune (avec un minimum de 0). Une fois le symbole déclenché il reste actif pendant 10 minutes par [[NLS|niveau de lanceur de sorts]]. L’effet dure tant qu’il y a une créature dans les 18 mètres (12 {s:c}) puis 1 [[round]]/[[NLS|niveau]] quand il n’y a plus personne.
 
 On peut rendre le *symbole de vulnérabilité* permanent à l’aide d’un sort de *[[permanence]]* si le lanceur de sorts est de [[NLS|niveau]] 18 ou plus et s’il paie 25 000 po.
@@ -28,14 +28,14 @@ On peut rendre le *symbole de vulnérabilité* permanent à l’aide d’un sort
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

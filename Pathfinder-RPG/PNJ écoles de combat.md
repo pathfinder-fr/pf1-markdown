@@ -77,7 +77,7 @@ Un initié peut escorter deux [[PNJ temples#ACOLYTE|acolytes]] (FP 3) et quatre 
 </td><td><div>
 Les moines combattants sont les instructeurs des écoles de combat et des monastères. Ils enseignent l’agilité et la perfection du mouvement à leurs étudiants. Ils forment également la garde d’honneur de leurs maîtres et jouent le rôle de messagers et d’émissaires pour l’école et ses méthodes.
 
-Les moines de combat font d’excellents chasseurs de voleurs et de prime de niveau modéré, capables d’attraper leur cible, de la mettre hors d’état de combattre et de la ramener pour un interrogatoire. Ils peuvent également servir de gardes du corps
+Les moines de combat font d’excellents chasseurs de voleurs et de prime de niveau modéré, capables d’attraper leur cible, de la mettre hors d’état de combattre et de la ramener pour un interrogatoire. Ils peuvent également servir de gardes du corps 
 restant efficaces même sans arme.
 
 Un moine combattant est souvent accompagné d’un trio d’[[PNJ écoles de combat#INITIE|initiés]] (FP 6). Deux moines combattants peuvent accompagner un [[PNJ croisés#GUERRIERSAINT|guerrier saint]] en relation avec l’école (FP 8).

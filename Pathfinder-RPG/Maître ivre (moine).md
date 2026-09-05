@@ -19,13 +19,13 @@ Tant que le moine possède au moins 1 point de ki alcoolisé, il peut dépenser 
 
 #### Force de l’ivrogne (Sur)
 Au niveau 5, un maître ivre peut dépenser 1 point de ki par une [[action rapide]] pour infliger 1d6 points de dégâts supplémentaires lors d’une [[attaque au corps à corps]] réussie. Le moine peut choisir d’utiliser cette
-capacité après avoir effectué le [[jet dattaque|jet d’attaque]].
+capacité après avoir effectué le [[jet dattaque|jet d’attaque]]. 
 
 Au niveau 10, le moine peut dépenser 2 points de ki alcoolisé pour accroître les dégâts supplémentaires à 2d6.
 
-Au niveau 15, il peut dépenser 3 points de ki alcoolisé pour accroître les dégâts supplémentaires à 3d6.
+Au niveau 15, il peut dépenser 3 points de ki alcoolisé pour accroître les dégâts supplémentaires à 3d6. 
 
-Au niveau 20, il peut dépenser 4 points de ki alcoolisé pour accroître les dégâts supplémentaires à 4d6.
+Au niveau 20, il peut dépenser 4 points de ki alcoolisé pour accroître les dégâts supplémentaires à 4d6. 
 
 Le moine doit avoir au moins 1 point de ki alcoolisé pour utiliser cette capacité, qui remplace [[moine#PURETEPHYSIQUE|Pureté physique]].
 

@@ -38,7 +38,7 @@ Categories:
 (((Pouvoirs spéciaux)))
 - ** Immunité à la magie (Ext)**. Le golem de corail est immunisé à tous les sorts et pouvoirs magiques autorisant une résistance à la magie. En outre, certains sorts et effets fonctionnent différemment contre la créature, comme indiqué ci-dessous.
 - Tous les sorts du registre de l’eau soignent le golem de corail de 1d6 points de dégâts par niveau du lanceur (10d6 au
-maximum).
+maximum). 
 - *[[Transmutation de la pierre en boue]]* ralentit le golem de corail (comme le ferait le sort de lenteur) pendant 1d6
 rounds (pas de jet de sauvegarde).
 - *[[Transmutation de la boue en pierre]]* augmente les dégâts de saignement du golem qui passent à 2d6 pendant 3 rounds.

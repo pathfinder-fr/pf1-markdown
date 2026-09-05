@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po (standard), 25 po (de qualité), 50 po (de maître) ; **Poids** 0,25 kg (standard), 0,5 kg (de qualité), 0,5 kg (de maître)
+{s:AE}**Prix** 1 po (standard), 25 po (de qualité), 50 po (de maître) ; **Poids** 0,25 kg (standard), 0,5 kg (de qualité), 0,5 kg (de maître)  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Les individus en harmonie avec le monde des esprits utilisent ce jeu de cartes illustrées pour prédire l’avenir tandis que les charlatans s’en servent pour soutirer leur argent aux personnes crédules. Un jeu de cartes standard présente des illustrations sobres sur de simples plaques en bois.  
   
 *Tarot de voyant de qualité.* Un tarot de voyant de qualité se compose généralement de plaques en bois avec des illustrations peintes en couleur, il peut servir de focalisateur pour le sort d’*[[augure]]* et accorde un bonus de circonstances de +1 aux tests de [[Profession]] (diseuse de bonne aventure), [[Profession]] (médium) et autres professions similaires.  

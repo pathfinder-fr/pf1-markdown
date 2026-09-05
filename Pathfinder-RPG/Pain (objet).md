@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg
+{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Il s’agit d’une miche de pain dont la croûte peut être craquante ou tendre, en fonction des ingrédients locaux et de la cuisson. Ce peut être du pain au levain ou non, en fonction de la levure utilisée pour le faire gonfler. Le pain azyme est également appelé galette de pain, son épaisseur pouvant aller de celle d’un biscuit à 2,5 centimètres. Le pain au levain et le pain azyme peuvent être fourrés au fromage, aux fruits, aux olives, à la viande ou à d’autres ingrédients riches lorsqu’on les prépare pour des événements festifs. Le pain laissé à l’air libre devient sec et rassis en une journée.

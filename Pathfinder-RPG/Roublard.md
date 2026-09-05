@@ -7,8 +7,8 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[Talents|talents de roublard]].***
-***Voir la [[Roublard unchained|version unchained]] du roublard.***
+<div class="fright">***Voir aussi les [[Talents|talents de roublard]].***  
+***Voir la [[Roublard unchained|version unchained]] du roublard.***  
 {s:PM0|roublard}**Voir les archétypes du roublard**&emsp;
 <li ID="roublard" CLASS="listecachée" STYLE="display:none">{s:Menuarchétyperoublard}</li>
 </div>*Pour ceux qui subsistent grâce à leur vivacité d’esprit, la vie est une aventure sans fin. Ces roublards qui semblent toujours sentir le danger à l’avance comptent sur leur ruse, leur habileté et leur charme pour tourner le destin à leur avantage. Comme on ne sait jamais à quoi s’attendre, ils se préparent à toutes les éventualités en acquérant de nombreuses compétences et en s’entraînant à devenir de fins manipulateurs, d’agiles acrobates, des ombres discrètes ou encore des experts dans des dizaines d’autres professions ou domaines. Les voleurs et les joueurs, les beaux parleurs et les diplomates, les bandits et les chasseurs de primes, les explorateurs et les enquêteurs : toutes ces occupations rentrent dans la catégorie des roublards, tout comme d’innombrables autres professions nécessitant un esprit vif, une certaine habileté au combat ou un bonne étoile. Beaucoup de roublards préfèrent les villes et les nombreuses opportunités que la civilisation leur offre mais certains adoptent une vie de nomade, visitent de lointaines contrées, rencontrent des peuples exotiques et affrontent des dangers incroyables tout en recherchant des trésors qui le sont tout autant. En fin de compte, tous ceux qui désirent façonner leur destin et leur vie à leur convenance pourraient être considérés comme des roublards.*
@@ -233,7 +233,7 @@ Le roublard est formé au maniement de toutes les armes courantes, de l'arbalèt
 #### Attaque sournoise
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#11|→]] Attaque sournoise : Puis-je ajouter des dégâts d’attaque sournoise aux attaques simultanées d’un sort ?***
 
-Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.
+Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.  
 Les attaques de sort qui ne sont pas simultanées, comme les différentes attaques par round d’un [[druide]] de niveau 8 qui utilise *[[lame de feu]]*, peuvent appliquer les dégâts d’<u>[[Roublard#ATTAQUESOURNOISE|attaque sournoise]]</u> à chaque attaque tant que celles-ci y sont éligibles (la cible est privée de son bonus de Dex ou est prise en tenaille par le lanceur).}Lorsqu’un roublard attaque son adversaire dans une situation où ce dernier est incapable de se défendre efficacement, il peut lui infliger des dégâts supplémentaires en touchant un point sensible.
 
 L’attaque du roublard inflige des dégâts supplémentaires lorsque sa cible se trouve dans un cas de figure lui ôtant son bonus de [[Dextérité]] à la [[CA]] (qu’elle en ait un ou pas) ou qu’elle est [[prise en tenaille]] par le roublard et un compagnon de celui-ci. Les dégâts supplémentaires s’élèvent à 1d6 points au niveau 1, et ils augmentent de 1d6 points tous les deux niveaux de roublard suivants. Si le roublard obtient un [[coup critique]] sur une attaque sournoise, ces dégâts supplémentaires ne sont pas multipliés. Une [[attaque à distance]] ne peut être une attaque sournoise que si la cible se trouve à 9 m (6 cases) ou moins.

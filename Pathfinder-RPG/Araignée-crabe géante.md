@@ -53,28 +53,28 @@ Categories:
 
 </div>*Les pattes de cette araignée jaune pâle s’étendent de chaque côté de son corps, lui donnant une posture très particulière. Elle est aussi grande qu’un gros chien.*
 
-Les araignées-crabes géantes sont de
-dangereux prédateurs qui prennent leur
-proie en embuscade et vivent au milieu
-de la végétation dense des forêts.
-Si elles ne sont pas des tisseuses de
-toiles, elles sont en revanche
-très douées en escalade et
-se servent de cette faculté
-pour grimper dans des
-endroits d’où elles peuvent
-observer de vastes zones
-depuis les hauteurs. Tirant
-leur nom de leur curieuse
-démarche précipitée et de
-leurs longues pattes leur
-donnant une étrange
-posture, les araignées-crabes géantes excèdent
-rarement la taille d’un
-halfelin adulte normal.
+Les araignées-crabes géantes sont de 
+dangereux prédateurs qui prennent leur 
+proie en embuscade et vivent au milieu 
+de la végétation dense des forêts. 
+Si elles ne sont pas des tisseuses de 
+toiles, elles sont en revanche 
+très douées en escalade et 
+se servent de cette faculté 
+pour grimper dans des 
+endroits d’où elles peuvent 
+observer de vastes zones 
+depuis les hauteurs. Tirant 
+leur nom de leur curieuse 
+démarche précipitée et de 
+leurs longues pattes leur 
+donnant une étrange 
+posture, les araignées-crabes géantes excèdent 
+rarement la taille d’un 
+halfelin adulte normal. 
 
 #### L'araignée-crabe géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[poison]]) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [[perception des vibrations]] à 9 m, [[vision dans le noir]] ; ** DMD** croc-en-jambe +12
+**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[poison]]) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [[perception des vibrations]] à 9 m, [[vision dans le noir]] ; ** DMD** croc-en-jambe +12 
 
 **Évolution au niveau 4.**  **Taille** M **CA** armure naturelle +1 **Attaque** morsure (1d6 plus poison)
 **Caractéristiques** For +4, Dex -2, Con +2

@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 1 po ; **Poids** —
+{s:cs}{s:UI}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 Ces fléchettes minuscules et légères fonctionnent comme des [[Fléchettes de sarbacane (arme)|fléchettes de sarbacane]], mais sont conçues pour délivrer subrepticement un poison plutôt qu’infliger des dégâts. Lorsque le personnage touche avec une fléchette, le poison est injecté dans la cible alors que la fléchette se brise et se détache, rendant la plaie difficile à situer. Une quelconque [[RD|réduction de dégâts]], [[solidité]] ou protection similaire empêche la fléchette poids-plume de délivrer son poison. Il faut réussir un test de [[Perception]] [[DD]] 20 en examinant la cible afin de localiser la perforation, et trouver la fléchette là où elle est tombée nécessite un test de Perception DD 15. Cette munition peut être utilisée aussi bien avec les [[Sarbacane (arme)|sarbacanes]] qu’avec les [[tube-amorce (arme)|tubes-amorce]].

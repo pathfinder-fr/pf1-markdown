@@ -8,10 +8,10 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 5 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#SPECTACLE|spectacle]]
+{s:AE}{s:UC}**Prix** 5 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#SPECTACLE|spectacle]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
 [[FAQ- lArt de la guerre#26|→]] Fouets scorpions : Comment les fouets scorpions fonctionnent-ils ? Il y a plusieurs sources publiées pour les fouets scorpions, et elles semblent incohérentes.**'

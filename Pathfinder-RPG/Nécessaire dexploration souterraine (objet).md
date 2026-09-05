@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po (standard), 130 po (de luxe) ; **Poids** 12,5 kg (standard), 7,5 kg (de luxe)
+{s:AE}**Prix** 15 po (standard), 130 po (de luxe) ; **Poids** 12,5 kg (standard), 7,5 kg (de luxe)  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Ce balluchon de fournitures essentielles à l'exploration des ruines et des villes abandonnées comprend deux [[Bougie (objet)|bougies]], de la [[Craie (objet)|craie]], un [[Marteau (objet)|marteau]] et quatre [[Piton (objet)|pitons]], 15 mètres de [[Corde (objet)|corde de chanvre]], une [[Lanterne à capote (objet)|lanterne à capote]] avec 5 flasques d'[[Huile (objet)|huile]], deux [[Sac (objet)|sacs]], deux [[Torche (objet)|torches]] et quatre [[Allume-feu (objet)|allume-feu]].  
   
 *Nécessaire d'exploration souterraine de luxe.* Le nécessaire d'exploration souterraine de luxe comprend deux [[Bougie (objet)|bougies]], une [[Craie (objet)|craie]], un [[Marteau (objet)|marteau]] et quatre [[Piton (objet)|pitons]], 15 mètres de [[Corde (objet)|corde de soie]], deux [[Sac (objet)|sacs]], trois [[Bâton éclairant (objet)|bâtons éclairants]], quatre [[Allume-feu (objet)|allume-feu]] et une [[Torche éternelle (objet)|torche éternelle]].

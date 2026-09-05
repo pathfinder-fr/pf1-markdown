@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png}{s:cs}{s:ISG}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** contact
-**Cibles** créature touchée
-**Durée** instantanée
+{s:divin|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png}{s:cs}{s:ISG}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** contact  
+**Cibles** créature touchée  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La prochaine fois que la cible s'endort (dans les huit heures), elle rêve d'un riche festin composé de ses boissons et plats favoris. Quand elle se réveille, elle est repue, comme si elle avait mangé un repas nutritif, peu importe la nature de ce qu'elle a mangé en rêve. La cible doit dormir au moins 1 heure pour bénéficier des effets de ce sort. Si elle est réveillé pendant cette période, le sort est interrompu et ses effets sont annulés.

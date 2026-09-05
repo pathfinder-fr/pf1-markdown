@@ -54,7 +54,7 @@ propension à chasser et à se déplacer en meutes qu’ils doivent leur
 nom, une appellation que de nombreux gobelins n’apprécient pas
 d’ailleurs, tant cela les énerve de considérer que leurs montures
 préférées puissent avoir quoi que ce soit en commun avec les vrais
-chiens.
+chiens. 
 
 Mais les gobelins restent des goblins… ce qui explique
 pourquoi ils ne se sont pas donné la peine de trouver un autre nom

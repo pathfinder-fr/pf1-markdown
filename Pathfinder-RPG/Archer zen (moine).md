@@ -21,15 +21,15 @@ Dès le niveau 1, un archer zen peut porter un [[moine#DELUGEDECOUPS|déluge de 
 Un archer zen ne peut pas utiliser [[Feu nourri]] ni [[Tir rapide]] lorsqu’il porte un déluge de coups avec son arc.
 
 #### Dons supplémentaires
-L’archer zen doit choisir ses [[moine#DONSUPPLEMENTAIRE|dons supplémentaires]] parmi la liste suivante : [[Attaques réflexes]], [[Esquive]], [[Parade de projectiles]], [[Tir à bout portant]], [[Tir de loin]], [[Tir de précision]] et [[Tir rapide]].
-Au niveau 6, les dons suivants s’ajoutent à la liste : et [[Feu nourri]], [[Science du tir de précision]], [[Souplesse du serpent]], [[Tir avec concentration]] et [[Tir en retraite]].
-Au niveau 10, les dons suivants s’ajoutent à la liste : [[Capture de projectiles]], [[Science du critique]], [[Tir en mouvement]] et [[Viser juste]].
+L’archer zen doit choisir ses [[moine#DONSUPPLEMENTAIRE|dons supplémentaires]] parmi la liste suivante : [[Attaques réflexes]], [[Esquive]], [[Parade de projectiles]], [[Tir à bout portant]], [[Tir de loin]], [[Tir de précision]] et [[Tir rapide]]. 
+Au niveau 6, les dons suivants s’ajoutent à la liste : et [[Feu nourri]], [[Science du tir de précision]], [[Souplesse du serpent]], [[Tir avec concentration]] et [[Tir en retraite]]. 
+Au niveau 10, les dons suivants s’ajoutent à la liste : [[Capture de projectiles]], [[Science du critique]], [[Tir en mouvement]] et [[Viser juste]]. 
 
 Le moine n’a pas besoin de remplir les [[dons#CONDITIONS|conditions d’accès]] de ces [[don|dons]] pour pouvoir les choisir.
 
 Ces listes remplacent les listes de dons supplémentaires des moines ordinaires.
 #### Coup parfait (Ext)
-Au niveau 1, l’archer zen gagne [[Coup parfait]] comme don supplémentaire, même s’il n’en remplit pas les conditions. Il peut utiliser Coup parfait avec n’importe quel arc.
+Au niveau 1, l’archer zen gagne [[Coup parfait]] comme don supplémentaire, même s’il n’en remplit pas les conditions. Il peut utiliser Coup parfait avec n’importe quel arc. 
 
 Au niveau 10, le moine peut lancer trois jet d’attaque et choisir le meilleur résultat. Si un de ces jets est un [[coup critique|critique]] potentiel, il peut choisir lequel des autres résultats servira de jet de confirmation. Cette capacité remplace [[moine#COUPETOURDISSANT|Coup étourdissant]].
 

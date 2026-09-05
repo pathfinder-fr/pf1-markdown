@@ -40,7 +40,7 @@ Enfin la chose la plus importante aux yeux du gouvernement est le commerce. Tout
 
 Même si la plupart des locaux possèdent leur propre logis, il existe de nombreuses maisons en location pour les marchands et marins ne résidant pas dans la cité. Il est très courant pour les ouvriers de vivre dans l'échoppe ou la résidence de leur employeur. Le prix d'un toit varie énormément suivant sa catégorie et la cote du quartier où il est installé.
 
-Donjon : Un donjon est un ensemble de bâtiment connecté par un mur d'enceinte. Certaines familles influentes, commerçants et organisations possèdent leur propre donjon afin de leur servir de ligne de défense supplémentaire en cas de siège. Atteignant généralement quatre étages, ce genre de lieu peut-être
+Donjon : Un donjon est un ensemble de bâtiment connecté par un mur d'enceinte. Certaines familles influentes, commerçants et organisations possèdent leur propre donjon afin de leur servir de ligne de défense supplémentaire en cas de siège. Atteignant généralement quatre étages, ce genre de lieu peut-être 
 
 
 ### Économie
@@ -73,7 +73,7 @@ La plupart des pièces de cuivre sont appelées *centimes*. Rarement utilisées 
 Toujours appelée une livre d'argent et jamais une livre, ces pièces sont toujours utilisées comme référence pour indiquer les prix - même dans le cas d'importants achats. Une épée double de qualité supérieure coûtera par exemple 3.150 livres d'argent.
 
 **La crête d’électrum** :
-Souvent simplement appelées *crêtes*, ces pièces d'électrum ne sont plus frappées à Absalom. Leur création remonte à l'un des nombreux sièges de la ville : les réserves de métaux précieux s'amoindrissant on du produire une monnaie faite à partir d'un alliage de cuivre, d'argent et d'or. Chacune d'entre elles a la même valeur qu'une livre d'argent. Ces pièces ne sont acceptées qu'à Absalom.
+Souvent simplement appelées *crêtes*, ces pièces d'électrum ne sont plus frappées à Absalom. Leur création remonte à l'un des nombreux sièges de la ville : les réserves de métaux précieux s'amoindrissant on du produire une monnaie faite à partir d'un alliage de cuivre, d'argent et d'or. Chacune d'entre elles a la même valeur qu'une livre d'argent. Ces pièces ne sont acceptées qu'à Absalom. 
 
 **La mesure d'or** :
 Pesant exactement une once *(~ 31g)*, la mesure d'or d'Absalom s'est rapidement imposée comme un standard pour toutes les autres pièces dorées du monde entier. On s'y réfère généralement simplement par le terme *mesure*.
@@ -86,11 +86,11 @@ Aussi appelée *Pièce du Lion*, cette monnaie est principalement utilisée au c
 
 #### Les Maisons
 
-Les Maisons d'Absalom sont des clans familiaux et politiques atypiques. Leurs membres revendiquent une forte appartenance à leur pays d'origine et peuvent acheter des titres mineurs au Grand Conseil - obtenant alors le statut de Seigneur ou de Dame. Le Scion, un doyen respectable de la Maison, octroie ces rangs à ceux qu'ils considèrent comme dignes d'un tel égard. C'est également celui qui évalue les différents postulants et les accepte ou non dans le clan. Les descendants de tout individu doté d'un titre mineur sont automatiquement intégrés à la maisonnée - même s'ils n'héritent pas du statut de leur ancêtre.
+Les Maisons d'Absalom sont des clans familiaux et politiques atypiques. Leurs membres revendiquent une forte appartenance à leur pays d'origine et peuvent acheter des titres mineurs au Grand Conseil - obtenant alors le statut de Seigneur ou de Dame. Le Scion, un doyen respectable de la Maison, octroie ces rangs à ceux qu'ils considèrent comme dignes d'un tel égard. C'est également celui qui évalue les différents postulants et les accepte ou non dans le clan. Les descendants de tout individu doté d'un titre mineur sont automatiquement intégrés à la maisonnée - même s'ils n'héritent pas du statut de leur ancêtre. 
 
 Il y a des centaines de Maisons à Absalom mais la plupart d'entre elles n'ont pas assez d'influence pour être reconnues par le peuple. De plus certains puissants personnages ne revendiquent pas d'appartenance à une telle organisation ou font partie d'une maisonnée possédant peu de pouvoir - c'est notamment le cas du [[Seigneur Gyr]], la Maison Gixx étant de moindre importance. En général un individu adopte le nom de sa Maison comme nom de famille. Ceux qui en sont dépourvus se contentent de leur nation d'origine, d'un surnom ou de l’appellation "*De Gyr*" pour montrer leur loyauté au Primarque.
 
-La plupart des Maisons sympathisent avec leurs nations d'origine et peuvent être en contact avec la noblesse de ces pays. Même si elles restent avant tout fidèles à Absalom, ces organisations tenteront toujours d'aider leurs compatriotes sans entrer en conflit avec les intérêts de la ville. On note de rares Maisons plus loyales à leur province d'origine qu'à Absalom mais une grande majorité d'entre elles se rallieront au parti le plus riche ou puissant lors d'un conflit d'influence.
+La plupart des Maisons sympathisent avec leurs nations d'origine et peuvent être en contact avec la noblesse de ces pays. Même si elles restent avant tout fidèles à Absalom, ces organisations tenteront toujours d'aider leurs compatriotes sans entrer en conflit avec les intérêts de la ville. On note de rares Maisons plus loyales à leur province d'origine qu'à Absalom mais une grande majorité d'entre elles se rallieront au parti le plus riche ou puissant lors d'un conflit d'influence. 
 
 Pour plus de précisions : [[Maisons|Liste des Maisons d'Absalom]]
 
@@ -111,7 +111,7 @@ Absalom fait également souvent appel à des savants de [[Katheer]]. Les écoles
 Très peu d'embarcations marchandes quittent [[Niswan]]. Il arrive toutefois qu'un navire de cette cité apporte des biens vudranis sur les marchés d'Absalom. Par conséquent ces visiteurs sont toujours bien accueillis par des étals convoitant ces ressources rares et par des marchands tentant par tout les moyens d'obtenir des informations sur la prochaine cargaison.{br}
 Il en résulte une popularité certaine des commerçants vudranis à Absalom et des profits assurés à chacune de leur escale. Une vérité vue d'un mauvais oeil par les marchands taldans et chelaxiens qui font des voyages plus réguliers mais se voient accorder bien moins de privilèges.{br}{br}
 **Okeno :**{br}
-Les esclavagistes d'[[Okeno]] achètent souvent les pires éléments des fosses d'Absalom à bas prix afin de s'en servir comme personnel bon marché pour débarquer leurs propres esclaves.
+Les esclavagistes d'[[Okeno]] achètent souvent les pires éléments des fosses d'Absalom à bas prix afin de s'en servir comme personnel bon marché pour débarquer leurs propres esclaves. 
 
 Leurs navires jaunâtres servent également de passerelle entre Absalom et [[Katapesh]]. En effet les bazars cette province sont les seuls à pouvoir égaler, voire surpasser, l'ampleur de ceux de la Ville au Centre du Monde. Par conséquent une taxe très onéreuse est perçue sur tout navire affichant un drapeau katapesh - une politique ne s'appliquant pas sur les embarcations d'[[Okeno]]. Les esclavagistes transportent alors des ressources spécifiques de [[Katapesh]] afin de répondre à des demandes spéciales d'Absalom sans subir d'impôt.{br}{br}
 **Oppara :**{br}
@@ -182,7 +182,7 @@ Il y a quinze quartiers, parfois appelés districts, à l'intérieur des murs d'
 - Le **[[Quartier de la Sagesse]]** (*Wise Quarter*) : Ce district est situé juste au sud du [[Fort Azlante]]. Il regroupe la plupart des centres de formations et d'éducation d'Absalom.
 
 
-Absalom étant déjà très peuplée, et son territoire intramuros non extensible, beaucoup de nouveaux arrivants se sont regroupés hors les murs, dans quatre villages qui sont sous la juridiction de la ville :
+Absalom étant déjà très peuplée, et son territoire intramuros non extensible, beaucoup de nouveaux arrivants se sont regroupés hors les murs, dans quatre villages qui sont sous la juridiction de la ville : 
 - la **Côte** (The Shoreline) : Centre industrieux d'Absalom, la Côte abrite les usines les plus malodorantes de la ville. Son petit port sert de base à tous les navires de pêches qui n'ont pas trouvé de place dans le grand port d'Absalom.
 - **Boiscuivré** (Copperwood) : Cette cité a été fondée par les ouvriers pauvres d'Absalom qui n'arrivaient pas à s'y loger. Depuis ces temps anciens, la qualité de vie s'y est améliorée. On y trouve maintenant des petits employés et des domestiques.
 - le **Pied-de-l'Aube** (Dawnfoot) : Cette cité est construite à l'est de la ville. Elle abrite les familles des soldats de la Garde de l'Étoile (Starwatch) qui s'y est installée suite à un accord avec la garde d'Absalom.
@@ -195,7 +195,7 @@ Résumé de l'histoire d'Absalom : [[Golarion.Absalom Histoire|Histoire d'Absalo
 
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos d'Absalom et de l'Île de Kortos dans les suppléments
+Vous pourrez trouver plus d'informations à propos d'Absalom et de l'Île de Kortos dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 - [[Golarion.Publications#GUIDETOABSALOM|Pathfinder Chronicles: Guide to Absalom]].
 {s:VoirAussiAprès}

@@ -8,12 +8,12 @@ Categories:
 - Sort magicien 3
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, M]] (limaille de fer)
-**Portée** contact
-**Cible** arme touchée
-**Durée** permanent
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, M]] (limaille de fer)  
+**Portée** contact  
+**Cible** arme touchée  
+**Durée** permanent  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage inscrit une rune angulaire sur la surface d’une arme, ce qui augmente ses points de vie. Une arme marquée de cette rune multiplie le nombre de ses points de vie par 2, comme si elle était plus grande d’une catégorie de taille. Inscrire plus d’une rune de ce type sur une arme n’apporte aucun avantage supplémentaire.

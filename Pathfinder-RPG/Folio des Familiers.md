@@ -27,7 +27,7 @@ Categories:
 {br}Éditeur VO : Paizo Inc.
 {br}Date de sortie VO : 17 février 2015
 
----
+<hr />
 
 ## Introduction
 
@@ -43,7 +43,7 @@ Les familiers peuvent également compléter leur maître de façon significative
 
 Il existe des dizaines de familiers différents parmi lesquels choisir. Consultez le chapitre "Pour votre personnage" pour obtenir la liste complète des familiers et des familiers supérieurs, puis choisissez celui qui correspond le mieux à votre personnage !
 
----
+<hr />
 
 ## Pour votre personnage
 
@@ -113,7 +113,7 @@ Poser les questions suivantes à votre maître du jeu peut vous aider à tirer l
 
 La première version de la sorcière conçue pour le Manuel des joueurs : règles avancées de Pathfinder proposait la chèvre et le cochon parmi les familiers possibles. Tous deux furent finalement retirés au cours des tests de jeu, mais ces idées restèrent suffisamment populaires pour réapparaître comme options dans le Bestiaire 3 de Pathfinder.</div></td></table>
 
----
+<hr />
 
 ## Index des Règles
 
@@ -326,4 +326,4 @@ Les extraplanaires et les créatures morts-vivantes ne sont normalement accessib
 | [[Pétrifougère]] | Familier |
 
 
----
+<hr />

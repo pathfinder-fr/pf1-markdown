@@ -11,7 +11,7 @@ Categories:
 Le Katapesh peut paraître hostile, brutal, malhonnête, opportuniste, pieux et parfois magnifique aux yeux de l'étranger, mais il ne sera jamais monotone. Ses ruines, ses marchés, ses habitants et ses champs de pesh seront autant de trésors à découvrir et à conserver en mémoire.
 
 ### Géographie du Katapesh
-Pays situé sur la côte est du [[Garund]], entre l'[[Osirion]] et le [[Nex]], le Katapesh tire son nom de sa capitale, [[Golarion.Katapesh Ville|Katapesh]]. Celle-ci et quelques autres lieux mis à part, le pays est un immense désert prolongeant au sud de celui de l'[[Osirion]].
+Pays situé sur la côte est du [[Garund]], entre l'[[Osirion]] et le [[Nex]], le Katapesh tire son nom de sa capitale, [[Golarion.Katapesh Ville|Katapesh]]. Celle-ci et quelques autres lieux mis à part, le pays est un immense désert prolongeant au sud de celui de l'[[Osirion]]. 
 
 Le pays est bordé au nord par les [[Golarion.Pics Airain|Pics d'Airain]], petite chaîne de montagnes qui sépare le pays de l'[[Osirion]], et à l'ouest par la fin de la [[Barrière]], vaste massif montagneux qui traverse tout le nord du [[Garund]]. Au sud, la rivière [[Golarion.Katapesh Rivière|Katapesh]], affluent du fleuve [[Ustradi]], sert de frontière avec le [[Nex]].
 
@@ -43,7 +43,7 @@ D'origine inconnue et inhumaine, ils ont développé leur commerce sur tout [[Go
 ### Sites remarquables
 Mis à part les ruines des monastères et autres anciens lieux de peuplement disséminés en plein désert, il y a peu de sites remarquables dignes d'intérêt au Katapesh. Le plus connu est certainement le site des **Mines de Zolurket**.
 
-Autrefois appelées Tar Urkatha, les mines de Zolurket, mot kéléshite signifiant "Mort Noire", sont d'anciennes mines de platine exploitées par des nains mais aujourd'hui fermées. La raison officielle de leur abandon est le tarissement des veines de platine, mais il en existe une autre, plus officieuse, qui fait courir le bruit que des morts-vivants hanteraient ces lieux et que les mines furent abandonnées avant la disparition des minéraux.
+Autrefois appelées Tar Urkatha, les mines de Zolurket, mot kéléshite signifiant "Mort Noire", sont d'anciennes mines de platine exploitées par des nains mais aujourd'hui fermées. La raison officielle de leur abandon est le tarissement des veines de platine, mais il en existe une autre, plus officieuse, qui fait courir le bruit que des morts-vivants hanteraient ces lieux et que les mines furent abandonnées avant la disparition des minéraux. 
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos du Katapesh dans les suppléments suivants :

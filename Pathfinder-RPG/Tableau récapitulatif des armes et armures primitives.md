@@ -47,7 +47,7 @@ Type
 Spécial
 Armes de corps à corps à deux mains
 Mattock  12 po  1d6  2d4  ×4  –  6 kg  P  fragile
-Rhomphaia  15 po  1d6  2d4  ×3  –  5 kg  P ou T  allonge, fragile,
+Rhomphaia  15 po  1d6  2d4  ×3  –  5 kg  P ou T  allonge, fragile, 
 réception de charge
 Armes exotiques  Prix  Dgts (S)  Dgts (M)  Critique  Portée  Poids
 1

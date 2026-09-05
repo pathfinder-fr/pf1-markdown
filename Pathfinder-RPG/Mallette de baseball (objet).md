@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Pour ce jeu, les joueurs se répartissent en équipes et frappent tour à tour une petite balle entourée de cuir à l’aide d’une batte de bois. Ils font le tour d’un terrain en courant, en passant par différentes bases. Ils marquent des points quand un joueur fait un tour complet en passant par les quatre bases. La mallette inclut deux balles, deux battes et quatre bases en toile bourrées de tissu.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pc–10 po
+{s:AE}**Prix** 5 pc–10 po  
 <span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
----
+<hr />
 Qu’il s’agisse d’une prostituée affichée, d’un gigolo, d’une allumeuse, d’une escorte ou d’une maîtresse de luxe, la compagne (ou son équivalent masculin) est à la disposition des aventuriers qui recherchent des relations sexuelles. Une passe d’une heure coûte généralement quelques pièces d’argent plus le prix de la chambre.

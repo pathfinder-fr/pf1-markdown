@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 1 kg
+{s:AE}**Prix** 10 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Cet alcool clair, distillé à partir du sorgo, est extrêmement fort. Les gens finissent souvent par l’apprécier à la longue et non de suite car il a une saveur corrosive.

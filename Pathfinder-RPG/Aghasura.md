@@ -43,7 +43,7 @@ Categories:
 {s:BDTexte|**Organisation** solitaire ou troupe (2-9)}
 {s:BDTexte|**Trésor** standard (2 cimeterres de maître, cuirasse de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Ambidextrie (Ext).** L’aghasura ne reçoit pas de malus sur ses jets d’attaque ou de dégâts lorsqu’il attaque avec deux armes.}
+{s:BDTexte|**Ambidextrie (Ext).** L’aghasura ne reçoit pas de malus sur ses jets d’attaque ou de dégâts lorsqu’il attaque avec deux armes.} 
 {s:BDTexte|**Armes enchantées (Sur).** Les armes que tient l’aghasura sont considérées comme magiques quand il s’agit de passer les réductions de dégâts. En outre, ces armes gagnent la capacité de libérer le poison de l’aghasura sur une attaque réussie.}
 {s:BDTexte|**Aura d’attraction (Sur).** Lorsqu’un aghasura reste immobile pendant au moins 1 round, il exsude une aura sur 15 mètres. Toutes les créatures qui ne sont pas d’alignement Mauvais et qui pénètrent cette zone doivent réussir un jet de [[Volonté]] DD 21, sinon, elles sont obligées de se diriger vers la position de l’aghasura. Si l’aghasura se déplace, les effets se dissipent pour toutes les créatures affectées. Il s’agit d’un effet de coercition mentale. Le DD du jet de sauvegarde est basé sur le Charisme.}
 {s:BDTexte|**Poison (Ext).** Morsure ou arme — blessure ; JdS [[Vigueur]] DD 23 ; fréquence1/round pendant 6 rounds ; effet affaiblissement temporaire de 1d4 points de [[Constitution]] ; guérison 2 réussites consécutives.}
@@ -52,7 +52,7 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[asura|asuras]].***</li></ul>
 *Cette immense créature évoque un crotale à cornes, à l’exception de ses deux bras musclés portant chacun un cimeterre. *
 
-Les aghasuras, qu’on appelle aussi les empoisonnés, sont d’énormes fiélons ayant perfectionné l’art de l’embuscade et qui s’en tiennent aux missions de garde et aux massacres. On raconte que ces affreux monstres ophidiens sont venus au monde quand une déesse accorda le libre-arbitre à ses serpents domestiques préférés. Livrés à eux-mêmes, les animaux de compagnie se faufilèrent dans le temple favori de la déesse et tuèrent ses plus grands prêtres. Ceux qui survécurent à la colère de la déesse devinrent les premiers aghasuras.
+Les aghasuras, qu’on appelle aussi les empoisonnés, sont d’énormes fiélons ayant perfectionné l’art de l’embuscade et qui s’en tiennent aux missions de garde et aux massacres. On raconte que ces affreux monstres ophidiens sont venus au monde quand une déesse accorda le libre-arbitre à ses serpents domestiques préférés. Livrés à eux-mêmes, les animaux de compagnie se faufilèrent dans le temple favori de la déesse et tuèrent ses plus grands prêtres. Ceux qui survécurent à la colère de la déesse devinrent les premiers aghasuras. 
 
-Un aghasura mesure 9 mètres et pèse près de 7 tonnes.
+Un aghasura mesure 9 mètres et pèse près de 7 tonnes. 
 </div></td></tr></table>

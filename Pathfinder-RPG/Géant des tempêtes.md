@@ -85,7 +85,7 @@ géants des tempêtes considèrent ces teintes violettes comme un
 présage de bonne fortune et ceux qui naissent avec cette particularité
 deviennent souvent des dirigeants. Les adultes mesurent quelque
 6,30 mètres de hauteur et pèsent 6 000 kg. Ils peuvent vivre jusqu’à
-600 ans.
+600 ans. 
 
 Lorsqu’ils se reposent, ils préfèrent porter des tuniques
 courtes et amples maintenues par une ceinture, des sandales (ou
@@ -107,7 +107,7 @@ en colère lorsqu’ils sont confrontés
 à des créatures maléfiques et
 peuvent se transformer en
 ennemis brutaux et dangereux
-lorsqu’on les insulte.
+lorsqu’on les insulte. 
 
 Au combat,
 ils préfèrent faire pleuvoir des
@@ -125,7 +125,7 @@ vivre des ressources de la terre. Ils
 entretiennent de beaux et énormes
 jardins et chaque groupe de géants
 cultive des centaines d’acres de
-terre fertile.
+terre fertile. 
 
 Ils engagent souvent
 d’autres humanoïdes, comme des

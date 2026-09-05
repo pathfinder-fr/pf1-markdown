@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 5–50 kg
+{s:AE}**Prix** 5 po ; **Poids** 5–50 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Si les enclumes peuvent être de tailles différentes en fonction l’usage pour lequel elles sont prévues, elles présentent toutes la même forme de base et la même construction. Les enclumes de forgerons sont beaucoup plus grosses et plus lourdes (50 kg) que les enclumes de maréchal-ferrant (25 kg), elles-mêmes plus grosses que les enclumes d’orfèvres (5 kg). Beaucoup de travaux de métallurgie sont irréalisables sans enclume adaptée.

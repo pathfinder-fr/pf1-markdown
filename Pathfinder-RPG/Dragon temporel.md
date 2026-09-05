@@ -43,7 +43,7 @@ Categories:
 | [[Dragon temporel adulte]] | &nbsp; | 15 |
 | [[Dragon temporel vénérable]] | &nbsp; | 20 |
 
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les écailles fissurées de ce dragon crépitent sous l’effet d’un pouvoir aussi patient que terrifiant. Certaines de ses cornes sont vieilles et fragiles tandis que d’autres sont neuves et immaculées.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les écailles fissurées de ce dragon crépitent sous l’effet d’un pouvoir aussi patient que terrifiant. Certaines de ses cornes sont vieilles et fragiles tandis que d’autres sont neuves et immaculées.*  
 
 Gardiens de l’Histoire, les dragons temporels sont les plus puissants de tous les dragons sidéraux. Ils veillent et attendent, protégeant l’univers contre tous ceux qui voudraient modifier l’ordre
 temporel.

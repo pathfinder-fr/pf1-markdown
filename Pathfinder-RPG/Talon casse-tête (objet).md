@@ -7,9 +7,9 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** variable ; **Poids** —
+{s:cs}{s:UI}**Prix** variable ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Utilisé pour remplacer le talon et la semelle d'une chaussure ou d'une botte, le talon casse-tête peut être utilisé pour cacher des objets afin de pouvoir les récupérer en cas de besoin. Pour ouvrir le petit compartiment à l'intérieur d'un talon casse-tête, le personnage doit appuyer, tourner et tordre le talon et la semelle selon un schéma particulier. La complexité accrue d'un talon casse-tête confère un bonus de circonstances aux tests d'[[Escamotage]] pour dissimuler des objets, en fonction de la complexité du processus d'ouverture. Pour ouvrir le talon sans connaître la séquence, il faut réussir un test de [[Sabotage]]. Le volume d'un compartiment de talon casse-tête est d'environ 80 centimètres cubes.
 
 

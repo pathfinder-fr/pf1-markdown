@@ -8,10 +8,10 @@ LastModified: 2024-05-27 16:20
 {s:AE}{s:BDTitre|Bâton maudit|}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 29 600 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en fer tordu porte des taches de mauvais augure sur toute sa longueur et se termine sur un crâne noir dont les yeux sont composés de gemmes rouges. Il permet d’utiliser les sorts suivants.
-• *[[arme alignée]]* (1 charge, Mal uniquement)
-• *[[détection du Bien]]* (1 charge)
-• *[[ténèbres maudites]]* (2 charges)
+Ce bâton en fer tordu porte des taches de mauvais augure sur toute sa longueur et se termine sur un crâne noir dont les yeux sont composés de gemmes rouges. Il permet d’utiliser les sorts suivants.  
+• *[[arme alignée]]* (1 charge, Mal uniquement)  
+• *[[détection du Bien]]* (1 charge)  
+• *[[ténèbres maudites]]* (2 charges)  
 • *[[cercle magique contre le Bien]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[arme alignée]]*, *[[détection du Bien]]*, *[[ténèbres maudites]]*, *[[cercle magique contre le Bien]]* ; **Coût** 14 800 po

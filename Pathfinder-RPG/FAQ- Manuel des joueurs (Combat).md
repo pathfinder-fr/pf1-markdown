@@ -99,9 +99,9 @@ Bien qu’une créature ne puisse pas faire d’<u>[[action libre]]</u> hors de 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|4}
 #### Actions libres : Combien d’actions libres puis-je faire dans un round ?
-Le Manuel des joueurs page 182 indique,
-« Les <u>[[action libre|actions libres]]</u> prennent un temps négligeable et ne demandent presque aucun effort. Le personnage peut en accomplir une ou plusieurs tout en exécutant l’action qu’il a choisie. On peut effectuer plusieurs actions libres au cours d’un round, dans les limites du raisonnable et avec l’accord du MJ. »
-Le *Manuel des joueurs* [[Actions libres|page 188]] indique,
+Le Manuel des joueurs page 182 indique,  
+« Les <u>[[action libre|actions libres]]</u> prennent un temps négligeable et ne demandent presque aucun effort. Le personnage peut en accomplir une ou plusieurs tout en exécutant l’action qu’il a choisie. On peut effectuer plusieurs actions libres au cours d’un round, dans les limites du raisonnable et avec l’accord du MJ. »  
+Le *Manuel des joueurs* [[Actions libres|page 188]] indique,  
 « Les actions libres ne prennent pas de temps, bien que, dans certaines situations le nombre d’actions libres disponibles au cours du même round puisse être limité. »
 
 Autrement dit, le [[MJ]] peut autoriser plus ou moins d’actions libres selon ce qui lui paraît approprié en fonction des circonstances.
@@ -123,7 +123,7 @@ Les cartes sont correctes. À titre d’exception par rapport au fonctionnement 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|7}
 #### Allonge et objets : un personnage peut-il ramasser ou manipuler un objet dans sa portée d’allonge ? Cela provoque-t-il une AO ? Est-ce que ça en provoque même si la cible peut atteindre l’objet, mais pas l’espace occupé par le personnage ?
-Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [[AO|attaque d’opportunité]], mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.
+Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [[AO|attaque d’opportunité]], mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).
 
 <div style="border-top:1px dashed #4b3124">
@@ -147,24 +147,24 @@ Comme pour n’importe quelle action libre, c’est le MJ qui décide d’un nom
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Armes multiples, attaques supplémentaires, et combat à deux armes : Si j’ai droit à des attaques supplémentaires grâce à un BBA élevé, puis-je porter des attaques avec des armes différentes sans subir un malus de combat à deux armes ?
-Oui. En fait, un personnage ne subit des malus de <u>[[Actions spéciales#COMBAT2ARMES|combat à deux armes]]</u> que s’il essaie d’obtenir une attaque supplémentaire par [[round]].
-Admettons que le personnage soit un [[guerrier]] de niveau 6 (BBA +6/+1) qui manie une [[épée longue (arme)|épée longue]] dans une main et une [[masse darmes légère (arme)|masse d’armes légère]] dans l’autre. Ses combinaisons d’attaque à outrance sans utiliser le combat à deux armes sont :
-(A) épée longue à +6, épée longue à +1
-(B) masse d’armes légère à +6, à masse d’armes légère +1
-(C) épée longue à +6, masse d’armes légère à +1
-(D) masse d’armes légère à +6, masse d’armes légère à +1
-Toutes ces combinaisons résulteraient en deux attaques portées, une à +6 et une à +1. Le personnage n’obtient pas d’attaques supplémentaires, il n’utilise pas la règle de combat à deux armes et ne subit donc pas les malus de combat à deux armes.
-S’il possède le don [[Arme en main]], le personnage pourrait même commencer le round en maniant une seule arme, faire son attaque principale avec, dégainer l’autre arme par une action libre après sa première attaque, et utiliser cette autre arme pour faire son attaque itérative (« attaque itérative » est un terme informel qui signifie « attaque supplémentaire obtenue grâce à un BBA élevé »). Tant qu’il utilise correctement sa valeur de BBA pour ses attaques itératives, et tant qu’il ne dépasse pas le nombre d’attaques par round permis par son BBA, le personnage n’est pas considéré comme utilisant le combat à deux armes et ne subit donc pas les malus de combat à deux armes.
-L’option de combat à deux armes dans le Manuel des joueurs se réfère spécifiquement au fait d’obtenir une attaque supplémentaire en utilisant une arme dans la main non-directrice du personnage. Dans les quatre exemples ci-dessus, il n’y a pas d’attaque supplémentaire, donc le combat à deux armes n’est pas utilisé.
-En suivant l’exemple épée longue/masse d’armes, un personnage qui utilise le combat à deux armes a moins d’options que s’il ne le faisait pas. Ses options sont (en ignorant les malus de main directrice/non-directrice) :
-(A’) épée longue directrice à +6, épée longue directrice à +1, masse d’armes non-directrice à +6
-(B’) masse d’armes directrice à +6, masse d’armes directrice à +1, épée longue non-directrice à +6
+Oui. En fait, un personnage ne subit des malus de <u>[[Actions spéciales#COMBAT2ARMES|combat à deux armes]]</u> que s’il essaie d’obtenir une attaque supplémentaire par [[round]].  
+Admettons que le personnage soit un [[guerrier]] de niveau 6 (BBA +6/+1) qui manie une [[épée longue (arme)|épée longue]] dans une main et une [[masse darmes légère (arme)|masse d’armes légère]] dans l’autre. Ses combinaisons d’attaque à outrance sans utiliser le combat à deux armes sont :  
+(A) épée longue à +6, épée longue à +1  
+(B) masse d’armes légère à +6, à masse d’armes légère +1  
+(C) épée longue à +6, masse d’armes légère à +1  
+(D) masse d’armes légère à +6, masse d’armes légère à +1  
+Toutes ces combinaisons résulteraient en deux attaques portées, une à +6 et une à +1. Le personnage n’obtient pas d’attaques supplémentaires, il n’utilise pas la règle de combat à deux armes et ne subit donc pas les malus de combat à deux armes.  
+S’il possède le don [[Arme en main]], le personnage pourrait même commencer le round en maniant une seule arme, faire son attaque principale avec, dégainer l’autre arme par une action libre après sa première attaque, et utiliser cette autre arme pour faire son attaque itérative (« attaque itérative » est un terme informel qui signifie « attaque supplémentaire obtenue grâce à un BBA élevé »). Tant qu’il utilise correctement sa valeur de BBA pour ses attaques itératives, et tant qu’il ne dépasse pas le nombre d’attaques par round permis par son BBA, le personnage n’est pas considéré comme utilisant le combat à deux armes et ne subit donc pas les malus de combat à deux armes.  
+L’option de combat à deux armes dans le Manuel des joueurs se réfère spécifiquement au fait d’obtenir une attaque supplémentaire en utilisant une arme dans la main non-directrice du personnage. Dans les quatre exemples ci-dessus, il n’y a pas d’attaque supplémentaire, donc le combat à deux armes n’est pas utilisé.  
+En suivant l’exemple épée longue/masse d’armes, un personnage qui utilise le combat à deux armes a moins d’options que s’il ne le faisait pas. Ses options sont (en ignorant les malus de main directrice/non-directrice) :  
+(A’) épée longue directrice à +6, épée longue directrice à +1, masse d’armes non-directrice à +6  
+(B’) masse d’armes directrice à +6, masse d’armes directrice à +1, épée longue non-directrice à +6  
 Autrement dit, une fois que le personnage décide d’utiliser le combat à deux armes pour obtenir une attaque supplémentaire dans son tour (décision qu’il doit prendre avant de porter toute attaque à son tour), cette décision le bloque dans la combinaison « l’arme de ma main directrice porte mon attaque principale et mon attaque itérative, tandis que l’arme dans ma main non-directrice porte uniquement l’attaque supplémentaire, et j’applique les malus de combat à deux armes ».
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|11}
 #### Attaque sournoise : Puis-je ajouter des dégâts d’attaque sournoise aux attaques simultanées d’un sort ?
-Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.
+Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.  
 Les attaques de sort qui ne sont pas simultanées, comme les différentes attaques par round d’un [[druide]] de niveau 8 qui utilise *[[lame de feu]]*, peuvent appliquer les dégâts d’<u>[[Roublard#ATTAQUESOURNOISE|attaque sournoise]]</u> à chaque attaque tant que celles-ci y sont éligibles (la cible est privée de son bonus de Dex ou est prise en tenaille par le lanceur).
 
 <div style="border-top:1px dashed #4b3124">
@@ -208,7 +208,7 @@ Oui, le <u>[[Modificateurs de combat#CAMOUFLAGE|camouflage]]</u> en général an
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|18}
 #### Combat à deux armes : Si un personnage utilise cette option à son tour pour attaquer avec deux armes, est-ce qu’il subit aussi son malus sur les attaques d’opportunité portées avant le début de son prochain tour ?
-Non. Les malus se terminent dès que l’action d’[[attaque à outrance]] qui a permis au personnage d’<u>[[Actions spéciales#COMBAT2ARMES|attaquer avec les deux armes]]</u> est résolue. Toute attaque d’opportunité que le personnage porte est faite avec son bonus à l’attaque normal. De façon générale, les malus aux attaques portées pendant le tour du personnage ne se répercutent pas sur les attaques d’opportunité sauf précision contraire (comme le malus imposé par [[Attaque en puissance]] ou [[Expertise du combat]].)
+Non. Les malus se terminent dès que l’action d’[[attaque à outrance]] qui a permis au personnage d’<u>[[Actions spéciales#COMBAT2ARMES|attaquer avec les deux armes]]</u> est résolue. Toute attaque d’opportunité que le personnage porte est faite avec son bonus à l’attaque normal. De façon générale, les malus aux attaques portées pendant le tour du personnage ne se répercutent pas sur les attaques d’opportunité sauf précision contraire (comme le malus imposé par [[Attaque en puissance]] ou [[Expertise du combat]].)  
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).
 
 <div style="border-top:1px dashed #4b3124">
@@ -243,7 +243,7 @@ Oui. Comme explicité dans le [[Types dactions|tableau page 183]], quand un pers
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|24}
 #### Dés bonus : Les dés bonus du Châtiment canalisé ou de sorts comme *caresse élémentaire* ou *flèches enflammées* sont-ils multipliés sur un coup critique ?
-Non. La [[Valeurs de combat#DEGATS|page 179 du *Manuel des joueurs*]] indique dans la section Multiplication des dégâts : « Les bonus aux dégâts exprimés sous la forme de dés supplémentaires ne sont pas multipliés en cas de coup critique. »
+Non. La [[Valeurs de combat#DEGATS|page 179 du *Manuel des joueurs*]] indique dans la section Multiplication des dégâts : « Les bonus aux dégâts exprimés sous la forme de dés supplémentaires ne sont pas multipliés en cas de coup critique. »  
 La règle générale stipule que les seuls dés multipliés en cas de <u>[[coup critique]]</u> sont les dommages de base de l’arme (1d8 pour une épée longue, 2d6 pour une épée à deux mains, etc).
 
 <div style="border-top:1px dashed #4b3124">
@@ -287,15 +287,15 @@ Quand les dégâts infligés par les <u>[[Caractéristiques des armes#TAILLEARME
 - Si le type de dé n’est pas référencé dans le tableau, appliquez les règles suivantes avant d’ajuster les dés de dégâts. 2d4 comptent comme 1d8 dans le tableau, 3d4 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d4 supérieurs. 1d12 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d12 supérieurs.
 - Enfin, 2d10 augmentent à 4d8 et diminuent à 2d8, quelque soit la taille initiale, et ainsi de suite pour les nombres de d10 supérieurs.
 
-**Tableau de progression des dés de dégâts**
+**Tableau de progression des dés de dégâts**  
 1 → 1d2 → 1d3 → 1d4 →1d6 → 1d8 → 1d10 → 2d6 → 2d8 → 3d6 → 3d8 → 4d6 → 4d8 → 6d6 → 6d8 → 8d6 → 8d8 → 12d6 → 12d8 → 16d6
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|31}
 #### Parer des attaques : Est-ce qu’une attaque parée compte comme un échec ?
-Cela dépend de la capacité qui pare l’attaque.
-Par exemple, le don [[Parade de projectiles]] dit : « une fois par round, quand il devrait être touché par une arme à distance, il peut dévier le projectile au dernier moment et éviter tout dégât ». Il ne dit pas que l’attaque est un échec ou est traitée comme un échec. A l’inverse, le personnage ne subit aucun dégât de cette attaque. Puisque ce n’est pas un échec, les effets qui devraient se déclencher sur un échec (comme [[École de lefrit|École de l’efrit]] ou [[Croc du serpent]] de l’Art de la guerre) ne sont pas activés.
-De même, le don [[Aile de la grue]] (Art de la guerre) utilise une formulation similaire et ne dit pas que l’attaque déviée est un échec ou est traitée comme un échec.
+Cela dépend de la capacité qui pare l’attaque.  
+Par exemple, le don [[Parade de projectiles]] dit : « une fois par round, quand il devrait être touché par une arme à distance, il peut dévier le projectile au dernier moment et éviter tout dégât ». Il ne dit pas que l’attaque est un échec ou est traitée comme un échec. A l’inverse, le personnage ne subit aucun dégât de cette attaque. Puisque ce n’est pas un échec, les effets qui devraient se déclencher sur un échec (comme [[École de lefrit|École de l’efrit]] ou [[Croc du serpent]] de l’Art de la guerre) ne sont pas activés.  
+De même, le don [[Aile de la grue]] (Art de la guerre) utilise une formulation similaire et ne dit pas que l’attaque déviée est un échec ou est traitée comme un échec.  
 Notez que le don [[Capture de projectiles]] compte comme une attaque parée – le personnage ne subit pas les dégâts s’il choisit d’attraper l’arme plutôt que de la parer, et attraper l’arme ne signifie pas que l’attaque était un échec.
 
 Mise à jour 29/5/13 : Si l’attaque est parée, non seulement la cible ne subit pas de dégât, mais tout autre effet (absorption d’énergie, niveaux négatifs, états préjudiciables, etc) associé avec cette attaque n’a pas lieu. Si l’attaque parée est un sort de contact ou un autre effet qui nécessite de « [[Actions simples#LANCERSORT|retenir la charge]] », la charge n’est pas dépensée. Par exemple, si l’attaque de griffe d’une [[goule]] est parée, la cible n’est pas sujette à la fièvre des goules transmise par l’attaque. Si une *[[décharge électrique]]* est parée, l’attaquant doit toujours « retenir la charge ». Le don Aile de la grue sera modifié dans une future impression de l’Art de la guerre pour clarifier ces aspects.
@@ -308,14 +308,14 @@ Un personnage peut choisir de manier sa <u>[[Caractéristiques des armes#ARMEAAL
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|33}
 #### Pointes pour armure : Puis-je utiliser le combat à deux armes pour porter une attaque avec ma « main non-directrice » grâce à mes pointes pour armure dans le même round où j’utilise une arme à deux mains ?
-Non. *(Retour à l'<u>[[armure à pointes (arme)|objet]]</u>)*
+Non. *(Retour à l'<u>[[armure à pointes (arme)|objet]]</u>)*  
 Pareillement, un personnage ne peut pas utiliser un gantelet d’armure de cette façon. Puisqu’il utilise ses mains pour manier son arme à deux mains, sa main non-directrice n’est pas disponible pour porter une attaque.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|34}
 #### Réduction de dégâts : Comment la RD interagit avec les effets magiques qui infligent des dégâts contondants, perforants, ou tranchants ?
-Bien que la définition de la <u>[[Réduction de dégâts (capacité)|Réduction de dégâts]]</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d’énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu’aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n’est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.
-En revanche, si une attaque magique indique spécifiquement qu’elle inflige des dégâts contondants, perforants, ou tranchants, la RD affecte ces dégâts normalement, comme s’il provenaient d’une arme physique. (Sinon les attaques magiques n’auraient simplement pas de type de dégâts, puisqu’elles n’interagiraient avec les dégâts C/P/T que dans de très rares cas, comme pour définir si une vase se sépare ou non après une attaque.)
+Bien que la définition de la <u>[[Réduction de dégâts (capacité)|Réduction de dégâts]]</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d’énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu’aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n’est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.  
+En revanche, si une attaque magique indique spécifiquement qu’elle inflige des dégâts contondants, perforants, ou tranchants, la RD affecte ces dégâts normalement, comme s’il provenaient d’une arme physique. (Sinon les attaques magiques n’auraient simplement pas de type de dégâts, puisqu’elles n’interagiraient avec les dégâts C/P/T que dans de très rares cas, comme pour définir si une vase se sépare ou non après une attaque.)  
 Par exemple, le sort *[[tempête de grêle]]* inflige 3d6 points de dégâts contondants et 2d6 points de dégâts de froid. Si un personnage lance *tempête de grêle* sur un groupe de [[Zombi humain|zombis]], la RD 5/tranchant des zombis les protègerait contre 5 points des dégâts contondants du sort. Leur RD ne les aide pas contre les dégâts de froid du sort puisqu’elle ne s’applique pas aux attaques d’énergie.
 
 <div style="border-top:1px dashed #4b3124">
@@ -331,6 +331,6 @@ Non. Les règles sur la [[charge]] précisent qu’un personnage peut faire une 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|37}
 #### Sorts de contact à distance et AO : Quand il lance un sort qui lui permet de faire un attaque de contact à distance (comme *rayon ardent*), et qu’un ennemi est à portée d’allonge, est-ce que le personnage provoque une attaque d’opportunité ?
-Oui, le personnage provoque deux [[AO|attaques d’opportunité]] : une pour l’<u>[[Actions simples#LANCERSORT|incantation du sort]]</u> et une pour l’action d’attaque à distance, puisque les deux sont des événements séparés.
-(Notez qu’un sort qui tire plusieurs rayons simultanés, comme *[[rayon ardent]]*, ne provoque qu’une seule AO pour l’action d’attaque à distance plutôt qu’une AO pour chaque attaque à distance. Il en provoque toujours pour l’incantation du sort.)
+Oui, le personnage provoque deux [[AO|attaques d’opportunité]] : une pour l’<u>[[Actions simples#LANCERSORT|incantation du sort]]</u> et une pour l’action d’attaque à distance, puisque les deux sont des événements séparés.  
+(Notez qu’un sort qui tire plusieurs rayons simultanés, comme *[[rayon ardent]]*, ne provoque qu’une seule AO pour l’action d’attaque à distance plutôt qu’une AO pour chaque attaque à distance. Il en provoque toujours pour l’incantation du sort.)  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).

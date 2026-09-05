@@ -52,7 +52,7 @@ Le destin des dretchs est de servir de victimes aux démons
 plus puissants, et seuls quelques rares chanceux parviennent à
 survivre assez longtemps pour évoluer.
 Les dretchs sont les cibles favorites de ceux qui s’essaient pour
-la première fois à invoquer des créatures des Abysses.
+la première fois à invoquer des créatures des Abysses. 
 
 Ces démons
 relativement faibles et faciles à rudoyer peuvent être aisément contraints
@@ -61,7 +61,7 @@ l’espoir de passer leur frustration et leur colère sur des
 cibles plus faibles qu’eux. Cela dit, les invocateurs en
 herbe feraient bien de se rappeler que ces démons
 sont tout aussi lâches et indignes de confiance que
-les autres.
+les autres. 
 
 En échange de leur insignifiante vie, les
 dretchs n’hésiteront pas à dévoiler tout ce qu’ils savent à
@@ -69,14 +69,14 @@ un ennemi plus puissant qu’eux.
 Contrairement à la plupart des démons, la personnalité
 négligée des dretchs et le dédain qu’ils éprouvent à l’égard des
 tâches physiques de longue haleine les conduisent très souvent
-à l’échec.
+à l’échec. 
 
 Les dretchs qui sortent du lot sont peu nombreux
 mais ceux qui possèdent les capacités pour progresser au-delà
 de l’état dans lequel ils ont été créés se comportent souvent en
 petites brutes : ils règnent en maîtres cruels et amers sur des
 groupes de vermines, d’âmes brisées, de morts-vivants dénués
-d’intelligence ou d’autres dretchs.
+d’intelligence ou d’autres dretchs. 
 
 Leurs empires se limitent à des
 zones abandonnées dans les égouts des villes isolées, à des régions
@@ -91,7 +91,7 @@ dretchs sont généralement formés à partir des âmes des mortels
 maléfiques fainéants, mais un seul petit fragment d’âme peut
 suffire à déclencher la naissance d’une de ces horribles créatures,
 et une seule âme peut provoquer l’apparition d’une petite armée
-de dretchs.
+de dretchs. 
 
 La création d’une horde de dretchs nouveau nés qui
 s’extirpent de la masse ondulante de protomatière abyssale est un

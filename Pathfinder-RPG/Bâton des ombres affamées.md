@@ -8,12 +8,12 @@ LastModified: 2024-05-27 16:33
 {s:AE}{s:BDTitre|Bâton des ombres affamées|}
 **Aura** variable forte ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 69 300 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est taillé dans un bois tordu et calciné et orné d’une sphère en cristal remplie de fumée tourbillonnante. Il permet d’utiliser les sorts suivants.
-• *[[ténèbres]]* (1 charge)
-• *[[rayon affaiblissant]]* (1 charge)
-• *[[baiser du vampire]]* (1 charge)
-• *[[énergie négative]]* (2 charges)
-• *[[convocation de monstres V]]* (2 charges, invoque 1 [[ombre]] uniquement)
+Ce bâton est taillé dans un bois tordu et calciné et orné d’une sphère en cristal remplie de fumée tourbillonnante. Il permet d’utiliser les sorts suivants.  
+• *[[ténèbres]]* (1 charge)  
+• *[[rayon affaiblissant]]* (1 charge)  
+• *[[baiser du vampire]]* (1 charge)  
+• *[[énergie négative]]* (2 charges)  
+• *[[convocation de monstres V]]* (2 charges, invoque 1 [[ombre]] uniquement)  
 • *[[contrat intermédiaire]]* (3 charges, appel 1 [[dévoreur]] uniquement)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[ténèbres]]*, *[[rayon affaiblissant]]*, *[[baiser du vampire]]*, *[[énergie négative]]*, *[[convocation de monstres V]]*, *[[contrat intermédiaire]]* ; **Coût** 34 650 po

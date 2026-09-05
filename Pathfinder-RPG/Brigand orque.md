@@ -34,10 +34,10 @@ Categories:
 {s:BDTexte|**Compétences** [[Bluff]] +7, [[Discrétion]] +10, [[Escalade]] +10, [[Escamotage]] +10, [[Estimation]] +8, [[Évasion]] +10, [[Intimidation]] +7, [[Perception]] +6, [[Psychologie]] +6}
 {s:BDTexte|**Langues** commun, gobelin, orque}
 {s:BDTexte|**Particularités** armes familières, [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]] +2, [[Roublard#TALENTDEROUBLARD|talent de roublard]] ([[Talents#ATTAQUESANGLANTE|attaque sanglante]] +2, [[Talents#DISCRETETRAPIDE|discret et rapide]])}
-{s:BDTexte|**Équipement de combat** *[[potions magiques|huile]] d’[[arme magique]]*, *[[potions magiques|potions]] d’[[invisibilité]]* (2)
+{s:BDTexte|**Équipement de combat** *[[potions magiques|huile]] d’[[arme magique]]*, *[[potions magiques|potions]] d’[[invisibilité]]* (2) 
 ; **Équipement divers** *[[armure de cuir (armure)|armure de cuir +1]]*, [[dague (arme)|dagues]] (6), [[épée courte (arme)|épée courte de maître]], 218 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

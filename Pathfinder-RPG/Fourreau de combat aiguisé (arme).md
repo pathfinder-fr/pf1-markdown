@@ -7,8 +7,8 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 10 po ; **Poids** 0,5 kg ; **Groupes** —
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** voir texte
+{s:cs}{s:AA}**Prix** 10 po ; **Poids** 0,5 kg ; **Groupes** —  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** voir texte  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Ce [[fourreau de combat (arme)|fourreau de combat]] a une lame tranchante sur le bord extérieur, permettant au personnage de l'utiliser comme une arme classique.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,2 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,2 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 On garde parfois ces petits oiseaux grassouillets comme animaux de compagnie mais ils sont souvent utilisés comme [[Familiers]] par les lanceurs de sorts. Ils sont connus pour leur chant magnifique et capacité à parler. Voir les statistiques de la [[grive]].

@@ -64,7 +64,7 @@ Voici les compétences de classe de l'empoisonneur de la guilde : [[Bluff]] (Ch
 ### Capacités de classe
 Voici les caractéristiques de la classe de prestige de l'empoisonneur de la guilde :
 #### Armes et armures
-Un empoisonneur de la guilde ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un empoisonneur de la guilde ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|MAITREDESPOISONS}
 #### Maître des poisons (Ext)
@@ -76,7 +76,7 @@ Un empoisonneur de la guilde obtient un bonus de +2 aux [[jds|jets de sauvegarde
 
 {s:reference|EMPOISONNEMENTRAPIDE}
 #### Empoisonnement rapide (Ext)
-Un empoisonneur de la guilde peut empoisonner son arme par une [[action de mouvement]] au lieu d'une [[action simple]]. Il peut également créer des [[poisons]] avec la compétence d'[[Artisanat]] (alchimie) deux fois plus rapidement que la normale.
+Un empoisonneur de la guilde peut empoisonner son arme par une [[action de mouvement]] au lieu d'une [[action simple]]. Il peut également créer des [[poisons]] avec la compétence d'[[Artisanat]] (alchimie) deux fois plus rapidement que la normale. 
 
 {s:reference|APOTHICAIRETOXIQUE}
 #### Apothicaire toxique (Ext/Mag)
@@ -99,11 +99,11 @@ Au niveau 2 puis tous les 2 niveaux par la suite, un empoisonneur de la guilde a
 
 {s:reference|USINEDEPOISONS}
 #### Usine de poisons (Ext)
-Au niveau 3, quand il crée des [[poisons]] ou des [[Remèdes alchimiques#Antitoxine|antitoxines]], un empoisonneur de la guilde peut créer un nombre de doses égal à son modificateur d'[[Intelligence]] à la fois (minimum 1). Ces doses supplémentaires n'augmentent pas le temps nécessaire à la fabrication, mais augmentent proportionnellement le coût en matériaux bruts. De plus, il utilise la valeur du poison ou de l'antitoxine en po comme valeur en pa lorsqu'il détermine les progrès réalisés avec ses tests d'[[Artisanat]] (alchimie). Si l'empoisonneur de la guilde possède le don [[Maître alchimiste]], il peut créer un nombre de doses en une fois égal au double de son modificateur d'Intelligence et il utilise la valeur de l'objet en pp comme valeur en pa lorsqu'il détermine les progrès réalisés avec ses tests d'Artisanat (alchimie).
+Au niveau 3, quand il crée des [[poisons]] ou des [[Remèdes alchimiques#Antitoxine|antitoxines]], un empoisonneur de la guilde peut créer un nombre de doses égal à son modificateur d'[[Intelligence]] à la fois (minimum 1). Ces doses supplémentaires n'augmentent pas le temps nécessaire à la fabrication, mais augmentent proportionnellement le coût en matériaux bruts. De plus, il utilise la valeur du poison ou de l'antitoxine en po comme valeur en pa lorsqu'il détermine les progrès réalisés avec ses tests d'[[Artisanat]] (alchimie). Si l'empoisonneur de la guilde possède le don [[Maître alchimiste]], il peut créer un nombre de doses en une fois égal au double de son modificateur d'Intelligence et il utilise la valeur de l'objet en pp comme valeur en pa lorsqu'il détermine les progrès réalisés avec ses tests d'Artisanat (alchimie). 
 
 {s:reference|PIEGEUR}
 #### Piégeur (Ext)
-Au niveau 3, un empoisonneur de la guilde ajoute son niveau de classe à ses tests de [[Perception]] pour localiser les pièges et à ses tests d'[[Artisanat]] et de [[Sabotage]] en rapport avec les pièges empoisonnés. Un empoisonneur de la guilde ajoute également un bonus de +1 aux [[jet dattaque|jets d'attaque]], au [[DD]] de sauvegarde et au DD de Perception et de Sabotage des pièges empoisonnés qu'il crée. Ce bonus augmente de 1 au niveau 6 et une fois de plus au niveau 9.
+Au niveau 3, un empoisonneur de la guilde ajoute son niveau de classe à ses tests de [[Perception]] pour localiser les pièges et à ses tests d'[[Artisanat]] et de [[Sabotage]] en rapport avec les pièges empoisonnés. Un empoisonneur de la guilde ajoute également un bonus de +1 aux [[jet dattaque|jets d'attaque]], au [[DD]] de sauvegarde et au DD de Perception et de Sabotage des pièges empoisonnés qu'il crée. Ce bonus augmente de 1 au niveau 6 et une fois de plus au niveau 9. 
 
 {s:reference|ATTAQUESOURNOISE}
 #### Attaque sournoise (Ext)
@@ -111,7 +111,7 @@ Cette capacité fonctionne exactement comme la [[Roublard#ATTAQUESOURNOISE|capac
 
 {s:reference|TOXINETRAITRESSE}
 #### Toxine traîtresse (Ext)
-Au niveau 5, lorsqu'un empoisonneur de la guilde effectue une [[Empoisonneur de Dague#ATTAQUESOURNOISE|attaque sournoise]] avec une armé empoisonnée, il peut décider de renoncer aux dégâts de son attaque sournoise pour augmenter le [[DD]] de son [[poisons|poison]], ce qui augmente le DD du poison de 1 pour chaque 1d6 sacrifié.
+Au niveau 5, lorsqu'un empoisonneur de la guilde effectue une [[Empoisonneur de Dague#ATTAQUESOURNOISE|attaque sournoise]] avec une armé empoisonnée, il peut décider de renoncer aux dégâts de son attaque sournoise pour augmenter le [[DD]] de son [[poisons|poison]], ce qui augmente le DD du poison de 1 pour chaque 1d6 sacrifié. 
 
 {s:reference|EMPOISONNEMENTVELOCE}
 #### Empoisonnement véloce (Ext)

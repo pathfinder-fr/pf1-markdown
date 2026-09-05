@@ -13,6 +13,6 @@ Categories:
 
 **Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Quand le personnage lance un sort transperçant contre une cible douée de [[RM|résistance à la magie]], il la considère comme réduite de 5 points par rapport à la réalité.
+**Avantage.** Quand le personnage lance un sort transperçant contre une cible douée de [[RM|résistance à la magie]], il la considère comme réduite de 5 points par rapport à la réalité. 
 
 Un sort transperçant utilise un [[emplacement de sort]] d’un niveau de plus que le niveau réel du sort.

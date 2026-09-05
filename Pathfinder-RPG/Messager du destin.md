@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*La Dame des tombes a béni le personnage en lui permettant de réaliser de véritables prophéties.*
+{s:cs}{s:ISG}*La Dame des tombes a béni le personnage en lui permettant de réaliser de véritables prophéties.* 
 
 **Conditions.** Capacité à lancer *[[augure]]*, suivant de [[Pharasma (technique)|Pharasma]]
 

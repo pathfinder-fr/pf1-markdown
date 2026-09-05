@@ -102,7 +102,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [[Abrikandilu]] (FP 3), [[Andrazku]] (FP 5), [[Ariès]] (FP 4), [[Babau]] (FP 6), [[Balor]] (FP 20), [[Brimorak]] (FP 5), [[Cambion]] (FP 2), [[Coloxe]] (FP 12), [[Démon des ombres]] (FP 7), [[Dérakni]] (FP 10), [[Dretch]] (FP 2), [[Gallu]] (FP 19), [[Gibrileth]] (FP 11), [[Glabrezu]] (FP 13), [[Hala]] (FP 4), [[Hezrou]] (FP 11), [[Incube]] (FP 6), [[Kalavakus]] (FP 10), [[Katpaskir]] (FP 18), [[Kithangien]] (FP 9), [[Lilitu]] (FP 17), [[Marilith]] (FP 17), [[Nabasu]] (FP 8), [[Nalfeshnie]] (FP 14), [[Omox]] (FP 12), [[Oolioddroo]] (FP 13), [[Quasit]] (FP 2), [[Séraptis]] (FP 15), [[Shachath]] (FP 11), [[Shemhazian]] (FP 16), [[Succube]] (FP 7), [[Thoxe]] (FP 5), [[Ulkreth]] (FP 15), [[Vavaki]] (FP 18), [[Vermlek]] (FP 3), [[Vilsteth]] (FP 16), [[Vrock]] (FP 9), [[Vrolikai]] (FP 19).
+**Membres.** [[Abrikandilu]] (FP 3), [[Andrazku]] (FP 5), [[Ariès]] (FP 4), [[Babau]] (FP 6), [[Balor]] (FP 20), [[Brimorak]] (FP 5), [[Cambion]] (FP 2), [[Coloxe]] (FP 12), [[Démon des ombres]] (FP 7), [[Dérakni]] (FP 10), [[Dretch]] (FP 2), [[Gallu]] (FP 19), [[Gibrileth]] (FP 11), [[Glabrezu]] (FP 13), [[Hala]] (FP 4), [[Hezrou]] (FP 11), [[Incube]] (FP 6), [[Kalavakus]] (FP 10), [[Katpaskir]] (FP 18), [[Kithangien]] (FP 9), [[Lilitu]] (FP 17), [[Marilith]] (FP 17), [[Nabasu]] (FP 8), [[Nalfeshnie]] (FP 14), [[Omox]] (FP 12), [[Oolioddroo]] (FP 13), [[Quasit]] (FP 2), [[Séraptis]] (FP 15), [[Shachath]] (FP 11), [[Shemhazian]] (FP 16), [[Succube]] (FP 7), [[Thoxe]] (FP 5), [[Ulkreth]] (FP 15), [[Vavaki]] (FP 18), [[Vermlek]] (FP 3), [[Vilsteth]] (FP 16), [[Vrock]] (FP 9), [[Vrolikai]] (FP 19).  
 **Membres mythiques.** [[Marilith mythique]] (FP 21/RMy 8), [[Nalfeshnie mythique]] (FP 17/RMy 7), [[Vrock mythique]] (FP 11/RMy 4).
 
 ### Diable ([[Diable|lien]])
@@ -110,7 +110,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])
 
-**Membres.** [[Chortov]] (FP 9), [[Diable accusateur]] (FP 3), [[Diable apostat]] (FP 17), [[Diable barbelé]] (FP 11), [[Diable barbu]] (FP 5), [[Diable belliciste]] (FP 7), [[Diable cornu]] (FP 16), [[Diable de la noyade]] (FP 8), [[Diable de lhérésie|Diable de l'hérésie]] (FP 12), [[Diable de lost|Diable de l'ost]] (FP 6), [[Diable de lost Majeur|Diable de l'ost majeur]] (FP 6), [[Diable de lost mineur|Diable de l'ost mineur]] (FP 3), [[Diable des contrats]] (FP 10), [[Diable des glaces]] (FP 13), [[Diable immolateur]] (FP 19), [[Diable némésis]] (FP 18), [[Diable osseux]] (FP 9), [[Diable trompeur]] (FP 16), [[Diable vestale]] (FP 14), [[Diablotin]] (FP 2), [[Diantrefosse]] (FP 20), [[Érinye]] (FP 8), [[Lémure]] (FP 1), [[Salikotal]] (FP 7), [[Ukobach]] (FP 4).
+**Membres.** [[Chortov]] (FP 9), [[Diable accusateur]] (FP 3), [[Diable apostat]] (FP 17), [[Diable barbelé]] (FP 11), [[Diable barbu]] (FP 5), [[Diable belliciste]] (FP 7), [[Diable cornu]] (FP 16), [[Diable de la noyade]] (FP 8), [[Diable de lhérésie|Diable de l'hérésie]] (FP 12), [[Diable de lost|Diable de l'ost]] (FP 6), [[Diable de lost Majeur|Diable de l'ost majeur]] (FP 6), [[Diable de lost mineur|Diable de l'ost mineur]] (FP 3), [[Diable des contrats]] (FP 10), [[Diable des glaces]] (FP 13), [[Diable immolateur]] (FP 19), [[Diable némésis]] (FP 18), [[Diable osseux]] (FP 9), [[Diable trompeur]] (FP 16), [[Diable vestale]] (FP 14), [[Diablotin]] (FP 2), [[Diantrefosse]] (FP 20), [[Érinye]] (FP 8), [[Lémure]] (FP 1), [[Salikotal]] (FP 7), [[Ukobach]] (FP 4).  
 **Membres mythiques.** [[Diable osseux mythique]] (FP 11/RMy 4), [[Diable des glaces mythique]] (FP 16/RMy 6).
 
 ### Dinosaure ([[Dinosaure|lien]])
@@ -133,32 +133,32 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 #### Dragon blanc
 **Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type froid|froid]])
 
-**Membres.** [[Dragon blanc adulte]] (FP 10), [[Dragon blanc vénérable]] (FP 15), [[Jeune dragon blanc]] (FP 6).
+**Membres.** [[Dragon blanc adulte]] (FP 10), [[Dragon blanc vénérable]] (FP 15), [[Jeune dragon blanc]] (FP 6).  
 **Membres mythiques.** [[Dragon blanc mythique|Dragon blanc adolescent mythique]] (FP 9/RMy 3).
 
 #### Dragon bleu
 **Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Terre|Terre]])
 
-**Membres.** [[Dragon bleu adulte]] (FP 13), [[Dragon bleu vénérable]] (FP 18), [[Jeune dragon bleu]] (FP 9).
+**Membres.** [[Dragon bleu adulte]] (FP 13), [[Dragon bleu vénérable]] (FP 18), [[Jeune dragon bleu]] (FP 9).  
 **Membres mythiques.** [[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]] (FP 17/RMy 7).
 
 #### Dragon noir
 **Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Eau|Eau]])
 
-**Membres.** [[Dragon noir adulte]] (FP 11), [[Dragon noir vénérable]] (FP 16), [[Jeune dragon noir]] (FP 7).
+**Membres.** [[Dragon noir adulte]] (FP 11), [[Dragon noir vénérable]] (FP 16), [[Jeune dragon noir]] (FP 7).  
 **Membres mythiques.** [[Dragon noir mythique|Dragon noir d'âge mûr mythique]] (FP 15/RMy 6).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon rouge
 **Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [[Dragon rouge adulte]] (FP 14), [[Dragon rouge vénérable]] (FP 19), [[Jeune dragon rouge]] (FP 10).
+**Membres.** [[Dragon rouge adulte]] (FP 14), [[Dragon rouge vénérable]] (FP 19), [[Jeune dragon rouge]] (FP 10).  
 **Membres mythiques.** [[Dracosire rouge mythique]] (FP 25/RMy 10), [[Jeune dragon rouge mythique]] (FP 12/RMy 5).
 
 #### Dragon vert
 **Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Air|Air]])
 
-**Membres.** [[Dragon vert adulte]] (FP 12), [[Dragon vert vénérable]] (FP 17), [[Jeune dragon vert]] (FP 8).
+**Membres.** [[Dragon vert adulte]] (FP 12), [[Dragon vert vénérable]] (FP 17), [[Jeune dragon vert]] (FP 8).  
 **Membres mythiques.** [[Dragon vert mythique|Très vieux dragon vert mythique]] (FP 20/RMy 8).
 </td></tr></table>
 
@@ -340,20 +340,20 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 #### Élémentaire de la Terre
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]])
 
-**Membres.** [[Élémentaire de Terre de taille G]] (FP 5), [[Élémentaire de Terre de taille M]] (FP 3), [[Élémentaire de Terre de taille P]] (FP 1), [[Élémentaire de Terre de taille TG]] (FP 7), [[Élémentaire de Terre noble]] (FP 9), [[Seigneur élémentaire de Terre]] (FP 11).
+**Membres.** [[Élémentaire de Terre de taille G]] (FP 5), [[Élémentaire de Terre de taille M]] (FP 3), [[Élémentaire de Terre de taille P]] (FP 1), [[Élémentaire de Terre de taille TG]] (FP 7), [[Élémentaire de Terre noble]] (FP 9), [[Seigneur élémentaire de Terre]] (FP 11).  
 **Membres mythiques.** [[Élémentaire de la Terre mythique|Seigneur élémentaire de la Terre mythique]].
 
 #### Élémentaire de l'Air
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [[Élémentaire de lAir de taille G|Élémentaire de l'Air de taille G]] (FP 5), [[Élémentaire de lAir de taille M|Élémentaire de l'Air de taille M]] (FP 3), [[Élémentaire de lAir de taille P|Élémentaire de l'Air de taille P]] (FP 1), [[Élémentaire de lAir de taille TG|Élémentaire de l'Air de taille TG]] (FP 7), [[Élémentaire de lAir noble|Élémentaire de l'Air noble]] (FP 9), [[Seigneur élémentaire de lAir|Seigneur élémentaire de l'Air]] (FP 11).
+**Membres.** [[Élémentaire de lAir de taille G|Élémentaire de l'Air de taille G]] (FP 5), [[Élémentaire de lAir de taille M|Élémentaire de l'Air de taille M]] (FP 3), [[Élémentaire de lAir de taille P|Élémentaire de l'Air de taille P]] (FP 1), [[Élémentaire de lAir de taille TG|Élémentaire de l'Air de taille TG]] (FP 7), [[Élémentaire de lAir noble|Élémentaire de l'Air noble]] (FP 9), [[Seigneur élémentaire de lAir|Seigneur élémentaire de l'Air]] (FP 11).  
 **Membres mythiques.** [[Élémentaire de lAir mythique|Seigneur élémentaire de l'Air mythique]].
 </td><td width="2%">
 </td><td width="49%">
 #### Élémentaire de l'Eau
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [[Élémentaire de lEau de taille G|Élémentaire de l'Eau de taille G]] (FP 5), [[Élémentaire de lEau de taille M|Élémentaire de l'Eau de taille M]] (FP 3), [[Élémentaire de lEau de taille P|Élémentaire de l'Eau de taille P]] (FP 1), [[Élémentaire de lEau de taille TG|Élémentaire de l'Eau de taille TG]] (FP 7), [[Élémentaire de lEau noble|Élémentaire de l'Eau noble]] (FP 9), [[Seigneur élémentaire de lEau|Seigneur élémentaire de l'Eau]] (FP 11).
+**Membres.** [[Élémentaire de lEau de taille G|Élémentaire de l'Eau de taille G]] (FP 5), [[Élémentaire de lEau de taille M|Élémentaire de l'Eau de taille M]] (FP 3), [[Élémentaire de lEau de taille P|Élémentaire de l'Eau de taille P]] (FP 1), [[Élémentaire de lEau de taille TG|Élémentaire de l'Eau de taille TG]] (FP 7), [[Élémentaire de lEau noble|Élémentaire de l'Eau noble]] (FP 9), [[Seigneur élémentaire de lEau|Seigneur élémentaire de l'Eau]] (FP 11).  
 **Membres mythiques.** [[Élémentaire de lEau mythique|Seigneur élémentaire de l'Eau mythique]].
 
 #### Élémentaire de l'éclair
@@ -364,7 +364,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 #### Élémentaire du Feu
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]])
 
-**Membres.** [[Élémentaire du Feu de taille G]] (FP 5), [[Élémentaire du Feu de taille M]] (FP 3), [[Élémentaire du Feu de taille P]] (FP 1), [[Élémentaire du Feu de taille TG]] (FP 7), [[Élémentaire du Feu noble]] (FP 9), [[Seigneur élémentaire du Feu]] (FP 11).
+**Membres.** [[Élémentaire du Feu de taille G]] (FP 5), [[Élémentaire du Feu de taille M]] (FP 3), [[Élémentaire du Feu de taille P]] (FP 1), [[Élémentaire du Feu de taille TG]] (FP 7), [[Élémentaire du Feu noble]] (FP 9), [[Seigneur élémentaire du Feu]] (FP 11).  
 **Membres mythiques.** [[Élémentaire du Feu mythique|Seigneur élémentaire du Feu mythique]].
 
 #### Élémentaire du magma
@@ -483,7 +483,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Bien|Bien]], [[sous-type Loi|Loi]], [[sous-type manasaputra|manasaputra]])
 
-**Membres.** [[Manu]] (FP 12), [[Manu maharishi]] (FP 16), [[Manu rishi]] (FP 14), [[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]] (FP &nbsp; (FP 18.
+**Membres.** [[Manu]] (FP 12), [[Manu maharishi]] (FP 16), [[Manu rishi]] (FP 14), [[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]] (FP &nbsp; (FP 18.  
 **Membres mythiques.** [[Pitri solaire|Pitri solaire (Agnishvatta)]] (FP 22/RMy 8)
 
 ### Mégafaune
@@ -582,7 +582,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Créature magique|Créature magique]]
 
-**Membres.** [[Androsphinx]] (FP 9), [[Criosphinx]] (FP 7), [[Gynosphinx]] (FP 8), [[Hiéracosphinx]] (FP 5).
+**Membres.** [[Androsphinx]] (FP 9), [[Criosphinx]] (FP 7), [[Gynosphinx]] (FP 8), [[Hiéracosphinx]] (FP 5).  
 **Membres mythiques.** [[Sphinx mythique]] (FP 10/RMy 4).
 
 ### Ténébreux ([[Ténébreux|lien]])
@@ -604,7 +604,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [[Titan de lÉlysée|Titan de l'Élysée]] (FP 21), [[Titan hécatonchire]] (FP 24), [[Titan thanatotique]] (FP 22).
+**Membres.** [[Titan de lÉlysée|Titan de l'Élysée]] (FP 21), [[Titan hécatonchire]] (FP 24), [[Titan thanatotique]] (FP 22).  
 **Membres mythiques.** [[Danave]] (FP 24/RMy 9), [[Titan fomorien]] (FP 22/RMy 8).
 
 ### Troll
@@ -612,7 +612,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Types/Sous-types associés.** [[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]])
 
-**Membres.** [[Acolyte troll]] (FP 6), [[Berserker troll]] (FP 9), [[Brute troll]] (FP 7), [[Matrone âgée troll]] (FP 10), [[Étripeur troll]] (FP 8), [[Éventreur troll]] (FP 10), [[Gardien troll]] (FP 6), [[Monarque troll]] (FP 15), [[Troll]] (FP 5), [[Troll de mousse]] (FP 3), [[Troll de pierre]] (FP 6), [[Troll des cheminées]] (FP 2), [[Troll des égouts]] (FP 2), [[Troll des glaces]] (FP 4), [[Troll furieux]] (FP 8), [[Troll jötun]] (FP 15).
+**Membres.** [[Acolyte troll]] (FP 6), [[Berserker troll]] (FP 9), [[Brute troll]] (FP 7), [[Matrone âgée troll]] (FP 10), [[Étripeur troll]] (FP 8), [[Éventreur troll]] (FP 10), [[Gardien troll]] (FP 6), [[Monarque troll]] (FP 15), [[Troll]] (FP 5), [[Troll de mousse]] (FP 3), [[Troll de pierre]] (FP 6), [[Troll des cheminées]] (FP 2), [[Troll des égouts]] (FP 2), [[Troll des glaces]] (FP 4), [[Troll furieux]] (FP 8), [[Troll jötun]] (FP 15).  
 **Membres mythiques.** [[Troll mythique]] (FP 6/RMy 2).
 
 ### Tsukumogami ([[Tsukumogami, archétype|lien]])

@@ -9,28 +9,28 @@ Categories:
 
 {s:CSU|8}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Nécromancie]] ; **Niveau** [[Sahir-afiyun]] 3
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, M]] (1 dose de lait de pesh)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature vivante ayant 7 [[DV]] ou moins
-**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])
+**École** [[Nécromancie]] ; **Niveau** [[Sahir-afiyun]] 3  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, M]] (1 dose de lait de pesh)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature vivante ayant 7 [[DV]] ou moins  
+**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[mission]]*, excepté le fait que le seul ordre autorisé soit de « consommer du [[Drogues#PESH|pesh]] ou du pesh raffiné ».
 
 
 
 (((
 ## Mission
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature vivante ayant 7 [[DV]] ou moins
-**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature vivante ayant 7 [[DV]] ou moins  
+**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [[DV]], doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
 
 Cette dernière ne peut que suivre les instructions reçues tant que la *mission* n’est pas accomplie, sans considération de temps.

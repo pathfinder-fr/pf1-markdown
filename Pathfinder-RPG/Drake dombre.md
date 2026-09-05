@@ -45,7 +45,7 @@ Categories:
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature ressemble à un petit dragon avec des écailles charbonneuses et des ailes sombres.*
 
-Les drakes d’ombres sont malicieux et avares. Ils utilisent souvent leur queue effilée comme un troisième membre, pour attraper de petits objets. Il leur arrive même de l’utiliser pour ouvrir des serrures ou pour chiper les babioles qui leur font envie. Comme ils sont petits et rapides, ce sont des voleurs et des pickpockets accomplis.
+Les drakes d’ombres sont malicieux et avares. Ils utilisent souvent leur queue effilée comme un troisième membre, pour attraper de petits objets. Il leur arrive même de l’utiliser pour ouvrir des serrures ou pour chiper les babioles qui leur font envie. Comme ils sont petits et rapides, ce sont des voleurs et des pickpockets accomplis. 
 
 Contrairement aux autres drakes et dragons, ceux-ci adorent hanter les lisières de la civilisation et s’installent souvent dans des bâtiments abandonnés, des greniers délaissés ou des clochers inusités où ils entassent leurs minuscules trésors.
 Un lanceur de sorts Mauvais de niveau 7 possédant le don Familier supérieur peut choisir un drake d’ombre comme familier.

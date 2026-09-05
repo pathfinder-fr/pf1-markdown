@@ -29,7 +29,7 @@ Les talents de tueur (et les talents de roublard) suivants viennent compléter l
 
 #### Talents de maître tueur
 Les talents de maître tueur (et les talents de maître roublard) suivants viennent compléter l’archétype de libérateur
-[[Talents (tueur)#ASSASSINAT|assassinat]], [[Talents (tueur)#INSAISISSABLE|insaisissable]], [[Talents (tueur)#MAITREDUDEGUISEMENT|maître du déguisement]], [[Talents (tueur)#SURPRISEDUCHASSEUR|surprise du chasseur]].
+[[Talents (tueur)#ASSASSINAT|assassinat]], [[Talents (tueur)#INSAISISSABLE|insaisissable]], [[Talents (tueur)#MAITREDUDEGUISEMENT|maître du déguisement]], [[Talents (tueur)#SURPRISEDUCHASSEUR|surprise du chasseur]]. 
 
 
 ### Anciens libérateurs.

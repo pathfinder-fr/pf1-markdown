@@ -18,7 +18,7 @@ Categories:
 
 (((Unseen Poison
 
-You can conceal the magic auras of poisons that you carry.
+You can conceal the magic auras of poisons that you carry. 
 
 Prerequisites: Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast nondetection.
 

@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[kukri (arme)|Kukri]]
 |[[Domaine de la Duperie|Duperie]], [[Domaine de la Faune|Faune]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]]
-|[[Domaine du Mal|Peur]], [[Domaine de la Faune|Poil]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Loi|Tyrannie]]
+|[[Domaine du Mal|Peur]], [[Domaine de la Faune|Poil]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Loi|Tyrannie]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

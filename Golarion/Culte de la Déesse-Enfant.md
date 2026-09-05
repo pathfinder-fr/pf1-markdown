@@ -6,7 +6,7 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Le culte de la Déesse-Enfant|Cult of the Child-goddess||Vénération de la [[Déesse-Enfant]]|[[Kaer-Maga]], en [[Varisie]]|Haute prêtresse Shamaly Kasan|Religieux dévots|-|-|-}Le Culte de la [[Déesse-Enfant]] est un ordre religieux installé dans la cité de [[Kaer-Maga]] en [[Varisie]]. Cet ordre suit les préceptes de la [[Déesse-Enfant]] (ou des [[Déesse-Enfant|déesses-enfants]], leur nombre exact étant inconnu) qui réside dans le Palais de la Déesse-Enfant. Ce Palais est situé dans le district d'Anker-Te à [[Kaer-Maga]].
+{s:Organisation|Le culte de la Déesse-Enfant|Cult of the Child-goddess||Vénération de la [[Déesse-Enfant]]|[[Kaer-Maga]], en [[Varisie]]|Haute prêtresse Shamaly Kasan|Religieux dévots|-|-|-}Le Culte de la [[Déesse-Enfant]] est un ordre religieux installé dans la cité de [[Kaer-Maga]] en [[Varisie]]. Cet ordre suit les préceptes de la [[Déesse-Enfant]] (ou des [[Déesse-Enfant|déesses-enfants]], leur nombre exact étant inconnu) qui réside dans le Palais de la Déesse-Enfant. Ce Palais est situé dans le district d'Anker-Te à [[Kaer-Maga]]. 
 
 Le culte est dirigé par la Haute Prêtresse Shamalay Kasan, l'une des personnalités les plus puissantes de la ville.
 

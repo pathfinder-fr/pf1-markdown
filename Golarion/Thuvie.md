@@ -39,6 +39,6 @@ Voyant les ressources financières que l'élixir pouvait leur apporter, les cit�
 Si chaque cité-état y trouve finalement son compte, les aventuriers qui rechercheraient du travail peuvent aussi trouver un emploi à la mesure de ses qualités et mérites. Ainsi, il y a toujours du travail disponible dans la recherche des plants d'orchidée solaire ou dans la protection des caravanes qui acheminent la production vers les cités.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de la Thuvie dans le supplément
+Vous pourrez trouver plus d'informations à propos de la Thuvie dans le supplément 
 {s:VoirAussiElem|[[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].}
 {s:VoirAussiAprès}

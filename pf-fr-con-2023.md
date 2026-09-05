@@ -15,7 +15,7 @@ LastModified: 2024-01-27 15:33
 ''La thématique de cette année sera centrée sur la trame principale de la première saison de la société des éclaireurs (PFS) dans laquelle les origines de la société des éclaireurs sont explorées.
 
 Des scénarios des saisons plus récentes ainsi que des scénarios de la société des explorateurs d'étoiles (SFS) pour le jeu Starfinder seront aussi organisés. Un scénario spécial multi-table sera également proposé, où plusieurs équipes progressent ensemble vers un seul et même objectif.''
----
+<hr />
 
 <nav class="wiki-toc"></nav>
 <div style="clear: both"></div>
@@ -111,14 +111,14 @@ Afin de pouvoir adapter l'offre de parties pendant cette convention, nous avons 
 - [Si vous pensez participer à la convention](https://framadate.org/GqBIzz6rfXvuWun7)
 - [Si vous pensez participer au scénario spécial du dimanche 19/11 de 14:00 à 19:00](https://framadate.org/87CRYSFt8WMiesdu)
 
-Attention, cependant, la réponse à ce sondage ne fait pas office d'inscription.
+Attention, cependant, la réponse à ce sondage ne fait pas office d'inscription. 
 
 ### Inscriptions
 
 Toutes les parties se dérouleront sur [le serveur Discord de Pathfinder-FR](https://discord.gg/uTrTaM92MA)
 
 <img src="/Events/Register.jpg" class="fright cadre" alt="">
-Les inscriptions à la **convention VTT** seront gérées par le site Warhorn.
+Les inscriptions à la **convention VTT** seront gérées par le site Warhorn. 
 Vous pouvez d'ores et déjà vous enregistrer sur [le site warHorn de l'évènement](https://warhorn.net/events/convention-pathfinder-fr-automne-2023). Il suffit de cliquez sur le bouton "Register". Ainsi, vous serez tenu au courant de l'évolution de la convention et de l'ouverture aux enregistrements.
 
 Les inscriptions aux parties à proprement parler seront ouvertes à partir
@@ -128,7 +128,7 @@ Les inscriptions aux parties à proprement parler seront ouvertes à partir
 Les inscriptions aux **parties PsD** seront publiées sur le canal #recrutement du serveur discord. Les parties qui y sont proposées ne se limitent pas aux parties de la convention : n'hésitez pas à participer à d'autres sessions, surtout si vous débutez !!
 
 Sachez qu'en fonction des inscriptions, des parties additionnelles pourraient-être proposées. N'hésitez pas à vous ajouter dans la waitlist si la partie que vous visez est remplie. En plus de vous permettre d'être sélectionné en cas de désistement, la taille des waitlist détermineront aussi si nous ajoutons des parties additionnelles sur le même créneau.
-Lorsque vous vous connectez sur le serveur Discord de Pathfinder-FR, N'oubliez pas de prendre vos roles dans le canal #règlement-et-rôles afin d'accèder à l'espace convention
+Lorsque vous vous connectez sur le serveur Discord de Pathfinder-FR, N'oubliez pas de prendre vos roles dans le canal #règlement-et-rôles afin d'accèder à l'espace convention 
 
 
 ### Vous débutez ?
@@ -171,7 +171,7 @@ Les annonces PsD sur notre serveur Discord sont publiées dans le canal #recrute
 ### Comment fonctionnent les parties sur table de jeu virtuel ?
 
 Les deux principales tables de jeu virtuel utilisées par les maître de jeu sont Foundry et Roll20.
-Dans les deux cas, ce sont des plateformes gratuites pour les joueurs. Vous aurez besoin d'un ordinateur, d'un micro. les conversations audio se déroulent sur Discord, il vous faudra donc installer Discord et rejoindre notre serveur
+Dans les deux cas, ce sont des plateformes gratuites pour les joueurs. Vous aurez besoin d'un ordinateur, d'un micro. les conversations audio se déroulent sur Discord, il vous faudra donc installer Discord et rejoindre notre serveur 
 
 Pour **Roll20** il faudra créer un compte sur [Roll20](https://app.roll20.net) puis attendre le lien d'invitation à la partie de votre Maître de Jeu, pour pouvoir accéder à la partie et remplir votre fiche de personnage.
 

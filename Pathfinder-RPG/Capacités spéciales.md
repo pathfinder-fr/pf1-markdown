@@ -10,10 +10,10 @@ LastModified: 2024-08-27 22:03
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#30|→]] Pouvoirs magiques et niveau de sort : Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?***
 
-Le niveau de sort effectif de ces <u>[[Capacités spéciales#TYPES|pouvoirs magiques]]</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis.
+Le niveau de sort effectif de ces <u>[[Capacités spéciales#TYPES|pouvoirs magiques]]</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis. 
 
 Par exemple, un ensorceleur de lignage élémentaire de niveau 1 a Rayon élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 1 étant le niveau 1, ce pouvoir magique compte comme un sort de niveau 1. Un ensorceleur de lignage élémentaire de niveau 9 a Explosion élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 9 étant le niveau 4, ce pouvoir magique compte comme un sort de niveau 4.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#25|→]] Pouvoirs magiques : Comment savoir si un pouvoir magique est divin ou profane ?***
 
 La [[Pouvoirs magiques (capacité)|règle de monstre universelle]] pour les <u>[[Capacités spéciales#TYPES|pouvoirs magiques]]</u> dit : « Certains pouvoirs magiques imitent des sorts qui fonctionnent différemment selon la classe du lanceur. Par défaut, on suppose que les pouvoirs magiques des monstres se basent sur la version disponible aux ensorceleurs/magiciens. Si le sort ne figure pas dans la liste des ensorceleurs/magiciens, on examine alors les autres listes dans l’ordre suivant : prêtre, druide, barde, paladin et enfin rôdeur. »
@@ -21,16 +21,16 @@ La [[Pouvoirs magiques (capacité)|règle de monstre universelle]] pour les <u>[
 Pour les pouvoirs magiques obtenus par la race ou le type d’une créature (dont les races de PJ), la même règle s’applique : les pouvoirs magiques de la créature sont supposément leur version pour ensorceleur/magicien. S'ils ne figurent pas dans la liste des ensorceleurs/magiciens, on examine alors les autres listes dans l’ordre suivant : prêtre, druide, barde, paladin et enfin rôdeur.
 
 Pour les pouvoirs magiques obtenus par une classe, utilisez le type de sorts (divins ou profanes) de cette classe pour déterminer si le pouvoir magique est divin ou profane. Si la classe ne lance pas de sorts, utilisez la règle ci-dessus pour les pouvoirs magiques obtenus par la race ou le type.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#26|→]] Pouvoirs magiques comme sorts : Est-ce qu’une créature avec un pouvoir magique compte comme possédant ce sort dans sa liste dans le cadre de l’activation d’un objet à potentiel magique ou à fin d’incantation ?***
 
 Non. Un <u>[[Capacités spéciales#TYPES|pouvoir magique]]</u> n’est pas un sort, posséder un sort en tant que pouvoir magique n'est pas la même chose qu'avoir un sort sur une liste de sorts de classe, et par conséquent ne permet pas à une créature d’activer un  objet à potentiel magique ou à fin d’incantation.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#27|→]] Pouvoirs magiques et Création d’objet : Puis-je utiliser un pouvoir magique pour satisfaire une condition de fabrication d’un objet ?***
 
-Oui. Dans le *Manuel des joueurs* [[Descriptions des objets magiques|pages 466-467]], section Conditions de fabrication, le paragraphe 2 dit, « Une condition de sort requis peut aussi être remplie par l’intermédiaire d’un autre lanceur de sorts, d’un pouvoir magique ou d’un objet a fin d’incantation ou a potentiel magique. »
+Oui. Dans le *Manuel des joueurs* [[Descriptions des objets magiques|pages 466-467]], section Conditions de fabrication, le paragraphe 2 dit, « Une condition de sort requis peut aussi être remplie par l’intermédiaire d’un autre lanceur de sorts, d’un pouvoir magique ou d’un objet a fin d’incantation ou a potentiel magique. »  
 Par exemple, un démon avec le don [[Création darmes et armures magiques|Création d’armes et armures magiques]] qui possède *boule de feu* comme <u>[[Capacités spéciales#TYPES|pouvoir magique]]</u> peut fabriquer une *épée de [[feu (propriété)|feu]] +1*, qui a *boule de feu* comme condition de fabrication.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#28|→]] Pouvoirs magiques, incantation, et prérequis : Est-ce qu’une créature avec un pouvoir magique compte comme étant capable de lancer ce sort dans le cadre de prérequis ou de conditions ?***
 
 Uniquement si le prérequis cite explicitement le nom d’un sort. Par exemple, le don [[Agilité dimensionnelle]] a « Capacité de classe pas chassé ou capacité à lancer *porte dimensionnelle* » comme prérequis ; un [[barghest]] possède *porte dimensionnelle* comme [[Pouvoirs magiques (capacité)|pouvoir magique]], donc le barghest remplit le prérequis « capacité à lancer *porte dimensionnelle* » pour ce don. En revanche, la *porte dimensionnelle* du barghest ne remplit pas les prérequis comme « capacité à lancer des sorts de niveau 4 » ou « capacité à lancer des sorts profanes ». *(Retour à la <u>[[Capacités spéciales#TYPES|règle]]</u>)*}**Pouvoirs magiques (Mag).** Les pouvoirs magiques agissent comme des sorts. Ils sont assujettis à la [[RM|résistance à la magie]] et à une éventuelle *[[dissipation de la magie]]*. Ils ne fonctionnent pas là où la magie est supprimée ou réprimée (comme dans une *[[zone dantimagie|zone d’antimagie]]*). Les pouvoirs magiques ne peuvent être [[contresort|contrés]] et ne peuvent servir à [[contresort|contrer]] d'autres sorts. Voir aussi la [[Pouvoirs magiques (capacité)|règle universelle de monstre]] associée.
@@ -62,10 +62,10 @@ Uniquement si le prérequis cite explicitement le nom d’un sort. Par exemple, 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Générale)#1|→]] Augmentations temporaires de caractéristiques et capacités de monstres : ces augmentations affectent-elles le DD des capacités surnaturelles des monstres et des PJ basées sur la caractéristique concernée ?***
 
 Bien que la description des bonus temporaires aux caractéristiques ne mentionne que l'augmentation du DD des sorts, c'est une formulation héritée d'un jeu plus ancien dont la terminologie n'a pas été mise à jour quand de nouvelles notions ont été ajoutées aux règles. Les augmentations temporaires de caractéristiques devraient affecter le DD des capacités surnaturelles basées sur ces caractéristiques, telles que l'attaque de [[Regard (capacité)|regard]] de la [[méduse]] ou les [[Sorcière#MALEFICE|maléfices]] de la sorcière.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Générale)#2|→]] Augmentations temporaires et permanentes de caractéristiques : pourquoi les bonus temporaires s'appliquent-ils seulement à certaines choses ?***
 
-Les bonus temporaires à une caractéristique devraient s'appliquer à tout ce qui relève de cette caractéristique, exactement comme les bonus permanents le font. Il n'y avait pas assez d'espace dans la section dédiée du glossaire et il n'a pas été possible de lister tout ce qu'un bonus de caractéristique peut affecter dans le jeu.
+Les bonus temporaires à une caractéristique devraient s'appliquer à tout ce qui relève de cette caractéristique, exactement comme les bonus permanents le font. Il n'y avait pas assez d'espace dans la section dédiée du glossaire et il n'a pas été possible de lister tout ce qu'un bonus de caractéristique peut affecter dans le jeu. 
 
 L'objectif de la règle sur les valeurs temporaires de caractéristiques est de permettre au joueur de ne pas avoir à tout recalculer pour son personnage à chaque fois que ce dernier bénéficie d'une *[[force de taureau]]* ou d'un sort similaire ; la règle se contente de résumer les effets les plus communs associés aux caractéristiques.
 
@@ -130,7 +130,7 @@ Ce texte a été reporté sur les règles universelles de monstre [[Immunité (c
 
 {s:Reference|INVISIBILITE}
 ### L'invisibilité
-<div style="float:right; margin:8px 6px 0px 10px">**'Voir aussi le sort [[invisibilité]].
+<div style="float:right; margin:8px 6px 0px 10px">**'Voir aussi le sort [[invisibilité]].  
 Voir aussi l'état préjudiciable [[invisible]].**'</div>La faculté de se déplacer sans être vu confère un avantage important, mais qui est loin d’être déterminant. Les créatures invisibles ne peuvent pas être vues, mais rien n’empêche de les entendre, de les sentir, ou tout simplement d’avoir la sensation qu’il y a quelqu’un à proximité.
 
 Ni le sens de la vue, ni la vision dans le noir ne permettent de détecter une créature invisible.

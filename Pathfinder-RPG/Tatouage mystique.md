@@ -14,7 +14,7 @@ Categories:
 
 **Avantages**. Le personnage choisit une école de magie (autre que la divination) pour laquelle il possède le don [[École renforcée]]. Il lance les sorts de cette école avec un bonus de +1 au [[nls|niveau de lanceur de sorts]].
 
-De plus, il gagne un unique pouvoir magique utilisable trois fois par jour dépendant de l'école choisie. Voici les pouvoirs magiques de chaque école :
+De plus, il gagne un unique pouvoir magique utilisable trois fois par jour dépendant de l'école choisie. Voici les pouvoirs magiques de chaque école : 
 - Abjuration : *[[sort résistance|résistance]]*
 - Enchantement : *[[hébétement]]*
 - Évocation : *[[lumières dansantes]]*

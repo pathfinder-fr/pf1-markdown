@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po (standard), 2.501 po (en mithral) ; **Poids** 2,5 kg (standard), 1,25 kg (en mithral)
+{s:AE}**Prix** 1 po (standard), 2.501 po (en mithral) ; **Poids** 2,5 kg (standard), 1,25 kg (en mithral)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette version plus grande de la [[Marmite (objet)|marmite en fer]] a une contenance d'environ 4,5 litres — ce qui est suffisant pour un repas nourrissant pleinement quatre humains affamés. Ce chaudron peut également servir à fabriquer des [[Potions magiques|potions]] ou à d'autres activités similaires.  
   
 *Chaudron en mithral.* Le chaudron en mithral est plus léger et accroche rarement à la cuisson.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po ; **Poids** 1 kg
+{s:AE}**Prix** 30 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette chaîne est faite de maillons en métal imbriqués d'environ 2,5 centimètres de long. Elle est suffisamment épaisse pour supporter des poids importants. Elle a une [[solidité]] de 10 à 5 points de vie. On peut la briser avec un test de [[Force]] [[DD]] 26.

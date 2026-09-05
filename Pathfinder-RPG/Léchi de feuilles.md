@@ -54,7 +54,7 @@ Les léchis de feuilles adorent jouer à la guerre. Lorsqu’ils ne s’occupent
 ### Faire pousser un léchi de feuilles
 Les léchis de feuilles poussent généralement à l’ombre des arbres fruitiers ou des arbres à noix. Pour faire pousser un léchi de feuilles, le créateur doit planter un gland et une pomme de pin ensemble, puis les entourer d’un amas de feuilles, de branches et d’aiguilles. Lorsque naît un léchi de feuilles, il n’a ni armure, ni manteau de feuilles, ni armes mais peut les construire à partir des matériaux disponibles en une journée lorsqu’il est livré à lui-même (aucun test d’Artisanat n’est requis).
 
-**NLS** 5 ; **Prix** 1 000 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, *[[croissance végétale]]*, *[[pierre magique]]*
+**NLS** 5 ; **Prix** 1 000 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, *[[croissance végétale]]*, *[[pierre magique]]*  
 **Compétences** [[Connaissances]] (exploration souterraine ou nature) [[DD]] 14 ; **Coût** 1 250 po
 </div></td></tr></table>

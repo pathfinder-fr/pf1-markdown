@@ -8,7 +8,7 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-Bien que les héritiers de lignages profanes puissent partager des similarités, les circonstances particulières dans lesquelles un lignage entre dans l’ascendance d’un [[Sanguin]] ou d’un [[Ensorceleur]] peuvent entraîner la manifestation de pouvoirs de lignage particulièrement étranges ou inhabituels, appelés mutations.
+Bien que les héritiers de lignages profanes puissent partager des similarités, les circonstances particulières dans lesquelles un lignage entre dans l’ascendance d’un [[Sanguin]] ou d’un [[Ensorceleur]] peuvent entraîner la manifestation de pouvoirs de lignage particulièrement étranges ou inhabituels, appelés mutations. 
 
 Chaque fois qu’un Sanguin ou un Ensorceleur acquiert un nouveau pouvoir de lignage, il peut échanger ce pouvoir de lignage contre une mutation de lignage dont il remplit les conditions. Une fois ce choix effectué, il ne peut plus être modifié, et un Sanguin ou un Ensorceleur ne peut pas échanger un pouvoir de lignage qu’un archétype a modifié ou remplacé contre une mutation de lignage.
 

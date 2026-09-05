@@ -16,7 +16,7 @@ En plus des rêveurs mortels et des rares voyageurs, la Dimension des Rêves est
 
 ### Lieux d'intérêt
 
-Quelques textes blasphématoires affirment que [[Leng]] fait partie de la Dimension des Rêves tandis que d'autres affirment qu'il est seulement possible d'y accéder à travers cette région du [[Plan Ethéré]]. Peu de choses sont connues à propos de ce lieu, même parmi les sphères les plus érudites, aussi rien n'est sûr quant à ces hypothèses.
+Quelques textes blasphématoires affirment que [[Leng]] fait partie de la Dimension des Rêves tandis que d'autres affirment qu'il est seulement possible d'y accéder à travers cette région du [[Plan Ethéré]]. Peu de choses sont connues à propos de ce lieu, même parmi les sphères les plus érudites, aussi rien n'est sûr quant à ces hypothèses. 
 
 [[Sonnorae Imlios]] s'est appropriée un morceau de la Dimension des Rêves pour créer son propre demi-plan connu sous le nom de [[Royaume Torturé]].
 

@@ -9,7 +9,7 @@ LastModified: 2024-05-28 18:41
 **Aura** [[Abjuration]] modérée ; **NLS** 12 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 12 000 po ; **Poids** 2,5 kg
 (((Description)))
 Ce sceptre robuste et dense est toujours fabriqué dans un métal haute­ment conducteur et strié de veines en verre blanc ou jaune dessinant une sorte de toile. Lorsqu’une créature tient un sceptre conducteur, elle gagne une résistance à l’électricité de 5 comme effet constant, ainsi qu’un bonus de +1 à son niveau de lanceur de sorts effectif lorsqu’elle lance des sorts du registre électricité. \
-Une fois par jour par une action libre, lorsque le porteur d’un sceptre conducteur lance un sort du registre de l’électricité, il peut téléporter cet effet de sort où il veut mais n’est de toute façon pas affecté par le sort.
+Une fois par jour par une action libre, lorsque le porteur d’un sceptre conducteur lance un sort du registre de l’électricité, il peut téléporter cet effet de sort où il veut mais n’est de toute façon pas affecté par le sort. 
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[éclair]]*, *[[porte dimensionnelle]]*, *[[résistance aux énergies destructives]]* ; **Coût** 6 000 po
 </div>

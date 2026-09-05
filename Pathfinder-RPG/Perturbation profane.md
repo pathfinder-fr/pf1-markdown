@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une pincée de poivre)
-**Portée** [[portée|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cible** une créature
-**Durée** 1 [[round]]/[[niveau]]
+{s:MCA}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une pincée de poivre)  
+**Portée** [[portée|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cible** une créature  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui
 
 La créature ciblée par ce sort rencontre des difficultés pour lancer des sorts profanes et pour utiliser des pouvoirs magiques et certains pouvoirs conférés par ses classes de lanceur de sorts profanes. La créature ciblée soit réussir un [[test de concentration]] ([[DD]] = 10 + la moitié de son [[NLS|niveau de lanceur de sorts]]) pour parvenir à lancer un sort profane, pour utiliser un pouvoir magique (même ceux de source divine), pour utiliser des [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objets magiques à fin d’incantation]] ou [[Règles relatives aux objets magiques#OBJETAPOTENTIELMAGIQUE|à potentiel magique]] profane et pour utiliser les aptitudes de classe suivantes conférées par une classe de lanceur de sorts profanes : pouvoirs d’[[magicien#ECOLEDEMAGIE|école de magie]], [[arcaniste#EXPLOITATION|exploitations d’arcaniste]], [[représentation bardique|représentations bardiques]], [[magus#ARCANES|arcanes du magus]] et [[sorcière#MALEFICE|maléfices de sorcière]]. Les sorts, les pouvoirs magiques ou les aptitudes de classe utilisables par une [[action libre]], [[action rapide|rapide]] ou [[action immédiate|immédiate]] ne sont pas affectés par ce sort. C’est également le cas des sorts et des pouvoirs mythiques.

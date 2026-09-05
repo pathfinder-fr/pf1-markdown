@@ -10,12 +10,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3
-**Temps d'incantation** 1 [[action complexe]]
-**Composantes** [[composantes|V, G, F]] (une gemme d’une valeur de 500 po au moins)
-**Portée** contact
-**Cible** gemme transparente touchée
-**Durée** permanent ou 1 minute/niveau (voir texte)
+{s:cs}{s:RSE}**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3  
+**Temps d'incantation** 1 [[action complexe]]  
+**Composantes** [[composantes|V, G, F]] (une gemme d’une valeur de 500 po au moins)  
+**Portée** contact  
+**Cible** gemme transparente touchée  
+**Durée** permanent ou 1 minute/niveau (voir texte)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 *Un maître des parchemins de la Compagnie des Explorateurs a mené des recherches et conçu ce sort en étudiant les notes fragmentaires d’un ascète de l'Empire de l'Est rédigées dans un étrange grimoire. Les rumeurs prétendent que l'Explorateur aurait dissimulé pas moins d’une douzaine de gemmes d’image dérobée permanentes dans les coffres et tiroirs de son étude.*

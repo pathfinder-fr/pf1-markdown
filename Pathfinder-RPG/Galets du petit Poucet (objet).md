@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 50 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
+{s:MCA}**Prix** 50 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Semblables à des [[Bâton éclairant (objet)|bâtons éclairants]], ces petits galets blancs sont traités alchimiquement pour diffuser une faible lueur quand on les active en les frappant les uns contre les autres. Cette lueur est à peine suffisante pour illuminer la pierre. Bien qu’ils ne brillent pas assez pour faire une source de lumière efficace, il est possible de les placer de manière à former des messages ou de les disposer le long d’un chemin afin de marquer la route pour d’autres.

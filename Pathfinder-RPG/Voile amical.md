@@ -18,7 +18,7 @@ Categories:
 
 (((Friendly Shroud
 
-You can help conceal your allies.
+You can help conceal your allies. 
 
 Prerequisite: Stealth 1 rank.
 

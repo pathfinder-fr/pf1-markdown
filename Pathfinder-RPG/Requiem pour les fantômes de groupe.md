@@ -14,27 +14,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M/FD]] (une vieille hanche d'instrument à vent)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature [[intangible]]/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 [[round]]/[[niveau]]
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M/FD]] (une vieille hanche d'instrument à vent)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature [[intangible]]/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[requiem pour les fantômes]]* mais il affecte plusieurs créatures.
 
 
 
 (((
 ## Requiem pour les fantômes
-{s:APG}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M/FD]] (une vieille hanche d'instrument à vent)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature intangible
-**Durée** 1 [[round]]/[[niveau]]
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M/FD]] (une vieille hanche d'instrument à vent)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature intangible  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 La cible se solidifie partiellement pour une courte période. Tant que la créature [[intangible]] est soumise à ce sort, elle reçoit la moitié (50%) des dégâts des attaques non magiques et la totalité de ceux des armes magiques, des sorts, des pouvoirs magiques et des pouvoirs surnaturels.
 )))

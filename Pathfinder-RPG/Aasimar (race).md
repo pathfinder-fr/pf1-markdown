@@ -23,7 +23,7 @@ Néanmoins, même s’ils se tournent généralement vers les civilisations huma
 
 **Aventuriers.** Les aasimars deviennent souvent des aventuriers, car ils ne se sentent pas souvent chez eux dans la société humaine et ils ont l’impression qu’une plus grande destinée les attend. Les prêtres, les oracles et les paladins sont nombreux parmi eux, mais il n’est pas rare de trouver des bardes, des ensorceleurs et des invocateurs parmi ceux qui se passionnent pour la magie profane. Les barbares aasimars sont rares, mais ceux qui naissent dans ce genre de tribus finissent souvent par en prendre la tête et encouragent leur clan à embrasser les totems célestes.
 
-**Noms masculins.** Aritian, Beltin, Cernan, Cronwier, Éran, Ilamin, Maudril, Okrin, Parant, Tural, Wyran, Zaigan.
+**Noms masculins.** Aritian, Beltin, Cernan, Cronwier, Éran, Ilamin, Maudril, Okrin, Parant, Tural, Wyran, Zaigan.  
 **Noms féminins.** Arken, Arsinoé, Davina, Drinma, Imésah, Masozi, Nijéna, Niramour, Ondréa, Rhialla, Valtyra.
 
 #### Les aasimars non-humains

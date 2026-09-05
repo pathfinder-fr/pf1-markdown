@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 25 po ; **Poids** 1 kg
+{s:AE}**Prix** 25 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces animaux rusés peuvent servir de [[Familiers]] aux lanceurs de sorts aquatiques. Si on en fait des animaux de compagnie, ils faut les garder dans l’eau puisqu’ils ne peuvent pas survivre sans. Voir les statistiques de la [[pieuvre]].

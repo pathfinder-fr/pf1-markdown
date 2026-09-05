@@ -49,7 +49,7 @@ LastModified: 2024-08-18 01:56
 </td><td><div>
 Les yeux de cette créature boursouflée sortent des plis charnus et pleins de graisse de sa masse informe et dépourvue de cou.
 
-Hideux et corpulents, affublés d’innombrables yeux qui couvrent tout leur corps, les hyakumes sont des mystiques malveillants.
+Hideux et corpulents, affublés d’innombrables yeux qui couvrent tout leur corps, les hyakumes sont des mystiques malveillants. 
 
 Ils volent et collectionnent les souvenirs d’autres créatures intelligentes afin d’augmenter leur propre savoir.
 

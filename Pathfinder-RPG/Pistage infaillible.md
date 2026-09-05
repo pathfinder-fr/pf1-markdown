@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 6, [[Occultiste|Occ]] 4, [[Rôdeur|Rôd]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[personnelle]]
-**Cibles** le lanceur de sort
-**Durée** 10 minutes/niveau
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 6, [[Occultiste|Occ]] 4, [[Rôdeur|Rôd]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[personnelle]]  
+**Cibles** le lanceur de sort  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Pendant toute la durée du sort, le personnage peut toucher les signes du passage d'une créature qu'il a identifiés grâce à la compétence [[Survie]] afin de rendre les autres traces dans la trajectoire de la créature claires à ses yeux, peu importe leur taille. Cette piste ne doit pas dater de plus de 24 heures. Le personnage peut suivre la piste à n'importe quelle vitesse, si tant est qu'il ait une ligne de vue directe dessus. Le personnage peut distinguer la piste de la créature spécifique suivie même si elle est rejointe ou quittée par d'autres traces. Une fois que le personnage sélectionne la piste à suivre, il ne peut pas en changer.

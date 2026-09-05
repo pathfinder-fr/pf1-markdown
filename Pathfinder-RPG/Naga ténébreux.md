@@ -67,7 +67,7 @@ Les nagas ténébreux convoitent le luxe, la richesse et le pouvoir plus
 que toute autre chose. Ces créatures, dont le corps est recouvert
 d’écailles d’anguilles noires et luisantes, se faufilent avec agilité à
 travers les terres désertées et les ruines abandonnées à la recherche
-de trésors et de créatures plus faibles qu’elles pourront asservir.
+de trésors et de créatures plus faibles qu’elles pourront asservir. 
 
 Les nagas ténébreux n’utilisent leur langue fourchue que pour répandre
 des mensonges et, lorsqu’ils sont confrontés à des créatures qu’ils ne
@@ -84,7 +84,7 @@ gobelins, d’orques, d’hommes-lézards ou d’autres races sauvages.
 Les raffinements cosmopolites de la civilisation attirent
 également les nagas ténébreux et poussent certains d’entre eux à
 s’infiltrer dans les égouts et les quartiers pauvres des villes afin de
-s’y constituer un groupe de serviteurs urbains.
+s’y constituer un groupe de serviteurs urbains. 
 
 Ils apprécient tout
 particulièrement les bijoux et les trésors morbides. Ils aiment se

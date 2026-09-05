@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 52 po ; **Poids** 12,5 kg
+{s:AE}**Prix** 52 po ; **Poids** 12,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ces coffres sont généralement utilisés par les trafiquants transportant des marchandises de contrebande ou les gens qui veulent cacher un trésor. Le compartiment secret fait environ 2,5 centimètres de profondeur. Il en existe différentes sortes qui s'ouvrent de l'intérieur, par le dessous ou par l'arrière. Il faut réussir un test de [[Perception]] [[DD]] 20 pour repérer le compartiment secret.

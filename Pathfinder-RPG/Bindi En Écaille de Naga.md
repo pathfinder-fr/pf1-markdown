@@ -25,7 +25,7 @@ Cette écaille aussi brillante qu’un bijou se porte le plus souvent au milieu 
 
 **Naga ténébreux.** Le porteur de ce bindi gagne un bonus de +8 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] pour résister aux tentatives pour lire dans ses pensées et un bonus de +2 contre les effets de charme. Effet du poison : *[[sommeil]]* pendant 1 [[round]].
 
-Les effets du bindi durent 11 minutes ou jusqu’à ce que son porteur effectue une [[action simple]] pour reprendre sa forme d’origine. Le bindi peut être utilisé deux fois avant de perdre son lustre et sa magie.
+Les effets du bindi durent 11 minutes ou jusqu’à ce que son porteur effectue une [[action simple]] pour reprendre sa forme d’origine. Le bindi peut être utilisé deux fois avant de perdre son lustre et sa magie. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[physique monstrueux IV]]* ; **Coût** 3.300 po
 </div>

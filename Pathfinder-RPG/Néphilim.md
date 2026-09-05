@@ -42,7 +42,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou tribu (3-8)}
 {s:BDTexte|**Trésor** double (cuirasse de maître, épée longue +1, 4 lances de maître, autre trésor)}
 {s:BDSousTitre|pouvoirs spéciaux}
-{s:BDTexte|**Âme-chagrin (Ext)**. Le néphilim gagne un bonus de +2 à ses jets de
+{s:BDTexte|**Âme-chagrin (Ext)**. Le néphilim gagne un bonus de +2 à ses jets de 
 [[Volonté]] contre les effets de terreur et tous les effets qui provoquent le chagrin.}
 {s:BDTexte|**Coup écrasant (Ext).** Lorsqu’un néphilim réussit un [[coup critique]]
 sur une attaque de corps à corps, la cible doit réussir un jet de

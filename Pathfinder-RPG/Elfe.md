@@ -42,7 +42,7 @@ En revanche, les elfes ne sont pas assez stupides pour rejeter en bloc toutes le
 
 À cause de leur fragilité relative, les elfes évitent de se battre au corps à corps et préfèrent engager le combat à distance. Ils considèrent généralement les combats comme des évènements désagréables, mais indispensables, ainsi ils préfèrent s’en débarrasser aussi vite que possible, de préférence sans approcher trop près de leurs ennemis pour ne pas sentir leur odeur. Ce penchant pour le combat à distance, couplé à la précision naturelle des elfes et à leur maîtrise de la magie, les pousse souvent à opter pour les classes de magicien ou de rôdeur.
 
-**Noms masculins.** Caladrel, Helfalel, Lanliss, Meirdrarel, Seldlon, Talathel, Variel, Zordlon.
+**Noms masculins.** Caladrel, Helfalel, Lanliss, Meirdrarel, Seldlon, Talathel, Variel, Zordlon.  
 **Noms féminins.** Amrunelara, Dardlara, Faunra, Jathal, Mérisiel, Oprala, Soumral, Tessara, Yalandlara.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -127,15 +127,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les elfes occultes.** Tout comme dans le cas des arts magiques, les elfes exploitent tout autant leur intelligence affûtée et leurs facultés d’apprentissage minutieux pour étudier la magie psychique. Les elfes explorent leur propre psyché pour mener le plus souvent des expéditions mentales après l’étude approfondie de phénomènes psychiques. Ils abordent posément le sujet de leur propre esprit et couchent sur le papier les chroniques détaillées de leurs expériences internes comme externes.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** L'alchimiste ajoute la formule d’un [[alchimiste#EXTRAITS|extrait]] tiré de la [[liste des formules dalchimiste|liste de l’alchimiste]] à son livre de formules. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
+{s:MR}{s:APG}**[[Alchimiste]].** L'alchimiste ajoute la formule d’un [[alchimiste#EXTRAITS|extrait]] tiré de la [[liste des formules dalchimiste|liste de l’alchimiste]] à son livre de formules. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.  
 Les elfes préfèrent les disciplines magiques classiques aux expérimentations et à la pseudo-science de l’alchimie, qu’ils dépeignent souvent comme une grossière imitation de la magie traditionnelle. Les alchimistes elfes choisissent souvent la vie d’aventuriers afin d’échapper au mépris de leurs pairs.
 
 {s:MCA}**[[Arcaniste]].** Augmente le nombre total de points du [[réservoir arcanique]] de 1.
 
-{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute 30 centimètres à sa [[VD|vitesse de base]], ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). Ce bonus se cumule avec le [[Barbare#DEPLACEMENTACCELERE|déplacement accéléré]] du barbare et s’applique dans les mêmes conditions.
+{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute 30 centimètres à sa [[VD|vitesse de base]], ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). Ce bonus se cumule avec le [[Barbare#DEPLACEMENTACCELERE|déplacement accéléré]] du barbare et s’applique dans les mêmes conditions.  
 Les barbares elfes vivent généralement dans les profondeurs des déserts ou des jungles sous la guidance d’anciens sages et mystiques. Lorsqu’ils quittent leur patrie, c’est souvent pour accomplir une mission pour leur peuple ou pour découvrir le monde extérieur.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde ajoute +1 à son [[DMD]] pour résister à une tentative de [[Manœuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#DESTRUCTION|destruction]].
+{s:MR}{s:APG}**[[Barde]].** Le barde ajoute +1 à son [[DMD]] pour résister à une tentative de [[Manœuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#DESTRUCTION|destruction]].  
 Les elfes aiment l’art sous toutes ses formes. Les envolées de leurs arias, leurs poésies anciennes et leurs danses gracieuses sont enviées par tous les publics cultivés, tout comme leur panache au combat suscite l’envie de la plupart des guerriers.
 
 {s:MCA}**[[Bretteur]].** Augmente le nombre total de points de [[Bretteur#PANACHE|panache]] du bretteur de 1/4.
@@ -144,15 +144,15 @@ Les elfes aiment l’art sous toutes ses formes. Les envolées de leurs arias, l
 
 {s:MCA}**[[Chasseur]].** Le chasseur choisit une arme dans la liste suivante : [[arc long (arme)|arc long]], [[épée longue (arme)|épée longue]], [[rapière (arme)|rapière]], [[épée courte (arme)|épée courte]], [[arc court (arme)|arc court]] ou toute arme comportant la mention « elfique » dans son nom. Il gagne un bonus de +1/2 sur les jets de confirmation de [[coup critique]] avec cette arme, avec un maximum de +4. Ce bonus ne se cumule pas avec [[Don pour les critiques]] et autres effets similaires.
 
-{s:MR}{s:APG}**[[Chevalier]].** La [[Chevalier#MONTURE|monture]] du chevalier gagne +1 point de vie. Si le chevalier est obligé de la remplacer, la nouvelle bénéficie aussi de ces pv supplémentaires.
+{s:MR}{s:APG}**[[Chevalier]].** La [[Chevalier#MONTURE|monture]] du chevalier gagne +1 point de vie. Si le chevalier est obligé de la remplacer, la nouvelle bénéficie aussi de ces pv supplémentaires.  
 Les chevaliers elfes sont issus d’une longue tradition au sein des anciennes maisons nobles. Ils cherchent à gagner et à défendre leur honneur avec élégance. Leurs [[chevalier#MONTURE|montures]] agiles sont à la fois très résistantes et très fidèles.
 
 {s:AO}**[[Cinétiste]].** Le personnage ajoute un bonus de +1/4 aux [[Valeurs de combat#DEGATS|jets de dégâts]] qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
 
-{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur met 1 round de moins que la normale à invoquer son [[Conjurateur#EIDOLON|eidolon]] (avec un minimum de 1 round).
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur met 1 round de moins que la normale à invoquer son [[Conjurateur#EIDOLON|eidolon]] (avec un minimum de 1 round).  
 Grâce à leur affinité avec les arts mystiques, les elfes possèdent une longue tradition d’alliance avec des créatures magiques. Même si les conjurateurs elfes sont moins nombreux que les ensorceleurs ou les magiciens, ils sont bien représentés au sein des armées elfiques. Leur eidolons sont souvent des créatures translucides qui paraissent beaucoup moins fortes et puissantes qu’elles ne le sont réellement.
 
-{s:MR}{s:APG}**[[Druide]].** Le druide ajoute +1/3 à son bonus d’armure naturelle quand il utilise [[Druide#FORMEANIMALE|forme animale]].
+{s:MR}{s:APG}**[[Druide]].** Le druide ajoute +1/3 à son bonus d’armure naturelle quand il utilise [[Druide#FORMEANIMALE|forme animale]].  
 Les elfes possèdent un lien instinctif avec la nature et les esprits mystérieux qui l’habitent. Certains d’entre eux vont jusqu’à vénérer ces puissances en s’attachant les services des forces de la nature et vice-versa.
 
 {s:MCA}**[[Enquêteur]].** Augmente le nombre total de points d’[[Enquêteur#INSPIRATION|inspiration]] de l’enquêteur de 1/3.
@@ -160,12 +160,12 @@ Les elfes possèdent un lien instinctif avec la nature et les esprits mystérieu
 {s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[lignages|lignage]] de niveau 1 qu’il peut utiliser un nombre de fois par jour égal à 3 + Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
 La magie infuse le sang des elfes, de sorte que tous les lignages d’ensorceleur apparaissent au sein de leur peuple. Les ensorceleurs elfes ne sont toutefois pas aussi respectés que les magiciens.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute +1 à son [[DMD]] quand il résiste à une tentative de [[Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#DESTRUCTION|destruction]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute +1 à son [[DMD]] quand il résiste à une tentative de [[Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#DESTRUCTION|destruction]].  
 Les guerriers elfes sont respectés pour leur posture agile, leur précision délicate mais mortelle et leur maîtrise de traditions martiales datant de plusieurs siècles.
 
 {s:AO}**[[Hypnotiseur]].** Le personnage bénéficie d’un bonus de +1/2 aux tests d’[[Acrobaties]] effectués pour se déplacer dans la zone contrôlée par un ennemi et aux tests de [[Bluff]] effectués pour [[Actions spéciales#FEINTE|feinter]].
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur apprend un sort de plus tiré de sa [[Liste des sorts dinquisiteur|liste]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur apprend un sort de plus tiré de sa [[Liste des sorts dinquisiteur|liste]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 Même si, en tant que race, les elfes accordent une grande importance à la liberté et aux individus, ils sont également très traditionalistes et plutôt méfiants à l’égard des étrangers. Les inquisiteurs elfes ne sont pas très appréciés, mais leurs jugements et leur autorité sont respectés.
 
 {s:cs}{s:UI}**[[Justicier]].** Gagne un bonus de +1/3 aux tests d'[[Acrobaties]], de [[Discrétion]] et d'[[Escalade]] dans les milieurs forestiers.
@@ -174,37 +174,37 @@ Même si, en tant que race, les elfes accordent une grande importance à la libe
 </td><td width="49%">
 {s:MCA}**[[Lutteur]].** Ajoute 30 centimètres à la vitesse de base du lutteur. Au combat, cet avantage se traduit par une augmentation de 1,50 mètre de sa vitesse de base, seulement lorsqu'il a bénéficié à cinq reprises de cette option.
 
-{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un pouvoir d’[[école de magie]] de niveau 1 qu’il peut utiliser un nombre de fois par jour égal à 3 + [[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un pouvoir d’[[école de magie]] de niveau 1 qu’il peut utiliser un nombre de fois par jour égal à 3 + [[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les elfes entretiennent une ancienne tradition de savoir et de recherche magique dans tous les domaines de spécialisation possibles. Pour ceux qui possèdent un talent suffisant, la magie est l’une des voies d’accès les plus sûres vers une position prestigieuse au sein de la société elfique.
 
-{s:MR}**[[Magus]].** Le magus apprend 1/6 d’un nouvel [[Magus#ARCANE|arcane de magus]].
+{s:MR}**[[Magus]].** Le magus apprend 1/6 d’un nouvel [[Magus#ARCANE|arcane de magus]]. 
 
 {s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/3 aux [[compétences#TESTSDECOMPETENCES|tests de compétence]] qui utilisent les [[extensions de compétences occultes]].
 
-{s:MR}{s:APG}**[[Moine]].** Le moine ajoute 30 centimètres à sa [[VD|vitesse de base]], ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). Ce bonus se cumule avec le [[Moine#DEPLACEMENTACCELERE|déplacement accéléré]] du moine et s’applique dans les mêmes conditions.
+{s:MR}{s:APG}**[[Moine]].** Le moine ajoute 30 centimètres à sa [[VD|vitesse de base]], ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). Ce bonus se cumule avec le [[Moine#DEPLACEMENTACCELERE|déplacement accéléré]] du moine et s’applique dans les mêmes conditions.  
 Les elfes sont contemplatifs par nature et ils apprécient ceux qui s’intéressent au calme intérieur et à la paix de l’esprit. Les [[moine|moines]] elfes se laissent souvent guider par des mantras très anciens ou des exemples naturels d’équilibre et de finesse.
 
 {s:AO}**[[Occultiste]].** Le personnage augmente de 1/2 point son nombre total de points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]].
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/6 à son niveau de classe quand il détermine les effets d’une de ses [[Oracle#REVELATION|révélations]].
+{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/6 à son niveau de classe quand il détermine les effets d’une de ses [[Oracle#REVELATION|révélations]].  
 Les oracles elfes sont assez répandus et très respectés en tant que gardiens des mystères de leurs ancêtres et de secrets qui datent d’avant la venue au monde des innombrables races plus jeunes.
 
-{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 [[point de vie]] à son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 [[point de vie]] à son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).  
 Les paladins elfes adoptent et font respecter les édits ancestraux de leurs [[Golarion.religions et philosophies|divinités]]. Ils protègent leur peuple et leur contrée contre tous ceux qui voudraient profaner leurs terres sacrées.
 
 {s:MR}**[[Pistolier]].** Le [[pistolier]] ajoute +1/3 à ses jets de confirmation de [[coup critique]] avec les [[armes à feu]] (+5 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les elfes vénèrent de nombreux [[Golarion.religions et philosophies|dieux]]. Leur longévité amène de nombreux elfes à se considérer comme bénis des dieux. Un bon nombre d’entre eux se tournent vers des philosophies naturalistes ou d’anciens patrons divins qui incarnent les traits caractéristiques de leur peuple.
 
 {s:MCA}**[[Prêtre combattant]].** Ajoute 1/2 au nombre d’utilisations quotidiennes des [[Prêtre combattant#BENEDICTIONS|bénédictions]] du prêtre combattant mais il doit réserver ces utilisations supplémentaires à des bénédictions [[Bénédiction de lair|de l’Air]], de [[Bénédiction de la faune|la Faune]], du [[Bénédiction du Charme|Charme]], de [[Bénédiction de la Magie|la Magie]], de [[Bénédiction de la Flore|la Flore]] ou du [[Bénédiction du Soleil|Soleil]].
 
 {s:AO}**[[Psychiste]].** Le personnage augmente de 1/3 point le nombre total de points que contient sa [[psychiste#RESERVEPHRENIQUE|réserve phrénique]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur choisit une arme de la liste suivante : a[[arc long (arme)|arc long]], [[épée longue (arme)|épée longue]], [[rapière (arme)|rapière]], [[épée courte (arme)|épée courte]], [[arc court (arme)|arc court]] ou toute arme avec l’adjectif « elfique » dans son nom. Il ajoute +1/2 aux jets de confirmation de [[coup critique]] avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
+{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur choisit une arme de la liste suivante : a[[arc long (arme)|arc long]], [[épée longue (arme)|épée longue]], [[rapière (arme)|rapière]], [[épée courte (arme)|épée courte]], [[arc court (arme)|arc court]] ou toute arme avec l’adjectif « elfique » dans son nom. Il ajoute +1/2 aux jets de confirmation de [[coup critique]] avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].  
 Les elfes sont des chasseurs et des éclaireurs hors pairs en harmonie avec leur environnement, attentifs à tout ce qui les entoure et toujours prêts à protéger leurs terres ou à punir les intrus.
 
-{s:MR}{s:APG}**[[Roublard]].** Le roublard peut utiliser un tour de magie ou un sort de niveau 1 connu grâce aux talents [[Talents#MAGIEMINEURE|magie mineure]] ou [[Talents#MAGIEMAJEURE|magie majeure]] une fois de plus par jour. Il ne peut pas choisir ce bonus plus souvent pour la magie majeure que pour la magie mineure. Pour choisir cette option, il doit posséder le [[Roublard#TALENTDEROUBLARD|talent de roublard]] approprié.
+{s:MR}{s:APG}**[[Roublard]].** Le roublard peut utiliser un tour de magie ou un sort de niveau 1 connu grâce aux talents [[Talents#MAGIEMINEURE|magie mineure]] ou [[Talents#MAGIEMAJEURE|magie majeure]] une fois de plus par jour. Il ne peut pas choisir ce bonus plus souvent pour la magie majeure que pour la magie mineure. Pour choisir cette option, il doit posséder le [[Roublard#TALENTDEROUBLARD|talent de roublard]] approprié.  
 Même si les voleurs, les brigands et autres vauriens sont rares dans la société elfe, les elfes roublards sont aussi nombreux que les éclaireurs, les espions et même les assassins.
 
 {s:MCA}**[[Sanguin]].** Ajoute 30 centimètres à la [[VD|vitesse de base]] du sanguin. Au combat, cet avantage se traduit par une augmentation de 1,50 mètre de sa vitesse de base, seulement lorsqu'il a bénéficié à cinq reprises de cette option. Ce bonus se cumule avec le pouvoir de classe [[Sanguin#DEPLACEMENTACCELERE|déplacement accéléré]] et s’applique dans les mêmes conditions.

@@ -13,9 +13,9 @@ Categories:
 
 **Catégorie.** [[dons#doncombat|combat]]
 
-**Conditions.** [[homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10, trait racial griffes du félin ou [[Aspect bestial]] (manifestation griffes bestiales)
+**Conditions.** [[homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10, trait racial griffes du félin ou [[Aspect bestial]] (manifestation griffes bestiales) 
 
-**Avantages.** Lorsqu’il charge, l’homme-félin peut effectuer une [[attaque à outrance]] avec ses griffes.
+**Avantages.** Lorsqu’il charge, l’homme-félin peut effectuer une [[attaque à outrance]] avec ses griffes. 
 
 **Normal.** La charge est une [[action complexe]] spéciale qui limite l’homme-félin à une seule attaque.
 

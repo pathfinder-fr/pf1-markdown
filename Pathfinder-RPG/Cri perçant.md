@@ -24,7 +24,7 @@ Categories:
 **Durée** instantanée ; voir texte  
 **Jet de sauvegarde** [[vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Le personnage pousse un cri retentissant, inaudible sauf par une cible. Elle est [[hébété|hébétée]] pendant 1 [[round]] et reçoit 1d6 points de dégâts sonores par tranche de deux [[NLS|niveaux de lanceur de sorts]] (5d6 au maximum). Un
+Le personnage pousse un cri retentissant, inaudible sauf par une cible. Elle est [[hébété|hébétée]] pendant 1 [[round]] et reçoit 1d6 points de dégâts sonores par tranche de deux [[NLS|niveaux de lanceur de sorts]] (5d6 au maximum). Un 
 [[jet de sauvegarde]] réussi annule l’[[hébété|hébétement]] et réduit les dégâts de moitié.
 
 ### Mythique

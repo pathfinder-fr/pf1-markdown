@@ -11,12 +11,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** la créature touchée
-**Durée** 1 minute/niveau (T) ou jusqu’à déchargement
+{s:MCA}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** la créature touchée  
+**Durée** 1 minute/niveau (T) ou jusqu’à déchargement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) et voir texte ; **Résistance à la magie** oui (inoffensif) et voir texte
 
 Le personnage place un sceau invisible sur la cible. La prochaine fois qu’une créature réussira une manoeuvre offensive de destruction contre la cible, l’arme de l’attaquant recevra 1d6 points de dégâts par niveau de lanceur (10d6 au maximum). Si l’attaquant utilise une arme naturelle pour la destruction, il reçoit la moitié de ces dégâts. La résistance à la magie s’applique à ces dégâts. L’attaquant doit réussir un jet de [[Vigueur]] pour réduire ces dégâts de moitié.

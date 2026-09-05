@@ -13,6 +13,6 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions**. [[Dextérité|Dex]] 13, [[Attaque en finesse]], 2 rangs en [[Représentation]] (danse), maniement du cimeterre
+**Conditions**. [[Dextérité|Dex]] 13, [[Attaque en finesse]], 2 rangs en [[Représentation]] (danse), maniement du cimeterre 
 
 **Avantages**. Quand le personnage tient un cimeterre dans une main, il peut utiliser son modificateur de [[Dextérité]] au lieu de celui de Force lors des [[jet dattaque|jets d'attaque]] et de dégâts. Il considère le cimeterre comme une arme perforante à une main pour tous les dons et pouvoirs de classe qui exigent une telle arme (comme la *frappe précise* du [[duelliste]]). Le cimeterre doit être adapté à la taille du personnage. Il est impossible d’utiliser ce don avec un bouclier ou une arme dans la main non directrice.

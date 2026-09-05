@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:44
 {s:BDTitre|Bandeau du loup arctique|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 32.000 po ; **Poids** 0,5 kg
 (((Description)))
-Confectionné dans de l’os ou de l’argent blanchi, ce bandeau est orné d’une tête de loup aux babines retroussées qui se positionne sur le front de son porteur. Ce dernier gagne une résistance au froid de 10. Une fois par jour, il peut se transformer en [[loup]] à la fourrure blanche de taille M pendant 11 minutes. De plus, une fois par jour, il peut souffler un cône de 9 mètres de long qui inflige 7d6 points de dégâts de froid ([[Réflexes]] [[DD]] 16 1/2 dégâts). Le porteur peut également utiliser cette arme de souffle sous forme de loup.
+Confectionné dans de l’os ou de l’argent blanchi, ce bandeau est orné d’une tête de loup aux babines retroussées qui se positionne sur le front de son porteur. Ce dernier gagne une résistance au froid de 10. Une fois par jour, il peut se transformer en [[loup]] à la fourrure blanche de taille M pendant 11 minutes. De plus, une fois par jour, il peut souffler un cône de 9 mètres de long qui inflige 7d6 points de dégâts de froid ([[Réflexes]] [[DD]] 16 1/2 dégâts). Le porteur peut également utiliser cette arme de souffle sous forme de loup. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale II]]*, *[[souffle de dragon]]*, *[[résistance aux énergies destructives]]*  ; **Coût** 16.000 po
 </div>

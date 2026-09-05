@@ -54,7 +54,7 @@ Le culte est interdit ou au moins persécuté dans toutes les nations, excepté 
 Il est séparé en quatre parties, chacune vénérant un aspect de la déité. Il n'y a peu de rapports entre chacune de ses parties. Les fidèles portent des masques pour s'identifier et comme symbole de leur dévotion.
 Les ouailles de Norgorber sont majoritairement des voleurs, des assassins et des meurtriers, les alchimistes, les espions et les politiciens restant en minorité.
 
-Ils portent des habits plutôt communs, pour pouvoir passer inaperçus un peu partout.
+Ils portent des habits plutôt communs, pour pouvoir passer inaperçus un peu partout. 
 Les prêtres de Norgorber sont des maîtres de l'imitation. Ils volent l'identité des autres et s'en servent de couverture pour leurs sinistres besognes.
 
 Les cérémonies en l’honneur de Norgorber sont toujours discrètes, même dans les villes où l’on tolère sa religion. En
@@ -118,9 +118,9 @@ Les voleurs Mauvais et Neutres vénèrent le Maître gris tandis que les individ
 L’aspect le plus aimable (si on peut lui attribuer ce mot) de Norgorber est sans doute le Faucheur de réputation, le gardien
 des informations secrètes, un rôle qui fait de lui un favori des politiciens et des espions.
 
-Les secrets et la manipulation forment le pain quotidien de ces gens et même le plus plaisant des politiciens ou le plus
+Les secrets et la manipulation forment le pain quotidien de ces gens et même le plus plaisant des politiciens ou le plus 
 bienveillant des espions se doit de maîtriser leur usage. Évidemment, la plupart des fidèles du Faucheur sont des individus égoïstes qui utilisent leur influence et leurs connaissances dans leur intérêt personnel, mais cela peut parfois aussi profiter à d’autres.
-Par exemple, le maître d’une guilde d’artisans qui manipule les prix du marché pour chasser les concurrents étrangers s’enrichit, mais il enrichit aussi les artisans qu’il représente. Cependant, la majeure partie des adorateurs du Faucheur sont juste des politiciens corrompus et des informateurs oeuvrant auprès de tyrans ou de despotes. Certains fidèles du Faucheur optent pour des méthodes de renseignement plus agressives, en particulier la mystérieuse organisation d’assassins ustalaviens appelée l’Anaphexie qui rassemble des secrets ésotériques et tue tous ceux qui possèdent ces connaissances.
+Par exemple, le maître d’une guilde d’artisans qui manipule les prix du marché pour chasser les concurrents étrangers s’enrichit, mais il enrichit aussi les artisans qu’il représente. Cependant, la majeure partie des adorateurs du Faucheur sont juste des politiciens corrompus et des informateurs oeuvrant auprès de tyrans ou de despotes. Certains fidèles du Faucheur optent pour des méthodes de renseignement plus agressives, en particulier la mystérieuse organisation d’assassins ustalaviens appelée l’Anaphexie qui rassemble des secrets ésotériques et tue tous ceux qui possèdent ces connaissances. 
 
 D’ordinaire, le masque des fidèles du Faucheur de réputation est un loup, simple ou de carnaval, ou présente une spirale qui recouvre la bouche. Les bonnes gens qui s’intéressent à la politique vénèrent de préférence Abadar et Iomédae plutôt que Norgorber, et les espions qui n’ont pas un alignement mauvais optent pour Cayden Cailéan, Iomédae ou Torag.
 

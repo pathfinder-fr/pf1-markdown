@@ -7,7 +7,7 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Les Chariots Passeurs|Current Runners|-|Passer des marchandises en contrebande|-|Aucun|Contrebandiers de rivière|-|Local (Sud du [[Katapesh]])|-}Les Chariots Passeurs est le nom donné à un groupe de contrebandiers indépendants qui opèrent au sud du [[Katapesh]], le long de la frontière avec le [[Nex]].
+{s:Organisation|Les Chariots Passeurs|Current Runners|-|Passer des marchandises en contrebande|-|Aucun|Contrebandiers de rivière|-|Local (Sud du [[Katapesh]])|-}Les Chariots Passeurs est le nom donné à un groupe de contrebandiers indépendants qui opèrent au sud du [[Katapesh]], le long de la frontière avec le [[Nex]]. 
 
 La plupart des caravanes commerciales n'utilisent pas le cours de l'[[Ustradi]] car il passe régulièrement sur le territoire du [[Nex]]. En revanche, les membres des Chariots Passeurs se sont spécialisés dans le fret de marchandises via l'[[Ustradi]]. Ils ne se déplacent que de nuit et, la journée, accostent sur la berge katapéshite du fleuve. Ils camouflent souvent leurs vaisseaux à l'aide de filets fabriqués pour cela.
 

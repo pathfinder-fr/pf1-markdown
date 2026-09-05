@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pc ; **Poids** —
+{s:AE}**Prix** 1 pc ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce gros morceau de craie blanche permet de marquer facilement le bois, le métal ou la pierre. Le personnage peut écrire avec pendant environ 24 heures avant qu'elle ne soit complètement usée. Il existe également des craies d'autres couleurs, mais elles sont plus rares et potentiellement plus chères.

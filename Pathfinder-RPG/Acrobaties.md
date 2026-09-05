@@ -46,7 +46,7 @@ surfaces accroissent le [[DD]] au-delà de 9.*
 L'<u>[[Acrobaties]]</u> permet à un personnage de faire des tests pour se déplacer dans l’espace contrôlé de ses adversaires sans provoquer d’[[AO|attaques d’opportunité]]. Il doit faire un test au moment où il quitte une case contrôlée par un ennemi, mais seulement une fois par ennemi. Le DD (qui est basé sur le [[DMD|Degré de Manœuvre Défensive]] de chaque adversaire) augmente de +2 pour chaque adversaire après le premier au cours du même round. Le DD augmente de +5 si le personnage tente de traverser l’espace occupé par un adversaire. Dans le cas où le personnage se déplace hors d’une case contrôlée par deux adversaires en même temps, c’est lui qui décide quel test lancer en premier.
 
 Par exemple, un roublard est pris en tenaille par un simple gobelin et un antipaladin terrifiant. Le roublard s’éloigne d’eux, provoquant une attaque d’opportunité de la part de chacun d'eux, mais utilise Acrobaties pour tenter de les éviter. Il doit se déplacer à mi-vitesse en étant menacé par ces adversaires et peut choisir quel test il effectue en premier. S’il rate un test, il provoque une attaque d’opportunité de la part de cet adversaire. S’il réussit, il ne provoque pas d’attaque d’opportunité pour s’être déplacé dans l’espace contrôlé de cet adversaire à ce tour.
----
+<hr />
 **'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
 [[FAQ- Manuel des joueurs (Dons et compétences)#2|→]] Acrobaties : Que se passe-t-il si je rate le test en utilisant cette compétence pour me déplacer dans l’espace occupé par un ennemi ?**'

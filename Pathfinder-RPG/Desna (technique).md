@@ -36,19 +36,19 @@ Danser au hasard sous la lumière des étoiles, en se fiant aux conseils du dest
 : **3.** ***Étoile filante (Ext).*** Le personnage peut lancer l'arme favorite en forme d'étoile de sa divinité avec une grande rapidité et facilité. Trois fois par jour, le personnage peut effectuer une attaque à distance avec une [[Lamétoile (arme)|lamétoile]] par une [[action rapide]]. Pour lancer une lamétoile par une action rapide, le personnage doit l'avoir en main, avoir suffisamment d'actions disponibles pour dégainer l'arme, ou posséder le don [[Arme en main]] ou une capacité similaire.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[druide]]/[[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[druide]]/[[prêtre]]/[[prêtre combattant]]).**  
 • *[[Songe]]* peut être préparé comme un sort de 5e niveau.
 
-**Lancement de sorts ([[rôdeur]]).**
+**Lancement de sorts ([[rôdeur]]).**  
 • *[[Songe]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Lyrakien]] - CB
-• *[[Convocation de monstres II]].* [[Pseudo-dragon]] - CB
-• *[[Convocation de monstres III]].* [[Aigle géant|Monarche astral]] - CB (utilise les statistiques de l'aigle géant)
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Lyrakien]] - CB  
+• *[[Convocation de monstres II]].* [[Pseudo-dragon]] - CB  
+• *[[Convocation de monstres III]].* [[Aigle géant|Monarche astral]] - CB (utilise les statistiques de l'aigle géant)  
 • *[[Convocation de monstres VII]].* [[Jeune dragon dairain|Jeune dragon d'airain]] - CB ([[sous-type extraplanaire|extraplanaire]])
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

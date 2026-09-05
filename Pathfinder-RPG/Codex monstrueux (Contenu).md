@@ -6,122 +6,122 @@ Categories:
 - Src Codex monstrueux
 ---
 
-[Monster Codex](https://paizo.com/products/btpy9926?Pathfinder-Roleplaying-Game-Monster-Codex) a été publié en Novembre 2014 par Paizo inc.
+[Monster Codex](https://paizo.com/products/btpy9926?Pathfinder-Roleplaying-Game-Monster-Codex) a été publié en Novembre 2014 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom de [Codex monstrueux](https://www.black-book-editions.fr/produit.php?id=2658), en Octobre 2015.
 
 <nav class="wiki-toc"></nav>
 
 ### Archétypes
 <div class="article_3col">
-[[Buda (sorcière)]],
-[[Dragon jappeur (barde)]],
-[[Enragé de la meute (barbare)]],
-[[Gardien antique (druide)]],
-[[Grenadier (alchimiste)]],
-[[Maraudeur ailé (alchimiste)]],
-[[Semeur de peur (antipaladin)]],
-[[Trappeur alchimique (alchimiste)]],
+[[Buda (sorcière)]],  
+[[Dragon jappeur (barde)]],  
+[[Enragé de la meute (barbare)]],  
+[[Gardien antique (druide)]],  
+[[Grenadier (alchimiste)]],  
+[[Maraudeur ailé (alchimiste)]],  
+[[Semeur de peur (antipaladin)]],  
+[[Trappeur alchimique (alchimiste)]],  
 [[Troll furieux (druide)]].
 </div>
 
 
 ### Archétypes de créature
 <div class="article_3col">
-[[Archétypes#CREATUREBARBARE|Barbare]],
-[[Archétypes#CREATUREBARDE|Barde]],
-[[Archétypes#CREATUREDRUIDE|Druide]],
-[[Archétypes#CREATUREENSORCELEUR|Ensorceleur]],
-[[Archétypes#CREATUREGUERRIER|Guerrier]],
-[[Archétypes#CREATUREMAGICIEN|Magicien]],
-[[Archétypes#CREATUREMOINE|Moine]],
-[[Archétypes#CREATUREPALADIN|Paladin]],
-[[Archétypes#CREATUREPRETRE|Prêtre]],
-[[Archétypes#CREATURERODEUR|Rôdeur]],
+[[Archétypes#CREATUREBARBARE|Barbare]],  
+[[Archétypes#CREATUREBARDE|Barde]],  
+[[Archétypes#CREATUREDRUIDE|Druide]],  
+[[Archétypes#CREATUREENSORCELEUR|Ensorceleur]],  
+[[Archétypes#CREATUREGUERRIER|Guerrier]],  
+[[Archétypes#CREATUREMAGICIEN|Magicien]],  
+[[Archétypes#CREATUREMOINE|Moine]],  
+[[Archétypes#CREATUREPALADIN|Paladin]],  
+[[Archétypes#CREATUREPRETRE|Prêtre]],  
+[[Archétypes#CREATURERODEUR|Rôdeur]],  
 [[Archétypes#CREATUREROUBLARD|Roublard]].
 </div>
 
 
 ### Dons
-Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.
+Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.  
 <div class="article_3col">
-[[Adaptation aquatique]],
-[[Aspersion venimeuse]],
-[[Attaque de queue]],
-[[Avantage aquatique]],
-[[Balayage circulaire]],
-[[Belliciste]],
-[[Beuglement terrifiant]],
-[[Blessant]],
-[[Brute rageuse]],
-[[Cachette commune]],
-[[Cadavre de compagnie]],
-[[Chair corrompue]],
-[[Charge du chevaucheur de cornes]],
-[[Charge fabuleuse]],
-[[Chevaucheur de cornes]],
-[[Coassement étourdissant]],
-[[Coassement supersonique]],
-[[Coassement supplémentaire]],
-[[Collectionneur]],
-[[Commandant des gobelinoïdes]],
-[[Compagnon vampirique]],
-[[Compression ophidienne]],
-[[Coup déstabilisant (CM)]],
-[[Creuseur de terrier]],
-[[Critique sauvage]],
-[[Dangereuse queue]],
-[[Dents acérées]],
-[[Distraction télépathique]],
-[[Dormeur]],
-[[Dur comme le fer]],
-[[Écrasement dogre|Écrasement d'ogre]],
-[[Esprit déquipe|Esprit d'équipe]],
-[[Éventration à deux]],
-[[Éventration supérieure]],
-[[Flexibilité innée]],
-[[Frappe du fléau des anges]],
-[[Frénésie du sang supérieure]],
-[[Gobeur glouton]],
-[[Guérillero]],
-[[Haine réciproque]],
-[[Inimitié ancestrale]],
-[[Langue puissante]],
-[[Lanterne du sniper]],
-[[Légion balafrée]],
-[[Linceul dombres|Linceul d'ombres]],
-[[Mâchoires claquantes]],
-[[Magie des nains gris]],
-[[Magie draconique]],
-[[Magie innée]],
-[[Marée de sang]],
-[[Menace viscérale]],
-[[Monte de slurk]],
-[[Morsure suprême]],
-[[Motivation pour la marche]],
-[[Nage rapide]],
-[[Né du froid]],
-[[Partenaire de désarmement]],
-[[Pedigree de commandant]],
-[[Rallonge]],
-[[Regard glacé]],
-[[Régénération musculaire]],
-[[Régénération rageuse]],
-[[Repositionnement coordonné]],
-[[Rocher fumant]],
-[[Rocher glacé]],
-[[Rogneur]],
-[[Sac dos|Sac d'os]],
-[[Sac vocal]],
-[[Science du partenaire de désarmement]],
-[[Souffle fétide]],
-[[Stable sur la glace]],
-[[Strangulation (CM)]],
-[[Succession de défis]],
-[[Tenaille mordeuse]],
-[[Tête vestigiale]],
-[[Tolérance à laversion|Tolérance à l'aversion]],
-[[Traqueur nocturne]],
-[[Troll sprinteur]],
+[[Adaptation aquatique]],  
+[[Aspersion venimeuse]],  
+[[Attaque de queue]],  
+[[Avantage aquatique]],  
+[[Balayage circulaire]],  
+[[Belliciste]],  
+[[Beuglement terrifiant]],  
+[[Blessant]],  
+[[Brute rageuse]],  
+[[Cachette commune]],  
+[[Cadavre de compagnie]],  
+[[Chair corrompue]],  
+[[Charge du chevaucheur de cornes]],  
+[[Charge fabuleuse]],  
+[[Chevaucheur de cornes]],  
+[[Coassement étourdissant]],  
+[[Coassement supersonique]],  
+[[Coassement supplémentaire]],  
+[[Collectionneur]],  
+[[Commandant des gobelinoïdes]],  
+[[Compagnon vampirique]],  
+[[Compression ophidienne]],  
+[[Coup déstabilisant (CM)]],  
+[[Creuseur de terrier]],  
+[[Critique sauvage]],  
+[[Dangereuse queue]],  
+[[Dents acérées]],  
+[[Distraction télépathique]],  
+[[Dormeur]],  
+[[Dur comme le fer]],  
+[[Écrasement dogre|Écrasement d'ogre]],  
+[[Esprit déquipe|Esprit d'équipe]],  
+[[Éventration à deux]],  
+[[Éventration supérieure]],  
+[[Flexibilité innée]],  
+[[Frappe du fléau des anges]],  
+[[Frénésie du sang supérieure]],  
+[[Gobeur glouton]],  
+[[Guérillero]],  
+[[Haine réciproque]],  
+[[Inimitié ancestrale]],  
+[[Langue puissante]],  
+[[Lanterne du sniper]],  
+[[Légion balafrée]],  
+[[Linceul dombres|Linceul d'ombres]],  
+[[Mâchoires claquantes]],  
+[[Magie des nains gris]],  
+[[Magie draconique]],  
+[[Magie innée]],  
+[[Marée de sang]],  
+[[Menace viscérale]],  
+[[Monte de slurk]],  
+[[Morsure suprême]],  
+[[Motivation pour la marche]],  
+[[Nage rapide]],  
+[[Né du froid]],  
+[[Partenaire de désarmement]],  
+[[Pedigree de commandant]],  
+[[Rallonge]],  
+[[Regard glacé]],  
+[[Régénération musculaire]],  
+[[Régénération rageuse]],  
+[[Repositionnement coordonné]],  
+[[Rocher fumant]],  
+[[Rocher glacé]],  
+[[Rogneur]],  
+[[Sac dos|Sac d'os]],  
+[[Sac vocal]],  
+[[Science du partenaire de désarmement]],  
+[[Souffle fétide]],  
+[[Stable sur la glace]],  
+[[Strangulation (CM)]],  
+[[Succession de défis]],  
+[[Tenaille mordeuse]],  
+[[Tête vestigiale]],  
+[[Tolérance à laversion|Tolérance à l'aversion]],  
+[[Traqueur nocturne]],  
+[[Troll sprinteur]],  
 [[Vieux comme la poussière]].
 </div>
 
@@ -129,39 +129,39 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 ### Équipement
 #### Animaux, montures et leur équipement
 <div class="article_3col">
-**Montures.**
-[[Animaux, montures et leur équipement#Rat de selle|Rat de selle]].
+**Montures.**  
+[[Animaux, montures et leur équipement#Rat de selle|Rat de selle]].  
 
-**Équipement.**
-[[Animaux, montures et leur équipement#Harnais à corne|Harnais à corne]],
-[[Animaux, montures et leur équipement#Harnais de vol|Harnais de vol]],
+**Équipement.**  
+[[Animaux, montures et leur équipement#Harnais à corne|Harnais à corne]],  
+[[Animaux, montures et leur équipement#Harnais de vol|Harnais de vol]],  
 [[Animaux, montures et leur équipement#Selle de gorthek|Selle de gorthek]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armes====</div>
 <div class="article_3col">
-[[arbalète légère desclavagiste (arme)|Arbalète légère d’esclavagiste]],
-[[arbalète lourde desclavagiste (arme)|Arbalète d’esclavagiste]],
-[[bâton de flind (arme)|Bâton de flind]],
+[[arbalète légère desclavagiste (arme)|Arbalète légère d’esclavagiste]],  
+[[arbalète lourde desclavagiste (arme)|Arbalète d’esclavagiste]],  
+[[bâton de flind (arme)|Bâton de flind]],  
 [[carreaux bolas (arme)|Carreaux bolas]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Outils de compétences====</div>
 <div class="article_3col">
-[[Bille de fronde alchimique (objet)|Bille de fronde alchimique]],
-[[Chistera (objet)|Chistera]],
+[[Bille de fronde alchimique (objet)|Bille de fronde alchimique]],  
+[[Chistera (objet)|Chistera]],  
 [[Griffes de troll barbelées (objet)|Griffes de troll barbelées]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Outils alchimiques====</div>
 <div class="article_3col">
-[[Outils alchimiques#Attire-araignée|Attire-araignée]],
-[[Outils alchimiques#Fusée de signalisation|Fusée de signalisation]],
-[[Outils alchimiques#Graisse tue-lumière|Graisse tue-lumière]],
-[[Outils alchimiques#Jus de ferveur|Jus de ferveur]],
+[[Outils alchimiques#Attire-araignée|Attire-araignée]],  
+[[Outils alchimiques#Fusée de signalisation|Fusée de signalisation]],  
+[[Outils alchimiques#Graisse tue-lumière|Graisse tue-lumière]],  
+[[Outils alchimiques#Jus de ferveur|Jus de ferveur]],  
 [[Outils alchimiques#Pâte de rhinarium|Pâte de rhinarium]].
 </div>
 
@@ -174,242 +174,242 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 
 ### Monstres
 <div class="article_3col">
-**Bourbiérin.**
-[[Bourbgigoteur]],
-[[Bourbiérin balafré]],
-[[Bourbiérin sauvage]],
-[[Brute bourbiérine]],
-[[Champion bourbiérin]],
-[[Chasseur bourbiérin]],
-[[Grandcoasseur bourbiérin]],
-[[Guerrier abyssal bourbiérin]],
-[[Oracle du marais bourbiérin]],
-[[Prêtre-roi bourbiérin]],
-[[Prophète bourbiérin]],
-[[Traqueur bourbiérin]].
+**Bourbiérin.**  
+[[Bourbgigoteur]],  
+[[Bourbiérin balafré]],  
+[[Bourbiérin sauvage]],  
+[[Brute bourbiérine]],  
+[[Champion bourbiérin]],  
+[[Chasseur bourbiérin]],  
+[[Grandcoasseur bourbiérin]],  
+[[Guerrier abyssal bourbiérin]],  
+[[Oracle du marais bourbiérin]],  
+[[Prêtre-roi bourbiérin]],  
+[[Prophète bourbiérin]],  
+[[Traqueur bourbiérin]].  
 
-**Drow.**
-[[Capitaine de la maison drow]],
-[[Champion démoniaque drow]],
-[[Éclaireur drow]],
-[[Empoisonneur drow]],
-[[Garde de la maison drow]],
-[[Maître éclaireur drow]],
-[[Matrone drow]],
-[[Prêtresse drow]],
-[[Vipère abrakarne]].
+**Drow.**  
+[[Capitaine de la maison drow]],  
+[[Champion démoniaque drow]],  
+[[Éclaireur drow]],  
+[[Empoisonneur drow]],  
+[[Garde de la maison drow]],  
+[[Maître éclaireur drow]],  
+[[Matrone drow]],  
+[[Prêtresse drow]],  
+[[Vipère abrakarne]].  
 
-**Duergar.**
-[[Bombardier duergar]], (à relire)
-[[Capitaine duergar]], (à relire)
-[[Enclume duergar]], (à relire)
-[[Esclavagiste duergar]], (à relire)
-[[Grand prêtre duergar]], (à relire)
-[[Lieutenant duergar]], (à relire)
-[[Maître de corvée duergar]], (à relire)
-[[Marteau duergar]], (à relire)
-[[Scarabée crache-noir]], (à relire)
-[[Scarabée juggernaut]], (à relire)
-[[Sergent duergar]], (à relire)
-[[Tireur délite duergar|Tireur d'élite duergar]] (à relire).
+**Duergar.**  
+[[Bombardier duergar]], (à relire)  
+[[Capitaine duergar]], (à relire)  
+[[Enclume duergar]], (à relire)  
+[[Esclavagiste duergar]], (à relire)  
+[[Grand prêtre duergar]], (à relire)  
+[[Lieutenant duergar]], (à relire)  
+[[Maître de corvée duergar]], (à relire)  
+[[Marteau duergar]], (à relire)  
+[[Scarabée crache-noir]], (à relire)  
+[[Scarabée juggernaut]], (à relire)  
+[[Sergent duergar]], (à relire)  
+[[Tireur délite duergar|Tireur d'élite duergar]] (à relire).  
 
-**Géant du feu.**
-[[Bras armé géant du feu]],
-[[Glaive géant du feu]],
-[[Héraut du malheur géant du feu]],
-[[Lame de magma géant du feu]],
-[[Lieutenant géant du feu]],
-[[Reine géant du feu]],
-[[Roi géant du feu]],
-[[Sanglier fumant]].
+**Géant du feu.**  
+[[Bras armé géant du feu]],  
+[[Glaive géant du feu]],  
+[[Héraut du malheur géant du feu]],  
+[[Lame de magma géant du feu]],  
+[[Lieutenant géant du feu]],  
+[[Reine géant du feu]],  
+[[Roi géant du feu]],  
+[[Sanglier fumant]].  
 
-**Géant du froid.**
-[[Chasseur géant du froid]],
-[[Éclaireur d’élite géant du froid]],
-[[Jarl géant du froid]],
-[[Mage de glace géant du froid]],
-[[Maître chien géant du froid]],
-[[Pillard géant du froid]],
-[[Prêtre guerrier géant du froid]],
-[[Svathurim]].
+**Géant du froid.**  
+[[Chasseur géant du froid]],  
+[[Éclaireur d’élite géant du froid]],  
+[[Jarl géant du froid]],  
+[[Mage de glace géant du froid]],  
+[[Maître chien géant du froid]],  
+[[Pillard géant du froid]],  
+[[Prêtre guerrier géant du froid]],  
+[[Svathurim]].  
 
-**Gnoll.**
-[[Buda gnoll]], (à relire)
-[[Chef de meute gnoll]], (à relire)
-[[Cogneur gnoll]], (à relire)
-[[Élue de Lamashtu]], (à relire)
-[[Enragé-né gnoll]], (à relire)
-[[Flind]], (à relire)
-[[Gardien gnoll]], (à relire)
-[[Lieutenant gnoll]], (à relire)
-[[OEil de Lamashtu]], (à relire)
-[[Saccageur gnoll]], (à relire)
-[[Sergent gnoll]]. (à relire)
+**Gnoll.**  
+[[Buda gnoll]], (à relire)   
+[[Chef de meute gnoll]], (à relire)   
+[[Cogneur gnoll]], (à relire)   
+[[Élue de Lamashtu]], (à relire)   
+[[Enragé-né gnoll]], (à relire)   
+[[Flind]], (à relire)   
+[[Gardien gnoll]], (à relire)   
+[[Lieutenant gnoll]], (à relire)   
+[[OEil de Lamashtu]], (à relire)   
+[[Saccageur gnoll]], (à relire)   
+[[Sergent gnoll]]. (à relire)   
 
-**Gobelin.**
-[[Cavalier aguerri]],
-[[Chef gobelin]],
-[[Commando gobelin]],
-[[Gobelin incendiaire]],
-[[Gobelin mutant]],
-[[Gobelin vicieux]],
-[[Parle-crapaud gobelin]],
-[[Pilote de vautour gobelin]],
-[[Pionnier gobelin]],
-[[Seigneur collant gobelin]].
+**Gobelin.**  
+[[Cavalier aguerri]],  
+[[Chef gobelin]],  
+[[Commando gobelin]],  
+[[Gobelin incendiaire]],  
+[[Gobelin mutant]],  
+[[Gobelin vicieux]],  
+[[Parle-crapaud gobelin]],  
+[[Pilote de vautour gobelin]],  
+[[Pionnier gobelin]],  
+[[Seigneur collant gobelin]].  
 
-**Gobelours.**
-[[Dévoreur gobelours]], (à relire)
-[[Fanatique gobelours]],  (à relire)
-[[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]],  (à relire)
-[[Grincedent gobelours]], (à relire)
-[[Mage du sang gobelours]],  (à relire)
-[[Ombre discrète gobelours]],(à relire)
-[[Rôdeur gobelours]], (à relire)
-[[Spectre terrifiant]], (à relire)
-[[Traqueur gobelours]], (à relire)
-[[Tyran gobelours]]  (à relire).
+**Gobelours.**  
+[[Dévoreur gobelours]], (à relire)  
+[[Fanatique gobelours]],  (à relire)  
+[[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]],  (à relire)  
+[[Grincedent gobelours]], (à relire)  
+[[Mage du sang gobelours]],  (à relire)  
+[[Ombre discrète gobelours]],(à relire)   
+[[Rôdeur gobelours]], (à relire)   
+[[Spectre terrifiant]], (à relire)  
+[[Traqueur gobelours]], (à relire)  
+[[Tyran gobelours]]  (à relire).  
 
-**Goule.**
-[[Antique fossoyeur]], (à relire)
-[[Assassin masqué]], (à relire)
-[[Chauve-souris aile de suie]], (à relire)
-[[Commandant goule]], (à relire)
-[[Goule sournoise]], (à relire)
-[[Goule traqueuse]], (à relire)
-[[Grand-veneur goule]], (à relire)
-[[Molosse goule]], (à relire)
-[[Monarque goule]] (à relire).
+**Goule.**  
+[[Antique fossoyeur]], (à relire)  
+[[Assassin masqué]], (à relire)  
+[[Chauve-souris aile de suie]], (à relire)  
+[[Commandant goule]], (à relire)  
+[[Goule sournoise]], (à relire)  
+[[Goule traqueuse]], (à relire)  
+[[Grand-veneur goule]], (à relire)  
+[[Molosse goule]], (à relire)  
+[[Monarque goule]] (à relire).  
 
-**Hobgobelin.**
-[[Bombardier hobgobelin]], (à relire)
-[[Commandant hobgobelin]], (à relire)
-[[Lieutenant hobgobelin]], (à relire)
-[[Parangon hobgobelin]], (à relire)
-[[Précurseur hobgobelin]], (à relire)
-[[Prêtre guerrier hobgobelin]], (à relire)
-[[Sergent hobgobelin]], (à relire)
-[[Yzobu]], (à relire)
-[[Zélote des batailles hobgobelin]] (à relire).
+**Hobgobelin.**  
+[[Bombardier hobgobelin]], (à relire)  
+[[Commandant hobgobelin]], (à relire)  
+[[Lieutenant hobgobelin]], (à relire)  
+[[Parangon hobgobelin]], (à relire)  
+[[Précurseur hobgobelin]], (à relire)  
+[[Prêtre guerrier hobgobelin]], (à relire)  
+[[Sergent hobgobelin]], (à relire)  
+[[Yzobu]], (à relire)  
+[[Zélote des batailles hobgobelin]] (à relire).  
 
-**Homme-lézard.**
-[[Avant-garde homme-lézard]],
-[[Berserker homme-lézard]],
-[[Champion homme-lézard]],
-[[Ensorceleur homme-lézard]],
-[[Héritier homme-lézard]],
-[[Jacasseur homme-lézard]],
-[[Mère de la couvée homme-lézard]],
-[[Rôdeur du marais homme-lézard]],
-[[Traqueur homme-lézard]].
+**Homme-lézard.**  
+[[Avant-garde homme-lézard]],  
+[[Berserker homme-lézard]],  
+[[Champion homme-lézard]],  
+[[Ensorceleur homme-lézard]],  
+[[Héritier homme-lézard]],  
+[[Jacasseur homme-lézard]],  
+[[Mère de la couvée homme-lézard]],  
+[[Rôdeur du marais homme-lézard]],  
+[[Traqueur homme-lézard]].  
 
-**Homme-rat.**
-[[Ancien homme-rat]],
-[[Chef d’expédition homme-rat]],
-[[Chimiste homme-rat]],
-[[Démineur homme-rat]],
-[[Gardien de caravane homme-rat]],
-[[Gardien homme-rat]],
-[[Homme-rat téméraire]],
-[[Kirrix]],
-[[Rétameur homme-rat]],
-[[Sage homme-rat]].
+**Homme-rat.**  
+[[Ancien homme-rat]],  
+[[Chef d’expédition homme-rat]],  
+[[Chimiste homme-rat]],  
+[[Démineur homme-rat]],  
+[[Gardien de caravane homme-rat]],  
+[[Gardien homme-rat]],  
+[[Homme-rat téméraire]],  
+[[Kirrix]],  
+[[Rétameur homme-rat]],  
+[[Sage homme-rat]].  
 
-**Homme-serpent.**
-[[Chasseur homme-serpent]],
-[[Espion homme-serpent]],
-[[Grand prêtre homme-serpent]],
-[[Illusionniste homme-serpent]],
-[[Lamesort homme-serpent]],
-[[Prophète des os homme-serpent]],
-[[Séru]].
+**Homme-serpent.**  
+[[Chasseur homme-serpent]],  
+[[Espion homme-serpent]],  
+[[Grand prêtre homme-serpent]],  
+[[Illusionniste homme-serpent]],  
+[[Lamesort homme-serpent]],  
+[[Prophète des os homme-serpent]],  
+[[Séru]].  
 
-**Kobold.**
-[[Aboyeur kobold]], (à relire)
-[[Bombardier kobold]], (à relire)
-[[Chef kobold]], (à relire)
-[[Escrimeur kobold]], (à relire)
-[[Kyrane]], (à relire)
-[[Mage des écailles kobold]], (à relire)
-[[Mage rusé kobold]], (à relire)
-[[Maître de guerre kobold]], (à relire)
-[[Maître trappeur kobold]], (à relire)
-[[Palefrenier des monstres kobold]], (à relire)
-[[Parle-diable kobold]], (à relire)
-[[monstre Sniper kobold|Sniper kobold]] (à relire).
+**Kobold.**  
+[[Aboyeur kobold]], (à relire)  
+[[Bombardier kobold]], (à relire)  
+[[Chef kobold]], (à relire)  
+[[Escrimeur kobold]], (à relire)  
+[[Kyrane]], (à relire)  
+[[Mage des écailles kobold]], (à relire)  
+[[Mage rusé kobold]], (à relire)  
+[[Maître de guerre kobold]], (à relire)  
+[[Maître trappeur kobold]], (à relire)  
+[[Palefrenier des monstres kobold]], (à relire)  
+[[Parle-diable kobold]], (à relire)  
+[[monstre Sniper kobold|Sniper kobold]] (à relire).  
 
-**Ogre.**
-[[Boss ogre]],
-[[Brute ogre]],
-[[Chasseur d’hommes ogre]],
-[[Chasseur ogre]],
-[[Destructeur ogre]],
-[[Glouton ogre]],
-[[Pillard trogre]],
-[[Prêtre ogre]],
-[[Roi ogre]],
-[[Traqueur ogre]],
-[[Trogre]].
+**Ogre.**  
+[[Boss ogre]],  
+[[Brute ogre]],  
+[[Chasseur d’hommes ogre]],  
+[[Chasseur ogre]],  
+[[Destructeur ogre]],  
+[[Glouton ogre]],  
+[[Pillard trogre]],  
+[[Prêtre ogre]],  
+[[Roi ogre]],  
+[[Traqueur ogre]],  
+[[Trogre]].  
 
-**Orque.**
-[[Brigand orque]], (à relire)
-[[Chevaucheur de gorthek]], (à relire)
-[[Éclaireur orque]], (à relire)
-[[Gorthek]],
-[[Lieutenant orque]], (à relire)
-[[Mystique orque]], (à relire)
-[[Seigneur de guerre orque (barbare)]], (à relire)
-[[Seigneur de guerre orque (guerrier)]], (à relire)
-[[Sergent orque]], (à relire)
-[[Sorcier docteur orque]], (à relire)
-[[Tambour de guerre orque]]. (à relire)
+**Orque.**  
+[[Brigand orque]], (à relire)  
+[[Chevaucheur de gorthek]], (à relire)  
+[[Éclaireur orque]], (à relire)  
+[[Gorthek]],  
+[[Lieutenant orque]], (à relire)  
+[[Mystique orque]], (à relire)  
+[[Seigneur de guerre orque (barbare)]], (à relire)  
+[[Seigneur de guerre orque (guerrier)]], (à relire)  
+[[Sergent orque]], (à relire)  
+[[Sorcier docteur orque]], (à relire)  
+[[Tambour de guerre orque]]. (à relire)  
 
-**Sahuagin.**
-[[Baron sahuagin]],
-[[Brute sahuagin]],
-[[Champion sahuagin]],
-[[Coureur des profondeurs sahuagin]],
-[[Dévoreur des profondeurs]],
-[[Éclaireur sahuagin]],
-[[Espion sahuagin]],
-[[Grande prêtresse sahuagin]],
-[[Lieutenant sahuagin]],
-[[Prêtresse des profondeurs sahuagin]],
-[[Prince sahuagin]],
-[[Sentinelle des requins sahuagin]].
+**Sahuagin.**  
+[[Baron sahuagin]],  
+[[Brute sahuagin]],  
+[[Champion sahuagin]],  
+[[Coureur des profondeurs sahuagin]],  
+[[Dévoreur des profondeurs]],  
+[[Éclaireur sahuagin]],  
+[[Espion sahuagin]],  
+[[Grande prêtresse sahuagin]],  
+[[Lieutenant sahuagin]],  
+[[Prêtresse des profondeurs sahuagin]],  
+[[Prince sahuagin]],  
+[[Sentinelle des requins sahuagin]].  
 
-**Troglodyte.**
-[[Cavalier des écailles troglodyte]], (à relire)
-[[Champion troglodyte]], (à relire)
-[[Chef de clan troglodyte]], (à relire)
-[[Ensorceleur troglodyte]], (à relire)
-[[Garde du terrier troglodyte]], (à relire)
-[[Parle-bête troglodyte]], (à relire)
-[[Prêtre troglodyte]], (à relire)
-[[Rôdeur troglodyte]], (à relire)
-[[Slaugrak]], (à relire)
-[[Tyran troglodyte]]  (à relire).
+**Troglodyte.**  
+[[Cavalier des écailles troglodyte]], (à relire)  
+[[Champion troglodyte]], (à relire)  
+[[Chef de clan troglodyte]], (à relire)  
+[[Ensorceleur troglodyte]], (à relire)  
+[[Garde du terrier troglodyte]], (à relire)  
+[[Parle-bête troglodyte]], (à relire)  
+[[Prêtre troglodyte]], (à relire)  
+[[Rôdeur troglodyte]], (à relire)  
+[[Slaugrak]], (à relire)  
+[[Tyran troglodyte]]  (à relire).  
 
-**Troll.**
-[[Acolyte troll]], (à relire)
-[[Berserker troll]], (à relire)
-[[Brute troll]], (à relire)
-[[Étripeur troll]], (à relire)
-[[Éventreur troll]], (à relire)
-[[Gardien troll]], (à relire)
-[[Matrone âgée troll]], (à relire)
-[[Monarque troll]], (à relire)
-[[Troll des égouts]], (à relire)
-[[Troll furieux]] (à relire).
+**Troll.**  
+[[Acolyte troll]], (à relire)  
+[[Berserker troll]], (à relire)  
+[[Brute troll]], (à relire)  
+[[Étripeur troll]], (à relire)  
+[[Éventreur troll]], (à relire)  
+[[Gardien troll]], (à relire)  
+[[Matrone âgée troll]], (à relire)  
+[[Monarque troll]], (à relire)  
+[[Troll des égouts]], (à relire)  
+[[Troll furieux]] (à relire).  
 
-**Vampire.**
-[[Étrange majordome (servant)]],
-[[Garde du cercueil (servant)]],
-[[Guerrier vampire]],
-[[Séducteur vampire]],
-[[Seigneur vampire]],
-[[Vampire illuminé]],
-[[Vampire sauvage]],
+**Vampire.**  
+[[Étrange majordome (servant)]],  
+[[Garde du cercueil (servant)]],  
+[[Guerrier vampire]],  
+[[Séducteur vampire]],  
+[[Seigneur vampire]],  
+[[Vampire illuminé]],  
+[[Vampire sauvage]],  
 [[Vampirien]].
 </div>
 
@@ -424,10 +424,10 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 <div style="border-top:1px dashed #4b3124">
 ====Armes====</div>
 <div class="article_3col">
-[[Fléau de serpent]],
-[[Flèche ophidienne]],
-[[Gantelets déventration|Gantelets d'éventration]],
-[[Grande hache des habitants des grottes]],
+[[Fléau de serpent]],  
+[[Flèche ophidienne]],  
+[[Gantelets déventration|Gantelets d'éventration]],  
+[[Grande hache des habitants des grottes]],  
 [[Hache gèlesang]].
 </div>
 
@@ -440,54 +440,54 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Bannière de la horde déferlante]],
-[[Baume de sueur empoisonnée]],
-[[Carreau du spéléologue]],
-[[Chaudron dembuscade|Chaudron d’embuscade]],
-[[Dent runique de loup arctique]],
-[[Élixir doppression|Élixir d'oppression]],
-[[Masques gortheks]],
-[[Ossépines]],
-[[Poussière dhorreur|Poussière d’horreur]],
-[[Tambour de guerre de la sauvagerie]],
-[[Tresse de pugwampi]].
+**Aucun (Sans emplacement).**  
+[[Bannière de la horde déferlante]],  
+[[Baume de sueur empoisonnée]],  
+[[Carreau du spéléologue]],  
+[[Chaudron dembuscade|Chaudron d’embuscade]],  
+[[Dent runique de loup arctique]],  
+[[Élixir doppression|Élixir d'oppression]],  
+[[Masques gortheks]],  
+[[Ossépines]],  
+[[Poussière dhorreur|Poussière d’horreur]],  
+[[Tambour de guerre de la sauvagerie]],  
+[[Tresse de pugwampi]].  
 
-**Cou.**
-[[Amulette de jet de puanteur]],
-[[Étrangleur ophidien]].
+**Cou.**  
+[[Amulette de jet de puanteur]],  
+[[Étrangleur ophidien]].  
 
-**Épaules.**
-[[Cape du roi troll]].
+**Épaules.**  
+[[Cape du roi troll]].  
 
-**Front.**
-[[Bandeau de contrôle de la vermine]].
+**Front.**  
+[[Bandeau de contrôle de la vermine]].  
 
-**Mains.**
-[[Gants dextraction|Gants d’extraction]],
-[[Gantelets de poigne de fer]].
+**Mains.**  
+[[Gants dextraction|Gants d’extraction]],  
+[[Gantelets de poigne de fer]].  
 
-**Pieds.**
-[[Bottes de collision]].
+**Pieds.**  
+[[Bottes de collision]].  
 
-**Tête.**
-[[Anneau de nez du chasseur]],
-[[Chapeau dénergie négative|Chapeau d’énergie négative]],
-[[Cheich de hyène]].
+**Tête.**  
+[[Anneau de nez du chasseur]],  
+[[Chapeau dénergie négative|Chapeau d’énergie négative]],  
+[[Cheich de hyène]].  
 
-**Yeux.**
+**Yeux.**  
 [[Lunettes perce-brume]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Propriétés spéciales====</div>
 <div class="article_3col">
-**Armes.**
-[[catalytique (propriété)|Catalytique]],
-[[enflammée (propriété)|Enflammée]],
-[[virulente (propriété)|Virulente]].
+**Armes.**  
+[[catalytique (propriété)|Catalytique]],  
+[[enflammée (propriété)|Enflammée]],  
+[[virulente (propriété)|Virulente]].  
 
-**Armures.**
+**Armures.**  
 [[fumante (propriété)|Fumante]].
 </div>
 
@@ -495,7 +495,7 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 ### Options de classe
 #### Découvertes d'alchimiste
 <div class="article_3col">
-[[Découvertes#BOMBEDELETOILENOIRE|Bombe de l’étoile noire]],
+[[Découvertes#BOMBEDELETOILENOIRE|Bombe de l’étoile noire]],  
 [[Découvertes#BOMBEDUNEANT|Bombe du néant]].
 </div>
 
@@ -514,7 +514,7 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 <div style="border-top:1px dashed #4b3124">
 ====Malédictions d'oracle====</div>
 <div class="article_3col">
-[[Malédictions doracle#INFESTE|Infesté]],
+[[Malédictions doracle#INFESTE|Infesté]],  
 [[Malédictions doracle#SANGFROID|Sang froid]].
 </div>
 
@@ -527,45 +527,45 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 
 ### Sorts
 <div class="article_3col">
-[[Anneau scindé]],
-[[Apparence charnue]],
-[[Aura de cannibalisme]],
-[[Contrôle de la vermine]],
-[[Copain de boue]],
-[[Corps caoutchouteux]],
-[[Don des profondeurs]],
-[[Eau rouge]],
-[[Écailles épineuses]],
-[[Écailles épineuses supérieures]],
-[[Épreuve de lacide et du feu|Épreuve de l'acide et du feu]],
-[[Isoler]],
-[[Marque du dieu reptile]],
-[[Nappe de glace]],
-[[Nuée de crocs]],
-[[Peau en fer]],
-[[Puanteur amplifiée]],
-[[Respiration dair|Respiration d'air]],
-[[Rocher magique]],
-[[Sceau de poussière]],
-[[Terre affamée]],
-[[Toucher endothermique]],
-[[Transfert de régénération]],
+[[Anneau scindé]],  
+[[Apparence charnue]],  
+[[Aura de cannibalisme]],  
+[[Contrôle de la vermine]],  
+[[Copain de boue]],  
+[[Corps caoutchouteux]],  
+[[Don des profondeurs]],  
+[[Eau rouge]],  
+[[Écailles épineuses]],  
+[[Écailles épineuses supérieures]],  
+[[Épreuve de lacide et du feu|Épreuve de l'acide et du feu]],  
+[[Isoler]],  
+[[Marque du dieu reptile]],  
+[[Nappe de glace]],  
+[[Nuée de crocs]],  
+[[Peau en fer]],  
+[[Puanteur amplifiée]],  
+[[Respiration dair|Respiration d'air]],  
+[[Rocher magique]],  
+[[Sceau de poussière]],  
+[[Terre affamée]],  
+[[Toucher endothermique]],  
+[[Transfert de régénération]],  
 [[Vol de sort]].
 </div>
 
 
 ### Traits raciaux alternatifs
 <div class="article_3col">
-**[[Duergar (race)#Traits_raciaux_alternatifs_8|Duergars]].**
-À peau de fer,
-Touché par le crépuscule.
+**[[Duergar (race)#Traits_raciaux_alternatifs_8|Duergars]].**  
+À peau de fer,  
+Touché par le crépuscule.  
 
-**[[Gobelin (race)#Traits_raciaux_alternatifs_8|Gobelins]].**
-Gobelin surdimensionné.
+**[[Gobelin (race)#Traits_raciaux_alternatifs_8|Gobelins]].**  
+Gobelin surdimensionné.  
 
-**[[Homme-rat (race)#Traits_raciaux_alternatifs_8|Hommes-rats]].**
-Bajoues,
-Propreté,
-Rat de laboratoire,
+**[[Homme-rat (race)#Traits_raciaux_alternatifs_8|Hommes-rats]].**  
+Bajoues,  
+Propreté,  
+Rat de laboratoire,  
 Sprinter de surface.
 </div>

@@ -22,7 +22,7 @@ Categories:
 
 (((Dastardly Trick (Combat, Panache)
 
-Your confident attacks leave your foes wavering and unable to regain their composure.
+Your confident attacks leave your foes wavering and unable to regain their composure. 
 
 Prerequisites: Int 13; Amateur Swashbuckler or panache class feature; Combat Expertise; Improved Dirty Trick.
 

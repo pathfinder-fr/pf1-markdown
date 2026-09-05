@@ -36,36 +36,36 @@ Se livrer à une activité sexuelle avec une autre personne en échange d'argent
 : **3.** ***Piqûre de guêpe (Ext).*** Pendant un nombre de rounds par jour égal à son modificateur de [[Charisme]], le personnage peut ignorer les [[AO|attaques d'opportunité]] qu'il devrait provoquer à cause d'un déplacement. L'utilisation de cette capacité est une [[action libre]], et les rounds au cours desquels elle est active n'ont pas besoin d'être consécutifs. Le personnage provoque des attaques d'opportunité normalement par le biais des actions autres que le déplacement.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[antipaladin]]).**
-• *[Pillow talk](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pillow%20Talk)* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[antipaladin]]).**  
+• *[Pillow talk](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pillow%20Talk)* peut être préparé comme un sort de 3e niveau.  
 • *[Reveal secrets](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20Secrets)* peut être préparé comme un sort de 1er niveau.
 
-**Lancement de sorts ([[barde]]).**
+**Lancement de sorts ([[barde]]).**  
 • *[Betraying sting](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Betraying%20Sting)* peut être préparé comme un sort de 6e niveau.
 
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Rage]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Rage]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Suggestion]]* peut être préparé comme un sort de 4e niveau (ceux qui possèdent le [[domaine du Charme]] y ont accès plus tôt).
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Rage]]* peut être préparé comme un sort de 3e niveau.
-• *[[Suggestion]]* peut être préparé comme un sort de 4e niveau (ceux qui possèdent le [[domaine du Charme]] y ont accès plus tôt).
-• *[Harvest knowledge](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harvest%20Knowledge)* peut être préparé comme un sort de 4e niveau.
-• *[Incessant buzzing](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incessant%20Buzzing)* peut être préparé comme un sort de 1er niveau.
-• *[Painful revelation](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Painful%20Revelation)* peut être préparé comme un sort de 2e niveau.
-• *[Pillow talk](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pillow%20Talk)* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Rage]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Suggestion]]* peut être préparé comme un sort de 4e niveau (ceux qui possèdent le [[domaine du Charme]] y ont accès plus tôt).  
+• *[Harvest knowledge](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harvest%20Knowledge)* peut être préparé comme un sort de 4e niveau.  
+• *[Incessant buzzing](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incessant%20Buzzing)* peut être préparé comme un sort de 1er niveau.  
+• *[Painful revelation](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Painful%20Revelation)* peut être préparé comme un sort de 2e niveau.  
+• *[Pillow talk](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pillow%20Talk)* peut être préparé comme un sort de 3e niveau.  
 • *[Reveal secrets](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20Secrets)* peut être préparé comme un sort de 1er niveau.
 
-**Lancement de sorts ([[rôdeur]]).**
+**Lancement de sorts ([[rôdeur]]).**  
 • *[Harvest knowledge](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Harvest%20Knowledge)* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[sorcière]]).**
+**Lancement de sorts ([[sorcière]]).**  
 • *[Painful revelation](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Painful%20Revelation)* peut être préparé comme un sort de 2e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres I]].* [[Abeille géante]] - N
-• *[[Convocation de monstres II]].* [[Tieffelin|Tieffelin roublard 1]] - CN
-• *[[Convocation de monstres V]].* [[Dévoreur daraignées|Dévoreur d'araignées]] - N
+**Convocations étendues.**  
+• *[[Convocation de monstres I]].* [[Abeille géante]] - N  
+• *[[Convocation de monstres II]].* [[Tieffelin|Tieffelin roublard 1]] - CN  
+• *[[Convocation de monstres V]].* [[Dévoreur daraignées|Dévoreur d'araignées]] - N  
 • *[[Convocation de monstres VIII]].* [[Essaim de guêpes de lEnfer|Essaim de guêpes de l'Enfer]] - CM
 
 #### Code de conduite de l'antipaladin

@@ -15,11 +15,11 @@ Categories:
 
 **Conditions.** [[Dex]] 13, [[Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8.
 
-**Avantage.** Coup bouleversant force un adversaire blessé par l’attaque à mains nues du personnage à faire un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 niveau du personnage + modificateur de [[Sagesse]] du personnage) en plus de subir les dégâts normaux. Le personnage doit déclarer l’utilisation de ce don avant de faire son [[jet dattaque|jet d’attaque]] : ainsi, sa tentative est perdue sur un jet d’attaque raté.
+**Avantage.** Coup bouleversant force un adversaire blessé par l’attaque à mains nues du personnage à faire un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 niveau du personnage + modificateur de [[Sagesse]] du personnage) en plus de subir les dégâts normaux. Le personnage doit déclarer l’utilisation de ce don avant de faire son [[jet dattaque|jet d’attaque]] : ainsi, sa tentative est perdue sur un jet d’attaque raté. 
 
-Si la victime rate ce jet de sauvegarde, elle est [[confus|confuse]] pendant 1d4 rounds.
+Si la victime rate ce jet de sauvegarde, elle est [[confus|confuse]] pendant 1d4 rounds. 
 
-Le personnage peut utiliser Coup bouleversant une fois par jour par tranche de 4 niveaux de personnage qu’il possède mais ne peut pas l’utiliser plus d’une fois par round.
+Le personnage peut utiliser Coup bouleversant une fois par jour par tranche de 4 niveaux de personnage qu’il possède mais ne peut pas l’utiliser plus d’une fois par round. 
 
 Les créatures artificielles, les créatures intangibles, les créatures dépourvues d’intelligence, les plantes, les morts-vivants et les créatures immunisées contre les [[coup critique|coups critiques]] ne peuvent pas être affectés par ce pouvoir.
 

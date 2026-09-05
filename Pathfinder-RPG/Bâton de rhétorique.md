@@ -8,11 +8,11 @@ LastModified: 2024-05-27 16:31
 {s:AE}{s:BDTitre|Bâton de rhétorique|}
 **Aura** [[Enchantement]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 57 200 po ; **Poids** 2,5 kg
 (((Description)))
-Lorsque le porteur de ce bâton en bois creux parle ou crie, le bâton réverbère le son de sa voix, qui retentit avec insistance. Il permet d’utiliser les sorts suivants.
-• *[[suggestion]]* (1 charge)
-• *[[don des langues]]* (1 charge)
-• *[[dénonciation]]* (2 charges)
-• *[[bagou]]* (2 charges)
+Lorsque le porteur de ce bâton en bois creux parle ou crie, le bâton réverbère le son de sa voix, qui retentit avec insistance. Il permet d’utiliser les sorts suivants.  
+• *[[suggestion]]* (1 charge)  
+• *[[don des langues]]* (1 charge)  
+• *[[dénonciation]]* (2 charges)  
+• *[[bagou]]* (2 charges)  
 • *[[suggestion de groupe]]* (4 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[suggestion]]*, *[[don des langues]]*, *[[dénonciation]]*, *[[bagou]]*, *[[suggestion de groupe]]* ; **Coût** 28 600 po

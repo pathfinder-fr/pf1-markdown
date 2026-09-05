@@ -5,9 +5,9 @@ LastModified: 2015-12-03 00:07
 ---
 
 <table class="Bestiaire"><tr><td>
-<div class="BD">
-{s:BDTitre|Sirène (Sirène antique)|FP 5}
-{s:pucem|Créature magique|Collines|Tempéré}
+<div class="BD">    
+{s:BDTitre|Sirène (Sirène antique)|FP 5}      
+{s:pucem|Créature magique|Collines|Tempéré}   
 - *Source : Bestiaire 2* p.251                
 - **PX** 1 600
 - [[Type Créature magique|Créature magique]] de taille M, CN

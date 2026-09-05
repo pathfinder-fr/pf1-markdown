@@ -12,10 +12,10 @@ Categories:
 {s:BDTitre|Vestige de Norgir|{s:CSU|3}}
 **Aura** [[Évocation]] puissante ; **NLS** 15 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 91 712 po ; **Poids** 2,5 kg
 (((Caractéristiques)))
-**Alignement** CM ; **Sens** 18 m, vision dans le noir 18 m
-**Intelligence** 12 ; **Sagesse** 5 (14 à l'origine) ; **Charisme** 16 ; **Ego** 13 (17 si la Sagesse est restaurée)
-**Langues** parole (nain, commun des profondeurs)
-**Pouvoirs** [[Connaissances]] (exploration souterraine) +14 (10 rangs), *[[dissipation de la magie]]* 1/jour, *[[négation de linvisibilité|négation de l’invisibilité]]* 1/jour
+**Alignement** CM ; **Sens** 18 m, vision dans le noir 18 m  
+**Intelligence** 12 ; **Sagesse** 5 (14 à l'origine) ; **Charisme** 16 ; **Ego** 13 (17 si la Sagesse est restaurée)  
+**Langues** parole (nain, commun des profondeurs)  
+**Pouvoirs** [[Connaissances]] (exploration souterraine) +14 (10 rangs), *[[dissipation de la magie]]* 1/jour, *[[négation de linvisibilité|négation de l’invisibilité]]* 1/jour  
 **Dessein** vaincre/tuer des [[Nain|nains]] (le *vestige du nain vengeur* peut détecter la présence de nains sur une distance de 18 mètres et peut lancer *[[tremblement de terre]]* une fois par jour dans une zone contenant des édifices construits par des nains)
 (((Description)))
 Le *vestige du nain vengeur* est un *[[marteau de guerre (arme)|marteau de guerre]] [[tueuse (propriété)|tueur]] de nains +2* intelligent. Il a passé plusieurs générations en possession des ennemis qu’il était censé détruire à l’origine. Tout au long de cette période, l’arme a peu à peu sombré dans la folie et souhaite désormais tuer des [[Nain|nains]] non-[[Duergar (race)|duergars]] pour satisfaire les exigences de la lignée des dirigeants du complexe de cavernes à l'ouest du Berceau de la liberté. Il est possible de soigner la folie du vestige et de rétablir son dessein d’origine en partant à la recherche d’un descendant vivant du héros ayant forgé ce marteau. Une fois ceci fait, le marteau retrouvera son dessein originel (s'opposer aux duergars), son alignement Loyal Bon et sa [[Sagesse]] de 14.

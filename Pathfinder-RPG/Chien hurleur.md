@@ -35,7 +35,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (6-11)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [[type Extérieur|Extérieurs]] mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 12 pour ne pas être [[paniqué|paniquées]] pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur. Quel que soit le résultat du [[jet de sauvegarde]], les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [[type Extérieur|Extérieurs]] mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 12 pour ne pas être [[paniqué|paniquées]] pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur. Quel que soit le résultat du [[jet de sauvegarde]], les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [[DD]] dépend du [[Charisme]].} 
 {s:BDTexte|**Morsure sinistre (Sur)** Les morsures des chiens hurleurs ignorent les [[RD|réductions de dégâts]] comme s'il s'agissait d'armes d'alignement Mauvais. De plus, les créatures d'alignement Bon mordues par un chien hurleur doivent réussir un jet de [[Volonté]] de [[DD]] 14 pour ne pas êtres [[secoué|secouées]] pendant 1 round. Si la victime mordue est déjà affectée par un effet de terreur (les conséquences de l'aboiement du chien hurleur par exemple), elle n'est pas seulement [[secoué|secouée]] mais totalement terrassée par la peur, incapable de faire quoi que ce soit si ce n'est se recroqueviller sur elle-même pendant 1 round. Il s'agit d'un effet mental de terreur. Le [[DD]] dépend de la [[Constitution]].}
 {s:BDTexte|**Vol (Sur)** Les chiens hurleurs peuvent activer ou désactiver leur capacité de vol par une [[action libre]].}
 </div>
@@ -54,14 +54,14 @@ de ces bibelots. L’excitation de la chasse et le goût agréable de la peur
 qui oppresse leurs proies sont leurs seuls centres d’intérêts. Quand
 on trouve des objets de valeurs dans leurs repaires, il s’agit des restes
 abandonnés des proies qu’ils ont ramenées chez eux. Malgré leur
-apparence bestiale, les chiens hurleurs sont plutôt intelligents.
+apparence bestiale, les chiens hurleurs sont plutôt intelligents. 
 
 Ils ne
 tirent toutefois guère parti de leur intellect, si ce n’est pour imaginer et
 mettre en pratique des plans ingénieux visant à soumettre leurs proies
 à des tourments et des horreurs abominables avant de les attaquer.
 Les chiens hurleurs s’allient souvent avec des guenaudes
-noires ou d’autres types de prédateurs maléfiques.
+noires ou d’autres types de prédateurs maléfiques. 
 
 Ils haïssent les
 monstres canins tels que les barghests et les worgs et, si ces
@@ -69,7 +69,7 @@ derniers sont moins nombreux qu’eux, ils les attaquent
 à vue. Ils s’associent souvent avec des démons
 particulièrement sauvages et servent parfois
 de gardes et de pisteurs aux membres de
-cultes démoniaques.
+cultes démoniaques. 
 
 Seuls les cultes
 particulièrement prospères et qui ont
@@ -88,7 +88,7 @@ situés dans des contrées sauvages
 éloignées de la civilisation. Leurs
 repaires se trouvent toujours sous
 terre, loin de la lumière du soleil qu’ils
-détestent.
+détestent. 
 
 Ces chiens peuvent parcourir de
 grandes distances au cours de leurs chasses

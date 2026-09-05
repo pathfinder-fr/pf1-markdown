@@ -10,11 +10,11 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 6
-**Temps d'incantation** 1 action simple
-**Composantes** [[composantes|V, G, M]] (du vélin sur lequel est inscrit le nom de l’extérieur bon)
-**Portée** personnelle
-**Cible** le personnage
+{s:MMI}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 6  
+**Temps d'incantation** 1 action simple  
+**Composantes** [[composantes|V, G, M]] (du vélin sur lequel est inscrit le nom de l’extérieur bon)  
+**Portée** personnelle  
+**Cible** le personnage  
 **Durée** 1 heure/niveau (voir description)
 
 *Alors que les plus courageux des hommes et des femmes du monde répondaient à l’appel de ce qui allait devenir la deuxième croisade contre les démons et mettaient en place les pierres de garde qui allaient finalement maintenir à distance le violent Chaos de la Faille démoniaque, ils ont pris conscience qu’ils auraient besoin d’une magie moins traditionnelle pour soutenir leurs efforts.*

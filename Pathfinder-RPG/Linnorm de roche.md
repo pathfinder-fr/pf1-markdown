@@ -50,7 +50,7 @@ montagnes volcaniques, dans des cavernes naturelles ou
 dans les cratères eux-mêmes, et sèment la destruction
 dans les villages montagneux alentours lorsque l’envie les
 en prend. Les linnorms de roche sont des brutes mais ils
-sont relativement intelligents pour des linnorms.
+sont relativement intelligents pour des linnorms. 
 
 À cette
 intelligence se greffe une immense vanité : contrairement

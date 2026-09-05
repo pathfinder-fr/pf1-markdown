@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette bouteille à potion en fer a une [[solidité]] de 5 et 3 points de vie. Le [[DD]] pour la briser est de 14.

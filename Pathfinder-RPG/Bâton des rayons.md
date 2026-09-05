@@ -13,11 +13,11 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des rayons|}
 **Aura** [[Évocation]] et [[Nécromancie]] modérées ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 57 200 po ; **Poids** 2,5 kg
 (((Description)))
-La tête de ce bâton de bois blanc est ornée de volutes élaborées et de délicates mouchetures en métal luisant, ce qui le fait ressembler à une masse. Il permet de lancer les sorts suivants :
-• *[[désintégration]]* (3 charges)
-• *[[énergie négative]]* (2 charges)
-• *[[rayon affaiblissant]]* (1 charge)
-• *[[rayon ardent]]* (1 charge)
+La tête de ce bâton de bois blanc est ornée de volutes élaborées et de délicates mouchetures en métal luisant, ce qui le fait ressembler à une masse. Il permet de lancer les sorts suivants :  
+• *[[désintégration]]* (3 charges)  
+• *[[énergie négative]]* (2 charges)  
+• *[[rayon affaiblissant]]* (1 charge)  
+• *[[rayon ardent]]* (1 charge)  
 • *[[rayon dépuisement|rayon d'épuisement]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[désintégration]]*, *[[énergie négative]]*, *[[rayon affaiblissant]]*, *[[rayon ardent]]*, *[[rayon dépuisement|rayon d'épuisement]]* ; **Coût** 28 600 po

@@ -153,23 +153,23 @@ Malgré leurs excentricités, personne ne peut nier que dans la majorité des ca
 **Dés de vie.** d8.
 
 ### Conditions requises
-Pour pouvoir devenir un disciple des Prophéties, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir un disciple des Prophéties, le personnage doit satisfaire aux conditions suivantes. 
 
 **Alignement.** Loyal Neutre.
 
 **Compétences.** 5 rangs en [[Connaissances]] (folklore local), 5 rangs en [[Profession]] (marchand), 2 rangs en [[Psychologie]].
 
-**Spécial.** Doit suivre la croyance des [[Golarion.Prophéties de Kalistrade|Prophéties]].
+**Spécial.** Doit suivre la croyance des [[Golarion.Prophéties de Kalistrade|Prophéties]]. 
 
 ### Compétences de classe
-Voici les compétences de classe du disciple des Prophéties : [[Art de la magie]] (Int), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (noblesse) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Psychologie]] (Sag), et [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha).
+Voici les compétences de classe du disciple des Prophéties : [[Art de la magie]] (Int), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (noblesse) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Psychologie]] (Sag), et [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha). 
 
 **Rangs de compétence par niveau** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe du disciple des Prophéties.
+Voici les caractéristiques de la classe du disciple des Prophéties. 
 #### Armes et armures
-Un disciple des Prophéties ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un disciple des Prophéties ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|SORTS}
 #### Sorts

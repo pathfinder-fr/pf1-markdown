@@ -42,45 +42,45 @@ Categories:
 {s:BDTexte|**Greffon (Sur).** L'écorché peut récupérer la peau d'un humanoïde mort de taille P, M ou G et la porter comme s'il s'agissait de la sienne. Lorsqu'il agit ainsi, l'écorché prend la taille et l'apparence de la créature et reçoit un bonus de +10 à ses tests de [[Déguisement]] pour incarner la victime. Lorsqu'il porte une peau volée, l'écorché ne peut pas utiliser sa [[présence terrifiante]].La peau récupérée se conserve tant que l'écorché la porte mais elle est détruite s'il reçoit plus de 10 points de dégâts ou s'il choisit de la détruire par une action simple. Les créatures situées dans un rayon de 18 mètres qui assistent à la destruction de la peau d'emprunt de l'écorché sont immédiatement affectées par sa [[présence terrifiante]] et reçoivent un malus de -5 au jet de Volonté associé. L'écorché retrouve sa taille normale lorsque la peau qu'il a volée est détruite.}
 </div>
 </td><td><div>
-''Cette créature toute en muscles a été entièrement écorchée : on voit donc
+''Cette créature toute en muscles a été entièrement écorchée : on voit donc 
 les violentes pulsations de ses énormes muscles à vif.''
 
-Gardes du corps et espions des têtes pensantes mortes-vivantes,
-les écorchés apparaissent comme des géants sanguinolents à la
-musculature surdéveloppée grâce à des injections de
-toxines nécromantiques et des greffes de tendons
-réanimés. Même s’ils n’ont pas de peau sous
-leur forme naturelle, les écorchés peuvent voler
-la chair des autres créatures  : ils écorchent
-leurs victimes en quelques secondes et les
-abandonnent dans des états de choc
-et de souffrance inimaginables, ne
-leur laissant que peu de temps pour
-trouver de l’aide avant de mourir.
-Cet acte de violence épouvantable
-n’est pourtant que la première
-étape du chaos que génère
-l’écorché. Il contrôle son horrible
-forme de manière incroyable et
-peut compresser son corps pour
-le faire rentrer dans les enveloppes
-charnelles de créatures bien plus
-petites que lui. Revêtues de ces
-macabres costumes, ces terreurs
-arpentent le monde des vivants,
-répondant aux ordres de leurs terribles
-maîtres ou cherchant les êtres les plus
-influents à assassiner, à écorcher et à incarner. Si
-quelqu’un découvre la nature impie de l’écorché, il
-se débarrasse très vite de son déguisement devenu
-inutile, jaillissant de son costume de chair pour
-apparaître sous son apparence qui terrifie tous
-ceux qui n’y sont pas préparés : peu
-de gens supportent
-cette sanglante
+Gardes du corps et espions des têtes pensantes mortes-vivantes, 
+les écorchés apparaissent comme des géants sanguinolents à la 
+musculature surdéveloppée grâce à des injections de 
+toxines nécromantiques et des greffes de tendons 
+réanimés. Même s’ils n’ont pas de peau sous 
+leur forme naturelle, les écorchés peuvent voler 
+la chair des autres créatures  : ils écorchent 
+leurs victimes en quelques secondes et les 
+abandonnent dans des états de choc 
+et de souffrance inimaginables, ne 
+leur laissant que peu de temps pour 
+trouver de l’aide avant de mourir. 
+Cet acte de violence épouvantable 
+n’est pourtant que la première 
+étape du chaos que génère 
+l’écorché. Il contrôle son horrible 
+forme de manière incroyable et 
+peut compresser son corps pour 
+le faire rentrer dans les enveloppes 
+charnelles de créatures bien plus 
+petites que lui. Revêtues de ces 
+macabres costumes, ces terreurs 
+arpentent le monde des vivants, 
+répondant aux ordres de leurs terribles 
+maîtres ou cherchant les êtres les plus 
+influents à assassiner, à écorcher et à incarner. Si 
+quelqu’un découvre la nature impie de l’écorché, il 
+se débarrasse très vite de son déguisement devenu 
+inutile, jaillissant de son costume de chair pour 
+apparaître sous son apparence qui terrifie tous 
+ceux qui n’y sont pas préparés : peu 
+de gens supportent 
+cette sanglante 
 indécence.
 
-L’écorché mesure
-environ 2,50 mètres et
+L’écorché mesure 
+environ 2,50 mètres et 
 pèse plus de 300 kilos.
 </div></td></tr></table>

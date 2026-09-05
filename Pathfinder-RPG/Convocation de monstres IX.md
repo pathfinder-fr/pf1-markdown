@@ -12,28 +12,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 créature de niveau 9 ou 1d3 créatures de niveau 8 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 créature de niveau 9 ou 1d3 créatures de niveau 8 ou 1d4+1 créatures de niveau moindre convoquées  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort s’apparente à *[[convocation de monstres I]]*, la différence qu’il permet d’appeler une créature de [[niveau]] 9, 1d3 créatures de [[niveau]] 8 ou 1d4+1 créatures de [[niveau]] moindre (lorsque le personnage convoque plusieurs monstres, ces derniers doivent nécessairement tous être du même type).
 
 
 
 (((
 ## Convocation de monstres I
-**École** [[Invocation]] ([[branche convocation|convocation]]) (voir texte) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 créature convoquée
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) (voir texte) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 créature convoquée  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Voir les [[Convocation de monstres|listes de créatures]] pour les sorts de *Convocation de monstres*.
 
 Cette incantation invoque une entité originaire d’un autre [[plans|plan]] (habituellement un [[type extérieur|Extérieur]], un [[sous-type élémentaire|élémentaire]] ou une [[type créature magique|créature magique]] native d’un autre [[plans|plan]]) qui combat ensuite les ennemis de celui qui l’a appelée. Elle se manifeste à l’endroit choisi par le personnage et agit immédiatement, pendant le tour de jeu du personnage. Elle se bat en usant de tous ses pouvoirs. Si le personnage peut communiquer avec elle, il est possible de lui demander de s’abstenir d’attaquer, de ne cibler que certaines créatures, ou encore d’obéir à d’autres ordres. Le sort convoque l’une des créatures de la liste de niveau 1 sur la [[Convocation de monstres|liste de créatures]]. Le personnage choisit la créature convoquée et peut en changer à chaque fois qu’il relance le sort.

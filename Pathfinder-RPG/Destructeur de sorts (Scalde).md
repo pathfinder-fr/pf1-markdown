@@ -18,15 +18,15 @@ Au niveau 1, le destructeur de sorts reçoit [[Science du contresort]] comme don
 #### Chant des armes (Sur)
 Un destructeur de sorts gagne le chant de rage suivant, qui lui permet de conférer aux armes de ses alliés des bonus d’altération et des pouvoirs spéciaux.
 ##### Amélioration d’armes (Sur)
-Au niveau 1, le destructeur de sorts peut conférer un bonus d’altération de +1 aux armes (y compris les munitions) des alliés situés à 18 mètres (12 {s:c}) ou moins. Au niveau 5 et tous les 5 niveaux par la suite, ce bonus d’altération augmente de +1. Le bonus maximum reçu dépend du nombre d’armes affectées : +5 à une arme, +4 à deux armes, +3 à trois armes ou +2 à quatre armes ou plus. Vis-à-vis de ce pouvoir, cinquante munitions équivalent à une arme. Le porteur d'une arme enchantée par ce chant de rage est considéré comme s'il était sous l'effet d'un chant de rage inspirée pour ce qui implique les pouvoirs de rages du scalde.
+Au niveau 1, le destructeur de sorts peut conférer un bonus d’altération de +1 aux armes (y compris les munitions) des alliés situés à 18 mètres (12 {s:c}) ou moins. Au niveau 5 et tous les 5 niveaux par la suite, ce bonus d’altération augmente de +1. Le bonus maximum reçu dépend du nombre d’armes affectées : +5 à une arme, +4 à deux armes, +3 à trois armes ou +2 à quatre armes ou plus. Vis-à-vis de ce pouvoir, cinquante munitions équivalent à une arme. Le porteur d'une arme enchantée par ce chant de rage est considéré comme s'il était sous l'effet d'un chant de rage inspirée pour ce qui implique les pouvoirs de rages du scalde.  
 
-Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés d’arme spéciales suivantes aux armes améliorées par cette aptitude : [[dansante (propriété)|dansante]], [[acérée (propriété)|acérée]], [[boomerang (propriété)|boomerang]], [[enchaînement (propriété)|d’enchaînement]], [[feu (propriété)|de feu]], [[foudre (propriété)|de foudre]], [[froid (propriété)|de froid]], [[rapide (propriété)|rapide]], [[gardienne (propriété)|gardienne]], [[longue portée (propriété)|longue portée]], [[spectrale (propriété)|spectrale]] ou [[traqueuse (propriété)|traqueuse]].
+Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés d’arme spéciales suivantes aux armes améliorées par cette aptitude : [[dansante (propriété)|dansante]], [[acérée (propriété)|acérée]], [[boomerang (propriété)|boomerang]], [[enchaînement (propriété)|d’enchaînement]], [[feu (propriété)|de feu]], [[foudre (propriété)|de foudre]], [[froid (propriété)|de froid]], [[rapide (propriété)|rapide]], [[gardienne (propriété)|gardienne]], [[longue portée (propriété)|longue portée]], [[spectrale (propriété)|spectrale]] ou [[traqueuse (propriété)|traqueuse]]. 
 
-L’ajout de ces propriétés consomme un montant de bonus égal au [[Armes magiques#DTMSPECIALE|coût de la propriété spéciale]].
+L’ajout de ces propriétés consomme un montant de bonus égal au [[Armes magiques#DTMSPECIALE|coût de la propriété spéciale]]. 
 
-Ces bonus d’altération et ces propriétés spéciales se cumulent aux autres éventuelles améliorations ou propriétés spéciales de l’arme, mais les propriétés identiques ne se cumulent pas. Si une arme affectée n’est pas magique, elle doit d’abord être dotée d’un bonus d’altération de +1 au moins avant de lui conférer une propriété spéciale.
+Ces bonus d’altération et ces propriétés spéciales se cumulent aux autres éventuelles améliorations ou propriétés spéciales de l’arme, mais les propriétés identiques ne se cumulent pas. Si une arme affectée n’est pas magique, elle doit d’abord être dotée d’un bonus d’altération de +1 au moins avant de lui conférer une propriété spéciale. 
 
-Les bonus et les propriétés spéciales conférés par ce chant de rage sont déterminés quand le destructeur de sorts entame son chant et ne peuvent être changés avant la fin du chant et le début d’un autre. Ces bonus s’appliquent à une extrémité  seulement d’une arme double.
+Les bonus et les propriétés spéciales conférés par ce chant de rage sont déterminés quand le destructeur de sorts entame son chant et ne peuvent être changés avant la fin du chant et le début d’un autre. Ces bonus s’appliquent à une extrémité  seulement d’une arme double. 
 
 Cette aptitude remplace le chant de rage de rage inspirée.
 
@@ -36,7 +36,7 @@ Au niveau 5, le destructeur de sorts voit sa polyvalence augmenter quand il tent
 
 Au niveau 11, quand il contre un sort adverse, le destructeur de sorts doit dépenser un emplacement de sort de scalde seulement, de même niveau que le sort en cours d’incantation.
 
-Au niveau 17, le destructeur de sorts reçoit [[Parade de sorts]] en don supplémentaire. Le scalde n’a pas besoin de satisfaire les conditions requises par ce don.
+Au niveau 17, le destructeur de sorts reçoit [[Parade de sorts]] en don supplémentaire. Le scalde n’a pas besoin de satisfaire les conditions requises par ce don. 
 
 Cette aptitude remplace compréhension des sorts.
 

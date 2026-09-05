@@ -55,7 +55,7 @@ chiens sauvages et les coyotes.
 créatures vicieuses prêtes à tout pour
 défendre leur territoire. Mais il y a plus
 dangereux encore que les meutes de chiens
-sauvages : le chien enragé.
+sauvages : le chien enragé. 
 
 On sait que la rage
 affecte souvent les animaux tels que les chauves-souris,

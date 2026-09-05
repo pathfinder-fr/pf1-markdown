@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 pc (5 cm de diamètre), 2 pa (12 cm de diamètre), 6 po (25 cm de diamètre) ; **Poids** — (5 cm de diamètre), — (12 cm de diamètre), 0,5 kg (25 cm de diamètre)
+{s:AE}**Prix** 8 pc (5 cm de diamètre), 2 pa (12 cm de diamètre), 6 po (25 cm de diamètre) ; **Poids** — (5 cm de diamètre), — (12 cm de diamètre), 0,5 kg (25 cm de diamètre)  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Cette balle peut être faite de peau animale gonflée, taillée dans un bois léger, faite d’une toile bourrée de tissu ou de fibre végétale cousue.

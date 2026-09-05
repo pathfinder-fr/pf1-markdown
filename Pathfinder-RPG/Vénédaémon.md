@@ -36,7 +36,7 @@ Categories:
 (((Statistiques)))
 {s:BDTexte|**For** 11, **Dex** 15, **Con** 16, **Int** 22, **Sag** 16, **Cha** 21}
 {s:BDTexte|**BBA **+6 ; **BMO **+6 ; **DMD** 18}
-{s:BDTexte|**Dons** [[Magie de guerre]], [[Dispense de composantes matérielles]], [[Science de linitiative|Science de l’initiative]], [[Aptitude magique]] }
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Dispense de composantes matérielles]], [[Science de linitiative|Science de l’initiative]], [[Aptitude magique]] } 
 {s:BDTexte|**Compétences** [[Art de la magie]] +17, [[Bluff]] +14, [[Connaissances]] (mystères) +15, [[Connaissances]] (plans) +15, [[Connaissances]] (religion) +12, [[Déguisement]] +11, [[Discrétion]] +11, [[Intimidation]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Vol]] +11, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16}
 {s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal, aquatique, igné ; télépathie 30m}
 (((Écologie)))

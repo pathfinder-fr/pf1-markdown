@@ -11,12 +11,12 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[Sahuagin|sahuagins]].**
 
-**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[prêtre|Prê]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone** un sahuagin non muté/niveau, chacun ne devant pas être à plus de 9 mètres des autres
-**Durée** 1 minute/niveau (T)
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[prêtre|Prê]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone** un sahuagin non muté/niveau, chacun ne devant pas être à plus de 9 mètres des autres  
+**Durée** 1 minute/niveau (T)  
 **Jet de sauvegarde** [[Vigueur]] pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le sahuagin donne à sa cible l’apparence et nombre des capacités des sahuagins mutants, avec les effets présentés ci-dessous. Choisissez un avantage pour toutes les cibles de ce sort. Ce sort n’a aucun effet sur les sahuagins mutants ou déjà sous les effets d’un don des profondeurs

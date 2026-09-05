@@ -7,7 +7,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**Prix** 100 po ; **Poids** 3,5 kg
+{s:AO}**Prix** 100 po ; **Poids** 3,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Un pantin de ventriloque est une marionnette en bois finement sculptée, peinte et habillée pour ressembler à un humanoïde typique d’une taille de soixante centimètres environ. Une ouverture à l’arrière du pantin permet à une créature de taille M ou P d’y insérer son bras pour le manipuler. Utilisé lors d’un spectacle, le pantin de ventriloque confère un bonus de circonstances de +2 aux tests de [[Représentation]] (farce).

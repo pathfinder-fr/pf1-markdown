@@ -6,8 +6,8 @@ LastModified: 2021-02-20 16:07
 
 <table class="Bestiaire"><tr><td>
 <div class="BD">
-{s:BDTitre|Seugathi|FP 6}
-{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTitre|Seugathi|FP 6} 
+{s:pucem|Aberration|Souterrain|Tempéré}  
 - *Source : Bestiaire 2* p.249                       
 - **PX** 2 400
 - **[[Type Aberration|Aberration]]** de taille G, CM

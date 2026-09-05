@@ -15,6 +15,6 @@ Categories:
 #### Méta-rage (Sur)
 Au niveau 5, un sanguin métamagique peut sacrifier des rounds d’utilisation de sa rage sanguine pour appliquer un don de métamagie qu’il connait à un sort de sanguin. Ce sacrifice lui coûte un nombre de rounds de rage sanguine égal à deux fois le niveau que le sort normalement ajusté par l’application du don de métamagie aurait dû avoir (minimum 2 rounds).
 
-Le sanguin métamagique n’a pas besoin d’être en rage sanguine pour utiliser cette aptitude. L’effet de métamagie est appliqué sans augmenter le niveau de l’emplacement de sort dépensé, même si le temps d’incantation du sort est prolongé comme à l’accoutumée.
+Le sanguin métamagique n’a pas besoin d’être en rage sanguine pour utiliser cette aptitude. L’effet de métamagie est appliqué sans augmenter le niveau de l’emplacement de sort dépensé, même si le temps d’incantation du sort est prolongé comme à l’accoutumée. 
 
 Le sanguin métamagique peut appliquer un don de métamagie seulement de cette façon par incantation. Il doit connaitre ce don. De plus, quand le sanguin métamagique prend un don de lignage, il peut choisir un don de métamagie à la place. Cette aptitude  remplace esquive instinctive supérieure.

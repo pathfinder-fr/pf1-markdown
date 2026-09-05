@@ -44,7 +44,7 @@ Categories:
 {s:BDTexte|**Mangeur de peur (Sur).** Un spectre terrifiant possède une [[guérison accélérée]] égale au nombre de créatures situées dans un rayon de 9 mètres et souffrant d'un effet de peur.}
 </div>
 
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 
@@ -65,5 +65,5 @@ Categories:
 
 </div>*La brume dessine une forme vaguement humanoïde elle a des traits indistincts, sauf au niveau de ses mains griffues et de son visage poilu à la gueule hérissée de crocs. *
 
-Il arrive que le désir de causer peur et chagrin survivent même après la mort du gobelours. La créature qui en résulte est capable de détacher une partie de sa ville essence pour créer des pièges spirituels terrifiants sous forme d'apparition quand le spectre terrifiant en a l'occasion, il étudie le groupe qu'il traque avant de concevoir les apparitions les plus à même de le terrifier et adapte les effets de ces pièges en fonction des peurs et des faiblesses de ses victimes. Si le spectre est contraint d'affronter un groupe directement, il tente de se créer une forteresse d'apparition capable de blesser ses ennemis et attaques seulement une fois que ses adversaires en ont neutralisé une, avant de s'enfuir vers un autre lieu préparé à l'avance.
+Il arrive que le désir de causer peur et chagrin survivent même après la mort du gobelours. La créature qui en résulte est capable de détacher une partie de sa ville essence pour créer des pièges spirituels terrifiants sous forme d'apparition quand le spectre terrifiant en a l'occasion, il étudie le groupe qu'il traque avant de concevoir les apparitions les plus à même de le terrifier et adapte les effets de ces pièges en fonction des peurs et des faiblesses de ses victimes. Si le spectre est contraint d'affronter un groupe directement, il tente de se créer une forteresse d'apparition capable de blesser ses ennemis et attaques seulement une fois que ses adversaires en ont neutralisé une, avant de s'enfuir vers un autre lieu préparé à l'avance. 
 </div></td></tr></table>

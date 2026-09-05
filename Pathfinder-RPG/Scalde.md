@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Chants de rage]].***
-***Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].***
-***Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].***
+<div class="fright">***Voir aussi les [[Chants de rage]].***  
+***Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].***  
+***Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].***  
 {s:PM0|scalde}**Voir les archétypes du scalde**&emsp;
 <li ID="scalde" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypescalde}</li>
 </div>{s:mca}*Les scaldes sont des poètes, des historiens et des gardiens du savoir qui mettent leurs dons oratoires et leurs chants à profit pour plonger leurs alliés dans une rage frénétique. Ils tempèrent leur violence intérieure avec un vernis de civilisation, chroniquent les batailles héroïques et les exploits de leurs plus grands chefs et racontent ces histoires une fois améliorées pour remporter de nouvelles victoires encore plus sanglantes. La poésie du scalde est tout en nuance et s’interprète souvent de plusieurs manières. Ce personnage dispose de divers talents pour imiter la magie des autres lanceurs de sorts.*
@@ -353,7 +353,7 @@ Voici les compétences de classe du scalde : [[Acrobaties]] (Dex), [[Art de la m
 Voici les aptitudes de classe du scalde.
 
 #### Armes et armures
-Le scalde est formé au maniement de toutes les armes courantes et de guerre ainsi qu’au port des armures légères et intermédiaires et au maniement des boucliers (mais pas des pavois).
+Le scalde est formé au maniement de toutes les armes courantes et de guerre ainsi qu’au port des armures légères et intermédiaires et au maniement des boucliers (mais pas des pavois). 
 
 Il peut lancer des sorts de scalde alors qu’il porte une [[armure légère]] ou [[armure intermédiaire|intermédiaire]] et même un bouclier sans risquer de voir son sort échouer. Cela n’annule pas les [[Caractéristiques des armes#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] éventuellement imposés par d’autres classes. Comme les autres lanceurs de sorts profanes, ses sorts à composante gestuelle risquent d’échouer s’il les lance en armure lourde.
 
@@ -434,7 +434,7 @@ Au niveau 1, le scalde gagne [[Écriture de parchemins]] comme don supplémentai
 [[FAQ- Manuel des joueurs - Classes avancées#11|→]] Scalde, Versatilité artistique : Le scalde peut-il utiliser Représentation (instruments à vent) comme versatilité artistique ? Devrait-elle être une compétence de classe ?**'
 
 Oui, les scaldes devrait avoir [[Représentation]] (instruments à vent) comme compétence de classe, et ils devraient pouvoir l'utiliser comme <u>[[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</u> pour la [[Diplomatie]] et le [[Dressage]]. Cela sera reflété dans le futur errata.}
-Au niveau 2, le scalde choisit un type de représentation associé à sa classe. Il peut utiliser le bonus qu’il possède dans cette compétence à la place du bonus dans la compétence associée indiquée plus loin. Dans ce cas, il utilise la totalité de son bonus de [[Représentation]], y compris son bonus de compétence de classe, au lieu du bonus de compétence remplacé, qu’il ait investi ou non des rangs dans cette compétence et que celle-ci soit ou non une compétence de classe.
+Au niveau 2, le scalde choisit un type de représentation associé à sa classe. Il peut utiliser le bonus qu’il possède dans cette compétence à la place du bonus dans la compétence associée indiquée plus loin. Dans ce cas, il utilise la totalité de son bonus de [[Représentation]], y compris son bonus de compétence de classe, au lieu du bonus de compétence remplacé, qu’il ait investi ou non des rangs dans cette compétence et que celle-ci soit ou non une compétence de classe. 
 
 Il choisit un type de [[Représentation]] de remplacement au niveau 7 puis, tous les cinq niveaux par la suite.
 
@@ -448,13 +448,13 @@ Au niveau 2, le scalde résiste aux effets sonores. Il gagne un bonus de +4 aux 
 #### Pouvoirs de rage (Ext)
 {s:FAQ|***[[FAQ- Manuel des joueurs - Classes avancées#10|→]] Scalde, Pouvoirs de rage : La classe de scalde indique « Si le scalde possède des pouvoirs de rage provenant d'une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n'en disposent pas. » que signifie « autre source » exactement ?***
 
-Une autre source implique toute source différente des <u>[[Scalde#POUVOIRSDERAGE|pouvoirs de rage]]</u> obtenus au niveau 3 et tous les 3 niveuax par la suite. Quelques exemples d'autres sources sont les pouvoirs de rage obtenus grâce à un multiclassage en [[barbare]], les pouvoirs de rage obtenus grâce au don [[Pouvoir de rage supplémentaire]], et les pouvoirs de rage obtenus par le biais d'un objet magique.}Au niveau 3 puis tous les trois niveaux, le scalde apprend un [[pouvoirs de rage|pouvoir de rage]] qui affecte sa personne et les alliés sous l’influence de sa rage inspirée.
+Une autre source implique toute source différente des <u>[[Scalde#POUVOIRSDERAGE|pouvoirs de rage]]</u> obtenus au niveau 3 et tous les 3 niveuax par la suite. Quelques exemples d'autres sources sont les pouvoirs de rage obtenus grâce à un multiclassage en [[barbare]], les pouvoirs de rage obtenus grâce au don [[Pouvoir de rage supplémentaire]], et les pouvoirs de rage obtenus par le biais d'un objet magique.}Au niveau 3 puis tous les trois niveaux, le scalde apprend un [[pouvoirs de rage|pouvoir de rage]] qui affecte sa personne et les alliés sous l’influence de sa rage inspirée. 
 
 Il ne peut pas apprendre un pouvoir de rage qui s’active par une [[action simple]] ou par une dépense en rounds de rage. Par exemple, il ne peut pas apprendre hurlement terrifiant (puisqu’il faut l’activer par une [[action simple]]), en revanche, il peut choisir [[Pouvoirs de rage#REPOUSSERLENNEMI|repousser l'ennemi]] (qui remplace une attaque au corps à corps). Sauf indication contraire, le scalde ne peut pas choisir un même pouvoir de rage à plusieurs reprises.
 
-Le scalde choisit les éventuels pouvoirs de rage qu’il ajoute à son chant quand il entame le chant de rage. Tous les alliés affectés bénéficient de ces pouvoirs de rage, en utilisant le niveau du scalde comme niveau de barbare effectif. Le scalde utilise son niveau de classe en guise de niveau de [[barbare]] quand il choisit un pouvoir de rage qui nécessite un niveau de barbare minimum.
+Le scalde choisit les éventuels pouvoirs de rage qu’il ajoute à son chant quand il entame le chant de rage. Tous les alliés affectés bénéficient de ces pouvoirs de rage, en utilisant le niveau du scalde comme niveau de barbare effectif. Le scalde utilise son niveau de classe en guise de niveau de [[barbare]] quand il choisit un pouvoir de rage qui nécessite un niveau de barbare minimum. 
 
-Si l’effet du pouvoir de rage dépend du modificateur de caractéristique du scalde (comme [[Pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|totem spirituel inférieur]]), les alliés affectés utilisent aussi le modificateur de caractéristique du scalde au lieu du leur. Si un pouvoir de rage en exige un autre (comme [[Pouvoirs de rage#PERTURBATEUR|perturbateur]] qui nécessite [[Pouvoirs de rage#SUPERSTITION|superstition]]), le scalde ne peut pas accorder ce pouvoir à ses alliés, à moins qu’il ne leur accorde aussi sa condition requise. Grâce à cette aptitude, il peut ajouter plusieurs pouvoirs de rage à la fois à sa rage inspirée (et donc offrir simultanément superstition et perturbateur).
+Si l’effet du pouvoir de rage dépend du modificateur de caractéristique du scalde (comme [[Pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|totem spirituel inférieur]]), les alliés affectés utilisent aussi le modificateur de caractéristique du scalde au lieu du leur. Si un pouvoir de rage en exige un autre (comme [[Pouvoirs de rage#PERTURBATEUR|perturbateur]] qui nécessite [[Pouvoirs de rage#SUPERSTITION|superstition]]), le scalde ne peut pas accorder ce pouvoir à ses alliés, à moins qu’il ne leur accorde aussi sa condition requise. Grâce à cette aptitude, il peut ajouter plusieurs pouvoirs de rage à la fois à sa rage inspirée (et donc offrir simultanément superstition et perturbateur). 
 
 Si un pouvoir de rage s’utilise seulement un certain nombre de fois par jour ou par rage (comme [[Pouvoirs de rage#NOUVELLEVIGUEUR|nouvelle vigueur]]), chaque allié affecté par le chant de rage inspirée est soumis à cette limitation (les pouvoirs limités à une utilisation par rage étant limités à une utilisation par rage inspirée). Si le scalde possède des pouvoirs de rage provenant d’une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n’en disposent pas. Il ne peut pas choisir un pouvoir de rage en double, à moins qu’un personnage ne puisse choisir ce pouvoir à plusieurs reprises.
 
@@ -464,19 +464,19 @@ Si le personnage peut devenir enragé grâce à une autre source, il peut utilis
 #### Esquive instinctive (Ext)
 À partir du niveau 4, le scalde réagit au danger plus vite que ses sens devraient normalement le lui permettre. Il n’est jamais [[pris au dépourvu]] et ne perd pas son bonus de Dextérité à la [[CA]] si son adversaire est [[invisible]], en revanche, il le perd s’il est [[immobilisé]]. Même avec ce pouvoir, le scalde perd son bonus de Dextérité à la CA si son adversaire réussit une [[feinte]] contre lui.
 
-Si le scalde possède déjà le pouvoir d’esquive instinctive grâce à une autre classe, il gagne automatiquement l’[[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] à la place de celle-ci.
+Si le scalde possède déjà le pouvoir d’esquive instinctive grâce à une autre classe, il gagne automatiquement l’[[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] à la place de celle-ci. 
 
 {s:Reference|COMPREHENSIONDESSORTS}
 #### Compréhension des sorts (Sur)
-Au niveau 5, le scalde connaît bien la magie des autres lanceurs de sorts et peut utiliser la sienne pour reproduire leurs sorts. Une fois par jour, le scalde peut lancer un sort issu de la [[Liste des sorts de bardes|liste du barde]], [[Liste des sorts de prêtres|du prêtre]] ou de [[Liste des sorts densorceleursmagiciens|l’ensorceleur/magicien]] comme s’il faisait partie de ses sorts de scalde connus.
+Au niveau 5, le scalde connaît bien la magie des autres lanceurs de sorts et peut utiliser la sienne pour reproduire leurs sorts. Une fois par jour, le scalde peut lancer un sort issu de la [[Liste des sorts de bardes|liste du barde]], [[Liste des sorts de prêtres|du prêtre]] ou de [[Liste des sorts densorceleursmagiciens|l’ensorceleur/magicien]] comme s’il faisait partie de ses sorts de scalde connus. 
 
 Pour cela, il doit dépenser un emplacement de sort de scalde du même niveau que le sort lancé. L’incantation d’un sort issu de la compréhension des sorts exige au minimum une [[action complexe]], quelle que soit la durée d’incantation normale du sort.
 
-Le scalde peut utiliser ce pouvoir deux fois par jour au niveau 11 et trois fois par jour au niveau 17.
+Le scalde peut utiliser ce pouvoir deux fois par jour au niveau 11 et trois fois par jour au niveau 17. 
 
 {s:Reference|MAITREDUSAVOIR}
 #### Maître du savoir (Ext)
-Au niveau 7, le scalde maîtrise de nombreux savoirs et peut [[faire 10]] à n’importe quel test de [[Connaissances]] tant qu’il possède des rangs dans cette compétence. Une fois par jour, il peut [[faire 10|faire 20]] sur un test de [[Connaissances]] par une [[action simple]] au lieu d’y passer le temps habituellement requis. Il peut utiliser cette aptitude pour faire 20 à un test de Connaissances deux fois par jour à partir du niveau 13 et trois fois par jour à partir du niveau 19.
+Au niveau 7, le scalde maîtrise de nombreux savoirs et peut [[faire 10]] à n’importe quel test de [[Connaissances]] tant qu’il possède des rangs dans cette compétence. Une fois par jour, il peut [[faire 10|faire 20]] sur un test de [[Connaissances]] par une [[action simple]] au lieu d’y passer le temps habituellement requis. Il peut utiliser cette aptitude pour faire 20 à un test de Connaissances deux fois par jour à partir du niveau 13 et trois fois par jour à partir du niveau 19. 
 
 {s:Reference|ESQUIVEINSTINCTIVESUPERIEURE}
 #### Esquive instinctive supérieure (Ext)

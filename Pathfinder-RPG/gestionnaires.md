@@ -24,7 +24,7 @@ Le profil d’un gestionnaire s’articule de la façon suivante :
 
 Les fonctions de nombreux gestionnaires ressemblent à celles de certains employés. Par exemple, un abbé est un curé qualifié pour gérer un temple ou une organisation religieuse. Voici la principale différence entre l’abbé et le curé : votre personnage paye l’abbé pour que celui-ci veille au bon fonctionnement de son bâtiment ou de son organisation en son absence tandis que le curé fait juste partie d’une équipe appartenant à l’organisation du personnage et regroupant des individus chargés de mêmes tâches. Avec l’accord du MJ, vous pouvez élever un simple employé au rang de gestionnaire (ou vice-versa) en versant au(x) PNJ(s) le salaire correspondant.
 
-Votre personnage peut sélectionner un compagnon d’armes ou un éminent suivant pour en faire un gestionnaire mais il doit alors lui verser le salaire correspondant. Dans ce cas, votre personnage saura qu’il pourra faire confiance au compagnon d’armes ou au suivant sélectionné, mais cela ne veut pas dire qu’il accomplira les tâches de gestionnaire gratuitement pendant que votre personnage partira à l’aventure.
+Votre personnage peut sélectionner un compagnon d’armes ou un éminent suivant pour en faire un gestionnaire mais il doit alors lui verser le salaire correspondant. Dans ce cas, votre personnage saura qu’il pourra faire confiance au compagnon d’armes ou au suivant sélectionné, mais cela ne veut pas dire qu’il accomplira les tâches de gestionnaire gratuitement pendant que votre personnage partira à l’aventure. 
 
 {s:Reference|Exemplesdegestionnaires}
 ### Exemples de gestionnaires
@@ -34,7 +34,7 @@ Les gestionnaires proposés ci-dessous sont des exemples d’individus que votre
 {s:Reference|ABBÉ}
 <div class=BD>
 {s:BDTitre|Abbé|{s:GC}}
-**Salaire** 4 po/jour
+**Salaire** 4 po/jour  
 **Compétences** Diplomatie, Premiers secours, Connaissances (folklore local), Connaissances (religion).
 (((Description)))
 Un abbé est un lanceur de sorts divins formé pour gérer les activités quotidiennes d’un temple ou d’une organisation
@@ -45,7 +45,7 @@ niveau 3 qui possède une armure légère (ou aucune armure dans le cas d’un a
 {s:Reference|AUBERGISTE}
 <div class=BD>
 {s:BDTitre|Aubergiste|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Estimation, Diplomatie, Connaissances (folklore local), Profession (une au choix).
 (((Description)))
 Un aubergiste gère un établissement principalement conçu pour nourrir et loger ses clients. C’est le plus souvent un
@@ -56,7 +56,7 @@ d’armes à la retraite. Un aubergiste supervise les activités quotidiennes d�
 {s:Reference|AVOCATASSOCIÉ}
 <div class=BD>
 {s:BDTitre|Avocat associé|{s:GC}}
-**Salaire** 4 po/jour
+**Salaire** 4 po/jour  
 **Compétences** Bluff, Diplomatie, Connaissances (une au choix), Profession (avocat).
 (((Description)))
 Un avocat associé est le directeur d’un cabinet d’avocats. C’est le plus souvent un barde, un expert, un roublard,
@@ -67,7 +67,7 @@ de caractéristiques mentales élevées. Un avocat associé répond aux besoins 
 {s:Reference|CAPITAINE}
 <div class=BD>
 {s:BDTitre|Capitaine|{s:GC}}
-**Salaire** 5 po/jour
+**Salaire** 5 po/jour  
 **Compétences** Acrobaties, Diplomatie, Connaissances(géographie), Profession (marin).
 (((Description)))
 Un capitaine est un maître en matière de navigation maritime capable de gérer l’équipage et les activités d’un navire. C’est le plus souvent un expert, un roublard ou un guerrier de niveau 3. Un capitaine peut gérer une organisation commerciale, une flotte pirate ou une entreprise maritime ou fluviale de transport de passagers.
@@ -76,7 +76,7 @@ Un capitaine est un maître en matière de navigation maritime capable de gérer
 {s:Reference|COMPTABLE}
 <div class=BD>
 {s:BDTitre|Comptable|{s:GC}}
-**Salaire** 3 po/jour
+**Salaire** 3 po/jour  
 **Compétences** Estimation, Connaissances (folklore local),Linguistique, Profession (comptable).
 (((Description)))
 Un comptable tient à jour les comptes et veille à l’équilibre du budget d’un bâtiment ou d’une organisation. C’est le plus souvent un expert de niveau 3 qui ne sait pas combattre mais il appartenir à n’importe quelle classe qualifiée qui fait bon usage des caractéristiques mentales.
@@ -85,7 +85,7 @@ Un comptable tient à jour les comptes et veille à l’équilibre du budget d�
 {s:Reference|CONTREBANDIER}
 <div class=BD>
 {s:BDTitre|Contrebandier|{s:GC}}
-**Salaire** 3 po/jour
+**Salaire** 3 po/jour  
 **Compétences** Estimation, Bluff, Connaissances (folklore local), Escamotage.
 (((Description)))
 Un contrebandier est un marchand qui a l’habitude de pratiquer sa profession sans se faire remarquer par les
@@ -97,7 +97,7 @@ ou d’une flottille de navires de contrebande.
 {s:Reference|GARDIEN}
 <div class=BD>
 {s:BDTitre|Gardien|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Diplomatie, Intimidation, Connaissances (folklore local), Psychologie.
 (((Description)))
 Un gardien supervise le fonctionnement d’une prison, d’un donjon ou d’un endroit où sont détenus des prisonniers.
@@ -107,7 +107,7 @@ C’est le plus souvent un prêtre, un expert, un guerrier, un inquisiteur, un h
 {s:Reference|INTENDANT}
 <div class=BD>
 {s:BDTitre|Intendant|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Diplomatie, Connaissances (folklore local), Connaissances (noblesse), Psychologie.
 (((Description)))
 Un intendant s’occupe d’un grand bâtiment résidentiel comme un château, un manoir ou une villa de noble. C’est
@@ -118,7 +118,7 @@ domaine, coordonne le travail des domestiques, discipline ceux dont le travail n
 {s:Reference|LIEUTENANT}
 <div class=BD>
 {s:BDTitre|Lieutenant|{s:GC}}
-**Salaire** 4 po/jour
+**Salaire** 4 po/jour  
 **Compétences** Diplomatie, Intimidation, Connaissances (ingénierie), Perception.
 (((Description)))
 Un lieutenant dirige une unité de gardes, de mercenaires ou de soldats. C’est le plus souvent un chevalier, un guerrier ou un rôdeur de niveau 3, mais il peut également être barbare, barde, inquisiteur, homme d’armes ou membre d’une classe experte en matière de combat. Un lieutenant gère les divers besoins et assignements des troupes, supervise leur entraînement et participe aux manœuvres militaires.
@@ -128,7 +128,7 @@ Un lieutenant dirige une unité de gardes, de mercenaires ou de soldats. C’est
 {s:Reference|MAÎTRE-FORGERON}
 <div class=BD>
 {s:BDTitre|Maître-forgeron|{s:GC}}
-**Salaire** 4 po/jour
+**Salaire** 4 po/jour  
 **Compétences** Estimation, Artisanat (un au choix), Perception, Profession (une au choix).
 (((Description)))
 Un maître-forgeron gère une entreprise de fabrication. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe spécialisée de niveau 3. Un maître-forgeron gère les activités quotidiennes d’un site de production voué à un artisanat en particulier, forme les apprentis et travaille sur les articles les plus exigeants et les plus difficiles à fabriquer.
@@ -137,7 +137,7 @@ Un maître-forgeron gère une entreprise de fabrication. C’est le plus souvent
 {s:Reference|MAÎTREDEGUILDE(GUILDED’ARTISANS)}
 <div class=BD>
 {s:BDTitre|Maître de guilde (guilde d’artisans)|{s:GC}}
-**Salaire** 3 po/jour
+**Salaire** 3 po/jour  
 **Compétences** Estimation, Artisanat (un au choix), Diplomatie, Profession (une au choix).
 (((Description)))
 Un maître de guilde d’artisans est un expert dans son domaine qui peut diriger un groupe d’artisans de même
@@ -148,7 +148,7 @@ maître de guilde se charge de la gestion quotidienne d’une guilde d’artisan
 {s:Reference|MAÎTREDEGUILDE(GUILDEDEVOLEURS)}
 <div class=BD>
 {s:BDTitre|Maître de guilde (guilde de voleurs)|{s:GC}}
-**Salaire** 5 po/jour
+**Salaire** 5 po/jour  
 **Compétences** Estimation, Bluff, Sabotage, Connaissances (folklore local).
 (((Description)))
 Un maître de guilde de voleurs gère les activités d’une organisation criminelle. C’est le plus souvent un barde, un
@@ -158,7 +158,7 @@ prêtre, un expert, un roublard ou un ensorceleur de niveau 3. Un maître de gui
 {s:Reference|MÉDECIN}
 <div class=BD>
 {s:BDTitre|Médecin|{s:GC}}
-**Salaire** 5 po/jour
+**Salaire** 5 po/jour  
 **Compétences** Premiers secours, Perception, Psychologie, Survie.
 (((Description)))
 Un médecin est formé pour traiter toutes sortes de maladie et de blessures. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de niveau 3. Un expert peut également faire un médecin convenable qui traitera les maladies et soignera les blessures par l’application de moyens ordinaires seulement ou par l’utilisation d’objets magiques. Un médecin est généralement responsable d’un hôpital ou d’une organisation qui délivre des soins médicaux.
@@ -167,7 +167,7 @@ Un médecin est formé pour traiter toutes sortes de maladie et de blessures. C�
 {s:Reference|PROVISEUR}
 <div class=BD>
 {s:BDTitre|Proviseur|{s:GC}}
-**Salaire** 3 po/jour
+**Salaire** 3 po/jour  
 **Compétences** Diplomatie, Connaissances (deux au choix),Profession (une au choix).
 (((Description)))
 Un proviseur gère un lieu d’enseignement tel qu’une école de bardes, une académie de mages ou une Université. C’est le plus souvent un alchimiste, un barde, un expert, un roublard, un ensorceleur, un magicien ou une sorcière de niveau 3. La gestion d’un établissement d’enseignement supérieur consiste à s’occuper de l’administration de base, à enseigner et à effectuer des recherches.
@@ -176,7 +176,7 @@ Un proviseur gère un lieu d’enseignement tel qu’une école de bardes, une a
 {s:Reference|RÉGISSEUR}
 <div class=BD>
 {s:BDTitre|Régisseur|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Diplomatie, Déguisement, Représentation (deux au choix).
 (((Description)))
 Un régisseur supervise les activités d’une organisation artistique ou d’un bâtiment consacré aux pratiques artistiques. C’est le plus souvent un expert de niveau 3, mais il peut également être barde, roublard ou membre d’une classe possédant des compétences adaptées à la pratique des beaux-arts. Un régisseur passe ses journées à superviser les activités d’un théâtre, à former les acteurs et à promouvoir les spectacles de l’établissement.
@@ -185,7 +185,7 @@ Un régisseur supervise les activités d’une organisation artistique ou d’un
 {s:Reference|SECONDDESYNDICATDUCRIME}
 <div class=BD>
 {s:BDTitre|Second de syndicat du crime|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Estimation, Bluff, Intimidation,Connaissances (folklore local).
 (((Description)))
 Un second de syndicat du crime applique les ordres directs d’un parrain du crime ou d’un individu à la tête d’une organisation criminelle violente. C’est le plus souvent un barde, un prêtre, un expert, un guerrier ou un roublard de niveau 3. Il applique les ordres de son supérieur, poursuit les objectifs de l’organisation et supervise les subordonnés.
@@ -194,7 +194,7 @@ Un second de syndicat du crime applique les ordres directs d’un parrain du cri
 {s:Reference|SENSEI}
 <div class=BD>
 {s:BDTitre|Sensei|{s:GC}}
-**Salaire** 2 po/jour
+**Salaire** 2 po/jour  
 **Compétences** Acrobaties, Intimidation, Connaissances (histoire), Perception.
 (((Description)))
 Un sensei est en charge d’un dojo ou d’un monastère voué à la pratique des arts martiaux. C’est le plus souvent un moine de niveau 3 mais il peut également posséder plusieurs niveaux dans une classe martiale ou qui s’appuie sur une valeur de Sagesse élevée. Un sensei supervise l’entraînement des élèves et gère les activités quotidiennes de l’établissement.

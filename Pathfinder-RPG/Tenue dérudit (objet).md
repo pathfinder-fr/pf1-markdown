@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 3 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 5 po ; **Poids** 3 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Parfaite pour l’érudit, cette tenue inclut une robe, une ceinture, une casquette, des chaussures souples et, éventuellement, une écharpe.

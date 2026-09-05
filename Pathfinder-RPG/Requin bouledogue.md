@@ -60,7 +60,7 @@ naturel le met souvent en contact
 avec des proies humanoïdes
 et on l’a déjà vu s’en prendre à des
 pêcheurs, des nageurs, des barges
-et des canoës.
+et des canoës. 
 
 Il préfère l’eau salée
 mais tolère l’eau douce et peut sauter

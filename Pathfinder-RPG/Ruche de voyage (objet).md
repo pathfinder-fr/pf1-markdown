@@ -7,9 +7,9 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 10 po ; **Poids** 5 kg
+{s:MCA}**Prix** 10 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces paniers de paille offrent une maison portable aux abeilles. Ce sont des paniers en dôme pourvus d'un trou au sommet, qu'un petit rabat tressé permet de recouvrir. Ce trou permet de récolter de petites quantités de miel sans détruire l'intégralité de la ruche. Certains fermiers pensant que les abeilles offrent un meilleur rendement aux champs et paient des apiculteurs pour que ceux-ci viennent jusqu'à leurs fermes avec leurs abeilles.  
   
 La destruction d'une ruche pousse les abeilles à se regrouper en essaim, créant un nuage de 1,5 mètre de rayon. Les créatures sont [[aveuglé|aveuglées]] et, tant qu'elles restent dans le nuage d'abeilles, doivent réussir un jet de [[Vigueur]] [[DD]] 12 pour ne pas être [[fiévreux|fiévreuses]] pendant 1 minute. L'état fiévreux est un effet de poison.

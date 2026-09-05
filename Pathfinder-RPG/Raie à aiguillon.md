@@ -45,21 +45,21 @@ Categories:
 | [[Raie à aiguillon]] | 1/2 |
 | [[Raie manta]] | 1 |
 
-</div>''Une longue queue garnie d’un dard barbelé traîne derrière le corps plat et
+</div>''Une longue queue garnie d’un dard barbelé traîne derrière le corps plat et 
 triangulaire de ce poisson.''
 
-Cette créature plutôt passive qu’on trouve souvent enfouie dans
-la  boue,  le  sable  ou  les  algues,  soulève  sa  queue  par-dessus  son
-corps à la manière d’un scorpion quand elle est prise au piège ou
-blessée. Son dard est une pointe barbelée munie de deux rainures
-permettant  à  la  toxine  de  s’infiltrer  dans  la  blessure.  On  trouve
-souvent des raies à aiguillon dans les baies et les estuaires, mais
-certaines  espèces  peuvent  vivre  dans  les  rivières  en  amont,  bien
-loin des eaux de mer. Les raies à aiguillon, comme leurs cousins
-plus grands, les raies mantas, utilisent une forme d’électrolocalisation
+Cette créature plutôt passive qu’on trouve souvent enfouie dans 
+la  boue,  le  sable  ou  les  algues,  soulève  sa  queue  par-dessus  son 
+corps à la manière d’un scorpion quand elle est prise au piège ou 
+blessée. Son dard est une pointe barbelée munie de deux rainures 
+permettant  à  la  toxine  de  s’infiltrer  dans  la  blessure.  On  trouve 
+souvent des raies à aiguillon dans les baies et les estuaires, mais 
+certaines  espèces  peuvent  vivre  dans  les  rivières  en  amont,  bien 
+loin des eaux de mer. Les raies à aiguillon, comme leurs cousins 
+plus grands, les raies mantas, utilisent une forme d’électrolocalisation 
 pour repérer leurs proies dans les eaux vaseuses.
-La  raie  à  aiguillon  présentée  ici  est  un  spécimen  plutôt
-grand. Pour obtenir des raies plus petites, appliquez l’archétype
+La  raie  à  aiguillon  présentée  ici  est  un  spécimen  plutôt 
+grand. Pour obtenir des raies plus petites, appliquez l’archétype 
 simple « créature jeune ».
 
 #### La raie à aiguillon comme compagnon animal

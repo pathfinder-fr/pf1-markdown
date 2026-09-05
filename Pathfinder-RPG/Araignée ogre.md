@@ -58,20 +58,20 @@ Categories:
 
 </div>*Cette énorme araignée a la taille d’un éléphant. Ses pattes présentent des articulations hérissées de piquants et ses traits sont vaguement et sinistrement humanoïdes.*
 
-Les araignées ogres sont
-des chasseresses sauvages et
-terrifiantes qui tissent des
-toiles complexes capables de
-recouvrir des arbres entiers.
-Ainsi nommées à cause de la
-disposition de leurs yeux et
-de leurs mandibules, qui les
-fait ressembler de manière
-déroutante à des ogres dont
-elles ont quasiment la taille,
-les araignées ogres peuvent
-se faufiler dans des coins
-et dans des tunnels bien
-plus étroits qu’on ne
+Les araignées ogres sont 
+des chasseresses sauvages et 
+terrifiantes qui tissent des 
+toiles complexes capables de 
+recouvrir des arbres entiers. 
+Ainsi nommées à cause de la 
+disposition de leurs yeux et 
+de leurs mandibules, qui les 
+fait ressembler de manière 
+déroutante à des ogres dont 
+elles ont quasiment la taille, 
+les araignées ogres peuvent 
+se faufiler dans des coins 
+et dans des tunnels bien 
+plus étroits qu’on ne 
 pourrait s’y attendre.
 </div></td></tr></table>

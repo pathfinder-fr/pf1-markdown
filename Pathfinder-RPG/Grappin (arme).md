@@ -7,10 +7,10 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 6 po ; **Poids** 7 kg ; **Groupes** —
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#LUTTE|lutte]]
+{s:PMI}**Prix** 6 po ; **Poids** 7 kg ; **Groupes** —  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#LUTTE|lutte]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Un [[Grappin (objet)|grappin]] est souvent considéré comme un outil d’escalade mais il peut également être utilisé pour agripper les navires ennemis et les rapprocher avant la phase d’abordage.  
   
 Les grappins s’enfoncent profondément dans le bois du bastingage et il faut une minute pour détacher chacun d’eux s’ils sont fixés de la sorte. La corde attachée à un grappin peut être tranchée mais les pirates visent souvent le gréement et les mâts pour compliquer la tâche de ceux qui tentent de les détacher. Dénouer la corde attachée à un grappin nécessite une [[action de mouvement]].  

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2-20 po ; **Poids** 75 kg
+{s:AE}**Prix** 2-20 po ; **Poids** 75 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces animaux de bétail sont élevés pour leur fourrure, leur viande et leur peau, et vivent dans pratiquement toutes les régions civilisées. Ils sont particulièrement recherchés dans les environnements froids où leur laine et leur peau peut servir à fabriquer des vêtements résistants et hautement isolants. Les moutons ont les mêmes statistiques que les chèvres. Voir les statistiques de la [[chèvre]].

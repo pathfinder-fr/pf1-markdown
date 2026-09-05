@@ -34,7 +34,7 @@ En plus de cette diversité au niveau des professions, on trouve chez les nains 
 
 **Aventuriers.** Les aventuriers nains sont bien plus rares que leurs équivalents humains, mais on en trouve dans toutes les régions du monde. Ils quittent souvent l’enceinte de leur citadelle pour partir en quête de gloire au profit de leur clan, pour trouver des richesses pour aider leur foyer ou pour reprendre une forteresse naine tombée aux mains d’ennemis raciaux. Les guerres naines se caractérisent souvent par des combats au corps à corps dans les tunnels, c’est pourquoi la plupart des nains optent pour les classes de guerrier ou de barbare.
 
-**Noms masculins.** Dolgrin, Grunyar, Harsk, Kazmuk, Morgrym, Rograr.
+**Noms masculins.** Dolgrin, Grunyar, Harsk, Kazmuk, Morgrym, Rograr.  
 **Noms féminins.** Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -129,15 +129,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les nains occultes.** Certaines communautés naines stigmatisent tout particulièrement les pouvoirs psychiques qu’elles associent aux duergars, leurs cousins esclavagistes. Les occultistes forment une exception car ils établissent un lien avec les reliques de l’histoire naine chroniquée. Les spirites nains peuvent entrer en contact avec les esprits des membres de leur race tombés au combat et les médiums nains peuvent développer leurs talents pour entrer en contact avec les grands héros des légendes. En dehors de ces cas, un nain doté d’un potentiel psychique pourra facilement emprunter la voie du cinétiste spécialisé dans l’utilisation des talents sauvages de la terre et du métal.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** Quand l’alchimiste utilise son [[Alchimiste#MUTAGENE|mutagène]], il gagne un bonus d’armure naturelle de +1/4 à la [[CA]].
+{s:MR}{s:APG}**[[Alchimiste]].** Quand l’alchimiste utilise son [[Alchimiste#MUTAGENE|mutagène]], il gagne un bonus d’armure naturelle de +1/4 à la [[CA]].  
 Beaucoup de nains respectés pratiquent l'alchimie, mais ils sont peu nombreux à endosser véritablement le rôle d'alchimiste, si ce n'est dans le but de créer des bières magiques. Les nains considèrent les [[alchimiste|alchimistes]] comme des gens étranges qui méritent le respect, mais qu'il vaut mieux éviter.
 
 {s:MCA}**[[Arcaniste]].** Ajoute 1/4 au niveau de classe effectif de l’arcaniste quand il détermine les effets des [[Arcaniste#EXPLOITATION|exploitations]] d’arcaniste barrière arcanique et arme arcanique.
 
-{s:MR}{s:APG}**[[Barbare]].** Le barbare gagne +1 round de [[Barbare#RAGEDUBERZERKER|rage]] par jour.
+{s:MR}{s:APG}**[[Barbare]].** Le barbare gagne +1 round de [[Barbare#RAGEDUBERZERKER|rage]] par jour.  
 Les barbares nains, que leurs frères appellent généralement berserkers, forment une partie importante des armées naines. Certains deviennent aventuriers et partent en solitaires, bien souvent à la recherche de plus grands défis.
 
-{s:MR}{s:APG}**[[Barde]].** Les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de barde en [[armure intermédiaire]] diminuent de 1 %. Quand cette réduction atteint 10 %, le barde reçoit [[Port des armures intermédiaires]] s’il ne l’avait pas encore.
+{s:MR}{s:APG}**[[Barde]].** Les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de barde en [[armure intermédiaire]] diminuent de 1 %. Quand cette réduction atteint 10 %, le barde reçoit [[Port des armures intermédiaires]] s’il ne l’avait pas encore.  
 Rien n'a plus d'importance aux yeux des nains que leur longue et glorieuse histoire. Les bardes nains en apprennent généralement beaucoup à ce sujet en récitant des histoires et des ballades qui racontent leur passé. Bien sûr, tout bon barde nain connait également une dizaine de chanson à boire.
 
 {s:MCA}**[[Bretteur]].** Ajoute 1/4 au niveau effectif de classe du bretteur quand il détermine les dégâts supplémentaires de son exploit d’[[Exploits (bretteur)#ATTAQUEPRECISE|attaque précise]] et qu’il manie un [[pic de guerre léger (arme)|pic de guerre léger]] ou un [[pic de guerre lourd (arme)|pic de guerre lourd]]. Si le bretteur possède le don [[Grâce tranchante]] ou bénéficie d’un effet similaire, il considère la [[hache darmes (arme)|hache d'armes]] ou la [[hachette (arme)|hachette]] comme une arme de corps à corps perforante et bénéficie de cet avantage quand il manie l’arme associée au don.
@@ -146,7 +146,7 @@ Rien n'a plus d'importance aux yeux des nains que leur longue et glorieuse histo
 
 {s:MCA}**[[Chasseur]].** Ajoute un bonus de +1/2 aux tests d’[[Chasseur#EMPATHIESAUVAGE|empathie sauvage]] que le chasseur effectue pour influencer les [[type Animal|animaux]] et les [[type Créature magique|créatures magiques]] vivant sous terre.
 
-{s:MR}{s:APG}**[[Chevalier]].** Le chevalier gagne un bonus de +1/2 aux dégâts contre la cible de son [[chevalier#DEFI|défi]].
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier gagne un bonus de +1/2 aux dégâts contre la cible de son [[chevalier#DEFI|défi]].  
 Les chevaliers nains sont quasiment inexistants. Les chevaliers nains sont presque tous des habitants de la surface qui montent des poneys ou des sangliers géants. Comme on peut s'y attendre, de nombreux nains considèrent les chevaliers comme des gens étranges qui ne sont pas dignes de confiance.
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
@@ -155,23 +155,23 @@ Les chevaliers nains sont quasiment inexistants. Les chevaliers nains sont presq
 
 Oui, ils devraient <u>[[Demi-orque|tous]]</u> <u>[[Nain|deux]]</u> ne s’appliquer que lorsque le [[Cinétiste#BOUILLONNEMENTELEMENTAIRE|bouillonnement élémentaire]] s’applique, comme pour le bonus de classe de prédilection des [[Elfe|elfes]]. Cela sera reflété dans le prochain errata.}{s:AO}**[[Cinétiste]].** Le personnage inflige 1/3 point de dégâts supplémentaires aux [[Talents sauvages#EXPLOSIONDETERRE|explosions de terre]] qui infligent des dégâts et qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
 
-{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Conjurateur#EIDOLON|eidolon]].
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Conjurateur#EIDOLON|eidolon]].  
 La plupart des nains ne comprennent pas le lien qui unit un conjurateur et son eidolon et, de ce fait, c'est une profession plutôt rare au sein de leur race. Les eidolons des conjurateurs nains ressemblent souvent à des [[élémentaire de la Terre|élémentaires de la Terre]] ou à des [[golem de fer|golems de fer]].
 
-{s:MR}{s:APG}**[[Druide]].** Le druide choisit un [[druide#PACTEAVECLANATURE|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Druide]].** Le druide choisit un [[druide#PACTEAVECLANATURE|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 Comme le sous-sol ne comporte quasiment pas de flore, peu de nains deviennent des druides. Ceux qui se lient avec la nature sont généralement attirés par des formes de vie souterraines ou déménagent vers la surface et adoptent les environnements qu’ils y trouvent.
 
 {s:MCA}**[[Enquêteur]].** Ajoute un bonus de +1/4 aux tests de [[Perception]] effectués sous terre et un bonus de +1/2 à l’aptitude [[Enquêteur#SENSDESPIEGES|sens des pièges]] vis-à-vis des pièges de pierre.
 
-{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 aux dégâts des sorts et des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] du [[registre]] de l’acide ou de la terre.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 aux dégâts des sorts et des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] du [[registre]] de l’acide ou de la terre.  
 Dans la société naine, les rares individus qui tirent leurs pouvoirs de lignages nobles ou liés à des entités bienveillantes sont considérés comme précieux, mais ceux qui sont corrompus par des influences plus sombres sont mis à l’écart.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une [[bousculade]] ou un [[croc-en-jambe]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une [[bousculade]] ou un [[croc-en-jambe]].  
 Les guerriers nains occupent une position d'autorité et jouissent d'un grand respect dans la plupart des cultures naines. Ils sont bien nécessaires dans les milieux souterrains inhospitaliers. De nombreux nains sont formés au combat dès leur plus jeune âge.
 
 {s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/4 point les dégâts supplémentaires infligés par son [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]].
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur rajoute +1/2 à son niveau quand il détermine les effets d’un type de [[Inquisiteur#JUGEMENT|jugement]].
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur rajoute +1/2 à son niveau quand il détermine les effets d’un type de [[Inquisiteur#JUGEMENT|jugement]].  
 Il est très rare (mais pas inédit) qu'un nain trahisse son propre peuple. De ce fait, les rares nains qui deviennent inquisiteurs passent la plupart de leur temps à parcourir le monde et à protéger leur peuple contre les menaces venant de l'extérieur.
 
 {s:cs}{s:UI}**[[Justicier]].** Augmente de +1/2 le bonus d'[[Artisanat]] du talent [[Talents sociaux#GRACESOCIALE|grâce sociale]].
@@ -180,44 +180,44 @@ Il est très rare (mais pas inédit) qu'un nain trahisse son propre peuple. De c
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un [[Dons#DONCREATIONDOJET|don de création d’objet]] de sa connaissance. Quand il s’en sert pour créer quelque chose, il produit 200 po de matériel de plus par période de 8 heures (50 po s’il est en pleine aventure). Ceci ne réduit pas le coût de l’objet, juste sa vitesse de fabrication.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un [[Dons#DONCREATIONDOJET|don de création d’objet]] de sa connaissance. Quand il s’en sert pour créer quelque chose, il produit 200 po de matériel de plus par période de 8 heures (50 po s’il est en pleine aventure). Ceci ne réduit pas le coût de l’objet, juste sa vitesse de fabrication.  
 Il n'existe pas de longue tradition de magie profane chez les nains. Ceux qui étudient la magie sont rares, même s'ils sont plus nombreux que les ensorceleurs aux pouvoir innés. Les magiciens nains doivent renoncer aux apprentissages traditionnels nains, ce qui en fait souvent des étranger au sein de leur propre peuple. Les magiciens âgés et sages sont toutefois très respectés.
 
 {s:MR}**[[Magus]].** Le magus choisit un [[magus#ARCANE|arcane]] qu’il ne peut utiliser qu’une fois par jour. Il ajoute + 1/6 à son nombre d’utilisations quotidiennes. Il doit choisir un autre arcane une fois que le premier est disponible deux fois par jour.
 
 {s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/2 aux [[jds|jets de sauvegarde]] effectués contre la [[possession spirituelle|possession]] et pour arrêter une [[médium#CANALISATIONDAPPARITIONS|canalisation d’apparitions]], une [[médium#CANALISATIONDESSITES|canalisation de sites]] ou une [[médium#GRANDEÂME|grande âme]].
 
-{s:MR}{s:APG}**[[Moine]].** Quand le moine porte une [[attaque à mains nues]] contre un objet en argile, en pierre ou en métal, sa [[solidité]] est réduite de 1 (avec un minimum de 0).
+{s:MR}{s:APG}**[[Moine]].** Quand le moine porte une [[attaque à mains nues]] contre un objet en argile, en pierre ou en métal, sa [[solidité]] est réduite de 1 (avec un minimum de 0).  
 De nombreux nains possèdent la rigueur de caractère nécessaire au rôle de moine, mais la plupart d'entre eux s'orientent vers des formes de combat plus traditionnelles qui comprennent des armures lourdes et de bonnes vieilles haches. La majorité des moines nains se rassemblent dans de petites enclaves d'individus partageant un même état d'esprit.
 
 {s:AO}**[[Occultiste]].** Le personnage bénéficie d’un bonus de +1/3 aux tests d’[[Estimation]] et d’[[Utilisation dObjets magiques|Utilisation d’objets magiques]] quand des objets métalliques ou en pierre sont impliqués.
 
-{s:MR}{s:APG}**[[Oracle]].** Réduire de -1 le malus appliqué pour se servir d'un type d'arme en particulier sans formation préalable. Lorsque le malus pour un type d'arme tombe à 0 grâce à cette capacité, l'oracle fonctionne comme s'il possédait le don [[Maniement dune arme de guerre|Maniement d'une arme de guerre]]/[[Maniement dune arme exotique|exotique]] correspondant à ce type d'arme.
+{s:MR}{s:APG}**[[Oracle]].** Réduire de -1 le malus appliqué pour se servir d'un type d'arme en particulier sans formation préalable. Lorsque le malus pour un type d'arme tombe à 0 grâce à cette capacité, l'oracle fonctionne comme s'il possédait le don [[Maniement dune arme de guerre|Maniement d'une arme de guerre]]/[[Maniement dune arme exotique|exotique]] correspondant à ce type d'arme.  
 La plupart des oracles nains tirent leurs pouvoirs de la terre qui les entoure ou des esprits de leurs ancêtres, ce qui en fait des membres respectés de la société naine. Ils ne bénéficient pas de la même vénération que le clergé, mais on les consulte souvent en cas de crise et on fait appel à eux en période de guerre.
 
-{s:MR}{s:APG}**[[Paladin]].** Le paladin gagne un bonus de +1 aux tests de [[concentration]] quand il lance des sorts de paladin.
+{s:MR}{s:APG}**[[Paladin]].** Le paladin gagne un bonus de +1 aux tests de [[concentration]] quand il lance des sorts de paladin.  
 Peu de nains aspirent à suivre la voie du [[paladin]]. Les paladins nains, qui allient dévotion et prouesses martiales, peuvent être des croisés défendant les intérêts nains ou des gardes protégeant des places-fortes naines.
 
 {s:MR}**[[Pistolier]].** Le pistolier réduit les risques de [[armes à feu#LONGFEU|long feu]] d’une arme de 1/4. Le pistolier ne peut pas faire passer les risques de long feu en dessous de 1.
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un [[Prêtre#DOMAINES|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un [[Prêtre#DOMAINES|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les nains sont fort proches des [[Golarion.religions et philosophies|dieux]] et possède une longue tradition de prêtres puissants et influents. Ceux qui sont choisis pour une vie de dévotion sont formés dès leur plus jeune âge mais, après cet apprentissage, ils sont libres d'explorer le monde et de propager la foi.
 
 {s:MCA}**[[Prêtre combattant]].** Ajoute 1/3 au nombre d’utilisations quotidiennes de [[Prêtre combattant#BENEDICTIONS|bénédictions]] mais le prêtre combattant doit réserver ces utilisations supplémentaires à des bénédictions affectant les armes ou les armures uniquement.
 
 {s:AO}**[[Psychiste]].** Quand il lance des sorts psychiques d’[[abjuration]], le personnage ajoute 1/2 [[NLS|niveau à son niveau de lanceur de sorts]], mais uniquement pour déterminer leur [[présentation des sorts#DUREE|durée]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus de +1/2 aux tests d’[[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] pour influencer des animaux ou des créatures magiques qui vivent sous terre.
+{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus de +1/2 aux tests d’[[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] pour influencer des animaux ou des créatures magiques qui vivent sous terre.  
 Les nains sont connus pour garder longtemps rancune. Ce n'est donc pas une surprise de voir qu'un bon nombre d'entre eux décident de devenir rôdeurs et de se concentrer sur la destruction des ennemis de leur peuple.
 
-{s:MR}{s:APG}**[[Roublard]].** Le roublard gagne un bonus de +1/2 aux tests de [[Sabotage]] quand il travaille sur un [[pièges]] de pierre et un bonus de +1/2 au [[Roublard#RECHERCHEDESPIEGES|sens des pièges]] vis-à-vis de ces mêmes pièges de pierre.
+{s:MR}{s:APG}**[[Roublard]].** Le roublard gagne un bonus de +1/2 aux tests de [[Sabotage]] quand il travaille sur un [[pièges]] de pierre et un bonus de +1/2 au [[Roublard#RECHERCHEDESPIEGES|sens des pièges]] vis-à-vis de ces mêmes pièges de pierre.  
 Les nains qui s'intéressent à l'art du subterfuge s'orientent plutôt vers la manipulation des pièges et l'organisation d'attaques surprises que vers des carrières de tire-laine ou d'orateurs.
 
 {s:MCA}**[[Sanguin]].** Augmente le nombre total quotidien de rounds de [[Sanguin#RAGESANGUINE|rage sanguine]] de 1.
 
 {s:MCA}**[[Scalde]].** Les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de scalde en [[armure lourde]] diminuent de 1 %. Quand cette réduction atteint 10 %, le scalde reçoit [[Port des armures lourdes]] s’il ne l’avait pas encore.
 
-{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Sorcière#FAMILIER|familier]].
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Sorcière#FAMILIER|familier]].  
 Les naines qui passent un pacte avec un [[familier]] et prennent le titre de [[sorcière|sorcières]] le font en secret. La société naine se méfie de ce genre d'accords et préfère plutôt faire appel aux pouvoirs de ses dieux.
 
 {s:AO}**[[Spirite]].** Le personnage ajoute 1/6 au bonus de bouclier conféré par la capacité [[spirite#MANIFESTATIONINTERNEECTOPLASMIQUE|manifestation interne ectoplasmique]] de niveau 3.

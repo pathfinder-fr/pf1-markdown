@@ -7,7 +7,7 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**Prix** 1 po ; **Poids** 0,25 kg
+{s:RSE}**Prix** 1 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette longueur de fil est marquée tous les trente centimètres pour faciliter la prise de mesure. Une corde métrée se vend par longueur de trois mètres.

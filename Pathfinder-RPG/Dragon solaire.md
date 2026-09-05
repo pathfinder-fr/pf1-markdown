@@ -75,7 +75,7 @@ LastModified: 2021-07-14 10:22
 | [[Dragon solaire adulte]] | &nbsp; | 13 |
 | [[Dragon solaire vénérable]] | &nbsp; | 18 |
 
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce majestueux dragon brille comme le soleil. Ses ailes polies luisent de couleurs flamboyantes et une couronne de cornes orne sa tête.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce majestueux dragon brille comme le soleil. Ses ailes polies luisent de couleurs flamboyantes et une couronne de cornes orne sa tête.*  
 
 Arrogants et fiers, les dragons solaires se considèrent comme les géniteurs de la lumière et de la vie dans l’immensité de l’espace. Ils considèrent toutes les créatures vivantes comme leurs propres créations.
 

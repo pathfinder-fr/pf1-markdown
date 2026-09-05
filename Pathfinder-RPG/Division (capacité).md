@@ -4,6 +4,6 @@ Title: Division (Ext)
 LastModified: 2012-01-10 18:53
 ---
 
-La créature peut se diviser en deux copies identiques d’elle-même lorsqu’elle est soumise à certaines attaques ou certains effets. Chaque copie possède la moitié du nombre de points de vie de l’original (arrondi vers le bas). Si la créature est amenée sous la limite de points de vie indiquée, elle ne peut plus se diviser et peut alors être tuée normalement.
+La créature peut se diviser en deux copies identiques d’elle-même lorsqu’elle est soumise à certaines attaques ou certains effets. Chaque copie possède la moitié du nombre de points de vie de l’original (arrondi vers le bas). Si la créature est amenée sous la limite de points de vie indiquée, elle ne peut plus se diviser et peut alors être tuée normalement. 
 
 *Format* : division (perforant et tranchant, 10 pv). *Emplacement* : Capacités défensives.

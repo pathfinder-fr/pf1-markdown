@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Cette tenue comprend des bottes, une jupe ou un pantalon en laine, une ceinture solide, une chemise (avec éventuellement une veste ou un veston) et une large cape à capuche.

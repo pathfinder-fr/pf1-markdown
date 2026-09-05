@@ -9,12 +9,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Invocation]] ([[branche guérison|guérison]]) <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Prêtre|Prê]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un bâtonnet d’encens traité avec des baumes spéciaux)
-**Portée** 6 m
-**Zone d'effet** émanation sphérique de 6 m de rayon centrée sur le personnage
-**Durée** concentration, jusqu’à un maximum de 1 round par niveau
+{s:MMI}**École** [[Invocation]] ([[branche guérison|guérison]]) <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Prêtre|Prê]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un bâtonnet d’encens traité avec des baumes spéciaux)  
+**Portée** 6 m  
+**Zone d'effet** émanation sphérique de 6 m de rayon centrée sur le personnage  
+**Durée** concentration, jusqu’à un maximum de 1 round par niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** oui (inoffensif)
 
 *Comme tout astrologue ou érudit spécialiste du folklore de la déesse des étoiles pourra le dire, la musique des sphères est une harmonie constante jouée sous et au travers de l’ensemble de la réalité. C’est ce chant constant, cette musique surnaturelle qui maintient en place les lois de la réalité et renforce les connexions entre les plans d’existence.*

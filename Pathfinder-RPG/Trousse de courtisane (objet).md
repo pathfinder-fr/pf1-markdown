@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
+{s:MCA}**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse contient des objets pour aider la courtisane à apaiser le corps et l'esprit. Pour le corps, la trousse contient un rasoir, des huiles et des baumes parfumés, des parfums, une chaufferette et diverses tenues séduisantes. Des ouvrages de poésie, de littérature et de théâtre (traitant souvent de sujets salaces et pleins de sous-entendus) permettent de se distraire l'esprit.

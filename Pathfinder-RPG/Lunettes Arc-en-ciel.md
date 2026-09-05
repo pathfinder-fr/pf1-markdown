@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:54
 {s:BDTitre|Lunettes arc-en-ciel|{s:AE}}
 **Aura** [[Enchantement]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 21.000 po ; **Poids** —
 (((Description)))
-Ces lunettes empêchent leur porteur de discerner les couleurs, il perçoit tout en nuances de gris, comme avec la vision dans le noir. Une fois par jour, il peut lancer les sorts de *[[couleurs dansantes]]*, *[[lueurs hypnotiques]]* et *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*.
+Ces lunettes empêchent leur porteur de discerner les couleurs, il perçoit tout en nuances de gris, comme avec la vision dans le noir. Une fois par jour, il peut lancer les sorts de *[[couleurs dansantes]]*, *[[lueurs hypnotiques]]* et *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[couleurs dansantes]]*, *[[lueurs hypnotiques]]*, *[[Lueur darc-en-ciel|lueur d’arc-en-ciel]]*  ; **Coût** 10.500 po
 </div>

@@ -42,7 +42,7 @@ LastModified: 2021-07-15 17:22
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[léchi|léchis]].***</li></ul>*L’épais chapeau de cette plante en forme de champignon est constellé d’yeux dépareillés tandis que sa partie inférieure présente une immense gueule pourvue de dents fongiques très pâles.*
 
 Gardiens des forêts de champignons souterraines et des fosses de compost en décomposition au fond des marécages, les léchis fongiques règnent sur la croissance souterraine et la décomposition qui alimente la vie nouvelle. Ces tout petits fermiers moisis font partie des plus étranges et des plus monstrueux des léchis mais leur apparence effrayante a plus à voir avec l’inquiétante
-asymétrie intrinsèque aux moisissures et aux champignons qu’avec une expression physique du mal. Comme tous leurs semblables, les léchis fongiques se présentent sous des formes variées et adoptent souvent les couleurs et la silhouette de champignons et autres moisissures répandues dans les zones qu’ils gardent.
+asymétrie intrinsèque aux moisissures et aux champignons qu’avec une expression physique du mal. Comme tous leurs semblables, les léchis fongiques se présentent sous des formes variées et adoptent souvent les couleurs et la silhouette de champignons et autres moisissures répandues dans les zones qu’ils gardent. 
 
 Les léchis fongiques sont la progéniture des royaumes de merveilles souterraines ou des lieux pourrissant du monde naturel. Ils rendent des services essentiels aux terres qu’ils gardent, encourageant la croissance des champignons, transportant les matières en décomposition pour fertiliser d’autres plantes et faisant un usage maximal des pousses mortes. Les léchis fongiques sont surtout actifs de nuit, passant la journée sous forme de champignons charnus reposant au milieu de leurs tas de compost ou de leurs vallons fongiques les plus fertiles.
 
@@ -51,8 +51,8 @@ Les léchis fongiques mesurent 60 centimètres de haut et pèsent 12,5 kilos, l�
 ### Faire pousser un léchi fongique
 On fait généralement pousser les léchis fongiques dans le compost des bosquets sylvaniens, dans les nids de moisissures des profonds souterrains ou sur les sinistres monticules que l’on trouve au coeur des terrains marécageux denses et épais.
 
-**NLS** 8 ; **Prix** 2 500 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[brume de dissimulation]]*, *[[convocation dalliés naturels II|convocation d’alliés naturels II]]*, *[[croissance végétale]]*
+**NLS** 8 ; **Prix** 2 500 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[brume de dissimulation]]*, *[[convocation dalliés naturels II|convocation d’alliés naturels II]]*, *[[croissance végétale]]*  
 **Compétences** [[Connaissances]] (exploration souterraine ou nature) [[DD]] 14 ; **Coût** 1 250 po
 </div>
 

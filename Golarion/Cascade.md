@@ -7,6 +7,6 @@ Categories:
 - Taldor
 ---
 
-Rivière du [[Taldor]] qui prend sa source dans le [[Bord du Monde]] et se jette dans la [[Fourche du Verduran]].
+Rivière du [[Taldor]] qui prend sa source dans le [[Bord du Monde]] et se jette dans la [[Fourche du Verduran]]. 
 
 La rivière est dangereuse à naviguer du fait de ses nombreuses cascades et rapides. Depuis sa source, elle dégringole d'environ 5 000 mètres avant d'atteindre les [[Plaines du Tandak]].

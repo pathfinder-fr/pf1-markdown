@@ -19,7 +19,7 @@ Categories:
 
 **Avantages** Quand vous utilisez une épée longue, une rapière ou toute autre arme de mêlée dont le nom contient "elfique" ou "elfe", les tests de manœuvre offensive réalisés avec cette arme lors d'attaque d'opportunité ne provoquent pas d'attaques d'opportunité.
 
-(((Elven battle style (combat,style)
-You wield traditional elven weapons with grace.
-Prerequisite(s): Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait.
+(((Elven battle style (combat,style)  
+You wield traditional elven weapons with grace.  
+Prerequisite(s): Elven Battle Training, Weapon Finesse, base attack bonus +1, weapon familiarity racial trait.  
 Benefit(s): While wielding a longsword, a rapier, or any melee weapon that has “elven” in its name, combat maneuver checks attempted with that weapon as attacks of opportunity don’t themselves provoke attacks of opportunity.)))

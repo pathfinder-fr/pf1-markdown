@@ -8,7 +8,7 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:RSE}*Tous les Explorateurs n’ont pas pour principale préoccupation l’élaboration de récits. Certains sont davantage dans leur élément quand ils foulent un sol vierge depuis des années, voire des siècles, à la recherche du prochain défi, du prochain donjon ou du prochain trésor antique. Les Explorateurs préfèrent laisser à d’autres la tenue de journaux et s’embarquer vers de nouvelles grandes aventures avant même que l’encre n’ait séché sur les carnets de l’aventure précédente. Les Explorateurs ont de multiples profils, des archéologues passionnés aux aventuriers à la recherche du frisson, en passant par les pilleurs de tombes sans scrupules. Leur choix de compagnons est tout aussi varié : certains voyagent avec d’autres Explorateurs, d’autres avec toute personne prête à se joindre à leurs quêtes, d’autres encore préfèrent partir seuls et font confiance au talent et à la chance pour les ramener vivants. Presque tous partagent l’amour de la connaissance et de l’histoire, et préféreraient voir une découverte historique dans les mains de quelqu’un d’autre plutôt que détruite ou perdue à jamais.*
+{s:MenuClassesDePrestige}{s:cs}{s:RSE}*Tous les Explorateurs n’ont pas pour principale préoccupation l’élaboration de récits. Certains sont davantage dans leur élément quand ils foulent un sol vierge depuis des années, voire des siècles, à la recherche du prochain défi, du prochain donjon ou du prochain trésor antique. Les Explorateurs préfèrent laisser à d’autres la tenue de journaux et s’embarquer vers de nouvelles grandes aventures avant même que l’encre n’ait séché sur les carnets de l’aventure précédente. Les Explorateurs ont de multiples profils, des archéologues passionnés aux aventuriers à la recherche du frisson, en passant par les pilleurs de tombes sans scrupules. Leur choix de compagnons est tout aussi varié : certains voyagent avec d’autres Explorateurs, d’autres avec toute personne prête à se joindre à leurs quêtes, d’autres encore préfèrent partir seuls et font confiance au talent et à la chance pour les ramener vivants. Presque tous partagent l’amour de la connaissance et de l’histoire, et préféreraient voir une découverte historique dans les mains de quelqu’un d’autre plutôt que détruite ou perdue à jamais.* 
 
 <center>
 
@@ -130,7 +130,7 @@ Categories:
 ### Conditions
 Pour devenir un Explorateur, un personnage doit satisfaire aux conditions suivantes.
 
-**Compétences.** 5 rangs en [[Acrobaties]], 4 rangs en [[Connaissances]] (histoire), 5 rangs en [[Perception]], 4 rangs en [[Sabotage]].
+**Compétences.** 5 rangs en [[Acrobaties]], 4 rangs en [[Connaissances]] (histoire), 5 rangs en [[Perception]], 4 rangs en [[Sabotage]]. 
 
 **Spécial.** Le personnage doit avoir découvert un objet de valeur historique dans une ruine antique ou un lieu ancien semblable.
 
@@ -148,7 +148,7 @@ Un Explorateur ne gagne aucune compétence dans le maniement des armes ni dans l
 
 {s:Reference|SAVOIRBARDIQUE}
 #### Savoir bardique (Ext)
-Cette capacité est identique à la [[Barde#SAVOIRBARDIQUE|capacité]] de [[barde]] du même nom. Les niveaux de cette classe se cumulent avec les niveaux de n’importe quelle autre classe qui accorde savoir bardique ou une capacité similaire.
+Cette capacité est identique à la [[Barde#SAVOIRBARDIQUE|capacité]] de [[barde]] du même nom. Les niveaux de cette classe se cumulent avec les niveaux de n’importe quelle autre classe qui accorde savoir bardique ou une capacité similaire. 
 
 {s:Reference|MAÎTREEXPLORATEUR}
 #### Maître explorateur (Ext)
@@ -156,23 +156,23 @@ Un Explorateur ajoute la moitié de son niveau de classe (minimum 1) comme bonus
 
 {s:Reference|PIEDSÛR}
 #### Pied sûr (Ext)
-À partir du niveau 2, un Explorateur peut évoluer en [[terrain difficile]] (tel que collines, montagnes, débris, ruines et assimilés) à sa [[VD|vitesse normale]]. Une zone qui a été magiquement manipulée pour gêner les déplacements l’affecte toujours normalement.
+À partir du niveau 2, un Explorateur peut évoluer en [[terrain difficile]] (tel que collines, montagnes, débris, ruines et assimilés) à sa [[VD|vitesse normale]]. Une zone qui a été magiquement manipulée pour gêner les déplacements l’affecte toujours normalement. 
 
 {s:Reference|SENSDESPIÈGES}
 #### Sens des Pièges (Ext)
-Cette capacité est identique à la [[Roublard#SENSDESPIEGES|capacité]] de classe de [[roublard]], et se cumule avec elle sauf que l'Explorateur l'obtient au niveau 2 et qu'elle augmente ensuite seulement tous les 3 niveaux.
+Cette capacité est identique à la [[Roublard#SENSDESPIEGES|capacité]] de classe de [[roublard]], et se cumule avec elle sauf que l'Explorateur l'obtient au niveau 2 et qu'elle augmente ensuite seulement tous les 3 niveaux. 
 
 {s:Reference|ÉVASIONPALPITANTE}
 #### Évasion palpitante (Ext)
-Au niveau 3, un explorateur peut tenter de retarder un piège immédiatement après l’avoir déclenché. Pour utiliser cette capacité, il fait un test de [[Sabotage]] par une [[action immédiate]] contre le [[DD]] de Sabotage du piège ; s’il réussit, l’activation du piège est retardée jusqu’à la fin du prochain tour de l’Explorateur. Le personnage peut tenter ce jet même si le piège a été activé par un test raté de Sabotage et si ce n’est pas son tour. Il peut activer cette capacité une fois par jour au niveau 4, deux fois par jour au niveau 7, et trois fois par jour au niveau 9 ou au-delà.
+Au niveau 3, un explorateur peut tenter de retarder un piège immédiatement après l’avoir déclenché. Pour utiliser cette capacité, il fait un test de [[Sabotage]] par une [[action immédiate]] contre le [[DD]] de Sabotage du piège ; s’il réussit, l’activation du piège est retardée jusqu’à la fin du prochain tour de l’Explorateur. Le personnage peut tenter ce jet même si le piège a été activé par un test raté de Sabotage et si ce n’est pas son tour. Il peut activer cette capacité une fois par jour au niveau 4, deux fois par jour au niveau 7, et trois fois par jour au niveau 9 ou au-delà. 
 
 {s:Reference|BRISEGARDE}
 #### Brise-garde (Ext)
-Au niveau 3, l’Explorateur s’est habitué aux étranges gardiens qui protègent souvent les tombes, ce qui lui permet de les attaquer plus efficacement. Il peut traiter son bonus de sens des pièges comme s’il s’agissait d’un bonus d’[[ennemi juré]] contre les créatures artificielles, les vases ou les morts-vivants ; ce bonus se cumule avec tous les bonus d’ennemi juré de rôdeur ou de capacités de classe similaires.
+Au niveau 3, l’Explorateur s’est habitué aux étranges gardiens qui protègent souvent les tombes, ce qui lui permet de les attaquer plus efficacement. Il peut traiter son bonus de sens des pièges comme s’il s’agissait d’un bonus d’[[ennemi juré]] contre les créatures artificielles, les vases ou les morts-vivants ; ce bonus se cumule avec tous les bonus d’ennemi juré de rôdeur ou de capacités de classe similaires. 
 
 {s:Reference|DÉSAMORCAGEINGÉNIEUX}
 #### Désamorçage ingénieux (Ext)
-Les explorateurs sont adeptes de l’art d’utiliser ce qui leur tombe sous la main. Au niveau 4, le personnage ne souffre pas de malus s’il utilise sa compétence de [[Sabotage]] sans outils.
+Les explorateurs sont adeptes de l’art d’utiliser ce qui leur tombe sous la main. Au niveau 4, le personnage ne souffre pas de malus s’il utilise sa compétence de [[Sabotage]] sans outils. 
 
 {s:Reference|COMBATTANTVIGILANT}
 #### Combattant vigilant (Ext)
@@ -180,15 +180,15 @@ Les explorateurs sont adeptes de l’art d’utiliser ce qui leur tombe sous la 
 
 {s:Reference|LAISSÉPOURMORT}
 #### Laissé pour mort (Sur)
-Une fois par jour, un Explorateur de niveau 5 peut tromper la mort. S’il devait être tué par une attaque de mêlée, une attaque à distance ou un effet nécessitant un [[jds|jet de sauvegarde]], il est, au lieu de mourir, réduit à -1 [[pv|point de vie]] et rendu [[inconscient]], mais son état est stable. Le personnage semble mort (bien qu’un test de [[Premiers secours]] [[DD]] 25 ou des capacités qui permettent de sentir la vie telles que [[perception de la mort]] révèlent qu’il ne l’est pas), mais après 1 minute, il regagne 1 pv et se réveille (à moins qu’il ne soit soigné plus tôt).
+Une fois par jour, un Explorateur de niveau 5 peut tromper la mort. S’il devait être tué par une attaque de mêlée, une attaque à distance ou un effet nécessitant un [[jds|jet de sauvegarde]], il est, au lieu de mourir, réduit à -1 [[pv|point de vie]] et rendu [[inconscient]], mais son état est stable. Le personnage semble mort (bien qu’un test de [[Premiers secours]] [[DD]] 25 ou des capacités qui permettent de sentir la vie telles que [[perception de la mort]] révèlent qu’il ne l’est pas), mais après 1 minute, il regagne 1 pv et se réveille (à moins qu’il ne soit soigné plus tôt). 
 
 {s:Reference|ÂMEFORTUNÉE}
 #### Âme fortunée (Sur)
-Une fois par jour au niveau 6, l’Explorateur peut relancer n’importe quel [[jds|jet de sauvegarde]] qu’il vient de faire avant que les résultats du jet ne soient révélés. Il doit garder le résultat du nouveau jet, même s’il est plus mauvais que le jet initial. Il peut utiliser cette capacité deux fois par jour au niveau 10.
+Une fois par jour au niveau 6, l’Explorateur peut relancer n’importe quel [[jds|jet de sauvegarde]] qu’il vient de faire avant que les résultats du jet ne soient révélés. Il doit garder le résultat du nouveau jet, même s’il est plus mauvais que le jet initial. Il peut utiliser cette capacité deux fois par jour au niveau 10. 
 
 {s:Reference|VISIONLUCIDE}
 #### Vision lucide (Mag)
-Au niveau 9, un Explorateur peut utiliser *[[vision lucide]]* une fois par jour. Son niveau de lanceur de sorts est égal à son niveau de classe.
+Au niveau 9, un Explorateur peut utiliser *[[vision lucide]]* une fois par jour. Son niveau de lanceur de sorts est égal à son niveau de classe. 
 
 {s:Reference|INEXTREMIS}
 #### In extremis (Ext)

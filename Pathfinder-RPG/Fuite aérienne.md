@@ -14,7 +14,7 @@ Categories:
 ---
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}
-**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#AIR|air]]<nowiki>]</nowiki> ;
+**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#AIR|air]]<nowiki>]</nowiki> ; 
 **Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 **Temps d'incantation** 1 [[action immédiate]]  
 **Composantes** [[composantes|V, G]]  

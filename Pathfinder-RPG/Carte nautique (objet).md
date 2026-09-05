@@ -7,7 +7,7 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 25 po ; **Poids** —
+{s:PMI}**Prix** 25 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Pour certains de leurs acquéreurs, les cartes nautiques s'avèrent plus précieuses que l'or. Ces cartes représentent les voies navigables, la profondeur des eaux, la hauteur et le contour des côtes, ainsi que les courants, les ports, les dangers pour la navigation, les récifs et les marées. Une carte nautique confère un bonus de circonstances de +4 aux tests de [[Profession]] (marin) effectués pour s'orienter dans une zone décrite sur celle-ci.

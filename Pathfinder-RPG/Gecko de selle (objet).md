@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:AE}{s:MR}**Prix** 300 po (normal), 400 po (entraîné au combat) ; **Poids** 600 kg (normal), 750 kg (entraîné au combat)
+{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:AE}{s:MR}**Prix** 300 po (normal), 400 po (entraîné au combat) ; **Poids** 600 kg (normal), 750 kg (entraîné au combat)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces gigantesques lézards sont plus grands que les geckos géants et spécialement dressés comme pour servir de montures. Ils sont très prisés pour leur capacité à courir le long des parois de grottes et des murs à pic mais ils nécessitent des selles spéciales. Le gecko de selle a les mêmes statistiques que le [[Gecko géant]] avec l’archétype [[archétypes#CREATUREGEANTE|géant]].

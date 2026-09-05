@@ -51,48 +51,48 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[archon|archons]].***</li></ul>
 *Ce planétaire miniature fend les airs en faisant jaillir, de temps en temps, de fines lames aiguisées. *
 
-Bien qu’ils fassent partie des
-archons les moins importants, les
-annonciateurs sont entièrement
-dévoués à la lutte contre le Mal.
-Ces êtres minuscules servent de
-hérauts et d’adjoints aux forces du
-Paradis. Lorsqu’ils sont sur le plan
-Matériel, ils conseillent les mortels
-sur la meilleure façon de servir les
-causes de l’ordre et de la lumière.
-Certains s’aventurent même sur
-d’autres plans extérieurs en tant
-qu’ambassadeurs mineurs. Les
-annonciateurs peuvent également
-être engagés comme familiers, rôle
-qu’ils endossent avec enthousiasme,
-prenant la pleine responsabilité de guider
-l’âme de leur maître vers le salut. Un lanceur
-de sorts doit avoir le don [[Familier supérieur]], un
-[[alignement]] Loyal Bon et un [[NLS|niveau de lanceur de sorts]]
+Bien qu’ils fassent partie des 
+archons les moins importants, les 
+annonciateurs sont entièrement 
+dévoués à la lutte contre le Mal. 
+Ces êtres minuscules servent de 
+hérauts et d’adjoints aux forces du 
+Paradis. Lorsqu’ils sont sur le plan 
+Matériel, ils conseillent les mortels 
+sur la meilleure façon de servir les 
+causes de l’ordre et de la lumière. 
+Certains s’aventurent même sur 
+d’autres plans extérieurs en tant 
+qu’ambassadeurs mineurs. Les 
+annonciateurs peuvent également 
+être engagés comme familiers, rôle 
+qu’ils endossent avec enthousiasme, 
+prenant la pleine responsabilité de guider 
+l’âme de leur maître vers le salut. Un lanceur 
+de sorts doit avoir le don [[Familier supérieur]], un 
+[[alignement]] Loyal Bon et un [[NLS|niveau de lanceur de sorts]] 
 profanes de 7 ou plus pour posséder un familier annonciateur.
-L’annonciateur ressemble à une maquette mécanique
-tournoyante du système planétaire. Son soleil, ses lunes et ses
-planètes sont de tout petits joyaux sculptés et brillants dont les
-couleurs varient en fonction de l’humeur de l’annonciateur.
-Entre ses composants tourbillonnants, dansent des arcs
-électriques et des étincelles d’essence magique. L’annonciateur
-peut désassembler chacun de ses composants pour se faufiler
-dans de petits espaces, ses anneaux se dissolvant en vapeur
-scintillante pour ne laisser que ses étoiles et ses planètes. Les
-annonciateurs éclairent aussi bien qu’une torche dans des
-conditions normales, mais peuvent réduire cette lumière à une
-faible lueur s’ils le souhaitent, et transforment souvent une
+L’annonciateur ressemble à une maquette mécanique 
+tournoyante du système planétaire. Son soleil, ses lunes et ses 
+planètes sont de tout petits joyaux sculptés et brillants dont les 
+couleurs varient en fonction de l’humeur de l’annonciateur. 
+Entre ses composants tourbillonnants, dansent des arcs 
+électriques et des étincelles d’essence magique. L’annonciateur 
+peut désassembler chacun de ses composants pour se faufiler 
+dans de petits espaces, ses anneaux se dissolvant en vapeur 
+scintillante pour ne laisser que ses étoiles et ses planètes. Les 
+annonciateurs éclairent aussi bien qu’une torche dans des 
+conditions normales, mais peuvent réduire cette lumière à une 
+faible lueur s’ils le souhaitent, et transforment souvent une 
 petite partie de leur essence en lumières dansantes.
-La voix d’un archon annonciateur rappelle le tintement de
-dizaines de petites clochettes et, qu’importent les langues qu’il
-parle, sa voix conserve toujours cette musicalité. La plupart
-des archons annonciateurs sont des âmes qui, avant leur mort,
-menaient une vie simple et pieuse, emplie de sagesse. Ils n’ont
-aucun souvenir de leur existence mortelle mais conservent
-une approche résolument pratique, quoique paroissiale, des
-questions universelles. Il est très rare qu’un annonciateur n’ait
-pas une parabole ou un proverbe relatif à sa tâche actuelle.
+La voix d’un archon annonciateur rappelle le tintement de 
+dizaines de petites clochettes et, qu’importent les langues qu’il 
+parle, sa voix conserve toujours cette musicalité. La plupart 
+des archons annonciateurs sont des âmes qui, avant leur mort, 
+menaient une vie simple et pieuse, emplie de sagesse. Ils n’ont 
+aucun souvenir de leur existence mortelle mais conservent 
+une approche résolument pratique, quoique paroissiale, des 
+questions universelles. Il est très rare qu’un annonciateur n’ait 
+pas une parabole ou un proverbe relatif à sa tâche actuelle. 
 
 </div></td></tr></table>

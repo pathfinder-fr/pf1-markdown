@@ -8,12 +8,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, F]] (pierre angulaire miniature taillée dans des pierres précieuses d'une valeur de 500 po)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** manoir opulent, jusqu'à 90 m de côté et un étage/4 niveaux
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, F]] (pierre angulaire miniature taillée dans des pierres précieuses d'une valeur de 500 po)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** manoir opulent, jusqu'à 90 m de côté et un étage/4 niveaux  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort crée un immense manoir. Lorsqu'il lance le sort, le personnage garde une image du manoir et l'apparence qu'il lui souhaite à l'esprit. Le manoir peut contenir autant de pièces qu'il désire, et peut être décoré pour correspondre à l'image qu'il s'en fait. Le personnage peut imaginer une fonction à chaque pièce du manoir, et l'ameublement adéquat pour la remplir. Le mobilier et les autres dispositifs fonctionnent normalement pour quiconque se trouve dans le manoir, mais cessent d'exister s'ils quittent ses murs. Aucun matériel créé avec ce sort ne peut manifester d'effets magiques, mais l'équipement magique ramené à l'intérieur fonctionne normalement.

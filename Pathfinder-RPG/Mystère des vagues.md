@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:MenuMystères}{s:APG}
-**Compétences de classe.** Un oracle du mystère des vagues ajoute [[Acrobaties]], [[Évasion]], [[Connaissances]] (nature) et [[Natation]] à sa liste de compétences de classe.
+**Compétences de classe.** Un oracle du mystère des vagues ajoute [[Acrobaties]], [[Évasion]], [[Connaissances]] (nature) et [[Natation]] à sa liste de compétences de classe. 
 
 **Sorts supplémentaires.** *[[Caresse de la mer]]* (2), *[[vague]]* (4), *[[respiration aquatique]]* (6), *[[mur de glace]]* (8), *[[geyser]]* (10), *[[forme liquide]]* (12), *[[vortex]]* (14), *[[manteau marin]]* (16), *[[tsunami]]* (18)
 

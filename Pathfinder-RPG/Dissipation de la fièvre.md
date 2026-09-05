@@ -20,8 +20,8 @@ Categories:
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 **Cible** une créature  
 **Durée** 10 minutes/[[niveau]] (voir texte)  
-**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
-([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] 
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui 
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] )
 
 Le personnage calme la [[maladie]] et la [[nauséeux|nausée]] de sa cible, ce qui lui donne un bonus de moral de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[maladie]], la [[nauséeux|nausée]] et la [[fiévreux|fièvre]]. Si la cible est déjà soumise à l’un de ces effets quand elle reçoit le sort, l’effet est supprimé pendant toute la durée du sort.

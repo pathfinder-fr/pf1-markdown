@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po
+{s:AE}**Prix** 1 po  
 <span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
----
+<hr />
 Ce titre intègre les domestiques, les majordomes, les femmes de chambre, les dames d’honneur, les secrétaires, les intendants, les concierges, les chefs de personnel, le personnel de ménage et les autres serviteurs et employés qualifiés et de confiance travaillant dans l’entourage direct de l’employeur ou dirigeant la maison ou l’entreprise, parfois sans supervision directe. Le prix est indiqué par jour.

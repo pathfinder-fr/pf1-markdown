@@ -47,9 +47,9 @@ LastModified: 2023-11-20 14:01
 </td><td><div>
 *L’énorme amas animé de cadavres en armes et en armures avance en ondulant, telle une tour de siège composée de chair et bardée d’acier.*
 
-Les vers de guerre sont des amas morts-vivants massifs, chaotiques, qui changent sans arrêt de forme. Ils sont composés d’innombrables cadavres de soldats en armes et en armures tombés au combat. La forme serpentine et désordonnée du ver de guerre produit une cacophonie métallique grotesque alors que les armes et les armures d’innombrables âmes s’entrechoquent comme si elles continuaient de mener une bataille sans fin.
+Les vers de guerre sont des amas morts-vivants massifs, chaotiques, qui changent sans arrêt de forme. Ils sont composés d’innombrables cadavres de soldats en armes et en armures tombés au combat. La forme serpentine et désordonnée du ver de guerre produit une cacophonie métallique grotesque alors que les armes et les armures d’innombrables âmes s’entrechoquent comme si elles continuaient de mener une bataille sans fin. 
 
-Un ver de guerre se forme par la volonté d’un dieu ou d’une déesse de la mort-vivance ou de la guerre, ou spontanément sur un champ de bataille, animée par la soif de sang et la fureur dont ont fait preuve les soldats décédés. Une fois créé, le ver de guerre a pour seul but de propager la rage des combats, de ravager les contrées et de semer le carnage.
+Un ver de guerre se forme par la volonté d’un dieu ou d’une déesse de la mort-vivance ou de la guerre, ou spontanément sur un champ de bataille, animée par la soif de sang et la fureur dont ont fait preuve les soldats décédés. Une fois créé, le ver de guerre a pour seul but de propager la rage des combats, de ravager les contrées et de semer le carnage. 
 
 Un ver de guerre typique pèse plusieurs tonnes et peut atteindre une hauteur maximale de 7,50 mètres. Un ver nouvellement formé est bien plus petit, mais il atteint rapidement cette taille en absorbant les cadavres d’un champ de bataille ou d’un
 charnier proche. Le ver de guerre est toujours avide de morts à assimiler. Il préfère ceux des combattants et des soldats, mais absorbe volontiers tous ceux des humanoïdes. Les perpétuels mouvements de broyage de sa masse corporelle brisent tous les éléments qui la composent, ce qui lui donne la matière nécessaire pour projeter de la ferraille sur les adversaires éloignés.

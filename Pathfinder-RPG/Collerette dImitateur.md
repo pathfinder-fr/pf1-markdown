@@ -8,7 +8,7 @@ LastModified: 2024-05-31 16:15
 {s:BDTitre|Collerette d’imitateur|{s:AE}}
 **Aura** [[Illusion]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 3.500 po ; **Poids** —
 (((Description)))
-Le plus souvent confectionnées en soie de couleur vive, les collerettes d’imitateur sont particulièrement appréciées des artistes et des escrocs. Le porteur d’une telle collerette gagne un bonus de +10 aux tests de [[Bluff]] pour tenter d’imiter la voix d’un individu. De plus, il peut parler à distance pendant 5 minutes, comme s’il utilisait le sort *[[ventriloquie]]*.
+Le plus souvent confectionnées en soie de couleur vive, les collerettes d’imitateur sont particulièrement appréciées des artistes et des escrocs. Le porteur d’une telle collerette gagne un bonus de +10 aux tests de [[Bluff]] pour tenter d’imiter la voix d’un individu. De plus, il peut parler à distance pendant 5 minutes, comme s’il utilisait le sort *[[ventriloquie]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[manipulation des sons]]*, *[[ventriloquie]]*  ; **Coût** 1.750 po
 </div>

@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Barde|Bard]] 4, [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (un morceau d'une nourriture que l'animal apprécie)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** un animal de taille M ou inférieure
-**Durée** 1 jour/niveau ou jusqu'à ce que le message soit délivré
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Barde|Bard]] 4, [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (un morceau d'une nourriture que l'animal apprécie)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** un animal de taille M ou inférieure  
+**Durée** 1 jour/niveau ou jusqu'à ce que le message soit délivré  
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** non
 
 Le personnage ordonne à un unique animal de se rendre à un lieu choisi et de délivrer un message à une créature connue. Ce sort est similaire à *[[messager animal]]*, mais peut affecter des animaux plus grands. De plus, la conscience de l'animal ciblé s'éveille temporairement (comme avec le sort *[[éveil]]*) pendant toute la durée du sort, et il peut utiliser ses facultés mentales améliorées pour surmonter les obstacles de façon créative afin de délivrer son message plus efficacement. L'animal éveillé parle l'une des langues connues du personnage. De plus, le personnage peut offrir jusqu'à 5 rangs de compétence à l'animal dans les compétences suivantes : [[Bluff]], [[Diplomatie]], [[Connaissances]] (folklore local), [[Connaissances]] (noblesse), [[Linguistique]] ou [[Psychologie]]. L'animal traite ces compétences comme des compétences de classe si elles le sont pour le personnage. Le nombre de rangs de compétence offerts dans une compétence donnée ne peut dépasser ni le nombre de [[DV]] de l'animal ciblé, ni le nombre de rangs que le personnage possède dans celle-ci.

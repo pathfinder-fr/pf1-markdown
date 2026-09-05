@@ -7,9 +7,9 @@ Categories:
 - Don métamagie
 ---
 
-{s:apg}*Les alliés du personnage n’ont pas à craindre d’être atteints par ses attaques.*
+{s:apg}*Les alliés du personnage n’ont pas à craindre d’être atteints par ses attaques.* 
 
-**Catégorie :** [[Dons#METAMAGIE|métamagie]]
+**Catégorie :** [[Dons#METAMAGIE|métamagie]] 
 
 **Condition.** [[Art de la magie]] 10 rangs.
 
@@ -17,6 +17,6 @@ Categories:
 
 [[FAQ- Manuel des joueurs - Règles avancées#66|→]] Sort sélectif : Tel qu'écrit, ce don permet au personnage d'ignorer de façon sélective les sorts comme *tentacules noirs* et *zone d'antimagie*. Le don est-il prévu pour ça ?**'
 
-Non, <u>[[Sort sélectif|il]]</u> n'affecte que les sorts à durée instantanée. L'errata du MRA corrigera ce point. (SKR, 8/10/2010)}**Avantage.** Lorsque le personnage lance un sort à zone d'effet et à durée instantanée, il peut choisir un nombre de cibles situées dans la zone égal au modificateur de la caractéristique qu’il utilise pour déterminer combien de sorts supplémentaires il reçoit chaque jour (pour la classe à laquelle le sort sélectif est associé) : le [[Charisme]] pour les [[barde|bardes]], les [[conjurateur|conjurateurs]], les [[ensorceleur|ensorceleurs]], les [[oracle|oracles]] et les [[paladin|paladins]] ; l’[[Intelligence]] pour les [[magicien|magiciens]] et les [[sorcière|sorcières]] ; la [[Sagesse]] pour les [[druide|druides]], les [[inquisiteur|inquisiteurs]], les [[prêtre|prêtres]] et les [[rôdeur|rôdeurs]]. Les cibles choisies échappent aux effets du sort. Un sort sélectif occupe un [[emplacement de sort]] d’un niveau de plus que le niveau normal du sort.
+Non, <u>[[Sort sélectif|il]]</u> n'affecte que les sorts à durée instantanée. L'errata du MRA corrigera ce point. (SKR, 8/10/2010)}**Avantage.** Lorsque le personnage lance un sort à zone d'effet et à durée instantanée, il peut choisir un nombre de cibles situées dans la zone égal au modificateur de la caractéristique qu’il utilise pour déterminer combien de sorts supplémentaires il reçoit chaque jour (pour la classe à laquelle le sort sélectif est associé) : le [[Charisme]] pour les [[barde|bardes]], les [[conjurateur|conjurateurs]], les [[ensorceleur|ensorceleurs]], les [[oracle|oracles]] et les [[paladin|paladins]] ; l’[[Intelligence]] pour les [[magicien|magiciens]] et les [[sorcière|sorcières]] ; la [[Sagesse]] pour les [[druide|druides]], les [[inquisiteur|inquisiteurs]], les [[prêtre|prêtres]] et les [[rôdeur|rôdeurs]]. Les cibles choisies échappent aux effets du sort. Un sort sélectif occupe un [[emplacement de sort]] d’un niveau de plus que le niveau normal du sort. 
 
 Les sorts qui n’ont pas de [[zone deffet|zone d’effet]] ou dont la durée n’est pas instantanée ne peuvent pas être modifiés par ce don.

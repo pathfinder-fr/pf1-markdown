@@ -42,7 +42,7 @@ En tant qu’individus, beaucoup d’humains, voire la majorité, sont ravis de 
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#17|→]] Humain : Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?***
 
-C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.
+C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.  
 Par exemple, un humain guerrier 1 avec Int 6 devrait commencer avec 2 rangs, ajouter le -2 de son malus d’Int (pour un total de 0 rangs), appliquer la règle du « minimum 1 » (pour un total ajusté de 1 rang), puis ajouter 1 rang d’humain (pour un total de 2 rangs).
 
 Autrement dit, un humain devrait toujours terminer avec plus de rangs de compétence qu’un autre personnage équivalent d’une race différente.}
@@ -118,15 +118,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les humains occultes.** Sans véritables traditions sur lesquelles baser leur compréhension de l’occulte, les humains dotés de talents psychiques rejoignent souvent des cultes étranges pour développer leur don. D’autres se plongent seuls dans l’étude, rassemblant des écrits à la véracité discutable sur divers sujets occultes. Un grand nombre d’humains sont fascinés par le thème occulte même s’ils ne s’avèrent pas particulièrement sensibles aux phénomènes psychiques et ils peuvent rapidement respecter et suivre quiconque maîtrise même le plus simple des pouvoirs de magie psychique.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** Ajouter une formule d’[[alchimiste#EXTRAITS|extrait]] issue de la [[liste des formules dalchimiste|liste des formules d’alchimiste]] au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
+{s:MR}{s:APG}**[[Alchimiste]].** Ajouter une formule d’[[alchimiste#EXTRAITS|extrait]] issue de la [[liste des formules dalchimiste|liste des formules d’alchimiste]] au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.  
 Certains les considèrent parfois comme des excentriques ou des amateurs touchant à des arts dangereux, mais les aptitudes pratiques des alchimistes humains leur permettent toujours de trouver un emploi parfois à bonne distance de leur employeur.
 
 {s:MCA}**[[Arcaniste]].** Ajout d’un sort de la [[Liste des sorts densorceleursmagiciens|liste de l’arcaniste]] au grimoire de l’arcaniste. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau de l’arcaniste.
 
-{s:MR}{s:APG}**[[Barbare]].** Ajouter un bonus de +1/2 au bonus de [[barbare#SENSDESPIEGES|sens des pièges]] et +1/3 au bonus donné par le pouvoir de rage [[Pouvoirs de rage#SUPERSTITION|Superstition]].
+{s:MR}{s:APG}**[[Barbare]].** Ajouter un bonus de +1/2 au bonus de [[barbare#SENSDESPIEGES|sens des pièges]] et +1/3 au bonus donné par le pouvoir de rage [[Pouvoirs de rage#SUPERSTITION|Superstition]].  
 Des jungles torrides aux steppes désertiques, les [[barbare|barbares]] évitent la société « civilisée » et gagnent l’estime des autres grâce à leur robustesse, leur assurance sans faille et leurs prouesses impressionnantes. Mais, même dans ces cultures brutales, l’inventivité de la race humaine fait des merveilles : elle  pousse les [[barbare|barbares]] humains à créer et à apprendre à manipuler toute une variété d’armes et de styles de combat peut-être primitifs mais néanmoins dangereux.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde apprend un sort de [[liste des sorts de bardes|la liste de bardes]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Barde]].** Le barde apprend un sort de [[liste des sorts de bardes|la liste de bardes]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 Les bardes humains possèdent un vaste éventail de talents artistiques qu’ils expriment de manière plutôt libre. Ils sont souvent extrêmement curieux et collectionnent les histoires et les récits afin de forger leur propre légende tout en racontant les aventures des autres.
 
 {s:MCA}**[[Bretteur]].** Augmente le total des points de [[bretteur#PANACHE|panache]] du bretteur de 1/4.
@@ -135,28 +135,28 @@ Les bardes humains possèdent un vaste éventail de talents artistiques qu’ils
 
 {s:MCA}**[[Chasseur]].** Le [[compagnon animal]] gagne 1 [[Compétences#ACQUERIR|rang de compétence]]. Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
 
-{s:MR}{s:APG}**[[Chevalier]].** Ajouter +1/4 au bonus de [[Chevalier#BANNIERE|bannière]] du chevalier.
+{s:MR}{s:APG}**[[Chevalier]].** Ajouter +1/4 au bonus de [[Chevalier#BANNIERE|bannière]] du chevalier.  
 Les humains constituent la majeure partie de la plupart des ordres de chevalerie. Ils combinent les bonnes manières de l’aristocratie avec la dévotion au service de leur seigneur et de leur idéal chevaleresque afin d’obtenir l’estime des gens du peuple et des nobles.
 
 {s:AO}**[[Cinétiste]].** Le personnage acquiert 1/6 du don [[Talent sauvage supplémentaire]].
 
-{s:MR}{s:APG}**[[Conjurateur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] à l’[[Conjurateur#EIDOLON|eidolon]] du conjurateur.
+{s:MR}{s:APG}**[[Conjurateur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] à l’[[Conjurateur#EIDOLON|eidolon]] du conjurateur.  
 Les conjurateurs humains façonnent la vie et dirigent d’une simple parole des créatures terrifiantes. Ils laissent libre cours aux pouvoirs de la création. Les [[eidolon|eidolons]] qu’ils contrôlent peuvent prendre des formes très variées. Ils incarnent souvent les espoirs les plus profonds ou les cauchemars les plus sombres de leur maître.
 
-{s:MR}{s:APG}**[[Druide]].** Ajouter +1/2 aux tests de [[Diplomatie]] et d’[[Intimidation]] visant à modifier l’attitude d’une créature.
+{s:MR}{s:APG}**[[Druide]].** Ajouter +1/2 aux tests de [[Diplomatie]] et d’[[Intimidation]] visant à modifier l’attitude d’une créature.  
 De nombreux humains considèrent le druidisme comme un « culte ancien »,  aussi éternel et vaste que le monde lui-même. Certains voient les druides comme de simples ermites dégénérés qui s’opposent au progrès mais ceux-ci suscitent bien souvent un certain sentiment de respect, de méfiance et de crainte.
 
 {s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[liste des formules dalchimiste|liste de l’enquêteur]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[[Ensorceleur]].** Ajouter un sort connu issu de la [[Liste des sorts densorceleursmagiciens|liste des sorts d’ensorceleur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Ensorceleur]].** Ajouter un sort connu issu de la [[Liste des sorts densorceleursmagiciens|liste des sorts d’ensorceleur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 Grâce aux nombreux mélanges qu’on retrouve dans leurs arbres généalogiques, on trouve fréquemment des pouvoirs magiques latents chez les humains. Les ensorceleurs, qui sont considérés tantôt comme des aberrations, tantôt comme des merveilles de la nature, ne doivent bien souvent leur survie qu’à leur force de caractère.
 
-{s:MR}{s:APG}**[[Guerrier]].** Ajouter +1 au [[DMD]] du guerrier contre deux [[manœuvres offensives]] choisies par le personnage.
+{s:MR}{s:APG}**[[Guerrier]].** Ajouter +1 au [[DMD]] du guerrier contre deux [[manœuvres offensives]] choisies par le personnage.  
 On retrouve des guerriers humains dans toutes les professions, des voyageurs aux soldats en passant par les bretteurs et les boxeurs, mais aucun d’entre eux n’est à prendre à la légère.
 
 {s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 point son bonus d’[[hypnotiseur#EGOIMPOSANT|ego imposant]] (jusqu’à une augmentation maximale de +2).
 
-{s:MR}{s:APG}**[[Inquisiteur]].** Ajouter un sort connu issu de la [[liste des sorts dinquisiteur|liste de sorts d’inquisiteur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Inquisiteur]].** Ajouter un sort connu issu de la [[liste des sorts dinquisiteur|liste de sorts d’inquisiteur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 Si les humains peuvent avoir la foi et faire confiance, ils sont tout aussi susceptibles de faire preuve de paranoïa et de suspicion. Des ordres entiers d’[[inquisiteur|inquisiteurs]] quasiment tous humains sont devenus célèbres (pour le meilleur ou pour le pire) en réalisant des « purges » contre des créatures dangereuses ou en s’entêtant à mener des chasses aux sorcières.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
@@ -165,44 +165,44 @@ Si les humains peuvent avoir la foi et faire confiance, ils sont tout aussi susc
 
 {s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à deux [[manœuvres offensives]] de son choix.
 
-{s:MR}{s:APG}**[[Magicien]].** Ajouter un sort issu de la [[liste des sorts densorceleursmagiciens|liste des sorts de magicien]] au [[magicien#GRIMOIRE|grimoire]] du magicien. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Magicien]].** Ajouter un sort issu de la [[liste des sorts densorceleursmagiciens|liste des sorts de magicien]] au [[magicien#GRIMOIRE|grimoire]] du magicien. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 De nombreux humains désirent percer les secrets de la création et ont soif de pouvoir et de connaissances, ce qui pousse les magiciens humains à s’intéresser tant aux anciens mystères qu’aux nouvelles innovations en matière de magie. Les humains excellent tant dans l’apprentissage de chacune des écoles de sorts que dans l’étude globale de la magie.
 
 {s:MR}**[[Magus]].** Le magus ajoute 1/4 de point à sa [[Magus#RESERVEMAGIQUE|réserve magique]].
 
 {s:AO}**[[Médium]].** Quand il acquiert un [[médium#TABOU|tabou]], le médium peut utiliser l’[[médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle]] sans subir d’[[médium#ESPRIT|influence]] 1/4 fois de plus par jour.
 
-{s:MR}{s:APG}**[[Moine]].** Ajouter +1/4 à la [[Moine#RESERVEDEKI|réserve de ki]] du moine.
+{s:MR}{s:APG}**[[Moine]].** Ajouter +1/4 à la [[Moine#RESERVEDEKI|réserve de ki]] du moine.  
 Les moines humains, qui recherchent la paix et la discipline parfaite, se tiennent souvent à l’écart de la société. Beaucoup les admirent mais seuls les plus dévoués possèdent assez de lucidité d’esprit et de sang froid pour maîtriser leurs techniques.
 
 {s:AO}**[[Occultiste]].** Le personnage gagne 1/6 d’un nouveau [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]].
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un [[liste des sorts de prêtres|sort d’oracle]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un [[liste des sorts de prêtres|sort d’oracle]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.  
 Les oracles humains utilisent diverses méthodes religieuses pour faire connaître la nature de leur mystère et le regard qu’ils portent sur le monde. Pour accomplir leur art, ils font parfois appel à des agents choisis en fonction de vérités mystérieuses.
 
-{s:MR}{s:APG}**[[Paladin]].** Ajouter +1 à la [[Résistance (capacité)|résistance]] aux énergies du [[paladin]] pour un type d’énergie (maximum +10).
+{s:MR}{s:APG}**[[Paladin]].** Ajouter +1 à la [[Résistance (capacité)|résistance]] aux énergies du [[paladin]] pour un type d’énergie (maximum +10).  
 Les humains qui aspirent à des idéaux héroïques, ceux qui désirent défendre leurs pairs de manière noble et ceux qui sont simplement exaltés par les valeurs de l’honneur et de la justice se tournent souvent vers la classe de [[paladin]]. Bien qu’il s’agisse d’une voie difficile, qui se termine souvent par un sacrifice de soi, les [[paladin|paladins]] humains chargent toujours en première ligne lors de quasiment toutes les croisades à l’encontre des forces du mal.
 
 {s:MR}**[[Pistolier]].** Le pistolier gagne 1/4 de point d’[[Pistolier#AUDACE|audace]] de plus.
 
-{s:MR}{s:APG}**[[Prêtre]].** Ajouter +1 aux tests de [[NLS]] visant à percer la [[RM|résistance à la magie]] des [[type extérieur|Extérieurs]].
+{s:MR}{s:APG}**[[Prêtre]].** Ajouter +1 aux tests de [[NLS]] visant à percer la [[RM|résistance à la magie]] des [[type extérieur|Extérieurs]].  
 Les humains croient facilement en des idéaux qui les dépassent et se rassemblent en des religions de toutes tailles. Ils développent souvent des connexions personnelles avec les [[Golarion.religions et philosophies|divinités]] et incarnent les traits et les puissances qu’ils idéalisent.
 
 {s:MCA}**[[Prêtre combattant]].** Ajout de 1/6 d’un nouveau [[Dons#DONCOMBAT|don de combat]] supplémentaire.
 
 {s:AO}**[[Psychiste]].** Le personnage ajoute un sort de la [[Sorts de psychiste|liste de sort de psychiste]] à son répertoire de sorts connus. Ce sort doit être au minimum, d’un niveau de moins que le niveau de sort de psychiste le plus élevé qu’il est capable de lancer.
 
-{s:MR}{s:APG}**[[Rôdeur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] au [[compagnons animaux|compagnon animal]] du rôdeur. S’il change de compagnon, le nouveau bénéficie aussi de ces points supplémentaires.
+{s:MR}{s:APG}**[[Rôdeur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] au [[compagnons animaux|compagnon animal]] du rôdeur. S’il change de compagnon, le nouveau bénéficie aussi de ces points supplémentaires.  
 Les humains se donnent pour défi de vaincre toutes sortes de proies, ce qui conduit bon nombre d’entre eux à devenir des chasseurs expérimentés et des traqueurs de bêtes ou d’autres cibles encore plus dangereuses. Avec le temps, de nombreux [[rôdeur|rôdeurs]] humains en viennent à préférer la compagnie des animaux à celle des autres humains.
 
-{s:MR}{s:APG}**[[Roublard]].** L’humain obtient +1/6 d’un nouveau [[talents|talent]].
+{s:MR}{s:APG}**[[Roublard]].** L’humain obtient +1/6 d’un nouveau [[talents|talent]].  
 Les roublards humains, à l’ambition souvent démesurée, viennent à bout de tous les obstacles pour obtenir ce qu’ils désirent. Qu’il s’agisse d’assassins sans scrupules ou de gentlemen cambrioleurs, rares sont ceux qui peuvent résister aux charmes et aux mensonges de ces roublards bien déterminés.
 
 {s:MCA}**[[Sanguin]].** Augmente le nombre de rounds de [[Sanguin#RAGESANGUINE|rage sanguine]] quotidiens de 1.
 
 {s:MCA}**[[Scalde]].** Ajout d’un sort de la [[Liste des sorts de bardes|liste de scalde]] aux sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus niveau qu’il connaît.
 
-{s:MR}{s:APG}**[[Sorcière]].** Ajouter un sort issu de la [[liste des sorts de sorcière]] au [[familiers|familier]] de la sorcière. Ce sort ne peut pas appartenir au plus haut niveau de sorts auquel la sorcière a accès. Si la sorcière vient à remplacer son familier, le nouveau familier connaît ces sorts en bonus.
+{s:MR}{s:APG}**[[Sorcière]].** Ajouter un sort issu de la [[liste des sorts de sorcière]] au [[familiers|familier]] de la sorcière. Ce sort ne peut pas appartenir au plus haut niveau de sorts auquel la sorcière a accès. Si la sorcière vient à remplacer son familier, le nouveau familier connaît ces sorts en bonus.  
 Le désir de contrôle des humains sur le monde qui les entoure peut parfois les mener sur des voies mystérieuses et potentiellement dangereuses, comme celle de la sorcière recluse.
 
 {s:AO}**[[Spirite]].** Le personnage octroie un [[Compétences#ACQUERIR|rang de compétence]] ou un [[pv|point de vie]] à son [[Fantômes (Spirite)|fantôme]].

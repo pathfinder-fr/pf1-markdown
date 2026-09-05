@@ -10,15 +10,15 @@ Categories:
 {s:BDTitre|Casque de mille feux|}
 **Aura** Multiples puissantes ; **NLS** 13 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 125 000 po ; **Poids** 1,5 kg
 (((Description)))
-Ce casque à l’allure banale révèle sa puissance quand son utilisateur l’enfile et prononce le [[mot de commande]]. Un *casque de mille feux* est fait d’argent rutilant et d’acier poli. A sa création, il est serti de dix diamants, vingt rubis, trente opales de feu et quarante opales, chacune de ces pierres étant magiques. Les aspérités qu’il arbore donnent l’impression que le personnage porte une couronne enchâssée de pierres précieuses. Éclairé du moindre éclat de lumière, le casque brille de mille feux. Les fonctions des pierres sont les suivantes :
-• Diamant : *[[rayons prismatiques]]* ([[jet de sauvegarde]] [[DD]] 20)
-• Rubis : *[[mur de feu]]*
-• Opale de feu : *[[boule de feu]]* (10d6, jet de [[Réflexes]] [[DD]] 20 pour demi-dégâts)
+Ce casque à l’allure banale révèle sa puissance quand son utilisateur l’enfile et prononce le [[mot de commande]]. Un *casque de mille feux* est fait d’argent rutilant et d’acier poli. A sa création, il est serti de dix diamants, vingt rubis, trente opales de feu et quarante opales, chacune de ces pierres étant magiques. Les aspérités qu’il arbore donnent l’impression que le personnage porte une couronne enchâssée de pierres précieuses. Éclairé du moindre éclat de lumière, le casque brille de mille feux. Les fonctions des pierres sont les suivantes :  
+• Diamant : *[[rayons prismatiques]]* ([[jet de sauvegarde]] [[DD]] 20)  
+• Rubis : *[[mur de feu]]*  
+• Opale de feu : *[[boule de feu]]* (10d6, jet de [[Réflexes]] [[DD]] 20 pour demi-dégâts)  
 • Opale : *[[lumière du jour]]*
 
-Le casque peut être utilisé une fois par round, chaque pierre perdant son éclat après avoir utilisé son pouvoir. Tant que toutes les pierres n’ont pas été utilisées, le *casque de mille feux* a les propriétés suivantes :
-• Quand des [[type mort-vivant|morts-vivants]] approchent à moins de 9 m, il émet une lueur bleutée qui leur inflige une vive douleur (1d6 points de dégâts par round).
-• Sur [[mot de commande|commande]], le casque peut transformer n’importe laquelle des armes de son porteur en [[feu (propriété)|arme de feu]]. Cette propriété spéciale s’ajoute à celles que l’arme possède déjà (à moins que celle-ci soit déjà une [[feu (propriété)|arme de feu]]). Le pouvoir se manifeste au bout de 1 round.
+Le casque peut être utilisé une fois par round, chaque pierre perdant son éclat après avoir utilisé son pouvoir. Tant que toutes les pierres n’ont pas été utilisées, le *casque de mille feux* a les propriétés suivantes :  
+• Quand des [[type mort-vivant|morts-vivants]] approchent à moins de 9 m, il émet une lueur bleutée qui leur inflige une vive douleur (1d6 points de dégâts par round).  
+• Sur [[mot de commande|commande]], le casque peut transformer n’importe laquelle des armes de son porteur en [[feu (propriété)|arme de feu]]. Cette propriété spéciale s’ajoute à celles que l’arme possède déjà (à moins que celle-ci soit déjà une [[feu (propriété)|arme de feu]]). Le pouvoir se manifeste au bout de 1 round.  
 • Le casque confère une résistance au feu de 30 points. Cette protection ne s’ajoute à aucune autre défense similaire (telle que *[[résistance aux énergies destructives]]*).
 
 Une fois que toutes les pierres ont été utilisées, elles tombent en poussière et le casque perd l’ensemble de ses pouvoirs. Toute pierre que l’on essaie d’extraire se brise automatiquement.

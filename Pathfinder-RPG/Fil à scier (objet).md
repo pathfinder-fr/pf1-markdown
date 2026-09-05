@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po (standard), 150 po (en adamantium) ; **Poids** — (standard), — (en adamantium)
+{s:AE}**Prix** 30 po (standard), 150 po (en adamantium) ; **Poids** — (standard), — (en adamantium)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette scie souple se constitue tout simplement d'un câble abrasif accroché à deux anneaux métalliques. En frottant le câble sur un verrou ou une petite barre bloquant une porte, le personnage se sert des anneaux pour scier l'obstacle en silence. Il faut 10 minutes pour scier une pièce de bois de 5 centimètres d'épaisseur ou une barre en fer de 2,5 centimètres d'épaisseur. Un fil à scier permet de trancher des objets ayant une [[solidité]] de 10 ou moins. Après cinq utilisations, le câble abrasif devient lisse et doit être remplacé (pour un coût de 25 po).  
   
 *Fil à scier en adamantium.* Il permet de couper les matériaux ayant une [[solidité]] de 10 ou moins deux fois plus vite qu'un fil à scier normal ou les matériaux ayant une solidité de 11 à 20 à une vitesse normale. Le remplacement d'un câble à scier en adamantium coûte 145 po.

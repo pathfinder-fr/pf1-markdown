@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 45 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
+{s:AE}**Prix** 45 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25  
 <span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
----
+<hr />
 Cet épais sirop est extrait d’herbes amères et amélioré alchimiquement afin de protéger contre le sommeil, la [[paralysé|paralysie]] et le [[chancelant|chancellement]]. Si le personnage boit du tic tonique, il reçoit un bonus alchimique de +2 à ses [[jds|jets de sauvegarde]] contre ces effets pendant 1 heure. S’il boit du tic tonique alors qu’il souffre de l’un de ces effets, il peut aussitôt refaire un jet de sauvegarde contre l’effet (avec le bonus de +2). Il ne peut bénéficier de cet avantage particulier qu’une fois par jour. Le personnage peut administrer du tic tonique à une créature [[inconscient|inconsciente]] ou paralysée par une [[action complexe]], comme on administre une [[Potions magiques|potion]].

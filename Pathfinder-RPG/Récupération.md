@@ -9,12 +9,12 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible** une épave
-**Durée** voir description
+{s:PMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible** une épave  
+**Durée** voir description  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">

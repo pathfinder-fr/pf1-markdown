@@ -35,7 +35,7 @@ particulièrement fort dans la capitale [[Quantium]] du [[Nex]], où il maintien
 
 {s:BotD}{s:Reference|ALDINACH}
 ### Aldinach
-Aldinach, surnomméé « Elle des six venins » est la baronne-démone du sable, des scorpions et de la soif. Elle apparait comme étant un colossal scorpion d'or. Ses griffes cristallines sont suffisamment bien effilées pour tailler la pierre et son visage évoque affreusement celui d'une humaine. Sur son dos grouille un essaim d'innombrables scorpions dont elle peut commander en tout temps par une simple pensée pour qu'ils exécutent ses ordres.
+Aldinach, surnomméé « Elle des six venins » est la baronne-démone du sable, des scorpions et de la soif. Elle apparait comme étant un colossal scorpion d'or. Ses griffes cristallines sont suffisamment bien effilées pour tailler la pierre et son visage évoque affreusement celui d'une humaine. Sur son dos grouille un essaim d'innombrables scorpions dont elle peut commander en tout temps par une simple pensée pour qu'ils exécutent ses ordres. 
 
 Les cultes voués à Aldinach se centralisent surtout dans les régions désertiques, en particulier dans les friches arides de l'[[Osirion]] et dans les terres reculées du [[Rahadoum]] où ses adeptes cherchent perpétuellement à séduire et corrompre les citoyens sans dieux de ces deux royaumes.
 
@@ -90,7 +90,7 @@ La Princesse Acérée préside au centre de son domaine de la taille d'un contin
 
 Le cris sanglant au travers la jungle, signifie sa présence, primaire et affamée...
 
-Angazhan, aussi appelé le Seigneur destructeur, est le seigneur-démon des gorilles et des jungles. Il est représenté sous la forme d'un énorme singe roux dont les pattes ont six doigts effilés et dont le visage démoniaque est accentué par des dents en forme de défenses et des petits yeux injectés de sang. Il règne sur le royaume abyssal d'Ahvoth-Kor.
+Angazhan, aussi appelé le Seigneur destructeur, est le seigneur-démon des gorilles et des jungles. Il est représenté sous la forme d'un énorme singe roux dont les pattes ont six doigts effilés et dont le visage démoniaque est accentué par des dents en forme de défenses et des petits yeux injectés de sang. Il règne sur le royaume abyssal d'Ahvoth-Kor. 
 
 Son culte sur [[Golarion]] est concentré dans l'étendue du [[Mwangi]], où il est vénéré par les tribus humaines Bekyar ainsi que par les charau-ka, petits êtres simiesques habitants la jungle du [[Mwangi]], qui au cœur de la jungle étranglée dans des sites de ruines oubliées, se nourrissent de chairs humaines pour calmer la sauvagerie de leur dieu démoniaque. La présence d'Angazhan dans l'Étendue [[Mwangi]] a été notée depuis fort longtemps — maints explorateurs ont à plusieurs reprises rencontré ses laquais depuis des milliers d'années et le consensus veut statuer que le règne du Seigneur destructeur est plus ancien que la naissance du [[Garund]] lui-même sans l'ombre d'un doute. Ses agents favoris sont connu comme étant les Rois-gorille, bien qu'un seul de ceux-ci règne à la fois dans le [[Mwangi]]. Pour cause, il y a eu des centaines de ces violents tyrans au cours des siècles ; chacun réincarné en une forme simienne grâce à de puissants artéfacts.
 
@@ -142,7 +142,7 @@ Le royaume d'Areshkagal est une région aride de collines pierreuses aux tons de
 ### Baphomet
 Baphomet est le dieu des [[Pathfinder-RPG.Minotaure|minotaures]]. Mais le culte du dieu Minotaure, a aussi des adeptes chez les humains.
 Ses suivants l'adorent dans des endroits secrets, et l'éducation des adorateurs se fait dans les familles transmettant les secrets occultes de générations en générations, formant des sociétés secrètes ayant beaucoup de pouvoir, dans les grandes villes de Golarion.
-Ils gardent le silence sur leur allégeance à Baphomet, ils attendent patiemment le moment où leur dieu ferrait appeler à eux pour combattre ses ennemies et rendre le monde à la domination de la bête.
+Ils gardent le silence sur leur allégeance à Baphomet, ils attendent patiemment le moment où leur dieu ferrait appeler à eux pour combattre ses ennemies et rendre le monde à la domination de la bête. 
 Ces sociétés secrètes utilisent des signes complexes pour s'identifier les uns aux autres et se transmettre des messages. Ils se considèrent comme les Templiers du Labyrinthe d'Ivoire en l'honneur de son domaine la labyrinthe abyssal.
 
 Baphomet accéda au statut de seigneur-démon depuis qu'il est l'âme du premier et plus grand des minotaures, une bête créée par [[Lamashtu]] dans le but de servir de leader à ses dernières créations. Il demeure l'un des amants préférés de [[Lamashtu]] à ce jour, et elle visite souvent le seigneur-démon dans son labyrinthe d'Ivoire.
@@ -167,7 +167,7 @@ Il est servit par les [[Pathfinder-RPG.Glabrezu|Glabezus]], qui souvent agissent
 
 {s:BotD}{s:Reference|CYTH-V'SUG}
 ### Cyth-V’sug
-Cyth-V’sug, dénommé le Prince des landes désolées est le seigneur-démon qui prédomine la maladie, les champignons et les parasites.
+Cyth-V’sug, dénommé le Prince des landes désolées est le seigneur-démon qui prédomine la maladie, les champignons et les parasites. 
 
 #### CULTE
 - **Symbole impie.** 
@@ -217,7 +217,7 @@ Les géants des marécages sont traditionnellement parmi ses adorateurs les plus
 
 {s:BotD}{s:Reference|DESKARI}
 ### Deskari
-Deskari, le *Seigneur de l'Ost des Nuées de sauterelles*, est le seigneur-démon des précipices, des infestations et des sauterelles.
+Deskari, le *Seigneur de l'Ost des Nuées de sauterelles*, est le seigneur-démon des précipices, des infestations et des sauterelles. 
 
 Considéré pour être le plus grand fils de [[Pazuzu]], Deskari est estimé par de nombreux érudits comme étant *le Guide de l'Apocalypse*. Lui et son culte ont longtemps tourmenté la nation du nord du [[Sarkoris]] où finalement, ses cultistes furent acculés jusqu'à dans le [[Lac des Brumes et des Voiles]] par [[Aroden]]. Pourtant, après la mort d'[[Aroden]], l'influence de Deskari a mûrit et a éclaté, transformant le [[Sarkoris]] en une terre hostile et hantée de démons, aujourd'hui appelée la [[Plaie du Monde]]. L'horreur envahissante de cette terre dévastée est à présent à peine tenue en échec par la diligence des Croisés en provenance du [[Mendev]] et du sud, qui craint que la [[Plaie du Monde]] puisse finalement s'étendre suffisamment pour engloutir toute l'[[Avistan]] tout entière.
 
@@ -272,22 +272,22 @@ Le royaume abyssal de Flauros est connu comme étant les *Champs du Bûcher Sang
 *NOTRE DAME DES OMBRES, Seigneur démon (f) des assassins, des ténèbres et de la luxure, CM*
 
 
-La première des succubes est une créature magnifique, mais également fatale. Dame Nocticula aime arranger sa chevelure de jais en coiffes élaborées. Ses yeux sont dénués de pupille, ses doigts se terminent par des griffes et ses pieds sont des sabots de pierre desquels suinte du fer en fusion. Son apparence démoniaque ne serait pas complète sans une paire d’ailes de chauve-souris couvertes de runes luminescentes et trois queues de scorpion. Elle prend toutefois l’apparence d’une jolie femme ou d’un bel homme pour attirer les gens crédules dans ses griffes. Les seigneurs démons eux-mêmes peuvent succomber à ses charmes mortels et elle en a séduit et assassiné un nombre incroyable. Parmi ses plus grandes conquêtes, on compte Vyriavaxus, le seigneur démon des Ombres. Elle a, par son biais, obtenu la loyauté réticente des démons d’ombre.
-Les autres seigneurs démons sont à la fois obsédés et apeurés par Nocticula et seul l’un d’entre eux, Socothbenoth (son frère et amant occasionnel), entretient une relation relativement amicale avec elle. Nocticula est l’une des démones les plus populaires auprès des drows, mais elle est également vénérée dans certaines régions décadentes, comme le Katapesh, le Nex, le Geb et certains Royaumes fluviaux. Le culte de Lamashtu a récemment remarqué la montée en puissance de Nocticula et a multiplié les conflits avec ses adorateurs. Certains estiment donc que Nocticula est sans doute la deuxième démone sur le point de devenir une divinité.
-Le royaume abyssal de Nocticula contient plusieurs dizaines d’îles disséminées à la surface d’une immense mer aux eaux calmes et noires. Une lune trop grande et d’étranges étoiles illuminent un ciel perpétuellement sombre. Chacune de ces îles
-de Minuit représente un seigneur démon ou une entité remarquable qu’elle a assassiné. Son royaume s’agrandit un peu plus
+La première des succubes est une créature magnifique, mais également fatale. Dame Nocticula aime arranger sa chevelure de jais en coiffes élaborées. Ses yeux sont dénués de pupille, ses doigts se terminent par des griffes et ses pieds sont des sabots de pierre desquels suinte du fer en fusion. Son apparence démoniaque ne serait pas complète sans une paire d’ailes de chauve-souris couvertes de runes luminescentes et trois queues de scorpion. Elle prend toutefois l’apparence d’une jolie femme ou d’un bel homme pour attirer les gens crédules dans ses griffes. Les seigneurs démons eux-mêmes peuvent succomber à ses charmes mortels et elle en a séduit et assassiné un nombre incroyable. Parmi ses plus grandes conquêtes, on compte Vyriavaxus, le seigneur démon des Ombres. Elle a, par son biais, obtenu la loyauté réticente des démons d’ombre.   
+Les autres seigneurs démons sont à la fois obsédés et apeurés par Nocticula et seul l’un d’entre eux, Socothbenoth (son frère et amant occasionnel), entretient une relation relativement amicale avec elle. Nocticula est l’une des démones les plus populaires auprès des drows, mais elle est également vénérée dans certaines régions décadentes, comme le Katapesh, le Nex, le Geb et certains Royaumes fluviaux. Le culte de Lamashtu a récemment remarqué la montée en puissance de Nocticula et a multiplié les conflits avec ses adorateurs. Certains estiment donc que Nocticula est sans doute la deuxième démone sur le point de devenir une divinité.   
+Le royaume abyssal de Nocticula contient plusieurs dizaines d’îles disséminées à la surface d’une immense mer aux eaux calmes et noires. Une lune trop grande et d’étranges étoiles illuminent un ciel perpétuellement sombre. Chacune de ces îles 
+de Minuit représente un seigneur démon ou une entité remarquable qu’elle a assassiné. Son royaume s’agrandit un peu plus 
 à chaque meurtre. Chaque île est régie par une succube ou un incube particulier, dotés d’étranges et terribles pouvoirs. Le terrain et la nature des îles sont liés aux caractéristiques et à l’histoire des victimes qu’elles représentent, mais l’île la plus grande située au centre de la mer est une exception. Elle se nomme Alinythia et forme le royaume personnel des plaisirs décadents de Nocticula.
 
 
 <table width="100%"><tr><td width="49%">
 #### Culte
-**Symbole impie.** Une couronne à sept pointes autour de laquelle s’enroule une plante épineuse.
-**Temples.** Maisons closes, donjons, manoirs somptueux, cathédrales secrètes.
-**Adorateurs.** Assassins, drows, violeurs, créatures manipulatrices d’ombres, succubes, prostituées.
+**Symbole impie.** Une couronne à sept pointes autour de laquelle s’enroule une plante épineuse.  
+**Temples.** Maisons closes, donjons, manoirs somptueux, cathédrales secrètes.  
+**Adorateurs.** Assassins, drows, violeurs, créatures manipulatrices d’ombres, succubes, prostituées.  
 **Serviteurs.** [[Chauve-souris]], plantes carnivores, humanoïdes charmés ou charmés, [[Séraptis|démons séraptis]], [[Démon des ombres|démons d’ombre]], [[Ombre|ombres]].
 
 
-**Domaines.** [[Domaine du Chaos|Chaos]], [[Domaine du Charme|Charme]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Mal|Mal]].
+**Domaines.** [[Domaine du Chaos|Chaos]], [[Domaine du Charme|Charme]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Mal|Mal]].  
 **Sous-domaines.** [[Domaine du Chaos|Démons (Chaos)]], [[Domaine du Mal|Démons (Mal)]], [[Domaine de lObscurité|Perte]], [[Domaine du Charme|Luxure]], [[Domaine de lObscurité|Nuit]].
 
 **Obédience.** Ingérer une dose d’extrait de plantes ou de champignons hallucinogènes et accomplir un nombre quelconque d’actes sexuels (seul ou à plusieurs), durant lesquels un demi-litre de sang au moins doit être versé. Octroie un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre l’[[aveuglé|aveuglement]] et les effets de [[branche charme|charme]].
@@ -295,18 +295,18 @@ de Minuit représente un seigneur démon ou une entité remarquable qu’elle a 
 </td><td width="49%">
 #### Faveurs ([[Obédience fiélonne]])
 **Évangéliste :**
-: **1.** ***Baiser de la succube (Mag).*** *[[Désir anormal]]* 3/jour, *[[Détection de pensées]]* 2/jour, ou *[[Baiser du vampire]]* 1/jour.
-: **2.** ***Chair tentante (Sur).*** Vous pouvez donner à votre chair des formes séduisantes. Vous gagnez la capacité monstre universel de changement de forme, utilisable une fois par jour par une action simple, vous permettant de prendre la forme de n'importe quel humanoïde de petite ou moyenne taille. Votre forme naturelle devient belle et sexuellement attirante, et vous gagnez des cornes, une queue pointue et de petites ailes. Lorsque vous êtes sous votre forme naturelle, vous gagnez les traits raciaux de vision sombre et de résistance diabolique d'un tiefling, ainsi que les traits raciaux alternatifs de queue préhensile et d'ailes vestigiales. Si vous êtes déjà un [[Tieffelin (race)|tieffelin]], vous gagnez un bonus de +2 au Charisme au lieu de ces traits tieffelin supplémentaires. Sous n'importe quelle forme, vous gagnez un bonus de +4 aux tests de Bluff pour tromper ou mentir.
+: **1.** ***Baiser de la succube (Mag).*** *[[Désir anormal]]* 3/jour, *[[Détection de pensées]]* 2/jour, ou *[[Baiser du vampire]]* 1/jour.  
+: **2.** ***Chair tentante (Sur).*** Vous pouvez donner à votre chair des formes séduisantes. Vous gagnez la capacité monstre universel de changement de forme, utilisable une fois par jour par une action simple, vous permettant de prendre la forme de n'importe quel humanoïde de petite ou moyenne taille. Votre forme naturelle devient belle et sexuellement attirante, et vous gagnez des cornes, une queue pointue et de petites ailes. Lorsque vous êtes sous votre forme naturelle, vous gagnez les traits raciaux de vision sombre et de résistance diabolique d'un tiefling, ainsi que les traits raciaux alternatifs de queue préhensile et d'ailes vestigiales. Si vous êtes déjà un [[Tieffelin (race)|tieffelin]], vous gagnez un bonus de +2 au Charisme au lieu de ces traits tieffelin supplémentaires. Sous n'importe quelle forme, vous gagnez un bonus de +4 aux tests de Bluff pour tromper ou mentir.  
 : **3.** ***Caresse mortelle (Sur).*** Comme pour les [[Succube|succubes]], tout contact romantique ou sexuel avec le personnage peut être mortel. Lorsque vous vous engagez dans un acte de passion (comme un baiser) avec une autre créature, vous lui conférez un niveau négatif. Vous devez aggripé une créature non consentante pour utiliser cette capacité sur elle. Un tel acte de passion a également l'effet d'un sort de suggestion demandant à la victime d'accepter un autre acte de passion. Le DD de cette suggestion, ainsi que le DD pour enlever tout niveau négatif accordé de cette façon, est égal à 10 + la moitié de vos DV + votre modificateur de Charisme. Vous ne pouvez initialement activer cette capacité qu'une fois par jour, mais une fois que vous l'avez fait pour cibler une créature spécifique, vous pouvez affecter cette créature avec cette capacité à volonté.
 
 **Exalté :**
-: **1.** ***Charmes de la Dame (Mag).*** *[[Charme-personne]]* 3/jour, *[[ténèbres]]* 2/jour, ou *[[suggestion]]* 1/jour.
-: **2.** ***Aveuglement instantané (Mag).*** Trois fois par jour, le personnage peut lancer *[[cécitésurdité|cécité/surdité]]* à [[incantation rapide]].
+: **1.** ***Charmes de la Dame (Mag).*** *[[Charme-personne]]* 3/jour, *[[ténèbres]]* 2/jour, ou *[[suggestion]]* 1/jour.  
+: **2.** ***Aveuglement instantané (Mag).*** Trois fois par jour, le personnage peut lancer *[[cécitésurdité|cécité/surdité]]* à [[incantation rapide]].  
 : **3.** ***Asservissement (Mag).*** Une fois par jour, le personnage peut lancer le sort *[[domination universelle]]*. Il ne peut dominer qu’une seule créature à la fois grâce à cette capacité, mais les effets sont permanents jusqu’à ce que le personnage décide de changer de cible, auquel cas la victime précédente est à nouveau libre d’agir, mais est [[étourdi|étourdie]] pendant 1d4 [[round|rounds]].
 
 **Sentinelle :**
-: **1.** ***Le meurtre sait se faire discret (Mag).*** *[[Disparition]]* 3/jour, *[[invisibilité]]* 2/jour, ou *[[Lame du crépuscule]]* 1/jour.
-: **2.** ***Juste derrière toi (Ext).*** Vous gagnez une attaque sournoise +2d6, ces dégat d'attaque sournoise se cumul avec les dés d'attaque sournoise provenant d'autres sources. Chaque fois que vous effectuez une attaque sournoise contre une créature qui est consciente de votre présence et vous considère comme un allié, vos dés d'attaque sournoise sont augmentés à d10 ; ceci s'applique à la fois aux dés d'attaque sournoise gagnés grâce à cette faveur et à ceux provenant d'autres sources.
+: **1.** ***Le meurtre sait se faire discret (Mag).*** *[[Disparition]]* 3/jour, *[[invisibilité]]* 2/jour, ou *[[Lame du crépuscule]]* 1/jour.  
+: **2.** ***Juste derrière toi (Ext).*** Vous gagnez une attaque sournoise +2d6, ces dégat d'attaque sournoise se cumul avec les dés d'attaque sournoise provenant d'autres sources. Chaque fois que vous effectuez une attaque sournoise contre une créature qui est consciente de votre présence et vous considère comme un allié, vos dés d'attaque sournoise sont augmentés à d10 ; ceci s'applique à la fois aux dés d'attaque sournoise gagnés grâce à cette faveur et à ceux provenant d'autres sources. 
 : **3.** ***La mort n'est qu'un mot (Mag).*** Votre dévotion à Nocticula est récompensée par un seul murmure de ses lèvres à votre seule oreille, révélant l'un des innombrables mots que notre Dame de l'Ombre connaît pour causer la mort. Chacun de ses adorateurs reçoit un mot unique. Lorsque vous l'apprenez, vous pouvez l'utiliser pour lancer *[[Mot de pouvoir mortel]]* comme un pouvoirs magiques une fois par jour.
 </td></tr></table>
 

@@ -36,7 +36,7 @@ Un personnage peut tenter une bousculade par une [[action simple]] ou dans le ca
 
 Si le personnage réussit sa [[manœuvre offensive]], il repousse sa cible de 1,50 m. La cible recule de 1,50 m supplémentaire par tranche de 5 points de marge de réussite. Le personnage peut se déplacer en même temps que sa cible, s’il le souhaite, et s’il lui reste assez de cases de déplacement pour ce faire. Si l’attaque échoue, le personnage s’arrête devant sa cible.
 
-Le mouvement d’un ennemi repoussé par une bousculade ne provoque pas d’[[AO|attaque d’opportunité]] à moins que le personnage qui le repousse ne possède le don [[Bousculade supérieure]]. Il n’est pas possible de repousser une créature dans une case occupée par un objet solide ou un obstacle. Si une autre créature se trouve sur la trajectoire de la créature bousculée, le personnage doit faire immédiatement un test de [[manœuvre offensive]] pour tenter de bousculer cette créature. Il subit un malus de -4 au test pour chaque créature qu’il repousse en plus de la première. S’il réussit, il repousse les créatures sur la distance qui correspond au résultat le plus faible.
+Le mouvement d’un ennemi repoussé par une bousculade ne provoque pas d’[[AO|attaque d’opportunité]] à moins que le personnage qui le repousse ne possède le don [[Bousculade supérieure]]. Il n’est pas possible de repousser une créature dans une case occupée par un objet solide ou un obstacle. Si une autre créature se trouve sur la trajectoire de la créature bousculée, le personnage doit faire immédiatement un test de [[manœuvre offensive]] pour tenter de bousculer cette créature. Il subit un malus de -4 au test pour chaque créature qu’il repousse en plus de la première. S’il réussit, il repousse les créatures sur la distance qui correspond au résultat le plus faible. 
 - *Par exemple, si un [[guerrier]] repousse un [[gobelin]] sur un total de 4,50 m mais qu’un deuxième [[gobelin]] se trouve à 1,50 m derrière le premier, le [[guerrier]] doit faire un deuxième test de [[manœuvre offensive]] contre le deuxième [[gobelin]] une fois qu’il a repoussé le premier sur 1,50 m. Si ce test indique qu’il peut pousser le deuxième [[gobelin]] sur 6 m, il pourra repousser les deux monstres sur 3 m supplémentaires (étant donné que le premier [[gobelin]] a déjà parcouru 1,50 m).*
 
 {s:Reference|CROCENJAMBE}
@@ -52,7 +52,7 @@ Si l’attaque dépasse le [[DMD]] de la cible, cette dernière tombe [[à terre
 ### Désarmement
 Le personnage peut tenter de désarmer son adversaire au lieu de faire une attaque de corps à corps. S’il ne dispose pas du don [[Science du désarmement]] ou d’un pouvoir similaire, il provoque une [[attaque dopportunité|attaque d’opportunité]] de la part de sa cible quand il effectue sa manœuvre. Le personnage subit un malus de -4 s’il tente de désarmer sa cible alors qu’il ne possède lui-même aucune arme.
 
-Si le personnage réussit son attaque, la cible lâche un objet au choix du personnage (même si elle le tenait à deux mains). Si l’attaque dépasse le [[DMD]] de la cible de 10 ou plus, celle-ci lâche les objets qu’elle tenait dans chaque main (deux au maximum si la cible a plus de deux mains).
+Si le personnage réussit son attaque, la cible lâche un objet au choix du personnage (même si elle le tenait à deux mains). Si l’attaque dépasse le [[DMD]] de la cible de 10 ou plus, celle-ci lâche les objets qu’elle tenait dans chaque main (deux au maximum si la cible a plus de deux mains). 
 
 Si le personnage rate son attaque de 10 ou plus, c’est lui qui lâche l’arme dont il se sert pour le désarmement. S’il réussit à désarmer son adversaire sans se servir d’une arme, il peut automatiquement ramasser celle que son ennemi a lâchée.
 
@@ -86,7 +86,7 @@ Toute capacité raciale qui octroie un bonus au [[DMD]] contre les tentatives de
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#26|→]] Immobilisation : Une créature en lutte avec un adversaire doit généralement faire deux tests de manœuvres offensives pour immobiliser quelqu’un (une pour agripper, la suivante pour immobiliser). Si un personnage est immobilisé, doit-il aussi réussir deux tests de manœuvres offensives pour s’enfuir, une pour l’étreinte et l’autre pour l’immobilisation ?***
 
 Non. Quand une créature est [[immobilisé|immobilisée]], elle subit cette version plus puissante de l’état [[agrippé]], et les deux états ne se cumulent pas (comme décrit dans l’état immobilisé). Bien que cela ne signifie pas qu’il subit les malus de l’étreinte et de l’immobilisation, cela signifie aussi que l’état immobilisé remplace l’état agrippé ; il ne se mélange pas avec. À ce titre le personnage n’a besoin de réussir qu’un test de [[manœuvres offensives]] ou d’[[Évasion]] pour se libérer aussi bien d’une <u>[[lutte|étreinte]]</u> que d’une immobilisation.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Combat)#29|→]] Lutte : Il y a quelques contradictions entre différentes règles sur la lutte. Qu’est-ce qui est correct ?***
 
 Pour résumer les règles exactes :
@@ -95,9 +95,9 @@ Pour résumer les règles exactes :
 
 2) Une créature [[agrippé|agrippée]] peut toujours faire une attaque à outrance.
 
-3) Être immobilisé ne rend pas le personnage pris au dépourvu, mais le prive de son bonus de Dex.}Par une [[action simple]], le personnage peut entamer une lutte et limiter les options de combat de son adversaire. S’il ne dispose pas du don [[Science de la lutte]], d’[[étreinte]] ou d’un pouvoir similaire, il provoque une [[attaque dopportunité|attaque d’opportunité]] de la part de sa cible quand il effectue sa manœuvre. Les créatures humanoïdes qui n’ont pas deux mains libres quand elles entament la lutte contre un adversaire subissent un malus de -4. Si le personnage réussit, lui et sa cible deviennent [[agrippé|agrippés]].
+3) Être immobilisé ne rend pas le personnage pris au dépourvu, mais le prive de son bonus de Dex.}Par une [[action simple]], le personnage peut entamer une lutte et limiter les options de combat de son adversaire. S’il ne dispose pas du don [[Science de la lutte]], d’[[étreinte]] ou d’un pouvoir similaire, il provoque une [[attaque dopportunité|attaque d’opportunité]] de la part de sa cible quand il effectue sa manœuvre. Les créatures humanoïdes qui n’ont pas deux mains libres quand elles entament la lutte contre un adversaire subissent un malus de -4. Si le personnage réussit, lui et sa cible deviennent [[agrippé|agrippés]]. 
 
-Si le personnage parvient à agripper une créature qui ne lui est pas adjacente, il l’entraîne dans une case adjacente libre (s’il n’y en a pas, la lutte échoue). Bien que les deux créatures soient en situation de lutte, seule celle qui a initié la lutte peut se dégager par une [[action libre]] et libérer la cible par la même occasion. Si le personnage ne desserre pas sa prise, il doit faire un nouveau test à chaque round, par une [[action simple]], afin de maintenir sa prise. Si la cible ne brise pas l’étreinte, le personnage bénéficie d’un bonus de circonstances de +5 aux tests de lutte contre cette cible pendant les rounds qui suivent.
+Si le personnage parvient à agripper une créature qui ne lui est pas adjacente, il l’entraîne dans une case adjacente libre (s’il n’y en a pas, la lutte échoue). Bien que les deux créatures soient en situation de lutte, seule celle qui a initié la lutte peut se dégager par une [[action libre]] et libérer la cible par la même occasion. Si le personnage ne desserre pas sa prise, il doit faire un nouveau test à chaque round, par une [[action simple]], afin de maintenir sa prise. Si la cible ne brise pas l’étreinte, le personnage bénéficie d’un bonus de circonstances de +5 aux tests de lutte contre cette cible pendant les rounds qui suivent. 
 
 Une fois que le personnage est en lutte avec un adversaire, il lui suffit de réussir un test supplémentaire pour continuer la lutte et pour accomplir l’une des actions suivantes (au cours de l’action simple qui sert à maintenir la prise).
 - **Déplacement.** Le personnage peut se déplacer, en entraînant sa cible, à la moitié de sa [[vitesse de déplacement]]. À la fin de ce déplacement, il peut placer sa cible sur n’importe quelle case adjacente à la sienne. S’il essaie de mettre son ennemi en danger, en le plaçant dans un mur de feu ou en le poussant dans une fosse par exemple, la cible a droit à une tentative gratuite pour se libérer, avec un bonus de +4.
@@ -118,27 +118,27 @@ Quand le personnage essaie de renverser une cible, celle-ci peut choisir de l’
 {s:Reference|REPOSITIONNEMENT}{s:APG}
 ### Repositionnement
 Vous pouvez tenter de repositionner un ennemi vers un nouvel emplacement par une [[action simple]]. Cette manœuvre
-n’est possible que contre des ennemis possédant au plus une [[catégorie de taille]] de plus que vous. Un repositionnement vise à forcer un ennemi à se déplacer vers un nouvel endroit sans pour autant lui infliger des dégâts. Si vous ne possédez pas le don [[Science du repositionnement]] ou une capacité similaire, tenter un repositionnement provoque une [[AO|attaque d’opportunité]] de la part de la cible de la manœuvre.
+n’est possible que contre des ennemis possédant au plus une [[catégorie de taille]] de plus que vous. Un repositionnement vise à forcer un ennemi à se déplacer vers un nouvel endroit sans pour autant lui infliger des dégâts. Si vous ne possédez pas le don [[Science du repositionnement]] ou une capacité similaire, tenter un repositionnement provoque une [[AO|attaque d’opportunité]] de la part de la cible de la manœuvre. 
 
 Vous ne pouvez pas utiliser cette manœuvre pour déplacer un ennemi vers un endroit intrinsèquement dangereux (comme
 une fosse ou un *[[mur de feu]]*).
 
 Si l’attaque réussit, vous pouvez déplacer votre cible de 1,50 m (1 {s:c}) vers un nouvel emplacement.  Pour chaque tranche de 5 points dans la marge de réussite entre votre [[jet dattaque|jet d’attaque]] et le [[DMD]] de la cible, vous pouvez la déplacer de 1,50 m (1 {s:c}) de plus. La cible doit rester dans la zone que vous contrôlez tout au long de ce mouvement, à l’exception du dernier pas de 1,50 m (1 {s:c}), qui peut l’emmener vers un emplacement adjacent à la zone que vous contrôlez.
 
-Le mouvement d’une ennemi repositionné ne provoque pas d’attaque d’opportunité, à moins que vous ne possédiez le don [[Repositionnement supérieur]].
+Le mouvement d’une ennemi repositionné ne provoque pas d’attaque d’opportunité, à moins que vous ne possédiez le don [[Repositionnement supérieur]]. 
 
 Vous ne pouvez pas repositionner une créature dans un emplacement occupé par un objet solide ou un obstacle.
 
 {s:Reference|SALECOUP}{s:APG}
 ### Sale coup
-Vous pouvez tenter de jouer un sale coup à un ennemi au corps à corps par une [[action simple]]. Cette manœuvre recouvre toutes les situations où une attaque impose une pénalité à un ennemi pendant une courte période de temps. Par exemple, il peut s’agir d’envoyer du sable dans les yeux de l’adversaire afin de l’[[aveuglé|aveugler]] pendant 1 round, de lui baisser le pantalon pour diviser sa [[VD|vitesse de déplacement]] par deux ou encore de le frapper à un endroit sensible pour le rendre [[fiévreux]] pendant 1 round.
+Vous pouvez tenter de jouer un sale coup à un ennemi au corps à corps par une [[action simple]]. Cette manœuvre recouvre toutes les situations où une attaque impose une pénalité à un ennemi pendant une courte période de temps. Par exemple, il peut s’agir d’envoyer du sable dans les yeux de l’adversaire afin de l’[[aveuglé|aveugler]] pendant 1 round, de lui baisser le pantalon pour diviser sa [[VD|vitesse de déplacement]] par deux ou encore de le frapper à un endroit sensible pour le rendre [[fiévreux]] pendant 1 round. 
 
 C’est au MJ qu’il revient de déterminer ce qu’il est possible d’accomplir avec cette manœuvre, mais celle-ci ne peut résulter en une pénalité permanente et la cible peut en annuler les effets en y consacrant une [[action de mouvement]].
 
 Les créatures qui ne possèdent pas le don [[Science du sale coup]] ou une capacité similaire provoquent une [[AO|attaque d’opportunité]] de la part de leur cible lorsqu’elles tentent de réaliser cette manœuvre.
 
 Si l’attaque réussit, la cible subit une pénalité. Les pénalités possibles sont limitées aux effets préjudiciables
-suivants : [[sourd|assourdi]], [[aveuglé]], [[ébloui]], [[enchevêtré]], [[fiévreux]] ou [[secoué]].
+suivants : [[sourd|assourdi]], [[aveuglé]], [[ébloui]], [[enchevêtré]], [[fiévreux]] ou [[secoué]]. 
 
 L’effet préjudiciable persiste pendant 1 round. Pour chaque tranche de 5 points dans la marge de réussite entre
 le jet d’attaque et le [[DMD]] de la cible, la durée de la pénalité augmente de 1 round. Cette pénalité peut généralement être annulée par la cible si elle y dévoue une [[action de mouvement]]. Si l’attaquant possède le don [[Sale coup supérieur]], la pénalité dure pendant 1d4 rounds plus 1 round par tranche de 5 points dans la marge de réussite. De plus, la cible doit utiliser une action simple pour annuler la pénalité.

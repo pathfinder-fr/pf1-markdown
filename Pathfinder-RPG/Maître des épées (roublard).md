@@ -15,9 +15,9 @@ Categories:
 Le maître des épées ajoute [[Connaissances]] (nature) et [[Survie]] à sa liste de compétences de classe, mais en retire [[Déguisement]] et [[Connaissances]] (exploration souterraine).
 
 #### Transe (Ext)
-Au niveau 3, le maître des épées apprend à concentrer son habileté martiale par le biais d’une intense transe méditative. Lorsqu’il est en transe, il peut accomplir des faits de guerre exceptionnels.
+Au niveau 3, le maître des épées apprend à concentrer son habileté martiale par le biais d’une intense transe méditative. Lorsqu’il est en transe, il peut accomplir des faits de guerre exceptionnels. 
 
-Il faut une [[action complexe]] provoquant une [[attaque dopportunité|attaque d’opportunité]] pour entrer en transe. Le maître des épées peut maintenir sa transe un nombre de [[round|rounds]] par jour égal à 4 + son modificateur de [[Sagesse]]. Tous les niveaux après le 3e, il peut rester en transe 1 round supplémentaire. Il peut mettre fin à sa transe par une [[action libre]]. Après une transe, le maître des épées est [[fatigué]] pendant un nombre de rounds égal à 2 × le nombre de rounds passés en transe. Il ne peut pas entrer en transe plusieurs fois au cours d’une même rencontre ou d’un combat. S’il tombe [[inconscient]], sa transe prend fin aussitôt.
+Il faut une [[action complexe]] provoquant une [[attaque dopportunité|attaque d’opportunité]] pour entrer en transe. Le maître des épées peut maintenir sa transe un nombre de [[round|rounds]] par jour égal à 4 + son modificateur de [[Sagesse]]. Tous les niveaux après le 3e, il peut rester en transe 1 round supplémentaire. Il peut mettre fin à sa transe par une [[action libre]]. Après une transe, le maître des épées est [[fatigué]] pendant un nombre de rounds égal à 2 × le nombre de rounds passés en transe. Il ne peut pas entrer en transe plusieurs fois au cours d’une même rencontre ou d’un combat. S’il tombe [[inconscient]], sa transe prend fin aussitôt. 
 
 Au niveau 3, le maître des épées choisit une transe dans la liste ci-dessous. Il en choisit une autre aux niveaux 6, 9, 12, 15 et 18. Il ne peut utiliser qu’un type de transe à la fois.
 - **Transe du dragon (Ext).** Comme le dragon, le maître des épées perfectionne la stabilité de son corps et de son esprit. Lorsqu’il est en transe, il bénéficie des avantages du don [[École du dragon]].

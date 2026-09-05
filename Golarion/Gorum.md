@@ -19,7 +19,7 @@ Gorum n'a pas de corps à proprement parler. Quand il apparaît sur un champ de 
 ### Émissaires
 
 First Blade : Le héraut de Gorum est une nuée d'armes et de boucliers dansante prenant l'apparence d'un golem.
-Bloody hands : C'est une sorte d'Hezrou à la peau rougeoyante.
+Bloody hands : C'est une sorte d'Hezrou à la peau rougeoyante. 
 Saint Fang : Un dragon de métal.
 Temperbrand : Un élémentaire de feu enragé qui ressemble à un magma métallique.
 

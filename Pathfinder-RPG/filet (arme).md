@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
-**Dégâts** — (P), — (M) ; **Critique** — ; **Portée** 3 m (2 c) ; **Type** — ; **Spécial** voir texte
+{s:AE}**Prix** 20 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]  
+**Dégâts** — (P), — (M) ; **Critique** — ; **Portée** 3 m (2 c) ; **Type** — ; **Spécial** voir texte  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Le filet est utilisé pour enchevêtrer les ennemis. Lorsque le personnage lance un filet, il effectue une [[attaque de contact]] à distance contre sa cible. La portée maximum du filet est de 3 m (2 {s:c}). S’il réussit, la cible est [[enchevêtré|enchevêtrée]]. Une créature enchevêtrée reçoit un malus de -2 à ses [[jet dattaque|jets d’attaque]] et un malus de -4 à la [[Dextérité]], elle ne peut se déplacer qu’à la moitié de sa [[VD|vitesse]] et ne peut ni [[charger]] ni [[courir]]. Si le personnage contrôle la corde du filet en réussissant un test de [[Force]] opposé à celui de la cible enchevêtrée, cette dernière ne peut se déplacer que dans les limites du mouvement que la corde lui autorise. Si la créature enchevêtrée tente de lancer un sort, elle doit réussir un test de [[concentration]] de [[DD]] 15 + le niveau du sort ou elle est incapable de lancer son sort.  
   
 Une créature enchevêtrée peut s’échapper en réussissant un test d’[[Évasion]] [[DD]] 20 (une [[action complexe]]). Le filet a 5 points de vie et on peut le déchirer avec un test de [[Force]] DD 25 (également une [[action complexe]]). Le filet n’est utile que contre les créatures n’ayant qu’une catégorie de taille de différence ou moins avec le personnage.  

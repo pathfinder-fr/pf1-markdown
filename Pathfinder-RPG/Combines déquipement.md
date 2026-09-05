@@ -23,7 +23,7 @@ Categories:
 
 <div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:RSE}
 ### Bâton éclairant
-En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bâton éclairant).
+En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bâton éclairant). 
 - **Éclat (5 rangs en [[Artisanat]] (alchimie) ou capacité de classe [[Alchimiste#BOMBES|bombes]]).** Par une [[action simple]], le personnage peut dépenser la durée restante d’un [[Bâton éclairant (objet)|bâton éclairant]] (allumé ou éteint) en un instant. Les créatures dans un rayon de 6 m autour de lui capables de voir doivent réussir un jet de [[Vigueur]] [[DD]] 15 ou être [[ébloui|éblouies]] pendant 2d4 [[round|rounds]] alors que le personnage brise le bâton éclairant. Les créatures qui possèdent la capacité sensibilité à la lumière ou aveuglé par la lumière subissent un malus de -2 à leur [[jds|jet de sauvegarde]]. Autrement, par une [[action complexe]], le personnage peut frapper une créature avec le bâton éclairant ou lancer celui-ci lors d’une attaque à distance avec un facteur de portée de 3 m. Lorsqu’il touche une surface solide, le bâton éclate comme décrit plus haut. Comme il n'est pas nécessaire de toucher une cible particulière, le personnage peut simplement viser le coin d'une case de 1,5 m. On considère que ce coin a une [[CA]] de 5. Si une créature est frappée par le bâton éclairant et rate son jet de [[Vigueur]], elle est [[aveuglé|aveuglée]] pendant le premier [[round]] d'éblouissement.
 
 - **Bâton éclairant en main ([[Arme en main]]).** Le personnage peut dégainer et allumer un bâton éclairant facilement accessible d'un paquet par une [[action rapide]].
@@ -38,7 +38,7 @@ En plus des prérequis de compétences et de dons listés pour chacune de ces co
 
 
 ### Bâton fumigène (*AA2*)
-Souvent négligés au profit des feux grégeois, les bâtons fumigènes peuvent apporter un avantage tactique polyvalent entre de bonnes mains. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bâton fumigène).
+Souvent négligés au profit des feux grégeois, les bâtons fumigènes peuvent apporter un avantage tactique polyvalent entre de bonnes mains. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bâton fumigène). 
 - **Fumée étouffante ([[Science du sale coup]]).** Lorsqu'il réussit une manœuvre de [[sale coup]] en tenant un [[Bâton fumigène (objet)|bâton fumigène]] allumé, le personnage peut enfoncer le bâton fumigène dans la bouche (ou un autre appareil respiratoire) de sa cible pour l'empêcher de respirer. La créature affectée commence à tousser et cracher, devenant [[fiévreux|fiévreuse]]. Contrairement à un sale coup classique, la cible doit réussir un jet de [[Vigueur]] pour se débarrasser de l'état imposé, en plus de l'action dépensée. Le [[DD]] du jet de [[Vigueur]] est égal à 10 + la moitié du [[BBA]] du personnage + n'importe quel bonus qu'il ajoute à ses manœuvres de sale coup (comme celui conféré par le don [[Science du sale coup]]). Cet état dure 1 minute, s'il n'est pas soigné plus tôt. Les créatures qui ne respirent pas sont immunisées à cet effet.
 
 - **Brûlure lente (1 rang en [[Artisanat]] (alchimie)).** Le personnage peut allumer un bâton fumigène suffisamment lentement pour ne pas le consommer immédiatement. Il doit décider d'utiliser cette combine au moment où il allume le bâton. Un bâton fumigène à brûlure lente n'est pas consumé après 1 [[round]], mais la fumée produite ne dure qu'1 round. Pendant la prochaine heure, par une [[action rapide]] et alors qu'il tient un bâton fumigène à brûlure lente, le personnage peut utiliser le bâton pour produire un nuage de fumée qui dure 1 round. Un bâton fumigène à brûlure lente dure une heure ou jusqu'à ce que le personnage ait créé un total de 10 nuages de fumée, auquel cas il est consumé.
@@ -59,7 +59,7 @@ En plus des prérequis de compétences et de dons listés pour chacune de ces co
 
 {s:AA}
 ### Bouclier
-En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bouclier) et être formé au maniement des boucliers (hors pavois).
+En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (bouclier) et être formé au maniement des boucliers (hors pavois). 
 - **Dans les jambes ([[Science du croc-en-jambe]], [[Lancer improvisé]]).** À la place d'une attaque au corps à corps, le personnage peut lancer son bouclier aux pieds d'un adversaire, gênant ses mouvements le faire potentiellement tomber. Le personnage doit tenir (et non manier) son bouclier ou utiliser un bouclier de lancer pour utiliser cette combine. Le personnage effectue alors une manœuvre de [[croc-en-jambe]] contre son adversaire. Ce dernier ne doit pas être d'une catégorie de taille plus grande que le personnage, et la pénalité de portée s'applique à la tentative de croc-en-jambe. S'il réussit le test, sa cible tombe [[à terre]]. Si le test est un échec, le personnage ne tombe pas à terre, sauf s'il est dans l'allonge de sa cible. Qu'il réussisse ou non, tant que le bouclier du personnage reste là où il l'a lancé, la cible traite cette case comme un terrain difficile jusqu'à ce qu'elle en sorte.
 
 - **Lancé de bouclier ([[Lancer improvisé]]).** Le personnage peut lancer son bouclier comme une [[arme improvisée]] à distance. Le personnage doit tenir (et non manier) son bouclier ou utiliser un bouclier de lancer pour utiliser cette combine. S'il tient un bouclier de lancer, il n'y a aucune raison d'utiliser cette combine.
@@ -153,7 +153,7 @@ En plus des prérequis de compétences et de dons listés pour chacune de ces co
 
 
 ### Fronde (*HfF*)
-Les combines suivantes sont plus souvent utilisées par ceux qui maîtrise l'art de la fronde. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (fronde).
+Les combines suivantes sont plus souvent utilisées par ceux qui maîtrise l'art de la fronde. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (fronde). 
 - **Charge piégée ([[Science du croc-en-jambe]]).** Le personnage peut se ruer sur un adversaire et utiliser sa fronde pour le faire tomber. Par une [[action complexe]], le personnage peut se déplacer au double de sa vitesse vers une créature puis tenter une manœuvre de [[croc-en-jambe]]. Ce mouvement suit les règles d'un déplacement en [[charge]]. Le personnage bénéficie d'un bonus de +2 au test de manœuvre offensive, et subit un malus de -2 à la [[CA]] jusqu'au début de son prochain tour.
 
 - **Coup de fouet désarmant ([[Science du désarmement]]).** Le personnage peut donner un coup de fouet pour piéger l'arme d'un adversaire et la récupérer. Lorsqu'il effectue une manœuvre de [[désarmement]] en maniant une fronde, le personnage peut utiliser son modificateur de [[Dextérité]] plutôt que son modificateur de [[Force]] pour déterminer son [[BMO]].
@@ -177,7 +177,7 @@ En plus des prérequis de compétences et de dons listés pour chacune de ces co
 
 
 ### Lanterne (*AA2*)
-Il existe des lanternes de plusieurs formes et de plusieurs tailles. Chacune de ces combines peut être réalisée avec n'importe quelle sorte de lanterne ou de lampe, sauf quand un type de lampe particulier est précisé dans sa description. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (lanterne).
+Il existe des lanternes de plusieurs formes et de plusieurs tailles. Chacune de ces combines peut être réalisée avec n'importe quelle sorte de lanterne ou de lampe, sauf quand un type de lampe particulier est précisé dans sa description. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (lanterne). 
 - **Huile améliorée (3 rangs en  [[Artisanat]] (alchimie)).** Le personnage peut combiner trois [[Huile (objet)|flasques d'huile]] en une recharge améliorée de lampe ou de lanterne à huile. Cette huile améliorée fait brûler la lampe ou la lanterne un peu plus vivement, augmentant la portée de sa lumière de 50%. Cette huile améliorée ne peut être utilisée qu'à l'intérieur de la lampe ou de la lanterne dans laquelle elle a été créée et n'a pas d'effet supplémentaire.
 
 - **Coup de lanterne ([[Art du bouclier]]).** Si le personnage porte une lampe ou une lanterne dans la main qui manie une [[rondache (armure)|rondache]], les coups de bouclier assénés avec ce bouclier infligent 1 point de dégâts de feu supplémentaire.
@@ -190,7 +190,7 @@ Il existe des lanternes de plusieurs formes et de plusieurs tailles. Chacune de 
 
 
 ### Miroir (*AA2*)
-Les aventuriers emportent des miroirs pour des raisons souvent non-conventionnelles. Le personnage peut réaliser les combines suivantes avec un miroir, ou, à la discrétion du MJ, avec un objet qui peut être tenu en main et avec une surface réfléchissante, comme un morceau de métal poli. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (miroir).
+Les aventuriers emportent des miroirs pour des raisons souvent non-conventionnelles. Le personnage peut réaliser les combines suivantes avec un miroir, ou, à la discrétion du MJ, avec un objet qui peut être tenu en main et avec une surface réfléchissante, comme un morceau de métal poli. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (miroir). 
 - **Lumière aveuglante (3 rangs en [[Escamotage]]).** Lorsqu'il est dans une zone de lumière vive ou normale, le personnage peut utiliser un miroir qu'il tient en main pour refléter la lumière dans les yeux d'une créature à 3 m ou moins de lui par une [[action de mouvement]]. La cible doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + nombre de rang en [[Escamotage]] du personnage) ou être [[ébloui|éblouie]] pendant 1 round.
 
 - **Présentation audacieuse (5 rangs en [[Connaissances]] (religion)).** Le personnage peut dépenser une [[action de mouvement]] (au lieu d'une [[action simple]]) pour utiliser un miroir afin de tenir à distance une créature sensible aux miroirs (comme un [[vampire]]).
@@ -221,7 +221,7 @@ En plus des prérequis de compétences et de dons listés pour chacune de ces co
 
 
 ### Perche (*AA2*)
-Chacune de ces combines peut être réalisée avec une perche ou un balancier, mais des perches plus spécifiques ont des capacités spéciales. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (perche).
+Chacune de ces combines peut être réalisée avec une perche ou un balancier, mais des perches plus spécifiques ont des capacités spéciales. En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (perche). 
 - **Croc-en-jambe à la perche ([[Surprise]] ou [[Science du croc-en-jambe]]).** Le personnage peut traiter une [[Perche (objet)|perche]] comme une [[arme improvisée]] avec les attributs [[Caractéristiques des armes#ALLONGE|allonge]] et [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]. Il peut également traiter une [[Perche pliante (objet)|perche pliante]] non-articulée comme une [[arme improvisée]] avec les attributs [[Caractéristiques des armes#DESARMEMENT|désarmement]] et [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]. Une perche ou une perche pliante utilisée comme une arme improvisée inflige 1d6 points de dégâts contondants.
 
 - **Rechercher l'invisible (1 rang en [[Perception]]).** Lorsqu'il tente de trouver une créature qu'il ne peut pas voir (parce qu'elle est [[invisible]], ou parce qu'il est [[aveuglé]]), le personnage peut balayer deux cases adjacentes à 3 m autour de lui avec sa perche par une [[action simple]]. Le personnage effectue alors une attaque contre une [[CA]] de 10. S'il réussit et qu'une créature qu'il ne peut pas voir se trouve dans la zone ciblée, le personnage n'inflige aucun dégât mais localise précisément la créature.
@@ -230,7 +230,7 @@ Chacune de ces combines peut être réalisée avec une perche ou un balancier, m
 
 
 ### Pierre tonnerre (*AA2*)
-En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (pierre tonnerre).
+En plus des prérequis de compétences et de dons listés pour chacune de ces combines entre parenthèses, le personnage doit avoir le don Combines (pierre tonnerre). 
 - **Composante assourdissante (Capacité à créer des bombes ou à lancer un sort du registre de l'électricité, du feu, ou du son).** Le personnage peut utiliser une [[Pierre tonnerre (objet)|pierre tonnerre]] comme une composante matérielle supplémentaire lorsqu'il lance un sort du registre de l'électricité, du feu, ou du son, ou à n'importe quelle bombe qu'il lance. Toute créature blessée par ce sort ou cette bombe doit également réussir un jet de [[Vigueur]] [[DD]] 15 ou être [[assourdi|assourdie]] pendant 1 heure.
 
 - **Évolution de la résilience (1 rang en [[Connaissances]] (mystère), capacité de classe [[Conjurateur#EIDOLON|eidolon]]).** L'eidolon du personnage peut consommer une pierre tonnerre par une [[action simple]] pour optimiser sa résistance à certains effets. Pendant 1 heure, l'eidolon gagne l'évolution [[Eidolon#RESISTANCE|résistance]] (électricité ou son uniquement). Il ne peut pas obtenir une résistance aux deux types d'énergie en même temps grâce à cette combine. Pendant la même durée, l'eidolon est immunisé aux effets des pierres tonnerres.

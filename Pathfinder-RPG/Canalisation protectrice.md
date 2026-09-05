@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Lorsque le personnage canalise de l'énergie, la déesse de la bravoure offre une protection contre les forces du mal.*
 
-**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6, suivant d'[[Iomédae (technique)|Iomédae]].
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6, suivant d'[[Iomédae (technique)|Iomédae]]. 
 
 **Avantage.** Lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive pour soigner les créatures vivantes, il peut choisir d'affecter les créatures soignées avec un sort de *[[protection contre le Mal]]* ([[NLS]] égal à son niveau de prêtre effectif).

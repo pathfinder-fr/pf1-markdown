@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 1 po ; **Poids** —
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Le sifflet du shérif sert généralement aux [[Rôdeur|rôdeurs]] et aux prévôts gnomes. Il émet un son aigu que l'on entend facilement à 300 mètres de distance, dans des conditions normales. En revanche, sa fréquence est si haute que les [[Blaireau (objet)|blaireaux]], les [[Chien (objet)|chiens]] et les [[Gnome|gnomes]] sont les seuls à l'entendre.

@@ -5,8 +5,8 @@ LastModified: 2025-09-11 22:41
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi le [[Fantômes (Spirite)|profil]] des fantômes.***
-***Voir aussi la [[Sorts de spirite|liste des sorts de spirite]].***
+<div class="fright">***Voir aussi le [[Fantômes (Spirite)|profil]] des fantômes.***  
+***Voir aussi la [[Sorts de spirite|liste des sorts de spirite]].***  
 {s:PM0|spirite}**Voir les archétypes du spirite**&emsp;
 <li ID="spirite" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypespirite}</li>
 </div>{s:AO}*La carrière de spirite ne s’embrasse pas par vocation ou par envie : c’est un véritable phénomène en soi. Quand une créature meurt, son esprit s’échappe de son corps et entame l’étape suivante de son existence. Les attachements émotionnels handicapants et autres souillures psychiques pendant la vie peuvent pousser certains esprits à dériver vers le plan Éthéré pour sombrer dans le plan de l’Énergie négative. Certains de ces esprits parviennent à échapper au destin de mort-vivant et à retrouver leur chemin vers le plan Matériel pour trouver refuge auprès d’une âme en accord avec lui sur le plan psychique. Une telle fusion des consciences donne naissance à un spirite : le maître d’un unique et redoutable fantôme qu’il peut manifester et à qui il peut donner des ordres.*
@@ -376,7 +376,7 @@ Un spirite ne peut lancer qu’un certain nombre de sorts de chaque niveau chaqu
 
 Le spirite possède un répertoire de sorts limité. Au niveau 1, il connaît quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. Chaque fois qu’il gagne un niveau de spirite, il apprend un ou plusieurs nouveaux sorts, comme indiqué dans la "[[spirite#SORTSCONNUSDUSPIRITE|Sorts connus par le spirite]]". Contrairement au quota de ses sorts quotidiens, le nombre de sorts connus par un spirite n’est pas modifié par sa valeur de [[Sagesse]] ; les nombres de cette table sont fixes.
 
-Lorsqu’il atteint le niveau 5 et tous les trois niveaux par la suite (aux niveaux 8, 11, etc.), un spirite peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà. Dans les faits, le spirite perd l’ancien sort qu’il remplace par le nouveau. Le niveau de ce nouveau sort doit être identique à celui du sort remplacé et d’au moins un niveau inférieur au plus haut niveau de sorts que le spirite est capable de lancer. Il ne peut échanger qu’un seul sort de cette façon et doit choisir s’il procède à cet échange au moment où il apprend de nouveaux sorts lors du passage de niveau.
+Lorsqu’il atteint le niveau 5 et tous les trois niveaux par la suite (aux niveaux 8, 11, etc.), un spirite peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà. Dans les faits, le spirite perd l’ancien sort qu’il remplace par le nouveau. Le niveau de ce nouveau sort doit être identique à celui du sort remplacé et d’au moins un niveau inférieur au plus haut niveau de sorts que le spirite est capable de lancer. Il ne peut échanger qu’un seul sort de cette façon et doit choisir s’il procède à cet échange au moment où il apprend de nouveaux sorts lors du passage de niveau. 
 
 {s:Reference|ASTUCES}
 #### Astuces

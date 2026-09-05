@@ -11,12 +11,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Abjuration]] ; **Niveau** [[barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M, FD]] (une goutte d'huile claire)
-**Portée** contact
-**Cible** un objet au contact de maximum 5 kg par niveau
-**Durée** 1 jour par niveau ou jusqu'à décharge (voir texte)
+{s:RSE}**École** [[Abjuration]] ; **Niveau** [[barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M, FD]] (une goutte d'huile claire)  
+**Portée** contact  
+**Cible** un objet au contact de maximum 5 kg par niveau  
+**Durée** 1 jour par niveau ou jusqu'à décharge (voir texte)  
 **Jet de sauvegarde** Volonté, annule (objet, inoffensif) ; **Résistance à la magie** oui (objet, inoffensif)
 
 Comme *[[protection contre les énergies destructives]]*, sauf ce qui noté ci-dessus et le fait que le sort ne protège que des dégâts d'acide ou de feu. Tant que la protection contre l'énergie reste en place, l’objet est aussi complètement imperméable (cette protection s’étend également aux autres liquides, tels que l’alcool ou l’huile).

@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Lunette cancanière|{s:RSE}}
 **Aura** [[école Divination|Divination]] faible  ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 3 600 po ; **Poids** 500 g
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Cette lunette d’opéra en argent, sertie de pierres précieuses, ressemble à une lunette ordinaire mais, lorsque le personnage regarde au travers, il bénéficie d’un bonus de compétence de +4 aux tests de [[Perception]]. Lorsqu’il lit sur les lèvres, il comprend toutes les langues parlées comme s’il bénéficiait d’un sort de *[[compréhension des langages]]*. Le personnage peut utiliser la lunette uniquement pour espionner les conversations dans sa ligne de mire et doit pouvoir voir les gens parler afin de lire sur les lèvres.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[compréhension des langages]]*  ; **Coût** 1 800 po

@@ -25,6 +25,6 @@ Categories:
 **Durée** 3 [[round|rounds]]/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[[détection de la magie]]* mais il offre un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Art de la magie]] destinés à découvrir les propriétés et les [[mot de commande|mots de commande]] des objets magiques en possession du personnage.
+Ce sort fonctionne comme *[[détection de la magie]]* mais il offre un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Art de la magie]] destinés à découvrir les propriétés et les [[mot de commande|mots de commande]] des objets magiques en possession du personnage. 
 
 *Identification* ne fonctionne pas sur les [[artefacts]].

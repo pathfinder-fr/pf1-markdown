@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 110 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 110 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette torche tout à fait normale est sujette à un sort de *[[flamme éternelle]]*. De ce fait, elle éclaire comme une [[Torche (objet)|torche ordinaire]] mais n'émet pas de chaleur et n'inflige pas de dégâts de feu lorsqu'elle est utilisée comme une arme.

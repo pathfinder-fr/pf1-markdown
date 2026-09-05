@@ -50,27 +50,27 @@ Categories:
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Ténébreux]].***</li></ul>*Cet immense ver est recouvert d’une armure de plaques de chitine noire comme la nuit. Sa gueule béante dévoile une caverne constellée de dents.*
 
-Le rampant ténébreux, avec son corps en forme de mille-pattes
-et  ses  nombreux  yeux  brillants,  ressemble  à  un  simple  insecte
-gigantesque  et  effrayant,  mais  il  est  en  fait  incroyablement
-intelligent. Lorsqu’il n’est pas occupé à éradiquer toute vie dans
-les  grottes  les  plus  profondes,  il  passe  son  temps  à  planifier
-comment  réaliser  au  mieux  les  parties  du  plan  général  des
-ténébreux  (consistant  à  effacer  la  vie  sur  tous  les  mondes)
-dont  il  a  la  charge,  à  conférer  avec  ses  sbires  morts-vivants  et,
-quand c’est nécessaire, à observer les créatures vivantes de loin,
-en  restant  invisible,  afin  de  découvrir  les  enclaves  cachées  qui
+Le rampant ténébreux, avec son corps en forme de mille-pattes 
+et  ses  nombreux  yeux  brillants,  ressemble  à  un  simple  insecte 
+gigantesque  et  effrayant,  mais  il  est  en  fait  incroyablement 
+intelligent. Lorsqu’il n’est pas occupé à éradiquer toute vie dans 
+les  grottes  les  plus  profondes,  il  passe  son  temps  à  planifier 
+comment  réaliser  au  mieux  les  parties  du  plan  général  des 
+ténébreux  (consistant  à  effacer  la  vie  sur  tous  les  mondes) 
+dont  il  a  la  charge,  à  conférer  avec  ses  sbires  morts-vivants  et, 
+quand c’est nécessaire, à observer les créatures vivantes de loin, 
+en  restant  invisible,  afin  de  découvrir  les  enclaves  cachées  qui 
 auraient peut-être pu échapper à ses déprédations.
-Ce  ne  serait  pas  si  mal  si  les  rampants  ténébreux  se
-cantonnaient  aux  cavernes  les  plus  profondes,  car  ces  régions
-sont  peuplées  de  viles  créatures  sans  lesquelles  le  monde  ne
-peut que mieux se porter. Mais, malheureusement pour ceux qui
-vivent sur la surface, les rampants ténébreux remontent souvent
-par les tunnels pour venir y semer la destruction pendant la nuit.
-Ils  se  retirent  toujours  vers  le  sous-sol  avant  que  les  premiers
-rayons du soleil n’apparaissent dans les confins orientaux du ciel
-et il leur suffit de quelques heures chaque nuit pour causer une
+Ce  ne  serait  pas  si  mal  si  les  rampants  ténébreux  se 
+cantonnaient  aux  cavernes  les  plus  profondes,  car  ces  régions 
+sont  peuplées  de  viles  créatures  sans  lesquelles  le  monde  ne 
+peut que mieux se porter. Mais, malheureusement pour ceux qui 
+vivent sur la surface, les rampants ténébreux remontent souvent 
+par les tunnels pour venir y semer la destruction pendant la nuit. 
+Ils  se  retirent  toujours  vers  le  sous-sol  avant  que  les  premiers 
+rayons du soleil n’apparaissent dans les confins orientaux du ciel 
+et il leur suffit de quelques heures chaque nuit pour causer une 
 quantité incroyable de dégâts.
-Un  rampant  ténébreux  mesure  18  mètres  de  long  et  pèse
+Un  rampant  ténébreux  mesure  18  mètres  de  long  et  pèse 
 5 000 kg.
 </div></td></tr></table>

@@ -31,7 +31,7 @@ Categories:
 {s:BDTexte|<b>For</b> 14, <b>Dex</b> 12, <b>Con</b> 17, <b>Int</b> 3, <b>Sag</b> 13, <b>Cha</b> 12}
 {s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +8, <b>DMD</b> 19 (croc-en-jambe impossible)}
 {s:BDTexte|<b>Dons</b> [[Arme de prédilection]] (griffe), [[Attaque en vol]], [[Science de linitiative|Sciences de l'initiative]]}
-{s:BDTexte|<b>Compétences</b> [[Discrétion]] +10, [[Perception]] +10, [[Vol]] +5}
+{s:BDTexte|<b>Compétences</b> [[Discrétion]] +10, [[Perception]] +10, [[Vol]] +5} 
 {s:BDTexte|<b>Langues</b> igné (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> tous (plan du feu)}
@@ -40,56 +40,56 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|<b>Regard paralysant (Sur).</b> Paralysie pendant 1d6 rounds, 9 mètres, Vigueur DD 14 annule. Le DD du jet de sauvegarde dépend du Charisme.}
 
-</td><td><div>''Cette créature boursouflée possède de nombreuses pattes, un corps composé
+</td><td><div>''Cette créature boursouflée possède de nombreuses pattes, un corps composé 
 de morceaux de chair enflés et une bouche remplie de crocs acérés.''
 
-Les  rasts  sont  des  créatures  aussi  dangereuses  que  bizarres
-provenant des étendues désolées du plan du Feu. Leur corps est
-une poche tumorale gonflée par des organes internes, des veines
-et dénuée de tout appareil sensoriel si ce n’est deux minuscules
-yeux cachés dans les replis et les caroncules de sa chair. Les rasts
-sont  également  caractérisés  par  les  traits  physiques  suivants  :
-une bouche garnie de dents capables de déchirer facilement de la
-viande et un amas grouillant de pattes, dont le nombre exact varie
-apparemment  d’un  spécimen  à  un  autre.  Plus  curieux  encore,
-les  rasts  ne  se  servent  pas  de  ces  pattes  enchevêtrées  comme
-support  :  ils  se  contentent  de  les  agiter  dans  tous  les  sens  en-dessous de leur corps pendant qu’ils flottent gracieusement dans
-les airs. Les rasts n’utilisent leurs pattes que pour manipuler des
+Les  rasts  sont  des  créatures  aussi  dangereuses  que  bizarres 
+provenant des étendues désolées du plan du Feu. Leur corps est 
+une poche tumorale gonflée par des organes internes, des veines 
+et dénuée de tout appareil sensoriel si ce n’est deux minuscules 
+yeux cachés dans les replis et les caroncules de sa chair. Les rasts 
+sont  également  caractérisés  par  les  traits  physiques  suivants  : 
+une bouche garnie de dents capables de déchirer facilement de la 
+viande et un amas grouillant de pattes, dont le nombre exact varie 
+apparemment  d’un  spécimen  à  un  autre.  Plus  curieux  encore, 
+les  rasts  ne  se  servent  pas  de  ces  pattes  enchevêtrées  comme 
+support  :  ils  se  contentent  de  les  agiter  dans  tous  les  sens  en-dessous de leur corps pendant qu’ils flottent gracieusement dans 
+les airs. Les rasts n’utilisent leurs pattes que pour manipuler des 
 objets ou (plus souvent) pour griffer leurs proies.
-Les  rasts  ne  semblent  pas  posséder  de  langage  parlé,  mais  ils
-font  preuve  d’un  degré  d’intelligence  qui  les  place  au-dessus  des
-vulgaires  animaux.  Ils  utilisent  leur  ruse  instinctive  lorsqu’ils
-chassent. Comme les proies sont plutôt rares là où ils vivent, dans
-les étendues désertiques et couvertes de cendres du plan du Feu, les
-rasts préfèrent chasser en meutes ou en essaims qui se déplacent à
-travers  les  cieux  comme  des  bancs  de  poissons  aux  mouvements
-précis et coordonnés (si on omet leurs pattes, qu’ils se contentent
-d’agiter  dans  tous  les  sens).  Quand  ils  repèrent  des  proies
-potentielles, ils fondent sur elles en masse, paralysent les ennemis
-qui succombent à leur regard puis les délaissent temporairement
-pour  se  concentrer  sur  les  adversaires  qui  restent  mobiles  et
-dangereux. Ils utilisent leurs pattes pour griffer ces derniers et leurs
-bouches aux lèvres épaisses pour s’accrocher à eux et leur sucer le
-sang  et  les  viscères.  Chaque  rast  possède  à  peu
-près  douze  pattes  mais  ne  peut  en  contrôler
-que quatre à la fois (pendant ce temps, les autres
-pattes  pendent  inutilement
+Les  rasts  ne  semblent  pas  posséder  de  langage  parlé,  mais  ils 
+font  preuve  d’un  degré  d’intelligence  qui  les  place  au-dessus  des 
+vulgaires  animaux.  Ils  utilisent  leur  ruse  instinctive  lorsqu’ils 
+chassent. Comme les proies sont plutôt rares là où ils vivent, dans 
+les étendues désertiques et couvertes de cendres du plan du Feu, les 
+rasts préfèrent chasser en meutes ou en essaims qui se déplacent à 
+travers  les  cieux  comme  des  bancs  de  poissons  aux  mouvements 
+précis et coordonnés (si on omet leurs pattes, qu’ils se contentent 
+d’agiter  dans  tous  les  sens).  Quand  ils  repèrent  des  proies 
+potentielles, ils fondent sur elles en masse, paralysent les ennemis 
+qui succombent à leur regard puis les délaissent temporairement 
+pour  se  concentrer  sur  les  adversaires  qui  restent  mobiles  et 
+dangereux. Ils utilisent leurs pattes pour griffer ces derniers et leurs 
+bouches aux lèvres épaisses pour s’accrocher à eux et leur sucer le 
+sang  et  les  viscères.  Chaque  rast  possède  à  peu 
+près  douze  pattes  mais  ne  peut  en  contrôler 
+que quatre à la fois (pendant ce temps, les autres 
+pattes  pendent  inutilement 
 sous leur corps).
-Les rasts s’établissent dans des petits terriers qui se réduisent
-souvent à de simples trous creusés dans la cendre à l’aide de leurs
-griffes. C’est là aussi qu’ils produisent leurs jeunes, qui se mettent
-à se tortiller dès leur naissance. Un rast adulte fait à peu près la
-même taille qu’un humain et pèse 100 kg. Les rasts tendent vers
-les  couleurs  tels  que  le  rouge,  le  jaune  ou  le  pourpre  avec  des
-teintes  plus  foncées  sur  leurs  pattes  et  leur  tête  afin  de  pouvoir
-plus  facilement  se  fondre  dans  le  décor  enflammé  de  leur  plan
-d’origine. La plupart des autres espèces intelligentes vivant sur le
-plan du Feu sont suffisamment puissantes (ou sages) pour éviter
-de rentrer en conflit direct avec une meute de rasts mais, lorsqu’un
-groupe de ces créatures tombe sur un portail menant vers le plan
-Matériel (ou, plus tragique encore, est invoqué sur le plan Matériel
-par un lanceur de sorts imprudent), cela peut causer un véritable
-désastre  pour  l’écosystème  local,  car  ces  monstres  consomment
-tout ce qu’ils trouvent sur leur chemin et leur faim écœurante ne
+Les rasts s’établissent dans des petits terriers qui se réduisent 
+souvent à de simples trous creusés dans la cendre à l’aide de leurs 
+griffes. C’est là aussi qu’ils produisent leurs jeunes, qui se mettent 
+à se tortiller dès leur naissance. Un rast adulte fait à peu près la 
+même taille qu’un humain et pèse 100 kg. Les rasts tendent vers 
+les  couleurs  tels  que  le  rouge,  le  jaune  ou  le  pourpre  avec  des 
+teintes  plus  foncées  sur  leurs  pattes  et  leur  tête  afin  de  pouvoir 
+plus  facilement  se  fondre  dans  le  décor  enflammé  de  leur  plan 
+d’origine. La plupart des autres espèces intelligentes vivant sur le 
+plan du Feu sont suffisamment puissantes (ou sages) pour éviter 
+de rentrer en conflit direct avec une meute de rasts mais, lorsqu’un 
+groupe de ces créatures tombe sur un portail menant vers le plan 
+Matériel (ou, plus tragique encore, est invoqué sur le plan Matériel 
+par un lanceur de sorts imprudent), cela peut causer un véritable 
+désastre  pour  l’écosystème  local,  car  ces  monstres  consomment 
+tout ce qu’ils trouvent sur leur chemin et leur faim écœurante ne 
 semble connaître aucune limite.
 </div></td></tr></table>

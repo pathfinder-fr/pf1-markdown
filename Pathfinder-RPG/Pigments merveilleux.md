@@ -14,5 +14,5 @@ Ces poudres colorées magiques permettent à leur utilisateur de créer des obje
 
 On ne peut dessiner que des objets normaux et inanimés, pas des créatures, quelles qu’elles soient. Les pigments doivent être appliqués sur une surface, ce qui nécessite dix minutes et requiert un test d’[[Artisanat]] (peinture) de [[DD]] 15. Ils ne peuvent pas créer des objets magiques. Malgré leur aspect précieux, les objets de valeur dessinés par les pigments (or, platine, gemmes, bijoux, ivoire, etc.) sont en réalité constitués de matériaux vulgaires (fer blanc, plomb, verroterie, os et autres). Le possesseur des pigments peut s’en servir pour créer des armes et des armures non-enchantées, ainsi que tout objet (même la nourriture) dont la valeur ne dépasse pas 2 000 po. Tous les objets créés sont non-magiques. L’effet des pigments est instantané.
 (((Création)))
-**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[création majeure]]* ; **Coût** 2 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[création majeure]]* ; **Coût** 2 000 po 
 </div>

@@ -9,28 +9,28 @@ Categories:
 - Sort psychiste 7
 ---
 
-**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cibles** créatures distantes de 54 m/36 {s:c} ou moins les unes des autres
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cibles** créatures distantes de 54 m/36 {s:c} ou moins les unes des autres  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
----
+<hr />
 Ce sort fonctionne comme *[[invisibilité]]*, si ce n’est que son effet se déplace avec le groupe et que le sort est brisé dès que l’un des membres du groupe attaque quelqu’un. Les créatures affectées ne se voient pas entre elles. Si l’une d’elles s’éloigne à plus de 54 mètres du membre du groupe le plus proche, elle redevient visible ; si cela se produit pour un groupe qui ne comporte que deux créatures invisibles, c’est celle qui s’éloigne de l’autre qui réapparait et si les deux créatures se déplacent, elles redeviennent toutes deux visibles dès que l’écart dépasse 54 mètres.
 
 
 
 (((
 ## Invisibilité
-**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)
-**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]
-**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[[niveau]]
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
+**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[[niveau]]  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif) ou oui (inoffensif, objet)
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#17|→]] *Invisibilité* : Un personnage se voit-il lui-même quand il est invisible ?***
 
 Le <u>[[invisibilité|sort]]</u> ne va pas explicitement en faveur d’une interprétation parmi d’autres.

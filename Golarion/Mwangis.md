@@ -18,7 +18,7 @@ Bien que l'histoire des Mwangis soit très fortement liée à celle de leurs tri
 Il n'y a pas une culture mwangi unique, mais une multitude, chaque groupe ethnique composant les Mwangis ayant ses propres croyances et traditions. On ajoutera également que plusieurs ethnologues se posent la question de savoir si les tribus Caldaru et Lergeni installées dans l'[[Mwangi|Étendue Mwangi]] doivent être considérées comme faisant partie d'un des groupes ethniques, comme des groupes indépendants ou n'ont aucun rapport avec les Mwangis. Les aspects culturels des quatre principaux groupes ethniques sont décrits ci-dessous.
 
 #### Les Zenj
-Les Zenj sont considérés comme étant les plus nombreux des Mwangis. Ils sont regroupés en plusieurs centaines de petites tribus situées dans les jungles et les savanes de l'[[Mwangi|Étendue Mwangi]]. Plusieurs d'entre elles ont formé des villages le long des rivières de la région, alors que d'autres sont nomades et vivent au rythme des lieux de pâturages de leurs troupeaux. Les tribus vivant dans la jungle ont tendance à avoir une hiérarchie patriarcale alors que celles des savanes sont plutôt organisées de manière matriarcales. Les deux sous-groupes vivent en bon termes mais ils se mélangent peu. Les Zenj suivent les anciennes traditions totémiques.
+Les Zenj sont considérés comme étant les plus nombreux des Mwangis. Ils sont regroupés en plusieurs centaines de petites tribus situées dans les jungles et les savanes de l'[[Mwangi|Étendue Mwangi]]. Plusieurs d'entre elles ont formé des villages le long des rivières de la région, alors que d'autres sont nomades et vivent au rythme des lieux de pâturages de leurs troupeaux. Les tribus vivant dans la jungle ont tendance à avoir une hiérarchie patriarcale alors que celles des savanes sont plutôt organisées de manière matriarcales. Les deux sous-groupes vivent en bon termes mais ils se mélangent peu. Les Zenj suivent les anciennes traditions totémiques. 
 
 Ils sont de taille moyenne et musculeux bien que fins et leurs cheveux sont noirs et raides. Leurs vêtements sont constitués de peaux ou de fibres végétales.
 
@@ -28,7 +28,7 @@ Les Bonuwat sont des marins, et en tant que tel, le groupe ethnique le plus rép
 Ils sont de taille moyenne avec une grande bouche et leur peau est plutôt mate. Leurs cheveux sont souvent raides. Ils préfèrent les vêtements exotiques et colorés tels que des vestes et des pantalons larges.
 
 #### Les Mauxi
-Les Mauxi sont natifs de [[Thuvie]] et parlent aussi bien l'osirionais que le polyglotte. Certains d'entre eux font partie de la classe dirigeante du pays. Ils sont en général effacés et taciturnes. La plupart d'entre eux refusent tout contact avec les autres Mwangis, mais certains parmi les plus jeunes prêtent une oreille attentive à leur ascendance tribale et copient les codes vestimentaires des autres groupes mwangis.
+Les Mauxi sont natifs de [[Thuvie]] et parlent aussi bien l'osirionais que le polyglotte. Certains d'entre eux font partie de la classe dirigeante du pays. Ils sont en général effacés et taciturnes. La plupart d'entre eux refusent tout contact avec les autres Mwangis, mais certains parmi les plus jeunes prêtent une oreille attentive à leur ascendance tribale et copient les codes vestimentaires des autres groupes mwangis. 
 
 Les Mauxi sont grands, avec des cheveux raides et leur peau est couleur de cendres.
 
@@ -38,7 +38,7 @@ Groupe ethnique le moins connu des quatre principaux composant l'ethnie mwangi, 
 Les Bekyar sont très grands (la plupart d'entre eux font plus de 2,10 m). La couleur de leur peau varie du brun foncé au noir et ils portent de longs cheveux souvent tressés de manière élaborée.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Mwangis dans les suppléments
+Vous pourrez trouver plus d'informations à propos des Mwangis dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Golarion.Publications#HEARTOFTHEJUNGLE|Pathfinder Chronicles: Heart of the Jungle]].
 {s:VoirAussiAprès}

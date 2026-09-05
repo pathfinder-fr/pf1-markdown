@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 6,5 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d4/1d4 (P), 1d6/1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P et T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DOUBLE|double]]
+{s:AE}**Prix** 15 po ; **Poids** 6,5 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d4/1d4 (P), 1d6/1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P et T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DOUBLE|double]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 Cette arme vicieuse est souvent utilisée lors des spectacles de gladiateurs en raison de sa polyvalence. Le corps de l’arme est une lance courte standard, essentiellement utilisée pour les coups d’estoc. L’arrière de la lance est équipé d’une chaîne, présentant souvent des pointes, avec un crochet à son bout.  
   
 Le crochet et la chaîne peuvent être utilisés pour faire des attaques de [[croc-en-jambe]]. Si le personnage rate son attaque de croc-en-jambe de 10 ou plus, il peut laisser tomber sa lance à chaîne pour éviter de se retrouver [[à terre]].

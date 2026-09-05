@@ -49,16 +49,16 @@ Categories:
 **Dé de vie.** d12.
 
 ### Conditions requises
-Pour pouvoir devenir chevaucheur de mammouth, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir chevaucheur de mammouth, le personnage doit satisfaire aux conditions suivantes. 
 
-**Bonus de base à l'attaque.** +6.
+**Bonus de base à l'attaque.** +6. 
 
 **Compétences.** 9 rangs en [[Dressage]], 9 rangs en [[Équitation]], 5 rangs en [[Survie]].
 
 **Spécial.** Doit avoir un [[Compagnons animaux|compagnon animal]] (ou une monture provenant d'une capacité de classe qui progresse comme un compagnon animal) avec au moins 6 [[DV|dés de vie]].
 
 ### Compétences de classe
-Voici les compétences de la classe de chevaucheur de mammouth : [[Dressage]] (Cha), [[Équitation]] (Dex), [[Intimidation]] (Cha), [[Premiers secours]] (Sag) et [[Survie]] (Sag).
+Voici les compétences de la classe de chevaucheur de mammouth : [[Dressage]] (Cha), [[Équitation]] (Dex), [[Intimidation]] (Cha), [[Premiers secours]] (Sag) et [[Survie]] (Sag). 
 
 **Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
@@ -71,7 +71,7 @@ La taille du [[Chevaucheur de mammouth#DESTRIER|destrier]] d'un chevaucheur de m
 
 {s:reference|DESTRIER}
 #### Destrier (Ext)
-Un chevaucheur de mammouth peut choisir un des compagnons animaux suivants pour qu'il lui serve de destrier loyal : [amargasaure](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amargasaurus), [[arsinoithérium]], [[auroch]], [[baluchithérium]], [brontotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brontotherium), [[dromadaire]], [[chat]] (grand), [[cheval]], [deinotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deinotherium), [[élan]], [elasmotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elasmotherium), [kentrosaure](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kentrosaurus), [[loup]], mammouth laineux (prendre les caractéristique du mastodonte juste après), [[mastodonte]], [[mégalocéros]], [[moa]], [[ours polaire sanguinaire]], [[rhinocéros]], [[rhinocéros laineux]], [[styracosaure]], [[tricératops]] ou [[uintathérium]]. Le MJ peut décider d'étendre cette liste pour inclure d'autres destriers potentiels. Le destrier fonctionne comme le [[Druide#PACTEAVECLANATURE|compagnon animal]] du [[druide]] qui peut remplacer n'importe quel compagnon animal ou monture gagnés via une autre classe. Le niveau de chevaucheur de mammouth du personnage se cumule avec les autres classes qui offrent un compagnon animal pour déterminer son niveau effectif de druide.
+Un chevaucheur de mammouth peut choisir un des compagnons animaux suivants pour qu'il lui serve de destrier loyal : [amargasaure](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amargasaurus), [[arsinoithérium]], [[auroch]], [[baluchithérium]], [brontotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brontotherium), [[dromadaire]], [[chat]] (grand), [[cheval]], [deinotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deinotherium), [[élan]], [elasmotherium](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elasmotherium), [kentrosaure](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kentrosaurus), [[loup]], mammouth laineux (prendre les caractéristique du mastodonte juste après), [[mastodonte]], [[mégalocéros]], [[moa]], [[ours polaire sanguinaire]], [[rhinocéros]], [[rhinocéros laineux]], [[styracosaure]], [[tricératops]] ou [[uintathérium]]. Le MJ peut décider d'étendre cette liste pour inclure d'autres destriers potentiels. Le destrier fonctionne comme le [[Druide#PACTEAVECLANATURE|compagnon animal]] du [[druide]] qui peut remplacer n'importe quel compagnon animal ou monture gagnés via une autre classe. Le niveau de chevaucheur de mammouth du personnage se cumule avec les autres classes qui offrent un compagnon animal pour déterminer son niveau effectif de druide. 
 
 {s:reference|COERCITIONSAUVAGE}
 #### Coercition sauvage (Ext)
@@ -95,7 +95,7 @@ Au niveau 3 et tous les 2 niveaux par la suite, le bonus d'armure naturelle du [
 
 {s:reference|MEFIANCEENVERSLAMAGIE}
 #### Méfiance envers la magie (Ext)
-Au niveau 4, tant qu'un chevaucheur de mammouth n'a pas de niveaux dans une classe offrant la capacité de lancer des [[magie profane|sorts profanes]], il obtient un bonus de moral de +2 aux [[jds|jets de sauvegarde]] contre les sorts profanes. Tant qu'il n'a pas de niveaux dans une classe offrant la capacité de lancer des [[magie divine|sorts divins]], il obtient un bonus de moral de +2 contre les sorts divins. Tant qu'il n'a pas de niveaux dans une classe offrant la capacité de lancer des [[La magie psychique|sorts psychiques]], il obtient un bonus de moral de +2 contre les sorts psychiques.
+Au niveau 4, tant qu'un chevaucheur de mammouth n'a pas de niveaux dans une classe offrant la capacité de lancer des [[magie profane|sorts profanes]], il obtient un bonus de moral de +2 aux [[jds|jets de sauvegarde]] contre les sorts profanes. Tant qu'il n'a pas de niveaux dans une classe offrant la capacité de lancer des [[magie divine|sorts divins]], il obtient un bonus de moral de +2 contre les sorts divins. Tant qu'il n'a pas de niveaux dans une classe offrant la capacité de lancer des [[La magie psychique|sorts psychiques]], il obtient un bonus de moral de +2 contre les sorts psychiques. 
 
 {s:reference|BRAVOURE}
 #### Bravoure (Ext)
@@ -107,7 +107,7 @@ Au niveau 5, le [[Chevaucheur de mammouth#DESTRIER|destrier]] obtient un bonus d
 
 {s:reference|INSTINCTDUCHASSEUR}
 #### Instinct du chasseur (Ext)
-Au niveau 6, un chevaucheur de mammouth obtient la capacité [[Rôdeur#PROIEDUCHASSEUR|proie du chasseur]] ; elle fonctionne exactement comme la capacité de [[rôdeur]] du même nom. S'il possède déjà cette capacité via une autre classe, il obtient à la place la capacité de classe [[Rôdeur#PROIEDUMAITRECHASSEUR|proie du maître chasseur]]. Un chevaucheur de mammouth peut utiliser ces capacités sur n'importe quel ennemi, et pas seulement sur un ennemi juré.
+Au niveau 6, un chevaucheur de mammouth obtient la capacité [[Rôdeur#PROIEDUCHASSEUR|proie du chasseur]] ; elle fonctionne exactement comme la capacité de [[rôdeur]] du même nom. S'il possède déjà cette capacité via une autre classe, il obtient à la place la capacité de classe [[Rôdeur#PROIEDUMAITRECHASSEUR|proie du maître chasseur]]. Un chevaucheur de mammouth peut utiliser ces capacités sur n'importe quel ennemi, et pas seulement sur un ennemi juré. 
 
 {s:reference|ALLONGEDUDESTRIER}
 #### Allonge du destrier (Ext)
@@ -119,7 +119,7 @@ Au niveau 8, un chevaucheur de mammouth peut donner un coup combinant sa puissan
 
 {s:reference|ASSAUTPULVERISANT}
 #### Assaut pulvérisant (Ext)
-Au niveau 9, si un chevaucheur de mammouth est en selle sur son [[Chevaucheur de mammouth#DESTRIER|destrier]] et qu'il lui ordonne de réaliser une [[charge]], une [[Constriction (capacité)|constriction]], une [[Charge puissante (capacité)|charge puissante]] ou un [[Piétinement (capacité)|piétinement]], alors la première fois que son destrier inflige des dégâts avec cette attaque à ce [[round]], la cible doit réussir un jet de [[Vigueur]] ([[DD]] 10 + moitié des [[DV|dés de vie]] du destrier + modificateur de [[Force]] du destrier) ou être [[chancelant|chancelante]] pendant 1d4 [[round|rounds]].
+Au niveau 9, si un chevaucheur de mammouth est en selle sur son [[Chevaucheur de mammouth#DESTRIER|destrier]] et qu'il lui ordonne de réaliser une [[charge]], une [[Constriction (capacité)|constriction]], une [[Charge puissante (capacité)|charge puissante]] ou un [[Piétinement (capacité)|piétinement]], alors la première fois que son destrier inflige des dégâts avec cette attaque à ce [[round]], la cible doit réussir un jet de [[Vigueur]] ([[DD]] 10 + moitié des [[DV|dés de vie]] du destrier + modificateur de [[Force]] du destrier) ou être [[chancelant|chancelante]] pendant 1d4 [[round|rounds]]. 
 
 {s:reference|SEIGNEURMAMMOUTH}
 #### Seigneur mammouth (Ext)

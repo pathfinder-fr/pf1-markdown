@@ -11,11 +11,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:regional|Taldor|Taldor|taldoriens}{s:MR}{s:UI}**École** [[école divination|Divination]] ; **Niveau**  [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un document écrit dans la langue de la culture à imiter)
-**Portée** personnelle
-**Cible** le lanceur de sort
+{s:regional|Taldor|Taldor|taldoriens}{s:MR}{s:UI}**École** [[école divination|Divination]] ; **Niveau**  [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1   
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un document écrit dans la langue de la culture à imiter)  
+**Portée** personnelle  
+**Cible** le lanceur de sort  
 **Durée** 10 minutes/niveau
 
 *Lors de l’apogée expansionniste de l’[[Golarion.Taldor|Empire décadent]], les magiciens de ce pays développèrent ce sort dans l’espoir qu’il permettrait de pacifier leurs conquêtes « non-civilisées » plus facilement. Si ce sort est passé de mode pour les habitants de cet empire, il est largement utilisé par les autres, notamment les bardes et les Explorateurs.*

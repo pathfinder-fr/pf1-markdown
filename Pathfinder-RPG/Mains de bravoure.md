@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs} {s:ISG} *Les mains du personnage étanchent les plaies et inspirent à faire de grands exploits.*
+{s:cs} {s:ISG} *Les mains du personnage étanchent les plaies et inspirent à faire de grands exploits.* 
 
 **Conditions.** Capacité de classe [[Paladin#IMPOSITIONDESMAINS|imposition des mains]], suivant d'[[Iomédae (technique)|Iomédae]]
 

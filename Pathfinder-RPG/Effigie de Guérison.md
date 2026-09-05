@@ -8,7 +8,7 @@ LastModified: 2024-05-31 16:01
 {s:BDTitre|Effigie de guérison|{s:AE}}
 **Aura** [[Abjuration]] et [[Invocation]] faibles ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 1.500 po ; **Poids** —
 (((Description)))
-Une effigie de guérison confère à son porteur un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] pour soigner un effet continu tel que les dégâts infligés par un poison actif, les [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] quotidiens contre une maladie, le sort *[[immobilisation de personne]]* ou les dégâts persistants infligés par une attaque. Ce bonus ne s’applique pas lors du premier [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] pour résister à ce type d’effets. Si les points de vie du porteur passent en-dessous de 0, l’effigie soigne le porteur de 2d8+3 points de dégâts puis tombe en poussières.
+Une effigie de guérison confère à son porteur un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] pour soigner un effet continu tel que les dégâts infligés par un poison actif, les [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] quotidiens contre une maladie, le sort *[[immobilisation de personne]]* ou les dégâts persistants infligés par une attaque. Ce bonus ne s’applique pas lors du premier [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] pour résister à ce type d’effets. Si les points de vie du porteur passent en-dessous de 0, l’effigie soigne le porteur de 2d8+3 points de dégâts puis tombe en poussières. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Peau décorce|peau d’écorce]]*, *[[soins modérés]]*  ; **Coût** 750 po
 </div>

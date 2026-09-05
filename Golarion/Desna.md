@@ -9,41 +9,41 @@ Categories:
 {s:Dieu|Desna|%2fPCUP%2fReligion-PNG%2fDesna.png|La musique des sphères|CB|Les rêves, les étoiles, les voyageurs et la chance|Les voyageurs, les joueurs, les Varisiens, les astronomes et les musiciens|Lamétoile|Bien, Chance, Chaos, Libération, Voyage|Azatas, Malédiction, Exploration, Destin, Liberté, Révolution|Conversion, Hérésie, Illumination, Oubli}''Que chaque rêve soit une étoile brillante dans l'obscurité de la nuit,
 et qu'il éclaire ta journée''
 
-Desna est une des plus anciennes divinités, et elle a peu changé depuis l'aube de la civilisation.
-Elle habite dans un palais appelé Cynosure, que l'on peut voir dans le ciel, la nuit, au nord.
+Desna est une des plus anciennes divinités, et elle a peu changé depuis l'aube de la civilisation. 
+Elle habite dans un palais appelé Cynosure, que l'on peut voir dans le ciel, la nuit, au nord. 
 C'est l'étoile autour de laquelle dansent toutes les autres.
 
 ### Histoire
 
-Lorsque les autres dieux créèrent le monde, la légende raconte que Desna était occupée à placer des étoiles dans les cieux, sans regarder les autres divinités qui façonnaient un monde plein de merveilles qu'elle pourrait explorer en compagnie de ses fidèles.
+Lorsque les autres dieux créèrent le monde, la légende raconte que Desna était occupée à placer des étoiles dans les cieux, sans regarder les autres divinités qui façonnaient un monde plein de merveilles qu'elle pourrait explorer en compagnie de ses fidèles. 
 Depuis ce jour, tous ceux qui cherchent les étoiles se retrouvent dans l'errance sans fin des mystères du ciel.
 Desna est en conflit avec [[Lamashtu]] qui aurait fait disparaitre l'ancien mentor de la déesse des rêves, Curchanus, l'ancien dieu des bêtes, du voyage et de l'endurance.
 
 ### Apparence
 
-Desna apparaît souvent comme une belle femme elfe, vêtue d'une robe flottante aux couleurs vives avec des ailes de papillons sur le dos.
+Desna apparaît souvent comme une belle femme elfe, vêtue d'une robe flottante aux couleurs vives avec des ailes de papillons sur le dos. 
 Souvent, un nuage délicat de papillons accompagne son image.
 
 ### Émissaires
 
-Même si dans les faits elle n'est apparue que rarement en varisienne, elle semble s'identifier fortement avec eux.
+Même si dans les faits elle n'est apparue que rarement en varisienne, elle semble s'identifier fortement avec eux. 
 Peut-être en raison de leur amour pour les voyages et le respect qu'ils ont pour le monde.
-Souvent Desna montre sa faveur par une manifestation de papillons, notamment des battus philenor bleus.
+Souvent Desna montre sa faveur par une manifestation de papillons, notamment des battus philenor bleus. 
 
 ### Doctrine
 
-Vagabonds dans l'âme, les fidèles de Desna voyagent dans le monde à la recherche de nouvelles expériences, tout en essayant de vivre leur vie sans entrave.
+Vagabonds dans l'âme, les fidèles de Desna voyagent dans le monde à la recherche de nouvelles expériences, tout en essayant de vivre leur vie sans entrave. 
 La simplicité est l'adage de la plupart des prêtres. Ceux-ci portent une robe blanche avec des garnitures noires et un col de soie, bien que les membres plus influents du clergé ajoutent d'autres éléments décoratifs.
 Ses prêtres trouvent que c'est une bonne chose de maîtriser son arme favorite, une lame que l'on peut lancer connue sous le nom de lamétoile (l'arme est devenue très populaire même chez les non adorateurs de Desna).
-Les pionniers, les éclaireurs, les aventuriers, les marins, tous la couvrent de louanges, de même que les caravaniers et les personnes qui voyagent pour affaire.
-Sa chance en fait la déesse favorite des joueurs et des voleurs.
+Les pionniers, les éclaireurs, les aventuriers, les marins, tous la couvrent de louanges, de même que les caravaniers et les personnes qui voyagent pour affaire. 
+Sa chance en fait la déesse favorite des joueurs et des voleurs. 
 
 ### Temples
 
-Son culte a toujours été le plus fort dans les régions connues aujourd'hui comme la [[Varisie]] et l'[[Ustalav]].
-Leurs temples sont à l'air libre, ouverts sur le monde. La plupart possèdent un puits de lumière qui permet de voir le ciel, et des cartes astrologiques pour marquer les événements célestes importants.
-Desna possède quelques temples, mais elle préfère les sanctuaire sans surveillance, à la croisée des chemins et des lieux à la beauté isolée, comme les collines ou les péninsules.
-Ses temples peuvent servir d'observatoires célestes ou au moins avoir une chambre avec vue sur le ciel. Dans les zones rurales, ils ont souvent des offices pour les voyageurs.
+Son culte a toujours été le plus fort dans les régions connues aujourd'hui comme la [[Varisie]] et l'[[Ustalav]]. 
+Leurs temples sont à l'air libre, ouverts sur le monde. La plupart possèdent un puits de lumière qui permet de voir le ciel, et des cartes astrologiques pour marquer les événements célestes importants. 
+Desna possède quelques temples, mais elle préfère les sanctuaire sans surveillance, à la croisée des chemins et des lieux à la beauté isolée, comme les collines ou les péninsules. 
+Ses temples peuvent servir d'observatoires célestes ou au moins avoir une chambre avec vue sur le ciel. Dans les zones rurales, ils ont souvent des offices pour les voyageurs. 
 Malgré le fait que son église soit l'une des plus anciennes, elle est fort désorganisée. Effectivement par rapport à d'autres divinités, les églises de Desna sont peu nombreuses.
 
 

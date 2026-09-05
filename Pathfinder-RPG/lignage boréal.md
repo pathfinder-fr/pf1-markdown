@@ -28,7 +28,7 @@ Categories:
 
 **Blizzard (Mag).** Au [[niveau]] 15, l’[[ensorceleur]] peut créer une forte tempête hivernale centrée sur lui. Cette capacité fonctionne comme *[[contrôle des vents]]*, mais en plus des effets normaux, la zone entière (à l’exception de « l’oeil » au centre de la tempête) est affectée comme par une *[[tempête de neige]]* et il y règne un [[Dangers naturels#FROID|froid extrême]]. L’[[ensorceleur]] peut utiliser cette capacité une fois par jour.
 
-**Fils des hivers ancestraux (Sur).** Au [[niveau]] 20, l’[[ensorceleur]] acquiert le [[sous-type froid]] et il devient [[immunité (capacité)|immunisé]] contre la [[fatigué|fatigue]] et l’[[épuisé|épuisement]]. De plus, il développe une [[immunité (capacité)|immunité]] contre les [[roublard#ATTAQUESOURNOISE|attaques sournoises]] et les [[coup critique|coups critiques]]. Cette capacité lui fait également gagner une [[vulnérabilités (capacité)|vulnérabilité au feu]].
+**Fils des hivers ancestraux (Sur).** Au [[niveau]] 20, l’[[ensorceleur]] acquiert le [[sous-type froid]] et il devient [[immunité (capacité)|immunisé]] contre la [[fatigué|fatigue]] et l’[[épuisé|épuisement]]. De plus, il développe une [[immunité (capacité)|immunité]] contre les [[roublard#ATTAQUESOURNOISE|attaques sournoises]] et les [[coup critique|coups critiques]]. Cette capacité lui fait également gagner une [[vulnérabilités (capacité)|vulnérabilité au feu]]. 
 
 {s:um}
 ## Lignage sauvage Sang givré

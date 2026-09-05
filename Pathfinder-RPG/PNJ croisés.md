@@ -35,7 +35,7 @@ Categories:
 {s:BDTexte|**Faveur** Un écuyer peut présenter personnellement les PJ à un chevalier ou les aider à acheter une monture entraînée au combat ou de l’équipement d’équitation avec une réduction de prix de 5%. Il peut également accepter de servir un PJ guerrier, paladin ou rôdeur soit pour une période limitée soit jusqu’à ce qu’il soit sacré chevalier.}
 </div>
 </td><td><div>
-Les écuyers sont des aspirants chevaliers, de jeunes individus robustes qui s’entraînent au combat et prennent également soin de l’équipement de leur maître, le gardant affûté, propre et prêt à l’emploi. Les écuyers apprennent aussi les arts nobles et l’étiquette. Une fois qu’ils ont prouvé leur loyauté et leurs capacités martiales, ils deviennent généralement
+Les écuyers sont des aspirants chevaliers, de jeunes individus robustes qui s’entraînent au combat et prennent également soin de l’équipement de leur maître, le gardant affûté, propre et prêt à l’emploi. Les écuyers apprennent aussi les arts nobles et l’étiquette. Une fois qu’ils ont prouvé leur loyauté et leurs capacités martiales, ils deviennent généralement 
 des chevaliers. Dans les pays où seul le roi ou un autre monarque peut nommer des chevaliers, certains restent écuyers toute leur vie.
 
 Les écuyers peuvent servir de hérauts, de porteurs d’étendard, d’éclaireurs ou de messagers royaux. On peut aussi les utiliser comme tirailleurs ou cavalerie légère ou peut-être comme gardes d’un manoir appartenant à un noble d’importance mineure. Un groupe d’écuyers peut également représenter un groupe de nobles partis à la chasse.
@@ -120,7 +120,7 @@ Un guerrier saint peut commander dix gardes du temple (voir [[PNJ milices#GARDE|
 {s:BDTexte|**Faveur** Un saint homme peut fabriquer ou faire fabriquer un objet magique d’alignement Bon pour les PJ avec une réduction de prix de 20%, arranger une entrevue avec un PNJ d’alignement Bon de n’importe quel niveau ou obtenir de son dieu la réponse à une unique question comme s’il utilisait le sort de communion.}
 </div>
 </td><td><div>
-Un saint homme incarne l’idéal du croisé. Il peut se trouver à la tête d’un temple ou d’un ordre de croisés ou même de sa propre tradition religieuse.
+Un saint homme incarne l’idéal du croisé. Il peut se trouver à la tête d’un temple ou d’un ordre de croisés ou même de sa propre tradition religieuse. 
 
 Un saint homme est généralement accompagné d’un [[PNJ temples#PRETRE|prêtre]] et d’un [[PNJ croisés#GUERRIERSAINT|guerrier saint]] agissant comme conseillers (FP 12). Un saint homme et une escouade de quatre [[PNJ croisés#GUERRIERSAINT|guerrier saint]] peuvent accompagner un [[PNJ royautés#ROI|roi]] (FP 15).
 </div></td></tr></table>

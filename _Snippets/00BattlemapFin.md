@@ -19,7 +19,7 @@ fcontrol = window.open('','Contrôle','scrollbars=yes,height=700,width=480,resiz
 doccontrol = fcontrol.document;
 
 docbmap.body.innerHTML = "<div style='position: relative; left: 0; top: 0' id='maindivbmap'></div>";
-maindivbmap = docbmap.getElementById("maindivbmap");
+maindivbmap = docbmap.getElementById("maindivbmap");  
 
 creamap();
 
@@ -405,7 +405,7 @@ contenu = "<tr><td " + tstyle + ">Aucun jeton</td></tr>";
 for (var i = 0; i < battlemap.nelems; i++) {
 var currelem = arrayget(battlemap.elems,arrayget(tabordre,i));
 if (i > 0)
-contenu += "<tr><td colspan=5 style='background-color: black; padding: 1px'></td></tr>";
+contenu += "<tr><td colspan=5 style='background-color: black; padding: 1px'></td></tr>";   
 contenu += "<tr style='vertical-align: middle'>";
 contenu += "<td ROWSPAN=2><img style='width:56px; height:56px' id='img" + i + "' src='" + currelem.src + "'/></td>";
 contenu += "<td style='color:#fff; background-color:";
@@ -491,7 +491,7 @@ listeJetons();
 
 function supprimeJeton(idx) {
 idxmvt = -1;
-idxzmvt = -1;
+idxzmvt = -1;  
 idxomvt = -1;
 var answer = fcontrol.confirm("Voulez-vous vraiment supprimer " + arrayget(battlemap.elems,idx).nom + " ?");
 if (answer) {

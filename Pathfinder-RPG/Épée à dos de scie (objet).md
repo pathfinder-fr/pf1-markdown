@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +5 po ; **Poids** —
+{s:AE}**Prix** +5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Il s'agit d'une modification que l'on peut apporter à toute [[Groupe darmes#Lameslégères|lame légère]] ou [[Groupe darmes#Lameslourdes|lourde]] plutôt qu'à un seul type d'arme. Une lame de scie au dos d'une épée permet au personnage d'utiliser son arme pour effectuer des travaux sommaires de charpenterie.

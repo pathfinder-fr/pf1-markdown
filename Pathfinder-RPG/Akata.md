@@ -14,29 +14,29 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 2 page 25*}
 {s:BDTexte|**XP** 400}
 {s:BDTexte|[[type Aberration|Aberration]] de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +1}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +1} 
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 15 (2d8+6)}
-{s:BDTexte|**Réf** +2, **Vig** +3, **Vol** +4}
+{s:BDTexte|**Réf** +2, **Vig** +3, **Vol** +4} 
 {s:BDTexte|**Capacités défensives** ne respire pas ; **Immunités** froid, maladie, poison ; **Résistance** feu 30}
 {s:BDTexte|**Faiblesses** sourd, vulnérable à l'eau de mer}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (9 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +2 (1d6+1 plus morsure du néant), 2 tentacules, -3 (1d3)}
 {s:BDSousTitre|Caractéristiques}
-{s:BDTexte|**For** 12, **Dex** 15, **Con** 16, **Int** 3, **Sag** 12, **Cha** 11}
+{s:BDTexte|**For** 12, **Dex** 15, **Con** 16, **Int** 3, **Sag** 12, **Cha** 11} 
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14 (18 contre [[croc-en-jambe]])}
 {s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
-{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+10 pour sauter), [[Discrétion]] +10, [[Escalade]] +9 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter, +4 en Discrétion}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+10 pour sauter), [[Discrétion]] +10, [[Escalade]] +9 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter, +4 en Discrétion} 
 {s:BDTexte|**Particularités** hibernation}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-30)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Hibernation (Ext)** Les akatas peuvent entrer en hibernation pour une période illimitée lorsque la nourriture se fait rare. Quand un akata désire hiberner, il cherche un repaire où se cacher et s’entoure d’une couche de matériel fibreux qu’il excrète par sa bouche. Ces fibres durcissent rapidement en un cocon fait d’une matière quasiment aussi dense que du métal. Un akata en hibernation n’a besoin ni de manger ni de boire. Le cocon a une [[solidité]] de 10 points et possède 60 points de vie, il est immunisé contre le feu et les dégâts de type contondant (y compris ceux provoqués par des chutes). Tant que le cocon reste intact, l’akata en son sein ne peut être blessé. L’akata reste en hibernation jusqu’à ce qu’il sente la présence d’une autre créature vivante dans un rayon de 3 mètres ou qu’il soit exposé à une chaleur extrême. À ce moment, il utilise ses griffes pour se frayer un passage hors du cocon en 1d4 minutes. Une fois brisé, le cocon se décompose en fragments de métal étrange.}
-{s:BDTexte|**Morsure du néant (Ext)** Les akatas abritent dans leur gueule des centaines de larves microscopiques. Ils transmettent ces parasites à des hôtes en les mordant. Seuls les humanoïdes font des hôtes viables pour les jeunes akatas ; tous les autres types de créatures sont immunisés contre cette infection parasite. La [[maladie]] en elle-même est connue sous le nom de « mort du néant ».
+{s:BDTexte|**Hibernation (Ext)** Les akatas peuvent entrer en hibernation pour une période illimitée lorsque la nourriture se fait rare. Quand un akata désire hiberner, il cherche un repaire où se cacher et s’entoure d’une couche de matériel fibreux qu’il excrète par sa bouche. Ces fibres durcissent rapidement en un cocon fait d’une matière quasiment aussi dense que du métal. Un akata en hibernation n’a besoin ni de manger ni de boire. Le cocon a une [[solidité]] de 10 points et possède 60 points de vie, il est immunisé contre le feu et les dégâts de type contondant (y compris ceux provoqués par des chutes). Tant que le cocon reste intact, l’akata en son sein ne peut être blessé. L’akata reste en hibernation jusqu’à ce qu’il sente la présence d’une autre créature vivante dans un rayon de 3 mètres ou qu’il soit exposé à une chaleur extrême. À ce moment, il utilise ses griffes pour se frayer un passage hors du cocon en 1d4 minutes. Une fois brisé, le cocon se décompose en fragments de métal étrange.} 
+{s:BDTexte|**Morsure du néant (Ext)** Les akatas abritent dans leur gueule des centaines de larves microscopiques. Ils transmettent ces parasites à des hôtes en les mordant. Seuls les humanoïdes font des hôtes viables pour les jeunes akatas ; tous les autres types de créatures sont immunisés contre cette infection parasite. La [[maladie]] en elle-même est connue sous le nom de « mort du néant ». 
 - *Mort du néant* : Morsure — blessure ; *JdS* [[jet de sauvegarde|Vig]] [[DD]] 12 ; *incubation* 1 heure ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] 1d2 [[Dextérité|Dex]] et 1d2 [[Constitution|Con]] et toute créature infectée qui meurt se relève sous la forme d’un zombi du néant 2d4 heures plus tard (voir ci-contre) ; *guérison* 2 réussites consécutives.}{s:BDTexte|**Sourd (Ext)** Les akatas n’ont aucune capacité auditive. Ils sont immunisés contre les sorts et les effets nécessitant une cible dotée d’ouïe et ne peuvent pas faire de tests de Perception auditive.}{s:BDTexte|**Vulnérable à l'eau de mer (Ext)** L’eau de mer agit comme un acide très puissant sur les akatas. Une simple éclaboussure leur inflige 1d6 points de dégâts et, en cas d’immersion complète, ils subissent 4d6 points de dégâts par round.} 
 </td><td><div> *Ce lion bleu imberbe possède deux tentacules caudaux et une crinière constituée de dizaines d’autres tentacules qui ondulent et s’agitent.*
 

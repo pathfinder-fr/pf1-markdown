@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (le sang séché d’un extérieur mauvais saupoudré sur l’arme)
-**Portée** contact
-**Cible** une arme de corps à corps touchée
-**Durée** 1 minute/niveau
+{s:MMI}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (le sang séché d’un extérieur mauvais saupoudré sur l’arme)  
+**Portée** contact  
+**Cible** une arme de corps à corps touchée  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 *Ce sort a été créé par les paladins des Croisades contre les démons. Les [[Inquisiteur|inquisiteurs]] et les [[Rôdeur|rôdeurs]] spécialisés dans la traque et le combat contre les démons, les diables et autres créatures extraplanaires malfaisantes se le sont approprié par la suite.*

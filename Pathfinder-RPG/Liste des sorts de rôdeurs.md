@@ -12,7 +12,7 @@ Categories:
 ---
 
 {s:MenuMagie}
-Un sort suivi d’un (M) ou d’un (F) dénote la présence d’une [[composante matérielle]] ou d’un [[focalisateur]] qui ne se trouve normalement pas dans une [[Sacoche à composantes (objet)|sacoche à composantes]].
+Un sort suivi d’un (M) ou d’un (F) dénote la présence d’une [[composante matérielle]] ou d’un [[focalisateur]] qui ne se trouve normalement pas dans une [[Sacoche à composantes (objet)|sacoche à composantes]].  
 Un sort suivi d'un (Y) possède une version mythique.
 
 **Ordre de présentation.** Dans la liste, les sorts et leur courte description sont présentées par ordre alphabétique, hormis quand ils appartiennent à une chaîne de sorts particulière.

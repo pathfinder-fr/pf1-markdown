@@ -9,11 +9,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 4, [[rôdeur|Rôd]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[portée|personnelle]] (voir description)
-**Cible** le personnage et un compagnon animal situé à 9 mètres ou moins
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 4, [[rôdeur|Rôd]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[portée|personnelle]] (voir description)  
+**Cible** le personnage et un compagnon animal situé à 9 mètres ou moins  
 **Durée** 1 heure/[[niveau]] (T)
 
 Ce sort affecte le personnage et un [[druide#PACTEAVECLANATURE|compagnon animal]] situé à 9 mètres ou moins. Grâce à lui, le personnage et le compagnon animal gagnent la [[capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] jusqu’à 30 mètres, la [[perception des vibrations (capacité)|perception des vibrations]] jusqu’à 6 mètres et un bonus d’altération de 12 mètres à la vitesse de déplacement. De plus, le personnage peut suivre une piste en se déplaçant à sa vitesse de déplacement normale sans subir de malus. S’il est déjà capable de le faire à sa vitesse de déplacement normale, il gagne à la place un bonus de +4 aux tests de [[Survie]] pour suivre une piste.

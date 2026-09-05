@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Abadar|%2fPCUP%2fReligion-PNG%2fAbadar.png}{s:ISG}{s:GeM}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, DF]]
-**Portée** contact
-**Cible** créature touchée
-**Durée** 1 minute/[[niveau]]
+{s:divin|Abadar|%2fPCUP%2fReligion-PNG%2fAbadar.png}{s:ISG}{s:GeM}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, DF]]  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme le sort *[[zone de vérité]]*, à l’exception de ce qui est indiqué plus haut. La cible prend temporairement l'apparence d'un être personnifiant l'ordre, comme un [[archon]] ou un [[inévitable]], afin que tous ceux qui la voient sachent qu'elle est affectée par ce sort. Ce déguisement divin vacille sur la cible pendant quelques instants et ne lui permet pas de passer pour un membre d'une race différente.

@@ -16,12 +16,12 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** 1 minute/[[niveau]] (T)
----
+<hr />
 Une fois le sort lancé, les yeux du personnage brillent d’une lumière bleutée. Il est désormais capable de voir les auras magiques dans un rayon de trente-six mètres. L’effet est identique à celui de *[[détection de la magie]]*, mais ne nécessite pas de [[concentration]]. Il permet ainsi de distinguer les auras et leur intensité plus rapidement.
 
 Le mage décèle donc la localisation et l’intensité de toutes les auras magiques situées dans son champ de vision. L’intensité d’un effet dépend du [[niveau du sort]] ou du [[NLS|niveau de lanceur de sorts]] de l’objet, comme cela est indiqué dans la description du sort *[[détection de la magie]]*. Si les objets ou créatures portant les auras se trouvent dans la ligne de mire du mage, celui-ci peut effectuer un test d’[[Art de la magie]] pour déterminer l’[[écoles de magie|école de magie]] de chacune (un test par aura ; [[DD]] 15 + [[niveau du sort]], ou 15 + la moitié du [[NLS|niveau de lanceur de sorts]] pour un effet ne relevant pas d’un sort).
@@ -36,13 +36,13 @@ Enfin, il est possible d’user de *[[permanence]]* sur un sort de *vision magiq
 
 ((({s:sortssimilaires|vision magique}
 ## [[Vision magique suprême]]
-**École** [[école divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+**École** [[école divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** 1 minute/[[niveau]] (T)
----
+<hr />
 Ce sort fonctionne comme *[[vision magique]]*, sauf que le mage découvre les sorts et effets magiques actifs sur un individu ou objet qu’il observe.
 
 Contrairement à *[[vision magique]]*, ce sort ne peut pas bénéficier de *[[permanence]]*.

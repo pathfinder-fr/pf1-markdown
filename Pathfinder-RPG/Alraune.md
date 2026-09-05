@@ -49,32 +49,32 @@ Categories:
 </td><td><div>
 *Cette femme très séduisante à la peau verte repose au cœur d’une énorme fleur au doux parfum.*
 
-L’alraune se sert de son odeur anormalement apaisante pour
-effacer toute trace d’hostilité envers elle chez ses ennemis  :
-même si elle attaque un ennemi, son parfum apaisant peut
-chasser toute pensée de violence de l’esprit de sa proie. Au repos,
-l’alraune ressemble à une grande plante épineuse avec, en son
-centre, une unique et énorme fleur aux couleurs vives.
-Lorsqu’une alraune attaque, ses lianes couvertes d’épines
-fouettent l’air et sa fleur s’ouvre, révélant alors une séduisante
-créature humanoïde à la peau verte. Le sexe apparent de la
-mandragore varie d’une rencontre à l’autre, la plante pouvant
-remodeler comme elle l’entend les parties humaines qui la
-constituent afin d’accroître ses chances de tranquilliser sa
-victime. Quel que soit son sexe apparent, la plante est une
-créature asexuée qui se reproduit (généralement une à deux
-fois tous les dix ans) en ne formant qu’un seul bourgeon au
-cours du printemps.
-En dépit de leur apparence, les alraunes sont très mobiles (elles
-peuvent se déplacer le long de leurs nombreuses racines et lianes
-épineuses, un peu comme des araignées). Elles chassent en se
-servant de leur pouvoir de communion avec la nature pour localiser
-les proies potentielles, préférant la chair des humanoïdes à toute
-autre. Lorsqu’une alraune a besoin d’une proie, elle utilise ses
-pouvoirs mentaux pour convaincre son ennemi de creuser sa
-propre tombe et de s’y enterrer  : une fois l’ennemi enseveli et
-sans défense, l’alraune s’en nourrit en enfonçant ses racines dans
-ses chairs, transformant le sang et les souvenirs
-de la victime en cette étrange substance
+L’alraune se sert de son odeur anormalement apaisante pour 
+effacer toute trace d’hostilité envers elle chez ses ennemis  : 
+même si elle attaque un ennemi, son parfum apaisant peut 
+chasser toute pensée de violence de l’esprit de sa proie. Au repos, 
+l’alraune ressemble à une grande plante épineuse avec, en son 
+centre, une unique et énorme fleur aux couleurs vives. 
+Lorsqu’une alraune attaque, ses lianes couvertes d’épines 
+fouettent l’air et sa fleur s’ouvre, révélant alors une séduisante 
+créature humanoïde à la peau verte. Le sexe apparent de la 
+mandragore varie d’une rencontre à l’autre, la plante pouvant 
+remodeler comme elle l’entend les parties humaines qui la 
+constituent afin d’accroître ses chances de tranquilliser sa 
+victime. Quel que soit son sexe apparent, la plante est une 
+créature asexuée qui se reproduit (généralement une à deux 
+fois tous les dix ans) en ne formant qu’un seul bourgeon au 
+cours du printemps. 
+En dépit de leur apparence, les alraunes sont très mobiles (elles 
+peuvent se déplacer le long de leurs nombreuses racines et lianes 
+épineuses, un peu comme des araignées). Elles chassent en se 
+servant de leur pouvoir de communion avec la nature pour localiser 
+les proies potentielles, préférant la chair des humanoïdes à toute 
+autre. Lorsqu’une alraune a besoin d’une proie, elle utilise ses 
+pouvoirs mentaux pour convaincre son ennemi de creuser sa 
+propre tombe et de s’y enterrer  : une fois l’ennemi enseveli et 
+sans défense, l’alraune s’en nourrit en enfonçant ses racines dans 
+ses chairs, transformant le sang et les souvenirs 
+de la victime en cette étrange substance 
 nutritive dont elle a tant besoin.
 </div></td></tr></table>

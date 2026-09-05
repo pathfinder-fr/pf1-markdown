@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 35 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15
+{s:cs}{s:UI}**Prix** 35 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Ces perles alchimiques sont similaires aux [[Graines sentinelles (objet)|graines sentinelles]], mais sont également remplies d’un gaz alchimique qui explose au contact de l’air. L’explosion est bien plus bruyante et voyante que le bruit provoqué par des graines sentinelles normales ([[Perception]] [[DD]] 0). Les créatures dans un rayon de 1,5 m des perles lorsqu’elles se brisent doivent réussir un jet de [[Vigueur]] [[DD]] 11 ou être [[aveuglé|aveuglées]] pendant 1 round.

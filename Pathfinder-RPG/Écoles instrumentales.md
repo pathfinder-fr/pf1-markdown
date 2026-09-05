@@ -96,7 +96,7 @@ Chaque fois que l’occultiste investit de la [[occultiste#FOCALISATIONMENTALE|f
 
 *Focalisation intensifiée (Sur)*. L’instrument canalise et augmente les effets de la magie d’évocation destructrice. Un lanceur de sorts en possession de l’instrument peut l’ajouter en guise de composante de focalisation supplémentaire à ses sorts d’évocation ou ses pouvoirs de focalisation qui infligent des dégâts et dont la durée est instantanée. Le cas échéant, le sort ou le pouvoir de focalisation inflige 1 point de dégâts supplémentaire du même type à chaque créature pour chaque tranche de 2 points de focalisation investis dans l’instrument, jusqu’à un maximum de 1 + 1 tous les 2 niveaux d’occultiste.
 
-{s:Reference|EVOCATIONFOCALISATIONDEBASE}
+{s:Reference|EVOCATIONFOCALISATIONDEBASE}  
 #### Pouvoir de focalisation de base
 Tous les occultistes qui apprennent l’utilisation des instruments d’évocation acquièrent le pouvoir de focalisation suivant.
 
@@ -225,7 +225,7 @@ En plus du pouvoir de focalisation de base, les occultistes qui apprennent l’u
 {s:Reference|NECROMANCIE}
 ### Instruments de nécromancie
 Les instruments qui puisent leur pouvoir des énergies nécromantiques peuvent contrôler les morts-vivants et nuire aux vivants.
-{s:Reference|NECROMANCIEINSTRUMENTS}
+{s:Reference|NECROMANCIEINSTRUMENTS}  
 #### Instruments
 Crâne, os, pièce de monnaie, poupée, robe, tambour.
 {s:Reference|NECROMANCIERESONANCE}

@@ -38,21 +38,21 @@ Tenir son arme principale devant soi et y accrocher un symbole sacré de Ioméda
 : **3.** ***Frappe de bannissement (Mag).*** Une fois par jour, le personnage peut canaliser les effets de *[[bannissement]]* à travers son arme, même s'il est incapable de lancer (ni même connaître) le sort.. Le personnage doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Si l'attaque touche, la cible est affectée comme si elle avait été ciblée par un sort de *bannissement*. Si le personnage porte ouvertement un symbole sacré de Iomédae, il bénéficie d'un bonus de +1 aux tests de [[NLS|niveau de lanceur de sorts]] pour vaincre la [[RM|résistance à la magie]] de la cible (le cas échéant) et augmente de 2 le DD du jet de sauvegarde.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]).**
+**Lancement de sorts ([[inquisiteur]]).**  
 • *[[Épée sainte]]* peut être préparé comme un sort de 6e niveau.
 
-**Lancement de sorts ([[paladin]]).**
-• *[[Espoir]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[paladin]]).**  
+• *[[Espoir]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Marque de la justice]]* peut être préparé comme un sort de 3e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Épée sainte]]* peut être préparé comme un sort de 8e niveau.
-• *[[Espoir]]* peut être préparé comme un sort de 4e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Épée sainte]]* peut être préparé comme un sort de 8e niveau.  
+• *[[Espoir]]* peut être préparé comme un sort de 4e niveau.  
 • *[[Marque de la justice]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation dalliés naturels VI|Convocation d'alliés naturels VI]].* [[Griffon]] [[Archétypes#CREATURECELESTE|céleste]] - NB
-• *[[Convocation de monstres IV]].* [[Lion]] [[Archétypes#CREATURECELESTE|céleste]] - LB
+**Convocations étendues.**  
+• *[[Convocation dalliés naturels VI|Convocation d'alliés naturels VI]].* [[Griffon]] [[Archétypes#CREATURECELESTE|céleste]] - NB  
+• *[[Convocation de monstres IV]].* [[Lion]] [[Archétypes#CREATURECELESTE|céleste]] - LB  
 • *[[Convocation de monstres VI]].* [[Griffon]] [[Archétypes#CREATURECELESTE|céleste]] - NB
 
 #### Code de conduite du paladin
@@ -71,5 +71,5 @@ Les [[Paladin|paladins]] de Iomédae sont justes et forts, des croisés qui vive
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

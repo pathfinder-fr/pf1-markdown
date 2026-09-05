@@ -35,8 +35,8 @@ Au niveau 7, si le moine est victime d’un effet qui provoque un [[affaiblissem
 
 [[FAQ- lArt de la guerre#6|→]] Moine, Artiste martial : Comment puis-je utiliser pas chassé si cet archétype remplace ma réserve de ki ?**'
 
-L’<u>[[Artiste martial (moine)|archétype]]</u> devrait remplacer toutes les capacités basées sur le ki, mais pas chassé a été laissé par accident.
-L’archétype devrait aussi remplacer pas chassé avec un don supplémentaire de moine.
+L’<u>[[Artiste martial (moine)|archétype]]</u> devrait remplacer toutes les capacités basées sur le ki, mais pas chassé a été laissé par accident.  
+L’archétype devrait aussi remplacer pas chassé avec un don supplémentaire de moine.  
 Ce sera modifié dans la prochaine impression de l’Art de la guerre.}Au niveau 12, un artiste martial obtient un autre [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]] parmi la liste des dons accessibles à un moine avec le pouvoir du même nom. Ce pouvoir remplace [[moine#PASCHASSE|pas chassé]].
 
 #### Roulé-boulé (Ext)

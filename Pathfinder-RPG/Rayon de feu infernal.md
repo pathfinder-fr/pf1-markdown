@@ -12,12 +12,12 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:cs}{s:BotD}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[Magus]] 6, [[prêtre|Prê]] 6, [[Sorcière|Sor]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F/FD]] (un symbole impie ou un livre hérétique)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** un ou plusieurs [[rayon|rayons]]
-**Durée** [[instantanée]]
+{s:cs}{s:BotD}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[Magus]] 6, [[prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F/FD]] (un symbole impie ou un livre hérétique)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** un ou plusieurs [[rayon|rayons]]  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** oui
 
 Un souffle de [[Diaboliste#CANALISATIONFEUINFERNAL|feu infernal]] surgit des mains du personnage. Il peut tirer un rayon, plus un tous les quatre [[niveau|niveaux]] au-delà du niveau 11 (jusqu'à un maximum de trois rayons au niveau 19). Chaque rayon nécessite une [[attaque de contact à distance]] pour toucher et inflige 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (maximum de 15d6). La moitié des dégâts sont des dégâts de feu mais l'autre moitié résulte directement d'une puissance impie et n'est donc pas sujette à une éventuelle [[Résistance (capacité)|résistance]] au feu. Les rayons peuvent êtres tirés sur une ou plusieurs cibles, mais tous doivent viser des cibles situés à 9 m ou moins les unes des autres.

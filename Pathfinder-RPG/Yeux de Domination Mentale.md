@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:58
 {s:BDTitre|Yeux de domination mentale|{s:AE}}
 **Aura** [[Enchantement]] puissante ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 95.000 po ; **Poids** —
 (((Description)))
-Cette paire de verres à facettes en rubis se pose devant les yeux. Sur commande, le porteur peut utiliser le pouvoir de *[[charme-monstre]]* ([[Volonté]] [[DD]] 19 pour annuler) ou, une fois par jour et à la place du *[[charme-monstre]]*, le pouvoir de *[[domination]]* ([[Volonté]] [[DD]] 20 pour annuler).
+Cette paire de verres à facettes en rubis se pose devant les yeux. Sur commande, le porteur peut utiliser le pouvoir de *[[charme-monstre]]* ([[Volonté]] [[DD]] 19 pour annuler) ou, une fois par jour et à la place du *[[charme-monstre]]*, le pouvoir de *[[domination]]* ([[Volonté]] [[DD]] 20 pour annuler). 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[charme-monstre]]*, *[[domination]]*  ; **Coût** 47.500 po
 </div>

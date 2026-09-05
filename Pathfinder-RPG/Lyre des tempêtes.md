@@ -14,15 +14,15 @@ Categories:
 (((Description)))
 Cet instrument finement réalisé est taillé dans un bois joliment poli incrusté de runes mystiques. Quand on en joue, des étincelles dansent le long des cordes.
 
-S'il réussit un test de [[Représentation]] (instruments à cordes) [[DD]] 15, le porteur peut lancer l'un des sorts suivants :
-• Appel de la foudre (1/jour)
+S'il réussit un test de [[Représentation]] (instruments à cordes) [[DD]] 15, le porteur peut lancer l'un des sorts suivants :  
+• Appel de la foudre (1/jour)  
 • Bourrasque (3/jour)
 
 S'il réussit un test de Représentation (instruments à cordes) DD 25 puis dépense une utilisation de [[pouvoir mythique]], le porteur peut, à la place, lancer la version mythique du sort. S'il rate son test, son action est perdue mais il ne dépense pas d'utilisation journalière de l'objet ni de pouvoir mythique.
 
-Si le porteur a le [[Grade|grade mythique]] et la [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] qui conviennent, il peut créer l'un des effets magiques suivants tant qu'il utilise la lyre pour une représentation bardique. Il profite également des avantages habituels de sa représentation. Il doit terminer sa représentation et en commencer une nouvelle pour choisir un nouvel effet.
-• Grade 3 ou plus : *[[marche sur londe|marche sur l'onde]]*, partagé avec tous les alliés du joueur dans un rayon de 6 mètres.
-• Grade 4 ou plus : *[[contrôle du climat]]*, centré sur le joueur, utilisé uniquement pour réduire l'intensité du vent.
+Si le porteur a le [[Grade|grade mythique]] et la [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] qui conviennent, il peut créer l'un des effets magiques suivants tant qu'il utilise la lyre pour une représentation bardique. Il profite également des avantages habituels de sa représentation. Il doit terminer sa représentation et en commencer une nouvelle pour choisir un nouvel effet.  
+• Grade 3 ou plus : *[[marche sur londe|marche sur l'onde]]*, partagé avec tous les alliés du joueur dans un rayon de 6 mètres.  
+• Grade 4 ou plus : *[[contrôle du climat]]*, centré sur le joueur, utilisé uniquement pour réduire l'intensité du vent.  
 • Grade 5 ou plus : *[[vents capricieux]]*, n'affectant que le joueur.
 (((Création)))
 **Conditions** [[Artisan mythique]], [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[appel de la foudre]]*, *[[contrôle du climat]]*, *[[marche sur londe|marche sur l'onde]]* ; **Coût** 32 500 po

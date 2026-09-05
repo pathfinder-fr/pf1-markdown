@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce petit grappin est conçu pour s'attacher à une [[Corde (objet)|corde en soie]] et se lancer avec un [[Arc court (arme)|arc]]. Il a alors un [[facteur de portée]] de 9 mètres. Il existe un outil équivalent pour les [[Arbalète légère (arme)|arbalètes]].

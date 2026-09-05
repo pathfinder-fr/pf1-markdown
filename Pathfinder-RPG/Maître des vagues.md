@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Le dieu de la nature a jugé bon de vous bénir pour devenir un nageur hors du commun.*
+{s:cs}{s:ISG}*Le dieu de la nature a jugé bon de vous bénir pour devenir un nageur hors du commun.* 
 
 **Conditions.** Suivant de [[Gozreh (technique)|Gozreh]]
 

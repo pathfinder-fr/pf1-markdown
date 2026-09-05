@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce réservoir utilisé par les nageurs pour rallonger le temps de plongée, ressemble à une [[Outre (objet)|outre]] mais il est relativement hermétique. Lorsqu'il est gonflé, il contient suffisamment d'air pour alimenter une créature de taille M pendant 1 [[round]] ou une créature de taille P pendant 2 rounds.

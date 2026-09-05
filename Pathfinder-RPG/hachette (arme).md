@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 6 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}**Prix** 6 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Haches|haches]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Cette hache à une main est assez courte (environ 30 centimètres de long) et conçue pour être maniée à une main. Contrairement aux [[hache de lancer (arme)|haches de lancer]], elle n’est pas suffisamment bien équilibrée pour retomber gracieusement et elle est plus lourde au niveau du fer. Le tomahawk, la hachette de guerre et autres noms désignent généralement les hachettes.

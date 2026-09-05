@@ -193,7 +193,7 @@ Les trésors de ce type se composent uniquement de pièces. On en trouve après 
 
 
 #### Type B, les pièces et les gemmes
-Ce type de trésor ressemble au A mais il comprend aussi des gemmes dont certaines ont une grande valeur. On le trouve généralement dans une cachette ou au milieu d’un trésor plus important.
+Ce type de trésor ressemble au A mais il comprend aussi des gemmes dont certaines ont une grande valeur. On le trouve généralement dans une cachette ou au milieu d’un trésor plus important.  
 Ce trésor se compose uniquement de pièces et de gemmes que l’on peut vendre à leur pleine valeur. Les gemmes forment le plus gros de la récompense. La nature des gemmes se trouve dans la table "Les gemmes aléatoires". Vous pouvez remplacer une gemme par un bijou simple d’un grade de moins ou par un bijou complexe de deux grades de moins.
 
 <center>
@@ -227,7 +227,7 @@ Ce trésor se compose uniquement de pièces et de gemmes que l’on peut vendre 
 </center>
 
 #### Type C, objets d'art
-On néglige souvent ces objets qui tirent leur valeur de leur beauté et de leur qualité. Ils sont faits de métaux précieux, de gemmes et d’autres matériaux de prix. Les objets d’art sont souvent exposés dans les résidences ou gardés en sécurité dans des coffres.
+On néglige souvent ces objets qui tirent leur valeur de leur beauté et de leur qualité. Ils sont faits de métaux précieux, de gemmes et d’autres matériaux de prix. Les objets d’art sont souvent exposés dans les résidences ou gardés en sécurité dans des coffres.  
 Ce trésor se compose d’objets d’art qui se vendent généralement à leur pleine valeur. La nature exacte de chaque objet est à déterminer à l’aide de la table "Les objets d'art aléatoires".
 
 <center>
@@ -261,7 +261,7 @@ Ce trésor se compose d’objets d’art qui se vendent généralement à leur p
 </center>
 
 #### Type D, les pièces et les objets de petite taille
-Cette catégorie regroupe les pièces et les objets magiques de petite taille, comme les potions, les anneaux, les parchemins et les baguettes. On les trouve dans l’antre des animaux ou dans le petit trésor amassé dans la tanière d’un monstre.
+Cette catégorie regroupe les pièces et les objets magiques de petite taille, comme les potions, les anneaux, les parchemins et les baguettes. On les trouve dans l’antre des animaux ou dans le petit trésor amassé dans la tanière d’un monstre.  
 La nature exacte de chaque objet est à déterminer à l’aide des tables qui figurent plus loin. La table à utiliser est indiquée à la suite de chaque récompense.
 
 <center>
@@ -304,7 +304,7 @@ La nature exacte de chaque objet est à déterminer à l’aide des tables qui f
 </center>
 
 #### Type E, les armes et les armures
-Ce type de trésor se compose uniquement d’armes et d’armures. On le trouve dans une armurerie, dans une tanière ou équipé sur un monstre.
+Ce type de trésor se compose uniquement d’armes et d’armures. On le trouve dans une armurerie, dans une tanière ou équipé sur un monstre.  
 La nature exacte de chaque objet est à déterminer à l’aide des tables du chapitre 3 de cet ouvrage. Si d’autres objets accompagnent la récompense, il faut utiliser les autres tables pour les générer. La table à utiliser est indiquée à la suite de chaque récompense. Notez que la valeur de certaines armes et armures peut augmenter significativement la valeur totale des récompenses de bas niveau.
 
 <center>
@@ -344,7 +344,7 @@ La nature exacte de chaque objet est à déterminer à l’aide des tables du ch
 </center>
 
 #### Type F, l'équipement des combattants
-Ce type de trésor regroupe les objets qu’un monstre qui a l’habitude de se battre à distance ou au corps à corps porte sur lui. Il peut s’agir d’armures, de pièces, de potions, d’armes ou d’objets merveilleux.
+Ce type de trésor regroupe les objets qu’un monstre qui a l’habitude de se battre à distance ou au corps à corps porte sur lui. Il peut s’agir d’armures, de pièces, de potions, d’armes ou d’objets merveilleux.  
 Ce trésor se compose de tout l’équipement dont dispose habituellement une créature qui a l’habitude de se battre sans recourir aux sorts ni à la magie. Il comprend des pièces seulement s’il est nécessaire d’arrondir la valeur du trésor. Les objets spécifiques s’accompagnent de références aux autres tables. Leur référence est indiquée à la suite de chaque récompense. Notez que la valeur de certaines armes et armures peut augmenter significativement la valeur des récompenses de faible niveau.
 
 <center>
@@ -382,7 +382,7 @@ Ce trésor se compose de tout l’équipement dont dispose habituellement une cr
 </center>
 
 #### Type G, l'équipement des lanceurs de sorts
-Ce type de trésor appartient à des créatures dotées de pouvoirs magiques et comprend des pièces, des potions, des parchemins, des bâtons, des baguettes et des objets merveilleux.
+Ce type de trésor appartient à des créatures dotées de pouvoirs magiques et comprend des pièces, des potions, des parchemins, des bâtons, des baguettes et des objets merveilleux.  
 Ce trésor se compose de tout l’équipement dont dispose habituellement une créature qui a l’habitude de lancer des sorts. Il comprend des pièces seulement s’il est nécessaire d’arrondir la valeur du trésor. Les objets spécifiques s’accompagnent de références aux autres tables de ce livre. Leur référence est indiquée à la suite de la récompense.
 
 <center>
@@ -422,7 +422,7 @@ Ce trésor se compose de tout l’équipement dont dispose habituellement une cr
 </center>
 
 #### Type H, le trésor des antres
-Ce type de trésor rassemble des objets de tous types mais contient surtout des objets de faible valeur, en général des objets magiques, des pièces et d’autres objets précieux.
+Ce type de trésor rassemble des objets de tous types mais contient surtout des objets de faible valeur, en général des objets magiques, des pièces et d’autres objets précieux.  
 Ce trésor représente ce que l’on peut trouver dans l’antre d’une ou plusieurs créatures. Il peut comprendre n’importe quels objets mais on trouve surtout des pièces et de petits objets magiques. Les objets spécifiques s’accompagnent de références aux autres tables de ce livre. Leur référence est indiquée à la suite de la récompense.
 
 <center>
@@ -448,7 +448,7 @@ Ce trésor représente ce que l’on peut trouver dans l’antre d’une ou plus
 </center>
 
 #### Type I, le trésor accumulé
-C’est le type de trésor le plus désirable, qui peut contenir n’importe quel type d’objet. Il sert de récompense aux rencontres les plus difficiles après avoir été soigneusement accumulé et conservé en lieu sûr.
+C’est le type de trésor le plus désirable, qui peut contenir n’importe quel type d’objet. Il sert de récompense aux rencontres les plus difficiles après avoir été soigneusement accumulé et conservé en lieu sûr.  
 Ce trésor représente ce que l’on peut trouver dans les coffres de toute une communauté ou dans la salle des trésors d’une puissante créature, comme un dragon. Ce type de trésor peut renfermer n’importe quels objets mais on trouve surtout des pièces, des gemmes et de grands objets de valeur. Les objets spécifiques s’accompagnent de références aux autres tables de ce livre. Leur référence est indiquée à la suite de la récompense.
 
 <center>

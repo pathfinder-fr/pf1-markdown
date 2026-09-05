@@ -8,12 +8,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (la poignée en croix d’une marionnette)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cible** une créature
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (la poignée en croix d’une marionnette)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cible** une créature  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Quand il lance ce sort, le personnage prend le contrôle partiel des membres d’un adversaire et complique les attaques effectuées par cet adversaire contre lui. Toutes les attaques effectuées par la cible du sort contre le personnage subissent un malus de -2 infligé par les mouvements aléatoires et erratiques des membres forcés par le sort pour compliquer les tentatives d’agression sur le personnage.

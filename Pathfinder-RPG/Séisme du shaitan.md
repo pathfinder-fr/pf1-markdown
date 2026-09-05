@@ -10,7 +10,7 @@ LastModified: 2024-12-20 15:04
 
 **Conditions.** [[Constitution|Con]] 15, [[Sag]] 17, [[École du shaitan]], [[Peau du shaitan]], [[Poing élémentaire]], [[Science du combat à mains nues]], [[BBA]] +13 ou [[moine]] de niveau 11
 
-**Avantage.** Quand le personnage utilise l’[[École du shaitan]], il peut, par une [[action simple]], dépenser deux utilisations du [[Poing élémentaire]] pour faire jaillir une colonne d’acide de 6 m dans un rayon de 1,50 m (1 {s:c}). Le point d’éruption doit se trouver à moins de 9 m (6 {s:c}) du personnage. Les créatures piégées dans la colonne reçoivent les dégâts habituels de l’attaque à mains nues plus les dégâts d’acide du Poing élémentaire et sont [[chancelant|chancelantes]] pendant 1 round.
+**Avantage.** Quand le personnage utilise l’[[École du shaitan]], il peut, par une [[action simple]], dépenser deux utilisations du [[Poing élémentaire]] pour faire jaillir une colonne d’acide de 6 m dans un rayon de 1,50 m (1 {s:c}). Le point d’éruption doit se trouver à moins de 9 m (6 {s:c}) du personnage. Les créatures piégées dans la colonne reçoivent les dégâts habituels de l’attaque à mains nues plus les dégâts d’acide du Poing élémentaire et sont [[chancelant|chancelantes]] pendant 1 round. 
 
 Un jet de [[Réflexes]] réussi (DD 10 +1/2 niveau de personnage + modificateur de [[Sagesse]]) permet de ne subir que 1/2 dégâts et de ne pas être chancelant.
 

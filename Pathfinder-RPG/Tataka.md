@@ -38,7 +38,7 @@ Categories:
 *[[rapidité]]*, *[[rage]]*}
 {s:BDSorts|2e (7/jour) — *[[détection faussée]]*, *[[flèche acide]]*, *[[invisibilité]]*,
 *[[mise à mort]]* ([[DD]] 17), *[[soins modérés]]*}
-{s:BDSorts|1er (8/jour) —*[[armure de mage]]*, *[[bouclier de la foi]]*,
+{s:BDSorts|1er (8/jour) —*[[armure de mage]]*, *[[bouclier de la foi]]*, 
 *[[injonction]]* ([[DD]] 16), *[[projectile magique]]*, *[[rayon affaiblissant]]* ([[DD]] 16)}
 {s:BDSorts|0 (à volonté) — *[[aspersion acide]]*, *[[lecture de la magie]]*, *[[lumière]]*,
 *[[manipulation à distance]]*, *[[message]]*, *[[réparation]]*, *[[Ouverturefermeture|Ouverture/fermeture]]*,
@@ -47,7 +47,7 @@ Categories:
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 25, **Int** 13, **Sag** 13, **Cha** 20}
 {s:BDTexte|**BBA** +18 ; **BMO** +26 ; **DMD** 40}
 {s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]],
-[[Don pour les critiques]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]],
+[[Don pour les critiques]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]], 
 [[Science de la frappe décisive]], [[Science du critique]] (mains nues),
 [[Succession denchaînements|Succession d’enchaînements]]}
 {s:BDTexte|**Compétences** [[Acrobaties]] +18 (+22 pour le saut), [[Bluff]] +23,

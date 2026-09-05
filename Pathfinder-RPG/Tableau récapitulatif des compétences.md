@@ -9,7 +9,7 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuCompétences}''Le C désigne les [[compétence de classe|compétences de classe]].
+{s:MenuCompétences}''Le C désigne les [[compétence de classe|compétences de classe]].  
 Les caractéristiques marquées d'un astérisque (*) signifient que le [[Format de description des compétences#MALUSDARMURE|malus d’armure]] s’applique à tous les tests de la compétence associée.''
 
 ### Classes de base

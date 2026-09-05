@@ -9,12 +9,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Abjuration]] ;** Niveau** [[Paladin|Pal]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 minute/[[niveau]]
+{s:APG}**École** [[Abjuration]] ;** Niveau** [[Paladin|Pal]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage établit un puissant lien entre sa personne et une créature. Jusqu'à expiration du sort, à chaque fois que la cible est touchée par une attaque ou rate un [[jet de sauvegarde]], le personnage peut subir la totalité des effets néfastes que la créature aurait dû endurer. S'il choisit de ne pas le faire, il reçoit, en contrecoup, un nombre de points de dégâts égal à sa valeur de [[Constitution]]. Les résistances et immunités du [[paladin]] s'appliquent normalement mais en dehors de cela, il ne peut ni réduire ni annuler les dégâts ou les effets du transfert ou du contrecoup. Si le personnage ou la cible se déplace hors de vue de l'autre, le sort se termine.

@@ -13,8 +13,8 @@ Categories:
 
 **Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Quand un allié, qui dispose aussi de ce don, se trouve à 9 m du personnage ou moins et qu’il tente un test de [[Connaissances]], le personnage peut utiliser l’action [[aider qqn|aider quelqu’un]] par une [[action libre]], pour améliorer son test.
+**Avantage.** Quand un allié, qui dispose aussi de ce don, se trouve à 9 m du personnage ou moins et qu’il tente un test de [[Connaissances]], le personnage peut utiliser l’action [[aider qqn|aider quelqu’un]] par une [[action libre]], pour améliorer son test. 
 
-Pour utiliser ce don, le personnage doit posséder au moins un rang dans la compétence de Connaissances que son allié utilise.
+Pour utiliser ce don, le personnage doit posséder au moins un rang dans la compétence de Connaissances que son allié utilise. 
 
 S’il réussit ce test, il apprend automatiquement les mêmes informations que son allié, comme si c’était lui qui avait fait le test. À partir du moment où il a utilisé ce don, que son action soit réussie ou non, le personnage ne peut pas faire de test de Connaissances pour obtenir la même information que celle que cherchait son allié.

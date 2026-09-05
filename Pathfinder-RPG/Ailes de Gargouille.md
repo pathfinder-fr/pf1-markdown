@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Ailes de gargouille|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 72.000 po ; **Poids** 1,5 kg
 (((Description)))
-Ces deux larges bretelles sont couvertes de nombreuses pépites cousues à même l’étoffe. Leur porteur peut leur ordonner de déplier une paire d’ailes de pierre grise qui lui confèrent une vitesse de vol de 18 mètres avec une manœuvrabilité moyenne. Lorsque les ailes sont déployées, la peau de leur porteur prend l’aspect de la pierre et bénéficie d’une [[RD]] 10/adamantium. Le porteur peut replier et déplier les ailes par une [[action rapide]]. Elles peuvent être utilisées pendant 5 minutes chaque jour. Cette durée peut être fragmentée en plusieurs utilisations par tranches d’une minute.
+Ces deux larges bretelles sont couvertes de nombreuses pépites cousues à même l’étoffe. Leur porteur peut leur ordonner de déplier une paire d’ailes de pierre grise qui lui confèrent une vitesse de vol de 18 mètres avec une manœuvrabilité moyenne. Lorsque les ailes sont déployées, la peau de leur porteur prend l’aspect de la pierre et bénéficie d’une [[RD]] 10/adamantium. Le porteur peut replier et déplier les ailes par une [[action rapide]]. Elles peuvent être utilisées pendant 5 minutes chaque jour. Cette durée peut être fragmentée en plusieurs utilisations par tranches d’une minute. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[sort vol|vol]]*, *[[peau de pierre]]*  ; **Coût** 36.000 po
 </div>

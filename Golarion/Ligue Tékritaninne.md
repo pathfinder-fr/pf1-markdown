@@ -19,6 +19,6 @@ En raison de sa nature peu centralisée, la Ligue Tékritaninne était un mélan
 Les nomades de la Ligue Tékritaninne parlaient à l'origine des langues très différentes les unes des autres. Avec le temps, elles se sont mélangées pour former le tékritanin. On retrouve encore l'influence de cette langue dans de nombreuses langues régionales du nord du [[Garund]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de la Ligue Tékritaninne dans le supplément
+Vous pourrez trouver plus d'informations à propos de la Ligue Tékritaninne dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

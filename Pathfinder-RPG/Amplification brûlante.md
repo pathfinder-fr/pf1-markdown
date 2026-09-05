@@ -12,11 +12,11 @@ Categories:
 
 *Le personnage peut dépenser un peu de l’énergie de ses sorts de feu pour permettre à ses flammes de rester suffisamment longtemps pour mettre le feu à ses adversaires.*
 
-**Avantage.** Lorsque le personnage lance un sort possédant le [[registre]] feu, il peut choisir choisir de subir une pénalité de -1 au [[jet dattaque|jet d’attaque]] du sort et réduire le [[DD]] du [[jds|jet de sauvegarde]] de 1 pour que les cibles ayant subit des dégâts de feu [[Dangers naturels#PRENDREFEU|prennent feu]]. Les cibles qui ont pris feu ne subissent pas de dégâts de brûlure avant leur prochain tour et chaque cible peut tenter un jet de [[Réflexes]] pour éteindre le feu avant de subir des dégâts chaque [[round]].
+**Avantage.** Lorsque le personnage lance un sort possédant le [[registre]] feu, il peut choisir choisir de subir une pénalité de -1 au [[jet dattaque|jet d’attaque]] du sort et réduire le [[DD]] du [[jds|jet de sauvegarde]] de 1 pour que les cibles ayant subit des dégâts de feu [[Dangers naturels#PRENDREFEU|prennent feu]]. Les cibles qui ont pris feu ne subissent pas de dégâts de brûlure avant leur prochain tour et chaque cible peut tenter un jet de [[Réflexes]] pour éteindre le feu avant de subir des dégâts chaque [[round]]. 
 
-Plutôt que le [[DD]] normal de 15 pour éteindre le feu, les cibles doivent réussir un jet de [[Réflexes]] [[DD]] 10 + niveau du sort + le modificateur de la caractéristique d'incantation du personnage.
+Plutôt que le [[DD]] normal de 15 pour éteindre le feu, les cibles doivent réussir un jet de [[Réflexes]] [[DD]] 10 + niveau du sort + le modificateur de la caractéristique d'incantation du personnage. 
 
-Le personnage doit choisir d’utiliser ce don avant de lancer le [[jet dattaque|jet d’attaque]] ou avant que ses cibles ne tentent leur [[jds|jet de sauvegarde]].
+Le personnage doit choisir d’utiliser ce don avant de lancer le [[jet dattaque|jet d’attaque]] ou avant que ses cibles ne tentent leur [[jds|jet de sauvegarde]]. 
 
 Ce don n’a pas d’effet sur les sorts qui ne permettent pas un jet de sauvegarde ou qui ne nécessitent pas de jet d’attaque.
 

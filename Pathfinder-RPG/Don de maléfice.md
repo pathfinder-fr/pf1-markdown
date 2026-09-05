@@ -9,12 +9,12 @@ Categories:
 - Sort sorcière 5
 ---
 
-{s:MCA}**École** [[Évocation]] ; **Niveau** [[chaman|Cham]] 5, [[sorcière|Sor]] 5
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, FD ou M]] (un poil de sorcière)
-**Portée** [[portée|contact]]
-**Cible** la créature touchée ; voir description
-**Durée** permanent ou jusqu’à utilisation
+{s:MCA}**École** [[Évocation]] ; **Niveau** [[chaman|Cham]] 5, [[sorcière|Sor]] 5  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, FD ou M]] (un poil de sorcière)  
+**Portée** [[portée|contact]]  
+**Cible** la créature touchée ; voir description  
+**Durée** permanent ou jusqu’à utilisation  
 **Jet de sauvegarde** [[Volonté]], annule [[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Le personnage transfert un [[sorcière#MALEFICE|maléfice]] (ou [[chaman#MALEFICE|maléfice]]) qu’il connait à la cible qui peut alors l’utiliser. Les variables du maléfice transféré fonctionnent d’après le niveau du personnage et non d’après celui du bénéficiaire. Seule une créature dotée d’une valeur d’[[Intelligence]] et de [[Sagesse]] de 9 au moins peut bénéficier de cet effet. Pour pouvoir utiliser un maléfice, la cible doit être capable de parler et bouger sans contrainte. Dès qu’elle utilise le maléfice, le sort prend fin (mais les effets du maléfice persistent pendant toute sa durée). Le personnage peut uniquement faire don d’un maléfice, et pas d’un maléfice majeur ou d’un grand maléfice, avec ce sort.

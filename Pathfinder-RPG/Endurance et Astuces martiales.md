@@ -8,7 +8,7 @@ Categories:
 
 <script>
 $(function () {
-$("tr.cache").hide();
+$("tr.cache").hide(); 
 $("table.toggle caption").bind("click", toggleTable);
 });
 

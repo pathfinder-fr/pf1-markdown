@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pc ; **Poids** 0,5 kg
+{s:AE}**Prix** 2 pc ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 La pierre à aiguiser permet au personnage d'affûter une lame en la frottant contre la pierre selon un angle précis. L'affûtage d'une lame avec une pierre à aiguiser demande environ 15 minutes et accorde un bonus d'arme de +1 aux [[valeurs de combat#DEGATS|jets de dégâts]] lors de la première attaque réussie avec cette lame. Ceci ne fonctionne que pour les lames non-magiques.

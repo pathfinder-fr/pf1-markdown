@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +5 po ; **Poids** —
+{s:AE}**Prix** +5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette lanterne prévue pour protéger la flamme contre l'eau et le vent traite les [[Vents|vents violents]] comme des vents importants, les tempêtes comme des vents violents et les ouragans comme des tempêtes quand il s'agit de déterminer si la flamme s'éteint ou non. Elle contient suffisamment d'air pour brûler sous l'eau pendant 5 [[round|rounds]] avant de s'éteindre.

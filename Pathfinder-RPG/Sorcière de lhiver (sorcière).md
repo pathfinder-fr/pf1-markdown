@@ -12,8 +12,8 @@ Categories:
 {s:Menuarchétypesorcière}{s:cs}{s:MMI}*Les sorcières de l'hiver maîtrisent un pouvoir unique lié à la magie du froid et conféré par leurs origines surnaturelles. Ce pouvoir est en partie magique, en partie politique et en partie culturel.*
 
 #### Familier
-Les sorcières de l’hiver doivent choisir un [[familier]] natif de la toundra gelée, même si elles-mêmes opèrent dans d’autres
-régions. Traditionnellement, ce choix se limite aux chauves-souris, chats, renards, faucons, hiboux, rats, corbeaux ou pies.
+Les sorcières de l’hiver doivent choisir un [[familier]] natif de la toundra gelée, même si elles-mêmes opèrent dans d’autres 
+régions. Traditionnellement, ce choix se limite aux chauves-souris, chats, renards, faucons, hiboux, rats, corbeaux ou pies. 
 
 Une sorcière de l’hiver qui obtient le don [[Familier supérieur]] peut choisir n’importe quel type de familier, à l’exception de ceux du sous-type [[sous-type Feu|feu]].
 
@@ -21,7 +21,7 @@ Une sorcière de l’hiver qui obtient le don [[Familier supérieur]] peut chois
 Une sorcière de l’hiver ajoute *[[rayon de givre]]* à sa liste de sorts de classe, mais n’apprend pas automatiquement ce sort.
 
 #### Protecteur
-Une sorcière de l’hiver doit choisir son protecteur parmi les thèmes suivants : [[Protecteurs#ANCETRES|ancêtres]], [[Protecteurs#DUPLICITE|duplicité]], [[Protecteurs#EAU|eau]], [[Protecteurs#ENCHANTEMENT|enchantement]], [[Protecteurs#ETOILES|étoiles]], [[Protecteurs#ENDURANCE|endurance]], [[Protecteurs#HIVER|hiver]], [[Protecteurs#LUNE|lune]], [[Protecteurs#OCCULTE|occulte]], [[Protecteurs#PRESAGES|présages]], [[Protecteurs#SAGESSE|sagesse]], [[Protecteurs#TRANSFORMATION|transformation]], [[Protecteurs#TROMPERIE|tromperie]] ou [[Protecteurs#VENGEANCE|vengeance]].
+Une sorcière de l’hiver doit choisir son protecteur parmi les thèmes suivants : [[Protecteurs#ANCETRES|ancêtres]], [[Protecteurs#DUPLICITE|duplicité]], [[Protecteurs#EAU|eau]], [[Protecteurs#ENCHANTEMENT|enchantement]], [[Protecteurs#ETOILES|étoiles]], [[Protecteurs#ENDURANCE|endurance]], [[Protecteurs#HIVER|hiver]], [[Protecteurs#LUNE|lune]], [[Protecteurs#OCCULTE|occulte]], [[Protecteurs#PRESAGES|présages]], [[Protecteurs#SAGESSE|sagesse]], [[Protecteurs#TRANSFORMATION|transformation]], [[Protecteurs#TROMPERIE|tromperie]] ou [[Protecteurs#VENGEANCE|vengeance]]. 
 
 #### Magie de la glace
 Quand une sorcière de l’hiver lance des sorts du registre du [[registre|froid]], le [[DD]] des [[jds|jets de sauvegarde]] de ces sorts augmente de +1. Une sorcière de l’hiver ne peut pas apprendre ou lancer des sorts du registre du [[registre|feu]].
@@ -30,7 +30,7 @@ Quand une sorcière de l’hiver lance des sorts du registre du [[registre|froid
 Au niveau 1, une sorcière de l’hiver gagne le pouvoir magique permanent d’*[[endurance aux énergies destructives]]* qui agit uniquement contre les températures froides. Au niveau 4, elle gagne une [[Résistance (capacité)|résistance]] de 5 contre le froid, ce qui lui permet de supporter sans aucun problème les températures proches du point de congélation. Au niveau 9, cette résistance au froid s’élève à 10 et la sorcière devient [[Immunité (capacité)|immunisée]] au froid au niveau 14. Cette aptitude remplace le [[Sorcière#MALEFICES|maléfice]] obtenu par la sorcière au niveau 4.
 
 #### Maléfices
-Les [[maléfices]] suivants viennent compléter l’archétype de sorcière de l’hiver : [[Maléfices#Couvertdegivre|couvert de givre]], [[Maléfices#Cuisinerlesgens|cuisiner les gens]], [[Maléfices#Dépérissement|dépérissement]], [[Maléfices#Huttedelasorcière|hutte de la sorcière]], [[Maléfices#Langagesauvage|langage sauvage]], [[Maléfices#Mauvaisœil|mauvais œil]], [[Maléfices#Oeildeguenaude|œil de guenaude]], [[Maléfices#OEildelabête|œil de la bête]], [[Maléfices#Tombedeglace|tombe de glace]].
+Les [[maléfices]] suivants viennent compléter l’archétype de sorcière de l’hiver : [[Maléfices#Couvertdegivre|couvert de givre]], [[Maléfices#Cuisinerlesgens|cuisiner les gens]], [[Maléfices#Dépérissement|dépérissement]], [[Maléfices#Huttedelasorcière|hutte de la sorcière]], [[Maléfices#Langagesauvage|langage sauvage]], [[Maléfices#Mauvaisœil|mauvais œil]], [[Maléfices#Oeildeguenaude|œil de guenaude]], [[Maléfices#OEildelabête|œil de la bête]], [[Maléfices#Tombedeglace|tombe de glace]]. 
 
 Une sorcière de l’hiver peut choisir parmi la liste de maléfices suivante :
 - **Caresse du givre (Sur).** À chaque fois qu’une sorcière de l’hiver lance un sort de contact, elle peut injecter du froid dans la magie de ce sort par une [[action rapide]]. Ceci lui confère le registre du [[registre|froid]] et l’effet du sort inflige 1d4 points de dégâts de froid supplémentaires. Si le sort de contact autorise un [[jds|jet de sauvegarde]], la réussite de ce jet annule ces dégâts de froid supplémentaires.

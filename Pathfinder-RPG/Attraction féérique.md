@@ -11,28 +11,28 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Médium|Méd]] 3, [[Rôdeur|Rôd]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 [[type Fée|fée]] de 6 [[DV]] maximum appelée
-**Durée** instantanée
+{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Médium|Méd]] 3, [[Rôdeur|Rôd]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 [[type Fée|fée]] de 6 [[DV]] maximum appelée  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[allié doutreplan|allié d'outreplan]]*, excepté que le personnage attire une [[type Fée|fée]] de 6 [[DV]] ou moins afin qu'elle lui offre son aide en échange de musique ou d'autre chose qu'elle trouverait divertissant. Comme pour *allié d'outreplan*, ce sort est imprévisible, et la fée qui répond à l'appel est fidèle aux caprices et à la nature des fées, pas aux choix du personnage. Il doit réussir un test de [[Connaissances]] (nature) ou de [[Représentation]] ([[DD]] = 20 + le nombre de DV de la cible) en plus de fournir les composantes matérielles du sort pour que la fée apparaisse, après quoi il peut négocier le service demandé et son paiement. Le nombre de DV maximum de la fée que le personnage est capable d'appeler grâce à ce sort est égal au résultat de son test -20. Par exemple, si le résultat de son test est de 24, le nombre de DV maximum de la fée appelée est de 4. Un résultat élevé ne permet pas de dépasser la limite de DV de ce sort, et un résultat de 20 ou moins signifie qu'aucune fée n'est appelée. Si la fée n'aime pas l'offre du personnage, elle peut simplement choisir de refuser le service demandé, auquel cas le personnage ne dépense aucune des composantes matérielles du sort, que ce soit les offrandes ou le paiement.
 
 
 
 (((
 ## Allié d'outreplan
-**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Médium|Méd]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 [[type Extérieur|Extérieur]] de 6 [[DV]] maximum appelé
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Médium|Méd]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 [[type Extérieur|Extérieur]] de 6 [[DV]] maximum appelé  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 En lançant ce sort le [[prêtre]] demande à son dieu de lui envoyer l’aide d’un [[type Extérieur|Extérieur]] de 6 [[DV]] ou moins. Si il ne sert aucun dieu particulier, son [[branche appel|appel]] est généralement entendu par une créature du même [[alignement]] que lui. Dans le cas où le lanceur de sorts connaît le nom d’une entité particulière, il peut demander son assistance en la nommant lors de l’incantation (sans garantir que la créature souhaitée soit bien celle qui répondra à l’appel).
 
 Le [[prêtre]] peut demander un service à la créature, à condition de lui en rendre un en contrepartie. Ce service peut-être simple ou complexe. Il faut pouvoir communiquer avec la créature en question pour marchander.
@@ -50,24 +50,24 @@ Une fois le service rendu, ou à l’expiration du marché, la créature retourn
 
 ((({s:sortssimilaires|attraction féérique}
 ## [[Attraction féérique majeure]]
-{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 1 250 po plus paiement), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 ou 2 [[type Fée|fées]] appelées (ne totalisant pas plus de 12 [[DV]]), apparaissant à 9 m ou moins les uns des autres
-**Durée** instantanée
+{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 1 250 po plus paiement), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 ou 2 [[type Fée|fées]] appelées (ne totalisant pas plus de 12 [[DV]]), apparaissant à 9 m ou moins les uns des autres  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[attraction féérique]]*, excepté que l'appel fantaisiste peut invoquer une fée de 12 [[DV]] ou moins, ou deux fées similaires dont les DV cumulés ne dépassent pas 12.
 
 ## [[Attraction féérique suprême]]
-{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Druide|Dru]] 9, [[Chaman|Cham]] 9
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 2 500 po plus paiement), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+{s:UI}**École**  [[Invocation]] ([[branche appel|appel]]) ; **Niveau** [[Druide|Dru]] 9, [[Chaman|Cham]] 9  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d'une valeur de 2 500 po plus paiement), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 **Effet** jusqu'à 3 [[type Fée|fées]] (ne totalisant pas plus de 18 [[DV]]), apparaissant à 9 m ou moins les uns des autres
-**Durée** instantanée
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[attraction féérique]]*, excepté que l'appel fantaisiste peut invoquer une fée de 18 [[DV]] ou moins, ou jusqu'à trois fées similaires dont les DV cumulés ne dépassent pas 18.
 )))

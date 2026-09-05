@@ -22,9 +22,9 @@ Categories:
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
 **Cible** une créature touchée  
 **Durée** 1 heure/[[niveau]]  
-**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
-([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] 
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui 
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-La cible génère des yeux supplémentaires sur tout son corps, y compris derrière sa tête. Elle gagne
+La cible génère des yeux supplémentaires sur tout son corps, y compris derrière sa tête. Elle gagne 
 [[vision à 360° (capacité)|vision à 360°]] et ne peut être [[prise en tenaille]].

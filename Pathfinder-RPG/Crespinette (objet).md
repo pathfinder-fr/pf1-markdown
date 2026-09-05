@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10–100 po ; **Poids** —
+{s:AE}**Prix** 10–100 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Cette résille ornée en soie, tissée d’or et parée de bijoux, est surtout l’apanage des femmes issues de l’aristocratie ou de la royauté.

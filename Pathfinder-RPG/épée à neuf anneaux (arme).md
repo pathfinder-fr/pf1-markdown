@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
+{s:AE}{s:UC}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
 ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Cette arme à lame large est dotée de neuf anneaux lourds répartis le long de son épine dorsale, donnant plus de poids et donc plus de force à son tranchant impressionnant.

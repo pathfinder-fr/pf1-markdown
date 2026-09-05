@@ -12,7 +12,7 @@ Categories:
 ### Aptitudes de la voie du filou de grade 1
 Vous pouvez choisir les aptitudes de voie suivantes, quel que soit le [[grade]] de votre personnage.
 
-{s:Reference|AMATEURDESVOIES}**Amateur des voies (Sur).** Le personnage choisit une aptitude parmi celles proposées par une voie mythique différente de la sienne. Il doit satisfaire toutes les conditions requises par cette [[aptitude de voie]], y compris la restriction en matière de [[grade]] minimum.
+{s:Reference|AMATEURDESVOIES}**Amateur des voies (Sur).** Le personnage choisit une aptitude parmi celles proposées par une voie mythique différente de la sienne. Il doit satisfaire toutes les conditions requises par cette [[aptitude de voie]], y compris la restriction en matière de [[grade]] minimum. 
 
 {s:Reference|AMELIORATIONDOBJETMAGIQUE}**Amélioration d’objets magiques (Ext).** L’aura mythique du personnage améliore la puissance de certains objets magiques. Ajoutez la moitié de son [[grade]] au [[NLS|niveau de lanceur de sorts]] des potions, parchemins, baguettes et bâtons qu’il manipule. Lorsqu’il utilise une baguette ou un bâton, il peut activer l’objet en dépensant une utilisation de [[pouvoir mythique]] à la place de l’une des charges de l’objet.
 

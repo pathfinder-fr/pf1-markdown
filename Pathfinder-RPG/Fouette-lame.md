@@ -7,12 +7,12 @@ Categories:
 - Sort sanguin 1
 ---
 
-{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Magus]] 1, [[Sanguin|San]] 1
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** arme de corps à corps du lanceur
-**Durée** instantanée
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Magus]] 1, [[Sanguin|San]] 1  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** arme de corps à corps du lanceur  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 L’arme du personnage s’allonge pour ressembler à un fouet. Lorsqu’il lance ce sort, le personnage peut utiliser cette arme pour tenter une manœuvre offensive de [[croc-en-jambe]] contre une créature située dans un rayon de 6 mètres (4 {s:c}) et il bénéficie d’un bonus de +10 au test, après quoi l’arme retrouve son ancienne forme.

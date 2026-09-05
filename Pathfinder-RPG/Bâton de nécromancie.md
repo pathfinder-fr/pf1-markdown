@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton de nécromancie|}
 **Aura** [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton fait d’ébène ou d’un autre bois sombre porte des images d’ossements et de crânes. Il permet de lancer les sorts suivants :
-• *[[frayeur]]* (1 charge)
-• *[[baiser de la goule]]* (1 charge)
-• *[[immobilisation de morts-vivants]]* (1 charge)
-• *[[énergie négative]]* (2 charges)
-• *[[vagues de fatigue]]* (2 charges)
+Ce bâton fait d’ébène ou d’un autre bois sombre porte des images d’ossements et de crânes. Il permet de lancer les sorts suivants :  
+• *[[frayeur]]* (1 charge)  
+• *[[baiser de la goule]]* (1 charge)  
+• *[[immobilisation de morts-vivants]]* (1 charge)  
+• *[[énergie négative]]* (2 charges)  
+• *[[vagues de fatigue]]* (2 charges)  
 • *[[cercle de mort]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[baiser de la goule]]*, *[[cercle de mort]]*, *[[énergie négative]]*, *[[frayeur]]*, *[[immobilisation de monstre]]*, *[[vagues de fatigue]]* ; **Coût** 41 000 po

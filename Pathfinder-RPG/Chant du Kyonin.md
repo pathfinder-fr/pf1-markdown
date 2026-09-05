@@ -8,11 +8,11 @@ Categories:
 - Sort barde 4
 ---
 
-{s:MMI}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Barde|Bard]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cibles** jusqu’à 3 créatures dont toutes doivent être à 9 m les unes des autres
+{s:MMI}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Barde|Bard]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cibles** jusqu’à 3 créatures dont toutes doivent être à 9 m les unes des autres  
 **Durée** 1 round/niveau ou jusqu’à la fin ou le changement de la représentation (voir description)
 
 *Certains [[Barde|bardes]] [[Elfe|elfes]] du Royaume elfique sont connus pour la capacité de guérison de leurs représentations, en grande partie due à ce sort.*

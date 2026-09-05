@@ -12,7 +12,7 @@ Une ceinture de surveillance augmente de +5 le DD des tests d’[[Escamotage]] e
 
 Une fois par jour et sur commande, il peut toucher un objet d’un volume maximum de 300 dm3 afin de réduire sa taille et de le rendre aussi souple qu’une étoffe, comme s’il était sous l’effet d’un sort de *[[Réduction dobjet|réduction d’objet]]*. Par une [[action de mouvement]], le porteur peut retirer l’un de ces objets rangés dans une des poches de la ceinture et lui redonner sa taille initiale.
 
-Il est difficile de détecter l*’[[aura magique]]* d’une ceinture de surveillance et des objets qui y sont rangés. On considère qu’un sort d*’[[aura magique]]* les affecte en *[[permanence]]* et les fait passer pour des objets non-magiques.
+Il est difficile de détecter l*’[[aura magique]]* d’une ceinture de surveillance et des objets qui y sont rangés. On considère qu’un sort d*’[[aura magique]]* les affecte en *[[permanence]]* et les fait passer pour des objets non-magiques. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[aura magique]]*, *[[Réduction dobjet|réduction d’objet]]* ; **Coût** 6 250 po
 </div>

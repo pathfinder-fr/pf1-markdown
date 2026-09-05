@@ -15,6 +15,6 @@ Si les drows appartiennent à la famille des elfes, ils ne sont, au mieux, que d
 
 Les drows sont un peu plus petits et plus minces que leurs cousins de la surface mais, à part cela, ils possèdent un physique similaire. La coloration sombre de leur peau va du noir au pourpre pâle. La plupart d’entre eux ont des cheveux blancs ou argentés et des yeux blancs ou rouges (mais on rencontre parfois d’autres couleurs).
 
-La société des drows est gouvernée par des nobles puissants eux-mêmes dirigés par des matrones sadiques et dangereuses qui ne cessent de comploter et de mettre sur pied des machinations visant les maisons rivales ou les autres membres de leur famille. La majorité des drows sont des soldats de base ou des citoyens décadents et possèdent les caractéristiques présentées ci-dessus.
+La société des drows est gouvernée par des nobles puissants eux-mêmes dirigés par des matrones sadiques et dangereuses qui ne cessent de comploter et de mettre sur pied des machinations visant les maisons rivales ou les autres membres de leur famille. La majorité des drows sont des soldats de base ou des citoyens décadents et possèdent les caractéristiques présentées ci-dessus. 
 
 Au combat, les drows se montrent terriblement impitoyables et ne connaissent ni la pitié ni l’honneur. Ils préfèrent tendre des embuscades ou attirer leurs ennemis dans des situations qui leur seront défavorables. Si le combat tourne mal pour les drows, ils n’hésiteront pas à fuir et à utiliser des esclaves ou des sbires pour retenir leurs adversaires.

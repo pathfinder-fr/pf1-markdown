@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton d’illusion|}
 **Aura** [[Illusion]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton, fait d’ébène ou d’un autre bois sombre, adopte une forme subtilement tordue, en spirale ou striée. Il permet de lancer les sorts suivants :
-• *[[déguisement]]* (1 charge)
-• *[[double illusoire]]* (3 charges)
-• *[[image accomplie]]* (1 charge)
-• *[[image miroir]]* (1 charge)
-• *[[image prédéterminée]]* (2 charges)
+Ce bâton, fait d’ébène ou d’un autre bois sombre, adopte une forme subtilement tordue, en spirale ou striée. Il permet de lancer les sorts suivants :  
+• *[[déguisement]]* (1 charge)  
+• *[[double illusoire]]* (3 charges)  
+• *[[image accomplie]]* (1 charge)  
+• *[[image miroir]]* (1 charge)  
+• *[[image prédéterminée]]* (2 charges)  
 • *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[déguisement]]*, *[[double illusoire]]*, *[[image accomplie]]*, *[[image miroir]]*, *[[image prédéterminée]]*, *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* ; **Coût** 41 000 po

@@ -7,8 +7,8 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:CM}**Prix** 40 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 40
+{s:CM}**Prix** 40 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 40  
 <span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
----
+<hr />
 **Cette option est plus courante chez les [[Vampire|vampires]].**  
 Cette fiole de liquide rouge suffit à satisfaire la soif de sang d’un vampire pendant une journée. Peu de vampires apprécient ce sang, la plupart lui trouvant un goût éventé et artificiel. Certains, notamment les plus faibles ou les nouveaux, ont l’impression qu’il interfère avec la magie impie qui maintient leur corps animé. Cela dit, ce sang reste une option très utilisée par les vampires en fuite qui cherchent à survivre et tentent de rester cachés des chasseurs de vampires. La création de cet objet nécessite de réussir un test d’[[Artisanat]] (alchimie) [[DD]] 40.

@@ -45,7 +45,7 @@ Categories:
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Arbre lié (Sur).** Chaque dryade entretient un lien mystique avec un arbre de grande taille et ne peut jamais s'en éloigner de plus de 300 m (200 {s:c}). La plupart des arbres à dryades sont des chênes, mais il peut s'agir d'autres espèces également (l'espèce de l'arbre à souvent une influence subtile sur la personnalité et l'apparence de la dryade). Si une dryade s'éloigne de plus de 300 m (200 {s:c}) de son arbre lié, elle devient immédiatement [[fiévreux|fiévreuse]]. Chaque heure, elle doit effectuer un jet de [[Vigueur]] de [[DD]] 15 pour ne pas être [[nauséeux|nauséeuse]] pendant 1 heure. Si elle reste à plus de 300 m (200 {s:c}) de son arbre pendant 24 heures, elle subit un [[affaiblissement temporaire]] de 1d6 points de [[Constitution]], qui augmente de 1d6 points par jour supplémentaire jusqu'à ce que la séparation entraîne la mort de la dryade. Une dryade peut tisser un nouveau lien avec un autre arbre en réalisant un rituel qui dure 24 heures et en réussissant un jet de [[Volonté]] contre un [[DD]] de 20.}
 {s:BDTexte|**Empathie sauvage (Sur).** Cette capacité fonctionne comme l'aptitude de [[druide|druides]] du même nom si ce n'est que la dryade possède un bonus racial de +6 au test. Les dryades qui possèdent des niveaux de [[druide|druides]] ajoutent ce bonus racial à leurs tests d'[[empathie sauvage]].}
-{s:BDTexte|**Fusion dans les arbres (Sur).** Les dryades peuvent se fondre dans n'importe quel arbre à la manière d'un sort de *[[fusion dans la pierre]]*. Elles peuvent rester au sein de l'arbre aussi longtemps qu'elles le veulent.}
+{s:BDTexte|**Fusion dans les arbres (Sur).** Les dryades peuvent se fondre dans n'importe quel arbre à la manière d'un sort de *[[fusion dans la pierre]]*. Elles peuvent rester au sein de l'arbre aussi longtemps qu'elles le veulent.} 
 {s:BDTexte|**Travail du bois (Ext).** Les dryades bénéficient d'un bonus racial de +6 aux tests d'[[Artisanat]] relatifs au bois et on considère qu'elles disposent toujours d'outils de maître pour le travail du bois lors de ces tests.}
 </div>
 </td><td><div>*La chair de cette femme étrange et magnifique semble être faite de bois. Sa chevelure de couleur vive ressemble à un végétal en fleurs.*
@@ -55,7 +55,7 @@ forêts isolées, à l’écart des bûcherons humanoïdes. Elles s’intéresse
 avant tout à leur propre survie, à celle de leurs forêts chéries et ont
 déjà utilisé par le passé leur magie pour contraindre des voyageurs
 à leur venir en aide, à accomplir des tâches qu’elles ne pouvaient pas
-effectuer elles-mêmes.
+effectuer elles-mêmes. 
 
 Elles se montrent généralement amicales
 envers les druides et les rôdeurs non maléfiques, car elles retrouvent
@@ -63,7 +63,7 @@ en eux le même respect ou la même empathie envers la nature.
 Même si ces gentilles protectrices des arbres ne disposent pas de
 puissantes capacités de destruction directe, elles peuvent tendre des
 pièges ou affaiblir ceux qui menacent leur domaine ou transformer
-leurs ennemis en alliés.
+leurs ennemis en alliés. 
 
 Certaines d’entre elles gardent un ou
 plusieurs individus charmés sur leur territoire afin de combattre

@@ -10,11 +10,11 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:cs}{s:ISG}**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[</nowiki>[[registre|Chaos, Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9
-**Temps d'incantation** 1 semaine
-**Composantes** [[composantes|V, G, M/FD]] (du sang de sanglier, du suif, une victime humanoïde ou plus totalisant au moins 15 [[DV]])
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Durée** instantanée
+{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:cs}{s:ISG}**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[</nowiki>[[registre|Chaos, Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9  
+**Temps d'incantation** 1 semaine  
+**Composantes** [[composantes|V, G, M/FD]] (du sang de sanglier, du suif, une victime humanoïde ou plus totalisant au moins 15 [[DV]])  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ayant atteint la forme la plus élevée et la plus blasphématoire d'accomplissement magique au service du Grand Destructeur, le personnage est capable d'invoquer ses créations les plus redoutables : les [[sous-type rejeton de Rovagug|rejetons de Rovagug]]. Lancer ce sort nécessite un rituel d'une semaine impliquant le sacrifice d'une ou plusieurs créatures humanoïdes dotées de conscience possédant un total d'au moins 15 [[DV]]. Le personnage ne peut ni manger, ni dormir, ni lancer d'autres sorts pendant la durée de ce rituel. À partir du troisième jour du rituel, il doit réussir un test de [[Constitution]] chaque jour restant du rituel (DD 10 + 1 pour chaque test précédent) ou subir 1d6 points de dégâts [[Blessures et mort#NONLETAL|non létaux]] dus à la faim. À la fin du rituel, il devient [[épuisé]] à cause du manque de sommeil.

@@ -55,7 +55,7 @@ des communautés humaines et aiment parlementer avec ceux
 qu’elles considèrent comme des repas potentiels.
 Les harpies ont tendance à porter des babioles et des colifichets
 dérobés à leurs victimes car elles affectionnent les décorations
-brillantes que les humains portent.
+brillantes que les humains portent. 
 
 Lorsqu’on se tient près d’une harpie, on peut sentir l’odeur des victimes qu’elle a consommées.
 C’est pour cela qu’elles ne laissent jamais leurs proies s’approcher
@@ -68,7 +68,7 @@ Les harpies adoptent des apparences très différentes
 d’une région géographique à l’autre. Certaines
 ressemblent à un amalgame mi-vautour mi-femme
 alors que d’autres possèdent des plumes aussi
-majestueuses que celles des faucons.
+majestueuses que celles des faucons. 
 
 Dans certaines régions tropicales isolées,
 quelques rares familles de harpies

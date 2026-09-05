@@ -18,7 +18,7 @@ LastModified: 2020-07-10 02:13
 ### Pouvoirs de lignage
 *Votre personnage a hérité du pouvoir bestial des grands seigneurs de guerre orques du passé. Il sent cette rage bouillir dans son sang et doit rester vigilant pour éviter que cette pulsion de destruction et de dévastation ne le consume complètement.*
 
-**Toucher de rage (Mag).** Au niveau 1, l’[[ensorceleur]] peut toucher une créature par une [[action simple]]. Celle-ci bénéficie alors d'un bonus de moral aux jets d'attaque, de dégâts et de [[Volonté]] égal à la moitié de son niveau d'ensorceleur (minimum 1) pour un round. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de rounds égal à 3 + son modificateur de [[Charisme]].
+**Toucher de rage (Mag).** Au niveau 1, l’[[ensorceleur]] peut toucher une créature par une [[action simple]]. Celle-ci bénéficie alors d'un bonus de moral aux jets d'attaque, de dégâts et de [[Volonté]] égal à la moitié de son niveau d'ensorceleur (minimum 1) pour un round. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de rounds égal à 3 + son modificateur de [[Charisme]]. 
 
 **Sans peur (Ext).** Au niveau 3, le personnage gagne un bonus de +1 à l'armure naturelle et de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la peur. Au niveau 9, le bonus à l'armure naturelle devient +2, le personnage devient immunisé à la peur, et perd sa sensibilité à la lumière.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,23 kg
+{s:AE}**Prix** 2 po ; **Poids** 0,23 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces animaux de taille TP se nourrissent de petits animaux et vivent dans presque tous les environnements. Ce sont des créatures intelligentes et curieuses, autant de caractéristiques amplifiées quand elles sont utilisées comme [[Familiers]]. De nombreuses espèces de belettes dégagent une forte odeur musquée. Cette description s’applique également aux animaux du même genre comme les furets, les visons, les putois et les hermines. Voir les statistiques de la [[belette]].

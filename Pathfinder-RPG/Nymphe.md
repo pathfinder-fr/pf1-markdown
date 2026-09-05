@@ -59,7 +59,7 @@ Beaucoup de gens ont perdu la vie en partant vainement en
 quête des nymphes et de leur beauté. De nombreuses existences se
 sont terminées prématurément, victimes de la folie et de l’obsession
 que la grâce de ces créatures fait naître dans les esprits et dans les corps
-qui ne sont pas préparés à les rencontrer.
+qui ne sont pas préparés à les rencontrer. 
 
 La nymphe elle-même n’est pas une créature cruelle. Cette protectrice des endroits les plus purs et
 des royaumes les plus beaux de la nature se montre douce avec ceux qui

@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:59
 {s:BDTitre|Yeux de dragon|{s:AE}}
 **Aura** [[Transmutation]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 110.000 po ; **Poids** —
 (((Description)))
-Ces deux gemmes œil-de-tigre se placent sur les yeux et fusionnent avec eux pour leur donner des pupilles verticales draconiennes. Ces yeux confèrent au porteur la vision dans le noir (36 mètres) et la [[perception aveugle (capacité)|perception aveugle]] (18 mètres). Le porteur voit quatre fois plus loin dans les zones faiblement éclairées et deux fois plus loin dans les zones normalement éclairées.
+Ces deux gemmes œil-de-tigre se placent sur les yeux et fusionnent avec eux pour leur donner des pupilles verticales draconiennes. Ces yeux confèrent au porteur la vision dans le noir (36 mètres) et la [[perception aveugle (capacité)|perception aveugle]] (18 mètres). Le porteur voit quatre fois plus loin dans les zones faiblement éclairées et deux fois plus loin dans les zones normalement éclairées. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme draconique III]]* ; **Coût** 55.000 po
 </div>

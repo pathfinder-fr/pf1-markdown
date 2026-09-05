@@ -8,7 +8,7 @@ LastModified: 2024-05-31 10:53
 {s:BDTitre|Bottes de cambrioleur supérieures|{s:AE}}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 10  ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 46 000 po ; **Poids** 0.25 kg
 (((Description)))
-L’aspect et le fonctionnement de ces bottes sont identiques aux [[bottes de cambrioleur]], à l’exception du bonus de compétence aux tests de [[Perception]], ainsi qu’à la [[CA]] et aux jets de [[Réflexes]], qui s’élève à +10. De plus, une fois par jour et sur commande, ces bottes octroient à leur porteur le pouvoir d’utiliser le sort *[[détection des pièges]]*.
+L’aspect et le fonctionnement de ces bottes sont identiques aux [[bottes de cambrioleur]], à l’exception du bonus de compétence aux tests de [[Perception]], ainsi qu’à la [[CA]] et aux jets de [[Réflexes]], qui s’élève à +10. De plus, une fois par jour et sur commande, ces bottes octroient à leur porteur le pouvoir d’utiliser le sort *[[détection des pièges]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection des pièges]]*, le créateur doit posséder 12 rangs au moins en [[Perception]] ; **Coût** 23 000 po
 </div>

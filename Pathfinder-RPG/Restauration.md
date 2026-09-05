@@ -16,14 +16,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 3 rounds
-**Composantes** [[composantes|V, G, M]] (poussière de diamant d’une valeur de 100 po ou 1 000 po ; voir description)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 3 rounds  
+**Composantes** [[composantes|V, G, M]] (poussière de diamant d’une valeur de 100 po ou 1 000 po ; voir description)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort est semblable à *[[restauration partielle]]*, si ce n’est qu’il dissipe également les [[niveau négatif|niveaux négatifs]] temporaires ou un [[niveau négatif]] permanent. Dans le cas où ce sort est utilisé pour dissiper un niveau négatif permanent, la composante matérielle est de la poudre de diamant valant 1 000 po. Ce sort ne permet pas de dissiper plus d’un [[niveau négatif]] [[diminution permanente|permanent]] sur une même cible par semaine.
 
 *Restauration* guérit tous les [[affaiblissement temporaire|affaiblissements temporaires]] de [[caractéristique]] et une [[diminution permanente]] de [[caractéristique]] (choisie par le lanceur de sorts). Il contre également la [[fatigué|fatigue]] et l’[[épuisé|épuisement]].
@@ -32,26 +32,26 @@ Ce sort est semblable à *[[restauration partielle]]*, si ce n’est qu’il dis
 
 (((
 ## Restauration partielle
-**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 3 [[round|rounds]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 3 [[round|rounds]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort dissipe les effets magiques réduisant l’une des [[caractéristiques]] de la cible ou permet de récupérer 1d4 points d’une [[caractéristique]] [[affaiblissement temporaire|temporairement affaiblie]]. *Restauration partielle* élimine toute [[fatigué|fatigue]] dont est victime le sujet. Si le personnage est [[épuisé]], il devient simplement [[fatigué]]. Le sort ne peut rien contre les [[diminution permanente|diminutions permanentes]] de [[caractéristique]].
 )))
 
 ((({s:sortssimilaires|restauration}
 ## [[Restauration deidolon|Restauration d'eidolon]]
-{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3
-**Temps d’incantation** 1 minute
-**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** eidolon touché
-**Durée** [[instantanée]]
+{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3  
+**Temps d’incantation** 1 minute  
+**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** eidolon touché  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonction comme *[[restauration]] * mais affecte uniquement un eidolon.
 )))

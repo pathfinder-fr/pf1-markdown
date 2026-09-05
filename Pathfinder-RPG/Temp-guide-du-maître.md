@@ -24,7 +24,7 @@ La page de travail temporaire pour les règles : [[temp plans]] -> a été inté
 ### Settlements / Les villes (chapitre 7)
 La page de travail intitulée [[les villes]] devra être supprimée. Attention pour les futures redirections.
 
-La page [[Villes]] est créée.-> Mise en forme faite par Papyrolf.
+La page [[Villes]] est créée.-> Mise en forme faite par Papyrolf. 
 
 PAGE D'ACCUEIL WIKI MODIFIÉE
 

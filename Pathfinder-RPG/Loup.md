@@ -55,7 +55,7 @@ meutes de loups défendent
 leur territoire avec une
 grande férocité et adoptent
 d’immenses régions comme
-terrains de chasse.
+terrains de chasse. 
 
 Les pattes
 des loups sont légèrement
@@ -64,7 +64,7 @@ déplacer sur la neige, et leur
 fourrure est un manteau épais et
 imperméable dont la couleur varie
 entre le gris et le brun, voire même
-le noir chez certaines espèces.
+le noir chez certaines espèces. 
 
 Leurs
 pattes contiennent des glandes
@@ -72,7 +72,7 @@ odorantes grâce auxquelles
 ils marquent le sol tout en se
 déplaçant, ce qui leur permet de se
 diriger et d’indiquer leur position
-au reste de la meute.
+au reste de la meute. 
 
 Un loup
 moyen mesure entre 75 cm et

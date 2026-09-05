@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[groupe darmes|groupes d'armes]].***
-***Voir aussi les [[Entraînements avancés]].***
+<div class="fright">***Voir aussi les [[groupe darmes|groupes d'armes]].***  
+***Voir aussi les [[Entraînements avancés]].***  
 {s:PM0|guerrier}**Voir les archétypes du guerrier**&emsp;
 <li ID="guerrier" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeguerrier}</li>
 </div>*Certains prennent les armes en quête de gloire, de richesse, ou de vengeance. D’autres combattent pour faire leurs preuves, pour protéger des proches ou parce qu’ils ne savent rien faire d’autre. Et d’autres encore s’engagent sur la voie des armes pour affûter leur corps et démontrer leur courage lorsque le combat fait rage. Les guerriers, ces seigneurs du champ de bataille, forment un groupe hétéroclite. Ils s’entraînent à manier de nombreuses armes ou juste une, ils apprennent à utiliser les armures de manière optimale, ils suivent les enseignements martiaux de maîtres exotiques et étudient l’art de la guerre. Tout cela pour devenir de véritables armes vivantes. Ces combattants exceptionnels sont plus que de simples brutes : ils révèlent la véritable puissance des armes et transforment de simples morceaux de métal en outils permettant de soumettre des royaumes, de massacrer des monstres et d’unir des armées. Les guerriers sont des soldats, des chevaliers, des chasseurs, des artistes de la guerre et des champions sans égal. Malheur à ceux qui oseraient s’opposer à eux.*
@@ -222,11 +222,11 @@ Le guerrier est formé au maniement de toutes les armes courantes et de guerre, 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#14|→]] Guerrier, Dons supplémentaires : Puis-je apprendre un nouveau don supplémentaire de guerrier à la place d’un de mes dons de port des armures ?***
 
 Non. Malgré la formulation des dons de Port des armures, les <u>[[Guerrier#DONSUPPLEMENTAIRE|guerriers]]</u> (et les autres classes) ont une capacité de classe qui octroie le port de ces armures – elle n’offre pas réellement les dons correspondants. Ainsi, la capacité d’un guerrier à apprendre un nouveau don à la place d’un autre ne s’applique pas à ces formations.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#15|→]] Guerrier, Dons supplémentaires : Puis-je utiliser la capacité dons supplémentaires du guerrier pour ré-entraîner un don que j’ai obtenu au niveau 1 (comme Enchaînement) afin de gagner un don pour lequel je n’étais pas qualifié au niveau 1, mais l’est maintenant (comme Fente) ?***
 
 Oui. Tant que le don « perdu » n’est pas un prérequis pour tout autre don, classe de prestige, ou autre pouvoir que le personnage possède, il peut gagner n’importe quel don pour lequel il est qualifié au moment du <u>[[Guerrier#DONSUPPLEMENTAIRE|ré-entraînement]]</u>.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#16|→]] Guerrier, Dons supplémentaires : Quels dons puis-je ré-entraîner au niveau 4, 8, etc ?***
 
 Les sections Classes dans le *Manuel des joueurs* sont écrites en partant du principe que le personnage est mono-classé (pas [[Progression des personnages#MULTICLASSER|multiclassé]]). La capacité du <u>[[Guerrier#DONSUPPLEMENTAIRE|guerrier]]</u> à ré-entraîner des dons permet au personnage de ré-entraîner un de ses dons supplémentaires de guerrier (obtenus au niveau 1, au niveau 2, au niveau 4, etc). Il ne peut pas ré-entraîner des dons (dons de combat ou autres) provenant de toute autre source, comme ses dons de niveau 1, 3, etc., son don bonus d’humain de niveau 1, ou ses autres dons supplémentaires obtenus grâce à d’autres classes.

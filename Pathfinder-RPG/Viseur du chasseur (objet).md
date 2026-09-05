@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 100 po ; **Poids** —
+{s:MCA}**Prix** 100 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette lentille complexe se fixe sur l'œil et occupe l'emplacement des yeux lorsqu'on l'utilise. Quand le personnage l'utilise en combinaison avec une arme à distance, il réduit de 2 tous les malus de portée sur ses attaques. Les objets situés dans un rayon de 30 mètres deviennent néanmoins difficiles à voir et le personnage reçoit un malus de -2 aux tests de [[Perception]] basés sur la vue lorsqu'il porte le viseur du chasseur.

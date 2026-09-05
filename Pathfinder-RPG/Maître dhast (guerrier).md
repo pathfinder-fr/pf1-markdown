@@ -10,7 +10,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:Menuarchétypeguerrier}{s:APG}*On a enseigné au maître d'hast qu'il vaut mieux affronter ses adversaires lorsqu'ils sont de l'autre côté d'une longue lance, qui frappe comme un serpent avant que l'on aie eu le temps de dégainer quelques épées et haches maladroites.*
+{s:Menuarchétypeguerrier}{s:APG}*On a enseigné au maître d'hast qu'il vaut mieux affronter ses adversaires lorsqu'ils sont de l'autre côté d'une longue lance, qui frappe comme un serpent avant que l'on aie eu le temps de dégainer quelques épées et haches maladroites.* 
 
 #### Combat d'hast (Ext).
 Au niveau 2, un maître d'hast peut, par une [[action immédiate]], raccourcir l'[[allonge]] de sa [[guerrier#Lances|lance]] ou de son [[guerrier#Armes dhast|arme d'hast]] et l'utiliser contre des cibles situées dans l'espace voisin. Il subira une pénalité de -4 sur les jets d'attaque qu'il fera avec cette arme, et ce, jusqu'à ce qu'il consacre une nouvelle [[action immédiate]] pour revenir à distance normale. Cette pénalité est réduite de -1 par tranche de 4 niveaux au delà du niveau 2. Cette capacité remplace [[guerrier#COURAGE|courage]].
@@ -19,7 +19,7 @@ Au niveau 2, un maître d'hast peut, par une [[action immédiate]], raccourcir l
 Au niveau 3, le personnage reçoit un bonus sur ses jets d'attaque lorsqu'il effectue une [[action préparée|attaque préparée]] ou une [[attaque dopportunité|attaque d'opportunité]] avec une lance ou une arme d'hast. Ce bonus est de +1 au niveau 3, +1 par tranche de quatre niveaux au delà du niveau 3. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1, 2, 3 et 4]].
 
 #### Entraînement aux armes d'hast (Ext).
-Au niveau 5, le maître d'hast reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il se sert d'une lance ou d'une arme d'hast. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]].
+Au niveau 5, le maître d'hast reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il se sert d'une lance ou d'une arme d'hast. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]]. 
 
 #### Tenaille mobile (Ext).
 Au niveau 9, le [[guerrier]] peut désigner n'importe quel espace voisin du sien et considérer qu'il s'y trouve lorsqu'il s'agit de déterminer quel adversaire il peut [[pris en tenaille|prendre en tenaille]], et ce, même si cet espace est déjà occupé par une créature, un objet ou une barrière solide. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 2]].

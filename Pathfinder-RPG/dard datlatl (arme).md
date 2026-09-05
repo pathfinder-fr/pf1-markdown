@@ -8,7 +8,7 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 1 po ; **Poids** 1 kg
+{s:AE}{s:UC}**Prix** 1 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span> ([[armes et armures primitives|primitive]])
----
+<hr />
 Le dard d’atlatl est l’équivalent d’une javeline, à la seule différence qu’il a un empennage. S’il est lancé sans [[atlatl (arme)|atlatl]], traitez-le comme une [[javeline (arme)|javeline]].

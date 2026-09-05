@@ -46,7 +46,7 @@ Categories:
 {s:BDTexte|**Particularités** armes familières}
 {s:BDTexte|**Équipement de combat** *[[parchemins magiques|parchemin]] de [[cacophonie]]*, *[[parchemins magiques|parchemin]] de [[convocation de monstres II]]* ; **Équipement divers** [[cuirasse (armure)|cuirasse]], [[hache darmes (arme)|hache de guerre]], [[javeline (arme)|javelines]] (4), *[[cape de résistance|cape de résistance +1]]*, [[Symbole sacré (objet)|symbole sacré en bois]], 135 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

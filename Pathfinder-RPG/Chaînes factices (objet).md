@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 65 po ; **Poids** 1 kg
+{s:AE}**Prix** 65 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ces chaînes de maître sont faciles à briser, même si elles ressemblent à des [[Chaîne (objet)|chaînes ordinaires]] ([[Perception]] [[DD]] 25 pour voir la différence). Un test de [[Force]] DD 10 suffit à les briser instantanément.

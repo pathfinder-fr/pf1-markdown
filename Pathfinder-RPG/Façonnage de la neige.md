@@ -10,12 +10,12 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:regional|Ulfes|Ulfes|ulfes}{s:MR}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (une pelle miniature)
-**Portée** [[contact]]
-**Cible** de la neige ou une sculpture de neige touchée, d’un maximum de 5 cubes de 30cm de côté + 1 cube additionnel/niveau
-**Durée** instantanée
+{s:regional|Ulfes|Ulfes|ulfes}{s:MR}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (une pelle miniature)  
+**Portée** [[contact]]  
+**Cible** de la neige ou une sculpture de neige touchée, d’un maximum de 5 cubes de 30cm de côté + 1 cube additionnel/niveau  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Sur les territoires gelés du nord, là où la terre est cachée sous d’épais amoncellements de neige, les druides vikings ont développé une variante de façonnage de la pierre que les autres lanceurs de sorts ont apprise depuis.*

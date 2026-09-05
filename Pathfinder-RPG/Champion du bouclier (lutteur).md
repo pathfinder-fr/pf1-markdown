@@ -15,9 +15,9 @@ Un champion du bouclier est formé au maniement de toutes les armes courantes et
 
 
 #### Lancer de bouclier (Ext)
-Au niveau 3, un champion du bouclier peut lancer une rondache ou un écu comme une [[arme de jet]] normale (non-improvisée) avec un [[facteur de portée]] de 3 mètres (2 {s:c}) ou le [[facteur de portée]] du bouclier (le plus élevé des deux). Le bouclier lancé inflige les mêmes dégâts qu’un coup de bouclier et les augmentations des dégâts dues à l’ajout de pointes de bouclier sont également appliquées. On considère qu’un champion du bouclier possède le don [[Tir de loin]] pour déterminer les malus de portée appliqués au lancer du bouclier.
+Au niveau 3, un champion du bouclier peut lancer une rondache ou un écu comme une [[arme de jet]] normale (non-improvisée) avec un [[facteur de portée]] de 3 mètres (2 {s:c}) ou le [[facteur de portée]] du bouclier (le plus élevé des deux). Le bouclier lancé inflige les mêmes dégâts qu’un coup de bouclier et les augmentations des dégâts dues à l’ajout de pointes de bouclier sont également appliquées. On considère qu’un champion du bouclier possède le don [[Tir de loin]] pour déterminer les malus de portée appliqués au lancer du bouclier. 
 
-Au niveau 7, un champion du bouclier peut lancer son bouclier pour accomplir une manoeuvre offensive de [[bousculade]], de [[sale coup]], de [[désarmement]], de [[repositionnement]] ou de [[croc-en-jambe]] comme s’il effectuait une attaque de coup de bouclier au corps à corps.
+Au niveau 7, un champion du bouclier peut lancer son bouclier pour accomplir une manoeuvre offensive de [[bousculade]], de [[sale coup]], de [[désarmement]], de [[repositionnement]] ou de [[croc-en-jambe]] comme s’il effectuait une attaque de coup de bouclier au corps à corps. 
 
 Au niveau 11, un champion du bouclier gagne le don supplémentaire [[Maîtrise du bouclier]]. Il doit satisfaire toutes les conditions requises par ce don avant de pouvoir le prendre. Cette aptitude remplace l’entraînement aux manoeuvres offensives obtenu aux niveaux 3, 7 et 11.
 
@@ -29,7 +29,7 @@ Au niveau 5, un champion du bouclier peut lancer un bouclier pour qu’il ricoch
 
 Si un champion du bouclier peut effectuer plusieurs attaques grâce à un [[BBA|bonus de base à l’attaque]] élevé, ces attaques supplémentaires peuvent prendre la forme de ricochets sur des cibles différentes. Les distances qui séparent chaque cible supplémentaire sont additionnées à la distance du tir et le malus de portée s’applique, mais le champion ne subit aucun autre malus lorsqu’il attaque de cette façon. Les attaques en ricochets sont traitées comme des attaques distinctes ; ainsi, les effets et les modificateurs qui s’appliquent à un jet d’attaque seulement (tel que *[[coup au but]]*) s’appliquent à la première attaque uniquement et pas aux suivantes. Un champion peut lancer son bouclier lorsqu’il effectue un déluge de coups du lutteur.
 
-Au niveau 9, un champion du bouclier gagne [[Art du bouclier supérieur]] en don supplémentaire. Il doit satisfaire toutes les conditions requises par ce don pour pouvoir le prendre.
+Au niveau 9, un champion du bouclier gagne [[Art du bouclier supérieur]] en don supplémentaire. Il doit satisfaire toutes les conditions requises par ce don pour pouvoir le prendre. 
 
 Au niveau 12, il peut appliquer ses dégâts de combat à mains nues quand il inflige des dégâts avec son bouclier (que ce soit au corps à corps ou quand il le lance) ou les dégâts du bouclier, le plus élevé des deux. Au niveau 17, en faisant rebondir
 son bouclier contre une surface proche avant de frapper la cible visée, il peut considérer cette surface comme la case d’origine de l’attaque pour déterminer si la cible est prise en tenaille ou si elle bénéficie ou non d’un bonus à la CA conféré par un [[abri]]. Il peut utiliser cette aptitude pour attaquer une créature qui bénéficie d’un abri total par rapport à sa position s’il sait quelle case elle occupe, mais il y a toujours 50% de chances que l’attaque échoue. Cette aptitude remplace frappe du lutteur.

@@ -23,7 +23,7 @@ Les inquisitions sont faites pour les inquisiteurs, pas pour les autres classes 
 
 **Juste colère (Sur).** Lorsque le personnage fait une attaque de contact à mains nues contre une créature d'[[alignement]] Mauvais, elle doit faire un jet de [[Volonté]] ou être [[secoué|secouée]] pour 1d4 tours. Si la créature touchée est un extérieur, elle est [[effrayé|effrayée]] et non secouée. Le personnage peut utiliser ce pouvoir un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 
-**Toucher de renvoi (Sur).** Au niveau 8, le personnage peut utiliser [[renvoi]] en tant que pouvoir magique une fois par jour en effectuant une attaque de contact à mains nues contre un Extérieur mauvais. Le [[DD]] de ce pouvoir est augmenté de 2.
+**Toucher de renvoi (Sur).** Au niveau 8, le personnage peut utiliser [[renvoi]] en tant que pouvoir magique une fois par jour en effectuant une attaque de contact à mains nues contre un Extérieur mauvais. Le [[DD]] de ce pouvoir est augmenté de 2. 
 
 ### Inquisition de cavalerie
 {s:plume}<div class="description">**Source :** Magical Marketplace (MaM).</div>*Le personnage suit la voie de la chevalerie, défendant son honneur et chevauchant un noble destrier.*
@@ -61,7 +61,7 @@ Les inquisitions sont faites pour les inquisiteurs, pas pour les autres classes 
 
 **Crainte des flammes (Sur).** Le personnage peut donner à une créature dans un rayon de 15 mètres (12 {s:c}) une chance d'éviter une éternité de souffrance en lui ordonnant d'effectuer une action dont la durée ne dépasse pas un round. Les créatures d'[[alignement]] Bon ou Neutre qui refusent sont [[secoué|secouées]] pour un tour (un jet de [[Volonté]] annule cet effet) et les créatures d'alignement Mauvais qui obéissent reçoivent un bonus de morale de +2 à tous les tests et lancers de dé pour un tour. C'est un effet mental dépendant du langage. Le personnage peut utiliser ce pouvoir un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 
-**Collecteur d'âmes (Mag).** Au niveau 8, le personnage peut, une fois par jour, invoquer par une [[action simple]] un fiélon illusoire pour plonger temporairement une créature vivante et intelligente dans un univers de douleur et de tourments. Ce pouvoir fonctionne comme celui d'[[assassin imaginaire]] si ce n'est que les créatures qui échouent leur jet de [[Vigueur]] sont [[paralysé|paralysées]] pour un nombre de rounds égal à 1d4 + niveau d'[[Inquisiteur]] au lieu de mourir.
+**Collecteur d'âmes (Mag).** Au niveau 8, le personnage peut, une fois par jour, invoquer par une [[action simple]] un fiélon illusoire pour plonger temporairement une créature vivante et intelligente dans un univers de douleur et de tourments. Ce pouvoir fonctionne comme celui d'[[assassin imaginaire]] si ce n'est que les créatures qui échouent leur jet de [[Vigueur]] sont [[paralysé|paralysées]] pour un nombre de rounds égal à 1d4 + niveau d'[[Inquisiteur]] au lieu de mourir. 
 
 {s:UM}{s:Reference|DESTIN}
 ### Inquisition du destin

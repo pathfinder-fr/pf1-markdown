@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 80 po ; **Poids** 2,5 kg<sup>[[Outils de compétences#1|1]]</sup>
+{s:AE}**Prix** 80 po ; **Poids** 2,5 kg<sup>[[Outils de compétences#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Ces crampons, pitons, cordes et autres outils accordent un bonus de circonstances de +2 aux tests d’[[Escalade]].

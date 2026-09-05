@@ -8,7 +8,7 @@ LastModified: 2024-05-31 19:59
 {s:BDTitre|Bottes d’évasion|{s:AE}}
 **Aura** [[Invocation]] modérée ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 8 000 po ; **Poids** 0.5 kg
 (((Description)))
-Ces solides bottes en tissu aux semelles de cuir sont dotées de lanières au niveau des chevilles et des mollets pour assurer leur maintien. Une fois par jour, lorsque leur porteur est [[agrippé]], [[immobilisé]] par une [[lutte]] ou [[enchevêtré]], il peut se téléporter vers un endroit situé à 9 mètres ou moins de sa position actuelle, comme s’il était sous l’effet du sort *[[porte dimensionnelle]]*. Un [[gnome]] avec ces bottes aux pieds peut se téléporter vers un endroit situé à 120 mètres ou moins.
+Ces solides bottes en tissu aux semelles de cuir sont dotées de lanières au niveau des chevilles et des mollets pour assurer leur maintien. Une fois par jour, lorsque leur porteur est [[agrippé]], [[immobilisé]] par une [[lutte]] ou [[enchevêtré]], il peut se téléporter vers un endroit situé à 9 mètres ou moins de sa position actuelle, comme s’il était sous l’effet du sort *[[porte dimensionnelle]]*. Un [[gnome]] avec ces bottes aux pieds peut se téléporter vers un endroit situé à 120 mètres ou moins. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[porte dimensionnelle]]* le créateur doit être [[gnome]] ou un [[magicien]] spécialisé dans l’école d’[[invocation]]  ; **Coût** 4 000 po
 </div>

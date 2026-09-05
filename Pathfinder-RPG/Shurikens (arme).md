@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,25 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Armesdemoine|armes de moine]]
-**Dégâts** 1 (P), 1d2 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
+{s:AE}**Prix** 1 po ; **Poids** 0,25 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Armesdemoine|armes de moine]]  
+**Dégâts** 1 (P), 1d2 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Le shuriken est une petite pièce de métal aux bords tranchants, conçu pour être lancé. On ne peut pas l’utiliser au corps à corps. Les shurikens sont des [[arme de jet|armes de jet]] mais on les traite comme des munitions quand il s’agit de les dégainer et d’en faire des versions [[arme de maître|de maître]] ou d’autres versions spéciales, ainsi qu’au regard de ce qui leur arrive une fois lancés.

@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Pendentif azlant|{s:ISG}{s:GeM}}
 **Aura** [[école Divination|Divination]] modérée ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 3 100 po ; **Poids** 1 kg
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce lourd collier habituellement en or ressemble à un grand œil ailé. Le personnage bénéficie d’un bonus de compétence de +5 aux tests d'un type de [[Connaissances]] précis (chaque pendentif possède une spécialité différente).
 
 Si le personnage est un suivant d'[[Aroden (technique)|Aroden]], le pendentif compte comme un [[Symbole sacré (objet)|symbole sacré]]. Une fois par jour et par une [[action libre]], il peut ajouter un bonus d’intuition de +10 à un unique test de compétence qu’il s’apprête à faire.

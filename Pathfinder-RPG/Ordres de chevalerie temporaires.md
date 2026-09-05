@@ -4,9 +4,9 @@ Title: Ordres de chevalerie temporaires
 LastModified: 2013-02-24 20:37
 ---
 
-''Voici les Ordres des chevaliers et des samouraïs les plus répandus.
+''Voici les Ordres des chevaliers et des samouraïs les plus répandus. 
 
-Leurs membres ne sont pas forcément liés entre eux mais il existe des organisations qui se composent uniquement de chevaliers et de samouraïs du même ordre.
+Leurs membres ne sont pas forcément liés entre eux mais il existe des organisations qui se composent uniquement de chevaliers et de samouraïs du même ordre. 
 
 Certains ordres sont plus spécifiques aux Samouraïs ou aux Chevaliers mais ils restent accessibles aux deux classes''
 

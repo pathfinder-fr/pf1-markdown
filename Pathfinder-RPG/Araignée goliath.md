@@ -59,7 +59,7 @@ Categories:
 
 </div>*Cette gigantesque tarentule verte et brune dotée d’énormes crocs acérés est de la taille d’une grande maison.*
 
-Les araignées goliath sont des chasseresses géantes qui se nourrissent le plus souvent de scorpions et de serpents géants, ainsi que de jeunes dragons, mais elles attrapent parfois des proies plus petites qu’elles paralysent pour les dévorer plus tard.
+Les araignées goliath sont des chasseresses géantes qui se nourrissent le plus souvent de scorpions et de serpents géants, ainsi que de jeunes dragons, mais elles attrapent parfois des proies plus petites qu’elles paralysent pour les dévorer plus tard. 
 
 Grâce au camouflage naturel dont elles disposent grâce à leurs poils et à leur teinte, elles se cachent dans la canopée des forêts et tombent sur les créatures peu méfiantes. Les femelles dévorent souvent leurs mâles.
 </div></td></tr></table>

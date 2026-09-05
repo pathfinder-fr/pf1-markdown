@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ;** Niveau** [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[présentation des sorts#PORTEE|contact]]
-**Cible** armure touchée
-**Durée** 1 minute/[[niveau]]
+{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ;** Niveau** [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
+**Cible** armure touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])
----
+<hr />
 Comme *[[armure sainte]]* mais le personnage gagne une [[RD]] 5/[[registre|Bien]] quand il utilise ses pouvoirs de [[inquisiteur#JUGEMENT|jugement]] ou de [[antipaladin#CHATIMENTDUBIEN|châtiment]].
 
 ### Version mythique
@@ -30,14 +30,14 @@ Le personnage gagne une RD 5/Bien tant qu’elle porte l’armure ciblée. Lorsq
 
 (((
 ## Armure sainte
-{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ;** Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[présentation des sorts#PORTEE|contact]]
-**Cible** armure touchée
-**Durée** 1 minute/[[niveau]]
+{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ;** Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
+**Cible** armure touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; ** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])
----
+<hr />
 Le personnage imprègne son armure d'une aura vertueuse. Elle gagne alors un bonus d'altération de +1 par tranche de 4 niveaux de lanceur de sorts (+5 au maximum au niveau 20). Quand le personnage se sert de ses pouvoirs de [[inquisiteur#JUGEMENT|jugement]] ou de [[paladin#CHATIMENTDUMAL|châtiment]], il gagne une [[RD]] 5/Mal.
 
 En ce qui concerne ce sort, des vêtements ordinaires comptent comme une armure qui n'apporte aucun bonus de [[CA]].

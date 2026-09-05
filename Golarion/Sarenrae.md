@@ -12,7 +12,7 @@ Connue comme la fleur de l'aube, la flamme guérisseuse, Sarenrae enseigne temp�
 
 ### Histoire
 
-Quand les forces primaires créèrent [[Golarion]], [[Asmodéus]] plaça le mal sur le monde à la faveur de la nuit perpétuelle. La doctrine de la foi de Sarenrae relate comment la fleur de l'aube amena ensuite la lumière sur le monde, et avec elle la vérité et l'honnêteté. Ceux qui s'étaient tournés vers le mal ont alors vu leur méchanceté et ont été pardonnés par la lumière de Sarenrae.
+Quand les forces primaires créèrent [[Golarion]], [[Asmodéus]] plaça le mal sur le monde à la faveur de la nuit perpétuelle. La doctrine de la foi de Sarenrae relate comment la fleur de l'aube amena ensuite la lumière sur le monde, et avec elle la vérité et l'honnêteté. Ceux qui s'étaient tournés vers le mal ont alors vu leur méchanceté et ont été pardonnés par la lumière de Sarenrae. 
 
 ### Apparence
 
@@ -25,18 +25,18 @@ Sarenrae indique sa faveur par des apparitions de colombes, ou par l'intermédia
 
 ### Doctrine
 
-Le clergé de Sarenrae recherche la plupart du temps la paix et administre ses ouailles d'une manière douce et avec des mots judicieux.
-Toutefois, leur bonté disparaît quand l'église se met en marche contre un mal qui ne peut pas être racheté - en particulier contre le culte de [[Rovagug]].
-À ces moments-là, les prêtres de Sarenrae deviennent de véritables derviches, dansant entre les ennemis et donnant la rédemption finale à leurs adversaires à coups de cimeterres.
+Le clergé de Sarenrae recherche la plupart du temps la paix et administre ses ouailles d'une manière douce et avec des mots judicieux. 
+Toutefois, leur bonté disparaît quand l'église se met en marche contre un mal qui ne peut pas être racheté - en particulier contre le culte de [[Rovagug]]. 
+À ces moments-là, les prêtres de Sarenrae deviennent de véritables derviches, dansant entre les ennemis et donnant la rédemption finale à leurs adversaires à coups de cimeterres. 
 De fait, sa foi attire tous ceux qui ont un cœur bon, mais surtout ceux qui sont disposés à s'endurcir lorsque trop de bonté devient un point faible.
 Le maniement des lames, en particulier du cimeterre, est considéré par les adeptes de Sarenrae comme une forme d'art.
-Les habits traditionnels sont une longue tunique blanche et une chasuble rouge décorée de fils d'or représentant le soleil.
-Les prêtres officiants portent habituellement une couronne d'or avec un soleil rouge-or sur le chef.
-Des cimeterres incrustés d'or ou de pierres précieuses sont couramment utilisés lors des cérémonies.
+Les habits traditionnels sont une longue tunique blanche et une chasuble rouge décorée de fils d'or représentant le soleil. 
+Les prêtres officiants portent habituellement une couronne d'or avec un soleil rouge-or sur le chef. 
+Des cimeterres incrustés d'or ou de pierres précieuses sont couramment utilisés lors des cérémonies. 
 
 ### Temples
 
-Les temples sont des bâtiments à ciel ouvert (avec des bâtiments annexes possédant un plafond). Souvent ils possèdent un grand miroir de cuivre ou d'or placé de telle manière qu'il puisse réfléchir la lumière du soleil sur l'autel.
+Les temples sont des bâtiments à ciel ouvert (avec des bâtiments annexes possédant un plafond). Souvent ils possèdent un grand miroir de cuivre ou d'or placé de telle manière qu'il puisse réfléchir la lumière du soleil sur l'autel.  
 
 ### Textes sacrés
 

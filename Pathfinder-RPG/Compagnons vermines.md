@@ -17,15 +17,15 @@ En plus des choix habituels de compagnons animaux, le [[druide]] qui ressent une
 **Croc-en-jambe.** Comme les vermines ont de nombreuses pattes, il est difficile de leur faire un [[croc-en-jambe]], c’est pourquoi elles disposent d’un [[DMD]] qui indique leur bonus contre les attaques de croc-en-jambe.
 
 <div class="article_3col">
-[[Compagnons vermines#Araignéegéante|Araignée géante]],
-[[Compagnons vermines#Coléoptèregéant|Coléoptère géant]],
-[[Compagnons vermines#Crabegéant|Crabe géant]],
-[[Compagnons vermines#Fourmigéante|Fourmi géante]],
-[[Compagnons vermines#Guêpegéante|Guêpe géante]],
-[[Compagnons vermines#Limacegéante|Limace géante]],
-[[Compagnons vermines#Mantegéante|Mante géante]],
-[[Compagnons vermines#Mille-pattesgéant|Mille-pattes géant]],
-[[Compagnons vermines#Sangsuegéante|Sangsue géante]],
+[[Compagnons vermines#Araignéegéante|Araignée géante]],  
+[[Compagnons vermines#Coléoptèregéant|Coléoptère géant]],  
+[[Compagnons vermines#Crabegéant|Crabe géant]],  
+[[Compagnons vermines#Fourmigéante|Fourmi géante]],  
+[[Compagnons vermines#Guêpegéante|Guêpe géante]],  
+[[Compagnons vermines#Limacegéante|Limace géante]],  
+[[Compagnons vermines#Mantegéante|Mante géante]],  
+[[Compagnons vermines#Mille-pattesgéant|Mille-pattes géant]],  
+[[Compagnons vermines#Sangsuegéante|Sangsue géante]],  
 [[Compagnons vermines#Scorpiongéant|Scorpion géant]].
 </div>
 

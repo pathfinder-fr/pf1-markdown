@@ -10,7 +10,7 @@ LastModified: 2024-06-02 18:31
 (((Description)))
 Ces gants confèrent à leur porteur un contrôle supérieur sur les créatures qu’il convoque. Tant qu’il les porte, les créatures convoquées par ses soins peuvent le comprendre. On considère qu’elles maîtrisent une langue de sa connaissance. Cette communication ne se fait pas dans les deux sens et ne permet pas au porteur de comprendre les créatures.
 
-Trois fois par jour, le porteur peut tenter de contrôler une créature convoquée située à 15 mètres ou moins comme s’il lançait le sort *[[contrôle des créatures convoquées]]* ([[Volonté]] [[DD]] 16).
+Trois fois par jour, le porteur peut tenter de contrôler une créature convoquée située à 15 mètres ou moins comme s’il lançait le sort *[[contrôle des créatures convoquées]]* ([[Volonté]] [[DD]] 16). 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[compréhension des langages]]*, *[[contrôle des créatures convoquées]]* ; **Coût** 15.000 po
 </div>

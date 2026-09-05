@@ -47,7 +47,7 @@ Bubons purulents qui rampent hors des piles de cadavres contaminés par la malad
 
 Ces choses apparaissent dans les régions frappées d’une épidémie, là où fleurissent la  pourriture et la destruction. Elles rampent depuis ces zones sinistrées et s’éparpillent dans toutes les directions pour répandre leur infection.
 Les guérisseurs et les naturalistes spécialisés dans les vases étudient attentivement les bulles du chaudron mais il est très
-dangereux de réaliser des expériences sur des sujets vivants. En effet, il arrive que leur pouvoir de dernier sursaut se déclenche accidentellement, même quand on manipule la créature avec moult précautions et qu’elle n’a pas subi le moindre dégât. Certains disent que les bulles ont une durée de vie limitée et qu’elles s’autodétruisent à la fin de cette période.
+dangereux de réaliser des expériences sur des sujets vivants. En effet, il arrive que leur pouvoir de dernier sursaut se déclenche accidentellement, même quand on manipule la créature avec moult précautions et qu’elle n’a pas subi le moindre dégât. Certains disent que les bulles ont une durée de vie limitée et qu’elles s’autodétruisent à la fin de cette période. 
 
 D’autres travaillent dessus depuis des années, dans l’espoir de trouver en elles un moyen de soigner une partie des maladies qui aff ligent le monde ou de s’immuniser contre elles. Quelques expériences semblent indiquer que les bulles du chaudron pourraient en effet avoir une utilité positive mais, pour l’instant, personne n’a réussi à en extraire une décoction fiable.
 
@@ -56,9 +56,9 @@ La bulle du chaudron précédemment décrite représente la version la plus rép
 
 **Bulle aveuglante (FP 1).** Cette bulle du chaudron d’un vert pâle grisâtre émet une légère luminescence. Elle transmet le mal aveuglant (Vigueur DD 14) aux créatures touchées par son attaque de coup ou son dernier sursaut.
 
-**Bulle de peste (FP 2).** Cette bulle d’un jaune maladif, agitée de perpétuels frissons qui projettent une fine bruine, possède l’archétype simple de créature géante. Toutes les créatures qui se trouvent dans un rayon de 1,50 mètres autour de la bulle doivent réussir un jet de Vigueur DD 16 ou contracter la fièvre gloussante.
+**Bulle de peste (FP 2).** Cette bulle d’un jaune maladif, agitée de perpétuels frissons qui projettent une fine bruine, possède l’archétype simple de créature géante. Toutes les créatures qui se trouvent dans un rayon de 1,50 mètres autour de la bulle doivent réussir un jet de Vigueur DD 16 ou contracter la fièvre gloussante. 
 
-**Bulle du chaudron abyssale (FP 3)**. Cette dangereuse bulle du chaudron aux teintes d’hématome et d’hémoglobine empeste la bile et le pus. Elle s’est glissée par une faille menant aux Abysses. Elle possède les archétypes simples de créature fiélone et de créature évoluée et contamine ses victimes avec la peste démoniaque.
+**Bulle du chaudron abyssale (FP 3)**. Cette dangereuse bulle du chaudron aux teintes d’hématome et d’hémoglobine empeste la bile et le pus. Elle s’est glissée par une faille menant aux Abysses. Elle possède les archétypes simples de créature fiélone et de créature évoluée et contamine ses victimes avec la peste démoniaque. 
 
 **Bulle du chaudron infernale (FP 3).** Cette bulle noire toujours accompagnée d’une odeur de soufre possède les archétypes simples de créature évoluée et de créature fiélone. Elle infecte les victimes de ses coups ou de son explosion avec le diantrespasme.
 </div></td></tr></table>

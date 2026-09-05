@@ -10,7 +10,7 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Bien qu'elle opère principalement dans la principauté des Landes lugubres, l'agence des Insomniaques prodigue des services d'investigation et de protection à tout client dans le continent. Que ce soit pour garder des aristocrates dans l'Empire décadent, protéger des reliques venant des grands marchés, ou pour infiltrer les plus grands gangs de l'asile de pierre, les agents des Insomniaques suivent toujours les termes du contrat avec le plus grand professionnalisme et une efficacité incroyable. Cependant, de tous les agents des Insomniaques, les détectives sont les plus connus et respectés. Célèbres dans le monde entier pour leur logique infaillible et leur sens de l'observation inégalé, les détectives des Insomniaques sont capables de résoudre les mystères les plus complexes qui troublent les citoyens du monde – tant que quelqu'un est prêt à fournir l'argent pour payer pour une telle enquête.*
 
 {s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le détective des Insomniaques
+|+ Le détective des Insomniaques 
 |- CLASS="titre"
 | Niveau || BBA || Réflexes || Vigueur || Volonté
 | CLASS="gauche" | Spécial
@@ -49,7 +49,7 @@ Categories:
 **Dé de vie.** d8.
 
 ### Conditions requises
-Pour devenir détective des Insomniaques, le personnage doit satisfaire aux conditions suivantes :
+Pour devenir détective des Insomniaques, le personnage doit satisfaire aux conditions suivantes : 
 
 **Dons.** [[Vigilance]].
 
@@ -58,7 +58,7 @@ Pour devenir détective des Insomniaques, le personnage doit satisfaire aux cond
 ### Compétences de classe
 Voici les compétences de classe du détective des Insomniaques : [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag) et [[Sabotage]] (Dex).
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe du détective des Insomniaques.
@@ -71,9 +71,9 @@ Un détective des Insomniaques ajoute son modificateur d'[[Intelligence]] (s'il 
 
 {s:reference|THAUMATURGIECRIMINALISTIQUE}
 #### Thaumaturgie criminalistique (Sur)
-Un détective des Insomniaques peut lancer *[[détection de la magie]]* à volonté comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] ([[NLS]] égal à son niveau de classe). Quand il utilise *détection de la magie* (ou tout autre sort qui fonctionne comme *détection de la magie*, comme par exemple *[[vision magique]]*), le détective considère que les effets magiques récemment détruits et dissipés ont une intensité d'une catégorie plus élevée pour déterminer la durée de leur aura persistante (voir *[[détection de la magie]]*). De plus, le détective peut se concentrer pendant un [[round]] supplémentaire pour déterminer exactement depuis combien de temps l'aura persistante subsiste (ce qui permet au détective de savoir exactement quand le sort ou l'objet magique qui a causé l'aura a été lancé ou détruit, respectivement).
+Un détective des Insomniaques peut lancer *[[détection de la magie]]* à volonté comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] ([[NLS]] égal à son niveau de classe). Quand il utilise *détection de la magie* (ou tout autre sort qui fonctionne comme *détection de la magie*, comme par exemple *[[vision magique]]*), le détective considère que les effets magiques récemment détruits et dissipés ont une intensité d'une catégorie plus élevée pour déterminer la durée de leur aura persistante (voir *[[détection de la magie]]*). De plus, le détective peut se concentrer pendant un [[round]] supplémentaire pour déterminer exactement depuis combien de temps l'aura persistante subsiste (ce qui permet au détective de savoir exactement quand le sort ou l'objet magique qui a causé l'aura a été lancé ou détruit, respectivement). 
 
-{s:reference|ATTAQUESOURNOISE}
+{s:reference|ATTAQUESOURNOISE} 
 #### Attaque sournoise (Ext)
 Cette capacité fonctionne exactement comme la [[Roublard#ATTAQUESOURNOISE|capacité de roublard]] du même nom. Les dégâts bonus infligés augmentent de +1d6 tous les trois niveaux au-delà du premier. Si un détective des Insomniaques obtient un bonus d'attaque sournoise via une autre source, les dégâts supplémentaires se cumulent.
 
@@ -103,7 +103,7 @@ Au niveau 7, un détective des Insomniaques peut lancer le sort *[[détection du
 
 {s:reference|RIPOSTEINTUITIVE}
 #### Riposte intuitive (Ext)
-Au niveau 8, l'intuition d'un détective des Insomniaques sur la nature humaine lui permet de prédire et de contrer les attaques de ses adversaires. Par une [[action simple]], il peut désigner un ennemi situé à 9 m ou moins de lui comme la cible de sa riposte intuitive, ce qui lui octroie un bonus d'intuition de +4 à la [[CA]] contre les attaques de cet ennemi. Une fois par [[round]], après qu'une attaque de corps à corps de l'ennemi désigné a raté le détective, il peut par une [[action immédiate]] faire une unique attaque de corps à corps contre cet adversaire tant qu'il est dans la zone contrôlée du détective. Cette attaque compte comme une [[AO|attaque d'opportunité]] pour ce round. Si cette attaque touche, le détective ajoute son bonus d'[[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] aux dégâts infligés. Le bonus de cette capacité reste actif jusqu'à la fin du combat, ou jusqu'à ce que le détective désigne une nouvelle cible pour sa riposte intuitive.
+Au niveau 8, l'intuition d'un détective des Insomniaques sur la nature humaine lui permet de prédire et de contrer les attaques de ses adversaires. Par une [[action simple]], il peut désigner un ennemi situé à 9 m ou moins de lui comme la cible de sa riposte intuitive, ce qui lui octroie un bonus d'intuition de +4 à la [[CA]] contre les attaques de cet ennemi. Une fois par [[round]], après qu'une attaque de corps à corps de l'ennemi désigné a raté le détective, il peut par une [[action immédiate]] faire une unique attaque de corps à corps contre cet adversaire tant qu'il est dans la zone contrôlée du détective. Cette attaque compte comme une [[AO|attaque d'opportunité]] pour ce round. Si cette attaque touche, le détective ajoute son bonus d'[[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] aux dégâts infligés. Le bonus de cette capacité reste actif jusqu'à la fin du combat, ou jusqu'à ce que le détective désigne une nouvelle cible pour sa riposte intuitive. 
 
 {s:reference|PERCERLATROMPERIE}
 #### Percer la tromperie (Mag)

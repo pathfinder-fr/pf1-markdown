@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15
+{s:AE}**Prix** 30 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cet épais lubrifiant donne plus de souplesse aux articulations des armures. L’application de l’onguent prend 1 minute et réduit le [[malus darmure|malus d’armure]] de 1 (jusqu’à un minimum de -1) pendant 8 heure

@@ -13,7 +13,7 @@ Categories:
 {s:Menuarchétypeconjurateur}{s:mca}*Un invocateur d’esprit est un lanceur de sorts profanes ayant pour eidolon la manifestation d’un esprit chamanique. Le pacte qui lie l’invocateur et cet esprit peut être amical (un membre de tribu qui permet à son esprit protecteur de s’incarner physiquement par exemple) ou hostile (si un étranger ou un rival oblige un esprit non consentant à le servir). L’invocateur peut exploiter la puissance divine de cet esprit mais n’est pas obligé de respecter ses principes éthiques et moraux.*
 
 #### Esprit (Sur)
-Un invocateur d’esprit noue un lien mystique avec un esprit choisi parmi ceux de la classe du chaman (Voir les [[Esprits (chaman)|Esprits du Chaman]]). Il acquiert le pouvoir de cet esprit et remplace le niveau de chaman par son niveau d’invocateur pour déterminer ses effets.
+Un invocateur d’esprit noue un lien mystique avec un esprit choisi parmi ceux de la classe du chaman (Voir les [[Esprits (chaman)|Esprits du Chaman]]). Il acquiert le pouvoir de cet esprit et remplace le niveau de chaman par son niveau d’invocateur pour déterminer ses effets. 
 
 L’invocateur d’esprit peut choisir des sorts conférés par cet esprit et les ajouter à sa liste de sorts de conjurateur connus. Le personnage les considère comme des sorts de conjurateur de niveau équivalent. L’invocateur d'esprit ne peut pas choisir des sorts d’esprit de niveau supérieur à 6. Au niveau 9, l’invocateur gagne les pouvoirs décrits dans la version supérieure de l’esprit choisi.
 
@@ -25,9 +25,9 @@ pouvoirs de l’eidolon doivent correspondre à l’esprit choisi, à l’appré
 un esprit du feu ne peut pas posséder un eidolon doté de pouvoirs liés à l’eau ou à la glace tandis qu’un autre qui a choisi un esprit des cieux ne peut pas posséder un eidolon semblable à un fiélon, etc. L’invocateur peut appliquer des effets temporaires (comme ceux du sort *[[évolution]]*) pour donner une forme inappropriée à son eidolon mais il ne peut pas utiliser d’effet permanent (comme ceux du sort de *[[transformation]]*) pour ce faire. Cette aptitude modifie l’aptitude de classe [[conjurateur#EIDOLON|eidolon]].
 
 #### Maléfice
-Au niveau 6, un invocateur d’esprit peut choisir un [[Chaman#MALEFICE|maléfice]] de [[chaman]] approprié à son esprit, qu’il sélectionne parmi ceux de la liste générale des maléfices de chaman ou parmi la liste des maléfices spécifiques conférés par son esprit.
+Au niveau 6, un invocateur d’esprit peut choisir un [[Chaman#MALEFICE|maléfice]] de [[chaman]] approprié à son esprit, qu’il sélectionne parmi ceux de la liste générale des maléfices de chaman ou parmi la liste des maléfices spécifiques conférés par son esprit. 
 
-Cette aptitude fonctionne par ailleurs comme un maléfice de chaman, en remplaçant le niveau de chaman par le niveau d’invocateur.
+Cette aptitude fonctionne par ailleurs comme un maléfice de chaman, en remplaçant le niveau de chaman par le niveau d’invocateur. 
 
 Comme un chaman, l’invocateur d’esprit applique son modificateur de [[Sagesse]] pour déterminer le [[DD]] des maléfices. Aux niveaux 8, 10 et 16, l’invocateur peut choisir un maléfice supplémentaire.
 

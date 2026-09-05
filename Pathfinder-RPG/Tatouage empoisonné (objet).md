@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:racial|Vishkanya (race)|vishkanyas|Illustrations/PNJ/Vishkanya.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:racial|Vishkanya (race)|vishkanyas|Illustrations/PNJ/Vishkanya.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cette pâte semblable à du henné crée un tatouage brun foncé sur la main ou le pied, qui s’estompe au cours des 2d6 jours suivants. Le tatouage accroît temporairement la force du poison naturel du [[Vishkanya (race)|vishkanya]], augmentant le [[DD]] de sa prochaine arme empoisonnée de son sang ou de sa salive de +2 (une fois utilisé, le tatouage n’est plus qu’une simple décoration n’affectant plus le poison de la créature). Un tatouage typique dessine des spirales compliquées et des symboles spirituels sur la main ou le pied.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** —
+{s:AE}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Un artisan peut fabriquer une copie de clé fonctionnelle en l'espace d'une heure (pour que la copie ressemble exactement à l'original, il faut faire appel à un artisan compétent qui doit réussir un test d'[[Artisanat]] de [[DD]] 25 au bout d'une journée).

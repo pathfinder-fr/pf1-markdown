@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Urumi (arme)|Urumi]]
 |[[Domaine de lEau|Eau]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]]
-|[[Domaine de lEau|Glace]], [[Domaine de la Mort|Meurtre]], [[Domaine de la Mort|Morts-vivants]], [[Domaine du Mal|Peur]]
+|[[Domaine de lEau|Glace]], [[Domaine de la Mort|Meurtre]], [[Domaine de la Mort|Morts-vivants]], [[Domaine du Mal|Peur]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

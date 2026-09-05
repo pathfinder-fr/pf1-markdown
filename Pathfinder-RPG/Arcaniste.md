@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Exploitations|exploitations d'arcaniste]].***
-***Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'arcaniste]].***
+<div class="fright">***Voir aussi les [[Exploitations|exploitations d'arcaniste]].***  
+***Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'arcaniste]].***  
 {s:PM0|arcaniste}**Voir les archétypes de l'arcaniste**&emsp;
 <li ID="arcaniste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypearcaniste}</li>
 </div>{s:MCA}*Certains lanceurs de sorts cherchent à percer les secrets de la magie et à obtenir assez de puissance pour réussir l’impossible. D’autres naissent avec des pouvoirs magiques innés et contrôlent des forces incroyables aussi facilement qu’ils respirent. D’autres encore tentent de fusionner la science des étudiants en ésotérisme avec la puissance naturelle des lanceurs de sorts innés. Ces arcanistes s’efforcent de découvrir les mystérieuses lois qui régissent la magie et de les plier à leurs désirs par leur art et leur volonté. Les arcanistes sont les façonneurs et les artisans des arcanes et aucune magie ne peut se soustraire à leur contrôle.*
@@ -706,13 +706,13 @@ niveau 1, il peut, chaque jour, préparer quatre sorts de niveau 0 et deux de ni
 
 Chez l’arcaniste, les [[dons]] et effets qui modifient habituellement le nombre de sorts connus modifient à la place le nombre de sorts préparés chaque jour.
 
-L’arcaniste doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à l’étude de son grimoire. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée.
+L’arcaniste doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à l’étude de son grimoire. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée. 
 
 L’arcaniste peut appliquer les [[dons]] de métamagie qu’il maîtrise à ses sorts préparés quand il les lance, comme le ferait un [[ensorceleur]], avec la même augmentation de la durée d’incantation (voir Sorts spontanés et [[Dons#DONMETAMAGIE|dons de métamagie]]). Cependant, il peut aussi préparer un sort avec un don de métamagie connu et le lancer sans augmentation de la durée d’incantation, comme le ferait un magicien. Il ne peut pas combiner ces deux options (un sort préparé avec un don de métamagie ne peut pas être modifié par un don de métamagie au moment de l’incantation, à moins que l’arcaniste ne dispose de l’[[Exploitations#METAMIXAGE|exploitation d’arcaniste métamixage]] ).
 
 {s:Reference|TOURDEMAGIE}{s:Reference|TOURSDEMAGIE}
 #### Tour de magie
-Chaque jour, un arcaniste peut préparer le nombre de tours de magie (ou sort de niveau 0) indiqué dans la table des sorts journaliers. Il les lance comme les autres mais ils ne consomment pas d’emplacement de sort.
+Chaque jour, un arcaniste peut préparer le nombre de tours de magie (ou sort de niveau 0) indiqué dans la table des sorts journaliers. Il les lance comme les autres mais ils ne consomment pas d’emplacement de sort. 
 
 Comme les autres sorts, ceux-ci ne sont pas dépensés une fois lancés.
 
@@ -728,7 +728,7 @@ Il peut ajouter des sorts issus du grimoire d’autres magiciens ou d'autres arc
 
 {s:Reference|RESERVOIRARCANIQUE}
 #### Réservoir arcanique
-L’arcaniste dispose d’une réserve d’énergie magique innée dans laquelle il puise pour alimenter ses exploitations et améliorer ses sorts. Le réservoir arcanique de l’arcaniste contient un nombre maximum de points d’énergie magique égal à 3 + niveau de l’arcaniste.
+L’arcaniste dispose d’une réserve d’énergie magique innée dans laquelle il puise pour alimenter ses exploitations et améliorer ses sorts. Le réservoir arcanique de l’arcaniste contient un nombre maximum de points d’énergie magique égal à 3 + niveau de l’arcaniste. 
 
 Chaque jour, le réservoir se remplit de 3 +1/2 niveau de l’arcaniste points d’énergie magique brute quand l’arcaniste prépare ses sorts. Les points de la veille sont perdus. Il peut récupérer des points grâce à l’aptitude de classe absorption de sorts et grâce à certaines exploitations d’arcaniste. Le réservoir arcanique est incapable de contenir plus de points que le maximum indiqué précédemment. Les points en excès sont perdus.
 
@@ -736,11 +736,11 @@ Les points du réservoir arcanique servent à alimenter nombre des pouvoirs d’
 
 {s:Reference|EXPLOITATION}
 #### Exploitation d'arcaniste
-En contournant et parfois en brisant les règles de la magie, l’arcaniste apprend à exploiter les vides et les exceptions dans les lois régissant les arts occultes. Grâce à certaines exploitations, il démantèle diverses formes de magie et ajoute leur essence à son réservoir arcanique.
+En contournant et parfois en brisant les règles de la magie, l’arcaniste apprend à exploiter les vides et les exceptions dans les lois régissant les arts occultes. Grâce à certaines exploitations, il démantèle diverses formes de magie et ajoute leur essence à son réservoir arcanique. 
 
 Au niveau 1 puis tous les niveaux impairs, l’arcaniste apprend une nouvelle exploitation arcanique, à choisir dans la liste qui suit.
 
-Il ne peut pas choisir une même exploitation à deux reprises et ne peut pas changer celles qu’il a choisies. La plupart des exploitations fonctionnent en dépensant des points du réservoir arcanique.
+Il ne peut pas choisir une même exploitation à deux reprises et ne peut pas changer celles qu’il a choisies. La plupart des exploitations fonctionnent en dépensant des points du réservoir arcanique. 
 
 Sauf indication contraire, le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre les exploitations arcaniques est de 10 +1/2 niveau de l’arcaniste + modificateur de [[Charisme]] de l’arcaniste.
 

@@ -19,7 +19,7 @@ Les moines karmiques remplacent [[Intimidation]] par [[Diplomatie]] (Cha) dans l
 
 #### Frappe karmique (Sur)
 Un moine karmique de niveau 1 bénéficie de bonus contre les créatures qui l’agressent en premier. Si une
-créature que le moine karmique n’a pas encore attaquée au cours des 24 dernières heures effectue un jet d’attaque contre lui ou lance un sort offensif qui l’affecte, le moine karmique bénéficie d’un bonus de +2 aux [[combat#JETDATTAQUE|jets d’attaque]] et de [[dégâts]] contre elle. Si le moine karmique touche une telle cible, ce bonus dure jusqu’à la fin du tour du moine (ou jusqu’au début de son prochain tour si ce n’est pas à lui de jouer).
+créature que le moine karmique n’a pas encore attaquée au cours des 24 dernières heures effectue un jet d’attaque contre lui ou lance un sort offensif qui l’affecte, le moine karmique bénéficie d’un bonus de +2 aux [[combat#JETDATTAQUE|jets d’attaque]] et de [[dégâts]] contre elle. Si le moine karmique touche une telle cible, ce bonus dure jusqu’à la fin du tour du moine (ou jusqu’au début de son prochain tour si ce n’est pas à lui de jouer). 
 Sinon, le bonus contre une créature particulière dure pendant une minute après la dernière attaque de celle-ci contre le moine karmique. Cette aptitude remplace celle de [[moine#COUPETOURDISSANT|coup étourdissant]].
 
 #### Esprit de l’équilibre (Sur)

@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion, Mal, obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)
-**Cible** une créature/3 niveaux
-**Durée** 1 round/niveau
+{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion, Mal, obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)  
+**Cible** une créature/3 niveaux  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage créé une aura obscure de doutes alimentée par les faiblesses psychologiques de son ennemi. Les cibles perçoivent toutes les sources de lumière comme étant d'une catégorie plus sombre, jusqu'à un niveau de luminosité minimum équivalent à des [[Exploration#VISIONLUMIERE|ténèbres]] (mais pas des ténèbres surnaturelles), et ce même si elles réussissent leur [[jds|jet de sauvegarde]].

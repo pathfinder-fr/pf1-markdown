@@ -21,74 +21,74 @@ Grâce à une méditation régulière, une réflexion profonde et une grande ét
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
 | CLASS="gauche" | [[Exalté#MARQUEDIVINE|Marque divine]], [[Exalté#OBEDIENCE|obédience]], [[Exalté#ERUDIT|érudit]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 2 || +1 || +1 || +1 || +1
 | CLASS="gauche" | [[Exalté#VITALITE|Vitalité]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 3 || +2 || +1 || +1 || +2
 | CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 1]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 4 || +3 || +1 || +1 || +2
 | CLASS="gauche" | [[Exalté#ORATEURRELIGIEUX|Orateur religieux]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 5 || +3 || +2 || +2 || +3
 | CLASS="gauche" | [[Exalté#PRATIQUEETENDUE|Pratique étendue]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 6 || +4 || +2 || +2 || +3
 | CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 2]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 7 || +5 || +2 || +2 || +4
 | CLASS="gauche" | [[Exalté#ASPECTDELADIVINITE|Aspect de la divinité]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 8 || +6 || +3 || +3 || +4
 | CLASS="gauche" | [[Exalté#VISIONARDENTE|Vision ardente]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 9 || +6 || +3 || +3 || +5
 | CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 3]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |-
 | 10 || +7 || +3 || +3 || +5
 | CLASS="gauche" | [[Exalté#REALISERUNMIRACLE|Réaliser un miracle]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
 |}
 
 **Dé de vie.** d8
 
 ### Conditions requises
-Pour pouvoir devenir exalté, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir exalté, le personnage doit satisfaire aux conditions suivantes. 
 
-**Alignement.** Même alignement que la divinité choisie.
+**Alignement.** Même alignement que la divinité choisie. 
 
-**Compétences.** 5 rangs en [[Connaissances]] (religion), 5 rangs en [[Diplomatie]].
+**Compétences.** 5 rangs en [[Connaissances]] (religion), 5 rangs en [[Diplomatie]]. 
 
 **Divinité.** Doit prier une unique divinité.
 
 **Dons.** [[Obédience divine]], [[Talent]] ([[Connaissances]] <nowiki>[[</nowiki>religion<nowiki>]]</nowiki>).
 
-**Sorts.** Capacité à lancer des [[magie divine|sorts divins]] de 3e niveau.
+**Sorts.** Capacité à lancer des [[magie divine|sorts divins]] de 3e niveau. 
 
 ### Compétences de classe
-Voici les compétences de classe de l'exalté : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (déclamation) (Cha).
+Voici les compétences de classe de l'exalté : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (déclamation) (Cha). 
 
 **Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe d'exalté.
+Voici les caractéristiques de la classe d'exalté. 
 
 ### Armes et armures
 L'exalté est formé au maniement de l'arme de prédilection de sa divinité tutélaire.
 
 {s:reference|SORTSPARJOUR}
 #### Sorts par jour/Sorts connus
-Aux niveaux indiqués, un exalté obtient de nouveaux sorts par jour comme s'il avait gagné un niveau dans une classe de lanceur de sorts qu'il avait déjà avant de prendre cette classe de prestige. Cependant, il n'obtient pas d'autre avantage de cette classe hormis les sorts par jour, les sorts connus (s'il est un lanceur de sorts spontanés) et le [[niveau de lanceur de sorts]] effectif amélioré. Si personnage avait plus d'une classe de lanceur de sorts divins avant de devenir un exalté, il doit choisir la classe à laquelle il donnera le niveau pour déterminer ses nouveaux sorts par jour.
+Aux niveaux indiqués, un exalté obtient de nouveaux sorts par jour comme s'il avait gagné un niveau dans une classe de lanceur de sorts qu'il avait déjà avant de prendre cette classe de prestige. Cependant, il n'obtient pas d'autre avantage de cette classe hormis les sorts par jour, les sorts connus (s'il est un lanceur de sorts spontanés) et le [[niveau de lanceur de sorts]] effectif amélioré. Si personnage avait plus d'une classe de lanceur de sorts divins avant de devenir un exalté, il doit choisir la classe à laquelle il donnera le niveau pour déterminer ses nouveaux sorts par jour. 
 
 {s:reference|MARQUEDIVINE}
 #### Marque divine (Sur)
@@ -110,7 +110,7 @@ De l'énergie divine parcours le corps de l'exalté, ce qui le rend plus résili
 #### Faveur divine
 Au fil de sa progression, l'exalté obtient des faveurs de la part de sa divinité tutélaire. La nature de ces faveurs change selon la divinité choisie par l'exalté. Chaque divinité octroie trois faveurs, chacune plus puissante que la précédente.
 
-Au niveau 3, l'exalté obtient la première faveur. Au niveau 6, il obtient la deuxième faveur et au niveau 9, il obtient la troisième faveur.
+Au niveau 3, l'exalté obtient la première faveur. Au niveau 6, il obtient la deuxième faveur et au niveau 9, il obtient la troisième faveur. 
 
 Pour plus de détails, consultez le don [[Obédience divine]] ainsi que le [[Divinités|profil de chaque divinité]]. Lorsqu'une faveur divine permet l'utilisation d'un [[pouvoirs magiques (capacité)|pouvoir magique]], le [[niveau de lanceur de sorts]] de l'exalté pour ce pouvoir magique est égal à son niveau de personnage total. Cette capacité permet uniquement d'accéder à ces faveurs plus rapidement qu'avec le don [[Obédience divine]] seul mais elle n'octroie pas d'utilisations supplémentaires des faveurs une fois que le personnage atteint le nombre de [[DV]] nécessaire pour obtenir ces faveurs normalement.
 
@@ -122,13 +122,13 @@ Grâce à ses études intenses, sa méditation et ses discussions avec d'autres 
 #### Pratique étendue (Sur)
 Au niveau 5, l'exalté élargit encore plus ses connaissances déjà impressionnantes sur la foi de sa divinité tutélaire et est récompensé avec des pouvoirs plus puissants dans l'un des domaines chers à sa divinité. L'exalté choisit un [[Domaines|domaine]] de sa divinité tutélaire auquel il peut désormais accéder, en utilisant son niveau d'exalté comme niveau de [[prêtre]] effectif.
 
-L'exalté peut également utiliser chaque sort du domaine choisi comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour, avec un [[niveau de lanceur de sorts]] égal à son niveau d'exalté. L'exalté peut utiliser chaque pouvoir magique seulement s'il est capable de lanceur des sorts divins de ce niveau. Si l'exalté possède des emplacements de sorts de domaine, il peut également lancer les sorts du domaine choisi avec ces emplacements, comme à l'accoutumée.
+L'exalté peut également utiliser chaque sort du domaine choisi comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour, avec un [[niveau de lanceur de sorts]] égal à son niveau d'exalté. L'exalté peut utiliser chaque pouvoir magique seulement s'il est capable de lanceur des sorts divins de ce niveau. Si l'exalté possède des emplacements de sorts de domaine, il peut également lancer les sorts du domaine choisi avec ces emplacements, comme à l'accoutumée. 
 
 {s:reference|ASPECTDELADIVINITE}
 #### Aspect de la divinité (Sur)
-Au niveau 7, l'exalté gagne un trait physique qui reflète sa foi. Ces traits physiques changent selon chaque individu et chaque foi : Des exemples incluent des cheveux avec l'apparence de feu ou d'eau, de la peau métallique ou écailleuse, des serres d'oiseau, des yeux brillants ou reptiliens, ou encore une légère aura colorée. Ces traits peuvent être tape-à-l’œil ou subtils, mais dans tous les cas ils ne confèrent pas d'attaques ou de capacités spéciales et imposent un malus de -4 aux tests de [[Déguisement]].
+Au niveau 7, l'exalté gagne un trait physique qui reflète sa foi. Ces traits physiques changent selon chaque individu et chaque foi : Des exemples incluent des cheveux avec l'apparence de feu ou d'eau, de la peau métallique ou écailleuse, des serres d'oiseau, des yeux brillants ou reptiliens, ou encore une légère aura colorée. Ces traits peuvent être tape-à-l’œil ou subtils, mais dans tous les cas ils ne confèrent pas d'attaques ou de capacités spéciales et imposent un malus de -4 aux tests de [[Déguisement]]. 
 
-De plus, l'exalté bénéficie des effets d'une *[[protection contre le Bien]]*/*[[Protection contre le Chaos|Chaos]]*/*[[Protection contre la Loi|Loi]]*/*[[Protection contre le Mal|Mal]]* permanente avec un [[niveau de lanceur de sorts]] égal à son niveau de personnage. Il doit sélectionner un alignement contre lequel son aura le protégera, mais l'alignement choisi doit être opposé à celui de l'exalté (et par conséquent, celui de sa divinité). Un exalté d'alignement neutre peut choisir n'importe lequel des quatre alignements. Une fois que l'exalté fait son choix, il ne peut plus être changé.
+De plus, l'exalté bénéficie des effets d'une *[[protection contre le Bien]]*/*[[Protection contre le Chaos|Chaos]]*/*[[Protection contre la Loi|Loi]]*/*[[Protection contre le Mal|Mal]]* permanente avec un [[niveau de lanceur de sorts]] égal à son niveau de personnage. Il doit sélectionner un alignement contre lequel son aura le protégera, mais l'alignement choisi doit être opposé à celui de l'exalté (et par conséquent, celui de sa divinité). Un exalté d'alignement neutre peut choisir n'importe lequel des quatre alignements. Une fois que l'exalté fait son choix, il ne peut plus être changé. 
 
 {s:reference|VISIONARDENTE}
 #### Vision ardente (Mag)

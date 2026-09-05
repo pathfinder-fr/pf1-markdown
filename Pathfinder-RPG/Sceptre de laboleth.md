@@ -8,9 +8,9 @@ LastModified: 2026-05-17 14:28
 {s:BDTitre|Sceptre de l'aboleth|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 29 000 po ; **Poids** 2,5 kg
 (((Description)))
-Le sceptre de l’aboleth fonctionne comme une masse d’armes légères +1. L’une des extrémités du sceptre est sertie de trois rubis en forme d’oeil, tandis que l’autre se termine par une pointe acérée. Lorsque le sceptre est exposé à l’humidité, il se couvre d’une pellicule poisseuse qui n’affecte pas la prise du porteur. Le sceptre a les pouvoirs suivants.
-• Une fois par jour, par une action libre, lorsque le sceptre touche une créature vivante, cette dernière doit réussir un jet de Vigueur DD 18 ou subir un affaiblissement temporaire de 1d4 points de Constitution.
-• Une fois par jour, par une action libre, lorsque le sceptre touche une créature vivante, cette dernière doit réussir un jet de Volonté DD 13 ou être affectée par un sort de [[poumons daboleth|poumons d’aboleth]] (Guide des races, Règles avancées).
+Le sceptre de l’aboleth fonctionne comme une masse d’armes légères +1. L’une des extrémités du sceptre est sertie de trois rubis en forme d’oeil, tandis que l’autre se termine par une pointe acérée. Lorsque le sceptre est exposé à l’humidité, il se couvre d’une pellicule poisseuse qui n’affecte pas la prise du porteur. Le sceptre a les pouvoirs suivants.  
+• Une fois par jour, par une action libre, lorsque le sceptre touche une créature vivante, cette dernière doit réussir un jet de Vigueur DD 18 ou subir un affaiblissement temporaire de 1d4 points de Constitution.  
+• Une fois par jour, par une action libre, lorsque le sceptre touche une créature vivante, cette dernière doit réussir un jet de Volonté DD 13 ou être affectée par un sort de [[poumons daboleth|poumons d’aboleth]] (Guide des races, Règles avancées).  
 • Sur commande, 1 minute par jour, le porteur peut bénéficier d’une vitesse de nage de 18 mètres pendant 1 minute. Ce temps ne doit pas nécessairement être continu et peut être dépensé par incréments de 1 round.
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[caresse de la mer]]*, *[[flèche acide]]*, *[[poumons daboleth|poumons d’aboleth]]* ; **Coût** 14 500 po

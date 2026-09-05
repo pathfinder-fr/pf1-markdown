@@ -11,7 +11,7 @@ LastModified: 2017-03-07 09:48
 Son but est de permettre aux joueurs de bénéficier d'un site le plus complet possible en attendant que BBE publie certains ouvrages de la gamme à fin de combler des trous dans les suites de certains dons pour profiter de toute la richesse de la gamme en vo.
 
 #### Règles d'intégration
-Petit rappel préliminaire : la mécanique des dons est couverte par la licence ogl, de sorte qu'il est parfaitement possible de les reprendre ici sans enfreindre la PCUP. Ce n'est par contre pas le cas de tout ce qui concerne le Cadre de campagne ou l'univers propre à Golarion.
+Petit rappel préliminaire : la mécanique des dons est couverte par la licence ogl, de sorte qu'il est parfaitement possible de les reprendre ici sans enfreindre la PCUP. Ce n'est par contre pas le cas de tout ce qui concerne le Cadre de campagne ou l'univers propre à Golarion. 
 
 Pour être au clair, il suffit de respecter quelques règles simples.
 

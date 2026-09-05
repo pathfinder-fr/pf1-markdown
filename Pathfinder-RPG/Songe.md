@@ -15,14 +15,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G]]
-**Portée** [[illimitée]]
-**Cible** créature vivante touchée
-**Durée** voir description
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[illimitée]]  
+**Cible** créature vivante touchée  
+**Durée** voir description  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Le personnage, ou un messager qu’il touche lors de l’incantation, transmet un message onirique à un autre individu. Au début de l’incantation, le lanceur de sorts doit nommer le destinataire du message ou l’identifier afin qu’il soit impossible de se tromper sur son identité. Le messager entre en transe, apparaît dans les rêves du destinataire et délivre le message qu’on l’a chargé de transmettre. La longueur du message n’est pas limitée, et celui qui le reçoit s’en rappelle parfaitement au réveil. La communication ne s’effectue que dans un sens : le destinataire ne peut pas envoyer de réponse ni poser de question et le messager ne tire aucune information des rêves de la cible.
 
 Le messager réintègre immédiatement son corps une fois le message transmis. La durée du sort est égale au temps nécessaire pour s’infiltrer dans l’univers onirique de la cible et délivrer le message prévu.
@@ -41,25 +41,25 @@ Le personnage ou son messager peut obtenir des informations de la part du rêveu
 
 ((({s:sortssimilaires|songe}
 ## [[Songe mineur]]
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G]]
-**Portée** illimitée
-**Cible** lanceur de sorts ou gnome touché
-**Durée** voir texte
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G]]  
+**Portée** illimitée  
+**Cible** lanceur de sorts ou gnome touché  
+**Durée** voir texte  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[songe]]* à quelques différences près. Le messager doit être le lanceur de sorts ou le gnome touché. Le message ne doit pas dépasser 20 mots. Si le destinataire du message ne dort pas au moment où le personnage lance le sort, ce dernier échoue automatiquement.
 
 ## [[Examen des rêves]]
-{s:AO}** École **[[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 4, [[psychiste|Psy]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|illimitée]]
-**Cible** 1 créature vivante
-**Durée** voir texte
+{s:AO}** École **[[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 4, [[psychiste|Psy]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|illimitée]]  
+**Cible** 1 créature vivante  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[songe]]*, mais au lieu d’envoyer un message à une cible endormie, le personnage lit dans ses pensées. Pour lancer ce sort, la cible doit être endormie bien que, si ce n’est pas le cas, le personnage puisse attendre en transe jusqu’à ce qu’elle s’endorme.
 
 Une fois la cible endormie, le personnage peut se concentrer pour lire ses pensées superficielles comme avec *[[détection des pensées]]*. Il peut se concentrer pendant 1 minute par [[NLS|niveau de lanceur de sorts]]. Au lieu de lire les pensées de surface, il peut étudier les rêves et le subconscient de la cible, en quête de réponses à ses questions. À chaque fois qu’il passe une minute à se concentrer, il peut obtenir la réponse à une question mais elle peut être brève, cryptique ou répétitive. La cible a droit à un nouveau jet de [[Volonté]] pour mettre un terme à l’examen des rêves à chaque fois que le personnage lui pose une question. Sinon, elle a droit à un test de [[Bluff]] contre un [[DD]] de 11 + modificateur de [[Psychologie]] du personnage.
@@ -67,14 +67,14 @@ Une fois la cible endormie, le personnage peut se concentrer pour lire ses pens�
 Si elle rate son test de [[Bluff]], le personnage obtient l’information désirée ; si elle réussit, il ne recueille aucune information. Si elle réussit son test de 5 ou plus, le personnage se trompe dans son interprétation des rêves et en tire une conclusion erronée, au choix de la cible, en étant persuadé qu’il a raison. Contrairement au *[[songe]]*, ce sort ne permet pas d’utiliser la cible comme messager.
 
 ## [[Conseil onirique]]
-{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 4, [[psychiste|Psy]] 6
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** illimitée
-**Cible** une ou plusieurs créatures vivantes
-**Durée** voir texte
+{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 4, [[psychiste|Psy]] 6  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** illimitée  
+**Cible** une ou plusieurs créatures vivantes  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[songe]]* mais le lanceur et la cible du sort peuvent converser de manière limitée tant que cette dernière est endormie. Le personnage peut envoyer ou recevoir un nombre de messages oniriques égal à son [[NLS|niveau de lanceur de sorts]]. Chaque message fait jusqu’à 25 mots ou prend la forme d’une image vague ne comportant pas d’éléments détaillés tels que des mots. Il peut échanger avec une ou plusieurs cibles mais chaque message envoyé ou reçu est décompté du total autorisé. Il faut 1 [[round]] pour envoyer un message. Le sort se termine et le personnage se réveille quand il a épuisé son quota de messages.
 
 Si le personnage utilise conseil onirique pour envoyer un message à une créature endormie ayant préparé un sort de *[[songe]]* ou de conseil onirique (ou capable de le lancer de façon spontanée ou comme un pouvoir magique), elle peut dépenser l’un des messages du personnage pour lancer le sort sans se réveiller. Cela dépense l’emplacement de sort, le sort ou le pouvoir magique quotidien comme à l’accoutumée, mais au lieu de répondre aux messages du personnage, la créature peut alors pénétrer dans son paysage onirique. Si le destinataire du message psychique dispose du don [[Rêveur lucide]], il peut entrer dans le paysage onirique du personnage sans lancer ces sorts. Une fois dans le paysage onirique du lanceur de sorts originel, les membres du conseil peuvent interagir entre eux et avec le paysage pendant 10 minutes par message restant. Le sort se termine une fois cette durée écoulée.

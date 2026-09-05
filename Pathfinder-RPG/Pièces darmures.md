@@ -630,61 +630,61 @@ le plus son porteur.
 | COLSPAN="9" | Armures légères
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALSOIE|Armure cérémonielle de soie]] || 30&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALBOIS|De bois]] || 10&nbsp;po || +1 || +3 || -1 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALCUIR|De cuir]] || 5&nbsp;po || +1 || +6 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALCUIRCLOUTE|De cuir cloutée]] || 15&nbsp;po || +1 || +5 || 0 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#CUIRASSELAMELLAIRE|Cuirasse lamellaire]] || 15&nbsp;po || +2 || +4 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3,5&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALREMBOURRE|Habits rembourrés]] || 50&nbsp;po || +0 || +8 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#HARAMAKI|Haramaki]] || 3&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 0,5&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECUIR|Lamellaire, cuir]] || 30&nbsp;po || +2 || +3 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALMATELASSE|Matelassée]] || 3&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="premier"
+|- CLASS="premier" 
 | COLSPAN="9" | Armures intermédiaires
 |-
 | &nbsp; [[Description des pièces darmure#ARMUREQUATREMIROIRS|Armure quatre-miroirs]] || 20&nbsp;po || +5 || +4 || -5 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 18&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#DOMARU|Do-maru]] || 200&nbsp;po || +5 || +4 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 13,5&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALECAILLES|D’écailles]] || 30&nbsp;po || +2 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALKIKKO|Kikko]] || 15&nbsp;po || +2 || +4 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 7&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREACIER|Lamellaire, acier]] || 100&nbsp;po || +1 || +3 || -5 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECORNE|Lamellaire, corne]] || 50&nbsp;po || +2 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALMAILLES|De mailles]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 100&nbsp;po || +4 || +4 || -2 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 11&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALMONTAGNE|De la montagne]] || 150&nbsp;po || +3 || +3 || -4 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALPEAU|De peau]] || 10&nbsp;po || +2 || +4 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#VESTERENFORCEE|Veste renforcée]] || 50&nbsp;po || +4 || +3 || -2 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
-|- CLASS="premier"
+|- CLASS="premier" 
 | COLSPAN="9" | Armures lourdes
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALCLIBANION|De clibanion]] || 100&nbsp;po || +4 || 0 || -3 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 11&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALCREVICE|De crevice]] || 150&nbsp;po || +4 || +1 || -2 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 9&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALKUSARIGUSOKU|Kusari gusoku]] || 200&nbsp;po || +4 || +1 || -7 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 9&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREFER|Lamellaire, fer]] || 100&nbsp;po || +4 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 7&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#MANTEAUDEPIERRE|Manteau de pierre]] || 500&nbsp;po || +8 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 20,5&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALOYOROI|O-yoroi]] || 750&nbsp;po || +5 || +2 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALPLAQUES|De plaques]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 200&nbsp;po || +6 || +3 || -4 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
-|- CLASS="alt"
+|- CLASS="alt" 
 | &nbsp; [[Description des pièces darmure#PECTORALPLAQUESFLEXIBLES|De plaques flexibles]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 400&nbsp;po || +6 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
 |-
 | &nbsp; [[Description des pièces darmure#PECTORALTATAMIDO|Tatami-do]] || 500&nbsp;po || +4 || +4 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg

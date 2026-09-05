@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Les éléments exacts composant cette tenue varient d’un pays à l’autre mais comptent généralement des bottes solides, un pantalon en cuir ou un kilt, une ceinture, une chemise, des gants, une cape ou une veste et un couvre-chef. La ceinture compte plusieurs passants ou des anneaux auxquels accrocher des bourses, une outre, un fourreau et d’autres choses similaires dont pourrait avoir besoin un soldat en voyage.

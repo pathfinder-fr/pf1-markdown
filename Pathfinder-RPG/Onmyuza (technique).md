@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Kérambit (arme)|Kérambit]]
 |[[Domaine du Chaos|Chaos]], [[Domaine du Charme|Charme]], [[Domaine du Mal|Mal]], [[Domaine des Runes|Runes]]
-|[[Domaine du Chaos|Festivités]], [[Domaine des Runes|Glyphes]], [[Domaine des Runes|Langage]], [[Domaine du Charme|Luxure]]
+|[[Domaine du Chaos|Festivités]], [[Domaine des Runes|Glyphes]], [[Domaine des Runes|Langage]], [[Domaine du Charme|Luxure]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

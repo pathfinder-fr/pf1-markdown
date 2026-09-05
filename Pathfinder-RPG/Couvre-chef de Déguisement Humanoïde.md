@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:06
 {s:BDTitre|Couvre-chef de Déguisement humanoïde|{s:AE}}
 **Aura** [[Illusion]] faible  ; **NLS** 3  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 800 po ; **Poids** —
 (((Description)))
-Ce couvre-chef élimé permet à son porteur de modifier son apparence comme s’il était sous l’effet du sort *[[déguisement]]*. Toutefois, il peut uniquement prendre l’apparence d’un enfant humain de taille P, d’un [[halfelin]] ou d’un [[gnome]] adulte habillé avec simplicité, comme un paysan, un forgeron ou un boutiquier, par exemple. Le porteur peut légèrement modifier l’apparence du couvre-chef pour l’intégrer au déguisement mais il doit correspondre à l’allure générale et quelconque de l’illusion. Même s’il a été conçu pour les humanoïdes de taille P, ce couvre-chef peut également être porté par des créatures humanoïdes de taille M.
+Ce couvre-chef élimé permet à son porteur de modifier son apparence comme s’il était sous l’effet du sort *[[déguisement]]*. Toutefois, il peut uniquement prendre l’apparence d’un enfant humain de taille P, d’un [[halfelin]] ou d’un [[gnome]] adulte habillé avec simplicité, comme un paysan, un forgeron ou un boutiquier, par exemple. Le porteur peut légèrement modifier l’apparence du couvre-chef pour l’intégrer au déguisement mais il doit correspondre à l’allure générale et quelconque de l’illusion. Même s’il a été conçu pour les humanoïdes de taille P, ce couvre-chef peut également être porté par des créatures humanoïdes de taille M. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[déguisement]]*  ; **Coût** 400 po
 </div>

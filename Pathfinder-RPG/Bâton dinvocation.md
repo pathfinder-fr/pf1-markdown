@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton d’invocation|}
 **Aura** [[Invocation]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est généralement fait de bois de frêne ou de noyer et porte de multiples gravures représentant diverses créatures. Il permet de lancer les sorts suivants :
-• *[[brume mortelle]]* (2 charges)
-• *[[convocation de monstres VI]]* (3 charges)
-• *[[création mineure]]* (2 charges)
-• *[[nuage nauséabond]]* (1 charge)
-• *[[nuée grouillante]]* (1 charge)
+Ce bâton est généralement fait de bois de frêne ou de noyer et porte de multiples gravures représentant diverses créatures. Il permet de lancer les sorts suivants :  
+• *[[brume mortelle]]* (2 charges)  
+• *[[convocation de monstres VI]]* (3 charges)  
+• *[[création mineure]]* (2 charges)  
+• *[[nuage nauséabond]]* (1 charge)  
+• *[[nuée grouillante]]* (1 charge)  
 • *[[serviteur invisible]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[brume mortelle]]*, *[[convocation de monstres VI]]*, *[[création mineure]]*, *[[nuage nauséabond]]*, *[[nuée grouillante]]*, *[[serviteur invisible]]* ; **Coût** 41 000 po

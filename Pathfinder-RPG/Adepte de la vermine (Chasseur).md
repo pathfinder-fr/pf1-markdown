@@ -16,7 +16,7 @@ Categories:
 Au niveau 1, un adepte de la vermine doit choisir un compagnon vermine au lieu d’un compagnon animal (L’art de la magie p.31). Cette aptitude modifie celle de compagnon animal. L’aptitude de classe tactique du chasseur permet à l’adepte de la vermine de conférer ses dons de travail en équipe à un compagnon vermine dénué d’intelligence.
 
 #### Empathie avec la vermine (Ext)
-Un adepte de la vermine gagne l’aptitude empathie sauvage mais seulement pour influencer le comportement des vermines (et non des animaux ou des créatures magiques). Cette aptitude modifie empathie sauvage.
+Un adepte de la vermine gagne l’aptitude empathie sauvage mais seulement pour influencer le comportement des vermines (et non des animaux ou des créatures magiques). Cette aptitude modifie empathie sauvage. 
 
 #### Imitation de la vermine (Sur)
 Un adepte de la vermine peut reproduire l’aspect d’une vermine. Cette aptitude fonctionne comme l’imitation animale, mais donne accès aux choix suivants uniquement.

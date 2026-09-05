@@ -9,7 +9,7 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}''N'importe quel guerrier de la fosse qui se respecte vous le dira, vos talents au combat n'ont aucune importance – il n'y a que le sang qui intéresse la foule, et ils n'ont rien à faire de savoir si c'est le vôtre ou celui de votre ennemi. Donc si vous voulez survivre dans la fosse, assurez-vous que les gens obtiennent le sang qu'ils demandent, en abondance. Si vous êtes assez chanceux, le public sera de votre côté, vous sentirez le rugissement de la foule qui bat dans votre cœur, et plus rien ne vous arrêtera.
 
-Cette simple philosophie est ce qui sépare un vrai guerrier de la fosse du reste des vieux gladiateurs dépassés trouvés dans les arènes tout autour du monde. Qu'ils soient en train de combattre des bêtes géantes dans les fosses sales des Terres des Féroces ou qu'ils soient en train de repousser des monstres conjurés dans les grands stades de l'ancienne capitale de l'Empire diabolique, un vrai guerrier de la fosse s'assure que le public voit la différence.
+Cette simple philosophie est ce qui sépare un vrai guerrier de la fosse du reste des vieux gladiateurs dépassés trouvés dans les arènes tout autour du monde. Qu'ils soient en train de combattre des bêtes géantes dans les fosses sales des Terres des Féroces ou qu'ils soient en train de repousser des monstres conjurés dans les grands stades de l'ancienne capitale de l'Empire diabolique, un vrai guerrier de la fosse s'assure que le public voit la différence. 
 
 Même si la vie des guerriers de la fosse a l'air d'être définie par leur profession, certains arrivent à s'échapper des fosses, que ce soit en gagnant leur liberté au combat ou en brisant leurs chaînes durant la nuit. Bien qu'ils ne puissent plus être guerriers de la fosse professionnellement, ils le seront toujours dans leur cœur, et se languissent de l'excitation des combats et du rugissement de la foule, même des années après avoir pris leur retraite.''
 
@@ -121,9 +121,9 @@ Même si la vie des guerriers de la fosse a l'air d'être définie par leur prof
 **Dé de vie.** d10.
 
 ### Conditions requises
-Pour pouvoir devenir guerrier de la fosse, le personnage doit satisfaire aux conditions suivantes :
+Pour pouvoir devenir guerrier de la fosse, le personnage doit satisfaire aux conditions suivantes : 
 
-**Alignement.** N'importe quel alignement non-Loyal.
+**Alignement.** N'importe quel alignement non-Loyal. 
 
 **Dons.** [[Démonstration]].
 
@@ -132,9 +132,9 @@ Pour pouvoir devenir guerrier de la fosse, le personnage doit satisfaire aux con
 **Spécial.** Trait racial [[Orque (race)|orque]] férocité ou capacité de classe [[barbare#RAGEDEBERSERKER|rage de berserker]].
 
 ### Compétences de classe
-Voici les compétences de classe du guerrier de la fosse : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Évasion]] (Dex), [[Intimidation]] (Cha) et [[Représentation]] (Cha).
+Voici les compétences de classe du guerrier de la fosse : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Évasion]] (Dex), [[Intimidation]] (Cha) et [[Représentation]] (Cha). 
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe du guerrier de la fosse.
@@ -169,7 +169,7 @@ Au niveau 2, quand un guerrier de la fosse utilise une arme avec l'attribut [[Ca
 
 {s:reference|ASTUCEDARME}
 #### Astuce d'arme (Ext)
-Au niveau 3, un guerrier de la fosse obtient le don [[Science du sale coup]] comme don supplémentaire, et peut utiliser n'importe quelle arme avec l'attribut [[Caractéristiques des armes#SPECTACLE|spectacle]] pour réaliser une [[manœuvres offensives|manœuvre offensive]] de [[sale coup]]. Une fois par [[round]], quand le guerrier de la fosse fait une manœuvre de sale coup contre un ennemi, il peut infliger des dégâts à l'ennemi comme s'il avait réalisé une attaque de corps à corps normale. Le guerrier de la fosse doit manier une arme et avoir au moins une main libre pour utiliser cette capacité.
+Au niveau 3, un guerrier de la fosse obtient le don [[Science du sale coup]] comme don supplémentaire, et peut utiliser n'importe quelle arme avec l'attribut [[Caractéristiques des armes#SPECTACLE|spectacle]] pour réaliser une [[manœuvres offensives|manœuvre offensive]] de [[sale coup]]. Une fois par [[round]], quand le guerrier de la fosse fait une manœuvre de sale coup contre un ennemi, il peut infliger des dégâts à l'ennemi comme s'il avait réalisé une attaque de corps à corps normale. Le guerrier de la fosse doit manier une arme et avoir au moins une main libre pour utiliser cette capacité. 
 
 {s:reference|RUGISSEMENTDELAFOULE}
 #### Rugissement de la foule (Ext)

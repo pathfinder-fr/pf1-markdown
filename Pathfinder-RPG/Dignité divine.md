@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Les secrets du premier coffre aident le personnage à perfectionner ses incantations.*
+{s:cs}{s:ISG}*Les secrets du premier coffre aident le personnage à perfectionner ses incantations.* 
 
 **Conditions.** [[Magie de guerre]], capacité à lancer des [[magie divine|sorts divins]], suivant d'[[Abadar (technique)|Abadar]]
 

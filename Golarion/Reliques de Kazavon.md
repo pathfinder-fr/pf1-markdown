@@ -22,7 +22,7 @@ Coja OEil-flamboyant, un chaman shoanti des Sklar-Quah, s’empara des crocs de 
 
 Le sorcier elfique Laizuriel emporta les cornes de Kazavon au Kyonin. Son voyage s’acheva cependant quand il fut pris dans une embuscade tendue par le dragon bleu Cadrilkasta, qui intégra les cornes à son trésor, caché au milieu des falaises maritimes du Razmiran.
 
-Un prêtre-érudit qadiri d’Irori, nommé Vahahn, dispersa les côtes de Kazavon sur d’innombrables mondes et royaumes impossibles dans l’espoir de détruire les ossements. On ignore avec certitude ce qu’il advint de lui mais on pense que les côtes (devenues les reliques connues sous le nom des Lambeaux de peau) seraient entre les mains de Zon-Kuthon lui-même.
+Un prêtre-érudit qadiri d’Irori, nommé Vahahn, dispersa les côtes de Kazavon sur d’innombrables mondes et royaumes impossibles dans l’espoir de détruire les ossements. On ignore avec certitude ce qu’il advint de lui mais on pense que les côtes (devenues les reliques connues sous le nom des Lambeaux de peau) seraient entre les mains de Zon-Kuthon lui-même. 
 
 Le magicien Kolwyddon du Taldor chercha à entrer communion avec la conscience enfermée dans la queue de Kazavon mais l’esprit du dragon domina le sien. Dans son désespoir, Kolwyddon réuisit son propre corps en cendre, privant ainsi Kazavon d’un réceptacle vivant mais piégeant son propre esprit dans le bâton du Vaincu.
 

@@ -52,7 +52,7 @@ disposés à converser avec d’autres créatures et à leur venir en aide.
 Leur corps se résume à un simple globe de pureté spirituelle et de
 lumière pâle. Ils peuvent interagir avec ce qui les entoure grâce à la
 force de leur volonté mais cela se révèle insuffisant pour la majorité
-des tâches physiques.
+des tâches physiques. 
 
 Leurs talents naturels en font des éclaireurs
 exceptionnels (du moins dans les zones où les lumières étranges ne
@@ -71,7 +71,7 @@ prennent grand plaisir à changer
 de teinte ou de luminosité pour
 accompagner de la musique
 ou pour amuser d’autres
-créatures.
+créatures. 
 
 La plupart des
 archons lumineux parlent
@@ -81,13 +81,13 @@ murmure ou à un pépiement
 rapide. De temps en temps, la
 lumière qu’ils émettent varie au
 rythme des mots ou des intonations
-et ponctue leur discours d’étincelles brillantes ou de pulsations douces.
+et ponctue leur discours d’étincelles brillantes ou de pulsations douces. 
 
 Il leur suffit d’une action rapide
 pour réduire leur luminosité au niveau d’une bougie pendant 1 round.
 C’est seulement quand ils meurent que leur lumière disparaît
 complètement. Comme les archons lumineux ne dorment pas et
-ne mangent pas, ils font d’excellentes vigies.
+ne mangent pas, ils font d’excellentes vigies. 
 
 Dans de nombreuses
 communautés des royaumes célestes, l’éclairage public est assuré
@@ -102,7 +102,7 @@ prendre leur ennemi en tenaille, empêcher les renforts d’arriver ou
 couper toute voie de retraite. Ces archons miniatures travaillent bien
 en groupe et savent que l’union fait la force. Lorsque la situation l’exige,
 ou en désespoir de cause, ils se rassemblent en une entité collective
-afin de mieux contrôler leur environnement.
+afin de mieux contrôler leur environnement. 
 
 Les archons lumineux
 particulièrement courageux peuvent être promus en archons plus

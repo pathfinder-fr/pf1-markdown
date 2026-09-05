@@ -7,7 +7,7 @@ LastModified: 2022-11-29 19:15
 {s:PU}
 - ***Retour au [[Moine unchained]].***
 
-Au niveau 4 et tous les 2 niveaux par la suite, le moine peut choisir un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]. Ces pouvoirs lui permettent d’accomplir des exploits incroyables, des prouesses mystiques et des acrobaties époustouflantes en dépensant les points de sa [[Moine unchained#RESERVEDEKI|réserve de ki]]. Une fois un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] choisi, ce choix est définitif. Le moine doit avoir atteint un niveau minimum avant d’avoir accès à certains pouvoirs de ki. Sauf indication contraire, un moine ne peut pas choisir un même [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] à plusieurs reprises.
+Au niveau 4 et tous les 2 niveaux par la suite, le moine peut choisir un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]. Ces pouvoirs lui permettent d’accomplir des exploits incroyables, des prouesses mystiques et des acrobaties époustouflantes en dépensant les points de sa [[Moine unchained#RESERVEDEKI|réserve de ki]]. Une fois un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] choisi, ce choix est définitif. Le moine doit avoir atteint un niveau minimum avant d’avoir accès à certains pouvoirs de ki. Sauf indication contraire, un moine ne peut pas choisir un même [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] à plusieurs reprises. 
 
 
 <table CLASS="tablo toutgauche centre autoalt" WIDTH="60%">
@@ -107,7 +107,7 @@ Un moine qui maîtrise ce pouvoir peut dépenser 1 point de ki par une [[Actions
 
 {s:Reference|CHUTERALENTIE}
 #### Chute ralentie (Sur)
-Un moine suffisamment proche d’une paroi peut en profiter pour ralentir sa chute en dépensant 1 point de ki. Quand il utilise ce pouvoir, il ne subit aucun dégât dû à la chute (comme s’il utilisait feuille morte) mais il doit rester adjacent au mur pendant toute la durée de la descente (toutefois, ce pouvoir peut toujours servir à réduire une partie des dégâts équivalente à la distance de chute lors de laquelle il reste adjacent au mur).
+Un moine suffisamment proche d’une paroi peut en profiter pour ralentir sa chute en dépensant 1 point de ki. Quand il utilise ce pouvoir, il ne subit aucun dégât dû à la chute (comme s’il utilisait feuille morte) mais il doit rester adjacent au mur pendant toute la durée de la descente (toutefois, ce pouvoir peut toujours servir à réduire une partie des dégâts équivalente à la distance de chute lors de laquelle il reste adjacent au mur). 
 
 {s:Reference|CONTACTVIOLENT}
 #### Contact violent (Ext)
@@ -131,7 +131,7 @@ Un moine qui maîtrise ce pouvoir peut dépenser 1 point de sa [[Moine unchained
 #### Défense furieuse (Ext)
 **Prérequis** : niveau 7
 
-En dépensant 1 point de sa réserve de ki par une action immédiate, le moine qui maîtrise ce pouvoir peut
+En dépensant 1 point de sa réserve de ki par une action immédiate, le moine qui maîtrise ce pouvoir peut 
 s’octroyer un bonus d’esquive de +4 à la CA jusqu’à la fin de son prochain tour. Le moine peut activer ce pouvoir et celui [[Pouvoirs de ki#ECOLEDELAUTODIDACTE|d'école de l'autodidacte]] lors de la même action immédiate pour un coût total de 3 points de ki.
 
 {s:Reference|DEFENSEKI}
@@ -142,17 +142,17 @@ Par une action immédiate avant d’effectuer un jet de sauvegarde contre un eff
 
 {s:Reference|DESERTIONDELAME}
 #### Désertion de l’âme (Sur)
-Un moine qui maîtrise ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] peut devenir éthéré pendant une minute comme s’il utilisait le sort [[Passage dans léther|passage dans l’éther]], en appliquant son niveau de moine en guise de niveau de [[Lancer des sorts#NLS|lanceur de sorts]]. Ce pouvoir s’active par une [[Actions de mouvement|action de mouvement]] et coûte 3 points de ki. Seul le moine est affecté : il ne peut pas utiliser Désertion de l’âme pour appliquer le même effet à d’autres créatures.
+Un moine qui maîtrise ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] peut devenir éthéré pendant une minute comme s’il utilisait le sort [[Passage dans léther|passage dans l’éther]], en appliquant son niveau de moine en guise de niveau de [[Lancer des sorts#NLS|lanceur de sorts]]. Ce pouvoir s’active par une [[Actions de mouvement|action de mouvement]] et coûte 3 points de ki. Seul le moine est affecté : il ne peut pas utiliser Désertion de l’âme pour appliquer le même effet à d’autres créatures. 
 
 {s:Reference|ECOLEDELAUTODIDACTE}
 #### École de l’autodidacte
 **Prérequis** : niveau 7
 
-Un moine qui maîtrise ce pouvoir diversifie les styles, afin de ne jamais répéter deux fois le même mouvement et de capitaliser sur les points faibles du style employé par un adversaire. Tant qu’il ne possède aucun [[dons décole|don d'école]], le moine peut dépenser 1 point de sa [[Moine unchained#RESERVEDEKI|réserve de ki]] par une [[Actions immédiates|action immédiate]] pour bénéficier des avantages suivants contre les ennemis utilisant un [[dons décole|don d'école]] : un bonus d’esquive de +4 à la CA, un bonus de circonstances de +4 aux jets d’attaque et un bonus égal à son niveau de moine aux jets de dégâts. Ces bonus persistent jusqu’à la fin du prochain tour du moine (ou jusqu’à la fin de son tour actuel s’il utilise ce pouvoir à son tour). Le moine peut activer ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] et celui de [[Pouvoirs de ki#DEFENSEFURIEUSE|défense furieuse]] en même temps lors de la même [[Actions immédiates|action immédiate]] pour un coût total de [[Moine unchained#RESERVEDEKI|3 points de ki]].
+Un moine qui maîtrise ce pouvoir diversifie les styles, afin de ne jamais répéter deux fois le même mouvement et de capitaliser sur les points faibles du style employé par un adversaire. Tant qu’il ne possède aucun [[dons décole|don d'école]], le moine peut dépenser 1 point de sa [[Moine unchained#RESERVEDEKI|réserve de ki]] par une [[Actions immédiates|action immédiate]] pour bénéficier des avantages suivants contre les ennemis utilisant un [[dons décole|don d'école]] : un bonus d’esquive de +4 à la CA, un bonus de circonstances de +4 aux jets d’attaque et un bonus égal à son niveau de moine aux jets de dégâts. Ces bonus persistent jusqu’à la fin du prochain tour du moine (ou jusqu’à la fin de son tour actuel s’il utilise ce pouvoir à son tour). Le moine peut activer ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] et celui de [[Pouvoirs de ki#DEFENSEFURIEUSE|défense furieuse]] en même temps lors de la même [[Actions immédiates|action immédiate]] pour un coût total de [[Moine unchained#RESERVEDEKI|3 points de ki]]. 
 
 {s:Reference|EQUILIBREDELAPLUME}
 #### Équilibre de la plume (Ext)
-Un moine qui maîtrise ce pouvoir peut dépenser [[Moine unchained#RESERVEDEKI|1 point de ki]] par une [[Actions rapides|action rapide]] pour parfaitement maintenir son équilibre. Une fois activé, ce pouvoir permet au moine de considérer qu’il obtient 20 au dé à tous ses tests [[Acrobaties|d’Acrobaties]] pour garder l’équilibre. Ce pouvoir dure une minute.
+Un moine qui maîtrise ce pouvoir peut dépenser [[Moine unchained#RESERVEDEKI|1 point de ki]] par une [[Actions rapides|action rapide]] pour parfaitement maintenir son équilibre. Une fois activé, ce pouvoir permet au moine de considérer qu’il obtient 20 au dé à tous ses tests [[Acrobaties|d’Acrobaties]] pour garder l’équilibre. Ce pouvoir dure une minute. 
 
 {s:Reference|ESPRITDEDIAMANT}
 #### Esprit de diamant (Sur)
@@ -202,15 +202,15 @@ Un moine peut porter cette redoutable attaque qui lui permet de transmettre des 
 
 {s:Reference|PLENITUDEPHYSIQUE}
 #### Plénitude physique (Sur)
-Un moine qui maîtrise ce pouvoir de ki peut soigner ses propres blessures par une action simple. En dépensant 2 points de sa réserve de ki, il se soigne d’un montant de points de dégâts égal à 1d8 + son niveau de moine.
+Un moine qui maîtrise ce pouvoir de ki peut soigner ses propres blessures par une action simple. En dépensant 2 points de sa réserve de ki, il se soigne d’un montant de points de dégâts égal à 1d8 + son niveau de moine. 
 
 {s:Reference|PORTEEKI}
 #### Portée ki (Sur)
-Un moine qui maîtrise ce pouvoir peut dépenser [[Moine unchained#RESERVEDEKI|1 point de ki]] par une [[Actions rapides|action rapide]] pour augmenter le facteur de portée d’une arme de jet de moine de 6 mètres. Il faut appliquer cet avantage avant de doubler le facteur de portée si le moine possède le don [[Tir de loin]].
+Un moine qui maîtrise ce pouvoir peut dépenser [[Moine unchained#RESERVEDEKI|1 point de ki]] par une [[Actions rapides|action rapide]] pour augmenter le facteur de portée d’une arme de jet de moine de 6 mètres. Il faut appliquer cet avantage avant de doubler le facteur de portée si le moine possède le don [[Tir de loin]]. 
 
 {s:Reference|POUVOIRQINGGONG}
 #### Pouvoir qinggong (Sur)
-Un moine qui maîtrise ce pouvoir sélectionne un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] de la liste des pouvoirs de ki du [[Moine qinggong (moine)|moine qinggong]] (L’art de la magie Pathfinder JdR p.65) si son niveau de moine est suffisamment élevé. Un moine peut sélectionner ce pouvoir plusieurs fois. Il s’applique à chaque fois à un pouvoir de ki de [[Moine qinggong (moine)|moine qinggong]] différent.
+Un moine qui maîtrise ce pouvoir sélectionne un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] de la liste des pouvoirs de ki du [[Moine qinggong (moine)|moine qinggong]] (L’art de la magie Pathfinder JdR p.65) si son niveau de moine est suffisamment élevé. Un moine peut sélectionner ce pouvoir plusieurs fois. Il s’applique à chaque fois à un pouvoir de ki de [[Moine qinggong (moine)|moine qinggong]] différent. 
 
 {s:Reference|RAFALEELEMENTAIRE}
 #### Rafale élémentaire (Sur)
@@ -244,11 +244,11 @@ Un moine qui maîtrise ce pouvoir peut dépenser 1 point de sa [[Moine unchained
 
 {s:Reference|SAUTSPUISSANTS}
 #### Sauts puissants (Ext)
-Un moine qui maîtrise ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] ajoute son niveau en bonus aux tests d’[[Acrobaties]] pour sauter en hauteur et en longueur. De plus, on considère qu’il a toujours pris de l’élan lorsqu’il effectue des tests d’[[Acrobaties]] pour sauter. En dépensant 1 point de sa réserve de ki par une [[Actions rapides|action rapide]], il gagne un bonus de +20 aux tests d’Acrobaties pour sauter pendant 1 round.
+Un moine qui maîtrise ce [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] ajoute son niveau en bonus aux tests d’[[Acrobaties]] pour sauter en hauteur et en longueur. De plus, on considère qu’il a toujours pris de l’élan lorsqu’il effectue des tests d’[[Acrobaties]] pour sauter. En dépensant 1 point de sa réserve de ki par une [[Actions rapides|action rapide]], il gagne un bonus de +20 aux tests d’Acrobaties pour sauter pendant 1 round. 
 
 {s:Reference|SOUDAINECELERITE}
 #### Soudaine célérité (Sur)
-Un moine qui maîtrise ce pouvoir peut dépenser 1 point de sa [[Moine unchained#RESERVEDEKI|réserve de ki]] par une action rapide pour bénéficier d’un soudain élan de vitesse, ce qui augmente sa vitesse de déplacement de base au sol de 9 mètres pendant une minute.
+Un moine qui maîtrise ce pouvoir peut dépenser 1 point de sa [[Moine unchained#RESERVEDEKI|réserve de ki]] par une action rapide pour bénéficier d’un soudain élan de vitesse, ce qui augmente sa vitesse de déplacement de base au sol de 9 mètres pendant une minute. 
 
 {s:Reference|SOUFFLEDUCOBRA}
 #### Souffle du cobra (Sur)

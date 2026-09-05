@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypealchimiste}{s:um}*Un maître des clones duplique les créatures existantes afin de mieux comprendre comment créer une vie nouvelle.*
+{s:Menuarchétypealchimiste}{s:um}*Un maître des clones duplique les créatures existantes afin de mieux comprendre comment créer une vie nouvelle.* 
 
 Il possède les aptitudes de classe suivantes.
 

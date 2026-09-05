@@ -8,7 +8,7 @@ LastModified: 2026-05-09 13:17
 {s:BDTitre|Carreau asséchant|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 1.730 po ; **Poids** 50 g
 (((Description)))
-Ce *[[Carreaux darbalète (arme)|carreau d'arbalète]] [[tueuse (propriété)|tueur]] d’Extérieurs (eau) +1* à barbillons est gravé de runes symbolisant la soif et le dessèchement. Toute créature vivante frappée par un *carreau asséchant* commence à mourir de soif comme sous l’effet d’un sort de *[[coupe de poussière]]* ([[Vigueur]] [[DD]] 14 annule). Les créatures dotées du sous-type aquatique ou eau subissent un malus de -4 à ce [[jds|jet de sauvegarde]]. En cas d’échec, elles sont [[fiévreux|fiévreuses]] et [[chancelant|chancelantes]] pendant 1 [[round]].
+Ce *[[Carreaux darbalète (arme)|carreau d'arbalète]] [[tueuse (propriété)|tueur]] d’Extérieurs (eau) +1* à barbillons est gravé de runes symbolisant la soif et le dessèchement. Toute créature vivante frappée par un *carreau asséchant* commence à mourir de soif comme sous l’effet d’un sort de *[[coupe de poussière]]* ([[Vigueur]] [[DD]] 14 annule). Les créatures dotées du sous-type aquatique ou eau subissent un malus de -4 à ce [[jds|jet de sauvegarde]]. En cas d’échec, elles sont [[fiévreux|fiévreuses]] et [[chancelant|chancelantes]] pendant 1 [[round]]. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[coupe de poussière]]*, *[[convocation de monstres I]]* ; **Coût** 880 po
 </div>

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 200 po ; **Poids** 3,5 kg
+{s:AE}**Prix** 200 po ; **Poids** 3,5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Les pseudos-dragons vivent principalement dans les forêts tempérées. Ils sont suffisamment intelligents pour que certains assimilent leur commerce à de l’esclavagisme. Une poignée de pseudos-dragons louent leurs services à des aventuriers, généralement à la moitié de leur prix, pour une semaine de travail. Voir les statistiques du [[pseudo-dragon]].

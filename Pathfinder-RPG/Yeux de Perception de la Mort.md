@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:36
 {s:BDTitre|Yeux de perception de la mort|{s:AE}}
 **Aura** [[Nécromancie]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 2.000 po
 (((Description)))
-Ces lentilles de cristal rouge sang s’ajustent parfaitement sur les yeux de leur porteur. Celui-ci bénéficie alors des effets d’un sort de *[[perception de la mort]]* en permanence.
+Ces lentilles de cristal rouge sang s’ajustent parfaitement sur les yeux de leur porteur. Celui-ci bénéficie alors des effets d’un sort de *[[perception de la mort]]* en permanence. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[perception de la mort]]*  ; **Coût** 1.000 po
 </div>

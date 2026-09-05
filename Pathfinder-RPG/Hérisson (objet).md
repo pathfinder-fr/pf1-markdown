@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 1,5 kg
+{s:AE}**Prix** 5 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces mammifères épineux se roulent en boule quand ils se sentent menacés. On les garde parfois comme animaux de compagnie et certains magiciens les apprécient comme [[Familiers]]. Voir les statistiques du [[hérisson]].

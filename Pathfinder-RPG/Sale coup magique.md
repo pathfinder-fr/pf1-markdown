@@ -21,7 +21,7 @@ Categories:
 
 (((Trick Spell (Metamagic)
 
-The vengeful nature of your goddess flows through your magic, turning your enemies against themselves.
+The vengeful nature of your goddess flows through your magic, turning your enemies against themselves.  
 
 Prerequisites: Ability to cast 1st-level spells, chaotic neutral alignment, worshiper of ~~Calistria~~.
 

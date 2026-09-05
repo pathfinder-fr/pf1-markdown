@@ -83,7 +83,7 @@ laiteux au bleu pastel. Les adultes mâles mesurent quelque
 Les femmes sont un peu plus petites et plus légères. Les
 géants des nuages peuvent vivre jusqu’à 400 ans. Ils
 se parent des plus beaux tissus et bijoux sur lesquels
-ils peuvent mettre la main.
+ils peuvent mettre la main. 
 
 Un grand nombre d’entre eux considèrent que l’apparence reflète le statut social. Plus les
 tissus et les bijoux sont raffinés et plus la personne qui les porte

@@ -34,7 +34,7 @@ Au [[niveau]] 3, l’archéologue gagne [[sens des pièges]] +1, comme le pouvoi
 Au niveau 4, l’archéologue gagne un [[Roublard#TALENTDEROUBLARD|talent de roublard]]. Il gagne un nouveau talent tous les quatre niveaux après le 4. En dehors de ceci, ce pouvoir fonctionne comme celui de [[roublard]].
 
 #### Esquive totale (Ext)
-Au niveau 6, l’archéologue gagne [[esquive totale]], comme le pouvoir de roublard du même nom.
+Au niveau 6, l’archéologue gagne [[esquive totale]], comme le pouvoir de roublard du même nom. 
 
 #### Talent de maître roublard
 Au niveau 12 et ensuite tous les quatre niveaux, l’archéologue peut choisir un [[Roublard#TALENTDEMAITREROUBLARD|talent de maître roublard]] au lieu d’un [[Roublard#TALENTDEROUBLARD|talent de roublard]].

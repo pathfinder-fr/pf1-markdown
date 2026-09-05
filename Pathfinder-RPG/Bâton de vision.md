@@ -13,12 +13,12 @@ Categories:
 {s:APG}{s:BDTitre|Bâton de vision|}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 86 666 po ; **Poids** 2,5 kg
 (((Description)))
-Une lentille de cristal translucide surmonte ce bâton en laiton recouvert d'une peau écailleuse. Il permet de lancer les sorts suivants :
-• *[[détection de linvisibilité|détection de l'invisibilité]]* (1 charge)
-• *[[œil du mage]]* (1 charge)
-• *[[œil indiscret]]* (2 charges)
-• *[[scrutation]]* (2 charges)
-• *[[vision lucide]]* (3 charges)
+Une lentille de cristal translucide surmonte ce bâton en laiton recouvert d'une peau écailleuse. Il permet de lancer les sorts suivants :  
+• *[[détection de linvisibilité|détection de l'invisibilité]]* (1 charge)  
+• *[[œil du mage]]* (1 charge)  
+• *[[œil indiscret]]* (2 charges)  
+• *[[scrutation]]* (2 charges)  
+• *[[vision lucide]]* (3 charges)  
 • *[[vision magique]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[détection de linvisibilité|détection de l'invisibilité]]*, *[[œil du mage]]*, *[[œil indiscret]]*, *[[scrutation]]*, *[[vision lucide]]*, *[[vision magique]]* ; **Coût** 45 416 po

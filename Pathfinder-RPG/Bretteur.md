@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Exploits (bretteur)|exploits du bretteur]].***
-***Voir aussi les [[Bravades]].***
+<div class="fright">***Voir aussi les [[Exploits (bretteur)|exploits du bretteur]].***  
+***Voir aussi les [[Bravades]].***  
 {s:PM0|bretteur}**Voir les archétypes du bretteur**&emsp;
 <li ID="bretteur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypebretteur}</li>
 </div>{s:MCA}*De nombreux guerriers mènent leurs combats engoncés dans de lourdes armures, de larges et puissantes armes au poing mais les bretteurs privilégient la vitesse, l’agilité et le panache. Ils entrent et sortent de la mêlée en un éclair, épuisant leurs adversaires avec des feintes et des fentes. Il leur sufft d’un simple geste du poignet pour détourner les puissantes attaques qui leur sont destinées d’un vif mouvement de leur lame. Leurs parades habiles et leurs ripostes dévastatrices élèvent le carnage au rang d’art. Certains sont arrogants et insouciants mais, sous ce masque, ce sont des gens entièrement dévoués à leur art. Les bretteurs appartenant aux races de petite taille aiment tout particulièrement prouver qu’il suffit d’un bon dosage de discipline et d’audace pour contrebalancer la force et la taille et ils n’aiment rien tant que vaincre de grosses brutes pataudes et tyranniques.*

@@ -10,11 +10,11 @@ LastModified: 2024-06-17 14:28
 (((Description)))
 Une chaloupe volante est un petit véhicule parcouru de veines métalliques et semblable à une chaloupe. Un seul occupant peut monter à son bord. Un pilote doté de capacités psychiques peut prendre le contrôle du véhicule. Sans pilote psychique, une chaloupe volante se comporte en tous points comme une [[véhicules aquatiques (véhicules)|chaloupe]].
 
-Un casque de contrôle, que l’on peut adapter au tour de tête d’une créature de taille P ou M, est relié à de longs câbles connectés aux veines de métal qui recouvrent la chaloupe. Dès qu’une créature psychique (c’est-à-dire une créature avec des niveaux dans une [[classes#CLASSESOCCULTES|classe occulte]], le don de [[Sensibilité psychique]] ou la possibilité d’utiliser des pouvoirs magiques psychiques) enfile le casque de contrôle, la chaloupe volante bénéficie des pouvoirs suivants.
-• Elle peut voler à une vitesse maximale de 30 mètres avec une accélération de 9 mètres.
+Un casque de contrôle, que l’on peut adapter au tour de tête d’une créature de taille P ou M, est relié à de longs câbles connectés aux veines de métal qui recouvrent la chaloupe. Dès qu’une créature psychique (c’est-à-dire une créature avec des niveaux dans une [[classes#CLASSESOCCULTES|classe occulte]], le don de [[Sensibilité psychique]] ou la possibilité d’utiliser des pouvoirs magiques psychiques) enfile le casque de contrôle, la chaloupe volante bénéficie des pouvoirs suivants.  
+• Elle peut voler à une vitesse maximale de 30 mètres avec une accélération de 9 mètres.  
 • Elle bénéficie d’une [[guérison accélérée]] 2 quand son nombre de points de vie est réduit à la moitié de son total initial. Les dégâts subis avant cette limite doivent être réparés normalement.
 
-En plus des pouvoirs conférés à la chaloupe volante quand elle est pilotée par une créature psychique, le pilote acquiert les pouvoirs supplémentaires suivants.
+En plus des pouvoirs conférés à la chaloupe volante quand elle est pilotée par une créature psychique, le pilote acquiert les pouvoirs supplémentaires suivants.  
 • Une fois par jour, le pilote peut effectuer une [[types dactions#COMPLEXE|action complexe]] pour voyager avec la chaloupe volante entre le plan Matériel et le plan Astral. Ce pouvoir fonctionne par ailleurs comme un *[[changement de plan]]*.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[changement de plan]]*, *[[vol supérieur]]* ; **Coût** 40 000 po

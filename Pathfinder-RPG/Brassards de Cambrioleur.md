@@ -8,7 +8,7 @@ LastModified: 2024-05-30 17:38
 {s:BDTitre|Brassards de cambrioleur|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 1 050 po ; **Poids** 0,5 kg
 (((Description)))
-Ces brassards ordinaires en cuir peuvent, sur commande, se transformer en une série d’[[Outils de cambrioleur (objet)|outils de cambrioleur de qualité supérieure]]. Un autre mot de commande permet de redonner aux brassards leur forme d’origine. Une fois par jour, en utilisant les outils ou en portant les brassards, le porteur peut faire 10 à un unique test de [[Sabotage]], même s’il est menacé ou distrait.
+Ces brassards ordinaires en cuir peuvent, sur commande, se transformer en une série d’[[Outils de cambrioleur (objet)|outils de cambrioleur de qualité supérieure]]. Un autre mot de commande permet de redonner aux brassards leur forme d’origine. Une fois par jour, en utilisant les outils ou en portant les brassards, le porteur peut faire 10 à un unique test de [[Sabotage]], même s’il est menacé ou distrait. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Réduction dobjet|réduction d’objet]]* ; **Coût** 550 po
 </div>

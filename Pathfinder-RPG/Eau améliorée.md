@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Cayden Cailéan|%2fPCUP%2fReligion-PNG%2fCayden%20Cailean.png}{s:ISG}{s:GeM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** une pinte d’eau/[[niveau]]
-**Durée** instantanée
+{s:divin|Cayden Cailéan|%2fPCUP%2fReligion-PNG%2fCayden%20Cailean.png}{s:ISG}{s:GeM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** une pinte d’eau/[[niveau]]  
+**Durée** instantanée  
 **Jet de sauvegarde** Vigueur, annule (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Ce sort transforme l’eau en alcool, en général de la bière, de l’hydromel ou du vin. L'alcool est de qualité moyenne mais reste buvable. Le sort sert également à neutraliser les poisons, la maladie, les minéraux et les autres toxines de l’eau qu’il transforme. Plus l’eau est contaminée, plus la bière sera sombre et plus le vin aura de corps. La teneur en alcool ne change pas en fonction de la présence ou de l'absence de contaminants.

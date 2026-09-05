@@ -43,12 +43,12 @@ humide enroulée autour de squelettes humains.''
 La moisissure jaune est une plante hideuse qui pousse
 dans les cimetières hantés, sur les champs de bataille
 lugubres et dans les endroits où la mort imprègne l’air et
-le sol.
+le sol. 
 
 La méthode de reproduction des moisissures jaunes
 est unique et effrayante. Elles tuent les créatures vivantes,
 les infectent à l’aide de leurs graines et de leur pollen puis les
-animent sous la forme de zombis.
+animent sous la forme de zombis. 
 
 Ces derniers protègent la plante
 pendant plusieurs jours puis, lorsque de nouveaux gardiens sont

@@ -65,111 +65,111 @@ LastModified: 2021-10-24 20:05
 ### Description du marché noir
 {s:cs}{s:AA}{s:Reference|Aconit}
 #### Aconit
-**Prix** 5 pa ; **Poids** —
+**Prix** 5 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 La racine de cette grande plante aux fleurs bleues est toxique (voir le [[Poisons#Aconit|poison]] du même nom), mais les herboristes l'utilisent à faible dose pour réduire la douleur et réguler le rythme cardiaque. L’on dit que cela peut aider une victime de [[Lycanthrope, archétype|lycanthropie]] à se débarrasser de la malédiction.
 
 
 {s:cs}{s:AA}{s:Reference|Ail}
 #### Ail
-**Prix** 1 pa ; **Poids** —
+**Prix** 1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ces clous de girofle blancs âcres servent de nourriture et de médicament et jouent un rôle dans de nombreux rituels de purification traditionnels. Il est bien établi que les vampires ne peuvent supporter la présence d'ail.
 
 
 {s:cs}{s:AA}{s:Reference|Belladone}
 #### Belladone
-**Prix** 2 po ; **Poids** —
+**Prix** 2 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Également connue sous le nom de ténébreuse mortelle, cette plante, avec ses feuilles pourpres verdâtres distinctives et ses baies noires ternes, a servi de cosmétique et de médicament pendant aussi longtemps qu’on s’en souvienne malgré sa toxicité (voir le [[Poisons#Belladone|poison]] du même nom). Elle peut également provoquer des hallucinations saisissantes mais généralement désagréables, en particulier celles liées au vol. Les herboristes et autres personnes formées pour l'utiliser en toute sécurité pensent qu'elle a de nombreuses applications, y compris le soulagement de la douleur.
 
 
 {s:cs}{s:AA}{s:Reference|Blanchenuit}
 #### Blanchenuit
-**Prix** 75 po ; **Poids** —
+**Prix** 75 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Cette plaquette traitée se dissout en une pâte crayeuse lorsqu'elle est placée sous la langue et donne ensuite à l'utilisateur un soudain sursaut d'énergie. Il élimine les effets de la [[fatigué|fatigue]] pendant les 8 heures suivantes ; lorsque l'effet de la drogue prend fin, l'utilisateur est [[épuisé]]. La blanchenuit rend ses consommateurs nerveux et incapables de se concentrer ; ils subissent un malus de -2 à tous les tests de [[Compétences|compétence]] jusqu'à ce que ses effets se dissipent.
 
 
 {s:cs}{s:AA}{s:Reference|Clairécoute}
 #### Clairécoute
-**Prix** 15 po ; **Poids** —
+**Prix** 15 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ce gel vert est versé dans l'oreille de l'utilisateur et prend effet 2 heures plus tard, améliorant les sens et la mémoire mais augmentant l'irritabilité. Pendant 6 heures, l'utilisateur bénéficie d'un bonus alchimique de +2 aux tests de [[Perception]] et de [[Connaissances]] et subit un malus de -2 à tous les tests basés sur le [[Charisme]].
 
 
 {s:cs}{s:AA}{s:Reference|Écorchefeuille}
 #### Écorchefeuille
-**Prix** 20 po ; **Poids** —
+**Prix** 20 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ces fines feuilles de couleur rouille produisent une fumée légèrement hallucinogène qui sert également de puissant sédatif (voir la [[Drogues#ECORCHEFEUILLE|drogue]] du même nom). Les utilisateurs sont immunisés contre la douleur pendant 4 heures après avoir fumé de l’écorchefeuille, mais pendant ce temps, ils subissent un malus de -5 aux [[jds|jets de sauvegarde]] contre les effets altérant l'esprit.
 
 
 {s:cs}{s:AA}{s:Reference|Esclave}
 #### Esclave
-**Prix** 50 po (majordome), 75 po (standard), 100 po (halfelin, anguille), 100 po (labeur éprouvant), 500 po (spécialisé) ; **Poids** 65 kg (majordome), 87,5 kg (standard), 19,5 kg (halfelin, anguille), 100 kg (labeur éprouvant), 80 kg (spécialisé)
+**Prix** 50 po (majordome), 75 po (standard), 100 po (halfelin, anguille), 100 po (labeur éprouvant), 500 po (spécialisé) ; **Poids** 65 kg (majordome), 87,5 kg (standard), 19,5 kg (halfelin, anguille), 100 kg (labeur éprouvant), 80 kg (spécialisé)  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Les créatures conscientes vendues pour effectuer une multitude de tâches appartiennent toutes à la catégorie des esclaves. La plupart des esclaves sont tenus de faire des travaux subalternes, mais ils effectuent parfois des tâches spécialisées telles que lancer des sorts ou enseigner. Les esclaves varient en qualité ; le prix peut être deux fois moins élevé pour les esclaves âgés ou infirmes, ou plusieurs fois plus élevé pour des spécimens sains et séduisants. *Le nom “anguille” est donné aux esclaves halfelins de l’Empire diabolique.*
 
 
 {s:cs}{s:AA}{s:Reference|Gui}
 #### Gui
-**Prix** — ; **Poids** —
+**Prix** — ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 {s:Desambi|Cet objet peut aussi être [[Houx et gui (objet)|couplé avec le houx]].}Cette plante parasite de couleur dorée pousse sur de nombreuses sortes d'arbres. Les druides récoltent le gui avec des outils spécialement préparés et pendant des périodes sacrées de l'année.
 
 
 {s:cs}{s:AA}{s:Reference|Houx}
 #### Houx
-**Prix** — ; **Poids** —
+**Prix** — ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 {s:Desambi|Cet objet peut aussi être [[Houx et gui (objet)|couplé avec le gui]].}Les baies rouge vif du houx ont de nombreuses utilisations comme décorations et objets rituels. Les druides récoltent les baies de houx avec des outils spécialement préparés et pendant des périodes sacrées de l'année.
 
 
 {s:cs}{s:AA}{s:Reference|Pesh}
 #### Pesh
-**Prix** 20 po ; **Poids** —
+**Prix** 20 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Le lait de ce cactus d'un vert éclatant, lorsqu'il est mélangé avec des résines et d'autres ingrédients, se fige en morceaux noirs collants avec un goût extrêmement acide. Bien que le pesh se décline en plusieurs variétés différentes (voir la [[Drogues#PESH|drogue]] du même nom), le pesh raffiné est à la fois le type le plus puissant et le plus cher. Prendre du pesh raffiné confère à une personne 15 [[points de vie temporaires]] pendant 1 heure, un bonus de moral de +2 aux [[jds|jets de sauvegarde]] contre les effets de peur pendant 1 jour et un malus de -4 en [[Dextérité]] et en [[Sagesse]] pendant 1 jour. Le pesh est addictif ([[Vigueur]] [[DD]] 10 pour résister), et les utilisateurs à long terme subissent des affaiblissements en Dextérité et en Sagesse.
 
 
 {s:cs}{s:AA}{s:Reference|Tabac}
 #### Tabac
-**Prix** 1 po ; **Poids** 1 kg
+**Prix** 1 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ces feuilles écrasées et déchiquetées varient en couleur du rouge poivré au noir ; les utilisateurs peuvent soit les fumer, soit les mâcher. Les consommateurs de tabac éprouvent un certain calme et sont plus facilement capables de se débarrasser de la sensation de faim. Le tabac crée une [[Drogues#DÉPENDANCE|dépendance]] ([[Vigueur]] [[DD]] 10 pour résister) et les utilisateurs à long terme subissent des affaiblissements en [[Constitution]].
 
 
 {s:cs}{s:AA}{s:Reference|Tabac à priser du bachelier}
 #### Tabac à priser du bachelier
-**Prix** 1 po ; **Poids** —
+**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Si elle est inhalée par le nez, cette poudre dorée à l'odeur de suie rend les mâles humanoïdes temporairement stériles sans affecter leurs performances. Une dose dure généralement 1 à 3 jours. Les utilisateurs à long terme de tabac à priser ont tendance à développer une légère teinte dorée, mais toujours perceptible, sur leurs dents et leurs ongles.
 
 
 {s:MCA}{s:Reference|Tabatière}
 #### Tabatière
-**Prix** 5 po (en étain ou en bois), 25 po (en os ou en écaille de tortue), 300 po (en ivoire ou en métal précieux) ; **Poids** — (en étain ou en bois), — (en os ou en écaille de tortue), — (en ivoire ou en métal précieux)
+**Prix** 5 po (en étain ou en bois), 25 po (en os ou en écaille de tortue), 300 po (en ivoire ou en métal précieux) ; **Poids** — (en étain ou en bois), — (en os ou en écaille de tortue), — (en ivoire ou en métal précieux)  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Le couvercle articulé de cette toute petite boîte ornée forme un sceau étanche quand il est fermé. La boîte peut contenir diverses prises de tabac, des poudres, du tabac et d'autres substances similaires. Elle peut être faite dans n'importe quel matériau, du bois à l'ivoire en passant par les métaux précieux enchâssés de gemmes.
 
 
 {s:cs}{s:AA}{s:Reference|Thé nocturne}
 #### Thé nocturne
-**Prix** 1 pa ; **Poids** —
+**Prix** 1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ce thé mousseux fabriqué à partir des feuilles triangulaires et blanches du théier nocturne rend une femelle humanoïde stérile s’il est bu tous les jours. À fortes doses, il peut être en mesure de mettre fin à une grossesse.

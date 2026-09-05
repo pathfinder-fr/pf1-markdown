@@ -42,7 +42,7 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **-4120AR** – Fondation de l’[[Empire Jistka]].
 
-**-3923AR** – Le [[Gouffre de Gormuz]] s’ouvre en [[Casmaron]] Central, déversant pour la première fois l’engeance de Rovagug sur la surface de Golarion.
+**-3923AR** – Le [[Gouffre de Gormuz]] s’ouvre en [[Casmaron]] Central, déversant pour la première fois l’engeance de Rovagug sur la surface de Golarion. 
 
 **-3708AR** – Les [[Orques]] assiègent et prennent la Citadelle Céleste de Koldukar, désormais rebaptisée [[Urgir]] ou Citadelle de Belkzen.
 
@@ -133,7 +133,7 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **2089AR** – La [[Armées d'Exploration du Taldor|Sixième Armée d’Exploration du Taldor]] abandonne un puissant engin de siège magique connu sous le nom de *Briseur de monde* aux mains du [[Roi Gorille]] au cours d’une tentative catastrophique de conquête de l’[[Mwangi|Etendue Mwangi]].
 
-**2133AR** – La [[Armées d'Exploration du Taldor|Septième Armée d’Exploration du Taldor]] pacifie les Isgeris, une coalition de tribus [[Kellides|Kellids]] vivant entre le [[Ménador]] et les [[Montagnes des Cinq Rois]]. Elle crée également le protectorat d’[[Isger]] afin de permettre le commerce avec [[Druma]] et l’Avistan Intérieur.
+**2133AR** – La [[Armées d'Exploration du Taldor|Septième Armée d’Exploration du Taldor]] pacifie les Isgeris, une coalition de tribus [[Kellides|Kellids]] vivant entre le [[Ménador]] et les [[Montagnes des Cinq Rois]]. Elle crée également le protectorat d’[[Isger]] afin de permettre le commerce avec [[Druma]] et l’Avistan Intérieur.  
 
 **2187AR** – L’adoration d’[[Irori]] se répend sur le continent de [[Tian Xia]].
 
@@ -145,9 +145,9 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **2361AR** – Des voyageurs [[Varisien|Varisiens]] s’installent au nord du Lac Encarthan, donnant naissance à la contrée d’[[Ustalav]].
 
-**2497AR** – Le seigneur-démon Arrache-Arbres tente de pervertir les Forêts de [[Kyonin]] pour y créer une porte vers les [[Abysses]].
+**2497AR** – Le seigneur-démon Arrache-Arbres tente de pervertir les Forêts de [[Kyonin]] pour y créer une porte vers les [[Abysses]]. 
 
-**2498AR** –  La Guerre du Serment éclate au nord-ouest du Garund, les clergés de [[Néthys]], [[Norgorber]] et [[Sarenrae]] s’affrontent pour devenir la religion dominante.
+**2498AR** –  La Guerre du Serment éclate au nord-ouest du Garund, les clergés de [[Néthys]], [[Norgorber]] et [[Sarenrae]] s’affrontent pour devenir la religion dominante.  
 
 **2555AR** – La cité d’[[Azir]] exile les religieux, brûle leurs temples et décrète les Lois des Hommes.
 
@@ -171,15 +171,15 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **3129AR** – Des assassins tuent le Grand Prince Jalrune du [[Taldor]].
 
-**3203AR** – [[Tar-Baphon]] ressuscite et se faire appeler le Tyran Murmurant. Le roi liche unit les orques de [[Belkzen]] sous une même bannière et terrorise l’Avistan Central.
+**3203AR** – [[Tar-Baphon]] ressuscite et se faire appeler le Tyran Murmurant. Le roi liche unit les orques de [[Belkzen]] sous une même bannière et terrorise l’Avistan Central. 
 
 **3250AR** – Fondation de la province de [[Katapesh]].
 
 **3313AR** – La Reine Sorcière [[Baba Yaga]] conquiert l’est des [[Terres des Rois des Linnorms]], donnant naissance à la contrée d’[[Irrisen]].
 
-**3332AR** – Les célèbres ingénieurs nains de [[Jernashall]] créent la première chute de magma sécurisée au centre de leur ville dans le [[Parties.P174 Pic de Droskar|Pic de Droskar]].
+**3332AR** – Les célèbres ingénieurs nains de [[Jernashall]] créent la première chute de magma sécurisée au centre de leur ville dans le [[Parties.P174 Pic de Droskar|Pic de Droskar]]. 
 
-**3596AR** – [[Karamoss]] le Mage Machine arrive à la conclusion que la vie organique est inférieure à l’être mécanique.
+**3596AR** – [[Karamoss]] le Mage Machine arrive à la conclusion que la vie organique est inférieure à l’être mécanique. 
 
 **3596AR** – [[Karamoss]] pénètre dans le [[Mont d’Argent]] en [[Numérie]]. Il y disparait plus de trente ans pour finaliser ses recherches.
 
@@ -193,7 +193,7 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **3801AR** – La [[Croisade Brillante]] permet de sécuriser l'une des côtes du [[Encarthan|Lac Encarthan]], près d’[[Ustalav]].
 
-**3818AR** – Les [[Chevalier d'Ozem|Chevaliers d’Ozem]] invoquent [[Arazni]], la Héraut d’Aroden.
+**3818AR** – Les [[Chevalier d'Ozem|Chevaliers d’Ozem]] invoquent [[Arazni]], la Héraut d’Aroden. 
 
 **3823AR** – [[Tar-Baphon]] humilie et tue [[Arazni]].
 
@@ -217,7 +217,7 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **4113AR** – Avec l’assistance de l’armée chélaxienne, Karas Novotnian *Le Faucon* pacifie la [[Vallée de Sombrelune]] et en reprend le contrôle au nom de l’[[Chéliax|Empire du Chéliax]]. En remerciement de ses efforts il fut nommé Baron de Sombrelune.
 
-**4137AR** – Sous la bannière du prince fou Haliad I, le [[Chéliax]] assiège sans succès à son tour la ville d’[[Absalom]].
+**4137AR** – Sous la bannière du prince fou Haliad I, le [[Chéliax]] assiège sans succès à son tour la ville d’[[Absalom]]. 
 
 **4138AR** – Le [[Chéliax]] établit la colonie de [[Sargava]] sur les côtes ouest du Garund.
 
@@ -229,7 +229,7 @@ Lorsque les [[Azlantes]] leurs parurent trop fiers de leurs agissements, leurs v
 
 **4300AR** – Le chef de guerre efrit Jhavhul est emprisonné sur les flancs de la Montagne Pâle par les Templiers des Cinq Vents à la fin de la Guerre des Génies.
 
-**4305AR** – Le roi Haliad III du Chéliax lance les Guerres d’Expansion pour agrandir les territoires de son empire au nord. Il revendique plusieurs terres de [[Varisie]] et de [[Molthune]]. Ce conflit perdura pendant plus d’un siècle, couvrant le règne de cinq rois chelaxiens et deviendra bien vite connu sous le nom de Guerre Eternelle.
+**4305AR** – Le roi Haliad III du Chéliax lance les Guerres d’Expansion pour agrandir les territoires de son empire au nord. Il revendique plusieurs terres de [[Varisie]] et de [[Molthune]]. Ce conflit perdura pendant plus d’un siècle, couvrant le règne de cinq rois chelaxiens et deviendra bien vite connu sous le nom de Guerre Eternelle. 
 
 **4307AR** – La [[Société des Eclaireurs]] est fondée à [[Absalom]].
 

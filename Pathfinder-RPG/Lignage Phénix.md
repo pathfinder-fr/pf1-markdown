@@ -68,28 +68,28 @@ Categories:
 <b>Compétence de classe.</b> <a class="pagelink" href="Pathfinder-RPG.Connaissances.ashx" title="Connaissances">Connaissances</a> (Mystères).
   
   
-<b>Sorts supplémentaires.</b>
-<i><a class="pagelink" href="Pathfinder-RPG.Couleurs%20dansantes.ashx" title="Couleurs dansantes">Couleurs dansantes</a></i> (niveau 3),
-<i><a class="pagelink" href="Pathfinder-RPG.D%c3%a9tection%20de%20linvisibilit%c3%a9.ashx" title="Détéction de l'invisibilité">Détéction de l'invisibilité</a></i> (niveau 5),
-<i><a class="pagelink" href="Pathfinder-RPG.Cercle%20magique%20contre%20le%20Mal.ashx" title="Cercle magique contre le mal">Cercle magique contre le mal</a></i> (niveau 7),
-<i><a class="pagelink" href="Pathfinder-RPG.Mur%20de%20feu.ashx" title="Mur de feu">Mur de feu</a></i> (niveau 9),
-<i><a class="pagelink" href="Pathfinder-RPG.Annulation%20denchantement.ashx" title="Annulation d'enchantement">Annulation d'enchantement</a></i> (niveau 11),
-<i><a class="pagelink" href="Pathfinder-RPG.Voie%20des%20vents.ashx" title="Voie des vents">Voie des vents</a></i> (niveau 13),
-<i><a class="pagelink" href="Pathfinder-RPG.Brandon.ashx" title="Brandon">Brandon</a></i> (niveau 15),
-<i><a class="pagelink" href="Pathfinder-RPG.Mur%20prismatique.ashx" title="Mur prismatique">Mur prismatique</a></i> (niveau 17),
+<b>Sorts supplémentaires.</b> 
+<i><a class="pagelink" href="Pathfinder-RPG.Couleurs%20dansantes.ashx" title="Couleurs dansantes">Couleurs dansantes</a></i> (niveau 3), 
+<i><a class="pagelink" href="Pathfinder-RPG.D%c3%a9tection%20de%20linvisibilit%c3%a9.ashx" title="Détéction de l'invisibilité">Détéction de l'invisibilité</a></i> (niveau 5), 
+<i><a class="pagelink" href="Pathfinder-RPG.Cercle%20magique%20contre%20le%20Mal.ashx" title="Cercle magique contre le mal">Cercle magique contre le mal</a></i> (niveau 7), 
+<i><a class="pagelink" href="Pathfinder-RPG.Mur%20de%20feu.ashx" title="Mur de feu">Mur de feu</a></i> (niveau 9), 
+<i><a class="pagelink" href="Pathfinder-RPG.Annulation%20denchantement.ashx" title="Annulation d'enchantement">Annulation d'enchantement</a></i> (niveau 11), 
+<i><a class="pagelink" href="Pathfinder-RPG.Voie%20des%20vents.ashx" title="Voie des vents">Voie des vents</a></i> (niveau 13), 
+<i><a class="pagelink" href="Pathfinder-RPG.Brandon.ashx" title="Brandon">Brandon</a></i> (niveau 15), 
+<i><a class="pagelink" href="Pathfinder-RPG.Mur%20prismatique.ashx" title="Mur prismatique">Mur prismatique</a></i> (niveau 17), 
 <i><a class="pagelink" href="Pathfinder-RPG.Corps%20enflamm%c3%a9.ashx" title="Corps enflammé">Corps enflammé</a></i> (niveau 19)  
   
-<b>Dons supplémentaires.</b> <a class="pagelink" href="Pathfinder-RPG.Esquive.ashx" title="Esquive">Esquive</a>,
-<a class="pagelink" href="Pathfinder-RPG.%c3%89l%c3%a9ment%20renforc%c3%a9.ashx" title="Élément renforcé(feu)">Élément renforcé(feu)</a>,
-<a class="pagelink" href="Pathfinder-RPG.Gu%c3%a9rison%20rapide.ashx" title="Guérison rapide">Guérison rapide</a>,
-<a class="pagelink" href="Pathfinder-RPG.Science%20de%20linitiative.ashx" title="Science de l'initiative">Science de l’initiative</a>,
-<a class="pagelink" href="Pathfinder-RPG.Volont%c3%a9%20de%20fer.ashx" title="Volonté de fer">Volonté de fer</a>,
-<a class="pagelink" href="Pathfinder-RPG.Rapide.ashx" title="Rapide">Rapide</a>,
+<b>Dons supplémentaires.</b> <a class="pagelink" href="Pathfinder-RPG.Esquive.ashx" title="Esquive">Esquive</a>, 
+<a class="pagelink" href="Pathfinder-RPG.%c3%89l%c3%a9ment%20renforc%c3%a9.ashx" title="Élément renforcé(feu)">Élément renforcé(feu)</a>, 
+<a class="pagelink" href="Pathfinder-RPG.Gu%c3%a9rison%20rapide.ashx" title="Guérison rapide">Guérison rapide</a>, 
+<a class="pagelink" href="Pathfinder-RPG.Science%20de%20linitiative.ashx" title="Science de l'initiative">Science de l’initiative</a>, 
+<a class="pagelink" href="Pathfinder-RPG.Volont%c3%a9%20de%20fer.ashx" title="Volonté de fer">Volonté de fer</a>, 
+<a class="pagelink" href="Pathfinder-RPG.Rapide.ashx" title="Rapide">Rapide</a>, 
 <a class="pagelink" href="Pathfinder-RPG.Incantation%20rapide.ashx" title="Incantation rapide">Incantation rapide</a>,
 <a class="pagelink" href="Pathfinder-RPG.Talent.ashx" title="Talent">Talent</a> (<a class="pagelink" href="Pathfinder-RPG.Connaissances.ashx" title="Connaissances">Connaissances</a> Mystères)
   
   
-<b>Arcanes de lignage.</b> Lorsque l’<a class="pagelink" href="Pathfinder-RPG.ensorceleur.ashx" title="L'ensorceleur">ensorceleur</a> lance un sort infligeant des dégâts de <a class="pagelink" href="Pathfinder-RPG.registre.ashx" title="Registre">feu</a>, vous pouvez à la place soigner tes cibles. Le sort n’inflige alors aucun dégât, et les créatures vivantes affectées récupèrent un nombre de points de vie égal à la moitié des dégâts de feu que le sort aurait normalement infligés.
+<b>Arcanes de lignage.</b> Lorsque l’<a class="pagelink" href="Pathfinder-RPG.ensorceleur.ashx" title="L'ensorceleur">ensorceleur</a> lance un sort infligeant des dégâts de <a class="pagelink" href="Pathfinder-RPG.registre.ashx" title="Registre">feu</a>, vous pouvez à la place soigner tes cibles. Le sort n’inflige alors aucun dégât, et les créatures vivantes affectées récupèrent un nombre de points de vie égal à la moitié des dégâts de feu que le sort aurait normalement infligés.   
   
 <h2 class="separator"> Pouvoirs de lignage <a class="headeranchor" id="Pouvoirs_de_lignage_0" href="#Pouvoirs_de_lignage_0" title="Lien vers cette section">¶</a></h2>
 <i>Le phénix est une créature élémentaire du ciel et du feu primordial, et le sang qui coule en vous résonne de cette même puissance.</i>  

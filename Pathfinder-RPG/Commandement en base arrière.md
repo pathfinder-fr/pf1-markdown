@@ -12,6 +12,6 @@ Categories:
 
 **Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Intimidation]]
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Intimidation]] 
 
 **Avantage.** Lors d’un [[round]] pendant lequel il bénéficie d’un [[abri]] ou d’un [[camouflage]] contre au moins un adversaire et s’il n’est menacé par aucun ennemi, le personnage peut aboyer des ordres et des encouragements à ses alliés par une [[action simple]]. Le cas échéant, il octroie à tous ses alliés situés à 9 mètres ou moins un bonus de +1 à tous leurs [[valeurs de combat#DEGATS|jets de dégâts]] effectués avec des armes pendant 1 round.

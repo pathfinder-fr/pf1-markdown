@@ -37,7 +37,7 @@ L’esprit animal du chaman est entouré d’un nimbe de feu qui dégage autant 
 ### Pouvoir d’esprit
 Un chaman qui choisit l’esprit des flammes comme esprit ou comme esprit errant dispose du pouvoir suivant.
 
-**Toucher de flammes (Sur).** Par une [[action simple]], le chaman peut effectuer une attaque de contact qui inflige 1d6 points de dégâts de feu + 1 point par tranche de deux niveaux de chaman. Chaque jour, le chaman peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Charisme]]. Au niveau 11, toutes les armes qu’il manie sont considérées comme de *[[feu (propriété)|feu]]*.
+**Toucher de flammes (Sur).** Par une [[action simple]], le chaman peut effectuer une attaque de contact qui inflige 1d6 points de dégâts de feu + 1 point par tranche de deux niveaux de chaman. Chaque jour, le chaman peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Charisme]]. Au niveau 11, toutes les armes qu’il manie sont considérées comme de *[[feu (propriété)|feu]]*. 
 
 ### Pouvoir d’esprit supérieur
 Un chaman qui choisit l’esprit des flammes comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version supérieure de l’esprit.

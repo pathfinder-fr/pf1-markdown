@@ -10,11 +10,11 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:cm}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[sorcière|Sor]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (0,5 l d’eau)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux)
-**Cible** 0,15 mètre cube de terre ou de boue
+{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:cm}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[sorcière|Sor]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (0,5 l d’eau)  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux)  
+**Cible** 0,15 mètre cube de terre ou de boue  
 **Durée** 1 heure/niveau (T), voir texte
 
 Le personnage crée un sbire de taille P fait de boue. Cette créature obéit à tous ses ordres. Le *copain de boue* a : [[CA]] 12, 10 pv, [[For]] 5 et [[VD]] 9 m. Il peut accomplir les mêmes tâches qu’un *[[serviteur invisible]]* et celles que sa [[Force]] lui autorise (il peut soulever jusqu’à 25 kilos), mais au lieu de marcher sur l’eau, il a une vitesse de nage de 9 mètres.

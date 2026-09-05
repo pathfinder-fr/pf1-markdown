@@ -7,9 +7,9 @@ Categories:
 - Varisie
 ---
 
-{s:Organisation|Les Fils de Rovagug|Sons of Rovagug|-|Domination des gladiateurs|Enclos de Chair à [[Urglin]]|-|Ogrekin|Militaire|Locale ([[Urglin]])|-}Les Fils de Rovagug sont un clan d'ogrekin particulièrement grands à la réputation de férocité non usurpée. Ses membres se sont nommés ainsi en l'honneur du dieu [[Rovagug]] et combattent dans les infâmes Enclos de Chair situés à [[Urglin]], dans l'est de la [[Varisie]].
+{s:Organisation|Les Fils de Rovagug|Sons of Rovagug|-|Domination des gladiateurs|Enclos de Chair à [[Urglin]]|-|Ogrekin|Militaire|Locale ([[Urglin]])|-}Les Fils de Rovagug sont un clan d'ogrekin particulièrement grands à la réputation de férocité non usurpée. Ses membres se sont nommés ainsi en l'honneur du dieu [[Rovagug]] et combattent dans les infâmes Enclos de Chair situés à [[Urglin]], dans l'est de la [[Varisie]]. 
 
-Contrairement à ce que pourrait indiquer leur nom, les sept membres des Fils de Rovagug sont des ogrekin femelles qui se sont mutilées pour ne pas être reconnues comme telles.
+Contrairement à ce que pourrait indiquer leur nom, les sept membres des Fils de Rovagug sont des ogrekin femelles qui se sont mutilées pour ne pas être reconnues comme telles. 
 
 Les Fils de Rovagug sont une équipe de gladiateurs très craints, même par rapport aux standards des combats brutaux qui ont lieux dans les Enclos de Chair d'[[Urglin]]. Ils assassinent joyeusement tous ceux qui leurs font face.
 

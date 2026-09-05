@@ -21,7 +21,7 @@ La personne appliquant une huile est considérée étant le lanceur de sort, la 
 
 **Activation.** Boire une potion ou enduire un objet d’huile ne nécessite aucune compétence particulière. L’utilisateur a simplement à ôter le bouchon et à avaler ou répandre le contenu de la fiole. Les règles suivantes s’appliquent à l’utilisation des potions et des huiles.
 
-Boire une potion ou enduire un objet d’huile est une [[action simple]]. Le liquide fait effet immédiatement. Utiliser une potion ou une huile expose à une [[attaque dopportunité|attaque d’opportunité]]. Un adversaire peut lancer son [[attaque dopportunité|attaque d’opportunité]] en ciblant la fiole au lieu du personnage. Une attaque réussie détruit le conteneur, empêchant le personnage de boire la fiole ou d’appliquer l’huile.
+Boire une potion ou enduire un objet d’huile est une [[action simple]]. Le liquide fait effet immédiatement. Utiliser une potion ou une huile expose à une [[attaque dopportunité|attaque d’opportunité]]. Un adversaire peut lancer son [[attaque dopportunité|attaque d’opportunité]] en ciblant la fiole au lieu du personnage. Une attaque réussie détruit le conteneur, empêchant le personnage de boire la fiole ou d’appliquer l’huile. 
 
 L’utilisateur doit pouvoir boire la potion ou appliquer l’huile. A cause de cela, les créatures [[intangible|intangibles]] ne peuvent les utiliser.
 
@@ -175,7 +175,7 @@ rôdeur</td>
 
 {s:Reference|CUISINEMYSTIQUE}
 ### Cuisine mystique
-{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}<u>***Contenu issu d'un supplément 3.5***</u>
+{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}<u>***Contenu issu d'un supplément 3.5***</u>  
 Les elfes de Golarion ne voient pas seulement la magie comme un outil pour guerroyer ou développer une industrie, mais aussi comme un moyen d’embellir chaque moment de leur vie par de merveilleux instants de ravissement. Même une activité telle que la cuisine, que les autres races considèrent parfois comme simple, voire triviale, peut permettre d’atteindre des sommets inégalés de perfection si elle est préparée par un individu formé selon les arts mystiques. Les quelques non-elfes qui ont eu la chance de partager un plat préparé par un elfe doué à la fois dans les arts magiques et culinaires trouvent l’expérience à la fois transcendante et salutaire.
 
 Un elfe, doté de 5 rangs au moins en [[Profession]] (cuisinier) et du don [[Préparation de potions]], découvre rapidement les secrets de la nourriture imprégnée d’énergie magique. Au lieu de simplement satisfaire les sens, ces plats offrent à ceux qui les dégustent des pouvoirs spéciaux. Puisque la plupart des elfes dotés de ce talent vendent ou font don de leur nourriture magique, les membres des autres races peuvent parfois avoir la chance de déguster ces plats inhabituels. Les non-elfes peuvent combiner plats et potions, bien entendu, mais leurs plats semblent souvent primitifs d’après les critères elfes. Il faut une journée entière pour cuisiner un plat mystique. Le plat exige tous les ingrédients et tout le matériel de cuisine (comparable à celui pour équiper et entretenir un laboratoire d’alchimie) normalement nécessaires, ainsi que les conditions à satisfaire en matière de création d’objets magiques (telles que le lancer de sorts prérequis, la dépense d’or et d’ingrédients magiques, etc.) La création de plats mystiques suit les règles habituelles qui régissent la création d’objets magiques.

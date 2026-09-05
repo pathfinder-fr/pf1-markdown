@@ -19,6 +19,6 @@ Au niveau 3, le transmutateur à fourrure brune apprend à maîtriser sa puissan
 Au niveau 9, le transmutateur à fourrure brune peut cibler autrui avec ses sorts de transmutation. Il peut dépenser 1 point de son réservoir arcanique pour modifier un sort de transmutation dont la portée est personnelle afin qu’il puisse être lancé avec une portée « contact ». Le sort affecté échoue automatiquement s’il est lancé sur des créatures non-consentantes. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 9.
 
 #### Suprématie des transmutations (Sur)
-Au niveau 20, le transmutateur à fourrure brune maitrise parfaitement la puissance de la transmutation. Quand il lance un sort de transmutation, on considère que ce sort est affecté par le don [[Extension de durée]] sans modifier le temps d’incantation ou l’emplacement utilisé (il ne peut pas modifier la durée du sort à nouveau avec ce don).
+Au niveau 20, le transmutateur à fourrure brune maitrise parfaitement la puissance de la transmutation. Quand il lance un sort de transmutation, on considère que ce sort est affecté par le don [[Extension de durée]] sans modifier le temps d’incantation ou l’emplacement utilisé (il ne peut pas modifier la durée du sort à nouveau avec ce don). 
 
 Quand il utilise son aptitude de puissante altération, le bonus augmente de +4 au lieu de +2. Son aptitude de transfert de transmutation peut désormais cibler une créature consentante située à 9 mètres ou moins. Cette aptitude remplace suprématie magique.

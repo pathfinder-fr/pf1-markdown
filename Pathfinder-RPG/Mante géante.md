@@ -50,7 +50,7 @@ traversent les forêts denses est également connue
 sous le nom de mante religieuse géante, à cause
 de la manière dont elle replie ses dangereuses
 pattes avant sous sa tête lorsqu’elle se couche pour guetter l’arrivée
-d’une proie.
+d’une proie. 
 
 La mante géante, experte de la discrétion dans les sous-bois
 touffus, fait preuve d’une patience quasi surnaturelle lorsqu’elle
@@ -60,21 +60,21 @@ qu’une proie inconsciente du danger passe à sa portée.
 Dans de nombreuses sociétés sauvages, la mante religieuse suscite
 une terreur sans nom : dans les régions où ces vermines sont légion,
 on les considère souvent comme des annonciateurs de la mort envoyés
-par des dieux mécontents.
+par des dieux mécontents. 
 
 Leur agilité, leur vitesse, leur apparence
 étrange et leur faculté à se rendre quasiment indétectables en forêt
 a donné naissance à de nombreuses légendes disant que les mantes
 peuvent se rendre invisibles, sentir la peur ou que les âmes de ceux
 qu’elles tuent et dévorent sont digérées et emprisonnées, incapables
-de rejoindre l’après-vie.
+de rejoindre l’après-vie. 
 
 Les mantes géantes sont simplement des
 vermines redoutables et dangereuses mais les nombreuses légendes
 qu’on murmure au sujet de leurs soi-disant pouvoirs et de leur
 intelligence surnaturelle ont donné l’idée à certains lanceurs de
 sorts d’incorporer certaines caractéristiques des mantes dans leurs
-créatures artificielles afin de les rendre encore plus effrayantes.
+créatures artificielles afin de les rendre encore plus effrayantes. 
 
 On parle même parfois de sociétés entières d’assassins qui vénéreraient
 un dieu ressemblant à une mante immense, et qui imiteraient le
@@ -85,7 +85,7 @@ La mante géante présentée ici mesure 2,10 mètres de hauteur et
 4,50 mètres de longueur, pour un poids de 325 kg. Il existe des mantes
 géantes plus grandes encore dans les forêts les plus profondes et les
 plus sombres du monde, là où elles peuvent se repaître de géants ou
-de dragons.
+de dragons. 
 
 Ces monstres gigantesques connus sous divers noms
 tels que les mantes dévoreuses de dragons, les mantes déracineuses

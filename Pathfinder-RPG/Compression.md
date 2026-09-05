@@ -13,7 +13,7 @@ Categories:
 ---
 
 {s:racial|Vishkanya (race)|vishkanyas|Illustrations/PNJ/Vishkanya.jpg}{s:MR}
-**École** [[Pathfinder-RPG.Transmutation|Transmutation]] ([[Pathfinder-RPG.Branche métamorphose|métamorphose]]) ;
+**École** [[Pathfinder-RPG.Transmutation|Transmutation]] ([[Pathfinder-RPG.Branche métamorphose|métamorphose]]) ; 
 **Niveau** [[Pathfinder-RPG.alchimiste|Alch]] 2, [[Pathfinder-RPG.ensorceleur|Ens]]/[[Pathfinder-RPG.magicien|Mag]] 2, [[Pathfinder-RPG.sorcière|Sor]] 2  
 **Temps d'incantation** 1 [[Pathfinder-RPG.action simple|action simple]]  
 **Composantes** [[Pathfinder-RPG.composantes|V, G]]  

@@ -46,7 +46,7 @@ Categories:
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[aéon|aéons]].***</li></ul>*Quatre bras gris jaillissent d’une masse tourbillonnante ressemblant à un oeil géant, d’où pend une sorte de queue.*
 
-Le domaine d’action des akhanas est la dualité de la naissance et de la mort. Ils perçoivent l’existence de choses vivantes comme un élément crucial à la conservation de l’équilibre cosmique. Ils comprennent également l’importante influence que les choses vivantes exercent sur le cosmos et leur capacité à produire des conséquences terribles si elles ne sont pas surveillées ; dans ces circonstances, la vie doit céder sa place à la mort.
+Le domaine d’action des akhanas est la dualité de la naissance et de la mort. Ils perçoivent l’existence de choses vivantes comme un élément crucial à la conservation de l’équilibre cosmique. Ils comprennent également l’importante influence que les choses vivantes exercent sur le cosmos et leur capacité à produire des conséquences terribles si elles ne sont pas surveillées ; dans ces circonstances, la vie doit céder sa place à la mort. 
 
 Les akhanas sillonnent le multivers, sans cesse à la recherche de déséquilibres dans la vie. Les non-aéons ne comprennent pas bien la manière dont ils jugent ces déséquilibres et les aéons n’éprouvent jamais le besoin de justifier les décisions d’un akhana lorsqu’on leur demande. Ainsi, aux yeux de la plupart des
 créatures, les akhanas semblent cibler leurs attaques et diriger leur attention arbitrairement, voire même aléatoirement. Ils ne s’en prennent pas toujours au membre le plus fort ni au membre le plus faible d’un groupe par exemple.

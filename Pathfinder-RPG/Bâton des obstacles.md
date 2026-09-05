@@ -12,12 +12,12 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des obstacles|}
 **Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 52 850 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton usé en solide bois sombre semble taillé dans la pierre mais il donne la même sensation que du bois léger et ne pèse pas plus lourd. Il permet de lancer les sorts suivants :
-• *[[graisse]]* (1 charge)
-• *[[mur de feu]]* (2 charges)
-• *[[mur de glace]]* (2 charges)
-• *[[mur de pierre]]* (3 charges)
-• *[[mur de vent]]* (1 charge)
+Ce bâton usé en solide bois sombre semble taillé dans la pierre mais il donne la même sensation que du bois léger et ne pèse pas plus lourd. Il permet de lancer les sorts suivants :  
+• *[[graisse]]* (1 charge)  
+• *[[mur de feu]]* (2 charges)  
+• *[[mur de glace]]* (2 charges)  
+• *[[mur de pierre]]* (3 charges)  
+• *[[mur de vent]]* (1 charge)  
 • *[[verrou du mage]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[graisse]]*, *[[mur de feu]]*, *[[mur de glace]]*, *[[mur de pierre]]*, *[[mur de vent]]*, *[[verrou du mage]]* ; **Coût** 27 050 po

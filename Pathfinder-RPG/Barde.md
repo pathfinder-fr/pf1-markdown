@@ -8,9 +8,9 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[Représentations|représentations bardiques]].***
-***Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].***
-***Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].***
+<div class="fright">***Voir aussi les [[Représentations|représentations bardiques]].***  
+***Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].***  
+***Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].***  
 {s:PM0|barde}**Voir les archétypes du barde**&emsp;
 <li ID="barde" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypebarde}</li>
 </div>*Pour ceux qui sont capables de les découvrir, le monde contient des merveilles insoupçonnées et de nombreux mystères. C’est grâce à leur intelligence, leur habileté et leur magie que quelques individus rusés percent les secrets du monde tout en se formant aux arts de la persuasion, de la manipulation et de l’inspiration. Ces bardes, qui maîtrisent généralement une ou plusieurs formes d’expression artistique, possèdent des connaissances étonnamment variées et utilisent ce qu’ils apprennent pour se préparer aux dangers qui les menacent, eux et leurs alliés. Vifs d’esprit et passionnants, les bardes possèdent des compétences diversifiées qui peuvent les mener vers de nombreuses carrières : joueurs professionnels, touche-à-tout, érudits ou artistes, chefs charismatiques ou brigands, ou bien encore tout cela à la fois. Pour les bardes, chaque jour apporte son lot d’opportunités, d’aventures et de défis dont il n’est possible de tirer avantage qu’en prenant des risques, en élargissant ses connaissances et en se donnant à cent pour cent.*

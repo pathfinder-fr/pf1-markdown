@@ -52,7 +52,7 @@ font certainement partie des races les plus cruelles du monde.
 Incapables de ressentir des émotions ou de goûter aux plaisirs
 physiques par eux-mêmes, ils en sont réduits à s’emparer de corps
 afin de pouvoir laisser libre cours à leurs envies de gourmandise,
-de luxure ou de cruauté.
+de luxure ou de cruauté. 
 
 Certaines histoires évoquent des cités
 souterraines entières de ces créatures, où elles utiliseraient des

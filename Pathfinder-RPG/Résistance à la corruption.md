@@ -10,12 +10,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos, mal, bien, loi]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 10 min/[[niveau]]
+{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos, mal, bien, loi]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 10 min/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage accorde à la créature touchée une protection limitée contre les effets magiques qui infligent des dégâts basés sur son [[alignement]] comme *[[châtiment sacré]]*, *[[courroux de lordre|courroux de l'ordre]]*, le [[paladin#CHATIMENTDUMAL|châtiment du mal]] d'un [[paladin]] ou une arme *[[impie (propriété)|impie]]*. Le personnage choisi un type d'[[alignement]] : Chaotique, Mauvais, Bon ou Loyal. Le sujet subit 5 points de dégâts de moins de la part des effets qui blessent spécifiquement les créatures de cet [[alignement]]. La valeur de protection passe à 10 au [[niveau]] 7 et à 15 au [[niveau]] 11. Le sort protège également l'équipement de la cible.

@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:56
 {s:BDTitre|Bésicles du mauvais œil|{s:AE}}
 **Aura** [[Nécromancie]] modérée ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 30.000 po ; **Poids** —
 (((Description)))
-Ces lunettes ressemblent à une paire de verres émeraude enchâssés dans une mâchoire pleine de crocs dorés. Le porteur peut utiliser le sort *[[mauvais œil]]* 11 fois par jour et sur commande. Il affecte une cible par utilisation. Le porteur n’est pas obligé d’utiliser ces [[round|rounds]] de manière consécutive mais chaque activation coûte une [[action simple]] (contrairement au sort qui nécessite une [[action rapide]] pour changer de cible). Si le porteur retire les besicles, les effets de mauvais œil prennent fin immédiatement.
+Ces lunettes ressemblent à une paire de verres émeraude enchâssés dans une mâchoire pleine de crocs dorés. Le porteur peut utiliser le sort *[[mauvais œil]]* 11 fois par jour et sur commande. Il affecte une cible par utilisation. Le porteur n’est pas obligé d’utiliser ces [[round|rounds]] de manière consécutive mais chaque activation coûte une [[action simple]] (contrairement au sort qui nécessite une [[action rapide]] pour changer de cible). Si le porteur retire les besicles, les effets de mauvais œil prennent fin immédiatement. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[mauvais œil]]*  ; **Coût** 15.000 po
 </div>

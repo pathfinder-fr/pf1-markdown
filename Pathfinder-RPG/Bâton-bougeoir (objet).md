@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20
+{s:AE}**Prix** 1 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Similaire au [[Bâton éclairant (objet)|bâton éclairant]], en plus faible, le bâton-bougeoir brille comme une [[Bougie (objet)|bougie]] lorsqu’il est brisé et dure 12 heures.

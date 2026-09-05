@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:25
 {s:BDTitre|Ceinture reptilienne|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 9 000 po ; **Poids** 0,5 kg
 (((Description)))
-Le porteur de cette ceinture gagne un bonus de +4 aux jets de sauvegarde contre les poisons et un bonus de +2 aux tests d’[[Évasion]]. De plus, une fois par jour et sur commande, la ceinture peut s’animer pour prendre la forme d’un serpent venimeux ou constricteur (Bestiaire page 257) qui obéit aux ordres oraux du porteur pendant une durée maximale d’une heure. Si le serpent animé est tué ou s’éloigne à plus de 30 mètres du porteur, il reprend sa forme de ceinture.
+Le porteur de cette ceinture gagne un bonus de +4 aux jets de sauvegarde contre les poisons et un bonus de +2 aux tests d’[[Évasion]]. De plus, une fois par jour et sur commande, la ceinture peut s’animer pour prendre la forme d’un serpent venimeux ou constricteur (Bestiaire page 257) qui obéit aux ordres oraux du porteur pendant une durée maximale d’une heure. Si le serpent animé est tué ou s’éloigne à plus de 30 mètres du porteur, il reprend sa forme de ceinture. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale I]]*, *[[Neutralisation du poison]]*, *[[Convocation dalliés naturels II|convocation d’alliés naturels II]]*  ; **Coût** 4 500 po
 </div>

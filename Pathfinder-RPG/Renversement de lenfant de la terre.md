@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[École de lenfant de la terre|École de l’enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en [[Acrobaties]]
+**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[École de lenfant de la terre|École de l’enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en [[Acrobaties]] 
 
 **Avantage.** Le personnage peut renverser une créature de [[sous-type géant]] de taille TG au maximum. Tant qu’il utilise l’[[École de lenfant de la terre|École de l’enfant de la terre]], il ajoute son bonus de [[Sagesse]] aux tests de [[manoeuvre offensive|manœuvres offensives]] pour faire [[croc-en-jambe|tomber]] une créature de sous-type géant. Il ajoute ce même bonus aux [[jet dattaque|jets d’attaque]] pour confirmer un [[coup critique]] contre ces créatures.
 

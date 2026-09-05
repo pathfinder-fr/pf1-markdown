@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:34
 {s:BDTitre|Bandeau du chasseur|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 11.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce simple bandeau de peau tressée confère un bonus de compétence de +5 aux tests de [[Survie]] et renforce le corps pour qu’il résiste à la fatigue d’un long voyage, comme si le porteur était sous l’effet du sort *[[infatigable poursuivant]]*. Si le porteur est un [[rôdeur]], le *bandeau du chasseur* augmente son bonus d’[[rôdeur#ENNEMIJURE|ennemi juré]] aux [[jet dattaque|jets d’attaque]] de +1. Si le [[rôdeur]] possède l’aptitude de classe de [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), cette augmentation s’applique aussi au bonus aux [[jet dattaque|jets d’attaque]] dont ses alliés bénéficient grâce à cette aptitude.
+Ce simple bandeau de peau tressée confère un bonus de compétence de +5 aux tests de [[Survie]] et renforce le corps pour qu’il résiste à la fatigue d’un long voyage, comme si le porteur était sous l’effet du sort *[[infatigable poursuivant]]*. Si le porteur est un [[rôdeur]], le *bandeau du chasseur* augmente son bonus d’[[rôdeur#ENNEMIJURE|ennemi juré]] aux [[jet dattaque|jets d’attaque]] de +1. Si le [[rôdeur]] possède l’aptitude de classe de [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), cette augmentation s’applique aussi au bonus aux [[jet dattaque|jets d’attaque]] dont ses alliés bénéficient grâce à cette aptitude. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[ennemi du moment]]*, *[[infatigable poursuivant]]*, le créateur doit posséder 5 rangs au moins en [[Survie]]  ; **Coût** 5.500 po
 </div>

@@ -62,7 +62,7 @@ pacifiques lorsqu’on les
 laisse tranquilles, mais elles
 sont très attachées à leur territoire
 et peuvent se montrer très agressives
-si on les provoque.
+si on les provoque. 
 
 Ce profil peut être
 utilisé pour n’importe quel grand

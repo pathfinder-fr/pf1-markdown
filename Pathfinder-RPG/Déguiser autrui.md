@@ -14,13 +14,13 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** une créature touchée
+{s:UM}**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** une créature touchée  
 **Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
+<hr />
 Ce sort fonctionne comme *[[sort déguisement|déguisement]]* mais permet de déguiser le personnage ou une autre créature.
 
 
@@ -28,13 +28,13 @@ Ce sort fonctionne comme *[[sort déguisement|déguisement]]* mais permet de dé
 (((
 ## Déguisement
 {s:Desambi|Déguisement est également le nom d'une [[Déguisement|compétence]].}
-**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
+<hr />
 Le lanceur de sorts change son apparence (y compris ses vêtements, son armure, ses armes et son équipement). Il peut se grandir ou se rapetisser en modifiant sa taille de 30 centimètres ou encore avoir l’air plus gros ou plus mince. Il ne peut pas prendre l’apparence d’un autre type de créature mais peut changer de sous-type. Pour le reste, les changements dépendent des désirs du lanceur de sort. Il peut ajouter ou dissimuler une caractéristique physique mineure, ou se faire passer pour quelqu’un d’autre.
 
 Le sort ne confère pas les pouvoirs ou particularités de la forme choisie, pas plus qu’il n’altère les propriétés tactiles (toucher) et audibles (son) du personnage ou de son équipement. Si le personnage use de ce sort pour se déguiser, il bénéficie d’un bonus de +10 au test de [[Déguisement]]. Toute créature interagissant avec l’[[hallucination]] a droit à un jet de [[Volonté]] pour percer le voile de l’[[illusion]].

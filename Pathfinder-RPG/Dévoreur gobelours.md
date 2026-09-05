@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Équipement divers** *[[cuirasse (armure)|cuirasse +1]]*, *[[cimeterre à deux mains (arme)|cimeterre à deux mains +1]]*, [[javeline (arme)|javelines de maître]] (2), *[[cape de crocs]]*, 373 po}
 </div>
 
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 

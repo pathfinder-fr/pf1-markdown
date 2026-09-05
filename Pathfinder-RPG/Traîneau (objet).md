@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 100 po ; **Passage (1,5 km)** 2 cp
+{s:AE}**Prix** 100 po ; **Passage (1,5 km)** 2 cp  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 Ce chariot est généralement pourvu de patins, ce qui en fait un moyen de transport idéal sur la glace et la neige. En général, il faut deux [[Cheval (objet)|chevaux]] (ou d’autres bêtes de somme) pour le tirer. Le traîneau est livré avec un harnais permettant de le tracter.

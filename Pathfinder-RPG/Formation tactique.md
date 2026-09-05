@@ -10,12 +10,12 @@ Categories:
 - Sort rôdeur 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Abjuration]] ; **Niveau** [[paladin|Pal]] 3, [[prêtre|Prê]] 3, [[rôdeur|Rôd]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** jusqu’à une créature/niveau, distante de moins de 9 mètres les unes des autres.
-**Durée** 10 minutes/niveau
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Abjuration]] ; **Niveau** [[paladin|Pal]] 3, [[prêtre|Prê]] 3, [[rôdeur|Rôd]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** jusqu’à une créature/niveau, distante de moins de 9 mètres les unes des autres.  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain de l'artisanat.*

@@ -15,28 +15,28 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G]]
-**Portée** illimitée
-**Cible** lanceur de sorts ou gnome touché
-**Durée** voir texte
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G]]  
+**Portée** illimitée  
+**Cible** lanceur de sorts ou gnome touché  
+**Durée** voir texte  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[songe]]* à quelques différences près. Le messager doit être le lanceur de sorts ou le gnome touché. Le message ne doit pas dépasser 20 mots. Si le destinataire du message ne dort pas au moment où le personnage lance le sort, ce dernier échoue automatiquement.
 
 
 
 (((
 ## Songe
-**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G]]
-**Portée** [[illimitée]]
-**Cible** créature vivante touchée
-**Durée** voir description
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[illimitée]]  
+**Cible** créature vivante touchée  
+**Durée** voir description  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Le personnage, ou un messager qu’il touche lors de l’incantation, transmet un message onirique à un autre individu. Au début de l’incantation, le lanceur de sorts doit nommer le destinataire du message ou l’identifier afin qu’il soit impossible de se tromper sur son identité. Le messager entre en transe, apparaît dans les rêves du destinataire et délivre le message qu’on l’a chargé de transmettre. La longueur du message n’est pas limitée, et celui qui le reçoit s’en rappelle parfaitement au réveil. La communication ne s’effectue que dans un sens : le destinataire ne peut pas envoyer de réponse ni poser de question et le messager ne tire aucune information des rêves de la cible.
 
 Le messager réintègre immédiatement son corps une fois le message transmis. La durée du sort est égale au temps nécessaire pour s’infiltrer dans l’univers onirique de la cible et délivrer le message prévu.

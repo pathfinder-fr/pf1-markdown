@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 4 kg
+{s:AE}**Prix** 5 pa ; **Poids** 4 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Cette mallette comprend une queue en bois, un bloc de craie, 15 boules en bois et un cadre en bois triangulaire.

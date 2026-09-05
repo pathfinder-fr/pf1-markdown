@@ -13,7 +13,7 @@ L'Osirion marque la pointe Nord-Est du [[Garund]] et fait partie de la ceinture 
 ### Géographie physique
 La majeure partie du territoire osirionais est occupé par l'immense désert qui entoure la vaste étendue du [[Mwangi]]. S'il semble uniforme aux yeux des étrangers, il revêt de multiples formes. Les vastes plaines calcaires de la [[Nappe de Verre]] (Glazen Sheet) et ses lacs de sels laissent peu à peu la place aux dunes venues des déserts de l'ouest alors que le désert des [[Empreintes de Rovagug]] (Footprints of Rovagug) est beaucoup plus rocailleux et moins sujet aux tempêtes de sable.
 
-L'Osirion est bordé au nord et à l'est par la [[mer Intérieure]]. Au sud, ce sont de grandes chaînes montagneuses qui forment les frontières de l'Osirion avec ses voisins le [[Mwangi]] au sud-ouest et le [[Katapesh]] au sud. Quelques zones montagneuses se sont aussi formées au centre du territoire. Le reste du relief est relativement plat.
+L'Osirion est bordé au nord et à l'est par la [[mer Intérieure]]. Au sud, ce sont de grandes chaînes montagneuses qui forment les frontières de l'Osirion avec ses voisins le [[Mwangi]] au sud-ouest et le [[Katapesh]] au sud. Quelques zones montagneuses se sont aussi formées au centre du territoire. Le reste du relief est relativement plat. 
 
 Quatre rivières ou fleuves principaux arrosent l'Osirion : le [[Sphinx]] (Sphinx River) créé par la confluence de l'[[Aspic]] (Asp River) et du [[Croc]] (Crook River) est situé à l'est, passe entre le [[Mont Na-Ken]] (Mount Na-Ken) et les [[Piliers du Soleil]] (Pilars of the Sun), baigne [[An]] et [[Sothis]] et se jette dans la [[mer Intérieure]] dans le [[Grondement de Gozreh]] (Swells of Gozreh). Ce sont ses fluctuations saisonnières, et notamment ses crues, qui rythment l'année osirionaise. La rivière [[Junira]] (Junira River) marque quant à elle la frontière ouest de l'Osirion avec la [[Thuvie]].
 
@@ -22,7 +22,7 @@ L'histoire de l'Osirion commence en même temps que les premières grandes civil
 
 Durant plus d'un millénaire, les Pharaons se sont succédés, offrant à leur peuple des périodes plus ou moins florissantes qui furent marquées par une lente agonie de la civilisation osirionaise. Lors de l'invasion de l'Osirion par les armées Qadiranes du [[Kélesh]], elle n'était plus que l'ombre de ce qu'elle avait été mille ans plus tôt.
 
-La domination Keleshite sur l'Osirion dura près de 3000 ans, asservissant le peuple et le brimant plus qu'il ne lui était supportable. Loin de le faire plier, l'asservissement renforça au contraire l'esprit d'indépendance des Osirionais qui se révoltèrent et repoussèrent les Keléshites.
+La domination Keleshite sur l'Osirion dura près de 3000 ans, asservissant le peuple et le brimant plus qu'il ne lui était supportable. Loin de le faire plier, l'asservissement renforça au contraire l'esprit d'indépendance des Osirionais qui se révoltèrent et repoussèrent les Keléshites. 
 
 Depuis moins d'un siècle, l'état est à nouveau indépendant et ses lois ancestrales ont à nouveau cours. Aujourd'hui, c'est le Prince Rubis Khemet III, descendant des anciens Pharaons et des Dieux, qui dirige le pays succédant à son grand-père Khemet I et à son père Khemet II.
 
@@ -123,7 +123,7 @@ De nombreuses ruines et tombeaux sont éparpillés sur tout le territoire. Ces m
 
 </td></tr></table>
 
-{s:VoirAussiAvant}Vous pourrez trouver plus d'informations à propos de l'Osirion dans les suppléments
+{s:VoirAussiAvant}Vous pourrez trouver plus d'informations à propos de l'Osirion dans les suppléments 
 - [[Golarion.Publications#COMPANIONOSIRION|Pathfinder Companion: Osirion, Land of Pharaohs]].
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

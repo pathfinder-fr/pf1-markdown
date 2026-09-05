@@ -8,7 +8,7 @@ LastModified: 2024-05-31 10:29
 {s:BDTitre|Bottes du terrain amical|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 2 400 po ; **Poids** 0.5 kg
 (((Description)))
-Lorsqu’elles sont chaussées par un [[rôdeur]], les bottes du terrain amical transforment les environnements inhospitaliers en terrains de chasse idéaux. Elles effacent également les traces de pas qu’il laisse derrière lui. Chacune de ces paires de bottes de cuir souples correspond à un environnement spécifique, selon la classification des [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]] du [[rôdeur]] (jungle, plaine, etc.). Un [[rôdeur]] qui porte ces bottes traite le terrain correspondant comme l’un environnement de prédilection. Si c’est déjà le cas, le bonus de cet environnement augmente de +2.
+Lorsqu’elles sont chaussées par un [[rôdeur]], les bottes du terrain amical transforment les environnements inhospitaliers en terrains de chasse idéaux. Elles effacent également les traces de pas qu’il laisse derrière lui. Chacune de ces paires de bottes de cuir souples correspond à un environnement spécifique, selon la classification des [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]] du [[rôdeur]] (jungle, plaine, etc.). Un [[rôdeur]] qui porte ces bottes traite le terrain correspondant comme l’un environnement de prédilection. Si c’est déjà le cas, le bonus de cet environnement augmente de +2. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], passage sans trace, le créateur doit être un [[rôdeur]] ; **Coût** 1 200 po
 </div>

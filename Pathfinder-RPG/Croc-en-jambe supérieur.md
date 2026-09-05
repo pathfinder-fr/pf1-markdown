@@ -15,8 +15,8 @@ Categories:
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#11|→]] Croc-en-jambe supérieur : Comment cela interagit-il avec Piétinement vicieux (MRA) ? Le personnage a-t-il deux AOs ou seulement une ?***
 
-Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.
-<u>[[Croc-en-jambe supérieur]]</u> offre une AO quand le personnage réussit un croc-en-jambe contre un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe à terre.
+Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.  
+<u>[[Croc-en-jambe supérieur]]</u> offre une AO quand le personnage réussit un croc-en-jambe contre un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe à terre.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).}**Avantage.** Le personnage reçoit un bonus de +2 aux [[test|tests]] destinés à faire un [[croc-en-jambe]] à un adversaire. Ce bonus s’ajoute à celui de la [[Science du croc-en-jambe]]. Quand le personnage réussit à faire un [[croc-en-jambe]] à son adversaire, ce dernier provoque des [[attaque dopportunité|attaques d’opportunité]].
 
 **Normal.** Les créatures victimes d’un croc-en-jambe ne provoquent pas d’[[attaque dopportunité|attaques d’opportunité]].

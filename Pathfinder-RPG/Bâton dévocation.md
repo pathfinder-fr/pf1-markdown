@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton d’évocation|}
 **Aura** [[Évocation]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton, généralement lisse et taillé dans du noyer ou de l’if, permet de lancer les sorts suivants :
-• *[[boule de feu]]* (1 charge)
-• *[[éclair multiple]]* (3 charges)
-• *[[fracassement]]* (1 charge)
-• *[[mur de force]]* (2 charges)
-• *[[projectile magique]]* (1 charge)
+Ce bâton, généralement lisse et taillé dans du noyer ou de l’if, permet de lancer les sorts suivants :  
+• *[[boule de feu]]* (1 charge)  
+• *[[éclair multiple]]* (3 charges)  
+• *[[fracassement]]* (1 charge)  
+• *[[mur de force]]* (2 charges)  
+• *[[projectile magique]]* (1 charge)  
 • *[[tempête de grêle]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[boule de feu]]*, *[[éclair multiple]]*, *[[fracassement]]*, *[[mur de force]]*, *[[projectile magique]]*, *[[tempête de grêle]]* ; **Coût** 41 000 po

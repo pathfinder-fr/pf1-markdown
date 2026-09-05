@@ -25,7 +25,7 @@ Categories:
 | CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Mystique tatoué#ARTISTEDUTATOUAGEMAGIQUE|Artiste du tatouage magique]]
+| CLASS="gauche" | [[Mystique tatoué#ARTISTEDUTATOUAGEMAGIQUE|Artiste du tatouage magique]] 
 | CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2
@@ -49,7 +49,7 @@ Categories:
 | CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-CLASS="alt"
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGESPUISSANTS|Tatouages puissants]]
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGESPUISSANTS|Tatouages puissants]] 
 | CLASS="gauche" | -
 |-
 | 10 || +5 || +3 || +3 || +5
@@ -64,7 +64,7 @@ Pour pouvoir devenir mystique tatoué, le personnage doit satisfaire aux conditi
 
 **Dons** [[Tatouage mystique]].
 
-**Compétences** 5 rangs en [[Art de la magie]] et 5 rangs en [[Artisanat]] (tatouage).
+**Compétences** 5 rangs en [[Art de la magie]] et 5 rangs en [[Artisanat]] (tatouage). 
 
 **Sorts** Capacité à lancer des sorts de 2e niveau.
 
@@ -76,13 +76,13 @@ Voici les compétences de classe du mystique tatoué : [[Art de la magie]] (Int)
 **Rangs de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de classe
-Voici les caractéristiques de classe du mystique tatoué.
+Voici les caractéristiques de classe du mystique tatoué. 
 #### Armes et armures
-Un mystique tatoué ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un mystique tatoué ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|TATOUAGEDEFAMILIER}
 #### Tatouage de familier (Sur)
-Cette capacité fonctionne exactement comme la [[Ensorceleur tatoué (ensorceleur)|capacité d'ensorceleur tatoué]] du même nom.
+Cette capacité fonctionne exactement comme la [[Ensorceleur tatoué (ensorceleur)|capacité d'ensorceleur tatoué]] du même nom. 
 
 {s:reference|TATOUAGEMYSTIQUE}
 #### Tatouage mystique (Sur)

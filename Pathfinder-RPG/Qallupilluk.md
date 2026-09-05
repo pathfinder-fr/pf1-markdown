@@ -62,7 +62,7 @@ métamorphose. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].
 
 </div></td><td><div>''La peau disgracieuse, les cheveux noirs et emmêlés, et les vêtements en
 haillons de cette horrible femme sont gorgé d’eau glacé, mais elle dégage
-pourtant une odeur curieuse et agréable.''
+pourtant une odeur curieuse et agréable.'' 
 
 Semblable à une sorcière, une qallupilluk est une
 sinistre créature redoutée qui vit dans les froids

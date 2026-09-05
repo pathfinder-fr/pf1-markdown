@@ -81,7 +81,7 @@ Vous devez investir au moins 5 [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] da
 
 <center>
 **DD = [[Royaumes et guerre#DDDECONTROLE|DD de contrôle]] + [[Villes#Les_modificateurs_de_communauté_2|Corruption]] de votre communauté + MR + ML – Productivité de votre communauté**
-</center>
+</center>  
 Si vous ratez les trois tests, vous perdez la totalité de votre expédition, votre [[Gloire et Infamie (royaume)|Gloire]] diminue de 1 et votre [[Royaumes et guerre#INSATISFACTION|Insatisfaction]] augmente de 1. Si vous réussissez un seul test, votre expédition n’atteint pas sa destination mais elle arrive à vendre ses marchandises ailleurs et à récupérer ainsi 1d4 [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] pour chaque tranche de 5 PC investis.
 
 Si vous réussissez deux tests, vous avez établi une véritable route commerciale : l’[[Royaumes et guerre#ECONOMIE|Économie]] augmente de 1 et la trésorerie d’un montant de PC égal au MR + 2d4 par tranche de 5 PC d’investissement de départ. Par exemple, si vous avez investi 5 PC dans une expédition marchande sur une route commerciale avec un modificateur de 2, votre trésorerie augmente de 2 + (2d4 x 1) PC.

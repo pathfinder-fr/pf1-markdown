@@ -18,11 +18,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Magus]] 5, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (tourmaline d'une valeur de 50 po)
-**Portée** [[personnelle]]
-**Cibles** le lanceur de sort
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Magus]] 5, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (tourmaline d'une valeur de 50 po)  
+**Portée** [[personnelle]]  
+**Cibles** le lanceur de sort  
 **Durée** 1 round
 
 Ce sort fonctionne comme *[[vision lucide]]*, excepté les indications ci-dessus.

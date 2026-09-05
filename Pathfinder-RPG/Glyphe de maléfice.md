@@ -7,14 +7,14 @@ Categories:
 - Sort sorcière 3
 ---
 
-{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]
-**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]  
+**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non (objet) et oui (voir texte)
----
+<hr />
 Ce sort fonctionne comme la version de glyphe du sort *[[glyphe de garde]]*, à la seule différence que le personnage peut stocker un maléfice (mais pas un maléfice majeur ni un grand maléfice) à la place d’un sort. Si le maléfice a une cible, il cible l’intrus. Si le maléfice a une zone d’effet ou un effet informe, la zone ou l’effet est centré(e) sur l’intrus. Le maléfice déclenché utilise le niveau de lanceur et le [[DD]] du sort de glyphe de maléfice.
 *[[Lecture de la magie]]* permet à celui qui le lance d’identifier un glyphe de maléfice sur un jet de [[Connaissances]] (mystères) [[DD]] 13 réussi. L’identification du glyphe ne le décharge pas et indique qu’il stocke un maléfice, mais elle n’indique pas l’effet de ce maléfice.
 
@@ -22,14 +22,14 @@ Ce sort fonctionne comme la version de glyphe du sort *[[glyphe de garde]]*, à 
 
 (((
 ## Glyphe de garde
-**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]
-**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]  
+**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non (objet) et oui (voir texte)
----
+<hr />
 La puissante inscription magique créée par ce sort affecte toute personne qui pénètre dans la zone ou tente d’ouvrir l’objet qu’elle protège. Le *glyphe de garde* peut être utilisé pour défendre un pont, un passage ou un accès, ou encore pour piéger un coffre ou un container par exemple.
 
 Le lanceur du sort spécifie les conditions de déclenchement du glyphe. Le plus souvent, l’effet magique du glyphe affecte toute créature qui pénètre dans la zone ou ouvre l’objet protégé sans prononcer un mot de passe choisi par le personnage lors de l’incantation. En plus du mot de passe (ou à la place de celui-ci), le lanceur du sort peut utiliser des conditions basées sur les caractéristiques physiques des créatures (comme la taille ou le poids) ou encore sur leur type, sous-type ou espèce. Les conditions peuvent également évoquer les concepts de la Loi, du Bien, du Mal et du Chaos ou traiter de manière spécifique les individus qui appartiennent à la même religion que le lanceur du sort. Par contre, elles ne peuvent pas se baser sur la [[classe]], le [[niveau]] ou le nombre de dés de vie des créatures. Les créatures [[invisible|invisibles]] déclenchent le glyphe normalement, mais pas celles qui sont éthérées. Une zone donnée ne peut être protégée par plus d’un glyphe ; par contre, si une commode comporte trois tiroirs, chacun d’eux peut recevoir un glyphe.

@@ -11,28 +11,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|variable]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, F]] (une boulette de résine)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** un engin de siège de n'importe quelle taille
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|variable]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, F]] (une boulette de résine)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** un engin de siège de n'importe quelle taille  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort fonctionne comme *[[tir dénergie à larme de siège|tir d’énergie à l’arme de siège]]* mais affecte un [[engin de siège]] de n’importe quelle taille, pas seulement les armes G.
 
 
 
 (((
 ## Tir d'énergie à l'arme de siège
-{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|variable]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, F]] (une boulette de résine)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** un engin de siège G
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|variable]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, F]] (une boulette de résine)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** un engin de siège G  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])
----
+<hr />
 Ce sort transforme les munitions d’une [[arme de siège à distance]] en munition d’énergie pure. Le personnage choisit le type d’énergie (acide, électricité, feu, force, froid ou son) au moment de lancer le sort. Le montant de dégâts des munitions affectées par le sort ne change pas mais elles infligent des dégâts d’énergie du type choisi. Si les munitions bénéficient d’effets supplémentaires, ils ne changent pas. Contrairement aux autres attaques d’énergie, celle-ci inflige la totalité des dégâts aux objets. La munition gagne aussi l’un des effets suivants, en fonction de son type d’énergie.
 - *Acide.* La munition inflige la moitié de ses dégâts à toutes les créatures et tous les objets abandonnés dans un rayon d’aspersion de 4,50 m (3 {s:c}) autour de la cible directe de l’[[engin de siège]]. Les créatures peuvent réduire les dégâts d’aspersion de moitié avec un jet de [[Réflexes]] réussi. Le sort et l’aspersion ont le même [[DD]].
 - *Électricité.* Les créatures touchées par l’[[engin de siège]] et celles qui se trouvent dans un rayon de 4,50 m (3 {s:c}) sont [[chancelant|chancelantes]] pour 1 [[round]].

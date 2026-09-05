@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 75 po ; **Poids** 10 kg
+{s:AE}**Prix** 75 po ; **Poids** 10 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette version compacte du [[Laboratoire dalchimiste (objet)|laboratoire d’alchimiste]] accorde un bonus de circonstances de +1 aux tests d’[[Artisanat]] (alchimie).

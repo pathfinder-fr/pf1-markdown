@@ -8,12 +8,12 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Carpenden (ville)|[[Andoran]]|[[Plaines de Carpenden]]|N|Standard (gouvernement démocratique)|4 000 po|10 600 (grande ville)|10,176 humains, 212 halfelins, 112 elfes, 100 autres|• **Deliah Grange**, maire (humaine f, aristocrate 6/expert 4)
-• **Ranai Cimbar**, magistrat (humaine m, expert 5)
-• **Jorab Mire**', maréchal (humain m, guerrier 8)
-• **Ebzin Frayn**, banquier (humain m, prêtre d'[[Abadar]] 11)
-• **Eva Mannos**, dirigeante de caravanes (humaine f, expert 3)
-• **Joniah Kruse**, devin (humaine m, oracle 3)
+{s:Communauté|Carpenden (ville)|[[Andoran]]|[[Plaines de Carpenden]]|N|Standard (gouvernement démocratique)|4 000 po|10 600 (grande ville)|10,176 humains, 212 halfelins, 112 elfes, 100 autres|• **Deliah Grange**, maire (humaine f, aristocrate 6/expert 4)  
+• **Ranai Cimbar**, magistrat (humaine m, expert 5)  
+• **Jorab Mire**', maréchal (humain m, guerrier 8)  
+• **Ebzin Frayn**, banquier (humain m, prêtre d'[[Abadar]] 11)  
+• **Eva Mannos**, dirigeante de caravanes (humaine f, expert 3)  
+• **Joniah Kruse**, devin (humaine m, oracle 3)  
 • **Alivanta Torgraso**, historienne et érudite (humaine f, devin 6)}Carpenden (parfois appelée Carpendren<sup>(2)</sup>) est la ville la plus influente de la région de Carpenden en [[Andoran]]. Située dans le centre nord des [[Plaines de Carpenden]], elle est entourée de collines vallonées qui se prêtent à la création de nombreuses plantations et vergers.<sup>(3)</sup><sup>(4)</sup>
 
 #### Géographie

@@ -11,14 +11,14 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5*** *(l'équivalent des tests de Concentration est à la discrétion du MJ)*</u>
 
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Prêtre|Prê]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une poignée de sable, de poussière ou de poudre fine)
-**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)
-**Cible** une créature
-**Durée** 1 [[round]]/niveau
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Prêtre|Prê]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une poignée de sable, de poussière ou de poudre fine)  
+**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
+**Cible** une créature  
+**Durée** 1 [[round]]/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (cécité uniquement) ; **Résistance à la magie** non
----
+<hr />
 Une tornade de sable apparaît pour frapper la cible, ce qui l’[[aveuglé|aveugle]] et l’empêche de parler. Pour réussir à parler une fois affectée par ce sort, la cible doit réussir un test de Concentration ([[DD]] égal au DD du sort). Si elle tente de lancer un sort, le DD du test de Concentration est augmenté du niveau du sort qu’elle souhaite lancer. Un jet de [[Volonté]] réussi annule la cécité mais pas l’incapacité à parler.
 
 
@@ -27,13 +27,13 @@ Une tornade de sable apparaît pour frapper la cible, ce qui l’[[aveuglé|aveu
 ## [[Tornade de sable suprême]]
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une poignée de sable, de poussière ou de poudre fine)
-**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une poignée de sable, de poussière ou de poudre fine)  
+**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
 **Zone d'effet** [[étendue]] de 3 m de rayon
-**Durée** 1 [[round]]/niveau
+**Durée** 1 [[round]]/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (cécité uniquement) ; **Résistance à la magie** non
----
+<hr />
 À l’exception de sa zone d’effet, ce sort fonctionne comme le sort *[[tornade de sable]]*.
 )))

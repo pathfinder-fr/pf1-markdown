@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 402 po ; **Poids** 3,5 kg
+{s:AE}**Prix** 402 po ; **Poids** 3,5 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse comprend un [[Symbole sacré (objet)|symbole sacré en bois]], un collier de gousses d'ail, un [[Marteau (objet)|marteau]], un [[Pieu de bois (arme)|pieu de bois]], 2 flasques d'[[Eau bénite (objet)|eau bénite]], un [[Bâton éclairant (objet)|bâton éclairant]], une *[[Potions magiques|potion]] de [[restauration partielle]]* et une *[[Potions magiques|potion]] de [[protection contre le Mal]]*.

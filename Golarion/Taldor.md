@@ -12,7 +12,7 @@ Dans les temps ancien, l'Empire du Taldor s'étendait depuis l'[[océan Arcadien
 
 ### Géographie physique
 #### Description générale
-Le territoire occupé par le Taldor est situé en [[Avistan]] au bord de la [[mer Intérieure]] entre l'[[Andoran]] à l'ouest, le [[Galt]] au nord et le [[Qadira]] au sud. Il marque, avec son voisin du sud, la frontière de l'[[Avistan]] avec le [[Casmaron]]. Le Taldor est composé d'une succession de grandes plaines alluviales au nord, de garrigues au sud et de grands massifs montagneux.
+Le territoire occupé par le Taldor est situé en [[Avistan]] au bord de la [[mer Intérieure]] entre l'[[Andoran]] à l'ouest, le [[Galt]] au nord et le [[Qadira]] au sud. Il marque, avec son voisin du sud, la frontière de l'[[Avistan]] avec le [[Casmaron]]. Le Taldor est composé d'une succession de grandes plaines alluviales au nord, de garrigues au sud et de grands massifs montagneux.  
 
 #### Chaînes de montagnes
 Il existe trois chaînes de montagnes principales au Taldor :
@@ -31,9 +31,9 @@ Si le Taldor était couvert de grandes forêts dans les temps anciens, elles ont
 
 ### Histoire de la région
 Pendant de l'[[Osirion]] sur l'[[Avistan]], l'histoire du Taldor est presque aussi ancienne que celle de son illustre voisin. On raconte même que l'Empire Taldan existait déjà lorsqu'[[Aroden]] foula le sol de [[Golarion.géographie|Golarion]].
-Au fur et à mesure des années, des décennies et des siècles, les missions d'explorations financées par les empereurs successifs permirent à l'Empire de s'agrandir jusqu'à contrôler pratiquement toute la côte sud de l'[[Avistan]] excepté le [[Qadira]] qui lui résista de tout temps.
+Au fur et à mesure des années, des décennies et des siècles, les missions d'explorations financées par les empereurs successifs permirent à l'Empire de s'agrandir jusqu'à contrôler pratiquement toute la côte sud de l'[[Avistan]] excepté le [[Qadira]] qui lui résista de tout temps. 
 
-Malgré la puissance économique et militaire du pouvoir central, les préfectures les plus éloignées de la capitale, livrées à elles-mêmes et confrontées à une bureaucratie de plus en plus complexe (on parle de dizaines de milliers de fonctionnaires, consuls, sénateurs et gouverneurs) et corrompue, commencèrent à se révolter.
+Malgré la puissance économique et militaire du pouvoir central, les préfectures les plus éloignées de la capitale, livrées à elles-mêmes et confrontées à une bureaucratie de plus en plus complexe (on parle de dizaines de milliers de fonctionnaires, consuls, sénateurs et gouverneurs) et corrompue, commencèrent à se révolter. 
 
 Les Phalanges Taldanes et la Cavalerie Taldane furent envoyées dans les régions et réprimèrent ces révoltes dans le sang. Néanmoins, les rebellions contre le pouvoir central se faisaient de plus en plus nombreuses et importantes. Tant et si bien que, voyant les armées taldanes occupées à l'autre bout de l'Empire, l'Empire du [[Kélesh]] en profita pour traverser le fleuve [[Jalrune]] et envahir le sud du Taldor en [[4079]]. Les armées qadirotes s'enfoncèrent dans les terres jusqu'à atteindre les portes de la capitale [[Oppara]]. L'empereur, sous la pression de ses classes nobles et dirigeantes, rapatria ses armées de l'ouest pour défendre la ville et le territoire contre cette invasion. S'ensuivit alors une guerre, parfois latente, de 524 ans entre les deux grandes nations du sud de l'[[Avistan]]. Cette longue période est aujourd'hui connue des Taldans sous le nom de Grande Campagne.
 
@@ -55,7 +55,7 @@ La Royauté et la Classe Sénatoriale constituent ce que l'on appelle au Taldor 
 Par opposition aux Barbus, le reste de la population constitue ce que l'on appelle les **Imberbes**. Ce groupe représente environ 99% de la population du Taldor et est composé de toutes les classes sociales. Aussi surprenant que cela puisse paraître, les Imberbes ne se sont jamais révoltés contre les Barbus, les Grands Princes ayant toujours prit soin de nommer quelques membres de ce groupe hauts fonctionnaires, montrant par là qu'il était possible d'évoluer socialement en travaillant dur. L'un des plus sûrs moyens d'y arriver étant d'embrasser une carrière militaire dans la Cavalerie Taldane, la Phalange Taldane ou la Marine Taldane.
 
 ### Relations internationales
-La longue histoire du Taldor a laissé des traces dans ses relations actuelles avec les nations étrangères qui l'entourent.
+La longue histoire du Taldor a laissé des traces dans ses relations actuelles avec les nations étrangères qui l'entourent. 
 
 Si l'Empire n'a jamais pu conquérir [[Absalom]], il s'agit toujours de l'un des buts du Grand Prince qui y envoie régulièrement des espions.
 

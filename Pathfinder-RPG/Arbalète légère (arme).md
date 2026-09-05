@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 35 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** 24 m (16 c) ; **Type** P ; **Spécial** —
+{s:AE}**Prix** 35 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** 24 m (16 c) ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Le personnage peut réarmer l’arbalète légère en tirant un levier. Le rechargement de l’arbalète légère prend une [[action de mouvement]] qui provoque des [[AO|attaques d’opportunité]]. Elle tire des [[carreaux darbalète (arme)|carreaux d’arbalète]].  
   
 Normalement, l’arbalète légère se manie à deux mains, néanmoins, le personnage peut tirer avec (mais pas la recharger) d’une main avec un malus de -2 à ses [[jet dattaque|jets d’attaque]].  

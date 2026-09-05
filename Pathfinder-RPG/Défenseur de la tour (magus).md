@@ -14,7 +14,7 @@ Categories:
 #### Armes et armures
 Un défenseur de la tour est formé au maniement des armes courantes et de guerre, légères et à une main, ainsi qu’au maniement des armes de corps à corps exotiques légères ou à une main dotées des attributs spéciaux [[Caractéristiques des armes#DESARMEMENT|désarmement]] ou [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]].
 
-Un défenseur de la tour n’est formé au port d’aucune armure et n’est formé au maniement d’aucun bouclier. Il ne possède pas
+Un défenseur de la tour n’est formé au port d’aucune armure et n’est formé au maniement d’aucun bouclier. Il ne possède pas 
 l’aptitude du magus qui lui permet d’ignorer les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] occasionnés par le port des armures. Toutefois, s’il apprend à porter les armures légères, il gagne automatiquement l’aptitude du magus qui lui permet d’ignorer les risques d’échec des sorts profanes occasionnés par le port de ce type d’armure. S’il apprend à porter les armures intermédiaires, il ignore, au niveau 7, les risques d’échec des sorts profanes occasionnés par le port de ce type d’armure. S’il apprend à porter les armures lourdes, il ignore, au niveau 13, les risques d’échec des sorts profanes occasionnés par le port de ce type d’armure. Cette aptitude remplace la section [[Magus#Armes_et_armures_0|Armes et armures]] du magus.
 
 #### Dons supplémentaires (Ext)

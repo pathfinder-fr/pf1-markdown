@@ -49,23 +49,23 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[archon|archons]].***</li></ul>
 *Ce chevalier céleste porte une épée enflammée, tout en volant dans les airs grâce aux ailes de métal qui semblent pousser de son armure.*
 
-Si les archons protecteurs sont les remparts des armées
-du Paradis, les archons légionnaires en sont les épées  :
-ils partent par escouades entières pour égaler les hordes
-infinies du Mal.
-Les archons légionnaires mesurent 1,95 m et pèsent 100
-kilos. Leurs casques et armures cachent une peau glabre très
-pâle ou d’un noir de jais. Leurs yeux brillent des flammes de
-la foi et sont encore plus flamboyants lorsqu’ils invoquent
-leurs armes. Leurs ailes de métal fusionnent avec l’armure
-qu’ils portent, quelle qu’elle soit, et la prolongent, leur
-permettant de voler, même avec les protections les plus
-lourdes.
-Malgré leur présence guerrière, les archons légionnaires
-préfèrent les missions de paix et de charité. Leurs maîtres
-envoient des archons légionnaires non-armés comme
-représentants célestes, même s’ils sont toujours revêtus de
-leurs armures divines  : c’est ainsi habillés qu’ils prêchent
-la parole et l’amour du Paradis au sein de royaumes très
+Si les archons protecteurs sont les remparts des armées 
+du Paradis, les archons légionnaires en sont les épées  : 
+ils partent par escouades entières pour égaler les hordes 
+infinies du Mal. 
+Les archons légionnaires mesurent 1,95 m et pèsent 100 
+kilos. Leurs casques et armures cachent une peau glabre très 
+pâle ou d’un noir de jais. Leurs yeux brillent des flammes de 
+la foi et sont encore plus flamboyants lorsqu’ils invoquent 
+leurs armes. Leurs ailes de métal fusionnent avec l’armure 
+qu’ils portent, quelle qu’elle soit, et la prolongent, leur 
+permettant de voler, même avec les protections les plus 
+lourdes. 
+Malgré leur présence guerrière, les archons légionnaires 
+préfèrent les missions de paix et de charité. Leurs maîtres 
+envoient des archons légionnaires non-armés comme 
+représentants célestes, même s’ils sont toujours revêtus de 
+leurs armures divines  : c’est ainsi habillés qu’ils prêchent 
+la parole et l’amour du Paradis au sein de royaumes très 
 éloignés.
 </div></td></tr></table>

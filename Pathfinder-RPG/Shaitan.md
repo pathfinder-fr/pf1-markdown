@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Shaitan|FP 7}
-{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}  
 {s:BDTexte|*Source : Bestiaire p.158*}
 {s:BDTexte|**PX** 3.200}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]]) de taille G, LN}

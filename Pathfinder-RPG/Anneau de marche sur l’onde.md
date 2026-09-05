@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Anneau de marche sur l’onde|{s:AE}}
 **Aura** [[Transmutation]] modérée; **NLS** 9 ; **Emplacement** anneau ; **Prix** 15 000 po ; **Poids** —
 (((Description)))
-Cet anneau est souvent fait de corail ou de métal bleuté orné de vagues. Il permet au porteur d’utiliser en permanence les effets du sort [[marche sur londe|marche sur l’onde]].
+Cet anneau est souvent fait de corail ou de métal bleuté orné de vagues. Il permet au porteur d’utiliser en permanence les effets du sort [[marche sur londe|marche sur l’onde]]. 
 (((Fabrication)))
 **Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], [[marche sur londe|marche sur l’onde]] ; **Coût** 7 500 po
 </div>

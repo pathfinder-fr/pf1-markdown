@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Boisson forte mêlant du rhum, du vin, de la bière, de l’œuf, du sucre et des épices, le rhum du pauvre est servi chaud dans les tavernes les plus raffinées.

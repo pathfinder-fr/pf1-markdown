@@ -21,10 +21,10 @@ Un derviche de l’aube est formé à l’utilisation de la compétence de [[Rep
 
 Les avantages de la danse de guerre s’appliquent uniquement si le barde ne porte aucune armure ou seulement une armure légère. De la même façon qu’une représentation bardique, les effets d’une danse de guerre ne peuvent être maintenus actifs en même temps que d’autres pouvoirs de représentation.
 
-Il faut une [[action de mouvement]] pour commencer une danse de guerre, mais une [[action libre]] seulement pour la maintenir. Pour changer l’effet d’une danse de guerre et en produire un autre, le derviche doit arrêter sa danse de
+Il faut une [[action de mouvement]] pour commencer une danse de guerre, mais une [[action libre]] seulement pour la maintenir. Pour changer l’effet d’une danse de guerre et en produire un autre, le derviche doit arrêter sa danse de 
 guerre actuelle et en commencer une nouvelle par une action de mouvement. Comme dans le cas des bardes, la représentation du derviche de l’aube prend fin immédiatement s’il est tué, [[paralysé]], [[étourdi]], [[inconscient]] ou si quoi que ce soit d’autre l’empêche d’accomplir une [[action libre]] à chaque [[round]]. Le derviche ne peut pas accomplir plus d’une danse de guerre en même temps. Au niveau  10, un derviche de de l’aube peut commencer une danse de guerre par une [[action rapide]] au lieu d’une action de mouvement.
 
-Quand le derviche utilise les représentations bardiques d’[[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]], d’[[Représentations#INSPIRATIONGLORIEUSE|inspiration glorieuse]] ou
+Quand le derviche utilise les représentations bardiques d’[[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]], d’[[Représentations#INSPIRATIONGLORIEUSE|inspiration glorieuse]] ou 
 d’[[Représentations#INSPIRATIONHEROIQUE|inspiration héroïque]] sans forme de danse de guerre, elles confèrent des bonus au derviche seulement. Tous les autres types de représentation bardique s’appliquent normalement (elles affectent le barde et ses alliés ou les ennemis du barde en fonction de la situation).  Cette aptitude modifie l’aptitude standard de [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]].
 
 #### Danse du derviche (Ext)

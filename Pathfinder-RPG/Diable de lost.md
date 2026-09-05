@@ -62,5 +62,5 @@ LastModified: 2021-04-04 10:11
 
 Les diables de l’ost sont des chasseurs d’âmes qui récupèrent les biens les plus insaisissables des Enfers. Qu’il s’agisse d’âmes qui ont longtemps échappé à la capture dans les plaines de l’Averne, d’êtres damnés qui ont réussi à fuir les Enfers ou de créatures ayant renié un contrat infernal, de vastes escadrons de fiélons ailés partent à leur poursuite. Les diables de l’ost se déplacent rarement seuls, ils se regroupent en nuées qui rassemblent souvent des milliers d’individus. Ces parodies d’ange à quatre ailes forment d’énormes colonnes qui se déplacent à l’unisson, comme une bête infernale de taille colossale contrôlée par un unique cerveau.
 
-Les magaavs mesurent un mètre soixante-dix pour soixante-quinze kilos et une envergure de trois mètres. Leur souffle fétide attire des mouches qui grouillent sur tout leur corps.
+Les magaavs mesurent un mètre soixante-dix pour soixante-quinze kilos et une envergure de trois mètres. Leur souffle fétide attire des mouches qui grouillent sur tout leur corps. 
 </div></td></tr></table>

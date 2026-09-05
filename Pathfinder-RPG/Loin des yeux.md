@@ -10,12 +10,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une bande de tissu noir)
-**Portée** [[personnelle]]
-**Cible** le personnage
-**Durée** 1 minute/[[niveau]] (T), voir texte
+{s:cs}{s:OO}**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une bande de tissu noir)  
+**Portée** [[personnelle]]  
+**Cible** le personnage  
+**Durée** 1 minute/[[niveau]] (T), voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui (voir texte)
 
 Ce sort inhibe la mémoire des créatures qui ont perçu le personnage. Bien que toute créature puisse percevoir le personnage normalement, dès qu'une créature arrête de l'observer, elle doit réussir un jet de [[Volonté]] (la [[RM|résistance à la magie]] s'applique). Si elle rate, elle perd tout souvenir de la présence et des actions du personnage quand qu'il était sous l'effet de ce sort. La durée du sort citée plus haut désigne la durée durant laquelle l'effet de *loin des yeux* persiste sur le personnage, mais l'altération de mémoire est instantanée et ne peut être annulée qu’avec une magie semblable à *[[modification de mémoire]]*.

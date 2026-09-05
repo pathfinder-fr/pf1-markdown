@@ -7,9 +7,9 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux]].***
-***Voir aussi les [[pièges de rôdeur]].***
-***Voir aussi la [[Liste des sorts de rôdeurs|liste des sorts de rôdeur]].***
+<div class="fright">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux]].***  
+***Voir aussi les [[pièges de rôdeur]].***  
+***Voir aussi la [[Liste des sorts de rôdeurs|liste des sorts de rôdeur]].***  
 {s:PM0|rôdeur}**Voir les archétypes du rôdeur**&emsp;
 <li ID="rôdeur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétyperôdeur}</li>
 </div>*Pour ceux qui aiment le frisson de la chasse, seules comptent les notions de prédateurs et de proies. Qu’ils soient éclaireurs, pisteurs ou chasseurs de prime, les rôdeurs partagent de nombreuses particularités : une maîtrise inégalée de certaines armes, une grande habileté pour débusquer le gibier, même le plus inaccessible, et un savoir-faire leur permettant de venir à bout d’une grande variétés de proies. Ces chasseurs allient savoir, patience et habileté pour traquer les hommes, les bêtes ou encore les animaux. Ils développent un instinct de prédateur, un savoir-faire applicable à de multiples environnements et des capacités martiales toujours plus dangereuses. Certains chassent les créatures qui s’attaquent aux humains et protègent les frontières de la civilisation alors que d’autres se lancent à la poursuite d’un gibier plus rusé, et parfois même de fugitifs appartenant à la même communauté qu’eux.*
@@ -363,7 +363,7 @@ Un rôdeur peut également utiliser cette aptitude pour influencer une [[type Cr
 
 {s:Reference|DONDESTYLEDECOMBAT}{s:Reference|STYLEDECOMBAT}
 #### Style de combat (Ext)
-Au niveau 2, un rôdeur choisit de se spécialiser dans un des deux styles de combat suivants : *combat à deux armes* ou *combat à distance*.
+Au niveau 2, un rôdeur choisit de se spécialiser dans un des deux styles de combat suivants : *combat à deux armes* ou *combat à distance*. 
 
 {s:apg}Il peut également choisir de se spécialiser dans un des styles de combat suivants : *arbalète*, *arme à deux mains*, *arme et bouclier*, *arme naturelle ou combat monté*.
 
@@ -381,7 +381,7 @@ Si le rôdeur choisit le style de combat ***à deux armes***, il peut choisir un
 
 {s:apg}Si le rôdeur choisit le style de combat ***arme et bouclier***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Art du bouclier]], [[Frappe du bouclier]], [[Combat à deux armes]] ou [[Science du coup de bouclier]]. Au niveau 6, les dons [[Bouclier salvateur]] et [[Maîtrise du bouclier]] s'ajoutent à la liste. Au niveau 10, les dons [[Art du bouclier supérieur]] et [[Coup de bouclier opportuniste]] viennent s'ajouter à la liste.
 
-{s:apg}Si le rôdeur choisit le style de combat ***arme naturelle***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Arme de prédilection]], [[Arme naturelle supérieure]], [[Aspect bestial]] ou [[Griffes coupantes]]. Au niveau 6, les dons [[Frappe décisive]] et [[Griffes magiques]] s'ajoutent à la liste. Au niveau 10, les dons [[Attaques multiples]] et [[Science de la frappe décisive]] viennent s'ajouter à la liste.
+{s:apg}Si le rôdeur choisit le style de combat ***arme naturelle***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Arme de prédilection]], [[Arme naturelle supérieure]], [[Aspect bestial]] ou [[Griffes coupantes]]. Au niveau 6, les dons [[Frappe décisive]] et [[Griffes magiques]] s'ajoutent à la liste. Au niveau 10, les dons [[Attaques multiples]] et [[Science de la frappe décisive]] viennent s'ajouter à la liste. 
 
 {s:cs}{s:UI}Si le rôdeur choisit le style de combat ***astucieux***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat, et s'il choisit Expertise du combat, il compte comme ayant une valeur d'Intelligence de 13 afin de choisir des dons qui ont Expertise du combat comme condition : [[Esquive]], [[Expertise du combat]], [[Science de la subtilisation]] et [[Science du sale coup]]. Au niveau 6, les dons [[Sale coup supérieur]] et [[Subtilisation supérieure]] s'ajoutent à la liste. Au niveau 10, les dons [[Sale coup rapide]] et [[Subtilisation rapide]] s'ajoutent à la liste.
 
@@ -428,7 +428,7 @@ Si l’endroit où le rôdeur se trouve entre dans plusieurs catégories d’env
 
 {s:Reference|PACTEDUCHASSEUR}
 #### Pacte du chasseur (Ext)
-Au niveau 4, un lien se tisse entre le rôdeur et ses compagnons de chasse. Ce lien peut prendre l’une des deux formes suivantes. Une fois qu’une forme a été choisie, cette décision ne peut plus être modifiée.
+Au niveau 4, un lien se tisse entre le rôdeur et ses compagnons de chasse. Ce lien peut prendre l’une des deux formes suivantes. Une fois qu’une forme a été choisie, cette décision ne peut plus être modifiée. 
 
 La première forme est un lien entre le rôdeur et ses compagnons qui lui permet, en utilisant une action de mouvement, de faire bénéficier tous ses alliés distants de 9 m (6 cases) ou moins et qui peuvent le voir ou l’entendre de la moitié de son bonus d’[[rôdeur#ENNEMIJURE|ennemi juré]] contre une cible unique (appartenant au type adéquat). Ce bonus persiste pendant un nombre de rounds égal au modificateur de [[Sagesse]] du rôdeur (au minimum 1 round) et ne se cumule pas avec les bonus d’[[rôdeur#ENNEMIJURE|ennemis jurés]] que ses alliés pourraient posséder (ils ne bénéficient que du bonus le plus élevé).
 

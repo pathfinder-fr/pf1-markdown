@@ -13,6 +13,6 @@ Leur cheftaine est Ahrikvask, une meutrière trompeuse qui sait commander aux sc
 Les émissaires du Seigneur-Charognard viennent souvent à la rencontre des Al'Chorhaiv pour se renseigner sur les terres environnentes, pour se procurer des poisons et profiter des qualités d'archers et d'assassins des gnolls de la tribu.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de la tribu Al'Chorhaiv dans le supplément
+Vous pourrez trouver plus d'informations à propos de la tribu Al'Chorhaiv dans le supplément 
 - [[Aventures.Présentation AP4#AP4-1|Howl of the Carrion King/Le Hurlement du Roi Charognard]], premier volume de la campagne [[Aventures.Présentation AP4|L'Héritage de Feu]]
 {s:VoirAussiAprès}

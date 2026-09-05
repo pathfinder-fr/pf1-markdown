@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:AE}**Prix** 1 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
----
+<hr />
 Prisée par les jeunes débauchés et autres ivrognes aisés, cette poudre cristalline ressemble à du sel. Mélangée avec de l’eau, elle donne un cocktail pétillant qui annule les effets de la gueule-de-bois en 10 minutes après ingestion.

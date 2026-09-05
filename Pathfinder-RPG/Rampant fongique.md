@@ -42,52 +42,52 @@ Categories:
 {s:BDTexte|<b>Capacités défensives des plantes (Ext).</b> Comme le rampant fongique est en partie une plante, il partage plusieurs des immunités propres aux créatures plantes. Il est immunisé contre les effets mentaux, la paralysie, le poison, la métamorphose, le sommeil et l’étourdissement}
 {s:BDTexte|<b>Poison (Ext)</b>. Morsure — blessure ; JdS Vigueur DD 14 ; fréquence 1/round pendant 4 rounds ; effet  affaiblissement temporaire 1d2 For et 1d2 Con ; guérison 1 réussite. Le DD du jet de sauvegarde dépend de la Constitution.}
 
-</td><td><div>''Ce grillon géant muni de dents est couvert de moisissures à l’odeur âcre.
+</td><td><div>''Ce grillon géant muni de dents est couvert de moisissures à l’odeur âcre. 
 Il porte une sorte de chapeau de champignon sur le dos.''
 
-Les  rampants  fongiques  incarnent
-un  croisement  pervers  entre  l’animal
-et  le  végétal.  Au  fil  des  millénaires,  ils  ont
-prospéré, se sont répandus sous la surface
-et  ont  conquis  les  étendues  sauvages
-du  sous-sol.  Comme  les  hyènes,  les
-rampants  fongiques  sont  avant  tout
-des charognards. Ce sont également des chasseurs efficaces, mais ils
-se nourrissent souvent en dévorant les cadavres qu’ils croisent ou
-en dérobant le repas d’autres prédateurs. Quand la nourriture se fait
-particulièrement rare, ils peuvent même survivre sans se sustenter,
+Les  rampants  fongiques  incarnent 
+un  croisement  pervers  entre  l’animal 
+et  le  végétal.  Au  fil  des  millénaires,  ils  ont 
+prospéré, se sont répandus sous la surface 
+et  ont  conquis  les  étendues  sauvages 
+du  sous-sol.  Comme  les  hyènes,  les 
+rampants  fongiques  sont  avant  tout 
+des charognards. Ce sont également des chasseurs efficaces, mais ils 
+se nourrissent souvent en dévorant les cadavres qu’ils croisent ou 
+en dérobant le repas d’autres prédateurs. Quand la nourriture se fait 
+particulièrement rare, ils peuvent même survivre sans se sustenter, 
 en absorbant les radiations et la chaleur grâce aux champignons-conduits qui recouvrent leur abdomen.
-Il existe des milliers d’espèces de rampants fongiques à travers
-le  monde,  avec  des  apparences  et  des  comportements  variés,
-mais elles partagent toutes quelques caractéristiques communes.
-Tous les rampants ont l’apparence de grillons ou de sauterelles
-monstrueux  qui  auraient  fusionné  avec  des  moisissures  et  se
-seraient dotés d’un chapeau de champignon. Cette composition
-hybride leur permet de survivre aux conditions les plus difficiles,
-de  sorte  que  les  infestations  de  rampants  ont  la  réputation
-d’être  extrêmement  difficiles  à  éliminer  entièrement.  Comme
-leurs  dents  semblables  à  des  aiguilles  ne  leur  permettent  pas
-de  mastiquer  de  la  nourriture  solide,  ils  utilisent  des  enzymes
-digestives qu’ils injectent en mordant afin de rendre leurs repas
-plus faciles à avaler. Les spécimens moyens atteignent une taille
-de  90  cm  de  longueur  et  un  poids  de  15  kg.  Les  rampants  se
-reproduisent en libérant des spores qui restent viables pendant
-plusieurs dizaines d’années, jusqu’à ce qu’ils rentrent en contact
-avec de la matière organique et s’y développent en petites larves
+Il existe des milliers d’espèces de rampants fongiques à travers 
+le  monde,  avec  des  apparences  et  des  comportements  variés, 
+mais elles partagent toutes quelques caractéristiques communes. 
+Tous les rampants ont l’apparence de grillons ou de sauterelles 
+monstrueux  qui  auraient  fusionné  avec  des  moisissures  et  se 
+seraient dotés d’un chapeau de champignon. Cette composition 
+hybride leur permet de survivre aux conditions les plus difficiles, 
+de  sorte  que  les  infestations  de  rampants  ont  la  réputation 
+d’être  extrêmement  difficiles  à  éliminer  entièrement.  Comme 
+leurs  dents  semblables  à  des  aiguilles  ne  leur  permettent  pas 
+de  mastiquer  de  la  nourriture  solide,  ils  utilisent  des  enzymes 
+digestives qu’ils injectent en mordant afin de rendre leurs repas 
+plus faciles à avaler. Les spécimens moyens atteignent une taille 
+de  90  cm  de  longueur  et  un  poids  de  15  kg.  Les  rampants  se 
+reproduisent en libérant des spores qui restent viables pendant 
+plusieurs dizaines d’années, jusqu’à ce qu’ils rentrent en contact 
+avec de la matière organique et s’y développent en petites larves 
 de couleur pâle.
-De  nombreuses  civilisations  souterraines  entraînent  les
-rampants  fongiques  comme  «  chiens  »  de  garde,  animaux  de
-compagnie ou bétail. Malgré leur faible intelligence, ces créatures
-se laissent assez facilement entraîner, pour autant qu’elles soient
-bien  nourries.  Les  rampants  fongiques  n’éprouvent  cependant
-aucun  sentiment  de  loyauté  :  bien  souvent,  ils  fuient  ou  se
+De  nombreuses  civilisations  souterraines  entraînent  les 
+rampants  fongiques  comme  «  chiens  »  de  garde,  animaux  de 
+compagnie ou bétail. Malgré leur faible intelligence, ces créatures 
+se laissent assez facilement entraîner, pour autant qu’elles soient 
+bien  nourries.  Les  rampants  fongiques  n’éprouvent  cependant 
+aucun  sentiment  de  loyauté  :  bien  souvent,  ils  fuient  ou  se 
 retournent contre leurs maîtres à la moindre provocation.
-Grâce  aux  énergies  bizarres  qui  irradient  leur  habitat,  les
-rampants  fongiques  forment  une  espèce  incroyablement
-diversifiée. Au fil des millénaires, ils se sont adaptés à toute une
-série d’environnements : des variantes capables de voler habitent
-des failles souterraines où résonnent le vrombissement de leurs
-ailes, des espèces aquatiques écument les fonds des lacs enfouis,
-et  d’autres  encore  parviennent  à  survivre  dans  les  grottes  et  les
+Grâce  aux  énergies  bizarres  qui  irradient  leur  habitat,  les 
+rampants  fongiques  forment  une  espèce  incroyablement 
+diversifiée. Au fil des millénaires, ils se sont adaptés à toute une 
+série d’environnements : des variantes capables de voler habitent 
+des failles souterraines où résonnent le vrombissement de leurs 
+ailes, des espèces aquatiques écument les fonds des lacs enfouis, 
+et  d’autres  encore  parviennent  à  survivre  dans  les  grottes  et  les 
 réseaux de tunnels ardents tapis sous les volcans
 </div></td></tr></table>

@@ -92,7 +92,7 @@ dorée et entouré d’un halo de lames semblables à des épées,
 qu’il peut également faire tournoyer autour de son bras comme
 un bouclier à pointes. Il peut dévoiler ou dissimuler ses deux
 grandes ailes de plumes à volonté mais il n’a pas besoin d’elles
-pour voler. Elles peuvent prendre n’importe quelle couleur,.
+pour voler. Elles peuvent prendre n’importe quelle couleur,.  
 La Main n’est pas un diplomate angélique et Iomédae fait
 rarement appel à lui quand elle a besoin de quelqu’un capable de
 peser ses mots. Il était autrefois au service du seigneur empyréen

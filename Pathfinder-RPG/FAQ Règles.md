@@ -64,7 +64,7 @@ Voici quelques cas pratiques :
 ### Poison
 **Q : Est-ce que le [[DD]] d'un poison augmente si au premier round d'un combat je suis touché par 3 araignées, mais que je réussis le [[jet de sauvegarde]], puis que je suis encore touché au second round. Est-ce que les trois premières doses sont encore dans l'organisme ?**
 
-R : (Jason Bulmahn) Etant donné que tous les poisons qui ont touché sont du même type, non. Une fois qu'une personne a réussi son [[jet de sauvegarde]], tous les poisons du même type qui sont dans son organisme sont complètement détruits et toute nouvelle attaque de poison remet le [[DD]] par défaut.
+R : (Jason Bulmahn) Etant donné que tous les poisons qui ont touché sont du même type, non. Une fois qu'une personne a réussi son [[jet de sauvegarde]], tous les poisons du même type qui sont dans son organisme sont complètement détruits et toute nouvelle attaque de poison remet le [[DD]] par défaut. 
 
 {s:Reference|FAQAUTRESSAIGNEMENT}
 

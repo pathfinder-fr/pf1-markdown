@@ -23,7 +23,7 @@ Les hommes-félins préfèrent être dirigés par les membres les plus compéten
 
 **Aventuriers.** Les hommes-félins sont des pisteurs-nés et le fait que leurs tribus soient composées de chasseurs-cueilleurs les pousse souvent à devenir des rôdeurs et des druides. Toutefois ce genre de rôles ne répond pas toujours à leur amour de l’art et du spectacle, qu’il s’agisse de chant, de danse ou d’écriture. Les légendes des hommes-félins font également mention d’une riche tradition de héros qui furent de grands ensorceleurs. Les hommes-félins qui intériorisent leur soif d’aventures deviennent souvent des magiciens et des moines, nombre de ces derniers empruntant la voie du gardien agile. Si les hommes-félins chevaliers et inquisiteurs sont rares (la dévotion constante à une cause est souvent un concept impossible à concilier avec la façon de penser des hommes-félins), ceux qui choisissent ces voies ne sont jamais regardés avec mépris. Les hommes-félins comprennent que l’exploration et la connaissance de soi peuvent conduire sur bien des chemins et acceptent presque toutes les professions et manières de vivre.
 
-**Noms masculins.** Carruth, Drewan, Férus, Gerran, Nyktan, Rouqar, Zithembè.
+**Noms masculins.** Carruth, Drewan, Férus, Gerran, Nyktan, Rouqar, Zithembè.  
 **Noms féminins.** Alyara, Duline, Hoya, Jilyana, Milah, Miniri, Siphélèle, Tiyéri.
 
 {s:Reference|TRAITSSTANDARDS}

@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 3 po ; **Poids** 0,25 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 12 m (8 c) ; **Type** P ; **Spécial** —
+{s:AE}{s:UC}**Prix** 3 po ; **Poids** 0,25 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 12 m (8 c) ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
 ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 {s:Desambi|Dans l'<u>Art de la guerre</u>, cet objet est aussi appelé "tube à flèches".}Cette arme est un petit tube en métal caché dans un étui. Le tube contient un petit manche en bambou à ressort. Le personnage bénéficie d’un bonus de +2 aux tests d’[[Escamotage]] pour dissimuler un lance-flèche sur lui. Lorsqu’on relâche la détente, le ressort projette la flèche. Une fois que la flèche a été tirée, il faut recharger le tube avant de s’en servir de nouveau. Le rechargement du tube prend une [[action complexe]] ou une [[action simple]] si le porteur a le don [[Rechargement rapide]].

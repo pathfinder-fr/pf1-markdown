@@ -16,7 +16,7 @@ Categories:
 {s:BDTexte|**XP** 600}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type aéon|aéon]], [[sous-type extraplanaire|extraplanaire]]) de taille P, N}
 {s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
-{s:BDTexte|**Aura** aura d'émotion (DD12, 9 m (6 {s:c}))}
+{s:BDTexte|**Aura** aura d'émotion (DD12, 9 m (6 {s:c}))} 
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 13 (3d10-3)}

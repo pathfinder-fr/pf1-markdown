@@ -7,8 +7,8 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 5 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** Feu ; **Spécial** —
+{s:cs}{s:AA}**Prix** 5 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** Feu ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Cette paire de chaînes de la taille d’un bras possède des poignées à une extrémité et de lourdes têtes de torche imbibées de combustible à l'autre. Les poïs ne sont pas assez lourds pour infliger des dégâts physiques, mais le combustible brûlant inflige des dégâts de feu. Si le personnage est formé au maniement des poïs de guerre, il est traité comme s’il possédait le don [[Combat à deux armes]] pour effectuer des attaques de poï. Les poïs peuvent être éteint par une [[action complexe]] en les plongeant dans le sable ou dans l'eau.

@@ -11,7 +11,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Siyokoy|FP 10}
-{s:pucem|Aberration|Aquatique|Tempéré}
+{s:pucem|Aberration|Aquatique|Tempéré} 
 {s:BDTexte|*Source : Bestiaire* p.241}
 {s:BDTexte|**PX** 9 600}
 {s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille M, N}
@@ -46,7 +46,7 @@ Les siyokoys sont des créatures aquatiques ressemblant à des anguilles, que le
 
 Il existe deux espèces principales de siyokoys même si elles sont pratiquement identiques du point de vue de leurs statistiques de jeu. Les siyokoys les plus communs sont ceux qui vivent dans les grottes et sur les rochers escarpés des récifs de corail, dans des eaux océaniques relativement peu profondes. Ces siyokoys ont souvent la peau couverte de motifs colorés imitant les diverses teintes qu’affichent généralement les récifs de corail. Les siyokoys des récifs adorent décorer leurs repaires de coraux étranges ou colorés, surtout lorsque ces pousses marines sont incrustés de trésors engloutis.
 
-L’autre espèce de siyokoys, plus rare, vit dans les profonds abysses de l’océan, bien au-delà des limites que peut atteindre la lumière du soleil. Ces siyokoys ont des couleurs plus sombres et ont aussi tendance à avoir une personnalité plus ombrageuse. Ceux qui vivent dans les zones lumineuses et ensoleillées des récifs de corail peuvent être capricieux ou taquins mais ceux qui vivent dans les vastes profondeurs marines sont souvent macabres, moroses, voire sadiques. La plupart des siyokoys malveillants vivent dans les étendues océaniques oubliées du monde et du soleil.
+L’autre espèce de siyokoys, plus rare, vit dans les profonds abysses de l’océan, bien au-delà des limites que peut atteindre la lumière du soleil. Ces siyokoys ont des couleurs plus sombres et ont aussi tendance à avoir une personnalité plus ombrageuse. Ceux qui vivent dans les zones lumineuses et ensoleillées des récifs de corail peuvent être capricieux ou taquins mais ceux qui vivent dans les vastes profondeurs marines sont souvent macabres, moroses, voire sadiques. La plupart des siyokoys malveillants vivent dans les étendues océaniques oubliées du monde et du soleil. 
 
 Quel que soit l’endroit où ils vivent, les siyokoys adorent les épaves et les ruines depuis longtemps oubliées que l’océan à fait siennes. L’exploration de ces reliques et la récupération de leurs trésors étranges et merveilleux sont
 une des raisons de vivre des siyokoys. Le repaire d’un siyokoy est souvent décoré de trésors récupérés lors de ces expéditions dans les épaves de navires et dans les cités englouties. Assez curieusement, les siyokoys évitent d’établir leurs repaires dans ces ruines, surtout à cause d’une étrange superstition que toutes ces créatures partagent: les siyokoys racontent qu’il porte malheur de dormir dans un endroit où des créatures de la surface se sont noyées.

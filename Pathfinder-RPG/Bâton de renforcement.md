@@ -12,10 +12,10 @@ Categories:
 {s:APG}{s:BDTitre|Bâton de renforcement|}
 **Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 41 600 po ; **Poids** 2,5 kg
 (((Description)))
-Le sommet de ce baton de bois de rose se rétrécit avant de s'élargir à nouveau et de s'entourer de quelques anneaux de métal. Il permet au personnage d'utiliser les sorts suivants :
-• *[[arme magique suprême]]* (1 charge)
-• *[[endurance de lours|endurance de l'ours]]* (1 charge)
-• *[[force de taureau]]* (1 charge)
+Le sommet de ce baton de bois de rose se rétrécit avant de s'élargir à nouveau et de s'entourer de quelques anneaux de métal. Il permet au personnage d'utiliser les sorts suivants :  
+• *[[arme magique suprême]]* (1 charge)  
+• *[[endurance de lours|endurance de l'ours]]* (1 charge)  
+• *[[force de taureau]]* (1 charge)  
 • *[[grâce féline]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]],  *[[arme magique suprême]]*, *[[endurance de lours|endurance de l'ours]]*, *[[force de taureau]]*, *[[grâce féline]]* ; **Coût** 20 800 po

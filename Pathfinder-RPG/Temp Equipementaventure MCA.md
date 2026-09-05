@@ -4,7 +4,7 @@ Title: Equipement d'aventure - Manuel des Joueurs Classes Avancées
 LastModified: 2020-06-09 18:22
 ---
 
-L’équipement d’aventure sont décrits ci-dessous, avec tous les avantages spéciaux qu’ils apportent à l’utilisateur (« le personnage »).
+L’équipement d’aventure sont décrits ci-dessous, avec tous les avantages spéciaux qu’ils apportent à l’utilisateur (« le personnage »). 
 
 **Les trousses**. Cette section inclut plusieurs trousses d’équipement présélectionné pour chaque classe de personnage du Guide des classes, Règles avancées ou qui peut s’avérer utile dans des situations spécifiques. Le MJ peut se servir de ces trousses pour compléter rapidement l’équipement d’un PNJ. Les joueurs peuvent les utiliser pour équiper de nouveaux PJ à la hâte ou équiper rapidement les compagnons d’armes, les suivants, les sbires et les mercenaires. Le prix indiqué pour une trousse inclut une petite remise pour l’achat groupé de ces objets. Les objets d’une trousse qui ont été épuisés, détruits ou perdus se remplacent au prix fort.
 
@@ -139,13 +139,13 @@ L’équipement d’aventure sont décrits ci-dessous, avec tous les avantages s
 </center>
 *{s:Reference|NOTE1}(1)  Ces objets pèsent environ les trois-quarts du poids indiqué pour les personnages de taille P. Les contenants pour les personnages de taille P contiennent un-quart de la quantité normale.*
 
-{s:mca}{s:Reference|PLATREDECOPIEDEMPREINTE}
+{s:mca}{s:Reference|PLATREDECOPIEDEMPREINTE} 
 #### Plâtre de copie d'empreintes
 Ce plâtre à prise rapide convient parfaitement pour préserver des empreintes de pas en vue d'un examen futur. En passant 1 minute à installer le plâtre et à attendre qu'il sèche, vous pouvez copier des empreintes de pas, ce qui permettra à d'autres personnes de les examiner sans devoir se rendre sur place et sans que le DD du test de Survie visant à les analyser n'augmente à cause du temps écoulé ou du climat.
 
-{s:mca}{s:Reference|ANNEAUX DE CRYPTAGE}
+{s:mca}{s:Reference|ANNEAUX DE CRYPTAGE} 
 #### Anneaux de cryptage
-Cette paire de gros anneaux en bois est la clé d’un code de substitution fixé à la création des anneaux. Un ensemble de base se compose de deux anneaux identiques. Il est possible de créer des anneaux supplémentaires pour 4 po pièce. L’utilisation du code des anneaux de cryptage permet au personnage de créer ou de décoder un message écrit (pas de test nécessaire). Le décryptage du message sans le bon anneau nécessite un test de Linguistique DD 25.
+Cette paire de gros anneaux en bois est la clé d’un code de substitution fixé à la création des anneaux. Un ensemble de base se compose de deux anneaux identiques. Il est possible de créer des anneaux supplémentaires pour 4 po pièce. L’utilisation du code des anneaux de cryptage permet au personnage de créer ou de décoder un message écrit (pas de test nécessaire). Le décryptage du message sans le bon anneau nécessite un test de Linguistique DD 25. 
 
 {s:mca}{s:Reference|APPEAU}
 #### Appeau
@@ -157,15 +157,15 @@ Cette bouteille, qui semble être fabriquée en verre, est plus fragile qu’il 
 
 {s:mca}{s:Reference|BRACELET}
 #### Bracelet en braille
-Ce bracelet arbore dix petites perles d’agile, chacune étant gravée d’un symbole en relief. Il est possible de retirer ces perles du cordon du bracelet pour les réarranger dans l’ordre voulu. Une fois qu’elles ont été réarrangées, on peut lire les gravures du bout des doigts afin de déterminer la signification du symbole et de déchiffrer le message transmis grâce au bracelet. Une seule perle ne peut délivrer qu’un simple message tandis que plusieurs perles peuvent former des messages plus complexes. L’interprétation des perles permet à plusieurs individus de communiquer dans le silence le plus absolu, même dans les ténèbres complètes ou lorsqu’ils sont autrement incapables de voir. Pour utiliser les perles correctement, le personnage et ses alliés doivent assigner une signification à chaque perle avant de se servir du bracelet de cette manière. Pour se rappeler le message d’une seule perle, il faut réussir un test d’Intelligence DD 10. Pour transmettre des messages plus compliqués, augmentez la difficulté de ce test de 2 pour chaque perle supplémentaire utilisée. Il sera pratiquement impossible pour une créature ne connaissant pas la signification assignée aux différentes perles de déchiffrer le message : le DD est augmenté de 20.
+Ce bracelet arbore dix petites perles d’agile, chacune étant gravée d’un symbole en relief. Il est possible de retirer ces perles du cordon du bracelet pour les réarranger dans l’ordre voulu. Une fois qu’elles ont été réarrangées, on peut lire les gravures du bout des doigts afin de déterminer la signification du symbole et de déchiffrer le message transmis grâce au bracelet. Une seule perle ne peut délivrer qu’un simple message tandis que plusieurs perles peuvent former des messages plus complexes. L’interprétation des perles permet à plusieurs individus de communiquer dans le silence le plus absolu, même dans les ténèbres complètes ou lorsqu’ils sont autrement incapables de voir. Pour utiliser les perles correctement, le personnage et ses alliés doivent assigner une signification à chaque perle avant de se servir du bracelet de cette manière. Pour se rappeler le message d’une seule perle, il faut réussir un test d’Intelligence DD 10. Pour transmettre des messages plus compliqués, augmentez la difficulté de ce test de 2 pour chaque perle supplémentaire utilisée. Il sera pratiquement impossible pour une créature ne connaissant pas la signification assignée aux différentes perles de déchiffrer le message : le DD est augmenté de 20. 
 
 {s:mca}{s:Reference|CALUMET}
 #### Calumet
-Le calumet est une pipe de cérémonie en deux parties, avec un fourneau taillé dans la pierre ou l’argile et un tuyau en bois aux gravures complexes et auquel pendent des fétiches. On transporte généralement la pipe dans une blague en cuir ornée de perles, de motifs et de babioles. La pipe permet de fumer différents mélanges à base de plantes pour certains rituels. On fume parfois le calumet en groupe lors des réunions diplomatiques, afin de signifier la solidarité qui existe entre les différents partis. Le personnage gagne un bonus de circonstances de +1 aux tests de Diplomatie contre quiconque partage ainsi son calumet.
+Le calumet est une pipe de cérémonie en deux parties, avec un fourneau taillé dans la pierre ou l’argile et un tuyau en bois aux gravures complexes et auquel pendent des fétiches. On transporte généralement la pipe dans une blague en cuir ornée de perles, de motifs et de babioles. La pipe permet de fumer différents mélanges à base de plantes pour certains rituels. On fume parfois le calumet en groupe lors des réunions diplomatiques, afin de signifier la solidarité qui existe entre les différents partis. Le personnage gagne un bonus de circonstances de +1 aux tests de Diplomatie contre quiconque partage ainsi son calumet. 
 
 {s:mca}{s:Reference|COLONIE}
 #### Colonie de scarabées charognards
-Ce bocal en verre abrite une colonie de scarabées charognards carnivores qu’il faut nourrir d’au moins 125 grammes de  viande par jour, sans quoi ils meurent. Quand on les libère sur un organisme mort, ils le déchiquètent et en dévorent la chair en 1d4 jours, ne laissant que es os derrière eux. Les scarabées charognards ne mangent que la chair morte, ils ne peuvent pas blesser les créatures vivantes. Une fois qu’ils ont été libérés, il est impossible de les remettre dans le bocal.
+Ce bocal en verre abrite une colonie de scarabées charognards carnivores qu’il faut nourrir d’au moins 125 grammes de  viande par jour, sans quoi ils meurent. Quand on les libère sur un organisme mort, ils le déchiquètent et en dévorent la chair en 1d4 jours, ne laissant que es os derrière eux. Les scarabées charognards ne mangent que la chair morte, ils ne peuvent pas blesser les créatures vivantes. Une fois qu’ils ont été libérés, il est impossible de les remettre dans le bocal. 
 
 {s:mca}{s:Reference|CORDON}
 #### Cordon à grimoire
@@ -173,7 +173,7 @@ Cette ganse métallique est dotée d’une boucle qui se fixe au verrou d’un g
 
 {s:mca}{s:Reference|ÉPISSOIR}
 #### Épissoir
-Ces pointes en métal poli peuvent aider le personnage à réaliser divers cordages, y compris à faire et à défaire des noeuds, à démêler des choses, à épisser ou à jauger les cordes. Une pointe normale mesure entre 15 et 30 centimètres de long, elle est dotée d’une tête fuselée presque aussi fine qu’une aiguille et elle est émoussée aux deux bouts. Les pointes plus petites sont accrochées à un cordon tandis que les pointes plus grandes sont conservées dans un étui. L’épissoir accorde un bonus de circonstances de +2 aux tests de compétences du personnage impliquant l’utilisation d’une corde.
+Ces pointes en métal poli peuvent aider le personnage à réaliser divers cordages, y compris à faire et à défaire des noeuds, à démêler des choses, à épisser ou à jauger les cordes. Une pointe normale mesure entre 15 et 30 centimètres de long, elle est dotée d’une tête fuselée presque aussi fine qu’une aiguille et elle est émoussée aux deux bouts. Les pointes plus petites sont accrochées à un cordon tandis que les pointes plus grandes sont conservées dans un étui. L’épissoir accorde un bonus de circonstances de +2 aux tests de compétences du personnage impliquant l’utilisation d’une corde. 
 
 {s:mca}{s:Reference|ÉTUI}
 #### Étui de manche
@@ -185,20 +185,20 @@ Ce fourreau en cuir orné est couvert de lignes et de colonnes d’inscriptions 
 
 {s:mca}{s:Reference|GRAISSE}
 #### Graisse de lutteur
-Quand le personnage l’applique sur son corps, cette huile pâle faite de graisse animale le rend plus difficile à saisir. Lorsqu’il est recouvert de cette graisse, il gagne un bonus de +4 au DMD contre les manoeuvresoffensives de lutte. L’application de la graisse prend 1 minute et, une fois appliquée, ses effets durent 10 minutes. Le personnage ne peut pas porter d’armure s’il veut profiter des avantages de la graisse de lutteur. Elle est généralement vendue dans de petits pots en argile contenant cinq applications.
+Quand le personnage l’applique sur son corps, cette huile pâle faite de graisse animale le rend plus difficile à saisir. Lorsqu’il est recouvert de cette graisse, il gagne un bonus de +4 au DMD contre les manoeuvresoffensives de lutte. L’application de la graisse prend 1 minute et, une fois appliquée, ses effets durent 10 minutes. Le personnage ne peut pas porter d’armure s’il veut profiter des avantages de la graisse de lutteur. Elle est généralement vendue dans de petits pots en argile contenant cinq applications. 
 
 {s:mca}{s:Reference|HÔPITAL}
 
 #### Hôpital mobile
-Cet ensemble pour chariot comporte tout l’équipement nécessaire pour soigner jusqu’à 10 malades ou blessés à la fois. Il inclut deux grandes tentes, dix lits de camp avec sac de couchage, une table robuste, une trousse du chirurgien et cinq trousses de premiers secours. Cet hôpital accorde à quiconque l’utilise un bonus de +2 aux tests de Premiers secours pour effectuer les premiers soins, il peut servir à traiter les blessures graves avec une seule utilisation d’une trousse du chirurgien au lieu de deux et il double le rythme auquel les patients récupèrent en soins à long terme.
+Cet ensemble pour chariot comporte tout l’équipement nécessaire pour soigner jusqu’à 10 malades ou blessés à la fois. Il inclut deux grandes tentes, dix lits de camp avec sac de couchage, une table robuste, une trousse du chirurgien et cinq trousses de premiers secours. Cet hôpital accorde à quiconque l’utilise un bonus de +2 aux tests de Premiers secours pour effectuer les premiers soins, il peut servir à traiter les blessures graves avec une seule utilisation d’une trousse du chirurgien au lieu de deux et il double le rythme auquel les patients récupèrent en soins à long terme. 
 
 {s:mca}{s:Reference|JARDIN}
 #### Jardin de voyage
-Cet ensemble pour chariot lourd inclut des boîtes et des pots spéciaux pour faire pousser une grande variété de plantes, en plus de l’espace qu’il faut pour accueillir une paire d’animaux, comme des chèvres, et leur nourriture. Le jardin de voyage apporte nourriture et plantes médicinales. Il fonctionne de la même façon qu’une trousse de premiers secours, autorisant jusqu’à cinq utilisations par jour, et n’est jamais épuisé. En outre, ceux qui ingèrent tous les jours une variété de plantes et de légumes frais issus de ce jardin bénéficient d’un bonus de +1 aux jets de sauvegarde contre la maladie.
+Cet ensemble pour chariot lourd inclut des boîtes et des pots spéciaux pour faire pousser une grande variété de plantes, en plus de l’espace qu’il faut pour accueillir une paire d’animaux, comme des chèvres, et leur nourriture. Le jardin de voyage apporte nourriture et plantes médicinales. Il fonctionne de la même façon qu’une trousse de premiers secours, autorisant jusqu’à cinq utilisations par jour, et n’est jamais épuisé. En outre, ceux qui ingèrent tous les jours une variété de plantes et de légumes frais issus de ce jardin bénéficient d’un bonus de +1 aux jets de sauvegarde contre la maladie. 
 
 {s:mca}{s:Reference|MEULE}
 #### Meule à bras circulaire
-Cette paire de petites meules en pierre permet à l’utilisateur de réduire de nombreuses substances en une poudre fine. La quantité de poudre produite par la meule varie en fonction de la substance concassée mais le personnage peut moudre 4 kg de farine en une heure.
+Cette paire de petites meules en pierre permet à l’utilisateur de réduire de nombreuses substances en une poudre fine. La quantité de poudre produite par la meule varie en fonction de la substance concassée mais le personnage peut moudre 4 kg de farine en une heure. 
 
 {s:mca}{s:Reference|MISSEL}
 #### Missel de guerre
@@ -210,28 +210,28 @@ Les oboles sont de petites pièces en argent ou en or embossées d’un symbole 
 
 {s:mca}{s:Reference|POMPE}
 #### Pompe à incendie
-Cet ensemble pour chariot lourd comporte une cuve d’eau, une plateforme de pompe et une lance rotative. Si l’utilisateur réussit un test de Force DD 20, la pompe à incendie libère un jet d’eau d’une portée maximale de 9 mètres. Chaque personne qui aide au maniement de la pompe diminue le DD de 5. Il faut une action complexe pour utiliser la pompe ou aider à son utilisation. La pompe éteint une case de 1,5 mètre de côté par round si le feu n’a rien de magique. La citerne contient suffisamment d’eau pour pomper pendant 10 rounds et il faut 10 minutes pour la remplir à partir d’un cours d’eau, d’un étang, d’un lac ou d’une autre étendue d’eau.
+Cet ensemble pour chariot lourd comporte une cuve d’eau, une plateforme de pompe et une lance rotative. Si l’utilisateur réussit un test de Force DD 20, la pompe à incendie libère un jet d’eau d’une portée maximale de 9 mètres. Chaque personne qui aide au maniement de la pompe diminue le DD de 5. Il faut une action complexe pour utiliser la pompe ou aider à son utilisation. La pompe éteint une case de 1,5 mètre de côté par round si le feu n’a rien de magique. La citerne contient suffisamment d’eau pour pomper pendant 10 rounds et il faut 10 minutes pour la remplir à partir d’un cours d’eau, d’un étang, d’un lac ou d’une autre étendue d’eau. 
 
 {s:mca}{s:Reference|PRISON}
 #### Prison portable
-Cet ensemble pour chariot comporte une série de barres métalliques avec une porte pour transporter les personnes ou créatures emprisonnées. Si, au départ, les prisons portables ont été développées par les troupes itinérantes pour retenir les animaux féroces, les gardes urbains les utilisent souvent pour rassembler les criminels et certains chasseurs de prime les louent pour transporter de grands groupes de prisonniers. La plupart de ces prisons sont équipées de verrous : ajoutez le coût du verrou voulu au coût de la prison portable. Une cage prévue pour des personnes inclut des bancs et une rampe pour les menottes. Une cage prévue pour des animaux inclut une auge pour l’eau et une petite ouverture pour le passage de la nourriture.
+Cet ensemble pour chariot comporte une série de barres métalliques avec une porte pour transporter les personnes ou créatures emprisonnées. Si, au départ, les prisons portables ont été développées par les troupes itinérantes pour retenir les animaux féroces, les gardes urbains les utilisent souvent pour rassembler les criminels et certains chasseurs de prime les louent pour transporter de grands groupes de prisonniers. La plupart de ces prisons sont équipées de verrous : ajoutez le coût du verrou voulu au coût de la prison portable. Une cage prévue pour des personnes inclut des bancs et une rampe pour les menottes. Une cage prévue pour des animaux inclut une auge pour l’eau et une petite ouverture pour le passage de la nourriture. 
 
 {s:mca}{s:Reference|RECUEIL}
 #### Recueil d'énigmes
-Chaque recueil contient dix énigmes destinées à mettre l’esprit à l’épreuve et à stimuler l’intellect. La résolution d’une seule énigme prend au moins une heure et nécessite de réussir un test d’Intelligence DD 10, quoiqu’à chaque fois que le personnage dépasse le DD de 5, le temps de résolution de l’énigme se réduit de 10 minutes (jusqu’à un minimum de 10 minutes pour résoudre une énigme). Une fois que le personnage a résolu une énigme, il peut décider, au cours des 24 heures qui suivent, de lancer deux fois le dé sur un test de Connaissances, de Psychologie ou de Sabotage et de garder le meilleur résultat. Une fois que toutes les énigmes ont été résolues, le recueil n’est plus d’aucune utilité mais le personnage peut toujours en acheter un autre, avec des énigmes différentes.
+Chaque recueil contient dix énigmes destinées à mettre l’esprit à l’épreuve et à stimuler l’intellect. La résolution d’une seule énigme prend au moins une heure et nécessite de réussir un test d’Intelligence DD 10, quoiqu’à chaque fois que le personnage dépasse le DD de 5, le temps de résolution de l’énigme se réduit de 10 minutes (jusqu’à un minimum de 10 minutes pour résoudre une énigme). Une fois que le personnage a résolu une énigme, il peut décider, au cours des 24 heures qui suivent, de lancer deux fois le dé sur un test de Connaissances, de Psychologie ou de Sabotage et de garder le meilleur résultat. Une fois que toutes les énigmes ont été résolues, le recueil n’est plus d’aucune utilité mais le personnage peut toujours en acheter un autre, avec des énigmes différentes. 
 
 {s:mca}{s:Reference|RUCHE}
 #### Ruche de voyage
 Ces paniers de paille offrent une maison portable aux abeilles. Ce sont des paniers en dôme pourvus d’un trou au sommet, qu’un petit rabat tressé permet de recouvrir. Ce trou permet de récolter de petites quantités de miel sans détruire l’intégralité de la ruche. Certains fermiers pensant que les abeilles offrent un meilleur rendement aux champs et paient des apiculteurs pour que ceux-ci viennent jusqu’à leurs fermes avec leurs abeilles.
-La destruction d’une ruche pousse les abeilles à se regrouper en essaim, créant un nuage de 1,5 mètre de rayon. Les créatures sont aveuglées et, tant qu’elles restent dans le nuage d’abeilles, doivent réussir un jet de Vigueur DD 12 pour ne pas être fiévreuses pendant 1 minute. L’état fiévreux est un effet de poison.
+La destruction d’une ruche pousse les abeilles à se regrouper en essaim, créant un nuage de 1,5 mètre de rayon. Les créatures sont aveuglées et, tant qu’elles restent dans le nuage d’abeilles, doivent réussir un jet de Vigueur DD 12 pour ne pas être fiévreuses pendant 1 minute. L’état fiévreux est un effet de poison. 
 
 {s:mca}{s:Reference|TABATIÈRE}
 #### Tabatière
-Le couvercle articulé de cette toute petite boîte ornée forme un sceau étanche quand il est fermé. La boîte peut contenir diverses prises de tabac, des poudres, du tabac et d’autres substances similaires. Elle peut être faite dans n’importe quel matériau, du bois à l’ivoire en passant par les métaux précieux enchâssés de gemmes.
+Le couvercle articulé de cette toute petite boîte ornée forme un sceau étanche quand il est fermé. La boîte peut contenir diverses prises de tabac, des poudres, du tabac et d’autres substances similaires. Elle peut être faite dans n’importe quel matériau, du bois à l’ivoire en passant par les métaux précieux enchâssés de gemmes. 
 
 {s:mca}{s:Reference|TOME}
 #### Tome d'épopées
-Ce gros livre à la couverture huilée est orné de scènes de combat glorieux entre d’antiques héros et des monstres féroces. Il contient plusieurs contes parlant de courage, de défaite et de victoire, tous accompagnés d’illustrations hautes en couleurs. Après avoir consulté le livre pendant 1 heure, le personnage bénéficie d’un bonus de +2 en Représentation (déclamation) et en Représentation (voix) ainsi que d’un bonus de circonstances de +2 aux tests de Connaissances (noblesse) relatifs aux lignées héroïques pendant les 24 heures qui suivent.
+Ce gros livre à la couverture huilée est orné de scènes de combat glorieux entre d’antiques héros et des monstres féroces. Il contient plusieurs contes parlant de courage, de défaite et de victoire, tous accompagnés d’illustrations hautes en couleurs. Après avoir consulté le livre pendant 1 heure, le personnage bénéficie d’un bonus de +2 en Représentation (déclamation) et en Représentation (voix) ainsi que d’un bonus de circonstances de +2 aux tests de Connaissances (noblesse) relatifs aux lignées héroïques pendant les 24 heures qui suivent. 
 
 {s:mca}{s:Reference|TRAMPOLINE}
 #### Trampoline pliant
@@ -241,13 +241,13 @@ Ce trampoline compact se démonte et s’enroule comme une tente pour faciliter 
 #### Trousse d'arcaniste
 Cette trousse inclut un sac à dos, un sac de couchage, une bourse, une amorce et un silex, de l’encre, une plume d’écriture, un pot en fer, un kit repas<sup>A&E</sup>, un savon, une sacoche à composantes, des torches (10), des rations de survie (5 jours) et une outre. Elle ne contient pas de grimoire car l’arcaniste commence le jeu avec un grimoire et n’a pas besoin d’en acheter un.
 
-{s:mca}{s:Reference|D’ENQUÊTEUR}
+{s:mca}{s:Reference|D’ENQUÊTEUR} 
 #### Trousse d'enquêteur
 Cette trousse contient une sacoche de l’alchimiste, un sac à dos, un sac de couchage, une bourse, une amorce et un silex, de l’encre, une plume d’écriture, un pot en fer, un kit repas<sup>A&E</sup>, un savon, des torches (10), des rations de survie (5 jours) et une outre. Elle ne contient pas de livre de formules car l’enquêteur commence le jeu avec un livre de formules et n’a pas besoin d’en acheter un.
 
 {s:mca}{s:Reference|BRETTEUR}
 #### Trousse de bretteur
-Cette trousse contient un sac à dos, un sac de couchage, une bourse, une amorce et un silex, un pot en fer, un kit repas<sup>A&E</sup>, une corde, un savon, des torches (10), des rations de survie (5 jours) et une outre.
+Cette trousse contient un sac à dos, un sac de couchage, une bourse, une amorce et un silex, un pot en fer, un kit repas<sup>A&E</sup>, une corde, un savon, des torches (10), des rations de survie (5 jours) et une outre. 
 
 {s:mca}{s:Reference|CHAMAN }
 #### Trousse de chaman
@@ -275,19 +275,19 @@ Cette trousse contient un sac à dos, un sac de couchage, une bourse, un texte s
 
 {s:mca}{s:Reference|SANGUIN}
 #### Trousse de sanguin
-Cette trousse inclut un sac à dos, une couverture, une bourse, une amorce et un silex, un pot en fer, un savon, des torches (10), des rations de survie (5 jours) et une outre.
+Cette trousse inclut un sac à dos, une couverture, une bourse, une amorce et un silex, un pot en fer, un savon, des torches (10), des rations de survie (5 jours) et une outre. 
 
 {s:mca}{s:Reference|SCALDE}
 #### Trousse de scalde
-Cette trousse contient un sac à dos, un sac de couchage, une bourse, un instrument de musique courant, une amorce et un silex, un pot en fer, un kit repasA&E, un miroir, une corde, un savon, une sacoche à composantes, des torches (10), des rations de survie (5 jours) et une outre.
+Cette trousse contient un sac à dos, un sac de couchage, une bourse, un instrument de musique courant, une amorce et un silex, un pot en fer, un kit repasA&E, un miroir, une corde, un savon, une sacoche à composantes, des torches (10), des rations de survie (5 jours) et une outre. 
 
 {s:mca}{s:Reference|TUEUR}
 #### Trousse de tueur
-Cette trousse contient un sac à dos, un sac de couchage, une bourse, une amorce et un silex, un pot en fer, des menottes, un kit repasA&E, une corde, des torches (10), des rations de survie (5 jours) et une outre.
+Cette trousse contient un sac à dos, un sac de couchage, une bourse, une amorce et un silex, un pot en fer, des menottes, un kit repasA&E, une corde, des torches (10), des rations de survie (5 jours) et une outre. 
 
 {s:mca}{s:Reference|Tyrolienne}
 #### Tyrolienne
-Le personnage peut placer cet engin métallique sur une section de corde tendue reliant un point surélevé à un point situé en contrebas. L’utilisation d’une tyrolienne ne requiert qu’une seule main, ce qui laisse l’autre main libre pour la descente. Il faut une action de mouvement pour fixer la tyrolienne à une corde. Il faut une action rapide pour amorcer la descente. Le personnage glisse le long de la corde à un rythme de 18 mètres par round. Cela ne nécessite aucune action de sa part mais il doit se déplacer le long de la corde en descendant. Il faut une action de mouvement pour retirer la tyrolienne une fois que le personnage s’est arrêté au bout de la corde. Il peut lâcher la tyrolienne par une action libre.
+Le personnage peut placer cet engin métallique sur une section de corde tendue reliant un point surélevé à un point situé en contrebas. L’utilisation d’une tyrolienne ne requiert qu’une seule main, ce qui laisse l’autre main libre pour la descente. Il faut une action de mouvement pour fixer la tyrolienne à une corde. Il faut une action rapide pour amorcer la descente. Le personnage glisse le long de la corde à un rythme de 18 mètres par round. Cela ne nécessite aucune action de sa part mais il doit se déplacer le long de la corde en descendant. Il faut une action de mouvement pour retirer la tyrolienne une fois que le personnage s’est arrêté au bout de la corde. Il peut lâcher la tyrolienne par une action libre. 
 
 {s:mca}{s:Reference|Veste}
 #### Veste en liège

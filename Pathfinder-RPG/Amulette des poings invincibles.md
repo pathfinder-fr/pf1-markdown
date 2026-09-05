@@ -14,14 +14,14 @@ Categories:
 
 [[FAQ- Manuel des joueurs (Équipement et objets magiques)#3|→]] *Amulette des poings invincibles* : Le prix de cet objet est-il correct ?**'
 
-L’équipe de conception a décidé de réduire le prix de <u>[[Amulette des poings invincibles|cet objet]]</u>. Les nouveaux prix sont comme suit : 4.000 po (+1), 16.000 po (+2), 36.000 po (+3), 64.000 po (+4), 100.000 po (+5). Par conséquent, cela réduit le coût de fabrication de ces amulettes, comme suit : 2.000 po (+1), 8.000 po (+2), 18.000 po (+3), 32.000 po (+4), 50.000 po (+5).
-Cela rend le prix de cet objet un peu plus compétitif pour les moines et les créatures qui se basent sur les attaques naturelles.
+L’équipe de conception a décidé de réduire le prix de <u>[[Amulette des poings invincibles|cet objet]]</u>. Les nouveaux prix sont comme suit : 4.000 po (+1), 16.000 po (+2), 36.000 po (+3), 64.000 po (+4), 100.000 po (+5). Par conséquent, cela réduit le coût de fabrication de ces amulettes, comme suit : 2.000 po (+1), 8.000 po (+2), 18.000 po (+3), 32.000 po (+4), 50.000 po (+5).  
+Cela rend le prix de cet objet un peu plus compétitif pour les moines et les créatures qui se basent sur les attaques naturelles.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around). Les prochaines impressions du Manuel des joueurs, du Guide des PNJ, et d’Armes et équipement seront mises à jour avec cette information.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#4|→]] *Amulette des poings invincibles* : Permet-elle aux attaques naturelles d’une créature d’ignorer la réduction de dégâts si le bonus d’altération est suffisamment élevé (comme écrit à la page 569) ?***
 
 Oui. Si l’<u>[[Amulette des poings invincibles|amulette]]</u> confère au moins un bonus d’altération de +3 elle permet aux attaques naturelles d’une créature d’ignorer la réduction de dégâts [[fer froid]] et [[argent]]. S’il est de +4, elle leur permet d’ignorer la réduction de dégâts [[adamantium]] (mais pas sa solidité), et s’il est de +5, elle leur permet d’ignorer la réduction de dégâts basée sur l’alignement.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#1|→]] *Amulette des poings invincibles* : Si une créature avec plusieurs attaques naturelles (comme morsure/griffe/griffe) porte une amulette avec la propriété *rapide*, obtient-t-elle une attaque supplémentaire avec chacune de ses armes naturelles ?***
 
 Non... principalement parce que cette combinaison serait bien trop puissante pour les monstres avec plusieurs attaques, et le serait encore plus pour chaque attaque naturelle supplémentaire que le monstre possède. Doubler le nombre d’attaques par round d’une créature est extrêmement fort, même pour 80 000 po (le prix d’une amulette +4). *(Retour à l'<u>[[Amulette des poings invincibles|objet]]</u>)*}Cette amulette confère un [[bonus daltération|bonus d’altération]] de +1 à +5 sur les [[jet dattaque|jets d’attaque]] et de dégâts à mains nues et avec des armes naturelles.

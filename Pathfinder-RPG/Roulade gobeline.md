@@ -12,7 +12,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]]
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]] 
 
 **Avantage.** Si le personnage est touché par une arme de mêlée, il peut tenter de convertir une partie ou la totalité des dégâts en un mouvement qui l’envoie valdinguer en roulant et en rebondissant de manière incontrôlable. Pour ce faire, le personnage doit effectuer un test d’[[Acrobaties]] ([[DD]] 5 + les dégâts subis par l’attaque) par une [[action immédiate]]. S’il réussit son test, le personnage ne subit aucun des dégâts normalement infligés par cette attaque, mais peut à la place les convertir en mouvement de la façon suivante : 1 point de dégâts = 30 centimètres de déplacement. Par exemple, au lieu de subir 6 points de dégâts, le personnage peut les convertir en 1,80 mètre de déplacement. Il peut se déplacer immédiatement en ligne droite dans la direction de son choix et de la distance déterminée (arrondi au carré de 1,50 mètre de côté supérieur), sans toutefois dépasser sa vitesse de déplacement normale. Si un obstacle ou une créature de sa taille ou plus grande se trouve sur la trajectoire de ce déplacement, il doit s’arrêter immédiatement avant, subit 1d4 points de dégâts et tombe au sol sur cette case. Ce déplacement involontaire provoque des [[attaque dopportunité|attaques d’opportunité]] comme à l’accoutumée si le personnage se déplace au travers de cases contrôlées par des adversaires, mais il n’en provoque aucune de la part de la créature dont l’attaque a déclenché ce don.
 

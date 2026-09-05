@@ -45,7 +45,7 @@ gigantesque de sa cousine beaucoup plus petite et plus courante. Alors
 que les attrape-mouches de taille normale assurent leur croissance
 en dévorant des insectes, les attrape-mouches géants font de même
 avec les animaux, les humanoïdes et toutes les autres créatures assez
-imprudentes pour s’en approcher.
+imprudentes pour s’en approcher. 
 
 Les légendes locales donnent à
 cette plante des noms tels que attrape-hommes, mâchoires féroces,
@@ -58,7 +58,7 @@ a dû se transformer en un chasseur beaucoup plus agressif que sa
 cousine. Elle peut se traîner lentement sur le sol en agitant ses racines
 comme s’il s’agissait de tentacules afin de se gagner un terrain de
 chasse plus peuplé, et elle parvient assez bien à se fondre dans la
-végétation environnante.
+végétation environnante. 
 
 Les mâchoires et les tiges d’un
 attrape-mouches géant se déplacent très rapidement :

@@ -21,8 +21,8 @@ Categories:
 
 [[FAQ- lArt de la magie#41|→]] Froide frappe de glace (page 228): Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?**'
 
-Les Composantes devraient être : V, G.
-Le Temps d’incantation est 1 action rapide.
+Les Composantes devraient être : V, G.  
+Le Temps d’incantation est 1 action rapide.  
 La Portée devrait être 9 m et la Zone d’effet devrait être une ligne de 9 m. Toutes les références à un « cône » dans la description du sort devraient indiquer « ligne ».
 
 Mise à jour : Page 228, <u>*[[froide frappe de glace]]*</u>, après Temps d’incantation, ajoutez une ligne avec « Composantes V, G ». Remplacez la Portée par « 9 m ». Remplacez la Zone d’effet par « ligne de 9 m ». Remplacez les deux itérations de « cône » dans la description du sort par « ligne ».

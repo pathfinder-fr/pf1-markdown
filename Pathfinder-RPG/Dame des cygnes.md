@@ -34,7 +34,7 @@ LastModified: 2017-06-10 07:29
 - **Environnement **marais ou lacs tempérés
 - **Organisation **solitaire, couple ou volée (3-10)
 - **Trésor** standard (chemise de maille, rapière de maître, arc long avec 20 flèches, autres trésors)
-(((Pouvoirs spéciaux)))
+(((Pouvoirs spéciaux))) 
 - **Cape de plumes (Sur)**. Sans sa cape de plumes, une dame des cygnes ne peut utiliser son pouvoir de changement de forme.
 - **Rituel de transformation (Sur)**. Une dame des cygnes peut transformer une femme humanoïde volontaire d’alignement Bon en une dame des cygnes grâce à l’accomplissement d’un rituel long de 24 heures. L’humanoïde transformé perd ses capacités de classe et ses traits raciaux.
 
@@ -43,7 +43,7 @@ LastModified: 2017-06-10 07:29
 </td><td><div>
 *Cette grande femme à l’allure régalienne porte une longue cape de plumes de cygne d’un blanc immaculé, une armure argentée et un heaume ailé.*
 
-Les dames des cygnes sont des fées métamorphes qui ont voué leur vie à la protéger les contrées sauvages contre les déprédations de la civilisation ou du mal. Elles vivent au sein de petites volées sur les berges de lacs isolés.
+Les dames des cygnes sont des fées métamorphes qui ont voué leur vie à la protéger les contrées sauvages contre les déprédations de la civilisation ou du mal. Elles vivent au sein de petites volées sur les berges de lacs isolés. 
 
 Une dame des cygnes à qui l’on dérobe sa cape de plumes perd son pouvoir de changement de forme, c’est pourquoi la plupart d’entre elles évitent tout contact avec les humanoïdes et n’hésitent pas à porter armes et armures pour se défendre contre toute agression.
 </div></td></tr></table>

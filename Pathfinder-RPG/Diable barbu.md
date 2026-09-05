@@ -48,7 +48,7 @@ Categories:
 Les diables barbus ou barbazus sont les guerriers d’élite des
 légions de l’Enfer. Ils combattent sauvagement au nom de leurs
 seigneurs infernaux et commandent des hordes de damnés
-dénués d’intelligence au cours des affrontements.
+dénués d’intelligence au cours des affrontements. 
 
 C’est dans les
 salles de la troisième strate de l’Enfer, Érébus, qu’ils acquièrent
@@ -59,7 +59,7 @@ servir aux côtés de l’effroyable seigneur Barbatos.
 Les barbazus aiment charger et attaquer avec leur coutille.
 Ils tentent de maintenir une distance de 3 mètres entre eux et
 leurs ennemis afin de pouvoir utiliser leur arme de prédilection
-le plus efficacement possible.
+le plus efficacement possible. 
 
 Lorsqu’ils affrontent un ennemi
 bénéficiant d’une allonge supérieure (ou un ennemi contre lequel

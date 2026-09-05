@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:12
 {s:BDTitre|Tunique en peau de serpent|{s:AE}}
 **Aura** [[Abjuration]] et [[Transmutation]] modérées ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 8.000 po ; **Poids** 1 kg
 (((Description)))
-Cette chemise moulante est taillée dans la peau écailleuse d’un serpent géant. Elle confère à son porteur un bonus d’armure de +1 à la [[CA]], un bonus d’altération de +2 à la [[Dextérité]] et un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre le poison.
+Cette chemise moulante est taillée dans la peau écailleuse d’un serpent géant. Elle confère à son porteur un bonus d’armure de +1 à la [[CA]], un bonus d’altération de +2 à la [[Dextérité]] et un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre le poison. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[grâce féline]]*, *[[ralentissement du poison]]* ; **Coût** 4.000 po
 </div>

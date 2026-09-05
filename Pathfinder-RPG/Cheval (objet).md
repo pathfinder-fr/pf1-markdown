@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po (poney), 45 po (poney, entraîné au combat), 75 po (léger), 110 po (léger, entraîné au combat), 200 po (lourd), 300 po (lourd, entraîné au combat) ; **Poids** 400 kg (poney), 450 kg (poney, entraîné au combat), 450 kg (léger), 600 kg (léger, entraîné au combat), 1 000 kg (lourd), 1 500 kg (lourd, entraîné au combat)
+{s:AE}**Prix** 30 po (poney), 45 po (poney, entraîné au combat), 75 po (léger), 110 po (léger, entraîné au combat), 200 po (lourd), 300 po (lourd, entraîné au combat) ; **Poids** 400 kg (poney), 450 kg (poney, entraîné au combat), 450 kg (léger), 600 kg (léger, entraîné au combat), 1 000 kg (lourd), 1 500 kg (lourd, entraîné au combat)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ce quadrupède de taille G est utilisé comme monture et animal de bât. Les chevaux peuvent être entraînés pour la guerre mais, sinon, les champs de batailles les rendent nerveux. Beaucoup de cultures mènent des programmes d’élevage et considèrent souvent leur cheval comme étant le meilleur pour la tâche pour laquelle il a été dressé.  
   
 *Cheval léger*. Ces chevaux peuvent être montés mais servent souvent de chevaux de bât ou d’attelage. Voir les statistiques du [[cheval]].  

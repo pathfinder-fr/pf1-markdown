@@ -7,7 +7,7 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**Prix** 15 po ; **Poids** 1 kg
+{s:RSE}**Prix** 15 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Plus petite que la [[Lanterne à capote (objet)|lanterne à capote]], la lanterne de mineur [[Exploration#VISIONLUMIERE|éclaire normalement]] un cône de neuf mètres et augmente la luminosité ambiante d'un degré au-delà de cette zone dans un cône de dix-huit mètres (les ténèbres se transforment en faible lumière et une faible lumière en lumière normale). La lanterne de mineur n'augmente pas la luminosité d'une zone de lumière vive ou normale. Elle brûle le contenu de son réservoir d'un demi-litre en six heures. Elle est doté de lanières pour l'attacher à un casque ou un couvre-chef solide mais on peut également la tenir à la main.

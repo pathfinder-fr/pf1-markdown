@@ -45,7 +45,7 @@ LastModified: 2024-08-29 15:33
 
 Les têtes de citrouille sont des créatures végétales semi-intelligentes engendrées par une magie corrompue.
 
-Elles cherchent à brûler et à consumer les êtres de chair vivants. Malgré leur mobilité, elles préfèrent rester au même endroit jusqu’à ce que la nourriture vienne à manquer. Elles jettent le plus souvent leur dévolu sur des champs de citrouilles, où elles s’installent et utilisent leur pouvoir de forme de citrouille en attendant patiemment qu’une proie peu méfiante passe à proximité.
+Elles cherchent à brûler et à consumer les êtres de chair vivants. Malgré leur mobilité, elles préfèrent rester au même endroit jusqu’à ce que la nourriture vienne à manquer. Elles jettent le plus souvent leur dévolu sur des champs de citrouilles, où elles s’installent et utilisent leur pouvoir de forme de citrouille en attendant patiemment qu’une proie peu méfiante passe à proximité. 
 
 On sait que les têtes de citrouille poussent aux endroits où sont enterrées de puissantes sorcières malveillantes ou des fées perverses, mais leur développement peut parfois prendre plusieurs dizaines d’années. Elles peuvent également se reproduire
 par leurs propres moyens. Immédiatement après avoir tué et dévoré une créature intelligente, la tête de citrouille régurgite les restes de sa victime sous forme de bouillie pâteuse et incandescente, rapidement absorbée par le sol. Un jour plus tard, 1d3 têtes de citrouille affamées et entièrement développées surgissent du sol souillé.

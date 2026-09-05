@@ -11,10 +11,10 @@ Categories:
 {s:BDTitre|Roncier|{s:AE}}
 **Aura** [[Invocation]], [[Nécromancie]] et [[Transmutation]] puissantes ; **NLS** 20 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 3 kg
 (((Caractéristiques)))
-**Alignement** CN ; **Sens** 36 m, vision dans le noir
-**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 16 ; **Ego** 23
-**Langues** empathie, parole (aklo, commun, sylvestre), télépathie
-**Pouvoirs** 3/jour — *[[peau décorce|peau d’écorce]]* (porteur uniquement), *[[flétrissement végétal]]* ([[action rapide]] sur une créature touchée en combat)
+**Alignement** CN ; **Sens** 36 m, vision dans le noir  
+**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 16 ; **Ego** 23  
+**Langues** empathie, parole (aklo, commun, sylvestre), télépathie  
+**Pouvoirs** 3/jour — *[[peau décorce|peau d’écorce]]* (porteur uniquement), *[[flétrissement végétal]]* ([[action rapide]] sur une créature touchée en combat)  
 : 1/mois — *[[résurrection suprême]]* (porteur uniquement)
 (((Description)))
 Cette lame, appelée *Roncier*, est une *[[épée bâtarde (arme)|épée bâtarde]] [[vorpale (propriété)|vorpale]] +5 en [[fer froid]]* dont le [[objets intelligents#DESSEIN|dessein]] est d’abattre les habitants du Premier monde.

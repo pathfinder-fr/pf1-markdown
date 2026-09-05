@@ -47,7 +47,7 @@ Categories:
 Les archons canins ont l’apparence d’humains musclés dotés d’une
 tête canine semblable à celle d’un loup ou d’un chien au port altier.
 Au combat, ces archons bien entraînés préfèrent utiliser leur
-épée à deux mains, même s’ils savent tout aussi bien manier leurs armes naturelles.
+épée à deux mains, même s’ils savent tout aussi bien manier leurs armes naturelles. 
 
 Les archons canins détestent tuer
 des mortels et préfèrent les désarmer ou les mettre hors d’état de
@@ -67,14 +67,14 @@ exceptionnellement puissants atteignent le rang de capitaine ou
 chevalier et mènent leurs pairs au combat. Ils dirigent des attaques
 contre des places-fortes tenues par des fiélons, capturent des
 forteresses démoniaques ou encore libèrent les prisonniers des
-[[Guenaude noire|guenaudes noires]] collectionneuses d’âmes.
+[[Guenaude noire|guenaudes noires]] collectionneuses d’âmes. 
 
 À cause de ces missions,
 les archons canins sont sans doute les archons qu’on rencontre
 le plus souvent dans les plans inférieurs. De temps en temps, le
 voyageur perdu dans ces royaumes croise le chemin d’une meute de
 loups rapides qui se révèle être un groupe d’archons canins disposés
-à lui venir en aide.
+à lui venir en aide. 
 
 Quel que soit l’ordre auquel ils appartiennent, les
 archons canins vouent tous une haine particulièrement puissante

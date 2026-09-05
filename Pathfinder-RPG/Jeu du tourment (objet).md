@@ -8,7 +8,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 100 po ; **Poids** —
+{s:AE}**Prix** 100 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Il s'agit du jeu de cartes traditionnel de bonne aventure des devins et des voyants. Certains jeux du tourment ont des illustrations très travaillées mais la plupart d'entre eux ne sont que des cartes en papier ou en parchemin avec des images peintes à la main. Les jeux du tourment sont souvent transmis de génération en génération et, de ce fait, sont traités avec le plus grand soin.

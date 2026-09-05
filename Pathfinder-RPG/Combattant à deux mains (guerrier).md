@@ -17,7 +17,7 @@ Au niveau 2, le guerrier reçoit un bonus à son [[BMO]] et à son [[DMD]] sur l
 Au niveau 3, lorsqu'un combattant à deux mains porte une seule attaque (lors d'une action ou d'une [[charge]]), il ajoute le double de son bonus de [[force]] sur son jet de dégâts. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1]].
 
 #### Entraînement aux armes (Ext)
-Cette capacité fonctionne de la même manière que [[guerrier#ENTRAINEMENTAUXARMES|celle du guerrier standard]], si ce n'est qu'elle ne s'applique qu'aux armes à deux mains issues de la famille choisie.
+Cette capacité fonctionne de la même manière que [[guerrier#ENTRAINEMENTAUXARMES|celle du guerrier standard]], si ce n'est qu'elle ne s'applique qu'aux armes à deux mains issues de la famille choisie.  
 
 #### Coup circulaire (Ext).
 Au niveau 7, lorsqu'un combattant à deux mains réalise une [[attaque à outrance]], il ajoute le double de son bonus de force à tous les jets de dégâts de ces attaques à l'exception de la première. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 2]].

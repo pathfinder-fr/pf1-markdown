@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10-50 po ; **Poids** 750 kg
+{s:AE}**Prix** 10-50 po ; **Poids** 750 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Les bovins sont élevés pour leur lait et leur viande et sont utilisés comme bêtes de somme. Le taureau sert surtout pour la reproduction. Les autres mâles sont castrés pour devenir des bœufs que l’on utilise pour porter des chargements et labourer les champs.

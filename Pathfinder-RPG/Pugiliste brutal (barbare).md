@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypebarbare}{s:APG}*Il y a des barbares qui préfèrent se servir de leurs deux mains pour éparpiller leurs adversaires morceau par morceau. Ils apprennent également un grand nombre de manœuvres de combat et les utilisent pour estropier ou écraser leurs ennemis.*
+{s:Menuarchétypebarbare}{s:APG}*Il y a des barbares qui préfèrent se servir de leurs deux mains pour éparpiller leurs adversaires morceau par morceau. Ils apprennent également un grand nombre de manœuvres de combat et les utilisent pour estropier ou écraser leurs ennemis.* 
 
 Un pugiliste brutal possède les aptitudes suivantes :
 

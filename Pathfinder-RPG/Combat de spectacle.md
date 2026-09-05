@@ -85,7 +85,7 @@ Quand le personnage réussit un test de manoeuvre de spectacle, l’attitude de 
 
 {s:Reference|DDTESTCOMBATSPECTACLE}
 ### DD des tests de combat de spectacle
-Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieurs facteurs, dont l’attitude de départ de la foule, son attitude actuelle, la taille du public et le nombre de créatures qui participent au combat. Le [[Pathfinder-RPG.DD|DD]] de base dépend de l’attitude actuelle de la foule envers l’équipe concernée.
+Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieurs facteurs, dont l’attitude de départ de la foule, son attitude actuelle, la taille du public et le nombre de créatures qui participent au combat. Le [[Pathfinder-RPG.DD|DD]] de base dépend de l’attitude actuelle de la foule envers l’équipe concernée. 
 
 
 <table CLASS="tablo centre autoalt">

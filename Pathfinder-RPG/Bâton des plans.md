@@ -8,9 +8,9 @@ LastModified: 2024-05-27 16:32
 {s:AE}{s:BDTitre|Bâton des plans|}
 **Aura** [[Invocation]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 63 960 po ; **Poids** 3,5 kg
 (((Description)))
-Ce bâton en obsidienne scintille comme s’il reflétait les étoiles du ciel nocturne. Il permet d’utiliser les sorts suivants.
-• *[[adaptation planaire]]* (1 charge)
-• *[[contrat intermédiaire]]* (2 charges)
+Ce bâton en obsidienne scintille comme s’il reflétait les étoiles du ciel nocturne. Il permet d’utiliser les sorts suivants.  
+• *[[adaptation planaire]]* (1 charge)  
+• *[[contrat intermédiaire]]* (2 charges)  
 • *[[changement de plan]]* (5 charges)
 
 Si le bâton des plans est complètement chargé, le porteur peut choisir de le briser, le fracassant ainsi en des milliers de morceaux mais ouvrant un portail vers un plan qu’il choisit. Cette méthode fonctionne uniquement pour le voyage planaire et la connexion dure 1 minute, le personnage n’ayant pas besoin de se concentrer. Si le bâton est utilisé ainsi, il ne peut pas être réparé ni restauré.

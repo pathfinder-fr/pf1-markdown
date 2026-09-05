@@ -45,7 +45,7 @@ protoplasme jaunâtre, orange ou brun. Au
 repos, leur corps tremblotant atteint une hauteur
 de 1,80 mètre et peut recouvrir un large diamètre. Lorsqu’elles
 se déplacent, elles prennent souvent la forme de sphères
-gélatineuses qui semblent rouler sur elles-mêmes.
+gélatineuses qui semblent rouler sur elles-mêmes. 
 
 Leur corps malléable leur permet de se faufiler à travers des fissures et
 des trous bien plus étroits que l’espace qu’elles occupent.
@@ -67,7 +67,7 @@ mentionnent une technique d’inhumation semblable à la crémation
 et utilisée dans des contrées lointaines. Au lieu de brûler le corps
 puis d’ensevelir les cendres, ceux qui pratiquent cette technique
 enferment le corps dans un sarcophage de pierre contenant une
-gelée ocre et la laisse dissoudre la dépouille.
+gelée ocre et la laisse dissoudre la dépouille. 
 
 Une fois que c’est fait, ils placent la gelée ocre dans une grande urne funéraire ornée d’une
 plaque de bronze portant le nom du défunt. Cette pratique protège
@@ -86,7 +86,7 @@ courantes mais ces prédateurs dénués d’intelligence peuvent
 atteindre des tailles gigantesques dans les profondeurs du monde
 souterrain. Plus inquiétant encore, certaines rumeurs évoquent des
 gelées ocres qui seraient parvenues à développer d’autres méthodes
-pour capturer leurs proies.
+pour capturer leurs proies. 
 
 Certains aventuriers parlent de gelées capables d’empoisonner leurs adversaires par simple contact ou
 de produire des nuages de gaz qui brûle les yeux et la gorge, de

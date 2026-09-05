@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Pangolais est la capitale du [[Nidal]]. Elle est située au plus profond de la [[forêt dUsk|forêt d'Usk]] dont la frondaison transforme même le jour le plus brillant en la nuit la plus noire.
+Pangolais est la capitale du [[Nidal]]. Elle est située au plus profond de la [[forêt dUsk|forêt d'Usk]] dont la frondaison transforme même le jour le plus brillant en la nuit la plus noire. 
 
 Les visiteurs doivent obtenir la permission d'entrer en ville et utiliser les services d'un guide local une fois à l'intérieur des murs. Ces guides sont très courus car il est très facile de se perdre dans l'obscurité de la ville et parce qu'il est illégal pour les étrangers d'être non accompagné dans les rues.
 

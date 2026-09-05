@@ -9,12 +9,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Paladin|Pal]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** un ennemi et un allié
-**Durée** 1 [[round]]/[[niveau]]
+{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Paladin|Pal]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** un ennemi et un allié  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Les *marques d'interdiction* laissent une empreinte magique sur deux créatures, ce qui les empêche de commettre un acte de violence l'une envers l'autre. Quand le personnage incante ce sort, il choisit un allié et un ennemi, tous deux à portée. Ces deux cibles sont alors marquées d'un sceau d'interdiction. Si elles veulent s'attaquer avant la fin de la durée du sort, même avec un sort qui demande de viser sa cible, l'attaquant doit réussir un jet de [[Volonté]]. S'il réussit, il peut attaquer normalement, sinon, il ne peut effectuer son attaque et perd son action. Ce sort n'empêche pas les cibles de s'attaquer avec des sorts ou des pouvoirs à effet de zone.

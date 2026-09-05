@@ -5,7 +5,7 @@ LastModified: 2020-08-20 19:25
 ---
 
 {s:mca}
-''Les textes des dons sont tous copiés.
+''Les textes des dons sont tous copiés. 
 Pour chacun des dons listés il faut désormais
 - insérer le snippet <nowiki>{s:mca}</nowiki>, 
 - Faire la présentation générale du don première phrase en italiques, utilisation du gras pour Condition, Avantage, Normal et spécial

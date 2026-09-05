@@ -39,59 +39,59 @@ Categories:
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou culte (3-12)}
 {s:BDTexte|<b>Trésor</b> équipement de PNJ(dague de maître, autres trésors}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Poison (Ext).</b> Morsure — blessure ; JdS Vigueur DD 15 ; fréquence 1/round pendant 6 rounds ; effet
-affaiblissement temporaire 1d2 For ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la
+{s:BDTexte|<b>Poison (Ext).</b> Morsure — blessure ; JdS Vigueur DD 15 ; fréquence 1/round pendant 6 rounds ; effet 
+affaiblissement temporaire 1d2 For ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la 
 Constitution.}
 <div>
 </td><td><div>
-''Cet humanoïde mi-serpent a une peau couverte d’écailles de couleur vive,
+''Cet humanoïde mi-serpent a une peau couverte d’écailles de couleur vive, 
 une longue queue sinueuse et une tête de serpent décorée de crocs.''
 
-Le  but  principal  des  hommes-serpents  est  d’acquérir  des
-connaissances et de la magie. Leurs légendes décrivent comment
-l’humanité  a  pu  s’emparer  du  pouvoir  après  avoir  dérobé  la
-magie des serpents, un mythe qui est à l’origine de la haine que
-la plupart des hommes-serpents nourrissent envers les humains.
-Ils se considèrent comme les maîtres incontestables de la magie,
+Le  but  principal  des  hommes-serpents  est  d’acquérir  des 
+connaissances et de la magie. Leurs légendes décrivent comment 
+l’humanité  a  pu  s’emparer  du  pouvoir  après  avoir  dérobé  la 
+magie des serpents, un mythe qui est à l’origine de la haine que 
+la plupart des hommes-serpents nourrissent envers les humains. 
+Ils se considèrent comme les maîtres incontestables de la magie, 
 tant divine que profane, mais malgré cela, la plupart des hommes-
-serpents  actuels  sont  des  spécimens  dégénérés  qui  ont  régressé
-vers une brutalité primitive et qui ont oublié une grande partie de
-leur héritage magique. La plupart des hommes-serpents civilisés
+serpents  actuels  sont  des  spécimens  dégénérés  qui  ont  régressé 
+vers une brutalité primitive et qui ont oublié une grande partie de 
+leur héritage magique. La plupart des hommes-serpents civilisés 
 considèrent ces créatures dégénérées avec dégoût et mépris.
-Les  hommes-serpents  mesurent  1,80  mètre  de  hauteur  et
-pèsent 60 kg. Les dégénérés ne font que 1,50 mètres de longueur
+Les  hommes-serpents  mesurent  1,80  mètre  de  hauteur  et 
+pèsent 60 kg. Les dégénérés ne font que 1,50 mètres de longueur 
 mais  ils  atteignent  des  poids  de  100  kg.  Tous  les  hommes-
-serpents  jouissent  d’une  grande  longévité  et  dépassent  bien
+serpents  jouissent  d’une  grande  longévité  et  dépassent  bien 
 souvent les 500 ans de vie.
 #### Homme serpent évolué
 Quand un homme-serpent gagne des niveaux de classe, certains de ses capacités s’améliorent également, comme indiqué ci-dessous :
 
 • Leur RM vaut le nombre total de DV + 10.
 
-• Le DD du jet de sauvegarde contre le poison infligé par leur morsure vaut 10 + la moitié de leur nombre de DV + leur
+• Le DD du jet de sauvegarde contre le poison infligé par leur morsure vaut 10 + la moitié de leur nombre de DV + leur 
 modificateur de Constitution.
 
-• Quand un homme-serpent atteint le niveau 4 dans une classe  ou  en  combinant  plusieurs  classes,  il  acquiert
-deux pouvoirs magiques utilisables une fois par jour : domination  et  image  accomplie.  Quand  il  atteint  le
-niveau 9, il en gagne deux autres utilisables une fois par jour : suggestion de groupe et
+• Quand un homme-serpent atteint le niveau 4 dans une classe  ou  en  combinant  plusieurs  classes,  il  acquiert 
+deux pouvoirs magiques utilisables une fois par jour : domination  et  image  accomplie.  Quand  il  atteint  le 
+niveau 9, il en gagne deux autres utilisables une fois par jour : suggestion de groupe et 
 téléportation.
 
-•  Les  modificateurs  raciaux  de caractéristiques  dont  jouissent les  hommes-serpents  sont  les
+•  Les  modificateurs  raciaux  de caractéristiques  dont  jouissent les  hommes-serpents  sont  les 
 suivants : For –2, Dex +10, Con +6, Int +8, Sag +4, Cha +6.
 
 #### Homme serpent dégénéré
-Les hommes-serpents dégénérés possèdent les mêmes caractéristiques  que  les  hommes-serpents  normaux
+Les hommes-serpents dégénérés possèdent les mêmes caractéristiques  que  les  hommes-serpents  normaux 
 aux exceptions suivantes près :
 
 • Ils n’ont pas de pouvoirs magiques.
 
-•  Ils  perdent  le  bonus  racial  de  +4  aux  tests d’Utilisation  d’objets  magiques  mais  gagnent  un
+•  Ils  perdent  le  bonus  racial  de  +4  aux  tests d’Utilisation  d’objets  magiques  mais  gagnent  un 
 bonus racial de +4 aux tests de Perception.
 
 • Leur bonus d’armure naturelle passe de +3 à +7.
 
-•  Ils  jouissent  des  modificateurs  raciaux  de caractéristiques  suivants  :  For  +10,  Dex  +2,
-Con +8, Int –6 (minimum 3), Sag +2, Cha –4.
+•  Ils  jouissent  des  modificateurs  raciaux  de caractéristiques  suivants  :  For  +10,  Dex  +2, 
+Con +8, Int –6 (minimum 3), Sag +2, Cha –4. 
 
 Un  homme-serpent  dégénéré  typique possède  les  caractéristiques  suivantes  : For 20, Dex 13, Con 19, Int 4, Sag 13, Cha 6.</div></td></tr></table>
 

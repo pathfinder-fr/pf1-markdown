@@ -19,14 +19,14 @@ Categories:
 ---
 
 {s:Desambi|Il s'agit aussi d'une [[branche scrutation|branche]] de l'école de [[Divination]].}
-**École** [[Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 heure
-**Composantes** [[composantes|V, G, M/FD]] (un bassin d’eau claire), [[composantes|F]](un miroir en argent (1 000 po))
-**Portée** voir description
-**Effet** capteur magique
-**Durée** 1 minute/[[niveau]]
+**École** [[Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 heure  
+**Composantes** [[composantes|V, G, M/FD]] (un bassin d’eau claire), [[composantes|F]](un miroir en argent (1 000 po))  
+**Portée** voir description  
+**Effet** capteur magique  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet d’espionner une créature qui peut se trouver à n’importe quelle distance. Si la cible réussit un jet de [[Volonté]], le sort échoue. La difficulté dépend de la connaissance que le lanceur de sorts a du sujet et des liens qui les unissent. Si la cible se trouve dans un autre plan d’existence, elle bénéficie d'un bonus de +5 à son jet de [[Volonté]].
 
 <table width="100%"><tr><td width="49%">
@@ -69,13 +69,13 @@ Si la cible réussit son [[jet de sauvegarde]], le personnage ne peut pas essaye
 
 ((({s:sortssimilaires|scrutation}
 ## [[Scrutation suprême]]
-**École** [[Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** voir description
-**Effet** capteur magique
-**Durée** 1 heure/[[niveau]]
+**École** [[Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** voir description  
+**Effet** capteur magique  
+**Durée** 1 heure/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort ressemble à *[[scrutation]]*, sauf pour ce qui est des détails indiqués ci-dessus. De plus, les sorts suivants peuvent être lancés par l’intermédiaire du capteur sans risque d’échec : *[[détection de la Loi]]*, *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection du Mal]]*, *[[don des langues]]*, *[[lecture de la magie]]* et *[[message]]*.
 )))

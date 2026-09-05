@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:Menuarchétypebarbare}{s:APG}*Un barbare possède souvent un totem spécial qui est le gardien tutélaire de son clan. Si les totems individuels diffèrent, ceux de la tribu qui peuvent en appeler aux pouvoirs de l’esprit bénéficient d’aptitudes similaires.*
+{s:Menuarchétypebarbare}{s:APG}*Un barbare possède souvent un totem spécial qui est le gardien tutélaire de son clan. Si les totems individuels diffèrent, ceux de la tribu qui peuvent en appeler aux pouvoirs de l’esprit bénéficient d’aptitudes similaires.* 
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
 [[FAQ- lArt de la guerre#2|→]] Barbare, Guerrier totem : Cet archétype du MRA permet-il de prendre plus d’un type de pouvoirs de rage totémiques ?**'
 
-Non, <u>[[Guerrier totem (barbare)|la ligne]]</u> de l’*Art de la guerre* est une erreur ; un barbare ne peut pas choisir plus d’un type de pouvoirs de rage totémiques.
-Cette erreur sera corrigée dans la prochaine impression de l’*Art de la guerre*.
+Non, <u>[[Guerrier totem (barbare)|la ligne]]</u> de l’*Art de la guerre* est une erreur ; un barbare ne peut pas choisir plus d’un type de pouvoirs de rage totémiques.  
+Cette erreur sera corrigée dans la prochaine impression de l’*Art de la guerre*.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).}Les guerriers totem choisissent leurs pouvoirs de rage dans la liste ci-dessous.
 
 #### Pouvoirs de rage

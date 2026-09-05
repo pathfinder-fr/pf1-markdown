@@ -17,12 +17,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 2, [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F/DF]] (un médaillon)
-**Portée** 18 m
-**Zone d'effet** [[émanation]] en forme de cône
-**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 1 minute/niveau (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 2, [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F/DF]] (un médaillon)  
+**Portée** 18 m  
+**Zone d'effet** [[émanation]] en forme de cône  
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 1 minute/niveau (T)  
 **Jet de sauvegarde** Volonté, annule (voir description) ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[détection des pensées]]* excepté que le personnage détecte les pires angoisses des créatures avec une valeur d'[[Intelligence]] de 1 ou plus, qu'elles soient conscientes ou non.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** —
+{s:AE}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Il faut une [[action complexe]] pour allumer une [[Torche (objet)|torche]] avec un silex et une amorce. Il faut au moins autant de temps pour allumer tout autre feu de cette manière.

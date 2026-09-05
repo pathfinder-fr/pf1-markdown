@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Thé divinatoire|{s:AE}}
 **Aura** [[école Divination|Divination]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 550 po ; **Poids** —
 (((Description)))
-Ce thé puissant peut être fait avec une grande variété de plantes différentes. Si un personnage le laisse infuser sans filtre avant de le boire, il peut décrypter les motifs laissés par les feuilles au fond de la tasse et gagne ainsi les avantages d’un sort d’*[[augure]]*. De plus, le thé non-infusé peut servir de composante matérielle à la place du focalisateur pour lancer le sort d’*[[augure]]*. Dans ce cas, le personnage qui lance ce sort obtient des informations similaires à celles obtenues grâce au sort de *[[divination]]*.
+Ce thé puissant peut être fait avec une grande variété de plantes différentes. Si un personnage le laisse infuser sans filtre avant de le boire, il peut décrypter les motifs laissés par les feuilles au fond de la tasse et gagne ainsi les avantages d’un sort d’*[[augure]]*. De plus, le thé non-infusé peut servir de composante matérielle à la place du focalisateur pour lancer le sort d’*[[augure]]*. Dans ce cas, le personnage qui lance ce sort obtient des informations similaires à celles obtenues grâce au sort de *[[divination]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], soit *[[augure]]*, soit *[[divination]]*  ; **Coût** 275 po
 </div>

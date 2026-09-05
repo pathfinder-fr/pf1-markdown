@@ -43,7 +43,7 @@ Categories:
 
 {s:ImageDroite|Bestiaire/Gobelours_Bruthazmus.jpg|90%}
 
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 
@@ -65,20 +65,20 @@ Categories:
 </div>*Cette créature à la fourrure sombre brandit un morgenstern à piques. Ses yeux laiteux brillent d’excitation à l’idée de tuer.*
 
 Les gobelours sont les plus grands des gobelinoïdes : ces lourdes brutes mesurent au moins une tête de plus que la plupart des humains. Solitaires, ils préfèrent vivre et tuer seuls plutôt que de se retrouver avec d’autres individus de leur espèce. Malgré tout, on rencontre parfois des petits groupes de gobelours qui travaillent ensemble ou ont rejoint une tribu de gobelins ou de [[Hobgobelin|hobgobelins]] pour tenir le rôle de gardes
-d’élite ou de bourreaux.
+d’élite ou de bourreaux. 
 
 Les gobelours ne forment pas de grands clans comme les [[gobelins]] ni de grandes nations comme les [[Hobgobelin|hobgobelins]]. Ils préfèrent les groupes plus petits au sein desquels ils peuvent pratiquer leurs activités préférées (le meurtre et la torture) de manière plus intime. Leurs proies de prédilection sont les humains. Bon nombre d’entre eux considèrent la chair humaine comme la base de leur alimentation. Ils se parent souvent de décorations macabres composées d’oreilles ou de doigts.
 
-Les gobelours qui s’intéressent à la religion préfèrent les divinités tournées vers le meurtre et la violence, parmi lesquelles certains seigneurs démons figurent en bonne place.
+Les gobelours qui s’intéressent à la religion préfèrent les divinités tournées vers le meurtre et la violence, parmi lesquelles certains seigneurs démons figurent en bonne place. 
 
 Un gobelours moyen mesure 2,10 mètres et pèse 200 kg.
 
 #### La nature du Mal chez les gobelinoïdes
 
 Malgré les similarités superficielles que les [[Gobelin (race)|gobelins]], les [[Hobgobelin (race)|hobgobelins]] et les gobelours partagent, ces races représentent des aspects différents du Mal. Les [[Hobgobelin (race)|hobgobelins]] sont disciplinés et méthodiques : ils forment de vastes armées, des troupes de guerre et des nations despotiques.
-Les [[Gobelin (race)|gobelins]] correspondent au Mal primaire : ils visent seulement à se montrer cruels et méchants chaque fois qu’ils le peuvent, que ce soit envers d’autres créatures de leur espèce ou envers leurs voisins.
+Les [[Gobelin (race)|gobelins]] correspondent au Mal primaire : ils visent seulement à se montrer cruels et méchants chaque fois qu’ils le peuvent, que ce soit envers d’autres créatures de leur espèce ou envers leurs voisins. 
 
-Mais le Mal que les gobelours incarnent est peut-être le plus terrifiant de tous, car ils recherchent activement à infliger douleurs et souffrances de la manière la plus destructrice possible. Lorsqu’un [[Hobgobelin (race)|hobgobelin]] tue une victime, c’est pour suivre la tradition ou les ordres. Lorsqu’un [[Gobelin (race)|gobelin]] tue une victime, c’est pour s’amuser. Mais lorsque c’est un gobelours qui tient la lame, celui-ci attend le moment où il est certain de causer le plus de douleur et de souffrance pour tuer sa victime. Pour un gobelours, le véritable but du meurtre n’est pas tant de tuer la victime que d’accabler ceux qui la considèrent comme un être cher.
+Mais le Mal que les gobelours incarnent est peut-être le plus terrifiant de tous, car ils recherchent activement à infliger douleurs et souffrances de la manière la plus destructrice possible. Lorsqu’un [[Hobgobelin (race)|hobgobelin]] tue une victime, c’est pour suivre la tradition ou les ordres. Lorsqu’un [[Gobelin (race)|gobelin]] tue une victime, c’est pour s’amuser. Mais lorsque c’est un gobelours qui tient la lame, celui-ci attend le moment où il est certain de causer le plus de douleur et de souffrance pour tuer sa victime. Pour un gobelours, le véritable but du meurtre n’est pas tant de tuer la victime que d’accabler ceux qui la considèrent comme un être cher. 
 </div></td></tr></table>
 
 {s:cm}

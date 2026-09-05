@@ -8,7 +8,7 @@ LastModified: 2024-05-30 17:43
 {s:BDTitre|Brassards d’allonge|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 7 200 po ; **Poids** 0.5 kg
 (((Description)))
-Ces brassards sont tissés avec des fibres de bambou. Trois fois par jour et par une [[action rapide]], leur porteur peut augmenter magiquement la longueur de ses bras pour augmenter son allonge de 1,50 mètre jusqu’au début de son prochain tour. Ses [[jet dattaque|jets d’attaque]] au corps à corps subissent un malus de –4 s’il utilise une arme mais pas s’il se bat à mains nues ou avec des armes naturelles.
+Ces brassards sont tissés avec des fibres de bambou. Trois fois par jour et par une [[action rapide]], leur porteur peut augmenter magiquement la longueur de ses bras pour augmenter son allonge de 1,50 mètre jusqu’au début de son prochain tour. Ses [[jet dattaque|jets d’attaque]] au corps à corps subissent un malus de –4 s’il utilise une arme mais pas s’il se bat à mains nues ou avec des armes naturelles. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Modification dapparence|modification d’apparence]]* ; **Coût** 3 600 po
 </div>

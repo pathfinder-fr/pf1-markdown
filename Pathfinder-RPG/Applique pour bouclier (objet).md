@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce cadre en métal fait pour accueillir une [[Torche (objet)|torche]] s'attache sur le devant d'une [[rondache (armure)|rondache]], d'un [[écu (armure)|écu]] ou d'un [[pavois (armure)|pavois]], permettant au personnage de porter une torche sans avoir à lâcher son bouclier et sans utiliser la main avec laquelle il tient son arme.

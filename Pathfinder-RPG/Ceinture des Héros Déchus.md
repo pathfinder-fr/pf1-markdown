@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:28
 {s:BDTitre|Ceinture des héros déchus|{s:AE}}
 **Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 21 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette large ceinture de bronze possède trois plaques gravées de scènes de bataille. Une fois par jour et sur commande, le porteur peut convoquer l’esprit d’un héros représenté sur l’une des scènes. Cet esprit se comporte comme un *[[allié spirituel]]* mais, à la différence de l’esprit créé, par ce sort, le héros convoqué n’est pas totalement dénué d’[[intelligence]]. Qu'il soit convoqué ou non, le héros tente de mener le porteur de la ceinture à la victoire par le biais d’avertissements et de conseils télépathiques qui lui octroient un bonus d’intuition de +1 aux jets de sauvegarde.
+Cette large ceinture de bronze possède trois plaques gravées de scènes de bataille. Une fois par jour et sur commande, le porteur peut convoquer l’esprit d’un héros représenté sur l’une des scènes. Cet esprit se comporte comme un *[[allié spirituel]]* mais, à la différence de l’esprit créé, par ce sort, le héros convoqué n’est pas totalement dénué d’[[intelligence]]. Qu'il soit convoqué ou non, le héros tente de mener le porteur de la ceinture à la victoire par le biais d’avertissements et de conseils télépathiques qui lui octroient un bonus d’intuition de +1 aux jets de sauvegarde. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[faveur divine]]*, *[[allié spirituel]]*  ; **Coût** 10 500 po
 </div>

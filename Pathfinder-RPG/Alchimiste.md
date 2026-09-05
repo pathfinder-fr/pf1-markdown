@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [[Découvertes|découvertes d'alchimiste]].***
-***Voir aussi la [[Liste des formules dalchimiste|liste des formules d'alchimiste]].***
+<div class="fright">***Voir aussi les [[Découvertes|découvertes d'alchimiste]].***  
+***Voir aussi la [[Liste des formules dalchimiste|liste des formules d'alchimiste]].***  
 {s:PM0|alchimiste}**Voir les archétypes de l'alchimiste**&emsp;
 <li ID="alchimiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypealchimiste}</li>
 </div>{s:APG}*Qu’il se terre dans un laboratoire souterrain secret ou qu’il mène gaiement ses expériences dans une école de magie respectable, on considère souvent l’alchimiste comme aussi instable, imprévisible et dangereux que les potions qu’il concocte. Certains créateurs d’objets alchimiques se contentent d’une vie sédentaire en tant que marchands d’allume-feu et de bâtons fumigènes, mais les véritables alchimistes répondent à un appel bien plus puissant. Au lieu de lancer des sorts comme les autres mages, l’alchimiste capture son propre potentiel magique dans les extraits et les liquides qu’il fabrique, les imprégnant de pouvoirs virulents qui lui permettent de devenir particulièrement efficace avec les poisons, les explosifs et toutes sortes de magies de métamorphose.*
@@ -344,7 +344,7 @@ L’alchimiste est capable de manier toutes les [[armes courantes]] et des [[Alc
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#1|→]] Alchimiste : Dans le cadre des capacités de classes de l'alchimiste, les poisons sont-ils considérés comme des objets alchimiques ?***
 
 Oui. *(Retour à la <u>[[Alchimiste#ALCHIMIE|capacité]]</u>)*
----
+<hr />
 ***[[FAQ- Manuel des joueurs - Règles avancées#2|→]] Alchimiste : Quel type d'action est nécessaire à l'utilisation d'un extrait, d'un mutagène ou d'un lancer de bombe ?***
 
 Utiliser un extrait, un mutagène ou lancer une bombe nécessite une action simple. Cette action inclut la récupération des matériaux nécessaires dans la <u>[[Alchimiste#ALCHIMIE|réserve de l'alchimiste]]</u>, de la même façon que récupérer les composantes matérielles est compris dans le fait de lancer un sort.}Non seulement les alchimistes sont passés maîtres dans l’art de créer des [[Outils alchimiques|substances alchimiques ordinaires]] comme le [[Armes alchimiques#Feu grégeois|feu grégeois]] ou les [[Outils alchimiques#Bâton fumigène|bâtons fumigènes]], mais ils savent également fabriquer des [[Alchimiste#EXTRAITS|extraits]], des sortes de [[potions magiques|potions]] dans lesquelles ils stockent des effets de sort. En pratique, l’alchimiste prépare son sort en mélangeant des ingrédients pour fabriquer un certain nombre d’extraits et le «  lance » en buvant l’extrait approprié. Quand il prépare un extrait ou une [[Alchimiste#BOMBES|bombe]], il l’imprègne d’une petite part de sa propre puissance magique, ce qui lui permet de créer de redoutables effets, mais lie ses créations à sa personne.
@@ -358,7 +358,7 @@ Un alchimiste peut créer trois types d’objets magiques  : les [[Alchimiste#EX
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#7|→]] Alchimiste, Buveur rapide : Le trait buveur rapide publié dans *Chéliax, Empire des diables* permet-il à un personnage de boire un extrait d'alchimiste par une action de mouvement ?***
 
 Non. *(Retour à la <u>[[Alchimiste#EXTRAITS|capacité]]</u>)*
----
+<hr />
 ***[[FAQ- Manuel des joueurs - Règles avancées#8|→]] Alchimiste, Choix au « lancement » : Si je prépare un extrait d'un sort à choix multiples (comme *protection contre les énergies destructives*), dois-je faire ce choix au moment de la préparation ou au moment de le boire ?***
 
 Le choix est fait au moment où l'<u>[[Alchimiste#EXTRAITS|extrait]]</u> est bu.}Les extraits représentent la catégorie la plus variée des trois. De bien des manières, ils se comportent comme des sorts sous forme de [[potions magiques|potions]] et, en tant que tels, on peut dissiper leurs effets avec une *[[dissipation de la magie]]* par exemple, en utilisant le niveau de l’alchimiste comme [[NLS|niveau de lanceur de sorts]]. Contrairement aux potions, les extraits ont de puissants pouvoirs et peuvent imiter des sorts qu’une potion serait incapable de reproduire.
@@ -369,7 +369,7 @@ Quand l’alchimiste prépare un extrait, il imprègne les produits chimiques et
 
 L’alchimiste ne lance pas vraiment de sorts, mais il possède une [[liste des formules dalchimiste|liste de formules]] qui détermine les extraits qu’il peut créer. Il peut utiliser des [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objets à potentiel magique]] si le sort apparaît dans sa liste de formules, mais pas d’[[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objets à fin d’incantation]] (à moins qu’il n’utilise pour cela la compétence [[Utilisation dobjets magiques|Utilisation d’objets magiques]]). Il « lance » son extrait en le buvant, comme une [[potions magiques|potion]] (les effets de l’extrait reproduisent fidèlement ceux du sort sur lequel leur formule se base, mais ils affectent uniquement l’alchimiste). L'alchimiste peut saisir l'extrait et le boire en une [[action simple]]. L’alchimiste utilise son niveau de classe pour déterminer les effets basés sur le [[NLS|niveau de lanceur de sorts]].
 
-La création d’extrait nécessite des matières premières mais leur coût est négligeable, comme les [[composantes]] sans valeur de la plupart des sorts. Si le sort exige une [[composantes|composante matérielle]] onéreuse, l’alchimiste doit dépenser cette [[composantes|composante]] au moment où il boit l’extrait. Il ne peut pas fabriquer un extrait basé sur un sort qui demande un [[focalisateur]] (les extraits alchimiques imitant des sorts divins n’ont jamais besoin de [[focalisateur divin]]).
+La création d’extrait nécessite des matières premières mais leur coût est négligeable, comme les [[composantes]] sans valeur de la plupart des sorts. Si le sort exige une [[composantes|composante matérielle]] onéreuse, l’alchimiste doit dépenser cette [[composantes|composante]] au moment où il boit l’extrait. Il ne peut pas fabriquer un extrait basé sur un sort qui demande un [[focalisateur]] (les extraits alchimiques imitant des sorts divins n’ont jamais besoin de [[focalisateur divin]]). 
 
 L’alchimiste peut préparer un extrait à partir de n’importe quelle formule de sa connaissance. Pour apprendre ou utiliser un extrait, l’alchimiste doit avoir une [[Intelligence]] au moins égale à 10 + niveau de l’extrait. Le [[DD]] des extraits d’alchimiste est de 10 + [[niveau de sort|niveau de l’extrait]] + modificateur d’[[Intelligence]] de l’alchimiste.
 

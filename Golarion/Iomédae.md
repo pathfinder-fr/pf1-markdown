@@ -20,7 +20,7 @@ Loi, du Soleil et de la Guerre. Tous ses hommes de religion sont
 des prêtres ou des paladins, bien que nombre de ses disciples
 soient aussi des rôdeurs qui jouent un rôle important dans son
 église. L’Héritière est le titre principal de la déesse, même si les
-[[Chevaliers dOzem|Chevaliers d’Ozem]] l’appellent la Lumière de l’Épée.
+[[Chevaliers dOzem|Chevaliers d’Ozem]] l’appellent la Lumière de l’Épée.  
 
 ### Histoire
 
@@ -46,7 +46,7 @@ l’honneur, la justice et la force, et elle n’a pas peur de pointer son
 qu’elle soit née au Chéliax, elle est vénérée par de nombreux
 peuples extérieurs à ces terres et, quand la menace directe de la
 Plaie du Monde aura disparu, elle s’en ira libérer sa terre natale
-de la corruption diabolique qui la ronge.
+de la corruption diabolique qui la ronge.  
 À peine âgée de 900 ans, Iomédae est la plus jeune des divinités
 majeures de Golarion. Ce n’est qu’au cours du dernier siècle
 qu’elle a pu atteindre son plein potentiel en tant que divinité
@@ -81,7 +81,7 @@ portant un bouclier et une épée longue. Quand elle est contrainte
 de se battre, sa cape blanche vire au rouge et son armure dorée
 vire au gris argenté de l’adamantium. L’éclat de son bouclier
 aveugle tout mal, la force de son aura affaiblissant et faisant
-succomber la corruption.
+succomber la corruption.   
 Iomédae se manifeste sous la forme d’objets ordinaires qui se
 refaçonnent pour prendre des formes d’épée, de mystérieuses
 lumières blanches ou dorées sur une personne ou un objet, de
@@ -114,7 +114,7 @@ saints sont les protecteurs d’une église ou d’un ordre militaire
 donné, pouvant alors n’être connus que localement ou des
 érudits religieux. Certains ne répondent qu’aux demandes des
 prêtres qui fréquentent leurs églises ou leurs ordres particuliers.
-Le héraut de Iomédae porte le titre de [[Pathfinder-RPG.Main de l’Héritière|Main de l’Héritière]].
+Le héraut de Iomédae porte le titre de [[Pathfinder-RPG.Main de l’Héritière|Main de l’Héritière]].  
 Voici quelques-uns des serviteurs surnaturels de
 Iomédae, bien connus, que l’on peut invoquer à l’aide d’un allié
 majeur d’outreplan ou d’autres sorts similaires.
@@ -129,7 +129,7 @@ et des dégâts sacrés. Il peut étouffer ses flammes sous sa forme
 naturelle mais trouve la manoeuvre très inconfortable pour
 lui. Il préfère être payé en huiles exotiques rares et en épées
 magiques, qu’il remet généralement aux héros qui se montrent
-dignes partout dans le monde.
+dignes partout dans le monde.  
 **Sainte Lymirin.** Quoiqu’elle apparaisse normalement sous les
 traits d’une femme chélaxienne aux ailes de plumes blanches,
 cette prêtresse-guerrière peut prendre une forme à tête d’aigle
@@ -139,7 +139,7 @@ pragmatique qui ne tolère pas la cruauté et l’injustice et qui est
 encline à frapper d’abord et poser les questions ensuite. (Elle
 est la sainte-patronne du premier sang). Elle adore les cadeaux
 et aime les objets magiques faits de plumes, les tissant souvent
-dans ses ailes afin de les utiliser plus tard.
+dans ses ailes afin de les utiliser plus tard.  
 **Vigilance pacifique.** Ce jeune dragon d’or céleste ne reste
 jamais inactif plus d’un instant, préférant s’agiter en se
 demandant impatiemment où est-ce qu’on pourrait avoir
@@ -190,7 +190,7 @@ des enfants nécessite de toucher la garde d’une
 pour le combat, bien que certaines soient
 extrêmement décorées après des décennies
 d’utilisation. Pour les fidèles, une épée
-inutilisable comme arme est inutile.
+inutilisable comme arme est inutile.   
 La tradition veut que les jeunes prêtres
 de l’Héritière reçoivent en présent une épée
 quand ils quittent le temple pour faire valoir
@@ -207,7 +207,7 @@ les mains de personnes en grand besoin, comme si la déesse
 elle-même les avait arrachées à leur tombe pour les leur remettre.
 L’église fait preuve d’une telle obsession pour les épées que même
 les alliances de ceux qui se marient en son sein sont généralement
-gravées d’une épée en signe de dévotion et de fidélité.
+gravées d’une épée en signe de dévotion et de fidélité.   
 L’église n’a aucune tradition qui interdise d’enterrer quelqu’un
 en armure mais le phénomène reste rare puisque l’église enseigne
 que toutes les âmes vertueuses s’étant attachées à poursuivre
@@ -224,7 +224,7 @@ les disparus dans l’au-delà : en effet, l’épée a pour but de livrer les
 batailles au nom de l’âme bienveillante du mort afin que le repos
 de celle-ci soit assuré. Dans les communautés plus pauvres, les
 gens enterrent un bout de papier ou un bout de bois estampillé
-ou marqué du symbole d’une épée.
+ou marqué du symbole d’une épée.   
 Les disciples de l’Héritière sont des gens de bien. Si nombre
 de membres d’autres religions ont une attitude laxiste, les
 iomédéens typiques cherchent la justice pour tous, veulent agir
@@ -245,12 +245,12 @@ associés aux nécessités auxiliaires de l’église, aidant à diriger les
 fermes, les forges et les boutiques du temple, et nombre d’entre
 eux se dévouent avec plus de force encore à la fabrication des
 épées, au développement de leurs qualités politiques et à porter
-la civilisation aux peuples « sauvages. »
+la civilisation aux peuples « sauvages. »   
 Les musiques du temple sont, pour l’essentiel, des airs enjoués
 aux refrains répétés qui font de très bonnes marches. Toutes
 sont écrites en vue d’inspirer le courage et de revigorer les corps
 fatigués. Elles emploient souvent des flûtes et des tambourins
-pour la simplicité et la mobilité que présentent ces instruments.
+pour la simplicité et la mobilité que présentent ces instruments.   
 L’église s’organise en cercles, chacun d’eux comptant dix à
 cinquante prêtres ou chevaliers aux aptitudes, aux attitudes
 et aux rangs similaires. Un cercle est dirigé par un chevalier
@@ -264,7 +264,7 @@ rejoindre les cercles dirigés par un valeureux et réputé chevalier
 de l’épée est rude, et c’est une marque d’honneur que d’être
 choisi pour intégrer ce genre de cercles. Les rangs du chevalier
 de l’épée correspondent aux grades militaires des armées
-normales (général, colonel, capitaine, etc.).
+normales (général, colonel, capitaine, etc.).   
 En tant que membres d’une église d’alignement loyal, les
 disciples soutiennent fortement les couples qui souhaitent se
 marier et voient d’un très mauvais oeil l’adultère, la maltraitance
@@ -276,7 +276,7 @@ divorce. Les enfants doivent être traités avec le même amour et
 le même respect, même si cela n’empêche pas de leur imposer
 la discipline qui convient, et la plupart des fidèles considèrent
 les enfants turbulents ou les époux ou épouses indiscipliné(e)s
-comme un problème.
+comme un problème.  
 De toutes les églises bienveillantes de Golarion, celle de
 Iomédae est la plus agressive dans sa traque et sa lutte contre
 le mal. Ses prêtres préfèrent enquêter sur le terrain plutôt que
@@ -287,7 +287,7 @@ ou d’une maladie préfèrent travailler dans les temples plutôt que
 de rester en convalescence. Les prêtres âgés et infirmes qui ne
 sont pas en mesure d’endurer les rigueurs du champ de bataille
 travaillent dans les tribunaux et officient comme conseillers
-auprès des nobles et des dirigeants de la ville.
+auprès des nobles et des dirigeants de la ville.   
 L’église se concentre énormément sur les Croisades
 mendéviennes contre les horreurs de la Plaie du Monde. Les
 nouvelles selon lesquelles des soldats et des mercenaires
@@ -300,7 +300,7 @@ entreprise serait très mal perçue et les anciens risquent d’avoir
 du mal à trouver suffisamment de prêtres prêts à conduire ces
 investigations à l’encontre de leurs propres camarades. Entretemps,
 certains prêtres essayent de donner l’exemple et de
-réfréner tout extrémisme de la part des autres croisés.
+réfréner tout extrémisme de la part des autres croisés.   
 Ayant récupéré la majorité des disciples de son protecteur
 disparu, Iomédae fait également appliquer les enseignements
 d’Aroden de manière officieuse, bien qu’elle soit beaucoup plus
@@ -308,7 +308,7 @@ franche dans ses objectifs et ne se laisse pas contraindre par les
 évènements de l’histoire. La sensibilité de son église à l’égard
 de l’héritage d’Aroden a largement contribué à la faire accepter
 par le peuple comme son héritière et à autoriser ses disciples à
-s’arroger les possessions et les artefacts sacrés du dieu.
+s’arroger les possessions et les artefacts sacrés du dieu.   
 Il existe de nombreux ordres militaires qui considèrent
 Iomédae comme leur protectrice : la plupart d’entre eux sont
 très actifs au Dernier-Rempart et au Mendev, où on peut
@@ -335,7 +335,7 @@ ne pas heurter les sensibilités de la population déclinante des
 adorateurs d’Aroden. Si les prêtres et les chevaliers consacrent
 une heure par jour à la prière, l’église, elle, ne tient généralement
 ses offices publics qu’une fois par semaine, pendant une à deux
-heures en fonction de l’intérêt local.
+heures en fonction de l’intérêt local.  
 Les dévots érigent souvent un sanctuaire fait de pierres sur
 les sites des grandes batailles menées au nom de Iomédae, le
 surmontant parfois d’une épée brisée plantée au sommet de la
@@ -350,7 +350,7 @@ et peuvent présenter l’un ou l’autre type de marqueur.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-**Les Actes de Iomédae**
+**Les Actes de Iomédae**  
 Les Actes de Iomédae sont les écrits iomédéens les plus sacrés.
 Les fidèles de la déesse s’y réfèrent généralement sous le
 seul titre des Actes. Chaque loi retrace un acte d’héroïsme que
@@ -359,48 +359,48 @@ Contes de courage et d’aventure, ces histoires servent d’exemples
 des vertus iomédéennes. S’il existe des variantes régionales entre
 les histoires, toutes présentent les mêmes thèmes généraux, la
 déesse elle-même reconnaissant que ce sont les enseignements à
-en tirer, non les détails, qui importent. Voici ces onze Actes.
+en tirer, non les détails, qui importent. Voici ces onze Actes.  
 **Premier acte.** Elle tua l’ignoble Nakorshor’mond et arracha les
 corps encore endormis de membres de son cercle des entrailles
-de la bête.
+de la bête.  
 **Deuxième acte.** Elle défit un cercle de sorcières du Garund, libérant
-la cité d’Éléder du joug de leur tyrannie.
+la cité d’Éléder du joug de leur tyrannie.  
 **Troisième acte.** Alors qu’elle chevauchait un griffon en pleine
 bataille aérienne, elle trancha les ailes de Ségruchen, la Gargouille
 de fer, roi autoproclamé du bois des Tumulus, puis le tua dans le
-cratère que sa chute avait creusé avant qu’il ne pût prendre la fuite.
+cratère que sa chute avait creusé avant qu’il ne pût prendre la fuite.  
 **Quatrième acte.** Par ses paroles sincères et une prière à Arazni,
 elle convainquit un régiment de chevaliers mortellement blessés
 de la Deuxième bataille d’Encarthan de retenir une vague d’âmes en peine. Ils luttèrent suffisamment longtemps pour voir arriver
-les renforts à l’aube et survivre.
+les renforts à l’aube et survivre.  
 **Cinquième acte.** Elle châtia Érum-Hel, Seigneur des Morghs,
 à la bataille des Trois Chagrins (durant laquelle le Tyran-quimurmure
 restitua le corps d’Arazni aux [[Chevaliers dOzem|Chevaliers d’Ozem]]) et le
-força à fuir jusqu’en Orv, estropié.
+força à fuir jusqu’en Orv, estropié.  
 **Sixième acte.** Après que le Tyran-qui-murmure eut utilisé sa
 magie pour briser l’épée de la déesse, Iomédae en fusionna les
 morceaux à l’aide d’une prière en faisant le serment qu’elle mettrait
 fin à ce mal, son coeur pur et sa colère juste reforgeant la lame
-en un instant.
+en un instant.  
 **Septième acte.** Une image de Iomédae apparut dans un sanctuaire
 d’Aroden à Absalom, guérissant tous les vertueux qui la
 touchaient et brûlant les êtres vils qui s’en approchaient. Plus tard,
 quand elle accéda à la divinité, le sanctuaire devint un temple à
-son honneur, que l’on appela la Septième église.
+son honneur, que l’on appela la Septième église.  
 **Huitième acte.** Elle convainquit le chevalier tombal, que l’on
 ne connaît que sous le nom du Prince noir, de s’empaler sur
 son épée en signe de pénitence pour ses méfaits. Ce faisant, sa
 mort-vivance s’en trouva inversée et il racheta son âme, ce qui lui
-permit de passer en jugement dans les Halls d’Aroden.
+permit de passer en jugement dans les Halls d’Aroden.  
 **Neuvième acte.** Elle donna neuf gouttes de son sang pour libérer
 neuf chevaliers vertueux emprisonnés par le mage-vampire
 Basilov. Accompagnée des chevaliers, elle le tua ensuite quand il
-tenta de les capturer à nouveau.
+tenta de les capturer à nouveau.  
 **Dixième acte.** Elle dirigea la cité de Kantarie pendant une année
 et un jour alors que son seigneur, le patriarche sans héritier
 de la maison Narikopolous, avait disparu. La cité prospéra malgré
 les attaques constantes d’horreurs métamorphes, qu’elle affronta
-personnellement.
+personnellement.  
 **Onzième acte.**   Au Puits de la Pierre-étoile d’Absalom, elle jeta
 sa simple cape de laine devant elle. Celle-ci s’étendit et s’allongea
 pour former un sentier solide qui enjambait le vide et lui permit
@@ -414,7 +414,7 @@ Le seul ouvrage commun à toutes les églises est celui des ''Actes de
 Iomédae'', que les fidèles désignent généralement sous le seul titre
 des Actes. Ce livre est un recueil de onze miracles personnels que
 Iomédae a réalisés en des temps anciens à travers l’Avistan et le
-Garund, en démonstration de la puissance d’Aroden.
+Garund, en démonstration de la puissance d’Aroden. 
 Vu que tous ces miracles sont survenus avant qu’elle
 n’atteigne la divinité, ils constituent une preuve et un exemple
 de la grandeur qui sommeille en chacun pour peu que, comme
@@ -435,13 +435,13 @@ certains plus courants dans certaines régions que dans d’autres,
 et dont beaucoup font référence à certaines parties des Actes
 ou à des choses que la déesse a dites lorsqu’elle a accompli ces
 miracles. En dehors des combats, il y a une expression que les
-adorateurs de la déesse utilisent fréquemment.
+adorateurs de la déesse utilisent fréquemment.  
 **Pour la Victoire, pour le Coeur.** Qu’on le murmure comme
 une prière ou qu’on le crie comme un défi, ce dicton explique
 qu’il faut frapper en plein coeur si l’on  ut s’assurer de tuer
 l’ennemi. Les chevaliers l’utilisent en combat, les prêtres pour
 le baptême des nouveaux acolytes et les fermiers quand ils
-coupent une souche d’arbre.
+coupent une souche d’arbre.  
 '''La justice et l’honneur sont un lourd fardeau à porter pour le vertueux. Nous en assumons la charge afin
 que le faible trouve la force et que le soumis trouve le courage.''' Les Lois de Iomédae.
 
@@ -455,11 +455,11 @@ dernière conserve des rapports sur d’innombrables
 batailles et éliminations de monstres nommés, chacun
 de ces événements pouvant être mentionné dans un
 sermon hebdomadaire mais aucun n’étant suffisamment
-important pour mériter sa propre fête.
+important pour mériter sa propre fête.  
 **L’Ascension de l’Héritière.** Cette fête, qui s’appelait au départ
 le Jour du Héraut, célébrait le jour où Aroden a choisi Iomédae
 comme héraut et l’a investie de pouvoirs dépassant ceux d’une
-déesse novice. Elle a été renommée après la mort d’Aroden.
+déesse novice. Elle a été renommée après la mort d’Aroden.  
 **Armasse.** Célébré le 16 d’Arodus, ce jour est traditionnellement
 celui où l’on forme les roturiers au maniement des armes
 courantes, où l’on choisit des écuyers comme chevaliers et
@@ -467,12 +467,12 @@ où l’on ordonne les nouveaux prêtres, quoique au cours des
 dernières années, il commence à inclure des joutes et des duels.
 Quand Aroden était encore en vie, c’était également le jour où
 l’on discutait des guerres humaines passées et où l’on étudiait les
-leçons de l’histoire et leur manière de façonner l’ère moderne.
+leçons de l’histoire et leur manière de façonner l’ère moderne.  
 **Le Jour de l’Héritière.** Ce sombre événement commémoratif
 a lieu le 19 rova et rappelle le jour où Iomédae a invité
 officiellement tous les membres de l’église mourante d’Aroden
 à rejoindre son giron. Il est probable que, d’ici une autre
-génération humaine, cette fête disparaîtra.
+génération humaine, cette fête disparaîtra.  
 **Le Jour de l’Ascension.** Cette fête a lieu de 6 lamashan et
 célèbre l’anniversaire de l’entrée de Iomédae dans la Cathédrale
 de la pierre-étoile. Il s’agit d’une fête joyeuse pour l’église, où
@@ -494,7 +494,7 @@ maléfique ou à tuer des monstres tout droit sortis des profondeurs.
 En général, ils voyagent en compagnie d’autres membres de leur
 cercle, même si certains cercles présentent une organisation
 moins structurée et que leurs membres ne se retrouvent qu’une
-fois par mois pour informer les autres de leur nouveau statut.
+fois par mois pour informer les autres de leur nouveau statut.  
 Depuis quelques années, il est devenu coutume pour les prêtres
 qui cherchent à devenir des chevaliers de l’épée d’emprunter la
 route Fluviale jusqu’au Mendev afin de prendre part à la croisade
@@ -503,7 +503,7 @@ il arrive qu’un chevalier de l’épée particulièrement héroïque
 parvienne à convaincre tout son cercle de remonter le Sellen pour
 aller combattre les démons. Les prêtres qui y survivent en retirent
 beaucoup d’honneur personnel et en viennent à diriger leurs
-propres cercles ou à former les autres à la chasse aux démons.
+propres cercles ou à former les autres à la chasse aux démons.  
 Les prêtres sont censés agir avec honneur, se montrer
 courageux au combat, faire respecter les lois justes et traduire
 les scélérats en justice. Ils doivent servir d’exemple aux gens du

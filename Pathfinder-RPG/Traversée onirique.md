@@ -9,14 +9,14 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 6, [[psychiste|Psy]] 6
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|contact]]
-**Cible** personnage et une créature/niveau
-**Durée** 1 heure/niveau (T)
+{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 6, [[psychiste|Psy]] 6  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|contact]]  
+**Cible** personnage et une créature/niveau  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage et les autres cibles du sort sont physiquement attirés hors du plan Matériel et entraînés dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], dans un voyage au cœur des songes de la créature que le personnage a désignée. Dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], ils se déplacent sur une mer mouvante, faite des pensées, des désirs et des émotions des rêveurs, afin de gagner leur paysage onirique de destination. Pour cela, il leur faut 1 heure. Le personnage peut dissiper le sort à n’importe quel moment avant la fin de cette durée, afin de ramener tout le monde au point de départ, sur le plan Matériel. Du fait de sa nature, le lien entre les rêves et la réalité est ténu et les chances d’arriver précisément où le personnage le souhaite dépendent de sa familiarité avec le rêveur qu’il essaie d’atteindre. Lancez un d100 dans la table suivante pour déterminer la précision du lieu d’arrivée à la fin de la traversée onirique.
 
 
@@ -30,11 +30,11 @@ Le personnage et les autres cibles du sort sont physiquement attirés hors du pl
 | Fausse identité | — | — | 81-92 | 93-100 |
 
 
-**Familiarité.**
-*Très familier.* Indique que le personnage a eu des contacts au cours des dernières 24 heures avec la créature dont il tente de localiser le paysage onirique via *[[songe]]*, *[[conseil onirique]]*, *[[examen des rêves]]* ou une magie similaire.
-*Familier.* Implique que le personnage a noué un contact avec elle via l’un de ces sorts au moins une fois dans le passé.
-*Connue.* Indique que le personnage connaît la créature mais n’a pas établi de contact avec ses rêves grâce à ces sorts.
-*Vaguement connue.* Indique une créature dont le personnage a entendu parler, qu’il connaît de nom et sous sa véritable identité, par contre, il ne l’a jamais rencontrée.
+**Familiarité.**  
+*Très familier.* Indique que le personnage a eu des contacts au cours des dernières 24 heures avec la créature dont il tente de localiser le paysage onirique via *[[songe]]*, *[[conseil onirique]]*, *[[examen des rêves]]* ou une magie similaire.  
+*Familier.* Implique que le personnage a noué un contact avec elle via l’un de ces sorts au moins une fois dans le passé.  
+*Connue.* Indique que le personnage connaît la créature mais n’a pas établi de contact avec ses rêves grâce à ces sorts.   
+*Vaguement connue.* Indique une créature dont le personnage a entendu parler, qu’il connaît de nom et sous sa véritable identité, par contre, il ne l’a jamais rencontrée.  
 *Fausse identité.* Signifie que le personnage connaît seulement la créature sous une fausse identité, qu’il l’ait déjà rencontrée ou non. Quand il essaie de localiser son paysage onirique, il lance 1d20+80 dans la table (au lieu d’un d100) pour connaître le résultat du sort car il n’a aucune chance de repérer le bon paysage.
 
 **À destination.** Le personnage se rend dans le paysage onirique actuel de la cible.
@@ -71,19 +71,19 @@ Si la cible de la traversée onirique ne rêve pas, le personnage et ses compagn
 
 ((({s:sortssimilaires|traversée onirique}
 ## [[Voyage onirique]]
-{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 9
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|contact]]
-**Cible** personnage et une créature/niveau
-**Durée** 1 heure/niveau (T)
+{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 9  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|contact]]  
+**Cible** personnage et une créature/niveau  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[traversée onirique]]* mais le personnage et ses compagnons se déplacent dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] à bord d’un véhicule fantastique conçu par le personnage, qui réduit le temps de trajet de moitié. Le personnage est le seul capable de piloter son véhicule et il peut le faire même s’il n’est pas à bord.
 
-Le véhicule psychique isole les esprits qu’il transporte contre les intenses marées d’émotions de la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] et immunise tous ses passagers contre les effets d’émotion et de terreur néfastes. Contrairement à la *[[traversée onirique]]*, le véhicule n’a aucun risque d’arriver presque à destination. De plus, le personnage n’a pas besoin d’avoir rencontré la créature visée mais il doit au moins en avoir une description fiable. En revanche, s’il tente le voyage sans disposer d’assez d’informations ou avec des informations erronées, il doit lancer le dé en utilisant la ligne fausse identité de la table de la *[[traversée onirique]]*.
+Le véhicule psychique isole les esprits qu’il transporte contre les intenses marées d’émotions de la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] et immunise tous ses passagers contre les effets d’émotion et de terreur néfastes. Contrairement à la *[[traversée onirique]]*, le véhicule n’a aucun risque d’arriver presque à destination. De plus, le personnage n’a pas besoin d’avoir rencontré la créature visée mais il doit au moins en avoir une description fiable. En revanche, s’il tente le voyage sans disposer d’assez d’informations ou avec des informations erronées, il doit lancer le dé en utilisant la ligne fausse identité de la table de la *[[traversée onirique]]*. 
 
-Les créatures qui descendent du véhicule peuvent entrer dans le paysage onirique ou sortir dans le plan où se trouve le corps du rêveur, auquel cas elles arrivent quelque part dans un rayon d’un kilomètre autour de lui. Toutes les créatures qui débarquent du véhicule sur un plan au même moment arrivent au même endroit.
+Les créatures qui descendent du véhicule peuvent entrer dans le paysage onirique ou sortir dans le plan où se trouve le corps du rêveur, auquel cas elles arrivent quelque part dans un rayon d’un kilomètre autour de lui. Toutes les créatures qui débarquent du véhicule sur un plan au même moment arrivent au même endroit. 
 
 Le rêveur ne peut pas empêcher les voyageurs d’entrer dans son rêve mais il a droit à un jet de [[Volonté]] pour interdire à un groupe de créatures de sortir sur le plan qu’occupe son corps. Le véhicule psychique reste dans le rêve jusqu’à ce que le sort expire, même s’il n’y a plus personne à son bord. Une créature adjacente au rêveur peut retourner sur le véhicule onirique par une [[action complexe]], en franchissant un portail illusoire que les bénéficiaires du sort sont les seules à voir. Le personnage peut renvoyer le véhicule et autant de créatures qu’il désire à l’endroit où il a lancé le sort, afin de les ramener sur ce plan, et le faire ensuite revenir dans le rêve. Ces trajets prennent autant de temps que le voyage initial
 et se font aussi souvent que voulu dans la limite de la durée du sort.

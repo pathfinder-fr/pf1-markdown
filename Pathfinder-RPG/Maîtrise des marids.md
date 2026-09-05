@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
-**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#EAU|eau]]<nowiki>]</nowiki> ;
+**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#EAU|eau]]<nowiki>]</nowiki> ; 
 **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 **Temps d’incantation** 1 [[action simple]]  
 **Composantes** [[Composantes|V,G]]  

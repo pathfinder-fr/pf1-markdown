@@ -20,5 +20,5 @@ Au niveau 5, le combattant déloyal devient un maître de l’art des sales coup
 Au niveau 9, le combattant déloyal a perfectionné l’art d’effectuer rapidement des sales coups. Il peut entreprendre une manœuvre offensive de [[sale coup]] comme une attaque plutôt que comme une [[action simple]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 2]].
 
 #### Double astuce (Ext)
-Au niveau 13, lorsqu’il entreprend une manœuvre offensive, le combattant déloyal peut affliger sa cible de deux états préjudiciables au lieu d’un. Il faut effectuer une action distincte pour annuler chaque malus d’état préjudiciable.
+Au niveau 13, lorsqu’il entreprend une manœuvre offensive, le combattant déloyal peut affliger sa cible de deux états préjudiciables au lieu d’un. Il faut effectuer une action distincte pour annuler chaque malus d’état préjudiciable.  
 Au niveau 17, il peut appliquer trois états préjudiciables différents. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 3]] et [[guerrier#ENTRAINEMENTAUXARMES|4]].

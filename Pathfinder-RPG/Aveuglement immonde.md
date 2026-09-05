@@ -16,7 +16,7 @@ Categories:
 
 **Condition:** [[Lancer improvisé]]
 
-**Avantage:** Par une [[action simple]] dans un milieu urbain ou souterrain, vous pouvez lancer de la saleté, de l'eau usée, de la boue, ou toute substance similaire récupérée sur une surface proche vers un ennemi en effectuant une attaque de contact à distance avec une portée de 1,5 m. Si votre attaque touche, vous pouvez tenter immédiatement une manoeuvre de sale coup contre la cible en utilisant une action libre ; ce sale coup ne peut être utilisé qu'en vue d'aveugler votre cible.
+**Avantage:** Par une [[action simple]] dans un milieu urbain ou souterrain, vous pouvez lancer de la saleté, de l'eau usée, de la boue, ou toute substance similaire récupérée sur une surface proche vers un ennemi en effectuant une attaque de contact à distance avec une portée de 1,5 m. Si votre attaque touche, vous pouvez tenter immédiatement une manoeuvre de sale coup contre la cible en utilisant une action libre ; ce sale coup ne peut être utilisé qu'en vue d'aveugler votre cible. 
 
 Comme il s'agit d'une attaque de contact à distance, elle provoque une attaque d'opportunité, même si votre attaque de sale coup ne devrait pas autrement provoquer d'attaque d'opportunité (par exemple, si vous disposez par exemple du don [[Science du sale coup]])
 

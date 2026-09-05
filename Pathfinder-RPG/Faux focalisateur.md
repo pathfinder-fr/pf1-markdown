@@ -12,9 +12,9 @@ Categories:
 
 **Conditions** [[Connaissances]] (religion) 1 rang, aptitude à lancer des sorts profanes.
 
-**Avantage** En utilisant un focalisateur divin lors d’une incantation, le personnage peut lancer n’importe quel sort qui nécessite l’utilisation d’une composante matérielle d’une valeur inférieure ou égale à ce focalisateur divin (100 po maximum) sans disposer de cette composante. Par exemple, si le personnage utilise un symbole sacré en argent d’une valeur de 25 po, il n’a pas à fournir les composantes matérielles d’un sort profane si celles-ci valent 25 po ou moins.
+**Avantage** En utilisant un focalisateur divin lors d’une incantation, le personnage peut lancer n’importe quel sort qui nécessite l’utilisation d’une composante matérielle d’une valeur inférieure ou égale à ce focalisateur divin (100 po maximum) sans disposer de cette composante. Par exemple, si le personnage utilise un symbole sacré en argent d’une valeur de 25 po, il n’a pas à fournir les composantes matérielles d’un sort profane si celles-ci valent 25 po ou moins. 
 
-L’incantation du sort provoque toujours des attaques d’opportunité comme à l’accoutumée.
+L’incantation du sort provoque toujours des attaques d’opportunité comme à l’accoutumée. 
 
 Si le sort nécessite une composante matérielle dont la valeur est supérieure à celle du focalisateur divin, le personnage doit disposer de la composante matérielle pour pouvoir lancer le sort, comme à l’accoutumée.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 250 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:cs}{s:UI}**Prix** 250 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Lorsqu'elle est ingérée, cette concoction amère de couleur rouille accorde 1d4 utilisations d'[[Outils alchimiques#INSPIRATION|inspiration alchimique]] qui ne peuvent être dépensées que sur les tests d'[[Escamotage]] et de [[Sabotage]]. Les avantages du tonique de mains rapides durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests d'[[Acrobaties]] et d'[[Évasion]] et conserver le pire résultat.

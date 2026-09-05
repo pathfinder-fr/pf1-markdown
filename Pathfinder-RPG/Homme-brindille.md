@@ -38,42 +38,42 @@ Categories:
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou bande (3-8)}
 {s:BDTexte|<b>Trésor</b> standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Projection d'éclats de bois (Ext)</b> Par une action simple utilisable trois fois par jour, un homme-brindille
+{s:BDTexte|<b>Projection d'éclats de bois (Ext)</b> Par une action simple utilisable trois fois par jour, un homme-brindille 
 peut projeter un déluge d’éclats de bois et de ronces à partir de son corps. Cette attaque crée un cône de 4,50 mètres d’éclats acérés qui infligent 4d6 points de dégâts de type perforant à toutes les créatures situées dans le cône. Un jet de Réflexes contre un DD de 14 permet de diviser les dégâts par deux. Le DD du jet de sauvegarde dépend de la Constitution.}
 {s:BDTexte|<b>Saut de ronces (Sur).</b> Au cours d’une action de mouvement, un homme-brindille peut se téléporter sur de courtes distances entre des ronces, des buissons ou des fourrés comme s’il utilisait porte dimensionnelle. L’homme-brindille peut ainsi voya-ger sur une distance totale de 18 mètres par jour. Ce mouvement doit être utilisé par tranche de 3 mètres et ne provoque pas d’attaque d’opportunité.}
 
-</td><td><div>''Cette  créature  émaciée  de  forme  vaguement  humanoïde  semble  être
+</td><td><div>''Cette  créature  émaciée  de  forme  vaguement  humanoïde  semble  être 
 composée uniquement de brindilles attachées par des lianes épineuses.''
 
-Au plus profond des forêts ancestrales, les hommes-brindilles
-passent  leur  temps  à  tourmenter  les  intrus  et  à  semer  la
-destruction  dans  les  communautés  de  colons.  Ces  êtres
-féeriques  malicieux  agissent  tels  des  protecteurs
-déments  et  représentent  une  menace  constante  pour  toute
-tentative  de  civilisation.  Les  hommes-brindilles  adorent  casser
-les  roues  des  chariots  qui  composent  les  convois  de  colons,
-briser  les  arcs  des  chasseurs  et  détruire  les  huttes  et  les  villages
-isolés.  Très  peu  de  créatures,  même  parmi  les  autres  fées,
-tolèrent  très  longtemps  la  compagnie  des  hommes-brindilles
-(qui  sont  pourtant  intelligents).  Les  sylvaniens  les  trouvent
-particulièrement ennuyeux et ne supportent pas les allusions au
-fait  qu’il  pourrait  s’agir  de  créatures  apparentées.  Les  hommes-brindilles  eux  aussi  ne  supportent  pas  d’être  considérés  comme
-des plantes et sont fiers de leur héritage féerique. Ils font parfois
-des efforts considérables pour tenter d’impressionner les dryades,
-mais  ces  tentatives  sont  rabrouées  quasiment  à  chaque  fois.
-Certains  spriggans,  viflins  et  autres  fées  maléfiques  s’associent
-parfois  avec  les  hommes-brindilles.  Les  gobelins  se  méfient  des
-hommes-brindilles mais les gobelours, par contre, usent souvent
+Au plus profond des forêts ancestrales, les hommes-brindilles 
+passent  leur  temps  à  tourmenter  les  intrus  et  à  semer  la 
+destruction  dans  les  communautés  de  colons.  Ces  êtres 
+féeriques  malicieux  agissent  tels  des  protecteurs 
+déments  et  représentent  une  menace  constante  pour  toute 
+tentative  de  civilisation.  Les  hommes-brindilles  adorent  casser 
+les  roues  des  chariots  qui  composent  les  convois  de  colons, 
+briser  les  arcs  des  chasseurs  et  détruire  les  huttes  et  les  villages 
+isolés.  Très  peu  de  créatures,  même  parmi  les  autres  fées, 
+tolèrent  très  longtemps  la  compagnie  des  hommes-brindilles 
+(qui  sont  pourtant  intelligents).  Les  sylvaniens  les  trouvent 
+particulièrement ennuyeux et ne supportent pas les allusions au 
+fait  qu’il  pourrait  s’agir  de  créatures  apparentées.  Les  hommes-brindilles  eux  aussi  ne  supportent  pas  d’être  considérés  comme 
+des plantes et sont fiers de leur héritage féerique. Ils font parfois 
+des efforts considérables pour tenter d’impressionner les dryades, 
+mais  ces  tentatives  sont  rabrouées  quasiment  à  chaque  fois. 
+Certains  spriggans,  viflins  et  autres  fées  maléfiques  s’associent 
+parfois  avec  les  hommes-brindilles.  Les  gobelins  se  méfient  des 
+hommes-brindilles mais les gobelours, par contre, usent souvent 
 de violence pour les contraindre à les servir.
-Le  corps  des  hommes-brindilles  est  intégralement  constitué
-d’épines et de brindilles tordues rassemblées en fagots par des
-lianes.  Au-dessus  de  leur  tête  se  trouvent  des  excroissances  de
-mousse  qui  ressemblent  à  des  touffes  de  cheveux.  Les  yeux  de
-ces créatures prennent la forme de nœuds de bois ou de
-trous sombres et leur bouche se réduit à un
-gouffre  bordé  de  bâtonnets  brisés  qui
-divise  leur  tête  en  deux  parties.
-Ici  et  là,  des  feuilles  et  des
-bourgeons  poussent  sur
+Le  corps  des  hommes-brindilles  est  intégralement  constitué 
+d’épines et de brindilles tordues rassemblées en fagots par des 
+lianes.  Au-dessus  de  leur  tête  se  trouvent  des  excroissances  de 
+mousse  qui  ressemblent  à  des  touffes  de  cheveux.  Les  yeux  de 
+ces créatures prennent la forme de nœuds de bois ou de 
+trous sombres et leur bouche se réduit à un 
+gouffre  bordé  de  bâtonnets  brisés  qui 
+divise  leur  tête  en  deux  parties. 
+Ici  et  là,  des  feuilles  et  des 
+bourgeons  poussent  sur 
 leur corps.
 </div></td></tr></table>

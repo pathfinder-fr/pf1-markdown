@@ -11,12 +11,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cibles** créature touchée
-**Durée** 1 heure/niveau (T)
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[contact]]  
+**Cibles** créature touchée  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 La cible devient incapable de dire la vérité. Les mensonges proférés n'ont besoin d'être ni convaincants ni cohérents entre eux, mais ils ne peuvent pas être vrais pour autant que la cible le sache. Cet effet s'étend à la communication non-verbale, comme le langage des signes ou les notes écrites. Le sort permet de parler en métaphores et à propos de personnages fictifs.

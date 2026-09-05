@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*L’aasimar déplace ses ennemis dans un rayon d’énergie vertueuse.*
 
-**Conditions requises.** [[Canalisation de force]], [[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 4d6.
+**Conditions requises.** [[Canalisation de force]], [[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 4d6. 
 
 **Avantages.** Lorsqu’il utilise [[Canalisation de force]], l’aasimar peut affecter toutes les créatures situées dans une ligne de 18 mètres ou dans un cône de 9 mètres. Il peut décider de [[repousser (capacité)|repousser]] ou d’[[attirer (capacité)|attirer]] tous les êtres situés dans la zone affectée qui échouent à leur [[jet de sauvegarde]].

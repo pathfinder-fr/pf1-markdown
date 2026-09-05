@@ -16,12 +16,12 @@ Celui qui marche dans le sang|%2fPCUP%2fReligion-PNG%2fAchaekek.png|[[Divinités
 |[[Inquisitions#CLANDESTINITE|Clandestinité]], [[Inquisitions#EXECUTION|Exécution]]}{s:cs}{s:ISG}Achaékek est le dieu des assassins, et le dieu patron des assassins des Mantes Rouges basés sur l'île de Médiogalti. Achaékek occupe une position intermédiaire entre [[Calistria (technique)|Calistria]], la déesse de la vengeance, mais pas nécessairement du meurtre, et [[Norgorber (technique)|Norgorber]] qui est le dieu de tous les meurtres, qu'ils soient payés ou non. Son symbole est une paire de griffes de mante représentée en prière.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[druide]]).**
+**Lancement de sorts ([[druide]]).**  
 • *[[Ordre assassin]]* peut être préparé comme un sort de 1er niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Négation de larôme|Négation de l'arôme]]* peut être préparé comme un sort de 1er niveau.
-• *[[Pattes daraignée|Pattes d'araignée]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Négation de larôme|Négation de l'arôme]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Pattes daraignée|Pattes d'araignée]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Sens surdéveloppés]]* peut être préparé comme un sort de 1er niveau.
 
 ### Options de personnage thématiques

@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:23
 {s:BDTitre|Ceinture du rat contaminé supérieure|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 11 200 po ; **Poids** 0,5 kg
 (((Description)))
-Cette ceinture fonctionne comme une [[Ceinture du Rat Contaminé]] mais donne un bonus d’altération de +2 à la [[Constitution]] et à la [[Dextérité]]. Ces bonus sont temporaires pendant les vingt-quatre premières heures où le personnage porte la ceinture.
+Cette ceinture fonctionne comme une [[Ceinture du Rat Contaminé]] mais donne un bonus d’altération de +2 à la [[Constitution]] et à la [[Dextérité]]. Ces bonus sont temporaires pendant les vingt-quatre premières heures où le personnage porte la ceinture. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Endurance de lours|endurance de l’ours]]*, *[[Grâce féline]]*, *[[Neutralisation du poison]]*, *[[Guérison des maladies]]*  ; **Coût** 5 600 po
 </div>

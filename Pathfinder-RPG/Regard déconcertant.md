@@ -18,7 +18,7 @@ Categories:
 
 **Conditions.** [[Hypnotiseur]] de niveau 5, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]]
 
-**Avantage.** Lorsque le personnage déclenche son regard douloureux, la cible doit réussir un jet de [[Volonté]] ([[DD]] 10 + 1/2 niveau d’[[hypnotiseur]] + modificateur de [[Charisme]] du personnage) ou subir une pénalité de -6 aux tests de [[Sabotage]] et de [[Perception]] ainsi qu'une pénalité de -2 aux jets de [[Réflexes]] pendant 1 minute.
+**Avantage.** Lorsque le personnage déclenche son regard douloureux, la cible doit réussir un jet de [[Volonté]] ([[DD]] 10 + 1/2 niveau d’[[hypnotiseur]] + modificateur de [[Charisme]] du personnage) ou subir une pénalité de -6 aux tests de [[Sabotage]] et de [[Perception]] ainsi qu'une pénalité de -2 aux jets de [[Réflexes]] pendant 1 minute. 
 
 Si la cible possède la capacité [[Roublard#RECHERCHEDESPIEGES|sens des pièges]] ou [[Roublard#SENSDESPIEGES|recherche des pièges]] et rate son [[jet de sauvegarde]], elle perd aussi le bénéfice de cette capacité (ou de ces capacités) pendant 1 minute.
 

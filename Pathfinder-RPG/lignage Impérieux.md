@@ -15,7 +15,7 @@ Categories:
 
 [[FAQ- Manuel des races#5|→]] Humain : Où se trouve le sort *pure strain* du lignage d'ensorceleur impérieux ?**'
 
-Le sort *pure strain* a été abandonné lors du développement mais son nom n'a pas été retiré de la liste des <u>[[Lignage Impérieux|sorts bonus]]</u>. Remplacez *pure strain* par *[[champ de force]]*.
+Le sort *pure strain* a été abandonné lors du développement mais son nom n'a pas été retiré de la liste des <u>[[Lignage Impérieux|sorts bonus]]</u>. Remplacez *pure strain* par *[[champ de force]]*.  
 Cela a été noté pour une future réimpression du *Manuel des races*.}**Sorts supplémentaires.** *[[Instant de gloire]]* (3), *[[splendeur de laigle|splendeur de l’aigle]]* (5), *[[héroïsme]]* (7), *[[triple aspect]]* (9), *[[injonction suprême]]* (11), *[[champ de force]]* (13), *[[résistance à lâge supérieure|résistance à l’âge supérieure]]* (15), *[[échec annoncé]]* (17), *[[présence écrasante]]* (19)
 
 **Dons supplémentaires.** [[Aptitude magique]], [[Dur à cuire]], [[Endurance]], [[Persuasion]], [[Résistance héroïque]], [[Récupération héroïque]], [[Science de linitiative|Science de l’initiative]], [[Sort persistant]].

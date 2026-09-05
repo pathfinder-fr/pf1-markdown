@@ -6,7 +6,7 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:Desambi|Le [[Livre des damnés 1 (Contenu)|Livre des damnés]] paru chez BBE est une compilation de trois ouvrages plus anciens, ici est compilée une sorte de réédition plus récente et avec plus de contenu.}[Book of the Damned](https://paizo.com/products/btpy9tok) a été publié en Septembre 2017 par Paizo inc.
+{s:Desambi|Le [[Livre des damnés 1 (Contenu)|Livre des damnés]] paru chez BBE est une compilation de trois ouvrages plus anciens, ici est compilée une sorte de réédition plus récente et avec plus de contenu.}[Book of the Damned](https://paizo.com/products/btpy9tok) a été publié en Septembre 2017 par Paizo inc.  
 Traduit par la communauté à partir de Juillet 2021 (<abbr title="Initiateur, traducteur"><u>yumharu</u></abbr>, <abbr title="Traducteur, relecteur">Undercov</abbr>, <abbr title="Relecteur">FaustMe</abbr>). Contenu intégré en Mars 2023.
 
 Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté, et a été soumis à la licence OGL.
@@ -22,73 +22,73 @@ Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté
 
 ### Classes de prestige
 <div class="article_3col">
-[[Adepte démoniaque]],
-[[Buveur dâmes|Buveur d'âmes]],
+[[Adepte démoniaque]],  
+[[Buveur dâmes|Buveur d'âmes]],  
 [[Diaboliste]].
 </div>
 
 
 ### Divinités
 <div class="article_3col">
-[[Aksha (technique)|Le second souffle]] (Aksha),
-[[Akuma (technique)|Le roi cornu]] (Akuma),
-[[Ananshea (technique)|La peau qui marche sur les dents]] (Ananshea),
-[[Andak (technique)|Le démembré]] (Andak),
-[[Aroggus (technique)|Le fondateur d'abbaye]] (Aroggus),
-[[Barravoclair (technique)|La dame du dernier soupir]] (Barravoclair),
-[[Bohga (technique)|Le trésorier]] (Bohga),
-[[Bundha (technique)|Le boucher chantant]] (Bundha),
-[[Caera (technique)|Celui qui baigne dans le sang]] (Caera),
-[[Chamiaholom (technique)|Bâton crânien]] (Chamiaholom),
-[[Charg (technique)|La roue de Typhon]] (Charg),
-[[Chimon (technique)|Le chasseur de sang]] (Chimon),
-[[Chugarra (technique)|Le gourou des bouchers]] (Chugarra),
-[[Chupurvagasti (technique)|La dame de la brume empoisonnée]] (Chupurvagasti),
-[[Dachzerul (technique)|Les ténèbres derrière soi]] (Dachzerul),
-[[Dradjit (technique)|Le tueur de dieux]] (Dradjit),
-[[Fharaas (technique)|Celui qui voit dans la peau]] (Fharaas),
-[[Gavidya (technique)|L'innombrable]] (Gavidya),
-[[Guyuku (technique)|Le démon des mers]] (Guyuku),
-[[Hataam (technique)|Le dévoreur de rivières]] (Hataam),
-[[Hudima (technique)|L’assassin des siens]] (Hudima),
-[[Hydim (technique)|Le jeûne éternel]] (Hydim),
-[[Iggeret (technique)|Celle qui était perdue]] (Iggeret),
-[[Inkariax (technique)|La mort blanche]] (Inkariax),
-[[Inma (technique)|L'impératrice du monde]] (Inma),
-[[Ioramvol (technique)|La bouche pleine de rochers]] (Ioramvol),
-[[Jyotah (technique)|Celui qui marche parmi les dieux]] (Jyotah),
-[[Kaikyton (technique)|Le tisserand suturé]] (Kaikyton),
-[[Kunkarna (technique)|Le guerrier des rêves]] (Kunkarna),
-[[Maeha (technique)|Le père des mensonges]] (Maeha),
-[[Morrobahn (technique)|Le germe parasite]] (Morrobahn),
-[[Muronna (technique)|La mère noire]] (Muronna),
-[[Mursha (technique)|Le maitre des bêtes]] (Mursha),
-[[Sans-nom (technique)|Le trône vide]] (Nameless),
-[[Nataka (technique)|Le roi rouge]] (Nataka),
-[[Onamahli (technique)|Le deux fois pur]] (Onamahli),
-[[Onmyuza (technique)|Celui qui danse dans la chair]] (Onmyuza),
-[[Otikaya (technique)|L'esprit archer]] (Otikaya),
-[[Ozranvial (technique)|Le sourire du désespoir]] (Ozranvial),
-[[Prihasta (technique)|Le général entre le Paradis et l'Enfer]] (Prihasta),
-[[Raetorgash (technique)|Le collectionneur de crânes]] (Raetorgash),
-[[Rahu (technique)|Le dévoreur de soleil]] (Rahu),
-[[Ravana (technique)|L’alpha et l’oméga]] (Ravana),
-[[Rytara (technique)|Serpent de l’œil oriental]] (Rytara),
-[[Shawnari (technique)|Celui qui n’est pas à sa place]] (Shawnari),
-[[Sugroz (technique)|La voix des hurlements]] (Sugroz),
-[[Surpa (technique)|Le vengeur]] (Surpa),
-[[Szuriel (technique)|Cavalier de la guerre]] (Szuriel),
-[[Taraksun (technique)|Celui qui éveille la fureur]] (Taraksun),
-[[Ushitora (technique)|Gardien de la Porte des onis]] (Ushitora),
-[[Uzumae (technique)|Daimyo du nord]] (Uzumae),
-[[Velgaas (technique)|Les esprits dans le noir]] (Velgaas),
-[[La mère vermillon (technique)|La mère vermillon]] (Vermilion Mother),
-[[Vévélor (technique)|Les rêves brisés]] (Vevelor),
-[[Vibhishah (technique)|Le chercheur]] (Vibhishah),
-[[Xiquiripat (technique)|La plaie volante]] (Xiquiripat),
-[[Yabu (technique)|Seigneur de la caldeira de Kazan]] (Yabu),
-[[Zabha (technique)|Le profanateur]] (Zabha),
-[[Zipacna (technique)|La montagne au-dessous]] (Zipacna),
+[[Aksha (technique)|Le second souffle]] (Aksha),  
+[[Akuma (technique)|Le roi cornu]] (Akuma),  
+[[Ananshea (technique)|La peau qui marche sur les dents]] (Ananshea),  
+[[Andak (technique)|Le démembré]] (Andak),  
+[[Aroggus (technique)|Le fondateur d'abbaye]] (Aroggus),  
+[[Barravoclair (technique)|La dame du dernier soupir]] (Barravoclair),  
+[[Bohga (technique)|Le trésorier]] (Bohga),  
+[[Bundha (technique)|Le boucher chantant]] (Bundha),  
+[[Caera (technique)|Celui qui baigne dans le sang]] (Caera),  
+[[Chamiaholom (technique)|Bâton crânien]] (Chamiaholom),  
+[[Charg (technique)|La roue de Typhon]] (Charg),  
+[[Chimon (technique)|Le chasseur de sang]] (Chimon),  
+[[Chugarra (technique)|Le gourou des bouchers]] (Chugarra),  
+[[Chupurvagasti (technique)|La dame de la brume empoisonnée]] (Chupurvagasti),  
+[[Dachzerul (technique)|Les ténèbres derrière soi]] (Dachzerul),  
+[[Dradjit (technique)|Le tueur de dieux]] (Dradjit),  
+[[Fharaas (technique)|Celui qui voit dans la peau]] (Fharaas),  
+[[Gavidya (technique)|L'innombrable]] (Gavidya),  
+[[Guyuku (technique)|Le démon des mers]] (Guyuku),  
+[[Hataam (technique)|Le dévoreur de rivières]] (Hataam),  
+[[Hudima (technique)|L’assassin des siens]] (Hudima),  
+[[Hydim (technique)|Le jeûne éternel]] (Hydim),  
+[[Iggeret (technique)|Celle qui était perdue]] (Iggeret),  
+[[Inkariax (technique)|La mort blanche]] (Inkariax),  
+[[Inma (technique)|L'impératrice du monde]] (Inma),  
+[[Ioramvol (technique)|La bouche pleine de rochers]] (Ioramvol),  
+[[Jyotah (technique)|Celui qui marche parmi les dieux]] (Jyotah),  
+[[Kaikyton (technique)|Le tisserand suturé]] (Kaikyton),  
+[[Kunkarna (technique)|Le guerrier des rêves]] (Kunkarna),  
+[[Maeha (technique)|Le père des mensonges]] (Maeha),  
+[[Morrobahn (technique)|Le germe parasite]] (Morrobahn),  
+[[Muronna (technique)|La mère noire]] (Muronna),  
+[[Mursha (technique)|Le maitre des bêtes]] (Mursha),  
+[[Sans-nom (technique)|Le trône vide]] (Nameless),  
+[[Nataka (technique)|Le roi rouge]] (Nataka),  
+[[Onamahli (technique)|Le deux fois pur]] (Onamahli),  
+[[Onmyuza (technique)|Celui qui danse dans la chair]] (Onmyuza),  
+[[Otikaya (technique)|L'esprit archer]] (Otikaya),  
+[[Ozranvial (technique)|Le sourire du désespoir]] (Ozranvial),  
+[[Prihasta (technique)|Le général entre le Paradis et l'Enfer]] (Prihasta),  
+[[Raetorgash (technique)|Le collectionneur de crânes]] (Raetorgash),  
+[[Rahu (technique)|Le dévoreur de soleil]] (Rahu),  
+[[Ravana (technique)|L’alpha et l’oméga]] (Ravana),  
+[[Rytara (technique)|Serpent de l’œil oriental]] (Rytara),  
+[[Shawnari (technique)|Celui qui n’est pas à sa place]] (Shawnari),  
+[[Sugroz (technique)|La voix des hurlements]] (Sugroz),  
+[[Surpa (technique)|Le vengeur]] (Surpa),  
+[[Szuriel (technique)|Cavalier de la guerre]] (Szuriel),  
+[[Taraksun (technique)|Celui qui éveille la fureur]] (Taraksun),  
+[[Ushitora (technique)|Gardien de la Porte des onis]] (Ushitora),  
+[[Uzumae (technique)|Daimyo du nord]] (Uzumae),  
+[[Velgaas (technique)|Les esprits dans le noir]] (Velgaas),  
+[[La mère vermillon (technique)|La mère vermillon]] (Vermilion Mother),  
+[[Vévélor (technique)|Les rêves brisés]] (Vevelor),  
+[[Vibhishah (technique)|Le chercheur]] (Vibhishah),  
+[[Xiquiripat (technique)|La plaie volante]] (Xiquiripat),  
+[[Yabu (technique)|Seigneur de la caldeira de Kazan]] (Yabu),  
+[[Zabha (technique)|Le profanateur]] (Zabha),  
+[[Zipacna (technique)|La montagne au-dessous]] (Zipacna),  
 [[Zurapadyn (technique)|La bête tapie dans la fumée]] (Zurapadyn).
 </div>
 
@@ -96,17 +96,17 @@ Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté
 ### Dons
 Les dons marqués d’un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[[Ailes fiélonnes]],
-[[Chaînes cauchemardesques]],
-[[Cornes mortelles]]*,
-[[Danse des chaînes]]*,
-[[Disciple damné]],
-[[Législateur infernal]],
-[[Magie des âmes]],
-[[Maîtrise des chaînes]]*,
-[[Obédience fiélonne]],
-[[Puissance sacrificielle]],
-[[Serpent fiélon]],
+[[Ailes fiélonnes]],  
+[[Chaînes cauchemardesques]],  
+[[Cornes mortelles]]*,  
+[[Danse des chaînes]]*,  
+[[Disciple damné]],  
+[[Législateur infernal]],  
+[[Magie des âmes]],  
+[[Maîtrise des chaînes]]*,  
+[[Obédience fiélonne]],  
+[[Puissance sacrificielle]],  
+[[Serpent fiélon]],  
 [[Soldat damné]].
 </div>
 
@@ -133,59 +133,59 @@ Les dons marqués d’un astérisque (*) sont des dons de combat.
 <div style="border-top:1px dashed #4b3124"/>
 #### Armures
 <div class="article_3col">
-[[Bouclier malveillant]],
-[[Harnois thanatotique]],
+[[Bouclier malveillant]],  
+[[Harnois thanatotique]],  
 [[Heaume thanatotique]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Artefacts
 <div class="article_3col">
-[[Larme dIhys|Larme d'Ihys]],
-[[Livre des damnés]],
-[[Livre des damnés apocryphe]],
-[[Livre des damnés daémonique]],
-[[Livre des damnés démoniaque]],
-[[Livre des damnés diabolique]],
+[[Larme dIhys|Larme d'Ihys]],  
+[[Livre des damnés]],  
+[[Livre des damnés apocryphe]],  
+[[Livre des damnés daémonique]],  
+[[Livre des damnés démoniaque]],  
+[[Livre des damnés diabolique]],  
 [[Roue des mondes]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Autres
 <div class="article_3col">
-**Talismans diaboliques.**
-[[Talismans diaboliques#BILIEUX|Talisman bilieux]],
-[[Talismans diaboliques#MELANCOLIQUE|Talisman mélancolique]],
+**Talismans diaboliques.**  
+[[Talismans diaboliques#BILIEUX|Talisman bilieux]],  
+[[Talismans diaboliques#MELANCOLIQUE|Talisman mélancolique]],  
 [[Talismans diaboliques#SANGUIN|Talisman sanguin]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Objets merveilleux
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Tapis de méditation asura]],
-[[Chandelle dAbaddon|Chandelle d'Abaddon]],
-[[Pierre runique de lhydrodaémon|Pierre runique de l'hydrodaémon]].
+**Aucun (Sans emplacement).**  
+[[Tapis de méditation asura]],  
+[[Chandelle dAbaddon|Chandelle d'Abaddon]],  
+[[Pierre runique de lhydrodaémon|Pierre runique de l'hydrodaémon]].  
 
-**Cou.**
-[[Amulette des Abysses]],
+**Cou.**  
+[[Amulette des Abysses]],  
 [[Talisman de dévoration spirituelle]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[[Bushyasta]],
-[[Deinochos]],
-[[Diable bourreau|Diable bourreau (Munagola)]],
-[[Ghalzarokh]],
-[[Najikai]],
-[[Nikaramsa]],
-[[Nucol]],
-[[Oïtos]],
-[[Orsatka]],
-[[Sepsidaémon]],
-[[Démodande squameux]],
+[[Bushyasta]],  
+[[Deinochos]],  
+[[Diable bourreau|Diable bourreau (Munagola)]],  
+[[Ghalzarokh]],  
+[[Najikai]],  
+[[Nikaramsa]],  
+[[Nucol]],  
+[[Oïtos]],  
+[[Orsatka]],  
+[[Sepsidaémon]],  
+[[Démodande squameux]],  
 [[Voix des damnés]].
 </div>
 
@@ -193,26 +193,26 @@ Les dons marqués d’un astérisque (*) sont des dons de combat.
 ### Options de classe
 #### Domaines de prêtre
 <div class="article_3col">
-[[Domaine des Reptiles|Reptiles]],
+[[Domaine des Reptiles|Reptiles]],  
 [[Domaine du Vide|Vide]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Sous-domaines
 <div class="article_3col">
-[[Domaine des Reptiles#Sous-domaines_0|Dragons (Reptiles)]],
-[[Domaine du Chaos#Sous-domaines_0|Entropie (Chaos)]],
-[[Domaine de lEau#Sous-domaines_0|Épaves (Eau)]],
-[[Domaine de la Loi#Sous-domaines_0|Esclavage (Loi)]],
-[[Domaine du Chaos#Sous-domaines_0|Festivités (Chaos)]],
-[[Domaine du Feu#Sous-domaines_0|Incendies (Feu)]],
-[[Domaine du Vide#Sous-domaines_0|Isolation (Vide)]],
-[[Domaine de lObscurité#Sous-domaines_0|Lune (Obscurité)]],
-[[Domaine du Mal#Sous-domaines_0|Peur (Mal)]],
-[[Domaine de lEau#Sous-domaines_0|Rivières (Eau)]],
-[[Domaine des Reptiles#Sous-domaines_0|Sauriens (Reptiles)]],
-[[Domaine de la Destruction#Sous-domaines_0|Torture (Destruction)]],
-[[Domaine de la Loi#Sous-domaines_0|Tyrannie (Loi)]],
+[[Domaine des Reptiles#Sous-domaines_0|Dragons (Reptiles)]],  
+[[Domaine du Chaos#Sous-domaines_0|Entropie (Chaos)]],  
+[[Domaine de lEau#Sous-domaines_0|Épaves (Eau)]],  
+[[Domaine de la Loi#Sous-domaines_0|Esclavage (Loi)]],  
+[[Domaine du Chaos#Sous-domaines_0|Festivités (Chaos)]],  
+[[Domaine du Feu#Sous-domaines_0|Incendies (Feu)]],  
+[[Domaine du Vide#Sous-domaines_0|Isolation (Vide)]],  
+[[Domaine de lObscurité#Sous-domaines_0|Lune (Obscurité)]],  
+[[Domaine du Mal#Sous-domaines_0|Peur (Mal)]],  
+[[Domaine de lEau#Sous-domaines_0|Rivières (Eau)]],  
+[[Domaine des Reptiles#Sous-domaines_0|Sauriens (Reptiles)]],  
+[[Domaine de la Destruction#Sous-domaines_0|Torture (Destruction)]],  
+[[Domaine de la Loi#Sous-domaines_0|Tyrannie (Loi)]],  
 [[Domaine des Reptiles#Sous-domaines_0|Venin (Reptiles)]].
 </div>
 
@@ -225,29 +225,29 @@ Les dons marqués d’un astérisque (*) sont des dons de combat.
 
 ### Rituels occultes
 <div class="article_3col">
-[[Exemples de rituels occultes#CAPTURTEDAME|Capture d'âme]],
-[[Exemples de rituels occultes#DEUXIEMEAPOTHEOSE|Deuxième apothéose]],
-[[Exemples de rituels occultes#DISJONCTIONENQUART|Disjonction en quart]],
-[[Exemples de rituels occultes#INVOCATIONFIELONNE|Invocation fiélonne]],
-[[Exemples de rituels occultes#MANIFESTATIONEVIDENTE|Manifestation évidente]],
-[[Exemples de rituels occultes#PREMIEREAPOTHEOSE|Première apothéose]],
-[[Exemples de rituels occultes#QUATRIEMEAPOTHEOSE|Quatrième apothéose]],
+[[Exemples de rituels occultes#CAPTURTEDAME|Capture d'âme]],  
+[[Exemples de rituels occultes#DEUXIEMEAPOTHEOSE|Deuxième apothéose]],  
+[[Exemples de rituels occultes#DISJONCTIONENQUART|Disjonction en quart]],  
+[[Exemples de rituels occultes#INVOCATIONFIELONNE|Invocation fiélonne]],  
+[[Exemples de rituels occultes#MANIFESTATIONEVIDENTE|Manifestation évidente]],  
+[[Exemples de rituels occultes#PREMIEREAPOTHEOSE|Première apothéose]],  
+[[Exemples de rituels occultes#QUATRIEMEAPOTHEOSE|Quatrième apothéose]],  
 [[Exemples de rituels occultes#TROISIEMEAPOTHEOSE|Troisième apothéose]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Âme parasite]],
-[[Création de drogue]],
-[[Création de gemme spirituelle]],
-[[Crevasse dévastatrice]],
-[[Damnation]],
-[[Dispense de Charon]],
-[[Eaux de Lamashtu|Eaux de folie]],
-[[Éveiller les dévorés]],
-[[Fouet de lastradaémon|Fouet de l'astradaémon]],
-[[Rayon de feu infernal]],
-[[Sacrifice]],
+[[Âme parasite]],  
+[[Création de drogue]],  
+[[Création de gemme spirituelle]],  
+[[Crevasse dévastatrice]],  
+[[Damnation]],  
+[[Dispense de Charon]],  
+[[Eaux de Lamashtu|Eaux de folie]],  
+[[Éveiller les dévorés]],  
+[[Fouet de lastradaémon|Fouet de l'astradaémon]],  
+[[Rayon de feu infernal]],  
+[[Sacrifice]],  
 [[Transfert dâme|Transfert d'âme]].
 </div>

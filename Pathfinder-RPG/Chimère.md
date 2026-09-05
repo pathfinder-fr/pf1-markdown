@@ -60,7 +60,7 @@ chassent aussi bien dans l’air que sur le sol. Elles
 possèdent une tête draconique qui peut ressembler à
 n’importe quelle espèce de dragon maléfique et qui leur permet de
 disposer de leur type de souffle. Leurs ailes sont généralement de la
-même couleur que les écailles qui recouvrent cette tête.
+même couleur que les écailles qui recouvrent cette tête. 
 
 Les chimères
 parlent en utilisant leurs trois voix de manière simultanée, mais elles
@@ -78,7 +78,7 @@ et agressives pour avoir des compagnons mais certaines tribus de
 kobolds leur amènent parfois des offrandes. D’un autre côté, elles
 sont juste assez intelligentes et entêtées pour servir d’animaux de
 compagnie (de piètre qualité cependant) mais seules les créatures
-beaucoup plus puissantes qu’elles peuvent les faire obéir.
+beaucoup plus puissantes qu’elles peuvent les faire obéir. 
 
 Elles
 forment parfois une sorte de partenariat avec un humanoïde qui se

@@ -58,14 +58,14 @@ voire quasiment comique. Ils ne pèsent pas plus de
 peuvent se déplacer facilement sur les murs et les
 plafonds, ce qui leur permet d’aller se tapir dans
 les coins sombres, au-dessus des intersections de tunnels, en haut des
-murs ou dans les cages d’escaliers.
+murs ou dans les cages d’escaliers. 
 
 Les étrangleurs tentent d’agripper toutes les créatures, quelle que soit leur taille, mais ils préfèrent les
 proies solitaires de même taille ou plus petites qu’eux.
 Les étrangleurs ne semblent pas avoir de culture propre. Ils
 se rassemblent seulement brièvement pour procréer avant que
 la faim et l’envie de voyager ne les poussent à reprendre leur
-existence solitaire.
+existence solitaire. 
 
 Grâce à leur intelligence à peine plus élevée que
 le niveau animal, les signes extérieurs de civilisation instillent en
@@ -83,7 +83,7 @@ près les civilisations de la surface. C’est dans les allées sombres et
 ou les espaces confinés et abandonnés qu’ils se sentent le plus à l’aise.
 Les étrangleurs préfèrent rester cachés le jour et ne quitter leur abri
 que quand ils peuvent bénéficier de la protection de l’obscurité pour
-chasser et assouvir leurs désirs cruels.
+chasser et assouvir leurs désirs cruels. 
 
 Leurs tactiques favorites consistent à utiliser leurs longs bras pour agripper les victimes qui
 passent dans la rue tout en restant bien à l’abri sur les toits, à attaquer

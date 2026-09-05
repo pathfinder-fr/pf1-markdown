@@ -11,11 +11,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (outils de cambrioleurs de qualité supérieure d’une valeur de 100 po)
-**Portée** personnelle
-**Cible** le lanceur de sorts
+{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (outils de cambrioleurs de qualité supérieure d’une valeur de 100 po)  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** 1 minute/niveau (T)
 
 *Un Explorateur maître de la magie a inventé ce sort pour aider ses élèves à se fier à leurs capacités et pour veiller à ce qu’un nombre plus important d’entre eux survivent aux pièges mortels.*

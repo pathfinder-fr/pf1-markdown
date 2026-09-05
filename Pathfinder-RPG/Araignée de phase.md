@@ -45,7 +45,7 @@ Categories:
 Les araignées de phase sont des prédateurs voraces originaires du plan Éthéré et dont le terrain de chasse est le plan
 Matériel. Lorsqu’une araignée de phase repère une proie, elle se glisse dans le plan Éthéré pour préparer une embuscade. Si la victime est seule, l’araignée
 retourne sur le plan Matériel, la mord, puis bat en retraite vers
-le plan Éthéré en attendant que le poison fasse effet.
+le plan Éthéré en attendant que le poison fasse effet. 
 
 Lorsqu’elle
 affronte plusieurs adversaires, elle pratique une tactique

@@ -54,7 +54,7 @@ utilisent leur magie pour réaliser les souhaits des humanoïdes
 mortels et récompenser ceux qui succombent à leurs ruses et à leurs
 mensonges. Les souhaits que les glabrezus accordent aux mortels
 répondent toujours à leurs désirs de la manière la plus destructrice
-possible, même si ce n’est pas toujours immédiatement évident.
+possible, même si ce n’est pas toujours immédiatement évident. 
 
 Un
 fabricant d’armes en difficulté désirant une meilleure réputation

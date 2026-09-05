@@ -8,12 +8,12 @@ LastModified: 2024-06-17 18:40
 {s:BDTitre|Symbole primordial|{s:AO}}
 **Aura** [[Abjuration]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 0.5 kg
 (((Description)))
-Les origines des symboles primordiaux se sont perdues dans les nimbes infinis du temps. Ce sont des pierres polies sur lesquelles est gravé un signe mystique qui ressemble à une croix asymétrique. Quand son possesseur, s’il est capable de lancer des sorts psychiques ou s’il possède le don de [[Sensibilité psychique]], le tient en main et souhaite utiliser ses pouvoirs, un symbole primordial émet un éclat invisible sur un rayonnement de 30 mètres qui produit les effets suivants sur toutes les créatures situées à portée.
-• Les créatures avec 40 Dés de Vie ou moins de [[sous-type extraplanaire]] sont renvoyées vers leur plan d’origine comme avec un sort de *[[bannissement]]* qui ignore la [[résistance à la magie]] et n’autorise aucun [[jet de sauvegarde]].
-• Les entités non extraplanaires qui occupent le corps d’autres créatures ou les créatures extraplanaires avec plus de 40 Dés de Vie qui occupent le corps d’autres créatures sont expulsées de leur hôte.
-• L’ensemble des [[conjurateur#EIDOLON|eidolons]], [[médium#ESPRIT|esprits de médiums]] et [[spirite#FANTOME|fantômes de spirites]] sont renvoyés.
-• L’ensemble des sorts psychiques dans la zone sont dissipés comme avec une *[[dissipation suprême]]*. Cette dissipation est automatique et ne nécessite aucun test de [[NLS|niveau de lanceur de sorts]].
-• Tous les effets d’[[abjuration]] et les [[occultiste#CERCLESMAGIQUES|cercles magiques]] sont dissipés de la même façon.
+Les origines des symboles primordiaux se sont perdues dans les nimbes infinis du temps. Ce sont des pierres polies sur lesquelles est gravé un signe mystique qui ressemble à une croix asymétrique. Quand son possesseur, s’il est capable de lancer des sorts psychiques ou s’il possède le don de [[Sensibilité psychique]], le tient en main et souhaite utiliser ses pouvoirs, un symbole primordial émet un éclat invisible sur un rayonnement de 30 mètres qui produit les effets suivants sur toutes les créatures situées à portée.  
+• Les créatures avec 40 Dés de Vie ou moins de [[sous-type extraplanaire]] sont renvoyées vers leur plan d’origine comme avec un sort de *[[bannissement]]* qui ignore la [[résistance à la magie]] et n’autorise aucun [[jet de sauvegarde]].  
+• Les entités non extraplanaires qui occupent le corps d’autres créatures ou les créatures extraplanaires avec plus de 40 Dés de Vie qui occupent le corps d’autres créatures sont expulsées de leur hôte.  
+• L’ensemble des [[conjurateur#EIDOLON|eidolons]], [[médium#ESPRIT|esprits de médiums]] et [[spirite#FANTOME|fantômes de spirites]] sont renvoyés.  
+• L’ensemble des sorts psychiques dans la zone sont dissipés comme avec une *[[dissipation suprême]]*. Cette dissipation est automatique et ne nécessite aucun test de [[NLS|niveau de lanceur de sorts]].  
+• Tous les effets d’[[abjuration]] et les [[occultiste#CERCLESMAGIQUES|cercles magiques]] sont dissipés de la même façon.  
 • Toutes les créatures sont aveuglées pendant 1 round (Réflexes DD 22 pour annuler).
 
 À l’exception des indications ci-dessus, les créatures et objets à l’intérieur de la zone ne sont pas blessées. Quand le symbole est activé, son détenteur subit un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 2d6 points d’[[Intelligence]], de [[Sagesse]] et de [[Charisme]] en effectuant un jet distinct pour chaque caractéristique. Une fois utilisé, le symbole primordial rétrécit jusqu’à disparaître, pour réapparaître intact dans une région ou un monde lointain.

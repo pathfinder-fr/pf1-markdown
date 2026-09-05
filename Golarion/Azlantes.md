@@ -29,6 +29,6 @@ Encore une fois, en raison du passage du temps et de la disparition de l’[[Azl
 Même si les purs azlants n'existent plus depuis des milliers d'années, leur race a donné naissance à plusieurs ramifications, certaines plus humaines que d'autres. Les plus répandues sont de loin les [[Taldans]] et les [[Chélaxiens]], alors que le groupe ethnique le plus proche physiologiquement des anciens azlants sont les [[pathfinder-rpg.aquatique (race)|aquatiques]] (gillmen). Quelques azlants ont fui en Ombreterre (Darklands) et leurs descendants ont dégénéré pour former les peuples des ténèbres que sont les [[pathfinder-rpg.sous-type obscur|obscurs]], les [[pathfinder-rpg.Morlock|morlocks]], les grimlocks et les [[pathfinder-rpg.Bâtard|bâtards]] (mongrelmen). D'autres, vers les débuts de l'empire Azlant, étaient partis explorer l'outre-espace via des portails planétaires. De ceux là, seul les descendants d'une colonie établie sur [[système solaire|Castrovel]] revinrent en Golarion durant l'âge des légendes : les [[elfes]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Azlants dans le supplément
+Vous pourrez trouver plus d'informations à propos des Azlants dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

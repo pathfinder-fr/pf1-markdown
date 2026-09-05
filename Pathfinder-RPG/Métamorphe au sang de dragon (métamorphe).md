@@ -11,7 +11,7 @@ LastModified: 2020-04-02 16:20
 {s:Menuarchetypemétamorphe}*Les métamorphes au sang de dragon tirent parti de la force inhérente et de la majesté des véritables dragons, gagnant une fraction de leurs pouvoirs et de leur force.*
 
 #### Attaques naturelles alternatives
-Un métamorphe au sang de dragon peut transformer ses mains en armes mortelles comme tout métamorphe mais contrairement à eux ses armes naturelles ne sont pas celles d’un animal mais celle d’un puissant dragon. Chaque fois qu’il active la capacité de classe [[Métamorphe#GRIFFESDUMÉTAMORPHE|Griffes du métamorphe]] sous sa forme naturelle, il peut choisir deux armes naturelles entre les trois types d'attaques listées ci-dessous (chacune remplace une des griffes du métamorphe).
+Un métamorphe au sang de dragon peut transformer ses mains en armes mortelles comme tout métamorphe mais contrairement à eux ses armes naturelles ne sont pas celles d’un animal mais celle d’un puissant dragon. Chaque fois qu’il active la capacité de classe [[Métamorphe#GRIFFESDUMÉTAMORPHE|Griffes du métamorphe]] sous sa forme naturelle, il peut choisir deux armes naturelles entre les trois types d'attaques listées ci-dessous (chacune remplace une des griffes du métamorphe). 
 
 Ces attaques naturelles alternatives ne modifient que le type des dégâts mais pas leur montant et utilisent pour le reste les règles des [[Métamorphe#GRIFFESDUMÉTAMORPHE|griffes du métamorphe]].
 
@@ -42,15 +42,15 @@ Un métamorphe au sang de dragon peut temporairement imprégner son corps avec l
 
 Quand il est sous cette forme il gagne la capacité d’[[odorat]], et une résistance à l’énergie de 5 contre le type d’énergie qui correspond au type de dragon choisi. Chaque jour le métamorphe au sang de dragon peut utiliser cette capacité un nombre de minutes égal à 3 + son niveau de Métamorphe au sang de dragon. La durée ne doit pas forcément être consécutive mais elle doit être décomptée par tranche d'une minute au minimum. Le métamorphe au sang de dragon peux choisir un type de dragon différent à chaque utilisation de cette capacité mais il doit mettre fin à sa capacité puis la réenclencher pour changer de type de dragon choisi.
 
-: Au niveau 5, la résistance à l’énergie conférée par cette capacité passe à 10.
-: Au niveau 10, la résistance à l’énergie conférée par cette capacité passe à 15 et le métamorphe au sang de dragon gagne une attaque de souffle dont les dégâts sont composés d’énergie du type utilisé par le dragon choisi lors de l’activation de cette capacité ; cette attaque de souffle produit un cône de 9 m et inflige 1d6 de dégâts par niveau de Métamorphe. Les cibles de cette attaque peuvent tenter de réduire de moitié les dégâts infligés en réussissant un test de [[Réflexes]] (DD 10+ la moitié du niveaux de métamorphe + son modificateur de [[Charisme]]). Cette attaque de souffle est utilisable une seule fois par jour.
-: Au niveau 15, la résistance à l’énergie donnée par cette capacité passe à 20 et il peut utiliser son attaque de souffle deux fois par jour.
-: Au niveau 20, le métamorphe au sang de dragon obtient une immunité au type d’énergie qui correspondant au type de dragon choisi, il gagne également une [[résistance à la magie]] égale à 10 + son niveau de Métamorphe et il peut utiliser son attaque de souffle trois fois par jour.
+: Au niveau 5, la résistance à l’énergie conférée par cette capacité passe à 10.  
+: Au niveau 10, la résistance à l’énergie conférée par cette capacité passe à 15 et le métamorphe au sang de dragon gagne une attaque de souffle dont les dégâts sont composés d’énergie du type utilisé par le dragon choisi lors de l’activation de cette capacité ; cette attaque de souffle produit un cône de 9 m et inflige 1d6 de dégâts par niveau de Métamorphe. Les cibles de cette attaque peuvent tenter de réduire de moitié les dégâts infligés en réussissant un test de [[Réflexes]] (DD 10+ la moitié du niveaux de métamorphe + son modificateur de [[Charisme]]). Cette attaque de souffle est utilisable une seule fois par jour.  
+: Au niveau 15, la résistance à l’énergie donnée par cette capacité passe à 20 et il peut utiliser son attaque de souffle deux fois par jour.  
+: Au niveau 20, le métamorphe au sang de dragon obtient une immunité au type d’énergie qui correspondant au type de dragon choisi, il gagne également une [[résistance à la magie]] égale à 10 + son niveau de Métamorphe et il peut utiliser son attaque de souffle trois fois par jour. 
 
 Cette capacité remplace les aspects du métamorphe et toutes leurs améliorations.
 
 #### Forme de dragon (Sur)
-Au niveau 9 le Métamorphe au sang de dragon peut changer de forme pour emprunter celle d’un véritable dragon. Il gagne un bonus racial de +2 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les effets de sommeil et de paralysie. En revanche il ne gagne pas la capacité forme animale avant le niveau 9. Quand il utilise cette capacité le métamorphe au sang de dragon prend la forme d’un véritable dragon comme avec le sort *[[forme draconique I]]* à la place de *[[forme bestiale II]]*.
+Au niveau 9 le Métamorphe au sang de dragon peut changer de forme pour emprunter celle d’un véritable dragon. Il gagne un bonus racial de +2 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les effets de sommeil et de paralysie. En revanche il ne gagne pas la capacité forme animale avant le niveau 9. Quand il utilise cette capacité le métamorphe au sang de dragon prend la forme d’un véritable dragon comme avec le sort *[[forme draconique I]]* à la place de *[[forme bestiale II]]*. 
 
 Un métamorphe au sang de dragon peut utiliser cette capacité un nombre de minutes égal à son niveau de Métamorphe + son modificateur de [[Sagesse]]. La durée ne doit pas forcément être consécutive mais elle doit être décomptée du total par tranche de une minute au minimum. Pour les effets affectant la forme animale chaque minute de forme de dragon compte pour une minute de [[forme animale]].
 

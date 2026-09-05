@@ -53,10 +53,10 @@ Categories:
 
   
 Courantes dans la plupart des environnements, quel que soit le climat, les belettes sanguinaires sont les cousins géants des [[Belette|belettes]] ordinaires. Ce sont des prédateurs implacables connus pour leur nature intrépide et leur frénésie meurtrière, ainsi que pour le danger qu’ils représentent envers les fermes et les communautés. En effet, non seulement elles dévorent le bétail et les chevaux, mais elles s’en prennent également aux humanoïdes. Les belettes qui ont goûté à cette chair l’apprécient
-parfois tellement qu’elles ne chassent plus que ce type de proies.
+parfois tellement qu’elles ne chassent plus que ce type de proies. 
 
 Il arrive que les belettes sanguinaires soient dressées par des humanoïdes Mauvais (le plus souvent des gobelours ou des
-hobgobelins) pour servir de montures.
+hobgobelins) pour servir de montures. 
 Longue de 3,60 mètres, une belette sanguinaire mesure  1,20 mètres au garrot pour un poids moyen de 450 kilogrammes.
 
 

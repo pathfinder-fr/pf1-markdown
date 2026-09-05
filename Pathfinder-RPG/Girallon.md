@@ -45,7 +45,7 @@ dangereux qui vivent dans les jungles. Agressives,
 carnivores et incroyablement forts, ils défendent férocement
 leur territoire. Pire encore, leur quatre bras musclés leur permettent
 d’infliger des dégâts incroyables à tout ceux qui passent entre leurs
-mains.
+mains. 
 
 Leur apparence exotique en fait des attractions populaires
 dans les spectacles de gladiateurs de certaines villes, où les combats
@@ -54,7 +54,7 @@ quête de gloire et de notoriété. Tous ceux qui parviennent à tuer
 un girallon sont certains de devenir célèbres, mais la plupart des
 combats contre ces bêtes féroces se terminent plutôt mal pour les
 individus suffisamment téméraires pour en défier une en combat
-singulier.
+singulier. 
 
 Un girallon adulte mesure 2,40 mètres de hauteur,
 possède un large poitrail et est entièrement recouvert de fourrure
@@ -63,7 +63,7 @@ Les girallons vivent en clans menés par un mâle dominant. Les
 girallons solitaires sont généralement de jeunes mâles cherchant à
 fonder leur propre clan. Tous défendent leur territoire avec férocité et
 attaquent généralement sans avertissement ceux qui s’y aventurent, y
-compris les girallons appartenant aux clans étrangers.
+compris les girallons appartenant aux clans étrangers. 
 
 Les groupes de girallons attaquent parfois en formant une ligne de manière à repousser
 une proie vers une falaise ou un autre danger. Ils peuvent également
@@ -71,7 +71,7 @@ encercler une victime avant de fondre sur elle soudainement.
 Les plupart des girallons ne dépassent pas le stade de l’animal
 mais d’anciennes gravures et les traditions orales de certaines
 tribus laissent penser qu’ils n’auraient pas toujours été les créatures
-stupides qu’on connaît aujourd’hui.
+stupides qu’on connaît aujourd’hui. 
 
 D’après ces légendes, les premiers girallons étaient des hommes qui avaient demandé à des
 dieux démons sauvages de leur accorder une force supérieure et,
@@ -80,7 +80,7 @@ ces girallons originels seraient devenus de plus en plus sauvages et
 primitifs. Selon ces mêmes légendes, des girallons plus intelligents
 vivraient encore dans les recoins les plus sombres de la jungle. En
 plus de leur intelligence plus développée, ces derniers posséderaient
-également un goût prononcé pour la cruauté.
+également un goût prononcé pour la cruauté. 
 
 Ces « hauts girallons », comme on les appelle, sont presque toujours d’alignement Chaotique
 Mauvais et possèdent une valeur d’Intelligence supérieure ou égale
@@ -88,7 +88,7 @@ Mauvais et possèdent une valeur d’Intelligence supérieure ou égale
 et dirigent souvent des troupes de girallons moins intelligents.
 Ils s’établissent dans les étranges cités en ruine qu’on trouve dans
 la jungle ou en montagne et assaillent les villages voisins pour en
-piller la nourriture et les trésors.
+piller la nourriture et les trésors. 
 
 Certaines tribus primitives les prennent pour des agents envoyés par des dieux maléfiques et les
 vénèrent. Quelques hauts girallons rejoignent des tribus d’[[Orque|orques]]

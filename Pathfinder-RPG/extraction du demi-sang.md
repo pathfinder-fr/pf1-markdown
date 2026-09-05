@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
-**École** [[Transmutation]] ;
+**École** [[Transmutation]] ; 
 **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 **Temps d'incantation** 1 heure  
 **Composantes** [[composantes|V, G, FD]] (huiles et poisons d'une valeur de 3 000 po)  

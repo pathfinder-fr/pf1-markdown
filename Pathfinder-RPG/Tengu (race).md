@@ -22,7 +22,7 @@ La plupart des communautés de tengus ont tendance à suivre une structure triba
 
 **Aventuriers.** N’ayant pas grand-chose à perdre quand ils quittent leur foyer, beaucoup de tengus s’engagent dans une vie d’aventures en quête de célébrité, de fortune et de gloire. Une croyance tengu commune définit la vie sur les routes comme une série d’expériences et d’épreuves qui mèneraient à l’illumination. Certains interprètent cette voie comme un chemin vers la puissance spirituelle ; les autres la considèrent comme un moyen de parfaire les arts du maniement de l’épée. Peut-être en dépit des préjugés que nourrissent les étrangers, beaucoup d’aventuriers tengus embrassent ces stéréotypes. Ces individus cherchent à réussir en incarnant les qualités raciales des tengus et affichent fièrement leur héritage. Malgré leur fragilité d’avien, les tengus font d’excellents roublards et rôdeurs du fait de leurs réflexes rapides et de leur esprit encore plus vif, tandis que ceux qui entretiennent un lien étroit avec le monde spirituel deviennent souvent des oracles. Ceux qui sont formés à la pratique des arts martiaux s’emploient comme mercenaires et gardes du corps, afin de mettre leurs talents à profit.
 
-**Noms masculins.** Bukka, Chak-Chak, Chuko, Plume d’ébène, Hautperché, Kraugh, Pezzack, Taïcho, Tchoyoïtu, Xaïkon.
+**Noms masculins.** Bukka, Chak-Chak, Chuko, Plume d’ébène, Hautperché, Kraugh, Pezzack, Taïcho, Tchoyoïtu, Xaïkon.  
 **Noms féminins.** Lagard’aire, Aikio, Cheetchu, Daba, Plum’dor, Kankai, Mikacha, Ruk, Zhanyaé.
 
 {s:Reference|TRAITSSTANDARDS}

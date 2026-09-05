@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 10 po ; **Poids** 10 kg
+{s:MCA}**Prix** 10 po ; **Poids** 10 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette paire de petites meules en pierre permet à l'utilisateur de réduire de nombreuses substances en une poudre fine. La quantité de poudre produite par la meule varie en fonction de la substance concassée mais le personnage peut moudre 4 kg de farine en une heure.

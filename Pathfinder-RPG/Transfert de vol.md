@@ -8,12 +8,12 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:CMy}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, M]] (une poignée de duvet)
-**Portée** contact
-**Cible** l’objet touché
-**Durée** 1 heure/niveau (T)
+{s:CMy}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, M]] (une poignée de duvet)  
+**Portée** contact  
+**Cible** l’objet touché  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Le personnage investi un objet qu’il touche, de taille G ou plus petit, de la capacité à voler à une vitesse de 12 mètres avec une manœuvrabilité moyenne. Celui-ci peut s’élever dans les airs à la moitié de sa vitesse et descendre au double de sa vitesse. L’objet ciblé vole dans la direction que lui indique le personnage, utilisant la compétence [[Vol]] du personnage pour les manœuvres difficiles. Le personnage doit être à courte portée (7,5 m + 1,5 m/2 niveaux) de l’objet pour le guider et il doit dépenser une [[action de mouvement]] pour le déplacer. Si l’objet n’est pas guidé, il vole sur place (pas besoin de test de Vol). Le poids maximum de l’objet et de tout ce qu’il porte ne doit pas excéder 250 kilogrammes par [[NLS|niveau de lanceur de sorts]] (5 tonnes au maximum).

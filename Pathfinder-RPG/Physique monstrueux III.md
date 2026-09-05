@@ -11,17 +11,17 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
-Ce sort fonctionne comme *[[physique monstrueux II]]* mais permet de prendre aussi la forme de créatures de type [[type Humanoïde monstrueux|humanoïde monstrueux]] de [[taille Min]] ou [[taille TG|TG]]. Si la forme choisie possède l’une des aptitudes suivantes, le personnage en bénéficie aussi : aspect terrifiant, [[Bond (capacité)|bond]], bondissement,
-[[Constriction (capacité)|constriction]], creusement 9 m, [[Croc-en-jambe (capacité)|croc-en-jambe]], écrasant, [[escalade]] 27 m, [[Étreinte (capacité)|étreinte]], [[Férocité (capacité)|férocité]], frénésie sanglante,
-[[Imitation de sons (capacité)|imitation des sons]], [[Immobilité (capacité)|immobilité]], instinct, mimétisme, [[nage]] 27 m, [[Odorat (capacité)|odorat]], parler avec les requins, [[Pattes arrière (capacité)|pattes arrière]],
-[[Perception aveugle (capacité)|perception aveugle]] à 9 m, [[Piétinement (capacité)|piétinement]],
+<hr />
+Ce sort fonctionne comme *[[physique monstrueux II]]* mais permet de prendre aussi la forme de créatures de type [[type Humanoïde monstrueux|humanoïde monstrueux]] de [[taille Min]] ou [[taille TG|TG]]. Si la forme choisie possède l’une des aptitudes suivantes, le personnage en bénéficie aussi : aspect terrifiant, [[Bond (capacité)|bond]], bondissement, 
+[[Constriction (capacité)|constriction]], creusement 9 m, [[Croc-en-jambe (capacité)|croc-en-jambe]], écrasant, [[escalade]] 27 m, [[Étreinte (capacité)|étreinte]], [[Férocité (capacité)|férocité]], frénésie sanglante, 
+[[Imitation de sons (capacité)|imitation des sons]], [[Immobilité (capacité)|immobilité]], instinct, mimétisme, [[nage]] 27 m, [[Odorat (capacité)|odorat]], parler avec les requins, [[Pattes arrière (capacité)|pattes arrière]], 
+[[Perception aveugle (capacité)|perception aveugle]] à 9 m, [[Piétinement (capacité)|piétinement]], 
 [[Poison (capacité)|poison]], [[Propulsion (capacité)|propulsion]], [[Toile (capacité)|toile]], vigueur accrue dans le froid, [[Vision à 360° (capacité)|vision à 360°]], [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Vol (capacité)|vol]] 27 m (bonne manœuvrabilité). Si la forme choisie dispose du pouvoir [[Armes de taille inférieure (capacité)|armes de taille inférieure]], il en va de même pour le personnage.
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille Min]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille Min, il gagne un bonus de taille de +6 à la [[Dextérité]], un malus de -4 à la [[Force]] et un bonus de +1 à l’[[CA|armure naturelle]].
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille TG]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille TG, il gagne un bonus de taille de +6 à la [[Force]], un malus de -4 à la [[Dextérité]] et un bonus de +6 à l’[[CA|armure naturelle]].
@@ -38,14 +38,14 @@ Les bonus aux valeurs de [[caractéristique]] augmentent de +2, le bonus d’arm
 
 (((
 ## Physique monstrueux II
-{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
-Ce sort fonctionne comme *[[physique monstrueux I]]* mais permet de prendre aussi la forme de créatures de
+<hr />
+Ce sort fonctionne comme *[[physique monstrueux I]]* mais permet de prendre aussi la forme de créatures de 
 type [[type Humanoïde monstrueux|humanoïde monstrueux]] de [[taille TP]] ou [[taille G|G]]. Si la forme choisie possède l’une des aptitudes suivantes, le personnage en bénéficie aussi : [[Bond (capacité)|bond]], [[Croc-en-jambe (capacité)|croc-en-jambe]], [[escalade]] 18 m, [[Imitation de sons (capacité)|imitation des sons]], [[Immobilité (capacité)|immobilité]], mimétisme, nage 18 m, [[Odorat (capacité)|odorat]], parler avec les requins, [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Vol (capacité)|vol]] 18 m (bonne manœuvrabilité). Si la forme choisie dispose du pouvoir [[Armes de taille inférieure (capacité)|armes de taille inférieure]], il en va de même pour le personnage.
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille TP]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille TP, il gagne un bonus de taille de +4 à la [[Dextérité]], un malus de -2 à la [[Force]] et un bonus de +1 à l’[[CA|armure naturelle]].
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille G]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille G, il gagne un bonus de taille de +4 à la [[Force]], un malus de -2 à la [[Dextérité]] et un bonus de +4 à l’[[CA|armure naturelle]].
@@ -62,14 +62,14 @@ Les bonus aux valeurs de [[caractéristique]] augmentent de +2, le bonus d’arm
 
 (((
 ## Physique monstrueux I
-{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l’apparence)  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
-Quand le personnage lance ce sort, il peut prendre l’apparence de n’importe quelle créature de [[taille P]] ou
+<hr />
+Quand le personnage lance ce sort, il peut prendre l’apparence de n’importe quelle créature de [[taille P]] ou 
 [[taille M|M]] de type [[type Humanoïde monstrueux|humanoïde monstrueux]]. Si la forme choisie possède l’une des aptitudes suivantes, le personnage en bénéficie aussi : [[escalade]] 9 m, [[nage]] 9 m, [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]],  [[Vol (capacité)|vol]] 9 m (manœuvrabilité moyenne). Si la forme choisie est de sous-type [[sous-type aquatique|aquatique]], le personnage gagne les sous-types [[Amphibie (capacité)|amphibie]] et [[sous-type aquatique|aquatique]].
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille P]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille P, il gagne un bonus de taille de +2 à la [[Dextérité]] et de +1 à l’[[CA|armure naturelle]].
 - *[[type humanoïde monstrueux|Humanoïde monstrueux]] de [[taille M]]*. Si le personnage adopte la forme d’un humanoïde monstrueux de taille M, il gagne un bonus de taille de +2 à la [[Force]] et de +2 à l’[[CA|armure naturelle]].

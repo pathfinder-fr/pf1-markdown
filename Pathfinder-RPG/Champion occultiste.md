@@ -103,7 +103,7 @@ Le personnage ajoute son niveau dans la classe de prestige de champion occultist
 
 {s:REFERENCE|SORTS}
 #### Sorts
-Aux niveaux indiqués, un champion occultiste gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts profanes qui était sienne avant de devenir champion occultiste. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, à l’exception du nombre de sorts par jour, des sorts connus (dans le cas d'un lanceur de sorts spontanés), et de son niveau de lanceur de sorts. Si le personnage possédait plus d’une classe de lanceur de sorts profanes avant de devenir champion occultiste, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer les sorts quotidiens.
+Aux niveaux indiqués, un champion occultiste gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts profanes qui était sienne avant de devenir champion occultiste. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, à l’exception du nombre de sorts par jour, des sorts connus (dans le cas d'un lanceur de sorts spontanés), et de son niveau de lanceur de sorts. Si le personnage possédait plus d’une classe de lanceur de sorts profanes avant de devenir champion occultiste, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer les sorts quotidiens. 
 
 {s:REFERENCE|SORTILEGEDEVASTATEUR}
 #### Sortilège dévastateur (Sur)

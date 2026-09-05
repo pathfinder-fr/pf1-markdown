@@ -30,8 +30,8 @@ Le personnage doit se [[concentration|concentrer]] ([[action simple]]), et peut 
 
 Le personnage peut contacter un [[plan Élémentaire]] ou un autre situé au-delà. Plus la distance est grande, plus la forme d’intelligence contactée est différente du personnage, ce qui entraîne un risque toujours plus grand de perdre momentanément de l’[[Intelligence]] et du [[Charisme]]. Dans le même temps, les dieux plus éloignés ont davantage de connaissances (et de chances de dire la vérité). Dès les [[plans|plans extérieurs]] atteints, c’est la puissance de la divinité qui conditionne les effets (dans certains cas, les résultats indiqués sur la table peuvent être modifiés en fonction de la personnalité du dieu et d’autres facteurs pouvant influer sur le résultat). Il se peut (mais très rarement) que ce sort soit bloqué par certains dieux ou puissances supérieures.
 
-**Éviter une perte d'Intelligence ou de Charisme.** Le personnage doit réussir un test d’[[Intelligence]] contre le [[DD]] indiqué pour parer à une éventuelle perte d’[[Intelligence]] et de [[Charisme]]. S’il échoue à ce test, ces deux valeurs tombent à 8 et le personnage ne peut plus lancer le moindre sort de [[magie profane]] pendant la durée indiquée.
-Il ne peut [[faire 10]] à ce test. Si un tel incident se produit, il survient dès la première question posée et le personnage n’obtient aucune réponse.
+**Éviter une perte d'Intelligence ou de Charisme.** Le personnage doit réussir un test d’[[Intelligence]] contre le [[DD]] indiqué pour parer à une éventuelle perte d’[[Intelligence]] et de [[Charisme]]. S’il échoue à ce test, ces deux valeurs tombent à 8 et le personnage ne peut plus lancer le moindre sort de [[magie profane]] pendant la durée indiquée. 
+Il ne peut [[faire 10]] à ce test. Si un tel incident se produit, il survient dès la première question posée et le personnage n’obtient aucune réponse. 
 
 Si un contact est réussi , lancez 1d100 et référez vous à la table pour déterminer le type de réponse obtenue.
 - **Réponse exacte.** Le personnage obtient une réponse exacte, d’un mot. S’il est impossible de répondre aussi concisément, la réponse devient aléatoire.

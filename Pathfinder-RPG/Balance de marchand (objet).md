@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 La balance de marchand est un simple levier posé sur un pivot auquel sont accrochés deux plateaux. Elle accorde un bonus de circonstances de +2 aux tests d’[[Estimation]] impliquant les objets que l’on évalue au poids, y compris tout ce qui se compose de métaux précieux.

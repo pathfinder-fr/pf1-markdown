@@ -13,6 +13,6 @@ Categories:
 
 **Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Condition.** 5 rangs en [[Premiers secours]]
+**Condition.** 5 rangs en [[Premiers secours]] 
 
 **Avantage.** Quand le personnage utilise [[Premiers secours]] pour apporter une aide d’urgence, soigner les blessures dues à une chausse-trappe ou guérir un [[poison|empoisonnement]] chez un allié qui possède aussi ce don, il ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] et peut [[faire 10]] au test. Contrairement aux autres dons de travail en équipe, les alliés [[paralysé|paralysés]], [[étourdi|étourdis]], [[inconscient|inconscients]] ou incapables d’agir sont pris en compte pour faire fonctionner le don.

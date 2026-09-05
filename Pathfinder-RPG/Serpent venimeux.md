@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Serpent venimeux|FP 1}
-{s:pucem|Animal|Marais|Tropical}
+{s:pucem|Animal|Marais|Tropical}  
 {s:BDTexte|*Source : Bestiaire* p.257}
 {s:BDTexte|**PX** 400}
 {s:BDTexte|[[type Animal|Animal]] de taille M, N}
@@ -75,5 +75,5 @@ un profil pour un cobra
 royal en appliquant
 les archétypes simples
 « évolué » et « géant » aux
-valeurs présentées ici, ou « évolué » et « jeune » pour un cobra classique.
+valeurs présentées ici, ou « évolué » et « jeune » pour un cobra classique.   
 </div></td></tr></table>

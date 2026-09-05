@@ -13,7 +13,7 @@ Categories:
 Voici les aptitudes de classe du vivisectioniste.
 
 #### Attaque sournoise
-Au niveau 1, le vivisectioniste gagne le pouvoir d’[[roublard#ATTAQUESOURNOISE|attaque sournoise]], comme celui du roublard.
+Au niveau 1, le vivisectioniste gagne le pouvoir d’[[roublard#ATTAQUESOURNOISE|attaque sournoise]], comme celui du roublard. 
 
 S’il dispose déjà de l’attaque sournoise grâce à une autre classe, il ajoute son niveau d’alchimiste à son niveau de roublard pour déterminer les dés de dégâts supplémentaires de l’attaque (un alchimiste 1/roublard 1 fait +1d6 d’attaque sournoise, comme un roublard 2 ; un alchimiste 2/roublard 1 fait +2d6, comme un roublard 3, etc.) Ce pouvoir remplace la [[Alchimiste#BOMBES|bombe]].
 

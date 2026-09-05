@@ -13,7 +13,7 @@ Categories:
 *Un conjurateur demi-orque qui vénère un des dieux sanguinaires des orques croit parfois que son eidolon est un avatar de ce dieu plutôt qu’une simple créature surnaturelle. Il combat aux côtés de cet avatar et offre son sang en échange de capacités martiales.*
 
 #### Festin sanglant (Sur)
-Au niveau 1, le disciple du dieu sanguinaire peut donner un adversaire qui vient de mourir à manger à son [[eidolon]].
+Au niveau 1, le disciple du dieu sanguinaire peut donner un adversaire qui vient de mourir à manger à son [[eidolon]]. 
 
 L’extérieur peut alors transmettre une partie de sa puissance à son conjurateur. L’eidolon doit dépenser une [[action simple]] pour manger un bout de son adversaire, qui doit être une créature vivante et tangible que l’eidolon ou son conjurateur ont tuée ou rendue [[inconscient|inconsciente]] depuis moins d’une minute. Quand l’eidolon se nourrit, il inflige à son repas un montant de points de dégâts égal à une de ses attaques naturelles (généralement son attaque de morsure). La créature mangée doit avoir au minimum moitié autant de [[DV]] que le conjurateur. Une fois l’eidolon nourri, son conjurateur développe une [[eidolon#EVOLUTIONS|évolution]] à [[eidolon#EVOLUTIONSA1POINT|1 point]] qui persiste une minute. Les effets de cette évolution se basent sur les [[DV]] et les valeurs de caractéristiques du conjurateur et non sur ceux de son eidolon. Chaque jour, le disciple du dieu sanguinaire peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]]. Ce pouvoir ne donne qu’une évolution à la fois (s’il l’utilise deux fois de suite à moins d’une minute d’intervalle, la deuxième évolution remplace la première). Le disciple a uniquement accès aux évolutions dont dispose son eidolon.
 

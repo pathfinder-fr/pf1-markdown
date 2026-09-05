@@ -6,7 +6,7 @@ Categories:
 - Organisation
 ---
 
-Les Cultes Anciens sont un ensemble de groupes de croyants, insanes et violents, des [[Grands Anciens]]. Ils accomplissent des rites préhistoriques dans des endroits sombres, destinés à accueillir le retour de leurs dieux sur [[Golarion]] depuis une région inconnue appelée la [[Sombre Tapisserie]]. D'autres suivants essaient d'ouvrir des portes magiques pour leurs maîtres dans le but de convoquer des créatures extra-terrestres qui sèment la ddévastation sous leurs pas.
+Les Cultes Anciens sont un ensemble de groupes de croyants, insanes et violents, des [[Grands Anciens]]. Ils accomplissent des rites préhistoriques dans des endroits sombres, destinés à accueillir le retour de leurs dieux sur [[Golarion]] depuis une région inconnue appelée la [[Sombre Tapisserie]]. D'autres suivants essaient d'ouvrir des portes magiques pour leurs maîtres dans le but de convoquer des créatures extra-terrestres qui sèment la ddévastation sous leurs pas. 
 
 Quelques érudits croient que les [[Grands Anciens]] ne sont qu'une invention de leurs adeptes aux cerveaux malades. Néanmoins, le fait que des prêtres de ces monstruosités cyclopéennes peuvent en appeler aux pouvoirs divins et lancer des sorts signifie qu'il y a une part de vérité dans leurs croyances.
 

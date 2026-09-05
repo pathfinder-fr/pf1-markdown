@@ -52,7 +52,7 @@ LastModified: 2021-04-10 11:29
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*Cette belle femme a le visage masqué et porte une robe entièrement faite de soie d’araignée. Des fétiches magiques ornent ses vêtements et son bâton.*
 
 
-Les morrignas sont les enquêtrices, les chasseuses de primes et les assassins du Purgatoire. Elles pourchassent ceux qui bafouent le cycle naturel de la mort et du jugement. Elles mesurent entre 2,10 et 2,40 mètres et pèsent entre 100 et 125 kilogrammes.
+Les morrignas sont les enquêtrices, les chasseuses de primes et les assassins du Purgatoire. Elles pourchassent ceux qui bafouent le cycle naturel de la mort et du jugement. Elles mesurent entre 2,10 et 2,40 mètres et pèsent entre 100 et 125 kilogrammes. 
 
 Beaucoup de morrignas préfèrent adopter l’aspect de ceux qui sont morts. Elles veillent sur le bon déroulement de la machine bureaucratique mortuaire en supprimant les complications et en vouant leur existence à l’élimination de toutes les forces qui contournent ou corrompent le cycle naturel de la mort et du jugement.
 </div></td></tr></table>

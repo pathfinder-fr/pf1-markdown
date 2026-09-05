@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 2,5 kg
+{s:AE}**Prix** 5 pa ; **Poids** 2,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Cette mallette inclut un casque en cuir, un maillet à manche long et une boule en bois.

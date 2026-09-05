@@ -44,7 +44,7 @@ Categories:
 | [[Raie à aiguillon]] | 1/2 |
 | [[Raie manta]] | 1 |
 
-</div>''Cette  grande  raie  avale  de  petits  morceaux  dans  sa  large  bouche  tout  en
+</div>''Cette  grande  raie  avale  de  petits  morceaux  dans  sa  large  bouche  tout  en 
 glissant agilement dans les eaux grâce à des nageoires ressemblant à des ailes.''
 
 #### La raie manta comme compagnon animal

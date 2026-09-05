@@ -8,6 +8,6 @@ Categories:
 
 *L’orque peut déchaîner une vague d’énergie faisant basculer ses semblables dans la frénésie.*
 
-**Conditions requises.** Aptitude de classe Canalisation d’énergie, [[orque (race)|orque]].
+**Conditions requises.** Aptitude de classe Canalisation d’énergie, [[orque (race)|orque]]. 
 
 **Avantages.** Lorsqu’il canalise l’énergie, plutôt que de créer l’effet normal, l’orque peut donner aux autres orques un bonus à leurs dégâts d’arme et à leurs jets de confirmation de critique jusqu’à son prochain tour. Ce bonus est égal au nombre de dés que son énergie canalisée soigne ou inflige normalement. Sa canalisation agit normalement sur les autres créatures de la zone.

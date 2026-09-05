@@ -10,11 +10,11 @@ Categories:
 {s:BDTitre|Bâton de transport|}
 **Aura** Multiples puissantes ; **NLS** 17 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 206 900 po ; **Poids** 2,5 kg
 (((Description)))
-L’utilisateur de ce puissant bâton peut faire appel aux sorts suivants :
-• *[[passe-muraille]]* (1 charge)
-• *[[porte de phase]]* (2 charges)
-• *[[porte dimensionnelle]]* (1 charge)
-• *[[projection astrale]]* (2 charges)
+L’utilisateur de ce puissant bâton peut faire appel aux sorts suivants :  
+• *[[passe-muraille]]* (1 charge)  
+• *[[porte de phase]]* (2 charges)  
+• *[[porte dimensionnelle]]* (1 charge)  
+• *[[projection astrale]]* (2 charges)  
 • *[[téléportation suprême]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[passe-muraille]]*, *[[porte de phase]]*, *[[porte dimensionnelle]]*, *[[projection astrale]]*, *[[téléportation suprême]]* ; **Coût** 115 950 po

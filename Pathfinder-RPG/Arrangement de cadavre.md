@@ -9,12 +9,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un hareng mariné)
-**Portée** [[contact]]
-**Cibles** cadavre touché
-**Durée** instantanée
+{s:cs}{s:UI}**École**  [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un hareng mariné)  
+**Portée** [[contact]]  
+**Cibles** cadavre touché  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 La chair et les os du cadavre touché changent pour s'adapter à un scénario choisit par le personnage. Ce sort peut cacher ou créer des blessures, des contusions et d'autres indices subtils sur la nature de la mort de la cible et sur les dernières heures qui l'ont précédée, ce qui permet au personnage de faire croire que le cadavre est mort de la façon qu'il souhaite. Le personnage pourrait, par exemple, faire en sorte que les blessures par arme blanche se referment comme si elles n'avaient jamais existé, réorganiser les bleus sur le cou, faire disparaître les traces de poison dans le corps, faire en sorte que des brûlures recouvrent la peau du cadavre ou d'amaigrir le corps de la cible comme si elle était morte de faim. Ce sort ne peut ni cacher les altérations extrêmes (comme la perte d'un membre), ni restaurer la chair sur un cadavre squelettique, ni décharner un cadavre jusqu'à obtenir un squelette. Il ne peut pas non plus changer son identité.

@@ -33,10 +33,10 @@ Au niveau 4, en plus des capacités normales de sa [[moine#RESERVEDEKI|réserve 
 Au niveau 5, un moine de la main vide peut dépenser 1 point de sa réserve de ki par une [[action rapide]]
 pour pouvoir infliger avec une [[arme improvisée]] des dégâts égaux à ceux d’un coup à mains nues pendant 1 round.
 
-Au niveau 11, le moine peut dépenser du ki pour accorder un bonus d’altération ou des propriétés magiques à une arme improvisée pendant 1 round, au prix de 1 point de ki par bonus de +1 (ou équivalent). Le moine ne peut pas dépenser plus de 3 points de ki à la fois de cette manière.
+Au niveau 11, le moine peut dépenser du ki pour accorder un bonus d’altération ou des propriétés magiques à une arme improvisée pendant 1 round, au prix de 1 point de ki par bonus de +1 (ou équivalent). Le moine ne peut pas dépenser plus de 3 points de ki à la fois de cette manière. 
 
-Par exemple, un moine peut dépenser 2 points de ki pour donner à son arme improvisée un bonus d’altération de +1 et la propriété de *[[Armes magiques#FOCALISATIONKI|focalisation ki]]* ou seulement la propriété de *[[Armes magiques#FEUINTENSE|feu intense]]*.
+Par exemple, un moine peut dépenser 2 points de ki pour donner à son arme improvisée un bonus d’altération de +1 et la propriété de *[[Armes magiques#FOCALISATIONKI|focalisation ki]]* ou seulement la propriété de *[[Armes magiques#FEUINTENSE|feu intense]]*. 
 
-Au niveau 15, la limite passe à 5 points de ki par round.
+Au niveau 15, la limite passe à 5 points de ki par round. 
 
 Le moine peut utiliser cette capacité pour ajouter des [[Armes magiques|propriétés magiques]] à des armes improvisées qui ne pourraient normalement pas en bénéficier, comme la propriété *[[Armes magiques#DESTRUCTION|destruction]]* à une arme tranchante ou la propriété *[[Armes magiques#VORPALE|vorpale]]* à une arme contondante. Cette capacité remplace [[Moine#PURETEPHYSIQUE|Pureté physique]] et [[Moine#CORPSDEDIAMANT|Corps de diamant]].

@@ -16,12 +16,12 @@ Leur couleur de peau varie suivant la région où ils habitent. Elle va de la co
 Les dimorphisme sexuel des halfelins est identique à celui des humains. Les mâles sont légèrement plus lourds et plus costauds que les femelles. Ils portent des rouflaquettes et ont une taille supérieure à celle des femelles de cinq à dix centimètres. Les halfelines quant à elles sont plus fines et plus petite, ressemblant à une humaine de taille réduite.
 
 ### Histoire et culture
-Les halfelins ont grandi parallèlement aux civilisations humaines de l'[[Avistan]] et ont souvent permis la croissance et les succès de ces nations. Ils possèdent leurs propres légendes et leurs propres héros, pour la plupart ignorés des humains.
+Les halfelins ont grandi parallèlement aux civilisations humaines de l'[[Avistan]] et ont souvent permis la croissance et les succès de ces nations. Ils possèdent leurs propres légendes et leurs propres héros, pour la plupart ignorés des humains. 
 
 Les halfelins occupent souvent des emplois de service tels que serveurs cuisiniers et taverniers. De ce fait, ils sont souvent dans une position leur permettant d'observer le monde qui les entoure. Cette connaissance est très précieuse pour les halfelins étant donné leur vulnérabilité. Il est aussi courant de rencontrer des halfelins exploités ou réduits en esclavage, surtout au [[Chéliax]] où ils sont considérés comme inférieurs au peuple.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des halfelins dans les suppléments
+Vous pourrez trouver plus d'informations à propos des halfelins dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Golarion.Publications#GAZETTEER|Pathfinder Chronicles: Gazetteer/Atlas]].
 {s:VoirAussiAprès}

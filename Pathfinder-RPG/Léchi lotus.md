@@ -55,7 +55,7 @@ Un léchi lotus typique mesure 90 centimètres et pèse 7,5 kilos.
 ### Faire pousser un léchi lotus
 Le meilleur endroit pour faire pousser un léchi lotus est un étang ou lac chaud qui se trouve dans une région calme. L’individu qui veut faire pousser ce léchi doit planter une graine de lotus au bord de l’eau, s’asseoir à côté de celle-ci et méditer jusqu’à ce qu’elle germe.
 
-**NLS** 12 ; **Prix** 9 000 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, [[Connaissances]] (religion) 5 rangs, *[[convocation dalliés naturels V|convocation d’alliés naturels V]]*, *[[croissance végétale]]*, *[[sentier de nénuphars]]*
+**NLS** 12 ; **Prix** 9 000 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, [[Connaissances]] (religion) 5 rangs, *[[convocation dalliés naturels V|convocation d’alliés naturels V]]*, *[[croissance végétale]]*, *[[sentier de nénuphars]]*  
 **Compétences** [[Connaissances]] (nature ou religion) [[DD]] 19 ; **Coût** 4 500 po
 </div></td></tr></table>

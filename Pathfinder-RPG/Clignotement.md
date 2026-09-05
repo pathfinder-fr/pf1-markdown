@@ -21,7 +21,7 @@ Categories:
 
 Le personnage glisse rapidement du [[plan Matériel]] au [[plan Éthéré]], donnant une impression de clignotement (d’où le nom du sort). *Clignotement* possède les effets suivants :
 
-Les attaques physiques ciblant le personnage ont 50 % de chances de le manquer et le don [[Combat en aveugle]] n’y change rien (le personnage passe dans le [[plan Éthéré]], il n’est pas [[invisible]]). Si l’attaque peut atteindre les créatures se situant dans le [[plan Éthéré]], elle n’a que 20 % de chances de rater (ce qui correspond à un [[camouflage]]).
+Les attaques physiques ciblant le personnage ont 50 % de chances de le manquer et le don [[Combat en aveugle]] n’y change rien (le personnage passe dans le [[plan Éthéré]], il n’est pas [[invisible]]). Si l’attaque peut atteindre les créatures se situant dans le [[plan Éthéré]], elle n’a que 20 % de chances de rater (ce qui correspond à un [[camouflage]]). 
 
 Si l'adversaire peut voir les créatures [[invisible|invisibles]], les chances de rater passent aussi à 20 %. Enfin, si l’adversaire a la capacité de voir et de toucher les entités du [[plan Éthéré]], il attaque normalement. De la même manière, les attaques du personnage ont 20 % de chances d’échouer, car il lui arrive de disparaître à l’instant où il s’apprêtait à frapper.
 

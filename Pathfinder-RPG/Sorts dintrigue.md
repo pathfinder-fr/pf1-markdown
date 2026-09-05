@@ -176,7 +176,7 @@ Les divinations dans les parties à haut niveau ont tendance à être incroyable
 ***[[Vision mystique]].*** Comparé à *[[mythes et légendes]]*, ce sort prend beaucoup moins de temps à lancer, provoque de la fatigue et nécessite un test de niveau de lanceur de sorts pour réussir. D'un point de vue stylistique, la grande différence est que le lanceur de sorts voit une seule vision au lieu d'entendre des informations provenant de nombreuses légendes. Le personnage peut également poser une question particulière pour réduire l'échelle du sort, de sorte qu'une vision est susceptible d'être liée à un sujet qui intéresse vraiment le personnage. Pour un sort de *vision*, réfléchissez bien à ce que le PJ voit exactement, et essayez de le décrire de la manière la plus vivante possible avec de nombreux détails visuels. Vous pouvez adapter la vision pour montrer l'extrait visuel le plus intéressant en rapport avec la question posée par le PJ. En décrivant ce que le PJ voit comme s'il y était, vous faites du sort une expérience plutôt qu'une simple décharge d'informations. Le PJ doit quand même interpréter ce qu'il a vu. Vous pouvez même emmener le joueur du lanceur de sorts dans une autre pièce et décrire la vision, puis le laisser revenir pour décrire et interpréter ce que son sort a révélé au reste du groupe. Parfois, le lanceur de sorts se concentre sur l'un des détails visuels alors qu'un autre était un indice encore plus important, qu'il ne découvrira que plus tard dans un moment de révélation passionnant.
 
 ### Exemple
-L'exemple détaillé ici met en pratique certains des conseils ci-dessus, en utilisant deux des sorts les plus difficiles à juger, *[[divination]]* et *[[vision]]*. Dans cet exemple, le MJ fournit à ses joueurs différents ensembles d'indices avec chaque sort, qui ne les orientent vers la solution du mystère que lorsqu'ils sont examinés ensemble.
+L'exemple détaillé ici met en pratique certains des conseils ci-dessus, en utilisant deux des sorts les plus difficiles à juger, *[[divination]]* et *[[vision]]*. Dans cet exemple, le MJ fournit à ses joueurs différents ensembles d'indices avec chaque sort, qui ne les orientent vers la solution du mystère que lorsqu'ils sont examinés ensemble. 
 
 #### L'histoire
 Il y a longtemps, une puissante guenaude dirigeait un cercle de guenaudes qui cherchait à détruire le royaume de Gaheris. Cherchant à transformer ses ennemis en alliés, le roi de Gaheris a convaincu les deux sœurs les plus faibles de rompre leur cercle et de trahir leur chef. En échange, il utilisa la magie pour les réincarner en humains et les marier à deux de ses plus puissants ducs. Les guenaudes enfermèrent leur sœur aînée dans sa cabane et la brûlèrent vive, pour la voir ensuite se relever sous la forme d'une puissante [[sorcière de feu]]. Après des semaines de bataille acharnée contre la guenaude  morte-vivante qui s'étendait dans tout le royaume, les deux sœurs ont piégé la sorcière de feu derrière un mur épais dans le mausolée royal, et l'ont entouré d'une armure pour contenir les entités intangibles, croyant avoir scellé la menace pour toujours.
@@ -188,13 +188,13 @@ Les PJs reçoivent un appel de l'actuel roi de Gaheris, leur demandant d'enquêt
 #### Poème divinatoire
 Le MJ compose un poème pour Kyra afin de représenter les informations qui lui ont été transmises par sa divinité.
 
-The flame of passion, that which brightest burns, (La flamme de la passion, celle qui brille le plus,)
-Of love and hatred treasured or betrayed, (De l'amour et de la haine chéris ou trahis,)
-We chip away at every wall in turns, (Nous ébréchons chaque mur l'un après l'autre,)
-Not thwarted is the payment, just delayed. (Le paiement n'est pas rendu, seulement retardé.)
-In blackened yawn near the first hungry pyre, (Dans un bâillement noirci près du premier bûcher affamé,)
-Twin sleepers lie, once foul but later fair, (Deux dormeurs jumeaux gisent, autrefois infâmes mais plus tard honnêtes,)
-Dark beauty gleams the prisons two to break, (Une beauté sombre fait resplendir les deux prisons à briser,)
+The flame of passion, that which brightest burns, (La flamme de la passion, celle qui brille le plus,)  
+Of love and hatred treasured or betrayed, (De l'amour et de la haine chéris ou trahis,)  
+We chip away at every wall in turns, (Nous ébréchons chaque mur l'un après l'autre,)  
+Not thwarted is the payment, just delayed. (Le paiement n'est pas rendu, seulement retardé.)  
+In blackened yawn near the first hungry pyre, (Dans un bâillement noirci près du premier bûcher affamé,)  
+Twin sleepers lie, once foul but later fair, (Deux dormeurs jumeaux gisent, autrefois infâmes mais plus tard honnêtes,)  
+Dark beauty gleams the prisons two to break, (Une beauté sombre fait resplendir les deux prisons à briser,)  
 No loyalty, no love except to take. (Pas de loyauté, pas d'amour sinon ceux arrachés.)
 
 **Interprétation.** Lorsqu'il est lu à haute voix, le premier vers du poème contient un homophone du mot "sorcière" ("witch"/"which" en anglais). Le vers fait référence à la fuite de la sorcière de feu lorsque le mur de la tombe a été ébréché. La vengeance de la sorcière, ou son paiement comme le décrit le poème, n'a été que retardée. La bouche de la grotte est un bâillement noirci, et le « premier » bûcher est celui où la sorcière a été brûlée, bien que les PJs puissent aller jusqu'au premier incendie criminel comme une fausse piste avant de s'en rendre compte, sauf peut-être en utilisant des indices supplémentaires de la vision d'Ezren ci-dessous. Les jumeaux qui dorment dans des prisons d'une beauté sombre sont les âmes des sœurs piégées dans des saphirs noirs ; les libérer de leurs prisons magiques affaiblirait considérablement la sorcière de feu. La dernière ligne fait allusion à l'histoire de la trahison entre les sœurs, et à la façon dont la sorcière de feu n'a obtenu leur coopération qu'en la prenant de force.

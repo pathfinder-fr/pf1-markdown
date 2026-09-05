@@ -49,7 +49,7 @@ D’aussi longtemps qu’on s’en souviennent, ces créatures issues
 d’une malédiction divine et rejetées par les races civilisées il y
 a plusieurs siècles de cela ont toujours chassé, tué et dévoré les
 humanoïdes moins puissants qu’elles pour se venger d’affronts
-réels ou imaginaires.
+réels ou imaginaires. 
 
 Dans de nombreuses cultures, les légendes
 racontent que les premiers minotaures auraient été créés par des
@@ -66,14 +66,14 @@ Les repaires traditionnels des minotaures sont les labyrinthes.
 Il peut s’agir de véritables dédales construits spécialement pour
 embrouiller et déconcerter les visiteurs, de dédales apparus par
 hasard (comme les égouts d’une ville) ou encore de dédales naturels
-(comme un réseau de cavernes et de tunnels souterrains).
+(comme un réseau de cavernes et de tunnels souterrains). 
 
 Les minotaures tirent parti de leur instinct naturel et utilisent ces
 tanières labyrinthiques pour soumettre à rude épreuve les ennemis
 insouciants qui sont venus à leur recherche ou qui sont arrivés
 par hasard et se sont ensuite perdus. Ils prennent leur temps et
 savourent le fait de chasser ces intrus qui tentent vainement de
-trouver une sortie.
+trouver une sortie. 
 
 C’est seulement quand le désespoir accable
 les victimes que les minotaures passent à l’attaque. Lorsqu’ils

@@ -12,7 +12,7 @@ LastModified: 2019-01-27 14:38
 
 **Condition:** [[dextérité|Dex]] 13.
 
-**Avantage:** Vous pouvez vous déplacer à votre vitesse de déplacement maximale lorsque vous devez utiliser la compétence [[Acrobaties]] pour vous équilibrer sur des surfaces étroites ; vous n'êtes pas [[pris au dépourvu]] et ne perdez pas votre bonus de [[Dextérité]] à la [[CA]] en procédant de la sorte.
+**Avantage:** Vous pouvez vous déplacer à votre vitesse de déplacement maximale lorsque vous devez utiliser la compétence [[Acrobaties]] pour vous équilibrer sur des surfaces étroites ; vous n'êtes pas [[pris au dépourvu]] et ne perdez pas votre bonus de [[Dextérité]] à la [[CA]] en procédant de la sorte. 
 
 Vous obtenez aussi un bonus de +4 sur vos tests d'[[Escalade]] pour vous rattraper lorsque vous tombez.
 

@@ -44,7 +44,7 @@ Categories:
 {s:BDTexte|<b>Explosion (Ext).</b> Par une [[action simple]], un yrthak peut diriger sa lance sonique vers le sol, un gros rocher, un mur de pierre ou un objet non magique similaire situé dans un rayon de 18 mètres (12 {s:c}) et ainsi créer une explosion. Cette attaque inflige 2d6 points de dégâts de type perforant à toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) autour du centre de l’effet.}
 {s:BDTexte|<b>Lance sonique (Ext).</b> Une fois par [[round]], un yrthak peut concentrer de l’énergie sonique en un rayon de 18 mètres (12 {s:c}) qui inflige 8d6 points de dégâts de son à une cible.}
 </div>
-</td><td><div>
+</td><td><div> 
 *Ce reptile volant possède de grandes ailes membraneuses et une crête de couleur vive sur sa tête étroite et ornée de cornes.*
 
 

@@ -18,12 +18,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 2, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une plume d'écriture)
-**Portée** [[contact]]
-**Cibles** créature touchée
-**Durée** 8 heures (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 2, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une plume d'écriture)  
+**Portée** [[contact]]  
+**Cibles** créature touchée  
+**Durée** 8 heures (T)  
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage choisi une langue (excepté les langues secrètes, comme le druidique). La cible peut alors parler, comprendre, lire et écrire cette langue. Lorsqu'il lance le sort, le personnage peut effectuer un test de [[Linguistique]] [[DD]] 15. S'il réussit, il peut choisir une langue supplémentaire, et une langue de plus par tranche de 10 points entre le résultat et le DD du test.

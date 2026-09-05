@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des PNJ
 ---
 
-{s:cs}{s:MPNJ}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une sphère en verre d’une valeur de 100 po et un clou en fer avec lequel le lanceur perce le verre au moment de l’incantation)
-**Portée** contact
-**Zone d'effet** émanation immobile de 3 m de rayon
-**Durée** 1 [[round]]/[[niveau]] (T)
+{s:cs}{s:MPNJ}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une sphère en verre d’une valeur de 100 po et un clou en fer avec lequel le lanceur perce le verre au moment de l’incantation)  
+**Portée** contact  
+**Zone d'effet** émanation immobile de 3 m de rayon  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** voir description
 
 Le lanceur crée autour de lui un champ de force invisible au sein duquel la magie ne peut exister. Dans la zone du sort, les effets son réprimés et on considère que les créatures sont affectées par une *[[zone dantimagie|zone d’antimagie]]*. Une sphère de force impénétrable et immobile entoure la zone, correspondant en tout point à un *[[mur de force]]* sphérique, ce qui inclut son immunité à la *[[dissipation de la magie]]* et sa vulnérabilité à une [[Sphère dannihilation|sphère d’annihilation]] ou à un [[Sceptre doblitération|sceptre d’oblitération]]. La barrière a une [[solidité]] de 40 et 20 points de vie par [[NLS|niveau de lanceur de sorts]]. Elle peut être endommagée par des attaques ordinaires comme par des sorts lancés depuis l’extérieur de la zone. Si la bulle de force est détruite, le sort prend fin.

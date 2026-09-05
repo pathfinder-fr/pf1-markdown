@@ -22,6 +22,6 @@ Le personnage donne temporairement une forme tangible à une unique note de musi
 
 Elle a une force effective égale à 10 + [[NLS|niveau de lanceur de sorts]] du personnage. Elle ne peut pas soutenir un poids supérieur à ce qui représente une [[Poids transportable|charge lourde]] pour sa [[Force]], le cas échéant, elle disparaît.
 
-La note ne peut pas infliger de véritables dégâts à une créature et elle disparaît si quelqu'un réussit une attaque contre elle ([[CA]] 10 + modificateur de [[Charisme]] du personnage) ou si elle est renversée par une manœuvre de combat comme une [[bousculade]] ([[DMD]] 2 + [[BBA|bonus de base à l'attaque]] du personnage + modificateur de [[Charisme]]).
+La note ne peut pas infliger de véritables dégâts à une créature et elle disparaît si quelqu'un réussit une attaque contre elle ([[CA]] 10 + modificateur de [[Charisme]] du personnage) ou si elle est renversée par une manœuvre de combat comme une [[bousculade]] ([[DMD]] 2 + [[BBA|bonus de base à l'attaque]] du personnage + modificateur de [[Charisme]]). 
 
 Toute créature bloquée par la *note tangible* n'arrive simplement pas à la faire bouger et perd son action pour le [[round]].

@@ -9,12 +9,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Nécromancie]] ; **Niveau** [[Psychiste|Psy]] 6, [[Spirite|Spi]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cible** une créature
-**Durée** 24 heures (voir texte)
+{s:cs}{s:OO}**École** [[Nécromancie]] ; **Niveau** [[Psychiste|Psy]] 6, [[Spirite|Spi]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[contact]]  
+**Cible** une créature  
+**Durée** 24 heures (voir texte)  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** oui
 
 Ce sort crée une manifestation psychique semi-visible qui permet à une créature de remplacer une ou des parties manquantes de son corps. Ce peut être un simple doigt manquant ou un membre plus complexe comme une paire d'ailes. La créature peut utiliser ces appendices ectoplasmiques exactement comme s'il étaient ses véritables membres, y compris pour porter n'importe quelle attaque naturelle ou autre capacité spéciale. Cela inclut les capacités extraordinaires octroyées par ces appendices, mais pas les surnaturelles. Si la cible n'a pas besoin de remplacer un de ses membres (ou décide de ne pas l'utiliser de cette façon), elle peut choisir une des options suivantes. Dans ce cas, le sort dure seulement 10 minutes par niveau.

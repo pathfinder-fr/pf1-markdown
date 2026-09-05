@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 3 kg
+{s:AE}**Prix** 1 po ; **Poids** 3 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces oiseaux domestiques ne peuvent pas voler sur de longues distances. On les élève pour leurs œufs et leur viande. Les poulets mâles servent à la reproduction et, parfois, à des sports sanguinaires.

@@ -26,7 +26,7 @@ Les villes franches sont des cités indépendantes qui sont suffisamment importa
 
 Les royaumes quant à eux sont au nombre de 13 : le [[Cordelon]], [[Dague]], [[Gralton]], l'[[Hymbria]], le [[Lambreth]], les [[Chutes Loric]], [[Mivon]], [[Pitax]], le [[Protectorat du Marquis Noir]], [[Sept-Arches]], les [[Terres Dérobées]], le [[Touvette]] et le [[Tymon]].
 
-Il y a aussi d'autres sites d'intérêt disséminés sur tout le territoire. Parmi les plus importants on citera :
+Il y a aussi d'autres sites d'intérêt disséminés sur tout le territoire. Parmi les plus importants on citera : 
 - les ruines d<nowiki>'</nowiki>**Heibarr**
 - les ruines d**'Eau-moussue**
 - les ruines de **Nystra**
@@ -37,7 +37,7 @@ Il y a aussi d'autres sites d'intérêt disséminés sur tout le territoire. Par
 
 
 ### L'histoire des Royaumes Fluviaux
-Dans les temps anciens, le territoire actuellement occupé par la majeure partie des Royaumes Fluviaux servait de réserve de chasse aux elfes du [[Kyonin]], connue sous le nom de Telvurin.
+Dans les temps anciens, le territoire actuellement occupé par la majeure partie des Royaumes Fluviaux servait de réserve de chasse aux elfes du [[Kyonin]], connue sous le nom de Telvurin. 
 
 Le nombre de combats, de conquêtes, de destructions et de décès est tel qu'ils sont impossibles à consigner dans un livre. Avec autant d'évènements se répétant inlassablement, peu de personnes ont essayé de conserver les allées et venues des petits tyrans et de leurs royaumes. Les seuls évènements notables des Royaumes Fluviaux ayant eu un effet sur le monde extérieur étaient lorsque l'un de ces royaumes grandissait suffisamment pour être considéré comme une nation à part entière. Seuls deux d'entre eux y sont parvenus : la [[Numérie]] et le [[Razmiran]].
 
@@ -48,7 +48,7 @@ Il n'existe pas de gouvernement central dans les Royaumes Fluviaux, excepté une
 
 Les guerres civiles sont une autre menace à la formation d'un gouvernement stable, l'assassinat et les menaces étant de simples modes de vie dans ces royaumes tumultueux. La plus sournoise de ces guerres civiles eut lieu lorsque de puissants seigneurs grassement payés pour intervenir dans des conflits lointains revinrent dans leur patrie pour les voir aux mains de quelqu'un d'autre.
 
-La seule chose qui puisse réunir les différents Royaumes Fluviaux est une forte menace venue des nations voisines. Et même dans ce cas, les différents seigneurs rivalisent entre eux pour être à la tête de n'importe quelle armée délabrée constituée pour bouter les étrangers hors du territoire. L'organisation de ces troupes hétéroclites est aussi chaotique que celle des royaumes eux-mêmes, chaque petit seigneur essayant de surpasser en héroïsme ses rivaux sur le champ de bataille.
+La seule chose qui puisse réunir les différents Royaumes Fluviaux est une forte menace venue des nations voisines. Et même dans ce cas, les différents seigneurs rivalisent entre eux pour être à la tête de n'importe quelle armée délabrée constituée pour bouter les étrangers hors du territoire. L'organisation de ces troupes hétéroclites est aussi chaotique que celle des royaumes eux-mêmes, chaque petit seigneur essayant de surpasser en héroïsme ses rivaux sur le champ de bataille. 
 
 
 #### Les six Libertés des Fleuves
@@ -64,7 +64,7 @@ En dehors de la politique et de la guerre, les Royaumes Fluviaux sont tenus de r
 
 **L'esclavagisme est une abomination **: Même si les Royaumes Fluviaux abritent fréquemment des criminels, aucun ne garde des esclaves. Les esclavagistes peuvent se déplacer librement, mais prendre ou détenir des esclaves dans les Royaumes Fluviaux peut être périlleux car beaucoup d'habitants furent eux mêmes esclaves autrefois.
 
-**Tu as ce que tu tiens** : Les lois de propriété sont faibles dans les Royaumes Fluviaux. Si quelqu'un réclame la possession de quelque chose, il peut imposer cette réclamation avec son épée.
+**Tu as ce que tu tiens** : Les lois de propriété sont faibles dans les Royaumes Fluviaux. Si quelqu'un réclame la possession de quelque chose, il peut imposer cette réclamation avec son épée. 
 
 
 ### Les habitants des Royaumes Fluviaux

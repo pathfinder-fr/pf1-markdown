@@ -8,7 +8,7 @@ LastModified: 2024-05-21 19:08
 {s:BDTitre|Pistolet des cieux infinis|{s:AE}}
 **Aura** [[Invocation]] puissante ; **NLS** 15 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 73.300 po ; **Poids** 2 kg
 (((Description)))
-Le symbole de l’infini est gravé de chaque côté de la crosse en nacre de ce pistolet +5 et son barillet est gravé en or des motifs de la lune, des planètes et des étoiles sur l’acier froid et noir du pistolet, tel un ciel nocturne. Il n’est nullement besoin de recharger ce pistolet. Après avoir tiré, le pistolet se recharge de lui-même en créant magiquement une balle et de la poudre noire. Il est impossible de faire long feu avec cette arme.
+Le symbole de l’infini est gravé de chaque côté de la crosse en nacre de ce pistolet +5 et son barillet est gravé en or des motifs de la lune, des planètes et des étoiles sur l’acier froid et noir du pistolet, tel un ciel nocturne. Il n’est nullement besoin de recharger ce pistolet. Après avoir tiré, le pistolet se recharge de lui-même en créant magiquement une balle et de la poudre noire. Il est impossible de faire long feu avec cette arme. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[assistant de chargement]]*  ; **Coût** 37.300 po
 </div>

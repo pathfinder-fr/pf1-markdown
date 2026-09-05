@@ -8,8 +8,8 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:AE}{s:CCMI}**Prix** 15 po ; **Poids** 1 kg ; **Groupes** —
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** C et P ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]
+{s:AE}{s:CCMI}**Prix** 15 po ; **Poids** 1 kg ; **Groupes** —  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** C et P ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Ces bolas fonctionnent comme des [[bolas (arme)|bolas ordinaires]] mais infligent des dégâts létaux.

@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:cs}{s:ISG}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** personnelle
-**Cibles** le lanceur de sorts
-**Durée** 1 minute/niveau
+{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:cs}{s:ISG}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** personnelle  
+**Cibles** le lanceur de sorts  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un feu magique réchauffe le ventre du personnage, lui conférant une [[Résistance (capacité)|résistance]] au feu de 5 et rendant ses tripes chaudes au toucher (mais pas assez pour le blesser ou endommager quoi que ce soit d'autre). Par une une [[action simple]], le personnage peut souffler un cône de flammes de 4,5 mètres qui inflige 1d4 points de dégâts de feu ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; la [[RM]] s'applique). Chaque fois que le personnage utilise cette attaque de souffle, la durée restante du sort est réduite de 1 minute.

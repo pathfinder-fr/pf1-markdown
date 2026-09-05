@@ -19,7 +19,7 @@ Categories:
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
-Ce sort fonctionne comme détection des pensées et permet au personnage de sentir quand la conscience d’une ou plusieurs créatures se trouve dans un [[paysages mentaux|paysage mental]]. La quantité d’informations révélées dépend de la durée d’étude du sujet.
+Ce sort fonctionne comme détection des pensées et permet au personnage de sentir quand la conscience d’une ou plusieurs créatures se trouve dans un [[paysages mentaux|paysage mental]]. La quantité d’informations révélées dépend de la durée d’étude du sujet. 
 
 Premier [[round]]. Le personnage sent la présence ou l’absence de [[paysages mentaux|paysage mental]]. Pour qu’il détecte le paysage, il faut qu’au moins une des créatures présentes en son sein se trouve aussi dans le cône d’effet du sort.
 

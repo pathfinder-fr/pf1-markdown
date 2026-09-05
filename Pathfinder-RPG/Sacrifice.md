@@ -10,12 +10,12 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:cs}{s:BotD}**École** [[Enchantement]] ([[charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[prêtre|Prê]] 4
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, M]] (voir texte)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** un [[type Extérieur|extérieur]] ou [[sous-type élémentaire|élémentaire]] convoqué (voir texte)
-**Durée** [[instantanée]], 1 heure ou 1 jour (voir texte)
+{s:cs}{s:BotD}**École** [[Enchantement]] ([[charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[prêtre|Prê]] 4  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, M]] (voir texte)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** un [[type Extérieur|extérieur]] ou [[sous-type élémentaire|élémentaire]] convoqué (voir texte)  
+**Durée** [[instantanée]], 1 heure ou 1 jour (voir texte)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage fait un sacrifice pour faciliter l'invocation et le contrôle d'une créature appelée par le biais d’*[[Allié majeur doutreplan|allié majeur d'outreplan]]*, de *[[contrat intermédiaire]]* ou d'un sort similaire. Un sacrifice peut-être effectué de plusieurs façons.

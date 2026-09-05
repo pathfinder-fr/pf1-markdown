@@ -13,12 +13,12 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[Sahuagin|sahuagins]].**
 
-**École ** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau ** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** 6 m
-**Zone** nuage de 6 mètres de rayon centré sur le sahuagin
-**Durée** 1 round/[[niveau]]
+**École ** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau ** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** 6 m  
+**Zone** nuage de 6 mètres de rayon centré sur le sahuagin  
+**Durée** 1 round/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Lorsqu’il lance ce sort, le sahuagin doit s’infliger un point de dégâts perforants ou tranchants pour faire couler son sang. Ce faisant, il reçoit un point de dégâts de saignement. Lorsque ce sort est actif, tous les requins, les poissons de fond et les créatures possédant le pouvoir de frénésie inspirée par le sang situés dans la zone gagnent un bonus de +2 en [[Force]] et en [[Constitution]] mais reçoivent un malus de -2 à la [[CA]].

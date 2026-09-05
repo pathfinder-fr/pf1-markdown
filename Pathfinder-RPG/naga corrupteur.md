@@ -78,14 +78,14 @@ les cimetières abandonnés, les forêts ravagées et les marais à la
 végétation entremêlée. Alors que les nagas gardiens se tournent
 plutôt vers des lieux sacrés et naturels, les nagas corrupteurs
 recherchent des endroits profondément touchés par la corruption,
-des sites qui, selon eux, baignent de magie maléfique.
+des sites qui, selon eux, baignent de magie maléfique. 
 
 Les cryptes des tyrans morts depuis longtemps, les lieux où de grands héros
 sont morts et les ruines des places-fortes les plus infâmes sont des
 sites de choix pour ces abominables serpents.
 La plupart des nagas corrupteurs se considèrent comme
 les récipiendaires d’un ancien et mystérieux don maléfique et
-citent leurs talents magiques innés comme preuve de cela.
+citent leurs talents magiques innés comme preuve de cela. 
 
 Un bon nombre d’entre eux communient avec de vagues puissances
 liées à la mort et à la dévastation, dont le culte leur permet de
@@ -99,7 +99,7 @@ fanatiques dévoués ou en futurs sacrifices.
 Les nagas corrupteurs se rassemblent
 parfois en petits groupes dont
 certains semblent imiter les cercles
-de guenaudes.
+de guenaudes. 
 
 Une machination
 spécifique ou un ennemi commun

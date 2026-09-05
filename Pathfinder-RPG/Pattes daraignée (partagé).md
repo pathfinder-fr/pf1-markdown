@@ -14,28 +14,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une araignée vivante)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une araignée vivante)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[pattes daraignée|pattes d’araignée]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 
 
 
 (((
 ## Pattes d'araignée
-**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une araignée vivante)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 10 minutes/[[niveau]]
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une araignée vivante)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Le sujet peut se déplacer sur une surface verticale, voire au plafond, avec l’agilité d’une araignée. Pour ce faire, il doit avoir les mains libres. Sa [[vitesse de déplacement]] est égale à 6 m et il gagne un bonus racial aux tests d’[[Escalade]] de +8. De plus, il n’a pas besoin de faire de test d’[[Escalade]] pour franchir les surfaces verticales ou horizontales (même s’il a la tête en bas). Une créature qui bénéficie des effets de ce sort conserve son bonus de [[Dextérité]] à la [[CA]] (le cas échéant) lorsqu’elle grimpe et ses adversaires ne bénéficient d’aucun bonus spécial pour l’attaquer. Par contre, elle ne peut pas entreprendre d’[[actions complexes#COURIR|action de course]] tant qu’elle escalade quelque chose.
 
 ### Version mythique

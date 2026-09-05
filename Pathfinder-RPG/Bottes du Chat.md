@@ -8,7 +8,7 @@ LastModified: 2024-05-31 10:12
 {s:BDTitre|Bottes du chat|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 1 000 po ; **Poids** 0.5 kg
 (((Description)))
-Ces bottes bleues aux semelles épaisses et dotées de renforts orthopédiques sont extrêmement confortables et augmentent quelque peu la taille de leur porteur. Celui-ci subit toujours le minimum de dégâts potentiels dus aux [[Dangers naturels#CHUTES|chutes]] (on considère que le MJ obtient un 1 sur tous les dés lancés pour déterminer le montant de dégâts) et qu’il retombe toujours sur ses pieds.
+Ces bottes bleues aux semelles épaisses et dotées de renforts orthopédiques sont extrêmement confortables et augmentent quelque peu la taille de leur porteur. Celui-ci subit toujours le minimum de dégâts potentiels dus aux [[Dangers naturels#CHUTES|chutes]] (on considère que le MJ obtient un 1 sur tous les dés lancés pour déterminer le montant de dégâts) et qu’il retombe toujours sur ses pieds. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[feuille morte]]* ; **Coût** 500 po
 </div>

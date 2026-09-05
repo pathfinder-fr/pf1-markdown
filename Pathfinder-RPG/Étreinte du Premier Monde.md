@@ -9,12 +9,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Druide|Dru]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (100 po de poudre de diamant)
-**Portée** contact
-**Zone d'effet** une créature vivante ou un mort-vivant touché
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Druide|Dru]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (100 po de poudre de diamant)  
+**Portée** contact  
+**Zone d'effet** une créature vivante ou un mort-vivant touché  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort, hautement apprécié des lanceurs de sorts féeriques, se lance en donnant un baiser, mais en réalité un simple contact est suffisant pour conférer à quelqu’un les avantages d’une *étreinte du Monde féerique*. Ce sort confère à une créature vivante un brusque apport d’énergie positive prélevée du Monde féerique qui l’imprègne d’énergie vitale à l’état brut. Les effets exacts de ce sort varient en fonction de la nature de la créature touchée. Les créatures artificielles sont immunisées aux effets de ce sort.

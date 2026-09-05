@@ -49,7 +49,7 @@ Categories:
 
 </div>*Cette armure bouge comme si elle était portée par un guerrier extrêmement compétent, mais il n’y a de toute évidence personne à l’intérieur.*
 
-Créées à partir des restes d’humanoïdes de grande taille en armure, ces armures-là sont particulièrement effrayantes mais elles sont plus lentes que les armures fantômes gardiennes.
+Créées à partir des restes d’humanoïdes de grande taille en armure, ces armures-là sont particulièrement effrayantes mais elles sont plus lentes que les armures fantômes gardiennes. 
 
 ### Création d'armures fantômes
 Il est possible de créer des armures fantômes en utilisant le sort *[[création de mort-vivant]]*. Pour créer une telle armure, il faut disposer d’un cadavre vêtu d’une armure lourde. Le cadavre est détruit lors du processus de création de l’armure fantôme. Le lanceur de sorts doit avoir un niveau de lanceur minimum de 12 pour pouvoir créer une armure fantôme gardienne et un niveau de lanceur de sorts minimum de 15 pour pouvoir créer une armure fantôme géante.</div>

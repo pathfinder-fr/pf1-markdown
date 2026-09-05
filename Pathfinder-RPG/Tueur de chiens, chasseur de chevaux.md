@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*La peur et la haine permettent au personnage de frapper ses ennemis ancestraux avec efficacité.*
 
-**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Dressage]]
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Dressage]] 
 
 **Avantage.** Le personnage bénéficie d’un bonus de moral de +2 à tous les [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués contre les [[chien|chiens]] et les [[cheval|chevaux]] (y compris les créatures similaires aux chevaux et aux chiens, comme les [[destrier noir|destriers noirs]] ou les [[worg|worgs]]). De plus, le personnage bénéficie d’un bonus de +2 aux jets de confirmation des [[coup critique|coups critiques]] contre ces créatures.

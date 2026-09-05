@@ -8,8 +8,8 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Lameslégères|lames légères]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#MOINE|moine]]
+{s:AE}**Prix** 2 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Lameslégères|lames légères]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#MOINE|moine]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Semblable à la [[serpe (arme)|serpe]] (et, dans certaines régions, encore utilisé pour moissonner les céréales), le kama est une lame courte incurvée fixée sur une poignée simple, généralement en bois. On parle parfois de kaï. Les adeptes des arts martiaux l’utilisent fréquemment par paire.

@@ -31,6 +31,6 @@ Les indigènes, natifs iobariens, partagent une partie de leur culture avec les 
 Les croisés constituent la seconde partie de la population du Mendev. Ils arrivent chaque semaine par navires entiers, traversant le [[lac des Brumes et des Voiles]] à destination de l'objectif de leur pèlerinage. Les migrants ont formé une population très disparate. Les premiers croisés, arrivés lors de la première Croisade Mendévienne, étaient constitués de prêtres et de paladins, de vertueux nobles à la moralité sans faille, adeptes de dieux bons. En revanche, les migrants venus avec les croisés de la quatrième Croisade Mendévienne sont beaucoup moins vertueux. Beaucoup de mercenaires ont afflué et surpassent maintenant en nombre les croisés sincères. Cette situation a été aggravée par le fait que beaucoup de nations du sud de l'[[Avistan]] voient dans ces croisades l'occasion de se débarrasser de leurs dissidents politiques, de leurs criminels et de ceux qu'elles considèrent comme indésirables.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos du Mendev dans le supplément
+Vous pourrez trouver plus d'informations à propos du Mendev dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

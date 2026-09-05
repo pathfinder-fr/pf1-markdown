@@ -13,9 +13,9 @@ Categories:
 {s:Menuarchétypearcaniste}{s:MCA}*Certains arcanistes stockent leurs sorts en murmurant leurs secrets à des familiers au lieu de les coucher sur le papier.*
 
 #### Familier
-Un arcaniste illettré n’a pas de grimoire. À la place, il dispose d’un [[familier]] dans lequel il stocke ses sorts, comme une [[sorcière]], sans toutefois obtenir un protecteur comme elle.
+Un arcaniste illettré n’a pas de grimoire. À la place, il dispose d’un [[familier]] dans lequel il stocke ses sorts, comme une [[sorcière]], sans toutefois obtenir un protecteur comme elle. 
 
-Considérez son niveau d’arcaniste comme son niveau de sorcière pour déterminer les aptitudes et les avantages conférés par le familier.
+Considérez son niveau d’arcaniste comme son niveau de sorcière pour déterminer les aptitudes et les avantages conférés par le familier. 
 
 Tous les éléments qui devraient permettre à un arcaniste illettré d’ajouter des sorts dans son grimoire lui permettent à la place de les ajouter dans son familier. Cette aptitude remplace grimoire.
 

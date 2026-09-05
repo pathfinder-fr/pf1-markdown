@@ -57,7 +57,7 @@ nature apporte tout ce qu’il faut, en temps voulu, grâce au flux des marées 
 ### Faire pousser un léchi d'algues
 Il faut de l’eau de mer pour pousser un léchis d’algues. Le créateur doit planter un filament de varech ou d’une autre plante marine dans l’eau et lui administrer quotidiennement de la poussière d’os pour stimuler la croissance des algues. Lorsqu’un léchi d’algues vient au monde, il n’a aucune armure mais peut s’en fabriquer une à partir des matériaux disponibles en une journée s’il est livré à lui-même (aucun test d’[[Artisanat]] n’est requis).
 
-**NLS** 10 ; **Prix** 4 500 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*, *[[croissance végétale]]*, *[[respiration aquatique]]*
+**NLS** 10 ; **Prix** 4 500 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*, *[[croissance végétale]]*, *[[respiration aquatique]]*  
 **Compétences** [[Connaissances]] (nature) [[DD]] 16 ; **Coût** 2 250 po
 </div></td></tr></table>

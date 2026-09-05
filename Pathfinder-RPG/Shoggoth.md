@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Shoggoth|FP 19}
-{s:pucem|Vase|Aquatique|Froid}
+{s:pucem|Vase|Aquatique|Froid} 
 {s:BDTexte|*Source : Bestiaire* p.259}
 {s:BDTexte|**PX** 204.800}
 {s:BDTexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille TG, CN}

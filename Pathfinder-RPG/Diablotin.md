@@ -54,7 +54,7 @@ issus directement des fosses de l’Enfer. Ces fiélons
 manipulateurs et vicieux, qui existent en marge de la
 hiérarchie des armées diaboliques et qui sont dispensés
 des devoirs associés, jouent toutefois un rôle important dans la
-corruption des âmes mortelles.
+corruption des âmes mortelles. 
 
 Ils adorent voyager vers le plan
 Matériel et inciter subtilement les mortels à commettre des actes
@@ -77,7 +77,7 @@ Un diablotin sur mille possède la capacité de communiquer par
 télépathie jusqu’à une distance de 15 mètres et de se transformer en
 n’importe quel animal de taille P ou TP comme par le sort de [[forme bestiale II]]. Les diables puissants accordent beaucoup de valeur à ces
 « consuls diablotins » et les envoient servir leurs sbires préférés
-ou corrompre les mortels dotés d’une grande destinée.
+ou corrompre les mortels dotés d’une grande destinée. 
 
 Un lanceur
 de sorts de niveau supérieur ou égal à 8 peut invoquer un consul
@@ -90,7 +90,7 @@ Contrairement à la plupart des diables, les diablotins se retrouvent
 souvent seuls et libres sur le plan Matériel, tout particulièrement
 après qu’ils aient été invoqués pour servir de familiers et que leur
 maître ait péri (une mort qui est bien souvent la conséquence
-indirecte des machinations du diablotin lui-même).
+indirecte des machinations du diablotin lui-même). 
 
 Une fois libérés des liens qui les unissaient à leur maître, ces
 diablotins, incapables de rentrer chez eux par eux-mêmes,

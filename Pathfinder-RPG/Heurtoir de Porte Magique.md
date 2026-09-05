@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Heurtoir de porte magique|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5.000 po ; **Poids** 1 kg
 (((Description)))
-Cette tête de gargouille en fer tient un anneau d’acier dans sa gueule. Une fois par jour, lorsqu’un personnage presse la surface plate au dos de la tête contre un mur, le sol ou le plafond, le heurtoir fusionne avec en créant une porte fonctionnelle. La porte se découpe sur une profondeur maximale de 30 centimètres comme avec le sort *[[passe-muraille]]*. Il suffit de prononcer à nouveau le mot de commande pour mettre fin à l’effet de *[[passe-muraille]]*, rendre à la surface sa forme d’origine et détacher le heurtoir.
+Cette tête de gargouille en fer tient un anneau d’acier dans sa gueule. Une fois par jour, lorsqu’un personnage presse la surface plate au dos de la tête contre un mur, le sol ou le plafond, le heurtoir fusionne avec en créant une porte fonctionnelle. La porte se découpe sur une profondeur maximale de 30 centimètres comme avec le sort *[[passe-muraille]]*. Il suffit de prononcer à nouveau le mot de commande pour mettre fin à l’effet de *[[passe-muraille]]*, rendre à la surface sa forme d’origine et détacher le heurtoir. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[passe-muraille]]* ; **Coût** 2.500 po
 </div>

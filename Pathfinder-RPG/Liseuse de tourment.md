@@ -4,7 +4,7 @@ Title: Voyante
 LastModified: 2020-12-10 15:45
 ---
 
-{s:Menuclassesdeprestige}{s:cs}{s:ccmi}La voyance est sans doute l’une des pratiques les plus mystérieuses et les plus mystiques ; en tout cas, c’est à coup sûr une de celles qui captive le plus l’imagination et la curiosité. À l’aide d’un jeu de cartes spécial appelé jeu de tarot, la Voyante peut faire une lecture de l'avenir en déposant ses cartes en carré de trois cartes sur trois afin de révéler les secrets du passé, du présent et du futur de la personne qui vient la voir. Que les révélations d’une lecture du tarot soient fiables ou non, personne ne peut nier la réalité des étranges pouvoirs des voyantes. Ces femmes puisent dans l’art ancestral de la bonne aventure pour augmenter leurs capacités de lanceuses de sorts en se servant du destin, en s’imprégnant du pouvoir des cartes et en laissant la fatalité choisir quelle part de sa magie elle souhaite améliorer.
+{s:Menuclassesdeprestige}{s:cs}{s:ccmi}La voyance est sans doute l’une des pratiques les plus mystérieuses et les plus mystiques ; en tout cas, c’est à coup sûr une de celles qui captive le plus l’imagination et la curiosité. À l’aide d’un jeu de cartes spécial appelé jeu de tarot, la Voyante peut faire une lecture de l'avenir en déposant ses cartes en carré de trois cartes sur trois afin de révéler les secrets du passé, du présent et du futur de la personne qui vient la voir. Que les révélations d’une lecture du tarot soient fiables ou non, personne ne peut nier la réalité des étranges pouvoirs des voyantes. Ces femmes puisent dans l’art ancestral de la bonne aventure pour augmenter leurs capacités de lanceuses de sorts en se servant du destin, en s’imprégnant du pouvoir des cartes et en laissant la fatalité choisir quelle part de sa magie elle souhaite améliorer. 
 
 Plusieurs pouvoirs de la voyante exigent qu’elle tire une carte du jeu. Pour cela, vous pouvez vous servir d’un véritable jeu de tarot mais vous pouvez aussi simuler un tirage.
 
@@ -132,9 +132,9 @@ Pour devenir une voyante, le personnage doit remplir les critères suivants.
 
 **Don.** [[Jouet du destin]]
 
-**Compétences.** [[Connaissances]] (mystères ou religion) 5 rangs, [[Représentation]] (n’importe) 5 rangs
+**Compétences.** [[Connaissances]] (mystères ou religion) 5 rangs, [[Représentation]] (n’importe) 5 rangs 
 
-**Spécial.** aptitude à lancer des sorts de niveau 3. Capable de lancer au moins trois sorts de divination.
+**Spécial.** aptitude à lancer des sorts de niveau 3. Capable de lancer au moins trois sorts de divination. 
 
 **Spécial.** doit posséder un jeu de tarot.
 
@@ -153,14 +153,14 @@ La voyante ne gagne pas de compétences supplémentaires dans le maniement des a
 #### Sorts
 Quand une voyante gagne un niveau, elle gagne de nouveaux sorts par jour comme si elle avait aussi gagné un niveau dans la classe de lanceur de sorts à laquelle elle appartenait avant de choisir cette classe de prestige. Par contre, elle ne gagne aucun autre avantage qu’un personnage de cette classe aurait normalement acquis. En résumé, le personnage ajoute son niveau de voyante au niveau de son autre classe de lanceur de sorts. Si le personnage appartenait à plusieurs classes de lanceur de sorts avant de choisir cette classe de prestige, il doit choisir à laquelle il ajoutera ses niveaux de voyante pour déterminer son nombre de sorts par jour.
 
-La voyante ajoute le sort ~~tourment~~ à toutes ses listes de sorts comme un sort de niveau 3 si elle ne le possède pas déjà.
+La voyante ajoute le sort ~~tourment~~ à toutes ses listes de sorts comme un sort de niveau 3 si elle ne le possède pas déjà. 
 
 {s:Reference|Bénédiction du tourment}
 #### Bénédiction du Tourment (Sur)
-Une fois par jour, le personnage peut lire le tourment pour lui et les alliés situés dans un rayon de 6 mètres. Cette lecture prend 10 minutes et les alliés affectés doivent rester dans les 6 mètres pendant toute la durée de la lecture. À la fin de la lecture, comptez les familles apparues au tirage.
+Une fois par jour, le personnage peut lire le tourment pour lui et les alliés situés dans un rayon de 6 mètres. Cette lecture prend 10 minutes et les alliés affectés doivent rester dans les 6 mètres pendant toute la durée de la lecture. À la fin de la lecture, comptez les familles apparues au tirage. 
 
-Cette lecture donne un bonus basé sur la famille dont le personnage a tiré le plus de cartes. En cas d’égalité, faites un choix. Ce bonus persiste pendant 24 h.
-Les cartes accordent des bonus d’intuition comme suit :
+Cette lecture donne un bonus basé sur la famille dont le personnage a tiré le plus de cartes. En cas d’égalité, faites un choix. Ce bonus persiste pendant 24 h. 
+Les cartes accordent des bonus d’intuition comme suit : 
 - Force : +1 aux jets d’attaque 
 - Dextérité : +1 à la CA 
 - Constitution : +1 aux jets de dégâts des armes
@@ -171,15 +171,15 @@ Les cartes accordent des bonus d’intuition comme suit :
 
 {s:Reference|MAGIEDUTOURMENT}
 #### Magie du tourment (Sur)
-À partir du niveau 2, la voyante peut tirer trois cartes de son jeu en même temps qu’elle lance un sort. Cela ajoute une composante gestuelle (si le sort n’en avait pas) et un focalisateur divin au sort, mais ne rallonge pas sa durée d’incantation. Selon le niveau de la voyante, les cartes tirées changent les paramètres du sort ou lui accordent un avantage supplémentaire, comme décrit dans les particularités de chaque tour. La voyante gagne tous les pouvoirs des tours à sa disposition.
+À partir du niveau 2, la voyante peut tirer trois cartes de son jeu en même temps qu’elle lance un sort. Cela ajoute une composante gestuelle (si le sort n’en avait pas) et un focalisateur divin au sort, mais ne rallonge pas sa durée d’incantation. Selon le niveau de la voyante, les cartes tirées changent les paramètres du sort ou lui accordent un avantage supplémentaire, comme décrit dans les particularités de chaque tour. La voyante gagne tous les pouvoirs des tours à sa disposition. 
 
-Si elle tire une carte qu’elle ne sait pas encore utiliser, elle n’en tire aucun bénéfice. À chaque fois que la voyante tire une carte qui correspond à un accord parfait avec son alignement, cette carte compte comme si elle en avait tiré deux de cette famille.
+Si elle tire une carte qu’elle ne sait pas encore utiliser, elle n’en tire aucun bénéfice. À chaque fois que la voyante tire une carte qui correspond à un accord parfait avec son alignement, cette carte compte comme si elle en avait tiré deux de cette famille. 
 
 On ne peut pas appliquer la magie du tourment et un don de métamagie au même sort. La voyante peut utiliser ce pouvoir un nombre de fois par jour égal à son niveau de classe.
 
 {s:Reference|TOURDELINTELLIGENCE}
 #### La tour de l’Intelligence (Sur)
-À partir du niveau 2, à chaque fois que la voyante se sert de sa magie du tourment, elle gagne un bonus d’intuition de +1 aux tests de [[NLS|niveau de lanceur de sorts]] destinés à vaincre la [[RM|Résistance à la magie]] pour chaque carte de la famille de l’Intelligence.
+À partir du niveau 2, à chaque fois que la voyante se sert de sa magie du tourment, elle gagne un bonus d’intuition de +1 aux tests de [[NLS|niveau de lanceur de sorts]] destinés à vaincre la [[RM|Résistance à la magie]] pour chaque carte de la famille de l’Intelligence. 
 
 {s:Reference|TOURDELAFORCE}
 #### La tour de la Force (Sur)
@@ -187,7 +187,7 @@ On ne peut pas appliquer la magie du tourment et un don de métamagie au même s
 
 {s:Reference|TOURDUCHARISME}
 #### La tour du Charisme (Sur)
-À partir du niveau 4, à chaque fois que la voyante se sert de sa magie du tourment, le DD du jet de sauvegarde de son sort augmente de +1 pour chaque carte de la famille du Charisme.
+À partir du niveau 4, à chaque fois que la voyante se sert de sa magie du tourment, le DD du jet de sauvegarde de son sort augmente de +1 pour chaque carte de la famille du Charisme. 
 
 {s:Reference|JEUSPIRITUEL}
 #### Jeu spirituel (Sur)
@@ -208,9 +208,9 @@ On ne peut pas appliquer la magie du tourment et un don de métamagie au même s
 | NM | NB | LM, CM, NB, N |
 | CM | LB | LM, NM, CB, CN |
 
-Par une action simple, une voyante de niveau 5 peut convoquer un jeu du tourment scintillant et translucide qui s’envole dans les airs et englobe une cible située à moins de 9 mètres dans une nuée de cartes tranchantes. La voyante tire ensuite un nombre de cartes égal à son niveau de classe et le jeu spirituel inflige des dégâts basés sur le nombre d’accords qu’elle tire, comme indiqué dans la table à droite.
+Par une action simple, une voyante de niveau 5 peut convoquer un jeu du tourment scintillant et translucide qui s’envole dans les airs et englobe une cible située à moins de 9 mètres dans une nuée de cartes tranchantes. La voyante tire ensuite un nombre de cartes égal à son niveau de classe et le jeu spirituel inflige des dégâts basés sur le nombre d’accords qu’elle tire, comme indiqué dans la table à droite. 
 
-Chaque accord parfait (défini en fonction de l’alignement de la voyante) inflige 5 points de dégâts, chaque accord partiel inflige 3 points. Les cartes neutres infligent 1 point de dégâts et les désaccords ne causent pas de dégâts.
+Chaque accord parfait (défini en fonction de l’alignement de la voyante) inflige 5 points de dégâts, chaque accord partiel inflige 3 points. Les cartes neutres infligent 1 point de dégâts et les désaccords ne causent pas de dégâts. 
 
 La voyante peut utiliser ce pouvoir un nombre de fois par jour égal à 1 + son modificateur de Charisme (au minimum 1/jour).
 

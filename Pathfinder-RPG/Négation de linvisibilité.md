@@ -21,7 +21,7 @@ Categories:
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#19|→]] *Négation de l’invisibilité* : Fonctionne-t-il sur les créatures naturellement invisibles ?***
 
-Généralement, oui – rien dans la description du sort ne précise qu’il fonctionne uniquement sur les sorts ou les autres sources d’invisibilité magique.
+Généralement, oui – rien dans la description du sort ne précise qu’il fonctionne uniquement sur les sorts ou les autres sources d’invisibilité magique.  
 Par contre, notez que l’invisibilité naturelle du [[traqueur invisible]] indique spécifiquement qu’elle n’est pas sujette à la <u>*[[négation de linvisibilité|négation de l’invisibilité]]*</u>. Ainsi, les [[feu follet|feux follets]] et les [[pixie|pixies]] deviennent visibles, mais pas les traqueurs invisibles.}Le [[prêtre]] s’entoure d’une sphère d’énergie de 1,50 m (1 {s:c}) de rayon par [[niveau de lanceur de sorts]]. Elle dissipe toute forme d’*invisibilité*.
 
 Les créatures et les objets [[invisible|invisibles]] réapparaissent dès qu’ils pénètrent dans la [[zone deffet|zone d’effet]].

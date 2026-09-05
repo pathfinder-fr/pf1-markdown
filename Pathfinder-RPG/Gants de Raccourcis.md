@@ -14,7 +14,7 @@ Lorsque le personnage utilise les gants pour toucher, attaquer ou manipuler quel
 
 Le personnage est distrait tant qu’il interagit avec la case ciblée et on considère que les créatures qui le menacent le prennent automatiquement en tenaille.
 
-Les gants ne fonctionnent pas si le porteur ou sa case subit un effet qui bloque les effets de téléportation ou de voyage planaire (tel qu’un sort d’*[[ancre dimensionnelle]]*). Il est également impossible d’utiliser les gants pour cibler une case protégée par ce type d’effet.
+Les gants ne fonctionnent pas si le porteur ou sa case subit un effet qui bloque les effets de téléportation ou de voyage planaire (tel qu’un sort d’*[[ancre dimensionnelle]]*). Il est également impossible d’utiliser les gants pour cibler une case protégée par ce type d’effet. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[téléportation]]* ; **Coût** 8.000 po
 </div>

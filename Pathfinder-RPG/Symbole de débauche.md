@@ -11,28 +11,28 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:ISG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (les parties génitales d'un taureau et de la poudre de rubis d'une valeur de 5 000 po)
-**Portée** 0 m ; voir texte
-**Effet** un symbole
-**Durée** voir texte
+{s:ISG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (les parties génitales d'un taureau et de la poudre de rubis d'une valeur de 5 000 po)  
+**Portée** 0 m ; voir texte  
+**Effet** un symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage fait apparaître un symbole impressionnant, une rune évoquant des corps gonflés, de la nourriture jetée en l'air et des rivières de vin. Ce sort fonctionne comme *[[symbole de mort]]*, excepté que toutes les créatures situées à moins de 18 mètres du *symbole de débauche* sont à la place remplies de désir pour la créature consciente la plus proche. Cet effet dure 1 round par [[NLS|niveau de lanceur de sorts]], même après que les créatures aient quitté la zone d'effet du symbole. Les créatures affectées sont obligées de se précipiter vers la créature la plus proche pour la caresser et l'embrasser, et ne peuvent entreprendre aucune autre action. Chaque créature n'a droit qu'à un seul jet de sauvegarde de [[Volonté]] lorsque le *symbole de débauche* est déclenché pour annuler l'effet. Si aucune autre créature n'est visible, une créature affectée peut agir normalement.
 
 
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

@@ -136,7 +136,7 @@ La table Attaques et vitesses des dragons sidéraux indique les attaques dont di
 
 **Présence étrangère (Ext).** Un dragon sidéral adolescent ou plus âgé possède une aura qui fonctionne comme la [[Présence terrifiante (capacité)|présence terrifiante]], avec une portée égale à 9 mètres × catégorie d’âge du dragon. Les effets spécifiques de cette présence sont notés dans la description de chaque dragon.
 
-**Réduction de dégâts.** Les dragons développent une capacité de [[RD|réduction de dégâts]] en vieillissant, comme indiqué dans les descriptions des espèces. Leurs attaques naturelles fonctionnent comme des armes magiques lorsqu’il
+**Réduction de dégâts.** Les dragons développent une capacité de [[RD|réduction de dégâts]] en vieillissant, comme indiqué dans les descriptions des espèces. Leurs attaques naturelles fonctionnent comme des armes magiques lorsqu’il 
 s’agit de déterminer si une [[RD]] s’applique.
 
 **Résistance à la magie (Ext).** En vieillissant, les dragons deviennent plus résistants aux sorts et aux pouvoirs magiques, comme indiqué dans leurs descriptions. La [[RM]] d’un dragon est égale à 11 + son [[FP]].

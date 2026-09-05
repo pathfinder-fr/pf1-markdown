@@ -50,9 +50,9 @@ Categories:
 
 </div>*Les longs crocs, le corps svelte et musclé et le chuintement agressif de cette créature de la taille d’un loup mettent en exergue sa nature prédatrice.*
 
-À l’identique des [[Belette|belettes]] ordinaires, le corps des spécimens géants est svelte et tout en longueur. Leurs pattes sont courtes et la couleur de leur fourrure varie du brun roux au blanc immaculé.
+À l’identique des [[Belette|belettes]] ordinaires, le corps des spécimens géants est svelte et tout en longueur. Leurs pattes sont courtes et la couleur de leur fourrure varie du brun roux au blanc immaculé. 
 
-Les belettes géantes sont des prédateurs actifs, tenaces et réputés pour leur ruse et leur rapidité. À la fois extrêmement agressives et territoriales, elles attaquent fréquemment des créatures bien plus grandes qu’elles.
+Les belettes géantes sont des prédateurs actifs, tenaces et réputés pour leur ruse et leur rapidité. À la fois extrêmement agressives et territoriales, elles attaquent fréquemment des créatures bien plus grandes qu’elles. 
 Les belettes géantes sont souvent dressées par divers humanoïdes de taille P pour en faire des animaux de garde ou des montures. Les belettes géantes adultes peuvent mesurer jusqu’à 1,50 mètres de long pour une hauteur de 75 centimètres au garrot et un poids approximatif de 75 kilogrammes.
 
 

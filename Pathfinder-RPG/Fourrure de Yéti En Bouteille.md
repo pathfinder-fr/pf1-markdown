@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Fourrure de yéti en bouteille|{s:AE}}
 **Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 800 po  ; **Poids** —
 (((Description)))
-Cette petite flasque opaque relâche une épaisse fourrure blanche lors de son ouverture. Cette fourrure remonte le long du bras du possesseur de la flasque et couvre rapidement l’intégralité de son corps. Une fois couvert de cette fourrure, le personnage gagne une résistance au froid de 5, un bonus d’armure naturelle de +2 à la [[CA]] et un bonus de compétence de +4 aux tests de [[Discrétion]] dans les zones enneigées et glacées. Cette fourrure se détache de son corps après 24 heures, il peut aussi la retirer plus tôt en la frottant avec de l’alcool. La flasque est vide après une unique utilisation.
+Cette petite flasque opaque relâche une épaisse fourrure blanche lors de son ouverture. Cette fourrure remonte le long du bras du possesseur de la flasque et couvre rapidement l’intégralité de son corps. Une fois couvert de cette fourrure, le personnage gagne une résistance au froid de 5, un bonus d’armure naturelle de +2 à la [[CA]] et un bonus de compétence de +4 aux tests de [[Discrétion]] dans les zones enneigées et glacées. Cette fourrure se détache de son corps après 24 heures, il peut aussi la retirer plus tôt en la frottant avec de l’alcool. La flasque est vide après une unique utilisation. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Peau décorce|peau d’écorce]]*, *[[résistance aux énergies destructives]]* ; **Coût** 400 po
 </div>

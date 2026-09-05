@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [[malédictions doracle|malédictions d'oracle]].***
-***Voir aussi les [[Mystères|mystères d'oracle]].***
-***Voir aussi la [[liste des sorts de prêtres|liste des sorts de prêtre]].***
+<div class="fright">***Voir aussi les [[malédictions doracle|malédictions d'oracle]].***  
+***Voir aussi les [[Mystères|mystères d'oracle]].***  
+***Voir aussi la [[liste des sorts de prêtres|liste des sorts de prêtre]].***  
 {s:PM0|oracle}**Voir les archétypes de l'oracle**&emsp;
 <li ID="oracle" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeoracle}</li>
 </div>{s:APG}*Les dieux œuvrent par l’intermédiaire de bien des agents mais aucun n’est aussi mystérieux que l’oracle. Ces réceptacles divins reçoivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles à qui elle confie des pouvoirs qu’ils ne comprennent pas entièrement. Contrairement aux prêtres qui puisent leur magie dans leur dévotion  à leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinités protectrices qui partagent leurs idéaux. Au lieu de vénérer un  seul dieu, les oracles tendent à adorer tous ceux qui partagent leurs croyances. Certains considèrent leurs pouvoirs comme une bénédiction, d’autres comme une malédiction car ils changent la vie de l’élu de manière imprévisible.*
@@ -393,14 +393,14 @@ Categories:
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Voici les compétences de classe de l’oracle : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag).
+Voici les compétences de classe de l’oracle : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag). 
 
-*Les oracles reçoivent des compétences de classe supplémentaires en fonction de leur mystère.*
+*Les oracles reçoivent des compétences de classe supplémentaires en fonction de leur mystère.* 
 
 **Rangs de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
-*Voici les caractéristiques de la classe d’oracle.*
+*Voici les caractéristiques de la classe d’oracle.* 
 
 #### Maniement des armes et port des armures
 L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]] et au maniement des boucliers (mais pas des pavois). Certaines révélations permettent de manier d’autres armes et de porter d’autres armures.
@@ -691,11 +691,11 @@ L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#32|→]] Oracle : Quel type de RD un oracle obtient-il grâce au sort *force du colosse* ?***
 
 Si l'<u>[[Oracle#SORTS|oracle]]</u> choisi l'option « tous les sorts de soins » comme sorts connus, on considère cela comme « canalise de l'énergie positive » dans le cadre de *[[force du colosse]]*. S'il a choisi l'option « tous les sorts de blessure », on considère cela comme « canalise de l'énergie négative » dans le cadre de *force du colosse*.
----
+<hr />
 ***[[FAQ- Manuel des joueurs - Règles avancées#40|→]] Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de prêtre et les effets qui dépendent de la Sagesse, comme *arme spirituelle* ?***
 
-Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[[Oracle#SORTS|oracle]]</u> doit effectivement utiliser son modificateur de Sagesse.
-Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.}L’oracle lance des sorts divins tirés de la [[liste des sorts de prêtres|liste de sorts de prêtre]]. Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [[Charisme]] au moins égale à 10 + niveau du sort.
+Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[[Oracle#SORTS|oracle]]</u> doit effectivement utiliser son modificateur de Sagesse.  
+Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.}L’oracle lance des sorts divins tirés de la [[liste des sorts de prêtres|liste de sorts de prêtre]]. Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [[Charisme]] au moins égale à 10 + niveau du sort. 
 **Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.**
 Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [[Charisme]].
 
@@ -707,7 +707,7 @@ Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c
 
 {s:Reference|MYSTERE}{s:Reference|SORTDEMYSTERE}
 #### Mystère
-Chaque oracle tire ses pouvoirs et ses sorts d’un mystère divin qui lui donne également des pouvoirs de classe et des aptitudes spéciales supplémentaires. Ce mystère représente sa dévotion envers un idéal, des prières dédiées à des divinités qui soutiennent ce concept ou une vocation naturelle pour le rôle de champion d’une cause. Par exemple, un oracle du mystère des vagues peut être né en mer et ressentir un besoin naturel de vénérer les dieux des océans, des rivières et des lacs, qu’ils soient maléfiques ou bienveillants. Quelle que soit son origine, le mystère se manifeste de plusieurs manières au fur et à mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite.
+Chaque oracle tire ses pouvoirs et ses sorts d’un mystère divin qui lui donne également des pouvoirs de classe et des aptitudes spéciales supplémentaires. Ce mystère représente sa dévotion envers un idéal, des prières dédiées à des divinités qui soutiennent ce concept ou une vocation naturelle pour le rôle de champion d’une cause. Par exemple, un oracle du mystère des vagues peut être né en mer et ressentir un besoin naturel de vénérer les dieux des océans, des rivières et des lacs, qu’ils soient maléfiques ou bienveillants. Quelle que soit son origine, le mystère se manifeste de plusieurs manières au fur et à mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite. 
 
 Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son mystère. Ils s’ajoutent au nombre de sorts indiqués dans la Table "[[Oracle#SORTSCONNUSDELORACLE|Sorts connus par l'oracle]]". Il est impossible de les échanger contre d’autres sorts en atteignant un niveau supérieur.
 

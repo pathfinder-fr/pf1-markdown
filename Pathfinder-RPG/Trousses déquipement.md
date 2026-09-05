@@ -353,29 +353,29 @@ LastModified: 2023-08-29 17:12
 ### Description des trousses d'équipement
 {s:MCA}{s:Reference|Hôpital mobile}
 #### Hôpital mobile
-**Prix** 1.000 po ; **Poids** 250 kg
----
+**Prix** 1.000 po ; **Poids** 250 kg  
+<hr />
 Cet ensemble pour [[Char (objet)|char]] comporte tout l'équipement nécessaire pour soigner jusqu'à 10 malades ou blessés à la fois. Il inclut deux [[Tente (objet)|grandes tentes]], dix [[Lit de camp (objet)|lits de camp]] avec [[Sac de couchage (objet)|sac de couchage]], une table robuste, une [[Trousse de chirurgien (objet)|trousse de chirurgien]] et cinq [[Trousse de premiers secours (objet)|trousses de premiers secours]]. Cet hôpital accorde à quiconque l'utilise un bonus de +2 aux tests de [[Premiers secours]] pour effectuer les premiers soins, il peut servir à traiter les blessures graves avec une seule utilisation d'une trousse du chirurgien au lieu de deux et il double le rythme auquel les patients récupèrent en soins à long terme.
 
 
 {s:MCA}{s:Reference|Jardin de voyage}
 #### Jardin de voyage
-**Prix** 200 po ; **Poids** 250 kg
----
+**Prix** 200 po ; **Poids** 250 kg  
+<hr />
 Cet ensemble pour [[Char (objet)|char lourd]] inclut des boîtes et des pots spéciaux pour faire pousser une grande variété de plantes, en plus de l'espace qu'il faut pour accueillir une paire d'animaux, comme des chèvres, et leur nourriture. Le jardin de voyage apporte nourriture et plantes médicinales. Il fonctionne de la même façon qu'une [[Trousse de premiers secours (objet)|trousse de premiers secours]], autorisant jusqu'à cinq utilisations par jour, et n'est jamais épuisé. En outre, ceux qui ingèrent tous les jours une variété de plantes et de légumes frais issus de ce jardin bénéficient d'un bonus de +1 aux [[jds|jets de sauvegarde]] contre la maladie.
 
 
 {s:AE}{s:Reference|Nécessaire déquitation}
 #### Nécessaire d'équitation
-**Prix** 16 po (standard), 36 po (monture exotique) ; **Poids** 27 kg (standard), 29,5 kg (monture exotique)
----
+**Prix** 16 po (standard), 36 po (monture exotique) ; **Poids** 27 kg (standard), 29,5 kg (monture exotique)  
+<hr />
 Ce nécessaire comprend un [[Mors et brides (objet)|mors et des brides]], une [[Selle (objet)|selle]], un tapis de selle, des [[Fontes (objet)|fontes]] et 2 jours de rations de [[Nourriture pour animaux (objet)|nourriture pour une monture]]. Le poids peut être réduit de 5 kg si on enlève la nourriture.
 
 
 {s:AE}{s:Reference|Nécessaire dexploration souterraine}
 #### Nécessaire d'exploration souterraine
-**Prix** 15 po (standard), 130 po (de luxe) ; **Poids** 12,5 kg (standard), 12,5 kg (de luxe)
----
+**Prix** 15 po (standard), 130 po (de luxe) ; **Poids** 12,5 kg (standard), 12,5 kg (de luxe)  
+<hr />
 Ce balluchon de fournitures essentielles à l'exploration des ruines et des villes abandonnées comprend deux [[Bougie (objet)|bougies]], de la [[Craie (objet)|craie]], un [[Marteau (objet)|marteau]] et quatre [[Piton (objet)|pitons]], 15 mètres de [[Corde (objet)|corde de chanvre]], une [[Lanterne à capote (objet)|lanterne à capote]] avec 5 flasques d'[[Huile (objet)|huile]], deux [[Sac (objet)|sacs]], deux [[Torche (objet)|torches]] et quatre [[Allume-feu (objet)|allume-feu]].  
   
 *Nécessaire d'exploration souterraine de luxe.* Le nécessaire d'exploration souterraine de luxe comprend deux [[Bougie (objet)|bougies]], une [[Craie (objet)|craie]], un [[Marteau (objet)|marteau]] et quatre [[Piton (objet)|pitons]], 15 mètres de [[Corde (objet)|corde de soie]], deux [[Sac (objet)|sacs]], trois [[Bâton éclairant (objet)|bâtons éclairants]], quatre [[Allume-feu (objet)|allume-feu]] et une [[Torche éternelle (objet)|torche éternelle]].
@@ -383,337 +383,337 @@ Ce balluchon de fournitures essentielles à l'exploration des ruines et des vill
 
 {s:AE}{s:Reference|Nécessaire de camping}
 #### Nécessaire de camping
-**Prix** 12 po ; **Poids** 40 kg
----
+**Prix** 12 po ; **Poids** 40 kg  
+<hr />
 Ce nécessaire comprend quatre ballots d'équipement, divisés de manière à répartir la charge entre quatre personnes. Il comprend quatre [[Sac de couchage (objet)|sacs de couchage]], quatre [[Couverture (objet)|couvertures]], du [[Bois de chauffage (objet)|bois de chauffage]] pour une journée, un [[Silex et amorce (objet)|silex et une amorce]], un [[Allume-feu (objet)|allume-feu]], quatre [[Kit repas (objet)|kit repas]], un [[Nécessaire de cuisine (objet)|nécessaire de cuisine]] et des [[Rations de survie (objet)|rations de survie]] pour 8 jours (il est prévu que les aventuriers complètent eux-mêmes leurs rations en chassant en cours de route). Les aventuriers s'attendant à rencontrer des conditions climatiques non-clémentes devraient également se munir d'une ou plusieurs [[Tente (objet)|tentes]].
 
 
 {s:AE}{s:Reference|Nécessaire de cuisine}
 #### Nécessaire de cuisine
-**Prix** 3 po ; **Poids** 8 kg
----
+**Prix** 3 po ; **Poids** 8 kg  
+<hr />
 Ce nécessaire comprend une [[Marmite (objet)|marmite en fer]], une [[Poêle à frire (objet)|poêle à frire]], une louche, une broche, une planche à découper en bois, un couteau aiguisé, un trépied en fer pour la marmite, un sachet de petit bois et une petite sélection de condiments locaux ou faciles à trouver. Le personnage peut fixer la broche au trépied pour faire rôtir du petit gibier. Toutes les pièces (à l'exception de la poêle) rentrent dans le chaudron pour faciliter le rangement et le transport.
 
 
 {s:AE}{s:Reference|Nécessaire de spéléologie}
 #### Nécessaire de spéléologie
-**Prix** 174 po ; **Poids** 16 kg
----
+**Prix** 174 po ; **Poids** 16 kg  
+<hr />
 Ce nécessaire contient de l'équipement pour les explorations souterraines : une [[Lanterne à capote (objet)|lanterne]] avec 4 flasques d'[[Huile (objet)|huile]], un [[Marteau (objet)|marteau]] et 8 [[Piton (objet)|pitons]], 30 mètres de [[Corde (objet)|corde en soie]], un [[Grappin (objet)|grappin]] et du [[Matériel descalade (objet)|matériel d'escalade]].
 
 
 {s:MCA}{s:Reference|Pompe à incendie}
 #### Pompe à incendie
-**Prix** 200 po ; **Poids** 250 kg
----
+**Prix** 200 po ; **Poids** 250 kg  
+<hr />
 Cet ensemble pour [[Char (objet)|char lourd]] comporte une cuve d'eau, une plateforme de pompe et une lance rotative. Si l'utilisateur réussit un test de [[Force]] [[DD]] 20, la pompe à incendie libère un jet d'eau d'une portée maximale de 9 mètres. Chaque personne qui aide au maniement de la pompe diminue le DD de 5. Il faut une [[action complexe]] pour utiliser la pompe ou aider à son utilisation. La pompe éteint une case de 1,5 mètre de côté par [[round]] si le feu n'a rien de magique. La citerne contient suffisamment d'eau pour pomper pendant 10 [[round|rounds]] et il faut 10 minutes pour la remplir à partir d'un cours d'eau, d'un étang, d'un lac ou d'une autre étendue d'eau.
 
 
 {s:MCA}{s:Reference|Prison portable}
 #### Prison portable
-**Prix** 200 po ; **Poids** 150 kg
----
+**Prix** 200 po ; **Poids** 150 kg  
+<hr />
 Cet ensemble pour [[Char (objet)|char]] comporte une série de barres métalliques avec une porte pour transporter les personnes ou créatures emprisonnées. Si, au départ, les prisons portables ont été développées par les troupes itinérantes pour retenir les animaux féroces, les gardes urbains les utilisent souvent pour rassembler les criminels et certains chasseurs de prime les louent pour transporter de grands groupes de prisonniers. La plupart de ces prisons sont équipées de [[Cadenas (objet)|cadenas]] : ajoutez le coût du cadenas voulu au coût de la prison portable. Une cage prévue pour des personnes inclut des bancs et une rampe pour les menottes. Une cage prévue pour des animaux inclut une auge pour l'eau et une petite ouverture pour le passage de la nourriture.
 
 
 {s:AE}{s:Reference|Trousse dalchimiste}
 #### Trousse d'alchimiste
-**Prix** 40 po ; **Poids** 12 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 40 po ; **Poids** 12 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend une [[Sacoche de lalchimiste (objet)|sacoche de l'alchimiste]], un [[Sac à dos (objet)|sac à dos]],un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]],une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]],des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Cette trousse ne contient pas de [[Recueil de formules (objet)|recueil de formules]] puisque l'alchimiste commence le jeu avec un livre de formules et n'a donc pas besoin d'en acheter un.
 
 
 {s:MCA}{s:Reference|Trousse darcaniste}
 #### Trousse d'arcaniste
-**Prix** 21 po ; **Poids** 17 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 21 po ; **Poids** 17 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse inclut un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Elle ne contient pas de [[Grimoire (objet)|grimoire]] car l'[[Arcaniste]] commence le jeu avec un grimoire et n'a pas besoin d'en acheter un.
 
 
 {s:MCA}{s:Reference|Trousse denquêteur}
 #### Trousse d'enquêteur
-**Prix** 40 po ; **Poids** 18,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 40 po ; **Poids** 18,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient une [[Sacoche de lalchimiste (objet)|sacoche de l'alchimiste]], un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Elle ne contient pas de [[Recueil de formules (objet)|recueil de formules]] car l'[[Enquêteur]] commence le jeu avec un recueil de formules et n'a pas besoin d'en acheter un.
 
 
 {s:AE}{s:Reference|Trousse densorceleur}
 #### Trousse d'ensorceleur
-**Prix** 8 po ; **Poids** 9,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 8 po ; **Poids** 9,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:RSE}{s:Reference|Trousse dExplorateur}
 #### Trousse d'Explorateur
-**Prix** 12 po ; **Poids** 11 kg
----
+**Prix** 12 po ; **Poids** 11 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], une [[Chope (objet)|chope en terre cuite]], une [[dague (arme)|dague]], deux [[Hameçon (objet)|hameçons]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Aiguille à coudre (objet)|aiguille à coudre]], un [[Sifflet (objet)|sifflet]], 15 mètres de [[Ficelle (objet)|ficelle]], 15 mètres de fil à coudre, une semaine de [[Rations de survie (objet)|rations de survie]], une [[Outre (objet)|outre]] et une [[Pierre à aiguiser (objet)|pierre à aiguiser]]. Les trousses destinées aux créatures de taille P pèsent 3,75 kilos. Si le sac de couchage et les rations restent au camp ou sur une monture, la trousse pèse 6 kilos de moins pour les créatures de taille M et 1,5 kilos de moins pour les créatures de taille P.
 
 
 {s:AO}{s:Reference|Trousse dhypnotiseur}
 #### Trousse d'hypnotiseur
-**Prix** 35 po ; **Poids** 13,25 kg
----
+**Prix** 35 po ; **Poids** 13,25 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Costume dartiste (objet)|costume d'artiste]], un [[Silex et amorce (objet)|silex et une amorce]], un [[Médaillon dhypnotiseur (objet)|médaillon d'hypnotiseur]], une fiole contenant trente millilitres d'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], du [[Papier à lettres (objet)|papier à lettres]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:RSE}{s:Reference|Trousse dinfiltrateur}
 #### Trousse d'infiltrateur
-**Prix** 140 po ; **Poids** 7,5 kg
----
+**Prix** 140 po ; **Poids** 7,5 kg  
+<hr />
 Cette trousse est bien utile aux Explorateurs qui doivent recourir à la ruse et à la duperie pour obtenir des informations. Elle contient des [[Chausse-trappes (objet)|chausse-trappes]], de la [[Craie (objet)|craie]], une [[Trousse de déguisement (objet)|trousse de déguisement]], une [[Corne acoustique (objet)|corne acoustique]], des [[Chaussures de fausses empreintes (objet)|chaussures de fausses empreintes]], un [[Passe-partout (objet)|passe-partout]] et un [[Fourreau de poignet (objet)|fourreau de poignet]]. Les trousses destinées aux créatures de taille P pèsent 4,5 kilos.
 
 
 {s:AE}{s:Reference|Trousse dinquisiteur}
 #### Trousse d'inquisiteur
-**Prix** 30 po ; **Poids** 17 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 30 po ; **Poids** 17 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], des [[Bougie (objet)|bougies]] (10), un [[Texte sacré (objet)|texte sacré bon marché]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], des [[Menottes (objet)|menottes]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:AO}{s:Reference|Trousse doccultiste}
 #### Trousse d'occultiste
-**Prix** 45 po ; **Poids** 16,25 kg
----
+**Prix** 45 po ; **Poids** 16,25 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], dix [[Craie (objet)|craies]], un [[Silex et amorce (objet)|silex et une amorce]], une fiole contenant trente millilitres d'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Carnet (objet)|carnet]], deux [[Instruments doccultiste (objet)|instruments d'occultiste]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse doracle}
 #### Trousse d'oracle
-**Prix** 9 po ; **Poids** 14,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 14,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], des [[Bougie (objet)|bougies]] (10), un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de barbare}
 #### Trousse de barbare
-**Prix** 9 po ; **Poids** 13 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 13 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de barde}
 #### Trousse de barde
-**Prix** 41 po ; **Poids** 16,75 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 41 po ; **Poids** 16,75 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Instrument de musique (objet)|instrument de musique]] ordinaire, un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Carnet (objet)|carnet]], un [[Kit repas (objet)|kit repas]], un [[Miroir (objet)|miroir]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de bretteur}
 #### Trousse de bretteur
-**Prix** 9 po ; **Poids** 21 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 21 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de cavalier}
 #### Trousse de cavalier
-**Prix** 23 po ; **Poids** 56 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 23 po ; **Poids** 56 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend des rations de [[Nourriture pour animaux (objet)|nourriture pour animaux]] (5 jours), un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Mors et brides (objet)|mors des brides]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Selle (objet)|selle d'équitation]], une [[Corde (objet)|corde]], des [[Fontes (objet)|fontes]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de chaman}
 #### Trousse de chaman
-**Prix** 15 po ; **Poids** 22 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 15 po ; **Poids** 22 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], des [[Bougie (objet)|bougies]] (10), un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:MCA}{s:Reference|Trousse de chasseur}
 #### Trousse de chasseur
-**Prix** 15 po ; **Poids** 21,75 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 15 po ; **Poids** 21,75 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:AE}{s:Reference|Trousse de chirurgien}
 #### Trousse de chirurgien
-**Prix** 400 po ; **Poids** 2 kg
----
+**Prix** 400 po ; **Poids** 2 kg  
+<hr />
 Ce robuste étui de cuir s'attache à la taille ou à la cuisse, ou se porte sur l'épaule. Il comprend une sacoche en cuir, une [[Trousse de premiers secours (objet)|trousse de premiers secours]], une bouteille de cognac, une *[[Potions magiques|potion]] de [[soins légers]]*, une fiole de [[Sels odorants (objet)|sels odorants]], 2 doses de [[Bonté de lalchimiste (objet)|bonté de l'alchimiste]], d'[[Anti-maladie (objet)|anti-maladie]], d'[[Antitoxine (objet)|antitoxine]], de [[Coagulant (objet)|coagulant]] et de [[Sirop apaisant (objet)|sirop apaisant]].
 
 
 {s:AE}{s:Reference|Trousse de chroniqueur}
 #### Trousse de chroniqueur
-**Prix** 40 po ; **Poids** 2,25 kg
----
+**Prix** 40 po ; **Poids** 2,25 kg  
+<hr />
 Ce balluchon comprend un étui pour carte, deux fioles d'[[Encre (objet)|encre]], deux [[Plume à encre (objet)|plumes à encre]], 10 feuilles de [[Papier (objet)|papier]], deux [[Carnet (objet)|carnets]] vierges, 500 grammes de poudre fine pour sécher l'encre et une [[Corde métrée (objet)|corde métrée]] de 6 mètre de long. Cet équipement suffit généralement à noter les chroniques d'une seule expédition durant un maximum de deux mois.
 
 
 {s:AO}{s:Reference|Trousse de cinétiste}
 #### Trousse de cinétiste
-**Prix** 8 po ; **Poids** 11 kg
----
+**Prix** 8 po ; **Poids** 11 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de conjurateur}
 #### Trousse de conjurateur
-**Prix** 8 po ; **Poids** 9,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 8 po ; **Poids** 9,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de courtisane}
 #### Trousse de courtisane
-**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient des objets pour aider la courtisane à apaiser le corps et l'esprit. Pour le corps, la trousse contient un rasoir, des huiles et des baumes parfumés, des parfums, une chaufferette et diverses tenues séduisantes. Des ouvrages de poésie, de littérature et de théâtre (traitant souvent de sujets salaces et pleins de sous-entendus) permettent de se distraire l'esprit.
 
 
 {s:AE}{s:Reference|Trousse de druide}
 #### Trousse de druide
-**Prix** 14 po ; **Poids** 22 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 14 po ; **Poids** 22 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend des rations de [[Nourriture pour animaux (objet)|nourriture pour animaux]] (5 jours), un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], un [[Silex et amorce (objet)|silex et une amorce]], du [[Houx et gui (objet)|houx et du gui]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de guerrier}
 #### Trousse de guerrier
-**Prix** 9 po ; **Poids** 14,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 14,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:UI}{s:Reference|Trousse de justicier}
 #### Trousse de justicier
-**Prix** 8 po ; **Poids** 11 kg
----
+**Prix** 8 po ; **Poids** 11 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de lutteur}
 #### Trousse de lutteur
-**Prix** 9 po ; **Poids** 18,25 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 18,25 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse inclut un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Corde (objet)|corde]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de magicien}
 #### Trousse de magicien
-**Prix** 21 po ; **Poids** 10,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 21 po ; **Poids** 10,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Elle ne contient pas de [[Grimoire (objet)|grimoire]] puisque les [[Magicien|magiciens]] commencent le jeu avec un grimoire et n'ont donc pas besoin d'en acheter un.
 
 
 {s:AE}{s:Reference|Trousse de magus}
 #### Trousse de magus
-**Prix** 22 po ; **Poids** 15,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 22 po ; **Poids** 15,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Elle ne contient pas de [[Grimoire (objet)|grimoire]] puisque le [[Magus]] commence le jeu avec un grimoire.
 
 
 {s:AO}{s:Reference|Trousse de médium}
 #### Trousse de médium
-**Prix** 40 po ; **Poids** 7 kg
----
+**Prix** 40 po ; **Poids** 7 kg  
+<hr />
 Cette trousse fournit les outils nécessaires pour contacter des entités surnaturelles. Elle comprend une [[Planchette décriture automatique (objet)|planchette d'écriture automatique]], des [[Bougie (objet)|bougies]] (10), des [[Bougeoir (objet)|bougeoirs]] (10), du [[Houx et gui (objet)|houx et du gui]], de l'[[Encens (objet)|encens]] (10 bâtonnets), une [[Tenue dérudit (objet)|tenue d'érudit]], une [[Sacoche à composantes (objet)|sacoche à composantes]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:AO}{s:Reference|Trousse de médium frauduleux}
 #### Trousse de médium frauduleux
-**Prix** 50 po ; **Poids** 5 kg
----
+**Prix** 50 po ; **Poids** 5 kg  
+<hr />
 Cette grande valise contient de nombreux objets utiles à ceux qui veulent se faire passer pour des experts en matière de canalisation d’esprits. Elle contient des [[Bougie (objet)|bougies]], des [[Miroir (objet)|miroirs]] et des perches télescopiques de trois mètres de long, ainsi qu’une sélection d’objets spéciaux : des [[Planchette décriture automatique (objet)|planchettes d’écriture automatique]] truquées, des [[Trompette pour esprits (objet)|trompettes pour esprits]] ordinaires conçues pour entendre la voix des esprits, plusieurs bandeaux truqués pour bander les yeux du médium pendant les démonstrations, ainsi que des peintures luminescentes et des rubans de gaze fine pour simuler l’apparition de spectres. L’utilisation du matériel contenu dans cette trousse confère un bonus de circonstances de +2 aux tests de [[Bluff]], d’[[Escamotage]] et d’[[Évasion]] effectués pour faire croire à l’authenticité des séances de spiritisme, d’écriture automatique et autres pratiques occultes.
 
 
 {s:AE}{s:Reference|Trousse de moine}
 #### Trousse de moine
-**Prix** 8 po ; **Poids** 11 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 8 po ; **Poids** 11 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de paladin}
 #### Trousse de paladin
-**Prix** 11 po ; **Poids** 15 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 11 po ; **Poids** 15 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Texte sacré (objet)|texte sacré bon marché]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:AE}{s:Reference|Trousse de pistolier}
 #### Trousse de pistolier
-**Prix** 26 po ; **Poids** 15,5 kg
----
+**Prix** 26 po ; **Poids** 15,5 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Trousse darmurier (objet)|trousse d'armurier]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corne à poudre (objet)|corne à poudre]], une [[Corde (objet)|corde]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de prêtre}
 #### Trousse de prêtre
-**Prix** 16 po ; **Poids** 16 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 16 po ; **Poids** 16 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], des [[Bougie (objet)|bougies]] (10), un [[Texte sacré (objet)|texte sacré bon marché]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]](10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:MCA}{s:Reference|Trousse de prêtre combattant}
 #### Trousse de prêtre combattant
-**Prix** 16 po ; **Poids** 15,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 16 po ; **Poids** 15,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Texte sacré (objet)|texte sacré bon marché]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].
 
 
 {s:AO}{s:Reference|Trousse de psychiste}
 #### Trousse de psychiste
-**Prix** 35 po ; **Poids** 13,5 kg
----
+**Prix** 35 po ; **Poids** 13,5 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], un [[Cristal prismatique (objet)|cristal prismatique]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de rôdeur}
 #### Trousse de rôdeur
-**Prix** 9 po ; **Poids** 14 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 14 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]],des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de roublard}
 #### Trousse de roublard
-**Prix** 50 po ; **Poids** 18,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 50 po ; **Poids** 18,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]],des [[Chausse-trappes (objet)|chausse-trappes]], des [[Craie (objet)|craies]] (10), un [[Silex et amorce (objet)|silex et une amorce]], un [[Grappin (objet)|grappin]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Miroir (objet)|miroir]], des [[Piton (objet)|pitons]] (10), une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Outils de cambrioleur (objet)|outils de cambrioleur]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de sanguin}
 #### Trousse de sanguin
-**Prix** 9 po ; **Poids** 13,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 9 po ; **Poids** 13,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:MCA}{s:Reference|Trousse de scalde}
 #### Trousse de scalde
-**Prix** 37 po ; **Poids** 23,75 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 37 po ; **Poids** 23,75 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Instrument de musique (objet)|instrument de musique courant]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Miroir (objet)|miroir]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de scribe}
 #### Trousse de scribe
-**Prix** 2 po ; **Poids** 0,5 kg
----
+**Prix** 2 po ; **Poids** 0,5 kg  
+<hr />
 Cette sacoche de cuir souple comprend une fiole pour l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], des pointes de plumes de rechange, un petit flacon de pigments pour fabriquer de l'encre, un tout petit couteau pour tailler les pointes de plumes, un buvard et une petite règle.
 
 
 {s:AE}{s:Reference|Trousse de sorcière}
 #### Trousse de sorcière
-**Prix** 21 po ; **Poids** 10,5 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 21 po ; **Poids** 10,5 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], des [[Bougie (objet)|bougies]] (10), des [[Craie (objet)|craies]] (10), un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AO}{s:Reference|Trousse de spirite}
 #### Trousse de spirite
-**Prix** 50 po ; **Poids** 17 kg
----
+**Prix** 50 po ; **Poids** 17 kg  
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Petit encensoir (objet)|petit encensoir]], une flasque de [[Résidu ectoplasmique (objet)|résidu ectoplasmique]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encens (objet)|encens]] (10 bâtonnets), une [[Marmite (objet)|marmite en fer]], du [[Papier magnétisé (objet)|papier magnétisé]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de survie}
 #### Trousse de survie
-**Prix** 5 po (standard), 50 po (de maître) ; **Poids** 2 kg (standard), 2,5 kg (de maître)<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 5 po (standard), 50 po (de maître) ; **Poids** 2 kg (standard), 2,5 kg (de maître)<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 La trousse de survie contient les outils nécessaires pour la vie de tous les jours dans une nature tempérée. Elle comprend généralement un [[Silex et amorce (objet)|silex et une amorce]], un [[Kit repas (objet)|kit repas]], deux [[Outre (objet)|outres]] (contenant assez d'eau pour 1 personne pour un jour), des cartes rudimentaires des principaux points de repère et un petit couteau suisse.  
   
 *Trousse de survie de maître*. La trousse de survie de maître offre un matériel de meilleure qualité et un guide permettant d'identifier la faune et la flore. Elle accorde un bonus de circonstances de +2 aux tests de [[Survie]] pour s'en sortir dans la nature, dans les conditions climatiques difficiles, pour ne pas se perdre, pour éviter les dangers naturels tels que les sables mouvants et pour prévoir le temps.
@@ -721,34 +721,34 @@ La trousse de survie contient les outils nécessaires pour la vie de tous les jo
 
 {s:MCA}{s:Reference|Trousse de tueur}
 #### Trousse de tueur
-**Prix** 22 po ; **Poids** 21,75 kg<sup>[[Trousses déquipement#2|2]]</sup>
----
+**Prix** 22 po ; **Poids** 21,75 kg<sup>[[Trousses déquipement#2|2]]</sup>  
+<hr />
 Cette trousse contient un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], des [[Menottes (objet)|menottes]], un [[Kit repas (objet)|kit repas]], une [[Corde (objet)|corde]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].
 
 
 {s:AE}{s:Reference|Trousse de tueur de dragons}
 #### Trousse de tueur de dragons
-**Prix** 485 po ; **Poids** 32 kg
----
+**Prix** 485 po ; **Poids** 32 kg  
+<hr />
 Davantage conçue pour les mercenaires que pour les aventuriers chevronnés, cette trousse offre un équipement supplémentaire aux chasseurs de [[Dragon|dragons]]. Elle comprend une *[[Potions magiques|potion]] de [[soins modérés]]*, de l’*[[Potions magiques|huile]] de [[bénédiction darme|bénédiction d'arme]]* (1 application), une [[Pique (arme)|pique]], un [[Sac à dos (objet)|sac à dos]], trois grands [[Sac (objet)|sacs]], un [[Bâton éclairant (objet)|bâton éclairant]], un [[Pavois (armure)|pavois]] et 5 fioles de [[Feu grégeois (objet)|feu grégeois]]. Pour chasser les dragons qui [[Immunité (capacité)|immunisés]] contre le feu, on peut remplacer le feu grégeois par de l'[[Acide (objet)|acide]] au moment de l'achat, pour une économie de 50 po.
 
 
 {s:AE}{s:Reference|Trousse de tueur de morts-vivants}
 #### Trousse de tueur de morts-vivants
-**Prix** 402 po ; **Poids** 3,5 kg
----
+**Prix** 402 po ; **Poids** 3,5 kg  
+<hr />
 Cette trousse comprend un [[Symbole sacré (objet)|symbole sacré en bois]], un collier de gousses d'ail, un [[Marteau (objet)|marteau]], un [[Pieu de bois (arme)|pieu de bois]], 2 flasques d'[[Eau bénite (objet)|eau bénite]], un [[Bâton éclairant (objet)|bâton éclairant]], une *[[Potions magiques|potion]] de [[restauration partielle]]* et une *[[Potions magiques|potion]] de [[protection contre le Mal]]*.
 
 
 {s:AE}{s:Reference|Trousse de tueur de trolls}
 #### Trousse de tueur de trolls
-**Prix** 30 po ; **Poids** 8,5 kg
----
+**Prix** 30 po ; **Poids** 8,5 kg  
+<hr />
 Cette trousse comprend 1 fiole de [[Feu grégeois (objet)|feu grégeois]], 1 flasque d'[[Acide (objet)|acide]], des [[Torche (objet)|torches]] (10), un [[Allume-feu (objet)|allume-feu]] et 5 flasques d'[[Huile (objet)|huile]].
 
 
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}{s:Reference|Trousse de tueur de vampires}
 #### Trousse de tueur de vampires
-**Prix** 500 po ; **Poids** 4 kg
----
+**Prix** 500 po ; **Poids** 4 kg  
+<hr />
 Cette petite mallette en bois verrouillée contient de nombreux outils et appareils utilisés par les chasseurs et tueurs de [[Vampire|vampires]]. Elle contient 10 gousses d'ail, 4 [[Pieu de bois (arme)|pieux de bois]] [[arme de maître|de maître]], un [[Marteau (objet)|marteau]], un [[Miroir (objet)|miroir]] en argent, 4 fioles d'[[Eau bénite (objet)|eau bénite]], une application de *[[lustrargent]]* et un [[Symbole sacré (objet)|symbole sacré]] [[Artisanat#OBJETMAITRE|de maître]]. Elle contient également de nombreux agents réactifs et des poudres pour traiter les blessures et créer des enchantements de protection, des baumes et autres concoctions. En plus de son utilité générale, la trousse de tueur de vampires déployée accorde un bonus de +2 à tous les tests de compétences basées sur le [[Charisme]] pour enquêter sur les vampires ou les traquer.

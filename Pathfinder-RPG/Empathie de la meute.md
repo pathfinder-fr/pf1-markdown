@@ -15,12 +15,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** le lanceur de sort et une créature vivante consentante/3 niveaux, chacune se trouvant à 9 m ou moins l'une de l'autre
-**Durée** 1 heure/niveau (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** le lanceur de sort et une créature vivante consentante/3 niveaux, chacune se trouvant à 9 m ou moins l'une de l'autre  
+**Durée** 1 heure/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée une connexion instinctive entre les cibles. Chacune peut ressentir l'état émotionnel global des autres, ce qui leur permet de communiquer des sentiments basiques (comme alerter les autres d'un danger par un stress exacerbé). Une fois le sort lancé sur les sujets, la distance entre eux et le lanceur n'affecte plus le sort tant qu'ils restent sur le même plan d'existence. Si un sujet quitte ce plan ou s'il meurt, le sort cesse de fonctionner pour lui.

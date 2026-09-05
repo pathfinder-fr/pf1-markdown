@@ -13,7 +13,7 @@ Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
 <nav class="wiki-toc"></nav>
 
 ## Les Princes des ténèbres
-[Book of the Damned — Volume 1: Princes of Darkness](https://paizo.com/products/btpy8a6f) a été publié en Octobre 2009 par Paizo inc.
+[Book of the Damned — Volume 1: Princes of Darkness](https://paizo.com/products/btpy8a6f) a été publié en Octobre 2009 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom "Les Princes des ténèbres", il fait partie du Livre des damnés, détaillé en haut de page.
 ### Classes de prestige
 <div class="article_3col">
@@ -23,10 +23,10 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Princes
 
 ### Monstres
 <div class="article_3col">
-[[Diable apostat|Diable apostat (Deimavigga)]] (modifié),
-[[Diable belliciste|Diable belliciste (Lévaloch)]] (modifié),
-[[Diable de lhérésie|Diable de l'hérésie (Ayngavhaul)]] (modifié),
-[[Diable de lost majeur|Diable légionnaire majeur (Magaav)]] (modifié),
+[[Diable apostat|Diable apostat (Deimavigga)]] (modifié),  
+[[Diable belliciste|Diable belliciste (Lévaloch)]] (modifié),  
+[[Diable de lhérésie|Diable de l'hérésie (Ayngavhaul)]] (modifié),  
+[[Diable de lost majeur|Diable légionnaire majeur (Magaav)]] (modifié),  
 [[Diable de lost mineur|Diable légionnaire mineur (Gaav)]] (modifié).
 </div>
 
@@ -34,17 +34,17 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Princes
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[[Larme dIhys|Larme d'Ihys]] (modifié),
-[[Livre des damnés diabolique]] (modifié),
+[[Larme dIhys|Larme d'Ihys]] (modifié),  
+[[Livre des damnés diabolique]] (modifié),   
 [[Roue des mondes]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Autres
 <div class="article_3col">
-**Talismans diaboliques.**
-[[Talismans diaboliques#BILIEUX|Talisman bilieux]] (modifié),
-[[Talismans diaboliques#MELANCOLIQUE|Talisman mélancolique]] (modifié),
+**Talismans diaboliques.**  
+[[Talismans diaboliques#BILIEUX|Talisman bilieux]] (modifié),  
+[[Talismans diaboliques#MELANCOLIQUE|Talisman mélancolique]] (modifié),  
 [[Talismans diaboliques#SANGUIN|Talisman sanguin]] (modifié).
 </div>
 
@@ -57,16 +57,16 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Princes
 
 ### Sorts
 <div class="article_3col">
-[[Agonie|Tourment]] (modifié),
-[[Damnation]] (modifié),
-[[Rayon de feu infernal]] (modifié),
-[[Sacrifice]] (modifié),
+[[Agonie|Tourment]] (modifié),  
+[[Damnation]] (modifié),  
+[[Rayon de feu infernal]] (modifié),  
+[[Sacrifice]] (modifié),  
 [[Vision infernale|Vision des Enfers]] (modifié).
 </div>
 
 
 ## Seigneurs du chaos
-[Book of the Damned — Volume 2: Lords of Chaos](https://paizo.com/products/btpy8hij/discuss&page=5?Pathfinder-Campaign-Setting-Book-of-the-Damned-Volume-2-Lords-of-Chaos) a été publié en Décembre 2010 par Paizo inc.
+[Book of the Damned — Volume 2: Lords of Chaos](https://paizo.com/products/btpy8hij/discuss&page=5?Pathfinder-Campaign-Setting-Book-of-the-Damned-Volume-2-Lords-of-Chaos) a été publié en Décembre 2010 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom "Seigneurs du chaos", il fait partie du Livre des damnés, détaillé en haut de page.
 
 ### Classes de prestige
@@ -84,9 +84,9 @@ Traduit et publié en français par Black Book Editions sous le nom "Seigneurs d
 ### Objets magiques
 #### Autres
 <div class="article_3col">
-**Implants démoniaques.**
-[[Implants démoniaques#PATTEGRIFFUEDEDEMON|Patte griffue de démon]],
-[[Implants démoniaques#SANGDEDEMON|Sang de démon]],
+**Implants démoniaques.**  
+[[Implants démoniaques#PATTEGRIFFUEDEDEMON|Patte griffue de démon]],  
+[[Implants démoniaques#SANGDEDEMON|Sang de démon]],  
 [[Implants démoniaques#SENSDEDEMON|Sens de démon]].
 </div>
 
@@ -99,16 +99,16 @@ Traduit et publié en français par Black Book Editions sous le nom "Seigneurs d
 <div style="border-top:1px dashed #4b3124"/>
 #### Objets merveilleux
 <div class="article_3col">
-**Aucun (Sans emplacement).**
+**Aucun (Sans emplacement).**  
 [[Amulette des Abysses]] (modifié).
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[[Brimorak]] (modifié),
-[[Séraptis]] (modifié),
-[[Vavaki]] (modifié),
+[[Brimorak]] (modifié),  
+[[Séraptis]] (modifié),  
+[[Vavaki]] (modifié),  
 [[Vermlek]] (modifié).
 </div>
 
@@ -121,15 +121,15 @@ Traduit et publié en français par Black Book Editions sous le nom "Seigneurs d
 
 ### Sorts
 <div class="article_3col">
-[[Contact défigurant]] (modifié),
-[[Crevasse dévastatrice]] (modifié),
-[[Forme de vermine I]] (modifié),
+[[Contact défigurant]] (modifié),  
+[[Crevasse dévastatrice]] (modifié),  
+[[Forme de vermine I]] (modifié),  
 [[Forme de vermine II]] (modifié).
 </div>
 
 
 ## Les Cavaliers de l'apocalypse
-[Book of the Damned — Volume 3: Horsemen of the Apocalypse](https://paizo.com/products/btpy8odg/discuss?Pathfinder-Campaign-Setting-Book-of-the-Damned-Volume-3-Horsemen-of-the-Apocalypse) a été publié en Décembre 2011 par Paizo inc.
+[Book of the Damned — Volume 3: Horsemen of the Apocalypse](https://paizo.com/products/btpy8odg/discuss?Pathfinder-Campaign-Setting-Book-of-the-Damned-Volume-3-Horsemen-of-the-Apocalypse) a été publié en Décembre 2011 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom "Les Cavaliers de l'apocalypse", il fait partie du Livre des damnés, détaillé en haut de page.
 
 ### Afflictions
@@ -147,13 +147,13 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Cavalie
 
 ### Monstres
 <div class="article_3col">
-[[Érodaémon]] (modifié),
-[[Lacridaémon]] (modifié),
-[[Obcisidaémon]] (modifié),
-[[Phasmadaémon]] (modifié),
-[[Sanguidaémon]] (modifié),
-[[Suspiridaémon]] (modifié),
-[[Témerdaémon]] (modifié),
+[[Érodaémon]] (modifié),  
+[[Lacridaémon]] (modifié),  
+[[Obcisidaémon]] (modifié),  
+[[Phasmadaémon]] (modifié),  
+[[Sanguidaémon]] (modifié),  
+[[Suspiridaémon]] (modifié),  
+[[Témerdaémon]] (modifié),  
 [[Vénédaémon]] (modifié).
 </div>
 
@@ -173,30 +173,30 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Cavalie
 <div style="border-top:1px dashed #4b3124"/>
 #### Objets merveilleux
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Chandelle dAbaddon|Chandelle d'Abaddon]] (modifié),
-[[Pierre runique de lhydrodaémon|Pierre runique de l'hydrodaémon]] (modifié),
+**Aucun (Sans emplacement).**  
+[[Chandelle dAbaddon|Chandelle d'Abaddon]] (modifié),  
+[[Pierre runique de lhydrodaémon|Pierre runique de l'hydrodaémon]] (modifié),  
 [[Talisman de dévoration spirituelle]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Âme parasite]] (modifié),
-[[Aura de mise à mort]],
-[[Aura de mise à mort suprême]],
-[[Convocation de cacodaémon]],
-[[Convocation de cacodaémon suprême]],
-[[Convocation de ceustodaémon]],
-[[Convocation de derghodaémon]],
-[[Convocation de méladaémon]],
-[[Convocation de thanadaémon]],
-[[Convocation dérodaémon|Convocation d'érodaémon]],
-[[Création de gemme spirituelle]] (modifié),
-[[Dispense de Charon]] (modifié),
-[[Éveiller les dévorés]] (modifié),
-[[Fléau des cavaliers]],
-[[Fouet de lastradaémon|Fouet de l'astradaémon]] (modifié),
-[[Sceau daémonique]],
+[[Âme parasite]] (modifié),  
+[[Aura de mise à mort]],  
+[[Aura de mise à mort suprême]],  
+[[Convocation de cacodaémon]],  
+[[Convocation de cacodaémon suprême]],  
+[[Convocation de ceustodaémon]],  
+[[Convocation de derghodaémon]],  
+[[Convocation de méladaémon]],  
+[[Convocation de thanadaémon]],  
+[[Convocation dérodaémon|Convocation d'érodaémon]],  
+[[Création de gemme spirituelle]] (modifié),  
+[[Dispense de Charon]] (modifié),  
+[[Éveiller les dévorés]] (modifié),  
+[[Fléau des cavaliers]],  
+[[Fouet de lastradaémon|Fouet de l'astradaémon]] (modifié),  
+[[Sceau daémonique]],  
 [[Transfert dâme|Transfert d'âme]] (modifié).
 </div>

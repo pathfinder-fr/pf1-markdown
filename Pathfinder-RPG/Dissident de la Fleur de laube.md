@@ -122,11 +122,11 @@ Les dissidents de l'aube ont émergé pour s'occuper du schisme et de l'hérési
 **Dé de vie.** d8
 
 ### Conditions requises
-Pour pouvoir devenir Dissident de l'aube, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir Dissident de l'aube, le personnage doit satisfaire aux conditions suivantes. 
 
-**Divinité.** Doit prier la [[Golarion.Sarenrae|déesse-ange du soleil]].
+**Divinité.** Doit prier la [[Golarion.Sarenrae|déesse-ange du soleil]]. 
 
-**Dons.** [[Attaque en finesse]], [[Danse du derviche]]
+**Dons.** [[Attaque en finesse]], [[Danse du derviche]] 
 
 **Compétences.** 5 rangs en [[Bluff]], 5 rangs en [[Connaissances]] (religion), 5 rangs en [[Escamotage]].
 
@@ -135,7 +135,7 @@ Pour pouvoir devenir Dissident de l'aube, le personnage doit satisfaire aux cond
 ### Compétences de classe
 Voici les compétences de classe du dissident de l'aube : [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (religion) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escamotage]] (Dex), [[Perception]] (Sag), [[Psychologie]] (Sag) et [[Représentation]] (Cha).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
 Voici les caractéristiques de classe du dissident de l'aube.
@@ -178,9 +178,9 @@ Au niveau 3, un dissident de l'aube ajoute un bonus de +1 au [[DD]] des [[effet 
 
 {s:reference|LAMEBRULANTE}
 #### Lame brûlante (Sur)
-Au niveau 4, un dissident de l'aube peut dépenser une utilisation de sa [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] par une [[action rapide]] pour octroyer à un [[cimeterre (arme)|cimeterre]] qu'il touche la propriété spéciale *[[feu (propriété)|feu]]* pendant 1 [[round]] par tranche de d6 de points de dégâts que la canalisation d'énergie soignerait normalement. Si un suivant de la déesse-ange du soleil porte ce cimeterre et frappe un autre suivant de la déesse-ange, le porteur de l'arme peut par une [[action libre]] décider d'infliger des dégâts [[Blessures et mort#NONLETAL|non-létaux]], comme s'il maniait une arme avec la propriété spéciale *[[miséricordieuse (propriété)|miséricordieuse]]*. Un inquisiteur peut choisir à la place de dépenser une de ses capacités de [[inquisiteur#JUGEMENT|jugement]] pour imprégner le cimeterre avec la propriété spéciale *feu* pendant un nombre de rounds égal à son [[NLS]]. Il peut également utiliser cette capacité à la place de sa capacité [[inquisiteur#TUEUR|tueur]].
+Au niveau 4, un dissident de l'aube peut dépenser une utilisation de sa [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] par une [[action rapide]] pour octroyer à un [[cimeterre (arme)|cimeterre]] qu'il touche la propriété spéciale *[[feu (propriété)|feu]]* pendant 1 [[round]] par tranche de d6 de points de dégâts que la canalisation d'énergie soignerait normalement. Si un suivant de la déesse-ange du soleil porte ce cimeterre et frappe un autre suivant de la déesse-ange, le porteur de l'arme peut par une [[action libre]] décider d'infliger des dégâts [[Blessures et mort#NONLETAL|non-létaux]], comme s'il maniait une arme avec la propriété spéciale *[[miséricordieuse (propriété)|miséricordieuse]]*. Un inquisiteur peut choisir à la place de dépenser une de ses capacités de [[inquisiteur#JUGEMENT|jugement]] pour imprégner le cimeterre avec la propriété spéciale *feu* pendant un nombre de rounds égal à son [[NLS]]. Il peut également utiliser cette capacité à la place de sa capacité [[inquisiteur#TUEUR|tueur]]. 
 
-Au niveau 8, ce pouvoir donne au cimeterre la propriété spéciale *[[feu intense (propriété)|feu intense]]* à la place.
+Au niveau 8, ce pouvoir donne au cimeterre la propriété spéciale *[[feu intense (propriété)|feu intense]]* à la place. 
 
 {s:reference|REJETERLAFAUTE}
 #### Rejeter la faute (Sur)

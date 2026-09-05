@@ -11,10 +11,10 @@ Categories:
 {s:BDTitre|Bâton de dénigrement|}
 **Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 20 000 po ; **Poids** 2,5 kg
 (((Description)))
-Celui qui porte ce bâton bleu et blanc ne se sentira jamais petit ou faible puisqu’il permet de rétrécir tout et n’importe quoi. Ce bâton permet d’utiliser les sorts suivants.
-• *[[Rapetissement]]* (1 charge)
-• *[[Rapetissement danimal|Rapetissement d'animal]]* (2 charge)
-• *[[Réduction dobjet|Réduction d’objet]]* (2 charge)
+Celui qui porte ce bâton bleu et blanc ne se sentira jamais petit ou faible puisqu’il permet de rétrécir tout et n’importe quoi. Ce bâton permet d’utiliser les sorts suivants.  
+• *[[Rapetissement]]* (1 charge)  
+• *[[Rapetissement danimal|Rapetissement d'animal]]* (2 charge)  
+• *[[Réduction dobjet|Réduction d’objet]]* (2 charge)  
 • *[[Rapetissement de groupe]]* (4 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[rapetissement de groupe]]*, *[[rapetissement danimal|rapetissement d’animal]]*, *[[rapetissement]]*, *[[réduction dobjet|réduction d’objet]]* ; **Coût** 10 000 po

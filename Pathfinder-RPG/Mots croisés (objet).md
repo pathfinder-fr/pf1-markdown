@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pc–1 pa ; **Poids** —
+{s:AE}**Prix** 1 pc–1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Ces grilles de mots existent en différentes langues. Une grille typique de mots croisés est dessinée sur une planche en cuir ou en bois de 15 cases de côtés. Les plus grandes grilles autorisent des mots plus longs et sont souvent plus difficiles.

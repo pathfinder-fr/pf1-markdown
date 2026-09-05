@@ -7,9 +7,9 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:CM}**Prix** 25 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
+{s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:CM}**Prix** 25 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Les drows savent bien qu’ils sont vulnérables à la lumière et que leurs ennemis s’en servent comme d’une arme, ils ont donc inventé diverses manières de se protéger contre elle, qu’elle soit d’origine magique ou non. La graisse tue-lumière est une substance alchimique odorante et huileuse fabriquée à partir de champignons souterrains et de minéraux issus des profondeurs de la terre et réduits en poudre.  
   
 Quand le mélange est fait dans les bonnes proportions, la substance goudronneuse absorbe la lumière. Pour s’en servir, il faut se l’appliquer autour des yeux (par une [[action complexe]]). Elle annule alors l’effet préjudiciable [[ébloui]] lié à l’exposition à une [[Exploration#VISIONLUMIERE|lumière vive]] et offre un bonus alchimique de +1 aux [[jds|jets de sauvegarde]] contre les sorts et effets du registre de la [[registre|lumière]]. La graisse émet une odeur très puissante et toute créature dotée du pouvoir [[Odorat (capacité)|odorat]] peut repérer la position d’une créature usant de graisse tue-lumière dans un rayon de 3 mètres au lieu de 1,50 mètre.  

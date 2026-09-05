@@ -16,7 +16,7 @@ Au niveau 1, un mage bâtard dispose d’une réserve innée d’énergie magiqu
 
 Chaque jour au moment où il récupère ses emplacements de sort, le mage bâtard choisit un [[lignage]] d’ensorceleur. Il doit choisir un lignage ordinaire et non un lignage modifié par l’archétype sang sauvage ou tout autre archétype. Il gagne le pouvoir de niveau 1 de ce lignage pour la journée en cours, en l’utilisant comme s’il était un ensorceleur de niveau 1 seulement (si cette aptitude est utilisée pour gagner le pouvoir de pacte magique et que le mage choisit l’objet fétiche, il peut utiliser cet objet uniquement pour lancer un sort connu de niveau 1 car il est considéré, dans ce cas, comme un ensorceleur de niveau 1).
 
-Un mage bâtard ne peut disposer que d’un seul lignage à la fois.
+Un mage bâtard ne peut disposer que d’un seul lignage à la fois. 
 
 Par une [[action rapide]], il peut dépenser 1 point de son réservoir du bâtard pour activer ce lignage, ce qui lui permet d’utiliser ses pouvoirs de lignage de niveau 1 ainsi que l’arcane de lignage en appliquant son niveau d’ensorceleur complet (ceci vaut également pour l’objet fétiche conféré par un pacte magique). Cet effet persiste pendant un nombre de rounds égal à son modificateur de Charisme (minimum 1).
 
@@ -29,10 +29,10 @@ Au niveau 20, quand il active le lignage sélectionné, le mage bâtard peut, à
 Cette aptitude modifie l’aptitude de classe de lignage, les pouvoirs de lignage et les sorts de lignage.
 
 #### Sorts de lignage
-Au niveau 7 et chaque jour au moment où il choisit son lignage, le mage bâtard ajoute les sorts de niveau 1, 2 et 3 du lignage choisi à sa liste de sorts connus.
+Au niveau 7 et chaque jour au moment où il choisit son lignage, le mage bâtard ajoute les sorts de niveau 1, 2 et 3 du lignage choisi à sa liste de sorts connus. 
 
 Au niveau 13 et chaque jour au moment où il choisit son lignage, le mage bâtard ajoute les sorts de niveau 4, 5 et 6 du lignage choisi à sa liste de sorts connus.
 
-Au niveau 19 et chaque jour au moment où il choisit son lignage, le mage bâtard ajoute les sorts de niveau 7, 8 et 9 du lignage choisi à sa liste de sorts connus.
+Au niveau 19 et chaque jour au moment où il choisit son lignage, le mage bâtard ajoute les sorts de niveau 7, 8 et 9 du lignage choisi à sa liste de sorts connus. 
 
 Cette aptitude remplace les dons de lignage obtenus aux niveaux 7, 13 et 19.

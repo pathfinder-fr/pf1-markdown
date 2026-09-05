@@ -75,7 +75,7 @@ Vus de loin, les nécrophages des glaces ressemblent à des
 squelettes ordinaires, mais ils possèdent une ossature bien
 plus robustes que celle d’un humanoïde moyen et leur armure
 gelée s’enchevêtre avec leurs os pour former une structure
-incroyablement résistante.
+incroyablement résistante. 
 
 Ces horreurs gelées sont parfois appelées nécrophages haineux à cause de leur soif insatiable de
 souffrances. On les rencontre généralement dans les zones où règne un froid magique ou un climat glacial.

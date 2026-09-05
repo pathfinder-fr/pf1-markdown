@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Balle de signalisation|{s:AE}}
 **Aura** [[Évocation]] faible  ; **NLS** 2 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 100 po ; **Poids** —
 (((Description)))
-Ces balles +1 n’infligent pas de dégâts mais entourent la cible d’une lueur blafarde, comme un sort de *[[lueur féerique]]* qui inflige un malus de -2 à la [[CA]] contre les attaques à distance. Cet effet dure 1d4 [[round|round(s)]].
+Ces balles +1 n’infligent pas de dégâts mais entourent la cible d’une lueur blafarde, comme un sort de *[[lueur féerique]]* qui inflige un malus de -2 à la [[CA]] contre les attaques à distance. Cet effet dure 1d4 [[round|round(s)]]. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[lueur féerique]]* ; **Coût** 50 po
 </div>

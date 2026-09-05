@@ -13,6 +13,6 @@ Categories:
 
 **Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Forme de lascète|Forme de l'ascète]], [[École de lascète|École de l’ascète]], [[Arme de prédilection]] avec l'arme choisie, [[BBA]] +7 ou [[moine]] de niveau 7
+**Conditions.** [[Forme de lascète|Forme de l'ascète]], [[École de lascète|École de l’ascète]], [[Arme de prédilection]] avec l'arme choisie, [[BBA]] +7 ou [[moine]] de niveau 7 
 
 **Avantage.** Le personnage peut remplacer les dégâts de l'arme choisie par ceux des attaques à mains nues d'un moine de 4 niveaux de moins que son niveau de personnage (minimum 1). Frappe de l'ascète fonctionne autrement comme la capacité de classe [[lutteur#MAITRISEDESARMESDEPROXIMITE|maîtrise des armes de proximité]]. De plus, le personnage peut ignorer le prérequis de capacité de classe [[Moine#SERENITE|sérénité]] du don [[Héritage monastique]].

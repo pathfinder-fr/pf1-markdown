@@ -24,9 +24,9 @@ LastModified: 2020-06-09 18:45
 {s:BDTitre|Bâton d'étincelles|{s:mca}}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ; **Prix** 12 650 po ; **Poids** 1 kg
 (((Description)))
-De minces filaments dorés serpentent à l’intérieur de ce bâton transparent, semblant s’écouler d’un embout de cuivre à l’autre. Une fois par jour, quand le personnage est blessé par un effet infligeant au moins 10 points de dégâts d’électricité, le bâton regagne 1 charge. Ceci ne réduit pas le nombre de dégâts reçus à cause de l’effet.
-• *[[Décharge électrique]]* (1 charge)
-• *[[Décharge électrique]]* [[Sort intense|intensifiée]] (2 charges)
+De minces filaments dorés serpentent à l’intérieur de ce bâton transparent, semblant s’écouler d’un embout de cuivre à l’autre. Une fois par jour, quand le personnage est blessé par un effet infligeant au moins 10 points de dégâts d’électricité, le bâton regagne 1 charge. Ceci ne réduit pas le nombre de dégâts reçus à cause de l’effet.  
+• *[[Décharge électrique]]* (1 charge)  
+• *[[Décharge électrique]]* [[Sort intense|intensifiée]] (2 charges)  
 • *[[Éclair]]* (5 charges)
 (((Création)))
 [[Création de bâtons magiques]], [[Sort intense]], *[[décharge électrique]]*, *[[éclair]]* ; **Coût** 6 475 po
@@ -38,9 +38,9 @@ De minces filaments dorés serpentent à l’intérieur de ce bâton transparent
 {s:BDTitre|Bâton de braises|{s:mca}}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ; **Prix** 13 100 po ; **Poids** 1,5 kg
 (((Description)))
-L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que par endroits. Le bâton mesure à peine 90 centimètres de long et est suffisamment équilibré pour servir de gourdin de maître. Quand le personnage lance flammes avec le bâton, il peut décider d’enflammer le bout du bâton plutôt que de faire surgir les flammes de sa main. Cela n’endommage pas le bâton et les dégâts du sort s’ajoutent à toute attaque au corps à corps portée avec le bâton.
-• *[[Flammes]]* (1 charge)
-• *[[Rayon ardent]]* (2 charges)
+L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que par endroits. Le bâton mesure à peine 90 centimètres de long et est suffisamment équilibré pour servir de gourdin de maître. Quand le personnage lance flammes avec le bâton, il peut décider d’enflammer le bout du bâton plutôt que de faire surgir les flammes de sa main. Cela n’endommage pas le bâton et les dégâts du sort s’ajoutent à toute attaque au corps à corps portée avec le bâton.  
+• *[[Flammes]]* (1 charge)  
+• *[[Rayon ardent]]* (2 charges)  
 • *[[Boule de feu]]* (4 charges)
 (((Création)))
 [[Création de bâtons magiques]], *[[boule de feu]]*, *[[flammes]]*, *[[rayon ardent]]* ; **Coût** 6 700 po
@@ -51,8 +51,8 @@ L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que
 <div class="BD">
 {s:BDTitre|Bâton de monstruosification|{s:mca}}
 **Aura** [[Transmutation]] faible (métamorphose) ; **NLS** 8 ; **Emplacement** aucun ; **Prix** 12 000 po ; (((Description)))
-Les silhouettes monstrueuses gravées sur ce bâton taillé dans l’ivoire se métamorphosent lentement en d’autres figures monstrueuses et grandissent souvent pour occuper toujours plus d’espace sur la surface du bâton. Un [[alchimiste]] ou un autre personnage capable de créer des extraits peut verser un extrait d’*[[agrandissement]]* sur ce bâton pour en restaurer une charge ou y verser un extrait de *[[physique monstrueux I]]* pour en restaurer 3 charges.
-• *[[Agrandissement]]* (1 charge)
+Les silhouettes monstrueuses gravées sur ce bâton taillé dans l’ivoire se métamorphosent lentement en d’autres figures monstrueuses et grandissent souvent pour occuper toujours plus d’espace sur la surface du bâton. Un [[alchimiste]] ou un autre personnage capable de créer des extraits peut verser un extrait d’*[[agrandissement]]* sur ce bâton pour en restaurer une charge ou y verser un extrait de *[[physique monstrueux I]]* pour en restaurer 3 charges.  
+• *[[Agrandissement]]* (1 charge)  
 • *[[Physique monstrueux I]]* (3 charges)
 (((Création)))
 [[Création de bâtons magiques]], *[[agrandissement]]*, *[[physique monstrueux I]]*, le créateur doit être un [[alchimiste]] ; **Coût** 6 150 po
@@ -63,9 +63,9 @@ Les silhouettes monstrueuses gravées sur ce bâton taillé dans l’ivoire se m
 <div class="BD">
 {s:BDTitre|Bêche du fossoyeur|{s:mca}}
 **Aura** [[Invocation]] et [[Transmutation]] modérées ; **NLS** 8 ; **Emplacement** aucun ; **Prix** 12 150 po ; (((Description)))
-Ce solide bâton magique en chêne poli et la lame tranchante fixée à son extrémité s’utilisent comme une [[Équipement daventurier#Pelle|pelle de maître]] quand ils ne servent pas à lancer des sorts.
-• *[[Excavation expéditive]]* (1 charge)
-• *[[Création de fosse]]* (2 charges)
+Ce solide bâton magique en chêne poli et la lame tranchante fixée à son extrémité s’utilisent comme une [[Équipement daventurier#Pelle|pelle de maître]] quand ils ne servent pas à lancer des sorts.  
+• *[[Excavation expéditive]]* (1 charge)  
+• *[[Création de fosse]]* (2 charges)  
 • *[[Fosse hérissée de pieux]]* (5 charges)
 (((Création)))
 [[Création de bâtons magiques]], *[[création de fosse]]*, *[[excavation expéditive]]*, *[[fosse hérissée de pieux]]* ; **Coût** 6 100 po

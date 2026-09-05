@@ -49,7 +49,7 @@ Une victime agrippée se retrouve soumise au pouvoir attirer
 du kyton. Un kyton ne peut pas utiliser son souffle tant qu’il
 agrippe ou attire une victime avec une chaîne issue de ce souffle.
 Outre cela, il peut l’utiliser tous les 1d4 rounds. Le DD du jet de
-sauvegarde est basé sur la Constitution.
+sauvegarde est basé sur la Constitution. 
 Il est possible de briser les chaînes du kyton éphialtès (solidité
 10, pv 10, Briser DD 26), ou de les attaquer avec une destruction
 d’arme. Si la chaîne agrippe une cible, l’attaquant gagne un bonus

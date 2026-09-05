@@ -50,7 +50,7 @@ Le chaman sème le doute dans l’esprit d’un ennemi qui se trouve dans un ray
 
 {s:Reference|METAMORPHOSE}
 #### Métamorphose (Sur)
-Chaque jour, le chaman peut se transformer en une autre créature, comme avec *[[modification dapparence|modification d’apparence]]*, pendant un nombre de minutes égal à son niveau. La durée de la transformation n’est pas forcément consécutive mais doit être utilisée par fragment d’une minute au minimum. Le changement de forme (y compris pour reprendre son apparence normale) est une [[action simple]] qui ne provoque pas d’attaques d’opportunité. Au niveau 8, ce pouvoir fonctionne comme *[[forme bestiale I]]*. Au niveau 12, il fonctionne comme *[[forme bestiale II]]*, au niveau 16 comme *[[forme bestiale III]]* et au niveau 20 comme *[[forme bestiale IV]]*.
+Chaque jour, le chaman peut se transformer en une autre créature, comme avec *[[modification dapparence|modification d’apparence]]*, pendant un nombre de minutes égal à son niveau. La durée de la transformation n’est pas forcément consécutive mais doit être utilisée par fragment d’une minute au minimum. Le changement de forme (y compris pour reprendre son apparence normale) est une [[action simple]] qui ne provoque pas d’attaques d’opportunité. Au niveau 8, ce pouvoir fonctionne comme *[[forme bestiale I]]*. Au niveau 12, il fonctionne comme *[[forme bestiale II]]*, au niveau 16 comme *[[forme bestiale III]]* et au niveau 20 comme *[[forme bestiale IV]]*. 
 
 {s:Reference|PSALMODIE}
 #### Psalmodie (Sur)

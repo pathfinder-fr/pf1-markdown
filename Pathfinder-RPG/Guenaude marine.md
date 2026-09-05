@@ -74,7 +74,7 @@ des navires commerciaux. La plupart de ces créatures choisissent
 de s’établir loin des villes pour
 éviter que leurs actes n’attirent
 l’attention de ces ennemis
-potentiels.
+potentiels. 
 
 Il n’est pas rare de
 voir une guenaude marine plus
@@ -86,7 +86,7 @@ Comme les autres guenaudes,
 les guenaudes marines forment
 des cercles mais leur nature
 aquatique les empêche généralement
-de participer à des cercles mixtes.
+de participer à des cercles mixtes. 
 
 Les guenaudes vertes qui habitent près
 du rivage (dans un marais salé ou

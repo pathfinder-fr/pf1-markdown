@@ -9,26 +9,26 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V]]
-**Portée** [[personnelle]]
-**Cible** lanceur de sorts
+{s:UM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V]]  
+**Portée** [[personnelle]]  
+**Cible** lanceur de sorts  
 **Durée** 1 [[round]]/[[niveau]]
----
-Le personnage devient un danseur de guerre mortel qui glisse et tourbillonne avec grâce et précision. Il gagne un bonus de moral aux [[jet dattaque|jets d’attaque]] et de dégâts au [[Actions simples#ATTAQUECORPSACORPS|corps à corps]] et aux tests d’[[Acrobaties]] et à la [[CA]]. Ce bonus est égal à +1 par tranche de trois
+<hr />
+Le personnage devient un danseur de guerre mortel qui glisse et tourbillonne avec grâce et précision. Il gagne un bonus de moral aux [[jet dattaque|jets d’attaque]] et de dégâts au [[Actions simples#ATTAQUECORPSACORPS|corps à corps]] et aux tests d’[[Acrobaties]] et à la [[CA]]. Ce bonus est égal à +1 par tranche de trois 
 [[NLS|niveaux de lanceur de sorts]] (+5 au maximum au [[niveau]] 15). Le bonus à la [[CA]] disparaît si le personnage se trouve dans une situation qui le prive de son bonus de [[Dextérité]] à la [[CA]]. Le personnage doit rester en mouvement s’il veut que le sort persiste. Si, au cours d’un [[round]], il ne se déplace pas d’au moins 3 mètres ou ne fait pas d’attaque de corps à corps, le sort se termine.
 
 
 
 ((({s:sortssimilaires|danse des cent coupures}
 ## [[Danse des mille coupures]]
-{s:UM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 6
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V]]
-**Portée** [[personnelle]]
-**Cible** lanceur de sorts
+{s:UM}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 6  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V]]  
+**Portée** [[personnelle]]  
+**Cible** lanceur de sorts  
 **Durée** 1 [[round]]/[[niveau]]
----
+<hr />
 Ce sort fonctionne comme *[[danse des cent coupures]]* mais le personnage bénéficie aussi des effets de *[[rapidité]]*.
 )))

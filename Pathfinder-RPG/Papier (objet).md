@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 4 pa ; **Poids** —
+{s:AE}**Prix** 4 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Une feuille de papier ordinaire mesure généralement 23 centimètres sur 15 et ne convient pas à la création de [[Parchemins magiques]]. Elle a une [[solidité]] de 0, 1 point de vie et le [[DD]] pour la déchirer est de 5.

@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Armure du seigneur des ombres|{s:AE}}
 **Aura** [[Illusion]] modérée  ; **NLS** 8 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 117 160 po ; **Poids** 7,5 kg
 (((Caractéristiques)))
-**Alignement** N ; **Sens** 36 m, vision dans le noir
-**Intelligence** 14 ; **Sagesse** 16 ; **Charisme** 14 ; **Ego** 14
+**Alignement** N ; **Sens** 36 m, vision dans le noir  
+**Intelligence** 14 ; **Sagesse** 16 ; **Charisme** 14 ; **Ego** 14  
 **Langues** télépathie (aklo, commun, elfique)
 (((Description)))
 Cette [[armure de cuir (armure)|armure de cuir]] *[[graisseuse supérieure (propriété)|graisseuse supérieure]]* d’*[[ombre supérieure (propriété)|ombre supérieure]]* +4 épouse la silhouette de son propriétaire aussi étroitement qu’un habit de soie mais elle abrite une forme d’intelligence amorale et assoiffée de sang. Elle donne sans cesse des conseils à son propriétaire par télépathie pour être plus discret, éviter les zones à découvert et prendre l’avantage sur un ennemi. Elle confère également +1d6 aux dégâts des [[roublard#ATTAQUESOURNOISE|attaques sournoises]] mais, pour bénéficier de ce pouvoir, son propriétaire doit déjà posséder une aptitude de classe d’[[roublard#ATTAQUESOURNOISE|attaque sournoise]]. De plus, le bonus de [[Dextérité]] maximal de l’armure est de +10 et elle n’entraîne aucun risque d’échec des sorts profanes.

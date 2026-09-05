@@ -8,25 +8,25 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École ** [[Abjuration]] ; **Niveau** [[psychiste|Psy]] 4
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:AO}**École ** [[Abjuration]] ; **Niveau** [[psychiste|Psy]] 4  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 round
----
+<hr />
 Ce sort fonctionne comme *[[barrière mentale I]]* mais le bonus de bouclier à la [[CA]] passe à +8. De plus, le personnage subit seulement la moitié des dégâts de *[[coup mental I]]*, *[[coup mental II|II]]*, *[[coup mental III|III]]* et *[[coup mental IV|IV]]* (réduits à 1/4 en cas de réussite au [[jet de sauvegarde]]). On peut lancer une version réduite de ce sort.
 
 
 
 (((
 ## Barrière mentale I
-{s:AO}**École** [[Abjuration]] ; **Niveau** [[psychiste|Psy]] 2
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:AO}**École** [[Abjuration]] ; **Niveau** [[psychiste|Psy]] 2  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 round
----
+<hr />
 Le personnage érige une barrière d’énergie mentale qui le protège. Elle lui offre un bonus de bouclier de +4 à la [[CA]]. De plus, le personnage subit seulement la moitié des dégâts de *[[coup mental I]]* et *[[coup mental II|II]]* (réduits à 1/4 en cas de réussite au [[jet de sauvegarde]]).
 )))

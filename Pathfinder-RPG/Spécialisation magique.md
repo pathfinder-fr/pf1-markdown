@@ -10,7 +10,7 @@ Categories:
 
 {s:um}*Le personnage choisit un sort qu’il lance avec plus de puissance que la normale. *
 
-**Conditions.** [[Int]] 13, [[École renforcée]]
+**Conditions.** [[Int]] 13, [[École renforcée]] 
 
 **Avantage.** Le personnage choisit un sort d’une [[Présentation des sorts#ECOLE|école]] pour laquelle il dispose du don [[École renforcée]] . Il considère qu’il possède deux [[NLS|niveaux de lanceur de sorts]] de plus quand il s’agit de déterminer les effets variables du sort.
 

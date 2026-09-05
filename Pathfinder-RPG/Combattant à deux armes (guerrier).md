@@ -29,7 +29,7 @@ Au niveau 13, lorsqu'il est en mesure de porter une [[Attaque dopportunité|atta
 Au niveau 15, les [[Actions spéciales#COMBAT2ARMES|pénalités d'attaques]] pour le combat à deux armes sont encore réduites de -1 pour le guerrier à deux armes. Cet avantage se cumule avec science de l’équilibre. S'il utilise une arme à une main dans sa main non directrice, elle sera considérée comme une arme légère, avec les pénalités habituelles pour ce type d'arme. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 4]].
 
 #### Habile coup double (Ext).
-Au niveau 17, lorsqu'il touche un adversaire avec ses deux armes, le personnage peut, par une [[action immédiate]], tenter contre lui une manœuvre de [[désarmement]] ou de
+Au niveau 17, lorsqu'il touche un adversaire avec ses deux armes, le personnage peut, par une [[action immédiate]], tenter contre lui une manœuvre de [[désarmement]] ou de 
 [[destruction|destruction d'arme]] (ou un [[Croc-en-jambe]] si l'une des deux armes peut être utilisée de la sorte). Agir de la sorte ne provoque pas d'[[attaque dopportunité|attaques d’opportunité]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 4]].
 
 #### Défense mortelle (Ext).

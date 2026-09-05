@@ -12,7 +12,7 @@ Categories:
 {s:Menuarchétypesorcière}{s:mca}*Les montagnes peuvent devenir des refuges dans lesquels les sorcières traquées par la société viennent se réfugier. Là, elles pactisent avec les esprits des sommets montagneux.*
 
 #### Sorts
-Une sorcière des montagnes remplace certains sorts de protecteur par les suivants : 2<sup>ème</sup> – *[[pierre magique]]* ; 4<sup>ème</sup> – *[[appel des pierres]]* ; 6<sup>ème</sup> – *[[fusion dans la pierre]]* ; 8<sup>ème</sup> – *[[peau de pierre]]* ; 10<sup>ème</sup> – *[[mur de pierre]]* ; 12<sup>ème</sup> – *[[pierres commères]]* ; 14<sup>ème</sup> – *[[statue]]* ; 16<sup>ème</sup> – *[[éloignement du métal et de la pierre]]* ; 18<sup>ème</sup> – *[[heurt de pierres]]*.
+Une sorcière des montagnes remplace certains sorts de protecteur par les suivants : 2<sup>ème</sup> – *[[pierre magique]]* ; 4<sup>ème</sup> – *[[appel des pierres]]* ; 6<sup>ème</sup> – *[[fusion dans la pierre]]* ; 8<sup>ème</sup> – *[[peau de pierre]]* ; 10<sup>ème</sup> – *[[mur de pierre]]* ; 12<sup>ème</sup> – *[[pierres commères]]* ; 14<sup>ème</sup> – *[[statue]]* ; 16<sup>ème</sup> – *[[éloignement du métal et de la pierre]]* ; 18<sup>ème</sup> – *[[heurt de pierres]]*. 
 
 #### Maléfice de l’esprit des pierres
 Une sorcière des montagnes peut choisir des maléfices de l’[[esprit des pierres]] du [[chaman]] comme s’ils étaient des maléfices de sorcière. Elle remplace le niveau de chaman par son niveau de sorcière pour déterminer l’effet du maléfice et la Sagesse par l’[[Intelligence]] pour déterminer son [[DD]]. Cette aptitude modifie maléfice.
@@ -25,7 +25,7 @@ Les maléfices suivants viennent compléter l’archétype de sorcière des mont
 
 #### Maléfices majeurs
 Les maléfices majeurs suivants viennent compléter l’archétype de sorcière des montagnes : contrôle du climat,
-couvert de givre, demeure cachée et oeil de la bête.
+couvert de givre, demeure cachée et oeil de la bête. 
 
 #### Grands maléfices
 Les grands maléfices suivants viennent compléter l’archétype de sorcière des montagnes : désastre naturel, hutte de la sorcière et sommeil éternel.

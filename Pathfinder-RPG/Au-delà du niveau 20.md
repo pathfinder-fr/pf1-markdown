@@ -8,15 +8,15 @@ Categories:
 - Règles officielles
 ---
 
-Il existe des ressources sur lesquelles vous appuyer pour passer le cap du niveau 20.
+Il existe des ressources sur lesquelles vous appuyer pour passer le cap du niveau 20. 
 
-Les règles pour les niveaux épiques existent dans nombre de produits compatibles avec la gamme Pathfinder, mais il arrive souvent que ces alternatives causent des problèmes que vous n’aviez pas prévus.
+Les règles pour les niveaux épiques existent dans nombre de produits compatibles avec la gamme Pathfinder, mais il arrive souvent que ces alternatives causent des problèmes que vous n’aviez pas prévus. 
 
 Par exemple, si votre monde est peuplé de créatures et de méchants capables, au maximum de leur puissance, de tenir tête à des personnages de niveau 20, que vont faire des aventuriers de niveau épique ? Vous devrez peut-être alors penser à créer un décor de campagne entièrement nouveau, sur un autre plan d’existence, ou bien une autre planète, ou encore une autre dimension. La somme de travail est colossale.
 
-Black Book Editions et Paizo ont publié des règles traitant de cette possibilité.
+Black Book Editions et Paizo ont publié des règles traitant de cette possibilité. 
 
-Si vous n'en disposez pas, et si vous ne voulez pas non plus utiliser des règles OGL existantes, alors lisez les conseils suivants.
+Si vous n'en disposez pas, et si vous ne voulez pas non plus utiliser des règles OGL existantes, alors lisez les conseils suivants. 
 
 Cependant, ces quelques informations ne sont pas assez solides pour que le jeu soit palpitant et intéressant longtemps après le niveau 20. Malgré tout, elles devraient permettre à une campagne qui a besoin de 22 ou 23 niveaux pour arriver à son terme d’y parvenir sans souci. De la même manière, elles peuvent vous servir si vous désirez créer des [[PNJ]] superpuissants à opposer à des [[PJ]] niveau 20.
 

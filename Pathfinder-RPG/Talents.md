@@ -193,7 +193,7 @@ Un roublard qui possède ce talent gagne [[Pistolier amateur]] ainsi qu’un [[d
 
 {s:APG}{s:Reference|BEAUPARLEUR}
 #### Beau parleur (Ext)
-Une fois par jour, le roublard peut lancer deux dés au cours d’un test de [[Bluff]] et choisir le meilleur résultat des deux. Il doit décider d’utiliser ce talent avant le test de [[Bluff]] . Le roublard gagne une utilisation quotidienne supplémentaire de ce talent par tranche de 5 niveaux de roublard qu’il possède.
+Une fois par jour, le roublard peut lancer deux dés au cours d’un test de [[Bluff]] et choisir le meilleur résultat des deux. Il doit décider d’utiliser ce talent avant le test de [[Bluff]] . Le roublard gagne une utilisation quotidienne supplémentaire de ce talent par tranche de 5 niveaux de roublard qu’il possède. 
 
 {s:Reference|BOTTESECRETE}
 #### Botte secrète
@@ -214,7 +214,7 @@ Une fois par jour, un roublard possédant ce talent peut créer un [[camouflage]
 
 {s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}{s:Reference|CHANCEDESARMANTE}
 #### Chance désarmante (Ext)
-Une fois par jour, lorsqu’un homme-félin roublard tente de désamorcer un appareil et échoue de 5 ou plus, il peut refaire son test par une action libre. Il doit prendre le résultat du deuxième jet, même s’il est pire que le premier.
+Une fois par jour, lorsqu’un homme-félin roublard tente de désamorcer un appareil et échoue de 5 ou plus, il peut refaire son test par une action libre. Il doit prendre le résultat du deuxième jet, même s’il est pire que le premier. 
 
 {s:APG}{s:Reference|CHARMEUR}
 #### Charmeur (Ext)
@@ -222,7 +222,7 @@ Une fois par jour, le roublard peut lancer deux fois le dé lors d’un test de 
 
 {s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}{s:Reference|CHUTEGRACIEUSE}
 #### Chute gracieuse (Ext)
-L’homme-félin roublard ayant ce talent retombe toujours sur ses pattes, même quand il reçoit des dégâts létaux des suites d’une chute. S’il possède également le trait racial chute agile, tous les dégâts de chute qu’il reçoit comptent comme si sa distance de chute était plus courte de 6 mètres qu’elle ne l’est en réalité.
+L’homme-félin roublard ayant ce talent retombe toujours sur ses pattes, même quand il reçoit des dégâts létaux des suites d’une chute. S’il possède également le trait racial chute agile, tous les dégâts de chute qu’il reçoit comptent comme si sa distance de chute était plus courte de 6 mètres qu’elle ne l’est en réalité. 
 
 {s:UC}{s:Reference|CONNAISSANCESESOTERIQUES}
 #### Connaissances ésotériques (Ext)
@@ -230,33 +230,33 @@ Un roublard qui dispose de ce talent peut faire un test de [[Connaissances]], un
 
 {s:UC}{s:Reference|CONTACTSAUMARCHENOIR}
 #### Contacts au marché noir (Ext)
-<div style="float: right; margin-left: 10px; margin-right:0px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="marcheNoirTableau"
+<div style="float: right; margin-left: 10px; margin-right:0px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="marcheNoirTableau" 
 |+ Marché noir
-|-
+|- 
 | **Taille de la communauté**
 | **DD**
 |- Class="premier"
 | Lieu-dit
 | 10
-|-
+|- 
 | Hameau
 | 12
-|-
+|- 
 | Village
 | 15
-|-
+|- 
 | Petite ville
 | 18
-|-
+|- 
 | Grande ville
 | 20
-|-
+|- 
 | Petite cité
 | 25
-|-
+|- 
 | Grande cité
 | 30
-|-
+|- 
 | Capitale
 | 35
 |}</div>Grâce à ce talent, le roublard peut obtenir de meilleurs objets magiques grâce à ses contacts au marché noir.
@@ -286,8 +286,8 @@ Un roublard disposant de ce talent peut utiliser une [[action rapide]] pour déc
 #### Défense offensive* (Ext)
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#44|→]] Roublard, Défense offensive : Le bonus d'esquive du talent de roublard « défense offensive » (page 142) se cumule-t-il avec lui-même ? S'applique-t-il à tout le monde, ou seulement la cible que j'attaque ?***
 
-Il y a deux problèmes concernant ce <u>[[Talents#DEFENSEOFFENSIVE|talent de roublard]]</u>.
-Premièrement, dans la première impression il accordait un bonus de circonstances de +1 contre la cible attaquée, ce qui en faisait une capacité très faible. La mise à jour de la seconde impression a remplacé le bonus de circonstances par un bonus d'esquive, mais a accidentellement omis le texte « contre cette créature », ce qui en faisait une capacité très puissante.
+Il y a deux problèmes concernant ce <u>[[Talents#DEFENSEOFFENSIVE|talent de roublard]]</u>.  
+Premièrement, dans la première impression il accordait un bonus de circonstances de +1 contre la cible attaquée, ce qui en faisait une capacité très faible. La mise à jour de la seconde impression a remplacé le bonus de circonstances par un bonus d'esquive, mais a accidentellement omis le texte « contre cette créature », ce qui en faisait une capacité très puissante.  
 Deuxièmement, elle ne précise pas si le bonus d'esquive se cumule avec lui-même, et cela crée un paradoxe dans les règles puisque d'une part les bonus d'une même source ne se cumulent pas mais que d'autre part les bonus d'esquive se cumulent toujours. Bien que nous n'ayons pas tranché sur le futur de ce talent, nous tendons vers cette solution : *le bonus d'esquive ne s'applique que contre la créature sur laquelle le personnage a utilisé l'attaque sournoise, et le bonus d'esquive ne se cumule pas avec lui-même.* Cela empêche le personnage d'obtenir un bonus d'esquive à la CA contre une créature puissante en utilisant son attaque sournoise sur une créature faible, et d'atteindre une CA absurdement élevée en utilisant l'attaque sournoise à répétition lors d'un même round.}Lorsqu’un roublard disposant de ce talent porte contre une créature une attaque de corps à corps qui inflige des dégâts d’[[attaque sournoise]], il gagne un bonus d’esquive de +1 à la [[CA]] pour chaque dé d’attaque sournoise utilisé contre cette créature pendant 1 [[round]].
 
 {s:Reference|DEBOUT}
@@ -296,25 +296,25 @@ Ce talent permet à un roublard de se relever en une [[action libre]] lorsqu’i
 
 {s:APG}{s:Reference|DEGUISEMENTRAPIDE}
 #### Déguisement rapide (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="déguisementrapideTableau"
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="déguisementrapideTableau" 
 |+ déguisement
 |-
 | **Déguisement**
 | **temps**
 |- Class="premier"
-| Catégorie d’âge différente
+| Catégorie d’âge différente 
 | 1 minute
 |-
-| Catégorie de taille différente
+| Catégorie de taille différente  
 | 1 minute
-|-
-| Petits détails seulement
+|- 
+| Petits détails seulement 
 | 1 action complexe
 |-
-| Race différente
+| Race différente  
 | 1 minute
-|-
-| Sexe différent
+|- 
+| Sexe différent 
 | 1 minute
 |}</div>Un roublard disposant de ce talent peut utiliser les objets qu’il a à portée de main et quelques objets apparemment banals qu’il cache sur lui pour créer des déguisements étonnamment efficaces tout en réduisant le temps nécessaire à leur fabrication. Le temps nécessaire au roublard pour modifier son apparence de cette manière dépend de la complexité du déguisement, comme indiqué sur la table ci-contre. Les temps sont cumulatifs, de sorte que si une roublarde veut se déguiser en un homme d’une race différente, cela lui demande 2 minutes.
 
@@ -354,7 +354,7 @@ Ce talent permet au roublard d’utiliser la compétence d’[[Acrobaties]] pour
 </td><td width="49%">
 {s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}{s:Reference|EVALUATEURACHARNE}
 #### Évaluateur acharné (Ext)
-L’homme-félin roublard ayant ce talent est doué pour déterminer la valeur des objets qui brillent. Il peut toujours décider de faire 10 quand il estime des gemmes et des bijoux.
+L’homme-félin roublard ayant ce talent est doué pour déterminer la valeur des objets qui brillent. Il peut toujours décider de faire 10 quand il estime des gemmes et des bijoux. 
 
 {s:APG}{s:Reference|EXPERTENSURVIE}
 #### Expert en survie (Ext)
@@ -375,7 +375,7 @@ Un roublard qui possède ce talent reçoit un [[bonus]] de +4 à ses tests de [[
 
 {s:APG}{s:Reference|FINOBSERVATEUR}
 #### Fin observateur (Ext)
-Lorsqu’un roublard disposant de ce talent réalise un test de [[Perception]] pour percevoir les détails d’une conversation ou pour trouver un objet caché ou secret (il peut s’agir d’une porte ou d’un piège par exemple), il gagne un bonus de +4.
+Lorsqu’un roublard disposant de ce talent réalise un test de [[Perception]] pour percevoir les détails d’une conversation ou pour trouver un objet caché ou secret (il peut s’agir d’une porte ou d’un piège par exemple), il gagne un bonus de +4. 
 
 {s:Reference|FORMATIONMARTIALE}
 #### Formation martiale
@@ -407,7 +407,7 @@ L’homme-félin roublard ayant ce talent gagne un bonus de +4 à ses tests d’
 
 {s:APG}{s:Reference|INSTALLATIONDEPIEGESRAPIDE}
 #### Installation de pièges rapide (Ext)
-Par une [[action complexe]], un roublard disposant de ce talent peut installer un piège simple avec un FP ne dépassant pas la moitié de son niveau de roublard. Pour ce faire, il doit avoir acheté les composantes, avoir consacré le temps nécessaire à la construction du piège et avoir les composantes nécessaires sous la main. C’est au MD qu’il revient de décider quels types de pièges peuvent être construits de la sorte.
+Par une [[action complexe]], un roublard disposant de ce talent peut installer un piège simple avec un FP ne dépassant pas la moitié de son niveau de roublard. Pour ce faire, il doit avoir acheté les composantes, avoir consacré le temps nécessaire à la construction du piège et avoir les composantes nécessaires sous la main. C’est au MD qu’il revient de décider quels types de pièges peuvent être construits de la sorte.  
 
 {s:Reference|MAGIEMAJEURE}
 #### Magie majeure (Mag)
@@ -479,7 +479,7 @@ Lorsque le roublard effectue un test de [[Acrobaties|saut]], on considère toujo
 
 {s:UC}{s:Reference|SOURNOIS}
 #### Sournois* (Ext)
-Un roublard qui dispose de ce talent gagne un bonus de circonstances de +4 aux tests d’[[Escamotage]] quand il essaie de dissimuler une arme. De plus, s’il fait une [[attaque sournoise]] pendant le round de surprise à l’aide d’une arme cachée dont son adversaire ignore l’existence, il n’a pas besoin de lancer les dés de dégâts supplémentaires : l’attaque sournoise inflige automatiquement le maximum. Chaque jour, il peut utiliser ce talent un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).
+Un roublard qui dispose de ce talent gagne un bonus de circonstances de +4 aux tests d’[[Escamotage]] quand il essaie de dissimuler une arme. De plus, s’il fait une [[attaque sournoise]] pendant le round de surprise à l’aide d’une arme cachée dont son adversaire ignore l’existence, il n’a pas besoin de lancer les dés de dégâts supplémentaires : l’attaque sournoise inflige automatiquement le maximum. Chaque jour, il peut utiliser ce talent un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum). 
 
 {s:UC}{s:Reference|SPECIALISTEDELAFUITE}
 #### Spécialiste de la fuite (Ext)
@@ -487,7 +487,7 @@ Un roublard qui possède ce talent ajoute [[Dressage]], [[Équitation]] et [[Vol
 
 {s:APG}{s:Reference|SUBTILISATIONAUCOMBAT}
 #### Subtilisation au combat
-Un roublard disposant de ce talent gagne [[Science de la subtilisation]] comme don supplémentaire.
+Un roublard disposant de ce talent gagne [[Science de la subtilisation]] comme don supplémentaire. 
 
 {s:APG}{s:Reference|SUIVRELESINDICES}
 #### Suivre les indices (Ext)
@@ -548,24 +548,24 @@ Un roublard disposant de ce talent peut appliquer deux doses de [[poison]] en m�
 
 {s:UC}{s:Reference|COLPORTEURDERUMEURS}
 #### Colporteur de rumeurs (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau"
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau" 
 |+ Colporteur de rumeurs
-|-
+|- 
 | **Taille de la communauté**
 | **DD**
-|- class="premier"
+|- class="premier" 
 | Petite ville
 | 18
 |-
 | Grande ville
 | 20
-|-
+|- 
 | Petite cité
 | 25
-|-
+|- 
 | Grande cité
 | 30
-|-
+|- 
 | Capitale
 | 35
 |}</div> Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).  

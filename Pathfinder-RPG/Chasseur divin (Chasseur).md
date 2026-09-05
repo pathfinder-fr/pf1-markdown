@@ -12,7 +12,7 @@ Categories:
 
 {s:Menuarchétypechasseur}{s:mca}*Alors que la plupart des chasseurs répondent à l’appel de la nature et combattent pour protéger ses bienfaits, certains ressentent le besoin de servir une puissance supérieure. Ces chasseurs divins se servent de leur foi pour les aider dans leurs luttes et celle-ci englobe leurs compagnons animaux pour en faire de véritables champions de leur divinité.*
 
-**Alignement** Un chasseur divin peut être de n’importe quel alignement, mais celui-ci ne doit pas s’écarter de plus d’une catégorie sur l’axe de la Loi et du Chaos et sur celui du Bien et du Mal par rapport à celui de sa divinité.
+**Alignement** Un chasseur divin peut être de n’importe quel alignement, mais celui-ci ne doit pas s’écarter de plus d’une catégorie sur l’axe de la Loi et du Chaos et sur celui du Bien et du Mal par rapport à celui de sa divinité. 
 
 #### Compétences de classe
 [[Connaissances]] (religion) est une compétence de classe pour le chasseur divin, mais [[Connaissances]] (exploration souterraine) ne l’est plus.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Poids** 5 kg ; **DD d'Artisanat (alchimie)** 25
+{s:AE}**Prix** 50 po ; **Poids** 5 kg ; **DD d'Artisanat (alchimie)** 25  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cette substance est utilisée pour conserver les corps, que ce soit pour une dissection ultérieure, une taxidermie, de la nécromancie ou de la magie comme *[[rappel à la vie]]*. Techniquement, le liquide d’embaumement est un poison et son utilisation rend le corps immangeable pour la plupart des animaux et pour la vermine, bien que le goût ne dérange pas les morts-vivants charognards. Il faut une heure et un test de [[Premiers secours]] [[DD]] 25 pour traiter un corps avec du liquide d’embaumement. Un corps embaumé se décompose à la moitié du rythme normal (chaque jour après la mort compte comme une demi-journée en ce qui concerne *rappel à la vie*).

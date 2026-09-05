@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:20
 {s:BDTitre|Chasuble de résistance à la magie|{s:AE}}
 **Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 90.000 po ; **Poids** —
 (((Description)))
-{s:Desambi|Le <u>Manuel des Joueurs</u> présente un objet identique nommé "Écharpe de résistance à la magie".}Ce vêtement léger est brodé de divers symboles mystérieux. Il se porte pardessus les vêtements ou l’armure et confère à son porteur une *[[Résistance à la magie (capacité)|résistance à la magie]]* de 21.
+{s:Desambi|Le <u>Manuel des Joueurs</u> présente un objet identique nommé "Écharpe de résistance à la magie".}Ce vêtement léger est brodé de divers symboles mystérieux. Il se porte pardessus les vêtements ou l’armure et confère à son porteur une *[[Résistance à la magie (capacité)|résistance à la magie]]* de 21. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[sort Résistance à la magie|résistance à la magie]]* ; **Coût** 45.000 po
 </div>

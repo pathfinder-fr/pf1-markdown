@@ -9,12 +9,12 @@ Categories:
 - Sort psychiste 4
 ---
 
-{s:MCA}**École** [[Évocation]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4
-**Temps d’incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (le parchemin à activer ; cf. texte), F (une plume de platine d’une valeur de 100 po)
-**Portée** personnelle
-**Cible** le lanceur de sort
-**Durée** 10 minutes/niveau (T) ou jusqu’à déchargement
+{s:MCA}**École** [[Évocation]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (le parchemin à activer ; cf. texte), F (une plume de platine d’une valeur de 100 po)  
+**Portée** personnelle  
+**Cible** le lanceur de sort  
+**Durée** 10 minutes/niveau (T) ou jusqu’à déchargement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; Résistance à la magie oui (inoffensif)
 
 Le personnage transfère le pouvoir d’un parchemin à la cible afin qu’il prenne effet à la condition dictée par le personnage. Le lancement de ce sort détruit le parchemin mais permet au sort contenu de s’activer de manière similaire au sort de *[[prévoyance]]*. Le sort du parchemin doit appartenir à la liste de sorts du personnage, il doit affecter la cible du sort de parchemin de contingence (cette cible étant considérée comme le lanceur du sort contenu dans le parchemin) et son niveau ne doit pas dépasser un quart du niveau de lanceur du personnage (niveau 5 au maximum).

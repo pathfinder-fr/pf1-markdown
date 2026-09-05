@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Poupée malfaisante|{s:AE}}
 **Aura** [[Enchantement]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 500 po ; **Poids** 0,5 kg
 (((Description)))
-Cette poupée à l’aspect sinistre est composée d’un patchwork de chiffons bourré de paille ou de sciure. Une créature qui tient ou porte cette poupée subit un malus de -4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les [[sorcière#MALEFICE|maléfices]] de [[sorcière]]. Sinon, si les cheveux d’une créature sont placés à l’intérieur de la poupée et qu’une [[sorcière]] la tient en main, la poupée augmente de +2 le [[DD]] des [[sorcière#MALEFICE|maléfices]] lorsque la [[sorcière]] les utilise contre la créature concernée. Si une [[sorcière]] utilise une poupée de cette façon, elle ne reçoit aucun malus aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]].
+Cette poupée à l’aspect sinistre est composée d’un patchwork de chiffons bourré de paille ou de sciure. Une créature qui tient ou porte cette poupée subit un malus de -4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les [[sorcière#MALEFICE|maléfices]] de [[sorcière]]. Sinon, si les cheveux d’une créature sont placés à l’intérieur de la poupée et qu’une [[sorcière]] la tient en main, la poupée augmente de +2 le [[DD]] des [[sorcière#MALEFICE|maléfices]] lorsque la [[sorcière]] les utilise contre la créature concernée. Si une [[sorcière]] utilise une poupée de cette façon, elle ne reçoit aucun malus aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[sort Malédiction|malédiction]]* ; **Coût** 1 250 po
 </div>

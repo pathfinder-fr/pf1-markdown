@@ -21,7 +21,7 @@ Retour à la liste des [[Classes de prestige]].
 <li>{s:PM|CLASSESSUPPLEMENTAIRES6}***[[Classes#CLASSESSUPPLEMENTAIRES|Classes supplémentaires]]***
 <ul ID="CLASSESSUPPLEMENTAIRES6" CLASS="listecachée cadrebas">
 <li>[[Alchimiste|L'alchimiste]] (*[[Découvertes]]*)</li>
-<li>[[Antipaladin|L'anti-paladin]]</li>
+<li>[[Antipaladin|L'anti-paladin]]</li> 
 <li onmouseover="document.getElementById('menuclasseIMG6').src='/wiki/public/upload/Illustrations/PNJ/Chasseur de vampire.jpg';">[[Chasseur de vampire|Le chasseur de vampire]] *([[techniques de chasseur de vampire]])*</li>
 <li>[[Chevalier|Le chevalier]] (*[[Ordres]]*)</li>
 <li>[[Conjurateur|Le conjurateur]] (*[[eidolon]], [[modèles deidolon|modèles d'eidolon]]*)</li>

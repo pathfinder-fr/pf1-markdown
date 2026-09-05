@@ -19,7 +19,7 @@ Au niveau 2, lorsqu'il tient son arme de prédilection en main, un maître d'arm
 Au niveau 3, le personnage reçoit un bonus sur ses [[jet dattaque|jets d'attaque]] et de dégâts lorsqu'il utilise son arme de prédilection. Ce bonus est de +1 au niveau 3, +1 par tranche de quatre niveaux au delà du niveau 3. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1, 2, 3 et 4]].
 
 #### Coup sûr (Ext).
-Au niveau 5, lorsqu'il attaque avec son arme de prédilection, le maître d'arme peut relancer un jet d'attaque, un jet de confirmation de [[coup critique]], un jet de chance de rater ou un jet de dégâts par une [[action immédiate]]. Il doit cependant garder le second résultat même s'il est pire que le premier. Il peut utiliser cette capacité une fois par jour au niveau 5, puis une fois de plus par tranche de cinq niveaux au delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]].
+Au niveau 5, lorsqu'il attaque avec son arme de prédilection, le maître d'arme peut relancer un jet d'attaque, un jet de confirmation de [[coup critique]], un jet de chance de rater ou un jet de dégâts par une [[action immédiate]]. Il doit cependant garder le second résultat même s'il est pire que le premier. Il peut utiliser cette capacité une fois par jour au niveau 5, puis une fois de plus par tranche de cinq niveaux au delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]]. 
 
 #### Mouvement miroir (Ext).
 Au niveau 9, le bonus d'entraînement aux armes du guerrier devient un bonus d'intuition à sa [[CA]] lorsqu'il est attaqué avec une arme semblable à son arme de prédilection. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 2]].

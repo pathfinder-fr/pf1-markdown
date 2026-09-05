@@ -13,9 +13,9 @@ Categories:
 
 **Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Une vague d’énergie perturbatrice accompagne les dégâts sonores du sort et s’abat sur les créatures qu’il affecte.
+**Avantage.** Une vague d’énergie perturbatrice accompagne les dégâts sonores du sort et s’abat sur les créatures qu’il affecte. 
 
-Le sort percutant affecte les créatures victimes d’un sort du [[Présentation des sorts#REGISTRE|registre]] du son et leur inflige un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jet de sauvegarde|de sauvegarde]], [[test de compétence|de compétence]] et de [[caractéristiques|caractéristique]] pendant un nombre de rounds égal au niveau réel du sort.
+Le sort percutant affecte les créatures victimes d’un sort du [[Présentation des sorts#REGISTRE|registre]] du son et leur inflige un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jet de sauvegarde|de sauvegarde]], [[test de compétence|de compétence]] et de [[caractéristiques|caractéristique]] pendant un nombre de rounds égal au niveau réel du sort. 
 
 Le sort percutant affecte seulement les sorts du registre du son.
 

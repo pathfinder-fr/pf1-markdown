@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** — ; **Passage (1,5 km)** 1 cp
+{s:AE}**Prix** — ; **Passage (1,5 km)** 1 cp  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 Transport maritime le plus simple et primitif, le radeau est un simple bateau plat sans coque, souvent fait de rondins de bois attachés entre eux. On le propulse généralement au moyen de deux ou quatre rames.

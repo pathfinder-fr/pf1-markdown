@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Ce lait épais et fermenté est plus acidulé que le lait cru. On peut le sucrer avec des fruits, du miel ou de la confiture, le mélanger à des herbes et à de l’huile pour faire une sauce ou le mixer avec de l’eau, du sel, du sucre, des fruits ou de la menthe pour le boire.

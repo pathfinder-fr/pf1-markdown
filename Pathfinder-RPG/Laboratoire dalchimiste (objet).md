@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 200 po ; **Poids** 20 kg
+{s:AE}**Prix** 200 po ; **Poids** 20 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Ce laboratoire sert à fabriquer des objets alchimiques et fournit un bonus de circonstances de +2 aux tests d’[[Artisanat]] (alchimie). Il n’a aucune incidence sur les coûts relatifs à la compétence Artisanat (alchimie). Sans ce laboratoire, on considère qu’un personnage ayant la compétence Artisanat (alchimie) a suffisamment d’outils pour faire appel à sa compétence mais n’en a pas assez pour obtenir le bonus de +2 qu’apporte le laboratoire.

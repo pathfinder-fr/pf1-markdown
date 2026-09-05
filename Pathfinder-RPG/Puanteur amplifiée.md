@@ -15,11 +15,11 @@ Categories:
 {s:cm}
 **Cette option est plus courante chez les [[Troglodyte|troglodytes]].**
 
-**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** personnelle
-**Cible** le lanceur de sorts
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** 10 minutes/[[niveau]]
 
 Le troglodyte amplifie son pouvoir spécial naturel de puanteur – le [[DD]] du [[jds|jet de sauvegarde]] est augmenté de 2 et les créatures qui ratent leur jet sont nauséeuses plutôt que [[fiévreux|fiévreuses]]. Si son pouvoir de puanteur implique normalement que la cible est [[nauséeux|nauséeuse]] en cas d’échec (comme c’est le cas pour le pouvoir de puanteur horrible), le rayon de ce pouvoir est, à la place, doublé. Ce sort n’a aucun effet si le troglodyte ne possède pas le pouvoir spécial de puanteur.

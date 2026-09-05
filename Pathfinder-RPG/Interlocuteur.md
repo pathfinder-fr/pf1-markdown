@@ -48,14 +48,14 @@ Categories:
 
 Les interlocuteurs sont les chirurgiens-plasticiens autoproclamés des kytons, considérant davantage leurs pratiques comme un art que comme des procédures médicales.
 
-Chaque victime est, pour eux, une nouvelle occasion d’étudier l’art de la douleur et de la sensation au travers de regards frappés d’horreur. On craint peut-être autant leur capacité à soigner les dégâts qu’ils infligent, et même à rendre la vie à un sujet venant tout juste de rendre son dernier soupir, que leur passion à découper la chair. Pour la victime d’un interlocuteur, la mort est une délivrance trop rarement accordée.
+Chaque victime est, pour eux, une nouvelle occasion d’étudier l’art de la douleur et de la sensation au travers de regards frappés d’horreur. On craint peut-être autant leur capacité à soigner les dégâts qu’ils infligent, et même à rendre la vie à un sujet venant tout juste de rendre son dernier soupir, que leur passion à découper la chair. Pour la victime d’un interlocuteur, la mort est une délivrance trop rarement accordée. 
 
 La maîtrise de la chair qu’a l’interlocuteur n’est jamais aussi visible que sur son corps, car leur passage du rang de mortel à
 celui de kyton implique de se débarrasser des parties inutiles de leur corps, jusqu’à ce qu’il ne reste qu’un amas de nerfs, de
 veines et de divers organes. Ces éléments sont ensuite intégrés à des corps constitués de métal semi-vivants façonnés à partir de
 d’éléments d’ombre bruts récupérés dans les étranges étendues du Plan de l’ombre, donnant au kyton son physique terrifiant.
 
-De temps en temps, le kyton garde un bras ou un autre membre « en trop », mais uniquement comme quelqu’un conserverait son droit de propriété sur un bijou chéri, comme souvenir. Certains interlocuteurs ne gardent rien de leurs anciens corps de chair à l’exception du cerveau, des nerfs et de quelques portions du système circulatoire.
+De temps en temps, le kyton garde un bras ou un autre membre « en trop », mais uniquement comme quelqu’un conserverait son droit de propriété sur un bijou chéri, comme souvenir. Certains interlocuteurs ne gardent rien de leurs anciens corps de chair à l’exception du cerveau, des nerfs et de quelques portions du système circulatoire. 
 
 Les interlocuteurs mesurent 3 mètres et pèsent 400 kilos.
 </div></td></tr></table>

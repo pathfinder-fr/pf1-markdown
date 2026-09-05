@@ -23,14 +23,14 @@ Categories:
 **Durée** Jusqu'à 10 minutes   
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])  
 
-Vous pouvez transformer jusqu'à 3 pièces en projectiles mortels qui gagnent la vélocité d'une balle quand elles sont lancées. Les pièces gardent leur apparence normale mais peuvent être utilisées comme des armes de jet avec une incrémentation de portée de 6 m (4{s:c}) et un multiplicateur de critique x2. Les pièces transmutées sont traitées comme des munitions lorsqu'il s'agit de les lancer.
+Vous pouvez transformer jusqu'à 3 pièces en projectiles mortels qui gagnent la vélocité d'une balle quand elles sont lancées. Les pièces gardent leur apparence normale mais peuvent être utilisées comme des armes de jet avec une incrémentation de portée de 6 m (4{s:c}) et un multiplicateur de critique x2. Les pièces transmutées sont traitées comme des munitions lorsqu'il s'agit de les lancer. 
 
-Comme les balles des armes à feu, les pièces font des dégâts contondants et perforants et les attaques sont traitées comme des attaques de contact dans la première incrémentation de portée.
+Comme les balles des armes à feu, les pièces font des dégâts contondants et perforants et les attaques sont traitées comme des attaques de contact dans la première incrémentation de portée. 
 
 Indépendamment du fait si ça touche ou non, la pièce est détruite après l'attaque. Seulement vous pouvez faire des attaques avec vos pièces, bien que les autres créatures peuvent s'en occuper sans risque sans décharger le sort.
 
 
-Vous pouvez faire une simple attaque de portée avec une pièce dans le cadre de l'incantation de ce sort.
+Vous pouvez faire une simple attaque de portée avec une pièce dans le cadre de l'incantation de ce sort. 
 
 Différents types de pièces permettent de créer différents effets :  
 -Les pièces de bronze infligent 1d4 points de dégâts.  

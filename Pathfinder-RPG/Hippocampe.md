@@ -38,57 +38,57 @@ Categories:
 {s:BDTexte|<b>Besoin d'eau (Ext)</b> Un hippocampe peut survivre hors de l’eau pendant 1 minute par point de Constitution. Passé ce délais, il risque de suffoquer, comme s’il se noyait}
 
 
-</td><td><div>''De face, cette créature ressemble à un cheval et, de dos à un poisson. Ses
+</td><td><div>''De face, cette créature ressemble à un cheval et, de dos à un poisson. Ses 
 pattes avant se terminent par des nageoires plutôt que des sabots.''
 
 
-Les  écailles  des  hippocampes  varient  en  couleur,
-de  l’ivoire  au  vert  foncé  en  passant  par  le  bleu  céruléen
-avec  des  reflets  argentés.  Les  races  aquatiques  telles  que
-les  hommes-poissons  et  les  locathahs  les  entraînent
-souvent  comme  montures  ou  comme  animaux  de  bât  pour
-tirer  d’astucieux  chariots  sous-marins.  À  l’état  sauvage,  les
-hippocampes préfèrent vivre dans les eaux  relativement  peu
-profondes  où  leur  nourriture  préférée
-(les  algues  et  le  varech)  est  abondante
-et  les  grands  prédateurs,  plutôt  rares.
-Ces créatures se rassemblent souvent en
-larges bancs pour voyager, un peu comme
-les grands troupeaux de chevaux sauvages le
+Les  écailles  des  hippocampes  varient  en  couleur, 
+de  l’ivoire  au  vert  foncé  en  passant  par  le  bleu  céruléen 
+avec  des  reflets  argentés.  Les  races  aquatiques  telles  que 
+les  hommes-poissons  et  les  locathahs  les  entraînent 
+souvent  comme  montures  ou  comme  animaux  de  bât  pour 
+tirer  d’astucieux  chariots  sous-marins.  À  l’état  sauvage,  les 
+hippocampes préfèrent vivre dans les eaux  relativement  peu 
+profondes  où  leur  nourriture  préférée 
+(les  algues  et  le  varech)  est  abondante 
+et  les  grands  prédateurs,  plutôt  rares. 
+Ces créatures se rassemblent souvent en 
+larges bancs pour voyager, un peu comme 
+les grands troupeaux de chevaux sauvages le 
 font sur terre.
 
-Les  hippocampes  sont  relativement  faciles
-à  entraîner  :  le  temps  nécessaire  et  le  coût
-de  leur  entraînement  équivalent  à  ceux
-d’un  cheval.  Comme  une  armure  pourrait
-réduire  la  vitesse  de  nage  des  hippocampes,
-ceux  qui  les  entraînent  pour  le  combat  ne
-prennent  généralement  pas  la  peine  de  les
-équiper  d’une  barde.  Mais  lorsqu’ils  le  font,
-ils  optent  plutôt  pour  les  armures  les  plus  légères  possibles
-(comme  les  bardes  matelassées  ou  en  cuir).  Le  combat  à  dos
-d’hippocampe  se  déroule  de  la  même  manière  que  sur  un
-cheval,  mais  l’hippocampe  est  plutôt  maladroit  sur  terre  et  ne
-peut  pas  se  déplacer  du  tout  lorsqu’il  porte  un  cavalier.  Même
-si les hippocampes n’ont que deux pattes (avant), on détermine
-leur capacité de transport comme s’ils en avaient quatre. Ainsi,
-une charge légère peut aller jusqu’à 114 kg pour un hippocampe
-moyen, une charge intermédiaire jusqu’à 229,5 kg et une charge
+Les  hippocampes  sont  relativement  faciles 
+à  entraîner  :  le  temps  nécessaire  et  le  coût 
+de  leur  entraînement  équivalent  à  ceux 
+d’un  cheval.  Comme  une  armure  pourrait 
+réduire  la  vitesse  de  nage  des  hippocampes, 
+ceux  qui  les  entraînent  pour  le  combat  ne 
+prennent  généralement  pas  la  peine  de  les 
+équiper  d’une  barde.  Mais  lorsqu’ils  le  font, 
+ils  optent  plutôt  pour  les  armures  les  plus  légères  possibles 
+(comme  les  bardes  matelassées  ou  en  cuir).  Le  combat  à  dos 
+d’hippocampe  se  déroule  de  la  même  manière  que  sur  un 
+cheval,  mais  l’hippocampe  est  plutôt  maladroit  sur  terre  et  ne 
+peut  pas  se  déplacer  du  tout  lorsqu’il  porte  un  cavalier.  Même 
+si les hippocampes n’ont que deux pattes (avant), on détermine 
+leur capacité de transport comme s’ils en avaient quatre. Ainsi, 
+une charge légère peut aller jusqu’à 114 kg pour un hippocampe 
+moyen, une charge intermédiaire jusqu’à 229,5 kg et une charge 
 lourde, jusqu’à 345 kg.
 
-Il  existe  plusieurs  variantes  d’hippocampes,  mais  la  plupart
-de  ces  espèces  se  distinguent  de  la  créature  présentée  ici
-uniquement  par  leur  couleur  et  par  leur  sélection  de  dons.
-Les  dons  qui  remplacent  le  plus  souvent  celui  d’Endurance
-chez  ces  autres  espèces  sont  Réflexes  surhumains,  Robustesse,
-Science  de  l’initiative,  Talent  (Natation),  Vigueur  surhumaine
-et  Volonté  de  fer.  Certaines  espèces  d’hippocampes  sont  plus
-robustes  et  globalement  plus  puissantes.  Ces  créatures  vivent
-généralement dans les eaux plus froides et sont connues sous le
-nom  d’hippocampes  polaires.  Un  hippocampe  polaire  possède
-l’archétype simple de « créature évoluée ». Les hippocampes les
-plus  formidables,  qu’on  appelle hippocampes géants, sont  bien
-plus grands. Pour dresser leur profil, faites évoluer l’hippocampe
-standard jusqu’à la taille TG et augmentez ses DV jusqu’à 10. Un
+Il  existe  plusieurs  variantes  d’hippocampes,  mais  la  plupart 
+de  ces  espèces  se  distinguent  de  la  créature  présentée  ici 
+uniquement  par  leur  couleur  et  par  leur  sélection  de  dons. 
+Les  dons  qui  remplacent  le  plus  souvent  celui  d’Endurance 
+chez  ces  autres  espèces  sont  Réflexes  surhumains,  Robustesse, 
+Science  de  l’initiative,  Talent  (Natation),  Vigueur  surhumaine 
+et  Volonté  de  fer.  Certaines  espèces  d’hippocampes  sont  plus 
+robustes  et  globalement  plus  puissantes.  Ces  créatures  vivent 
+généralement dans les eaux plus froides et sont connues sous le 
+nom  d’hippocampes  polaires.  Un  hippocampe  polaire  possède 
+l’archétype simple de « créature évoluée ». Les hippocampes les 
+plus  formidables,  qu’on  appelle hippocampes géants, sont  bien 
+plus grands. Pour dresser leur profil, faites évoluer l’hippocampe 
+standard jusqu’à la taille TG et augmentez ses DV jusqu’à 10. Un 
 hippocampe géant a un FP de 8.
 </div></td></tr></table>

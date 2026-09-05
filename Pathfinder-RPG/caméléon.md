@@ -18,7 +18,7 @@ Categories:
 ---
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}
-**École** [[Illusion]] ([[Présentation des sorts#HALLUCINATION|hallucination]]) ;
+**École** [[Illusion]] ([[Présentation des sorts#HALLUCINATION|hallucination]]) ; 
 **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|G]]  

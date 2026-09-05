@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [[Maléfices]].***
-***Voir aussi les [[Familiers]] et les [[Protecteurs]].***
-***Voir aussi la [[Liste des sorts de sorcière]].***
+<div class="fright">***Voir aussi les [[Maléfices]].***  
+***Voir aussi les [[Familiers]] et les [[Protecteurs]].***  
+***Voir aussi la [[Liste des sorts de sorcière]].***  
 {s:PM0|sorcière}**Voir les archétypes de la sorcière**&emsp;
 <li ID="sorcière" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypesorcière}</li>
 </div>{s:APG}*Certains atteignent la puissance grâce à leurs études, d’autres par leur dévotion et d’autres encore par le sang mais la sorcière tire ses pouvoirs de sa communion avec l’inconnu. Crainte et incomprise, elle puise sa magie dans un pacte passé avec une puissance d’un autre monde. En communiant avec cette source à travers le conduit que représente son familier, elle a non seulement accès à de nombreux sorts mais également à d’étranges aptitudes appelées des maléfices. Quand la sorcière gagne en puissance, elle peut découvrir d’où lui vient sa magie mais certaines restent dans une ignorance bienheureuse, quelques-unes ont même peur de cette source, redoutant ce qu’elle pourrait être ou quels sont ses véritables objectifs.*
@@ -440,12 +440,12 @@ La sorcière peut préparer un certain nombre de [[Liste des sorts de sorcière#
 #### Maléfices
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#56|→]] Sorcière, Maléfices : Si un maléfice indique qu'il ne peut affecter une créature qu'une fois toutes les 24 heures, cela implique-t-il qu'une autre sorcière ne peut pas l'utiliser sur cette cible ?***
 
-Non, la restriction ne s'applique qu'à la sorcière qui a utilisé le <u>[[Sorcière#MALEFICE|maléfice]]</u>, et n'empêche pas d'autres sorcières d'utiliser leur propre maléfice du même nom sur cette cible.
-Par exemple, si Esmeralda utilise son maléfice de [[Maléfices#Guérison|guérison]] sur Gustave, elle ne peut plus l'utiliser sur lui pendant 24 heures. Morda peut toujours utiliser son maléfice de guérison sur Gustave pendant la période d'attente d'Esmeralda (et le faire empêcherait Morda de l'utiliser à nouveau sur lui pendant 24 heures). Répétez ad infinitum pour toute autre sorcière utilisant le maléfice de guérison.}Les sorcières apprennent un certain nombre de sortilèges, appelés des maléfices, qui améliorent leurs pouvoirs ou affaiblissent leurs ennemis.
+Non, la restriction ne s'applique qu'à la sorcière qui a utilisé le <u>[[Sorcière#MALEFICE|maléfice]]</u>, et n'empêche pas d'autres sorcières d'utiliser leur propre maléfice du même nom sur cette cible.  
+Par exemple, si Esmeralda utilise son maléfice de [[Maléfices#Guérison|guérison]] sur Gustave, elle ne peut plus l'utiliser sur lui pendant 24 heures. Morda peut toujours utiliser son maléfice de guérison sur Gustave pendant la période d'attente d'Esmeralda (et le faire empêcherait Morda de l'utiliser à nouveau sur lui pendant 24 heures). Répétez ad infinitum pour toute autre sorcière utilisant le maléfice de guérison.}Les sorcières apprennent un certain nombre de sortilèges, appelés des maléfices, qui améliorent leurs pouvoirs ou affaiblissent leurs ennemis. 
 
-Au niveau 1, la sorcière gagne un maléfice de son choix, un autre au niveau 2 et ensuite un de plus tous les deux niveaux, comme indiqué dans la [[Sorcière#TABLESORCIERE|table]].
+Au niveau 1, la sorcière gagne un maléfice de son choix, un autre au niveau 2 et ensuite un de plus tous les deux niveaux, comme indiqué dans la [[Sorcière#TABLESORCIERE|table]]. 
 
-La sorcière ne peut pas choisir le même maléfice à plusieurs reprises.
+La sorcière ne peut pas choisir le même maléfice à plusieurs reprises. 
 
 Sauf indication, pour lancer un maléfice, la sorcière doit utiliser une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Le [[DD]] pour résister à ces sorts est de 10 + 1/2 niveau de sorcière + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur d’Intelligence]] de la sorcière.
 

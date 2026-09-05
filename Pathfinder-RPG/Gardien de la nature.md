@@ -135,7 +135,7 @@ Les gardiens de la nature sont généralement des druides ou des rôdeurs/druide
 
 </center>
 
-**Rôle.** Le gardien de la nature est un maître des étendues sauvages et c’est dans les nombreux environnements qu’il a étudiés qu’il est au sommet de sa puissance. Il forme une dangereuse équipe avec son compagnon animal. Ce sont d’excellents éclaireurs et des combattants polyvalents,
+**Rôle.** Le gardien de la nature est un maître des étendues sauvages et c’est dans les nombreux environnements qu’il a étudiés qu’il est au sommet de sa puissance. Il forme une dangereuse équipe avec son compagnon animal. Ce sont d’excellents éclaireurs et des combattants polyvalents, 
 capables de compléter leurs compétences par des sorts afin de remplir presque n’importe quel rôle.
 
 **Alignement.** Les gardiens de la nature tendent à posséder des alignements autres que Mauvais car beaucoup choisissent cette profession par désir d’aider et de protéger les autres. On trouve parfois des gardiens Mauvais qui retournent les amères réalités du monde naturel contre leurs ennemis ou protègent des sites naturels souillés par de sombres fées.

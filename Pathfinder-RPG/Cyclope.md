@@ -56,7 +56,7 @@ Les cyclopes sont des êtres d’un naturel grave et solennel qui
 dirigeaient de vastes royaumes il y a de cela plusieurs milliers années.
 Aujourd’hui, leurs gloires passées sont oubliées depuis longtemps et
 les quelques cyclopes qui vivent encore ne s’intéressent plus guère qu’à
-défendre leur repaire et à trouver de quoi se nourrir.
+défendre leur repaire et à trouver de quoi se nourrir. 
 
 Cette dernière
 tâche occupe d’ailleurs la plupart de leurs pensées car ce sont leur
@@ -74,7 +74,7 @@ que dans quelques récits gravés sur les murs en ruines de cités
 perdues que la végétation a envahies et dont la chute remonte à
 bien avant l’apparition des elfes, à une époque où les dragons et les
 géants dirigeaient une terre où les insignifiantes races éphémères
-actuellement au pouvoir n’existaient pas encore.
+actuellement au pouvoir n’existaient pas encore. 
 
 La décrépitude qui a touché leurs royaumes est telle qu’aujourd’hui les humains un tant
 soit peu éduqués en savent sans doute plus que la plupart des cyclopes

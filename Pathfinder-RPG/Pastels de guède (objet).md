@@ -7,9 +7,9 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 60 po (1 bâtonnet), 300 po (trousse) ; **Poids** — (1 bâtonnet), 0,5 kg (trousse) ; **DD d'Artisanat (alchimie)** 30 (1 bâtonnet), 30 (trousse)
+{s:MCA}**Prix** 60 po (1 bâtonnet), 300 po (trousse) ; **Poids** — (1 bâtonnet), 0,5 kg (trousse) ; **DD d'Artisanat (alchimie)** 30 (1 bâtonnet), 30 (trousse)  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 *Trousse à pastels de guède.* Bien qu'associé à des pastels de guède, les ingrédients alchimiques de cette pâte bleue peuvent varier considérablement. Quand vous préparez un sort, vous pouvez réduire les [[composantes|composantes matérielles]] du sort en poussières et les mélanger à cette pâte pour ensuite l'utiliser pour peindre directement sur votre corps, ce qui vous permet de lancer le sort comme si vous bénéficiez des effets de [[Dispense de composantes matérielles]].  
   
 De plus, en peignant des motifs complexes représentant les [[composantes|composantes somatiques]] pendant 10 minutes, ce qui prend 10 minutes, et en réussissant un test d'[[Art de la magie]] contre un [[DD]] égal à 15 + le niveau du sort, vous pouvez également lancer le sort comme si vous bénéficiez d'[[Incantation statique]].  

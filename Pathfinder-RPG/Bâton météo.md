@@ -13,12 +13,12 @@ Categories:
 {s:APG}{s:BDTitre|Bâton météo|}
 **Aura** Multiples puissantes ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 84 066 po ; **Poids** 2,5 kg
 (((Description)))
-La surface sculptée de ce solide bâton de bois représente toujours une scène dotée de conditions météorologiques opposées à celles du temps actuel (humide par temps sec, sec par temps humide, etc.). Il permet de lancer les sorts suivants :
-• *[[bourrasque]]* (1 charge)
-• *[[contrôle du climat]]* (3 charges)
-• *[[mur de vent]]* (1 charge)
-• *[[nappe de brouillard]]* (1 charge)
-• *[[tempête de grêle]]* (2 charges)
+La surface sculptée de ce solide bâton de bois représente toujours une scène dotée de conditions météorologiques opposées à celles du temps actuel (humide par temps sec, sec par temps humide, etc.). Il permet de lancer les sorts suivants :  
+• *[[bourrasque]]* (1 charge)  
+• *[[contrôle du climat]]* (3 charges)  
+• *[[mur de vent]]* (1 charge)  
+• *[[nappe de brouillard]]* (1 charge)  
+• *[[tempête de grêle]]* (2 charges)  
 • *[[tempête de neige]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[bourrasque]]*, *[[contrôle du climat]]*, *[[mur de vent]]*, *[[nappe de brouillard]]*, *[[tempête de grêle]]*, *[[tempête de neige]]* ; **Coût** 42 033 po

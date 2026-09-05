@@ -6,11 +6,11 @@ Categories:
 - Don
 ---
 
-{s:MR}*La peau du personnage brille comme du métal poli.*
+{s:MR}*La peau du personnage brille comme du métal poli.* 
 
-**Conditions requises.** [[Sang angélique]], [[aasimar (race)|Aasimar]].
+**Conditions requises.** [[Sang angélique]], [[aasimar (race)|Aasimar]]. 
 
-**Avantages.** L’aasimar reçoit un malus de -2 à ses tests de [[Déguisement]] et de [[Discrétion]], mais gagne l’un des avantages suivants, en fonction de l’affinité métallique de sa chair (il doit en choisir une).
+**Avantages.** L’aasimar reçoit un malus de -2 à ses tests de [[Déguisement]] et de [[Discrétion]], mais gagne l’un des avantages suivants, en fonction de l’affinité métallique de sa chair (il doit en choisir une). 
 - *Acier.* Il gagne un bonus d’armure naturelle de +1 à la [[CA]], et ses coups à mains nues ou armes naturelles sont considérés comme étant en [[fer froid]] quand il s’agit de passer la [[réduction de dégâts]]. 
 - *Airain.* Il gagne une [[Résistance (capacité)|résistance de 5 au feu]] et un bonus de +2 à ses [[jds|jets de sauvegarde]] contre les effets de feu. 
 - *Argent.* Il gagne un bonus de +2 à ses jets de sauvegarde contre la paralysie, la pétrification et les poisons, ainsi ses coups à mains nues ou armes naturelles sont considérés comme étant en [[argent]] quand il s’agit de passer la [[réduction de dégâts]]. 

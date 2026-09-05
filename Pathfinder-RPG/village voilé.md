@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
-**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>;
+**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; 
 **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

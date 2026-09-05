@@ -137,11 +137,11 @@ Souvenez-vous que ces deux découvertes n'ont pas de prérequis de niveau, et ne
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### Alchimiste, Chirurgien et *souffle de vie* : Comment puis-je utiliser cet extrait pour ramener quelqu'un à la vie ?
-L'économie d'action normale empêche le <u>[[Chirurgien (alchimiste)|chirurgien]]</u> d'utiliser sa capacité de classe vaincre la mort (qui ajoute *[[souffle de vie]]* à son livre de formules).
-Normalement, saisir un extrait et le boire est une action simple.
-Normalement, faire boire une potion à une créature inconsciente est une action complexe (les règles ne précisent pas l'action nécessaire pour le faire sur une créature morte, mais c'est vraisemblablement la même).
-Puisque *souffle de vie* doit être utilisé jusqu'à 1 round après la mort pour ramener la cible à la vie, ces conditions d'action impliquent que le chirurgien ne peut jamais utiliser cet extrait pour ramener quelqu'un à la vie.
-Afin que vaincre la mort puisse remplir sa fonction (permettre à l'archétype de ressusciter les morts), elle sera modifiée pour permettre au chirurgien de saisir et de faire boire une infusion de *souffle de vie* à une autre créature par une action complexe.
+L'économie d'action normale empêche le <u>[[Chirurgien (alchimiste)|chirurgien]]</u> d'utiliser sa capacité de classe vaincre la mort (qui ajoute *[[souffle de vie]]* à son livre de formules).  
+Normalement, saisir un extrait et le boire est une action simple.  
+Normalement, faire boire une potion à une créature inconsciente est une action complexe (les règles ne précisent pas l'action nécessaire pour le faire sur une créature morte, mais c'est vraisemblablement la même).  
+Puisque *souffle de vie* doit être utilisé jusqu'à 1 round après la mort pour ramener la cible à la vie, ces conditions d'action impliquent que le chirurgien ne peut jamais utiliser cet extrait pour ramener quelqu'un à la vie.  
+Afin que vaincre la mort puisse remplir sa fonction (permettre à l'archétype de ressusciter les morts), elle sera modifiée pour permettre au chirurgien de saisir et de faire boire une infusion de *souffle de vie* à une autre créature par une action complexe.  
 Cela sera mis à jour dans la prochaine impression de l’*Art de la magie*.
 
 <div style="border-top:1px dashed #4b3124">
@@ -303,7 +303,7 @@ Non, et un personnage ne peut pas non plus utiliser ce don pour ajouter d'autres
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|26}
 #### Magus, Lame noire : Une lame noire peut-elle être détruite ?
-Oui.
+Oui.  
 L'immunité de l'arme à l'état préjudiciable [[brisé]] tant qu'elle a au moins 1 point dans sa réserve magique n'empêche que les effets spécifiques de l'état brisé. Une <u>[[Lamelié (magus)|lame noire]]</u> peut toujours subir des dégâts -et même être détruite- lorsqu'elle a 1 point ou plus dans sa réserve magique, elle ne subit simplement pas les malus imposés par l'état brisé.
 
 Le nom d'une capacité de classe (dans ce cas, « incassable ») est un texte d'ambiance, pas un texte de règles.
@@ -313,12 +313,12 @@ Le nom d'une capacité de classe (dans ce cas, « incassable ») est un texte d'
 #### Moine : Un moine qinggong peut-il sélectionner un second archétype si le personnage ne remplace pas les capacités modifiées par ce second archétype ?
 Oui. Cependant, l'autre archétype a la priorité sur les diverses capacités offertes à chaque niveau, et le personnage ne peut pas retarder l'obtention d'une capacité que l'autre archétype remplace ; il doit laisser le second archétype remplacer la capacité prévue au niveau de classe prévu.
 
-Par exemple, l'archétype [[Moine de la main qui guérit (moine)|moine de la main qui guérit]] remplace
-plénitude physique (niveau 7)
-corps de diamant (niveau 11)
-paume vibratoire (niveau 15)
-perception de l'être (niveau 20).
-Un <u>[[Moine qinggong (moine)|moine qinggong]]</u> qui souhaite également choisir l'archétype moine de la main qui guérit doit laisser l'archétype de la main qui guérit remplacer chacune de ces quatre capacités aux niveaux prévus. Le moine qinggong est toujours libre de remplacer n'importe quelle capacité de moine standard aux autres niveaux listés dans l'archétype moine qinggong (chute ralentie au niveau 4, sauts puissants au niveau 5, etc), tant que sélectionner ces capacités n'interfère pas avec l'obtention des capacités de moine de la main qui guérit aux niveaux prévus.
+Par exemple, l'archétype [[Moine de la main qui guérit (moine)|moine de la main qui guérit]] remplace  
+plénitude physique (niveau 7)  
+corps de diamant (niveau 11)  
+paume vibratoire (niveau 15)  
+perception de l'être (niveau 20).  
+Un <u>[[Moine qinggong (moine)|moine qinggong]]</u> qui souhaite également choisir l'archétype moine de la main qui guérit doit laisser l'archétype de la main qui guérit remplacer chacune de ces quatre capacités aux niveaux prévus. Le moine qinggong est toujours libre de remplacer n'importe quelle capacité de moine standard aux autres niveaux listés dans l'archétype moine qinggong (chute ralentie au niveau 4, sauts puissants au niveau 5, etc), tant que sélectionner ces capacités n'interfère pas avec l'obtention des capacités de moine de la main qui guérit aux niveaux prévus.  
 Notez que si le second archétype remplace une capacité de moine standard, le personnage ne peut pas sélectionner la capacité remplacée à un niveau de moine ultérieur. Par exemple, le moine qinggong/de la main qui guérit ne peut jamais sélectionner plénitude physique, même après le niveau 7. Dans les faits, le personnage a sélectionné plénitude physique au niveau 7 et l'a immédiatement remplacé par une capacité de la main qui guérit ; étant donné que l'archétype qinggong ne permet à un personnage de sélectionner une capacité plus tard que s'il a « choisit un pouvoir de ki différent à la place du pouvoir habituel » (ce qui n'est pas arrivé), cette option n'est pas accessible à ce personnage.
 
 <div style="border-top:1px dashed #4b3124">
@@ -331,7 +331,7 @@ Mise à jour : Page 68, révélation arme de bois, supprimez la phrase « cette 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|29}
 #### Ensorceleur : Un ensorceleur de lignage sage (page 42) utilise-t-il son Int ou son Cha pour déterminer son nombre d'utilisations quotidiennes de carreau magique ?
-Un ensorceleur <u>[[Lignage Profane|sage]]</u> utilise son Int pour déterminer le nombre d'utilisations quotidiennes de ses pouvoirs de lignage, ce qui inclut carreau magique. Ainsi, que le carreau magique indique l'Int ou le Cha, l'ensorceleur sage doit se baser sur son Int.
+Un ensorceleur <u>[[Lignage Profane|sage]]</u> utilise son Int pour déterminer le nombre d'utilisations quotidiennes de ses pouvoirs de lignage, ce qui inclut carreau magique. Ainsi, que le carreau magique indique l'Int ou le Cha, l'ensorceleur sage doit se baser sur son Int.  
 Le pouvoir de lignage indique le Cha parce qu'il s'agit de la terminologie standard pour les pouvoirs de lignage (car tous les autres ensorceleurs se basent sur leur Cha), et parce qu'il existe peut-être un moyen pour un non-ensorceleur d'avoir accès à ce pouvoir de lignage, auquel cas il devrait être basé sur le Cha (comme les autres pouvoirs de lignage d'ensorceleur) et non l'Int.
 
 <div style="border-top:1px dashed #4b3124">
@@ -437,8 +437,8 @@ Mise à jour : Page 155, Maîtrise du critique de plaie, retirez « Don pour les
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|41}
 #### --Froide frappe de glace (page 228): Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?
-Les Composantes devraient être : V, G.
-Le Temps d’incantation est 1 action rapide.
+Les Composantes devraient être : V, G.  
+Le Temps d’incantation est 1 action rapide.  
 La Portée devrait être 9 m et la Zone d’effet devrait être une ligne de 9 m. Toutes les références à un « cône » dans la description du sort devraient indiquer « ligne ».
 
 Mise à jour : Page 228, <u>*[[froide frappe de glace]]*</u>, après Temps d’incantation, ajoutez une ligne avec « Composantes V, G ». Remplacez la Portée par « 9 m ». Remplacez la Zone d’effet par « ligne de 9 m ». Remplacez les deux itérations de « cône » dans la description du sort par « ligne ».

@@ -10,13 +10,13 @@ Categories:
 {s:BDTitre|Robe d’ossements|}
 **Aura** [[Nécromancie]] <nowiki>[[</nowiki>Mal<nowiki>]]</nowiki> modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 2 400 po ; **Poids** 0,5 kg
 (((Description)))
-Cet objet sinistre est l’équivalent d’une *[[robe de camelot]]* pour les nécromanciens. Elle n’apparaît pas remarquable à première vue, mais une personne l’enfilant remarque qu’elle est décorée de silhouettes mortuaires représentant des créatures [[type mort-vivant|mortes-vivantes]]. Seul le porteur de la robe peut voir ces silhouettes et reconnaître les créatures qu’elles peuvent devenir une fois détachées. Détacher une silhouette la transforme en effet en une créature [[type mort-vivant|morte-vivante]] (voir la liste ci-dessous). Cette créature n’est pas sous les ordres du porteur, mais elle peut être ensuite commandée, repoussée, renvoyée ou détruite. Une robe d’ossements nouvellement créée contient deux silhouettes de chacune des créatures suivantes (voir les archétypes "[[Squelette, archétype|Squelette]]" et "[[Zombi, archétype|Zombi]]" dans le Bestiaire Pathfinder) :
-• [[Gobelin]] squelette (taille P)
-• [[Humain]] squelette
-• [[Loup]] squelette
-• [[Cheval|Cheval lourd]] squelette
-• [[Gobelin]] zombi rapide
-• [[Humain]] zombi
+Cet objet sinistre est l’équivalent d’une *[[robe de camelot]]* pour les nécromanciens. Elle n’apparaît pas remarquable à première vue, mais une personne l’enfilant remarque qu’elle est décorée de silhouettes mortuaires représentant des créatures [[type mort-vivant|mortes-vivantes]]. Seul le porteur de la robe peut voir ces silhouettes et reconnaître les créatures qu’elles peuvent devenir une fois détachées. Détacher une silhouette la transforme en effet en une créature [[type mort-vivant|morte-vivante]] (voir la liste ci-dessous). Cette créature n’est pas sous les ordres du porteur, mais elle peut être ensuite commandée, repoussée, renvoyée ou détruite. Une robe d’ossements nouvellement créée contient deux silhouettes de chacune des créatures suivantes (voir les archétypes "[[Squelette, archétype|Squelette]]" et "[[Zombi, archétype|Zombi]]" dans le Bestiaire Pathfinder) :  
+• [[Gobelin]] squelette (taille P)  
+• [[Humain]] squelette  
+• [[Loup]] squelette  
+• [[Cheval|Cheval lourd]] squelette  
+• [[Gobelin]] zombi rapide  
+• [[Humain]] zombi  
 • [[Ogre]] zombi épidémique
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation des morts]]* ; **Coût** 1 200 po

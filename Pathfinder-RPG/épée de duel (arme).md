@@ -7,8 +7,8 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** —
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:CCMI}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** —  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Ces épées légèrement incurvées mesurent tout juste un mètre. On peut les utiliser comme [[arme de guerre]] (auquel cas, elles fonctionnent comme des [[épée longue (arme)|épées longues]]) mais un personnage qui possède [[Maniement dune arme exotique|Maniement d'une arme exotique]] (épée de duel) peut utiliser le don [[Attaque en finesse]] pour appliquer son modificateur de [[Dextérité]] aux [[jet dattaque|jets d’attaque]] au lieu du modificateur de [[Force]] quand il se bat avec une épée de duel à sa taille, même si ce n’est pas une [[arme légère]]. Il peut manier cette arme à deux mains pour appliquer 1,5 fois le modificateur de Force.

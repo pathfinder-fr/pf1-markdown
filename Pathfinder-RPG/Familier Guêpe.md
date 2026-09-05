@@ -14,11 +14,11 @@ Categories:
 
 **Conditions.** Alignement Chaotique Neutre, suivant de la [[Golarion.Calistria|déesse de la vengeance]]
 
-**Avantage.** Le personnage obtient un familier comme avec la capacité [[Magicien#PACTEMAGIQUE|pacte magique]], en utilisant son niveau de personnage comme niveau de [[magicien]]. Le familier est une guêpe de la taille d'un chat d'alignement CN qui est loyale au personnage. Elle utilise les statistiques d'un [[scorpion vert]] mais avec une vitesse de déplacement de 1,5 m, une vitesse de vol de 12 m (moyenne) aucun bonus d'[[Escalade]] et de [[Vol]] de +7.
+**Avantage.** Le personnage obtient un familier comme avec la capacité [[Magicien#PACTEMAGIQUE|pacte magique]], en utilisant son niveau de personnage comme niveau de [[magicien]]. Le familier est une guêpe de la taille d'un chat d'alignement CN qui est loyale au personnage. Elle utilise les statistiques d'un [[scorpion vert]] mais avec une vitesse de déplacement de 1,5 m, une vitesse de vol de 12 m (moyenne) aucun bonus d'[[Escalade]] et de [[Vol]] de +7. 
 
 Si le personnage peut obtenir un familier par d'autres moyens (tel que le [[Magicien#PACTEMAGIQUE|pacte magique]] par exemple) et qu'il est au moins de niveau 5, elle utilise alors les statistiques d'un [[diablotin]], mais remplacer son pouvoir magique *[[invisibilité]]* par celui de *[[désir anormal]]* ([[DD]] 14) utilisable trois fois par jour. Un personnage ne peut avoir qu'un seul familier.
 
-Si le personnage viole grossièrement le code de conduite de la déesse de la vengeance (une de la taille de celle qui provoquerait la perte des capacités d'un prêtre de cette déesse), son familier se retourne contre lui et l'attaque jusqu'à la mort.
+Si le personnage viole grossièrement le code de conduite de la déesse de la vengeance (une de la taille de celle qui provoquerait la perte des capacités d'un prêtre de cette déesse), son familier se retourne contre lui et l'attaque jusqu'à la mort. 
 
 Pour regagner un familier, le personnage doit demander pardon pour ses méfaits et recevoir le sort *[[pénitence]]* et payer pour que son familier soit ramené à la vie. Si son familier meurt ou est perdu par d'autres moyens, il peut suivre les règles normales de remplacement des familiers.
 
@@ -30,7 +30,7 @@ The goddess of lust, revenge, and trickery has granted you a living sting to sho
 
 Prerequisites: Chaotic neutral alignment, worshiper of ~~Calistria~~.
 
-Benefit: You gain a familiar as per the arcane bond class feature, using your character level as your wizard level. The familiar is a cat-sized, chaotic neutral wasp loyal to you. Use the statistics for a greensting scorpion familiar (Pathfinder RPG Ultimate Magic 188), but give it a base speed of 10 feet, a fly speed of 40 feet (average), no Climb bonus, and Fly +7.
+Benefit: You gain a familiar as per the arcane bond class feature, using your character level as your wizard level. The familiar is a cat-sized, chaotic neutral wasp loyal to you. Use the statistics for a greensting scorpion familiar (Pathfinder RPG Ultimate Magic 188), but give it a base speed of 10 feet, a fly speed of 40 feet (average), no Climb bonus, and Fly +7. 
 
 If you have the ability to gain a familiar through other means (such as the arcane bond class feature), and you are at least 5th level, instead use the statistics for an imp, but replace the invisibility spell-like ability with an
 unnatural lust (DC 14) spell-like ability usable three times per day. You can have only one familiar.

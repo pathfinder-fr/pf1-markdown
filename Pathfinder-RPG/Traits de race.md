@@ -6,867 +6,867 @@ LastModified: 2025-01-09 17:49
 
 {s:MenuTraits}*Les traits de race sont attachés à des races ou des ethnies spécifiques. Pour pouvoir choisir un trait de race, votre personnage doit appartenir à la race ou à l’ethnie indiquée. Voici quelques exemples de traits pour chacune des races de PJ.*
 
----
-{s:MR}{s:Reference|AFFLICTIONANIMALE}**Affliction animale**
-*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].
+<hr />
+{s:MR}{s:Reference|AFFLICTIONANIMALE}**Affliction animale**  
+*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].  
 Le personnage a toujours eu des affinités avec les prédateurs et les rumeurs qui courent au sein de son clan suggèrent que, quelque part dans son arbre généalogique, un de ses ancêtres fut affligé de lycanthropie. Que le personnage partage ou non cette affliction, il est souvent motivé par des instincts animaux. Il gagne un bonus de trait de +1 à ses tests de [[Dressage]] et d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]].
 
----
-{s:cs}{s:ISR}{s:Reference|ALLEGENCESINISTRE}**Allégence sinistre**
-*Restriction(s):* [[Fetchelin (race)|Fetchelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ALLEGENCESINISTRE}**Allégence sinistre**  
+*Restriction(s):* [[Fetchelin (race)|Fetchelin]].  
 Le personnage a grandit dans une région où les fetchelins servent des forces obscures. Il bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]] pour transmettre des messages secret et pour insinuer qu'il sert une cause sinistre plus puissante, une figure d'autorité maléfique, ou un gouvernement de l'ombre. Le personnage gagne également un bonus de trait de +2 aux tests de [[Diplomatie]] lorsqu'il interagit avec de telles entités.
 
----
-{s:MR}{s:Reference|AMATEURDEMAGIEPROFANE}**Amateur de magie profane**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:MR}{s:Reference|AMATEURDEMAGIEPROFANE}**Amateur de magie profane**  
+*Restriction(s):* [[Elfe]].  
 Même si ses études en magie remontent à plusieurs dizaines d’années, le personnage se rappelle toujours de ses quelques tours de magie préférés. Il choisit un sort profane de niveau 0. Il peut lancer ce sort une fois par jour comme un [[Pouvoirs magiques (capacité)|pouvoir magique]]. Le [[NLS|niveau de lanceur de sorts]] de ce pouvoir est égal au plus haut niveau du personnage parmi ses classes de lanceur de sorts ; si le personnage ne possède aucun niveau de lanceur de sorts, il fonctionne comme un pouvoir au NLS de 1. Le DD du pouvoir est égal à l’[[Intelligence]] ou au [[Charisme]] (le personnage choisit la caractéristique en même temps que le trait).
 
----
-{s:APG}{s:GC}{s:Reference|AMIDESANIMAUX}**Ami des animaux**
-*Restriction(s):* [[Gnome]].
+<hr />
+{s:APG}{s:GC}{s:Reference|AMIDESANIMAUX}**Ami des animaux**  
+*Restriction(s):* [[Gnome]].  
 Depuis longtemps, le personnage est un ami des animaux et il se sent plus en sécurité lorsqu’il est entouré d’animaux. Il gagne un bonus de trait de +1 aux jets de [[Volonté]] tant qu’un animal (de taille TP au moins et avec une attitude indifférente ou meilleure envers lui) se trouve à 9 m ou moins de lui et [[Dressage]] est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|AMIDESANIMAUX}**Ami des animaux**
-*Restriction(s):* [[Humain]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|AMIDESANIMAUX}**Ami des animaux**  
+*Restriction(s):* [[Humain]].  
 Le personnage a grandit à proximité des animaux et se connecte instinctivement à eux. Il bénéficie d'un bonus de +1 aux tests de [[Dressage]] et d'[[Équitation]], et l'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|AMIDESDRAGONS}**Ami des dragons**
-*Restriction(s):* Triaxian.
+<hr />
+{s:cs}{s:ISR}{s:Reference|AMIDESDRAGONS}**Ami des dragons**  
+*Restriction(s):* Triaxian.  
 Le personnage sait comment les dragons se déplacent et comment ils percoivent le langage corporel. Il bénéficie d'un bonus de trait de +1 à son [[DMD]] contre les [[type Dragon|dragons]]. Chaque fois qu'il rencontre un dragon particulier pour la première fois, le personnage peut effectuer un test de [[Diplomatie]] pour augmenter son attitude envers lui d'une catégorie au maximum par une [[action complexe]] et tant qu'il n'a pas agit de façon hostile à son encontre.
 
----
-{s:RSE}{s:APG}{s:GC}{s:Reference|APPRENTIRATE}**Apprenti raté**
-*Restriction(s):* [[Demi-elfe]].
+<hr />
+{s:RSE}{s:APG}{s:GC}{s:Reference|APPRENTIRATE}**Apprenti raté**  
+*Restriction(s):* [[Demi-elfe]].  
 Lorsqu’il était enfant, les parents du personnage l’ont envoyé en tant qu’apprenti dans la lointaine tour d’un magicien pour qu’il y apprenne les arts magiques. Malheureusement, il n’avait aucun talent pour la magie. Il a toutefois appris pas mal de choses au sujet du fonctionnement des sorts et de la manière d’y résister. Il gagne un bonus de trait de +1 aux [[jds|jets de sauvegarde]] contre les sorts profanes.
 
----
-{s:cs}{s:ISR}{s:Reference|ARCANESDEMAGAAMBYA}**Arcanes de Magaambya**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ARCANESDEMAGAAMBYA}**Arcanes de Magaambya**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].  
 Les études du personnage concernant les traditions magiques magaambyannes lui permettent d'ajouter un sort du [[registre]] du Bien provenant de la [[Liste des sorts de druides|liste des druides]] ou [[Liste des sorts de prêtres|des prêtres]] à la liste des sorts d'une classe de lanceur de sorts profanes de son choix, au même niveau où il apparaît sur la liste des druides ou des prêtres. Le sort doit être choisit lorsque le personnage obtient ce trait.
 
----
-{s:cs}{s:ISR}{s:Reference|ARCANESPERSISTANTES}**Arcanes persistantes**
-*Restriction(s):* [[Humain]] — Azlant.
+<hr />
+{s:cs}{s:ISR}{s:Reference|ARCANESPERSISTANTES}**Arcanes persistantes**  
+*Restriction(s):* [[Humain]] — Azlant.  
 Le personnage a étudié les sorts persistants de l'ancien Azlant. Il considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 afin de déterminer la durée de ses sorts.
 
----
-{s:cs}{s:ISR}{s:Reference|ARMURIER}**Armurier**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ARMURIER}**Armurier**  
+*Restriction(s):* [[Nain]].  
 Le personnage a vécu parmi les alchimistes nains qui ont travaillé sur la technologie des armes à feu au fort de Dongun. Il bénéficie d'un bonus de trait de +2 aux tests d'[[Artisanat]] impliquant des armes à feu, des explosifs et des armes alchimiques qui infligent des dégâts de feu.
 
----
-{s:MR}{s:Reference|ARPENTEURDESGLACES}**Arpenteur des glaces**
-*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].
+<hr />
+{s:MR}{s:Reference|ARPENTEURDESGLACES}**Arpenteur des glaces**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].  
 Le personnage a passé des années à sillonner la toundra glacée du nord gelé et s’est habitué à l’engourdissement qu’il provoque. Il gagne un bonus de trait de +1 à ses [[jds|jets de sauvegarde]] contre les attaques infligeant des dégâts de froid. De plus, il peut ignorer les malus d’[[Acrobaties]] sur la glace et peut s’y déplacer à sa vitesse normale.
 
----
-{s:RSE}{s:Reference|ARTISTEDILETTANTE}**Artiste dilettante**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:RSE}{s:Reference|ARTISTEDILETTANTE}**Artiste dilettante**  
+*Restriction(s):* [[Elfe]].  
 Le personnage utilise son talent artistique pour s’ouvrir les portes de la bonne société, influencer les gens et accéder aux strates les plus hautes. Il gagne un bonus de trait de +1 aux tests de tests de [[Représentation]] d’une catégorie spécifique et aux tests de [[Diplomatie]]. Il considère désormais l’une de ces compétences (au choix) comme une compétence de classe.
 
----
-{s:cs}{s:ISR}{s:Reference|AUTORITAIRE}**Autoritaire**
-*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|AUTORITAIRE}**Autoritaire**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].  
 La famille du personnage lui a appris qu'il méritait toujours le respect. Il bénéficie d'un bonus de trait de +1 aux tests d'[[Intimidation]], et ajoute un bonus de trait de +1 au [[DD]] des [[jds|jets de sauvegarde]] de tous les sorts de [[branche coercition|coercition]] [[registre|dépendant du langage]] qu'il lance.
 
----
-{s:MR}{s:Reference|AVOCATDESINVOLTE}**Avocat désinvolte**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:MR}{s:Reference|AVOCATDESINVOLTE}**Avocat désinvolte**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 Le personnage a grandi dans un système bureaucratique où la loi règne en maître ; néanmoins, cela ne l’a jamais empêché d’insérer des failles dans les contrats les mieux ficelés. Il gagne un bonus de trait de +2 à ses tests de [[Linguistique]] pour créer des faux documents.
 
----
-{s:RSE}{s:Reference|BARDEENHERBE}**Barde en herbe**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].
+<hr />
+{s:RSE}{s:Reference|BARDEENHERBE}**Barde en herbe**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].  
 Le personnage a passé ses jeunes années à errer dans les campus ouverts à tous de l’académie bardique de l’Empire décadent et du collège bardique de sa capitale. Il a écouté des musiciens et des chanteurs talentueux et a toujours rêvé de cette carrière. Il gagne un bonus de trait de +1 aux tests de [[Représentation]] d’une catégorie spécifique et un bonus de trait de +2 aux tests de [[Connaissances]] (folklore local) pour tout ce qui concerne la scène musicale de la capitale de l’Empire décadent.
 
----
-{s:RSE}{s:APG}{s:GC}{s:Reference|BIENINFORME}**Bien informé**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:RSE}{s:APG}{s:GC}{s:Reference|BIENINFORME}**Bien informé**  
+*Restriction(s):* [[Halfelin]].  
 Le personnage met un point d’honneur à connaître tous ceux qui l’entourent et à avoir de nombreuses relations. Il fréquente les meilleurs tavernes, se rend à tous les événements importants et aide gracieusement tous ceux qui en ont besoin. Grâce à cela, il gagne un bonus de trait de +1 aux tests de [[Diplomatie]] pour recueillir des informations et aux tests de [[Connaissances]] (folklore local). Une de ces compétences (au choix du joueur) est toujours une compétence de classe pour lui.
 
----
-{s:MR}{s:Reference|BORGNE}**Borgne**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|BORGNE}**Borgne**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage n’a plus qu’un oeil valide, mais il est particulièrement perçant. Il bénéficie d’un bonus de trait de +2 à tous les tests de [[Perception]] qui impliquent la vue.
 
----
-{s:cs}{s:ISR}{s:Reference|BRûLEURDETYRAN}**Brûleur de tyran**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|BRûLEURDETYRAN}**Brûleur de tyran**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Le personnage a été forcé à servir des [[Hobgobelin (race)|hobgobelins]] cruels à un moment de sa vie, à sa plus grande humiliation et frustration, et les souvenirs de cette période ont inspiré une rage qui le renforce. Contre les créatures de sous-type [[sous-type gobelinoïde|gobelinoïde]], le personnage bénéficie d'un bonus de trait de +1 aux tests de [[manœuvres offensives|manœuvre offensive]] ainsi qu'à son [[DMD]].
 
----
-{s:RSE}{s:APG}{s:GC}{s:Reference|BRUTE}**Brute**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:RSE}{s:APG}{s:GC}{s:Reference|BRUTE}**Brute**  
+*Restriction(s):* [[Demi-orque]].  
 Le personnage a travaillé pour un baron du crime, peut-être en tant que garde ou qu’homme de main pour les basses besognes. Il sait comment effrayer les gens. Il gagne un bonus de trait de +1 aux tests d'[[Intimidation]] et Intimidation est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|BUSARDAERIEN}**Busard aérien**
-*Restriction(s):* [[Strix (race)|Strix]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|BUSARDAERIEN}**Busard aérien**  
+*Restriction(s):* [[Strix (race)|Strix]].  
 Le personnage est habitué à combattre des ennemis qui ne peuvent pas voler. Tant qu'il vole, le personnage bénéficie d'un bonus de trait de +1 à la [[CA]] contre les attaques au corps à corps des créatures au sol.
 
----
-{s:cs}{s:ISR}{s:Reference|CHAMPIONFAVORI}**Champion favori**
-*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|CHAMPIONFAVORI}**Champion favori**  
+*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].  
 Les présages des esprits ont révélé que le personnage deviendrait un grand champion contre les ennemis de sa tribu. Une fois par jour par une [[action immédiate]] lorsqu'il rate un test de [[Manœuvres offensives|manœuvre offensive]], le personnage peut le relancer. Il doit conserver le second résultat, même s'il est pire.
 
----
-{s:MCA}{s:Reference|CHANTESPRIT}**Chantesprit**
-*Restriction(s):* [[Humain]] — Membre de la tribu esclavagiste du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:MCA}{s:Reference|CHANTESPRIT}**Chantesprit**  
+*Restriction(s):* [[Humain]] — Membre de la tribu esclavagiste du [[Golarion.Mwangi|Mwangi]].  
 Les voix des esprits des ancêtres du personnage chantent le monde qui l’entoure. Une fois par jour, il peut agir lors d’un [[round de surprise]] même s’il n’est pas conscient de la présence de ses agresseurs. Il peut utiliser cette action uniquement pour commencer une [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] ou un [[Scalde#CHANTDERAGE|chant de rage]] et il est tout de même considéré comme [[pris au dépourvu]] tant qu’il n’a pas encore agit lors du premier round de combat ordinaire.
 
----
-{s:MR}{s:Reference|CHANTSGROSSIERS}**Chants grossiers**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|CHANTSGROSSIERS}**Chants grossiers**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Dans le cas où un adversaire peut les entendre et les comprendre, les paroles des chants entonnés par le personnage sont si insultantes qu’il bénéficie d’un bonus de trait de +2 à tous ses tests de [[Représentation]] (chant) qu’il considère désormais comme une compétence de classe.
 
----
-{s:MR}{s:Reference|CHEVAUCHEURDEBETES}**Chevaucheur de bêtes**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|CHEVAUCHEURDEBETES}**Chevaucheur de bêtes**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage a un don particulier pour soumettre les animaux à sa [[Volonté]], même s’il ne connaît pas les méthodes de dressage civilisées. Il gagne un bonus de trait de +2 à ses tests d’[[Équitation]] mais, s’il est désarçonné contre sa volonté lors d’un combat, sa monture l’attaquera au mieux de ses possibilités.
 
----
-{s:APG}{s:GC}{s:Reference|COMBATTANTDELALIBERTE}**Combattant de la liberté**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:APG}{s:GC}{s:Reference|COMBATTANTDELALIBERTE}**Combattant de la liberté**  
+*Restriction(s):* [[Halfelin]].  
 Les parents du personnage ont permis à des esclaves en fuite de se cacher chez eux et les histoires que ces derniers ont raconté au personnage lui ont inspiré une profonde haine de l’esclavage. Il gagne un bonus de trait de +1 sur tous les tests de compétence et [[jet dattaque|jets d’attaque]] effectués lorsqu’il tente d’échapper à la capture ou d’aider un esclave à s’enfuir et [[Évasion]] est toujours une compétence de classe pour lui.
 
----
-{s:APG}{s:MR}{s:GC}{s:Reference|COMBATTANTDESTUNNELS}{s:Reference|GUERRIERDESTUNNELS}**Combattant des tunnels/Guerrier des tunnels**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:APG}{s:MR}{s:GC}{s:Reference|COMBATTANTDESTUNNELS}{s:Reference|GUERRIERDESTUNNELS}**Combattant des tunnels/Guerrier des tunnels**  
+*Restriction(s):* [[Nain]].  
 Le personnage se sent comme chez lui dans les grottes et les tunnels. Lorsqu’il se trouve sous la surface, il gagne un bonus de trait de +2 aux tests d’[[initiative]] et un bonus de trait de +1 aux dégâts des armes en cas de [[coup critique]] (ce bonus est multiplié).
 
----
-{s:cs}{s:ISR}{s:Reference|COMBATTANTFOUGUEUX}**Combattant fougueux**
-*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|COMBATTANTFOUGUEUX}**Combattant fougueux**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].  
 Le personnage se déplace avec assurance face au danger. Une fois par jour par une [[action rapide]], il peut choisir un adversaire. Lui et sa monture (le cas échéant) ne provoquent pas d'[[AO|attaques d'opportunité]] de la part de cet adversaire lorsqu'ils se déplacent dans ou hors de son [[espace contrôlé]].
 
----
-{s:MR}{s:Reference|COMBATTANTVICIEUX}**Combattant vicieux**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|COMBATTANTVICIEUX}**Combattant vicieux**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage a appris à combattre en utilisant les passes d’armes les plus vicieuses. Il bénéficie d’un bonus de trait de +3 à toutes ses tentatives de [[feinte]] en combat avec la compétence de [[Bluff]].
 
----
-{s:cs}{s:ISR}{s:Reference|COMMERCANTFLUVIAL}**Commerçant fluvial**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|COMMERCANTFLUVIAL}**Commerçant fluvial**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].  
 Le personnage a appris à naviguer sur les rivières et les marchés avec la même aisance. Il bénéficie d'un bonus de +1 aux tests d'[[Estimation]] et de [[Natation]], et l'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:RSE}{s:Reference|COMPORTEMENTAUTORITAIRE}**Comportement autoritaire**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:RSE}{s:Reference|COMPORTEMENTAUTORITAIRE}**Comportement autoritaire**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 En tant qu’orgueilleux natif de l’Empire diabolique, le personnage est persuadé que les membres des autres races, inférieures, lui obéiront rapidement. Il gagne un bonus de trait de +3 à ses tests d’[[Intimidation]] contre les membres des races non-humanoïdes.
 
----
-{s:cs}{s:ISR}{s:Reference|CONTACTCELESTE}**Contact céleste**
-*Restriction(s):* [[Aasimar (race)|Aasimar]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|CONTACTCELESTE}**Contact céleste**  
+*Restriction(s):* [[Aasimar (race)|Aasimar]].  
 Avoir été témoin de l'intervention céleste de son ancêtre ou d'un être similaire a inspiré au personnage le pouvoir du Bien. Il considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 lorsqu'il lance des sorts du [[registre]] du Bien.
 
----
-{s:cs}{s:ISR}{s:Reference|CONTACTDUCAMPANULE}**Contact du Campanule**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|CONTACTDUCAMPANULE}**Contact du Campanule**  
+*Restriction(s):* [[Halfelin]].  
 Avant qu'il ne soit suffisamment âgé pour être un membre du Réseau Campanule, le personnage a laissé traîner une oreille en quête d'informations utiles aux libérateurs d'esclaves. Il bénéficie d'un bonus de trait de +1 aux tests de [[Perception]], aux tests de [[Psychologie]] pour intercepter des messages secrets, et aux tests de [[Bluff]] pour transmettre des messages secrets.
 
----
-{s:cs}{s:ISR}{s:Reference|CORPSDISCIPLINE}**Corps discipliné**
-*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|CORPSDISCIPLINE}**Corps discipliné**  
+*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].  
 Le personnage privilégie la maîtrise de son esprit au détriment du plein potentiel de son corps. Une fois par jour, il peut utiliser son modificateur de [[Sagesse]] à la place de son modificateur de [[Force]] ou de [[Dextérité]] sur un [[jet dattaque|jet d'attaque]], un test de [[Manœuvres offensives|manœuvre offensive]], un test de [[Compétences|compétence]] basé sur la Force ou la Dextérité, un test de Force, un test de Dextérité, ou un jet de [[Réflexes]]. Vous devez déclarer l'utilisation de ce trait avant de lancer le dé.
 
----
-{s:cs}{s:ISR}{s:Reference|CRAINT}**Craint**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|CRAINT}**Craint**  
+*Restriction(s):* [[Demi-orque]].  
 Choisissez les humains ou les orques. Le personnage a appris depuis ses premières interactions avec cette race que certains de ses représentants le considèrent instinctivement comme une menace à cause de son hybridation, et que ces individus ne peuvent pas être rassurés facilement. Contre les adversaires de la race choisie, le personnage bénéficie d'un bonus de trait de +1 aux [[AO|attaques d'opportunité]] ainsi qu'à son [[DMD]].
 
----
-{s:MR}{s:Reference|CRUELPOURLEPLAISIR}**Cruel pour le plaisir**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|CRUELPOURLEPLAISIR}**Cruel pour le plaisir**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage se délecte de chaque coup vicieux infligé avec ses armes cruelles. À chaque fois qu’il bénéficie d’un bonus de moral sur ses [[jet dattaque|jets d’attaque]]s avec ses armes, il bénéficie également d’un bonus de trait de +1 à ses [[Valeurs de combat#DEGATS|jets de dégâts]].
 
----
-{s:MR}{s:Reference|DEFENSESPROEMINENTES}**Défenses proéminentes**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|DEFENSESPROEMINENTES}**Défenses proéminentes**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Des défenses énormes et pointues garnissent la bouche du personnage. Il peut effectuer une attaque de morsure (1d4 dégâts pour les personnages de taille M). Si elle est utilisée lors d’une action d’[[attaque à outrance]], l’attaque de morsure est effectuée avec le [[BBA]] entier du personnage -5.
 
----
-{s:APG}{s:GC}{s:Reference|DELAISSE}{s:Reference|ACCABLE}**Délaissé/Accablé**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:APG}{s:GC}{s:Reference|DELAISSE}{s:Reference|ACCABLE}**Délaissé/Accablé**  
+*Restriction(s):* [[Elfe]].  
 Vous avez vécu la majeure partie de votre vie en dehors de la société elfique traditionnelle. Vous savez que le monde peut être un endroit cruel et dangereux, sans pitié pour les faibles. Vous gagnez un bonus de trait de +1 aux jets de [[Vigueur]].
 
----
-{s:cs}{s:ISR}{s:Reference|DERANGEANT}**Dérangeant**
-*Restriction(s):* [[Changelin (race)|Changelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|DERANGEANT}**Dérangeant**  
+*Restriction(s):* [[Changelin (race)|Changelin]].  
 L'allure du personnage perturbe les autres. Il bénéficie d'un bonus de trait de +1 aux tests d'[[Intimidation]], qui devient une compétence de classe pour lui. Il bénéficie d'un bonus de trait de +2 aux tests de [[Diplomatie]] lorsqu'il interagit avec des guenaudes.
 
----
-{s:cs}{s:ISR}{s:Reference|DIFFICILEAPLAQUER}**Difficile à plaquer**
-*Restriction(s):* [[Tieffelin (race)|Tieffelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|DIFFICILEAPLAQUER}**Difficile à plaquer**  
+*Restriction(s):* [[Tieffelin (race)|Tieffelin]].  
 Seuls les dangers plus pressants empêchaient ses persécuteurs de tourmenter le personnage. Il bénéficie d'un bonus de trait de +2 à la [[CA]] contre les [[AO|attaques d'opportunité]] portées par des adversaires que le personnage [[prise en tenaille|prend en tenaille]] ou qui sont privés de leur bonus de [[Dextérité]] à la CA contre lui.
 
----
-{s:MR}{s:Reference|DISTRACTIONAVANTAGEUSE}**Distraction avantageuse**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|DISTRACTIONAVANTAGEUSE}**Distraction avantageuse**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Comme la plupart des gobelins, le personnage se laisse facilement distraire. Mais à la différence de ses semblables, il le fait souvent au bon moment, surtout lorsqu’il s’agit d’éviter la douleur. Une fois par jour et par une [[action rapide]], le personnage peut momentanément se laisser distraire pendant un combat, ce qui lui permet, par exemple, de se pencher au bon moment pour ramasser un champignon venimeux et éviter ainsi de se faire décapiter, ou de sauter derrière un arbre pour lécher son écorce et éviter sans le savoir de se faire tirer dessus. Lorsqu’il active cette capacité, le personnage gagne un bonus d’esquive de +2 sur sa [[CA]] pendant 1 [[round]].
 
----
-{s:cs}{s:ISR}{s:Reference|DRESSEURDEVERMINE}**Dresseur de vermine**
-*Restriction(s):* [[Duergar (race)|Duergar]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|DRESSEURDEVERMINE}**Dresseur de vermine**  
+*Restriction(s):* [[Duergar (race)|Duergar]].  
 Le personnage a été formé à l'art subtile de l'aservissement de la vermine, et peut entraîner les [[type Vermine|vermines]] dénuées d'intelligence avec la compétence [[Dressage]] comme s'il s'agissait d'[[type Animal|animaux]] avec une valeur d'[[Intelligence]] de 1.
 
----
-{s:MR}{s:Reference|ELASTIQUE}**Élastique**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|ELASTIQUE}**Élastique**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Les os, la chair et la peau du personnage sont un peu plus élastiques que ceux de la plupart des gobelins. Lorsque le personnage chute, il a tendance à « rebondir » pour amortir sa chute. Lorsqu’il subit des dégâts de chute, la première tranche de 1d6 points de dégâts létaux engendrés par une chute est automatiquement considérée comme infligeant des dégâts [[Blessures et mort#NONLETAL|non-létaux]]. Le personnage bénéficie également d’un bonus de trait de +2 sur tous ses [[jds|jets de sauvegarde]] de [[Réflexes]] effectués pour éviter les chutes inattendues.
 
----
-{s:MR}{s:Reference|ENQUETEDELILLUMINATION}**En quête de l’Illumination**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:MR}{s:Reference|ENQUETEDELILLUMINATION}**En quête de l’Illumination**  
+*Restriction(s):* [[Elfe]].  
 Le personnage cherche activement, et depuis son plus jeune âge, les signes de l’Illumination. Il choisit une compétence de [[Connaissances]] ; il gagne un bonus de trait de +1 aux tests de Connaissances appropriés et aux tests de [[Perception]].
 
----
-{s:cs}{s:ISR}{s:Reference|ENQUêTEDUCIEL}**En quête du ciel**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ENQUêTEDUCIEL}**En quête du ciel**  
+*Restriction(s):* [[Nain]].  
 Le personnage a grandit en entendant les histoires des Citadelles du ciel  perdues, et a juré d'en trouver et d'en conquérir une. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (géographie) et de [[Connaissances]] (histoire). L'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:MR}{s:Reference|ENFANTDUDESTIN}**Enfant du destin**
-*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].
+<hr />
+{s:MR}{s:Reference|ENFANTDUDESTIN}**Enfant du destin**  
+*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].  
 Le personnage a grandi au milieu des mystérieuses diseuses de bonne aventure connues dans toutes les Landes lugubres et les Terres sauvages. Il a commencé à jouer avec un jeu du destin de l’un de ses parents. Du fait de son talent à dire la bonne aventure, il gagne un bonus de trait de +1 à ses tests d’[[initiative]].
 
----
-{s:MR}{s:Reference|ENTREPRENEURDEBRASTELWARK}**Entrepreneur de Brastelwark**
-*Restriction(s):* [[Gnome]].
+<hr />
+{s:MR}{s:Reference|ENTREPRENEURDEBRASTELWARK}**Entrepreneur de Brastelwark**  
+*Restriction(s):* [[Gnome]].  
 Le temps passé parmi l’élite gnome de Brastelwark à l'Empire diabolique a permis au personnage d’améliorer ses connaissances en matière d’alchimie et de multiplier ses contacts dans ce secteur. Il bénéficie d’un bonus de trait de +2 sur tous ses tests d’[[Artisanat]] (alchimie).
 
----
-{s:MR}{s:Reference|ERREURDEJEUNESSE}**Erreur de jeunesse**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:MR}{s:Reference|ERREURDEJEUNESSE}**Erreur de jeunesse**  
+*Restriction(s):* [[Elfe]].  
 Même si le personnage a traîné ses basques avec diverses petites frappes, éclaireurs ou ménestrels il y a fort longtemps, il sait encore comment éviter les coups lorsque la situation tourne au vinaigre. Il gagne un bonus de trait de +1 à ses [[jds|jets de sauvegarde]] de [[Réflexes]].
 
----
-{s:RSE}{s:APG}{s:GC}{s:Reference|ERUDITDESRUINES}{s:Reference|SPECIALISTEDESVIEILLESPIERRES}**Érudit des ruines/Spécialiste des vieilles pierres**
-*Restriction(s):* [[Humain]].
+<hr />
+{s:RSE}{s:APG}{s:GC}{s:Reference|ERUDITDESRUINES}{s:Reference|SPECIALISTEDESVIEILLESPIERRES}**Érudit des ruines/Spécialiste des vieilles pierres**  
+*Restriction(s):* [[Humain]].  
 Dès son plus jeune âge, le personnage a toujours été fasciné par les ruines de l’Empire décadent. Il s’est joint à toutes les expéditions, a volontairement servi la Société des Éclaireurs en tant que porteur et a même exploré par ses propres moyens de nombreuses de ces ruines. Grâce à cette passion, il a développé une certaine affinité pour la géographie de l’Empire décadent et pour l’exploration des sites oubliés. Il gagne un bonus de trait de +1 aux tests de [[Connaissances]] (géographie) et de Connaissances (exploration souterraine). Il considère désormais l’une de ces compétences (au choix) comme une compétence de classe.
 
----
-{s:cs}{s:ISR}{s:Reference|ESPRITVIF}**Esprit vif**
-*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ESPRITVIF}**Esprit vif**  
+*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].  
 Le personnage a été élevé avec un régime quotidien pour garder son esprit aiguisé et ses mots fluides. Il bénéficie d'un bonus de trait de +1 aux tests de [[concentration]] et de [[Bluff]].
 
----
-{s:MR}{s:Reference|ESTHETEDILETTANTE}**Esthète dilettante**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].
+<hr />
+{s:MR}{s:Reference|ESTHETEDILETTANTE}**Esthète dilettante**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].  
 Le personnage est né très riche et, pour cette raison, il peut rapidement deviner la valeur des choses. Il gagne un bonus de trait de +1 à ses tests d’[[Estimation]] et aux tests d’une compétence [[Artisanat]] de son choix.
 
----
-{s:MR}{s:Reference|OBSERVATEURDESETOILES}**Étudiant de Nantambu**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:MR}{s:Reference|OBSERVATEURDESETOILES}**Étudiant de Nantambu**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].  
 Le personnage a passé un certain temps à l’Académie du Vieux-Mage, à s’imprégner du savoir ancien qui y est enseigné. Il gagne un bonus de trait de +1 à ses tests de [[Connaissances]] (mystères) et d’[[Art de la magie]], et il peut faire ces tests même s’il n’a pas développé les compétences.
 
----
-{s:cs}{s:ISR}{s:Reference|EXPATRIEPERSECUTE}**Expatrié persécuté**
-*Restriction(s):* [[Tieffelin (race)|Tieffelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|EXPATRIEPERSECUTE}**Expatrié persécuté**  
+*Restriction(s):* [[Tieffelin (race)|Tieffelin]].  
 Le personnage est né dans une nation qui l'a persécuté à cause de son héritage. Bien que soumis à de terribles contraintes, il s'est échappé soit grâce à l'aide de sa famille ou par ses propres moyens. Le personnage bénéficie d'un bonus de +1 à une compétence basée sur son héritage fiélon : asura ([[Connaissances]] <nowiki>[[</nowiki>folklore local<nowiki>]]</nowiki>, daémon ([[Escamotage]]), démodande ([[Intimidation]]), démon ([[Perception]]), diable ([[Psychologie]]), div ([[Diplomatie]]), kyton ([[Évasion]]), oni ([[Déguisement]]), qlippoth ([[Survie]]) ou rakshasa ([[Psychologie]]). Cette compétence est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|EXPOSITIONALADISTORSION}**Exposition à la distorsion**
-*Restriction(s):* [[Drow (race)|Drow]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|EXPOSITIONALADISTORSION}**Exposition à la distorsion**  
+*Restriction(s):* [[Drow (race)|Drow]].  
 Le corps du personnage répond fortement aux transmutations à cause d'une exposition à la magie de distorsion de la chair. Il bénéficie d'un bonus de trait de +1 aux [[jds|jets de sauvegarde]] contre les sorts et effets de [[transmutation]]. Les transmutations que le personnage consent à recevoir l'affectent comme si elles avaient été lancées avec un [[NLS|niveau de lanceur de sorts]] supérieur de 1 mais uniquement afin de déterminer leur durée.
 
----
-{s:cs}{s:ISR}{s:Reference|FABRICATIONRESILIANTE}**Fabrication résiliante**
-*Restriction(s):* [[Virebois (race)|Virebois]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FABRICATIONRESILIANTE}**Fabrication résiliante**  
+*Restriction(s):* [[Virebois (race)|Virebois]].  
 Le personnage a passé beaucoup de temps dans des ateliers magiques, et le pouvoir de la magie l'aide à subsister. Une fois par jour, si le personnage devrait être réduit à 0 [[pv|points de vie]] ou moins alors qu'il est sous l'effet d'un sort à portée personnelle qu'il a lui-même lancé, il n'est pas détruit par l'attaque, mais devient à la place inactif et [[sans défense]] pendant 1 round, avec un total de points de vie négatif. S'il subit des dégâts pendant cette période, ou s'il a toujours moins de 0 points de vie à la fin de ce round, il est détruit.
 
----
-{s:cs}{s:ISR}{s:Reference|FACONNAGEDELEAU}**Façonnage de l'eau**
-*Restriction(s):* [[Ondin (race)|Ondin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FACONNAGEDELEAU}**Façonnage de l'eau**  
+*Restriction(s):* [[Ondin (race)|Ondin]].  
 La communauté ondine soudée du personnage l'a aidée à pratiquer sa magie aquatique en toute sécurité. Quand il lance un sort ou utilise un [[Pouvoirs magiques (capacité)|pouvoir magique]] du [[registre]] de l'eau ou du froid qui affecte une zone, il peut choisir une case dans cette zone. Le sort ou le pouvoir magique n'affecte ni cette case ni les créatures qui s'y trouvent.
 
----
-{s:RSE}{s:Reference|FANATIQUEDESPREMIERSHOMMES}**Fanatique des premiers hommes**
-*Restriction(s):* [[Humain]] — Azlant.
+<hr />
+{s:RSE}{s:Reference|FANATIQUEDESPREMIERSHOMMES}**Fanatique des premiers hommes**  
+*Restriction(s):* [[Humain]] — Azlant.  
 Le personnage a passé plusieurs années dans les bibliothèques à lire des ouvrages poussiéreux sur l’antique civilisation perdue de l’Empire des premiers hommes. Il a depuis développé une certaine affinité pour l’histoire et les mystères. Il gagne un bonus de trait de +1 aux tests de [[Connaissances]] (mystères) et [[Connaissances]] (histoire). Il considère désormais l’une de ces compétences (au choix) comme une compétence de classe.
 
----
-{s:cs}{s:ISR}{s:Reference|FILOU(VANARA)}**Filou (vanara)**
-*Restriction(s):* [[Vanara (race)|Vanara]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FILOU(VANARA)}**Filou (vanara)**  
+*Restriction(s):* [[Vanara (race)|Vanara]].  
 Le personnage a vite appris que pour obtenir ce qu'il veut, il faut parfois agir en secret. Il bénéficie d'un bonus de trait de +1 aux tests de [[Bluff]] et de [[Discrétion]], et l'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|FLATTERIEHYPOCRITE}**Flatterie hypocrite**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FLATTERIEHYPOCRITE}**Flatterie hypocrite**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 Un proche du personnage a été démis de ses fonctions et remplacé après avoir perdu les faveurs du gouvernement, et le personnage  a du rapidement prouver sa loyauté à son remplaçant au risque de connaître sa propre disgrâce. Le personnage bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]] et de [[Diplomatie]] lorsqu'il intéragit avec des personnes en position d'autorité sur lui.
 
----
-{s:MR}{s:Reference|FOIVACILLANTE}**Foi vacillante**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:MR}{s:Reference|FOIVACILLANTE}**Foi vacillante**  
+*Restriction(s):* [[Elfe]].  
 Le personnage se rappelle toujours quelques prières apprises lors de son service au temple. Une fois par jour, il peut lancer *[[stabilisation]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] avec un [[NLS]] de 1. Le [[DD]] du jet de sauvegarde est basé sur la [[Sagesse]].
 
----
-{s:cs}{s:ISR}{s:Reference|FORMATIONMARTIALE}**Formation martiale**
-*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FORMATIONMARTIALE}**Formation martiale**  
+*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].  
 Dès qu'il a eu l'âge de les tenir, le personnage s'est entraîné à se défendre avec les armes traditionnelles ulfens. Il bénéficie d'un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] avec les armes suivantes : [[arc court (arme)|arc court]], [[arc long (arme)|arc long]], [[épée à deux mains (arme)|épée à deux mains]], [[épée bâtarde (arme)|épée bâtarde]], [[épée courte (arme)|épée courte]], [[épée longue (arme)|épée longue]], [[grande hache (arme)|grande hache]], [[hache darmes (arme)|hache d'armes]], [[hache de lancer (arme)|hache de lancer]], [[hachette (arme)|hachette]], [[marteau de guerre (arme)|marteau de guerre]], [[marteau léger (arme)|marteau léger]].
 
----
-{s:cs}{s:ISR}{s:Reference|FOURNISSEURHONORE}**Fournisseur honoré**
-*Restriction(s):* [[Ghoran (race)|Ghoran]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FOURNISSEURHONORE}**Fournisseur honoré**  
+*Restriction(s):* [[Ghoran (race)|Ghoran]].  
 Le Nex dépend de la nourriture produite par les ghorans, et le personnage inspire une certaine gratitude aux créatures qu'il nourrit. Il bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]], de [[Diplomatie]] et de [[Psychologie]] lorsqu'il intéragit avec une personne à qui il a offert de la nourriture dans les dernières 24 heures.
 
----
-{s:cs}{s:ISR}{s:Reference|FRUSTRANT}**Frustrant**
-*Restriction(s):* [[Gathelain (race)|Gathelain]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FRUSTRANT}**Frustrant**  
+*Restriction(s):* [[Gathelain (race)|Gathelain]].  
 Le personnage sait capter l'attention de n'importe qui, même si son attention est ailleurs. Il peut effectuer des tests de [[Bluff]] pour créer une diversion afin que ses alliés dans un rayon de 9 mètres puissent se cacher (à condition qu'ils aient [[action préparée|préparé une action]] pour se cacher), et il peut effectuer des tests de Bluff pour [[feinte|feinter]] au profit d'un allié adjacent de son choix. Chacune des utilisations de ce trait nécessite une [[action simple]].
 
----
-{s:cs}{s:ISR}{s:Reference|FUGITIFEXPERIMENTAL}**Fugitif expérimental**
-*Restriction(s):* [[Androïde (race)|Androïde]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|FUGITIFEXPERIMENTAL}**Fugitif expérimental**  
+*Restriction(s):* [[Androïde (race)|Androïde]].  
 Le personnage a échappé à une organisation qui cherchait à comprendre comment son corps fonctionne. Il bénéficie d'un bonus de trait de +2 aux tests d'[[Évasion]] et de [[Force]] pour briser des liens, mettre fin à une [[lutte]], etc.
 
----
-{s:MR}{s:Reference|GARDIENDESPARCHEMINSANCESTRAUX}**Gardien des parchemins ancestraux**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].
+<hr />
+{s:MR}{s:Reference|GARDIENDESPARCHEMINSANCESTRAUX}**Gardien des parchemins ancestraux**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].  
 Le personnage est très fier de la généalogie de sa famille et retrace son héritage sur de grands parchemins qui remontent à des centaines, voire des milliers d’années. Il gagne un bonus de trait de +1 à ses tests de [[Connaissances]] (histoire) et de Connaissances (noblesse), et l’une de ces deux compétences, au choix, est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|GARDIENDESSECRETS(SVIRFNEBLIN)}**Gardien des secrets (svirfneblin)**
-*Restriction(s):* [[Svirfneblin (race)|Svirfneblin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|GARDIENDESSECRETS(SVIRFNEBLIN)}**Gardien des secrets (svirfneblin)**  
+*Restriction(s):* [[Svirfneblin (race)|Svirfneblin]].  
 Le personnage a été entraîné depuis sa naissance à ne jamais révéler des secrets et à ne jamais trahir la confiance de qui que ce soit. Il bénéficie d'un bonus de trait de +2 aux [[jds|jets de sauvegarde]] contre les [[école Divination|divination]] et les [[enchantement|enchantements]] qui le pousseraient à révéler un secret ou qui permettraient à quiconque de lire son esprit.
 
----
-{s:cs}{s:ISR}{s:Reference|GENEREUX}**Généreux**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|GENEREUX}**Généreux**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].  
 Les voisins du personnage ont gagné son respect grâce à leur générosité, et il suit leur exemple. Lorsqu'il offre à une créature un cadeau ou un service d'une valeur d'au moins 25 po × le [[FP]] de la créature, le personnage bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]] et de [[Diplomatie]] contre cette créature pendant les 24 heures suivantes.
 
----
-{s:APG}{s:GC}{s:Reference|GLOBETROTTER}**Globe trotter**
-*Restriction(s):* [[Humain]].
+<hr />
+{s:APG}{s:GC}{s:Reference|GLOBETROTTER}**Globe trotter**  
+*Restriction(s):* [[Humain]].  
 La famille du personnage a poussé l’amour du voyage jusqu’à l’extrême et a parcouru le monde dans tous les sens. Il a visité des dizaines de cultures et a appris à apprécier la diversité qu’offrait le monde. Choisissez une des compétences suivantes : [[Connaissances]] (folklore local), [[Diplomatie]] ou [[Psychologie]]. Le personnage gagne un bonus de trait de +1 à cette compétence et elle est toujours une compétence de classe pour lui.
 
----
-{s:MR}{s:Reference|GRANDEGUEULE}**Grande gueule**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|GRANDEGUEULE}**Grande gueule**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Depuis tout petit, le personnage sait s’y prendre pour raconter des histoires qui mettent en valeur sa force et son courage. Il gagne un bonus de trait de +1 à tous ses tests de [[Bluff]], d’[[Intimidation]] et de [[Représentation]] (déclamation) effectués contre des orques.
 
----
-{s:MR}{s:Reference|GRANDESOREILLES}**Grandes oreilles**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|GRANDESOREILLES}**Grandes oreilles**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Ses grandes oreilles font la fierté et la joie du personnage. Les autres gobelins affirment qu’il peut entendre une puce crier lorsqu’elle tombe d’un chien gobelin. Même si ce n’est pas tout à fait vrai, le personnage gagne un bonus de +2 sur tous ses tests de [[Perception]] auditive. De plus, il peut entendre des bruits que seuls les chiens ou les animaux similaires peuvent normalement percevoir, tel que celui émis par un sifflet pour appeler les chiens.
 
----
-{s:MR}{s:Reference|GROSSEBRUTE}**Grosse brute**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|GROSSEBRUTE}**Grosse brute**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage est particulièrement imposant et musclé. Lorsqu’il frappe, c’est toujours pour infliger le maximum de dégâts. À chaque fois qu’il a l’opportunité d’infliger un [[coup critique]], il ajoute (mais ne multiplie pas, dans le cas d’un [[coup critique]] confirmé) un montant de points de dégâts égal au modificateur de critique de son arme.
 
----
-{s:APG}{s:MR}{s:GC}{s:Reference|GUERRIERDESAGES}{s:Reference|ANCIENGUERRIER}**Guerrier des âges/Ancien guerrier**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:APG}{s:MR}{s:GC}{s:Reference|GUERRIERDESAGES}{s:Reference|ANCIENGUERRIER}**Guerrier des âges/Ancien guerrier**  
+*Restriction(s):* [[Elfe]].  
 Lorsqu’il était enfant, le personnage a dévoué de longues heures aux entraînements militaires. Même si le temps les a réduits à l’état de souvenirs, il reste prompt à réagir en cas de problème. Il gagne un bonus de trait de +2 aux tests d’[[initiative]].
 
----
-{s:cs}{s:ISR}{s:Reference|GUIDETRIBAL}**Guide tribal**
-*Restriction(s):* [[Kobold (race)|Kobold]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|GUIDETRIBAL}**Guide tribal**  
+*Restriction(s):* [[Kobold (race)|Kobold]].  
 Le personnage a été entraîné à guider les mouvements de plus grandes créatures, peut-être des voyageurs d'Ilizmagorti ou des transporteurs sous Absalom. Il peut faire subsister ou accorder un bonus contre les climats extrêmes à deux créatures supplémentaires lorsqu'il réussit un test de [[Survie]] approprié, et Survie est toujours une compétence de classe pour lui.
 
----
-{s:MR}{s:Reference|HAINEETFLAIRDESCHIENS}**Haine et flair des chiens**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|HAINEETFLAIRDESCHIENS}**Haine et flair des chiens**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Le personnage gagne la capacité spéciale d’[[Odorat (capacité)|odorat]], qui lui sert uniquement pour repérer l’odeur des canidés (les [[Chien|chiens]], les [[Loup|loups]], les molosses monstrueux tels que les [[Molosse infernal|molosses infernaux]] et les [[Chien hurleur|chiens hurleurs]], et même les loups-garous]]). Il gagne un bonus de trait de +2 à ses [[jet dattaque|jets d’attaque]] effectués contre toutes ces créatures dont il sent l’odeur.
 
----
-{s:MR}{s:Reference|HAINEINALTERABLE}**Haine inaltérable**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|HAINEINALTERABLE}**Haine inaltérable**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 La férocité du personnage est essentiellement tournée vers le lancer de ses sorts et il est plus difficile de le déconcentrer. Il bénéficie d’un bonus de trait de +2 à tous ses tests de [[concentration]].
 
----
-{s:cs}{s:ISR}{s:Reference|HERAUTDESELEMENTS}**Héraut des éléments**
-*Restriction(s):* [[Suli (race)|Suli]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|HERAUTDESELEMENTS}**Héraut des éléments**  
+*Restriction(s):* [[Suli (race)|Suli]].  
 Le personnage a appris la magie d'invocation au contact d'êtres élémentaires amicaux. Il considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 afin de déterminer la durée des sorts qu'il lance et qui [[branche appel|appellent]] ou [[branche convocation|convoquent]] des génies ou des [[type Extérieur|extérieurs]] de sous-type [[sous-type élémentaire|élémentaire]].
 
----
-{s:cs}{s:ISR}{s:Reference|HERITIERDESGENIES}**Héritier des génies**
-*Restriction(s):* [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]], [[Suli (race)|suli]] ou [[Sylphe (race)|sylphe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|HERITIERDESGENIES}**Héritier des génies**  
+*Restriction(s):* [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]], [[Suli (race)|suli]] ou [[Sylphe (race)|sylphe]].  
 Le personnage a rencontré l'un de ses ancêtres génies, qui lui a appris les coutumes de sa race et de ses alliés. Il bénéficie d'un bonus de trait de +2 aux tests de [[Charisme]] et aux tests de [[Compétences|compétence]] basés sur le Charisme pour influencer les [[type Extérieur|extérieurs]] du plan d'origine de son ancêtre génie.
 
----
-{s:MR}{s:Reference|HERITIERDUPASSE}**Héritier du passé**
-*Restriction(s):* Azlant*.
+<hr />
+{s:MR}{s:Reference|HERITIERDUPASSE}**Héritier du passé**  
+*Restriction(s):* Azlant*.  
 Le sang de l’ancien empire magique des premiers hommes coule dans les veines du personnage, même si les membres de sa famille n’ont pas conscience de leurs origines mythiques. Toute sa vie, il a fait des rêves ressemblant davantage aux souvenirs d’une époque oubliée. Il gagne un bonus de trait de +1 à ses tests de [[Connaissances]] (histoire) et un bonus de trait de +2 à ses tests d’[[Estimation]] relatifs aux objets de cet origine ou pour identifier les pierres ioun. (* Si le MJ donne son accord, d’autres ethnies que les premiers hommes peuvent prendre ce trait, qui indique que le personnage est une survivance de ce peuple légendaire.)
 
----
-{s:cs}{s:ISR}{s:Reference|HISTORIENORAL}**Historien oral**
-*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|HISTORIENORAL}**Historien oral**  
+*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].  
 Le personnage a appris de nombreux procédés mnémotechniques pour se souvenir facilement des informations transmises par le maître conteur de son quah. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (histoire) et de [[Représentation]] (arts oratoires), et l'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|HOMMERATVENGEUR}**Homme-rat vengeur**
-*Restriction(s):* [[Homme-rat (race)|Homme-rat]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|HOMMERATVENGEUR}**Homme-rat vengeur**  
+*Restriction(s):* [[Homme-rat (race)|Homme-rat]].  
 Le personnage protège les siens. Il bénéficie d'un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] des armes contre les adversaires qu'il a vu infliger des dégâts à l'un de ses alliés.
 
----
-{s:RSE}{s:Reference|IDENTITESECRETE}**Identité secrète**
-*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].
+<hr />
+{s:RSE}{s:Reference|IDENTITESECRETE}**Identité secrète**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].  
 L’Empire décadent moderne n’est pas accueillant envers la civilisation de l’Est. L’appartenance à ce groupe ethnique impopulaire a poussé le personnage à faire des merveilles pour éviter de se faire repérer. Il gagne un bonus de trait de +1 aux jets de [[Volonté]] et de +2 aux [[jds|jets de sauvegarde]] effectués contre les effets de divination.
 
----
-{s:RSE}{s:Reference|INFLUENCEINFERNALE}**Influence infernale**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:RSE}{s:Reference|INFLUENCEINFERNALE}**Influence infernale**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 La famille du personnage entretient des liens secrets avec les diables qui pourraient bien être antérieurs au régime des dirigeants diaboliques et bien plus profonds. Il gagne une résistance au feu de 1 et un bonus de trait de +1 à ses jets de [[Vigueur]] contre le poison.
 
----
-{s:cs}{s:ISR}{s:Reference|INGENIERIEAZLANT}**Ingénierie azlant**
-*Restriction(s):* [[Humain]] — Azlant.
+<hr />
+{s:cs}{s:ISR}{s:Reference|INGENIERIEAZLANT}**Ingénierie azlant**  
+*Restriction(s):* [[Humain]] — Azlant.  
 Le personnage est versé dans l'art architectural et artisanal azlant. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (ingénierie). De plus, tous les [[Artisanat|objets de maître]] que le personnage fabrique voient leur [[solidité]] et le [[DD]] pour les briser augmenter de 1. Cette augmentation est un bonus d'altération.
 
----
-{s:MR}{s:Reference|INSTRUIT}**Instruit**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:MR}{s:Reference|INSTRUIT}**Instruit**  
+*Restriction(s):* [[Halfelin]].  
 Le halfelin peut lire des bribes de la plupart des langues et en sait suffisamment pour bien deviner le reste. [[Linguistique]] est une compétence de classe pour lui et il gagne un bonus de trait de +1 à ses tests de Linguistique quand il cherche à déchiffrer un texte écrit dans une langue qui lui est inconnue. Il ne tire jamais de conclusions erronées s’il rate son test : au lieu de cela, il réalise simplement qu’il ne comprend pas le texte.
 
----
-{s:cs}{s:ISR}{s:Reference|INSULAIRE(ELFE)}**Insulaire (elfe)**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|INSULAIRE(ELFE)}**Insulaire (elfe)**  
+*Restriction(s):* [[Elfe]].  
 Après avoir vécu parmi des non-elfes pendant un temps, le personnage a développé une attitude méprisante à l'encontre des races impulsives à l'espérance de vie plus courte. Il bénéficie d'un bonus de trait de +2 aux jets de [[Volonté]] contre les effets de [[branche charme|charme]], de [[branche coercition|coercition]] et de [[registre|peur]] provoqués par des [[type Humanoïde|humanoïdes]] autre que des elfes.
 
----
-{s:MR}{s:Reference|INVENTEURFOU}**Inventeur fou**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|INVENTEURFOU}**Inventeur fou**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage adore fabriquer des armes toujours plus innovantes et il arrive que certaines fonctionnent ! Il gagne un bonus de trait de +2 à ses tests d’[[Artisanat]] (armes), qui devient une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|JOUEURINVETERE}**Joueur invétéré**
-*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|JOUEURINVETERE}**Joueur invétéré**  
+*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].  
 L'éducation du personnage auprès des sczarni l'a exposé aux jeux de cartes et de dés. Il bénéficie d'un bonus de trait de +1 aux tests de [[Bluff]] et d'[[Escamotage]]. Dans le cadre des jeux d'argent, ces bonus augmentent de 1.
 
----
-{s:MR}{s:Reference|LAMEAUDACIEUSE}**Lame audacieuse**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].
+<hr />
+{s:MR}{s:Reference|LAMEAUDACIEUSE}**Lame audacieuse**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].  
 Le personnage a grandi en se battant dans l’une des nombreuses académies de combat de l'Empire décadent et a affiné sa maîtrise des armes à une main. Lorsqu’il manie une arme à une main sans rien tenir dans son autre main, il gagne un bonus de trait de +1 à ses tests d’[[Acrobaties]] et de [[Bluff]].
 
----
-{s:MCA}{s:Reference|MAESTROESCLAVAGISTE}**Maestro esclavagiste**
-*Restriction(s):* [[Humain]] — Membre de la tribu esclavagiste du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:MCA}{s:Reference|MAESTROESCLAVAGISTE}**Maestro esclavagiste**  
+*Restriction(s):* [[Humain]] — Membre de la tribu esclavagiste du [[Golarion.Mwangi|Mwangi]].  
 Pendant des années, le personnage a utilise sa magie pour dominer la volonté des esclaves captures pour qu’ils lui obéissent. Il gagne un bonus de trait de +2 aux tests de [[Diplomatie]] et d’[[Intimidation]] effectues contre les créatures maintenues en captivité depuis au moins 24 heures.
 
----
-{s:cs}{s:ISR}{s:Reference|MAGIEBIFURQUEE}**Magie bifurquée**
-*Restriction(s):* [[Demi-elfe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MAGIEBIFURQUEE}**Magie bifurquée**  
+*Restriction(s):* [[Demi-elfe]].  
 Le personnage a étudié les méthodes des lanceurs de sorts aussi bien elfes qu’humains. Il choisit deux classes quand il obtient ce trait. Le personnage considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 pour chacune de ces classes tant qu'il ne dépasse pas son nombre total de [[DV|Dés de vie]]. Cela ne se cumule pas avec tout autre augmentation similaire provenant de traits comme [[Traits de magie#DONPOURLAMAGIE|don pour la magie]].
 
----
-{s:GC}{s:Reference|MAITREBRASSEUR}**Maître brasseur**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:GC}{s:Reference|MAITREBRASSEUR}**Maître brasseur**  
+*Restriction(s):* [[Nain]].  
 Votre famille a apporté le secret du brassage de la bière naine en terre étrangère. Grâce à cela, vous êtes devenu un brasseur de talent mais les puristes nains se méfient de vous. Vous gagnez un bonus de trait de +1 aux tests de [[Profession]] (brasseur) et d’[[Artisanat]] (alchimie) mais vous recevez un malus de –1 aux tests de [[Diplomatie]] quand vous tentez de modifier l’attitude de nains qui savent que votre famille a partagé le secret de la bière naine avec des individus d’une autre race.
 
----
-{s:MR}{s:Reference|MAITREDELATTAQUESOUDAINE}**Maître de l’attaque soudaine**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].
+<hr />
+{s:MR}{s:Reference|MAITREDELATTAQUESOUDAINE}**Maître de l’attaque soudaine**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].  
 Le personnage a appris à maîtriser les redoutables arts guerriers de son peuple et, lorsqu’il manie une épée de maître, quelle qu’elle soit, il ne fait qu’un avec sa lame. S’il agit avant son adversaire pendant un [[round de surprise]], il gagne un bonus de trait de +2 à ses [[Valeurs de combat#DEGATS|jets de dégâts]] des armes, pour ce [[round de surprise]] uniquement. Ces dégâts supplémentaires sont des dégâts de précision.
 
----
-{s:cs}{s:ISR}{s:Reference|MAîTRISEDELAMEMOIRE}**Maîtrise de la mémoire**
-*Restriction(s):* [[Aquatique (race)|Aquatique]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MAîTRISEDELAMEMOIRE}**Maîtrise de la mémoire**  
+*Restriction(s):* [[Aquatique (race)|Aquatique]].  
 Le personnage peut réprimer ses propres souvenirs pour l'aider à raconter des mensonges plus convaincants. Une fois par jour par une [[action immédiate]], il peut se forcer à oublier un unique évènement ou fait pendant une période de 10 minutes. Les créatures qui lisent l'esprit du personnage ne peuvent pas apprendre d'information à ce sujet. Jusqu'à ce que le souvenir lui revienne, le personnage bénéficie d'un bonus de trait de +10 aux tests de [[Bluff]] pour convaincre autrui qu'il ne connaît pas l'information en question.
 
----
-{s:RSE}{s:Reference|MARCHANDDETERMINE}**Marchand déterminé**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:RSE}{s:Reference|MARCHANDDETERMINE}**Marchand déterminé**  
+*Restriction(s):* [[Nain]].  
 Le personnage sait combien il est difficile d’amener ses marchandises jusqu’au marché et il compte bien les protéger coûte que coûte. Il a passé de nombreuses années à déjouer les manigances des voleurs, des coupe-gorges et des brigands et a ainsi développé une sorte de sixième sens qui l’avertit des dangers imminents. Il gagne un bonus de trait de +1 aux tests de [[Perception]] effectués pour savoir s’il est surpris et considère toujours cette compétence comme une compétence de classe.
 
----
-{s:cs}{s:ISR}{s:Reference|MARQUEPARLAMAGIENATURELLE}**Marqué par la magie naturelle**
-*Restriction(s):* [[Changepeau (race)|Changepeau]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MARQUEPARLAMAGIENATURELLE}**Marqué par la magie naturelle**  
+*Restriction(s):* [[Changepeau (race)|Changepeau]].  
 Le personnage est originaire d'une communauté, peut-être en Arcadie ou dans les Terres des rois linnorms, qui l'a encouragée à interagir avec les fées. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (nature) relatifs aux fées ainsi qu'aux tests de [[Diplomatie]] pour influencer les fées. Connaissances (nature) est toujours une compétence de classe pour le personnage.
 
----
-{s:cs}{s:ISR}{s:Reference|MEDIATEURPROMETTEUR}**Médiateur prometteur**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MEDIATEURPROMETTEUR}**Médiateur prometteur**  
+*Restriction(s):* [[Demi-orque]].  
 Le personnage a été élevé par un mélange de proches humains et orques, ou en s'accomodant de parents demi-orques, et beaucoup s'attendaient à ce qu'il se comporte comme un médiateur sans parti pris. Que ces espoirs aient portés leur fruits ou qu'ils aient frustrés, le personnage a appris beaucoup des deux cultures. Il bénéficie d'un bonus de trait de +2 aux tests de [[Connaissances]] (folklore local) impliquant des orques, des demi-orques ou des humains, ainsi que d'un bonus de trait de +2 aux tests de [[Diplomatie]] contre les membres de ces races.
 
----
-{s:cs}{s:ISR}{s:Reference|MILITANTIDEALISE}**Militant idéalisé**
-*Restriction(s):* [[Aasimar (race)|Aasimar]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MILITANTIDEALISE}**Militant idéalisé**  
+*Restriction(s):* [[Aasimar (race)|Aasimar]].  
 La lignée céleste du personnage conduit les autres à l'idéaliser en secret. Il bénéficie d'un bonus de trait de +1 à tous les tests de [[Compétences|compétence]] basés sur le [[Charisme]] pour intéragir avec des créatures d'alignement Bon qui ne l'ont jamais rencontré auparavant.
 
----
-{s:cs}{s:ISR}{s:Reference|MONTEEDADRENALINE}**Montée d'adrénaline**
-*Restriction(s):* [[Gnome]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MONTEEDADRENALINE}**Montée d'adrénaline**  
+*Restriction(s):* [[Gnome]].  
 Le personnage est prêt à tout pour retarder son Affadissement, et ressent un certain frisson lorsqu'il est forcé à expérimenter des émotions négatives. Une fois par jour lorsqu'il rate un [[jds|jet de sauvegarde]] contre un sort du [[registre]] de l'émotion, le personnage peut gagner 1d6 [[points de vie temporaires]]. Ces points de vie temporaires durent 1 minute.
 
----
-{s:cs}{s:ISR}{s:Reference|MURSDEVERITESTRONQUEES}**Murs de vérités tronquées**
-*Restriction(s):* [[Samsaran (race)|Samsaran]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|MURSDEVERITESTRONQUEES}**Murs de vérités tronquées**  
+*Restriction(s):* [[Samsaran (race)|Samsaran]].  
 Dès que le personnage a pris contact avec d'autres samsarans, ils ont encouragé son talent pour l'utilisation de magies qui désorientent ses adversaires. Le personnage considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 afin de déterminer la durée de ses sorts de [[branche chimère|chimère]] et d'[[branche hallucination|hallucination]].
 
----
-{s:cs}{s:ISR}{s:Reference|NATIONALISTENAGAJI}**Nationaliste nagaji**
-*Restriction(s):* [[Nagaji (race)|Nagaji]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|NATIONALISTENAGAJI}**Nationaliste nagaji**  
+*Restriction(s):* [[Nagaji (race)|Nagaji]].  
 La loyauté du personnage envers la nation nagaji de Nagajor est puissante. Il bénéficie d'un bonus de trait de +1 aux [[jet dattaque|jets d'attaque]] et [[jds|de sauvegarde]] contre les ennemis qui menacent directement la sécurité de Nagajor.
 
----
-{s:cs}{s:ISR}{s:Reference|NATURECOOPERATIVE}**Nature coopérative**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|NATURECOOPERATIVE}**Nature coopérative**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].  
 Le personnage observe naturellement les autres, et ses mouvements viennent compléter les leurs. Une fois par jour par une [[action de mouvement]], le personnage peut choisir un allié adjacent. Pendant la minute qui suit, il peut [[faire 10]] sur ses [[jet dattaque|jets d'attaque]] et ses tests de [[Compétences|compétence]] dans le cadre de l'action [[aider qqn|aider quelqu'un]] pour aider cet allié, et ce même s'il est distrait.
 
----
-{s:cs}{s:ISR}{s:Reference|NAVIGATEURDELABUREAUCRATIE}**Navigateur de la bureaucratie**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|NAVIGATEURDELABUREAUCRATIE}**Navigateur de la bureaucratie**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].  
 Habitué à se frayer un chemin dans la bureaucratie gouvernementale, le personnage bénéficie d'un bonus de trait de +2 aux tests de [[Diplomatie]] contre les bureaucrates et aux tests de [[Connaissances]] (folklore local) relatifs aux lois et à ceux qui les appliquent.
 
----
-{s:cs}{s:ISR}{s:Reference|OBSERVATEURBOURRU}**Observateur bourru**
-*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|OBSERVATEURBOURRU}**Observateur bourru**  
+*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].  
 Après avoir grandit parmi des marins têtus et des pillards sanguinaires, le personnage a appris à se taire et rester vigilant. Il bénéficie d'un bonus de trait de +1 aux tests d'[[initiative]] et de [[Perception]].
 
----
-{s:MR}{s:Reference|OBSERVATEURDESETOILES}**Observateur des étoiles**
-*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].
+<hr />
+{s:MR}{s:Reference|OBSERVATEURDESETOILES}**Observateur des étoiles**  
+*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].  
 Le personnage a passé de nombreuses années à sillonner les routes des Terres sauvages et au-delà et, au cours des nuits claires, il s’est mis à observer les corps célestes peuplant le ciel. Il gagne un bonus de trait de +1 à ses tests de [[Connaissances]] (géographie) et de [[Survie]].
 
----
-{s:cs}{s:ISR}{s:Reference|OBSESSIONDELAREUSSITE}**Obsession de la réussite**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|OBSESSIONDELAREUSSITE}**Obsession de la réussite**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 Un chéliaxien sans marque de réussite évidente est vu comme pathétique, le personnage a donc grandi en veillant à ne jamais laisser ses échecs le suivre. Une fois par jour, lorsqu'il effectue une nouvelle tentative sur un test de compétence raté dans la minute précédente, le personnage peut ajouter un bonus de trait de +4 à ce test.
 
----
-{s:cs}{s:ISR}{s:Reference|OPPORTUNISTEDELAJUNGLE}**Opportuniste de la jungle**
-*Restriction(s):* [[Homme-félin (race)|Homme-félin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|OPPORTUNISTEDELAJUNGLE}**Opportuniste de la jungle**  
+*Restriction(s):* [[Homme-félin (race)|Homme-félin]].  
 Le personnage s'est entraîné avec son clan à chasser de grandes proies telles que les dinosaures de la jungle du Valashmaï. Quand il accorde à un allié un bonus sur un [[jet dattaque|jet d'attaque]] contre un adversaire de taille G ou supérieure grâce à une [[prise en tenaille|tenaille]] ou à l'action [[aider qqn|aider quelqu'un]], cet allié obtient également un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] des armes contre cette créature.
 
----
-{s:cs}{s:ISR}{s:Reference|ORACLEDUSOUFRE}**Oracle du soufre**
-*Restriction(s):* [[Orque (race)|Orque]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ORACLEDUSOUFRE}**Oracle du soufre**  
+*Restriction(s):* [[Orque (race)|Orque]].  
 Le personnage a été exposé à des vapeurs toxiques qui induisent des visions par des oracles de l'Haruspice du Soufre, soit parce qu'il avait une question urgente ou qu'un parent ou un chef l'a considéré comme un intermédiaire dispensable. Les vapeurs ont laissées des cicatrices qui imposent un malus de -1 aux tests de [[Compétences|compétence]] basés sur le [[Charisme]] du personnage, mais il peut une fois par jour obtenir des flashs prophétiques qui lui permettent de lancer deux fois un test de [[Connaissances]] ou d'[[Intelligence]] en conservant le meilleur résultat. Vous devez déclarer l'utilisation de ce trait avant de lancer le dé.
 
----
-{s:cs}{s:ISR}{s:Reference|OSTRACISMEAILE}**Ostracisme ailé**
-*Restriction(s):* [[Syrinx (race)|Syrinx]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|OSTRACISMEAILE}**Ostracisme ailé**  
+*Restriction(s):* [[Syrinx (race)|Syrinx]].  
 Le personnage a appris de ses aînés syrinxes que leur race est supérieure aux races dénuées d'ailes et il prend soin de rester au dessus d'eux physiquement. Le personnage bénéficie d'un bonus de trait de +2 aux tests de [[Vol]]. Ce bonus passe à +4 sur les tests visant à éviter de perdre en altitude après avoir subit des dégâts.
 
----
-{s:MR}{s:Reference|PARFAITSERVITEUR}**Parfait serviteur**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:MR}{s:Reference|PARFAITSERVITEUR}**Parfait serviteur**  
+*Restriction(s):* [[Halfelin]].  
 La formation de domestique ou de valet du halfelin l’a inconsciemment marqué et son attitude semble mettre les gens de la haute société à l’aise. Il gagne un bonus de trait de +3 à ses tests de [[Diplomatie]] pour influencer quiconque a au moins un niveau d’aristocrate.
 
----
-{s:MR}{s:Reference|PARTICULIEREMENTAFFREUX}**Particulièrement affreux**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|PARTICULIEREMENTAFFREUX}**Particulièrement affreux**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le crâne du personnage est grotesquement difforme. Il reçoit un bonus de trait de +1 à ses tests d’[[Intimidation]], qui devient une compétence de classe pour lui.
 
----
-{s:MR}{s:Reference|PARTOUTCHEZSOI}**Partout chez soi**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].
+<hr />
+{s:MR}{s:Reference|PARTOUTCHEZSOI}**Partout chez soi**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].  
 Le personnage a vécu dans beaucoup des cités de la côte nord du continent sud et, à chaque fois qu’il quittait une ville, il emportait avec lui un petit souvenir. Il gagne un bonus de trait de +1 à ses tests de [[Connaissances]] (géographie) et d’[[Escamotage]].
 
----
-{s:MR}{s:Reference|PASSAGERPROVIDENTIEL}**Passager providentiel**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:MR}{s:Reference|PASSAGERPROVIDENTIEL}**Passager providentiel**  
+*Restriction(s):* [[Halfelin]].  
 Ceux qui voyagent pour vivre comprennent que la simple présence du halfelin pourrait faire toute la différence entre l’échec et la réussite de l’expédition. Ceci lui donne un avantage pour marchander sa place ou négocier d’autres privilèges. Il améliore l’[[Diplomatie|attitude de départ]] des capitaines de navire, des chefs de caravane et de tous ceux ayant le même type de responsabilités d’une catégorie à son égard.
 
----
-{s:cs}{s:ISR}{s:Reference|PATIENCEATOUTEEPREUVE}**Patience à toute épreuve**
-*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|PATIENCEATOUTEEPREUVE}**Patience à toute épreuve**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].  
 Le personnage a du apprendre à contrôler son attention pour survivre dans la nature. Une fois par jour, lorsqu'il [[action préparée|prépare une action]] pour effectuer une attaque d'arme au corps à corps ou à distance, il peut ajouter un bonus de trait de +4 à cette attaque.
 
----
-{s:MR}{s:Reference|PAUMEOUVERTEDUGUIDEDIVIN}**Paume ouverte du guide divin**
-*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].
+<hr />
+{s:MR}{s:Reference|PAUMEOUVERTEDUGUIDEDIVIN}**Paume ouverte du guide divin**  
+*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].  
 Le personnage pratique les principes des arts martiaux vudrains, ce qui lui vaut un parfait équilibre entre le corps et l’esprit. Il gagne un bonus de trait de +1 à ses tests d’[[Acrobaties]] et de [[Connaissances]] (religion). S’il a une [[Moine#RESERVEDEKI|réserve de ki]], une fois par jour et par une [[action rapide]], il peut canaliser son ki alors qu’il porte un coup à mains nues, gagnant un bonus de trait de +2 à un [[Valeurs de combat#DEGATS|jet de dégâts]]. Ces dégâts supplémentaires sont des dégâts de précision.
 
----
-{s:MR}{s:Reference|PIONNIER}**Pionnier**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].
+<hr />
+{s:MR}{s:Reference|PIONNIER}**Pionnier**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Mwangi|Mwangi]].  
 La capacité du personnage à supporter les jungles les plus sombres lui a valu la réputation de guide novice. Lorsqu’il traverse des étendues sauvages, quelles qu’elles soient, il gagne un bonus de trait de +1 à ses tests de [[Survie]] et un bonus de trait de +1 à ses jets de [[Vigueur]] contre les maladies.
 
----
-{s:MR}{s:Reference|PIQUEASSIETTE}**Pique-assiette**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:MR}{s:Reference|PIQUEASSIETTE}**Pique-assiette**  
+*Restriction(s):* [[Halfelin]].  
 Ce que les autres pourraient appeler de la camelote, le halfelin l’appelle une affaire. Il peut acheter des objets brisés à moitié prix (plutôt qu’aux trois-quarts de leur prix). La valeur des versions brisées de ces objets ne peut pas excéder quatre fois le niveau de personnage du halfelin. Le prix qu’il paie pour l’objet ne peut jamais dépasser plus de deux fois son niveau de personnage en po (par exemple, au niveau 5, le halfelin peut dépenser jusqu’à 10 po pour un objet brisé, ce qui signifie qu’il peut acheter n’importe quel objet qui, s’il n’est pas brisé, a une valeur de 20 po ou moins).
 
----
-{s:MR}{s:Reference|PLURILINGUE}**Plurilingue**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].
+<hr />
+{s:MR}{s:Reference|PLURILINGUE}**Plurilingue**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].  
 Le personnage a passé de nombreuses années à sillonner le continent sud et a rencontré beaucoup de gens différents lors de ces voyages. Il gagne un bonus de trait de +1 à deux des compétences suivantes : [[Diplomatie]], [[Connaissances]] (folklore local) et [[Linguistique]].
 
----
-{s:cs}{s:ISR}{s:Reference|POISONSMAGIQUESAMELIORES}**Poisons magiques améliorés**
-*Restriction(s):* [[Vishkanya (race)|Vishkanya]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|POISONSMAGIQUESAMELIORES}**Poisons magiques améliorés**  
+*Restriction(s):* [[Vishkanya (race)|Vishkanya]].  
 Le personnage peut utiliser son poison naturel pour améliorer les sorts qu'il lance. Le personnage peut dépenser une utilisation de son trait racial toxique et utiliser un peu de sa salive ou de son sang toxique comme [[composantes|composante matérielle]] supplémentaire lors de l'incantation d'un sort du [[registre]] du poison pour augmenter de 1 le [[DD]] du jet de sauvegarde du sort.
 
----
-{s:MR}{s:Reference|PORTEURDEBOUCLIER}**Porteur de bouclier**
-*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].
+<hr />
+{s:MR}{s:Reference|PORTEURDEBOUCLIER}**Porteur de bouclier**  
+*Restriction(s):* [[Humain]] — [[Golarion.Ulfes|Ulfes]].  
 Le personnage a survécu à de nombreuses batailles grâce à ses compétences au bouclier. Lorsqu’il donne un coup de bouclier, il rajoute 1 point de dégâts supplémentaire. Une fois par jour, lors de son tour et par une [[action libre]], il peut également accorder à un allié adjacent un bonus de trait de +2 à la [[CA]]. Ce bonus dure 1 [[round]], tant que le personnage et la cible restent adjacents l’un à l’autre. Le personnage ne peut utiliser cette capacité que s’il manie un bouclier. Il conserve son bonus de bouclier à la CA lorsqu’il utilise cette capacité.
 
----
-{s:cs}{s:ISR}{s:Reference|POUMONSELARGIS}**Poumons élargis**
-*Restriction(s):* [[Gobelin simiesque (race)|Gobelin simiesque]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|POUMONSELARGIS}**Poumons élargis**  
+*Restriction(s):* [[Gobelin simiesque (race)|Gobelin simiesque]].  
 Le personnage a passé de longues heures à fouiller les épaves et les littoraux à marée basse à la recherche de trésors rutilants. Il bénéficie d'un bonus de trait de +2 aux tests de [[Perception]] sous l'eau et peut retenir son souffle pendant un nombre de rounds égal à trois fois sa valeur de [[Constitution]] avant de risquer la [[Dangers naturels#NOYADE|noyade]].
 
----
-{s:cs}{s:ISR}{s:Reference|PRESQUEAVEUGLE}**Presque aveugle**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|PRESQUEAVEUGLE}**Presque aveugle**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Tian Xia|Tian Xia]].  
 Après avoir frôlé la cécité des neiges sur la Couronne du Monde ou les vents brûlants du Hongal, le personnage a développé un instinct pour protéger ses yeux. Il bénéficie d'un bonus de trait de +2 aux [[jds|jets de sauvegarde]] pour évider d'être [[aveuglé]] ou [[ébloui]].
 
----
-{s:GC}{s:Reference|PRESQUEHUMAIN}**Presque humain**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:GC}{s:Reference|PRESQUEHUMAIN}**Presque humain**  
+*Restriction(s):* [[Demi-orque]].  
 Vous avez suffisamment de caractéristiques physiques humaines pour faire croire que vous êtes un humain de sang pur. Vous gagnez un bonus de trait de +4 aux tests de [[Déguisement]] pour vous faire passer pour un humain et vous considérez toujours cette compétence comme une compétence de classe.
 
----
-{s:cs}{s:ISR}{s:Reference|PROTECTEURDECASTROVEL}**Protecteur de Castrovel**
-*Restriction(s):* Lashunta.
+<hr />
+{s:cs}{s:ISR}{s:Reference|PROTECTEURDECASTROVEL}**Protecteur de Castrovel**  
+*Restriction(s):* Lashunta.  
 Le personnage a aidé à entretenir les portails interplanétaires utilisés pour commercer avec d'autres mondes. Il bénéficie d'un bonus de trait de +2 aux tests d'[[Art de la magie]] pour identifier la magie de [[branche téléportation|téléportation]] ainsi que d'un bonus de trait de +1 au [[NLS|niveau de lanceur de sorts]] lorsqu'il lance des sorts de [[branche téléportation|téléportation]]. Le personnage connaît les commandes appropriées pour faire fonctionner un portail interplanétaire spécifique (c'est au [[MJ]] de décider où il se trouve et comment il fonctionne).
 
----
-{s:cs}{s:ISR}{s:Reference|PRUDENT}**Prudent**
-*Restriction(s):* [[Homme-poisson (race)|Homme-poisson]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|PRUDENT}**Prudent**  
+*Restriction(s):* [[Homme-poisson (race)|Homme-poisson]].  
 Le personnage a grandit en croyant que ceux qui respirent de l'air ne sont pas dignes de confiance. Il bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]] et de [[Psychologie]] contre les [[type Humanoïde|humanoïdes]] non-[[sous-type aquatique|aquatiques]].
 
----
-{s:MR}{s:Reference|PUSTULEUX}**Pustuleux**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|PUSTULEUX}**Pustuleux**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Le visage du personnage est couvert de boutons répugnants et de furoncles dégoûtants qui ont tendance à éclater au mauvais moment. Même si cette affliction l’enlaidit au plus haut point, le personnage sait également l’utiliser à son avantage. À chaque fois qu’il subit un effet qui le rend [[fiévreux]], il peut effectuer deux [[jds|jets de sauvegarde]] (si un jet de sauvegarde est autorisé) et choisir le meilleur des deux résultats pour ne pas subir cet effet.
 
----
-{s:GC}{s:Reference|QUERELLEUR}**Querelleur**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:GC}{s:Reference|QUERELLEUR}**Querelleur**  
+*Restriction(s):* [[Demi-orque]].  
 À force de passer votre enfance à vous battre pour la moindre babiole ou miette de nourriture, vous êtes devenu féroce et méfiant. Vous recevez un bonus de trait de +1 aux tests d’[[Intimidation]] effectués pour démoraliser un adversaire et un bonus de trait de +1 aux tests de [[Perception]] effectués pour éviter d’être pris par surprise.
 
----
-{s:MR}{s:Reference|RAGETEMPETUEUSE}**Rage tempétueuse**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|RAGETEMPETUEUSE}**Rage tempétueuse**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Les créatures convoquées héritent de la férocité du personnage. Une fois par jour, une créature que le personnage convoque peut bénéficier de la capacité spéciale de [[Férocité (capacité)|férocité]].
 
----
-{s:MR}{s:Reference|RATDESMARCHES}**Rat des marchés**
-*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].
+<hr />
+{s:MR}{s:Reference|RATDESMARCHES}**Rat des marchés**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].  
 Le personnage a passé sa jeunesse au milieu des différents étals de marché et des guildes marchandes du monde. Peut-être est-il né dans une famille de commerçants ou a-t-il vécu au milieu des nombreux étals d’un marché, à mendier pour survivre. Il gagne un bonus de trait de +1 à ses tests d’[[Estimation]] et de [[Connaissances]] (folklore local).
 
----
-{s:cs}{s:ISR}{s:Reference|REBELLEEXPERIMENTAL}**Rebelle expérimental**
-*Restriction(s):* [[Demi-elfe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|REBELLEEXPERIMENTAL}**Rebelle expérimental**  
+*Restriction(s):* [[Demi-elfe]].  
 Les proches elfes du personnage étaient froid avec lui, ce qui l'a poussé à se rebeller ne serait-ce que pour attirer leur attention. Il bénéficie d'un bonus de trait de +2 aux [[jds|jets de sauvegarde]] contre les sorts et capacités créés par des elfes.
 
----
-{s:APG}{s:GC}{s:Reference|REFLEXESELFIQUES}**Réflexes elfiques**
-*Restriction(s):* [[Demi-elfe]].
+<hr />
+{s:APG}{s:GC}{s:Reference|REFLEXESELFIQUES}**Réflexes elfiques**  
+*Restriction(s):* [[Demi-elfe]].  
 Le personnage a hérité des réflexes rapides d’un de ses parents, qui appartenait à une tribu d’elfes sauvages. Il gagne un bonus de trait de +2 aux tests d’[[initiative]].
 
----
-{s:APG}{s:MR}{s:GC}{s:Reference|REJETE}{s:Reference|PARIA}**Rejeté/Paria**
-*Restriction(s):* [[Demi-orque]].
+<hr />
+{s:APG}{s:MR}{s:GC}{s:Reference|REJETE}{s:Reference|PARIA}**Rejeté/Paria**  
+*Restriction(s):* [[Demi-orque]].  
 Ville après ville, le personnage a été rejeté à cause de son héritage. Il a appris à vivre à l’écart des autres. Il gagne un bonus de trait de +1 aux tests de [[Survie]] et Survie est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|REJETONLEGITIME}**Rejeton légitime**
-*Restriction(s):* [[Dhampir (race)|Dhampir]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|REJETONLEGITIME}**Rejeton légitime**  
+*Restriction(s):* [[Dhampir (race)|Dhampir]].  
 Le personnage a grandit au Nidal, au Geb ou une autre région où son héritage mort-vivant était considéré comme une marque de pouvoir. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (noblesse) et de [[Connaissances]] (religion). L'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:APG}{s:GC}{s:Reference|RENIFLEURDOR}**Renifleur d’or**
-*Restriction(s):* [[Nain]].
+<hr />
+{s:APG}{s:GC}{s:Reference|RENIFLEURDOR}**Renifleur d’or**  
+*Restriction(s):* [[Nain]].  
 Les sens affûtés du personnages le conduisent vers des trésors cachés. Il gagne un bonus de trait de +2 aux tests de [[Perception]] concernant des métaux, des bijoux ou des pierres précieuses.
 
----
-{s:cs}{s:ISR}{s:Reference|RESPECTDESKAMIS}**Respect des kamis**
-*Restriction(s):* [[Kitsune (race)|Kitsune]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|RESPECTDESKAMIS}**Respect des kamis**  
+*Restriction(s):* [[Kitsune (race)|Kitsune]].  
 Un contact rapproché avec les kamis a enseigné au personnage comment rester dans leur bonne grâces. Les [[sous-type kami|kamis]] ont automatiquement une attitude de départ d'une catégorie plus positive envers le personnage, sans dépasser une attitude amicale.
 
----
-{s:cs}{s:ISR}{s:Reference|RODEURAQUATIQUE}**Rôdeur aquatique**
-*Restriction(s):* [[Wayang (race)|Wayang]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|RODEURAQUATIQUE}**Rôdeur aquatique**  
+*Restriction(s):* [[Wayang (race)|Wayang]].  
 Le personnage a grandit dans une communauté secrète au bord de l'eau, peut-être parmi les rivières de Shenmen ou les îles de Minata. Il bénéficie d'un bonus de trait de +1 aux tests de [[Natation]] ainsi que d'un bonus de +2 aux tests de [[Discrétion]] effectués sur des embarcations ou lorsqu'il est au moins à moitié immergé dans l'eau.
 
----
-{s:MR}{s:Reference|ROTTOXIQUE}**Rot toxique**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|ROTTOXIQUE}**Rot toxique**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Une fois par jour et par une [[action simple]], le personnage peut lâcher un rot particulièrement immonde à la tête d’un unique adversaire situé à 1,50 mètre ou moins. L’individu ciblé doit réussir un jet de sauvegarde de [[Vigueur]] DD 12 pour ne pas être [[fiévreux]] pendant 1d6 rounds. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].
 
----
-{s:GC}{s:Reference|SANGDESDRAGONS}**Sang des dragons**
-*Restriction(s):* N'importe.
+<hr />
+{s:GC}{s:Reference|SANGDESDRAGONS}**Sang des dragons**  
+*Restriction(s):* N'importe.  
 Il y a très longtemps, vos ancêtres ont mêlé leur sang à celui des dragons. Vous pouvez choisir l’un des avantages suivants : bonus de trait de +1 aux tests de [[Perception]], [[Vision nocturne (capacité)|vision nocturne]] ou bonus de trait de +2 aux [[jds|jets de sauvegarde]] contre les effets induisant le sommeil ou la paralysie.
 
----
-{s:GC}{s:Reference|SANGDESFIELONS}**Sang des fiélons**
-*Restriction(s):* N'importe.
+<hr />
+{s:GC}{s:Reference|SANGDESFIELONS}**Sang des fiélons**  
+*Restriction(s):* N'importe.  
 Votre lignée est corrompue par un sang fiélon qui transparaît dans votre apparence physique, même si c’est à peine perceptible. Choisissez l’une des compétences suivantes : [[Bluff]], [[Intimidation]] ou [[Connaissances]] (plans). Vous gagnez un bonus de trait de +1 aux tests associés et vous la considérez toujours comme une compétence de classe.
 
----
-{s:MR}{s:Reference|SEIGNEUREQUESTRE}**Seigneur équestre**
-*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].
+<hr />
+{s:MR}{s:Reference|SEIGNEUREQUESTRE}**Seigneur équestre**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kéléshites|Kéléshites]].  
 Le personnage a grandi en courant le long des plaines de Paresh, dans l’espoir qu’un jour il pourrait participer aux courses d’Histaqen. Il gagne un bonus de trait de +2 à ses tests de [[Dressage]] et un bonus de trait de +1 à ses tests d’[[Équitation]]. Ce trait ne s’applique qu’aux chevaux.
 
----
-{s:MR}{s:Reference|SERVIABLE}**Serviable**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:MR}{s:Reference|SERVIABLE}**Serviable**  
+*Restriction(s):* [[Halfelin]].  
 Le halfelin ne voit aucun mal à laisser les autres atteindre la réussite du moment qu’ils font leur travail. Lorsqu’il parvient à [[aider qqn|apporter son aide]] à l’action d’un autre, il accorde à son allié un bonus de +4 plutôt que le bonus normal de +2.
 
----
-{s:cs}{s:ISR}{s:Reference|SOLITAIREDESROCHERS}**Solitaire des rochers**
-*Restriction(s):* [[Oréade (race)|Oréade]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SOLITAIREDESROCHERS}**Solitaire des rochers**  
+*Restriction(s):* [[Oréade (race)|Oréade]].  
 Se sentant harcelé par des non-oréades superficiels, le personnage a choisi d'embrasser la vie d'ermite en entretenant que peu de contacts en dehors de son foyer rocheux. Il bénéficie d'un bonus de trait de +1 aux tests de [[Premiers secours]] et de [[Survie]]. Le bonus aux tests de Survie augmente de 1 en milieu souterrain et montagneux.
 
----
-{s:cs}{s:ISR}{s:Reference|SOUHAITMINEUR}**Souhait mineur**
-*Restriction(s):* [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]], [[Suli (race)|suli]] ou [[Sylphe (race)|sylphe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SOUHAITMINEUR}**Souhait mineur**  
+*Restriction(s):* [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]], [[Suli (race)|suli]] ou [[Sylphe (race)|sylphe]].  
 Le personnage a hérité d'une partie du pouvoir de réalisation de souhaits de son ancêtre génie. Il peut dépenser une utilisation quotidienne d'un pouvoir magique racial ou de son trait racial assaut élémentaire afin d'utiliser n'importe quel sort de niveau 0 comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] à la place. Le sort doit être utilisé pour produit un effet demandé à haute voix par un [[type Humanoïde|humanoïde]] dans un rayon de 9 mètres depuis la fin du dernier tour du personnage.
 
----
-{s:cs}{s:ISR}{s:Reference|SPECIALISATIONTATOUEE}**Spécialisation tatouée**
-*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SPECIALISATIONTATOUEE}**Spécialisation tatouée**  
+*Restriction(s):* [[Humain]] — habitant de [[Golarion.Varisie|Varisie]].  
 Le personnage possède un tatouage complexe qui affirme sa passion et ses talents dans celle-ci. Choisissez une compétence d'[[Artisanat]], de [[Profession]] ou de [[Représentation]]. Le personnage bénéficie d'un bonus de trait de +2 aux tests de cette compétence, et il s'agit toujours d'une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|SPECIALISTEDURANGEMENT}**Spécialiste du rangement**
-*Restriction(s):* [[Gnome]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SPECIALISTEDURANGEMENT}**Spécialiste du rangement**  
+*Restriction(s):* [[Gnome]].  
 Le personnage a déjà été ravi de trouver un objet qui pourrait être le joyau de sa collection, seulement pour être handicapé par son poids. Par la suite, il a appris à ranger ses trouvailles de la manière la plus efficace possible. Le personnage considère sa valeur de [[Force]] comme supérieure de 2 points afin de déterminer son [[poids transportable]].
 
----
-{s:MR}{s:Reference|SUPERSTITIEUX}**Superstitieux**
-*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].
+<hr />
+{s:MR}{s:Reference|SUPERSTITIEUX}**Superstitieux**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].  
 Le personnage craint, à juste titre, les paroles des ensorceleurs et les mots des magiciens, ce qui l’a aidé à survivre à leurs charmes. Il gagne un bonus de trait de +1 à ses [[jds|jets de sauvegarde]] contre les sorts profanes.
 
----
-{s:cs}{s:ISR}{s:Reference|SURVIVANTDUNCOMPLOT}**Survivant d'un complot**
-*Restriction(s):* [[Drow (race)|Drow]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SURVIVANTDUNCOMPLOT}**Survivant d'un complot**  
+*Restriction(s):* [[Drow (race)|Drow]].  
 Le personnage a survécu à la trahison d'un parent proche grâce à sa vivacité d'esprit et son estomac solide. Il bénéficie d'un bonus de trait de +1 aux tests de [[Psychologie]] et aux [[jds|jets de sauvegarde]] contre les [[poisons]].
 
----
-{s:cs}{s:ISR}{s:Reference|SURVIVANTDUNEEPIDEMIE}**Survivant d'une épidémie**
-*Restriction(s):* [[Humain]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SURVIVANTDUNEEPIDEMIE}**Survivant d'une épidémie**  
+*Restriction(s):* [[Humain]].  
 Le personnage a survécu à une maladie dans un taudis ou une zone sujette aux contagions. Il bénéficie d'un bonus de trait de +2 aux jets de [[Vigueur]] contre les [[maladies]] et aux tests de [[Constitution]] pour se [[Blessures et mort#STABLE|stabiliser]] lorsqu'il est [[mourant]].
 
----
-{s:cs}{s:ISR}{s:Reference|SURVIVANTMAGIQUE}**Survivant magique**
-*Restriction(s):* [[Trox (race)|Trox]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|SURVIVANTMAGIQUE}**Survivant magique**  
+*Restriction(s):* [[Trox (race)|Trox]].  
 Le personnage a fait face à des magies sournoises pour échapper à ses ravisseurs [[Duergar (race)|duergars]]. Choisissez deux [[jds|jets de sauvegarde]] parmi [[Réflexes]], [[Vigueur]] et [[Volonté]]. Le personnage bénéficie d'un bonus de trait de +1 aux jets de sauvegarde de ces types contre les sorts et les pouvoirs magiques, et subit un malus de -1 à tous les jets de sauvegarde du type restant.
 
----
-{s:MR}{s:Reference|TAILLEPOURLAGUERRE}**Taillé pour la guerre**
-*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].
+<hr />
+{s:MR}{s:Reference|TAILLEPOURLAGUERRE}**Taillé pour la guerre**  
+*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].  
 Le personnage domine la plupart des autres humains et se caractérise par son physique aux solides muscles tendus. Il gagne un bonus de trait de +1 au [[DMD]] du fait de sa grande taille. Il doit mesurer au moins 1,8 mètre.
 
----
-{s:MR}{s:Reference|TATOUAGEPROPICE}**Tatouage propice**
-*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].
+<hr />
+{s:MR}{s:Reference|TATOUAGEPROPICE}**Tatouage propice**  
+*Restriction(s):* [[Humain]] — membre des [[Golarion.Shoantis|Shoantis]].  
 Le personnage porte un tatouage représentant l’un des totems indiqués pour son quah, qui lui porte chance. Il gagne un bonus de trait de +1 à ses jets de [[Volonté]].
 
----
-{s:MR}{s:Reference|TEMERITEGOBELINE}**Témérité gobeline**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|TEMERITEGOBELINE}**Témérité gobeline**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Le personnage fait preuve d’une confiance en lui démesurée lors des combats. Lorsqu’il affronte un ennemi plus grand et si aucun allié n’occupe des cases adjacentes à la sienne, sa posture, ses vantardises et ses insultes lui octroient un bonus de trait de +1 à ses [[jet dattaque|jets d’attaque]] réalisés avec des armes de corps à corps sans allonge.
 
----
-{s:cs}{s:ISR}{s:Reference|TEMOINDELACRUAUTEDELANATURE}**Témoin de la cruauté de la nature**
-*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|TEMOINDELACRUAUTEDELANATURE}**Témoin de la cruauté de la nature**  
+*Restriction(s):* [[Humain]] — [[Golarion.Kellides|Kellides]].  
 Le personnage a vu de ses propres yeux les terribles conséquences de la famine et des éléments, et refuse de laisser même ses pires ennemis en souffrir. Il bénéficie d'un bonus de trait de +1 aux tests de [[Premiers secours]] et de [[Survie]] effectués au profit d'autrui. L'une de ces compétences (au choix) est toujours une compétence de classe pour lui.
 
----
-{s:cs}{s:ISR}{s:Reference|TENAILLEFEROCE}**Tenaille féroce**
-*Restriction(s):* [[Wivaran (race)|Wivaran]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|TENAILLEFEROCE}**Tenaille féroce**  
+*Restriction(s):* [[Wivaran (race)|Wivaran]].  
 Le personnage a été harcelé dans sa jeunesse mais soutenu par un ou plusieurs amis fidèles, ce qui lui a fait comprendre l'importance du travail d'équipe. Il bénéficie d'un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] contre les adversaires qu'il [[prise en tenaille|prend en tenaille]].
 
----
-{s:cs}{s:ISR}{s:Reference|TêTEBRULEE}**Tête brulée**
-*Restriction(s):* [[Ifrit (race)|Ifrit]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|TêTEBRULEE}**Tête brulée**  
+*Restriction(s):* [[Ifrit (race)|Ifrit]].  
 La menace constante des esclavagistes dans sa jeunesse a appris au personnage à attaquer d'abord et à poser des questions ensuite. Quand il [[charge]], le personnage bénéficie d'un bonus de trait de +1 à son [[Valeurs de combat#DEGATS|jet de dégâts]].
 
----
-{s:MR}{s:Reference|TETEDEBALLON}**Tête de ballon**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|TETEDEBALLON}**Tête de ballon**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 La tête du personnage est particulièrement grande et large, même pour un gobelin. Il gagne un bonus de trait de +1 sur ses tests de [[Perception]] qui devient une compétence de classe. Les tests d’[[Évasion]] effectués pour se faufiler au travers d’ouvertures étroites subissent une pénalité de -8.
 
----
-{s:MR}{s:Reference|TETEDEPORC}**Tête de porc**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|TETEDEPORC}**Tête de porc**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 Le personnage est un petit monstre repoussant aux origines troubles. Sa tête est petite pour un gobelin et sa bouche bizarrement étroite, ce qui lui permet de se fondre dans la masse des anonymes qui s’agglutinent dans les environnements urbains s’il fait profil bas. Pourtant, si on l’examine de près, on remarque rapidement son origine gobeline. Le personnage gagne un bonus de trait de +2 à ses tests de [[Déguisement]], qu’il considère désormais comme une compétence de classe.
 
----
-{s:RSE}{s:Reference|TIREAUFLANCACCOMPLI}**Tire-au-flanc accompli**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:RSE}{s:Reference|TIREAUFLANCACCOMPLI}**Tire-au-flanc accompli**  
+*Restriction(s):* [[Halfelin]].  
 Né et élevé comme esclave sans espoir d’évolution, le personnage est passé maître dans l’art d’éviter la colère et l’attention de son propriétaire, ce qui lui permet de consacrer plus de temps à ses propres intérêts. Il gagne un bonus de trait de +1 à ses tests de [[Discrétion]] et un bonus de trait de +3 à ses tests de [[Bluff]] et de [[Diplomatie]] pour éviter les châtiments de l’autorité légale.
 
----
-{s:cs}{s:ISR}{s:Reference|TIREURACOUVERT}**Tireur à couvert**
-*Restriction(s):* Kasatha.
+<hr />
+{s:cs}{s:ISR}{s:Reference|TIREURACOUVERT}**Tireur à couvert**  
+*Restriction(s):* Kasatha.  
 Le personnage a été attaqué par des étrangers qui ont menacé d'exposer son existence à des forces dangereuse et il s'est défendu en se mettant à l'abri. Le personnage bénéficie d'un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] des armes à distance tant qu'il profite d'un [[abri]] contre son adversaire.
 
----
-{s:cs}{s:ISR}{s:Reference|TIREURDELACANOPEE}**Tireur de la canopée**
-*Restriction(s):* [[Grippli (race)|Grippli]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|TIREURDELACANOPEE}**Tireur de la canopée**  
+*Restriction(s):* [[Grippli (race)|Grippli]].  
 Ayant grandi dans une jungle dangereuse, le personnage a appris à tirer parti de sa mobilité par rapport aux prédateurs plus grands et aux proies plus insaississables. Il bénéficie d'un bonus de trait de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] des armes à distance quand il est sur un terrain plus élevé que sa cible et qu'il se trouve à 9 mètres ou moins d'elle.
 
----
-{s:GC}{s:Reference|TOUCHEPARLAMORT}**Touché par la mort**
-*Restriction(s):* N'importe.
+<hr />
+{s:GC}{s:Reference|TOUCHEPARLAMORT}**Touché par la mort**  
+*Restriction(s):* N'importe.  
 Vous avez un jour été souillé par la corruption des morts-vivants et vous avez acquis une partie de leurs défenses. Vous pouvez choisir l’un des avantages suivants : un bonus de trait de +1 aux jets de [[Vigueur]] ou un bonus de trait de +2 aux [[jds|jets de sauvegarde]] contre les effets mentaux.
 
----
-{s:MR}{s:Reference|TRAGEDIEN}**Tragédien**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].
+<hr />
+{s:MR}{s:Reference|TRAGEDIEN}**Tragédien**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Chéliax|Chéliax]].  
 Le personnage a grandi au milieu des merveilles du théâtre de l'Empire diabolique et a passé d’innombrables heures dans les opéras de ce pays, et plus de temps encore à parfaire sa voix. Il gagne un bonus de trait de +1 à ses tests de [[Représentation]] (chant). De plus, il a mémorisé les librettos de nombreux chants dans la langue des premiers hommes, ce qui lui donne un bonus de trait de +2 à ses tests de [[Linguistique]] lorsqu’il essaye de déchiffrer la langue des premiers hommes.
 
----
-{s:MR}{s:Reference|TRIBAL}**Tribal**
-*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].
+<hr />
+{s:MR}{s:Reference|TRIBAL}**Tribal**  
+*Restriction(s):* [[Demi-orque]], [[Orque (race)|Orque]].  
 Le personnage est particulièrement fidèle à sa tribu. Lorsqu’il se situe à 18 mètres ou moins d’une [[Étendard tribal (objet)|bannière tribale]], il bénéficie d’un bonus de trait de +1 à ses [[jet dattaque|jets d’attaque]] et ses [[jds|jets de sauvegarde]] de [[Volonté]] contre les effets de peur, comme s’il bénéficiait des effets d’un sort de *[[bénédiction]]*.
 
----
-{s:cs}{s:ISR}{s:Reference|TUEURMARIN}**Tueur marin**
-*Restriction(s):* [[Tengu (race)|Tengu]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|TUEURMARIN}**Tueur marin**  
+*Restriction(s):* [[Tengu (race)|Tengu]].  
 À un âge vulnérable, le personnage a survécu à une rencontre avec une monstrueuse créature marine. Il réduit de 2 le bonus d'[[abri]] à la [[CA]] du à l'eau de ses adversaires.
 
----
-{s:cs}{s:ISR}{s:Reference|UNESEULEPAROLE}**Une seule parole**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|UNESEULEPAROLE}**Une seule parole**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Taldor|Taldor]].  
 La fiabilité est une partie intégrante de la personnalité du personnage. Une fois par jour, il peut ajouter un bonus de trait de +1 à un [[jet dattaque|jet d'attaque]], un [[jds|jet de sauvegarde]] ou un test de [[Compétences|compétence]] si la réussite de ce test contribue explicitement à l'accomplissement d'un accord verbal ou écrit qu'il a conclu. Vous devez déclarer l'utilisation de ce trait avant de lancer le dé, et cette capacité ne fonctionne pas si le personnage a conclu l'accord uniquement dans le but de l'activer.
 
----
-{s:MR}{s:Reference|VAURIEN}**Vaurien**
-*Restriction(s):* [[Gnome]].
+<hr />
+{s:MR}{s:Reference|VAURIEN}**Vaurien**  
+*Restriction(s):* [[Gnome]].  
 Le personnage a passé toute sa vie à mettre des bâtons dans les roues de l’ordre établi et il est fier de ses prises de bec avec la justice. Pourtant, malgré son comportement de sale gosse, il n’a jamais été appréhendé et a toujours eu une longueur d’avance sur ses poursuivants. Le personnage gagne un bonus de trait de +1 sur ses tests d’[[Évasion]] et d’initiative.
 
----
-{s:cs}{s:ISR}{s:Reference|VEXE}**Vexé**
-*Restriction(s):* [[Kobold (race)|Kobold]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VEXE}**Vexé**  
+*Restriction(s):* [[Kobold (race)|Kobold]].  
 Le personnage a échappé à maintes reprises à des gremlins saboteurs et a appris à éviter leur magie. Il bénéficie d'un bonus de trait de +1 aux [[jds|jets de sauvegarde]] contre les effets de [[registre|malédiction]] et de [[registre|peur]].
 
----
-{s:cs}{s:ISR}{s:Reference|VIPERE(HOBGOBELIN)}**Vipère (hobgobelin)**
-*Restriction(s):* [[Hobgobelin (race)|Hobgobelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VIPERE(HOBGOBELIN)}**Vipère (hobgobelin)**  
+*Restriction(s):* [[Hobgobelin (race)|Hobgobelin]].  
 Le personnage a été témoin ou a participé à une querelle qui a transformé des amis proches en ennemis mortels. Il bénéficie d'un bonus de trait de +2 aux tests de [[Bluff]] pour convaincre les autres que leurs alliés les ont trompés ainsi qu'aux tests de [[Diplomatie]] pour persuader les autres de trahir la confiance de leurs alliés.
 
----
-{s:MR}{s:Reference|VOIXDEVELOURS}**Voix de velours**
-*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].
+<hr />
+{s:MR}{s:Reference|VOIXDEVELOURS}**Voix de velours**  
+*Restriction(s):* [[Humain]] — [[Golarion.Vudrani|Vudrani]].  
 Le personnage est capable de chanter des chansons et de raconter des histoires qui atteignent directement le cœur de son entourage. Il gagne un bonus de trait de +1 à ses tests de [[Diplomatie]] et de [[Représentation]] (déclamation).
 
----
-{s:cs}{s:ISR}{s:Reference|VOIXPORTANTE}**Voix portante**
-*Restriction(s):* [[Sylphe (race)|Sylphe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VOIXPORTANTE}**Voix portante**  
+*Restriction(s):* [[Sylphe (race)|Sylphe]].  
 Le personnage a grandit au milieu d'orages puissants et a imité le roulement du tonnerre avec sa voix.  Il considère son [[NLS|niveau de lanceur de sorts]] comme supérieur de 2 afin de déterminer la portée des sorts et effets de [[registre|son]]. Les autres ne subissent pas le malus aux tests de [[Perception]] du au vent pour entendre la voix du personnage.
 
----
-{s:MR}{s:Reference|VOLEURCAMELEON}**Voleur caméléon**
-*Restriction(s):* [[Gobelin (race)|Gobelin]].
+<hr />
+{s:MR}{s:Reference|VOLEURCAMELEON}**Voleur caméléon**  
+*Restriction(s):* [[Gobelin (race)|Gobelin]].  
 La peau du personnage possède une teinte étrange qui s’adapte d’une façon ou d’une autre aux couleurs de son environnement. Peut-être est-ce dû aux nombreuses potions que sa mère a ingurgitées lorsqu’elle était enceinte. Peut-être que le personnage a été béni par les barghests. Peut-être est-il simplement meilleur que tous ces gobelins ennuyeux. Dans tous les cas, il gagne un bonus de trait de +2 à ses tests de [[Discrétion]] tant qu’il ne porte aucune armure ou une [[armure légère]] seulement.
 
----
-{s:cs}{s:ISR}{s:Reference|VOLEURDEBETAIL}**Voleur de bétail**
-*Restriction(s):* [[Orque (race)|Orque]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VOLEURDEBETAIL}**Voleur de bétail**  
+*Restriction(s):* [[Orque (race)|Orque]].  
 Le personnage a souvent aidé sa tribu à capturer et maîtriser de dangereux animaux et mégafaunes, ce qui lui a appris à les contrôler suffisamment bien pour éviter d'être tué. Une fois par jour, le personnage peut ajouter son modificateur de [[Force]] en plus de son modificateur de [[Charisme]] à un test de [[Dressage]].
 
----
-{s:cs}{s:ISR}{s:Reference|VOLONTAIREINTREPIDE}**Volontaire intrépide**
-*Restriction(s):* [[Halfelin]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VOLONTAIREINTREPIDE}**Volontaire intrépide**  
+*Restriction(s):* [[Halfelin]].  
 Comme beaucoup d'halfelins libres, le personnage s'est volontier engagé dans le service militaire ou dans un groupe d'aventuriers et a rencontré d'autres halfelins qui lui ont montré comment compenser sa petite taille. Choisissez une compétence basée sur la [[Force]] ou une [[manœuvres offensives|manœuvre offensive]]. Le personnage peut utiliser son modificateur de [[Dextérité]] à la place de son modificateur de [[Force]] afin de déterminer son bonus total avec cette compétence ou cette manœuvre offensive.
 
----
-{s:cs}{s:ISR}{s:Reference|VOYAGEURPLANETAIRE}**Voyageur planétaire**
-*Restriction(s):* [[Elfe]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|VOYAGEURPLANETAIRE}**Voyageur planétaire**  
+*Restriction(s):* [[Elfe]].  
 Le personnage saisit toute opportunité qui lui permet d'en apprendre plus ou de visiter des planètes lointaines. Il bénéficie d'un bonus de trait de +1 aux tests de [[Connaissances]] (folklore local), de [[Connaissances]] (géographie) et de [[Connaissances]] (nature) relatifs à d'autres planètes.
 
----
-{s:cs}{s:ISR}{s:Reference|ZELE(GARUNDI)}**Zélé (garundi)**
-*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].
+<hr />
+{s:cs}{s:ISR}{s:Reference|ZELE(GARUNDI)}**Zélé (garundi)**  
+*Restriction(s):* [[Humain]] — habitant du [[Golarion.Garund|Garund]].  
 Le personnage s'est senti perdu et sans but dans sa jeunesse jusqu'à ce que l'intervention poignante d'un mentor lui montre à quel point se jeter corps et âme dans ce qu'on fait peut être puissant. Une fois par jour, il peut ajouter un bonus de trait de +2 à n'importe quel [[jet dattaque|jet d'attaque]], [[jds|jet de sauvegarde]] ou test de [[Compétences|compétence]]. Vous devez déclarer l'utilisation de ce trait avant de lancer le dé. Quand le personnage utilise cette capacité, il subit un malus de -2 à la [[CA]] et aux jets de sauvegarde jusqu'à la fin de son prochain tour.

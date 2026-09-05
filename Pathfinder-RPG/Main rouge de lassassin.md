@@ -16,12 +16,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une bougie noire), F (un corps tué il y a jusqu'à 1 jour par [[NLS|niveau de lanceur de sorts]])
-**Portée** voir description
-**Cibles** une créature
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:UI}**École**  [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une bougie noire), F (un corps tué il y a jusqu'à 1 jour par [[NLS|niveau de lanceur de sorts]])  
+**Portée** voir description  
+**Cibles** une créature  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 En s'appuyant sur le lien spirituel entre un cadavre et son assassin, le personnage étend sa conscience à travers l'espace pour marquer l'assassin du cadavre qu'il a utilisé comme focalisateur pour ce sort, créant ainsi une manifestation physique de la culpabilité de l'assassin.

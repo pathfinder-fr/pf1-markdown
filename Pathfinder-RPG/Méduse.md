@@ -48,13 +48,13 @@ Les méduses sont des créatures d’apparence humaine qui possèdent
 une chevelure faite de serpents. À une distance de 9 mètres ou plus,
 les méduses peuvent facilement se faire passer pour des femmes
 séduisantes, pour autant que leurs cheveux serpentins soient
-couverts.
+couverts. 
 
 Si elles portent un tissu couvrant leur tête et leur visage, la
 tromperie peut également fonctionner à de plus courtes distances.
 Les méduses recourent au mensonge et aux déguisements qui
 cachent leur visage pour s’approcher de leurs adversaires afin
-de pouvoir utiliser leur regard de pétrification.
+de pouvoir utiliser leur regard de pétrification. 
 
 Elles aiment
 également jouer avec leurs proies et choisissent parfois de rester à
@@ -70,7 +70,7 @@ sont généralement des roublards, alors que celles qui se sont établies
 dans les régions plus sauvages se font souvent passer pour des
 rôdeurs ou des pisteurs. Les méduses les plus célèbres et les plus
 légendaires sont celles qui possèdent quelques
-niveaux de barde ou de prêtre.
+niveaux de barde ou de prêtre. 
 
 Les méduses urbaines, charismatiques et intelligentes,
 entretiennent souvent des relations étroites
@@ -78,7 +78,7 @@ avec les guildes de voleurs ou de la pègre locale.
 Elles peuvent s’allier avec des créatures aveugles
 ou des morts-vivants intelligents, ces deux
 types de créatures étant immunisés contre leur
-regard de pétrification.
+regard de pétrification. 
 
 Les méduses capables de lancer des sorts jouent souvent le rôle d’oracles
 ou de prophètes et s’établissent dans des
@@ -89,7 +89,7 @@ un grand plaisir de leurs
 fonctions et, lorsqu’elles reçoivent
 suffisamment d’offrandes et de
 flatterie, elles peuvent partager
-des secrets assez utiles.
+des secrets assez utiles. 
 
 Bien sûr, les repaires de ces créatures sont décorés
 des nombreuses statues de ceux qui les ont

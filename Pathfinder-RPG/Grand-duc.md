@@ -51,7 +51,7 @@ Categories:
 
 Bien que les grands-ducs paraissent imposants, l’essentiel de leur corpulence est dû à leurs plumes ébouriffées et à leur grosse tête. Les grands-ducs peuvent atteindre 1,50 mètre d’envergure et peser jusqu’à 2 kilos.
 
-Les grands-ducs chassent surtout de nuit, localisant leurs proies grâce à leur excellente ouïe. Leur régime alimentaire se compose de rongeurs que viennent compléter de petits oiseaux et des lapins.
+Les grands-ducs chassent surtout de nuit, localisant leurs proies grâce à leur excellente ouïe. Leur régime alimentaire se compose de rongeurs que viennent compléter de petits oiseaux et des lapins. 
 
 Vous pouvez appliquer l’archétype simple « jeune » pour obtenir un profil convenant aux hiboux classiques. Alors que les hiboux classiques peuvent servir de familiers, les hiboux de type grand-duc, plus massifs, servent généralement de compagnons animaux. Un familier hibou donne à son maître un bonus de +3 aux jets de Discrétion.
 

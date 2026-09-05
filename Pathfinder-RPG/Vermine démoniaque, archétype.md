@@ -105,9 +105,9 @@ Discrétion, Escalade, Perception, Psychologie et Vol.}
 et le draconique. Elle gagne aussi télépathie à 30 mètres.}
 </div>
 </td><td><div>
-Voir aussi les exemples :
-[[Araignée géante démoniaque]]
-[[Mouche géante démoniaque]]
+Voir aussi les exemples :  
+[[Araignée géante démoniaque]]  
+[[Mouche géante démoniaque]]  
 [[Scorpion piégeur démoniaque]]
 
 *Cette vermine démesurée présente des caractéristiques démoniaques et un reflet évident d’intelligence au fond des yeux.*

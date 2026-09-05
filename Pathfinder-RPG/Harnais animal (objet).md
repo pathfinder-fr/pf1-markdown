@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 1 kg
+{s:AE}**Prix** 2 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ce harnais en cuir ou en chanvre permet de maîtriser et de contrôler un animal domestique. Le harnais est un équipement standard pour quiconque cherche à apprendre des tours à un animal avec la compétence [[Dressage]]. Il existe des harnais tout prêts sur la plupart des marchés qui vendent des animaux domestiques courants comme les [[Chat (objet)|chats]], les [[Chien (objet)|chiens]], les [[Cheval (objet)|chevaux]] et les [[Bovin (objet)|bœufs]] mais on peut en fabriquer pour toutes les créatures ou presque.

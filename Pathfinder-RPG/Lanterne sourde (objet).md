@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 12 po ; **Poids** 1,5 kg
+{s:AE}**Prix** 12 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Une lanterne sourde génère un cône de [[Exploration#VISIONLUMIERE|lumière normale]] de 18 mètres de long et augmente la luminosité d'une catégorie dans un cône de 36 mètres de long au maximum au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne sourde n'augmente pas la luminosité de la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[[Huile (objet)|huile]]. Le personnage peut la tenir d'une main.

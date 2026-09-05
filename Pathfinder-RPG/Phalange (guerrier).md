@@ -17,7 +17,7 @@ Au niveau 2, un phalange reçoit un bonus à son [[DMD]] contre les tentatives d
 Au niveau 3, et lorsque le guerrier porte un bouclier, il peut utiliser une arme d'hast ou une lance d'une taille égale à la sienne comme s'il s'agissait d'une [[arme à une main]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1]].
 
 #### Levez les piques (Ext).
-Au niveau 5, le personnage peut préparer une arme de [[réception]] par une [[action immédiate]]. Il reçoit un bonus à ses jets d'attaque et de dégâts de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Il peut utiliser cette capacité une fois par jour au niveau 5, puis une fois de plus par tranche de quatre niveaux au delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]].
+Au niveau 5, le personnage peut préparer une arme de [[réception]] par une [[action immédiate]]. Il reçoit un bonus à ses jets d'attaque et de dégâts de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Il peut utiliser cette capacité une fois par jour au niveau 5, puis une fois de plus par tranche de quatre niveaux au delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]]. 
 
 #### Bouclier adroit (Ext).
 Au niveau 7, la pénalité d'armure du bouclier et la pénalité au [[jet dattaque|jet d'attaque]] sont réduites de -1 si le phalange utilise un [[pavois]]. Cette diminution de pénalité passe à -2 au niveau 11. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 2 et 3]].

@@ -19,6 +19,6 @@ Categories:
 **Durée** 1 [[round]]/[[niveau]] (T)  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Ceci fonctionne comme un sort de *[[confusion]]* mais affecte seulement les
-[[type créature artificielle|créatures artificielles]]. Au lieu de babiller de façon incohérente, elles ne font pas d’[[action]] quand vient leur tour (mais peuvent tout de même faire des
+Ceci fonctionne comme un sort de *[[confusion]]* mais affecte seulement les 
+[[type créature artificielle|créatures artificielles]]. Au lieu de babiller de façon incohérente, elles ne font pas d’[[action]] quand vient leur tour (mais peuvent tout de même faire des 
 [[attaque dopportunité|attaques d’opportunité]]).

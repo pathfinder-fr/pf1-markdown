@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 1 kg
+{s:AE}**Prix** 5 pa ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Le seau standard a une poignée de corde et peut contenir entre 4,5 et 9 litres de liquide.

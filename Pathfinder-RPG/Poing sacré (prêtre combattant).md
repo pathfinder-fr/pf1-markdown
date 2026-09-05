@@ -22,7 +22,7 @@ Les poings sacrés sont formés au maniement de la massue, de l’arbalète lég
 #### Bonus à la CA (Sur)
 Une divinité protège son poing sacré tant que celui-ci ne porte aucune armure et que la charge qu’il transporte reste légère. Un poing sacré ajoute son modificateur de Sagesse (minimum 0) à sa [[CA]] et à son [[DMD]]. De plus, il ajoute un bonus d'esquive de +1 à sa CA et à son DMD au niveau 4. Ce bonus augmente de +1 tous les 4 niveaux par la suite ( jusqu’à un maximum de +5 au niveau 20).
 
-Ces bonus à la CA s’appliquent aussi contre les attaques de contact et lorsque le poing sacré est pris au dépourvu. Il les perd s’il est immobilisé ou sans défense, s’il porte une armure ou un bouclier ou s’il transporte une charge intermédiaire ou lourde.
+Ces bonus à la CA s’appliquent aussi contre les attaques de contact et lorsque le poing sacré est pris au dépourvu. Il les perd s’il est immobilisé ou sans défense, s’il porte une armure ou un bouclier ou s’il transporte une charge intermédiaire ou lourde. 
 
 Cette capacité compte comme la capacité de moine du même nom et les niveaux de prêtre combattant du poing sacré se cumulent avec les niveaux de moines pour déterminer les bonus.
 

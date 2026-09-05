@@ -12,14 +12,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 1 000 po)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+{s:UM}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 1 000 po)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[symbole de mort]]* mais quand il se déclenche, il crée un capteur sensoriel de scrutation relié au personnage et centré sur le symbole, même si le personnage et le symbole se trouvent sur des [[plans]] différents. Si le personnage est conscient, il sait immédiatement que quelqu’un a déclenché le symbole et, s’il dort d’un sommeil normal, il se réveille instantanément. Le symbole ne perturbe pas sa [[concentration]]. Le personnage peut observer la zone à travers son symbole comme s’il utilisait un sort de *[[scrutation]]* dont la cible serait le capteur. Une fois le symbole déclenché il reste actif pendant 10 minutes par [[NLS|niveau de lanceur de sorts]].
 
 Contrairement au *[[symbole de mort]]*, celui-ci n’est pas assimilé à un piège magique. On peut rendre le *symbole de scrutation* permanent à l’aide d’un sort de *[[permanence]]* si le lanceur de sorts est de [[NLS|niveau]] 13 ou plus et s’il paie 10 000 po.
@@ -28,14 +28,14 @@ Contrairement au *[[symbole de mort]]*, celui-ci n’est pas assimilé à un pi�
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

@@ -14,14 +14,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (un bout de papier avec le nom de la cible)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature consentante
-**Durée** 10 minutes/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps
+{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (un bout de papier avec le nom de la cible)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature consentante  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Le personnage projette son âme hors de son corps, dans celui d’une créature consentante. La *[[protection contre le mal]]* et autres sceaux similaires empêchent ce transfert. L’âme de la cible partage son corps avec le personnage, elle est incapable de faire quoi que ce soit mais elle peut tout même utiliser ses sens. Le personnage et la cible peuvent communiquer par [[télépathie]] comme s’ils utilisaient un langage commun.
 
 Le personnage conserve son [[Intelligence]], sa [[Sagesse]], son [[Charisme]], son [[niveau]], sa [[classe]], son [[BBA|bonus de base à l’attaque]], son bonus aux [[jet de sauvegarde|jets de sauvegarde]], son [[alignement]] et ses capacités mentales. Le corps conserve sa [[Force]], sa [[Dextérité]], sa [[Constitution]], ses [[points de vie]], ses capacités naturelles et ses [[attaque naturelle|attaques naturelles]] (comme une morsure ou un aiguillon). Un corps avec des membres supplémentaires ne permet pas au personnage de faire des attaques en plus de la normale (ni des attaques plus avantageuses à deux armes). Le personnage ne peut pas activer les [[pouvoirs magiques]], [[pouvoirs extraordinaires|surnaturels]] ou [[pouvoirs extraordinaires|extraordinaires]] d’un personnage.
@@ -32,14 +32,14 @@ Le personnage peut retourner dans son corps par une [[action simple]], ce qui me
 
 (((
 ## Possession
-{s:Desambi|Suivant les règles de [[Possession spirituelle]] d'Aventures occultes, il est conseillé de remplacer ce sort par [[possession spirituelle (sort)|possession spirituelle]].}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F (une gemme ou un cristal d'une valeur d'au moins 100Po)]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** 1 créature
-**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le jeteur de sorts réintègre son corps
+{s:Desambi|Suivant les règles de [[Possession spirituelle]] d'Aventures occultes, il est conseillé de remplacer ce sort par [[possession spirituelle (sort)|possession spirituelle]].}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F (une gemme ou un cristal d'une valeur d'au moins 100Po)]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** 1 créature  
+**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le jeteur de sorts réintègre son corps  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 À la fin de l’incantation, l’âme du mage quitte son corps qui reste sans vie, pour aller se loger dans une pierre précieuse que l’on nomme généralement réceptacle magique. À partir de ce moment, le personnage peut tenter de prendre possession d’un corps proche en obligeant l’âme de sa victime à rentrer dans le réceptacle. Le personnage peut revenir dans la gemme quand il le souhaite (auquel cas l’âme chassée réintègre son corps) pour tenter de s’emparer d’un autre corps. Le sort s’achève quand le mage décide de réintégrer son corps (le réceptacle reste alors vide). Le personnage ne peut lancer *possession* que si le réceptacle se situe dans les limites de portée du sort et s’il sait où il se trouve (il n’a pas besoin de le voir). Quand l’âme entre dans la gemme, le corps du personnage devient inerte (il semble mort).
 
 Une fois dans la pierre précieuse, l’âme perçoit toute forme de vie distante de moins de 3 m par [[NLS|niveau du lanceur de sorts]] (dans le même plan uniquement). Elle peut l’attaquer si elle dispose d’une ligne d’effet dégagée (c’est-à-dire d’une ligne ininterrompue reliant la gemme à la cible). Le personnage ne peut pas découvrir l’identité ni la position exacte des créatures dont il perçoit la présence. Au sein d’un groupe de formes de vie, il perçoit juste une différence d’au moins 4 [[DV]] et sait si l’énergie qu’il sent est positive ou négative (les [[type mort-vivant|morts-vivants]] sont animés d’[[énergie négative]], mais seuls ceux qui sont doués d’intelligence possèdent une âme). Le personnage choisit donc s’il veut posséder une créature forte ou faible, mais l’identité exacte de la cible est déterminée aléatoirement.

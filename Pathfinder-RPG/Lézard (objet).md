@@ -8,9 +8,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pc (standard), 12 po (gecko de la Magiocratie) ; **Poids** 0,057 kg (standard), 0,011 kg (gecko de la Magiocratie)
+{s:AE}**Prix** 5 pc (standard), 12 po (gecko de la Magiocratie) ; **Poids** 0,057 kg (standard), 0,011 kg (gecko de la Magiocratie)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 On trouve ces animaux à sang froid de taille TP dans toutes les régions chaudes et ils sont souvent très colorés. Ils se nourrissent d’insectes et sont capables de grimper aux murs et de se suspendre aux plafonds. Les magiciens utilisent souvent les espèces les plus intelligentes comme [[Familiers]]. Voir les statistiques du [[lézard]].  
   
 {s:cs}{s:AA}*Gecko de la Magiocratie*. On dit des geckos de la Grande Magiocratie qu’ils sont particulièrement intelligents pour leur espèce, même avant de devenir des familiers.

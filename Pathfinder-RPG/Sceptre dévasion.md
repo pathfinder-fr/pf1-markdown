@@ -10,7 +10,7 @@ LastModified: 2024-05-28 18:48
 (((Description)))
 Forgé en fer froid, ce sceptre permet au porteur d’échapper aux liens ou aux étreintes les plus resserrés. Si un adversaire agrippe le porteur, le bout du sceptre s’allonge et s’agite dans tous les sens pour libérer son porteur. Le porteur du sceptre gagne un bonus de +5 au DMD lorsqu’il cherche à s’échapper ou à rompre une étreinte. En outre, il ne peut pas être immobilisé tant qu’il tient le sceptre.
 
-Le porteur gagne un bonus de compétence de +5 à ses tests d’[[Évasion]] lorsqu’il est retenu par des entraves non-magiques et inanimées, comme des cordes ou des menottes. Il n’a pas besoin de tenir le sceptre en main pour bénéficier de ce bonus, il doit simplement l’avoir sur lui.
+Le porteur gagne un bonus de compétence de +5 à ses tests d’[[Évasion]] lorsqu’il est retenu par des entraves non-magiques et inanimées, comme des cordes ou des menottes. Il n’a pas besoin de tenir le sceptre en main pour bénéficier de ce bonus, il doit simplement l’avoir sur lui. 
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[force de taureau]]*, *[[fracassement]]*, *[[grâce féline]]* ; **Coût** 7 500 po
 </div>

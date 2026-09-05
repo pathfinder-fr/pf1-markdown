@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa–25 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 1 pa–25 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Cette boîte en bois contient 28 dominos dont chaque extrémité est marquée d’un nombre ou de points. Un jeu de dominos standard est fait en bois ou en os mais il en existe de plus chers en ivoire, en pierre ou en métal.

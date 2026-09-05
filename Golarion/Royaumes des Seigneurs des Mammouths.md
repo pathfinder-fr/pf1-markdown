@@ -31,7 +31,7 @@ Les gens se réunissent en grandes tribus familiales. Si la plupart sont indépe
 Actuellement, la suite la plus grande est celle des disciples de la Peau d'Ours, dirigée par Kuldor le puissant. Mais il existe une multitude d'autres suites, dont les plus connues sont la Grande Défense, le Gouffre de Glace, l'Écaille de Rapace et la Mâchoire de Paresseux.
 
 ### Habitants du royaume des Seigneurs des Mammouths
-La particularité du royaume des Seigneurs des Mammouths réside dans le fait qu'il s'agit du dernier royaume où les Kellids vivent encore selon leurs traditions, en dehors de l'influence des autres nations.
+La particularité du royaume des Seigneurs des Mammouths réside dans le fait qu'il s'agit du dernier royaume où les Kellids vivent encore selon leurs traditions, en dehors de l'influence des autres nations. 
 
 Les occupants les plus connus du territoire appartiennent à la mégafaune, des mammouths aux paresseux géants. Des légendes sur ces créatures merveilleuses courent dans les tavernes du sud du pays et attirent plus d'un explorateur ou d'un marchand intrépide. Sur les marchés du sud, les prix de ces créatures sont très élevés si elles sont capturées vivantes.
 

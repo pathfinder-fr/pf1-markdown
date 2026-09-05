@@ -10,9 +10,9 @@ Categories:
 {s:BDTitre|Bâton de givre|}
 **Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 41 400 po ; **Poids** 2,5 kg
 (((Description)))
-Le bâton du givre est décoré d’un diamant étincelant à chacune de ses extrémités et des runes courent sur toute sa longueur. Il propose les sorts suivants :
-• *[[cône de froid]]* (3 charges)
-• *[[mur de glace]]* (2 charges)
+Le bâton du givre est décoré d’un diamant étincelant à chacune de ses extrémités et des runes courent sur toute sa longueur. Il propose les sorts suivants :  
+• *[[cône de froid]]* (3 charges)  
+• *[[mur de glace]]* (2 charges)  
 • *[[tempête de grêle]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[cône de froid]]*, *[[mur de glace]]*, *[[tempête de grêle]]* ; **Coût** 20 700 po

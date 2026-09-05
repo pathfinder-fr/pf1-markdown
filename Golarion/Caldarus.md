@@ -13,6 +13,6 @@ En apparence, ils sont grands avec la peau très matte ou couleur olive. Leurs c
 Les Caldarus de [[Senghor]] croient que leurs ancêtres arrivèrent dans la région depuis une terre lointaine, que ceux-ci ont perdu tout contact avec leur région d'origine et qu'ils ont fait de cette région de l'[[Mwangi|étendue Mwangi]] leur propre terre.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Caldarus dans le supplément
+Vous pourrez trouver plus d'informations à propos des Caldarus dans le supplément 
 - [[Golarion.Publications#HEARTOFTHEJUNGLE|Pathfinder Chronicles: Heart of the Jungle]].
 {s:VoirAussiAprès}

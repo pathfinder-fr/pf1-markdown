@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-La cité d'Alkenastre est la capitale du Grand Duché d'[[Alkenastre]] auquel elle a donné son nom. Elle s'étend sur les bords du canyon créé par le fleuve [[Ustradi]], au sommet de la Cascade d'Alken.
+La cité d'Alkenastre est la capitale du Grand Duché d'[[Alkenastre]] auquel elle a donné son nom. Elle s'étend sur les bords du canyon créé par le fleuve [[Ustradi]], au sommet de la Cascade d'Alken. 
 
 En raison de la très forte activité industrielle de la ville, son atmosphère est constamment enveloppée dans les volutes de fumée et de vapeur issues des cheminées des usines et des forges. De plus, le visiteur remarquera aisément que la suie macule l'ensemble des bâtiments.
 

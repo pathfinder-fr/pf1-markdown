@@ -17,13 +17,13 @@ Categories:
 
 **Condition.** [[Homme-rat (race)|Homme-rat]], trait racial [[Homme-rat (race)#Traits_raciaux_standards_7|regroupement]]
 
-**Avantage.** Le personnage peut utiliser sa capacité raciale regroupement pour entrer dans le même espace que tout allié volontaire de sa taille ou d'une catégorie de taille supérieure, apportant les bénéfices du trait racial regroupement au personnage comme si son allié était lui aussi un homme-rat disposant de ce trait racial. Cet allié n'obtient aucun avantage en partageant son espace avec le personnage à moins qu'il ne dispose également du trait racial regroupement.
+**Avantage.** Le personnage peut utiliser sa capacité raciale regroupement pour entrer dans le même espace que tout allié volontaire de sa taille ou d'une catégorie de taille supérieure, apportant les bénéfices du trait racial regroupement au personnage comme si son allié était lui aussi un homme-rat disposant de ce trait racial. Cet allié n'obtient aucun avantage en partageant son espace avec le personnage à moins qu'il ne dispose également du trait racial regroupement. 
 
 De plus, le personnage traite l'allié dont il partage l'espace comme s'il disposait des mêmes dons de travail en équipe que lui lorsqu'il s'agit de déterminer si le personnage obtient un avantage de ses dons de travail en équipe. Cet allié n'obtient aucun avantage de ces dons de travail en équipe à moins qu'il ne les possèdent lui aussi. Le personnage et son allié ainsi que leurs positions respectives doivent néanmoins toujours correspondre aux conditions listées dans les dons de travail en équipe pour en obtenir les bénéfices, mais l'allié est considéré comme étant adjacent au personnage tant qu'il partage son espace occupé lorsqu'il s'agit de déterminer si lui et le personnage obtiennent un avantage.
 
 (((Scurrying Swarmer (Combat)
 
-You abandon all notion of personal space when in danger, scurrying about your allies in search of the best vantage point from which to strike at your foes.
+You abandon all notion of personal space when in danger, scurrying about your allies in search of the best vantage point from which to strike at your foes. 
 
 Prerequisites: Ratfolk, swarming racial trait.
 

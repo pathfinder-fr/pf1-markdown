@@ -9,7 +9,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Diamant gémissant|{s:AE}}
-**Aura** [[Transmutation]] surpuissante ; **NLS** 20 ; **Emplacement**
+**Aura** [[Transmutation]] surpuissante ; **NLS** 20 ; **Emplacement** 
 [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 2 kg
 (((Description)))
 Trois fois par jour, le porteur du diamant gémissant peut refaçonner la terre et la pierre comme s’il utilisait le sort de *[[façonnage de la pierre]]*, affectant 150 m3 de matière. Une fois par jour, le diamant gémissant peut également convoquer un [[Élémentaire de la Terre#_5|seigneur élémentaire de terre]] avec le maximum de points de vie. Il sert le personnage jusqu’à ce qu’il soit tué. Le personnage ne peut convoquer qu’un seul élémentaire à la fois. Le son du diamant gémissant est presque impossible à camoufler : les créatures ont un bonus de +10 à leurs tests de [[Perception]] pour détecter sa présence ou celle de son porteur.

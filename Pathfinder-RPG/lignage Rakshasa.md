@@ -44,7 +44,7 @@ pouvoir fonctionne comme un sort d’*[[antidétection]]* actif en permanence su
 **Extérieur (Sur).** Au [[niveau]] 20, la forme naturelle du personnage devient celle d’un humanoïde à tête d’animal, comme un véritable [[rakshasa]]. Ceci ne modifie pas sa capacité à parler ou à lancer des sorts. Il peut utiliser *[[modification dapparence|modification d’apparence]]* ou un autre déguisement et des pouvoirs de métamorphose pour reprendre son apparence originelle ou une autre quand il le souhaite. Le personnage est désormais considéré comme un [[type extérieur|extérieur]] [[sous-type natif|natif]] et non plus comme un [[type humanoïde|humanoïde]] (ou comme son type originel s’il était différent). Contrairement aux autres [[type extérieur|extérieurs]] il est toujours possible de le ramener à la vie comme s’il appartenait encore à son type de créature originel. Il gagne une [[RD]] 10/perforant.
 
 ## Lignage Rakshasa semi-officiel (Kobold Quarterly)
-{s:cs}<div class="description">*Source : [Kobold Quarterly](http://www.koboldquarterly.com/k/article3799.php) (auteur : Rob Billingham)*</div>
+{s:cs}<div class="description">*Source : [Kobold Quarterly](http://www.koboldquarterly.com/k/article3799.php) (auteur : Rob Billingham)*</div>  
 *À la fois esprits brillants et malfaisants, les rakshasas sont des Extérieurs maléfiques qui adorent le pouvoir et la cruauté plus que toute autre chose. Dans leur quête éternelle du plaisir et de la vénération, les rakshasas ne se préoccupent guère des vies qu'ils détruisent. Un individu figurant parmi les membres les plus indulgents de cette race a laissé sa marque sur la famille du personnage.*
 
 **Compétence de classe.** Déguisement.

@@ -9,27 +9,27 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 4, [[psychiste|Psy]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** 9 m
-**Zone** étendue de 9 m de rayon centrée sur le lanceur
-**Durée** 1d4 [[round|rounds]], voir texte
+{s:AO}** École **[[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 4, [[psychiste|Psy]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** 9 m  
+**Zone** étendue de 9 m de rayon centrée sur le lanceur  
+**Durée** 1d4 [[round|rounds]], voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage émet une pulsation mentale qui [[États préjudiciables#Étourdi|étourdit]] toutes les créatures à portée de ce hurlement psychique pendant 1d4 rounds. Sur un jet de sauvegarde réussi, la cible est seulement [[États préjudiciables#Fiévreux|fiévreuse]] pendant 1 [[round]].
 
 
 
 (((
 ## Pulsation synaptique
-{s:AO}** École **[[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 3, [[psychiste|Psy]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** 9 m
-**Zone** étendue de 9 m de rayon centrée sur le lanceur
-**Durée** 1 [[round]]
+{s:AO}** École **[[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 3, [[psychiste|Psy]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** 9 m  
+**Zone** étendue de 9 m de rayon centrée sur le lanceur  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage émet une pulsation mentale qui [[États préjudiciables#Étourdi|étourdit]] toutes les créatures à portée de ce hurlement psychique pendant 1 [[round]].
 )))

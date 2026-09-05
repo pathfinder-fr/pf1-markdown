@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 po ; **Poids** —
+{s:cs}{s:AA}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 Fabriquées à partir des chardons d'une plante vénéneuse, ces flèches barbelées infligent des dégâts sous forme d'effet de [[saignement]] pendant 1d6 [[round|rounds]] après une attaque réussie.

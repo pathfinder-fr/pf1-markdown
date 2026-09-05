@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** Pouvoir de classe pacte divin (armure ou bouclier) ou armure sacrée.
 
-**Avantage.** Lorsque son armure ou son bouclier est sous les effets de son pouvoir de pacte divin ou d’armure sacrée, le personnage gagne une [[RD|réduction de dégâts]] égale au bonus d’altération de son armure (ce qui inclut le bonus de son pacte divin ou de son armure sacrée) contre la première attaque qui le touche à chaque round.
+**Avantage.** Lorsque son armure ou son bouclier est sous les effets de son pouvoir de pacte divin ou d’armure sacrée, le personnage gagne une [[RD|réduction de dégâts]] égale au bonus d’altération de son armure (ce qui inclut le bonus de son pacte divin ou de son armure sacrée) contre la première attaque qui le touche à chaque round. 
 
 Les armes en [[Matériaux spéciaux#ADAMANTIUM|adamantium]] passent cette réduction de dégâts mais toute attaque portée contre le personnage avec une telle arme n’est pas décomptée de la durée de l’effet.

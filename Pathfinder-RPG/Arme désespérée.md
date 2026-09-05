@@ -15,12 +15,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Antipaladin|Antipal]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]]
-**Effet** une [[arme improvisée]] à une main
-**Durée** 1 minute/niveau
+{s:cs}{s:UI}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Antipaladin|Antipal]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]]  
+**Effet** une [[arme improvisée]] à une main  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée un objet porté à une main qu'on pourrait s'attendre à trouver dans son environnement actuel et qu'il peut ensuite utiliser comme une [[arme improvisée]]. Le sort invoque cet objet près de la main du personnage pour qu'il puisse s'en saisir après le lancement du sort. Quelque soit l'objet choisi, il fonctionne comme une arme improvisée à une main d'une taille appropriée à la sienne qui inflige 1d6 points de dégâts pour une créature de taille M (1d4 pour une créature de taille P). L'objet inflige des dégâts du type choisi (contondant, perforant ou tranchant) lorsque le personnage lance le sort, mais sa forme doit être cohérente avec ce type de dégâts.

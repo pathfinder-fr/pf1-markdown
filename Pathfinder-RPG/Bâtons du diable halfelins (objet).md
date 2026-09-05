@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 25 po ; **Poids** 0,5 kg
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 25 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Ces quatre bâtons aux couleurs vives sont ornés de serpentins colorés qui créent de jolis motifs quand on jongle avec. Les [[Halfelin|halfelins]] sont particulièrement doués pour s’en servir et gagnent un bonus de circonstances de +2 aux tests de [[Représentation]] (comédie).

@@ -13,7 +13,7 @@ Si le porteur est une créature qui use de magie pour altérer sa forme, il gagn
 *Bandeau de métamorphe +2* : le porteur ajoute +1 à son [[NLS|niveau de lanceur de sorts]] lorsqu’il lance des sorts ou crée des extraits de type *[[métamorphose]]*.\
 *Bandeau de métamorphe +4* : une fois par jour et par une [[action simple]] alors qu’il est sous l’effet d’un sort ou d’un extrait de *[[métamorphose]]*, le porteur peut prendre une autre forme dans les limites des possibilités offertes par cet effet.\
 *Bandeau de métamorphe +6* : à chaque fois que le porteur change de forme grâce à un effet de *[[métamorphose]]*, il gagne une [[RD]] 5/ argent pendant 1 minute (cet effet prend fin s’il reprend sa forme d’origine).\
-Ces pouvoirs de métamorphe supplémentaires sont cumulatifs. Par exemple, une créature qui porte un *bandeau de métamorphe +4* gagne le pouvoir de transformation supplémentaire et ajoute +1 à son [[NLS|niveau de lanceur de sorts]] lorsqu’elle lance des sorts ou crée des extraits de *[[métamorphose]]*.
+Ces pouvoirs de métamorphe supplémentaires sont cumulatifs. Par exemple, une créature qui porte un *bandeau de métamorphe +4* gagne le pouvoir de transformation supplémentaire et ajoute +1 à son [[NLS|niveau de lanceur de sorts]] lorsqu’elle lance des sorts ou crée des extraits de *[[métamorphose]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[métamorphose]]*  ; **Coût** 2.250 po (+2), 8.750 po (+4) ou 19.500 po (+6)
 </div>

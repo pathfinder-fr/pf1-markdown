@@ -48,13 +48,13 @@ Les morlocks sont des humains dégénérés qui ont quitté depuis
 longtemps le monde de la lumière et qui, après de nombreuses
 années de vie sous terre, ont régressé jusqu’à devenir des bêtes
 voraces à peine intelligentes et adaptées au monde des ténèbres
-éternelles.
+éternelles. 
 
 Ils ne se souviennent plus du tout de l’existence
 civilisée qu’ont mené leurs ancêtres, même s’ils vivent encore dans
 les ruines brisées de leurs demeures ancestrales. Ironie du sort, de
 nombreux morlocks vénèrent les statues que leurs ancêtres ont
-créées comme s’il s’agissait de dieux.
+créées comme s’il s’agissait de dieux. 
 
 Les prêtres morlocks de ces cultes des anciens ont accès aux domaines de la Folie, de la Force,
 des Ténèbres et de la Terre. Un morlock moyen mesure un peu
@@ -71,11 +71,11 @@ Les morlocks donnent généralement naissance à des portées de
 trois ou quatre bébés à la fois, des créatures voraces qui naissent
 avec toutes leurs dents et des instincts cannibales. Au cours des
 premières semaines, les jeunes doivent être surveillés de près pour
-éviter que leur nombre ne se réduise.
+éviter que leur nombre ne se réduise. 
 
 Ce n’est qu’après cette période que les jeunes morlocks parviennent à maîtriser leur propension
 naturelle à dévorer tout ce qui leur tombe sous la main. Les morlocks
-atteignent rapidement l’âge adulte, après seulement 5 années.
+atteignent rapidement l’âge adulte, après seulement 5 années. 
 
 Un morlock peut vivre jusqu’à 60 ans
 mais la plupart des individus

@@ -65,7 +65,7 @@ quatre éléments et doivent donc passer la plupart de leur temps
 sur le plan Matériel. Certains érudits présentent même les janns
 comme les plus « humains » de tous les génies (mais les janns
 sont prompts à réagir à cette insulte, généralement en prenant les
-armes).
+armes). 
 
 Les janns ont un physique similaire à celui des
 humains : 1,80 mètre de hauteur et à peu près 90 kg.
@@ -87,7 +87,7 @@ humains mais sont souvent
 prêts à leur accorder le bénéfice
 du doute. La culture des janns donne
 beaucoup d’importance à la tradition
-de l’hospitalité.
+de l’hospitalité. 
 
 Jamais un jann ne
 tournera le dos à un individu qui a

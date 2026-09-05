@@ -13,13 +13,13 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des ricanements|}
 **Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 56 700 po ; **Poids** 2,5 kg
 (((Description)))
-Les épines qui garnissent ce bout de bois noueux le rendent difficile à manier pour les imprudents. Il permet de lancer les sorts suivants :
-• *[[baiser du vampire]]* (2 charges)
-• *[[blessure modérée]]* (1 charge)
-• *[[cécitésurdité|cécité/surdité]]* (1 charge)
-• *[[charme-personne]]* (1 charge)
-• *[[immobilisation de personne]]* (1 charge)
-• *[[malédiction]]* (2 charges)
+Les épines qui garnissent ce bout de bois noueux le rendent difficile à manier pour les imprudents. Il permet de lancer les sorts suivants :  
+• *[[baiser du vampire]]* (2 charges)  
+• *[[blessure modérée]]* (1 charge)  
+• *[[cécitésurdité|cécité/surdité]]* (1 charge)  
+• *[[charme-personne]]* (1 charge)  
+• *[[immobilisation de personne]]* (1 charge)  
+• *[[malédiction]]* (2 charges)  
 • *[[métamorphose funeste]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[baiser du vampire]]*, *[[blessure modérée]]*, *[[cécitésurdité|cécité/surdité]]*, *[[charme-personne]]*, *[[immobilisation de personne]]*, *[[malédiction]]*, *[[métamorphose funeste]]* ; **Coût** 28 350 po

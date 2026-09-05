@@ -10,12 +10,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (poudre de pierres précieuses d’une valeur de 100 po)
-**Portée** contact
-**Cible** une pièce d’or ou de platine
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (poudre de pierres précieuses d’une valeur de 100 po)  
+**Portée** contact  
+**Cible** une pièce d’or ou de platine  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 *Développé par les prêtres du dieu de la civilisation pour appréhender les voleurs et les arnaqueurs, ce sort a ensuite été utilisé par diverses autres religions et a été modifié pour pouvoir être pratiqué par des lanceurs de sorts profanes grâce aux efforts combinés d'un Explorateur maître des sorts et d'un autre maître des parchemins. Les Explorateurs utilisent le plus souvent ce sort pour remonter la piste des pots-de-vin et des achats illicites jusqu’à leur principal commanditaire, tout particulièrement lorsqu’ils suspectent l’influence des agents du Consortium.*

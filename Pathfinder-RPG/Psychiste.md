@@ -5,9 +5,9 @@ LastModified: 2024-10-03 15:36
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi les [[Amplifications phréniques]].***
-***Voir aussi les [[Disciplines psychiques]].***
-***Voir aussi la [[Sorts de psychiste|liste des sorts de psychiste]].***
+<div class="fright">***Voir aussi les [[Amplifications phréniques]].***  
+***Voir aussi les [[Disciplines psychiques]].***  
+***Voir aussi la [[Sorts de psychiste|liste des sorts de psychiste]].***  
 {s:PM0|psychiste}**Voir les archétypes du psychiste**&emsp;
 <li ID="psychiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypepsychiste}</li>
 </div>{s:AO}*L’esprit de toutes les créatures douées de sensations recèle un pouvoir qui rivalise avec le plus formidable des artefacts magiques ou des sites sacrés. En accédant à ces stupéfiants trésors d’énergie mentale, le psychiste peut façonner le monde qui l’entoure, manipuler les esprits et ouvrir la voie menant vers d’autres plans. Aucun endroit n’est trop isolé et aucune idée trop secrète pour un psychiste capable de maîtriser tous les types de magie psychique. Les méthodes qui permettent aux psychistes de développer leurs pouvoirs mentaux sont nombreuses et les disciplines auxquelles ils adhèrent affectent leurs aptitudes.*
@@ -403,7 +403,7 @@ Les compétences de classe du psychiste sont les suivantes : [[Art de la magie]]
 Les aptitudes du psychiste sont décrites ci-dessous.
 
 #### Armes et armures
-Le psychiste est formé au maniement de toutes les armes courantes mais pas au port des armures ni à l’utilisation des boucliers.
+Le psychiste est formé au maniement de toutes les armes courantes mais pas au port des armures ni à l’utilisation des boucliers. 
 
 #### Sorts
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
@@ -714,9 +714,9 @@ Le sort en cours d’incantation est appelé sort lié. Le psychiste peut active
 
 {s:Reference|DISCIPLINEPSYCHIQUE}{s:Reference|POUVOIRDISCIPLINAIRE}{s:Reference|SORTDISCIPLINAIRE}
 #### Discipline psychique
-Chaque psychiste apprend et améliore ses pouvoirs mentaux par l’application d’une méthode particulière telle qu’un apprentissage rigoureux ou l’atteinte d’un état mental particulier.
+Chaque psychiste apprend et améliore ses pouvoirs mentaux par l’application d’une méthode particulière telle qu’un apprentissage rigoureux ou l’atteinte d’un état mental particulier. 
 
-Ces méthodes sont appelées disciplines psychiques. Un psychiste ajoute des sorts supplémentaires à son répertoire de sorts connus en fonction de la discipline choisie dans la [[Disciplines psychiques|liste des disciplines psychiques]]. Le choix de la discipline doit être fait au niveau 1 et ne peut être changé par la suite. Chaque discipline psychique confère au psychiste un certain nombre de pouvoirs de discipline (aux niveaux 1, 5 et 13) etlui permet d’ajouter des sorts à son répertoire. De plus, la discipline détermine la valeur de caractéristique appliquée par le psychiste pour ses aptitudes de réserve et d’amplifications phréniques. Le [[DD]] des jets de sauvegarde contre un pouvoir de discipline psychique est égal à 10 + la moitié du niveau de psychiste + le modificateur d’[[Intelligence]] du psychiste.
+Ces méthodes sont appelées disciplines psychiques. Un psychiste ajoute des sorts supplémentaires à son répertoire de sorts connus en fonction de la discipline choisie dans la [[Disciplines psychiques|liste des disciplines psychiques]]. Le choix de la discipline doit être fait au niveau 1 et ne peut être changé par la suite. Chaque discipline psychique confère au psychiste un certain nombre de pouvoirs de discipline (aux niveaux 1, 5 et 13) etlui permet d’ajouter des sorts à son répertoire. De plus, la discipline détermine la valeur de caractéristique appliquée par le psychiste pour ses aptitudes de réserve et d’amplifications phréniques. Le [[DD]] des jets de sauvegarde contre un pouvoir de discipline psychique est égal à 10 + la moitié du niveau de psychiste + le modificateur d’[[Intelligence]] du psychiste. 
 
 Au niveau 1, un psychiste apprend un sort supplémentaire déterminé par sa discipline. Il apprend un autre sort supplémentaire au niveau 4 et tous les 2 niveaux par la suite, jusqu’au dernier sort au niveau 18. Ces sorts viennent en plus du nombre de ceux indiqués dans la Table 1-8. Les sorts appris par le biais d’une discipline ne peuvent être échangés contre des sorts différents au fur et à mesure que le personnage gagne des niveaux.
 
@@ -729,13 +729,13 @@ un psychiste qui connaît déjà ce sort obtient cette aptitude, il peut apprend
 
 {s:Reference|LIENTELEPATHIQUE}
 #### Lien télépathique (Mag)
-Au niveau 9, un psychiste peut utiliser un lien télépathique sous forme de pouvoir magique une fois par jour, en appliquant son niveau de psychiste en guise de niveau de lanceur de sorts. Il doit obligatoirement faire partie des créatures unies par le lien télépathique créé par ce pouvoir. Il peut également dépenser un emplacement de sort inutilisé de niveau 4 ou plus pour lancer lien télépathique. L’incantation du sort en utilisant un emplacement de sort de niveau plus élevé ne confère aucun avantage particulier mais le psychiste peut appliquer des dons de métamagie qui augmentent le niveau du sort jusqu’à celui de l’emplacement.
+Au niveau 9, un psychiste peut utiliser un lien télépathique sous forme de pouvoir magique une fois par jour, en appliquant son niveau de psychiste en guise de niveau de lanceur de sorts. Il doit obligatoirement faire partie des créatures unies par le lien télépathique créé par ce pouvoir. Il peut également dépenser un emplacement de sort inutilisé de niveau 4 ou plus pour lancer lien télépathique. L’incantation du sort en utilisant un emplacement de sort de niveau plus élevé ne confère aucun avantage particulier mais le psychiste peut appliquer des dons de métamagie qui augmentent le niveau du sort jusqu’à celui de l’emplacement. 
 
 Par exemple, si le psychiste connaît Extension de durée, il peut utiliser un emplacement de sort de niveau 5 pour lancer un lien télépathique à extension de durée par une action complexe. Quand un psychiste qui connaît déjà ce sort obtient cette aptitude, il peut apprendre un sort différent de niveau 4 différent à la place de lien télépathique.
 
 {s:Reference|AMPLIFICATIONSMAJEURES}
 #### Amplifications majeures
-Au niveau 11 et tous les 4 niveaux par la suite, un psychiste choisit l’une des amplifications majeures à la place d’une amplification phrénique.
+Au niveau 11 et tous les 4 niveaux par la suite, un psychiste choisit l’une des amplifications majeures à la place d’une amplification phrénique. 
 
 *Voir la [[Amplifications phréniques#AMPLIFICATIONSMAJEURES|liste des amplifications majeures]].*
 
@@ -746,6 +746,6 @@ une langue et située à 30 mètres ou moins. Il est possible de communiquer ave
 
 {s:Reference|MANIPULATIONDUSOI}
 #### Manipulation du soi (Mag)
-Au niveau 20, le psychiste est affecté par l’un des sorts suivants sous forme de pouvoir magique constant : *[[antidétection]]*, *[[don des langues]]*, *[[héroïsme]]*, *[[vision magique]]* ou *[[sort vol|vol]]*.
+Au niveau 20, le psychiste est affecté par l’un des sorts suivants sous forme de pouvoir magique constant : *[[antidétection]]*, *[[don des langues]]*, *[[héroïsme]]*, *[[vision magique]]* ou *[[sort vol|vol]]*. 
 
 Le psychiste choisit ce pouvoir quand il atteint le niveau 20 et ne peut plus en changer par la suite. Quand il est sous l’effet de ce pouvoir magique et chaque fois qu’il lance un sort psychique, il peut lier à ce sort une amplification phrénique ou majeure de son répertoire dont le coût en point de réserve phrénique s’élève à 1 sans dépenser le moindre point. Cette amplification vient en plus de la limite maximale d’une amplification par sort.

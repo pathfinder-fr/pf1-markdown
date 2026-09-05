@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po (léger), 75 po (intermédiaire), 100 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 3 cp (lourd)
+{s:AE}**Prix** 50 po (léger), 75 po (intermédiaire), 100 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 3 cp (lourd)  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 Ce véhicule à deux roues est tiré par un cheval. Il existe trois types de chars.  
   
 *Chars légers.* Ces chars sont souvent utilisés pour les courses ou comme plateforme pour un archer chargeant sur un champ de bataille à grande vitesse.  

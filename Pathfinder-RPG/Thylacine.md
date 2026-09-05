@@ -58,7 +58,7 @@ LastModified: 2020-09-21 15:20
 
 {s:BDTexte|**Mâchoire puissantes (Ext)** Les mâchoires musclées du thylacine peuvent porter un coup critique sur un 19 ou un 20 naturel.}
 
-</div>
+</div> 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
 <p class="tablo-caption">Variantes de marsupial</p>

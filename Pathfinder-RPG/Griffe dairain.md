@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Griffe d'airain|{s:CSU|8}}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 18 315 po ; **Poids** 1,8 kg
 (((Description)))
-{s:cs}<u>***Contenu issu d'un supplément 3.5***</u>
+{s:cs}<u>***Contenu issu d'un supplément 3.5***</u>  
 *Presque tous les gnolls s’accordent pour dire que leur espèce est issue de la déesse de la folie, mais les gnolls du Bazar du Bizarre ont une genèse unique. Lorsque la déesse a créé l’ancêtre des gnolls à partir de la terre, la pointe de l’une de ses griffes s’est brisée et s’est enfoncée dans le sol. Plus tard, les gnolls vivant dans la frontière montagneuse au nord du pays ont trouvé la pointe de la griffe et l’ont façonnée pour en faire une épée au tranchant dentelé. Les gnolls considèrent la griffe d’airain comme une relique sacrée, malgré ses pouvoirs modestes. Un leader gnoll s’est servi de la griffe d’airain durant le siège d'une grande ville du Bazar du Bizarre, mais les rumeurs racontent à voix basse qu’il a depuis perdu l’épée au profit de forces inconnues.*
 
 Ce morceau d’airain incurvé au tranchant effilé comme un rasoir agit comme un *[[cimeterre (arme)|cimeterre]] [[vicieuse (propriété)|vicieux]] +2*. Si un [[Gnoll]] manie la *griffe d’airain*, il ne subit aucun dégât dû à la propriété *vicieuse* de l’épée.

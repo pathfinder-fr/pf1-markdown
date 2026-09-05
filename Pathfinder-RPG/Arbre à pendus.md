@@ -45,5 +45,5 @@ Categories:
 
 Le comportement préféré des arbres à pendus consiste à se positionner près des chemins forestiers et des pistes animales isolés et d’attendre qu’une victime s’approche. Ces plantes carnivores incroyablement patientes peuvent rester plusieurs mois au même endroit en guettant l’arrivée de leur repas. Lorsqu’une proie s’approche, les lianes frappent comme des serpents qui bondissent. L’arbre utilise généralement sa capacité « attirer » pour soulever les ennemis agrippés à 3 ou 4,50 mètres au-dessus du sol, afin de les mettre hors de portée de leurs alliés tout en les étranglant petit à petit. Un arbre à pendu n’engloutit généralement qu’un seul ennemi à la fois. Il laisse pendre ses autres victimes et leur donne le temps de faisander jusqu’à ce qu’il soit prêt à les dévorer.
 
-Un arbre à pendus mesure 9 mètres de hauteur et pèse 6 000 kg.
+Un arbre à pendus mesure 9 mètres de hauteur et pèse 6 000 kg. 
 </div></td></tr></table>

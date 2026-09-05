@@ -40,7 +40,7 @@ Classe de base -> faire les liens
 
 {s:Menuarchétypechaman}
 ### [[Chaman]]
-La page du chaman est mise en forme. Il faut faire les liens.
+La page du chaman est mise en forme. Il faut faire les liens. 
 
 - [[Esprits (chaman)]] (Il y aura les Esprits (Medium) dans Aventures Occultes )
 ==>  mis en forme (blurpy). Mise en  page reprise et création des liens (rectulo)
@@ -375,7 +375,7 @@ L’arcaniste peut dépenser 1 point de son [[arcaniste#EXPLOITATION|réservoir 
 **Fait.**
 
 #### Sorts — 280-281
-~~**Fait :** Mettre à jour les listes de sorts des classes concernées ([[Liste des sorts de bardes|Barde]], [[liste des sorts de chaman|Chaman]], [[liste des sorts de druides|Druide]], [[liste des formules dalchimiste|Enquêteur]], [[Liste des sorts densorceleursmagiciens|Magicien]], [[Liste des sorts de magus|Magus]], [[liste des sorts de prêtres|Prêtre]], [[Liste des sorts de rôdeurs|Rôdeur]], [[Liste des sorts de sanguin|Sanguin]] et [[Liste des sorts de sorcière|Sorcière]]).~~
+~~**Fait :** Mettre à jour les listes de sorts des classes concernées ([[Liste des sorts de bardes|Barde]], [[liste des sorts de chaman|Chaman]], [[liste des sorts de druides|Druide]], [[liste des formules dalchimiste|Enquêteur]], [[Liste des sorts densorceleursmagiciens|Magicien]], [[Liste des sorts de magus|Magus]], [[liste des sorts de prêtres|Prêtre]], [[Liste des sorts de rôdeurs|Rôdeur]], [[Liste des sorts de sanguin|Sanguin]] et [[Liste des sorts de sorcière|Sorcière]]).~~  
 ~~**Fait :** Mettre à jour la [[Liste des sorts|liste alphabétique des sorts]].~~
 
 #### Talents d’enquêteur Enquêteur 265

@@ -51,7 +51,7 @@ des pics montagneux battus par les vents. Certaines histoires parlent
 d’alpinistes qui se sont mis à escalader sans le savoir les flancs de
 linnorms des glaces particulièrement gigantesques enroulés autour
 d’une montagne et qui ont trouvé la mort en atteignant les crocs et
-les griffes qui les attendaient au sommet.
+les griffes qui les attendaient au sommet. 
 
 Selon les légendes, pendant
 les hivers les plus froids, les linnorms des glaces descendent vers les

@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po (normal), 20 po (volant) ; **Poids** 1 kg (normal), 0,5 kg (volant)
+{s:AE}**Prix** 1 po (normal), 20 po (volant) ; **Poids** 1 kg (normal), 0,5 kg (volant)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces rongeurs de taille TP vivent surtout dans la nature comme les rats vivent en ville. Ils se nourrissent généralement de noisettes, de graines et de végétation. Les écureuils ont les mêmes statistiques que les [[Rat|rats]].  
   
 *Écureuil volant*. Ces écureuils de taille TP se servent d’une membrane de peau située entre leurs pattes antérieures et postérieures pour planer. Ils servent parfois de [[Familiers]] aux lanceurs de sorts. Voir les statistiques de l'[[écureuil volant]].

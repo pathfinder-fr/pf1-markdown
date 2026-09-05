@@ -57,11 +57,11 @@ Categories:
 Les archons messagers transportent les messages des divinités
 d’alignement Bon et des puissantes créatures célestes. Ils
 composent également l’avant-garde des armées divines et
-rassemblent les légions du Paradis en cas de guerre.
+rassemblent les légions du Paradis en cas de guerre. 
 Lorsque
 des dieux d’alignement Loyal Bon éprouvent le besoin de
 communiquer directement avec un groupe de mortels, un archon
-messager est souvent envoyé comme intermédiaire.
+messager est souvent envoyé comme intermédiaire. 
 
 Les archons messagers parlent d’une voix claire et mélodieuse. Leurs yeux
 blancs et dépourvus de pupilles peuvent paraître étranges.

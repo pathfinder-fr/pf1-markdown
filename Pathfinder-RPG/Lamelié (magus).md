@@ -15,10 +15,10 @@ et peut-être incompréhensibles. Ces armes deviennent des outils et des alliés
 {s:FAQ|***[[FAQ- lArt de la magie#25|→]] Magus, Lame noire : Puis-je utiliser Création d'armes et armures magiques pour augmenter le bonus d'altération de ma lame ?***
 
 Non, et un personnage ne peut pas non plus utiliser ce don pour ajouter d'autres propriétés (comme *[[feu (propriété)|feu]]*) à la <u>[[Lamelié (magus)|lame noire]]</u>. Il peut cependant utiliser sa réserve magique pour ajouter temporairement des propriétés à sa lame noire.
----
+<hr />
 ***[[FAQ- lArt de la magie#26|→]] Magus, Lame noire : Une lame noire peut-elle être détruite ?***
 
-Oui.
+Oui.  
 L'immunité de l'arme à l'état préjudiciable [[brisé]] tant qu'elle a au moins 1 point dans sa réserve magique n'empêche que les effets spécifiques de l'état brisé. Une <u>[[Lamelié (magus)|lame noire]]</u> peut toujours subir des dégâts -et même être détruite- lorsqu'elle a 1 point ou plus dans sa réserve magique, elle ne subit simplement pas les malus imposés par l'état brisé.
 
 Le nom d'une capacité de classe (dans ce cas, « incassable ») est un texte d'ambiance, pas un texte de règles.}Au niveau 3, le lamelié obtient une puissante [[Objets intelligents|arme intelligente]] appelée une lame noire. C’est au magus de choisir son type (voir ci-dessous). Un [[magus]] qui possède ce pouvoir ne peut pas choisir l’[[arcanes|arcane]] de [[familier]] et ne peut pas adopter de familier, pas même grâce à une autre classe.
@@ -34,7 +34,7 @@ La lame noire est toujours une arme tranchante à une main, une [[Descriptions i
 
 La lame noire gagne en puissance au fur et à mesure que le magus monte en niveaux.
 
-La lame noire possède une personnalité indépendante mais elle partage certains traits de caractère avec son propriétaire. Elle est toujours du même [[alignement]] que lui et, s’il change, elle change également. La lame travaille à atteindre les mêmes objectifs que son propriétaire, mais pas toujours sans discussion ou contrepartie.
+La lame noire possède une personnalité indépendante mais elle partage certains traits de caractère avec son propriétaire. Elle est toujours du même [[alignement]] que lui et, s’il change, elle change également. La lame travaille à atteindre les mêmes objectifs que son propriétaire, mais pas toujours sans discussion ou contrepartie. 
 
 Chaque lame a une mission et, même s’il arrive que deux lames ou plus travaillent de concert, leurs missions sont toutes spécifiques. (La mission de la lame noire dépend généralement du MJ et des besoins de sa campagne ou de son aventure. Le MJ peut aussi la déterminer au hasard à l’aide de la table des [[Objets intelligents#DESSEINS|desseins]].
 

@@ -10,12 +10,12 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Chélaxiens|Chélaxiens|chélaxiens}{s:cs}{s:ISR}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)
-**Cible** n'importe quel nombre de créature dans un [[rayonnement]] de 9 mètres de rayon
-**Durée** 1 minute/niveau ([[Présentation des sorts#DUREE|T]])
+{s:regional|Chélaxiens|Chélaxiens|chélaxiens}{s:cs}{s:ISR}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
+**Cible** n'importe quel nombre de créature dans un [[rayonnement]] de 9 mètres de rayon  
+**Durée** 1 minute/niveau ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Toutes les cibles deviennent silencieuses, comme avec *[[silence]]*. Le silence affecte chaque créature entièrement mais ne s'étend pas au-delà. Cependant, ce silence est à sens unique : les sons extérieurs à l'espace des créatures peuvent toujours y entrer. Les créatures affectées obtiennent un bonus de circonstances de +10 aux tests de [[Discrétion]].

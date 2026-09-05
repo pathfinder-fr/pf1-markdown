@@ -8,8 +8,8 @@ LastModified: 2024-05-28 19:29
 {s:BDTitre|Sceptre de contrôle mental|}
 **Aura** [[Abjuration]] et [[Divination]] modérées ; **NLS** 7 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 67 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce sceptre est une simple pièce de cristal clair sans ornementation que l'on a magiquement renforcé. Le porteur du sceptre est sous un effet permanent d' *[[antidétection]]*, comme le sort. De plus, le sceptre a les pouvoirs suivants.
-• Trois fois par jour, sur commande, le porteur du sceptre peut utiliser le sort de *[[détection de pensées]]*.
+Ce sceptre est une simple pièce de cristal clair sans ornementation que l'on a magiquement renforcé. Le porteur du sceptre est sous un effet permanent d' *[[antidétection]]*, comme le sort. De plus, le sceptre a les pouvoirs suivants.  
+• Trois fois par jour, sur commande, le porteur du sceptre peut utiliser le sort de *[[détection de pensées]]*.  
 • Une fois par jour, par une action immédiate, le porteur peut savoir si quelqu'un lui ment, comme avec *[[détection du mensonge]]*
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[détection de pensées]]*, *[[détection du mensonge]]*, *[[antidétection]]* ; **Coût** 33 500 po

@@ -8,10 +8,10 @@ LastModified: 2024-05-27 16:23
 {s:APG}{s:BDTitre|Bâton du justicier|}
 **Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 37 310 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton doré brillant est surmonté d’une pierre précieuse rayonnante qui diffuse la même lumière qu’une torche. Par une [[action rapide]], le porteur de ce bâton peut le transformer en une *lance d’arçon +2* mais il conserve ses autres pouvoirs. Il reprend sa forme de bâton par une [[action libre]]. Il permet d’utiliser les sorts suivants.
-• *[[bénédiction darme|bénédiction d'arme]]* (1 charge, uniquement sur ce bâton)
-• *[[protection dautrui|protection d'autrui]]* (1 charge)
-• *[[détection du mensonge]]* (2 charges)
+Ce bâton doré brillant est surmonté d’une pierre précieuse rayonnante qui diffuse la même lumière qu’une torche. Par une [[action rapide]], le porteur de ce bâton peut le transformer en une *lance d’arçon +2* mais il conserve ses autres pouvoirs. Il reprend sa forme de bâton par une [[action libre]]. Il permet d’utiliser les sorts suivants.  
+• *[[bénédiction darme|bénédiction d'arme]]* (1 charge, uniquement sur ce bâton)  
+• *[[protection dautrui|protection d'autrui]]* (1 charge)  
+• *[[détection du mensonge]]* (2 charges)  
 • *[[épée sainte]]* (4 charges, uniquement sur ce bâton)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[bénédiction darme|bénédiction d'arme]]*, *[[protection dautrui|protection d'autrui]]*, *[[détection du mensonge]]*, *[[épée sainte]]* ; **Coût** 18 810 po

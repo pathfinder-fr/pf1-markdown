@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** Bond du lancier, 5 rangs en [[Acrobaties]] , 11 rangs en [[Équitation]]
+**Conditions.** Bond du lancier, 5 rangs en [[Acrobaties]] , 11 rangs en [[Équitation]] 
 
 **Avantage.** Quand le personnage réussit un test d’[[Acrobaties]] pour sauter grâce à son pouvoir de [[Dragon (guerrier)|bond du lancier]], il peut remonter en selle par une [[action rapide]].
 

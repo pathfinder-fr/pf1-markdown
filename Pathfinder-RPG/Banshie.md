@@ -20,7 +20,7 @@ Categories:
 {s:BDTexte|**pv** 161 (19d8+76)}
 {s:BDTexte|**Réf** +19, **Vig** +10, **Vol** +18}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** vol 18m (12{s:c})(parfaite)}
+{s:BDTexte|**VD** vol 18m (12{s:c})(parfaite)} 
 {s:BDTexte|**Corps à corps** toucher intangible, +26 (14d6 d’énergie négative plus terreur)}
 {s:BDTexte|**attaques spéciales** gémissement}
 {s:BDSousTitre|Caractéristiques}

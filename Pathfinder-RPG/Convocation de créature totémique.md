@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:regional|Shoantis||shoantis}{s:MR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M/FD]] (un bout d’os de n’importe quel animal totem du lanceur)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature convoquée
-**Durée** 1 heure (T)
+{s:regional|Shoantis||shoantis}{s:MR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M/FD]] (un bout d’os de n’importe quel animal totem du lanceur)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature convoquée  
+**Durée** 1 heure (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le [[Golarion.Shoantis|peuple clanique]] ne révère pas que les divinités des plans éloignés, mais aussi les animaux et les forces naturelles des terres accidentées qui sont les leurs. Les lanceurs de sorts de ce peuple ont appris à invoquer la puissance des créatures totémiques de leurs clans en cas de nécessité. Le personnage doit avoir été élevé par les claniques et être considéré comme faisant partie du clan pour être en mesure de lancer ce sort. Les personnages ayant accès à ce sort ne peuvent convoquer que des créatures vénérées par le clan auquel ils appartiennent, comme indiqué dans la liste qui suit. Aux exceptions indiquées ci-dessus, ce sort fonctionne comme *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*.

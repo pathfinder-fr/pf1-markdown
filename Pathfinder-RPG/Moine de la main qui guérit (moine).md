@@ -18,7 +18,7 @@ Au niveau 7, un moine de la main qui guérit peut soigner les blessures d’une 
 #### Sacrifice de ki (Sur)
 Au niveau 11, un moine de la main qui guérit peut utiliser toute sa [[moine#RESERVEDEKI|réserve de ki]] pour ramener une personne à la vie. Le rituel prend 1 heure et, à la fin de cette période, le moine sacrifie tout son ki afin de lancer *[[rappel à la vie]]* (comme le sort) avec un [[NLS]] égal à son niveau de moine. Le rituel consomme tout le ki de la réserve du moine, qui doit contenir au moins 6 points pour que cette capacité fonctionne.
 
-Au niveau 15, le moine peut sacrifier son ki pour lancer *[[résurrection]]*. Le moine doit avoir au moins 8 points de ki dans sa réserve pour pouvoir utiliser cette capacité.
+Au niveau 15, le moine peut sacrifier son ki pour lancer *[[résurrection]]*. Le moine doit avoir au moins 8 points de ki dans sa réserve pour pouvoir utiliser cette capacité. 
 
 Ces rituels ne nécessitent aucune composante matérielle. Lorsque cette capacité est utilisée, la réserve de ki du moine n’est pas renouvelée avant que 24 heures ne se soient écoulées. Cette capacité remplace à la fois [[moine#CORPSDEDIAMANT|Corps de diamant]] et [[moine#PAUMEVIBRATOIRE|Paume vibratoire]].
 

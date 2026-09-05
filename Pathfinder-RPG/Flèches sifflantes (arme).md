@@ -8,7 +8,7 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 2 po ; **Poids** 1,5 kg
+{s:AE}{s:UC}**Prix** 2 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span> ([[armes orientales|orientale]])
----
+<hr />
 Ces flèches sont pourvues de rainures et d’un empennage spécial qui leur fait émettre un son puissant et aigu audible dans un rayon de 150 mètres autour de leur trajectoire de vol. Elles sont vendues par 20.

@@ -156,7 +156,7 @@ Le mystificateur profane n’est pas formé au maniement des armes ni au port de
 
 {s:Reference|SORTS}
 #### Sorts
-À chaque niveau, un mystificateur profane gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts qui était sienne avant de devenir mystificateur profane. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, à l’exception du nombre de sorts par jour, des sorts connus (dans le cas d’un lanceur de sorts spontanés), et de son niveau de lanceur de sorts. Si le personnage possédait plus d’une classe de lanceur de sorts avant de devenir mystificateur profane, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer les sorts quotidiens.
+À chaque niveau, un mystificateur profane gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts qui était sienne avant de devenir mystificateur profane. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, à l’exception du nombre de sorts par jour, des sorts connus (dans le cas d’un lanceur de sorts spontanés), et de son niveau de lanceur de sorts. Si le personnage possédait plus d’une classe de lanceur de sorts avant de devenir mystificateur profane, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer les sorts quotidiens. 
 
 {s:Reference|PRESTIDIGITATIONADISTANCE}
 #### Prestidigitation à distance

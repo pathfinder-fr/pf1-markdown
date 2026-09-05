@@ -52,7 +52,7 @@ Categories:
 </td><td><div>
 *Ce bulbe enflé, qui ressemble à un cerveau incrusté de champignons, prend appui sur plusieurs pattes charnues. Le haut du bulbe est divisé par une énorme gueule.*
 
-Les champignons cérébrés sont une race de champignons carnivores intelligents originaires d’une planète éloignée. Bien qu’ils soient une des formes de vie les moins importantes sur leur monde d’origine, ils sont pourvus d’un intellect étranger bien supérieur à celui de la plupart des créatures terrestres. Les champignons cérébrés sont très curieux vis à vis des autres races et espèces lorsqu’ils visitent d’autres mondes, posant d’innombrables questions, apparemment absurdes, et se livrant à des expériences inquiétantes. Certains érudits fantaisistes affirment avoir appris de troublants secrets au travers de ces interrogatoires.
+Les champignons cérébrés sont une race de champignons carnivores intelligents originaires d’une planète éloignée. Bien qu’ils soient une des formes de vie les moins importantes sur leur monde d’origine, ils sont pourvus d’un intellect étranger bien supérieur à celui de la plupart des créatures terrestres. Les champignons cérébrés sont très curieux vis à vis des autres races et espèces lorsqu’ils visitent d’autres mondes, posant d’innombrables questions, apparemment absurdes, et se livrant à des expériences inquiétantes. Certains érudits fantaisistes affirment avoir appris de troublants secrets au travers de ces interrogatoires. 
 
 Les champignons cérébrés sont capables de faire des manipulations délicates grâce à leurs filaments préhensiles, mais ils renoncent généralement aux armes, au profit de leurs attaques naturelles.
 </div></td></tr></table>

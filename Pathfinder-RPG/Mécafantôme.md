@@ -46,7 +46,7 @@ intégralement détruit.
 </td><td><div>
 *Des bras avides émergent de cet amas enchevêtré de débris et de parties mécaniques. Un crâne de métal plane au-dessus de ce chaos métallique.*
 
-Manifestation de l’âme errante d’un voleur arraché à la vie par un piège vicieux, le mécafantôme prend un malin plaisir à fabriquer les pièges et instruments de torture qui l’ont tué. Adorant se faire témoin du trépas d’autrui, le mécafantôme hante les lieux de sa propre mort, entretenant et réinitialisant constamment tous les pièges de la zone tandis qu’il attend que ses victimes tombent entre ses griffes. Le mécafantôme est également capable de créer et d’installer de nouveaux pièges.
+Manifestation de l’âme errante d’un voleur arraché à la vie par un piège vicieux, le mécafantôme prend un malin plaisir à fabriquer les pièges et instruments de torture qui l’ont tué. Adorant se faire témoin du trépas d’autrui, le mécafantôme hante les lieux de sa propre mort, entretenant et réinitialisant constamment tous les pièges de la zone tandis qu’il attend que ses victimes tombent entre ses griffes. Le mécafantôme est également capable de créer et d’installer de nouveaux pièges. 
 
 De ce fait, son repaire est généralement bardé de collets, de piques et de fosses. Le mécafantôme conserve des trésors uniquement pour attirer les aventuriers malheureux, se servant souvent de ces trésors comme déclencheur pour l’une de ses nombreuses créations perverses.
 

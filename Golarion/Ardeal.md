@@ -11,7 +11,7 @@ Ardeal est un comté du centre de l'[[Ustalav]].
 
 Considéré traditionnellement comme étant le cœur de la nation, il abrite [[Ardis]], ancienne capitale de l'[[Ustalav]]. Son importance historique s'explique par le fait qu'il s'agit du comté de naissance de Soividia Ustav, fondateur de l'[[Ustalav]].
 
-Le comté fut pendant longtemps le phare de la culture ustalavique, lieu de résidence des artistes, des poètes, des artisans et de l'élite sociale du pays. Le comté perdit de son influence et commença à décliner lorsque la capitale fut déplacée à [[Caliphas ville|Caliphas]] dans le comté éponyme.
+Le comté fut pendant longtemps le phare de la culture ustalavique, lieu de résidence des artistes, des poètes, des artisans et de l'élite sociale du pays. Le comté perdit de son influence et commença à décliner lorsque la capitale fut déplacée à [[Caliphas ville|Caliphas]] dans le comté éponyme. 
 
 Aujourd'hui, le comté d'Ardeal est le lieu des souvenirs perdus des temps heureux. Les anciens manoirs, signe de la prospérité des lieux, qui bordent les rives de la rivière Vhatsuntide sont maintenant en ruine et les campagnes verdoyantes ont été envahies par la nature.
 

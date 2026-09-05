@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire p.14*}
 {s:BDTexte|**PX** 819 200}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NB}
-{s:BDTexte|**Init** +9 ; **Sens** *[[détection des collets et des fosses]]*, *[[détection du Mal]]*, [[vision dans le noir]] 18 m (12 c), *[[vision lucide]]*, [[vision nocturne]] ; [[Perception]] +33}
-{s:BDTexte|**Aura** aura de protection}
+{s:BDTexte|**Init** +9 ; **Sens** *[[détection des collets et des fosses]]*, *[[détection du Mal]]*, [[vision dans le noir]] 18 m (12 c), *[[vision lucide]]*, [[vision nocturne]] ; [[Perception]] +33} 
+{s:BDTexte|**Aura** aura de protection} 
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 44, contact 11, pris au dépourvu 42 (armure +14, Dex +1, esquive +1, naturelle +19, taille -1) (parade +4 contre le Mal)}
 {s:BDTexte|**pv** 363 (22d10+242) ; [[régénération]] 15 (artefacts, effets et sorts du Mal)}
@@ -63,9 +63,9 @@ Categories:
 
 Les solars sont les plus puissants des anges, ceux qui servent aux
 côtés des divinités ou qui se chargent des causes concernant un
-monde ou un plan entier.
+monde ou un plan entier. 
 
-La plupart ressemblent à des humains mais certains possèdent
+La plupart ressemblent à des humains mais certains possèdent 
 un physique plus proche des autres races
 humanoïdes ou une forme encore plus inhabituelle. Ils mesurent
 2,70 mètres et pèsent à peu près 250 kg. Ils ont une voix forte,
@@ -78,11 +78,11 @@ puissants. Ils sont capables de vaincre les plus terribles créatures
 maléfiques en combat singulier. Au sein des hordes célestes, ils font
 office de maîtres-pisteurs. On prétend que les meilleurs pourraient
 même suivre le trajet d’un diantrefosse volant à travers le plan
-Astral un jour après son passage.
+Astral un jour après son passage. 
 
-Certains solars endossent le rôle de tueurs de monstres et chassent
-les fiélons et les morts-vivants puissants tels que les dévoreurs,
-les guenaudes noires, les ténébreux ou les diantrefosses.
+Certains solars endossent le rôle de tueurs de monstres et chassent 
+les fiélons et les morts-vivants puissants tels que les dévoreurs, 
+les guenaudes noires, les ténébreux ou les diantrefosses. 
 Ils vont même jusqu’à pénétrer dans les plans
 du Mal ou le plan d’Énergie négative pour détruire ces créatures
 à la source, avant qu’elles ne puissent causer du tort aux mortels.

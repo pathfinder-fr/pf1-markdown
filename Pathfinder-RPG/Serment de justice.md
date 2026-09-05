@@ -9,12 +9,12 @@ Categories:
 - Sort prêtre 3
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 2, [[prêtre|Prê]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** contact
-**Cible** deux créatures touchées
-**Durée** permanent (voir description)
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 2, [[prêtre|Prê]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** contact  
+**Cible** deux créatures touchées  
+**Durée** permanent (voir description)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain des serments.*

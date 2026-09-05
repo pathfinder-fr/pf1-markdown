@@ -68,7 +68,7 @@ formes lorsqu’ils sont en ville car ils savent que les humanoïdes
 trouvent leurs caractéristiques de rongeurs répugnantes.
 
 #### PERSONNAGES HOMMES-RATS
-Les hommes-rats se définissent par leurs niveaux de classe : ils ne possèdent pas de dés de vie raciaux. Tous les hommes-rats possèdent les caractéristiques raciales suivantes.
+Les hommes-rats se définissent par leurs niveaux de classe : ils ne possèdent pas de dés de vie raciaux. Tous les hommes-rats possèdent les caractéristiques raciales suivantes. 
 
 • **-2 en Force, +2 en Dextérité, +2 en Intelligence.** Les hommes-rats sont habiles et intelligents mais physiquement faibles.
 
@@ -78,7 +78,7 @@ Les hommes-rats se définissent par leurs niveaux de classe : ils ne possèdent 
 
 • **Bricolage.** Les hommes-rats gagnent un bonus de +2 à leurs tests d’[[Artisanat]] (alchimie), de [[Perception]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
 
-• **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus de +4 à leurs tests de [[Dressage]] pour influencer les rongeurs.
+• **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus de +4 à leurs tests de [[Dressage]] pour influencer les rongeurs. 
 
 • **Regroupement.** Cf. ci-contre.
 

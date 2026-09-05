@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Urgathoa|%2fPCUP%2fReligion-PNG%2fUrgathoa.png}{s:ISG}{s:GeM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature humanoïde
-**Durée** 1 [[round]]/[[niveau]] ; voir description
+{s:divin|Urgathoa|%2fPCUP%2fReligion-PNG%2fUrgathoa.png}{s:ISG}{s:GeM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature humanoïde  
+**Durée** 1 [[round]]/[[niveau]] ; voir description  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le lanceur déclenche une faim surnaturelle chez sa cible, qui l’oblige à se jeter sur une créature humanoïde [[sans défense]] ou [[mort|morte]] proche et à manger sa chair. La cible se défend normalement mais n’entreprend aucune autre action que celle de manger. Elle ne prendra aucun risque extraordinaire pour satisfaire cette pulsion (elle ne se jettera pas dans un puits ni ne nagera dans de la lave pour atteindre une victime). Si elle ne peut obéir à sa pulsion à son prochain tour, le sort échoue. À chaque round de son tour, elle obtient un nouveau [[jds|jet de sauvegarde]] pour mettre un terme aux effets du sort.

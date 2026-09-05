@@ -33,7 +33,7 @@ Un duelliste des arcanes allie puissance et magie dans sa manière de combattre 
 
 #### Pacte magique (Ext)
 Au niveau 5, le duelliste des arcanes bénéficie de l’aptitude du magicien du même nom et fera d’une arme son objet fétiche. Il ne pourra pas choisir de familier ou un autre type d’objet. Il peut utiliser la main qui
-tient l’arme pour la composante gestuelle de son sort. Cette aptitude remplace [[barde#Maître_du_savoir_Ext_7|maître du savoir]].
+tient l’arme pour la composante gestuelle de son sort. Cette aptitude remplace [[barde#Maître_du_savoir_Ext_7|maître du savoir]]. 
 
 #### Armure magique (Ext)
 Au niveau 10, un duelliste des arcanes est formé au port des armures intermédiaires. Il peut lancer ses sorts de barde en ayant revêtu une armure intermédiaire sans risque d’échec de ses sorts. Au niveau 16, il gagne port des armures lourdes. Il peut lancer ses sorts de barde en ayant revêtu une armure lourde sans risque d’échec de ses sorts.Cette aptitude remplace [[barde#Touche-à-tout_Ext_8|touche à tout]].

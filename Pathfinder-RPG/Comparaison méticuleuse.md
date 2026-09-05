@@ -12,12 +12,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cibles** deux objets touchés
-**Durée** instantanée
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[contact]]  
+**Cibles** deux objets touchés  
+**Durée** instantanée  
 **Jet de sauvegarde** Vigueur, annule (objet) ; **Résistance à la magie** oui (objet)
 
 Le personnage compare deux objets similaires et apprend s'ils sont identiques ou non. Le sort indique s'il y a une correspondance exacte, catégorique ou nulle. Par exemple, deux échantillons de sang révèlent une correspondance exacte s'ils viennent de la même créature, catégorique s'ils viennent de la même espèce, et nulle s'ils proviennent d'espèces différentes ou que l'un des échantillons est faux.

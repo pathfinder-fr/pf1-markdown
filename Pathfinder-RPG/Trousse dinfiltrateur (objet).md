@@ -7,7 +7,7 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**Prix** 140 po ; **Poids** 7,5 kg
+{s:RSE}**Prix** 140 po ; **Poids** 7,5 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse est bien utile aux Explorateurs qui doivent recourir à la ruse et à la duperie pour obtenir des informations. Elle contient des [[Chausse-trappes (objet)|chausse-trappes]], de la [[Craie (objet)|craie]], une [[Trousse de déguisement (objet)|trousse de déguisement]], une [[Corne acoustique (objet)|corne acoustique]], des [[Chaussures de fausses empreintes (objet)|chaussures de fausses empreintes]], un [[Passe-partout (objet)|passe-partout]] et un [[Fourreau de poignet (objet)|fourreau de poignet]]. Les trousses destinées aux créatures de taille P pèsent 4,5 kilos.

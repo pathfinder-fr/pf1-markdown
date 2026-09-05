@@ -11,11 +11,11 @@ Categories:
 ---
 
 {s:Desambi|Vision végétale est aussi le nom d'un [[Vision végétale (capacité)|pouvoir spécial]] de monstre.}{s:MPNJ}**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2{br}
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une feuille)
-**Portée** contact
-**Cible** créature touchée
-**Durée** 10 minutes/[[niveau]]
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une feuille)  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** non
 
 Lorsque ce sort est lancé, le bénéficiaire reçoit la capacité de voir sur 18 mètres à travers la matière végétale dense comme si elle était transparente. Les feuilles, les plantes grimpantes et autres formes de verdure (y compris la mousse, le lichen et la vase) ne troublent pas sa vue, mais elle est tout de même bloquée par du bois solide ou des structures en bois. Les broussailles n’offrent aucun camouflage aux créatures contre le bénéficiaire des effets de *vision végétale*.

@@ -17,14 +17,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une pincée de poudre de fer)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature [[type humanoïde|humanoïde]]
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une pincée de poudre de fer)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature [[type humanoïde|humanoïde]]  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort rapetisse instantanément la créature [[type humanoïde|humanoïde]] prise pour cible : il réduit sa taille, sa longueur et sa largeur de moitié et divise son poids par 8, cela fait passer à la catégorie de taille inférieure. Le sujet bénéficie alors d’un bonus de taille de +2 en [[Dextérité]] et d’un bonus +1 aux [[jet dattaque|jets d’attaque]] et à la [[CA]]. En revanche, il subit un malus de -2 en [[Force]] (jusqu’à un minimum 1).
 
 Un [[type humanoïde|humanoïde]] de [[taille P]] dont la taille passe à [[taille TP|TP]] occupe un espace de 75 cm et possède une [[allonge naturelle]] de 0 m (ce qui signifie qu’il doit entrer dans la case de son adversaire pour l’attaquer). Un [[type humanoïde|humanoïde]] de [[taille G]] dont la taille passe à [[taille M|M]] occupe un espace de 1,50 m et possède une [[allonge naturelle]] de 1,50 m. Ce sort ne modifie en rien la [[vitesse de déplacement]] de la cible.
@@ -33,7 +33,7 @@ L’équipement porté par la cible rétrécit avec elle.
 
 Les armes de corps à corps et à projectiles infligent moins de dégâts. Les autres propriétés magiques restent intactes. Un objet rapetissé (y compris un projectile ou une arme de corps à corps) retrouve sa taille normale si son propriétaire le lâche. Cela signifie que les armes de jet infligent des dégâts normaux (les projectiles infligent des dégâts basés sur l’arme qui sert à les lancer).
 
-Les effets magiques qui réduisent la taille ne se cumulent pas.
+Les effets magiques qui réduisent la taille ne se cumulent pas. 
 
 *Rapetissement* contre et dissipe *[[agrandissement]]*.
 
@@ -49,24 +49,24 @@ Le personnage peut réduire la taille de la cible de deux [[Petites et grandes c
 
 ((({s:sortssimilaires|rapetissement}
 ## [[Rapetissement danimal|Rapetissement d'animal]]
-**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 2, [[rôdeur|Rôd]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** 1 [[type animal|animal]] consentant de taille P, M, G ou TG
-**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 2, [[rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** 1 [[type animal|animal]] consentant de taille P, M, G ou TG  
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort est semblable à *[[rapetissement]]*, si ce n’est qu’il affecte un [[type animal|animal]] consentant. Réduisez les dégâts infligés par les [[attaque naturelle|attaques naturelles]] de l’[[type animal|animal]] conformément à sa nouvelle taille (voir la table "Dégâts des armes de taille TP ou G" dans le chapitre "[[Caractéristiques des armes#TAILLEARME|Taille de l'arme]]").
 
 ## [[Rapetissement de groupe]]
-**École** [[Transmutation]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une pincée de poudre de fer)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** 1 [[type humanoïde|humanoïde]]/[[niveau]], distants de moins de 9 m les uns des autres
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Transmutation]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une pincée de poudre de fer)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** 1 [[type humanoïde|humanoïde]]/[[niveau]], distants de moins de 9 m les uns des autres  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort est semblable à *[[rapetissement]]*, si ce n’est qu’il affecte plusieurs créatures.
 )))

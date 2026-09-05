@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Éventail de plumes rouges|{s:MR}}
 **Aura** [[Évocation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cet éventail ouvragé est fait de cuivre façonné en une douzaine de petites plumes montées sur un manche en os en forme d’anneau. Une fois par jour, le porteur peut le tenir et prononcer un [[mot de commande]] pour contrer un effet d’obscurité (comme s’il utilisait *[[lumière du jour]]*) ou pour contrer un effet de lumière (comme s’il utilisait *[[ténèbres profondes]]*). S’il est activé dans une zone où un effet de lumière et un effet d’obscurité se superposent, l’éventail contre aléatoirement l’un d’eux, laissant l’autre intact.
+Cet éventail ouvragé est fait de cuivre façonné en une douzaine de petites plumes montées sur un manche en os en forme d’anneau. Une fois par jour, le porteur peut le tenir et prononcer un [[mot de commande]] pour contrer un effet d’obscurité (comme s’il utilisait *[[lumière du jour]]*) ou pour contrer un effet de lumière (comme s’il utilisait *[[ténèbres profondes]]*). S’il est activé dans une zone où un effet de lumière et un effet d’obscurité se superposent, l’éventail contre aléatoirement l’un d’eux, laissant l’autre intact. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[lumière du jour]]*, *[[ténèbres profondes]]* ; **Coût** 2 500 po
 </div>

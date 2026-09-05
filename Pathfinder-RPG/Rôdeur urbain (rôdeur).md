@@ -10,7 +10,7 @@ Categories:
 
 {s:Menuarchétyperôdeur}{s:apg}*Pour les rôdeurs urbains, les rues et les égouts de la ville sont tout aussi dangereux que les étendues désertiques ou les forêts sombres.*
 
-Un rôdeur urbain possède les aptitudes de classe suivantes.
+Un rôdeur urbain possède les aptitudes de classe suivantes. 
 
 #### Rôdeur urbain
 Au niveau 1, un rôdeur urbain ajoute [[Connaissances]] (folklore local) et [[Sabotage]] à la liste de ses compétences de classe et en retire [[Connaissances]] (nature) et [[Dressage]].

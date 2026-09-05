@@ -17,7 +17,7 @@ Categories:
 ---
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}
-**École** [[Enchantement]] ([[Présentation des sorts#COERCITION|coercition]]) ;
+**École** [[Enchantement]] ([[Présentation des sorts#COERCITION|coercition]]) ; 
 **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

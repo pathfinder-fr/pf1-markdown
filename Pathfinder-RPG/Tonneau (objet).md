@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 15 kg
+{s:AE}**Prix** 2 po ; **Poids** 15 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Il s'agit d'un solide tonneau en bois ceint des bandes métalliques et pourvu d'un couvercle hermétique.

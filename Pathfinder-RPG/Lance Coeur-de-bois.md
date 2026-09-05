@@ -8,7 +8,7 @@ LastModified: 2024-05-21 19:01
 {s:BDTitre|Lance cœur-de-bois|{s:AE}}
 **Aura** [[Invocation]] puissante ; **NLS** 14 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 50.302 po ; **Poids** 3 kg
 (((Description)))
-Cette arme a l’aspect trompeur d’une lance fabriquée à la va vite avec une pointe grossièrement aiguisée mais, en réalité, elle possède des pouvoirs impressionnants. En plus d’être une *[[Lance (arme)|lance]] [[tueuse (propriété)|tueuse]] de morts-vivants +2*, cette arme inflige des dégâts contondants lorsqu’elle est manipulée comme un [[Bâton (arme)|bâton]]. Employée de cette façon, elle possède également la propriété spéciale de *[[destruction (propriété)|destruction]]*.
+Cette arme a l’aspect trompeur d’une lance fabriquée à la va vite avec une pointe grossièrement aiguisée mais, en réalité, elle possède des pouvoirs impressionnants. En plus d’être une *[[Lance (arme)|lance]] [[tueuse (propriété)|tueuse]] de morts-vivants +2*, cette arme inflige des dégâts contondants lorsqu’elle est manipulée comme un [[Bâton (arme)|bâton]]. Employée de cette façon, elle possède également la propriété spéciale de *[[destruction (propriété)|destruction]]*. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[guérison suprême]]*, *[[convocation de monstres]]*  ; **Coût** 25.302 po
 </div>

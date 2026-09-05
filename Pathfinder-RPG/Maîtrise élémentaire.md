@@ -19,11 +19,11 @@ Categories:
 commune chez  
 les [[Ifrit (race)|ifrits]], les [[Ondin (race)|ondins]], les [[Oréade (race)|oréades]], les [[Suli (race)|sulis]] et les [[Sylphe (race)|sylphes]].</div></td>
 </tr></table>
-</div>{s:cs}{s:ISR}**École** [[Transmutation]] <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Rôdeur|Rôd]] 4, [[Sanguin|San]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** personnelle
-**Cible** le lanceur de sorts
+</div>{s:cs}{s:ISR}**École** [[Transmutation]] <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Rôdeur|Rôd]] 4, [[Sanguin|San]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** 1 minute/niveau
 
 Le personnage obtient la maîtrise de l'élément qui correspond à l'essence élémentaire dans son sang (le feu pour les [[Ifrit (race)|ifrits]], l'eau pour les [[Ondin (race)|ondins]], la terre pour les [[Oréade (race)|oréades]] et l'air pour les [[Sylphe (race)|sylphes]]). Si le personnage est un [[Suli (race)|suli]], il peut choisir n'importe laquelle des quatre options lorsqu'il lance ce sort, mais sa durée est réduite à 1 round par niveau. Cette maîtrise offre au personnage un bonus d'intuition à la [[VD|vitesse]] ou un nouveau mode de déplacement, selon l'élément maîtrisé, et offre des avantages supplémentaires. Le [[registre]] de ce sort correspond à l'élément choisi.

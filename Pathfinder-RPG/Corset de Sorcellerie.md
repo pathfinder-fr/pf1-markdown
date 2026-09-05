@@ -8,7 +8,7 @@ LastModified: 2024-05-30 15:36
 {s:BDTitre|Corset de sorcellerie|{s:AE}}
 **Aura** [[Abjuration]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 22.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce vêtement amincissant renforcé de morceaux de cuir ou d’os se serre par le biais de lacets, de boucles et de boutons. Un corset de sorcellerie octroie un bonus d’armure de +4 à la [[CA]]. Chaque jour, si le porteur est une [[sorcière]], il peut améliorer un [[sorcière#MALEFICE|maléfice]] de sa connaissance lorsqu’il communie avec son familier pour préparer ses sorts. Cette amélioration augmente son [[NLS|niveau de lanceur de sorts]] de +2 pour ce [[sorcière#MALEFICE|maléfice]] pendant 24 heures et disparaît dès que le personnage retire le corset ou s’il l’utilise pour améliorer un [[sorcière#MALEFICE|maléfice]] différent.
+Ce vêtement amincissant renforcé de morceaux de cuir ou d’os se serre par le biais de lacets, de boucles et de boutons. Un corset de sorcellerie octroie un bonus d’armure de +4 à la [[CA]]. Chaque jour, si le porteur est une [[sorcière]], il peut améliorer un [[sorcière#MALEFICE|maléfice]] de sa connaissance lorsqu’il communie avec son familier pour préparer ses sorts. Cette amélioration augmente son [[NLS|niveau de lanceur de sorts]] de +2 pour ce [[sorcière#MALEFICE|maléfice]] pendant 24 heures et disparaît dès que le personnage retire le corset ou s’il l’utilise pour améliorer un [[sorcière#MALEFICE|maléfice]] différent. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[armure de mage]]*, le créateur doit être une [[sorcière]]  ; **Coût** 11.000 po
 </div>

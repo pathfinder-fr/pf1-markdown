@@ -20,14 +20,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) (voir description) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) (voir description)
----
+<hr />
 Ce sort est semblable à *[[soins légers]]*, si ce n’est qu’il rend 2d8 points de dégâts +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +10).
 
 ### Version mythique
@@ -37,14 +37,14 @@ Ce sort est semblable à *[[soins légers]]*, si ce n’est qu’il rend 2d8 poi
 
 (((
 ## Soins légers
-**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) (voir description) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) (voir description)
----
+<hr />
 En posant les mains sur une créature vivante, le personnage lui transmet de l’énergie positive et lui rend 1d8 [[points de vie]] +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +5).
 
 Comme les [[type mort-vivant|morts-vivants]] sont animés d’[[énergie négative]], ce sort leur inflige des dégâts au lieu de les soigner. Un jet de [[Volonté]] réussi leur permet toutefois de ne subir que la moitié des dégâts et ils peuvent appliquer leur [[RM|résistance à la magie]].

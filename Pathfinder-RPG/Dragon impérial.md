@@ -94,7 +94,7 @@ Nombre des capacités, des attaques et autres caractéristiques d’un véritabl
 
 
 ### Combat
-La table des Attaques et Vitesses de déplacement des dragons indique les attaques que le dragon peut effectuer et les dégâts qu’il inflige (un tiret indique qu’un dragon de cette taille ne possède pas cette attaque naturelle).
+La table des Attaques et Vitesses de déplacement des dragons indique les attaques que le dragon peut effectuer et les dégâts qu’il inflige (un tiret indique qu’un dragon de cette taille ne possède pas cette attaque naturelle). 
 
 
 <p class="tablo-caption">Attaques et Vitesses de déplacement des dragons impériaux</p>

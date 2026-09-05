@@ -19,7 +19,7 @@ Categories:
 
 
 ### Pouvoirs de lignage
-Le pouvoir des dragons imprègne le personnage et se manifeste de diverses manières.
+Le pouvoir des dragons imprègne le personnage et se manifeste de diverses manières. 
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">

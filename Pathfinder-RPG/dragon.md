@@ -148,7 +148,7 @@ La table des attaques et vitesses des dragons indique les attaques dont un drago
 
 {s:Reference|PRESENCETERRIFIANTE}**Présence terrifiante (Ext).** La présence terrifiante d’un dragon a une portée égale à 9 m (6 {s:c}) × la catégorie d’âge du dragon. À part cette différence, elle fonctionne comme indiqué [[présence terrifiante|ici]].
 
-**Réduction de dégâts.** Les dragons développent une capacité de [[RD|réduction de dégâts]] en vieillissant, comme indiqué dans les descriptions des espèces. Leurs attaques naturelles fonctionnent comme des armes magiques lorsqu’il
+**Réduction de dégâts.** Les dragons développent une capacité de [[RD|réduction de dégâts]] en vieillissant, comme indiqué dans les descriptions des espèces. Leurs attaques naturelles fonctionnent comme des armes magiques lorsqu’il 
 s’agit de déterminer si une [[RD]] s’applique.
 
 **Résistance à la magie (Ext).** En vieillissant, les dragons deviennent plus résistants aux sorts et aux pouvoirs magiques, comme indiqué dans leurs descriptions. La [[RM]] d’un dragon est égale à 11 + son [[FP]].

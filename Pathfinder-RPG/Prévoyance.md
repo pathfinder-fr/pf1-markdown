@@ -11,13 +11,13 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6
-**Temps d'incantation** au moins 10 minutes (voir description)
-**Composantes** [[composantes|V, G, M]] (vif-argent et un cil venant d’une créature capable de lancer des sorts)[[composantes|, F]] (statuette d’ivoire représentant le lanceur de sorts (1 500 po))
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+**École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6  
+**Temps d'incantation** au moins 10 minutes (voir description)  
+**Composantes** [[composantes|V, G, M]] (vif-argent et un cil venant d’une créature capable de lancer des sorts)[[composantes|, F]] (statuette d’ivoire représentant le lanceur de sorts (1 500 po))  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** 1 jour/[[niveau]] (T) ou jusqu’à utilisation
----
+<hr />
 Ce sort permet d’en lancer un autre, qui prend effet au moment où la condition déterminée lors de l’incantation de *prévoyance* se réalise. Les deux sorts sont jetés à la suite l’un de l’autre et le temps d’incantation indiqué (dix minutes) représente un minimum : si le sort associé prend plus longtemps, on utilise son temps d’incantation.
 
 Le sort déclenché à retardement par *prévoyance* doit affecter le personnage et il ne peut pas dépasser un tiers du [[NLS|niveau de lanceur de sorts]] du personnage (arrondi à l’entier inférieur, 6e niveau maximum).
@@ -35,24 +35,24 @@ Un personnage ne peut avoir qu’une *prévoyance* active à la fois. S’il en 
 
 ((({s:sortssimilaires|prévoyance}
 ## [[Prévoyance du mort]]
-{s:cs}{s:UI}**École**  [[Évocation]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 10 minutes ou plus, voir description
-**Composantes** [[composantes|V, G, M]] (une queue de scorpion), F (une statuette d'ivoire d'une valeur de 1,500 po représentant le personnage)
-**Portée** [[personnelle]]
-**Cibles** le lanceur de sort
+{s:cs}{s:UI}**École**  [[Évocation]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 10 minutes ou plus, voir description  
+**Composantes** [[composantes|V, G, M]] (une queue de scorpion), F (une statuette d'ivoire d'une valeur de 1,500 po représentant le personnage)  
+**Portée** [[personnelle]]  
+**Cibles** le lanceur de sort  
 **Durée** jusqu'à 1 heure/niveau plus 1d6 rounds ([[Présentation des sorts#DUREE|T]]) ; voir description
----
+<hr />
 Ce sort fonctionne comme *[[prévoyance]]*, excepté les indications ci-dessus. Le sort ne peut affecter le personnage qu'après sa mort et ne fonctionne qu'avec certains sorts. Le sort associé se déclenche 1d6 rounds après la mort du personnage. Toutes les décisions concernant le sort associé doivent être prises lorsque *prévoyance du mort* est lancé (y compris les messages et les destinataires des sorts tels que *[[bouche magique]]* ou *[[communication à distance]]*). Si le sort cible un objet ou apparaît à un endroit précis, il doit cibler ou être centré sur le cadavre du personnage.
 
 Les sorts suivants peuvent être associés à *prévoyance du mort* : *[[animation des morts]]* (anime le cadavre du personnage comme un [[Squelette humain|squelette]] ou un [[Zombi humain|zombi]] incontrôlé), *[[bouche magique]]*, *[[boule de feu]]*, *[[communication à distance]]*, *[[désintégration]]*, *[[image accomplie]]* (avec une durée de 3 rounds), *[[image permanente]]*, *[[nuage nauséabond]]*, *[[préservation des morts]]* et *[[téléportation dobjet|téléportation d'objet]]*.
 
 ## [[Talisman instrumental]]
-{s:AO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 3
-**Temps d’incantation** 10 minutes
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
+{s:AO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 3  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
 **Durée** 1 h/niveau (T) ou jusqu’à déchargement
----
+<hr />
 Ce sort fonctionne comme *[[prévoyance]]* mais le personnage intègre un sort dont le niveau ne dépasse pas un quart du sien (arrondi à l’inférieur, sort de niveau 3 au maximum) dans un instrument comportant au moins 2 points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]. L’école du sort doit correspondre à celle de l’instrument et le sort doit affecter uniquement le personnage. Le talisman instrumental réduit de points 2 la focalisation mentale investie dans l’instrument choisi, y compris quand il s’agit de déterminer ses pouvoirs de résonance. Quand le personnage rafraîchit ses points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]], ce sort se dissipe automatiquement, même si sa durée n’a pas expiré. Contrairement à *[[prévoyance]]*, le personnage peut avoir plusieurs talismans instrumentaux actifs à la fois mais un même instrument ne peut contenir qu’un seul sort de ce type. De plus, si le personnage a un talisman instrumental actif ou plus, il ne peut pas utiliser un effet de contingence.
 )))

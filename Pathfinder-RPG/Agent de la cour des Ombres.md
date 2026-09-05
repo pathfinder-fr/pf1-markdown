@@ -140,27 +140,27 @@ La loyauté des agents de l'Ombre envers leurs chefs suprêmes et leurs idéaux 
 **Dé de vie.** d8.
 
 ### Conditions requises
-Pour pouvoir devenir un agent de l'Ombre, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir un agent de l'Ombre, le personnage doit satisfaire aux conditions suivantes. 
 
 **Alignement.** Loyal Mauvais.
 
-**Compétences.** 5 rangs en [[Bluff]], 7 rangs en [[Connaissances]] (noblesse), 7 rangs en [[Connaissances]] (religion).
+**Compétences.** 5 rangs en [[Bluff]], 7 rangs en [[Connaissances]] (noblesse), 7 rangs en [[Connaissances]] (religion). 
 
 **Divinité.** Doit prier le [[Golarion.Zon-Kuthon|dieu de la torture]].
 
 **Dons.** [[Fourberie]].
 
-**Sorts.** Capacité à lancer des sorts de 2e niveau.
+**Sorts.** Capacité à lancer des sorts de 2e niveau.  
 
 ### Compétences de classe
-Voici les compétences de classe de l'agent de l'Ombre : [[Bluff]] (Cha), [[Connaissances]] (noblesse) (Int), [[Connaissances]] (religion) (Int), [[Discrétion]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag) et [[Psychologie]] (Sag).
+Voici les compétences de classe de l'agent de l'Ombre : [[Bluff]] (Cha), [[Connaissances]] (noblesse) (Int), [[Connaissances]] (religion) (Int), [[Discrétion]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag) et [[Psychologie]] (Sag). 
 
 **Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de la classe
-Voici les caractéristiques de la classe d'agent de l'Ombre.
+Voici les caractéristiques de la classe d'agent de l'Ombre. 
 #### Armes et armures
-Un agent de l'Ombre obtient la formation au maniement de la [[chaîne cloutée (arme)|chaîne cloutée]].
+Un agent de l'Ombre obtient la formation au maniement de la [[chaîne cloutée (arme)|chaîne cloutée]]. 
 
 {s:reference|BENEDICTIONSDELOBSCURITE}
 #### Bénédictions de l'obscurité
@@ -168,7 +168,7 @@ Un agent de l'Ombre obtient le [[domaine de lObscurité|domaine de l'Obscurité]
 
 {s:reference|MAGIETENEBREUSE}
 #### Magie ténébreuse
-Un agent de l'Ombre reçoit le don [[Sort ténébreux]] comme don supplémentaire au niveau 1 et il peut appliquer ses effets à ses sorts sans augmenter leur niveau de sort effectif ou leur temps d'incantation. De plus, si le sort est du [[registre]] de l'[[Créer un sort#OMBRE|ombre]] ou des [[Créer un sort#TENEBRES|ténèbres]] ou s'il est de la branche d'[[Illusion]] ([[Présentation des sorts#OMBRE|ombre]]), le [[NLS]] effectif du sort ainsi que le [[DD]] de tout [[jds|jet de sauvegarde]] associé au sort augmentent de 2 (au lieu de 1), et toute tentative de [[dissipation de la magie|dissipation]] réalisée sur le sort dans une zone de lumière faible ou de ténèbres ou subit un malus de -4 (au lieu d'un malus de -2).
+Un agent de l'Ombre reçoit le don [[Sort ténébreux]] comme don supplémentaire au niveau 1 et il peut appliquer ses effets à ses sorts sans augmenter leur niveau de sort effectif ou leur temps d'incantation. De plus, si le sort est du [[registre]] de l'[[Créer un sort#OMBRE|ombre]] ou des [[Créer un sort#TENEBRES|ténèbres]] ou s'il est de la branche d'[[Illusion]] ([[Présentation des sorts#OMBRE|ombre]]), le [[NLS]] effectif du sort ainsi que le [[DD]] de tout [[jds|jet de sauvegarde]] associé au sort augmentent de 2 (au lieu de 1), et toute tentative de [[dissipation de la magie|dissipation]] réalisée sur le sort dans une zone de lumière faible ou de ténèbres ou subit un malus de -4 (au lieu d'un malus de -2). 
 
 {s:reference|COURTISANDELOMBRE}
 #### Courtisan de l'ombre (Ext)
@@ -196,6 +196,6 @@ Quand l'agent de l'Ombre monte de niveau, son regard déstabilisant devient plus
 #### Étreinte des ombres (Mag)
 Au niveau 6, un agent de l'Ombre peut utiliser sa capacité [[Domaine de lObscurité|toucher des ténèbres]] une fois de plus par jour et sa portée augmente à nouveau de 1,5 m (1 {s:c}) (pour une augmentation de portée totale de 3 m). Au lieu d'enchevêtrer la cible, l'agent de l'Ombre peut tenter d'entrer en [[Manœuvres offensives#LUTTE|lutte]] avec la créature sans provoquer d'[[AO|attaque d'opportunité]], en utilisant son modificateur de [[Sagesse]] au lieu de son modificateur de [[Force]] pour déterminer son [[BMO]]. Si l'agent de l'Ombre et sa cible sont dans une zone de lumière faible ou moins, il obtient un bonus de +5 à son test de lutte. L'agent de l'Ombre ne subit pas l'état [[agrippé]] quand il utilise ses [[Agent de la cour des Ombres#CHAINESDESOMBRES|chaînes des ombres]] de cette manière. Il peut faire un test de manœuvre offensive pour maintenir l'étreinte tant que l'effet de son toucher des ténèbres persiste.
 
-{s:reference|OMBREDEVASTATRICE}
+{s:reference|OMBREDEVASTATRICE} 
 #### Ombre dévastatrice (Mag)
 Au niveau 10, un agent de l'Ombre peut utiliser son toucher des ténèbres à volonté et la portée de ses [[Agent de la cour des Ombres#CHAINESDESOMBRES|chaînes des ombres]] augmente de 3 m (2 {s:c}) (pour une augmentation de portée totale de 6 m). Lorsqu'il réussit à entrer en [[Manœuvres offensives#LUTTE|lutte]] avec une créature via ses chaînes des ombres, l'agent de l'Ombre peut commencer à l'enserrer par une [[action libre]], lui infligeant 5d6 points de dégâts à chaque fois qu'il réussit un test de [[Manœuvres offensives#LUTTE|lutte]]. Les créatures ainsi restreintes sont considérées comme étranglées, et ne peuvent donc pas parler ou lancer des sorts à [[Présentation des sorts#COMPOSANTEVERBALE|composante verbale]].

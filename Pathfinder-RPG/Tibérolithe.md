@@ -47,7 +47,7 @@ Categories:
 </td><td><div>
 *Le corps de pierre frémissant de cet imposant mastodonte, duquel s’écoule un liquide bleuté, produit un bourdonnement bizarre.*
 
-Les tibérolithes sont des créatures artificielles magiques composées d’éléments mécaniques rudimentaires maintenus en place par de la matière végétale et des tendons. Créés par une civilisation cruelle mais oubliée pour protéger ses citadelles, ses villages et ses trésors, on trouve des tibérolithes dans les ruines immergées. Ceux-ci restent immobiles à moins d’être attaqués ou approchés par des intrus non autorisés. Chacun d’eux est couvert d’un motif particulier de runes qui émettent une lueur bleutée lorsqu’ils se déplacent. Une fois activé, un tibérolithe produit un vrombissement aigu caractéristique. Un tibérolithe mesure 5,40 mètres de haut pour un poids de 3 500 kilogrammes.
+Les tibérolithes sont des créatures artificielles magiques composées d’éléments mécaniques rudimentaires maintenus en place par de la matière végétale et des tendons. Créés par une civilisation cruelle mais oubliée pour protéger ses citadelles, ses villages et ses trésors, on trouve des tibérolithes dans les ruines immergées. Ceux-ci restent immobiles à moins d’être attaqués ou approchés par des intrus non autorisés. Chacun d’eux est couvert d’un motif particulier de runes qui émettent une lueur bleutée lorsqu’ils se déplacent. Une fois activé, un tibérolithe produit un vrombissement aigu caractéristique. Un tibérolithe mesure 5,40 mètres de haut pour un poids de 3 500 kilogrammes. 
 
 Son corps de pierre contient un liquide alchimique et acide bleu qui canalise l’électricité de ses mécanismes. En plus de ce f luide, les creux à l’intérieur de sa masse corporelle contiennent des appareils rappelant casse-tête, mais on ne sait pas de quelle manière ceux-ci interagissent avec les mouvements de la créature.
 
@@ -56,5 +56,5 @@ Un tibérolithe est construit à partir de trois blocs de pierre de 1 250 kilogr
 
 **NLS** 12 ; **Prix** 48 000 po{br}
 **Conditions** [[Création de créatures artificielles]], *[[brume acide]], [[façonnage de la pierre]], [[souhait limité]]*, le créateur doit être un lanceur de sorts de niveau 11 au moins ; {br}
-**Compétences** [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) DD 18 ; **Coût** 24 000 po
+**Compétences** [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) DD 18 ; **Coût** 24 000 po 
 </div></td></tr></table>

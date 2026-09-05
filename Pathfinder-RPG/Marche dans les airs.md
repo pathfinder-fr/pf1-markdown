@@ -9,14 +9,14 @@ Categories:
 - Sort prêtre 4
 ---
 
-**École** [[Transmutation]] <nowiki>[</nowiki>[[Registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée ([[taille Gig]] maximum)
-**Durée** 10 minutes/[[niveau]]
+**École** [[Transmutation]] <nowiki>[</nowiki>[[Registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée ([[taille Gig]] maximum)  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 La cible du sort peut marcher dans les airs avec autant d’aisance que sur la terre ferme. Marcher vers le haut lui fait l’effet de gravir une colline. Qu’il monte ou descende, il ne peut pas dépasser un angle de 45° et sa [[vitesse de déplacement]] habituelle est réduite de moitié.
 
 Un vent important (30 km/h) peut pousser le personnage ou l’empêcher d’avancer. A la fin de son tour de jeu, il est déplacé par les courants aériens de 1,50 m (1 case) par tranche de 5 km/h de vitesse du vent. Selon les cas, la cible peut subir d’autres malus en cas de bourrasque violente (il est possible qu’il ne parvienne plus à contrôler ses déplacements, ou que la violence des éléments lui infligent des points de dégâts).
@@ -29,13 +29,13 @@ On peut lancer ce sort sur une monture spécialement dressée pour ce genre d’
 
 ((({s:sortssimilaires|marche dans les airs}
 ## [[Marche dans les airs (partagé)]]
-{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[Registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[Registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[marche dans les airs]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 )))

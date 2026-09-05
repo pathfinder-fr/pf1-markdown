@@ -8,7 +8,7 @@ Categories:
 - Src Dieux et magie
 ---
 
-<div style="float:right">***Retour aux [[objets merveilleux]].***
+<div style="float:right">***Retour aux [[objets merveilleux]].***  
 {s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}</div><div class="BD">
 {s:BDTitre|Huiles apaisantes|{s:GeM}}
 **Aura** [[Abjuration]] faible ; **NLS** 5 ; **Emplacement** aucun ; **Prix** 1 000 po ; **Poids** —

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 24 po ; **Poids** 500 kg
+{s:AE}**Prix** 24 po ; **Poids** 500 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces créatures poilues de la famille des bovidés vivent dans les environnements montagneux où elles servent souvent de bêtes de somme ou de trait. Les yacks ont les mêmes statistiques que les [[Bison|bisons]].

@@ -24,7 +24,7 @@ Au niveau 5, un héraut du cor peut utiliser son chant de rage pour libérer ses
 Au niveau 7, le cor du héraut améliore ses sorts basés sur le son. Si un sort de scalde appartenant au registre du son est lancé à l’aide du cor, son [[DD]] augmente de 1. Ces [[DD]] augmentent de 1 point supplémentaire aux niveaux 13 et 19. Cette aptitude remplace maître du savoir.
 
 #### Explosion sonore dévastatrice (Sur)
-Au niveau 11, un héraut du cor peut utiliser son instrument pour produire une onde de choc d’énergie dévastatrice. Une fois par jour, il peut jouer une note avec le cor qui fonctionne comme un [[cor de dévastation]] (DD = 10 + 1/2 niveau du héraut du cor + son modificateur de [[Charisme]]).
+Au niveau 11, un héraut du cor peut utiliser son instrument pour produire une onde de choc d’énergie dévastatrice. Une fois par jour, il peut jouer une note avec le cor qui fonctionne comme un [[cor de dévastation]] (DD = 10 + 1/2 niveau du héraut du cor + son modificateur de [[Charisme]]). 
 
 Au niveau 17, le héraut du cor peut utiliser cette aptitude deux fois par jour et elle fonctionne comme un cor de dévastation supérieure. À la différence d’un véritable cor de dévastation, il n’y a aucun risque de détruire le cor en utilisant cette aptitude. Cette aptitude remplace les deuxièmes et troisièmes utilisations quotidiennes de compréhension des sorts obtenues aux niveaux 11 et 17.
 

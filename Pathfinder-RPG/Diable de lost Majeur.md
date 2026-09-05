@@ -88,7 +88,7 @@ l’Averne, d’êtres damnés qui sont parvenus, d’une façon ou d’une
 autre, à échapper aux Enfers ou de créatures qui ont manqué à
 leurs engagements dans un contrat infernal, de très grands troupeaux
 de ces fiélons ailés jaillissent de la Fosse pour récupérer
-leurs proies.
+leurs proies. 
 
 Rarement seuls, les diables légionnaires voyagent en
 grands essaims qui se composent souvent de milliers d’individus.

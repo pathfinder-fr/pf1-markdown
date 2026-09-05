@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [[Sag]] 13, [[Science du combat à mains nues]], 5 [[rang|rangs]] en [[Acrobaties]], 5 rangs en [[Escalade]]
+**Conditions.** [[Sag]] 13, [[Science du combat à mains nues]], 5 [[rang|rangs]] en [[Acrobaties]], 5 rangs en [[Escalade]] 
 
 **Avantage.** Le personnage ajoute sa [[Sagesse]] aux tests d’[[Acrobaties]] . Quand il utilise l’[[École du singe]], il ne subit pas de malus aux [[jet dattaque|jets d’attaque]] ni à la [[CA]] quand il est [[à terre]].
 De plus, quand il est en position allongée, il peut ramper et se relever sans provoquer d’[[attaque dopportunité|attaque d’opportunité]]. S’il réussit un test d’[[Acrobaties]] [[DD]] 20, il peut se relever par une [[action rapide]].

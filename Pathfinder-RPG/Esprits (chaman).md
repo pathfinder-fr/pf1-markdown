@@ -10,7 +10,7 @@ LastModified: 2020-06-12 14:47
 
 Sauf indication contraire, le [[DD]] des [[jds|jets de sauvegarde]] contre les pouvoirs spéciaux conférés par ces esprits est égal à 10 + 1/2 niveau du chaman + le modificateur de Sagesse du chaman.
 
-Le chaman doit choisir l’un des esprits suivants.
+Le chaman doit choisir l’un des esprits suivants. 
 - [[Esprit des Batailles]]
 - [[Esprit des Cieux]]
 - [[Esprit des Flammes]]

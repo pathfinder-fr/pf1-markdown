@@ -54,7 +54,7 @@ LastModified: 2017-03-19 10:54
 
 Les erlkönig protègent les étendues inviolées les plus sauvages de la nature et mènent au combat les autres créatures féeriques pour récupérer des terres profanées. La plupart des créatures de la forêt reconnaissent les erlkönig comme les rois de la forêt et les arbitres dans les disputes qui opposent les peuples de la nature. Dans la plupart des forêts, l’erlkönig est le frère ou le consort d’une hamadryade et il incarne l’aspect agressif, dangereux et vindicatif de la nature.
 
-Qu’il soit sur un champ de bataille ou non, l’erlkönig est toujours en mouvement, se servant de ses pouvoirs pour coordonner des attaques contre les saccageurs, pour manipuler l’environnement à son avantage et pour appeler des renforts quand ses forces risquent de se faire submerger.
+Qu’il soit sur un champ de bataille ou non, l’erlkönig est toujours en mouvement, se servant de ses pouvoirs pour coordonner des attaques contre les saccageurs, pour manipuler l’environnement à son avantage et pour appeler des renforts quand ses forces risquent de se faire submerger. 
 
 Lorsque ses services ne sont pas requis, l’erlkönig se retire dans le royaume des fées.
 </div></td></tr></table>

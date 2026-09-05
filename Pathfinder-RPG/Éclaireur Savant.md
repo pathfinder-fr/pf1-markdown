@@ -12,9 +12,9 @@ Categories:
 
 Cette compétence rend un explorateur savant indispensable pour les groupes d'explorateurs, à la fois pour sa maîtrise des pièges antiques qui utilisent une magie ancienne et pour ses compétences permettant d'identifier et d'utiliser les objets magiques trouvés sur le terrain.
 
-Bien sûr, du fait de leur concentration accrue sur les parties plus intellectuelles de l'exploration, les savants sont souvent moins bien équipés pour s'occuper des parties plus rudes de l'exploration typique d'un donjon : combattre au corps à corps, enfoncer des portes fermées ou endurer les environnements dangereux et malsains ne sont pas son fort.
+Bien sûr, du fait de leur concentration accrue sur les parties plus intellectuelles de l'exploration, les savants sont souvent moins bien équipés pour s'occuper des parties plus rudes de l'exploration typique d'un donjon : combattre au corps à corps, enfoncer des portes fermées ou endurer les environnements dangereux et malsains ne sont pas son fort. 
 
-De ce fait, ils s'aventurent rarement dans des missions en solo, s'alliant plutôt avec des groupes plus diversifiés de solides explorateurs de manière à pouvoir interagir avec l'histoire et les merveilles antiques étranges sans avoir à se préoccuper par eux-mêmes des parties de l'exploration les plus macabres. Pour le savant, c'est plutôt une extension de leur rôle préféré pendant l'exploration, mais cela ne les protègent pas des moqueries périodiques et des insultes voilées de leurs compagnons plus préoccupés par les exploits physiques.
+De ce fait, ils s'aventurent rarement dans des missions en solo, s'alliant plutôt avec des groupes plus diversifiés de solides explorateurs de manière à pouvoir interagir avec l'histoire et les merveilles antiques étranges sans avoir à se préoccuper par eux-mêmes des parties de l'exploration les plus macabres. Pour le savant, c'est plutôt une extension de leur rôle préféré pendant l'exploration, mais cela ne les protègent pas des moqueries périodiques et des insultes voilées de leurs compagnons plus préoccupés par les exploits physiques. 
 
 Bien entendu, la plupart de tels associés sont prompts à demander pardon lorsque, inévitablement, le savant est demandé pour déchiffrer les fonctions d'un étrange mécanisme magique ou pour faire appel à ses pouvoirs magiques considérables pour résoudre les problèmes que la force brute ne peut régler seule.
 
@@ -138,21 +138,21 @@ Bien entendu, la plupart de tels associés sont prompts à demander pardon lorsq
 **Dés de vie.** d6
 
 ### Conditions
-Pour devenir un Explorateur savant, un personnage doit satisfaire aux conditions suivantes.
+Pour devenir un Explorateur savant, un personnage doit satisfaire aux conditions suivantes. 
 
 **Dons.** [[Aptitude magique]], n’importe quel [[Dons de création dobjets|don de création d’objet]].
 
 **Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères), 5 rangs en [[UOM|Utilisation d’objets magiques]].
 
-**Spécial.** Le personnage doit avoir la capacité de lancer des sorts de niveau 2.
+**Spécial.** Le personnage doit avoir la capacité de lancer des sorts de niveau 2. 
 
 ### Compétences de classe
-Voici les compétences de classe de l’Explorateur Savant : [[Art de la magie]], [[Artisanat]], [[Connaissances]] (toutes), [[Estimation]], [[Linguistique]], [[Perception]], [[Profession]], [[Survie]], [[UOM|Utilisation d’objets magiques]].
+Voici les compétences de classe de l’Explorateur Savant : [[Art de la magie]], [[Artisanat]], [[Connaissances]] (toutes), [[Estimation]], [[Linguistique]], [[Perception]], [[Profession]], [[Survie]], [[UOM|Utilisation d’objets magiques]]. 
 
 **Points de compétence par niveau.** 2 + bonus d’[[Intelligence]]
 
 ### Caractéristiques de la classe
-Voici les particularités et aptitudes de la classe de prestige d’Explorateur savant.
+Voici les particularités et aptitudes de la classe de prestige d’Explorateur savant. 
 
 {s:Reference|ADEPTEDELACTIVATION}
 #### Adepte de l’activation (Ext)
@@ -160,7 +160,7 @@ Un Explorateur savant peut toujours [[faire 10]] sur les tests d’[[UOM|Utilisa
 
 {s:Reference|MAITREERUDIT}
 #### Maître érudit (Ext)
-Un Explorateur savant ajoute la moitié de son niveau de classe (minimum 1) à tous les tests d’[[Art de la magie]], [[Connaissances]] (mystères) et [[UOM|Utilisation d’objets magiques]]. Il peut toujours choisir de [[faire 10]] sur les tests de Connaissances (mystères) et Art de la magie, même quand il est distrait ou en danger.
+Un Explorateur savant ajoute la moitié de son niveau de classe (minimum 1) à tous les tests d’[[Art de la magie]], [[Connaissances]] (mystères) et [[UOM|Utilisation d’objets magiques]]. Il peut toujours choisir de [[faire 10]] sur les tests de Connaissances (mystères) et Art de la magie, même quand il est distrait ou en danger. 
 
 {s:Reference|MAGIEESOTERIQUE}
 #### Magie ésotérique (Ext)
@@ -168,7 +168,7 @@ Pour chaque niveau au-delà du niveau 1, l’Explorateur savant choisit un sort 
 
 {s:Reference|DECOUVERTEDEGLYPHES}
 #### Découverte de glyphes (Ext)
-Au niveau 2, un Explorateur savant peut utiliser [[Art de la magie]] pour repérer des pièges magiques ayant pour base l’écriture (notamment des glyphes, des runes, des sceaux et des symboles) de la même façon qu’un [[roublard]] peut utiliser [[Perception]] pour détecter les pièges.
+Au niveau 2, un Explorateur savant peut utiliser [[Art de la magie]] pour repérer des pièges magiques ayant pour base l’écriture (notamment des glyphes, des runes, des sceaux et des symboles) de la même façon qu’un [[roublard]] peut utiliser [[Perception]] pour détecter les pièges. 
 
 {s:Reference|MAITREDESPARCHEMINS}
 #### Maître des parchemins (Sur)
@@ -176,7 +176,7 @@ Au niveau 3, un Explorateur savant utilise son propre [[NLS|niveau de lanceur de
 
 {s:Reference|IDENTIFICATIONRAPIDE}
 #### Identification rapide (Mag)
-Au niveau 4, un Explorateur savant peut utiliser *[[identification]]* par une [[action rapide]]. Il peut le faire une fois par jour par tranche de deux niveaux dans cette classe.
+Au niveau 4, un Explorateur savant peut utiliser *[[identification]]* par une [[action rapide]]. Il peut le faire une fois par jour par tranche de deux niveaux dans cette classe. 
 
 {s:Reference|MAITREDESSCEAUX}
 #### Maître des sceaux (Sur)
@@ -184,11 +184,11 @@ Au niveau 5, un Explorateur savant reçoit un bonus égal à son niveau de class
 
 {s:Reference|ANALYSEDENCHANTEMENT}
 #### Analyse d’enchantement (Mag)
-Au niveau 6, un Explorateur savant peut utiliser [[analyse denchantement|analyse d’enchantement]] jusqu’à 1 [[round]] par niveau dans cette classe par jour. Il peut utiliser cette capacité par tranches d’un round.
+Au niveau 6, un Explorateur savant peut utiliser [[analyse denchantement|analyse d’enchantement]] jusqu’à 1 [[round]] par niveau dans cette classe par jour. Il peut utiliser cette capacité par tranches d’un round. 
 
 {s:Reference|MAITREDUSILENCE}
 #### Maître du silence (Sur)
-Un Explorateur savant de niveau 6 est capable d’activer les objets de déclenchement d’un sort, d’achèvement d’un sort ou à mots de commande silencieusement, substituant un geste magique aux mots nécessaires. Il ne peut pas utiliser cette capacité dans des circonstances où il ne pourrait pas lancer de sorts avec des composants somatiques. Il doit savoir comment activer l’objet normalement pour pouvoir utiliser cette capacité. Trois fois par jour, il peut lancer un sort de niveau 6 ou inférieur comme s’il utilisait un [[Sceptre de métamagie|sceptre métamagique silencieux]].
+Un Explorateur savant de niveau 6 est capable d’activer les objets de déclenchement d’un sort, d’achèvement d’un sort ou à mots de commande silencieusement, substituant un geste magique aux mots nécessaires. Il ne peut pas utiliser cette capacité dans des circonstances où il ne pourrait pas lancer de sorts avec des composants somatiques. Il doit savoir comment activer l’objet normalement pour pouvoir utiliser cette capacité. Trois fois par jour, il peut lancer un sort de niveau 6 ou inférieur comme s’il utilisait un [[Sceptre de métamagie|sceptre métamagique silencieux]]. 
 
 {s:Reference|MAITREDELADISSIPATION}
 #### Maître de la dissipation (Sur)

@@ -16,14 +16,14 @@ La Fin des Temps|%2fPCUP%2fReligion-PNG%2fGroetus.png|[[Divinités#AUTRES|Autres
 |—}{s:cs}{s:ISG}Le Cimetière de [[Pharasma (technique)|Pharasma]] est surplombé par un autre dieu, moins prédominant. Il s'agit de Groétus, le dieu de la fin des temps, une lune consciente et cruelle qui observe le Cimetière et attend la mort de la dernière âme vivante. Selon la *Concordance des rivaux*, lorsque Pharasma jugera la dernière âme après la mort du dernier corps vivant sur le plan Matériel, Groétus descendra jusqu'au Cimetière pour rencontrer Pharasma sur son trône en ruine avant de se rendre sur le plan Matériel pour "nettoyer" et faire la poussière avant qu'une autre réalité le remplace. Groétus disparaîtra une fois qu'il aura confirmé qu'il ne reste plus rien. Cependant, tout comme Pharasma est venue d'une réalité précédente, un nouveau Survivant échappera à la destruction pour recréer le cosmos.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
 • *[[Confusion]]* peut être préparé comme un sort de 4e niveau. (prêtre du [[domaine de la Folie]] ou [[Domaine du Vide|du Vide]] uniquement)
 • *[[Confusion mineure]]* peut être préparé comme un sort de 2e niveau. (prêtre du [[domaine de la Folie]] ou [[Domaine du Vide|du Vide]] uniquement)
 • *[[Terreur]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Akata]] ([[sous-type extraplanaire|extraplanaire]])
-• *[[Convocation de monstres VI]].* [[Bête du Chaos]]
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Akata]] ([[sous-type extraplanaire|extraplanaire]])  
+• *[[Convocation de monstres VI]].* [[Bête du Chaos]]  
 • *[[Convocation de monstres VI]].* [[Homme-phalène]] ([[sous-type extraplanaire|extraplanaire]])
 
 ### Options de personnage thématiques

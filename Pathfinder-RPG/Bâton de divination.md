@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton de divination|}
 **Aura** [[Divination]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Constitué d’une branche flexible de saule et fréquemment doté d’une extrémité fourchue, ce bâton permet de lancer les sorts suivants :
-• *[[détection des passages secrets]]* (1 charge)
-• *[[don des langues]]* (1 charge)
-• *[[localisation dobjet|localisation d’objet]]* (1 charge)
-• *[[localisation de créature]]* (2 charges)
-• *[[œil indiscret]]* (2 charges)
+Constitué d’une branche flexible de saule et fréquemment doté d’une extrémité fourchue, ce bâton permet de lancer les sorts suivants :  
+• *[[détection des passages secrets]]* (1 charge)  
+• *[[don des langues]]* (1 charge)  
+• *[[localisation dobjet|localisation d’objet]]* (1 charge)  
+• *[[localisation de créature]]* (2 charges)  
+• *[[œil indiscret]]* (2 charges)  
 • *[[vision lucide]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[détection des passages secrets]]*, *[[don des langues]]*, *[[localisation dobjet|localisation d’objet]]*, *[[localisation de créature]]*, *[[œil indiscret]]*, *[[vision lucide]]* ; **Coût** 41 000 po

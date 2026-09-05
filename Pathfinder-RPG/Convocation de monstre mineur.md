@@ -16,28 +16,28 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1
-**Temps d’incantation** 1 [[round]]
-**Composantes** [[Composantes|V, G, F/FD]] (un petit sac et une chandelle)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1d3 créatures invoquées
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:UM}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
+**Temps d’incantation** 1 [[round]]  
+**Composantes** [[Composantes|V, G, F/FD]] (un petit sac et une chandelle)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1d3 créatures invoquées  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[convocation de monstres I]]* mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les [[Belette|belettes]], les [[Chauve-souris|chauves-souris]], les [[Corbeau|corbeaux]], les [[Crapaud|crapauds]], les [[Lézard|lézards]], les [[Rat|rats]] ou les [[Singe|singes]]. Les animaux invoqués doivent tous être de la même sorte. Comme pour les animaux invoqués avec  *convocation de monstres I*, le personnage peut appliquer un archétype d’alignement aux animaux.
 
 
 
 (((
 ## Convocation de monstres I
-**École** [[Invocation]] ([[branche convocation|convocation]]) (voir texte) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 créature convoquée
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) (voir texte) ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, F/FD]] (un petit sac et une bougie)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 créature convoquée  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Voir les [[Convocation de monstres|listes de créatures]] pour les sorts de *Convocation de monstres*.
 
 Cette incantation invoque une entité originaire d’un autre [[plans|plan]] (habituellement un [[type extérieur|Extérieur]], un [[sous-type élémentaire|élémentaire]] ou une [[type créature magique|créature magique]] native d’un autre [[plans|plan]]) qui combat ensuite les ennemis de celui qui l’a appelée. Elle se manifeste à l’endroit choisi par le personnage et agit immédiatement, pendant le tour de jeu du personnage. Elle se bat en usant de tous ses pouvoirs. Si le personnage peut communiquer avec elle, il est possible de lui demander de s’abstenir d’attaquer, de ne cibler que certaines créatures, ou encore d’obéir à d’autres ordres. Le sort convoque l’une des créatures de la liste de niveau 1 sur la [[Convocation de monstres|liste de créatures]]. Le personnage choisit la créature convoquée et peut en changer à chaque fois qu’il relance le sort.

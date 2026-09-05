@@ -7,6 +7,6 @@ Categories:
 - Katapesh
 ---
 
-La ville de Soku est située dans l'ouest du [[Katapesh]].
+La ville de Soku est située dans l'ouest du [[Katapesh]]. 
 
 De nombreuses tribus gnolls, venues du Canyon Blanc, assiégèrent la ville en 4701. Toutes leurs tentatives de réduire la population de la cité en esclavage furent repoussées durant la bataille de la Grêle Rouge (Red hail Battle) par des paladins d'[[Iomédae]] qui, malheureusement, périrent durant les combats. Aujourd'hui, un groupe de paladin de [[Sarenrae]], les Vigiles de l'Aube, protègent la cité des incursions gnolls.

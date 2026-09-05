@@ -8,14 +8,14 @@ Categories:
 - Sort psychiste 5
 ---
 
-{s:UM}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible** voir texte
-**Durée** [[instantanée]]
+{s:UM}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible** voir texte  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ou aucun (voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
----
+<hr />
 Le personnage produit une vague sonore qui emporte les créatures et les objets loin de lui, comme la version de poussée subite de la *[[télékinésie]]*. Le personnage peut repousser un objet ou une créature par [[niveau]] de lanceur de sorts (15 au maximum). Les cibles s'envolent en ligne droite à l'opposé du personnage. Toutes les cibles repoussées doivent se trouver à moins de 3 mètres (2 {s:c}) les unes des autres. Le personnage peut repousser un total de 10 kilos par [[NLS|niveau de lanceur de sorts]] (150 kilos au maximum au [[niveau]] 15).
 
 Le personnage peut utiliser ce sort pour lancer un objet ou une créature vers une cible donnée. Pour toucher la cible, il doit réussir un [[jet dattaque|jet d'attaque]] (une par créature ou objet lancé). Il utilise son [[BBA|bonus de base à l'attaque]] + modificateur d'[[intelligence]] (si c'est un [[magicien]]) ou de [[charisme]] (si c'est un [[barde]] ou un [[ensorceleur]]). Les [[Tableau récapitulatif des armes|armes]] projetées infligent des dégâts ordinaires (sans bonus de [[force]]). Notez que les flèches ou les carreaux infligent les mêmes dégâts qu'une dague de leur taille si on les utilise ainsi. Les autres objets infligent entre 1 point de dégâts pour 10 kilos (pour les objets les moins dangereux) à 1d6 points pour 10 kilos (pour les objets durs et denses). Les objets et les créatures qui ratent leur cible atterrissent dans une case adjacente.
@@ -28,14 +28,14 @@ Si une créature est projetée contre une surface solide, elle reçoit les même
 
 (((
 ## Télékinésie
-**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible ou Cibles** voir texte
-**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible ou Cibles** voir texte  
+**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
----
+<hr />
 Cette incantation permet de déplacer des objets ou des créatures à distance, juste en se [[concentration|concentrant]]. Selon la version choisie, le sort génère une force graduelle, une violente poussée, ou permet d’exécuter des manœuvres de combat.
 
 **Force graduelle.** Cette version du sort permet de déplacer un objet pesant jusqu’à 12,5 kg par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 187,5 kg au [[niveau]] 15) et de lui faire parcourir un maximum de six mètres par [[round]]. Une créature peut annuler cet effet s’il vise l’un de ses objets en réussissant un jet de [[Volonté]] ou un [[test de résistance à la magie]].

@@ -48,9 +48,9 @@ LastModified: 2017-03-19 11:32
 </td><td><div>
 *La queue de renard de cette femme et la cavité tapissée de bois qui marque son dos révèlent sa nature féerique.*
 
-Les huldres sont des créatures féeriques qui, selon la légende, auraient été créées par des sorcières trolls pour attirer les humains entre leurs griffes. Toutes les huldres ont connaissance de cette histoire, la trouvent insultante et la démentent de bout en bout.
+Les huldres sont des créatures féeriques qui, selon la légende, auraient été créées par des sorcières trolls pour attirer les humains entre leurs griffes. Toutes les huldres ont connaissance de cette histoire, la trouvent insultante et la démentent de bout en bout. 
 
-Cela dit la légende persiste. Il n’est pas de meilleur moyen de mettre une huldre en colère que de lui parler de ce mythe (surtout quand on lui témoigne un manque de confiance ou du mépris) et la haine des huldres pour toutes les créatures trollesques est bien connue des érudits féeriques et de ceux qui rencontrent régulièrement ces fées parmi les plus rares.
+Cela dit la légende persiste. Il n’est pas de meilleur moyen de mettre une huldre en colère que de lui parler de ce mythe (surtout quand on lui témoigne un manque de confiance ou du mépris) et la haine des huldres pour toutes les créatures trollesques est bien connue des érudits féeriques et de ceux qui rencontrent régulièrement ces fées parmi les plus rares. 
 
 De face, l’huldre apparaît comme une très belle humaine mais il est deux éléments qui lui sont caractéristiques et indiquent qu’il s’agit d’une créature surnaturelle : sa longue queue de renard et son absence de dos à proprement parler (juste une cavité révélant que son corps n’est qu’une coquille creuse tapissée d’écorce). La plupart des huldres ont les cheveux longs de manière à dissimuler le trou qu’elles ont dans le dos et portent de longues robes pour cacher leur queue quand elles interagissent avec des humanoïdes. les huldres n’ont pas honte d’être des fées mais elles n’apprécient pas qu’on mentionne leur queue. Tant que les humanoïdes se montrent respectueux, les huldres sont souvent curieuses vis-à-vis des autres races et peuvent même aider celles qui traversent leurs territoires en leur indiquant les meilleurs endroits pour chasser ou pêcher.
 

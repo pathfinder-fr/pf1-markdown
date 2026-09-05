@@ -29,9 +29,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 24 , <b>Dex</b> 17, <b>Con</b> --, <b>Int</b> 7, <b>Sag</b> 12, <b>Cha</b> 19}
 {s:BDTexte|<b>BBA</b> +6, <b>BMO</b> +13 (+17 lutte), <b>DMD</b> 26}
-{s:BDTexte|<b>Dons</b> [[Arme de prédilection|Arme de prédilection (griffe)]], [[Attaque en puissance]],
+{s:BDTexte|<b>Dons</b> [[Arme de prédilection|Arme de prédilection (griffe)]], [[Attaque en puissance]], 
 [[Enchaînement]], [[savancer|S’avancer]], [[science de linitiative|Science de l’initiative]] }
-{s:BDTexte|<b>Compétences</b> [[Intimidation]] +16, [[Perception]] +13}
+{s:BDTexte|<b>Compétences</b> [[Intimidation]] +16, [[Perception]] +13} 
 {s:BDTexte|<b>Langues</b> commun}
 {s:BDTexte|<b>Particularités</b> origine de la haine}
 {s:BDSousTitre|Écologie}
@@ -39,20 +39,20 @@ Categories:
 {s:BDTexte|<b>Organisation sociale</b> solitaire}
 {s:BDTexte|<b>Trésor</b> standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Dégoût de soi (Ext)</b>. Quand un revenant est confronté à son image (dans un miroir par exemple) ou à un objet qu’il considérait comme important de son vivant, il doit réussir un test de Volonté de DD 20 pour ne pas se laisser gagner par
+{s:BDTexte|<b>Dégoût de soi (Ext)</b>. Quand un revenant est confronté à son image (dans un miroir par exemple) ou à un objet qu’il considérait comme important de son vivant, il doit réussir un test de Volonté de DD 20 pour ne pas se laisser gagner par 
 un sentiment de dégoût de soi. Dans cet état, le revenant est sans défense, et cela persiste jusqu’à ce qu’il soit attaqué ou qu’il aperçoive son meurtrier. Si un revenant réussit ce jet de sauvegarde, il devient alors obsédé par la source qui a déclenché l’événement (et causé un jet de sauvegarde) et fait tout ce qu’il peut pour la détruire : il s’en prend à cette source comme si elle était son assassin, et il bénéficie des avantages procurés par sa capacité d’objet de la haine.    }
 {s:BDTexte|<b>Hurlement funeste (Sur)</b>. Un revenant peut hurler une fois tous les 1d4 rounds en utilisant une action simple. Toutes les créatures situées dans une étendue de 18 mètres autour de lui doivent réussir un jet de Volonté de DD 18 sous peine de de-voir se recroqueviller sur elles-mêmes, terrorisées, pendant 1d4 rounds. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde dépend du Charisme.}
 {s:BDTexte|<b>Origine de la haine (Sur)</b>. C’est la haine qu’un revenant nourrit envers son meurtrier qui lui permet d’exister. Tant que le meurtrier existe, le revenant continue lui aussi d’exister. Si le meurtrier meurt, le revenant est lui aussi immédiatement détruit. Un assassin qui devient mort-vivant ne déclenche pas la destruction du revenant cependant. Quand un revenant rencontre la créature qui l’a tué, il gagne les effets d’un sort de rapidité (NLS 20) qui persiste tant que celle-ci reste dans son champ de vision. Le revenant gagne également un bonus maudit de +4 aux jets d’attaque, aux jets de dégâts par armes, aux tests de lutte et aux jets de sauvegarde contre la créature qui l’a tué.}
 {s:BDTexte|<b>Perception de l’assassin (Sur)</b>. Un revenant sait toujours dans quelle direction (mais pas à quelle distance) se trouve son meurtrier. Cette capacité de perception peut être bloquée par les effets qui empêchent également la scrutation. Face à son meurtrier, un revenant bénéficie des effets constants des sorts de vision lucide et de détection du mensonge (NLS 20). Ces effets ne peuvent pas être dissipés.}
 
-</td><td><div>''Un  cadavre  déformé  et  mutilé  s’avance  lourdement.  Il  tend  ses  doigts
+</td><td><div>''Un  cadavre  déformé  et  mutilé  s’avance  lourdement.  Il  tend  ses  doigts 
 osseux et affûtés. Ses intentions maléfiques sont évidentes.''
 
-Les  revenants  se  relèvent  du  tombeau  et,  poussés  par  leur
-haine  et  leur  besoin  de  vengeance,  pourchassent  et  tuent  leur
-meurtrier. Ces créatures dénuées de compassion, d’émotion ou
-de  logique  n’ont  qu’un  seul  objectif
-et ne parviennent pas à trouver le
-repos  avant  d’avoir  accompli
+Les  revenants  se  relèvent  du  tombeau  et,  poussés  par  leur 
+haine  et  leur  besoin  de  vengeance,  pourchassent  et  tuent  leur 
+meurtrier. Ces créatures dénuées de compassion, d’émotion ou 
+de  logique  n’ont  qu’un  seul  objectif 
+et ne parviennent pas à trouver le 
+repos  avant  d’avoir  accompli 
 leur vengeance.
 </div></td></tr></table>

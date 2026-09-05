@@ -49,6 +49,6 @@ pas l’âge véritable de la victime : il ne fait que simuler les effets angois
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kami|kamis]].***</li></ul>*Cette vieille femme étrangement belle est entièrement composée de fleurs, d’écorce et de branches en forme de bois de cerfs.*
 
-Les toshigamis, connus sous le nom de kamis des fleur, sont associés aux cerisiers, plus particulièrement ceux qui poussent dans les zones peuplées. Souvent, longtemps après qu’une ville soit tombée en ruines, ces kamis gardiens sont tout ce qui reste de la gloire de la cité perdue. Ainsi, les toshigamis sont aussi associés au temps qui passe.
+Les toshigamis, connus sous le nom de kamis des fleur, sont associés aux cerisiers, plus particulièrement ceux qui poussent dans les zones peuplées. Souvent, longtemps après qu’une ville soit tombée en ruines, ces kamis gardiens sont tout ce qui reste de la gloire de la cité perdue. Ainsi, les toshigamis sont aussi associés au temps qui passe. 
 Ils se montrent rarement, sauf à ceux qui en ont désespérément besoin ou à ceux qui blessent leurs arbres. Mais ils n’en sont pas moins fascinés par les mortels et il est arrivé que certains entretiennent des relations romantiques avec eux. Le toshigami mesure 1,50 mètre et pèse 50 kilos.
 </div></td></tr></table>

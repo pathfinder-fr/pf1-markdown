@@ -40,7 +40,7 @@ Categories:
 {s:BDTexte|**Particularités** [[ninja#ASTUCEDENINJA|astuce de ninja]] ([[Talents#DEBOUT|debout]], [[Astuces#DISCRETETRAPIDE|discret et rapide]], [[maître des ombres#CONVOCATIONDOMBRE|convocation d’ombre]], [[maître des ombres#DISCRETIONTOTALE|discrétion totale]], [[ninja#PASDETRACE|pas de trace]] +1, [[ninja#RÉSERVEDEKI|réserve de ki]] (5), [[maître des ombres#POUVOIRDEROUBLARD|talent de roublard]] ([[Talents#REACTIONSLENTES|réactions lentes]]), [[maître des ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (12 m/jour), [[Gobelours#TRAQUEUR|traqueur]], [[ninja#UTILISATIONDUPOISON|utilisation du poison]]}
 {s:BDTexte|**Équipement divers** *[[armure de cuir (armure)|armure de cuir +2]]*, *[[épée courte (arme)|épée courte +1]]*, [[dague (arme)|dagues de maître]] (3), *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 374po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 

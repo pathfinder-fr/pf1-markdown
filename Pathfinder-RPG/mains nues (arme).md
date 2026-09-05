@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** — ; **Poids** — ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]], [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Armesnaturelles|armes naturelles]]
-**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#NONLETAL|non-létal]]
+{s:AE}**Prix** — ; **Poids** — ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]], [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Armesnaturelles|armes naturelles]]  
+**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#NONLETAL|non-létal]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** combat à mains nues</span>
----
+<hr />
 Une [[Actions simples#ATTAQUEMAINSNUES|attaque à mains nues]] est une attaque telle qu’un coup de poing ou un coup de pied porté par un attaquant ne portant pas d’arme. Un personnage de taille M inflige 1d3 points de dégâts [[Blessures et mort#NONLETAL|non létaux]] avec une attaque à mains nues. Un personnage de taille P inflige 1d2 points de dégâts non létaux.  
   
 Un [[moine]] ou tout personnage ayant le don [[Science du combat à mains nues]] peut infliger des dégâts létaux ou non létaux avec une attaque à mains nues, selon ce qu’il décide. Les dégâts d’une attaque à mains nues sont considérés comme des dégâts d’arme en ce qui concerne les effets qui donnent un bonus aux [[jet dattaque|jets d’attaque]] avec une arme.  

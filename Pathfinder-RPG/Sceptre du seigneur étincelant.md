@@ -16,10 +16,10 @@ Façonné dans une unique pièce de jade noir, ce sceptre de 90 centimètres de 
 
 Un individu qui cherche à manier le sceptre doit d’abord se lier de manière permanente à l’artefact en lui offrant une utilisation de son [[pouvoir mythique]]. Après cela, le porteur doit toujours garder une utilisation de pouvoir en réserve pour maintenir le lien. S’il dépense toutes ses utilisations de pouvoir mythique, le lien est rompu et l’individu n’a plus accès aux pouvoirs du sceptre tant qu’il n’a pas rétabli son lien de propriété.
 
-Une fois lié, le sceptre se manie comme une *[[masse darmes légère (arme)|masse d’armes légère]] de [[lumière (propriété)|lumière]] +6* qui accorde un bonus d’altération de +4 à la valeur de [[Charisme]] de son porteur lié. En outre, le possesseur peut dépenser une utilisation de [[pouvoir mythique]] et faire tinter les clochettes du sceptre pour produire les effets suivants.
-• Le porteur peut faire sonner la clochette d’autorité pour lancer *[[injonction]]* sur une créature non-mythique.
-• Le porteur peut faire sonner la clochette de bannissement pour lancer *[[renvoi]]* sur un extérieur non-mythique ayant un [[FP]] inférieur d’au moins 3 points au niveau de classe total du porteur plus son [[grade]].
-• Le porteur peut faire sonner la clochette de domination pour lancer *[[sanctuaire]]* sur une créature non-mythique.
+Une fois lié, le sceptre se manie comme une *[[masse darmes légère (arme)|masse d’armes légère]] de [[lumière (propriété)|lumière]] +6* qui accorde un bonus d’altération de +4 à la valeur de [[Charisme]] de son porteur lié. En outre, le possesseur peut dépenser une utilisation de [[pouvoir mythique]] et faire tinter les clochettes du sceptre pour produire les effets suivants.  
+• Le porteur peut faire sonner la clochette d’autorité pour lancer *[[injonction]]* sur une créature non-mythique.  
+• Le porteur peut faire sonner la clochette de bannissement pour lancer *[[renvoi]]* sur un extérieur non-mythique ayant un [[FP]] inférieur d’au moins 3 points au niveau de classe total du porteur plus son [[grade]].  
+• Le porteur peut faire sonner la clochette de domination pour lancer *[[sanctuaire]]* sur une créature non-mythique.  
 • Le porteur peut faire sonner la clochette d’emprisonnement pour lancer *[[cage de force]]* sur une créature non-mythique ayant un [[FP]] inférieur d’au moins 3 points au niveau de classe total du porteur plus son [[grade]].
 
 Le [[NLS|niveau de lanceur de sorts]] pour ces quatre effets est égal au niveau de personnage total du porteur plus son [[grade]]. Quand il fait sonner une clochette, il peut également dépenser une utilisation de [[pouvoir mythique]] supplémentaire pour augmenter le [[DD]] du [[jds|jet de sauvegarde]] du pouvoir magique de 10.

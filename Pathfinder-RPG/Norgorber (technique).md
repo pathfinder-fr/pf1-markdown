@@ -36,18 +36,18 @@ En se déplaçant dans une foule de personnes (au moins six individus), murmurer
 : **3.** ***Frappe mortelle (Ext).*** Une fois par jour, le personnage peut porter une frappe mortelle avec une arme de corps à corps. Il doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Le personnage obtient alors un bonus de +4 à son jet d'attaque et inflige 1d6 points de dégâts supplémentaires par tranche de 4 [[DV|Dés de vie]] qu'il possède (maximum 5d6). Si une frappe mortelle réduit la cible à des points de vie négatifs mais ne la tue pas, la cible tombe immédiatement à un total de points de vie négatifs égal à sa valeur de [[Constitution]] - 1 (à un point de la mort).
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[antipaladin]]).**
+**Lancement de sorts ([[antipaladin]]).**  
 • *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 2e niveau. (suivants du Maître gris uniquement)
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau. (suivants du Maître Gris uniquement)
-• *[[Poison pernicieux]]* peut être préparé comme  un sort de 2e niveau. (suivants de Noirs Doigts uniquement)
-• *[[Antidétection]]* peut être préparé comme  un sort de 3e niveau. (suivants du Faucheur de réputation uniquement)
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]* peut être préparé comme  un sort de 3e niveau. (suivants du Maître Gris uniquement)  
+• *[[Poison pernicieux]]* peut être préparé comme  un sort de 2e niveau. (suivants de Noirs Doigts uniquement)  
+• *[[Antidétection]]* peut être préparé comme  un sort de 3e niveau. (suivants du Faucheur de réputation uniquement)  
 • *[[Cercle de mort]]* peut être préparé comme  un sort de 6e niveau. (suivants du père Écorcheur uniquement)
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Rat-garou|Rat-garou roublard 2]] ([[sous-type extraplanaire|extraplanaire]])
-• *[[Convocation de monstres IV]].* [[Étrangleur]] ([[sous-type extraplanaire|extraplanaire]])
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Rat-garou|Rat-garou roublard 2]] ([[sous-type extraplanaire|extraplanaire]])  
+• *[[Convocation de monstres IV]].* [[Étrangleur]] ([[sous-type extraplanaire|extraplanaire]])  
 • *[[Convocation de monstres V]].* [[Dogue dombre|Dogue d'ombre]]
 
 #### Code de conduite de l'antipaladin
@@ -61,5 +61,5 @@ Les [[Antipaladin|antipaladins]] qui servent Norgorber sont discrets et rusés. 
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

@@ -38,7 +38,7 @@ La vie du Clan du Crâne tourne constamment autour de la mort. Qu'ils aient à s
 Le Clan du Vent s'est installé dans les montagnes du nord de la [[Varisie]] et ses membres sont les Shoantis les plus ardents défenseurs de leur territoire. Malheur à qui profanera ces terres par sa simple présence !
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Shoantis dans les suppléments
+Vous pourrez trouver plus d'informations à propos des Shoantis dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Aides de jeu#RESHOANTIS|rapport d'éclaireurs sur les Shoantis]].
 - On parle également des Shoantis dans le [[Aventures.Présentation AP2#AP2-4|quatrième volume]] de la campagne [[Aventures.Présentation AP2|La Malédiction du Trône Écarlate]].

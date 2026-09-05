@@ -20,35 +20,35 @@ Prendre une poignée de gemmes, clés, et pièces mélangées. Cette poignée do
 
 #### Faveurs ([[Obédience divine]])
 **[[Évangéliste]] :**
-: **1.** ***Diplomate (Mag).*** *[[compréhension des langages]]* 3/jour, *[[apaisement des émotions]]* 2/jour ou *[[bagou]]* 1/jour.
-: **2.** ***Citadin (Ext).*** Le personnage ne se perd jamais dans les cités avec plus de 5000 habitants – lorsqu'il entre dans une cité, même pour la première fois, il peut toujours revenir sur ses pas et connaître intuitivement l'emplacement de quartiers particuliers. De plus, le personnage relève et apprend les accents et les jargons locaux instantanément, ce qui donne l'impression qu'il est un habitant installé depuis longtemps. Le personnage obtient également un bonus de sainteté ou de malfaisance de +4 aux tests de [[Connaissances]] (folklore local) et de [[Déguisement]] tant qu'il est dans l'enceinte d'une cité.
+: **1.** ***Diplomate (Mag).*** *[[compréhension des langages]]* 3/jour, *[[apaisement des émotions]]* 2/jour ou *[[bagou]]* 1/jour.  
+: **2.** ***Citadin (Ext).*** Le personnage ne se perd jamais dans les cités avec plus de 5000 habitants – lorsqu'il entre dans une cité, même pour la première fois, il peut toujours revenir sur ses pas et connaître intuitivement l'emplacement de quartiers particuliers. De plus, le personnage relève et apprend les accents et les jargons locaux instantanément, ce qui donne l'impression qu'il est un habitant installé depuis longtemps. Le personnage obtient également un bonus de sainteté ou de malfaisance de +4 aux tests de [[Connaissances]] (folklore local) et de [[Déguisement]] tant qu'il est dans l'enceinte d'une cité.  
 : **3.** ***Carreau sournois (Ext).*** Trois fois par jour, le personnage peut effectuer des [[Discrétion|tirs embusqués]] avec une arbalète tout en ayant peu de chance de révéler son emplacement. Le personnage doit déclarer l'utilisation de cette capacité avant d'effectuer le [[jet dattaque|jet d'attaque]]. Il ne peut utiliser cette capacité que si sa cible est à 9 m (6 {s:c}) ou moins de lui et n'est pas consciente de sa présence ou de son emplacement précis. Une fois que le personnage effectue son jet d'attaque, il fait immédiatement un test de [[Discrétion]] pour son tir embusqué, sans le malus normale de -20.
 
 **[[Exalté]] :**
-: **1.** ***Apparence ordonnée (Mag). *** *[[vérité dAbadar|vérité d'Abadar]]* 3/jour, *[[arme alignée]]* (Loi uniquement) 2/jour ou *[[cercle magique contre le Chaos]]* 1/jour.
-: **2.** ***Immunité diplomatique (Ext).*** Tant qu'il est dans l'enceinte d'une cité de 5000 habitants ou plus, le personnage bénéficie d'un bonus de sainteté ou de malfaisance de +4 aux tests de [[Bluff]] et de [[Diplomatie]]. Il obtient également un statut spécial aux yeux de la loi. Le personnage est considéré comme une personne à respecter, et il peut obtenir des traitements de faveurs et des assistances dont un citoyen ordinaire ne pourrait pas profiter, comme des informations sur l'activité politique, les investigations criminelles ou les menaces contre la cité. Tous les pots-de-vin ou taxes qui seraient normalement prélevés par le système juridique sont ignorés pour le personnage. Les gardes de ville et les fonctionnaires avec une [[Diplomatie|attitude]] de départ inamical ou hostile sont indifférents envers le personnage à la place. Ces avantages ne s'appliquent que si le personnage se présente comme un exalté du dieu de la civilisation.
+: **1.** ***Apparence ordonnée (Mag). *** *[[vérité dAbadar|vérité d'Abadar]]* 3/jour, *[[arme alignée]]* (Loi uniquement) 2/jour ou *[[cercle magique contre le Chaos]]* 1/jour.  
+: **2.** ***Immunité diplomatique (Ext).*** Tant qu'il est dans l'enceinte d'une cité de 5000 habitants ou plus, le personnage bénéficie d'un bonus de sainteté ou de malfaisance de +4 aux tests de [[Bluff]] et de [[Diplomatie]]. Il obtient également un statut spécial aux yeux de la loi. Le personnage est considéré comme une personne à respecter, et il peut obtenir des traitements de faveurs et des assistances dont un citoyen ordinaire ne pourrait pas profiter, comme des informations sur l'activité politique, les investigations criminelles ou les menaces contre la cité. Tous les pots-de-vin ou taxes qui seraient normalement prélevés par le système juridique sont ignorés pour le personnage. Les gardes de ville et les fonctionnaires avec une [[Diplomatie|attitude]] de départ inamical ou hostile sont indifférents envers le personnage à la place. Ces avantages ne s'appliquent que si le personnage se présente comme un exalté du dieu de la civilisation.  
 : **3.** ***Plateaux de la Balance (Sur).*** Une fois par jour par une [[action complexe]], le personnage peut accumuler puis redistribuer ses points de vie et ceux de tous les alliés consentants à 9 m (6 {s:c}) ou moins de lui. Il ajoute ses points de vie actuels et ceux de ses alliés consentants, puis décide comment il souhaite les répartir parmi ces mêmes individus. Le personnage ne peut ni donner plus de points de vie à un allié que son maximum ni laisser un allié à 0 points de vie.
 
 **[[Sentinelle]] :**
-: **1.** ***Soutien loyal (Mag).*** *[[bouclier de la foi]]* 3/jour, *[[Protection dautrui|protection d'autrui]]* 2/jour ou *[[Aura darchon|aura d'archon]]* 1/jour.
-: **2.** ***Allié infatigable (Mag).*** Une fois par jour par une [[action simple]], le personnage peut convoquer un inévitable [[zélékhut]]. Il peut communiquer télépathiquement avec le zélékhut jusqu'à une portée de 30 m (20 {s:c}) et le zélékhut obéit parfaitement à ses ordres pendant 1 minute par [[DV|Dé de Vie]] du personnage avant de disparaître pour retourner chez lui. Le zélékhut n'obéit à aucun ordre qui violerait son alignement Loyal – ces ordres sollicitent un refus sinistre, et pourraient même encourager le zélékhut à attaquer le personnage si l'ordre est trop scandaleux.
+: **1.** ***Soutien loyal (Mag).*** *[[bouclier de la foi]]* 3/jour, *[[Protection dautrui|protection d'autrui]]* 2/jour ou *[[Aura darchon|aura d'archon]]* 1/jour.  
+: **2.** ***Allié infatigable (Mag).*** Une fois par jour par une [[action simple]], le personnage peut convoquer un inévitable [[zélékhut]]. Il peut communiquer télépathiquement avec le zélékhut jusqu'à une portée de 30 m (20 {s:c}) et le zélékhut obéit parfaitement à ses ordres pendant 1 minute par [[DV|Dé de Vie]] du personnage avant de disparaître pour retourner chez lui. Le zélékhut n'obéit à aucun ordre qui violerait son alignement Loyal – ces ordres sollicitent un refus sinistre, et pourraient même encourager le zélékhut à attaquer le personnage si l'ordre est trop scandaleux.  
 : **3.** ***Frappe du décret (Sur).*** Une fois par jour, le personnage peut canaliser les effets de *[[décret]]* à travers son arme, même s'il est incapable de lancer (ni même connaître) le sort. Le personnage doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Si l'attaque touche, la cible est affectée comme si elle était dans la zone d'un *décret* lancé par un [[prêtre]] avec un [[NLS|niveau de lanceur de sorts]] égal au nombre de [[DV|Dés de Vie]] du personnage (maximum 20). Si la cible est Loyale ou si son nombre de dés de vie excède celui du personnage, elle n'est pas affectée. Si son attaque rate ou si la créature n'est pas affectée, l'effet de *décret* est gâché.
 
 ### Règles uniques aux suivants
-**Lancement de sorts (toutes les classes).**
+**Lancement de sorts (toutes les classes).**  
 • *[Coffre d'âme](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soul%20Vault)* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[paladin]]).**
+**Lancement de sorts ([[paladin]]).**  
 • *[[Mot de rappel]].*  peut être préparé comme un sort de 4e niveau (tant que les sanctuaires désignés sont des temples de leurs cités natales).
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
 • *[[Mot de rappel]].* peut être préparé comme un sort de 5e niveau (tant que les sanctuaires désignés sont des temples de leurs cités natales).
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Aigle]] [[archétypes#CREATURECELESTE|céleste]] à deux têtes - LN (cette créature a deux têtes. Elle obtient un bonus racial de +2 aux tests d'écoute, de recherche, et de repérage, mais elle n'obtient pas une attaque de morsure supplémentaire).
-• *[[Convocation de monstres III]].* [[Hippogriffe]] [[archétypes#CREATURECELESTE|céleste]] - LN
-• *[[Convocation de monstres IV]].* [[Aigle]] [[archétypes#CREATUREGEANTE|géant]] à deux têtes - LN (cette créature a deux têtes. Elle obtient un bonus racial de +2 aux tests d'écoute, de recherche, et de repérage, mais elle n'obtient pas une attaque de morsure supplémentaire).
-• *[[Convocation de monstres V]].* [[Griffon]] [[archétypes#CREATURECELESTE|céleste]] - LN
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Aigle]] [[archétypes#CREATURECELESTE|céleste]] à deux têtes - LN (cette créature a deux têtes. Elle obtient un bonus racial de +2 aux tests d'écoute, de recherche, et de repérage, mais elle n'obtient pas une attaque de morsure supplémentaire).  
+• *[[Convocation de monstres III]].* [[Hippogriffe]] [[archétypes#CREATURECELESTE|céleste]] - LN  
+• *[[Convocation de monstres IV]].* [[Aigle]] [[archétypes#CREATUREGEANTE|géant]] à deux têtes - LN (cette créature a deux têtes. Elle obtient un bonus racial de +2 aux tests d'écoute, de recherche, et de repérage, mais elle n'obtient pas une attaque de morsure supplémentaire).  
+• *[[Convocation de monstres V]].* [[Griffon]] [[archétypes#CREATURECELESTE|céleste]] - LN  
 • *[[Convocation de monstres IX]].* [[Kolyarut]] - LN
 
 #### Code de conduite du paladin
@@ -70,7 +70,7 @@ De tous les dieux Neutres, seul Abadar soutient et promeut un ordre sacré de [[
 
 **Monstres.** [Législateur (Héraut)](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Lawgiver), [[?]] (Orsheval).
 
-**Objets magiques – Armes.** [[?]] (Fugitive finder), [Massue de clés](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Mace%20of%20Keys), [Arbalète-coffre](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Vaultbow).
+**Objets magiques – Armes.** [[?]] (Fugitive finder), [Massue de clés](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Mace%20of%20Keys), [Arbalète-coffre](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Vaultbow). 
 
 **Objets magiques – Armures.** [[Plastron du juge doré]].
 

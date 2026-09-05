@@ -10,12 +10,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [[Nécromancie]] ; **Niveau** [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une goutte de sang du personnage)
-**Portée** contact
-**Cible** le personnage et une créature de même sexe
-**Durée** 1 minute/niveau
+{s:cs}{s:RSE}**École** [[Nécromancie]] ; **Niveau** [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une goutte de sang du personnage)  
+**Portée** contact  
+**Cible** le personnage et une créature de même sexe  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 *Une Exploratrice du grand nord prétend avoir exhumé cette antique prière d’un temple de la déesse des étoiles en ruine mais des Explorateurs disent que les filles de la Reine-Sorcière utilisent une magie similaire. Même si sa désignation peut laisser penser le contraire, ce sort fonctionne tout aussi bien avec des créatures mâles ou femelles, mais il faut tout de même que les deux cibles du sort soient de même sexe.*

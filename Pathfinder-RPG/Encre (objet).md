@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** —
+{s:AE}**Prix** 8 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette fiole contient 30 millilitres d'encre. Les encres de couleur coûtent deux fois plus cher que l'encre noire.

@@ -14,12 +14,12 @@ Categories:
 {s:cm}
 **Cette option est plus courante chez les [[Goule|goules]].**
 
-**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[sorcière|Sor]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Zone** Zone étendue de 6 m (4 {s:c}) de rayon
-**Durée** 1 [[round]]/niveau
+**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[sorcière|Sor]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Zone** Zone étendue de 6 m (4 {s:c}) de rayon  
+**Durée** 1 [[round]]/niveau  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le sol tente d’entraîner les créatures dans ses profondeurs, comme s’il voulait se repaître de chair mortelle.

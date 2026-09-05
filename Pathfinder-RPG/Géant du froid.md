@@ -80,7 +80,7 @@ géants du froid se couvrent de peaux et de fourrures et se
 parent de tous les bijoux qu’ils possèdent. Les guerriers géants du
 froid revêtent également des chemises de mailles et des casques
 métalliques ornés de cornes ou de plumes. Un adulte mâle mesure
-à peu près 4,50 mètres et pèse approximativement 1 400 kg.
+à peu près 4,50 mètres et pèse approximativement 1 400 kg. 
 
 Les femmes sont identiques aux hommes, bien que légèrement plus
 petites et plus légères. Tous peuvent vivre jusqu’à 250 ans.
@@ -104,7 +104,7 @@ pillant, car leur environnement est peu peuplé et gelé. Ils se
 répartissent de manière quasiment égale entre ceux qui vivent
 dans des semblants de communautés ou des châteaux abandonnés
 et les nomades qui sillonnent les terres gelées du Nord à la
-recherches de butin et de provisions.
+recherches de butin et de provisions. 
 
 Les chefs des géants du froid se font appeler des jarls et
 exigent une obéissance absolue de la
@@ -114,7 +114,7 @@ jarl, sous la forme d’un combat dont
 le vainqueur prend la place du
 chef. Ces défis se terminent
 généralement par la mort
-d’un des combattants.
+d’un des combattants. 
 
 Un jarl dirige souvent
 au moins une

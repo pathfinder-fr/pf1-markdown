@@ -13,7 +13,7 @@ Categories:
 **Composantes** [[composantes|V, G]]  
 **Portée** 1,5 m  
 **Zone** rayonnement de 1,5 m centrée sur le lanceur  
-**Durée** 1 round/niveau
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée une ligne écarlate brillante autour de la zone. Contre les créatures situées dans la zone, le personnage peut tenter un nombre d’attaques d’opportunité supplémentaires par round égal au modificateur de sa caractéristique de lancement de sorts ([[Intelligence]] pour les [[magus|magi]] et les [[magicien|magiciens]], [[Charisme]] pour les [[sanguin|sanguins]] et les [[ensorceleur|ensorceleurs]]), même si cela ne lui permet pas de faire plus d’une attaque contre une créature par action provoquant une [[AO|attaque d’opportunité]].

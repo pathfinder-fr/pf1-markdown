@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[École de lenfant de la terre|École de l’enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l’enfant de la terre]], [[Science du croc-en-jambe]], [[Croc-en-jambe supérieur]], [[Science du combat à mains nues]], [[Coup étourdissant]], 9 rangs en [[Acrobaties]]
+**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[École de lenfant de la terre|École de l’enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l’enfant de la terre]], [[Science du croc-en-jambe]], [[Croc-en-jambe supérieur]], [[Science du combat à mains nues]], [[Coup étourdissant]], 9 rangs en [[Acrobaties]] 
 
 **Avantage.** Le personnage peut renverser une créature de [[sous-type géant]], quelle que soit sa [[taille]]. Tant qu’il utilise l’[[École de lenfant de la terre|École de l’enfant de la terre]], quand une créature de sous-type géant est à terre, qu’elle se relève et provoque une [[attaque dopportunité|attaque d’opportunité]] de sa part, il peut faire une attaque à mains nues et, si elle touche, déclarer qu’il s’agit d’une tentative de [[Coup étourdissant]]. Le personnage gagne aussi un bonus de +4 au [[DD]] du [[Coup étourdissant]] quand il l’utilise ainsi.
 

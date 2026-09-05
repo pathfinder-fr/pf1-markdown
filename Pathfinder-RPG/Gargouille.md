@@ -44,14 +44,14 @@ Pour surprendre leurs adversaires, les gargouilles se
 font souvent passer pour des statues de pierre dotées
 d’ailes car elles peuvent rester immobiles indéfiniment. La
 plupart d’entre elles font preuve de comportements obsessionnels
-compulsifs dont la nature varie d’un individu à un autre.
+compulsifs dont la nature varie d’un individu à un autre. 
 
 Elles collectent par exemple des livres, des bibelots dérobés, des armes
 ou des trophées macabres sur les ennemis qu’elles ont vaincus
 puis les utilisent pour décorer leur repaire et leur territoire. Les
 gargouilles mènent généralement des vies solitaires mais elles
 forment parfois des groupes terrifiants qu’on appelle « vols »,
-par pur plaisir ou pour se protéger les uns les autres.
+par pur plaisir ou pour se protéger les uns les autres. 
 
 Dans certains cas, des tribus de gargouilles s’unissent avec d’autres
 créatures, mais même la plus solide de ces alliances risque de se
@@ -75,7 +75,7 @@ Ces créatures connues sous le nom de kapoacinthes possèdent les
 mêmes caractéristiques que les gargouilles normales à ceci près
 qu’elles appartiennent au sous-type « aquatique » et que leurs
 ailes leur donne une vitesse de nage de 18 mètres (mais ne leur
-permettent pas de voler).
+permettent pas de voler). 
 
 Les kapoacinthes vivent dans les régions côtières peu profondes où il leur suffit de sortir des flots pour s’en
 prendre aux habitants proches. Les kapoacinthes forment des vols

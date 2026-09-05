@@ -155,7 +155,7 @@ L'aspect le plus surprenant des techniques magiques des arcanistes de l'académi
 **Dé de vie.** d6.
 
 ### Conditions requises
-Pour devenir arcaniste de l'académie du Vieux-Mage, le personnage doit satisfaire aux conditions suivantes :
+Pour devenir arcaniste de l'académie du Vieux-Mage, le personnage doit satisfaire aux conditions suivantes : 
 
 **Alignement.** N'importe quel alignement Bon.
 
@@ -173,7 +173,7 @@ Voici les compétences de classe de l' arcaniste de l'académie du Vieux-Mage  
 ### Caractéristiques de classe
 Voici les caractéristiques de classe de l'arcaniste de l'académie du Vieux-Mage.
 #### Armes et armures
-Un arcaniste de l'académie du Vieux-Mage ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un arcaniste de l'académie du Vieux-Mage ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|AURADEBIEN}
 #### Aura de Bien (Ext)
@@ -189,13 +189,13 @@ Au niveau 2 et en passant un total de 24 heures à étudier pendant un maximum d
 
 {s:reference|SORTSVERTUEUX}
 #### Sorts vertueux (Sur)
-Au niveau 2, un arcaniste de l'académie du Vieux-Mage lance les sorts du [[registre]] du Bien avec un [[NLS]] supérieur de 1. Pour préparer un sort du registre du Mal, il doit utiliser deux emplacements de sort au lieu d'un.
+Au niveau 2, un arcaniste de l'académie du Vieux-Mage lance les sorts du [[registre]] du Bien avec un [[NLS]] supérieur de 1. Pour préparer un sort du registre du Mal, il doit utiliser deux emplacements de sort au lieu d'un. 
 
 {s:reference|SOUVENIRPSALMODIE}
 #### Souvenir psalmodié (Ext)
 Au niveau 3, en réalisant un rituel spécial durant 1 minute, un arcaniste de l'académie du Vieux-Mage peut préparer un sort à partir d'un [[Magie profane#PREPARATION|emplacement de sort profane vierge]]. L'emplacement de sort vierge doit avoir été laissé vide volontairement au début de la journée, quand l'arcaniste de l'académie du Vieux-Mage a préparé ses sorts. Il doit être capable de lire son grimoire ou doit avoir maîtrisé le sort avec le don [[Maîtrise des sorts]] pour le préparer avec cette capacité. Il n'a pas besoin de se reposer pendant 8 heures pour ce faire, mais toutes les autres conditions de préparation s'appliquent toujours.
 
-Au niveau 9, il peut utiliser cette capacité par une [[action complexe]], tant qu'il a le grimoire en main ou qu'il a maîtrisé le sort. Il peut utiliser cette capacité un nombre de fois par jour égal à son modificateur d'[[Intelligence]].
+Au niveau 9, il peut utiliser cette capacité par une [[action complexe]], tant qu'il a le grimoire en main ou qu'il a maîtrisé le sort. Il peut utiliser cette capacité un nombre de fois par jour égal à son modificateur d'[[Intelligence]]. 
 
 {s:reference|BONTEDURABLE}
 #### Bonté durable (Sur)
@@ -215,15 +215,15 @@ Au niveau 6, une fois par jour, un arcaniste de l'académie du Vieux-Mage peut l
 
 {s:reference|CONTRAVENTIONMORALISATRICE}
 #### Contravention moralisatrice (Sur)
-Au niveau 7, un arcaniste de l'académie du Vieux-Mage obtient un bonus de +2 aux tests pour percer la [[RM|résistance à la magie]] des créatures ou des objets Mauvais, et sur les tests visant à [[Dissipation de la magie|dissiper]] des sorts lancés par des créatures mauvaises, des sorts avec le [[registre]] du Mal, ou des objets magiques Mauvais.
+Au niveau 7, un arcaniste de l'académie du Vieux-Mage obtient un bonus de +2 aux tests pour percer la [[RM|résistance à la magie]] des créatures ou des objets Mauvais, et sur les tests visant à [[Dissipation de la magie|dissiper]] des sorts lancés par des créatures mauvaises, des sorts avec le [[registre]] du Mal, ou des objets magiques Mauvais. 
 
 {s:reference|ARCANESAINTE}
 #### Arcane saint (Ext)
-Au niveau 9, un arcaniste de l'académie du Vieux-Mage étend sa capacité à traduire les sorts divins en sorts profanes. Il ajoute tous les sorts de domaine du [[domaine du Bien]] du prêtre à la liste de sorts profanes d'une de ses classes. Ces sorts deviennent profanes et leur [[DD]] fonctionne comme un sort normal de la classe choisie.
+Au niveau 9, un arcaniste de l'académie du Vieux-Mage étend sa capacité à traduire les sorts divins en sorts profanes. Il ajoute tous les sorts de domaine du [[domaine du Bien]] du prêtre à la liste de sorts profanes d'une de ses classes. Ces sorts deviennent profanes et leur [[DD]] fonctionne comme un sort normal de la classe choisie. 
 
 {s:reference|GARDIENALTRUISTE}
 #### Gardien altruiste
-Au niveau 10, une fois par jour quand un sort ou effet surnaturel soumis à la [[RM|résistance à la magie]] cible un allié de l'arcaniste de l'académie du Vieux-Mage ou s'ils sont dans la zone d'effet du sort, il peut rediriger les dégâts sur lui-même par une [[action immédiate]]. Il peut ainsi protéger un nombre d'alliés égal à son modificateur d'[[Intelligence]], tant qu'ils sont à 9 mètres ou moins de l'arcaniste de l'académie du Vieux-Mage. L'arcaniste doit tenter le [[jds|jet de sauvegarde]] approprié pour chaque allié protégé, et peut donc être amené à faire plusieurs jets de sauvegarde contre un unique sort ou effet. Il prend tous les dégâts et souffre de tous les états préjudiciables et autres effets que ses alliés auraient subis, et peut donc les subir plusieurs fois. Ceci ne protège les alliés que des dégâts et effets imposés lorsque l'arcaniste a dépensé son action immédiate, pas des effets ou dégâts dus à un effet non instantané.
+Au niveau 10, une fois par jour quand un sort ou effet surnaturel soumis à la [[RM|résistance à la magie]] cible un allié de l'arcaniste de l'académie du Vieux-Mage ou s'ils sont dans la zone d'effet du sort, il peut rediriger les dégâts sur lui-même par une [[action immédiate]]. Il peut ainsi protéger un nombre d'alliés égal à son modificateur d'[[Intelligence]], tant qu'ils sont à 9 mètres ou moins de l'arcaniste de l'académie du Vieux-Mage. L'arcaniste doit tenter le [[jds|jet de sauvegarde]] approprié pour chaque allié protégé, et peut donc être amené à faire plusieurs jets de sauvegarde contre un unique sort ou effet. Il prend tous les dégâts et souffre de tous les états préjudiciables et autres effets que ses alliés auraient subis, et peut donc les subir plusieurs fois. Ceci ne protège les alliés que des dégâts et effets imposés lorsque l'arcaniste a dépensé son action immédiate, pas des effets ou dégâts dus à un effet non instantané. 
 
 {s:reference|ETERNELLEJEUNESSE}
 #### Éternelle jeunesse (Ext)

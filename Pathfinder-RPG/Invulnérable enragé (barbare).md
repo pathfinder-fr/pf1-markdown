@@ -10,7 +10,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:Menuarchétypebarbare}{s:APG}*Certains barbares apprennent à tirer parti des choses et effacent les blessures mortelles sans effort. Ils invitent leurs ennemis à les attaquer et utilisent la douleur pour alimenter leur rage.*
+{s:Menuarchétypebarbare}{s:APG}*Certains barbares apprennent à tirer parti des choses et effacent les blessures mortelles sans effort. Ils invitent leurs ennemis à les attaquer et utilisent la douleur pour alimenter leur rage.* 
 
 Un enragé invulnérable possède les aptitudes suivantes :
 

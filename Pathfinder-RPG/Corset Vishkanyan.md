@@ -8,7 +8,7 @@ LastModified: 2024-05-30 15:19
 {s:BDTitre|Corset vishkanyan|{s:AE}}
 **Aura** [[Présentation des sorts#TRANSMUTATION|Transmutation]] faible  ; **NLS** 3  ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 3.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce corset noir peut s’enfiler sous une armure. Par une [[action libre]], le porteur peut se comprimer pour se faufiler dans des espaces particulièrement étroits comme s’il était sous l’effet du sort *[[compression]]* pendant une durée maximale de 10 [[round|rounds]] par jour. Lorsque la magie du corset est activée, il gagne un bonus de +5 aux tests d’[[Évasion]].
+Ce corset noir peut s’enfiler sous une armure. Par une [[action libre]], le porteur peut se comprimer pour se faufiler dans des espaces particulièrement étroits comme s’il était sous l’effet du sort *[[compression]]* pendant une durée maximale de 10 [[round|rounds]] par jour. Lorsque la magie du corset est activée, il gagne un bonus de +5 aux tests d’[[Évasion]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[graisse]]*, *[[compression]]* ; **Coût** 1.500 po
 </div>

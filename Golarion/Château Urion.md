@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Château Urion est la première ville que la plupart des croisés se rendant au [[Mendev]] (et à partir de la dans la [[Plaie du Monde]]) visitent lorsqu'ils entrent en [[Numérie]].
+Château Urion est la première ville que la plupart des croisés se rendant au [[Mendev]] (et à partir de la dans la [[Plaie du Monde]]) visitent lorsqu'ils entrent en [[Numérie]]. 
 
 La ville est loin de ressembler au camp barbare auquel on pourrait s'attendre à voir dans ce pays. Si elle est techniquement sous le contrôle du Sombre Souverain, dirigeant de la [[Numérie]], elle est en réalité gouvernée par ses fondateurs, un ordre de chevaliers dévoués à [[Iomédae]]. Ces derniers ont construit Château Urion en vue de protéger et de guider les croisés remontant le [[Sellen]] depuis [[Cassomir]] au [[Taldor]] vers [[Chésed]].
 

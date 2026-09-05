@@ -30,7 +30,7 @@ doit correspondre à l’un de ses esprits errants. Cette aptitude modifie espri
 
 #### Esprit errant (Sur)
 Au niveau 2, le chaman non-assermenté acquiert l’aptitude de classe esprit errant. Au niveau 10, il gagne les pouvoirs indiqués dans la version supérieure de son esprit errant. Au niveau 18, il gagne les pouvoirs indiqués dans la version suprême de son esprit errant.
-De plus, au niveau 6, il acquiert également un deuxième esprit errant et gagne les pouvoirs indiqués dans la version supérieure de cet esprit au niveau 14, puis les pouvoirs indiqués dans sa version suprême au niveau 20. Cette aptitude modifie esprit errant et remplace maléfice errant.
+De plus, au niveau 6, il acquiert également un deuxième esprit errant et gagne les pouvoirs indiqués dans la version supérieure de cet esprit au niveau 14, puis les pouvoirs indiqués dans sa version suprême au niveau 20. Cette aptitude modifie esprit errant et remplace maléfice errant. 
 
 #### Magie des esprits (Mag)
 Le chaman non-assermenté acquiert cette aptitude au niveau 2 et non au niveau 1. Cette aptitude modifie magie des esprits.

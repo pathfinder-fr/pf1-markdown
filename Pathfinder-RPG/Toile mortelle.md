@@ -32,7 +32,7 @@ Categories:
 {s:BDTexte|**BBA** +8 ; **BMO** +17 ; **DMD** 29 (41 contre [[croc-en-jambe]])}
 {s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]],
 [[Frappe décisive]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]]}
-{s:BDTexte|**Compétences** [[Discrétion]] +16 , [[Escalade]] +16, [[Perception]] +15}
+{s:BDTexte|**Compétences** [[Discrétion]] +16 , [[Escalade]] +16, [[Perception]] +15} 
 {s:BDTexte|**Modificateurs raciaux** +4 en [[Discrétion]]}
 {s:BDTexte|**Particularités** [[Compression (capacité)|Compression]]}
 {s:BDSousTitre|Écologie}

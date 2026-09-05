@@ -7,9 +7,9 @@ Categories:
 - Géographie
 ---
 
-{s:Communauté|Bellis (ville)|[[Andoran]]|[[Forêt de Verduran]]|NB|Standard (gouvernement démocratique)|2 000 po|4 800 (grosse bourgade)|3,792 humains, 432 halfelins, 240 elfes, 144 nains, 93 gnomes, 45 demi-elfes, 42 demi-orques, 12 autres|• **Brigrim Tell**, maire (humain m, expert)
-• **Fayette Tount** (humaine f, prêtre d'[[Iomédae]])
-• **Telgara Raym**, patissière (humaine f, magicienne)
+{s:Communauté|Bellis (ville)|[[Andoran]]|[[Forêt de Verduran]]|NB|Standard (gouvernement démocratique)|2 000 po|4 800 (grosse bourgade)|3,792 humains, 432 halfelins, 240 elfes, 144 nains, 93 gnomes, 45 demi-elfes, 42 demi-orques, 12 autres|• **Brigrim Tell**, maire (humain m, expert)  
+• **Fayette Tount** (humaine f, prêtre d'[[Iomédae]])  
+• **Telgara Raym**, patissière (humaine f, magicienne)  
 • **Ulfas Blust**, magnat de l'industrie forestière (humain m, expert)}Bellis est une communauté isolée dans l'extrême nord-est de l'[[Andoran]] sur la rive du fleuve Sellen. Fondée comme une ville forestière, elle produit aujourd'hui des biens agricoles en plus d'exporter du bois.<sup>(1)</sup> Les bellisiens aiment à se faire appeler "forestiers" plutôt que "bûcherons". Les "bûcherons" étant vus comme des amateurs indisciplinés.<sup>(2)</sup>
 
 #### Géographie

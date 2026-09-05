@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +5 po ; **Poids** —
+{s:AE}**Prix** +5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Conçue et approuvée par un membre de la religion concernée, cette modification intègre un compartiment secret au [[Symbole sacré (objet)|symbole sacré]], afin d'y cacher une fiole de [[Potions magiques|potion]]. Il faut réussir un test de [[Perception]] [[DD]] 20 pour repérer le compartiment.

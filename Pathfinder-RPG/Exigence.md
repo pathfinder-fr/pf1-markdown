@@ -12,14 +12,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M/FD]] (mince fil de cuivre)
-**Portée** voir description
-**Cible** 1 créature
-**Durée** 1 [[round]] (voir texte)
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M/FD]] (mince fil de cuivre)  
+**Portée** voir description  
+**Cible** 1 créature  
+**Durée** 1 [[round]] (voir texte)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[communication à distance]]*, à ceci près que le message peut également contenir une *[[suggestion]]* (voir le sort de même nom) à laquelle le sujet obéit du mieux qu’il peut. Un jet de [[Volonté]] réussi annule la *[[suggestion]]*, mais pas le contact proprement dit. Si le sujet reçoit le message, il le comprend, même si son [[Intelligence]] n’est que de 1. Si le message envoyé correspond à une action impossible ou s’il n’a aucun sens étant donné les circonstances dans lesquelles le sujet se trouve lorsqu’il le reçoit, le sujet le comprend mais la *[[suggestion]]* n’a aucun effet.
 
 Le message transmis ne peut dépasser vingt-cinq mots, *[[suggestion]]* y compris. La créature peut également transmettre une courte réponse immédiatement après avoir reçu le message.
@@ -28,14 +28,14 @@ Le message transmis ne peut dépasser vingt-cinq mots, *[[suggestion]]* y compri
 
 (((
 ## Communication à distance
-**École** [[Évocation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M/FD]] (mince fil de cuivre)
-**Portée** voir texte
-**Cible** 1 créature
-**Durée** 1 [[round]] (voir texte)
+**École** [[Évocation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M/FD]] (mince fil de cuivre)  
+**Portée** voir texte  
+**Cible** 1 créature  
+**Durée** 1 [[round]] (voir texte)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Grâce à ce sort le personnage peut, à n’importe quelle distance, entrer en contact avec une créature qu’il connait pour lui envoyer un message n’excédant pas vingt-cinq mots. Le sujet reconnaît automatiquement le personnage s’il l’a déjà rencontré et peut répondre immédiatement au message transmis. Les créatures ayant une [[Intelligence]] extrêmement limitée ([[Intelligence|Int]] 1) sont à même de comprendre le message, même si leurs capacités de réaction sont nécessairement réduites. Il n’est pas obligatoire pour le sujet de répondre au message envoyé.
 
 Si le destinataire ne se trouve pas dans le même [[plans|plan]] que l’expéditeur, il y a 5 % de chances pour que le message n’arrive pas jusqu’à lui (dans certains cas, les conditions en vigueur dans certains [[plans]] peuvent augmenter ce risque de façon considérable).

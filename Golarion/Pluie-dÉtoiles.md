@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Pluie d'Etoiles est une ville aussi brutale que la terre de [[Numérie]] dont elle est la capitale. Cette cité est une parodie des capitales du sud avec un niveau de décadence telle que celle du [[Taldor]] passerait pour être bien pâle. Cette déliquescence est entourée par les relents nauséabonds de la misère humaine.
+Pluie d'Etoiles est une ville aussi brutale que la terre de [[Numérie]] dont elle est la capitale. Cette cité est une parodie des capitales du sud avec un niveau de décadence telle que celle du [[Taldor]] passerait pour être bien pâle. Cette déliquescence est entourée par les relents nauséabonds de la misère humaine. 
 
 Le Sombre Souverain dirige sans opposition, le moindre de ses caprices étant assouvi, alors que le reste de la ville souffre sous ses lois dures et injustes. Les seuls personnes qui en tirent des bénéfices sont ceux qui assistent la cour du Sombre Souverain dans sa décadence charnelle.
 

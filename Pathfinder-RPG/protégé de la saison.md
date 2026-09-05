@@ -14,7 +14,7 @@ Categories:
 ---
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}
-**École** [[Abjuration]] ;
+**École** [[Abjuration]] ; 
 **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Prêtre|Prê]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

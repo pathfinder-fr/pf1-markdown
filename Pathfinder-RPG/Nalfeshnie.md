@@ -53,7 +53,7 @@ nombreux nalfeshnies semblent servir directement les Abysses
 plutôt qu’un seigneur démon. Certains s’érigent en régents de
 royaumes à l’apparence charnue où naissent les nouveaux démons et
 d’autres protègent certains sites particulièrement importants situés
-dans les recoins secrets les plus lointains des Abysses.
+dans les recoins secrets les plus lointains des Abysses. 
 
 Les empires
 des nalfeshnies dépassent souvent en puissance et en taille les plus

@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Environnement** milieu aquatique à climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double}
-{s:BDSousTitre|Capacités spéciales}
+{s:BDSousTitre|Capacités spéciales} 
 {s:BDTexte|**Retournement de navires (Ext).** Un dragon-tortue peut tenter de faire sombrer un bateau ou un navire en effectuant une [[charge]] et en allant buter contre lui. Il doit effectuer un test de [[manœuvre de combat]] contre un [[DD]] égal à 25 ou au résultat d'un test de [[Profession]] (marin) réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que le dragon-tortue, le test de ce dernier subit un malus cumulatif de -10 par catégorie de taille de différence.}
 {s:BDTexte|**Souffle (Sur).** Nuage de vapeur de 6 m (4 {s:c}) de hauteur, 7,50 m (5 {s:c}) de largeur et 15 m (10 {s:c}) de longueur, une fois tous les 1d4 rounds, 12d6 points de dégâts de feu, [[Réflexes]] [[DD]] 20 pour diviser les dégâts par deux. Ce souffle est efficace à la fois sur la surface et dans l'eau. Le [[DD]] dépend de la [[Constitution]].}
 </div>
@@ -47,7 +47,7 @@ dans les eaux salées comme dans
 les eaux douces, sont l’un des plus
 grands dangers qui menacent les marins et ceux qui sillonnent les fleuves du monde. Les navigateurs
 les plus doués connaissent bien les territoires dont les dragons-tortues
-se sont emparés.
+se sont emparés. 
 
 Ils leur présentent régulièrement des
 offrandes d’or ou d’objets magiques pour garantir des voyages
@@ -71,7 +71,7 @@ emmènent les épaves et leur précieux cargo dans leur repaire. Les
 dragons-tortues élisent généralement domicile dans des grottes
 profondes accessibles seulement par la mer et décorent leur repaire
 non seulement avec les richesses extraites des vaisseaux qu’ils ont
-coulés mais également avec leurs épaves.
+coulés mais également avec leurs épaves. 
 
 Leur propension naturelle
 à défendre férocement leur territoire et leur attrait pour ce genre de

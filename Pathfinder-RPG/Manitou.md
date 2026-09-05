@@ -54,7 +54,7 @@ LastModified: 2017-03-18 20:17
 *Une présence invisible suggère la silhouette d’une personne de la taille d’un géant, entourée de sons subtils et rythmés émis par le monde naturel.*
 
 
-Un manitou est un esprit de la nature puissant et bienveillant qui protège des contrées entières du danger, soigne les blessés et les malades et préserve l’équilibre entre toutes les créatures.
+Un manitou est un esprit de la nature puissant et bienveillant qui protège des contrées entières du danger, soigne les blessés et les malades et préserve l’équilibre entre toutes les créatures. 
 
-Lorsqu’il n’est pas invisible, le manitou ressemble à un humanoïde musclé aux cheveux longs et à la peau en écorce et en quartz rose. Il mesure 6 mètres de haut et pèse plus de 2,5 tonnes.
+Lorsqu’il n’est pas invisible, le manitou ressemble à un humanoïde musclé aux cheveux longs et à la peau en écorce et en quartz rose. Il mesure 6 mètres de haut et pèse plus de 2,5 tonnes. 
 </div></td></tr></table>

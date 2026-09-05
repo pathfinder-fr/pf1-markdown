@@ -8,12 +8,12 @@ Categories:
 - Sort prêtre 4
 ---
 
-{s:MCA}**École** [[Transmutation]] <nowiki>[[</nowiki>voir description<nowiki>]]</nowiki> ; **Niveau** [[prêtre|Prê]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** [[portée|contact]]
-**Cible** arme de corps à corps touchée (voir description)
-**Durée** 1 minute/[[niveau]]
+{s:MCA}**École** [[Transmutation]] <nowiki>[[</nowiki>voir description<nowiki>]]</nowiki> ; **Niveau** [[prêtre|Prê]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** [[portée|contact]]  
+**Cible** arme de corps à corps touchée (voir description)  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]] '[[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; **Résistance à la magie** oui
 
 Le personnage confère à l’arme ciblée l’une des propriétés spéciales d’arme suivantes : *[[anarchique (propriété)|anarchique]]*, *[[axiomatique (propriété)|axiomatique]]*, *[[sainte (propriété)|sainte]]* ou *[[impie (propriété)|impie]]*. S’il choisit anarchique, ce sort acquiert le registre Chaos, le registre Loi pour axiomatique, le registre Bien pour sainte et le registre Mal pour impie. Si le lanceur du sort tente de conférer une propriété spéciale à une arme qui la possède déjà, le sort échoue.

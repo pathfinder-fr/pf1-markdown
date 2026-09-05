@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[For]] 15, [[Science du combat à mains nues]], [[École du dragon]], [[Coup étourdissant]], 8 rangs en [[Acrobaties]]
+**Conditions.** [[For]] 15, [[Science du combat à mains nues]], [[École du dragon]], [[Coup étourdissant]], 8 rangs en [[Acrobaties]] 
 
 **Avantage.** Le personnage a droit à un [[Coup étourdissant]] de plus par jour. Quand il utilise l’[[École du dragon]], il peut, par une [[action simple]], dépenser deux tentatives de [[Coup étourdissant]] pour pousser un rugissement tonitruant dans un [[cône]] de 4,50 m (3 {s:c}). Les créatures situées dans le cône subissent les dégâts de l’attaque à mains nues du personnage et sont [[secoué|secouées]] pendant 1d4 rounds. Jet de [[Volonté]], ([[DD]] 10 + 1/2 niveau de personnage + modificateur de [[Sagesse]]) 1/2 dégâts et pas [[secoué]].
 

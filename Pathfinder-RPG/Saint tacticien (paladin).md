@@ -27,5 +27,5 @@ Au niveau 8, le paladin peut, par une [[action de mouvement]], diriger ses alli�
 Au niveau 11, le tacticien peut dépenser deux utilisations de champion des opprimés pour améliorer ses effets. Ce pouvoir fonctionne comme champion des opprimés mais le bonus persiste jusqu’à ce que toutes les créatures frappées par le paladin succombent, que le pouvoir expire ou que le [[paladin]] se fasse [[mort|tuer]] ou tombe [[inconscient]], selon ce qui se produit en premier. Ce pouvoir remplace [[paladin#AURADEJUSTICE|aura de justice]].
 
 #### Présence indéniable (Sur)
-Au niveau 20, le saint tacticien peut accorder un don différent aux alliés qu’affecte présence sur le champ de bataille. De plus, ses alliés et lui-même confirment automatiquement un [[coup critique]] contre une créature victime du pouvoir champion des opprimés (pas besoin de faire de jet pour confirmer). Ce pouvoir remplace
+Au niveau 20, le saint tacticien peut accorder un don différent aux alliés qu’affecte présence sur le champ de bataille. De plus, ses alliés et lui-même confirment automatiquement un [[coup critique]] contre une créature victime du pouvoir champion des opprimés (pas besoin de faire de jet pour confirmer). Ce pouvoir remplace 
 [[paladin#CHAMPIONSACRE|champion sacré]].

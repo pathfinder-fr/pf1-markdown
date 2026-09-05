@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bâton animé|}
 **Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 49 800 po ; **Poids** 2,5 kg
 (((Description)))
-Créé à partir d’un certain nombre de sceptres en fer, d’engrenages en cuivre et de vis en argent, ce bâton change et se transforme sans cesse. Il permet d’utiliser les sorts suivants.
-• *[[Réparation intégrale]]* (1 charge)
-• *[[Réparation]]* (1 charge)
+Créé à partir d’un certain nombre de sceptres en fer, d’engrenages en cuivre et de vis en argent, ce bâton change et se transforme sans cesse. Il permet d’utiliser les sorts suivants.  
+• *[[Réparation intégrale]]* (1 charge)  
+• *[[Réparation]]* (1 charge)  
 • *[[Animation dobjets|Animation d'objets]]* (2 charges)
 
 En outre, une fois par jour, le bâton peut se transformer en objet animé de taille *M* (Bestiaire, p. 229) avec le pouvoir spécial de métal. Il peut conserver cette forme pendant 10 minutes. S’il est détruit sous cette forme, il se retransforme en bâton mais perd toutes ses charges et cette capacité ne peut plus être utilisée tant qu’il n’a pas été complètement rechargé.

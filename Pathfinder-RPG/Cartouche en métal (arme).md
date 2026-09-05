@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** —
+{s:AE}**Prix** 15 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABMUNITIONS|Munitions d'arme à feu]]</span>
----
+<hr />
 Ces variantes plus solides des [[Cartouche alchimique (arme)|cartouches alchimiques]] servent de munition aux [[Armes à feu#CATEGORIE|armes à feu évoluées]]. Elles peuvent contenir des [[Balle darme à feu (arme)|balles]] ou des [[Plombs (arme)|plombs]].

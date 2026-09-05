@@ -51,7 +51,7 @@ Une bannière de Chevaliers Infernaux est un étendard tissé d'un rouge sombre,
 
 Une bannière de Chevaliers Infernaux peut être tenue (à pied ou montée) ou plantée à même le sol. Dans ce dernier cas, elle n'a nul besoin d'un porteur pour être efficace, mais si elle est renversée par un ennemi, elle devient obsolète jusqu'à ce qu'elle soit récupérée et redéployée par un allié.
 
-**Ordre des Chaînes.** Une main enveloppée de chaînes orne le centre de l'étoile. Les alliés possédant la capacité de classe ennemis jurés peuvent utiliser leur plus avantageux bonus d'attaque contre des adversaires humanoïdes tant qu'ils restent à moins de 9 mètres de la bannière. S'ils possèdent déjà l'humanoïde (humain) comme ennemis jurés, le bonus d'attaque normal est augmenté de +2.
+**Ordre des Chaînes.** Une main enveloppée de chaînes orne le centre de l'étoile. Les alliés possédant la capacité de classe ennemis jurés peuvent utiliser leur plus avantageux bonus d'attaque contre des adversaires humanoïdes tant qu'ils restent à moins de 9 mètres de la bannière. S'ils possèdent déjà l'humanoïde (humain) comme ennemis jurés, le bonus d'attaque normal est augmenté de +2. 
 
 **Ordre du Dieu griffu.** Cette bannière affiche fièrement le symbole de l'ordre, une étoile de fer à cinq branches en son centre. Les armes de mêlée sans alignement utilisées par les alliés à moins de 9 mètres de la bannière sont considérées comme ayant un alignement loyal afin d'ignorer la réduction de dégâts de l'adversaire. Une fois par jour et par allié, contre une créature chaotique, ces armes confirment automatiquement un coup critique.
 

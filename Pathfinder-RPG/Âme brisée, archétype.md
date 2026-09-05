@@ -10,7 +10,7 @@ Categories:
 <div class="BD">
 {s:BDTitre|Création d'une âme brisée|FP +2}
 
-« Âme brisée » est un archétype acquis que l’on peut ajouter à n’importe quelle créature vivante dotée d’une Intelligence de 3 ou plus (que l’on nommera par la suite créature de base). L’âme brisée utilise le profil et les pouvoirs spéciaux de la créature de base, à l’exception des indications suivantes.
+« Âme brisée » est un archétype acquis que l’on peut ajouter à n’importe quelle créature vivante dotée d’une Intelligence de 3 ou plus (que l’on nommera par la suite créature de base). L’âme brisée utilise le profil et les pouvoirs spéciaux de la créature de base, à l’exception des indications suivantes. 
 
 - **FP.** Celui de la créature de base +2.
 - **Alignement.** Généralement Chaotique Mauvais.

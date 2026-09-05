@@ -11,7 +11,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Sleipnir|FP 11}
-{s:pucem|Créature magique|Montagnes|Froid}
+{s:pucem|Créature magique|Montagnes|Froid} 
 {s:BDTexte|*Source : Bestiaire 3 p.248*}
 {s:BDTexte|**PX** 12 800}
 {s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}

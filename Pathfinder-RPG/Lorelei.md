@@ -47,11 +47,11 @@ Cette étrange créature ressemble à une gigantesque tête humaine sculptée da
 
 La lorelei ressemble à une énorme anémone de mer rocheuse dont la majeure partie du corps a la forme d’un visage humain.
 
-Surtout connues pour leur complainte magique qui charme les marins, ces créatures rôdent près des récifs affleurant à peine de la surface des eaux rageuses des mers ou des fleuves et se tiennent prêtes à enchanter les humanoïdes pour les tuer. Également appelée « pierre qui murmure » à cause de son aspect naturel rocheux qui lui permet de se camoufler, la lorelei est  une créature solitaire qui rejette tout contact pacifique avec les êtres vivants. Elle niche à l’ombre des falaises côtières et dans les fosses océaniques, ne remontant que pour tourmenter les vivants.
+Surtout connues pour leur complainte magique qui charme les marins, ces créatures rôdent près des récifs affleurant à peine de la surface des eaux rageuses des mers ou des fleuves et se tiennent prêtes à enchanter les humanoïdes pour les tuer. Également appelée « pierre qui murmure » à cause de son aspect naturel rocheux qui lui permet de se camoufler, la lorelei est  une créature solitaire qui rejette tout contact pacifique avec les êtres vivants. Elle niche à l’ombre des falaises côtières et dans les fosses océaniques, ne remontant que pour tourmenter les vivants. 
 
 Lorsqu’elle n’est pas en train de préparer un nouveau complot alambiqué, la lorelei  adore pousser les navires à se fracasser
 contre les rochers et charmer les marins pour qu’ils la rejoignent sous les eaux et se noient.
-Certains érudits affirment que ces créatures formaient autrefois une ethnie de fées magnifique qui ont été corrompues par des forces malveillantes. Cette affirmation est soutenue par le fait qu’elles se comportent comme les néréides, les nixes et les sirènes.
+Certains érudits affirment que ces créatures formaient autrefois une ethnie de fées magnifique qui ont été corrompues par des forces malveillantes. Cette affirmation est soutenue par le fait qu’elles se comportent comme les néréides, les nixes et les sirènes. 
 La lorelei mesure 2,70 mètres de haut, sans prendre en compte la masse de tentacules de la partie supérieure de son corps.
 Elle pèse 1 tonne environ.
 </div></td></tr></table>

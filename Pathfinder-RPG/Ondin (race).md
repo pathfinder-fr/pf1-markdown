@@ -24,7 +24,7 @@ Les ondins s’entendent très bien avec les elfes et les gnomes. Ces races part
 
 **Aventuriers.** Il arrive, à l’occasion, qu’un ondin quitte son peuple pour vivre une vie d’aventurier. À l’image de l’eau, certains se sentent simplement obligés de bouger, et l’aventure est une excuse toute trouvée pour vivre sur les routes. D’autres partent à l’aventure pour des raisons moins innocentes, et l’exil est un châtiment courant pour les crimes dans la société ondine. N’ayant guère d’autre choix, la plupart des exilés se tournent vers l’aventure dans l’espoir de trouver une nouvelle place dans le monde. Du fait de leur affinité avec l’eau, les ondins font de bons druides, tandis que les ensorceleurs ondins ont généralement un lignage aquatique.
 
-**Noms masculins.** Aven, Dharak, Ghiv, Jamash, Maakor, Ondir, Radid, Shiradahz.
+**Noms masculins.** Aven, Dharak, Ghiv, Jamash, Maakor, Ondir, Radid, Shiradahz.  
 **Noms féminins.** Afzara, Baarah, Calah, Iryani, Maarin, Nylgune, Pari, Radabeh, Urdahna.
 
 {s:Reference|TRAITSSTANDARDS}

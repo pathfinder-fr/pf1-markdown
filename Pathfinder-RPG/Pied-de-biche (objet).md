@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 2,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 2,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cet outil polyvalent sert à ouvrir tout ce qui résiste à son propriétaire. Un pied-de biche accorde un bonus de circonstances de +2 aux tests de [[Force]] pour forcer une porte ou un coffre. En combat, traitez-le comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gourdin (arme)|gourdin]] de même taille.

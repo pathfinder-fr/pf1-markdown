@@ -14,7 +14,7 @@ Categories:
 {s:BDTitre|Bouclier de festin sanglant|{s:CM}}
 **Aura** [[Nécromancie]] puissante ; **NLS** 12 ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 18 770 po ; **Poids** 7,5 kg
 (((Description)))
-Trois crânes écorchés se détachent de la façade de cet *[[écu (armure)|écu en acier]] +2*. Trois fois par jour, par une [[action libre]], le porteur du bouclier peut ordonner aux têtes d’attaquer indépendamment d'elles-même. Elles mordent alors avec le [[BBA|bonus de base à l’attaque]] du porteur (effectuant plusieurs attaques si le porteur a un bonus suffisamment élevé). Cette attaque se rajoute à toutes les actions effectuées par le porteur et inflige 1d6 points de dégâts plus un affaiblissement temporaire de 1 point de [[Constitution]].
+Trois crânes écorchés se détachent de la façade de cet *[[écu (armure)|écu en acier]] +2*. Trois fois par jour, par une [[action libre]], le porteur du bouclier peut ordonner aux têtes d’attaquer indépendamment d'elles-même. Elles mordent alors avec le [[BBA|bonus de base à l’attaque]] du porteur (effectuant plusieurs attaques si le porteur a un bonus suffisamment élevé). Cette attaque se rajoute à toutes les actions effectuées par le porteur et inflige 1d6 points de dégâts plus un affaiblissement temporaire de 1 point de [[Constitution]].  
 Quand il utilise le pouvoir du *bouclier de festin sanglant* et si c’est un [[vampire]] (ou s’il regagne ses points de vie de manière similaire grâce à une absorption de sang), le porteur se soigne également de 5 points de vie ou gagne 5 points de vie temporaires pendant une heure.
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[baiser du vampire]]*  ; **Coût** 9 545 po

@@ -199,7 +199,7 @@ Peut-être est-ce dû à leur tête trop large ? Certainement plus à cause de l
 
 {s:CM}{s:Reference|Griffes de troll barbelées}
 #### Griffes de troll barbelées
-**Cette option est plus courante chez les [[Troll|trolls]].**
+**Cette option est plus courante chez les [[Troll|trolls]].**  
 Ces gaines en métal se glissent sur les griffes des trolls. Quand un troll touche une créature avec une attaque de griffe alors qu’il porte ces gaines, il peut décider de garder les gaines sur ses pattes (auquel cas ses griffes infligent 1 point de dégâts supplémentaire) ou de les laisser glisser toutes les quatre pour qu’elles s’incrustent dans la blessure de la cible (auquel cas son attaque de griffe inflige 1 point de dégâts de [[saignement]]). Le prix est indiqué pour huit gaines (une pour chaque griffe des deux pattes du troll).
 
 {s:Reference|Grimoire}
@@ -233,7 +233,7 @@ Ces babioles, bouts de tissu ou reliques possèdent un certain intérêt histori
 
 {s:Reference|Instruments de chirurgien}
 #### Instruments de chirurgien
-Lorsqu’ils sont utilisés en conjonction avec une trousse de premiers secours, les instruments de chirurgien montent le bonus de circonstances de la trousse à +3 pour les tests de [[Premiers secours]] faits pour traiter les blessures et les blessures mortelles.
+Lorsqu’ils sont utilisés en conjonction avec une trousse de premiers secours, les instruments de chirurgien montent le bonus de circonstances de la trousse à +3 pour les tests de [[Premiers secours]] faits pour traiter les blessures et les blessures mortelles. 
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}{s:Reference|Kit de déguisement orque}
 #### Kit de déguisement orque
@@ -281,7 +281,7 @@ Sur cette fine planche de bois rectangulaire sont imprimés en arc de cercle les
 #### Outil de maître
 Il s’agit de l’outil parfait pour la tâche prévue. Il donne un bonus de circonstances de +2 au test de compétence associé (s’il y en a une). Les bonus accordés par plusieurs outils de maître ne se cumulent pas. Plusieurs objets ordinaires comptent déjà comme des outils de maître pour certaines compétences particulières. On compte le [[Trousses doutils et de compétences#Labo d'alchimiste|labo d’alchimiste]], le [[Trousses doutils et de compétences#Matériel d'escalade|matériel d’escalade]], la [[Trousses doutils et de compétences#Trousse de déguisement|trousse de déguisement]], la [[Trousses doutils et de compétences#Trousse de premiers secours|trousse de premiers secours]], les [[Trousses doutils et de compétences#Instrument de musique|instruments de musique de maître]] et les [[Trousses doutils et de compétences#Outils de cambrioleur|outils de cambrioleur de qualité supérieure]]. Il n’existe donc pas de matériel d’escalade de maître, de trousse de premiers secours de maître, etc. : ces objets représentent déjà le meilleur équipement pour les tests généraux de la compétence appropriée.
 
-Certaines compétences n’ont pas d’outils spécifiques ou d’outils de maître : il n’existe aucun objet non-magique qui accorde un bonus à la compétence en question. Par exemple, ce n’est pas parce qu’un parfum est apprécié par les nobles d’une région (accordant un bonus de circonstances de +2 aux tests de [[Diplomatie]] faits pour les influencer) que ce parfum aura le même effet sur un membre de la guilde des voleurs, un berserker étranger ou une méduse. De la même manière, ce n’est pas parce qu’une fausse barbe peut accorder un bonus de circonstances de +2 aux tests d’[[utilisation dobjets magiques|Utilisation d'objets magiques]] pour imiter un nain que cette barbe aura un quelconque effet sur l’utilisation de cette compétence pour activer des objets elfiques ou de paladins, ni pour déchiffrer un sort écrit.
+Certaines compétences n’ont pas d’outils spécifiques ou d’outils de maître : il n’existe aucun objet non-magique qui accorde un bonus à la compétence en question. Par exemple, ce n’est pas parce qu’un parfum est apprécié par les nobles d’une région (accordant un bonus de circonstances de +2 aux tests de [[Diplomatie]] faits pour les influencer) que ce parfum aura le même effet sur un membre de la guilde des voleurs, un berserker étranger ou une méduse. De la même manière, ce n’est pas parce qu’une fausse barbe peut accorder un bonus de circonstances de +2 aux tests d’[[utilisation dobjets magiques|Utilisation d'objets magiques]] pour imiter un nain que cette barbe aura un quelconque effet sur l’utilisation de cette compétence pour activer des objets elfiques ou de paladins, ni pour déchiffrer un sort écrit. 
 Il se peut que certains MJ autorisent les outils de maître pour d’autres compétences, au prix indiqué. Le bonus de circonstance accordé par un tel outil ne devrait jamais être supérieur à +2. L’outil devrait être limité à un certain nombre d’utilisations (comme les [[Trousses doutils et de compétences#Trousse de premiers secours|trousses de premiers secours]] et [[Trousses doutils et de compétences#Trousse de déguisement|de déguisement]]) ou ne s’appliquer qu’à certains aspects de la compétence (comme le bonus du [[Trousses doutils et de compétences#Balancier|balancier]] aux tests d’[[Acrobaties]] pour traverser une surface étroite ou le bonus de la [[Équipement daventurier#Loupe|loupe]] aux tests d’[[Estimation]] pour les objets détaillés).
 
 {s:Reference|Outils d'artisan}

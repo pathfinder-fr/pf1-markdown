@@ -12,26 +12,26 @@ Categories:
 {s:BDTitre|Armure de crânes|{s:AE}}
 **Aura** [[Transmutation]] et [[Abjuration]] puissantes ; **NLS** 20 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 15 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10
-**Langues** empathie
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10  
+**Langues** empathie  
 **Pouvoirs** 3/jour — *[[terreur]]* ([[DD]] 16), *[[liberté de mouvement]]*, *[[protection contre les énergies destructives]]*, *[[cri]]* ([[DD]] 16)
 (((Description)))
 Sculptée dans le crâne de Kazavon, l’*armure de crânes* est une [[cuirasse (armure)|cuirasse]] de [[résistance suprême aux énergies destructives (propriété)|résistance suprême à l’électricité]] +4 intelligente qui accorde au porteur un bonus d’altération de +4 en Force et en [[Constitution]].
 
 Une fois par jour, le porteur peut lancer un éclair ou une explosion électrique. L’éclair est une ligne d’électricité de 36 mètres infligeant 24d8 points de dégâts d’électricité ([[Réflexes]] [[DD]] 37, 1/2 dégâts). L’explosion inflige 6d8 points de dégâts d’électricité à toutes les créatures situées dans un rayon de 9 mètres ([[Réflexes]] [[DD]] 37, 1/2 dégâts).
 (((Destruction)))
-Un être n’ayant jamais tué la moindre créature doit lier l’*armure de crânes* avec des chaînes en or (d’une valeur de 1 000 000 po) puis briser lentement l’armure en raccourcissant la chaîne d’un maillon par jour sur une période de 1 000 jours.
+Un être n’ayant jamais tué la moindre créature doit lier l’*armure de crânes* avec des chaînes en or (d’une valeur de 1 000 000 po) puis briser lentement l’armure en raccourcissant la chaîne d’un maillon par jour sur une période de 1 000 jours. 
 </div>
 
 <div class="BD">
 {s:BDTitre|Lame enchaînée|{s:AE}}
 **Aura** [[Nécromancie]] puissante ; **NLS** 20 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 3 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10
-**Langues** empathie
-**Pouvoirs** Constant — *[[perception de la mort]]*
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10  
+**Langues** empathie  
+**Pouvoirs** Constant — *[[perception de la mort]]*  
 : 3/jour — *[[ténèbres profondes]]*, *[[rage]]*, *[[lenteur]]* ([[DD]] 14)
 (((Description)))
 La *lame enchaînée* est une *[[épée bâtarde (arme)|épée bâtarde]] [[impie (propriété)|impie]] +3 en [[adamantium]]*, forgée dans les griffes de Kazavon. Pour les disciples du dieu de la civilisation, la *lame enchaînée* est une hérésie incarnée. L’épée accorde au porteur un bonus d’altération de +6 en [[Force]]. Par une [[action libre]], lorsqu’il utilise l’épée pour réduire une créature douée de conscience à 0 point de vie ou moins, il peut lancer *[[capture dâme|capture d’âme]]*, forçant la victime à réussir un jet de [[Volonté]] [[DD]] 25. En cas d’échec son âme est emprisonnée dans l’épée. La *lame enchaînée* dégage alors une aura ayant les effets du sort de *[[profanation]]* dans un rayon de 15 mètres. Cette aura dure un nombre de jours égal au nombre de dés de vie que possédait la créature tuée. Passé ce délai, l’âme contenue dans l’épée est détruite et ne peut être restaurée en aucune façon, hormis par une intervention divine. Le porteur de l’épée peut libérer une âme emprisonnée en utilisant le pouvoir de *[[capture dâme|capture d’âme]]* de l’épée sur une autre créature.
@@ -43,23 +43,23 @@ La *lame enchaînée* se brise si un paladin du dieu de la civilisation la manie
 {s:BDTitre|Couronne de crocs|{s:AE}}
 **Aura** [[Enchantement]], [[Illusion]], [[Nécromancie]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 2 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10
-**Langues** empathie
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10  
+**Langues** empathie  
 **Pouvoirs** 3/jour — *[[modification dapparence|modification d’apparence]]*, *[[domination]]* ([[DD]] 17), *[[image accomplie]] ([[DD]] 17), *[[image miroir]], *[[double illusoire]]* ([[DD]] 19)
 (((Description)))
 Les dents de Kazavon ont été enchâssées dans un bandeau en or pour former la *couronne de crocs*. La couronne accorde au porteur un bonus d’altération de +6 en [[Constitution]] et en [[Charisme]] ainsi qu’une [[régénération (capacité)|régénération]] 20. Seuls la [[Sérithtial|Tueuse du Dragon]], une [[épée de justice]] ou le pouvoir de [[paladin#CHATIMENTDUMAL|châtiment du Mal]] d’un [[paladin]] peuvent infliger des dégâts létaux au porteur. En outre, le porteur bénéficie des avantages personnels du sort de *[[prémonition]]*.
 (((Destruction)))
-La *couronne de crocs* est détruite si elle est frappée par une épée *[[sainte (propriété)|sainte]]* forgée par un dieu qui était autrefois mortel.
+La *couronne de crocs* est détruite si elle est frappée par une épée *[[sainte (propriété)|sainte]]* forgée par un dieu qui était autrefois mortel. 
 </div>
 
 <div class="BD">
 {s:BDTitre|Cornes hurlantes|{s:AE}}
 **Aura** [[Évocation]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 6 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10
-**Langues** empathie
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 12 ; **Ego** 10  
+**Langues** empathie  
 **Pouvoirs** 3/jour — *[[cercle de mort]]* ([[DD]] 19), *[[champ de force]]* ([[DD]] 19), *[[vagues dépuisement|vagues d’épuisement]]*
 (((Description)))
 Sculptée dans les cornes de Kazavon pour former un instrument de musique mortel, les *cornes hurlantes* accordent au porteur un bonus d’altération de +4 en [[Dextérité]] et en [[Charisme]]. Celui qui fait sonner les *cornes hurlantes* force toutes les créatures non Mauvaises dans un rayon de 12 mètres à réussir un jet de [[Vigueur]] [[DD]] 25 pour ne pas être [[assourdi|assourdies]] pendant 2d6 [[round|rounds]]. Un personnage qui réussit un test de [[Représentation]] (instruments à vent) [[DD]] 20 alors qu’il utilise les cornes libère le rugissement du dragon, un souffle qui affecte les créatures situées dans un cône de 12 mètres, leur infligeant 20d6 points de dégâts soniques et les [[assourdi|assourdissant]] pendant 4d6 [[round|rounds]] (un jet de [[Vigueur]] [[DD]] 25 pour réduire les dégâts de moitié et annuler l’assourdissement).
@@ -74,9 +74,9 @@ Un personnage doit utiliser les *cornes hurlantes* pour réussir un test de [[Re
 {s:BDTitre|Lambeaux de peau|{s:AE}}
 **Aura** [[école divination|Divination]] et [[Illusion]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 10 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10
-**Langues** empathie
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10  
+**Langues** empathie  
 **Pouvoirs** 3/jour — *[[ténèbres profondes]]*, *[[traversée des ombres]]* ([[DD]] 19), *[[symbole de douleur]]* ([[DD]] 17)
 (((Description)))
 Les côtes brisées de Kazavon ont été cousues pour former un manteau de fragments d’os que l’on appelle les *Lambeaux de peau*. Ce manteau accorde au porteur un bonus d’altération de +6 en [[Sagesse]], un bonus de résistance de +5 à tous les [[jds|jets de sauvegarde]] et la capacité de se cacher en pleine lumière comme le pouvoir de classe du [[Maître des ombres#DISCRETIONTOTALE|maître des ombres]]. Le porteur peut communiquer avec toutes les ombres d’une manière similaire à ce que permet le sort de *[[pierres commères]]*. Les ombres révèlent volontairement au porteur les dangers qu’elles dissimulent et quelles créatures sont entrées en contact avec elles au cours des dernières 24 heures. Elles ne peuvent lui donner d’informations que sur les créatures qu’elles ont englouties. Généralement, les créatures portant une source de lumière n’entrent pas en contact avec les ombres mais celles-ci peuvent rapporter le moment où elles ont été dérangées par leur lumière.
@@ -88,32 +88,32 @@ Il faut emmener les *Lambeaux de peau* sur le Plan de l’énergie positive ou s
 {s:BDTitre|Bâton du vaincu|{s:AE}}
 **Aura** [[Évocation]] puissante ; **NLS** 20 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 3 kg
 (((Caractéristiques)))
-**Alignement** NB (Mage), LM (Kazavon) ; **Sens** 9 m
-**Intelligence** 12 ; **Sagesse** 10 ; **Charisme** 10 ; **Ego** 10
-**Langues** empathie
-**Pouvoirs** À volonté — *[[détection de la magie]]*, *[[ventriloquie]]* ([[DD]] 11)
-: 3/jour — *[[création deau|création d’eau]]*, *[[porte dimensionnelle]]* (pendant le jour), *[[éclair]]* (pendant la nuit ; [[DD]] 14), *[[image accomplie]]* ([[DD]] 14), *[[voile]]* ([[DD]] 19)
+**Alignement** NB (Mage), LM (Kazavon) ; **Sens** 9 m  
+**Intelligence** 12 ; **Sagesse** 10 ; **Charisme** 10 ; **Ego** 10  
+**Langues** empathie  
+**Pouvoirs** À volonté — *[[détection de la magie]]*, *[[ventriloquie]]* ([[DD]] 11)  
+: 3/jour — *[[création deau|création d’eau]]*, *[[porte dimensionnelle]]* (pendant le jour), *[[éclair]]* (pendant la nuit ; [[DD]] 14), *[[image accomplie]]* ([[DD]] 14), *[[voile]]* ([[DD]] 19)  
 : 1/jour — *[[terrain hallucinatoire]]* ([[DD]] 16), *[[mirage]]* ([[DD]] 17)
 (((Description)))
 Taillé dans les os de la queue de Kazavon, le *bâton du vaincu* est un *[[bâton (arme)|bâton]] de [[foudre (propriété)|foudre]] à [[stockage de sort (propriété)|stockage de sort]] +5* qui accorde au porteur un bonus d’altération de +4 en [[Intelligence]]. En outre, le bâton permet au porteur de changer le type d’énergie de tous les sorts d’énergie qu’il lance et de les transformer en électricité (il peut, par exemple, décider qu’une *[[boule de feu]]* inflige des dégâts d’électricité). Le bâton renferme deux personnalités : un magicien Neutre Bon (qui domine pendant le jour) et le dragon (qui domine pendant la nuit). Certains des pouvoirs du bâton changent en fonction de l’heure de la journée et de la personnalité qui le contrôle.
 (((Destruction)))
-Les deux personnalités prisonnières l’ignorent mais, pour détruire le bâton, il faut le plonger dans une mare de larmes de dragon d’argent pendant 4 heures.
+Les deux personnalités prisonnières l’ignorent mais, pour détruire le bâton, il faut le plonger dans une mare de larmes de dragon d’argent pendant 4 heures. 
 </div>
 
 <div class="BD">
 {s:BDTitre|Trône de Nalt|{s:AE}}
 **Aura** [[Enchantement]] et [[école divination|Divination]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1737,5 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 9 m
-**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10
-**Langues** empathie
-**Pouvoirs** À volonté — *[[détection du Mal]]*, *[[détection du Bien]]*, *[[détection du mensonge]]* ([[DD]] 16)
-: 3/jour — *[[renvoi]]* ([[DD]] 17), *[[injonction suprême]]* ([[DD]] 17)
+**Alignement** LM ; **Sens** 9 m  
+**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 10 ; **Ego** 10  
+**Langues** empathie  
+**Pouvoirs** À volonté — *[[détection du Mal]]*, *[[détection du Bien]]*, *[[détection du mensonge]]* ([[DD]] 16)  
+: 3/jour — *[[renvoi]]* ([[DD]] 17), *[[injonction suprême]]* ([[DD]] 17)  
 : 1/jour — *[[contrat intermédiaire]]* ([[DD]] 19)
 (((Description)))
 Le *trône de Nalt* est orné de grandes cornes d’or, d’un énorme crâne de serpent de mer et des ailes de Kazavon. Il accorde à quiconque s’assoit dessus un bonus d’altération de +6 en [[Charisme]] et en [[Sagesse]]. Une fois par jour, l’utilisateur peut lancer *[[quête]]*. Toute créature de sous-type Mauvais reçoit une pénalité de -6 à ses [[jds|jets de sauvegarde]] pour résister à cet effet.
 (((Destruction)))
-Le *trône de Nalt* s’effondre et tombe en poussière si une personne ne désirant rien s’assied dessus et lègue tout ce qu’elle possède à une autre.
+Le *trône de Nalt* s’effondre et tombe en poussière si une personne ne désirant rien s’assied dessus et lègue tout ce qu’elle possède à une autre. 
 </div>
 </td></tr></table>
 

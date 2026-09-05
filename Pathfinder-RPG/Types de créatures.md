@@ -10,6 +10,6 @@ Categories:
 
 Certaines créatures possèdent un ou plusieurs sous-types figurant dans le second tableau ci-contre. ces sous-types correspondent à diverses capacités spéciales et aux particularités dont elles disposent.
 
-Une créature ne peut pas violer les règles de son type ou de son sous-type à moins de posséder une capacité spéciale ou une particularité qui le justifie.
+Une créature ne peut pas violer les règles de son type ou de son sous-type à moins de posséder une capacité spéciale ou une particularité qui le justifie. 
 
 Les [[archétypes]] changent souvent le type des créatures du tout au tout.

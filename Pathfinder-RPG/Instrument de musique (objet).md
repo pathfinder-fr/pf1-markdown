@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po (standard), 100 po (de maître) ; **Poids** 1,5 kg (standard), 1,5 kg (de maître)<sup>[[Outils de compétences#1|1]]</sup>
+{s:AE}**Prix** 5 po (standard), 100 po (de maître) ; **Poids** 1,5 kg (standard), 1,5 kg (de maître)<sup>[[Outils de compétences#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Si le personnage veut donner un spectacle en utilisant la compétence [[Représentation]] associée à un instrument de musique (claviers, percussions, cordes ou vents), il doit avoir l’instrument de musique qui convient, sinon, il ne peut pas utiliser la compétence. Le coût et le poids sont indiqués pour un petit instrument de musique standard que le personnage peut porter à la main, comme un tambour, une lyre, une cloche, une harpe ou une flûte. Les instruments plus grands comme le violoncelle et le piano sont bien entendu plus gros et plus chers.  
   
 *Instrument de musique de maître.* Ces instruments de qualité supérieure accordent un bonus de circonstances de +2 aux tests de [[Représentation]] pour jouer de l’instrument.

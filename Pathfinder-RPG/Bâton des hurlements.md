@@ -12,9 +12,9 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des hurlements|}
 **Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 36 000 po ; **Poids** 2,5 kg
 (((Description)))
-Quand on agit ce bâton, les trous percés dans le métal émettent d'étranges gémissements. Il permet de lancer les sorts suivants :
-• *[[cacophonie]]* (1 charge)
-• *[[cri]]* (2 charges)
+Quand on agit ce bâton, les trous percés dans le métal émettent d'étranges gémissements. Il permet de lancer les sorts suivants :  
+• *[[cacophonie]]* (1 charge)  
+• *[[cri]]* (2 charges)  
 • *[[fracassement]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]],  *[[cacophonie]]*, *[[cri]]*, *[[fracassement]]* ; **Coût** 18 000 po

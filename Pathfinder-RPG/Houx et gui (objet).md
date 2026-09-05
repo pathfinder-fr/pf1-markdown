@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 0 po ; **Poids** —
+{s:AE}**Prix** 0 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Les [[Druide|druides]] utilisent généralement ces plantes comme [[composantes|focalisateur divin]] pour lancer leurs sorts.

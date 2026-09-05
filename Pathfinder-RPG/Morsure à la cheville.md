@@ -12,7 +12,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Évasion]]
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Évasion]] 
 
 **Avantage.** Si le personnage est la cible d’une [[manœuvre offensive]], il peut, par une [[action immédiate]], tenter de mordre son adversaire en plus des [[attaque dopportunité|attaques d’opportunité]] ou des diverses conséquences engendrées par la manœuvre. Cette attaque naturelle supplémentaire ne provoque aucune attaque d’opportunité et inflige les dégâts de base appropriés pour une créature de sa taille (normalement, 1d4 pour des créatures de taille P). S’il est [[agrippé]] ou [[immobilisé]] en lutte, le personnage peut continuer de délivrer son attaque de morsure supplémentaire chaque [[round]] par une [[action rapide]] quand vient son tour. Il bénéficie d’un bonus égal aux dégâts infligés par sa morsure lors de ce round sur ses tentatives pour briser l’étreinte.
 

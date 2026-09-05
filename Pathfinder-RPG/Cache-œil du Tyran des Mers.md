@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:57
 {s:BDTitre|Cache-œil du tyran des mers|{s:AE}}
 **Aura** [[Enchantement]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 70.000 po ; **Poids** —
 (((Description)))
-Ce cache-œil particulièrement apprécié des capitaines pirates passionnés est brodé au fil d’or et orné de perles formant un tourbillon. Le porteur de ce bandeau bénéficie en permanence des effets des sorts *[[caresse de la mer]]* et *[[respiration aquatique]]*. De plus, une fois par jour et sur commande, il peut lancer le sort *[[charme-monstre de groupe]]*.
+Ce cache-œil particulièrement apprécié des capitaines pirates passionnés est brodé au fil d’or et orné de perles formant un tourbillon. Le porteur de ce bandeau bénéficie en permanence des effets des sorts *[[caresse de la mer]]* et *[[respiration aquatique]]*. De plus, une fois par jour et sur commande, il peut lancer le sort *[[charme-monstre de groupe]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[charme-monstre de groupe]]*, *[[caresse de la mer]]*, *[[respiration aquatique]]*  ; **Coût** 35.000 po
 </div>

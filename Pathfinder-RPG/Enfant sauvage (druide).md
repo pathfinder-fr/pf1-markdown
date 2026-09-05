@@ -43,6 +43,6 @@ Au niveau 4, l’enfant sauvage gagne un bonus de +1 aux [[jet de sauvegarde|jet
 Au niveau 9, quand l’enfant sauvage se trouve dans son environnement de prédilection et qu’il lance *[[convocation dalliés naturels|convocation d’alliés naturels]]* pour invoquer des animaux natifs de cet environnement, il considère son niveau de lanceur de sorts effectif comme de deux niveaux de plus qu’en réalité quand il détermine la durée du sort.
 
 Au niveau 17, quand il lance ce type de sort pour convoquer des animaux, ces derniers gagnent un bonus de +2 à la
-[[Force]] et à la [[Constitution]]. Ces effets se cumulent avec ceux d’[[Amélioration des créatures convoquées]].
+[[Force]] et à la [[Constitution]]. Ces effets se cumulent avec ceux d’[[Amélioration des créatures convoquées]]. 
 
 Ce pouvoir remplace [[druide#IMMUNITECONTRELEVENIN|immunité contre le venin]] et [[druide#ETERNELLEJEUNESSE|éternelle jeunesse]].

@@ -141,7 +141,7 @@ des cas. Comme le don [[Extension deffet|Extension d’effet]] double la portée
 Il n’y a pas de règles fixes pour déterminer la [[Présentation des sorts#DUREE|durée]] que devrait avoir un sort à un niveau donné. Un sort faible peut durer des heures alors qu’un puissant sort peut durer quelques rounds seulement ou être dépensé en une seule action. Le mieux, c’est de comparer l’effet et la durée du sort à ceux de sorts similaires du niveau désiré et à ceux du niveau inférieur et supérieur. Assurez-vous de bien faire la différence entre les sorts « instantanés » et « permanents ».
 
 ### Jets de sauvegarde
-La plupart des sorts qui affectent directement une créature avec un effet magique permettent un [[jet de sauvegarde]]. Les sorts qui créent des matériaux non magiques qui frappent ensuite une créature ou l’entravent (comme *[[tempête de grêle]]* ou *[[tempête de neige]]*) ne nécessitent théoriquement pas de jet de sauvegarde.
+La plupart des sorts qui affectent directement une créature avec un effet magique permettent un [[jet de sauvegarde]]. Les sorts qui créent des matériaux non magiques qui frappent ensuite une créature ou l’entravent (comme *[[tempête de grêle]]* ou *[[tempête de neige]]*) ne nécessitent théoriquement pas de jet de sauvegarde. 
 
 Les sorts qui obligent le lanceur à faire un jet d’attaque pour toucher (même si c’est une attaque de contact à
 distance) peuvent autoriser ou non un jet de sauvegarde (*[[énergie négative]]* et *[[lumière brûlante]]* n’en autorisent pas mais *[[désintégration]]* si). Les effets d’attaque qui ne demandent pas de lancer des dés de dégâts devraient toujours autoriser un jet de sauvegarde pour réduire ou annuler un effet, sinon, le sort serait un choix incontournable pour tout personnage ayant le niveau nécessaire pour le lancer.
@@ -352,53 +352,53 @@ On oublie souvent de consulter le [[registre]] d’un sort et pourtant, il joue 
 
 {s:REFERENCE|AIR}**Air.** Les sorts qui créent de l’air, le manipulent ou convoquent des créatures venues de [[Plans#PLANSINTERIEURS|plans dominés par l’air]] ou de sous-type air sont du registre de l’air.
 
-{s:REFERENCE|BIEN}**Bien.** Les sorts qui puisent leur pouvoir dans la véritable bienveillance ou convoquent des créatures issues de [[Plans#PLANSEXTERIEURS|plans alignés sur le bien]] ou de sous-type bon appartiennent au registre du bien.
+{s:REFERENCE|BIEN}**Bien.** Les sorts qui puisent leur pouvoir dans la véritable bienveillance ou convoquent des créatures issues de [[Plans#PLANSEXTERIEURS|plans alignés sur le bien]] ou de sous-type bon appartiennent au registre du bien. 
 
-{s:REFERENCE|CHAOS}**Chaos.** Les sorts qui puisent leur puissance dans le véritable chaos ou convoquent des créatures venues de [[plans#PLANSEXTERIEURS|plans d’alignement chaotique]] ou de sous-type chaotique appartiennent au registre du chaos.
+{s:REFERENCE|CHAOS}**Chaos.** Les sorts qui puisent leur puissance dans le véritable chaos ou convoquent des créatures venues de [[plans#PLANSEXTERIEURS|plans d’alignement chaotique]] ou de sous-type chaotique appartiennent au registre du chaos. 
 
-{s:REFERENCE|DEPENDANTDULANGAGE}**Dépendant du langage.** Un sort dépendant du langage utilise une langue intelligible comme moyen de communication. Si la cible ne comprend pas ou n’entend pas le lanceur de sorts quand il utilise un sort dépendant du langage, le sort n’a aucun effet, même si la cible rate son jet de sauvegarde.
+{s:REFERENCE|DEPENDANTDULANGAGE}**Dépendant du langage.** Un sort dépendant du langage utilise une langue intelligible comme moyen de communication. Si la cible ne comprend pas ou n’entend pas le lanceur de sorts quand il utilise un sort dépendant du langage, le sort n’a aucun effet, même si la cible rate son jet de sauvegarde. 
 
-{s:REFERENCE|DOULEUR}**Douleur.** Les effets de douleur provoquent des sensations déplaisantes sans causer de dégâts physiques permanents (en revanche, une cible sensible peut souffrir de répercussions mentales si elle reste trop longtemps exposée à la douleur). Les créatures immunisées contre les effets qui nécessitent un jet de Vigueur (comme les [[type Créature artificielle|créatures artificielles]] ou les [[type Mort-vivant|morts-vivants]]) sont immunisées contre les effets de douleur.
+{s:REFERENCE|DOULEUR}**Douleur.** Les effets de douleur provoquent des sensations déplaisantes sans causer de dégâts physiques permanents (en revanche, une cible sensible peut souffrir de répercussions mentales si elle reste trop longtemps exposée à la douleur). Les créatures immunisées contre les effets qui nécessitent un jet de Vigueur (comme les [[type Créature artificielle|créatures artificielles]] ou les [[type Mort-vivant|morts-vivants]]) sont immunisées contre les effets de douleur. 
 
-{s:REFERENCE|EAU}**Eau.** Les sorts qui manipulent l’eau ou convoquent des créatures issues de [[plans#PLANSINTERIEURS|plans à dominante eau]] ou de sous-type aquatique appartiennent au registre de l’eau.
+{s:REFERENCE|EAU}**Eau.** Les sorts qui manipulent l’eau ou convoquent des créatures issues de [[plans#PLANSINTERIEURS|plans à dominante eau]] ou de sous-type aquatique appartiennent au registre de l’eau. 
 
-{s:REFERENCE|EFFETMENTAL}**Effet mental.** Les créatures sans [[intelligence]] (avec une valeur d’Intelligence de « – ») et les [[type Mort-vivant|morts-vivants]] sont immunisés contre les effets mentaux.
+{s:REFERENCE|EFFETMENTAL}**Effet mental.** Les créatures sans [[intelligence]] (avec une valeur d’Intelligence de « – ») et les [[type Mort-vivant|morts-vivants]] sont immunisés contre les effets mentaux. 
 
-{s:REFERENCE|ELECTRICITE}**Électricité.** Les effets d’électricité impliquent une présence et un flux de charges électriques, qu’il s’exprime en ampères ou en volts. L’électricité blesse les créatures en perturbant leur système biologique. Elle inflige des dégâts aux objets (ainsi qu’aux créatures) en chauffant le matériau qu’elle traverse. Techniquement, la plupart des sorts d’électricité pourraient aussi être traités comme des sorts de feu mais, pour la simplicité du jeu, laissons les sorts d’électricité infliger des dégâts électriques. Les effets de l’électricité peuvent [[Étourdi|étourdir]], [[Paralysé|paralyser]] ou même [[Mort|tuer]].
+{s:REFERENCE|ELECTRICITE}**Électricité.** Les effets d’électricité impliquent une présence et un flux de charges électriques, qu’il s’exprime en ampères ou en volts. L’électricité blesse les créatures en perturbant leur système biologique. Elle inflige des dégâts aux objets (ainsi qu’aux créatures) en chauffant le matériau qu’elle traverse. Techniquement, la plupart des sorts d’électricité pourraient aussi être traités comme des sorts de feu mais, pour la simplicité du jeu, laissons les sorts d’électricité infliger des dégâts électriques. Les effets de l’électricité peuvent [[Étourdi|étourdir]], [[Paralysé|paralyser]] ou même [[Mort|tuer]]. 
 
-{s:REFERENCE|EMOTIONS}**Émotions.** Les sorts de ce registre créent des émotions ou manipulent celles qui existent déjà. La plupart des sorts d’émotion sont des sorts d’[[enchantement]], sauf les sorts de peur qui sont généralement liés à la [[nécromancie]].
+{s:REFERENCE|EMOTIONS}**Émotions.** Les sorts de ce registre créent des émotions ou manipulent celles qui existent déjà. La plupart des sorts d’émotion sont des sorts d’[[enchantement]], sauf les sorts de peur qui sont généralement liés à la [[nécromancie]]. 
 
-{s:REFERENCE|FEU}**Feu.** Les effets de feu augmentent la température de la cible en créant du feu qui la chauffe directement, par magie ou par friction. La lave, la vapeur et l’eau bouillante causent des effets de feu. Les effets de feu peuvent aussi provoquer [[Confus|confusion]], [[Étourdi|étourdissement]], [[Épuisé|épuisement]], [[Fatigué|fatigue]], [[Nauséeux|nausée]], [[Inconscient|inconscience]] ou [[mort]]. Les sorts qui manipulent le feu ou convoquent des créatures issues d’un [[plans#PLANSINTERIEURS|plan à dominante feu]] ou de sous-type feu appartiennent au registre du feu.
+{s:REFERENCE|FEU}**Feu.** Les effets de feu augmentent la température de la cible en créant du feu qui la chauffe directement, par magie ou par friction. La lave, la vapeur et l’eau bouillante causent des effets de feu. Les effets de feu peuvent aussi provoquer [[Confus|confusion]], [[Étourdi|étourdissement]], [[Épuisé|épuisement]], [[Fatigué|fatigue]], [[Nauséeux|nausée]], [[Inconscient|inconscience]] ou [[mort]]. Les sorts qui manipulent le feu ou convoquent des créatures issues d’un [[plans#PLANSINTERIEURS|plan à dominante feu]] ou de sous-type feu appartiennent au registre du feu. 
 
-{s:REFERENCE|FORCE}**Force.** Les sorts du registre de la force créent ou manipulent une force magique. Ils ont un effet normal sur les [[sous-type intangible|créatures intangibles]] (ils agissent sur elles comme sur les créatures normales).
+{s:REFERENCE|FORCE}**Force.** Les sorts du registre de la force créent ou manipulent une force magique. Ils ont un effet normal sur les [[sous-type intangible|créatures intangibles]] (ils agissent sur elles comme sur les créatures normales). 
 
-{s:REFERENCE|FROID}**Froid.** Les effets de froid infligent des dégâts en diminuant la température de la cible, généralement en la touchant avec une matière ou une énergie d’un froid surnaturel. Les effets de froid incluent également la glace, la neige ou la neige fondue créées à partir de rien. Ils peuvent provoquer des engelures, un engourdissement, des problèmes de coordination, ralentir les mouvements et les réactions, induire un état d’[[Hébété|hébétement]] ou entraîner la [[mort]].
+{s:REFERENCE|FROID}**Froid.** Les effets de froid infligent des dégâts en diminuant la température de la cible, généralement en la touchant avec une matière ou une énergie d’un froid surnaturel. Les effets de froid incluent également la glace, la neige ou la neige fondue créées à partir de rien. Ils peuvent provoquer des engelures, un engourdissement, des problèmes de coordination, ralentir les mouvements et les réactions, induire un état d’[[Hébété|hébétement]] ou entraîner la [[mort]]. 
 
-{s:REFERENCE|LOYAL}**Loyal.** Les sorts qui puisent leur pouvoir dans la loi à l’état pur ou convoquent des créatures issues de [[plans#PLANSEXTERIEURS|plans alignés sur la loi]] ou de sous-type loyal appartiennent au registre de la loi.
+{s:REFERENCE|LOYAL}**Loyal.** Les sorts qui puisent leur pouvoir dans la loi à l’état pur ou convoquent des créatures issues de [[plans#PLANSEXTERIEURS|plans alignés sur la loi]] ou de sous-type loyal appartiennent au registre de la loi. 
 
-{s:REFERENCE|LUMIERE}**Lumière.** Les sorts qui créent une quantité de lumière significative ou qui attaquent les effets de ténèbres sont du registre de la lumière. La présence de ce registre indique si un sort comme *[[ténèbres]]* est d’un niveau suffisant pour le dissiper ou le contrer.
+{s:REFERENCE|LUMIERE}**Lumière.** Les sorts qui créent une quantité de lumière significative ou qui attaquent les effets de ténèbres sont du registre de la lumière. La présence de ce registre indique si un sort comme *[[ténèbres]]* est d’un niveau suffisant pour le dissiper ou le contrer. 
 
-{s:REFERENCE|MAL}**Mal.** Les sorts qui tirent leur puissance de pouvoirs maléfiques ou invoquent des créatures de [[plans#PLANSEXTERIEURS|plans alignés sur le mal]] ou sont de sous-type mauvais appartiennent au registre du mal.
+{s:REFERENCE|MAL}**Mal.** Les sorts qui tirent leur puissance de pouvoirs maléfiques ou invoquent des créatures de [[plans#PLANSEXTERIEURS|plans alignés sur le mal]] ou sont de sous-type mauvais appartiennent au registre du mal. 
 
-{s:REFERENCE|MALADIE}**Maladie.** Les effets de [[Maladies|maladie]] rendent la cible malade, ce qui peut se traduire par une invasion d’organismes comme les bactéries ou les virus, par une condition interne anormale (comme un cancer ou un désordre mental) ou par un effet  magique récurrent qui agit comme l’un des types de maladie précédents. Les créatures qui possèdent une résistance ou une immunité contre les maladies appliquent cette résistance aux jets de sauvegarde et aux effets des sorts de maladie.
+{s:REFERENCE|MALADIE}**Maladie.** Les effets de [[Maladies|maladie]] rendent la cible malade, ce qui peut se traduire par une invasion d’organismes comme les bactéries ou les virus, par une condition interne anormale (comme un cancer ou un désordre mental) ou par un effet  magique récurrent qui agit comme l’un des types de maladie précédents. Les créatures qui possèdent une résistance ou une immunité contre les maladies appliquent cette résistance aux jets de sauvegarde et aux effets des sorts de maladie. 
 
-{s:REFERENCE|MALEDICTION}**Malédiction.** Ce sont souvent des effets permanents que l’on peut dissiper avec *[[annulation denchantement|annulation d’enchantement]]*, *[[délivrance des malédictions]]*, *[[miracle]]*, *[[souhait]]* ou *[[souhait limité]]*.
+{s:REFERENCE|MALEDICTION}**Malédiction.** Ce sont souvent des effets permanents que l’on peut dissiper avec *[[annulation denchantement|annulation d’enchantement]]*, *[[délivrance des malédictions]]*, *[[miracle]]*, *[[souhait]]* ou *[[souhait limité]]*. 
 
 {s:REFERENCE|MORT}**Mort.** Les sorts du registre de la mort s’attaquent directement à la force vitale de la créature ou puisent dans
-la puissance d’une créature [[Mort|morte]] ou [[Mourant|mourante]]. Le sort *[[protection contre la mort]]* protège contre les effets de mort et certaines créatures sont immunisées contre eux.
+la puissance d’une créature [[Mort|morte]] ou [[Mourant|mourante]]. Le sort *[[protection contre la mort]]* protège contre les effets de mort et certaines créatures sont immunisées contre eux. 
 
-{s:REFERENCE|OMBRE}**Ombre.** Les sorts d’ombre manipulent la matière ou l’énergie du [[plans#PLANOMBRE|plan de l’Ombre]] ou permettent de transporter quelqu’un vers ce plan ou d’en revenir.
+{s:REFERENCE|OMBRE}**Ombre.** Les sorts d’ombre manipulent la matière ou l’énergie du [[plans#PLANOMBRE|plan de l’Ombre]] ou permettent de transporter quelqu’un vers ce plan ou d’en revenir. 
 
 {s:REFERENCE|PEUR}**Peur.** Les sorts de ce registre créent, amplifient ou manipulent la peur. La plupart des sorts de peur sont des
-sorts de [[nécromancie]] mais quelques-uns appartiennent à l’école de l’[[enchantement]].
+sorts de [[nécromancie]] mais quelques-uns appartiennent à l’école de l’[[enchantement]]. 
 
-{s:REFERENCE|POISON}**Poison.** Les effets de poison utilisent des poisons, des venins, des drogues et autres substances toxiques similaires pour perturber et blesser les créatures vivantes grâce à des réactions chimiques. Techniquement, les acides et les poisons sont tous des réactions chimiques mais ils appartiennent à deux catégories différentes, les acides infligeant des points de dégâts et les poisons provoquant des [[Capacités spéciales#AFFTEMPDIMPERM|affaiblissements]] ou des [[Capacités spéciales#AFFTEMPDIMPERM|diminutions permanentes]] de caractéristique, des [[Saignement|saignements]], de la [[Confus|confusion]], des convulsions, des [[Nauséeux|nausées]], de la [[Paralysé|paralysie]], une réduction de la capacité de guérison, de la suffocation, de l’[[Inconscient|inconscience]] ou la [[mort]]. Les créatures qui résistent au poison (comme les [[Nain|nains]]) appliquent cette résistance à leurs jets de sauvegarde et aux effets des sorts de poison. Les créatures immunisées contre le poison sont immunisées contre les aspects de sort qui relèvent purement de l’empoisonnement mais pas forcément contre tous les effets du sort. Par exemple, même si une créature est immunisée contre le poison, elle peut toujours se faire piéger par un sort qui crée une fosse remplie d’un liquide empoisonné ou s’y noyer.
+{s:REFERENCE|POISON}**Poison.** Les effets de poison utilisent des poisons, des venins, des drogues et autres substances toxiques similaires pour perturber et blesser les créatures vivantes grâce à des réactions chimiques. Techniquement, les acides et les poisons sont tous des réactions chimiques mais ils appartiennent à deux catégories différentes, les acides infligeant des points de dégâts et les poisons provoquant des [[Capacités spéciales#AFFTEMPDIMPERM|affaiblissements]] ou des [[Capacités spéciales#AFFTEMPDIMPERM|diminutions permanentes]] de caractéristique, des [[Saignement|saignements]], de la [[Confus|confusion]], des convulsions, des [[Nauséeux|nausées]], de la [[Paralysé|paralysie]], une réduction de la capacité de guérison, de la suffocation, de l’[[Inconscient|inconscience]] ou la [[mort]]. Les créatures qui résistent au poison (comme les [[Nain|nains]]) appliquent cette résistance à leurs jets de sauvegarde et aux effets des sorts de poison. Les créatures immunisées contre le poison sont immunisées contre les aspects de sort qui relèvent purement de l’empoisonnement mais pas forcément contre tous les effets du sort. Par exemple, même si une créature est immunisée contre le poison, elle peut toujours se faire piéger par un sort qui crée une fosse remplie d’un liquide empoisonné ou s’y noyer. 
 
 {s:cs}{s:UI}{s:Reference|RUSE}**Ruse.** Les sorts du registre de la ruse peuvent facilement être confondus avec d'autres sorts et sont conçus pour perturber même les observateurs formé dans les compétences [[Art de la magie]] et [[Connaissances]] (mystères). Les tentatives visant à identifier un sort de ruse par le biais de ses effets, de son aura, de ses composantes ou d'autres attributs grâce à un tests de compétence considèrent le sort comme s'il s'agissait d'un autre sort, indiqué dans la description du sort de ruse. Ceux qui effectuent le test ne peuvent identifier correctement le sort de ruse qu'en dépassant le DD de 10. Le faux sort est généralement d'un niveau inférieur au sort de ruse, le test de compétence se base donc sur le DD du sort de plus bas niveau. Même *[[détection de la magie]]* et les effets similaires n'empêchent pas le lanceur d'être trompé par un sort de ruse. *[[Analyse denchantement|Analyse d'enchantement]]*, *[[vision magique suprême]]* et les sorts  d'un niveau égal ou supérieur similaires qui identifient automatiquement les sorts révèlent les sorts de ruse normalement. Les sorts de ruse qui imitent des sorts inoffensifs sont toujours listés comme étant inoffensifs à la ligne jet de sauvegarde et résistance à la magie ; une créature qui connaît ou suspecte la véritable nature du sort a toujours droit à un jet de sauvegarde.
 
-{s:REFERENCE|SONORE}**Sonore.** Les effets sonores transmettent de l’énergie à la cible via de fréquentes oscillations de pression dans l’air, l’eau ou le sol. Les sons trop graves ou trop aigus pour l’oreille des humanoïdes peuvent tout de même transmettre assez d’énergie pour blesser, ce qui veut dire qu’ils peuvent même affecter les créatures sourdes. Les effets de sons peuvent causer des points de dégâts, une [[Assourdi|surdité]], un [[Hébété|hébétement]], de la [[Nauséeux|nausée]], de la douleur, des difficultés à respirer et une [[Aveuglé|cécité]] temporaire. Ils peuvent aussi permettre de détecter des créatures, comme le sonar des chauves-souris.
+{s:REFERENCE|SONORE}**Sonore.** Les effets sonores transmettent de l’énergie à la cible via de fréquentes oscillations de pression dans l’air, l’eau ou le sol. Les sons trop graves ou trop aigus pour l’oreille des humanoïdes peuvent tout de même transmettre assez d’énergie pour blesser, ce qui veut dire qu’ils peuvent même affecter les créatures sourdes. Les effets de sons peuvent causer des points de dégâts, une [[Assourdi|surdité]], un [[Hébété|hébétement]], de la [[Nauséeux|nausée]], de la douleur, des difficultés à respirer et une [[Aveuglé|cécité]] temporaire. Ils peuvent aussi permettre de détecter des créatures, comme le sonar des chauves-souris. 
 
-{s:REFERENCE|TENEBRES}**Ténèbres.** Les sorts qui créent de l’obscurité ou réduisent la luminosité appartiennent au registre des ténèbres. La présence de ce registre indique si un sort comme *[[lumière du jour]]* est d’un niveau suffisant pour le dissiper ou le contrer.
+{s:REFERENCE|TENEBRES}**Ténèbres.** Les sorts qui créent de l’obscurité ou réduisent la luminosité appartiennent au registre des ténèbres. La présence de ce registre indique si un sort comme *[[lumière du jour]]* est d’un niveau suffisant pour le dissiper ou le contrer. 
 
 {s:REFERENCE|TERRE}**Terre.** Les sorts qui manipulent la terre ou convoquent des créatures issues de [[plans#PLANSINTERIEURS|plans à dominante terre]] ou de sous-type terre sont du registre de la terre.
 
@@ -407,50 +407,50 @@ sorts de [[nécromancie]] mais quelques-uns appartiennent à l’école de l’[
 Certains sorts à l’évidence, les meilleurs de leur niveau. D’autres sont de parfaits exemples de ce qu’un sort de ce niveau ou de ce type devrait faire. Ce sont des sorts « de référence » et, quand vous créez de nouveaux sorts, vous devriez toujours les comparer à ceux-ci. Si votre sort est meilleur que celui de référence, vous devriez réduire sa puissance ou augmenter son niveau. Voici une liste des sorts de référence pour les [[Magicien|magiciens]]/[[Ensorceleur|ensorceleurs]], accompagnés d’une explication sur leur présence dans cette liste. Si vous créez un sort plus efficace qu’un sort de référence comparable, votre sort est trop puissant.
 
 #### Niveau 1
-*[[Mains brûlantes]]*. C’est le sort d’attaque de référence de niveau 1. Il est encore meilleur que *[[sommeil]]* parce qu’il peut affecter jusqu’à six cases (le sommeil n’affecte que 4 DV, ce qui veut dire 4 créatures) et qu’il fonctionne sur les créatures dépourvues d’intelligence et les morts-vivants.
+*[[Mains brûlantes]]*. C’est le sort d’attaque de référence de niveau 1. Il est encore meilleur que *[[sommeil]]* parce qu’il peut affecter jusqu’à six cases (le sommeil n’affecte que 4 DV, ce qui veut dire 4 créatures) et qu’il fonctionne sur les créatures dépourvues d’intelligence et les morts-vivants. 
 
 *[[Projectile magique]]*. C’est probablement le meilleur sort de niveau 1 du jeu car, même s’il n’inflige pas beaucoup de dégâts, il ne demande pas de jet d’attaque, a une portée moyenne, n’autorise pas de jet de sauvegarde et blesse les créatures intangibles. Même si le *[[projectile magique]]* était un sort de niveau 2, les lanceurs de sorts intelligents le choisiraient quand même.
 
 #### Niveau 2
-*[[Invisibilité]]*. C’est l’un des meilleurs sorts du jeu et il n’y a que l’*[[invisibilité suprême]]* qui le surpasse en éliminant l’aspect « cassé par une attaque. » Ce sort est excellent pour partir en éclaireur, pour préparer une attaque et pour les soigneurs (car les soins ne l’annulent pas).
+*[[Invisibilité]]*. C’est l’un des meilleurs sorts du jeu et il n’y a que l’*[[invisibilité suprême]]* qui le surpasse en éliminant l’aspect « cassé par une attaque. » Ce sort est excellent pour partir en éclaireur, pour préparer une attaque et pour les soigneurs (car les soins ne l’annulent pas). 
 
-*[[Résistance aux énergies destructives]]*. Ce sort défensif fonctionne exactement comme la résistance aux énergies des monstres, c’est donc un parfait exemple du niveau de puissance de ce genre de sort. Il gagne en puissance quand le lanceur de sorts monte en niveau et reste donc viable plus tard dans le jeu.
+*[[Résistance aux énergies destructives]]*. Ce sort défensif fonctionne exactement comme la résistance aux énergies des monstres, c’est donc un parfait exemple du niveau de puissance de ce genre de sort. Il gagne en puissance quand le lanceur de sorts monte en niveau et reste donc viable plus tard dans le jeu. 
 
 *[[Toile daraignée|Toile d’araignée]]*. C’est un puissant sort non létal qui reste viable même à des niveaux supérieurs (même une liche qui réussit son jet de sauvegarde doit tenir compte du terrain difficile et risque de rester collée si elle se déplace). Il offre même un abri et on peut l’enflammer pour infliger des dégâts aux créatures situées dans la zone.
 
 #### Niveau 3
-*[[Boule de feu]]*. C’est indiscutablement le meilleur sort d’attaque de zone de bas niveau. C’est en acquérant ce sort que les lanceurs changent le paradigme du jeu et infligent de gros dégâts à de nombreuses cibles qui se situent n’importe où à portée de vue.
+*[[Boule de feu]]*. C’est indiscutablement le meilleur sort d’attaque de zone de bas niveau. C’est en acquérant ce sort que les lanceurs changent le paradigme du jeu et infligent de gros dégâts à de nombreuses cibles qui se situent n’importe où à portée de vue. 
 
-*[[Déplacement]]*. Ce sort de combat de courte durée fait rater 50% des attaques de l’adversaire et définit la norme des sorts défensifs monocibles.
+*[[Déplacement]]*. Ce sort de combat de courte durée fait rater 50% des attaques de l’adversaire et définit la norme des sorts défensifs monocibles. 
 
-*[[Dissipation de la magie]]*. Ce sort représente la norme de négation d’une magie sans disposer d’un contre particulier.
+*[[Dissipation de la magie]]*. Ce sort représente la norme de négation d’une magie sans disposer d’un contre particulier. 
 
-*[[Éclair]]*. Ce sort assure qu’une ligne de cette portée possède environ la même puissance qu’une zone d’un rayon de 6 mètres.
+*[[Éclair]]*. Ce sort assure qu’une ligne de cette portée possède environ la même puissance qu’une zone d’un rayon de 6 mètres. 
 
-*[[Nuage nauséabond]]*. Ce sort permet de neutraliser de nombreux ennemis à bonne distance. C’est le meilleur sort multicible non létal de son niveau.
+*[[Nuage nauséabond]]*. Ce sort permet de neutraliser de nombreux ennemis à bonne distance. C’est le meilleur sort multicible non létal de son niveau. 
 
-*[[Suggestion]]*. C’est le sort de plus bas niveau qui permette à un lanceur de sorts d’obliger la cible à agir, mais ce contrôle est limité à des « actions raisonnables. »
+*[[Suggestion]]*. C’est le sort de plus bas niveau qui permette à un lanceur de sorts d’obliger la cible à agir, mais ce contrôle est limité à des « actions raisonnables. » 
 
 *[[Vol]]*. C’est le sort de déplacement le plus important. Il est très utile en combat et permet de manœuvrer facilement sur le champ de bataille.
 
 #### Niveau 4
-*[[Assassin imaginaire]]*. C’est le sort de plus bas niveau capable de tuer directement une créature, mais il autorise deux jets de sauvegarde pour lui résister.
+*[[Assassin imaginaire]]*. C’est le sort de plus bas niveau capable de tuer directement une créature, mais il autorise deux jets de sauvegarde pour lui résister. 
 
-*[[Énergie négative]]*. C’est le sort de plus bas niveau à donner des niveaux négatifs.
+*[[Énergie négative]]*. C’est le sort de plus bas niveau à donner des niveaux négatifs. 
 
 *[[Porte dimensionnelle]]*. C’est le sort de plus bas niveau qui permette de se téléporter. Il a une portée réduite et désoriente le personnage jusqu’à son prochain tour.
 
 #### Niveau 5
-*[[Brume mortelle]]*. C’est un sort clef car il permet de tuer automatiquement les créatures faibles et parce qu’il inflige des dégâts de poison permanent aux créatures plus fortes situées dans la zone. Il persiste pendant plusieurs rounds et se déplace.
+*[[Brume mortelle]]*. C’est un sort clef car il permet de tuer automatiquement les créatures faibles et parce qu’il inflige des dégâts de poison permanent aux créatures plus fortes situées dans la zone. Il persiste pendant plusieurs rounds et se déplace. 
 
-*[[Cône de froid]]*. Ce sort est une référence intéressante car il est faible pour son niveau. Quand un personnage peut y accéder, il a aussi accès à *[[boule de feu]]* qui inflige autant de dégâts et de plus loin. De plus, le plafond du *[[cône de froid]]* n’est qu’à 5 dés de plus que celui de la *[[boule de feu]]*. Si votre sort d’attaque est plus faible que celui-ci, vous devriez augmenter sa puissance ou envisager d’en faire un sort de niveau 4.
+*[[Cône de froid]]*. Ce sort est une référence intéressante car il est faible pour son niveau. Quand un personnage peut y accéder, il a aussi accès à *[[boule de feu]]* qui inflige autant de dégâts et de plus loin. De plus, le plafond du *[[cône de froid]]* n’est qu’à 5 dés de plus que celui de la *[[boule de feu]]*. Si votre sort d’attaque est plus faible que celui-ci, vous devriez augmenter sa puissance ou envisager d’en faire un sort de niveau 4. 
 
-*[[Domination]]*. C’est le sort de plus bas niveau qui permette de contrôler complètement une créature hostile intelligente (sauf ordre autodestructeur).
+*[[Domination]]*. C’est le sort de plus bas niveau qui permette de contrôler complètement une créature hostile intelligente (sauf ordre autodestructeur). 
 
 *[[Mur de pierre]]*. C’est le sort de plus bas niveau qui crée un objet permanent (instantané) de grande taille à partir de rien (contrairement à *[[fabrication]]* qui transforme des matériaux bruts en produits finis de façon permanente).
 
 #### Niveau 6
-*[[Prévoyance]]*. Ce sort permet au lanceur de définir des conditions pour déclencher un autre effet de sort direct, comme un sort de protection, ou paranoïaque, comme une téléportation pour fuir. Il fonctionne à peu près comme un sort à Incantation rapide d’une action immédiate. Comme la contingence dure 1 jour par niveau, le lanceur peut la préparer un jour et partir à l’aventure le suivant en disposant de tous ses emplacements de sorts.
+*[[Prévoyance]]*. Ce sort permet au lanceur de définir des conditions pour déclencher un autre effet de sort direct, comme un sort de protection, ou paranoïaque, comme une téléportation pour fuir. Il fonctionne à peu près comme un sort à Incantation rapide d’une action immédiate. Comme la contingence dure 1 jour par niveau, le lanceur peut la préparer un jour et partir à l’aventure le suivant en disposant de tous ses emplacements de sorts. 
 
 *[[Défense magique]]*. Même si les PJ ne l’utilisent pas souvent parce qu’ils n’ont pas de demeure permanente, ce sort a son importance car il affirme qu’un sort défensif qui affecte une large zone peut avoir divers effets pour protéger une maison et tromper les intrus.
 
@@ -458,15 +458,15 @@ Certains sorts à l’évidence, les meilleurs de leur niveau. D’autres sont d
 *[[Souhait limité]]*. Ce puissant sort permet au lanceur de choisir entre les effets de nombreux sorts de bas niveau au moment de l’incantation, même parmi les listes de différentes classes.
 
 #### Niveau 8
-*[[Clone]]*. Ce sort est la clef de l’immortalité profane. Il agit comme une *[[prévoyance]]* et un *[[rappel à la vie]]* mais coûte moins de po et peut sauver un personnage même si tout le groupe se fait tuer.
+*[[Clone]]*. Ce sort est la clef de l’immortalité profane. Il agit comme une *[[prévoyance]]* et un *[[rappel à la vie]]* mais coûte moins de po et peut sauver un personnage même si tout le groupe se fait tuer. 
 
 *[[Danse irrésistible]]*. Même si ce sort ne peut pas tuer sa cible directement, il l’empêche d’entreprendre la moindre action et lui impose d’énormes malus et (dans un sens) il ne permet pas de jet de sauvegarde (même si le sort permet techniquement de faire un jet, ses effets s’appliquent tout de même pendant 1 round en cas de réussite).
 
-*[[Esprit impénétrable]]*. C’est un exemple d’un sort de défense extrêmement ciblé qui permet de bloquer des sorts de niveau supérieur.
+*[[Esprit impénétrable]]*. C’est un exemple d’un sort de défense extrêmement ciblé qui permet de bloquer des sorts de niveau supérieur. 
 
 #### Niveau 9
-*[[Arrêt du temps]]*. C’est le seul sort du jeu qui permette au lanceur de faire l’équivalent de plusieurs rounds d’actions sans permettre à quiconque de l’en empêcher.
+*[[Arrêt du temps]]*. C’est le seul sort du jeu qui permette au lanceur de faire l’équivalent de plusieurs rounds d’actions sans permettre à quiconque de l’en empêcher. 
 
-*[[Miracle]]* / *[[Souhait]]*. Pinacle de l’incantation, ces sorts sont capables de reproduire les effets de presque n’importe quel sort de niveau inférieur, d’oblitérer de nombreux effets néfastes, de ramener les morts à la vie ou même de remonter le cours du temps. Si votre sort est plus puissant, c’est que vous essayez de jouer un dieu.
+*[[Miracle]]* / *[[Souhait]]*. Pinacle de l’incantation, ces sorts sont capables de reproduire les effets de presque n’importe quel sort de niveau inférieur, d’oblitérer de nombreux effets néfastes, de ramener les morts à la vie ou même de remonter le cours du temps. Si votre sort est plus puissant, c’est que vous essayez de jouer un dieu. 
 
 *[[Portail]]*. Ce puissant sort combine les effets d’*[[allié doutreplan|allié d’outreplan]]* et de *[[contrat intermédiaire]]*. On peut aussi l’utiliser pour transporter de nombreuses créatures entre les plans.

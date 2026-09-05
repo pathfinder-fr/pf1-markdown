@@ -9,6 +9,6 @@ Categories:
 {s:Organisation|Chasseurs d'Al'Vohr|Al'Vohr's Hunters|-|-|-|Al'Vohr|Chasseurs gnolls|Bande|Local ([[Montagne Pâle]])|-}Le flind Al'Vohr est une légende vivante parmi les diverses tribus gnolls qui vivent autour de la [[Montagne Pâle]]. Il est réputé avoir abattu d'une seule main un Roc intrépide puis, après avoir trouvé son nid, s'être repu de ses oeufs. Les Chasseurs d'Al'Vohr sont une bande de six chasseurs gnolls qui l'accompagnent. Ce sont de très bons pisteurs qui ont perfectionnés l'art de l'embuscade de nuit.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Chasseur d'Al'Vohr dans le supplément
+Vous pourrez trouver plus d'informations à propos des Chasseur d'Al'Vohr dans le supplément 
 - [[Aventures.Présentation AP4#AP4-1|Howl of the Carrion King/Le Hurlement du Roi Charognard]], premier volume de la campagne [[Aventures.Présentation AP4|L'Héritage de Feu]]
 {s:VoirAussiAprès}

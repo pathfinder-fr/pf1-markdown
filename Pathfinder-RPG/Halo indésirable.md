@@ -10,12 +10,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Sarenraé|%2fPCUP%2fReligion-PNG%2fSarenrae.png}{s:cs}{s:ISG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cibles** une créature non-Bonne
-**Durée** 1 minute/niveau
+{s:divin|Sarenraé|%2fPCUP%2fReligion-PNG%2fSarenrae.png}{s:cs}{s:ISG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cibles** une créature non-Bonne  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort fait briller la cible comme si elle était entourée d'un halo de lumière. Ce halo diffuse une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 6 mètres autour de la créature, et augmente le niveau de luminosité d'une catégorie à 6 mètres supplémentaires. Ce halo empêche la créature de bénéficier d'un [[camouflage]] dans les ténèbres non magiques, et dans des conditions de luminosité faible ou inférieures, la lueur de la créature peut être vue même si elle n'est pas en ligne de mire directe.

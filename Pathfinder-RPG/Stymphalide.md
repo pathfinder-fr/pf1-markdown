@@ -44,7 +44,7 @@ Categories:
 </div>
 </td><td><div>*Cet oiseau imposant, semblable à un ibis, semble sculpté dans l’argent et le cuivre mais se déplace avec la souplesse d’une créature vivante.*
 
-Oiseaux de proies mangeurs d’hommes, ces créatures rares que l’on appelle les stymphalides hantent les plaines et les littoraux, déchiquetant les animaux à sang chaud et les voyageurs imprudents au moyen de leurs plumes en acier, tranchantes comme les lames, et de leur bec en forme de dague. De loin, on confond facilement les stymphalides avec des grues, des ibis ou autres oiseaux à long cou. Mais en pleine lumière, leurs ailes étincelantes et la brume de sang de leurs précédents repas empêchent de se méprendre sur leur nature.
+Oiseaux de proies mangeurs d’hommes, ces créatures rares que l’on appelle les stymphalides hantent les plaines et les littoraux, déchiquetant les animaux à sang chaud et les voyageurs imprudents au moyen de leurs plumes en acier, tranchantes comme les lames, et de leur bec en forme de dague. De loin, on confond facilement les stymphalides avec des grues, des ibis ou autres oiseaux à long cou. Mais en pleine lumière, leurs ailes étincelantes et la brume de sang de leurs précédents repas empêchent de se méprendre sur leur nature. 
 
 Lorsqu’elles ne se reposent pas, des volées de ces créatures volent haut dans le ciel sur les courants chauds, s’appuyant sur leur vue perçante pour repérer les proies adéquates de loin. Du fait de leurs appétits voraces, les vols de stymphalides doivent s’approprier de vastes territoires pour pouvoir se nourrir correctement.
 

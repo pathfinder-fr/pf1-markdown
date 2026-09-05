@@ -22,6 +22,6 @@ La plupart des Kellides se méfient de la magie, certainement à cause de leur c
 Les dieux principaux des Kellides sont [[Desna]] et [[Gorum]] même si beaucoup de tribus sont encore animistes et que certains habitants des [[Royaumes des Seigneurs des Mammouths]] suivent les préceptes du dieu géant Minderhal.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Kellides dans le supplément
+Vous pourrez trouver plus d'informations à propos des Kellides dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

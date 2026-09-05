@@ -50,18 +50,18 @@ A la mort d'[[Aroden]], la panique envahit le pays et le [[Chéliax]], qui tombe
 Depuis cette date, le [[Chéliax]], en proie à de nombreux problèmes intérieurs, laisse plus ou moins l'Andoran tranquille. Mais celui-ci doit se défendre des raids et des tentatives d'envahissement par le [[Taldor]]. Une dizaine d'affrontements, toujours remportés par l'Andoran, ont eu lieu face au voisin de l'est. Tous se sont soldés par la victoire des armées andoranes.
 
 ### Le gouvernement de l'Andoran
-L'Andoran est dirigé par le **Conseil des Peuples Libres**. Il s'agit d'une assemblée composée des représentants des municipalités et des grandes guildes du pays. Actuellement, le Conseil est constitué de 350 sièges, mais ce nombre peut varier d'une législature à l'autre. Les représentants des municipalités sont élus par les citoyens.
+L'Andoran est dirigé par le **Conseil des Peuples Libres**. Il s'agit d'une assemblée composée des représentants des municipalités et des grandes guildes du pays. Actuellement, le Conseil est constitué de 350 sièges, mais ce nombre peut varier d'une législature à l'autre. Les représentants des municipalités sont élus par les citoyens. 
 
 En plus du pouvoir législatif, le Conseil élit parmi ses membres l**'Elu Suprême** pour une durée de cinq ans. C'est lui qui est la véritable figure du pays au niveau international. L'Élu Suprême dirige le gouvernement composé de trente ministres, en charge des questions internationales, et de vingt consuls, responsables des questions militaires et de la sécurité intérieure.
 
 Au niveau local, le Conseil nomme les maires des municipalités. Ils sont choisit parmi les citoyens pour leur mérites. Ce choix permet d'éviter la corruption locale et les coups-bas.
 
 ### Relations internationales
-De par son histoire, sa position géographique et sa puissance économique, les relations de l'Andoran avec ses voisins sont diverses.
+De par son histoire, sa position géographique et sa puissance économique, les relations de l'Andoran avec ses voisins sont diverses. 
 
 Elles sont glaciales avec le [[Chéliax]], qui le considère encore comme une de ses provinces séditieuses, et l'[[Isger]], le plus proche allié du pays des démons.
 
-Le [[Taldor]], en proie à des conflits internes depuis longtemps, n'est plus une vrai menace militaire. Il essaie néanmoins de temps en temps de se réapproprier la moitié est du territoire en lançant régulièrement des raids. De l'autre côté de l'échelle des relations internationales, l'Andoran a signé des accords commerciaux très forts avec le [[Druma]].
+Le [[Taldor]], en proie à des conflits internes depuis longtemps, n'est plus une vrai menace militaire. Il essaie néanmoins de temps en temps de se réapproprier la moitié est du territoire en lançant régulièrement des raids. De l'autre côté de l'échelle des relations internationales, l'Andoran a signé des accords commerciaux très forts avec le [[Druma]]. 
 
 En ce qui concerne le [[Kyonin]], la philosophie de la liberté partagée par les deux nations fait qu'une certaine aide militaire est possible, mais toujours en sous-main. Le pays des elfes souhaite rester maître de son destin et ne pas intervenir dans des conflits qui ne le concernent pas.
 

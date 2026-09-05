@@ -11,28 +11,28 @@ Categories:
 ---
 
 {s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}
-**École** [[Évocation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (une goutte d’huile et un petit éclat de silex)
-**Portée** moyenne (30 m + 3 m/[[niveau]])
-**Cibles** 1 cible principale + 1 cible secondaire/[[niveau]] (dans un rayon de 9 m (6 cases) autour de la principale)
-**Durée** [[instantanée]]
+**École** [[Évocation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (une goutte d’huile et un petit éclat de silex)  
+**Portée** moyenne (30 m + 3 m/[[niveau]])  
+**Cibles** 1 cible principale + 1 cible secondaire/[[niveau]] (dans un rayon de 9 m (6 cases) autour de la principale)  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[éclair multiple]]*, à l’exception des précisions indiquées ci-dessus, et inflige des dégâts de feu plutôt que des dégâts d’électricité.
 
 
 
 (((
 ## Éclair multiple
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un morceau de fourrure ; un morceau d’ambre, de verre ou de cristal ; une épingle en argent par [[niveau de lanceur de sorts]])
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cibles** 1 cible principale + 1 cible secondaire/[[niveau]] (dans un rayon de 9 m (6 cases) autour de la principale)
-**Durée** [[instantanée]]
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un morceau de fourrure ; un morceau d’ambre, de verre ou de cristal ; une épingle en argent par [[niveau de lanceur de sorts]])  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cibles** 1 cible principale + 1 cible secondaire/[[niveau]] (dans un rayon de 9 m (6 cases) autour de la principale)  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort crée une violente décharge d’électricité qui part du bout des doigts du personnage. Contrairement à un éclair normal, l’éclair multiple se divise dès qu’il frappe sa première cible.
 
 La cible principale subit 1d6 points de dégâts d’électricité par [[niveau de lanceur de sorts]] (avec un maximum de 20d6). L’éclair se divise ensuite de manière à pouvoir atteindre un nombre de cibles secondaires égal au [[niveau de lanceur de sorts]] du personnage (20 maximum). Les éclairs secondaires frappent chacun une cible et infligent autant de dégâts que le premier.

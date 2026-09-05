@@ -10,7 +10,7 @@ Categories:
 
 {s:MenuÉcoles}{s:um}*Le bois représente la flexibilité, la chaleur, le vent, la générosité, la coopération et l’idéalisme. Les adeptes de cette magie élémentaire ressemblent souvent à des druides, autant au niveau de leur personnalité que de leur magie.*
 
-**Magie du bois :** Au niveau 1, le personnage ajoute les sorts suivants à sa liste de sorts de magicien :
+**Magie du bois :** Au niveau 1, le personnage ajoute les sorts suivants à sa liste de sorts de magicien : 
 2– *[[enchevêtrement]]*, 3– *[[forme darbre|forme d’arbre]]*, 4– *[[croissance végétale]]*, 5– *[[empire végétal]]*, 6– *[[voyage par les arbres]]*, 7– *[[chêne animé]]*, 8– *[[transmutation du métal en bois]]*, 9– *[[contrôle des plantes]]*
 
 **Altération flexible (Sur).** Un maître du bois est capable de ployer comme un roseau sous la contrainte et de reprendre sa place initiale d’un geste. Il gagne un bonus d’altération de +1 à la [[Dextérité]], la [[Constitution]] ou la [[Sagesse]]. Ce bonus augmente de +1 tous les cinq niveaux de magicien, avec un maximum de +5 au niveau 20. Le magicien peut attribuer ce bonus à une nouvelle caractéristique quand il prépare ses sorts. Au niveau 20, ce bonus s’applique à deux de ces caractéristiques, au choix.

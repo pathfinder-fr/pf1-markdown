@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1-6 po ; **Poids** 25 kg
+{s:AE}**Prix** 1-6 po ; **Poids** 25 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 En tant qu’animaux d’élevage, les chèvres donnent du lait, de la viande, de la fourrure et de la peau. On les utilise parfois pour nettoyer les champs envahis par les mauvaises herbes et les arbustes. Certains lanceurs de sorts en font des [[Familiers]].

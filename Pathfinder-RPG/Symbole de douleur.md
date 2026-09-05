@@ -13,14 +13,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur, mal]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (mercure et phosphore, plus un diamant et une opale en poudre (1 000 po au total))
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur, mal]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (mercure et phosphore, plus un diamant et une opale en poudre (1 000 po au total))  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort ressemble à *[[symbole de mort]]*, si ce n’est que les créatures situées dans un rayon de 18 m de la rune sont victimes de telles douleurs qu’elles reçoivent un malus de -4 aux [[jet dattaque|jets d’attaque]], aux [[test de compétence|tests de compétence]] et aux tests de caractéristique. Ces effets se poursuivent 1 heure après que les créatures ont quitté la zone.
 
 Contrairement à *[[symbole de mort]]*, *symbole de douleur* ne présente pas de limite de [[points de vie]]. Une fois déclenché, il reste actif pendant dix minutes par [[NLS|niveau de lanceur de sorts]].
@@ -31,14 +31,14 @@ Contrairement à *[[symbole de mort]]*, *symbole de douleur* ne présente pas de
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

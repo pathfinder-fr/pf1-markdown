@@ -126,12 +126,12 @@ Oui. *(Retour au <u>[[Attaque en puissance|don]]</u>)*
 
 La formulation implique que le sort intensifié utilise le niveau de sort de l’emplacement dépensé pour le préparer ou le lancer, quel qu’il soit, mais les règles viennent de la 3.5 et ne tiennent pas compte (1) de la règle normale qui permet de préparer un sort dans un emplacement plus élevé, et (2) de sa capacité à être combiné avec d’autres [[Dons#DONMETAMAGIE|dons de métamagie]].
 
-Pour le (1), avoir Augmentation d’intensité ne signifie pas que tout sort lancé avec un emplacement plus élevé est automatiquement intensifié ; le personnage doit prendre la décision de préparer ou de lancer le sort normalement ou de manière intensifiée.
-Si le personnage est un lanceur de sorts non-spontanés (comme un [[Prêtre]] ou un [[Magicien]]) qui veut préparer un sort dans un emplacement plus élevé, il n’a aucune raison de ne pas utiliser Augmentation d’intensité sur ce sort (cela ne lui coûte pas plus de temps ou autre « ressource » du jeu).
-Si le personnage est un lanceur de sorts spontanés, intensifier un sort en utilisant un emplacement plus élevé rallonge tout de même le temps d’incantation, comme n’importe quelle utilisation de la métamagie, donc il doit peser le pour et le contre entre
-• lancer le sort normalement en utilisant un emplacement plus élevé
-et,
-• augmenter le temps d’incantation nécessaire pour le lancer comme un sort intensifié afin de le traiter comme s’il était du niveau de l’emplacement dépensé.
+Pour le (1), avoir Augmentation d’intensité ne signifie pas que tout sort lancé avec un emplacement plus élevé est automatiquement intensifié ; le personnage doit prendre la décision de préparer ou de lancer le sort normalement ou de manière intensifiée.  
+Si le personnage est un lanceur de sorts non-spontanés (comme un [[Prêtre]] ou un [[Magicien]]) qui veut préparer un sort dans un emplacement plus élevé, il n’a aucune raison de ne pas utiliser Augmentation d’intensité sur ce sort (cela ne lui coûte pas plus de temps ou autre « ressource » du jeu).  
+Si le personnage est un lanceur de sorts spontanés, intensifier un sort en utilisant un emplacement plus élevé rallonge tout de même le temps d’incantation, comme n’importe quelle utilisation de la métamagie, donc il doit peser le pour et le contre entre  
+• lancer le sort normalement en utilisant un emplacement plus élevé  
+et,  
+• augmenter le temps d’incantation nécessaire pour le lancer comme un sort intensifié afin de le traiter comme s’il était du niveau de l’emplacement dépensé.  
 
 *Exemple :* Un [[Ensorceleur]] de niveau 10 pourrait lancer *[[boule de feu]]* en utilisant un emplacement de 3e, 4e ou 5e niveau, elle aurait un temps d’incantation d’une action simple seulement, compterait comme un sort de 3e niveau, et aurait un DD de 13 + le modificateur de Charisme du personnage. S’il avait Augmentation d’intensité et voulait l’intensifier en utilisant un emplacement de 4e ou de 5e niveau, elle aurait un temps d’incantation d’une action complexe, mais compterait comme un sort de 4e ou de 5e niveau et aurait un DD de 14 + modificateur de Cha (pour un sort de 4e niveau) ou 15 + modificateur de Cha (pour un sort de 5e niveau).
 
@@ -153,21 +153,21 @@ Notez que cela fonctionne différemment de la découverte [[Découvertes#BOMBESP
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|9}
 #### Canalisation supplémentaire : Si je prends ce don et que j’ai plus d’une classe avec la capacité canalisation d’énergie, dois-je assigner les utilisations supplémentaires à une classe précise en choisissant le don ?
-Non. En fait, <u>[[Canalisation supplémentaire|le don]]</u> offre au personnage deux utilisations quotidiennes « flottantes » de canalisation d’énergie, et il peut les utiliser avec n’importe qu’elle classe appropriée qu’il possède et qui confère la capacité canalisation d’énergie.
-Par exemple, si le personnage est un [[Prêtre]]/[[Nécromancie (école)|nécromancien]], chaque jour il pourrait utiliser 1 canalisation en tant que prêtre et 1 en tant que nécromancien, 2 en tant que prêtre et 0 en tant que nécromancien, ou 0 en tant que prêtre et 2 en tant que nécromancien.
+Non. En fait, <u>[[Canalisation supplémentaire|le don]]</u> offre au personnage deux utilisations quotidiennes « flottantes » de canalisation d’énergie, et il peut les utiliser avec n’importe qu’elle classe appropriée qu’il possède et qui confère la capacité canalisation d’énergie.  
+Par exemple, si le personnage est un [[Prêtre]]/[[Nécromancie (école)|nécromancien]], chaque jour il pourrait utiliser 1 canalisation en tant que prêtre et 1 en tant que nécromancien, 2 en tant que prêtre et 0 en tant que nécromancien, ou 0 en tant que prêtre et 2 en tant que nécromancien.  
 Notez que cela n’offre pas deux utilisations supplémentaires de canalisation d’énergie à *chaque* classe qui confère cette capacité — le don offre exactement deux utilisations quotidiennes supplémentaires.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Contrôle des morts-vivants : Combien de temps les morts-vivants restent-ils sous mon contrôle ?
-Les morts-vivants restent sous le contrôle du personnage indéfiniment jusqu’à ce qu’il les libère (ou, si c’est une créature morte-vivante intelligente, jusqu’à ce qu’elle réussisse son jet de sauvegarde quotidien pour résister au contrôle).
+Les morts-vivants restent sous le contrôle du personnage indéfiniment jusqu’à ce qu’il les libère (ou, si c’est une créature morte-vivante intelligente, jusqu’à ce qu’elle réussisse son jet de sauvegarde quotidien pour résister au contrôle).  
 La durée de <u>[[Contrôle des morts-vivants|ce don]]</u> n’est pas basée sur la durée de 1 minute/niveau du sort *[[contrôle des morts-vivants]]* (la référence au sort est là pour expliquer comment le personnage peut communiquer avec les morts-vivants et leur donner des ordres, pas pour définir sa durée, ses composantes matérielles, etc).
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|11}
 #### Croc-en-jambe supérieur : Comment cela interagit-il avec Piétinement vicieux (MRA) ? Le personnage a-t-il deux AOs ou seulement une ?
-Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.
-<u>[[Croc-en-jambe supérieur]]</u> offre une AO quand le personnage réussit un croc-en-jambe contre un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe à terre.
+Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.  
+<u>[[Croc-en-jambe supérieur]]</u> offre une AO quand le personnage réussit un croc-en-jambe contre un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe à terre.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).
 
 <div style="border-top:1px dashed #4b3124">
@@ -183,7 +183,7 @@ Non, utiliser <u>[[Dressage]]</u> pour entraîner un animal ou une monture de ce
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|14}
 #### Enchaînement : Puis-je faire un pas de placement pendant que j’utilise le don Enchaînement, pour amener un autre adversaire à portée d’allonge ?
-Non. <u>[[Enchaînement]]</u> est une action spéciale et ses conditions sont vérifiées au moment où le personnage la commence. À ce moment-là, toutes les cibles éligibles sont vérifiées pour qu’on soit sûr qu’elles sont adjacentes les unes aux autres et à portée d’allonge. Le personnage ne peut pas faire un [[pas de placement]] au milieu de l’action et vérifier à nouveau si les conditions sont respectées. S’il n’a pas deux cibles à portée d’allonge et adjacentes l'une à l'autre au début de l’attaque, le personnage ne peut même pas tenter d’attaque avec Enchaînement.
+Non. <u>[[Enchaînement]]</u> est une action spéciale et ses conditions sont vérifiées au moment où le personnage la commence. À ce moment-là, toutes les cibles éligibles sont vérifiées pour qu’on soit sûr qu’elles sont adjacentes les unes aux autres et à portée d’allonge. Le personnage ne peut pas faire un [[pas de placement]] au milieu de l’action et vérifier à nouveau si les conditions sont respectées. S’il n’a pas deux cibles à portée d’allonge et adjacentes l'une à l'autre au début de l’attaque, le personnage ne peut même pas tenter d’attaque avec Enchaînement.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).
 
 <div style="border-top:1px dashed #4b3124">
@@ -226,13 +226,13 @@ Non. <u>[[Frappe décisive]]</u> ne peut être utilisé que dans le cadre d’un
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|22}
 #### Incantation rapide : Un personnage peut-il utiliser Incantation rapide sur un sort avec un temps d’incantation de « 1 round » (comme *agrandissement*) ? Peut-il l’utiliser sur un sort avec un temps d’incantation de « 1 round complet » (comme un lanceur de sorts spontané utilisant un don de métamagie sur un sort) ?
-Oui et oui. Aucune de ces situations ne présente un temps d’incantation plus long que la limitation de « pas plus d’une action complexe » d’<u>[[Incantation rapide]]</u>, et peut donc être accélérée.
+Oui et oui. Aucune de ces situations ne présente un temps d’incantation plus long que la limitation de « pas plus d’une action complexe » d’<u>[[Incantation rapide]]</u>, et peut donc être accélérée.  
 Cela signifie qu’un ensorceleur pourrait lancer un *[[projectile magique]]* à [[Extension deffet|extension d’effet]] et incantation rapide par une action rapide. De même, puisque l’utilisation de plusieurs [[Dons#DONMETAMAGIE|dons de métamagie]] ne rallonge pas le temps d’incantation au-delà de 1 action complexe, un ensorceleur pourrait lancer un *[[projectile magique]]* à extension d’effet, incantation rapide, silencieuse et statique par une action rapide.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|23}
 #### Maîtrise des sorts : Un alchimiste, un magus, ou une sorcière peut-il/elle choisir ce don ?
-Comme c’est écrit, non, puisque le prérequis du <u>[[Maîtrise des sorts|don]]</u> est « magicien de niveau 1 ».
+Comme c’est écrit, non, puisque le prérequis du <u>[[Maîtrise des sorts|don]]</u> est « magicien de niveau 1 ».  
 En revanche, le don a été écrit avant l’existence des classes [[alchimiste]], [[magus]], et [[sorcière]], et il est parfaitement raisonnable de créer une règle maison qui permet à ces classes de choisir ce don et d’en appliquer les avantages au livre de formules de l’alchimiste, au grimoire du magus, ou au familier de la sorcière.
 
 <div style="border-top:1px dashed #4b3124">

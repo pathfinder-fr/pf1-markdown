@@ -123,18 +123,18 @@ Categories:
 
 </center>
 
-**Dé de vie.** d8.
+**Dé de vie.** d8. 
 
 ### Conditions requises
-Pour pouvoir devenir signifer infernal, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir signifer infernal, le personnage doit satisfaire aux conditions suivantes. 
 
-**Alignement.** N'importe quel alignement loyal.
+**Alignement.** N'importe quel alignement loyal. 
 
 **Armes et armures.** Doit être formé au port des armures intermédiaires.
 
-**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (plans), 2 rangs en [[Intimidation]].
+**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (plans), 2 rangs en [[Intimidation]]. 
 
-**Dons.** [[Prêtre guerrier]] ou [[Port de larmure magique|Port de l'armure magique]].
+**Dons.** [[Prêtre guerrier]] ou [[Port de larmure magique|Port de l'armure magique]]. 
 
 **Sorts.** Capacité à lancer des sorts de 3e niveau.
 
@@ -143,7 +143,7 @@ Pour pouvoir devenir signifer infernal, le personnage doit satisfaire aux condit
 ### Compétences de classe
 Voici les compétences de la classe du signifer infernal : [[Art de la magie]] (Int), [[Connaissances]] (toutes) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Profession]] (Sag) et [[Psychologie]] (Sag).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de signifer infernal.
@@ -164,7 +164,7 @@ Un signifer infernal doit choisir un ordre de légionnaires infernaux qu'il souh
 
 {s:reference|MASQUEDUSIGNIFER}
 #### Masque du signifer (Sur)
-Lors de son initiation, un signifer infernal reçoit un masque, souvent dépourvu de trous pour les yeux ou de toute particularité qui permettrait de le démarquer. Le masque n'obscurcit et ne bloque pas la vision du signifer infernal et tant qu'il le porte, il obtient un bonus de compétence de +2 aux tests de [[Psychologie]] et aux [[jds|jets de sauvegarde]] contre des sorts et capacités basés sur des effets visuels.
+Lors de son initiation, un signifer infernal reçoit un masque, souvent dépourvu de trous pour les yeux ou de toute particularité qui permettrait de le démarquer. Le masque n'obscurcit et ne bloque pas la vision du signifer infernal et tant qu'il le porte, il obtient un bonus de compétence de +2 aux tests de [[Psychologie]] et aux [[jds|jets de sauvegarde]] contre des sorts et capacités basés sur des effets visuels. 
 
 Un signifer infernal avec un objet fétiche venant de la capacité de classe [[magicien#PACTEMAGIQUE|pacte magique]] peut réaliser un rituel qui coûte 500 po et prend 8 heures à accomplir. Ce rituel transforme le masque du signifer infernal en son objet fétiche, qui prend alors son emplacement d'[[objet merveilleux]] sur la tête. Dans ce cas, son niveau de signifer infernal se cumule avec son niveau de classe qui lui accorde le pacte magique pour déterminer les capacités magiques supplémentaires qu'il peut rajouter à l'objet fétiche.
 
@@ -178,7 +178,7 @@ Au niveau 3, tant qu'un signifer infernal porte une [[Descriptions individuelles
 
 {s:reference|REGARDASSIDU}
 #### Regard assidu
-Au niveau 4 et encore une fois au niveau 7, un signifer infernal obtient une capacité de regard assidu choisie dans la liste ci-dessous. Un signifer infernal peut utiliser chaque regard assidu qu'il possède pendant un nombre de [[round|rounds]] égal à la moitié de son niveau de classe. Ces rounds n'ont pas à être consécutifs. Un signifer infernal peut activer sa capacité de regard assidu par une [[action rapide]] pour examiner une unique créature, un objet, ou une zone équivalente à un carré de 1,5 m (1 {s:c}) à 9 m (6 {s:c}) ou moins. Un signifer infernal doit porter son [[Signifer infernal#MASQUEDUSIGNIFER|masque du signifer]] pour pouvoir utiliser ces capacités et son [[NLS]] est égal à son niveau de personnage quand il les utilise.
+Au niveau 4 et encore une fois au niveau 7, un signifer infernal obtient une capacité de regard assidu choisie dans la liste ci-dessous. Un signifer infernal peut utiliser chaque regard assidu qu'il possède pendant un nombre de [[round|rounds]] égal à la moitié de son niveau de classe. Ces rounds n'ont pas à être consécutifs. Un signifer infernal peut activer sa capacité de regard assidu par une [[action rapide]] pour examiner une unique créature, un objet, ou une zone équivalente à un carré de 1,5 m (1 {s:c}) à 9 m (6 {s:c}) ou moins. Un signifer infernal doit porter son [[Signifer infernal#MASQUEDUSIGNIFER|masque du signifer]] pour pouvoir utiliser ces capacités et son [[NLS]] est égal à son niveau de personnage quand il les utilise. 
 - ***Élucidation (Sur).*** Le signifer infernal peut discerner tous les sorts actifs sur la cible, ce qui inclut les effets de chaque sort et leur [[NLS]]. 
 - ***Moralité (Mag).*** Le signifer infernal peut déterminer si la cible est bonne, chaotique, loyale ou mauvaise ainsi que la force de son aura comme s'il avait étudié la cible pendant 3 [[round|rounds]] avec les sorts *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection de la Loi]]* et *[[détection du Mal]]*.
 - ***Scrutation (Sur).*** Le signifer infernal peut discerner si la cible a des [[pouvoirs magiques (capacité)|pouvoirs magiques]] ou si elle est capable de lancer des sorts (que ce soient des sorts [[magie divine|divins]], [[magie profane|profanes]] ou [[la magie psychique|psychiques]]) ainsi que l'intensité (voir le sort *[[détection de la magie]]*) du sort ou du pouvoir magique le plus puissant que la cible peut actuellement lancer. 
@@ -191,7 +191,7 @@ Au niveau 6, un signifer infernal peut utiliser *[[détection du mensonge]]* com
 
 {s:reference|RESILIENCEINFERNALE}
 #### Résilience infernale (Ext)
-Au niveau 9, un signifer infernal gagne une [[RD]] 5/Chaos et devient [[Immunité (capacité)|immunisé]] aux [[poisons]].
+Au niveau 9, un signifer infernal gagne une [[RD]] 5/Chaos et devient [[Immunité (capacité)|immunisé]] aux [[poisons]]. 
 
 {s:reference|HERAUTDIABOLIQUE}
 #### Héraut diabolique (Sur)

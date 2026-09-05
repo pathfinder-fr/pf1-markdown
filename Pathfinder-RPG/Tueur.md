@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Talents (tueur)|talents de tueur]].***
+<div class="fright">***Voir aussi les [[Talents (tueur)|talents de tueur]].***  
 {s:PM0|tueur}**Voir les archétypes du tueur**&emsp;
 <li ID="tueur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypetueur}</li>
 </div>{s:mca}*Le tueur est un chasseur expérimenté, particulièrement doué pour traquer ses proies. Il ne vit que pour le frisson de la chasse et le coup de grâce qui la clôture. Un tueur passe son temps à affiner ses talents martiaux, à étudier les habitudes et l’anatomie de ses ennemis et à s’entraîner aux manoeuvres offensives.*
@@ -224,7 +224,7 @@ Le tueur est formé au maniement de toutes les armes courantes et de guerre, ain
 
 [[FAQ- Manuel des joueurs - Classes avancées#13|→]] Tueur, Cible étudiée : La progression de la cible étudiée du tueur ne mentionne pas que les bonus aux compétences augmentent au-delà de +1 aux niveaux 5, 10, 15 et 20. Devraient-ils augmenter ?**'
 
-Oui, ils devraient augmenter en même temps que le DD, l'attaque et les dégâts de la <u>[[Tueur#CIBLEETUDIEE|capacité]]</u> de tueur. Cela sera reflété dans le futur errata.}Le tueur étudie un adversaire présent dans son champ de vision par une [[action de mouvement]]. Il gagne ensuite un bonus de +1 aux tests de [[Bluff]], de [[Connaissances]], de [[Perception]], de [[Psychologie]] et de [[Survie]] contre cet adversaire et bénéficie d’un bonus de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts des armes à son encontre. Le [[DD]] de ses aptitudes de classe de tueur augmente de 1 contre la cible étudiée.
+Oui, ils devraient augmenter en même temps que le DD, l'attaque et les dégâts de la <u>[[Tueur#CIBLEETUDIEE|capacité]]</u> de tueur. Cela sera reflété dans le futur errata.}Le tueur étudie un adversaire présent dans son champ de vision par une [[action de mouvement]]. Il gagne ensuite un bonus de +1 aux tests de [[Bluff]], de [[Connaissances]], de [[Perception]], de [[Psychologie]] et de [[Survie]] contre cet adversaire et bénéficie d’un bonus de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts des armes à son encontre. Le [[DD]] de ses aptitudes de classe de tueur augmente de 1 contre la cible étudiée. 
 
 Le tueur bénéficie de ces bonus contre une cible à la fois seulement. Ils restent effectifs jusqu’à ce que la cible trépasse ou que le tueur en étudie une nouvelle.
 
@@ -248,13 +248,13 @@ Les talents marqués d’un astérisque ajoutent un effet à l’attaque sournoi
 
 {s:reference|ATTAQUESOURNOISE}
 #### Attaque sournoise
-Au niveau 3, si un tueur attaque un adversaire incapable de se défendre efficacement contre son assaut, il peut frapper un point vital pour infliger des dégâts supplémentaires. L’attaque du tueur inflige des dégâts supplémentaires à chaque fois que sa victime est privée de son bonus de [[Dextérité]] à la [[CA]] (qu’elle possède un tel bonus ou non) ou quand le tueur la [[prise en tenaille|prend en tenaille]]. Ces dégâts supplémentaires s’élèvent à 1d6 au niveau 3 et augmentent ensuite de 1d6 tous les trois niveaux.
+Au niveau 3, si un tueur attaque un adversaire incapable de se défendre efficacement contre son assaut, il peut frapper un point vital pour infliger des dégâts supplémentaires. L’attaque du tueur inflige des dégâts supplémentaires à chaque fois que sa victime est privée de son bonus de [[Dextérité]] à la [[CA]] (qu’elle possède un tel bonus ou non) ou quand le tueur la [[prise en tenaille|prend en tenaille]]. Ces dégâts supplémentaires s’élèvent à 1d6 au niveau 3 et augmentent ensuite de 1d6 tous les trois niveaux. 
 
 Si le tueur réussit un [[coup critique]] lors d’une attaque sournoise, il ne multiplie pas les dégâts supplémentaires.
 
 Les attaques à distance fonctionnent comme des attaques sournoises à condition que la cible se trouve à 9 mètres (6 {s:c}) ou moins.
 
-Le tueur peut effectuer une attaque sournoise infligeant des dégâts supplémentaires non-létaux avec une arme conçue pour infliger des dégâts non-létaux, comme une matraque, un fouet ou ses mains nues. Si son arme inflige des [[dégâts létaux]], il ne peut pas s’en servir pour infliger des dégâts supplémentaires non-létaux, pas même avec le malus de –4.
+Le tueur peut effectuer une attaque sournoise infligeant des dégâts supplémentaires non-létaux avec une arme conçue pour infliger des dégâts non-létaux, comme une matraque, un fouet ou ses mains nues. Si son arme inflige des [[dégâts létaux]], il ne peut pas s’en servir pour infliger des dégâts supplémentaires non-létaux, pas même avec le malus de –4. 
 
 Le tueur doit voir sa cible assez distinctement pour repérer un point vital et doit être en mesure de l’atteindre. Il ne peut pas porter d’attaque sournoise contre une créature qui bénéficie d’un [[camouflage]].
 
@@ -264,7 +264,7 @@ Le tueur doit voir sa cible assez distinctement pour repérer un point vital et 
 
 {s:reference|TALENTDEMAITRETUEUR}
 #### Talents de maître tueur
-À partir du niveau 10 puis tous les deux niveaux, le tueur peut choisir un talent de maître tueur au lieu d’un talent de tueur.
+À partir du niveau 10 puis tous les deux niveaux, le tueur peut choisir un talent de maître tueur au lieu d’un talent de tueur. 
 
 *Voir la [[Talents (tueur)|liste des talents de maître tueur]].*
 
@@ -274,11 +274,11 @@ Au niveau 11, le tueur se déplace à sa [[VD|vitesse normale]] quand il utilise
 
 {s:reference|AVANCEEDUTUEUR}
 #### Avancée du tueur (Ext)
-Au niveau 13, le tueur peut, une fois par jour, se déplacer du double de sa vitesse de base lors d’une [[action de mouvement]]. Il peut utiliser la [[Discrétion]] lors de ce déplacement mais subit alors un malus de –10 au test. Au niveau 17, il peut utiliser ce pouvoir deux fois par jour.
+Au niveau 13, le tueur peut, une fois par jour, se déplacer du double de sa vitesse de base lors d’une [[action de mouvement]]. Il peut utiliser la [[Discrétion]] lors de ce déplacement mais subit alors un malus de –10 au test. Au niveau 17, il peut utiliser ce pouvoir deux fois par jour. 
 
 {s:reference|PROIEDUCHASSEUR}
 #### Proie du chasseur (Ext)
-Au niveau 14, le tueur choisit une cible située dans son champ de vision et en fait sa proie par une [[action simple]]. Quand il suit la piste que laisse sa proie, il peut faire 10 à son test de [[Survie]] en se déplaçant à sa vitesse normale, sans subir de malus. De plus, il gagne un bonus d’intuition de +2 aux [[jet dattaque|jets d’attaque]] contre sa proie et confirme automatiquement tous les [[coup critique|critiques]] à son encontre.
+Au niveau 14, le tueur choisit une cible située dans son champ de vision et en fait sa proie par une [[action simple]]. Quand il suit la piste que laisse sa proie, il peut faire 10 à son test de [[Survie]] en se déplaçant à sa vitesse normale, sans subir de malus. De plus, il gagne un bonus d’intuition de +2 aux [[jet dattaque|jets d’attaque]] contre sa proie et confirme automatiquement tous les [[coup critique|critiques]] à son encontre. 
 
 Le tueur ne peut pas avoir plus d’une proie à la fois et elle doit faire partie des cibles qu’il a étudiées. Il peut dissiper cet effet quand il le désire par une [[action libre]] mais il ne peut pas choisir une nouvelle proie avant 24 heures. S’il a la preuve que sa proie est morte, il peut en choisir une nouvelle une heure plus tard.
 
@@ -288,7 +288,7 @@ Au niveau 19, le tueur développe son art de traquer les proies. Il choisit sa p
 
 {s:reference|MAITRETUEUR}
 #### Maître tueur (Ext)
-Au niveau 20, le tueur est un virtuose dans l’art de capturer ou de tuer ses proies. Il peut faire une unique attaque contre une cible étudiée par une action simple, avec son meilleur bonus à l’attaque, et choisir l’un des effets suivants : tuer, assommer pendant 1d4 heures ou paralyser pendant 2d6 rounds.
+Au niveau 20, le tueur est un virtuose dans l’art de capturer ou de tuer ses proies. Il peut faire une unique attaque contre une cible étudiée par une action simple, avec son meilleur bonus à l’attaque, et choisir l’un des effets suivants : tuer, assommer pendant 1d4 heures ou paralyser pendant 2d6 rounds. 
 
 S’il réussit son attaque, la cible subit les dégâts normaux et doit réussir un jet de [[Vigueur]] ou subir l’effet supplémentaire. Le [[DD]] du jet est de 10 + 1/2 niveau du tueur + son modificateur d’[[Intelligence]].
 

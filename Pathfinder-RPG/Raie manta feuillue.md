@@ -41,13 +41,13 @@ LastModified: 2016-11-20 15:29
 semblables à celles d’un poisson-chat ainsi que d’un dard menaçant au
 bout de la queue. ''
 
-Les raies manta feuillues poussent dans la partie supérieure de la canopée des grands arbres et volent à la recherche de nourriture. À peine douées de conscience, elles sont tout de même suffisamment intelligentes pour trouver leur nourriture et sélectionner les créatures appropriées dans lesquelles implanter leurs graines. Les raies ne se montrent pas difficiles dans le choix de leurs victimes et de leur nourriture : il faut que ce soient des créatures vivantes au sang chaud, de préférence des mammifères.
+Les raies manta feuillues poussent dans la partie supérieure de la canopée des grands arbres et volent à la recherche de nourriture. À peine douées de conscience, elles sont tout de même suffisamment intelligentes pour trouver leur nourriture et sélectionner les créatures appropriées dans lesquelles implanter leurs graines. Les raies ne se montrent pas difficiles dans le choix de leurs victimes et de leur nourriture : il faut que ce soient des créatures vivantes au sang chaud, de préférence des mammifères. 
 
 Les raies manta feuillues commencent leur existence sous forme de bourgeon, au sommet des arbres à feuilles caduques, et nouent une relation symbiotique avec l’arbre sur lequel elles se développent. Elles déposent souvent les restes de leurs victimes sous leur arbre nourricier pour fertiliser la terre. Sous forme de bourgeon, la raie manta feuillue passe son temps à contracter ses muscles face aux vents afin de s’entraîner à voler. Une fois mature, elle rompt la tige en forme de dard qui la relie à son arbre nourricier et prend son premier envol. La raie manta feuillue mesure presque un mètre et ne pèse qu’un kilogramme.
 
 
 #### Variante de raies manta feuillues
-Les raies manta feuillues changent de couleur en fonction des saisons mais ne meurent pas l’hiver venu. Le profil ci-dessus présente une raie manta feuillue pendant le printemps et l’été. Les variantes suivantes correspondent aux divers changements de saison.
+Les raies manta feuillues changent de couleur en fonction des saisons mais ne meurent pas l’hiver venu. Le profil ci-dessus présente une raie manta feuillue pendant le printemps et l’été. Les variantes suivantes correspondent aux divers changements de saison. 
 - Automne. La raie manta feuillue prend des teintes jaunes et rouges d’automne. Son poison se modifie, infligeant un affaiblissement  temporaire de Force plutôt que de Dextérité. 
 - Hiver. La raie manta feuillue prend les teintes marron et gris de l’hiver et son poison inflige un affaiblissement  temporaire de Constitution plutôt que de Dextérité. À cause de cela, peu de raies parviennent à implanter leurs graines  pendant cette saison.
 

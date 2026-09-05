@@ -12,7 +12,7 @@ Categories:
 Au niveau 3, lorsque l'arbalétrier effectue une attaque à l'arbalète par une [[action préparée]], il ajoute la moitié de son bonus de [[dextérité]] (minimum +1) à son jet de dégâts. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1.
 
 #### Expert à l'arbalète (Ext).
-Au niveau 5, l'arbalétrier reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il se sert d'une arbalète. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 1
+Au niveau 5, l'arbalétrier reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il se sert d'une arbalète. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 1 
 
 #### Science du coup mortel (Ext).
 Au niveau 7, lorsque l'arbalétrier effectue une attaque à l'arbalète par une action préparée, sa cible ne bénéficie pas de son bonus de [[Dextérité]] à sa CA. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 2.

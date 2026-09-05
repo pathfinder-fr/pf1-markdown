@@ -48,40 +48,40 @@ Categories:
 {s:BDTexte|**Planeur (Ext).** Un hydrodaémon peut se lancer dans les airs et planer pendant 1 minute. Il gagne alors une vitesse de vol de 12 mètres avec une manœuvrabilité moyenne. Lorsqu’il plane, l’hydrodaémon gagne la capacité de [[bond]].}
 
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
-''Ce  fiélon  ressemblant  à  une  grenouille  a  une  peau  moite  et  des  yeux
-laiteux qui semblent morts. Une large gueule garnie de dents acérées fend
+''Ce  fiélon  ressemblant  à  une  grenouille  a  une  peau  moite  et  des  yeux 
+laiteux qui semblent morts. Une large gueule garnie de dents acérées fend 
 son visage en deux.''
 
-À  première  vue,  ces  créatures  ressemblent  à  des [[bourbiérin|bourbiérins]]
-énormes et sales mais leur démarche menaçante, leurs yeux morts
-et leurs griffes acérées trahissent leur nature de fiélons. Dans leur
-environnement  d’origine,  les  hydrodaémons  nagent  au  sein  des
-eaux empoisonnées des rivières et des mers d’Abaddon ou du Styx :
-ils s’enfoncent dans les flux de pus et de bile pour pouvoir mieux
-bondir  vers  leurs  ennemis  et  les  découper  en  lambeaux  à  l’aide
-de leurs dents et de leurs griffes. On dit que qu’ils font partie des
-rares créatures capables de survivre dans les dangereuses eaux du
-Styx. Quand un hydrodaémon est appelé sur le plan Matériel, c’est
-souvent pour servir un puissant lanceur de sorts ou pour protéger
-un domaine parsemés d’étangs et de ruisseaux ou même une zone
-d’égouts.  Ces  fiélons  associés  à  la  mort  par  noyade  recourent  à
-des  techniques  ancestrales  pour  accroître  les  angoisses  de  leurs
-victimes.  Les  hydrodaémons  attaquent  tout  d’abord  en  utilisant
-leur crachat de sommeil noir comme de l’encre, espérant rendre
-leurs victimes inconscientes. Une fois que leurs adversaires sont
-incapables  de  contre-attaquer,  les  hydrodaémons  les  emmènent
-vers les eaux putrides qui leur servent de repaire et jouissent de
-voir ce liquide remplir les poumons des victimes qui suffoquent.
-Et, s’ils ne parviennent pas à les noyer, c’est avec leurs mâchoires
+À  première  vue,  ces  créatures  ressemblent  à  des [[bourbiérin|bourbiérins]] 
+énormes et sales mais leur démarche menaçante, leurs yeux morts 
+et leurs griffes acérées trahissent leur nature de fiélons. Dans leur 
+environnement  d’origine,  les  hydrodaémons  nagent  au  sein  des 
+eaux empoisonnées des rivières et des mers d’Abaddon ou du Styx : 
+ils s’enfoncent dans les flux de pus et de bile pour pouvoir mieux 
+bondir  vers  leurs  ennemis  et  les  découper  en  lambeaux  à  l’aide 
+de leurs dents et de leurs griffes. On dit que qu’ils font partie des 
+rares créatures capables de survivre dans les dangereuses eaux du 
+Styx. Quand un hydrodaémon est appelé sur le plan Matériel, c’est 
+souvent pour servir un puissant lanceur de sorts ou pour protéger 
+un domaine parsemés d’étangs et de ruisseaux ou même une zone 
+d’égouts.  Ces  fiélons  associés  à  la  mort  par  noyade  recourent  à 
+des  techniques  ancestrales  pour  accroître  les  angoisses  de  leurs 
+victimes.  Les  hydrodaémons  attaquent  tout  d’abord  en  utilisant 
+leur crachat de sommeil noir comme de l’encre, espérant rendre 
+leurs victimes inconscientes. Une fois que leurs adversaires sont 
+incapables  de  contre-attaquer,  les  hydrodaémons  les  emmènent 
+vers les eaux putrides qui leur servent de repaire et jouissent de 
+voir ce liquide remplir les poumons des victimes qui suffoquent. 
+Et, s’ils ne parviennent pas à les noyer, c’est avec leurs mâchoires 
 et leurs griffes qu’ils achèvent leurs proies.
 
-Les  hydrodaémons  ont  une  démarche  étrange  :  ils  sautillent
-sur leur talons et se déplacent par bonds comme des grenouilles
-humanoïdes. En plus de cela, ils bougent de manière imprévisible
-en  contorsionnant  leur  corps  à  chaque  petit  bond.  Ils  peuvent
-également  étendre  des  membranes  de  peau  qui  leur  permettent
-de  planer  sur  l’air.  Les  hydrodaémons  mesurent  3  mètres  de
-hauteur  et  pèsent
-1  500  kg  ou
+Les  hydrodaémons  ont  une  démarche  étrange  :  ils  sautillent 
+sur leur talons et se déplacent par bonds comme des grenouilles 
+humanoïdes. En plus de cela, ils bougent de manière imprévisible 
+en  contorsionnant  leur  corps  à  chaque  petit  bond.  Ils  peuvent 
+également  étendre  des  membranes  de  peau  qui  leur  permettent 
+de  planer  sur  l’air.  Les  hydrodaémons  mesurent  3  mètres  de 
+hauteur  et  pèsent 
+1  500  kg  ou 
 plus.
 </div></td></tr></table>

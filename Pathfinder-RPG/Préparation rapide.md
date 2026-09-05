@@ -10,8 +10,8 @@ Categories:
 
 {s:RSE}*Le personnage a appris très tôt dans sa carrière d’aventurier (peut-être même à la dure) comment préparer ses sorts, même en un temps terriblement limité.*
 
-**Conditions.** Capacité à préparer des sorts.
+**Conditions.** Capacité à préparer des sorts. 
 
-**Avantages.** Le personnage met moitié moins de temps que la normale pour préparer ses sorts.
+**Avantages.** Le personnage met moitié moins de temps que la normale pour préparer ses sorts. 
 
 **Normal.** Il faut une heure au personnage pour préparer tous ses sorts.

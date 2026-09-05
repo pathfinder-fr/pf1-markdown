@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Calistria|%2fPCUP%2fReligion-PNG%2fCalistria.png}{s:cs}{s:ISG}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cibles** créature touchée
-**Durée** 10 minutes/niveau
+{s:divin|Calistria|%2fPCUP%2fReligion-PNG%2fCalistria.png}{s:cs}{s:ISG}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cibles** créature touchée  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non (inoffensif)
 
 Ce sort permet à la cible d'envoyer des messages secrets dissimulés au sein d'un discours normal. Il est similaire à la transmission de messages secrets de la compétence [[Bluff]], mais aucun test n'est nécessaire ; le destinataire de l'orateur comprend toujours parfaitement le message caché, mais les autres auditeurs sont incapables de l'intercepter. La cible ne peut transmettre qu'un message à la fois, mais elle peut l'envoyer à plusieurs destinataires. Le message secret est considéré comme étant dans la même langue que celle parlée par la cible, et les destinataires entendent et comprennent à la fois le discours réel et le message secret. La cible peut se faire comprendre aussi loin que sa voix porte.

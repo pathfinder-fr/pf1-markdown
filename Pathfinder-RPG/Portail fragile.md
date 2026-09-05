@@ -14,12 +14,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:ISG}{s:GeM}**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Antipal]] 2, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone d'effet** étendue de 1,50 m de rayon
-**Durée** 1 [[round]]/[[niveau]]
+{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:ISG}{s:GeM}**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Antipal]] 2, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone d'effet** étendue de 1,50 m de rayon  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** Volonté, annule (objet) ; **Résistance à la magie** oui
 
 Ce sort affaiblit les liens de l’existence et réduit de 2 par [[NLS|niveau de lanceur]] la [[solidité]] de n’importe quelle surface non-magique se trouvant dans sa zone d’effet. Le sort est centré sur une surface plane choisie par le lanceur et l’effet de réduction de la solidité persiste pour la durée du sort.

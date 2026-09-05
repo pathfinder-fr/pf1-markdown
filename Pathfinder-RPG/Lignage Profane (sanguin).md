@@ -11,7 +11,7 @@ Categories:
 
 {s:Menulignagessanguin}{s:mca}*Les gens tels que le personnage deviennent habituellement de puissants magiciens ou ensorceleurs mais le sang qui coule dans ses veines est si étrange qu’il a fait de lui une terreur destructrice de sorts.*
 
-**Dons supplémentaires.** [[Arme en main]], [[Attaque en puissance]], [[Attaques réflexes]], [[Briseur de sorts]]*, [[Perturbateur]]*, [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]
+**Dons supplémentaires.** [[Arme en main]], [[Attaque en puissance]], [[Attaques réflexes]], [[Briseur de sorts]]*, [[Perturbateur]]*, [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]] 
 
 (Le niveau de sanguin du personnage compte comme le niveau de guerrier quand il s’agit de remplir les conditions requises des dons indiqués par un astérisque (*). Il se cumule avec l’éventuel niveau de guerrier du personnage).
 

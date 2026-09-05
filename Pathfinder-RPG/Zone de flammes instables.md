@@ -8,12 +8,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un morceau d’écorce prélevé sur un arbre brûlé de la forêt mystérieuse de l'État serviteur de l'Ombre)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Zone d'effet** étendue de 6 m de rayon
-**Durée** 1 minute/niveau
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un morceau d’écorce prélevé sur un arbre brûlé de la forêt mystérieuse de l'État serviteur de l'Ombre)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Zone d'effet** étendue de 6 m de rayon  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Les druides corrompus de la forêt mystérieuse de l'État serviteur de l'Ombre ont abandonné depuis des lustres l’utilisation du feu pour la gloire du dieu de la torture. Malgré cette aversion, les serviteurs de l'Ombre connaissent la morsure des flammes et ont appris à la retourner contre ceux qui s’en servent.*

@@ -8,7 +8,7 @@ Categories:
 
 {s:MR}*Plutôt que d’être un animal ou une créature normal, le compagnon ou familier de l’aasimar vient des royaumes célestes.*
 
-**Conditions requises.** [[aasimar (race)|Aasimar]], [[compagnon animal]], [[familier]] ou aptitude de classe monture.
+**Conditions requises.** [[aasimar (race)|Aasimar]], [[compagnon animal]], [[familier]] ou aptitude de classe monture. 
 
 {s:FAQ|***[[FAQ- Manuel des races#6|→]] Serviteur céleste : Ce don remplace-t-il les DV, jets de sauvegarde et rangs de compétence de ma créature compagnon à cause du changement de type ?***
 

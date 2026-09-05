@@ -15,7 +15,7 @@ La marchetombe remplace quelques sorts de protecteurs par les suivants : 4– *[
 
 
 #### Poupée maléfique
-Chaque marchetombe porte sur elle une macabre poupée inanimée, faite de peau humaine cousue rembourrée d’éclats d’os, de rognures d’ongle et de poussière tombale. Les sorts de la marchetombe lui viennent des esprits maléfiques qui résident dans la poupée. Cette dernière stocke les sorts comme un [[Sorcière#FAMILIER|familier]] de sorcière ordinaire. Chaque jour, la marchetombe doit communier avec sa poupée pour préparer ses sorts. Elle ne peut pas le faire si le sort n’est pas contenu dans la poupée. Ce pouvoir remplace celui de familier.
+Chaque marchetombe porte sur elle une macabre poupée inanimée, faite de peau humaine cousue rembourrée d’éclats d’os, de rognures d’ongle et de poussière tombale. Les sorts de la marchetombe lui viennent des esprits maléfiques qui résident dans la poupée. Cette dernière stocke les sorts comme un [[Sorcière#FAMILIER|familier]] de sorcière ordinaire. Chaque jour, la marchetombe doit communier avec sa poupée pour préparer ses sorts. Elle ne peut pas le faire si le sort n’est pas contenu dans la poupée. Ce pouvoir remplace celui de familier. 
 
 Voici les pouvoirs de familier qui fonctionnent différemment pour la marchetombe.
 

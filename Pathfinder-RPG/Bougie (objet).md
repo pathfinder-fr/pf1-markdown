@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pc ; **Poids** —
+{s:AE}**Prix** 1 pc ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 La bougie illumine faiblement une petite zone, augmentant sa [[Exploration#VISIONLUMIERE|luminosité]] d'une catégorie dans un rayon de 1,50 mètre (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). Les bougies ne peuvent pas augmenter la luminosité au-delà de la lumière normale. Une bougie brûle pendant 1 heure.

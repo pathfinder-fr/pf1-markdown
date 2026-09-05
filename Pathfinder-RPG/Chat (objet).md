@@ -8,9 +8,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 pc (standard), 6 po (sage du désert) ; **Poids** 4 kg (standard), 4 kg (sage du désert)
+{s:AE}**Prix** 3 pc (standard), 6 po (sage du désert) ; **Poids** 4 kg (standard), 4 kg (sage du désert)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces animaux de taille TP servent souvent d’animaux de compagnie ou de [[Familiers]]. Bien que petits, ce sont d’excellents chasseurs. Les céréaliers ont généralement des chats pour limiter propagation de la vermine dans les zones de stockage des récoltes mais on trouve des chats dans la plupart des régions et beaucoup de chats errants rôdent dans les villes. Voir les statistiques du [[chat]].  
   
 {s:cs}{s:AA}*Chat « sage du désert »*. Les sages du désert sont prisés pour leur stature et leurs yeux bleu foncé.

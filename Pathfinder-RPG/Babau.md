@@ -48,7 +48,7 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Cette créature émaciée ressemble à un squelette d’humain cornu recouvert d’une fine peau de cuir huileux qui lui colle aux os.*
 
-Les babaus sont des assassins et des meurtriers sadiques. Il s’agit de caractéristiques courantes chez les démons mais les babaus se distinguent de leurs cousins généralement moins subtils par un penchant pour la discrétion et les embuscades. Les babaus n’ont pas besoin de se nourrir mais la plupart d’entre eux apprécient le goût que la chair des mortels dépose sur leur longues langues râpeuses.
+Les babaus sont des assassins et des meurtriers sadiques. Il s’agit de caractéristiques courantes chez les démons mais les babaus se distinguent de leurs cousins généralement moins subtils par un penchant pour la discrétion et les embuscades. Les babaus n’ont pas besoin de se nourrir mais la plupart d’entre eux apprécient le goût que la chair des mortels dépose sur leur longues langues râpeuses. 
 
 Les babaus peuvent rester tapis en embuscade pendant des années ou des décennies. La patience inhumaine dont ils font preuve lorsqu’ils s’attendent à pouvoir effectuer un meurtre parfaitement orchestré est une seconde caractéristique qui les distingue des autres habitants des Abysses. Les babaus sont obsédés par l’art morbide du meurtre et ils en tirent une grande fierté. Ils laissent souvent derrière eux une marque sinistre ou une signature cachée, qui peut prendre la forme d’un modus operandi distinctif, d’un symbole terrifiant ou d’un autre signe macabre.
 

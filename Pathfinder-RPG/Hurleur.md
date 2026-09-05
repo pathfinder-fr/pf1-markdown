@@ -37,55 +37,55 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou meute (2-4)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Douleur (Ext)** Chaque fois qu’une créature est blessée par une attaque de piquant ou par la capacité
-de piquants protecteurs d’un hurleur, elle doit réussir un jet de Réflexes de DD 14 pour éviter qu’un des piquants ne se brise et ne s’enfonce dans sa chair, ce qui la rend fiévreuse jusqu’à ce que tous les piquants soit enlevés. Il faut réussir un test de Premiers secours de DD 15 pour parvenir à enlever le piquant (cela nécessite une action complexe). Pour chaque
-tranche de 5 points de réussite (la différence entre le résultat du test et le DD), l’action permet d’enlever un piquant de
+{s:BDTexte|**Douleur (Ext)** Chaque fois qu’une créature est blessée par une attaque de piquant ou par la capacité 
+de piquants protecteurs d’un hurleur, elle doit réussir un jet de Réflexes de DD 14 pour éviter qu’un des piquants ne se brise et ne s’enfonce dans sa chair, ce qui la rend fiévreuse jusqu’à ce que tous les piquants soit enlevés. Il faut réussir un test de Premiers secours de DD 15 pour parvenir à enlever le piquant (cela nécessite une action complexe). Pour chaque 
+tranche de 5 points de réussite (la différence entre le résultat du test et le DD), l’action permet d’enlever un piquant de 
 plus. En cas d’échec, un piquant est enlevé mais le processus inflige 1d4+1 points de dégâts de type perforant à la victime. Le DD du jet de sauvegarde dépend de la Dextérité.}
 {s:BDTexte|**Hurlement (Sur)** Les hurlements incessants d’un hurleur ressemblent à des aboiements énervants et fatigants qui peuvent rendre fous ceux qui les entendent. Toutes les créatures autres qu’Extérieur et situées dans un rayon de 36 mètres autour d’un hurleur qui hurle doivent réussir un jet de Volonté de DD 12 ou être maudites par le hurle-ment. Une créature affectée par cette malédiction ne reçoit pas de pénalité supplémentaire même si elle est exposée aux hurlements d’autres hurleurs (du moins tant que la malédiction qui la touche n’est pas supprimée). Il s’agit d’un effet mental de son. Le DD du jet de sauvegarde dépend du Charisme. Malédiction du hurleur : Malédiction — hurlement ; *JdS* Volonté DD 12 ; *fréquence* 1/heure ; *effet* affaiblissement temporaire 1 Sag ; *guérison* 1 réussite.}
 {s:BDTexte|**Piquants protecteurs(Ext)** Toutes les créatures qui frappent un hurleur à l’aide d’une arme de corps à corps sans allonge, d’une attaque à main nue ou d’une attaque naturelle subissent 1d4+1 points de dégâts de type perforant à cause des piquants et s’exposent à l’attaque de douleur du hurleur.}
 </div>
 
-</td><td><div>''Cet horrible prédateur a la peau aussi épaisse et résistante que du cuir.
-De dangereuses épines noires garnissent l’arrière de sa tête, de son corps
+</td><td><div>''Cet horrible prédateur a la peau aussi épaisse et résistante que du cuir. 
+De dangereuses épines noires garnissent l’arrière de sa tête, de son corps 
 et de sa queue.''
 
-Les hurleurs proviennent des Abysses, un plan Extérieur où la
-folie et la cruauté sont la norme et où le sadisme est récompensé.
-Ils  sillonnent  ces  royaumes  abyssaux  comme  des  prédateurs
-affamés similaires aux lions et aux tigres. Ils sont cependant bien
-plus intelligents que ces grands félins et bien plus cruels encore,
-car ils ne cherchent pas à dévorer leurs proies. Ils n’ont pas besoin
-de se nourrir pour vivre. Ils aiment tout simplement pourchasser,
-malmener et tuer des créatures vivantes. D’une certaine manière,
-les hurleurs tirent leur subsistance des intenses douleurs et de la
+Les hurleurs proviennent des Abysses, un plan Extérieur où la 
+folie et la cruauté sont la norme et où le sadisme est récompensé. 
+Ils  sillonnent  ces  royaumes  abyssaux  comme  des  prédateurs 
+affamés similaires aux lions et aux tigres. Ils sont cependant bien 
+plus intelligents que ces grands félins et bien plus cruels encore, 
+car ils ne cherchent pas à dévorer leurs proies. Ils n’ont pas besoin 
+de se nourrir pour vivre. Ils aiment tout simplement pourchasser, 
+malmener et tuer des créatures vivantes. D’une certaine manière, 
+les hurleurs tirent leur subsistance des intenses douleurs et de la 
 démence qu’ils infligent aux mortels.
-À cause de leur crinière de piquants acérés,
-les hurleurs font de bien piètres montures
-pour  la  plupart  des  cavaliers  mais  ils
-peuvent  parfaitement  remplir  le  rôle  de
-gardiens ou de sentinelles, tout spécialement
-au service des Extérieurs qui, même s’ils
-n’apprécient peut-être pas les hurlements
-incessants de ces créatures, ne subissent
-pas  les  effets  de  ces  puissants  sons
-surnaturels. Quand un hurleur repère
-une proie, ses hurlements se modifient.
-Les hurleurs ne savent pas parler, mais
-ils peuvent se servir de leurs hurlements
-pour  communiquer  certaines
-informations  si  cela  s’avère  nécessaire.
-Ils  comprennent  l’abyssal  et,  lorsqu’ils
-servent  les  démons  comme  gardiens,
-leurs  hurlements  leur  permet  non
-seulement  d’avertir  leurs  maîtres
-de  la  présence  d’intrus,  mais
-également de leur communiquer
-leur  nombre,  leur  apparence  et
+À cause de leur crinière de piquants acérés, 
+les hurleurs font de bien piètres montures 
+pour  la  plupart  des  cavaliers  mais  ils 
+peuvent  parfaitement  remplir  le  rôle  de 
+gardiens ou de sentinelles, tout spécialement 
+au service des Extérieurs qui, même s’ils 
+n’apprécient peut-être pas les hurlements 
+incessants de ces créatures, ne subissent 
+pas  les  effets  de  ces  puissants  sons 
+surnaturels. Quand un hurleur repère 
+une proie, ses hurlements se modifient. 
+Les hurleurs ne savent pas parler, mais 
+ils peuvent se servir de leurs hurlements 
+pour  communiquer  certaines 
+informations  si  cela  s’avère  nécessaire. 
+Ils  comprennent  l’abyssal  et,  lorsqu’ils 
+servent  les  démons  comme  gardiens, 
+leurs  hurlements  leur  permet  non 
+seulement  d’avertir  leurs  maîtres 
+de  la  présence  d’intrus,  mais 
+également de leur communiquer 
+leur  nombre,  leur  apparence  et 
 leurs points faibles.
-Un  hurleur  fait  à  peu  près  la
-même taille qu’un tigre : 3,60 mètres
-du  museau  au  bout  de  la  queue,  pour
-un  poids  de  3  000  kg.  Ils  sont  généralement
-de couleur pâle, avec des piquants plus sombres et des
+Un  hurleur  fait  à  peu  près  la 
+même taille qu’un tigre : 3,60 mètres 
+du  museau  au  bout  de  la  queue,  pour 
+un  poids  de  3  000  kg.  Ils  sont  généralement 
+de couleur pâle, avec des piquants plus sombres et des 
 yeux d’un blanc laiteux.
 </div></td></tr></table>

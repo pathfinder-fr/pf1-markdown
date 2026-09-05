@@ -18,7 +18,7 @@ Categories:
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 **Cible** une créature ou un objet à portée et le lanceur de sorts  
 **Durée** [[instantanée]]  
-**Jet de sauvegarde** non ; **Résistance à la magie** oui
+**Jet de sauvegarde** non ; **Résistance à la magie** oui 
 
 Le personnage crée un crochet de force qui frappe la cible et attire le personnage dans une case adjacente à elle. Il doit faire une [[attaque de contact à distance]] contre la cible. S’il réussit, la cible subit 1 point de dégâts de force par [[NLS|niveau de lanceur de sorts]]. Que l’attaque touche ou non, le crochet de force attire le personnage en ligne droite jusqu’à une case adjacente à la cible. Ce déplacement provoque des [[attaque dopportunité|attaques d’opportunité]] normales. Le crochet empêche le personnage de tomber lors de son déplacement, il peut donc s’en servir pour traverser une fosse ou atteindre un point plus élevé ou plus bas. Si la ligne d’effet entre le personnage et sa cible passe par une zone trop étroite pour son corps (comme une herse ou une meurtrière), le crochet tire le personnage jusqu’à cet emplacement et il subit des dégâts comme s’il avait fait une chute depuis son point de départ jusqu’à ce point d’arrivée. Si le personnage est [[enchevêtré|entravé]], s’il est enchaîné à un mur par exemple, le crochet le tire aussi loin que lui permettent ses liens mais ne les brise pas.
 

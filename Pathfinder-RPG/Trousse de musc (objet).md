@@ -7,9 +7,9 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 25 po ; **Poids** 0,5 kg
+{s:MCA}**Prix** 25 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 La trousse de musc se compose d'une dizaine de fioles de fluides concentrés, de glandes animales préparées et de composés végétaux. Le personnage peut utiliser les muscs fortement parfumés pour marquer des possessions, des lieux et des pistes qu'il est ensuite possible d'identifier ou de suivre à l'odeur. Certains chasseurs plongent leurs flèches ou autres armes dans le musc afin de marquer et de pister les proies blessées.  
   
 Autrement, le personnage peut utiliser un maximum de quatre fioles à la fois pour attirer 2d6 animaux de taille TP jusqu'à l'endroit marqué par le musc. Les animaux arrivent au bout d'environ une heure et appartiennent aux espèces les plus courantes des alentours immédiats.

@@ -14,7 +14,7 @@ Categories:
 
 **Conditions.** [[Science de la lutte]] ; [[BBA]] +6, pouvoir de classe déluge du [[lutteur]] ou pouvoir de classe [[Moine#DELUGEDECOUPS|déluge de coups]].
 
-**Avantage.** Quand il utilise ce don, le personnage ne reçoit pas le malus de -4 aux tests de manoeuvre offensive pour [[lutte|agripper]] un ennemi avec une seule main. De plus, il ne perd pas son bonus de [[Dextérité]] à la [[CA]] quand il immobilise un adversaire.
+**Avantage.** Quand il utilise ce don, le personnage ne reçoit pas le malus de -4 aux tests de manoeuvre offensive pour [[lutte|agripper]] un ennemi avec une seule main. De plus, il ne perd pas son bonus de [[Dextérité]] à la [[CA]] quand il immobilise un adversaire. 
 
 **Normal.** Si le personnage n’a pas les deux mains libres, il reçoit un malus de -4 au test de manœuvre offensive pour agripper un ennemi. Lorsqu’il immobilise un adversaire, il perd son bonus de Dextérité à la CA.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** —
+{s:AE}**Prix** 1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce petit carré de papier de 30 centimètres de côté a une face couverte d'une colle faible ou d'un matériau collant tel que de la sève ou du miel. On le conserve plié en deux. Si le personnage applique du papier glu sur une fenêtre avant de la briser, les éclats de verre se collent sur le papier plutôt que de tomber bruyamment au sol. Le papier glu est à usage unique.

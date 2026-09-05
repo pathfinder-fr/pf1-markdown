@@ -60,7 +60,7 @@ On ne sait pas quelle force étrange a pu faire grossir les premières
 limaces géantes jusqu’à de pareilles tailles mais, aujourd’hui, ces
 créatures se reproduisent normalement et donnent naissance à
 leurs énormes enfants au terme d’une parade nuptiale au cours de
-laquelle ils tortillent leurs corps spongieux.
+laquelle ils tortillent leurs corps spongieux. 
 
 Après l’accouplement,
 la femelle pond un peu plus d’une centaine d’œufs mesurant chacun
@@ -77,7 +77,7 @@ empathique avec les vermines, peuvent domestiquer les limaces
 géantes mais, dans la plupart des cas, les créatures qui voudraient
 apprivoiser ces immenses bêtes doivent rester très prudentes et
 s’assurer qu’elles restent bien nourries jusqu’au moment où elles
-sont appelées à combattre.
+sont appelées à combattre. 
 
 Certaines rumeurs effrayantes parlent d’armées de [[Troglodyte|troglodytes]] utilisant des limaces géantes comme
 montures lors de sièges. Une histoire particulièrement inquiétante évoque une large grotte souterraine habitée par des dizaines de [[Skum|skums]] et de limaces géantes que les [[Aboleth|aboleths]] contrôleraient et auraient modifiées de sorte que leur salive acide engourdissent également l’esprit de leurs victimes.

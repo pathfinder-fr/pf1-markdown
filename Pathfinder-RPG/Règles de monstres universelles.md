@@ -10,7 +10,7 @@ Categories:
 
 {s:MenuOpposition}Les règles qui suivent sont des règles standards : les profils descriptifs des monstres y font appel sans les redéfinir. Chaque règle est accompagnée d’un format précisant à quel endroit et sous quelle forme les profils y font référence.
 
-Les règles marquées d'un astérisque (*) sont exclusives aux [[Monstres mythiques]].
+Les règles marquées d'un astérisque (*) sont exclusives aux [[Monstres mythiques]].  
 Seule la dernière source en date (par rapport aux ouvrages intégrés) est renseignée entre parenthèses.
 <table class="page espace-col troiscol"><tr><td>
 - [[Absorption dénergie (capacité)|Absorption d'énergie]] *(B4)*

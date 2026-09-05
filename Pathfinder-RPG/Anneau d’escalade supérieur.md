@@ -14,7 +14,7 @@ Categories:
 (((Description)))
 Cet anneau fonctionne comme un [[anneau descalade|anneau d’escalade]], à la seule diffé­rence qu’il accorde un bonus de compétence de +10 aux tests d’Esca­lade du porteur.
 (((Fabrication)))
-**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit avoir au moins 10 rangs dans la compétence Escalade ; **Coût** 5000
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit avoir au moins 10 rangs dans la compétence Escalade ; **Coût** 5000 
 </div>
 
 *Source : Armes et Équipements p167*

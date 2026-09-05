@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bâton de braises|{s:mca}}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 13 100 po ; **Poids** 1,5 kg
 (((Description)))
-L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que par endroits. Le bâton mesure à peine 90 centimètres de long et est suffisamment équilibré pour servir de gourdin de maître. Quand le personnage lance flammes avec le bâton, il peut décider d’enflammer le bout du bâton plutôt que de faire surgir les flammes de sa main. Cela n’endommage pas le bâton et les dégâts du sort s’ajoutent à toute attaque au corps à corps portée avec le bâton.
-• *[[Flammes]]* (1 charge)
-• *[[Rayon ardent]]* (2 charges)
+L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que par endroits. Le bâton mesure à peine 90 centimètres de long et est suffisamment équilibré pour servir de gourdin de maître. Quand le personnage lance flammes avec le bâton, il peut décider d’enflammer le bout du bâton plutôt que de faire surgir les flammes de sa main. Cela n’endommage pas le bâton et les dégâts du sort s’ajoutent à toute attaque au corps à corps portée avec le bâton.  
+• *[[Flammes]]* (1 charge)  
+• *[[Rayon ardent]]* (2 charges)  
 • *[[Boule de feu]]* (4 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[boule de feu]]*, *[[flammes]]*, *[[rayon ardent]]* ; **Coût** 6 700 po

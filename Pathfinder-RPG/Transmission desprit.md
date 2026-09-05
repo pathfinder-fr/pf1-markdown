@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 5, [[Prêtre|Prê]] 6
-**Temps d'incantation** 2 [[round|rounds]]
-**Composantes** [[composantes|V, G, M]] (au moins 1 000 po de poudre de diamant)
-**Portée** contact
-**Cible** l’objet magique permanent et non intelligent touché
-**Durée** 1 heure/niveau
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 5, [[Prêtre|Prê]] 6  
+**Temps d'incantation** 2 [[round|rounds]]  
+**Composantes** [[composantes|V, G, M]] (au moins 1 000 po de poudre de diamant)  
+**Portée** contact  
+**Cible** l’objet magique permanent et non intelligent touché  
+**Durée** 1 heure/niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Ce sort confère à l’objet magique ciblé une intelligence temporaire en siphonnant une infime partie de l’esprit du personnage pour l’injecter dans l’objet. Seuls les objets magiques permanents peuvent bénéficier de ce sort : *transmission d’esprit* ne peut pas affecter les objets à utilisation unique, à charges ou les objets magiques intelligents.

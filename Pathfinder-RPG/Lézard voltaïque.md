@@ -69,7 +69,7 @@ un lézard voltaïque mais cela s’est révélé être une tâche difficile
 et douloureuse. Les lézards solitaires et captifs ont tendance à
 dépérir et à mourir rapidement, à moins que leurs geôliers ne
 passent beaucoup de temps à en prendre soin et à jouer avec eux
-pour leur tenir compagnie.
+pour leur tenir compagnie. 
 
 Les lézards captifs mais rassemblés en
 groupes de deux ou plus survivent mais leurs capacité électrique

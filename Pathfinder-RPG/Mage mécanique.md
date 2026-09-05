@@ -50,7 +50,7 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Créatures mécaniques]].***</li></ul>
 *Cette créature artificielle sans visage est dotée d’une baguette de cristal incrustée dans la poitrine. Elle crépite d’énergie magique.*
 
-Ces créatures artificielles représentent le pinacle des inventions mécaniques. Grâce à une ingénieuse combinaison de mécanismes mécaniques et de conduits magiques, le mage mécanique canalise la puissance d’une baguette pour utiliser divers pouvoirs profanes.
+Ces créatures artificielles représentent le pinacle des inventions mécaniques. Grâce à une ingénieuse combinaison de mécanismes mécaniques et de conduits magiques, le mage mécanique canalise la puissance d’une baguette pour utiliser divers pouvoirs profanes. 
 Ils sont souvent au service de puissants lanceurs de sorts ou de ceux qui souhaitent bénéficier du soutien d’un lanceur de sorts stoïques qui ne pose pas de questions, afin de profiter de ses sorts sans se heurter à des problèmes d’ego ou de libre-arbitre.
 Silhouette humanoïde d’acier ou de mithral, le mage mécanique possède une grosse boule de cristal emplie de vapeurs tournoyantes en guise de tête. Il mesure deux mètres dix.
 

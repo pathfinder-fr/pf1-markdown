@@ -10,24 +10,24 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une goutte de miel)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** jusqu'à 1 insecte espion/4 [[niveau|niveaux]]
-**Durée** 10 minutes/niveau (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une goutte de miel)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** jusqu'à 1 insecte espion/4 [[niveau|niveaux]]  
+**Durée** 10 minutes/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[insectes espions]]*, mais le personnage peut également partager les sens des insectes convoqués. Par une [[action de mouvement]], il peut choisir de recevoir les informations sensorielles d'un des insectes, voyant ce qu'il voit et entendant ce qu'il entend. Tant qu'il le fait, il est considéré comme [[aveuglé]] et [[assourdi]]. Il peut changer d'insecte ou revenir à ses propres sens avec une autre action de mouvement.
 
 ((({s:sortssimilaires|Insectes espions suprême}
 ## [[insectes espions]]
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une goutte de miel)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** jusqu'à 1 insecte espion/4 [[niveau|niveaux]]
-**Durée** 10 minutes/niveau (T)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une goutte de miel)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** jusqu'à 1 insecte espion/4 [[niveau|niveaux]]  
+**Durée** 10 minutes/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage convoque un ou plusieurs coléoptères noirs luisants qui possèdent un certain niveau d'intellect et font de parfaits espions. Lorsqu'ils sont en sa présence, les insectes obéissent aux ordres mentaux du personnage, et celui-ci peut en diriger autant qu'il le souhaite par une [[action simple]], si tant est qu'il donne le même ordre à chacun. Afin de donner des ordres différents à des insectes différents, le personnage doit dépenser une action simple par directive. Un insecte en contact physique avec le personnage peut répondre à des questions à propos de ce qu'il a observé, à un rythme d'une question par round. Il ne peut se baser que sur ses sens, et ne peut pas répéter les paroles. Il peine à porter un jugement subjectif sur les choses, et les questions qui impliquent un tel raisonnement ont peu de chances de mener à une réponse claire. Par exemple, un insecte est incapable d'analyser l'état émotionnel de quelqu'un ou de déterminer qui parmi un groupe d'individus est le chef.

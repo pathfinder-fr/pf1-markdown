@@ -40,8 +40,8 @@ Categories:
 {s:BDTexte|**Communication avec les requins (Sur).** L’adaro peut entrer en communication télépathique avec les requins situés à une distance maximale de 30 m. Cette communication est limitée à des concepts simples tels que « viens », « défends », « attaque ».}
 {s:BDTexte|**Frénésie de la pluie (Sur).** Les adaros révèrent les tempêtes et leur soif de sang s’amplifie de manière exponentielle lorsqu’il pleut. Quand ils se battent sous la pluie ou pendant une tempête, les adaros agissent comme s’ils étaient sous l’influence du sort *[[rage]]*. L’adaro bénéficie de cet avantage même s’il se trouve sous l’eau, mais seulement tant qu’il reste à une action de déplacement de la surface (15 m pour la plupart des adaros).}
 {s:BDTexte|**Poison (Ext).** Les adaros utilisent une toxine paralysante sécrétée par les poissons-globes hérissons : il s’agit d’un venin collant qui ne dissout pas dans l’eau.}
-{s:BDTexte|**Tétradotoxine.** lance — blessure ; JdS [[Vigueur]] DD 15 ; fréquence 1/minute pendant 4 minutes ; effet [[paralysé]] pendant 1 minute ; guérison 2 réussites consécutives.}
-{s:BDTexte|**Utilisation des poisons (Ext).** Les adaros sont rompus à l’utilisation du poison et ne risquent jamais de s’empoisonner accidentellement.}
+{s:BDTexte|**Tétradotoxine.** lance — blessure ; JdS [[Vigueur]] DD 15 ; fréquence 1/minute pendant 4 minutes ; effet [[paralysé]] pendant 1 minute ; guérison 2 réussites consécutives.} 
+{s:BDTexte|**Utilisation des poisons (Ext).** Les adaros sont rompus à l’utilisation du poison et ne risquent jamais de s’empoisonner accidentellement.} 
 
 </div>
 
@@ -51,13 +51,13 @@ Categories:
 </td><td><div>
 *Cet hybride entre l’humain et le requin tient sa lance de manière menaçante, une bave épaisse et luisante dégoulinant entre ses dents aussi tranchantes que des rasoirs.*
 
-Les adaros, créatures marines malveillantes, font partie des chasseurs intelligents les plus féroces des mers tropicales. Les marins des rivages exotiques et les hommes qui vivent en bord de mer les connaissent bien et les redoutent car beaucoup ont vu un camarade, marin ou pêcheur, se raidir soudainement alors qu’une lance empoisonnée leur traversait les entrailles, et s’effondrer dans l’eau, emportés par les cruels adaros responsables de l’attaque.
+Les adaros, créatures marines malveillantes, font partie des chasseurs intelligents les plus féroces des mers tropicales. Les marins des rivages exotiques et les hommes qui vivent en bord de mer les connaissent bien et les redoutent car beaucoup ont vu un camarade, marin ou pêcheur, se raidir soudainement alors qu’une lance empoisonnée leur traversait les entrailles, et s’effondrer dans l’eau, emportés par les cruels adaros responsables de l’attaque. 
 
-Exclusivement carnivores, les adaros dévorent leurs victimes dès qu’ils les ont massacrées. Leurs dents extrêmement pointues
+Exclusivement carnivores, les adaros dévorent leurs victimes dès qu’ils les ont massacrées. Leurs dents extrêmement pointues 
 leur permettent de découper les os presque aussi facilement que la chair, et leur solide système digestif leur permet de supporter la majorité des matières organiques. En temps normal, un adaro engloutit la moitié de son poids en nourriture une fois tous les deux ou trois jours.
 
-L’étrange relation que les adaros entretiennent avec les tempêtes attise la curiosité des érudits depuis des siècles. Ces
-habitants des mers ont un lien particulier avec les créatures mortelles de la mer et avec la violence des caprices du temps, et ce n’est pas une coïncidence s’ils attaquent plus facilement les humanoïdes lorsque la mer est agitée. Les adaros sont un peuple semi-nomade  : les tribus voyagent jusqu’à ce qu’elles trouvent un terrain de chasse convenable et s’en vont lorsque leur présence devient trop remarquée ou lorsque le gibier  vient à manquer.
+L’étrange relation que les adaros entretiennent avec les tempêtes attise la curiosité des érudits depuis des siècles. Ces 
+habitants des mers ont un lien particulier avec les créatures mortelles de la mer et avec la violence des caprices du temps, et ce n’est pas une coïncidence s’ils attaquent plus facilement les humanoïdes lorsque la mer est agitée. Les adaros sont un peuple semi-nomade  : les tribus voyagent jusqu’à ce qu’elles trouvent un terrain de chasse convenable et s’en vont lorsque leur présence devient trop remarquée ou lorsque le gibier  vient à manquer. 
 
 L’adaro mesure 2,25 m et pèse 125 kilos.
 </div></td></tr></table>

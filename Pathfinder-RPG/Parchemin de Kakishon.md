@@ -11,13 +11,13 @@ Categories:
 {s:BDTitre|Parchemin de Kakishon|{s:AE}}
 **Aura** [[Invocation]] surpuissante ; **NLS** 23 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1,5 kg
 (((Description)))
-Ce morceau de parchemin apparemment anodin n’est rien d’autre que la manifestation physique d’un demi-plan créé par l’homme. La rune qui le recouvre est en réalité une représentation des différentes îles qui forment les régions du plan. Pour ouvrir le portail, il faut dérouler le parchemin et prononcer le nom d'une des archipels du plan tout en touchant, à chaque fois, la partie de la rune correspondant aux groupes d’îles nommés.
+Ce morceau de parchemin apparemment anodin n’est rien d’autre que la manifestation physique d’un demi-plan créé par l’homme. La rune qui le recouvre est en réalité une représentation des différentes îles qui forment les régions du plan. Pour ouvrir le portail, il faut dérouler le parchemin et prononcer le nom d'une des archipels du plan tout en touchant, à chaque fois, la partie de la rune correspondant aux groupes d’îles nommés. 
 
 Autrefois, ce processus permettait à l’utilisateur de choisir où apparaître au sein du royaume mais le parchemin est désormais abîmé et, lorsqu’on l’active, toutes les créatures situées à moins de 15 mètres et dans la ligne d’effet du parchemin doivent réussir un jet de [[Réflexes]] [[DD]] 40. Celles qui échouent sont aspirées dans le parchemin et physiquement transportées jusqu’à l’un des points de navigation du demi-plan. À l’instant où des créatures arrivent sur le plan, tout être arrivé avant sans le vouloir peut décider de s’en aller et se faire éjecter du parchemin pour atterrir sur le Plan matériel. Une fois qu’on est à dans le demi-plan du parchemin, il est extrêmement difficile de s’échapper : ceux qui sont piégés doivent attendre que d’autres créatures entrent, que quelqu’un lance un sort similaire à *[[changement de plan]]* ou doivent découvrir l’une des fondations de la réalité du plan, qui ramènent les sujets sur le Plan matériel en un point situé dans un rayon de 3 mètres du *parchemin de Kakishon*.
 
 <u>***Voir aussi l'[[Golarion.Parchemin de Kakishon|histoire et les implications de cet artefact]].***</u>
 (((Destruction)))
-S’il renferme ne serait-ce qu’un petit groupe d’être Chaotiques tels que des azatas, des protéens ou des démons, le demis-plan lié au parchemin se délitera peu à peu, tandis que s’il contient un plus grand groupe ou une entité Chaotique plus puissante, le demi-plan peut s’en trouvé déchiré et mis en miettes en quelques instants.
+S’il renferme ne serait-ce qu’un petit groupe d’être Chaotiques tels que des azatas, des protéens ou des démons, le demis-plan lié au parchemin se délitera peu à peu, tandis que s’il contient un plus grand groupe ou une entité Chaotique plus puissante, le demi-plan peut s’en trouvé déchiré et mis en miettes en quelques instants. 
 </div>
 
 #### Le plan du Roi-Mage

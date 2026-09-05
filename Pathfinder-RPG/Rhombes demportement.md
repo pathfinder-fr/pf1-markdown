@@ -16,11 +16,11 @@ Ces cinq planches de bois oblongues mesurent de 12,5 centimètres à environ 30 
 
 Entre les mains d’une créature [[mythique]], les rhombes que l’on fait tournoyer peuvent produire de puissantes ondes sonores qui suscitent des réactions émotionnelles profondes chez ceux qu’ils touchent. Une créature mythique peut essayer de faire tournoyer deux rhombes à la fois, à condition qu’elle ait une main libre pour chacune d’eux. S’il y a plus de deux rhombes qui tournoient à la fois, ils génèrent une cacophonie qui fait que les effets de chacun s’annulent mutuellement. Les ondes sonores pénétrantes ne doivent pas forcément être audibles pour faire effet mais elles n’affectent pas les créatures immunisées contre les effets mentaux.
 
-Les rhombes affectent les adversaires mythiques dans un rayon de 18 mètres plus 3 mètres par grade du porteur et les créatures non-mythiques dans le double de ce rayon. L’effet se poursuit tant que le propriétaire de l’artefact fait tournoyer les rhombes, pendant un nombre maximum de [[round|rounds]] égal à son [[grade|grade mythique]]. Voici les différentes lames et leurs pouvoirs.
-• **Lame de courage.** On considère que tous les alliés dans la zone d’effet sont sous les effets d’un sort de *[[bénédiction de vie et de courage]]*.
-• **Lame de désespoir.** Tous les adversaires dans la zone d’effet qui entendent le son se retrouvent attristés comme s’ils étaient sous l’effet d’un sort de *[[désespoir foudroyant]]*.
-• **Lame de peur.** Tous les adversaires dans la zone d’effet qui entendent le son se retrouvent effrayés comme s’ils étaient sous l’effet d’un sort de *[[terreur]]*.
-• **Lame de punition.** Tous les adversaires dans la zone tombent à genoux comme s’ils étaient sous les effets d’un sort de *[[fustiger]]*.
+Les rhombes affectent les adversaires mythiques dans un rayon de 18 mètres plus 3 mètres par grade du porteur et les créatures non-mythiques dans le double de ce rayon. L’effet se poursuit tant que le propriétaire de l’artefact fait tournoyer les rhombes, pendant un nombre maximum de [[round|rounds]] égal à son [[grade|grade mythique]]. Voici les différentes lames et leurs pouvoirs.  
+• **Lame de courage.** On considère que tous les alliés dans la zone d’effet sont sous les effets d’un sort de *[[bénédiction de vie et de courage]]*.  
+• **Lame de désespoir.** Tous les adversaires dans la zone d’effet qui entendent le son se retrouvent attristés comme s’ils étaient sous l’effet d’un sort de *[[désespoir foudroyant]]*.  
+• **Lame de peur.** Tous les adversaires dans la zone d’effet qui entendent le son se retrouvent effrayés comme s’ils étaient sous l’effet d’un sort de *[[terreur]]*.  
+• **Lame de punition.** Tous les adversaires dans la zone tombent à genoux comme s’ils étaient sous les effets d’un sort de *[[fustiger]]*.  
 • **Lame de rage.** Tous les adversaires dans la zone d’effet qui entendent le son se retrouvent enragés comme s’ils étaient sous l’effet d’un sort de *[[rage]]*.
 (((Destruction)))
 Les rhombes se brisent simultanément si le porteur les fait tournoyer toutes les cinq en même temps alors qu’il se tient dans l’œil d’un gigantesque ouragan.

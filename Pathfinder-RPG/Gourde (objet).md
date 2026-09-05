@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce contenant creux est fabriqué en bois, creusé dans une calebasse ou fait de métal. Il permet de transporter les liquides comme une [[Outre (objet)|outre]] mais il résiste mieux aux perforations et aux coupures.

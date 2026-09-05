@@ -21,7 +21,7 @@ corps à une main perforante ou tranchante. De plus, l’adepte des lames est fo
 Au niveau 3, l’arme liée à l’adepte des lames devient une puissante lame noire consciente. L’arme évolue comme une [[Lamelié (magus)|lame noire]] en remplaçant le niveau de [[magus]] par le niveau de classe de l’adepte des lames et les points de la réserve magique du [[magus]] par ceux de son réservoir arcanique. Un adepte des lames avec cette aptitude de classe ne peut pas posséder de familier, même par le biais d’une autre classe. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 3.
 
 #### Exploitations d’adepte
-Un adepte des lames peut choisir ses exploitations parmi la liste suivante.
+Un adepte des lames peut choisir ses exploitations parmi la liste suivante. 
 
 **Arcanes de magus.** Un adepte des lames peut choisir parmi les arcanes de [[magus]] suivants, en utilisant son réservoir arcanique à la place de la réserve magique du magus :
 <ul>

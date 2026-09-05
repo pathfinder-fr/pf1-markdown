@@ -34,7 +34,7 @@ LastModified: 2017-06-25 13:51
 *Une inquiétante tête humanoïde décomposée flotte en silence. Ses dents grisâtres claquent d’étrange manière.*
 {br}
 Un décapité est une tête ou un crâne coupé et animé de manière à devenir un mort-vivant dépourvu d’intelligence.
-Quand il sert de sentinelle, il flotte en silence, à hauteur de visage, à l’affût d’une proie vivante. On peut aussi l’envoyer quelque part pour terroriser tous ceux qu’il croise.
+Quand il sert de sentinelle, il flotte en silence, à hauteur de visage, à l’affût d’une proie vivante. On peut aussi l’envoyer quelque part pour terroriser tous ceux qu’il croise. 
 
 Un décapité lâché dans une région habitée frappe patiemment aux portes fermées et aux fenêtres, jusqu’à ce que quelqu’un réponde à ses coups incessants. Il attaque alors la malheureuse victime. Les décapités gardent aussi les cryptes sinistres, les abattoirs et les cachettes des meurtriers qui aiment garder un souvenir de leurs méfaits à portée de main. Il y a toutes sortes de décapités, en fonction de la créature à qui appartenait la tête. Le décapité préfère flotter à hauteur de tête, afin de pouvoir attaquer facilement le visage, le cou et les épaules de sa victime.
 

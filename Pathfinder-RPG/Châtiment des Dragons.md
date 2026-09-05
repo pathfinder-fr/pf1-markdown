@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:57
 {s:BDTitre|Châtiment des dragons|{s:AE}}
 **Aura** [[école divination|Divination]] et [[Évocation]] modérées ; **NLS** 8 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 40.310 po ; **Poids** 6 kg
 (((Description)))
-Le fer de hache de cette arme d’hast a la forme d’un dragon rugissant, la gueule grande ouverte et prête à se refermer sur ses proies. Le manche est gravé d’une représentation en spirale d’un dragon en vol. La tête de cette [[Hallebarde (arme)|hallebarde]] [[tueuse (propriété)|tueuse]] de dragons +2 se met à luire lorsqu’une créature de type dragon arrive dans un rayon de 30 mètres. Trois fois par jour, lorsque la hallebarde frappe un dragon, elle peut ignorer sa [[RD]] par une [[action libre]].
+Le fer de hache de cette arme d’hast a la forme d’un dragon rugissant, la gueule grande ouverte et prête à se refermer sur ses proies. Le manche est gravé d’une représentation en spirale d’un dragon en vol. La tête de cette [[Hallebarde (arme)|hallebarde]] [[tueuse (propriété)|tueuse]] de dragons +2 se met à luire lorsqu’une créature de type dragon arrive dans un rayon de 30 mètres. Trois fois par jour, lorsque la hallebarde frappe un dragon, elle peut ignorer sa [[RD]] par une [[action libre]]. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[localisation suprême]]*, *[[lumière]]*, *[[convocation de monstres I]]*  ; **Coût** 20.310 po
 </div>

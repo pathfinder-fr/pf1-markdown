@@ -13,10 +13,10 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des révélations|}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 51 008 po ; **Poids** 2,5 kg
 (((Description)))
-Le sommet fourchu de ce bâton en noyer ressemble à un mélange entre une baguette de sourcier les les cornes torsadées d'un animal. Une fine gemme flotte entre ses bras protecteurs. Il permet de lancer les sorts suivants :
-• *[[augure]]* (1 charge)
-• *[[communication avec les morts]]* (1 charge)
-• *[[communion]]* (3 charges)
+Le sommet fourchu de ce bâton en noyer ressemble à un mélange entre une baguette de sourcier les les cornes torsadées d'un animal. Une fine gemme flotte entre ses bras protecteurs. Il permet de lancer les sorts suivants :  
+• *[[augure]]* (1 charge)  
+• *[[communication avec les morts]]* (1 charge)  
+• *[[communion]]* (3 charges)  
 • *[[divination]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[augure]]*, *[[communication avec les morts]]*, *[[communion]]*, *[[divination]]* ; **Coût** 30 608 po

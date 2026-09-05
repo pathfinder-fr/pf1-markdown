@@ -9,7 +9,7 @@ Categories:
 
 *Le personnage engloutit les potions à une vitesse déconcertante.*
 
-**Conditions.** Suivant d'[[Urgathoa (technique)|Urgathoa]].
+**Conditions.** Suivant d'[[Urgathoa (technique)|Urgathoa]]. 
 
 **Avantage.** Le personnage peut boire les potions, les élixirs et les autres boissons par une [[action rapide]] sans provoquer d'[[AO|attaque d'opportunité]].
 

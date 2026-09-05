@@ -11,7 +11,7 @@ Categories:
 *Le guérillero se spécialise dans l’art de l’embuscade. Pour lui, l’art du pistolet fonctionne mieux depuis une position camouflée et il réserve ses assauts aux cibles qui tombent à la toute première volée et meurent avant que la fumée ne se dissipe.*
 
 #### Audace frémissante (Ext)
-Au niveau 1, au début de chaque jour, le guérillero gagne un nombre de points d’[[audace]] égal à son modificateur de [[Sagesse]] -1 (minimum de 1). En plus de toutes les façons possibles qu’a le pistolier de regagner de l’audace, un guérillero qui réduit un adversaire [[sans défense]] ou [[inconscient]] à 0 point de vie ou moins regagne également 1 point d’audace. Cela élargit les possibilités du guérillero pour gagner des points d’audace, et c’est pour cela qu’il ne gagne qu’un seul point d’audace de cette manière, non 2. Autrement, cette capacité fonctionne comme l’[[audace]] du pistolier qu’elle remplace.
+Au niveau 1, au début de chaque jour, le guérillero gagne un nombre de points d’[[audace]] égal à son modificateur de [[Sagesse]] -1 (minimum de 1). En plus de toutes les façons possibles qu’a le pistolier de regagner de l’audace, un guérillero qui réduit un adversaire [[sans défense]] ou [[inconscient]] à 0 point de vie ou moins regagne également 1 point d’audace. Cela élargit les possibilités du guérillero pour gagner des points d’audace, et c’est pour cela qu’il ne gagne qu’un seul point d’audace de cette manière, non 2. Autrement, cette capacité fonctionne comme l’[[audace]] du pistolier qu’elle remplace. 
 
 #### Veules exploits (Ext)
 Le guérillero remplace certains de ses exploits par les suivants. En outre, cette capacité fonctionne comme la capacité [[pistolier#EXPLOITS|exploit du pistolier]] qu’elle remplace.

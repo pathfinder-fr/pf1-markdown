@@ -23,14 +23,14 @@ Categories:
 ---
 
 {s:Desambi|Résistance aux énergies destructives est également le nom d'une [[résistance|capacité spéciale]].}
-**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 10 minutes/[[niveau]]
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort offre une protection limitée contre la forme d’énergie choisie : acide, électricité, feu, froid ou son. Le sujet bénéficie d’une [[résistance]] de 10 points contre ce type d’énergie, ce qui signifie que chaque fois qu’il subit des dégâts (que leur source soit d’origine naturelle ou magique), ils sont réduits de 10 points avant d’être décomptés de ses [[points de vie]] restants. Cette [[résistance]] passe à 20 points au niveau 7 et à 30 points (le maximum) au niveau 11. Le sort protège également l’équipement du bénéficiaire.
 
 *Résistance aux énergies destructives* absorbe seulement les dégâts, le sujet risque toujours d’être victime d’effets secondaires indésirables.
@@ -45,13 +45,13 @@ La cible gagne un bonus de +4 aux jets de sauvegarde contre les effets qui infli
 
 ((({s:sortssimilaires|résistance aux énergies destructives}
 ## [[Résistance aux énergies destructives (partagé)]]
-{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[résistance aux énergies destructives]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 )))

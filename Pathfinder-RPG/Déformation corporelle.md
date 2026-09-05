@@ -8,12 +8,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un morceau de chair marinée)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cible** une créature vivante ou morte-vivante
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un morceau de chair marinée)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cible** une créature vivante ou morte-vivante  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage provoque la décoloration et la déformation du corps de la créature ciblée pour amoindrir ses fonctions. Quand il lance ce sort, il doit choisir l’un des trois types d’effets qu’il souhaite infliger à la cible : déplacement, attaques ou défense.

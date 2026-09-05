@@ -13,28 +13,28 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[Homme-serpent|hommes-serpents]].**
 
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une écaille de serpent)
-**Portée** moyenne (30 m + 3 m/niveau)
-**Cible** une case de 1,5 m de côté
-**Durée** 1 [[round]]/niveau (T)
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une écaille de serpent)  
+**Portée** moyenne (30 m + 3 m/niveau)  
+**Cible** une case de 1,5 m de côté  
+**Durée** 1 [[round]]/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[tentacules noirs]]*, à la seule différence qu’il crée un serpent décapité de taille G qui surgit du sol et agrippe une créature désignée par l’homme-serpent se trouvant dans un rayon de 1,50 mètre du serpent. Par une [[action simple]], l’homme-serpent peut ordonner au serpent de libérer la cible agrippée pour lui désigner une autre créature à attaquer.
 
 
 
 (((
 ## Tentacules noirs
-**École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (tentacule de pieuvre ou de calmar)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Zone d'effet** étendue de 6 m de rayon
-**Durée** 1 [[round]]/[[niveau]] (T)
+**École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (tentacule de pieuvre ou de calmar)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Zone d'effet** étendue de 6 m de rayon  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Cette incantation fait apparaître un amas de tentacules noirs et spongieux qui semblent surgir du sol (ou de la surface de l’eau). Ils s’agrippent et s’enroulent autour des créatures qui entrent dans la zone et les immobilisent afin de les écraser.
 
 À chaque round, au début du tour du personnage et lors du round d'incantation, toutes les créatures présentes dans la [[zone deffet|zone d’effet]] du sort sont la cible d’une [[manœuvre de combat]] destinée à les [[agrippé|agripper]]. Les créatures qui entrent dans la [[zone deffet|zone d’effet]] sont immédiatement attaquées. Les tentacules ne provoquent pas d’[[attaque dopportunité|attaque d’opportunité]]. Les tentacules utilisent le [[NLS|niveau de lanceur de sorts]] du personnage comme [[BBA|bonus de base à l’attaque]] pour déterminer leur [[BMO]] et reçoivent un bonus de [[Force]] de +4 et un bonus de taille de +1. À chaque [[round]], le personnage lance une seule fois les dés pour la totalité des effets du sort et applique le résultat à toutes les créatures de la [[zone deffet|zone d’effet]].

@@ -13,14 +13,14 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|ruse]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [[instantanée]]
+{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|ruse]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort fonctionne comme *[[téléportation]]* excepté que le personnage peut sciemment faire en sorte que certaines créatures se déplaçant avec lui subissent un incident ou atterrissent à un autre endroit spécifique visualisé en même temps que la destination originale, ou les deux.
 
 Toute tentative visant à identifier *téléportation perfide* avec un test de compétence l'identifie à tort comme *[[téléportation]]* (voir le registre de la [[registre|ruse]]).
@@ -29,14 +29,14 @@ Toute tentative visant à identifier *téléportation perfide* avec un test de c
 
 (((
 ## Téléportation
-**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort transporte instantanément le personnage sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [[NLS|niveau de lanceur de sorts]] mais le personnage ne peut pas se rendre dans un autre plan d’existence. Il peut emporter des objets à concurrence de sa [[charge maximale]] et peut aussi emmener une créature consentante de [[taille M]] ou inférieure (qui transporte un poids inférieur à sa [[charge maximale]]) par tranche de trois [[NLS|niveaux de lanceur de sorts]]. Une créature de [[taille G]] compte comme deux créatures de [[taille M]], une créature de [[taille TG]] vaut quatre créatures de [[taille M]], etc. Toutes les créatures transportées doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le lanceur de sorts. Comme tous les sorts dont la portée est [[personnelle]], le lanceur de sorts n’a pas besoin d’effectuer de [[jet de sauvegarde]] ou de [[test de résistance à la magie]]. Seuls les objets tenus ou utilisés par quelqu’un d’autre nécessitent un tel jet.
 
 Le personnage doit avoir une idée exacte de l’endroit où il va réapparaître. Plus le personnage a une image mentale précise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut être difficile, voire impossible, de se rendre dans certaines zones balayées par de violentes énergies physiques ou magiques.

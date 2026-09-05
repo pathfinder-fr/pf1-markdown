@@ -20,14 +20,14 @@ Au niveau 4 et tous les 2 niveaux par la suite, un croc de la nature choisit un 
 #### Attaque sournoise (Ext)
 Au niveau 4, un croc de la nature gagne attaque sournoise +1d6. Ceci fonctionne comme l’aptitude d’attaque sournoise du roublard. Si le croc de la nature acquiert un bonus d’attaque sournoise par le biais d’une autre source, les bonus aux dégâts se cumulent. Cette aptitude remplace résistance à l’appel de la nature.
 
-====Étude rapide de la cible (Ext).==== Au niveau 9, un croc de la nature peut étudier une cible par une action de mouvement ou une action rapide. Cette aptitude remplace immunité aux venins.
+====Étude rapide de la cible (Ext).==== Au niveau 9, un croc de la nature peut étudier une cible par une action de mouvement ou une action rapide. Cette aptitude remplace immunité aux venins. 
 
 #### Talents de tueur conseillés
-Les [[talents (tueur)|talents de tueur]] suivants viennent compléter l’archétype de croc de la nature : style de combat de rôdeur, tromper les indiscrets, utilisation des poisons.
+Les [[talents (tueur)|talents de tueur]] suivants viennent compléter l’archétype de croc de la nature : style de combat de rôdeur, tromper les indiscrets, utilisation des poisons. 
 
 De plus, les [[talents]] de roublard suivants, également accessibles aux tueurs, viennent s’ajouter à la liste ci-dessus : attaque sanglante, attaque surprise, camouflage, discret et rapide, empoisonnement rapide, maîtrise du terrain, mouvement à quatre pattes, poison persistant, réactions lentes, roublard en finesse.
 
 #### Talents de maître
-Les talents de maître tueur suivants viennent compléter l’archétype de croc de la nature : assassinat, camouflage du tueur, déplacement facilité.
+Les talents de maître tueur suivants viennent compléter l’archétype de croc de la nature : assassinat, camouflage du tueur, déplacement facilité. 
 
 Le talent de maître roublard suivant vient compléter cette liste : maître du déguisement.

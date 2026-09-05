@@ -49,7 +49,7 @@ Categories:
 </td><td><div>
 *Cette créature féerique gracile est pourvue d’ailes faites de bois et de vignes.*
 
-Si l’on en croit certaines ballades féeriques, les gathelains étaient l’un des premiers peuples à s’éveiller sur le monde primitif des fées. Ils ont été créés à partir des graines d’un immense arbre magique dont le gui s’est infilitré dans leur  chair pour former leurs ailes étranges.
+Si l’on en croit certaines ballades féeriques, les gathelains étaient l’un des premiers peuples à s’éveiller sur le monde primitif des fées. Ils ont été créés à partir des graines d’un immense arbre magique dont le gui s’est infilitré dans leur  chair pour former leurs ailes étranges. 
 
 Espiègles et capricieuses, ces créatures ont un tempérament dissonant. Elles ne cherchent qu’à s’amuser et à assouvir leur immense curiosité à l’égard du monde qui les entoure. C’est cette même curiosité qui a poussé nombre d’entre elles à migrer et à s’aventurer sur le Plan matériel. Les gathelains cherchent à se mêler aux gnomes mais ces derniers les trouvent souvent trop indisciplinés, trop volages et trop imprudents à leur goût.
 
@@ -59,7 +59,7 @@ Espiègles et capricieuses, ces créatures ont un tempérament dissonant. Elles 
 Les gathelains se définissent par leurs niveaux de classe : ils n’ont pas de dés de vie raciaux. Tous les gathelains ont les traits raciaux suivants :
 
 - Dextérité +2, Constitution -2, Charisme +2. Les gathelains sont vifs, ont une personnalité dynamique et engageante mais ils
-sont assez fragiles.
+sont assez fragiles. 
 - Taille P. Les gathelains sont de petite taille et gagnent un bonus de taille de +1 aux jets d’attaque, ils reçoivent un malus de -1 aux tests de manoeuvre offensive et au DMD, un bonus de +2 aux tests de Vol et un bonus de taille de +4 aux tests de Discrétion.
 - Vitesse normale. Les gathelains ont une vitesse de base de 9 mètres et une vitesse de vol de 12 mètres (médiocre).
 - Vision nocturne. Les gathelains peuvent voir deux fois plus loin que les humains dans les environnements à faible luminosité. 

@@ -303,7 +303,7 @@ contenu += "<td style='padding: 4'>État : " + arrayget(etatdesc,currelem.etat) 
 contenu += "<td><button id='bedit" + i + "' type='button' title='Éditer ce jeton'>Éditer</button>";
 contenu += "<button id='bkill" + i + "' type = 'button' title='Supprimer ce jeton'>Enlever</button></td>";
 contenu += "</tr>";
-contenu += "<tr><td colspan=4 style='background-color: black; padding: 1px'></td></tr>";
+contenu += "<tr><td colspan=4 style='background-color: black; padding: 1px'></td></tr>";   
 }
 contenu += "<tr><td colspan=4><center>";
 contenu += "<button id='bajout' type='button' title='Ajouter un jeton'>Nouveau jeton</button>";
@@ -332,7 +332,7 @@ target.innerHTML = "Doit encore jouer";
 
 function supprimeJeton(idx) {
 idxmvt = -1;
-idxzmvt = -1;
+idxzmvt = -1;  
 var answer = fcontrol.confirm("Voulez-vous vraiment supprimer " + arrayget(elems,idx).nom + " ?");
 if (answer) {
 arrayget(elems,idx).efface();

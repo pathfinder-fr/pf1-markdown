@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une goutte d'huile de foie de morue)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** une créature vivante
-**Durée** voir description
+{s:cs}{s:UI}**École**  [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une goutte d'huile de foie de morue)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** une créature vivante  
+**Durée** voir description  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] puis [[Vigueur]] ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Le personnage pousse la créature ciblée à croire qu'elle est soumise à une affliction débilitante. La cible a droit à un jet de [[Volonté]] pour comprendre que l'affliction est irréelle. Si elle rate, la créature souffre d'une affliction imaginaire au choix du personnage.

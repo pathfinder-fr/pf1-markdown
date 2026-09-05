@@ -49,7 +49,7 @@ Categories:
 
 Plus mûr qu’une chenille mais pas encore adulte, la nymphe d’hydromètre est le petit du spécimen géant. Pendant quelques mois, elle mange et mue, augmentant en taille après chaque mue jusqu’à ce qu’elle soit de taille G et définitivement adulte. Ces créatures sont craintives et plus agitées que les adultes.
 
-Les hommes-lézards chassent les nymphes d’hydromètres qu’ils considèrent comme un met extrêmement délicat. Les bourbiérins et les gripplis les élèvent pour les manger, mais quelque chose dans le processus de domestication dégoûte les hommes-lézards des nymphes apprivoisées. À l’état sauvage, les nymphes fuient frénétiquement dès qu’une créature approche, ce qui complique leur chasse ou leur capture.
+Les hommes-lézards chassent les nymphes d’hydromètres qu’ils considèrent comme un met extrêmement délicat. Les bourbiérins et les gripplis les élèvent pour les manger, mais quelque chose dans le processus de domestication dégoûte les hommes-lézards des nymphes apprivoisées. À l’état sauvage, les nymphes fuient frénétiquement dès qu’une créature approche, ce qui complique leur chasse ou leur capture. 
 
 Nombre de tribus de bourbiérins, d’hommes-lézards et de gripplis considèrent la capture d’une nymphe vivante comme un rite de
 passage à l’âge adulte. Une nymphe hydromètre ne peut servir de monture aux créatures de taille G ou plus petites.

@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}**École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** personnelle
-**Cibles** le lanceur de sorts
-**Durée** 1 round/niveau
+{s:cs}{s:ISG}**École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** personnelle  
+**Cibles** le lanceur de sorts  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort crée un champ magique invisible qui n'empêche pas les armes (manufacturées ou naturelles) de se diriger vers le personnage, mais qui entrave leur mouvement lorsqu'elles sont rétractées. Lorsque le personnage est touché par une attaque au corps à corps, il peut effectuer un test de [[NLS|niveau de lanceur de sorts]] contre le [[DMD]] de son assaillant. S'il réussit, l'arme ou la partie du corps de l'assaillant qui a attaqué le personnage est prise dans le champ, comme si elle était magiquement fixée au corps du personnage. En cas d'échec, l'adversaire peut rétracter son arme normalement.

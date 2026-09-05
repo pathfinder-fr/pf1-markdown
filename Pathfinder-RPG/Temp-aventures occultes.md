@@ -101,7 +101,7 @@ ATTENTION : utiliser les accents sur la première lettre en majuscule des noms d
 
 ### Options raciales de classe de prédilection
 
-**Fait :** ~~page des options raciales de classe de prédilection~~
+**Fait :** ~~page des options raciales de classe de prédilection~~ 
 
 
 ## Archétypes

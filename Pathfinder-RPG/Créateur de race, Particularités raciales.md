@@ -21,7 +21,7 @@ Le type humanoïde nécessite que vous choisissiez au moins un sous-type à votr
 <table width="100%"><tr><td width="49%">
 {s:Reference|ABERRATION}
 #### Aberration (3 PR)
-Les aberrations ont une anatomie bizarre, des capacités étranges, une façon de penser défiant toute logique ou n’importe quelle combinaison de ces trois éléments. Voici les particularités des aberrations.
+Les aberrations ont une anatomie bizarre, des capacités étranges, une façon de penser défiant toute logique ou n’importe quelle combinaison de ces trois éléments. Voici les particularités des aberrations. 
 - Les aberrations ont le trait racial vision dans le noir à 18 mètres.
 - Elles respirent, mangent et dorment. 
 

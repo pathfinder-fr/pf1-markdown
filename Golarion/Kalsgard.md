@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-La ville de Kalsgard est située sur les rive des [[Flots de Givre]] au nord-est des [[Terres des Rois des Linnorms]].
+La ville de Kalsgard est située sur les rive des [[Flots de Givre]] au nord-est des [[Terres des Rois des Linnorms]]. 
 
 Kalsgard est la plus grande ville du pays et la plus cosmopolite. Elle abrite plusieurs communautés naines, gnomes, varisiennes et d'autres peuples venus de plus loin encore.
 

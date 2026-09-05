@@ -35,7 +35,7 @@ LastModified: 2017-04-06 20:48
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
 - **Manipulation spirituelle (Sur)**. Les geists ont la capacité de prendre le contrôle d’apparitions (Guide du Maître, p. 242). Quand un geist entre dans la zone d’effet d’une apparition, il peut aussitôt essayer de la contrôler en faisant un test de Charisme. Si le résultat de son test est égal ou supérieur au FP de l’apparition, il en prend le contrôle et le maintient tant qu’il reste dans un rayon de 1,5 kilomètre. S’il échoue, il doit quitter la zone d’effet de l’apparition et ne peut plus essayer d’en prendre le contrôle pendant 24 heures. Quand un geist contrôle une apparition, il peut activer ou annuler ses
-effets par une action libre et l’apparition se réinitialise automatiquement en moitié moins de temps que la normale. Une apparition contrôlée par un geist peut être neutralisée si elle est réduite à 0 point de vie mais elle ne peut pas l’être définitivement tant que le geist qui la contrôle n’a pas été détruit. Un geist ne peut contrôler qu’un nombre d’apparitions égal à son modificateur de Charisme à la fois (cinq, en général).
+effets par une action libre et l’apparition se réinitialise automatiquement en moitié moins de temps que la normale. Une apparition contrôlée par un geist peut être neutralisée si elle est réduite à 0 point de vie mais elle ne peut pas l’être définitivement tant que le geist qui la contrôle n’a pas été détruit. Un geist ne peut contrôler qu’un nombre d’apparitions égal à son modificateur de Charisme à la fois (cinq, en général). 
 - ** Rire terrifiant (Sur)**. Une fois par minute, le geist peut émettre un rire terrifiant par une action simple. Ce rire résonne jusqu’au début du tour suivant du geist. Toutes les créatures situées dans un rayon de 9 mètres autour du geist lorsqu’il commence à rire, ainsi que toutes les créatures qui terminent leur tour dans cette zone, doivent réussir un jet de Volonté DD 21 pour ne pas être paniquées. Ce jet de sauvegarde s’effectue seulement une fois par rire. Ceux qui le réussissent n’ont plus besoin d’en refaire un contre le rire terrifiant du même geist pendant 24 heures. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 
@@ -43,5 +43,5 @@ effets par une action libre et l’apparition se réinitialise automatiquement e
 </td><td><div>
 *Ce fantôme désincarné porte une robe noire qui tourbillonne autour de sa mâchoire garnie de dents pointues.*
 
-Le geist se crée lorsqu’un humanoïde exceptionnellement maléfique se fait tuer par une apparition et s’avère trop tenace pour se soumettre à l’appel de la mort.
+Le geist se crée lorsqu’un humanoïde exceptionnellement maléfique se fait tuer par une apparition et s’avère trop tenace pour se soumettre à l’appel de la mort. 
 </div></td></tr></table>

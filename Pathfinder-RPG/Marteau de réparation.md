@@ -10,12 +10,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:cs}{s:ISG}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un petit marteau en mithral d'une valeur de 300 po), [[composantes|FD]]
-**Portée** N/A
-**Zone d'effet** [[rayonnement]] de 9 m de rayon centré sur le personnage
-**Durée** instantanée
+{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:cs}{s:ISG}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un petit marteau en mithral d'une valeur de 300 po), [[composantes|FD]]  
+**Portée** N/A  
+**Zone d'effet** [[rayonnement]] de 9 m de rayon centré sur le personnage  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 En frappant un morceau de terre solide avec le focalisateur du sort ou un symbole sacré, le personnage émet une vague d'énergie qui répare les objets situés dans son rayon. Tous les objets ou [[type Créature artificielle|créatures artificielles]] situés dans le rayonnement récupèrent 1d6 points de vie par niveau. Lorsque ce sort affecte des créatures artificielles, il ignore toute immunité à la magie comme s'il n'était pas soumis à la [[RM|résistance à la magie]].

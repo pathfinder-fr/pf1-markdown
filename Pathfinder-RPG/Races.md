@@ -50,7 +50,7 @@ La dernière partie de chaque race propose de nouvelles options de règle autres
 
 **Sorts.** Les sorts présentés dans cette partie conviennent à toutes les classes de lanceur de sorts de la race associée. Parfois, ils s’utilisent uniquement sur les membres de cette race, parfois ils font juste partie des secrets de celle-ci et les membres des autres races ne peuvent les apprendre qu’avec l’aval de leur MJ.
 
----
+<hr />
 {s:Reference|RACESDEBASE}
 <div class="presentation navmenu">
 ### Les races de base
@@ -86,7 +86,7 @@ Voici les races de base du manuel des joueurs.
 - **[[Humain|Humains]].** Ambitieux, parfois héroïques, mais toujours confiants, les humains sont capables de travailler ensemble pour atteindre des objectifs communs, ce qui fait d’eux une puissance à ne pas négliger. Ils ont une espérance de vie réduite par rapport aux autres races, mais leur énergie sans limites et leurs passions leur permettent d’accomplir beaucoup de choses malgré leur brève existence.
 - **[[Nain|Nains]].** On pense souvent que ces défenseurs des forteresses montagneuses petits et râblés sont sévères et dépourvus de tout sens de l’humour. Ils sont connus pour extraire les trésors du sol et fabriquer de merveilleux objets métalliques, parfois incrustés de gemmes, et pour avoir une affinité particulière avec les richesses cachées dans les entrailles de la terre. Les nains ont aussi tendance à s’isoler et à se replier sur leurs traditions, au point de sombrer parfois dans la xénophobie.
 
----
+<hr />
 {s:Reference|RACESADDITIONNELLES}
 <div class="presentation navmenu">{s:MR}
 ### Les races additionnelles
@@ -152,7 +152,7 @@ Il existe d'autres races, plus étranges encore que vous pouvez adopter avec l'a
 - **[[Tengu (race)|Tengus]].** Ces humanoïdes charognards qui ressemblent à des corbeaux excellent dans le mimétisme et le combat à l’épée. Formant des nids dans les villes densément peuplées, les tengus rejoignent parfois des groupes d’aventuriers par curiosité ou par nécessité. Leur nature impulsive et leurs curieuses habitudes sont souvent déconcertantes pour ceux qui n’y sont pas habitués.
 - **[[Tieffelin (race)|Tieffelins]].** Race variée et souvent méprisée par la société humanoïde, les tieffelins sont des mortels corrompus du sang des fiélons. Les autres races leur font rarement confiance, et ce manque d’empathie pousse souvent les tieffelins à embrasser la voie du Mal, de la dépravation et de la rage qui bouillonne dans leur sang corrompu. Certains considèrent la lutte pour étouffer leurs sombres désirs comme une motivation pour emprunter la voie des grands héros.
 
----
+<hr />
 {s:Reference|RACESEXTRAORDINAIRES}
 <div class="presentation navmenu">{s:MR}
 ### Les races extraordinaires
@@ -211,7 +211,7 @@ Il existe d'autres races, plus étranges encore que vous pouvez adopter avec l'a
 - **[[Vishkanya (race)|Vishkanyas]].** Étrangement beaux à l’extérieur et venimeux à l’intérieur, les vishkanyas voient le monde à travers les fentes de leurs yeux de serpent. Ils possèdent la même grâce que le serpent et la capacité à se glisser facilement hors de l’étreinte de leurs ennemis. Les vishkanyas ont la réputation d’être séducteurs et manipulateurs. Ils peuvent se servir de leur salive ou de leur sang pour empoisonner leurs armes.
 - **[[Wayang (race)|Wayangs]].** Les petits wayangs sont des créatures du plan de l’Ombre. Ils sont si sensibles à l’ombre que celle-ci imprègne même leur philosophie : ils croient qu’au moment de leur mort, ils s’en retournent simplement aux ténèbres. Le mystère de leur existence insondable leur accorde la capacité à guérir de l’énergie négative comme de l’énergie positive.
 
----
+<hr />
 {s:Reference|RACESMONSTRUEUSES}
 <div class="presentation navmenu">{s:ISR}
 ### Les races monstrueuses

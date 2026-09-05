@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 4 pa (la chope), 1 po (le gallon) ; **Poids** — (la chope), — (le gallon)
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 4 pa (la chope), 1 po (le gallon) ; **Poids** — (la chope), — (le gallon)  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 La plupart des races trouvent cette bière pâle et mousseuse trop salée à leur goût, mais les halfelins considèrent que c’est un goût qu’il faut simplement apprendre à aimer. Le fait de boire trois verres ou plus de Pattefolle en l’espace d’une minute donne au halfelin un malus de -2 aux tests de [[Perception]] et un bonus de +1 aux jets de [[Réflexes]] et aux tests d’[[Acrobaties]] pendant 10 minutes.

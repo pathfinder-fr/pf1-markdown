@@ -7,10 +7,10 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** —
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:PMI}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** —  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Le sabre d’abordage est une épée courte dotée d’une lame incurvée avec un seul tranchant. Les pirates apprécient cette arme car sa lame est suffisamment affûtée pour trancher les gréements (et les voiles des navires adverses) mais suffisamment courte pour la manier lors des combats à bord des navires où beaucoup d’individus s’affrontent.
 
 Cette arme est traiter comme un Cimeterre pour tout effet qui s'applique au Cimeterre

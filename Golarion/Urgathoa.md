@@ -13,12 +13,12 @@ Urgathoa est la déesse de la gloutonnerie, des maladies et des morts-vivants. E
 
 ### Histoire
 
-Urgathoa était autrefois, parait-il, une mortelle. Quand elle décéda et parvint dans le royaume des morts, son envie d'exister fut telle qu'elle réussit à s'enfuir pour devenir la première créature mort-vivante de Golarion, apportant la maladie avec elle.
+Urgathoa était autrefois, parait-il, une mortelle. Quand elle décéda et parvint dans le royaume des morts, son envie d'exister fut telle qu'elle réussit à s'enfuir pour devenir la première créature mort-vivante de Golarion, apportant la maladie avec elle.  
 
 ### Apparence
 
 Urgathoa ressemble à une belle femme aux longs cheveux noirs comme le jais qui lui tombent jusqu'à la taille. De là, son corps se décompose progressivement jusqu'à finir à l'état d'ossements sanguinolents au niveau des orteils.{br}
-Urgathoa est profondément hédoniste, dépravée et dépourvue de toute moralité. Elle aime satisfaire tous ses désirs sans se fixer de limites.
+Urgathoa est profondément hédoniste, dépravée et dépourvue de toute moralité. Elle aime satisfaire tous ses désirs sans se fixer de limites. 
 
 ### Émissaires
 
@@ -29,7 +29,7 @@ Urgathoa récompense parfois certaines de ses prêtresses qui l'ont bien servie 
 
 Les prêtres cherchent à répandre le plus de maladie et à créer de nombreux morts-vivants. Bien sûr, ils travaillent le plus discrètement possible. Les prêtres sont connus pour contraindre leurs ennemis à manger leurs compagnons morts.
 Les tenues sacerdotales ressemblent à d'amples tuniques grises tombant jusqu'au sol accompagnées d'une mozette couleur os ou grise foncée. Le bas de la robe est déchiré ou orné de bouts de tissus ou de glands destinés à imiter l'état de décomposition de la déesse.{br}
-Les rituels pratiqués requièrent la présence de nourriture et de morts-vivants ou d'aspirant morts-vivants. On y voit aussi parfois des scènes de cannibalisme.
+Les rituels pratiqués requièrent la présence de nourriture et de morts-vivants ou d'aspirant morts-vivants. On y voit aussi parfois des scènes de cannibalisme. 
 
 ### Temples
 

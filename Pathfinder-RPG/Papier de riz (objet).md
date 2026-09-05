@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pc ; **Poids** —
+{s:AE}**Prix** 5 pc ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette feuille de papier est faite de riz, de paille ou d'écorce d'arbre. Elle a une [[solidité]] de 0, 1 point de vie et le [[DD]] pour la déchirer est de 2.

@@ -14,12 +14,12 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:divin|Lamashtu|%2fPCUP%2fReligion-PNG%2fLamashtu.png}{s:BotD}{s:CCMI}{s:GeM}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (250 po de poudre d’ambre)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 dose d’eaux de folie par tranche de 2 niveaux
-**Durée** instantanée
+{s:divin|Lamashtu|%2fPCUP%2fReligion-PNG%2fLamashtu.png}{s:BotD}{s:CCMI}{s:GeM}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (250 po de poudre d’ambre)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 dose d’eaux de folie par tranche de 2 niveaux  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Vigueur]], partiel ; **Résistance à la magie** non
 
 Ce sort crée ce qui ressemble à de l’eau claire et pure. En réalité, il s’agit d’une immonde sécrétion appelée eaux de folie. Ce liquide fonctionne comme de l’eau maudite (voir *[[malédiction de leau|malédiction de l’eau]]*). De plus toute créature qui se fait oindre de ce liquide ou le boit doit faire un test de [[Vigueur]] (les eaux de folie sont plus efficaces quand on les boit et les créatures qui les absorbent souffrent d’un malus de -4 aux [[jds|jets de sauvegarde]] pour résister aux effets). Si elle réussit, elle est violemment malade, vomit le fluide et est [[fiévreux|fiévreuse]] pendant 1d4 [[round|rounds]]. Si elle rate son jet, l’eau s’installe : elle la rend folle, lui infligeant 2d6 points d'[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] d’[[Intelligence]] et pervertit son corps, lui infligeant 1d6 points d'affaiblissement tempoaire de [[Dextérité]]. Les valeurs d’Intelligence et de Dextérité de la victime ne peuvent pas tomber en dessous de 1 de cette manière. Ce sort permet de créer environ deux onces d’eau, ce qui suffit pour une gorgée ou une utilisation en tant qu’[[arme de jet]] (si elle est mise en bouteille).

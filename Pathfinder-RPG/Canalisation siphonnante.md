@@ -7,8 +7,8 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Le personnage peut canaliser l'énergie négative pour se nourrir de la souffrance des autres.*
+{s:cs}{s:ISG}*Le personnage peut canaliser l'énergie négative pour se nourrir de la souffrance des autres.* 
 
-**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6, suivant de [[Ghlaunder (technique)|Ghlaunder]].
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6, suivant de [[Ghlaunder (technique)|Ghlaunder]]. 
 
 **Avantage.** Une fois par jour lorsqu'il [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] négative pour blesser les créatures vivantes, le personnage gagne un nombre de [[Blessures et mort#PVTEMPORAIRES|points de vie temporaires]] égal à la moitié du résultat des dés de la canalisation d'énergie + 1 par créature affectée par la canalisation d'énergie. Pour chaque créature affectée qui n'a pas réussi son [[jds|jet de sauvegarde]] contre l'énergie canalisée, le personnage gagne 1 point de vie temporaire supplémentaire. Ces points de vie temporaires disparaissent après 1 heure.

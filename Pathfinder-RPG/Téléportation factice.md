@@ -10,12 +10,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** le personnage et une créature consentante
-**Durée** 1 minute/[[niveau]]
+{s:cs}{s:OO}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** le personnage et une créature consentante  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
 Ce sort rend instantanément le personnage invisible comme avec *[[invisibilité]]*, mais crée une illusion visuelle et auditive qui fait croire à une téléportation. Le personnage peut également affecter une créature de taille M ou plus petite supplémentaire tous les 3 [[NLS|niveaux de lanceur de sorts]] (une créature de taille G compte pour deux créatures de taille M, une créature de taille TG compte pour quatre créatures de taille M, et ainsi de suite). Toutes les créatures affectées doivent être en contact les unes avec les autres, et au moins une d’elles doit être en contact avec le personnage.

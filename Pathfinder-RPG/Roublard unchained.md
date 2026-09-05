@@ -260,10 +260,10 @@ Le roublard est formé au maniement de toutes les armes courantes, ainsi que de 
 #### Attaque sournoise
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#11|→]] Attaque sournoise : Puis-je ajouter des dégâts d’attaque sournoise aux attaques simultanées d’un sort ?***
 
-Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.
+Non. Par exemple, *[[rayon ardent]]* tire simultanément plusieurs rayons sur une ou plusieurs cibles, et les dégâts supplémentaires ne sont ajoutés qu’une seule fois à un seul rayon, choisi par le lanceur au moment de l’incantation du sort.  
 Les attaques de sort qui ne sont pas simultanées, comme les différentes attaques par round d’un [[druide]] de niveau 8 qui utilise *[[lame de feu]]*, peuvent appliquer les dégâts d’<u>[[Roublard#ATTAQUESOURNOISE|attaque sournoise]]</u> à chaque attaque tant que celles-ci y sont éligibles (la cible est privée de son bonus de Dex ou est prise en tenaille par le lanceur).}Lorsqu’un roublard attaque un adversaire dans une situation où ce dernier est incapable de se défendre efficacement, il peut lui infliger des dégâts supplémentaires en touchant un point sensible.
 
-L’attaque du roublard inflige des dégâts supplémentaires lorsque sa cible se trouve dans un cas de figure lui ôtant son bonus de [[Dextérité]] à la [[CA]] (qu’elle en ait un ou pas) ou qu’elle est [[prise en tenaille]] par le roublard et un compagnon de celui-ci. Les dégâts supplémentaires s’élèvent à 1d6 au niveau 1 et, par la suite, ils augmentent de 1d6 tous les deux niveaux de roublard.
+L’attaque du roublard inflige des dégâts supplémentaires lorsque sa cible se trouve dans un cas de figure lui ôtant son bonus de [[Dextérité]] à la [[CA]] (qu’elle en ait un ou pas) ou qu’elle est [[prise en tenaille]] par le roublard et un compagnon de celui-ci. Les dégâts supplémentaires s’élèvent à 1d6 au niveau 1 et, par la suite, ils augmentent de 1d6 tous les deux niveaux de roublard. 
 
 Les attaques à distance peuvent être des attaques sournoises uniquement si la cible se trouve à 9 mètres (6 {s:c}) ou moins.
 
@@ -277,21 +277,21 @@ Pour tenter une attaque sournoise, le roublard doit être en mesure de repérer 
 #### Entraînement en finesse (Ext)
 {s:FAQ|***[[FAQ- Pathfinder unchained#1|→]] Roublard unchained, Entrainement en finesse : Lorsque je remplace ma Force par ma Dextérité, que se passe-t-il avec une arme à deux mains ? Qu’en est-il d’une arme tenue avec la main non-directrice ?***
 
-Avec une arme à deux mains, le personnage ajoute 1,5 fois son bonus de [[Dextérité]] aux [[Valeurs de combat#DEGATS|jets de dégâts]], et avec une arme dans la main non-directrice, il ajoute la moitié de son bonus de Dextérité aux jets de dégâts. Comme l’indique le texte de la <u>[[Roublard unchained#ENTRAINEMENTENFINESSE|capacité]]</u>, si un effet devrait empêcher le personnage d’ajouter son modificateur de [[Force]] aux jets de dégâts, il n’ajoute pas son modificateur de Dextérité. En revanche, tout autre effet qui devrait augmenter le facteur du bonus de Force aux dégâts du personnage (comme le coup plongeant de l’archétype de guerrier [[Combattant à deux mains (guerrier)|combattant à deux mains]]) n’affecte pas son bonus de Dextérité aux dégâts.}Dès le niveau 1, le roublard obtient [[Attaque en finesse]] en guise de don supplémentaire. De plus, à partir du niveau 3, il sélectionne un type d’arme utilisable avec ce don (comme la rapière ou la dague). Une fois cette sélection effectuée, il est impossible d’en changer. À chaque fois qu’il réussit une attaque au corps à corps avec l’arme sélectionnée, il remplace son modificateur de Force par celui de [[Dextérité]] aux [[Valeurs de combat#DEGATS|jets de dégâts]].
+Avec une arme à deux mains, le personnage ajoute 1,5 fois son bonus de [[Dextérité]] aux [[Valeurs de combat#DEGATS|jets de dégâts]], et avec une arme dans la main non-directrice, il ajoute la moitié de son bonus de Dextérité aux jets de dégâts. Comme l’indique le texte de la <u>[[Roublard unchained#ENTRAINEMENTENFINESSE|capacité]]</u>, si un effet devrait empêcher le personnage d’ajouter son modificateur de [[Force]] aux jets de dégâts, il n’ajoute pas son modificateur de Dextérité. En revanche, tout autre effet qui devrait augmenter le facteur du bonus de Force aux dégâts du personnage (comme le coup plongeant de l’archétype de guerrier [[Combattant à deux mains (guerrier)|combattant à deux mains]]) n’affecte pas son bonus de Dextérité aux dégâts.}Dès le niveau 1, le roublard obtient [[Attaque en finesse]] en guise de don supplémentaire. De plus, à partir du niveau 3, il sélectionne un type d’arme utilisable avec ce don (comme la rapière ou la dague). Une fois cette sélection effectuée, il est impossible d’en changer. À chaque fois qu’il réussit une attaque au corps à corps avec l’arme sélectionnée, il remplace son modificateur de Force par celui de [[Dextérité]] aux [[Valeurs de combat#DEGATS|jets de dégâts]]. 
 
-Si un effet empêche le roublard d’appliquer son modificateur de [[Force]] aux [[Valeurs de combat#DEGATS|jets de dégâts]], il ne peut pas non plus ajouter son modificateur de [[Dextérité]].
+Si un effet empêche le roublard d’appliquer son modificateur de [[Force]] aux [[Valeurs de combat#DEGATS|jets de dégâts]], il ne peut pas non plus ajouter son modificateur de [[Dextérité]]. 
 
 Le roublard peut sélectionner une deuxième arme au niveau 11 et une troisième au niveau 19.
 
 {s:Reference|RECEHERCHEDESPIEGES}
 #### Recherche des pièges
-Un roublard ajoute la moitié de son niveau (+1 minimum) aux tests de [[Perception]] destinés à repérer des [[pièges]] ainsi qu’aux tests de [[Sabotage]].
+Un roublard ajoute la moitié de son niveau (+1 minimum) aux tests de [[Perception]] destinés à repérer des [[pièges]] ainsi qu’aux tests de [[Sabotage]]. 
 
 Il peut utiliser la compétence Sabotage pour désarmer les pièges magiques.
 
 {s:Reference|ESQUIVETOTALE}
 #### Esquive totale (Ext)
-L’agilité phénoménale d’un roublard de niveau 2 lui permet d’esquiver les attaques magiques ou inhabituelles.
+L’agilité phénoménale d’un roublard de niveau 2 lui permet d’esquiver les attaques magiques ou inhabituelles. 
 
 S’il réussit un jet de [[Réflexes]] contre une attaque dont les dégâts devraient être réduits de moitié en cas de jet de Réflexes réussi, il évite l’attaque et ne subit pas le moindre dégât. Le roublard bénéficie de cet avantage uniquement s’il ne porte pas d’armure ou juste une armure légère. Un roublard [[sans défense]] ne bénéficie pas des avantages de l’esquive totale.
 
@@ -307,7 +307,7 @@ Au niveau 3, un roublard gagne un bonus de +1 aux jets de [[Réflexes]] effectu�
 
 {s:Reference|BLESSUREINCAPACITANTE}
 #### Blessure incapacitante (Ext)
-Au niveau 4, chaque fois qu’un roublard inflige des dégâts d’[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] à un adversaire, il peut également l’affaiblir et lui infliger un malus pendant 1 [[round]] (ce malus vient en plus de ceux infligés par un talent de roublard ou un autre pouvoir spécial). Le roublard peut choisir l’un des malus suivants lorsque les dégâts sont infligés.
+Au niveau 4, chaque fois qu’un roublard inflige des dégâts d’[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] à un adversaire, il peut également l’affaiblir et lui infliger un malus pendant 1 [[round]] (ce malus vient en plus de ceux infligés par un talent de roublard ou un autre pouvoir spécial). Le roublard peut choisir l’un des malus suivants lorsque les dégâts sont infligés. 
 - ***Déconcerté.*** La cible est déconcertée et subit un malus de -2 à la [[CA]]. Elle subit un malus supplémentaire de -2 à la CA contre toutes les attaques du roublard. Aux niveaux 10 et 16, le malus à la CA contre toutes les attaques du roublard augmente de -2 (jusqu’à un maximum de -8).
 - ***Désorienté.*** La cible subit un malus de -2 aux [[jet dattaque|jets d’attaque]]. De plus, elle subit un malus supplémentaire de -2 aux jets d’attaque effectués contre le roublard. Aux niveaux 10 et 16, le malus aux jets d’attaque effectués contre le roublard augmente de -2 (jusqu’à un maximum de -8).
 - ***Ralenti.*** Toutes les vitesses de déplacement de la cible sont réduites de moitié (jusqu’au minimum de 1,50 mètre). De plus, la cible ne peut plus faire un pas de placement de 1,50 mètre. 
@@ -317,7 +317,7 @@ Ces malus ne se cumulent pas entre eux mais chaque attaque supplémentaire qui i
 {s:Reference|ESQUIVEINSTINCTIVE}
 
 #### Esquive instinctive (Ext)
-Au niveau 4, un roublard réagit aux dangers avant même que ses sens ne l’avertissent. Il n’est plus possible de le [[pris au dépourvu|prendre au dépourvu]] et il ne perd plus son bonus de [[Dextérité]] à la [[CA]] si son adversaire est [[invisible]]. En revanche, il perd son bonus de Dextérité à la CA s’il est [[immobilisé]]. Un roublard qui maîtrise cette aptitude perd toujours son bonus de Dextérité à la CA si un adversaire réussit à effectuer une action de [[feinte]] contre lui.
+Au niveau 4, un roublard réagit aux dangers avant même que ses sens ne l’avertissent. Il n’est plus possible de le [[pris au dépourvu|prendre au dépourvu]] et il ne perd plus son bonus de [[Dextérité]] à la [[CA]] si son adversaire est [[invisible]]. En revanche, il perd son bonus de Dextérité à la CA s’il est [[immobilisé]]. Un roublard qui maîtrise cette aptitude perd toujours son bonus de Dextérité à la CA si un adversaire réussit à effectuer une action de [[feinte]] contre lui. 
 
 Si le roublard maîtrise déjà l’esquive instinctive, grâce à une autre classe par exemple, il gagne automatiquement l’[[Roublard unchained#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] à la place.
 

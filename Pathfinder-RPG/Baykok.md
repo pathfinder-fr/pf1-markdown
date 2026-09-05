@@ -45,7 +45,7 @@ Categories:
 </td><td><div>
 *Ce squelette hurlant, aux jambes horriblement allongées, fend les airs et manie un arc d'os.*
 
-Lorsque la traque devient une véritable obsession pour les chasseurs et qu’ils se laissent aller à toute la sauvagerie de la mise à mort, leur âme se corrompt peu à peu. Et quand ces êtres impitoyables meurent avant d’avoir pu capturer et tuer leur proie, ils reviennent parfois d’entre les morts sous forme de baykoks : des horreurs mortes-vivantes volantes qui tuent pour la seule extase que le meurtre leur procure.
+Lorsque la traque devient une véritable obsession pour les chasseurs et qu’ils se laissent aller à toute la sauvagerie de la mise à mort, leur âme se corrompt peu à peu. Et quand ces êtres impitoyables meurent avant d’avoir pu capturer et tuer leur proie, ils reviennent parfois d’entre les morts sous forme de baykoks : des horreurs mortes-vivantes volantes qui tuent pour la seule extase que le meurtre leur procure. 
 
 Contrairement à beaucoup de morts-vivants abhorrant les vivants et s’en nourrissant, les baykoks cherchent toujours à prouver leur maîtrise de la chasse. Bien que profondément mauvais, ils ne s’intéressent souvent qu’aux ennemis qui, dans un groupe, leur paraissent comme les plus puissants, ils tuent les créatures inférieures uniquement si elles osent s’interposer entre le baykok et sa véritable proie. Une fois que le baykok a terrassé sa victime, il plonge sur elle pour dévorer son âme et ainsi s’assurer qu’elle ne reviendra jamais chercher vengeance.
 </div></td></tr></table>

@@ -142,13 +142,13 @@ Dans les siècles suivants, la plupart des seigneurs de l'arche ont suivi des m�
 **Dé de vie.** d6.
 
 ### Conditions requises
-Pour pouvoir devenir un seigneur de l'arche, le personnage doit satisfaire aux conditions suivantes :
+Pour pouvoir devenir un seigneur de l'arche, le personnage doit satisfaire aux conditions suivantes : 
 
 **Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères), 5 rangs en  [[Connaissances]] (ingénierie), 5 rangs en [[Diplomatie]].
 
 **Dons.** [[Création de créatures artificielles]], [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Œil mystique]].
 
-**Spécial.** Capacité à lancer *[[vision magique]]*, et avoir au moins 2 sorts de chaque
+**Spécial.** Capacité à lancer *[[vision magique]]*, et avoir au moins 2 sorts de chaque 
 école inscrits dans son [[Magicien#GRIMOIRE|grimoire]].
 
 **Spécial.** Doit posséder la capacité de classe [[Magicien#ECOLEDEMAGIE|école de magie]]. Le personnage doit avoir la capacité d'utiliser la [[école universelle (école)#MAINDELAPPRENTI|main de l'apprenti]] ou un pouvoir d'[[écoles de magie|école de magie]] différent qu'il peut utiliser un nombre de fois par jour égal à 3 + son modificateur d'[[Intelligence]]. Pour les capacités de seigneur de l'arche qui demandent de dépenser un certain nombre d'utilisations de main de l'apprenti, s'il est impossible pour le personnage d'utiliser main de l'apprenti alors il peut le substituer par un pouvoir d'école de magie équivalent qu'il peut utiliser un nombre de fois égal à 3 + son modificateur d'Intelligence. S'il le fait, il doit dépenser une utilisation supplémentaire de sa capacité.
@@ -159,7 +159,7 @@ Voici les compétences de classe du seigneur de l'arche : [[Diplomatie]] (Cha),
 **Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
-Voici les caractéristiques de classe du seigneur de l'arche.
+Voici les caractéristiques de classe du seigneur de l'arche. 
 #### Armes et armures
 Un seigneur de l'arche n'obtient aucune formation supplémentaire au maniement des armes ou au port des armures.
 
@@ -179,7 +179,7 @@ Au niveau 2, un seigneur de l'arche peut dépenser une utilisation de sa [[écol
 #### Scholiaste (Mag)
 Au niveau 3, un seigneur de l'arche obtient l'accès aux pouvoirs d'école d'une nouvelle [[écoles de magie|école de magie]]. Il choisit un unique pouvoir magique qui a un nombre d'utilisations par jour égal à 3 + modificateur d'[[Intelligence]]. Désormais, il peut utiliser cette capacité (avec un niveau de [[magicien]] égal à son [[NLS]]) en dépensant deux utilisations de sa capacité de [[école universelle (école)#MAINDELAPPRENTI|main de l'apprenti]]. Un magicien d'école spécialisée doit dépenser deux utilisations de sa capacité équivalente pour utiliser la main de l'apprenti mais il doit toujours dépenser une utilisation supplémentaire (pour un total de 3 utilisations) pour utiliser un pouvoir magique d'une école différente.
 
-Au niveau 6 et encore une fois au niveau 9, un seigneur de l'arche peut choisir un pouvoir magique d'école de magie supplémentaire à utiliser avec cette capacité.
+Au niveau 6 et encore une fois au niveau 9, un seigneur de l'arche peut choisir un pouvoir magique d'école de magie supplémentaire à utiliser avec cette capacité. 
 
 {s:reference|ARCHITECTEMAGIQUE}
 #### Architecte magique (Ext)
@@ -195,7 +195,7 @@ Au niveau 6, la durée de tous les sorts lancés par un seigneur de l'arche qui 
 
 {s:reference|APPELALAIDE}
 #### Appel à l'aide (Sur)
-Au niveau 8, par une [[action simple]], un seigneur de l'arche peut sacrifier un sort préparé de 2e niveau ou plus pour appeler une créature liée à lui, ce qui inclut un [[compagnons animaux|compagnon animal]], un [[eidolon]], un [[familiers|familier]], des créatures artificielles ou des morts-vivants contrôlés, des créatures liées à lui par télépathie (ce qui inclut les créatures affectées par *[[domination]]*, *[[domination universelle]]* ou *[[lien télépathique]]*) ou un [[type extérieur|Extérieur]] lié avec un sort de *[[contrat intermédiaire]]*. La créature appelée apparaît dans une case adjacente au seigneur de l'arche, ou dans la case libre la plus proche si toutes les cases adjacentes sont occupées. Cette capacité fonctionne comme *[[téléportation suprême]]* sauf que la limite de portée est déterminée par le niveau du sort sacrifié : courte (2e-3e niveau), moyenne (4e-5e niveau), grande (6e-7e niveau), illimitée (même plan) (8e niveau), illimitée (n'importe quel plan) (9e niveau).
+Au niveau 8, par une [[action simple]], un seigneur de l'arche peut sacrifier un sort préparé de 2e niveau ou plus pour appeler une créature liée à lui, ce qui inclut un [[compagnons animaux|compagnon animal]], un [[eidolon]], un [[familiers|familier]], des créatures artificielles ou des morts-vivants contrôlés, des créatures liées à lui par télépathie (ce qui inclut les créatures affectées par *[[domination]]*, *[[domination universelle]]* ou *[[lien télépathique]]*) ou un [[type extérieur|Extérieur]] lié avec un sort de *[[contrat intermédiaire]]*. La créature appelée apparaît dans une case adjacente au seigneur de l'arche, ou dans la case libre la plus proche si toutes les cases adjacentes sont occupées. Cette capacité fonctionne comme *[[téléportation suprême]]* sauf que la limite de portée est déterminée par le niveau du sort sacrifié : courte (2e-3e niveau), moyenne (4e-5e niveau), grande (6e-7e niveau), illimitée (même plan) (8e niveau), illimitée (n'importe quel plan) (9e niveau). 
 
 {s:reference|TROISIEMEOEILSUPERIEUR}
 #### Troisième œil supérieur (Mag)

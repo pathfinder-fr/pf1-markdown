@@ -9,12 +9,12 @@ Categories:
 
 {s:CSU|8}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Sahir-afiyun]] 2
-**Temps d’incantation** 1 [[action simple]]
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Sahir-afiyun]] 2  
+**Temps d’incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cible** créature vivante touchée
-**Durée** 1 minute/[[niveau]]
+**Portée** [[contact]]  
+**Cible** créature vivante touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible est incapable de respirer et est considérée comme retenant son souffle (voir les [[Dangers naturels#ASPHYXIE|règles d’asphyxie]]). Les stimulants puissants, les effets qui augmentent la [[Constitution]] de la cible ou les dommages physiques traumatiques (comme subir 10 points de dommages ou plus en une seule attaque) annulent immédiatement les effets du sort. Les créatures qui n’ont pas besoin de respirer sont immunisées contre ce sort. La cible est considérée comme ayant absorbé une dose de [[Drogues#PESH|pesh]] pour ce qui est des effets de [[Drogues|dépendance]] et de manque. Les sahir rusés se servent de ce sort afin de tuer leurs ennemis de manière subtile, car ce sort imite les effets d’une overdose de pesh.

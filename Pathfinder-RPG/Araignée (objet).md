@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 25 po ; **Poids** 0,23 kg
+{s:AE}**Prix** 25 po ; **Poids** 0,23 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces araignées de taille TP ont le corps rouge et les pattes noires. Ce sont des araignées de chasse : elles ne tissent pas de toiles mais sont venimeuses. Voir les statistiques de l'[[araignée écarlate]].

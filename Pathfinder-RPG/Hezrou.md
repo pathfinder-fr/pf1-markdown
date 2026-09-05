@@ -55,7 +55,7 @@ d’eau des Abysses et se sentent à l’aise aussi bien sur terre que dans
 l’eau. La présence d’un hezrou a un effet visible sur la flore et l’eau
 environnante : les végétaux se tordent et l’eau acquiert une mauvaise
 odeur et un goût saumâtre, des signes beaucoup plus faciles à repérer
-sur le plan Matériel que dans les Abysses.
+sur le plan Matériel que dans les Abysses. 
 
 Une exposition prolongée
 à cette corruption peut provoquer des transformations abominables

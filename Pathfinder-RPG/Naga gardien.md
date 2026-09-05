@@ -76,7 +76,7 @@ exotiques, anciens ou oubliés liés aux lieux saints qu’ils protègent,
 mais d’autres sont tout simplement attirés par les lieux merveilleux
 tels que les chutes d’eau gigantesques, les sommets rocheux ou les
 temples construits en haut des montagnes et décident d’en prendre
-soin par sens du devoir ou par vénération.
+soin par sens du devoir ou par vénération. 
 
 Ces nagas-là rejoignent souvent un culte encore en activité et offrent leurs services comme
 gardiens de sanctuaire ou d’un ancien trésor. Un couple de nagas
@@ -84,7 +84,7 @@ gardiens de sanctuaire ou d’un ancien trésor. Un couple de nagas
 protégé, puis ils y donnent naissance à une couvée et y élèvent leurs
 jeunes. Lorsque ceux-ci deviennent adultes, ils peuvent choisir de
 partir en quête d’un nouveau lieu ou de rester sur place et d’aider
-à protéger l’endroit choisi par leurs parents.
+à protéger l’endroit choisi par leurs parents. 
 
 Dans certains cas, le naga gardien qui protège une ruine ou un temple est simplement
 le dernier d’une longue lignée de sentinelles remontant à plusieurs

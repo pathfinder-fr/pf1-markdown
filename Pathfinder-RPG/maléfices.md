@@ -221,10 +221,10 @@ Chaque jour, une sorcière qui dispose de ce maléfice comprend tous les langage
 
 [[FAQ- Manuel des joueurs - Règles avancées#51|→]] Sorcière, Maléfice guérison : Puis-je utiliser ce maléfice pour blesser les morts-vivants ? Si oui, combien de fois puis-je affecter un mort-vivant donné ?**'
 
-Le <u>[[Maléfices#Guérison|maléfice]]</u> fonctionne comme le sort de *soins* approprié, donc il blesse les morts-vivants.
-Lorsqu'il est utilisé pour blesser un mort-vivant, il devrait avoir la même limitation d'une utilisation par 24 heures que son utilisation guérisseuse (bien que ce ne soit pas un « avantage » pour le mort-vivant ciblé.)
-Pour plus de clarté, là où le maléfice actuelle indique : « Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures »,
-Il devrait en fait dire : « Quand une créature a été affectée par ce maléfice, elle ne peut plus l'être pendant 24 heures  »
+Le <u>[[Maléfices#Guérison|maléfice]]</u> fonctionne comme le sort de *soins* approprié, donc il blesse les morts-vivants.  
+Lorsqu'il est utilisé pour blesser un mort-vivant, il devrait avoir la même limitation d'une utilisation par 24 heures que son utilisation guérisseuse (bien que ce ne soit pas un « avantage » pour le mort-vivant ciblé.)  
+Pour plus de clarté, là où le maléfice actuelle indique : « Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures »,  
+Il devrait en fait dire : « Quand une créature a été affectée par ce maléfice, elle ne peut plus l'être pendant 24 heures  »  
 Ceci sera reflété dans la prochaine impression du MRA.}Une sorcière peut apaiser les blessures de ceux qu’elle touche, ce qui fonctionne comme un sort de *[[soins légers]]* avec le [[niveau de lanceur de sorts]] de la sorcière. Quand une créature a été affectée par ce maléfice, elle ne peut plus l'être pendant 24 heures. Au [[niveau]] 5, ce maléfice fonctionne comme *[[soins modérés]]*.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
@@ -245,8 +245,8 @@ La sorcière peut affliger une créature qui se trouve dans les 9 m d’une terr
 #### Mauvais œil (Sur)
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#52|→]] Sorcière, Maléfice mauvais œil : Puis-je utiliser ce maléfice plus d'une fois par cible ?***
 
-Oui. Tant que le personnage applique un malus différent avec chaque utilisation du <u>[[Maléfices#Mauvaisœil|maléfice]]</u> (CA, tests de caractéristique, jets d'attaque, jets de sauvegarde, ou tests de compétence), il peut imposer plusieurs malus à une même cible. Appliquer le même malus à une cible réinitialise simplement la durée de l'utilisation la plus récente du maléfice.
-Exemple : Au round 1, le personnage maudit la CA de la cible. Au round 2, le personnage maudit les jets d'attaque de la cible, qui est donc soumise à deux maléfices de mauvais œil. Au round 3, le personnage maudit les jets de sauvegarde de la cible, qui est donc soumise à trois maléfices de mauvais œil. Au round 4, le personnage maudit à nouveau sa CA, réinitialisant la durée du maléfice de CA (ce qui n'ajoute pas un malus de -2 supplémentaire à sa CA). La même chose se produirait si deux sorcières utilisaient le mauvais œil sur la même cible - tant que chaque maléfice de mauvais œil applique un malus à une statistique différente, ils s'appliquent tous.
+Oui. Tant que le personnage applique un malus différent avec chaque utilisation du <u>[[Maléfices#Mauvaisœil|maléfice]]</u> (CA, tests de caractéristique, jets d'attaque, jets de sauvegarde, ou tests de compétence), il peut imposer plusieurs malus à une même cible. Appliquer le même malus à une cible réinitialise simplement la durée de l'utilisation la plus récente du maléfice.  
+Exemple : Au round 1, le personnage maudit la CA de la cible. Au round 2, le personnage maudit les jets d'attaque de la cible, qui est donc soumise à deux maléfices de mauvais œil. Au round 3, le personnage maudit les jets de sauvegarde de la cible, qui est donc soumise à trois maléfices de mauvais œil. Au round 4, le personnage maudit à nouveau sa CA, réinitialisant la durée du maléfice de CA (ce qui n'ajoute pas un malus de -2 supplémentaire à sa CA). La même chose se produirait si deux sorcières utilisaient le mauvais œil sur la même cible - tant que chaque maléfice de mauvais œil applique un malus à une statistique différente, ils s'appliquent tous.  
 Cela ne va pas à l'encontre de la règle générale relative au cumul de malus - chaque effet de mauvais œil est essentiellement une source différente, bien qu'ils se rapportent tous au maléfice de mauvais œil (qui est à considérer comme 5 maléfices faibles distincts rangés sous un même chapeau). De la même façon que plusieurs incantations de *[[sort Malédiction|malédiction]]* sur une même cible devraient se cumuler tant qu'elles font des choses différentes (réduction de Force, réduction de Dextérité, malus aux jets d'attaque, inaction, etc), plusieurs utilisation du maléfice de mauvais œil se cumulent tant qu'elles cibles des statistiques différentes.}La sorcière peut semer le doute dans l’esprit d’un ennemi visible situé à moins de 9 m d’elle. Il subit un malus de –2 sur l’un des éléments suivants (au choix de la sorcière) : [[CA]], [[test]] de [[caractéristique]], jet d’attaque, [[jet de sauvegarde]] ou [[test]] de [[compétences|compétence]]. Ce maléfice dure un nombre de [[round|rounds]] égal à 3 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur d’Intelligence]] de la sorcière. Un [[jet de sauvegarde|jet de Volonté]] permet de réduire cette durée à 1 [[round]]. C’est un [[effet mental]]. Au niveau 8, le malus passe à –4.
 
 {s:UM}{s:Reference|Odeurdenfant}
@@ -272,17 +272,17 @@ Une cible terrestre peut respirer sous l’eau et une cible aquatique peut respi
 
 [[FAQ- Manuel des joueurs - Règles avancées#53|→]] Sorcière, Maléfice ricanement : Puis-je utiliser mon action simple et mon action de mouvement pour ricaner deux fois lors d'un même round, rallongeant l'effet d'un autre maléfice de deux rounds ?**'
 
-Non, un personnage ne peut utiliser <u>[[Maléfices#Ricanement|ricanement]]</u> qu'une fois par round.
+Non, un personnage ne peut utiliser <u>[[Maléfices#Ricanement|ricanement]]</u> qu'une fois par round.  
 Il est envisagé de clarifier ce point dans une prochaine impression du *Manuel des joueurs - Règles avancées*.
----
+<hr />
 **'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
 [[FAQ- Manuel des joueurs - Règles avancées#54|→]] Sorcière, Maléfice ricanement : Mon personnage doit-il littéralement ricaner de façon erratique lorsque j'utilise ce maléfice, ou est-ce simplement du texte d'ambiance ?**'
 
-Le personnage doit effectivement <u>[[Maléfices#Ricanement|ricaner]]</u> - sans doute d'une voix forte, similaire au volume et à la clarté nécessaire à la formulation d'une composante de sort verbale.
-Mise à jour 19/7/2013:
-Si la sorcière est soumise à un effet de *[[silence]]*, elle ne peut pas utiliser le maléfice de ricanement.
-Si la cible est soumise à un effet de *[[silence]]*, elle n'est pas affectée par le ricanement.
+Le personnage doit effectivement <u>[[Maléfices#Ricanement|ricaner]]</u> - sans doute d'une voix forte, similaire au volume et à la clarté nécessaire à la formulation d'une composante de sort verbale.  
+Mise à jour 19/7/2013:  
+Si la sorcière est soumise à un effet de *[[silence]]*, elle ne peut pas utiliser le maléfice de ricanement.  
+Si la cible est soumise à un effet de *[[silence]]*, elle n'est pas affectée par le ricanement.  
 Cela nécessitera une clarification dans la prochaine impression du *Manuel des joueurs - Règles avancées*.}Par une [[action de mouvement]], la sorcière se met à ricaner follement. Toute créature située dans les 9 m et affectée par un maléfice d’agonie, de charme, de mauvais œil, de chance ou de malchance lancé par cette sorcière voit la durée de cet effet augmenter d’un [[round]]. La cible doit être capable d'entendre la sorcière pour être affectée par le ricanement. Une sorcière ne peut utiliser le maléfice de ricanement qu'une fois par round.
 
 {s:Reference|Romprelaconnexion}

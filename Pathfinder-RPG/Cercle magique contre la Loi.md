@@ -17,28 +17,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un cercle de poudre d’argent de 90 centimètres de diamètre)
-**Portée** [[présentation des sorts#PORTEE|contact]]
-**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon à partir de la créature touchée
-**Durée** 10 minutes/[[niveau]]
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un cercle de poudre d’argent de 90 centimètres de diamètre)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
+**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon à partir de la créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non (voir texte)
----
+<hr />
 Ce sort est semblable à *[[cercle magique contre le Mal]]*, si ce n’est que son effet se rapproche de *[[protection contre la Loi]]* plutôt que de *[[protection contre le Mal]]* et qu’il peut emprisonner une créature appelée qui n’est pas Chaotique.
 
 
 
 (((
 ## Cercle magique contre le Mal
-**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau**  [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un cercle de poudre d’argent de 90 centimètres de diamètre)
-**Portée** [[présentation des sorts#PORTEE|contact]]
-**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon à partir de la créature touchée
-**Durée** 10 minutes/[[niveau]]
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau**  [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un cercle de poudre d’argent de 90 centimètres de diamètre)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
+**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon à partir de la créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non (voir texte)
----
+<hr />
 Toutes les créatures qui se trouvent dans la zone bénéficient d’une protection contre le Mal, et les créatures Mauvaises convoquées ne sauraient y pénétrer. Les créatures qui se trouvent dans la zone ou qui y pénètrent par la suite ont droit à une chance de supprimer les effets qui les contrôlent. En cas de réussite, ces effets sont supprimés tant que les créatures restent dans le cercle. Les créatures qui quittent le cercle et y pénètrent à nouveau ne sont pas protégées. Pour maintenir une créature à distance, il faut vaincre sa [[RM|résistance à la magie]] (comme dans le cas de la troisième fonction de *[[protection contre le Mal]]*). Néanmoins, les bonus de parade et de résistance, ainsi que la protection contre toute forme de contrôle mental, s’appliquent quelle que soit la [[RM|résistance à la magie]] de l’adversaire.
 
 Le sort présente aussi une version alternative que le personnage peut choisir au moment de l’incantation. On peut diriger le cercle magique vers l’extérieur ou vers l’intérieur. Dans le cas de la seconde possibilité, le cercle magique sert de prison immobile et temporaire pour une créature appelée d’[[alignement]] autre que Bon (comme celles issues des sorts de *[[contrat]]*, *[[contrat intermédiaire]]* et *[[contrat suprême]]*) pour une durée maximale de vingt-quatre heures par [[NLS|niveau de lanceur de sorts]], du moins si le personnage lance le sort de [[convocation]] dans le round qui suit l’incantation du cercle magique. L’entité est dans l’incapacité de sortir du cercle. Lorsque la créature choisie comme sujet est trop volumineuse pour tenir dans le cercle magique, le sort se transforme en *[[protection contre le Mal]]* pour le sujet en question.

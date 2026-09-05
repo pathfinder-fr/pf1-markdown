@@ -36,24 +36,24 @@ Planter cinq graines dans une terre fertile, en les espaçant en forme de flèch
 : **3.** ***Lien de l'agriculteur (Sur).*** Le temps que le personnage a passé à cultiver lui a permis d'établir un lien avec les plantes. Il peut lancer *[[communication avec les plantes]]* trois fois par jour. Si le personnage passe au moins une heure par jour en plein soleil, il n'a pas besoin de manger ce jour-là. Enfin, le personnage est immunisé contre les poisons ingérés à partir de plantes entières (pas les poisons distillés, comme ceux qu'utilisent les assassins) et contre tout poison provenant d'attaques ou d'effets générés par des créatures de type [[type Plante|plante]].
 
 ### Règles uniques aux suivants
-**Armes et armures.**
+**Armes et armures.**  
 • Les [[Druide|druides]] et les [[Prêtre|prêtres]] d'Érastil sont formés au maniement des [[Arc court (arme)|arcs courts]] (et des [[Arc court composite (arme)|arcs courts composites]]).
 
-**Capacités de classe.**
+**Capacités de classe.**  
 • Les [[Paladin|paladins]] d'Érastil peuvent utiliser leur capacité de [[Paladin#CHATIMENTDUMAL|châtiment]] avec des attaques d'arme à distance aussi bien qu'avec des attaques d'arme au corps à corps.
 
-**Lancement de sorts ([[paladin]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[[Baie nourricière]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[paladin]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[[Baie nourricière]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Messager animal]]* peut être préparé comme un sort de 2e niveau (utilisable sur des nimaux non-hostiles, y compris les animaux de garde ou domestiques amicaux)..
 
-**Lancement de sorts ([[druide]]).**
+**Lancement de sorts ([[druide]]).**  
 • *[[Baie nourricière]]* peut être préparé comme un sort de 1er niveau (peut être lancé sur des noix ou des graines aussi bien que sur des baies).
 
-**Lancement de sorts ([[rôdeur]]).**
+**Lancement de sorts ([[rôdeur]]).**  
 • *[[Baie nourricière]]* peut être préparé comme un sort de 2e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Élan]] [[Archétypes#CREATURECELESTE|céleste]] - LB
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Élan]] [[Archétypes#CREATURECELESTE|céleste]] - LB  
 • *[[Convocation de monstres III]].* [[Ours sanguinaire]] [[Archétypes#CREATURECELESTE|céleste]] - LB
 
 #### Code de conduite du paladin
@@ -69,5 +69,5 @@ Les [[paladin|paladins]] d'Érastil sont des traditionalistes bourrus et stricts
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

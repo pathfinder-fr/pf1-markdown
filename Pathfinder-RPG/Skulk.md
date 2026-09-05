@@ -5,9 +5,9 @@ LastModified: 2017-01-21 14:16
 ---
 
 <table class="Bestiaire"><tr><td>
-<div class="BD">
-{s:BDTitre|Skulk|FP 1}
-{s:pucem|Humanoïde|Ville|Tempéré}
+<div class="BD">    
+{s:BDTitre|Skulk|FP 1}  
+{s:pucem|Humanoïde|Ville|Tempéré}  
 - *Source : Bestiaire 2* p.252   
 - **PX** 400
 - **[[Type Humanoïde|Humanoïde]]** ([[sous-type skulk|skulk]]) de taille M, CM

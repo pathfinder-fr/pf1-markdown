@@ -13,7 +13,7 @@ Categories:
 *Un primordialiste est un magicien qui a passé de très longues années à étudier le chaos qu’incarne la magie primordiale. Il cherche l’ordre dans ce désordre et espère maîtriser le pouvoir brut de cette magie pour renforcer ses propres pouvoirs. *
 
 #### Magie primordiale (Sur)
-Au niveau 1, un primordialiste peut tenter de canaliser la [[magie primordiale]] par une [[action rapide]] pour lancer un sort préparé sans que celui-ci ne disparaisse de son emplacement de sort. Dans les faits, le primordialiste injecte de la magie primordiale dans son environnement et tente de la façonner pour créer un effet magique spécifique.
+Au niveau 1, un primordialiste peut tenter de canaliser la [[magie primordiale]] par une [[action rapide]] pour lancer un sort préparé sans que celui-ci ne disparaisse de son emplacement de sort. Dans les faits, le primordialiste injecte de la magie primordiale dans son environnement et tente de la façonner pour créer un effet magique spécifique. 
 
 Pour utiliser cette aptitude, il lance le sort comme il le ferait normalement, mais quand les effets du sort se manifestent, il effectue un [[test de concentration]] ([[DD]] = 20 + le double du niveau du sort). En cas d’échec à ce test, il dépense le sort normalement comme s’il l’avait lancé, mais ses effets sont remplacés par un évènement de magie primordiale dont le [[FP]] est égal à son [[niveau de lanceur de sorts]]. De plus, il est [[chancelant]] pendant 1 [[round]] par niveau du sort qu’il a tenté de lancer. En cas de réussite au test, il lance le sort normalement et celui-ci ne disparaît pas de l’emplacement de sort préparé, ce qui lui permet de le lancer à nouveau ultérieurement.
 

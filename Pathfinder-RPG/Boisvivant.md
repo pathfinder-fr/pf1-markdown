@@ -46,6 +46,6 @@ Categories:
 </td><td><div>
 *S’il n’y avait pas ce sinistre visage dessiné dans l’écorce gris foncé de cet arbre, on pourrait le prendre pour un vieux chêne tout à fait ordinaire.*
 
-Ces plantes carnivores adorent la chair humaine et elfique, mais elles dévorent tout ce qu’elles parviennent à attraper. Les boisvivants explorent généralement les environs et prennent note de tous les chênes qui s’y trouvent avant de s’enraciner et d’attendre qu’une proie s’approche d’eux. Ils utilisent leur capacité de vision à travers les chênes pour surveiller constamment leur terrain de chasse et allongent leur racine pour ramener vers eux les proies qui tentent de s’éloigner.
+Ces plantes carnivores adorent la chair humaine et elfique, mais elles dévorent tout ce qu’elles parviennent à attraper. Les boisvivants explorent généralement les environs et prennent note de tous les chênes qui s’y trouvent avant de s’enraciner et d’attendre qu’une proie s’approche d’eux. Ils utilisent leur capacité de vision à travers les chênes pour surveiller constamment leur terrain de chasse et allongent leur racine pour ramener vers eux les proies qui tentent de s’éloigner. 
 
 </div></td></tr></table>

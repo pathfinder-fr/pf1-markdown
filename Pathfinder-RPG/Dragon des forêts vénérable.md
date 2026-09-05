@@ -23,7 +23,7 @@ Categories:
 {s:BDTexte|**Corps à corps** corne, +34 (2d8+19) et coup de queue, +32 (2d8+19) et 2 griffes, +35 (2d8+13) et morsure, +35 (4d6+19/19-20)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (6 m (4 {s:c}) avec corne et morsure)}
 {s:BDTexte|**Attaques spéciales** [[écrasement]] (DD 32, 2d8+19), écrasement destructeur, souffle ([[cône]] de 18 m (12 {s:c}), 20d6 dégâts perforants, DD 32)}
-{s:BDTexte|**Pouvoirs magiques** (NLS 25 ; concentration +30)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 25 ; concentration +30)} 
 {s:BDSorts|À volonté — *[[animation des plantes]]*, *[[enchevêtrement]]* (DD 16), *[[flétrissement végétal]]* (DD 20), *[[passage sans trace]]*, *[[voyage par les arbres]]*}
 {s:BDTexte|**Sorts connus** (NLS 15 ; concentration +20)}
 {s:BDSorts|7e (4/jour) — *[[mot de pouvoir aveuglant]]*, *[[vagues dépuisement|vagues d’épuisement]]* (DD 22)}

@@ -59,7 +59,7 @@ Categories:
 Les dromadaires sont de grands animaux de troupeau qui vivent dans le désert et qui sont réputés pour leur endurance et leur mauvais caractère. Un dromadaire moyen mesure à peu près 1,80 mètre de hauteur, avec une bosse qui atteint
 2,10 mètre.
 
-Vous pouvez appliquer l’archétype simple « évolué » pour obtenir un profil convenant aux chameaux (à deux bosses), plus forts et plus robustes.
+Vous pouvez appliquer l’archétype simple « évolué » pour obtenir un profil convenant aux chameaux (à deux bosses), plus forts et plus robustes. 
 
 #### Le Chameau (Dromadaire) comme compagnon animal
 

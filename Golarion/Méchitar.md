@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-La capitale du [[Geb]] est située sur la côte est du pays, à l'embouchure de l'[[Axanir]].
+La capitale du [[Geb]] est située sur la côte est du pays, à l'embouchure de l'[[Axanir]]. 
 
 La plupart des constructions de la ville sont des pyramides qui servent d'habitations aux Seigneurs de Sang, les familles aristocrates les plus influentes du pays. La plus imposante d'entre elles, appelée le Cinérarium, s'élève à près de 150 mètres et sert de palais au mage nécromant Geb, dictateur du pays auquel il a donné son nom, et à sa Reine Catin.
 

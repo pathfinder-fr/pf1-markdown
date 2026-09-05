@@ -15,9 +15,9 @@ Categories:
 {s:Desambi|(Plusieurs des aptitudes du commandant divin font référence aux règles du combat de masse décrites dans le Guide de campagne Pathfinder JdR et interagissent avec elles).}
 
 #### Monture (Ext)
-Un commandant divin acquiert une monture loyale et fidèle qu’il peut chevaucher au combat. Cette monture fonctionne comme le [[compagnon animal]] du druide, en remplaçant le niveau effectif de druide par le niveau de commandant divin. La créature doit pouvoir être chevauchée et doit être adaptée à son cavalier.
+Un commandant divin acquiert une monture loyale et fidèle qu’il peut chevaucher au combat. Cette monture fonctionne comme le [[compagnon animal]] du druide, en remplaçant le niveau effectif de druide par le niveau de commandant divin. La créature doit pouvoir être chevauchée et doit être adaptée à son cavalier. 
 
-Un commandant divin de taille M peut choisir un chameau ou un cheval. Un commandant de taille P peut choisir un poney ou un loup mais il peut également choisir un sanglier ou un chien s’il est au moins de niveau 4 (le MJ peut également autoriser d’autres animaux s’il considère qu’ils peuvent faire office de monture).
+Un commandant divin de taille M peut choisir un chameau ou un cheval. Un commandant de taille P peut choisir un poney ou un loup mais il peut également choisir un sanglier ou un chien s’il est au moins de niveau 4 (le MJ peut également autoriser d’autres animaux s’il considère qu’ils peuvent faire office de monture). 
 
 Un commandant divin ne subit pas le malus d’armure aux tests d’Équitation lorsqu’il chevauche cette monture. On considère que la monture est toujours [[Dressage|entraînée au combat]] et commence le jeu avec [[Port des armures légères]] en don supplémentaire.
 

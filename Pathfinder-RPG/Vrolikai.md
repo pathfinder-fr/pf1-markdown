@@ -23,7 +23,7 @@ Categories:
 {s:BDTexte|**immunités** effets de mort, électricité, poison ; **RD** 15/fer froid et Bien ; **Résistances** acide 10, feu 10, froid 10 ; **RM** 30}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), vol 18 m (12 {s:c}) (parfaite)}
-{s:BDTexte|**Corps à corps** *couteau de flammes noires +1*, +29/+24/+19/+14 (1d6+11/19–20 plus absorption d’énergie) et 3 ''couteaux de
+{s:BDTexte|**Corps à corps** *couteau de flammes noires +1*, +29/+24/+19/+14 (1d6+11/19–20 plus absorption d’énergie) et 3 ''couteaux de 
 flammes noires +1'', +29 (1d6+6/19–20 plus absorption d’énergie) et morsure, +23 (1d8+5) et dard, +23 (1d6+5 plus folie)}
 {s:BDTexte|ou morsure, +28 (1d8+10) et 4 griffes, +28 (1d6+10) et dard, +28 (1d6+10 plus folie)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}

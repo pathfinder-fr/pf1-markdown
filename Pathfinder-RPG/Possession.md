@@ -12,14 +12,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Suivant les règles de [[Possession spirituelle]] d'Aventures occultes, il est conseillé de remplacer ce sort par [[possession spirituelle (sort)|possession spirituelle]].}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F (une gemme ou un cristal d'une valeur d'au moins 100Po)]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** 1 créature
-**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le jeteur de sorts réintègre son corps
+{s:Desambi|Suivant les règles de [[Possession spirituelle]] d'Aventures occultes, il est conseillé de remplacer ce sort par [[possession spirituelle (sort)|possession spirituelle]].}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F (une gemme ou un cristal d'une valeur d'au moins 100Po)]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** 1 créature  
+**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le jeteur de sorts réintègre son corps  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 À la fin de l’incantation, l’âme du mage quitte son corps qui reste sans vie, pour aller se loger dans une pierre précieuse que l’on nomme généralement réceptacle magique. À partir de ce moment, le personnage peut tenter de prendre possession d’un corps proche en obligeant l’âme de sa victime à rentrer dans le réceptacle. Le personnage peut revenir dans la gemme quand il le souhaite (auquel cas l’âme chassée réintègre son corps) pour tenter de s’emparer d’un autre corps. Le sort s’achève quand le mage décide de réintégrer son corps (le réceptacle reste alors vide). Le personnage ne peut lancer *possession* que si le réceptacle se situe dans les limites de portée du sort et s’il sait où il se trouve (il n’a pas besoin de le voir). Quand l’âme entre dans la gemme, le corps du personnage devient inerte (il semble mort).
 
 Une fois dans la pierre précieuse, l’âme perçoit toute forme de vie distante de moins de 3 m par [[NLS|niveau du lanceur de sorts]] (dans le même plan uniquement). Elle peut l’attaquer si elle dispose d’une ligne d’effet dégagée (c’est-à-dire d’une ligne ininterrompue reliant la gemme à la cible). Le personnage ne peut pas découvrir l’identité ni la position exacte des créatures dont il perçoit la présence. Au sein d’un groupe de formes de vie, il perçoit juste une différence d’au moins 4 [[DV]] et sait si l’énergie qu’il sent est positive ou négative (les [[type mort-vivant|morts-vivants]] sont animés d’[[énergie négative]], mais seuls ceux qui sont doués d’intelligence possèdent une âme). Le personnage choisit donc s’il veut posséder une créature forte ou faible, mais l’identité exacte de la cible est déterminée aléatoirement.
@@ -38,14 +38,14 @@ Si le sort s’achève alors que l’âme du personnage se trouve dans la gemme,
 
 ((({s:sortssimilaires|possession}
 ## [[Possession de marionnette]]
-{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (un bout de papier avec le nom de la cible)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature consentante
-**Durée** 10 minutes/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps
+{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (un bout de papier avec le nom de la cible)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature consentante  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Le personnage projette son âme hors de son corps, dans celui d’une créature consentante. La *[[protection contre le mal]]* et autres sceaux similaires empêchent ce transfert. L’âme de la cible partage son corps avec le personnage, elle est incapable de faire quoi que ce soit mais elle peut tout même utiliser ses sens. Le personnage et la cible peuvent communiquer par [[télépathie]] comme s’ils utilisaient un langage commun.
 
 Le personnage conserve son [[Intelligence]], sa [[Sagesse]], son [[Charisme]], son [[niveau]], sa [[classe]], son [[BBA|bonus de base à l’attaque]], son bonus aux [[jet de sauvegarde|jets de sauvegarde]], son [[alignement]] et ses capacités mentales. Le corps conserve sa [[Force]], sa [[Dextérité]], sa [[Constitution]], ses [[points de vie]], ses capacités naturelles et ses [[attaque naturelle|attaques naturelles]] (comme une morsure ou un aiguillon). Un corps avec des membres supplémentaires ne permet pas au personnage de faire des attaques en plus de la normale (ni des attaques plus avantageuses à deux armes). Le personnage ne peut pas activer les [[pouvoirs magiques]], [[pouvoirs extraordinaires|surnaturels]] ou [[pouvoirs extraordinaires|extraordinaires]] d’un personnage.
@@ -53,24 +53,24 @@ Le personnage conserve son [[Intelligence]], sa [[Sagesse]], son [[Charisme]], s
 Le personnage peut retourner dans son corps par une [[action simple]], ce qui met un terme au sort. Tant que l’âme du personnage possède la cible, son propre corps est [[sans défense]]. Si le corps hôte se fait tuer, le personnage retourne dans son propre corps s’il est à portée et la force vitale de l’hôte se dissipe (ce qui se solde par sa mort). Si le corps hôte se fait tuer alors que le corps du personnage est hors de portée, le personnage meurt comme son hôte. Toute force vitale qui n’a pas d’endroit où aller est considérée comme morte.
 
 ## [[Possession dobjet|Possession d'objet]]
-{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** un objet, voir texte
-**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps
+{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** un objet, voir texte  
+**Durée** 1 heure/[[niveau]] ou jusqu’à ce que le personnage retourne dans son corps  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[possession]]* mais le personnage transfère son esprit dans un unique objet qu’il anime comme avec *[[objet animé]]*, sauf qu’il le contrôle comme si c’était son propre corps. Il ne peut pas parler ni lancer de sorts tant qu’il est dans l’objet. Comme, en pratique, son corps est mort tant que le sort fait effet, les effets de [[maladie]], de [[poison]] et d’autres afflictions sont temporairement suspendus.
 
 ## [[Âme parasite]]
-{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[sorcière|Sor]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (une gemme ou cristal d'une valeur d'au moins 100 po)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature
-**Durée** permanente ([[Présentation des sorts#DUREE|T]])
+{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[sorcière|Sor]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (une gemme ou cristal d'une valeur d'au moins 100 po)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature  
+**Durée** permanente ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[possession]]* à la différence des indications ci-dessus, et qu'au lieu de sa propre âme, le personnage peut transférer une âme prisonnière (comme une prise au piège dans une gemme spirituelle ou grâce à *[[Capture dâme|capture d'âme]]* ou *[[séquestration]]*) de son réceptacle vers le corps d'une cible non consentante. Si la créature ciblée rate son [[jet de sauvegarde]], elle meurt et l'âme piégée dans le réceptacle s'installe de manière permanente dans le corps comme si elle utilisait *possession*. L'âme piégée n'a pas droit à un jet de sauvegarde pour résister à ce transfert. Pour annuler le sort, le personnage doit être à portée du corps possédé.
 )))

@@ -7,10 +7,10 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}**Prix** variable ; **Poids** variable ; **Groupes** —
-**Dégâts** variable (P), variable (M) ; **Critique** variable ; **Portée** — ; **Type** variable ; **Spécial** variable
+{s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}**Prix** variable ; **Poids** variable ; **Groupes** —  
+**Dégâts** variable (P), variable (M) ; **Critique** variable ; **Portée** — ; **Type** variable ; **Spécial** variable  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Un kobold ayant le don [[Queue de terreur]] peut fixer ces accessoires sur le bout de sa queue pour améliorer son attaque naturelle. Chaque accessoire caudal fournit juste assez de poids, d’équilibre et de puissance de frappe pour augmenter les dégâts de son coup de queue. Il faut une [[action complexe]] pour fixer un accessoire caudal de kobold, et celui-ci reçoit un bonus de +4 contre les tentatives de [[désarmement]] visant à détacher son accessoire caudal.  
   
 Lorsqu’un kobold porte un accessoire caudal, l’attaque inflige les dégâts de l’accessoire caudal et certains bénéficient d’une caractéristique spéciale. Les accessoires caudaux sont des armes légères et peuvent être améliorés avec des dons augmentant les attaques d’arme (comme [[Arme de prédilection]] et [[Spécialisation martiale]]). Tous les accessoires caudaux de kobold forment un [[groupe darmes|groupe d’armes]] pouvant être améliorées par la capacité [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] du guerrier. Ils peuvent être d’un [[Matériaux spéciaux|matériau spécial]] et fabriqués comme des [[Artisanat#OBJETMAITRE|objets de maître]] ou magiques. Il y a cinq types d’accessoires caudaux de base.

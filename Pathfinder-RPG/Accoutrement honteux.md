@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** créature touchée
-**Durée** 1 round/niveau (T)
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** créature touchée  
+**Durée** 1 round/niveau (T)  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 La cible voit sa propre tenue comme désespérément démodée, ostentatoire et embarrassante, et ne peut s'empêcher de vouloir se débarasser de tous ses vêtements. Chaque round, la cible doit dépenser une [[action de mouvement]] pour retirer un objet qu'elle porte et qui peut être retiré par une telle action, le lâchant au sol une fois enlevé. La cible ne fait aucune distinction entre les objets magiques et non-magiques lorsqu'elles les enlèvent. Elle retire un objet déterminé aléatoire selon les emplacements suivants : ceinture, corps, épaules, front, mains, pieds, poignets, tête, torse ou yeux. Dans le cadre de cette détermination aléatoire, seuls les emplacements occupés par des objets retirables par une action de mouvement sont comptés. Bien que les créatures ne puissent pas porter plus d'un objet magique à la fois sur ces emplacements, elles peuvent avoir plusieurs objets ordinaires placés sur un même emplacement, auquel cas l'objet est aussi choisit aléatoirement. Si une cible porte des vêtements qui ne correspondent pas à ces emplacements, comme des hauts-de-chausses ou un carquois, il peut être ajouté à la liste des possibilités à la discrétion du [[MJ]].

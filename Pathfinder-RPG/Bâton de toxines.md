@@ -13,8 +13,8 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des toxines|}
 **Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 34 200 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton de chêne enveloppé de cigüe dégage une très légère odeur de pourriture et de corruption. Il permet de lancer les sorts suivants :
-• *[[brume mortelle]]* (2 charges)
+Ce bâton de chêne enveloppé de cigüe dégage une très légère odeur de pourriture et de corruption. Il permet de lancer les sorts suivants :  
+• *[[brume mortelle]]* (2 charges)  
 • *[[nuage nauséabond]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[brume mortelle]]*, *[[nuage nauséabond]]* ; **Coût** 17 100 po

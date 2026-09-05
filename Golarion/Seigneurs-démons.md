@@ -20,7 +20,7 @@ particulièrement fort dans la capitale [[Quantium]] du [[Nex]], où il maintien
 
 
 ### Aldinach {s:Reference|ALDINACH}
-Aldinach, surnomméé « Elle des six venins » est la baronne-démone du sable, des scorpions et de la soif. Elle apparait comme étant un colossal scorpion d'or. Ses griffes cristallines sont suffisamment bien effilées pour tailler la pierre et son visage évoque affreusement celui d'une humaine. Sur son dos grouille un essaim d'innombrables scorpions dont elle peut commander en tout temps par une simple pensée pour qu'ils exécutent ses ordres.
+Aldinach, surnomméé « Elle des six venins » est la baronne-démone du sable, des scorpions et de la soif. Elle apparait comme étant un colossal scorpion d'or. Ses griffes cristallines sont suffisamment bien effilées pour tailler la pierre et son visage évoque affreusement celui d'une humaine. Sur son dos grouille un essaim d'innombrables scorpions dont elle peut commander en tout temps par une simple pensée pour qu'ils exécutent ses ordres. 
 
 Les cultes voués à Aldinach se centralisent surtout dans les régions désertiques, en particulier dans les friches arides de l'[[Osirion]] et dans les terres reculées du [[Rahadoum]] où ses adeptes cherchent perpétuellement à séduire et corrompre les citoyens sans dieux de ces deux royaumes.
 
@@ -44,7 +44,7 @@ La Princesse Acérée préside au centre de son domaine de la taille d'un contin
 
 Le cris sanglant au travers la jungle, signifie sa présence, primaire et affamée...
 
-Angazhan, aussi appelé le Seigneur destructeur, est le seigneur-démon des gorilles et des jungles. Il est représenté sous la forme d'un énorme singe roux dont les pattes ont six doigts effilés et dont le visage démoniaque est accentué par des dents en forme de défenses et des petits yeux injectés de sang. Il règne sur le royaume abyssal d'Ahvoth-Kor.
+Angazhan, aussi appelé le Seigneur destructeur, est le seigneur-démon des gorilles et des jungles. Il est représenté sous la forme d'un énorme singe roux dont les pattes ont six doigts effilés et dont le visage démoniaque est accentué par des dents en forme de défenses et des petits yeux injectés de sang. Il règne sur le royaume abyssal d'Ahvoth-Kor. 
 
 Son culte sur [[Golarion]] est concentré dans l'étendue du [[Mwangi]], où il est vénéré par les tribus humaines Bekyar ainsi que par les charau-ka, petits êtres simiesques habitants la jungle du [[Mwangi]], qui au cœur de la jungle étranglée dans des sites de ruines oubliées, se nourrissent de chairs humaines pour calmer la sauvagerie de leur dieu démoniaque. La présence d'Angazhan dans l'Étendue [[Mwangi]] a été notée depuis fort longtemps — maints explorateurs ont à plusieurs reprises rencontré ses laquais depuis des milliers d'années et le consensus veut statuer que le règne du Seigneur destructeur est plus ancien que la naissance du [[Garund]] lui-même sans l'ombre d'un doute. Ses agents favoris sont connu comme étant les Rois-gorille, bien qu'un seul de ceux-ci règne à la fois dans le [[Mwangi]]. Pour cause, il y a eu des centaines de ces violents tyrans au cours des siècles ; chacun réincarné en une forme simienne grâce à de puissants artéfacts.
 
@@ -65,7 +65,7 @@ Le royaume d'Areshkagal est une région aride de collines pierreuses aux tons de
 ### Baphomet{s:Reference|BAPHOMET}
 Baphomet est le dieu des [[Pathfinder-RPG.Minotaure|minotaures]]. Mais le culte du dieu Minotaure, a aussi des adeptes chez les humains.
 Ses suivants l'adorent dans des endroits secrets, et l'éducation des adorateurs se fait dans les familles transmettant les secrets occultes de générations en générations, formant des sociétés secrètes ayant beaucoup de pouvoir, dans les grandes villes de Golarion.
-Ils gardent le silence sur leur allégeance à Baphomet, ils attendent patiemment le moment où leur dieu ferrait appeler à eux pour combattre ses ennemies et rendre le monde à la domination de la bête.
+Ils gardent le silence sur leur allégeance à Baphomet, ils attendent patiemment le moment où leur dieu ferrait appeler à eux pour combattre ses ennemies et rendre le monde à la domination de la bête. 
 Ces sociétés secrètes utilisent des signes complexes pour s'identifier les uns aux autres et se transmettre des messages. Ils se considèrent comme les Templiers du Labyrinthe d'Ivoire en l'honneur de son domaine la labyrinthe abyssal.
 
 Baphomet accéda au statut de seigneur-démon depuis qu'il est l'âme du premier et plus grand des minotaures, une bête créée par [[Lamashtu]] dans le but de servir de leader à ses dernières créations. Il demeure l'un des amants préférés de [[Lamashtu]] à ce jour, et elle visite souvent le seigneur-démon dans son labyrinthe d'Ivoire.
@@ -73,7 +73,7 @@ Baphomet apparait comme un humanoïde musclé avec une tête de taureau, il n'es
 Il est servit par les [[Pathfinder-RPG.Glabrezu|Glabezus]], qui souvent agissent comme des conseillers pour les Templiers et pour les nouveaux cultes dans des villes qui n'est pas encore contaminé par sa parole.
 
 ### Cyth-V’sug{s:Reference|CYTH-V'SUG}
-Cyth-V’sug, dénommé le Prince des landes désolées est le seigneur-démon qui prédomine la maladie, les champignons et les parasites.
+Cyth-V’sug, dénommé le Prince des landes désolées est le seigneur-démon qui prédomine la maladie, les champignons et les parasites. 
 
 
 
@@ -84,12 +84,12 @@ Dagon réside dans la mer abyssale d'Ishiar, plus précisément dans une ville e
 
 Pas tout à fait un poisson, ni un poulpe, ni une anguille ; la monstruosité qu'est Dagon est sans cesse friande d'envoyer ses hideux rejetons dans les océans du plan primaire matériel afin de répandre son influence par leur chemin de destructions qu'ils ouvriront devant eux jusqu'aux civilisations côtières tout près...
 
-Les géants des marécages sont traditionnellement parmi ses adorateurs les plus fervents des terres, mais dans certains endroits éloignés (en particulier le long des côtes occidentales de l'[[Avistan]] et [[Garund]]), son culte est en constante croissance chez les humains. Un village qui se tourne vers le culte de Dagon le fait souvent en secret, en maintenant une façade prétextant adorer une autre divinité, alors qu'en fait les dévotions de la communauté ne sont que pour l'Ombre dans la mer et son dogme voué à l'horreur. Dans les localités les plus reculées, ces cultes mélangent sans opprobre leur sang avec les [[Pathfinder-RPG.Sahuagin|sahuagins]], [[Pathfinder-RPG.Bourbiérin|bourbiérins]], et autres hideuses créatures aquatiques. Les enfants difformes issues de ces unions blasphématoires sont perçut comme un grand honneur dans leurs us et coutumes inhumainement malsaines.
+Les géants des marécages sont traditionnellement parmi ses adorateurs les plus fervents des terres, mais dans certains endroits éloignés (en particulier le long des côtes occidentales de l'[[Avistan]] et [[Garund]]), son culte est en constante croissance chez les humains. Un village qui se tourne vers le culte de Dagon le fait souvent en secret, en maintenant une façade prétextant adorer une autre divinité, alors qu'en fait les dévotions de la communauté ne sont que pour l'Ombre dans la mer et son dogme voué à l'horreur. Dans les localités les plus reculées, ces cultes mélangent sans opprobre leur sang avec les [[Pathfinder-RPG.Sahuagin|sahuagins]], [[Pathfinder-RPG.Bourbiérin|bourbiérins]], et autres hideuses créatures aquatiques. Les enfants difformes issues de ces unions blasphématoires sont perçut comme un grand honneur dans leurs us et coutumes inhumainement malsaines. 
 
 
 
 ### Deskari{s:Reference|DESKARI}
-Deskari, le *Seigneur de l'Ost des Nuées de sauterelles*, est le seigneur-démon des précipices, des infestations et des sauterelles.
+Deskari, le *Seigneur de l'Ost des Nuées de sauterelles*, est le seigneur-démon des précipices, des infestations et des sauterelles. 
 
 Considéré pour être le plus grand fils de [[Pazuzu]], Deskari est estimé par de nombreux érudits comme étant *le Guide de l'Apocalypse*. Lui et son culte ont longtemps tourmenté la nation du nord du [[Sarkoris]] où finalement, ses cultistes furent acculés jusqu'à dans le [[Lac des Brumes et des Voiles]] par [[Aroden]]. Pourtant, après la mort d'[[Aroden]], l'influence de Deskari a mûrit et a éclaté, transformant le [[Sarkoris]] en une terre hostile et hantée de démons, aujourd'hui appelée la [[Plaie du Monde]]. L'horreur envahissante de cette terre dévastée est à présent à peine tenue en échec par la diligence des Croisés en provenance du [[Mendev]] et du sud, qui craint que la [[Plaie du Monde]] puisse finalement s'étendre suffisamment pour engloutir toute l'[[Avistan]] tout entière.
 

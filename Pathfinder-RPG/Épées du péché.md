@@ -14,7 +14,7 @@ Categories:
 (((Description)))
 Cette très belle lame est une [[épée longue (arme)|épée longue]] de [[feu (propriété)|feu]] +5. Quand le personnage porte l’arme, il est immunisé contre tous les effets d’enchantement. Toute créature qui lance un sort d’enchantement sur le porteur de l’*épée de la luxure* croit que son sort ou son effet fonctionne normalement et que le porteur de l’épée est sous son contrôle, ce qui permet au porteur de tromper son adversaire s’il le veut (et de laisser croire à ses ennemis que leur magie a fonctionné).
 
-Quand l’*épée de la luxure* frappe un adversaire, la cible doit réussir un jet de [[Volonté]] [[DD]] 20 ou tomber sous les effets d’un sort de *[[charme-monstre]]*. L’épée ne peut charmer qu’une seule créature à la fois, si elle en charme une autre, la première est libérée de l’effet. Si l’épée porte un [[coup critique]], la cible doit réussir un jet de [[Volonté]] [[DD]] 25 pour ne pas être affectée par un sort de *[[domination universelle]]*.
+Quand l’*épée de la luxure* frappe un adversaire, la cible doit réussir un jet de [[Volonté]] [[DD]] 20 ou tomber sous les effets d’un sort de *[[charme-monstre]]*. L’épée ne peut charmer qu’une seule créature à la fois, si elle en charme une autre, la première est libérée de l’effet. Si l’épée porte un [[coup critique]], la cible doit réussir un jet de [[Volonté]] [[DD]] 25 pour ne pas être affectée par un sort de *[[domination universelle]]*. 
 </div>
 
 <div class="BD">
@@ -37,7 +37,7 @@ Lame en or trempé magiquement renforcé et d’une incroyable résistance, l’
 (((Description)))
 Cette pièce de métal marquée et tachée de pourpre fonctionne comme une [[épée à deux mains (arme)|épée à deux mains]] *[[boomerang (propriété)|boomerang]]* de *[[lancer (propriété)|lancer]]* +5. L’*épée de la colère* ne bénéficie pas des avantages normaux de la propriété spéciale *[[boomerang (propriété)|boomerang]]*, au lieu de cela, on peut la lancer avec un [[facteur de portée]] de 7,50 mètres. En outre, quand elle frappe un ennemi, ce dernier doit réussir un jet de [[Réflexes]] [[DD]] 20 pour ne pas recevoir 5d6 points de dégâts de feu supplémentaires. Si l'arme porte un [[coup critique]], elle explose en une *[[boule de feu]]* centrée sur l’adversaire du porteur.
 
-Toutes les créatures à moins de 6 mètres de la boule de feu (y compris le porteur de la lame de la colère et ses alliés, s’ils sont à portée) reçoivent 10d6 points de dégâts de feu ([[Réflexes]] [[DD]] 25, 1/2 dégâts). Le porteur n’exerce aucun contrôle sur les explosions de l’épée et ne peut donc pas les empêcher. L’épée retourne entre les mains de son porteur, parfaitement reformée, juste avant le début de son prochain tour.
+Toutes les créatures à moins de 6 mètres de la boule de feu (y compris le porteur de la lame de la colère et ses alliés, s’ils sont à portée) reçoivent 10d6 points de dégâts de feu ([[Réflexes]] [[DD]] 25, 1/2 dégâts). Le porteur n’exerce aucun contrôle sur les explosions de l’épée et ne peut donc pas les empêcher. L’épée retourne entre les mains de son porteur, parfaitement reformée, juste avant le début de son prochain tour. 
 </div>
 </td>
 <td>
@@ -49,7 +49,7 @@ Une scène de décadence impériale représentée par des gravures d’une fines
 
 Cette propriété d’arme supplémentaire s’active après que l’arme a frappé un adversaire une première fois, permettant d’infliger des dégâts supplémentaires lors des attaques suivantes, mais pas lors de la première. La propriété spéciale d’arme *[[tueuse (propriété)|tueuse]]* dure pour le reste de la journée ou jusqu’à ce que l’épée frappe une créature de type différent. En outre, quand l’*épée de la paresse* touche un ennemi de taille G ou plus petit, la cible doit réussir un jet de [[Volonté]] [[DD]] 20 pour ne pas être affectée comme si elle était sous les effets d’un sort de *[[porte dimensionnelle]]*. Cet effet fonctionne comme le sort mais le porteur de l'arme détermine où l’adversaire est transporté et sa destination doit être dans la ligne de vue du porteur. Le porteur ne peut pas téléporter un adversaire dans un espace occupé par une autre créature ou par un objet solide.
 
-Ce pouvoir ne peut affecter qu’une seule créature par round et la cible peut agir normalement lors de son prochain tour. Si l’épée porte un [[coup critique]], la cible doit réussir un jet de [[Volonté]] [[DD]] 25 pour ne pas être affectée par le sort de *[[téléportation]]*. Le porteur de l’épée détermine la destination, qui doit lui être très familière.
+Ce pouvoir ne peut affecter qu’une seule créature par round et la cible peut agir normalement lors de son prochain tour. Si l’épée porte un [[coup critique]], la cible doit réussir un jet de [[Volonté]] [[DD]] 25 pour ne pas être affectée par le sort de *[[téléportation]]*. Le porteur de l’épée détermine la destination, qui doit lui être très familière. 
 </div>
 
 <div class="BD">
@@ -73,7 +73,7 @@ Voici une présentation des *sept épées du péché* quand elles sont parfaitem
 <u>***Voir aussi l'[[Golarion.Épées du péché|histoire et les implications de cet artefact]].***</u>
 
 #### Propriétés partagées
-Malgré leurs grandes différences, les *sept épées du péché* partagent un certain nombre de pouvoirs.
+Malgré leurs grandes différences, les *sept épées du péché* partagent un certain nombre de pouvoirs.  
 - **Dormance.** Les *lames du péché* furent forgées pour servir les seigneurs des runes de l'empire des mages mais aujourd’hui, ces mêmes seigneurs sont morts ou endormis. Comme il n’y a plus de seigneurs des runes à servir, les armes de leurs champions hibernent, ce qui les réduit à de simples armes +2 avec les propriétés spéciales d’armes indiquées mais sans les autres propriétés. Le seul moyen de réveiller l’une de ces lames, c’est de ramener son seigneur des runes à une vie active ou de transmettre son rôle à autre dirigeant légitime (c’est l’arme définit ce qui est légitime ou non). Les épées peuvent détecter ces retours à la vie et aussitôt flamboyer de toute leur puissance, exigeant que leur porteur se mette en quête du seigneur des runes réveillé et lui jure une allégeance éternelle.
 - **Intelligence.** En plus des pouvoirs uniques que possède chaque lame, chacune des *lames du péché* est le serviteur intelligent d’un seigneur des runes. Fanatiques à l’extrême, les épées cherchent à forcer leurs porteurs à servir les seigneurs des runes et à reprendre les objectifs de l’ancien empire. Pour faire valoir leurs objectifs, chacune peut se manifester comme un objet intelligent Loyal Mauvais avec une Intelligence de 18, un Ego de 25, télépathie, des sens à 9 mètres maximum, la capacité de parler et de lire le commun et le thassilonien, et la capacité de lancer création de nourriture et d’eau, endurance aux énergies destructives et soins importants trois fois par jour. Ces propriétés n’apparaissent cependant que si l’épée est active.
 - **Destruction.** Chacune des *sept épées du péché* peut être détruite si on lui ordonne simplement de se briser. Cela dit, cette injonction doit venir du seigneur des runes de la nation et de l’école de magie associée à l’épée.

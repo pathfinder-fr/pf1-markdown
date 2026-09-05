@@ -14,5 +14,5 @@ Categories:
 (((Description)))
 L’anneau de l’érudit donne au porteur une compréhension complète de n’importe quel texte écrit ou de n’importe quelle langue parlée, même de celles qu’il n’a jamais entendue auparavant (comme le sort [[compréhension des langages]]), ainsi qu’un bonus de compétence de +5 à ses tests de [[Connaissances]] (histoire). En outre, tous les 5 jours, le porteur peut invoquer un sort de [[mythes et légendes]] relatif à un sujet qu’il a étudié au cours des dernières semaines, s’il a déjà tenté un test de [[Connaissances]] (histoire) aidé de l’anneau.
 (((Création)))
-**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[compréhension des langages]]*, *[[mythes et légendes]]* ; **Coût** 4 350 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[compréhension des langages]]*, *[[mythes et légendes]]* ; **Coût** 4 350 po 
 </div>

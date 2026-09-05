@@ -19,13 +19,13 @@ Un rôdeur infiltré possède les aptitudes de classe suivantes :
 
 [[FAQ- Manuel des joueurs - Règles avancées#45|→]] Rôdeur, Rôdeur infiltré : Comment un rôdeur avec l'archétype rôdeur infiltré (page 138), qui lui fait perdre sa capacité de classe environnement de prédilection, peut-il utiliser les capacités de classe camouflage et caché en pleine lumière ?**'
 
-Un rôdeur avec l'archétype <u>[[Rôdeur infiltré (rôdeur)|rôdeur infiltré]]</u> peut utiliser les capacités de classe [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise sa capacité de classe adaptation, qu'importe le terrain où il se trouve.
-Mise à jour : À la page 138, dans l'archétype rôdeur infiltré, dans la capacité de classe adaptation, ajoutez la phrase suivante à la fin du second paragraphe :
+Un rôdeur avec l'archétype <u>[[Rôdeur infiltré (rôdeur)|rôdeur infiltré]]</u> peut utiliser les capacités de classe [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise sa capacité de classe adaptation, qu'importe le terrain où il se trouve.  
+Mise à jour : À la page 138, dans l'archétype rôdeur infiltré, dans la capacité de classe adaptation, ajoutez la phrase suivante à la fin du second paragraphe :  
 « Le rôdeur peut utiliser les capacités [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise des adaptations. »}Au niveau 3, un rôdeur infiltré apprend comment copier les capacités spéciales de sa proie. Il choisit un type de créatures faisant partie de ses [[rôdeur#ENNEMIJURE|ennemis jurés]] (comme par exemple les aberrations) et une capacité ou un don parmi la liste des adaptations possibles correspondant à ce type (voir plus bas).
 
 Le rôdeur peut utiliser cette capacité chaque jour pendant 10 minutes par niveau de rôdeur. Il n’est pas obligé d’utiliser tout son quota quotidien en une seule fois mais chaque utilisation doit correspondre à une durée complète de 10 minutes.
 
-Si l’adaptation nécessite que le rôdeur fasse un choix plus précis (comme par exemple la compétence sur laquelle le don de Talent s’appliquera), ce choix est fait une fois pour toute et ne peut plus être changé par la suite.
+Si l’adaptation nécessite que le rôdeur fasse un choix plus précis (comme par exemple la compétence sur laquelle le don de Talent s’appliquera), ce choix est fait une fois pour toute et ne peut plus être changé par la suite. 
 
 Aux niveaux 8, 13 et 15, le rôdeur choisit un autre type parmi ses [[rôdeur#ENNEMIJURE|ennemis jurés]] et une adaptation au sein de la liste correspondant à ce type. Il choisit aussi une nouvelle adaptation dans une des listes correspondant aux types de créatures qu’il a choisis dans le cadre de cette capacité (il peut s’agir du nouveau type qu’il vient de choisir). Le rôdeur infiltré ne peut utiliser qu’une seule adaptation à la fois. Cette capacité remplace [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]. Le rôdeur peut utiliser les capacités [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu’il utilise des adaptations.
 - **Aberration** : [[amphibie]], armure naturelle +2, [[vision dans le noir]] à 18 mètres (12 {s:c}), [[Volonté de fer]].

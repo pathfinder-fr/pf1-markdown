@@ -129,7 +129,7 @@ Voici les compétences de classe de l’héritier noble : [[Bluff]] (Cha), [[Co
 ### Caractéristiques de classe
 Voici les caractéristiques de classe de l'héritier noble.
 #### Armes et armures
-Un héritier noble est formé au maniement de toutes les [[Tableau récapitulatif des armes#TABCOURANTES|armes courantes]] et [[Tableau récapitulatif des armes#TABGUERRE|de guerre]], ainsi qu'au port de toutes les [[Tableau récapitulatif des armures|armures]] et tous les [[Tableau récapitulatif des armures#BOUCLIER|boucliers]] (sauf les pavois).
+Un héritier noble est formé au maniement de toutes les [[Tableau récapitulatif des armes#TABCOURANTES|armes courantes]] et [[Tableau récapitulatif des armes#TABGUERRE|de guerre]], ainsi qu'au port de toutes les [[Tableau récapitulatif des armures|armures]] et tous les [[Tableau récapitulatif des armures#BOUCLIER|boucliers]] (sauf les pavois). 
 
 {s:reference|PROSPERITE}
 #### Prospérité (Ext)
@@ -141,13 +141,13 @@ Au niveau 2, un héritier noble gagne le don [[Prestige]] comme don supplémenta
 
 {s:reference|ERUDITIONARISTOCRATIQUE}
 #### Érudition aristocratique (Ext)
-Au niveau 3, un héritier noble obtient un bonus égal à la moitié de son niveau de classe aux tests de [[Diplomatie]], de [[Connaissances]] (folklore local) et Connaissances (noblesse). Cette capacité réduit également le [[DD]] des tests de Diplomatie et Connaissances (folklore local) faits par d'autres personnages pour récupérer des informations sur l'héritier noble d'un même montant (moitié de niveau de classe).
+Au niveau 3, un héritier noble obtient un bonus égal à la moitié de son niveau de classe aux tests de [[Diplomatie]], de [[Connaissances]] (folklore local) et Connaissances (noblesse). Cette capacité réduit également le [[DD]] des tests de Diplomatie et Connaissances (folklore local) faits par d'autres personnages pour récupérer des informations sur l'héritier noble d'un même montant (moitié de niveau de classe). 
 
 {s:reference|INFLUENCEPRESTIGIEUSE}
 #### Influence prestigieuse (Ext)
 Au niveau 4, un héritier noble peut utiliser son influence pour recevoir des traitements de faveur, des services ou autres avantages. Il a dans les faits une bourse virtuelle de pièces d'or d'un montant égal à 150 po plus 10 po par niveau de classe qu'il peut utiliser pour acheter des services et des biens immatériels. Cette bourse se remplit automatiquement au début de chaque semaine.
 
-Les services et produits immatériels qu'un héritier noble peut acheter incluent :
+Les services et produits immatériels qu'un héritier noble peut acheter incluent : 
 - Paiement pour l'hébergement, l'écurie, les taxes et les péages.
 - Amélioration de sa qualité de vie.
 - Embauche d'amuseurs, d'artistes, de messagers, de montures, de servants, de transports privés, d'employés, et autres.
@@ -160,7 +160,7 @@ Un héritier noble ne peut pas acquérir des biens matériels ou de l'argent dé
 
 {s:reference|EXPERTISEREGIONALE}
 #### Expertise régionale (Ext)
-Au niveau 4 et encore une fois aux niveaux 6 et 8, un héritier noble gagne un don supplémentaire de la liste ci-dessous, selon son lieu de naissance. Ces dons doivent être pris de la même liste à chaque niveau (sauf pour les dons de la catégorie « général », qui peuvent être pris par un noble de n'importe quelle région). Un héritier noble n'a pas besoin de satisfaire aux conditions du don pour pouvoir le prendre. À sa discrétion, le [[MJ]] peut rajouter des dons à ces listes, ou créer une liste pour d'autres régions.
+Au niveau 4 et encore une fois aux niveaux 6 et 8, un héritier noble gagne un don supplémentaire de la liste ci-dessous, selon son lieu de naissance. Ces dons doivent être pris de la même liste à chaque niveau (sauf pour les dons de la catégorie « général », qui peuvent être pris par un noble de n'importe quelle région). Un héritier noble n'a pas besoin de satisfaire aux conditions du don pour pouvoir le prendre. À sa discrétion, le [[MJ]] peut rajouter des dons à ces listes, ou créer une liste pour d'autres régions. 
 - **Royaume divisé.** [[Arme de prédilection]] ([[épée de duel (arme)|épée de duel]]), [[Briser la tenaille]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] ([[épée de duel (arme)|épée de duel]]), [[Savancer|S'avancer]].
 - **Empire diabolique.** [[Force intimidante]], [[Homme de main]], [[Orateur prudent]],  [[Talent]] (Connaissances <nowiki>[[</nowiki>plans<nowiki>]]</nowiki>).
 - **Royaume de l'impossible.**  [[Arme de prédilection]] (mains nues), [[Science du combat à mains nues]], [[Talent]] (Représentation <nowiki>[[</nowiki>danse<nowiki>]]</nowiki>), [[Voix de la sibylle]].

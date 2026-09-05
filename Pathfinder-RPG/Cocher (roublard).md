@@ -22,7 +22,7 @@ Quand le cocher conduit un [[véhicule]] qui utilise un groupe d’animaux ou de
 Au [[niveau]] 3, le cocher apprend à diriger son véhicule et à en garder le contrôle même s’il est mortellement blessé. S’il tombe en dessous de 0 point de vie mais qu’il n’est pas [[mort]], il peut faire un jet de [[Vigueur]] [[DD]] 15 à chaque [[round]] pour rester conscient et contrôler le véhicule, même s’il ne peut pas faire d’autres actions. Ce pouvoir remplace [[Roublard#SENSDESPIEGES|sens des pièges]].
 
 #### Talents de roublard
-Voici les [[talents|talents de roublard]] qui viennent compléter le cocher :
+Voici les [[talents|talents de roublard]] qui viennent compléter le cocher : 
 [[entraînement aux armes à feu (talent)|entraînement aux armes à feu]] et [[spécialiste de la fuite (talent)|spécialiste de la fuite]].
 
 #### Talents de maître roublard

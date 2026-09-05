@@ -7,7 +7,7 @@ Categories:
 - Organisation
 ---
 
-{s:OrdresHellknights|Ordre de la balafre|Order of the Scar|-|[[Cassomir]], au [[Taldor]]|-|-|-|Rapière|-}L'Ordre de la Balafre est un ordre quasiment disparu de [[Chevaliers Infernaux]] qui se concentre sur la recherche et l'élimination d'assassins. L'ordre a été fondé par le roi Gaspodar du [[Chéliax]] dans un acte de désespoir durant les premières années de la guerre civile chélaxienne.
+{s:OrdresHellknights|Ordre de la balafre|Order of the Scar|-|[[Cassomir]], au [[Taldor]]|-|-|-|Rapière|-}L'Ordre de la Balafre est un ordre quasiment disparu de [[Chevaliers Infernaux]] qui se concentre sur la recherche et l'élimination d'assassins. L'ordre a été fondé par le roi Gaspodar du [[Chéliax]] dans un acte de désespoir durant les premières années de la guerre civile chélaxienne. 
 
 L'ordre contient aujourd'hui moins de quarante membres. On dit qu'ils préfèrent la rapière à toute autre arme. La plupart des [[Chevaliers Infernaux]] de cet ordre habitent à [[Cassomir]] au [[Taldor]], les autres vivant dans d'autres lieux du [[Taldor]] et du [[Qadira]].
 

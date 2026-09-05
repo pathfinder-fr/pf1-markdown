@@ -6,7 +6,7 @@ LastModified: 2025-05-31 23:49
 
 {s:MenuMystères}{s:cs}<div class="description">**Source :** People of the North (PotN).</div>
 
-**Compétences de classe.** Un oracle du mystère de l'hiver ajoute [[Pathfinder-RPG.Intimidation|Intimidation]], [[Pathfinder-RPG.Discrétion|Discrétion]], [[Pathfinder-RPG.Connaissances|Connaissances]] (nature) et [[Pathfinder-RPG.Survie|Survie]] à sa liste de compétences de classe.
+**Compétences de classe.** Un oracle du mystère de l'hiver ajoute [[Pathfinder-RPG.Intimidation|Intimidation]], [[Pathfinder-RPG.Discrétion|Discrétion]], [[Pathfinder-RPG.Connaissances|Connaissances]] (nature) et [[Pathfinder-RPG.Survie|Survie]] à sa liste de compétences de classe. 
 
 
 **Sorts supplémentaires.***[[Pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives]]* (2), *[[Pathfinder-RPG.chute de température|chute de température]]* (4), *[[Pathfinder-RPG.tempête de neige|tempête de neige]]* (6), *[[Pathfinder-RPG.tempête de grêle|tempête de grêle]]* (8), *[[Pathfinder-RPG.prison de glace|prison de glace]]* (10), *[[Pathfinder-RPG.cône de froid|cône de froid]]* (12), *[[Pathfinder-RPG.corps de glace|corps de glace]]* (14), *[[Pathfinder-RPG.rayon polaire|rayon polaire]]* (16), *[[Pathfinder-RPG.prison de glace de groupe|prison de glace de groupe]]* (18)

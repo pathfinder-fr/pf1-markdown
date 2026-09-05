@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1.000 po ; **Poids** 5 tonnes
+{s:AE}**Prix** 1.000 po ; **Poids** 5 tonnes  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces animaux de taille TG sont exceptionnellement forts et apprennent vite. Certaines cultures les dressent pour le combat ou le travail. La plupart des éléphants connus viennent de la savane ou des grandes forêts tropicales. Ils mangent tellement qu’ils coûtent très cher à entretenir hors de leur environnement naturel. Voir les statistiques de l'[[éléphant]].

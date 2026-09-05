@@ -84,7 +84,7 @@ dirigés par des matrones sadiques et dangereuses qui ne
 cessent de comploter et de mettre sur pied des machinations visant les
 maisons rivales ou les autres membres de leur famille. La majorité des
 drows sont des soldats de base ou des citoyens décadents et possèdent
-les caractéristiques présentées ci-dessus.
+les caractéristiques présentées ci-dessus. 
 
 Au combat, les drows se montrent terriblement impitoyables et ne
 connaissent ni la pitié ni l’honneur. Ils préfèrent tendre des embuscades

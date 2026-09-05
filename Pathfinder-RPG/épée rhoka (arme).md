@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 25 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}**Prix** 25 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Les [[Urdefhan|urdefhans]], ces ennemis de la vie, sont presque les seuls à utiliser ce genre d’épée. Elle fait la même taille qu’une [[épée longue (arme)|épée longue]] mais elle se compose de deux lames dentelées placées côte-à-côte.

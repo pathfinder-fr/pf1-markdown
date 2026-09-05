@@ -16,19 +16,19 @@ Le Murmure du Bronze|%2fPCUP%2fReligion-PNG%2fBrigh.png|[[Divinités#AUTRES|Autr
 |—}{s:cs}{s:ISG}Brigh est la déesse de l'invention et semble particulièrement apprécier les créations qui prennent vie d'elles-mêmes, comme les créatures artificielles et mécaniques. Malheureusement, les esprits créatifs qui s'engagent dans le type d'invention que Brigh favorise le plus sont ceux qui ne sont pas enclins à l'adoration ou à l'évangélisation - ils ont tendance à se consacrer à l'invention à la place. Par conséquent, son clergé n'est pas très nombreux.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Apaisement de créatures artificielles]]* peut être préparé comme un sort de 3e niveau.
-• *[[Réparation]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Apaisement de créatures artificielles]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Réparation]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Réparation intégrale]]* peut être préparé comme un sort de 2e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Apaisement de créatures artificielles]]* peut être préparé comme un sort de 4e niveau.
-• *[[Contrôle de créature artificielle]]* peut être préparé comme un sort de 7e niveau.
-• *[[Créature artificielle incassable]]* peut être préparé comme un sort de 5e niveau.
-• *[[Réparation]]* peut être préparé comme une oraison.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Apaisement de créatures artificielles]]* peut être préparé comme un sort de 4e niveau.  
+• *[[Contrôle de créature artificielle]]* peut être préparé comme un sort de 7e niveau.  
+• *[[Créature artificielle incassable]]* peut être préparé comme un sort de 5e niveau.  
+• *[[Réparation]]* peut être préparé comme une oraison.  
 • *[[Réparation intégrale]]* peut être préparé comme un sort de 2e niveau.
 
-**Convocations étendues.**
+**Convocations étendues.**  
 • *[[Convocation de monstres I]].* [[Espion mécanique]]
 • *[[Convocation de monstres IV]].* [[Serviteur mécanique]]
 • *[[Convocation de monstres VI]].* [[Soldat mécanique]]

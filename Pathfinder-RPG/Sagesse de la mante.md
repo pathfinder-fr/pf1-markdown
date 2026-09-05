@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Science du combat à mains nues]], [[École de la mante]], [[Coup étourdissant]], 6 rangs en [[Premiers secours]]
+**Conditions.** [[Science du combat à mains nues]], [[École de la mante]], [[Coup étourdissant]], 6 rangs en [[Premiers secours]] 
 
 **Avantage.** Quand le personnage détermine les effets applicables avec le [[Coup étourdissant]] du [[moine]], il compte la moitié de ses autres niveaux de classe comme des niveaux de moine. Il peut débarrasser une cible des effets d’un [[Coup étourdissant]] avec une [[action simple]] et une attaque réussie au corps à corps. Tant qu’il utilise l’[[École de la mante]], il gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] à mains nues consacrées au [[Coup étourdissant]].
 

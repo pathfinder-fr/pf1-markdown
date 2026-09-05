@@ -8,7 +8,7 @@ Categories:
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#23|→]] Maîtrise des sorts : Un alchimiste, un magus, ou une sorcière peut-il/elle choisir ce don ?***
 
-Comme c’est écrit, non, puisque le prérequis du <u>[[Maîtrise des sorts|don]]</u> est « magicien de niveau 1 ».
+Comme c’est écrit, non, puisque le prérequis du <u>[[Maîtrise des sorts|don]]</u> est « magicien de niveau 1 ».  
 En revanche, le don a été écrit avant l’existence des classes [[alchimiste]], [[magus]], et [[sorcière]], et il est parfaitement raisonnable de créer une règle maison qui permet à ces classes de choisir ce don et d’en appliquer les avantages au livre de formules de l’alchimiste, au grimoire du magus, ou au familier de la sorcière.}*Le personnage maîtrise une petite poignée de sorts pour lesquels il n’a pas besoin de se référer à son grimoire.*
 
 **Condition.** [[Magicien]] de niveau 1

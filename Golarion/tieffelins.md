@@ -10,6 +10,6 @@ Les Tieffelins sont des créatures planaires natives de [[Golarion]]. Bien que d
 Les tieffelins sont très différents les uns des autres. Leurs allure dépend non seulement de l'ethnie de leur parent humain, mais aussi du type de leur part fiélone. Certains peuvent avoir des cornes, d'autres des des sabots, d'autres encore des queues, etc... Il est donc très difficile de pouvoir faire marquer une généralité physiologique concernant les tieffelins, si ce n'est qu'ils ont la même apparence générale que leur parentèle humaine.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des tieffelin dans le supplément
+Vous pourrez trouver plus d'informations à propos des tieffelin dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

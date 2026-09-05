@@ -104,8 +104,8 @@ Le DD de certaines capacités qui fonctionnent comme un sort est explicité, com
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### *Charme-personne* : Comment la partie « essayer de donner des instructions » de ce sort fonctionne ?
-Le sort fait de la cible l’amie du personnage. Elle le traitera avec gentillesse (mais pas forcément ses alliés) et tentera généralement d’aider le personnage tant que leurs intérêts coïncident. Ce qui est principalement défini par le MJ.
-Si le personnage demande à la créature de faire quelque chose qu’elle ne ferait pas habituellement (en rapport avec leur amitié), le test opposé de Charisme entre en jeu.
+Le sort fait de la cible l’amie du personnage. Elle le traitera avec gentillesse (mais pas forcément ses alliés) et tentera généralement d’aider le personnage tant que leurs intérêts coïncident. Ce qui est principalement défini par le MJ.  
+Si le personnage demande à la créature de faire quelque chose qu’elle ne ferait pas habituellement (en rapport avec leur amitié), le test opposé de Charisme entre en jeu.  
 Par exemple, si le personnage utilise <u>*[[charme-personne]]*</u> pour se lier d’amitié à un orque, ce dernier pourrait partager son grog avec le personnage et lui parler d’un raid futur sur un campement. Si le personnage lui demandait de l’aider à combattre quelques squelettes, il pourrait tout à fait donner un coup de main. S’il lui demandait de l’aider à labourer un champ, en revanche, le personnage devrait faire ce test pour le convaincre.
 
 <div style="border-top:1px dashed #4b3124">
@@ -155,10 +155,10 @@ Un animal entraîné au port d’une [[Barde (objet)|barde]] peut continuer à l
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### *Fabrication* : Puis-je utiliser ce sort pour fabriquer un objet de maître ou un objet fait d’un matériau spécial ?
-Oui et oui. En fait, le <u>[[Fabrication|sort]]</u> est simplement conçu pour faire gagner du temps par rapport à l’artisanat non-magique ; le personnage doit toujours fournir les matériaux bruts nécessaires (qui coûtent donc 1/3 du prix total de l’objet).
-Le sort n’impose pas de test d’Artisanat si le personnage fabrique un objet qui n’exige pas une grande maîtrise, comme un bureau, une porte, un gourdin, ou une armure simple.
-Fabriquer un bureau avec un compartiment secret, une porte qui se confond avec le mur lorsqu’elle est fermée (i.e., une porte secrète), ou un objet de maître compte comme un objet « exigeant une grande maîtrise », donc le personnage doit réussir un test d’Artisanat approprié contre le DD de création de ce type d’objet avec le sort.
-En général, n’importe quel objet avec un DD d’Artisanat de 15 ou plus impose de réussir un test d’Artisanat pour le fabriquer.
+Oui et oui. En fait, le <u>[[Fabrication|sort]]</u> est simplement conçu pour faire gagner du temps par rapport à l’artisanat non-magique ; le personnage doit toujours fournir les matériaux bruts nécessaires (qui coûtent donc 1/3 du prix total de l’objet).  
+Le sort n’impose pas de test d’Artisanat si le personnage fabrique un objet qui n’exige pas une grande maîtrise, comme un bureau, une porte, un gourdin, ou une armure simple.  
+Fabriquer un bureau avec un compartiment secret, une porte qui se confond avec le mur lorsqu’elle est fermée (i.e., une porte secrète), ou un objet de maître compte comme un objet « exigeant une grande maîtrise », donc le personnage doit réussir un test d’Artisanat approprié contre le DD de création de ce type d’objet avec le sort.  
+En général, n’importe quel objet avec un DD d’Artisanat de 15 ou plus impose de réussir un test d’Artisanat pour le fabriquer.  
 Si le personnage souhaite créer (par exemple) une [[chemise de mailles (armure)|chemise de mailles]] en [[mithral]], il doit fournir le mithral et les autres matériaux nécessaires à la création de la chemise de mailles (pour un coût égal à 1/3 du prix de l’objet). Puisque les objets en mithral sont toujours de maître, le personnage doit réussir un test d’Artisanat pour parvenir à créer l’objet.
 Comme avec les règles d’artisanat classiques, si le personnage rate ce test de 4 ou moins, la création est un échec mais les matériaux ne sont pas gâchés (et peuvent être utilisés tels quels pour lancer le sort de nouveau). S’il rate de 5 ou plus, le personnage perd la moitié des matériaux bruts et doit les racheter pour pouvoir recommencer.
 
@@ -207,7 +207,7 @@ Dirigez-vous vers la FAQ sur la lumière et les ténèbres [ici](http://paizo.co
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|19}
 #### *Négation de l’invisibilité* : Fonctionne-t-il sur les créatures naturellement invisibles ?
-Généralement, oui – rien dans la description du sort ne précise qu’il fonctionne uniquement sur les sorts ou les autres sources d’invisibilité magique.
+Généralement, oui – rien dans la description du sort ne précise qu’il fonctionne uniquement sur les sorts ou les autres sources d’invisibilité magique.  
 Par contre, notez que l’invisibilité naturelle du [[traqueur invisible]] indique spécifiquement qu’elle n’est pas sujette à la <u>*[[négation de linvisibilité|négation de l’invisibilité]]*</u>. Ainsi, les [[feu follet|feux follets]] et les [[pixie|pixies]] deviennent visibles, mais pas les traqueurs invisibles.
 
 <div style="border-top:1px dashed #4b3124">
@@ -252,7 +252,7 @@ Non. Un <u>[[Capacités spéciales#TYPES|pouvoir magique]]</u> n’est pas un so
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|27}
 #### Pouvoirs magiques et Création d’objet : Puis-je utiliser un pouvoir magique pour satisfaire une condition de fabrication d’un objet ?
-Oui. Dans le *Manuel des joueurs* [[Descriptions des objets magiques|pages 466-467]], section Conditions de fabrication, le paragraphe 2 dit, « Une condition de sort requis peut aussi être remplie par l’intermédiaire d’un autre lanceur de sorts, d’un pouvoir magique ou d’un objet a fin d’incantation ou a potentiel magique. »
+Oui. Dans le *Manuel des joueurs* [[Descriptions des objets magiques|pages 466-467]], section Conditions de fabrication, le paragraphe 2 dit, « Une condition de sort requis peut aussi être remplie par l’intermédiaire d’un autre lanceur de sorts, d’un pouvoir magique ou d’un objet a fin d’incantation ou a potentiel magique. »  
 Par exemple, un démon avec le don Création d’armes et armures magiques qui possède *boule de feu* comme <u>[[Capacités spéciales#TYPES|pouvoir magique]]</u> peut fabriquer une *épée de [[feu (propriété)|feu]] +1*, qui a *boule de feu* comme condition de fabrication.
 
 <div style="border-top:1px dashed #4b3124">
@@ -268,8 +268,8 @@ Ce texte a été écrit quand le [[magicien]] était l’unique classe qui prép
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|30}
 #### Propriété spéciale d’arme *gardienne* : Dois-je faire un jet d’attaque avec l’arme pour gagner son bonus à la CA ?
-Oui. Simplement tenir une arme <u>*[[gardienne (propriété)|gardienne]]*</u> ne suffit pas. Sauf précision contraire, le personnage doit utiliser un objet magique pour accomplir ce pourquoi il a été conçu (utiliser une arme pour faire des attaques, porter un bouclier sur son bras pour se défendre avec, etc) afin de profiter de ses avantages.
-Ainsi, si le personnage ne fait pas de jet d’attaque avec une arme *gardienne* à son tour, il ne bénéficie pas de ses avantages défensifs.
+Oui. Simplement tenir une arme <u>*[[gardienne (propriété)|gardienne]]*</u> ne suffit pas. Sauf précision contraire, le personnage doit utiliser un objet magique pour accomplir ce pourquoi il a été conçu (utiliser une arme pour faire des attaques, porter un bouclier sur son bras pour se défendre avec, etc) afin de profiter de ses avantages.  
+Ainsi, si le personnage ne fait pas de jet d’attaque avec une arme *gardienne* à son tour, il ne bénéficie pas de ses avantages défensifs.  
 De même, si le personnage peut ajouter la propriété *gardienne* à un bouclier (après lui avoir ajouté un [[Armes magiques|bonus d’altération]] de +1 à l’attaque, bien entendu), il n’obtiendra pas le bonus à la CA de la propriété sauf s’il utilise le bouclier pour porter un coup de bouclier à ce round – autrement dit, si le personnage n’utilise pas le bouclier comme une arme (pour porter un coup de bouclier), la propriété spéciale d’arme *gardienne* n’a pas d’effet.
 
 <div style="border-top:1px dashed #4b3124">

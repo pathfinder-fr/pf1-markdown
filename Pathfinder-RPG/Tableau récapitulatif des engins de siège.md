@@ -7,7 +7,7 @@ Categories:
 ---
 
 {s:MenuEquipement}
-<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>''Voir les [[tableau récapitulatif des armes|armes classiques]] et les [[tableau récapitulatif des armes à feu|armes à feu]].
+<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>''Voir les [[tableau récapitulatif des armes|armes classiques]] et les [[tableau récapitulatif des armes à feu|armes à feu]].  
 Voir les [[Engins de siège|règles relatives aux engins de siège]], ainsi que la [[Solidité et points de vie des structures|solidité et la résistance des structures]] susceptibles d'êtres ciblées.''
 
 

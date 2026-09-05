@@ -12,28 +12,28 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
-**École** [[Illusion]] ([[Présentation des sorts#OMBRE|ombre]]) <nowiki>[</nowiki>[[ombre]]<nowiki>]</nowiki>; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G]]
-**Portée** 0 m
-**Effet** un objet illusoire non magique abandonné, en matière végétale non vivante, d’un maximum de 0,03 m3/[[niveau]]
-**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[Présentation des sorts#OMBRE|ombre]]) <nowiki>[</nowiki>[[ombre]]<nowiki>]</nowiki>; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G]]  
+**Portée** 0 m  
+**Effet** un objet illusoire non magique abandonné, en matière végétale non vivante, d’un maximum de 0,03 m3/[[niveau]]  
+**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[création mineure]]*, mais crée seulement un objet illusoire. Si une créature interagit avec, elle a droit à un jet de [[Volonté]] pour faire disparaître l’objet. Un gnome qui lance ce sort peut faire un test d’[[Art de la magie]] au lieu d’un test d’[[Artisanat]] pour fabriquer un objet complexe.
 
 
 
 (((
 ## Création mineure
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, M]] (un morceau de matériau correspondant à celui que l’on souhaite créer)
-**Portée** 0 m
-**Effet** objet non-magique de matière inerte et végétale de 30 dm³/[[niveau]]
-**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, M]] (un morceau de matériau correspondant à celui que l’on souhaite créer)  
+**Portée** 0 m  
+**Effet** objet non-magique de matière inerte et végétale de 30 dm³/[[niveau]]  
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Grâce à cette invocation le personnage peut créer un objet non-magique de matière inerte et d’origine végétale. Le volume de l’objet créé ne peut en aucun cas dépasser 30 dm³ par [[niveau]]. Si l’objet souhaité est assez complexe, il faut réussir un test d’[[Artisanat]] approprié.
 
 Si l’on essaye d’utiliser un objet créé grâce à cette incantation comme [[composante matérielle]] d’un autre sort, ce dernier échoue automatiquement.

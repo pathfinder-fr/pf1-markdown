@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:MR}{s:AO}**Prix** 7 pa (AO), 10 po (MR, 10 bâtonnets) ; **Poids** — (AO), 0,5 kg (MR, 10 bâtonnets)
+{s:MR}{s:AO}**Prix** 7 pa (AO), 10 po (MR, 10 bâtonnets) ; **Poids** — (AO), 0,5 kg (MR, 10 bâtonnets)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette résine aromatique est imbibée d'huiles parfumées et modelée en forme de bâtonnets, de cônes ou de boulettes. On les brûle généralement lors de cérémonies religieuses ou de séances de méditation. Un morceau d'encens brûle pendant une heure.

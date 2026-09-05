@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Particularités** armes familières, [[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] +4, [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] (montagne +2), [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), [[rôdeur#PISTAGE|pistage]] +3}
 {s:BDTexte|**Équipement de combat** *[[Flèches (arme)|flèches]] de [[feu (propriété)|feu +1]]* (2), *[[potions magiques|potion]] de [[soins modérés]]*, [[Sacoche immobilisante (objet)|sacoches immobilisantes]] (2) ; **Équipement divers** *[[armure de cuir (armure)|armure de cuir clouté +1]]*, *[[arc court composite (arme)|arc court composite +1]]* avec [[Flèches (arme)|40 flèches]], [[Hache darmes (arme)|hache de guerre de maître]], 56 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

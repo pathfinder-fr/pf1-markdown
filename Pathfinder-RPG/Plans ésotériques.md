@@ -750,7 +750,7 @@ importantes.
 ##### Caractéristiques du Cimetière
 **Plan intemporel.** L’âge, la faim, la soif, les afflictions (comme les maladies, les malédictions et les poisons) et la guérison naturelle ne s’appliquent pas dans le Cimetière mais ces éléments reprennent leur fonctionnement naturel dès que le voyageur quitte le Cimetière.
 
-**Morphique divine.** Une divinité possédant un domaine dans le Cimetière peut modifier ce plan à volonté.
+**Morphique divine.** Une divinité possédant un domaine dans le Cimetière peut modifier ce plan à volonté. 
 
 **Fortement aligné (Neutre).** Sur les plans fortement alignés, le malus de circonstances de –2 s’applique à tout test de compétence basé sur l’Intelligence, la Sagesse et le Charisme de toute créature dont l’alignement ne correspond pas à celui du plan. Les malus dus aux composantes éthiques et morales se cumulent.
 

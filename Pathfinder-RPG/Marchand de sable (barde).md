@@ -29,13 +29,13 @@ Un marchand de sable maîtrise les types de [[représentation bardique]] suivant
 
 
 #### Maître des dupes (Ext)
-Un marchand de sable ajoute un bonus égal à la moitié de son niveau de barde sur ses tests de [[Bluff]], [[Discrétion]] et [[Escamotage]]. Il peut également neutraliser les pièges magiques comme s’il possédait l’aptitude de classe du roublard [[roublard#RECHERCHEDEPIEGES|recherche de pièges]]. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]].
+Un marchand de sable ajoute un bonus égal à la moitié de son niveau de barde sur ses tests de [[Bluff]], [[Discrétion]] et [[Escamotage]]. Il peut également neutraliser les pièges magiques comme s’il possédait l’aptitude de classe du roublard [[roublard#RECHERCHEDEPIEGES|recherche de pièges]]. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]]. 
 
 #### Sort sournois (Ext)
-Au niveau 2, un marchand de sable ajoute un bonus de +1 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] de ses sorts et [[représentation bardique|représentations bardiques]] lorsqu’il affronte des adversaires qui ne bénéficient pas de leur bonus de [[Dextérité]]. Ce bonus passe à +2 au niveau 10 et à +3 au niveau 18. De plus, il ajoute un bonus de +2 au niveau 6 et de +4 au niveau 14 à ses tests de lanceur de sort quand il s’agit de surpasser leur [[RM|résistance magique]]. Cette aptitude remplace [[barde#Versatilité_artistique_Ext_5|versatilité artistique]].
+Au niveau 2, un marchand de sable ajoute un bonus de +1 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] de ses sorts et [[représentation bardique|représentations bardiques]] lorsqu’il affronte des adversaires qui ne bénéficient pas de leur bonus de [[Dextérité]]. Ce bonus passe à +2 au niveau 10 et à +3 au niveau 18. De plus, il ajoute un bonus de +2 au niveau 6 et de +4 au niveau 14 à ses tests de lanceur de sort quand il s’agit de surpasser leur [[RM|résistance magique]]. Cette aptitude remplace [[barde#Versatilité_artistique_Ext_5|versatilité artistique]]. 
 
 #### Sens des pièges (Ext)
-Au niveau 3 et tous les trois niveaux au-delà, un marchand de sable ajoute un bonus de +1 sur ses jets de [[Réflexes]] et à sa [[CA]] contre les pièges. Cette aptitude remplace [[Représentations#Inspiration_talentueuse_Sur_4|inspiration talentueuse]].
+Au niveau 3 et tous les trois niveaux au-delà, un marchand de sable ajoute un bonus de +1 sur ses jets de [[Réflexes]] et à sa [[CA]] contre les pièges. Cette aptitude remplace [[Représentations#Inspiration_talentueuse_Sur_4|inspiration talentueuse]]. 
 
 #### Attaque sournoise (Ext)
 Au niveau 5, un marchand de sable inflige +1d6 points de dégâts +1d6 par tranche de cinq niveaux au-delà du niveau 5 aux adversaires situés dans un [[rayon]] de 9 mètres (6 {s:c}) autour de lui s’il peut les [[prise en tenaille|prendre en tenaille]] ou s’ils ne peuvent bénéficier de leur bonus de [[Dextérité]] contre lui. Cette aptitude remplace [[barde#Maître_du_savoir_Ext_7|maître du savoir]].

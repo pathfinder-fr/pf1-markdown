@@ -46,9 +46,9 @@ LastModified: 2017-04-06 21:09
 </td><td><div>
 *La peau de cette beauté pâle comme la mort est marbrée d’ecchymoses et de coupures mais on la devine néanmoins qui sourit derrière le fouillis de sa chevelure légère.*
 
-Malgré sa robe dépenaillée et son apparence négligée, l’harionago est une créature pleine de grâce d’une grande beauté. Elle arpente les routes de nuit, se faisant passer pour une demoiselle en détresse afin d’attirer ceux qu’elle croise à portée de ses griffes paralysantes et des pointes de ses cheveux. Cela dit, son arme la plus dangereuse reste son rire. Gloussement retentissant de mépris railleur et de malice haineuse, il force quiconque l’entend à rire de concert avec elle.
+Malgré sa robe dépenaillée et son apparence négligée, l’harionago est une créature pleine de grâce d’une grande beauté. Elle arpente les routes de nuit, se faisant passer pour une demoiselle en détresse afin d’attirer ceux qu’elle croise à portée de ses griffes paralysantes et des pointes de ses cheveux. Cela dit, son arme la plus dangereuse reste son rire. Gloussement retentissant de mépris railleur et de malice haineuse, il force quiconque l’entend à rire de concert avec elle. 
 
-L’harionago naît quand une femme innocente se fait assassiner de manière indicible. Elle se relève, pervertie par l’injustice du crime dont elle a été victime, sous forme d’une horreur contre-nature et avide de sang qui traque des victimes sans méfiance tout en essayant d’étancher sa soif éternelle de vengeance.
+L’harionago naît quand une femme innocente se fait assassiner de manière indicible. Elle se relève, pervertie par l’injustice du crime dont elle a été victime, sous forme d’une horreur contre-nature et avide de sang qui traque des victimes sans méfiance tout en essayant d’étancher sa soif éternelle de vengeance. 
 
 La destruction de l’harionago ne lui apporte pas toujours le repos définitif. En de rares occasions et par quelque procédé mystérieux, elle se relève à nouveau un an et un jour plus tard pour reprendre sa traque. Elle ne trouve la paix que lorsqu’elle s’est enfin vengée de ses meurtriers. Si ceux-ci sont déjà morts quand elle revient, elle ne trouve alors le repos que lorsque l’intégralité de leur lignée a été massacrée.
 </div></td></tr></table>

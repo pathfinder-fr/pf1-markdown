@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Nid-du-Faucon (ville)|[[Andoran]]|[[Val de Sombrelune]]|NM|Conseil ([[Consortium du Bois]])|40 550 po|1 400 (petite bourgade)|1,328 humains, 44 halfelins, 14 elfes, 14 autres|• **Thuldrin Kreed**, Maillet du Consortium (humain m, LM, expert 3/roublard 4 (ou 9))
-• **Jaurpaye "Jour de paye" Teedum**, Superviseur du Consortium (humain m, LM, moine 2/ guerrier 3)
-• **Vamros Harg**, magistrat (halfelin m, NM, aristocrate 2/ensorceleur 5)
+{s:Communauté|Nid-du-Faucon (ville)|[[Andoran]]|[[Val de Sombrelune]]|NM|Conseil ([[Consortium du Bois]])|40 550 po|1 400 (petite bourgade)|1,328 humains, 44 halfelins, 14 elfes, 14 autres|• **Thuldrin Kreed**, Maillet du Consortium (humain m, LM, expert 3/roublard 4 (ou 9))  
+• **Jaurpaye "Jour de paye" Teedum**, Superviseur du Consortium (humain m, LM, moine 2/ guerrier 3)  
+• **Vamros Harg**, magistrat (halfelin m, NM, aristocrate 2/ensorceleur 5)  
 • **Deldrin Baleson**, prévôt de Sombrelune (demi-elfe m, LN, expert 3/guerrier 3)}Nid-du-Faucon est une ville du [[Val de Sombrelune]], dans la nation de l'[[Andoran]]. La communauté se trouve à une courte distance de la [[forêt de Sombrelune]] et n'est guère plus qu'un village de bûcherons, composé presque exclusivement de bûcherons employés par le [[Consortium du Bois]] et leurs familles. À quelques exceptions près, les bâtiments et leurs habitants appartiennent au Consortium et dépendent totalement des marchandises hors de prix livrées par l'organisation.<sup>(1)</sup>
 
 On dit que dans le passé, des nains se sont installés dans les environs de Nid-du-Faucon ; des rumeurs persistent selon lesquelles les trésors oubliés de leur civilisation déchue restent encore à trouver. Pourtant, aujourd'hui, c'est un endroit pour les désespérés qui n'ont nul part où aller, pour les parias et les fanatiques religieux cherchant à éviter les obstacles causés par leur environnement.<sup>(1)</sup>

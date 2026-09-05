@@ -44,7 +44,7 @@ torse humain musclé tout en rappelant certaines caractéristiques
 typiques des elfes et des humanoïdes étroitement liés au monde
 naturel. La partie inférieure de leur corps se compose de nageoires
 et d’une queue de poisson gigantesque. La couleurs des écailles des
-hommes-poissons varie selon les régions.
+hommes-poissons varie selon les régions. 
 
 On trouve de l’argent brillant, du vert pâle ou même du bleu tacheté de jaune et de
 pourpre. Les hommes-poissons mesurent généralement entre
@@ -60,7 +60,7 @@ En fait, de nombreux
 hommes-poissons font
 tout pour éloigner
 les marins de
-leurs domaines, utilisant la violence si nécessaire.
+leurs domaines, utilisant la violence si nécessaire. 
 
 Certains récits anciens indiquent que les hommes-poissons protègeraient
 un secret effroyable lié aux profondeurs sous-marines. Aucun
@@ -75,7 +75,7 @@ existe des hommes-poissons mutants et dégénérés qui hantent
 les régions les plus isolées et les plus profondes des mers et des
 océans. Certains indices laissent penser que ces créatures seraient
 tombées sous la coupe de puissances sinistres et corrompues
-tapies dans les ténèbres loin sous la surface.
+tapies dans les ténèbres loin sous la surface. 
 
 D’autres théories prétendent que ce serait le cas de tous les hommes-poissons et que
 même ceux qui pensent être les maîtres de leur propre destinée

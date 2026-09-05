@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 200 po ; **Poids** 7,5 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 200 po ; **Poids** 7,5 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Les tenues royales sont ostentatoires, avec des pierres précieuses, de l’or, de la soie et de la fourrure en quantité. Elles sont rarement conçues pour être portées dans la vie de tous les jours ou pour se protéger du climat (elles ne peuvent pas non plus s’enfiler sans aide) puisque quiconque porte ce genre de vêtement est censé avoir de nombreux serviteurs pour veiller à tous ses besoins. Cette tenue n’inclut que les vêtements, pas de sceptre, de couronne, d’anneau ni d’autres accessoires royaux.

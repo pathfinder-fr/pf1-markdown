@@ -8,14 +8,14 @@ LastModified: 2024-06-01 16:21
 {s:BDTitre|Cape du magicien solitaire|{s:AE}}
 **Aura** École associée au modèle de cape faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 2.500 po ; **Poids** 0,5 kg
 (((Description)))
-Il existe huit modèles de cette cape : un par école de magie. La cape confère à son porteur le pouvoir d’utiliser sur commande un certain nombre de sorts de l’école de magie qui lui est associée ([[NLS]] 1). Elle permet aussi d’utiliser *[[prestidigitation]]* sur commande et à volonté.
-• **[[Abjuration]]** : à volonté – *[[résistance]]* ; 1/jour – *[[endurance aux énergies destructives]]*, *[[bouclier]]*
-• **[[Invocation]]** : à volonté – *[[aspersion acide]]* ; 1/jour – *[[armure de mage]]*, *[[serviteur invisible]]*
-**[[école divination|Divination]]** : à volonté – *[[détection de la magie]]* ; 1/jour – *[[détection des passages secrets]]*, *[[coup au but]]*
-• **[[Enchantement]]** : à volonté – *[[hébétement]]* ; 1/jour – *[[charme-personne]]*, *[[sommeil]]*
-• **[[Évocation]]** : à volonté – *[[lumière]]* ; 1/jour – *[[disque flottant]]*, *[[projectile magique]]*
-• **[[Illusion]]** : à volonté *[[son imaginaire]]* ; 1/jour – *[[couleurs dansantes]]*, *[[image silencieuse]]*
-• **[[Nécromancie]]** : à volonté – *[[fatigue]]* ; 1/jour – *[[frayeur]]*, *[[rayon affaiblissant]]*
+Il existe huit modèles de cette cape : un par école de magie. La cape confère à son porteur le pouvoir d’utiliser sur commande un certain nombre de sorts de l’école de magie qui lui est associée ([[NLS]] 1). Elle permet aussi d’utiliser *[[prestidigitation]]* sur commande et à volonté.  
+• **[[Abjuration]]** : à volonté – *[[résistance]]* ; 1/jour – *[[endurance aux énergies destructives]]*, *[[bouclier]]*  
+• **[[Invocation]]** : à volonté – *[[aspersion acide]]* ; 1/jour – *[[armure de mage]]*, *[[serviteur invisible]]*  
+**[[école divination|Divination]]** : à volonté – *[[détection de la magie]]* ; 1/jour – *[[détection des passages secrets]]*, *[[coup au but]]*  
+• **[[Enchantement]]** : à volonté – *[[hébétement]]* ; 1/jour – *[[charme-personne]]*, *[[sommeil]]*  
+• **[[Évocation]]** : à volonté – *[[lumière]]* ; 1/jour – *[[disque flottant]]*, *[[projectile magique]]*  
+• **[[Illusion]]** : à volonté *[[son imaginaire]]* ; 1/jour – *[[couleurs dansantes]]*, *[[image silencieuse]]*  
+• **[[Nécromancie]]** : à volonté – *[[fatigue]]* ; 1/jour – *[[frayeur]]*, *[[rayon affaiblissant]]*  
 • **[[Transmutation]]** : à volonté – *[[manipulation à distance]]* ; 1/jour – *[[agrandissement]]*, *[[repli expéditif]]*
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[prestidigitation]]* et tous les sorts que la cape permet d’utiliser, le créateur doit posséder le don [[École renforcée]] de l’école de magie associée à la cape.  ; **Coût** 1.125 po

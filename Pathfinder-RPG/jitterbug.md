@@ -13,7 +13,7 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
-**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>;
+**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>; 
 **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

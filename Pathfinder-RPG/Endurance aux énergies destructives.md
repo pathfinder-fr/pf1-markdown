@@ -20,14 +20,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 24 heures
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 24 heures  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Une créature protégée par *endurance aux énergies destructives* ne souffre pas de la chaleur ou du froid lorsqu’elle se trouve dans un environnement extrême. Elle se sent à son aise par des températures allant de -45°C à +60°C et ne doit pas effectuer le moindre jet de [[Vigueur]] dans ces conditions. Son équipement bénéficie également de la même protection.
 
 *Endurance aux énergies destructives* n’offre aucune protection contre les dégâts de feu et de froid ni contre les autres dangers liés à l’environnement comme la fumée ou le manque d’air par exemple.
@@ -39,13 +39,13 @@ Une créature protégée par *endurance aux énergies destructives* ne souffre p
 
 ((({s:sortssimilaires|endurance aux énergies destructives}
 ## [[Endurance aux énergies destructives (partagé)]]
-{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 24 heures
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 24 heures  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[endurance aux énergies destructives]]* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
 )))

@@ -55,7 +55,7 @@ hiérarchie établie par Asmodéus et
 ses archidiables. On peut également
 en rencontrer sur d’autres plans,
 plus particulièrement sur le plan
-des Ombres.
+des Ombres. 
 
 Beaucoup de personnes
 disent que les kytons sont des créatures
@@ -76,7 +76,7 @@ variantes. Selon la rumeur, il y aurait autant
 de sortes de kytons dans les cités suspendues
 de l’Enfer et sur le plan des Ombres que
 de différentes espèces de démons et de
-diables.
+diables. 
 
 Ces autres kytons, tous plus puissants
 que celui qui est présenté ici, possèdent des

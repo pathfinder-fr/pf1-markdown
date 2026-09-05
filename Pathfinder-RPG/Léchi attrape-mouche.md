@@ -56,7 +56,7 @@ Un léchi attrape-mouche mesure généralement 60 centimètres et pèse 10 kilos
 ### Faire pousser un léchi attrape-mouche
 Un léchi attrape-mouche pousse généralement dans un terrain marécageux. Il n’émergera que si on lui offre un petit tas d’insectes fraîchement tués pour qu’il s’en nourrisse.
 
-**NLS** 10 ; **Prix** 6 500 po
-**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*, '[[croissance végétale]]*, '[[invasion dorties|invasion d’orties]]*
+**NLS** 10 ; **Prix** 6 500 po  
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*, '[[croissance végétale]]*, '[[invasion dorties|invasion d’orties]]*  
 **Compétences** [[Connaissances]] (nature) [[DD]] 18 ; **Coût** 3 250 po
 </div></td></tr></table>

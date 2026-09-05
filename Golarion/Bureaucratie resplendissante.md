@@ -7,9 +7,9 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Bureaucratie Resplendissante|Resplendent Bureaucracy|-|-|-|Grand prohète Kelldor|Seigneurs-marchands, apostats des Prophéties de kallistrade|-|National|-}La Bureaucratie Resplendissante est le conseil dirigeant la [[Druma|Kalistocratie du Druma]].
+{s:Organisation|Bureaucratie Resplendissante|Resplendent Bureaucracy|-|-|-|Grand prohète Kelldor|Seigneurs-marchands, apostats des Prophéties de kallistrade|-|National|-}La Bureaucratie Resplendissante est le conseil dirigeant la [[Druma|Kalistocratie du Druma]]. 
 
-La Bureaucratie Resplendissante est composée de puissants seigneurs-marchands dont la plupart n'interviennent qu'à temps partiel. Les reste du temps, ils poursuivent leurs activités commerciales. La plupart des seigneurs-marchands ne restent membres du conseil que huit à dix ans avant de se tourner vers d'autres activités plus (ou moins) lucratives. Néanmoins, certains y restent beaucoup plus longtemps, voyant dans la rémunération stable que leur fournit leur présence au conseil un revenu beaucoup plus sûr (ce qui n'est pas une attitude drumite). Servir toute sa vie la Bureaucratie Resplendissante est très rare, et seuls les apostats des Prophéties de Kalistrade le font.
+La Bureaucratie Resplendissante est composée de puissants seigneurs-marchands dont la plupart n'interviennent qu'à temps partiel. Les reste du temps, ils poursuivent leurs activités commerciales. La plupart des seigneurs-marchands ne restent membres du conseil que huit à dix ans avant de se tourner vers d'autres activités plus (ou moins) lucratives. Néanmoins, certains y restent beaucoup plus longtemps, voyant dans la rémunération stable que leur fournit leur présence au conseil un revenu beaucoup plus sûr (ce qui n'est pas une attitude drumite). Servir toute sa vie la Bureaucratie Resplendissante est très rare, et seuls les apostats des Prophéties de Kalistrade le font. 
 
 La Bureaucratie Resplendissente est supervisée par le Grand Prophète du [[Druma]]. Poste actuellement occupé par le Grand Prophète Kelldor.
 

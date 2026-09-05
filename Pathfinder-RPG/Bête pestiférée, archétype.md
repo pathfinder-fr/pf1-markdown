@@ -30,6 +30,6 @@ Categories:
 </div></td>
 <td><div>Voir un exemple : le [[cheval pestiféré]].
 
-La [[Maladies#DEMONITE|démonite]] a un effet particulièrement horrible sur les animaux et autres créatures non-intelligentes qui succombent à ses ravages.
+La [[Maladies#DEMONITE|démonite]] a un effet particulièrement horrible sur les animaux et autres créatures non-intelligentes qui succombent à ses ravages. 
 Quand des animaux attrapent la [[Maladies#DEMONITE|peste démoniaque]], il est possible qu’ils ressuscitent sous la forme de morts-vivants et propagent à leur tour la maladie. Certains démons et cultistes apprécient d’avoir un cheval pestiféré comme monture.
 </div></td></tr></table>

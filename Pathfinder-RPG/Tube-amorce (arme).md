@@ -7,8 +7,8 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 200 po ; **Poids** 0,5 kg ; **Groupes** —
-**Dégâts** — (P), — (M) ; **Critique** — ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** —
+{s:cs}{s:UI}**Prix** 200 po ; **Poids** 0,5 kg ; **Groupes** —  
+**Dégâts** — (P), — (M) ; **Critique** — ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Ce fin tube s’attache à l’avant-bras et est conçu pour être camouflé sous la manche, d’où le porteur peut tirer une [[Fléchettes poids-plume (arme)|fléchette poids-plume]] d’un revers du poignet. La détente fonctionne grâce à un ressort fermement compressé, et doit être rechargée et réarmée à l’aide d’une tige par une [[action complexe]]. Après avoir tiré, le porteur peut effectuer un test d'[[Escamotage]] opposé aux tests de [[Perception]] des adversaires pour garder le tube-amorce caché. Si le personnage est formé au maniement des [[Arbalète de poing (arme)|arbalètes de poing]], il est aussi formé à celui des tubes-amorce.

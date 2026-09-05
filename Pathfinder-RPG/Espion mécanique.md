@@ -30,7 +30,7 @@ Categories:
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 12}
 {s:BDTexte|**Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
 {s:BDTexte|**Compétences** [[Discrétion]] +11, [[Escalade]] +2, [[Vol]] -3}
-{s:BDTexte|**Modificateurs raciaux** [[Discrétion]] +2, [[Escalade]] +3}
+{s:BDTexte|**Modificateurs raciaux** [[Discrétion]] +2, [[Escalade]] +3} 
 {s:BDTexte|**Particularités** réactivité, remontage}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}

@@ -39,14 +39,14 @@ Quand les bateaux font partie intégrante du combat, les choses sortent de l’o
 
 #### Entamer le combat.
 Quand le combat commence, faites faire un test d’[[Initiative]] aux PJ (et aux importants PNJ alliés) comme
-d’habitude. Le bateau se déplace et attaque selon l’[[initiative]] du capitaine. Si l’un des bateaux navigue à la voile, déterminez aléatoirement la direction du vent en lançant 1d8 et suivez les indications données pour les [[Actions spéciales#ARMEASPERSION|armes à aspersion]] qui ratent leur cible.
+d’habitude. Le bateau se déplace et attaque selon l’[[initiative]] du capitaine. Si l’un des bateaux navigue à la voile, déterminez aléatoirement la direction du vent en lançant 1d8 et suivez les indications données pour les [[Actions spéciales#ARMEASPERSION|armes à aspersion]] qui ratent leur cible. 
 
 
 #### Déplacement.
 Quand c’est au tour du capitaine, le vaisseau peut couvrir sa vitesse de déplacement actuelle en un [[round]] par une [[action de mouvement]] de la part du capitaine (ou doubler cette vitesse par une [[action complexe]]), tant qu’il dispose de l’équipage minimum nécessaire. À chaque [[round]], il peut augmenter ou réduire sa vitesse de 9 mètres, jusqu’à atteindre sa vitesse maximale. Sinon, le capitaine peut changer de direction (d’un côté de carré au maximum à chaque fois) par une [[action simple]]. Le bateau ne peut changer de direction qu’au début du tour.
 
 #### Les attaques.
-Les membres d’équipage en excès par rapport au minimum requis peuvent s’occuper des [[engin de siège|engins de sièges]]. Les machines de guerre attaquent avec l’[[initiative]] du capitaine.{br}
+Les membres d’équipage en excès par rapport au minimum requis peuvent s’occuper des [[engin de siège|engins de sièges]]. Les machines de guerre attaquent avec l’[[initiative]] du capitaine.{br} 
 Un navire qui dispose d’un équipage minimum peut également tenter d’éperonner sa cible. Pour ce faire, il doit se déplacer à 9 mètres au minimum et terminer son mouvement avec la proue dans une case adjacente à la cible. Le capitaine fait alors un test de [[Profession]] (marin). S’il égale ou dépasse la [[CA]] de l’adversaire, le navire touche la cible et lui inflige les dégâts indiqués dans la table de profils du bateau mais subit aussi des dégâts minimum.{br}
 Un bateau équipé d’un véritable éperon inflige 3d6 points de dégâts supplémentaires à la cible (et n’en subit pas en plus).
 

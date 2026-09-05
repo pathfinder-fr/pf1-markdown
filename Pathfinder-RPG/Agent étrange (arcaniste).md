@@ -17,16 +17,16 @@ oblige à l’enfermer dans des sorts.''
 Un agent étrange gagne un [[emplacement de sort]] supplémentaire par niveau de sort d’arcaniste qu’il est capable de lancer. Toutefois, le nombre de sorts de chaque niveau qu’il peut préparer est réduit de 1. Si le nombre de sorts qu’il peut préparer est réduit à 0 de cette façon, il bénéficie toujours des emplacements de sorts du niveau en question et peut les absorber en utilisant l’aptitude de classe absorption de sorts pour approvisionner son réservoir magique ou pour lancer des sorts en appliquant des [[Dons#METAMAGIE|dons de métamagie]].
 
 #### Accès de puissance (Sur)
-Au niveau 3, un agent étrange peut, par une [[action rapide]], injecter plus de puissance dans ses sorts et ses aptitudes. Il peut augmenter son [[NLS|niveau de lanceur]] de sorts et le [[DD]] d’un sort de 2 ou augmenter son niveau effectif d’arcaniste de 2 lorsqu’il utilise une exploitation d’arcaniste.
+Au niveau 3, un agent étrange peut, par une [[action rapide]], injecter plus de puissance dans ses sorts et ses aptitudes. Il peut augmenter son [[NLS|niveau de lanceur]] de sorts et le [[DD]] d’un sort de 2 ou augmenter son niveau effectif d’arcaniste de 2 lorsqu’il utilise une exploitation d’arcaniste. 
 
-Il devient [[fatigué]] dès qu’il utilise cette aptitude. S’il est déjà fatigué, il devient [[épuisé]]. S’il est déjà épuisé, ou si un effet quelconque l’empêche de devenir fatigué ou épuisé, il ne peut plus utiliser cette aptitude.
+Il devient [[fatigué]] dès qu’il utilise cette aptitude. S’il est déjà fatigué, il devient [[épuisé]]. S’il est déjà épuisé, ou si un effet quelconque l’empêche de devenir fatigué ou épuisé, il ne peut plus utiliser cette aptitude. 
 
-Cette aptitude ne se cumule pas avec la dépense de points de son réservoir arcanique pour augmenter le NLS ou le DD d’un sort (comme décrit dans l’aptitude de classe [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]]). Seul le repos peut dissiper la fatigue ou l’épuisement infligé par l’accès de puissance : les sorts et les aptitudes sont inefficaces.
+Cette aptitude ne se cumule pas avec la dépense de points de son réservoir arcanique pour augmenter le NLS ou le DD d’un sort (comme décrit dans l’aptitude de classe [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]]). Seul le repos peut dissiper la fatigue ou l’épuisement infligé par l’accès de puissance : les sorts et les aptitudes sont inefficaces. 
 
 Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 3.
 
 #### Science de l’accès de puissance (Sur)
-Au niveau 7, un agent étrange peut utiliser son aptitude accès de puissance pour relancer un [[jet dattaque|jet d’attaque]] associé à un sort ou à une [[Exploitations|exploitation]] d’arcaniste ou tous les dés de dégâts associés à un sort ou à une exploitation d’arcaniste.
+Au niveau 7, un agent étrange peut utiliser son aptitude accès de puissance pour relancer un [[jet dattaque|jet d’attaque]] associé à un sort ou à une [[Exploitations|exploitation]] d’arcaniste ou tous les dés de dégâts associés à un sort ou à une exploitation d’arcaniste. 
 
 Dans le cas des jets d’attaque, cette aptitude doit être utilisée après avoir effectué le jet mais avant la révélation du résultat. L’agent étrange doit appliquer le résultat de cette relance, même s’il est inférieur au précédent. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 7.
 

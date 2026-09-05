@@ -27,7 +27,7 @@ La moitié des prêtres de Torag sont nains, mais de plus en plus d'humains embr
 
 ### Temples
 
-Cette religion est très répandue sur les terres naines et beaucoup moins dans les royaumes humains excepté dans les terres nordiques des [[Ulfes]]. Les temples sont circulaires et englobent une forge en leur centre. Ils sont bâtis contre les murailles des cités pour éviter toutes nuisances sonores et pour en surveiller plus facilement les défenses.
+Cette religion est très répandue sur les terres naines et beaucoup moins dans les royaumes humains excepté dans les terres nordiques des [[Ulfes]]. Les temples sont circulaires et englobent une forge en leur centre. Ils sont bâtis contre les murailles des cités pour éviter toutes nuisances sonores et pour en surveiller plus facilement les défenses. 
 
 ### Textes sacrés
 

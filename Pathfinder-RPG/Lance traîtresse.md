@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Lance traîtresse|{s:AE}}
 **Aura** [[Évocation]] modérée ; **NLS** 12 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Poids** 1,5 kg
 (((Description)))
-Cette arme possède toutes les caractéristiques d’un [[épieu (arme)|épieu]] +2 mais chaque fois que son propriétaire l’utilise au corps à corps et obtient un 1 naturel au [[jet dattaque|jet d’attaque]], elle le frappe à la place de son adversaire. Lorsque la malédiction se déclenche, la hampe de la lance se tord et le fer vient automatiquement se ficher dans le dos du personnage, lui infligeant des dégâts normaux.
+Cette arme possède toutes les caractéristiques d’un [[épieu (arme)|épieu]] +2 mais chaque fois que son propriétaire l’utilise au corps à corps et obtient un 1 naturel au [[jet dattaque|jet d’attaque]], elle le frappe à la place de son adversaire. Lorsque la malédiction se déclenche, la hampe de la lance se tord et le fer vient automatiquement se ficher dans le dos du personnage, lui infligeant des dégâts normaux.  
 La malédiction peut également se déclencher si le personnage jette la lance, mais, dans ce cas, il subit le double des dégâts normaux.
 (((Objet magique prévu)))
 [[épieu (arme)|épieu]] +2, autre [[armes magiques|arme magique]]

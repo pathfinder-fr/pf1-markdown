@@ -10,11 +10,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 1 semaine
-**Composantes** [[composantes|V, G, M]] (encens et toniques rares d'une valeur de 1 000 po)
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 1 semaine  
+**Composantes** [[composantes|V, G, M]] (encens et toniques rares d'une valeur de 1 000 po)  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** [[instantanée]]
 
 *Pronostic suprême* fonctionne comme *[[divination]]* excepté que ce sort peut voir jusqu'à 100 ans dans le futur.  En raison de l'imprévisibilité extrême d'un avenir si lointain, *pronostic suprême* est terriblement cryptique lorsqu'il est utilisé pour connaître des évènements à une telle échelle.

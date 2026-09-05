@@ -17,7 +17,7 @@ Categories:
 L’oracle réincarné doit choisir la malédiction [[malédictions doracle#HANTE|hanté]] ou [[malédictions doracle#MULTILINGUE|multilingue]] au niveau 1.
 
 #### Sorts supplémentaires
-*[[Voir lalignement|Voir l’alignement]]* (niveau 2), *[[détection de pensées]]* (niveau 4), *[[contact avec les plans]]* (niveau 10), *[[moment de prescience]]* (niveau 16), *[[présence écrasante]]* (niveau 18).
+*[[Voir lalignement|Voir l’alignement]]* (niveau 2), *[[détection de pensées]]* (niveau 4), *[[contact avec les plans]]* (niveau 10), *[[moment de prescience]]* (niveau 16), *[[présence écrasante]]* (niveau 18). 
 
 Ces sorts remplacent les sorts supplémentaires du [[oracle#MYSTERE|mystère]] de l’oracle à ces niveaux.
 

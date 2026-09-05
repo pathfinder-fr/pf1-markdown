@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:26
 {s:BDTitre|Ceinture de la belette|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 4 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 10 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette ceinture étonnamment souple est dotée d’une boucle ridiculement grande qui a la forme encore plus ridicule d’une gueule souriante de belette. Elle octroie à son porteur un bonus d’altération de +2 à la [[Dextérité]] et lui permet de se déplacer à la moitié de sa vitesse lorsqu’il est à terre. Le bonus de [[Dextérité]] est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. Quand le porteur se trouve à terre, il ne subit aucun malus à ses [[jet dattaque|jets d’attaque]] au corps à corps ni à sa CA contre les attaques de corps à corps. De plus, il gagne le pouvoir de [[Compression (capacité)|compression]].
+Cette ceinture étonnamment souple est dotée d’une boucle ridiculement grande qui a la forme encore plus ridicule d’une gueule souriante de belette. Elle octroie à son porteur un bonus d’altération de +2 à la [[Dextérité]] et lui permet de se déplacer à la moitié de sa vitesse lorsqu’il est à terre. Le bonus de [[Dextérité]] est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. Quand le porteur se trouve à terre, il ne subit aucun malus à ses [[jet dattaque|jets d’attaque]] au corps à corps ni à sa CA contre les attaques de corps à corps. De plus, il gagne le pouvoir de [[Compression (capacité)|compression]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale I]]* ; **Coût** 5 000 po
 </div>

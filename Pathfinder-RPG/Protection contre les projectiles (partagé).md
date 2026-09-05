@@ -12,28 +12,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un morceau de carapace de tortue)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 1 heure/[[niveau]] ou jusqu’à épuisement
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un morceau de carapace de tortue)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 1 heure/[[niveau]] ou jusqu’à épuisement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[protection contre les projectiles]]* mais la durée se divise entre les créatures touchées, par portions de 1 heure. Le sort se termine pour une cible spécifique quand il a absorbé 10 points de dégâts par [[NLS|niveau de lanceur de sorts]] (100 au maximum) pour elle.
 
 
 
 (((
 ## Protection contre les projectiles
-**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un morceau de carapace de tortue)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 heure/[[niveau]] ou jusqu’à épuisement
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un morceau de carapace de tortue)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 heure/[[niveau]] ou jusqu’à épuisement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Le bénéficiaire du sort est protégé contre les armes à distance, il bénéficie donc d’une [[RD|réduction de dégâts]] de 10/magie contre celles-ci. En revanche, le sort ne permet pas de blesser des créatures dotées d’une [[RD|réduction des dégâts]] similaire. Dès que le sort a absorbé un total de 10 points de dégâts par [[NLS|niveau de lanceur de sorts]] (jusqu’à un total de 100 points), il cesse de faire effet.
 
 ### Version mythique

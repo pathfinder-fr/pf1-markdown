@@ -10,7 +10,7 @@ Categories:
 
 {s:MenuEquipement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>*Voir les [[tableau récapitulatif des armes à feu|armes à feu]] et les [[tableau récapitulatif des engins de siège|engins de siège]].*
 
-Les armes marquées d'un astérisque (*) sont des [[armes orientales]].
+Les armes marquées d'un astérisque (*) sont des [[armes orientales]].  
 Les armes marquées de deux astérisques (**) sont des [[armes et armures primitives|armes primitives]].
 
 {s:Reference|TABCOURANTES}

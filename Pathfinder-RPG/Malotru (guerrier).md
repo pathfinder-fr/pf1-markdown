@@ -14,7 +14,7 @@ Categories:
 Le malotru n’est pas formé au port des [[armure intermédiaire|armures intermédiaires]] et [[armure lourde|lourdes]] ni au maniement du pavois.
 
 #### Compétences
-Voici les compétences de classe du malotru : [[Acrobaties]], [[Bluff]], [[Discrétion]], [[Escamotage]] et [[Évasion]].
+Voici les compétences de classe du malotru : [[Acrobaties]], [[Bluff]], [[Discrétion]], [[Escamotage]] et [[Évasion]]. 
 
 #### Manoeuvres déloyales (Ext)
 Au [[niveau]] 2, le malotru apprend comme tromper et déconcerter ses adversaires. Il gagne un bonus de +1 aux tests de manoeuvre de [[désarmement]], de [[sale coup]] et de [[subtilisation]]. Il gagne aussi un bonus de +1 au [[DMD]] quand quelqu’un tente d’effectuer ces manoeuvres contre lui. Ces bonus augmentent de 1 tous les quatre niveaux après le 2 (avec un maximum de +5 au niveau 18). Ce pouvoir remplace [[guerrier#COURAGE|courage]].

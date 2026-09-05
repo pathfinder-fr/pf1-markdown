@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:48
 {s:BDTitre|Poncho de franc-tireur|{s:AE}}
 **Aura** [[Abjuration]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 14.000 po ; **Poids** 0,5 kg
 (((Description)))
-Les sorts d’[[abjuration]] tissés dans ce poncho de laine ne protègent pas uniquement contre les balles mais aussi contre la magie hostile. Son porteur gagne un bonus de chance de +2 à la [[CA]] au contact. Une fois par jour et par une [[action immédiate]], il peut annuler une unique [[contact|attaque de contact]] à distance qui le prend pour cible, mais il ne peut pas utiliser ce pouvoir si l’attaque est un coup critique confirmé. Le porteur doit se jeter à terre pour utiliser ce pouvoir.
+Les sorts d’[[abjuration]] tissés dans ce poncho de laine ne protègent pas uniquement contre les balles mais aussi contre la magie hostile. Son porteur gagne un bonus de chance de +2 à la [[CA]] au contact. Une fois par jour et par une [[action immédiate]], il peut annuler une unique [[contact|attaque de contact]] à distance qui le prend pour cible, mais il ne peut pas utiliser ce pouvoir si l’attaque est un coup critique confirmé. Le porteur doit se jeter à terre pour utiliser ce pouvoir. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bouclier pare-balles]]* ; **Coût** 7.000 po
 </div>

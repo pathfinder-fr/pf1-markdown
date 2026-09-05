@@ -10,6 +10,6 @@ Categories:
 
 Ville du nord d'[[Osirion]], elle est située sur la côte de la [[Mer Intérieure]].
 
-Seconde ville d'[[Osirion]] par le nombre d'habitants, il s'agît du plus gros port du pays. Fondée vers -2590 AR, elle a toujours été associée au destin d'[[Osirion]].
+Seconde ville d'[[Osirion]] par le nombre d'habitants, il s'agît du plus gros port du pays. Fondée vers -2590 AR, elle a toujours été associée au destin d'[[Osirion]]. 
 
 C'est notamment par ce port que les esclaves des régions qui deviendraient plus tard la [[Thulie]] et le [[Rahadoum]] étaient débarqués. Ceux-là même qui construiraient, générations après générations, l'ensemble des pyramides et des monuments du pays.

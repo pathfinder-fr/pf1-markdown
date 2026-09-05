@@ -13,7 +13,7 @@ Les véritables maîtres d’armes ne se limitent pas eux-mêmes à l’étude d
 
 Les dons de maîtrise d’objets permettent aux lanceurs de sorts et aux autres personnages de puiser dans les pouvoirs cachés de leurs objets magiques, pourvu qu’ils disposent de la vigueur nécessaire pour le faire.''
 
-Utiliser un don de maîtrise d’objet est une action simple qui ne provoque pas d’attaque d’opportunité, similaire à l’activation d’un objet magique à mot de commande, bien qu’il ne soit pas utile de parler pour utiliser le don.
+Utiliser un don de maîtrise d’objet est une action simple qui ne provoque pas d’attaque d’opportunité, similaire à l’activation d’un objet magique à mot de commande, bien qu’il ne soit pas utile de parler pour utiliser le don. 
 Créer un tel effet nécessite de donner l’assaut à la magie existante dans l’objet magique au travers de votre force de volonté et de canaliser la magie existante inhérente à l’objet au travers de votre propre corps ; Cette action est ainsi dépendante de la Vigueur de l’utilisateur. Tous les effets créés par les dons de maîtrise d’objet agissent comme des pouvoirs magiques et utilise votre BBA comme niveau de lanceur. Le DD du jet de protection contre ces pouvoirs magiques est égal à 10 + le niveau du sort + le modificateur de Constitution. Si un pouvoir magique nécessite pour les besoins d’un calcul de disposer d’un bonus ou d’un modificateur d’Intelligence, de Sagesse ou de Charisme, utilisez votre bonus ou votre modificateur de Constitution à la place.
 L’utilisation d’un don de maîtrise d’objet est épuisant pour l’objet magique autant que pour son utilisateur et ne peut être accompli sur les objets qui ont une limite d’utilisation ou qui doivent être rechargés (comme les elixirs, les potions, les parchemins, les bâtons et les batônnets) – cela nécessite une utilisation avec des objets qui ont des effets constants ou une utilisation quotidienne. L’usage des dons de maîtrise d’objets ne vide pas l’objet magique de son énergie et n’affecte pas la possibilité de faire appel à ses utilisations quotidiennes.
 Les dons de maîtrise d’objets sont accessibles à tous les personnages qui remplissent les conditions requises.
@@ -152,7 +152,7 @@ Les dons de maîtrise d’objets sont accessibles à tous les personnages qui re
 
 </center>
 
-(((ITEM MASTERY FEATS
+(((ITEM MASTERY FEATS 
 If secrets lie hidden even within common merchant’s stalls and other mundane places, then certainly even greater mysteries exist within the myriad magical artifacts and relics that can be found within eldritch markets, ancient ruins, forgotten dungeons, and the vaults of dragons and undead horrors.
 
 True weapon masters don’t limit themselves to the study of traditional weapons. Anything able to influence the outcome of combat can be seen as a weapon, and many masters understand that magic items are tools that can be used in ingenious ways by those with sufficient creativity, discipline, and fortitude. This requires the user to spiritually attack the function of the magic items, an assault of will that uses instincts similar to those that make good archers or weapon masters. By tapping into the power that exists within a magic item in this way and drawing it into their own bodies, these masters can coax forth new and useful magic effects, though the effort can be tiring. Learning such advanced techniques is represented through item mastery feats.
@@ -204,7 +204,7 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigue
 Avantage. Vous pouvez faire en sorte qu’un objet dont l’une des conditions de fabrication est un sort d’abjuration de 1er niveau ou supérieur pour créer un effet de sort qui fonctionne comme un bouclier, sauf que le bonus de bouclier à la CA est égal à 1/3 de votre bonus de base de Vigueur (minimum +1). Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +9 puis +12.
 
 (((Force shield mastery (Item Mastery)
-You can create barriers of force with abjuration magic items.
+You can create barriers of force with abjuration magic items. 
 
 Prerequisites: Use Magic Device 3 ranks, base Fortitude saving throw bonus +3.
 
@@ -237,7 +237,7 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 6 rangs, Bonus de Base Vigue
 Avantage. Vous pouvez vous concentrer sur un objet associé à votre race pour utiliser un pouvoir magique racial que vous possédez sans dépenser aucune des utilisations quotidiennes pour ce pouvoir magique. Un pouvoir magique racial correspond à tout pouvoir magique que vous avez obtenu par le biais d’un trait racial, d’un don ou d’un trait dont votre race est une condition ou d’une option de classe ou d’un archétype qui n’est accessible qu’aux membres de votre race. Vous devez utiliser un objet dont l’un des sorts nécessaires à sa fabrication correspond à la même école et au même niveau que ceux du pouvoir magique que vous souhaitez utiliser. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
 (((Racial Item Mastery (Item Mastery)
-You can use certain magic items to fuel your innate powers.
+You can use certain magic items to fuel your innate powers. 
 
 Prerequisites: Use Magic Device 6 ranks, base Fortitude saving throw bonus +3.
 
@@ -333,10 +333,10 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigue
 
 Avatange. Vous pouvez lancer suggestion comme le sort n utilisant un objet dont l’une des conditions de fabrication est un sort d’enchantement de niveau 3 ou supérieur. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
-(((Compulsion Mastery (Item Mastery)
+(((Compulsion Mastery (Item Mastery) 
 You can gain influence over the minds of others using enchantment magic items.
 
-Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6.
+Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6. 
 
 Benefit: You can cast suggestion as per the spell by using an item that has an enchantment spell of 3rd level or higher in its construction requirements. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.)))
 
@@ -349,10 +349,10 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de nécromancie de niveau 3 ou plus de lancer infliger une malédiction. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
-(((Curse Mastery (Item Mastery)
+(((Curse Mastery (Item Mastery) 
 You can coax curses from necromantic magic items.
 
-Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6.
+Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6. 
 
 Benefit: You can cause an item that has a necromancy spell of 3rd level or higher in its construction requirements to cast bestow curse. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.)))
 
@@ -366,9 +366,9 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigue
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort d’abjuration de niveau 2 le pouvoir de lancer dissipation de la magie, mais seulement pour faire une dissipation ciblée. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
 (((Dispel Mastery (Item Mastery)
-You can dispel magic with abjuration magic items.
+You can dispel magic with abjuration magic items. 
 
-Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6.
+Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6. 
 
 Benefit: You can cause an item that has an abjuration spell of 2nd level or higher in its construction requirements to cast dispel magic, but only to perform a targeted dispel. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.)))
 
@@ -379,14 +379,14 @@ Catégorie. Maîtrise d’objet
 
 Conditions. [[UOM|Utilisation d’objets magiques]] 1 rang, Bonus de Base Vigueur +4
 
-Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort du registre acide, froid, léectricité, ou feu de niveau 1 le pouvoir de lancer mains brûlantes. Le sort possède le registre correspondant à celui du sort utilisé comme condition et inflige le type de dégâts correspondants au lieu de dégâts de feu. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8, +10 puis +12.
+Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort du registre acide, froid, léectricité, ou feu de niveau 1 le pouvoir de lancer mains brûlantes. Le sort possède le registre correspondant à celui du sort utilisé comme condition et inflige le type de dégâts correspondants au lieu de dégâts de feu. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8, +10 puis +12. 
 
 Vous pouvez utiliser deux utilisations quotidiennes de ce don pour lancer éclair par ce biais si le sort qui sert de condition nécessaire est de niveau 3 ou supérieur (infligeant toujours des dégâts du type correspondant à ce dernier).
 
-(((Energy Mastery (Item Mastery)
-You can project energy from evocation magic items.
+(((Energy Mastery (Item Mastery) 
+You can project energy from evocation magic items. 
 
-Prerequisites: Use Magic Device 1 rank, base Fortitude save bonus +4.
+Prerequisites: Use Magic Device 1 rank, base Fortitude save bonus +4. 
 
 Benefit: You can cause an item that has a 1st level or higher evocation spell with the acid, cold, electricity, or fire descriptor in its construction requirements to cast burning hands. The spell has the energy descriptor from the appropriate requirement spell and deals that type of damage instead of fire damage. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12. You can spend two daily uses of this feat to cast lighting bolt this way if the spell listed in the item’s construction requirements is at least 3rd level (still dealing a type of energy damage appropriate to that spell).)))
 
@@ -399,8 +399,8 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de transmutation de niveau 2 le pouvoir de lancer vol. Si l’objet utilisé est une armure que vous portez, vous pouvez utiliser son bonus d’altération au lieu de votre modificateur de Dextérité aux tests de Vol tant que le sort dure. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
-(((Flight Mastery (Item Mastery)
-You can coax the magic of flight from transmutation magic items.
+(((Flight Mastery (Item Mastery) 
+You can coax the magic of flight from transmutation magic items. 
 
 Prerequisites: Use Magic Device 3 ranks, base Fortitude save bonus +6.
 
@@ -415,8 +415,8 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort d’illusion de niveau 1 le pouvoir de lancer *image imparfaite*. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8,+10 puis +12.
 
-(((Illusion Mastery (Item Mastery)
-You can weave figments with illusion magic items.
+(((Illusion Mastery (Item Mastery) 
+You can weave figments with illusion magic items. 
 
 Prerequisites: Use Magic Device 2 ranks, base Fortitude save bonus +4.
 
@@ -431,10 +431,10 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de transmutation de niveau 4 le pouvoir de lancer télékinésie. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +11.
 
-(((Telekinetic Mastery (Combat, Item Mastery)
-You can coax telekinesis from transmutation magic items.
+(((Telekinetic Mastery (Combat, Item Mastery) 
+You can coax telekinesis from transmutation magic items. 
 
-Prerequisites: Use Magic Device 5 ranks, base Fortitude save bonus +7.
+Prerequisites: Use Magic Device 5 ranks, base Fortitude save bonus +7. 
 
 Benefit: You can cause an item that has a transmutation spell of 4th level or higher in its construction requirements to cast telekinesis. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +11.)))
 
@@ -447,10 +447,10 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de conjuration de niveau 3 le pouvoir de lancer porte dimensionnelle. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
-(((Teleportation Mastery (Item Mastery)
-You can coax teleportation from conjuration magic items.
+(((Teleportation Mastery (Item Mastery) 
+You can coax teleportation from conjuration magic items. 
 
-Prerequisites: Use Magic Device 4 ranks, base Fortitude save bonus +6.
+Prerequisites: Use Magic Device 4 ranks, base Fortitude save bonus +6. 
 
 Benefit: You can cause an item that has a conjuration spell of 3rd level or higher in its construction requirements to cast dimension door. You can use this ability once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.)))
 
@@ -463,9 +463,9 @@ Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigue
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de divination de niveau 3 le pouvoir de lancer soit vision dans les ténèbres soit voir l’invisible. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8, +10 puis +12.
 
-(((Vision Mastery (Item Mastery)
-You can pierce invisibility with divination magic items.
+(((Vision Mastery (Item Mastery) 
+You can pierce invisibility with divination magic items. 
 
-Prerequisites: Use Magic Device 2 ranks, base Fortitude save bonus +4.
+Prerequisites: Use Magic Device 2 ranks, base Fortitude save bonus +4. 
 
 Benefit: You can cause an item that has a divination spell of 1st level or higher in its construction requirements to cast either darkvision or see invisibility. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12.)))

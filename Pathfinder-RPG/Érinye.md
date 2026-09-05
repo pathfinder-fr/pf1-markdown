@@ -57,7 +57,7 @@ s’envoler et d’aller combattre, que ce soit pour
 défendre l’Enfer, accomplir la volonté de
 leurs maîtres diaboliques ou répondre aux
 appels passionnés des lanceurs de sorts qui
-se sentent éconduits.
+se sentent éconduits. 
 
 Toutes les érinyes
 tissent de dangereuses cordes vivantes
@@ -90,7 +90,7 @@ plus puissantes d’entre elles sont passées maîtres dans l’art
 de prolonger la vie de leurs ennemis tout en les maintenant
 impuissants, ce qui leur permet de faire durer leurs tourments
 plus longtemps (plusieurs utilisent même de la magie pour
-garder leurs victimes en vie).
+garder leurs victimes en vie). 
 
 La rumeur dit que les érinyes les
 plus douées seraient capables de continuer à faire souffrir leurs

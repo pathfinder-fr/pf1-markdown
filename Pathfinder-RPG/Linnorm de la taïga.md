@@ -59,7 +59,7 @@ les arbres et prenant en embuscade les voyageurs imprudents
 ou les aventuriers qui montent leur camp sans précautions. Le
 linnorm de la taïga peut attendre pendant des semaines, parfois
 des mois, que se présente l’opportunité de mutiler et de dévorer
-des victimes sans méfiance.
+des victimes sans méfiance. 
 
 Lorsque ces tactiques subtiles ne
 fonctionnent pas, le linnorm de la taïga ravage simplement les

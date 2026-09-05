@@ -32,7 +32,7 @@ et morsure, +17 (1d4+6 plus poison) et 2 griffes, +17 (1d6+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 21, **Con** 20, **Int** 7, **Sag** 17, **Cha** 10}
 {s:BDTexte|**BBA** +12 ; **BMO** +19 ; **DMD** 35 (39 contre [[croc-en-jambe]])}
-{s:BDTexte|**Dons**  [[Attaques réflexes]], [[Esquive]], [[Magie de guerre]],
+{s:BDTexte|**Dons**  [[Attaques réflexes]], [[Esquive]], [[Magie de guerre]], 
 [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Talent]] ([[Discrétion]])}
 {s:BDTexte|**Compétences** [[Discrétion]] +11, [[Escalade]] +13, [[Perception]] +10}
 {s:BDTexte|**Langues** commun}

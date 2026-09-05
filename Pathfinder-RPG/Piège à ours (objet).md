@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 5 kg
+{s:AE}**Prix** 2 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Bien qu’ils soient destinés à piéger des grands animaux, les pièges à ours fonctionnent tout aussi bien sur les humanoïdes et les monstres. Les mâchoires articulées du piège sont fixées à une chaîne, elle-même maintenue par une pointe plantée dans le sol afin que la victime ne puisse pas prendre la fuite en rampant. Il faut réussir un test de [[Force]] [[DD]] 20 pour faire levier sur les mâchoires et les ouvrir ou pour arracher la pointe fichée dans le sol.  
   
 <div class="BD">  

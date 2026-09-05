@@ -8,9 +8,9 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:AE}**Prix** 1 po/dose (ordinaire), 5 po/dose (A&E), 10 po/dose (rare), 100 po/dose (exotique) ; **Poids** — (ordinaire), — (A&E), — (rare), — (exotique)
+{s:AE}**Prix** 1 po/dose (ordinaire), 5 po/dose (A&E), 10 po/dose (rare), 100 po/dose (exotique) ; **Poids** — (ordinaire), — (A&E), — (rare), — (exotique)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 La plupart des parfums et eaux de Cologne sont fabriqués à partir d'huiles essentielles de fleurs. Un parfum ou une eau de Cologne peut (si le [[MJ]] donne son accord) accorder un bonus de circonstances de +1 à différents tests de compétences basées sur le [[Charisme]].  
   
 {s:CCMI}*Ordinaire.* Le parfum et l'eau de Cologne sont des accessoires ordinaires pour ceux qui veulent éviter d'indisposer les autres par leur odeur.  

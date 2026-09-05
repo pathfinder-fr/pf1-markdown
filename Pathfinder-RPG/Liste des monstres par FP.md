@@ -14,1751 +14,1751 @@ Autres listes de monstres : [[Liste alphabétique des monstres|liste alphabétiq
 
 ### 1/8
 <div class="article_3col">
-[[Chauve-souris]] *(B1)*
-[[Crapaud]] *(B1)*
-[[Hérisson]] *(AM)*
-[[Mille-pattes domestique]] *(AM)*
+[[Chauve-souris]] *(B1)*  
+[[Crapaud]] *(B1)*  
+[[Hérisson]] *(AM)*  
+[[Mille-pattes domestique]] *(AM)*  
 </div>
 
 
 ### 1/6
 <div class="article_3col">
-[[Corbeau]] *(B1)*
-[[Lézard]] *(B1)*
-[[Ornithorynque]] *(B4)*
-[[Paresseux]] *(B4)*
-[[Poulet]] *(B5)*
-[[Tortue de mer]] *(AM)*
+[[Corbeau]] *(B1)*  
+[[Lézard]] *(B1)*  
+[[Ornithorynque]] *(B4)*  
+[[Paresseux]] *(B4)*  
+[[Poulet]] *(B5)*  
+[[Tortue de mer]] *(AM)*  
 </div>
 
 
 ### 1/4
 <div class="article_3col">
-[[Araignée écarlate]] *(B4, AM)*
-[[Archéoptéryx]] *(B4)*
-[[Chat]] *(B1)*
-[[Crabe royal]] *(AM)*
-[[Dodo]] *(B4, B5, SS1/6)*
-[[Indigeste]] *(B5, ESR1/6)*
-[[Kobold]] *(B1)*
-[[Lézard de vase]] *(B5)*
-[[Loutre]] *(B3)*
-[[Lutin des dents]] *(B4)*
-[[Mite]] *(B1)*
-[[Moufette]] *(B3)*
-[[Nymphe dhydromètre|Nymphe d'hydromètre]] *(B4)*
-[[Porc-épic]] *(B3)*
-[[Pyrauste]] *(B5)*
-[[Rat]] *(B1)*
-[[Rat-âne]] *(AM)*
-[[Renard]] *(B3, AM)*
-[[Scorpion dard-vert]] *(B4)*
-[[Singe]] *(B1)*
-[[Trilobite]] *(B5)*
-[[Tuatara]] *(B4)*
+[[Araignée écarlate]] *(B4, AM)*  
+[[Archéoptéryx]] *(B4)*  
+[[Chat]] *(B1)*  
+[[Crabe royal]] *(AM)*  
+[[Dodo]] *(B4, B5, SS1/6)*  
+[[Indigeste]] *(B5, ESR1/6)*  
+[[Kobold]] *(B1)*  
+[[Lézard de vase]] *(B5)*  
+[[Loutre]] *(B3)*  
+[[Lutin des dents]] *(B4)*  
+[[Mite]] *(B1)*  
+[[Moufette]] *(B3)*  
+[[Nymphe dhydromètre|Nymphe d'hydromètre]] *(B4)*  
+[[Porc-épic]] *(B3)*  
+[[Pyrauste]] *(B5)*  
+[[Rat]] *(B1)*  
+[[Rat-âne]] *(AM)*  
+[[Renard]] *(B3, AM)*  
+[[Scorpion dard-vert]] *(B4)*  
+[[Singe]] *(B1)*  
+[[Trilobite]] *(B5)*  
+[[Tuatara]] *(B4)*  
 </div>
 
 
 ### 1/3
 <div class="article_3col">
-[[Aquatique]] *(CCMI)*
-[[Caïman nain]] *(B5, SS1/6)*
-[[Chèvre]] *(B3, AM)*
-[[Chien]] *(B1)*
-[[Chouette]] *(B1)*
-[[Cochon]] *(B3, AM)*
-[[Cygne trompette]] *(B4)*
-[[Décapité]] *(B4)*
-[[Drow]] *(B1)*
-[[Duergar]] *(B1)*
-[[Écureuil volant]] *(B3)*
-[[Esprit follet]] *(B3)*
-[[Faucon]] *(B1)*
-[[Gobelin]] *(B1)*
-[[Grive]] *(AM)*
-[[Homme-poisson]] *(B1)*
-[[Homme-rat]] *(B3)*
-[[Manchot]] *(B5)*
-[[Orque]] *(B1)*
-[[Phoque]] *(B5, SS1/6)*
-[[Punaise de feu]] *(B1)*
-[[Rat sanguinaire]] *(B1)*
-[[Roussette]] *(B5)*
-[[Squelette humain]] *(B1)*
-[[Strix]] *(CCMI, CV1/6)*
-[[Tortue happante]] *(B2)*
-[[Tristefripe]] *(B4)*
+[[Aquatique]] *(CCMI)*  
+[[Caïman nain]] *(B5, SS1/6)*  
+[[Chèvre]] *(B3, AM)*  
+[[Chien]] *(B1)*  
+[[Chouette]] *(B1)*  
+[[Cochon]] *(B3, AM)*  
+[[Cygne trompette]] *(B4)*  
+[[Décapité]] *(B4)*  
+[[Drow]] *(B1)*  
+[[Duergar]] *(B1)*  
+[[Écureuil volant]] *(B3)*  
+[[Esprit follet]] *(B3)*  
+[[Faucon]] *(B1)*  
+[[Gobelin]] *(B1)*  
+[[Grive]] *(AM)*  
+[[Homme-poisson]] *(B1)*  
+[[Homme-rat]] *(B3)*  
+[[Manchot]] *(B5)*  
+[[Orque]] *(B1)*  
+[[Phoque]] *(B5, SS1/6)*  
+[[Punaise de feu]] *(B1)*  
+[[Rat sanguinaire]] *(B1)*  
+[[Roussette]] *(B5)*  
+[[Squelette humain]] *(B1)*  
+[[Strix]] *(CCMI, CV1/6)*  
+[[Tortue happante]] *(B2)*  
+[[Tristefripe]] *(B4)*  
 </div>
 
 
 ### 1/2
 <div class="article_3col">
-[[Aasimar]] *(B1)*
-[[Aigle]] *(B1)*
-[[Alpluachre]] *(B4)*
-[[Antilope]] *(B3)*
-[[Araignée-crabe géante]] *(B3)*
-[[Astomoï]] *(B5)*
-[[Babouin]] *(B2)*
-[[Belette]] *(B1)*
-[[Blaireau]] *(B2)*
-[[Cafard géant]] *(B2)*
-[[Caligni]] *(B5)*
-[[Changelin]] *(B4, CP1/6)*
-[[Changepeau]] *(B5)*
-[[Chevelure animée]] *(B5)*
-[[Compsognathus]] *(B2)*
-[[Dauphin]] *(B1)*
-[[Dhampir]] *(B2)*
-[[Entrave du mage]] *(B5)*
-[[Espion mécanique]] *(B3)*
-[[Fetchelin]] *(B2)*
-[[Gathelain]] *(B4)*
-[[Grand-duc]] *(B3)*
-[[Grenouille venimeuse]] *(B1)*
-[[Grindylow]] *(B2)*
-[[Grippli]] *(B2)*
-[[Haniver]] *(B4, CV1/6)*
-[[Hobgobelin]] *(B1)*
-[[Hobkins]] *(B5)*
-[[Homme-félin]] *(B3)*
-[[Humain ectoplasmique]] *(B4)*
-[[Hybride profond]] *(B5)*
-[[Ifrit]] *(B2)*
-[[Isitoq]] *(B4)*
-[[Kangourou]] *(B3)*
-[[Kasatha]] *(B4)*
-[[Kitsune]] *(B4)*
-[[Kuru]] *(GDC)*
-[[Léchi de feuilles]] *(B3)*
-[[Locathah]] *(B2)*
-[[Main rampante]] *(B2)*
-[[Mille-pattes géant]] *(B1)*
-[[Nagaji]] *(B4)*
-[[Nuno]] *(B5)*
-[[Ondin]] *(B2)*
-[[Orang-pendak]] *(B5)*
-[[Oréade]] *(B2)*
-[[Ouvrier formien]] *(B4)*
-[[Petit panda]] *(B5)*
-[[Pieuvre à anneaux bleus]] *(AM)*
-[[Poney]] *(B1)*
-[[Puce géante]] *(B4)*
-[[Pugwampi]] *(B2, HF1/6)*
-[[Raie à aiguillon]] *(B2, B4)*
-[[Ramidreju]] *(B5)*
-[[Raton laveur]] *(B3)*
-[[Reptoïde]] *(B5)*
-[[Sagari]] *(B3)*
-[[Samsaran]] *(B4)*
-[[Scorpion fantomatique]] *(B3)*
-[[Shabti]] *(B5)*
-[[Strige]] *(B1)*
-[[Suli]] *(B3)*
-[[Sylphe]] *(B2)*
-[[Tengu]] *(B1)*
-[[Thylacine]] *(B3, KM1/6)*
-[[Tieffelin]] *(B1)*
-[[Vanara]] *(B3)*
-[[Vautour]] *(B3)*
-[[Végépygmée]] *(B1, DO)*
-[[Ver géant|Ver géant / Asticot géant]] *(B2, MTE2/6)*
-[[Vipère]] *(B1)*
-[[Virebois]] *(B4)*
-[[Vishkanya]] *(B3)*
-[[Wayang]] *(B4)*
-[[Wivaran]] *(B4)*
-[[Xtabay]] *(B2)*
-[[Zombi humain]] *(B1)*
+[[Aasimar]] *(B1)*  
+[[Aigle]] *(B1)*  
+[[Alpluachre]] *(B4)*  
+[[Antilope]] *(B3)*  
+[[Araignée-crabe géante]] *(B3)*  
+[[Astomoï]] *(B5)*  
+[[Babouin]] *(B2)*  
+[[Belette]] *(B1)*  
+[[Blaireau]] *(B2)*  
+[[Cafard géant]] *(B2)*  
+[[Caligni]] *(B5)*  
+[[Changelin]] *(B4, CP1/6)*  
+[[Changepeau]] *(B5)*  
+[[Chevelure animée]] *(B5)*  
+[[Compsognathus]] *(B2)*  
+[[Dauphin]] *(B1)*  
+[[Dhampir]] *(B2)*  
+[[Entrave du mage]] *(B5)*  
+[[Espion mécanique]] *(B3)*  
+[[Fetchelin]] *(B2)*  
+[[Gathelain]] *(B4)*  
+[[Grand-duc]] *(B3)*  
+[[Grenouille venimeuse]] *(B1)*  
+[[Grindylow]] *(B2)*  
+[[Grippli]] *(B2)*  
+[[Haniver]] *(B4, CV1/6)*  
+[[Hobgobelin]] *(B1)*  
+[[Hobkins]] *(B5)*  
+[[Homme-félin]] *(B3)*  
+[[Humain ectoplasmique]] *(B4)*  
+[[Hybride profond]] *(B5)*  
+[[Ifrit]] *(B2)*  
+[[Isitoq]] *(B4)*  
+[[Kangourou]] *(B3)*  
+[[Kasatha]] *(B4)*  
+[[Kitsune]] *(B4)*  
+[[Kuru]] *(GDC)*  
+[[Léchi de feuilles]] *(B3)*  
+[[Locathah]] *(B2)*  
+[[Main rampante]] *(B2)*  
+[[Mille-pattes géant]] *(B1)*  
+[[Nagaji]] *(B4)*  
+[[Nuno]] *(B5)*  
+[[Ondin]] *(B2)*  
+[[Orang-pendak]] *(B5)*  
+[[Oréade]] *(B2)*  
+[[Ouvrier formien]] *(B4)*  
+[[Petit panda]] *(B5)*  
+[[Pieuvre à anneaux bleus]] *(AM)*  
+[[Poney]] *(B1)*  
+[[Puce géante]] *(B4)*  
+[[Pugwampi]] *(B2, HF1/6)*  
+[[Raie à aiguillon]] *(B2, B4)*  
+[[Ramidreju]] *(B5)*  
+[[Raton laveur]] *(B3)*  
+[[Reptoïde]] *(B5)*  
+[[Sagari]] *(B3)*  
+[[Samsaran]] *(B4)*  
+[[Scorpion fantomatique]] *(B3)*  
+[[Shabti]] *(B5)*  
+[[Strige]] *(B1)*  
+[[Suli]] *(B3)*  
+[[Sylphe]] *(B2)*  
+[[Tengu]] *(B1)*  
+[[Thylacine]] *(B3, KM1/6)*  
+[[Tieffelin]] *(B1)*  
+[[Vanara]] *(B3)*  
+[[Vautour]] *(B3)*  
+[[Végépygmée]] *(B1, DO)*  
+[[Ver géant|Ver géant / Asticot géant]] *(B2, MTE2/6)*  
+[[Vipère]] *(B1)*  
+[[Virebois]] *(B4)*  
+[[Vishkanya]] *(B3)*  
+[[Wayang]] *(B4)*  
+[[Wivaran]] *(B4)*  
+[[Xtabay]] *(B2)*  
+[[Zombi humain]] *(B1)*  
 </div>
 
 
 ### 1
 <div class="article_3col">
-[[Abeille géante]] *(B2)*
-[[Akaname]] *(B5)*
-[[Akata]] *(B2, RT2/6)*
-[[Almiraj]] *(B4)*
-[[Amibe géante]] *(B2)*
-[[Androïde]] *(B5, BMI)*
-[[Araignée géante]] *(B1)*
-[[Atomie]] *(B3)*
-[[Bâtard]] *(B2)*
-[[Belette géante]] *(B4, RH1/6)*
-[[Bélier]] *(B2)*
-[[Bulle du chaudron]] *(B4)*
-[[Calmar]] *(B1)*
-[[Célédon]] *(B5)*
-[[Cerf]] *(B4)*
-[[Charognier]] *(B4)*
-[[Chenille à corne]] *(B5)*
-[[Cheval]] *(B1)*
-[[Chien de selle]] *(B1)*
-[[Chien gobelin]] *(B1, ESR1/6)*
-[[Corbie sanguinaire]] *(B3, MM)*
-[[Danseur obscur]] *(B4)*
-[[Dhabba]] *(GK)*
-[[Dimorphodon]] *(B4)*
-[[Dossenus]] *(B4)*
-[[Dromadaire]] *(B2)*
-[[Écheneis]] *(B5)*
-[[Élan]] *(B3, KM1/6)*
-[[Élémentaire daether de taille P|Élémentaire d'aether de taille P]] *(B5)*
-[[Élémentaire de lAir de taille P|Élémentaire de l'Air de taille P]] *(B1)*
-[[Élémentaire de lEau de taille P|Élémentaire de l'Eau de taille P]] *(B1)*
-[[Élémentaire de léclair de taille P|Élémentaire de l'éclair de taille P]] *(B2)*
-[[Élémentaire de la boue de taille P]] *(B2)*
-[[Élémentaire de la glace de taille P]] *(B2)*
-[[Élémentaire de Terre de taille P]] *(B1)*
-[[Élémentaire du Feu de taille P]] *(B1)*
-[[Élémentaire du magma de taille P]] *(B2)*
-[[Escarboucle]] *(B3, KM1/6)*
-[[Étiainen]] *(B5)*
-[[Faune]] *(B3)*
-[[Festrog]] *(B3)*
-[[Flumph]] *(B3, MM)*
-[[Foetus en bocal]] *(B4)*
-[[Fuath]] *(B3)*
-[[Gar]] *(B2)*
-[[Gecko géant]] *(B3, ESR1/6)*
-[[Ghoran]] *(B5, BMI)*
-[[Gnoll]] *(B1)*
-[[Goule]] *(B1)*
-[[Grenouille géante]] *(B1)*
-[[Griffe du récif]] *(B2, MTE1/6)*
-[[Grig]] *(B2)*
-[[Grioth]] *(B5, ID)*
-[[Gryph]] *(B2)*
-[[Hippocampe]] *(B2)*
-[[Homme-lézard]] *(B1)*
-[[Homoncule]] *(B1)*
-[[Hydromètre géant]] *(B4)*
-[[Hyène]] *(B1)*
-[[Jinkin]] *(B2, DO, HF1/6)*
-[[Krenshar]] *(B2)*
-[[Léchi calebasse]] *(B3)*
-[[Lémure]] *(B1)*
-[[Loup]] *(B1)*
-[[Lutin]] *(B2)*
-[[Mante obscure]] *(B1)*
-[[Méduse à tête de mort]] *(B3)*
-[[Monaciello]] *(B4)*
-[[Mouche géante]] *(B2, MTE2/6)*
-[[Ningyo]] *(B4)*
-[[Nixe]] *(B3)*
-[[Nuée damibes|Nuée d'amibes]] *(B2)*
-[[Nuée daraignées|Nuée d'araignées]] *(B1)*
-[[Ostovite]] *(B5)*
-[[Oursin chasseur]] *(B5)*
-[[Pétitionnaire humain]] *(B2)*
-[[Pieuvre]] *(B1)*
-[[Profond]] *(B5)*
-[[Pseudo-dragon]] *(B1)*
-[[Raie manta]] *(B2, B4)*
-[[Raie manta feuillue]] *(B4)*
-[[Scorpion des cavernes]] *(B2)*
-[[Serpent deau|Serpent d'eau]] *(GDC)*
-[[Serpent gobelin]] *(B3, ESR1/6)*
-[[Serpent venimeux]] *(B1)*
-[[Skulk]] *(B2)*
-[[Solifuge géant]] *(B2)*
-[[Svirfneblin]] *(B1)*
-[[Taupe cérébrale]] *(B5)*
-[[Tête de citrouille]] *(B4)*
-[[Tique géante]] *(B2)*
-[[Tortue géante]] *(B4)*
-[[Troglodyte]] *(B1)*
-[[Troodon]] *(B5)*
-[[Vexgit]] *(B2, HF1/6)*
-[[Zoog]] *(B3)*
+[[Abeille géante]] *(B2)*  
+[[Akaname]] *(B5)*  
+[[Akata]] *(B2, RT2/6)*  
+[[Almiraj]] *(B4)*  
+[[Amibe géante]] *(B2)*  
+[[Androïde]] *(B5, BMI)*  
+[[Araignée géante]] *(B1)*  
+[[Atomie]] *(B3)*  
+[[Bâtard]] *(B2)*  
+[[Belette géante]] *(B4, RH1/6)*  
+[[Bélier]] *(B2)*  
+[[Bulle du chaudron]] *(B4)*  
+[[Calmar]] *(B1)*  
+[[Célédon]] *(B5)*  
+[[Cerf]] *(B4)*  
+[[Charognier]] *(B4)*  
+[[Chenille à corne]] *(B5)*  
+[[Cheval]] *(B1)*  
+[[Chien de selle]] *(B1)*  
+[[Chien gobelin]] *(B1, ESR1/6)*  
+[[Corbie sanguinaire]] *(B3, MM)*  
+[[Danseur obscur]] *(B4)*  
+[[Dhabba]] *(GK)*  
+[[Dimorphodon]] *(B4)*  
+[[Dossenus]] *(B4)*  
+[[Dromadaire]] *(B2)*  
+[[Écheneis]] *(B5)*  
+[[Élan]] *(B3, KM1/6)*  
+[[Élémentaire daether de taille P|Élémentaire d'aether de taille P]] *(B5)*  
+[[Élémentaire de lAir de taille P|Élémentaire de l'Air de taille P]] *(B1)*  
+[[Élémentaire de lEau de taille P|Élémentaire de l'Eau de taille P]] *(B1)*  
+[[Élémentaire de léclair de taille P|Élémentaire de l'éclair de taille P]] *(B2)*  
+[[Élémentaire de la boue de taille P]] *(B2)*  
+[[Élémentaire de la glace de taille P]] *(B2)*  
+[[Élémentaire de Terre de taille P]] *(B1)*  
+[[Élémentaire du Feu de taille P]] *(B1)*  
+[[Élémentaire du magma de taille P]] *(B2)*  
+[[Escarboucle]] *(B3, KM1/6)*  
+[[Étiainen]] *(B5)*  
+[[Faune]] *(B3)*  
+[[Festrog]] *(B3)*  
+[[Flumph]] *(B3, MM)*  
+[[Foetus en bocal]] *(B4)*  
+[[Fuath]] *(B3)*  
+[[Gar]] *(B2)*  
+[[Gecko géant]] *(B3, ESR1/6)*  
+[[Ghoran]] *(B5, BMI)*  
+[[Gnoll]] *(B1)*  
+[[Goule]] *(B1)*  
+[[Grenouille géante]] *(B1)*  
+[[Griffe du récif]] *(B2, MTE1/6)*  
+[[Grig]] *(B2)*  
+[[Grioth]] *(B5, ID)*  
+[[Gryph]] *(B2)*  
+[[Hippocampe]] *(B2)*  
+[[Homme-lézard]] *(B1)*  
+[[Homoncule]] *(B1)*  
+[[Hydromètre géant]] *(B4)*  
+[[Hyène]] *(B1)*  
+[[Jinkin]] *(B2, DO, HF1/6)*  
+[[Krenshar]] *(B2)*  
+[[Léchi calebasse]] *(B3)*  
+[[Lémure]] *(B1)*  
+[[Loup]] *(B1)*  
+[[Lutin]] *(B2)*  
+[[Mante obscure]] *(B1)*  
+[[Méduse à tête de mort]] *(B3)*  
+[[Monaciello]] *(B4)*  
+[[Mouche géante]] *(B2, MTE2/6)*  
+[[Ningyo]] *(B4)*  
+[[Nixe]] *(B3)*  
+[[Nuée damibes|Nuée d'amibes]] *(B2)*  
+[[Nuée daraignées|Nuée d'araignées]] *(B1)*  
+[[Ostovite]] *(B5)*  
+[[Oursin chasseur]] *(B5)*  
+[[Pétitionnaire humain]] *(B2)*  
+[[Pieuvre]] *(B1)*  
+[[Profond]] *(B5)*  
+[[Pseudo-dragon]] *(B1)*  
+[[Raie manta]] *(B2, B4)*  
+[[Raie manta feuillue]] *(B4)*  
+[[Scorpion des cavernes]] *(B2)*  
+[[Serpent deau|Serpent d'eau]] *(GDC)*  
+[[Serpent gobelin]] *(B3, ESR1/6)*  
+[[Serpent venimeux]] *(B1)*  
+[[Skulk]] *(B2)*  
+[[Solifuge géant]] *(B2)*  
+[[Svirfneblin]] *(B1)*  
+[[Taupe cérébrale]] *(B5)*  
+[[Tête de citrouille]] *(B4)*  
+[[Tique géante]] *(B2)*  
+[[Tortue géante]] *(B4)*  
+[[Troglodyte]] *(B1)*  
+[[Troodon]] *(B5)*  
+[[Vexgit]] *(B2, HF1/6)*  
+[[Zoog]] *(B3)*  
 </div>
 
 
 ### 2
 <div class="article_3col">
-[[Anémone de mer géante]] *(B3)*
-[[Anguille électrique]] *(B1)*
-[[Apallie]] *(B5)*
-[[Araignée géante démoniaque]] *(GPM)*
-[[Araignée lunaire]] *(B5, TE)*
-[[Arbitre]] *(B2)*
-[[Archon annonciateur]] *(B3)*
-[[Archon lumineux]] *(B1)*
-[[Armure fantôme gardienne]] *(B4, CP5/6)*
-[[monstre Augure|Augure]] *(B3)*
-[[Auroch]] *(B1)*
-[[Aveugleur]] *(B2)*
-[[Azer]] *(B2)*
-[[Blaireau sanguinaire]] *(B2)*
-[[Bondisseur aquatique]] *(B5)*
-[[Bourbiérin]] *(B1, ESR2/6)*
-[[Cacodaémon]] *(B2)*
-[[Cambion]] *(B5, WR4/6)*
-[[Capuche du bourreau]] *(B4, MM)*
-[[Cassisien]] *(B2)*
-[[Champion squelette]] *(B1)*
-[[Charau-ka]] *(CCMI)*
-[[Chauve-souris sanguinaire]] *(B1)*
-[[Cheval pestiféré]] *(GPM, B5)*
-[[Chien de la mort]] *(B4)*
-[[Chien esquiveur]] *(B2)*
-[[Chien foo]] *(B3)*
-[[Chuspiki]] *(B5)*
-[[Cobra de fer]] *(B1)*
-[[Crabe géant]] *(B1)*
-[[Crapaud géant]] *(B2)*
-[[Crocodile]] *(B1)*
-[[Cythnigot]] *(B2)*
-[[Dévoreur de pensées]] *(B5)*
-[[Diablotin]] *(B1)*
-[[Doru]] *(B3, HF1/6)*
-[[Dragon féerique]] *(B1)*
-[[Drake dombre|Drake d'ombre]] *(B4)*
-[[Draugr]] *(B2)*
-[[Dretch]] *(B1)*
-[[Esipil]] *(B5)*
-[[Esprit follet liminal]] *(B5)*
-[[Esprit Oni]] *(B3)*
-[[Étrangleur]] *(B1)*
-[[Familier mécanique]] *(B5)*
-[[Farfadet]] *(B2)*
-[[Fer de hache]] *(B3)*
-[[Forlarren]] *(B2)*
-[[Fourmi géante]] *(B1)*
-[[Fureteur obscur]] *(B1)*
-[[Garou-chacal]] *(B3)*
-[[Glouton]] *(B1)*
-[[Gobelours]] *(B1)*
-[[Gorille]] *(B1)*
-[[Guépard]] *(B1)*
-[[Hippogriffe]] *(B2)*
-[[Incutilis]] *(B4, SS1/6)*
-[[Jeune seps]] *(B4)*
-[[Kappa]] *(B3)*
-[[Koto-furunishi]] *(B5)*
-[[Léchi fongique]] *(B3, KM4/6)*
-[[Léopard]] *(B1)*
-[[Lézard de vase géant]] *(B5)*
-[[Lézard voltaïque]] *(B1)*
-[[Loup boréal]] *(IPHE)*
-[[Loup-garou]] *(B1)*
-[[Lyrakien]] *(B2, ESR2/6)*
-[[Moa]] *(B5)*
-[[Moisissure jaune]] *(B1)*
-[[Moisissure vaseuse]] *(B2)*
-[[Morlock]] *(B1, DO)*
-[[Nosoï]] *(B4, CP5/6)*
-[[Nuée de cafards]] *(B2)*
-[[Nuée de chauves-souris]] *(B1)*
-[[Nuée de rats]] *(B1)*
-[[Nuée de sauterelles]] *(B4)*
-[[Nuée de serpents]] *(B3)*
-[[Nuée de singes]] *(B2)*
-[[Nuglub]] *(B2)*
-[[Nycar]] *(B4)*
-[[Ogrelin humain]] *(B2)*
-[[Ovinnik]] *(B5, RH1/6)*
-[[Paraclétus]] *(B2)*
-[[Peau déchiquetée]] *(B4)*
-[[Pêcheur des grottes]] *(B1)*
-[[Plante flagelleuse]] *(B4)*
-[[Plésiosaure]] *(B5)*
-[[Poltergeist]] *(B2)*
-[[Pooka]] *(B4)*
-[[Porc-épic géant]] *(B3)*
-[[Poupée des âmes]] *(B2, MTE1/6)*
-[[Puce cyclopéenne]] *(B4)*
-[[Quasit]] *(B1)*
-[[Raktavarna]] *(B3, MTE1/6)*
-[[Rat-garou]] *(B1)*
-[[Ratelin]] *(B4, RJ2/6)*
-[[Reflet spirituel]] *(B4)*
-[[Rejeton du péché]] *(B2, ESR1/6)*
-[[Renard serpentin]] *(B4)*
-[[Requin]] *(B1)*
-[[Requin bouledogue]] *(B4)*
-[[Sahuagin]] *(B1)*
-[[Sanglier]] *(B1)*
-[[Sanglier-garou]] *(B2)*
-[[Sangsue géante]] *(B1)*
-[[Sasquatch]] *(B3)*
-[[Serpent constricteur]] *(B1)*
-[[Serviteur mécanique]] *(B3)*
-[[Shikigami]] *(B3)*
-[[Silvanshie]] *(B2)*
-[[Skum]] *(B1)*
-[[Slurk]] *(B2, CRK)*
-[[Songeur|Songeur / Contemplatif d'Ashok]] *(B4, MPML)*
-[[Tatzlwyrm]] *(B3, DENF, KM1/6)*
-[[Thoqqua]] *(B2)*
-[[Tripurasura]] *(B3)*
-[[Triton]] *(B2)*
-[[Trox]] *(B4)*
-[[Tsaalgrend]] *(B5)*
-[[Varan]] *(B1)*
-[[Vargouille]] *(B1)*
-[[Vase des jardins]] *(B3)*
-[[Vélociraptor]] *(B4)*
-[[Ver du néant]] *(B2)*
-[[Vollute de laether|Vollute de l'aether]] *(B5)*
-[[Vollute de lair|Vollute de l'air]] *(B5)*
-[[Vollute de leau|Vollute de l'eau]] *(B5)*
-[[Vollute de la terre]] *(B5)*
-[[Vollute du feu]] *(B5)*
-[[Wécufe]] *(B3)*
-[[Worg]] *(B1)*
-[[Xiao]] *(B5)*
-[[Zombi juju humain]] *(B2)*
+[[Anémone de mer géante]] *(B3)*  
+[[Anguille électrique]] *(B1)*  
+[[Apallie]] *(B5)*  
+[[Araignée géante démoniaque]] *(GPM)*  
+[[Araignée lunaire]] *(B5, TE)*  
+[[Arbitre]] *(B2)*  
+[[Archon annonciateur]] *(B3)*  
+[[Archon lumineux]] *(B1)*  
+[[Armure fantôme gardienne]] *(B4, CP5/6)*  
+[[monstre Augure|Augure]] *(B3)*  
+[[Auroch]] *(B1)*  
+[[Aveugleur]] *(B2)*  
+[[Azer]] *(B2)*  
+[[Blaireau sanguinaire]] *(B2)*  
+[[Bondisseur aquatique]] *(B5)*  
+[[Bourbiérin]] *(B1, ESR2/6)*  
+[[Cacodaémon]] *(B2)*  
+[[Cambion]] *(B5, WR4/6)*  
+[[Capuche du bourreau]] *(B4, MM)*  
+[[Cassisien]] *(B2)*  
+[[Champion squelette]] *(B1)*  
+[[Charau-ka]] *(CCMI)*  
+[[Chauve-souris sanguinaire]] *(B1)*  
+[[Cheval pestiféré]] *(GPM, B5)*  
+[[Chien de la mort]] *(B4)*  
+[[Chien esquiveur]] *(B2)*  
+[[Chien foo]] *(B3)*  
+[[Chuspiki]] *(B5)*  
+[[Cobra de fer]] *(B1)*  
+[[Crabe géant]] *(B1)*  
+[[Crapaud géant]] *(B2)*  
+[[Crocodile]] *(B1)*  
+[[Cythnigot]] *(B2)*  
+[[Dévoreur de pensées]] *(B5)*  
+[[Diablotin]] *(B1)*  
+[[Doru]] *(B3, HF1/6)*  
+[[Dragon féerique]] *(B1)*  
+[[Drake dombre|Drake d'ombre]] *(B4)*  
+[[Draugr]] *(B2)*  
+[[Dretch]] *(B1)*  
+[[Esipil]] *(B5)*  
+[[Esprit follet liminal]] *(B5)*  
+[[Esprit Oni]] *(B3)*  
+[[Étrangleur]] *(B1)*  
+[[Familier mécanique]] *(B5)*  
+[[Farfadet]] *(B2)*  
+[[Fer de hache]] *(B3)*  
+[[Forlarren]] *(B2)*  
+[[Fourmi géante]] *(B1)*  
+[[Fureteur obscur]] *(B1)*  
+[[Garou-chacal]] *(B3)*  
+[[Glouton]] *(B1)*  
+[[Gobelours]] *(B1)*  
+[[Gorille]] *(B1)*  
+[[Guépard]] *(B1)*  
+[[Hippogriffe]] *(B2)*  
+[[Incutilis]] *(B4, SS1/6)*  
+[[Jeune seps]] *(B4)*  
+[[Kappa]] *(B3)*  
+[[Koto-furunishi]] *(B5)*  
+[[Léchi fongique]] *(B3, KM4/6)*  
+[[Léopard]] *(B1)*  
+[[Lézard de vase géant]] *(B5)*  
+[[Lézard voltaïque]] *(B1)*  
+[[Loup boréal]] *(IPHE)*  
+[[Loup-garou]] *(B1)*  
+[[Lyrakien]] *(B2, ESR2/6)*  
+[[Moa]] *(B5)*  
+[[Moisissure jaune]] *(B1)*  
+[[Moisissure vaseuse]] *(B2)*  
+[[Morlock]] *(B1, DO)*  
+[[Nosoï]] *(B4, CP5/6)*  
+[[Nuée de cafards]] *(B2)*  
+[[Nuée de chauves-souris]] *(B1)*  
+[[Nuée de rats]] *(B1)*  
+[[Nuée de sauterelles]] *(B4)*  
+[[Nuée de serpents]] *(B3)*  
+[[Nuée de singes]] *(B2)*  
+[[Nuglub]] *(B2)*  
+[[Nycar]] *(B4)*  
+[[Ogrelin humain]] *(B2)*  
+[[Ovinnik]] *(B5, RH1/6)*  
+[[Paraclétus]] *(B2)*  
+[[Peau déchiquetée]] *(B4)*  
+[[Pêcheur des grottes]] *(B1)*  
+[[Plante flagelleuse]] *(B4)*  
+[[Plésiosaure]] *(B5)*  
+[[Poltergeist]] *(B2)*  
+[[Pooka]] *(B4)*  
+[[Porc-épic géant]] *(B3)*  
+[[Poupée des âmes]] *(B2, MTE1/6)*  
+[[Puce cyclopéenne]] *(B4)*  
+[[Quasit]] *(B1)*  
+[[Raktavarna]] *(B3, MTE1/6)*  
+[[Rat-garou]] *(B1)*  
+[[Ratelin]] *(B4, RJ2/6)*  
+[[Reflet spirituel]] *(B4)*  
+[[Rejeton du péché]] *(B2, ESR1/6)*  
+[[Renard serpentin]] *(B4)*  
+[[Requin]] *(B1)*  
+[[Requin bouledogue]] *(B4)*  
+[[Sahuagin]] *(B1)*  
+[[Sanglier]] *(B1)*  
+[[Sanglier-garou]] *(B2)*  
+[[Sangsue géante]] *(B1)*  
+[[Sasquatch]] *(B3)*  
+[[Serpent constricteur]] *(B1)*  
+[[Serviteur mécanique]] *(B3)*  
+[[Shikigami]] *(B3)*  
+[[Silvanshie]] *(B2)*  
+[[Skum]] *(B1)*  
+[[Slurk]] *(B2, CRK)*  
+[[Songeur|Songeur / Contemplatif d'Ashok]] *(B4, MPML)*  
+[[Tatzlwyrm]] *(B3, DENF, KM1/6)*  
+[[Thoqqua]] *(B2)*  
+[[Tripurasura]] *(B3)*  
+[[Triton]] *(B2)*  
+[[Trox]] *(B4)*  
+[[Tsaalgrend]] *(B5)*  
+[[Varan]] *(B1)*  
+[[Vargouille]] *(B1)*  
+[[Vase des jardins]] *(B3)*  
+[[Vélociraptor]] *(B4)*  
+[[Ver du néant]] *(B2)*  
+[[Vollute de laether|Vollute de l'aether]] *(B5)*  
+[[Vollute de lair|Vollute de l'air]] *(B5)*  
+[[Vollute de leau|Vollute de l'eau]] *(B5)*  
+[[Vollute de la terre]] *(B5)*  
+[[Vollute du feu]] *(B5)*  
+[[Wécufe]] *(B3)*  
+[[Worg]] *(B1)*  
+[[Xiao]] *(B5)*  
+[[Zombi juju humain]] *(B2)*  
 </div>
 
 
 ### 3
 <div class="article_3col">
-[[Aallip]] *(B2)*
-[[Abrikandilu]] *(B5, GPM)*
-[[Adaro]] *(B3)*
-[[Aigle géant]] *(B1)*
-[[Ankheg]] *(B1)*
-[[Asticot géant]] *(B3, CV1/6)*
-[[Belette sanguinaire]] *(B4)*
-[[Brume vampirique]] *(B2)*
-[[Bunyip]] *(B2)*
-[[Caméléon géant]] *(B3)*
-[[Caryatide]] *(B3)*
-[[Centaure]] *(B1)*
-[[Cératioïde|Cératioïde / Lophidien]] *(B3, KM2/6)*
-[[Chair affamée]] *(B4)*
-[[Champignon cérébré]] *(B3)*
-[[Champignon fantôme]] *(B3)*
-[[Chauve-souris garou]] *(B4, CP3/6)*
-[[Chickcharney]] *(GDC)*
-[[Chien hurleur]] *(B1)*
-[[Chupacabra]] *(B2, HF1/6)*
-[[Cockatrice]] *(B1)*
-[[Crapaud féerique géant]] *(B3)*
-[[Crocodile garou]] *(B4, SS4/6)*
-[[Crysmal]] *(B2)*
-[[Cube gélatineux]] *(B1)*
-[[Dziriak|D'ziriak]] *(B2)*
-[[Déinonychus]] *(B1)*
-[[Derro]] *(B1)*
-[[Désenchanteur]] *(B3, MM)*
-[[Diable accusateur|Diable accusateur (Zébub)]] *(B2)*
-[[Diable de lost mineur|Diable de l'ost mineur (Gaav)]] *(LD)*
-[[Dimétrodon]] *(B3)*
-[[Domovoï]] *(B5, RH1/6)*
-[[Doppelganger]] *(B1)*
-[[Drake des rivières]] *(B3)*
-[[Drow noble]] *(B1)*
-[[Dryade]] *(B1)*
-[[Élémentaire daether de taille M|Élémentaire d'aether de taille M]] *(B5)*
-[[Élémentaire de lAir de taille M|Élémentaire de l'Air de taille M]] *(B1)*
-[[Élémentaire de lEau de taille M|Élémentaire de l'Eau de taille M]] *(B1)*
-[[Élémentaire de léclair de taille M|Élémentaire de l'éclair de taille M]] *(B2)*
-[[Élémentaire de la boue de taille M]] *(B2)*
-[[Élémentaire de la glace de taille M]] *(B2)*
-[[Élémentaire de Terre de taille M]] *(B1)*
-[[Élémentaire du Feu de taille M]] *(B1)*
-[[Élémentaire du magma de taille M]] *(B2)*
-[[Ettercap]] *(B1)*
-[[Fongoïde violet]] *(B1)*
-[[Girafe]] *(B4)*
-[[Glutineux]] *(B3, MM)*
-[[Golem de cire]] *(B4)*
-[[Gorille sanguinaire]] *(B1)*
-[[Grande corneille-sorcière]] *(B5, RH1/6)*
-[[Grenouille goliath]] *(B5)*
-[[Grick]] *(B2)*
-[[Grizzly empaillé]] *(B5)*
-[[Grothlut]] *(B4)*
-[[Guêpe géante]] *(B1)*
-[[Guerrière formienne]] *(B4)*
-[[Hippocampe géant]] *(B4)*
-[[Homme-brindille]] *(B2)*
-[[Homme-poisson des profondeurs]] *(B5)*
-[[Hurleur]] *(B2)*
-[[Hyène sanguinaire]] *(B1)*
-[[Insecte tueur géant]] *(B5)*
-[[Jack Talons-à-ressort]] *(B4, CP1/6)*
-[[Jeune rukh]] *(B4, HF3/6)*
-[[Kawa akago]] *(B5)*
-[[Kech]] *(B3)*
-[[Lacridaémon]] *(LD)*
-[[Lamhigyn]] *(B5, CJ4/6)*
-[[Léchi dalgues|Léchi d'algues]] *(B3)*
-[[Liane meurtrière]] *(B1)*
-[[Licorne]] *(B1)*
-[[Lion]] *(B1)*
-[[Loup sanguinaire]] *(B1)*
-[[Magmatique]] *(B3)*
-[[Mante géante]] *(B1)*
-[[Marchand de sable]] *(B2)*
-[[Méphite]] *(B1)*
-[[Merrow deau douce|Merrow d'eau douce]] *(B2)*
-[[Mille-pattes à queue fouettante]] *(B2)*
-[[Mobat]] *(B2)*
-[[Moisissure esclavagiste]] *(B4)*
-[[Molosse infernal]] *(B1)*
-[[Morse]] *(B4)*
-[[Moufette géante]] *(B3)*
-[[Narval]] *(B5, SS5/6)*
-[[Nécroforgé]] *(B4)*
-[[Nécrophage]] *(B1)*
-[[Nécrophidius]] *(B2)*
-[[Nuée de bousiers]] *(B5)*
-[[Nuée de guêpes]] *(B1)*
-[[Nuée de moustiques]] *(B2)*
-[[Nymphe de libellule géante]] *(B2)*
-[[Objet animé]] *(B1)*
-[[Octopode laineux]] *(B5)*
-[[Ogre]] *(B1)*
-[[Ombre]] *(B1)*
-[[Oxydeur]] *(B1)*
-[[Parchemin protecteur]] *(B5)*
-[[Parde]] *(B4)*
-[[Pech]] *(B2)*
-[[Pégase]] *(B1)*
-[[Pirate draugr]] *(GDC)*
-[[Poupée de garde]] *(IPHE)*
-[[Ptéranodon]] *(B1)*
-[[Pumassue]] *(B5)*
-[[Rampant fongique]] *(B2, RT1/6)*
-[[Requin garou]] *(B4, GDC)*
-[[Sauterelle géante]] *(B4)*
-[[Scorpion géant]] *(B1)*
-[[Seigneur zombi]] *(B4, CP3/6)*
-[[Shasalqu]] *(B5)*
-[[Shulsaga]] *(B4)*
-[[Snallygaster]] *(B4)*
-[[Spriggan de taille G]] *(B2)*
-[[Spriggan de taille M]] *(B2)*
-[[Termite géant]] *(B5)*
-[[Troll de mousse]] *(B3)*
-[[Trollosse]] *(B3, KM2/6)*
-[[Tueur obscur]] *(B2)*
-[[Urdefhan]] *(B2, DO)*
-[[Vase dœil de guenaude|Vase d'œil de guenaude]] *(B5, RH6/6)*
-[[Vermlek]] *(LD)*
-[[Veuve noire géante]] *(B2)*
-[[Viflin]] *(B2)*
-[[Vukodlak]] *(B5)*
+[[Aallip]] *(B2)*  
+[[Abrikandilu]] *(B5, GPM)*  
+[[Adaro]] *(B3)*  
+[[Aigle géant]] *(B1)*  
+[[Ankheg]] *(B1)*  
+[[Asticot géant]] *(B3, CV1/6)*  
+[[Belette sanguinaire]] *(B4)*  
+[[Brume vampirique]] *(B2)*  
+[[Bunyip]] *(B2)*  
+[[Caméléon géant]] *(B3)*  
+[[Caryatide]] *(B3)*  
+[[Centaure]] *(B1)*  
+[[Cératioïde|Cératioïde / Lophidien]] *(B3, KM2/6)*  
+[[Chair affamée]] *(B4)*  
+[[Champignon cérébré]] *(B3)*  
+[[Champignon fantôme]] *(B3)*  
+[[Chauve-souris garou]] *(B4, CP3/6)*  
+[[Chickcharney]] *(GDC)*  
+[[Chien hurleur]] *(B1)*  
+[[Chupacabra]] *(B2, HF1/6)*  
+[[Cockatrice]] *(B1)*  
+[[Crapaud féerique géant]] *(B3)*  
+[[Crocodile garou]] *(B4, SS4/6)*  
+[[Crysmal]] *(B2)*  
+[[Cube gélatineux]] *(B1)*  
+[[Dziriak|D'ziriak]] *(B2)*  
+[[Déinonychus]] *(B1)*  
+[[Derro]] *(B1)*  
+[[Désenchanteur]] *(B3, MM)*  
+[[Diable accusateur|Diable accusateur (Zébub)]] *(B2)*  
+[[Diable de lost mineur|Diable de l'ost mineur (Gaav)]] *(LD)*  
+[[Dimétrodon]] *(B3)*  
+[[Domovoï]] *(B5, RH1/6)*  
+[[Doppelganger]] *(B1)*  
+[[Drake des rivières]] *(B3)*  
+[[Drow noble]] *(B1)*  
+[[Dryade]] *(B1)*  
+[[Élémentaire daether de taille M|Élémentaire d'aether de taille M]] *(B5)*  
+[[Élémentaire de lAir de taille M|Élémentaire de l'Air de taille M]] *(B1)*  
+[[Élémentaire de lEau de taille M|Élémentaire de l'Eau de taille M]] *(B1)*  
+[[Élémentaire de léclair de taille M|Élémentaire de l'éclair de taille M]] *(B2)*  
+[[Élémentaire de la boue de taille M]] *(B2)*  
+[[Élémentaire de la glace de taille M]] *(B2)*  
+[[Élémentaire de Terre de taille M]] *(B1)*  
+[[Élémentaire du Feu de taille M]] *(B1)*  
+[[Élémentaire du magma de taille M]] *(B2)*  
+[[Ettercap]] *(B1)*  
+[[Fongoïde violet]] *(B1)*  
+[[Girafe]] *(B4)*  
+[[Glutineux]] *(B3, MM)*  
+[[Golem de cire]] *(B4)*  
+[[Gorille sanguinaire]] *(B1)*  
+[[Grande corneille-sorcière]] *(B5, RH1/6)*  
+[[Grenouille goliath]] *(B5)*  
+[[Grick]] *(B2)*  
+[[Grizzly empaillé]] *(B5)*  
+[[Grothlut]] *(B4)*  
+[[Guêpe géante]] *(B1)*  
+[[Guerrière formienne]] *(B4)*  
+[[Hippocampe géant]] *(B4)*  
+[[Homme-brindille]] *(B2)*  
+[[Homme-poisson des profondeurs]] *(B5)*  
+[[Hurleur]] *(B2)*  
+[[Hyène sanguinaire]] *(B1)*  
+[[Insecte tueur géant]] *(B5)*  
+[[Jack Talons-à-ressort]] *(B4, CP1/6)*  
+[[Jeune rukh]] *(B4, HF3/6)*  
+[[Kawa akago]] *(B5)*  
+[[Kech]] *(B3)*  
+[[Lacridaémon]] *(LD)*  
+[[Lamhigyn]] *(B5, CJ4/6)*  
+[[Léchi dalgues|Léchi d'algues]] *(B3)*  
+[[Liane meurtrière]] *(B1)*  
+[[Licorne]] *(B1)*  
+[[Lion]] *(B1)*  
+[[Loup sanguinaire]] *(B1)*  
+[[Magmatique]] *(B3)*  
+[[Mante géante]] *(B1)*  
+[[Marchand de sable]] *(B2)*  
+[[Méphite]] *(B1)*  
+[[Merrow deau douce|Merrow d'eau douce]] *(B2)*  
+[[Mille-pattes à queue fouettante]] *(B2)*  
+[[Mobat]] *(B2)*  
+[[Moisissure esclavagiste]] *(B4)*  
+[[Molosse infernal]] *(B1)*  
+[[Morse]] *(B4)*  
+[[Moufette géante]] *(B3)*  
+[[Narval]] *(B5, SS5/6)*  
+[[Nécroforgé]] *(B4)*  
+[[Nécrophage]] *(B1)*  
+[[Nécrophidius]] *(B2)*  
+[[Nuée de bousiers]] *(B5)*  
+[[Nuée de guêpes]] *(B1)*  
+[[Nuée de moustiques]] *(B2)*  
+[[Nymphe de libellule géante]] *(B2)*  
+[[Objet animé]] *(B1)*  
+[[Octopode laineux]] *(B5)*  
+[[Ogre]] *(B1)*  
+[[Ombre]] *(B1)*  
+[[Oxydeur]] *(B1)*  
+[[Parchemin protecteur]] *(B5)*  
+[[Parde]] *(B4)*  
+[[Pech]] *(B2)*  
+[[Pégase]] *(B1)*  
+[[Pirate draugr]] *(GDC)*  
+[[Poupée de garde]] *(IPHE)*  
+[[Ptéranodon]] *(B1)*  
+[[Pumassue]] *(B5)*  
+[[Rampant fongique]] *(B2, RT1/6)*  
+[[Requin garou]] *(B4, GDC)*  
+[[Sauterelle géante]] *(B4)*  
+[[Scorpion géant]] *(B1)*  
+[[Seigneur zombi]] *(B4, CP3/6)*  
+[[Shasalqu]] *(B5)*  
+[[Shulsaga]] *(B4)*  
+[[Snallygaster]] *(B4)*  
+[[Spriggan de taille G]] *(B2)*  
+[[Spriggan de taille M]] *(B2)*  
+[[Termite géant]] *(B5)*  
+[[Troll de mousse]] *(B3)*  
+[[Trollosse]] *(B3, KM2/6)*  
+[[Tueur obscur]] *(B2)*  
+[[Urdefhan]] *(B2, DO)*  
+[[Vase dœil de guenaude|Vase d'œil de guenaude]] *(B5, RH6/6)*  
+[[Vermlek]] *(LD)*  
+[[Veuve noire géante]] *(B2)*  
+[[Viflin]] *(B2)*  
+[[Vukodlak]] *(B5)*  
 </div>
 
 
 ### 4
 <div class="article_3col">
-[[Aghash]] *(B3)*
-[[Ahkhat]] *(B5)*
-[[Ahmuuth]] *(ISG)*
-[[Amphiptère]] *(B5)*
-[[Amphisbène]] *(B2)*
-[[Aranéa]] *(B2)*
-[[Archon canin]] *(B1)*
-[[Archon cervidé]] *(ISG)*
-[[Ariès]] *(B3)*
-[[Armure fantôme géante]] *(B4, CP5/6)*
-[[Ataxien]] *(ISG)*
-[[Barghest]] *(B1)*
-[[Bison]] *(B1)*
-[[Burleev]] *(ISG)*
-[[Capitaine draugr]] *(GDC)*
-[[Chalkost]] *(ISG)*
-[[Charançon géant]] *(B1)*
-[[Chenille de sang]] *(B5)*
-[[Chuchoteur du grenier]] *(B2, ESR1/6)*
-[[Coléoptère tranchoir]] *(B2)*
-[[Dapsara]] *(ISG)*
-[[Décapus]] *(B2)*
-[[Diable complice|Diable complice (Hespérien)]] *(ISG)*
-[[Drake des forêts]] *(B2, RT3/6)*
-[[Dunagh]] *(B5, FF)*
-[[Dvorovoï]] *(B5, RH1/6)*
-[[Echalas sombre]] *(B4)*
-[[Enfouisseur des sables]] *(B2)*
-[[Épouvantail]] *(B2)*
-[[Escargot Fléau]] *(B3, MM)*
-[[Ettercap cauchemardesque]] *(B4)*
-[[Fantôme libéré]] *(B5)*
-[[Félin des mers]] *(B4, SS2/6)*
-[[Feu de Saint-Elme]] *(B4, SS3/6)*
-[[Firbolg]] *(B5)*
-[[Flot glacial]] *(B4)*
-[[Fourmi chevalière]] *(B5)*
-[[Gancanagh]] *(B5)*
-[[Gargouille]] *(B1)*
-[[Glouton sanguinaire]] *(B1)*
-[[Golem de charogne]] *(B2, MTE1/6)*
-[[Golem de pacotille]] *(B4)*
-[[Grand requin blanc]] *(B4, SS3/6)*
-[[Griffon]] *(B1)*
-[[Grizzly]] *(B1)*
-[[Guenaude marine]] *(B1)*
-[[Harpie]] *(B1)*
-[[Heikegani]] *(B5)*
-[[Homme-serpent]] *(B2, DO)*
-[[Huldre]] *(B4)*
-[[Hydre]] *(B1)*
-[[Iophanite]] *(ISG)*
-[[Jann]] *(B1)*
-[[Kamadan]] *(B3)*
-[[Karkadann]] *(B5)*
-[[Karumzek]] *(ISG)*
-[[Kasa-obake]] *(B5)*
-[[Kelpie]] *(B2)*
-[[Korred]] *(B2)*
-[[Kuwa]] *(B3)*
-[[Lampadarius]] *(ISG)*
-[[Léchi attrape-mouche]] *(B5)*
-[[Libellule géante]] *(B2)*
-[[Licorne demi-céleste]] *(B1)*
-[[Lion foo]] *(B3)*
-[[Machiniste]] *(B5, BMI)*
-[[Mandragore]] *(B2, RT5/6)*
-[[Mégalocéros]] *(B2, KM1/6)*
-[[Mimique]] *(B1)*
-[[Minotaure]] *(B1)*
-[[Momie des marais]] *(B5)*
-[[Mur vivant]] *(B4)*
-[[Mycéloïde]] *(B3)*
-[[Nirento]] *(GDC)*
-[[Nucol]] *(BD)*
-[[Nuée de crabes]] *(B1)*
-[[Nuée de mille-pattes]] *(B1)*
-[[Nuée de sangsues]] *(B1)*
-[[Nuée de serpents venimeux]] *(B3)*
-[[Orsheval]] *(ISG)*
-[[Otyugh]] *(B1)*
-[[Ours-garou]] *(B2)*
-[[Ours-hibou]] *(B1)*
-[[Oursin lancier]] *(B5)*
-[[Pachycéphalosaure]] *(B3)*
-[[Papillon sinistre]] *(B2)*
-[[Parasaurolophus]] *(B2)*
-[[Pavbagha]] *(ISG)*
-[[Péryton]] *(B2, HF1/6)*
-[[Petit-gris]] *(B5)*
-[[Phycomide]] *(B2)*
-[[Pixie]] *(B1)*
-[[Poisson diable]] *(B2, MTE1/6)*
-[[Racine hématophage|Racine hématophage / Racine-sangsue]] *(B5, LMA)*
-[[Reptial]] *(B5)*
-[[Rhinocéros]] *(B1)*
-[[Sanglier sanguinaire]] *(B1)*
-[[Sarcovalt]] *(ISG)*
-[[Satyre]] *(B1)*
-[[Sculpture végétale vivante|Sculpture végétale vivante / Topiaire vivante]] *(B4, CP5/6)*
-[[Sha]] *(B5)*
-[[Shaé]] *(B3)*
-[[Shobhad]] *(B4, MPML)*
-[[Shriezyx]] *(B4)*
-[[Soldat thriae]] *(B3)*
-[[Solifuge albinos des cavernes]] *(B2, DO)*
-[[Swaithe]] *(ISG)*
-[[Tanuki]] *(B3)*
-[[Tentamort]] *(B2)*
-[[Thognorok]] *(ISG)*
-[[Thyrlien]] *(ISG)*
-[[Tigre]] *(B1)*
-[[Tigre-garou]] *(B2)*
-[[Tombelié]] *(B5)*
-[[Traqueur gluant]] *(B2)*
-[[Traqueur obscur]] *(B1)*
-[[Traqueur sans visage]] *(B2, ESR2/6)*
-[[Tristesource]] *(B4)*
-[[Troll des glaces]] *(B2)*
-[[Vase grise]] *(B1)*
-[[Vautour géant]] *(B3)*
-[[Vendenoptérix]] *(ISG)*
-[[Voonith]] *(B3)*
-[[Vulnudaémon]] *(B3)*
-[[Wikkawak]] *(B4)*
-[[Xocothien]] *(ISG)*
-[[Yéti]] *(B1)*
-[[Yhohm]] *(ISG)*
-[[Zentragt]] *(ISG)*
-[[Zouvembi]] *(B3)*
+[[Aghash]] *(B3)*  
+[[Ahkhat]] *(B5)*  
+[[Ahmuuth]] *(ISG)*  
+[[Amphiptère]] *(B5)*  
+[[Amphisbène]] *(B2)*  
+[[Aranéa]] *(B2)*  
+[[Archon canin]] *(B1)*  
+[[Archon cervidé]] *(ISG)*  
+[[Ariès]] *(B3)*  
+[[Armure fantôme géante]] *(B4, CP5/6)*  
+[[Ataxien]] *(ISG)*  
+[[Barghest]] *(B1)*  
+[[Bison]] *(B1)*  
+[[Burleev]] *(ISG)*  
+[[Capitaine draugr]] *(GDC)*  
+[[Chalkost]] *(ISG)*  
+[[Charançon géant]] *(B1)*  
+[[Chenille de sang]] *(B5)*  
+[[Chuchoteur du grenier]] *(B2, ESR1/6)*  
+[[Coléoptère tranchoir]] *(B2)*  
+[[Dapsara]] *(ISG)*  
+[[Décapus]] *(B2)*  
+[[Diable complice|Diable complice (Hespérien)]] *(ISG)*  
+[[Drake des forêts]] *(B2, RT3/6)*  
+[[Dunagh]] *(B5, FF)*  
+[[Dvorovoï]] *(B5, RH1/6)*  
+[[Echalas sombre]] *(B4)*  
+[[Enfouisseur des sables]] *(B2)*  
+[[Épouvantail]] *(B2)*  
+[[Escargot Fléau]] *(B3, MM)*  
+[[Ettercap cauchemardesque]] *(B4)*  
+[[Fantôme libéré]] *(B5)*  
+[[Félin des mers]] *(B4, SS2/6)*  
+[[Feu de Saint-Elme]] *(B4, SS3/6)*  
+[[Firbolg]] *(B5)*  
+[[Flot glacial]] *(B4)*  
+[[Fourmi chevalière]] *(B5)*  
+[[Gancanagh]] *(B5)*  
+[[Gargouille]] *(B1)*  
+[[Glouton sanguinaire]] *(B1)*  
+[[Golem de charogne]] *(B2, MTE1/6)*  
+[[Golem de pacotille]] *(B4)*  
+[[Grand requin blanc]] *(B4, SS3/6)*  
+[[Griffon]] *(B1)*  
+[[Grizzly]] *(B1)*  
+[[Guenaude marine]] *(B1)*  
+[[Harpie]] *(B1)*  
+[[Heikegani]] *(B5)*  
+[[Homme-serpent]] *(B2, DO)*  
+[[Huldre]] *(B4)*  
+[[Hydre]] *(B1)*  
+[[Iophanite]] *(ISG)*  
+[[Jann]] *(B1)*  
+[[Kamadan]] *(B3)*  
+[[Karkadann]] *(B5)*  
+[[Karumzek]] *(ISG)*  
+[[Kasa-obake]] *(B5)*  
+[[Kelpie]] *(B2)*  
+[[Korred]] *(B2)*  
+[[Kuwa]] *(B3)*  
+[[Lampadarius]] *(ISG)*  
+[[Léchi attrape-mouche]] *(B5)*  
+[[Libellule géante]] *(B2)*  
+[[Licorne demi-céleste]] *(B1)*  
+[[Lion foo]] *(B3)*  
+[[Machiniste]] *(B5, BMI)*  
+[[Mandragore]] *(B2, RT5/6)*  
+[[Mégalocéros]] *(B2, KM1/6)*  
+[[Mimique]] *(B1)*  
+[[Minotaure]] *(B1)*  
+[[Momie des marais]] *(B5)*  
+[[Mur vivant]] *(B4)*  
+[[Mycéloïde]] *(B3)*  
+[[Nirento]] *(GDC)*  
+[[Nucol]] *(BD)*  
+[[Nuée de crabes]] *(B1)*  
+[[Nuée de mille-pattes]] *(B1)*  
+[[Nuée de sangsues]] *(B1)*  
+[[Nuée de serpents venimeux]] *(B3)*  
+[[Orsheval]] *(ISG)*  
+[[Otyugh]] *(B1)*  
+[[Ours-garou]] *(B2)*  
+[[Ours-hibou]] *(B1)*  
+[[Oursin lancier]] *(B5)*  
+[[Pachycéphalosaure]] *(B3)*  
+[[Papillon sinistre]] *(B2)*  
+[[Parasaurolophus]] *(B2)*  
+[[Pavbagha]] *(ISG)*  
+[[Péryton]] *(B2, HF1/6)*  
+[[Petit-gris]] *(B5)*  
+[[Phycomide]] *(B2)*  
+[[Pixie]] *(B1)*  
+[[Poisson diable]] *(B2, MTE1/6)*  
+[[Racine hématophage|Racine hématophage / Racine-sangsue]] *(B5, LMA)*  
+[[Reptial]] *(B5)*  
+[[Rhinocéros]] *(B1)*  
+[[Sanglier sanguinaire]] *(B1)*  
+[[Sarcovalt]] *(ISG)*  
+[[Satyre]] *(B1)*  
+[[Sculpture végétale vivante|Sculpture végétale vivante / Topiaire vivante]] *(B4, CP5/6)*  
+[[Sha]] *(B5)*  
+[[Shaé]] *(B3)*  
+[[Shobhad]] *(B4, MPML)*  
+[[Shriezyx]] *(B4)*  
+[[Soldat thriae]] *(B3)*  
+[[Solifuge albinos des cavernes]] *(B2, DO)*  
+[[Swaithe]] *(ISG)*  
+[[Tanuki]] *(B3)*  
+[[Tentamort]] *(B2)*  
+[[Thognorok]] *(ISG)*  
+[[Thyrlien]] *(ISG)*  
+[[Tigre]] *(B1)*  
+[[Tigre-garou]] *(B2)*  
+[[Tombelié]] *(B5)*  
+[[Traqueur gluant]] *(B2)*  
+[[Traqueur obscur]] *(B1)*  
+[[Traqueur sans visage]] *(B2, ESR2/6)*  
+[[Tristesource]] *(B4)*  
+[[Troll des glaces]] *(B2)*  
+[[Vase grise]] *(B1)*  
+[[Vautour géant]] *(B3)*  
+[[Vendenoptérix]] *(ISG)*  
+[[Voonith]] *(B3)*  
+[[Vulnudaémon]] *(B3)*  
+[[Wikkawak]] *(B4)*  
+[[Xocothien]] *(ISG)*  
+[[Yéti]] *(B1)*  
+[[Yhohm]] *(ISG)*  
+[[Zentragt]] *(ISG)*  
+[[Zouvembi]] *(B3)*  
 </div>
 
 
 ### 5
 <div class="article_3col">
-[[Abeille reine géante]] *(B2)*
-[[Achaïéraï]] *(B2)*
-[[Âme-en-peine]] *(B1)*
-[[Anguille des sables]] *(GK)*
-[[Araignée de phase]] *(B1)*
-[[Araignée ogre]] *(B3)*
-[[Archelon]] *(B3)*
-[[Ascomoïde]] *(B3)*
-[[Babélien]] *(B1)*
-[[Basidirond]] *(B1)*
-[[Basilic]] *(B1)*
-[[Boroboroton]] *(B5)*
-[[Bréthédien]] *(B4, MPML)*
-[[Brimorak]] *(LD)*
-[[Buggane]] *(B4)*
-[[Catrina]] *(B4)*
-[[Cécaëlia]] *(B3)*
-[[Cératosaure]] *(B5)*
-[[Chose de peaux recousues]] *(B4)*
-[[Chose très ancienne]] *(B4, CP4/6)*
-[[Chouette géante]] *(B3)*
-[[Cobra impérial]] *(B2)*
-[[Créature des cryptes]] *(B2)*
-[[Cuero]] *(B5)*
-[[Cyclope]] *(B1)*
-[[Dandasuka]] *(B3)*
-[[Deinochos]] *(BD)*
-[[Derhii]] *(B3, CPG)*
-[[Destrier noir]] *(B1)*
-[[Dévoreur daraignées|Dévoreur d'araignées]] *(B3)*
-[[Diable barbu|Diable barbu (Barbazu)]] *(B1)*
-[[Djinn]] *(B1)*
-[[Dogue dombre|Dogue d'ombre]] *(B2)*
-[[Doppledrek]] *(B5)*
-[[Dragon corde]] *(B5)*
-[[Drake de brume]] *(B4)*
-[[Drake des flammes]] *(B2, CVS)*
-[[Élémentaire daether de taille G|Élémentaire d'aether de taille G]] *(B5)*
-[[Élémentaire de lAir de taille G|Élémentaire de l'Air de taille G]] *(B1)*
-[[Élémentaire de lEau de taille G|Élémentaire de l'Eau de taille G]] *(B1)*
-[[Élémentaire de léclair de taille G|Élémentaire de l'éclair de taille G]] *(B2)*
-[[Élémentaire de la boue de taille G]] *(B2)*
-[[Élémentaire de la glace de taille G]] *(B2)*
-[[Élémentaire de Terre de taille G]] *(B1)*
-[[Élémentaire du Feu de taille G]] *(B1)*
-[[Élémentaire du magma de taille G]] *(B2)*
-[[Fachan]] *(B4)*
-[[Fléau parasitaire]] *(B5)*
-[[Fourmilion géant]] *(B3)*
-[[Gardien tombal]] *(B3)*
-[[Gelée ocre]] *(B1)*
-[[Ghul]] *(B3, GK)*
-[[Globster]] *(B3)*
-[[Golem de glace]] *(B1)*
-[[Grand insecte tueur]] *(B5)*
-[[Grodair]] *(B3, KM6/6)*
-[[Guenaude verte]] *(B1)*
-[[Habitant de la lumière]] *(B2)*
-[[Hiéracosphinx]] *(B3)*
-[[Hippocampe tueur]] *(B4)*
-[[Hippopotame]] *(B2)*
-[[Hydre gardienne divine]] *(B4)*
-[[Hypnalis]] *(B4)*
-[[Ichtyocentaure]] *(B5)*
-[[Kaprosuchus]] *(B5)*
-[[Kikimore]] *(B5)*
-[[Kodama]] *(B3)*
-[[Lampade]] *(B4)*
-[[Léchi lotus]] *(B5)*
-[[Leucrotta]] *(B2, RT5/6)*
-[[Lézard à collerette géant]] *(B1)*
-[[Lion sanguinaire]] *(B1)*
-[[Loup arctique]] *(B1)*
-[[Main rampante géante]] *(B2)*
-[[Manteleur]] *(B1)*
-[[Manticore]] *(B1)*
-[[Mécafantôme]] *(B4)*
-[[Mégathérium]] *(B2)*
-[[Mercane]] *(B2)*
-[[Momie]] *(B1)*
-[[Murène géante]] *(B1)*
-[[Nuée dindigestes|Nuée d'indigestes]] *(B5)*
-[[Nuée de fourmis soldats]] *(B1)*
-[[Nuée de vescavores]] *(B5)*
-[[Orque épaulard]] *(B1)*
-[[Ostiarius]] *(B4)*
-[[Othaos]] *(B5)*
-[[Ours polaire]] *(B5, RH1/6)*
-[[Penanggalan]] *(B3)*
-[[Père grenouille]] *(B5)*
-[[Rast]] *(B2)*
-[[Rat royal]] *(B4)*
-[[Reine taupe cérébrale]] *(B5)*
-[[Sabosan]] *(B3)*
-[[Saguaroi]] *(B4)*
-[[Selkie]] *(B4, RJ2/6)*
-[[Sirène]] *(B2, RT2/6)*
-[[Skaveling]] *(B2, DO)*
-[[Styracosaure]] *(B4)*
-[[Suppliant obscur]] *(B4)*
-[[Tizhéruk]] *(B5, LMA)*
-[[Tojanida]] *(B3, MM)*
-[[Troll]] *(B1)*
-[[Uræus]] *(B5)*
-[[Vède]] *(B5, IPHE)*
-[[Vénédaémon]] *(LD)*
-[[Vodyanoi]] *(B3)*
+[[Abeille reine géante]] *(B2)*  
+[[Achaïéraï]] *(B2)*  
+[[Âme-en-peine]] *(B1)*  
+[[Anguille des sables]] *(GK)*  
+[[Araignée de phase]] *(B1)*  
+[[Araignée ogre]] *(B3)*  
+[[Archelon]] *(B3)*  
+[[Ascomoïde]] *(B3)*  
+[[Babélien]] *(B1)*  
+[[Basidirond]] *(B1)*  
+[[Basilic]] *(B1)*  
+[[Boroboroton]] *(B5)*  
+[[Bréthédien]] *(B4, MPML)*  
+[[Brimorak]] *(LD)*  
+[[Buggane]] *(B4)*  
+[[Catrina]] *(B4)*  
+[[Cécaëlia]] *(B3)*  
+[[Cératosaure]] *(B5)*  
+[[Chose de peaux recousues]] *(B4)*  
+[[Chose très ancienne]] *(B4, CP4/6)*  
+[[Chouette géante]] *(B3)*  
+[[Cobra impérial]] *(B2)*  
+[[Créature des cryptes]] *(B2)*  
+[[Cuero]] *(B5)*  
+[[Cyclope]] *(B1)*  
+[[Dandasuka]] *(B3)*  
+[[Deinochos]] *(BD)*  
+[[Derhii]] *(B3, CPG)*  
+[[Destrier noir]] *(B1)*  
+[[Dévoreur daraignées|Dévoreur d'araignées]] *(B3)*  
+[[Diable barbu|Diable barbu (Barbazu)]] *(B1)*  
+[[Djinn]] *(B1)*  
+[[Dogue dombre|Dogue d'ombre]] *(B2)*  
+[[Doppledrek]] *(B5)*  
+[[Dragon corde]] *(B5)*  
+[[Drake de brume]] *(B4)*  
+[[Drake des flammes]] *(B2, CVS)*  
+[[Élémentaire daether de taille G|Élémentaire d'aether de taille G]] *(B5)*  
+[[Élémentaire de lAir de taille G|Élémentaire de l'Air de taille G]] *(B1)*  
+[[Élémentaire de lEau de taille G|Élémentaire de l'Eau de taille G]] *(B1)*  
+[[Élémentaire de léclair de taille G|Élémentaire de l'éclair de taille G]] *(B2)*  
+[[Élémentaire de la boue de taille G]] *(B2)*  
+[[Élémentaire de la glace de taille G]] *(B2)*  
+[[Élémentaire de Terre de taille G]] *(B1)*  
+[[Élémentaire du Feu de taille G]] *(B1)*  
+[[Élémentaire du magma de taille G]] *(B2)*  
+[[Fachan]] *(B4)*  
+[[Fléau parasitaire]] *(B5)*  
+[[Fourmilion géant]] *(B3)*  
+[[Gardien tombal]] *(B3)*  
+[[Gelée ocre]] *(B1)*  
+[[Ghul]] *(B3, GK)*  
+[[Globster]] *(B3)*  
+[[Golem de glace]] *(B1)*  
+[[Grand insecte tueur]] *(B5)*  
+[[Grodair]] *(B3, KM6/6)*  
+[[Guenaude verte]] *(B1)*  
+[[Habitant de la lumière]] *(B2)*  
+[[Hiéracosphinx]] *(B3)*  
+[[Hippocampe tueur]] *(B4)*  
+[[Hippopotame]] *(B2)*  
+[[Hydre gardienne divine]] *(B4)*  
+[[Hypnalis]] *(B4)*  
+[[Ichtyocentaure]] *(B5)*  
+[[Kaprosuchus]] *(B5)*  
+[[Kikimore]] *(B5)*  
+[[Kodama]] *(B3)*  
+[[Lampade]] *(B4)*  
+[[Léchi lotus]] *(B5)*  
+[[Leucrotta]] *(B2, RT5/6)*  
+[[Lézard à collerette géant]] *(B1)*  
+[[Lion sanguinaire]] *(B1)*  
+[[Loup arctique]] *(B1)*  
+[[Main rampante géante]] *(B2)*  
+[[Manteleur]] *(B1)*  
+[[Manticore]] *(B1)*  
+[[Mécafantôme]] *(B4)*  
+[[Mégathérium]] *(B2)*  
+[[Mercane]] *(B2)*  
+[[Momie]] *(B1)*  
+[[Murène géante]] *(B1)*  
+[[Nuée dindigestes|Nuée d'indigestes]] *(B5)*  
+[[Nuée de fourmis soldats]] *(B1)*  
+[[Nuée de vescavores]] *(B5)*  
+[[Orque épaulard]] *(B1)*  
+[[Ostiarius]] *(B4)*  
+[[Othaos]] *(B5)*  
+[[Ours polaire]] *(B5, RH1/6)*  
+[[Penanggalan]] *(B3)*  
+[[Père grenouille]] *(B5)*  
+[[Rast]] *(B2)*  
+[[Rat royal]] *(B4)*  
+[[Reine taupe cérébrale]] *(B5)*  
+[[Sabosan]] *(B3)*  
+[[Saguaroi]] *(B4)*  
+[[Selkie]] *(B4, RJ2/6)*  
+[[Sirène]] *(B2, RT2/6)*  
+[[Skaveling]] *(B2, DO)*  
+[[Styracosaure]] *(B4)*  
+[[Suppliant obscur]] *(B4)*  
+[[Tizhéruk]] *(B5, LMA)*  
+[[Tojanida]] *(B3, MM)*  
+[[Troll]] *(B1)*  
+[[Uræus]] *(B5)*  
+[[Vède]] *(B5, IPHE)*  
+[[Vénédaémon]] *(LD)*  
+[[Vodyanoi]] *(B3)*  
 </div>
 
 
 ### 6
 <div class="article_3col">
-[[Ahuizotl]] *(B3, KM4/6)*
-[[Ankylosaure]] *(B1)*
-[[Âpresoif]] *(B5, GPM)*
-[[Babau]] *(B1)*
-[[Bagiennik]] *(B5)*
-[[Berbalang]] *(B3)*
-[[Bousier géant]] *(B5)*
-[[Bralani]] *(B1)*
-[[Brume affamée]] *(B3)*
-[[Bushyasta]] *(BD)*
-[[Cerbère]] *(B3, CV4/6)*
-[[Ceustodaémon]] *(B2)*
-[[Chalicothérium]] *(B5)*
-[[Chapeau rouge]] *(B2, ESR4/6)*
-[[Cheval mécanique]] *(B4)*
-[[Choral]] *(B5)*
-[[Crapaud des glaciers]] *(B2)*
-[[Cytillipattes]] *(B5)*
-[[Dame des cygnes]] *(B4)*
-[[Danseuse thriae]] *(B5)*
-[[Delgèthe]] *(B5, LMA)*
-[[Diable de lost majeur|Diable de l'ost majeur (Magaav)]] *(B4, LD)*
-[[Drake des jungles]] *(B5)*
-[[Drake des mers]] *(B2)*
-[[Ettin]] *(B1)*
-[[Feu follet]] *(B1)*
-[[Fléau des mers]] *(GDC)*
-[[Fourmi mégapon]] *(B5)*
-[[Fourmilion adulte géant]] *(B3)*
-[[Fumigon]] *(B2)*
-[[Gale chagrine]] *(B5)*
-[[Gar géant]] *(B2)*
-[[Géant des bois]] *(B2)*
-[[Géant des grottes]] *(B3)*
-[[Géant des rivières]] *(B4)*
-[[Girallon]] *(B1)*
-[[Glyptodonte]] *(B2)*
-[[Golem de bois]] *(B1)*
-[[Golem de sang]] *(B4)*
-[[Guenaude annis]] *(B3)*
-[[Hodag]] *(B3, KM2/6)*
-[[Homme-phalène]] *(B2, RT4/6)*
-[[Iguanodon]] *(B3)*
-[[Incube]] *(B3)*
-[[Jeune dragon blanc]] *(B1)*
-[[Jeune dragon de cristal]] *(B2)*
-[[Jeune dragon des cauchemars]] *(B5)*
-[[Jeune dragon occulte]] *(B5)*
-[[Jiang-shi]] *(B3)*
-[[Karkinoï]] *(B4)*
-[[Kurobozu]] *(B5)*
-[[Kyton]] *(B1)*
-[[Lamie]] *(B1)*
-[[Larme de Nuruugal|Larme du soleil fou]] *(CPG)*
-[[Lunarme]] *(B4)*
-[[Maftet]] *(B3, RT3/6)*
-[[Manticore boréale]] *(IPHE)*
-[[Merrow deau de mer|Merrow d'eau de mer]] *(B2)*
-[[Mi-go]] *(B4, CP4/6)*
-[[Minotaure demi-fiélon]] *(B1)*
-[[Moustique géant]] *(B2)*
-[[Naga lunaire]] *(B3)*
-[[Nirento ancestral]] *(GDC)*
-[[Nuée de méduses]] *(B2)*
-[[Nuée de termites]] *(B5)*
-[[Owb]] *(B4)*
-[[Pétrole effervescent]] *(B5)*
-[[Revenant]] *(B2, ESR2/6)*
-[[Rhinocéros laineux]] *(B1)*
-[[Rhu-chalik]] *(B5)*
-[[Salamandre]] *(B1)*
-[[Seigneur de boue]] *(B4)*
-[[Seugathi]] *(B2, DO)*
-[[Soldat de terre-cuite]] *(B3)*
-[[Soldat mécanique]] *(B3)*
-[[Sorcewyrd]] *(B2, RT2/6)*
-[[Tendricule]] *(B2)*
-[[Tertre errant]] *(B1)*
-[[Tiyanak]] *(B5)*
-[[Toile mortelle]] *(B3, ESR4/6)*
-[[Troll de pierre]] *(B2)*
-[[Tulpe humain]] *(B5)*
-[[Vase démotion|Vase d'émotion]] *(B5)*
-[[Vase luxuriante]] *(B5)*
-[[Ver mortel]] *(B2)*
-[[Vouivre]] *(B1)*
-[[Vulpinal]] *(B2)*
-[[Wihsaak]] *(B5)*
-[[Xill]] *(B1)*
-[[Xorn]] *(B1)*
+[[Ahuizotl]] *(B3, KM4/6)*  
+[[Ankylosaure]] *(B1)*  
+[[Âpresoif]] *(B5, GPM)*  
+[[Babau]] *(B1)*  
+[[Bagiennik]] *(B5)*  
+[[Berbalang]] *(B3)*  
+[[Bousier géant]] *(B5)*  
+[[Bralani]] *(B1)*  
+[[Brume affamée]] *(B3)*  
+[[Bushyasta]] *(BD)*  
+[[Cerbère]] *(B3, CV4/6)*  
+[[Ceustodaémon]] *(B2)*  
+[[Chalicothérium]] *(B5)*  
+[[Chapeau rouge]] *(B2, ESR4/6)*  
+[[Cheval mécanique]] *(B4)*  
+[[Choral]] *(B5)*  
+[[Crapaud des glaciers]] *(B2)*  
+[[Cytillipattes]] *(B5)*  
+[[Dame des cygnes]] *(B4)*  
+[[Danseuse thriae]] *(B5)*  
+[[Delgèthe]] *(B5, LMA)*  
+[[Diable de lost majeur|Diable de l'ost majeur (Magaav)]] *(B4, LD)*  
+[[Drake des jungles]] *(B5)*  
+[[Drake des mers]] *(B2)*  
+[[Ettin]] *(B1)*  
+[[Feu follet]] *(B1)*  
+[[Fléau des mers]] *(GDC)*  
+[[Fourmi mégapon]] *(B5)*  
+[[Fourmilion adulte géant]] *(B3)*  
+[[Fumigon]] *(B2)*  
+[[Gale chagrine]] *(B5)*  
+[[Gar géant]] *(B2)*  
+[[Géant des bois]] *(B2)*  
+[[Géant des grottes]] *(B3)*  
+[[Géant des rivières]] *(B4)*  
+[[Girallon]] *(B1)*  
+[[Glyptodonte]] *(B2)*  
+[[Golem de bois]] *(B1)*  
+[[Golem de sang]] *(B4)*  
+[[Guenaude annis]] *(B3)*  
+[[Hodag]] *(B3, KM2/6)*  
+[[Homme-phalène]] *(B2, RT4/6)*  
+[[Iguanodon]] *(B3)*  
+[[Incube]] *(B3)*  
+[[Jeune dragon blanc]] *(B1)*  
+[[Jeune dragon de cristal]] *(B2)*  
+[[Jeune dragon des cauchemars]] *(B5)*  
+[[Jeune dragon occulte]] *(B5)*  
+[[Jiang-shi]] *(B3)*  
+[[Karkinoï]] *(B4)*  
+[[Kurobozu]] *(B5)*  
+[[Kyton]] *(B1)*  
+[[Lamie]] *(B1)*  
+[[Larme de Nuruugal|Larme du soleil fou]] *(CPG)*  
+[[Lunarme]] *(B4)*  
+[[Maftet]] *(B3, RT3/6)*  
+[[Manticore boréale]] *(IPHE)*  
+[[Merrow deau de mer|Merrow d'eau de mer]] *(B2)*  
+[[Mi-go]] *(B4, CP4/6)*  
+[[Minotaure demi-fiélon]] *(B1)*  
+[[Moustique géant]] *(B2)*  
+[[Naga lunaire]] *(B3)*  
+[[Nirento ancestral]] *(GDC)*  
+[[Nuée de méduses]] *(B2)*  
+[[Nuée de termites]] *(B5)*  
+[[Owb]] *(B4)*  
+[[Pétrole effervescent]] *(B5)*  
+[[Revenant]] *(B2, ESR2/6)*  
+[[Rhinocéros laineux]] *(B1)*  
+[[Rhu-chalik]] *(B5)*  
+[[Salamandre]] *(B1)*  
+[[Seigneur de boue]] *(B4)*  
+[[Seugathi]] *(B2, DO)*  
+[[Soldat de terre-cuite]] *(B3)*  
+[[Soldat mécanique]] *(B3)*  
+[[Sorcewyrd]] *(B2, RT2/6)*  
+[[Tendricule]] *(B2)*  
+[[Tertre errant]] *(B1)*  
+[[Tiyanak]] *(B5)*  
+[[Toile mortelle]] *(B3, ESR4/6)*  
+[[Troll de pierre]] *(B2)*  
+[[Tulpe humain]] *(B5)*  
+[[Vase démotion|Vase d'émotion]] *(B5)*  
+[[Vase luxuriante]] *(B5)*  
+[[Ver mortel]] *(B2)*  
+[[Vouivre]] *(B1)*  
+[[Vulpinal]] *(B2)*  
+[[Wihsaak]] *(B5)*  
+[[Xill]] *(B1)*  
+[[Xorn]] *(B1)*  
 </div>
 
 
 ### 7
 <div class="article_3col">
-[[Aathérièxa]] *(B5)*
-[[Aboleth]] *(B1)*
-[[Adhukaït]] *(B3, CV4/6)*
-[[Allosaure]] *(B2)*
-[[Arbre à pendus]] *(B2)*
-[[Archon légionnaire]] *(B3)*
-[[Arsinoithérium]] *(B2)*
-[[Barghest noble]] *(B1)*
-[[Bête du Chaos]] *(B2)*
-[[Bulette]] *(B1)*
-[[Capitaine fantôme]] *(GDC)*
-[[Capramace]] *(B5, GFR)*
-[[Caulborne]] *(B3)*
-[[Cérynitis]] *(B5)*
-[[Charda]] *(B2, RT6/6)*
-[[Chat infernal]] *(B2)*
-[[Chien de Tindalos]] *(B2, ESR4/6)*
-[[Chimère]] *(B1)*
-[[Chuul]] *(B1)*
-[[Contremaître formien]] *(B4)*
-[[Crabe mangeur de requins]] *(B3)*
-[[Criosphinx]] *(B3)*
-[[Démon des ombres]] *(B1)*
-[[Dévoreur dâmes|Dévoreur d'âmes]] *(B2)*
-[[Diable belliciste|Diable belliciste (Lévaloch)]] *(B5, LD)*
-[[Dracolisque]] *(B1)*
-[[Dragonne]] *(B2)*
-[[Drake des tertres]] *(B4)*
-[[Drake du froid]] *(B2)*
-[[Drider]] *(B1)*
-[[Dullahan]] *(B2)*
-[[Duppy]] *(B5, GDC)*
-[[Élasmosaure]] *(B1)*
-[[Élémentaire daether de taille TG|Élémentaire d'aether de taille TG]] *(B5)*
-[[Élémentaire de lAir de taille TG|Élémentaire de l'Air de taille TG]] *(B1)*
-[[Élémentaire de lEau de taille TG|Élémentaire de l'Eau de taille TG]] *(B1)*
-[[Élémentaire de léclair de taille TG|Élémentaire de l'éclair de taille TG]] *(B2)*
-[[Élémentaire de la boue de taille TG]] *(B2)*
-[[Élémentaire de la glace de taille TG]] *(B2)*
-[[Élémentaire de Terre de taille TG]] *(B1)*
-[[Élémentaire du Feu dombrefeu|Élémentaire du Feu d'ombrefeu]] *(B5, TE)*
-[[Élémentaire du Feu de taille TG]] *(B1)*
-[[Élémentaire du magma de taille TG]] *(B2)*
-[[Éléphant]] *(B1)*
-[[Fantôme humain]] *(B1)*
-[[Gaki]] *(B4)*
-[[Géant des collines]] *(B1)*
-[[Géant des scories]] *(B4)*
-[[Golem de chair]] *(B1)*
-[[Guenaude annis boréale]] *(IPHE)*
-[[Guenaude arctique]] *(B4)*
-[[Guenaude des tempêtes]] *(B5, RH6/6)*
-[[Guêpe belliciste]] *(GPM, B5)*
-[[Halsora]] *(B4)*
-[[Harceleur caustique]] *(B5, TE)*
-[[Jeune dragon chtonien]] *(B3)*
-[[Jeune dragon dairain|Jeune dragon d'airain]] *(B1)*
-[[Jeune dragon de saumure]] *(B2)*
-[[Jeune dragon éthéré]] *(B5)*
-[[Jeune dragon noir]] *(B1)*
-[[Kirin]] *(B3)*
-[[Lillende]] *(B1)*
-[[Manananggal]] *(B3)*
-[[Méduse]] *(B1)*
-[[Méduse géante]] *(B2)*
-[[Mégalania]] *(B3)*
-[[Mngwa]] *(B5)*
-[[Naga aquatique]] *(B3)*
-[[Naunet]] *(B2, HF4/6)*
-[[Nuée dasticots|Nuée d'asticots]] *(B3, CV1/6)*
-[[Nymphe]] *(B1)*
-[[Océanide]] *(B4)*
-[[Orque mutant]] *(B5)*
-[[Ours sanguinaire]] *(B1)*
-[[Païraka]] *(B3, HF2/6)*
-[[Pantin des âmes]] *(B4)*
-[[Pouding noir]] *(B1)*
-[[Psychépore]] *(B5)*
-[[Pukwudgie]] *(B3)*
-[[Qallupilluk]] *(B4, RJ, 3/6)*
-[[Rémorhaz]] *(B1)*
-[[Sangoï]] *(B5, RH3/6)*
-[[Scéaduinar]] *(B2)*
-[[Sepsidaémon]] *(BD)*
-[[Serpent deau géant|Serpent d'eau géant]] *(GDC)*
-[[Shaitan]] *(B1, RT6/6)*
-[[Shoggti]] *(B2)*
-[[Spectre]] *(B1)*
-[[Stégosaure]] *(B1)*
-[[Succube]] *(B1)*
-[[Suspiridaémon]] *(LD)*
-[[Terraformeur]] *(B5)*
-[[Thélétos]] *(B2)*
-[[Totenmaske]] *(B2, ESR3/6)*
-[[Traqueur invisible]] *(B1)*
-[[Traqueur-du-dessus]] *(B4, MM)*
-[[Tupilaq]] *(B3)*
-[[Uintathérium]] *(B5)*
-[[Vanth]] *(B4, CP5/6)*
-[[Vase cérébrale]] *(B3)*
-[[Vase de magma]] *(B2)*
-[[Veela de lair|Veela de l'air]] *(B5)*
-[[Veela de leau|Veela de l'eau]] *(B5)*
-[[Veela de la terre]] *(B5)*
-[[Veela du feu]] *(B5)*
-[[Xénoptéride]] *(B4)*
-[[Yaoguai]] *(B4)*
+[[Aathérièxa]] *(B5)*  
+[[Aboleth]] *(B1)*  
+[[Adhukaït]] *(B3, CV4/6)*  
+[[Allosaure]] *(B2)*  
+[[Arbre à pendus]] *(B2)*  
+[[Archon légionnaire]] *(B3)*  
+[[Arsinoithérium]] *(B2)*  
+[[Barghest noble]] *(B1)*  
+[[Bête du Chaos]] *(B2)*  
+[[Bulette]] *(B1)*  
+[[Capitaine fantôme]] *(GDC)*  
+[[Capramace]] *(B5, GFR)*  
+[[Caulborne]] *(B3)*  
+[[Cérynitis]] *(B5)*  
+[[Charda]] *(B2, RT6/6)*  
+[[Chat infernal]] *(B2)*  
+[[Chien de Tindalos]] *(B2, ESR4/6)*  
+[[Chimère]] *(B1)*  
+[[Chuul]] *(B1)*  
+[[Contremaître formien]] *(B4)*  
+[[Crabe mangeur de requins]] *(B3)*  
+[[Criosphinx]] *(B3)*  
+[[Démon des ombres]] *(B1)*  
+[[Dévoreur dâmes|Dévoreur d'âmes]] *(B2)*  
+[[Diable belliciste|Diable belliciste (Lévaloch)]] *(B5, LD)*  
+[[Dracolisque]] *(B1)*  
+[[Dragonne]] *(B2)*  
+[[Drake des tertres]] *(B4)*  
+[[Drake du froid]] *(B2)*  
+[[Drider]] *(B1)*  
+[[Dullahan]] *(B2)*  
+[[Duppy]] *(B5, GDC)*  
+[[Élasmosaure]] *(B1)*  
+[[Élémentaire daether de taille TG|Élémentaire d'aether de taille TG]] *(B5)*  
+[[Élémentaire de lAir de taille TG|Élémentaire de l'Air de taille TG]] *(B1)*  
+[[Élémentaire de lEau de taille TG|Élémentaire de l'Eau de taille TG]] *(B1)*  
+[[Élémentaire de léclair de taille TG|Élémentaire de l'éclair de taille TG]] *(B2)*  
+[[Élémentaire de la boue de taille TG]] *(B2)*  
+[[Élémentaire de la glace de taille TG]] *(B2)*  
+[[Élémentaire de Terre de taille TG]] *(B1)*  
+[[Élémentaire du Feu dombrefeu|Élémentaire du Feu d'ombrefeu]] *(B5, TE)*  
+[[Élémentaire du Feu de taille TG]] *(B1)*  
+[[Élémentaire du magma de taille TG]] *(B2)*  
+[[Éléphant]] *(B1)*  
+[[Fantôme humain]] *(B1)*  
+[[Gaki]] *(B4)*  
+[[Géant des collines]] *(B1)*  
+[[Géant des scories]] *(B4)*  
+[[Golem de chair]] *(B1)*  
+[[Guenaude annis boréale]] *(IPHE)*  
+[[Guenaude arctique]] *(B4)*  
+[[Guenaude des tempêtes]] *(B5, RH6/6)*  
+[[Guêpe belliciste]] *(GPM, B5)*  
+[[Halsora]] *(B4)*  
+[[Harceleur caustique]] *(B5, TE)*  
+[[Jeune dragon chtonien]] *(B3)*  
+[[Jeune dragon dairain|Jeune dragon d'airain]] *(B1)*  
+[[Jeune dragon de saumure]] *(B2)*  
+[[Jeune dragon éthéré]] *(B5)*  
+[[Jeune dragon noir]] *(B1)*  
+[[Kirin]] *(B3)*  
+[[Lillende]] *(B1)*  
+[[Manananggal]] *(B3)*  
+[[Méduse]] *(B1)*  
+[[Méduse géante]] *(B2)*  
+[[Mégalania]] *(B3)*  
+[[Mngwa]] *(B5)*  
+[[Naga aquatique]] *(B3)*  
+[[Naunet]] *(B2, HF4/6)*  
+[[Nuée dasticots|Nuée d'asticots]] *(B3, CV1/6)*  
+[[Nymphe]] *(B1)*  
+[[Océanide]] *(B4)*  
+[[Orque mutant]] *(B5)*  
+[[Ours sanguinaire]] *(B1)*  
+[[Païraka]] *(B3, HF2/6)*  
+[[Pantin des âmes]] *(B4)*  
+[[Pouding noir]] *(B1)*  
+[[Psychépore]] *(B5)*  
+[[Pukwudgie]] *(B3)*  
+[[Qallupilluk]] *(B4, RJ, 3/6)*  
+[[Rémorhaz]] *(B1)*  
+[[Sangoï]] *(B5, RH3/6)*  
+[[Scéaduinar]] *(B2)*  
+[[Sepsidaémon]] *(BD)*  
+[[Serpent deau géant|Serpent d'eau géant]] *(GDC)*  
+[[Shaitan]] *(B1, RT6/6)*  
+[[Shoggti]] *(B2)*  
+[[Spectre]] *(B1)*  
+[[Stégosaure]] *(B1)*  
+[[Succube]] *(B1)*  
+[[Suspiridaémon]] *(LD)*  
+[[Terraformeur]] *(B5)*  
+[[Thélétos]] *(B2)*  
+[[Totenmaske]] *(B2, ESR3/6)*  
+[[Traqueur invisible]] *(B1)*  
+[[Traqueur-du-dessus]] *(B4, MM)*  
+[[Tupilaq]] *(B3)*  
+[[Uintathérium]] *(B5)*  
+[[Vanth]] *(B4, CP5/6)*  
+[[Vase cérébrale]] *(B3)*  
+[[Vase de magma]] *(B2)*  
+[[Veela de lair|Veela de l'air]] *(B5)*  
+[[Veela de leau|Veela de l'eau]] *(B5)*  
+[[Veela de la terre]] *(B5)*  
+[[Veela du feu]] *(B5)*  
+[[Xénoptéride]] *(B4)*  
+[[Yaoguai]] *(B4)*  
 </div>
 
 
 ### 8
 <div class="article_3col">
-[[Axiomite]] *(B2)*
-[[Baku]] *(B3)*
-[[Balisse]] *(B5)*
-[[Baluchithérium]] *(B3)*
-[[Béhir]] *(B1)*
-[[Bodak]] *(B2)*
-[[Boisvivant]] *(B2)*
-[[Capitaine de la garde rejeton de la cosse]] *(B4)*
-[[Cavalier glacé]] *(B3)*
-[[Céphalophore]] *(B4)*
-[[Coléoptère goliath]] *(B2)*
-[[Collecteur dombres|Collecteur d'ombres]] *(B5)*
-[[Destrachan]] *(B2)*
-[[Diable de Pointesable|Destrier diabolique]] *(CCMI, ESR1/6)*
-[[Dévoreur dintellect|Dévoreur d'intellect]] *(B1, DO)*
-[[Diable de la noyade|Diable de la noyade (Sarglagon)]] *(B4, SS6/6)*
-[[Distordu]] *(GPM)*
-[[Drake du désert]] *(B3)*
-[[Efrit]] *(B1)*
-[[Eidolon libéré]] *(B3)*
-[[Encantado]] *(B5)*
-[[Érinye]] *(B1)*
-[[Esprit purulent]] *(B4)*
-[[Essaim de guêpes de lEnfer|Essaim de guêpes de l'Enfer]] *(B3)*
-[[Filles dUrgathoa|Filles de la Maladie]] *(CCMI, MTE2/6)*
-[[Fleur de lune]] *(B2, RT2/6)*
-[[Géant de pierre]] *(B1)*
-[[Géant des marais]] *(B2, ESR5/6)*
-[[Girtablilu]] *(B3)*
-[[Golem dos|Golem d'os]] *(B3)*
-[[Golem de verre]] *(B2)*
-[[Gorgone]] *(B1)*
-[[Guécube]] *(B3)*
-[[Guenaude de sang]] *(B4)*
-[[Gynosphinx]] *(B1)*
-[[Habitant de Leng]] *(B2, ESR6/6)*
-[[Hutte sentinelle]] *(IPHE)*
-[[Hydrodaémon]] *(B2)*
-[[Iku-turso]] *(B3)*
-[[Jeune dragon de cuivre]] *(B1)*
-[[Jeune dragon de magma]] *(B2)*
-[[Jeune dragon des mers]] *(B3)*
-[[Jeune dragon vert]] *(B1)*
-[[Lamie matriarche]] *(B2, B4, ESR2/6)*
-[[Lammasu]] *(B3)*
-[[Limace géante]] *(B1)*
-[[Maénade]] *(B4)*
-[[Maraï]] *(B3)*
-[[Mégaprimate]] *(B5)*
-[[Mihstu]] *(B2)*
-[[Mohrg]] *(B1)*
-[[Morse empereur]] *(B4)*
-[[Nabasu]] *(B1)*
-[[Naga ténébreux]] *(B1)*
-[[Najikai]] *(BD)*
-[[Neh-thalggu]] *(B2)*
-[[Néphilim]] *(B3, HF5/6)*
-[[Nymphe fongique]] *(B4)*
-[[Ogre mage]] *(B1)*
-[[Ombre supérieure]] *(B1)*
-[[Ours polaire sanguinaire]] *(B5)*
-[[Piégeuse]] *(B4, MM)*
-[[Pieuvre géante]] *(B1)*
-[[Pipeau]] *(B3, MM)*
-[[Polong]] *(B5)*
-[[Psychémentaire]] *(B5)*
-[[Ravageur gris]] *(B2)*
-[[Rêve animé]] *(B2)*
-[[Scories déclats métalliques|Scories d'éclats métalliques]] *(B4)*
-[[Scorpion piégeur]] *(B3)*
-[[Shantak]] *(B2)*
-[[Soucouyante]] *(GDC)*
-[[Stymphalide]] *(B3, CV2/6)*
-[[Su]] *(B5)*
-[[Svartalfar]] *(B4)*
-[[Sylvanien]] *(B1)*
-[[Tarentule géante]] *(B2)*
-[[Tigre sanguinaire|Tigre sanguinaire (Smilodon)]] *(B1)*
-[[Tortue immense]] *(B4)*
-[[Tricératops]] *(B1)*
-[[Tylosaure]] *(B2)*
-[[Urannagal]] *(B5, GPM)*
-[[Vase coupe-gorge]] *(B3)*
-[[Ver ténébreux]] *(B2)*
-[[Vouivre dAashaq|Vouivre de l'Annihilatrice]] *(GDC)*
-[[Yuki-onna]] *(B3)*
+[[Axiomite]] *(B2)*  
+[[Baku]] *(B3)*  
+[[Balisse]] *(B5)*  
+[[Baluchithérium]] *(B3)*  
+[[Béhir]] *(B1)*  
+[[Bodak]] *(B2)*  
+[[Boisvivant]] *(B2)*  
+[[Capitaine de la garde rejeton de la cosse]] *(B4)*  
+[[Cavalier glacé]] *(B3)*  
+[[Céphalophore]] *(B4)*  
+[[Coléoptère goliath]] *(B2)*  
+[[Collecteur dombres|Collecteur d'ombres]] *(B5)*  
+[[Destrachan]] *(B2)*  
+[[Diable de Pointesable|Destrier diabolique]] *(CCMI, ESR1/6)*  
+[[Dévoreur dintellect|Dévoreur d'intellect]] *(B1, DO)*  
+[[Diable de la noyade|Diable de la noyade (Sarglagon)]] *(B4, SS6/6)*  
+[[Distordu]] *(GPM)*  
+[[Drake du désert]] *(B3)*  
+[[Efrit]] *(B1)*  
+[[Eidolon libéré]] *(B3)*  
+[[Encantado]] *(B5)*  
+[[Érinye]] *(B1)*  
+[[Esprit purulent]] *(B4)*  
+[[Essaim de guêpes de lEnfer|Essaim de guêpes de l'Enfer]] *(B3)*  
+[[Filles dUrgathoa|Filles de la Maladie]] *(CCMI, MTE2/6)*  
+[[Fleur de lune]] *(B2, RT2/6)*  
+[[Géant de pierre]] *(B1)*  
+[[Géant des marais]] *(B2, ESR5/6)*  
+[[Girtablilu]] *(B3)*  
+[[Golem dos|Golem d'os]] *(B3)*  
+[[Golem de verre]] *(B2)*  
+[[Gorgone]] *(B1)*  
+[[Guécube]] *(B3)*  
+[[Guenaude de sang]] *(B4)*  
+[[Gynosphinx]] *(B1)*  
+[[Habitant de Leng]] *(B2, ESR6/6)*  
+[[Hutte sentinelle]] *(IPHE)*  
+[[Hydrodaémon]] *(B2)*  
+[[Iku-turso]] *(B3)*  
+[[Jeune dragon de cuivre]] *(B1)*  
+[[Jeune dragon de magma]] *(B2)*  
+[[Jeune dragon des mers]] *(B3)*  
+[[Jeune dragon vert]] *(B1)*  
+[[Lamie matriarche]] *(B2, B4, ESR2/6)*  
+[[Lammasu]] *(B3)*  
+[[Limace géante]] *(B1)*  
+[[Maénade]] *(B4)*  
+[[Maraï]] *(B3)*  
+[[Mégaprimate]] *(B5)*  
+[[Mihstu]] *(B2)*  
+[[Mohrg]] *(B1)*  
+[[Morse empereur]] *(B4)*  
+[[Nabasu]] *(B1)*  
+[[Naga ténébreux]] *(B1)*  
+[[Najikai]] *(BD)*  
+[[Neh-thalggu]] *(B2)*  
+[[Néphilim]] *(B3, HF5/6)*  
+[[Nymphe fongique]] *(B4)*  
+[[Ogre mage]] *(B1)*  
+[[Ombre supérieure]] *(B1)*  
+[[Ours polaire sanguinaire]] *(B5)*  
+[[Piégeuse]] *(B4, MM)*  
+[[Pieuvre géante]] *(B1)*  
+[[Pipeau]] *(B3, MM)*  
+[[Polong]] *(B5)*  
+[[Psychémentaire]] *(B5)*  
+[[Ravageur gris]] *(B2)*  
+[[Rêve animé]] *(B2)*  
+[[Scories déclats métalliques|Scories d'éclats métalliques]] *(B4)*  
+[[Scorpion piégeur]] *(B3)*  
+[[Shantak]] *(B2)*  
+[[Soucouyante]] *(GDC)*  
+[[Stymphalide]] *(B3, CV2/6)*  
+[[Su]] *(B5)*  
+[[Svartalfar]] *(B4)*  
+[[Sylvanien]] *(B1)*  
+[[Tarentule géante]] *(B2)*  
+[[Tigre sanguinaire|Tigre sanguinaire (Smilodon)]] *(B1)*  
+[[Tortue immense]] *(B4)*  
+[[Tricératops]] *(B1)*  
+[[Tylosaure]] *(B2)*  
+[[Urannagal]] *(B5, GPM)*  
+[[Vase coupe-gorge]] *(B3)*  
+[[Ver ténébreux]] *(B2)*  
+[[Vouivre dAashaq|Vouivre de l'Annihilatrice]] *(GDC)*  
+[[Yuki-onna]] *(B3)*  
 </div>
 
 
 ### 9
 <div class="article_3col">
-[[Ahool]] *(B5)*
-[[Androsphinx]] *(B3)*
-[[Aurumvorax]] *(B2)*
-[[Avoral]] *(B2)*
-[[Baykok]] *(B3)*
-[[Bisha ga tsuku]] *(B5)*
-[[Calmar géant]] *(B1)*
-[[Cheval draconique]] *(B2)*
-[[Chien lunaire]] *(B5)*
-[[Crevette-mante géante]] *(B5)*
-[[Crocodile sanguinaire]] *(B1)*
-[[Cyclope kabandha]] *(B5)*
-[[Diable osseux|Diable osseux (Osyluth)]] *(B1)*
-[[Draconien]] *(B5, MPML)*
-[[Dragon-tortue]] *(B1)*
-[[Drake de lave]] *(B4)*
-[[Drake des crevasses]] *(B3)*
-[[Élémentaire daether noble|Élémentaire d'aether noble]] *(B5)*
-[[Élémentaire de lAir noble|Élémentaire de l'Air noble]] *(B1)*
-[[Élémentaire de lEau noble|Élémentaire de l'Eau noble]] *(B1)*
-[[Élémentaire de léclair noble|Élémentaire de l'éclair noble]] *(B2)*
-[[Élémentaire de la boue noble]] *(B2)*
-[[Élémentaire de la glace noble]] *(B2)*
-[[Élémentaire de Terre noble]] *(B1)*
-[[Élémentaire du Feu noble]] *(B1)*
-[[Élémentaire du magma noble]] *(B2)*
-[[Fiélon sargasse]] *(B3)*
-[[Galvo]] *(B4, SS5/6)*
-[[Garuda]] *(B3)*
-[[Géant des falaises]] *(B4)*
-[[Géant du désert]] *(B3)*
-[[Géant du froid]] *(B1)*
-[[Geist]] *(B4)*
-[[Golem alchimique]] *(B2)*
-[[Golem de corail]] *(B4, GDC)*
-[[Guenaude noire]] *(B1)*
-[[Gynosphinx momifié]] *(B4)*
-[[Ijiraq]] *(B4)*
-[[Irnakurse]] *(B4, RT4/6)*
-[[Jeune dragon astral]] *(B5)*
-[[Jeune dragon bleu]] *(B1)*
-[[Jeune dragon de bronze]] *(B1)*
-[[Jeune dragon des nuages]] *(B2)*
-[[Jeune dragon du ciel]] *(B3)*
-[[Jeune dragon du néant]] *(B4)*
-[[Jeune dragon lunaire]] *(B4)*
-[[Jeune dragon solaire]] *(B4)*
-[[Jyoti]] *(B2)*
-[[Kithangien]] *(GPM)*
-[[Leukodaémon]] *(B2, MTE2/6)*
-[[Lillende à lâme brisée|Lillende à l'âme brisée]] *(B4)*
-[[Mage mécanique]] *(B4)*
-[[Marid]] *(B1)*
-[[Mastodonte]] *(B1)*
-[[Mille-pattes titanesque]] *(B2)*
-[[Mirage vivant]] *(B5)*
-[[Molosse nessien]] *(B1)*
-[[Naga corrupteur]] *(B1)*
-[[Népendis]] *(B4)*
-[[Nuckelavee]] *(B3, KM4/6)*
-[[Nuée de tiques]] *(B2)*
-[[Obscurité du désespoir]] *(B5)*
-[[Pakalchi]] *(B5)*
-[[Reine vescavore]] *(B5, CJ2/6)*
-[[Requin sanguinaire]] *(B1)*
-[[Roc]] *(B1)*
-[[Roseau étrangleur]] *(B5)*
-[[Sanguidaémon]] *(LD)*
-[[Scorpion piégeur démoniaque]] *(GPM)*
-[[Shedu]] *(B3)*
-[[Sorcière de feu]] *(B2, ESR5/6)*
-[[Tikbalang]] *(B4)*
-[[Tortue happante géante]] *(B2)*
-[[Tyrannosaure]] *(B1)*
-[[Upasunda]] *(B3)*
-[[Vahana makara]] *(B5)*
-[[Vampire]] *(B1)*
-[[Vrock]] *(B1)*
-[[Yangèthe]] *(B5, ID)*
-[[Yithien]] *(B3)*
-[[Yrthak]] *(B2)*
-[[Zélékhut]] *(B2)*
+[[Ahool]] *(B5)*  
+[[Androsphinx]] *(B3)*  
+[[Aurumvorax]] *(B2)*  
+[[Avoral]] *(B2)*  
+[[Baykok]] *(B3)*  
+[[Bisha ga tsuku]] *(B5)*  
+[[Calmar géant]] *(B1)*  
+[[Cheval draconique]] *(B2)*  
+[[Chien lunaire]] *(B5)*  
+[[Crevette-mante géante]] *(B5)*  
+[[Crocodile sanguinaire]] *(B1)*  
+[[Cyclope kabandha]] *(B5)*  
+[[Diable osseux|Diable osseux (Osyluth)]] *(B1)*  
+[[Draconien]] *(B5, MPML)*  
+[[Dragon-tortue]] *(B1)*  
+[[Drake de lave]] *(B4)*  
+[[Drake des crevasses]] *(B3)*  
+[[Élémentaire daether noble|Élémentaire d'aether noble]] *(B5)*  
+[[Élémentaire de lAir noble|Élémentaire de l'Air noble]] *(B1)*  
+[[Élémentaire de lEau noble|Élémentaire de l'Eau noble]] *(B1)*  
+[[Élémentaire de léclair noble|Élémentaire de l'éclair noble]] *(B2)*  
+[[Élémentaire de la boue noble]] *(B2)*  
+[[Élémentaire de la glace noble]] *(B2)*  
+[[Élémentaire de Terre noble]] *(B1)*  
+[[Élémentaire du Feu noble]] *(B1)*  
+[[Élémentaire du magma noble]] *(B2)*  
+[[Fiélon sargasse]] *(B3)*  
+[[Galvo]] *(B4, SS5/6)*  
+[[Garuda]] *(B3)*  
+[[Géant des falaises]] *(B4)*  
+[[Géant du désert]] *(B3)*  
+[[Géant du froid]] *(B1)*  
+[[Geist]] *(B4)*  
+[[Golem alchimique]] *(B2)*  
+[[Golem de corail]] *(B4, GDC)*  
+[[Guenaude noire]] *(B1)*  
+[[Gynosphinx momifié]] *(B4)*  
+[[Ijiraq]] *(B4)*  
+[[Irnakurse]] *(B4, RT4/6)*  
+[[Jeune dragon astral]] *(B5)*  
+[[Jeune dragon bleu]] *(B1)*  
+[[Jeune dragon de bronze]] *(B1)*  
+[[Jeune dragon des nuages]] *(B2)*  
+[[Jeune dragon du ciel]] *(B3)*  
+[[Jeune dragon du néant]] *(B4)*  
+[[Jeune dragon lunaire]] *(B4)*  
+[[Jeune dragon solaire]] *(B4)*  
+[[Jyoti]] *(B2)*  
+[[Kithangien]] *(GPM)*  
+[[Leukodaémon]] *(B2, MTE2/6)*  
+[[Lillende à lâme brisée|Lillende à l'âme brisée]] *(B4)*  
+[[Mage mécanique]] *(B4)*  
+[[Marid]] *(B1)*  
+[[Mastodonte]] *(B1)*  
+[[Mille-pattes titanesque]] *(B2)*  
+[[Mirage vivant]] *(B5)*  
+[[Molosse nessien]] *(B1)*  
+[[Naga corrupteur]] *(B1)*  
+[[Népendis]] *(B4)*  
+[[Nuckelavee]] *(B3, KM4/6)*  
+[[Nuée de tiques]] *(B2)*  
+[[Obscurité du désespoir]] *(B5)*  
+[[Pakalchi]] *(B5)*  
+[[Reine vescavore]] *(B5, CJ2/6)*  
+[[Requin sanguinaire]] *(B1)*  
+[[Roc]] *(B1)*  
+[[Roseau étrangleur]] *(B5)*  
+[[Sanguidaémon]] *(LD)*  
+[[Scorpion piégeur démoniaque]] *(GPM)*  
+[[Shedu]] *(B3)*  
+[[Sorcière de feu]] *(B2, ESR5/6)*  
+[[Tikbalang]] *(B4)*  
+[[Tortue happante géante]] *(B2)*  
+[[Tyrannosaure]] *(B1)*  
+[[Upasunda]] *(B3)*  
+[[Vahana makara]] *(B5)*  
+[[Vampire]] *(B1)*  
+[[Vrock]] *(B1)*  
+[[Yangèthe]] *(B5, ID)*  
+[[Yithien]] *(B3)*  
+[[Yrthak]] *(B2)*  
+[[Zélékhut]] *(B2)*  
 </div>
 
 
 ### 10
 <div class="article_3col">
-[[Abaia]] *(B4)*
-[[Adlet]] *(B3)*
-[[Aluum]] *(B5, GK, MI)*
-[[Anaconda géant]] *(B2)*
-[[Archon bouclier]] *(B2)*
-[[Attrape-mouches géant]] *(B1)*
-[[Baleine]] *(B2)*
-[[Bébilith]] *(B1)*
-[[Brachiosaure]] *(B1)*
-[[Brume des tranchées]] *(B5, RH5/6)*
-[[Couatl]] *(B1)*
-[[Couleur tombée du ciel]] *(B4, CP4/6)*
-[[Croquemitaine]] *(B3)*
-[[Dérakni]] *(GPM)*
-[[Déva movanique]] *(B2)*
-[[Diable des contrats|Diable des contrats (Phistophilius)]] *(B3, MTE6/6)*
-[[Dragon blanc adulte]] *(B1)*
-[[Dragon de cristal adulte]] *(B2)*
-[[Dragon des cauchemars adulte]] *(B5)*
-[[Dragon occulte adulte]] *(B5)*
-[[Drake de léther|Drake de l'éther]] *(B5)*
-[[Égrégore]] *(B5)*
-[[Einherji]] *(B4)*
-[[Étranger blafard]] *(B3)*
-[[Fext]] *(B5, RH5/6)*
-[[Géant de la jungle]] *(B3)*
-[[Géant du feu]] *(B1)*
-[[Ghawwas]] *(B3, HF4/6)*
-[[Gholdako]] *(B4, GDC)*
-[[Ghonhatine]] *(B4, RT4/6)*
-[[Golem dargile|Golem d'argile]] *(B1)*
-[[Golem de plomb]] *(B5)*
-[[Goule de Leng]] *(B5)*
-[[Gug]] *(B2, MTE5/6)*
-[[Hippopotame béhémoth]] *(B2)*
-[[Imentesh]] *(B2, HF4/6)*
-[[Jeune dragon dargent|Jeune dragon d'argent]] *(B1)*
-[[Jeune dragon des forêts]] *(B3)*
-[[Jeune dragon des rêves]] *(B5)*
-[[Jeune dragon du vortex]] *(B4)*
-[[Jeune dragon rouge]] *(B1)*
-[[Jeune dragon umbral]] *(B2)*
-[[Kalavakus]] *(B2)*
-[[Kapré]] *(B4, SS4/6)*
-[[Mobogo]] *(B3, MTE6/6)*
-[[Myrmarque formien]] *(B4)*
-[[Naga gardien]] *(B1)*
-[[Néréide]] *(B2)*
-[[Nosferatu]] *(B4)*
-[[Nue]] *(B3)*
-[[Nyogoth]] *(B2)*
-[[Orm aquatique]] *(B2)*
-[[Pélude]] *(B4, KM3/6)*
-[[Peuchen]] *(B5)*
-[[Piscodaémon]] *(B2)*
-[[Raélis]] *(B5)*
-[[Rakshasa]] *(B1)*
-[[Rejeton de Yog-Sothoth]] *(B4)*
-[[Roi maudit]] *(B5)*
-[[Rukh]] *(B4, HF3/6)*
-[[Sacristain]] *(B4)*
-[[Seigneur momie humain]] *(B5)*
-[[Siyokoy]] *(B3)*
-[[Thérizinosaure]] *(B5)*
-[[Tibérolithe]] *(B4, SS2/6)*
-[[Tophet]] *(B3, HF3/6)*
-[[Ursikke]] *(B5, RH4/6)*
-[[Zuishin]] *(B3)*
+[[Abaia]] *(B4)*  
+[[Adlet]] *(B3)*  
+[[Aluum]] *(B5, GK, MI)*  
+[[Anaconda géant]] *(B2)*  
+[[Archon bouclier]] *(B2)*  
+[[Attrape-mouches géant]] *(B1)*  
+[[Baleine]] *(B2)*  
+[[Bébilith]] *(B1)*  
+[[Brachiosaure]] *(B1)*  
+[[Brume des tranchées]] *(B5, RH5/6)*  
+[[Couatl]] *(B1)*  
+[[Couleur tombée du ciel]] *(B4, CP4/6)*  
+[[Croquemitaine]] *(B3)*  
+[[Dérakni]] *(GPM)*  
+[[Déva movanique]] *(B2)*  
+[[Diable des contrats|Diable des contrats (Phistophilius)]] *(B3, MTE6/6)*  
+[[Dragon blanc adulte]] *(B1)*  
+[[Dragon de cristal adulte]] *(B2)*  
+[[Dragon des cauchemars adulte]] *(B5)*  
+[[Dragon occulte adulte]] *(B5)*  
+[[Drake de léther|Drake de l'éther]] *(B5)*  
+[[Égrégore]] *(B5)*  
+[[Einherji]] *(B4)*  
+[[Étranger blafard]] *(B3)*  
+[[Fext]] *(B5, RH5/6)*  
+[[Géant de la jungle]] *(B3)*  
+[[Géant du feu]] *(B1)*  
+[[Ghawwas]] *(B3, HF4/6)*  
+[[Gholdako]] *(B4, GDC)*  
+[[Ghonhatine]] *(B4, RT4/6)*  
+[[Golem dargile|Golem d'argile]] *(B1)*  
+[[Golem de plomb]] *(B5)*  
+[[Goule de Leng]] *(B5)*  
+[[Gug]] *(B2, MTE5/6)*  
+[[Hippopotame béhémoth]] *(B2)*  
+[[Imentesh]] *(B2, HF4/6)*  
+[[Jeune dragon dargent|Jeune dragon d'argent]] *(B1)*  
+[[Jeune dragon des forêts]] *(B3)*  
+[[Jeune dragon des rêves]] *(B5)*  
+[[Jeune dragon du vortex]] *(B4)*  
+[[Jeune dragon rouge]] *(B1)*  
+[[Jeune dragon umbral]] *(B2)*  
+[[Kalavakus]] *(B2)*  
+[[Kapré]] *(B4, SS4/6)*  
+[[Mobogo]] *(B3, MTE6/6)*  
+[[Myrmarque formien]] *(B4)*  
+[[Naga gardien]] *(B1)*  
+[[Néréide]] *(B2)*  
+[[Nosferatu]] *(B4)*  
+[[Nue]] *(B3)*  
+[[Nyogoth]] *(B2)*  
+[[Orm aquatique]] *(B2)*  
+[[Pélude]] *(B4, KM3/6)*  
+[[Peuchen]] *(B5)*  
+[[Piscodaémon]] *(B2)*  
+[[Raélis]] *(B5)*  
+[[Rakshasa]] *(B1)*  
+[[Rejeton de Yog-Sothoth]] *(B4)*  
+[[Roi maudit]] *(B5)*  
+[[Rukh]] *(B4, HF3/6)*  
+[[Sacristain]] *(B4)*  
+[[Seigneur momie humain]] *(B5)*  
+[[Siyokoy]] *(B3)*  
+[[Thérizinosaure]] *(B5)*  
+[[Tibérolithe]] *(B4, SS2/6)*  
+[[Tophet]] *(B3, HF3/6)*  
+[[Ursikke]] *(B5, RH4/6)*  
+[[Zuishin]] *(B3)*  
 </div>
 
 
 ### 11
 <div class="article_3col">
-[[Aghasura]] *(B3)*
-[[Araignée goliath]] *(B4)*
-[[Bête lunaire]] *(B3)*
-[[Bhuta]] *(B3)*
-[[Camérocéras]] *(B5)*
-[[Cauchemar]] *(B1)*
-[[Cavalier blanc]] *(IPHE)*
-[[Chevalier tombal humain]] *(B3)*
-[[Cristal carnivore]] *(B3)*
-[[Dévoreur]] *(B1)*
-[[Diable barbelé|Diable barbelé (Hamatula)]] *(B1)*
-[[Diable bourreau|Diable bourreau (Munagola)]] *(BD)*
-[[Dorvae]] *(B4)*
-[[Dragon chtonien adulte]] *(B3)*
-[[Dragon dairain adulte|Dragon d'airain adulte]] *(B1)*
-[[Dragon de saumure adulte]] *(B2)*
-[[Dragon éthéré adulte]] *(B5)*
-[[Dragon noir adulte]] *(B1)*
-[[Érodaémon]] *(LD)*
-[[Fastachi]] *(B5)*
-[[Gardien pharaonique]] *(B5)*
-[[Géant de cendre]] *(B3)*
-[[Géant des nuages]] *(B1)*
-[[Gibrileth]] *(GPM)*
-[[Golem de cristal]] *(B5)*
-[[Golem de pierre]] *(B1)*
-[[Harionago]] *(B4)*
-[[Hezrou]] *(B1)*
-[[Horreur chasseresse]] *(B1)*
-[[Jeune dragon dor|Jeune dragon d'or]] *(B1)*
-[[Jeune dragon souverain]] *(B3)*
-[[Jeune dragon temporel]] *(B4)*
-[[Jinmenju]] *(B4, RJ6/6)*
-[[Juggernaut]] *(B4)*
-[[Larabai]] *(B5, GDC)*
-[[Lukwata]] *(B3)*
-[[Méduse saphir]] *(B3)*
-[[Méladaémon]] *(B2)*
-[[Myrmidon]] *(B5, BMI)*
-[[Naga royal]] *(B3, CV3/6)*
-[[Oiseau-tonnerre]] *(B2)*
-[[Oïtos]] *(BD)*
-[[Oracle thriae]] *(B3)*
-[[Scorpion empereur géant]] *(B4)*
-[[Seigneur élémentaire daether|Seigneur élémentaire d'aether]] *(B5)*
-[[Seigneur élémentaire de lAir|Seigneur élémentaire de l'Air]] *(B1)*
-[[Seigneur élémentaire de lEau|Seigneur élémentaire de l'Eau]] *(B1)*
-[[Seigneur élémentaire de léclair|Seigneur élémentaire de l'éclair]] *(B2)*
-[[Seigneur élémentaire de la boue]] *(B2)*
-[[Seigneur élémentaire de la glace]] *(B2)*
-[[Seigneur élémentaire de Terre]] *(B1)*
-[[Seigneur élémentaire du Feu]] *(B1)*
-[[Seigneur élémentaire du magma]] *(B2)*
-[[Seigneur félin]] *(B3)*
-[[Seps]] *(B4)*
-[[Serviteur aérien]] *(B5)*
-[[Sleipnir]] *(B3)*
-[[Spinosaure]] *(B3)*
-[[Taotieh]] *(B3)*
-[[Vase putride]] *(B5, CJ4/6)*
-[[Videsprit]] *(B5)*
+[[Aghasura]] *(B3)*  
+[[Araignée goliath]] *(B4)*  
+[[Bête lunaire]] *(B3)*  
+[[Bhuta]] *(B3)*  
+[[Camérocéras]] *(B5)*  
+[[Cauchemar]] *(B1)*  
+[[Cavalier blanc]] *(IPHE)*  
+[[Chevalier tombal humain]] *(B3)*  
+[[Cristal carnivore]] *(B3)*  
+[[Dévoreur]] *(B1)*  
+[[Diable barbelé|Diable barbelé (Hamatula)]] *(B1)*  
+[[Diable bourreau|Diable bourreau (Munagola)]] *(BD)*  
+[[Dorvae]] *(B4)*  
+[[Dragon chtonien adulte]] *(B3)*  
+[[Dragon dairain adulte|Dragon d'airain adulte]] *(B1)*  
+[[Dragon de saumure adulte]] *(B2)*  
+[[Dragon éthéré adulte]] *(B5)*  
+[[Dragon noir adulte]] *(B1)*  
+[[Érodaémon]] *(LD)*  
+[[Fastachi]] *(B5)*  
+[[Gardien pharaonique]] *(B5)*  
+[[Géant de cendre]] *(B3)*  
+[[Géant des nuages]] *(B1)*  
+[[Gibrileth]] *(GPM)*  
+[[Golem de cristal]] *(B5)*  
+[[Golem de pierre]] *(B1)*  
+[[Harionago]] *(B4)*  
+[[Hezrou]] *(B1)*  
+[[Horreur chasseresse]] *(B1)*  
+[[Jeune dragon dor|Jeune dragon d'or]] *(B1)*  
+[[Jeune dragon souverain]] *(B3)*  
+[[Jeune dragon temporel]] *(B4)*  
+[[Jinmenju]] *(B4, RJ6/6)*  
+[[Juggernaut]] *(B4)*  
+[[Larabai]] *(B5, GDC)*  
+[[Lukwata]] *(B3)*  
+[[Méduse saphir]] *(B3)*  
+[[Méladaémon]] *(B2)*  
+[[Myrmidon]] *(B5, BMI)*  
+[[Naga royal]] *(B3, CV3/6)*  
+[[Oiseau-tonnerre]] *(B2)*  
+[[Oïtos]] *(BD)*  
+[[Oracle thriae]] *(B3)*  
+[[Scorpion empereur géant]] *(B4)*  
+[[Seigneur élémentaire daether|Seigneur élémentaire d'aether]] *(B5)*  
+[[Seigneur élémentaire de lAir|Seigneur élémentaire de l'Air]] *(B1)*  
+[[Seigneur élémentaire de lEau|Seigneur élémentaire de l'Eau]] *(B1)*  
+[[Seigneur élémentaire de léclair|Seigneur élémentaire de l'éclair]] *(B2)*  
+[[Seigneur élémentaire de la boue]] *(B2)*  
+[[Seigneur élémentaire de la glace]] *(B2)*  
+[[Seigneur élémentaire de Terre]] *(B1)*  
+[[Seigneur élémentaire du Feu]] *(B1)*  
+[[Seigneur élémentaire du magma]] *(B2)*  
+[[Seigneur félin]] *(B3)*  
+[[Seps]] *(B4)*  
+[[Serviteur aérien]] *(B5)*  
+[[Sleipnir]] *(B3)*  
+[[Spinosaure]] *(B3)*  
+[[Taotieh]] *(B3)*  
+[[Vase putride]] *(B5, CJ4/6)*  
+[[Videsprit]] *(B5)*  
 </div>
 
 
 ### 12
 <div class="article_3col">
-[[Akhana]] *(B2)*
-[[Amarok]] *(B5)*
-[[Aoandon]] *(B4)*
-[[Archon excendré]] *(B5)*
-[[Athach]] *(B2)*
-[[Baleine bleue]] *(B5, SS5/6)*
-[[Barégare]] *(B3)*
-[[Basilosaure]] *(B3)*
-[[Calikang]] *(CCMI, CV5/6)*
-[[Catoblépas]] *(B2)*
-[[Cavalier rouge]] *(IPHE)*
-[[Chernobue]] *(B2)*
-[[Coloxe]] *(B3)*
-[[Derghodaémon]] *(B2)*
-[[Déva monadique]] *(B2)*
-[[Diable de lhérésie|Diable de l'hérésie (Ayngavhaul)]] *(B5, LD)*
-[[Diplodocus]] *(B4)*
-[[Dragon de cuivre adulte]] *(B1)*
-[[Dragon de magma adulte]] *(B2)*
-[[Dragon des mers adulte]] *(B3)*
-[[Dragon vert adulte]] *(B1)*
-[[Enfant lumineux]] *(B2)*
-[[Enlaceur]] *(B1)*
-[[Géant de la taïga]] *(B2, ESR4/6)*
-[[Golem fossile]] *(B3)*
-[[Golem mécanique]] *(B2)*
-[[Gouivre]] *(B4, CV6/6)*
-[[Grand cyclope]] *(B3, KM3/6)*
-[[Interlocuteur]] *(B3)*
-[[Jorôgumo]] *(B3)*
-[[Kolyarut]] *(B2)*
-[[Léonal]] *(B2)*
-[[Léviathan mécanique]] *(B3)*
-[[Liche]] *(B1)*
-[[Lorelei]] *(B4, SS6/6)*
-[[Manu]] *(B5)*
-[[Omox]] *(B2, RT4/6)*
-[[Réceptacle des âmes]] *(B4)*
-[[Roussalka]] *(B3)*
-[[Sayone]] *(B4)*
-[[Scitalise]] *(B5)*
-[[Serpent de mer]] *(B1)*
-[[Shira]] *(B3, HF3/6)*
-[[Somalcygot]] *(B5)*
-[[Syricte]] *(B5)*
-[[Valkyrie]] *(B3)*
-[[Ver du froid]] *(B2)*
-[[Ver pourpre]] *(B1)*
+[[Akhana]] *(B2)*  
+[[Amarok]] *(B5)*  
+[[Aoandon]] *(B4)*  
+[[Archon excendré]] *(B5)*  
+[[Athach]] *(B2)*  
+[[Baleine bleue]] *(B5, SS5/6)*  
+[[Barégare]] *(B3)*  
+[[Basilosaure]] *(B3)*  
+[[Calikang]] *(CCMI, CV5/6)*  
+[[Catoblépas]] *(B2)*  
+[[Cavalier rouge]] *(IPHE)*  
+[[Chernobue]] *(B2)*  
+[[Coloxe]] *(B3)*  
+[[Derghodaémon]] *(B2)*  
+[[Déva monadique]] *(B2)*  
+[[Diable de lhérésie|Diable de l'hérésie (Ayngavhaul)]] *(B5, LD)*  
+[[Diplodocus]] *(B4)*  
+[[Dragon de cuivre adulte]] *(B1)*  
+[[Dragon de magma adulte]] *(B2)*  
+[[Dragon des mers adulte]] *(B3)*  
+[[Dragon vert adulte]] *(B1)*  
+[[Enfant lumineux]] *(B2)*  
+[[Enlaceur]] *(B1)*  
+[[Géant de la taïga]] *(B2, ESR4/6)*  
+[[Golem fossile]] *(B3)*  
+[[Golem mécanique]] *(B2)*  
+[[Gouivre]] *(B4, CV6/6)*  
+[[Grand cyclope]] *(B3, KM3/6)*  
+[[Interlocuteur]] *(B3)*  
+[[Jorôgumo]] *(B3)*  
+[[Kolyarut]] *(B2)*  
+[[Léonal]] *(B2)*  
+[[Léviathan mécanique]] *(B3)*  
+[[Liche]] *(B1)*  
+[[Lorelei]] *(B4, SS6/6)*  
+[[Manu]] *(B5)*  
+[[Omox]] *(B2, RT4/6)*  
+[[Réceptacle des âmes]] *(B4)*  
+[[Roussalka]] *(B3)*  
+[[Sayone]] *(B4)*  
+[[Scitalise]] *(B5)*  
+[[Serpent de mer]] *(B1)*  
+[[Shira]] *(B3, HF3/6)*  
+[[Somalcygot]] *(B5)*  
+[[Syricte]] *(B5)*  
+[[Valkyrie]] *(B3)*  
+[[Ver du froid]] *(B2)*  
+[[Ver pourpre]] *(B1)*  
 </div>
 
 
 ### 13
 <div class="article_3col">
-[[Akhlut]] *(B3)*
-[[Alraune]] *(B3)*
-[[Azruverda]] *(B3)*
-[[Banshie]] *(B2, RT5/6)*
-[[Cavalier noir]] *(IPHE)*
-[[Cétus]] *(B5)*
-[[Charybde]] *(B2)*
-[[Chérufe]] *(B5)*
-[[Crabe naufrageur]] *(B3)*
-[[Créature dosier|Créature d'osier]] *(B4)*
-[[Démodande goudronneux]] *(B3)*
-[[Diable des glaces|Diable des glaces (Gélugon)]] *(B1)*
-[[Dragon astral adulte]] *(B5)*
-[[Dragon bleu adulte]] *(B1)*
-[[Dragon de bronze adulte]] *(B1)*
-[[Dragon des nuages adulte]] *(B2)*
-[[Dragon du ciel adulte]] *(B3)*
-[[Dragon du néant adulte]] *(B4)*
-[[Dragon lunaire adulte]] *(B4)*
-[[Dragon solaire adulte]] *(B4)*
-[[Dwiergeth]] *(B5, GPM)*
-[[Enlaceur de lombre|Enlaceur de l'ombre]] *(B4)*
-[[Ensorceleuse diabolique]] *(B4)*
-[[Froghémoth]] *(B1)*
-[[Gashadokuro]] *(B4, RJ6/6)*
-[[Géant des tempêtes]] *(B1)*
-[[Ghaéle]] *(B1)*
-[[Ghorazagh]] *(B3, CV5/6)*
-[[Glabrezu]] *(B1)*
-[[Golem de fer]] *(B1)*
-[[Kétesthius]] *(B5)*
-[[Liane-serpent]] *(B2)*
-[[Lotus funéraire]] *(B5, CJ6/6)*
-[[Morrigna]] *(B4, CP6/6)*
-[[Oolioddroo]] *(GPM)*
-[[Orsatka]] *(BD)*
-[[Papinijuwari]] *(B5)*
-[[Sirène des algues]] *(B4, SS6/6)*
-[[Thanadaémon]] *(B2)*
-[[Vase carnivore]] *(B2)*
+[[Akhlut]] *(B3)*  
+[[Alraune]] *(B3)*  
+[[Azruverda]] *(B3)*  
+[[Banshie]] *(B2, RT5/6)*  
+[[Cavalier noir]] *(IPHE)*  
+[[Cétus]] *(B5)*  
+[[Charybde]] *(B2)*  
+[[Chérufe]] *(B5)*  
+[[Crabe naufrageur]] *(B3)*  
+[[Créature dosier|Créature d'osier]] *(B4)*  
+[[Démodande goudronneux]] *(B3)*  
+[[Diable des glaces|Diable des glaces (Gélugon)]] *(B1)*  
+[[Dragon astral adulte]] *(B5)*  
+[[Dragon bleu adulte]] *(B1)*  
+[[Dragon de bronze adulte]] *(B1)*  
+[[Dragon des nuages adulte]] *(B2)*  
+[[Dragon du ciel adulte]] *(B3)*  
+[[Dragon du néant adulte]] *(B4)*  
+[[Dragon lunaire adulte]] *(B4)*  
+[[Dragon solaire adulte]] *(B4)*  
+[[Dwiergeth]] *(B5, GPM)*  
+[[Enlaceur de lombre|Enlaceur de l'ombre]] *(B4)*  
+[[Ensorceleuse diabolique]] *(B4)*  
+[[Froghémoth]] *(B1)*  
+[[Gashadokuro]] *(B4, RJ6/6)*  
+[[Géant des tempêtes]] *(B1)*  
+[[Ghaéle]] *(B1)*  
+[[Ghorazagh]] *(B3, CV5/6)*  
+[[Glabrezu]] *(B1)*  
+[[Golem de fer]] *(B1)*  
+[[Kétesthius]] *(B5)*  
+[[Liane-serpent]] *(B2)*  
+[[Lotus funéraire]] *(B5, CJ6/6)*  
+[[Morrigna]] *(B4, CP6/6)*  
+[[Oolioddroo]] *(GPM)*  
+[[Orsatka]] *(BD)*  
+[[Papinijuwari]] *(B5)*  
+[[Sirène des algues]] *(B4, SS6/6)*  
+[[Thanadaémon]] *(B2)*  
+[[Vase carnivore]] *(B2)*  
 </div>
 
 
 ### 14
 <div class="article_3col">
-[[Ailé ténébreux]] *(B2)*
-[[Ankou]] *(B4, KM6/6)*
-[[Araignée de Leng]] *(B2)*
-[[Archon messager]] *(B1)*
-[[Augnagar]] *(B2)*
-[[Bâtisseuse thriae]] *(B5)*
-[[Carrosse mortel]] *(B5)*
-[[Demi-liche]] *(B3)*
-[[Déva astral]] *(B1)*
-[[Diable vestale|Diable vestale (Gylou)]] *(B2)*
-[[Dragon dargent adulte|Dragon d'argent adulte]] *(B1)*
-[[Dragon des forêts adulte]] *(B3)*
-[[Dragon des rêves adulte]] *(B5)*
-[[Dragon du vortex adulte]] *(B4)*
-[[Dragon rouge adulte]] *(B1)*
-[[Dragon umbral adulte]] *(B2)*
-[[Géant des océans]] *(B4)*
-[[Golem de cuivre]] *(B3, HF6/6)*
-[[Grande baleine blanche]] *(B2)*
-[[Limon de poudre noire]] *(B5, GFR)*
-[[Linnorm des falaises]] *(B1)*
-[[Manu rishi]] *(B5)*
-[[Nalfeshnie]] *(B1)*
-[[Nikaramsa]] *(BD)*
-[[Péri]] *(B3)*
-[[Polype volant]] *(B4)*
-[[Rokurokubi]] *(B4, RJ6/6)*
-[[Seigneur profond]] *(B5)*
-[[Sépide]] *(B3, HF5/6)*
-[[Témerdaémon]] *(LD)*
-[[Vémérak]] *(B2, DO)*
-[[Ver-qui-marche]] *(B2)*
-[[Viscosité grise]] *(B5)*
-[[Voleur de corps]] *(B4)*
-[[Wakandagi]] *(B5)*
-[[Xanthos]] *(B4)*
-[[Yai de glace]] *(B3)*
+[[Ailé ténébreux]] *(B2)*  
+[[Ankou]] *(B4, KM6/6)*  
+[[Araignée de Leng]] *(B2)*  
+[[Archon messager]] *(B1)*  
+[[Augnagar]] *(B2)*  
+[[Bâtisseuse thriae]] *(B5)*  
+[[Carrosse mortel]] *(B5)*  
+[[Demi-liche]] *(B3)*  
+[[Déva astral]] *(B1)*  
+[[Diable vestale|Diable vestale (Gylou)]] *(B2)*  
+[[Dragon dargent adulte|Dragon d'argent adulte]] *(B1)*  
+[[Dragon des forêts adulte]] *(B3)*  
+[[Dragon des rêves adulte]] *(B5)*  
+[[Dragon du vortex adulte]] *(B4)*  
+[[Dragon rouge adulte]] *(B1)*  
+[[Dragon umbral adulte]] *(B2)*  
+[[Géant des océans]] *(B4)*  
+[[Golem de cuivre]] *(B3, HF6/6)*  
+[[Grande baleine blanche]] *(B2)*  
+[[Limon de poudre noire]] *(B5, GFR)*  
+[[Linnorm des falaises]] *(B1)*  
+[[Manu rishi]] *(B5)*  
+[[Nalfeshnie]] *(B1)*  
+[[Nikaramsa]] *(BD)*  
+[[Péri]] *(B3)*  
+[[Polype volant]] *(B4)*  
+[[Rokurokubi]] *(B4, RJ6/6)*  
+[[Seigneur profond]] *(B5)*  
+[[Sépide]] *(B3, HF5/6)*  
+[[Témerdaémon]] *(LD)*  
+[[Vémérak]] *(B2, DO)*  
+[[Ver-qui-marche]] *(B2)*  
+[[Viscosité grise]] *(B5)*  
+[[Voleur de corps]] *(B4)*  
+[[Wakandagi]] *(B5)*  
+[[Xanthos]] *(B4)*  
+[[Yai de glace]] *(B3)*  
 </div>
 
 
 ### 15
 <div class="article_3col">
-[[Arcanotheign]] *(ISG)*
-[[Barometz]] *(B4)*
-[[Basiléus]] *(ISG)*
-[[Bonze des mers]] *(B3)*
-[[Cétacéal]] *(B2)*
-[[Crucidaémon]] *(B3)*
-[[Démodande filandreux]] *(B5, CJ5/6)*
-[[Dibbouk]] *(B3)*
-[[Dragon blanc vénérable]] *(B1)*
-[[Dragon dor adulte|Dragon d'or adulte]] *(B1)*
-[[Dragon de cristal vénérable]] *(B2)*
-[[Dragon des cauchemars vénérable]] *(B5)*
-[[Dragon occulte vénérable]] *(B5)*
-[[Dragon souverain adulte]] *(B3)*
-[[Dragon temporel adulte]] *(B4)*
-[[Géant de la lune]] *(B5)*
-[[Ghalzarokh]] *(BD)*
-[[Golem canon]] *(B3)*
-[[Gorynych]] *(B3)*
-[[Gueule de la Mère]] *(ISG)*
-[[Hamadryade]] *(B4)*
-[[Hyakume]] *(B4)*
-[[Intendante de lécheveau|Intendante de l'écheveau]] *(ISG)*
-[[Isonade]] *(B5)*
-[[Jube-jube]] *(B3)*
-[[Kongamato]] *(B3)*
-[[LEsprit de lAdoration|L'Esprit de l'Adoration]] *(ISG)*
-[[La Bête perforante]] *(ISG)*
-[[La Ménothérienne]] *(ISG)*
-[[La Première Lame]] *(ISG)*
-[[Le Grand Défenseur]] *(ISG)*
-[[Le Prince enchaîné]] *(ISG)*
-[[Le Terrible cerf blanc]] *(ISG)*
-[[Le Vieil Homme]] *(ISG)*
-[[Main de lHéritière|Main de l'Héritière]] *(ISG)*
-[[Manitou]] *(B4)*
-[[Marut]] *(B2)*
-[[Messager de la loi]] *(ISG)*
-[[Monarque nocturne]] *(ISG)*
-[[Nemhain]] *(B5)*
-[[Néothélide]] *(B1, DO)*
-[[Personnification de la fureur]] *(ISG)*
-[[Phoenix]] *(B1)*
-[[Popobala]] *(B3)*
-[[Rampant des failles]] *(B5, GPM)*
-[[Reine sorcière|Reine sorcière / Reine flétrie]] *(B5, RH6/6)*
-[[Scorpion noir]] *(B2)*
-[[Seigneur solaire Thalachos]] *(ISG)*
-[[Séraptis]] *(B5, LD)*
-[[Siabraé]] *(GPM)*
-[[Spectre des tempêtes]] *(B5, RH4/6)*
-[[Tataka]] *(B3)*
-[[Thaïs]] *(ISG)*
-[[Toshigami]] *(B3)*
-[[Troll jötun]] *(B3)*
-[[Xacarba]] *(B2, RT6/6)*
-[[Yai du feu]] *(B3)*
-[[Yethazmari]] *(ISG)*
-[[Ypotrille]] *(B4)*
+[[Arcanotheign]] *(ISG)*  
+[[Barometz]] *(B4)*  
+[[Basiléus]] *(ISG)*  
+[[Bonze des mers]] *(B3)*  
+[[Cétacéal]] *(B2)*  
+[[Crucidaémon]] *(B3)*  
+[[Démodande filandreux]] *(B5, CJ5/6)*  
+[[Dibbouk]] *(B3)*  
+[[Dragon blanc vénérable]] *(B1)*  
+[[Dragon dor adulte|Dragon d'or adulte]] *(B1)*  
+[[Dragon de cristal vénérable]] *(B2)*  
+[[Dragon des cauchemars vénérable]] *(B5)*  
+[[Dragon occulte vénérable]] *(B5)*  
+[[Dragon souverain adulte]] *(B3)*  
+[[Dragon temporel adulte]] *(B4)*  
+[[Géant de la lune]] *(B5)*  
+[[Ghalzarokh]] *(BD)*  
+[[Golem canon]] *(B3)*  
+[[Gorynych]] *(B3)*  
+[[Gueule de la Mère]] *(ISG)*  
+[[Hamadryade]] *(B4)*  
+[[Hyakume]] *(B4)*  
+[[Intendante de lécheveau|Intendante de l'écheveau]] *(ISG)*  
+[[Isonade]] *(B5)*  
+[[Jube-jube]] *(B3)*  
+[[Kongamato]] *(B3)*  
+[[LEsprit de lAdoration|L'Esprit de l'Adoration]] *(ISG)*  
+[[La Bête perforante]] *(ISG)*  
+[[La Ménothérienne]] *(ISG)*  
+[[La Première Lame]] *(ISG)*  
+[[Le Grand Défenseur]] *(ISG)*  
+[[Le Prince enchaîné]] *(ISG)*  
+[[Le Terrible cerf blanc]] *(ISG)*  
+[[Le Vieil Homme]] *(ISG)*  
+[[Main de lHéritière|Main de l'Héritière]] *(ISG)*  
+[[Manitou]] *(B4)*  
+[[Marut]] *(B2)*  
+[[Messager de la loi]] *(ISG)*  
+[[Monarque nocturne]] *(ISG)*  
+[[Nemhain]] *(B5)*  
+[[Néothélide]] *(B1, DO)*  
+[[Personnification de la fureur]] *(ISG)*  
+[[Phoenix]] *(B1)*  
+[[Popobala]] *(B3)*  
+[[Rampant des failles]] *(B5, GPM)*  
+[[Reine sorcière|Reine sorcière / Reine flétrie]] *(B5, RH6/6)*  
+[[Scorpion noir]] *(B2)*  
+[[Seigneur solaire Thalachos]] *(ISG)*  
+[[Séraptis]] *(B5, LD)*  
+[[Siabraé]] *(GPM)*  
+[[Spectre des tempêtes]] *(B5, RH4/6)*  
+[[Tataka]] *(B3)*  
+[[Thaïs]] *(ISG)*  
+[[Toshigami]] *(B3)*  
+[[Troll jötun]] *(B3)*  
+[[Xacarba]] *(B2, RT6/6)*  
+[[Yai du feu]] *(B3)*  
+[[Yethazmari]] *(ISG)*  
+[[Ypotrille]] *(B4)*  
 </div>
 
 
 ### 16
 <div class="article_3col">
-[[Annihilateur]] *(B5, BMI)*
-[[Astradaémon]] *(B2)*
-[[Bythos]] *(B2)*
-[[Démodande visqueux]] *(B3)*
-[[Diable cornu|Diable cornu (Cornugon)]] *(B1)*
-[[Diable trompeur|Diable trompeur (Bdellavritra)]] *(B2, MTE6/6)*
-[[Djidjinis]] *(B5)*
-[[Dragon chtonien vénérable]] *(B3)*
-[[Dragon dairain vénérable|Dragon d'airain vénérable]] *(B1)*
-[[Dragon de saumure vénérable]] *(B2)*
-[[Dragon épineux]] *(CCMI)*
-[[Dragon éthéré vénérable]] *(B5)*
-[[Dragon mécanique]] *(B4)*
-[[Dragon noir vénérable]] *(B1)*
-[[Écorché]] *(B3)*
-[[Géant du soleil]] *(B5)*
-[[Golem de mithral]] *(B2)*
-[[Grootslang]] *(B3)*
-[[Linnorm des fjords]] *(B3)*
-[[Manu maharishi]] *(B5)*
-[[Marcheur ténébreux]] *(B2)*
-[[Faucheuse mineure|Mort partielle / Faucheuse mineure]] *(B5, CP6/6)*
-[[Muse]] *(B5)*
-[[Ningen]] *(B5)*
-[[Oma]] *(B4, MPML)*
-[[Planétar]] *(B1)*
-[[Qolok]] *(B5)*
-[[Scylla]] *(B2)*
-[[Serpent creux]] *(B3)*
-[[Shemhazian]] *(B2, ESR5/6)*
-[[Supplicié de Gibet]] *(B4)*
-[[Valravn]] *(B5)*
-[[Vase de plasma]] *(B3)*
-[[Ver de guerre]] *(B4, KM5/6)*
-[[Zomok]] *(B4, KM6/6)*
+[[Annihilateur]] *(B5, BMI)*  
+[[Astradaémon]] *(B2)*  
+[[Bythos]] *(B2)*  
+[[Démodande visqueux]] *(B3)*  
+[[Diable cornu|Diable cornu (Cornugon)]] *(B1)*  
+[[Diable trompeur|Diable trompeur (Bdellavritra)]] *(B2, MTE6/6)*  
+[[Djidjinis]] *(B5)*  
+[[Dragon chtonien vénérable]] *(B3)*  
+[[Dragon dairain vénérable|Dragon d'airain vénérable]] *(B1)*  
+[[Dragon de saumure vénérable]] *(B2)*  
+[[Dragon épineux]] *(CCMI)*  
+[[Dragon éthéré vénérable]] *(B5)*  
+[[Dragon mécanique]] *(B4)*  
+[[Dragon noir vénérable]] *(B1)*  
+[[Écorché]] *(B3)*  
+[[Géant du soleil]] *(B5)*  
+[[Golem de mithral]] *(B2)*  
+[[Grootslang]] *(B3)*  
+[[Linnorm des fjords]] *(B3)*  
+[[Manu maharishi]] *(B5)*  
+[[Marcheur ténébreux]] *(B2)*  
+[[Faucheuse mineure|Mort partielle / Faucheuse mineure]] *(B5, CP6/6)*  
+[[Muse]] *(B5)*  
+[[Ningen]] *(B5)*  
+[[Oma]] *(B4, MPML)*  
+[[Planétar]] *(B1)*  
+[[Qolok]] *(B5)*  
+[[Scylla]] *(B2)*  
+[[Serpent creux]] *(B3)*  
+[[Shemhazian]] *(B2, ESR5/6)*  
+[[Supplicié de Gibet]] *(B4)*  
+[[Valravn]] *(B5)*  
+[[Vase de plasma]] *(B3)*  
+[[Ver de guerre]] *(B4, KM5/6)*  
+[[Zomok]] *(B4, KM6/6)*  
 </div>
 
 
 ### 17
 <div class="article_3col">
-[[Âme-en-peine draconique]] *(B5)*
-[[Archon des portails]] *(B5)*
-[[Bakekujira]] *(B4, SS5/6)*
-[[Bandersnatch]] *(B3)*
-[[Bhole]] *(B4)*
-[[Brijidine]] *(B2)*
-[[Cervinal]] *(B5)*
-[[Démodande caoutchouteux]] *(B5)*
-[[Diable apostat|Diable apostat (Deimavigga)]] *(B5, LD)*
-[[Dragon de cuivre vénérable]] *(B1)*
-[[Dragon de magma vénérable]] *(B2)*
-[[Dragon des mers vénérable]] *(B3)*
-[[Dragon vert vénérable]] *(B1)*
-[[Géant des runes]] *(B2, ESR6/6)*
-[[Ichor immortel]] *(B4)*
-[[Kékétar]] *(B2)*
-[[Khala]] *(B5, IPHE)*
-[[Lilitu]] *(GPM)*
-[[Linnorm des glaces]] *(B1)*
-[[Lusque]] *(B5, GDC)*
-[[Marilith]] *(B1)*
-[[Nécrophage des glaces]] *(B2)*
-[[Phasmadaémon]] *(LD)*
-[[Plankta]] *(B5)*
-[[Reine formienne]] *(B4)*
-[[Shinigami]] *(B3)*
-[[Thrasfyr]] *(B2)*
-[[Tunche]] *(B4)*
-[[Wendigo]] *(B2, ESR6/6)*
+[[Âme-en-peine draconique]] *(B5)*  
+[[Archon des portails]] *(B5)*  
+[[Bakekujira]] *(B4, SS5/6)*  
+[[Bandersnatch]] *(B3)*  
+[[Bhole]] *(B4)*  
+[[Brijidine]] *(B2)*  
+[[Cervinal]] *(B5)*  
+[[Démodande caoutchouteux]] *(B5)*  
+[[Diable apostat|Diable apostat (Deimavigga)]] *(B5, LD)*  
+[[Dragon de cuivre vénérable]] *(B1)*  
+[[Dragon de magma vénérable]] *(B2)*  
+[[Dragon des mers vénérable]] *(B3)*  
+[[Dragon vert vénérable]] *(B1)*  
+[[Géant des runes]] *(B2, ESR6/6)*  
+[[Ichor immortel]] *(B4)*  
+[[Kékétar]] *(B2)*  
+[[Khala]] *(B5, IPHE)*  
+[[Lilitu]] *(GPM)*  
+[[Linnorm des glaces]] *(B1)*  
+[[Lusque]] *(B5, GDC)*  
+[[Marilith]] *(B1)*  
+[[Nécrophage des glaces]] *(B2)*  
+[[Phasmadaémon]] *(LD)*  
+[[Plankta]] *(B5)*  
+[[Reine formienne]] *(B4)*  
+[[Shinigami]] *(B3)*  
+[[Thrasfyr]] *(B2)*  
+[[Tunche]] *(B4)*  
+[[Wendigo]] *(B2, ESR6/6)*  
 </div>
 
 
 ### 18
 <div class="article_3col">
-[[Anémos]] *(B5)*
-[[Bateau dossements|Bateau d'ossements]] *(B5)*
-[[Béhémoth du tonnerre]] *(B3)*
-[[Démodande hirsute]] *(B3)*
-[[Diable némésis|Diable némésis (Advodaze)]] *(B4, CV6/6)*
-[[Dragon astral vénérable]] *(B5)*
-[[Dragon bleu vénérable]] *(B1)*
-[[Dragon de bronze vénérable]] *(B1)*
-[[Dragon des nuages vénérable]] *(B2)*
-[[Dragon du ciel vénérable]] *(B3)*
-[[Dragon du néant vénérable]] *(B4)*
-[[Dragon lunaire vénérable]] *(B4)*
-[[Dragon solaire vénérable]] *(B4)*
-[[Erlkönig]] *(B4)*
-[[Kraken]] *(B1)*
-[[Léviathan astral]] *(B4)*
-[[Linnorm des cairns]] *(B3)*
-[[Lipika]] *(B5)*
-[[Norne]] *(B3)*
-[[Pitri crépusculaire]] *(B5)*
-[[Purrodaémon]] *(B2)*
-[[Rampant ténébreux]] *(B2)*
-[[Reine thriae]] *(B3)*
-[[Saxra]] *(B5)*
-[[Simurgh]] *(B3, HF6/6)*
-[[Taniniver]] *(B4)*
-[[Thulgant]] *(B2)*
-[[Vavaki]] *(LD)*
-[[Yai de leau|Yai de l'eau]] *(B3)*
-[[Zygopensée]] *(B5)*
+[[Anémos]] *(B5)*  
+[[Bateau dossements|Bateau d'ossements]] *(B5)*  
+[[Béhémoth du tonnerre]] *(B3)*  
+[[Démodande hirsute]] *(B3)*  
+[[Diable némésis|Diable némésis (Advodaze)]] *(B4, CV6/6)*  
+[[Dragon astral vénérable]] *(B5)*  
+[[Dragon bleu vénérable]] *(B1)*  
+[[Dragon de bronze vénérable]] *(B1)*  
+[[Dragon des nuages vénérable]] *(B2)*  
+[[Dragon du ciel vénérable]] *(B3)*  
+[[Dragon du néant vénérable]] *(B4)*  
+[[Dragon lunaire vénérable]] *(B4)*  
+[[Dragon solaire vénérable]] *(B4)*  
+[[Erlkönig]] *(B4)*  
+[[Kraken]] *(B1)*  
+[[Léviathan astral]] *(B4)*  
+[[Linnorm des cairns]] *(B3)*  
+[[Lipika]] *(B5)*  
+[[Norne]] *(B3)*  
+[[Pitri crépusculaire]] *(B5)*  
+[[Purrodaémon]] *(B2)*  
+[[Rampant ténébreux]] *(B2)*  
+[[Reine thriae]] *(B3)*  
+[[Saxra]] *(B5)*  
+[[Simurgh]] *(B3, HF6/6)*  
+[[Taniniver]] *(B4)*  
+[[Thulgant]] *(B2)*  
+[[Vavaki]] *(LD)*  
+[[Yai de leau|Yai de l'eau]] *(B3)*  
+[[Zygopensée]] *(B5)*  
 </div>
 
 
 ### 19
 <div class="article_3col">
-[[Archon étoile]] *(B2)*
-[[Diable immolateur|Diable immolateur (Puragaus)]] *(B2)*
-[[Dragon dargent vénérable|Dragon d'argent vénérable]] *(B1)*
-[[Dragon des forêts vénérable]] *(B3)*
-[[Dragon des rêves vénérable]] *(B5)*
-[[Dragon du vortex vénérable]] *(B4)*
-[[Dragon rouge vénérable]] *(B1)*
-[[Dragon umbral vénérable]] *(B2)*
-[[Gallu]] *(GPM)*
-[[Géant des éclipses]] *(B5)*
-[[Golem dadamantium|Golem d'adamantium]] *(B2)*
-[[Goliath mécanique]] *(B3)*
-[[Humbaba]] *(B3)*
-[[Linnorm de la taïga]] *(B3)*
-[[Obcisidaémon]] *(LD)*
-[[Sard]] *(B2)*
-[[Serpent des profondeurs]] *(B3)*
-[[Shoggoth]] *(B1)*
-[[Silène]] *(B5)*
-[[Turul]] *(B5)*
-[[Tzitzimitl]] *(B3)*
-[[Vishap]] *(B5)*
-[[Vrolikai]] *(B2)*
+[[Archon étoile]] *(B2)*  
+[[Diable immolateur|Diable immolateur (Puragaus)]] *(B2)*  
+[[Dragon dargent vénérable|Dragon d'argent vénérable]] *(B1)*  
+[[Dragon des forêts vénérable]] *(B3)*  
+[[Dragon des rêves vénérable]] *(B5)*  
+[[Dragon du vortex vénérable]] *(B4)*  
+[[Dragon rouge vénérable]] *(B1)*  
+[[Dragon umbral vénérable]] *(B2)*  
+[[Gallu]] *(GPM)*  
+[[Géant des éclipses]] *(B5)*  
+[[Golem dadamantium|Golem d'adamantium]] *(B2)*  
+[[Goliath mécanique]] *(B3)*  
+[[Humbaba]] *(B3)*  
+[[Linnorm de la taïga]] *(B3)*  
+[[Obcisidaémon]] *(LD)*  
+[[Sard]] *(B2)*  
+[[Serpent des profondeurs]] *(B3)*  
+[[Shoggoth]] *(B1)*  
+[[Silène]] *(B5)*  
+[[Turul]] *(B5)*  
+[[Tzitzimitl]] *(B3)*  
+[[Vishap]] *(B5)*  
+[[Vrolikai]] *(B2)*  
 </div>
 
 
 ### 20
 <div class="article_3col">
-[[Akvan]] *(B3)*
-[[Arbre-lotus]] *(B5)*
-[[Asurendra]] *(B3)*
-[[Balor]] *(B1)*
-[[Béhémoth thalassique]] *(B3)*
-[[Démodande squameux]] *(BD)*
-[[Diantrefosse]] *(B1)*
-[[Draconal]] *(B2)*
-[[Dragon dor vénérable|Dragon d'or vénérable]] *(B1)*
-[[Dragon souverain vénérable]] *(B3)*
-[[Dragon temporel vénérable]] *(B4)*
-[[Empyréen]] *(B5)*
-[[Ermite]] *(B3)*
-[[Iathavos]] *(B2)*
-[[Jinushigami]] *(B3)*
-[[Kimenhul]] *(B5)*
-[[Larve stellaire de Cthulhu]] *(B4, CP4/6)*
-[[Lhaksharut]] *(B2)*
-[[Linnorm des lacs]] *(B1)*
-[[Maharadjah]] *(B3, MTE3/6)*
-[[Oléthrodaémon]] *(B2)*
-[[Pléroma]] *(B2)*
-[[Vague ténébreuse]] *(B2)*
-[[Yai du vide]] *(B3)*
-[[Yamaraj]] *(B4, CP6/6)*
+[[Akvan]] *(B3)*  
+[[Arbre-lotus]] *(B5)*  
+[[Asurendra]] *(B3)*  
+[[Balor]] *(B1)*  
+[[Béhémoth thalassique]] *(B3)*  
+[[Démodande squameux]] *(BD)*  
+[[Diantrefosse]] *(B1)*  
+[[Draconal]] *(B2)*  
+[[Dragon dor vénérable|Dragon d'or vénérable]] *(B1)*  
+[[Dragon souverain vénérable]] *(B3)*  
+[[Dragon temporel vénérable]] *(B4)*  
+[[Empyréen]] *(B5)*  
+[[Ermite]] *(B3)*  
+[[Iathavos]] *(B2)*  
+[[Jinushigami]] *(B3)*  
+[[Kimenhul]] *(B5)*  
+[[Larve stellaire de Cthulhu]] *(B4, CP4/6)*  
+[[Lhaksharut]] *(B2)*  
+[[Linnorm des lacs]] *(B1)*  
+[[Maharadjah]] *(B3, MTE3/6)*  
+[[Oléthrodaémon]] *(B2)*  
+[[Pléroma]] *(B2)*  
+[[Vague ténébreuse]] *(B2)*  
+[[Yai du vide]] *(B3)*  
+[[Yamaraj]] *(B4, CP6/6)*  
 </div>
 
 
 ### 21
 <div class="article_3col">
-[[Hundun]] *(B5)*
-[[Linnorm de roche]] *(B3)*
-[[Spore de mu]] *(B2)*
-[[Titan de lÉlysée|Titan de l'Élysée]] *(B2)*
+[[Hundun]] *(B5)*  
+[[Linnorm de roche]] *(B3)*  
+[[Spore de mu]] *(B2)*  
+[[Titan de lÉlysée|Titan de l'Élysée]] *(B2)*  
 </div>
 
 
 ### 22
 <div class="article_3col">
-[[Béhémoth des tempêtes]] *(B3)*
-[[Dracosire rouge]] *(B2)*
-[[Faucheuse]] *(B5, CP6/6)*
-[[Titan thanatotique]] *(B2)*
+[[Béhémoth des tempêtes]] *(B3)*  
+[[Dracosire rouge]] *(B2)*  
+[[Faucheuse]] *(B5, CP6/6)*  
+[[Titan thanatotique]] *(B2)*  
 </div>
 
 
 ### 23
 <div class="article_3col">
-[[Jabberwocky]] *(B2)*
-[[Reine sanglante]] *(GDC)*
-[[Solar]] *(B1)*
+[[Jabberwocky]] *(B2)*  
+[[Reine sanglante]] *(GDC)*  
+[[Solar]] *(B1)*  
 </div>
 
 
 ### 24
 <div class="article_3col">
-[[Titan hécatonchire]] *(B3)*
+[[Titan hécatonchire]] *(B3)*  
 </div>
 
 
 ### 25
 <div class="article_3col">
-[[Fléau des Arbres|Fléau des forêts]] *(CCMI, RT5/6)*
-[[Tarasque]] *(ISG)*
-[[Voix des damnés]] *(BD)*
+[[Fléau des Arbres|Fléau des forêts]] *(CCMI, RT5/6)*  
+[[Tarasque]] *(ISG)*  
+[[Voix des damnés]] *(BD)*  
 </div>
 
 
 ### 26
 <div class="article_3col">
-[[Bézravnis]] *(B4)*
-[[Korada]] *(B4)*
-[[Kostchtchie]] *(B4)*
+[[Bézravnis]] *(B4)*  
+[[Korada]] *(B4)*  
+[[Kostchtchie]] *(B4)*  
 </div>
 
 
 ### 27
 <div class="article_3col">
-[[Agyra]] *(B4)*
-[[Bokrug]] *(B4)*
+[[Agyra]] *(B4)*  
+[[Bokrug]] *(B4)*  
 </div>
 
 
 ### 28
 <div class="article_3col">
-[[Dagon]] *(B4)*
-[[Mogaru]] *(B4)*
-[[Vildéïs]] *(B4)*
+[[Dagon]] *(B4)*  
+[[Mogaru]] *(B4)*  
+[[Vildéïs]] *(B4)*  
 </div>
 
 
 ### 29
 <div class="article_3col">
-[[Hastur]] *(B4)*
+[[Hastur]] *(B4)*  
 </div>
 
 
 ### 30
 <div class="article_3col">
-[[Cernunnos]] *(B4)*
-[[Cthulhu]] *(B4)*
-[[Pazuzu]] *(B4)*
+[[Cernunnos]] *(B4)*  
+[[Cthulhu]] *(B4)*  
+[[Pazuzu]] *(B4)*  
 </div>

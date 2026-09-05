@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>La description des sorts est présentée selon un format standard. Chaque catégorie d’information est détaillée ci-dessous.
+{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>La description des sorts est présentée selon un format standard. Chaque catégorie d’information est détaillée ci-dessous.  
 
 ### Nom
 Sous le nom du sort apparaît l’école de magie (et la branche, le cas échéant) à laquelle il appartient.
@@ -163,7 +163,7 @@ Les sorts de langage doivent forcément reposer sur une langue compréhensible. 
 
 Un sort mental ne fonctionne que sur les créatures dotées d’une valeur d’Intelligence de 1 au moins.
 
-{s:Reference|NIVEAU}
+{s:Reference|NIVEAU} 
 ### Niveau
 La ligne suivante indique le niveau du sort, situé entre 0 et 9 inclus, qui donne une idée de la puissance de l’effet. Ce nombre est précédé par une liste des classes pouvant lancer ce sort. Le niveau du sort affecte le [[DD]] de tout jet de sauvegarde pouvant être fait pour résister aux effets du sort.
 

@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), *[[potions magiques|potions]] de [[soins modérés]]* (2), *[[potions magiques|potion]] d'[[invisibilité]]* ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles +1]]*, *[[épée longue (arme)|épée longue +1]]*, *[[épée courte (arme)|épée courte +1]]*, [[dague (arme)|dagues de maître]] (2), *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*,*[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 271 po}
 </div>
 
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 

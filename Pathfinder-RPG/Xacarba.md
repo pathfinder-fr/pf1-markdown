@@ -50,7 +50,7 @@ Categories:
 {s:BDTexte|**Renvoi des sorts (Sur).** Les créatures qui tentent de lancer un sort dans un rayon de 9 mètres (6 {s:c}) autour d’un xacarba doivent le lancer sur la défensive. Si le lanceur du sorts rate son test de concentration (ou s’il décide de ne pas le lancer sur la défensive), le xacarba peut choisir la cible du sort par une [[action immédiate]]. La nouvelle cible doit pouvoir être ciblée par le sort : s’il n’y a pas d’alternative admissible, le xacarba ne peut pas utiliser cette capacité.}
 </div>
 </td><td><div>
-''Cette gigantesque bête à trois queues et à six yeux semble être constituée de trois serpents partiellement fondus en un seul corps dont le dos est
+''Cette gigantesque bête à trois queues et à six yeux semble être constituée de trois serpents partiellement fondus en un seul corps dont le dos est 
 couvert de runes.''
 
 Les xacarbas sont des fiélons originaires des profondeurs des Abysses incarnant la manipulation et la destruction. Grâce à leur tristement célèbre capacité à modifier la cible des sorts, ces mastodontes au corps de serpent sèment le carnage dans les esprits et les corps, en montant les alliés les uns contre les autres et en prenant grand plaisir à observer la destruction qui en résulte.

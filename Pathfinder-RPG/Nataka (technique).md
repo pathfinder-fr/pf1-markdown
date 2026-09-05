@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Cimeterre (arme)|Cimeterre]]
 |[[Domaine du Climat|Climat]], [[Domaine de la Destruction|Destruction]], [[Domaine du Feu|Feu]], [[Domaine du Mal|Mal]]
-|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Feu|Fumée]], [[Domaine du Feu|Incendies]], [[Domaine du Climat|Saisons]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Feu|Fumée]], [[Domaine du Feu|Incendies]], [[Domaine du Climat|Saisons]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

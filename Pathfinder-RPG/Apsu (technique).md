@@ -17,15 +17,15 @@ Celui qui trace la voie|%2fPCUP%2fReligion-PNG%2fApsu.png|[[Divinités#AUTRES|Au
 |—}{s:cs}Selon la tradition draconique, Apsu et sa compagne Tiamat ont créé les dieux qui ont créé le monde des mortels. Parmi ces dieux se trouvait [[Dahak (technique)|Dahak]], la Destruction infinie. Apsu lutta contre Dahak mais fut empêché de détruire son fils par la trahison de Tiamat. Apsu continue de lutter contre les forces de destruction et il est le protecteur de tous les dragons d'alignement Bon. Certains dragons qui ne sont ni bons ni mauvais, notamment les [[Dragon|dragons primaires]] et les [[Vouivre|vouivres]], choisissent également de vénérer Apsu, en particulier s'ils sont Loyaux.
 
 ### Règles uniques aux suivants
-**Classes**
+**Classes**  
 • Apsu n'a pas d'[[Oracle|oracles]], car il estime qu'infliger une malédiction à une créature vivante est un crime terrible contre cet être, même en échange d'un pouvoir divin.
 
-**Lancement de sorts ([[inquisiteur]]/[[oracle]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[Apsu's Shining Scales](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apsu%27s%20Shining%20Scales)* peut être préparé comme un sort de 3e niveau.
-• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[inquisiteur]]/[[oracle]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[Apsu's Shining Scales](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apsu%27s%20Shining%20Scales)* peut être préparé comme un sort de 3e niveau.  
+• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.  
 • *[Tail Strike](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike)* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[paladin]]).**
+**Lancement de sorts ([[paladin]]).**  
 • *[Apsu's Shining Scales](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apsu%27s%20Shining%20Scales)* peut être préparé comme un sort de 3e niveau.
 
 ### Options de personnage thématiques

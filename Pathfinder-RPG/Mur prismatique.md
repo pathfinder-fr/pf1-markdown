@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** mur de 1,20 m de long/[[niveau]] et de 60 cm de haut/[[niveau]]
-**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** mur de 1,20 m de long/[[niveau]] et de 60 cm de haut/[[niveau]]  
+**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** voir texte
----
+<hr />
 Ce sort fait apparaître un plan opaque et vertical dont les couleurs arc-en-ciel sont toujours changeantes. Il protège le lanceur de sort contre tous les types d’attaque. Le mur est immobile et le mage peut rester à côté (ou même le franchir) sans risque. Par contre, toute autre créature de moins de 8 [[DV]] est automatiquement [[aveuglé|aveuglée]] pendant 2d4 [[round|rounds]] si elle a la mauvaise idée de regarder la barrière de couleurs alors qu’elle se trouve à moins de six mètres (4 cases) de celle-ci.
 
 Le mur mesure au maximum 1,20 m de long et 60 cm de haut par [[niveau de lanceur de sorts]]. Si on le lance à un endroit occupé par une créature, le sort échoue.
@@ -115,14 +115,14 @@ Inflige 40 points de dégâts d’acide ([[Réflexes]], [[Présentation des
 
 ((({s:sortssimilaires|mur prismatique}
 ## [[Sphère prismatique]]
-**École** [[Abjuration]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V]]
-**Portée** 3 m (2 {s:c})
-**Effet** sphère de 3 m (2 {s:c}) de rayon centrée sur le jeteur de sorts
-**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V]]  
+**Portée** 3 m (2 {s:c})  
+**Effet** sphère de 3 m (2 {s:c}) de rayon centrée sur le jeteur de sorts  
+**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** voir texte
----
+<hr />
 Ce sort ressemble à *[[mur prismatique]]* mais il fait apparaître un globe immobile, opaque et scintillant autour du personnage qu’il protège contre toute forme d’attaque. La sphère arbore toutes les couleurs du spectre.
 
 La [[aveuglé|cécité]] qu’elle provoque chez les créatures ayant 8 [[DV]] ou moins dure 2d4x10 minutes.

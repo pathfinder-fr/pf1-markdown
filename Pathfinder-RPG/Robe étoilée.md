@@ -10,9 +10,9 @@ Categories:
 {s:BDTitre|Robe étoilée|}
 **Aura** Multiples puissantes ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 58 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette robe est généralement noire ou bleu nuit et constellée d’étoiles brodées, blanches ou argentées. Elle offre les trois pouvoirs suivants à son porteur :
-• Elle lui permet de se rendre physiquement dans le [[plan Astral]], de même que tout ce qu’il porte sur lui ou tient à la main.
-• Elle lui confère un bonus de chance de +1 à tous les [[jet de sauvegarde|jets de sauvegarde]].
+Cette robe est généralement noire ou bleu nuit et constellée d’étoiles brodées, blanches ou argentées. Elle offre les trois pouvoirs suivants à son porteur :  
+• Elle lui permet de se rendre physiquement dans le [[plan Astral]], de même que tout ce qu’il porte sur lui ou tient à la main.  
+• Elle lui confère un bonus de chance de +1 à tous les [[jet de sauvegarde|jets de sauvegarde]].  
 • Six des étoiles brodées au niveau de la poitrine peuvent être décrochées et utilisées comme des shuriken +5. Grâce à la robe, le personnage est automatiquement formé au maniement de ces projectiles, qui disparaissent une fois utilisés et réapparaissent sur la robe une fois par mois.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[projectile magique]]*, soit *[[changement de plan]]*, soit *[[projection astrale]]* ; **Coût** 29 000 po

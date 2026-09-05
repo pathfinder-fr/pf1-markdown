@@ -57,7 +57,7 @@ cet individu s’est-il transformé en fantôme ? Qu’en disent les
 légendes ? Une rencontre avec un fantôme ne devrait jamais se
 produire par hasard : il existe un grand nombre d’autres morts-vivants
 intangibles comme les âmes-en-peine et les spectres pour
-cela.
+cela. 
 
 La rencontre avec un fantôme devrait plutôt être la scène
 culminante d’une longue période pendant laquelle des sbires
@@ -66,7 +66,7 @@ ont servi à accroître la tension. L’exemple de fantôme présenté
 ci-dessus correspond à une princesse humaine assassinée par
 un amant infidèle. Après qu’elle lui ai dit ses quatre vérités, il l’a
 enserrée de chaînes et l’a jetée dans le puits du château où elle s’est
-noyée.
+noyée. 
 
 Les capacités du fantôme ont été choisies en fonction de son
 histoire, afin de montrer qu’il est possible de créer un adversaire
@@ -80,7 +80,7 @@ intangibles de tous les objets auxquels il accordait de l’importance
 de son vivant (sauf si une autre personne est en possession des
 originaux). L’équipement d’un fantôme fonctionne normalement
 pour lui mais traverse les objets et les créatures matérielles sans
-leur causer de tort.
+leur causer de tort. 
 
 Les armes qui possèdent un bonus d’altération supérieur ou égal à +1 peuvent blesser les créatures matérielles mais
 ces attaques n’infligent que la moitié des dégâts normaux, à moins

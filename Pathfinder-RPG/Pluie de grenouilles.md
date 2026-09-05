@@ -15,28 +15,28 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** une nuée de grenouilles venimeuses
-**Durée** [[présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]
+{s:UM}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** une nuée de grenouilles venimeuses  
+**Durée** [[présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[nuée grouillante]]* mais invoque une nuée de grenouilles venimeuses. La nuée possède les mêmes statistiques qu’une [[nuée de mille-pattes]] mais elle est de [[type animal]] et son [[poison]] inflige un affaiblissement de [[Constitution]] et non de [[Dextérité]].
 
 
 
 (((
 ## Nuée grouillante
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 [[nuée daraignées|nuée d’araignées]], [[nuée de chauves-souris|de chauves-souris]] ou [[nuée de rats|de rats]]
-**Durée** [[présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 [[nuée daraignées|nuée d’araignées]], [[nuée de chauves-souris|de chauves-souris]] ou [[nuée de rats|de rats]]  
+**Durée** [[présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Cette incantation fait apparaître une [[nuée daraignées|nuée d’araignées]], [[nuée de chauves-souris|de chauves-souris]] ou [[nuée de rats|de rats]] (au choix du lanceur de sorts), qui mordent toutes les créatures se trouvant dans la [[zone deffet|zone d’effet]] (on peut convoquer la nuée de façon à ce qu’elle partage le même espace que d’autres créatures). S’il n’y a pas de créature vivante dans la zone, la nuée fait de son mieux pour attaquer ou poursuivre la créature la plus proche. Le lanceur de sorts n’a aucun contrôle sur la direction qu’elle emprunte.
 
 ### Version mythique

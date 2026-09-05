@@ -79,7 +79,7 @@ les plus capricieux, une qualité
 que les autres génies (tout
 particulièrement les [[Shaitan|shaitans]])
 considère exaspérante et même
-embarrassante pour toute la société des génies.
+embarrassante pour toute la société des génies. 
 
 De nombreux marids deviennent des danseurs, des
 conteurs, des acteurs ou toute autre sorte d’artistes.
@@ -88,7 +88,7 @@ Matériel à la recherche d’un nouveau public.
 
 Un faible pourcentage des marids sont des nobles. Les marids
 nobles, souvent appelés shahzadehs, possèdent 14 DV et
-disposent des pouvoirs magiques suivants : 3/jour — [[cône de froid]], [[tempête de grêle]] ; 1/jour —
+disposent des pouvoirs magiques suivants : 3/jour — [[cône de froid]], [[tempête de grêle]] ; 1/jour — 
 [[image permanente]], [[nuée délémentaires|nuée d’élémentaires]] (élémentaires de l’Eau seulement). Les marids nobles lancent ces
 pouvoirs magiques avec un NLS égal à 20 et ont un FP de 11.
 </div></td></tr></table>

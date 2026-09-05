@@ -4,7 +4,7 @@ Title: Équipement d’aventurier - Aventures occultes
 LastModified: 2019-10-06 15:48
 ---
 
-<table width="100%"><tr><td>
+<table width="100%"><tr><td> 
 
 <p class="tablo-caption">Équipement d’aventurier - Aventures occultes</p>
 
@@ -207,6 +207,6 @@ Cette trousse comprend un sac à dos, un sac de couchage, une bourse, dix craies
 {s:BDTitre|﻿affiche Peinte|{s:AO}}
 **Prix** : 15 po
 (((Caractéristiques)))
-Cette grande feuille de papier illustrée mesure généralement soixante centimètres de large sur quatre-vingt de long. Une affiche peinte est souvent utilisée comme outil publicitaire pour que le plus de gens possible puissent la voir. Son affichage dans une communauté confère un bonus de circonstances de +1 aux tests de [[Diplomatie]] effectués pour recueillir des informations à propos du sujet abordé par l’affiche. Si la communauté rassemble plus de 1 000 habitants, il faut accrocher une affiche de plus par tranche de 1 000 habitants supplémentaires (en totalité ou en partie) pour pouvoir bénéficier du bonus. Le prix de cet objet inclut la com*[[mission]]* versée à l’artiste suffisamment compétent pour réaliser la commande. Les copies au-delà de la première coûtent 5 pa chacune.
+Cette grande feuille de papier illustrée mesure généralement soixante centimètres de large sur quatre-vingt de long. Une affiche peinte est souvent utilisée comme outil publicitaire pour que le plus de gens possible puissent la voir. Son affichage dans une communauté confère un bonus de circonstances de +1 aux tests de [[Diplomatie]] effectués pour recueillir des informations à propos du sujet abordé par l’affiche. Si la communauté rassemble plus de 1 000 habitants, il faut accrocher une affiche de plus par tranche de 1 000 habitants supplémentaires (en totalité ou en partie) pour pouvoir bénéficier du bonus. Le prix de cet objet inclut la com*[[mission]]* versée à l’artiste suffisamment compétent pour réaliser la commande. Les copies au-delà de la première coûtent 5 pa chacune. 
 
 </td></tr></table>

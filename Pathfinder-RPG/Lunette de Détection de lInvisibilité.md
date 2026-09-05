@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Lunette de détection de l’invisibilité|{s:AE}}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 12 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette lunette se fixe sur une arme à feu à deux mains. Elle fait alors partie intégrante de l’arme mais on peut la retirer par une [[action complexe]]. Le personnage peut utiliser une [[action complexe]] pour repérer une créature invisible située dans son champ de vision ou pour effectuer un tir unique qui ne tient pas compte de l’[[États préjudiciables#Invisible|invisibilité]] d’une créature qu’il sait se trouver dans la zone.
+Cette lunette se fixe sur une arme à feu à deux mains. Elle fait alors partie intégrante de l’arme mais on peut la retirer par une [[action complexe]]. Le personnage peut utiliser une [[action complexe]] pour repérer une créature invisible située dans son champ de vision ou pour effectuer un tir unique qui ne tient pas compte de l’[[États préjudiciables#Invisible|invisibilité]] d’une créature qu’il sait se trouver dans la zone. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[vision lucide]]* ; **Coût** 6 000 po
 </div>

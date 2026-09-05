@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Même les soins du personnage sont séduisants.*
+{s:cs}{s:ISG}*Même les soins du personnage sont séduisants.* 
 
 **Conditions.** Capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie positive]], suivant de [[Calistria (technique)|Calistria]]
 

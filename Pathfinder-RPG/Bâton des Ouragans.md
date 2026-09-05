@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:14
 {s:BDTitre|Bâton des ouragans|{s:AE}}
 **Aura** [[Évocation]] faible  ; **NLS** 3 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 7.840 po ; **Poids** 2 kg
 (((Description)))
-Ce [[Bâton (arme)|bâton]] +1/+1 évidé est percé de trous minuscules qui émettent un sifflement lorsqu’on le fait tournoyer. Une fois par jour et par une [[action simple]], le personnage peut le faire tournoyer pour créer une *[[bourrasque]]* ([[Vigueur]] [[DD]] 13 annule). Un [[moine]] ou un [[ninja]] en possession d’un *bâton des ouragans* peut également dépenser 1 point de [[moine#RESERVEDEKI|ki]] pour activer ce pouvoir. Dans ce cas, le [[DD]] du [[jds|jet de sauvegarde]] est égal à 12 + le modificateur de [[Sagesse]] du personnage.
+Ce [[Bâton (arme)|bâton]] +1/+1 évidé est percé de trous minuscules qui émettent un sifflement lorsqu’on le fait tournoyer. Une fois par jour et par une [[action simple]], le personnage peut le faire tournoyer pour créer une *[[bourrasque]]* ([[Vigueur]] [[DD]] 13 annule). Un [[moine]] ou un [[ninja]] en possession d’un *bâton des ouragans* peut également dépenser 1 point de [[moine#RESERVEDEKI|ki]] pour activer ce pouvoir. Dans ce cas, le [[DD]] du [[jds|jet de sauvegarde]] est égal à 12 + le modificateur de [[Sagesse]] du personnage. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[bourrasque]]* ; **Coût** 4.220 po
 </div>

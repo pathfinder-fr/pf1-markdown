@@ -10,12 +10,12 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** créature touchée
-**Durée** permanent
+{s:PMI}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** permanent  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La *marque noire* est une malédiction particulièrement crainte par les pirates. Une tâche noire, illusoire et intangible, se forme au-dessus de la tête de la créature ciblée et reste en place jusqu’à ce qu’elle meure ou jusqu’à ce que la malédiction soit levée. La *marque noire* ne peut être recouverte ou dissimulée par aucun moyen, pas même par le biais d’une autre illusion.

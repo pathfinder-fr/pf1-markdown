@@ -10,12 +10,12 @@ Categories:
 - Sort rôdeur 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[paladin|Pal]] 3, [[prêtre|Prê]] 3, [[rôdeur|Rôd]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature/niveau, distante de moins de 9 mètres les unes des autres
-**Durée** 1 minute/niveau ou jusqu'à utilisation
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[paladin|Pal]] 3, [[prêtre|Prê]] 3, [[rôdeur|Rôd]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature/niveau, distante de moins de 9 mètres les unes des autres  
+**Durée** 1 minute/niveau ou jusqu'à utilisation  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain des stratégies offensives.*

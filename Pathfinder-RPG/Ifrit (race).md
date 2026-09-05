@@ -22,7 +22,7 @@ Humains dont les ancêtres comprennent des êtres de feu élémentaire tels que 
 
 **Aventuriers.** Les ifrits partent à l’aventure pour le frisson de la découverte et l’opportunité de mettre leurs compétences à l’épreuve contre des ennemis dignes de ce nom, mais la plupart d’entre eux sont en quête de pouvoir. Lorsqu’ils se consacrent à une tâche, ils s’y dévouent absolument et ne s’arrêtent jamais pour réfléchir aux dangers qui se dressent devant eux. Quand leur arrogance les rattrape enfin, ils se tournent souvent vers la sorcellerie ou la magie bardique pour combattre les ennuis qu’ils s’attirent.
 
-**Noms masculins.** Aja, Dénat, Éfit, Élum, Jalij, Maqej, Urah.
+**Noms masculins.** Aja, Dénat, Éfit, Élum, Jalij, Maqej, Urah.  
 **Noms féminins.** Alayi, Etwa, Maqan, Qari, Sami, Zétaya.
 
 {s:Reference|TRAITSSTANDARDS}

@@ -19,17 +19,17 @@ Les thralls – des esclaves dont le labeur s’étant sur une durée limitée �
 
 Les Ulfes raffolent de défis athlétiques ou alcooliques. Prenant souvent place à l’approche de l’hiver ou du printemps, ces compétitions sportives consistent en l’escalade de murs glacés et des courses à pied ou en traineau. Peu de gens de ce peuple savent nager même s’ils sont adeptes de la navigation et de l’aviron. Les jeux de boisson ont lieu pendant de grands festins où les hommes comparent leurs talents à vider des fûts ou des tonneaux entiers de bière, d’hydromel ou de cidre.
 
-C’est à cause de ces traditions que la plupart des étrangers voient les Ulfes comme des rustres, une idée reçue qui n’est évidemment pas toujours vraie. Ces vulgaires moments de débauche n’arrivent qu’au cours de fête arrosée et quiconque est surpris à être ivre mort en dehors de ces évènements devra faire face aux moqueries des femmes ulfenes. Une expérience que peu désirent revivre.
+C’est à cause de ces traditions que la plupart des étrangers voient les Ulfes comme des rustres, une idée reçue qui n’est évidemment pas toujours vraie. Ces vulgaires moments de débauche n’arrivent qu’au cours de fête arrosée et quiconque est surpris à être ivre mort en dehors de ces évènements devra faire face aux moqueries des femmes ulfenes. Une expérience que peu désirent revivre. 
 
 Les hommes sont généralement des rangers ou des barbares et vénèrent des divinités comme [[Erastil]] ou [[Gorum]] même si on note l'existence de quelques prêtres et druides de [[Desna]] ou [[Torag]] même si ce rôle est souvent réservé aux femmes. Un petit nombre d’entre elles peuvent d’ailleurs se joindre aux Sœurs du Vent, une troupe de jeunes filles ayant réussit à dompter des montures volantes.
 
-Même s’ils ne sont pas des héros mais plus de chasseurs ou des fermiers, les Ulfes ont un tempérament plus aventureux que la plupart des peuples des Golarion ; les [[Terres des Rois des Linnorms]] et [[Irrisen]] demandant de nombreuses compétences de survie comme trouver de la nourriture ou un abri dans le blizzard.
+Même s’ils ne sont pas des héros mais plus de chasseurs ou des fermiers, les Ulfes ont un tempérament plus aventureux que la plupart des peuples des Golarion ; les [[Terres des Rois des Linnorms]] et [[Irrisen]] demandant de nombreuses compétences de survie comme trouver de la nourriture ou un abri dans le blizzard. 
 
-Les duels sont un passe-temps très apprécié par les Ulfes ; si la plupart des conflits sont réglés au cour d’un combat où le premier à saigner est considéré comme perdant mettant fin au désaccord, certaines rivalités persistent et gangrènent plusieurs clans et familles. On a déjà observé des vendettas meurtrières toucher plusieurs générations alors leurs causes étaient aussi futiles que la manière de tresser les filets de pêche.
+Les duels sont un passe-temps très apprécié par les Ulfes ; si la plupart des conflits sont réglés au cour d’un combat où le premier à saigner est considéré comme perdant mettant fin au désaccord, certaines rivalités persistent et gangrènent plusieurs clans et familles. On a déjà observé des vendettas meurtrières toucher plusieurs générations alors leurs causes étaient aussi futiles que la manière de tresser les filets de pêche. 
 
 ### Superbe bestialité
 
-Les hommes et femmes ulfes accordent une grande importance à leur apparence, tressant leurs cheveux dans de longues nattes et enfilant des fourrures d’hermine, de vison ou de renard. Ils aiment également porter des bijoux en ambre, faits de corne de narval ou d’argent.
+Les hommes et femmes ulfes accordent une grande importance à leur apparence, tressant leurs cheveux dans de longues nattes et enfilant des fourrures d’hermine, de vison ou de renard. Ils aiment également porter des bijoux en ambre, faits de corne de narval ou d’argent. 
 
 Bien sûr on ne peut parler des Ulfes sans aborder le sujet de la lycanthropie. Etonnamment fréquente chez ce peuple, cette particularité n’est pas considérée comme une malédiction déshonorable mais plutôt comme un don des esprits. Les soirs de pleine lune, ceux qui souffrent de cette maladie et qui ne peuvent contrôler leurs pulsions meurtrières sont enfermés dans de grandes maisons cerclées d’argent et contenant assez de nourriture pour satisfaire l’appétit du loup-garou.
 
@@ -39,7 +39,7 @@ Bien sûr on ne peut parler des Ulfes sans aborder le sujet de la lycanthropie. 
 **Région :** [[Irrisen]] ; [[Terres des Rois des Linnorms]] ; [[Varisie]]{br}
 **Religion :** [[Cayden Cailéan]] ; [[Desna]] ; [[Érastil]] ; [[Gorum]] ; [[Lamashtu]] ; [[Torag]]
 
-**Description physique :** Les Ulfes ont la sombre réputation d’être des benêts musclés et silencieux à l’accent étrange. Plutôt grands, ces humains ont une peau pâle et de longs cheveux allant du blond au brun en passant par le roux. Pour eux, leur peuple est le plus raffiné et le plus beau de tout l’Avistan ; une affirmation que les autres nations trouvent odieuses mais malheureusement avérée.
+**Description physique :** Les Ulfes ont la sombre réputation d’être des benêts musclés et silencieux à l’accent étrange. Plutôt grands, ces humains ont une peau pâle et de longs cheveux allant du blond au brun en passant par le roux. Pour eux, leur peuple est le plus raffiné et le plus beau de tout l’Avistan ; une affirmation que les autres nations trouvent odieuses mais malheureusement avérée.   
 
 **Noms masculins :** Birger ; Dines ; Eilif ; Hyglak ; Kjell ; Kriger ; Ostog ; Ragnar ; Sterk ; Svalk ; Tallak ; Varg{br}
 **Noms féminins :** Asta ; Belende ; Dagny ; Gerda ; Gunda ; Hege ; Ingirt ; Jorun ; Runa ; Signe ; Tine

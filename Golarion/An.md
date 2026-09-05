@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville d'[[Osirion]] aussi appelée la "Cité des Triangles".
+Ville d'[[Osirion]] aussi appelée la "Cité des Triangles". 
 
 An a été fondée par le Pharaon Hirkoshek I en -107 AR pour abriter les ouvriers chargés de construire sa pyramide. Elle doit son surnom aux trois points formés par la ville elle-même, le complexe de pyramides du Pharaon Hirkoshek I (comprenant aussi celles plus petites des Pharaons Hirkoshek II, Zahur I et Kamaria l'Audacieux) et le [[Mont Na-Ken]].

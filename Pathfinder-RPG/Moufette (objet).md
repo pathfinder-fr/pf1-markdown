@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 5 kg
+{s:AE}**Prix** 10 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces créatures sont connues pour l’odeur extrêmement répugnante qu’elles dégagent pour éloigner les prédateurs. On garde parfois les moufettes comme animaux de compagnie mais généralement après leur avoir retiré leurs glandes exocrines.Voir les statistiques de la [[moufette]].

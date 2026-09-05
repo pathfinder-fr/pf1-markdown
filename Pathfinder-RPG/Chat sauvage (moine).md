@@ -17,13 +17,13 @@ Au niveau 3, un chat sauvage gagne un bonus de +2 aux tests d’[[initiative]] e
 #### Entraînement aux manœuvres offensives du lutteur (Ext)
 Au niveau 4, un chat sauvage dispose d’un entraînement supplémentaire à la manœuvre offensive de [[sale coup]]. Il gagne un bonus de +1 aux tests de manœuvre offensive quand il effectue cette manœuvre et un bonus de +1 à son [[DMD]] quand il se défend contre cette manœuvre.
 
-Aux niveaux 7, 10 et 16, un chat sauvage dispose d’un entraînement supplémentaire à une autre manœuvre offensive, pour laquelle il applique le bonus de +1 aux tests de manœuvres offensives et au DMD, comme indiqué ci-dessus. De plus, les bonus conférés par les entraînements aux manœuvres précédentes augmentent chacun de +1.
+Aux niveaux 7, 10 et 16, un chat sauvage dispose d’un entraînement supplémentaire à une autre manœuvre offensive, pour laquelle il applique le bonus de +1 aux tests de manœuvres offensives et au DMD, comme indiqué ci-dessus. De plus, les bonus conférés par les entraînements aux manœuvres précédentes augmentent chacun de +1. 
 - Par exemple, quand un chat sauvage atteint le niveau 7, il gagne un bonus de +1 pour un type de manœuvre offensive, +1 à son DMD contre cette manœuvre offensive et les bonus pour la manœuvre offensive de sale coup s’élèvent à +2.
 
 Cette aptitude remplace réserve de ki et sauts puissants.
 
 #### Maîtrise des armes improvisées (Ext)
-À partir du niveau 4, les dégâts infligés par un chat sauvage avec des armes improvisées augmentent. Quand il manie une arme improvisée, il applique les dégâts d’attaque à mains nues d’un moine de 4 niveaux inférieurs au lieu des dégâts de base de l’arme en question (niveau de moine minimum de 1).
+À partir du niveau 4, les dégâts infligés par un chat sauvage avec des armes improvisées augmentent. Quand il manie une arme improvisée, il applique les dégâts d’attaque à mains nues d’un moine de 4 niveaux inférieurs au lieu des dégâts de base de l’arme en question (niveau de moine minimum de 1). 
 
 - Par exemple, un chat sauvage de taille M et de niveau 6 qui manie une bouteille brisée inflige 1d6 points de dégâts et non 1d4 points de dégâts normalement infligés par ce type d’arme. Si les dégâts normaux de l’arme sont supérieurs, on ne les remplace pas. Cette augmentation des dégâts n’affecte pas les autres éventuels aspects de l’arme. Le chat sauvage peut décider d’appliquer les dégâts de base de l’arme au lieu de ses dégâts d’attaque à mains nues ajustés. Cette décision doit être prise avant d’effectuer le jet d’attaque. 
 

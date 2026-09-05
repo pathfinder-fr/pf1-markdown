@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 65 po ; **Poids** 1 kg
+{s:AE}**Prix** 65 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ces menottes sont presque impossibles à distinguer de menottes standards lorsqu'on les examine ([[Perception]] [[DD]] 25). Un porteur qui sait où se trouve le fermoir secret peut les ouvrir par une [[action simple]], sinon, elles fonctionnent comme des [[Menottes (objet)|menottes de maître]]. Certaines apparaissent comme des menottes de qualité standard mais les fausses menottes sont toujours des objets de maître.

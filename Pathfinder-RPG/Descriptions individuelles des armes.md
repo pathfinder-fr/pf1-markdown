@@ -6,7 +6,7 @@ LastModified: 2022-03-20 23:13
 
 <style>span.Catégorie { display:none; }</style>{s:MenuEquipement}*Les armes décrites ci-dessous sont celles présentées dans le [[tableau récapitulatif des armes]]. Les armes à aspersion sont décrites dans la section [[Armes alchimiques]].*
 
-Les armes marquées d'un astérisque (*) sont des [[armes orientales]].
+Les armes marquées d'un astérisque (*) sont des [[armes orientales]].  
 Les armes marquées de deux astérisques (**) sont des [[armes et armures primitives|armes primitives]].
 
 ### Armes courantes

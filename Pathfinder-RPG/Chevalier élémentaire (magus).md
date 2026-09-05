@@ -20,7 +20,7 @@ Au niveau 3, le chevalier élémentaire peut choisir ces [[arcane|arcanes du mag
 
 
 #### Matrice élémentaire (Sur)
-Au niveau 4, le chevalier élémentaire gagne [[Assaut élémentaire différentiel]] comme [[don]] supplémentaire. En outre, au niveau 4, par une [[action rapide]], il peut dépenser des rounds de durée de sa capacité [[suli (race)|assaut élémentaire]]. Par tranche de 4 rounds dépensés, il gagne 1 point à sa [[magus#RESERVEMAGIQUE|réserve magique]]. Cette capacité remplace [[magus#SOUVENIRMAGIQUE|souvenir magique]].
+Au niveau 4, le chevalier élémentaire gagne [[Assaut élémentaire différentiel]] comme [[don]] supplémentaire. En outre, au niveau 4, par une [[action rapide]], il peut dépenser des rounds de durée de sa capacité [[suli (race)|assaut élémentaire]]. Par tranche de 4 rounds dépensés, il gagne 1 point à sa [[magus#RESERVEMAGIQUE|réserve magique]]. Cette capacité remplace [[magus#SOUVENIRMAGIQUE|souvenir magique]]. 
 
 #### Arcane du magus conseillées
 Ces [[arcane|arcanes du magus]] complètent l’archétype du chevalier élémentaire : [[arcanes#magierenforcee|magie renforcée]], [[arcanes#reservedecoups|réserve de coups]], [[arcanes#boucliermagique|bouclier magique]].

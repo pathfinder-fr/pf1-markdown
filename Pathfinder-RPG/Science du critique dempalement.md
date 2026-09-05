@@ -17,7 +17,7 @@ Categories:
 
 **Avantage.** Quand le personnage utilise [[Critique dempalement|Critique d’empalement]] contre un adversaire et qu’il tient encore son arme, la victime doit faire un test de [[lutte]] contre lui pour la retirer. Si le personnage a lâché son arme, la victime doit dépenser une [[action simple]] pour l’enlever.
 
-Tant que la victime ne s’est pas débarrassée de l’arme, sa [[VD|vitesse]] est réduite de moitié, quel que soit son mode de déplacement, et sa [[Vol#SPECIAL|manœuvrabilité]] éventuelle diminue d’un cran.
+Tant que la victime ne s’est pas débarrassée de l’arme, sa [[VD|vitesse]] est réduite de moitié, quel que soit son mode de déplacement, et sa [[Vol#SPECIAL|manœuvrabilité]] éventuelle diminue d’un cran. 
 
 Quand l’arme sort, le personnage peut renoncer aux dégâts du Critique d’empalement pour infliger des dégâts de [[saignement]] une fois par round, pour un montant égal au résultat des dés de dégâts de l’arme. Ces dégâts se produisent au début du tour de la victime.
 

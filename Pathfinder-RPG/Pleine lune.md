@@ -13,12 +13,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une pincée de pierre de lune en poudre)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature humanoïde
-**Durée** 1 [[round]]/[[niveau]]
+{s:APG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une pincée de pierre de lune en poudre)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature humanoïde  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage invoque le pouvoir mystique de la lune pour plonger la cible dans une frénésie démente et bestiale. Si la cible rate son [[jet de sauvegarde]], elle est [[hébété|hébétée]] pendant 1 [[round]] et lâche tous les objets qu'elle tenait alors que ses ongles et ses dents s'allongent et s'aiguisent. La cible gagne une attaque de morsure et deux attaques de griffes qui infligent les dégâts adéquats pour une créature de sa taille. Pendant toute la durée du sort, la cible se comporte comme si elle était à la fois sous l'effet d'un sort de *[[rage]]* et d'un sort de *[[confusion]]*. Elle préfère attaquer avec ses [[armes naturelles]] plutôt que d'entreprendre toute autre action. Pendant le dernier [[round]] du sort, la cible est à nouveau [[hébété|hébétée]] avant de retourner à son état naturel.

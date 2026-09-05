@@ -30,7 +30,7 @@ La plupart des nains vénèrent essentiellement [[Torag]], le Dieu des Forges, m
 Le Gladdringgar est la tradition naine qui consiste pour un nain à graver sa rune personnelle dans la pierre de la caverne ou du souterrain le plus profond qu'il ait exploré. Ce terme signifie littéralement "rituel du labeur". Aujourd'hui; les nains les plus jeunes y font référence sous le nom de kangreddin, ou "élévation de murs". Les nains sont obsédés par le fait de laisser une marque de leur passage dans l'histoire et qu'elle se souvienne d'eux. Le plus grand respect est montré à ceux qui risquent leur vie pour aller explorer les terres de leurs ancêtres en [[Ombreterre]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des nains dans les suppléments
+Vous pourrez trouver plus d'informations à propos des nains dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Golarion.Publications#GAZETTEER|Pathfinder Chronicles: Gazetteer/Atlas]].
 - [[Golarion.Publications#COMPANIONDWARVES|Pathfinder Companion: Dwarves of Golarion]].

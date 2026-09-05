@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:06
 {s:BDTitre|Gilet du traqueur|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 6.000 po ; **Poids** 1,5 kg
 (((Description)))
-Ce gilet vert et marron est doté de poches fermées par de minuscules boutons aimantés. Le porteur ressent une bouffée d’héroïsme lorsqu’il traque une proie. Il gagne un bonus de moral de +1 au premier [[valeurs de combat#JETDATTAQUE|jet d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués avec des armes contre des créatures qu’il a traquées avec succès durant les 24 dernières heures. Si la créature est [[États préjudiciables#Prisaudépourvu|prise au dépourvue]], ce bonus s’élève à +2. Si la créature est également un [[rôdeur#ENNEMIJURE|ennemi juré]], il gagne un bonus de +4 aux jets de confirmation des coups critiques effectués contre elle.
+Ce gilet vert et marron est doté de poches fermées par de minuscules boutons aimantés. Le porteur ressent une bouffée d’héroïsme lorsqu’il traque une proie. Il gagne un bonus de moral de +1 au premier [[valeurs de combat#JETDATTAQUE|jet d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués avec des armes contre des créatures qu’il a traquées avec succès durant les 24 dernières heures. Si la créature est [[États préjudiciables#Prisaudépourvu|prise au dépourvue]], ce bonus s’élève à +2. Si la créature est également un [[rôdeur#ENNEMIJURE|ennemi juré]], il gagne un bonus de +4 aux jets de confirmation des coups critiques effectués contre elle. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[communion avec la nature]]* ; **Coût** 3.000 po
 </div>

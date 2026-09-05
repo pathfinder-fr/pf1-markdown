@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +50 po ; **Poids** spécial ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —
+{s:AE}**Prix** +50 po ; **Poids** spécial ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#33|→]] Pointes pour armure : Puis-je utiliser le combat à deux armes pour porter une attaque avec ma « main non-directrice » grâce à mes pointes pour armure dans le même round où j’utilise une arme à deux mains ?***
 
-Non. *(Retour à l'<u>[[armure à pointes (arme)|objet]]</u>)*
+Non. *(Retour à l'<u>[[armure à pointes (arme)|objet]]</u>)*  
 Pareillement, un personnage ne peut pas utiliser un gantelet d’armure de cette façon. Puisqu’il utilise ses mains pour manier son arme à deux mains, sa main non-directrice n’est pas disponible pour porter une attaque.}On peut orner son armure de [[pointes darmure (armure)|pointes]] capables d’infliger des dégâts lors d’une [[lutte]] ou d’une attaque indépendante. On ne peut pas [[désarmement|désarmer]] un personnage équipé de pointes d’armure.

@@ -169,7 +169,7 @@ Les membres de la Verte religion s'opposent avec férocité aux abominations viv
 
 </center>
 
-**Dé de vie.** d8.
+**Dé de vie.** d8. 
 
 ### Conditions requises
 Pour pouvoir devenir acolyte de la Nature, le personnage doit satisfaire aux conditions suivantes.
@@ -183,18 +183,18 @@ Pour pouvoir devenir acolyte de la Nature, le personnage doit satisfaire aux con
 **Sorts.** Capacité à lancer des sorts divins de 3e niveau.
 
 ### Compétences de classes
-Voici les compétences de classe de l'acolyte de la Nature: [[Connaissances]] (géographie) (Int), [[Connaissances]] (nature) (Int), [[Dressage]] (Cha), [[Escalade]] (For),  [[Premiers Secours]] (Sag), [[Natation]] (For) [[Survie]] (Sag), [[Vol]] (Dex).
+Voici les compétences de classe de l'acolyte de la Nature: [[Connaissances]] (géographie) (Int), [[Connaissances]] (nature) (Int), [[Dressage]] (Cha), [[Escalade]] (For),  [[Premiers Secours]] (Sag), [[Natation]] (For) [[Survie]] (Sag), [[Vol]] (Dex). 
 
 **Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe d'acolyte de la Nature.
 #### Armes et armures
-Un acolyte de la Nature ne gagne pas de formation supplémentaire au port des armes et armures.
+Un acolyte de la Nature ne gagne pas de formation supplémentaire au port des armes et armures. 
 
 {s:reference|PACTEAVECLECOMPAGNON}
 #### Pacte avec le compagnon (Ext)
-Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [[druide]] de 1 pour déterminer les capacités de son [[Druide#PACTEAVECLANATURE|compagnon animal]]. S'il n'a pas de compagnon animal, il gagne à la place un compagnon animal de druide, avec un niveau effectif de druide égal à la moitié de son niveau de classe (minimum 1).
+Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [[druide]] de 1 pour déterminer les capacités de son [[Druide#PACTEAVECLANATURE|compagnon animal]]. S'il n'a pas de compagnon animal, il gagne à la place un compagnon animal de druide, avec un niveau effectif de druide égal à la moitié de son niveau de classe (minimum 1). 
 
 {s:reference|EMPATHIESAUVAGE}
 #### Empathie sauvage (Ext)
@@ -206,7 +206,7 @@ Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [
 
 {s:reference|HIBERNATION}
 #### Hibernation (Sur)
-Au niveau 3, un acolyte de la Nature peut entrer dans un état d'animation suspendue par une [[action complexe]]. Cet état est similaire à l'effet de *[[sceau du serpent]]* sauf que l'acolyte est conscient des changements dans ses alentours ou des dégâts faits à son corps comme s'il était profondément endormi. Il peut sortir de cet état n'importe quand par une action complexe. S'il reste en hibernation pendant au moins une semaine avant d'émerger, son corps est renouvelé comme s'il était affecté par les sorts *[[guérison suprême]]* et *[[restauration]]*. Un acolyte de la Nature peut rester dans cet état 1 semaine par niveau de classe, après quoi il doit attendre 1 jour par semaine passée à hiberner pour pouvoir utiliser cette capacité à nouveau.
+Au niveau 3, un acolyte de la Nature peut entrer dans un état d'animation suspendue par une [[action complexe]]. Cet état est similaire à l'effet de *[[sceau du serpent]]* sauf que l'acolyte est conscient des changements dans ses alentours ou des dégâts faits à son corps comme s'il était profondément endormi. Il peut sortir de cet état n'importe quand par une action complexe. S'il reste en hibernation pendant au moins une semaine avant d'émerger, son corps est renouvelé comme s'il était affecté par les sorts *[[guérison suprême]]* et *[[restauration]]*. Un acolyte de la Nature peut rester dans cet état 1 semaine par niveau de classe, après quoi il doit attendre 1 jour par semaine passée à hiberner pour pouvoir utiliser cette capacité à nouveau. 
 
 {s:reference|DOMINATIONDELANATURE}
 #### Domination de la nature (Sur)
@@ -218,7 +218,7 @@ Au niveau 5, lorsqu'il lance un sort divin avec une zone d'effet, un acolyte de 
 
 {s:reference|IMMUNITEAUVENIN}
 #### Immunité au venin (Ext)
-Au niveau 6, un acolyte de la Nature gagne l'[[Immunité (capacité)|immunité]] à tous les [[poisons]].
+Au niveau 6, un acolyte de la Nature gagne l'[[Immunité (capacité)|immunité]] à tous les [[poisons]]. 
 
 {s:reference|FLEAUDESABOMINATIONS}
 #### Fléau des abominations (Sur)
@@ -230,11 +230,11 @@ Au niveau 8, un acolyte de la Nature peut devenir [[Ressources.Lorganisation-des
 
 {s:reference|GRANDDRUIDE}
 #### Grand druide
-Au niveau 9, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Grand druide]] de la même manière qu'avec le titre d'Archidruide. Il abandonne le titre de Grand druide quand il devient Haut-Druide. Un acolyte de la nature doit obtenir le titre de Grand druide avant de pouvoir passer au niveau 10 de la classe.
+Au niveau 9, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Grand druide]] de la même manière qu'avec le titre d'Archidruide. Il abandonne le titre de Grand druide quand il devient Haut-Druide. Un acolyte de la nature doit obtenir le titre de Grand druide avant de pouvoir passer au niveau 10 de la classe. 
 
 {s:reference|HAUTDRUIDE}
 #### Haut-Druide (Sur)
-Au niveau 10, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Haut-Druide]] de la même façon qu'avec Archidruide et Grand druide. Chaque jour, le Haut-Druide peut préparer 10 niveaux de sort supplémentaires de sorts divins, ou lancer 10 niveaux supplémentaires de sorts divins s'il est un lanceur de sorts spontanés, choisis de niveaux de sorts qu'il est déjà capable de lancer. Il perd cette capacité s'il perd le titre de Haut-Druide.
+Au niveau 10, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Haut-Druide]] de la même façon qu'avec Archidruide et Grand druide. Chaque jour, le Haut-Druide peut préparer 10 niveaux de sort supplémentaires de sorts divins, ou lancer 10 niveaux supplémentaires de sorts divins s'il est un lanceur de sorts spontanés, choisis de niveaux de sorts qu'il est déjà capable de lancer. Il perd cette capacité s'il perd le titre de Haut-Druide. 
 
 {s:reference|LONGEVITE}
 #### Longévité (Ext)

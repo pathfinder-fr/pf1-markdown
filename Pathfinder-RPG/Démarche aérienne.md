@@ -12,27 +12,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** 10 minutes/[[niveau]]
+{s:APG}**École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]],  [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
----
+<hr />
 Pendant toute la durée du sort, le sujet ignore les effets négatifs dus au [[terrain difficile]] et peut même faire un pas de placement de 1,50 mètre (1 {s:c}) sur ce type de terrain.
 
 
 
 ((({s:sortssimilaires|démarche aérienne}
 ## [[Démarche aérienne de groupe]]
-{s:APG}**École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 10 minutes/[[niveau]]
+{s:APG}**École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[démarche aérienne]]* mais il affecte plusieurs créatures.
 )))

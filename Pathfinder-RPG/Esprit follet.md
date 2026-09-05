@@ -49,41 +49,41 @@ Categories:
 </td><td><div>
 *Cette créature agile et minuscule ressemble à un humanoïde avec de frêles ailes de papillon et de longues et fines oreilles pointues.*
 
-Les esprits follets vivent en groupe au fin fond des terres
-recouvertes de forêts, prenant tous fait et cause pour
-la défense de la nature. Des tribus entières
-d’esprit follets se posent d’elles-mêmes
-en protectrices de certaines personnes,
-de certains endroits ou de créatures
-d’importance vivant sur leurs terres, même
-si ces êtres ne veulent pas ou n’ont pas besoin
+Les esprits follets vivent en groupe au fin fond des terres 
+recouvertes de forêts, prenant tous fait et cause pour 
+la défense de la nature. Des tribus entières 
+d’esprit follets se posent d’elles-mêmes 
+en protectrices de certaines personnes, 
+de certains endroits ou de créatures 
+d’importance vivant sur leurs terres, même 
+si ces êtres ne veulent pas ou n’ont pas besoin 
 d’être protégés.
-Le corps des esprits follets est naturellement lumineux, même
-s’ils peuvent contrôler la couleur et l’intensité de leur lumière
-corporelle comme ils le souhaitent. Lorsqu’un esprit follet
-meurt, son corps se dissipe très vite en une vapeur scintillante.
-Les esprits follets font partie des fées les plus petites, mesurant
-à peine plus de 27 centimètres de haut pour 500 grammes ou 1
+Le corps des esprits follets est naturellement lumineux, même 
+s’ils peuvent contrôler la couleur et l’intensité de leur lumière 
+corporelle comme ils le souhaitent. Lorsqu’un esprit follet 
+meurt, son corps se dissipe très vite en une vapeur scintillante. 
+Les esprits follets font partie des fées les plus petites, mesurant 
+à peine plus de 27 centimètres de haut pour 500 grammes ou 1 
 kilo.
-Les esprits follets sont plus primitifs que la plupart des fées,
-à plusieurs niveaux. Ils adorent être en compagnie les uns des
-autres mais ont tendance à se méfier des autres fées et partent
-du principe que les humanoïdes, et toutes les autres créatures,
-qu’ils n’ont pas expressément choisi de protéger leur veulent
-du mal. Même les animaux sont généralement vus comme des
-créatures dangereuses. Tout ceci s’explique surtout par la taille
-minuscule des esprits follets qui en fait des cibles de choix pour
-les prédateurs. De ce fait, un esprit follet face au danger prend
-généralement la fuite : il se sert de ses pouvoirs magiques pour
-retarder ou distraire ses poursuivants et s’appuie sur sa vitesse de
+Les esprits follets sont plus primitifs que la plupart des fées, 
+à plusieurs niveaux. Ils adorent être en compagnie les uns des 
+autres mais ont tendance à se méfier des autres fées et partent 
+du principe que les humanoïdes, et toutes les autres créatures, 
+qu’ils n’ont pas expressément choisi de protéger leur veulent 
+du mal. Même les animaux sont généralement vus comme des 
+créatures dangereuses. Tout ceci s’explique surtout par la taille 
+minuscule des esprits follets qui en fait des cibles de choix pour 
+les prédateurs. De ce fait, un esprit follet face au danger prend 
+généralement la fuite : il se sert de ses pouvoirs magiques pour 
+retarder ou distraire ses poursuivants et s’appuie sur sa vitesse de 
 vol et sa petite taille pour s’échapper.
-Si les esprits follets sont eux-mêmes assez rustres et sauvages
-de nature, ils font preuve d’une grande curiosité pour toutes
-les choses magiques. Ils sont particulièrement attirés par les
-sites de grande puissance magique à l’état latent, tels que les
-ruines d’anciens temples. Leur curiosité les rend étonnamment
-réceptifs au rôle de familier. Un lanceur de sorts de niveau 5
-et d’alignement Chaotique Neutre possédant le don Familier
+Si les esprits follets sont eux-mêmes assez rustres et sauvages 
+de nature, ils font preuve d’une grande curiosité pour toutes 
+les choses magiques. Ils sont particulièrement attirés par les 
+sites de grande puissance magique à l’état latent, tels que les 
+ruines d’anciens temples. Leur curiosité les rend étonnamment 
+réceptifs au rôle de familier. Un lanceur de sorts de niveau 5 
+et d’alignement Chaotique Neutre possédant le don Familier 
 supérieur pour avoir un esprit follet pour familier.
 
 </div></td></tr></table>

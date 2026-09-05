@@ -112,7 +112,7 @@ Betzébbul, le palais de Belzébuth, au Cocyte. Dans ces
 entrepôts hérétiques et ces académies du Mal, ces diables
 grotesques réécrivent l’histoire de mondes innombrables en
 d’obscures vérités et déforment le passé selon les désirs des
-Enfers.
+Enfers. 
 Conservateur grotesque et spécial, chaque ayngavhaul
 est très fier de se spécialiser dans des domaines
 auxquels aucun de ses frères n’a jamais pensé à
@@ -121,7 +121,7 @@ blasphématoires, mieux c’est. Ainsi, un diable peut
 passer des éons à apprendre tout ce qu’il y a à savoir
 sur les poisons de glace des linnorms tandis qu’un
 autre peut rechercher les nuances de déchirement
-de voix des Azlants.
+de voix des Azlants. 
 Chacun cherche à promouvoir son champ de recherche spécifique, disséminant
 sa connaissance dans ses travaux blasphématoires et
 auprès des sbires et des invocateurs qui pourraient utiliser

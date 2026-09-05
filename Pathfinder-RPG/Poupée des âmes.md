@@ -55,7 +55,7 @@ Categories:
 </td><td><div>*Quand cette poupée prend vie et se met à bouger avec grâce, on peut voir ses yeux de verre briller de curiosité.*
 
 Ces petites poupées intelligentes contiennent un fragment de l’âme d’une autre personne. Le processus qui permet de lier la poupée et l’âme élimine une grande partie des caractéristiques de cette dernière, produisant une poupée des âmes qui ressemble à une ardoise vierge. Malgré cela, quelques fragments de la personnalité originale persistent.
-Les poupées des âmes peuvent faire office de compagnons, de familiers, d’enfants de substitution, de serviteurs, de gardes et de sentinelles selon les désirs de leurs créateurs. Ceux qui fabriquent une poupée des âmes prennent généralement bien soin d’employer des fragments d’âme provenant d’individus dotés de traits de caractère qu’ils désirent retrouver dans la poupée.
+Les poupées des âmes peuvent faire office de compagnons, de familiers, d’enfants de substitution, de serviteurs, de gardes et de sentinelles selon les désirs de leurs créateurs. Ceux qui fabriquent une poupée des âmes prennent généralement bien soin d’employer des fragments d’âme provenant d’individus dotés de traits de caractère qu’ils désirent retrouver dans la poupée. 
 
 ### Construction
 

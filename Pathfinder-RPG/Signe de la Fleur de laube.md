@@ -14,12 +14,12 @@ Categories:
 
 {s:cs}{s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Rôdeur|Rôd]] 1 (Déesse du soleil)
-**Temps d'incantation**  1 [[action simple]]
-**Composantes** [[composantes|V, F]] (le symbole sacré du personnage ou une représentation du symbole sacré de la déesse du soleil ou de la déesse elle-même)
-**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature/niveau
-**Durée** 1 heure/niveau
+**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Rôdeur|Rôd]] 1 (Déesse du soleil)  
+**Temps d'incantation**  1 [[action simple]]  
+**Composantes** [[composantes|V, F]] (le symbole sacré du personnage ou une représentation du symbole sacré de la déesse du soleil ou de la déesse elle-même)  
+**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature/niveau  
+**Durée** 1 heure/niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[message]]* mais la seule information que le personnage peut transmettre est son appartenance au culte de la déesse du soleil. Une fois prévenue, la cible répondre qu’elle a compris. Le sort transmet une signification (et non des sons) qui transcende la barrière des langues.

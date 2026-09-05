@@ -9,12 +9,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 3
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[Composantes|V, G]]
-**Portée** 6 m (4 {s:c})
-**Zone** rayonnement de 6 m (4 {s:c}) de rayon centré sur le lanceur de sorts
-**Durée** [[instantanée]]
+{s:APG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 3  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** 6 m (4 {s:c})  
+**Zone** rayonnement de 6 m (4 {s:c}) de rayon centré sur le lanceur de sorts  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ;** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui rend 2d6 points de vie à tous les alliés situés dans la zone d'effet. Ce sort n'a aucun effet sur les créatures [[type mort-vivant|mortes-vivantes]].

@@ -38,7 +38,7 @@ Lorsqu’un objet subit des dégâts supérieurs à la moitié de ses [[Explorat
 - Si c’est une baguette ou un bâton, il consomme le double de charges.
 - S’il n’appartient à aucune des catégories précédentes, cela n’a aucun effet sur son utilisation, mais il perd 25% de sa valeur. 
 
-Si c’est un objet magique, seuls les sorts *[[réparation]]* ou *[[réparation intégrale]]* pourront lui rendre son intégrité, et ce uniquement si le [[NLS|niveau de lanceur de sorts]] du personnage qui souhaite le réparer est égal ou supérieur à celui de l’objet. Cet état préjudiciable disparaît lorsque l’objet retrouve grâce au sort au moins la moitié de ses [[pv|points de vie]].
+Si c’est un objet magique, seuls les sorts *[[réparation]]* ou *[[réparation intégrale]]* pourront lui rendre son intégrité, et ce uniquement si le [[NLS|niveau de lanceur de sorts]] du personnage qui souhaite le réparer est égal ou supérieur à celui de l’objet. Cet état préjudiciable disparaît lorsque l’objet retrouve grâce au sort au moins la moitié de ses [[pv|points de vie]]. 
 
 Un objet ordinaire peut être réparé de la même manière par le biais de la compétence d’[[Artisanat]] appropriée. Dans ce cas, on effectue ce test au bout d’une heure de travail par point de vie à restaurer, et son [[DD]] est de 20. La plupart des artisans demandent 10 % de la valeur de l’objet pour ce travail, parfois plus s’il est en très mauvais état.
 
@@ -211,7 +211,7 @@ Le personnage a contracté un ou plusieurs [[niveau négatif|niveaux négatifs]]
 
 {s:um}
 ### Règle optionnelle : les avantages des états préjudiciables
-Un lanceur de sorts plein de ressources fait appel à son expérience pour augmenter la puissance de sa magie. Si le MJ est d’accord, les [[États préjudiciables]] peuvent également fournir des avantages, tout comme certaines [[plaies]] magiques.
+Un lanceur de sorts plein de ressources fait appel à son expérience pour augmenter la puissance de sa magie. Si le MJ est d’accord, les [[États préjudiciables]] peuvent également fournir des avantages, tout comme certaines [[plaies]] magiques. 
 
 Si les indications suivantes imposent un risque d’échec des sorts, il s’ajoute aux autres jets à faire pour réussir une incantation (comme un test de [[niveau de lanceur de sorts]] et les risques d’échec des sorts profanes). Ce risque s’applique une fois ces jets effectués.
 

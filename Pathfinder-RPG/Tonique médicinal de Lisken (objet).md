@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 10 po ; **Poids** —
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 10 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Ce léger sédatif est normalement utilisé contre les insomnies : il rend le buveur plus calme et silencieux, moins enclin à entreprendre des actions précipitées. Un verre de tonique inflige un malus de -4 aux [[initiative|tests d’initiative]] du [[Halfelin]] pendant 10 minutes, mais lui donne un bonus alchimique de +2 à ses tests de [[Discrétion]] pendant le même temps.

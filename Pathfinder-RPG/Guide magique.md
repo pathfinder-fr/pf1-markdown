@@ -14,7 +14,7 @@ Categories:
 {s:BDTitre|Guide magique|{s:CCMI}{s:RSE}}
 **Aura** [[Évocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 500 po ; **Poids** 0,5 kg
 (((Description)))
-{s:Desambi|Le terme officiel guide a été remplacé par guide magique car guide est déjà le nom d'un [[Guide|sort]].}Petit objet magique reconstruit à partir d’anciennes reliques, un guide est habituellement fait d’argent nuancé d’or. Par un mot de commande, vous pouvez lancer le sort *[[lumière]]* pour le faire briller. Le guide agit aussi comme une boussole (magnétique) non magique, qui accorde un bonus de circonstance de +2 aux tests de [[Survie]] pour éviter de se perdre.
+{s:Desambi|Le terme officiel guide a été remplacé par guide magique car guide est déjà le nom d'un [[Guide|sort]].}Petit objet magique reconstruit à partir d’anciennes reliques, un guide est habituellement fait d’argent nuancé d’or. Par un mot de commande, vous pouvez lancer le sort *[[lumière]]* pour le faire briller. Le guide agit aussi comme une boussole (magnétique) non magique, qui accorde un bonus de circonstance de +2 aux tests de [[Survie]] pour éviter de se perdre. 
 
 En plus de leurs propriétés habituelles, les *guides* entretiennent une mystérieuse synergie avec les pierres iouns. Quand on insère une [[pierre ioun]] dans l’emplacement spécial d’un guide, non seulement le propriétaire de la boussole bénéficie des mêmes effets que si la pierre était en orbite autour de sa tête mais, en plus, la [[Pouvoirs résonants|résonance]] entre les deux objets déclenche généralement un autre pouvoir.
 (((Création)))

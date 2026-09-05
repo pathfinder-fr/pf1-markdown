@@ -8,7 +8,7 @@ LastModified: 2024-06-14 23:16
 {s:BDTitre|Maillet de bâtisseur|{s:AE}}
 **Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5 000 po ; **Poids** 1 kg
 (((Description)))
-Ce maillet de bâtisseur imposant est doté d’un manche en bois et d’une tête en fer noir et brillant qui prend une teinte légèrement rougeâtre lorsqu’il est placé à proximité d’un métal. Son manipulateur peut, par une [[action complexe]], utiliser le maillet pour créer et planter dans l’instant un clou de cuivre, une pointe de fer, un piton de fer ou un piquet de clôture en bois de 1,20 mètre de long. Le piquet de clôture ainsi crée peut s’enfoncer dans la terre, les autres objets dans la terre, le bois ou la pierre. Si on retire un objet créé, il se désintègre, sinon, il reste en place aussi longtemps qu’un objet ordinaire identique. Le maillet peut créer jusqu’à 100 objets par jour.
+Ce maillet de bâtisseur imposant est doté d’un manche en bois et d’une tête en fer noir et brillant qui prend une teinte légèrement rougeâtre lorsqu’il est placé à proximité d’un métal. Son manipulateur peut, par une [[action complexe]], utiliser le maillet pour créer et planter dans l’instant un clou de cuivre, une pointe de fer, un piton de fer ou un piquet de clôture en bois de 1,20 mètre de long. Le piquet de clôture ainsi crée peut s’enfoncer dans la terre, les autres objets dans la terre, le bois ou la pierre. Si on retire un objet créé, il se désintègre, sinon, il reste en place aussi longtemps qu’un objet ordinaire identique. Le maillet peut créer jusqu’à 100 objets par jour. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[création mineure]]* ; **Coût** 2 500 po
 </div>

@@ -10,8 +10,8 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[voeux]].***
-***Voir la [[Moine unchained|version unchained]] du moine.***
+<div class="fright">***Voir aussi les [[voeux]].***  
+***Voir la [[Moine unchained|version unchained]] du moine.***  
 {s:PM0|moine}**Voir les archétypes du moine**&emsp;
 <li ID="moine" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypemoine}</li>
 </div>*Pour certains individus réellement exemplaires, l’art du combat ne se limite pas au champ de bataille : il s’agit d’un mode de vie, d’une doctrine, d’un état d’esprit. Ces artistes-combattants recherchent des méthodes de combat qui transcendent les épées et les boucliers. Ils découvrent que la nature les a dotés d’armes tout aussi capables d’affaiblir ou de tuer que les lames. Il s’agit des moines, qu’on appelle ainsi parce qu’ils adhèrent à d’anciennes philosophies et à une discipline martiale stricte. Qu’il s’agisse d’ascètes avec un penchant pour le combat ou de pugilistes qui ont appris sur le tas, ils font de leur corps de véritables armes de guerre. Les moines suivent la voie de la discipline, et ceux qui possèdent suffisamment de volonté pour rester sur ce chemin découvrent en eux non pas qui ils sont, mais ce qu’ils sont destinés à devenir.*
@@ -336,17 +336,17 @@ Ces bonus à la [[CA]] s’appliquent aussi contre les [[attaque de contact|atta
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#19|→]] Moine, Déluge de coups : Comment le BBA amélioré des moines lorsqu’ils portent un déluge interagit-il avec les dons comme Attaque en puissance et Expertise du combat, qui ont des effets différents selon le BBA du personnage ?***
 
 Le <u>[[Moine#DELUGEDECOUPS|moine]]</u> utilise le BBA amélioré de son déluge pour déterminer les effets de ces dons.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#20|→]] Moine, Déluge de coups : Les règles de moine sur le déluge stipulent : « Pour déterminer les bonus de ces attaques, on considère que le bonus de base à l’attaque du moine est égal à son niveau de moine. » Comment cela interagit-il avec le BBA des niveaux de classe et des Dés de Vie raciaux ? Est-ce qu’un personnage multiclassé guerrier 19/moine 1 porte un déluge comme si son BBA n’était que de +1 ?***
 
 Un moine utilisant son <u>[[Moine#DELUGEDECOUPS|déluge]]</u> traite le BBA de ses niveaux de moine comme égal à son niveau de moine. Il ajoute toujours le BBA des autres sources (comme celui d’autres classes ou de Dés de Vie raciaux) normalement à ce total.
 
 Donc si un guerrier 19/moine 1 a un BBA normal de +19. Lorsqu’il porte un déluge, il traite son BBA de moine comme +1 (pour 1 niveau de moine) et bénéficie quand même du BBA +19 de ses niveaux de guerrier, pour un BBA de déluge total de +20.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#21|→]] Moine, Déluge de coups : Lorsque j’utilise le déluge de coups, puis-je porter toutes les attaques avec une seule arme, ou dois-je en utiliser deux, comme il est sous-entendu que la capacité fonctionne comme Combat à deux armes ?***
 
 Le personnage peut porter toutes ses attaques avec une unique arme de moine. Sinon, il peut remplacer autant d’attaques qu’il le souhaite par des attaques à mains nues. Cette FAQ change expressément une décision antérieure prise sur le blog à propos de ce problème. *(Retour à la <u>[[Moine#DELUGEDECOUPS|capacité]]</u>)*
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#22|→]] Moine, Déluge de coups et réserve de ki : Est-ce que l’attaque supplémentaire obtenue par la dépense de ki dans le cadre d’un déluge de coups se cumule avec l’attaque supplémentaire de *rapidité* ?***
 
 Oui. L’attaque supplémentaire décrite dans la capacité [[Moine#RESERVEDEKI|réserve de ki]] ne dit pas qu’elle fonctionne comme *[[rapidité]]*, ni qu’elle ne se cumule pas avec *rapidité*, donc le moine obtiendrait deux attaques supplémentaires (une par la dépense de ki dans le cadre d’un <u>[[Moine#DELUGEDECOUPS|déluge de coups]]</u>, et une par *rapidité*).}Dès le niveau 1, un moine peut faire pleuvoir un déluge de coups lors d’une [[attaque à outrance]]. Dans ce cas, il peut porter une attaque supplémentaire à condition d'accepter une pénalité de -2 sur tous ses jets d'attaque, comme s'il utilisait le don [[Combat à deux armes]]. Les attaques en question peuvent être n'importe quelle combinaison d'attaques à mains nues et d'attaques utilisant des [[Groupe darmes#Armesdemoine|armes de moine]] (il n'est pas nécessaire d'utiliser deux armes différentes pour tirer parti de cette capacité). Pour déterminer les bonus de ces attaques, on considère que le [[BBA|bonus de base à l’attaque]] du moine est égal à son niveau de moine. Pour toutes les autres considérations (comme pour déterminer si le moine remplit les conditions d’un don ou d’une classe de prestige), le moine utilise son [[BBA|bonus de base à l’attaque]] normal.
@@ -390,9 +390,9 @@ Aux niveaux 1 et 2 et tous les quatre niveaux suivants, un moine peut choisir un
 
 Ces dons doivent être choisis dans la liste suivante : [[Attaques réflexes]], [[École du scorpion]], [[Esquive]], [[Lancer improvisé]], [[Parade de projectiles]], [[Science de la lutte]] et [[Surprise]].
 
-Au niveau 6, les dons suivants s’ajoutent à la liste : [[Poing de la gorgone]], [[Science de la bousculade]], [[Science de la feinte]], [[Science du croc-en-jambe]], [[Science du désarmement]] et [[Souplesse du serpent]].
+Au niveau 6, les dons suivants s’ajoutent à la liste : [[Poing de la gorgone]], [[Science de la bousculade]], [[Science de la feinte]], [[Science du croc-en-jambe]], [[Science du désarmement]] et [[Souplesse du serpent]]. 
 
-Au niveau 10, les dons suivants s’ajoutent à la liste : [[Attaque éclair]], [[Fureur de la méduse]], [[Capture de projectiles]], [[Lancer ki]]<sup>APG</sup> et [[Science du critique]].
+Au niveau 10, les dons suivants s’ajoutent à la liste : [[Attaque éclair]], [[Fureur de la méduse]], [[Capture de projectiles]], [[Lancer ki]]<sup>APG</sup> et [[Science du critique]]. 
 
 Au niveau 14, le don suivant s'ajoute à cette liste : [[Science du lancer ki]]<sup>APG</sup>, [[Entrave à distance]]<sup>AdG</sup>
 
@@ -424,11 +424,11 @@ Un moine de niveau 3 bénéficie d’un bonus de +2 aux [[jet de sauvegarde|jets
 
 [[FAQ- Manuel des joueurs (Races et classes)#32|→]] Réserve de ki du moine : Quels types de réduction de dégâts un moine peut-il ignorer grâce à cette capacité ?**'
 
-Les moines ont souvent des problèmes à ignorer les [[RD]] avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[[Moine#RESERVEDEKI|réserve de ki]]</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.
-Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around).}À partir du niveau 4, le moine dispose d’une réserve de points ki, une énergie surnaturelle qu’il peut utiliser pour accomplir des exploits étonnants. Cette réserve contient un nombre de points égal à la moitié du niveau du moine + son modificateur de [[Sagesse]]. Tant qu’il reste au moins 1 point ki dans la réserve du moine, celui-ci peut effectuer une frappe ki.
+Les moines ont souvent des problèmes à ignorer les [[RD]] avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[[Moine#RESERVEDEKI|réserve de ki]]</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.  
+Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around).}À partir du niveau 4, le moine dispose d’une réserve de points ki, une énergie surnaturelle qu’il peut utiliser pour accomplir des exploits étonnants. Cette réserve contient un nombre de points égal à la moitié du niveau du moine + son modificateur de [[Sagesse]]. Tant qu’il reste au moins 1 point ki dans la réserve du moine, celui-ci peut effectuer une frappe ki. 
 Au niveau 4, les attaques à mains nues lors d’une frappe ki sont considérées comme des [[armes magiques]] pour ce qui est d’ignorer la [[RD|réduction de dégâts des créatures]].
 Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la [[RD|réduction de dégâts des créatures]].
-Au niveau 10, ses attaques à mains nues sont également considérées comme des armes Loyales pour déterminer si elles ignorent les [[RD|réductions de dégâts]].
+Au niveau 10, ses attaques à mains nues sont également considérées comme des armes Loyales pour déterminer si elles ignorent les [[RD|réductions de dégâts]]. 
 Au niveau 16, elles sont considérées comme des armes en [[adamantium]] pour déterminer si elles ignorent les [[RD|réductions de dégâts]] ou la [[solidité]] des objets.
 
 En dépensant 1 point de sa réserve de ki, le moine peut ajouter une attaque supplémentaire à un déluge de coups (cette attaque supplémentaire utilise son bonus d’attaque le plus élevé). Il peut également dépenser 1 point pour augmenter sa vitesse de déplacement de 6 m pendant 1 round. Finalement, le moine peut dépenser 1 point de sa réserve de ki pour gagner un bonus d’esquive de +4 à sa [[CA]] pendant 1 round. Chacune de ces options requiert une [[action rapide]]. D’autres manières d’utiliser les points ki s’offrent au moine lorsqu’il progresse en niveau.

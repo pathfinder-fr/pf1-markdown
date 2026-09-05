@@ -8,9 +8,9 @@ LastModified: 2024-05-27 16:29
 {s:AE}{s:BDTitre|Bâton de déplacement|}
 **Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 54 400 po ; **Poids** 1,5 kg
 (((Description)))
-Ce bâton n’est apparemment rien d’autre qu’une canne finement taillée, mais quand on le regarde de plus près, il s’avère incrusté de fines nervures de cuivre formant une carte magique compliquée et incompréhensible. Il permet d’utiliser les sorts suivants.
-• *[[porte dimensionnelle]]* (1 charge)
-• *[[sort vol|vol]]* (1 charge)
+Ce bâton n’est apparemment rien d’autre qu’une canne finement taillée, mais quand on le regarde de plus près, il s’avère incrusté de fines nervures de cuivre formant une carte magique compliquée et incompréhensible. Il permet d’utiliser les sorts suivants.  
+• *[[porte dimensionnelle]]* (1 charge)  
+• *[[sort vol|vol]]* (1 charge)  
 • *[[téléportation]]* (2 charges)
 
 En plus de ces sorts, le porteur du *bâton de déplacement* reçoit un bonus d’altération de +3 mètres à sa vitesse de base.

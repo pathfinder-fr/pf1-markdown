@@ -17,17 +17,17 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** 1 minute/[[niveau]]
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#14|→]] *Image miroir* : Puis-je utiliser *projectile magique* pour détruire une ou plusieurs images d’un sort d’*image miroir* ?***
 
 Non. *[[projectile magique]]* cible une créature et n’impose pas de jet d’attaque, donc il ignore toutes les <u>[[image miroir|images]]</u> et touche toujours la vraie créature.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#15|→]] *Image miroir* et chance d’échec au toucher : Si j’ai une chance d’échec au toucher et une image miroir, comment je les combine ?***
 
 Les chances d’échec au toucher ne s’appliquent généralement que quand l’attaque réussit. Pour la plupart des chances d’échec au toucher, comme *[[flou]]*, il est inutile de les lancer si une attaque devrait toucher une <u>*[[image miroir]]*</u> puisqu’un toucher et un échec de 5 ou moins détruiraient tout deux l’image. La seule exception à cette règle est *[[clignotement]]* et les effets similaires, qui impliquent d’autres exceptions par rapport aux chances d’échec au toucher dues au déplacement dans un autre plan (par exemple, contrairement aux autres chances d’échec au toucher, *clignotement* protège le personnage contre les effets ciblés). Les 50 % de chances d’être sur le Plan Éthéré protègent autant le lanceur que les images.}Ce sort fait apparaître plusieurs copies illusoires du personnage dans l’espace qu’il occupe. À cause de la présence de ces sosies, ses ennemis éprouvent des difficultés à le localiser précisément.
@@ -44,13 +44,13 @@ Le nombre maximum d’images générées par ce sort s’élève à 12. La destr
 
 ((({s:sortssimilaires|image miroir}
 ## [[Image de foudre]]
-{s:UC}**École** [[Illusion]] ([[Branche chimère|chimère]]) <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki>; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le lanceur de sorts
-**Durée** 1 minute/[[niveau]]
+{s:UC}**École** [[Illusion]] ([[Branche chimère|chimère]]) <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki>; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le lanceur de sorts  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** non ; **Résistance à la magie** voir texte
----
+<hr />
 Ce sort fonctionne comme *[[image miroir]]* mais le double illusoire envoie une décharge électrique quand on le détruit. Si un adversaire utilise une attaque de corps à corps pour détruire une image, il subit 2d6 points de dégâts d’électricité. Le personnage doit franchir la résistance à la magie de la cible quand il tente de lui infliger des dégâts d’électricité pour la première fois. En cas d’échec, la cible est immunisée contre les dégâts de ce sort.
 )))

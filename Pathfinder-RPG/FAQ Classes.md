@@ -63,7 +63,7 @@ Je voudrais dire qu'un [[compagnon animal]] ne devrait obtenir aucun don gratuit
 
 **Q : Un [[compagnon animal]] obtient t-il les modificateurs raciaux des animaux normaux.  Par exemple, un [[compagnon animal]] aigle obtient t-il toujours son modificateur racial de [[Perception]] de +8 ?**
 
-R : (James Jacobs 03/01/2009) Ouaip : Ils sont inscrits dans le patrimoine génétique de l'animal. Cependant si l'animal de base a des [[dons]] bonus, le [[compagnon animal]] ne les obtient pas (il doit les gagner et ces dons devraient donc être choisi en priorité afin de respecter le profil de l'animal). Les [[compagnons animaux]] sont différents des animaux "normaux", après tout, et sont construit selon des règles différentes.
+R : (James Jacobs 03/01/2009) Ouaip : Ils sont inscrits dans le patrimoine génétique de l'animal. Cependant si l'animal de base a des [[dons]] bonus, le [[compagnon animal]] ne les obtient pas (il doit les gagner et ces dons devraient donc être choisi en priorité afin de respecter le profil de l'animal). Les [[compagnons animaux]] sont différents des animaux "normaux", après tout, et sont construit selon des règles différentes. 
 
 **Q : J'essayais de créer un [[compagnon animal]] cheval lorsque j'ai réalisé que, dans les [[compagnons animaux]] du [[druide]], le développement au niveau 4 indique : "entraîné au combat (voir *Bestiaire* Pathfinder)". J'ai recherché dans le *Bestiaire* mais n'ai pas trouvé trace de ce don. A quoi exactement cela fait-il référence dans le bestiaire ?**
 
@@ -80,7 +80,7 @@ R : (Ross Byers) C'est dans la version papier, mais ni le PDF ni le PRD ne le mo
 
 **Q : [[Lignage Aberrant]] - Longs membres. Est-ce sensé supposer qu'au niveau 11, l'[[allonge]] du personnage augmente de 3 m (2 {s:c}), et qu'au niveau 17 elle est augmentée de 4,50 m (3 {s:c}) ?**
 
-R : (Jason Bulmahn) Les valeurs suivantes sont correctes et oui, c'est supposer être un peu effrayant lorsqu'on l'utilise.
+R : (Jason Bulmahn) Les valeurs suivantes sont correctes et oui, c'est supposer être un peu effrayant lorsqu'on l'utilise. 
 
 <table CLASS="tablo">
   <caption>Tableau des allonges du lignage Aberrant</caption>
@@ -94,7 +94,7 @@ R : (Jason Bulmahn) Les valeurs suivantes sont correctes et oui, c'est supposer 
 
 **Q : Je suis en train de lire les [[lignages]] d'[[ensorceleur]]. A propos du [[lignage féerique]]. Le Toucher rieur ne mentionne aucun [[jet de sauvegarde]]. Est-ce normal ? Il n'y a pas de [[jet de sauvegarde|JS]] contre le Toucher rieur d'un [[ensorceleur]] de [[lignage féerique]] ?**
 
-R : Oui, c'est correct. Il n'y a pas de [[jet de sauvegarde|JS]].
+R : Oui, c'est correct. Il n'y a pas de [[jet de sauvegarde|JS]]. 
 
 **Q : Est-ce que les bonus donnés par le [[lignage profane]] s'appliquent à tous les sorts lancés par l'[[ensorceleur]], ou seulement à ceux qui appartiennent à la liste des sorts de l'[[ensorceleur]] ?**
 
@@ -124,29 +124,29 @@ Une fois chassé, un [[familier]] animal redevient un animal normal de son type 
 ##### Objet fétiche
 **Q : Concernant l'utilisation d'un bâton en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]] : La description des armes doubles dit que "une arme double peut être brandie à 1 main (mais dans ce cas), seul l'une des extrémités de l'arme peut être utilisée dans un round." Ainsi, est-il possible de seulement brandir le bâton comme une arme à une main durant les rounds hors combat et ainsi lancer des sorts ?**
 
-R : (James Jacobs 10/04/2010) Absolument.
+R : (James Jacobs 10/04/2010) Absolument. 
 
 **Q : Si un [[magicien]] porte une arme à deux mains en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]], est-il possible de l'utiliser à une main pour lancer un sort et considérer qu'elle est brandie ?**
 
-R : (James Jacobs 08/03/2010) Un [[magicien#PACTEMAGIQUE|objet fétiche]] doit être brandi pour pouvoir faire effet. Cela signifie, malheureusement, que les armes à deux mains font de bien piètres [[magicien#PACTEMAGIQUE|objets fétiches]] dans le sens où elles limitent à ne lancer que des sorts sans composante gestuelle. Porter une arme à deux mains dans une seule main ne signifie pas "brandir", on ne fait que la porter. Il faut utiliser les deux mains pour lancer des sorts avec une arme à deux mains en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]].
+R : (James Jacobs 08/03/2010) Un [[magicien#PACTEMAGIQUE|objet fétiche]] doit être brandi pour pouvoir faire effet. Cela signifie, malheureusement, que les armes à deux mains font de bien piètres [[magicien#PACTEMAGIQUE|objets fétiches]] dans le sens où elles limitent à ne lancer que des sorts sans composante gestuelle. Porter une arme à deux mains dans une seule main ne signifie pas "brandir", on ne fait que la porter. Il faut utiliser les deux mains pour lancer des sorts avec une arme à deux mains en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]]. 
 
 **Q : Si un [[magicien]] choisit une arme comme [[magicien#PACTEMAGIQUE|objet fétiche]], doit-elle faire partie des armes qu'il sait manipuler ?**
 
-R : (Jason Bulmahn) Il n'est pas nécessaire de savoir manipuler une arme pour l'utiliser en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]].
+R : (Jason Bulmahn) Il n'est pas nécessaire de savoir manipuler une arme pour l'utiliser en tant qu'[[magicien#PACTEMAGIQUE|objet fétiche]]. 
 
 ##### Projectile de force
-**Q : Est-ce que le [[écoles de magie#EVOCATION|Projectile de force]] d'un [[magicien]] touche automatiquement, comme le *[[projectile magique]]*? Et est-ce qu'une *broche de protection* (brooch of shielding) l'absorbe ?**
+**Q : Est-ce que le [[écoles de magie#EVOCATION|Projectile de force]] d'un [[magicien]] touche automatiquement, comme le *[[projectile magique]]*? Et est-ce qu'une *broche de protection* (brooch of shielding) l'absorbe ?** 
 
-R : (Jason Bulmahn) Le [[Évocation|Projectile de force]] fonctionne exactement comme un *[[projectile magique]]* concernant ce qu'il peut atteindre, les dégâts occasionnés et ce qui l'absorbe.
+R : (Jason Bulmahn) Le [[Évocation|Projectile de force]] fonctionne exactement comme un *[[projectile magique]]* concernant ce qu'il peut atteindre, les dégâts occasionnés et ce qui l'absorbe. 
 
 ##### Main de l'apprenti
 **Q : J'ai un [[magicien]] agrandi qui souhaite utiliser sa [[écoles de magie#UNIVERSELLE|main de l'apprenti]]. Est-ce que l'arme reste en sa possession (ie reste à la nouvelle taille du [[magicien]]) et ne revient pas à sa taille originelle ?**
 
-R : [[écoles de magie#UNIVERSELLE|Main de l'apprenti]] dit : "Cette attaque est considérée comme une attaque à distance avec une arme de jet..." donc je dirais que l'arme revient à sa taille originelle lorsqu'elle est dans la [[écoles de magie#UNIVERSELLE|main de l'apprenti]]. Il n'y a pas de différence avec une flèche tirée par un arc. Ce qui précède est déduit depuis cette ligne de la description du sort *[[agrandissement]]* : "Si elle (la créature agrandie) lâche l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux."
+R : [[écoles de magie#UNIVERSELLE|Main de l'apprenti]] dit : "Cette attaque est considérée comme une attaque à distance avec une arme de jet..." donc je dirais que l'arme revient à sa taille originelle lorsqu'elle est dans la [[écoles de magie#UNIVERSELLE|main de l'apprenti]]. Il n'y a pas de différence avec une flèche tirée par un arc. Ce qui précède est déduit depuis cette ligne de la description du sort *[[agrandissement]]* : "Si elle (la créature agrandie) lâche l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux." 
 
 **Q : Est-ce qu'une arme à deux mains utilisée avec une [[écoles de magie#UNIVERSELLE|main de l'apprenti]] inflige toujours 1.5 [[Force|For]] dégâts ?**
 
-R : Selon les termes des règles, il n'est pas possible d'avoir 1.5 [[Force|For]] avec ce type d'arme, pas plus qu'il n'est possible d'avoir sa plage de critique normale : "Arme lancées : [[...]] On applique le modificateur de [[Force]] du personnage aux jets de dégâts des armes de jet (à l’exception des armes à impact). [[...]] Quelle que soit la nature de l’arme, un tel lancer donne un critique sur un 20 naturel et inflige des dégâts doublés en cas de critique confirmé."
+R : Selon les termes des règles, il n'est pas possible d'avoir 1.5 [[Force|For]] avec ce type d'arme, pas plus qu'il n'est possible d'avoir sa plage de critique normale : "Arme lancées : [[...]] On applique le modificateur de [[Force]] du personnage aux jets de dégâts des armes de jet (à l’exception des armes à impact). [[...]] Quelle que soit la nature de l’arme, un tel lancer donne un critique sur un 20 naturel et inflige des dégâts doublés en cas de critique confirmé." 
 
 *Non officiel* : Je ne suis pas d'accord avec le fait qu'une limitation des quelques points dégâts gagnés par le 1.5 [[Force|For]] soit inquiétant. Pas plus que les plages de critiques et leur multiplicateur doivent changer. Je pense qu'il n'est pas dangereux de dire que l'esprit des règles pour la [[écoles de magie#UNIVERSELLE|Main de l'apprenti]] n'était pas de renforcer ce type de règles.
 
@@ -166,7 +166,7 @@ R : (Sean K. Reynolds - 25/07/2011) Oui
 
 **Q : J'ai un joueur qui veut jouer un [[prêtre]] d'Irori dont l'arme associée est "mains nues". Étant donné que chaque [[prêtre]] est formé au maniement des armes de son dieu, je comprends que les prêtres d'Irori ont le don [[Science du combat à mains nues]] gratuitement.**
 
-R : (Sean K Reynolds 21/08/2009) Je donnerais gratuitement le don [[Science du combat à mains nues]] aux prêtres d'Irori.
+R : (Sean K Reynolds 21/08/2009) Je donnerais gratuitement le don [[Science du combat à mains nues]] aux prêtres d'Irori. 
 
 R : (Joshua J. Frost 24/08/2009) Je rajouterai dans une future mise à jour du "Guide du Jeu Organisé de la Société des Éclaireurs" que les [[prêtre|prêtres]] d'Irori reçoivent, en effet, le don [[Science du combat à mains nues]] pour qu'ils puissent utiliser l'arme favorite de leur dieu sans provoquer d'[[attaque dopportunité|attaque d'opportunité]].
 

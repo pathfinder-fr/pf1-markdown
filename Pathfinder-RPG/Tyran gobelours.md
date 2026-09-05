@@ -45,7 +45,7 @@ Categories:
 {s:BDTexte|**Particularités** [[Antipaladin#CRUAUTE|cruauté]] (effrayé, hébété, paniqué), [[Antipaladin#FAVEURDESFIELONS|faveur des fiélons]] (arme +3, 2/jour), [[Semeur de peur (antipaladin)|se nourrir de la peur]] (6 PV), [[Gobelours#TRAQUEUR|traqueur]]}
 {s:BDTexte|**Équipement de combat** *[[élixir doppression|élixir d'oppression]]*, *[[potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** *[[harnois (armure)|harnois +2]]*, [[javeline (arme)|javelines de maître]] (2), *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[bottes de sept lieues]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 973 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 

@@ -11,7 +11,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Suaire d'un mort|{s:RSE}}
-**Aura** [[Nécromancie]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 6.000 po ; **Poids** 0,5 kg
+**Aura** [[Nécromancie]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 6.000 po ; **Poids** 0,5 kg 
 (((Description)))
 Cette cape maculée de terre a été tissée d’ombre à partir du suaire d’un meurtrier condamné. Elle empêche les morts-vivants non intelligents de vous détecter, comme le sort *[[invisibilité pour les morts-vivants]]*. Les morts-vivants intelligents vous perçoivent s’ils réussissent un [[jet de sauvegarde]] de [[Volonté]] [[DD]] 11. La protection prend fin si vous touchez un mort-vivant, canalisez de l’énergie contre les morts-vivants ou attaquez tout type de créature. Une fois par jour par une [[action simple]], vous pouvez silencieusement appeler les ombres liées au suaire, vous rendant [[invisible]] pendant 5 minutes.
 (((Création)))

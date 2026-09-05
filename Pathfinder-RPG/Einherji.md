@@ -51,7 +51,7 @@ LastModified: 2017-02-28 14:41
 
 Certains guerriers glorieusement tombés au combat découvrent que leur talent et leurs prouesses sont très prisés, même dans l’audelà. Élus des valkyries (Bestiaire 3, p. 268) parmi tous les morts des champs de bataille, ils deviennent des einherjar, des extérieurs qui livrent bataille à travers le multivers au nom des dieux et d’autres êtres extraplanaires puissants.
 
-Tout comme les valkyries, les einherjar peuvent servir des dieux très divers, pas seulement les dieux de la guerre, du conf lit et du courage mais aussi ceux de l’amour, de la beauté et d’autres divinités que l’on ne considère pas comme combattantes. Les einherjar s’enorgueillissent de leurs prouesses au combat et cherchent à jamais à faire leurs preuves en défiant de dignes adversaires.
+Tout comme les valkyries, les einherjar peuvent servir des dieux très divers, pas seulement les dieux de la guerre, du conf lit et du courage mais aussi ceux de l’amour, de la beauté et d’autres divinités que l’on ne considère pas comme combattantes. Les einherjar s’enorgueillissent de leurs prouesses au combat et cherchent à jamais à faire leurs preuves en défiant de dignes adversaires. 
 
 Ils peuvent être hommes ou femmes et apparaissent en principe comme des humains, des nains ou des elfes musclés et endurcis par le combat. Un einherji mesure généralement 2,10 mètres et pèse environ 150 kilogrammes.
 </div></td></tr></table>

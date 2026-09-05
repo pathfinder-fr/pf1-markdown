@@ -12,12 +12,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 6, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une poignée de vers de terre)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** une créature
-**Durée** permanente
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 6, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une poignée de vers de terre)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** une créature  
+**Durée** permanente  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Tout ce qui concerne la cible semble rebutant et agaçant, et tous ceux qu'elle rencontre sont forcées à voir le pire en elle. Chaque fois que la cible effectue un test de [[Bluff]], de [[Diplomatie]], d'[[Intimidation]] ou de [[Représentation]], elle doit lancer deux fois le dé et conserver le pire résultat. De plus, chaque créature qu'elle rencontre voit son attitude initiale à son égard réduite d'une catégorie (serviable devient amical, amical devient indifférent, et ainsi de suite).

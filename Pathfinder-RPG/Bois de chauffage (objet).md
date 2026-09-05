@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pc ; **Poids** 10 kg
+{s:AE}**Prix** 1 pc ; **Poids** 10 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce paquet de bois sec se compose de brindilles ou de bûches.

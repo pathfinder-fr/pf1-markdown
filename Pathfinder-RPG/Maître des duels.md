@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition**. [[Arme de prédilection]] (épée de duel), [[Arme en main]], [[Attaque en finesse]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] (épée de duel).
+**Condition**. [[Arme de prédilection]] (épée de duel), [[Arme en main]], [[Attaque en finesse]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] (épée de duel). 
 
 **Avantages**. Le personnage gagne un bonus de +2 à l’[[initiative]] tant qu’il commence le combat avec une épée de duel en main. Tant qu’il manie une seule épée de ce type à une main, il gagne un bonus de bouclier de +2 à la [[CA]], s’il la manie à deux mains, le bonus de bouclier à la CA tombe à +1. Quand il s’agit de déterminer les effets de l’arme du duelliste, on considère qu’elle inflige aussi des dégâts perforants, même si c’est une arme de type tranchant.
 

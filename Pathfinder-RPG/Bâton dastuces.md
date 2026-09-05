@@ -11,10 +11,10 @@ Categories:
 {s:BDTitre|Bâton d'astuces|}
 **Aura** [[Illusion]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 8 800 po ; **Poids** 1,5 kg
 (((Description)))
-Ce fin bâton est fabriqué dans un bois dur entouré de bandes de tissus colorés et surmonté d’un certain nombre de plumes, de clochettes et d’autres babioles décoratives. Il permet d’utiliser les sorts suivants.
-• *[[Son imaginaire]]* (1 charge)
-• *[[Manipulation à distance]]* (1 charge)
-• *[[Prestidigitation]]* (1 charge)
+Ce fin bâton est fabriqué dans un bois dur entouré de bandes de tissus colorés et surmonté d’un certain nombre de plumes, de clochettes et d’autres babioles décoratives. Il permet d’utiliser les sorts suivants.  
+• *[[Son imaginaire]]* (1 charge)  
+• *[[Manipulation à distance]]* (1 charge)  
+• *[[Prestidigitation]]* (1 charge)  
 • *[[Image silencieuse]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[son imaginaire]]*, *[[manipulation à distance]]*, *[[Prestidigitation]]*, *[[image silencieuse]]*; **Coût** 4 400 po

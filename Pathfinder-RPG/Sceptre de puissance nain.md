@@ -8,10 +8,10 @@ LastModified: 2024-05-28 19:34
 {s:BDTitre|Sceptre de puissance nain|{s:AE}}
 **Aura** [[Transmutation]] puissante ; **NLS** 16 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 80 000 po ; **Poids** 5 kg
 (((Description)))
-Cette version naine du célèbre *sceptre des seigneurs de guerre* n’a aucun pouvoir magique, néanmoins, lorsqu’il est manié par un nain, il augmente la CA, les jets d’attaque, le DMD, le BMO et les bonus de sauvegarde accordés par les traits raciaux nains de +1. Le sceptre partage les mêmes pouvoirs ordinaires que le *sceptre des seigneurs de guerre* mais ses formes d’armes magiques sont adaptées aux préférences naines.
-• Sous sa forme normale, le sceptre peut être utilisé comme un *[[marteau léger (arme)|marteau léger]] [[boomerang (propriété)|boomerang]] +1*.
-• Lorsqu’on presse le bouton 1, le sceptre se transforme en *[[marteau nain à long manche (arme)|marteau nain à long manche]] +3*.
-• Lorsqu’on presse le bouton 2, le sceptre se transforme en *[[hache darmes naine (arme)|hache d'armes naine]] +4*.
+Cette version naine du célèbre *sceptre des seigneurs de guerre* n’a aucun pouvoir magique, néanmoins, lorsqu’il est manié par un nain, il augmente la CA, les jets d’attaque, le DMD, le BMO et les bonus de sauvegarde accordés par les traits raciaux nains de +1. Le sceptre partage les mêmes pouvoirs ordinaires que le *sceptre des seigneurs de guerre* mais ses formes d’armes magiques sont adaptées aux préférences naines.  
+• Sous sa forme normale, le sceptre peut être utilisé comme un *[[marteau léger (arme)|marteau léger]] [[boomerang (propriété)|boomerang]] +1*.  
+• Lorsqu’on presse le bouton 1, le sceptre se transforme en *[[marteau nain à long manche (arme)|marteau nain à long manche]] +3*.  
+• Lorsqu’on presse le bouton 2, le sceptre se transforme en *[[hache darmes naine (arme)|hache d'armes naine]] +4*.  
 • Lorsqu’on presse le bouton 3, le sceptre se transforme en *[[arbalète légère (arme)|arbalète légère]] +2* ou en *arbalète lourde +2*.
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[Création de sceptres magiques]], *[[force de taureau]]* ; **Coût** 40 000 po

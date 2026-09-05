@@ -13,6 +13,6 @@ Déjà affaibli par les raids des nomades du désert à partir de -3300 AR, le m
 Il ne reste pratiquement rien de ce très ancien empire, tout ayant été perdu au fil des années, absorbé par les sables du désert ou intégré par les cultures plus récentes.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de l'Empire Jistka dans le supplément
+Vous pourrez trouver plus d'informations à propos de l'Empire Jistka dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

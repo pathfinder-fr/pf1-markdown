@@ -8,7 +8,7 @@ LastModified: 2024-05-30 15:37
 {s:BDTitre|Cache-poussière du tireur|{s:AE}}
 **Aura** [[Abjuration]] puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 36.000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce manteau long et ample octroie un bonus d’armure de +4 à la [[CA]] et un bonus de chance de +2 à la [[CA]] de contact contre les tirs d’armes à feu. Si le porteur est un [[pistolier]] ou possède le don [[Pistolier amateur]], il gagne 1 point d’[[pistolier#AUDACE|audace]] supplémentaire au début de chaque journée. Ce point n’augmente pas son total maximum d’audace. Lorsque le porteur utilise l’exploit [[exploits#ESQUIVEDUPISTOLIER|esquive du pistolier]], il augmente le bonus à la [[CA]] de +1. S’il n’est pas [[pistolier]], il peut tout de même utiliser cet exploit une fois par jour.
+Ce manteau long et ample octroie un bonus d’armure de +4 à la [[CA]] et un bonus de chance de +2 à la [[CA]] de contact contre les tirs d’armes à feu. Si le porteur est un [[pistolier]] ou possède le don [[Pistolier amateur]], il gagne 1 point d’[[pistolier#AUDACE|audace]] supplémentaire au début de chaque journée. Ce point n’augmente pas son total maximum d’audace. Lorsque le porteur utilise l’exploit [[exploits#ESQUIVEDUPISTOLIER|esquive du pistolier]], il augmente le bonus à la [[CA]] de +1. S’il n’est pas [[pistolier]], il peut tout de même utiliser cet exploit une fois par jour. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bouclier pare-balles]]*, soit [[Pistolier amateur]], soit le créateur doit être [[pistolier]]  ; **Coût** 18.000 po
 </div>

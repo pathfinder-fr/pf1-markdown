@@ -47,7 +47,7 @@ Categories:
 
 </div>*Cette immense hyène possède une large tête, des yeux chassieux rouges et une gueule remplie de grandes dents acérées.*
 
-Les hyènes sanguinaires sont plus terrifiantes que leurs cousins de plus petite taille. Lorsqu’elles trouvent une carcasse, les hyènes sanguinaires profitent du repas facile qui leur est offert, mais elles préfèrent généralement chasser leurs proies elles-mêmes. Les meutes de hyènes sanguinaires ne s’arrêtent de bouger et de chasser que pour dormir, se reproduire ou se nourrir.
+Les hyènes sanguinaires sont plus terrifiantes que leurs cousins de plus petite taille. Lorsqu’elles trouvent une carcasse, les hyènes sanguinaires profitent du repas facile qui leur est offert, mais elles préfèrent généralement chasser leurs proies elles-mêmes. Les meutes de hyènes sanguinaires ne s’arrêtent de bouger et de chasser que pour dormir, se reproduire ou se nourrir. 
 
 Les hyènes sanguinaires mesurent 1,80 mètres de hauteur aux épaules et plus de 3,60 mètres de long. Elles pèsent 450 kg. Les [[Gnoll|gnolls]] se servent parfois de hyènes sanguinaires entraînées pour garder leurs repaires ou, plus souvent, comme montures.
 </div></td></tr></table>

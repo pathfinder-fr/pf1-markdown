@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Esprits (chaman)|esprits du chaman]].***
-***Voir aussi les [[Maléfices (chaman)|maléfices du chaman]].***
-***Voir aussi la [[Liste des sorts de chaman]].***
-{s:PM0|chaman}**Voir les archétypes du chaman**
+<div class="fright">***Voir aussi les [[Esprits (chaman)|esprits du chaman]].***  
+***Voir aussi les [[Maléfices (chaman)|maléfices du chaman]].***  
+***Voir aussi la [[Liste des sorts de chaman]].***  
+{s:PM0|chaman}**Voir les archétypes du chaman** 
 <li ID="chaman" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechaman}</li>
 </div>{s:mca}*Certains héros parlent aux dieux ou batifolent avec des muses issues d’autres mondes mais le chaman communique avec les esprits du monde et les énergies qui habitent tout être vivant. Ces aventuriers divins utilisent leur pouvoir pour façonner le monde et développer l’influence de leur protecteur spirituel. Ils entretiennent des liens étroits avec les esprits de la nature. Ils nouent des relations privilégiées avec des esprits particuliers et, quand leur puissance se développe, ils apprennent à en appeler d’autres en cas de besoin.*
 
@@ -420,7 +420,7 @@ Categories:
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Voici les compétences de classe du chaman : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (nature) (Int),  [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Survie]] (Sag), [[Vol]] (Dex)
+Voici les compétences de classe du chaman : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (nature) (Int),  [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Survie]] (Sag), [[Vol]] (Dex) 
 
 **Points de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
@@ -453,7 +453,7 @@ Le chaman tisse un lien mystique avec les esprits de son monde. Il forge une rel
 - Au niveau 8, le chaman gagne les pouvoirs liés à la version supérieure de l’esprit qu’il a choisi. 
 - Au niveau 16, il gagne les pouvoirs de la version suprême de son esprit.
 
-Si le chaman prend des niveaux dans une autre classe donnant accès à un [[Mystères|mystère]] (comme l’[[oracle]]), l’esprit et le mystère doivent correspondre, même s’il faut pour cela en changer un.
+Si le chaman prend des niveaux dans une autre classe donnant accès à un [[Mystères|mystère]] (comme l’[[oracle]]), l’esprit et le mystère doivent correspondre, même s’il faut pour cela en changer un. 
 
 Si le [[MJ]] accepte, le chaman peut modifier son ancien esprit ou mystère pour les mettre en conformité.
 

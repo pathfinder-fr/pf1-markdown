@@ -50,7 +50,7 @@ uniquement), *[[magie des ombres suprême]]* ([[DD]] 29), *[[mur de force]]*,
 [[Connaissances]] (mystères) +16, [[Connaissances]] (nature) +16,
 [[Connaissances]] (plans) +29, [[Connaissances]] (religion) +16,
 [[Discrétion]] +31, [[Diplomatie]] +34, [[Intimidation]] +34, [[Perception]]
-+34, [[Premiers secours]] +28, [[Psychologie]] +28,
++34, [[Premiers secours]] +28, [[Psychologie]] +28, 
 [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +31, [[Vol]] +12}
 {s:BDTexte|**Particularité** greffe de peau, voyageur de l’ombre}
 {s:BDTexte|**Langues** commun, infernal ; télépathie à 30 m (20 {s:c})}
@@ -71,7 +71,7 @@ peut rapidement l’éviscérer ou l’altérer chirurgicalement en lui
 excisant un morceau de chair ou une partie d’organe interne, par
 une [[action rapide]], infligeant une [[diminution permanente]] de 1d8
 points de caractéristique (au choix de l’ermite). La victime peut
-résister en réussissant un jet de [[Vigueur]] [[DD]] 28. Le [[DD]]
+résister en réussissant un jet de [[Vigueur]] [[DD]] 28. Le [[DD]] 
 du [[jet de sauvegarde]] est basé sur la [[Dextérité.]]}
 {s:BDTexte|**Greffe de peau (Sur).** Une fois par jour, l’ermite peut se greffer
 n’importe quel morceau de chair ou d’os récupéré au maximum

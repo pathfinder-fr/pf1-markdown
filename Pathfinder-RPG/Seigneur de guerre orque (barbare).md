@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Compétences** [[Intimidation]] +16, [[Perception]] +8, [[Psychologie]] +5}
 {s:BDTexte|**Langues** commun, orque}
 {s:BDTexte|**Particularités** armes familières, [[barbare#DEPLACEMENTACCELERE|déplacement accéléré]]}
-{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[force de taureau]]*, *[[potions magiques|potion]] de [[soins modérés]]*
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[force de taureau]]*, *[[potions magiques|potion]] de [[soins modérés]]* 
 ; **Équipement divers** [[armure de peau (armure)|armure de peau de maître]], *[[cimeterre à deux mains (arme)|cimeterre à deux mains +1]]*, [[javeline (arme)|javelines]] (10), [[épieu (arme)|épieu de maître]], *[[anneau de protection|anneau de protection +1]]*, 99 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">

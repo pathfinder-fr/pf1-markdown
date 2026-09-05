@@ -18,17 +18,17 @@ Bombe  acide,  bombe soleil, infusion, mutagène imprégné, mutagène sauvage, 
 Voir les [[découvertes]] de l'alchimiste.
 
 ### Mutagène  expérimental  (Sur).
-Au  niveau  2,  un  chercheur  sait   comment   créer   un   mutagène   expérimental dont  les  autres  peuvent  bénéficier,  même  si  l’effet est moins important   que   celui   d’un   mutagène   normal.
+Au  niveau  2,  un  chercheur  sait   comment   créer   un   mutagène   expérimental dont  les  autres  peuvent  bénéficier,  même  si  l’effet est moins important   que   celui   d’un   mutagène   normal.   
 
-Le   mutagène expérimental fonctionne comme un mutagène standard, sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas nauséeuse la créature qui l’ingurgite.
+Le   mutagène expérimental fonctionne comme un mutagène standard, sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas nauséeuse la créature qui l’ingurgite. 
 
-Quand il crée le mutagène, le chercheur décide si celui-ci est standard (ce qui ne donne aucun avantage si une autre créature l’ingurgite) ou s’il est expérimental (dont autrui peut bénéficier). Le coût, le temps de création et tous les autres aspects du mutagène restent les mêmes.
+Quand il crée le mutagène, le chercheur décide si celui-ci est standard (ce qui ne donne aucun avantage si une autre créature l’ingurgite) ou s’il est expérimental (dont autrui peut bénéficier). Le coût, le temps de création et tous les autres aspects du mutagène restent les mêmes. 
 
-Si  le  chercheur  connaît  des  découvertes  ou  possède  d’autres aptitudes qui modifient ou améliorent les avantages du mutagène, celles-ci s’appliquent au mutagène expérimental (mais la créature qui l’ingurgite ne bénéficie toujours que de la moitié du bonus numérique  conféré  par  le  mutagène).
+Si  le  chercheur  connaît  des  découvertes  ou  possède  d’autres aptitudes qui modifient ou améliorent les avantages du mutagène, celles-ci s’appliquent au mutagène expérimental (mais la créature qui l’ingurgite ne bénéficie toujours que de la moitié du bonus numérique  conféré  par  le  mutagène).  
 
 *Cette aptitude remplace utilisation des poisons.*
 
 ### Résistance à l’acide (Ext).
-Au niveau 3, un chercheur gagne  une  résistance  à  l’acide  de  5.
+Au niveau 3, un chercheur gagne  une  résistance  à  l’acide  de  5.  
 
 *Cette  aptitude  remplace alchimie rapide.*

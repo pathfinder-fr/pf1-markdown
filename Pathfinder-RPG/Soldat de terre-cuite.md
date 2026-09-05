@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Soldat de terre-cuite|FP 6}
-{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré} 
 {s:BDTexte|*Source : Bestiaire* p.243}
 {s:BDTexte|**PX** 2 400}
 {s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
@@ -53,11 +53,11 @@ Categories:
 
 Le soldat de terre cuite est modelé dans l’argile et chauffé pour être transformé en céramique. Il est généralement sculpté de façon à ressembler à un soldat humain en armure, même si on trouve également des soldats de terre-cuite ressemblant à d’autres races comme les hobgobelins, les tengus, voire même les démons et les onis. Les soldats de terre-cuite sont souvent créés pour garder les tombeaux de puissants dirigeants, maintenant les rangs en silence afin de protéger leur seigneur même après leur mort. Ces soldats demeurent silencieux pendant des siècles, ne s’animant que pour défendre le tombeau et ses richesses contre les pilleurs de tombes. Les soldats de terre-cuite sont généralement peints de laques colorées, mais l’usure et le temps effacent souvent ou ternissent ces décorations. Le soldat de terre cuite mesure 1,80 mètre et pèse 300 kilos.
 
-Contrairement à la plupart des créatures artificielles, les soldats de terre-cuite renferment une étincelle d’intelligence. Elle ne suffit pas à les douer de la parole ni de la capacité à agir de leur propre gré mais elle leur permet de recourir à des tactiques plus complexes que celles de la plupart des créatures artificielles. Il n’est pas rare pour un soldat de terre-cuite de posséder différents dons ou d’utiliser plusieurs armes.
+Contrairement à la plupart des créatures artificielles, les soldats de terre-cuite renferment une étincelle d’intelligence. Elle ne suffit pas à les douer de la parole ni de la capacité à agir de leur propre gré mais elle leur permet de recourir à des tactiques plus complexes que celles de la plupart des créatures artificielles. Il n’est pas rare pour un soldat de terre-cuite de posséder différents dons ou d’utiliser plusieurs armes. 
 
-Voici deux variantes assez courantes du soldat de terre-cuite.
+Voici deux variantes assez courantes du soldat de terre-cuite. 
 
-**Archer de terre cuite** **([[FP]] +0)**. Les archers de terre-cuite sont simplement des soldats de terre-cuite équipés d’un arc long composite. Ils ont les dons [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] et [[Tir de précision]].
+**Archer de terre cuite** **([[FP]] +0)**. Les archers de terre-cuite sont simplement des soldats de terre-cuite équipés d’un arc long composite. Ils ont les dons [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] et [[Tir de précision]]. 
 
 **Cavalier de terre cuite** **([[FP]] +1)**. Certains soldats de terre-cuite sont modelés de façon à ressembler à des guerriers montés sur des chevaux de terre-cuite, mais le cavalier et sa monture ne forment qu’une seule créature. Les cavaliers de terre-cuite sont des soldats de terre-cuite de taille G avec 10 dés de vie raciaux et les pouvoirs spéciaux de piétinement et d’armes de taille inférieure. Les cavaliers de terre-cuite sont généralement équipés de lances plutôt que d’épées et ont les dons [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]] et [[Science du renversement]].
 

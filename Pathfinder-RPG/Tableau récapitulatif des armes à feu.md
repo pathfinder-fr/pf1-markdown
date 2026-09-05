@@ -7,7 +7,7 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:MenuEquipement}<div class="fright"><nav class="wiki-toc"></nav></div>''Voir les [[tableau récapitulatif des armes|armes classiques]] et les [[tableau récapitulatif des engins de siège|engins de siège]].
+{s:MenuEquipement}<div class="fright"><nav class="wiki-toc"></nav></div>''Voir les [[tableau récapitulatif des armes|armes classiques]] et les [[tableau récapitulatif des engins de siège|engins de siège]].  
 Voir les [[Armes à feu|règles relatives aux armes à feu]].''
 
 {s:Reference|TABRUDIMENTAIRES}

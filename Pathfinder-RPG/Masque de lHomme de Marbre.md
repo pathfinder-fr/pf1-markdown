@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:08
 {s:BDTitre|Masque de l’homme de marbre|{s:AE}}
 **Aura** [[Transmutation]] modérée  ; **NLS** 6  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 8 000 po ; **Poids** 2 kg
 (((Description)))
-Une fois enfilé, ce masque transforme le visage de son porteur en celui d’une statue de pierre et retire toute émotion de sa voix. Le porteur peut toujours s’exprimer mais sa voix et ses expressions du visage ne trahissent pratiquement plus aucune émotion, ce qui lui octroie un bonus de compétence de +10 aux tests de [[Bluff]] effectués pour mentir et de +5 pour [[actions spéciales#FEINTE|feinter]]. Il subit également un malus de -5 aux tests de [[Bluff]] effectués pour transmettre un message secret.
+Une fois enfilé, ce masque transforme le visage de son porteur en celui d’une statue de pierre et retire toute émotion de sa voix. Le porteur peut toujours s’exprimer mais sa voix et ses expressions du visage ne trahissent pratiquement plus aucune émotion, ce qui lui octroie un bonus de compétence de +10 aux tests de [[Bluff]] effectués pour mentir et de +5 pour [[actions spéciales#FEINTE|feinter]]. Il subit également un malus de -5 aux tests de [[Bluff]] effectués pour transmettre un message secret. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[innocence]]*, *[[façonnage de la pierre]]* ; **Coût** 4 000 po
 </div>

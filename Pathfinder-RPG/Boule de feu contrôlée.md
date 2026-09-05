@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu, ruse]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une boule de guano de chauve-souris et de sulfur)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Zone d'effet** [[étendue]] de 6 m de rayon
-**Durée** instantanée
+{s:cs}{s:UI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu, ruse]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une boule de guano de chauve-souris et de sulfur)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Zone d'effet** [[étendue]] de 6 m de rayon  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[boule de feu]]*, excepté que le personnage peut faire partir la bille luisante de n'importe quel endroit visible dans la portée du sort. Il peut choisir un nombre de cases dans la zone d'effet égal à son modificateur d'[[Intelligence]] (pour les [[magicien|magiciens]], les [[magus]] et les [[occultiste|occultistes]]) ou de [[Charisme]] (pour les [[ensorceleur|ensorceleurs]] et les [[sanguin|sanguins]]) qui seront frappées par des flammes plus faibles, la *boule de feu contrôlée* inflige les dégâts minimaux sur ces cases.
@@ -26,14 +26,14 @@ Toute tentative visant à identifier *boule de feu contrôlée* avec un test de 
 
 (((
 ## Boule de feu
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (de la fiente de chauve-souris et du soufre)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Zone d'effet** [[étendue]] de 6 m (4 {s:c}) de rayon
-**Durée** [[instantanée]]
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (de la fiente de chauve-souris et du soufre)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Zone d'effet** [[étendue]] de 6 m (4 {s:c}) de rayon  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort revêt la forme d’une boule de feu explosant dans un bruit sourd et infligeant 1d6 points de dégâts de feu par [[NLS|niveau de lanceur de sorts]] à toutes les créatures prises dans la [[zone deffet|zone d’effet]] (jusqu’à un maximum de 10d6). Les objets n’appartenant à personne sont également touchés. La déflagration n’engendre aucune pression.
 
 Le personnage désigne la cible du doigt et choisit l’endroit où il souhaite que l’explosion se produise (distance et hauteur par rapport au niveau du sol). Une bille luisante jaillit alors de son index et fuse jusqu’à cet endroit, où elle donne naissance à la *boule de feu* (sauf si elle rencontre un obstacle en chemin, auquel cas l’explosion se produit plus tôt que prévu). Si le mage jette cette bille par un passage très étroit, une meurtrière par exemple, il doit réussir une [[attaque de contact à distance]], sans quoi le projectile heurte l’obstacle, provoquant la déflagration.

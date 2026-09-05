@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[Science du combat à mains nues]], 3 [[rang|rangs]] en [[Acrobaties]]
+**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[Science du combat à mains nues]], 3 [[rang|rangs]] en [[Acrobaties]] 
 
 **Avantage.** Quand le personnage utilise cette école, son bonus d’esquive à la [[CA]] dû à l’entraînement défensif passe à +6. De plus, quand il se bat contre des créatures de [[sous-type Géant]], il ajoute son bonus de [[Sagesse]] aux jets de dégâts à mains nues.
 

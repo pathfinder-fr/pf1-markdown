@@ -14,11 +14,11 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, F]] (un ensemble de bâtonnets ou d’os gravés d’une valeur d’au-moins 25 po)
-**Portée** personnelle
-**Cible** le lanceur de sorts
+{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, F]] (un ensemble de bâtonnets ou d’os gravés d’une valeur d’au-moins 25 po)  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** instantanée
 
 Ce sort permet au personnage de prédire avec précision le temps qu’il fera là où il se trouve pendant les prochaines 48 heures, et l’avertit à l’avance des tempêtes, des blizzards, des tornades et autres phénomènes météorologiques de ce type. Il ne s’applique qu’aux conditions météorologiques normales et naturelles, et ne prend pas en compte les interventions magiques qui pourraient changer le temps dans la zone.

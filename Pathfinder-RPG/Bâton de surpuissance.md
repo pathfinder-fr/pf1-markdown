@@ -10,16 +10,16 @@ Categories:
 {s:BDTitre|Bâton de surpuissance|}
 **Aura** Multiples puissantes ; **NLS** 15 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 235 000 po ; **Poids** 2,5 kg
 (((Description)))
-Le bâton de surpuissance est un objet magique particulièrement puissant, possédant des capacités offensives et défensives. Il est généralement surmonté d’une gemme d’une grande pureté qui émet fréquemment une lueur rouge flamboyante. Les sorts qu’il permet de lancer sont les suivants :
-• *[[boule de feu]]* à [[Augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)
-• *[[cône de froid]]* (2 charges)
-• *[[éclair]]* à [[Augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)
-• *[[flamme éternelle]]* (1 charge)
-• *[[globe dinvulnérabilité renforcée|globe d’invulnérabilité renforcée]]* (2 charges)
-• *[[immobilisation de monstre]]* (2 charges)
-• *[[lévitation]]* (1 charge)
-• *[[mur de force]]* (uniquement possible sous forme d’hémisphère de 3 m de rayon entourant le personnage) (2 charges)
-• *[[projectile magique]]* (1 charge)
+Le bâton de surpuissance est un objet magique particulièrement puissant, possédant des capacités offensives et défensives. Il est généralement surmonté d’une gemme d’une grande pureté qui émet fréquemment une lueur rouge flamboyante. Les sorts qu’il permet de lancer sont les suivants :  
+• *[[boule de feu]]* à [[Augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)  
+• *[[cône de froid]]* (2 charges)  
+• *[[éclair]]* à [[Augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)  
+• *[[flamme éternelle]]* (1 charge)  
+• *[[globe dinvulnérabilité renforcée|globe d’invulnérabilité renforcée]]* (2 charges)  
+• *[[immobilisation de monstre]]* (2 charges)  
+• *[[lévitation]]* (1 charge)  
+• *[[mur de force]]* (uniquement possible sous forme d’hémisphère de 3 m de rayon entourant le personnage) (2 charges)  
+• *[[projectile magique]]* (1 charge)  
 • *[[rayon affaiblissant]]* à [[Augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)
 
 En plus de ces sorts, le bâton de surpuissance confère un bonus de chance de +2 à la [[CA]] et à tous les [[jet de sauvegarde|jets de sauvegarde]]. Il se comporte en combat comme un bâton +2 et peut être utilisé pour infliger un châtiment. Par une [[action libre]] et au prix d’une [[charge]], les dégâts qu’il inflige sont doublés pendant 1 round (x3 en cas de [[coup critique]]).

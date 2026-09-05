@@ -17,27 +17,27 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un brin de laine ou une substance similaire)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** 1 créature vivante de 6 [[DV]] ou moins
-**Durée** 1 [[round]]
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un brin de laine ou une substance similaire)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** 1 créature vivante de 6 [[DV]] ou moins  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[hébétement]]*, si ce n’est qu’il peut affecter les créatures vivantes de tout type, pour autant qu’elles ne possèdent pas 7 [[DV]] ou plus.
 
 
 
 (((
 ## Hébétement
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un brin de laine ou une substance similaire)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 [[type humanoïde|humanoïde]] de 4 [[DV]] ou moins
-**Durée** 1 [[round]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un brin de laine ou une substance similaire)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 [[type humanoïde|humanoïde]] de 4 [[DV]] ou moins  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort embue l’esprit d’un [[type humanoïde|humanoïde]] possédant 4 [[DV]] ou moins, ce qui l’empêche d’entreprendre la moindre action. Les [[type humanoïde|humanoïdes]] ayant au moins 5 [[DV]] sont [[immunisé|immunisés]] aux effets d’*hébétement*. La victime est [[hébété|hébétée]] mais pas [[étourdi|étourdie]], de sorte que ses adversaires ne bénéficient d’aucun avantage lorsqu’ils s’en prennent à elle. Si une créature a été [[hébété|hébétée]] par ce sort, elle ne peut plus être affectée par celui-ci pendant une minute.
 )))

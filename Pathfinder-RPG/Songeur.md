@@ -7,10 +7,10 @@ Categories:
 ---
 
 <table class="Bestiaire"><tr><td>
-<div class="BD">
-{s:BDTitre|Songeur|FP 2}
-{s:Desambi|Selon les suppléments et les Univers, on les appellent aussi : les Contemplatifs d'Ashok}
-{s:pucem|Humanoïde monstrueux|Ville|Tempéré}
+<div class="BD">    
+{s:BDTitre|Songeur|FP 2} 
+{s:Desambi|Selon les suppléments et les Univers, on les appellent aussi : les Contemplatifs d'Ashok}   
+{s:pucem|Humanoïde monstrueux|Ville|Tempéré}     
 - *Source : Bestiaire 4* p.264
 - **PX** 600
 - [[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, N

@@ -11,12 +11,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Magus]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact ou allonge d’une arme de corps à corps
-**Cible** une créature
-**Durée** instantanée
+{s:MMI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Magus]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact ou allonge d’une arme de corps à corps  
+**Cible** une créature  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Vigueur, partiel]] ; **Résistance à la magie** oui
 
 Le personnage lance ce sort pour déclencher une violente secousse de force au moment où il frappe une créature avec une arme de corps à corps, une attaque à mains nues ou une attaque naturelle. La frappe du personnage inflige les dégâts normaux de son arme, mais également un montant supplémentaire de dégâts de force égal à 1d4 points par [[NLS|niveau de lanceur de sorts]] (10d4 maximum). La violence du coup peut être suffisante pour repousser la cible.

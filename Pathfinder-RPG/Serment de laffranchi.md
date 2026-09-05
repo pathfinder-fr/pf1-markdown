@@ -9,6 +9,6 @@ Categories:
 
 {s:cs} {s:ISG} *Le personnage a juré de ne plus jamais être enchaîné.*
 
-**Conditions.** Suivant de [[Rovagug (technique)|Rovagug]]
+**Conditions.** Suivant de [[Rovagug (technique)|Rovagug]] 
 
 **Avantage.** Le personnage bénéficie d'un bonus de +2 aux tests de [[manœuvres offensives]] visant à se libérer d'une [[lutte]] ou d'une [[immobilisé|immobilisation]], aux tests de [[Force]] pour briser des liens ou pour défoncer une porte ou un mur, et aux [[jds|jets de sauvegarde]] pour résister à des sorts qui [[enchevêtré|enchevêtreraient]] ou ralentiraient le personnage.

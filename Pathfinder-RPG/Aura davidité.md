@@ -9,12 +9,12 @@ Categories:
 - Sort sorcière 5
 ---
 
-{s:cs}{s:CCMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** personnelle
-**Zone d'effet** émanation de 7,50 mètres de rayon centrée sur le lanceur de sorts
-**Durée** 1 [[round]]/niveau ou jusqu’à déchargement
+{s:cs}{s:CCMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** personnelle  
+**Zone d'effet** émanation de 7,50 mètres de rayon centrée sur le lanceur de sorts  
+**Durée** 1 [[round]]/niveau ou jusqu’à déchargement  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 À chaque fois que quelqu’un lance un sort inoffensif (indiqué dans la description du [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]]) de niveau 3 ou moins dans le rayon d’une *aura d’avidité*, le personnage peut décider de bénéficier immédiatement de ses effets, comme s’il était la cible du sort. La cible originelle en profite tout de même également. Le personnage bénéficie des effets du sort uniquement si le lanceur du sort inoffensif se trouve dans l’*aura d’avidité*. Le personnage est considéré comme le lanceur de l’effet dont il bénéficie. Si l’effet englobe des cibles multiples, il ne peut pas utiliser l’effet volé pour l’appliquer à autrui, l’*aura d’avidité* fonctionne seulement pour lui. Dès que le personnage décide de profiter d’un sort, l’*aura d’avidité* disparaît. Les rumeurs disent que c’est un seigneur particulièrement avare qui inventa ce sort inhabituel car il était toujours jaloux des capacités des autres lanceurs de sorts.

@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypealchimiste}{s:um}*La plupart des alchimistes utilisent des mutagènes pour améliorer leurs aptitudes physiques au détriment de leurs aptitudes mentales mais certains font le contraire, pour améliorer les pouvoirs de leur esprit et de leur mémoire. Le chimiste spirituel peut atteindre un niveau de précision mentale incroyable mais il souffre d’effets physiques débilitants.*
+{s:Menuarchétypealchimiste}{s:um}*La plupart des alchimistes utilisent des mutagènes pour améliorer leurs aptitudes physiques au détriment de leurs aptitudes mentales mais certains font le contraire, pour améliorer les pouvoirs de leur esprit et de leur mémoire. Le chimiste spirituel peut atteindre un niveau de précision mentale incroyable mais il souffre d’effets physiques débilitants.* 
 
 Voici les caractéristiques de la classe de chimiste spirituel.
 
@@ -16,7 +16,7 @@ Voici les caractéristiques de la classe de chimiste spirituel.
 Au niveau 1, le chimiste spirituel apprend à créer un [[Découvertes#COGNATOGENE|cognatogène]], comme avec la découverte du même nom. Ce pouvoir remplace celui de [[Alchimiste#MUTAGENE|mutagène]] (le chimiste spirituel ne peut pas créer de mutagène à moins de sélectionner [[DécouvertEs#MUTAGENE|mutagène]] comme découverte).
 
 #### Souvenir parfait
-Au niveau 2, le personnage a développé sa mémoire. Quand il fait un test de [[Connaissances]], il ajoute deux fois son bonus d’[[Intelligence]] au test. Ainsi, un chimiste qui possède 5 rangs en [[Connaissances]] (histoire) et un bonus d’[[Intelligence]] de +2 a un bonus total de compétence de +9 (5+2+2). Le chimiste spirituel peut utiliser ce pouvoir à chaque fois qu’il fait un test d’[[Intelligence]] pour se souvenir de quelque chose. Ce pouvoir remplace l’[[alchimiste#UTILISATIONDESPOISONS|utilisation des poisons]].
+Au niveau 2, le personnage a développé sa mémoire. Quand il fait un test de [[Connaissances]], il ajoute deux fois son bonus d’[[Intelligence]] au test. Ainsi, un chimiste qui possède 5 rangs en [[Connaissances]] (histoire) et un bonus d’[[Intelligence]] de +2 a un bonus total de compétence de +9 (5+2+2). Le chimiste spirituel peut utiliser ce pouvoir à chaque fois qu’il fait un test d’[[Intelligence]] pour se souvenir de quelque chose. Ce pouvoir remplace l’[[alchimiste#UTILISATIONDESPOISONS|utilisation des poisons]]. 
 
 #### Dons supplémentaires
 Un chimiste spirituel peut choisir un [[Talent]] ([[Art de la magie]], toutes les compétences de [[Connaissances]], [[Déguisement]], [[Premiers secours]], [[Psychologie]] ou [[Sabotage]]) au lieu d’une [[découvertes|découverte]].

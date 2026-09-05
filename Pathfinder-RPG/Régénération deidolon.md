@@ -9,27 +9,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Invocation]] ([[branche guérison|guérison]]) ; ** Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** [[eidolon]] touché
-**Durée** instantanée
+{s:APG}**École** [[Invocation]] ([[branche guérison|guérison]]) ; ** Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** [[eidolon]] touché  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[régénération deidolon mineure|régénération d'eidolon mineure]]* mais il soigne 3d10 points de vie +1 point/[[NLS|niveau de lanceur de sorts]] (maximum +10).
 
 
 
 (((
 ## Régénération d'eidolon mineure
-{s:APG}**École** [[Invocation]] ([[branche guérison|guérison]]) ;** Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** [[eidolon]] touché
-**Durée** [[instantanée]]
+{s:APG}**École** [[Invocation]] ([[branche guérison|guérison]]) ;** Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** [[eidolon]] touché  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 En posant les mains sur son [[eidolon]], le personnage referme ses plaies et l'aide à se solidifier. Ce sort soigne 1d10 points de dégâts + 1 point par [[NLS|niveau de lanceur de sorts]] (maximum +5).
 )))

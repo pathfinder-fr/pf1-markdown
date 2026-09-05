@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Acclimatation planaire (Ext).** On considère toujours le bandersnatch comme étant sur son plan d’origine, quel que soit le plan dans lequel il se trouve. Il ne gagne jamais le [[sous-type extraplanaire]].}
+{s:BDTexte|**Acclimatation planaire (Ext).** On considère toujours le bandersnatch comme étant sur son plan d’origine, quel que soit le plan dans lequel il se trouve. Il ne gagne jamais le [[sous-type extraplanaire]].} 
 {s:BDTexte|**Charge bondissante (Ext).** Le bandersnatch peut se déplacer sur les [[terrain difficile|terrains difficiles]] lorsqu’il [[charge]].}
 {s:BDTexte|**Coup violent (Ext).** Par une [[action rapide]], le bandersnatch peut effectuer une unique attaque de griffe, de morsure ou de queue. Il ne peut pas porter un coup violent lors du [[round]] où il [[charge]].}
 {s:BDTexte|**Douleur (Ext).** Lorsqu’une créature reçoit des dégâts d’une attaque de queue, des piquants ou des piquants protecteurs du bandersnatch, elle doit réussir un jet de [[Réflexes]] de [[DD]] 28, sans quoi les piquants s’enfoncent dans sa chair : la créature devient alors [[fiévreux|fiévreuse]] tant que les piquants n’ont pas été retirés. Pour retirer un piquant, il faut réussir un test de [[Premiers secours]] de [[DD]] 20 par une [[action complexe]]. Il est possible de retirer un piquant supplémentaire par tranche de 5 points excédant le [[DD]] du test. En cas d’échec au test, le piquant est bien retiré mais le processus inflige 1d10+6 points de dégâts à la victime. Le [[DD]] du test est basé sur la [[Dextérité]].}
@@ -56,9 +56,9 @@ Categories:
 
 Les bandersnatchs sont des chasseurs hors-pairs et seuls les prédateurs les plus dangereux ou les proies les plus rusées représentent un défi. Une fois que le bandersnatch a choisi une créature à tuer, il la traque jusqu’au bout, sans peur, répit ni remords.
 
-Les bandersnatchs s’appuient sur la vitesse, la surprise et la terreur pour abattre leurs proies. Ils les suivent à distance, se dissimulant parmi les arbres, puis bondissent des fourrés, attaquent sauvagement et repartent à toute allure. Ils emmènent les petites créatures de force et prennent le temps de les tuer, tandis qu’ils affaiblissent les plus grosses par de multiples escarmouches.
+Les bandersnatchs s’appuient sur la vitesse, la surprise et la terreur pour abattre leurs proies. Ils les suivent à distance, se dissimulant parmi les arbres, puis bondissent des fourrés, attaquent sauvagement et repartent à toute allure. Ils emmènent les petites créatures de force et prennent le temps de les tuer, tandis qu’ils affaiblissent les plus grosses par de multiples escarmouches. 
 
-Lorsqu’il est dépassé, le bandersnatch bat en retraite à pleine vitesse, ne s’arrêtant que pour éliminer les poursuivants qui distancent leurs alliés. Une fois guéri de ses blessures, il revient sur les lieux de sa défaite, remonte la piste de de ses assaillants et les éliminent un à un.
+Lorsqu’il est dépassé, le bandersnatch bat en retraite à pleine vitesse, ne s’arrêtant que pour éliminer les poursuivants qui distancent leurs alliés. Une fois guéri de ses blessures, il revient sur les lieux de sa défaite, remonte la piste de de ses assaillants et les éliminent un à un. 
 
 Le bandersnatch ressemble à un gros fauve à six pattes, avec des piquants courant le long de son échine jusqu’à la pointe de sa longue queue flexible. Ces piquants servent à dissuader ses ennemis mais constituent également une arme redoutable. Un léger mouvement de sa queue musclée lui suffit à lancer pas moins d’une demi-douzaine de piquants sur des ennemis éloignés, avec une précision étonnante. Ses yeux lumineux et ronds comme des soucoupes lui permettent de fasciner toute proie qui croise son regard. Il mesure 12 mètres de long, sans compter sa queue de 3 mètres et il pèse 6 tonnes. En dépit de sa corpulence, le bandersnatch se déplace rapidement et avec beaucoup de grâce, tout en restant très discret quand il le faut.
 

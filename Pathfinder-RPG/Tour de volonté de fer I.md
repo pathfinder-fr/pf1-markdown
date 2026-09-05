@@ -8,60 +8,60 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 5
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** 3 m
-**Zone **émanation de 3 m de rayon centrée sur le lanceur
-**Durée** 1 [[round]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 5  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** 3 m  
+**Zone **émanation de 3 m de rayon centrée sur le lanceur  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Le personnage dresse une forteresse de puissance mentale qui bloque l’énergie psychique venant d’autrui, offrant une résilience mentale supérieure à toutes les créatures de la zone. Toutes les créatures situées dans la zone d’effet gagnent une [[résistance à la magie (capacité)|résistance à la magie]] de 10 + le double du niveau du sort contre la magie psychique et tous les effets mentaux. En revanche, elles ne bénéficient pas de cette protection contre les sorts et pouvoirs du personnage.
 
 
 
 ((({s:sortssimilaires|tour de volonté de fer I}
 ## [[Tour de volonté de fer II]]
-{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 6
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** 3 m
-**Zone** émanation de 3 m de rayon centrée sur le lanceur
-**Durée** 2 [[round|rounds]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 6  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** 3 m  
+**Zone** émanation de 3 m de rayon centrée sur le lanceur  
+**Durée** 2 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[tour de volonté de fer I]]* en dehors des modifications ci-dessus. On peut lancer ce sort dans une version réduite.
 
 ## [[Tour de volonté de fer III]]
-{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 7
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** 3 m
-**Zone** émanation de 3 m de rayon centrée sur le lanceur
-**Durée** 3 [[round|rounds]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 7  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** 3 m  
+**Zone** émanation de 3 m de rayon centrée sur le lanceur  
+**Durée** 3 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[tour de volonté de fer I]]* en dehors des modifications ci-dessus. On peut lancer ce sort dans une version réduite.
 
 ## [[Tour de volonté de fer IV]]
-{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 8
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** 3 m
-**Zone** émanation de 3 m de rayon centrée sur le lanceur
-**Durée** 4 [[round|rounds]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 8  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** 3 m  
+**Zone** émanation de 3 m de rayon centrée sur le lanceur  
+**Durée** 4 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[tour de volonté de fer I]]* en dehors des modifications ci-dessus. On peut lancer ce sort dans une version réduite.
 
 ## [[Tour de volonté de fer V]]
-{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 9
-**Temps d’incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** 3 m
-**Zone** émanation de 3 m de rayon centrée sur le lanceur
-**Durée** 5 [[round|rounds]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 9  
+**Temps d’incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** 3 m  
+**Zone** émanation de 3 m de rayon centrée sur le lanceur  
+**Durée** 5 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[tour de volonté de fer I]]* en dehors des modifications ci-dessus. On peut lancer ce sort dans une version réduite.
 )))

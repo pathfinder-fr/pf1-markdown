@@ -15,11 +15,11 @@ Categories:
 Au niveau 1 et une fois par jour, le sage ésotérique développe une telle compréhension des sorts qu’il augmente son [[NLS|niveau de lanceur de sorts]] de 4 lors de l’incantation d’un sort. Il peut utiliser cette aptitude deux fois par jour au niveau 8 et trois fois par jour au niveau 16. Cette aptitude remplace pacte magique.
 
 #### Étude des sorts (Sur)
-Au niveau 2, le sage comprend si bien les sorts de barde, de prêtre et de druide qu’il peut utiliser sa propre magie de manière détournée et moins efficace pour reproduire leurs effets.
+Au niveau 2, le sage comprend si bien les sorts de barde, de prêtre et de druide qu’il peut utiliser sa propre magie de manière détournée et moins efficace pour reproduire leurs effets. 
 
-Une fois par jour, un sage ésotérique peut lancer de manière spontanée un sort extrait de la [[liste des sorts de bardes]], [[Liste des sorts de prêtres|de prêtre]] ou [[Liste des sorts de druides|de druide]] comme si c’était un sort de magicien connu et préparé.
+Une fois par jour, un sage ésotérique peut lancer de manière spontanée un sort extrait de la [[liste des sorts de bardes]], [[Liste des sorts de prêtres|de prêtre]] ou [[Liste des sorts de druides|de druide]] comme si c’était un sort de magicien connu et préparé. 
 
-Pour lancer le sort, le sage ésotérique doit passer un round entier par niveau du sort reproduit (si le sort apparaît sur plusieurs listes de sorts des classes indiquées ci-dessus, appliquez le niveau de sort le plus bas) et doit dépenser deux sorts préparés d’un niveau égal ou supérieur ; si le temps d’incantation normal du sort s’élève à un round entier ou plus, ce temps d’incantation est ajouté à celui du sort lancé par le sage.
+Pour lancer le sort, le sage ésotérique doit passer un round entier par niveau du sort reproduit (si le sort apparaît sur plusieurs listes de sorts des classes indiquées ci-dessus, appliquez le niveau de sort le plus bas) et doit dépenser deux sorts préparés d’un niveau égal ou supérieur ; si le temps d’incantation normal du sort s’élève à un round entier ou plus, ce temps d’incantation est ajouté à celui du sort lancé par le sage. 
 
 - Par exemple, si un sage ésotérique souhaite utiliser l’étude des sorts pour lancer *[[soins légers]]* (sort de prêtre de niveau 1), le temps d’incantation dure 2 rounds entiers et il doit dépenser deux sorts de magicien préparés de niveau 1 ou plus.
 

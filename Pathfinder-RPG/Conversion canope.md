@@ -12,12 +12,12 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort, mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9
-**Temps d'incantation**  1 [[round]]
-**Composantes** [[composantes|V, G, F]] (quatre vases canopes en albâtre (100 po pièce)), [[composantes|M]] (onyx noire d’une valeur de 100 po par [[DV]] de la cible)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** instantanée
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort, mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9  
+**Temps d'incantation**  1 [[round]]  
+**Composantes** [[composantes|V, G, F]] (quatre vases canopes en albâtre (100 po pièce)), [[composantes|M]] (onyx noire d’une valeur de 100 po par [[DV]] de la cible)  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce sort éviscère la cible et lui arrache son essence vitale et ses organes internes. La victime subit 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (20d6 au maximum). Si elle succombe à ces blessures, le sort attire ses organes hors de son cadavre et les enferme dans les quatre vases canopes avant de les sceller. 1d4 [[round|rounds]] plus tard, le cadavre se relève sous forme de [[momie]] (si la cible possédait 8 [[DV]] ou moins), ou en [[momie]] [[Archétypes#CREATUREEVOLUEE|évoluée]] (si la cible possédait 9 [[DV]] ou plus).

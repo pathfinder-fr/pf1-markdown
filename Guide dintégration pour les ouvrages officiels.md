@@ -25,7 +25,7 @@ En général, on travail sur le wiki "quand on a le temps", et ce n'est en aucun
 Avant toute chose, on créé la page de contenu qui guidera tout les contributeurs sur ce qu'implique l'intégration du supplément voulu. Cette page, dont le titre fixe est "Nom de louvrage (Contenu)", présente absolument tous les noms de ce que contient l'ouvrage.
 
 En haut de page, on présente l'ouvrage :
-@@[[Lien vers la boutique Paizo|Nom de l'ouvrage en VO]] a été publié en Mois 20XX par Paizo inc.
+@@[[Lien vers la boutique Paizo|Nom de l'ouvrage en VO]] a été publié en Mois 20XX par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom d’[[Lien vers la boutique BBE|Nom de l'ouvrage en VF]], en Mois 20XX.
 
 <nav class="wiki-toc"></nav>

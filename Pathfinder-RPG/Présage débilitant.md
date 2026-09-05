@@ -19,6 +19,6 @@ Categories:
 **Portée** moyenne (30 m + 3 m/[[niveau]]) / (20 {s:c} + 2 {s:c}/[[niveau]])  
 **Cible** une créature  
 **Durée** 1 [[round]]/[[niveau]] (T) voir texte  
-**Jet de sauvegarde** non ; **Résistance à la magie** oui
+**Jet de sauvegarde** non ; **Résistance à la magie** oui 
 
 La cible est entourée d’une aura verdâtre qui indique un sinistre destin. À chaque fois qu’elle fait un jet d’attaque ou qu’elle lance un sort, elle doit réussir un jet de [[Volonté]] [[DD]] = 10 + 1/2 [[NLS|niveau de lanceur de sorts]] + [[Charisme]] (pour les [[oracle|oracles]]), ou [[Intelligence]] (pour les [[sorcière|sorcières]]), ou [[Sagesse]] (pour les [[prêtre|prêtres]]). Si elle rate son [[jet de sauvegarde]], l’attaque ou le sort inflige seulement la moitié des dégâts. Le personnage peut dissiper ce sort par une [[action immédiate]] si la cible réussit un [[coup critique]] : la dissipation transforme le critique en coup normal. L’attaque touche mais elle inflige seulement la moitié des dégâts.

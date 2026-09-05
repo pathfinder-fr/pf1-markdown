@@ -15,7 +15,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 3* p.261}
 {s:BDTexte|**PX** 1 600}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Extraplanaire|Extraplanaire]]) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** vision à 360°,
+{s:BDTexte|**Init** +1 ; **Sens** vision à 360°, 
 [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (Dex +1, esquive +1, naturelle +9)}

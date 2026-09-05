@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Amulette de force soudaine|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 9.000 po ; **Poids** —
 (((Description)))
-Ce morceau de verre en forme de larme est suspendu à une chaîne en platine et peut être utilisé une fois par jour pour conférer un sursaut de force. Ce pouvoir peut être utilisé de deux façons différentes. Par une [[action rapide]], le porteur de l’amulette peut effectuer une attaque de corps à corps ou à distance en appliquant son bonus à l’attaque le plus élevé. Sinon, si le porteur de l’amulette possède une [[moine#RESERVEDEKI|réserve de ki]], il peut se concentrer sur le pouvoir de l’amulette par une [[action complexe]] pour récupérer 2 points de [[moine#RESERVEDEKI|ki]].
+Ce morceau de verre en forme de larme est suspendu à une chaîne en platine et peut être utilisé une fois par jour pour conférer un sursaut de force. Ce pouvoir peut être utilisé de deux façons différentes. Par une [[action rapide]], le porteur de l’amulette peut effectuer une attaque de corps à corps ou à distance en appliquant son bonus à l’attaque le plus élevé. Sinon, si le porteur de l’amulette possède une [[moine#RESERVEDEKI|réserve de ki]], il peut se concentrer sur le pouvoir de l’amulette par une [[action complexe]] pour récupérer 2 points de [[moine#RESERVEDEKI|ki]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit posséder une [[Moine#RESERVEDEKI|réserve de ki]] ; **Coût** 4.500 po
 </div>

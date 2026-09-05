@@ -10,12 +10,12 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:cs}{s:CMy}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** les créatures vivantes dans une étendue de 6 mètres de rayon
-**Durée** instantanée
+{s:cs}{s:CMy}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]   
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** les créatures vivantes dans une étendue de 6 mètres de rayon  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Utilisé par le dirigeant nécromancien du Domaine du Mort, qui en avait fait un outil pour retourner les armées de ses ennemis contre elles-mêmes, ce puissant sort de mort inflige 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (20d6 au maximum) aux créatures vivantes situées dans la zone d’effet.

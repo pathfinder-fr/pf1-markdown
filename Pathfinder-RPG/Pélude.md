@@ -44,7 +44,7 @@ Title: Pélude
 *Ce dragon au long cou, à la queue battante et au dos couvert de plusieurs centaines de piquants, exhale de la vapeur d’eau.*
 
 
-Les péludes abhorrent toutes les créatures faibles, fragiles et plus petites qu’eux, tout particulièrement les humanoïdes.
+Les péludes abhorrent toutes les créatures faibles, fragiles et plus petites qu’eux, tout particulièrement les humanoïdes. 
 
 Certains chassent dans les fermes alentours avant de revenir dans leur tanière. D’autres sont vénérés comme des dieux par les hommes-lézards ou d’autres créatures des marais, mais le mauvais caractère du pélude peut le pousser à dévorer ses fidèles s’il se sent insulté.
 

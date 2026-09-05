@@ -64,7 +64,7 @@ plus petites mais la majorité atteignent des tailles bien plus grandes.
 Vous pouvez représenter un large éventail d’espèces de crabes géants
 à partir des caractéristiques données ci-dessus en modifiant leur
 nombre de dés de vie et leur taille (ajustez la Force, la Dextérité et
-la Constitution en conséquence).
+la Constitution en conséquence). 
 
 Les variantes les plus courantes
 sont reprises dans la table ci-dessous :

@@ -23,7 +23,7 @@ Un médecin de guerre ne provoque pas d’[[attaque dopportunité|attaque d’op
 
 
 #### Guérison miséricordieuse (Sur)
-Au [[niveau]] 3, le guérisseur miséricordieux peut canaliser de l’énergie positive pour éliminer une ou plusieurs conditions négatives.
+Au [[niveau]] 3, le guérisseur miséricordieux peut canaliser de l’énergie positive pour éliminer une ou plusieurs conditions négatives. 
 - Au niveau 3, il peut enlever l’une des suivantes : [[fatigué]], [[secoué]] ou [[fiévreux]]. Quand il canalise de l’énergie positive, il peut débarrasser une créature vivante de la condition choisie tant qu’elle se trouve dans le rayon d’action de la canalisation. 
 - Au niveau 6, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises au niveau 3 ou une des suivantes : [[chancelant]], [[hébété]] ou [[maladie|malade]]. Il peut éliminer cette condition ou celle qu’il a choisie au niveau 3 sur un maximum de deux créatures situées dans le rayon de la canalisation. 
 - Au niveau 9, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises aux niveaux précédents ou une des suivantes : [[effrayé]], [[poisons|empoisonné]], [[épuisé]], [[malédiction|maudit]] ou [[nauséeux]]. Il peut éliminer cette condition ou celle qu’il a choisie aux niveaux précédents sur un maximum de deux créatures situées dans le rayon de la canalisation. 

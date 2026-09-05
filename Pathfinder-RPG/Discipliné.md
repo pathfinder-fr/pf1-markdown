@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Avantages**. Le personnage gagne un bonus de sauvegarde de +2 aux [[jds|jets de sauvegarde]] contre les effets de peur. À chaque fois qu’il est visé par un effet de peur qui échoue (soit parce qu’il a réussi son [[jds|jet de sauvegarde]], soit parce qu’il est immunisé contre la peur), il reçoit un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]], de dégâts des armes de mêlée et aux tests de [[BMO]] contre la créature qui a lancé l’effet de peur et ce pendant 1 round.
+**Avantages**. Le personnage gagne un bonus de sauvegarde de +2 aux [[jds|jets de sauvegarde]] contre les effets de peur. À chaque fois qu’il est visé par un effet de peur qui échoue (soit parce qu’il a réussi son [[jds|jet de sauvegarde]], soit parce qu’il est immunisé contre la peur), il reçoit un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]], de dégâts des armes de mêlée et aux tests de [[BMO]] contre la créature qui a lancé l’effet de peur et ce pendant 1 round. 
 
 {s:cs}{s:WMH}
 #### Astuce martiale ([[Endurance et Astuces martiales|règles]])

@@ -8,12 +8,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une fiole d'[[Eau bénite (objet)|eau bénite]]), [[composantes|FD]]
-**Portée** [[contact]]
-**Cibles** créature vivante touchée
-**Durée** instantanée
+{s:cs}{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une fiole d'[[Eau bénite (objet)|eau bénite]]), [[composantes|FD]]  
+**Portée** [[contact]]  
+**Cibles** créature vivante touchée  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage purge les pensées de la cible et emplit son esprit d'un soulagement exultant face au pardon offert à ses péchés. *Absolution* met fin à tout effet de [[branche charme|charme]] ou de [[branche coercition|coercition]] qui affecte la cible (y compris les coercitions inoffensives, comme *[[héroïsme]]*) comme avec *[[annulation denchantement|annulation d'enchantement]]*. Si la cible était forcée à accomplir une action contraire à son alignement, ses vœux de moine, son serment de paladin ou un code de conduite similaire par cet effet de charme ou de coercition, cette action ne lui fait pas perdre de capacité de classe, ce qui inclut l'accès aux sorts divins.

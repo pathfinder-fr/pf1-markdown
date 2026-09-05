@@ -18,7 +18,7 @@ Categories:
 
 Ce sort fonctionne comme *[[forme de vase II]]*, si ce n'est que le lanceur de sorts peut aussi se transformer en [[type vase|vase]] de [[taille TG]]. Quelque soit la vase dont il prend la forme, la portée de la vision aveugle octroyée au personnage passe à 9 m (6 c), et le bonus de résistance aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison passe à +8.
 
-**Vase de taille TG :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [[Force]] et de +10 à sa valeur de [[Constitution]], une attaque de coup (2d6 plus 2d6 acide et [[étreinte (capacité)|étreinte]]) et la capacité de [[constriction (capacité)|constriction]] (2d6), mais subit un malus de -10 à sa valeur de [[Dextérité]].
+**Vase de taille TG :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [[Force]] et de +10 à sa valeur de [[Constitution]], une attaque de coup (2d6 plus 2d6 acide et [[étreinte (capacité)|étreinte]]) et la capacité de [[constriction (capacité)|constriction]] (2d6), mais subit un malus de -10 à sa valeur de [[Dextérité]].  
 Sous cette forme, les vitesses de déplacement octroyées par le sort sont différentes : la vitesse de base passe à 6 m (4 c), la vitesse d'escalade à 6 m (4 c) et la vitesse de nage à 9 m (6 c).
 
 (((This spell functions as ooze form II except you can also assume the form of a Huge ooze. You gain blindsight 60 feet and a +8 resistance bonus on saving throws against mind-affecting effects and poison as well.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 20 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Ces lourdes bottes en cuir sont fabriquées avec une couche de poussière de brique qui protège les pieds de la chaleur. Le personnage gagne une [[Résistance (capacité)|résistance]] au feu de 2 contre les attaques de feu visant ses pieds ou venant de dessous, comme lorsqu’il marche sur des charbons ardents. Si les bottes sont exposées aux dégâts de feu de façon répétée ou prolongée, la chaleur finit par brûler la couche de cuir extérieure et par détruire les bottes (généralement après environ 1d10 + 20 [[round|rounds]] d’exposition).

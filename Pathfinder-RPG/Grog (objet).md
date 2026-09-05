@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg
+{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Mélange infect de différents alcools et de tout ce qui tombe sous la main, le grog a été inventé par les pirates et les marins et ne s’est jamais répandu très loin dans les terres. Personne ne prend jamais un grog s’il peut choisir autre chose mais quiconque a passé suffisamment de temps sur un bateau y a au moins goûté.

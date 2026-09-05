@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 25 kg
+{s:AE}**Prix** 1 po ; **Poids** 25 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces rongeurs blancs semblables à des capibaras de taille P sont originaires des marais et des côtes tempérés. On les trouve souvent comme animaux de compagnie et comme bétail dans certaines régions. Voir les statistiques du [[rat-âne]].

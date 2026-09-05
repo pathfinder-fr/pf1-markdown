@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Marteau météore (arme)|Marteau météore]]
 |[[Domaine de la Chance|Chance]], [[Domaine de la Destruction|Destruction]], [[Domaine du Feu|Feu]], [[Domaine du Mal|Mal]]
-|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Feu|Cendres]], [[Domaine du Feu|Fumée]], [[Domaine de la Chance|Malédiction]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Feu|Cendres]], [[Domaine du Feu|Fumée]], [[Domaine de la Chance|Malédiction]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

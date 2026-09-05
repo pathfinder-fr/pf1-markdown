@@ -64,7 +64,7 @@ LastModified: 2021-04-11 10:26
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs empyréens]].***</li><li>***Voir la description des [[Azata|azatas]].***</li></ul>*Cet individu gracieux de grande taille a des traits elfiques, de majestueuses cornes de cerf et un regard perçant sans-âge.*
 
-Cernunnos est un puissant seigneur empyréen, incarnation de la force primitive de la nature ainsi que de son caractère sauvage.
+Cernunnos est un puissant seigneur empyréen, incarnation de la force primitive de la nature ainsi que de son caractère sauvage. 
 Il s’entoure de conseillers issus de toutes les races célestes. Bien qu’il prenne rarement des décisions hâtives, il lui arrive de laisser sa colère occulter son jugement et va parfois jusqu’à jurer de mener des vendettas personnelles contre des seigneurs-démons ou des archidiables particuliers. Chasseur et archer sans égal, quand Cernunnos traverse ces périodes vengeresses, il est tenté de se rendre aux Enfers ou dans les Abysses afin de prendre sa revanche personnellement.
 
 Sa préférence pour les actions décisives contre ses ennemis le met parfois en conflit avec Korada. Même si Cernunnos reconnaît que les âmes même les plus viles peuvent se mettre en quête de rédemption, il redoute les morts occasionnées pendant la période qu’il faudrait au fiélon pour chercher l’illumination.
@@ -76,7 +76,7 @@ de kilomètres de forêt vierge et de plaines où les animauxqui se font tuer re
 
 Quand il n’est pas en Élysée, Cernunnos oeuvre avec d’autres races célestes à enrayer l’expansion du Mal dans le cosmos. Ayant bien conscience que, malgré sa puissance, il n’est qu’un seul individu, le Seigneur cornu se sert de ses pouvoirs pour renforcer la puissance de ceux qui sont déjà ligués contre les ténèbres et les encourager,  formant des maréchaux et des émissaires dont il fait ses agents sur les mondes des mortels et des fées. Il privilégie les druides et les rôdeurs (notamment les archers) parmi ses fidèles.
 
-Au combat, Cernunnos s’appuie sur sa discrétion et reste à distance pour attirer ses ennemis sur le terrain de son choix. Le seigneur empyréen utilise ensuite sa magie pour façonner le champ de bataille de manière à gêner ses ennemis avant de rejoindre la mêlée.
+Au combat, Cernunnos s’appuie sur sa discrétion et reste à distance pour attirer ses ennemis sur le terrain de son choix. Le seigneur empyréen utilise ensuite sa magie pour façonner le champ de bataille de manière à gêner ses ennemis avant de rejoindre la mêlée. 
 
 ### La foi de Cernunnos
 Les créatures féeriques d’alignement Bon, les plantes intelligentes ainsi que les druides et les rôdeurs du royaume des mortels vénèrent Cernunnos. Les guerriers et les roublards elfiques le voient souvent comme le saint patron de la chance et de la bonne fortune mais d’autres le prient afin qu’il leur prête sa force dans la lutte contre le mal. Ses lieux sacrés sont des bosquets isolés, des chutes d’eau et de profondes forêts.

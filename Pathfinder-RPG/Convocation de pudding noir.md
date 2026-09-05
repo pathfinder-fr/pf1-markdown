@@ -20,7 +20,7 @@ Categories:
 **Durée** 1 [[round]]/[[niveau]] (T)  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage convoque un [[Pouding noir|pudding noir]] qui attaque immédiatement la créature la plus proche. Il n’a aucun contrôle sur le [[Pouding noir|pudding]] qui peut l’attaquer s’il ne voit pas d’adversaire plus proche. Le
+Le personnage convoque un [[Pouding noir|pudding noir]] qui attaque immédiatement la créature la plus proche. Il n’a aucun contrôle sur le [[Pouding noir|pudding]] qui peut l’attaquer s’il ne voit pas d’adversaire plus proche. Le 
 [[Pouding noir|pudding]] est considéré comme une créature convoquée de sous-type [[type extérieur|extérieur]]. Son pouvoir de division fonctionne normalement mais tous les [[Pouding noir|puddings]] dérivés de celui qui a été invoqué disparaissent à la fin du sort.
 
 ### Mythique

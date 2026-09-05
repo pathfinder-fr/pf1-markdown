@@ -134,9 +134,9 @@ Le duelliste est formé au maniement de toutes les [[arme courante|armes courant
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#9|→]] Duelliste, Défense astucieuse : Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?***
 
 Un <u>[[Duelliste#DEFENSEASTUCIEUSE|duelliste]]</u> ajoute son bonus d'Intelligence à sa CA (et non à son bonus de Dextérité à la CA). Il perd ce bonus d'Intelligence à la CA dans toutes les situations où il est privé de son bonus de Dextérité à la CA.
-Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.
+Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.  
 Ce bonus d'Intelligence à la CA s'applique également à la CA de contact.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#10|→]] Duelliste, Défense astucieuse : La capacité de défense astucieuse s'ajoute-t-elle au DMD ?***
 
 Depuis la 6ème impression du *Manuel des joueurs*, la capacité de <u>[[Duelliste#DEFENSEASTUCIEUSE|défense astucieuse]]</u> confère un bonus d'esquive à la CA. Ce bonus s'ajoute donc au DMD du duelliste.}Quand il porte une [[armure légère]] ou pas d'armure du tout, et aucun bouclier, et qu’il manie une [[arme de corps à corps]], le duelliste ajoute 1 point de bonus d’[[Intelligence]] (s’il en a un) par niveau de duelliste à sa [[CA]] en tant que bonus d'esquive. Lorsque le personnage est pris au dépourvu ou qu’il perd son bonus de [[Dextérité]] à la [[CA]] d’une façon ou d’une autre, il perd aussi ce bonus.
@@ -189,7 +189,7 @@ Au niveau 9, le duelliste bénéficie d'une [[attaque dopportunité|attaque d'op
 
 {s:Reference|MUTILATION}
 #### Mutilation (Ext)
-Lorsque le duelliste confirme un [[coup critique]] avec une [[arme légère|arme perforante légère]] ou à une main, il lui est possible d'appliquer l’une des pénalités suivantes en plus des dommages infligés :
+Lorsque le duelliste confirme un [[coup critique]] avec une [[arme légère|arme perforante légère]] ou à une main, il lui est possible d'appliquer l’une des pénalités suivantes en plus des dommages infligés : 
 - réduire toutes les vitesses d'action de la cible de 3 m (2 cases) (jusqu'à minimum de 1,50 m (1 case)), 
 - infliger 1d4 points de dommages à la [[Force]] ou à la [[Dextérité]], 
 - infliger une pénalité de -4 à tous les [[jet de sauvegarde|jets de sauvegarde]], une pénalité de -4 à la [[CA]] ou 2d6 points de dégâts de [[saignement]]. 

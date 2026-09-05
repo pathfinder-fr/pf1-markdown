@@ -8,9 +8,9 @@ Categories:
 ---
 
 <table class="Bestiaire"><tr><td>
-<div class="BD">
-{s:BDTitre|Sorcewyrd|FP 6}
-{s:pucem|Humanoïde monstrueux|Ville|Extraplanaire}
+<div class="BD">    
+{s:BDTitre|Sorcewyrd|FP 6}    
+{s:pucem|Humanoïde monstrueux|Ville|Extraplanaire}     
 - *Source : Bestiaire 2* p.255
 - **PX** 2 400
 - **[[type Humanoïde monstrueux|Humanoïde monstrueux]]** de taille M, LN

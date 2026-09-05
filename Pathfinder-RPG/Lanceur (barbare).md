@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypebarbare}{s:APG}*Un barbare en proie à la rage est assez effrayant au corps à corps, mais certains sont plutôt doués pour lancer des objets à la tête de leurs adversaires avant de se rapprocher et de porter l’estocade.*
+{s:Menuarchétypebarbare}{s:APG}*Un barbare en proie à la rage est assez effrayant au corps à corps, mais certains sont plutôt doués pour lancer des objets à la tête de leurs adversaires avant de se rapprocher et de porter l’estocade.* 
 
 Un lanceur possède les aptitudes suivantes :
 

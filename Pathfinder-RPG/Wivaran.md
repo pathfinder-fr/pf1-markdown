@@ -47,14 +47,14 @@ LastModified: 2017-02-16 20:46
 *Cet humanoïde aux traits draconiques brandit son épieu alors qu’il déploie ses ailes, montre les crocs et grogne méchamment.*
 
 
-Ces créatures draconiques sont le résultat d’expériences magiques sur l’hybridation des vouivres et des kobolds. Les wivarans sont des créatures férocement territoriales et loyales envers les leurs et leur tribu. Ils n’autorisent aucune créature à entrer sur leur territoire sans raison ou offre convenable. Chacun défend ses biens personnels et cherche à se venger contre quiconque ose le voler. La plupart des wivarans neutres et mauvais cherchent avant tout à développer leur territoire et leurs richesses.
+Ces créatures draconiques sont le résultat d’expériences magiques sur l’hybridation des vouivres et des kobolds. Les wivarans sont des créatures férocement territoriales et loyales envers les leurs et leur tribu. Ils n’autorisent aucune créature à entrer sur leur territoire sans raison ou offre convenable. Chacun défend ses biens personnels et cherche à se venger contre quiconque ose le voler. La plupart des wivarans neutres et mauvais cherchent avant tout à développer leur territoire et leurs richesses. 
 
 La majorité des races civilisées considèrent les wivarans comme des brutes véloces, égoïstes et crétines. Toutefois, une créature qui respecte leurs règles concernant leurs biens se rend rapidement compte que les wivarans peuvent devenir des alliés fidèles et tenaces. Les aventuriers wivarans considèrent souvent leurs compagnons comme des frères et soeurs de couvée et prennent de grands risques pour les protéger.
 
 
 ### Personnages Wivaran
 
-Les wivarans ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
+Les wivarans ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants : 
 - **+2 en Dextérité, -2 en Intelligence, +2 en Sagesse**. Les wivarans font preuve d’une grâce reptilienne et sont très déterminés, tout en étant un peu obtus.
 - ** Vitesse normale**. Les wivarans ont une vitesse de déplacement de base de 9 mètres.
 - **Vol**. Les wivarans ont des ailes semblables à celles des dragons qui leur confèrent une vitesse de déplacement en vol de 9 mètres avec une manoeuvrabilité déplorable.

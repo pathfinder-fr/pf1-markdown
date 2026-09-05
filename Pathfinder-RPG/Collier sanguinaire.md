@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Collier sanguinaire|{s:MCA}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 1 000 po ; **Poids** 1 kg
 (((Description)))
-Ce collier en cuir change de taille pour s’adapter à presque toutes les créatures. Une fois par jour, sur commande, la créature qui a attaché le collier à un animal peut faire grandir cet animal et le rendre plus bestial.
+Ce collier en cuir change de taille pour s’adapter à presque toutes les créatures. Une fois par jour, sur commande, la créature qui a attaché le collier à un animal peut faire grandir cet animal et le rendre plus bestial.  
 Le personnage qui attache le collier doit être dans un rayon de 9 mètres autour de l’animal pour ce faire. L’animal gagne les avantages du sort *[[agrandissement]]* (en dépit des restrictions normales de ce sort) pendant 1 minute.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[croissance animale]]* ; **Coût** 500 po

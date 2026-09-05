@@ -9,10 +9,10 @@ Categories:
 
 {s:DieuTech|Muronna|La mère noire| |[[Divinités#ONISDAIMYO|Onis daimyo]]
 |Neutre Mauvais|Éclipses, couchers de soleil, monde invisible
-|N'importe|Aucun
+|N'importe|Aucun 
 |[[Kusarigama (arme)|Kusarigama]]
 |[[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Soleil|Soleil]]
-|[[Domaine du Soleil|Jour]], [[Domaine de lObscurité|Nuit]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Duperie|Voleurs]]
+|[[Domaine du Soleil|Jour]], [[Domaine de lObscurité|Nuit]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Duperie|Voleurs]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

@@ -9,7 +9,7 @@ Categories:
 
 {s:MenuLignages}{s:APG}*L’ensorceleur descend d’une longue lignée d’astrologues et d’explorateurs qui se sont aventurés dans les profondeurs des ténèbres cachées derrière les étoiles. Ils ont touché le vide qui s’y trouvait et se sont laissés toucher par lui, de sorte que l’esprit, l’âme et le corps de leur héritier n’ont qu’un seul désir : traverser le gouffre qui sépare les mondes.*
 
-**Compétence de classe.** [[Connaissances]] (nature).
+**Compétence de classe.** [[Connaissances]] (nature). 
 
 **Sorts supplémentaires.** *[[Serviteur invisible]]* (niveau 3), *[[poussière scintillante]]* (niveau 5), *[[clignotement]]* (niveau 7), *[[appel de la tempête]]* (inflige des dégâts de Feu, dégâts accrus à l’extérieur pendant la nuit) (niveau 9), *[[vol supérieur]]* (niveau 11), *[[champ de force]]* (niveau 13), *[[inversion de la gravité]]* (niveau 15), *[[oeil indiscret suprême]]* (niveau 17), *[[nuée de météores]]* (niveau 19).
 

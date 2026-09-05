@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 250 po ; **Poids** 0,5 kg
+{s:cs}{s:AA}**Prix** 250 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette horloge miniature est assez petite pour être portée.

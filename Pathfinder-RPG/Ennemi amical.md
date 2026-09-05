@@ -11,12 +11,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Enchantement]] ([[coercition]]) ([[effet mental]]) ;** Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Psychiste|Psy]] 7
-**Temps d'incantation** 1 [[action immédiate]]
-**Composantes** [[Composantes|V, G]]
-**Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature vivante
-**Durée** 1 [[round]]
+{s:APG}**École** [[Enchantement]] ([[coercition]]) ([[effet mental]]) ;** Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Psychiste|Psy]] 7  
+**Temps d'incantation** 1 [[action immédiate]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature vivante  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage lance ce sort quand un ennemi est sur le point d'attaquer un de ses alliés. La créature attaque alors une cible valide choisie par le personnage ou son attaque est avortée. De plus, la cible du sort est considérée comme un allié pour les [[pris en tenaille|prises en tenailles]] pendant 1 [[round]].

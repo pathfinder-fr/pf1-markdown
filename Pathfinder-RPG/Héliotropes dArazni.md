@@ -25,5 +25,5 @@ Chacun de ces vases caractéristiques contient un organe associé à une caract�
 
 <u>***Voir aussi l'[[Golarion.Héliotropes dArazni|histoire et les implications de cet artefact]].***</u>
 (((Destruction)))
-Ensemble, Geb et Arazni peuvent détruire n’importe quel *Héliotrope*, liant l’organe qu’il contient à la forme atrophiée de l’héroïne déchue, après un rituel de 24 heures.
+Ensemble, Geb et Arazni peuvent détruire n’importe quel *Héliotrope*, liant l’organe qu’il contient à la forme atrophiée de l’héroïne déchue, après un rituel de 24 heures. 
 </div>

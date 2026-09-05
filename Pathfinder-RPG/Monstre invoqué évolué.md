@@ -12,7 +12,7 @@ Categories:
 
 **Conditions.** [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation), capacité à lancer *[[convocation de monstres I]]*.
 
-**Avantage.** Chaque fois que le personnage lance un sort de *[[convocation de monstres]]*, il peut choisir une [[Évolutions|évolution]] à 1 point autre que bond ou allonge parmi celles qui sont accessibles aux eidolons des invocateurs. La créature invoquée gagne cette évolution et doit se conformer à toutes les limitations que celle-ci impose. (Par exemple, seule une créature ayant une [[allonge]] de 3 mètres ou plus peut prendre l’évolution *attirer*).
+**Avantage.** Chaque fois que le personnage lance un sort de *[[convocation de monstres]]*, il peut choisir une [[Évolutions|évolution]] à 1 point autre que bond ou allonge parmi celles qui sont accessibles aux eidolons des invocateurs. La créature invoquée gagne cette évolution et doit se conformer à toutes les limitations que celle-ci impose. (Par exemple, seule une créature ayant une [[allonge]] de 3 mètres ou plus peut prendre l’évolution *attirer*). 
 
 Les évolutions qui accordent des attaques supplémentaires ou améliorent les attaques existantes ne peuvent être appliquées qu’aux créatures invoquées de taille M ou plus grandes.
 

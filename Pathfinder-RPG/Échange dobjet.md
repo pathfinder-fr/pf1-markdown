@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un objet tenu ne pesant pas plus de 2.5 kg/niveau)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** un objet ne pesant pas plus de 2.5 kg/niveau
-**Durée** instantanée
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un objet tenu ne pesant pas plus de 2.5 kg/niveau)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** un objet ne pesant pas plus de 2.5 kg/niveau  
+**Durée** instantanée  
 **Jet de sauvegarde** Volonté, annule (objet) ; **Résistance à la magie** oui (objet)
 
 L'objet ciblé et l'objet utilisé comme focalisateur pour ce sort échangent immédiatement de place. L'objet ciblé apparaît dans la main du personnage (ou tombe au sol dans sa case s'il est incapable de le tenir). Plus la connexion entre les deux objets est puissante, plus il est difficile de résister au sort, comme indiqué dans le tableau ci-dessous. Les modificateurs se cumulent.

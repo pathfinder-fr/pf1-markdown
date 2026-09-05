@@ -27,8 +27,8 @@ Une dose de poison appliquée sur une arme ou sur un autre objet n’affecte qu�
 Contrairement aux autres afflictions, les poisons « cumulent » leurs effets, ce qui signifie que l’application de plusieurs doses d’un même poison augmente son [[DD]] et sa durée. Si la victime réussit son premier [[jds|jet de sauvegarde]] contre un poison, ses effets ne se cumulent pas : le poison n’affecte pas le personnage et toutes les autres doses sont traitées indépendamment. De même, si un poison a été neutralisé ou s’il ne fait plus effet (que ce soit parce que le personnage a réussi ses jets de sauvegarde ou s’il a survécu à sa durée du poison), les effets ne se cumulent pas. Néanmoins, s’il y a encore du poison actif dans l’organisme du personnage au moment où il est de nouveau affecté par le même poison, les effets se cumulent s’il rate son premier [[jds|jet de sauvegarde]] contre la nouvelle dose. Ceci a deux effets qui durent jusqu’à ce que les poisons se dissipent.
 - **Durée augmentée.** Augmentez la durée du poison de la moitié de la *fréquence* indiquée.
 - **DD augmenté.** Augmentez le [[DD]] du poison de +2.
-Ces augmentations sont cumulables (une troisième dose rajoute la moitié de la *fréquence* à la durée et encore +2 au [[DD]] etc.) Lorsque le personnage est affecté par plusieurs doses d’un même poison, il ne fait qu’un seul [[jds|jet de sauvegarde]] contre le [[DD]] le plus élevé à chaque fois que l’exige la *fréquence* indiquée et non un [[jds|jet de sauvegarde]] pour chaque dose de poison.
-Les multiples doses de poison n’altèrent pas la condition de *guérison* du poison. Si elle est remplie, elle neutralise toutes les doses reçues.
+Ces augmentations sont cumulables (une troisième dose rajoute la moitié de la *fréquence* à la durée et encore +2 au [[DD]] etc.) Lorsque le personnage est affecté par plusieurs doses d’un même poison, il ne fait qu’un seul [[jds|jet de sauvegarde]] contre le [[DD]] le plus élevé à chaque fois que l’exige la *fréquence* indiquée et non un [[jds|jet de sauvegarde]] pour chaque dose de poison.  
+Les multiples doses de poison n’altèrent pas la condition de *guérison* du poison. Si elle est remplie, elle neutralise toutes les doses reçues.  
 Les poisons de contact et de blessure infligent seulement une dose de poison par arme (le poison de l’arme disparaissant après la première attaque réussie). Les poisons inhalés et ingérés peuvent infliger les effets de plusieurs doses à la fois.
 Les doses de poisons différents (si un [[assassin]] combine l’extrait de sanvert de sa dague avec le venin d’araignée de taille M de son épée courte) ne se cumulent pas : les effets de chacun sont traités indépendamment.
 - **Exemples.** Un guerrier fait face à trois araignées de taille M (qui inoculent du venin d’araignée de taille M sur une morsure réussie). Le venin de l’araignée de taille M a normalement une *fréquence* de 4 [[round|rounds]] et un [[DD]] de 14. Lors du premier [[round]], les trois araignées mordent le guerrier qui rate ses trois [[jds|jets de sauvegarde]]. Les deuxième et troisième doses augmentent chacune la durée totale du poison de 2 [[round|rounds]] (la moitié des 4 [[round|rounds]] de *fréquence*) et son [[DD]] de +2, pour une durée totale de 8 [[round|rounds]] (4+2+2) et un [[DD]] de 18 (14+2+2). Heureusement, le venin d’araignée de taille M se soigne avec un seul [[jds|jet de sauvegarde]] réussi, même si le guerrier lutte contre trois doses à la fois.
@@ -727,7 +727,7 @@ Grâce aux efforts combinés de la guilde des assassins et de celle des empoison
 </div>
 
 <div class="BD">
-{s:BDTitre|Essence d’ombre|{s:Reference|Essencedombre}}
+{s:BDTitre|Essence d’ombre|{s:Reference|Essencedombre}} 
 - **Type** blessure ; **JDS** Vigueur (DD 17)  
 - **Fréquence**  1/round pendant 6 rounds   
 - **Effet initial** [[diminution permanente]] 1 [[Force]] ; **Effet secondaire** 1d2 [[Force]] ; **Guérison** 1 réussite   

@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Singe|FP 1/4}
-{s:pucem|Animal|Forêt-Jungle|Tropical}
+{s:pucem|Animal|Forêt-Jungle|Tropical} 
 {s:BDTexte|*Source : Bestiaire p.137*}
 {s:BDTexte|**PX** 100}
 {s:BDTexte|[[type Animal|Animal]] de taille TP, N}

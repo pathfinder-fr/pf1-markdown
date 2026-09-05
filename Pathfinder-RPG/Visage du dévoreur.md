@@ -13,12 +13,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:cs}{s:ISG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Adepte]] 1, [[Antipaladin|Antipal]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cibles** créature touchée
-**Durée** 1 minute/niveau
+{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:cs}{s:ISG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Adepte]] 1, [[Antipaladin|Antipal]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cibles** créature touchée  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage transforme le visage de la cible en une forme hideuse, une chose à moitié fondue avec des pattes d'insecte à la place des dents, des trous suppurants à la place des yeux et des langues pendantes. Il ne choisit pas la forme que prend le visage de la cible et elle est différente à chaque fois qu'il lance le sort. Cette transformation n'interfère pas avec les sens de sa victime ou sa capacité à respirer, mais elle peut l'empêcher de parler. La cible obtient un bonus de circonstances de +4 aux tests d'[[Intimidation]].

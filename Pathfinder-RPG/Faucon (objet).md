@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 40 po ; **Poids** 1 kg
+{s:AE}**Prix** 40 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ce faucon de taille TP aux longues ailes est un oiseau de proie très populaire auprès de nombreux aristocrates. Techniquement, les faucons sont un sous-ensemble des falconidés mais ils sont considérés comme plus « nobles » dans de nombreuses cultures. Dans beaucoup de monarchies, les roturiers n’ont pas le droit de posséder ces oiseaux. Voir les statistiques du [[faucon]].

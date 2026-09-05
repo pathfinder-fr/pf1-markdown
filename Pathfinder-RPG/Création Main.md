@@ -6,7 +6,7 @@ Categories:
 - Non-officiel
 ---
 
-Pathfinder est un jeu de rôle relativement simple mais qui possède de nombreux rouages. Pour débuter, il n’est pas nécessaire de tous les connaître. Cette série d’aides de jeu est justement destinée à expliquer et décortiquer, les engrenages les uns après les autres du système de Pathfinder afin d’en comprendre la mécanique.
+Pathfinder est un jeu de rôle relativement simple mais qui possède de nombreux rouages. Pour débuter, il n’est pas nécessaire de tous les connaître. Cette série d’aides de jeu est justement destinée à expliquer et décortiquer, les engrenages les uns après les autres du système de Pathfinder afin d’en comprendre la mécanique. 
 
 
 Les aides de jeu d’initiation sont divisées en deux grands groupes :
@@ -23,7 +23,7 @@ Débutons tout d’abord par les grands principes autour desquelles s’articule
 
 
 ### Pathfinder et vous
-Pathfinder est un guide pour vous aider à poser un cadre lors de vos parties. Si une règle ne vous convient pas, n’hésitez pas à la modifier après en avoir discuté avec vos joueurs. Le principal intérêt d’avoir un livre de règles, c’est d’avoir une base commune.
+Pathfinder est un guide pour vous aider à poser un cadre lors de vos parties. Si une règle ne vous convient pas, n’hésitez pas à la modifier après en avoir discuté avec vos joueurs. Le principal intérêt d’avoir un livre de règles, c’est d’avoir une base commune. 
 
 
 ### La base du jeu : le d20
@@ -68,7 +68,7 @@ S’il revêtait une autre armure, il bénéficierait de deux bonus de type armu
 
 ## Création
 ### Le personnage
-Avant de commencer de concevoir votre personnage, il faut avoir une idée assez précise de ce qu’il va être. Tout peut être source d’inspiration, sans faire de plagiat intégral, dans de multiples sources : films, séries, romans, BD, jeux... Une idée vous plait, reprenez la à votre compte, modifiez-là ou couplez-là avec une autre. N’hésitez pas à grossir certains traits, qu’ils soient physiques ou psychologiques, afin de rendre votre personnage unique. Une fois que vous aurez une représentation assez précise, il sera plus simple pour vous de construire votre aventurier autour.
+Avant de commencer de concevoir votre personnage, il faut avoir une idée assez précise de ce qu’il va être. Tout peut être source d’inspiration, sans faire de plagiat intégral, dans de multiples sources : films, séries, romans, BD, jeux... Une idée vous plait, reprenez la à votre compte, modifiez-là ou couplez-là avec une autre. N’hésitez pas à grossir certains traits, qu’ils soient physiques ou psychologiques, afin de rendre votre personnage unique. Une fois que vous aurez une représentation assez précise, il sera plus simple pour vous de construire votre aventurier autour. 
 
 
 Dans cette optique, des archétypes vous sont proposés, reprenant les grands classiques adaptés à Pathfinder, avec des conseils, leurs rôles et un personnage pré-construit.
@@ -78,7 +78,7 @@ Pathfinder est un jeu de coopération, la grande majorité des classes sont spé
 
 Un autre facteur à prendre en compte est le type d’aventure jouée, il vaut mieux éviter certaines classes. Non pas parce qu’elles ne correspondent pas, mais en tant que joueur, vous êtes tributaire de votre feuille de personnage et vous risquez d’être limité dans vos actions. Si cela peut être gérable pour une séance, la lassitude risque de s’installer si la situation se prolonge. Par exemple, le rôdeur, le barbare et, à plus forte raison, le druide peuvent se sentir limités dans une aventure urbaine au contraire du roublard. Sans dévoiler le scénario, votre MJ peut vous indiquer quelle en sera la teneur prédominante.
 
-Une fois que vous avez une idée précise de votre personnage, de son groupe et du type d’aventure, vous êtes prêt à le construire.
+Une fois que vous avez une idée précise de votre personnage, de son groupe et du type d’aventure, vous êtes prêt à le construire. 
 
 
 La construction du personnage, étape par étape :
@@ -109,10 +109,10 @@ Il existe plusieurs méthodes pour déterminer les valeurs des caractéristiques
 Les caractéristiques représentent la base physique et psychique de votre personnage. La répartition des valeurs dépend essentiellement du type de personnage que vous comptez créer. Si vous voulez créer un magicien, la Force n’aura que peut d’intérêt, au contraire d’un barbare. Des conseils vous seront donnés dans la description de chacune.
 
 
-Avec chaque archétype, vous trouverez une liste des caractéristiques a privilégier.
+Avec chaque archétype, vous trouverez une liste des caractéristiques a privilégier. 
 
 
-De ces valeurs découlent les modificateurs, en fonction du tableau ci-dessous.
+De ces valeurs découlent les modificateurs, en fonction du tableau ci-dessous. 
 
 
 
@@ -283,7 +283,7 @@ Le choix de la classe de prédilection, qui doit être obligatoirement une class
 
 Quand le personnage acquiert un niveau, y compris le premier, dans sa classe de prédilection, il peut bénéficier de façon permanente soit :
 
-•	d’un bonus d’un point de vie
+•	d’un bonus d’un point de vie 
 
 •	d’un bonus d’un point de compétence
 
@@ -324,7 +324,7 @@ Lanceur spontané de sorts profanes, le lignage d’un ensorceleur est très imp
 #### Le guerrier
 Caractéristique primordiale : Variable en fonction du style (**Force ou Dextérité**)
 
-Doté de nombreux dons, c’est avant tout un tacticien, expert en manœuvre de combat. Il vaut toutefois mieux éviter de disperser les dons dans des registres trop différents et le spécialiser dans un ou deux styles de combat. A noter que mis a part les classes « érudites », comme le magicien ou le barde, il est le seul a posséder la compétence, Ingénierie.
+Doté de nombreux dons, c’est avant tout un tacticien, expert en manœuvre de combat. Il vaut toutefois mieux éviter de disperser les dons dans des registres trop différents et le spécialiser dans un ou deux styles de combat. A noter que mis a part les classes « érudites », comme le magicien ou le barde, il est le seul a posséder la compétence, Ingénierie. 
 
 
 #### Le magicien
@@ -342,7 +342,7 @@ Le moine est une arme capable d’infliger des états préjudiciables à ses enn
 #### Le paladin
 Caractéristique primordiale : **Force**
 
-C’est le héros du bien par excellence, il possède un large éventail pour lutter et résister contre le mal. L’une des difficultés est dans son interprétation qui laisse peu de place aux compromis (il FAUT se mettre d’accord avec son MJ sur la notion des alignements si on décide d’aborder cette classe), même si cela est envisageable dans les cas extrêmes. Bien qu’il possède rapidement des capacités de soins convenables et quelques compétences sociales, il reste avant tout une lame au service de sa cause.
+C’est le héros du bien par excellence, il possède un large éventail pour lutter et résister contre le mal. L’une des difficultés est dans son interprétation qui laisse peu de place aux compromis (il FAUT se mettre d’accord avec son MJ sur la notion des alignements si on décide d’aborder cette classe), même si cela est envisageable dans les cas extrêmes. Bien qu’il possède rapidement des capacités de soins convenables et quelques compétences sociales, il reste avant tout une lame au service de sa cause. 
 
 
 #### Le prêtre
@@ -373,7 +373,7 @@ Boîte-à-outils par excellence, disposant d’un grand nombre de points de comp
 
 
 
-Une fois les caractéristiques, la race et la classe définie, vous pouvez calculer vos différentes valeurs qui vous serviront à interpréter votre personnage. Certains dons peuvent influencer les différents points et bonus, un réajustement est donc possible. Le fait d’effectuer ce calcul maintenant vous permet de mieux visualiser les forces et les faiblesses de votre personnage, vous pourrez donc choisir les dons en connaissance de cause.
+Une fois les caractéristiques, la race et la classe définie, vous pouvez calculer vos différentes valeurs qui vous serviront à interpréter votre personnage. Certains dons peuvent influencer les différents points et bonus, un réajustement est donc possible. Le fait d’effectuer ce calcul maintenant vous permet de mieux visualiser les forces et les faiblesses de votre personnage, vous pourrez donc choisir les dons en connaissance de cause.    
 
 
 <blockquote><h4 class="separator">Arunya, la guerrière flamboyante</h4>  
@@ -390,7 +390,7 @@ Ces bonus servent à savoir si les coups de vos personnages atteignent leurs cib
 
 Les dons, les circonstances, la magie sont autant de facteurs qui peuvent modifier, en jeu, les bonus d’attaque.
 
-Les bonus d’attaque au corps à corps, à distance et en manœuvre offensive sont distincts.
+Les bonus d’attaque au corps à corps, à distance et en manœuvre offensive sont distincts. 
 
 
 ##### Bonus d’attaque au corps à corps :
@@ -480,10 +480,10 @@ La classe d’armure, de contact, est utilisée quand c’est une attaque magiqu
 •	+modificateur de taille
 
 
-<blockquote><h4 class="separator">Les défenses d’Arunya</h4>
+<blockquote><h4 class="separator">Les défenses d’Arunya</h4> 
 La guerrière porte une cotte de mailles pour armure, n’utilisant pas de bouclier car elle est armée d’une épée à deux mains. Ses différentes défenses sont donc :  
 CA = 18 soit 10 (fixe) + 6 (cotte de maille) + 2 (mod de Dextérité)  
-CA, pris au dépourvu = 16 soit 10 (fixe) + 6 (cotte de maille)  
+CA, pris au dépourvu = 16 soit 10 (fixe) + 6 (cotte de maille)   
 CA de contact = 12 soit 10 (fixe) + 2 (mod de Dextérité)  
 DMD = 16 soit 10 (fixe) +1(BBA) + 3 (mod de Force) + 2 (mod de Dextérité)
 </blockquote>
@@ -521,7 +521,7 @@ Si le résultat final est zéro ou négatif, cette valeur est ramenée à 1.
 Chaque point de compétence dépensé dans une compétence permet d’acquérir un rang.
 
 
-Le score maximum du rang est égal au niveau du personnage.
+Le score maximum du rang est égal au niveau du personnage. 
 
 
 <blockquote><h4 class="separator">Les points de compétences Enyil</h4>Enyil est une barde humaine avec 12 en Intelligence. Pour son premier niveau, ses points de compétences sont donc de :  
@@ -541,7 +541,7 @@ Pour déterminer la valeur d’une compétence, il faut additionner :
 
 •	+3 si c’est une compétence de classe et si le personnage possède au moins un rang
 
-•	Si la compétence est soumise au malus d’armure, l’appliquer
+•	Si la compétence est soumise au malus d’armure, l’appliquer 
 
 
 <blockquote><h4 class="separator">Enyil, l’acrobate</h4>Le joueur d’Enyil dépense un point de compétence dans la compétence Acrobatie. Comme la barde est de niveau 1, c’est le maximum que le joueur peut lui attribuer actuellement. Sa Dextérité est de 14, le modificateur est donc de +2 et elle porte une armure de cuir cloutée.  
@@ -611,13 +611,13 @@ Compétences affectées par le malus d’armure :
 **Référence **: Chapitre 5 du manuel des joueurs
 
 
-Les dons peuvent vous permettre de compenser une faiblesse de votre personnage ou, au contraire, améliorer un de ses avantages.
+Les dons peuvent vous permettre de compenser une faiblesse de votre personnage ou, au contraire, améliorer un de ses avantages. 
 
 Ils permettent aussi de personnaliser vos personnages, vos choix donnant une orientation personnelle à votre aventurier.
 
-Obtenu en nombre limité, le choix d’un don doit être bien réfléchi. Pour vous aider, vous trouverez ci-dessous une liste de dons conseillés par classe de personnage à la création.
+Obtenu en nombre limité, le choix d’un don doit être bien réfléchi. Pour vous aider, vous trouverez ci-dessous une liste de dons conseillés par classe de personnage à la création. 
 
-De plus, dans les archétypes, un éventail de dons vous sera aussi proposé.
+De plus, dans les archétypes, un éventail de dons vous sera aussi proposé. 
 
 N’hésitez pas à prendre un don afin d’ouvrir le droit à des dons plus intéressants.
 
@@ -625,7 +625,7 @@ N’hésitez pas à prendre un don afin d’ouvrir le droit à des dons plus int
 #### Nombre de dons
 Au niveau 1, les personnages débutent avec :
 
-•	Un don
+•	Un don 
 
 •	Un don supplémentaire pour les personnages humains
 
@@ -656,13 +656,13 @@ Arunya remplissant les deux conditions, elle peut prendre ce don. Si elle n’av
 
 •	**Barde** : Représentation supplémentaires. Talent (diplomatie), Talent (Utilisation des objets magiques). Négociation, Affinité Magique.
 
-•	**Druide** : Amélioration des créatures convoquées, Ecole renforcée (invocation).
+•	**Druide** : Amélioration des créatures convoquées, Ecole renforcée (invocation). 
 
 •	**Ensorceleur** : Maîtrise du combat défensif, Métamagie (pour les niveaux supérieurs), Science de l’initiative.
 
 •	**Guerrier** : Arme de prédilection, Attaque en puissance, Enchaînement, Art du bouclier, Volonté de fer. Expertise du combat, Science du croc-en-jambe, Science du désarmement.
 
-•	**Magicien** : Dispense de composantes matérielles, Ecole renforcée, Maîtrise du combat défensif.
+•	**Magicien** : Dispense de composantes matérielles, Ecole renforcée, Maîtrise du combat défensif. 
 
 •	**Moine** : Arme de prédilection (mains nues), Attaque en puissance, Attaques réflexes.
 
@@ -692,7 +692,7 @@ Une autre particularité est qu’ils ne sont pas soumis au pourcentage d’éch
 
 
 <blockquote><h4 class="separator">Les listes de sortilèges d’Aurgelmyr</h4> :   
-En tant que prêtre de niveau 1, Aurgelmyr a accès aux listes de sorts de niveau 0 et de niveau 1. Cela veut dire, qu’il connaît l’ensemble des sortilèges contenus dedans, il est libre de choisir.
+En tant que prêtre de niveau 1, Aurgelmyr a accès aux listes de sorts de niveau 0 et de niveau 1. Cela veut dire, qu’il connaît l’ensemble des sortilèges contenus dedans, il est libre de choisir. 
 </blockquote>
 
 
@@ -726,7 +726,7 @@ Après une nuit de repos, Aurgelmyr médite et prépare ses sorts pour la journ�
 Niveau 1-<i>Compréhension des langages, Bénédiction</i> (x2)  
 Niveau 0 (oraison) –<i>Détection de la magie, Lumière et Résistance</i>  
   
-Au cours de la journée, il peut utiliser autant de fois qu’il le désire ses oraisons mais que dans le choix qu’il a fait, c’est à dire <i>détection de la magie, lumière</i> et <i>résistance</i>.  
+Au cours de la journée, il peut utiliser autant de fois qu’il le désire ses oraisons mais que dans le choix qu’il a fait, c’est à dire <i>détection de la magie, lumière</i> et <i>résistance</i>.   
 Il pourra lancer une seule fois <i>compréhension des langages</i> et deux fois <i>bénédiction</i> l’ayant préparée deux fois.
 </blockquote>
 
@@ -745,15 +745,15 @@ Les tours de magie, les sorts de niveau 0, peuvent être utilisés sans limite.
 
 
 <blockquote><h4 class="separator">La magie spontanée d’Enyil</h4> :   
-La barde peut lancer quotidiennement 2 sorts de niveau 1 et un nombre illimité de tours de magie qu’il connaît.   
+La barde peut lancer quotidiennement 2 sorts de niveau 1 et un nombre illimité de tours de magie qu’il connaît.    
 Dans la journée, le joueur décide de lancer un <i>charme-personne</i>. Il lui reste donc un sort de niveau 1 à lancer, il peut continuer à choisir entre <i>charme-personne</i> et <i>déguisement</i>.
 </blockquote>
 
 
 #### Degré de difficulté (DD) des sortilèges
-Cette valeur va s’opposer, si besoin, aux jets de sauvegarde des ennemis.
+Cette valeur va s’opposer, si besoin, aux jets de sauvegarde des ennemis. 
 
-Lorsque votre personnage lance un sort, celui qui le subit peut faire un jet de sauvegarde, cette précision se trouve dans la description de chaque sortilège.
+Lorsque votre personnage lance un sort, celui qui le subit peut faire un jet de sauvegarde, cette précision se trouve dans la description de chaque sortilège. 
 
 Pour en éviter les effets, partiellement ou totalement, son jet de sauvegarde doit être égal ou supérieur au degré de difficulté de celui qui lance le sort.
 

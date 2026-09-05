@@ -52,12 +52,12 @@ La confusion et les effets qui ne permettent pas à une créature de contrôler 
 *Ce ver titanesque soulève son énorme masse dans les airs, une de ses extrémités dressée comme s’il allait frapper de son énorme mâchoire aux crocs acérés.*
 
 Sur certains mondes, on les appelle des dholes. Les bholes font partie des plus grandes créatures vivantes. Ce sont des léviathans aux allures de ver d’un tel gigantisme que peu de gens peuvent se vanter d’en avoir vu un en entier, de la tête à la queue, et ceux qui prétendent l’avoir fait sont atteints de démence ou d’une autre affliction faisant douter de la
-véracité de leurs dires.
+véracité de leurs dires. 
 Ces créatures présentent un vaste éventail de couleurs, du violet au bleu sombre, du gris pâle au jaune en passant
 par le blanc. La gueule caverneuse de la bête se compose de longues mâchoires osseuses qui s’étirent et se déploient autour de la tête quand la créature se nourrit.
 
 
-Les bholes bénéficient d’une incroyable longévité. Ceux qui vivent dans des mondes éloignés ou dans d’autres dimensions y résident depuis une éternité. Ils ne semblent pas s’intéresser à leur propre histoire, peut-être à cause de leur intellect limité, mais ils peuvent vivre éternellement, à moins de succomber à une mort violente.
+Les bholes bénéficient d’une incroyable longévité. Ceux qui vivent dans des mondes éloignés ou dans d’autres dimensions y résident depuis une éternité. Ils ne semblent pas s’intéresser à leur propre histoire, peut-être à cause de leur intellect limité, mais ils peuvent vivre éternellement, à moins de succomber à une mort violente. 
 
 Les bholes habitent toujours dans des étendues désolées car ils sont capables de manger et de digérer n’importe quoi. Au fil du temps, ils réduisent de vastes zones en un simple réseau d’immenses tunnels alvéolaires. Ces régions finissent par s’effondrer sur elles-mêmes et ne laissent que des puits remplis de décombres, d’une taille effrayante.
 </div></td></tr></table>

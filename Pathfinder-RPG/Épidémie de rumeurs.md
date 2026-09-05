@@ -13,12 +13,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Hypnotiseur|Hyp]] 5, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 5
-**Temps d'incantation** 8 heures
-**Composantes** [[composantes|V, G, M]] (un lien physique vers la cible ; voir description)
-**Portée** voir description
-**Cibles** une créature
-**Durée** 1 jour/niveau
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Hypnotiseur|Hyp]] 5, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 5  
+**Temps d'incantation** 8 heures  
+**Composantes** [[composantes|V, G, M]] (un lien physique vers la cible ; voir description)  
+**Portée** voir description  
+**Cibles** une créature  
+**Durée** 1 jour/niveau  
 **Jet de sauvegarde** Volonté, annule, puis Volonté, partiel (voir description) ; **Résistance à la magie** oui
 
 Le personnage maudit la cible pour attirer des préjugés et des rumeurs préjudiciables à son égard choisie au moment de lancer le sort. Si la cible rate le jet de sauvegarde initial pour annuler la malédiction, chaque jour qu'elle passe dans une communauté, elle doit effectuer un jet de [[Volonté]]. Si elle le rate, elle fait ou dit accidentellement une chose qui confirme la rumeur établie par le personnage d'une façon peu flatteuse ou incriminante. Si la créature n'est pas au courant de la nature des rumeurs, elle subit un malus de -4 sur ces [[jds|jets de sauvegarde]] secondaires. Après le premier jet de sauvegarde raté, l'attitude de chaque résident de la communauté envers la cible empire d'une catégorie. Pour chaque échec supplémentaire, la cible devient la victime d'un harcèlement de plus en plus soutenu. Un groupe de résidents pourrait la provoquer ou l'attaquer, ce qui peut mener les autorités à enquêter si la rumeur implique une culpabilité criminelle.

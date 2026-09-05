@@ -62,7 +62,7 @@ dissoudre la pierre et d’en extraire des éléments nutritifs. Il s’agit
 cependant d’un procédé lent et peu efficace qui les rend paresseux
 et léthargiques. C’est pour cela que les basilics ne chassent que
 rarement et qu’ils ne poursuivent quasiment jamais les proies qui
-ont évité leur regard.
+ont évité leur regard. 
 
 Ils comptent plutôt sur leur discrétion et sur
 l’élément de surprise pour assurer leur sécurité et leur subsistance.

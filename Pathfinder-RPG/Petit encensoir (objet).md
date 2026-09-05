@@ -7,7 +7,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**Prix** 5 po ; **Poids** 0,25 kg
+{s:AO}**Prix** 5 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce récipient métallique doté d'un couvercle amovible de petite taille contient un petit creuset dans lequel on brûle de l'encens. Utilisé lors de rituels ou de cérémonies religieuses, un encensoir peut contenir jusqu'à dix morceaux d'[[Encens (objet)|encens]]. Une fois allumé, l'encensoir brûle un morceau d'encens par heure.

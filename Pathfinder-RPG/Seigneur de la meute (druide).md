@@ -13,9 +13,9 @@ Categories:
 #### Lien avec la meute (Ext)
 Le seigneur de la meute ne peut pas choisir de domaine mais doit choisir un compagnon animal. Il gagne un bonus de +2 à l’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] et aux tests de [[Dressage]] en ce qui concerne ce compagnon. Le seigneur de la meute peut avoir plusieurs compagnons mais il doit diviser son niveau effectif de druide entre eux pour déterminer les aptitudes de chacun.
 
-Par exemple, un druide de niveau 4 peut avoir un compagnon animal de niveau 4, ou deux de niveau 2 ou un de niveau 1 et un de niveau 3. À chaque fois que le niveau du seigneur de la meute augmente, il doit décider comment répartir cette hausse entre ses compagnons (ou adopter un nouveau compagnon de niveau 1). Une fois que le druide a attribué un niveau à un compagnon, il ne peut pas changer tant que ce compagnon est dans sa meute (il doit le libérer ou attendre qu’il meure pour attribuer le niveau à un autre compagnon, ce qu’il pourra faire la prochaine fois qu’il prépare un sort).
+Par exemple, un druide de niveau 4 peut avoir un compagnon animal de niveau 4, ou deux de niveau 2 ou un de niveau 1 et un de niveau 3. À chaque fois que le niveau du seigneur de la meute augmente, il doit décider comment répartir cette hausse entre ses compagnons (ou adopter un nouveau compagnon de niveau 1). Une fois que le druide a attribué un niveau à un compagnon, il ne peut pas changer tant que ce compagnon est dans sa meute (il doit le libérer ou attendre qu’il meure pour attribuer le niveau à un autre compagnon, ce qu’il pourra faire la prochaine fois qu’il prépare un sort). 
 
-Le pouvoir de transfert des sorts s’applique uniquement à un compagnon à la fois, le seigneur de la meute ne peut pas l’utiliser pour lancer un sort à cible unique dans l’espoir d’affecter tous ses compagnons.
+Le pouvoir de transfert des sorts s’applique uniquement à un compagnon à la fois, le seigneur de la meute ne peut pas l’utiliser pour lancer un sort à cible unique dans l’espoir d’affecter tous ses compagnons. 
 
 Ce pouvoir remplace [[Druide#PACTEAVECLANATURE|pacte avec la nature]].
 

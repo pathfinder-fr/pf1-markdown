@@ -16,7 +16,7 @@ Categories:
 **Portée** 0 m</br>
 **Cible** une arme de glace</br>
 **Durée** 1 minute/[[niveau]] (T)</br>
-**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non 
 
 Le personnage crée une arme de maître qui a les particularités de la glace et de l’eau maudite. Cette arme doit être une arme simple ou l’arme de prédilection de la divinité du personnage. Elle inflige les dégâts normaux d’une arme de ce type plus 1 point de dégâts de froid par niveau de lanceur (10 au maximum). En outre, toute créature touchée par l’arme est également touchée par l’eau maudite, qui inflige 1d4 points de dégâts si la créature est sensible à l’eau maudite. Si l’arme quitte les mains du personnage plus d’un round, elle fond et le sort se termine.
 À partir d’un niveau de lanceur de sorts de 6, l’arme gagne la propriété spéciale d’arme boomerang quand on la lance, fondant après une attaque et se reformant dans les mains du personnage juste avant son tour suivant.

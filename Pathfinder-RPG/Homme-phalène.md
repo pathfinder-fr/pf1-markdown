@@ -40,13 +40,13 @@ Categories:
 {s:BDTexte|<b>Organisation sociale</b> solitaire}
 {s:BDTexte|<b>Trésor</b> standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Agent du destin (Mag).</b> Une fois par jour, un homme-phalène peut recréer les effets de n’importe quel
+{s:BDTexte|<b>Agent du destin (Mag).</b> Une fois par jour, un homme-phalène peut recréer les effets de n’importe quel 
 sort du 5e niveau ou d’un niveau inférieur (sous la forme d’un pouvoir magique) mais seulement si ces effets influencent les événements de telle sorte que ceux-ci évoluent vers le destin prévu. La nature exacte du destin prévu est laissée à l’appréciation du MJ. Voici quelques exemples types d’utilisation de cette capacité : lancer image accomplie pour forcer quelqu’un à se rendre à un emplacement important, lancer rappel à la vie pour ramener de la mort un individu qui possède un destin important, utiliser rouille pour affaiblir un bâtiment et ainsi causer une calamité nécessaire.}
 {s:BDTexte|<b>Regard envoutant (Sur).</b> Terreur, 9 mètres, Volonté DD 18 annule. Les créatures qui ratent leur jet de sauvegarde contre cette attaque sont secouées pendant 1d6 rounds. Si une créature qui souffre déjà d’un effet de terreur vient à rater son jet de sauve-garde contre cette capacité, elle subit alors un affaiblissement temporaire de 1d4 Sag. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde dépend du Charisme.}
 
 
 </td><td><div>*Les ailes sombres de cette mince silhouette humanoïde l’enveloppe comme une cape. Ses deux yeux rouges et monstrueux brillent d’une lueur maléfique.*
 
-On  ne  sait  pas  grand  chose  de  ces  étranges  créatures  si  ce n’est  que,  quand  elles  apparaissent,  des  calamités  s’ensuivent. Les hommes-phalènes se considèrent comme des agents du destin.  Ils  possèdent  des  pouvoirs  extraordinaires  qui  leur permettent de guider le destin. La plupart des gens qui ont rencontré  un  homme-phalène  ne  s’en  souviennent pas  mais  ils  agissent  généralement  de  telle  manière que les plans incompréhensibles de ces étranges
+On  ne  sait  pas  grand  chose  de  ces  étranges  créatures  si  ce n’est  que,  quand  elles  apparaissent,  des  calamités  s’ensuivent. Les hommes-phalènes se considèrent comme des agents du destin.  Ils  possèdent  des  pouvoirs  extraordinaires  qui  leur permettent de guider le destin. La plupart des gens qui ont rencontré  un  homme-phalène  ne  s’en  souviennent pas  mais  ils  agissent  généralement  de  telle  manière que les plans incompréhensibles de ces étranges 
 créatures  s’accomplissent.  Un homme-phalène  mesure  presque 2,10 mètres de hauteur et pèse 50 kg
 </div></td></tr></table>

@@ -24,7 +24,7 @@ Le personnage masque et manipule l’aura de la cible pour tromper les gens dés
 
 *Aura d’alignement.* Le personnage peut changer l’alignement visible de la cible, afin d’induire en erreur les sorts détectant l’alignement, comme *[[détection du Mal]]*. Il peut décaler l’alignement perçu d’un cran maximum sur chaque axe mais il ne peut pas donner à sa cible un alignement diamétralement opposé à celui qu’elle possède réellement. Par exemple, il ne peut pas faire passer un personnage Loyal Mauvais pour un personnage Chaotique Bon. Il peut aussi modifier la puissance de l’aura, en plus ou en moins, d’un nombre de crans égal, au maximum, à la moitié de son niveau.
 
-*Aura d’émotion.* Les manipulations du personnage masquent les émotions réelles de la cible et présentent un ensemble de couleurs de son choix. Les créatures qui tentent un test de [[Bluff]], [[Diplomatie]], [[Intimidation]] ou [[Psychologie]] contre la cible ne reçoivent pas de bonus au test dû aux informations glanées dans l’aura de la cible.
+*Aura d’émotion.* Les manipulations du personnage masquent les émotions réelles de la cible et présentent un ensemble de couleurs de son choix. Les créatures qui tentent un test de [[Bluff]], [[Diplomatie]], [[Intimidation]] ou [[Psychologie]] contre la cible ne reçoivent pas de bonus au test dû aux informations glanées dans l’aura de la cible. 
 
 *Aura de santé.* Le personnage modifie l’aura de la cible pour dissimuler sa condition physique, révélant à la place des blessures, un empoisonnement, une maladie ou un état préjudiciable de son choix. Il masque également sa [[moine#RESERVEDEKI|réserve de points de ki]] ou autres, manipulant les chiffres pour faire croire à n’importe quel nombre normalement plausible pour sa cible.
 

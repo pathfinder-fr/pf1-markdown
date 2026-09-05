@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}**Prix** 50 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
+{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}**Prix** 50 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Fait en bois, en os ou en matériau similaire, ce masque recouvre l’apparence et l’identité véritables du porteur d’un visage haineux et méprisant. Du fait de l’excellente facture et des détails parfaits du masque de guerre, le porteur gagne un bonus de +1 à ses tests d’[[Intimidation]] pour démoraliser un adversaire.

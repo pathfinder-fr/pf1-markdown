@@ -8,9 +8,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pc (standard), 10 po (vision) ; **Poids** 0,2 kg (standard), 0,14 kg (vision)
+{s:AE}**Prix** 2 pc (standard), 10 po (vision) ; **Poids** 0,2 kg (standard), 0,14 kg (vision)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Cet amphibien de taille Min est surtout utilisé comme familier auprès des lanceurs de sorts. Les crapauds vivent dans la plupart des environnements chauds et tempérés et se nourrissent d’insectes. Voir les statistiques du [[crapaud]].  
   
 {s:cs}{s:AA}*Crapaud vision*. Ces animaux sont principalement trouvés dans la Jungle sauvage. Le venin psychoactif présent sur leur peau fait office de léger hallucinogène lorsque la peau du crapaud est léchée. Les centres d’élevage de ces créatures se font en dehors de la Jungle sauvage et produisent des spécimens inoffensifs.

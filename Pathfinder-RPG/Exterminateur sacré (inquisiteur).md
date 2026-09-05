@@ -19,9 +19,9 @@ Au niveau 4, si un exterminateur sacré surprend un adversaire de manière à l�
 
 Les attaques à distance peuvent devenir des attaques sournoises si la cible se situe à 9 mètres ou moins de l’exterminateur sacré.
 
-Avec une arme qui inflige des dégâts non-létaux (comme une matraque, un fouet ou une attaque à mains nues), un exterminateur sacré peut effectuer une attaque sournoise qui inflige des dégâts eux aussi non-létaux. Il ne peut pas utiliser une arme qui inflige des dégâts létaux pour infliger des dégâts non-létaux en effectuant une attaque sournoise, même en subissant le malus habituel de -4.
+Avec une arme qui inflige des dégâts non-létaux (comme une matraque, un fouet ou une attaque à mains nues), un exterminateur sacré peut effectuer une attaque sournoise qui inflige des dégâts eux aussi non-létaux. Il ne peut pas utiliser une arme qui inflige des dégâts létaux pour infliger des dégâts non-létaux en effectuant une attaque sournoise, même en subissant le malus habituel de -4. 
 
-Un exterminateur sacré doit voir correctement sa cible pour repérer un point vital et doit pouvoir atteindre ce point.
+Un exterminateur sacré doit voir correctement sa cible pour repérer un point vital et doit pouvoir atteindre ce point. 
 Un exterminateur sacré ne peut pas utiliser l’attaque sournoise lorsqu’il cible une créature qui bénéficie d’un camouflage. Cette aptitude remplace les itérations ultérieures de l’aptitude de jugement.
 
 #### Tueur talentueux (Ext)

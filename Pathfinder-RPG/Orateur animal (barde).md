@@ -11,7 +11,7 @@ Categories:
 {s:Menuarchétypebarde}{s:um}*L’orateur animal ne se concentre pas sur les oreilles et l’esprit des humains mais sur les créatures du monde sauvage et des entrailles souterraines des villes.*
 
 #### Ami des animaux
-L’orateur animal choisit un type d’animaux comme les primates, les blaireaux, les ours, les sangliers, les chats, les serpents, etc. Il gagne un bonus de +4 aux tests de [[Dressage]] pour influencer les créatures du type choisi. Ces animaux ont toujours, au pire, une [[Diplomatie|attitude indifférente]] envers le barde et ne l’attaquent jamais à moins qu’il ne les attaque en premier.
+L’orateur animal choisit un type d’animaux comme les primates, les blaireaux, les ours, les sangliers, les chats, les serpents, etc. Il gagne un bonus de +4 aux tests de [[Dressage]] pour influencer les créatures du type choisi. Ces animaux ont toujours, au pire, une [[Diplomatie|attitude indifférente]] envers le barde et ne l’attaquent jamais à moins qu’il ne les attaque en premier. 
 
 On peut ordonner à un [[Compagnons animaux|compagnon animal]] ou à un animal contrôlé par magie (du même type que celui que le barde a choisi) d’attaquer le barde, mais il ne s’exécute que si la personne qui donne l’ordre gagne un test de [[Charisme]] opposé à celui du barde (la personne peut faire ce test une fois par round, jusqu’à ce qu’elle réussisse, ensuite, elle n’a plus besoin de le faire). Les animaux surnaturels (comme ceux qui possèdent l’archétype fiélon) peuvent tenter un test de [[Charisme]] opposé à celui du barde avec un bonus de +4 pour vaincre leur hésitation. Ce pouvoir n’a aucun effet sur les créatures autres que les animaux. Il remplace la [[Représentations#FASCINATION|fascination]].
 

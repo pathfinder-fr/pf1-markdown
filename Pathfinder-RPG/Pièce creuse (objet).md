@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 12 po ; **Poids** 0,05 kg
+{s:cs}{s:UI}**Prix** 12 po ; **Poids** 0,05 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Une pièce creuse ressemble en tout point à une pièce de monnaie locale typique et est souvent fabriquée à partir d'une pièce de monnaie ordinaire - bien que pour les métaux nobles comme l'or, la pièce soit généralement fabriquée avec un intérieur en fer ou en acier, puis plaquée avec le métal le plus précieux. En tournant la pièce le long de son bord, on dévisse les deux moitiés, révélant un mince espace creux à l'intérieur. Ces pièces sont souvent utilisées pour dissimuler de petits messages écrits sur du papier très fin lors d’une livraison secrète. Pour remarquer la véritable nature d'une pièce creuse, il faut réussir un test de [[Perception]] [[DD]] 25.

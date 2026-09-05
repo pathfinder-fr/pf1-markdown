@@ -9,7 +9,7 @@ Categories:
 
 {s:MenuEquipement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:uc}
 #### Les armes à feu dans une campagne
-Les armes à feu et les [[pistolier|pistoliers]] n’ont pas forcément leur place dans toutes les campagnes et, même si vous êtes impatients de les intégrer dans la vôtre, vous devez décider de leur degré de rareté. Voici quelques exemples du degré de présence des armes à feu et des règles qui les gouvernent.
+Les armes à feu et les [[pistolier|pistoliers]] n’ont pas forcément leur place dans toutes les campagnes et, même si vous êtes impatients de les intégrer dans la vôtre, vous devez décider de leur degré de rareté. Voici quelques exemples du degré de présence des armes à feu et des règles qui les gouvernent. 
 
 L'Univers de jeu officiel de Pathfinder utilise les règles des pistolets émergeants et c’est également la catégorie par défaut pour déterminer la rareté des pistolets dans le supplément l'Art de la Guerre.
 - **Pas de pistolets.** Si vous ne voulez pas voir d’armes à feu  dans vos campagnes, il vous suffit d’ignorer les règles qui suivent. Pathfinder JdR fonctionne très bien sans elles.
@@ -36,7 +36,7 @@ Les armes à feu de ce chapitre appartiennent à l’une de ces deux catégories
 - **Armes à feu rudimentaires.** Les armes à feu rudimentaires sont généralement des armes à mèche, à rouet ou à silex. Leur utilisation requiert plus de finesse et de prudence que les armes à feu évoluées. Les armes à feu rudimentaires se chargent par la gueule, avec une balle et de la poudre (ou d’autres substances alchimiques spéciales) que l’on enfonce dans le canon avant de tirer. On peut charger les munitions des armes à feu rudimentaires à partir d’une cartouche, mais cette cartouche est toujours faite avec un matériau souple (comme le papier ou le tissu) que l’on déchire pour insérer son contenu dans le canon.
 - **Armes à feu évoluées.** Les armes à feu évoluées sont plus sûres et plus précises que les armes à feu rudimentaires. Les munitions des armes à feu évoluées prennent la forme d’une cartouche en métal (généralement en cuivre) chargée dans une chambre plutôt qu’enfoncée dans le canon.
 
-Elles sont ensuite classées selon qu’elles se manient à une ou deux mains ou qu’elles servent d’armes de siège. Comme leur nom l’indique, les armes à une main se manient avec une seule main, les autres à deux mains. On peut néanmoins tirer à une main avec une arme à feu à deux mains mais avec un malus de -4 au [[jet dattaque|jet d’attaque]].
+Elles sont ensuite classées selon qu’elles se manient à une ou deux mains ou qu’elles servent d’armes de siège. Comme leur nom l’indique, les armes à une main se manient avec une seule main, les autres à deux mains. On peut néanmoins tirer à une main avec une arme à feu à deux mains mais avec un malus de -4 au [[jet dattaque|jet d’attaque]].  
 Les armes de siège sont généralement installées sur une sorte de plate-forme mobile ou autre. Elles ont une puissance de feu bien supérieure mais une cadence de tir très réduite.
 
 {s:Reference|CAPACITE}

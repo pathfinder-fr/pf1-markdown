@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** [[Attaques réflexes]], pouvoir magique racial *[[ténèbres]]*.
 
-**Avantages.** Par une [[action immédiate]], le personnage peut créer un linceul de ténèbres brumeuses autour de sa personne et ainsi bénéficier d’un [[camouflage]] contre une attaque. La brume se dissipe dès l’attaque résolue.
+**Avantages.** Par une [[action immédiate]], le personnage peut créer un linceul de ténèbres brumeuses autour de sa personne et ainsi bénéficier d’un [[camouflage]] contre une attaque. La brume se dissipe dès l’attaque résolue. 
 
 Le personnage peut utiliser ce pouvoir une fois par jour et une fois de plus quand le [[NLS|niveau de lanceur de sorts]] de son pouvoir racial *[[ténèbres]]* atteint 5, 10, 15 et 20.

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 100 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d6/1d6 (P), 1d8/1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#DOUBLE|double]]
+{s:AE}**Prix** 100 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d6/1d6 (P), 1d8/1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#DOUBLE|double]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 La double lame est une arme double : ce sont deux lames jumelles fixées de chaque côté d’un court manche central permettant au porteur d’attaquer en effectuant de grands gestes gracieux et mortels.

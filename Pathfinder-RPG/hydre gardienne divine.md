@@ -44,7 +44,7 @@ LastModified: 2020-09-19 15:49
 </td><td><div>
 <ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Gardien divin, archétype|Gardien divin]].***</li></ul>*Cette hydre majestueuse possède une tête plus grosse que les quatre autres et dégage une aura d’autorité et de danger.*
 
-Un gardien divin est une créature que les dieux ont choisie pour veiller sur un site sacré. Jouissant (ou souffrant diraient certains) du don de vie éternelle, le gardien divin passe des siècles au service de son dieu, à protéger inlassablement le site qui lui a été confié contre tous ceux qui voudraient le profaner.
+Un gardien divin est une créature que les dieux ont choisie pour veiller sur un site sacré. Jouissant (ou souffrant diraient certains) du don de vie éternelle, le gardien divin passe des siècles au service de son dieu, à protéger inlassablement le site qui lui a été confié contre tous ceux qui voudraient le profaner. 
 
 En général, ces gardiens ont une allure plus majestueuse que celle de leurs frères mortels, afin de les différencier des membres ordinaires de leur espèce. Le gardien divin entretient un lien spirituel avec le site qu’il doit garder pour l’éternité. Tant qu’il y demeure, il ne ressent pas les effets de la faim, de la soif, de la maladie ni même de l’âge. En son sein, il possède de nombreux pouvoirs qui lui permettent de le protéger contre les intrus mais il ne peut pas quitter les lieux, sans quoi le fardeau des années passées le rattrapera. Il doit choisir entre la puissance et le prestige qu’apportent ses éternelles responsabilités et la liberté que la mort apporte invariablement.
 

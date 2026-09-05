@@ -14,27 +14,27 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 6, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (des plumes ou des fientes d’aigle)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 minute/[[niveau]]
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 6, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (des plumes ou des fientes d’aigle)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort est semblable à *[[splendeur de laigle|splendeur de l’aigle]]*, si ce n’est qu’il affecte plusieurs créatures.
 
 
 
 (((
 ## Splendeur de l'aigle
-**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (des plumes ou des fientes d’aigle)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 minute/[[niveau]]
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (des plumes ou des fientes d’aigle)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
----
+<hr />
 La créature transformée affiche un maintien inhabituel, s’exprime avec plus d’aisance et projette une impression de plus grande puissance. Le sort offre un [[bonus daltération|bonus d’altération]] de +4 au [[Charisme]]. La cible en bénéficie à chaque fois qu’elle doit se servir de son [[Charisme]]. Les [[ensorceleur|ensorceleurs]] et les [[barde|bardes]] (et autres lanceurs de sorts qui dépendent du [[Charisme]]) qui bénéficient de *splendeur de l’aigle* ne gagnent pas de sorts supplémentaires mais cela augmente le [[DD]] de leurs sorts.
 )))

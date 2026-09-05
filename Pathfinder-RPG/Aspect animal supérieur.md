@@ -16,13 +16,13 @@ Categories:
 ---
 
 {s:UC}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 3, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)
-**Portée** personnelle
-**Cible** lanceur de sorts
-**Durée** 1 minute/[[niveau]] (T)
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)  
+**Portée** personnelle  
+**Cible** lanceur de sorts  
+**Durée** 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonctionne comme *[[aspect animal]]* mais le personnage peut prendre deux aspects à la fois ou rajouter un effet à l’animal dont il a pris l’aspect, comme indiqué plus bas.
 - *Gorille.* Le personnage gagne un bonus de compétence de +2 aux tests de [[Perception]] et un bonus de compétence de +1 aux jets de [[Vigueur]].
 - *Grenouille.* Le personnage gagne une vitesse de nage égale à la moitié de sa vitesse de base, avec tous les avantages qui accompagnent une vitesse de nage naturelle.
@@ -37,13 +37,13 @@ Ce sort fonctionne comme *[[aspect animal]]* mais le personnage peut prendre deu
 (((
 ## Aspect animal
 {s:UC}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2  
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)
-**Portée** personnelle
-**Cible** lanceur de sorts
-**Durée** 1 minute/[[niveau]] (T)
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)  
+**Portée** personnelle  
+**Cible** lanceur de sorts  
+**Durée** 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Le personnage gagne une partie des pouvoirs bénéfiques de l’animal. Sa taille et sa forme de base ne changent pas vraiment mais certaines parties de son anatomie se modifient. Son armure et son équipement s’ajustent en fonction de sa nouvelle apparence pour la durée du sort. Quand il lance aspect animal, il choisit l’un des animaux de la liste et bénéficie des avantages associés. Il ne peut avoir qu’un aspect animal ou aspect animal supérieur actif à la fois.
 - *Gorille.* Les bras du personnage deviennent aussi longs, flexibles et puissants que ceux d’un primate. Les dés de dégâts qu’il inflige avec les attaques à mains nues augmentent d’une catégorie et il gagne un bonus de compétence de +4 aux tests de [[manœuvres offensives]] quand il [[Manœuvres offensives#LUTTE|agrippe]] quelqu’un ou le [[Manœuvres offensives#REPOSITIONNEMENT|repositionne]].
 - *Grenouille.* Les jambes du personnage s’allongent et se musclent. Il gagne un bonus de compétence de +4 aux tests d’[[Acrobaties]] et, quand il saute, on considère qu’il bénéficie toujours d’une course d’élan.

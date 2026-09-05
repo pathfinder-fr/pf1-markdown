@@ -12,7 +12,7 @@ La boucle en bronze de cette large ceinture de cuir représente trois visages d�
 
 Cette attaque utilise le bonus de base à l’attaque et le modificateur de Force du porteur, en ajoutant un bonus de compétence de +4. Elle inflige des dégâts équivalents à une attaque de morsure réalisée par une créature de la taille du porteur (1d6 pour un porteur de taille M, voir la Table des [[Attaques naturelles (capacité)#TABLEATTAQUENATURELLE|attaques naturelles selon la taille]]) en ajoutant le modificateur de Force du porteur.
 
-Cette ceinture n’augmente pas le nombre d’attaques que peut effectuer son porteur en un round, elle offre simplement une alternative pour effectuer des attaques d’opportunité.
+Cette ceinture n’augmente pas le nombre d’attaques que peut effectuer son porteur en un round, elle offre simplement une alternative pour effectuer des attaques d’opportunité. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[morsure magique]]*  ; **Coût** : 2 250 po
 </div>

@@ -19,7 +19,7 @@ Categories:
 ### Pouvoirs de lignage
 *Le sang corrompu du personnage lui permet de détruire les œuvres et actions des mortels.*
 
-**Toucher de Ruination (Mag).** Au [[niveau]] 1, par une [[action simple]], le personnage peut briser un objet de taille M ou plus petit qu'il touche. Les objets magiques, ou portés par des créatures, ont droit à un jet de Vigueur pour résister à cet effet. Les activations de cette capacité ne se cumulent pas. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]].
+**Toucher de Ruination (Mag).** Au [[niveau]] 1, par une [[action simple]], le personnage peut briser un objet de taille M ou plus petit qu'il touche. Les objets magiques, ou portés par des créatures, ont droit à un jet de Vigueur pour résister à cet effet. Les activations de cette capacité ne se cumulent pas. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]]. 
 
 **Résistances des div (Ext).** Au niveau 3, le personnage gagne une résistance au feu de 5 points et un bonus de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre le [[poison]]. Au niveau 9, la résistance passe à 10 points et le bonus contre le poison à +4.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:CM}**Prix** 50 po ; **Poids** 37,5 kg
+{s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:CM}**Prix** 50 po ; **Poids** 37,5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Cette selle curieuse est prévue pour les [[Orque (race)|orques]] qui souhaitent chevaucher un [[Gorthek]]. On enroule de larges sangles en cuir autour de la poitrine et du cou de la bête afin de maintenir la selle en place. Cette selle est également dotée de lanières qui s’enroulent autour des épaules de l’orque afin qu’il reste sur le dos de la créature en cas de violente collision.

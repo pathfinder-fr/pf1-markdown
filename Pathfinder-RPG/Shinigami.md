@@ -46,9 +46,9 @@ Categories:
 </div>
 </td><td><div>*Cet humanoïde émacié, revêtu d’une robe, tient une faux en os assortie aux ailes squelettiques qui émergent de ses épaules.*
 
-Messagers de la mort impitoyables et impartiaux grandement redoutés, les shinigamis s’attachent implacablement à dispenser une mort juste et rapide à ceux qui cherchent à perturber le fragile équilibre de la vie. Contrairement aux autres annonciateurs de mort, plus sinistres, les shinigamis ne trouvent aucun plaisir dans leur mission et ne cherchent pas à faire souffrir, même s’il existe quelques exceptions. Certains individus, justement décrits par leurs semblables comme des « shinigamis renégats », appliquent des méthodes d’exécution qui sont plus clémentes ou plus méprisables, et sont d’alignement Loyal Bon ou Loyal Mauvais.
+Messagers de la mort impitoyables et impartiaux grandement redoutés, les shinigamis s’attachent implacablement à dispenser une mort juste et rapide à ceux qui cherchent à perturber le fragile équilibre de la vie. Contrairement aux autres annonciateurs de mort, plus sinistres, les shinigamis ne trouvent aucun plaisir dans leur mission et ne cherchent pas à faire souffrir, même s’il existe quelques exceptions. Certains individus, justement décrits par leurs semblables comme des « shinigamis renégats », appliquent des méthodes d’exécution qui sont plus clémentes ou plus méprisables, et sont d’alignement Loyal Bon ou Loyal Mauvais. 
 
-Les victimes qui ont vu leur vie épargnée par les bons shinigamis rendent hommage à la clémence et à la capacité d’écoute de ces anges de la mort face aux suppliques de leurs victimes, tandis que d’autres survivants, plus lâches, ne sont encore en vie que parce qu’ils ont triché ou corrompu des shinigamis plus naïfs ou moins honorables en les manipulant.
+Les victimes qui ont vu leur vie épargnée par les bons shinigamis rendent hommage à la clémence et à la capacité d’écoute de ces anges de la mort face aux suppliques de leurs victimes, tandis que d’autres survivants, plus lâches, ne sont encore en vie que parce qu’ils ont triché ou corrompu des shinigamis plus naïfs ou moins honorables en les manipulant. 
 
 Le shinigami mesure 2,70
 mètres et pèse 65 kilos..

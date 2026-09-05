@@ -54,7 +54,7 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-**[[Alchimiste]].** L'alchimiste rajoute une formule d’[[alchimiste#EXTRAITS|extrait]] issue de la [[liste des formules dalchimiste|liste des formules d’alchimiste]] à son livre de formules. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
+**[[Alchimiste]].** L'alchimiste rajoute une formule d’[[alchimiste#EXTRAITS|extrait]] issue de la [[liste des formules dalchimiste|liste des formules d’alchimiste]] à son livre de formules. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît. 
 
 **[[Oracle]].** L'oracle rajoute un sort connu issu de la [[Liste des sorts de prêtres|liste des sorts d’oracle]]. Ce sort doit être inférieur d’au moins un niveau au sort de plus haut niveau que peut lancer l’oracle.
 </td><td width="1%">

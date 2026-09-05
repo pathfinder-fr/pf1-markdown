@@ -28,7 +28,7 @@ Categories:
 {s:BDTexte|**Attaques spéciales** attirance, [[constriction]] (2d6+7), mèches}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20<sup>e</sup> ; concentration +27)}
 {s:BDSorts|Constant — *[[flou]]*, *[[marche sur londe|marche sur l’onde]]* }
-{s:BDSorts|À volonté — *[[enchevêtrement]]* ([[DD]] 18), *[[invisibilité]]*,
+{s:BDSorts|À volonté — *[[enchevêtrement]]* ([[DD]] 18), *[[invisibilité]]*, 
 *[[nappe de brouillard]]* }
 {s:BDSorts|3/jour — [[incantation rapide]] de *[[charme-monstre]]* ([[DD]] 21),
 *[[contrôle de leau|contrôle de l’eau]]*}

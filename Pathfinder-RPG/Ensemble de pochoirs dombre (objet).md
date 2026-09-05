@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Wayang (race)|wayangs|Illustrations/PNJ/Wayang.jpg}{s:MR}**Prix** 30 po ; **Poids** 1 kg
+{s:racial|Wayang (race)|wayangs|Illustrations/PNJ/Wayang.jpg}{s:MR}**Prix** 30 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cet ensemble de 10 pochoirs en métal élaborés est utilisé dans le théâtre de marionnettes des ombres pour projeter des ombres de silhouettes et d’objets hautement stylisées. S’ils sont utilisés pour participer à la création de n’importe quel type de sort ou d’effet de l’ombre (y compris les [[Marionnettiste des ombres (barde)|marionnettes d’ombre]] des [[Barde#REPRESENTATIONBARDIQUE|représentations bardiques]]), le [[Wayang (race)|wayang]] rajoute un bonus de compétence de +1 au [[DD]] de son [[jds|jet de sauvegarde]]. Il faut une main pour utiliser les pochoirs d’ombre.

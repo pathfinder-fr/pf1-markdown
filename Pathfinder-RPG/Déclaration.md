@@ -14,12 +14,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Évocation]] ; **Niveau** [[Barde|Bard]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Hypnotiseur|Hyp]] 5, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un cône de cuivre ou une trompette)
+{s:cs}{s:UI}**École**  [[Évocation]] ; **Niveau** [[Barde|Bard]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Hypnotiseur|Hyp]] 5, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un cône de cuivre ou une trompette)  
 **Portée** jusqu'à 1.5 km/niveau, voir description
-**Cibles** voir description
-**Durée** instantanée
+**Cibles** voir description  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage dicte un court message (jusqu'à 25 mots) qui est immédiatement transmis à toutes les cibles, qui l'entendent aussi clairement que s'il l'exprimait à côté d'elles. Par défaut, ce sort cible toutes les créatures avec une valeur d'[[Intelligence]] de 3 ou plus dans sa portée, mais au choix du personnage, le message peut n'être délivré qu'à certaines créatures, soit à celles qui remplissent un critère, soit à celles qui ne le remplissent pas. Ce critère doit être objectif et observable. Par exemple, le personnage pourrait faire en sorte que *déclaration* n'atteignent que les créatures d'une certaine race. Il ne peut pas choisir un critère basé sur une information non-observable, comme un certain alignement ou une certaine classe.

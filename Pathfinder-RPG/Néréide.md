@@ -57,7 +57,7 @@ Elle peut devenir visible ou transparente à volonté par une [[action libre]].}
 
 
 Les néréides sont des fées aquatiques capricieuses et souvent dangereuses qui prennent l’apparence de femmes magnifiques généralement occupées à se baigner dans l’eau, nues, lorsqu’on les croise.
-De nombreux marins ont connu un destin funeste en suivant une néréide, car même si la beauté de cette créature est surnaturelle, ses baisers mouillés n’en sont pas moins mortels.
+De nombreux marins ont connu un destin funeste en suivant une néréide, car même si la beauté de cette créature est surnaturelle, ses baisers mouillés n’en sont pas moins mortels. 
 
-Certains individus partent à la recherche de néréides car, s’ils parviennent à mettre la main sur le châle d’une de ces créatures, ils pourront l’utiliser pour la forcer à leur obéir. Les néréides qu’on contraint à obéir de la sorte cherchent immédiatement à tuer leur maître dès qu’elles parviennent à récupérer leur châle
+Certains individus partent à la recherche de néréides car, s’ils parviennent à mettre la main sur le châle d’une de ces créatures, ils pourront l’utiliser pour la forcer à leur obéir. Les néréides qu’on contraint à obéir de la sorte cherchent immédiatement à tuer leur maître dès qu’elles parviennent à récupérer leur châle 
 </div></td></tr></table>

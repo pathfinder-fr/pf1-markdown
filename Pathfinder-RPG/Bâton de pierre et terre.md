@@ -10,8 +10,8 @@ Categories:
 {s:BDTitre|Bâton de pierre et terre|}
 **Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 85 800 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est serti en son extrémité d’une émeraude grosse comme le poing, au cœur de laquelle luit une étincelle magique. Son possesseur peut utiliser les sorts suivants :
-• *[[glissement de terrain]]* (1 charge)
+Ce bâton est serti en son extrémité d’une émeraude grosse comme le poing, au cœur de laquelle luit une étincelle magique. Son possesseur peut utiliser les sorts suivants :  
+• *[[glissement de terrain]]* (1 charge)  
 • *[[passe-muraille]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[glissement de terrain]]*, *[[passe-muraille]]* ; **Coût** 42 900 po

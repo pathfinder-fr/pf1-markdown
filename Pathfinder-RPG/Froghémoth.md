@@ -46,7 +46,7 @@ Ces créatures heureusement assez rares figurent parmi les prédateurs
 les plus féroces et monstrueux qui habitent les terres marécageuses.
 Les froghémoths sont des chasseurs qui manient l’art de l’embuscade
 avec une efficacité terrifiante et qui sont capables d’attraper et de
-dévorer des dinosaures, voire même des dragons.
+dévorer des dinosaures, voire même des dragons. 
 
 Lorsqu’elles guettent leur proie, ces immenses créatures se dissimulent dans la boue des
 étangs marécageux profonds, ne laissant dépasser que le sommet
@@ -61,14 +61,14 @@ et ses résistances hors du commun lui font dépasser le stade de
 l’animal. Les druides et les autres disciples du monde naturel
 en conviennent : les froghémoths agissent peut-être comme des
 animaux mais ils ne se sentent jamais véritablement « à l’aise » à
-proximité d’une de ces créatures.
+proximité d’une de ces créatures. 
 
 Les froghémoths, constamment de mauvaise humeur, cherchent souvent à tuer juste par plaisir, allant
 même jusqu’à régurgiter des repas partiellement digérés pour faire
 de la place pour les nouvelles proies qu’ils rencontrent. Ces étranges
 créatures s’éloignent parfois de leur milieu naturel, comme si les
 marécages s’étaient opposés à eux et les avaient contraints à errer
-à la recherche d’un nouveau repaire.
+à la recherche d’un nouveau repaire. 
 
 Certains sages prétendent que
 les froghémoths viennent d’un autre monde et que leurs errances

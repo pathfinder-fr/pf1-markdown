@@ -61,7 +61,7 @@ Si la mante obscure rate sa cible, elle remonte et se laisse
 à nouveau tomber jusqu’à ce qu’elle ait subi des dégâts
 importants ou que sa proie soit vaincue. Dans le premier
 de ces cas, la mante obscure repart vers le plafond et s’y cache en
-espérant que sa « proie » la laisse tranquille.
+espérant que sa « proie » la laisse tranquille. 
 
 La capacité innée
 des mantes obscures à plonger la zone qui les entoure dans des
@@ -70,7 +70,7 @@ les proies qui ont besoin de lumière pour voir.
 Les mantes obscures préfèrent s’établir et chasser dans les
 grottes et les tunnels les plus proches de la surface car c’est là qu’il
 y a généralement le plus de passage et donc le plus d’occasions
-de se nourrir.
+de se nourrir. 
 
 Elles ne se limitent pas à ces cavernes sombres
 cependant : on en trouve parfois dans les forteresses en ruine

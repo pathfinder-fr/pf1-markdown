@@ -11,7 +11,7 @@ Categories:
 La Numérie : une terre aride et dure habitée par des tribus de barbares sauvages et gouvernée par le Sombre Souverain, un despote contrôlé par un groupe de mages manipulateurs jouant avec des forces qu'ils ne comprennent pas.
 
 ### La géographie de la Numérie
-La Numérie est une terre rude balayée par les vents et dépourvue de ressources commerciales mais elle n'en possède pas moins une beauté tourmentée. En dépit de cette beauté, la terre est naturellement aride où  seul le plus fort survit. Le territoire possède très peu de lieux géographiques d'importance, si ce n'est le vaste [[Lac des Brumes et des Voiles]] qui borde le nord du pays. La partie sud de la Numérie possède aussi les cours septentrionaux de plusieurs des rivières qui coulent à travers les [[Royaumes Fluviaux]] et est aussi traversée par le [[Sellen]].
+La Numérie est une terre rude balayée par les vents et dépourvue de ressources commerciales mais elle n'en possède pas moins une beauté tourmentée. En dépit de cette beauté, la terre est naturellement aride où  seul le plus fort survit. Le territoire possède très peu de lieux géographiques d'importance, si ce n'est le vaste [[Lac des Brumes et des Voiles]] qui borde le nord du pays. La partie sud de la Numérie possède aussi les cours septentrionaux de plusieurs des rivières qui coulent à travers les [[Royaumes Fluviaux]] et est aussi traversée par le [[Sellen]]. 
 
 Le pays est bordé à l'ouest par l'[[Ustalav]], hanté par les morts-vivants, au nord par la [[Plaie du Monde]] et ses démons et au sud par les [[Royaumes Fluviaux]] et leurs incessantes guerres. Les seules nations stables qui entourent la [[Numérie]] sont le [[Mendev]] et ses croisés et le [[Brévoy]].
 

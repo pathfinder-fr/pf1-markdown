@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:menuclasseshybrides}
-<div class="fright">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux|liste]] des compagnons animaux.***
-***Voir aussi la [[liste des sorts de chasseur]].***
+<div class="fright">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux|liste]] des compagnons animaux.***  
+***Voir aussi la [[liste des sorts de chasseur]].***  
 {s:PM0|chasseur}**Voir les archétypes du chasseur**&emsp;
 <li ID="chasseur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechasseur}</li>
 </div>{s:mca}*Les chasseurs sont des combattants des terres sauvages qui ont tissé des liens étroits avec de fidèles compagnons animaux. Ils ont développé des tactiques leur permettant de se battre aux côtés de leur compagnon en formant un redoutable duo. Ils connaissent une grande variété de sorts naturels et savent utiliser les capacités et les attributs des animaux pour s’améliorer et améliorer leur compagnon.*
@@ -377,7 +377,7 @@ Le chasseur lance des sorts divins tirés des [[Liste des sorts de druides|liste
 
 Le chasseur peut lancer un sort connu sans le préparer à l’avance. Pour apprendre ou lancer un sort, le chasseur doit avoir une valeur de [[Sagesse]] d’au moins 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] contre un sort de chasseur est de 10 + niveau du sort + modificateur de Sagesse du chasseur.
 
-Le chasseur ne peut pas utiliser d’objets magiques à fin d’incantation ou à potentiel magique contenant des sorts de druide de niveau 7 ou plus, à moins de réussir un test d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
+Le chasseur ne peut pas utiliser d’objets magiques à fin d’incantation ou à potentiel magique contenant des sorts de druide de niveau 7 ou plus, à moins de réussir un test d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]]. 
 
 Son alignement risque de l’empêcher de lancer certains sorts opposés à sa morale ou à son éthique. Consultez les sorts Chaotiques, Mauvais, Bons et Loyaux, plus loin.
 
@@ -400,13 +400,13 @@ Un chasseur ne peut pas lancer des sorts d’un alignement opposé au sien ou à
 
 {s:Reference|COMPAGNONANIMAL}
 #### Compagnon animal (Ext)
-Au niveau 1, le chasseur tisse un lien avec un [[Compagnons animaux|compagnon animal]]. Il commence le jeu avec n’importe quel compagnon animal disponible pour les [[Druide|druides]]. C’est un fidèle camarade qui l’accompagne dans toutes ses aventures.
+Au niveau 1, le chasseur tisse un lien avec un [[Compagnons animaux|compagnon animal]]. Il commence le jeu avec n’importe quel compagnon animal disponible pour les [[Druide|druides]]. C’est un fidèle camarade qui l’accompagne dans toutes ses aventures. 
 
 Ce pouvoir fonctionne comme le compagnon animal du druide (qui fait partie du pouvoir de druide [[Druide#PACTEAVECLANATURE|pacte avec la nature]]).
 
-Le chasseur a un niveau effectif de druide égal à son niveau de chasseur. Si le personnage a droit à un compagnon animal grâce à plusieurs classes, ses niveaux effectifs de druide se cumulent quand il s’agit de déterminer les statistiques et les pouvoirs de son compagnon.
+Le chasseur a un niveau effectif de druide égal à son niveau de chasseur. Si le personnage a droit à un compagnon animal grâce à plusieurs classes, ses niveaux effectifs de druide se cumulent quand il s’agit de déterminer les statistiques et les pouvoirs de son compagnon. 
 
-Le chasseur peut enseigner à son compagnon les tours de l’archétype de [[Tirailleur (rôdeur)|tirailleur]] au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [[DV]] plus son modificateur de [[Sagesse]].
+Le chasseur peut enseigner à son compagnon les tours de l’archétype de [[Tirailleur (rôdeur)|tirailleur]] au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [[DV]] plus son modificateur de [[Sagesse]]. 
 
 Si le chasseur libère son compagnon de ses obligations ou si le compagnon périt, le chasseur peut s’attacher les services d’un autre en priant sans interruption lors d’une cérémonie de 24 heures dans l’environnement où vit le compagnon recherché. Tant que le compagnon animal du chasseur est mort, tous les animaux qu’il convoque avec *[[convocation dalliés naturels|convocation d’alliés naturels]]* restent avec lui une minute par niveau au lieu d’un round par niveau. Le chasseur ne peut avoir qu’un seul sort de convocation d’alliés naturels ainsi actif à la fois. S’il utilise de nouveau ce pouvoir, la convocation d’alliés naturels précédente prend fin immédiatement.
 
@@ -450,7 +450,7 @@ Au niveau 2, le chasseur choisit [[Tir de précision]] ou [[Grande tenaille]] co
 
 {s:Reference|PISTAGE}
 #### Pistage (Ext)
-Au niveau 2, le chasseur ajoute la moitié de son niveau à ses tests de [[Survie]] quand il suit une piste.
+Au niveau 2, le chasseur ajoute la moitié de son niveau à ses tests de [[Survie]] quand il suit une piste. 
 
 {s:Reference|TACTIQUEDUCHASSEUR}
 #### Tactique du chasseur (Ext)
@@ -477,7 +477,7 @@ Au niveau 7 puis tous les six niveaux, le compagnon animal du chasseur apprend u
 
 {s:Reference|DEUXIEMEIMITATIONANIMALE}
 #### Deuxième imitation animale (Sur)
-Au niveau 8, quand le chasseur utilise son pouvoir d’imitation animale, il se choisit deux aspects animaux au lieu d’un seul et peut aussi en assigner deux à son compagnon animal au lieu d’un seul.
+Au niveau 8, quand le chasseur utilise son pouvoir d’imitation animale, il se choisit deux aspects animaux au lieu d’un seul et peut aussi en assigner deux à son compagnon animal au lieu d’un seul. 
 
 Comme le précédent aspect du compagnon, le deuxième n’est pas décompté de la durée quotidienne d’utilisation du chasseur.
 
@@ -501,9 +501,9 @@ Au niveau 14, la portée du lien empathique entre le chasseur et son compagnon a
 
 {s:Reference|FAIREUNAVECLAVIESAUVAGE}
 #### Faire un avec la vie sauvage (Ext)
-Au niveau 17, les animaux respectent le chasseur et son compagnon animal ou les craignent s’ils sont plus ou moins du même type que les imitations animales actuelles du couple : chauve-souris pour les chauves-souris, tigre pour les félins, faucon pour les oiseaux, serpent pour les reptiles etc. Aucun animal d’une telle catégorie (pas même les variétés sanguinaires) n’attaque le chasseur ou son compagnon, à moins d’y être contraint par magie ou d’être agressé par le chasseur ou son compagnon.
+Au niveau 17, les animaux respectent le chasseur et son compagnon animal ou les craignent s’ils sont plus ou moins du même type que les imitations animales actuelles du couple : chauve-souris pour les chauves-souris, tigre pour les félins, faucon pour les oiseaux, serpent pour les reptiles etc. Aucun animal d’une telle catégorie (pas même les variétés sanguinaires) n’attaque le chasseur ou son compagnon, à moins d’y être contraint par magie ou d’être agressé par le chasseur ou son compagnon. 
 
-Le chasseur et son compagnon peuvent tenter de [[Intimidation|démoraliser]] un animal par une [[action rapide]], en lançant 1d20 et en ajoutant le niveau de classe du chasseur et son modificateur de [[Charisme]] au résultat pour déterminer le résultat du test d’Intimidation.
+Le chasseur et son compagnon peuvent tenter de [[Intimidation|démoraliser]] un animal par une [[action rapide]], en lançant 1d20 et en ajoutant le niveau de classe du chasseur et son modificateur de [[Charisme]] au résultat pour déterminer le résultat du test d’Intimidation. 
 
 {s:Reference|MAITRECHASSEUR}
 #### Maître chasseur (Ext)

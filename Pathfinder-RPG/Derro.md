@@ -59,7 +59,7 @@ de mener sur eux d’abominables expériences qui s’inscrivent dans leur
 interminable quête pour découvrir ce qui protège ceux qui vivent au-dessus
 d’eux des brûlures mortelles. Ces expériences
 sont toutefois vouées à l’échec, à cause de la folie
-innée qui accable tous les derros.
+innée qui accable tous les derros. 
 
 Au final, les
 victimes traumatisées sont ramenées chez

@@ -43,7 +43,7 @@ LastModified: 2025-07-09 14:57
 </td><td><div>
 *La silhouette vaguement humanoïde de cette créature presque liquide se compose d’épais morceaux d’une boue brune et humide.*
 
-Les seigneurs de boue sont des créatures agiles entièrement constituées de boue vivante. Certains sont des créatures élémentaires naturelles, d’autres ont été créés par le mélange prolongé de terre et d’eau magique, telle que ceux que l’on trouve dans les fontaines ou les étendues d’eau magiques dont l’eau imprègne le sol alentour.
+Les seigneurs de boue sont des créatures agiles entièrement constituées de boue vivante. Certains sont des créatures élémentaires naturelles, d’autres ont été créés par le mélange prolongé de terre et d’eau magique, telle que ceux que l’on trouve dans les fontaines ou les étendues d’eau magiques dont l’eau imprègne le sol alentour. 
 
 Qu’importent leurs origines, les seigneurs de boue sont des créatures extrêmement xénophobes et territoriales. Ils évitent tout contact avec les créatures humanoïdes et font tout leur possible pour que leur tanière boueuse reste éloignée de toute communauté humanoïde.
 Si un groupe d’humanoïdes s’installent trop près du territoire revendiqué par une enclave de seigneurs de boue, ceux-ci tentent violemment de supprimer les envahisseurs.

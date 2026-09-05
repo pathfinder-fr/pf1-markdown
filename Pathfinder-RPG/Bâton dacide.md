@@ -8,9 +8,9 @@ LastModified: 2024-05-27 16:19
 {s:AE}{s:BDTitre|Bâton d'acide|}
 **Aura** [[Invocation]] modérée ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 28 600 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est fait d’un métal couleur rouille que l’acide a corrodé. Il est surmonté d’une gemme d’un vert maladif. Il permet d’utiliser les sorts suivants.
-• *[[contact corrosif]]* (1 charge)
-• *[[flèche acide]]* (2 charges)
+Ce bâton est fait d’un métal couleur rouille que l’acide a corrodé. Il est surmonté d’une gemme d’un vert maladif. Il permet d’utiliser les sorts suivants.  
+• *[[contact corrosif]]* (1 charge)  
+• *[[flèche acide]]* (2 charges)  
 • *[[brume acide]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[contact corrosif]]*, *[[flèche acide]]*, *[[brume acide]]* ; **Coût** 14 300 po

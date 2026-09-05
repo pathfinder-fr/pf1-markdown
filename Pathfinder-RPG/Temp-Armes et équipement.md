@@ -93,7 +93,7 @@ Référence
 
 ## OBJETS MERVEILLEUX 204
 
-Tout fait. Mise en page automatique demande relecture pour corriger les prix variable et certains liens.
+Tout fait. Mise en page automatique demande relecture pour corriger les prix variable et certains liens.  
 <u>Anadethio => Luciole relecture en cours. => FaustMe relu et remit en page.</u>
 
 - [[Objets merveilleux_arme et equipement]] 206
@@ -129,7 +129,7 @@ Un lien est possible vers AO qui redirige directement sur les attaques d'opportu
 ## Artefacts et Légendes
 [[Temp - Les artefacts en jeu]]
 ## Une fois terminé
-Supprimer différentes pages :
+Supprimer différentes pages : 
 : [[Armures orientales]], [[Tableau récapitulatif des armures orientales]], [[Description des armures orientales]] [[Temp-essai des armure]]
 
 :[[Tableau récapitulatif des armes orientales]], [[Description des armes orientales]], [[Armes de gladiateur]], [[Description des armes de gladiateur]], [[Tableau récapitulatif des armes primitives]]

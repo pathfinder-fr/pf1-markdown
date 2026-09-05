@@ -34,7 +34,7 @@ L’[[Poids transportable|encombrement]] du personnage (total de l’équipement
 
 {s:Reference|MALUSARMURE}
 #### Malus d'armure
-Les armures plus pesantes que le cuir et les boucliers imposent un malus d’armure à tous les tests de [[Compétences|compétence]] basées sur la [[Dextérité]] et la [[Force]]. L’encombrement du personnage peut également imposer un malus d’armure.
+Les armures plus pesantes que le cuir et les boucliers imposent un malus d’armure à tous les tests de [[Compétences|compétence]] basées sur la [[Dextérité]] et la [[Force]]. L’encombrement du personnage peut également imposer un malus d’armure. 
 
 **Boucliers.** Si un personnage porte une armure et utilise un bouclier, les deux malus d’armure se cumulent.
 

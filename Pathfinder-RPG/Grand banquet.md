@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (un os de dinde)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** un festin pour 2 créatures/niveau
-**Durée** 1 heure, voir description
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (un os de dinde)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** un festin pour 2 créatures/niveau  
+**Durée** 1 heure, voir description  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage créé un magnifique et délicieux festin composé de hors d'œuvres, de quatre plats de nourriture et d'une abondance de boissons. La nourriture est servie sur des plateaux ornementés ou dans de somptueuses soupières couvertes, selon le plus approprié au repas. Des couverts et des ustensiles de table apparaissent également - suffisamment pour chaque créature qui participe au festin - ainsi que d'élégantes nappes et napperons. Le sort ne crée pas de meubles, mais le festin s'adapte pour apparaître sur des tables existantes (ou des objets similaires dans l'environnement).

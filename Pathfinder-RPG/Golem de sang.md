@@ -50,9 +50,9 @@ Le golem de sang est une masse d’hémoglobine vivante animée. Il peut ramper 
 
 
 ### Construction
-Le corps du golem de sang doit être fabriqué avec le sang frais d’environ 20 créatures de taille M et des fluides alchimiques d’une valeur minimale de 500 po.
+Le corps du golem de sang doit être fabriqué avec le sang frais d’environ 20 créatures de taille M et des fluides alchimiques d’une valeur minimale de 500 po. 
 
 
 **NLS** 7 ; **Prix** 22 500 po
-**Conditions** [[Création de créatures artificielles]], *[[animation des morts]], [[saignement]], [[soins intensifs]], [[quête]]*, créateur NLS 12 ; **Compétences** [[Artisanat]] (alchimie) DD 17 ; **Coût** 11 500 po.
+**Conditions** [[Création de créatures artificielles]], *[[animation des morts]], [[saignement]], [[soins intensifs]], [[quête]]*, créateur NLS 12 ; **Compétences** [[Artisanat]] (alchimie) DD 17 ; **Coût** 11 500 po. 
 </div></td></tr></table>

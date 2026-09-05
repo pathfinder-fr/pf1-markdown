@@ -461,7 +461,7 @@ La taille de départ des profils taurin et aérien est toujours P, sauf si le co
 
 {s:Reference|EVOLUTIONS}
 ### Évolutions
-Chaque eidolon reçoit un nombre de points d’évolution à dépenser de manière à gagner de nouvelles aptitudes, de nouveaux pouvoirs et autres améliorations. Le [[conjurateur]] peut changer ces nouvelles aptitudes, appelées évolutions, à chaque fois qu’il gagne un niveau mais en dehors de cela, elles sont constantes.
+Chaque eidolon reçoit un nombre de points d’évolution à dépenser de manière à gagner de nouvelles aptitudes, de nouveaux pouvoirs et autres améliorations. Le [[conjurateur]] peut changer ces nouvelles aptitudes, appelées évolutions, à chaque fois qu’il gagne un niveau mais en dehors de cela, elles sont constantes. 
 
 Certaines évolutions nécessitent une forme particulière de l’eidolon ou un niveau minimum de conjurateur.
 
@@ -482,9 +482,9 @@ La description de la capacité indique de « choisir une attaque », et pas de �
 
 [[FAQ- Manuel des joueurs - Règles avancées#18|→]] Conjurateur, Évolution armure naturelle améliorée : Quel est le niveau minimum nécessaire pour sélectionner l'évolution armure naturelle améliorée (page 48) pour mon eidolon ?**'
 
-La description de l'<u>[[Eidolon#ARMURENATURELLEAMELIOREE|évolution]]</u> indique : « Le conjurateur peut choisir cette évolution une fois tous les cinq niveaux. ». Malheureusement, ce texte n'est pas clair.
-Un conjurateur peut sélectionner cette évolution une fois des niveaux 1 à 4, puis une fois de plus des niveaux 5 à 9, puis une troisième fois des niveaux 10 à 14,  puis une quatrième fois des niveaux 15 à 19, et enfin une cinquième fois au niveau 20. Cette formulation sera clarifiée dans le prochain document de mise à jour et l'impression à venir du MRA.
-Mise à jour : Page 48 : Remplacez la description de l'évolution armure naturelle améliorée par :
+La description de l'<u>[[Eidolon#ARMURENATURELLEAMELIOREE|évolution]]</u> indique : « Le conjurateur peut choisir cette évolution une fois tous les cinq niveaux. ». Malheureusement, ce texte n'est pas clair.  
+Un conjurateur peut sélectionner cette évolution une fois des niveaux 1 à 4, puis une fois de plus des niveaux 5 à 9, puis une troisième fois des niveaux 10 à 14,  puis une quatrième fois des niveaux 15 à 19, et enfin une cinquième fois au niveau 20. Cette formulation sera clarifiée dans le prochain document de mise à jour et l'impression à venir du MRA.  
+Mise à jour : Page 48 : Remplacez la description de l'évolution armure naturelle améliorée par :  
 « Armure naturelle améliorée (Ext). Une épaisse fourrure, des écailles rigides ou des plaques osseuses poussent sur la peau de l'eidolon et lui donnent un bonus de +2 à l'armure naturelle. Le conjurateur peut choisir cette évolution une fois au niveau 1, et une fois de plus aux niveaux 5, 10, 15 et 20. »}{s:APG}{s:Reference|ARMURENATURELLEAMELIOREE}**Armure naturelle améliorée (Ext).** Une épaisse fourrure, des écailles rigides ou des plaques osseuses poussent sur la peau de l’eidolon et lui donnent un bonus de +2 à l’armure naturelle. Le conjurateur peut choisir cette évolution une fois au niveau 1, et une fois de plus aux niveaux 5, 10, 15 et 20.
 
 {s:APG}{s:Reference|ATTAQUESMAGIQUES}**Attaques magiques (Sur).** L’eidolon est imprégné de magie, ce qui lui permet de considérer toutes ses attaques naturelles comme étant magiques quand il s’agit d’ignorer la [[RD|réduction des dégâts]]. Si le conjurateur est de niveau 10 ou plus, toutes les armes de l’eidolon sont considérées comme étant du même alignement que lui quand il s’agit d’ignorer la [[RD|réduction des dégâts]].

@@ -14,7 +14,7 @@ Categories:
 ### Pouvoirs accordés
 Le personnage peut faire appel aux ténèbres glacées du vide entre les étoiles pour voler, se rendre sur d’autres mondes ou convoquer des monstres à son service.
 
-**Esprit bien gardé (Ext).** Le personnage gagne un bonus d’intuition de +2 aux [[jds|jets de sauvegarde]] contre tous les [[registre|effets mentaux]].
+**Esprit bien gardé (Ext).** Le personnage gagne un bonus d’intuition de +2 aux [[jds|jets de sauvegarde]] contre tous les [[registre|effets mentaux]]. 
 
 **Déchirer le voile (Sur).** Au niveau 8, le personnage peut instiller une part de la folie brute tapie dans les ténèbres extérieures dans les sorts qu’il lance. L’activation de ce pouvoir est une [[action rapide]] que le personnage doit dépenser lorsqu’il lance un sort visant une seule créature et autorisant un jet de [[Volonté]] pour annuler ou réduire l’effet principal du sort. Si la cible échoue à résister au sort, elle est également [[confus|confuse]] pendant un nombre de rounds égal au niveau du sort alors que les visions du vide qui l’assaillent provoquent une démence temporaire.
 

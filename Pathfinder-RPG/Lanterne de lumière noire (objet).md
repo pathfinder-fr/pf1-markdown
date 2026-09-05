@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}{s:MR}**Prix** 20 po ; **Poids** 1,5 kg ; **DD d'Artisanat (alchimie)** —
+{s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}{s:MR}**Prix** 20 po ; **Poids** 1,5 kg ; **DD d'Artisanat (alchimie)** —  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cette lanterne ne brûle pas de l’huile, mais du [[Fiole de nectar dombre (objet)|nectar d’ombre]]. Lorsque le nectar d’ombre est utilisé comme combustible, cette lanterne crée des ténèbres étranges et floues qui diminuent la [[Exploration#VISIONLUMIERE|luminosité]] d’un degré dans un rayon de 9 mètres. Contrairement à ce qui se passe lorsque le nectar d’ombre est lancé sur une seule cible, ce flou ne transforme pas les ténèbres naturelles en ténèbres surnaturelles. Une fiole de nectar d’ombre alimente une lanterne de lumière noire pendant 1 minute.

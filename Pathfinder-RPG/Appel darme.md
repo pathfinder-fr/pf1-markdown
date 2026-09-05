@@ -10,11 +10,11 @@ Categories:
 - Sort rôdeur 1
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Magus]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V, G]]
-**Portée** 9 m
-**Cible** une arme de corps à corps maniée par un allié
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Magus]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 9 m  
+**Cible** une arme de corps à corps maniée par un allié  
 **Durée** instantanée
 
 *Ce sort est apparu pour la première fois chez les [[Elfe|elfes]] du Royaume elfique, lors de la guerre pour reprendre possession de leur terre ancestrale conquise par le seigneur démon fléau des forêts. Les unités d’élite composées de [[magus]] elfes sont entrées dans la bataille en ayant préparé ce sort au préalable afin de protéger leurs camarades tombés au combat ou pour tenir bon face à leurs terribles adversaires. Alors que la présence elfe se faisait de nouveau sentir sur le monde, ce sort s’est répandu dans toute la région de la Mer Intérieure et au-delà.*

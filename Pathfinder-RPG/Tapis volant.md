@@ -10,7 +10,7 @@ Categories:
 {s:BDTitre|Tapis volant|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 20 000 po (1.50 m x 1.50 m), 35 000 po (1.50 m x 3 m), 60 000 po (3 m x 3 m) ; **Poids** variable
 (((Description)))
-Ce tapis peut se déplacer dans les airs comme s’il était affecté par un sort de *[[vol supérieur]]* de durée illimitée. La taille, les capacités de transport et la vitesse de déplacement des divers modèles de tapis volants sont indiquées sur la table ci-après. Tissé avec soin, chaque tapis est activé par un [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] qui lui est propre. S’il se trouve suffisamment près pour entendre son propriétaire, il peut être activé à distance, auquel cas son utilisateur n’a plus qu’à contrôler le tapis à la voix.
+Ce tapis peut se déplacer dans les airs comme s’il était affecté par un sort de *[[vol supérieur]]* de durée illimitée. La taille, les capacités de transport et la vitesse de déplacement des divers modèles de tapis volants sont indiquées sur la table ci-après. Tissé avec soin, chaque tapis est activé par un [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] qui lui est propre. S’il se trouve suffisamment près pour entendre son propriétaire, il peut être activé à distance, auquel cas son utilisateur n’a plus qu’à contrôler le tapis à la voix.  
 
 
 {.tablo .centre .autoalt}

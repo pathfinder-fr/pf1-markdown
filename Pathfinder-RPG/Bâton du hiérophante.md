@@ -8,16 +8,16 @@ LastModified: 2024-05-27 16:40
 {s:AE}{s:BDTitre|Bâton du hiérophante|}
 **Aura** variable forte ; **NLS** 15 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 220 000 po ; **Poids** 2,5 kg
 (((Description)))
-Le bâton du hiérophante est un objet magique puissant ayant le pouvoir de soigner comme de blesser. Il offre également un certain nombre de protections à son porteur. Le bâton est taillé dans du platine et surmonté d’un diamant bleu rayonnant. Il permet d’utiliser les sorts suivants.
-• *[[bénédiction]]* (1 charge)
-• *[[soins modérés]]* (1 charge)
-• *[[liberté de mouvement]]* (1 charge)
-• *[[immobilisation de personne]]* à [[augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)
-• *[[prière]]* (1 charge)
-• *[[lumière brûlante]]* (1 charge)
-• *[[soins importants]]* (2 charges)
-• *[[colonne de feu]]* (2 charges)
-• *[[force du colosse]]* (2 charges)
+Le bâton du hiérophante est un objet magique puissant ayant le pouvoir de soigner comme de blesser. Il offre également un certain nombre de protections à son porteur. Le bâton est taillé dans du platine et surmonté d’un diamant bleu rayonnant. Il permet d’utiliser les sorts suivants.  
+• *[[bénédiction]]* (1 charge)  
+• *[[soins modérés]]* (1 charge)  
+• *[[liberté de mouvement]]* (1 charge)  
+• *[[immobilisation de personne]]* à [[augmentation dintensité|intensité augmentée]] au 5e niveau (1 charge)  
+• *[[prière]]* (1 charge)  
+• *[[lumière brûlante]]* (1 charge)  
+• *[[soins importants]]* (2 charges)  
+• *[[colonne de feu]]* (2 charges)  
+• *[[force du colosse]]* (2 charges)  
 • *[[vision lucide]]* (2 charges)
 
 Le porteur d’un bâton du hiérophante gagne un bonus de chance de +2 à la [[CA]] et à ses [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]]. Le bâton est également un *bâton +2/+2* et son porteur peut l’utiliser pour châtier ses adversaires. S’il dépense une charge (par une [[action libre]]), le bâton inflige le double des dégâts (×3 sur un coup critique) pendant 1 [[round]].

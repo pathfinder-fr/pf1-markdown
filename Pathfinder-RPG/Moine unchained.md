@@ -11,12 +11,12 @@ Categories:
 {s:MenuPathfinderunchained}{s:PU}*La perfection physique et mentale, voilà l’objectif vital que cherchent à atteindre tous les moines. Pour ces combattants compétents, les prouesses martiales et la lucidité mentale ne font qu’un. Capables de frapper leurs ennemis à la fois avec les poings et des armes, les moines sont probablement les combattants les plus polyvalents de tout champ de bataille. Ils maîtrisent également le ki, une force vitale et spirituelle qu’ils portent en eux et qui leur permet d’accomplir des actions acrobatiques et des démonstrations mystiques prodigieuses. Toutes ces aptitudes sont possibles grâce à la concentration et à la discipline et les moines consacrent leur vie entière à parfaire leur art.*
 
 ### Version unchained
-<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi les [[Pouvoirs de ki]].***
-***Voir aussi les [[Frappes spécialisées]].***
-***Voir aussi les [[voeux]].***
+<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi les [[Pouvoirs de ki]].***  
+***Voir aussi les [[Frappes spécialisées]].***  
+***Voir aussi les [[voeux]].***  
 {s:PM0|moinesunchained}**Voir les archétypes du moine unchained**&emsp;
 <li ID="moinesunchained" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypemoineunchained}</li>
-</div>La plupart des aptitudes du moine ont été retravaillées, y compris son bonus de base à l’attaque, ses dés de vie, ses sauvegardes et nombre de ses aptitudes spéciales. Le résultat aboutit à une version du moine qui est non seulement plus simple à jouer mais qui bénéficie également de beaucoup plus de polyvalence. Le déluge de coups est bien plus simple à utiliser au cours du jeu. Nombre des aptitudes de moine acquises à haut niveau, comme pas chassé et paume vibratoire, ont été intégrées au nouveau système des pouvoirs de ki. Au fur et à mesure que le moine gagne des niveaux, il peut choisir toute une variété de pouvoirs de ki, ce qui permet au joueur de véritablement personnaliser son personnage.
+</div>La plupart des aptitudes du moine ont été retravaillées, y compris son bonus de base à l’attaque, ses dés de vie, ses sauvegardes et nombre de ses aptitudes spéciales. Le résultat aboutit à une version du moine qui est non seulement plus simple à jouer mais qui bénéficie également de beaucoup plus de polyvalence. Le déluge de coups est bien plus simple à utiliser au cours du jeu. Nombre des aptitudes de moine acquises à haut niveau, comme pas chassé et paume vibratoire, ont été intégrées au nouveau système des pouvoirs de ki. Au fur et à mesure que le moine gagne des niveaux, il peut choisir toute une variété de pouvoirs de ki, ce qui permet au joueur de véritablement personnaliser son personnage. 
 
 
 <table CLASS="tablo autoalt centre">
@@ -334,7 +334,7 @@ Toutes les aptitudes de la classe de moine sont décrites ci-dessous.
 {s:ImageDroite|Illustrations/PNJ/Sajan.jpg|35%}
 {s:Reference|ARMESDEMOINE}
 #### Armes et armures
-Le moine est formé au maniement de l'arbalète légère et lourde, du bâton, de la dague, de l'épée courte, de l'épieu, de la fronde, du gourdin, de la hachette, de la javeline, du kama, de la lance, du nunchaku, du sai, du shuriken, du siangham, et toutes les armes spéciales de moine.
+Le moine est formé au maniement de l'arbalète légère et lourde, du bâton, de la dague, de l'épée courte, de l'épieu, de la fronde, du gourdin, de la hachette, de la javeline, du kama, de la lance, du nunchaku, du sai, du shuriken, du siangham, et toutes les armes spéciales de moine. 
 
 Le moine n’est formé ni au port d’armures ni à l’utilisation de boucliers.
 
@@ -377,23 +377,23 @@ L’attaque à mains nues du moine est considérée à la fois comme une arme ma
 </div></div>
 {s:Reference|COUPETOURDISSANT}
 #### Coup étourdissant (Ext)
-Au niveau 1, le moine obtient le don [[Coup étourdissant]] comme don supplémentaire, même s’il ne remplit pas les conditions requises. Au niveau 4 et tous les 4 niveaux par la suite, le moine peut appliquer un nouvel état préjudiciable à la cible de son coup étourdissant. La cible subit l’état choisi pendant un round (au lieu d’être [[étourdi|étourdie]]) et annule toujours l’effet si elle réussit un jet de sauvegarde. Au niveau 4, le moine peut rendre la [[fatigué|fatiguée]]. Au niveau 8, il peut la rendre [[fiévreux|fiévreuse]] pendant 1 minute. Au niveau 12, il peut la rendre [[chancelant|chancelante]] pendant 1d6+1 rounds. Au niveau 16, il peut l’[[aveuglé|aveugler]] ou la rendre [[sourd|sourde]] de manière permanente. Au niveau 20, il peut la [[paralysé|paralyser]] pendant 1d6+1 rounds. Le moine doit choisir l’état préjudiciable qu’il désire infliger avant d’effectuer son jet d’attaque. Ces effets ne se cumulent pas (une créature [[fatigué|fatiguée]] par cette aptitude ne devient pas [[épuisé|épuisée]] si elle est affectée par un nouveau [[Coup étourdissant]]), mais les coups supplémentaires augmentent la durée de l’effet.
+Au niveau 1, le moine obtient le don [[Coup étourdissant]] comme don supplémentaire, même s’il ne remplit pas les conditions requises. Au niveau 4 et tous les 4 niveaux par la suite, le moine peut appliquer un nouvel état préjudiciable à la cible de son coup étourdissant. La cible subit l’état choisi pendant un round (au lieu d’être [[étourdi|étourdie]]) et annule toujours l’effet si elle réussit un jet de sauvegarde. Au niveau 4, le moine peut rendre la [[fatigué|fatiguée]]. Au niveau 8, il peut la rendre [[fiévreux|fiévreuse]] pendant 1 minute. Au niveau 12, il peut la rendre [[chancelant|chancelante]] pendant 1d6+1 rounds. Au niveau 16, il peut l’[[aveuglé|aveugler]] ou la rendre [[sourd|sourde]] de manière permanente. Au niveau 20, il peut la [[paralysé|paralyser]] pendant 1d6+1 rounds. Le moine doit choisir l’état préjudiciable qu’il désire infliger avant d’effectuer son jet d’attaque. Ces effets ne se cumulent pas (une créature [[fatigué|fatiguée]] par cette aptitude ne devient pas [[épuisé|épuisée]] si elle est affectée par un nouveau [[Coup étourdissant]]), mais les coups supplémentaires augmentent la durée de l’effet. 
 
 {s:Reference|DELUGEDECOUPS}
 #### Déluge de coups (Ext)
-Dès le niveau 1, un moine peut faire pleuvoir un [[Moine unchained#DELUGEDECOUPS|déluge de coups]] lors d’une [[attaque à outrance]]. Dans ce cas, il peut effectuer une attaque supplémentaire en appliquant son bonus de [[BBA|bonus de base à l’attaque]] le plus élevé. Cette attaque vient en plus des éventuelles attaques supplémentaires conférées par un sort de [[rapidité]] ou des effets similaires. Quand il utilise cette aptitude, le moine peut effectuer ses attaques avec n’importe quelle combinaison d’attaques à mains nues et d’attaques avec des [[Groupe darmes#Armesdemoine|armes spéciales de moine]]. Lorsqu’il effectue un [[Moine unchained#DELUGEDECOUPS|déluge de coups]], le moine ne subit des malus normalement occasionnés quand on manie plusieurs armes mais il ne gagne aucune attaque supplémentaire en plus de celles conférées par le déluge de coups s’il manie plusieurs armes (il gagne quand même les attaques supplémentaires conférées par un  [[BBA|bonus de base à l’attaque]] suffisamment élevé, par cette aptitude et par une [[rapidité]] ou des effets similaires). Au niveau 11, un moine peut effectuer une attaque supplémentaire en appliquant son [[BBA|bonus de base à l’attaque]] le plus élevé quand il fait pleuvoir un [[Moine unchained#DELUGEDECOUPS|déluge de coups]]. Cette attaque vient en plus de la première attaque supplémentaire conférée par cette aptitude et en plus des attaques supplémentaires conférées par une [[rapidité]] ou des effets similaires.
+Dès le niveau 1, un moine peut faire pleuvoir un [[Moine unchained#DELUGEDECOUPS|déluge de coups]] lors d’une [[attaque à outrance]]. Dans ce cas, il peut effectuer une attaque supplémentaire en appliquant son bonus de [[BBA|bonus de base à l’attaque]] le plus élevé. Cette attaque vient en plus des éventuelles attaques supplémentaires conférées par un sort de [[rapidité]] ou des effets similaires. Quand il utilise cette aptitude, le moine peut effectuer ses attaques avec n’importe quelle combinaison d’attaques à mains nues et d’attaques avec des [[Groupe darmes#Armesdemoine|armes spéciales de moine]]. Lorsqu’il effectue un [[Moine unchained#DELUGEDECOUPS|déluge de coups]], le moine ne subit des malus normalement occasionnés quand on manie plusieurs armes mais il ne gagne aucune attaque supplémentaire en plus de celles conférées par le déluge de coups s’il manie plusieurs armes (il gagne quand même les attaques supplémentaires conférées par un  [[BBA|bonus de base à l’attaque]] suffisamment élevé, par cette aptitude et par une [[rapidité]] ou des effets similaires). Au niveau 11, un moine peut effectuer une attaque supplémentaire en appliquant son [[BBA|bonus de base à l’attaque]] le plus élevé quand il fait pleuvoir un [[Moine unchained#DELUGEDECOUPS|déluge de coups]]. Cette attaque vient en plus de la première attaque supplémentaire conférée par cette aptitude et en plus des attaques supplémentaires conférées par une [[rapidité]] ou des effets similaires. 
 
 {s:Reference|DONSUPPLEMENTAIRE}
 #### Dons supplémentaires
-Au niveau 1, 2 et tous les 4 niveaux par la suite, un moine choisit un don supplémentaire à choisir dans la liste suivante :
+Au niveau 1, 2 et tous les 4 niveaux par la suite, un moine choisit un don supplémentaire à choisir dans la liste suivante : 
 
 [[Attaques réflexes]], [[École du scorpion]], [[Esquive]], [[Lancer improvisé]], [[Parade de projectiles]], [[Science de la lutte]] et [[Surprise]].
 
-Au niveau 6, les dons suivants s’ajoutent à la liste : [[Poing de la gorgone]], [[Science de la bousculade]], [[Science de la feinte]], [[Science du croc-en-jambe]], [[Science du désarmement]] et [[Souplesse du serpent]].
+Au niveau 6, les dons suivants s’ajoutent à la liste : [[Poing de la gorgone]], [[Science de la bousculade]], [[Science de la feinte]], [[Science du croc-en-jambe]], [[Science du désarmement]] et [[Souplesse du serpent]]. 
 
-Au niveau 10, les dons suivants s’ajoutent à la liste : [[Attaque éclair]], [[Capture de projectiles]], [[Fureur de la méduse]],[[Science du critique]].
+Au niveau 10, les dons suivants s’ajoutent à la liste : [[Attaque éclair]], [[Capture de projectiles]], [[Fureur de la méduse]],[[Science du critique]]. 
 
-Un moine peut choisir ces dons supplémentaires même s’il ne remplit pas les conditions requises.
+Un moine peut choisir ces dons supplémentaires même s’il ne remplit pas les conditions requises. 
 
 {s:Reference|ESQUIVETOTALE}
 #### Esquive totale (Ext)
@@ -405,7 +405,7 @@ Un moine peut choisir ces dons supplémentaires même s’il ne remplit pas les 
 
 {s:Reference|RESERVEDEKI}{s:Reference|POINTDEKI}
 #### Réserve de ki (Sur)
-À partir du niveau 3, le moine dispose d’une réserve de points ki, une énergie surnaturelle qu’il peut utiliser pour accomplir des exploits étonnants. Cette réserve contient un nombre de points égal à la moitié du niveau du moine + son modificateur de [[Sagesse]]. Tant qu’il reste au moins 1 point ki dans la réserve du moine, celui-ci peut effectuer une frappe ki.
+À partir du niveau 3, le moine dispose d’une réserve de points ki, une énergie surnaturelle qu’il peut utiliser pour accomplir des exploits étonnants. Cette réserve contient un nombre de points égal à la moitié du niveau du moine + son modificateur de [[Sagesse]]. Tant qu’il reste au moins 1 point ki dans la réserve du moine, celui-ci peut effectuer une frappe ki. 
 
 Au niveau 3, les attaques à mains nues d’une frappe ki sont considérées comme des [[armes magiques]] pour ce qui est d’ignorer la [[RD|réduction de dégâts]].
 

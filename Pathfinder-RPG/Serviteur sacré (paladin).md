@@ -20,14 +20,14 @@ Cette capacité fonctionne comme la [[paladin#CHATIMENTDUMAL|capacité de paladi
 #### Sorts
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#42|→]] Paladin, Serviteur sacré : L'archétype serviteur sacré (page 118) obtient un domaine. Est-ce que le serviteur sacré obtient tous les avantages de ce domaine, comme ses pouvoirs de domaine ?***
 
-Oui.
+Oui.  
 Sauf précision contraire, lorsqu'un personnage obtient un domaine de prêtre, ils bénéficient de tous les avantages associés à ce domaine : les pouvoirs accordés, l'accès aux sorts de domaine, ainsi qu'un emplacement de sort de domaine à chaque niveau de sort qu'il est capable de lancer. *(Retour à l'<u>[[Serviteur sacré (paladin)|archétype]]</u>)*}Au niveau 4, lorsqu’un serviteur sacré acquiert la capacité de lancer des sorts, il choisit également un [[domaines|domaine]] associé à sa divinité. Son niveau de [[prêtre]] effectif pour ce domaine est égal à son niveau de paladin -3. De plus, il gagne un [[emplacement de sort]] de domaine pour chaque niveau de sorts de paladin auquel il a accès. Chaque jour, il doit préparer un sort provenant de son domaine dans chacun de ces emplacements.
 
 #### Pacte divin (Sur)
 Au [[niveau]] 5, plutôt que de former un lien divin avec son arme ou sa monture, le serviteur sacré en tisse
-un avec son symbole sacré.
+un avec son symbole sacré. 
 
-Par une [[action simple]], il peut lier un esprit céleste à son symbole sacré pendant 1 minute par niveau de paladin. Lorsque cet esprit est appelé, il fait luire le symbole sacré comme une [[exploration#VISIONLUMIERE|torche]].
+Par une [[action simple]], il peut lier un esprit céleste à son symbole sacré pendant 1 minute par niveau de paladin. Lorsque cet esprit est appelé, il fait luire le symbole sacré comme une [[exploration#VISIONLUMIERE|torche]]. 
 
 Au [[niveau]] 5, l’esprit offre un bonus. Pour chaque tranche de trois niveaux au-delà du niveau 5, il accorde un bonus supplémentaire.
 
@@ -37,7 +37,7 @@ Si le serviteur sacré augmente son nombre d’impositions des mains quotidienne
 
 L’esprit céleste n’offre aucune amélioration si le symbole sacré est entre les mains de qui que ce soit d’autre que le serviteur sacré, mais les avantages octroyés reprennent effet dès que le serviteur sacré récupère le symbole.
 
-Le serviteur sacré peut utiliser cette capacité une fois par jour au niveau 5 et une fois de plus par jour par tranche de 4 niveaux au-delà du niveau 5, jusqu’à un maximum de 4 fois par jour au [[niveau]] 17.
+Le serviteur sacré peut utiliser cette capacité une fois par jour au niveau 5 et une fois de plus par jour par tranche de 4 niveaux au-delà du niveau 5, jusqu’à un maximum de 4 fois par jour au [[niveau]] 17. 
 
 Si le symbole sacré est détruit alors qu’il est occupé par un esprit céleste, le serviteur sacré perd accès à cette capacité pendant 30 jours, ou jusqu’à ce qu’il gagne un niveau si cela se produit avant. Pendant cette période d’attente, il subit un malus de –1 aux [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] par armes.
 

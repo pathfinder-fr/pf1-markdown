@@ -113,16 +113,16 @@ Categories:
 
 </center>
 
-**Dé de vie.** d8.
+**Dé de vie.** d8. 
 
 ### Conditions requises
-Pour pouvoir devenir champion de la perfection, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir champion de la perfection, le personnage doit satisfaire aux conditions suivantes. 
 
-**Alignement.** Loyal Bon.
+**Alignement.** Loyal Bon. 
 
 **Compétences.** 5 rangs en [[Connaissances]] (religion), un total de 5 rangs en [[Linguistique]] ou dans d'autres compétences de [[Connaissances]].
 
-**Divinité.** Doit prier le [[Golarion.Irori|dieu du savoir]].
+**Divinité.** Doit prier le [[Golarion.Irori|dieu du savoir]]. 
 
 **Spécial.** Capacités de classe [[Paladin#CHATIMENTDUMAL|châtiment du Mal]] et [[Moine#SERENITE|sérénité]].
 
@@ -134,7 +134,7 @@ Voici les compétences de classe du champion de la perfection : [[Acrobaties]] 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de champion de la perfection.
 #### Armes et armures
-Le champion de la perfection ne gagne aucune formation supplémentaire au port des armures ou au maniement des armes.
+Le champion de la perfection ne gagne aucune formation supplémentaire au port des armures ou au maniement des armes. 
 
 {s:reference|DETECTIONDUCHAOS}
 #### Détection du Chaos (Mag)
@@ -158,7 +158,7 @@ Au niveau 2, le champion de la perfection ajoute la moitié de son niveau de cla
 
 {s:reference|CHATIMENTGENERALISE}
 #### Châtiment généralisé (Ext)
-Au niveau 3, par une [[action simple]], un champion de la perfection peut réaliser une unique attaque à mains nues tout en utilisant sa capacité [[paladin#CHATIMENTDUMAL|châtiment du Mal]] ou [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]. Si l'attaque touche, il peut faire une autre attaque avec le même bonus contre une créature mauvaise ou chaotique adjacente à la première cible et qui est aussi à portée d'allonge. Il obtient les avantages du châtiment du Mal ou du châtiment du Chaos (celui qu'il a utilisé) contre cette créature jusqu'à son prochain tour, sauf pour les dégâts supplémentaires sur la première attaque. Cela ne coûte pas d'utilisation supplémentaire de châtiment du Mal ou châtiment du Chaos.
+Au niveau 3, par une [[action simple]], un champion de la perfection peut réaliser une unique attaque à mains nues tout en utilisant sa capacité [[paladin#CHATIMENTDUMAL|châtiment du Mal]] ou [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]. Si l'attaque touche, il peut faire une autre attaque avec le même bonus contre une créature mauvaise ou chaotique adjacente à la première cible et qui est aussi à portée d'allonge. Il obtient les avantages du châtiment du Mal ou du châtiment du Chaos (celui qu'il a utilisé) contre cette créature jusqu'à son prochain tour, sauf pour les dégâts supplémentaires sur la première attaque. Cela ne coûte pas d'utilisation supplémentaire de châtiment du Mal ou châtiment du Chaos. 
 
 Au niveau 6, un champion de la perfection peut utiliser cette capacité pour attaquer autant d'adversaires qu'il le souhaite, tant qu'il sont dans sa zone contrôlée et qu'ils sont adjacents à la cible précédente. Cette capacité fonctionne comme les dons [[Enchaînement]] et [[Succession denchaînements|Succession d'enchaînements]] mais elle ne se cumule pas avec eux et n'impose pas de malus à la [[CA]].
 

@@ -19,7 +19,7 @@ Categories:
 **Cible** lanceur de sorts  
 **Durée** 24 heures  
 
-Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen, avancé et vénérable]].
+Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen, avancé et vénérable]]. 
 
 Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de [[force]], de [[dextérité]] et de [[constitution]] qui apparaissent avec l’[[état civil et mensurations#AGE|âge moyen, avancé et vénérable]].
 

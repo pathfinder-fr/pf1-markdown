@@ -16,7 +16,7 @@ Un moine de la montagne sacrée possède les aptitudes de classe suivantes.
 Au niveau 2, le moine de la montagne sacrée gagne [[Robustesse]] comme don supplémentaire. De plus, il obtient un bonus d’armure naturelle de +1. Cette capacité remplace [[moine#ESQUIVETOTALE|Esquive totale]].
 
 #### Posture du bastion (Ext)
-Au niveau 4, le moine de la montagne sacrée devient, comme la pierre, quasiment impossible à déraciner et à déplacer. Si le moine commence et termine son tour dans la même case, il ne peut pas être jeté [[à terre]] ni déplacé contre sa volonté avant le début de son prochain tour, sauf par des effets mentaux ou de téléportation.
+Au niveau 4, le moine de la montagne sacrée devient, comme la pierre, quasiment impossible à déraciner et à déplacer. Si le moine commence et termine son tour dans la même case, il ne peut pas être jeté [[à terre]] ni déplacé contre sa volonté avant le début de son prochain tour, sauf par des effets mentaux ou de téléportation. 
 
 Au niveau 16, le moine est immunisé contre toutes les tentatives visant à le déplacer contre sa volonté, même les effets mentaux et de téléportation.
 

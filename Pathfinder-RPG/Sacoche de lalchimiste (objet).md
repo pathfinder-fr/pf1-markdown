@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 25 po ; **Poids** 2,5 kg
+{s:AE}**Prix** 25 po ; **Poids** 2,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 On considère qu’un [[Alchimiste]] possédant une sacoche de l’alchimiste a toutes les [[composantes|composantes matérielles]] qu’il faut pour créer ses [[Alchimiste#EXTRAITS|extraits]], ses [[Alchimiste#MUTAGENES|mutagènes]] et ses [[Alchimiste#BOMBES|bombes]], à l’exception des composantes ayant un coût spécifique. La sacoche de l’alchimiste n’offre aucun bonus aux tests d’[[Artisanat]] (alchimie).

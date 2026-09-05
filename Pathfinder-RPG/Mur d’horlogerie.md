@@ -19,7 +19,7 @@ Categories:
 **Effet** Un mur de mécanismes en bronze dont la zone d'effet est de 1,5 m/[[niveau]] (1{s:c}/[[niveau]])  
 **Jet de sauvegarde** [[Réflexes]] (1/2) ou [[Réflexes]] (annule), voir texte ; **Résistance à la magie** Oui
 
-Un mur immobile et vertical constitué d'engrenages et de rouages tournants surgit. Toute créature passant à travers le mur subit 1d6 points de dégâts perçants et tranchants par tranche de 2 [[NLS|niveaux de lanceurs de sorts]] (maximum 10d6); un jet de [[Réflexes]] réussi réduit les dégâts de moitié.
+Un mur immobile et vertical constitué d'engrenages et de rouages tournants surgit. Toute créature passant à travers le mur subit 1d6 points de dégâts perçants et tranchants par tranche de 2 [[NLS|niveaux de lanceurs de sorts]] (maximum 10d6); un jet de [[Réflexes]] réussi réduit les dégâts de moitié. 
 
 Le mur ne peut pas être invoqué pour qu'il occupe le même espace qu'une créature ou celui d'un autre objet. Il doit toujours être appliqué sur un sol plat, même si vous pouvez en arranger des parties pour qu'il s'adapte à l'espace disponible.
 

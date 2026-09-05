@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Urgir est la capitale officieuse du territoire de [[Belkzen]].
+Urgir est la capitale officieuse du territoire de [[Belkzen]]. 
 
 Le pays n'a pas de véritable capitale, mais s'agissant de la plus grande cité dans les terres sauvages, Urgir a obtenu le statut de siège du gouvernement, même si plusieurs tribus occupant le territoire ne le voient pas ainsi.

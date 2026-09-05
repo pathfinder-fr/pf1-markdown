@@ -15,7 +15,7 @@ Categories:
 
 **(Source: Heroes of the streets)**
 
-**Ecole** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 1, [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1  
+**Ecole** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 1, [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1   
 **Composantes** [[composantes|V,G,M/FD]](une petite clé)  
 **Portée** [[présentation des sorts#PORTEE|contact]]  
 **Cible** Une créature  

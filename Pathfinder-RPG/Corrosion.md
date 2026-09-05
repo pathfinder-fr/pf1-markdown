@@ -19,5 +19,5 @@ Categories:
 **Durée** 3 [[round|rounds]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-D’un contact, ce sort fait apparaître et grandir une tache d’acide corrosif sur une cible. Au premier round, l’acide inflige 1 point de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15 au maximum). Au deuxième, la tache grandit et inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15d4 au maximum). Au troisième et dernier round, l’acide recouvre toute la créature et inflige 1d6 points de dégâts d’acide par
+D’un contact, ce sort fait apparaître et grandir une tache d’acide corrosif sur une cible. Au premier round, l’acide inflige 1 point de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15 au maximum). Au deuxième, la tache grandit et inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15d4 au maximum). Au troisième et dernier round, l’acide recouvre toute la créature et inflige 1d6 points de dégâts d’acide par 
 [[NLS|niveau de lanceur de sorts]] (15d6 au maximum). La cible peut utiliser une action complexe pour gratter l’acide ou le laver avec au moins 4 litres de liquide pour réduire de moitié les dégâts du round et annuler ceux des rounds suivants.

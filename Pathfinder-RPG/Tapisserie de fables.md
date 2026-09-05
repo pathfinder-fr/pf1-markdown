@@ -9,14 +9,14 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Varisiens|Varisiens|varisiens}{s:ISR}**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Médium|Méd]] 4
-**Temps d'incantation** 1 round
-**Composantes** [[composantes|V, G, F]] (le kapenia du personnage)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)
-**Effet** 1 personnage légendaire/4 niveaux
-**Durée** 1 round/niveau
+{s:regional|Varisiens|Varisiens|varisiens}{s:ISR}**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Médium|Méd]] 4  
+**Temps d'incantation** 1 round  
+**Composantes** [[composantes|V, G, F]] (le kapenia du personnage)  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)  
+**Effet** 1 personnage légendaire/4 niveaux  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort tisse les ombres et les couleurs du kapenia du personnage en forme de personnages légendaires des contes varisiens. Ce sort fonctionne comme une *[[convocation dombres|convocation d'ombres]]* émulant une *[[convocation de monstres I]]*, à l'exception de ce qui est indiqué ici. Le personnage ne peut convoquer qu'une seule copie d'un même personnage à la fois, même s'il lance ce sort plusieurs fois. Les créatures d'ombre sont à 40 % réelles et sont choisies parmi la liste suivante.
 
 
@@ -35,14 +35,14 @@ Ce sort tisse les ombres et les couleurs du kapenia du personnage en forme de pe
 
 (((
 ## Convocation d'ombres
-**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** voir texte
-**Effet** voir texte
-**Durée** voir texte
+**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** voir texte  
+**Effet** voir texte  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; variable (voir texte) ; **Résistance à la magie** oui (voir texte)
----
+<hr />
 Cette [[illusion]] permet d’invoquer la matière même du [[plan de lombre|plan de l’Ombre]] afin de donner naissance à un ou plusieurs êtres, objets ou effets magiques. Grâce à *Convocation d’ombres* il est possible de reproduire l’effet de n’importe quel sort d’[[invocation]] ([[convocation]]) ou d’[[invocation]] ([[création]]) du 3e [[Niveau de sort|niveau]] ou moins de [[magicien]] ou d’[[ensorceleur]].
 
 L’efficacité du résultat est fortement réduite (20 % de l’original seulement), mais les créatures persuadées de la réalité de l’[[illusion]] sont affectées de façon normale. Toute personne ayant la moindre interaction avec l’objet, l’effet magique ou la créature d’ombre peut lancer un jet de [[Volonté]]. S’il réussit, il prend conscience qu’il a affaire à une ombre.

@@ -222,7 +222,7 @@ Au niveau 1, le ninja apprend à utiliser les [[poisons]] et ne risque pas de s�
 
 {s:Reference|ATTAQUESOURNOISE}
 #### Attaque sournoise
-Si le ninja surprend son adversaire alors qu’il est dans l’incapacité de se défendre efficacement, il peut viser un point vital pour lui infliger des dégâts supplémentaires.
+Si le ninja surprend son adversaire alors qu’il est dans l’incapacité de se défendre efficacement, il peut viser un point vital pour lui infliger des dégâts supplémentaires. 
 
 Les attaques du ninja font des dégâts supplémentaires à chaque fois que sa cible est privée de son bonus de [[Dextérité]] à la [[CA]] (qu’elle possède ou non un bonus de Dextérité) ou quand elle est [[prise en tenaille]]. Au niveau 1, ces dégâts supplémentaires sont de 1d6 et ils augmentent de 1d6 tous les deux niveaux. Ce sont des dégâts de précision. Si le ninja fait un [[coup critique]] lors d’une attaque sournoise, il ne multiplie pas le montant des dégâts de précision. Les attaques à distance permettent de faire des attaques sournoises si la cible se trouve à moins de 9 m.
 
@@ -240,7 +240,7 @@ La réserve de ki se régénère chaque matin, après 8 heures de repos ou de m�
 
 {s:Reference|ASTUCEDENINJA}
 #### Astuces de ninja
-Alors que le ninja évolue, il apprend de nouvelles [[astuces]] qui lui permettent de tromper ses ennemis et d’obtenir des pouvoirs surnaturels.
+Alors que le ninja évolue, il apprend de nouvelles [[astuces]] qui lui permettent de tromper ses ennemis et d’obtenir des pouvoirs surnaturels. 
 
 À partir du niveau 2, il apprend une astuce et une de plus tous les deux niveaux. Sauf indication contraire, il ne peut pas choisir la même astuce à plusieurs reprises.
 

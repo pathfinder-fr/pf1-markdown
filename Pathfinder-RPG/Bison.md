@@ -60,9 +60,9 @@ Les caractéristiques du bison peuvent être utilisées pour
 pratiquement tous les autres grands animaux vivant en troupeaux, comme les buffles.
 
 Les bisons s’effraient beaucoup moins facilement que leurs cousins domestiqués et
-se montrent beaucoup plus agressifs lorsqu’il s’agit de protéger le troupeau ou les jeunes.
-Les taureaux adultes sont particulièrement agressifs au cours de la saison de reproduction,
-allant jusqu’à s’entre-tuer pour conquérir certaines femelles.
+se montrent beaucoup plus agressifs lorsqu’il s’agit de protéger le troupeau ou les jeunes. 
+Les taureaux adultes sont particulièrement agressifs au cours de la saison de reproduction, 
+allant jusqu’à s’entre-tuer pour conquérir certaines femelles. 
 
 Après la saison de la reproduction, les troupeaux se séparent généralement en groupes plus petits en prévision
 de l’arrivée des veaux.

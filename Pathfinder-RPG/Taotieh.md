@@ -51,7 +51,7 @@ Une créature qui tente de s’échapper de
 cette dimension en taillant la pierre avec une
 arme doit être capable de passer la solidité du mur
 de 8. Lorsqu’une créature réussit à se frayer
-ainsi un chemin hors de cette dimension, elle émerge de la gueule
+ainsi un chemin hors de cette dimension, elle émerge de la gueule 
 du taotieh et se retrouve dans n’importe
 quelle case adjacente à l’espace occupé par le taotieh : celui-ci ne
 présente aucune brèche et toutes les créatures qui seront ainsi

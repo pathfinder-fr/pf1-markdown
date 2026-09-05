@@ -123,10 +123,10 @@ Categories:
 ### Conditions
 Pour devenir un enfant divin, le personnage doit remplir les critères suivants.
 
-**Dons.** [[Arme de prédilection]] (arme de prédilection de la divinité), [[Volonté de fer]].
-**Compétences.** 5  rangs en [[Art de la magie]], 5  rangs en [[Connaissances]] (plans), 5 rangs en [[Connaissances]] (religion).
-**Sorts.** Doit être capable de lancer des sorts divins.
-**Divinité.** Doit avoir une divinité tutélaire.
+**Dons.** [[Arme de prédilection]] (arme de prédilection de la divinité), [[Volonté de fer]].  
+**Compétences.** 5  rangs en [[Art de la magie]], 5  rangs en [[Connaissances]] (plans), 5 rangs en [[Connaissances]] (religion).  
+**Sorts.** Doit être capable de lancer des sorts divins.  
+**Divinité.** Doit avoir une divinité tutélaire.  
 **Alignement.** Doit être identique à celui de la divinité tutélaire.
 
 ### Compétences de classe
@@ -135,22 +135,22 @@ Voici les compétences de classe de l’enfant divin (et la caractéristique ass
 **Rangs de compétence par niveau.** 2 + modificateur d’[[Intelligence]]
 
 ### Caractéristiques de la classe
-Voici les aptitudes de la classe de l’enfant divin.
+Voici les aptitudes de la classe de l’enfant divin. 
 
 #### Armes et armures
 Un enfant divin ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. Il peut choisir les dons [[Arme de prédilection supérieure]], [[Spécialisation martiale]] et [[Spécialisation martiale supérieure]] dès qu’il remplit normalement leurs conditions (mais il n’a pas à remplir les conditions liées à la possession de niveaux de [[guerrier]] pour les choisir).
 
 {s:Reference|SORTS}
 #### Sorts
-Quand un enfant divin gagne un niveau, il gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts divins qui était sienne avant de devenir enfant divin. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, ce qui veut dire qu’il ajoute, pour l’essentiel, le niveau d’enfant divin à celui d’une autre classe de lanceur de sorts divins qu’il possède. Si le personnage possédait plus d’une classe de lanceur de sorts divins avant de devenir enfant divin, il doit choisir à quelle classe il ajoute ce nouveau niveau lorsqu’il s’agit de déterminer les sorts quotidiens.
+Quand un enfant divin gagne un niveau, il gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts divins qui était sienne avant de devenir enfant divin. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, ce qui veut dire qu’il ajoute, pour l’essentiel, le niveau d’enfant divin à celui d’une autre classe de lanceur de sorts divins qu’il possède. Si le personnage possédait plus d’une classe de lanceur de sorts divins avant de devenir enfant divin, il doit choisir à quelle classe il ajoute ce nouveau niveau lorsqu’il s’agit de déterminer les sorts quotidiens. 
 
 {s:Reference|ALIGNEMENTOPPOSÉ}
 #### Alignement opposé (Ext)
-Un enfant divin doit choisir l’un des sous-types d’alignement suivants en tant qu’alignement opposé : bon, chaotique, loyal ou mauvais. L’alignement opposé qu’il choisit ne doit pas faire partie de son propre alignement. Il gagne un bonus de +1 aux tests de niveau de lanceur de sorts effectués pour ignorer la [[RM|résistance à la magie]] des créatures qui possèdent ce sous-type d’alignement.
+Un enfant divin doit choisir l’un des sous-types d’alignement suivants en tant qu’alignement opposé : bon, chaotique, loyal ou mauvais. L’alignement opposé qu’il choisit ne doit pas faire partie de son propre alignement. Il gagne un bonus de +1 aux tests de niveau de lanceur de sorts effectués pour ignorer la [[RM|résistance à la magie]] des créatures qui possèdent ce sous-type d’alignement. 
 
 {s:Reference|SPÉCIALISATIONDEDOMAINE}
 #### Spécialisation de domaine (Sur)
-Au niveau 3, un enfant divin choisit un domaine conféré par sa divinité. Ce domaine devient la spécialisation choisie par l’enfant divin pour représenter sa divinité tutélaire. La plupart des enfants divins choisissent des [[Domaines]] déjà acquis par le biais d’autres classes (celle du [[prêtre]], par exemple), mais ils n’y sont pas obligés. À chaque fois qu’un enfant divin lance un sort de son domaine spécialisé, il récupère un nombre de points de vie égal à deux fois le niveau du sort. De plus, chaque spécialisation de domaine confère un pouvoir magique (qui fonctionne en appliquant un [[NLS|niveau de lanceur de sorts]] égal au niveau de personnage total de l’enfant divin) et un bonus de sainteté permanent (ou de malfaisance, si l’enfant divin est mauvais) sur un type particulier de jet de d20. Les pouvoirs magiques et les bonus conférés sont indiqués ci-dessous.
+Au niveau 3, un enfant divin choisit un domaine conféré par sa divinité. Ce domaine devient la spécialisation choisie par l’enfant divin pour représenter sa divinité tutélaire. La plupart des enfants divins choisissent des [[Domaines]] déjà acquis par le biais d’autres classes (celle du [[prêtre]], par exemple), mais ils n’y sont pas obligés. À chaque fois qu’un enfant divin lance un sort de son domaine spécialisé, il récupère un nombre de points de vie égal à deux fois le niveau du sort. De plus, chaque spécialisation de domaine confère un pouvoir magique (qui fonctionne en appliquant un [[NLS|niveau de lanceur de sorts]] égal au niveau de personnage total de l’enfant divin) et un bonus de sainteté permanent (ou de malfaisance, si l’enfant divin est mauvais) sur un type particulier de jet de d20. Les pouvoirs magiques et les bonus conférés sont indiqués ci-dessous. 
 - **Air.** *[[sort Vol|vol]]* 1/jour ; +4 aux tests de [[Vol]]. 
 - **Artisanat.** *[[chance de lartisan|chance de l’artisan]]* 3/jour ; +4 aux tests d’[[Artisanat]].
 - **Bien.** *[[détection du Mal]]* permanent ; +2 aux jets de [[Volonté]]. 
@@ -189,15 +189,15 @@ Au niveau 3, un enfant divin choisit un domaine conféré par sa divinité. Ce 
 
 {s:Reference|COLÈREDIVINE}
 #### Colère divine (Sur)
-Au niveau 4, les sorts lancés par un enfant divin qui infligent des dégâts infligent +1 point de dégâts par dé contre les créatures dont l’un des sous-types d’alignement correspond à son alignement opposé.
+Au niveau 4, les sorts lancés par un enfant divin qui infligent des dégâts infligent +1 point de dégâts par dé contre les créatures dont l’un des sous-types d’alignement correspond à son alignement opposé. 
 
 {s:Reference|DÉFENSEDIVINE}
 #### Défense divine (Sur)
-Au niveau 7, un enfant divin gagne une [[RD]] 2 ignorée par les attaques du sous-type de son alignement opposé (ainsi, un enfant divin qui a choisi «  Mauvais  » en alignement opposé obtient une RD 2/Mal).
+Au niveau 7, un enfant divin gagne une [[RD]] 2 ignorée par les attaques du sous-type de son alignement opposé (ainsi, un enfant divin qui a choisi «  Mauvais  » en alignement opposé obtient une RD 2/Mal). 
 
 {s:Reference|STUPEURDIVINE}
 #### Stupeur divine (Sur)
-Au niveau 8, les sorts lancés par un enfant divin peuvent rendre [[chancelant|chancelantes]] les créatures dont l’un des sous-types d’alignement correspond à son alignement opposé. Quand une telle créature est affectée par un sort lancé par l’enfant divin, elle est chancelante pendant 1 [[round]] si elle rate son [[jds|jet de sauvegarde]] contre ce sort. Si la créature réussit son jet de sauvegarde (ou si le sort n’en autorise aucun), cette aptitude n’a aucun effet.
+Au niveau 8, les sorts lancés par un enfant divin peuvent rendre [[chancelant|chancelantes]] les créatures dont l’un des sous-types d’alignement correspond à son alignement opposé. Quand une telle créature est affectée par un sort lancé par l’enfant divin, elle est chancelante pendant 1 [[round]] si elle rate son [[jds|jet de sauvegarde]] contre ce sort. Si la créature réussit son jet de sauvegarde (ou si le sort n’en autorise aucun), cette aptitude n’a aucun effet. 
 
 {s:Reference|REJETONVÉRITABLE}
 #### Rejeton véritable

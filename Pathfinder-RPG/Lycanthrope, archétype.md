@@ -38,7 +38,7 @@ Quand un PJ devient un lycanthrope, le MJ doit faire un choix. Dans la plupart d
 
 Lorsqu’une créature contracte la lycanthropie, elle devient un lycanthrope infecté, mais elle ne montre aucun symptôme (et elle ne reçoit aucun ajustement ni aucune capacité de l’archétype) jusqu’à la pleine lune suivante. Lorsque cette nuit arrive, la victime adopte involontairement la forme animale et oublie son identité.
 
-Elle reste sous forme animale jusqu’à l’aube et ne se souvient pas de ce qui s’est passé à moins de réussir un jet de [[Volonté]] de [[DD]] 20. En cas de réussite, elle prend conscience de son affliction. Un sort de [[guérison des maladies]] ou de [[guérison suprême]] lancé par un [[prêtre]] de niveau supérieur ou égal à 12 la guérit de la lycanthropie, du moins si elle reçoit ce sort dans les trois jours qui suivent l’infection.
+Elle reste sous forme animale jusqu’à l’aube et ne se souvient pas de ce qui s’est passé à moins de réussir un jet de [[Volonté]] de [[DD]] 20. En cas de réussite, elle prend conscience de son affliction. Un sort de [[guérison des maladies]] ou de [[guérison suprême]] lancé par un [[prêtre]] de niveau supérieur ou égal à 12 la guérit de la lycanthropie, du moins si elle reçoit ce sort dans les trois jours qui suivent l’infection. 
 
 Consommer une dose d’[[Poisons#Aconit|herbe à loup (aconit)]] permet à un lycanthrope infecté d’effectuer un nouveau jet de [[Vigueur]] pour tenter de guérir de la lycanthropie.
 </div>

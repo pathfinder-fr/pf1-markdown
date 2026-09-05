@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po (15 m), 10 po (en soie, 15 m), 100 po (en soie d'araignée, 15 m) ; **Poids** 5 kg (15 m), 2,5 kg (en soie, 15 m), 2 kg (en soie d'araignée, 15 m)
+{s:AE}**Prix** 1 po (15 m), 10 po (en soie, 15 m), 100 po (en soie d'araignée, 15 m) ; **Poids** 5 kg (15 m), 2,5 kg (en soie, 15 m), 2 kg (en soie d'araignée, 15 m)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette corde de chanvre de 15 mètres de long a 2 points de vie et peut être brisée avec un test de [[Force]] [[DD]] 23.  
   
 *Corde en soie (15 m)*. Ces 15 mètres de corde en soie ont 4 points de vie. On peut les briser avec un test de [[Force]] [[DD]] 24.  

@@ -17,12 +17,12 @@ Categories:
 - Src Guide du Katapesh
 ---
 
-{s:cs}{s:CSU|8}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (1 dose de pesh d'une valeur de 15 po)
-**Portée** [[contact]]
-**Cibles** créature vivante touchée
-**Durée** 1 [[round]]/[[niveau]]; voir description
+{s:cs}{s:CSU|8}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (1 dose de pesh d'une valeur de 15 po)  
+**Portée** [[contact]]  
+**Cibles** créature vivante touchée  
+**Durée** 1 [[round]]/[[niveau]]; voir description  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible bénéficie d'un bonus d'altération de +2 à la [[Force]]. Une fois par [[round]] et par une [[action libre]], la cible peut choisir d'augmenter le bonus d'altération de 2 points pendant 1 round. Si elle le fait, elle subit 1d6 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]] et la durée du sort est réduite d'1 round supplémentaire. Pour chaque tranche de 5 [[NLS|niveaux de lanceur de sorts]] du personnage, la cible peut choisir d'augmenter le bonus d'altération de 2 points supplémenatires, subissant 1d6 points de dégâts non-létaux et réduisant la durée du sort d'1 round supplémentaire pour chaque augmentation du bonus de Force, jusqu'à un bonus d'altération maximum de +10 et 4d6 points de dégâts non-létaux au niveau 15. La cible ne peut pas dépenser plus de rounds qu'il n'en reste à la durée du sort. Lorsque le sort se termine, la cible devient [[fatigué|fatiguée]].

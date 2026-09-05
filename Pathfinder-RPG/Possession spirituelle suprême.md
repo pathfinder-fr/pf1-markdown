@@ -12,28 +12,28 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8, [[Spirite|Spi]] 6
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)
-**Cible** 1 créature
-**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:AO}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8, [[Spirite|Spi]] 6  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
+**Cible** 1 créature  
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[possession spirituelle (sort)|possession spirituelle]]* mais, quand le personnage prend possession du corps de son hôte, il entre dans ce dernier tandis que son propre corps disparaît. Quand le sort se termine ou que le corps de l’hôte meurt, le personnage est propulsé dans l’espace libre le plus proche.
 
 
 
 (((
 ## Possession spirituelle
-{s:Desambi|Ce sort suit les règles de [[Possession spirituelle]] d'Aventures occultes, et a pour vocation de remplacer l'ancien sort *[[possession]]*.}{s:AO}**École** [[Nécromancie]] ; **Niveau** [[conjurateur|Con]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 3, [[occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)
-**Cible** 1 créature
-**Durée** 1 h/niveau ([[Présentation des sorts#DUREE|T]])
+{s:Desambi|Ce sort suit les règles de [[Possession spirituelle]] d'Aventures occultes, et a pour vocation de remplacer l'ancien sort *[[possession]]*.}{s:AO}**École** [[Nécromancie]] ; **Niveau** [[conjurateur|Con]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 3, [[occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
+**Cible** 1 créature  
+**Durée** 1 h/niveau ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage tente de prendre possession d’une créature en projetant son âme dans le corps de celle-ci. La cible doit se trouver dans le rayon d’action du sort et le personnage doit savoir où elle se trouve, bien qu’il n’ait pas besoin de la voir ni d’avoir une ligne d’effet jusqu’à elle. Quand le personnage termine l’incantation et transfère son âme, son corps semble mort. S’il n’arrive pas à prendre possession de son hôte, le sort se termine.
 
 Si le personnage réussit, sa force vitale occupe le corps de l’hôte tandis que l’âme de ce dernier est emprisonnée dans son corps avec le personnage, bien qu’elle reste en mesure d’utiliser ses propres sens (mais qu’elle soit incapable d’exercer la moindre influence ni même de recourir à des capacités purement mentales). Le personnage peut communiquer par télépathie avec son hôte comme s’ils partageaient un langage commun, mais cette communication fonctionne seulement si le personnage donne son accord. Le personnage conserve son [[Intelligence]], sa [[Sagesse]], son [[Charisme]], ses niveaux, ses classes, son bonus de base à l’attaque, ses bonus aux jets de sauvegarde, son alignement et ses capacités mentales. Le corps conserve sa [[Force]], sa [[Dextérité]], sa [[Constitution]], ses points de vie ainsi que ses capacités naturelles et automatiques. Un corps doté de membres supplémentaires ne permet pas au personnage de porter plus d’attaques que d’habitude (ni de porter des attaques à deux armes plus avantageuses). Le personnage ne peut pas activer les pouvoirs extraordinaires, surnaturels ou magiques du corps ni lancer ses sorts.

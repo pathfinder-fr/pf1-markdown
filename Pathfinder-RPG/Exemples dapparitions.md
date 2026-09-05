@@ -109,7 +109,7 @@ Vous trouverez ici des exemples d'apparitions. N'hésitez pas à soumettre vos i
 - **Détection ** [[Perception]] DD 10 (pour remarquer des orbes lumineuses scintillantes)
 - **pv** 4 ; **Faiblesse** lenteur ;
 - **Déclencheur** proximité ; **Réinitialisation** 10 minutes
-(((Effet)))
+(((Effet))) 
 - Ces manifestations supposées d'esprits d'animaux, de fantômes disparrus dans l'éther ou même d'âmes d'enfants ressemblent à un essaim de particules lumineuses constituées de 6d6 globes brillants qui vont de la taille de pois jusqu'à celle de gros melons. Les témoins de cette manifestation sont sujets aux effets d'un sort d'[[effroi]](Volonté DD 13) tandis que les globes semblent dégager une présence menaçante.
 - **Destruction** Ces boules lumineuses sont trop mineures pour qu'on leur accorde le repos recherché par les autres apparitions. Le nombre de globe se réduit d'un à chaque fois qu'une action visant à purifier le lieu est réalisée.
 </div>
@@ -249,7 +249,7 @@ Att +8 au contact (aiguillon brûlant, contre une cible unique 4d6 points de dé
 - **Détection ** [[Perception]] DD 10 (pour sentir une brusque chute de température)
 - **pv** 13 ; **Faiblesse** blessé par le feu
 - **Déclencheur** proximité ; **Réinitialisation** 1 heure
-(((Effet)))
+(((Effet))) 
 - Lorsqu'on entre dans une zone d'esprit gelé, la température devient immédiatement glaciale pendant que l'esprit vole la  chaleur des créatures vivantes. Cet effet est similaire au sort [[contact glacial]] (Vigeur et Volonté DD 11) et se reproduit à chaque round tant que les créatures restent dans la zone d'effet.
 - **Destruction** Utiliser le sort [[métal brûlant]] sur un objet métallique permet d'absorber l'esprit gelé. Il faut ensuite enterrer l'objet en terre consacrée.
 </div>
@@ -298,7 +298,7 @@ Att +8 au contact (aiguillon brûlant, contre une cible unique 4d6 points de dé
 - **Déclencheur **proximité ; **Réinitialisation**automatique (24 heures)
 (((Effet)))
 - Le PJ croit qu'il a commit un meurtre et s'en veut... à mort. Il doit effectuer un jet de [[Volonté]] DD 15 pour ne pas se jeter sur un coupe-papier (dague) posé sur un bureau ou une table non loin et se porter le coup de grâce qui lui infligerait 2d4(plus deux fois le montant de son modificateur de Force. 
-Si un des membres du groupe tente de l'arrêter, le PJ victime de l'apparition l'attaque avec la dague en réussissant automatiquement un coup critique de manière surnaturelle.
+Si un des membres du groupe tente de l'arrêter, le PJ victime de l'apparition l'attaque avec la dague en réussissant automatiquement un coup critique de manière surnaturelle. 
 Une fois l'action réalisée, le coupe papier redevient terne et poussiéreux.
 - **Destruction** Retrouver les restes du suicidé à l'origine de l'apparition et lui offrir une sépulture. 
 </div>
@@ -342,7 +342,7 @@ Une fois l'action réalisée, le coupe papier redevient terne et poussiéreux.
 - **Détection ** [[Perception]] DD 20 (pour voir une forme vaporeuse se déplacer)
 - **pv** 18 ; **Faiblesse** trompé par [[invisibilité pour les morts-vivants]] ;
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Des mains squelettiques spectrales apparaissent et tentent d'étrangler la victime qui est sous l'effet dun [[baiser du vampire]]. Tous les points de vie ainsi drainés sont ajoutés à ceux de l'apparition, ce qui la rend de plus en plus difficile à détruire. 
 - **Destruction** Des menottes enchantées grâce à une bénédiction d’arme et qui sont introduites dans la zone hantée capturent l’essence de l’apparition ; elles doivent ensuite être jetées dans l’eau courante afin de détruire définitivement l’esprit tueur.
 </div>
@@ -357,7 +357,7 @@ Une fois l'action réalisée, le coupe papier redevient terne et poussiéreux.
 - **Détection ** [[Perception]] DD 15 (pour entendre le bruit d'une foule hurlant de peur se rapprochant)
 - **pv** 8 ; 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Des cultistes se précipitent à travers la porte pendant 2d6 rounds. Bien que celle-ci reste close, ils passent au travers comme des fantômes, horrifiés, alors qu'ils fuient ce qu'il y a derrière. Certains hurlent, alors que d'autres courent avec les yeux révulsés. Leur panique instille la peur, comme le sort [[Effroi]] ( Volonté DD 16) à toute les créatures à moins de 9m de la porte.
 - Si un des PJ fuit à plus de 30 mètres, il tombera sur un feu-follet. 
 - **Destruction** Lancer un [[apaisement des émotions]] pendant que les cultistes arrivent permet de calmer la foule et de laisser les âmes rejoindre Pharasma.
@@ -449,7 +449,7 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 20 (pour entendre un liquide versé)
 - **pv** 10 ; **Faiblesse** trompé par [[invisibilité pour les morts-vivants]] ;
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Un prêtre en robe de bure encapuchonné fantomatique apparaît, portant un calice dans ses mains squelettiques. Il propose à boire au personnage le plus grièvement blessé. Selon l'alignement du prêtre, dont aucun symbole sacré n'est visible, la boisson agit soit comme un sort de [[soins intensifs]], soit comme un sort de [[poison]] (Vigueur DD 16). L'esprit disparaîtra alors dans un ricanement sinistre. 
 - **Destruction** Le fait qu'un personnage Bon refuse de boire le liquide même s'il en a besoin fait s'évanouir l'apparition pendant 2d4 jours. Faire tinter un carillon sacré la détruit définitivement.
 </div>
@@ -464,7 +464,7 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 20 (pour apercevoir des mouvements rapides et entendre de secs commentaires en provenance des coins)
 - **pv** 10 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - La paranoïa envahit ceux présents. Soudainement, vous avez la sensation que tous ceux présents n'attendent que l'opportunité de vous tuer. L'effet est identique au poison [[poisons|Vapeur de Cauchemard]] (Vigueur DD20 - 1 / rd pendant 6 rds, Sagesse -1 et confus 1rd, 2 JS réussi).
 - **Destruction** Un sort de [[protection contre le mal]] ou de [[protection contre le chaos]] suivi d'une canalisation bénéfique permet de bannir définitivement ces voix.
 </div>
@@ -509,7 +509,7 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 18 (pour sentir une présence inquiétante)
 - **pv** 12 ; 
 - **Déclencheur** proximité ; **Réinitialisation** 1 heure
-(((Effet)))
+(((Effet))) 
 - Des visions surnaturelles montrent aux victimes des visages ensanglantés dans des miroirs, des ombres qui se transforment en monstruosités, d'horribles spectres qui hurlent ou des jeunes filles en décomposition qui appellent au secours. Tous les témoins de ces apparitions sont la cible d'un sort de [[terreur]] ([[Volonté]] DD 16). 
 - **Destruction** Ces images sont des échos de traumatismes passés. Cette apparition est davantage liée à un état émotionnel qu'à une entité. Un sort de [[sanctification]] permet de la détruire à tout jamais.
 </div>
@@ -527,7 +527,7 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 20 (pour percevoir les mouvements d'une ombre)
 - **pv** 311 ; **Faiblesse** trompé par [[invisibilité pour les morts-vivants]] ;
 - **Déclencheur** proximité ; **Réinitialisation** 1 heure
-(((Effet)))
+(((Effet))) 
 - Les esprits vengeurs utilisent de puissantes explosions de télékinésie pour lancer des meubles ou des objets sur les intrus. Ils utilisent les trois versions du sort [[télékinésie]] (DD du jet de sauvegarde 17) pour harceler leurs victimes et montrer leur colère.
 - **Destruction** Ces esprits protègent un endroit qui leur est sacré, ce qui les rend difficile à détruire. Un sort d'[[interdiction]] les empêchera d'entrer et pourra permettre une [[consécration]] du lieu.
 </div>
@@ -559,10 +559,10 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 20 (pour percevoir des chuchotements de plus en plus forts)
 - **pv** 16 ; 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Une voix se met à chuchoter des paroles douces et entêtantes au point de faire perdre le sens des réalités à la victime. Celle-ci doit réussir un jet de Volonté (DD 20) ou subir les effets d'un sort d'[[aliénation mentale]]. L'esprit à l'origine est souvent une personne trépassée qui a voyagé trop loin dans l'obscurité de la Sombre Tapisserie.  
 - **Destruction** Le sort [[châtiment sacré]] lancé dans la zone détruit de manière permanente cette apparition.
-</div>
+</div> 
 {br}
 
 
@@ -577,7 +577,7 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Détection ** [[Perception]] DD 15 (pour voir une brume s'agglomérer)
 - **pv** 40 ; **Faiblesse** trompé par [[invisibilité pour les morts-vivants]] ;
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Des dizaines de têtes fantomatiques appartenant à des personnes massacrées en ce lieu déchaînent leur haine et leur colère sur tous les vivants. Les effets sont ceux conjugués de [[brume acide]] et [[brouillard dense]] (DD 17). 
 - **Destruction** Donner le nom de toutes les victimes en étant dans la brume permet de les aider à trouver le repos éternel.
 </div>
@@ -610,7 +610,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 20 (pour entendre le galop d'un cheval fantôme)
 - **pv** 45 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Un cavalier sans tête apparaît accompagné d'un hennissement spectral. Le fantôme poursuit une cible, effectuant sur elle des attaques de son épée, similaire à [[épée de force]], avec un bonus d'attaque de +16.   
 - **Destruction** Une relique sacrée doit être enterrée sur le chemin et le cavalier doit être provoqué par une nuit de pleine lune. S'il charge en passant sur la relique sacrée, il est détruit. 
 </div>
@@ -624,7 +624,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 28 (pour entendre des changements étranges et des cris faibles)
 - **pv** 20 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Cette apparition fonctionne au gré de la multitude d'esprits et d'imitations immondes qui le compose (à la discrétion du MJ, mais généralement pas avant qu'une créature mauvaise ait possédé le *[[Livre des damnés]]* pendant plus d'un mois, ou peut-être seulement quelques rounds après qu'une créature bonne ait porté le livre). Lorsque les serviteurs du livre se réveillent, la créature avec le [[Charisme]] le plus élevé à moins de 6 mètres du *[[Livre des damnés]]* doit effectuer un test de Charisme DD 21. Si la créature réussit et est Mauvaise, il n'y a aucun effet ; les esprits entourant le tome acceptent la domination du nouveau venu. Si la créature réussit et n'est pas Mauvaise, toutes les créatures à 6 mètres ou moins du tome doivent réussir un jet de [[Volonté]] DD 21 ou être affectées par un sort de *[[sort Cauchemar|cauchemar]]*. Si la créature qui fait le test de Charisme échoue, toutes les créatures dans la zone doivent tenter des jets de sauvegarde pour résister à l'effet de *cauchemar* (comme ci-dessus) et l'apparition utilise le sort de *[[télékinésie]]* soit pour blesser une créature, soit pour jeter le *Livre des damnés* hors de la portée de son porteur. L'intensité des esprits composants cette apparition rend le DD pour résister a ses effets plus compliqué qu'à l'accoutumé. L'apparition ne peut pas se déclencher tant qu'elle se trouve dans la zone d'un effet de sanctification.
 - **Destruction** Si le *[[Livre des damnés]]* intégral est détruit, l'apparition s'arrête.
 </div>
@@ -641,7 +641,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 22 (pour percevoir le galop d'un cheval et le bruit de roues)
 - **pv** 22 ; **Faiblesse** trompé par [[invisibilité pour les morts-vivants]] ;
 - **Déclencheur** proximité ; **Réinitialisation** 1 heure
-(((Effet)))
+(((Effet))) 
 - Une carriole, transportant des fantômes rieurs d'anciens nobles avinés, fonce dans les rues, écrasant tout sur son passage. Les victimes subissent les effets d'un [[poing serré]] (attaque +25). 
 - **Destruction** Pour détruire cette cavalcade, il faut amener une jument à l'endroit de l'apparition et la faire passer sur le plan éthéré grâce au [[changement de plan]]. Les chevaux spectraux la suivront et disparaîtront, perdus à jamais. 
 </div>
@@ -659,7 +659,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 26 (pour entendre des os qui se craquellent)
 - **pv** 24
 - **Déclencheur** proximité ; **Réinitialisation** 1 heure
-(((Effet)))
+(((Effet))) 
 - Une vieille femme fantomatique drapée d'un suaire apparaît et affecte toutes les personnes qui la voient par un sort de [[flétrissure]] (DD 22). Plus la victime se flétri, plus le fantôme semble retrouver sa jeunesse. Elle s'évanouit en poussant un soupire de satisfaction. 
 - **Destruction** Il faut apporter un miroir sur la zone d'effet de l'apparition. La dame au linceul se verra dedans, comprenant sa véritable apparence, poussera un cri et se dissipera pour de bon.
 </div>
@@ -676,7 +676,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 28 (pour voir la formation d'une forme tangible)
 - **pv** 58 ; 
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
-(((Effet)))
+(((Effet))) 
 - Un Gjenferd se manifeste de manière tangible et adopte l’aspect chétif et déformé d’un intrus qui aurait été créé par le biais du sort [[simulacre]]. Quelle que soit la créature qu’il duplique, ses points de vie sont toujours égaux à ceux de l’apparition. Ces entités se reposent sur leur « pincement du mort ». Cette attaque de contact bénéficie d’un bonus de +13, provoque l’apparition d’une blessure bleue et creuse qui reproduit les effets d’un sort de [[contagion]] (DD du jet de sauvegarde 16) et déclenche la peste bubonique. Cette maladie dure tant que l’apparition n’a pas été neutralisée mais elle peut être soignée normalement. Il ne peut y avoir qu’une seule copie tangible à la fois. Créer une nouvelle copie provoque la disparition de la précédente.
 - **Destruction** Placer le symbole sacré d’une divinité Loyale Bonne tracé à l’aide de goudron sur le territoire d’un Gjenferd l’empêche de se manifester. Cependant, ces apparitions trouvent très difficilement le repos. Il faut localiser leurs restes, les exhumer et leur faire faire trois fois le tour du temple d’une divinité Loyale Bonne, puis les passer par-dessus les murs du cimetière pour y être à nouveau enterrés.
 </div>
@@ -696,7 +696,7 @@ Une présence insidieuse ayant tué autant d’hôtes que son FP subit une impre
 - **Détection ** [[Perception]] DD 21 (pour ressentir les tremblements de la maison et l'entendre craquer)
 - **pv** 63 ; 
 - **Déclencheur** proximité ; **Réinitialisation** aucune
-(((Effet)))
+(((Effet))) 
 - Lorsque de troublantes révélations d'un lieu hanté se fait connaître, la maison lance parfois un processus d'auto-destruction. Le temps change et des orages terrifiants s'abattent sur la maison comme avec le sort [[contrôle du climat]]. Celle-ci vibre et craque du fait d'un [[tremblement de terre]] (DD 22) et met un terme catastrophique à cette horrible histoire. Les maisons sont généralement détruites immédiatement mais parfois l'effet persiste jusqu'à ce que le domaine soit englouti dans la terre.
 - **Destruction** De tels actes de désespoirs sont autodestructeurs et les circonstances entourant ces événements libèrent les sans-repos dans un final tumultueux. Ceux qui sont encore présents sur ces terres ravagées peuvent être apaisés grâce à une sanctification.
 </div>

@@ -13,28 +13,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** jusqu’à six créatures équines quasi-réelles
-**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:UC}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** jusqu’à six créatures équines quasi-réelles  
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[coursier fantôme]]* mais le personnage invoque un maximum de six montures et la durée se divise entre elles, par portions de 1 heure.
 
 
 
 (((
 ## Coursier fantôme
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** 0 m
-**Effet** 1 équidé quasi réel
-**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** 0 m  
+**Effet** 1 équidé quasi réel  
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Cette [[invocation]] fait apparaître une créature quasi-réelle ayant la forme d’un cheval de [[taille G]]. Seul le personnage (ou celui pour qui il a lancé le sort) peut la chevaucher. Le *coursier fantôme* a une tête et un corps noirs, des crins gris, et des sabots translucides et [[intangible|intangibles]] qui ne font pas le moindre bruit. Il est harnaché de ce qui s’apparente à une selle, un mors et des rênes. Il ne combat jamais, mais terrifie les [[type animal|animaux]] normaux, qui se retrouvent dans l’incapacité de l’attaquer.
 
 Le destrier a une [[CA]] de 18 (-1 taille, +4 armure naturelle, +5 [[Dextérité|Dex]]) et 7 points de vie +1 par [[NLS|niveau de lanceur de sorts]]. Il se dissipe dès qu’il perd tous ses points de vie. Il se déplace à une vitesse de 6 m tous les deux [[NLS|niveaux de lanceur de sorts]], jusqu’à un maximum de 30 m au [[NLS|niveau]] 10. Il peut transporter son cavalier plus 5 kg par [[NLS|niveau de lanceur de sorts]].

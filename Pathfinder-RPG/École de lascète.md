@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONECOLE|école]]
 
-**Conditions.** [[Arme de prédilection]] avec l'arme de corps à corps choisie, [[BBA]] +1 ou [[moine]] de niveau 1
+**Conditions.** [[Arme de prédilection]] avec l'arme de corps à corps choisie, [[BBA]] +1 ou [[moine]] de niveau 1 
 
 **Avantage.** Le personnage choisit une arme appartenant au groupe des [[groupe darmes#Armesdemoine|armes des moines]]. Lorsqu'il utilise cette école et manie l'arme choisie, il peut appliquer les effets des dons qui comporte [[Science du combat à mains nues]] comme prérequis, tout comme les effets qui améliorent les attaques à mains nues, comme si l'attaque était une attaque à mains nues.
 

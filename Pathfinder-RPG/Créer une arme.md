@@ -65,25 +65,25 @@ Lorsque vous concevez une nouvelle arme, vous pouvez lui offrir les propriétés
 Voici des exemples d'armes créées avec le système de création d'armes.
 
 #### Flute de guerre
-**Prix** 16 po ; **Poids** 3,5 kg ; **Groupes** [[Groupe darmes#Marteaux|marteaux]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#SPECTACLE|spectacle]]
-<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
+**Prix** 16 po ; **Poids** 3,5 kg ; **Groupes** [[Groupe darmes#Marteaux|marteaux]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#SPECTACLE|spectacle]]  
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>  
 **Propriétés**<sup> </sup>attribut d'arme (diversion, spectacle) (4), dégâts augmentés (3), outil ([[Instrument de musique (objet)|instrument de musique]]) (0)
----
+<hr />
 Cette flûte en fer siffle lorsqu'elle est utilisée pour porter des attaques, à moins que ses nombreux trous ne soient remplis de liège ou de cire.
 
 #### Khakkhara
-**Prix** 7 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
-<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTE|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
+**Prix** 7 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]  
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTE|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>  
 **Propriétés**<sup> </sup>attribut d'arme (moine) (1), dégâts augmentés (3), facteur de critique amélioré (3)
----
+<hr />
 Aussi connu sous le nom de "bâton du moine", le khakkhara est souvent utilisé comme bâton de marche cérémoniel par les érudits et les prêtres. Il s'agit d'un bâton en bois d’1,5 mètre de long avec une grande boucle métallique ou une structure en forme de cage à l'extrémité supérieure. De multiples petits anneaux sont suspendus à la cage et tintent en suivant les mouvements du bâton.
 
 #### Masse-yoyo gnome
-**Prix** 54 po ; **Poids** 6 kg ; **Groupes** [[Groupe darmes#Armesdhast|armes d'hast]]
-**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×2 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]
-<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUE|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
+**Prix** 54 po ; **Poids** 6 kg ; **Groupes** [[Groupe darmes#Armesdhast|armes d'hast]]  
+**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×2 ; **Portée** — ; **Type** ? ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]  
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUE|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>  
 **Propriétés**<sup> </sup>attribut d'arme (allonge) (1), dégâts augmentés (5), montée sur ressort (2), PC supplémentaires (3), traditionnelle ([[Gnome]]) (1)
----
+<hr />
 L'innovation de la masse-yoyo gnome, dont la tête est une masse ordinaire, réside dans son manche à ressort et ses poignées proéminentes. Lorsque la masse est comprimée, il suffit de retirer les poignées pour qu'elle atteigne sa taille maximale. Lorsqu'elle est déployée, un rapide coup de poignet permet de la comprimer à nouveau.

@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir les [[Ordres#SAMOURAI|ordres de samouraï]].***
+<div class="fright">***Voir les [[Ordres#SAMOURAI|ordres de samouraï]].***  
 {s:PM0|samouraï}***Voir les archétypes du samouraï***&emsp;
 <li ID="samouraï" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechevalier}</li>
 </div>{s:UC}*Peu de guerriers montrent autant de dévotion envers le code de l’honneur et de la chevalerie que le samouraï. Dès son plus jeune âge, il est formé aux arts de la guerre et jure fidélité à un seigneur. Dans de nombreux pays, il occupe une position de pouvoir et inspire le respect. Il sert souvent de porte-parole pour le noble local et rend la justice en son nom. Le samouraï s’entraîne avec zèle et suit la voie de l’épée (généralement du katana), de l’arc et du cheval. Certains apprennent même à se servir des armes à feu, quand ils en ont à disposition. Le samouraï est souvent l’homme de confiance de son seigneur et les gens du peuple voient en lui l’incarnation de l’honneur et du sacrifice. C’est un honorable guerrier qui se dévoue à son pays et à ses dirigeants.*

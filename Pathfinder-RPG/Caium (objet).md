@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 1 kg
+{s:AE}**Prix** 1 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Le processus de production de cette bière, fabriquée à partir de racine de manioc ou de maïs, nécessite une mastication intensive.

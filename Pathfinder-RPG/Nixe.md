@@ -54,12 +54,12 @@ En général, elles sèment la confusion chez leurs ennemis et font fuir leurs a
 Les nixes mesurent 1,20 mètre et pèsent rarement plus de 22 kilos.
 
 Les nixes évitent le combat quand elles le peuvent, utilisant leur charme-personne pour conduire les humanoïdes loin de
-leurs repaires. Elles utilisent parfois cette capacité pour asservir des personnes qui leur servent de protecteurs ou les aident à accomplir certaines tâches simplement trop conséquentes pour qu’elles puissent les gérer seules. Elles lancent le sort respiration aquatique sur les créatures qu’elles charment pour les aider à accomplir des tâches sous l’eau.
+leurs repaires. Elles utilisent parfois cette capacité pour asservir des personnes qui leur servent de protecteurs ou les aident à accomplir certaines tâches simplement trop conséquentes pour qu’elles puissent les gérer seules. Elles lancent le sort respiration aquatique sur les créatures qu’elles charment pour les aider à accomplir des tâches sous l’eau. 
 Les nixes sont des êtres solitaires qui préfèrent garder leur présence secrète. Elles installent leurs repaires sous l’eau, créant de petites communautés lorsqu’elles sont suffisamment nombreuses. Les légendes racontent qu’il
 existerait un royaume secret de nixes au fond d’un grand lac, mais personne n’a jamais pu confirmer sa localisation.
 
 <u>**NIXES DES MARAIS**</u>{br}
-Sur certaines terres, les nixes sont des créatures malfaisantes attirant les gens dans leurs eaux pour qu’ils s’y noient, soit en hypnotisant leurs cibles de leurs chants, soit en prenant la forme d’un animal ou d’un humanoïde pour piéger les chasseurs ou les explorateurs et les conduire dans des eaux dangereuses. Ces nixes malfaisantes préfèrent vivre dans les marais sinistres ou les fondrières puantes et sont connues sous le nom de nixes des marais.
+Sur certaines terres, les nixes sont des créatures malfaisantes attirant les gens dans leurs eaux pour qu’ils s’y noient, soit en hypnotisant leurs cibles de leurs chants, soit en prenant la forme d’un animal ou d’un humanoïde pour piéger les chasseurs ou les explorateurs et les conduire dans des eaux dangereuses. Ces nixes malfaisantes préfèrent vivre dans les marais sinistres ou les fondrières puantes et sont connues sous le nom de nixes des marais. 
 Le fait que la nixe des marais puisse accorder des souhaits mineurs accroît, assez ironiquement, les opportunités qu’elles ont de faire le mal car les explorateurs courageux ou inconscients les recherchent pour cela.
 
 La nixe des marais est d’alignement Neutre Mauvais et possède l’archétype de créature avancée avec les pouvoirs

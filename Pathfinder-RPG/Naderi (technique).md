@@ -17,12 +17,12 @@ La Vierge perdue|%2fPCUP%2fReligion-PNG%2fNaderi.png|[[Divinités#AUTRES|Autres 
 |—}{s:cs}{s:ISG}Les adeptes de Naderi sont souvent des amoureux désespérés, en particulier les plus jeunes, qui croient que l'amour perdure au-delà de la mort et que le suicide est une option acceptable lorsque des obstacles insurmontables séparent des personnes destinées à s'unir. Naderi compte de nombreux fidèles laïcs, mais peu de prêtres ou d'organisations religieuses. Elle accorde parfois des sorts aux inquisiteurs qui traquent ceux qui refusent aux amoureux leur bonheur ou, paradoxalement, leur suicide. La plupart des adorateurs ont tenté de se suicider (ou du moins ont sérieusement envisagé de le faire). Ils dissimulent les marques de leurs tentatives en public, mais les exhibent aux autres adorateurs comme autant d'insignes de leur dévotion.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[[Confusion mineure]]* peut être préparé comme un sort de 1er niveau.
-• *[[Désespoir foudroyant]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[[Confusion mineure]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Désespoir foudroyant]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Suffocation]]* peut être préparé comme un sort de 5e niveau.
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

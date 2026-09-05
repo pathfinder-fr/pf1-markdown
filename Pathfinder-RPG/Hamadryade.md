@@ -49,7 +49,7 @@ LastModified: 2017-03-19 11:21
 </td><td><div>
 *Cette femme au port royal affiche la même grâce et la même fierté que les arbres les plus anciens de la forêt.*
 
-L’hamadryade est la reine de sa forêt et le chef de toutes les dryades qui y vivent. Tout comme la dryade est liée à un arbre et lui est entièrement dévouée, l’hamadryade adore la forêt qu’elle s’est choisie. Même si elle ne tombe pas malade et ne risque pas de mourir quand elle en est séparée, elle déteste avoir à la quitter. Toutes les créatures des bois non-Mauvaises la reconnaissent comme la plus sage des dryades et respectent ses dons de guérisseuse et de diplomate. Dans la plupart des forêts, l’hamadryade est la soeur ou la femme d’un erlkönig et représente l’aspect protecteur, patient et nourricier de la nature.
+L’hamadryade est la reine de sa forêt et le chef de toutes les dryades qui y vivent. Tout comme la dryade est liée à un arbre et lui est entièrement dévouée, l’hamadryade adore la forêt qu’elle s’est choisie. Même si elle ne tombe pas malade et ne risque pas de mourir quand elle en est séparée, elle déteste avoir à la quitter. Toutes les créatures des bois non-Mauvaises la reconnaissent comme la plus sage des dryades et respectent ses dons de guérisseuse et de diplomate. Dans la plupart des forêts, l’hamadryade est la soeur ou la femme d’un erlkönig et représente l’aspect protecteur, patient et nourricier de la nature. 
 
 Avec sa magie de guérison, elle peut soulager les souffrances des dryades dont l’arbre a été abattu et les soutenir le temps qu’elles se lient à un nouvel arbre.
 

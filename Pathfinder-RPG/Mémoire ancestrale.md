@@ -11,11 +11,11 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**École** [[école divination|Divination]] ; **Niveau** [[alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[druide|Dru]] 4, [[prêtre|Prê]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** personnelle
-**Cible** lanceur de sorts
+{s:CCMI}**École** [[école divination|Divination]] ; **Niveau** [[alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[druide|Dru]] 4, [[prêtre|Prê]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** personnelle  
+**Cible** lanceur de sorts  
 **Durée** 1 [[round]]/niveau
 
 Quand le personnage lance ce sort, il ouvre son esprit aux nombreuses expériences de ses ancêtres dans l’espoir d’apprendre quelque chose de pertinent sur sa situation actuelle. Les chances de trouver un souvenir utile sont de 70% + [[NLS|niveau de lanceur de sorts]].

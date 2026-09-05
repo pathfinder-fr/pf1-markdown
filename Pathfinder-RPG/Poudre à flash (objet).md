@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:AE}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
----
+<hr />
 Cette épaisse poudre grise s’enflamme et brûle presque instantanément au contact d’une flamme, sous l’effet d’un frottement important ou sous l’effet d’un choc (si on la jette par terre) (une [[action simple]]). Les créatures situées dans un rayon de 3 mètres autour de l’explosion sont [[aveuglé|aveuglées]] pendant 1 [[round]] ([[Vigueur]] [[DD]] 13 annule). La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 20.

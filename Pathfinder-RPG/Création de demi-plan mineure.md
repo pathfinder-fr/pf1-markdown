@@ -14,14 +14,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
-**Temps d’incantation** 2 heures
-**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)
-**Portée** 0 m
-**Effet** demi-plan extradimensionnel, jusqu’à 3 cubes de 3 mètre/niveau ([[Présentation des sorts#ZONEDEFFET|F]])
-**Durée** 1 jour/[[niveau]]
+{s:UM}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
+**Temps d’incantation** 2 heures  
+**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)  
+**Portée** 0 m  
+**Effet** demi-plan extradimensionnel, jusqu’à 3 cubes de 3 mètre/niveau ([[Présentation des sorts#ZONEDEFFET|F]])  
+**Durée** 1 jour/[[niveau]]  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
+<hr />
 Le personnage crée un petit demi-plan fini. Pour lancer le sort, il doit se trouver sur le [[Plans|plan Astral]] ou [[Plans|Éthéré]] ou sur un [[plans|plan]] qui a accès à ceux-ci (comme le [[Plans|plan Matériel]]).
 
 Quand le personnage lance le sort, il décide si son demi-plan se trouve dans le [[plans|plan Astral]] ou [[Plans|Éthéré]]. Il est empli d’air ou d’eau (au choix du personnage). En général, le plan est plat et sans particularités, comme un sol de terre, de pierre, d’eau ou de bois. Les « murs » et le « plafond » peuvent avoir l’apparence de terre, de pierre, de bois ou d’eau ou se fondre dans la brume, dans le néant ou dans une autre frontière irréelle. Les conditions environnementales du plan sont celles d’un jour de printemps tempéré sur le [[plans|plan Matériel]]. C’est au personnage de déterminer le niveau de luminosité du plan (vive, normale, faible ou obscure).
@@ -40,15 +40,15 @@ Le personnage peut rendre le sort permanent à l’aide d’un sort de *[[perman
 
 ((({s:sortssimilaires|création de demi-plan mineure}
 ## [[Création de demi-plan]]
-{s:UM}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8
-**Temps d’incantation** 4 heures
-**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)
-**Portée** 0 m
-**Effet** demi-plan extradimensionnel, jusqu’à 10 cubes de 3 mètre/[[niveau]] ([[Présentation des sorts#ZONEDEFFET|F]])
-**Durée** 1 jour/[[niveau]] ou instantanée (voir texte)
+{s:UM}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
+**Temps d’incantation** 4 heures  
+**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)  
+**Portée** 0 m  
+**Effet** demi-plan extradimensionnel, jusqu’à 10 cubes de 3 mètre/[[niveau]] ([[Présentation des sorts#ZONEDEFFET|F]])  
+**Durée** 1 jour/[[niveau]] ou instantanée (voir texte)  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
-Ce sort fonctionne comme *[[création de demi-plan mineure]]* mais affecte une zone plus importante et permet d’ajouter plus de caractéristiques au plan. Le personnage peut utiliser le sort pour agrandir un demi-plan créé avec
+<hr />
+Ce sort fonctionne comme *[[création de demi-plan mineure]]* mais affecte une zone plus importante et permet d’ajouter plus de caractéristiques au plan. Le personnage peut utiliser le sort pour agrandir un demi-plan créé avec 
 *[[création de demi-plan mineure]]* (pas besoin de créer un demi-plan entièrement nouveau), auquel cas le sort a une durée de 1 jour/[[niveau]]. Si le personnage lance le sort dans son demi-plan, il peut lui ajouter (ou lui retirer) l’une des caractéristiques suivantes lors de chaque incantation du sort, auquel cas, la durée est instantanée.
 - *Alignée*. Le plan devient légèrement [[alignement|aligné]] sur le chaos, le bien, le mal, la loi ou la neutralité. Le personnage ne peut pas donner à son plan une caractéristique d’alignement qu’il ne possède pas.
 - *Élémentaire*. Le plan gagne une caractéristique élémentaire dominante : air, terre, feu ou eau.
@@ -61,14 +61,14 @@ Ce sort fonctionne comme *[[création de demi-plan mineure]]* mais affecte une z
 Le personnage peut rendre le sort permanent à l’aide d’un sort de *[[permanence]]* pour 20 000 po. S’il a lancé plusieurs sorts de demi-plan pour agrandir la zone, chaque sort a besoin de sa propre *[[permanence]]*.
 
 ## [[Création de demi-plan supérieure]]
-{s:UM}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9
-**Temps d’incantation** 6 heures
-**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)
-**Portée** 0 m
-**Effet** demi-plan extradimensionnel, jusqu’à 20 cubes de 3 mètre/niveau ([[Présentation des sorts#ZONEDEFFET|F]])
-**Durée** 1 jour/[[niveau]]
+{s:UM}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
+**Temps d’incantation** 6 heures  
+**Composantes** [[Composantes|V, G, F]] (une baguette fourchue en métal d’au moins 500 po)  
+**Portée** 0 m  
+**Effet** demi-plan extradimensionnel, jusqu’à 20 cubes de 3 mètre/niveau ([[Présentation des sorts#ZONEDEFFET|F]])  
+**Durée** 1 jour/[[niveau]]  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[création de demi-plan]]* mais englobe une zone plus large et permet d’ajouter de nouvelles caractéristiques au demi-plan. Le personnage peut utiliser le sort pour agrandir un demi-plan créé avec création de demi-plan mineure (pas besoin de créer un demi-plan entièrement nouveau), auquel cas le sort a une durée de 1 jour/[[niveau]]. Si le personnage lance le sort dans son demi-plan, il peut lui ajouter (ou lui retirer) l’une des caractéristiques suivantes lors de chaque incantation du sort, auquel cas, la durée est instantanée.
 - *Énergie*. Le plan gagne la caractéristique énergie positive ou négative (mineure). Un plan ne peut pas être à la fois positif et négatif.
 - *Magie*. Le plan a une magie morte, améliorée, entravée ou sauvage. Si le personnage opte pour la magie morte, il est piégé dans son plan à moins d’avoir un portail planaire permanent (comme indiqué plus bas). S’il choisit la magie améliorée ou entravée, il doit aussi choisir le type de magie qu’il veut gêner ou amplifier, comme « les effets du registre du feu ou ceux qui manipulent le feu » ou « les sorts de mort et les sorts du domaine de la Mort et du Repos. » Il est impossible qu’un plan améliore et entrave un même type de magie.

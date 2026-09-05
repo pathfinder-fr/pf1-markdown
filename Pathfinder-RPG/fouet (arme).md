@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]
-**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]], [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#NONLETAL|non-létal]]
+{s:AE}**Prix** 1 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]  
+**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]], [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#NONLETAL|non-létal]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Cette arme n’inflige pas de dégâts aux créatures ayant un bonus d’armure de +1 ou plus ou ayant un bonus d’armure naturelle de +3 ou plus. On le traite comme une arme de corps à corps avec une [[allonge]] de 4,50 mètres mais il ne menace pas la zone dans laquelle le personnage porte l’attaque. En outre, contrairement à la plupart des autres armes à allonge, il peut être utilisé contre tous les ennemis situés à portée (y compris contre les ennemis adjacents).  
   
 Le maniement du fouet provoque des [[AO|attaques d’opportunité]], exactement comme pour les armes à distance.  

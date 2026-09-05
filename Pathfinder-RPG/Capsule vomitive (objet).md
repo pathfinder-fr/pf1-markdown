@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 12 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
+{s:MCA}**Prix** 12 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Ces petites capsules se composent d’un mélange concentré de plantes émétiques. Pour utiliser une capsule, le personnage la mord et en ingère le contenu, ce qui provoque presque immédiatement des vomissements, qui durent 1 [[round]] complet pendant lequel le personnage ne peut entreprendre aucune action. Le round suivant, il récupère complètement et ne souffre d’aucun effet secondaire. Ces capsules sont le plus souvent utilisées par les [[Roublard|roublards]], qui travaillent en équipe afin de créer des diversions et des spectacles pour détourner l’attention des gens de leurs activités, ainsi que par ceux qui cherchent à feindre la maladie, comme les pugilistes qui essayent d’éviter le combat ou les criminels qui souhaitent semer le chaos pendant une arrestation.

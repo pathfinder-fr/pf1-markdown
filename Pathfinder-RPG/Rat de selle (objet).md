@@ -7,9 +7,9 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:CM}**Prix** 50 po (normal), 75 po (entraîné au combat) ; **Poids** 25 kg (normal), 25 kg (entraîné au combat)
+{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:CM}**Prix** 50 po (normal), 75 po (entraîné au combat) ; **Poids** 25 kg (normal), 25 kg (entraîné au combat)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Les [[cheval (objet)|chevaux]], les [[cheval (objet)|poneys]] et autres bêtes de trait ne sont pas adaptés à la vie sous terre et c’est pour cette raison que les [[Homme-rat (race)|hommes-rats]] élèvent un type de rats sanguinaires particulièrement résistants pour les aider à tirer leurs chariots et les atteler aux caravanes d’éclaireurs. En tant que rongeurs, les rats sanguinaires sont réceptifs aux ordres des hommes-rats, sans compter que leur robustesse et leur régime omnivore en font des animaux dont il est très facile de s’occuper, même pendant les longs voyages en territoire inhospitalier. Utilisez les statistiques du [[Rat sanguinaire]] avec l’archétype simple de [[Archétypes#CREATUREGEANTE|géant]]. Un homme-rat qui possède le pouvoir de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[Chevalier#MONTURE|monture]] ou autre peut choisir un rat de selle pour monture.
 - **Compagnons rats de selle**  
 **Statistiques de départ. Taille** M ; **Vitesse** 12 m, escalade 6 m, nage 6 m ; CA armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** [[For]] 14, [[Dex]] 15, [[Con]] 17, [[Int]] 2, [[Sag]] 13, [[Cha]] 4 ; **Particularités** [[odorat (capacité)|odorat]], [[vision nocturne (capacité)|vision nocturne]].  

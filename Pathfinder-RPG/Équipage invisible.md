@@ -11,12 +11,12 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[barde|Bard]] 4, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** un marin invisible/niveau
-**Durée** 1 jour/niveau
+{s:PMI}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[barde|Bard]] 4, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** un marin invisible/niveau  
+**Durée** 1 jour/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Un membre d’équipage invisible est une entité informe et invisible qui accomplit les tâches d’un membre d’équipage normal. Il peut nouer et dénouer des cordes, hisser des voiles, laver le pont et accomplir d’autres tâches de ce type. Un membre d’équipage invisible ne possède aucune autre compétence. Il ne peut pas combattre, parler ou même se défendre.

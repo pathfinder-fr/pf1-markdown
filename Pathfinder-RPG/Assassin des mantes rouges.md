@@ -91,15 +91,15 @@ L’assassin pourpre est formé au maniement de toutes les armes courantes et de
   <tr><td>10</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
 </table>
 
-</div></div>L'assassin lance des sorts profanes issus de la liste de magicien/ensorceleur, mais elle est limitée aux sorts d’illusion et de transmutation. Il peut lancer tout sort connu sans avoir besoin de le préparer à l’avance.
+</div></div>L'assassin lance des sorts profanes issus de la liste de magicien/ensorceleur, mais elle est limitée aux sorts d’illusion et de transmutation. Il peut lancer tout sort connu sans avoir besoin de le préparer à l’avance. 
 
-Pour lancer un sort, l’assassin pourpre doit avoir une valeur de Charisme de 10 + niveau du sort, au minimum. Le nombre de sorts supplémentaires de l'assassin est basé sur son [[Charisme]] et les [[jds|jets de sauvegarde]] contre ses sorts ont un [[DD]] de 10 + niveau du sort + modificateur de Charisme (s’il y a lieu).
+Pour lancer un sort, l’assassin pourpre doit avoir une valeur de Charisme de 10 + niveau du sort, au minimum. Le nombre de sorts supplémentaires de l'assassin est basé sur son [[Charisme]] et les [[jds|jets de sauvegarde]] contre ses sorts ont un [[DD]] de 10 + niveau du sort + modificateur de Charisme (s’il y a lieu). 
 
-L'assassin pourpre possède une sélection de sorts très limitée : à chaque fois qu’il gagne un niveau de classe, il gagne un sort ou plus, comme indiqué dans la table ci-contre. Aux niveaux 4, 6, 8 et 10, il peut apprendre un nouveau sort qui remplacera l’un de ceux qu’il connaît déjà. Ce nouveau sort doit être du même niveau que celui qu’il remplace.
+L'assassin pourpre possède une sélection de sorts très limitée : à chaque fois qu’il gagne un niveau de classe, il gagne un sort ou plus, comme indiqué dans la table ci-contre. Aux niveaux 4, 6, 8 et 10, il peut apprendre un nouveau sort qui remplacera l’un de ceux qu’il connaît déjà. Ce nouveau sort doit être du même niveau que celui qu’il remplace. 
 
-Comme indiqué plus haut, l’assassin pourpre peut seulement apprendre des sorts de l’école de l’illusion et de la transmutation issus de la liste de l’ensorceleur/magicien.
+Comme indiqué plus haut, l’assassin pourpre peut seulement apprendre des sorts de l’école de l’illusion et de la transmutation issus de la liste de l’ensorceleur/magicien. 
 
-Pourtant, il apprend de nouveaux sorts en montant de niveau. Il ne les apprend pas obligatoirement quand ils sont disponibles, il faut les choisir dans la limite des sorts totaux disponibles.
+Pourtant, il apprend de nouveaux sorts en montant de niveau. Il ne les apprend pas obligatoirement quand ils sont disponibles, il faut les choisir dans la limite des sorts totaux disponibles. 
 
 Au niveau 2, l'assassin ajoute *[[brume de dissimulation]]* et *[[coup au but]]* à sa liste de sorts. Au niveau 4, elle ajoute *[[ténèbres]]* et *[[nuée grouillante]]* ; au niveau 6, *[[nappe de brouillard]]* et *[[détection de linvisibilité|détection de l’invisibilité]]* ; au niveau 8, *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* et *[[immobilisation de personne]]* et au niveau 10, *[[porte dimensionnelle]]* et *[[modification de mémoire]]*.
 
@@ -111,7 +111,7 @@ Ce pouvoir fonctionne exactement comme le pouvoir de [[roublard]] du même nom. 
 
 {s:Reference|COMBATAUSABRE}
 #### Combat au sabre (Ext)
-Au niveau 1, l’assassin pourpre gagne [[Spécialisation martiale]] (sabre dentelé) comme don supplémentaire. Au niveau 5, il gagne [[Arme de prédilection supérieure]] (sabre dentelé) et au niveau 7 [[Spécialisation martiale supérieure]] (sabre dentelé).
+Au niveau 1, l’assassin pourpre gagne [[Spécialisation martiale]] (sabre dentelé) comme don supplémentaire. Au niveau 5, il gagne [[Arme de prédilection supérieure]] (sabre dentelé) et au niveau 7 [[Spécialisation martiale supérieure]] (sabre dentelé). 
 
 {s:Reference|ATTAQUEDELAMANTE}
 #### Attaque de la mante (Sur)
@@ -127,7 +127,7 @@ Une fois par jour, au niveau 4, un assassin pourpre peut lancer une version spé
 
 {s:Reference|PERCEPTIONDELARÉSURRECTION}
 #### Perception de la résurrection (Sur)
-Au niveau 5, l'assassin pourpre perçoit le retour à la vie de ses victimes datant de moins d’un an, tant qu’elles sont sur le même plan.
+Au niveau 5, l'assassin pourpre perçoit le retour à la vie de ses victimes datant de moins d’un an, tant qu’elles sont sur le même plan. 
 
 {s:Reference|FORMEDEMANTE}
 #### Forme de mante (Sur)
@@ -135,11 +135,11 @@ Au niveau 6, un assassin pourpre peut se changer en mante religieuse géante cra
 
 {s:Reference|MANTESANGLANTE}
 #### Mante sanglante
-Au niveau 8, les attaques de griffe infligent 1d6 points de dégâts de [[saignement]] à chaque coup. Sous cette forme, la mante gagne une [[RD|réduction de dégâts]] de 5/bien.
+Au niveau 8, les attaques de griffe infligent 1d6 points de dégâts de [[saignement]] à chaque coup. Sous cette forme, la mante gagne une [[RD|réduction de dégâts]] de 5/bien. 
 
 {s:Reference|SESTOMPER}
 #### S’estomper (Sur)
-Au niveau 8, l’assassin pourpre peut prendre une forme éthérée. C’est une [[action libre]] que l'assassin peut utiliser un nombre de fois par jour égal à son modificateur de [[Constitution]] (avec un minimum d’une fois par jour). Dès que l'assassin est touché par une arme ou contraint de faire un jet de [[Réflexes]], il peut décider de s’estomper. Il doit activer ce pouvoir avant de connaître les effets du jet d’attaque ou du sort. Cela lui donne 50% de chances d’éviter les dégâts de l’attaque ou de l’effet.
+Au niveau 8, l’assassin pourpre peut prendre une forme éthérée. C’est une [[action libre]] que l'assassin peut utiliser un nombre de fois par jour égal à son modificateur de [[Constitution]] (avec un minimum d’une fois par jour). Dès que l'assassin est touché par une arme ou contraint de faire un jet de [[Réflexes]], il peut décider de s’estomper. Il doit activer ce pouvoir avant de connaître les effets du jet d’attaque ou du sort. Cela lui donne 50% de chances d’éviter les dégâts de l’attaque ou de l’effet. 
 
 {s:Reference|ESSAIMFATAL}
 #### Essaim fatal (Mag)

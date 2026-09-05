@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** [[Châtiment canalisé]], lanceur de sorts divins de niveau 5, canalisation d’énergie négative, avoir un seigneur démon comme divinité protectrice.
 
-**Avantages.** Quand le personnage utilise le Châtiment canalisé contre une créature vivante d’alignement Bon, il considère que tous les 1 obtenus sur le dé sont en fait des 2.
+**Avantages.** Quand le personnage utilise le Châtiment canalisé contre une créature vivante d’alignement Bon, il considère que tous les 1 obtenus sur le dé sont en fait des 2. 
 
 Si la cible du personnage est un extérieur Bon ou un lanceur de sorts divins au service d’une divinité Bonne, le personnage considère qu’il possède deux niveaux de plus qu’en réalité quand il détermine le nombre de dés de dégâts à lancer pour son [[Châtiment canalisé]].

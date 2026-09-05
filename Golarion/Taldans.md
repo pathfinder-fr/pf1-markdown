@@ -20,6 +20,6 @@ L'histoire des Taldans est longue et illustre. Le [[Taldor]] fut créé par un r
 La culture taldane est tournée vers une seule chose : le [[Taldor]] lui-même. Elle est incroyablement insulaire et ne s'intéresse qu'aux évènements dont le [[Taldor]] est le centre d'intérêt. Ce qui se passe à l'étranger est généralement considéré comme ennuyeux et sans intérêt. Les Taldans ont la même opinion des étrangers qu'ils considèrent invariablement provinciaux et inférieurs dans les domaines des bonnes manières, de l'éducation et de l'intérêt qu'ils peuvent avoir à leurs yeux. Il y a néanmoins une raison à cette arrogance. De par son histoire multi-millénaire, la civilisation taldane a eu le temps de perfectionner son artisanat et ses arts, tout en devenant un lieu incontournable pour les artistes et commerçants de toutes nationalités.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Taldans dans le supplément
+Vous pourrez trouver plus d'informations à propos des Taldans dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

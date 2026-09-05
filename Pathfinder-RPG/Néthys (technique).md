@@ -36,28 +36,28 @@ Inscrire les bienfaits de Néthys, des formules arcaniques et des lignes de pri�
 : **3.** ***Protection de Néthys (Sur).*** Un symbole profane complexe se manifeste sur la peau du personnage. L'emplacement de ce symbole varie selon les individus, mais il apparaît toujours à un endroit facilement visible (le plus souvent, il ressemble à un troisième œil). Tant que le symbole reste à découvert, le personnage bénéficie d'un bonus de parade à la CA égal à 1 + 1 par tranche de 4 [[DV|Dés de vie]] qu'il possède (maximum +6). Il perd ce bonus de parade si le symbole est caché, mais le récupère une fois que le symbole est à nouveau visible.
 
 ### Règles uniques aux suivants
-**Lancement de sorts (toutes les classes).**
+**Lancement de sorts (toutes les classes).**  
 • Interdiction de lancer le sort *[[transfert de sorts]]* (ou un sort similaire qui offre une capacité d'incantation) sur des créatures vivantes qui ne pourraient normalement pas utiliser de sorts ou de pouvoirs magiques ; cet acte est considéré comme un partage outrageux de la bénédiction que représentent les capacités magiques.
 
-**Lancement de sorts ([[barde]]).**
-• *[[Permanence]]* peut être préparé comme un sort de 4e niveau.
-• *[[Transfert de sorts]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[barde]]).**  
+• *[[Permanence]]* peut être préparé comme un sort de 4e niveau.  
+• *[[Transfert de sorts]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Verrou du mage]]* peut être préparé comme un sort de 2e niveau.
 
-**Lancement de sorts ([[ensorceleur]]/[[magicien]]).**
+**Lancement de sorts ([[ensorceleur]]/[[magicien]]).**  
 • *[[Transfert de sorts]]* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Permanence]]* peut être préparé comme un sort de 5e niveau.
-• *[[Ruse du renard]]* peut être préparé comme un sort de 2e niveau.
-• *[[Signature magique]]* peut être préparé comme une oraison.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Permanence]]* peut être préparé comme un sort de 5e niveau.  
+• *[[Ruse du renard]]* peut être préparé comme un sort de 2e niveau.  
+• *[[Signature magique]]* peut être préparé comme une oraison.  
 • *[[Verrou du mage]]* peut être préparé comme un sort de 2e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Chien esquiveur]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Chien esquiveur]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
 • *[[Convocation de monstres V]].* [[Manteleur]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

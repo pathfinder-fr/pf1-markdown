@@ -13,11 +13,11 @@ Categories:
 Un moine du fantôme affamé dispose des capacités suivantes.
 
 #### Coup mémorable (Ext)
-Au niveau 1, un moine du fantôme affamé reçoit [[Coup mémorable]] comme don supplémentaire, même s’il n’en remplit pas les conditions.
+Au niveau 1, un moine du fantôme affamé reçoit [[Coup mémorable]] comme don supplémentaire, même s’il n’en remplit pas les conditions. 
 
 Au niveau 10 et tous les cinq niveaux par la suite, il peut [[repousser]] la cible de ses coups mémorables de 1,50 mètre (1 {s:c}) de plus (sur 3 mètres (2 {s:c}) au niveau 10, sur 4,50 mètres (3 {s:c}) au niveau 15, et sur 6 mètres (4 {s:c}) au niveau 20).
 
-Au niveau 15, il peut choisir de ne repousser la cible que sur 1,50 mètre (1 {s:c}) et de la faire tomber (au lieu des effets normaux). La cible bénéficie quand même d’un [[jet de sauvegarde]] pour éviter d’être mise [[à terre]].
+Au niveau 15, il peut choisir de ne repousser la cible que sur 1,50 mètre (1 {s:c}) et de la faire tomber (au lieu des effets normaux). La cible bénéficie quand même d’un [[jet de sauvegarde]] pour éviter d’être mise [[à terre]]. 
 
 Cette capacité remplace [[moine#COUPETOURDISSANT|Coup étourdissant]].
 

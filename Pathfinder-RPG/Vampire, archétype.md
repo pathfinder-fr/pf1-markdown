@@ -51,7 +51,7 @@ En amenant un vampire à ou sous 0 point de vie, on le rend impuissant mais on n
 <td><div>{s:FAQ|***[[FAQ- Bestiaire#15|→]] Vampire : Lancer *désintégration* sur un vampire le détruit-il de façon permanente ?***
 
 Non. Il s'agit d'un cas de « quelle exception spéciale est prioritaire ? ». Puisque la description du <u>[[Vampire, archétype|vampire]]</u> indique les méthodes qui permettent de tuer un vampire de façon permanente (et *[[désintégration]]* n’en fait pas partie), et que *désintégration* ne précise pas qu'il « peut tuer de façon permanente une créature qui ne peut être tuée que sous certaines conditions », les règles du vampire sont prioritaires. Réduire les pv d'un vampire à 0 avec *désintégration* force simplement le vampire à adopter sa forme gazeuse, afin de se retirer dans son cercueil.
----
+<hr />
 ***[[FAQ- Bestiaire#16|→]] Vampire : Un rôdeur avec l'ennemi juré humanoïde (humain) obtient-il son bonus d'ennemi juré contre un humain devenu vampire ?***
 
 Non. Selon l'archétype <u>[[Vampire, archétype|vampire]]</u>, un humain devenu vampire ne conserve pas le sous-type (humain), donc le bonus du [[rôdeur]] ne s'applique pas — le vampire n'est plus tout à fait humain. En général, [[Rôdeur#ENNEMIJURE|ennemi juré]] humanoïde ne fonctionne pas contre une créature qui a un type autre que [[type Humanoïde|humanoïde]] (comme dans le cas du vampire, qui est de type [[type Mort-vivant|mort-vivant]]).}

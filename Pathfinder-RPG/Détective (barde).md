@@ -22,10 +22,10 @@ Un détective maîtrise les types de [[représentation bardique]] suivants.
 
 
 #### Le sens du détail (Ext)
-Un détective bénéficie d’un bonus égal à la moitié de son niveau de barde (minimum +1) sur ses tests de [[Connaissances]] (folklore local), [[Perception]] et [[Psychologie]], ainsi que sur les tests de [[Diplomatie]] visant à récolter des informations. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]].
+Un détective bénéficie d’un bonus égal à la moitié de son niveau de barde (minimum +1) sur ses tests de [[Connaissances]] (folklore local), [[Perception]] et [[Psychologie]], ainsi que sur les tests de [[Diplomatie]] visant à récolter des informations. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]]. 
 
 #### Intuition magique (Ext)
-Au niveau 2, le détective peut localiser et neutraliser les pièges magiques comme s’il possédait l’aptitude de classe du roublard [[roublard#RECHERCHEDEPIEGES|recherche de pièges]]. Il bénéficie de plus d’un bonus de +4 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les [[illusion|illusions]], sur ses tests de [[NLS]] et sur les [[jet de sauvegarde|jets de sauvegarde]] visant à percer à jour les [[Déguisement|déguisements]] et les protections contre la [[divination (école)|divination]] (comme par exemple *[[aura magique]]*, *[[détection faussée]]* et *[[antidétection]]*). Cette aptitude remplace [[barde#Érudition_Ext_6|érudition]].
+Au niveau 2, le détective peut localiser et neutraliser les pièges magiques comme s’il possédait l’aptitude de classe du roublard [[roublard#RECHERCHEDEPIEGES|recherche de pièges]]. Il bénéficie de plus d’un bonus de +4 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les [[illusion|illusions]], sur ses tests de [[NLS]] et sur les [[jet de sauvegarde|jets de sauvegarde]] visant à percer à jour les [[Déguisement|déguisements]] et les protections contre la [[divination (école)|divination]] (comme par exemple *[[aura magique]]*, *[[détection faussée]]* et *[[antidétection]]*). Cette aptitude remplace [[barde#Érudition_Ext_6|érudition]]. 
 
 
 #### Investigation magique (Ext)

@@ -70,9 +70,9 @@ Le tueur obtient Sabotage comme compétence de classe. Il gagne également les p
 
 {s:reference|STYLEDECOMBATDURODEUR}
 #### Style de combat de rôdeur (Ext)
-Le tueur choisit un [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] de rôdeur (comme archerie ou combat à deux armes). Il obtient un don de combat issu de la première liste de dons de ce style. Il n’a pas besoin de remplir les conditions requises tant que le don appartient à la liste du style de combat choisi.
+Le tueur choisit un [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] de rôdeur (comme archerie ou combat à deux armes). Il obtient un don de combat issu de la première liste de dons de ce style. Il n’a pas besoin de remplir les conditions requises tant que le don appartient à la liste du style de combat choisi. 
 
-Au niveau 6, il peut choisir de nouveau ce talent et ajouter à son éventail de choix les dons disponibles pour les rôdeurs de niveau 6 dans le style qu’il a déjà choisi.
+Au niveau 6, il peut choisir de nouveau ce talent et ajouter à son éventail de choix les dons disponibles pour les rôdeurs de niveau 6 dans le style qu’il a déjà choisi. 
 
 De même, au niveau 10, il peut choisir à nouveau ce talent et faire son choix parmi les dons accessibles aux rôdeurs de niveau 10 dans la liste du style choisi.
 </td><td width="1%">
@@ -130,7 +130,7 @@ Les effets des talents basés sur le niveau de roublard appliquent à la place l
 {s:reference|TROMPERLESINDISCRETS}
 #### Tromper les indiscrets
 Un tueur doué de ce talent dissimule ses pensées et ses intentions. Il gagne un bonus de +2 aux tests de Bluff et de Déguisement, ainsi qu’aux jets de sauvegarde pour résister aux sorts et effets permettant de lire dans son esprit
-(comme détection de pensée et détection du mensonge).
+(comme détection de pensée et détection du mensonge). 
 
 {s:reference|UTILISATIONDESPOISONS}
 #### Utilisation des poisons (Ext)
@@ -138,7 +138,7 @@ Le tueur est formé au maniement des poisons et ne peut pas s’empoisonner acci
 </td></tr></table>
 
 ### Description des talents de maître tueur
-À partir du niveau 10 puis tous les deux niveaux, le tueur peut choisir un talent de maître tueur au lieu d’un talent de tueur.
+À partir du niveau 10 puis tous les deux niveaux, le tueur peut choisir un talent de maître tueur au lieu d’un talent de tueur. 
 
 <table width="100%"><tr><td width="49%">
 {s:reference|ASSASSINAT}
@@ -180,7 +180,7 @@ affecte le tueur normalement.
 #### Talents de maître roublard et de maître ninja
 Un tueur peut
 choisir l’un des talents de maître roublard ou de maître ninja
-suivant au lieu d’un talent de maître tueur
+suivant au lieu d’un talent de maître tueur 
 
 <center>
 

@@ -9,12 +9,12 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Ulfes|Ulfes|ulfes}{s:cs}{s:ISR}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien, feu]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Rôdeur|Rôd]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)
-**Zone d'effet** [[Présentation des sorts#EFFET|étendue]] de 9 mètres de rayon centrée sur une créature, un objet ou un point dans l'espace
-**Durée** 1 round/niveau
+{s:regional|Ulfes|Ulfes|ulfes}{s:cs}{s:ISR}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien, feu]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Rôdeur|Rôd]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)  
+**Zone d'effet** [[Présentation des sorts#EFFET|étendue]] de 9 mètres de rayon centrée sur une créature, un objet ou un point dans l'espace  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage enveloppe la cible dans un manteau d'air estival, au sein duquel la température ambiante ne tombe jamais sous 20°C. Les créatures de sous-type [[sous-type froid|froid]] qui commencent leur tour dans la zone d'effet subissent 1d4 points de dégâts de feu + 1 tous les 2 [[NLS|niveaux de lanceur de sorts]] (maximum 1d4+5) sans [[jds|jet de sauvegarde]]. Chaque fois qu'un [[type Dragon|dragon]], une [[type Fée|fée]] ou un [[sous-type géant|géant]] mauvais subit des dégâts de ce sort, il doit réussir un jet de sauvegarde de [[Volonté]] ou être [[secoué]] pendant 1 round. Les créatures qui tentent de lancer un sort de [[registre|froid]] dans la zone d'effet doivent réussir un jet de Volonté ou perdre ce sort. Réussir un tel jet de sauvegarde pour lancer un sort permet à une créature de continuer à lancer des sorts de froid dans la zone d'effet pendant toute la durée du sort.

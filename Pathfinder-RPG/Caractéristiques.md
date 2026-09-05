@@ -63,7 +63,7 @@ Non. Vous ne gagnez des <u>[[Caractéristiques#DETERMINER|sorts en bonus]]</u> q
 
 Par exemple, un magicien de niveau 1 avec une Intelligence de 18 a, d'après la table 1-3 : Modificateurs de caractéristique et sorts en bonus, un sort en bonus aux niveaux de sorts 1, 2, 3 et 4. Cependant, il ne peut bénéficier que du sort en bonus de niveau 1 parce que, en tant que magicien de niveau 1, il n'a accès qu'aux sorts de niveau 1 (d'après la table de progression du magicien, son nombre de sorts de niveau 2, 3 et 4 est "—", ce qui signifie "pas d'accès aux sorts de ce niveau"). Dès qu'il devient un magicien de niveau 3, il accède à ses emplacements de sorts de niveau 2 et peut donc utiliser l'emplacement de sort en bonus de niveau 2 obtenu grâce à sa haute Intelligence. Il pourra faire de même pour les emplacements de sorts et le sort en bonus de niveau 3 lorsqu'il deviendra un magicien de niveau 5.
 
-En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de caractéristique et sorts en bonus jusqu'à ce que votre niveau de classe vous donne accès à ces niveaux de sorts.}Une fois que les ajustements dépendant de la [[races|race]] ont été effectués, chacune des caractéristiques se voit associer un modificateur entre -5 et +5 déterminé comme indiqué dans le Tableau ci-après. Ce modificateur est le nombre que vous ajoutez ou retranchez au résultat du dé lorsque votre personnage tente d’accomplir une action liée à la caractéristique en question. Il possède également d’autres utilisations qui ne se rapportent pas à des lancers de dés. Un modificateur positif est un bonus et un modificateur négatif un malus ou une pénalité.
+En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de caractéristique et sorts en bonus jusqu'à ce que votre niveau de classe vous donne accès à ces niveaux de sorts.}Une fois que les ajustements dépendant de la [[races|race]] ont été effectués, chacune des caractéristiques se voit associer un modificateur entre -5 et +5 déterminé comme indiqué dans le Tableau ci-après. Ce modificateur est le nombre que vous ajoutez ou retranchez au résultat du dé lorsque votre personnage tente d’accomplir une action liée à la caractéristique en question. Il possède également d’autres utilisations qui ne se rapportent pas à des lancers de dés. Un modificateur positif est un bonus et un modificateur négatif un malus ou une pénalité. 
 
 Le tableau vous indique également les sorts en bonus, un élément important pour les personnages qui peuvent lancer des sorts.
 
@@ -366,7 +366,7 @@ Chacune des caractéristiques décrit un aspect de votre personnage et condition
 
 {s:Reference|FORCE}
 #### La Force (For)
-*La Force représente la puissance musculaire et physique.*
+*La Force représente la puissance musculaire et physique.* 
 
 Cette caractéristique est importante pour les combattants au corps à corps comme les [[guerrier|guerriers]], les [[moine|moines]], les [[paladin|paladins]] et certains [[rôdeur|rôdeurs]]. La Force indique également le [[Poids transportable|poids maximal]] que votre personnage peut porter. Un personnage avec une valeur de Force de 0 est trop faible pour se mouvoir ; il est [[inconscient]]. Certaines créatures ne possèdent pas de valeur de Force et n’appliquent aucun modificateur aux [[compétences]] et aux jets basés sur la Force.
 
@@ -407,7 +407,7 @@ Si la valeur de Constitution d’un personnage change suffisamment pour que son 
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#18|→]] Intelligence : Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?***
 
-Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
+Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.  
 Techniquement, les objets qui améliorent l’Int comme un *[[Bandeau dintelligence|bandeau d’intelligence]]* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).}Cette caractéristique est importante pour les [[magicien|magiciens]] car elle influence leur aptitude à lancer des [[sort|sorts]] de nombreuses manières. L’instinct animal correspond à une Intelligence de 1 ou 2 ; les créatures qui peuvent comprendre un langage parlé possèdent une Intelligence d’au moins 3. Un personnage avec une valeur d’Intelligence de 0 est comateux. Certaines créatures ne possèdent pas de valeur d’Intelligence ; leur modificateur pour les compétences et les jets basés sur l’Intelligence est de +0.
 
 On applique le modificateur d’Intelligence

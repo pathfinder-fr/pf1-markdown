@@ -7,7 +7,7 @@ Categories:
 - Src Paths of Prestige
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:PP}''Les seigneurs des épées suivent un chemin bien particulier vers la maîtrise du duel – certains de ceux qui choisissent de manier l'[[épée de duel (arme)|épée de duel]] ne font que tâter ce style de combat alors que d'autres explorent des techniques peu conventionnelles avec cette arme. Cependant, ceux qui souhaitent imiter au mieux l'ancien style traditionnel de duel le font en prenant des niveaux dans la classe de prestige du seigneur des épées. Lorsque que quelqu'un entend qu'un seigneur des épées voyage sur une petite route de campagne, affrontant des bandits et battant des vantards dans des combats singuliers, ce seigneur des épées a sûrement choisi de suivre le chemin du duel traditionnel.
+{s:MenuClassesDePrestige}{s:cs}{s:PP}''Les seigneurs des épées suivent un chemin bien particulier vers la maîtrise du duel – certains de ceux qui choisissent de manier l'[[épée de duel (arme)|épée de duel]] ne font que tâter ce style de combat alors que d'autres explorent des techniques peu conventionnelles avec cette arme. Cependant, ceux qui souhaitent imiter au mieux l'ancien style traditionnel de duel le font en prenant des niveaux dans la classe de prestige du seigneur des épées. Lorsque que quelqu'un entend qu'un seigneur des épées voyage sur une petite route de campagne, affrontant des bandits et battant des vantards dans des combats singuliers, ce seigneur des épées a sûrement choisi de suivre le chemin du duel traditionnel. 
 
 Puisque que cette classe de prestige demande de maîtriser plusieurs dons, les seigneurs des épées ont souvent des niveaux dans la classe de [[guerrier]], dont la majorité est faite d'[[humain|humains]] avec une [[Intelligence]] au-dessus de la moyenne, ce qui les aide à remplir rapidement les conditions de compétence, mais ce n'est pas la seule route possible. Les [[Rôdeur|rôdeurs]], les [[roublard|roublards]] et les [[bretteur|bretteurs]] peuvent également rechercher à maîtriser l'art signature du duel à l'épée en gagnant des niveaux dans la classe de seigneur des épées, même si dans la majorité des cas ils devront attendre plus longtemps que les guerriers pour remplir les conditions. Beaucoup de capacités du seigneur des épées se reposent sur les règles des [[duels]]. Cette classe de prestige fonctionne bien en conjonction avec l'archétype de guerrier [Duelliste défenseur](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Fighter%20Aldori%20Defender), bien qu'il ne soit pas obligatoire de prendre l'un ou l'autre pour avoir accès à l'archétype ou à la classe de prestige.''
 
@@ -116,23 +116,23 @@ Puisque que cette classe de prestige demande de maîtriser plusieurs dons, les s
 **Dé de vie.** d10.
 
 ### Conditions requises
-Pour pouvoir devenir seigneur des épées, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir seigneur des épées, le personnage doit satisfaire aux conditions suivantes. 
 
 **Dons.** [[Arme de prédilection]] ([[épée de duel (arme)|épée de duel]]), [[Attaque en finesse]], [[Démonstration]],  [[Maniement dune arme exotique|Maniement d'une arme exotique]] (épée de duel).
 
 **Compétences.** 3 rangs en [[Acrobaties]], 3 rangs en [[Connaissances]] (noblesse), 5 rangs en [[Intimidation]] et 3 rangs en [[Psychologie]].
 
 ### Compétences de classe
-Voici les compétences de classe du seigneur des épées : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Connaissances]] (noblesse) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Psychologie]] (Sag) et [[Représentation]] (Cha).
+Voici les compétences de classe du seigneur des épées : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Connaissances]] (noblesse) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Psychologie]] (Sag) et [[Représentation]] (Cha). 
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de classe du seigneur des épées. Sauf si mention contraire, les bénéfices suivants ne s'appliquent que si le seigneur des épées manie une [[épée de duel (arme)|épée de duel]] et que son autre main est libre.
+Voici les caractéristiques de classe du seigneur des épées. Sauf si mention contraire, les bénéfices suivants ne s'appliquent que si le seigneur des épées manie une [[épée de duel (arme)|épée de duel]] et que son autre main est libre. 
 
 {s:reference|PERCEEHABILE}
 #### Percée habile (Ext)
-Un seigneur des épées ajoute son modificateur de [[Dextérité]] (s'il en a un) à ses [[Valeurs de combat#DEGATS|jets de dégâts]] faits avec une [[épée de duel (arme)|épée de duel]] au lieu de son modificateur de [[Force]]. Ce bonus aux jets de dégâts s'applique qu'il porte son épée de duel à une ou deux mains. Le seigneur des épées ne peut pas utiliser cette capacité s'il porte un bouclier ou une [[Actions spéciales#COMBAT2ARMES|arme secondaire]] (ce qui inclut les attaques à mains nues, les [[Attaques naturelles (capacité)|attaques naturelles]] ou les [[armure à pointes (arme)|armures à pointes]]).
+Un seigneur des épées ajoute son modificateur de [[Dextérité]] (s'il en a un) à ses [[Valeurs de combat#DEGATS|jets de dégâts]] faits avec une [[épée de duel (arme)|épée de duel]] au lieu de son modificateur de [[Force]]. Ce bonus aux jets de dégâts s'applique qu'il porte son épée de duel à une ou deux mains. Le seigneur des épées ne peut pas utiliser cette capacité s'il porte un bouclier ou une [[Actions spéciales#COMBAT2ARMES|arme secondaire]] (ce qui inclut les attaques à mains nues, les [[Attaques naturelles (capacité)|attaques naturelles]] ou les [[armure à pointes (arme)|armures à pointes]]). 
 
 {s:reference|ARMEENMAIN}
 #### Arme en main
@@ -140,17 +140,17 @@ Un seigneur des épées obtient le don [[Arme en main]] comme don supplémentair
 
 {s:reference|DEMONSTRATIONDETALENT}
 #### Démonstration de talent (Ext)
-Au niveau 2, un seigneur des épées ajoute un bonus égal à la moitié de son niveau de classe aux tests d'[[Intimidation]] quand il utilise le don [[Démonstration]] avec une [[épée de duel (arme)|épée de duel]]. Il obtient un bonus de +1 supplémentaire pour chaque don pour lequel il a choisi l'épée de duel parmi les suivants : [[Arme de prédilection]], [[Arme de prédilection supérieure]], [[Science du critique]], [[Spécialisation martiale]], [[Spécialisation martiale supérieure]]. Ces bonus se cumulent entre eux (le bonus total est considéré comme un bonus de compétence).
+Au niveau 2, un seigneur des épées ajoute un bonus égal à la moitié de son niveau de classe aux tests d'[[Intimidation]] quand il utilise le don [[Démonstration]] avec une [[épée de duel (arme)|épée de duel]]. Il obtient un bonus de +1 supplémentaire pour chaque don pour lequel il a choisi l'épée de duel parmi les suivants : [[Arme de prédilection]], [[Arme de prédilection supérieure]], [[Science du critique]], [[Spécialisation martiale]], [[Spécialisation martiale supérieure]]. Ces bonus se cumulent entre eux (le bonus total est considéré comme un bonus de compétence). 
 
-Lors d'un [[duels|duel]], la maîtrise des frappes et des postures élaborées du seigneur des épées lui offre un bonus égal à la moitié de son niveau de classe aux tests de [[combat de spectacle]]. Ces techniques peuvent aussi être très utiles pour parer les attaques d'un ennemi durant un duel, ce qui lui donne un bonus égal à la moitié de son niveau de classe pour ses jets quand il fait un [[Duels#Effort_de_duel_3|effort de duel]] ou une [[Duels#Parade_de_duel_5|parade de duel]].
+Lors d'un [[duels|duel]], la maîtrise des frappes et des postures élaborées du seigneur des épées lui offre un bonus égal à la moitié de son niveau de classe aux tests de [[combat de spectacle]]. Ces techniques peuvent aussi être très utiles pour parer les attaques d'un ennemi durant un duel, ce qui lui donne un bonus égal à la moitié de son niveau de classe pour ses jets quand il fait un [[Duels#Effort_de_duel_3|effort de duel]] ou une [[Duels#Parade_de_duel_5|parade de duel]]. 
 
 {s:reference|PARADEDEFENSIVE}
 #### Parade défensive (Ext)
-Au niveau 3, un seigneur des épées obtient un bonus d'esquive de +1 à la [[CA]] quand il fait une [[attaque à outrance]] avec une [[épée de duel (arme)|épée de duel]]. Ce bonus à la CA augmente à +2 au niveau 7. Si le duelliste des épées est aussi un [[guerrier]] avec l'archétype de  [Duelliste défenseur](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Fighter%20Aldori%20Defender), les niveaux dans la classe de seigneur des épées se cumulent avec son niveau de guerrier pour déterminer le bonus de CA de cette capacité.
+Au niveau 3, un seigneur des épées obtient un bonus d'esquive de +1 à la [[CA]] quand il fait une [[attaque à outrance]] avec une [[épée de duel (arme)|épée de duel]]. Ce bonus à la CA augmente à +2 au niveau 7. Si le duelliste des épées est aussi un [[guerrier]] avec l'archétype de  [Duelliste défenseur](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Fighter%20Aldori%20Defender), les niveaux dans la classe de seigneur des épées se cumulent avec son niveau de guerrier pour déterminer le bonus de CA de cette capacité. 
 
 {s:reference|TACTIQUESADAPTATIVES}
 #### Tactiques adaptatives (Ext)
-Au niveau 4, un seigneur des épées apprend à adapter son style de combat pour contrer les points forts de son ennemi. Le seigneur des épées réduit son malus aux [[jet dattaque|jets d'attaque]] quand il utilise [[Expertise du combat]] ou quand il [[Actions simples#COMBATSURLADEFENSIVE|combat sur la défensive]] de 1 au niveau 4, puis de 2 au niveau 8. De plus, après avoir utilisé une [[épée de duel (arme)|épée de duel]] pour attaquer une créature qu'il avait déjà attaquée au round précédent, le seigneur des épées peut faire un test de [[Psychologie]] ([[DD]] = 10 + [[BBA]] de l'ennemi) par une [[action rapide]]. Si le test est réussi, le seigneur des épées obtient un bonus de circonstances de +2 aux jets d'attaque ou à la [[CA]] contre cette créature jusqu'à la fin de son tour.
+Au niveau 4, un seigneur des épées apprend à adapter son style de combat pour contrer les points forts de son ennemi. Le seigneur des épées réduit son malus aux [[jet dattaque|jets d'attaque]] quand il utilise [[Expertise du combat]] ou quand il [[Actions simples#COMBATSURLADEFENSIVE|combat sur la défensive]] de 1 au niveau 4, puis de 2 au niveau 8. De plus, après avoir utilisé une [[épée de duel (arme)|épée de duel]] pour attaquer une créature qu'il avait déjà attaquée au round précédent, le seigneur des épées peut faire un test de [[Psychologie]] ([[DD]] = 10 + [[BBA]] de l'ennemi) par une [[action rapide]]. Si le test est réussi, le seigneur des épées obtient un bonus de circonstances de +2 aux jets d'attaque ou à la [[CA]] contre cette créature jusqu'à la fin de son tour. 
 
 {s:reference|BRISERLACONFIANCE}
 #### Briser la confiance (Ext)

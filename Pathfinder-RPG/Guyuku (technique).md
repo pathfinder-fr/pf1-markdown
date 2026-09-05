@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Épée à neuf anneaux (arme)|Épée à neuf anneaux]]
 |[[Domaine du Chaos|Chaos]], [[Domaine de lEau|Eau]], [[Domaine de la Force|Force]], [[Domaine du Mal|Mal]]
-|[[Domaine du Chaos|Entropie]], [[Domaine de la Force|Férocité]], [[Domaine de lEau|Océans]], [[Domaine du Mal|Peur]]
+|[[Domaine du Chaos|Entropie]], [[Domaine de la Force|Férocité]], [[Domaine de lEau|Océans]], [[Domaine du Mal|Peur]]  
 |—}
 {s:cs}{s:BotD}
 ### Obédience

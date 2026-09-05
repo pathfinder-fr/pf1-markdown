@@ -9,7 +9,7 @@ Categories:
 
 {s:DieuTech|Aroggus|Le fondateur d'abbaye| |[[Divinités#KYTONSDEMAGOGUES|Kytons démagogues]]
 |Loyal Mauvais|Possibilité, revanche, sanctuaire
-|N'importe|Aucun
+|N'importe|Aucun 
 |[[Marteau de guerre (arme)|Marteau de guerre]]
 |[[Domaine de la Duperie|Duperie]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Protection|Protection]]
 |[[Domaine de la Protection|Défense]], [[Domaine du Mal|Peur]], [[Domaine de la Duperie|Supercherie]], [[Domaine du Mal|Tyrannie]]

@@ -20,7 +20,7 @@ Categories:
 **Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** oui (objet)
 
-D'un long murmure sifflant, le personnage transforme un morceau de bois ordinaire en divers serpents qui attaquent immédiatement son ennemi. Tant qu'ils restent en vue, le personnage peut diriger leurs actions par télépathie par une action libre. Le personnage peut lancer ce sort contre un objet de bois qui ne se trouve pas en possession d'une créature et qui n'appartient pas à une structure ou à une plante. À chaque fois que le personnage lance ce sort, il peut créer un nombre de serpents égal à son [[NLS|niveau de lanceur de sorts]]. Les serpents les plus puissants équivalent à plusieurs plus petits, comme indiqué plus bas.
+D'un long murmure sifflant, le personnage transforme un morceau de bois ordinaire en divers serpents qui attaquent immédiatement son ennemi. Tant qu'ils restent en vue, le personnage peut diriger leurs actions par télépathie par une action libre. Le personnage peut lancer ce sort contre un objet de bois qui ne se trouve pas en possession d'une créature et qui n'appartient pas à une structure ou à une plante. À chaque fois que le personnage lance ce sort, il peut créer un nombre de serpents égal à son [[NLS|niveau de lanceur de sorts]]. Les serpents les plus puissants équivalent à plusieurs plus petits, comme indiqué plus bas. 
 - [[Serpent venimeux]]: Badine ou bois de cheminée. Compte comme 1 serpent.
 - [[Serpent constricteur]]: Bâton ou branche d'arbre. Compte comme 2 serpents.
 - [[Serpent venimeux]] [[Archétypes|évolué]]: Badine ou bois de cheminée. Compte comme 2 serpents.

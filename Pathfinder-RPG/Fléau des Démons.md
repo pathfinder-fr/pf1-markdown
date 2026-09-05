@@ -8,7 +8,7 @@ LastModified: 2024-05-21 19:10
 {s:BDTitre|Fléau des démons|{s:AE}}
 **Aura** [[Évocation]] et [[Nécromancie]] puissantes  ; **NLS** 14 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 90.469 po ; **Poids** 3,5 kg
 (((Description)))
-La poignée de cette épée a la forme d’un bel ange elfique. Ses ailes aux plumes extrêmement détaillées se déploient depuis la poignée pour former la garde, avec le visage de l’ange situé à la base de la lame. Cette [[Lame elfique incurvée (arme)|lame elfique incurvée]] en [[matériaux spéciaux#FERFROID|fer froid]] *[[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]]* de démons +3 entrave ses ennemis jurés. Elle empêche toutes les créatures de sous-type démon situées à 18 mètres ou moins de son possesseur de se téléporter, comme si elles étaient affectées par un sort d’*[[ancre dimensionnelle]]* (aucun [[jds|jet de sauvegarde]]).
+La poignée de cette épée a la forme d’un bel ange elfique. Ses ailes aux plumes extrêmement détaillées se déploient depuis la poignée pour former la garde, avec le visage de l’ange situé à la base de la lame. Cette [[Lame elfique incurvée (arme)|lame elfique incurvée]] en [[matériaux spéciaux#FERFROID|fer froid]] *[[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]]* de démons +3 entrave ses ennemis jurés. Elle empêche toutes les créatures de sous-type démon situées à 18 mètres ou moins de son possesseur de se téléporter, comme si elles étaient affectées par un sort d’*[[ancre dimensionnelle]]* (aucun [[jds|jet de sauvegarde]]). 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[ancre dimensionnelle]]*, *[[châtiment sacré]]*, *[[convocation de monstres I]]*  ; **Coût** 46.460 po
 </div>

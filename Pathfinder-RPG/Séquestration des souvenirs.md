@@ -10,11 +10,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (une gemme d’une valeur de 500 po au moins)
-**Portée** personnelle
-**Cible** une créature consentante
+{s:RSE}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (une gemme d’une valeur de 500 po au moins)  
+**Portée** personnelle  
+**Cible** une créature consentante  
 **Durée** permanent jusqu’à utilisation (voir texte)
 
 Ce sort permet au personnage de modifier la mémoire d’une créature en effaçant soit le souvenir d’un évènement dont la durée ne dépasse pas une minute par [[NLS|niveau de lanceur de sorts]], soit la totalité des connaissances sur un sujet précis (c’est au [[MJ]] de décider en quoi consiste un sujet précis). Par exemple, le personnage peut effacer le souvenir d’une bataille précise de la mémoire d’une créature ou tout ce qu’elle sait à propos d’un complot visant à assassiner un roi. Les souvenirs effacés par le personnage sont stockés à l’intérieur de la pierre précieuse utilisée comme composante lors de l’incantation du sort. Si la gemme est détruite, les souvenirs réintègrent la mémoire de la créature si elle et la gemme sont à neuf mètres ou moins l’une de l’autre. Une fois le sort de *séquestration des souvenirs* lancé, il reste actif sur la gemme et peut être dissipé (ce qui la détruit). Aucun résidu du sort ne reste actif sur la créature ciblée qui n’irradie aucune magie occasionnée par ce sort. Une dissipation lancée sur la créature ne lui permet pas de récupérer ses souvenirs, pas plus qu’une exposition à un effet d’antimagie. Si la gemme est détruite ou sa magie dissipée alors qu’elle est hors de portée de la créature, les souvenirs séquestrés à l’intérieur sont définitivement perdus, à moins d’avoir recours à un *[[souhait]]*, un *[[miracle]]* ou un sort similaire.

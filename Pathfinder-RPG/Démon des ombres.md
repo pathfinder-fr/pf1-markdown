@@ -7,7 +7,7 @@ Categories:
 - Src Bestiaire
 ---
 
-<table class="Bestiaire"><tr><td>
+<table class="Bestiaire"><tr><td> 
 <div class="BD">
 {s:BDTitre|Démon des ombres|FP 7}
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}

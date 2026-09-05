@@ -27,11 +27,11 @@ Au niveau 5, le chirurgien apprend comment allier la compétence [[Premiers seco
 
 [[FAQ- lArt de la magie#3|→]] Alchimiste, Chirurgien et *souffle de vie* : Comment puis-je utiliser cet extrait pour ramener quelqu'un à la vie ?**'
 
-L'économie d'action normale empêche le <u>[[Chirurgien (alchimiste)|chirurgien]]</u> d'utiliser sa capacité de classe vaincre la mort (qui ajoute *[[souffle de vie]]* à son livre de formules).
-Normalement, saisir un extrait et le boire est une action simple.
-Normalement, faire boire une potion à une créature inconsciente est une action complexe (les règles ne précisent pas l'action nécessaire pour le faire sur une créature morte, mais c'est vraisemblablement la même).
-Puisque *souffle de vie* doit être utilisé jusqu'à 1 round après la mort pour ramener la cible à la vie, ces conditions d'action impliquent que le chirurgien ne peut jamais utiliser cet extrait pour ramener quelqu'un à la vie.
-Afin que vaincre la mort puisse remplir sa fonction (permettre à l'archétype de ressusciter les morts), elle sera modifiée pour permettre au chirurgien de saisir et de faire boire une infusion de *souffle de vie* à une autre créature par une action complexe.
+L'économie d'action normale empêche le <u>[[Chirurgien (alchimiste)|chirurgien]]</u> d'utiliser sa capacité de classe vaincre la mort (qui ajoute *[[souffle de vie]]* à son livre de formules).  
+Normalement, saisir un extrait et le boire est une action simple.  
+Normalement, faire boire une potion à une créature inconsciente est une action complexe (les règles ne précisent pas l'action nécessaire pour le faire sur une créature morte, mais c'est vraisemblablement la même).  
+Puisque *souffle de vie* doit être utilisé jusqu'à 1 round après la mort pour ramener la cible à la vie, ces conditions d'action impliquent que le chirurgien ne peut jamais utiliser cet extrait pour ramener quelqu'un à la vie.  
+Afin que vaincre la mort puisse remplir sa fonction (permettre à l'archétype de ressusciter les morts), elle sera modifiée pour permettre au chirurgien de saisir et de faire boire une infusion de *souffle de vie* à une autre créature par une action complexe.  
 Cela sera mis à jour dans la prochaine impression de l’*Art de la magie*.}Au niveau 10, le chirurgien ajoute *[[souffle de vie]]* dans son livre de formules comme une formule de 4e niveau. Ses infusions curatives s’appliquent aussi à cet extrait. De plus, un chirurgien peut saisir et faire boire un extrait de *souffle de vie* à une cible appropriée par une [[action complexe]]. Ce pouvoir remplace l’[[Alchimiste#IMMUNITEAUXPOISONS|immunité aux poisons]].
 
 #### Découvertes

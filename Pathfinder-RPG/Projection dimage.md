@@ -13,14 +13,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une petite réplique du personnage (5 po))
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Effet** 1 sosie d’ombre
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une petite réplique du personnage (5 po))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Effet** 1 sosie d’ombre  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Cette incantation permet au personnage de créer un double de lui-même entièrement constitué d’énergie issue du [[plan de lOmbre|plan de l’Ombre]]. Il ressemble à s’y méprendre à l’original (même voix, même odeur, etc.) mais il est [[intangible]]. Il imite à la perfection les actions du personnage (et va même jusqu’à parler en même temps que lui) à moins que ce dernier ne décide de le faire agir autrement (par une [[action de mouvement]]).
 
 Le lanceur de sorts peut voir par les yeux de son double et entendre par ses oreilles comme s’il se trouvait à sa place. Lors de son tour de jeu, il peut passer de sa propre perspective à celle de son image et inversement par une [[action libre]]. Quand il utilise les sens de son image, son corps est considéré comme [[aveuglé|aveugle]] et [[assourdi|sourd]].
@@ -34,12 +34,12 @@ Les objets sont affectés par la *projection d’image* comme s’ils avaient r�
 ((({s:sortssimilaires|projection d'image}
 ## [[Double du familier]]
 {s:MCA}**École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une petite réplique du personnage (5 po))
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Effet** 1 sosie d’ombre
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une petite réplique du personnage (5 po))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Effet** 1 sosie d’ombre  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[projection dimage|projection d'image]]*, à la seule différence que l’image apparaît dans la case du [[familier]] du personnage et se déplace en même temps que ce familier.
 )))

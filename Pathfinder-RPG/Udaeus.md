@@ -74,7 +74,7 @@ des combattants dociles créés par une
 divinité à partir d’un croc de dragon,
 mais ils forment désormais une race indépendante
 capable de se reproduire par
-ses propres moyens.
+ses propres moyens. 
 
 Un udaeus aime le
 combat et se montre toujours prêt à prouver
@@ -94,7 +94,7 @@ des dragons ou des scènes de combat. Lorsqu’un udaeus solidifie sa chair
 grâce à sa magie innée, ces marques
 prennent l’aspect de gravures et de fissures
 similaires à celles d’une statue
-de marbre.
+de marbre. 
 
 Les udaeoi peuvent louer
 leurs services en tant que mercenaires

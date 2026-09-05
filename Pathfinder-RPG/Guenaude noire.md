@@ -69,7 +69,7 @@ où ils sont les plus vulnérables. Elles préfèrent tuer leurs proies
 lentement en hantant leurs rêves nuit après nuit. Elles capturent
 les âmes torturées de leurs victimes dans des gemmes sombres
 afin de pouvoir les vendre sur les marchés infernaux des plans
-Extérieurs.
+Extérieurs. 
 
 Les guenaudes noires
 ont des apparences

@@ -13,11 +13,11 @@ Categories:
 {s:UM}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5  
 **Temps d’incantation** 1 [[action simple]]  
-**Composantes** [[Composantes|V, G, M]] (une fiole d’acide de 10 po)  
+**Composantes** [[Composantes|V, G, M]] (une fiole d’acide de 10 po)   
 **Portée** 18 m (12 {s:c})  
 **Effet** ligne de 18 m (12 {s:c})  
 **Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Un jet d’acide jaillit de la main tendue du personnage et inflige 1d6 points de dégâts d’acide par
+Un jet d’acide jaillit de la main tendue du personnage et inflige 1d6 points de dégâts d’acide par 
 [[NLS|niveau de lanceur de sorts]] (15d6 au maximum) à toutes les créatures situées dans la zone ([[Réflexes]] 1/2 dégâts). L’acide continue de brûler pendant 1 [[round]] et inflige 1d6 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (7d6 au maximum) pour toute créature qui a raté son [[jet de sauvegarde]] contre le sort (un second jet de [[Réflexes]], fait au tour de la créature, annule les dégâts supplémentaires).

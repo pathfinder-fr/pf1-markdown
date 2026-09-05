@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 1 kg
+{s:AE}**Prix** 2 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cet instrument facilite les calculs mathématiques.

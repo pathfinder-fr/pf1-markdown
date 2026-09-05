@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 po (le verre), 30 po (la bouteille) ; **Poids** — (le verre), 0,75 kg (la bouteille)
+{s:AE}**Prix** 3 po (le verre), 30 po (la bouteille) ; **Poids** — (le verre), 0,75 kg (la bouteille)  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 On raconte que cet alcool vert, fabriqué à partir de l’armoise, stimule la créativité, ce qui en fait la boisson préférée des artistes et des excentriques.

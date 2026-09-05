@@ -10,11 +10,11 @@ Categories:
 {s:BDTitre|Bâton d’altération de taille|}
 **Aura** [[Invocation]] faible ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 26 150 po ; **Poids** 2,5 kg
 (((Description)))
-Ce petit et solide bâton de bois sombre propose les sorts suivants :
-• *[[agrandissement]]* (1 charge)
-• *[[agrandissement de groupe]]* (1 charge)
-• *[[rapetissement]]* (1 charge)
-• *[[rapetissement de groupe]]* (1 charge)
+Ce petit et solide bâton de bois sombre propose les sorts suivants :  
+• *[[agrandissement]]* (1 charge)  
+• *[[agrandissement de groupe]]* (1 charge)  
+• *[[rapetissement]]* (1 charge)  
+• *[[rapetissement de groupe]]* (1 charge)  
 • *[[réduction dobjet|réduction d’objet]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[agrandissement]]*, *[[agrandissement de groupe]]*, *[[rapetissement]]*, *[[rapetissement de groupe]]*, *[[réduction dobjet|réduction d’objet]]* ; **Coût** 13 075 po

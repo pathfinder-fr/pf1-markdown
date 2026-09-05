@@ -15,12 +15,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Rôdeur|Rôd]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 6
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, F]] (une plume en or d’une valeur de 100 po)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1d4+1 créatures invoquées
-**Durée** 1 minute/niveau
+{s:RSE}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Rôdeur|Rôd]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, F]] (une plume en or d’une valeur de 100 po)  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1d4+1 créatures invoquées  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage convoque 1d4+1 [[Aigle géant|aigles géants]] qui servent de montures aux créatures qu’il désigne. Ils ne se battent pas mais ils emportent volontiers leurs cavaliers au cœur d’un combat, comme des montures entraînées au combat.

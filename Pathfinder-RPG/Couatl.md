@@ -55,7 +55,7 @@ certains d’entre eux agissent indépendamment de tout être supérieur.
 Ces créatures respectées et admirées pour leur sagesse et leur beauté
 tentent d’aiguiller les mortels vers le droit chemin et d’utiliser leurs
 pouvoirs pour combattre les êtres maléfiques (tout particulièrement
-ceux qui se baladent entre les plans).
+ceux qui se baladent entre les plans). 
 
 Certaines sociétés isolées vénèrent
 des couatls comme des dieux bienveillants. Si la majorité des couatls
@@ -75,7 +75,7 @@ d’entre eux
 dévorent
 parfois des
 humanoïdes
-maléfiques.
+maléfiques. 
 
 Comme ils
 préfèrent consacrer leur temps à œuvrer

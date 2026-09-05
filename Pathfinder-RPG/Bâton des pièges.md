@@ -13,12 +13,12 @@ Categories:
 {s:APG}{s:BDTitre|Bâton des pièges|}
 **Aura** [[Abjuration]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 56 925 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton de bois sombre est couronné d'une pierre crayeuse. Il permet de lancer les sorts suivants :
-• *[[alarme]]* (1 charge)
-• *[[bouche magique]]* (1 charge)
-• *[[piège à feu]]* (2 charges)
-• *[[piège illusoire]]* (1 charge)
-• *[[runes explosives]]* (2 charges)
+Ce bâton de bois sombre est couronné d'une pierre crayeuse. Il permet de lancer les sorts suivants :  
+• *[[alarme]]* (1 charge)  
+• *[[bouche magique]]* (1 charge)  
+• *[[piège à feu]]* (2 charges)  
+• *[[piège illusoire]]* (1 charge)  
+• *[[runes explosives]]* (2 charges)  
 • *[[sceau du serpent]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[alarme]]*, *[[bouche magique]]*, *[[piège à feu]]*, *[[piège illusoire]]*, *[[runes explosives]]*, *[[sceau du serpent]]* ; **Coût** 36 525 po

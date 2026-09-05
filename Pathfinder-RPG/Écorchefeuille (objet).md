@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 20 po ; **Poids** —
+{s:cs}{s:AA}**Prix** 20 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ces fines feuilles de couleur rouille produisent une fumée légèrement hallucinogène qui sert également de puissant sédatif (voir la [[Drogues#ECORCHEFEUILLE|drogue]] du même nom). Les utilisateurs sont immunisés contre la douleur pendant 4 heures après avoir fumé de l’écorchefeuille, mais pendant ce temps, ils subissent un malus de -5 aux [[jds|jets de sauvegarde]] contre les effets altérant l'esprit.

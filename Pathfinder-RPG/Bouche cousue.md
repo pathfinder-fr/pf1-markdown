@@ -10,12 +10,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|G, M]] (une aiguille et du fil de tendon)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** instantanée
+{s:RSE}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|G, M]] (une aiguille et du fil de tendon)  
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort rare dénué de composante verbale permet de coudre les lèvres d’une cible si elle rate son [[jds|jet de sauvegarde]]. Cet effet l’empêche dès lors de parler distinctement, d’effectuer des attaques de morsure, de lancer des sorts dotés de [[composantes|composantes verbales]] ou de prononcer des [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mots de commande]]. La cible subit 1d6 points de dégâts infligés par les points de suture. Elle peut faire suffisamment de bruit pour être entendue par des individus distants qui réussissent un test de [[Perception]] [[DD]] 10.

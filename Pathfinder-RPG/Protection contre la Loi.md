@@ -18,14 +18,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non (voir texte)
----
+<hr />
 Ce sort ressemble à *[[protection contre le Mal]]* mais les bonus de parade et de résistance s’appliquent aux attaques portées par les créatures Loyales et les créatures convoquées d’[[alignement]] Loyal ne peuvent pas toucher le bénéficiaire.
 
 ### Version mythique
@@ -36,18 +36,18 @@ Les bonus à la [[CA]] et aux jets de sauvegarde s’élèvent à +4. Les créat
 
 (((
 ## Protection contre le Mal
-**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non (voir texte)
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#31|→]] *Protection contre le Mal* : Est-ce que la « protection contre les possessions et le contrôle mental » fonctionne contre les sorts ou effets de contrôles non-mauvais ?***
 
 Non. Le sort dit « Ce second effet ne fonctionne que contre les sorts et les effets créés par des créatures ou des objets mauvais. ». Donc si un adversaire Chaotique Neutre lance *[[charme-personne]]* sur le personnage, <u>*[[protection contre le Mal]]*</u> n’aura aucun effet puisque ni le sort ni le lanceur n’est mauvais.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#32|→]] *Protection contre le Mal* : Fonctionne-t-il contre les effets de charme et de coercition ? Ou uniquement contre les effets de charme et de coercition par lesquels le lanceur est capable d’exercer un contrôle sur la cible, comme *charme-personne*, *injonction*, et *domination* (et donc pas les effets comme *sommeil* ou *confusion*, puisque le lanceur n’a pas d’influence directe ou de contrôle quelconque sur la cible) ?***
 
 La seconde interprétation est correcte : <u>*[[protection contre le Mal]]*</u> fonctionne uniquement sur les [[branche charme|charmes]] et les [[branche coercition|coercitions]] par lesquels le lanceur est capable d’exercer un contrôle sur la cible, comme avec *[[injonction]]*, *[[charme-personne]]*, et *[[domination]]* ; il ne fonctionne pas contre *[[sommeil]]* ou *[[confusion]]*. (*sommeil* est un cas-limite sur ce point, mais les concepteurs pensent que « ce sort outrepasse le centre cérébral du sommeil » est assez différent de « ce sort outrepasse la résistance du personnage face aux ordres extérieurs ».)}Ce sort protège son bénéficiaire contre les attaques des créatures d’[[alignement]] Mauvais, mais aussi contre le contrôle mental et les créatures convoquées. Il crée une barrière magique à trente centimètres autour du sujet. Cette barrière se déplace avec le personnage et possède trois effets principaux :
@@ -65,13 +65,13 @@ Les bonus à la [[CA]] et aux jets de sauvegarde s’élèvent à +4. Les créat
 
 ((({s:sortssimilaires|protection contre la Loi}
 ## [[Protection contre la Loi (partagé)]]
-{s:UC}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:UC}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non (voir texte)
----
+<hr />
 Ce sort fonctionne comme *[[protection contre la Loi]]* mais la durée se divise entre les créatures touchées, par portions de 1 minute.
 )))

@@ -19,7 +19,7 @@ Un prêtre forgeron ajoute les sorts suivants à sa liste de sorts : 1<sup>er</s
 Au niveau 2, le prêtre forgeron ajoute un bonus égal à la moitié de son niveau aux tests d’[[Artisanat]] effectués pour fabriquer des objets, des armes et des armures métalliques (cet avantage est obtenu grâce à la version modifiée des bénédictions, voir ci-dessus).
 
 #### Dons supplémentaires
-Un prêtre forgeron peut choisir les dons de création d’objets en plus des dons de combat quand il gagne un don supplémentaire. Cette aptitude modifie les dons supplémentaires.
+Un prêtre forgeron peut choisir les dons de création d’objets en plus des dons de combat quand il gagne un don supplémentaire. Cette aptitude modifie les dons supplémentaires. 
 
 #### Création d’armes et d’armures magiques
 Au niveau 3, un prêtre forgeron gagne [[Création darmes et armures magiques|Création d’armes et armures magiques]] en don supplémentaire. Cette aptitude remplace le don supplémentaire obtenu au niveau 3.

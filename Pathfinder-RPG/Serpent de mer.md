@@ -10,7 +10,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Serpent de mer|FP 12}
-{s:pucem|Créature magique|Aquatique|Tempéré}
+{s:pucem|Créature magique|Aquatique|Tempéré}  
 {s:BDTexte|*Source : Bestiaire* p.258}
 {s:BDTexte|**PX** 19.200}
 {s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille Gig, N}

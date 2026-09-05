@@ -23,13 +23,13 @@ Non, sauf si une règle indique explicitement le contraire, le résultat d’un 
 Avec une arme de corps à corps, le bonus d’attaque est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque au corps à corps**   
-=  
+=   
 [[BBA|Bonus de base à l’attaque]] + modificateur de [[Force]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]]</center></div>
 
 Avec une arme à distance, le bonus d’attaque est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance**   
-=  
+=   
 [[BBA|Bonus de base à l’attaque]] + modificateur de [[Dextérité]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]] + malus de portée</center></div>
 
 {s:Reference|CA}
@@ -80,7 +80,7 @@ D’autres facteurs peuvent améliorer la [[Valeurs de combat#CA|CA]] d’un com
 
 {s:Reference|ATTAQUESDECONTACT}
 #### Attaques de contact
-Certaines attaques ne tiennent aucun compte de l’armure, du bouclier ou de l’armure naturelle. L’attaquant doit seulement toucher sa cible pour que son attaque réussisse. Dans ce cas, il effectue un jet d’attaque de contact (soit au corps au corps, soit à distance). Ce jet d’attaque se joue normalement, mais la [[Valeurs de combat#CA|CA]] de la cible n’inclut pas les [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]], de [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]] ou d’[[Valeurs de combat#BONUSARMURENATURELLE|armure naturelle]]. En revanche, le [[Valeurs de combat#BONUSTAILLE|modificateur de taille]] s’applique normalement, de même que les éventuels [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] et de [[Valeurs de combat#BONUSPARADE|parade]].
+Certaines attaques ne tiennent aucun compte de l’armure, du bouclier ou de l’armure naturelle. L’attaquant doit seulement toucher sa cible pour que son attaque réussisse. Dans ce cas, il effectue un jet d’attaque de contact (soit au corps au corps, soit à distance). Ce jet d’attaque se joue normalement, mais la [[Valeurs de combat#CA|CA]] de la cible n’inclut pas les [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]], de [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]] ou d’[[Valeurs de combat#BONUSARMURENATURELLE|armure naturelle]]. En revanche, le [[Valeurs de combat#BONUSTAILLE|modificateur de taille]] s’applique normalement, de même que les éventuels [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] et de [[Valeurs de combat#BONUSPARADE|parade]]. 
 
 **Attaques intangibles.** Certaines créatures ont la capacité de porter des attaques intangibles. Ces attaques traversent les objets solides comme les armures ou les boucliers. Elles fonctionnent comme des [[attaque de contact|attaques de contact]] mais ne tiennent en plus pas compte des bonus dus aux [[abri|abris]]. En revanche, elles tiennent compte des bonus d’armure apportés par des effets de force comme une *[[armure de mage]]* ou des bracelets d’armure.
 
@@ -129,10 +129,10 @@ Au cours de ce combat, le guerrier et l'ensorceleur combattent un ogre et son so
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#6|→]] Allonge de 3m et diagonales : Je suis confus par rapport à l’allonge et aux diagonales. J’ai entendu quelque part en ligne qu’un personnage ne menace pas la seconde diagonale avec une allonge de 3 mètres mais qu’il peut d’une façon ou d’une autre porter une attaque d’opportunité quand un adversaire se déplace hors de cette case, à côté de ça les Rule Reference Cards montrent que le personnage menace la seconde diagonale. Qui a raison ?***
 
 Les cartes sont correctes. À titre d’exception par rapport au fonctionnement normal des diagonales, une créature avec une <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u> de 3 mètres menace la seconde diagonale. Ces changements seront reflétés dans le prochain errata.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Combat)#7|→]] Allonge et objets : un personnage peut-il ramasser ou manipuler un objet dans sa portée d’allonge ? Cela provoque-t-il une AO ? Est-ce que ça en provoque même si la cible peut atteindre l’objet, mais pas l’espace occupé par le personnage ?***
 
-Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [[AO|attaque d’opportunité]], mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.
+Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [[AO|attaque d’opportunité]], mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).}{s:Reference|ESPACECONTROLE}**Espace contrôlé.** Un personnage contrôle la zone (ou l’espace) dans laquelle il est capable de porter des attaques de corps à corps et ce même si ce n’est pas à son tour d’agir. En règle générale, l’espace contrôlé se compose des cases adjacentes au personnage (ce qui comprend les diagonales). Si l’un des adversaires du personnage accomplit certaines actions dans cette zone, il s’expose à une attaque d’opportunité de la part du personnage. Un personnage ne portant pas d’arme ne peut normalement pas contrôler les cases adjacentes et ne peut donc pas porter d’attaques d’opportunité.
 
 :: *Armes à allonge.* La plupart des créatures de taille M ou plus petites ont une allonge de 1,50 m (1 {s:c}) seulement. Cela signifie qu’elles peuvent frapper leurs ennemis uniquement s’ils se trouvent à 1,50 m (1 {s:c})) ou moins d’eux. Néanmoins, une créature de taille P ou M qui utilise une arme à allonge contrôle plus de cases. De plus, la plupart des créatures de taille G ou plus ont une allonge de 3 m (2 {s:c}) ou plus.
@@ -141,7 +141,7 @@ Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://p
 
 :: *Déplacement.* Sortir d’une case contrôlée (mais pas y entrer) provoque généralement une attaque d’opportunité. Toutefois, deux méthodes permettent d’éviter cela : le pas de placement de 1,50 m (1 {s:c}) et l’action de retraite.
 
-:: *Actions provoquant de la déconcentration.* Certaines actions provoquent une attaque d’opportunité lorsqu’elles sont effectuées dans une case contrôlée par un ennemi, car elles obligent le personnage à porter son attention ailleurs que sur la bataille en cours.
+:: *Actions provoquant de la déconcentration.* Certaines actions provoquent une attaque d’opportunité lorsqu’elles sont effectuées dans une case contrôlée par un ennemi, car elles obligent le personnage à porter son attention ailleurs que sur la bataille en cours. 
 
 Rappelez-vous qu’il peut y avoir des exceptions, même pour des actions qui provoquent habituellement des attaques d’opportunité.
 
@@ -168,7 +168,7 @@ Si un personnage effectue deux [[action de mouvement|actions de mouvement]] dans
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#1|→]] 20 naturel et 1 naturel : Sur les jets d’attaque et de sauvegarde, un 20 naturel est une réussite automatique et un 1 naturel est un échec automatique. Mais devrais-je les considérer différemment des autres résultats dans le cadre d’un échec ou d’une réussite de 5 ou plus, d’une comparaison entre deux jets d’attaque pour voir qui a le résultat le plus élevé, ou d’autres situations similaires ?***
 
 Non, sauf si une règle indique explicitement le contraire, le résultat d’un 20 naturel ou d’un 1 naturel sur un <u>[[jet dattaque|jet d’attaque]]</u> ou <u>[[jds|de sauvegarde]]</u> est traité de la même façon que tout autre résultat dans le cadre d’une comparaison entre deux nombres. Par exemple, si un guerrier fait un 1 naturel pour un total de 31 contre la CA de 33 d’un magicien, l’attaque rate de 5 ou moins et détruit une des *[[image miroir|images miroirs]]* du magicien.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Combat)#27|→]] Jets de Réflexes : Si je suis paralysé, maintenu, mourant, ou autrement complètement immobilisé ou inanimé, puis-je quand même tenter un jet de Réflexes ?***
 
 Oui, un personnage peut toujours tenter un jet de <u>[[Réflexes]]</u>, mais puisque sa Dextérité est ici réduite à 0, il doit remplacer son bonus de Dextérité par un malus de -5, donc il a peu de chances de réussir. S’il réussit, c’est peut-être grâce au pouvoir de sa *[[cape de résistance]]*, à un bon angle de couverture, ou même à la chance. Dans tous les cas, suivez les règles du sort sur un jet de Réflexes réussit, même si cela devrait déplacer le personnage, comme *[[création de fosse]]*. En revanche, le personnage perd l’[[Roublard#ESQUIVETOTALE|esquive totale]] dans ces circonstances. S’il est sous l’influence d’un effet particulier qui le rend immobilisé ou inanimé et qui permet des jets de Réflexes continus pour y échapper, au titre d'exception à la règle, il peut utiliser son bonus de Dextérité complet (plutôt qu’un malus de -5) uniquement pour effectuer ces jets de sauvegarde continus, puisque sa Dextérité est mise à l’épreuve dans le cadre du sort, afin de s’en libérer.}En règle générale, lorsque le personnage est victime d’une attaque magique ou inhabituelle, il a droit à un jet de sauvegarde pour l’annuler, ou du moins pour en amoindrir les effets. Tout comme le [[Valeurs de combat#JETDATTAQUE|jet d’attaque]], le jet de sauvegarde se joue avec 1d20, auquel on ajoute un bonus dépendant de la [[classes|classe du personnage]] et de son niveau ainsi qu’un modificateur de caractéristique. Le modificateur au jet de sauvegarde est égal à :

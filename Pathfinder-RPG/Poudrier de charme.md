@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Poudrier de charme|{s:RSE}}
 **Aura** [[Illusion]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 500 po ; **Poids** —
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce petit poudrier de cuir ciré contient un miroir, de la poudre pour le visage, du fard et une houppette. Lorsque l’on utilise la houppette en prononçant le mot de commande, il est possible de modifier son apparence (comme avec le sort de *[[déguisement]]*) une fois par jour. De plus, le personnage bénéficie d’un bonus de compétence de +2 aux tests de [[Diplomatie]] pour rassembler des informations.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[déguisement]]*, le créateur doit posséder 5 rangs au moins en [[Diplomatie]] ; **Coût** 750 po

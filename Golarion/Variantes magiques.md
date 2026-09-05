@@ -23,9 +23,9 @@ Veillez toutefois à ne pas surcharger vos parties si vous décidez d’introdui
 **Le monde.** La magie, et pas uniquement l’incantation des sorts, varie en fonction des sites. Certaines régions de Golarion sont fondamentalement imprégnées de magie et pulsent d’énergie magique, à l’image des eaux rugissantes d’une rivière ou du magma mortel et bouillonnant d’un volcan. Les MJ qui souhaitent mettre en exergue la puissance naturelle d’une région particulièrement magique peuvent ajuster les descriptions des créatures artificielles, des pièges magiques et même des créatures magiquement créées ou convoquées pour les adapter aux caractéristiques de cette région. Toutefois, en plus de simples descriptions, un MJ peut se focaliser sur les propriétés étranges et merveilleuses de ces régions en créant des effets magiques peu courants. Les effets magiques environnementaux, telles que les zones affectées par la magie primordiale ou par la [[Pathfinder-RPG.Plans#Les_caractéristiques_magiques_9|magie entravée]], sont plus rares, mais varient également de région en région. Sur Golarion, des différences drastiques existent dans et autour de la [[Plaie du Monde]] corrompue par les démons, dans les royaumes influencés par les fées comme [[Uringen]] au sein des [[Royaumes fluviaux]] et dans certaines régions de l’Ombreterre. Dans les sables de la [[Alkenastre|Désolation de mana]] ravagée par la guerre se déversent des vagues capricieuses de magie primordiale. Il existe peu de choses plus terrifiantes qu’un lanceur de sorts dont la magie se retourne contre lui, ou pire, échoue complètement. Les changements des lois sous-jacentes qui régissent le monde permettent de vivre une aventure mémorable, mais, comme les autres formes de variantes magiques, ils doivent être appliqués avec parcimonie. Si la magie n’est pas assez fiable ou fonctionne rarement comme prévu, les PJ lanceurs de sorts auront l’impression d’avoir été trompés sur l’utilité de leurs aptitudes durement acquises.
 
 ### Fausse magie divine
-<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***
-&emsp;[[Pathfinder-RPG.Fausse incantation|Fausse incantation]] (Don)
-&emsp;[[Pathfinder-RPG.Faux focalisateur|Faux focalisateur]] (Don)
+<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***  
+&emsp;[[Pathfinder-RPG.Fausse incantation|Fausse incantation]] (Don)  
+&emsp;[[Pathfinder-RPG.Faux focalisateur|Faux focalisateur]] (Don)  
 &emsp;[[Pathfinder-RPG.Prêtre razmirien (ensorceleur)|Prêtre razmirien]] (Archétype  
 &emsp;d'ensorceleur)
 </div>Le souverain du [[Razmiran]] n’est pas seulement l’un des maîtres les plus agressifs de la région de la Mer Intérieure, c’est également l’un de ses plus grands charlatans, qui a réussi à convaincre plusieurs milliers de fidèles qu’il était un dieu.
@@ -35,7 +35,7 @@ Grâce à une synthèse astucieuse de mensonges désinvoltes et de puissante mag
 Razmir se fie à des menteurs talentueux (des bardes, des roublards et des ensorceleurs pour la plupart) qui se font passer pour ses prêtres. Quand des « miracles » sont nécessaires, il compte sur ses bardes pour les réaliser grâce à leur magie profane qu’ils font passer pour de la magie divine. Certains ensorceleurs ont également développé des pouvoirs qui les aident en ce sens (voir l'archétype thématique), mais la plupart se servent des dons thématiques pour parachever leurs tromperies.
 
 ### Distorsion de la chair
-<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***
+<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***  
 &emsp;[[Pathfinder-RPG.Créature distordue, archétype|Créature distordue]] (Archétype  
 &emsp;de créature)</div>La distorsion de la chair est une pratique qui consiste à altérer complètement la forme physique et mentale d’une créature, en l’immergeant dans d’étranges réactifs qui desserrent les liens de la chair et de l’esprit pour pouvoir les manipuler par le biais de la magie. Les secrets de la distorsion de la chair sont apparus indépendamment les uns des autres dans de nombreuses régions disparates de la Mer Intérieure, depuis les laboratoires des drows à Zirnakaynin jusqu’aux cuves d’[[OEnopion]], perpétuellement remplies de liquides bouillonnants, au [[Nex]]. Certains cultes démoniaques, surtout ceux d’Haagenti et de [[Lamashtu]], ont aussi développé d’importantes traditions quant à cette pratique et les aboleths appliquent des méthodes similaires depuis la nuit des temps. Au cours de l’histoire, ces méthodes ont permis la création d’un nombre incalculable de monstruosités déformées. Les driders sont probablement le résultat le plus connu et le plus courant de ce genre de pratique.
 
@@ -62,29 +62,29 @@ Les informations sur cette antique méthode de fabrication des parchemins sont l
 Voir le [[Pathfinder-RPG.Parchemins magiques#PARCHEMINSAEFFEUILLER|wiki règles]] pour plus de détails sur le comportement des parchemins à effeuiller en jeu.
 
 ### Incantation des ombres
-<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***
-&emsp;[[Pathfinder-RPG.Agression de lombre|Agression de l'ombre]] (Don)
-&emsp;[[Pathfinder-RPG.Étreinte de lombre|Étreinte de l'ombre]] (Don)
+<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***  
+&emsp;[[Pathfinder-RPG.Agression de lombre|Agression de l'ombre]] (Don)  
+&emsp;[[Pathfinder-RPG.Étreinte de lombre|Étreinte de l'ombre]] (Don)  
 &emsp;[[Pathfinder-RPG.Mage des ombres (magicien)|Mage des ombres]] (Archétype  
-&emsp;de magicien)
-&emsp;[[Pathfinder-RPG.Sort ténébreux|Sort ténébreux]] (Don)
+&emsp;de magicien)  
+&emsp;[[Pathfinder-RPG.Sort ténébreux|Sort ténébreux]] (Don)  
 &emsp;[[Pathfinder-RPG.Sort umbral|Sort umbral]] (Don)
 </div>[[Zon-Kuthon]] a conféré au peuple terrorisé du [[Nidal]] l’un de ses « dons » pour les protéger de la sombre période provoquée par la Chute. Pour veiller à ce que sa cour des Ombres maintienne son emprise pour l’éternité, le Seigneur de minuit a légué à ses serviteurs mortels les secrets de la fusion des ombres et de la magie. La plupart des mages des ombres pratique la sorcellerie, mais n’importe quel type de lanceur de sorts peut appréhender le don de Zon-Kuthon. Au-delà des frontières du Nidal, les cabales qui pratiquent l’incantation des ombres hantent la périphérie du Galt et du Taldor. Certaines servent Zon-Kuthon, d’autres satisfont uniquement leur propre soif de pouvoir.
 
 ### Magie des tatouages
-<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***
-&emsp;[[Pathfinder-RPG.Création de tatouages magiques|Création de tatouages magiques]] (Don)
+<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***  
+&emsp;[[Pathfinder-RPG.Création de tatouages magiques|Création de tatouages magiques]] (Don)  
 &emsp;[[Pathfinder-RPG.Ensorceleur tatoué (ensorceleur)|Ensorceleur tatoué]] (Archétype  
-&emsp;d'ensorceleur)
-&emsp;[[Pathfinder-RPG.Tatouage dincantation|Tatouage d'incantation]] (Objet magique)
-&emsp;[[Pathfinder-RPG.Tatouage de sort|Tatouage de sort]] (Objet magique)
-&emsp;[[Pathfinder-RPG.Tatouage de stockage|Tatouage de stockage]] (Objet magique)
+&emsp;d'ensorceleur)  
+&emsp;[[Pathfinder-RPG.Tatouage dincantation|Tatouage d'incantation]] (Objet magique)  
+&emsp;[[Pathfinder-RPG.Tatouage de sort|Tatouage de sort]] (Objet magique)  
+&emsp;[[Pathfinder-RPG.Tatouage de stockage|Tatouage de stockage]] (Objet magique)  
 </div>Même si la pratique du tatouage ritualisé est connue de la plupart des cultures, ce sont les lanceurs de sorts [[Varisie|varisiens]] qui l’emploient le plus souvent. Leurs ensorceleurs tatoués intègrent la magie dans les motifs complexes dessinés sur leur peau et parviennent même à insuffler la vie dans certains tatouages. Toutefois, les merveilles de la magie des tatouages ne sont pas uniquement réservées aux ensorceleurs : tous les lanceurs de sorts peuvent créer des tatouages magiques s’ils ont reçu l’enseignement approprié.
 
 Voir le [[Pathfinder-RPG.Tatouages magiques|wiki règles]] pour plus de détails sur le comportement des tatouages magiques en jeu.
 
 ### Magie thassilonienne
-<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***
+<div style="float:right; margin:8px 6px 0px 10px">***Options thématiques :***  
 &emsp;[[Pathfinder-RPG.Spécialiste thassilonien (magicien)|Spécialiste thassilonien]] (Archétype  
 &emsp;de magicien)
 </div>Le concept de spécialisation des magiciens ainsi que les très classiques écoles de magie largement reconnues datent certainement de l’ère de l’[[Azlante|Azlant]] et trouvent peut-être leurs origines dans les sombres replis du temps, avant que l’humanité n’occupe une place de premier plan. Toutefois, ce sont les seigneurs des runes du [[Thassilon]] qui ont poussé à l’extrême le concept de spécialisation magique.

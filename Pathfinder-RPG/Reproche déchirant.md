@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}
-**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|douleur]], [[registre|émotion]], [[registre|effet mental]]<nowiki>]</nowiki> ;
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|douleur]], [[registre|émotion]], [[registre|effet mental]]<nowiki>]</nowiki> ; 
 **Niveau** [[Antipaladin|Apal]] 2, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

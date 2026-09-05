@@ -208,7 +208,7 @@ Notez que nombre de ces avantages modifient la valeur de base et la limite d’a
 
 {s:Reference|INCONVENIENTS}
 #### Les inconvénients de la communauté
-Une communauté peut disposer de plusieurs avantages pour améliorer ses statistiques mais elle peut aussi souffrir de quelques inconvénients. Il n’y a pas de limite au nombre d’inconvénients d’une ville mais, généralement, elles en sont exemptes car toute communauté qui subit des désagréments sur une longue période finit par s’effondrer. Les inconvénients surviennent après un événement ou une action entreprise par un puissant PNJ ou PJ. De même, un groupe de héros peut s’embarquer dans une quête ou accomplir un exploit remarquable pour débarrasser une ville de son handicap.
+Une communauté peut disposer de plusieurs avantages pour améliorer ses statistiques mais elle peut aussi souffrir de quelques inconvénients. Il n’y a pas de limite au nombre d’inconvénients d’une ville mais, généralement, elles en sont exemptes car toute communauté qui subit des désagréments sur une longue période finit par s’effondrer. Les inconvénients surviennent après un événement ou une action entreprise par un puissant PNJ ou PJ. De même, un groupe de héros peut s’embarquer dans une quête ou accomplir un exploit remarquable pour débarrasser une ville de son handicap. 
 
 Voici une liste d’inconvénients.
 - **Anomique.** La communauté n’a pas de système de loi. Ce type de ville a souvent une durée de vie très brève et s’avère dangereuse. (*Remplace le gouvernement de la ville. Changez les modificateurs de gouvernement et appliquez les suivants : Corruption et criminalité +4 ; économie et société –4 ; loi –6 ; danger +20*).

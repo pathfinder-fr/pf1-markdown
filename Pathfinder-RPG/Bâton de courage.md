@@ -11,10 +11,10 @@ Categories:
 {s:BDTitre|Bâton de courage|}
 **Aura** [[Enchantement]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 20 800 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en noyer blanc d’apparence solide est surmonté d’une statuette d’ange ou d’un autre esprit bienveillant, dont les bras et les ailes sont ouverts en signe de bienvenue. Il permet d’utiliser les sorts suivants.
-• *[[Bénédiction]]* (1 charge)
-• *[[Regain dassurance|Regain d'assurance]]* (1 charge)
-• *[[Prière]]* (2 charge)
+Ce bâton en noyer blanc d’apparence solide est surmonté d’une statuette d’ange ou d’un autre esprit bienveillant, dont les bras et les ailes sont ouverts en signe de bienvenue. Il permet d’utiliser les sorts suivants.  
+• *[[Bénédiction]]* (1 charge)  
+• *[[Regain dassurance|Regain d'assurance]]* (1 charge)  
+• *[[Prière]]* (2 charge)  
 • *[[Délivrance de la paralysie]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[bénédiction]]*, *[[prière]]*, *[[regain dassurance|regain d'assurance]]*, *[[délivrance de la paralysie]]* ; **Coût** 10 400 po

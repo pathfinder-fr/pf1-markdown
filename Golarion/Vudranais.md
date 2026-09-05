@@ -9,6 +9,6 @@ Les Vudranais croient en un strict système de castes qui défini le rôle de ch
 Les Vudranais que l'on croise sur les rives de la [[mer Intérieure]] appartiennent généralement aux padapajna (la caste des guerriers), aux kezavazresthin (la caste des marchands) ou aux atanapratta (la caste des explorateurs).
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Vudranais dans le supplément
+Vous pourrez trouver plus d'informations à propos des Vudranais dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

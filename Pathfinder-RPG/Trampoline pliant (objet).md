@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 50 po ; **Poids** 5 kg
+{s:MCA}**Prix** 50 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[[Acrobaties]] pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [[Dangers naturels#CHUTE|chute]].

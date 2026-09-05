@@ -49,5 +49,5 @@ En revanche, malgré leur taille, ce sont des spécialistes du camouflage capabl
 
 Les drakes de brume ne se reproduisent qu’une fois tous les dix ou vingt ans mais ce sont des parents bien plus attentionnés que les autres drakes. Une fois les deux à six oeufs de la couvée éclos, les petits restent avec leur mère pendant une vingtaine d’années avant de chercher à conquérir leur propre territoire. Les drakes de brume vivent jusqu’à deux cent ans.
 
-Les drakes de brume mesurent quatre mètres, de la pointe du museau au bout de la queue, mais ils sont si minces qu’ils pèsent rarement plus de cinq cent kilos.
+Les drakes de brume mesurent quatre mètres, de la pointe du museau au bout de la queue, mais ils sont si minces qu’ils pèsent rarement plus de cinq cent kilos. 
 </div></td></tr></table>

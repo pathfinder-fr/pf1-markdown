@@ -8,12 +8,12 @@ Categories:
 - Sort magicien 3
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[branche fantasme|fantasme]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cible** arme touchée
-**Durée** 1 minute/niveau ou jusqu'à utilisation (voir description)
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[branche fantasme|fantasme]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[contact]]  
+**Cible** arme touchée  
+**Durée** 1 minute/niveau ou jusqu'à utilisation (voir description)  
 **Jet de sauvegarde** [[Volonté]], dévoile, puis [[Vigueur]] (voir description) ; **Résistance à la magie** oui
 
 Le personnage crée l’illusion d’un [[Poison illusoire#Poison fantasmatique|poison fantasmatique]] vert et huileux sur l’arme prise pour cible. La première créature frappée par l’arme ainsi empoisonnée doit effectuer un [[jds|jet de sauvegarde]] de [[Volonté]] contre le sort d’illusion ; une réussite signifie que le sort n’a aucun effet et l’illusion disparaît. Si la créature rate son jet de sauvegarde, elle croie à son empoisonnement et doit effectuer un [[jds|jet de sauvegarde]] de [[Vigueur]] contre le [[DD]] du sort pour éviter de subir les dégâts du poison illusoire.

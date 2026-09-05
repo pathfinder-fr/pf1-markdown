@@ -36,21 +36,21 @@ Peindre un petit tableau, composer un court poème ou une chanson, danser une sc
 : **3.** ***Cape de plumes (Sur).*** Une aura de traits colorés, brillant de la grâce sacrée de Shélyn, protège le personnage contre les attaques électriques d'une façon comparable à celle dont jouissent les [[Azata|azatas]] qui la servent. Le personnage gagne une [[Résistance (capacité)|résistance]] à l'électricité de 15.
 
 ### Règles uniques aux suivants
-**Lancement de sorts (toutes les classes).**
+**Lancement de sorts (toutes les classes).**  
 • *[[Charme-animal]]* peut être préparé comme un sort de 2e niveau.
 
-**Lancement de sorts ([[inquisiteur]]/[[paladin]]).**
-• *[[Charme-personne]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[inquisiteur]]/[[paladin]]).**  
+• *[[Charme-personne]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Espoir]]* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Attirance]]* peut être préparé comme un sort de 8e niveau. (ne peut être lancé que sur des œuvres d'art)
-• *[[Charme-personne]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Attirance]]* peut être préparé comme un sort de 8e niveau. (ne peut être lancé que sur des œuvres d'art)  
+• *[[Charme-personne]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Espoir]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Grig]] ([[sous-type extraplanaire|extraplanaire]])
-• *[[Convocation de monstres III]].* [[Silvanshie]]
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Grig]] ([[sous-type extraplanaire|extraplanaire]])  
+• *[[Convocation de monstres III]].* [[Silvanshie]]  
 • *[[Convocation de monstres V]].* [[Vulpinal]]
 
 #### Code de conduite du paladin
@@ -65,5 +65,5 @@ Les [[Paladin|paladins]] de Shélyn sont des défenseurs pacifiques de l'art et 
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

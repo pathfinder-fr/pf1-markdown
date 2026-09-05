@@ -7,6 +7,6 @@ Categories:
 - Religion
 ---
 
-Wadjet est, avec [[Apep]] et [[Khepri]] un des trois dieux de l'ancien culte d'[[Osirion]].
+Wadjet est, avec [[Apep]] et [[Khepri]] un des trois dieux de l'ancien culte d'[[Osirion]]. 
 
 Déesse bienveillante, elle est souvent associée à la rivière [[Sphinx]].

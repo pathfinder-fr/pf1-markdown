@@ -63,7 +63,7 @@ Le colosse de pierre est une forteresse ambulante de vingt et un mètres de haut
 Le corps du colosse de pierre coûte 40 000 po.
 
 **NLS **15 ; **Prix** 300 000 po{br}
-**Conditions requises** [[Création de créatures artificielles]], Artisan mythique de rang ou de grade mythique 8, *[[manoir somptueux]], [[mur de pierre]], [[réparation intégrale]], [[souhait]], [[zone dantimagie|zone d’antimagie]]* ; **Compétence** [[Artisanat]] (constructions en pierre) [[DD]] 30 ; **Coût** 170 000 po
+**Conditions requises** [[Création de créatures artificielles]], Artisan mythique de rang ou de grade mythique 8, *[[manoir somptueux]], [[mur de pierre]], [[réparation intégrale]], [[souhait]], [[zone dantimagie|zone d’antimagie]]* ; **Compétence** [[Artisanat]] (constructions en pierre) [[DD]] 30 ; **Coût** 170 000 po 
 
 </div>
 

@@ -10,7 +10,7 @@ LastModified: 2023-08-15 10:44
 (((Description)))
 Cette magnifique fontaine en pierre est gravée de figures de créatures [[type Fée|féeriques]] dansantes et contient de l'eau pure et chatoyante qui brille d'une lumière argentée. La déesse de la lune a donné ce font baptismal en récompense du courage d'une héroïne.
 
-Quiconque boit dans cette fontaine bénéficie des effets combinés de *[[restauration suprême]]* et de *[[guérison suprême]]* et est immédiatement soigné de toutes les afflictions y compris des *[[affaiblissement temporaire|affaiblissements temporaires]]* ou permanents, [[niveau négatif|niveaux négatifs]] et des atteintes à sa [[santé mentale]]. l'eau ne peut pas ramener un mort à la vie, toute créature [[type Mort-vivant|mort-vivante]] intégralement immergée dans l'eau est immédiatement détruite (aucun jet de sauvegarde). La fontaine ne s’assèche jamais, peu importe le nombre de fois où on l'utilise ou quelle quantité d'eau lui est retirée ; cependant, les pouvoirs de l'eau ne sont conservés que durant 1 round après avoir été retirée de la fontaine, devenant ensuite de l'eau normale. La fontaine ne peut être déplacée que par un *[[miracle]]* ou un *[[souhait]]*.
+Quiconque boit dans cette fontaine bénéficie des effets combinés de *[[restauration suprême]]* et de *[[guérison suprême]]* et est immédiatement soigné de toutes les afflictions y compris des *[[affaiblissement temporaire|affaiblissements temporaires]]* ou permanents, [[niveau négatif|niveaux négatifs]] et des atteintes à sa [[santé mentale]]. l'eau ne peut pas ramener un mort à la vie, toute créature [[type Mort-vivant|mort-vivante]] intégralement immergée dans l'eau est immédiatement détruite (aucun jet de sauvegarde). La fontaine ne s’assèche jamais, peu importe le nombre de fois où on l'utilise ou quelle quantité d'eau lui est retirée ; cependant, les pouvoirs de l'eau ne sont conservés que durant 1 round après avoir été retirée de la fontaine, devenant ensuite de l'eau normale. La fontaine ne peut être déplacée que par un *[[miracle]]* ou un *[[souhait]]*. 
 
 Une créature ne peut bénéficier des effets de la fontaine argentale qu'une seule fois par an.
 (((Destruction)))
@@ -18,5 +18,5 @@ Si une créature [[Archétypes|Céleste]] d'au moins 10 DV se suicide de son ple
 
 
 
-**Source** :
+**Source** : 
 Pathfinder Adventure Path #40: Vaults of Madness. © 2010, Paizo Publishing, LLC; Auteur Greg A. Vaughan

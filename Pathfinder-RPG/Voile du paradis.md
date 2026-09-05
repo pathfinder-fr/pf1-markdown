@@ -18,6 +18,6 @@ Categories:
 **Durée** 10 minute/[[niveau]] (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** non
 
-Le lanceur de sorts s’entoure d’un voile d’énergie positive : les [[type extérieur|extérieurs]] Mauvais ont plus de mal à le blesser.
+Le lanceur de sorts s’entoure d’un voile d’énergie positive : les [[type extérieur|extérieurs]] Mauvais ont plus de mal à le blesser. 
 
 Pour la durée du sort, le lanceur bénéficie d’un bonus sacré de +2 à la [[CA]] et à ses [[jds|jets de sauvegarde]]. Ces deux bonus ne s’appliquent que contre les attaques ou les effets créés par les extérieurs de [[sous-type Mal]]. Il peut mettre un terme à ce sort par une action rapide, infligeant alors 1d8 points de dégâts + 1 point par niveau de paladin contre de tels extérieurs situés dans un rayon de 1,5 m. Un jet de [[Volonté]] réussi divise ces dégâts par deux.

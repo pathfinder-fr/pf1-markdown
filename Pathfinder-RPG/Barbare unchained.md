@@ -249,7 +249,7 @@ La [[VD|vitesse de déplacement]] au sol d’un barbare est supérieure de 3 mè
 #### Rage de berserker (Ext)
 Le barbare peut puiser dans ses réserves intérieures de force et de férocité pour augmenter sa puissance au combat. Dès le niveau 1, un barbare peut entrer en rage chaque jour pendant un nombre de rounds égal à 4 + son modificateur de [[Constitution]]. Ce nombre de rounds quotidien augmente de +2 à chaque niveau de barbare après le premier. Les accroissements temporaires de la Constitution (comme ceux qui proviennent de sorts comme *[[endurance de lours|endurance de l’ours]]* ne modifient pas le nombre total de rounds de rage par jour. Un barbare peut entrer en rage par une [[action libre]]. Le quota de rounds de rage par jour est renouvelé après un repos de huit heures (ces heures ne doivent pas forcément être consécutives).
 
-Lorsqu’il est en rage, un barbare gagne un bonus de +2 aux jets d’attaque au corps à corps, aux jets de dégâts au corps à corps, aux jets de dégâts des armes de jet et aux jets de Volonté. En revanche, il subit un malus de -2 à la classe d’armure. Il gagne également 2 points de vie temporaires par dé de vie possédé. Ces points de vie temporaires sont défalqués les premiers quand le personnage subit des dégâts et disparaissent quand la rage prend fin. Ils ne réapparaissent pas si le barbare entre de nouveau en rage, à moins qu’il ne se soit écoulé au moins une minute depuis la fin de la rage précédente.
+Lorsqu’il est en rage, un barbare gagne un bonus de +2 aux jets d’attaque au corps à corps, aux jets de dégâts au corps à corps, aux jets de dégâts des armes de jet et aux jets de Volonté. En revanche, il subit un malus de -2 à la classe d’armure. Il gagne également 2 points de vie temporaires par dé de vie possédé. Ces points de vie temporaires sont défalqués les premiers quand le personnage subit des dégâts et disparaissent quand la rage prend fin. Ils ne réapparaissent pas si le barbare entre de nouveau en rage, à moins qu’il ne se soit écoulé au moins une minute depuis la fin de la rage précédente. 
 
 Lorsqu’un barbare est enragé, il ne peut pas utiliser les [[compétences]] basées sur le [[Charisme]], la [[Dextérité]] ou l’[[Intelligence]] (à l’exception des compétences [[Acrobaties]], [[Équitation]], [[Intimidation]] et [[Vol]]), ainsi que
 toutes les aptitudes ou pouvoirs qui nécessitent de la patience ou de la concentration (comme l’incantation).
@@ -273,7 +273,7 @@ Si un barbare maîtrise déjà l’esquive instinctive grâce à une autre class
 
 {s:Reference|SENSDUDANGER}
 #### Sens du danger (Ext)
-Au niveau 3, un barbare gagne un bonus de +1 aux jets de [[Réflexes]] effectués pour éviter les pièges et un bonus d’esquive de +1 à la [[CA]] contre les attaques effectuées par des pièges. De plus, il gagne un bonus de +1 aux tests de [[Perception]] effectués pour éviter d’être surpris par un adversaire. Ce bonus augmente de +1 tous les 3 niveaux par la suite (jusqu’à un maximum de +6 au niveau 18).
+Au niveau 3, un barbare gagne un bonus de +1 aux jets de [[Réflexes]] effectués pour éviter les pièges et un bonus d’esquive de +1 à la [[CA]] contre les attaques effectuées par des pièges. De plus, il gagne un bonus de +1 aux tests de [[Perception]] effectués pour éviter d’être surpris par un adversaire. Ce bonus augmente de +1 tous les 3 niveaux par la suite (jusqu’à un maximum de +6 au niveau 18). 
 
 On considère que cette aptitude est équivalente à celle de [[Barbare#SENSDESPIEGES|sens des pièges]] dans le cadre des conditions de classe ou de don, et les aptitudes d’archétype qui remplacent sens des pièges remplacent également le sens du danger. Les bonus conférés par cette aptitude se cumulent avec ceux conférés par sens des pièges (si le barbare maîtrise cette aptitude par le biais d’une autre classe).
 
@@ -289,7 +289,7 @@ Au niveau 7, un barbare bénéficie d’une [[RD|réduction de dégâts]]. Chaqu
 
 {s:Reference|RAGEDEGRANDBERSERKER}
 #### Rage de grand berserker (Ext)
-Au niveau 11, le bonus du barbare aux [[jet dattaque|jets d’attaque]] au corps à corps, aux [[Valeurs de combat#DEGATS|jets de dégâts]] au corps à corps, aux jets de dégâts des armes de jet et aux jets de [[Volonté]] effectués quand il est en rage s’élève à +3. De plus, le montant de points de vie temporaires obtenus quand il entre en rage s’élèvent à 3 par dé de vie.
+Au niveau 11, le bonus du barbare aux [[jet dattaque|jets d’attaque]] au corps à corps, aux [[Valeurs de combat#DEGATS|jets de dégâts]] au corps à corps, aux jets de dégâts des armes de jet et aux jets de [[Volonté]] effectués quand il est en rage s’élève à +3. De plus, le montant de points de vie temporaires obtenus quand il entre en rage s’élèvent à 3 par dé de vie. 
 
 {s:Reference|VOLONTEINDOMPTABLE}
 #### Volonté indomptable (Ext)

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 25 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15
+{s:AE}**Prix** 25 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
----
+<hr />
 Ce liquide bleu, au goût sain et sucré, crée une sensation de chaleur et de confort. Il protège l’estomac et évite que le personnage succombe aux nausées. Pendant une heure après l’ingestion, le personnage bénéficie d’un bonus alchimique de +5 à ses [[jds|jets de sauvegarde]] pour résister aux effets qui devraient le rendre [[nauséeux]] ou [[fiévreux]].

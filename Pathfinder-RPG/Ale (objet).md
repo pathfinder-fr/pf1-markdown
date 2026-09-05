@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 4 pc (la chope), 2 pa (le gallon) ; **Poids** 0,5 kg (la chope), 4 kg (le gallon)
+{s:AE}**Prix** 4 pc (la chope), 2 pa (le gallon) ; **Poids** 0,5 kg (la chope), 4 kg (le gallon)  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Il s’agit d’une bière brassée à partir d’orge malté. Elle a un goût sucré, corsé et parfois fruité.

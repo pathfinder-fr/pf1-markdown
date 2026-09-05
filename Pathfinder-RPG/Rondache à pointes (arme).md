@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 13/19 po ; **Poids** 5/5,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —
+{s:AE}**Prix** 13/19 po ; **Poids** 5/5,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 On peut utiliser la rondache à [[pointes de bouclier (armure)|pointes]] pour porter un coup plutôt que pour se défendre. On ne peut pas [[désarmement|désarmer]] un personnage équipé d’une rondache à pointes.

@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:APG}''Les gens que la soif de découverte pousse à franchir les frontières des régions sûres suivent parfois l’appel de l’arpenteur d’horizon. Les arpenteurs sont les maîtres des voyages, toujours à chercher un chemin praticable dans les environnements les plus inhospitaliers. Ils se sentent à l’aise dans des endroits dont les autres ne parlent que dans un murmure et il leur arrive aussi souvent de s’aventurer sur des chemins inconnus que de guider des voyageurs moins expérimentés dans de dangereuses contrées.
 
-Même si les rôdeurs sont les plus susceptibles d’être attirés par la vie d’errance des arpenteurs d’horizon, les
+Même si les rôdeurs sont les plus susceptibles d’être attirés par la vie d’errance des arpenteurs d’horizon, les 
 barbares, les guerriers et les roublards l’embrassent parfois. Les arpenteurs occupent souvent les régions en bordure de la civilisation, là où ils peuvent facilement passer du temps loin des rues connues et ennuyeuses des terres colonisées''
 
 <center>
@@ -357,5 +357,5 @@ La domination de chaque terrain donne des aptitudes supplémentaires, comme indi
 
 {s:Reference|MAITREDETOUTESLESTERRES}
 #### Maître de toutes les terres (Sur)
-Au niveau 10, l’arpenteur d’horizon connaît tous les terrains et se sent à l’aise partout. Dans tout environnement de prédilection, son bonus de terrain augmente de +2 et il considère tous les autres comme s’il les avait choisis comme environnements de prédilection (bonus de +2). Si une condition naturelle de temps ou de
+Au niveau 10, l’arpenteur d’horizon connaît tous les terrains et se sent à l’aise partout. Dans tout environnement de prédilection, son bonus de terrain augmente de +2 et il considère tous les autres comme s’il les avait choisis comme environnements de prédilection (bonus de +2). Si une condition naturelle de temps ou de 
 température nécessite de faire un test ou un [[jet de sauvegarde]], il le réussit automatiquement. Tous les alliés situés à moins de 18 mètres (12 cases) de lui gagnent un bonus de +2 à ces jets et tests. Si l’arpenteur se trouve sur un terrain qu’il maîtrise, ce bonus passe à +4

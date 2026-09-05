@@ -17,23 +17,23 @@ Le Roi décapité|%2fPCUP%2fReligion-PNG%2fYdersius.png|[[Divinités#AUTRES|Autr
 |—}{s:cs}{s:ISG}Ydersius, le Roi décapité, est un ancien dieu vénéré par les hommes-serpents, tout aussi anciens. Lorsque les hommes-serpents ont été pratiquement détruits lors d'une guerre contre les Azlant, Ydersius s'est caché en Ombreterre. Un puissant héros décapita Ydersius, mais les deux moitiés de son corps survivent, désespérant, selon certains, d'être réunies et de renaître.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Accélération du poison]]* peut être préparé comme un sort de 2e niveau.
-• *[[Forme bestiale I]]* peut être préparé comme un sort de 3e niveau (uniquement pour prendre la forme d'un animal serpentin).
-• *[[Forme bestiale II]]* peut être préparé comme un sort de 4e niveau (uniquement pour prendre la forme d'un animal serpentin).
-• *[[Forme bestiale III]]* peut être préparé comme un sort de 5e niveau (uniquement pour prendre la forme d'un animal serpentin).
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Accélération du poison]]* peut être préparé comme un sort de 2e niveau.  
+• *[[Forme bestiale I]]* peut être préparé comme un sort de 3e niveau (uniquement pour prendre la forme d'un animal serpentin).  
+• *[[Forme bestiale II]]* peut être préparé comme un sort de 4e niveau (uniquement pour prendre la forme d'un animal serpentin).  
+• *[[Forme bestiale III]]* peut être préparé comme un sort de 5e niveau (uniquement pour prendre la forme d'un animal serpentin).  
 • *[[Projectile empoisonné]]* peut être préparé comme un sort de 4e niveau (la flèche ou le carreau ressemble à une vipère raide qui mort la cible avec des crocs empoisonnés).
 
-**Lancement de sorts ([[Druide]]).**
+**Lancement de sorts ([[Druide]]).**  
 • *[[Projectile empoisonné]]* peut être préparé comme un sort de 4e niveau (la flèche ou le carreau ressemble à une vipère raide qui mort la cible avec des crocs empoisonnés).
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Serpent venimeux]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
-• *[[Convocation de monstres IV]].* [[Amphisbène]]
-• *[[Convocation de monstres V]].* [[Cobra impérial]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Serpent venimeux]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
+• *[[Convocation de monstres IV]].* [[Amphisbène]]  
+• *[[Convocation de monstres V]].* [[Cobra impérial]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
 • *[[Convocation de monstres VII]].* [[Anaconda géant]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

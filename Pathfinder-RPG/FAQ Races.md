@@ -11,7 +11,7 @@ LastModified: 2010-11-26 10:30
 ### Elfes
 **Q : Portes secrètes (Traits raciaux des elfes) - Il reste encore une référence dans la section des règles pour les portes secrètes qui fait référence au fait qu'un elfe remarque une porte secrète sans la rechercher particulièrement. Est-ce qu'un elfe peut encore trouver des portes secrètes, par ce moyen ?**
 
-A: (Joshua J. Frost) Dans la section [[elfe|traits raciaux de l'elfe]] à la page 23 du *Manuel des Joueurs*, il n est pas fait mention de ce trait. La référence, plus loin dans les règles, est un vestige qui doit être supprimé dans une future mise à jour.
+A: (Joshua J. Frost) Dans la section [[elfe|traits raciaux de l'elfe]] à la page 23 du *Manuel des Joueurs*, il n est pas fait mention de ce trait. La référence, plus loin dans les règles, est un vestige qui doit être supprimé dans une future mise à jour. 
 
 **Q : Transe elfique ? Dans les éditions précédentes, les elfes pouvaient entrer dans une "transe", un repos de 4 heures était suffisant pour gagner les avantages d'un repos de 8 heures. Les règles de Pathfinder ne semblent pas avoir retenu cet attribut pour les elfes. Est-ce vrai ?**
 

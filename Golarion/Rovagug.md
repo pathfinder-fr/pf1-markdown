@@ -27,7 +27,7 @@ Ses suivants sont des monstres ou des personnes nihilistes qui ne pensent qu'à 
 
 ### Temples
 
-Peu de religions sont aussi méprisées par les gens civilisés. Ses temples sont bannis de toutes les villes importantes. Les rares temples sont construits sous terre, avec un gouffre profond en leur centre.
+Peu de religions sont aussi méprisées par les gens civilisés. Ses temples sont bannis de toutes les villes importantes. Les rares temples sont construits sous terre, avec un gouffre profond en leur centre. 
 Ce dernier représente la prison de Rovagug.
 Ces temples ont souvent une créature monstrueuse comme gardien. Ils se trouvent principalement sur les terres de [[Belkzen]], les [[Royaumes des Seigneurs des Mammouths]], les déserts d'[[Osirion]] et de [[Qadira]].
 

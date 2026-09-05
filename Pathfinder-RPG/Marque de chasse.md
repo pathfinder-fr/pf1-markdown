@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}{s:cs}{s:ISG}**École** [[Évocation]] ; **Niveau** [[Druide|Dru]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|G, FD]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cibles** une créature
-**Durée** 10 minutes/niveau (T)
+{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}{s:cs}{s:ISG}**École** [[Évocation]] ; **Niveau** [[Druide|Dru]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|G, FD]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cibles** une créature  
+**Durée** 10 minutes/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage gagne une capacité surnaturelle à détecter les traces et autres indices laissés par la cible. Il considère le DD de tous les tests de [[Survie]] visant à suivre la cible comme s'ils étaient inférieurs de 5, et obtient un bonus de +5 aux tests de [[Perception]] visant à remarquer la cible lorsqu'elle utilise la [[Discrétion]] ou à la reconnaître lorsqu'elle utilise le [[Déguisement]].

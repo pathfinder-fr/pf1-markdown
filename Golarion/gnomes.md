@@ -13,7 +13,7 @@ Les gnomes sont des petits humanoïdes qui forment la race civilisée la plus su
 
 La coloration de leur peau et de leur cheveux dépend de leur expérience de vie. Elle couvre une gamme de couleurs couvrant l'ensemble de celles que l'on peut voir dans la nature, trahissant ainsi leur nature féérique plus que toute autre caractéristique physique. La plupart des gnomes ont une couleur de peau qui s'approche de celle des autres humanoïdes qui vivent dans la même région, bien que souvent rehaussée de couleur olive ou or. Leurs cheveux sont souvent très colorés. Ils montrent leurs expériences et leur histoire récente par le rouge ou le vert plus souvent que par le brun ou le blond. ILs ont de longs sourcils expressifs au dessus de grands yeux. Cette caractéristique plutôt enfantine amène souvent les autres humanoïdes à faire confiance aux gnomes, même si certains trouvent ces traits, ainsi que leur trop grande bouche et leur trop large sourire, trop étrangers et effrayant à leur goût.
 
-Les gnomes ne vieillissent pas de la même manière que les autres mortels : ils subissent l'affadissement.
+Les gnomes ne vieillissent pas de la même manière que les autres mortels : ils subissent l'affadissement. 
 
 L'affadissement est un mal qui commence à se manifester tôt dans la vie d'un gnome et il signifie le passage à l'âge adulte. Alors que les gnomes commencent à répéter leurs expérience et que, contrairement au temps de l'enfance, tout n'est plus uniquement découverte, ils commencent à légèrement perdre leurs couleurs. Mais c'est à l'âge mûr que les choses sérieuses commencent et que le déclin s'amorce.
 
@@ -27,7 +27,7 @@ Le dimorphisme sexuel est peu apparent chez les gnomes. Les mâles ont tendance 
 
 ### Histoire
 #### Dans le Monde Premier
-L'histoire de la race gnome ne débute pas sur [[Golarion]], mais dans le [[Monde Premier]], le royaume des fées. Les gnomes constituaient à l'époque une race ancienne de fées immortelles et espiègles. Ils étaient heureux de vivre dans le Monde Premier car il s'agissait d'un monde de merveille sans fin où ils avaient l'éternité pour assouvir leur curiosité et leur fantaisie. Ils furent contraints de quitter le [[Monde Premier]] et de migrer sur [[Golarion]].
+L'histoire de la race gnome ne débute pas sur [[Golarion]], mais dans le [[Monde Premier]], le royaume des fées. Les gnomes constituaient à l'époque une race ancienne de fées immortelles et espiègles. Ils étaient heureux de vivre dans le Monde Premier car il s'agissait d'un monde de merveille sans fin où ils avaient l'éternité pour assouvir leur curiosité et leur fantaisie. Ils furent contraints de quitter le [[Monde Premier]] et de migrer sur [[Golarion]]. 
 
 Les gnomes déclarèrent alors que leur migration n'avait pour but que de combler leur soif de découverte et de nouvelles expériences. Selon eux, ce sont ces deux objectifs qui les poussèrent vers le Plan Matériel. D'autres sources affirment que la raison de leur exode était plus sombre. Ce serait un cataclysme équivalent à celui de la tombée de la [[Pierre-Étoile]] qui les firent fuir le [[Monde Premier]].
 
@@ -35,7 +35,7 @@ Les gnomes déclarèrent alors que leur migration n'avait pour but que de comble
 L'arrivée des gnomes sur [[Golarion]] fut une période périlleuse pour eux. C'est à ce moment qu'ils commencèrent à souffrir de la Décoloration qui atteint nombre d'entre eux. Ils perdirent aussi leur capacité à manipuler les ombres et, avec leur principal moyen de défense disparu, beaucoup de gnomes furent victimes de nombreux prédateurs. Durant cette période, les gnomes disparurent presque complètement. Ceux qui survécurent s'adaptèrent à la vie sur [[Golarion]], constituant des enclaves qui les aidèrent à se protéger d'un monde hostile. Depuis cette époque, les gnomes ont été acceptés sur [[Golarion]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Gnomes dans les suppléments
+Vous pourrez trouver plus d'informations à propos des Gnomes dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Golarion.Publications#COMPANIONGNOMES|Pathfinder Companion: gnomes of Golarion]].
 {s:VoirAussiAprès}

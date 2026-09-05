@@ -7,9 +7,9 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 5 po (national ou de courtoisie de taille P), 2 po (national ou de courtoisie de taille G), 10 po (personnel de taille P), 4 po (personnel de taille G) ; **Poids**  0,5 kg (national ou de courtoisie de taille P), — (national ou de courtoisie de taille G), 0,5 kg (personnel de taille P), — (personnel de taille G)
+{s:PMI}**Prix** 5 po (national ou de courtoisie de taille P), 2 po (national ou de courtoisie de taille G), 10 po (personnel de taille P), 4 po (personnel de taille G) ; **Poids**  0,5 kg (national ou de courtoisie de taille P), — (national ou de courtoisie de taille G), 0,5 kg (personnel de taille P), — (personnel de taille G)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Les petits pavillons nautiques font 90 sur 15 centimètres alors que les plus grands font 3 sur 1,80 mètre. La plupart des navires hissent un grand drapeau national (ou « pavillon national ») et un petit pavillon de courtoisie (le drapeau de la nation dont il traverse le territoire maritime), ainsi qu'un pavillon personnel, mais leur taille dépend de celle du navire et des préférences de leur capitaine.  
 Les pavillons sont fabriqués dans tous types d'étoffes. Le coton et la soie sont courants mais la plupart des tissus s'abîment rapidement en mer. La plupart des capitaines remplacent leurs pavillons tous les deux ou trois périples en mer.  
 Le prix des *pavillons nationaux et de courtoisie* est moins élevé que celui des *pavillons personnels* car ils sont fabriqués en nombre. Il faut passer une commande précise lorsque l'on souhaite acquérir un pavillon personnel.

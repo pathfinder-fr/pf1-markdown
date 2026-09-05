@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:35
 {s:BDTitre|Rapière désarmante|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 17.820 po ; **Poids** 1 kg
 (((Description)))
-Cette *[[Rapière (arme)|rapière]] de [[duel (propriété)|duel]] +1* met un terme décisif aux duels en désarmant rapidement les adversaires de son propriétaire. Si le personnage réussit une tentative de [[désarmement]] avec cette arme, il peut déplacer l’arme de son adversaire de 1,50 mètre dans la direction de son choix, par une [[action rapide]].
+Cette *[[Rapière (arme)|rapière]] de [[duel (propriété)|duel]] +1* met un terme décisif aux duels en désarmant rapidement les adversaires de son propriétaire. Si le personnage réussit une tentative de [[désarmement]] avec cette arme, il peut déplacer l’arme de son adversaire de 1,50 mètre dans la direction de son choix, par une [[action rapide]]. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[grâce féline]]*, *[[manipulation à distance]]*  ; **Coût** 9.070 po
 </div>

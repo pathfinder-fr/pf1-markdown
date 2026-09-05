@@ -6,7 +6,7 @@ LastModified: 2016-08-09 11:45
 
 Les dragons sont des monstres assoiffés de sang, ne vous y trompez pas ! Meurtrières créatures, elles n'ont de cesse de détruire toutes les autres formes de vie avec leur appétit vorace et leurs penchants pour la cruauté. Filles des démons, moi, j'voul dis !
 
-*« Girondrr Balnar »* *(paysan du [[Chéliax]])*
+*« Girondrr Balnar »* *(paysan du [[Chéliax]])* 
 
 Il m'est arrivé de rencontrer un superbe dragon d'argent. J'étais encore jeune capitaine d'une unité de paladin au service de [[Iomédae]]. Nous venions d'apprendre l'invasion prochaine d'une armée de créatures mortes-vivantes sur une petite congrégation de fidèle à [[Osirion]]. La bataille était perdue d'avance, nous étions submergés par le nombre et par la force de nos ennemis. Et c'est là qu'il est apparu. D'un souffle il changea l'issu de la bataille et nous permit de tailler en pièces les invocateurs démoniaques. Nous ne le revîmes jamais pour le remercier d'avoir sauvé nos vies.
 
@@ -15,7 +15,7 @@ Il m'est arrivé de rencontrer un superbe dragon d'argent. J'étais encore jeune
 
 ### Histoire
 {s:ImageGauche|%2fIllustrations%2fMonstres%2fSouffle%20de%20dragon%20du%20froid-2.jpg|35%}
-Si vous posiez la question à un dragon, et qu'il n'a plus suffisamment faim pour vous mangez en retour, vous seriez surpris d'apprendre qu'ils se considèrent comme la race la plus ancienne de Golarion, des mondes aux delà des plans et des mondes au-delà des étoiles.
+Si vous posiez la question à un dragon, et qu'il n'a plus suffisamment faim pour vous mangez en retour, vous seriez surpris d'apprendre qu'ils se considèrent comme la race la plus ancienne de Golarion, des mondes aux delà des plans et des mondes au-delà des étoiles. 
 Car les dragons aiment à se sentir meilleurs que les autres. Et, si votre courage (ou votre stupidité) l'amuse et que vous apportez avec vous assez de mouton pour occuper son ventre pendant les huit longues journées que durerait son récit, vous auriez peut-être l'occasion d'entendre de sa bouche l'histoire des dragons. Enfin, leur version de l'histoire.
 
 "Au commencement étaient [[Apsu]] et **Tiamat**. [[Apsu]], le mâle, était l'eau douce, et Tiamat, son épouse, était le grand océan chaotique primitif. Ils enfantèrent les premiers dieux et leurs offrirent le ciel et l'enfer comme terrain de jeux. Créant le monde et piégeant les éléments, les dieux façonnèrent la terre puis se reposèrent.
@@ -26,9 +26,9 @@ Cette légende est racontée dans l'un des rares textes communs des deux catégo
 
 
 ### Croyance et Religion
-Bien que les dragons reconnaissent l'existence des dieux et des déesses des mortels, ils se considèrent comme une race bien supérieure à ces pathétiques créatures et ne vouent de véritable culte qu'aux deux seuls véritables dieux, [[Apsu]] et [[Dahak]], le père des dragons et l'éternelle destruction.
+Bien que les dragons reconnaissent l'existence des dieux et des déesses des mortels, ils se considèrent comme une race bien supérieure à ces pathétiques créatures et ne vouent de véritable culte qu'aux deux seuls véritables dieux, [[Apsu]] et [[Dahak]], le père des dragons et l'éternelle destruction. 
 
-[[Apsu]] est vénéré par la majorité des dragons, quelle que soit leur couleur, comme le père protecteur qui protège les dragons. Vivant dans l'Éternel Déambulatoire, un demi-plan personnel en permanence reliée physiquement sur Golarion, il prépare un plan pour vaincre définitivement [[Dahak]]. [[Apsu]] ressemble à un dragon vieux et fatigué, mais il reste encore une force d'une puissance incommensurable.
+[[Apsu]] est vénéré par la majorité des dragons, quelle que soit leur couleur, comme le père protecteur qui protège les dragons. Vivant dans l'Éternel Déambulatoire, un demi-plan personnel en permanence reliée physiquement sur Golarion, il prépare un plan pour vaincre définitivement [[Dahak]]. [[Apsu]] ressemble à un dragon vieux et fatigué, mais il reste encore une force d'une puissance incommensurable. 
 
 [[Dahak]] est maudit par tous les dragons, métalliques comme chromatiques. Seuls quelques rares dragons maléfiques osent l'approcher et le soutenir, en échange de pouvoirs de destruction phénoménaux. [[Dahak]] ressemble à une caricature de dragon, en pointe et en arrête osseuse. Sa gueule béante pourrait dévorer n'importe quel dragon en une seule bouchée.
 
@@ -83,7 +83,7 @@ Liés aux vertus **du mal et de la destruction**, les dragons chromatiques sont 
 
 
 #### Les bizarreries
-**Les dragons gris** sont issus de l'ancien clan des dragons de platines maudits par [[Dahak]]. Sans couleurs ni métal, ils sont parias dans les deux tribus de dragons. **Les abominations** sont issues d'un mélange malsain entre chromatiques et métalliques. **Les dragons célestes** sont une race draconienne du Tian Xia qui ne possède pas d'ailes et ne sont à priori pas liés aux dragons de Golarion.
+**Les dragons gris** sont issus de l'ancien clan des dragons de platines maudits par [[Dahak]]. Sans couleurs ni métal, ils sont parias dans les deux tribus de dragons. **Les abominations** sont issues d'un mélange malsain entre chromatiques et métalliques. **Les dragons célestes** sont une race draconienne du Tian Xia qui ne possède pas d'ailes et ne sont à priori pas liés aux dragons de Golarion. 
 
 
 ### Curiosités

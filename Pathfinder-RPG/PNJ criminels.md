@@ -11,8 +11,8 @@ Categories:
 
 ### Les criminels (partie 1)
 
-On trouve des criminels de bas étage dans les allées et les quartiers mal famés de toutes les villes, même les plus fières. Ils se faufilent hors de leurs tripots et de leurs repaires en sous-sol pour s’attaquer aux faibles
-et aux imprudents. Ils prennent tout ce qu’ils peuvent, généralement juste  assez  pour  survivre  et  leur  permettre  de  poursuivre  leurs activités violentes, tout en continuant à rêver au jour où ils feront « un
+On trouve des criminels de bas étage dans les allées et les quartiers mal famés de toutes les villes, même les plus fières. Ils se faufilent hors de leurs tripots et de leurs repaires en sous-sol pour s’attaquer aux faibles 
+et aux imprudents. Ils prennent tout ce qu’ils peuvent, généralement juste  assez  pour  survivre  et  leur  permettre  de  poursuivre  leurs activités violentes, tout en continuant à rêver au jour où ils feront « un 
 gros coup ». Ces criminels mineurs s’organisent en gangs ou, sous la direction d’un chef plus charismatique, en véritables guildes, ce qui les rend plus dangereux et plus audacieux que lorsqu’ils sont seuls.
 
 <table class="Bestiaire"><tr><td>
@@ -76,7 +76,7 @@ Les pickpockets qui travaillent en duo (FP 1) servent de distraction pour leur p
 {s:BDTexte|**Faveur** Un malfrat peut tenter d’enlever ou de menacer un PNJ spécifique, délivrer un message ou créer une diversion en organisant une rixe dans la rue, ce qui impose un malus de –2 aux tests de Perception opposés pendant 1 minute.}
 </div>
 </td><td><div>
-Les malfrats sont les cogneurs et les brutes qu’on croise dans les rues. Les  criminels  emploient  souvent  ces  armoires  à  glace  pour  tenir leurs rivaux à distance ou pour extorquer de l’or aux malheureux
+Les malfrats sont les cogneurs et les brutes qu’on croise dans les rues. Les  criminels  emploient  souvent  ces  armoires  à  glace  pour  tenir leurs rivaux à distance ou pour extorquer de l’or aux malheureux 
 vendeurs et aux propriétaires de commerces. Les citoyens innocents vivent dans la crainte qu’un malfrat ne sorte des ombres pour venir les battre violemment.
 
 Dans les villes où la loi est plus souple, les malfrats des rues peuvent servir de gardes corrompus ou de membres d’un groupe d’autodéfense. On peut les utiliser comme videurs dans une taverne ou un casino. Si on remplace Combat à deux armes par Force intimidante, il leur est encore plus facile d’extorquer de l’argent. En-dehors des villes et des cités, les malfrats peuvent servir de bandits ou de brigands, ou de gardes de bas niveau pour une caravane marchande.

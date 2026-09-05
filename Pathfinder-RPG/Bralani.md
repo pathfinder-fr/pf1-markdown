@@ -51,7 +51,7 @@ sauvages. Ils ne vivent que pour le moment présent et recherchent
 sans cesse l’occasion de mettre leurs talents martiaux à l’épreuve. Ils
 peuvent prendre l’apparence d’elfes ou se transformer en tourbillons
 de poussières, de neige ou de sable. Dans les royaumes mortels, on les
-confond souvent avec les djinns.
+confond souvent avec les djinns. 
 
 Ils apprécient fortement les climats
 violents, pas pour leur aspect destructeur mais pour leur intensité et
@@ -59,14 +59,14 @@ leur énergie. De nombreuses histoires dépeignent des bralanis riant
 aux éclats tout en voyageant à l’intérieur de puissantes tempêtes.
 Les bralanis n’ont pas besoin de manger, mais ils aiment le faire.
 La plupart d’entre eux préfèrent la nourriture elfique, les plats
-humains relevés et le vin épicé.
+humains relevés et le vin épicé. 
 
 Les similarités qu’ils partagent
 avec les élémentaires et les fées les poussent parfois à tenir le rôle
 d’intermédiaires entre les mortels et ces autres créatures, mais ils
 préfèrent organiser des trêves temporaires qui permettent à ces
 différents groupes de mener eux-mêmes leurs négociations en
-terrain neutre.
+terrain neutre. 
 
 Lorsqu’ils agissent comme médiateurs (et chaque
 fois qu’ils en ont l’occasion), les bralanis proposent souvent des

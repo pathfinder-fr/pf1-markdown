@@ -44,14 +44,14 @@ fondent depuis leurs nids haut perchés sur des proies
 qu’ils saisissent avec leur bec et leurs serres. Ce ne sont pas
 de simples bêtes agressives qui défendent leur territoire avec
 férocité mais des combattants calculateurs et des compagnons
-loyaux.
+loyaux. 
 
 Pour ceux qui ont gagné leur respect, ils sont prêts à
 combattre jusqu’à la mort pour protéger leurs amis et leur famille.
 Les griffons pèsent un peu plus de 250 kg et mesurent 2,40 mètres
 de long (de leur bec crochu jusqu’à leur queue touffue). Leur
 silhouette imposante est devenue un symbole de puissance, d’autorité
-et de justice utilisé en héraldique et dans d’autres iconographies.
+et de justice utilisé en héraldique et dans d’autres iconographies. 
 
 En réalité, les griffons ne se préoccupent pas de ces concepts abstraits :
 ils chassent pour attraper leur nourriture ou pour protéger leurs
@@ -59,7 +59,7 @@ proches. Les griffons peuvent être entraînés ou amadoués pour
 servir de montures, mais ils n’éprouvent aucune affinité innée envers
 les humanoïdes. Ils déclenchent d’ailleurs de fréquents conflits
 sanglants avec les races civilisées lorsqu’ils tentent de s’emparer de
-leur nourriture préférée, la viande de cheval.
+leur nourriture préférée, la viande de cheval. 
 
 L’attitude fière des griffons entraînés et leur impressionnante envergure de 7,50 mètres
 émerveillent les habitants des ville, mais les fermiers qui doivent
@@ -73,7 +73,7 @@ Les griffons s’accouplent pour la vie et peuvent passer plusieurs
 années à venger la mort d’un compagnon ou d’un jeune qui a été
 tué. C’est sans doute à cause de leur entêtement inné et de leur
 profonde loyauté qu’ils ont été amenés à servir comme montures ou
-comme protecteurs de trésors.
+comme protecteurs de trésors. 
 
 Malgré le danger que cela comporte, le commerce de griffons capturés et d’œufs volés est très répandu,
 les œufs valant jusqu’à 3 500 po chacun et les jeunes pouvant aller
@@ -81,7 +81,7 @@ chercher jusqu’au double de ce prix. Les personnages qui désirent
 acquérir une monture griffon devront cependant se rappeler que
 la plupart des divinités d’alignement Bon considèrent qu’acheter
 ou soumettre par la force une créature intelligente (comme un
-griffon) équivaut à de l’esclavagisme.
+griffon) équivaut à de l’esclavagisme. 
 
 Amener un griffon à se lier volontairement à quelqu’un n’est pas une mince affaire, mais il est
 certainement beaucoup plus élégant et moins dangereux d’obtenir

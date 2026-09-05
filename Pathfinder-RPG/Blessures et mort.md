@@ -89,7 +89,7 @@ Si un personnage reste au lit ou se repose pendant une journée et une nuit, il 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#35|→]] Points de vie temporaires : Lorsque je détermine mon nombre total de points de vie actuel dans le cadre d’effets comme *mot de pouvoir mortel*, dois-je inclure mes points de vie temporaires ?***
 
 Oui, le personnage ajoute ses <u>[[points de vie temporaires]]</u> à ses [[pv|points de vie normaux]] restants pour déterminer son nombre total de point de vie actuel dans le cadre d’effets dont le résultat diffère selon le nombre de points de vie total actuel.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Maîtrise)#6|→]] Points de vie temporaires : Est-ce que les points de vie temporaires qui proviennent de la même source se cumulent ?***
 
 Non. En général, les effets ne se cumulent pas s'ils proviennent de la même source (Manuel des joueurs page 208, [[Lancer des sorts#COMBINAISON|Combinaison d’effets magiques]]). Bien que les <u>[[points de vie temporaires]]</u> ne soient pas un « bonus », le principe s'applique quand même.

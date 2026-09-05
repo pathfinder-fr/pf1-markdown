@@ -27,7 +27,7 @@ LastModified: 2022-06-07 00:04
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** 16, **Int** 10, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +8, **BMO** +11, **DMD** 24}
-{s:BDTexte|**Dons** [[Arme de prédilection]](cimeterre), [[Attaques réflexes]], [[Combat à deux armes]], [[Double frappe]], [[Science du combat à deux armes]]}
+{s:BDTexte|**Dons** [[Arme de prédilection]](cimeterre), [[Attaques réflexes]], [[Combat à deux armes]], [[Double frappe]], [[Science du combat à deux armes]]} 
 {s:BDTexte|**Compétences** [[Connaissances]] (histoire) +8, [[Discrétion]] +18, [[Perception]] +13, [[Vol]] +10}
 {s:BDTexte|**Modificateur racial** +4 en Discrétion}
 {s:BDTexte|**Langues** commun, sphinx}

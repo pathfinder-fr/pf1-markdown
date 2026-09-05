@@ -16,7 +16,7 @@ Une école d'assassins fut fondée à [[Dague]] et fut par la suite appelée ouv
 
 Lady Janna Smilos, qui porte le titre de Vaisseau Suprême de la Guilde des Assassins, est actuellement à la tête de l'école.
 
-Les maîtres de la Guilde sont employés pour des travaux difficiles. Pour faciliter les relations entre l'école et la cité de [[Dague]], les habitants de la haute société de la ville peuvent louer un étudiant à un prix raisonnable avec seulement deux restrictions :
+Les maîtres de la Guilde sont employés pour des travaux difficiles. Pour faciliter les relations entre l'école et la cité de [[Dague]], les habitants de la haute société de la ville peuvent louer un étudiant à un prix raisonnable avec seulement deux restrictions : 
 - une personne ne peut employer qu'une seul étudiant par an ;
 - les militaires ne peuvent être la cible de l'un de ces emplois.
 

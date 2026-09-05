@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[Élixir doppression|élixir d'oppression]]* ; **Équipement divers** [[cuirasse (armure)|cuirasse]], [[javeline (arme)|javelines]] (6), [[cimeterre à deux mains (arme)|cimeterre à deux mains de maître]], *[[Cape de résistance|cape de résistance +1]]*, 219 po}
 </div>
 
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 

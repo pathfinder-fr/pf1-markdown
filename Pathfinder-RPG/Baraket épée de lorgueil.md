@@ -7,8 +7,8 @@ Categories:
 - Artefact magique
 ---
 
-<div style="float:right">***Retour aux [[Artefacts]].***
-***Retour aux [[Épées du péché]]***
+<div style="float:right">***Retour aux [[Artefacts]].***  
+***Retour aux [[Épées du péché]]***  
 ***Voir l'[[Golarion.Épées du péché|histoire et les implications de ces artefacts]].***</div>
 <div class="BD">
 {s:BDTitre|Épée de l’orgueil|{s:AE}}

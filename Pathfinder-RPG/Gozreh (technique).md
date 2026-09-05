@@ -36,27 +36,27 @@ Suspendre un carillon à un endroit où il sera agité par le vent ou l'eau. S'i
 : **3.** ***Déferlement électrique (Sur).*** Une fois par jour par une [[action simple]], le personnage peut invoquer le ciel pour qu'il le frappe d'un éclair qui n'inflige aucun dégât, mais qui semble au contraire le remplir d'une énergie débordante. Le personnage gagne alors 2d10 [[points de vie temporaires]], et tout état de [[fatigué|fatigue]] ou d'[[épuisé|épuisement]] qui l'affecte prend fin. Il obtient également un bonus de +2 à la [[Force]], et ses [[Attaques naturelles (capacité)|attaques naturelles]] ainsi que ses armes de corps à corps infligent 1d6 points de dégâts d'électricité supplémentaires. Ces effets durent 1 round, plus un round supplémentaire par tranche de 4 [[DV|Dés de vie]] du personnage (maximum 6 rounds). Le personnage peut faire appel à cette foudre lorsqu'il est en intérieur, sous terre ou même sous l'eau.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[druide]]).**
-• *[[Marche sur londe|Marche sur l'onde]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[druide]]).**  
+• *[[Marche sur londe|Marche sur l'onde]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Vent de murmures]]* peut être préparé comme un sort de 2e niveau (variante aquatique, peut communiquer avec des créatures sous l'eau aussi bien que sur terre).
 
-**Lancement de sorts ([[oracle]]/[[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[oracle]]/[[prêtre]]/[[prêtre combattant]]).**  
 • *[[Vent de murmures]]* peut être préparé comme un sort de 2e niveau (variante aquatique, peut communiquer avec des créatures sous l'eau aussi bien que sur terre).
 
-**Lancement de sorts ([[rôdeur]]).**
-• *[[Création deau|Création d'eau]]* peut être préparé comme un sort de 1er niveau.
-• *[[Purification de nourriture et deau|Purification de nourriture et d'eau]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[rôdeur]]).**  
+• *[[Création deau|Création d'eau]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Purification de nourriture et deau|Purification de nourriture et d'eau]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Vent de murmures]]* peut être préparé comme un sort de 2e niveau (variante aquatique, peut communiquer avec des créatures sous l'eau aussi bien que sur terre).
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Homme-poisson]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
-• *[[Convocation de monstres VII]].*  [[Archétypes#CREATUREJEUNE|Jeune]] [[géant du froid]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
-• *[[Convocation de monstres VIII]].* [[Géant du froid]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Homme-poisson]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
+• *[[Convocation de monstres VII]].*  [[Archétypes#CREATUREJEUNE|Jeune]] [[géant du froid]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
+• *[[Convocation de monstres VIII]].* [[Géant du froid]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
 • *[[Convocation de monstres VIII]].* [[Archétypes#CREATUREJEUNE|Jeune]] [[géant des nuages]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
-• *[[Convocation de monstres IX]].* [[Géant des nuages]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
+• *[[Convocation de monstres IX]].* [[Géant des nuages]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)  
 • *[[Convocation de monstres IX]].* [[Archétypes#CREATUREJEUNE|Jeune]] [[géant des tempêtes]] (cette créature est convoquée avec l'archétype [[Archétypes#CREATURECELESTE|céleste]] si le personnage est Bon, ou avec l'archétype [[Archétypes#CREATUREFIELONNE|fiélon]] s'il est Mauvais ; il doit choisir s'il est Neutre)
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

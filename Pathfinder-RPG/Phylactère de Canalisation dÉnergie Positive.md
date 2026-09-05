@@ -8,7 +8,7 @@ LastModified: 2019-11-21 16:27
 {s:BDTitre|Phylactère de Canalisation d’Énergie Positive|{s:AE}}
 **Auras** : [[Nécromancie]] modérée  ; **NLS** : 10  ; **Prix** : 11.000 po
 (((Caractéristiques)))
-Cet objet permet à tout personnage capable de [[prêtre#CANALISATIONDENERGIE|canaliser de l’énergie]] positive d’augmenter de +2d6 les dégâts infligés aux créatures mortes-vivantes, ainsi que les soins fournis aux créatures vivantes.
+Cet objet permet à tout personnage capable de [[prêtre#CANALISATIONDENERGIE|canaliser de l’énergie]] positive d’augmenter de +2d6 les dégâts infligés aux créatures mortes-vivantes, ainsi que les soins fournis aux créatures vivantes. 
 (((Création)))
 [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit être un [[prêtre]] de niveau 10  ; **Prix** : 5.500 po
 </div>

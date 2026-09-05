@@ -8,12 +8,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (une lentille grossissante)
-**Portée** 12 m
-**Zone d'effet** [[émanation]] de 12 m de rayon centrée sur le personnage
-**Durée** 1 minute/niveau
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (une lentille grossissante)  
+**Portée** 12 m  
+**Zone d'effet** [[émanation]] de 12 m de rayon centrée sur le personnage  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage devient particulièrement sensible aux effets de [[branche téléportation|téléportation]] qui commencent ou se terminent dans la zone d'effet du sort. Cette zone émane du personnage et le suit lorsqu'il se déplace. Il connaît le point d'origine exact de tout effet de téléportation qui commence dans la zone, et l'exacte destination de tout effet de téléportation qui vise un point dans cette zone. De plus, il peut détecter les traces persistantes de tout effet de téléportation ayant opéré il y a jusqu'à 1 heure, et ce avec la même précision. Il sait quand, à la minute près, l'effet de téléportation a opéré.

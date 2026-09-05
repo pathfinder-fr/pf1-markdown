@@ -5,8 +5,8 @@ LastModified: 2024-09-27 16:43
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[Lignages|lignages d'ensorceleur]].***
-***Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'ensorceleur]].***
+<div class="fright">***Voir aussi les [[Lignages|lignages d'ensorceleur]].***  
+***Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'ensorceleur]].***  
 {s:PM0|ensorceleur}**Voir les archétypes de l'ensorceleur**&emsp;
 <li ID="ensorceleur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeensorceleur}</li>
 </div>*Un ensorceleur peut être l’héritier d’une lignée où le contrôle de la magie vient naturellement, l’élu d’une divinité, le rejeton d’une créature monstrueuse, un pion du destin ou simplement le récipiendaire d’un pouvoir magique capricieux mais, dans tous les cas, c’est au plus profond de lui-même qu’il puise les talents magiques qui lui accordent une puissance que bien peu de mortels parviennent à concevoir. Les ensorceleurs sont des êtres touchés par la magie, dont les pouvoirs innés menacent à tout moment de consumer leur vie. Ils font sans cesse appel à leurs mystérieuses capacités et les affinent en apprenant peu à peu comment contrôler leur héritage et accomplir des exploits magiques toujours plus puissants. Les capacités et les origines de ces puissants lanceurs de sorts sont tout aussi variées que les manières dont ils choisissent d’utiliser leurs dons innés. Certains cherchent à dompter leurs pouvoirs grâce à la méditation et à la discipline et parviennent peu à peu à maîtriser leur fantastique héritage alors que d’autres s’abandonnent à la magie et la laissent contrôler leur vie, avec des résultats souvent explosifs. Dans tous les cas, les ensorceleurs appréhendent de manière instinctive ce que d’autres lanceurs de sorts ne parviennent à maîtriser qu’au bout de toute une vie de travail ; pour eux, la magie est plus qu’un simple don ou qu’un domaine d’études : c’est leur vie.*

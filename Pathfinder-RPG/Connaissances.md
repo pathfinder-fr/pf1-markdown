@@ -10,7 +10,7 @@ Categories:
 
 **Caractéristique associée** : [[Intelligence]]
 
-**Formation nécessaire** : oui
+**Formation nécessaire** : oui 
 
 *Le personnage possède des connaissances dans un domaine spécifique, qui lui permettent de répondre à des questions simples ou complexes. Comme les compétences d’Artisanat, de Profession et de Représentation, cette compétence regroupe plusieurs spécialisations. Les plus courantes sont reprises ci-dessous.*
 

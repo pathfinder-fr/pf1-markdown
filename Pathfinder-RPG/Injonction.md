@@ -14,14 +14,14 @@ Categories:
 - Sort sorcière 1
 ---
 
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature vivante
-**Durée** 1 [[round]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature vivante  
+**Durée** 1 [[round]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le lanceur de sorts donne un ordre à la cible et celle-ci y obéit fidèlement et aussi tôt que possible. Il peut choisir l’une des options suivantes.
 
 **Approche.** À son tour, le sujet se déplace vers le personnage pendant un [[round]], aussi vite que possible et en empruntant le chemin le plus direct. Il ne fait rien d’autre que se déplacer, et, le cas échéant, ce mouvement peut provoquer des [[attaque dopportunité|attaques d’opportunité]].
@@ -43,13 +43,13 @@ Si le sujet est incapable d’obéir à l’ordre lorsque son tour arrive, le so
 
 ((({s:sortssimilaires|injonction}
 ## [[Injonction suprême]]
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m/6 {s:c} les unes des autres
-**Durée** 1 [[round]]/[[niveau]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m/6 {s:c} les unes des autres  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[injonction]]*, si ce n’est qu’il permet d’affecter jusqu’à une créature par [[niveau]] et que son effet persiste sur plusieurs [[round|rounds]]. Le personnage ne peut donner qu’un seul ordre, qui vaut pour toutes les cibles. Celles qui ratent leur [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]] initial y obéissent dès que vient leur tour. Puis après, au début de chacun de leurs tours (à partir du second tour suivant l’incantation d’*injonction suprême* donc), les créatures affectées peuvent effectuer un nouveau jet de [[Volonté]] pour tenter de se libérer de l’[[enchantement]].
 )))

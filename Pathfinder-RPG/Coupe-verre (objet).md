@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** —
+{s:AE}**Prix** 5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce petit bâton en métal est pourvu d'une toute petite roue aiguisée à un bout et d'un bulbe de l'autre. Le personnage marque le verre avec la roue et le frappe avec le bulbe pour le briser. S'il réussit un test d'[[Escamotage]] [[DD]] 15, il peut briser le verre en silence (test de [[Perception]] DD 15 pour entendre). La plupart des voleurs utilisent du [[Papier glu (objet)|papier glu]] avec le coupe-verre pour atténuer le bruit et récupérer les éclats de verre.

@@ -56,13 +56,13 @@ très souvent lorsque la mère appartient à une lignée noble.
 un sens ni dans l’autre) les chances que le nouveau-né soit un drow
 noble. Les enfants drows normaux et nés de parents nobles sont
 généralement mis à mort au cours d’un sacrifice dédié à l’un des
-nombreux dieux démons que les drows vénèrent.
+nombreux dieux démons que les drows vénèrent. 
 
 Il est rare qu’un enfant noble naisse de parents normaux mais, lorsque cela se
 produit, l’enfant assassine généralement ses parents ou sa famille
 avant d’atteindre l’âge adulte, afin de cacher la vérité au sujet de
 ses origines et de faciliter son accession à l’une des maisons nobles
-de la société drow.
+de la société drow. 
 
 Les drows nobles, plus puissants que la plupart
 de leurs cousins, gravissent rapidement les échelons du pouvoir

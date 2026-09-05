@@ -289,7 +289,7 @@ Dès le niveau 3, le métamorphe se déplace sans la moindre gêne dans toutes s
 (((FAQ)))
 Au niveau 4, un métamorphe obtient la capacité de prendre la forme majeure de l'un de ses [[aspects]] et de revenir à la sienne. Cette capacité fonctionne comme *[[forme bestiale]]* II, à l'exception de ce qui est décrit ci-après.
 
-Le métamorphe peut prendre la forme majeure d'un seul de ses aspects à la fois. Utiliser forme animale pour se transformer en cette forme majeure ou reprendre sa forme est une [[action simple]] qui ne provoque pas d'[[AO|attaque d'opportunité]].
+Le métamorphe peut prendre la forme majeure d'un seul de ses aspects à la fois. Utiliser forme animale pour se transformer en cette forme majeure ou reprendre sa forme est une [[action simple]] qui ne provoque pas d'[[AO|attaque d'opportunité]]. 
 
 Souvent la forme majeure de l'aspect accorde des facultés au delà de l'effet normal de *[[forme bestiale II]]*. Chaque forme majeure détaille les capacités que le métamorphe obtient avec cette forme et à quel niveau ; le métamorphe les obtient à la place des capacités de la forme prise en application de *forme bestiale* II, mais il obtient toujours les capacités de la forme bestiale qui dépendent de la taille.
 

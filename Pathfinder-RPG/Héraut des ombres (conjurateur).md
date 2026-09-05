@@ -16,7 +16,7 @@ Le héraut des ombres ajoute [[Discrétion]] à sa liste de compétences de clas
 #### Appel de l’ombre (Mag)
 Lorsqu’un héraut des ombres utilise sa capacité [[conjurateur#CONVOCATIONDEMONSTRES|convocation de monstres]] ou lance le sort *[[convocation de monstres I|convocation de monstres]]*, il invoque en principe des créatures du plan de l’Ombre ou des créatures étroitement associées à l’ombre. Lorsqu’il est indiqué qu’une créature de la liste du sort convocation de monstres est convoquée avec l’archétype [[Archétypes#CREATUREFIELONE|fiélon]] ou [[Archétypes#CREATURECELESTE|céleste]] en fonction de l’alignement du lanceur, la créature convoquée par le héraut des ombres a l’archétype [[Archétypes#CREATUREDELOMBRE|créature de l’ombre]] à la place.
 
-En outre, voici les modifications apportées aux listes de convocation de monstres (ces changements s’appliquent également à l’utilisation d’un sort de convocation de plus haut niveau pour invoquer plusieurs créatures d’un niveau inférieur de la liste).
+En outre, voici les modifications apportées aux listes de convocation de monstres (ces changements s’appliquent également à l’utilisation d’un sort de convocation de plus haut niveau pour invoquer plusieurs créatures d’un niveau inférieur de la liste). 
 - *[[Convocation de monstres I]]*. Aucun changement. 
 - *[[Convocation de monstres II]]*. Le héraut des ombres ne peut pas convoquer d’[[sous-type élémentaire|élémentaires]] ou de [[lémure|lémures]] de taille P, mais il peut convoquer des [[zoog|zoogs]].
 - *[[Convocation de monstres III]]*. Le héraut des ombres ne peut pas convoquer de [[dretch]] ou d’[[archon lumineux]], mais il peut convoquer des [[kyton augure|kytons augures]].

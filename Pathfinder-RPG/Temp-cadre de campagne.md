@@ -6,7 +6,7 @@ LastModified: 2017-07-14 18:32
 
 {s:CCMI}
 
-Suite à un accord avec BBE, il est possible de reprendre une partie du texte en vf de ce manuel en respectant l'ogl et la pcup
+Suite à un accord avec BBE, il est possible de reprendre une partie du texte en vf de ce manuel en respectant l'ogl et la pcup 
 
 #### Les classes de prestige du cadre de campagne
 - Les classes sont à insérer en respectant l'ogl (il ne faut pas utiliser de nom protégé et garder uniquement la mécanique)

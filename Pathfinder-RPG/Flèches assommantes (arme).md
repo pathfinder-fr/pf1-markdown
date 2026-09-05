@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 1,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 {s:Desambi|Dans le <u>Manuel des jouuers - Règles avancées</u>, cet objet est aussi appelé "flèches à têtes rondes".}Ces flèches ont un bout en bois arrondi infligeant des dégâts contondants plutôt que perforants. Un archer peut utiliser des flèches assommantes pour infliger des dégâts [[Blessures et mort#NONLETAL|non létaux]] (avec le malus normal -4 à l’attaque pour l’utilisation d’une arme létale en vue d’infliger des dégâts non létaux).

@@ -15,12 +15,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}{s:ISG}{s:GeM}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (1 flèche)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]]) ou voir description
-**Effet** flèche d'électricité
-**Durée** instantanée ou 1 round (voir description)
+{s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}{s:ISG}{s:GeM}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (1 flèche)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]]) ou voir description  
+**Effet** flèche d'électricité  
+**Durée** instantanée ou 1 round (voir description)  
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le lanceur peut créer une flèche faite d’électricité crépitante qu’il utilisera pour l’un des deux effets suivants.

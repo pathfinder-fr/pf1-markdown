@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Ville|Novoboro|||Village conventionnel (oligarchie)|N|500 po||488|humanoïde (humains 98%, demi-elfes 2%) |{s:DescElem|**Saloc**, chef (humain, roublard 4, N)} {s:DescElem|**Ostrovo**, exécuteur (humain, roublard 3, N)} {s:DescElem|**Anino**, voyant (humaine, adepte 3, N)} {s:DescElem|**Kin-Khu**, chef des chasseurs (humain, rôdeur 3, N)}}
-Cordelon est un petit royaume indépendant situé au bord du [[Sellen]], dans le sud des [[Royaumes Fluviaux]]. Les principaux centres de population sont Bacul Gruii et sa capitale, Novoboro.
+Cordelon est un petit royaume indépendant situé au bord du [[Sellen]], dans le sud des [[Royaumes Fluviaux]]. Les principaux centres de population sont Bacul Gruii et sa capitale, Novoboro. 
 
 Il y a des lustres, le Cordelon servait de zone de transit aux elfes lors de leur retour du royaume de Sovyrian vers le [[Kyonin]]. Quelques uns d'entre eux sont restés sur place et se sont mêlés aux populations humaines locales. Même si la très grande majorité de la population vivant au Cordelon peut être considérée comme humaine, les traits elfes y sont très fortement marqués. En général, les habitants se méfient des étrangers exceptés les elfes qu'ils accueillent volontiers.
 

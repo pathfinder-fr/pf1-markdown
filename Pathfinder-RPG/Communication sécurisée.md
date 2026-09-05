@@ -14,12 +14,12 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation**  1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 3 m
-**Cible** le personnage et une autre créature
-**Durée** 1 minute/niveau (T)
+**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1  
+**Temps d'incantation**  1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 3 m  
+**Cible** le personnage et une autre créature  
+**Durée** 1 minute/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non (inoffensif)
 
 Le personnage peut communiquer en toute sécurité avec une créature à portée. Tant que la cible reste à 3 mètres ou moins du personnage, les deux peuvent se parler en toute liberté sans craindre que quelqu’un ne les entende. Les échanges verbaux protégés par ce sort ne peuvent être espionnés (pas même par un sort de *[[divination]]*) : les éventuels observateurs savent que le personnage et la cible de son sort conversent mais ils ne peuvent pas lire sur les lèvres ni écouter la conversation à moins que l’un d’eux soit la cible du sort. Si le personnage et sa cible s’adressent à d’autres créatures, tout le monde aux alentours entend leurs paroles (le sort protège seulement les échanges entre le personnage et sa cible). Ce sort ne sécurise pas les messages écrits, la langue des signes ou toute autre forme de communication non-verbale.

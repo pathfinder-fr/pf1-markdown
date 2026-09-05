@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,28 kg
+{s:AE}**Prix** 5 po ; **Poids** 0,28 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ce reptile de taille TP se nourrit de petits animaux et vit dans la plupart des environnements chauds et tempérés. Sa morsure est douloureuse mais pas spécialement dangereuse pour un aventurier moyen. Voir les statistiques de la [[vipère]].

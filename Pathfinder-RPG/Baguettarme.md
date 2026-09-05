@@ -11,12 +11,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une [[Baguettes magiques|baguette magique]])
-**Portée** contact
-**Cible** une arme
-**Durée** 1 minute/niveau
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une [[Baguettes magiques|baguette magique]])  
+**Portée** contact  
+**Cible** une arme  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Quand le personnage lance ce sort sur une arme, une partie de celle-ci s’ouvre comme la peau d’une pomme partiellement épluchée, révélant un espace suffisamment grand pour y insérer une unique [[Baguettes magiques|baguette magique]]. Lors de l’incantation du sort, le personnage peut insérer une unique baguette magique dans l’arme qui reprend aussitôt sa forme première avec la baguette maintenue à l’intérieur, ce qui n’impacte pas de manière négative l’intégrité de l’arme. Pendant toute la durée du sort, on considère qu’un personnage qui manie l’arme transformée manie en même temps la baguette magique qu’elle contient. Le personnage peut attaquer normalement avec l’arme ou l’utiliser comme s’il tenait en main la baguette insérée. Si l’effet créé par la baguette nécessite un [[jet dattaque|jet d’attaque]] pour réussir à toucher un adversaire, le personnage doit effectuer le jet d’attaque comme s’il réalisait une attaque avec l’arme, en appliquant son bonus le plus élevé (y compris les éventuels bonus dont l’arme devrait normalement bénéficier) au lieu d’effectuer simplement une attaque normale avec la baguette. Ce faisant, cette attaque ne lui permet pas d’ajouter les dégâts de l’arme au jet d’attaque de la baguette, mais cela lui permet à la place d’utiliser sa compétence au maniement de l’arme pour augmenter ses chances de toucher avec le sort.

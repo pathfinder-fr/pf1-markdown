@@ -19,7 +19,7 @@ Chaque jour, un bretteur inspiré gagne un nombre de points de panache égal à 
 Au niveau 1, un bretteur inspiré bénéficie des avantages d’[[Attaque en finesse]] avec la rapière (on considère que cette aptitude confère ce don lorsqu’il s’agit de satisfaire les conditions requises par les dons) et obtient [[Arme de prédilection]] (rapière) en tant que don supplémentaire. Cette aptitude remplace finesse du bretteur.
 
 #### Exploit
-Le bretteur inspiré gagne l’exploit suivant qui remplace un exploit existant.
+Le bretteur inspiré gagne l’exploit suivant qui remplace un exploit existant. 
 - *Frappe inspirée (Ext).* Au niveau 11, un bretteur inspiré peut dépenser 1 point de panache quand il attaque avec une rapière pour gagner un bonus d’intuition au [[jet dattaque|jet d’attaque]] égal à son modificateur d’[[Intelligence]] (minimum +1). Quand un bretteur inspiré touche en effectuant une attaque améliorée par la [[Bretteur#FRAPPEINSPIREE|frappe inspirée]], il peut dépenser 1 point de panache supplémentaire pour que le coup menace d’infliger un [[coup critique]], mais, dans ce cas, il ne récupère pas de panache si le critique est confirmé. Le coût de cet exploit ne peut être réduit par des aptitudes telles qu’[[Exploit signé]]. Cet exploit remplace blessure hémorragique.
 
 #### Entraînement à la rapière (Ext)

@@ -47,8 +47,8 @@ LastModified: 2024-07-21 23:42
 ### Réponses générales
 {s:Reference|1}
 #### --Affinité avec l'énergie négative : Comment cette capacité (Bestiaire 2, page 298) est-elle censée fonctionner ?
-L'intention derrière cette <u>[[Affinité avec lénergie négative (capacité)|capacité]]</u> est que la créature soit soignée par l'énergie négative (comme un [[type Mort-vivant|mort-vivant]]) et blessée par l'énergie positive (comme un mort-vivant) ; cet effet est automatique et n'a rien à voir avec l'intention de la cible ou de celui qui utilise l'énergie. En revanche, telle qu'écrite, la capacité est un peu floue à cause de l'expression « elle réagit comme », qui n'a pas de définition claire. Cette capacité sera modifiée dans la prochaine impression du *Bestiaire 2*.
-Mise à jour : Page 298 — dans la description de affinité avec l'énergie négative, remplacez la description actuelle par la suivante :
+L'intention derrière cette <u>[[Affinité avec lénergie négative (capacité)|capacité]]</u> est que la créature soit soignée par l'énergie négative (comme un [[type Mort-vivant|mort-vivant]]) et blessée par l'énergie positive (comme un mort-vivant) ; cet effet est automatique et n'a rien à voir avec l'intention de la cible ou de celui qui utilise l'énergie. En revanche, telle qu'écrite, la capacité est un peu floue à cause de l'expression « elle réagit comme », qui n'a pas de définition claire. Cette capacité sera modifiée dans la prochaine impression du *Bestiaire 2*.  
+Mise à jour : Page 298 — dans la description de affinité avec l'énergie négative, remplacez la description actuelle par la suivante :  
 « **Affinité avec l'énergie négative (Ext).** La créature est vivante, mais est traitée comme un mort-vivant dans le cadre de tous les effets qui affectent les mort-vivants différemment des créatures vivantes, comme par exemple les sorts de *soins* et l'[[Prêtre#CANALISATIONDENERGIE|énergie canalisée]]. *Format :* affinité avec l'énergie négative ; *Emplacement :* Capacités défensives. »-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -59,13 +59,13 @@ Toute séquence d'attaque au corps à corps que le personnage peut effectuer dan
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### Bond et *lenteur* : Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?
-Selon les règles écrites, <u>[[Bond (capacité)|bond]]</u> devrait autoriser son [[attaque à outrance]] à la créature, malgré l'effet de *[[lenteur]]*.
+Selon les règles écrites, <u>[[Bond (capacité)|bond]]</u> devrait autoriser son [[attaque à outrance]] à la créature, malgré l'effet de *[[lenteur]]*.  
 (Cela fonctionne car il n'y a pas d'action de « charge partielle » en Pathfinder-JdR.)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|4}
 #### Bond et *rapidité* : Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?
-Oui.*(Retour à la <u>[[Bond (capacité)|capacité]]</u>)*
+Oui.*(Retour à la <u>[[Bond (capacité)|capacité]]</u>)*  
 Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[[rapidité]]* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale insinuait que bond n'autorisait pas l'attaque supplémentaire offerte par *rapidité* parce que bond n'utilisait pas l'action d'attaque à outrance.
 
 <div style="border-top:1px dashed #4b3124">
@@ -86,8 +86,8 @@ Le *Bestiaire 2* est la nouvelle version mise à jour : <u>[[Étreinte (capacit�
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### Griffes et serres : Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?
-Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[[Attaques naturelles (capacité)|griffes]]</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.
-Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [[Bond (capacité)|bond]] ou [[Éventration (capacité)|éventration]].
+Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[[Attaques naturelles (capacité)|griffes]]</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.  
+Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [[Bond (capacité)|bond]] ou [[Éventration (capacité)|éventration]].  
 Les serres sont similaires aux griffes, mais se placent sur les pieds d'une créature, généralement bipède (particulièrement une créature bipède volante comme un [[aigle géant]] ou une [[harpie]]). Une capacité qui offre des attaques de griffe ne peut pas être utilisée comme s'il s'agissait d'attaques de serre (autrement dit, vous ne pouvez pas « personnaliser » les effets techniques de la capacité pour pouvoir l'utiliser avec un membre différent).
 
 <div style="border-top:1px dashed #4b3124">
@@ -98,8 +98,8 @@ Une créature qui piétine peut parcourir une distance égale au double de sa vi
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Réduction de dégâts : Comment la RD interagit avec les effets magiques qui infligent des dégâts contondants, perforants, ou tranchants ?
-{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Combat)#34|celle du Manuel des joueurs]].}Bien que la définition de la <u>[[Réduction de dégâts (capacité)|Réduction de dégâts]]</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d'énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu'aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n'est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.
-En revanche, si une attaque magique indique spécifiquement qu'elle inflige des dégâts contondants, perforants, ou tranchants, la RD affecte ces dégâts normalement, comme s'il provenaient d'une arme physique. (Sinon les attaques magiques n'auraient simplement pas de type de dégâts, puisqu'elles n'interagiraient avec les dégâts C/P/T que dans de très rares cas, comme pour définir si une vase se sépare ou non après une attaque.)
+{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Combat)#34|celle du Manuel des joueurs]].}Bien que la définition de la <u>[[Réduction de dégâts (capacité)|Réduction de dégâts]]</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d'énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu'aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n'est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.  
+En revanche, si une attaque magique indique spécifiquement qu'elle inflige des dégâts contondants, perforants, ou tranchants, la RD affecte ces dégâts normalement, comme s'il provenaient d'une arme physique. (Sinon les attaques magiques n'auraient simplement pas de type de dégâts, puisqu'elles n'interagiraient avec les dégâts C/P/T que dans de très rares cas, comme pour définir si une vase se sépare ou non après une attaque.)  
 Par exemple, le sort *[[tempête de grêle]]* inflige 3d6 points de dégâts contondants et 2d6 points de dégâts de froid. Si un personnage lance *tempête de grêle* sur un groupe de [[Zombi humain|zombis]], la RD 5/tranchant des zombis les protègerait contre 5 points des dégâts contondants du sort. Leur RD ne les aide pas contre les dégâts de froid du sort puisqu'elle ne s'applique pas aux attaques d'énergie.
 
 <div style="border-top:1px dashed #4b3124">
@@ -135,5 +135,5 @@ Non. Selon l'archétype <u>[[Vampire, archétype|vampire]]</u>, un humain devenu
 ### Réponses sur la création et la progression
 {s:Reference|17}
 #### --Changement de forme : Une créature dotée de cette capacité utilise-t-elle la durée du sort *changement de forme*, et doit-elle le renouveler à chaque fois qu'il se termine ?
-Tel qu'écrit à l'origine, étant donné la façon dont les règles de <u>[[Changement de forme (capacité)|changement de forme]]</u> fonctionnent en Pathfinder, une créature avec cette capacité doit la renouveler à intervalle de quelques minutes, puisqu'elle est basée sur un sort avec une durée. Cela affecte négativement les créatures telles que les [[doppelganger|doppelgangers]], qui vivent pendant de longues périodes sous une forme alternative, et le fait de devoir réactiver cette capacité ruinerait la ruse, d'autant plus que la créature ne pourrait pas le faire pendant son sommeil.
+Tel qu'écrit à l'origine, étant donné la façon dont les règles de <u>[[Changement de forme (capacité)|changement de forme]]</u> fonctionnent en Pathfinder, une créature avec cette capacité doit la renouveler à intervalle de quelques minutes, puisqu'elle est basée sur un sort avec une durée. Cela affecte négativement les créatures telles que les [[doppelganger|doppelgangers]], qui vivent pendant de longues périodes sous une forme alternative, et le fait de devoir réactiver cette capacité ruinerait la ruse, d'autant plus que la créature ne pourrait pas le faire pendant son sommeil.  
 Le mode de fonctionnement de cette capacité sera mis à jour dans le *Bestiaire 2*. Pour l'instant, à moins que la description d'une créature ne dise le contraire, traitez toute créature dotée de changement de forme comme si elle avait la capacité de rester indéfiniment sous sa forme alternative, sans avoir besoin de réactiver la capacité. (SKR 23/9/10)-- Les textes ont été corrigés sur ce point.

@@ -29,6 +29,6 @@ Le personnage excommunie la cible, pour la maudire et la punir pour ses actes et
 Ce puissant sort qui n'autorise pas de [[jet de sauvegarde]] sert à punir les transgréssions les plus graves qui ne méritent tout de même pas la mortou si le personnage veut se montrer clément. Pourtant, ce sort présente un inconvénient qui empêche d'en abuser. Si la cible n'a pas commis d'actes qui vont à l'encontre de sa religion, le sort ne l'affecte pas et se retourne contre le personnage, même s'il est innocent. Ce retournement de situation possible empêche les abus des inquisiteurs corrompus et oblige le personnage à enquêter sérieusement sur les accusations de mauvaise conduite (et à les vérifier de préférences par magie) avant d'appliquer la sentence.<
 
 
-On peut dissiper la marque comme un effet de malédiction classique. De plus, un membre de la religion du personnage peut utiliser *[[pénitence]]* pour briser la malédiction s'il réussit un [[test]] de [[niveau]] de lanceur de sorts opposé à celui du personnage.
+On peut dissiper la marque comme un effet de malédiction classique. De plus, un membre de la religion du personnage peut utiliser *[[pénitence]]* pour briser la malédiction s'il réussit un [[test]] de [[niveau]] de lanceur de sorts opposé à celui du personnage. 
 
 *dissipation des malédictions* ne fonctionne que si le lanceur est de la même religion que le personnage et nécessite un test de niveau de lanceur de sorts pour mettre un terme à la *réprobation*.

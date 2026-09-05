@@ -12,7 +12,7 @@ Categories:
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 2  
 **Temps d’incantation** 1 [[action simple]]  
-**Composantes** [[Composantes|V, G, M]](une petite boule de bitume)  
+**Composantes** [[Composantes|V, G, M]](une petite boule de bitume)   
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 **Effet** attaque à distance  
 **Durée** [[instantanée]]  

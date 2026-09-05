@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 50 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}{s:UC}**Prix** 50 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdoubles|armes doubles]], [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ([[armes orientales|orientale]])
 ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 Ce simple étui unique renferme une paire d’épées de combat assorties, parfaitement équilibrées de manière à être maniées ensemble. Malgré leur nom, les lames ressemblent davantage au [[wakizashi (arme)|wakizashi]], plus court. Lorsqu'elles sont maniées, les lames ont les caractéristiques décrites dans le tableau. Lorsque les lames sont dissimulées dans leur étui, cette arme peut être utilisée comme un [[bâton (arme)|bâton]].

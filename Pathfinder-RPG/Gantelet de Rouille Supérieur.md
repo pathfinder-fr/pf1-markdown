@@ -8,7 +8,7 @@ LastModified: 2024-06-02 18:25
 {s:BDTitre|Gantelet de rouille supérieur|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 34.500 po ; **Poids** 0,5 kg
 (((Description)))
-Ce gantelet est identique au [[gantelet de rouille]] mais son porteur peut utiliser le pouvoir de *[[rouille]]* trois fois par jour.
+Ce gantelet est identique au [[gantelet de rouille]] mais son porteur peut utiliser le pouvoir de *[[rouille]]* trois fois par jour. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[rouille]]* ; **Coût** 17.250 po
 </div>

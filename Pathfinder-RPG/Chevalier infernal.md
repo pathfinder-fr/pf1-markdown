@@ -12,34 +12,34 @@ LastModified: 2021-07-02 23:18
 | Niveau || BBA || Réflexes || Vigueur || Volonté
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [[Chevalier Infernal#AURADELOI|aura de Loi]], [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 1/jour, [[Chevalier Infernal#DÉTECTIONDUCHAOS|détection du chaos]], [[Chevalier Infernal#COHORTE|cohorte]]
+| 1 || +1 || +0 || +1 || +0 
+| CLASS="gauche" | [[Chevalier Infernal#AURADELOI|aura de Loi]], [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 1/jour, [[Chevalier Infernal#DÉTECTIONDUCHAOS|détection du chaos]], [[Chevalier Infernal#COHORTE|cohorte]] 
 |-
 | 2 || +2 || +1 || +1 || +1
 | CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 1, [[Chevalier Infernal#DÉTECTIONDESMENSONGES|détection des mensonges]]
 |-
-| 3 || +3 || +1 || +2 || +1
+| 3 || +3 || +1 || +2 || +1 
 | CLASS="gauche" | [[Chevalier Infernal#DISCIPLINE|discipline]] 1, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 1
 |-
-| 4 || +4 || +1 || +2 || +1
+| 4 || +4 || +1 || +2 || +1 
 | CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 2/jour
 |-
-| 5 || +5 || +2 || +3 || +2
+| 5 || +5 || +2 || +3 || +2 
 | CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 2
 |-
-| 6 || +6 || +2 || +3 || +2
+| 6 || +6 || +2 || +3 || +2 
 | CLASS="gauche" | [[Chevalier Infernal#DISCIPLINE|discipline]] 2, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 2
 |-
-| 7 || +7 || +2 || +4 || +2
+| 7 || +7 || +2 || +4 || +2 
 | CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 3/jour, [[Chevalier Infernal#HÉRAUTDELALOI|héraut de la loi]]
 |-
-| 8 || +8 || +3 || +4 || +3
+| 8 || +8 || +3 || +4 || +3 
 | CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 3 (vitesse de course)
 |-
-| 9 || +9 || +3 || +5 || +3
+| 9 || +9 || +3 || +5 || +3 
 | CLASS="gauche" | [[Chevalier Infernal#ARMUREINFERNALE|armure infernale]], [[Chevalier Infernal#DISCIPLINE|discipline]] 3, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 3
 |-
-| 10 || +10 || +3 || +5 || +3
+| 10 || +10 || +3 || +5 || +3 
 | CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 4/jour, [[Chevalier Infernal#LÉGIONNAIREDESENFERS|Légionnaire des Enfers]]
 |}
 
@@ -60,7 +60,7 @@ Pour devenir un Légionnaire infernal, il faut satisfaire aux conditions suivant
 **Spécial.** Le personnage doit tuer un diable qui possède plus de [[DV]] que lui sous le regard d’un Légionnaire infernal.
 
 ### Compétences de la classe
-Voici les compétences de la classe de Légionnaire infernal (et la caractéristique associée à chacune) : [[Connaissances]] (folklore local) (Int), [[Équitation]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag), [[Psychologie]] (Sag).
+Voici les compétences de la classe de Légionnaire infernal (et la caractéristique associée à chacune) : [[Connaissances]] (folklore local) (Int), [[Équitation]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag), [[Psychologie]] (Sag). 
 
 **Points de compétence à chaque niveau** : 2 + modificateur d’[[Intelligence]]
 
@@ -85,7 +85,7 @@ Le personnage doit choisir la cohorte de la Légion qu’il souhaite rejoindre. 
 
 {s:Reference|CHÂTIMENTDUCHAOS}
 #### Châtiment du Chaos (Sur)
-Ce pouvoir fonctionne comme le pouvoir de [[paladin]] Châtiment du Mal mais contre les créatures Chaotiques. Ce pouvoir est deux fois plus efficace contre les Extérieurs de sous-type Chaotique et contre les aberrations et les fées d’alignement Chaotique.
+Ce pouvoir fonctionne comme le pouvoir de [[paladin]] Châtiment du Mal mais contre les créatures Chaotiques. Ce pouvoir est deux fois plus efficace contre les Extérieurs de sous-type Chaotique et contre les aberrations et les fées d’alignement Chaotique. 
 
 {s:Reference|DÉTECTIONDUMENSONGE}
 #### Détection du mensonge (Mag)

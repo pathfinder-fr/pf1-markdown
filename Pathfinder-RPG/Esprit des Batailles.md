@@ -45,7 +45,7 @@ Un chaman qui choisit l’esprit des batailles comme esprit ou comme esprit erra
 **Tueur d’ennemis (Sur).** Par une action rapide, le chaman imprègne une unique arme en sa possession de la propriété spéciale [[tueuse (propriété)|tueuse]]. Il choisit le type de créatures qu’il souhaite affecter à chaque fois. Cet effet dure une minute. Si l’arme possède déjà la propriété [[tueuse (propriété)|tueuse]] pour le type choisi, les dégâts supplémentaires passent à 4d6. Chaque jour, le chaman peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Charisme]].
 
 ### Pouvoir d’esprit suprême
-Un chaman qui choisit l’esprit des batailles comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version suprême de l’esprit.
+Un chaman qui choisit l’esprit des batailles comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version suprême de l’esprit. 
 
 **Parangon des batailles (Sur).** Par une [[action simple]], le chaman adopte une forme qui mêle les effets d’un *[[agrandissement]]* et d’un *[[juggernaut mortel]]* pendant 1 minute ou jusqu’à dissipation. Chaque jour, le chaman peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]].
 

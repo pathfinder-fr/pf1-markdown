@@ -11,12 +11,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Hypnotiseur|Hyp]] 5, [[Psychiste|Psy]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une pièce ternie)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cibles** une créature/niveau, chacune se trouvant à 9 m ou moins l'une de l'autre
-**Durée** 1 round/niveau (T)
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Hypnotiseur|Hyp]] 5, [[Psychiste|Psy]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une pièce ternie)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cibles** une créature/niveau, chacune se trouvant à 9 m ou moins l'une de l'autre  
+**Durée** 1 round/niveau (T)  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Le personnage instille une avarice démesurée chez les cibles et les pousse à s'adonner à une multitude de larcins. Les créatures affectées par une *vague de criminalité* lancent 1d100 à chaque round pour déterminer leur action.

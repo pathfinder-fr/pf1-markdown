@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Robe de camelot|}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 7 000 po ; **Poids** 0,5 kg
 (((Description)))
-À première vue, cette robe n’a rien de remarquable, mais quiconque l’enfile s’aperçoit qu’elle est composée de multiples pièces de tissu d’allures et de tailles différentes. Seul le porteur de la robe voit ces pièces de tissu, a conscience de leur fonction et peut les détacher. Une pièce peut être détachée par round. Chaque pièce détachée se transforme en un objet réel, comme indiqué ci-dessous. Une *robe de camelot* nouvellement créée a toujours deux pièces de tissu représentant chacun des objets suivants :
-• [[Corde (objet)|Corde en chanvre]] (15 m)
-• [[Dague (arme)|Dague]]
-• [[Lanterne sourde (objet)|Lanterne sourde]] (pleine d’huile et allumée)
-• [[Miroir (objet)|Miroir]] (en acier poli, 1,20 m x 60 cm)
-• [[Perche (objet)|Perche]] (3 m)
+À première vue, cette robe n’a rien de remarquable, mais quiconque l’enfile s’aperçoit qu’elle est composée de multiples pièces de tissu d’allures et de tailles différentes. Seul le porteur de la robe voit ces pièces de tissu, a conscience de leur fonction et peut les détacher. Une pièce peut être détachée par round. Chaque pièce détachée se transforme en un objet réel, comme indiqué ci-dessous. Une *robe de camelot* nouvellement créée a toujours deux pièces de tissu représentant chacun des objets suivants :  
+• [[Corde (objet)|Corde en chanvre]] (15 m)  
+• [[Dague (arme)|Dague]]  
+• [[Lanterne sourde (objet)|Lanterne sourde]] (pleine d’huile et allumée)  
+• [[Miroir (objet)|Miroir]] (en acier poli, 1,20 m x 60 cm)  
+• [[Perche (objet)|Perche]] (3 m)  
 • [[Sac (objet)|Sac]]
 
 La robe possède également 4d4 pièces de tissu supplémentaires, à déterminer sur la table suivante en lançant 1d100 pour chacun d’entre eux.

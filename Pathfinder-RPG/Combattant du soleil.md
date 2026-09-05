@@ -9,10 +9,10 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Appelé par la déesse-ange du soleil pour faire tomber les morts-vivants, le cimeterre du personnage devient un agent de sa volonté ardente.*
+{s:cs}{s:ISG}*Appelé par la déesse-ange du soleil pour faire tomber les morts-vivants, le cimeterre du personnage devient un agent de sa volonté ardente.* 
 
 **Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
 
-**Conditions.** [[Arme de prédilection]] (cimeterre), [[Don pour les critiques]], personnage de niveau 7, suivant de [[Sarenraé (technique)|Sarenraé]].
+**Conditions.** [[Arme de prédilection]] (cimeterre), [[Don pour les critiques]], personnage de niveau 7, suivant de [[Sarenraé (technique)|Sarenraé]]. 
 
 **Avantage.** Lorsque le personnage confirme un [[coup critique]] contre une créature [[type Mort-vivant|morte-vivante]], son attaque ignore toutes les [[RD|réductions de dégâts]], inflige l'entièreté de ses dégâts contre les créatures [[sous-type intangible|intangibles]] et agit comme si l'arme possédait la propriété spéciale *[[feu intense (propriété)|feu intense]]*.

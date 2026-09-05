@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 200 po ; **Poids** 30 kg
+{s:AE}**Prix** 200 po ; **Poids** 30 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Lorsqu'il est fixé avec huit [[Piton (objet)|pitons]] (4 de chaque côté du fossé), ce pont à lattes et à corde peut supporter jusqu'à 750 kg et couvrir un vide d'une distance de 9 mètres. Il s'enroule pour former un paquet transportable sur le dos ou sur une bête de somme. Il faut utiliser le [[Dressage|tour]] "Viens" ou "Au pied" pour convaincre un animal de franchir un pont portable.

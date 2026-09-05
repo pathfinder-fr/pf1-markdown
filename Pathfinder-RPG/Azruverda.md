@@ -41,7 +41,7 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple ou couvée (3-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Crachat d’acide (Ext).** Un azruverda peut cracher un jet d’acide sur une cible située à moins de 18 m par une attaque de contact à distance, infligeant 10d6 points de dégâts d’acide.}
+{s:BDTexte|**Crachat d’acide (Ext).** Un azruverda peut cracher un jet d’acide sur une cible située à moins de 18 m par une attaque de contact à distance, infligeant 10d6 points de dégâts d’acide.} 
 {s:BDTexte|**Maître de la vermine (Sur).** Un azruverda peut contrôler mentalement jusqu’à 32 DV (deux fois les dés de vie raciaux de l’azruverda) de vermine à la fois par combinaison de phéromones surnaturelles et de manipulation de la magie. L’azruverda doit voir la vermine pour pouvoir la contrôler, et celle-ci doit être dans un rayon de 36 m autour de lui. Il suffit d’une action simple pour tenter de contrôler la vermine : celle-ci peut résister avec un jet de [[Volonté]] de DD 25. Si la vermine rate son jet, l’azruverda peut lui donner un ordre mental simple tel que« bats-toi », « viens ici », « va là-bas » ou « tiens-toi tranquille » par une action rapide. Même si elle se compose de milliers d’entités individuelles, la vermine appartenant au sous-type nuée est aussi vulnérable à cette capacité. Un azruverda peut libérer une créature de son contrôle par une action libre. La vermine affectée par cette capacité agit normalement, à moins que l’azruverda ne la contrôle activement, mais n’attaque jamais son maître. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 
 

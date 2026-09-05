@@ -130,7 +130,7 @@ The fighter gains an item mastery feat (see pages 30–31 and pages 26–27 of W
 #### Maniement double sans effort (Ext)
 {s:cs}<div class="description">**Source :** Blood of the Beast (BoB).</div>
 
-Le guerrier traite toutes les [[Caractéristiques des armes#ARMEAUNEMAIN|armes à une main]] du groupe d'armes associé comme si elles étaient des [[Caractéristiques des armes#ARMELEGERE|armes légères]] pour déterminer les malus aux [[jet dattaque|jets d'attaque]] quand il se [[Actions spéciales#COMBAT2ARMES|bat à deux armes]].
+Le guerrier traite toutes les [[Caractéristiques des armes#ARMEAUNEMAIN|armes à une main]] du groupe d'armes associé comme si elles étaient des [[Caractéristiques des armes#ARMELEGERE|armes légères]] pour déterminer les malus aux [[jet dattaque|jets d'attaque]] quand il se [[Actions spéciales#COMBAT2ARMES|bat à deux armes]]. 
 
 (((
 Effortless Dual-Wielding (Ex)

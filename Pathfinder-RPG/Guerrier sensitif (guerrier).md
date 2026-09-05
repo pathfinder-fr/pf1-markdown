@@ -7,7 +7,7 @@ Categories:
 - Archétype guerrier
 ---
 
-{s:Menuarchétypeguerrier}{s:AO}*Un guerrier sensitif perçoit le combat d’une manière incompréhensible pour le commun des mortels. Il anticipe les mouvements de ses adversaires avant même qu’ils aient fait le moindre geste. Tant qu’il reste concentré, ses talents martiaux sont dignes de ceux des maîtres d’armes les plus aguerris.*
+{s:Menuarchétypeguerrier}{s:AO}*Un guerrier sensitif perçoit le combat d’une manière incompréhensible pour le commun des mortels. Il anticipe les mouvements de ses adversaires avant même qu’ils aient fait le moindre geste. Tant qu’il reste concentré, ses talents martiaux sont dignes de ceux des maîtres d’armes les plus aguerris.* 
 
 #### Compétences
 Voici la liste de compétences de classe du guerrier sensitif : [[Acrobaties]] (Dex), [[Artisanat]] (Int), [[Équitation]] (Dex), [[Escalade]] (For), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag) et [[Survie]] (Sag). Ceci modifie la liste de compétences de classe des guerriers.
@@ -16,7 +16,7 @@ Voici la liste de compétences de classe du guerrier sensitif : [[Acrobaties]] (
 Les guerriers sensitifs sont formés au maniement de toutes les armes courantes et de guerre. Ils sont également formés au port des armures légères et intermédiaires, ainsi qu’au maniement des boucliers (à l’exception des pavois). Ceci remplace la formation aux armes et armures des guerriers.
 
 #### Protection des organes sensoriels (Sur)
-Un guerrier sensitif de niveau 2 bénéficie d’un bonus de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les effets de son, les chimères, les hallucinations, les mirages, les attaques de regard et les attaques basées sur l’odorat. Ce bonus augmente de +1 tous les 4 niveaux de guerrier sensitif au-delà du deuxième. Cette aptitude remplace celle de [[guerrier#COURAGE|courage]].
+Un guerrier sensitif de niveau 2 bénéficie d’un bonus de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les effets de son, les chimères, les hallucinations, les mirages, les attaques de regard et les attaques basées sur l’odorat. Ce bonus augmente de +1 tous les 4 niveaux de guerrier sensitif au-delà du deuxième. Cette aptitude remplace celle de [[guerrier#COURAGE|courage]]. 
 
 #### Esquive instinctive (Sur)
 Un guerrier sensitif de niveau 3 acquiert l’[[barbare#ESQUIVEINSTINCTIVE|esquive instinctive]], comme l’aptitude du même nom des barbares, sauf que cette aptitude est un pouvoir surnaturel. Cette aptitude remplace celle d’[[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1.

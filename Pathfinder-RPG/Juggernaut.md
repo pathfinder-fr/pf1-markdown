@@ -69,11 +69,11 @@ Le juggernaut gagne des pouvoirs spéciaux issus de deux domaines octroyés par 
 {br}**Feu.** Feu intense (Sur) – l’attaque de coup du juggernaut gagne la propriété spéciale d’arme feu intense. Son attaque de piétinement violent inflige 1d6 points de dégâts de feu supplémentaires.
 {br}**Gloire.** Grandeur (Sur) – le juggernaut inspire les actions de tous les alliés situés à 9 mètres ou moins de lui en leur conférant un bonus de moral de +2 aux jets d’attaque, de sauvegarde et aux tests de compétence.
 {br}**Bien.** Attaques du Bien (Sur) - les attaques de coup et de piétinement violent du juggernaut sont considérées comme alignées sur le Bien. Son piétinement violent inflige 2d6 points de dégâts supplémentaires aux cibles mauvaises.
-{br}**Guérison.** Regain d’énergie (Sur) – cinq fois par jour, le juggernaut peut dissiper l’un des états préjudiciables suivants subis par un allié situé à 9 mètres ou moins : hébété, fatigué, secoué, fiévreux ou chancelant.
+{br}**Guérison.** Regain d’énergie (Sur) – cinq fois par jour, le juggernaut peut dissiper l’un des états préjudiciables suivants subis par un allié situé à 9 mètres ou moins : hébété, fatigué, secoué, fiévreux ou chancelant. 
 {br}**Connaissance.** Absorption des pensées (Sur) – lorsque le juggernaut confirme un coup critique avec son attaque de coup, la cible doit réussir un jet de Volonté pour ne pas subir une diminution temporaire de 1d8 points d’Intelligence.
 {br}**Loi.** Attaques de la Loi (Sur) - les attaques de coup et de piétinement violent du juggernaut sont considérées comme alignées sur la Loi. Son piétinement violent inflige 2d6 points de dégâts supplémentaires aux cibles chaotiques.
 {br}**Libération.** Entraves brisées (Sur) – dix fois par jour par une action simple, le juggernaut peut appliquer les effets d’un sort de liberté de mouvement pendant un round sur l’un de ses alliés situés à 6 mètres ou moins de lui.
-{br}**Chance.** Chanceux (Sur) – deux fois par jour, le juggernaut peut relancer un d20 qu’il vient tout juste d’effectuer avant de prendre connaissance des conséquences de son résultat. Le juggernaut doit appliquer ce nouveau résultat, même s’il est pire que le précédent.
+{br}**Chance.** Chanceux (Sur) – deux fois par jour, le juggernaut peut relancer un d20 qu’il vient tout juste d’effectuer avant de prendre connaissance des conséquences de son résultat. Le juggernaut doit appliquer ce nouveau résultat, même s’il est pire que le précédent. 
 {br}**Folie.** Confusion (Mag) – le juggernaut peut lancer confusion trois fois par jour.
 {br}**Magie.** Résistance à la magie (Sur) – la MR du juggernaut augmente de 5.
 {br}**Noblesse.** Inspirant (Mag) – le juggernaut peut lancer espoir trois fois par jour.
@@ -94,6 +94,6 @@ Le juggernaut gagne des pouvoirs spéciaux issus de deux domaines octroyés par 
 La structure d’un juggernaut peut être fabriquée avec de l’argile, du cristal, du métal, de la pierre, du bois ou des ossements pour une valeur totale de 20 000 po.
 
 **NLS** 13 ; **Prix** 140 000 po
-**Conditions** [[Création de créatures artificielles]],* [[arme magique suprême]], [[transfert de sorts]], [[réparation intégrale]], [[façonnage de la pierre]]*, le créateur doit être un lanceur de sorts de niveau 10 au moins ;
-**Compétence** [[Artisanat]] (constructions en bois, sculpture ou constructions en pierre) ; **Coût** 80 000 po
+**Conditions** [[Création de créatures artificielles]],* [[arme magique suprême]], [[transfert de sorts]], [[réparation intégrale]], [[façonnage de la pierre]]*, le créateur doit être un lanceur de sorts de niveau 10 au moins ; 
+**Compétence** [[Artisanat]] (constructions en bois, sculpture ou constructions en pierre) ; **Coût** 80 000 po 
 </div></td></tr></table>

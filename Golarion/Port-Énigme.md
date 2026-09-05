@@ -14,14 +14,14 @@ Port-Énigme est la troisième plus grande cité de [[Varisie]], après [[Magnim
 
 À l'origine simple repère pour les pirates du [[golfe de Varisie]], Port-Énigme est devenue, au cours des trois derniers siècles, une véritable cité portuaire indépendante. Sa situation géographique en fait aussi la ville la plus septentrionale de la [[Varisie]], à la frontière des étendues sauvages qui s'étendent jusqu'aux [[Terres des Rois des Linnorms]].
 
-Malgré sa croissance et l’arrivée permanente de nouveaux habitants, Port-Énigme est restée fidèle à ses origines violentes et libertaires. Dans cette cité, chacun peut faire fortune en une nuit et tout perdre le lendemain.
+Malgré sa croissance et l’arrivée permanente de nouveaux habitants, Port-Énigme est restée fidèle à ses origines violentes et libertaires. Dans cette cité, chacun peut faire fortune en une nuit et tout perdre le lendemain. 
 
-Bien qu'apparemment livrée à l'anarchie et au crime, la ville est en fait relativement stable depuis plusieurs années. Cette situation est en grande partie l'oeuvre de [[Gaston Cromarcky]], un ancien capitaine pirate, dernier d’une lignée de boucaniers qui se sont succédés à la tête de la ville, dans un perpétuel enchainement de trahisons et de coups tordus.
+Bien qu'apparemment livrée à l'anarchie et au crime, la ville est en fait relativement stable depuis plusieurs années. Cette situation est en grande partie l'oeuvre de [[Gaston Cromarcky]], un ancien capitaine pirate, dernier d’une lignée de boucaniers qui se sont succédés à la tête de la ville, dans un perpétuel enchainement de trahisons et de coups tordus. 
 
 
 La principale attraction de la cité, outre ses arènes et ses maisons de jeux, est une immense arche qui surplombe l’entrée du port : La [[Porte des Glyphes]]. Ce monumental anneau de 200m de diamètre, gravé de runes et constitué d’une roche aussi inconnue qu’inaltérable est un des vestiges les plus spectaculaire de l’ancienne civilisation qui occupait la [[Varisie]].
 
-La [[Porte des Glyphes]] attire à Port-Énigme une quantité importante de curieux et d’érudits décidés à briser ses secrets. Les plus connus sont les membres de l'[[Ordre des Glyphes]], dont le siège se trouve au coeur de la ville pirate. Ces chercheurs étudient l’arche depuis des décennies mais n’ont toujours pas la moindre idée de son utilité ni de la signification des runes.
+La [[Porte des Glyphes]] attire à Port-Énigme une quantité importante de curieux et d’érudits décidés à briser ses secrets. Les plus connus sont les membres de l'[[Ordre des Glyphes]], dont le siège se trouve au coeur de la ville pirate. Ces chercheurs étudient l’arche depuis des décennies mais n’ont toujours pas la moindre idée de son utilité ni de la signification des runes. 
 
 Les principaux cultes rencontrés à Port-Énigme sont ceux de [[Besmara]], de [[Calistria]], de [[Cayden Cailéan]], de [[Desna]] et de [[Gozreh]]. Toutefois, les habitants de Port-Énigme ne sont pas réputés pour leur foi et comptent plus sur leur propre chance que dans d'aléatoires interventions divines.
 

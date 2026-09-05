@@ -10,14 +10,14 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 6
-**Temps d’incantation** 1 round
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|longue]] (120 m + 12 m/niveau)
-**Cible** 1 créature/niveau
-**Durée** 1 jour/niveau
+{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 6  
+**Temps d’incantation** 1 round  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|longue]] (120 m + 12 m/niveau)  
+**Cible** 1 créature/niveau  
+**Durée** 1 jour/niveau  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|dévoile]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[création de paysage mental]]* mais il affecte plus de créatures, dure plus longtemps et peut revêtir la caractéristique magique. De plus, le personnage peut gérer en même temps un nombre de créatures crédibles égal à son [[NLS|niveau de lanceur de sorts]].
 
 *Création de paysage mental suprême* peut devenir permanent avec un sort de *[[permanence]]*, à condition d’être un lanceur de sorts de niveau 15 ou plus et de dépenser 17 500 po. Le personnage et d’autres créatures au courant de l’existence d’un paysage mental permanent peuvent aller et venir via une *[[porte sur un paysage mental]]*.
@@ -26,14 +26,14 @@ Ce sort fonctionne comme *[[création de paysage mental]]* mais il affecte plus 
 
 (((
 ## Création de paysage mental
-{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 4
-**Temps d’incantation** 1 round
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte|longue]] (120 m + 12 m/niveau)
-**Cible** 1 créature
-**Durée** 10 minutes/niveau
+{s:AO}** École **[[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 4  
+**Temps d’incantation** 1 round  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte|longue]] (120 m + 12 m/niveau)  
+**Cible** 1 créature  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|dévoile]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Le personnage crée un [[Paysages mentaux#PAYSAGESMENTAUXIMMERSIFS|paysage mental immersif]] où pénètrent son esprit et celui de sa cible. À lui de choisir si ce paysage est évident ou voilé, inoffensif ou nuisible. Il peut choisir n’importe quelle forme et taille, ainsi que n’importe quel type de gravité (mais il ne peut pas faire en sorte qu’elle soit si forte qu’elle blesse les créatures présentes). Ce paysage a un écoulement temporel normal, pas d’alignement et une magie normale.
 
 Le personnage désigne le lieu d’apparition de sa cible et de lui-même. Il n’a pas besoin de voir sa cible pour l’entraîner dans son paysage mental mais il doit savoir qu’elle se trouve à portée. Si le personnage vise une zone comportant plus d’une créature vivante et qu’il ne les a jamais vues auparavant (par exemple s’il sait qu’un groupe de soldats se trouve dans un baraquement mais qu’il ne les voit pas à travers la porte), la cible du sort est désignée au hasard. Si le personnage a vu la créature qu’il a choisie comme cible (pour reprendre l’exemple précédent, s’il a vu le sergent entrer dans la pièce un instant plus tôt), il peut la sélectionner sans risque d’erreur, même en présence des autres. Le personnage doit apparaître quelque part dans son paysage mental bien qu’il puisse sans mal se cacher aux yeux de sa cible si elle ignore qu’elle se trouve dans un tel paysage. Le personnage doit aussi créer une méthode pour sortir du paysage mental au moment où il lance le sort. Elle doit être applicable au vu des caractéristiques de l’environnement, mais elle peut être cachée ou difficile à mettre en œuvre. C’est au MJ de décider si l’échappatoire est raisonnable ou non. Toute méthode raisonnable permettant de s’éveiller d’un rêve lors d’un *[[sommeil profond]]* permet aussi de quitter un paysage mental.

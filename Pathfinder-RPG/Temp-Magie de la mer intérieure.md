@@ -53,7 +53,7 @@ Objets magiques
 
 #### Magie Thassilonienne
 Thassilon n'est pas ogl
-Il faut trouver un nom de remplacement : ~~Magicien antique, Magicien spécialiste~~
+Il faut trouver un nom de remplacement : ~~Magicien antique, Magicien spécialiste~~ 
 
 Nom de remplacement : il existe déjà la [[Magie du péché (école)|Magie du péché]]. ~~Vérifier que la page correspond avec le contenu du bouquin en vf.~~ La page actuelle est une page créée par Kieran avant qu'on ne définisse les règles de reprise des bouquins. La page peut être considérée comme un résumé de la page 17 du livre. ajouts de deux règles manquantes.
 

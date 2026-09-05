@@ -8,7 +8,7 @@ LastModified: 2024-06-02 17:57
 {s:BDTitre|Gantelets de manœuvre offensive|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 4.000 po ; **Poids** 0,5 kg
 (((Description)))
-Le porteur de ces gantelets gagne un bonus de +2 sur un type spécifique de [[manœuvres offensives|manœuvre offensive]] (telle que le [[manœuvres offensives#RENVERSEMENT|renversement]], le [[manœuvres offensives#DESARMEMENT|désarmement]] ou la [[manœuvres offensives#SUBTILISATION|subtilisation]], par exemple) déterminé par le créateur lors de la fabrication de l’objet.
+Le porteur de ces gantelets gagne un bonus de +2 sur un type spécifique de [[manœuvres offensives|manœuvre offensive]] (telle que le [[manœuvres offensives#RENVERSEMENT|renversement]], le [[manœuvres offensives#DESARMEMENT|désarmement]] ou la [[manœuvres offensives#SUBTILISATION|subtilisation]], par exemple) déterminé par le créateur lors de la fabrication de l’objet. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit posséder le don Science de la manœuvre offensive appropriée  ; **Coût** 2.000 po
 </div>

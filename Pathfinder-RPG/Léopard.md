@@ -65,7 +65,7 @@ proies de taille P, ils sont capables
 de dévorer des herbivores
 de taille G ou de survivre
 en s’alimentant de rongeurs,
-d’oiseaux et d’insectes.
+d’oiseaux et d’insectes. 
 
 Les léopards en bonne santé ne
 se montrent généralement pas

@@ -13,7 +13,7 @@ Herméa fut créée dans l'idée d'expérimenter les limites du potentiel humain
 ### Géographie de l'île d'Herméa
 Herméa occupe une île isolée de l'[[océan Arcadien]], couverte d'une luxuriante jungle. Elle est située à plusieurs centaines de kilomètres des côtes de l'[[Avistan]]. C'est cette situation isolée qui a permis à Mengkare d'y installer son expérience.
 
-La luxuriance de la nature tropicale de l'île permet à l'agriculture d'Herméa d'être particulièrement fructueuse. Cette productivité est accrue par les innovations agricoles encouragées par le gouvernement.
+La luxuriance de la nature tropicale de l'île permet à l'agriculture d'Herméa d'être particulièrement fructueuse. Cette productivité est accrue par les innovations agricoles encouragées par le gouvernement. 
 
 Herméa a la particularité de n'avoir qu'une seule agglomération d'importance. [[Promesse]], capitale de l'île, est la seule ville.
 
@@ -37,11 +37,11 @@ Les relations internationales d'Herméa avec les autres nations de [[Golarion.g�
 Mengkare à banni toute religion organisée de l'île, leur reprochant le désastre de leur influence sur les foules. Pour cette raison, il s'est fait des ennemis de certaines religions majeures.
 
 ### Habitants d'Herméa
-Les habitants d'Herméa sont sûrement les plus brillants que l'humanité puisse offrir. Les citoyens d'Herméa sont pour la quasi totalité des humains, même si, occasionnellement, un elfe ou un demi-elfe est invité à venir s'installer sur l'île.
+Les habitants d'Herméa sont sûrement les plus brillants que l'humanité puisse offrir. Les citoyens d'Herméa sont pour la quasi totalité des humains, même si, occasionnellement, un elfe ou un demi-elfe est invité à venir s'installer sur l'île. 
 
-Les habitants de l'île peuvent être divisés en deux catégories : ceux qui sont nés sur l'île et ceux qui y ont immigré.
+Les habitants de l'île peuvent être divisés en deux catégories : ceux qui sont nés sur l'île et ceux qui y ont immigré. 
 
-Les natifs d'Herméa ont accès à la meilleure éducation qui soit en matière de science, d'art, de magie et de formation martiale. Les enfants d'Herméa sont formés jusqu'à l'âge de 16 ans, âge auquel ils subissent un examen permettant de déterminer s'ils peuvent accéder à la citoyenneté. Ceux qui échouent sont bannis à jamais et se voient donner suffisamment de biens pour pouvoir émigrer et s'installer ailleurs que sur l'île.
+Les natifs d'Herméa ont accès à la meilleure éducation qui soit en matière de science, d'art, de magie et de formation martiale. Les enfants d'Herméa sont formés jusqu'à l'âge de 16 ans, âge auquel ils subissent un examen permettant de déterminer s'ils peuvent accéder à la citoyenneté. Ceux qui échouent sont bannis à jamais et se voient donner suffisamment de biens pour pouvoir émigrer et s'installer ailleurs que sur l'île. 
 
 La seconde catégorie regroupe les personnes invitées à s'installer sur l'île. Ils représentent ce que [[Golarion.géographie|Golarion]] contient de plus talentueux et de plus brillant. Le processus de sélection est long et difficile. Un candidat potentiel est normalement observé durant de nombreux mois, voire plusieurs années, avant que le conseil ne décide s'il est suffisamment méritant. S'il est déclaré apte à s'installer sur l'île, il lui est envoyé une invitation à rejoindre Herméa et la grande expérience utopique. Le candidat invité peut prendre tout le temps qu'il souhaite pour répondre à l'invitation, mais une fois celle-ci donnée, elle est définitive.
 

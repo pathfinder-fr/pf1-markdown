@@ -6,7 +6,7 @@ Categories:
 - Src La mer Intérieure
 ---
 
-[Inner Sea World Guide](https://paizo.com/products/btpy8ief?Pathfinder-Campaign-Setting-The-Inner-Sea-World-Guide) a été publié en Janvier 2011 par Paizo inc.
+[Inner Sea World Guide](https://paizo.com/products/btpy8ief?Pathfinder-Campaign-Setting-The-Inner-Sea-World-Guide) a été publié en Janvier 2011 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom de [La Mer Intérieure](https://www.black-book-editions.fr/produit.php?id=2490), en Juin 2011.
 
 Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
@@ -15,53 +15,53 @@ Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
 
 ### Classes de prestige
 <div class="article_3col">
-[[Assassin des mantes rouges|Assassin pourpre]],
-[[Chevalier infernal|Légionnaire infernal]],
-[[Liseuse de tourment|Voyante]],
+[[Assassin des mantes rouges|Assassin pourpre]],  
+[[Chevalier infernal|Légionnaire infernal]],  
+[[Liseuse de tourment|Voyante]],  
 [[Templier déchu|Templier parjure]].
 </div>
 
 
 ### Dons
-Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.
+Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.  
 <div class="article_3col">
-[[Acolyte de la Nature]],
-[[Affinité nécromantique]],
-[[Battu par les vents]],
-[[Bébé féerique]],
-[[Chasseur de démons]],
-[[Combattant désespéré]],
-[[Danse du derviche]],
-[[Danseur à la baguette]],
-[[Discipliné]],
-[[Diseuse de bonne aventure]],
-[[Duelliste à la falcata]],
-[[Érudit]],
-[[Esprit libre]],
-[[Fauconnerie ancestrale]],
-[[Guérison athée]],
-[[Habitant du désert]],
-[[Hamatulatsu]],
-[[Jouet du destin]],
-[[Magie des glyphes]],
-[[Maître des duels]],
-[[Noble rejeton]],
-[[Nordique]],
-[[Œil mystique]],
-[[Ombre druidique]],
-[[Orateur prudent]],
-[[Porte-étendard]],
-[[Prédisposition pour laltitude|Prédisposition pour l'altitude]],
-[[Rechargement rapide]] (modifié),
-[[Sang remarquable]],
-[[Signes secrets]],
-[[Sort mélodieux]],
-[[Sténo]],
-[[Stoïque]],
-[[Survivant]],
-[[Tacticien rusé]],
-[[Tatouage mystique]],
-[[Totem spirituel]],
+[[Acolyte de la Nature]],  
+[[Affinité nécromantique]],  
+[[Battu par les vents]],  
+[[Bébé féerique]],  
+[[Chasseur de démons]],  
+[[Combattant désespéré]],  
+[[Danse du derviche]],  
+[[Danseur à la baguette]],  
+[[Discipliné]],  
+[[Diseuse de bonne aventure]],  
+[[Duelliste à la falcata]],  
+[[Érudit]],  
+[[Esprit libre]],  
+[[Fauconnerie ancestrale]],  
+[[Guérison athée]],  
+[[Habitant du désert]],  
+[[Hamatulatsu]],  
+[[Jouet du destin]],  
+[[Magie des glyphes]],  
+[[Maître des duels]],  
+[[Noble rejeton]],  
+[[Nordique]],  
+[[Œil mystique]],  
+[[Ombre druidique]],  
+[[Orateur prudent]],  
+[[Porte-étendard]],  
+[[Prédisposition pour laltitude|Prédisposition pour l'altitude]],  
+[[Rechargement rapide]] (modifié),  
+[[Sang remarquable]],  
+[[Signes secrets]],  
+[[Sort mélodieux]],  
+[[Sténo]],  
+[[Stoïque]],  
+[[Survivant]],  
+[[Tacticien rusé]],  
+[[Tatouage mystique]],  
+[[Totem spirituel]],  
 [[Vendetta arcanique]].
 </div>
 
@@ -69,51 +69,51 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 ### Équipement
 #### Armes
 <div class="article_3col">
-**Armes classiques.**
-[[bolas tribaux (arme)|Bolas tribaux]] (modifié),
-[[briseterre (arme)|Briseterre]] (modifié),
-[[coupecheval (arme)|Coupecheval]] (modifié),
-[[crochet ogre (arme)|Crochet ogre]] (modifié),
-[[écharpe tranchante (arme)|Écharpe tranchante]] (modifié),
-[[épée de duel (arme)|Épée de duel]] (modifié),
-[[klar (arme)|Klar]] (modifié),
-[[rasoir de combat (arme)|Rasoir de combat]] (modifié),
-[[sabre dentelé (arme)|Sabre dentelé]] (modifié),
-[[tranchechien (arme)|Tranchechien]] (modifié),
-[[urumi (arme)|Urumi]] (modifié).
+**Armes classiques.**  
+[[bolas tribaux (arme)|Bolas tribaux]] (modifié),  
+[[briseterre (arme)|Briseterre]] (modifié),  
+[[coupecheval (arme)|Coupecheval]] (modifié),  
+[[crochet ogre (arme)|Crochet ogre]] (modifié),  
+[[écharpe tranchante (arme)|Écharpe tranchante]] (modifié),  
+[[épée de duel (arme)|Épée de duel]] (modifié),  
+[[klar (arme)|Klar]] (modifié),  
+[[rasoir de combat (arme)|Rasoir de combat]] (modifié),  
+[[sabre dentelé (arme)|Sabre dentelé]] (modifié),  
+[[tranchechien (arme)|Tranchechien]] (modifié),  
+[[urumi (arme)|Urumi]] (modifié).  
 
-**Armes à feu.**
-[[Balle darme à feu (arme)|Balle d'arme à feu]] (modifié),
-[[Mousquet (arme)|Mousquet]] (modifié),
-[[Pistolet (arme)|Pistolet]] (modifié),
-[[Poivrière (arme)|Poivrière]] (modifié),
-[[Poudre noire (arme)|Poudre noire (baril)]] (modifié),
-[[Poudre noire (arme)|Poudre noire (dose)]] (modifié).
+**Armes à feu.**  
+[[Balle darme à feu (arme)|Balle d'arme à feu]] (modifié),  
+[[Mousquet (arme)|Mousquet]] (modifié),  
+[[Pistolet (arme)|Pistolet]] (modifié),  
+[[Poivrière (arme)|Poivrière]] (modifié),  
+[[Poudre noire (arme)|Poudre noire (baril)]] (modifié),  
+[[Poudre noire (arme)|Poudre noire (dose)]] (modifié).  
 
-**Engins de siège.**
+**Engins de siège.**  
 [[Descriptions individuelles des engins de siège#Canon|Canon]] (modifié).
 </div>
 
 
 #### Armures
 <div class="article_3col">
-[[armure de feuilles (armure)|Armure de feuilles]],
-[[armure de Légionnaire infernal (armure)|Armure de Légionnaire infernal]],
-[[klar (armure)|Klar]] (modifié),
-[[plate de pierre (armure)|Plate de pierre]] (modifié),
+[[armure de feuilles (armure)|Armure de feuilles]],  
+[[armure de Légionnaire infernal (armure)|Armure de Légionnaire infernal]],  
+[[klar (armure)|Klar]] (modifié),  
+[[plate de pierre (armure)|Plate de pierre]] (modifié),  
 [[plate flexible (armure)|Plate flexible]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Équipement d'aventurier====</div>
 <div class="article_3col">
-[[Équipement daventurier#Chronique des Explorateurs|Chronique des Explorateurs]],
-[[Équipement daventurier#Corne à poudre|Corne à poudre]] (modifié),
-[[Équipement daventurier#Étendard|Étendard]],
-[[Équipement daventurier#Jeu du destin|Jeu du destin]] (modifié),
-[[Équipement daventurier#Larmes du Dieu vivant|Larmes du Dieu vivant]],
-[[Équipement daventurier#Parfum/Eau de Cologne|Parfum/Eau de Cologne (ordinaire)]],
-[[Équipement daventurier#Parfum/Eau de Cologne|Parfum/Eau de Cologne (exotique)]],
+[[Équipement daventurier#Chronique des Explorateurs|Chronique des Explorateurs]],  
+[[Équipement daventurier#Corne à poudre|Corne à poudre]] (modifié),  
+[[Équipement daventurier#Étendard|Étendard]],  
+[[Équipement daventurier#Jeu du destin|Jeu du destin]] (modifié),  
+[[Équipement daventurier#Larmes du Dieu vivant|Larmes du Dieu vivant]],  
+[[Équipement daventurier#Parfum/Eau de Cologne|Parfum/Eau de Cologne (ordinaire)]],  
+[[Équipement daventurier#Parfum/Eau de Cologne|Parfum/Eau de Cologne (exotique)]],  
 [[Équipement daventurier#Pierre chauffante|Pierre chauffante]].
 </div>
 
@@ -121,40 +121,40 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[[Bouclier dAroden|Bouclier du Dernier des premiers hommes]] (modifié),
-[[Élixir dorchidée solaire|Élixir d'orchidée solaire]],
-[[Hachenoire]] (modifié),
-[[Lame finale]],
+[[Bouclier dAroden|Bouclier du Dernier des premiers hommes]] (modifié),  
+[[Élixir dorchidée solaire|Élixir d'orchidée solaire]],  
+[[Hachenoire]] (modifié),  
+[[Lame finale]],  
 [[Pierre de garde]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Guide magique|Guide d’explorateur]] (modifié),
-[[Fétiche zoïque]],
-[[Onguent revigorant]].
+**Aucun (Sans emplacement).**  
+[[Guide magique|Guide d’explorateur]] (modifié),  
+[[Fétiche zoïque]],  
+[[Onguent revigorant]].  
 
-**Cou.**
-[[Charme de contrôle daluum|Charme de contrôle d’aluum]].
+**Cou.**  
+[[Charme de contrôle daluum|Charme de contrôle d’aluum]].  
 
-**Tête.**
-[[Masque de Goz]],
+**Tête.**  
+[[Masque de Goz]],  
 [[Masque de la Mante]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[[Aluum]],
-[[Aquatique]],
-[[Calikang]],
-[[Charau-ka]],
-[[Diable de Pointesable|Destrier diabolique]],
-[[Dragon épineux]],
-[[Filles dUrgathoa|Filles de la Maladie]],
-[[Fléau des Arbres|Fléau des forêts]],
+[[Aluum]],  
+[[Aquatique]],  
+[[Calikang]],  
+[[Charau-ka]],  
+[[Diable de Pointesable|Destrier diabolique]],  
+[[Dragon épineux]],  
+[[Filles dUrgathoa|Filles de la Maladie]],  
+[[Fléau des Arbres|Fléau des forêts]],  
 [[Strix]].
 </div>
 
@@ -162,34 +162,34 @@ Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'
 ### Options de classe
 #### Domaines de prêtre
 <div class="article_3col">
-[[Domaine des reptiles|Reptiles]],
+[[Domaine des reptiles|Reptiles]],  
 [[Domaine du Vide|Vide]].
 </div>
 
 
 ### Races
 <div class="article_3col">
-[[Aquatique (race)|Aquatique]] (modifié),
+[[Aquatique (race)|Aquatique]] (modifié),  
 [[Strix (race)|Strix]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Armure de Gorum]],
-[[Aura davidité|Aura d'avidité]],
-[[Bouclier de la fleur de lAube|Bouclier de la Fleur de l'Aube]],
-[[Cœur incassable]],
-[[Complainte des chevaliers victorieux]],
-[[Eaux de Lamashtu]],
-[[Forme de vermine I]] (modifié),
-[[Forme de vermine II]] (modifié),
-[[Guérison diabolique]],
-[[Guérison diabolique supérieure]],
-[[Lecture du tourment]],
-[[Mémoire ancestrale]],
-[[Piège de téléportation]],
-[[Téléportation interplanétaire]] (modifié),
-[[Vengeance de lamoureux|Vengeance de l'amoureux]],
+[[Armure de Gorum]],  
+[[Aura davidité|Aura d'avidité]],  
+[[Bouclier de la fleur de lAube|Bouclier de la Fleur de l'Aube]],  
+[[Cœur incassable]],  
+[[Complainte des chevaliers victorieux]],  
+[[Eaux de Lamashtu]],  
+[[Forme de vermine I]] (modifié),  
+[[Forme de vermine II]] (modifié),  
+[[Guérison diabolique]],  
+[[Guérison diabolique supérieure]],  
+[[Lecture du tourment]],  
+[[Mémoire ancestrale]],  
+[[Piège de téléportation]],  
+[[Téléportation interplanétaire]] (modifié),  
+[[Vengeance de lamoureux|Vengeance de l'amoureux]],  
 [[Vision de Lamashtu]].
 </div>

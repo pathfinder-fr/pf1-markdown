@@ -43,11 +43,11 @@ En raison du nombre élevé de cours d'eau et du climat tempéré du pays, les p
 ### Histoire de la région
 On connaît malheureusement peu de choses de l'histoire ancienne de la région. En effet, à leur arrivée au pouvoir, les membres de la Maison Thrune se sont efforcés d'en effacer consciencieusement toute trace dans les archives nationales. Mais grâce aux archives de ses voisins, il est possible de retrouver certains éléments importants de l'histoire du Chéliax.
 
-Le Chéliax fut d'abord sous domination du [[Taldor]]. Les Armées d'Exploration qui étaient chargées de parcourir l'ensemble de l'[[Avistan]] sont devenues maîtresses de la région vers 3000 et ont donné l'ensemble du territoire à l'empire taldan.
+Le Chéliax fut d'abord sous domination du [[Taldor]]. Les Armées d'Exploration qui étaient chargées de parcourir l'ensemble de l'[[Avistan]] sont devenues maîtresses de la région vers 3000 et ont donné l'ensemble du territoire à l'empire taldan. 
 
 Quelques siècles plus tard, lorsqu'[[Aroden]] fuit le [[Taldor]], il s'installe au Chéliax et ainsi débute l'importance du culte d'[[Aroden]] en ce lieu.
 
-Vers 4000, toujours colonie du [[Taldor]], le Chéliax se révolte et, profitant de l'invasion du [[Taldor]] par les armées kéléshites venues du [[Qadira]], déclare son indépendance. Pour se démarquer complètement de son puissant voisin, les troupes chélaxiennes aident l'[[Andoran]] et l'[[Isger]] à accéder eux-aussi à l'indépendance.
+Vers 4000, toujours colonie du [[Taldor]], le Chéliax se révolte et, profitant de l'invasion du [[Taldor]] par les armées kéléshites venues du [[Qadira]], déclare son indépendance. Pour se démarquer complètement de son puissant voisin, les troupes chélaxiennes aident l'[[Andoran]] et l'[[Isger]] à accéder eux-aussi à l'indépendance. 
 
 S'ensuit une période faste pour le Chéliax. Son influence s'étend sur tout l'[[Avistan]], ses armées sont puissantes et bon nombre de nations tombent sous sa coupe. Le territoire alors occupé par le Chéliax s'étend tout le long de la côte de l'[[Océan Arcadien]] jusqu'en [[Varisie]] (c'est d'ailleurs de cette époque que date la fondation de [[Korvosa]] en 4407) et même sur le [[Garund]], permettant au Chéliax de contrôler l'accès à la [[Mer Intérieure]].
 

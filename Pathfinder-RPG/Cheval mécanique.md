@@ -56,7 +56,7 @@ Le destrier mécanique est doté d’un pivot et d’une attache prévus pour y 
 
 ### Construction
 Le créateur d’un cheval mécanique doit entamer la fabrication avec des pièces mécaniques d’une valeur de 3 000 po. Pour le destrier mécanique, on peut intégrer un pivot conçu pour n’importe quelle taille de lance d’arçon, mais elles sont en général
-de taille M.
+de taille M. 
 
 
 - **NLS** 12 ; **Prix** 29 000 po (33 500 po pour un destrier mécanique) 

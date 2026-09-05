@@ -14,7 +14,7 @@ Categories:
 {s:BDTitre|Talisman des vœux récalcitrants|{s:AE}}
 **Aura** [[Invocation]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 0.5 kg
 (((Description)))
-Le *talisman des vœux récalcitrants* ressemble à une *[[gemme à élémentaire|gemme à élémentaire (Terre)]]*, une pierre rugueuse qui semble vibrer d’une puissance intérieure. Pourtant, ses pouvoirs sont bien différents et dépendent du [[Charisme]] de son propriétaire. Tout personnage qui touche le talisman doit réussir un test de [[Charisme]] [[DD]] 15.
+Le *talisman des vœux récalcitrants* ressemble à une *[[gemme à élémentaire|gemme à élémentaire (Terre)]]*, une pierre rugueuse qui semble vibrer d’une puissance intérieure. Pourtant, ses pouvoirs sont bien différents et dépendent du [[Charisme]] de son propriétaire. Tout personnage qui touche le talisman doit réussir un test de [[Charisme]] [[DD]] 15.  
 S’il rate son test, le talisman agit comme une [[pierre de lest]]. Si le personnage se débarrasse du talisman, il subit 5d6 points de dégâts et le talisman disparaît.
 
 S’il réussit son test, le talisman reste avec le personnage pendant 5d6 heures ou jusqu’à ce qu’il fasse un *[[souhait]]*, après quoi, il disparaît.

@@ -8,7 +8,7 @@ LastModified: 2024-05-29 19:53
 {s:BDTitre|Couronne de conquérant|{s:AE}}
 **Aura** [[Enchantement]] modérée  ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 24 600 po ; **Poids** 1.5 kg
 (((Description)))
-Cette couronne en or et acier projette une aura de puissance intimidante. Son porteur gagne un bonus de compétence de +4 aux tests d’[[Intimidation]]. Lorsqu’il confirme un coup critique, la couronne crée un effet de *[[prière]]* centré sur le porteur de la couronne ([[NLS|niveau de lanceur de sorts]] de 5). S’il possède le don [[Prestige]], le porteur de la couronne gagne un bonus de +1 à la valeur de ce don et tous les suivants et ses compagnons d’armes gagnent un bonus de +1 aux [[jet dattaque|jets d’attaque]] et de sauvegarde contre la terreur s’ils ont le porteur en ligne de mire.
+Cette couronne en or et acier projette une aura de puissance intimidante. Son porteur gagne un bonus de compétence de +4 aux tests d’[[Intimidation]]. Lorsqu’il confirme un coup critique, la couronne crée un effet de *[[prière]]* centré sur le porteur de la couronne ([[NLS|niveau de lanceur de sorts]] de 5). S’il possède le don [[Prestige]], le porteur de la couronne gagne un bonus de +1 à la valeur de ce don et tous les suivants et ses compagnons d’armes gagnent un bonus de +1 aux [[jet dattaque|jets d’attaque]] et de sauvegarde contre la terreur s’ils ont le porteur en ligne de mire. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bénédiction]]*, *[[Splendeur de laigle|splendeur de l’aigle]]*, *[[prière]]* ; **Coût** 12 300 po
 </div>

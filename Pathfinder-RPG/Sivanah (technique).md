@@ -18,10 +18,10 @@ Le Septième Voile|%2fPCUP%2fReligion-PNG%2fSivanah.png|[[Divinités#AUTRES|Autr
 |[[Inquisitions#CLANDESTINITE|Clandestinité]]}{s:cs}{s:ISG}Sivanah est la déesse patronne de la magie de l'illusion, des illusionnistes et de ceux qui gardent des secrets. Elle est également connue sous le nom de "Septième voile", un nom tiré du vêtement qu'elle porte le plus souvent. Son symbole sacré est un cercle composé de six voiles de couleur terne attachés bout à bout.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Image silencieuse]]* peut être préparé comme un sort de 1er niveau.
-• *[[Lueurs hypnotiques]]* peut être préparé comme un sort de 2e niveau.
-• *[[Son imaginaire]]* peut être préparé comme une oraison.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Image silencieuse]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Lueurs hypnotiques]]* peut être préparé comme un sort de 2e niveau.  
+• *[[Son imaginaire]]* peut être préparé comme une oraison.  
 • *[[Voile]]* peut être préparé comme un sort de 6e niveau.
 
 ### Options de personnage thématiques

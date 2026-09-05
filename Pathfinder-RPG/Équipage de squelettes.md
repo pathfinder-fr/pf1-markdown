@@ -11,12 +11,12 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [[Nécromancie]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]]
-**Portée** contact
-**Cible** un cadavre d’humanoïde touché ou plus
-**Durée** 1 jour/niveau
+{s:PMI}**École** [[Nécromancie]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]]  
+**Portée** contact  
+**Cible** un cadavre d’humanoïde touché ou plus  
+**Durée** 1 jour/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort transforme les cadavres en [[Squelette humain|squelettes]] qui agissent comme des membres d’équipage embarqués et obéissent aux ordres du personnage dans la mesure de leurs capacités.

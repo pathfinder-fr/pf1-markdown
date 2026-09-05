@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** —
+{s:AE}**Prix** 10 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 {s:Desambi|Dans le <u>Manuel des jouuers - Règles avancées</u>, cet objet est aussi appelé "flèche de fumée".}Cette flèche est en réalité un [[Bâton fumigène (objet)|bâton fumigène]] à la forme particulière qui peut être tiré avec un arc. Elle laisse derrière elle une traînée de fumée, créant un cube de fumée de 1,5 mètre de côté là où elle frappe. De plus, elle fonctionne comme une [[flèches (arme)|flèche normale]] en termes de dégâts, de portée, etc.

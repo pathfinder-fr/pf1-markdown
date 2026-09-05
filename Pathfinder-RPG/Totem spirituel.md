@@ -12,7 +12,7 @@ Categories:
 
 **Conditions**. Membre d’une tribu barbare
 
-**Avantages**. L’avantage de ce don dépend de la tribu à laquelle appartient le personnage qui peut choisir parmi les capacités suivantes caractéristiques du totem de sa tribu.
+**Avantages**. L’avantage de ce don dépend de la tribu à laquelle appartient le personnage qui peut choisir parmi les capacités suivantes caractéristiques du totem de sa tribu. 
 - Lune : Le personnage gagne un bonus de +1 aux jets de [[Volonté]] et de +2 aux tests de [[Perception]]. 
 - Hache : Si le personnage possède un pouvoir de rage, il peut l’utiliser 3 rounds de plus par jour. Il gagne aussi un bonus de +2 aux tests d’[[Intimidation]]. 
 - Aigle : Le personnage gagne un bonus de +1 aux jets d’[[initiative]] et de +2 aux tests d’[[Équitation]]. 

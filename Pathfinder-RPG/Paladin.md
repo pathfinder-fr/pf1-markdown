@@ -10,7 +10,7 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi la [[Liste des sorts de paladins|liste des sorts de paladin]].***
+<div class="fright">***Voir aussi la [[Liste des sorts de paladins|liste des sorts de paladin]].***  
 {s:PM0|paladin}***Voir les archétypes du paladin***&emsp;
 <li ID="paladin" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypepaladin}</li>
 </div>*À travers quelques rares et vertueux élus, on peut voir briller la puissance divine. Ces âmes nobles qu’on appelle paladins dévouent leur épée et leur vie au combat contre le mal. À la fois chevaliers, croisés et justiciers, les paladins ne cherchent pas seulement à propager la justice divine mais également à incarner les enseignements des divinités vertueuses qu’ils servent. Pour atteindre ces objectifs ambitieux, ils adhèrent à un code de moralité et de discipline extrêmement strict. En récompense de leur droiture, ces champions sacrés reçoivent des capacités qui les aident à mener leur quête à bien : le pouvoir de repousser le mal, de soigner les innocents et d’encourager les fidèles. Même si leurs convictions les amènent parfois à entrer en conflit avec ceux qu’ils voudraient sauver, les paladins viennent à bout des incessantes épreuves qui testent leur foi par de viles tentations. Ils mettent leur vie en danger pour faire le bien et se battent pour préparer un avenir meilleur.*

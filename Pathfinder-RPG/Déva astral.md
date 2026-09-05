@@ -48,7 +48,7 @@ douce brillance qui fait qu’il est difficile de poser le regard sur elle.''
 
 Les dévas astraux sont les messagers des dieux du Bien. Ils protègent
 ceux qui voyagent entre les plans et conseillent les mortels les
-plus puissants tout en les incitant à rejoindre la cause du Bien.
+plus puissants tout en les incitant à rejoindre la cause du Bien. 
 
 Ils ressemblent généralement aux humains (exception faite de leurs
 ailes) mais certains d’entre eux possèdent l’apparence d’autres races
@@ -61,7 +61,7 @@ transforment spontanément en dévas astraux sans intervention divine.
 Les talents et les capacités des dévas en font d’excellents éclaireurs et
 des agents d’élite pour les armées célestes. Ils transportent souvent de
 longs parchemins ondulant sur lesquels sont consignés les messages
-et les jugements des dieux.
+et les jugements des dieux. 
 
 Les parchemins des dévas astraux contiennent aussi des fragments de prophéties et des indices au sujet
 des grands événements du futur, ce qui explique pourquoi les dévas

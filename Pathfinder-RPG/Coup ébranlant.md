@@ -14,9 +14,9 @@ Categories:
 
 **Conditions.** [[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8.
 
-**Avantages.** Quand le personnage attaque un ennemi avec une Frappe décisive, il peut décider de subir un malus de –2 au jet d’attaque pour que cette attaque soit aussi une frappe déstabilisante. Il doit faire ce choix avant de faire son jet d’attaque.
+**Avantages.** Quand le personnage attaque un ennemi avec une Frappe décisive, il peut décider de subir un malus de –2 au jet d’attaque pour que cette attaque soit aussi une frappe déstabilisante. Il doit faire ce choix avant de faire son jet d’attaque. 
 
-Si ce dernier se solde par une réussite, la cible doit faire un jet de Vigueur DD = 10 + 1/2 niveau du personnage + modificateur de Force du personnage. Si elle échoue, elle est chancelante jusqu’au début du prochain tour du personnage. Une fois qu’elle s’est remise des effets du Coup ébranlant, elle est immunisée contre lui pendant 24 heures.
+Si ce dernier se solde par une réussite, la cible doit faire un jet de Vigueur DD = 10 + 1/2 niveau du personnage + modificateur de Force du personnage. Si elle échoue, elle est chancelante jusqu’au début du prochain tour du personnage. Une fois qu’elle s’est remise des effets du Coup ébranlant, elle est immunisée contre lui pendant 24 heures. 
 
 Les créatures artificielles, les créatures immunisées contre les coups critiques, les créatures intangibles, les plantes, les morts-vivants et les vases sont immunisés contre cet effet.
 

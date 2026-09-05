@@ -16,7 +16,7 @@ Categories:
 
 [[FAQ- Manuel des joueurs - Règles avancées#60|→]] Attaque magique : Utiliser ce don (page 156) est-il considéré comme une un pouvoir magique ou une capacité surnaturelle ?**'
 
-Il s'agit d'une capacité surnaturelle.
+Il s'agit d'une capacité surnaturelle.  
 Mise à jour : Page 156, ajoutez cette phrase à la fin de la description du don <u>[[Attaque magique]]</u> : « Cette attaque est une capacité surnaturelle. »}**Avantage.** Par une [[action simple]], le personnage peut sacrifier un sort préparé (ou un emplacement de sort inutilisé) de niveau supérieur ou égal à 1 et le transformer en un [[rayon]] ciblant n’importe quel ennemi situé dans un rayon de 9 mètres (6 cases) et nécessitant une [[attaque de contact à distance]]. Cette attaque inflige 2d6 points de dégâts plus 1d6 points de dégâts par niveau du sort (ou de l’emplacement) sacrifié. Les sorts de niveau 0 ne peuvent pas être sacrifiés dans le cadre de ce don. Cette attaque est une capacité surnaturelle.
 
 {s:CMy}

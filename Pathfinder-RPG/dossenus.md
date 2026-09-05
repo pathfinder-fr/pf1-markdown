@@ -44,7 +44,7 @@ LastModified: 2021-06-14 12:56
 Le dossenus est un prédateur souterrain qui chasse en meute. Il est capable de digérer n’importe quoi ou presque. Son corps se résume principalement à une tête et un visage, doté d’une immense gueule aux multiples rangées de dents noires semblables
 à des cailloux. Son corps atrophié possède deux bras malingres et quatre jambes maigrichonnes. Ses bras se terminent par des
 pinces de crabe qui lui permettent de manipuler des objets, quoi que maladroitement. Un dossenus mesure un peu moins d’un
-mètre vingt de long pour une trentaine de kilos.
+mètre vingt de long pour une trentaine de kilos. 
 
 Les dossenus sont connus pour leur voracité et leur capacité à creuser presque n’importe quoi à coups de dents. Leurs petits
 yeux semblent dénués de pensée ou d’idée mais ils sont pourtant un peu plus intelligents que les animaux ordinaires. Ils possèdent une structure sociale primitive, parlent et comprennent l’aklo et pratiquent une forme de religion très violente basée sur la consommation de toutes les autres formes de vie. Ils pratiquent des rites funéraires cannibales.
@@ -52,7 +52,7 @@ Les dossenus sont doués pour escalader et creuser. Ils mettent leurs talents à
 plafond, le plancher ou passer par-dessus leurs camarades pour noyer leurs proies sous le nombre.
 
 Ces créatures sont si tenaces qu’une fois qu’elles ont repéré une proie, elles la poursuivent jusqu’à sa mort ou la leur, ou
-jusqu’à ce que leur victime traverse un cours d’eau ou s’immerge quelque part. Le dossenus est incapable de nager, il coule à-pic, et l’eau profonde le terrorise.
+jusqu’à ce que leur victime traverse un cours d’eau ou s’immerge quelque part. Le dossenus est incapable de nager, il coule à-pic, et l’eau profonde le terrorise. 
 
 Une fois toutes les quelques générations, les dossenus se rassemblent en grand nombre, parfois par milliers. Après des semaines de vénération, de jeûne et d’accouplements frénétiques, ils sortent de leur nid sous forme d’une gigantesque nuée bien décidée à dévorer toutes les créatures vivantes qu’elle croise.
 </div></td></tr></table>

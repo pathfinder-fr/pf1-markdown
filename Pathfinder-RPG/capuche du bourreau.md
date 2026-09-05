@@ -38,7 +38,7 @@ LastModified: 2021-04-18 12:18
 - **Sensible à l’alcool (Ext)**. L’alcool fort blesse les capuches. Un quart de litre aspergé lui inflige 1 point de dégâts. Un litre la neutralise et l’oblige à relâcher sa prise sur une cible agrippée. 
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[raie des profondeurs|raies des profondeurs]].***</li></ul>Ces jeunes raies des profondeurs ont la forme grossière d’une capuche (d’où leur
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[raie des profondeurs|raies des profondeurs]].***</li></ul>Ces jeunes raies des profondeurs ont la forme grossière d’une capuche (d’où leur 
 nom) et se déplacent laborieusement en traînant leur masse corporelle
 à l’aide de leurs fins tentacules. Lorsqu’une capuche du bourreau
 trouve un terrain de chasse qui lui convient, le plus souvent

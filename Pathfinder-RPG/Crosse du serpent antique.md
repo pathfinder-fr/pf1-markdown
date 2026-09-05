@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Crosse du serpent antique|{s:RSE}}
 **Aura** [[école Divination|Divination]], [[Évocation]] et [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 70 000 po ; **Poids** 2,5 kg
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce bâton de fonction, nu au sommet et incurvé, possède tous les pouvoirs d’un *[[sceptre de flétrissement]]* et d’un *[[sceptre de détection des ennemis]]*. Il peut aussi stocker un sort offensif, comme une arme dotée de la propriété *[[stockage de sort (propriété)|stockage de sort]]*.
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[contagion]]*, *[[vision lucide]]*, le créateur doit être au moins de niveau 12 ; **Coût** 35 000 po

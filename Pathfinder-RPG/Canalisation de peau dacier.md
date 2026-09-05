@@ -7,8 +7,8 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*La bénédiction de Torag soigne le corps et endurcit la peau.*
+{s:cs}{s:ISG}*La bénédiction de Torag soigne le corps et endurcit la peau.* 
 
-**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6, suivant de [[Torag (technique)|Torag]].
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6, suivant de [[Torag (technique)|Torag]]. 
 
 **Avantage.** Une fois par jour, lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive pour soigner les créatures vivantes, il peut accorder aux créatures soignées une [[RD|réduction de dégâts]]. Les créatures affectées obtiennent une RD 2/- (ou augmentent leur RD/- de 2, si elles ont déjà une RD/-) pendant un nombre de minutes égal au modificateur de [[Charisme]] du personnage (minimum 1 minute).

@@ -18,7 +18,7 @@ La réputation d’un conspirateur le précède. Au niveau 1, une fois par jour,
 
 Au niveau 3, un conspirateur peut utiliser cette aptitude une fois de plus par jour et ce nombre d’utilisations quotidiennes augmente de 1 tous les 3 niveaux par la suite. Si le conspirateur utilise cette aptitude à plusieurs reprises sur le même allié, il lui confère les avantages sur des tests de Diplomatie ou d’Intimidation supplémentaires.
 
-Au niveau 12, un conspirateur peut utiliser cette aptitude pour conférer à son allié ses rangs de compétence, ce qui produit les mêmes effets que cette aptitude au niveau 1 mais avec une plus grande variété de compétences. Le conspirateur peut uniquement conférer cet avantage pour un test de compétence pour laquelle il peut utiliser l’inspiration sans dépenser d’utilisations d’inspiration.
+Au niveau 12, un conspirateur peut utiliser cette aptitude pour conférer à son allié ses rangs de compétence, ce qui produit les mêmes effets que cette aptitude au niveau 1 mais avec une plus grande variété de compétences. Le conspirateur peut uniquement conférer cet avantage pour un test de compétence pour laquelle il peut utiliser l’inspiration sans dépenser d’utilisations d’inspiration. 
 :Par exemple, un conspirateur qui possède le talent [[Talents (enquêteur)#INSPIRATIONDELAPEGRE|inspiration de la pègre]] peut renforcer les tests de [[Bluff]], [[Sabotage]], [[Déguisement]] ou [[Escamotage]] de son allié, en choisissant une unique compétence pour chaque utilisation de l’aptitude.
 
 Cette aptitude remplace recherche de pièges et sens des pièges.

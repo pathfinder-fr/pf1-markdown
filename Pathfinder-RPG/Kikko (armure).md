@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 250 po ; **Poids** 12,5 kg
-**Bonus d'armure** +5 ; **Bonus de Dex maximal** +4 ; **Malus d'armure** -3
-**Risque d'échec des sorts profanes** 20% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
+{s:AE}{s:UC}**Prix** 250 po ; **Poids** 12,5 kg  
+**Bonus d'armure** +5 ; **Bonus de Dex maximal** +4 ; **Malus d'armure** -3  
+**Risque d'échec des sorts profanes** 20% ; **Vitesse** 6 m/4,5 m (4 c/3 c)  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]] ([[armes orientales|orientale]])</span>
----
+<hr />
 Le kikko est fait de plaques hexagonales en fer intelligemment disposées et cousues au vêtement, donnant ainsi au porteur une plus grande souplesse que celle qu’autorisent les nombreuses armures offrant une défense similaire. On peut laisser les plaques visibles ou les cacher sous un vêtement.

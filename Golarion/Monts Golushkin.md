@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Les Monts Golushkin forment la frontière entre le [[brévoy]] et la [[Numérie]].
+Les Monts Golushkin forment la frontière entre le [[brévoy]] et la [[Numérie]]. 
 
 Ils sont situés en plein coeur de l'ancien royaume d'[[Issie]] avant l'unification du [[Brévoy]]. Les monts sont remplis de ressources minières telles que le fer, le nickel, le cuivre l'argent et l'étain. Ces ressources sont exploitées par les nains du clan Golka. La famille de la Maison Garess ont développé de bonnes relations avec ces nains, profitant de leurs exploitations pour développer le travail des métaux.

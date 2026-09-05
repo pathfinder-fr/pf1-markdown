@@ -50,7 +50,7 @@ Ce tabac peut être utilisé pour annuler les effets de la nausée. Si le person
 
 {s:mca}{s:Reference|Tonique}
 #### Tonique
-Ce liquide génère une agréable sensation de chaleur quand on le consomme. Pendant l’heure qui suit la consommation, le personnage gagne un bonus de moral de +2 aux jets de sauvegarde contre la terreur. L’utilisation de plus d’une dose en l’espace de 24 heures rend le personnage nauséeux pendant 1 heure.
+Ce liquide génère une agréable sensation de chaleur quand on le consomme. Pendant l’heure qui suit la consommation, le personnage gagne un bonus de moral de +2 aux jets de sauvegarde contre la terreur. L’utilisation de plus d’une dose en l’espace de 24 heures rend le personnage nauséeux pendant 1 heure. 
 
 
 
@@ -135,7 +135,7 @@ une seule arme ou 10 munitions.
 
 {s:mca}{s:Reference|vomitive}
 #### Capsule vomitive
-Ces petites capsules se composent d’un mélange concentré de plantes émétiques. Pour utiliser une capsule, le personnage la mord et en ingère le contenu, ce qui provoque presque immédiatement des vomissements, qui durent 1 round complet pendant lequel le personnage ne peut entreprendre aucune action. Le round suivant, il récupère complètement et ne souffre d’aucun effet secondaire. Ces capsules sont le plus souvent utilisées par les roublards, qui travaillent en équipe afin de créer des diversions et des spectacles pour détourner l’attention des gens de leurs activités, ainsi que par ceux qui cherchent à feindre la maladie, comme les pugilistes qui essayent d’éviter le combat ou les criminels qui souhaitent semer le chaos pendant une arrestation.
+Ces petites capsules se composent d’un mélange concentré de plantes émétiques. Pour utiliser une capsule, le personnage la mord et en ingère le contenu, ce qui provoque presque immédiatement des vomissements, qui durent 1 round complet pendant lequel le personnage ne peut entreprendre aucune action. Le round suivant, il récupère complètement et ne souffre d’aucun effet secondaire. Ces capsules sont le plus souvent utilisées par les roublards, qui travaillent en équipe afin de créer des diversions et des spectacles pour détourner l’attention des gens de leurs activités, ainsi que par ceux qui cherchent à feindre la maladie, comme les pugilistes qui essayent d’éviter le combat ou les criminels qui souhaitent semer le chaos pendant une arrestation. 
 
 {s:mca}{s:Reference|vomitive}
 #### Corde de vigne-sang
@@ -248,9 +248,9 @@ un bonus alchimique de +5 aux tests d’Intimidation.
 
 {s:mca}{s:Reference|Pastel}
 #### Trousse à pastels de guède
-Bien qu'associé à des pastels de guède, les ingrédients alchimiques de cette pâte bleue peuvent varier considérablement. Quand vous préparez un sort, vous pouvez réduire les composantes matérielles du sort en poussières et les mélanger à cette pâte pour ensuite l'utiliser pour peindre directement sur votre corps, ce qui vous permet de lancer le sort comme si vous bénéficiez des effets de [[Dispense de composantes matérielles]].
-De plus, en peignant des motifs complexes représentant les composantes somatiques pendant 10 minutes, ce qui prend 10 minutes, et en réussissant un test d'[[Art de la magie]] contre un [[DD]] égal à 15 + le niveau du sort, vous pouvez également lancer le sort comme si vous bénéficiez d'[[Incantation statique]].
-Vous ne pouvez jamais avoir plus d'un sort peint sur votre corps et, si vous lancez le sort ainsi préparé ou si la peinture est enlevée pour une raison ou pour une autre, la peinture n'a plus d'effet.
+Bien qu'associé à des pastels de guède, les ingrédients alchimiques de cette pâte bleue peuvent varier considérablement. Quand vous préparez un sort, vous pouvez réduire les composantes matérielles du sort en poussières et les mélanger à cette pâte pour ensuite l'utiliser pour peindre directement sur votre corps, ce qui vous permet de lancer le sort comme si vous bénéficiez des effets de [[Dispense de composantes matérielles]].  
+De plus, en peignant des motifs complexes représentant les composantes somatiques pendant 10 minutes, ce qui prend 10 minutes, et en réussissant un test d'[[Art de la magie]] contre un [[DD]] égal à 15 + le niveau du sort, vous pouvez également lancer le sort comme si vous bénéficiez d'[[Incantation statique]].  
+Vous ne pouvez jamais avoir plus d'un sort peint sur votre corps et, si vous lancez le sort ainsi préparé ou si la peinture est enlevée pour une raison ou pour une autre, la peinture n'a plus d'effet.  
 Les pastels de guède se présentent sous forme solide, en petits blocs concentrés (coûtant 60 po chacun) qui doivent être mélangés à un peu d'eau et aux composantes matérielles puis écrasés en une pâte sur une palette en bois ou en pierre. Une trousse standard contient une palette 5 blocs de peinture. Un bloc produit suffisamment de peintures pour 10 motifs incluant des composantes matérielles ou 1 motif de sort statique. Les pastels à guède ne présentent aucun intérêt pour les individus qui ne lancent pas de sorts.
 
 ### Armes alchimiques

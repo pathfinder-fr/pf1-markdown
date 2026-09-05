@@ -10,7 +10,7 @@ Categories:
 {s:BDTitre|Cache-œil de pirate|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 2 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 2.600 po ; **Poids** –
 (((Description)))
-Ce cache-œil de soie noire est brodé d’un crâne et d’os croisés en fil d’argent. Son porteur gagne un bonus de compétence de +2 aux tests de [[Natation]] et d’[[Escalade]]. De plus, une fois par jour et sur commande, il peut bénéficier des effets d’un sort de *[[caresse de la mer]]* ou de *[[repli expéditif]]*.
+Ce cache-œil de soie noire est brodé d’un crâne et d’os croisés en fil d’argent. Son porteur gagne un bonus de compétence de +2 aux tests de [[Natation]] et d’[[Escalade]]. De plus, une fois par jour et sur commande, il peut bénéficier des effets d’un sort de *[[caresse de la mer]]* ou de *[[repli expéditif]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[repli expéditif]]*, *[[caresse de la mer]]* ; **Coût** 1.300 po
 </div>

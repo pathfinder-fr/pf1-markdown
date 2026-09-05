@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:09
 {s:BDTitre|Kukri de la saignée|{s:AE}}
 **Auras** [[Nécromancie]] faible  ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 6.308 po ; **Poids** 1 kg
 (((Description)))
-Sur un coup critique réussi, ce [[Kukri (arme)|kukri]] +1 inflige 2 points de dégâts de [[saignement]] qui se cumulent avec tout autre dégât de [[saignement]] déjà infligé par l’attaque. À chaque fois que le personnage inflige des dégâts de [[saignement]] avec cette arme, il gagne un montant de points de vie temporaires égal à celui des dégâts de saignement infligés. Il ne donne aucun point de vie temporaire si la cible était déjà victime d’un [[saignement]]. Ces points de vie temporaires perdurent pendant 1 minute.
+Sur un coup critique réussi, ce [[Kukri (arme)|kukri]] +1 inflige 2 points de dégâts de [[saignement]] qui se cumulent avec tout autre dégât de [[saignement]] déjà infligé par l’attaque. À chaque fois que le personnage inflige des dégâts de [[saignement]] avec cette arme, il gagne un montant de points de vie temporaires égal à celui des dégâts de saignement infligés. Il ne donne aucun point de vie temporaire si la cible était déjà victime d’un [[saignement]]. Ces points de vie temporaires perdurent pendant 1 minute. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[sort saignement|saignement]]*, *[[baiser du vampire]]*  ; **Coût** 3.308 po
 </div>

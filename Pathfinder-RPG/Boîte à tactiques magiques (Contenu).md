@@ -7,7 +7,7 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-[Magic Tactics Toolbox](https://paizo.com/products/btpy9ict) a été publié en Mai 2016 par Paizo inc.
+[Magic Tactics Toolbox](https://paizo.com/products/btpy9ict) a été publié en Mai 2016 par Paizo inc.  
 Traduit par la communauté à partir de Août 2024 (<abbr title="Initiateur, traducteur, relecteur"><u>Undercov</u></abbr>, <abbr title="Traducteur, relecteur">Kubixcube</abbr>, <abbr title="Traducteur, relecteur">Phenixor</abbr>).
 
 Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté.
@@ -15,55 +15,55 @@ Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté
 <nav class="wiki-toc"></nav>
 
 ### Archétypes
-[[Cryptozoologiste(enquêteur)]] (Cryptid Scholar (Investigator))
-[[Excavateur Dimensionnel (alchimiste)]] (Dimensional Excavator (Alchemist))
-[[Fléau Divin (prêtre)]] (Divine Scourge (Cleric))
-[[Berger (druide)]] (Drovier (Druid))
-[[Ravageuse (sorcière)]] (Havocker (Witch))
-[[Contremaître (chaman)]] (Overseer (Shaman))
-[[Guetteur Patient (chasseur)]] (Patient Ambusher (Hunter))
-[[Interrogateur (enquêteur)]] (Questioner (Investigator))
-[[Trappeur de Sorts // Piégomancien (magus)]] (Spell Trapper (Magus))
-[[Toxicologue (druide)]] (Toxicologist (Druid))
+[[Cryptozoologiste(enquêteur)]] (Cryptid Scholar (Investigator))  
+[[Excavateur Dimensionnel (alchimiste)]] (Dimensional Excavator (Alchemist))  
+[[Fléau Divin (prêtre)]] (Divine Scourge (Cleric))  
+[[Berger (druide)]] (Drovier (Druid))  
+[[Ravageuse (sorcière)]] (Havocker (Witch))  
+[[Contremaître (chaman)]] (Overseer (Shaman))  
+[[Guetteur Patient (chasseur)]] (Patient Ambusher (Hunter))  
+[[Interrogateur (enquêteur)]] (Questioner (Investigator))  
+[[Trappeur de Sorts // Piégomancien (magus)]] (Spell Trapper (Magus))  
+[[Toxicologue (druide)]] (Toxicologist (Druid))  
 [[Infiltré Urbain (inquisiteur)]] (Urban Infiltrator (Inquisitor))
 
 
 
 ### Dons
-[[Suspension]] (Abeyance)
-[[Maîtrise de caractéristique]] (Ability Mastery)
-[[Tir assuré]] (Acute Shot)
-[[Frappe alchimique]] (Alchemical Strike)
-[[Lame émoussée]] (Blunt Blade)
-[[Sort brusque]] (Brisk Spell)
-[[Œil du taureau]] (Bull's Eye)
-[[Amplification brûlante]] (Burning Amplification)
-[[Cataracte]] (Cataract)
-[[Canalisation variable]] (Channeling Variance)
-[[Amplification refroidissante]] (Chilling Amplification)
-[[Maîtrise du camouflage]] (Concealment Mastery)
-[[Surconsommation]] (Consumption)
-[[Regard déconcertant]] (Disconcerting Stare)
-[[Assaut mystique]] (Eldritch Assault)
-[[Sort encourageant]] (Encouraging Spell)
-[[Métacinétique étendue]] (Expanded Metakinesis)
-[[Maléfice sanglant supplémentaire]] (Extra Blood Hex)
-[[Variante supplémentaire]] (Extra Variance)
-[[Vacillement]] (Falter)
-[[Maîtrise du bouclier de force]] (Force Shield Mastery)
-[[Handicap]] (Hinder)
-[[Dissipation des obstacles]] (Hinderance Dismissal)
-[[Maîtrise instrumentale]] (Implement Mastery)
-[[Regard douloureux multiple]] (Manifold Stare)
-[[Ritualiste accompli]] (Practiced Ritualist)
-[[Maîtrise des objets raciaux]] (Racial Item Mastery)
-[[Maîtrise de la résistance]] (Resistance Mastery)
-[[Maîtrise de la restauration]] (Restoration Mastery)
-[[Écailles et peau]] (Scale and Skin)
-[[Amplification foudroyante]] (Shocking Amplification)
-[[Maîtrise symbolique]] (Symbolic Mastery)
-[[Incertitude]] (Uncertainty)
-[[Sort vaste]] (Vast Spell)
+[[Suspension]] (Abeyance)  
+[[Maîtrise de caractéristique]] (Ability Mastery)  
+[[Tir assuré]] (Acute Shot)  
+[[Frappe alchimique]] (Alchemical Strike)  
+[[Lame émoussée]] (Blunt Blade)  
+[[Sort brusque]] (Brisk Spell)  
+[[Œil du taureau]] (Bull's Eye)  
+[[Amplification brûlante]] (Burning Amplification)  
+[[Cataracte]] (Cataract)  
+[[Canalisation variable]] (Channeling Variance)  
+[[Amplification refroidissante]] (Chilling Amplification)  
+[[Maîtrise du camouflage]] (Concealment Mastery)  
+[[Surconsommation]] (Consumption)  
+[[Regard déconcertant]] (Disconcerting Stare)  
+[[Assaut mystique]] (Eldritch Assault)  
+[[Sort encourageant]] (Encouraging Spell)  
+[[Métacinétique étendue]] (Expanded Metakinesis)  
+[[Maléfice sanglant supplémentaire]] (Extra Blood Hex)  
+[[Variante supplémentaire]] (Extra Variance)  
+[[Vacillement]] (Falter)  
+[[Maîtrise du bouclier de force]] (Force Shield Mastery)  
+[[Handicap]] (Hinder)  
+[[Dissipation des obstacles]] (Hinderance Dismissal)  
+[[Maîtrise instrumentale]] (Implement Mastery)  
+[[Regard douloureux multiple]] (Manifold Stare)  
+[[Ritualiste accompli]] (Practiced Ritualist)  
+[[Maîtrise des objets raciaux]] (Racial Item Mastery)  
+[[Maîtrise de la résistance]] (Resistance Mastery)  
+[[Maîtrise de la restauration]] (Restoration Mastery)  
+[[Écailles et peau]] (Scale and Skin)  
+[[Amplification foudroyante]] (Shocking Amplification)  
+[[Maîtrise symbolique]] (Symbolic Mastery)  
+[[Incertitude]] (Uncertainty)  
+[[Sort vaste]] (Vast Spell)  
 [[Maîtrise de lévocation darme|Maîtrise de l'évocation d'arme]] (Weapon Evoker Mastery)
 
 <center>
@@ -202,29 +202,29 @@ Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté
 
 </center>
 
-Voir aussi :
+Voir aussi : 
 - [[Dons de maléfice sanglant]]
 - [[Dons dobjet|Dons de maîtrise d'objets magiques]]
 
 ### Objets magiques A VALIDER
 #### Objets merveilleux
-**Aucun (sans emplacement).**
-[[Feuillet du tueur de monstres]] (Monster Killer's Folio)
-[[Prisme de focalisation saccadée]] (Saccadic Focusing Prism)
-[[Craie de sceau]] (Sigil Chalk)
+**Aucun (sans emplacement).**  
+[[Feuillet du tueur de monstres]] (Monster Killer's Folio)  
+[[Prisme de focalisation saccadée]] (Saccadic Focusing Prism)  
+[[Craie de sceau]] (Sigil Chalk)  
 
-**Tête.**
+**Tête.**  
 [[Aiguille à connaissances]] (Lore Needle)
 
 <div style="border-top:1px dashed #4b3124"/>
 
 #### Sceptres
-[[Sceptre de force gravitationnelle]] (Gravitic Force Rod)
-[[Sceptre de soins entravés]] (Rod of Hindered Healing)
-[[Sceptre de malédictions mineures]] (Rod of Minor Curses)
-[[Sceptre de fosses périlleuses]] (Rod of Perilous Pits)
-[[Sceptre de clairvoyance]] (Rod of Spellsight)
-[[Sceptre de menace subtile]] (Rod of Subtle Menace)
+[[Sceptre de force gravitationnelle]] (Gravitic Force Rod)  
+[[Sceptre de soins entravés]] (Rod of Hindered Healing)  
+[[Sceptre de malédictions mineures]] (Rod of Minor Curses)  
+[[Sceptre de fosses périlleuses]] (Rod of Perilous Pits)  
+[[Sceptre de clairvoyance]] (Rod of Spellsight)  
+[[Sceptre de menace subtile]] (Rod of Subtle Menace)  
 [[Sceptre denchevêtrement ectoplasmique|Sceptre d'enchevêtrement ectoplasmique]] (Rod of Tangling Ectoplasm)
 
 {s:filtrable}
@@ -307,7 +307,7 @@ Voir aussi :
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Découvertes arcaniques de magicien
-[[Découvertes arcaniques#Magie pieuse|Magie pieuse]] (Faith Magic),
+[[Découvertes arcaniques#Magie pieuse|Magie pieuse]] (Faith Magic),  
 [[Découvertes arcaniques#Préparationpsychique|Préparation psychique]] (Psychic Preparation).
 
 (((À traduire à la suite)))
@@ -315,7 +315,7 @@ Voir aussi :
 <div style="border-top:1px dashed #4b3124"/>
 #### Entraînements aux armes avancés du guerrier
 <div class="article_3col">
-[[Entraînements avancés#Esprit guerrier|Esprit guerrier]],
+[[Entraînements avancés#Esprit guerrier|Esprit guerrier]],  
 [[Entraînements avancés#Maîtrise des objets|Maîtrise des objets]].
 </div>
 
@@ -323,25 +323,25 @@ Voir aussi :
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Épopées de scalde
-[[Épopées#|Laïc du roi érudit (art oratoire, chant)]] Lay of Scholar-King (Oratory, Sing),
+[[Épopées#|Laïc du roi érudit (art oratoire, chant)]] Lay of Scholar-King (Oratory, Sing),  
 [[Épopées#|Saga de la reine sorcière (art oratoire, chant)]] Saga of the Witch Queen (Oratory, Sing).
 
 
 <div style="border-top:1px dashed #4b3124"/>
 
 #### Mutations de lignages d'ensorceleur/sanguin
-[[Mutations de lignage#|Sang ravageur]] (Blood Havoc)
-[[Mutations de lignage#|Sang intense]] (Blood Intensity)
+[[Mutations de lignage#|Sang ravageur]] (Blood Havoc)  
+[[Mutations de lignage#|Sang intense]] (Blood Intensity)  
 [[Mutations de lignage#|Sang transperçant]] (Blood Piercing)
 
 <div style="border-top:1px dashed #4b3124"/>
 
 
 #### Talents d'enquêteur
-[[Talents (enquêteur)#CONDUITETRANGE|Conduit étrange]] (Eldritch Conduit)
-[[Talents (enquêteur)#UNVISAGEPARMITANTDAUTRES|Un visage parmi tant d'autres]] (Just a Face in the Crowd)
-[[Talents (enquêteur)#EXPLORATEUROCCULTE|Explorateur occulte]] (Occult Dungeoneer)
-[[Talents (enquêteur)#STOCKAGEDESORT|Stockage de sort]] (Spell Storing)
+[[Talents (enquêteur)#CONDUITETRANGE|Conduit étrange]] (Eldritch Conduit)  
+[[Talents (enquêteur)#UNVISAGEPARMITANTDAUTRES|Un visage parmi tant d'autres]] (Just a Face in the Crowd)  
+[[Talents (enquêteur)#EXPLORATEUROCCULTE|Explorateur occulte]] (Occult Dungeoneer)  
+[[Talents (enquêteur)#STOCKAGEDESORT|Stockage de sort]] (Spell Storing)  
 [[Talents (enquêteur)#DEPUISTOUTCETEMPS|Depuis tout ce temps]] (The Whole Time)
 
 (((À traduire à la suite)))
@@ -349,20 +349,20 @@ Voir aussi :
 <div style="border-top:1px dashed #4b3124"/>
 
 #### Talents de roublard
-**Talents.**
-[[Talents#PRESENCEATTENUEE|Présence atténuée]] (Dampen Presence) √ don nom traduit
-[[Talents#CONDUITETRANGE|Conduit étrange]] (Eldritch Conduit (Su)) √
-[[Talents#MASQUEDINNOCENCE|Masque d'innocence]] (Innocent Facade (Sp)) √ (c'était "Apparence innocente", mais on a un sort de *forme innocente* dans le même bouquin)
-[[Talents#UNVISAGEPARMITANTDAUTRES|Un visage parmi tant d'autres]] (Just a Face in the Crowd (Su)) √
-[[Talents#EXPLORATEUROCCULTE|Explorateur occulte]] (Occult Dungeoneer (Su)) √ "Explorateur" rapport à Connaissances (exploration souterraine)/Knowledge (dungeoneering)
-[[Talents#PERCEPTIONRAPIDE|Perception rapide]] (Rapid Perception (Su)) √
-[[Talents#IMPERMEABLEAUXSCRUTATIONS|Imperméable aux scrutations]] (Scry Slip (Su)) √ (c'était "Échapper aux regards") pour clarifier le rapport à la scrutation
-[[Talents#STOCKAGEDESORT|Stockage de sort]] (Spell Storing (Su)) √
-[[Talents#TIREUREMBUSQUESUPERIEUR|Tireur embusqué supérieur]] (Superior Sniper) √
-[[Talents#DEPUISTOUTCETEMPS|Depuis tout ce temps]] (The Whole Time (Su)) √ (c'était "Tout le temps") pour faire l'emphase sur le fait que le perso. a toujours été là
+**Talents.**  
+[[Talents#PRESENCEATTENUEE|Présence atténuée]] (Dampen Presence) √ don nom traduit  
+[[Talents#CONDUITETRANGE|Conduit étrange]] (Eldritch Conduit (Su)) √  
+[[Talents#MASQUEDINNOCENCE|Masque d'innocence]] (Innocent Facade (Sp)) √ (c'était "Apparence innocente", mais on a un sort de *forme innocente* dans le même bouquin)  
+[[Talents#UNVISAGEPARMITANTDAUTRES|Un visage parmi tant d'autres]] (Just a Face in the Crowd (Su)) √  
+[[Talents#EXPLORATEUROCCULTE|Explorateur occulte]] (Occult Dungeoneer (Su)) √ "Explorateur" rapport à Connaissances (exploration souterraine)/Knowledge (dungeoneering)  
+[[Talents#PERCEPTIONRAPIDE|Perception rapide]] (Rapid Perception (Su)) √  
+[[Talents#IMPERMEABLEAUXSCRUTATIONS|Imperméable aux scrutations]] (Scry Slip (Su)) √ (c'était "Échapper aux regards") pour clarifier le rapport à la scrutation  
+[[Talents#STOCKAGEDESORT|Stockage de sort]] (Spell Storing (Su)) √  
+[[Talents#TIREUREMBUSQUESUPERIEUR|Tireur embusqué supérieur]] (Superior Sniper) √  
+[[Talents#DEPUISTOUTCETEMPS|Depuis tout ce temps]] (The Whole Time (Su)) √ (c'était "Tout le temps") pour faire l'emphase sur le fait que le perso. a toujours été là  
 
-**Talents de maître.**
-[[Talents#APPARENCEDESINVOLTE|Apparence désinvolte]] (Glib Facade (Sp)) √
+**Talents de maître.**  
+[[Talents#APPARENCEDESINVOLTE|Apparence désinvolte]] (Glib Facade (Sp)) √  
 [[Talents#LIBERATIONDUKI|Libération du ki]] (Unlock Ki (Su)) √
 
 (((À traduire à la suite)))
@@ -370,37 +370,37 @@ Voir aussi :
 
 ### Règles
 <div class="article_3col">
-[[Épopées|Les épopées de scalde]],
+[[Épopées|Les épopées de scalde]],  
 [[Mutations de lignage|Les mutations de lignage]].
 </div>
 
 
 ### Sorts
-[[Communion akashique]] (Akashic Communion) √
-[[Infortune dAlaznist|Infortune d'Alaznist]] (Alaznist's Jinx) √
-[[Contrat de sage]] (Bind Sage) √ => Faire un lien vers https://www.pathfinder-fr.org/Wiki/Golarion.Kaer%20Maga.ashx
-[[Mots mordants]] (Biting Words) √
-[[Poings osseux]] (Bone Fists) √
-[[Mixture pour bombe rebondissante]] (Bouncing Bomb Admixture) √
-[[Marionnette doreille|Marionnette d'oreille]] (Earsend) √
-[[Bond temporel]] (Flash Forward) proposition (ou "Saut" ?)
-[[Malédiction délasticité|Malédiction d'élasticité]] (Flexile Curse) √
-[[Lames cachées]] (Hidden Blades) √
-[[Voile impénétrable]] (Impenetrable Veil) √
-[[Forme innocente]] (Innocuous Shape) √ (c'était "Apparence innocente") rapport aux autres sorts de forme
-[[Disproportion]] (Irregular Size) √
-[[Malédiction de démangeaison]] (Itching Curse) √
-[[Cauchemar de Kalistroctrat]] (Kalistocrat's Nightmare) √
-[[sort Héritage perdu|Héritage perdu]] (Lost Legacy) √
-[[Antidétection mineure]] (Nondetection, Lesser) √
-[[Forme particulaire]] (Particulate Form) √
-[[Rappel imaginaire]] (Phantasmal Reminder) √
-[[Défi phasique]] (Phasic Challenge) √ (ou "Duel" ?)
-[[Lâcher les chiens]] (Release the Hounds) √
-[[Fosse mouvante]] (Roaming Pit) √ ou "errante"
-[[Grimoire isolé]] (Secluded Grimoire) √
-[[Malédiction des sorts]] (Spellcurse) j'aimerais proposer "Mauvais sort" pour l'expression consacrée, mais le nom actuel fonctionne
-[[Symbole de distraction]] (Symbol of Distraction) √
-[[Contact soporifique]] (Touch of Slumber) √
-[[Mur dos|Mur d'os]] (Wall of Bone) √
+[[Communion akashique]] (Akashic Communion) √  
+[[Infortune dAlaznist|Infortune d'Alaznist]] (Alaznist's Jinx) √  
+[[Contrat de sage]] (Bind Sage) √ => Faire un lien vers https://www.pathfinder-fr.org/Wiki/Golarion.Kaer%20Maga.ashx  
+[[Mots mordants]] (Biting Words) √  
+[[Poings osseux]] (Bone Fists) √  
+[[Mixture pour bombe rebondissante]] (Bouncing Bomb Admixture) √  
+[[Marionnette doreille|Marionnette d'oreille]] (Earsend) √   
+[[Bond temporel]] (Flash Forward) proposition (ou "Saut" ?)  
+[[Malédiction délasticité|Malédiction d'élasticité]] (Flexile Curse) √  
+[[Lames cachées]] (Hidden Blades) √  
+[[Voile impénétrable]] (Impenetrable Veil) √  
+[[Forme innocente]] (Innocuous Shape) √ (c'était "Apparence innocente") rapport aux autres sorts de forme  
+[[Disproportion]] (Irregular Size) √  
+[[Malédiction de démangeaison]] (Itching Curse) √  
+[[Cauchemar de Kalistroctrat]] (Kalistocrat's Nightmare) √  
+[[sort Héritage perdu|Héritage perdu]] (Lost Legacy) √  
+[[Antidétection mineure]] (Nondetection, Lesser) √  
+[[Forme particulaire]] (Particulate Form) √  
+[[Rappel imaginaire]] (Phantasmal Reminder) √  
+[[Défi phasique]] (Phasic Challenge) √ (ou "Duel" ?)  
+[[Lâcher les chiens]] (Release the Hounds) √  
+[[Fosse mouvante]] (Roaming Pit) √ ou "errante"  
+[[Grimoire isolé]] (Secluded Grimoire) √  
+[[Malédiction des sorts]] (Spellcurse) j'aimerais proposer "Mauvais sort" pour l'expression consacrée, mais le nom actuel fonctionne  
+[[Symbole de distraction]] (Symbol of Distraction) √  
+[[Contact soporifique]] (Touch of Slumber) √  
+[[Mur dos|Mur d'os]] (Wall of Bone) √  
 [[Distorsion du métal]] (Warp Metal) √

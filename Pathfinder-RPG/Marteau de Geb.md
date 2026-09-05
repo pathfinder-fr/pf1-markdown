@@ -9,12 +9,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un gant de cuir recouvert d’une couche d’herbes d’embaumement séchées)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Effet** sphère contenant les restes de 3 morts-vivants détruits ou plus
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un gant de cuir recouvert d’une couche d’herbes d’embaumement séchées)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Effet** sphère contenant les restes de 3 morts-vivants détruits ou plus  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** oui
 
 Des siècles de guerre contre le Roi-Mage ont formé les nécromanciens du Domaine du Mort à l’exploitation de la moindre ressource que sont les morts-vivants décérébrés rassemblés en troupes de seconde main au service du Mort.

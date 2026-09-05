@@ -8,11 +8,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une mouche vivante)
-**Portée** [[portée|personnelle]]
-**Cible** le personnage
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une mouche vivante)  
+**Portée** [[portée|personnelle]]  
+**Cible** le personnage  
 **Durée** 1 [[round]]/[[niveau]]
 
 Chaque [[round]], le personnage peut lancer un dé d’inspiration sans dépenser d’utilisation d’[[enquêteur#INSPIRATION|inspiration]] pour gagner un bonus d’esquive à la [[CA]] égal au résultat obtenu pour le round. Le personnage est immunisé aux dégâts de précision (y compris les dégâts supplémentaires infligés par l’exploit d’[[exploits (bretteur)#ATTAQUEPRECISE|attaque précise]], l’[[attaque sournoise]], le [[enquêteur#COMBATETUDIE|combat étudié]] et la [[enquêteur#FRAPPEETUDIEE|frappe étudiée]]).

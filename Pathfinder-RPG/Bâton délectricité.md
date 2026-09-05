@@ -8,9 +8,9 @@ LastModified: 2024-05-27 16:21
 {s:AE}{s:BDTitre|Bâton d'électricité|}
 **Aura** [[Évocation]] forte ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 31 900 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en argent brillant dont la pointe a la forme d’un éclair permet d’utiliser les sorts suivants :
-• *[[décharge électrique]]* (1 charge)
-• *[[éclair]]* (2 charge)
+Ce bâton en argent brillant dont la pointe a la forme d’un éclair permet d’utiliser les sorts suivants :  
+• *[[décharge électrique]]* (1 charge)  
+• *[[éclair]]* (2 charge)  
 • *[[éclair multiple]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[décharge électrique]]*, *[[éclair]]*, *[[éclair multiple]]* ; **Coût** 15 950 po

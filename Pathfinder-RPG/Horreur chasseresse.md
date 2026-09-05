@@ -55,7 +55,7 @@ Dans les coins les plus sombres du Grand Au-Delà, de puissants
 seigneurs démons sont passés maîtres dans l’art de façonner la chair
 protoplasmique des Abysses en des monstruosités dénuées de vie et
 d’émotion, monstruosités qui n’éprouvent aucun désir de se soustraire
-aux ordres qui leur sont donnés.
+aux ordres qui leur sont donnés. 
 
 Les plus connues de ces créatures artificielles sont les horreurs chasseresses. Il s’agit de gigantesques
 créations en forme d’araignées capables de canaliser de puissantes
@@ -85,7 +85,7 @@ d’[[Allié suprême doutreplan|allié suprême d’outreplan]] ou de [[contrat
 lanceur du sort doit s’assurer d’utiliser des encens
 spéciaux et de tracer des diagrammes complexes sur
 le sol et les murs avec des encres phosphorescentes
-très coûteuses.
+très coûteuses. 
 
 Sans cela, l’horreur
 chasseresse se retourne contre

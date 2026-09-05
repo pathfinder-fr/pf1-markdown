@@ -13,7 +13,7 @@ LastModified: 2019-01-27 10:09
 
 Cela affecte les êtres qui sont affectés par une magie de transmutation (comme *[[modification dapparence|modification d'apparence]]* ou *[[état gazeux]]*, par les illusions déceptives (comme *[[déguisement]]* ou *[[invisibilité]]* ou par des effets similaires (à la discrétion du MJ). Cette capacité peut même affecter les créatures utilisant des des facultés surnaturelles, tel que l'aptitude de changement de forme d'un vampire qui prend une forme gazeuse, bien que vous subissez un malus de -5 à votre tentative de dissiper de telles capacités.
 
-Une créature affectée est sujette à un sort de dissipation de la magie, ciblé uniquement sur de tels effets. Si la créature est affectée par une magie qui cible de multiples créatures, l'effet de dissipation n'affecte que la magie qui s'applique à cette créature (non au sort en son entier). Si la créature n'est pas affectée par un tel effet, l'eau bénite l'affecte normalement.
+Une créature affectée est sujette à un sort de dissipation de la magie, ciblé uniquement sur de tels effets. Si la créature est affectée par une magie qui cible de multiples créatures, l'effet de dissipation n'affecte que la magie qui s'applique à cette créature (non au sort en son entier). Si la créature n'est pas affectée par un tel effet, l'eau bénite l'affecte normalement. 
 
 À mois que l'eau bénite ne provoque une transformation, cette capacité n'accorde aucune information pour savoir si une créature est ou non un métamorphe.
 

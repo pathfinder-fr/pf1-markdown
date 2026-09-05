@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 12 po ; **Poids** 4 kg ; **Groupes** [[Groupe darmes#Marteaux|marteaux]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —
+{s:AE}**Prix** 12 po ; **Poids** 4 kg ; **Groupes** [[Groupe darmes#Marteaux|marteaux]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 La masse d’armes lourde a une tête plus grosse et un manche plus long que la [[masse darmes légère (arme)|masse d’armes légère]].

@@ -11,7 +11,7 @@ Categories:
 
 Toutes les sorcières de l'hiver ne sont pas liées par le sang à la noblesse du royaume gelé. Certaines ont appris l'art via des mentors, et d'autres entendent l'appel de leurs pouvoirs dans les vents hurlants d'une nuit d'hiver glaciale. Parmi les sorcières de l'hiver qui vivent en dehors de l'Enclave de la Reine-Sorcière, beaucoup subsistent à la périphérie des civilisations ou dans la nature, et cachent souvent leurs pouvoirs si elles ne veulent pas risquer d'être vues comme des espionnes du royaume gelé. Ceci est encore plus vrai dans le Royaume glacé des vikings, où les souvenirs de la Guerre de l'Hiver continuent de faire brûler leur haine ancestrale, tout comme dans la Terre perdue du nord, dont les membres de tribus superstitieux n'accordent leur confiance à aucune forme de magie profane.''
 
-<center>
+<center> 
 
 <table CLASS="tablo">
   <caption>La sorcière de l'hiver</caption>
@@ -127,11 +127,11 @@ Toutes les sorcières de l'hiver ne sont pas liées par le sang à la noblesse d
 **Dé de vie.** d6.
 
 ### Conditions requises
-Pour devenir une sorcière de l'hiver, il faut satisfaire aux conditions suivantes.
+Pour devenir une sorcière de l'hiver, il faut satisfaire aux conditions suivantes. 
 
-**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères).
+**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères). 
 
-**Sorts.**  Doit être capable de lancer au moins trois sorts différents avec le [[registre]] « froid », dont l'un doit être 3e niveau ou plus.
+**Sorts.**  Doit être capable de lancer au moins trois sorts différents avec le [[registre]] « froid », dont l'un doit être 3e niveau ou plus. 
 
 **Spécial.** Doit posséder un [[protecteurs|protecteur]] ainsi que la capacité de classe [[Sorcière de lhiver (sorcière)|magie de la glace]].
 
@@ -144,7 +144,7 @@ Voici les compétences de classe de la sorcière de l'hiver : [[Bluff]] (Cha), 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de sorcière de l'hiver.
 #### Armes et armures
-Une sorcière de l'hiver ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Une sorcière de l'hiver ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|SORTS}
 #### Sorts par jour
@@ -156,7 +156,7 @@ Le protecteur d’une sorcière de l’hiver lui confère une affinité avec la 
 
 {s:reference|SORCELLERIEDELHIVER}
 #### Sorcellerie de l'hiver
-Les niveaux de classe de prestige d’une sorcière de l’hiver se cumulent avec ses niveaux de [[sorcière]] afin de déterminer : quand elle peut apprendre de nouveaux [[Sorcière#MALEFICE|maléfices]] ; comment s’appliquent les effets de ses maléfices et des autres pouvoirs propres à sa classe (y compris les pouvoirs liés à son archétype) ; les pouvoirs de son [[Sorcière#FAMILIER|familier de sorcière]] ; et le niveau à partir duquel elle peut choisir des [[Sorcière#MALEFICEMAJEUR|maléfices majeurs]] ou des [[Sorcière#GRANDMALEFICE|grands maléfices]].
+Les niveaux de classe de prestige d’une sorcière de l’hiver se cumulent avec ses niveaux de [[sorcière]] afin de déterminer : quand elle peut apprendre de nouveaux [[Sorcière#MALEFICE|maléfices]] ; comment s’appliquent les effets de ses maléfices et des autres pouvoirs propres à sa classe (y compris les pouvoirs liés à son archétype) ; les pouvoirs de son [[Sorcière#FAMILIER|familier de sorcière]] ; et le niveau à partir duquel elle peut choisir des [[Sorcière#MALEFICEMAJEUR|maléfices majeurs]] ou des [[Sorcière#GRANDMALEFICE|grands maléfices]]. 
 
 {s:reference|GELETDEGEL}
 #### Gel et dégel (Sur)

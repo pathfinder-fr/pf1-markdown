@@ -11,12 +11,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, M]] (une potion à tatouer, des encres spéciales d’une valeur de 500 po)
-**Portée** une potion
-**Effet** un tatouage de sort
-**Durée** instantanée
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, M]] (une potion à tatouer, des encres spéciales d’une valeur de 500 po)  
+**Portée** une potion  
+**Effet** un tatouage de sort  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Quand il lance ce sort, le personnage verse des encres de tatouage spéciales dans une potion de son choix. Une fois le sort potion de tatouage lancé, la potion se met à bouillonner et à pétiller. Si personne ne la boit en l’espace d’une minute après l’incantation du sort, elle est détruite et disparaît en vapeur.

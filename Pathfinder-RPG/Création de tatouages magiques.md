@@ -15,7 +15,7 @@ Categories:
 
 **Conditions** [[Artisanat]] (calligraphie, peintures ou tatouages) 5 rangs, [[NLS]] 5
 
-**Avantage** Le personnage sait créer des tatouages magiques, des objets magiques tatoués directement sur la peau d’une créature volontaire ou sans défense. Le personnage et le porteur du tatouage (si ce dernier n’est pas également le personnage) doivent être présents pendant toute la durée du processus de tatouage.
+**Avantage** Le personnage sait créer des tatouages magiques, des objets magiques tatoués directement sur la peau d’une créature volontaire ou sans défense. Le personnage et le porteur du tatouage (si ce dernier n’est pas également le personnage) doivent être présents pendant toute la durée du processus de tatouage. 
 
 Les tatouages magiques doivent être tatoués sur une partie du corps sur laquelle un objet magique peut être normalement porté, mais ils ne sont pas considérés comme des objets magiques portés sur ces emplacements et n’interfèrent pas avec ces objets magiques. Un seul tatouage magique peut être tatoué sur un emplacement du corps (les tatouages non magiques et ceux acquis par le biais de l’archétype de l’ensorceleur tatoué ne sont pas comptés dans le cadre de cette limite). Les tatouages peuvent être tatoués sur les emplacements suivants : taille, corps, torse, pieds, mains, cou, épaules, doigts (jusqu’à deux) ou poignets. Il est impossible d’en tatouer sur les emplacements de l’armure, des yeux, du front ou du bouclier.
 

@@ -11,12 +11,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (une écaille de caméléon)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** un [[eidolon]]
-**Durée** 1 [[round]]/[[niveau]]
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (une écaille de caméléon)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** un [[eidolon]]  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort fait perdre une [[eidolon#EVOLUTIONS|évolution]] à un [[eidolon]] et une de plus par tranche de cinq [[NLS|niveaux de lanceur de sorts]]. L'[[eidolon]] perd en premier les [[eidolon#EVOLUTIONS|évolutions]] qui coûtent le plus de points. En cas d'égalité, déterminez l'[[eidolon#EVOLUTIONS|évolution]] perdue au hasard. Si ce sort empêche un [[eidolon]] de remplir les conditions requises par d'autres [[eidolon#EVOLUTIONS|évolutions]] ou pouvoirs, ces derniers sont perdus tant que ce sort fait effet.

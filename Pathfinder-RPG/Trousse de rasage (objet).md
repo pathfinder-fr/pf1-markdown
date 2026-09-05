@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 15 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette trousse comprend un rasoir droit, une [[Pierre à aiguiser (objet)|pierre à aiguiser]], un petit miroir, une brosse, une coupe et assez de poudre à raser pour permettre à un humanoïde de taille M de se raser 50 fois.

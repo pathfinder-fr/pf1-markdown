@@ -294,7 +294,7 @@ Un chasseur de vampire est compétent avec toutes les armes courantes et de guer
 #### Don technique
 En raison de la mortalité inhérente à la chasse aux vampires, les méthodes et traditions des chasseurs de vampire sont rares et incomprises. Il en résulte que les chasseurs de vampire sont autant craints que les morts-vivants qu’ils chassent. Au fur et à mesure que les chasseurs de vampire étudient et s’entraînent, ils développent leurs compétences, maîtrisant d’anciennes techniques de combat et font appel à des arts mystiques qui sont craints autant par les vivants que par les morts.
 
-Au niveau 1, un chasseur de vampire obtient un don supplémentaire. Ce nouveau don peut être sélectionné soit parmi les dons de combat, soit parmi les techniques de chasse au vampire. Pour sélectionner ces dons, un chasseur de vampire doit en remplir les conditions.
+Au niveau 1, un chasseur de vampire obtient un don supplémentaire. Ce nouveau don peut être sélectionné soit parmi les dons de combat, soit parmi les techniques de chasse au vampire. Pour sélectionner ces dons, un chasseur de vampire doit en remplir les conditions. 
 
 Le chasseur de vampire obtient un don supplémentaire au niveau 3 puis tous les 3 niveaux par la suite.
 
@@ -308,7 +308,7 @@ Un chasseur de vampire ajoute la moitié de son niveau de classe à ses tests de
 #### Trait vampirique (Sur)
 Un chasseur de vampire connaît le pouvoir sinistre de la mort-vivance. Par la discipline et la précision, il peut temporairement retourner les pouvoirs impies des morts-vivants contre ces derniers.
 
-Au niveau 1, le chasseur de vampire doit choisir un trait vampirique classique pour imiter les vampires à partir de la liste des traits listés ci-dessous. Chaque trait vampirique accorde au chasseur de vampire un bonus ou une capacité spéciale. Une fois que la décision est prise, le chasseur de vampire ne peut en plus changer.
+Au niveau 1, le chasseur de vampire doit choisir un trait vampirique classique pour imiter les vampires à partir de la liste des traits listés ci-dessous. Chaque trait vampirique accorde au chasseur de vampire un bonus ou une capacité spéciale. Une fois que la décision est prise, le chasseur de vampire ne peut en plus changer. 
 
 Aux niveaux 8 et 16, le chasseur de vampire apprend un trait vampirique supplémentaire.
 
@@ -374,7 +374,7 @@ Pour apprendre ou lancer un sort, un chasseur de vampire doit posséder un score
 
 Un chasseur de vampire peut lancer un nombre déterminé de sorts de chaque niveau de sort par jour. Son nombre d’emplacements de sort est fourni sur la table du Chasseur de vampire. S'y ajoute également des sorts en bonus par jour s’il dispose d’un scoré élevé de Sagesse. Lorsque la table indique que le chasseur de vampire peut lancer 0 sort par jour d’un niveau donné, cela signifie qu’il ne peut lancer de sort que si son score de Sagesse lui permet de disposer d’un sort en bonus du niveau considéré.
 
-Le choix de sort d’un chasseur de vampire est limité. Au niveau 4, un chasseur de vampire ne connait que deux sorts de niveau 1 de son choix. A chaque nouveau niveau de chasseur de vampire, il obtient un ou plus nouveaux sorts comme indiqué sur la table des sorts connus par le chasseur de vampire. (Contrairement au nombre de sorts par jour qu’il peut lancer, le nombre de sorts que connait le chasseur de vampire n'est pas affecté par son score de Sagesse. Le nombre de sorts sur la table ci-contre est fixe).
+Le choix de sort d’un chasseur de vampire est limité. Au niveau 4, un chasseur de vampire ne connait que deux sorts de niveau 1 de son choix. A chaque nouveau niveau de chasseur de vampire, il obtient un ou plus nouveaux sorts comme indiqué sur la table des sorts connus par le chasseur de vampire. (Contrairement au nombre de sorts par jour qu’il peut lancer, le nombre de sorts que connait le chasseur de vampire n'est pas affecté par son score de Sagesse. Le nombre de sorts sur la table ci-contre est fixe). 
 
 En atteignant le niveau 7 et tous les trois niveaux de chasseur de vampire, un chasseur de vampire peut choisir d’apprendre un nouveau sort à la place d’un sort qu’il connait déjà. Dans ce cas, le chasseur de vampire perd l’ancien sort en échange du nouveau. Le nouveau sort doit être du même niveau que celui qui lui a été échangé et il doit être au moins un niveau en dessous du plus haut niveau de sort qu’il peut lancer. Le chasseur de vampire peut changer un unique sort de la sorte à un niveau donné et doit choisir s'il fait cet échange au moment où il obtient de nouveaux sorts pour ce niveau.
 
@@ -414,7 +414,7 @@ Au niveau 20, le chasseur de vampire devient le fléau des morts-vivants. Par un
 
 Si l’attaque touche, la cible subit les dégâts normalement et doit réussir un jet de Vigueur ou souffrir de l’effet supplémentaire. Le [[DD]] du jet de protection est de 10 + 1/2 du niveau du chasseur de vampire + le modificateur de Sagesse du chasseur de vampire. Que l'attaque soit réussie ou non, la créature ne plus être la cible de cette faculté (par aucun chasseur de vampire) durant 24 heures.
 
-Si le chasseur de vampire choisit de détruire la cible, celle-ci est tuée. Si la cible est un vampire, elle ne prend pas sa forme gazeuse et ses pouvoirs de guérison n’entrent pas en action ; elle est définitivement détruite.
+Si le chasseur de vampire choisit de détruire la cible, celle-ci est tuée. Si la cible est un vampire, elle ne prend pas sa forme gazeuse et ses pouvoirs de guérison n’entrent pas en action ; elle est définitivement détruite. 
 
 Si le chasseur de vampire choisit de planter son épieu, elle est tuée si ce n’est pas un vampire. Si c’est un vampire (ou une créature similaire affectée par un épieu planté dans son cœur) elle est tuée, mais revient à la vie si l’épieu est détruit. Le chasseur de vampire peut utiliser sa capacité épieu obtenue du niveau 4 pour employer n’importe quelle arme perforante ou outil acéré comme si c’était un épieu en bois.
 

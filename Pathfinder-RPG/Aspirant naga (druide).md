@@ -12,17 +12,17 @@ Categories:
 *L’aspirant naga se conforme aux anciennes croyances et s’adonne aux rituels d’une secte druidique dont les membres se consacrent à la transcendance de leur forme de nagajis à travers leur dévotion absolue aux nagas et aux dieux nagas. En se posant comme héraut des divinités nagas, l’aspirant est récompensé par la capacité à libérer sa forme spirituelle ultime et à devenir un véritable naga.*
 
 #### Lien de l’aspirant (Ext)
-L’aspirant naga bénéficie d’une connexion spirituelle avec les divinités serpentines vénérées par les nagas. Au niveau 1, et chaque fois qu’il gagne un niveau de druide, il peut ajouter  l’un de ces sorts à sa liste de sorts de [[druide]].
-**Niveau 0** – *[[aspersion acide]]*, *[[saignement]]*, *[[Hébétement|hébètement]]*,
-*[[manipulation à distance]]*, *[[Ouverturefermeture|ouverture/fermeture]]*, *[[rayon de givre]]* ;
-**Niveau 1** – *[[charme-personne]]*, *[[faveur divine]]*, *[[repli expéditif]]*,
-*[[armure de mage]]*, *[[projectile magique]]*, *[[rayon affaiblissant]]*,
-*[[bouclier]]*, *[[bouclier de la foi]]*, *[[image silencieuse]]*, *[[coup au but]]* ;
-**Niveau 2** – *[[flèche acide]]*, *[[détection de pensées]]*, *[[invisibilité]]*,
-*[[image miroir]]*, *[[rayon ardent]]*, *[[détection de linvisibilité|détection de l’invisibilité]]* ;
-**Niveau 3** – *[[dissipation de la magie]]*, *[[déplacement]]*, *[[boule de feu]]*,
-*[[éclair]]*, *[[suggestion]]* ;
-**Niveau 4** – *[[puissance divine]]*, *[[invisibilité suprême]]*.
+L’aspirant naga bénéficie d’une connexion spirituelle avec les divinités serpentines vénérées par les nagas. Au niveau 1, et chaque fois qu’il gagne un niveau de druide, il peut ajouter  l’un de ces sorts à sa liste de sorts de [[druide]].  
+**Niveau 0** – *[[aspersion acide]]*, *[[saignement]]*, *[[Hébétement|hébètement]]*, 
+*[[manipulation à distance]]*, *[[Ouverturefermeture|ouverture/fermeture]]*, *[[rayon de givre]]* ;  
+**Niveau 1** – *[[charme-personne]]*, *[[faveur divine]]*, *[[repli expéditif]]*, 
+*[[armure de mage]]*, *[[projectile magique]]*, *[[rayon affaiblissant]]*, 
+*[[bouclier]]*, *[[bouclier de la foi]]*, *[[image silencieuse]]*, *[[coup au but]]* ;  
+**Niveau 2** – *[[flèche acide]]*, *[[détection de pensées]]*, *[[invisibilité]]*, 
+*[[image miroir]]*, *[[rayon ardent]]*, *[[détection de linvisibilité|détection de l’invisibilité]]* ;  
+**Niveau 3** – *[[dissipation de la magie]]*, *[[déplacement]]*, *[[boule de feu]]*, 
+*[[éclair]]*, *[[suggestion]]* ;  
+**Niveau 4** – *[[puissance divine]]*, *[[invisibilité suprême]]*.  
 Cette capacité remplace [[druide#INCANTATIONSPONTANEE|incantation spontanée]].
 
 #### Illumination de l’aspirant (Ext)

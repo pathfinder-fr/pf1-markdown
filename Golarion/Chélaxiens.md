@@ -7,7 +7,7 @@ LastModified: 2010-12-12 21:57
 Les Chélaxiens forment un peuple originaire des côtes de la [[mer Intérieure]] et que l'on retrouve aujourd'hui dans tout l'[[Avistan]]. Ils constituent le véritable héritage de l'ancien empire du [[Chéliax]] qui couvrait autrefois des royaumes et des régions aussi divers que l'[[Andoran]], le [[Galt]], le [[Molthune]], le [[Nirmathas]] ou le [[Sargava]]. Alors que l'empire chélaxien a maintenant disparu, le peuple lui a survécu dans tous les territoires occupés par l'ancien empire.
 
 ### Apparence
-Les Chélaxiens sont issus du croisement de deux peuples différents : les anciens [[Azlantes]] et les nordiques [[Ulfes]]. Ils ont tendance à avoir les yeux et les cheveux noirs et une peau pâle. C'est d'ailleurs la pâleur de cette dernière qui permet de les différencier des [[Taldans]], qui se disent eux-aussi descendants des [[Azlantes]].
+Les Chélaxiens sont issus du croisement de deux peuples différents : les anciens [[Azlantes]] et les nordiques [[Ulfes]]. Ils ont tendance à avoir les yeux et les cheveux noirs et une peau pâle. C'est d'ailleurs la pâleur de cette dernière qui permet de les différencier des [[Taldans]], qui se disent eux-aussi descendants des [[Azlantes]]. 
 
 Côté vestimentaire, les Chélaxiens favorisent les habits nobles et chers qui leur permettent de montrer leur richesse et leur statut. Mais cette mode n'est pas aussi grotesque que celle que l'on peut rencontrer au [[Taldor]]
 
@@ -21,6 +21,6 @@ L'empire s'effondra à la mort d'[[Aroden]], rongé par le diabolisme qui se dé
 Les Chélaxiens sont plus réputés pour leurs côtés négatifs et sont définis à l'étranger comme arrogants, sans pitié et ambitieux. Néanmoins, certains aspects positifs ressortent dont leur bonne organisation, leur intelligence et leur culture. En dehors de leur légendaire colère, il y a peu de choses véridiques sur les Chélaxiens. Étant donné qu'ils sont disséminés dans des régions très variées, les uns ne peuvent ressembler trait pour trait aux autres. Ainsi un Chélaxien d'[[Andoran]] n'a que peu de choses en commun avec un Chélaxien du [[Chéliax]] ou du [[Galt]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Chélaxiens dans le supplément
+Vous pourrez trouver plus d'informations à propos des Chélaxiens dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

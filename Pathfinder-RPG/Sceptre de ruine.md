@@ -8,7 +8,7 @@ LastModified: 2024-05-28 18:49
 {s:BDTitre|Sceptre de ruine|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 16 000 po ; **Poids** 2,5 kg
 (((Description)))
-Cet objet magique est en réalité un vieux sceptre délabré aux châsses privées de leurs pierres précieuses vides. Des bandes de fer rouillées maintiennent son manche en bois pourri. Trois fois par jour, sur com­mande, lorsque le porteur touche un objet inanimé non-magique avec le sceptre, cet objet tombe en ruine, se fend et se décompose. Si cet objet est moins gros qu’une porte ou ne remplit pas une zone supé­rieure à 1,50 mètre de côté, il est alors est brisé.
+Cet objet magique est en réalité un vieux sceptre délabré aux châsses privées de leurs pierres précieuses vides. Des bandes de fer rouillées maintiennent son manche en bois pourri. Trois fois par jour, sur com­mande, lorsque le porteur touche un objet inanimé non-magique avec le sceptre, cet objet tombe en ruine, se fend et se décompose. Si cet objet est moins gros qu’une porte ou ne remplit pas une zone supé­rieure à 1,50 mètre de côté, il est alors est brisé. 
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[désintégration]]* ; **Coût** 8 000 po
 </div>

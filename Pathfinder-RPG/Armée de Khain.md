@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (une poignée de dents de goule)
-**Portée** 1,50 m
-**Effet** 1d4+1 goules et 1 blême
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (une poignée de dents de goule)  
+**Portée** 1,50 m  
+**Effet** 1d4+1 goules et 1 blême  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** non
 
 *Créé à l’origine par le Prêtre-roi goule du seigneur démon des cannibales, pour que ses séides puissent renforcer leurs troupes lors des combats contre leurs ennemis, l’armée du Roi goule est devenue un sort apprécié de nombreux nécromanciens dans toute la Terre des pharaons et au-delà.*

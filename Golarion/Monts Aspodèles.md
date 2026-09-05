@@ -9,7 +9,7 @@ Categories:
 
 Les Monts Asphodèles forment la frontière occidentale entre l'[[Andoran]] et son rival [[Chéliax]]. Contrairement aux [[montagnes des Cinq Rois]] au nord de l'Andoran, les Asphodèles ne sont pas une chaîne particulièrement haute, mais leurs plus hauts sommets sont connus pour atteindre plus de 2 700 mètres de haut. Les pentes escarpées des montagnes forment une frontière substantielle entre l'Andoran et le Chéliax, avec un seul passage praticable, la [[croisée des Aspodèles]], dominé par la ville fortifiée de [[Falaise de Piren]]. Comme les montagnes riches en fer sont revendiquées par les deux nations voisines, l'Andoran maintient également une présence militaire dans la croisée des Aspodèles, bien que le reste des montagnes soit peu habité, infesté de monstres et ne soit pas connu pour détenir d'importantes richesses minérales.<sup>(1)</sup><sup>(2)</sup>
 
-**Communautés.** [[Falaise de Piren]].
+**Communautés.** [[Falaise de Piren]].  
 **Points dintérêts.** [[Cavernes de Pierrechandelle]], [[Chutes de cristal]].
 
 #### Histoire

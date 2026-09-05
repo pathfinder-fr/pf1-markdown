@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*La foi du personnage lui permet de préparer un sort lorsqu'il en a besoin.*
+{s:cs}{s:ISG}*La foi du personnage lui permet de préparer un sort lorsqu'il en a besoin.* 
 
 **Conditions.** Capacité à préparer des sorts, suivant de [[Néthys (technique)|Néthys]]
 

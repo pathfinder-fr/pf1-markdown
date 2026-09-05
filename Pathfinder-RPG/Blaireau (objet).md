@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 10 kg
+{s:AE}**Prix** 15 po ; **Poids** 10 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ces féroces créatures fouisseuses sont rarement gardées comme animaux de compagnie. Voir les statistiques du [[blaireau]].

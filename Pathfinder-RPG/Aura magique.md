@@ -13,14 +13,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[COMPOSANTES|V, G, F]] (un petit carré de soie à passer au-dessus de l’objet qui recevra l’aura)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** objet touché (2,5 kg/[[niveau]] maximum)
-**Durée** 1 jour/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[COMPOSANTES|V, G, F]] (un petit carré de soie à passer au-dessus de l’objet qui recevra l’aura)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** objet touché (2,5 kg/[[niveau]] maximum)  
+**Durée** 1 jour/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** non
----
+<hr />
 Le lanceur de sort altère l’aura d’un objet afin qu’une *[[détection]]* (et tout sort disposant d’une aptitude similaire) le définisse soit comme non-magique, soit comme un objet magique doué de propriétés choisie par le personnage ou comme un objet affecté par un sort choisi par le personnage. Si l’objet protégé par *aura magique* est soumis à *[[identification]]* ou à un examen semblable, le lanceur de sorts décèle la tromperie et parvient à découvrir les propriétés de l’objet en réussissant un jet de [[Volonté]]. Sinon, il croit ce que lui révèle l’aura, et ce quels que soient les tests auxquels il se livre sur l’objet.
 
 *Aura magique* est sans effet si l’aura naturelle de l’objet est particulièrement puissante (comme c’est le cas pour les [[artefacts]]).
@@ -31,14 +31,14 @@ Le lanceur de sort altère l’aura d’un objet afin qu’une *[[détection]]* 
 
 ((({s:sortssimilaires|aura magique}
 ## [[Aura magique suprême]]
-{s:UI}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (un mouchoir de poche en laine)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** une créature, ou un objet ne pesant pas plus de 10 kg/niveau
-**Durée** 1 jour/niveau ([[Présentation des sorts#DUREE|T]])
+{s:UI}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (un mouchoir de poche en laine)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** une créature, ou un objet ne pesant pas plus de 10 kg/niveau  
+**Durée** 1 jour/niveau ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** non
----
+<hr />
 S'il est lancé sur un objet, ce sort fonctionne comme *[[aura magique]]*, excepté que si le personnage a identifié la signature magique unique d'un individu grâce à *[[détection de la magie suprême]]* ou un sort similaire, il peut faire en sorte que l’*aura magique* semble avoir été créée par cet individu. Sinon, il peut simplement dissimuler tous les repères uniques, rendant plus difficile l'identification du lanceur. Dans les deux cas, si l'objet est soumis à une *détection de la magie suprême*, tout test d'[[Art de la magie]] effectué pour identifier les repères uniques de l'aura révèle les informations choisies par le personnage sauf si le lanceur dévoile l'illusion grâce à un jet de [[Volonté]] réussit (cependant, comme avec *aura magique*, les autres sorts de détection n'autorisent pas de jet de sauvegarde pour la dévoiler).
 
 S'il est lancé sur une créature, le personnage peut choisir autant de sorts qu'il le souhaite et faire en sorte que cette créature semble être sous leurs effets lorsqu'elle est soumise à des sorts de détection. Sinon, il peut faire en sorte que la créature semble non-magique, dissimulant tous les effets de sorts qui l'affectent lorsqu'elle est la cible de telles inspections. Si le personnage choisi de faire apparaître la cible comme étant sous l'effet d'un ou plusieurs sorts, il peut modifier la signature magique unique des auras de ces sorts de la même manière que lorsqu'il cible un objet.

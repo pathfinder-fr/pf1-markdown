@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 1 kg
+{s:AE}**Prix** 5 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 En portant cette corne acoustique spécialement adaptée à son oreille et en plaçant l'autre extrémité contre une porte ou un mur, le personnage réduit le malus au [[DD]] pour écouter aux portes ou aux murs de 5.

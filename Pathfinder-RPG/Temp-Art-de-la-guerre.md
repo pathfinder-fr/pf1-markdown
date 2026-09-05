@@ -90,11 +90,11 @@ Menu déroulant des archétypes sur la page chevalier intégré
 - [[Chaman primate (druide)]]  : ==> intégrée dans [[chamanes animaux (druide)]]
 - [[Chaman sanglier (druide)]]  : ==> intégrée dans [[chamanes animaux (druide)]]
 
-snippet Menuarchétypedruide modifié
+snippet Menuarchétypedruide modifié 
 
-Les archétypes de chamanes qui correspondent à des animaux ont été intégrés dans la page des chamanes animaux. Idem pour les archétypes de chamans animaux de l'art de la magie.
+Les archétypes de chamanes qui correspondent à des animaux ont été intégrés dans la page des chamanes animaux. Idem pour les archétypes de chamans animaux de l'art de la magie. 
 
-En raison de l'intégration, les pages qui suivent devront être détruites :
+En raison de l'intégration, les pages qui suivent devront être détruites : 
 
 - [[Chaman chauve-souris (druide)]] : ==> intégrée dans [[chamanes animaux (druide)]]
 - [[Chaman primate (druide)]]  : ==> intégrée dans [[chamanes animaux (druide)]]
@@ -355,7 +355,7 @@ Reste à créer :
 <li>[[Véhicules aquatiques (véhicules)|Les véhicules aquatiques]]</li>
 <li>[[Véhicules aériens (véhicules)|Les véhicules aériens]]</li>
 </ul>
-</li>
+</li>  
 </ul>
 </li>
 </ul>

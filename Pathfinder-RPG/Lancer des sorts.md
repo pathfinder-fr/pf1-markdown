@@ -25,7 +25,7 @@ Une fois qu’un sort préparé a été lancé, le personnage ne peut plus s’e
 ### La concentration
 {s:Reference|TESTCONCENTRATION}
 #### Test de Concentration
-Le personnage doit se concentrer pour lancer un sort. S’il est interrompu en cours d’incantation, il doit réussir un test de Concentration sous peine de perdre son sort. Quand le personnage fait un test de Concentration, il lance 1d20 et ajoute son [[niveau de lanceur de sorts]] et le modificateur de caractéristique qu’il utilise pour déterminer les sorts bonus du même type que celui qu’il lance :
+Le personnage doit se concentrer pour lancer un sort. S’il est interrompu en cours d’incantation, il doit réussir un test de Concentration sous peine de perdre son sort. Quand le personnage fait un test de Concentration, il lance 1d20 et ajoute son [[niveau de lanceur de sorts]] et le modificateur de caractéristique qu’il utilise pour déterminer les sorts bonus du même type que celui qu’il lance : 
 - Les [[druide|druides]], les [[prêtre|prêtres]] et les [[rôdeur|rôdeurs]] ajoutent leur modificateur de [[Sagesse]] ;
 - les [[barde|bardes]], les [[ensorceleur|ensorceleurs]] et les [[paladin|paladins]] ajoutent leur modificateur de [[Charisme]] 
 - et enfin les [[magicien|magiciens]] ajoutent leur modificateur d’[[Intelligence]]. 

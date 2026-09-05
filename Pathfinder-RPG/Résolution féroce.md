@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** [[Constitution|Con]] 13, [[demi-orque]], trait racial [[demi-orque#FEROCITEORQUE|férocité orque]].
 
-**Avantages.** Le personnage gagne le pouvoir de monstre universel [[Férocité (capacité)|férocité]], qui lui permet de continuer à se battre même s’il est en dessous de 0 [[pv|point de vie]]. Quand il utilise ce pouvoir, il gagne un bonus de +2 aux tests d’[[Intimidation]].
+**Avantages.** Le personnage gagne le pouvoir de monstre universel [[Férocité (capacité)|férocité]], qui lui permet de continuer à se battre même s’il est en dessous de 0 [[pv|point de vie]]. Quand il utilise ce pouvoir, il gagne un bonus de +2 aux tests d’[[Intimidation]]. 
 
 **Normal.** Un demi-orque qui possède le trait racial férocité orque peut se battre pendant un round après être tombé en dessous de 0 point de vie.

@@ -15,5 +15,5 @@ Ce collier doré renferme une partie de l’âme immortelle du seigneur-démon [
 
 En outre, chaque fois que quelqu’un utilise le *torque du Froid immortel*, il y a 5% de chances cumulables qu’il devienne enragé (gagnant ainsi tous les avantages et inconvénients du pouvoir [[barbare#RAGE|rage de berserker]] du [[barbare]]), attaquant la créature non-géante la plus proche jusqu’à l’inconscience ou la mort ou jusqu’à ce qu’il ne reste plus de créatures vivantes non-géantes dans un rayon de 9 mètres.
 (((Destruction)))
-Le *torque du Froid immortel* se dissout s’il est plongé pendant 24 heures dans le chaudron de la hutte dansante de Baba Yaga.
+Le *torque du Froid immortel* se dissout s’il est plongé pendant 24 heures dans le chaudron de la hutte dansante de Baba Yaga. 
 </div>

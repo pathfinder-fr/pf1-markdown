@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Talisman de convocation de destrier|{s:RSE}}
 **Aura** [[Invocation]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3 600 po ; **Poids** –
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Gravé de rainures sinueuses, ce talisman en onyx représente un majestueux étalon noir portant un petit bout de ficelle en guise de bride. Lorsqu’on prononce le mot de commande, le talisman se transforme en un [[Cheval (objet)|cheval léger]] sellé, en parfaite santé et prêt à servir son propriétaire. Le talisman reprend sa forme d’origine si le mot de commande est prononcé une nouvelle fois. Si le cheval se fait tuer, il reprend également sa forme de talisman et ne peut plus être activé pendant 24 heures. Chaque talisman est d’une couleur particulière (noir, alezan, gris, pie, etc.) et porte des marques (liste, pelote, balzane chaussée, etc.) choisis lors de la fabrication de l’objet.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[monture]]*, le créateur doit posséder 5 rangs au moins en [[Équitation]] ; **Coût** 1 800 po

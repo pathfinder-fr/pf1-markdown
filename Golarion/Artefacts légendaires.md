@@ -8,7 +8,7 @@ Categories:
 
 Golarion est un monde ancien, marqué par les armes des dieux, prison d’un être qui menace de détruire toute vie, berceau de la prochaine et de la dernière génération de dieux et foyer d’êtres qui plient la trame de l’existence à leur volonté. Dans le sillage de ces légendes gisent des armes, des outils et des reliques mythiques éparpillés ça et là, des instruments aussi puissants que ceux qui les maniaient autrefois ou qui ont permis de façonner les royaumes qui existent encore à ce jour.
 
-Les pages qui suivent présentent une grande partie des artefacts les plus célèbres de Golarion, des objets de légende ou des créations étrangères à ce monde, révérés ou redoutés.
+Les pages qui suivent présentent une grande partie des artefacts les plus célèbres de Golarion, des objets de légende ou des créations étrangères à ce monde, révérés ou redoutés.  
 - **Apparence.** Chaque présentation commence par la description de l’apparence physique la plus courante de l’artefact. Aucune information capitale n’y étant révélée, le MJ peut la lire aux joueurs qui découvrent ce fantastique trésor. Si l’artefacts revêt diverses formes, se manifeste de façon particulière ou appartient à un groupe varié, cette section suivra une forme générique ou, dans quelques rares cas, sera omise, les détails descriptifs de l’artefact se trouvant alors dans son profil.
 
 - **Histoire.** Cette partie établit les origines et la véritable histoire de l’artefact, informations souvent oubliées depuis longtemps, même pour les plus grands érudits. Ces informations peuvent apparaître sous une forme enjolivée dans les légendes populaires comme elles peuvent être complètement inconnues, dans le cas d’artefacts très anciens ou originaires d’autres mondes par exemple. Il appartient au MJ de déterminer si la légende d’un artefact entre dans le cadre d’un test de Connaissances, s’il est possible de faire des recherches dessus ou si quelques rares personnes seulement la connaissent et s’il est possible de partir à leur recherche pour découvrir ses secrets. La magie comme mythes et légendes permet généralement d’en apprendre plus sur l’historique d’un artefact, comme indiqué dans la description du sort. 
@@ -18,31 +18,31 @@ Convoités par les créatures les plus puissantes au monde et même par des êtr
 
 ### Liste des artéfacts légendaires
 <div class="article_2col">
-l'[[Anneau aux neuf facettes]]
-l'[[Anneau dApollyon|Anneau d’Apollyon]]
-le [[Bâton des ombres]]
-le [[Bouclier dAroden|Bouclier d'Aroden]]
-la [[Bouteille des Enchaînés]]
-les [[Cartes merveilleuses du tourment]]
-le [[Chant de lextinction|Chant de l’extinction]]
-le [[Codex des plans Infinis]]
-les [[Cornes de Naraga]]
-la [[Couronne dépines de Iomédae|Couronne d’épines de Iomédae]]
-le [[Crâne dYdersius|Crâne d’Ydersius]]
-le [[Diamant gémissant]]
-les [[Épées du péché]]
-la [[Hache des seigneurs nains]]
-[[Hachenoire]]
-les [[Héliotropes dArazni|Héliotropes d’Arazni]]
-la [[Hutte dansante de Baba-Yaga]]
-la [[Lentille de Galundari]]
-le [[Livre des damnés]]
-la [[Masse darmes de SaintCuthbert|Masse d'armes de Saint-Cuthbert]]
-l'[[Œil invidien]]
-les [[Orbes des dragons]]
-le [[Parchemin de Kakishon]]
-la [[Rapière de Vesper]]
-les [[Reliques de Kazavon]]
-[[Roncier]]
-le [[Sceptre des âges]]
+l'[[Anneau aux neuf facettes]]  
+l'[[Anneau dApollyon|Anneau d’Apollyon]]  
+le [[Bâton des ombres]]  
+le [[Bouclier dAroden|Bouclier d'Aroden]]  
+la [[Bouteille des Enchaînés]]  
+les [[Cartes merveilleuses du tourment]]  
+le [[Chant de lextinction|Chant de l’extinction]]  
+le [[Codex des plans Infinis]]  
+les [[Cornes de Naraga]]  
+la [[Couronne dépines de Iomédae|Couronne d’épines de Iomédae]]  
+le [[Crâne dYdersius|Crâne d’Ydersius]]  
+le [[Diamant gémissant]]  
+les [[Épées du péché]]  
+la [[Hache des seigneurs nains]]  
+[[Hachenoire]]  
+les [[Héliotropes dArazni|Héliotropes d’Arazni]]  
+la [[Hutte dansante de Baba-Yaga]]  
+la [[Lentille de Galundari]]  
+le [[Livre des damnés]]  
+la [[Masse darmes de SaintCuthbert|Masse d'armes de Saint-Cuthbert]]  
+l'[[Œil invidien]]  
+les [[Orbes des dragons]]  
+le [[Parchemin de Kakishon]]  
+la [[Rapière de Vesper]]  
+les [[Reliques de Kazavon]]  
+[[Roncier]]  
+le [[Sceptre des âges]]  
 </div>

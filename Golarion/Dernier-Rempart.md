@@ -10,7 +10,7 @@ Categories:
 {s:Nation|Dernier-Rempart|%2fPCUP%2fNation-PNG%2fLastwall.png|Le royaume aux frontières vigilantes|LB|Dictature militaire|Seigneur-Vigile Ulthun II, détenteur du bouclier brisé d'Arnisant|[[Vigil]] (9 780)|[[Firrine]] (540), [[Vellumis]] (12 340)|/|humains|commun, varisien|[[Gorum]], [[Iomédae]]}A la fin de la longue Croisade Brillante, Tar-Baphon, le Tyran qui Murmure, fut défait. Mais comme les croisés ne purent le détruire complètement, ils l'emprisonnèrent dans [[Gibet]], sa capitale maudite. Dernier-Rempart fut fondé autour de ce lieu pour s'assurer que le Tyran qui Murmure ne s'échappe pas de sa prison éternelle.
 
 ### Géographie de Dernier-Rempart
-Dernier-Rempart est situé sur la rive ouest du lac d'[[Encarthan]], la plus grande étendue d'eau douce de l'[[Avistan]]. Au nord, les [[montagnes Affamées]] séparent le pays de l'[[Ustalav]] et à l'est s'étend [[Bois-Vorace]], une forêt qui s'étend jusqu'au [[Nirmathas]].
+Dernier-Rempart est situé sur la rive ouest du lac d'[[Encarthan]], la plus grande étendue d'eau douce de l'[[Avistan]]. Au nord, les [[montagnes Affamées]] séparent le pays de l'[[Ustalav]] et à l'est s'étend [[Bois-Vorace]], une forêt qui s'étend jusqu'au [[Nirmathas]]. 
 
 Si ces deux régions semblent pacifiques et fournissent d'abondantes ressources naturelles à Dernier-Rempart, le danger n'est pas loin. En effet, au nord-ouest le [[Belkzen]], territoire occupé par une multitudes de tribus orques belliqueuses, et [[Gibet]], situé au pied des [[montagnes Affamées]] sur le territoire de l'[[Ustalav]], sont sources de nombreux dangers et sont surveillés constamment par les croisés qui occupent Dernier-Rempart.
 
@@ -19,7 +19,7 @@ Dernier-Rempart est une nation relativement jeune comparativement à l'[[Osirion
 
 Depuis sa fondation, Dernier-Rempart a parfaitement rempli son rôle, repoussant les hordes d'orques venus du [[Belkzen]] ou les morts-vivants descendus de l'[[Ustalav]]. Jusqu'à présent, les frontières ont tenu bon malgré les assauts répétés venus essentiellement du nord-ouest.
 
-En dehors des combats quasi-permanents contre ses ennemis extérieurs et intérieurs, l'histoire de Dernier-Rempart est relativement épargnée par les conflits internationaux. Le pays est resté neutre, évitant de s'impliquer dans la politique internationale et essayant de rester fidèle à la raison pour laquelle il a été fondé.
+En dehors des combats quasi-permanents contre ses ennemis extérieurs et intérieurs, l'histoire de Dernier-Rempart est relativement épargnée par les conflits internationaux. Le pays est resté neutre, évitant de s'impliquer dans la politique internationale et essayant de rester fidèle à la raison pour laquelle il a été fondé. 
 
 Néanmoins, on notera que Dernier-Rempart s'est éloigné du [[Taldor]], sa nation mère, lors de la grande révolte d'émancipation des peuples de l'empire. Mais contrairement aux autre nations qui ont émergé à ce moment-là, Dernier-Rempart est toujours resté éloigné du [[Chéliax]].
 
@@ -32,6 +32,6 @@ Le Seigneur-Vigile est élu par les Chantres Martiaux de l'École de Guerre. Cet
 Les habitants de Dernier-Rempart sont essentiellement humains mais acceptent avec plaisir la présence des représentants des autres races qui partagent leur cause. Les hommes et les femmes de Dernier-Rempart sont robustes et amicaux, surtout envers les croisés qui viennent les aider à défendre leur patrie ou à assister le gouvernement dans sa tâche de surveillance de [[Gibet]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de Dernier-Rempart dans le supplément
+Vous pourrez trouver plus d'informations à propos de Dernier-Rempart dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

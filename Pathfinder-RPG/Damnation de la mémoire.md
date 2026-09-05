@@ -10,12 +10,12 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Garundais|Garundais|garundi}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 9
-**Temps d'incantation** 1 heure
-**Composantes** [[composantes|V, G, F]] (une prierre précieuse massive et sans défaut valant 5.000 po)
-**Portée** longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)
-**Cible** toutes les créatures vivantes à portée
-**Durée** permanente
+{s:regional|Garundais|Garundais|garundi}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 9  
+**Temps d'incantation** 1 heure  
+**Composantes** [[composantes|V, G, F]] (une prierre précieuse massive et sans défaut valant 5.000 po)  
+**Portée** longue (120 m + 12 m/niveau) (80 {s:c} + 8 {s:c}/niveau)  
+**Cible** toutes les créatures vivantes à portée  
+**Durée** permanente  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage nomme une créature et supprime tout souvenir de l'implication de cette créature dans les évènements dont se souviennent les cibles. Les cibles oublient qui a exactement accompli les actes de la créature nommée ou supposent qu'un autre individu les a accomplis. Autrement, le personnage peut nommer n'importe quel évènement survenu dans les dernières 10 minutes par [[NLS|niveau de lanceur de sorts]] ou un sujet unique (défini à la discrétion du [[MJ]]) comme un secret honteux du roi qui a été récemment révélé ou une petite révolte qui a été réprimée sans ménagement, et efface tout souvenir relatif à ce sujet de l'esprit de toutes les créatures dans la zone. Les souvenirs des faits et des sujets qui sont de notoriété publique (les informations révélées par un test de [[Connaissances]] d'un [[DD]] de 10 ou moins) ne peuvent pas être volés de cette manière.

@@ -13,7 +13,7 @@ Categories:
 #### Mutagène expérimental (Sur)
 Au niveau 2, un chercheur visionnaire sait comment créer un mutagène expérimental dont les autres peuvent bénéficier, même si l’effet est moins important que celui d’un mutagène normal.
 
-Le mutagène expérimental fonctionne comme un [[Alchimiste#MUTAGENES|mutagène standard]], sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas [[nauséeux|nauséeuse]] la créature qui l’ingurgite.
+Le mutagène expérimental fonctionne comme un [[Alchimiste#MUTAGENES|mutagène standard]], sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas [[nauséeux|nauséeuse]] la créature qui l’ingurgite. 
 
 Quand il crée le mutagène, le chercheur décide si celui-ci est standard (ce qui ne donne aucun avantage si une autre créature l’ingurgite) ou s’il est expérimental (dont autrui peut bénéficier). Le coût, le temps de création et tous les autres aspects du mutagène restent les mêmes.
 

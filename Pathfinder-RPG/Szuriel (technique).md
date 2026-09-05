@@ -20,25 +20,25 @@ Etudiez un moment la ou les créatures qui attisent votre colère avant de mettr
 
 #### Faveurs ([[Obédience divine]])
 **[[Évangéliste]] :**
-: **1.** ***Bénédiction du Séraphin (Mag).*** *[[charme-personne]]* 3/jour, *[[perspicacité tactique]]* 2/jour, *[[suggestion]]* 1/jour.
+: **1.** ***Bénédiction du Séraphin (Mag).*** *[[charme-personne]]* 3/jour, *[[perspicacité tactique]]* 2/jour, *[[suggestion]]* 1/jour.  
 : **2.** *** Les feux rapides de la guerre (Mag).***  Vous pouvez lancer [[rapidité]] une fois par jour comme un pouvoir magique.
-: **3.** ***Le commandement du cavalier de la guerre (Mag).*** Une fois par jour, vous pouvez invoquer la fureur du cavalier de la guerre, exhortant toutes les créatures situées dans un rayon de 9 mètre à entrer dans une rage folle et à attaquer vos ennemis. Cela fonctionne comme un [[chant de discorde]] en incantation rapide.
+: **3.** ***Le commandement du cavalier de la guerre (Mag).*** Une fois par jour, vous pouvez invoquer la fureur du cavalier de la guerre, exhortant toutes les créatures situées dans un rayon de 9 mètre à entrer dans une rage folle et à attaquer vos ennemis. Cela fonctionne comme un [[chant de discorde]] en incantation rapide. 
 
 **[[Exalté]] :**
-: **1.** *** Grâce du Séraphin (Mag). *** *[[instant de gloire]]* 3/jour, *[[regard brûlant]]* 2/jour, *[[boule de feu]]* 1/jour.
-: **2.** ***Touché du bûcher (Ext).*** Vous gagnez une résistance au feu de 30 (cela se cumule avec toute autre résistance au feu naturelle que vous avez).
-: **3.** ***Le châtiment des délaissé (Mag).*** Une fois par jour, par une action simple, vous invoquez la colère du cavalier de la guerre sur une seule cible. Cette capacité agit comme une implosion, mais la victime est aspirée dans les airs, maintenue cruciforme, puis déchirée par une force invisible.
+: **1.** *** Grâce du Séraphin (Mag). *** *[[instant de gloire]]* 3/jour, *[[regard brûlant]]* 2/jour, *[[boule de feu]]* 1/jour.  
+: **2.** ***Touché du bûcher (Ext).*** Vous gagnez une résistance au feu de 30 (cela se cumule avec toute autre résistance au feu naturelle que vous avez).  
+: **3.** ***Le châtiment des délaissé (Mag).*** Une fois par jour, par une action simple, vous invoquez la colère du cavalier de la guerre sur une seule cible. Cette capacité agit comme une implosion, mais la victime est aspirée dans les airs, maintenue cruciforme, puis déchirée par une force invisible.  
 **[[Sentinelle]] :**
-: **1.** ***Croisé de guerre (Mag).*** *[[monture]]* 3/jour, *[[monture de guerre]]* 2/jour, *[[coursier fantôme]]* 1/jour.
-: **2.** ***Connaissance des armes (Sur).*** Vous maîtrisez toutes les armes, mais vous êtes particulièrement doué pour les épées. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une épée à deux mains. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une [[épée à deux mains (arme)|épée à deux mains]].
-: **3.** ***Avatar du Séraphin (Sur).*** Vous gagnez un bonus profane de +2 à la Force et à la Constitution.
+: **1.** ***Croisé de guerre (Mag).*** *[[monture]]* 3/jour, *[[monture de guerre]]* 2/jour, *[[coursier fantôme]]* 1/jour.  
+: **2.** ***Connaissance des armes (Sur).*** Vous maîtrisez toutes les armes, mais vous êtes particulièrement doué pour les épées. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une épée à deux mains. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une [[épée à deux mains (arme)|épée à deux mains]].  
+: **3.** ***Avatar du Séraphin (Sur).*** Vous gagnez un bonus profane de +2 à la Force et à la Constitution.  
 
 
 ### Règles uniques aux suivants
 **Lancement de sorts.**
 : *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Sword%20of%20War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile)*.
 
-**Convocations étendues.**
+**Convocations étendues.** 
 : *[[Convocation de monstres III]].* [[Cacodaémon]]
 : *[[Convocation de monstres IV]].* [[Urdefhan]] [[archétypes#CREATUREFIELON|fiélon]]
 : *[[Convocation de monstres V]].* [Genthodaemon](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Genthodaemon)
@@ -49,14 +49,14 @@ Etudiez un moment la ou les créatures qui attisent votre colère avant de mettr
 :  *[Apôtre funeste (Spirite)](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Spiritualist%20Grim%20Apostle)*.
 
 **Dons.**
-:  *[[Aura de trépas]]  *.
+:  *[[Aura de trépas]]  *. 
 
-**Objets magiques - Objets merveilleux.**
+**Objets magiques - Objets merveilleux.**  
 : *[Le fourreau du cavalier de la guerre](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Szuriel%27s%20Scabbard)*.
 
-**Sorts.**
+**Sorts.** 
 : *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Sword%20of%20War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile)*.
 
 
-**Traits.**
+**Traits.** 
 : *[[Traits religieux#ALLIANCEDABADDON|Alliance d’Abaddon]]*.

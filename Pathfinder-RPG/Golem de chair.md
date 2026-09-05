@@ -64,7 +64,7 @@ doute d’une combinaison parfaite de plusieurs
 conditions, dont la présence d’un cerveau
 suffisamment frais et provenant d’un
 individu qui possédait une forte volonté
-de son vivant.
+de son vivant. 
 
 Et encore... la chance et le
 hasard jouent également un rôle important

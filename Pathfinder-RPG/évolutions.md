@@ -5,7 +5,7 @@ LastModified: 2012-08-26 22:32
 ---
 
 ### Evolutions
-Chaque eidolon reçoit un nombre de points d’évolution à dépenser de manière à gagner de nouvelles aptitudes, de nouveaux pouvoirs et autres améliorations. Le [[conjurateur]] peut changer ces nouvelles aptitudes, appelées évolutions, à chaque fois qu’il gagne un niveau mais en dehors de cela, elles sont constantes.
+Chaque eidolon reçoit un nombre de points d’évolution à dépenser de manière à gagner de nouvelles aptitudes, de nouveaux pouvoirs et autres améliorations. Le [[conjurateur]] peut changer ces nouvelles aptitudes, appelées évolutions, à chaque fois qu’il gagne un niveau mais en dehors de cela, elles sont constantes. 
 
 Certaines évolutions nécessitent une forme particulière de l’eidolon ou un niveau minimum de conjurateur.
 
@@ -139,7 +139,7 @@ Les évolutions suivantes coûtent 3 points tirés de la réserve d’évolution
 <table width="100%">
 <tr>
 <td width="49%">
-**Creusement (Ext).** L’eidolon développe d’épaisses griffes recourbées qui lui permettent de se déplacer dans le sol. Il gagne une vitesse de creusement égale à la moitié de sa [[VD|vitesse de base]]. Il peut s’en servir pour se déplacer dans la terre, l’argile et le sable. Il ne laisse pas de tunnel dans son sillage et son passage ne se remarque pas en surface. Le conjurateur doit être au moins de niveau 9 avant de choisir
+**Creusement (Ext).** L’eidolon développe d’épaisses griffes recourbées qui lui permettent de se déplacer dans le sol. Il gagne une vitesse de creusement égale à la moitié de sa [[VD|vitesse de base]]. Il peut s’en servir pour se déplacer dans la terre, l’argile et le sable. Il ne laisse pas de tunnel dans son sillage et son passage ne se remarque pas en surface. Le conjurateur doit être au moins de niveau 9 avant de choisir 
 cette évolution.
 
 **Engloutissement (Ext).** Un eidolon gagne le pouvoir engloutissement qui lui permet d’avaler ses adversaires. Si l’eidolon commence son tour avec une créature agrippée en utilisant son attaque de morsure (voir l’évolution étreinte), il peut faire une manœuvre de combat pour l’engloutir. Cette créature peut faire jusqu’à une [[catégorie de taille]] de moins que l’eidolon. À chaque round, les créatures avalées reçoivent des dégâts égaux aux dégâts de morsure de l’eidolon plus 1d6 points de dégâts contondants. Une créature engloutie conserve la condition [[agrippé|agrippée]] mais elle peut essayer de s’ouvrir un passage vers l’extérieur avec une [[arme légère]] tranchante ou perforante. Le montant de dégâts nécessaire pour sortir est égale à 1/10 des [[pv|points de vie]] de l’eidolon. Contre ces attaques, la [[CA]] de l’eidolon est égale à 10 + 1/2 bonus d’armure naturelle. Si une créature avalée tranche l’estomac de l’eidolon pour sortir, il ne peut plus utiliser ce pouvoir tant qu’il n’a pas soigné ces dégâts. Sinon, la créature avalée peut tenter d’échapper à la lutte comme d’habitude. En cas de succès, elle parvient à regagner la gueule de l’eidolon d’où elle peut tenter de fuir, à moins d’être avalée de nouveau. L’eidolon doit posséder l’évolution étreinte liée à son attaque de morsure pour choisir celle-ci. Le conjurateur doit être au moins de niveau 9 avant de choisir cette évolution.

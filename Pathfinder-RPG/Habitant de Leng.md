@@ -43,46 +43,46 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|<b>Absorption de Dextérité (Sur)</b> Les dents et la langue d’un habitant de Leng infligent une diminution permanente de 1d6 points de Dextérité en cas de morsure. Les créatures artificielles, les élémentaires et les créatures qui ne possèdent pas de chair sont immunisés contre cet effet. Un jet de Vigueur réussi contre un DD de 19 réduit la diminution permanente à 1 seul point. Le DD du jet de sauvegarde dépend de la Constitution.}
 {s:BDTexte|<b>Anatomie bizarre (ext).</b> L’anatomie interne des habitants de Leng varie d’un spécimen à l’autre. Chaque coup critique ou attaque sournoise infligé à un habitant de Leng a 50% de chances de ne rien faire de plus qu’un coup normal.}
-{s:BDTexte|<b>Guérison accélérée planaire (Sur)</b>. Les habitants de Leng restent connectés à Leng à tout moment et, lorsqu’ils s’en éloignent, ils gagnent la capacité de guérison accélérée 5. Ils perdent toutefois cette capacité sur Leng et dans les zones où les connections interplanaires ne fonctionnent pas. Si un habitant de Leng est tué, son corps se
+{s:BDTexte|<b>Guérison accélérée planaire (Sur)</b>. Les habitants de Leng restent connectés à Leng à tout moment et, lorsqu’ils s’en éloignent, ils gagnent la capacité de guérison accélérée 5. Ils perdent toutefois cette capacité sur Leng et dans les zones où les connections interplanaires ne fonctionnent pas. Si un habitant de Leng est tué, son corps se 
 dissout complètement en 1d4 rounds, ne laissant que son équipement derrière lui et l’habitant tué se reforme sur Leng (comme une créature invoquée tuée). Sa mort est cependant permanente si sa capacité de guérison accélérée est supprimée à ce moment-là.}
 
 </td><td><div>*Plus on observe les tics qui animent le visage de cet étrange humanoïde vêtu de guenilles en cuir et plus il semble bizarre et horrible.*
 
-Ces  sinistres  habitants  sillonnent  l’univers  depuis  leur
-étrange  nation  d’origine,  Leng,  et  se  fondent  dans  la  masse  en
-se  déguisant  en  humains,  en  s’affublant  d’amples  robes  et  en
-enroulant des turbans autour de leur tête et de leur visage.
-Ces déguisements cachent les cornes qui ornent leur front,
-les griffes au bout de leurs doigts, les tentacules qui s’agitent
-dans  leur  bouche  et  les  pattes  de  bouc  incurvées  et
+Ces  sinistres  habitants  sillonnent  l’univers  depuis  leur 
+étrange  nation  d’origine,  Leng,  et  se  fondent  dans  la  masse  en 
+se  déguisant  en  humains,  en  s’affublant  d’amples  robes  et  en 
+enroulant des turbans autour de leur tête et de leur visage. 
+Ces déguisements cachent les cornes qui ornent leur front, 
+les griffes au bout de leurs doigts, les tentacules qui s’agitent 
+dans  leur  bouche  et  les  pattes  de  bouc  incurvées  et 
 garnies de sabots fendus qui leur servent de jambes.
-Les érudits ont des avis bien différents au
-sujet  de  l’emplacement  de  Leng.  Certains
-pensent que Leng se trouve quelque part
-dans  les  plans  Extérieurs  alors  que
-d’autres  sont  convaincus  qu’on  ne  peut  y
-arriver qu’en passant par la dimension des
-rêves.  Les  habitants  de  Leng  peuvent
-voyager  librement  vers  d’autres
-plans  et  le  font  régulièrement  à
-bord  d’étranges  navires  noirs.
-Ils  recherchent  sans  cesse  de
-nouvelles  espèces  d’esclaves
-et  échangent  des  rubis  contre
-des  services  sortant  de  l’ordinaire
-ou  des  trésors  magiques.  Parfois,
-leurs  visites  sont  bien  plus
-violentes  et  leur  objectif  est
-de  kidnapper  des  victimes
-qui  seront  ensuite  utilisées
-comme  esclaves…  ou  pire.
-Sur  Leng,  les  habitants
-mènent  depuis  longtemps
-la  guerre  aux  araignées
-monstrueuses  locales,  une
-guerre qui déborde parfois
+Les érudits ont des avis bien différents au 
+sujet  de  l’emplacement  de  Leng.  Certains 
+pensent que Leng se trouve quelque part 
+dans  les  plans  Extérieurs  alors  que 
+d’autres  sont  convaincus  qu’on  ne  peut  y 
+arriver qu’en passant par la dimension des 
+rêves.  Les  habitants  de  Leng  peuvent 
+voyager  librement  vers  d’autres 
+plans  et  le  font  régulièrement  à 
+bord  d’étranges  navires  noirs. 
+Ils  recherchent  sans  cesse  de 
+nouvelles  espèces  d’esclaves 
+et  échangent  des  rubis  contre 
+des  services  sortant  de  l’ordinaire 
+ou  des  trésors  magiques.  Parfois, 
+leurs  visites  sont  bien  plus 
+violentes  et  leur  objectif  est 
+de  kidnapper  des  victimes 
+qui  seront  ensuite  utilisées 
+comme  esclaves…  ou  pire. 
+Sur  Leng,  les  habitants 
+mènent  depuis  longtemps 
+la  guerre  aux  araignées 
+monstrueuses  locales,  une 
+guerre qui déborde parfois 
 dans les autres mondes.
-Un  habitant  de  Leng
-pèse  100  kg  et  mesure
+Un  habitant  de  Leng 
+pèse  100  kg  et  mesure 
 quelque 1,65 m de hauteur.
 </div></td></tr></table>

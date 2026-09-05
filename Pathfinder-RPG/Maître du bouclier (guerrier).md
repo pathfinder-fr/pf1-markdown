@@ -8,13 +8,13 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypeguerrier}{s:APG}*Un maître du bouclier privilégie autant l'attaque que la défense, mariant l'arme et le bouclier en un parfait équilibre. Il gênera ses adversaires au moment où il leur assènera des coups mortels et pourra même faire de son bouclier une arme formidable. Les avantages de ce style de combat s'appliquent lorsqu'on manie une arme et un bouclier en même temps.*
+{s:Menuarchétypeguerrier}{s:APG}*Un maître du bouclier privilégie autant l'attaque que la défense, mariant l'arme et le bouclier en un parfait équilibre. Il gênera ses adversaires au moment où il leur assènera des coups mortels et pourra même faire de son bouclier une arme formidable. Les avantages de ce style de combat s'appliquent lorsqu'on manie une arme et un bouclier en même temps.* 
 
 #### Défense active (Ext).
 Au niveau 3, le maître du bouclier reçoit un bonus d'esquive à la [[CA]] lorsqu'il tient un bouclier et [[combat sur la défensive]], lorsqu'il utilise [[expertise du combat]] ou lorsqu'il est en [[défense totale]]. Ce bonus est de +1 au niveau 3, +1 par tranche de quatre niveaux au-delà du niveau 3. Par une [[action rapide]], il, peut partager le bonus avec un allié situé dans un espace voisin, ou la moitié de ce bonus avec tous les alliés voisins, et ce, jusqu'au début du prochain tour. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1, 2, 3 et 4]].
 
 #### Guerrier du bouclier (Ext).
-Au niveau 5, le personnage reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il frappe avec son bouclier. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. De plus, s'il entreprend une [[attaque à outrance]], il peut utiliser alternativement son arme et son bouclier pour chaque attaque. Il ne bénéficie pas d'attaques supplémentaires, pas plus qu'il ne subit les pénalités du [[combat à deux armes]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]].
+Au niveau 5, le personnage reçoit un bonus à ses jets d'attaque et de dégâts lorsqu'il frappe avec son bouclier. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. De plus, s'il entreprend une [[attaque à outrance]], il peut utiliser alternativement son arme et son bouclier pour chaque attaque. Il ne bénéficie pas d'attaques supplémentaires, pas plus qu'il ne subit les pénalités du [[combat à deux armes]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]]. 
 
 #### Frappe du bouclier (Ext).
 Au niveau 9, par une [[action de mouvement]], puis au niveau 13 par une [[action rapide]], le guerrier peut faire un test de [[manœuvre de combat]] et utiliser son bouclier pour gêner un adversaire situé sur une case adjacente. En cas de réussite, la cible subit une pénalité de -2 à sa [[CA]] contre les attaques du personnage, et ce, jusqu'au début de son prochain tour. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 2 et 3]].

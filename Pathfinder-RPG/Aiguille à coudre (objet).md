@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** —
+{s:AE}**Prix** 5 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette aiguille permet au personnage de coudre des vêtements, de la toile ou du cuir fin.

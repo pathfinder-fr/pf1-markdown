@@ -44,37 +44,37 @@ Categories:
 {s:BDTexte|<b>Poison (Ext)</b> Les habitants de la lumière enduisent généralement leurs dagues d’essence d’ombre.
 Essence d’ombre — blessure ; JdS Vigueur DD 17 ; fréquence 1/ round pendant 6 rounds ; effet initial diminution permanente 1 For ; effet secondaire affaiblissement temporaire 1d3 For ; guérison 1 réussite.}
 {s:BDTexte|<b>Portail de lumière (Mag)</b> Une fois par jour, un habitant de la lumière peut utiliser porte dimensionnelle pour se transporter (personnel uniquement et au plus 25 kg d’équipement). Les points de départ et d’arrivée doivent se trouver dans des zones de lumière vive. Si la destination n’est pas suffisamment éclairée, la téléportation échoue mais l’utilisation quotidienne n’est pas dépensée.}
-{s:BDTexte|<b>Rituel du portail (Sur)</b> En sacrifiant une ou plusieurs victimes humanoïdes, un habitant de la lumière ou un groupe d’habitants de la lumière peut créer un portail vers le plan Matériel, l’un des plans Élémentaires ou le royaume des fées, soit pour retourner chez eux soit pour appeler des alliés. La création d’un portail pour le voyage nécessite le sacrifice de 5 victimes et le portail reste ou-vert pendant 1 minute. La création d’un portail pour amener des alliés vers le plan Matériel nécessite un nombre de sacrifices égal au nombre de DV de créature qui doit passer par le portail (ainsi, quatre sacrifices permettent d’amener un élémentaire de l’Air de taille M alors que huit permettent d’amener un habitant de la lumière ou un élémentaire de la Terre de taille TG
+{s:BDTexte|<b>Rituel du portail (Sur)</b> En sacrifiant une ou plusieurs victimes humanoïdes, un habitant de la lumière ou un groupe d’habitants de la lumière peut créer un portail vers le plan Matériel, l’un des plans Élémentaires ou le royaume des fées, soit pour retourner chez eux soit pour appeler des alliés. La création d’un portail pour le voyage nécessite le sacrifice de 5 victimes et le portail reste ou-vert pendant 1 minute. La création d’un portail pour amener des alliés vers le plan Matériel nécessite un nombre de sacrifices égal au nombre de DV de créature qui doit passer par le portail (ainsi, quatre sacrifices permettent d’amener un élémentaire de l’Air de taille M alors que huit permettent d’amener un habitant de la lumière ou un élémentaire de la Terre de taille TG 
 et ainsi de suite). Les sacrifices ne doivent pas forcément être simultanés : tant qu’ils sont effectués au cours de l’heure que dure le rituel, l’énergie magique continue de s’accumuler jusqu’à ce que le total requis soit atteint.}
-{s:BDTexte|<b>Se fondre dans la lumière (Sur)</b> Dans les zones de lumière vive, les habitants de la lumière sont
+{s:BDTexte|<b>Se fondre dans la lumière (Sur)</b> Dans les zones de lumière vive, les habitants de la lumière sont 
 invisibles. Ils peuvent attaquer et rester invisibles, comme s’ils étaient affectés par un sort d’invisibilité suprême. Dans la pénombre, ils perdent cette invisibilité mais, comme toutes les autres créatures, ils gagnent un camouflage (sauf contre les ennemis dotés de vision dans le noir). Lorsqu’ils volent, les battements de leurs ailes annulent partiellement cet effet cependant, de sorte qu’ils ne bénéficient que d’un camouflage partiel (20%) au lieu d’un camouflage total.}
 </div>
-</td><td><div>''Cet  humanoïde  aux  grands  yeux  ressemble  à  un  enfant  elfe  émacié  et
+</td><td><div>''Cet  humanoïde  aux  grands  yeux  ressemble  à  un  enfant  elfe  émacié  et 
 luisant à qui on aurait ajouté de petites ailes transparentes.''
-Les habitants de la lumière sont des fées maléfiques et étranges qui
-viennent sur le plan Matériel pour y commettre des méfaits, voler ou
-tuer selon une logique ou une sorte de justice qu’eux seuls peuvent
-comprendre.  Les  gnomes  semblent  être  particulièrement  visés  par
-ces  attaques  inexpliquées,  ce  qui  pousse  certains  à  penser  que  les
-habitants de la lumière pourraient être des agents au service de forces
-ancestrales bien déterminées à se venger des gnomes. Les habitants
-de la lumière ne sont visibles que sous des conditions de luminosité
-assez  faibles.  Les  lumières  plus  fortes  que  celle  d’une  torche  les
-rendent  complètement  invisibles,  même  lorsqu’ils  attaquent  leurs
-ennemis (une idée qui terrifie les races civilisées, où on a tendance à
+Les habitants de la lumière sont des fées maléfiques et étranges qui 
+viennent sur le plan Matériel pour y commettre des méfaits, voler ou 
+tuer selon une logique ou une sorte de justice qu’eux seuls peuvent 
+comprendre.  Les  gnomes  semblent  être  particulièrement  visés  par 
+ces  attaques  inexpliquées,  ce  qui  pousse  certains  à  penser  que  les 
+habitants de la lumière pourraient être des agents au service de forces 
+ancestrales bien déterminées à se venger des gnomes. Les habitants 
+de la lumière ne sont visibles que sous des conditions de luminosité 
+assez  faibles.  Les  lumières  plus  fortes  que  celle  d’une  torche  les 
+rendent  complètement  invisibles,  même  lorsqu’ils  attaquent  leurs 
+ennemis (une idée qui terrifie les races civilisées, où on a tendance à 
 considérer lumière et sécurité comme des synonymes).
-Les habitants de la lumière font mentir les adages de la sagesse
-populaire : ils détestent les ténèbres et les créatures qui y vivent
-et  sont  eux-mêmes  sadiques  et  maléfiques.  Ils  détestent  tout
-particulièrement les mantes obscures, les nains et les créatures du
-plan des Ombres. S’ils en ont le temps et qu’ils parviennent à les
+Les habitants de la lumière font mentir les adages de la sagesse 
+populaire : ils détestent les ténèbres et les créatures qui y vivent 
+et  sont  eux-mêmes  sadiques  et  maléfiques.  Ils  détestent  tout 
+particulièrement les mantes obscures, les nains et les créatures du 
+plan des Ombres. S’ils en ont le temps et qu’ils parviennent à les 
 capturer vivantes, ils aiment torturer ces créatures jusqu’à la mort.
-Une  fois  tué,  un  habitant  de  la  lumière  se  désintègre  en
-quelques minutes en 2d6 demi-kilos de poussière possédant une
-faible aura magique d’invocation et émettant pendant 1d6 jours
-une  lumière  froide  semblable  à  celle  d’une  bougie.  Cette
-poussière  blesse  les  ombres  comme  s’il  s’agissait  d’eau  bénite
+Une  fois  tué,  un  habitant  de  la  lumière  se  désintègre  en 
+quelques minutes en 2d6 demi-kilos de poussière possédant une 
+faible aura magique d’invocation et émettant pendant 1d6 jours 
+une  lumière  froide  semblable  à  celle  d’une  bougie.  Cette 
+poussière  blesse  les  ombres  comme  s’il  s’agissait  d’eau  bénite 
 (un demi-kilo de poussière correspond à une fiole d’eau bénite).
-Un habitant de la lumière mesure 90 cm de hauteur et ne pèse
+Un habitant de la lumière mesure 90 cm de hauteur et ne pèse 
 que 10 kg.
 </div></td></tr></table>

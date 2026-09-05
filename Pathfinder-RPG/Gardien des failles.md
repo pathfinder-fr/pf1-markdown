@@ -16,45 +16,45 @@ Categories:
 | CLASS="gauche" | Spécial
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
-| 1 || +0 || +0 || +1 || +1
+| 1 || +0 || +0 || +1 || +1 
 | CLASS="gauche" | [[Gardien des failles#CONTRECONVOCATION|Contre-convocation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
 | CLASS="gauche" | -
 |- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
+| 2 || +1 || +1 || +1 || +1 
 | CLASS="gauche" | [[Gardien des failles#CANALISATIONPLANAIRE|Canalisation planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |-
-| 3 || +2 || +1 || +2 || +2
+| 3 || +2 || +1 || +2 || +2 
 | CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +1
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |- CLASS="alt"
-| 4 || +3 || +1 || +2 || +2
+| 4 || +3 || +1 || +2 || +2 
 | CLASS="gauche" | [[Gardien des failles#CONTRETELEPORTATION|Contre-téléportation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |-
-| 5 || +3 || +2 || +3 || +3
+| 5 || +3 || +2 || +3 || +3 
 | CLASS="gauche" | [[Gardien des failles#FLEAUPLANAIRE|Fléau planaire]]
 | CLASS="gauche" | -
 |- CLASS="alt"
-| 6 || +4 || +2 || +3 || +3
+| 6 || +4 || +2 || +3 || +3 
 | CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +2
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |-
-| 7 || +5 || +2 || +4 || +4
+| 7 || +5 || +2 || +4 || +4 
 | CLASS="gauche" | [[Gardien des failles#SCIENCEDELACONTRETELEPORTATION|Science de la contre-téléportation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |- CLASS="alt"
-| 8 || +6 || +3 || +4 || +4
+| 8 || +6 || +3 || +4 || +4 
 | CLASS="gauche" | [[Gardien des failles#PURGEPLANAIRE|Purge planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |-
-| 9 || +6 || +3 || +5 || +5
+| 9 || +6 || +3 || +5 || +5 
 | CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +3
 | CLASS="gauche" | -
 |- CLASS="alt"
-| 10 || +7 || +3 || +5 || +5
+| 10 || +7 || +3 || +5 || +5 
 | CLASS="gauche" | [[Gardien des failles#CONTRETELEPORTATIONSUPERIEURE|Contre-téléportation supérieure]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
 |}
 
 **Dé de vie.**d8.
@@ -62,7 +62,7 @@ Categories:
 ### Conditions requises
 Pour devenir gardien des failles, le personnage doit satisfaire aux conditions suivantes.
 
-**Alignement.** N’importe quel alignement non-Mauvais.
+**Alignement.** N’importe quel alignement non-Mauvais. 
 
 **Dons.** [[École renforcée]] (abjuration), [[Efficacité des sorts accrue]].
 
@@ -81,7 +81,7 @@ Voici les compétences du gardien des failles : [[Art de la magie]] (Int), [[Con
 ### Caractéristiques de classe
 Voici les caractéristiques de classe du gardien des failles.
 #### Armes et armures
-Un gardien des failles ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un gardien des failles ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|CONTRECONVOCATION}
 #### Contre-convocation (Sur)
@@ -98,7 +98,7 @@ Au niveau 1, puis tous les 3 niveaux par la suite, un gardien des failles choisi
 
 {s:reference|CANALISATIONPLANAIRE}
 #### Canalisation planaire (Sur)
-Au niveau 2, un gardien des failles peut canaliser de l’énergie nocive contre des créatures de sous-type [[sous-type extraplanaire|extraplanaire]] (quelque soit leur alignement ou plan d’origine), comme la [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] d’un [[prêtre]]. Le gardien des failles inflige des dégâts comme un prêtre de niveau égal au [[niveau de lanceur de sorts]] le plus élevé du gardien des failles. Cette énergie peut uniquement blesser des créatures, pas les soigner. Cette capacité ne peut pas être utilisée avec des dons, des objets magiques ou tout autre effet qui modifierait la canalisation d'énergie. Un gardien des failles peut utiliser cette capacité un nombre de fois égal à 3 + son modificateur dans la caractéristique d'incantation de la classe de lanceur de sorts choisie.
+Au niveau 2, un gardien des failles peut canaliser de l’énergie nocive contre des créatures de sous-type [[sous-type extraplanaire|extraplanaire]] (quelque soit leur alignement ou plan d’origine), comme la [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] d’un [[prêtre]]. Le gardien des failles inflige des dégâts comme un prêtre de niveau égal au [[niveau de lanceur de sorts]] le plus élevé du gardien des failles. Cette énergie peut uniquement blesser des créatures, pas les soigner. Cette capacité ne peut pas être utilisée avec des dons, des objets magiques ou tout autre effet qui modifierait la canalisation d'énergie. Un gardien des failles peut utiliser cette capacité un nombre de fois égal à 3 + son modificateur dans la caractéristique d'incantation de la classe de lanceur de sorts choisie. 
 
 {s:reference|ERADICATION}
 #### Éradication (Sur)

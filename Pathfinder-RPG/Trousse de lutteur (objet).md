@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 9 po ; **Poids** 18,25 kg<sup>[[Trousses déquipement#2|2]]</sup>
+{s:MCA}**Prix** 9 po ; **Poids** 18,25 kg<sup>[[Trousses déquipement#2|2]]</sup>  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse inclut un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Corde (objet)|corde]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

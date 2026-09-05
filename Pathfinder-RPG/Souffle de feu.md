@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un piment)
-**Portée** 4,50 m (3 {s:c})
-**Cible** [[rayonnement]] en forme de cône
-**Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement ; voir texte
+{s:APG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un piment)  
+**Portée** 4,50 m (3 {s:c})  
+**Cible** [[rayonnement]] en forme de cône  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement ; voir texte  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Le personnage peut cracher un cône de feu par une [[action simple]] jusqu'à trois fois pendant que ce sort fait effet. Le cône inflige 4d6 points de dégâts de feu à chaque créature qui se trouve dans la zone. Le deuxième cône n'inflige que 2d6 points de dégâts et le troisième 1d6 aux créatures se trouvant dans la zone. Un jet de [[Réflexes]] permet de réduire ces dégâts de moitié. Le sort se termine au troisième cône de flammes.

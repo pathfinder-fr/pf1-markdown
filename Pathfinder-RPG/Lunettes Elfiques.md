@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:46
 {s:BDTitre|Lunettes elfiques|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 8.500 po ; **Poids** —
 (((Description)))
-Ces simples lunettes sont faites de deux émeraudes fixées sur une monture légère. Elles confèrent à leur porteur la [[vision nocturne (capacité)|vision nocturne]] et un bonus de compétence de +5 aux tests d’[[Art de la magie]] pour identifier les auras et les objets magiques. Si le porteur est déjà doté de la vision nocturne, les lunettes doublent sa portée.
+Ces simples lunettes sont faites de deux émeraudes fixées sur une monture légère. Elles confèrent à leur porteur la [[vision nocturne (capacité)|vision nocturne]] et un bonus de compétence de +5 aux tests d’[[Art de la magie]] pour identifier les auras et les objets magiques. Si le porteur est déjà doté de la vision nocturne, les lunettes doublent sa portée. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale II]]*, *[[assistance divine]]* ; **Coût** 4.250 po
 </div>

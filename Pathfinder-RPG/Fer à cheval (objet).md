@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 1,5 kg
+{s:AE}**Prix** 5 pa ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Ce jeu comprend deux pieux en fer et quatre fers à cheval en fer.

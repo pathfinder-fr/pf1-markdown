@@ -7,7 +7,7 @@ Categories:
 - Ustalav
 ---
 
-Le comté de Versex, situé en [[Ustalav]], est une terre riche en minéraux mais pauvre en terres fertiles.
+Le comté de Versex, situé en [[Ustalav]], est une terre riche en minéraux mais pauvre en terres fertiles. 
 
 Pour cette raison, il gagne ses richesses des multiples exploitations minière disséminées sur les contreforts des [[montagnes Affamées]] dont il exporte la production grâce à sa situation sur les rives du lac d'[[Encarthan]].
 

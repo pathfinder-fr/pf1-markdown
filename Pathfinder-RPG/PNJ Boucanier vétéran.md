@@ -33,8 +33,8 @@ LastModified: 2021-04-02 17:21
 </div>
 </td><td><div>
 Un Boucanier Vétéran vit au meurtre et pillage. Comme un requin, il chasse constamment une proie. Les flibustiers préfèrent les cibles faciles comme un navire marchand lourd et lent qui abandonne rapidement son butin plutôt qu'un navire militaire qui a au mieux un stock d'armes et au pire un équipage complet de marins en colère désireux de verser du sang de pirate.
-Certains flibustiers ne prennent que des cargaisons, d'autres prennent aussi des esclaves, et certains ne laissent aucun survivants.
+Certains flibustiers ne prennent que des cargaisons, d'autres prennent aussi des esclaves, et certains ne laissent aucun survivants.  
 Les plus grands navires pirates peuvent avoir des esclaves rameurs ([[PNJ Vieux loup de mer|Vieux loup de mer]], expert 2) qui est poussé vers les ponts
-en tant que combattant réticent et bouclier vivant. Pour les flibustiers ces esclaves sont facilement remplacés par les membres survivants de l'équipage adverse.
+en tant que combattant réticent et bouclier vivant. Pour les flibustiers ces esclaves sont facilement remplacés par les membres survivants de l'équipage adverse.  
 Un capitaine de pirate typique est un [[PNJ Mercenaire grisonnant|mercenaire grisonnant]] (guerrier 6), un [[PNJ Roi pirate|roi pirate]] (combattant 15), une [[PNJ Reine pirate|reine des pirates]] (ranger 10) ou [[PNJ Capitaine des mers|Capitaine des mers]] (druide 8).
 </div></td></tr></table>

@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:regional|Garundais|Garundais|garundi}{s:MR}**École** [[Abjuration]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une sphère cristalline d’une valeur de 10 po)
-**Portée** personnelle
-**Cible** le lanceur de sorts
-**Durée** 1 minute/niveau (T)
+{s:regional|Garundais|Garundais|garundi}{s:MR}**École** [[Abjuration]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une sphère cristalline d’une valeur de 10 po)  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
+**Durée** 1 minute/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Le [[Golarion.Garund|peuple du désert]] protège ses demeures avec acharnement et, au fil des ans, a perfectionné sa magie pour mieux se défendre.*

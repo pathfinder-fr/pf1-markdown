@@ -5,9 +5,9 @@ LastModified: 2024-01-24 22:45
 ---
 
 <table class="Bestiaire"><tr><td>
-<div class="BD">
+<div class="BD">    
 {s:BDTitre|Shantak|FP 8}
-{s:pucem|Créature magique|Montagnes|Froid}
+{s:pucem|Créature magique|Montagnes|Froid}         
 - *Source : Bestiaire 2* p.250            
 - **PX** 4 800
 - [[Type Créature magique|Créature magique]] de taille TG, CM

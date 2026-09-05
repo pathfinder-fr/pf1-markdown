@@ -13,12 +13,12 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[Homme-serpent|hommes-serpents]].**
 
-**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/niveau)
-**Cible** une créature
-**Durée** instantanée et voir texte
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/niveau)  
+**Cible** une créature  
+**Durée** instantanée et voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 L’homme-serpent génère un souffle d’énergie discordant qui perturbe la magie accessible de la cible et transfère sa connaissance de cette magie au monstre.

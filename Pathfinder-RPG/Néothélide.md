@@ -51,7 +51,7 @@ Categories:
 Les gigantesques néothélides ne vivent que dans les profondeurs loin
 sous la surface, et étaient autrefois à la tête d’empires souterrains.
 Leur nombre a considérablement chuté face aux autres races qui
-se sont montrées plus fécondes et plus adaptables.
+se sont montrées plus fécondes et plus adaptables. 
 
 Aujourd’hui,
 ils appartiennent à la légende et ne figurent quasiment plus que
@@ -60,12 +60,12 @@ personnellement subi leur colère (et y ayant survécu).
 
 Les néothélides sont assistés par diverses espèces de créatures
 étranges semblables à des vers, des sbires qu’ils utilisent pour
-espionner leurs ennemis et leur faire la guerre.
+espionner leurs ennemis et leur faire la guerre. 
 
 Les néothélides eux-mêmes ont été engendrés par des créatures encore plus
 horribles, des monstruosités extrêmement anciennes venues
 de dimensions étranges provenant d’au-delà des frontières du
-monde connu.
+monde connu. 
 
 Les néothélides se considèrent comme
 les agents choisis par ces puissances maléfiques pour

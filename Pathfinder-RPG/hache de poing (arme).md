@@ -8,8 +8,8 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 9 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#SPECTACLE|spectacle]]
+{s:AE}{s:UC}**Prix** 9 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Haches|haches]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#SPECTACLE|spectacle]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Les haches de poing, généralement utilisées par deux, ressemblent à des fers de hache montées sur un [[coup-de-poing (arme)|coup-de-poing]]. Le personnage peut tenir une arme ou un autre objet dans la main qui porte la hache de poing mais pas le manier. Contrairement au coup-de-poing, il n’est pas possible de lancer des sorts avec la main portant la hache de poing.

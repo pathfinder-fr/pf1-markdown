@@ -12,11 +12,11 @@ Categories:
 {s:AO}{s:BDTitre|Bâton vril|}
 **Aura** [[Transmutation]] puissante ; **NLS** 15 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 200 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en argent évidé est gravé de glyphes élaborés et de clés à l’aspect de flûtes. Il permet l’utilisation des sorts suivants :
-• *[[manipulation à distance]]* (1 charge)
-• *[[soins légers]]* (1 charge)
-• *[[soins modérés]]* (2 charges)
-• *[[télékinésie]]* (2 charges)
+Ce bâton en argent évidé est gravé de glyphes élaborés et de clés à l’aspect de flûtes. Il permet l’utilisation des sorts suivants :  
+• *[[manipulation à distance]]* (1 charge)  
+• *[[soins légers]]* (1 charge)  
+• *[[soins modérés]]* (2 charges)  
+• *[[télékinésie]]* (2 charges)  
 • *[[champ de force]]* (3 charges)
 
 Si le manieur d’un bâton vril est un lanceur de sorts, il peut, par une [[types dactions#SIMPLE|action simple]], dépenser 1 charge et sacrifier un sort préparé ou un emplacement de sort inutilisé de niveau 1 ou plus pour canaliser la puissance du bâton afin de créer un rayon d’énergie magique brute appelé vril. Ce rayon d’une portée de 9 mètres nécessite la réalisation d’une [[valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] à distance et le manieur du bâton choisit s’il souhaite infliger des dégâts ou soigner. Le montant de dégâts infligés ou soignés par le rayon est égal à 1d6 points par niveau du sort sacrifié + 1 point par [[NLS|niveau de lanceur de sorts]] du manieur.

@@ -43,7 +43,7 @@ Les clergés d'Asmodéus se comportent de diverses manières selon si leur doctr
 Les disciplines asmodéennes : Dans ce document, on peut retrouver les doctrines et les pratiques de la foi en Asmodéus.
 Il est accompagné de nombreux rajouts.
 
-Le mono-graphe asmodéen : Ce texte est une version simplifiée des doctrines d'Asmodéus.
+Le mono-graphe asmodéen : Ce texte est une version simplifiée des doctrines d'Asmodéus. 
 
 {s:VoirAussiAvant}
 - Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].

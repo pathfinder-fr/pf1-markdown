@@ -19,7 +19,7 @@ Les sceptres sont des objets magiques proposant des [[pouvoirs magiques]] unique
 
 **Propriétés spéciales.** Lancer un dé. Sur un 01, le sceptre est [[objets intelligents|intelligent]]. Sur 02–31, un indice quant à sa capacité figure quelque part à sa surface (dessin, inscription, etc.), et sur 33–100, il n’a aucune propriété spéciale. Les [[objets intelligents]] ont des propriétés supplémentaires et parfois des [[pouvoirs extraordinaires]] et des desseins spéciaux (pour plus de précisions, voir la section "[[Objets intelligents]]"). Les sceptres à charges ne sont eux jamais [[objets intelligents|intelligents]].
 
-**Sceptres de métamagie.** Les sceptres de cette catégorie ont le pouvoir d’accorder des [[dons de métamagie]] aux sorts du porteur sans augmenter l’emplacement de sort qu’il dépense pour les incanter.
+**Sceptres de métamagie.** Les sceptres de cette catégorie ont le pouvoir d’accorder des [[dons de métamagie]] aux sorts du porteur sans augmenter l’emplacement de sort qu’il dépense pour les incanter. 
 
 {s:filtrable}
 <center>

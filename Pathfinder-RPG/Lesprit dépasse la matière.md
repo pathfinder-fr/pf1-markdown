@@ -10,12 +10,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[contact]]
-**Cible** une créature
-**Durée** instantané
+{s:cs}{s:OO}**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[contact]]  
+**Cible** une créature  
+**Durée** instantané  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage brouille la limite entre le corps et l'esprit, redirigeant les [[Affaiblissement temporaire (capacité)|affaiblissements]] et les [[Affaiblissement temporaire (capacité)|diminutions de caractéristique]] affectant sa cible à d'autres caractéristiques selon le tableau ci-dessous.

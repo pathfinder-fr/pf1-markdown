@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20
+{s:AE}**Prix** 20 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Ce gel pétillant violet ronge les adhésifs. Chaque fiole peut couvrir une case de 1,50 mètre de côté. Il détruit la plupart des adhésifs normaux (comme le goudron, la sève ou la colle) en un [[round]] mais il lui faut 1d4+1 rounds pour traiter les adhésifs plus puissants (comme la [[Colle alchimique (objet)|colle alchimique]], les [[Sacoche immobilisante (objet)|sacoches immobilisantes]], les toiles d’araignée, etc.) Il n’a aucun effet sur les adhésifs entièrement magiques comme la *[[colle universelle]]*.

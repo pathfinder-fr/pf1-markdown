@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Amulette de localisation|{s:AE}}
 **Aura** [[Abjuration]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Poids** 0,25 kg
 (((Description)))
-On dirait que cette amulette est faite pour éviter de se faire repérer par scrutation ou par détection ou encore pour ne pas être influencé par la télépathie ou la *[[détection des pensées]]*, comme une [[amulette dantidétection|amulette d’antidétection]].
+On dirait que cette amulette est faite pour éviter de se faire repérer par scrutation ou par détection ou encore pour ne pas être influencé par la télépathie ou la *[[détection des pensées]]*, comme une [[amulette dantidétection|amulette d’antidétection]].  
 Mais en réalité, elle impose un malus de –10 à tous les [[jds|jets de sauvegarde]] contre les sorts de [[école divination|divination]].
 (((Objet magique prévu)))
 [[amulette dantidétection|amulette d’antidétection]]

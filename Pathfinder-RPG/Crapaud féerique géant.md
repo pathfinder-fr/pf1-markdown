@@ -20,7 +20,7 @@ LastModified: 2020-09-18 04:11
 {s:BDTexte|**Résistances** électricité 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 6 m (4 {s:c}), vol 13.50 m (9 {s:c}), }
-{s:BDTexte|**Corps à corps** morsure, +4 (1d6+4 plus [[étreinte]])}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d6+4 plus [[étreinte]])} 
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** [[engloutissement]] (1d4 dégâts contondants, CA 11, 2pv}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3 ; concentration +2)}

@@ -12,14 +12,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Médium|Méd]] 4, [[Sorcière|Sor]] 5
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, FD, M]] (huiles (1 000 po))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature morte touchée
-**Durée** [[instantanée]]
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Médium|Méd]] 4, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, FD, M]] (huiles (1 000 po))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature morte touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort permet de ramener un mort à la vie, mais dans un autre corps. Le décès ne doit pas être antérieur à une semaine et le sujet doit être désireux de revenir à la vie. Dans le cas contraire, le sort échoue automatiquement, d’où l’absence de [[jet de sauvegarde]].
 
 Comme le défunt adopte un nouveau corps, tous les problèmes physiques dont il souffrait (maladie, etc.) disparaissent. L’état de ses restes n’entre pas en ligne de compte. On peut réincarner un mort avec *réincarnation* tant qu’il reste un infime élément du corps. Toutefois, les éléments en question devaient faire partie de son corps au moment de la mort. La magie du sort crée un corps de jeune adulte à partir des éléments naturels disponibles. Ce processus demande une heure entière. Une fois le corps achevé, le sujet se réincarne dedans.
@@ -61,14 +61,14 @@ Un *[[souhait]]* ou un *[[miracle]]* peut rendre à un personnage réincarné sa
 
 ((({s:sortssimilaires|réincarnation}
 ## [[Réincarnation despion|Réincarnation d'espion]]
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Sorcière|Sor]] 7
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, FD, M]] (huiles d'une valeur de 2 500 po et une possession ou partie du corps de la créature à imiter)
-**Portée** [[contact]]
-**Cibles** créature morte touchée
-**Durée** instantanée
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, FD, M]] (huiles d'une valeur de 2 500 po et une possession ou partie du corps de la créature à imiter)  
+**Portée** [[contact]]  
+**Cibles** créature morte touchée  
+**Durée** instantanée  
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[réincarnation]]* excepté que le personnage fait en sorte que le nouveau corps ressemble à une créature spécifique, imitant sa catégorie d'âge, son sexe, et relançant le dé de race jusqu'à ce qu'il donne la bonne catégorie de taille. Le sujet obtient alors un bonus de +5 aux tests de [[Déguisement]] pour se faire passer pour la créature choisie grâce à ses traits fidèles, bien qu'il pourrait subir un malus dû au fait d'être d'une race différente.
 
 Ce sort laisse au personnage une petite partie du nouveau corps de la créature, généralement une mèche de cheveux (utile pour la *[[scrutation]]* et d'autres sorts similaires).

@@ -35,7 +35,7 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div>Les chouettes sont des oiseaux nocturnes très silencieux en vol
-qui se nourrissent de rongeurs.
+qui se nourrissent de rongeurs. 
 
 Voir aussi : [[Chouette géante]]
 

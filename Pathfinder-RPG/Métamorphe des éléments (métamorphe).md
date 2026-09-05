@@ -23,7 +23,7 @@ Cette capacité modifie les langues que peut apprendre le Métamorphe.
 #### Aspect des éléments (Sur)
 Au niveau 1 le métamorphe des éléments choisit un des aspect présentés à la fin de cette page. Pour le reste cette capacité fonctionne comme la capacité de classe [[Métamorphe#ASPECTDUMÉTAMORPHE|aspect du métamorphe]]. Il obtient également un aspect supplémentaire au niveau 5, au niveau 10 et au niveau 15.
 
-Cette capacité modifie la capacité [[Métamorphe#ASPECTDUMÉTAMORPHE|aspect du métamorphe]]
+Cette capacité modifie la capacité [[Métamorphe#ASPECTDUMÉTAMORPHE|aspect du métamorphe]] 
 #### Parole des éléments (Sur)
 Quand il est sous l’influence de son aspect, un Métamorphe des éléments gagne les bénéfices du sort *[[don des langues]]* mais uniquement avec les créatures du même sous type que l’élément de son aspect.
 
@@ -37,7 +37,7 @@ Un métamorphe des éléments ne peut pas utiliser cette capacité lorsqu’il e
 Cette capacité remplace [[Métamorphe#GRIFFESDUMÉTAMORPHE|griffes du métamorphe]].
 
 #### Forme élémentaire (Sur)
-Au niveau 4 un métamorphe des éléments peut utiliser [[Métamorphe#FORMEANIMALE|forme animale]] mais de façon différente des autre métamorphes.
+Au niveau 4 un métamorphe des éléments peut utiliser [[Métamorphe#FORMEANIMALE|forme animale]] mais de façon différente des autre métamorphes.  
 Il gagne les effets du sort *[[corps élémentaire I]]* mais il obtient uniquement les effets mentionnés dans la section forme majeure de son aspect. Quand il est sous une forme d’élémentaire, il ne peut parler que la langue associée à son élément (il ne peut le faire que s'il connait cette langue, sinon il ne parle pas) et aucune autre.
 
 Cette capacité modifie [[Métamorphe#FORMEANIMALE|forme animale]].

@@ -24,12 +24,12 @@ Categories:
 - **Compétences.** Un animal mangeur d'hommes gagne un bonus racial de +4 aux tests de [[survie]] effectuées pour suivre des traces.
 - **Langues.** Un animal mangeur d'hommes comprend l'abyssal et le commun, mais ne peut pas parler.
 </div></td>
-<td><div>Voir un exemple : l'[[Auroch mangeur dhommes|auroch mangeur d'hommes]].
+<td><div>Voir un exemple : l'[[Auroch mangeur dhommes|auroch mangeur d'hommes]].  
 
 
-Beaucoup d’érudits vous expliquerons que, même si nombre d'animaux combattent pour défendre leur territoire et leurs petits, seuls quelques rares prédateurs au sommet de la chaîne alimentaire chassent des humanoïdes pour se nourrir. Pourtant, tous les villages de la mer intérieure racontent des histoires à propos de bêtes mangeuses d'homme qui rodaient autrefois (et peut être encore maintenant) dans leur arrière pays. Tous les animaux peuvent devenir des mangeurs d'hommes, des prédateurs connus aux herbivores apparemment inoffensifs.
-Même si les créatures concernées et les régions qu'elles occupent peuvent varier, certains éléments ce ces histoires d'animaux mangeurs d'hommes restent les mêmes. Après avoir goûté à la chair humaine, ces animaux ne veulent plus d'autres aliments. La morsure des mangeurs d'homme est dévastatrices et les flèches des chasseurs rebondissent sur leur cuir. Ils se montrent généralement téméraires car, au contraires de leurs semblables, ils ne craignent plus la présence humaine. Ils n'en sont pas moins futés pour autant et appliquent des tactiques qu'un animal ordinaire ne pourrait concevoir. Les mangeurs d'hommes semblent capable de comprendre la langue humaine et certaines de histoires les plus fantaisistes évoquent des spécimens sachant parler.
-On différencie le mangeur d'homme et ses cousins ordinaires à ses dents de carnassiers, ses mâchoires élargies et la leur d'intelligence qui brille dans son regard.
+Beaucoup d’érudits vous expliquerons que, même si nombre d'animaux combattent pour défendre leur territoire et leurs petits, seuls quelques rares prédateurs au sommet de la chaîne alimentaire chassent des humanoïdes pour se nourrir. Pourtant, tous les villages de la mer intérieure racontent des histoires à propos de bêtes mangeuses d'homme qui rodaient autrefois (et peut être encore maintenant) dans leur arrière pays. Tous les animaux peuvent devenir des mangeurs d'hommes, des prédateurs connus aux herbivores apparemment inoffensifs.  
+Même si les créatures concernées et les régions qu'elles occupent peuvent varier, certains éléments ce ces histoires d'animaux mangeurs d'hommes restent les mêmes. Après avoir goûté à la chair humaine, ces animaux ne veulent plus d'autres aliments. La morsure des mangeurs d'homme est dévastatrices et les flèches des chasseurs rebondissent sur leur cuir. Ils se montrent généralement téméraires car, au contraires de leurs semblables, ils ne craignent plus la présence humaine. Ils n'en sont pas moins futés pour autant et appliquent des tactiques qu'un animal ordinaire ne pourrait concevoir. Les mangeurs d'hommes semblent capable de comprendre la langue humaine et certaines de histoires les plus fantaisistes évoquent des spécimens sachant parler.  
+On différencie le mangeur d'homme et ses cousins ordinaires à ses dents de carnassiers, ses mâchoires élargies et la leur d'intelligence qui brille dans son regard.  
 #### Ecologie
 TODO : La colère des Justes p.508
 
@@ -37,7 +37,7 @@ TODO : La colère des Justes p.508
 TODO : La colère des Justes p.509
 
 #### Sang de Baphomet
-Le seigneur démon des bêtes permet à ses fidèles les plus dévoués de changer des animaux ordinaires en mangeurs d'hommes grâce à un élixir magiques. Cet ichor appelé le *sang de Baphomet* est censé contenir un distillat de sauvagerie animale. Un prêtre de Baphomet peut accéder aux sorts requis grâce à ses domaines : [[forme bestiale III]] via le domaine de la [[domaine de la Faune|Faune]] ou de la [[domaine de la Faune|Fourrure]] et [[rage]] via le sous-domaine des [[Domaine du Chaos#SOUSDOMAINES|Démons]] ou de la [[Domaine de la Force#SOUSDOMAINES|férocité]].
+Le seigneur démon des bêtes permet à ses fidèles les plus dévoués de changer des animaux ordinaires en mangeurs d'hommes grâce à un élixir magiques. Cet ichor appelé le *sang de Baphomet* est censé contenir un distillat de sauvagerie animale. Un prêtre de Baphomet peut accéder aux sorts requis grâce à ses domaines : [[forme bestiale III]] via le domaine de la [[domaine de la Faune|Faune]] ou de la [[domaine de la Faune|Fourrure]] et [[rage]] via le sous-domaine des [[Domaine du Chaos#SOUSDOMAINES|Démons]] ou de la [[Domaine de la Force#SOUSDOMAINES|férocité]].  
 
 
 
@@ -50,10 +50,10 @@ Le seigneur démon des bêtes permet à ses fidèles les plus dévoués de chang
   </tr>
 </table>
 
-La température de cet élexir rouge est toujours celle du sang frais. Une créature peut ingurgiter une bouchée de chair et boire ce liquide par une action simple.
-Si le buveur est un animal, il est [[étourdi]] pendant un round et doit réussir un jet de Volonté DD 17 pour ne pas acquérir définitivement l’archétype *mangeur d'hommes*. Si le *Sang de Baphomet* est consommé en même temps que de la chair d’humanoïde, l'animal ne peut pas faire de jet de sauvegarde.
-Si le buveur n'est pas un animal, il entre dans une rage frénétique comme s'il était sou l'effet d'un sort de [[rage]]; Il doit réussir un jet de Volonté DD 17 pour ne pas être [[confus]] tant que dure la rage. Si le *Sang de Baphomet* est bu tout en dévorant de la chair d’humanoïde (un acte Chaotique Mauvais), le buveur ne peut pas faire de jet de sauvegarde.
-**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale III]]*, [[rage]]
-**Coût** : 1 125p
+La température de cet élexir rouge est toujours celle du sang frais. Une créature peut ingurgiter une bouchée de chair et boire ce liquide par une action simple.   
+Si le buveur est un animal, il est [[étourdi]] pendant un round et doit réussir un jet de Volonté DD 17 pour ne pas acquérir définitivement l’archétype *mangeur d'hommes*. Si le *Sang de Baphomet* est consommé en même temps que de la chair d’humanoïde, l'animal ne peut pas faire de jet de sauvegarde.  
+Si le buveur n'est pas un animal, il entre dans une rage frénétique comme s'il était sou l'effet d'un sort de [[rage]]; Il doit réussir un jet de Volonté DD 17 pour ne pas être [[confus]] tant que dure la rage. Si le *Sang de Baphomet* est bu tout en dévorant de la chair d’humanoïde (un acte Chaotique Mauvais), le buveur ne peut pas faire de jet de sauvegarde.  
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale III]]*, [[rage]]  
+**Coût** : 1 125p  
 
 </div></td></tr></table>

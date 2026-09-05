@@ -49,14 +49,14 @@ LastModified: 2021-08-21 16:01
 
 Natifs du royaume des fées, ils sont les gardiens des forêts mystiques. Certains se rendent sur le Plan
 matériel et s’acclimatent aux forêts de ce monde, puis les protègent contre les tentatives de destruction à grande échelle
-tels que les feux de forêts, la déforestation, les armées de morts-vivants, etc.
+tels que les feux de forêts, la déforestation, les armées de morts-vivants, etc. 
 
 
 Ils utilisent leurs pouvoirs pour soigner et aider au développement des zones endommagées. Au lieu de posséder un corps physique propre, un zomok s’apparente davantage à un esprit qui anime un amas de matières végétales. Au fil du temps, le zomok mue et absorbe de nouvelles matières récupérées aux alentours, ce qui modifie son apparence pour l’adapter à la région occupée.
 
-Les zomoks n’ont pas besoin de manger et les créatures qu’ils engloutissent sont réduites en bouillie puis régurgitées pour servir d’engrais aux plantes.
+Les zomoks n’ont pas besoin de manger et les créatures qu’ils engloutissent sont réduites en bouillie puis régurgitées pour servir d’engrais aux plantes. 
 
-Un zomok typique mesure 5,40 mètres de haut et 9 mètres de long pour un poids de 30 tonnes.
+Un zomok typique mesure 5,40 mètres de haut et 9 mètres de long pour un poids de 30 tonnes. 
 </div>
 
 {s:ImageCentre|Bestiaire/Zomok.jpg|90%}

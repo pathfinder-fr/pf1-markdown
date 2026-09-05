@@ -38,7 +38,7 @@ Categories:
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Empathie avec les araignées (Ext).** Cette capacité fonctionne comme l'[[empathie sauvage]] des [[druide|druides]], si ce n'est qu'un ettercap ne peut l'utiliser que sur les araignées. Les ettercaps bénéficient d'un bonus racial de +4 sur les tests correspondants. Les araignées sont dépourvues d'intellect mais cette communication empathique leur donne une étincelle d'intelligence suffisante pour que les ettercaps puissent former des [[araignée géante|araignées géantes]] à la surveillance.}
 {s:BDTexte|**Pièges (Ext).** Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section "[[Conception de pièges|conception des pièges]]".}
-{s:BDTexte|:**Collet d'ettercap** : FP 1 ; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* test de **[[BMO]]** +15 ([[agrippé|agripper]]).}
+{s:BDTexte|:**Collet d'ettercap** : FP 1 ; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* test de **[[BMO]]** +15 ([[agrippé|agripper]]).} 
 {s:BDTexte|:**Piège à écrasement d'ettercap** : FP 3 ; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +10 (4d6), cibles multiples (toutes les cibles dans un carré de 3 m (2 {s:c}) de côté).}
 {s:BDTexte|:**Piège à lance d'ettercap** : FP 2; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +15 (1d6+6).}
 {s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 15 ; *fréquence* 1/round pendant 10 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]]; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
@@ -50,7 +50,7 @@ près 100 kg. Ce sont des créatures solitaires qui ne se rassemblent
 avec d’autres spécimens de leur espèce que très rarement, même
 pour se reproduire. Lorsque les ettercaps se retrouvent en groupe,
 ils attirent souvent toute une série d’araignées d’espèces diverses
-qui forment une masse collective étrange.
+qui forment une masse collective étrange. 
 
 Les ettercaps ont la réputation de construire des pièges sournois à partir de toiles
 d’araignées et de matériaux naturels. Ils fabriquent des abris

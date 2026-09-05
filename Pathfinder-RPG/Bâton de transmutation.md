@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton de transmutation|}
 **Aura** [[Transmutation]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Habituellement fait ou décoré de bois pétrifié, ce bâton permet de lancer les sorts suivants :
-• *[[clignotement]]* (1 charge)
-• *[[désintégration]]* (3 charges)
-• *[[métamorphose]]* (2 charges)
-• *[[métamorphose funeste]]* (2 charges)
-• *[[modification dapparence|modification d’apparence]]* (1 charge)
+Habituellement fait ou décoré de bois pétrifié, ce bâton permet de lancer les sorts suivants :  
+• *[[clignotement]]* (1 charge)  
+• *[[désintégration]]* (3 charges)  
+• *[[métamorphose]]* (2 charges)  
+• *[[métamorphose funeste]]* (2 charges)  
+• *[[modification dapparence|modification d’apparence]]* (1 charge)  
 • *[[repli expéditif]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[clignotement]]*, *[[désintégration]]*, *[[métamorphose]]*, *[[métamorphose funeste]]*, *[[modification dapparence|modification d’apparence]]*, *[[repli expéditif]]* ; **Coût** 41 000 po

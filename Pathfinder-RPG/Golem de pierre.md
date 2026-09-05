@@ -48,7 +48,7 @@ sculptée selon les goûts de leur créateur. Certains donnent par
 exemple l’impression de porter des armures dont le plastron est
 gravé d’un symbole spécifique. D’autres arborent des motifs ciselés
 dans leurs jambes de pierre. Leur tête est souvent taillée en forme de
-casque ou pour ressembler à la tête de certaines créatures.
+casque ou pour ressembler à la tête de certaines créatures. 
 
 La sculpture peut également comporter un bouclier de pierre ou une arme
 en pierre (une épée par exemple), mais ce sont des ajouts purement

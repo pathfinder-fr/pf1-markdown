@@ -50,7 +50,7 @@ Comme tous les linnorms, les très dangereux linnorms des falaises
 sont des dragons primitifs et puissants habitant les régions sauvages
 bien loin au nord des terres conquises par la civilisation. Le linnorm
 des falaises est l’un des plus faibles de son espèce, mais il reste quand
-même un prédateur dévastateur.
+même un prédateur dévastateur. 
 
 Par la volonté des dieux, ou peut-être
 celle d’une ancienne intelligence primitive provenant du monde

@@ -16,7 +16,7 @@ Categories:
 Un mousquetaire sait manier toutes les armes courantes et de guerre, ainsi que les armes à feu à une et deux mains. Cette aptitude remplace la section Armes du bretteur.
 
 #### Formation de mousquetaire (Ext).
-Au niveau 1, un mousquetaire bénéficie des avantages de l’aptitude [[Attaque en finesse]] avec une rapière (on considère qu’il possède le don Attaque en finesse pour satisfaire les conditions requises par les dons). Il gagne également les dons [[Rechargement rapide]] (mousquet) et [[Création darmes à feu|Création d’armes à feu]] en dons supplémentaires. Cette aptitude remplace finesse du bretteur.
+Au niveau 1, un mousquetaire bénéficie des avantages de l’aptitude [[Attaque en finesse]] avec une rapière (on considère qu’il possède le don Attaque en finesse pour satisfaire les conditions requises par les dons). Il gagne également les dons [[Rechargement rapide]] (mousquet) et [[Création darmes à feu|Création d’armes à feu]] en dons supplémentaires. Cette aptitude remplace finesse du bretteur. 
 
 #### Exploit.
 Le mousquetaire gagne l’exploit suivant qui remplace un exploit existant.

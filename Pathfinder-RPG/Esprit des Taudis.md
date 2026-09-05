@@ -32,7 +32,7 @@ Un chaman qui choisit l’esprit des taudis comme esprit ou comme esprit errant 
 Par une [[action simple]], le chaman peut traverser n'importe quelle porte et sortir instantanément par une autre porte eloignée. Peu importe à quel sort cette capacité réfère, il ne peut transporter que vous, et vos espaces de départ et d'arrivée doivent être adjacents à une porte ou à une ouverture similaire. Initialement, cela fonctionne comme [[Saut du bouffon]]. Au niveau 9, le chaman peut utiliser cette capacité comme [[Porte dimensionnelle]]. Au niveau 14, le chaman peut utiliser cette capacité comme [[Voyage par les arbres]] (en traitant toutes les portes comme de simples conifères). Vous pouvez utiliser cette capacité trois fois par jour, plus une fois supplémentaire par jour au niveau 12 et au niveau 20.
 
 ### Pouvoir d’esprit supérieur
-Un chaman qui choisit l’esprit des taudis comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version supérieure de l’esprit.
+Un chaman qui choisit l’esprit des taudis comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version supérieure de l’esprit. 
 ##### Linceul de la ville (Sur)
 En milieu urbain, le chaman se fond dans les rues qui l'entourent, le rendant difficile à cerner. Elle gagne les capacités de classe [[Roublard#ESQUIVETOTALE|esquive totale]] et [[Roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]].
 

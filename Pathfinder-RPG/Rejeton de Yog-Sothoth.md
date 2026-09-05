@@ -46,7 +46,7 @@ LastModified: 2017-07-27 15:16
 </td><td><div>
 *Cette créature donne l’impression d’une masse frétillante dégageant une indescriptible et infecte puanteur.*
 
-Les rejetons de Yog-Sothoth sont engendrés lors de sombres rituels pendant lesquels les fidèles invoquent l’essence de Yog-Sothoth, un dieu Extérieur venu d’au-delà les étoiles (voir page 123), pour l’injecter dans le corps d’une créature humanoïde. Ce dieu Extérieur ne fait pas partie de cette dimension ou de ce monde et c’est uniquement en imprégnant la chair et les os d’un mortel que son rejeton peut exister.
+Les rejetons de Yog-Sothoth sont engendrés lors de sombres rituels pendant lesquels les fidèles invoquent l’essence de Yog-Sothoth, un dieu Extérieur venu d’au-delà les étoiles (voir page 123), pour l’injecter dans le corps d’une créature humanoïde. Ce dieu Extérieur ne fait pas partie de cette dimension ou de ce monde et c’est uniquement en imprégnant la chair et les os d’un mortel que son rejeton peut exister. 
 
 Lorsque le rejeton meurt, sa chair se dissout rapidement pour ne laisser rien d’autre qu’une tâche de matière desséchée. Les rejetons de Yog-Sothoth sont naturellement invisibles, mais ils dégagent une affreuse puanteur inoubliable qui alerte autrui de leur présence.
 

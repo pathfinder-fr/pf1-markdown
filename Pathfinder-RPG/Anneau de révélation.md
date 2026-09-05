@@ -17,5 +17,5 @@ L’*anneau de révélation* est un objet divin lié à un [[mystères|mystère 
 
 Un  *anneau de révélation mineure* contient une révélation qui ne demande pas de condition de niveau ou un niveau inférieur à 6. Un *anneau de révélation majeure* contient une révélation qui exige un [[oracle]] de niveau 7 ou plus. Un *anneau de révélation supérieure* exige un [[oracle]] de niveau 11 ou plus.
 (((Création)))
-**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit être un [[oracle]] avec la révélation désirée ; **Coût** 5 000 po (mineure), 8 000 po (majeure), 12 000 po (supérieure)
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit être un [[oracle]] avec la révélation désirée ; **Coût** 5 000 po (mineure), 8 000 po (majeure), 12 000 po (supérieure) 
 </div>

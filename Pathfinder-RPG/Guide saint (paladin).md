@@ -15,7 +15,7 @@ Categories:
 [[Connaissances]] (géographie) et [[Survie]] sont des compétences de classe pour le guide saint.
 
 #### Environnement de prédilection (Ext)
-Au niveau 3, un guide saint choisit un environnement de prédilection parmi ceux de la [[rôdeur#TABLEENVIRONNEMENTDEPREDILECTION|table des environnements de prédilection du rôdeur]]. Cette aptitude fonctionne par ailleurs comme celle de rôdeur du même nom. Elle remplace la grâce obtenue au niveau 3.
+Au niveau 3, un guide saint choisit un environnement de prédilection parmi ceux de la [[rôdeur#TABLEENVIRONNEMENTDEPREDILECTION|table des environnements de prédilection du rôdeur]]. Cette aptitude fonctionne par ailleurs comme celle de rôdeur du même nom. Elle remplace la grâce obtenue au niveau 3. 
 
 À chaque fois qu’un guide saint peut choisir une autre grâce, il peut, à la place choisir un autre environnement de prédilection et augmenter ses bonus pour ceux qu’ils possèdent déjà, exactement comme dans le cas du rôdeur.
 

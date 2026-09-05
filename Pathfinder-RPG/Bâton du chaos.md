@@ -8,10 +8,10 @@ LastModified: 2024-05-27 16:19
 {s:AE}{s:BDTitre|Bâton du Chaos|}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 29 600 po ; **Poids** 2,5 kg
 (((Description)))
-Fabriqué à partir de divers matériaux incluant du bois, du métal et éventuellement des morceaux de chair, ce bâton semble changer de forme avec le temps. Il permet d’utiliser les sorts suivants.
-• *[[arme alignée]]* (1 charge, Chaos uniquement)
-• *[[détection de la Loi]]* (1 charge)
-• *[[marteau du Chaos]]* (2 charges)
+Fabriqué à partir de divers matériaux incluant du bois, du métal et éventuellement des morceaux de chair, ce bâton semble changer de forme avec le temps. Il permet d’utiliser les sorts suivants.  
+• *[[arme alignée]]* (1 charge, Chaos uniquement)  
+• *[[détection de la Loi]]* (1 charge)  
+• *[[marteau du Chaos]]* (2 charges)  
 • *[[cercle magique contre la Loi]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[arme alignée]]*, *[[détection de la Loi]]*, *[[marteau du Chaos]]*, *[[cercle magique contre la Loi]]* ; **Coût** 14 800 po

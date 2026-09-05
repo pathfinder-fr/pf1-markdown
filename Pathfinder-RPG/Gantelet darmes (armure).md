@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +8 po ; **Poids** +2,5 kg
+{s:AE}**Prix** +8 po ; **Poids** +2,5 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABSUPPLEMENTS|Suppléments d'armure/de bouclier]]</span>
----
+<hr />
 Ce gantelet renforcé est pourvu de petites chaînes et d’attaches permettant au personnage d’y fixer une arme qu’il ne risque pas de lâcher facilement. Il fournit un bonus de +10 aux tests de [[DMD|manœuvre défensive]] pour empêcher d’être [[désarmement|désarmé]] en combat. Il faut dépenser une [[action complexe]] provoquant des [[AO|attaques d’opportunité]] pour enlever ou fixer une arme à un gantelet d’armes.   
   
 Le prix est indiqué pour un seul gantelet d’armes. Le poids indiqué ne s’applique que si le personnage porte une [[cuirasse (armure)|cuirasse]], une [[armure légère]] ou aucune armure. Sinon, le gantelet d’armes remplace le gantelet qu’il a déjà comme élément de son armure.   

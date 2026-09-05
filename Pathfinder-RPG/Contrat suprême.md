@@ -11,28 +11,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]) (voir texte)
-**Cibles** jusqu’à 3 [[sous-type élémentaire|élémentaires]] ou [[type extérieur|Extérieurs]] (ne totalisant pas plus de 18 [[DV]]), apparaissant à 9 m (6 {s:c}) ou moins les uns des autres
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]) (voir texte)  
+**Cibles** jusqu’à 3 [[sous-type élémentaire|élémentaires]] ou [[type extérieur|Extérieurs]] (ne totalisant pas plus de 18 [[DV]]), apparaissant à 9 m (6 {s:c}) ou moins les uns des autres  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non et oui (voir texte)
----
+<hr />
 Ce sort s’apparente à *[[contrat]]*, si ce n’est qu’il permet d’appeler une entité ayant jusqu’à 18 [[DV]], ou plusieurs créatures du même type dont la somme des [[DV]] ne dépasse pas 18. Chacune peut faire un [[jet de sauvegarde]] et a la possibilité de s’échapper, et le mage doit les convaincre une par une de lui rendre service.
 
 
 
 (((
 ## Contrat
-**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]) (voir texte)
-**Cible** 1 [[sous-type élémentaire|élémentaire]] ou [[type Extérieur|Extérieur]] de 6 [[DV]] maximum
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]) (voir texte)  
+**Cible** 1 [[sous-type élémentaire|élémentaire]] ou [[type Extérieur|Extérieur]] de 6 [[DV]] maximum  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non et oui (voir texte)
----
+<hr />
 Cette dangereuse incantation permet d’appeler une créature d’un autre [[plans|plan]] pour la capturer afin qu’elle accepte de rendre un service au personnage en échange de sa liberté.
 
 Le piège se traduit par un cercle magique, lancé par le personnage, dont l’énergie est dirigée vers l’intérieur. Le mage doit préciser le type exact d’entité qu’il appelle, ainsi que son nom s’il le connaît.

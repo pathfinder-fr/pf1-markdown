@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 6 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
-**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}**Prix** 20 po ; **Poids** 6 kg ; **Groupes** [[Groupe darmes#Haches|haches]]  
+**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 Cette hache de combat à deux mains est trop lourde pour être maniée à une main. La tête peut avoir une ou deux lames, comme elle peut être « barbue » (ce qui signifie crochue ou avec un bord de fuite en bas) pour maximiser la force de frappe et aider à arracher les boucliers des ennemis. Le manche mesure généralement entre 90 centimètres et 1,20 mètre.

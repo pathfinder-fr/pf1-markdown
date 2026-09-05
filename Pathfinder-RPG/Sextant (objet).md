@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 500 po ; **Poids** 1 kg
+{s:AE}**Prix** 500 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Le sextant sert à déterminer la latitude. En conjonction avec un [[Astrolabe (objet)|astrolabe]], il donne au personnage un bonus de circonstances de +4 aux tests de [[Survie]] pour ne pas se perdre.

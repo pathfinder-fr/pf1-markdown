@@ -131,7 +131,7 @@ Categories:
 </table>
 
 
-**Dés de vie.** d6.
+**Dés de vie.** d6. 
 
 ### Conditions requises
 Pour pouvoir devenir diaboliste, le personnage doit satisfaire aux conditions suivantes :
@@ -183,7 +183,7 @@ Le feu infernal prend de nombreuses formes, la plupart empestant le soufre et é
 
 </div>{s:reference|CANALISATIONFEUINFERNAL}
 #### Canalisation de feu infernal (Sur)
-Au niveau 2, un diaboliste peut modifier les sorts qui infligent des dégâts d'énergie destructive pour qu'ils infligent plutôt des dégâts de feu infernal. Il peut le faire par une [[action libre]] un nombre de fois par jour égal à son modificateur de [[Charisme]] (minimum 1). Les sorts modifiés de cette façon gagnent les [[registre|registres]] Loi et Mal.
+Au niveau 2, un diaboliste peut modifier les sorts qui infligent des dégâts d'énergie destructive pour qu'ils infligent plutôt des dégâts de feu infernal. Il peut le faire par une [[action libre]] un nombre de fois par jour égal à son modificateur de [[Charisme]] (minimum 1). Les sorts modifiés de cette façon gagnent les [[registre|registres]] Loi et Mal. 
 
 {s:reference|MARCHEINFERNAL}
 #### Marché infernal (Ext)

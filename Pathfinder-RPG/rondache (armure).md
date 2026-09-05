@@ -7,15 +7,15 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3/9 po ; **Poids** 2,5/3 kg
-**Bonus de bouclier** +1 ; **Bonus de Dex maximal** — ; **Malus d'armure** -1
-**Risque d'échec des sorts profanes** 5% ; **Vitesse** —/—
+{s:AE}**Prix** 3/9 po ; **Poids** 2,5/3 kg  
+**Bonus de bouclier** +1 ; **Bonus de Dex maximal** — ; **Malus d'armure** -1  
+**Risque d'échec des sorts profanes** 5% ; **Vitesse** —/—  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABBOUCLIERS|Boucliers]]</span>
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#18|→]] Coup de bouclier : Si je porte un coup de bouclier, est-ce qu’il doit toujours être une attaque avec la main non-directrice ?***
 
 Le texte du <u>[[Rondache (armure)|coup de bouclier]]</u> part du principe que le personnage porte un coup avec sa main non-directrice, mais il n’y est pas forcé. Le personnage peut, par exemple, porter uniquement un coup de bouclier (avec son bonus d’attaque directrice normal) ou porter un coup de bouclier avec sa main directrice et attaquer avec une épée dans sa main non-directrice.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#19|→]] Coup de bouclier : Si je suis formé au port des boucliers, puis-je porter un coup de bouclier sans malus de non-formation ?***
 
 Les formations au maniement des armes et au port des armures sont deux choses différentes.

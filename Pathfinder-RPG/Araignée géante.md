@@ -54,13 +54,13 @@ Categories:
 | [[Tarentule géante]] | 8 |
 | [[Veuve noire géante]] | 3 |
 
-</div>*Sans faire un bruit, une araignée aussi grande qu’un homme émerge du tunnel de toile qu’elle a tissé.*
+</div>*Sans faire un bruit, une araignée aussi grande qu’un homme émerge du tunnel de toile qu’elle a tissé.* 
 
 Le profil présenté ci-dessus correspond à une araignée tisserande. Les araignées chasseresses perdent la capacité de [[toile]] mais gagnent un bonus racial de +8 aux tests d'[[Acrobaties]]. Toutes les araignées géantes bénéficient d'un bonus racial de +2 aux [[DD]] des poisons.
 
 {s:ClearRight}
 #### L'araignée géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[poison]]) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [[perception des vibrations]] à 9 m, [[vision dans le noir]] ; ** DMD** croc-en-jambe +12
+**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[poison]]) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [[perception des vibrations]] à 9 m, [[vision dans le noir]] ; ** DMD** croc-en-jambe +12 
 
 **Évolution au niveau 4.**  **Taille** M **CA** armure naturelle +1 **Attaque** morsure (1d6 plus poison)
 **Caractéristiques** For +4, Dex -2, Con +2

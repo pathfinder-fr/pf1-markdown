@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 4 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Lameslégères|lames légères]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 4,5 m (3 c) ; **Type** P ; **Spécial** —
+{s:AE}**Prix** 4 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Lameslégères|lames légères]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 4,5 m (3 c) ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Aussi appelée mambele, danisco, goleyo, njiga ou par d’autres noms moins connus, cette dague à trois lames est conçue comme une [[arme de jet]] mais ont peut aussi s’en servir au corps à corps. La forme de base, à trois lames, est la plus courante, le hunga munga peut prendre de nombreuses formes.

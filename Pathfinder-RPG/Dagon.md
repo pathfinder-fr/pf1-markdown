@@ -75,18 +75,18 @@ possède déjà une).
 - **3. Troisième serment (Mag).** Domination universelle 1/jour (créatures aquatiques uniquement)
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Le corps de ce démon est un véritable cauchemar grouillant de tentacules et d’anneaux gluants, surmonté d’une gueule sinistre de prédateur des fonds marins.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Le corps de ce démon est un véritable cauchemar grouillant de tentacules et d’anneaux gluants, surmonté d’une gueule sinistre de prédateur des fonds marins.*  
 
 Dagon est le [[Seigneurs démons|seigneur démon]] de la difformité, de la mer et des monstres marins. Il règne sur un royaume abyssal composé d’un immense océan ponctué, en surface, d’étranges îles terrifiantes et sillonné, dans ses profondeurs, d’innombrables tranchées et cités englouties. Dagon mesure dix mètres de long. La partie inférieure de son corps ressemble à celle d’une anguille tandis que son visage évoque les gueules effrayantes des prédateurs des fonds marins. Il a quatre tentacules en guise de bras.
 
-Au départ, Dagon n’était pas un seigneur démon mais un puissant qlippoth. Les savants mortels ignorent pourquoi il s’est ainsi transformé mais Dagon ne semble pas vouer un amour immodéré à son ancienne race.
+Au départ, Dagon n’était pas un seigneur démon mais un puissant qlippoth. Les savants mortels ignorent pourquoi il s’est ainsi transformé mais Dagon ne semble pas vouer un amour immodéré à son ancienne race. 
 
 Dagon vit dans la cité engloutie d’Ugothanok sous les eaux de la
 mer abyssale de l’Ishiar. D’innombrables îles, occupées par des
 humains fiélons et demi-fiélons, sont disséminées à la surface de
 cette mer. Ces humains, appelés des Ishiens, se font sans cesse la
 guerre pour conquérir de nouvelles îles et pour impressionner
-Dagon par leur cruauté.
+Dagon par leur cruauté.  
 À mi-chemin entre le poisson, la pieuvre et l’anguille, Dagon
 envoie sa progéniture dans les océans du Plan matériel pour
 étendre son influence. Ses rejetons s’accouplent souvent avec des
@@ -107,13 +107,13 @@ comme un grand honneur.
 
 ### Tactique
 
-Lors d’un combat, Dagon utilise presque toujours l’attaque en puissance, échangeant un malus de –9 aux jets d’attaque contre un bonus de +18 aux jets de dégâts. Il est toujours entouré d’une nuée de démons ou de monstres aquatiques qu’il manipule comme des pions lors d’une bataille et il se contente souvent de leur donner des ordres tandis qu’il reste en arrière, à observer le combat de son regard glacé. Parmi les sbires favoris du seigneur démon, on compte d’immenses requins, des hezrous, des baleines carnivores, des krakens et des shoggoths.
+Lors d’un combat, Dagon utilise presque toujours l’attaque en puissance, échangeant un malus de –9 aux jets d’attaque contre un bonus de +18 aux jets de dégâts. Il est toujours entouré d’une nuée de démons ou de monstres aquatiques qu’il manipule comme des pions lors d’une bataille et il se contente souvent de leur donner des ordres tandis qu’il reste en arrière, à observer le combat de son regard glacé. Parmi les sbires favoris du seigneur démon, on compte d’immenses requins, des hezrous, des baleines carnivores, des krakens et des shoggoths. 
 
 ### Le culte de Dagon
 
-Les fidèles de Dagon regroupent principalement des bourbiérins, des sahuagins et des skums hérétiques, des géants des marais et des habitants des régions côtières désespérés ou complètement fous. La plupart d’entre eux sont victimes de malformations grotesques ou se livrent à d’immondes accouplements interraciaux avec d’étranges créatures aquatiques ou pisciformes. Ils choisissent souvent des églises côtières délabrées, des phares, des grottes marines ou des cathédrales sous-marines à la beauté sinistre pour se rassembler.
+Les fidèles de Dagon regroupent principalement des bourbiérins, des sahuagins et des skums hérétiques, des géants des marais et des habitants des régions côtières désespérés ou complètement fous. La plupart d’entre eux sont victimes de malformations grotesques ou se livrent à d’immondes accouplements interraciaux avec d’étranges créatures aquatiques ou pisciformes. Ils choisissent souvent des églises côtières délabrées, des phares, des grottes marines ou des cathédrales sous-marines à la beauté sinistre pour se rassembler. 
 
-En général, les fidèles de Dagon vénèrent également divers Grand Anciens, en particulier Cthulhu. Il n’est pas rare de voir les grands prêtres de Dagon et de Cthulhu oeuvrer côte à côte.
+En général, les fidèles de Dagon vénèrent également divers Grand Anciens, en particulier Cthulhu. Il n’est pas rare de voir les grands prêtres de Dagon et de Cthulhu oeuvrer côte à côte. 
 
 Dagon est connu comme l’Ombre dans la mer. Il a pour symbole maudit un disque en or gravé de runes sinistres et d’un oeil de pieuvre grand ouvert. Le trident est son arme de prédilection. Il donne accès aux domaines du Chaos, de la Destruction, du Mal et de l’Eau, ainsi qu’aux sous-domaines des Catastrophes, des Démons, des Océans et de la Rage.
 </div>

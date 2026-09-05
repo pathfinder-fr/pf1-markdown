@@ -48,9 +48,9 @@ Categories:
 </div></td>
 <td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Thriae]].***</li></ul>*Cette élégante créature, mi-femme, mi-abeille, brandit une coutille et porte des habits amples et diaphanes. Son visage est presque entièrement dissimulé sous un voile.*
 
-La plupart de [[Thriae|thriaes]] possèdent une grâce et un charme surnaturels mais les danseuses font partie des plus belles. Elles mesurent généralement 1,80 mètre et pèsent 90 kilos.
+La plupart de [[Thriae|thriaes]] possèdent une grâce et un charme surnaturels mais les danseuses font partie des plus belles. Elles mesurent généralement 1,80 mètre et pèsent 90 kilos. 
 
-Seules les **terpsichores**, les danseuses les plus douées et les plus appréciées, ont le droit de danser seules. Elles possèdent habituellement des niveaux de barde, un FP d’au moins 9 et les pouvoirs magiques suivants :
-3/jour— *[[héroïsme]]*, *[[suggestion]]*
+Seules les **terpsichores**, les danseuses les plus douées et les plus appréciées, ont le droit de danser seules. Elles possèdent habituellement des niveaux de barde, un FP d’au moins 9 et les pouvoirs magiques suivants :  
+3/jour— *[[héroïsme]]*, *[[suggestion]]*  
 1/jour— *[[zone de silence]]*
 </div></td></tr></table>

@@ -24,8 +24,8 @@ LastModified: 2024-07-05 23:05
 ### Réponses
 {s:Reference|1}
 #### --Anneau de prolongement : Un personnage peut-il l’utiliser pour lancer *arrêt du temps* avec une durée de 24 heures ?
-<u>[[Anneau de prolongement|Cet objet]]</u> a eu quelques conséquences involontaires et a besoin d’un correctif. Changez la deuxième phrase de la description comme suit :
-« Lorsque le porteur de cet anneau lance un sort à portée personnelle et d'une durée de 10 minutes ou plus par niveau, ce sort reste actif pendant 24 heures ou jusqu’à ce que le porteur en lance un autre de portée personnelle (en fonction de ce qui se passe en premier). »
+<u>[[Anneau de prolongement|Cet objet]]</u> a eu quelques conséquences involontaires et a besoin d’un correctif. Changez la deuxième phrase de la description comme suit :  
+« Lorsque le porteur de cet anneau lance un sort à portée personnelle et d'une durée de 10 minutes ou plus par niveau, ce sort reste actif pendant 24 heures ou jusqu’à ce que le porteur en lance un autre de portée personnelle (en fonction de ce qui se passe en premier). »  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](https://paizo.com/community/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -61,5 +61,5 @@ Non. La <u>[[percutante (propriété)|propriété spéciale d’arme]]</u> et le
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### --Table 7-13 : Que se passe-t-il si j’obtiens un résultat de 66-84 ?
-Utilisez les armes suivantes sur un résultat de 66-84 :
+Utilisez les armes suivantes sur un résultat de 66-84 :  
 66 [[saï (arme)|saï]] | 67 [[matraque (arme)|matraque]] | 68 [[cimeterre (arme)|cimeterre]] | 69 [[faux (arme)|faux]] | 70-73 [[arc court (arme)|arc court]] | 74-75 [[épieu (arme)|épieu]] | 76-80 [[épée courte (arme)|épée courte]] | 81 [[shurikens (arme)|shurikens]] | 82 [[serpe (arme)|serpe]] | 83–84 [[fronde (arme)|fronde]]-- Les textes ont été corrigés sur ce point.

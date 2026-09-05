@@ -22,18 +22,18 @@ LastModified: 2021-07-15 17:32
 | [[Sifkesh]] | 28 |
 | [[Xoveron]] | 27 |
 
-</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs démons (capacité)|traits des seigneurs démons]].***
+</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs démons (capacité)|traits des seigneurs démons]].***  
 ***Voir la description des [[Démon|démons]].***</div><div class="description">**Source :** Bestiaire 4.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
 Les seigneurs démoniaques sont les démons les plus puissants des Abysses. Ce sont des créatures influentes faites de chaos et de mal, des demi-dieux qui règnent sur de vastes royaumes pétris d’horreurs et de vices. Chaque seigneur démon est une créature unique, un parangon du péché qui existe dans le seul but de satisfaire ses propres désirs. Leur genèse varie. La plupart d’entre eux étaient des démons de rang inférieur qui se sont mués en de puissantes entités (comme c’est le cas de Pazuzu). Plus rarement, un puissant mortel chargé de péché se transforme directement en seigneur démon (Kostchtchie par exemple) ou un qlippoth se métamorphose en seigneur démon sous la mystérieuse influence des Abysses (comme c’est arrivé à Dagon).
 
-Quand un démon accumule assez de puissance, il devient ce que l’on appelle un seigneur démon naissant. Cela se produit en gagnant des niveaux de classe, des dés de vie, des grades ou des rangs mythiques, en accomplissant un vil rituel ou tout simplement en rassemblant assez de fanatiques dévoués. Le seigneur naissant peut rester indéfiniment ainsi mais il cherche généralement à terminer sa transformation pour devenir un véritable seigneur démon. Pour cela, il doit devenir l’objet d’un culte chez les mortels mais, surtout, il doit s’approprier et contrôler un royaume abyssal assez vaste pour que le plan lui-même le remarque et lui accorde la puissance d’un seigneur démon à part entière. Cela arrive très rarement mais un seigneur démon peut même atteindre le statut de divinité.
+Quand un démon accumule assez de puissance, il devient ce que l’on appelle un seigneur démon naissant. Cela se produit en gagnant des niveaux de classe, des dés de vie, des grades ou des rangs mythiques, en accomplissant un vil rituel ou tout simplement en rassemblant assez de fanatiques dévoués. Le seigneur naissant peut rester indéfiniment ainsi mais il cherche généralement à terminer sa transformation pour devenir un véritable seigneur démon. Pour cela, il doit devenir l’objet d’un culte chez les mortels mais, surtout, il doit s’approprier et contrôler un royaume abyssal assez vaste pour que le plan lui-même le remarque et lui accorde la puissance d’un seigneur démon à part entière. Cela arrive très rarement mais un seigneur démon peut même atteindre le statut de divinité. 
 Il y a  probablement des milliers de seigneurs démons naissants dans les Abysses mais le nombre de véritables seigneurs démon est bien plus limité : les seigneurs connus ne sont que quelques dizaines. L’expression « seigneur démon » est du genre neutre : il y a des seigneurs démons masculins, d’autres féminins, d’autres asexués et d’autres qui appartiennent aux deux sexes. On peut entrer en contact avec un seigneur démon avec un sort de communion et l’invoquer avec un portail mais, dans ce cas, il n’est nullement obligé de venir. Il exige généralement une offrande ou un sacrifice d’une ampleur gigantesque avant de daigner répondre à un portail.
 
 ### Les royaumes abyssaux
-Les domaines des seigneurs démons sont de taille variable mais même le plus petit est aussi vaste qu’un continent et les plus grands sont plus étendus que certaines planètes. Les royaumes abyssaux possèdent un environnement, des thèmes et des caractéristiques aussi uniques que les seigneurs démons et présentent donc des défis inattendus aux créatures qui tentent de les explorer.
-Pourtant, malgré le lien étroit qui unit un seigneur démon à son royaume, il n’exerce pas un contrôle absolu dessus. De puissants aventuriers peuvent donc s’y infiltrer et atteindre leurs objectifs sans éveiller la colère du seigneur des lieux. S’ils se montrent assez prudents.
+Les domaines des seigneurs démons sont de taille variable mais même le plus petit est aussi vaste qu’un continent et les plus grands sont plus étendus que certaines planètes. Les royaumes abyssaux possèdent un environnement, des thèmes et des caractéristiques aussi uniques que les seigneurs démons et présentent donc des défis inattendus aux créatures qui tentent de les explorer. 
+Pourtant, malgré le lien étroit qui unit un seigneur démon à son royaume, il n’exerce pas un contrôle absolu dessus. De puissants aventuriers peuvent donc s’y infiltrer et atteindre leurs objectifs sans éveiller la colère du seigneur des lieux. S’ils se montrent assez prudents. 
 
 Tant que le seigneur démon se trouve dans son royaume, il gagne les pouvoirs suivants (les profils des pages suivantes ne tiennent pas compte de ces pouvoirs).
 - **Mythique.** Le seigneur démon fonctionne comme une créature de rang mythique 10, y compris en ce qui concerne la capacité pouvoir mythique (10/jour, montée en puissance +1d12). Il peut dépenser du pouvoir mythique pour utiliser des versions mythiques de tous les pouvoirs magiques accompagnés d’un astérisque (*) comme si ce pouvoir était un sort mythique.
@@ -56,7 +56,7 @@ sorts peuvent intégrer leur obédience dans les rituels et les périodes
 de méditation d’une heure qui leur permettent de préparer
 ou de récupérer leurs sorts ; les autres sont libres d’accomplir
 leur obédience quand ils le veulent pendant la journée. La plupart
-choisissent de l’accomplir au crépuscule.
+choisissent de l’accomplir au crépuscule.  
 L’obédience peut octroyer de grandes faveurs, surtout aux plus
 puissants fidèles d’un seigneur démon. Le don Obédience démoniaque
 permet à un adorateur d’acquérir des résistances et
@@ -68,15 +68,15 @@ les plus intéressantes.
 #### Nouveau don : l’Obédience démoniaque
 Le personnage a profané son corps, celui d’autrui ou diverses reliques
 sacrées afin de prouver sa dévotion impie à un seigneur
-démon qui lui octroie en retour ses faveurs.
+démon qui lui octroie en retour ses faveurs.  
 **Condition.** 3 rangs en Connaissance (plans), le personnage
-doit adorer un seigneur démon.
+doit adorer un seigneur démon.  
 **Avantage.** Chaque seigneur démon exige une obédience différente,
 mais toutes lui demandent une heure seulement. Une fois
 le rituel accompli, le personnage acquiert une résistance contre
 certains éléments ou une attaque associée au seigneur démon
 choisi, comme indiqué dans le paragraphe Obédience de chaque
-seigneur démon.
+seigneur démon.   
 Si le personnage possède au moins 12 DV, il acquiert également
 la première faveur offerte par le seigneur démon vénéré.
 S’il possède au moins 16 DV, il acquiert en plus la seconde faveur.
@@ -94,9 +94,9 @@ par ce don jusqu’à ce qu’il parvienne à réaliser l’obédience.
 
 Chaque seigneur démon est une créature unique dont le facteur de puissance se situe entre 26 et 30. En général, ils ne sont pas à la portée des simples mortels et il faut réfléchir soigneusement avant de les intégrer dans une aventure. Ils conviendront comme ennemi final d’une longue campagne, surtout si les PJ sont eux-mêmes des êtres mythiques. C’est un événement mémorable que d’obtenir ne serait-ce qu’une simple audience auprès d’eux.
 
-Si la plupart des héros ne sont pas de taille face à un seigneur démon, vous pouvez vous en servir indirectement dans les campagnes de tous niveaux où ils peuvent servir de chefs ou d’inspiration pour des monstres, des mortels ou des cultes entiers. La lutte contre les cultes fait partie des intrigues classiques des campagnes. À l’apogée de l’aventure, les PJ pourraient devoir fermer un portail avant que le seigneur démon à la tête du culte n’apparaisse en chair et en os dans leur monde. Ce serait une excellente conclusion de campagne, surtout si le démon combat les PJ pendant un round ou deux avant qu’ils ne parviennent à fermer le portail, l’obligeant à retourner dans les Abysses. Vous disposez d’une autre possibilité.
+Si la plupart des héros ne sont pas de taille face à un seigneur démon, vous pouvez vous en servir indirectement dans les campagnes de tous niveaux où ils peuvent servir de chefs ou d’inspiration pour des monstres, des mortels ou des cultes entiers. La lutte contre les cultes fait partie des intrigues classiques des campagnes. À l’apogée de l’aventure, les PJ pourraient devoir fermer un portail avant que le seigneur démon à la tête du culte n’apparaisse en chair et en os dans leur monde. Ce serait une excellente conclusion de campagne, surtout si le démon combat les PJ pendant un round ou deux avant qu’ils ne parviennent à fermer le portail, l’obligeant à retourner dans les Abysses. Vous disposez d’une autre possibilité. 
 
-Au lieu d’opposer les PJ à un démon au summum de sa puissance, vous pouvez concevoir une campagne où ils sapent toutes ses ressources, de manière à lui imposer des malus tandis qu’ils rassemblent de puissantes armes. Ainsi, lorsque l’heure de la confrontation sera venue, les PJ seront de puissantes créatures tandis que le seigneur démon sera affaibli et affligé d’un FP inférieur à la normale.
+Au lieu d’opposer les PJ à un démon au summum de sa puissance, vous pouvez concevoir une campagne où ils sapent toutes ses ressources, de manière à lui imposer des malus tandis qu’ils rassemblent de puissantes armes. Ainsi, lorsque l’heure de la confrontation sera venue, les PJ seront de puissantes créatures tandis que le seigneur démon sera affaibli et affligé d’un FP inférieur à la normale. 
 Afin  de simuler facilement cet affaiblissement, vous pouvez imposer des niveaux négatifs au seigneur démon. Normalement, ces créatures  sont immunisées contre l’absorption de niveau mais, si elle résulte d’une réduction de ses ressources et de la source de son pouvoir, elle peut s’appliquer un temps. Jusqu’à ce que le démon consolide les bases de sa puissance et guérisse.
 
 ## Seigneurs démons naissants
@@ -114,7 +114,7 @@ quelques rares exceptions, un seigneur naît rarement en tant
 que tel. Chacun d’entre eux doit amasser pouvoirs et ressources
 pendant une période de transformation prolongée. Les démons
 qui vivent cette étape de transition sont appelés des seigneurs
-démons naissants.
+démons naissants.   
 Les moyens qui permettent à un démon de se transformer en
 seigneur démon naissant sont aussi divers que les seigneurs euxmêmes.
 Certains subissent cette transformation simplement en
@@ -127,7 +127,7 @@ parfois avec l’aide et la bénédiction d’un seigneur démon qui
 fait office de mentor ou de mécène, d’autres fois en affrontant
 l’abjecte compétition imposée par un seigneur démon qui
 oeuvre activement à contrer la tentative de transformation de
-son serviteur honni.
+son serviteur honni.   
 Les Abysses abritent toujours plusieurs centaines, voire
 plusieurs milliers de seigneurs démons naissants. La grande
 majorité d’entre eux viennent de terminer leur transformation et
@@ -150,7 +150,7 @@ Pourtant, les histoires dans lesquelles les PJ luttent
 contre les serviteurs d’un unique et puissant démon avant de
 l’affronter en personne constituent une trame scénaristique souvent
 appréciée. Les seigneurs démons naissants sont tout à fait
-adaptés pour remplir ce rôle.
+adaptés pour remplir ce rôle.   
 Un seigneur démon naissant possède un FP de 21 à 25 et
 représente donc un adversaire final parfait pour clôturer une
 campagne de jeu entière. Un groupe d’aventuriers de niveau 20
@@ -175,20 +175,20 @@ sa complète transition entre sa nature démoniaque singulière
 et celle d’un seigneur démon maître d’un royaume abyssal. Les
 traits typiques d’un seigneur démon naissant sont similaires,
 mais plus puissants, que ceux d’un démon ordinaire. Ils sont
-résumés ici :
+résumés ici :  
 **Immunité** à l’électricité, aux poisons et aux effets de type mort,
-charme et coercition.
-**Résistance** acide 30, froid 30 et feu 30.
+charme et coercition.  
+**Résistance** acide 30, froid 30 et feu 30.  
 **Convocation (Mag).** Une fois par jour, les seigneurs démons
 naissants peuvent convoquer n’importe quel type de démon
 ou combinaison de démons si la somme totale des FP est de
 20 ou moins. Cette capacité fonctionne toujours et équivaut à
-un sort de niveau 9.
-**Télépathie** jusqu’à 90 mètres.
+un sort de niveau 9.  
+**Télépathie** jusqu’à 90 mètres.  
 Les armes naturelles d’un seigneur démon naissant, ainsi
 que toutes les armes manufacturées qu’il manipule, sont
 dotées des propriétés Chaotique, épique et Mauvaise en ce qui
-concerne la réduction des dégâts.
+concerne la réduction des dégâts.  
 **Pouvoirs spéciaux.** Les seigneurs démons naissants peuvent octroyer des sorts
 aux lanceurs de sorts divins qui les vénèrent. L’octroie de
 sorts ne nécessite aucune action particulière de la part du

@@ -9,12 +9,12 @@ Categories:
 - Sort prêtre 2
 ---
 
-{s:MMI}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action immédiate]]
-**Composantes** [[composantes|V]]
-**Portée** personnelle
-**Cible** le personnage
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action immédiate]]  
+**Composantes** [[composantes|V]]  
+**Portée** personnelle  
+**Cible** le personnage  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 *Parmi les fidèles des dieux de pureté, que ce soient les serviteurs de la déesse des étoiles dans l'État serviteur de l'Ombre, les fidèles zélés de la déesse de la révolution qui luttent contre le gouvernement de l'Empire diabolique, les paladins de l'Héritière qui se battent contre les horreurs de la Faille démoniaque ou simplement ceux qui combattent le Mal partout ailleurs, l’avantage du martyr incarne véritablement la foi et le sacrifice.*

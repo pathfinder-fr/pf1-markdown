@@ -6,7 +6,7 @@ LastModified: 2022-10-17 18:26
 
 {s:MenuTypes}*Source : Bestiaire 4* p.311
 
-Ces créatures de taille Colossale vivent dans les étendues les plus désolées des mondes. Quand elles ne dorment pas, elles sillonnent leur domaine et sèment la destruction sur leur passage. Voici les traits des [[Kaijus|kaiju]] (sauf indication contraire dans un profil).
+Ces créatures de taille Colossale vivent dans les étendues les plus désolées des mondes. Quand elles ne dorment pas, elles sillonnent leur domaine et sèment la destruction sur leur passage. Voici les traits des [[Kaijus|kaiju]] (sauf indication contraire dans un profil). 
 - [[Immunité (capacité)|Immunité]] contre les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] et les diminutions permanentes de caractéristiques, les effets de mort, la  maladie, l’[[Absorption dénergie (capacité)|absorption d’énergie]] et la terreur.
 - [[Résistance (capacité)|Résistance]] à l’acide 30, au froid 30, à l’électricité 30, au feu 30, à l’énergie négative 30 et au son 30.
 - [[RD]] 20/épique.

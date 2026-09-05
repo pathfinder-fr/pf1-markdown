@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#RECEPTION|réception]]
+{s:AE}**Prix** 2 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#RECEPTION|réception]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 Une lance fait 1,50 mètre de long et peut être lancée.

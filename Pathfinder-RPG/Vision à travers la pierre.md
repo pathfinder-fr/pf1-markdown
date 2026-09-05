@@ -9,12 +9,12 @@ Categories:
 - Sort rôdeur 3
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[école divination|Divination]] ; **Niveau** [[druide|Dru]] 4, [[rôdeur|Rôd]] 3
-**Temps d'incantation** 1 action simple
-**Composantes** [[composantes|V, G, FD]]
-**Portée** contact
-**Cible** créature touchée
-**Durée** concentration, jusqu’à 1 [[round]]/niveau (T)
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[école divination|Divination]] ; **Niveau** [[druide|Dru]] 4, [[rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 action simple  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** concentration, jusqu’à 1 [[round]]/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage gagne le pouvoir de voir à travers la roche solide comme si c’était du verre transparent. Il peut voir à travers 30 centimètres de pierre par [[NLS|niveau de lanceur de sorts]]. Il voit à l’intérieur de la pierre comme si l’endroit était éclairé normalement, même si aucune lumière n’est présente, mais la [[vision nocturne (capacité)|vision nocturne]] et la [[capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] n’ont aucun effet sur le pouvoir du personnage à voir à travers la pierre. Une couche de métal de 2,50 centimètres d’épaisseur ou une couche de bois ou de terre de 90 centimètres d’épaisseur bloquent la vision.

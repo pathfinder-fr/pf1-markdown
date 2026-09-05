@@ -21,5 +21,5 @@ Categories:
 **Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage imprègne une écharpe ordinaire (ou un vêtement similaire) avec la force de l’acier, sans pour autant modifier son poids ou sa souplesse. À chaque [[round]], il peut, à son tour, utiliser l’écharpe pour se défendre (il gagne un bonus de bouclier de +2 à la [[CA]]) ou pour attaquer comme si l’écharpe était un
+Le personnage imprègne une écharpe ordinaire (ou un vêtement similaire) avec la force de l’acier, sans pour autant modifier son poids ou sa souplesse. À chaque [[round]], il peut, à son tour, utiliser l’écharpe pour se défendre (il gagne un bonus de bouclier de +2 à la [[CA]]) ou pour attaquer comme si l’écharpe était un 
 [[Tableau récapitulatif des armes|fouet]].

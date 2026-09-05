@@ -12,12 +12,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:ISG}{s:GeM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une brindille cassée)
-**Portée** contact
-**Cible** une section de pierre de 1,5 m de côté ou une créature possédant le sous-type [[sous-type Terre|Terre]]
-**Durée** 1 [[round]]/[[niveau]]
+{s:divin|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png}{s:ISG}{s:GeM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une brindille cassée)  
+**Portée** contact  
+**Cible** une section de pierre de 1,5 m de côté ou une créature possédant le sous-type [[sous-type Terre|Terre]]  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 D’un simple contact, le personnage crée une petite fracture temporaire dans un morceau de pierre ou une créature de sous-type [[sous-type Terre|Terre]]. Si le personnage lance ce sort sur un morceau de pierre, il réduit sa [[solidité]] de 5 et ses points de vie de 10 par tranche de 2,5 cm d’épaisseur. S’il le lance sur une créature de sous-type terre, celle-ci subit une malus de -2 à sa [[CA]] pendant toute la durée du sort. Un sort de *[[réparation intégrale]]* inverse les effets de *petites fractures*.

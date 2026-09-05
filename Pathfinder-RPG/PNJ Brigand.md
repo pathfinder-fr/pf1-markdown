@@ -32,6 +32,6 @@ LastModified: 2021-04-02 17:22
 {s:BDTexte|**Équipement de combat** Potion de soins légers, flèche de maître (5), Pierre tonnerre (2), Sacoche immobilisante (2), Armure de cuir de vitesse, arc long (20 flèches), épée longue, 48  po}
 </div>
 </td><td><div>
-Un brigand n'a aucun sens de la miséricorde, et est heureux de tuer pour une poignée d'argent. Les brigands attaquent les caravanes, créent des péages illégaux sur routes pour rançonner les voyageurs, attaquent les camps bruyants la nuit, et harcèlent les villages contre protection pour de l'argent. Ils sont facilement repoussés mais gardent rancune et restent un problème récurrent jusqu'à leur emprisonnement ou qu'ils soient tués.
+Un brigand n'a aucun sens de la miséricorde, et est heureux de tuer pour une poignée d'argent. Les brigands attaquent les caravanes, créent des péages illégaux sur routes pour rançonner les voyageurs, attaquent les camps bruyants la nuit, et harcèlent les villages contre protection pour de l'argent. Ils sont facilement repoussés mais gardent rancune et restent un problème récurrent jusqu'à leur emprisonnement ou qu'ils soient tués.  
 De nombreux brigands sont d'anciens soldats qui manquaient de discipline pour rester militaire ou dans une compagnie de mercenaires, et peuvent même être des déserteurs d'une armée locale ou d'un envahisseur. Ils utilisent rarement des tactiques de groupe, et forment des gangs sous le plus dur membre du groupe, typiquement un [[mercenaire grisonnant]] (guerrier 6).
 </div></td></tr></table>

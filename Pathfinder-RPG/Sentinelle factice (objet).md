@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po ; **Poids** 17,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
+{s:AE}**Prix** 30 po ; **Poids** 17,5 kg<sup>[[Équipement daventurier#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Après 5 minutes d'assemblage et d'habillage avec un large capuchon et un vêtement ample livrés avec, cette armature en bois ressemble à une silhouette humanoïde en train de monter la garde. Les créatures situées à plus de 9 mètres doivent réussir un test de [[Perception]] [[DD]] 10 pour réaliser qu'il ne s'agit pas d'une véritable sentinelle.

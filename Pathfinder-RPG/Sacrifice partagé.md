@@ -13,12 +13,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Asmodéus|%2fPCUP%2fReligion-PNG%2fAsmodeus.png}{s:ISG}{s:GeM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 3, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** 1 heure/[[niveau]] (T)
+{s:divin|Asmodéus|%2fPCUP%2fReligion-PNG%2fAsmodeus.png}{s:ISG}{s:GeM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 3, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** 1 heure/[[niveau]] (T)  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Grâce à ce sort, le personnage crée un lien entre sa cible et lui, et à travers ce lien, il peut rediriger vers elle la douleur et les dégâts. Le personnage ne subit que la moitié des dégâts infligés par des blessures et des attaques affectant les [[pv|points de vie]]. Les dégâts qu’il ne subit pas sont transférés à la cible de ce sort. Les formes de dégâts qui n’impliquent pas des points de vie, comme les effets de [[branche charme|charme]], les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristiques, les [[Absorption dénergie (capacité)|drains de niveau]] et les effets de [[registre|mort]], ne peuvent être partagées par ce biais. Si le personnage subit une réduction de ses points de vie à cause d’une baisse de son score de [[Constitution]], cette réduction n’est pas partagée avec la cible du sort car ce ne sont pas des dégâts aux points de vie. Lorsque le sort se termine, les dégâts subséquents ne sont plus partagés entre la cible et lui, mais ceux déjà répartis ne lui reviennent pas.

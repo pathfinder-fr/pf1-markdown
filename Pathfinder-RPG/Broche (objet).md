@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** variable ; **Poids** —
+{s:AE}**Prix** variable ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Ce petit bijou permet de maintenir un vêtement en place, comme une cape ou une pèlerine. De nombreuses organisations offrent une broche spéciale comme symbole d’appartenance au groupe ou pour récompenser des réussites spéciales.

@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 2 po ; **Poids** 0,5 kg
+{s:MCA}**Prix** 2 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Ce plâtre à prise rapide convient parfaitement pour préserver des empreintes de pas en vue d'un examen futur. En passant 1 minute à installer le plâtre et à attendre qu'il sèche, vous pouvez copier des empreintes de pas, ce qui permettra à d'autres personnes de les examiner sans devoir se rendre sur place et sans que le [[DD]] du test de [[Survie]] visant à les analyser n'augmente à cause du temps écoulé ou du climat.

@@ -13,9 +13,9 @@ Categories:
 (((Description)))
 Cet étrange oiseau artificiel intelligent, fait d’os fusionnés par alchimie et par magie, est l’œuvre d’une ancienne reine des fées capable de discerner les fils du destin. Il ressemble à un oiseau fait d’os renforcés par alchimie et améliorés par magie mais il a le même profil et les mêmes pouvoirs qu’un [[espion mécanique]] en dehors de sa manœuvrabilité parfaite et de sa résistance aux dégâts de 20/—.
 
-Avant d’utiliser la pie, il faut la garder 24 heures en sa possession et n’être ni Bon ni Mauvais. Ensuite, elle sert son propriétaire jusqu’à ce qu’il la renvoie, qu’elle soit détruite ou qu’il commette un acte maléfique ou bienveillant nécessitant l’accomplissement d’une pénitence. La *pie de l’étrange reine* possède aussi les pouvoirs suivants.
-• Trois fois par jour et sur commande, le propriétaire peut toucher la pie pour l’utiliser comme une [[perle de thaumaturge]] qui permet de se souvenir d’un sort de n’importe quel niveau.
-• Il peut, à volonté et sur commande, envoyer l’oiseau transmettre un message, comme avec le sort *[[messager animal]]*.
+Avant d’utiliser la pie, il faut la garder 24 heures en sa possession et n’être ni Bon ni Mauvais. Ensuite, elle sert son propriétaire jusqu’à ce qu’il la renvoie, qu’elle soit détruite ou qu’il commette un acte maléfique ou bienveillant nécessitant l’accomplissement d’une pénitence. La *pie de l’étrange reine* possède aussi les pouvoirs suivants.  
+• Trois fois par jour et sur commande, le propriétaire peut toucher la pie pour l’utiliser comme une [[perle de thaumaturge]] qui permet de se souvenir d’un sort de n’importe quel niveau.  
+• Il peut, à volonté et sur commande, envoyer l’oiseau transmettre un message, comme avec le sort *[[messager animal]]*.  
 • Trois fois par jour et sur commande, il peut demander à la pie de lancer *[[souffle de vie]]*.
 (((Destruction)))
 La *pie de l’étrange reine* est détruite si elle entre dans le Plan de l’énergie positive.

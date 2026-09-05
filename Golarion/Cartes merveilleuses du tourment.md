@@ -77,7 +77,7 @@ Cette carte donne au personnage une capacité à usage unique : forcer une autre
 Le personnage gagne un bonus de +2 à deux valeurs de caractéristique de son choix mais doit les échanger entre elles.
 
 ##### Le Jumeau
-Le personnage subit une transformation physique qui fait de lui un membre du sexe opposé.
+Le personnage subit une transformation physique qui fait de lui un membre du sexe opposé. 
 
 ##### La Lanterne du démon
 Le corps du personnage se désintègre. Il ne reste de lui que ses objets et une gemme lumineuse abritant son âme. La gemme a une valeur en po égale à 2 500 × le niveau du personnage. Il faut un sort de *[[Pathfinder-RPG.résurrection|résurrection]]* ou quelque chose de plus puissant pour ramener le personnage, ce qui détruit la gemme.

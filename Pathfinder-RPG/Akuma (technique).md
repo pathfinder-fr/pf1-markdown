@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Mains nues (arme)|Mains nues]]
 |[[Domaine de la Gloire|Gloire]], [[Domaine de la Guerre|Guerre]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]]
-|[[Domaine de la Gloire|Honneur]], [[Domaine du Mal|Peur]], [[Domaine de la Guerre|Sang]], [[Domaine de la Guerre|Tactique]]
+|[[Domaine de la Gloire|Honneur]], [[Domaine du Mal|Peur]], [[Domaine de la Guerre|Sang]], [[Domaine de la Guerre|Tactique]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

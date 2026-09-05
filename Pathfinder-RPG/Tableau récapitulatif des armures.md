@@ -9,7 +9,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:MenuEquipement}Les armures marquées d'un astérisque (*) sont des [[armes orientales|armures orientales]].
+{s:MenuEquipement}Les armures marquées d'un astérisque (*) sont des [[armes orientales|armures orientales]].  
 Lorsqu'un personnage [[courir|court]] en armure lourde, sa vitesse de déplacement est triplée (et non quadruplée).
 
 

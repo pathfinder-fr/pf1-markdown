@@ -48,7 +48,7 @@ Agitant gauchement ses nerfs oculaires pour voler, cette créature pleure sans a
 
 Elles peuvent également être assignées à la surveillance discrète d’invités ou de sujets d’expérience. Le créateur d’un isitoq peut voir au travers de l’oeil de la créature et peut ainsi surveiller son domaine, tout en restant à l’abri dans son sanctuaire ou dans une zone lourdement gardée.
 
-L’attaque de l’isitoq n’est pas particulièrement violente, mais les créatures touchées par les ailes du globe oculaire se font témoin des derniers instants de vie de la créature à laquelle l’oeil appartenait. Cette terrible vision est si poignante de vérité que la victime est persuadée de vivre sa propre mort.
+L’attaque de l’isitoq n’est pas particulièrement violente, mais les créatures touchées par les ailes du globe oculaire se font témoin des derniers instants de vie de la créature à laquelle l’oeil appartenait. Cette terrible vision est si poignante de vérité que la victime est persuadée de vivre sa propre mort. 
 
 #### Création d'un isitoq
 Un lanceur de sorts peut créer un isitoq à partir de la tête d’une créature morte de taille P ou M possédant au moins un oeil encore intact. Il doit alors animer cette tête à l’aide d’*[[animation des morts]]* comme si c’était un mort-vivant avec 1 Dé de Vie (cette créature compte dans le montant total de DV de créatures animées par le sort et dans le montant total de DV que le lanceur de sorts peut contrôler).

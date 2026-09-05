@@ -14,7 +14,7 @@ Categories:
 {s:BDTitre|Bracelet de chances renouvelées|{s:AE}}
 **Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 15 750 po ; **Poids** —
 (((Description)))
-Ce bracelet est serti de sept perles de corail gravées de motifs complexes. Lorsque son porteur est victime d’une attaque sournoise ou d’un coup critique confirmé, il peut, par une [[action immédiate]] avant que le jet de dégâts soit lancé, choisir de convertir le coup en frappe normal. Une perle se brise à chaque fois que le porteur annule un coup critique ou une attaque sournoise de cette façon. Lorsque les sept perles ont disparu, le bracelet tombe en poussière.
+Ce bracelet est serti de sept perles de corail gravées de motifs complexes. Lorsque son porteur est victime d’une attaque sournoise ou d’un coup critique confirmé, il peut, par une [[action immédiate]] avant que le jet de dégâts soit lancé, choisir de convertir le coup en frappe normal. Une perle se brise à chaque fois que le porteur annule un coup critique ou une attaque sournoise de cette façon. Lorsque les sept perles ont disparu, le bracelet tombe en poussière. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[souffle de vie]]* ; **Coût** 7 875 po
 </div>

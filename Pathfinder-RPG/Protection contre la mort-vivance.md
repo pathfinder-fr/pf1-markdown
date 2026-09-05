@@ -11,7 +11,7 @@ Categories:
 ---
 
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}
-**École** [[Nécromancie]] ;
+**École** [[Nécromancie]] ; 
 **Niveau** [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

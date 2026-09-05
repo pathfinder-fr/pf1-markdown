@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Augustana (ville)|[[Andoran]]|[[Arthfell]]|N|Conseil démocratique|16 000 po|54 200 (métropole)|32,400 humains, 6,480 halfelins, 5,400 nains, 3,780 demi-orques, 3,240 elfes, 1,620 gnomes, 200 demi-elfes, 1,080 autres|• **Radas Ménadian**, maire (humain m, LN, expert 12)
-• **Haskell Whaley**, amiral consul de la marine andorane (humain m, LB, expert 3/guerrier 8)
+{s:Communauté|Augustana (ville)|[[Andoran]]|[[Arthfell]]|N|Conseil démocratique|16 000 po|54 200 (métropole)|32,400 humains, 6,480 halfelins, 5,400 nains, 3,780 demi-orques, 3,240 elfes, 1,620 gnomes, 200 demi-elfes, 1,080 autres|• **Radas Ménadian**, maire (humain m, LN, expert 12)  
+• **Haskell Whaley**, amiral consul de la marine andorane (humain m, LB, expert 3/guerrier 8)  
 • **Siléa Pentarian**, présidente de la Fondation des forestiers (humain f, expert 4)}Augustana est une ville portuaire de la [[mer intérieure]] dans la nation de l'[[Andoran]] située sur la [[Baie de lAspo|baie de l'Aspo]]. C'est la deuxième plus grande ville du pays et possède l'un des plus grands chantiers navals de la région de la mer intérieure.<sup>(1)</sup>
 
 #### Histoire

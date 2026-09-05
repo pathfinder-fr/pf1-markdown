@@ -4,7 +4,7 @@
 STYLE="height: 356px; width: 625px; position: absolute" />
 <P STYLE="background-color: #f3efe2; font-size: 250%; font-weight: bold; color: black;
 margin: 8px; padding: 4px; width: 599px; border: 1px solid #4b3124;
-position: absolute; bottom: 0px; left: 0px;
+position: absolute; bottom: 0px; left: 0px; 
 opacity: 0.7; filter:alpha(opacity=70); ">
 **?2?&emsp;**  
 ?3?

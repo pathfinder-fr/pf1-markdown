@@ -52,18 +52,18 @@ Sacrifier une créature vivante non consentante au nom de la Mère des monstres.
 : **3.** ***Forme meurtrie (Sur).*** Le personnage est recouvert d'un épiderme armorié d'épaisses cicatrices. Il subit un malus de -2 aux tests de [[Charisme]] et aux tests de [[Compétences|compétence]] basés sur le Charisme, mais gagne une [[RD]] 5/-. Si le personnage possédait déjà une réduction de dégâts impossible à ignorer (comme avec la capacité de classe [[Barbare#REDUCTIONDEGATS|réduction de dégâts]] du barbare), il augmente cette réduction de dégâts de 5.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[druide]]).**
+**Lancement de sorts ([[druide]]).**  
 • *[[Métamorphose funeste]]* peut être préparé comme un sort de 5e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[sort Cauchemar|Cauchemar]]* peut être préparé comme un sort de 6e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[sort Cauchemar|Cauchemar]]* peut être préparé comme un sort de 6e niveau.  
 • *[[Métamorphose funeste]]* peut être préparé comme un sort de 5e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Worg]] [[Archétypes#CREATUREFIELONNE|fiélon]] - CM
-• *[[Convocation de monstres V]].* [[Barghest]] - CM (sous-type [[sous-type Chaos|Chaos]] plutôt que [[sous-type Loi|Loi]])
-• *[[Convocation de monstres VIII]].* [[Distordu]] - CM
-• *[[Convocation de monstres VIII]].* [[Destrier noir]] - NM
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Worg]] [[Archétypes#CREATUREFIELONNE|fiélon]] - CM  
+• *[[Convocation de monstres V]].* [[Barghest]] - CM (sous-type [[sous-type Chaos|Chaos]] plutôt que [[sous-type Loi|Loi]])  
+• *[[Convocation de monstres VIII]].* [[Distordu]] - CM  
+• *[[Convocation de monstres VIII]].* [[Destrier noir]] - NM  
 • Les [[Druide|druides]] et les [[Rôdeur|rôdeurs]] peuvent utiliser les sorts de *[[convocation dalliés naturels|convocation d'alliés naturels]]* pour convoquer les animaux [[Archétypes#CREATUREFIELONNE|fiélons]] d'une *[[convocation de monstres]]* de même niveau.
 
 ### Options de personnage thématiques

@@ -13,7 +13,7 @@ Categories:
 ---
 
 {s:racial|Vanara (race)|vanaras|Illustrations/PNJ/Vanara.jpg}{s:MR}
-**École** [[Transmutation]] ;
+**École** [[Transmutation]] ; 
 **Niveau** [[alchimiste|Alch]] 3, [[barde|Bard]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[magus]] 3  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

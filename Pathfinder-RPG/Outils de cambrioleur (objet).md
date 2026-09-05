@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po (standards), 100 po (de maître) ; **Poids** 0,5 kg (standards), 1 kg (de maître)
+{s:AE}**Prix** 30 po (standards), 100 po (de maître) ; **Poids** 0,5 kg (standards), 1 kg (de maître)  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette trousse comprend des crochets de serrurier et autres outils nécessaires à l’utilisation de la compétence [[Sabotage]].  
 Sans ces outils, le personnage doit utiliser des outils improvisés et reçoit un malus de circonstances de -2 à ses tests de Sabotage.  
   

@@ -10,12 +10,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte]] (7,50m + 1,50m/2 niveaux)
-**Effet** un appendice ectoplasmique
-**Durée** 1 minute/[[niveau]]
+{s:cs}{s:OO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte]] (7,50m + 1,50m/2 niveaux)  
+**Effet** un appendice ectoplasmique  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Le personnage manifeste une main animée à travers le voile ectoplasmique pour manipuler des objets, attaquer des créatures, et livrer des sorts de contact de loin. La main reste liée au personnage par des tendons ectoplasmiques. La *main ectoplasmique* et ses tendons ont une [[solidité]] de 10 et un nombre de points de vie égal à 10 + le [[NLS|niveau de lanceur de sorts]] du personnage. Les tendons peuvent être endommagés ou brisés depuis tout son long, ce qui met fin au sort. La *main ectoplasmique* possède l’[[Roublard#ESQUIVETOTALE|esquive totale]], utilise les jets de sauvegarde de son lanceur, et a une [[CA]] de 24 (+6 armure naturelle, +8 taille). La *main ectoplasmique* peut se déplacer de 9 m par [[round]], et à chacun de ses tours le lanceur peut utiliser son [[action de mouvement]] pour lui ajouter 9 m de déplacement supplémentaires. Si le personnage utilise une [[action rapide]], la *main ectoplasmique* peut effectuer une attaque en utilisant le [[BBA]] maximum du personnage, modifiant ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] avec la caractéristique d’incantation du personnage (celle qui détermine le [[DD]] de ses sorts). Cette attaque inflige 1d6 points de dégâts avec une attaque de coup, et la *main ectoplasmique* peut manier n'importe quelle arme légère à une main. La *main ectoplasmique* menace et peut prendre les ennemis en [[prendre en tenaille|tenaille]].

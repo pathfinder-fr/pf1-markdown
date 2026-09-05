@@ -11,12 +11,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Sorcière|Sor]] 1
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un chiffon doux)
-**Portée** contact
-**Cible** un objet en métal d’un maximum de 30 cm de côté
-**Durée** instantanée
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Sorcière|Sor]] 1  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un chiffon doux)  
+**Portée** contact  
+**Cible** un objet en métal d’un maximum de 30 cm de côté  
+**Durée** instantanée  
 **Jet de sauvegarde** oui (objet) ; **Résistance à la magie** oui (objet)
 
 Le personnage polit un objet jusqu’à lui donner suffisamment d’éclat pour que l’on puisse l’utiliser comme un miroir. Ceci ne protège pas l’objet contre les dégâts et la corrosion futurs qui pourraient abîmer sa surface polie. Le sort ne peut être lancé que sur un objet en métal présentant une surface relativement lisse et contiguë, comme une cuirasse, un casque, un bouclier ou une épée, mais pas une masse d’armes, une cotte de mailles ou une armure d’écailles.

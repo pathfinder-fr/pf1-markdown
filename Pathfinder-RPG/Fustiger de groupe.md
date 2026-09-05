@@ -10,27 +10,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Inquisiteur|Inq]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte
+{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Inquisiteur|Inq]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte  
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[fustiger]]* mais il affecte plusieurs créatures.
 
 
 
 (((
 ## Fustiger
-{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature vivante
-**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte
+{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature vivante  
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte  
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage oblige la cible à supplier qu'on la pardonne. Si cette dernière rate son [[jet de sauvegarde]], elle se [[recroquevillé|recroqueville]] de peur. En cas de réussite, elle est [[secoué|secouée]] pour 1 [[round]]. À chaque [[round]], à son tour, la cible [[recroquevillé|recroquevillée]] peut tenter un nouveau [[jet de sauvegarde]] pour mettre un terme à cet effet. Une créature qui vénère le même dieu que le personnage subit un malus de -2 au [[jet de sauvegarde]].
 )))

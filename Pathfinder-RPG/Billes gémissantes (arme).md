@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 2 po ; **Poids** 2,5 kg
+{s:cs}{s:AA}**Prix** 2 po ; **Poids** 2,5 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 Ces [[Billes de fronde (arme)|billes de fronde]] sont alvéolées de perforations superposées qui les font émettre un gémissement étrange audible à 150 mètres ou moins de leur trajectoire de vol.

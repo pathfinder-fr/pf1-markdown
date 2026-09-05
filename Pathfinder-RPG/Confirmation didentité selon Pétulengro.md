@@ -11,12 +11,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une mèche de cheveux, une rognure d’ongle ou un résidu corporel similaire)
-**Portée** contact
-**Cible** créature touchée
-**Durée** instantanée
+{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une mèche de cheveux, une rognure d’ongle ou un résidu corporel similaire)  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** oui (inoffensif)
 
 *Après avoir frôlé la mort de près à cause de [[Doppelganger|doppelgangers]], une capitaine-aventurière de la Compagnie des Explorateurs a conçu un moyen de vérifier la véritable identité de ses compagnons.*

@@ -43,27 +43,27 @@ Pendant une heure, passer autant de temps à s'entraîner avec une arme ou à fr
 • Les [[Moine|moines]] qui possèdent la capacité de classe [[Moine#PAUMEVIBRATOIRE|paume vibratoire]] peuvent l'utiliser pour rendre une cible comateuse pendant une longue période (jusqu'à ce qu'elle soit la cible de *[[guérison suprême]]*, *[[restauration]]* ou *[[restauration suprême]]*) plutôt que la tuer. Ce choix doit être fait au moment où le personnage active sa paume vibratoire.
 • Les [[Moine|moines]] peuvent utiliser leur capacité [[Moine#PLENITUDEPHYSIQUE|plénitude physique]] sur une créature consentante par une [[action simple]]. Le moine doit toucher la cible, et celle-ci devient [[fatigué|fatiguée]] par l'aide apportée.
 
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Moment de prescience]]* peut être préparé comme un sort de 8e niveau.
-• *[[Mythes et légendes]]* peut être préparé comme un sort de 6e niveau.
-• *[[Transformation martiale]]* peut être préparé comme un sort de 6e niveau.
-• *[[Poing de pierre]]* peut être préparé comme un sort de 1er niveau.
-• *[[Projection astrale]]* peut être préparé comme un sort de 8e niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Moment de prescience]]* peut être préparé comme un sort de 8e niveau.  
+• *[[Mythes et légendes]]* peut être préparé comme un sort de 6e niveau.  
+• *[[Transformation martiale]]* peut être préparé comme un sort de 6e niveau.  
+• *[[Poing de pierre]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Projection astrale]]* peut être préparé comme un sort de 8e niveau.  
 • *[[Rapidité]]* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Moment de prescience]]* peut être préparé comme un sort de 6e niveau.
-• *[[Mythes et légendes]]* peut être préparé comme un sort de 4e niveau.
-• *[[Transformation martiale]]* peut être préparé comme un sort de 5e niveau.
-• *[[Poing de pierre]]* peut être préparé comme un sort de 1er niveau.
-• *[[Projection astrale]]* peut être préparé comme un sort de 6e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Moment de prescience]]* peut être préparé comme un sort de 6e niveau.  
+• *[[Mythes et légendes]]* peut être préparé comme un sort de 4e niveau.  
+• *[[Transformation martiale]]* peut être préparé comme un sort de 5e niveau.  
+• *[[Poing de pierre]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Projection astrale]]* peut être préparé comme un sort de 6e niveau.  
 • *[[Rapidité]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres IV]].* [[Mante géante]] ([[sous-type extraplanaire|extraplanaire]])
+**Convocations étendues.**  
+• *[[Convocation de monstres IV]].* [[Mante géante]] ([[sous-type extraplanaire|extraplanaire]])  
 • *[[Convocation de monstres IV]].* [[Tigre]]
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

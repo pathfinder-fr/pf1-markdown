@@ -12,7 +12,7 @@ Categories:
 ---
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}
-**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ;
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; 
 **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 5  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

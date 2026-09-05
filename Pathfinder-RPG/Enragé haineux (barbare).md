@@ -15,7 +15,7 @@ Categories:
 Au niveau 2 puis tous les niveaux pairs, l’enragé haineux ne gagne qu’un [[round]] de [[BARBARE#RAGEDEBERSERKER|rage]] supplémentaire par jour, au lieu de 2.
 
 #### Ennemi juré (Ext)
-Au niveau 2, l’enragé haineux choisit un [[ennemi juré]]. Ce pouvoir fonctionne comme celui du [[rôdeur]]. L'enragé haineux choisit un ennemi juré supplémentaire aux niveaux 8, 14 et 20 et augmente ses bonus contre ceux qu’il possède déjà, comme indiqué dans la description du rôdeur.
+Au niveau 2, l’enragé haineux choisit un [[ennemi juré]]. Ce pouvoir fonctionne comme celui du [[rôdeur]]. L'enragé haineux choisit un ennemi juré supplémentaire aux niveaux 8, 14 et 20 et augmente ses bonus contre ceux qu’il possède déjà, comme indiqué dans la description du rôdeur. 
 
 Quand l’enragé haineux est en [[BARBARE#RAGEDEBERSERKER|rage]], il fait tout ce qu’il peut pour combattre un [[ennemi juré]] plutôt qu’un autre adversaire. S’il sait qu’un de ses ennemi juré est présent, il doit réussir un jet de [[Volonté]] [[DD]] 20 à chaque round s’il veut attaquer une autre créature, sinon, il est obligé d’attaquer son ennemi juré ou de s’en rapprocher. Il est libre d’attaquer les créatures qui l’empêchent d’atteindre son ennemi juré (qu’elles le gênent activement ou se trouvent juste sur son chemin). Quand il essaie d’atteindre un ennemi juré, il peut éviter normalement les obstacles dangereux et il n’est pas obligé de suivre l’itinéraire le plus court.
 

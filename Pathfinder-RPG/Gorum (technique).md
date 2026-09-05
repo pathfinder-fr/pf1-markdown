@@ -36,33 +36,33 @@ Revêtir l'armure métallique la plus lourde qu'on posséde. Prononcer à pleins
 : **3.** ***Rage du dévot (Ext).*** Le personnage entre dans une frénésie sacrée ou impie à chaque fois qu'il entre en rage, en fonction de son alignement. Il obtient un bonus de +2 à ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] lorsqu'il est en rage. Si le personnage ne possède pas la capacité de classe [[Barbare#RAGE|rage de berserker]], il gagne à la place la capacité d'entrer en rage une fois par jour comme avec un sort de *[[rage]]*, excepté qu'il n'a pas besoin de se concentrer. Au lieu de cela, la rage dure un nombre de rounds égal au nombre de [[DV|dés de vie]] du personnage ou jusqu'à ce qu'il décide d'y mettre fin, selon ce qui arrive en premier.
 
 ### Règles uniques aux suivants
-**Armes et armures.**
+**Armes et armures.**  
 • Les [[Druide|druides]] sont autorisés à porter des armures metalliques (bien qu'ils ne gagnent pas de formation au port d'autres catégories d'armure). Ils sont incapables de lancer des sorts en portant une armure metallique, et une telle armure ne se fond pas dans leur corps lorsqu'il utilisent [[Druide#FORMEANIMALE|forme animale]]. Les druides intéressés par les armures metalliques se procurent généralement un ensemble adapté à une forme bestiale particulière et engagent leurs alliés ou leurs esclaves pour leur enfiler lorsque vient le moment de se battre.
 
-**Lancement de sorts (toutes les classes).**
+**Lancement de sorts (toutes les classes).**  
 • Interdiction de lancer le sort *[[rouille]]*.
 
-**Lancement de sorts ([[druide]]).**
-• *[[Corps de fer]]* peut être préparé comme un sort de 8e niveau.
+**Lancement de sorts ([[druide]]).**  
+• *[[Corps de fer]]* peut être préparé comme un sort de 8e niveau.  
 • *[[Rage]]* peut être préparé comme un sort de 3e niveau.
 
 
-**Lancement de sorts ([[inquisiteur]]).**
+**Lancement de sorts ([[inquisiteur]]).**  
 • *[[Lames de plomb]]* peut être préparé comme un sort de 3e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Corps de fer]]* peut être préparé comme un sort de 8e niveau.
-• *[[Lames de plomb]]* peut être préparé comme un sort de 3e niveau.
-• *[[Métal brûlant]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Corps de fer]]* peut être préparé comme un sort de 8e niveau.  
+• *[[Lames de plomb]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Métal brûlant]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Rage]]* peut être préparé comme un sort de 3e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Cobra de fer]] - N ([[sous-type extraplanaire|extraplanaire]], sans poison)
-• *[[Convocation de monstres VI]].* [[Bulette]] - N
-• *[[Convocation de monstres VII]].* [[Béhir]] - N
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Cobra de fer]] - N ([[sous-type extraplanaire|extraplanaire]], sans poison)  
+• *[[Convocation de monstres VI]].* [[Bulette]] - N  
+• *[[Convocation de monstres VII]].* [[Béhir]] - N  
 • *[[Convocation de monstres VIII]].* [[Gorgone]] - N
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Masque sacré du dieu vivant|{s:ISG}{s:GeM}}
 **Aura** [[Illusion]] ([[branche ombre|ombre]]) modérée ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 2 100 po ; **Poids** 0,5 kg
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce masque de fer est la réplique du visage du dieu vivant ; sur le front est posé un ornement d’ivoire taillé en forme de diamant qui viendrait du propre masque du dieu vivant.
 
 Si le personnage est un suivant de [[Razmir (technique)|Razmir]], il bénéficie d’un bonus de compétence de +2 aux tests de [[Premiers secours]] et d’[[Intimidation]]. Il peut utiliser *[[terreur]]* et *[[soins légers]]* une fois par jour.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pc ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pc ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 La craie broyée, la farine et les autres matériaux en poudre sont très prisés par les aventuriers puisqu'ils permettent de repérer les créatures invisibles. Pour jeter un sac de poudre sur une case, il faut faire une attaque contre une [[CA]] de 5, qui révèle momentanément la position éventuelle d'une créature [[invisible]]. Une méthode bien plus efficace consiste à répandre de la poudre sur une surface (ce qui prend une [[action complexe]]) et de chercher des empreintes de pas.

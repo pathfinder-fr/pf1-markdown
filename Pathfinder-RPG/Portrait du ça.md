@@ -13,7 +13,7 @@ Categories:
 (((Description)))
 Ce chef-d'œuvre de peinture à l’huile sur bois de 1,20 mètre sur 2,40 mètres représente un élégant fauteuil rembourré à haut dossier au premier plan d’un bureau gothique paré de lourdes tentures, de tables polies avec des lampes décoratives, de tapis somptueux et de centaines de livres rangés sur des étagères. Le cadre d’or et d’argent est tout aussi élégant et gravé de symboles magiques luisant légèrement.
 
-Le tableau est un puissant artefact mineur qui peut servir à créer une ou plusieurs copies de n’importe quelle créature vivante ayant au moins 10 en [[Charisme]]. Quand la créature touche le tableau en prononçant un mot de commande, elle est aspirée dans la toile où elle arrive assise dans le fauteuil. Le sujet est sous les effets du sort d’*[[entrave]]*.
+Le tableau est un puissant artefact mineur qui peut servir à créer une ou plusieurs copies de n’importe quelle créature vivante ayant au moins 10 en [[Charisme]]. Quand la créature touche le tableau en prononçant un mot de commande, elle est aspirée dans la toile où elle arrive assise dans le fauteuil. Le sujet est sous les effets du sort d’*[[entrave]]*.  
 Fouillant dans le subconscient du sujet, le tableau en crée une copie qui dure une journée par dé de vie du sujet. Si ce dernier a un modificateur de [[Charisme]] positif, il peut créer un nombre de copies supplémentaires égal à son modificateur de Charisme.
 
 Chacune de ces copies représente un alter ego du sujet. Certains êtres peuvent avoir de multiples alter egos. Dans ce cas, la créature détermine le nombre exact de copies qu’elle veut que le *portrait du ça* reproduise, jusqu’à un maximum fixé par son modificateur de [[Charisme]].

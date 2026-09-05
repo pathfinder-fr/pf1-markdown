@@ -49,7 +49,7 @@ Categories:
 Les diables cornus figurent parmi les plus dangereux guerriers au
 service des archidiables. Ils font d’excellents commandants pour
 les troupes de diables mineurs et imposent la volonté de l’Enfer
-partout où ils vont.
+partout où ils vont. 
 
 Ces diables majeurs sont entraînés, forgés
 et reforgés pour être les combattants les plus mortels, les plus

@@ -28,7 +28,7 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 14, **Int** 10, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 15}
-{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l'initiative]]} 
 {s:BDTexte|**Compétences** [[Discrétion]] +7, [[Intimidation]] +7, [[Perception]] +7, [[Survie]] +7}
 {s:BDTexte|**Langues** aklo}
 {s:BDTexte|**Particularités** armes et armures}
@@ -43,11 +43,11 @@ Categories:
 
 </td><td><div>*Cet  humanoïde  glabre  et  voûté  a  des  pattes  de  chien  étrangement articulées. Sa bouche horrible est flanquée de bras courts qui se terminent par des mains à trois doigts.*
 
-Les  rejetons  du  péché  sont  des  créatures  corrompues  créées
-par  magie  pour  servir  les  lanceurs  de  sorts  d’un  âge  révolu.
-Ils  formaient  les  troupes  de  choc  au  sein  de  leurs  armées.  Ces
-véritables  incarnations  des  péchés  sont  des  abominations
-d’ectoplasme distillé marquées par l’image de l’âme d’une créature
+Les  rejetons  du  péché  sont  des  créatures  corrompues  créées 
+par  magie  pour  servir  les  lanceurs  de  sorts  d’un  âge  révolu. 
+Ils  formaient  les  troupes  de  choc  au  sein  de  leurs  armées.  Ces 
+véritables  incarnations  des  péchés  sont  des  abominations 
+d’ectoplasme distillé marquées par l’image de l’âme d’une créature 
 morte qui s’adonnait abondamment à un péché en particulier.
 #### Les sept types de rejetons du péché
 Le profil ci-contre représente un rejeton de la colère, le type le plus  courant  de  rejetons  du  péché.  Chaque  type  possède  des modificateurs propres qui sont cités après leur nom.
@@ -60,7 +60,7 @@ Le profil ci-contre représente un rejeton de la colère, le type le plus  coura
 
 **Rejeton de la luxure ****(Cha +4, Con –2, Sag –2)**. Avec leurs corps parfaits  qui  tranchent  nettement  avec  leur  visages  et  les  griffes horribles,  les  rejetons  de  la  luxure  deviennent  souvent  des ensorceleurs.
 
-**Rejeton de la fierté** **(Int +4, Sag –2, Cha –2)**. Les rejetons de la fierté qui, contrairement à tous les autres rejetons, possèdent  une  longue  chevelure,  ont  une  apparence quasi  squelettique  et  fort  élancée.  Ils  deviennent
+**Rejeton de la fierté** **(Int +4, Sag –2, Cha –2)**. Les rejetons de la fierté qui, contrairement à tous les autres rejetons, possèdent  une  longue  chevelure,  ont  une  apparence quasi  squelettique  et  fort  élancée.  Ils  deviennent 
 souvent des magiciens.
 
 **Rejeton de la paresse** **(Sag +2, Dex –2)**. La silhouette voûtée des rejetons de la paresse est drapée dans des replis de chair inutiles. Ils deviennent souvent des prêtres.

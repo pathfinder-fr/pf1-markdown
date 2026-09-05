@@ -44,7 +44,7 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple ou escouade (3-6)}
 {s:BDTexte|**Trésor** standard (armes mentionnées ci-dessus plus autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Armes enchantées (Sur).** En plus de leur alignement Loyal Mauvais, les armes de l’upasunda sont considérées comme magiques quand il s’agit de passer les réductions de dégâts.}
+{s:BDTexte|**Armes enchantées (Sur).** En plus de leur alignement Loyal Mauvais, les armes de l’upasunda sont considérées comme magiques quand il s’agit de passer les réductions de dégâts.} 
 {s:BDTexte|**Maîtrise du combat à plusieurs armes (Ext).** L’upasunda ne subit aucun malus lorsqu’il se bat avec plusieurs armes.}
 
 </div>

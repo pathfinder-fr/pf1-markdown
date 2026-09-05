@@ -10,7 +10,7 @@ LastModified: 2024-05-28 18:51
 (((Description)))
 Ce sceptre qui attire le regard est orné de paillettes scintillantes. Le porteur gagne un bonus de compétence de +5 à ses tests de [[Bluff]] et d’[[Escamotage]], ainsi qu’à ses tests opposés de [[Charisme]] pour donner des ordres aux créatures charmées.
 
-Le *sceptre d’envoûtement* permet aux représentations bardiques de [[Représentations#FASCINATION|fascination]], de [[Représentations#SUGGESTION|suggestion]] et de [[Représentations#SUGGESTIONDEGROUPE|suggestion de groupe]] du barde de faire effet comme si elles avaient 5 niveaux de plus. Le sceptre accorde un bo­nus de +5 aux tests de Représentation du barde lorsqu’il utilise distraction.
+Le *sceptre d’envoûtement* permet aux représentations bardiques de [[Représentations#FASCINATION|fascination]], de [[Représentations#SUGGESTION|suggestion]] et de [[Représentations#SUGGESTIONDEGROUPE|suggestion de groupe]] du barde de faire effet comme si elles avaient 5 niveaux de plus. Le sceptre accorde un bo­nus de +5 aux tests de Représentation du barde lorsqu’il utilise distraction. 
 (((Création)))
 **Conditions** [[Création de sceptres magiques]], *[[hypnose]]* ; **Coût** 9 000 po
 </div>

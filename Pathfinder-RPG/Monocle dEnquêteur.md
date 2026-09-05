@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:44
 {s:BDTitre|Monocle d’enquêteur|{s:AE}}
 **Aura** [[Enchantement]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 6.800 po ; **Poids** —
 (((Description)))
-Le porteur attache ce monocle au verre épais cerclé d’or sur ses vêtements grâce à une lourde chaînette. Il aide à discerner la vérité et a été créé à l’origine pour aider lors des enquêtes criminelles et des interrogatoires de témoins. Deux fois par jour et sur commande, le monocle crée une *[[zone de vérité]]*. De plus, il confère à son porteur un bonus de compétence de +5 aux tests de [[Psychologie]]. Même si le monocle se pose devant un seul œil, il occupe l’intégralité de l’emplacement pour les yeux.
+Le porteur attache ce monocle au verre épais cerclé d’or sur ses vêtements grâce à une lourde chaînette. Il aide à discerner la vérité et a été créé à l’origine pour aider lors des enquêtes criminelles et des interrogatoires de témoins. Deux fois par jour et sur commande, le monocle crée une *[[zone de vérité]]*. De plus, il confère à son porteur un bonus de compétence de +5 aux tests de [[Psychologie]]. Même si le monocle se pose devant un seul œil, il occupe l’intégralité de l’emplacement pour les yeux. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[zone de vérité]]*  ; **Coût** 3.400 po
 </div>

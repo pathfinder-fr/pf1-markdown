@@ -16,11 +16,11 @@ au lieu de les apaiser pour acquérir et exploiter leurs connaissances magiques.
 Quand un chuchoteur spirituel choisit son [[pacte magique]], il doit sélectionner celui du familier et celui-ci reçoit le pouvoir d’esprit animal de l’esprit choisi (voir lien spirituel ci-dessous). Le chuchoteur spirituel n’a pas besoin de grimoire ; à la place, il stocke et prépare ses sorts en communiant avec le familier, comme décrit dans l’aptitude de classe [[Sorcière#FAMILIER|familier]] de la [[sorcière]]. Cette aptitude modifie le pacte magique et remplace l’aptitude de classe grimoire.
 
 #### Lien spirituel (Sur)
-Au niveau 1, un chuchoteur spirituel noue un lien mystique avec un esprit. Il choisit un esprit parmi ceux de la [[Esprits (chaman)|liste des esprits]] du [[chaman]].
+Au niveau 1, un chuchoteur spirituel noue un lien mystique avec un esprit. Il choisit un esprit parmi ceux de la [[Esprits (chaman)|liste des esprits]] du [[chaman]]. 
 
-Au niveau 1, il reçoit le pouvoir conféré par cet esprit.
+Au niveau 1, il reçoit le pouvoir conféré par cet esprit. 
 
-Au niveau 8, il reçoit le pouvoir supérieur conféré par cet esprit.
+Au niveau 8, il reçoit le pouvoir supérieur conféré par cet esprit. 
 
 Au niveau 20, il reçoit le pouvoir de manifestation conféré par l’esprit.
 

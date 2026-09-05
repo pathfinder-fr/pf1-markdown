@@ -42,7 +42,7 @@ Categories:
 - **Particularités **agile, émissaire galactique, ne respire pas, vol stellaire
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li><li>***Voir la description des [[dragon du vortex|dragons du vortex]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li><li>***Voir la description des [[dragon du vortex|dragons du vortex]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*  
 
 Les dragons du vortex sont les maîtres incontestés du voyage intergalactique. Ce sont les messagers et les sentinelles des plus grands dragons sidéraux et des entités quasi-divines du Grand Au-delà.
 </div></td></tr></table>

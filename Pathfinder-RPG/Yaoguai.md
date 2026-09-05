@@ -54,7 +54,7 @@ LastModified: 2017-01-19 14:32
 *Cette créature est la fusion de différents animaux. Elle possède le torse et la tête d’un ours, les pattes griffues d’un singe et l’un de ses bras est remplacé par un tentacule poilu.*
 
 
-Un yaoguai est une abomination créée à l’aide d’une magie contre-nature qui permet de fusionner les éléments de plusieurs créatures différentes afin de produire un monstre difforme et dépareillé qui massacre son créateur dès que possible pour s’échapper.
+Un yaoguai est une abomination créée à l’aide d’une magie contre-nature qui permet de fusionner les éléments de plusieurs créatures différentes afin de produire un monstre difforme et dépareillé qui massacre son créateur dès que possible pour s’échapper. 
 
 Tous les yaoguais sont différents, mais la plupart maitrisent des pouvoirs similaires. Le tourment de leurs conception et la douleur permanente de leur existence les plongent invariablement dans une frénésie de violence démente qui les pousse à attaquer à la moindre provocation.
 

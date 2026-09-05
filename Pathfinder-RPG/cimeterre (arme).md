@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+{s:AE}**Prix** 15 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Cette épée incurvée est plus courte qu’une [[épée longue (arme)|épée longue]] mais plus longue qu’une [[épée courte (arme)|épée courte]]. Seul le bord extérieur de la lame est tranchant, l’arrière est plat, la lame a donc une section triangulaire.

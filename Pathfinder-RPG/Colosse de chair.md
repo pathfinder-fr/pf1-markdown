@@ -46,7 +46,7 @@ LastModified: 2021-04-05 19:26
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Colosse|colosses]].***</li></ul>
 *Cette énorme monstruosité ressemble à une montagne de cadavres humanoïdes encore frais, entassés de manière à former une sorte de silhouette humaine.*
 
-Un colosse de chair se compose de centaines de cadavres assemblés en une macabre créature mesurant dans les dix-huit mètres de haut pour un poids de soixante-quinze tonnes.
+Un colosse de chair se compose de centaines de cadavres assemblés en une macabre créature mesurant dans les dix-huit mètres de haut pour un poids de soixante-quinze tonnes. 
 
 ### Construction
 Pour créer un colosse de chair, il faut au moins 500 cadavres humanoïdes pour une valeur totale de 10 000 po.

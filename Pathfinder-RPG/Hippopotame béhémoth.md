@@ -36,20 +36,20 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (2-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Renversement de navires (Ext)** Un hippopotame peut renverser un navire de sa taille ou plus petit que lui
+{s:BDTexte|**Renversement de navires (Ext)** Un hippopotame peut renverser un navire de sa taille ou plus petit que lui 
 en effectuant une charge et en réalisant un test de manœuvre de combat. Le DD de ce test est égal à 25 ou au résultat d’un test de Profession (marin) réalisé par le capitaine du navire si celui-ci est plus élevé.}
 {s:BDTexte|**Transpiration (Ext)** La transpiration rougeâtre qui recouvre un hippopotame le protège contre les dégâts non létaux dus à des chaleurs extrêmes et lui donne un bonus racial de +2 aux jets de sauvegarde contre les maladies non magiques.}</div>
-</td><td><div>''Ce  gigantesque  hippopotame  plus  grand  qu’un  éléphant  possède  des  dents
+</td><td><div>''Ce  gigantesque  hippopotame  plus  grand  qu’un  éléphant  possède  des  dents 
 semblables à des cimeterres. Lorsqu’il s’avance, rien ne semble pouvoir l’arrêter.''
 
-Les  hippopotames  béhémoths  sont  de  véritables
-monstruosités, plus grandes encore que les éléphants.
-Ces animaux n’ont pas beaucoup d’ennemis au sein du
-monde naturel : même les dinosaures et les crocodiles
-sanguinaires  les  évitent.  De  plus,  leurs  pratiques
-alimentaires  les  classent  dans  la  catégorie  des
-carnivores, ce qui les rend encore plus dangereux.
-Ils mangent parfois des végétaux mais dévorent
-également des charognes ainsi que les créatures
+Les  hippopotames  béhémoths  sont  de  véritables 
+monstruosités, plus grandes encore que les éléphants. 
+Ces animaux n’ont pas beaucoup d’ennemis au sein du 
+monde naturel : même les dinosaures et les crocodiles 
+sanguinaires  les  évitent.  De  plus,  leurs  pratiques 
+alimentaires  les  classent  dans  la  catégorie  des 
+carnivores, ce qui les rend encore plus dangereux. 
+Ils mangent parfois des végétaux mais dévorent 
+également des charognes ainsi que les créatures 
 imprudentes qui les approchent de trop près.
 </div></td></tr></table>

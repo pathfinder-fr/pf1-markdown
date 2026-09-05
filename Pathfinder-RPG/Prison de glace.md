@@ -9,27 +9,27 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature
-**Durée** 1 minute/[[niveau]], voir texte
+{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature  
+**Durée** 1 minute/[[niveau]], voir texte  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Le personnage piège la cible dans une carapace de glace de 2,5 centimètres d’épaisseur par [[NLS|niveau de lanceur de sorts]]. Si la créature rate son [[jet de sauvegarde]], elle est [[sans défense]] mais peut toujours respirer (la glace bloque les lignes d’effet en direction de la cible). Si la cible réussit son [[jet de sauvegarde]], elle est [[enchevêtré|enchevêtrée]] mais sinon, elle peut agir normalement. Elle reçoit 1 point de dégâts de froid par [[NLS|niveau de lanceur de sorts]], qu’elle ait réussi son [[jet de sauvegarde]] ou non, à chaque [[round]] où elle se retrouve [[sans défense]] ou [[enchevêtré|enchevêtrée]]. La glace a une [[solidité]] de 0 et 3 points de vie par tranche de 2,5 centimètres d’épaisseur. Si elle se brise, la créature est libre. Une créature peut briser son carcan de glace en une [[action complexe]] à l’aide d’un [[test]] de [[Force]] ([[DD]] 15 + [[NLS|niveau du lanceur de sorts]]).
 
 
 
 ((({s:sortssimilaires|prison de glace}
 ## [[Prison de glace de groupe]]
-{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature/[[niveau]] qui doivent être distantes de moins de 9m (2 {s:c}) les unes des autres
-**Durée** 1 minute/[[niveau]], voir texte
+{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature/[[niveau]] qui doivent être distantes de moins de 9m (2 {s:c}) les unes des autres  
+**Durée** 1 minute/[[niveau]], voir texte  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[prison de glace]]* sauf ce qui est indiqué plus haut.
 )))

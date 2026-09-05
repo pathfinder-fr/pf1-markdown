@@ -14,11 +14,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Antipaladin|Antipal]] 1, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V]]
-**Cibles** une créature
-**Durée** 1 jour/niveau (T)
+{s:cs}{s:UI}**École**  [[Abjuration]] ; **Niveau** [[Antipaladin|Antipal]] 1, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V]]  
+**Cibles** une créature  
+**Durée** 1 jour/niveau (T)  
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui
 
 Le personnage doit lancer ce sort immédiatement après avoir lancé un autre sort sur la même créature, prononçant une promesse ou une interdiction à propos d'un comportement spécifique et liant la cible au sort jumelé. Si le personnage ne lance pas de sort jumelé, *faveur conditionnelle* n'a aucun effet. Le sort jumelé doit être de l'école de l'[[abjuration]], de l'[[enchantement]], de l'[[branche guérison|invocation (guérison)]] ou de la [[transmutation]], et doit être lancé sur une créature consentante. Si le bénéficiaire enfreint la promesse ou ignore l'interdiction alors que *faveur conditionnelle* est actif, le sort jumelé est supprimé comme s'il n'avait jamais été lancé. Si le sort était un sort de guérison, les points de dégâts ou les états soignés reviennent immédiatement, même si la cible a pu profiter d'un repos suffisant ou d'autres soins. Les [[poisons]], les [[maladies]], les [[malédiction|malédictions]], les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] et les [[niveau négatif|niveaux négatifs]] éliminés par le sort jumelé reviennent également.

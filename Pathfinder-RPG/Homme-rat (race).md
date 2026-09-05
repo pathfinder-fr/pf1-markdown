@@ -24,7 +24,7 @@ Lorsqu’un terrier particulier d’hommes-rats devient trop peuplé et que l’
 
 **Aventuriers.** Les hommes-rats sont souvent marqués par leur désir de trouver de nouvelles opportunités d’échanges, tant pour eux-mêmes que pour leur terrier. Il arrive que les aventuriers hommes-rats cherchent des marchés potentiels pour leur clan, restent à l’affût des sources de nouvelles marchandises ou flânent dans l’espoir de dénicher suffisamment de trésors pour financer des entreprises commerciales moins dangereuses. Ce sont souvent des pièges astucieux, les embuscades ou le sabotage des positions ennemies qui décident de l’issue des batailles des hommes-rats, et c’est ainsi que les jeunes héros prennent souvent des classes d’alchimiste, de pistolier et de roublard.
 
-**Noms masculins.** Agiz, Brihz, Djir, Ninnec, Rerdahl, Rikkan, Skivven, Tamoq.
+**Noms masculins.** Agiz, Brihz, Djir, Ninnec, Rerdahl, Rikkan, Skivven, Tamoq.  
 **Noms féminins.** Bessel, Fhar, Jix, Kitch, Kubi, Nehm, Rissi, Thikka.
 
 {s:Reference|TRAITSSTANDARDS}

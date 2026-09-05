@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Égède est un port du [[Mendev]] situé sur les rives du [[lac des Brumes et des Voiles]]. Il s'agit de la seconde ville du pays par le nombre d'habitants.
+Égède est un port du [[Mendev]] situé sur les rives du [[lac des Brumes et des Voiles]]. Il s'agit de la seconde ville du pays par le nombre d'habitants. 
 
 C'est par ce port que la très grande majorité des pèlerins et des croisés pénètrent au [[Mendev]].

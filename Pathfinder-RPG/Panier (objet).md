@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 4 pa ; **Poids** 0,5 kg
+{s:AE}**Prix** 4 pa ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce grand panier est doté d'un couvercle et a une contenance d'environ 60 litres.

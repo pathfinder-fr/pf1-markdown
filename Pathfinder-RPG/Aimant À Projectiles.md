@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Aimant à projectiles|{s:AE}}
-**Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 600 po ; **Poids** —
+**Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 600 po ; **Poids** — 
 (((Description)))
-Ce minuscule cube en argent s’active lorsqu’il est lancé à 15 mètres ou moins sur une intersection de cases. Le cube lévite alors à 1,50 mètre au-dessus du sol pendant 5 [[round|rounds]]. Tout projectile ou arme de jet de petite taille (tels que des flèches, des shurikens, des flasques et des balles) qui traverse les cases adjacentes à l’aimant le touche automatiquement (aucun jet n’attaque n’est nécessaire) au lieu de frapper la cible prévue. L’aimant possède 5 points de résistance et une solidité de 8. S’il est touché par une créature ou si ses points de vie sont réduits à 0 ou moins, il tombe à terre et il est détruit.
+Ce minuscule cube en argent s’active lorsqu’il est lancé à 15 mètres ou moins sur une intersection de cases. Le cube lévite alors à 1,50 mètre au-dessus du sol pendant 5 [[round|rounds]]. Tout projectile ou arme de jet de petite taille (tels que des flèches, des shurikens, des flasques et des balles) qui traverse les cases adjacentes à l’aimant le touche automatiquement (aucun jet n’attaque n’est nécessaire) au lieu de frapper la cible prévue. L’aimant possède 5 points de résistance et une solidité de 8. S’il est touché par une créature ou si ses points de vie sont réduits à 0 ou moins, il tombe à terre et il est détruit. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[protection contre les projectiles]]*  ; **Coût** 300 po
 </div>

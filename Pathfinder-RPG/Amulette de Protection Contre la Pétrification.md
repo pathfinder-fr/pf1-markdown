@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Amulette de protection contre la pétrification|{s:AE}}
 **Auras** [[Abjuration]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 8.000 po ; **Poids** —
 (((Description)))
-Le visage d’une méduse aux yeux bandés est gravé sur cette amulette en bois poli avec soins. À chaque fois que le porteur rate un jet de sauvegarde contre la *[[pétrification]]*, il est [[États préjudiciables#Chancelant|chancelant]] pendant 1d6 rounds et non [[États préjudiciables#Pétrifié|pétrifié]]. Si un sort ou un effet provoque sa *[[pétrification]]* sans autoriser de jet de sauvegarde, il n’est pas [[États préjudiciables#Pétrifié|pétrifié]] mais simplement [[États préjudiciables#Chancelant|chancelant]] pendant 1 minute. Ces pouvoirs ne fonctionnent pas lorsque le porteur est [[États préjudiciables#Chancelant|chancelant]].
+Le visage d’une méduse aux yeux bandés est gravé sur cette amulette en bois poli avec soins. À chaque fois que le porteur rate un jet de sauvegarde contre la *[[pétrification]]*, il est [[États préjudiciables#Chancelant|chancelant]] pendant 1d6 rounds et non [[États préjudiciables#Pétrifié|pétrifié]]. Si un sort ou un effet provoque sa *[[pétrification]]* sans autoriser de jet de sauvegarde, il n’est pas [[États préjudiciables#Pétrifié|pétrifié]] mais simplement [[États préjudiciables#Chancelant|chancelant]] pendant 1 minute. Ces pouvoirs ne fonctionnent pas lorsque le porteur est [[États préjudiciables#Chancelant|chancelant]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[transmutation de la pierre en chair]]*  ; **Coût** 4.000 po
 </div>

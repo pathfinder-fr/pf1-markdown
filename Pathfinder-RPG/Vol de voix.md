@@ -14,12 +14,12 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** une créature
-**Durée** [[présentation des sorts#DUREE|permanente]] (T)
+{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** une créature  
+**Durée** [[présentation des sorts#DUREE|permanente]] (T)  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La gorge de la cible se contracte et lui donne la [[Description des plaies magiques#Coassement_du_mage_1|plaie de coassement du mage]].

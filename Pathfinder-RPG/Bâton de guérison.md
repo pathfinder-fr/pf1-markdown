@@ -10,10 +10,10 @@ Categories:
 {s:BDTitre|Bâton de guérison|}
 **Aura** [[Invocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 29 600 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton de frêne blanc est orné de runes argentées. Il permet de jeter les sorts suivants :
-• *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* (2 charges)
-• *[[guérison des maladies]]* (3 charges)
-• *[[restauration partielle]]* (1 charge)
+Ce bâton de frêne blanc est orné de runes argentées. Il permet de jeter les sorts suivants :  
+• *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* (2 charges)  
+• *[[guérison des maladies]]* (3 charges)  
+• *[[restauration partielle]]* (1 charge)  
 • *[[soins importants]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*, *[[guérison des maladies]]*, *[[restauration partielle]]*, *[[soins importants]]* ; **Coût** 14 800 po

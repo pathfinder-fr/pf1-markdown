@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 1 kg
+{s:AE}**Prix** 10 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette petite trousse comprend une simple ardoise gravée d’une grille et un certain nombre de craies de couleurs différentes. Si le personnage utilise cette trousse pour dessiner une carte au cours de son voyage, il reçoit un bonus de circonstances de +2 à ses tests de [[Survie]] pour ne pas se perdre.

@@ -26,6 +26,6 @@ Les Mantes rouges ont alors déménagé vers l'île de [[Médiogalti]] située �
 
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos de la compagnie Intransigeante dans les suppléments
+Vous pourrez trouver plus d'informations à propos de la compagnie Intransigeante dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

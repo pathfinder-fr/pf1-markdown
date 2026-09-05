@@ -15,14 +15,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature vivante
-**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature vivante  
+**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Ce sort est semblable à *[[mission]]*, si ce n’est qu’il affecte un nombre de [[DV]] de la créature illimité et n’autorise aucun [[jet de sauvegarde]].
 
 Si le sujet ne peut accomplir sa *quête* pendant vingt-quatre heures, il subit un malus de -3 à chaque valeur de caractéristique. Ces malus s’accumulent chaque jour, jusqu’à un total de -12, mais les valeurs de caractéristiques ne descendent jamais en dessous de 1. Ces malus disparaissent vingt-quatre heures après que le sujet s’est réattelé à sa *quête*.
@@ -35,14 +35,14 @@ Si le sujet ne peut accomplir sa *quête* pendant vingt-quatre heures, il subit 
 
 (((
 ## Mission
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature vivante ayant 7 [[DV]] ou moins
-**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|langage, malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature vivante ayant 7 [[DV]] ou moins  
+**Durée** 1 jour/[[niveau]] ou jusqu’à accomplissement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [[DV]], doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
 
 Cette dernière ne peut que suivre les instructions reçues tant que la *mission* n’est pas accomplie, sans considération de temps.

@@ -13,14 +13,14 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (une arme de corps à corps de maître qui vaut au moins 300 po)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+{s:UC}**École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (une arme de corps à corps de maître qui vaut au moins 300 po)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui (voir texte)
----
+<hr />
 Ce sort fonctionne comme *[[symbole de mort]]* mais, quand le personnage utilise la [[composante matérielle]], il dessine le *symbole fatal* dans une case de 1,50 m de côté. Une fois le symbole déclenché, il se met à luire et demeure 10 minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à ce qu’il ait fait un nombre d’[[attaque dopportunité|attaques d’opportunité]] égal à son [[NLS|niveau]], selon ce qui se produit en premier. Une fois déclenché, le symbole menace sa case et la zone qui l’entoure comme s’il était une créature M qui manie une version magique de l’arme qui a servi de focalisateur. Le symbole utilise le niveau du personnage + 1 + modificateur d’[[Intelligence]] ([[magicien]], [[magus]] ou [[sorcière]]) ou de [[Sagesse]] ([[prêtre]]) ou de [[Charisme]] ([[ensorceleur]], [[oracle]]) comme [[BBA]]. Il a droit à plusieurs [[attaque dopportunité|attaques d’opportunité]] par [[round]] (1 + modificateur de la valeur de caractéristique utilisée pour déterminer le [[BBA]]). Il gagne un bonus aux dégâts égal au modificateur de la valeur de caractéristique utilisée pour déterminer le [[BBA]]. Une version d’[[ombre]] du personnage apparaît pour tenir l’arme et attaquer.
 
 Le symbole attaque les créatures qui ne sont pas harmonisées avec lui et qui provoquent une [[attaque dopportunité|attaque d’opportunité]] de sa part. En revanche, quand il attaque une créature pour la première fois, il doit vaincre sa [[résistance à la magie]], sinon, il ne peut pas la blesser et n’essaye plus jamais de l’attaquer. De plus, quand il attaque une créature pour la première fois, la victime a droit à un jet de [[Volonté]] pour remarquer qu’il s’agit d’une attaque d’ombre et subir seulement la moitié des dégâts.
@@ -31,14 +31,14 @@ Un *symbole fatal* peut être rendu permanent avec un sort de *[[permanence]]* p
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

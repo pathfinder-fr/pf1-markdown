@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:38
 {s:BDTitre|Cape de marcheur du crépuscule|{s:AE}}
 **Aura** [[Illusion]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 10.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape de velours noir se gonfle de façon théâtrale lorsque son porteur se déplace et lui offre la [[vision nocturne (capacité)|vision nocturne]]. Une fois par jour et sur commande, le porteur peut s’entourer de ténèbres de la même nature que celles produites par le sort de *[[ténèbres]]*. Lorsque cette obscurité est présente, la cape confère également à son porteur la [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] à 18 mètres, en plus de la [[vision nocturne (capacité)|vision nocturne]].
+Cette cape de velours noir se gonfle de façon théâtrale lorsque son porteur se déplace et lui offre la [[vision nocturne (capacité)|vision nocturne]]. Une fois par jour et sur commande, le porteur peut s’entourer de ténèbres de la même nature que celles produites par le sort de *[[ténèbres]]*. Lorsque cette obscurité est présente, la cape confère également à son porteur la [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] à 18 mètres, en plus de la [[vision nocturne (capacité)|vision nocturne]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[ténèbres]]*, *[[vision dans le noir]]*  ; **Coût** 5.000 po
 </div>

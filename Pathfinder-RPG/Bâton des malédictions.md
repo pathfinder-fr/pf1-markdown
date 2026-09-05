@@ -8,10 +8,10 @@ LastModified: 2024-05-27 16:26
 {s:AE}{s:BDTitre|Bâton des malédictions|}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 43 500 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en bois noueux est orné d’amulettes brisées et de fétiches brûlés qui servaient autrefois à protéger contre la mauvaise fortune mais qui sont désormais en triste état. Il permet d’utiliser les sorts suivants.
-• *[[cécitésurdité|cécité/surdité]]* (1 charge)
-• *[[mauvais présage]]* (1 charge)
-• *[[métamorphose funeste]]* (2 charges)
+Ce bâton en bois noueux est orné d’amulettes brisées et de fétiches brûlés qui servaient autrefois à protéger contre la mauvaise fortune mais qui sont désormais en triste état. Il permet d’utiliser les sorts suivants.  
+• *[[cécitésurdité|cécité/surdité]]* (1 charge)  
+• *[[mauvais présage]]* (1 charge)  
+• *[[métamorphose funeste]]* (2 charges)  
 • *[[sort malédiction|malédiction]]* (2 charges)
 
 En outre, le bâton des malédictions fonctionne comme un *bâton +1/+1* et, quand le porteur frappe une créature avec, il peut dépenser une charge pour maudire la créature un nombre de [[round|rounds]] égal au nombre de charges restantes du bâton. Tant que la malédiction persiste, la créature reçoit un malus de -2 à ses [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les sorts lancés avec le bâton et un malus de -2 à la [[CA]] contre toutes les attaques portées avec le bâton.

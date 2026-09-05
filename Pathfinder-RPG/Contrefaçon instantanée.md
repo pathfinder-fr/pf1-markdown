@@ -13,12 +13,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Magus]] 4, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un bijou tape-à-l'œil)
-**Portée** 1 objet touché
-**Cibles** une objet ne pesant pas plus de 0.5 kg/niveau
-**Durée** 1 minute/niveau
+{s:cs}{s:UI}**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Magus]] 4, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un bijou tape-à-l'œil)  
+**Portée** 1 objet touché  
+**Cibles** une objet ne pesant pas plus de 0.5 kg/niveau  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** Volonté, dévoile (à l'inspection) ; **Résistance à la magie** non
 
 Le personnage crée un double illusoire de l'objet ciblé. S'il [[Présentation des sorts#DUREE|retient la charge]] de ce sort, il peut le délivrer en touchant un objet volé grâce à la compétence [[Escamotage]] ou la manœuvre offensive de [[subtilisation]] ; dans ce cas, l'illusion apparaît au moment exact où il récupère l'objet, ce qui lui permet de remplacer instantanément un objet protégé ou gardé sans changer son apparence, son poids ou toute autre de ses caractéristiques.

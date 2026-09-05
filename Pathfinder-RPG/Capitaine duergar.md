@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Compétences** [[Dressage]] +3, [[Équitation]] +8, [[Escalade]] +6, [[Perception]] +2, [[Survie]] +8}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
 {s:BDTexte|**Particularités** [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 2, [[Duergar|lentement mais sûrement]], [[Duergar|stabilité]]}
-{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins importants]]* (2), [[pierre tonnerre (objet)|pierres-tonnerres]] (3) ; **Équipement divers** *[[harnois (armure)|harnois +1]]*, *[[Hache darmes naine (arme)|hache d’armes de nain +2]]*, [[arbalète lourde (arme)|arbalète lourde de maître]] avec [[Carreaux darbalète (arme)|10 carreaux]],
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins importants]]* (2), [[pierre tonnerre (objet)|pierres-tonnerres]] (3) ; **Équipement divers** *[[harnois (armure)|harnois +1]]*, *[[Hache darmes naine (arme)|hache d’armes de nain +2]]*, [[arbalète lourde (arme)|arbalète lourde de maître]] avec [[Carreaux darbalète (arme)|10 carreaux]], 
 *[[amulette darmure naturelle|amulette d’armure naturelle +1]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 129 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">

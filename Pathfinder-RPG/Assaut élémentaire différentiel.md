@@ -12,6 +12,6 @@ Categories:
 
 **Conditions requises.** [[Suli (race)|Suli]]
 
-**Avantage.** Le suli utilise sa capacité d’[[Suli (race)|assaut élémentaire]] par segments de 1 [[round]], jusqu’à un nombre de [[round|rounds]] par jour maximum égal à son [[niveau]]. Ces [[round|rounds]] ne doivent pas nécessairement être consécutifs. L’activation de cette capacité demande une [[action rapide]] ; sa désactivation est une [[action libre]].
+**Avantage.** Le suli utilise sa capacité d’[[Suli (race)|assaut élémentaire]] par segments de 1 [[round]], jusqu’à un nombre de [[round|rounds]] par jour maximum égal à son [[niveau]]. Ces [[round|rounds]] ne doivent pas nécessairement être consécutifs. L’activation de cette capacité demande une [[action rapide]] ; sa désactivation est une [[action libre]]. 
 
 **Normal.** Le suli peut prendre son [[Suli (race)|assaut élémentaire]] une fois par jour. Il dure un nombre de [[round|rounds]] égal à son [[niveau]] de classe.

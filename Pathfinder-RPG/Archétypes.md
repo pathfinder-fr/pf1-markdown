@@ -16,7 +16,7 @@ Categories:
 
 ### Archétypes simples
 Les archétypes simples peuvent être appliqués à la volée au cours de la partie et sans grands efforts. Il est facile de gérer les créatures célestes ou fiélons invoquées au combat grâce à un sort d’invocation de monstres.  
-Les archétypes qui suivent comportent deux groupes de modifications.
+Les archétypes qui suivent comportent deux groupes de modifications. 
 - Les « règles rapides » présentent une méthode rapide pour modifier les jets de dés effectués au cours de la partie afin de simuler les effets de l’archétype sans avoir à reconstruire intégralement le profil de la créature. Cette méthode convient particulièrement bien aux créatures invoquées.
 - Les « règles de reconstruction », quant à elles, indiquent les modifications précises à apporter au profil de la créature si vous avez le temps de la reconstruire intégralement. Cette méthode convient mieux lors de la préparation des parties, quand vous avez le loisir de fabriquer des profils du début à la fin. Les deux méthodes donnent des créatures qui possèdent des capacités similaires voire identiques.
 
@@ -69,7 +69,7 @@ et à l’électricité</td><td>RD</td></tr>
 </div></div>
 Les créatures ayant l’archétype créature de l’ombre vivent sur le plan de l’Ombre et s’aventurent rarement sur les plans plus lumineux. Elles peuvent être convoquées par des [[héraut des ombres (conjurateur)|hérauts des ombres]]. Le FP de la créature de l’ombre augmente de +1. Les règles rapides de reconstruction de la créature de l’ombre sont les mêmes. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
 
-**Règles de reconstruction. Sens** ajouter [[vision dans le noir]] 18 m (12 {s:c}) et [[vision nocturne]] ; **Capacités défensives** ajouter la résistance élémentaire et la [[RD|Réduction de Dégâts]] comme indiqué sur le tableau  ; **RM** ajouter une [[RM]] égale au nouveau [[FP]] +6 ; **Capacités spéciales** Fusion avec les ombres (Sur). Dans les conditions lumineuses autres que la pleine lumière, la créature de l’ombre fusionne avec les ombres, qui lui accordent un [[abri]] (20 % de chances de rater). La créature de l’ombre peut interrompre ou reprendre cette capacité par une [[action libre]].
+**Règles de reconstruction. Sens** ajouter [[vision dans le noir]] 18 m (12 {s:c}) et [[vision nocturne]] ; **Capacités défensives** ajouter la résistance élémentaire et la [[RD|Réduction de Dégâts]] comme indiqué sur le tableau  ; **RM** ajouter une [[RM]] égale au nouveau [[FP]] +6 ; **Capacités spéciales** Fusion avec les ombres (Sur). Dans les conditions lumineuses autres que la pleine lumière, la créature de l’ombre fusionne avec les ombres, qui lui accordent un [[abri]] (20 % de chances de rater). La créature de l’ombre peut interrompre ou reprendre cette capacité par une [[action libre]]. 
 
 {s:Reference|CREATUREENTROPIQUE}
 #### Créature entropique (FP +0 ou +1) *B2*

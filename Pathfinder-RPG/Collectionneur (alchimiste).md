@@ -8,7 +8,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypealchimiste}{s:um}''Certains alchimistes collectionnent et conservent les créatures exotiques, jusqu’à en faire une véritable obsession. Ces collectionneurs utilisent les animaux ou les monstres en bouteille comme outils d’enseignement, mais quelques-uns apprennent à les réanimer pour de courtes périodes afin qu’ils se battent pour eux.
+{s:Menuarchétypealchimiste}{s:um}''Certains alchimistes collectionnent et conservent les créatures exotiques, jusqu’à en faire une véritable obsession. Ces collectionneurs utilisent les animaux ou les monstres en bouteille comme outils d’enseignement, mais quelques-uns apprennent à les réanimer pour de courtes périodes afin qu’ils se battent pour eux. 
 ''
 
 Voici les aptitudes de classe du collectionneur.

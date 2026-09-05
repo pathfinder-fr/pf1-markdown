@@ -8,9 +8,9 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [[Jugements]].***
-***Voir aussi les [[Domaines]] et les [[Inquisitions]].***
-***Voir aussi la [[liste des sorts dinquisiteur|liste des sorts d'inquisiteur]].***
+<div class="fright">***Voir aussi les [[Jugements]].***  
+***Voir aussi les [[Domaines]] et les [[Inquisitions]].***  
+***Voir aussi la [[liste des sorts dinquisiteur|liste des sorts d'inquisiteur]].***  
 {s:PM0|inquisiteur}**Voir les archétypes de l'inquisiteur**&emsp;
 <li ID="inquisiteur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeinquisiteur}</li>
 </div>{s:APG}*Sombre et déterminé, l'inquisiteur débusque les ennemis de la foi et use de tromperie et de ruse quand la vertu et la pureté ne suffisent pas. Même si les inquisiteurs sont dévoués à une divinité, ils sont au-dessus des règles et des conventions de leur église. Ils répondent de leurs actes devant leur dieu et leur propre sens de la justice seulement, et ils sont prêts à appliquer des mesures extrêmes pour atteindre leurs objectifs.*
@@ -457,7 +457,7 @@ Par une action simple, l'inquisiteur peut choisir un nouveau don de travail en �
 #### Tueur (Sur)
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#28|→]] Inquisiteur, Tueur : La capacité tueur de l'inquisiteur (page 40) affecte-t-elle les deux extrémités d'une arme double ?***
 
-Non. En règle générale, le jeu considère les [[Caractéristiques des armes#DOUBLE|armes doubles]] comme s'il s'agissait de deux armes différentes, et une capacité, un sort ou un effet qui modifie ou améliore « une arme » ne s'applique qu'à une extrémité d'une arme double.
+Non. En règle générale, le jeu considère les [[Caractéristiques des armes#DOUBLE|armes doubles]] comme s'il s'agissait de deux armes différentes, et une capacité, un sort ou un effet qui modifie ou améliore « une arme » ne s'applique qu'à une extrémité d'une arme double.  
 Parfois les règles sont redondantes et précisent explicitement qu'une capacité qui affecte « une arme » (comme le [[Paladin#PACTEDIVIN|pacte divin]] du paladin) n'affecte qu'une seule extrémité d'une arme double. D'autres fois les règles ne sont pas redondantes (comme le sort *[[arme magique]]* ou la capacité <u>[[Inquisiteur#TUEUR|tueur]]</u> de l'inquisiteur), mais la règle générale s'applique toujours : l'arme double est traitée comme deux armes séparées.}Au niveau 5, l'inquisiteur peut appliquer la propriété *[[tueuse (propriété)|tueuse]]* à son arme par une [[action rapide]]. Il choisit le [[Types de créatures|type de créature]] visé quand il utilise le pouvoir (et le [[Sous-types de créatures|sous-type]] si le type est humanoïde ou extérieur). Une fois le type choisi, il peut en changer par une [[action rapide]]. Ce pouvoir fonctionne tant que l'inquisiteur tient son arme. S'il la lâche ou se la fait prendre, elle ne reprend cette propriété qu'une fois de retour dans les mains de l'inquisiteur, si sa durée n'a pas expirée. Chaque jour, ce pouvoir dure un nombre de rounds égal au niveau de l'inquisiteur. Ces rounds ne sont pas forcément consécutifs.
 
 {s:Reference|DETECTIONDESMENSONGES}

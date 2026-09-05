@@ -16,10 +16,10 @@ LastModified: 2021-07-15 17:38
 | [[Korada]] | 26 |
 | [[Vildéïs]] | 28 |
 
-</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs empyréens (capacité)|traits des seigneurs empyréens]].***
-***Voir la description des [[Agathion|agathions]].***
-***Voir la description des [[Ange|anges]].***
-***Voir la description des [[Archon|archons]].***
+</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs empyréens (capacité)|traits des seigneurs empyréens]].***  
+***Voir la description des [[Agathion|agathions]].***  
+***Voir la description des [[Ange|anges]].***  
+***Voir la description des [[Archon|archons]].***  
 ***Voir la description des [[Azata|azatas]].***</div><div class="description">**Source :** Bestiaire 4.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]]/[[sous-type ange|ange]]/[[sous-type archon|archon]]/[[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*
 
@@ -29,7 +29,7 @@ Contrairement à beaucoup d’autres êtres ayant la puissance de demi-dieux, le
 
 Certains seigneurs empyréens sont presque aussi vieux que la création, étant issus des rangs des premiers célestes. D’autres ont reçu la grâce divine en devenant les champions d’une divinité, en héritant des pouvoirs d’un dieu assassiné ou en puisant dans les remarquables pouvoirs qui se concentrent dans les coins les plus reculés des plans. Certains se sont hissés à leur position éminente en accomplissant des quêtes impossibles, en s’attirant les faveurs du destin ou en s’harmonisant parfaitement avec un plan extérieur Bon.
 
-Représentant les deux pôles de la bonté et le pivot sur lequel ils s’équilibrent, les seigneurs empyréens ne sont pas toujours d’accord entre eux mais, en général, n’interfèrent pas avec les décisions des uns et des autres. La plupart voient leurs querelles philosophiques comme insignifiantes quand ils affrontent un ennemi commun et jamais leurs luttes internes n’ont menacé les fondations de leurs liens. Ainsi, même si leur vision des choses peut varier grandement sur les questions de liberté, d’individualité et de loyauté, les seigneurs empyréens n’autorisent pas leurs différences à entraver leur lutte contre le mal. Ce sont avant tout des célestes qui se dressent contre le mal.
+Représentant les deux pôles de la bonté et le pivot sur lequel ils s’équilibrent, les seigneurs empyréens ne sont pas toujours d’accord entre eux mais, en général, n’interfèrent pas avec les décisions des uns et des autres. La plupart voient leurs querelles philosophiques comme insignifiantes quand ils affrontent un ennemi commun et jamais leurs luttes internes n’ont menacé les fondations de leurs liens. Ainsi, même si leur vision des choses peut varier grandement sur les questions de liberté, d’individualité et de loyauté, les seigneurs empyréens n’autorisent pas leurs différences à entraver leur lutte contre le mal. Ce sont avant tout des célestes qui se dressent contre le mal. 
 
 Malgré leur puissance, les seigneurs empyréens évitent généralement de s’impliquer directement dans les affaires des mortels et même de la plupart des célestes. Ils sont persuadés que ce sont les orchestrations diplomatiques et stratégiques subtiles de grande ampleur qui, en fin de compte, serviront les grands desseins du Bien. Même si leurs pouvoirs ne sont pas toujours à l’oeuvre de manière évidente, les seigneurs empyréens courtisent les adorateurs mortels qui partagent leurs vues et leurs idéaux et qu’on appelle souvent des fanatiques des mystères. Davantage que des objectifs généraux comme le bien ou l’ordre, les fanatiques des mystères concentrent leur attention sur les idéaux, les activités et les créatures que leurs protecteurs louent le plus ardemment ou chérissent ouvertement.
 
@@ -58,7 +58,7 @@ Lors de leur ascension, ces seigneurs empyréens se voient accorder un titre hon
 **Ylimancha**, Havred’aile (agathion)
 
 ### Les Royaumes Empyréens
-Le royaume planaire d’un seigneur empyréen peut être aussi petit qu’une métropole comme il peut être aussi grand qu’un continent.
+Le royaume planaire d’un seigneur empyréen peut être aussi petit qu’une métropole comme il peut être aussi grand qu’un continent. 
 
 Les environnements, les thèmes et les traits de ces royaumes sont aussi surprenants que les seigneurs empyréens eux-mêmes, présentant des défis et des dangers surréalistes pour les créatures qui chercheraient à les envahir.
 

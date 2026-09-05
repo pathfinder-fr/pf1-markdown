@@ -63,7 +63,7 @@ consommer des os, des armures et même des objets magiques.
 objets inanimés. Cependant, pour une raison inconnue, les bulettes
 refusent de consommer de la viande d’elfe. Certains considèrent
 cette particularité comme une preuve que l’origine des bulettes
-serait liée à la magie elfique.
+serait liée à la magie elfique. 
 
 Les bulettes ne dévorent généralement
 pas de nains non plus, mais cela ne les empêche pas d’attaquer à vue

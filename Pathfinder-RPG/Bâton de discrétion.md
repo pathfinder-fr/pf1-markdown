@@ -12,10 +12,10 @@ Categories:
 {s:APG}{s:BDTitre|Bâton de discrétion|}
 **Aura** [[Illusion]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 39 300 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton tordu gris sombre permet de lancer les sorts suivants :
-•  *[[antidétection]]* (1 charge)
-•  *[[sort déguisement|déguisement]]* (1 charge)
-•  *[[invisibilité]]* (1 charge)
+Ce bâton tordu gris sombre permet de lancer les sorts suivants :  
+•  *[[antidétection]]* (1 charge)  
+•  *[[sort déguisement|déguisement]]* (1 charge)  
+•  *[[invisibilité]]* (1 charge)  
 •  *[[invisibilité suprême]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]],  *[[antidétection]]*, *[[sort Déguisement|déguisement]]*, *[[invisibilité]]*, *[[invisibilité suprême]]* ; **Coût** 20 900 po

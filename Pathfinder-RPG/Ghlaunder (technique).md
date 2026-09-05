@@ -17,10 +17,10 @@ Le Roi de Gaze|%2fPCUP%2fReligion-PNG%2fGhlaunder.png|[[Divinités#AUTRES|Autres
 |—}{s:cs}L'origine de Ghlaunder est inconnue. Certains pensent qu'il s'agit de l'engeance corrompue d'une divinité maléfique, et d'autres qu'il est quelque chose qui s'est développé sur le cadavre d'un dieu assassiné. [[Desna (technique)|Desna]] a découvert son cocon sur le plan Éthéré. éthéré. Curieuse d'en connaître le contenu, elle a ouvert la masse de fibres. Le demi-dieu l'a immédiatement attaquée, mais il fut choqué par la férocité avec laquelle elle se défendit et réussit à s'enfuir avant qu'elle ne puisse le détruire ou le ré-emprisonner. Aujourd'hui encore, Desna chasse Ghlaunder dans l'espoir d'utiliser son pouvoir à des fins moins destructrices. En réponse, il envoie ses sbires infecter et tourmenter les mortels, en particulier les disciples de Desna.
 
 ### Règles uniques aux suivants
-**Capacités de classe**
+**Capacités de classe**  
 • Lorsque les [[Druide|druides]], les [[Prêtre|prêtres]] et les [[Rôdeur|rôdeurs]] de Ghlaunder obtiennent la capacité à lancer des sorts divins, ils peuvent décider d'affecter la [[type Vermine|vermine]] plutôt que les [[type Animal|animaux]] avec leurs sorts centrés sur la faune (comme *[[détection de la faune ou de la flore]]*, *[[invisibilité pour les animaux]]* et *[[métamorphose animale]]*). Dans ce cas, ces sorts n'affectent plus les créatures animales.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]/[[rôdeur]]).**
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]/[[rôdeur]]).**  
 • *[[Nuée grouillante]]* peut être préparé comme un sort de 2e niveau.
 
 ### Options de personnage thématiques

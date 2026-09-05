@@ -16,15 +16,15 @@ Le Sombre Faucheur|%2fPCUP%2fReligion-PNG%2fZyphus.png|[[Divinités#AUTRES|Autre
 |—}{s:cs}{s:ISG}Zyphus est le dieu malin de la mort accidentelle. Ennemi acharné de la déesse [[Pharasma (technique)|Pharasma]], il est vénéré par de petits cultes dans tout Golarion. Ces groupes fomentent des tragédies et provoquent des accidents dans l'espoir de renforcer le pouvoir de leur dieu. Son symbole impie est un pic de guerre fabriqué à partir d'un crâne, d'une côte et d'un fémur humains.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Boulette]]* peut être préparé comme un sort de 1er niveau.
-• *[[Hébétement]]* peut être préparé comme une oraison.
-• *[[Main spectrale]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Boulette]]* peut être préparé comme un sort de 1er niveau.  
+• *[[Hébétement]]* peut être préparé comme une oraison.  
+• *[[Main spectrale]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Manipulation à distance]]* peut être préparé comme une oraison.
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Cacodaémon]]
-• *[[Convocation de monstres IV]].* [[Lacridaémon]]
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Cacodaémon]]  
+• *[[Convocation de monstres IV]].* [[Lacridaémon]]  
 • *[[Convocation de monstres V]].* [[Ceustodaémon]]
 
 ### Options de personnage thématiques

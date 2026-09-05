@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [[Lignages (sanguin)|lignages de sanguin]].***
-***Voir aussi la [[Liste des sorts de sanguin]].***
+<div class="fright">***Voir aussi les [[Lignages (sanguin)|lignages de sanguin]].***  
+***Voir aussi la [[Liste des sorts de sanguin]].***  
 {s:PM0|sanguin}**Voir les archétypes du sanguin**&emsp;
 <li ID="sanguin" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypesanguin}</li>
 </div>{s:mca}*Nombre de féroces combattants puisent dans des réserves de rage enfouies en eux mais un pouvoir inné bouillonne au coeur des sanguins. Une puissance occulte similaire à celle des ensorceleurs coule dans leurs veines. Les ensorceleurs utilisent ce pouvoir pour lancer leurs sorts tandis que les sanguins en profitent pour entrer dans un état second où leur lignage se révèle, où les échos de leurs ancêtres déploient un pouvoir dévastateur. Les sanguins parviennent alors à lancer certains sorts profanes de manière instinctive. La magie des sanguins est aussi rapide, violente et irrésistible que leurs prouesses physiques.*
@@ -317,7 +317,7 @@ Le sanguin gagne des pouvoirs de lignage aux niveaux 1 et 4 puis tous les quatre
 
 Au niveau 6 puis tous les 3 niveaux, le sanguin reçoit un [[Dons|don]] supplémentaire issu d’une liste spécifique à chaque lignage. Pour choisir un don, le sanguin doit remplir les conditions requises.
 
-Aux niveaux 7, 10, 13 et 16, le sanguin apprend un nouveau sort dépendant de son lignage. Il s’ajoute au nombre de sorts indiqués dans la table des sorts connus du Sanguin (voir tableau ci-dessous). Il ne peut pas échanger ces sorts contre
+Aux niveaux 7, 10, 13 et 16, le sanguin apprend un nouveau sort dépendant de son lignage. Il s’ajoute au nombre de sorts indiqués dans la table des sorts connus du Sanguin (voir tableau ci-dessous). Il ne peut pas échanger ces sorts contre 
 d’autres quand il gagne des niveaux.
 
 Si le sanguin prend des niveaux dans une autre classe donnant accès à un lignage, ce dernier doit être le même que celui du sanguin, même si cela oblige à changer un lignage. Si le MJ accepte, le sanguin peut changer son ancien lignage pour le rendre conforme au nouveau.
@@ -330,13 +330,13 @@ Si le sanguin prend des niveaux dans une autre classe donnant accès à un ligna
 
 Non. Lorsqu'un personnage active ou est affecté par une nouvelle forme de rage (comme la <u>[[Barbare#RAGE|rage]]</u> du barbare, le <u>[[Scalde#CHANTDERAGE|chant de rage]]</u> du scalde, la <u>[[Sanguin#RAGESANGUINE|rage sanguine]]</u> du sanguin, et le sort <u>*[[rage]]*</u>), il peut choisir entre conserver sa rage actuelle ou accepter la nouvelle rage à la place, de la même façon qu'une créature affectée par plusieurs effets de [[branche métamorphose|métamorphose]]. Si le personnage est soumis aux pulsions d'une rage qu'il est incapable d'arrêter automatiquement par lui-même, comme la rage incontrôlée d'un [[Sauvage enragé (barbare)|sauvage enragé]], il ne peut pas choisir d'y mettre fin pour la remplacer par le nouvel effet de rage. La seule exception à cette règle est la capacité [[Scalde#MAITRESCALDE|maître scalde]] du scalde, qui permet explicitement au chant de rage du scalde de se cumuler à d'autres effets de rage.}Le pouvoir inné du sanguin lui permet d’entrer dans une rage sanguine. Au niveau 1, il peut, chaque jour, déchaîner cette rage sanguine pendant un nombre de rounds égal à 4 + son modificateur de [[Constitution]]. Ensuite, à chaque niveau, il a droit à 2 rounds de rage de plus par jour. Les augmentations de Constitution temporaires (issues, par exemple, d’une rage sanguine ou d’un sort comme *[[endurance de lours|endurance de l’ours]]*) n’augmentent pas le nombre quotidien de [[round|rounds]] de rage sanguine. Le nombre de rounds de rage quotidien se réinitialise après une période de 8 heures de repos, même si cette durée est fragmentée.
 
-Le sanguin peut déchaîner sa rage sanguine par une [[action libre]]. Tant qu’il se trouve sous l’effet de la rage, il gagne un bonus de moral de +4 à la [[Force]] et la [[Constitution]], ainsi qu’un bonus de moral de +2 aux jets de [[Volonté]]. En revanche, il subit un malus de –2 à la [[CA]]. L’augmentation de Constitution donne 2 points de vie supplémentaires au sanguin par dé de vie qu’il possède mais ces points disparaissent dès que la rage s’éteint et, contrairement aux points de vie temporaires, il ne les perd pas en premier. Tant que le sanguin est sous l’effet de la rage, il ne peut pas utiliser de compétence basée sur le [[Charisme]], la [[Dextérité]] ou l’[[Intelligence]] (sauf [[Acrobaties]], [[Équitation]], [[Intimidation]] et [[Vol]]). Il est également incapable d’utiliser une capacité requérant de la patience ou de la concentration.
+Le sanguin peut déchaîner sa rage sanguine par une [[action libre]]. Tant qu’il se trouve sous l’effet de la rage, il gagne un bonus de moral de +4 à la [[Force]] et la [[Constitution]], ainsi qu’un bonus de moral de +2 aux jets de [[Volonté]]. En revanche, il subit un malus de –2 à la [[CA]]. L’augmentation de Constitution donne 2 points de vie supplémentaires au sanguin par dé de vie qu’il possède mais ces points disparaissent dès que la rage s’éteint et, contrairement aux points de vie temporaires, il ne les perd pas en premier. Tant que le sanguin est sous l’effet de la rage, il ne peut pas utiliser de compétence basée sur le [[Charisme]], la [[Dextérité]] ou l’[[Intelligence]] (sauf [[Acrobaties]], [[Équitation]], [[Intimidation]] et [[Vol]]). Il est également incapable d’utiliser une capacité requérant de la patience ou de la concentration. 
 
 Le sanguin peut mettre fin à sa rage par une [[action libre]].
 
-Dès que la rage sanguine se termine, il est [[fatigué]] pendant un nombre de [[round|rounds]] égal au double du nombre de rounds pendant lequel il est resté enragé. Le sanguin ne peut pas entrer dans un nouvel accès de rage sanguine tant qu’il est fatigué ou [[épuisé]] mais, en dehors de cela, il peut déchaîner sa rage sanguine plusieurs fois au cours du même combat ou de la même rencontre. Si un sanguin tombe [[inconscient]], sa rage se termine de suite, ce qui risque de mettre sa vie en péril.
+Dès que la rage sanguine se termine, il est [[fatigué]] pendant un nombre de [[round|rounds]] égal au double du nombre de rounds pendant lequel il est resté enragé. Le sanguin ne peut pas entrer dans un nouvel accès de rage sanguine tant qu’il est fatigué ou [[épuisé]] mais, en dehors de cela, il peut déchaîner sa rage sanguine plusieurs fois au cours du même combat ou de la même rencontre. Si un sanguin tombe [[inconscient]], sa rage se termine de suite, ce qui risque de mettre sa vie en péril. 
 
-La rage sanguine compte comme le pouvoir de classe du barbare [[Barbare#RAGE|rage de berserker]] en ce qui concerne les conditions requises pour les dons, les pouvoirs liés aux dons, les pouvoirs des objets magiques et les effets de sort.
+La rage sanguine compte comme le pouvoir de classe du barbare [[Barbare#RAGE|rage de berserker]] en ce qui concerne les conditions requises pour les dons, les pouvoirs liés aux dons, les pouvoirs des objets magiques et les effets de sort. 
 
 {s:reference|DEPLACEMENTACCELERE}
 #### Déplacement accéléré (Ext)
@@ -354,7 +354,7 @@ Au niveau 3, grâce au pouvoir de son sang, le sanguin se dresse, confiant, au b
 
 {s:reference|INCANTATIONSANGUINE}
 #### Incantation sanguine (Sur)
-Au niveau 4, le sanguin parvient à lancer des sorts même quand il déchaîne sa [[Sanguin#RAGESANGUINE|rage sanguine]].
+Au niveau 4, le sanguin parvient à lancer des sorts même quand il déchaîne sa [[Sanguin#RAGESANGUINE|rage sanguine]]. 
 
 Il peut les lancer [[incantation sur la défensive|sur la défensive]] et faire des tests de [[concentration]] malgré cette rage. Tant qu’il est sous l’effet de la rage sanguine, il peut seulement lancer et se concentrer sur des sorts de sanguin (voir plus loin), il est incapable de lancer des sorts issus d’autres classes.
 
@@ -393,7 +393,7 @@ Au niveau 4, le sanguin gagne [[Dispense de composantes matérielles]] comme don
 
 </div></div>{s:reference|SORTS}
 #### Sorts
-À partir du niveau 4, le sanguin peut lancer un petit nombre de sorts profanes issus de la [[liste des sorts de sanguin]]. Pour apprendre ou lancer un sort, le sanguin doit avoir une valeur de [[Charisme]] égale ou supérieure à 10 + niveau du sort. Il lance les sorts qu’il connaît sans préparation préalable.
+À partir du niveau 4, le sanguin peut lancer un petit nombre de sorts profanes issus de la [[liste des sorts de sanguin]]. Pour apprendre ou lancer un sort, le sanguin doit avoir une valeur de [[Charisme]] égale ou supérieure à 10 + niveau du sort. Il lance les sorts qu’il connaît sans préparation préalable. 
 
 Le [[DD]] pour résister aux sorts du sanguin est égal à 10 + niveau du sort + modificateur de [[Charisme]] du sanguin.
 
@@ -413,7 +413,7 @@ Au niveau 7, le sanguin gagne une [[RD|réduction de dégâts]]. À chaque fois 
 
 {s:reference|RAGEDEGRANDSANGUIN}
 #### Rage de grand sanguin (Sur)
-À partir du niveau 11, quand le sanguin déchaîne sa [[Sanguin#RAGESANGUINE|rage sanguine]], son bonus de moral à la [[Force]] et à la [[Constitution]] passe à +6 et son bonus de moral aux jets de [[Volonté]] passe à +3. De plus, dès qu’il entre dans une rage sanguine, il peut appliquer sur sa personne les effets d’un sort de sanguin de sa connaissance, de niveau 2 ou inférieur. Le sort doit avoir une portée au contact ou personnelle. Si le sort dure plus d’un [[round]], sa durée est modifiée et correspond à celle de la rage sanguine. Cela consomme un emplacement de sort de sanguin, comme si le personnage avait lancé le sort normalement. Pour profiter de cet effet, le personnage doit donc avoir un emplacement de sort disponible.
+À partir du niveau 11, quand le sanguin déchaîne sa [[Sanguin#RAGESANGUINE|rage sanguine]], son bonus de moral à la [[Force]] et à la [[Constitution]] passe à +6 et son bonus de moral aux jets de [[Volonté]] passe à +3. De plus, dès qu’il entre dans une rage sanguine, il peut appliquer sur sa personne les effets d’un sort de sanguin de sa connaissance, de niveau 2 ou inférieur. Le sort doit avoir une portée au contact ou personnelle. Si le sort dure plus d’un [[round]], sa durée est modifiée et correspond à celle de la rage sanguine. Cela consomme un emplacement de sort de sanguin, comme si le personnage avait lancé le sort normalement. Pour profiter de cet effet, le personnage doit donc avoir un emplacement de sort disponible. 
 
 La rage de grand sanguin compte comme le pouvoir de classe du barbare [[Barbare#RAGEDEGRANDBERSERKER|rage de grand berserker]] en ce qui concerne les conditions requises pour les dons, les pouvoirs liés aux dons, les pouvoirs des objets magiques et les effets de sort.
 

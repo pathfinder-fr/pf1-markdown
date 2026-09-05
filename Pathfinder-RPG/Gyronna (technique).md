@@ -17,7 +17,7 @@ La Guenaude Furibonde|%2fPCUP%2fReligion-PNG%2fGyronna.png|[[Divinités#AUTRES|A
 |—}{s:cs}Gyronna est la déesse des femmes bannies et indésirables de la société : épouses adultères, sorcières présumées, prostituées vieillissantes, et d'autres que la société rejette. Bien que qu'elle soit pratiquement inconnue en dehors des Royaumes Fluviaux, les gens s'approchent avec précaution de son clergé, craignant leur capacité à empoisonner les esprits avec du ressentiment et de la haine, à monter les amis les uns contre les autres et de faire de leurs alliés des ennemis.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
 • *[[Mauvais œil]]* peut être préparé comme un sort de 6e niveau.
 
 ### Options de personnage thématiques

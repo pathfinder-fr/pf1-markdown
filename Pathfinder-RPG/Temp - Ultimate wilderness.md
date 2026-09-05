@@ -6,13 +6,13 @@ LastModified: 2020-05-14 15:53
 
 Il faut commencer chaque page par l'instruction <nowiki>{s:cs}</nowiki> (code qui permet d'expliquer au lecteur que la traduction en vf n'est pas une traduction officielle fournie par BBE)
 
-Suit ensuite la source
+Suit ensuite la source  
 **Source :** Ultimate wilderness
 
 ### Classe de Métamorphe
 Shifter [[Métamorphe]] et [[Aspects]]
 
-Archétypes de Métamorphe
+Archétypes de Métamorphe 
 - Elementalist Shifter -> [[Métamorphe des éléments (métamorphe)]]
 - Feyform Shifter -> [[Métamorphe féérique (métamorphe)]]
 - Fiendflesh Shifter  -> [[Métamorphe fiélon (métamorphe)]]
@@ -36,7 +36,7 @@ Pour les termes vo déjà utilisés par le passé que ce soit pour d'autres clas
 ### Règles d'intégration
 Un snippet Menuarchetypemétamorphe a été créé. Il s'utilise sur les pages d'archétypes de la classe de métamorphe en indiquant <nowiki>{s:Menuarchetypemétamorphe}</nowiki>
 
-Un snippet UW devra être créé pour indiquer la Source et porté sur chaque nouvelle page créée. Une traduction française reprenant "Art de" devra être trouvée.
+Un snippet UW devra être créé pour indiquer la Source et porté sur chaque nouvelle page créée. Une traduction française reprenant "Art de" devra être trouvée. 
 
 ### Sorts
 - ***[[Forme de vase I]]***

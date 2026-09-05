@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,25 kg
+{s:AE}**Prix** 5 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Cette friandise noire et amère peut être consommée sous forme solide ou fondue et mélangée à une boisson comme le lait. Dans certaines régions, elle est mélangée avec du sucre ou du piment.

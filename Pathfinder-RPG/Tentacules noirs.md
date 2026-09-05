@@ -43,12 +43,12 @@ Ajoutez le [[grade]] du personnage au bonus de base à l’attaque des tentacule
 ## [[Anneau scindé]]
 {s:cm}**Cette option est plus courante chez les [[Homme-serpent|hommes-serpents]].**
 
-**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une écaille de serpent)
-**Portée** moyenne (30 m + 3 m/niveau)
-**Cible** une case de 1,5 m de côté
-**Durée** 1 [[round]]/niveau (T)
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une écaille de serpent)  
+**Portée** moyenne (30 m + 3 m/niveau)  
+**Cible** une case de 1,5 m de côté  
+**Durée** 1 [[round]]/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[tentacules noirs]]*, à la seule différence qu’il crée un serpent décapité de taille G qui surgit du sol et agrippe une créature désignée par l’homme-serpent se trouvant dans un rayon de 1,50 mètre du serpent. Par une [[action simple]], l’homme-serpent peut ordonner au serpent de libérer la cible agrippée pour lui désigner une autre créature à attaquer.

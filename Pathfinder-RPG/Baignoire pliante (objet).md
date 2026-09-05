@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 10 kg<sup>[[Équipement daventurier#1|1]]</sup>
+{s:AE}**Prix** 15 po ; **Poids** 10 kg<sup>[[Équipement daventurier#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Après 10 minutes d'assemblage, cet ensemble de lattes en bois forme un support pour une toile en tissu cylindrique étanche. Il peut accueillir suffisamment d'eau pour qu'une créature de taille M puisse s'y baigner confortablement sans les risques liés aux baignades dans les lacs, les rivières ou autres étendues d'eau.

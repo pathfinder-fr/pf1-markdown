@@ -7,9 +7,9 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright" style="max-width:300px">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux]] et [[Compagnons vermines|des compagnons vermines]].***
-***Voir aussi les [[domaines animaux et environnementaux]].***
-***Voir aussi la [[Liste des sorts de druides|liste des sorts de druide]].***
+<div class="fright" style="max-width:300px">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux]] et [[Compagnons vermines|des compagnons vermines]].***  
+***Voir aussi les [[domaines animaux et environnementaux]].***  
+***Voir aussi la [[Liste des sorts de druides|liste des sorts de druide]].***  
 {s:PM0|druide}**Voir les archétypes du druide**&emsp;
 <li ID="druide" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypedruide}</li>
 </div>*Il existe dans la pureté des éléments et dans l’organisation de la nature un pouvoir qui dépasse les merveilles de la civilisation. Cette magie brute, discrète mais indéniable, est protégée par des adeptes de la philosophie de l’équilibre, appelés druides. À la fois alliés des bêtes et maîtres de la nature, ces défenseurs des étendues sauvages souvent mal compris s’efforcent de protéger leurs terres de tous ceux qui les menacent et démontrent la puissance de la nature à ceux qui se tapissent derrière les murs des cités. De nombreux pouvoirs viennent récompenser la dévotion des druides : ils obtiennent des capacités de métamorphose inégalées, reçoivent l’aide de puissants compagnons animaux et peuvent laisser éclater la colère de la nature. Les plus puissants d’entre eux maîtrisent le pouvoir des tempêtes, des tremblements de terre et des volcans grâce à une sagesse ancestrale que la civilisation a abandonnée et oubliée depuis longtemps.*
@@ -466,7 +466,7 @@ Le druidique possède son propre alphabet.
 
 {s:Reference|PACTEAVECLANATURE}
 #### Pacte avec la nature (Ext)
-Au niveau 1, un lien se crée entre le druide et la nature, lien qui peut prendre une des deux formes suivantes.
+Au niveau 1, un lien se crée entre le druide et la nature, lien qui peut prendre une des deux formes suivantes. 
 
 ##### Domaine
 Dans la première forme, le druide devient si intime avec la nature qu’il acquiert l’un des domaines de prêtre suivants : [[Domaine de lAir|Air]], [[domaine du climat|Climat]], [[domaine de leau|Eau]], [[domaine de la faune|Faune]], [[domaine du feu|Feu]], [[domaine de la flore|Flore]] ou [[domaine de la terre|Terre]]. Pour toutes les capacités et les sorts en bonus donnés par ce domaine, on considère que le niveau de [[prêtre]] du personnage est égal à son niveau de druide. Comme les prêtres, les druides qui choisissent cette option reçoivent des emplacements de sorts de domaine qu’ils ne peuvent utiliser que pour préparer les sorts de leur domaine et qu’ils ne peuvent pas employer pour une [[druide#INCANTATIONSPONTANEE|incantation spontanée]].

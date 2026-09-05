@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:46
 {s:BDTitre|Cape d’évasion radieuse|{s:AE}}
 **Aura** [[Évocation]] et [[Illusion]] faibles ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 14.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape d’une blancheur immaculée est ourlée de rayons de soleil dorés et émet une lumière continue (identique au sort de *[[lumière]]*, mais dans un rayon de 3 mètres seulement). Deux fois par jour et sur commande, le porteur peut ordonner à la cape de produire une explosion de lumière qui [[États préjudiciables#Aveuglé|aveugle]] toutes les créatures, excepté lui-même, situées à 6 mètres ou moins pendant 1d4 [[round|rounds]] ([[Réflexes]] [[DD]] 14 annule). Après l’explosion, le porteur devient invisible (comme s’il était sous l’effet d’un sort d’*[[invisibilité]]* d’une durée de 1 minute) et la lumière de la cape s’évanouit jusqu’à ce qu’il réapparaisse.
+Cette cape d’une blancheur immaculée est ourlée de rayons de soleil dorés et émet une lumière continue (identique au sort de *[[lumière]]*, mais dans un rayon de 3 mètres seulement). Deux fois par jour et sur commande, le porteur peut ordonner à la cape de produire une explosion de lumière qui [[États préjudiciables#Aveuglé|aveugle]] toutes les créatures, excepté lui-même, situées à 6 mètres ou moins pendant 1d4 [[round|rounds]] ([[Réflexes]] [[DD]] 14 annule). Après l’explosion, le porteur devient invisible (comme s’il était sous l’effet d’un sort d’*[[invisibilité]]* d’une durée de 1 minute) et la lumière de la cape s’évanouit jusqu’à ce qu’il réapparaisse. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[lumière du jour]]*, *[[invisibilité]]*  ; **Coût** 7.000 po
 </div>

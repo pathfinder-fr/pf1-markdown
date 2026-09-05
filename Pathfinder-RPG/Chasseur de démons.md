@@ -13,9 +13,9 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions**. 6 rangs en [[Connaissances]] (plans)
+**Conditions**. 6 rangs en [[Connaissances]] (plans) 
 
-**Avantages**. Le personnage gagne un bonus de +2 aux tests de [[Connaissances]] (plans) quand il veut connaître les pouvoirs et les aptitudes d’un [[démon]]. Il gagne un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]] et aux tests de [[nls|niveau de lanceur de sorts]] pour vaincre la [[RM|Résistance à la magie]] des créatures de sous-type démoniaque qu’il a identifiées comme telles.
+**Avantages**. Le personnage gagne un bonus de +2 aux tests de [[Connaissances]] (plans) quand il veut connaître les pouvoirs et les aptitudes d’un [[démon]]. Il gagne un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]] et aux tests de [[nls|niveau de lanceur de sorts]] pour vaincre la [[RM|Résistance à la magie]] des créatures de sous-type démoniaque qu’il a identifiées comme telles. 
 
 {s:cs}{s:WMH}
 #### Astuce martiale ([[Endurance et Astuces martiales|règles]])

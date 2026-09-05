@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Bille antimétamorphose|{s:AE}}
 **Aura** [[Abjuration]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1.000 po ; **Poids** —
 (((Description)))
-Un minuscule pictogramme représentant un petit animal inoffensif, tel qu’un triton, un lapin ou une grenouille, est gravé sur cette bille. Si son propriétaire rate un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre un effet nuisible de métamorphose, tel que *[[métamorphose funeste]]*, la bille est détruite et annule l’effet.
+Un minuscule pictogramme représentant un petit animal inoffensif, tel qu’un triton, un lapin ou une grenouille, est gravé sur cette bille. Si son propriétaire rate un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre un effet nuisible de métamorphose, tel que *[[métamorphose funeste]]*, la bille est détruite et annule l’effet. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[dissipation de la magie]]* ; **Coût** 500 po
 </div>

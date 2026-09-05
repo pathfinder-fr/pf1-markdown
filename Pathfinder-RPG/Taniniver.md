@@ -51,7 +51,7 @@ LastModified: 2026-06-08 04:25
 
 Les taninivers sont les membres d’une race dégénérée de dragons malades. Le corps d’un taniniver est bel et bien vivant, quoi qu’en constante putréfaction. Cette abominable créature est accablée par des douleurs incessantes et la puanteur de sa propre chair en putréfaction trouble presque ses sens surdéveloppés.
 
-L’infect taniniver consacre la plupart de son temps à étudier la magie pour inverser la propagation des maladies qui l’affligent ou, en cas d’absence de résultat, pour prévenir d’autres détériorations.
+L’infect taniniver consacre la plupart de son temps à étudier la magie pour inverser la propagation des maladies qui l’affligent ou, en cas d’absence de résultat, pour prévenir d’autres détériorations. 
 Les taninivers s’allient souvent avec des sectes liées aux morts-vivants ou aux dragons.
 
 

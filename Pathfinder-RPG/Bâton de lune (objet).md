@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 10 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 10 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Ce bâton d’une trentaine de centimètres se termine par des ferrures d’argent et émet une faible lueur quand on le frotte, par une [[action simple]]. Il déverse une [[Exploration#VISIONLUMIERE|faible lumière]] dans un rayon de 9 mètres. Les créatures qui disposent de la [[Vision nocturne (capacité)|vision nocturne]] remarquent facilement cette lumière et, pour elles, le niveau de luminosité augmente d’un cran (normal au maximum) dans un rayon de 18 mètres. Le bâton brille pendant 6 heures, ensuite, le bout en argent est entièrement brûlé et il n’a plus aucune valeur.

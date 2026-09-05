@@ -8,11 +8,11 @@ Categories:
 - Sort prêtre 5
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** personnelle
-**Cible** le lanceur de sorts
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** 1 heure ou jusqu'à utilisation
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain des morts.*

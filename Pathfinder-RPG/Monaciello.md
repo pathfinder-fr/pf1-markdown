@@ -47,7 +47,7 @@ Categories:
 
 Vivant le plus souvent dans les environnements urbains, ce gremlin évolue parmi l’humanité, raillant les organisations religieuses et académiques avec ses vilains tours. On trouve le plus souvent les monacielli dans les monastères et les cathédrales où ils arrivent par les égouts et les catacombes afin de jouer des tours aux fidèles.
 
-Ces farceurs arrachent les couvertures des membres du clergé pendant qu’ils dorment, harcèlent les servants, gaspillent la nourriture et cachent les objets précieux loin de leurs propriétaires.
+Ces farceurs arrachent les couvertures des membres du clergé pendant qu’ils dorment, harcèlent les servants, gaspillent la nourriture et cachent les objets précieux loin de leurs propriétaires. 
 
 Amoureux de l’or, ils exagèrent la valeur des choses au moyen d’illusions et jettent même sur leur passage des poignées de pièces d’or (ou d’illusions de pièces d’or quand ils sont d’humeur particulièrement pingre) pour distraire les créatures.
 Ils tirent ces pièces d’or de leurs éternels sacs magiques, sachant très bien qu’ils pourront toujours en chaparder davantage. Le monaciello mesure 75 centimètres et pèse environ 10 kilogrammes.

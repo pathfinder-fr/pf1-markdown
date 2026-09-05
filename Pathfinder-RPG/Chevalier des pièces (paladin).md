@@ -12,7 +12,7 @@ Categories:
 **Source : Merchant's manifest**
 
 #### Compétences de classe
-Un Chevalier des pièces ajoute [[Connaissances]] (folklore local), [[Estimation]], [[Perception]] et [[Utilisation dobjets magiques|Utilisation d’Objets Magiques]] à sa liste de compétences de classe. Il obtient aussi un nombre de rangs de compétences égal à 4 + son modificateur d’Intelligence à chaque niveau, au lieu du nombre de rangs de compétences de 2 + son modificateur d’Intelligence.
+Un Chevalier des pièces ajoute [[Connaissances]] (folklore local), [[Estimation]], [[Perception]] et [[Utilisation dobjets magiques|Utilisation d’Objets Magiques]] à sa liste de compétences de classe. Il obtient aussi un nombre de rangs de compétences égal à 4 + son modificateur d’Intelligence à chaque niveau, au lieu du nombre de rangs de compétences de 2 + son modificateur d’Intelligence. 
 
 Cela altère les compétences de classe et les rangs de compétence du paladin.
 
@@ -20,9 +20,9 @@ Cela altère les compétences de classe et les rangs de compétence du paladin.
 À volonté, un chevalier des pièces peut se concentrer sur un unique objet dans les 9 mètres par une action de mouvement. Lorsqu’il le fait, le chevalier des pièces peut détecter s’il est magique, comme par le sort détection de la magie. Le chevalier des pièces ne peut se concentrer sur plus d’un unique objet à la fois. Cette capacité remplace détection du mal.
 
 #### Bénédiction de prospérité (Sur)
-Un chevalier des pièces est un mécène de la prospérité et cherche à égaliser les chances de ceux qui sont injustement désavantagés sur le plan économique. Au 3ème niveau et tous les 6 niveaux suivants, le paladin peut choisir une bénédiction (voir Bénédictions ci-dessous). En dépensant une utilisation d’imposition des mains, le chevalier des pièces peut, à la place, accorder un bienfait soi à lui-même, soit à une créature touchée au prix d’une [[action simple]].
+Un chevalier des pièces est un mécène de la prospérité et cherche à égaliser les chances de ceux qui sont injustement désavantagés sur le plan économique. Au 3ème niveau et tous les 6 niveaux suivants, le paladin peut choisir une bénédiction (voir Bénédictions ci-dessous). En dépensant une utilisation d’imposition des mains, le chevalier des pièces peut, à la place, accorder un bienfait soi à lui-même, soit à une créature touchée au prix d’une [[action simple]]. 
 
-Ces bienfaits ne se cumulent pas avec eux-mêmes ou avec les bénédictions d’autres chevaliers des pièces.
+Ces bienfaits ne se cumulent pas avec eux-mêmes ou avec les bénédictions d’autres chevaliers des pièces. 
 
 Une bénédiction de prospérité dure jusqu’à 1 heure, bien que le chevalier des pièces qui l’a accordé puisse y mettre un terme plus tôt (qu’elle l’affecte ou qu'elle affecte une autre créature) au prix d’une [[action libre]]. Utiliser cette capacité nécessite qu'il dispose d’une main libre et lui prend une action simple, à moins que la cible ne soit lui-même, auquel cas, c'est une [[action rapide]].
 

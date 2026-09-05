@@ -18,7 +18,7 @@ Ce n’est indiqué nul part dans les règles, mais oui, un personnage devrait �
 L’exception à la précision ci-dessus est si le personnage prend le don [[Familier supérieur]], qui lui permet de remplacer immédiatement son familier par le nouveau, sans coût ni temps requis (on part du principe que ça se produit pendant les préparations faites pour la montée de niveau).
 
 Une fois révoqué, un familier animal est un animal normal de son type (un familier spécial du don Familier supérieur retourne à l’état d’une créature normale de ce type). Qu’il souhaite rester ou non avec le personnage revient au MJ et se basera probablement sur la manière dont le personnage traitait la créature quand elle était son familier.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#13|→]] Familier et invisibilité : Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?***
 
 Non. Le <u>[[Familiers|familier]]</u> d'un personnage n'est pas lui, et un familier qui attaque n'est pas la même chose qu'un personnage qui attaque. En conséquence, l'[[Capacités spéciales#INVISIBILITE|invisibilité]] du personnage n'est pas affectée.}Il conserve l’apparence, les [[dés de vie]], le [[BBA|bonus de base à l’attaque]], les bonus de base aux [[jet de sauvegarde|jets de sauvegarde]], les [[compétences]] et les [[dons]] de l’animal normal qu’il était autrefois mais est désormais considéré comme une [[type Créature magique|créature magique]] lorsqu’il s’agit de lui appliquer des effets qui dépendent du type de créature. Seul un animal normal sans modification spéciale peut devenir un familier. Un animal ne peut être à la fois [[compagnon animal]] et familier.
@@ -27,7 +27,7 @@ Un familier octroie certaines [[capacités spéciales]] à son maître, comme in
 
 Les niveaux des différentes classes qui donnent droit à un familier se cumulent pour déterminer les pouvoirs spéciaux du familier qui dépendent du niveau de son maître.
 
-Si un personnage perd son familier, que celui-ci meurt ou est renvoyé, il peut le remplacer une semaine plus tard en accomplissant un rituel spécifique qui coûte 200 po par niveau du maître et prend huit heures.
+Si un personnage perd son familier, que celui-ci meurt ou est renvoyé, il peut le remplacer une semaine plus tard en accomplissant un rituel spécifique qui coûte 200 po par niveau du maître et prend huit heures. 
 
 Un jeteur de sorts avec le don [[Familier supérieur]] peut avoir accès à d'autres familiers.
 

@@ -10,7 +10,7 @@ Categories:
 Abadar est connu pour être un dieu patient **d'alignement Loyal Neutre**. Dictature ou Démocratie, peu lui importe tant que l'élan civilisateur étend l'influence des villes et de la loi sur tout Golarion. On le surnomme : **Le maître du premier coffre-fort** (Master of the First Vault ), **Le juge des dieux** (Judge of the Gods).
 
 ### Histoire
-Abadar fut longtemps le gardien du premier coffre-fort de la légendaire ville d'Axis, cité millénaire du plan de la loi.
+Abadar fut longtemps le gardien du premier coffre-fort de la légendaire ville d'Axis, cité millénaire du plan de la loi. 
 
 ### Apparence
 Abadar est décrit comme un humain dans la fleur de l'âge, beau avec des cheveux bruns, portant une armure d'Or pur au combat, et de riche vêtement pour les fêtes et durant les situations demandant plus de diplomatie. Abadar est originaire du [[Taldor]].

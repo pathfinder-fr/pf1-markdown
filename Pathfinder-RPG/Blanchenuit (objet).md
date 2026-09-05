@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 75 po ; **Poids** —
+{s:cs}{s:AA}**Prix** 75 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Cette plaquette traitée se dissout en une pâte crayeuse lorsqu'elle est placée sous la langue et donne ensuite à l'utilisateur un soudain sursaut d'énergie. Il élimine les effets de la [[fatigué|fatigue]] pendant les 8 heures suivantes ; lorsque l'effet de la drogue prend fin, l'utilisateur est [[épuisé]]. La blanchenuit rend ses consommateurs nerveux et incapables de se concentrer ; ils subissent un malus de -2 à tous les tests de [[Compétences|compétence]] jusqu'à ce que ses effets se dissipent.

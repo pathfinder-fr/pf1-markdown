@@ -50,7 +50,7 @@ insectoïdes des armées de l’Enfer. Ils possèdent les esprits les plus
 cruellement ingénieux de toutes les légions d’Asmodéus. On dit
 que chaque diable des glaces (ou gélugon) renferme dans sa poitrine
 un cœur gelé dérobé à un mortel et que c’est grâce à cela qu’il peut
-prendre des décisions sans se laisser perturber par les émotions.
+prendre des décisions sans se laisser perturber par les émotions. 
 
 Les
 diables des glaces naissent sur la strate gelée de Cocytus, la septième
@@ -65,7 +65,7 @@ l’ennemi au corps à corps, de sorte qu’il puisse rester en arrière et
 observer les tactiques, les forces et les faiblesses de l’adversaire. Le
 diable des glaces utilise ses pouvoirs magiques pour prêter main
 forte à ses sbires, en prenant bien soin d’éviter de les inclure dans
-les zones d’effet de ses sorts de destruction.
+les zones d’effet de ses sorts de destruction. 
 
 Il ne faut pas y voir
 une forme de camaraderie mais juste une logique pure et froide :

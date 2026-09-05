@@ -15,6 +15,6 @@ Categories:
 
 **Conditions.** [[Int]] 13
 
-**Avantages.** Le personnage peut [[Actions modifiant linitiative#PREPARER|préparer une attaque]] par une [[action complexe]] au lieu d’une [[action simple]]. Il gagne alors un bonus de +2 au [[jet dattaque|jet d’attaque]] quand il déclenche l’action préparée.
+**Avantages.** Le personnage peut [[Actions modifiant linitiative#PREPARER|préparer une attaque]] par une [[action complexe]] au lieu d’une [[action simple]]. Il gagne alors un bonus de +2 au [[jet dattaque|jet d’attaque]] quand il déclenche l’action préparée. 
 
 **Normal.** La préparation d’une attaque est une action simple qui ne donne pas de bonus au jet d’attaque.

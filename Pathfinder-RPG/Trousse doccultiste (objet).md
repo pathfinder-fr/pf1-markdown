@@ -7,7 +7,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**Prix** 45 po ; **Poids** 16,25 kg
+{s:AO}**Prix** 45 po ; **Poids** 16,25 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], dix [[Craie (objet)|craies]], un [[Silex et amorce (objet)|silex et une amorce]], une fiole contenant trente millilitres d'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Carnet (objet)|carnet]], deux [[Instruments doccultiste (objet)|instruments d'occultiste]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

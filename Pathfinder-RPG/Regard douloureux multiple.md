@@ -24,7 +24,7 @@ Categories:
 
 (((Manifold stare (combat, stare)
 
-Your hypnotic gaze causes tremendous pain in its victims.
+Your hypnotic gaze causes tremendous pain in its victims. 
 
 Prerequisites: Mesmerist level 3rd, painful stare class feature.
 

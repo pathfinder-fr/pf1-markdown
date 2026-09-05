@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:AE}**Prix** 1 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
----
+<hr />
 Cet explosif de la taille d’un doigt génère une bruyante détonation 1 [[round]] après la mise à feu. Quiconque se trouve sur la même case qu’’une bougie d’artifice en papier au moment de l’explosion doit réussir un jet de [[Vigueur]] de [[DD]] 15 ou être [[ébloui]] pendant 1d4 rounds. La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 20.

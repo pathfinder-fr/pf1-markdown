@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pa ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 2 pa ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Cette lourde jupe plissée est généralement réservée aux hommes. La plupart présentent un style ou un motif spécifique indiquant l’allégeance à un clan ou à un autre groupe social particulier.

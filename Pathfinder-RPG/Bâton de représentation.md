@@ -12,13 +12,13 @@ Categories:
 {s:APG}{s:BDTitre|Bâton de représentation|}
 **Aura** Multiples modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 48 800 po ; **Poids** 2,5 kg
 (((Description)))
-Peu après son arrivée entre les mains d’un nouveau propriétaire, ce morceau de cèdre verni développe des clefs ornementales en laiton doré, des cordes ou toute autre décoration qui lui permet de ressembler à une version stylisée du type d’instrument favori de son propriétaire. Il permet de lancer les sorts suivants :
-• *[[apaisement des émotions]]* (1 charge)
-• *[[bagou]]* (1 charge)
-• *[[discours captivant]]* (2 charges)
-• *[[image accomplie]]* (2 charges)
-• *[[lueurs hypnotiques]]* (1 charge)
-• *[[manipulation des sons]]* (2 charges)
+Peu après son arrivée entre les mains d’un nouveau propriétaire, ce morceau de cèdre verni développe des clefs ornementales en laiton doré, des cordes ou toute autre décoration qui lui permet de ressembler à une version stylisée du type d’instrument favori de son propriétaire. Il permet de lancer les sorts suivants :  
+• *[[apaisement des émotions]]* (1 charge)  
+• *[[bagou]]* (1 charge)  
+• *[[discours captivant]]* (2 charges)  
+• *[[image accomplie]]* (2 charges)  
+• *[[lueurs hypnotiques]]* (1 charge)  
+• *[[manipulation des sons]]* (2 charges)  
 • *[[pyrotechnie]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[apaisement des émotions]]*, *[[bagou]]*, *[[discours captivant]]*, *[[image accomplie]]*, *[[lueurs hypnotiques]]*, *[[manipulation des sons]]*, *[[pyrotechnie]]* ; **Coût** 24 400 po

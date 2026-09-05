@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,25 kg
+{s:AE}**Prix** 5 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce câble de cuivre de 1,80 mètre est solide et souple. En l'attachant à deux [[Piton (objet)|pitons]] ou à des [[Pointe en fer (objet)|pointes en fer]] de chaque côté d'une zone donnée, le personnage peut créer un piège tout simple comme un fil de détente.
 
 <div class="BD">

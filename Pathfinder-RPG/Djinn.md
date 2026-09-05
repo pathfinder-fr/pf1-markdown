@@ -67,14 +67,14 @@ Les djinns méprisent le combat physique et préfèrent utiliser
 leurs pouvoirs magiques et leurs capacités aériennes pour
 affronter leurs ennemis. Lorsque le combat tourne au désavantage
 du djinn, ce dernier s’envole généralement et se transforme en
-tourbillon pour s’en prendre à ceux qui le suivent.
+tourbillon pour s’en prendre à ceux qui le suivent. 
 
 Lorsqu’ils n’ont d’autre choix que de combattre au corps à corps, la plupart des
 djinns préfèrent manier leurs cimeterres de maître à deux mains.
 Au sein de la famille des génies, les djinns s’entendent bien avec
 les [[Jann|janns]] et les [[Marid|marids]]. Ils entrent souvent en conflit avec les [[Shaitan|shaitans]]
 et sont les ennemis jurés des [[Efrit|éfrits]], ces génies qu’ils détestent par
-dessus tout.
+dessus tout. 
 
 L’opposition qui existe entre les [[Efrit|éfrits]] et les djinns est si
 légendaire que de nombreux lanceurs de sorts tentent (avec plus ou

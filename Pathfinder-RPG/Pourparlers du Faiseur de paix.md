@@ -8,12 +8,12 @@ Categories:
 - Sort prêtre 2
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** Créatures situées dans une étendue de 6 mètres (4 {s:c}) de rayon.
-**Durée** instantanée
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** Créatures situées dans une étendue de 6 mètres (4 {s:c}) de rayon.  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain faiseur de paix.*

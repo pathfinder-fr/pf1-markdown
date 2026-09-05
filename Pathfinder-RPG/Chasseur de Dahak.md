@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Le personnage chasse vicieusement les dragons métalliques et les utilise comme sacrifice.*
+{s:cs}{s:ISG}*Le personnage chasse vicieusement les dragons métalliques et les utilise comme sacrifice.* 
 
 **Conditions.** Capacité de classe [[Rôdeur#ENNEMIJURE|ennemi juré]] (dragon), suivant de [[Dahak (technique)|Dahak]]
 

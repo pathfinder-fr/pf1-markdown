@@ -13,12 +13,12 @@ Categories:
 - 38 400 **PX** 
 - [[type Fée|Fée]] ([[sous-type Extraplanaire|extraplanaire]]) de taille G, LM 
 - **Init** +13 ; **Sens** [[Perception aveugle (capacité)|perception aveugle]] 36 m, [[Vision nocturne (capacité)|vision nocturne]] ; **Perception** +21 
-(((DÉFENSE)))
+(((DÉFENSE))) 
 - **CA** 31, contact 19, pris au dépourvu 21 (Dex +9, esquive +1, naturelle +12, taille -1) 
 - **pv** 133 (14d6+84) 
 - **Réf** +18, **Vig** +10, **Vol** +13 
 - **RD** 10/[[fer froid]]
-(((ATTAQUE)))
+(((ATTAQUE))) 
 - **VD** vol 27 m (parfaite)
 - **Corps à corps** 2 griffes, +14 (1d6+8) et coup de queue, +9 (1d8+4 plus saignement) et 2 ailes, +9 (1d8+4 plus saignement) Espace 3 m ; Allonge 1,50 m
 - **Attaque spéciale** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +3d6, doubles d’ombre, fer froid assassin, [[Saignement (capacité)|saignement]] (2d6)
@@ -32,7 +32,7 @@ Categories:
 - **Dons** [[Attaque en vol]], [[Attaques réflexes]], [[Combat en aveugle]], [[Comme léclair|Comme l’éclair]], [[Comme le vent]], [[Esquive]], [[Science de linitiative|Science de l’initiative]]
 - **Compétences** [[Bluff]] +24, [[Discrétion]] +22, [[Connaissances]] (nature) +20, [[Connaissances]] (plans) +17, [[Évasion]] +26, [[Intimidation]] +21, [[Perception]] +21, [[Psychologie]] +21, [[Vol]] +32
 - **Langues** commun, sylvestre (incapable de parler) ; [[Télépathie (capacité)|télépathie]] 30 m 
-(((ÉCOLOGIE))))
+(((ÉCOLOGIE)))) 
 - **Environnement** tous (pays primaire des fées) 
 - **Organisation** solitaire 
 - **Trésor** standard 

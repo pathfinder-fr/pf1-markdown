@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [[Science du combat à mains nues]], 1 [[rang]] en [[Acrobaties]], 3 rangs en [[Psychologie]]
+**Conditions.** [[Science du combat à mains nues]], 1 [[rang]] en [[Acrobaties]], 3 rangs en [[Psychologie]] 
 
 **Avantage.** Le personnage gagne un bonus de +2 aux tests de [[Psychologie]] et peut infliger des dégâts perforants avec ses attaques à mains nues. Quand il utilise l’École du serpent et qu’un adversaire l’attaque en mêlée ou à distance, il peut dépenser une [[action immédiate]] pour faire un test de [[Psychologie]] et substituer le résultat du test à sa [[CA]] ou sa [[CA]] au contact contre cette attaque. Pour cela, il doit être conscient de l’attaque et ne pas être [[pris au dépourvu]].
 

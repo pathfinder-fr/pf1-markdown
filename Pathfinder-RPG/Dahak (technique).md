@@ -17,19 +17,19 @@ La Destruction infinie|%2fPCUP%2fReligion-PNG%2fDahak.png|[[Divinités#AUTRES|Au
 |—}{s:cs}{s:ISG}Dahak est réputé être l'un des premiers dieux créés par [[Apsu (technique)|Apsu]] et Tiamat. Les fidèles de Dahak sont les [[Dragon|dragons chromatiques]], mais la Destruction infinie n'aime pas ses fidèles. Il offre le pouvoir et l'immortalité en échange de ses services, mais jamais le pardon ou la pitié. Certaines légendes racontent que Dahak a créé les [[vouivre|vouivres]] et les [[Drake|drakes]] dans une tentative malencontreuse de forger une nouvelle race de dragons, mais les érudits s'accordent à dire que cette notion contredit largement son rôle de destructeur éternel. Néanmoins, les drakes maléfiques et de nombreuses vouivres croient en ces légendes et vénèrent Dahak comme leur créateur.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[antipaladin]]/[[sanguin]]).**
+**Lancement de sorts ([[antipaladin]]/[[sanguin]]).**  
 • *[Dahak's Release](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release)* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[Dahak's Release](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release)* peut être préparé comme un sort de 4e niveau.
-• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[Dahak's Release](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release)* peut être préparé comme un sort de 4e niveau.  
+• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.  
 • *[Tail Strike](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike)* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[oracle]]).**
-• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[oracle]]).**  
+• *[Draconic Ally](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Ally)* peut être préparé comme un sort de 3e niveau.  
 • *[Tail Strike](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike)* peut être préparé comme un sort de 4e niveau.
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

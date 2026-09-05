@@ -13,11 +13,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1, [[sorcière|Sor]] 1
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, F]] (un carré de tissu et une aiguille)
-**Portée** personnelle
-**Cible**  le lanceur de sorts
+{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1, [[sorcière|Sor]] 1  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, F]] (un carré de tissu et une aiguille)  
+**Portée** personnelle  
+**Cible**  le lanceur de sorts  
 **Durée** 1 round (voir texte)
 
 Le personnage comprend instinctivement les défenses magiques de son ennemi. Le prochain sort qu’il lance, avant la fin du prochain [[round]], s’effectue avec un [[NLS]] augmenté de 5 quand il s’agit de déterminer s’il franchit la [[RM|résistance à la magie]]. Ce bonus n’améliore pas les autres effets dépendant du NLS, comme les dégâts ou la portée, et n’affecte que le premier sort lancé après l’incantation assurée.

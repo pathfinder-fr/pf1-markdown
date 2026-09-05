@@ -32,35 +32,35 @@ Certains dons sont d’ordre général, ce qui signifie qu’aucune règle parti
 
 {s:PU}{s:Reference|DONALIGNEMENT}
 #### Don d’alignement
-Si un personnage possède au moins 10 [[DV]], il a accès aux dons correspondant à son alignement. Il ne peut avoir qu’un seul don d’alignement à la fois mais, s’il change d’alignement, il peut échanger son ancien don d’alignement contre un autre dès qu’il gagne un niveau de personnage. La plupart des dons d’alignement ont une entrée baptisée Résidu qui représente le maigre avantage que le personnage conserve s’il ne possède plus l’alignement correspondant à son don, ce qui peut l’aider à retrouver son ancien alignement. De nombreux dons d’alignement permettent de stocker des affirmations en vue d’une utilisation ultérieure. Si le personnage change d’alignement et ne peut plus stocker les [[Alignement unchained#Glissements_et_affirmations_2|affirmations]], il perd toutes celles qu’il avait en réserve.
+Si un personnage possède au moins 10 [[DV]], il a accès aux dons correspondant à son alignement. Il ne peut avoir qu’un seul don d’alignement à la fois mais, s’il change d’alignement, il peut échanger son ancien don d’alignement contre un autre dès qu’il gagne un niveau de personnage. La plupart des dons d’alignement ont une entrée baptisée Résidu qui représente le maigre avantage que le personnage conserve s’il ne possède plus l’alignement correspondant à son don, ce qui peut l’aider à retrouver son ancien alignement. De nombreux dons d’alignement permettent de stocker des affirmations en vue d’une utilisation ultérieure. Si le personnage change d’alignement et ne peut plus stocker les [[Alignement unchained#Glissements_et_affirmations_2|affirmations]], il perd toutes celles qu’il avait en réserve.  
 Voir la [[Dons dalignement|liste des dons d'alignement]]
 
 {s:uc}{s:Reference|DONAUDACE}
 #### Don d’audace
-Un don d’audace interagit avec l’audace du [[pistolier]], avec celle d’un pouvoir de classe ou avec celle qui découle du don [[Pistolier amateur]]. Il élargit généralement l’éventail d’exploits. Parfois, ces dons augmentent le nombre de points d’audace du personnage ou modifient sa manière de les récupérer. Un pistolier peut choisir un don d’audace comme don supplémentaire.
+Un don d’audace interagit avec l’audace du [[pistolier]], avec celle d’un pouvoir de classe ou avec celle qui découle du don [[Pistolier amateur]]. Il élargit généralement l’éventail d’exploits. Parfois, ces dons augmentent le nombre de points d’audace du personnage ou modifient sa manière de les récupérer. Un pistolier peut choisir un don d’audace comme don supplémentaire.  
 Voir la [[Dons daudace et de panache|liste des dons d'audace]].
 
 {s:mca}{s:Reference|DONPANACHE}
 #### Don de panache
-Les dons de panache agissent sur le pouvoir de classe du [[Bretteur]] panache ou sur le panache qu’apporte le don [[Bretteur amateur]]. Les bretteurs peuvent prendre des dons de panache comme dons supplémentaires.
+Les dons de panache agissent sur le pouvoir de classe du [[Bretteur]] panache ou sur le panache qu’apporte le don [[Bretteur amateur]]. Les bretteurs peuvent prendre des dons de panache comme dons supplémentaires.  
 Voir la [[Dons daudace et de panache|liste des dons de panache]].
 
 {s:Reference|DONCOMBAT}{s:Reference|COMBAT}
 #### Dons de combat
 Les [[Lutteur|lutteurs]], les [[Guerrier|guerriers]], les [[Pistolier|pistoliers]], les [[Bretteur|bretteurs]] et les
-[[Prêtre combattant|prêtres combattants]] peuvent choisir des dons de combat comme dons supplémentaires. Les autres classes peuvent prendre des dons de combat à condition de remplir les conditions requises.
+[[Prêtre combattant|prêtres combattants]] peuvent choisir des dons de combat comme dons supplémentaires. Les autres classes peuvent prendre des dons de combat à condition de remplir les conditions requises.  
 Voir la [[Dons de combat|liste des dons de combat]].
 
 {s:Reference|DONCRITIQUE}{s:Reference|CRITIQUE}
 #### Dons de critique
-Les dons de critique modifient les effets des [[coup critique|coups critiques]] en infligeant une condition négative supplémentaire aux victimes. Les personnages qui ne disposent pas du don [[Maîtrise du critique]] appliquent un effet de don de critique au maximum quand ils infligent un [[coup critique]]. Les personnages qui disposent de plusieurs dons de critique choisissent celui qu’ils souhaitent appliquer une fois le critique confirmé.
+Les dons de critique modifient les effets des [[coup critique|coups critiques]] en infligeant une condition négative supplémentaire aux victimes. Les personnages qui ne disposent pas du don [[Maîtrise du critique]] appliquent un effet de don de critique au maximum quand ils infligent un [[coup critique]]. Les personnages qui disposent de plusieurs dons de critique choisissent celui qu’ils souhaitent appliquer une fois le critique confirmé.  
 Voir la [[Dons de critique|liste des dons de critique]].
 
 {s:Reference|DONCREATION}{s:Reference|CREATION}
 #### Dons de création d’objets
 {s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#12|→]] Dons de création d’objet : Avoir un niveau de lanceur de sort par un pouvoir magique remplit-il le prérequis de NLS des dons de création d’objet ?***
 
-Non. *(Retour à la <u>[[Dons#DONCREATION|règle]]</u>)*}Les dons de création d’objets permettent au personnage de créer des objets d’un type précis. Tous les dons de cette catégorie possèdent des points communs, quel que soit le type d’objet concerné.
+Non. *(Retour à la <u>[[Dons#DONCREATION|règle]]</u>)*}Les dons de création d’objets permettent au personnage de créer des objets d’un type précis. Tous les dons de cette catégorie possèdent des points communs, quel que soit le type d’objet concerné.  
 Voir la [[Dons de création dobjets|liste des dons de création d'objets]].
 
 **Coût des matières premières.** Le coût de création d’un objet magique équivaut à la moitié du prix de base de l’objet.
@@ -84,33 +84,33 @@ Pour ce calcul, les sorts du niveau 0 comptent comme des sorts de niveau 1/2.
 
 {s:WMH}{s:Reference|MAITRISEDARME}
 #### Dons de maîtrise d'arme
-Bien que la plupart des techniques de combat soient suffisamment générales pour être classées comme des dons de combat, certaines exigent un tel niveau de compétence martiale qu'elles sont plutôt classées comme des dons de maîtrise d'arme. Les dons de maîtrise d'arme comptent comme des dons de combat à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons bonus, et vous ne bénéficiez des avantages d'un don de maîtrise d'arme qu'en maniant une arme appartenant à un [[groupe darmes|groupe d’armes]] que vous avez sélectionné avec l'aptitude de classe d'entraînement aux arme (appelée dans ces dons "arme appropriée"), et tout effet de ces dons lié aux attaques s'applique uniquement aux attaques portées avec ces armes, sauf si le don spécifie le contraire. Les personnages qui ne disposent pas de l'aptitude de classe d'entraînement aux armes peuvent accéder aux dons de maîtrise des armes en prenant précédemment le don [[Concentration Martiale]].
+Bien que la plupart des techniques de combat soient suffisamment générales pour être classées comme des dons de combat, certaines exigent un tel niveau de compétence martiale qu'elles sont plutôt classées comme des dons de maîtrise d'arme. Les dons de maîtrise d'arme comptent comme des dons de combat à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons bonus, et vous ne bénéficiez des avantages d'un don de maîtrise d'arme qu'en maniant une arme appartenant à un [[groupe darmes|groupe d’armes]] que vous avez sélectionné avec l'aptitude de classe d'entraînement aux arme (appelée dans ces dons "arme appropriée"), et tout effet de ces dons lié aux attaques s'applique uniquement aux attaques portées avec ces armes, sauf si le don spécifie le contraire. Les personnages qui ne disposent pas de l'aptitude de classe d'entraînement aux armes peuvent accéder aux dons de maîtrise des armes en prenant précédemment le don [[Concentration Martiale]].  
 Voir la [[Dons de maîtrise darme|liste des dons de maîtrise d'arme]].
 
 {s:AMH}{s:Reference|MAITRISEDARMURE}
 #### Dons de maîtrise d'armure
-Les dons de maîtrise d’armure sont un nouveau type de don qui ont pour condition la capacité [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]]. Ces dons comptent comme des [[Dons#DONCOMBAT|dons de combat]] à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons supplémentaires. Le personnage bénéficie des effets d'un don de maîtrise d’armure uniquement lorsqu'il porte une armure avec laquelle il est formé et qui correspond au type d'armure indiqué dans la condition de formation du don, le cas échéant. Un don de maîtrise d’armure sans prérequis de formation peut être utilisé avec n’importe quelle armure. Les personnages qui ne possèdent pas la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] peuvent accéder aux dons de maîtrise d'armure en sélectionnant le don [[Armure de prédilection]].
+Les dons de maîtrise d’armure sont un nouveau type de don qui ont pour condition la capacité [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]]. Ces dons comptent comme des [[Dons#DONCOMBAT|dons de combat]] à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons supplémentaires. Le personnage bénéficie des effets d'un don de maîtrise d’armure uniquement lorsqu'il porte une armure avec laquelle il est formé et qui correspond au type d'armure indiqué dans la condition de formation du don, le cas échéant. Un don de maîtrise d’armure sans prérequis de formation peut être utilisé avec n’importe quelle armure. Les personnages qui ne possèdent pas la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] peuvent accéder aux dons de maîtrise d'armure en sélectionnant le don [[Armure de prédilection]].  
 Voir la [[Dons de maîtrise darmure|liste des dons de maîtrise d'armure]].
 
 {s:AMH}{s:Reference|MAITRISEDEBOUCLIER}
 #### Dons de maîtrise de bouclier
 Pour certains combattant, les boucliers sont tout aussi importants, si ce n’est plus, que les armes ou les armures. Les boucliers sont polyvalents, unissant l’attaque à la défense. Beaucoup plus adaptables que les armures, ils permettent aux aventuriers de changer de tactique en un clin d'œil.
 
-Une poignée d’expert s’entrainent à parfaire l’usage des boucliers en plein combat. Les nouveaux dons présentés ici sont catégorisés comme des dons de maîtrise de bouclier, chacun possédant [[Art du bouclier]] comme condition. Les personnages avec la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] peuvent ignorer la condition Art du bouclier des dons de maîtrise de bouclier. Ces dons comptent comme des [[Dons#DONCOMBAT|dons de combat]] à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons supplémentaires. Le personnage bénéficie des effets d'un don de maîtrise de bouclier uniquement lorsqu'il manie un bouclier avec laquelle il est formé. Les personnages qui possèdent le don Art du bouclier sont également éligibles au don [[Science de lart du bouclier|Science de l'art du bouclier]].
+Une poignée d’expert s’entrainent à parfaire l’usage des boucliers en plein combat. Les nouveaux dons présentés ici sont catégorisés comme des dons de maîtrise de bouclier, chacun possédant [[Art du bouclier]] comme condition. Les personnages avec la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] peuvent ignorer la condition Art du bouclier des dons de maîtrise de bouclier. Ces dons comptent comme des [[Dons#DONCOMBAT|dons de combat]] à toutes fins, y compris pour les classes qui peuvent les sélectionner comme dons supplémentaires. Le personnage bénéficie des effets d'un don de maîtrise de bouclier uniquement lorsqu'il manie un bouclier avec laquelle il est formé. Les personnages qui possèdent le don Art du bouclier sont également éligibles au don [[Science de lart du bouclier|Science de l'art du bouclier]].  
 Voir la [[Dons de maîtrise de bouclier|liste des dons de maîtrise de bouclier]].
 
 {s:WMH}{s:Reference|MAITRISEDOBJET}
 #### Dons de maîtrise d'objets
 Utiliser un don de maîtrise d’objets est une [[action simple]] qui ne provoque pas d’[[AO|attaque d’opportunité]], similaire à l’activation d’un [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|objet magique à mot de commande]], bien qu’il ne soit pas utile de parler pour utiliser le don. Créer un tel effet nécessite de forcer la magie existante dans l’objet magique au travers de la force de volonté du personnage et la canaliser au travers de son propre corps ; Cette action est ainsi dépendante de la [[Vigueur]] de l’utilisateur. Tous les effets créés par les dons de maîtrise d’objets agissent comme des [[pouvoirs magiques]] et utilise le [[BBA]] du personnage comme niveau de lanceur. Le [[DD]] du [[jds|jet de sauvegarde]] contre ces pouvoirs magiques est égal à 10 + niveau du sort + le modificateur de [[Constitution]] du personnage. Si un pouvoir magique nécessite pour les besoins d’un calcul de disposer d’un bonus ou d’un modificateur d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]], le modificateur de [[Constitution]] du personnage sera utilisé à la place.
 
-L’utilisation d’un don de maîtrise d’objets est épuisant pour l’objet magique autant que pour son utilisateur et ne peut être accompli sur les objets qui ont une limite d’utilisation ou qui doivent être rechargés (comme les élixirs, les potions, les parchemins, les bâtons et les baguettes) – cela nécessite des objets qui ont des effets constants ou à utilisation quotidienne. L’usage des dons de maîtrise d’objets ne vide pas l’objet magique de son énergie et n’affecte pas la possibilité de faire appel à ses utilisations quotidiennes. Les dons de maîtrise d’objets sont accessibles à tous les personnages qui remplissent les conditions requises.
+L’utilisation d’un don de maîtrise d’objets est épuisant pour l’objet magique autant que pour son utilisateur et ne peut être accompli sur les objets qui ont une limite d’utilisation ou qui doivent être rechargés (comme les élixirs, les potions, les parchemins, les bâtons et les baguettes) – cela nécessite des objets qui ont des effets constants ou à utilisation quotidienne. L’usage des dons de maîtrise d’objets ne vide pas l’objet magique de son énergie et n’affecte pas la possibilité de faire appel à ses utilisations quotidiennes. Les dons de maîtrise d’objets sont accessibles à tous les personnages qui remplissent les conditions requises.  
 Voir la [[Dons de maîtrise dobjets|liste des dons de maîtrise d'objets]].
 
 {s:Reference|DONMALEFICESANGLANT}
 #### Dons de maléfice sanglant
 {s:cs|Magic Tactics Toolbox}
 
-Les maléfices sanglants prennent bien des formes mais chacun obéit à des règles de base qui s’appliquent à tous. Les dons de maléfices sanglants sont accessibles à n’importe quel personnage qui en remplit les conditions. Les maléfices sanglants ne fonctionnent que contre les cibles auxquelles leur utilisateur a infligé des dégâts aux points de vie récemment, en respectant le schéma de temps et la manière exacte qui est mentionnée dans les conditions du don utilisé.
+Les maléfices sanglants prennent bien des formes mais chacun obéit à des règles de base qui s’appliquent à tous. Les dons de maléfices sanglants sont accessibles à n’importe quel personnage qui en remplit les conditions. Les maléfices sanglants ne fonctionnent que contre les cibles auxquelles leur utilisateur a infligé des dégâts aux points de vie récemment, en respectant le schéma de temps et la manière exacte qui est mentionnée dans les conditions du don utilisé.  
 Voir la [[Dons de maléfice sanglant|liste des dons de maléfice sanglant]].
 
 Le [[DD]] du [[jet de sauvegarde]] d’un maléfice sanglant est toujours égal à 10 + 1/2 niveau du personnage + le plus élevé de entre le modificateur d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] de l'utilisateur.
@@ -138,14 +138,14 @@ Par exemple, un sort de *[[mains brûlantes]]* à [[Extension deffet|extension d
 En général, on utilise le niveau du sort (normal, moins élevé) ou le niveau de l’emplacement dépensé (plus élevé), suivant le plus désavantageux pour le lanceur de sorts. Les avantages du <u>[[Dons#DONMETAMAGIE|don de métamagie]]</u> sont explicités dans la section Avantages du don, et un niveau d’emplacement de sort augmenté est un désavantage.
 
 [[Augmentation dintensité|Augmentation d’intensité]] est en fait le seul don de métamagie qui fait de l’utilisation d’un emplacement de niveau plus élevé un avantage plutôt qu’un désavantage.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Dons et compétences)#26|→]] Métamagie : Puis-je utiliser un don de métamagie pour modifier un pouvoir magique ?***
 
 Non. Les <u>[[Dons#DONMETAMAGIE|dons de métamagie]]</u> précisent qu’ils n’affectent que les sorts, et pas les [[Pouvoirs magiques (capacité)|pouvoirs magiques]]. De même, les pouvoirs magiques n’ont pas d’emplacements de sort, donc il serait impossible d’ajuster l’emplacement de sort effectif d’un pouvoir magique.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#26|→]] Métamagie : Lorsque je lance un sort depuis un parchemin, une baguette, ou un bâton, puis-je appliquer un ou plusieurs dons de métamagie à ce sort ?***
 
-Non. *(Retour à la <u>[[Dons#DONMETAMAGIE|règle]]</u>)*}À mesure que les connaissances magiques d’un lanceur de sorts augmentent, il peut apprendre à jeter des sorts à l’aide de méthodes légèrement différentes de celles qu’on lui a enseignées. Préparer et lancer les sorts ainsi présente davantage de difficultés que les méthodes classiques, mais les dons de métamagie permettent de repousser ses limites. Les dons de métamagie n'affectent pas les pouvoirs magiques.
+Non. *(Retour à la <u>[[Dons#DONMETAMAGIE|règle]]</u>)*}À mesure que les connaissances magiques d’un lanceur de sorts augmentent, il peut apprendre à jeter des sorts à l’aide de méthodes légèrement différentes de celles qu’on lui a enseignées. Préparer et lancer les sorts ainsi présente davantage de difficultés que les méthodes classiques, mais les dons de métamagie permettent de repousser ses limites. Les dons de métamagie n'affectent pas les pouvoirs magiques.  
 Voir la [[Dons de métamagie|liste des dons de métamagie]].
 
 **Magiciens et pratiquants de la magie divine.** Les magiciens et les pratiquants de la magie divine doivent préparer leurs sorts à l’avance. C’est à ce moment qu’ils décident s’ils souhaitent les préparer en les modifiant grâce à des dons de métamagie (ce qui les oblige à utiliser des [[emplacement de sort|emplacements de sorts]] de niveau supérieur).
@@ -172,34 +172,34 @@ Les dons de métamagie ne peuvent pas être utilisés pour tous les sorts. Consu
 
 {s:apg}{s:Reference|DONEQUIPE}
 #### Dons d'équipe
-Les dons d’équipe offrent des bonus importants, mais ils ne fonctionnent que sous certaines conditions. Dans la plupart des cas, ils nécessitent la présence d’un allié possédant également le don en question et sa présence à un endroit précis du champ de bataille. Les dons d’équipe ne donnent aucun bonus si les conditions précisées ne sont pas remplies. Notez que les alliés qui sont [[paralysé|paralysés]], [[étourdi|étourdis]], [[inconscient|inconscients]] ou incapables d’agir pour une raison ou une autre ne permettent pas de remplir les conditions de ces dons.
+Les dons d’équipe offrent des bonus importants, mais ils ne fonctionnent que sous certaines conditions. Dans la plupart des cas, ils nécessitent la présence d’un allié possédant également le don en question et sa présence à un endroit précis du champ de bataille. Les dons d’équipe ne donnent aucun bonus si les conditions précisées ne sont pas remplies. Notez que les alliés qui sont [[paralysé|paralysés]], [[étourdi|étourdis]], [[inconscient|inconscients]] ou incapables d’agir pour une raison ou une autre ne permettent pas de remplir les conditions de ces dons. 
 
-Les chevaliers, les chasseurs et les inquisiteurs possèdent des pouvoirs de classe spéciaux qui leur permettent d’utiliser les dons de travail en équipe même si leurs alliés ne les possèdent pas.
+Les chevaliers, les chasseurs et les inquisiteurs possèdent des pouvoirs de classe spéciaux qui leur permettent d’utiliser les dons de travail en équipe même si leurs alliés ne les possèdent pas.  
 Voir la [[Dons déquipe|liste des dons d'équipe]].
 
 {s:AO}{s:Reference|DONREGARD}
 #### Dons de regard
-Les dons de regard permettent à l’[[hypnotiseur]] d’ajouter des effets supplémentaires à son pouvoir de [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]. Les personnages dépourvus du don [[Douleur composée]] appliquent seulement un effet de regard par attaque, l’[[hypnotiseur]] disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.
+Les dons de regard permettent à l’[[hypnotiseur]] d’ajouter des effets supplémentaires à son pouvoir de [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]. Les personnages dépourvus du don [[Douleur composée]] appliquent seulement un effet de regard par attaque, l’[[hypnotiseur]] disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.  
 Voir la [[Dons de regard|liste des dons de regard]].
 
 {s:uc}{s:Reference|DONSPECTACLE}
 #### Dons de spectacle
-Ces dons servent lors des tests de combat de spectacle et donnent souvent droit à une action spéciale qui se produit lors du test. À moins que le personnage ne dispose du don [[Démonstration de maître]], il ne peut utiliser qu’un don de spectacle par test.
+Ces dons servent lors des tests de combat de spectacle et donnent souvent droit à une action spéciale qui se produit lors du test. À moins que le personnage ne dispose du don [[Démonstration de maître]], il ne peut utiliser qu’un don de spectacle par test.  
 Voir la [[Dons de spectacle|liste des dons de spectacle]].
 
 {s:uc}{s:Reference|DONECOLE}
 #### Dons d'école
 Pendant des siècles, les plus grands combattants ont observé la nature et le multivers pour y puiser une inspiration guerrière. D’innombrables ordres monastiques et contemplatifs ont développé des écoles de combat à mains nues basées sur l’efficacité mortelle et la grâce de créatures naturelles ou non. Au départ, ces techniques étaient réservées à des ordres secrets mais, depuis, elles se sont répandues dans le monde entier.
 
-Par une [[action rapide]], le personnage peut adopter la posture de référence de l’école liée au don. Il ne peut pas utiliser de don d’école avant le début du combat mais il conserve la posture choisie jusqu’à ce qu’il dépense une action rapide pour changer d’école. Si une école particulière figure dans les conditions requises d’un don, le personnage doit obligatoirement se trouver dans la posture de cette école pour l’utiliser.
+Par une [[action rapide]], le personnage peut adopter la posture de référence de l’école liée au don. Il ne peut pas utiliser de don d’école avant le début du combat mais il conserve la posture choisie jusqu’à ce qu’il dépense une action rapide pour changer d’école. Si une école particulière figure dans les conditions requises d’un don, le personnage doit obligatoirement se trouver dans la posture de cette école pour l’utiliser. 
 ''Par exemple, si le personnage connaît des dons liés à l’École de la mante et à celle du tigre, il peut utiliser une
 action rapide pour adopter l’École du tigre au début de son tour puis utiliser d’autres dons qui exigent l’École du tigre comme condition requise. Au début du tour suivant, il peut dépenser une nouvelle action rapide pour adopter l’École de la mante et utiliser des dons associés à cette école.''
 
-Voici les écoles proposées ainsi que les chaines de don associées, c’est-à-dire des dons qui viennent compléter chacune d’elles.
+Voici les écoles proposées ainsi que les chaines de don associées, c’est-à-dire des dons qui viennent compléter chacune d’elles.  
 Voir la [[Dons décole|liste des dons d'école et chaines de dons qui en dérivent]].
 
 <div class="article_2col">
-{s:mca}**École du boxeur.** Cette école privilégie les coups de pied et de poing rapides, généralement lorsque le combattant tourne autour de son adversaire. Nombre de ces coups sont portés sur une même zone ou sur des parties du corps qui affaiblissent la cible, chaque coup réussi augmentant la douleur et les dégâts infligés.
+{s:mca}**École du boxeur.** Cette école privilégie les coups de pied et de poing rapides, généralement lorsque le combattant tourne autour de son adversaire. Nombre de ces coups sont portés sur une même zone ou sur des parties du corps qui affaiblissent la cible, chaque coup réussi augmentant la douleur et les dégâts infligés. 
 - *Chaîne de dons.* [[École du boxeur]], [[Danse du boxeur]], [[Maître boxeur]].
 
 {s:mca}**École du cogneur.** Les puissants et violents coups de pied et coups de poing sont visiblement la marque de fabrique de cette école. Sa philosophie martiale est profondément marquée par l’idée que porter un coup puissant au bon endroit fera suffisamment mal à l’adversaire pour l’envoyer au tapis.
@@ -247,7 +247,7 @@ Voir la [[Dons décole|liste des dons d'école et chaines de dons qui en dérive
 **École du singe.** L’École du singe est renommée pour sa vitesse et son agilité. Elle mêle le combat au sol aux coups portés lors d’un saut ou d’une roulade, lors d’une série d’assauts qui ne laissent aucun répit à l’adversaire, afin de le désorienter et de le blesser en tirant parti d’une mobilité supérieure.
 - *Chaîne de dons.* [[École du singe]], [[Mouvements du singe]], [[Éclat du singe]]
 
-**École du serpent.** L’École du serpent privilégie les mouvements rapides et changeants. Ses adeptes gardent les mains ouvertes, avec les doigts collés pour imiter la tête d’un serpent. Ils sont capables de frapper quand on s’y attend le moins, avec une vitesse fulgurante.
+**École du serpent.** L’École du serpent privilégie les mouvements rapides et changeants. Ses adeptes gardent les mains ouvertes, avec les doigts collés pour imiter la tête d’un serpent. Ils sont capables de frapper quand on s’y attend le moins, avec une vitesse fulgurante. 
 - *Chaîne de dons.* [[École du serpent]], [[Balancement du serpent]], [[Croc du serpent]]
 
 **École du tigre.** Cette école cherche à imiter la puissance et la fureur des grands tigres. Ses adeptes utilisent leurs mains comme des griffes et perfectionnent l’art des frappes doubles et des attaques en chaîne.

@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 50 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Il s’agit de l’outil parfait pour la tâche prévue. Il donne un bonus de circonstances de +2 au test de compétence associé (s’il y en a une). Les bonus accordés par plusieurs outils de maître ne se cumulent pas. Plusieurs objets ordinaires comptent déjà comme des outils de maître pour certaines compétences particulières. On compte le [[Laboratoire dalchimiste (objet)|labo d’alchimiste]], le [[Matériel descalade (objet)|matériel d’escalade]], la [[Trousse de déguisement (objet)|trousse de déguisement]], la [[Trousse de premiers secours (objet)|trousse de premiers secours]], les [[Instrument de musique (objet)|instruments de musique de maître]] et les [[Outils de cambrioleur (objet)|outils de cambrioleur de qualité supérieure]]. Il n’existe donc pas de matériel d’escalade de maître, de trousse de premiers secours de maître, etc. : ces objets représentent déjà le meilleur équipement pour les tests généraux de la compétence appropriée.  
   
 Certaines compétences n’ont pas d’outils spécifiques ou d’outils de maître : il n’existe aucun objet non-magique qui accorde un bonus à la compétence en question. Par exemple, ce n’est pas parce qu’un parfum est apprécié par les nobles d’une région (accordant un bonus de circonstances de +2 aux tests de [[Diplomatie]] faits pour les influencer) que ce parfum aura le même effet sur un membre de la guilde des voleurs, un berserker étranger ou une méduse. De la même manière, ce n’est pas parce qu’une fausse barbe peut accorder un bonus de circonstances de +2 aux tests d’[[Utilisation dobjets magiques|Utilisation d'objets magiques]] pour imiter un nain que cette barbe aura un quelconque effet sur l’utilisation de cette compétence pour activer des objets elfiques ou de paladins, ni pour déchiffrer un sort écrit.  

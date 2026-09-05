@@ -8,7 +8,7 @@ LastModified: 2024-06-02 17:54
 {s:BDTitre|Gants du guérisseur|{s:AE}}
 **Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 2.500 po ; **Poids** —
 (((Description)))
-Ces gants de cuir d’une blancheur immaculée sont couverts de symboles de guérison et de foi sur le dos de la main. Leur porteur gagne un bonus de compétence de +5 aux tests de [[Premiers secours]].
+Ces gants de cuir d’une blancheur immaculée sont couverts de symboles de guérison et de foi sur le dos de la main. Leur porteur gagne un bonus de compétence de +5 aux tests de [[Premiers secours]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit posséder 5 rangs au moins en [[Premiers secours]]  ; **Coût** 1.250 po
 </div>

@@ -10,13 +10,13 @@ Categories:
 {s:Menuarchétypeguerrier}{s:mca}*Il y a ceux qui apprennent les arts du combat en répétant leurs mouvements et en s’entraînant pendant des heures et des heures, et d’autres qui semblent adopter de nouvelles positions et styles martiaux comme s’ils étaient faits pour eux dès la naissance.*
 
 #### Flexibilité martiale (Ext).
-Au niveau 5, le maître martial peut effectuer une action de mouvement pour bénéficier des avantages d’un don de combat qu’il ne possède pas. Cet effet dure 1 minute. Le maître martial doit tout de même remplir toutes les conditions requises par le don choisi.
+Au niveau 5, le maître martial peut effectuer une action de mouvement pour bénéficier des avantages d’un don de combat qu’il ne possède pas. Cet effet dure 1 minute. Le maître martial doit tout de même remplir toutes les conditions requises par le don choisi. 
 
 Il peut utiliser cette aptitude un nombre de fois par jour égal à 3 + la moitié de son niveau de guerrier.
 
-Le maître martial peut utiliser cette aptitude à nouveau, avant la fin de sa durée, afin de remplacer le don de combat précédemment choisi par un autre.
+Le maître martial peut utiliser cette aptitude à nouveau, avant la fin de sa durée, afin de remplacer le don de combat précédemment choisi par un autre. 
 
-Si un don de combat comporte un nombre limité d’utilisations quotidiennes (comme Coup étourdissant),toutes les utilisations dépensées pendant l’utilisation de cette aptitude sont défalquées du nombre d’utilisations quotidiennes de ce don.
+Si un don de combat comporte un nombre limité d’utilisations quotidiennes (comme Coup étourdissant),toutes les utilisations dépensées pendant l’utilisation de cette aptitude sont défalquées du nombre d’utilisations quotidiennes de ce don. 
 
 Aux niveaux suivants, quand le maître martial gagne plusieurs dons grâce à cette aptitude, il peut utiliser ces dons pour remplir les conditions d’autres dons obtenus avec cette aptitude.
 
@@ -32,6 +32,6 @@ Au niveau 17, un maître martial peut utiliser cette aptitude pour bénéficier 
 immédiate ou de trois dons de combat par une action rapide.
 
 Au niveau 20, un maître martial peut utiliser cette aptitude pour bénéficier des avantages d’un nombre quelconque de dons
-de combat par une action rapide.
+de combat par une action rapide. 
 
 Cette aptitude remplace entraînement aux armes et maîtrise des armes.

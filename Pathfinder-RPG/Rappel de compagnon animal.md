@@ -8,28 +8,28 @@ Categories:
 - Sort rôdeur 4
 ---
 
-{s:UM}**École** [[invocation]]([[guérison]]); **Niveau** [[Druide|Dru]] 5, [[Paladin|Pal]] 4, [[Rôdeur|Rôd]] 4
-**Temps d’incantation** 1 minute
-**Composantes** [[Composantes|V, G, M]] (un diamant d’une valeur de 1000 po)
-**Portée** [[Présentation des sorts#PORTEE|contact]
-**Cible** un compagnon animal ou une monture lié mort
-**Durée** [[instantanée]]
+{s:UM}**École** [[invocation]]([[guérison]]); **Niveau** [[Druide|Dru]] 5, [[Paladin|Pal]] 4, [[Rôdeur|Rôd]] 4  
+**Temps d’incantation** 1 minute  
+**Composantes** [[Composantes|V, G, M]] (un diamant d’une valeur de 1000 po)  
+**Portée** [[Présentation des sorts#PORTEE|contact]  
+**Cible** un compagnon animal ou une monture lié mort  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** non (voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme un *[[rappel à la vie]]* mais affecte uniquement les compagnons animaux, les familiers et les montures des paladins.
 
 
 
 (((
 ## Rappel à la vie
-**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Chaman|Cham]] 6, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 minute
-**Composantes** [[composantes|V, G, M]] (diamant 5 000 po), [[composantes|FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature morte touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Chaman|Cham]] 6, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 minute  
+**Composantes** [[composantes|V, G, M]] (diamant 5 000 po), [[composantes|FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature morte touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort rend la vie au défunt. Il fonctionne uniquement sur les créatures mortes depuis peu (au maximum un jour par [[NLS|niveau de lanceur de sorts]]). De plus, l’âme concernée doit être libre et désireuse de revenir à la vie. Si elle refuse, le sort échoue automatiquement (c’est pourquoi il n’y a pas de [[jet de sauvegarde]]).
 
 Le retour à la vie est un véritable traumatisme. Le bénéficiaire du sort [[niveau négatif|perd automatiquement deux niveaux]] quand il revient à la vie, comme s’il avait été victime d’une [[absorption dénergie|absorption d’énergie]]. S’il est [[niveau]] 1, il perd 2 points de [[Constitution]] à la place. Si sa [[Constitution]] est alors censée tomber à 0 ou moins, il ne peut être rappelé d’entre les morts. Un personnage tué alors qu’il disposait encore de sorts préparés a 50 % de chances de conserver chacun d’eux. Les créatures qui ne préparent pas leurs sorts (comme les [[ensorceleur|ensorceleurs]]) ont 50 % de chances de perdre le bénéfice des emplacements de sorts inutilisés avant leur mort.

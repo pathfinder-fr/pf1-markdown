@@ -8,7 +8,7 @@ LastModified: 2024-05-31 23:08
 {s:BDTitre|Fers à cheval glorieux|{s:AE}}
 **Aura** [[Transmutation]] et [[Abjuration]] modérées ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 39 600 po ; **Poids** 6 kg
 (((Description)))
-De pointes acérées sont fixées à l’avant de ces lourds fers à cheval. Une fois par jour et sur commande, le cavalier d’une monture dotée de ces fers peut décider d’augmenter la taille de sa monture d’une catégorie de taille (TG au maximum) ou de changer son type pour en faire une créature magique comme le ferait le sort *[[forme bestiale IV]]*. De plus, lorsque la monture bénéficie de l’un ou l’autre de ces effets, elle gagne une [[RD]] 5/Chaos, Mal, Bien ou Loi (déterminée par le cavalier). Le cheval doit être équipé des quatre fers pour que leur magie fasse effet.
+De pointes acérées sont fixées à l’avant de ces lourds fers à cheval. Une fois par jour et sur commande, le cavalier d’une monture dotée de ces fers peut décider d’augmenter la taille de sa monture d’une catégorie de taille (TG au maximum) ou de changer son type pour en faire une créature magique comme le ferait le sort *[[forme bestiale IV]]*. De plus, lorsque la monture bénéficie de l’un ou l’autre de ces effets, elle gagne une [[RD]] 5/Chaos, Mal, Bien ou Loi (déterminée par le cavalier). Le cheval doit être équipé des quatre fers pour que leur magie fasse effet. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale IV]]*, *[[protection contre le Chaos]]*/Mal/Bien/Loi ; **Coût** 19 800 po
 </div>

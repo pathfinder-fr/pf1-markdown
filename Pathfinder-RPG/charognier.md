@@ -45,10 +45,10 @@ LastModified: 2016-12-01 21:40
 </td><td><div>
 *Composé de divers bouts de corps à moitié formés, cette créature se dresse sur deux jambes des plus étranges. Sa gueule arbore des dents déchiquetées et une langue dégoulinante de salive.*
 
-Les charogniers sont des masses difformes de chairs, d’appendices et de gueules qui claquent. Ces rejetons incomplets du péché sont pratiquement immortels, n’ont besoin que de peu de subsistance pour entretenir leur physiologie contre-nature et ne semblent pas évoluer passé le moment de leur création. Les charogniers suivent les véritables rejetons du péché comme des animaux de compagnie ou comme des enfants curieux. Les rejetons du péché utilisent ces créatures plus faibles comme des esclaves, des troupes et des bêtes de chasse. Malgré la manière dont leurs cousins plus grands et plus évolués les traitent, les charogniers n’en recherchent pas moins leur compagnie.
+Les charogniers sont des masses difformes de chairs, d’appendices et de gueules qui claquent. Ces rejetons incomplets du péché sont pratiquement immortels, n’ont besoin que de peu de subsistance pour entretenir leur physiologie contre-nature et ne semblent pas évoluer passé le moment de leur création. Les charogniers suivent les véritables rejetons du péché comme des animaux de compagnie ou comme des enfants curieux. Les rejetons du péché utilisent ces créatures plus faibles comme des esclaves, des troupes et des bêtes de chasse. Malgré la manière dont leurs cousins plus grands et plus évolués les traitent, les charogniers n’en recherchent pas moins leur compagnie. 
 
-Leur apparence varie grandement de l’un à l’autre, en fonction de facteurs tels que les  péchés qui sont à l’origine de leur création.
-Les charogniers de la colère prennent une forme plus prédatrice que les charogniers de la luxure, et les charogniers de la paresse ne sont guère plus que des amas de chair boursouflée montés sur des pattes trapues.
+Leur apparence varie grandement de l’un à l’autre, en fonction de facteurs tels que les  péchés qui sont à l’origine de leur création. 
+Les charogniers de la colère prennent une forme plus prédatrice que les charogniers de la luxure, et les charogniers de la paresse ne sont guère plus que des amas de chair boursouflée montés sur des pattes trapues. 
 
 La plupart des charogniers mesurent entre 90 centimètres et 1,20 mètre et pèsent une trentaine de kilos. Les charogniers de l’avarice sont les plus grands tandis que les charogniers de la paresse sont es plus lourds.
 

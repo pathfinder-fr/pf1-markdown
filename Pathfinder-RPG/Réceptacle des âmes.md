@@ -56,7 +56,7 @@ Categories:
 *Des veines luisantes d’énergie verdâtre strient cette statue de marbre blanc représentant une humaine chauve.*
 
 On fabrique un réceptacle des âmes avec du marbre, une pierre précieuse d’une valeur de 5 000 po qui sert de focaliseur d’âme et l’âme d’un lanceur de sorts volontaire de niveau 12 au moins qui meurt au moment crucial du processus de création, ce qui
-anime le réceptacle de pierre.
+anime le réceptacle de pierre. 
 
 ### Construction
 **NLS** 12 ; **Prix** 115 000 po

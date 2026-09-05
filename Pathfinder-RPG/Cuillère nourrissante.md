@@ -8,7 +8,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cuillère nourrissante|{s:AE}}
-**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5 400 po ; **Poids** —
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5 400 po ; **Poids** — 
 (((Description)))
 Si cet ustensile de table d’apparence anodine est placé dans un récipient vide, celui-ci se remplit d’un épais gruau, aussi immonde que nourrissant. Même s’il donne l’impression de mâcher du carton tiède détrempé, il contient tous les éléments nécessaires pour subvenir aux besoins d’une créature herbivore, carnivore ou omnivore. Chaque jour, la cuillère peut en produire assez pour nourrir jusqu’à quatre humains.
 (((Création)))

@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:06
 {s:BDTitre|Calotte de lumière|{s:AE}}
 **Aura** [[Évocation]] faible  ; **NLS** 1  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 900 po ; **Poids** —
 (((Description)))
-Cette petite calotte de tissu ressemble à celle que portent certains prêtres mais une petite figurine d’argent en forme de bougie allumée orne son sommet. Le porteur peut prononcer un mot de commande pour que la figurine émette une *[[lumière]]* identique à celle produite par le sort du même nom. La *[[lumière]]* peut également s’éteindre sur commande.
+Cette petite calotte de tissu ressemble à celle que portent certains prêtres mais une petite figurine d’argent en forme de bougie allumée orne son sommet. Le porteur peut prononcer un mot de commande pour que la figurine émette une *[[lumière]]* identique à celle produite par le sort du même nom. La *[[lumière]]* peut également s’éteindre sur commande. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[lumière]]*  ; **Coût** 450 po
 </div>

@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 pa ; **Poids** —
+{s:cs}{s:AA}**Prix** 1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Ce thé mousseux fabriqué à partir des feuilles triangulaires et blanches du théier nocturne rend une femelle humanoïde stérile s’il est bu tous les jours. À fortes doses, il peut être en mesure de mettre fin à une grossesse.

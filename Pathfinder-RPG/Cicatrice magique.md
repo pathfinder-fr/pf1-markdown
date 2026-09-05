@@ -9,11 +9,11 @@ Categories:
 - Sort prêtre 8
 ---
 
-{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une pincée de sable du désert de la Cicatrice magique)
-**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau)
-**Zone d'effet** deux cubes de 3 m de côté par niveau (F)
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une pincée de sable du désert de la Cicatrice magique)  
+**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau)  
+**Zone d'effet** deux cubes de 3 m de côté par niveau (F)  
 **Durée** 10 minutes/niveau (T)
 
 *Ce sort puissant invoque le même type de dévastation magique à l’origine de la Désolation de mana il y a fort longtemps. Celle-ci est toutefois beaucoup plus localisée et heureusement temporaire.*

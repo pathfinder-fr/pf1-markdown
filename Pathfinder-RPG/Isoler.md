@@ -16,12 +16,12 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[gobelours]].**
 
-**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Antipaladin|Apal]] 3, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** créature touchée
-**Durée** 1 round/[[niveau]] (T)
+**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Antipaladin|Apal]] 3, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** 1 round/[[niveau]] (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 La cible devient [[invisible]] et silencieuse mais seulement vis-à-vis de ses alliés. Les créatures ayant une attitude indifférente ou pire à son égard la voient normalement, tout comme toutes celles qui lui veulent du mal. La cible se voit et s’entend normalement, elle peut utiliser des sorts à composante verbale et des mots de commande mais tous les effets exigeant que ses alliés la voient ou l’entendent cessent de fonctionner. Un allié capable de voir les créatures invisibles voit et entend la cible d’isoler normalement. Si la cible réussit son [[jds|jet de sauvegarde]], la durée du sort est réduite à 1 round.

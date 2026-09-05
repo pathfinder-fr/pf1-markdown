@@ -16,7 +16,7 @@ entre Hercule et Dionysos, de faire une rencontre avec des décadents comme les 
 ### Les drogues
 Les drogues sont des éléments alchimiques qui ont un effet sur leur utilisateur. Elles se différencient des autres objets de même type en ce qu’elles ont une action à court terme (généralement bénéfique) et infligent un certain montant de dégâts. De plus, les consommateurs de drogues risquent de devenir dépendants, ce qui fonctionne comme une [[maladie]] d’une gravité qui varie en fonction du type de drogue utilisée.
 
-Quand un personnage prend une drogue, il bénéficie immédiatement de ses effets, subit un [[affaiblissement de caractéristique]] et doit faire un jet de [[Vigueur]] pour ne pas devenir dépendant.
+Quand un personnage prend une drogue, il bénéficie immédiatement de ses effets, subit un [[affaiblissement de caractéristique]] et doit faire un jet de [[Vigueur]] pour ne pas devenir dépendant. 
 
 L’effet initial représente la modification que la drogue exerce sur le physique ou le mental, tandis que l’affaiblissement symbolise les effets secondaires et le temps pendant lequel la dose reste active dans l’organisme. Comme les affaiblissements de caractéristique guérissent au rythme de 1 point par jour, une drogue qui cause 1 point d’affaiblissement reste dans le corps du personnage pendant une journée mais d’autres persistent plus longtemps et infligent donc plus de dégâts. La prise simultanée de plusieurs doses apporte rarement le moindre avantage mais si le personnage en prend une nouvelle quand les effets de la première se dissipent, ces effets se renouvellent. En revanche, l’affaiblissement de caractéristique augmente et le risque de dépendance est encore plus élevé.
 

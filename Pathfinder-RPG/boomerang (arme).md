@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 9 m (6 c) ; **Type** C ; **Spécial** voir texte
+{s:AE}**Prix** 3 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 9 m (6 c) ; **Type** C ; **Spécial** voir texte  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Le boomerang est avant tout un outil de chasse mais il n’est pas rare que ces armes polyvalentes soient utilisées sur le champ de bataille. Le boomerang est fait de bois, il est plat avec un long manche, une forme incurvée et une courbe rétrograde prononcée au bout. Le boomerang de chasse ne revient pas vers son lanceur.

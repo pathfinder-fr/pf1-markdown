@@ -62,9 +62,9 @@ Categories:
 
 </div>*Deux yeux globuleux dominent la tête de crapaud de cette créature à la peau verte recouverte de verrues et de protubérances.*
 
-Les bourbiérins ressemblent à des hommes-crapauds ou à des hommes-grenouilles dotés de mains et de pieds palmés, de grands yeux et de bouches démesurément larges. Ces créatures s’installent près des grandes rivières ou dans les profondeurs des marais. Elles construisent de petits villages composés de monticules de boue sur les rives des fleuves.
+Les bourbiérins ressemblent à des hommes-crapauds ou à des hommes-grenouilles dotés de mains et de pieds palmés, de grands yeux et de bouches démesurément larges. Ces créatures s’installent près des grandes rivières ou dans les profondeurs des marais. Elles construisent de petits villages composés de monticules de boue sur les rives des fleuves. 
 
-Les bourbiérins naissent sous forme de têtards dans des étangs de reproduction puis grandissent jusqu’à atteindre 90 cm de longueur avant de développer des bras et des jambes et de pouvoir vivre sur terre. Arrivés à ce stade, les jeunes bourbiérins doivent chasser et tuer un humanoïde pour être acceptés dans le clan. Ceux qui échouent sont exilés.
+Les bourbiérins naissent sous forme de têtards dans des étangs de reproduction puis grandissent jusqu’à atteindre 90 cm de longueur avant de développer des bras et des jambes et de pouvoir vivre sur terre. Arrivés à ce stade, les jeunes bourbiérins doivent chasser et tuer un humanoïde pour être acceptés dans le clan. Ceux qui échouent sont exilés. 
 
 En vieillissant, les bourbiérins continuent de grandir et se décolorent peu à peu. Les bourbiérins exceptionnellement âgés possèdent une peau entièrement blanche et sont très corpulents. Certains de ces individus font partie de la caste des prêtres-rois et mènent une vie de plaisirs macabres à la tête de leur clan.
 

@@ -61,7 +61,7 @@ et connaissent les chemins (souvent mortels) qui conduisent vers de
 vastes butins. En l’absence d’intervention extérieure, les repaires de
 ces diables sont souvent décorés de trophées provenant d’anciennes
 victimes, percés et épinglés aux murs tachés de sang, à la manière
-d’une collection d’insectes macabre.
+d’une collection d’insectes macabre. 
 
 La plupart des diables barbelés
 mesurent plus de 2,10 mètres de hauteur et pèsent 150 kg. Les épines

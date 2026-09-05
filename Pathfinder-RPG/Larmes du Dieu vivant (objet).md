@@ -7,9 +7,9 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**Prix** 25 po ; **Poids** —
+{s:CCMI}**Prix** 25 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Les fidèles du [[Golarion.Razmir|Dieu vivant]] disposent d'un certain nombre d'outils pour contrôler la population locale, mais aucun n'est plus insidieux que les larmes du Dieu vivant. Cette décoction contient bon nombre de narcotiques doux et de substances hallucinogènes qui augmentent l'énergie du buveur et renforce sa résistance à la douleur. Elle provoque une [[Drogues#DÉPENDANCE|forte dépendance]]. Bien que le clergé offre des larmes du Dieu vivant aux personnes qui ne sont pas encore dépendantes, il finit toujours par exiger un paiement et demande jusqu'à 10 po la dose aux drogués les plus riches.
 
 <div class="BD">

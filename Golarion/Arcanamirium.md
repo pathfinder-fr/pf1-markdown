@@ -12,7 +12,7 @@ Categories:
 L'Arcanamirium a été fondé par les [[Archi-seigneurs du Nex]] peu de temps après qu'ils aient formé un bloc puissant pour remplir le vide causé par la disparition de l'Archimage Nex. Depuis cette époque, elle est devenue l'un des lieux les plus visités du quartier de la Sagesse à [[Absalom]] et le centre non gouvernemental le plus influent de la ville.
 
 ### Structure
-L'école est dirigée par le Premier Seigneur des Sorts, un fonctionnaire appointé qui est responsable de toutes les questions concernant la magie à [[Absalom]] et dans ses dépendances. Une hiérarchie strict au sein du corps étudiant permet d'assurer que les élèves, déjà séparés par leurs capacités et leur expérience, servent en tant que journaliers, ce qui leur permettra d'apprendre sur le terrain et de payer le prix exorbitant de leur formation.
+L'école est dirigée par le Premier Seigneur des Sorts, un fonctionnaire appointé qui est responsable de toutes les questions concernant la magie à [[Absalom]] et dans ses dépendances. Une hiérarchie strict au sein du corps étudiant permet d'assurer que les élèves, déjà séparés par leurs capacités et leur expérience, servent en tant que journaliers, ce qui leur permettra d'apprendre sur le terrain et de payer le prix exorbitant de leur formation. 
 
 Chaque lanceur de sort titulaire d'un enseignement à l'école peut prendre sous son aile un étudiant par an. Ces étudiants se voient attribués des quartiers de résidence avec un confort basique et un équipement de seconde main, mais en échange, leur formation est gratuite. De même, les membres itinérants de l'école sont connus pour payer (en avance) les frais éducatifs de quelques étudiants prometteurs découverts à l'étranger.
 

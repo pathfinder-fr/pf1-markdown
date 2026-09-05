@@ -42,7 +42,7 @@ Categories:
 de [[poussière scintillante]]*, *[[baguettes magiques|baguette]] de [[soins légers]]'' (20 charges)
 ; **Équipement divers** [[chemise de mailles (armure)|chemise de mailles de maître]], [[javeline (arme)|javelines]] (6), [[cimeterre (arme)|cimeterre de maître]], *[[cape de résistance|cape de résistance +1]]*, [[Instrument de musique (objet)|tambour de guerre de maître]], 129 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pa (modeste), 5 pa (moyenne), 2 po (bonne), 4 po (suite, petite), 16 po (suite, moyenne), 32 po+ (suite, de luxe)
+{s:AE}**Prix** 2 pa (modeste), 5 pa (moyenne), 2 po (bonne), 4 po (suite, petite), 16 po (suite, moyenne), 32 po+ (suite, de luxe)  
 <span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
----
+<hr />
 Le prix est indiqué pour une nuit en auberge. Les logements modestes offrent une place à même le sol, près d’une cheminée. Les logements standards offrent une place surélevée, un sol chauffé ainsi qu’une couverture et un oreiller. Les logements de qualité offrent une petite chambre privée avec un lit, certaines commodités et un pot de chambre couvert.  
   
 *Les suites*. Uniquement disponible dans les auberges les plus grandes et les plus luxueuses, la suite comprend la location d’une chambre et d’une petite salle de bain privée. Une petite suite possède une cheminée et un cadenas moyen à l’entrée principale. Une suite moyenne comporte une cheminée, un [[Cadenas (objet)|bon cadenas]] à l’entrée principale et deux grandes chambres ou trois ou quatre plus petites, ainsi que des serviteurs à disposition pour nettoyer, cuisiner, aider à s’habiller ou transmettre des messages.

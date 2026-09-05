@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi la [[Liste des sorts dantipaladin|liste des sorts d'antipaladin]].***
+<div class="fright">***Voir aussi la [[Liste des sorts dantipaladin|liste des sorts d'antipaladin]].***  
 {s:PM0|antipaladin}**Voir les archétypes de l'antipaladin.**&emsp;
 <li ID="antipaladin" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypepaladin}</li>
 </div>{s:apg}''Cela ne se produit que rarement, mais certains paladins s’éloignent du chemin de la vertu. La plupart de ces guerriers saints égarés cherchent la rédemption et le pardon pour leurs mauvaises actions et récupèrent ensuite leurs pouvoirs en usant de piété, de charité et de puissants sortilèges. Mais ce n’est pas le cas de tous : afin d’assouvir leur désir de vengeance envers leurs anciens frères, de rares individus suffisamment sombres et dérangés s’adonnent activement au Mal et se tournent vers les puissances maléfiques qu’ils avaient autrefois combattues. Une maxime dit que, plus on s’élève et plus sévère sera la chute. Les antipaladins sont la preuve vivante que c’est bien la vérité : leur fierté et leur haine les rendent aveugles à la gloire des puissances qu’ils ont reniées.

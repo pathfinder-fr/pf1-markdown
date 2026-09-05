@@ -14,5 +14,5 @@ Categories:
 (((Description)))
 Ce simple anneau en cuivre est une bénédiction pour celui qui passe sa vie à soigner les autres. Lorsque le porteur d’un anneau de soins lance un sort d’invocation du registre guérison, le montant maximum des soins (basé sur le niveau) augmente de 2. Par exemple, un sort de [[soins légers]] autorise un maximum de 1d8+7 pv (au niveau 7), tandis qu’un sort de [[guérison suprême]] soigne un maximum de 170 points de dégâts. Cet anneau n’augmente pas le niveau de lanceur réel du porteur ni le nombre de soins basés sur le niveau qu’autorise ce genre de sorts.
 (((Création)))
-**Conditions** [[Augmentation dintensité|Augmentation d’intensité]], [[Création danneaux magiques|Création d'anneaux magiques]], *[[consécration]]* ; **Coût** 5 000 po
+**Conditions** [[Augmentation dintensité|Augmentation d’intensité]], [[Création danneaux magiques|Création d'anneaux magiques]], *[[consécration]]* ; **Coût** 5 000 po 
 </div>

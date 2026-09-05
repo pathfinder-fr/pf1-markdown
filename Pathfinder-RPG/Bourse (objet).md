@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
+{s:AE}**Prix** 1 po ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Une bourse standard en cuir ou en tissu est pourvue d'une cordelette en cuir permettant de la fermer et d'une autre pour la fixer à la ceinture. Elle est suffisamment grande pour contenir 100 à 200 pièces ou deux pommes.

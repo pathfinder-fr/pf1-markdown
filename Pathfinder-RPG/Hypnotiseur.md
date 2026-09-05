@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi les [[Inductions|inductions d'hypnotiseur]].***
-***Voir aussi la [[liste des sorts dhypnotiseur|liste des sorts d'hypnotiseur]].***
+<div class="fright">***Voir aussi les [[Inductions|inductions d'hypnotiseur]].***  
+***Voir aussi la [[liste des sorts dhypnotiseur|liste des sorts d'hypnotiseur]].***  
 {s:PM0|hypnotiseur}**Voir les archétypes d'hypnotiseur**&emsp;
 <li ID="hypnotiseur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypehypnotiseur}</li>
 </div>{s:AO}*Experts en matière de charme et de duperie, les hypnotiseurs contraignent autrui à écouter ce qu’ils ont à dire et à se plier à leur volonté. Les pouvoirs psychiques, surtout ceux d’enchantement et d’illusion, offrent aux hypnotiseurs les outils nécessaires pour manipuler autrui, souvent pour accomplir leurs propres desseins. Le regard d’un personnage de cette classe peut hypnotiser quelqu’un pour l’obliger à obéir. Les hypnotiseurs développent souvent le culte de leur propre personnalité, ainsi que des compétences et des plans de secours au cas où leurs manigances seraient découvertes. Ils puisent leur magie du plan Astral et beaucoup considèrent leur esprit comme un conduit d’accès vers des espaces énigmatiques et incompréhensibles.*
@@ -394,7 +394,7 @@ Les hypnotiseurs sont formés au maniement de toutes les [[arme courante|armes c
   <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
 </table>
 
-</div></div>Un hypnotiseur peut lancer des sorts psychiques appartenant à la [[liste des sorts dhypnotiseur|liste des sorts d’hypnotiseur]]. Il peut lancer les sorts qu’il connaît sans devoir les préparer à l’avance. Pour apprendre ou lancer un sort, l’hypnotiseur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD|degré de difficulté]] des [[jet de sauvegarde|jets de sauvegarde]] contre ses sorts est égal à 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Charisme]] de l’hypnotiseur.
+</div></div>Un hypnotiseur peut lancer des sorts psychiques appartenant à la [[liste des sorts dhypnotiseur|liste des sorts d’hypnotiseur]]. Il peut lancer les sorts qu’il connaît sans devoir les préparer à l’avance. Pour apprendre ou lancer un sort, l’hypnotiseur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD|degré de difficulté]] des [[jet de sauvegarde|jets de sauvegarde]] contre ses sorts est égal à 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Charisme]] de l’hypnotiseur. 
 
 Un hypnotiseur ne peut lancer qu’un nombre limité de sorts de chaque niveau quotidiennement. Son quota quotidien d’emplacements de sort de base est indiqué dans la table "[[hypnotiseur#TABLEHYPNOTISEUR|L'hypnotiseur]]". En plus de ce quota, il reçoit des sorts quotidiens en bonus s’il possède une valeur de [[Charisme]] élevée (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
@@ -410,15 +410,15 @@ Le personnage ajoute la moitié de son niveau d’hypnotiseur (1 au minimum) en 
 
 {s:Reference|REGARDHYPNOTIQUE}
 #### Regard hypnotique (Sur)
-Par une [[action rapide]], un hypnotiseur peut river son regard sur une créature située à 9 mètres (6 {s:c}) ou moins. Cette créature subit un malus de -2 aux jets de [[Volonté]]. Ce malus passe à -3 au niveau 8. Un hypnotiseur peut fixer du regard une seule créature à la fois et les effets persistent jusqu’à ce qu’il décide de river son regard sur une autre créature, si la créature ciblée meurt, si elle s’éloigne à plus de 9 mètres de l’hypnotiseur ou si ce dernier meurt ou tombe [[inconscient]].
+Par une [[action rapide]], un hypnotiseur peut river son regard sur une créature située à 9 mètres (6 {s:c}) ou moins. Cette créature subit un malus de -2 aux jets de [[Volonté]]. Ce malus passe à -3 au niveau 8. Un hypnotiseur peut fixer du regard une seule créature à la fois et les effets persistent jusqu’à ce qu’il décide de river son regard sur une autre créature, si la créature ciblée meurt, si elle s’éloigne à plus de 9 mètres de l’hypnotiseur ou si ce dernier meurt ou tombe [[inconscient]]. 
 
-L’hypnotiseur peut effacer de l’esprit de la cible le souvenir de son regard ; la créature ne se souvient pas du moment où le regard l’a affectée (elle n’a pas plus conscience qu’elle est actuellement sous son emprise) à moins que l’hypnotiseur ne l’y autorise. Le regard hypnotique produit un effet psychique qui repose plus sur la concentration de l’hypnotiseur que sur la perception de son regard par la cible. Il est donc impossible de l’éviter en appliquant les mêmes méthodes que celles appliquées pour éviter une attaque de regard.
+L’hypnotiseur peut effacer de l’esprit de la cible le souvenir de son regard ; la créature ne se souvient pas du moment où le regard l’a affectée (elle n’a pas plus conscience qu’elle est actuellement sous son emprise) à moins que l’hypnotiseur ne l’y autorise. Le regard hypnotique produit un effet psychique qui repose plus sur la concentration de l’hypnotiseur que sur la perception de son regard par la cible. Il est donc impossible de l’éviter en appliquant les mêmes méthodes que celles appliquées pour éviter une attaque de regard. 
 
 L’hypnotiseur peut utiliser cette aptitude même [[aveuglé]] mais, le cas échéant, il doit réussir un test de concentration contre un [[DD]] 20. River son regard sur une créature nécessite une certaine concentration et, s’il utilise une attaque de regard ou un pouvoir similaire, il doit cibler la créature qu’il fixe du regard. Dans le cas contraire, il met volontairement fin au regard hypnotique. Les malus infligés par les regards de plusieurs hypnotiseurs ou les maléfices de mauvais oeil des sorcières ne se cumulent pas. C’est un effet mental.
 
 {s:Reference|ASTUCES}
 #### Astuces
-Les hypnotiseurs apprennent un certain nombre d’astuces, ou sorts de niveau 0, comme indiqué dans la table ci-contre. Ces sorts se lancent normalement mais aucun emplacement n’est dépensé lors de leur incantation et ils peuvent donc être utilisés autant de fois que souhaité.
+Les hypnotiseurs apprennent un certain nombre d’astuces, ou sorts de niveau 0, comme indiqué dans la table ci-contre. Ces sorts se lancent normalement mais aucun emplacement n’est dépensé lors de leur incantation et ils peuvent donc être utilisés autant de fois que souhaité. 
 
 Les astuces lancées en utilisant d’autres emplacements de sort, à cause de dons de métamagie par exemple, dépensent ces emplacements comme à l’accoutumée.
 
@@ -466,11 +466,11 @@ Les regards anti-diables peuvent être sélectionnés à partir du niveau 3 comm
 
 {s:Reference|PALPATIONCURATIVE}
 #### Palpation curative (Sur)
-Au niveau 3, l’hypnotiseur peut aider ses alliés en soignant les [[États préjudiciables]] dont ils sont affublés, surtout ceux qui affectent l’esprit, en canalisant de l’énergie psychique et curative dans ses mains. Il peut utiliser la palpation curative un nombre de fois par jour égal à 3 + son modificateur de [[Charisme]]. Il lui faut accomplir une [[action simple]] pour utiliser cette aptitude (ou une [[action rapide]] si l’hypnotiseur l’utilise sur lui-même) et l’hypnotiseur doit pouvoir toucher sa cible. Il peut supprimer un état préjudiciable dont est affublée sa cible chaque fois qu’il utilise cette aptitude.
+Au niveau 3, l’hypnotiseur peut aider ses alliés en soignant les [[États préjudiciables]] dont ils sont affublés, surtout ceux qui affectent l’esprit, en canalisant de l’énergie psychique et curative dans ses mains. Il peut utiliser la palpation curative un nombre de fois par jour égal à 3 + son modificateur de [[Charisme]]. Il lui faut accomplir une [[action simple]] pour utiliser cette aptitude (ou une [[action rapide]] si l’hypnotiseur l’utilise sur lui-même) et l’hypnotiseur doit pouvoir toucher sa cible. Il peut supprimer un état préjudiciable dont est affublée sa cible chaque fois qu’il utilise cette aptitude. 
 
-Au niveau 3, il peut soigner un des états indiqués dans la liste des états préjudiciables mineurs.
+Au niveau 3, il peut soigner un des états indiqués dans la liste des états préjudiciables mineurs. 
 
-Au niveau 6, il peut soigner un des états indiqués dans la liste des états préjudiciables mineurs et modérés.
+Au niveau 6, il peut soigner un des états indiqués dans la liste des états préjudiciables mineurs et modérés. 
 
 Au niveau 10, il peut soigner un des états indiqués dans la liste des états préjudiciables mineurs, modérés et critiques.
 - *États préjudiciables mineurs* : fasciné, secoué.
@@ -485,9 +485,9 @@ Au niveau 5, l’hypnotiseur peut maintenir deux inductions implantées en même
 
 {s:Reference|PUISSANCEMENTALE}
 #### Puissance mentale (Ext)
-Au niveau 5, les effets mentaux de l’hypnotiseur affectent des créatures plus puissantes ou un plus grand nombre de créatures. La limite de [[DV]] et le nombre total de DV affectés par chaque sort d’enchantement ou d’illusion qu’il lance augmentent de 1.
+Au niveau 5, les effets mentaux de l’hypnotiseur affectent des créatures plus puissantes ou un plus grand nombre de créatures. La limite de [[DV]] et le nombre total de DV affectés par chaque sort d’enchantement ou d’illusion qu’il lance augmentent de 1. 
 
-Dans le cas des sorts d’enchantement et d’illusion qui ciblent plus d’une créature, le nombre de créatures affectées augmente également de 1 (ainsi, un sort qui cible une créature par niveau est affecté par cette aptitude, mais pas un sort qui ne cible qu’une seule créature). Par exemple, un hypnotiseur de niveau 5 peut affecter 5 DV de créatures avec un sort de *[[sommeil]]*, 2d4+1 DV de créatures avec un sort d’*[[hypnose]]* et changer les catégories du sort *[[couleurs dansantes]]* en « 3 DV ou moins », « 4 ou 5 DV » et « 6 DV ou plus ».
+Dans le cas des sorts d’enchantement et d’illusion qui ciblent plus d’une créature, le nombre de créatures affectées augmente également de 1 (ainsi, un sort qui cible une créature par niveau est affecté par cette aptitude, mais pas un sort qui ne cible qu’une seule créature). Par exemple, un hypnotiseur de niveau 5 peut affecter 5 DV de créatures avec un sort de *[[sommeil]]*, 2d4+1 DV de créatures avec un sort d’*[[hypnose]]* et changer les catégories du sort *[[couleurs dansantes]]* en « 3 DV ou moins », « 4 ou 5 DV » et « 6 DV ou plus ». 
 
 Le nombre supplémentaire de DV ou de créatures augmente encore de 1 tous les 5 niveaux au-delà du 5<sup>ème</sup>, jusqu’à une augmentation maximale de 4 au niveau 20.
 
@@ -503,8 +503,8 @@ Au niveau 12, un hypnotiseur peut choisir une des inductions de maître hypnotis
 
 {s:Reference|SUPRÉMATIEMENTALE}
 #### Suprématie mentale (Sur)
-Au niveau 20, un hypnotiseur peut définitivement dominer l’esprit d’une créature. Pendant qu’il rive son regard hypnotique sur une cible, s’il parvient à l’affecter avec un sort d’enchantement qui autorise un [[jds|jet de sauvegarde]], il peut l’obliger à effectuer un second jet de [[Volonté]] contre un DD égal à celui du sort.
+Au niveau 20, un hypnotiseur peut définitivement dominer l’esprit d’une créature. Pendant qu’il rive son regard hypnotique sur une cible, s’il parvient à l’affecter avec un sort d’enchantement qui autorise un [[jds|jet de sauvegarde]], il peut l’obliger à effectuer un second jet de [[Volonté]] contre un DD égal à celui du sort. 
 
-Le DD est réduit de 5 points si la cible n’est pas une créature humanoïde. Si la créature rate ce jet, elle devient l’esclave permanent de l’hypnotiseur (comme avec une *[[domination]]*) jusqu’à ce que celui-ci meure. Si elle réussit son [[jds|jet de sauvegarde]], elle ne peut plus être de nouveau affectée par la suprématie mentale pendant 24 heures.
+Le DD est réduit de 5 points si la cible n’est pas une créature humanoïde. Si la créature rate ce jet, elle devient l’esclave permanent de l’hypnotiseur (comme avec une *[[domination]]*) jusqu’à ce que celui-ci meure. Si elle réussit son [[jds|jet de sauvegarde]], elle ne peut plus être de nouveau affectée par la suprématie mentale pendant 24 heures. 
 
 Un hypnotiseur ne peut posséder qu’une créature dominée de cette façon. S’il domine une autre créature, la précédente est libérée de son emprise mais n’a aucunement conscience de ce qui lui est arrivé.

@@ -9,11 +9,11 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion, effet mental, terreur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 8
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[personnelle]]
-**Cible** le personnage
+{s:cs}{s:OO}**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion, effet mental, terreur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 8  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[personnelle]]  
+**Cible** le personnage  
 **Durée** 1 [[round]]/[[niveau]] (T)
 
 Le personnage enveloppe son esprit dans une illusion de doutes paralysants qui assaillent quiconque oserait le blesser. Lorsqu'une créature adjacente au personnage l'attaque ou tente de lui imposer un effet néfaste,  elle doit réussir un jet de [[Volonté]] alors que ces illusions d'incertitude pénètrent son esprit. Les effets déjà actifs ne déclenchent le manteau que si la créature cible consciemment le personnage. Une créature donnée doit lancer un seul [[jds|jet de sauvegarde]] contre le *manteau de doutes* au plus à chaque [[round]]. Si l'attaque ou l'effet de la créature qui cible le personnage est un sort ou un pouvoir magique psychique, elle subit un malus de -4 à son jet de sauvegarde. Une créature rate son jet contre le *manteau de doutes* est affectée pendant 1d4+1 rounds, durant lesquels elle est [[secoué|secouée]], incapable de [[prendre en tenaille]], et ne menace plus les créatures dans son espace contrôlé. De plus, elle subit un malus de -2 à ses jets de sauvegarde contre les effets mentaux, qui se cumule avec les malus de l'état préjudiciable secoué. Si le *manteau de doutes* du personnage affecte une créature qui est déjà secouée, son niveau de terreur n'est pas augmenté. À la place, les illusions la harcèlent pendant 1 round et lui infligent 1d4 points d’[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de [[Sagesse]] et de [[Charisme]].

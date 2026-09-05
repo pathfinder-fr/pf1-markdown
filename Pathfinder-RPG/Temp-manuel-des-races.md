@@ -138,7 +138,7 @@ Reste à créer les ancres pour de futures redirections à partir des pages des 
 ### Dons
 [[dons raciaux]] regroupés reste à intégrer les dons raciaux des précédents manuels
 
-une page par nouveau don
+une page par nouveau don 
 Pour chaque don ensuite, il faut procéder en 6 étapes :
 - placer le snippet {mr} en préambule
 - placer la phrase de présentation avant l'effet mécanique en italiques
@@ -158,20 +158,20 @@ Dons raciaux des races de base ajoutés à leur page respectives conformément �
 ### Sorts
 une page par sort - Mettre ici le lien vers la page. Les sorts seront intégrés ensuite à la liste des sorts par classe et à la liste générale des sorts.
 <div class="article_2col">
-====Sorts demi-elfe==== créés et liés (Légoian)
+====Sorts demi-elfe==== créés et liés (Légoian) 
 - [[grâce urbaine]]
 - [[parangon soudain]]
 - [[réservoir de résilience]]
 - [[sommeil de lamnésique|sommeil de l'amnésique]]
 
-====Sorts demi-orque==== créés et liés (Légoian)
+====Sorts demi-orque==== créés et liés (Légoian) 
 - [[briser les lignes ennemies]]
 - [[extraction du demi-sang]]
 - [[loup fantomatique]]
 - [[mâchoire féroce]]
 - [[transe guerrière]]
 
-====Sorts elfe==== créés et liés (Légoian)
+====Sorts elfe==== créés et liés (Légoian) 
 - [[caméléon]]
 - [[protégé de la saison]]
 - [[sages murmures]]
@@ -918,7 +918,7 @@ Intégration à la liste des sorts et à la liste des sorts par classe. Il ne fa
 
 Modifier les snippets des menus pour les nouvelles options et pour corriger les erreurs de liens (exemple Dhampirs)
 
-Page d'accueil du wiki :
+Page d'accueil du wiki : 
 - insérer les pages des races ajoutées - fait
 - insérer une page pour les équipements raciaux et modifier le snippet MenuEquipement - fait (rectulo)
 
@@ -1166,7 +1166,7 @@ Intégration à la page de présentation
 
 La page [[dons raciaux]] est à restructurer
 
-À faire :
+À faire : 
 - **sur tous les dons** : création d'une nouvelle catégorie "don racial". ~~Faire un passage sur les dons du tableau récapitulatif général des autres manuels pour l'ajouter à ceux qui font figurer dans leurs conditions l'appartenance à une ou plusieurs races~~
 
 - sur les pages du bestiaire correspondant à chaque race, créer un lien vers la page race et supprimer dans le tableau la notion de monstre PJ.

@@ -145,7 +145,7 @@ La danse sinueuse du barde l’aide à esquiver les obstacles et à grimper.
 
 **Prix.** Don ou sort de barde connu de niveau 4
 
-**Effet.** Le barde prononce un monologue passionné du point de vue d'une noble reine d'antan, exprimant sa confusion et sa douleur après avoir été trahie par sa propre soeur, et implorant le ciel de faire tomber sur elle sa rage justicière. Si la représentation effectuée est un chant, il s'agit d'un lamento furieux et passionné au lieu d'un soliloque. Une fois la représentation effectuée, le personnage invoque des éclairs, comme avec [[appel de la tempête]], mais il s'agit de foudre élémentaire infligeant des dommages de son et non d'électricité. Les dommages n'augmentent donc pas dehors ou dans une zone tempétueuse. Au lieu de ça, à chaque round et quel que soit l'environnement, le personnage peut effectuer un test de [[Représentation]] (jeu d'acteur) [[DD]] 25 lorsqu'il fait une [[action simple]] pour faire tomber un éclair. S'il réussit, l'éclair inflige 5d10 points de dégâts au lieu de 5d6.
+**Effet.** Le barde prononce un monologue passionné du point de vue d'une noble reine d'antan, exprimant sa confusion et sa douleur après avoir été trahie par sa propre soeur, et implorant le ciel de faire tomber sur elle sa rage justicière. Si la représentation effectuée est un chant, il s'agit d'un lamento furieux et passionné au lieu d'un soliloque. Une fois la représentation effectuée, le personnage invoque des éclairs, comme avec [[appel de la tempête]], mais il s'agit de foudre élémentaire infligeant des dommages de son et non d'électricité. Les dommages n'augmentent donc pas dehors ou dans une zone tempétueuse. Au lieu de ça, à chaque round et quel que soit l'environnement, le personnage peut effectuer un test de [[Représentation]] (jeu d'acteur) [[DD]] 25 lorsqu'il fait une [[action simple]] pour faire tomber un éclair. S'il réussit, l'éclair inflige 5d10 points de dégâts au lieu de 5d6. 
 
 **Utilisation.** 5 rounds de représentation bardique
 
@@ -203,7 +203,7 @@ La représentation du barde révèle comment tromper le temps lui-même.
 
 Ce pouvoir ne se cumule pas avec les effets qui augmentent la vitesse (comme *[[rapidité]]*) ou modifient le cours du temps (comme *[[arrêt du temps]]*).
 
-Les alliés du barde peuvent bénéficier du chef-d’œuvre mais doivent écouter attentivement (à l’exclusion de toute autre activité) la totalité de la représentation et le barde doit dépenser un round de représentation bardique pour chaque allié (en dehors de lui) à qui il veut permettre d’accélérer le temps (par exemple, si le barde veut affecter sa personne et cinq alliés, il doit dépenser 11 rounds de représentation bardique). C’est un effet basé sur le langage.
+Les alliés du barde peuvent bénéficier du chef-d’œuvre mais doivent écouter attentivement (à l’exclusion de toute autre activité) la totalité de la représentation et le barde doit dépenser un round de représentation bardique pour chaque allié (en dehors de lui) à qui il veut permettre d’accélérer le temps (par exemple, si le barde veut affecter sa personne et cinq alliés, il doit dépenser 11 rounds de représentation bardique). C’est un effet basé sur le langage. 
 
 **Utilisation.** 5 rounds de représentation bardique +1 round par personne supplémentaire affectée
 

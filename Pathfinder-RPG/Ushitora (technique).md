@@ -12,7 +12,7 @@ Categories:
 |N'importe|Aucun
 |[[Tetsubo (arme)|Tetsubo]]
 |[[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|destruction]], [[Domaine du Mal|Mal]], [[Domaine de la Terre|Terre]]
-|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Chaos|Entropie]], [[Domaine de la Terre|Métal]], [[Domaine de la Destruction|Rage]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Chaos|Entropie]], [[Domaine de la Terre|Métal]], [[Domaine de la Destruction|Rage]] 
 |—}
 {s:cs}{s:BotD}
 ### Obédience

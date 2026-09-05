@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:11
 {s:BDTitre|Fourche de guerre|{s:AE}}
 **Aura** [[Transmutation]] faible  ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 7.315 po ; **Poids** 2 kg
 (((Description)))
-Le manche de ce *[[Trident (arme)|trident]] +1* en acier étamé peut, sur commande et par une [[action rapide]], s’allonger, se raccourcir ou reprendre sa longueur initiale. Lorsque son manche est long, ce trident devient une [[arme à allonge]] et [[arme à deux mains|à deux mains]] qui ne peut être lancée. Lorsqu’il est court, la fourche de guerre se manipule comme une [[arme légère]] ou se lance comme une [[Javeline (arme)|javeline]]. Les dons et les aptitudes de classe qui s’appliquent aux tridents s’appliquent également à la fourche de guerre, quelle que soit sa taille.
+Le manche de ce *[[Trident (arme)|trident]] +1* en acier étamé peut, sur commande et par une [[action rapide]], s’allonger, se raccourcir ou reprendre sa longueur initiale. Lorsque son manche est long, ce trident devient une [[arme à allonge]] et [[arme à deux mains|à deux mains]] qui ne peut être lancée. Lorsqu’il est court, la fourche de guerre se manipule comme une [[arme légère]] ou se lance comme une [[Javeline (arme)|javeline]]. Les dons et les aptitudes de classe qui s’appliquent aux tridents s’appliquent également à la fourche de guerre, quelle que soit sa taille. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[Réduction dobjet|réduction d’objet]]* ; **Coût** 3.815 po
 </div>

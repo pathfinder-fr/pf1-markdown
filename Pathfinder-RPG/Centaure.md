@@ -51,7 +51,7 @@ leur peau possède la même coloration que celle des
 humains qui vivent près d’eux mais semble toujours
 bien bronzée, et la partie inférieure de leur corps, quant
 à elle, arbore les même teintes que les robes des chevaux de
-la région.
+la région. 
 
 La pilosité et les yeux des centaures tirent plutôt vers
 les couleurs sombres et ils ont tendance à avoir des traits assez
@@ -69,7 +69,7 @@ races et s’affrontent même parfois entre eux. L’essentiel des centaures
 vit encore en tribus circulant à travers de vastes plaines ou à l’orée
 des forêts mystérieuses mais certains d’entre eux ont abandonné
 les traditions isolationnistes de leurs ancêtres et se sont intégrés
-dans les cités les plus cosmopolites du monde.
+dans les cités les plus cosmopolites du monde. 
 
 Ces centaures hors-normes
 sont généralement considérés comme des parias et rejetés
@@ -78,7 +78,7 @@ lourde de conséquences. Quelques rares tribus dirigées par des chefs
 progressifs ont établi des relations commerciales ou des alliances
 avec d’autres communautés d’humanoïdes, le plus souvent des elfes
 mais parfois des gnomes et, plus rarement, des humains ou des
-nains.
+nains. 
 
 De nombreuses races restent cependant méfiantes à l’égard
 des créatures, principalement à cause des légendes qui évoquent la

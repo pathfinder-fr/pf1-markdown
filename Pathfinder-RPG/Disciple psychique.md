@@ -8,6 +8,6 @@ LastModified: 2017-11-29 16:05
 
 **Conditions.** [[intelligence|Int]] 13, [[Adepte psychique]], [[Sensibilité psychique]].
 
-**Avantage.** Le personnage peut lancer un sort psychique de niveau 1 issu de la [[Sorts de psychiste|liste du psychiste]]. Il peut le lancer deux fois par jour, comme un pouvoir magique. Pour ce pouvoir, le [[NLS]] est égal au niveau du personnage et le [[présentation des sorts#JETSDESAUVEGARDE|DD]] est de 11 + son modificateur d’[[Intelligence]].
+**Avantage.** Le personnage peut lancer un sort psychique de niveau 1 issu de la [[Sorts de psychiste|liste du psychiste]]. Il peut le lancer deux fois par jour, comme un pouvoir magique. Pour ce pouvoir, le [[NLS]] est égal au niveau du personnage et le [[présentation des sorts#JETSDESAUVEGARDE|DD]] est de 11 + son modificateur d’[[Intelligence]]. 
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises, en choisissant à chaque fois un sort différent.

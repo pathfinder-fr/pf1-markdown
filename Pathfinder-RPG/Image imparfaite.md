@@ -16,27 +16,27 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (toison de mouton)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])
-**Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (toison de mouton)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])  
+**Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[image silencieuse]]*, si ce n’est que l’illusion obtenue inclut également quelques sons élémentaires (mais aucune parole intelligible).
 
 
 
 (((
 ## Image silencieuse
-**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (toison de mouton)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])
-**Durée** [[Présentation des sorts#DUREE|concentration]]
+**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (toison de mouton)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Ce sort génère une [[illusion]] strictement visuelle représentant un objet, une créature ou un effet magique choisi par le personnage. Elle n’inclut aucune sensation sonore, tactile, olfactive ou thermique. Le lanceur de sorts peut déplacer l’image dans les limites de portée indiquées.
 
 ### Version mythique

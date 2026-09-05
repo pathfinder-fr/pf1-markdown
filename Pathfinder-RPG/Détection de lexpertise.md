@@ -12,7 +12,7 @@ Categories:
 
 **Conditions.** [[Int]] 13, capacité à lancer *[[détection du chaos]]*, *[[détection du bien|du bien]]*, *[[détection du mal|du mal]]*, *[[détection de la loi|de la loi]]* ou *[[détection de la magie|de la magie]]*
 
-**Avantage.** Quand le personnage utilise l’un des sorts indiqués dans la liste des conditions requises pour détecter l’[[alignement]] d’une créature ou sa magie, il a une chance de détecter aussi son domaine d’incantation de prédilection. Il faut observer la cible du sort de détection pendant 3 rounds.
+**Avantage.** Quand le personnage utilise l’un des sorts indiqués dans la liste des conditions requises pour détecter l’[[alignement]] d’une créature ou sa magie, il a une chance de détecter aussi son domaine d’incantation de prédilection. Il faut observer la cible du sort de détection pendant 3 rounds. 
 
 La cible fait alors un [[jet de sauvegarde]] ([[Volonté]] [[DD]] 10 +1/2 [[NLS|niveau de lanceur de sorts]] + modificateur d’[[Intelligence]] du personnage). Si elle échoue, le personnage découvre le [[lignages|lignage]], les [[domaines]], les [[maléfices]], les [[Présentation des sorts#ECOLES|écoles]] ou les [[mystères]] dont elle dispose (le cas échéant).
 

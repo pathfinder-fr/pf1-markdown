@@ -64,7 +64,7 @@ Les licornes forment des couples pour la vie et ceux-ci élisent
 généralement domicile dans des bosquets ou des vallons situés au
 sein des vastes forêts qu’ils protègent (ces régions peuvent couvrir
 une surface allant de quelques dizaines jusqu’à plusieurs centaines de
-kilomètres carrés).
+kilomètres carrés). 
 
 Les licornes autorisent les créatures d’alignement
 Bon ou Neutre à traverser leur forêt, à y chasser de la nourriture ou
@@ -75,7 +75,7 @@ tuées. En de rares occasions, des licornes solitaires, qui n’ont pas de
 partenaires ou dont le partenaire a été tué, peuvent choisir de se lier
 à des jeunes femmes exceptionnellement pures et vertueuses,
 à qui elles autorisent de les monter et qu’elles gardent et
-protègent toute leur vie.
+protègent toute leur vie. 
 
 Ces relations se terminent
 généralement de manière amicale si la femme développe
@@ -87,7 +87,7 @@ C’est via sa corne qu’une licorne
 canalise toutes ses capacités. Pour pouvoir
 utiliser ses pouvoirs magiques sur d’autres
 créatures, la licorne doit les toucher
-avec sa corne.
+avec sa corne. 
 
 Les êtres maléfiques convoitent avidement les cornes de licornes, qui peuvent servir de réactifs pour les potions de
 guérison ou de vils rituels. Une corne réduite en poudre remplace 1 600 po de matériel lorsqu’on l’utilise comme composante pour fabriquer un objet lié à la magie de guérison.

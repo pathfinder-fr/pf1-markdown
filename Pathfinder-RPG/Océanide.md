@@ -56,7 +56,7 @@ Cousines aquatiques des nymphes et des dryades, les océanides sont des fées li
 
 Une océanide peut certainement aider les mortels et leurs bateaux, surtout si ceux-ci satisfont son extrême vanité. Les beaux-parleurs qui parviennent à la flatter pourront peut-être obtenir son aide, mais ils pourraient également se voir inciter à la rejoindre sous la surface des eaux jusqu’à ce qu’elle s’ennuie d’eux.
 
-Lorsqu’une océanide est dans l’eau, la moitié inférieure de son corps se transforme en une colonne d’eau, ce qui lui permet de nager à grande vitesse. Lorsqu’elle sort de l’eau, cette colonne se transforme en jambes d’humanoïdes.
+Lorsqu’une océanide est dans l’eau, la moitié inférieure de son corps se transforme en une colonne d’eau, ce qui lui permet de nager à grande vitesse. Lorsqu’elle sort de l’eau, cette colonne se transforme en jambes d’humanoïdes. 
 
 Quoi qu’il en soit, la plupart des océanides considèrent la marche comme une corvée et l’évitent autant que possible.
 </div></td></tr></table>

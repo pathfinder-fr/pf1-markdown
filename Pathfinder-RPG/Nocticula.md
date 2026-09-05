@@ -79,12 +79,12 @@ dominer qu’une seule créature à la fois grâce à cette
 capacité, mais les effets sont permanents jusqu’à ce
 que le personnage décide de changer de cible, auquel
 cas la victime précédente est à nouveau libre d’agir,
-mais est étourdie pendant 1d4 rounds.
+mais est étourdie pendant 1d4 rounds.  
 
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Cette créature effroyablement majestueuse déploie ses ailes couvertes de runes. Du fer en fusion s'écoule de ses sabots et ses trois queues son couvertes de barbelures*
 
-Nocticula est le [[Seigneurs démons|seigneur démon]] des assassins, des ténèbres et de la luxure. Elle règne sur le royaume abyssal des îles de Minuit, un vaste archipel qui s'est formé autour des vestiges de plusieurs dizaines de seigneurs démons et autres puissants adversaires assassinés. Nocticula a été la première succube puis s'est élevée au rang de Dmi-Déesse. Elle vise à présent l'étape supérieure : la complète déification. Lamashtu est le seul seigneur démon ayant accompli cette épreuve jusqu'à maintenant et Nocticula a la ferme intention d'être la deuxième. Tout le monde se demande quelle genre de divinité Nocticula va devenir. certains pensent qu'elle cherche en secret la rédemption pour renier sa nature démoniaque. D'autres affirment que Nocticula est à l'origine de ces rumeurs, unn grand mensonge pour détourner ses ennemis de son véritable objectif : devenir l'assassin et la séductrice des dieux.
+Nocticula est le [[Seigneurs démons|seigneur démon]] des assassins, des ténèbres et de la luxure. Elle règne sur le royaume abyssal des îles de Minuit, un vaste archipel qui s'est formé autour des vestiges de plusieurs dizaines de seigneurs démons et autres puissants adversaires assassinés. Nocticula a été la première succube puis s'est élevée au rang de Dmi-Déesse. Elle vise à présent l'étape supérieure : la complète déification. Lamashtu est le seul seigneur démon ayant accompli cette épreuve jusqu'à maintenant et Nocticula a la ferme intention d'être la deuxième. Tout le monde se demande quelle genre de divinité Nocticula va devenir. certains pensent qu'elle cherche en secret la rédemption pour renier sa nature démoniaque. D'autres affirment que Nocticula est à l'origine de ces rumeurs, unn grand mensonge pour détourner ses ennemis de son véritable objectif : devenir l'assassin et la séductrice des dieux.  
 L'attitude et la personnalité de Nocticula sont certainement changeantes. Elle peut simplement assassiner ou jeter en esclavage les visiteurs de passage dans son royaume, ou les accueillir à bras ouvert, même ceux que l'on pourrait considérer comme ses ennemis. Seuls les fous acceptent ses invitations sans hésitation car les souhaits de la reine des succubes peuvent changer du tout au tout en un éclair.
 
 La première des succubes est une créature
@@ -106,7 +106,7 @@ a séduit et assassiné un nombre incroyable.
 Parmi ses plus grandes conquêtes, on compte
 Vyriavaxus, le seigneur démon des Ombres.
 Elle a, par son biais, obtenu la loyauté réticente
-des démons d’ombre.
+des démons d’ombre.   
 Les autres seigneurs démons sont à la fois
 obsédés et apeurés par Nocticula et seul l’un
 d’entre eux, Socothbenoth (son frère et amant occasionnel),
@@ -118,7 +118,7 @@ Nex, le Geb et certains Royaumes fluviaux. Le culte de Lamashtu
 a récemment remarqué la montée en puissance de Nocticula et a
 multiplié les conflits avec ses adorateurs. Certains estiment donc
 que Nocticula est sans doute la deuxième démone sur le point de
-devenir une divinité.
+devenir une divinité.   
 Le royaume abyssal de Nocticula contient plusieurs dizaines
 d’îles disséminées à la surface d’une immense mer aux eaux
 calmes et noires. Une lune trop grande et d’étranges étoiles illuminent
@@ -137,7 +137,7 @@ plaisirs décadents de
 Nocticula.
 
 #### Culte de Nocticula
-Nocticula est vénérée par les assassins, les libidineux, les prostituées, les créatures qui profitent des ombres et, bien entendu, par les succubes. Ces adorateurs créent des cultes relativement petits, souvent semblables à des sociétés secrètes, qui utilisent des maisons closes, des manoirs ou des accadémies comme couverture pour dissimuler leurs véritables objectifs.
+Nocticula est vénérée par les assassins, les libidineux, les prostituées, les créatures qui profitent des ombres et, bien entendu, par les succubes. Ces adorateurs créent des cultes relativement petits, souvent semblables à des sociétés secrètes, qui utilisent des maisons closes, des manoirs ou des accadémies comme couverture pour dissimuler leurs véritables objectifs.  
 Le symbole de Nocticula est une couronne à pointes multiples entourées de plantes épineuses. Son arme de prédilection est l’arbalète de poing. Elle donne acès aux domaines du Chaos, de Charme, de l'Obscurité et du Mal, ainsi qu'aux sous-domaines des Démons, de la Perte, de la Luxure et de la Nuit.
 
 ##### Hérétiques
@@ -146,7 +146,7 @@ Une petites poignée d'hérétiques la vénèrent également, non pas comme dée
 
 <div>
 #### Baiser des ombres
-**Emplacement** aucun ; **Arme Légendaire** ; **Poids** 1 kg
+**Emplacement** aucun ; **Arme Légendaire** ; **Poids** 1 kg  
 
 Baiser des ombres est l'arme de prédilection de Nocticula. C'est une arbalète de poing impie +5 qui crée des munition par magie après chaque tir. Dès qu'une cible subit des dégâts à cause d'un carreau tiré à l'aide de cette arbalète de poing, l'arme gagne la propriété tueuse contre le type de créature de la cible et ce lors de toutes les attaques suivantes. Baiser des ombres peut bénéficier d'un seul effet d'arme tueuse à la fois. Les carreaux tirés avec Baiser des ombres gagnent la propriété d'arme spectrale (cet effet ne s'appliquant normalement pas aux armes à distance).
 </div></td></tr></table>

@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:50
 {s:BDTitre|Bandeau de l’aveugle|{s:AE}}
 **Aura** [[Présentation des sorts#TRANSMUTATION|Transmutation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 12.000 po ; **Poids** —
 (((Description)))
-Le bandeau de l’aveugle est taillée dans un bout de vêtement ayant appartenu à un mendiant aveugle. Il sert souvent aux explorateurs qui doivent traverser des grottes occupées par des créatures invisibles ou attirées par la lumière. Un bandeau de l’aveugle occulte la vision de son porteur mais lui confère les avantages du don [[Science du combat en aveugle]]. Le bandeau ne fournit aucun avantage aux créatures incapables de voir normalement.
+Le bandeau de l’aveugle est taillée dans un bout de vêtement ayant appartenu à un mendiant aveugle. Il sert souvent aux explorateurs qui doivent traverser des grottes occupées par des créatures invisibles ou attirées par la lumière. Un bandeau de l’aveugle occulte la vision de son porteur mais lui confère les avantages du don [[Science du combat en aveugle]]. Le bandeau ne fournit aucun avantage aux créatures incapables de voir normalement. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Science du combat en aveugle]], *[[ténèbres]]*  ; **Coût** 6.000 po
 </div>

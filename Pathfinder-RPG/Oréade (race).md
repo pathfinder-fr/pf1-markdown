@@ -18,7 +18,7 @@ Les oréades sont des humains dont l’arbre généalogique comprend un élémen
 
 **Aventuriers.** Les oréades sont avant tout des aventuriers indécis. Ils n’aiment pas quitter leur foyer et ne gèrent pas très bien le choc des nouvelles expériences. C’est généralement une force extérieure qui les entraîne dans l’action, souvent en menaçant leur foyer, leur vie ou leurs amis. Néanmoins, une fois la menace initiale traitée, les oréades découvrent souvent qu’ils se sont habitués à la vie d’aventurier et décident de continuer ainsi. Ils font de très bons moines et guerriers du fait de leur force et de leur autodiscipline prodigieuses.
 
-**Noms masculins.** Andanan, Jeydavu, Mentys, Oret, Sithundan, Urtar.
+**Noms masculins.** Andanan, Jeydavu, Mentys, Oret, Sithundan, Urtar.  
 **Noms féminins.** Besthana, Échanè, Ghatiyara, Irice, Nysène, Pashè.
 
 {s:Reference|TRAITSSTANDARDS}

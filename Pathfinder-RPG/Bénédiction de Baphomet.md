@@ -13,12 +13,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, M/FD]] (une corne de taureau réduite en poudre)
-**Portée** contact
-**Cibles** une créature vivante
-**Durée** 1 round/niveau
+{s:cs}{s:ISG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, M/FD]] (une corne de taureau réduite en poudre)  
+**Portée** contact  
+**Cibles** une créature vivante  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage transforme la tête de la cible en celle d'un taureau. L'[[Intelligence]] de la créature passe à 2, et elle gagne une attaque de cornes au corps à corps qu'elle peut utiliser comme [[Attaques naturelles (capacité)|attaque principale]] ou [[Attaques naturelles (capacité)|secondaire]]. L'attaque de cornes utilise le [[BBA|bonus de base à l'attaque]] de la créature, et la créature bénéficie d'un bonus de +2 aux [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] avec cette attaque. L'attaque de cornes inflige un nombre de points de dégâts égal à 1d6 + son modificateur de [[Force]] si la cible est de taille P, 1d8 + son modificateur de Force si la cible est de taille M, et 2d6 + son modificateur de Force si la cible est de taille G ou plus.

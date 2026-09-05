@@ -66,9 +66,9 @@ travaillent ensemble pour fendre l’air avec une lance à l’air vicieux.''
 
 Tous les magaavs peuvent communiquer par télépathie avec tous les autres [[Diable de lost mineur|gaavs]] et [[Diable de lost Majeur|magaavs]] situés à moins de 30 mètres en simultané, permettant aux diables légionnaires majeurs de commander des essaims entiers. Bien que les magaavs se contredisent rarement les uns les autres, si des gaavs sont confrontés à des ordres en concurrence, ils suivent ceux du magaav le plus proche.
 
-Chasseurs d’âmes, les diables légionnaires récupèrent les propriétés des Enfers qui ont le plus tendance à fuir. Qu’il s’agisse d’âmes qui échappent à la capture depuis longtemps sur les plaines de l’Averne, d’êtres damnés qui sont parvenus, d’une façon ou d’une autre, à échapper aux Enfers ou de créatures qui ont manqué à leurs engagements dans un contrat infernal, de très grands troupeaux de ces fiélons ailés jaillissent de la Fosse pour récupérer leurs proies.
+Chasseurs d’âmes, les diables légionnaires récupèrent les propriétés des Enfers qui ont le plus tendance à fuir. Qu’il s’agisse d’âmes qui échappent à la capture depuis longtemps sur les plaines de l’Averne, d’êtres damnés qui sont parvenus, d’une façon ou d’une autre, à échapper aux Enfers ou de créatures qui ont manqué à leurs engagements dans un contrat infernal, de très grands troupeaux de ces fiélons ailés jaillissent de la Fosse pour récupérer leurs proies. 
 
-Rarement seuls, les diables légionnaires voyagent en grands essaims qui se composent souvent de milliers d’individus. Parmi ces grandes armées volètent les meneurs de l’essaim, les magaavs, parodies cruelles de l’apparence angélique, capables de diriger et rediriger d’imposantes colonnes de leurs frères tels le cerveau d’une unique bête infernale de taille colossale.
+Rarement seuls, les diables légionnaires voyagent en grands essaims qui se composent souvent de milliers d’individus. Parmi ces grandes armées volètent les meneurs de l’essaim, les magaavs, parodies cruelles de l’apparence angélique, capables de diriger et rediriger d’imposantes colonnes de leurs frères tels le cerveau d’une unique bête infernale de taille colossale. 
 
 Les gaavs mesurent 1,20 mètre et pèsent approximativement 55 kilogrammes, leur envergure faisant un peu plus d’1,80 mètre.
 </div>

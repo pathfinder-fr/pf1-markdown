@@ -13,7 +13,7 @@ Des milliers de races d’humanoïdes monstrueux considèrent Lamashtu comme leu
 
 Issue des Abysses, Lamashtu commença son parcours vers la divinité dans l’Empire du [[Thassilon]]. A cette époque de nombreux démons étaient vénérés. Elle fut appelée la Mère des monstres uniquement après avoir tué le dieu Curchanus à qui elle vola le pouvoir de dominer les bêtes. Curchanus était le maître de [[Desna]] qui depuis a autant de haine que de répugnance envers Lamashtu.
 
-Lamashtu adore par-dessus tout la destruction physique et psychique de tout être qui n’est pas difforme ou corrompu. Elle souhaite faire disparaître tous ceux qui ne sont pas « ses enfants ». C’est pour cela, qu’après avoir pris le contrôle des bêtes sauvages, elle leur montra l’Homme comme un ennemi à éliminer.
+Lamashtu adore par-dessus tout la destruction physique et psychique de tout être qui n’est pas difforme ou corrompu. Elle souhaite faire disparaître tous ceux qui ne sont pas « ses enfants ». C’est pour cela, qu’après avoir pris le contrôle des bêtes sauvages, elle leur montra l’Homme comme un ennemi à éliminer. 
 
 ### Apparence
 
@@ -21,13 +21,13 @@ Lamashtu est représentée comme une femme à une tête de chacal avec trois yeu
 
 ### Émissaires
 
-Le héraut de Lamashtu est le Yethazmari. Il est souvent accompagné d’une meute d’énormes chiens que commande Gueule-sanglante, le plus intelligent d'entre eux.
-Les yanéites ressemblent à des hyènes-démons, ils servent tous la Mère des monstres.
+Le héraut de Lamashtu est le Yethazmari. Il est souvent accompagné d’une meute d’énormes chiens que commande Gueule-sanglante, le plus intelligent d'entre eux. 
+Les yanéites ressemblent à des hyènes-démons, ils servent tous la Mère des monstres. 
 L’Uzuzap est le jouet de Lamashtu. Il sert de souffre douleur à la déesse durant les moments de rage intense de celle-ci.
 
 ### Doctrine
 
-Les adeptes du culte de Lamashtu pratiquent la scarification et la mutilation aussi bien sur eux-mêmes que sur les autres. Toute demande d’intervention de la Mère des monstres sera accompagnée de souffrances physiques, le plus souvent visibles, sur l’adepte demandeur. Une fidèle enceinte peut demander à Lamashtu de transformer son enfant en monstre, mais son accouchement sera un moment de souffrance. Il peut entraîner la mort de la future mère. De tels accouchements demandent une surveillance de la part des guérisseurs du culte. La guérison par magie est interdite car elle efface toute trace des traumatismes subis.
+Les adeptes du culte de Lamashtu pratiquent la scarification et la mutilation aussi bien sur eux-mêmes que sur les autres. Toute demande d’intervention de la Mère des monstres sera accompagnée de souffrances physiques, le plus souvent visibles, sur l’adepte demandeur. Une fidèle enceinte peut demander à Lamashtu de transformer son enfant en monstre, mais son accouchement sera un moment de souffrance. Il peut entraîner la mort de la future mère. De tels accouchements demandent une surveillance de la part des guérisseurs du culte. La guérison par magie est interdite car elle efface toute trace des traumatismes subis. 
 
 L’église de Lamashtu n’a pas d’organisation au sens strict du terme, tous les adeptes sont des enfants de la Mère des monstres. Cependant, en cas de conflit entre deux fidèles, les cicatrices, le nombre d’enfants et leurs difformités suffisent en général à mettre fin à celui-ci.
 

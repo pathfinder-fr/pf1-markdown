@@ -10,11 +10,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[personnelle]]
-**Cibles** le lanceur de sort
+{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[personnelle]]  
+**Cibles** le lanceur de sort  
 **Durée** 1 heure/niveau ou jusqu'à déchargement
 
 Une glande spéciale qui absorbe tout poison ingéré et peut être utilisé pour les expulser dans une aspersion toxique pousse à l'intérieure de la gorge du personnage. Chaque fois qu'il consomme un poison d'ingestion pendant la durée du sort, il peut effectuer un test de [[NLS|niveau de lanceur de sorts]] contre le [[DD]] de sauvegarde du poison afin de l'absorber sans danger, ignorant ainsi ses effets. Le sort peut absorber jusqu'à 1 dose de poison par tranche de 3 niveaux de lanceur de sorts, après quoi la glande devient incapable de traiter d'autres poisons et toute nouvelle dose de poison d'ingestion consommée affecte le personnage normalement.

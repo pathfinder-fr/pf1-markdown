@@ -11,12 +11,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 8
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un masque noir)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** une créature vivante
-**Durée** permanente
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|malédiction, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 4, [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Hypnotiseur|Hyp]] 6, [[Psychiste|Psy]] 8  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un masque noir)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** une créature vivante  
+**Durée** permanente  
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Le personnage déchaîne les instincts d'iniquité les plus primaires chez la cible et en font sa raison d'être. La cible ne bénéficie et ne permet pas de bénéficier des effets de [[Dons#DONEQUIPE|dons de travail d'équipe]] ou de l'action [[aider qqn|aider quelqu'un]] et ne peut pas consentir à des effets magiques inoffensifs provenant d'autres personnes qu'elle-même.

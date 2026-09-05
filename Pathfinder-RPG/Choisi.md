@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:um}**Niveau** 0  
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]) 
 
 Un sort de mots incluant ce [[mots cibles|mot cible]] affecte une cible située à sa portée. S’il inflige des dégâts d’énergie, il crée un rayon nécessitant une [[attaque de contact à distance]] pour atteindre sa cible, ou bien une [[attaque de contact au corps à corps]] sans portée (ce paramètre est déterminé par le lanceur au moment où il incante). Si l’attaque échoue, le personnage peut retenir la charge et tenter de porter d’autres [[attaque de contact au corps à corps|attaques de contact au corps à corps]].
 

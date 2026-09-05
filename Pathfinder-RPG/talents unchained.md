@@ -196,34 +196,34 @@ Un roublard qui maîtrise ce talent peut effectuer n’importe quels tests de [[
 
 {s:UC}{s:Reference|CONTACTSAUMARCHENOIR}
 #### Contacts au marché noir (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="marcheNoirTableau"
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="marcheNoirTableau" 
 |+ Marché noir
-|-
+|- 
 | **Taille de la  
 communauté**
 | **DD**
 |- Class="premier"
 | Lieu-dit
 | 10
-|-
+|- 
 | Hameau
 | 12
-|-
+|- 
 | Village
 | 15
-|-
+|- 
 | Petite ville
 | 18
-|-
+|- 
 | Grande ville
 | 20
-|-
+|- 
 | Petite cité
 | 25
-|-
+|- 
 | Grande cité
 | 30
-|-
+|- 
 | Capitale
 | 35
 |}</div>Grâce à ce talent, le roublard peut obtenir de meilleurs objets magiques grâce à ses contacts au marché noir.
@@ -247,26 +247,26 @@ Un roublard disposant de ce talent peut utiliser une [[action rapide]] pour déc
 
 {s:APG}{s:Reference|DEGUISEMENTRAPIDE}
 #### Déguisement rapide (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="déguisementrapideTableau"
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="déguisementrapideTableau" 
 |+ déguisement
 |-
 | **Déguisement rapide**
 | **temps**
 |- Class="premier"
-| Catégorie d’âge différente
+| Catégorie d’âge différente 
 | 1 minute
 |-
-| Catégorie de taille différente
+| Catégorie de taille différente  
 | 1 minute
-|-
-| Petits détails seulement
+|- 
+| Petits détails seulement 
 | 1 action  
 complexe
 |-
-| Race différente
+| Race différente  
 | 1 minute
-|-
-| Sexe différent
+|- 
+| Sexe différent 
 | 1 minute
 |}</div>Un roublard disposant de ce talent peut utiliser les objets qu’il a à portée de main et quelques objets apparemment banals qu’il cache sur lui pour créer des déguisements étonnamment efficaces tout en réduisant le temps nécessaire à leur fabrication. Le temps nécessaire au roublard pour modifier son apparence de cette manière dépend de la complexité du déguisement, comme indiqué sur la table ci-contre. Les temps sont cumulatifs, de sorte que si une roublarde veut se déguise en un homme d’une race différente, cela lui demande 2 minutes.
 
@@ -308,7 +308,7 @@ Un roublard qui dispose de ce talent lance deux fois les dés quand il fait un t
 
 {s:APG}{s:Reference|FINOBSERVATEUR}
 #### Fin observateur (Ext)
-Lorsqu’un roublard disposant de ce talent réalise un test de [[Perception]] pour percevoir les détails d’une conversation ou pour trouver un objet caché ou secret (il peut s’agir d’une porte ou d’un piège par exemple), il gagne un bonus de +4.
+Lorsqu’un roublard disposant de ce talent réalise un test de [[Perception]] pour percevoir les détails d’une conversation ou pour trouver un objet caché ou secret (il peut s’agir d’une porte ou d’un piège par exemple), il gagne un bonus de +4. 
 
 {s:Reference|FORMATIONMARTIALE}
 #### Formation martiale
@@ -390,7 +390,7 @@ Lorsque le roublard effectue un test d’[[Acrobaties]] pour sauter, on considè
 #### Sournois* (Ext)
 Un roublard qui dispose de ce talent gagne un bonus de circonstances de +4 aux tests d’[[Escamotage]] quand il essaie de dissimuler une arme. De plus, s’il fait une attaque sournoise pendant le [[round de surprise]] à l’aide d’une arme cachée dont son adversaire ignore l’existence, il n’a pas besoin de lancer les dés de dégâts supplémentaires : l’attaque sournoise inflige automatiquement le maximum. Chaque jour, il peut utiliser ce talent un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).
 
-{s:UC}{s:Reference|SPECIALISTEDELAFUITE}
+{s:UC}{s:Reference|SPECIALISTEDELAFUITE} 
 #### Spécialiste de la fuite (Ext)
 Un roublard qui possède ce talent ajoute [[Dressage]], [[Équitation]] et [[Vol]] à ses compétences de classe et gagne un bonus de +2 aux tests pour conduire un véhicule.
 
@@ -455,28 +455,28 @@ Un roublard disposant de ce talent peut appliquer deux doses de [[poison]] en m�
 
 {s:UC}{s:Reference|COLPORTEURDERUMEURS}
 #### Colporteur de rumeurs (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau"
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau" 
 |+ Colporteur de rumeurs
-|-
+|- 
 | **Taille de la  
 communauté**
 | **DD**
-|- class="premier"
+|- class="premier" 
 | Petite ville
 | 18
 |-
 | Grande ville
 | 20
-|-
+|- 
 | Petite cité
 | 25
-|-
+|- 
 | Grande cité
 | 30
-|-
+|- 
 | Capitale
 | 35
-|}</div>Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).
+|}</div>Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).  
 Le [[DD]] est basé sur la taille de la ville et il faut une semaine pour que la rumeur se propage. En cas de réussite, la communauté accepte la rumeur comme un fait avéré. Si le roublard bat le [[DD]] de 5 ou plus, il réduit le temps que la nouvelle met pour se répandre de 1d4 jours. En cas d’échec, la rumeur n’a aucun poids mais si le roublard rate son test de 5 ou plus, c’est la rumeur inverse ou une théorie opposée qui se répand sur le sujet.
 
 {s:APG}{s:Reference|COUPASSOMMANT}
@@ -561,7 +561,7 @@ Le roublard peut sélectionner un [[Talents de justicier|talent de justicier]]. 
 
 {s:Reference|TALENTSRENOUVELESSUPERIEURS}
 #### Talents renouvelés supérieurs (Ext)
-Un roublard qui maîtrise ce talent peut utiliser celui de [[Talents unchained#TALENTSRENOUVELES|talents renouvelés]] pour acquérir des utilisations supplémentaires de talents de maître roublard. Un roublard doit maîtriser talents renouvelés avant de pouvoir sélectionner celui-ci.
+Un roublard qui maîtrise ce talent peut utiliser celui de [[Talents unchained#TALENTSRENOUVELES|talents renouvelés]] pour acquérir des utilisations supplémentaires de talents de maître roublard. Un roublard doit maîtriser talents renouvelés avant de pouvoir sélectionner celui-ci. 
 
 {s:Reference|TIRSOUDAIN}
 #### Tir soudain (Ext)

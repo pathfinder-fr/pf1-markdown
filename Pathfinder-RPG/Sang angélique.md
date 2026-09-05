@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*Le sang du personnage est empreint d’une puissance sacrée.*
 
-**Conditions requises.** [[Constitution|Con]] 13, [[aasimar (race)|Aasimar]].
+**Conditions requises.** [[Constitution|Con]] 13, [[aasimar (race)|Aasimar]]. 
 
 **Avantages.** L’aasimar gagne un bonus de +2 à ses [[jds|jets de sauvegarde]] contre les effets du registre [[Créer un sort#MAL|Mal]] et à ses tests de Constitution pour se stabiliser lorsqu’il est réduit à un nombre de points de vie négatif (mais pas mort). De plus, chaque fois qu’il reçoit des dégâts de [[saignement]] ou d’[[absorption de sang (capacité)|absorption de sang]], toute créature [[type mort-vivant|morte-vivante]] ou de [[sous-type Mal]] adjacente à l’aasimar reçoit également 1 point de dégâts.

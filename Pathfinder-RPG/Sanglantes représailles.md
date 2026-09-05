@@ -10,11 +10,11 @@ Categories:
 - Sort rôdeur 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 4, [[prêtre|Prê]] 6, [[rôdeur|Rôd]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (le sang du personnage)
-**Portée** personnelle
-**Cible** le lanceur de sorts
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 4, [[prêtre|Prê]] 6, [[rôdeur|Rôd]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (le sang du personnage)  
+**Portée** personnelle  
+**Cible** le lanceur de sorts  
 **Durée** spéciale (voir description)
 
 *Ce sort est réservé aux personnages qui vénèrent la déesse naine de la vengeance.*

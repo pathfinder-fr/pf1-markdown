@@ -12,7 +12,7 @@ Categories:
 
 **Conditions.** [[Inquisiteur#SECONDJUGEMENT|Second jugement]]
 
-**Avantage.** Le personnage prononce un unique[[inquisiteur#JUGEMENT|jugement]] et fait profiter un allié adjacent de ses effets au lieu d’en prononcer un second.
+**Avantage.** Le personnage prononce un unique[[inquisiteur#JUGEMENT|jugement]] et fait profiter un allié adjacent de ses effets au lieu d’en prononcer un second. 
 
 De même, s’il possède le pouvoir [[inquisiteur#TROISIEMEJUGEMENT|troisième jugement]], il peut en prononcer un seul et en faire bénéficier deux alliés adjacents au lieu d’utiliser le deuxième et le troisième.
 

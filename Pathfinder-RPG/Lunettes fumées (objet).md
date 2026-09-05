@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** —
+{s:AE}**Prix** 10 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ces lunettes ont des verres fumés qui protègent les créatures contre les attaques de regard. Le personnage est toujours considéré comme évitant le regard des créatures lorsqu'il a affaire à des [[Regard (capacité)|attaques de regard]] et il gagne un bonus de circonstances de +8 à ses [[jds|jets de sauvegarde]] contre les attaques basées sur la vue (toutes les attaques contre lesquelles une créature [[aveuglé|aveugle]] serait immunisée). Le personnage reçoit un malus de -4 à ses tests de [[Perception]] lorsqu'il porte ces lunettes et tous ses adversaires sont considérés comme ayant un [[camouflage]] (20% de chances de rater).

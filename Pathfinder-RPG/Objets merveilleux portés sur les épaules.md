@@ -7,7 +7,7 @@ LastModified: 2025-11-17 15:38
 {s:MenuObjetsMagiques}
 Ces objets sont des capes, des houppelandes, des pèlerines, des manteaux, des spallières, des châles, des étoles, des ailes et tous les objets pouvant être portés sur les épaules.
 
-Tout le monde peut utiliser un objet merveilleux porté sur les épaules à moins que le contraire ne soit indiqué dans sa description. Ces objets sont habituellement activés par usage ou par un mot de commande mais il y a parfois des différences en fonction des objets.
+Tout le monde peut utiliser un objet merveilleux porté sur les épaules à moins que le contraire ne soit indiqué dans sa description. Ces objets sont habituellement activés par usage ou par un mot de commande mais il y a parfois des différences en fonction des objets. 
 
 Tous les objets merveilleux décrits ci-dessous pèsent entre 0,125 g et 2 kg sauf les *Spallières À Pointes Démoniaques* qui pèsent 4 kg.
 

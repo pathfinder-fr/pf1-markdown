@@ -60,7 +60,7 @@ venir profaner les lieux sacrés qu’elles protègent.
 Les momies sont créées par un procédé d’embaumement plutôt
 long et macabre au cours duquel chacun des organes principaux
 du corps est extrait et remplacé par des herbes et des fleurs
-séchées.
+séchées. 
 
 On oint ensuite la chair d’huiles sacrées et on l’enveloppe
 dans des bandelettes de lin sanctifiées. Le créateur conclut alors
@@ -68,7 +68,7 @@ le rituel en lançant un sort de [[création de mort-vivant]].
 Même si le rôle de ces créatures se réduit généralement à
 celui de gardiens et qu’elles accomplissent leur mission jusqu’à
 la destruction, certaines momies puissantes ont développé un
-libre arbitre.
+libre arbitre. 
 
 Celles-ci sont au moins des [[prêtre|prêtres]] de niveau 10 et il
 s’agit souvent de rois ou de pharaons qui ont demandé à des dieux

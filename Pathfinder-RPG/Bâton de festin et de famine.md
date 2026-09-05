@@ -11,11 +11,11 @@ Categories:
 {s:BDTitre|Bâton de festin et de famine|}
 **Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 20 800 po ; **Poids** 2,5 kg
 (((Description)))
-Des feuilles sortent de ce bâton en bois, certains vertes, d’autres noires. Lorsque le porteur utilise ce bâton, il arrache l’une de ses feuilles: une feuille verte fournit de la nourriture, une feuille noire provoque la faim ou la soif. Ce bâton permet d’utiliser les sorts suivants.
-• *[[création deau|Création d’eau]]* (1 charge)
-• *[[Baie nourricière]]* (1 charge)
-• *[[purification de nourriture et deau|Purification de la nourriture et de l’eau]]* (1 charge)
-• *[[Coupe de poussière]]* (2 charges)
+Des feuilles sortent de ce bâton en bois, certains vertes, d’autres noires. Lorsque le porteur utilise ce bâton, il arrache l’une de ses feuilles: une feuille verte fournit de la nourriture, une feuille noire provoque la faim ou la soif. Ce bâton permet d’utiliser les sorts suivants.  
+• *[[création deau|Création d’eau]]* (1 charge)  
+• *[[Baie nourricière]]* (1 charge)  
+• *[[purification de nourriture et deau|Purification de la nourriture et de l’eau]]* (1 charge)  
+• *[[Coupe de poussière]]* (2 charges)  
 • *[[Festin de cendres]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[création deau|création d’eau]]*, *[[coupe de poussière]]*, ''[[festin

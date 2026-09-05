@@ -47,7 +47,7 @@ Les compétences du noble (et la caractéristique dont chacune dépend) sont : [
 **Points de compétence à chaque niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
-Voici les particularités et aptitudes de la classe de PNJ du noble.
+Voici les particularités et aptitudes de la classe de PNJ du noble. 
 
 #### Armes et armures
 Le noble est formé au maniement de toutes les [[arme courante|armes courantes]], de toutes les [[arme de guerre|armes de guerre]], des boucliers ainsi qu’au port de tous les types d’armures.

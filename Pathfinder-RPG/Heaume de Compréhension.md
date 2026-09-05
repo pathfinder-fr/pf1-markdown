@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:07
 {s:BDTitre|Heaume de compréhension|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 4  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 5 200 po ; **Poids** 1,5 kg
 (((Description)))
-{s:Desambi|Le <u>Manuel des joueurs</u> présente un objet identique nommé [[Casque de compréhension]].}Ce heaume a l’air on ne peut plus normal mais il permet à son porteur de comprendre n’importe quelle langue parlée ou écrite et de  déchiffrer les écrits magiques. Le porteur bénéficie d’un bonus de compétence de +5 aux tests de [[Linguistique]] pour déchiffrer des messages de forme incomplète, archaïque ou exotique. Notez que ce n’est pas parce qu’un personnage comprend un texte magique qu’il peut lancer les sorts associés.
+{s:Desambi|Le <u>Manuel des joueurs</u> présente un objet identique nommé [[Casque de compréhension]].}Ce heaume a l’air on ne peut plus normal mais il permet à son porteur de comprendre n’importe quelle langue parlée ou écrite et de  déchiffrer les écrits magiques. Le porteur bénéficie d’un bonus de compétence de +5 aux tests de [[Linguistique]] pour déchiffrer des messages de forme incomplète, archaïque ou exotique. Notez que ce n’est pas parce qu’un personnage comprend un texte magique qu’il peut lancer les sorts associés. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[compréhension des langages]]*, *[[lecture de la magie]]* ; **Coût** 2 600 po
 </div>

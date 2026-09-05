@@ -19,40 +19,40 @@ Voir aussi les [[Familles de monstres]].
 Tous les monstres de ce volume sont présentés avec trois icônes qui vous aident à identifier rapidement le rôle et la niche écologique qu’ils occupent en jeu. La première icône indique le type de monstre, la deuxième l’environnement dans lequel on le rencontre le plus souvent et la troisième le climat qu’il préfère. Vous trouverez d’autres précisions sur le type (et le sous-type) du monstre, son environnement et son climat de prédilection dans son profil, mais ces trois icônes vous aideront à repérer les informations de base d’un simple coup d’oeil.
 
 <table width="100%"><tr><td width="51%">
-**Type de créature**
-<img title="Aberration" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Aberration|Aberration]]
-<img title="Animal" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Animal|Animal]]
-<img title="Créature artificielle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature artificielle.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature artificielle|Créature artificielle]]
-<img title="Créature magique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature magique.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature magique|Créature magique]]
-<img title="Dragon" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Dragon|Dragon]]
-<img title="Extérieur" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Extérieur.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Extérieur|Extérieur]]
-<img title="Fée" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Fée.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Fée|Fée]]
-<img title="Humanoïde" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde|Humanoïde]]
-<img title="Humanoïde monstrueux" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde monstrueux.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde monstrueux|Hum. monstrueux]]
-<img title="Mort-vivant" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Mort-vivant|Mort-vivant]]
-<img title="Plante" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Plante|Plante]]
-<img title="Vase" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Vase|Vase]]
+**Type de créature**  
+<img title="Aberration" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Aberration|Aberration]]  
+<img title="Animal" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Animal|Animal]]  
+<img title="Créature artificielle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature artificielle.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature artificielle|Créature artificielle]]  
+<img title="Créature magique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature magique.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature magique|Créature magique]]  
+<img title="Dragon" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Dragon|Dragon]]  
+<img title="Extérieur" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Extérieur.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Extérieur|Extérieur]]  
+<img title="Fée" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Fée.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Fée|Fée]]  
+<img title="Humanoïde" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde|Humanoïde]]  
+<img title="Humanoïde monstrueux" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde monstrueux.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde monstrueux|Hum. monstrueux]]  
+<img title="Mort-vivant" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Mort-vivant|Mort-vivant]]  
+<img title="Plante" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Plante|Plante]]  
+<img title="Vase" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Vase|Vase]]  
 <img title="Vermine" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Vermine|Vermine]]
 </td><td width="2%">
 </td><td width="47%">
-**Terrain**
-<img title="Aquatique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png" style="opacity:1; height:35px; position:relative; top:8px"/> Aquatique
-<img title="Ciel" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Ciel.png" style="opacity:1; height:35px; position:relative; top:8px"/> Ciel
-<img title="Collines" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png" style="opacity:1; height:35px; position:relative; top:8px"/> Collines
-<img title="Désert" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Désert.png" style="opacity:1; height:35px; position:relative; top:8px"/> Désert
-<img title="Forêt-Jungle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Forêt-Jungle.png" style="opacity:1; height:35px; position:relative; top:8px"/> Forêt-Jungle
-<img title="Marais" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png" style="opacity:1; height:35px; position:relative; top:8px"/> Marais
-<img title="Montagnes" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Montagnes.png" style="opacity:1; height:35px; position:relative; top:8px"/> Montagnes
-<img title="Plaines" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png" style="opacity:1; height:35px; position:relative; top:8px"/> Plaines
-<img title="Ruines-Donjons" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png" style="opacity:1; height:35px; position:relative; top:8px"/> Ruines-Donjons
-<img title="Souterrain" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png" style="opacity:1; height:35px; position:relative; top:8px"/> Souterrain
+**Terrain**  
+<img title="Aquatique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aquatique.png" style="opacity:1; height:35px; position:relative; top:8px"/> Aquatique  
+<img title="Ciel" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Ciel.png" style="opacity:1; height:35px; position:relative; top:8px"/> Ciel  
+<img title="Collines" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Collines.png" style="opacity:1; height:35px; position:relative; top:8px"/> Collines  
+<img title="Désert" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Désert.png" style="opacity:1; height:35px; position:relative; top:8px"/> Désert  
+<img title="Forêt-Jungle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Forêt-Jungle.png" style="opacity:1; height:35px; position:relative; top:8px"/> Forêt-Jungle  
+<img title="Marais" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Marais.png" style="opacity:1; height:35px; position:relative; top:8px"/> Marais  
+<img title="Montagnes" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Montagnes.png" style="opacity:1; height:35px; position:relative; top:8px"/> Montagnes  
+<img title="Plaines" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plaines.png" style="opacity:1; height:35px; position:relative; top:8px"/> Plaines  
+<img title="Ruines-Donjons" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Ruines-Donjons.png" style="opacity:1; height:35px; position:relative; top:8px"/> Ruines-Donjons  
+<img title="Souterrain" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Souterrain.png" style="opacity:1; height:35px; position:relative; top:8px"/> Souterrain  
 <img title="Ville" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Ville.png" style="opacity:1; height:35px; position:relative; top:8px"/> Ville
 </td></tr></table>
 
-**Climat**
+**Climat**  
 <img title="Froid" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Froid.png" style="opacity:1; height:35px; position:relative; top:8px"/> Froid
 &emsp;<img title="Tempéré" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Tempéré.png" style="opacity:1; height:35px; position:relative; top:8px"/> Tempéré
-&emsp;<img title="Tropical" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png" style="opacity:1; height:35px; position:relative; top:8px"/> Tropical
+&emsp;<img title="Tropical" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Tropical.png" style="opacity:1; height:35px; position:relative; top:8px"/> Tropical  
 <img title="Extraplanaire" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Extraplanaire.png" style="opacity:1; height:35px; position:relative; top:8px"/> Extraplanaire
 
 </div>C’est dans cette partie que vous trouverez toutes les informations dont vous avez besoin pour jouer le monstre lors d’une rencontre. Voici comment s’organise un profil (sachant que, s’il n’y a pas de valeur associée à une ligne donnée, nous omettons cette ligne).

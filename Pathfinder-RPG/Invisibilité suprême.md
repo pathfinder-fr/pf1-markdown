@@ -17,28 +17,28 @@ Categories:
 - Sort spirite 4
 ---
 
-**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Antipaladin|Apal]] 4, [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]
-**Cible** le jeteur de sort ou la créature touchée
-**Durée** 1 round/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Antipaladin|Apal]] 4, [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
+**Cible** le jeteur de sort ou la créature touchée  
+**Durée** 1 round/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[invisibilité]]* mais l’effet ne s’interrompt pas lorsque le sujet attaque un adversaire.
 
 
 
 (((
 ## Invisibilité
-**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)
-**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]
-**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[[niveau]]
-**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
+**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[[niveau]]  
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif) ou oui (inoffensif, objet)
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#17|→]] *Invisibilité* : Un personnage se voit-il lui-même quand il est invisible ?***
 
 Le <u>[[invisibilité|sort]]</u> ne va pas explicitement en faveur d’une interprétation parmi d’autres.

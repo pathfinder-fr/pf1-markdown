@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:32
 {s:BDTitre|Trident des tritons|{s:AE}}
 **Aura** [[Évocation]] modérée ; **NLS** 6 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 15.065 po ; **Poids** 2 kg
 (((Description)))
-Ce *[[Trident (arme)|trident]] [[tueuse (propriété)|tueur]] d’humanoïdes monstrueux +1* aux dents recourbées est gravé d’écailles et de coquillages entremêlés. Un *trident des tritons* peut déclencher une *[[poussée hydraulique]]* trois fois par jour, une fois par dent. Le personnage peut combiner le pouvoir contenu dans chacune de ces dents pour déclencher un unique torrent une fois par jour. Le [[BMO]] de ces deux effets est de +6.
+Ce *[[Trident (arme)|trident]] [[tueuse (propriété)|tueur]] d’humanoïdes monstrueux +1* aux dents recourbées est gravé d’écailles et de coquillages entremêlés. Un *trident des tritons* peut déclencher une *[[poussée hydraulique]]* trois fois par jour, une fois par dent. Le personnage peut combiner le pouvoir contenu dans chacune de ces dents pour déclencher un unique torrent une fois par jour. Le [[BMO]] de ces deux effets est de +6. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[poussée hydraulique]]*, *[[torrent hydraulique]]*, *[[convocation de monstres I]]*  ; **Coût** 7.690 po
 </div>

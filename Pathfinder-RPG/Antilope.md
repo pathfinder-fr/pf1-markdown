@@ -55,31 +55,31 @@ Categories:
 
 </div>*Cet animal gracieux possède de longues pattes fines et une paire de solides cornes pointues, arquées vers l’arrière de sa tête.*
 
-Une antilope moyenne mesure un peu moins de 90
-centimètres au garrot, pour 1,20 mètre de long et 30 kilos. Chez
-certaines espèces, les mâles et les femelles sont pourvus de
-cornes, chez d’autres, elles sont le seul apanage des mâles. Les
-femelles n’ayant pas de cornes ont les mêmes caractéristiques
+Une antilope moyenne mesure un peu moins de 90 
+centimètres au garrot, pour 1,20 mètre de long et 30 kilos. Chez 
+certaines espèces, les mâles et les femelles sont pourvus de 
+cornes, chez d’autres, elles sont le seul apanage des mâles. Les 
+femelles n’ayant pas de cornes ont les mêmes caractéristiques 
 que les autres mais n’ont pas d’attaque efficace.
-Les antilopes paissent en larges troupeaux, toujours à
-l’affût des prédateurs. Le moindre signe de menace peut
-conduire le troupeau entier à s’enfuir vers des pâturages plus
-sûrs. Les antilopes se battent rarement, sauf entre elles lors
-de la saison de reproduction ou quand elles sont acculées par
+Les antilopes paissent en larges troupeaux, toujours à 
+l’affût des prédateurs. Le moindre signe de menace peut 
+conduire le troupeau entier à s’enfuir vers des pâturages plus 
+sûrs. Les antilopes se battent rarement, sauf entre elles lors 
+de la saison de reproduction ou quand elles sont acculées par 
 un prédateur.
 
-Les caractéristiques présentées ci-dessus
-fonctionnent très bien pour de nombreuses espèces
-d’antilopes, mais aussi pour les herbivores de petite
-taille, comme les daims, et que l’on trouve partout
-dans le monde. Évidemment, toutes les antilopes ne sont pas
-de taille P. Vous pouvez créer des caractéristiques
-pour des antilopes de plus grande taille, pour
-des créatures comme les oryx et les grands
-koudous, en rajoutant 2 DV à l’antilope présentée
-ci-dessus et en [[Archétypes.ashx#Créature_géante_FP_+B_5|augmentant]] sa catégorie
-de taille pour la faire passer à M.
-Toutes les antilopes de cette taille
+Les caractéristiques présentées ci-dessus 
+fonctionnent très bien pour de nombreuses espèces 
+d’antilopes, mais aussi pour les herbivores de petite 
+taille, comme les daims, et que l’on trouve partout 
+dans le monde. Évidemment, toutes les antilopes ne sont pas 
+de taille P. Vous pouvez créer des caractéristiques 
+pour des antilopes de plus grande taille, pour 
+des créatures comme les oryx et les grands 
+koudous, en rajoutant 2 DV à l’antilope présentée 
+ci-dessus et en [[Archétypes.ashx#Créature_géante_FP_+B_5|augmentant]] sa catégorie 
+de taille pour la faire passer à M. 
+Toutes les antilopes de cette taille 
 sont des créatures de FP 1.
 
 #### L'antilope comme compagnon animal

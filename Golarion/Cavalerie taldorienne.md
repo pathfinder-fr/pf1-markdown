@@ -7,7 +7,7 @@ Categories:
 - Taldor
 ---
 
-{s:Organisation|Cavalerie taldorienne|Taldan Horse|-|-|[[Oppara]], [[Taldor]]|-|Soldats montés|hiérarchie militaire|National|-}La cavalerie taldorienne est composée à la fois d'unités équestres et d'unités éléphantines.
+{s:Organisation|Cavalerie taldorienne|Taldan Horse|-|-|[[Oppara]], [[Taldor]]|-|Soldats montés|hiérarchie militaire|National|-}La cavalerie taldorienne est composée à la fois d'unités équestres et d'unités éléphantines. 
 
 Les légions équestres sont utilisées pour bloquer les avancées ennemies et pour déborder leurs lignes. Elles sont composées de chevaliers lourdement armés et sont dirigées par un capitaine chevalier. Les chevaux qui appartiennent aux légions équestres sont élevés dans des écuries au sud du [[Taldor]].
 

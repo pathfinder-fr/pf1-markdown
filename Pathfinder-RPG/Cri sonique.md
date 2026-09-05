@@ -13,16 +13,16 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[évocation]] <nowiki>[[</nowiki>son<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 4,5 m (3 {s:c})
-**Zone** explosion en cône
-**Durée** 1 round/niveau ou jusqu’à déchargement (cf. texte)
+{s:MCA}**École** [[évocation]] <nowiki>[[</nowiki>son<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 4,5 m (3 {s:c})  
+**Zone** explosion en cône  
+**Durée** 1 round/niveau ou jusqu’à déchargement (cf. texte)  
 **Jet de sauvegarde** [[Réflexes]], 1/2 dégâts (cf. texte) ; **Résistance à la magie** oui
 
-Jusqu’à trois fois pendant la durée de ce sort, le personnage peut émettre un cône de son puissant par une [[action simple]]. Le premier cône inflige 4d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le deuxième inflige 2d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le troisième inflige 1d4 points de dégâts de son à toutes les créatures présentes dans la zone.
+Jusqu’à trois fois pendant la durée de ce sort, le personnage peut émettre un cône de son puissant par une [[action simple]]. Le premier cône inflige 4d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le deuxième inflige 2d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le troisième inflige 1d4 points de dégâts de son à toutes les créatures présentes dans la zone. 
 
-Un jet de [[Réflexes]] réussi contre un cône permet de réduire de moitié les dégâts de ce cône. Après le troisième cône de son, le sort se termine.
+Un jet de [[Réflexes]] réussi contre un cône permet de réduire de moitié les dégâts de ce cône. Après le troisième cône de son, le sort se termine. 
 
 Jusqu’à ce qu’il ait utilisé les trois cônes, le personnage ne peut pas se servir de sa voix à des fins magiques (représentation bardique, incantation verbale, etc.) et il est incapable de parler à un volume inférieur à celui d’un cri.

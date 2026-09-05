@@ -12,12 +12,12 @@ Categories:
 - Src Guide des Royaumes fluviaux
 ---
 
-{s:CSU|7}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[MAgicien|Mag]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (1 pa)
-**Portée** [[contact]]
-**Cible** objet touché
-**Durée** 1 minute/[[niveau]]
+{s:CSU|7}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[MAgicien|Mag]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (1 pa)  
+**Portée** [[contact]]  
+**Cible** objet touché  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Vigueur, partiel]] (voir texte) ; **Résistance à la magie** non
 
 *Les serviteurs de l'impitoyable dictateur des vallons de Noire-Épine dérobèrent un sort créé à l’origine pour combattre les diables de l'Empire diabolique et le trouvent très utile pour apprivoiser et contrôler les dryades des environs.*

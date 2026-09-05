@@ -12,28 +12,28 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Vudrani|Vudrains|vudrains}{s:cs}{s:ISR}**École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible ou Cibles** voir texte
+{s:regional|Vudrani|Vudrains|vudrains}{s:cs}{s:ISR}**École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible ou Cibles** voir texte  
 **Durée** instantanée
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
----
+<hr />
 Le personnage mêle le pouvoir de son esprit et de son corps pour exercer une force au-delà de sa portée. Ce sort fonctionne comme la version manœuvre offensive de *[[télékinésie]]*, excepté les précisions ci-dessus. Autrement, le personnage peut choisir d'infliger une [[Actions simples#ATTAQUESAMAINSNUES|attaque à mains nues]] télékinétique avec ce sort, en utilisant ses propres dégâts d'attaque à mains nues et en appliquant le modificateur de sa caractéristique d'incantation aux dégâts à la place de son modificateur de [[Force]].
 
 
 
 (((
 ## Télékinésie
-**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible ou Cibles** voir texte
-**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible ou Cibles** voir texte  
+**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
----
+<hr />
 Cette incantation permet de déplacer des objets ou des créatures à distance, juste en se [[concentration|concentrant]]. Selon la version choisie, le sort génère une force graduelle, une violente poussée, ou permet d’exécuter des manœuvres de combat.
 
 **Force graduelle.** Cette version du sort permet de déplacer un objet pesant jusqu’à 12,5 kg par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 187,5 kg au [[niveau]] 15) et de lui faire parcourir un maximum de six mètres par [[round]]. Une créature peut annuler cet effet s’il vise l’un de ses objets en réussissant un jet de [[Volonté]] ou un [[test de résistance à la magie]].

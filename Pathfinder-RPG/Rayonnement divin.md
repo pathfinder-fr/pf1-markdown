@@ -6,11 +6,11 @@ Categories:
 - Don
 ---
 
-{s:MR}*L’aasimar peut utiliser sa lumière divine de bien des façons.*
+{s:MR}*L’aasimar peut utiliser sa lumière divine de bien des façons.* 
 
 **Conditions requises.** [[aasimar (race)|Aasimar]], *[[lumière du jour]]* pouvoir magique, niveau suffisamment élevé (voir ci-dessous).
 
-**Avantages.** L’aasimar gagne une utilisation supplémentaire par jour de *[[lumière du jour]]*. Il choisit un sort dans la table ci-dessous ; en dépensant une utilisation de lumière du jour, il peut utiliser ce sort comme un pouvoir magique. Pour choisir un sort, il doit avoir le niveau de personnage minimum indiqué dans la table. Le [[DD]] du [[jds|jet de sauvegarde]] pour ce sort est basé sur le [[Charisme]].
+**Avantages.** L’aasimar gagne une utilisation supplémentaire par jour de *[[lumière du jour]]*. Il choisit un sort dans la table ci-dessous ; en dépensant une utilisation de lumière du jour, il peut utiliser ce sort comme un pouvoir magique. Pour choisir un sort, il doit avoir le niveau de personnage minimum indiqué dans la table. Le [[DD]] du [[jds|jet de sauvegarde]] pour ce sort est basé sur le [[Charisme]]. 
 
 <div align="center">
 

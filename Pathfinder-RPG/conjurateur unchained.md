@@ -11,7 +11,7 @@ Categories:
 {s:MenuPathfinderunchained}{s:PU}*Il y a des individus qui s’engagent sur une voie différente lorsqu’ils apprennent les arts magiques. Ils dépassent les frontières du monde et entrent en contact avec des plans reculés pour invoquer et plier toutes sortes de créatures à leur volonté. Appelés conjurateurs, ces pratiquants de la magie nouent des liens étroits avec des extérieurs particuliers que l’on appelle eidolons et qui augmentent en puissance en même temps que ceux qui les ont invoqués. Les conjurateurs et leurs eidolons finissent par devenir tellement proches qu’ils partagent certains aspects de leur âme.*
 
 ### Version unchained
-<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi l'[[eidolon unchained|eidolon]] du conjurateur unchained.***
+<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi l'[[eidolon unchained|eidolon]] du conjurateur unchained.***  
 ***Voir aussi la [[Liste des sorts du conjurateur unchained]].***
 </div>La plupart des aptitudes de classe du conjurateur sont les mêmes que celles de la classe d’origine. Les changements les plus importants concernent l’eidolon. Le conjurateur unchained sélectionne un sous-type pour son eidolon (comme ange, démon ou protéen). Ce sous-type détermine un certain nombre d’évolutions et aide à imaginer l’attitude et l’apparence générales de la créature. De plus, certaines évolutions sont maintenant liées à un ou plusieurs sous-types et aspects généraux pour que l’apparence et les pouvoirs des eidolons correspondent mieux à ceux des créatures imitées. Enfin, la liste de sorts des conjurateurs a été presque entièrement révisée et les éléments déséquilibrés ont été retirés.
 
@@ -367,9 +367,9 @@ Le conjurateur est formé au maniement de toutes les armes courantes et au port 
 
 </center></div></div>
 #### Sorts
-Un conjurateur lance des sorts profanes issus de la [[Liste des sorts du conjurateur unchained|liste de sorts du conjurateur unchained]]. (La liste des sorts du conjurateur unchained est différente de celle du conjurateur). Il peut lancer tous les sorts de sa connaissance sans avoir besoin de les préparer à l’avance.
+Un conjurateur lance des sorts profanes issus de la [[Liste des sorts du conjurateur unchained|liste de sorts du conjurateur unchained]]. (La liste des sorts du conjurateur unchained est différente de celle du conjurateur). Il peut lancer tous les sorts de sa connaissance sans avoir besoin de les préparer à l’avance. 
 
-Pour apprendre ou lancer un sort, le conjurateur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD]] du [[jds|jet de sauvegarde]] contre les sorts du conjurateur est égal à 10 + le niveau du sort + le modificateur de [[Charisme]] du conjurateur.
+Pour apprendre ou lancer un sort, le conjurateur doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Le [[DD]] du [[jds|jet de sauvegarde]] contre les sorts du conjurateur est égal à 10 + le niveau du sort + le modificateur de [[Charisme]] du conjurateur. 
 
 Un conjurateur ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre d’emplacements de sort quotidiens est donné dans la table "[[Conjurateur unchained#TABLECONJURATEUR|Le conjurateur]]". De plus, il reçoit des sorts supplémentaires quotidiens s’il possède une valeur de [[Charisme]] élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 

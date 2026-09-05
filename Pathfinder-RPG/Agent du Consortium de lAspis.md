@@ -136,17 +136,17 @@ Les agents du consortium recherchent des connaissances anciennes pour retrouver 
 ### Conditions requises
 Pour pouvoir devenir agent du consortium, le personnage doit satisfaire aux conditions suivantes.
 
-**Compétences.** 5 rangs en [[Artisanat]] (pièges), 5 rangs en [[Bluff]], 5 rangs en [[Connaissances]] (histoire), 5 rangs en [[Estimation]], 5 rangs en [[Intimidation]], 5 rangs en [[Perception]], 5 rangs en [[Sabotage]].
+**Compétences.** 5 rangs en [[Artisanat]] (pièges), 5 rangs en [[Bluff]], 5 rangs en [[Connaissances]] (histoire), 5 rangs en [[Estimation]], 5 rangs en [[Intimidation]], 5 rangs en [[Perception]], 5 rangs en [[Sabotage]]. 
 
-**Spécial.** Doit être formé au maniement du [[fouet (arme)|fouet]] et doit posséder la capacité de classe [[Roublard#SENSDESPIEGES|sens des pièges]] ou être capable de lancer le sort *[[détection des passages secrets]]*.
+**Spécial.** Doit être formé au maniement du [[fouet (arme)|fouet]] et doit posséder la capacité de classe [[Roublard#SENSDESPIEGES|sens des pièges]] ou être capable de lancer le sort *[[détection des passages secrets]]*. 
 
 ### Compétences de classe
-Voici les compétences de classe de l'agent du consortium: [[Bluff]] (Cha), [[Connaissances]] (histoire) (Int), [[Connaissances]] (mystères) (Int), [[Déguisement]] (Cha), [[Escamotage]] (Dex), [[Psychologie]] (Sag), [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha).
+Voici les compétences de classe de l'agent du consortium: [[Bluff]] (Cha), [[Connaissances]] (histoire) (Int), [[Connaissances]] (mystères) (Int), [[Déguisement]] (Cha), [[Escamotage]] (Dex), [[Psychologie]] (Sag), [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha). 
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe d'agent du consortium.
+Voici les caractéristiques de la classe d'agent du consortium. 
 
 {s:reference|SENSDESPIEGES}
 #### Sens des pièges (Ext)
@@ -179,7 +179,7 @@ Au niveau 10, lorsqu'un agent du consortium endosse l'aura d'un faux alignement,
 
 {s:reference|PIEGEDEMBUSCADE}
 #### Piège d'embuscade (Ext)
-Au niveau 3, un agent du consortium peut truquer un piège mécanique qu'il a soit créé lui-même, soit réussi à contourner en dépassant son [[DD]] de Désamorçage de 10. Un piège ainsi modifié peut être déclenché par l'agent du consortium par une [[action de mouvement]] tant qu'il est dans une case adjacente au piège. Il ajoute son bonus de [[Agent du Consortium de lAspis#SENSDESPIEGES|sens des pièges]] au DD du piège pour les tests de [[Perception]] et aux [[jet dattaque|jets d'attaque]] du piège. Il ajoute aussi ses dégâts d'attaque sournoise aux dégâts du piège pour les créatures [[Pris au dépourvu|prises au dépourvu]] ou qui ont autrement perdu leur bonus de [[Dextérité]] à la [[CA]].
+Au niveau 3, un agent du consortium peut truquer un piège mécanique qu'il a soit créé lui-même, soit réussi à contourner en dépassant son [[DD]] de Désamorçage de 10. Un piège ainsi modifié peut être déclenché par l'agent du consortium par une [[action de mouvement]] tant qu'il est dans une case adjacente au piège. Il ajoute son bonus de [[Agent du Consortium de lAspis#SENSDESPIEGES|sens des pièges]] au DD du piège pour les tests de [[Perception]] et aux [[jet dattaque|jets d'attaque]] du piège. Il ajoute aussi ses dégâts d'attaque sournoise aux dégâts du piège pour les créatures [[Pris au dépourvu|prises au dépourvu]] ou qui ont autrement perdu leur bonus de [[Dextérité]] à la [[CA]]. 
 
 {s:reference|ATTAQUESOURNOISE}
 #### Attaque sournoise (Ext)

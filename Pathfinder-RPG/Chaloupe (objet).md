@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Passage (1,5 km)** 2 cp
+{s:AE}**Prix** 50 po ; **Passage (1,5 km)** 2 cp  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 {s:Desambi|Cet objet était nommé "Barque" dans le <u>Manuel des joueurs</u>.}Ce bateau de 2,50 à 6 mètres de long avec deux rames accueille deux ou trois passagers de taille M. On peut le transporter sur le pont d’un navire plus grand ou l’amarrer à un quai. La chaloupe se déplace à une vitesse d’environ 2,5 km/h.

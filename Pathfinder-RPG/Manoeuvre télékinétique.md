@@ -11,28 +11,28 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[magus]] 4, [[psychiste|Psy]] 3, [[spirite|Spi]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cible** 1 créature
-**Durée** concentration (jusqu’à 1 [[round]]/niveau)
+{s:AO}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[magus]] 4, [[psychiste|Psy]] 3, [[spirite|Spi]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cible** 1 créature  
+**Durée** concentration (jusqu’à 1 [[round]]/niveau)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[télékinésie]]* mais sert seulement à effectuer une manœuvre offensive de [[Manœuvres offensives#BOUSCULADE|bousculade]], de [[Manœuvres offensives#DESARMEMENT|désarmement]], d’[[Manœuvres offensives#ENTRAINEMENT|entraînement]], de [[Manœuvres offensives#LUTTE|lutte]] (y compris d’immobilisation), de [[Manœuvres offensives#REPOSITIONNEMENT|repositionnement]], de [[Manœuvres offensives#SUBTILISATION|subtilisation]] ou de [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]].
 
 
 
 (((
 ## Télékinésie
-**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cible ou Cibles** voir texte
-**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cible ou Cibles** voir texte  
+**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
----
+<hr />
 Cette incantation permet de déplacer des objets ou des créatures à distance, juste en se [[concentration|concentrant]]. Selon la version choisie, le sort génère une force graduelle, une violente poussée, ou permet d’exécuter des manœuvres de combat.
 
 **Force graduelle.** Cette version du sort permet de déplacer un objet pesant jusqu’à 12,5 kg par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 187,5 kg au [[niveau]] 15) et de lui faire parcourir un maximum de six mètres par [[round]]. Une créature peut annuler cet effet s’il vise l’un de ses objets en réussissant un jet de [[Volonté]] ou un [[test de résistance à la magie]].

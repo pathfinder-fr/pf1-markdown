@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[For]] 15, [[Science du combat à mains nues]], [[École du dragon]], [[Coup étourdissant]], 5 rangs en [[Acrobaties]]
+**Conditions.** [[For]] 15, [[Science du combat à mains nues]], [[École du dragon]], [[Coup étourdissant]], 5 rangs en [[Acrobaties]] 
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 

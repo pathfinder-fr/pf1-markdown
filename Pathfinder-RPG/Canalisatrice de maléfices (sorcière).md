@@ -15,9 +15,9 @@ Categories:
 Au niveau 2, une canalisatrice de maléfices peut invoquer l’aide de son protecteur pour créer une vague d’énergie provenant d’elle-même ou de son familier. Une sorcière Bonne canalise l’énergie positive (comme un prêtre Bon) et une sorcière Mauvaise canalise l’énergie négative (comme un prêtre Mauvais). Une sorcière ni Bonne ni Mauvaise choisit de canaliser l’énergie positive ou négative et ce choix est définitif.
 
 La canalisation d’énergie produit un rayonnement qui affecte toutes les créatures du même type (mort-vivant ou vivant) dans
-un rayon de 9 mètres centré sur la sorcière.
+un rayon de 9 mètres centré sur la sorcière. 
 
-Celle-ci peut canaliser l’énergie un nombre de fois par jour égal à 3 + son modificateur de Charisme (minimum 1). Cette aptitude fonctionne, par ailleurs, comme celle du prêtre lorsqu’il canalise l’énergie, sauf que la sorcière n’a pas besoin d’un symbole sacré pour l’utiliser.
+Celle-ci peut canaliser l’énergie un nombre de fois par jour égal à 3 + son modificateur de Charisme (minimum 1). Cette aptitude fonctionne, par ailleurs, comme celle du prêtre lorsqu’il canalise l’énergie, sauf que la sorcière n’a pas besoin d’un symbole sacré pour l’utiliser. 
 
 La canalisatrice de maléfices remplace le niveau de prêtre par son niveau de sorcière pour tous les autres effets qui dépendent de la canalisation d’énergie (à l’exception de l’augmentation des dégâts soignés ou infligés). Elle peut inclure ou non sa personne et/ou son familier dans la zone d’effet de la canalisation.
 

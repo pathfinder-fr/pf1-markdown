@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Les déplacements erratiques du personnage déroutent ses adversaires. *
 
-**Conditions.** [[Esquive]], 5 rangs en [[Acrobaties]]
+**Conditions.** [[Esquive]], 5 rangs en [[Acrobaties]] 
 
 **Avantage.** Si le personnage réussit à utiliser [[Acrobaties]] pour traverser la case d’un adversaire, il gagne un bonus de circonstances de +2 aux [[jet dattaque|jets d’attaque]] contre lui jusqu’au début de son prochain tour. S’il choisit de lui faire un [[croc-en-jambe]], il gagne un bonus de circonstances de +4 au test de [[manœuvre offensive]]. Ce bonus dure également jusqu’au début de son prochain tour.

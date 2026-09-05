@@ -36,19 +36,19 @@ Le Seigneur de minuit|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png|[[Divinités#PRINC
 : **3.** ***Vision de la nuit absolue (Ext).*** Tout l'entraînement que le personnage a suivi dans l'obscurité totale lui a donné l'étrange capacité de sentir ce qui l'entoure, même dans la nuit la plus noire. Il gagne la [[Perception aveugle (capacité)|perception aveugle]] à 6 mètres. Si le personnage possède déjà la perception aveugle à 6 m ou plus, il augmente sa portée de 3 m à la place.
 
 ### Règles uniques aux suivants
-**Lancement de sorts (toutes les classes).**
+**Lancement de sorts (toutes les classes).**  
 • Les sorts de « blessure » lancés par les fidèles de Zon-Kuthon provoquent toujours des blessures ouvertes visibles qui semblent avoir été causées par des armes tranchantes, bien que la cause réelle des dégâts soit toujours l'énergie négative.
 
-**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
 • *[[Symbole de douleur]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* Ombre inférieure (voir le *Tome of Horrors*) - LM
-• *[[Convocation de monstres IV]].* [[Ombre]] - LM
-• *[[Convocation de monstres VIII]].* [[Érinye]] - LM
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* Ombre inférieure (voir le *Tome of Horrors*) - LM  
+• *[[Convocation de monstres IV]].* [[Ombre]] - LM  
+• *[[Convocation de monstres VIII]].* [[Érinye]] - LM  
 • *[[Convocation de monstres VIII]].* [[Ombre supérieure]] - LM
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

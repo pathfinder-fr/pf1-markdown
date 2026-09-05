@@ -12,12 +12,12 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** 1 [[round]]/[[niveau]]
+{s:UM}**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage frappe un unique adversaire d’un profond chagrin. La victime ne peut pas entreprendre la moindre [[action]], reçoit un malus de -2 à la [[CA]] et perd son bonus de [[Dextérité]] (le cas échéant). Elle peut tenter un nouveau [[jet de sauvegarde]] par [[round]] pour briser l’effet.

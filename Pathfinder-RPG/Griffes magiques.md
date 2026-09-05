@@ -15,7 +15,7 @@ Categories:
 
 **Conditions.** [[Force|For]] 15, armes naturelles, [[BBA]] +6.
 
-**Avantage.** Les armes naturelles du personnage fonctionnent à la fois comme des armes magiques et des armes en [[Matériaux spéciaux#ARGENT|argent]] vis-à-vis de la [[RD|résistance aux dégâts]].
+**Avantage.** Les armes naturelles du personnage fonctionnent à la fois comme des armes magiques et des armes en [[Matériaux spéciaux#ARGENT|argent]] vis-à-vis de la [[RD|résistance aux dégâts]]. 
 
 {s:PU}
 #### Astuce martiale ([[Endurance et Astuces martiales|règles]])

@@ -65,7 +65,7 @@ Les marchands échangent couramment des marchandises sans utiliser de devises.
 
 Les marchandises sont l’exception à la règle qui veut que les personnages échangent un objet pour la moitié de son prix, ce sont des articles ayant suffisamment de valeur pour être échangés comme s’ils constituaient de la monnaie en eux-mêmes.
 
-Les marchandises sont généralement transportées et vendues en plus grandes quantités que celle indiquée. Un fermier peut avoir des sacs de pommes de terre de 5 et de 10 kilos à vendre à une famille nombreuse ou à un restaurant et sera réticent à ouvrir un sac pour ne vendre que quelques pommes de terre au détail.
+Les marchandises sont généralement transportées et vendues en plus grandes quantités que celle indiquée. Un fermier peut avoir des sacs de pommes de terre de 5 et de 10 kilos à vendre à une famille nombreuse ou à un restaurant et sera réticent à ouvrir un sac pour ne vendre que quelques pommes de terre au détail. 
 
 Les marchandises se répartissent en différentes catégories.
 
@@ -81,7 +81,7 @@ Elles sont généralement vendues en pots, en bouteilles ou en sachets de tissu 
 
 #### Matières premières
 Les matières premières n’ont pas beaucoup d’utilité en tant que telles mais permettent de fabriquer des objets utiles ou de valeur. Le fer, la pierre, l’ébénite, le cuir, le tissu et les fourrures sont des matières premières. Les métaux sont
-généralement vendus sous forme de lingots ou de pépites brutes mais on peut les transporter ou les vendre sous forme de minerais. La valeur du minerai de métal dépend de sa teneur (de la quantité de métal précieux que contient le volume total de la roche). Pour une campagne de fantasy typique, la teneur du minerai peut atteindre les 60% (pour certains gisements riches en fer) ou à peine 5% (pour toute qualité inférieure, il serait contre-productif d’extraire le minerai). Pour plus de facilité, partez du principe que les minerais communs ont une teneur de 25%. Multipliez le prix de 0,5 kg de métal pur par le pourcentage de cette teneur afin de définir au mieux la valeur du minerai.
+généralement vendus sous forme de lingots ou de pépites brutes mais on peut les transporter ou les vendre sous forme de minerais. La valeur du minerai de métal dépend de sa teneur (de la quantité de métal précieux que contient le volume total de la roche). Pour une campagne de fantasy typique, la teneur du minerai peut atteindre les 60% (pour certains gisements riches en fer) ou à peine 5% (pour toute qualité inférieure, il serait contre-productif d’extraire le minerai). Pour plus de facilité, partez du principe que les minerais communs ont une teneur de 25%. Multipliez le prix de 0,5 kg de métal pur par le pourcentage de cette teneur afin de définir au mieux la valeur du minerai. 
 Par exemple, 0,5 kg d’or coûtant 50 po, un minerai ayant une teneur de 25% vaudra environ 50 po × 25% = 12,5 po pour 0,5 kg. Au vu du coût de la fonte, le minerai vaut généralement de la moitié aux trois-quarts de cette valeur (ainsi, un minerai d’or avec une teneur de 25 % sera acheté et vendu de 6 à 9 po les 500 grammes).
 
 

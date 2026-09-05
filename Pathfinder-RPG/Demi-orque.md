@@ -46,7 +46,7 @@ Les demi-orques ont autant de chances que les autres de donner naissance à des 
 
 Dans les sociétés humaines, les demi-orques ont quelques options supplémentaires. Beaucoup optent pour la facilité et tirent parti de leur force en travaillant comme mercenaires ou gardes de caravane. Le crime est aussi un choix évident, car les rois de la pègre sont toujours en quête de gros bras. Les prêtres demi-orques sont rares dans les communautés humaines et les demi-orques les plus religieux se tournent souvent (quand on ne les y pousse pas...) vers les aspects martiaux de la religion et deviennent paladins ou inquisiteurs. Ils n’ont généralement ni la patience ni l’argent nécessaire pour devenir magiciens.
 
-**Noms masculins.** Ausk, Davor, Hakak, Kizziar, Makoa, Nesteruk, Tsadok.
+**Noms masculins.** Ausk, Davor, Hakak, Kizziar, Makoa, Nesteruk, Tsadok.  
 **Noms féminins.** Canan, Droghéda, Goruza, Mazon, Shirish, Tévaga, Zeljka.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -140,15 +140,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les demi-orques occultes.** Les pouvoirs essentiellement créés par l’esprit peuvent paraître inadaptés dans le cas des demi-orques ; c’est du moins ce que pense la plupart des gens vis-à-vis de leurs capacités. Certains demi-orques développent pourtant certains pouvoirs psychiques qu’ils héritent le plus souvent d’un parent humain. Quand le sang orque contribue à leur talent psychique, il permet généralement le développement des aptitudes de cinétiste.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute +1/2 aux dégâts de sa [[Alchimiste#BOMBES|bombe]].
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute +1/2 aux dégâts de sa [[Alchimiste#BOMBES|bombe]].   
 Les demi-orques élevés par leurs parents monstrueux ne s’intéressent généralement guère aux études mais un nombre impressionnant d’entre eux se tournent vers l’alchimie, attirés par le potentiel destructif des bombes, des poisons et des mutagènes.
 
 {s:MCA}**[[Arcaniste]].** Gain d’un bonus de [[concentration]] de +1 quand il subit des dégâts lors d’une incantation.
 
-{s:MR}{s:APG}**[[Barbare]].** Le barbare gagne un round de [[Barbare#RAGEDEBERSERKER|rage]] supplémentaire par jour.
+{s:MR}{s:APG}**[[Barbare]].** Le barbare gagne un round de [[Barbare#RAGEDEBERSERKER|rage]] supplémentaire par jour.  
 Les barbares demi-orques sont des champions légendaires, des machines de guerre imparables qui contribuent à renforcer la mauvaise réputation qu’a leur race à travers le monde (une réputation qui, selon les points de vue, tourne à leur avantage ou à leur désavantage). Leur soif de bataille et leur aptitude à puiser dans la fureur bestiale de leur héritage orque leur suffisent amplement pour mériter une place dans la plupart des groupes d’aventuriers.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde gagne un round de [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] supplémentaire par jour.
+{s:MR}{s:APG}**[[Barde]].** Le barde gagne un round de [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] supplémentaire par jour.  
 Les demi-orques qui tentent de combattre les préjugés raciaux des races civilisées utilisent parfois les représentations, la diplomatie et l’érudition pour se comporter de manière distinguée et pour améliorer la réputation des autres demi-orques au sein de leur communauté ou de la société en général.
 
 {s:MCA}**[[Bretteur]].** Gain d’un bonus de +1/3 sur les jets de confirmation de [[coup critique]] lors de l’[[exploits (bretteur)|exploit attaque précise]], avec un maximum de +5. Ce bonus ne se cumule pas avec [[Don pour les critiques]] et les autres effets similaires.
@@ -157,7 +157,7 @@ Les demi-orques qui tentent de combattre les préjugés raciaux des races civili
 
 {s:MCA}**[[Chasseur]].** Le [[compagnon animal]] gagne 1 [[pv|point de vie]]. Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
 
-{s:MR}{s:APG}**[[Chevalier]].** La [[chevalier#MONTURE|monture]] du chevalier gagne 1 pv. S’il en change, la nouvelle gagne aussi ces points de vie supplémentaires.
+{s:MR}{s:APG}**[[Chevalier]].** La [[chevalier#MONTURE|monture]] du chevalier gagne 1 pv. S’il en change, la nouvelle gagne aussi ces points de vie supplémentaires.  
 Les demi-orques se heurtent souvent aux préjugés lorsqu’ils tentent de se faire accepter au sein des maisons nobles ou des ordres de chevalerie des humains, mais leur stature physique et leurs capacités martiales incitent parfois ceux qui voudraient les rejeter à reconsidérer leur point de vue. Dans les sociétés orques, les chevaliers font souvent fonction de porte-étendards au service de seigneurs de guerre.
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
@@ -166,23 +166,23 @@ Les demi-orques se heurtent souvent aux préjugés lorsqu’ils tentent de se fa
 
 Oui, ils devraient <u>[[Demi-orque|tous]]</u> <u>[[Nain|deux]]</u> ne s’appliquer que lorsque le [[Cinétiste#BOUILLONNEMENTELEMENTAIRE|bouillonnement élémentaire]] s’applique, comme pour le bonus de classe de prédilection des [[Elfe|elfes]]. Cela sera reflété dans le prochain errata.}{s:AO}**[[Cinétiste]].** le personnage inflige 1/3 point de dégâts de feu supplémentaires aux [[talents sauvages#TALENTSSAUVAGES|explosions de feu]] qui infligent des dégâts de feu et qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
 
-{s:MR}{s:APG}**[[Conjurateur]].** L’[[eidolon]] du conjurateur gagne 1 pv.
+{s:MR}{s:APG}**[[Conjurateur]].** L’[[eidolon]] du conjurateur gagne 1 pv.  
 Les demi-orques sont souvent des exclus. Bon nombre d’entre eux se tournent vers la carrière de conjurateur dans l’espoir de façonner des êtres qui seront parfaitement loyaux et amicaux envers eux. Les demi-orques conjurateur qui habitent les territoires des orques créent plutôt des eidolons qui sont aussi grands et menaçants que possible.
 
-{s:MR}{s:APG}**[[Druide]].** Quand le druide utilise [[Druide#FORMEANIMALE|forme animale]], il gagne +1/3 bonus à l’armure naturelle.
+{s:MR}{s:APG}**[[Druide]].** Quand le druide utilise [[Druide#FORMEANIMALE|forme animale]], il gagne +1/3 bonus à l’armure naturelle.  
 Les druides demi-orques considèrent souvent le monde naturel comme une source de pouvoirs primitive et sauvage. Ils utilisent le potentiel destructeur des prédateurs et des tempêtes. Nombre d’entre ont choisi le druidisme après avoir été exclus des sociétés humanoïdes et ont ainsi trouvé la paix et l’acceptation parmi les créatures de la nature.
 
 {s:MCA}**[[Enquêteur]].** Gain d’un bonus de +1/3 sur les jets de confirmation de [[coup critique]] lors d’un combat étudié, avec un maximum de +5. Ce bonus ne se cumule pas avec [[Don pour les critiques]] et autres effets similaires.
 
-{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 point de dégâts à ses sorts du [[registre]] du feu.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 point de dégâts à ses sorts du [[registre]] du feu.  
 Les magiciens sont rares dans la société orque mais la sorcellerie possède une simplicité brutale que les [[orque|orques]] peuvent comprendre et apprécier. Les capacités des demi-orques ensorceleurs en font donc des individus très précieux (et très craints) dans les sociétés orques et humaines.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +2 quand il fait un jet pour se [[Blessures et mort#STABLE|stabiliser]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +2 quand il fait un jet pour se [[Blessures et mort#STABLE|stabiliser]].  
 De nombreux demi-orques sont choisis pour recevoir un entraînement martial à cause de leur taille et de leur apparence intimidantes. Parmi les autres races, beaucoup supposent que tous les combattants demi-orques chargent en hurlant à la manière d’un barbare mais, en réalité, de nombreux demi-orques préfèrent la discipline, la précision et la versatilité qui caractérisent l’art du guerrier.
 
 {s:AO}**[[Hypnotiseur]].** le personnage augmente de 1/2 point les dégâts supplémentaires infligés par son [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]].
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur ajoute +1/2 à ses tests d’[[Intimidation]] et de [[Connaissances]] pour identifier une créature.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur ajoute +1/2 à ses tests d’[[Intimidation]] et de [[Connaissances]] pour identifier une créature.  
 Les demi-orques, que de nombreuses races trouvent naturellement intimidants, font d’excellents inquisiteurs. Ils agissent en tant que gardes du corps, hommes de main dans le monde criminel ou encore chasseurs de monstres (traquant même parfois leurs cousins orques).
 
 {s:cs}{s:UI}**[[Justicier]].** Augmente de +1/2 le bonus au DD de la capacité [[Justicier#IMPERTURBABLE|imperturbable]].
@@ -191,44 +191,44 @@ Les demi-orques, que de nombreuses races trouvent naturellement intimidants, fon
 </td><td width="49%">
 {s:MCA}**[[Lutteur]].** Ajoute 1/4 au niveau effectif de lutteur pour déterminer les dégâts de ses attaques à mains nues.
 
-{s:MR}{s:APG}**[[Magicien]].** Le magicien gagne un bonus de +1 aux tests de [[Concentration]] qu’il effectue parce qu’il a reçu des dégâts lors de l’incantation d’un sort de magicien.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien gagne un bonus de +1 aux tests de [[Concentration]] qu’il effectue parce qu’il a reçu des dégâts lors de l’incantation d’un sort de magicien.  
 Les magiciens sont extrêmement rares dans les sociétés des orques car ceux-ci n’ont qu’un accès très limité (et un intérêt tout aussi limité) aux livres et aux études magiques. On rencontre parfois dans les communautés humaines des magiciens demi-orques qui étudient avec ardeur pour maîtriser des pouvoirs qui pourraient les aider à gagner le respect et le statut qu’ils désirent si désespérément.
 
-{s:MR}**[[Magus]].** Le magus ajoute +1/2 point de dégâts à ses sorts du [[registre]] du feu.
+{s:MR}**[[Magus]].** Le magus ajoute +1/2 point de dégâts à ses sorts du [[registre]] du feu. 
 
 {s:AO}**[[Médium]].** quand il acquiert un [[médium#TABOU|tabou]], le médium peut utiliser l’[[médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle]] sans subir d’[[médium#ESPRIT|influence]] 1/4 fois de plus par jour.
 
-{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 à son [[DMD]] quand il résiste à une [[Manoeuvres offensives#LUTTE|lutte]] et peut faire 1/2 [[moine#COUPETOURDISSANT|coup étourdissant]] de plus par jour.
+{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 à son [[DMD]] quand il résiste à une [[Manoeuvres offensives#LUTTE|lutte]] et peut faire 1/2 [[moine#COUPETOURDISSANT|coup étourdissant]] de plus par jour.  
 La plupart des moines demi-orques ont appris leurs savoirs auprès des humains car cette discipline est rare au sein de la société orque. Certains cherchent à surmonter leur nature bestiale en atteignant un équilibre et un contrôle parfaits alors que d’autres veulent seulement écrabouiller des ennemis à mains nues.
 
 {s:AO}**[[Occultiste]].** le personnage inflige 1/2 point de dégâts supplémentaires avec ses [[occultiste#POUVOIRSDEFOCALISATION|pouvoirs de focalisation]].
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle connaît un sort de plus issu de la [[liste des sorts de prêtres|liste des sorts d’oracle]]. Ce sort doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Oracle]].** L’oracle connaît un sort de plus issu de la [[liste des sorts de prêtres|liste des sorts d’oracle]]. Ce sort doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.   
 Les oracles demi-orques sont des individus férus de mystères et de présages. Il s’agit souvent de prophètes intimidants prédisant malheurs et destruction et tirant leurs pouvoirs des esprits des morts, des puissances de la guerre ou des éléments les plus violents tels que le feu et les tempêtes.
 
-{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute 1/3 à ses jets de confirmation de [[coup critique]] quand il utilise [[paladin#CHATIMENTDUMAL|châtiment du Mal]] (bonus de +5 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute 1/3 à ses jets de confirmation de [[coup critique]] quand il utilise [[paladin#CHATIMENTDUMAL|châtiment du Mal]] (bonus de +5 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].  
 Certaines races considèrent comme ridicule l’idée d’un paladin demi-orque mais, en fait, il n’est pas rare qu’un demi-orque se dévoue à une [[Golarion.religions et philosophies|divinité]] [[alignement#LB|Loyale Bonne]] et devienne un champion de sa cause pour tenter de redorer son image au sein de la société et prouver sa valeur.
 
-{s:MR}**[[Pistolier]].** Le pistolier gagne un bonus de +1/3 aux jets d’attaque quand il fait l’exploit [[exploits#COUPDECROSSE|coup de crosse]].
+{s:MR}**[[Pistolier]].** Le pistolier gagne un bonus de +1/3 aux jets d’attaque quand il fait l’exploit [[exploits#COUPDECROSSE|coup de crosse]]. 
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.  
 Au sein de leur communauté, les prêtres demi-orques jouent souvent le rôle de dirigeants spirituels et de liens entre les vivants et les morts. Ils se tiennent toujours prêts tant à prendre soin des autres et à les soigner qu’à rendre la justice divine et à conquérir.
 
 {s:MCA}**[[Prêtre combattant]].** Gain d’un bonus de +2 aux jets pour se [[Blessures et mort#STABLE|stabiliser]] quand le prêtre combattant est [[mourant]].
 
 {s:AO}**[[Psychiste]].** le personnage bénéficie d’un bonus de +1 aux [[Lancer des sorts#TESTCONCENTRATION|tests de concentration]] effectués quand il subit des dégâts lors de l’[[Lancer des sorts|incantation]] des [[Sorts de psychiste|sorts de la classe de psychiste]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Ajouter +1 point de vie au [[compagnon animal]] du rôdeur. Si le demi-orque remplace son compagnon, le nouveau bénéficie également de ces points de vie supplémentaires.
+{s:MR}{s:APG}**[[Rôdeur]].** Ajouter +1 point de vie au [[compagnon animal]] du rôdeur. Si le demi-orque remplace son compagnon, le nouveau bénéficie également de ces points de vie supplémentaires.  
 Les demi-orques, qui sont souvent contraints de vivre en marge de la société et à se débrouiller par eux-mêmes, font d’excellents chasseurs et éclaireurs. Ils protègent parfois les communautés qui les ont rejetés dans l’espoir de se faire enfin accepter par elles.
 
-{s:MR}{s:APG}**[[Roublard]].** Le roublard ajoute 1/3 à ses jets de confirmation de [[coup critique]] quand il utilise [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] (bonus de +5 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
+{s:MR}{s:APG}**[[Roublard]].** Le roublard ajoute 1/3 à ses jets de confirmation de [[coup critique]] quand il utilise [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] (bonus de +5 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].  
 Les demi-orques marginalisés par la société sont souvent obligés d’user de discrétion et de voler pour survivre. Certains trouvent que ce style de vie leur convient et deviennent des bandits, des cambrioleurs, des hommes de main ou des voyous.
 
 {s:MCA}**[[Sanguin]].** Augmente le nombre de rounds de [[Sanguin#RAGESANGUINE|rage sanguine]] quotidiens de 1.
 
 {s:MCA}**[[Scalde]].** Augmente le nombre de rounds quotidiens de [[Scalde#CHANTDERAGE|chant de rage]] de 1.
 
-{s:MR}{s:APG}**[[Sorcière]].** Le [[Familiers|familier]] de la sorcière gagne un [[Compétences#ACQUERIR|rang de compétence]]. Si elle le remplace, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
+{s:MR}{s:APG}**[[Sorcière]].** Le [[Familiers|familier]] de la sorcière gagne un [[Compétences#ACQUERIR|rang de compétence]]. Si elle le remplace, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.  
 Les sociétés orques sont très superstitieuses, et de nombreux demi-orques héritent de cette caractéristique. Les sorcières demi-orques des communautés humaines utilisent parfois leurs traits bestiaux pour intimider les autres. Plus encore que les sorcières des autres races, elles suscitent généralement la crainte et la méfiance chez ceux qui voudraient faire appel à leurs pouvoirs. Bon nombre d’entre elles choisissent cette voie pour poursuivre leurs propres buts mystérieux.
 
 {s:AO}**[[Spirite]].** le personnage octroie un point de vie supplémentaire à son [[Fantômes (Spirite)|fantôme]].

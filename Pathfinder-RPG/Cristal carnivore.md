@@ -28,7 +28,7 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 22, **Dex** 1, **Con** 18, **Int** —, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +12, **BMO** +18, **DMD** 23 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [[Discrétion]] +0 (+5 dans les zones rocheuses) +12, [[Escalade]] +14}
+{s:BDTexte|**Compétences** [[Discrétion]] +0 (+5 dans les zones rocheuses) +12, [[Escalade]] +14} 
 {s:BDTexte|**Modificateurs raciaux** [[Discrétion]] +5 (+10 dans les zones rocheuses)}
 {s:BDTexte|**Particularités** division (coup critique sur une attaque contondante ou sonique, 15 pv), immobilité}
 {s:BDSousTitre|Écologie}

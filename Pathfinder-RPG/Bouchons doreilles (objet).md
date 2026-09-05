@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 pc ; **Poids** —
+{s:AE}**Prix** 3 pc ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Faits de liège ou de coton paraffiné, les bouchons d'oreilles accordent un bonus de circonstances de +2 aux [[jds|jets de sauvegarde]] contre les effets basés sur l'ouïe mais ils infligent aussi un malus de -5 aux tests de [[Perception]] basés sur l'ouïe.

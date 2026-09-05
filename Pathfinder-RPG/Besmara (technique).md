@@ -16,17 +16,17 @@ La Reine Pirate|%2fPCUP%2fReligion-PNG%2fBesmara.png|[[Divinités#AUTRES|Autres 
 |—}{s:cs}{s:ISG}Besmara, également connue sous le nom de Reine Pirate, est une déesse communément vénérée par les marins des Chaînes ou d'Ilizmagorti. On dit qu'elle dirige son légendaire navire le *Spectre des Mers* à travers les mers et les voies navigables du Grand Au-delà (en particulier le Maelström), effectuant des raids sur des lieux tels que l'Enfer, l'Élysée, Axis et le Paradis. Les pirates ne sont pas très religieux et ne font généralement appel à elle que sur leur lit de mort ou en cas de danger extrême. Les quelques prêtres qui se consacrent à elle sont généralement aussi les capitaines de leurs propres navires de guerre et jouissent d'une réputation féroce. Son symbole est le jolly roger, emblème universel de la piraterie, normalement une tête de mort blanche et des os croisés sur fond noir.
 
 ### Règles uniques aux suivants
-**Capacités de classe.**
+**Capacités de classe.**  
 • Les [[Prêtre]] de Besmara peuvent abandonner un domaine afin d'obtenir un [[Familiers|familier]] oiseau, [[pieuvre à anneaux bleus]], [[crabe royal]], [[singe]] ou tout autre familier présenté dans le *Manuel des joueurs*. Ils utilisent leur niveau de prêtre comme niveau effectif de [[magicien]].
 • Les [[Rôdeur|rôdeurs]] fidèles à Besmara peuvent choisir d'obtenir un [[Familiers|familier]] oiseau, [[pieuvre à anneaux bleus]], [[crabe royal]], [[singe]] ou tout autre familier présenté dans le *Manuel des joueurs* à la place d'un compagnon animal. Ils utilisent leur niveau de rôdeur - 3 comme niveau effectif de [[magicien]].
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Malédiction de dégoût]]* peut être préparé comme un sort de 4e niveau. (uniquement pour causer un dégoût profond des bâteaux, des narives de guerre et des étendues d'eau)
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Malédiction de dégoût]]* peut être préparé comme un sort de 4e niveau. (uniquement pour causer un dégoût profond des bâteaux, des narives de guerre et des étendues d'eau)  
 • *[[Mission]]* peut être préparé comme un sort de 4e niveau. (uniquement pour causer un dégoût profond des bâteaux, des narives de guerre et des étendues d'eau)
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Griffe du récif]] [[Archétypes#CREATUREENTROPIQUE|entropique]] - CN
-• *[[Convocation de monstres V]].* [[Merrow|Merrow d'eau de mer]] - NM
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Griffe du récif]] [[Archétypes#CREATUREENTROPIQUE|entropique]] - CN  
+• *[[Convocation de monstres V]].* [[Merrow|Merrow d'eau de mer]] - NM  
 • *[[Convocation de monstres VI]].* [[Tylosaure]] - N
 
 ### Options de personnage thématiques

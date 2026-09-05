@@ -8,11 +8,11 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Rôdeur|Rôd]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un morceau d’arme de taille G ou supérieure)
-**Portée** personnelle
-**Cible** le personnage
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Rôdeur|Rôd]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un morceau d’arme de taille G ou supérieure)  
+**Portée** personnelle  
+**Cible** le personnage  
 **Durée** 1 round/niveau
 
 *Les géants et leurs semblables ont longtemps été un fléau pour les populations des Terres sauvages, surtout pour les barbares du plateau au nord-est du territoire. Ces barbares ont développé diverses méthodes et tactiques pour combattre ces ennemis et beaucoup de lanceurs de sorts connaissent aujourd’hui ce sort.*

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 10 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Il s’agit de l’équivalent pour l’[[Alchimiste]] du [[Grimoire de voyage (objet)|grimoire de voyage]] des [[Magicien|magiciens]] (le recueil de formules de voyage et le grimoire de voyage sont pratiquement similaires).

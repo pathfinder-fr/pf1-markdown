@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:39
 {s:BDTitre|Bandeau d’énergie magique|{s:AE}}
 **Aura** [[Évocation]] puissante ; **NLS** 13 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 20.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce bandeau est orné sur toute sa longueur de trois tourbillons confectionnés à l’aide de cristaux rouges, verts et bleus. Trois fois par jour, son porteur peut sacrifier un sort profane pour produire une explosion offensive ou un bouclier défensif. L’explosion est une attaque de contact à distance d’une portée de 9 mètres qui inflige 1d6 points de dégâts de froid, d’électricité ou de feu par niveau du sort sacrifié. Le bouclier crée un anneau d’énergie tourbillonnante qui dure 1 [[round]] et confère au porteur un bonus de parade à la [[CA]] égal à 2 + le niveau du sort sacrifié.
+Ce bandeau est orné sur toute sa longueur de trois tourbillons confectionnés à l’aide de cristaux rouges, verts et bleus. Trois fois par jour, son porteur peut sacrifier un sort profane pour produire une explosion offensive ou un bouclier défensif. L’explosion est une attaque de contact à distance d’une portée de 9 mètres qui inflige 1d6 points de dégâts de froid, d’électricité ou de feu par niveau du sort sacrifié. Le bouclier crée un anneau d’énergie tourbillonnante qui dure 1 [[round]] et confère au porteur un bonus de parade à la [[CA]] égal à 2 + le niveau du sort sacrifié. 
 (((Création)))
 **Conditions** [[Attaque magique]], [[Bouclier magique]], [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[rayons prismatiques]]*  ; **Coût** 10.000 po
 </div>

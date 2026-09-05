@@ -55,7 +55,7 @@ Ce type de manifestation est une attaque directe contre un adversaire, une créa
 Sinon, le créateur peut obliger son adversaire et toute [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créature de pensée matérialisée]] placée sous le contrôle de ce dernier à faire un jet de sauvegarde pour éviter l’effet. Cela augmente le coût de 1 PM. Le [[DD]] est de 10 + nombre total de MP dépensés + bonus d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] du créateur (choisir le plus élevé). C’est au créateur de choisir le type de jet de sauvegarde ([[Réflexes]], [[Vigueur]] ou [[Volonté]]) que la cible doit effectuer. Par défaut, un jet de sauvegarde réussi annule les dégâts de la manifestation mais le créateur peut augmenter le coût d’un PM de plus pour que la manifestation inflige tout de même la moitié des dégâts en cas de jet de sauvegarde réussi.
 
 **Étape 3. Déterminer les dégâts et les états préjudiciables.**
-Une fois que le créateur a déterminé le type d’attaque de la manifestation, il détermine le nombre de dés de dégâts. Il doit dépenser au moins 1 PM pour les dégâts, ce qui donne un dé de dégâts à la manifestation mais il peut en dépenser plus pour augmenter les dégâts, comme indiqué dans la table suivante.
+Une fois que le créateur a déterminé le type d’attaque de la manifestation, il détermine le nombre de dés de dégâts. Il doit dépenser au moins 1 PM pour les dégâts, ce qui donne un dé de dégâts à la manifestation mais il peut en dépenser plus pour augmenter les dégâts, comme indiqué dans la table suivante. 
 PM dépensés pour les dégâts Nombre de dés de dégâts
 
 <center>
@@ -96,7 +96,7 @@ Les manifestations défensives protègent un combattant contre les manifestation
 
 *Parade dissipatrice (PM variables, [[action immédiate]])*. Quand l’adversaire crée une manifestation, le combattant peut dépenser un nombre de PM égal au prix de cette manifestation +2 pour la contrer. À ce moment, les [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créatures de pensée matérialisée]] ou les [[duels psychiques#MANIFESTATIONDEFENSIVE|manifestations défensives]] actuellement actives appartenant au combattant sont dissipées.
 
-*Esprit agile (2 PM, [[action immédiate]])*. Quand le combattant est la cible d’une [[duels psychiques#MANIFESTATIONOFFENSIVE|manifestation offensive]] visant sa [[valeurs de combat#ATTAQUESDECONTACT|CA au contact]], ce pouvoir oblige son adversaire à viser sa [[CA]] complète.
+*Esprit agile (2 PM, [[action immédiate]])*. Quand le combattant est la cible d’une [[duels psychiques#MANIFESTATIONOFFENSIVE|manifestation offensive]] visant sa [[valeurs de combat#ATTAQUESDECONTACT|CA au contact]], ce pouvoir oblige son adversaire à viser sa [[CA]] complète. 
 
 *Détournement psychique (1 PM, [[action immédiate]])*. Quand le combattant a une [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créature de pensée matérialisée]] active et qu’il devrait recevoir des dégâts, il peut utiliser ce pouvoir pour les transférer sur la créature. Si l’attaque vise le combattant et la [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créature de pensée matérialisée]], cette dernière reçoit les dégâts qui lui sont destinés en plus de ceux destinés au combattant. De plus, elle souffre de tout état préjudiciable éventuellement induit par l’attaque alors que ce n’est pas le cas du combattant.
 

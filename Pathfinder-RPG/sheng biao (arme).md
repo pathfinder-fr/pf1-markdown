@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 1 po ; **Poids** — ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Armesdemoine|armes de moine]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#PARADE|parade]]
+{s:AE}{s:UC}**Prix** 1 po ; **Poids** — ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Armesdemoine|armes de moine]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#DIVERSION|diversion]], [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#PARADE|parade]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ([[armes orientales|orientale]])
 ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Cette arme, apparemment complexe, n’est en fait rien de plus qu’une corde de 6 mètres attachée à une pointe conique en métal de 15 centimètres. Comme le [[marteau météore (arme)|marteau météore]], on peut la faire tournoyer très vite puis la lancer sur des adversaires pour les perforer avec une grande allonge. Une fois qu’il a frappé, le personnage peut rapidement récupérer son arme en tirant sur la corde par une [[action libre]].

@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Bourse polymorphe|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette bourse en cuir est le plus souvent décorée de motifs druidiques. À l’intérieur, il existe un espace extradimensionnel qui peut contenir 10 dm3 ou 20 kg de matériel. Il fonctionne par ailleurs comme un petit [[sac sans fond]]. Si son porteur utilise un effet de *[[métamorphose]]* ou de forme animale pour se transformer en animal, en dragon, en élémentaire, en créature magique, en plante ou en vermine, la bourse ne fusionne pas avec son nouveau corps. Elle se place automatiquement à un endroit facilement accessible sur son corps (fixée à une ceinture ou à une corde attachée au cou), ce qui permet à son porteur d’accéder aux objets rangés à l’intérieur même quand il est transformé.
+Cette bourse en cuir est le plus souvent décorée de motifs druidiques. À l’intérieur, il existe un espace extradimensionnel qui peut contenir 10 dm3 ou 20 kg de matériel. Il fonctionne par ailleurs comme un petit [[sac sans fond]]. Si son porteur utilise un effet de *[[métamorphose]]* ou de forme animale pour se transformer en animal, en dragon, en élémentaire, en créature magique, en plante ou en vermine, la bourse ne fusionne pas avec son nouveau corps. Elle se place automatiquement à un endroit facilement accessible sur son corps (fixée à une ceinture ou à une corde attachée au cou), ce qui permet à son porteur d’accéder aux objets rangés à l’intérieur même quand il est transformé. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[métamorphose]]*, *[[coffre secret]]* ; **Coût** 2.500 po
 </div>

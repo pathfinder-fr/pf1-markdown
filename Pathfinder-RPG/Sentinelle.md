@@ -9,7 +9,7 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:ISG}''Toutes les grandes divinités peuvent se vanter d'avoir des champions, qu'il s'agisse de [[paladin|paladins]] ayant prêté serment à [[Iomédae (technique)|Iomédae]] ou de [[barbare|barbares]] qui canalisent la rage destructrice de [[Rovagug (technique)|Rovagug]]. La sentinelle est un guerrier qui reçoit des pouvoirs spéciaux en échange de sa dévotion à une divinité, et qui sert souvent de garde au clergé de la divinité. Certains suivent une formation officielle, d'autres ont des visions qui les guident vers leur voie, et d'autres encore décident simplement de consacrer leur vie à la défense de leur foi.
 
-Les sentinelles affrontent fréquemment les ennemis de leur divinité ou les champions de religions rivales, et collaborent parfois avec d'autres sentinelles pour entreprendre de grandes quêtes ou surmonter des obstacles difficiles. Certaines inspirent des ordres de guerriers uniques dédiés à leur foi, et les champions légendaires de la foi sont souvent des sentinelles.''
+Les sentinelles affrontent fréquemment les ennemis de leur divinité ou les champions de religions rivales, et collaborent parfois avec d'autres sentinelles pour entreprendre de grandes quêtes ou surmonter des obstacles difficiles. Certaines inspirent des ordres de guerriers uniques dédiés à leur foi, et les champions légendaires de la foi sont souvent des sentinelles.'' 
 
 {s:ClearRight}{| CLASS="tablo centre autoalt"
 |+ La sentinelle
@@ -17,60 +17,60 @@ Les sentinelles affrontent fréquemment les ennemis de leur divinité ou les cha
 | Niveau || BBA || Réflexes || Vigueur || Volonté
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
+| 1 || +1 || +0 || +1 || +0 
 | CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +1, [[Sentinelle#OBEDIENCE|obédience]]
 |-
 | 2 || +2 || +1 || +1 || +1
 | CLASS="gauche" | [[Sentinelle#DONSUPPLEMENTAIRE|Don supplémentaire]]
 |-
-| 3 || +3 || +1 || +2 || +1
+| 3 || +3 || +1 || +2 || +1 
 | CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +2, [[Sentinelle#FAVEURDIVINE|faveur divine]] 1
 |-
-| 4 || +4 || +1 || +2 || +1
+| 4 || +4 || +1 || +2 || +1 
 | CLASS="gauche" | [[Sentinelle#VIVACITEDIVINE|Vivacité divine]] +2
 |-
-| 5 || +5 || +2 || +3 || +2
+| 5 || +5 || +2 || +3 || +2 
 | CLASS="gauche" | [[Sentinelle#FRAPPEALIGNEE|Frappe alignée]], [[Sentinelle#PILIER|pilier]]
 |-
-| 6 || +6 || +2 || +3 || +2
+| 6 || +6 || +2 || +3 || +2 
 | CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +3, [[Sentinelle#FAVEURDIVINE|faveur divine]] 2
 |-
-| 7 || +7 || +2 || +4 || +2
+| 7 || +7 || +2 || +4 || +2 
 | CLASS="gauche" | [[Sentinelle#COMBATTANTEXPERIMENTE|Combattant expérimenté]], [[Sentinelle#DONSUPPLEMENTAIRE|don supplémentaire]]
 |-
-| 8 || +8 || +3 || +4 || +3
+| 8 || +8 || +3 || +4 || +3 
 | CLASS="gauche" | [[Sentinelle#MENEURVERTUEUX|Meneur vertueux]], [[Sentinelle#VIVACITEDIVINE|vivacité divine]] +4
 |-
-| 9 || +9 || +3 || +5 || +3
+| 9 || +9 || +3 || +5 || +3 
 | CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +4, [[Sentinelle#FAVEURDIVINE|faveur divine]] 3
 |-
-| 10 || +10 || +3 || +5 || +3
+| 10 || +10 || +3 || +5 || +3 
 | CLASS="gauche" | [[Sentinelle#GUERRIERINARRETABLE|Guerrier inarrêtable]]
 |}
 
 **Dé de vie.** d10.
 
 ### Conditions requises
-Pour pouvoir devenir sentinelle, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir sentinelle, le personnage doit satisfaire aux conditions suivantes. 
 
-**Alignement.** Peut différer d'une catégorie au plus de l'[[alignement]] de la divinité choisie.
+**Alignement.** Peut différer d'une catégorie au plus de l'[[alignement]] de la divinité choisie. 
 
-**Divinité.** Doit prier une unique divinité spécifique.
+**Divinité.** Doit prier une unique divinité spécifique. 
 
 **Dons.**  [[Arme de prédilection]] (arme de prédilection de la divinité), [[Obédience divine]].
 
-**Spécial.** [[BBA|Bonus de base à l'attaque]] de +5 ou plus.
+**Spécial.** [[BBA|Bonus de base à l'attaque]] de +5 ou plus. 
 
 ### Compétences de classe
 Voici les compétences de classe de la sentinelle : [[Artisanat]] (Int), [[Connaissances]] (religion) (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag), [[Survie]] (Sag).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe de sentinelle
+Voici les caractéristiques de la classe de sentinelle 
 
 #### Armes et armures
-Les sentinelles sont formées aux maniement de toutes les [[armes courantes]] et des [[armes de guerre]], ainsi qu'au port de toutes les armures ([[armures lourdes|lourdes]], [[armures intermédiaires|intermédiaires]] et [[armures légères|légères]]) et tous les boucliers (à l'exception des pavois).
+Les sentinelles sont formées aux maniement de toutes les [[armes courantes]] et des [[armes de guerre]], ainsi qu'au port de toutes les armures ([[armures lourdes|lourdes]], [[armures intermédiaires|intermédiaires]] et [[armures légères|légères]]) et tous les boucliers (à l'exception des pavois).  
 
 {s:reference|OBEDIENCE}
 #### Obédience (Ext)
@@ -78,7 +78,7 @@ Pour pouvoir garder les capacités octroyées par cette classe de prestige, une 
 
 {s:reference|ARMESYMBOLIQUE}
 #### Arme symbolique (Sur)
-Lorsqu'elle manie l'arme de prédilection de sa divinité, la sentinelle bénéficie d'un bonus de sainteté ou de malfaisance de +1 à ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]]. Ces bonus augmentent de 1 tous les 3 niveaux que le personnage a dans la classe de prestige de sentinelle (maximum +4). L'arme de prédilection de sa divinité fonctionne également comme un [[Symbole sacré (objet)|symbole sacré]] (ou maudit) tant qu'elle est maniée par une sentinelle.
+Lorsqu'elle manie l'arme de prédilection de sa divinité, la sentinelle bénéficie d'un bonus de sainteté ou de malfaisance de +1 à ses [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]]. Ces bonus augmentent de 1 tous les 3 niveaux que le personnage a dans la classe de prestige de sentinelle (maximum +4). L'arme de prédilection de sa divinité fonctionne également comme un [[Symbole sacré (objet)|symbole sacré]] (ou maudit) tant qu'elle est maniée par une sentinelle. 
 
 {s:reference|DONSUPPLEMENTAIRE}
 #### Don supplémentaire
@@ -88,7 +88,7 @@ Au niveau 2 et encore une fois au niveau 7, la sentinelle obtient un don supplé
 #### Faveur divine
 Au fil de sa progression, la sentinelle obtient des faveurs de la part de sa divinité tutélaire. La nature de ces faveurs change selon la divinité choisie par la sentinelle. Chaque divinité octroie trois faveurs, chacune plus puissante que la précédente.
 
-Au niveau 3, la sentinelle obtient la première faveur. Au niveau 6, il obtient la deuxième faveur et au niveau 9, il obtient la troisième faveur.
+Au niveau 3, la sentinelle obtient la première faveur. Au niveau 6, il obtient la deuxième faveur et au niveau 9, il obtient la troisième faveur. 
 
 Pour plus de détails, consultez le don [[Obédience divine]] ainsi que le [[Divinités|profil de chaque divinité]]. Lorsqu'une faveur divine permet l'utilisation d'un [[pouvoirs magiques (capacité)|pouvoir magique]], le [[niveau de lanceur de sorts]] de la sentinelle pour ce pouvoir magique est égal à son niveau de personnage total. Cette capacité permet uniquement d'accéder à ces faveurs plus rapidement qu'avec le don [[Obédience divine]] seul mais elle n'octroie pas d'utilisations supplémentaires des faveurs une fois que le personnage atteint le nombre de [[DV]] nécessaire pour obtenir ces faveurs normalement.
 
@@ -98,7 +98,7 @@ Pour plus de détails, consultez le don [[Obédience divine]] ainsi que le [[Div
 
 {s:reference|FRAPPEALIGNEE}
 #### Frappe alignée (Sur)
-La ferveur vertueuse de la sentinelle lui permet de contourner certains types de [[RD|réduction de dégâts]]. Au niveau 5, la sentinelle obtient la capacité d'ignorer un type spécifique de réduction de dégâts lorsqu'elle manie l'arme de prédilection de sa divinité. Le type de réduction de dégâts que son arme ignore dépend de l'[[alignement]] de sa divinité tutélaire. La sentinelle choisit le type de réduction de dégâts quand elle obtient cette capacité et ce choix ne peut pas être changé par la suite. Elle ne peut choisir qu'un seul type d'arme alignée même si l'alignement de sa divinité lui offre plusieurs options. Par exemple, une sentinelle d'[[Iomédae (technique)|Iomédae]] peut rendre son épée *[[axiomatique (propriété)|axiomatique]]* ou *[[sainte (propriété)|sainte]]*, mais pas les deux. Les choix sont les suivants.
+La ferveur vertueuse de la sentinelle lui permet de contourner certains types de [[RD|réduction de dégâts]]. Au niveau 5, la sentinelle obtient la capacité d'ignorer un type spécifique de réduction de dégâts lorsqu'elle manie l'arme de prédilection de sa divinité. Le type de réduction de dégâts que son arme ignore dépend de l'[[alignement]] de sa divinité tutélaire. La sentinelle choisit le type de réduction de dégâts quand elle obtient cette capacité et ce choix ne peut pas être changé par la suite. Elle ne peut choisir qu'un seul type d'arme alignée même si l'alignement de sa divinité lui offre plusieurs options. Par exemple, une sentinelle d'[[Iomédae (technique)|Iomédae]] peut rendre son épée *[[axiomatique (propriété)|axiomatique]]* ou *[[sainte (propriété)|sainte]]*, mais pas les deux. Les choix sont les suivants. 
 - **Loyal.** La sentinelle peut considérer son arme comme *[[axiomatique (propriété)|axiomatique]]* si sa divinité est loyale.
 - **Chaotique.** La sentinelle peut considérer son arme comme *[[anarchique (propriété)|anarchique]]* si sa divinité est chaotique. 
 - **Bon.** La sentinelle peut considérer son arme comme *[[sainte (propriété)|sainte]]* si sa divinité est bonne. 
@@ -135,8 +135,8 @@ Au niveau 8, le dévouement de la sentinelle envers sa foi et les exploits qu'el
 | NM | 5/Bien et argent |
 | CM | 5/Bien et fer froid |
 
-</div></div>Au niveau 10, la sentinelle devient un parangon tenace capable de grandes prouesses au combat. Elle obtient une [[RD|réduction de dégâts]] qui dépend de l'[[alignement]] de sa divinité, comme indiqué dans le tableau ci-contre.
+</div></div>Au niveau 10, la sentinelle devient un parangon tenace capable de grandes prouesses au combat. Elle obtient une [[RD|réduction de dégâts]] qui dépend de l'[[alignement]] de sa divinité, comme indiqué dans le tableau ci-contre. 
 
-De plus, la sentinelle ne tombe plus [[inconscient|inconsciente]] quand ses points de vie sont réduits à un total négatif, mais elle ne peut entreprendre qu'une [[action simple]] ou une [[action de mouvement]] tant qu'elle est possède un total négatif de points de vie et continue de perdre des points de vie normalement si elle n'est pas stabilisée. Effectuer une action simple après s'être stabilisé ouvre à nouveau les blessures de la sentinelle, et elle recommence à perdre des points de vie normalement.
+De plus, la sentinelle ne tombe plus [[inconscient|inconsciente]] quand ses points de vie sont réduits à un total négatif, mais elle ne peut entreprendre qu'une [[action simple]] ou une [[action de mouvement]] tant qu'elle est possède un total négatif de points de vie et continue de perdre des points de vie normalement si elle n'est pas stabilisée. Effectuer une action simple après s'être stabilisé ouvre à nouveau les blessures de la sentinelle, et elle recommence à perdre des points de vie normalement. 
 
 Une fois par jour par une [[action rapide]], la sentinelle peut lancer *[[soins intensifs]]* mais ne peut cibler qu'elle-même, avec un [[niveau de lanceur de sorts]] égal à son niveau de personnage.

@@ -13,12 +13,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Norgorber|%2fPCUP%2fReligion-PNG%2fNorgorber.png}{s:ISG}{s:GeM}**École** [[Évocation]] ; **Niveau** [[Antipaladin|Antipal]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Rôdeur|Rôd]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** un mur de lames long de 3 mètres/[[niveau]] et haut de 3 m
-**Durée** 1 minute/[[niveau]] (T)
+{s:divin|Norgorber|%2fPCUP%2fReligion-PNG%2fNorgorber.png}{s:ISG}{s:GeM}**École** [[Évocation]] ; **Niveau** [[Antipaladin|Antipal]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Rôdeur|Rôd]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** un mur de lames long de 3 mètres/[[niveau]] et haut de 3 m  
+**Durée** 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Utile en premier lieu à ceux qui se faufilent dans les ténèbres, ce sort est un piège temporaire pour les imprudents. Il conjure un mur invisible de minuscules lames noires qui tourbillonnent et déchirent les créatures comme le ferait un cyclone. Quiconque entre dans cet espace subit 1d4 points de dégâts par [[NLS|niveau de lanceur]] (maximum 10d4), mais peut tenter un jet de [[Réflexes]] pour diminuer ces dégâts de moitié. Le sort ne peut être lancé sur un espace déjà occupé par des créatures de taille P ou plus.

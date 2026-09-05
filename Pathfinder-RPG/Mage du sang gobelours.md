@@ -47,8 +47,8 @@ Categories:
 {s:BDTexte|**Langues** commun, gobelin}
 {s:BDTexte|**Particularités** arcanes de lignage (les dégâts d'énergie deviennent des dégâts de feu), [[Gobelours#TRAQUEUR|traqueur]]}
 {s:BDTexte|**Équipement de combat** *[[baguettes magiques|baguette]] de [[soins modérés]]* ; **Équipement divers** *[[bâton (arme)|bâton +1]]*, [[dague (arme)|dague de maître]], [[arc court (arme)|arc court de maître]] avec [[Flèches (arme)|20 flèches]], *[[amulette darmure naturelle|amulette d'armure naturelle +2]]*, *[[cape de résistance|cape de résistance +1]]*, *[[bandeau de belle allure]]* +2, 117 po}
-</div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</div> 
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes de gobelours</p>
 
@@ -67,7 +67,7 @@ Categories:
 | [[Mage du sang gobelours]] | 11 |
 | [[Tyran gobelours]] | 13 |
 
-</div> Les rares gobelours qui possèdent une étincelle de pouvoir marketing nique prennent rarement la peine de la faire grandir car cela les empêcherait de se consacrer à ce qui compte vraiment : traquer, terrifier et assassiner. Pourtant ceux qui développent ce don (et survivent assez longtemps pour atteindre leur plein potentiel) d'où viennent d'abominables vecteurs de mort sanglante.
+</div> Les rares gobelours qui possèdent une étincelle de pouvoir marketing nique prennent rarement la peine de la faire grandir car cela les empêcherait de se consacrer à ce qui compte vraiment : traquer, terrifier et assassiner. Pourtant ceux qui développent ce don (et survivent assez longtemps pour atteindre leur plein potentiel) d'où viennent d'abominables vecteurs de mort sanglante. 
 
 Chez les gobelours, les lanceurs de sorts profanes sont généralement des ensorceleurs car peu de ces créatures sont assez patientes ou intéressées pour suivre la voie des magiciens qui requiert étude et contrôle. Les gobelours appellent les individus dotés de pouvoirs magiques innés des mages du sang et traitent leur pouvoir comme n'importe quel autre talent : s'ils sont bons pour faire souffrir les autres, il est bon de les maîtriser. Un mage du sang type s'intéresse uniquement au sort provoquant la douleur et  destructions, mais on apprend quelques-uns susceptibles de l'aider à se défendre. Il est bien rare que ces mages apprennent à créer des objets magiques
 </div></td></tr></table>

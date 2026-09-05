@@ -14,18 +14,18 @@ Les cinétistes qui se focalisent sur l’élément de l’Air sont appelés des
 
 **Compétences de classe.**  Un aérocinétiste ajoute [[Connaissances]] (nature) et [[Vol]] à la liste de ses compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[Talents sauvages#EXPLOSIONDAIR|explosion d'air]], [[Talents sauvages#EXPLOSIONÉLECTRIQUE|explosion électrique]]
-Explosions composites : [[Talents sauvages#EXPLOSIONDEAUÉLECTRIFIÉE|explosion d'eau électrifiée]], [[Talents sauvages#EXPLOSIONDÉCLAIR|explosion d'éclair]], [[Talents sauvages#EXPLOSIONDEBLIZZARD|explosion de blizzard]], [[Talents sauvages#EXPLOSIONDEPLASMA|explosion de plasma]], [[Talents sauvages#EXPLOSIONDESABLE|explosion de sable]], [[talents sauvages#EXPLOSIONPRINTANIÈRE|Explosion printanière]]
+**Talents sauvages.**  
+Explosions simples : [[Talents sauvages#EXPLOSIONDAIR|explosion d'air]], [[Talents sauvages#EXPLOSIONÉLECTRIQUE|explosion électrique]]  
+Explosions composites : [[Talents sauvages#EXPLOSIONDEAUÉLECTRIFIÉE|explosion d'eau électrifiée]], [[Talents sauvages#EXPLOSIONDÉCLAIR|explosion d'éclair]], [[Talents sauvages#EXPLOSIONDEBLIZZARD|explosion de blizzard]], [[Talents sauvages#EXPLOSIONDEPLASMA|explosion de plasma]], [[Talents sauvages#EXPLOSIONDESABLE|explosion de sable]], [[talents sauvages#EXPLOSIONPRINTANIÈRE|Explosion printanière]]  
 Défense : [[Talents sauvages#VENTSPROTECTEURS|vents protecteurs]]
 
-Niveau 1 : [[talents sauvages#ACCLIMATATIONÀLAIR|Acclimatation à l’air]], [[talents sauvages#AÉROCINETIQUESIMPLE|Aérocinétique simple]], [[talents sauvages#BONDAÉRIEN|Bond aérien]], [[Talents sauvages#COUSSINDAIR|Coussin d’air]], [[talents sauvages#INJECTIONDEBOURRASQUE|Injection de bourrasque†]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#INJECTIONDETONNERRE|Injection de tonnerre†]], [[talents sauvages#MANTEAUDAIR|Manteau d’air]], [[talents sauvages#PORTEEAÉRIENNE|Portée aérienne]], [[talents sauvages#VENTDEMURMURES|Vent de murmures]]
-Niveau 2 : [[talents sauvages#VENTDEMURMURESSUPRÊME|Vent de murmures suprême]]
-Niveau 3 : [[talents sauvages#AILESDAIR|Ailes d’air]], [[talents sauvages#BARRIEREDUVENT|Barrière du vent]], [[talents sauvages#CÉLÉRITE|Célérité]], [[talents sauvages#ESQUIVEAÉRIENNE|Esquive aérienne]], [[talents sauvages#INJECTIONDEMAGNÉTISME|Injection de magnétisme†]], [[talents sauvages#PERCEPTIONAÉRIENNE|Perception aérienne]], [[talents sauvages#TORRENT|Torrent†]]
-Niveau 4 : [[talents sauvages#CYCLONE|Cyclone†]]
-Niveau 5 : [[talents sauvages#ENCHAÎNEMENT|Enchaînement†]], [[talents sauvages#MANTEAUDAIRSUPRÊME|Manteau d’air suprême]], [[talents sauvages#PERCEPTIONAÉRIENNESUPRÊME|Perception aérienne suprême]]
-Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#MANIPULATIONDUVENT|Manipulation du vent]]
-Niveau 7 : [[talents sauvages#NUAGE|Nuage†]]
+Niveau 1 : [[talents sauvages#ACCLIMATATIONÀLAIR|Acclimatation à l’air]], [[talents sauvages#AÉROCINETIQUESIMPLE|Aérocinétique simple]], [[talents sauvages#BONDAÉRIEN|Bond aérien]], [[Talents sauvages#COUSSINDAIR|Coussin d’air]], [[talents sauvages#INJECTIONDEBOURRASQUE|Injection de bourrasque†]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#INJECTIONDETONNERRE|Injection de tonnerre†]], [[talents sauvages#MANTEAUDAIR|Manteau d’air]], [[talents sauvages#PORTEEAÉRIENNE|Portée aérienne]], [[talents sauvages#VENTDEMURMURES|Vent de murmures]]  
+Niveau 2 : [[talents sauvages#VENTDEMURMURESSUPRÊME|Vent de murmures suprême]]  
+Niveau 3 : [[talents sauvages#AILESDAIR|Ailes d’air]], [[talents sauvages#BARRIEREDUVENT|Barrière du vent]], [[talents sauvages#CÉLÉRITE|Célérité]], [[talents sauvages#ESQUIVEAÉRIENNE|Esquive aérienne]], [[talents sauvages#INJECTIONDEMAGNÉTISME|Injection de magnétisme†]], [[talents sauvages#PERCEPTIONAÉRIENNE|Perception aérienne]], [[talents sauvages#TORRENT|Torrent†]]  
+Niveau 4 : [[talents sauvages#CYCLONE|Cyclone†]]  
+Niveau 5 : [[talents sauvages#ENCHAÎNEMENT|Enchaînement†]], [[talents sauvages#MANTEAUDAIRSUPRÊME|Manteau d’air suprême]], [[talents sauvages#PERCEPTIONAÉRIENNESUPRÊME|Perception aérienne suprême]]  
+Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#MANIPULATIONDUVENT|Manipulation du vent]]  
+Niveau 7 : [[talents sauvages#NUAGE|Nuage†]]  
 Niveau 8 : [[talents sauvages#MAÎTREDUCLIMAT|Maître du climat]]
 
 
@@ -35,19 +35,19 @@ Niveau 8 : [[talents sauvages#MAÎTREDUCLIMAT|Maître du climat]]
 
 **Compétences de classe.** Un phytocinétiste ajoute [[Connaissances]] (nature) et [[Dressage]] à sa liste de compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[talents sauvages#EXPLOSIONDEBOIS|Explosion de bois]]
-Explosions composites : [[talents sauvages#EXPLOSIONAUTOMNALE|Explosion automnale]], [[talents sauvages#EXPLOSIONESTIVALE|Explosion estivale]], [[talents sauvages#EXPLOSIONHIVERNALE|Explosion hivernale]], [[talents sauvages#EXPLOSIONPRINTANIÈRE|Explosion printanière]]
+**Talents sauvages.**  
+Explosions simples : [[talents sauvages#EXPLOSIONDEBOIS|Explosion de bois]]  
+Explosions composites : [[talents sauvages#EXPLOSIONAUTOMNALE|Explosion automnale]], [[talents sauvages#EXPLOSIONESTIVALE|Explosion estivale]], [[talents sauvages#EXPLOSIONHIVERNALE|Explosion hivernale]], [[talents sauvages#EXPLOSIONPRINTANIÈRE|Explosion printanière]]  
 Défense : [[talents sauvages#PEAUDEBOIS|Peau de bois]]
 
-Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#DÉPLACEMENTFACILITÉ|Déplacement facilité]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#PHYTOCINÉTIQUESIMPLE|Phytocinétique simple]], [[talents sauvages#RACINES|Racines]]
-Niveau 2 : [[talents sauvages#FEUILLAGEMISÉRICORDIEUX|Feuillage miséricordieux]], [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d'enchevêtrement†]]
-Niveau 3 : [[talents sauvages#BRACHIATION|Brachiation]], [[talents sauvages#DISTORSIONDUBOIS|Distorsion du bois]], [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#PEAUDÉPINES|Peau d’épines]]
-Niveau 4 : [[talents sauvages#DÉGUISEMENTVÉGÉTAL|Déguisement végétal]], [[talents sauvages#FAÇONNAGEDUBOIS|Façonnage du bois]], [[talents sauvages#INJECTIONDETOXINE|Injection de toxine†]], [[talents sauvages#VISIONVÉGÉTALE|Vision végétale]]
-Niveau 5 : [[talents sauvages#CROISSANCESAUVAGE|Croissance sauvage]], [[talents sauvages#DÉPLACEMENTFACILITÉSUPRÊME|Déplacement facilité suprême]], [[talents sauvages#MARIONNETTEVÉGÉTALE|Marionnette végétale]]
-Niveau 6 : [[talents sauvages#LANGUEVERTE|Langue verte]], [[talents sauvages#TERREMORTELLE|Terre mortelle†]]
-Niveau 7 : [[talents sauvages#INJECTIONDETOXINESUPRÊME|Injection de toxine suprême†]]
-Niveau 8 : [[talents sauvages#SOLDATSDEBOIS|Soldats de bois]]
+Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#DÉPLACEMENTFACILITÉ|Déplacement facilité]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#PHYTOCINÉTIQUESIMPLE|Phytocinétique simple]], [[talents sauvages#RACINES|Racines]]  
+Niveau 2 : [[talents sauvages#FEUILLAGEMISÉRICORDIEUX|Feuillage miséricordieux]], [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d'enchevêtrement†]]  
+Niveau 3 : [[talents sauvages#BRACHIATION|Brachiation]], [[talents sauvages#DISTORSIONDUBOIS|Distorsion du bois]], [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#PEAUDÉPINES|Peau d’épines]]  
+Niveau 4 : [[talents sauvages#DÉGUISEMENTVÉGÉTAL|Déguisement végétal]], [[talents sauvages#FAÇONNAGEDUBOIS|Façonnage du bois]], [[talents sauvages#INJECTIONDETOXINE|Injection de toxine†]], [[talents sauvages#VISIONVÉGÉTALE|Vision végétale]]  
+Niveau 5 : [[talents sauvages#CROISSANCESAUVAGE|Croissance sauvage]], [[talents sauvages#DÉPLACEMENTFACILITÉSUPRÊME|Déplacement facilité suprême]], [[talents sauvages#MARIONNETTEVÉGÉTALE|Marionnette végétale]]  
+Niveau 6 : [[talents sauvages#LANGUEVERTE|Langue verte]], [[talents sauvages#TERREMORTELLE|Terre mortelle†]]  
+Niveau 7 : [[talents sauvages#INJECTIONDETOXINESUPRÊME|Injection de toxine suprême†]]  
+Niveau 8 : [[talents sauvages#SOLDATSDEBOIS|Soldats de bois]]  
 Niveau 9 : [[talents sauvages#SIÈGEDELAFORÊT|Siège de la forêt]]
 
 
@@ -57,18 +57,18 @@ Les cinétistes qui se focalisent sur l’élément de l’Eau sont des hydrocin
 
 **Compétences de classe.** Un hydrocinétiste ajoute [[Connaissances]] (nature) et [[Natation]] à la liste de ses compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[Talents sauvages#EXPLOSIONDEAU|explosion d'eau]], [[Talents sauvages#EXPLOSIONDEFROID|explosion de froid]]
-Explosions composites : [[Talents sauvages#EXPLOSIONDEAUÉLECTRIFIÉE|explosion d'eau électrifiée]], [[Talents sauvages#EXPLOSIONDEBLIZZARD|explosion de blizzard]], [[Talents sauvages#EXPLOSIONDEBOUE|explosion de boue]], [[Talents sauvages#EXPLOSIONDEGLACE|explosion de glace]], [[Talents sauvages#EXPLOSIONDEVAPEUR|explosion de vapeur]], [[talents sauvages#EXPLOSIONHIVERNALE|Explosion hivernale]]
+**Talents sauvages.**  
+Explosions simples : [[Talents sauvages#EXPLOSIONDEAU|explosion d'eau]], [[Talents sauvages#EXPLOSIONDEFROID|explosion de froid]]  
+Explosions composites : [[Talents sauvages#EXPLOSIONDEAUÉLECTRIFIÉE|explosion d'eau électrifiée]], [[Talents sauvages#EXPLOSIONDEBLIZZARD|explosion de blizzard]], [[Talents sauvages#EXPLOSIONDEBOUE|explosion de boue]], [[Talents sauvages#EXPLOSIONDEGLACE|explosion de glace]], [[Talents sauvages#EXPLOSIONDEVAPEUR|explosion de vapeur]], [[talents sauvages#EXPLOSIONHIVERNALE|Explosion hivernale]]  
 Défense : [[Talents sauvages#MANTEAUDEAU|manteau d'eau]]
 
-Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#ACCLIMATATIONÀLACHALEUR|Acclimatation à la chaleur]], [[talents sauvages#ACCLIMATATIONAUFROID|Acclimatation au froid]], [[talents sauvages#HYDROCINÉTIQUESIMPLE|Hydrocinétique simple]], [[talents sauvages#INJECTIONDEXTINCTION|Injection d’extinction†]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#MARCHESURLAGLACE|Marche sur la glace]], [[talents sauvages#NAPPEGRAISSEUSE|Nappe graisseuse]], [[talents sauvages#SOIGNEURCINÉTIQUE|Soigneur cinétique]]
-Niveau 2 : [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d’enchevêtrement†]], [[talents sauvages#VOILEDEBRUME|Voile de brume]]
-Niveau 3 : [[talents sauvages#DANSEURAQUATIQUE|Danseur aquatique]] [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#MANIPULATIONDELEAU|Manipulation de l’eau]], [[talents sauvages#TORRENT|Torrent†]], [[talents sauvages#VAGUEDEFROID|Vague de froid]]
-Niveau 4 : [[talents sauvages#PERCEPTIONAQUATIQUE|Perception aquatique]], [[talents sauvages#PULVÉRISATION|Pulvérisation†]], [[talents sauvages#SCULPTEURSURGLACE|Sculpteur sur glace]]
-Niveau 5 : [[talents sauvages#DANSEURAQUATIQUESUPRÊME|Danseur aquatique suprême]], [[talents sauvages#INJECTIONDEFROID|Injection de froid†]], [[talents sauvages#MIRAGEMIROITANT|Mirage miroitant]], [[talents sauvages#PERCEPTIONAQUATIQUESUPRÊME|Perception aquatique suprême]]
-Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#PASSERELLEDEGLACE|Passerelle de glace]]
-Niveau 7 : [[talents sauvages#FRAGMENTATION|Fragmentation†]], [[talents sauvages#NUAGE|Nuage]]
+Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#ACCLIMATATIONÀLACHALEUR|Acclimatation à la chaleur]], [[talents sauvages#ACCLIMATATIONAUFROID|Acclimatation au froid]], [[talents sauvages#HYDROCINÉTIQUESIMPLE|Hydrocinétique simple]], [[talents sauvages#INJECTIONDEXTINCTION|Injection d’extinction†]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#MARCHESURLAGLACE|Marche sur la glace]], [[talents sauvages#NAPPEGRAISSEUSE|Nappe graisseuse]], [[talents sauvages#SOIGNEURCINÉTIQUE|Soigneur cinétique]]  
+Niveau 2 : [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d’enchevêtrement†]], [[talents sauvages#VOILEDEBRUME|Voile de brume]]  
+Niveau 3 : [[talents sauvages#DANSEURAQUATIQUE|Danseur aquatique]] [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#MANIPULATIONDELEAU|Manipulation de l’eau]], [[talents sauvages#TORRENT|Torrent†]], [[talents sauvages#VAGUEDEFROID|Vague de froid]]  
+Niveau 4 : [[talents sauvages#PERCEPTIONAQUATIQUE|Perception aquatique]], [[talents sauvages#PULVÉRISATION|Pulvérisation†]], [[talents sauvages#SCULPTEURSURGLACE|Sculpteur sur glace]]  
+Niveau 5 : [[talents sauvages#DANSEURAQUATIQUESUPRÊME|Danseur aquatique suprême]], [[talents sauvages#INJECTIONDEFROID|Injection de froid†]], [[talents sauvages#MIRAGEMIROITANT|Mirage miroitant]], [[talents sauvages#PERCEPTIONAQUATIQUESUPRÊME|Perception aquatique suprême]]  
+Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#PASSERELLEDEGLACE|Passerelle de glace]]  
+Niveau 7 : [[talents sauvages#FRAGMENTATION|Fragmentation†]], [[talents sauvages#NUAGE|Nuage]]  
 Niveau 9 : [[talents sauvages#RAZDEMARÉE|Raz de marée]]
 
 
@@ -78,18 +78,18 @@ Les cinétistes qui se focalisent sur l’élément de l’Éther, une substance
 
 **Compétences de classe.** Un télécinétiste ajoute [[Connaissances]] (ingénierie) et [[Escamotage]] à la liste de ses compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[talents sauvages#EXPLOSIONTÉLÉCINÉTIQUE|explosion télécinétique]]
-Explosions composites : [[talents sauvages#EXPLOSIONDEFORCE|explosion de force]], [[talents sauvages#IMPREGNATIONÉTHÉRÉE|imprégnation éthérée]]
+**Talents sauvages.**  
+Explosions simples : [[talents sauvages#EXPLOSIONTÉLÉCINÉTIQUE|explosion télécinétique]]  
+Explosions composites : [[talents sauvages#EXPLOSIONDEFORCE|explosion de force]], [[talents sauvages#IMPREGNATIONÉTHÉRÉE|imprégnation éthérée]]  
 Défense : [[talents sauvages#PROTECTIONDEFORCE|protection de force]]
 
-Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#FINESSETÉLÉCINÉTIQUE|Finesse télécinétique]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#SOIGNEURCINÉTIQUE|Soigneur cinétique]], [[talents sauvages#TÉLÉCINÉTIQUESIMPLE|Télécinétique simple]]
-Niveau 2 : [[talents sauvages#INJECTIONDECROCENJAMBE|Injection de croc-en-jambe†]], [[talents sauvages#MANUTENTIONTÉLÉCINÉTIQUE|Manutention télécinétique]]
-Niveau 3 : [[talents sauvages#AUTOTÉLÉCINÉTIQUE|Autotélécinétique]], [[talents sauvages#GRAPPINDEFORCE|Grappin de force†]], [[talents sauvages#INVISIBILITÉTÉLÉCINÉTIQUE|Invisibilité télécinétique]], [[talents sauvages#PROJECTIONDENNEMI|Projection d’ennemi†]], [[talents sauvages#VISIONTACTILE|Vision tactile]]
-Niveau 4 : [[talents sauvages#MANOEUVRESTÉLÉCINÉTIQUES|Manœuvres télécinétiques]], [[talents sauvages#VISIONTACTILEÉPIANTE|Vision tactile épiante]]
-Niveau 5 : [[talents sauvages#AUTOTÉLÉCINÉTIQUESUPRÊME|Autotélécinétique suprême]], [[talents sauvages#BARRIÈREDEFORCE|Barrière de force]], [[talents sauvages#MARIONNETTEDÉTHER|Marionnette d’éther]], [[talents sauvages#VISIONTACTILERÉACTIVE|Vision tactile réactive]]
-Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#INJECTIONDEDÉSINTÉGRATION|Injection de désintégration†]]
-Niveau 7 : [[talents sauvages#DÉVIATIONDELAMAGIE|Déviation de la magie]]
+Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#FINESSETÉLÉCINÉTIQUE|Finesse télécinétique]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#SOIGNEURCINÉTIQUE|Soigneur cinétique]], [[talents sauvages#TÉLÉCINÉTIQUESIMPLE|Télécinétique simple]]  
+Niveau 2 : [[talents sauvages#INJECTIONDECROCENJAMBE|Injection de croc-en-jambe†]], [[talents sauvages#MANUTENTIONTÉLÉCINÉTIQUE|Manutention télécinétique]]  
+Niveau 3 : [[talents sauvages#AUTOTÉLÉCINÉTIQUE|Autotélécinétique]], [[talents sauvages#GRAPPINDEFORCE|Grappin de force†]], [[talents sauvages#INVISIBILITÉTÉLÉCINÉTIQUE|Invisibilité télécinétique]], [[talents sauvages#PROJECTIONDENNEMI|Projection d’ennemi†]], [[talents sauvages#VISIONTACTILE|Vision tactile]]  
+Niveau 4 : [[talents sauvages#MANOEUVRESTÉLÉCINÉTIQUES|Manœuvres télécinétiques]], [[talents sauvages#VISIONTACTILEÉPIANTE|Vision tactile épiante]]  
+Niveau 5 : [[talents sauvages#AUTOTÉLÉCINÉTIQUESUPRÊME|Autotélécinétique suprême]], [[talents sauvages#BARRIÈREDEFORCE|Barrière de force]], [[talents sauvages#MARIONNETTEDÉTHER|Marionnette d’éther]], [[talents sauvages#VISIONTACTILERÉACTIVE|Vision tactile réactive]]  
+Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#INJECTIONDEDÉSINTÉGRATION|Injection de désintégration†]]  
+Niveau 7 : [[talents sauvages#DÉVIATIONDELAMAGIE|Déviation de la magie]]  
 Niveau 8 : [[talents sauvages#DÉVIATIONTELECINETIQUE|Déviation télécinétique]], [[talents sauvages#GLOBETÉLÉCINÉTIQUE|Globe télécinétique]], [[talents sauvages#LANCERSMULTIPLES|Lancers multiples†]]
 
 
@@ -99,18 +99,18 @@ Les cinétistes qui se focalisent sur l’élément du Feu sont des pyrocinétis
 
 **Compétences de classe.** Un pyrocinétiste ajoute [[Connaissances]] (nature) et [[Évasion]] à la liste de ses compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[talents sauvages#EXPLOSIONDEFEU|explosion de feu]]
-Explosions composites : [[talents sauvages#EXPLOSIONDEFLAMMESBLEUES|explosion de flammes bleues]], [[talents sauvages#EXPLOSIONDEMAGMA|explosion de magma]], [[talents sauvages#EXPLOSIONDEPLASMA|explosion de plasma]], [[talents sauvages#EXPLOSIONDEVAPEUR|explosion de vapeur]], [[talents sauvages#EXPLOSIONESTIVALE|explosion estivale]]
+**Talents sauvages.**  
+Explosions simples : [[talents sauvages#EXPLOSIONDEFEU|explosion de feu]]  
+Explosions composites : [[talents sauvages#EXPLOSIONDEFLAMMESBLEUES|explosion de flammes bleues]], [[talents sauvages#EXPLOSIONDEMAGMA|explosion de magma]], [[talents sauvages#EXPLOSIONDEPLASMA|explosion de plasma]], [[talents sauvages#EXPLOSIONDEVAPEUR|explosion de vapeur]], [[talents sauvages#EXPLOSIONESTIVALE|explosion estivale]]  
 Défense : [[talents sauvages#CORPSBRULANT|corps brûlant]]
 
-Niveau 1 : [[talents sauvages#ACCLIMATATIONÀLACHALEUR|Acclimatation à la chaleur]], [[talents sauvages#ACCLIMATATIONAUFROID|Acclimatation au froid]], [[talents sauvages#ÉVENTAILDEFLAMMES|Éventail de flammes†]], [[talents sauvages#FURIEARDENTE|Furie ardente]], [[talents sauvages#INJECTIONDEFEU|Injection de feu†]], [[talents sauvages#PYROCINÉTIQUESIMPLE|Pyrocinétique simple]], [[talents sauvages#SCULPTEURDEFEU|Sculpteur de feu]]
-Niveau 2 : [[talents sauvages#CALCINATION|Calcination]], [[talents sauvages#PIEGEDEFLAMMES|Piège de flammes]]
-Niveau 3 : [[talents sauvages#ENFUMAGE|Enfumage]], [[talents sauvages#ÉRUPTION|Éruption†]], [[talents sauvages#PERCEPTIONARDENTE|Perception ardente]], [[talents sauvages#PROPULSIONPARLESFLAMMES|Propulsion par les flammes]], [[talents sauvages#TORRENT|Torrent†]], [[talents sauvages#VAGUEDECHALEUR|Vague de chaleur]]
-Niveau 4 : [[talents sauvages#INJECTIONDELUMIÈREAVEUGLANTE|Injection de lumière aveuglante†]]
-Niveau 5 : [[talents sauvages#INJECTIONDEDISSIPATION|Injection de dissipation†]], [[talents sauvages#PROPULSIONPARLESFLAMMESSUPRÊME|Propulsion par les flammes suprême]], [[talents sauvages#PROTECTIONPARLEFEU|Protection par le feu]], [[talents sauvages#TRAINÉESDEFEU|Traînées de feu]]
-Niveau 6 : [[talents sauvages#INJECTIONDEBRILLANCE|Injection de brillance†]]
-Niveau 7 : [[talents sauvages#DÉFLAGRATION|Déflagration†]], [[talents sauvages#INJECTIONDEFLAMMESPURES|Injection de flammes pures†]]
+Niveau 1 : [[talents sauvages#ACCLIMATATIONÀLACHALEUR|Acclimatation à la chaleur]], [[talents sauvages#ACCLIMATATIONAUFROID|Acclimatation au froid]], [[talents sauvages#ÉVENTAILDEFLAMMES|Éventail de flammes†]], [[talents sauvages#FURIEARDENTE|Furie ardente]], [[talents sauvages#INJECTIONDEFEU|Injection de feu†]], [[talents sauvages#PYROCINÉTIQUESIMPLE|Pyrocinétique simple]], [[talents sauvages#SCULPTEURDEFEU|Sculpteur de feu]]  
+Niveau 2 : [[talents sauvages#CALCINATION|Calcination]], [[talents sauvages#PIEGEDEFLAMMES|Piège de flammes]]  
+Niveau 3 : [[talents sauvages#ENFUMAGE|Enfumage]], [[talents sauvages#ÉRUPTION|Éruption†]], [[talents sauvages#PERCEPTIONARDENTE|Perception ardente]], [[talents sauvages#PROPULSIONPARLESFLAMMES|Propulsion par les flammes]], [[talents sauvages#TORRENT|Torrent†]], [[talents sauvages#VAGUEDECHALEUR|Vague de chaleur]]  
+Niveau 4 : [[talents sauvages#INJECTIONDELUMIÈREAVEUGLANTE|Injection de lumière aveuglante†]]  
+Niveau 5 : [[talents sauvages#INJECTIONDEDISSIPATION|Injection de dissipation†]], [[talents sauvages#PROPULSIONPARLESFLAMMESSUPRÊME|Propulsion par les flammes suprême]], [[talents sauvages#PROTECTIONPARLEFEU|Protection par le feu]], [[talents sauvages#TRAINÉESDEFEU|Traînées de feu]]  
+Niveau 6 : [[talents sauvages#INJECTIONDEBRILLANCE|Injection de brillance†]]  
+Niveau 7 : [[talents sauvages#DÉFLAGRATION|Déflagration†]], [[talents sauvages#INJECTIONDEFLAMMESPURES|Injection de flammes pures†]]  
 Niveau 9 : [[talents sauvages#RENAISSANCEDESCENDRES|Renaissance des cendres]]
 
 
@@ -120,18 +120,18 @@ Les cinétistes qui se focalisent sur l’élément de la Terre sont des géocin
 
 **Compétences de classe.** Un géocinétiste ajoute [[Connaissances]] (exploration souterraine) et [[Escalade]] à la liste de ses compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[talents sauvages#EXPLOSIONDETERRE|explosion de terre]]
-Explosions composites : [[talents sauvages#EXPLOSIONAUTOMNALE|explosion automnale]], [[talents sauvages#EXPLOSIONDEBOUE|explosion de boue]], [[talents sauvages#EXPLOSIONDEMAGMA|explosion de magma]], [[talents sauvages#EXPLOSIONDÉMETAL|explosion de métal]], [[talents sauvages#EXPLOSIONDESABLE|explosion de sable]]
+**Talents sauvages.**  
+Explosions simples : [[talents sauvages#EXPLOSIONDETERRE|explosion de terre]]  
+Explosions composites : [[talents sauvages#EXPLOSIONAUTOMNALE|explosion automnale]], [[talents sauvages#EXPLOSIONDEBOUE|explosion de boue]], [[talents sauvages#EXPLOSIONDEMAGMA|explosion de magma]], [[talents sauvages#EXPLOSIONDÉMETAL|explosion de métal]], [[talents sauvages#EXPLOSIONDESABLE|explosion de sable]]  
 Défense : [[talents sauvages#PEAUDEPIERRE|peau de pierre]]
 
-Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#GÉOCINETIQUESIMPLE|Géocinétique simple]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#MARCHEDELATERRE|Marche de la terre]]
-Niveau 2 : [[talents sauvages#ESCALADEDELATERRE|Escalade de la terre]], [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d’enchevêtrement†]], [[talents sauvages#INJECTIONDECROCENJAMBE|Injection de croc-en-jambe†]]
-Niveau 3 : [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#INJECTIONDEMAGNÉTISME|Injection de magnétisme†]], [[talents sauvages#INJECTIONDEMÉTALRARE|Injection de métal rare†]], [[talents sauvages#PEAUDEPIERRESACÉRÉES|Peau de pierres acérées]], [[talents sauvages#PERCEPTIONDESVIBRATIONS|Perception des vibrations]]
-Niveau 4 : [[talents sauvages#DÉCALAGEDETERRE|Décalage de terre]], [[talents sauvages#FUSIONTELLURIQUE|Fusion tellurique]], [[talents sauvages#TERREPERSISTANTE|Terre persistante]]
-Niveau 5 : [[talents sauvages#NAGEDANSLATERRE|Nage dans la terre]], [[talents sauvages#PERCEPTIONDESVIBRATIONSSUPRÊME|Perception des vibrations suprême]], [[talents sauvages#SCULPTEURSURPIERRE|Sculpteur sur pierre]]
-Niveau 6 : [[talents sauvages#TERREMORTELLE|Terre mortelle†]]
-Niveau 7 : [[talents sauvages#DÉCALAGEDETERRESUPRÊME|Décalage de terre suprême]], [[talents sauvages#FRAGMENTATION|Fragmentation†]]
+Niveau 1 : [[talents sauvages#ABRICINÉTIQUE|Abri cinétique]], [[talents sauvages#GÉOCINETIQUESIMPLE|Géocinétique simple]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#MARCHEDELATERRE|Marche de la terre]]  
+Niveau 2 : [[talents sauvages#ESCALADEDELATERRE|Escalade de la terre]], [[talents sauvages#INJECTIONDENCHEVÊTREMENT|Injection d’enchevêtrement†]], [[talents sauvages#INJECTIONDECROCENJAMBE|Injection de croc-en-jambe†]]  
+Niveau 3 : [[talents sauvages#EMPALEMENT|Empalement†]], [[talents sauvages#INJECTIONDEMAGNÉTISME|Injection de magnétisme†]], [[talents sauvages#INJECTIONDEMÉTALRARE|Injection de métal rare†]], [[talents sauvages#PEAUDEPIERRESACÉRÉES|Peau de pierres acérées]], [[talents sauvages#PERCEPTIONDESVIBRATIONS|Perception des vibrations]]  
+Niveau 4 : [[talents sauvages#DÉCALAGEDETERRE|Décalage de terre]], [[talents sauvages#FUSIONTELLURIQUE|Fusion tellurique]], [[talents sauvages#TERREPERSISTANTE|Terre persistante]]  
+Niveau 5 : [[talents sauvages#NAGEDANSLATERRE|Nage dans la terre]], [[talents sauvages#PERCEPTIONDESVIBRATIONSSUPRÊME|Perception des vibrations suprême]], [[talents sauvages#SCULPTEURSURPIERRE|Sculpteur sur pierre]]  
+Niveau 6 : [[talents sauvages#TERREMORTELLE|Terre mortelle†]]  
+Niveau 7 : [[talents sauvages#DÉCALAGEDETERRESUPRÊME|Décalage de terre suprême]], [[talents sauvages#FRAGMENTATION|Fragmentation†]]  
 Niveau 9 : [[talents sauvages#MAÎTREDESSÉISMES|Maître des séismes]]
 
 
@@ -139,13 +139,13 @@ Niveau 9 : [[talents sauvages#MAÎTREDESSÉISMES|Maître des séismes]]
 ### Universel
 Tous les cinétistes peuvent choisir les talents sauvages suivants.
 
-**Talents sauvages.**
-Niveau 1 : [[talents sauvages#ARMECINÉTIQUE|Arme cinétique†]], [[talents sauvages#CINÉTISTETALENTUEUX|Cinétiste talentueux]], [[talents sauvages#EXTENSIONDEPORTÉE|Extension de portée†]], [[talents sauvages#INJECTIONDABSORPTION|Injection d’absorption†]], [[talents sauvages#POINGCINÉTIQUE|Poing cinétique†]]
-Niveau 2 : [[talents sauvages#CINÉTISTETALENTUEUXSUPRÊME|Cinétiste talentueux suprême]]
-Niveau 3 : [[talents sauvages#DÉLUGEDEXPLOSIONS|Déluge d’explosions†]], [[talents sauvages#EXPLOSIONMOBILE|Explosion mobile†]], [[talents sauvages#FAUFILEMENT|Faufilement†]], [[talents sauvages#FOUETCINÉTIQUE|Fouet cinétique†]], [[talents sauvages#PARALYSIEÉLÉMENTAIRE|Paralysie élémentaire]], [[talents sauvages#PORTEEEXTRÊME|Portée extrême†]]
-Niveau 4 : [[talents sauvages#DÉFENSEAMELIORÉE|Défense améliorée]]
-Niveau 5 : [[talents sauvages#ÉTINCELLEDEVIE|Étincelle de vie]], [[talents sauvages#FORMECINÉTIQUE|Forme cinétique]], [[talents sauvages#INJECTIONDAGRIPPEMENT|Injection d’agrippement†]], [[talents sauvages#MUR|mur†]]
-Niveau 6 : [[talents sauvages#CHEVAUCHÉEEXPLOSIVE|Chevauchée explosive]]
+**Talents sauvages.**  
+Niveau 1 : [[talents sauvages#ARMECINÉTIQUE|Arme cinétique†]], [[talents sauvages#CINÉTISTETALENTUEUX|Cinétiste talentueux]], [[talents sauvages#EXTENSIONDEPORTÉE|Extension de portée†]], [[talents sauvages#INJECTIONDABSORPTION|Injection d’absorption†]], [[talents sauvages#POINGCINÉTIQUE|Poing cinétique†]]  
+Niveau 2 : [[talents sauvages#CINÉTISTETALENTUEUXSUPRÊME|Cinétiste talentueux suprême]]  
+Niveau 3 : [[talents sauvages#DÉLUGEDEXPLOSIONS|Déluge d’explosions†]], [[talents sauvages#EXPLOSIONMOBILE|Explosion mobile†]], [[talents sauvages#FAUFILEMENT|Faufilement†]], [[talents sauvages#FOUETCINÉTIQUE|Fouet cinétique†]], [[talents sauvages#PARALYSIEÉLÉMENTAIRE|Paralysie élémentaire]], [[talents sauvages#PORTEEEXTRÊME|Portée extrême†]]  
+Niveau 4 : [[talents sauvages#DÉFENSEAMELIORÉE|Défense améliorée]]  
+Niveau 5 : [[talents sauvages#ÉTINCELLEDEVIE|Étincelle de vie]], [[talents sauvages#FORMECINÉTIQUE|Forme cinétique]], [[talents sauvages#INJECTIONDAGRIPPEMENT|Injection d’agrippement†]], [[talents sauvages#MUR|mur†]]  
+Niveau 6 : [[talents sauvages#CHEVAUCHÉEEXPLOSIVE|Chevauchée explosive]]  
 Niveau 8 : [[talents sauvages#TRANSPOSITIONVERSLÉTHER|Transposition vers l’Éther]]
 
 
@@ -155,16 +155,16 @@ Niveau 8 : [[talents sauvages#TRANSPOSITIONVERSLÉTHER|Transposition vers l’É
 
 **Compétences de classe.** Un chaocinétiste ajoute [[Connaissances]] (exploration souterraine) et [[Évasion]] à sa liste de compétences de classe.
 
-**Talents sauvages.**
-Explosions simples : [[talents sauvages#EXPLOSIONDEGRAVITÉ|Explosion de gravité]], [[talents sauvages#EXPLOSIONNÉGATIVE|Explosion négative]]
-Explosions composites : [[talents sauvages#ADJUVANTNÉGATIF|Adjuvant négatif]], [[talents sauvages#EXPLOSIONDEVIDE|Explosion de vide]], [[talents sauvages#STIMULATIONGRAVITATIONNELLE|Stimulation gravitationnelle]]
+**Talents sauvages.**  
+Explosions simples : [[talents sauvages#EXPLOSIONDEGRAVITÉ|Explosion de gravité]], [[talents sauvages#EXPLOSIONNÉGATIVE|Explosion négative]]  
+Explosions composites : [[talents sauvages#ADJUVANTNÉGATIF|Adjuvant négatif]], [[talents sauvages#EXPLOSIONDEVIDE|Explosion de vide]], [[talents sauvages#STIMULATIONGRAVITATIONNELLE|Stimulation gravitationnelle]]  
 Défense : [[talents sauvages#VACUITÉ|Vacuité]]
 
-Niveau 1 : [[talents sauvages#CHAOCINÉTIQUESIMPLE|Chaocinétique simple]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#INJECTIONDENTRAÎNEMENT|Injection d'entraînement†]], [[talents sauvages#SOIGNEURDUVIDE|Soigneur du vide]]
-Niveau 2 : [[talents sauvages#PASDERESPIRATION|Pas de respiration]], [[talents sauvages#REGARDDUVIDE|Regard du vide]]
-Niveau 3 : [[talents sauvages#CONTRÔLEDELAGRAVITÉ|Contrôle de la gravité]], [[talents sauvages#INJECTIONDETÉNÈBRES|Injection de ténèbres†]]
-Niveau 4 : [[talents sauvages#SINGULARITÉ|Singularité†]]
-Niveau 5 : [[talents sauvages#CONTRÔLEDELAGRAVITÉSUPRÊME|Contrôle de la gravité suprême]], [[talents sauvages#REGARDDUVIDESUPRÊME|Regard du vide suprême]]
-Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#INJECTIONDETÉNÈBRESSUPRÊME|Injection de ténèbres suprême†]]
-Niveau 7 : [[talents sauvages#INJECTIONDÉNERGIENÉGATIVE|Injection d'énergie négative†]]
+Niveau 1 : [[talents sauvages#CHAOCINÉTIQUESIMPLE|Chaocinétique simple]], [[talents sauvages#INJECTIONDEBOUSCULADE|Injection de bousculade†]], [[talents sauvages#INJECTIONDENTRAÎNEMENT|Injection d'entraînement†]], [[talents sauvages#SOIGNEURDUVIDE|Soigneur du vide]]  
+Niveau 2 : [[talents sauvages#PASDERESPIRATION|Pas de respiration]], [[talents sauvages#REGARDDUVIDE|Regard du vide]]  
+Niveau 3 : [[talents sauvages#CONTRÔLEDELAGRAVITÉ|Contrôle de la gravité]], [[talents sauvages#INJECTIONDETÉNÈBRES|Injection de ténèbres†]]  
+Niveau 4 : [[talents sauvages#SINGULARITÉ|Singularité†]]  
+Niveau 5 : [[talents sauvages#CONTRÔLEDELAGRAVITÉSUPRÊME|Contrôle de la gravité suprême]], [[talents sauvages#REGARDDUVIDESUPRÊME|Regard du vide suprême]]  
+Niveau 6 : [[talents sauvages#ASPHYXIE|Asphyxie]], [[talents sauvages#INJECTIONDETÉNÈBRESSUPRÊME|Injection de ténèbres suprême†]]  
+Niveau 7 : [[talents sauvages#INJECTIONDÉNERGIENÉGATIVE|Injection d'énergie négative†]]  
 Niveau 9 :  [[talents sauvages#MAÎTREDELAGRAVITÉ|Maître de la gravité]]

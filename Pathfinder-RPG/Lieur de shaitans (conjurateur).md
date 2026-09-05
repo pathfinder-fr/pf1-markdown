@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Menuarchétypeconjurateur}{s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
-*Les lieurs de shaitans peuvent exiger qu’un être semblable à leurs ancêtres génies les serve comme eidolon.*
+*Les lieurs de shaitans peuvent exiger qu’un être semblable à leurs ancêtres génies les serve comme eidolon.* 
 
 #### Forme de base
 Au niveau 1, si l’eidolon du lieur de shaitans a la [[eidolon#PROFILSDEDEPART|forme de base bipède]], il gagne un bonus de +2 à un score de caractéristique. Le lieur de shaitans doit faire ce choix au niveau 1. Si à un quelconque moment l’eidolon du lieur de shaitans a une autre forme de base, il perd ce bonus jusqu’à ce qu’il reprenne sa forme bipède. L’eidolon du lieur de shaitans ne bénéficie pas de la capacité [[eidolon#TRANSFERTDESSORTS|transfert de sorts]].

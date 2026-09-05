@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette sacoche de cuir souple comprend une fiole pour l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], des pointes de plumes de rechange, un petit flacon de pigments pour fabriquer de l'encre, un tout petit couteau pour tailler les pointes de plumes, un buvard et une petite règle.

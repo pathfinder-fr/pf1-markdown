@@ -21,11 +21,11 @@ Par exemple, un sort de *[[mains brûlantes]]* à [[Extension deffet|extension d
 En général, on utilise le niveau du sort (normal, moins élevé) ou le niveau de l’emplacement dépensé (plus élevé), suivant le plus désavantageux pour le lanceur de sorts. Les avantages du <u>[[Dons#DONMETAMAGIE|don de métamagie]]</u> sont explicités dans la section Avantages du don, et un niveau d’emplacement de sort augmenté est un désavantage.
 
 [[Augmentation dintensité|Augmentation d’intensité]] est en fait le seul don de métamagie qui fait de l’utilisation d’un emplacement de niveau plus élevé un avantage plutôt qu’un désavantage.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Dons et compétences)#26|→]] Métamagie : Puis-je utiliser un don de métamagie pour modifier un pouvoir magique ?***
 
 Non. Les <u>[[Dons#DONMETAMAGIE|dons de métamagie]]</u> précisent qu’ils n’affectent que les sorts, et pas les [[Pouvoirs magiques (capacité)|pouvoirs magiques]]. De même, les pouvoirs magiques n’ont pas d’emplacements de sort, donc il serait impossible d’ajuster l’emplacement de sort effectif d’un pouvoir magique.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#26|→]] Métamagie : Lorsque je lance un sort depuis un parchemin, une baguette, ou un bâton, puis-je appliquer un ou plusieurs dons de métamagie à ce sort ?***
 
 Non. *(Retour à la <u>[[Dons#DONMETAMAGIE|règle]]</u>)*}À mesure que les connaissances magiques d’un lanceur de sorts augmentent, il peut apprendre à jeter des sorts à l’aide de méthodes légèrement différentes de celles qu’on lui a enseignées. Préparer et lancer les sorts ainsi présente davantage de difficultés que les méthodes classiques, mais les dons de métamagie permettent de repousser ses limites. Les dons de métamagie n'affectent pas les pouvoirs magiques.

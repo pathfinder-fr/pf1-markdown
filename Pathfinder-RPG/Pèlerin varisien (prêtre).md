@@ -8,7 +8,7 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:Menuarchétypeprêtre}{s:cs}{s:MMI}''La plupart des prêtres occupent un temple en particulier, mais les prêtres aventuriers passent la majeure partie de leur temps à l’écart de leur lieu de culte favori et pratiquent leur religion sur la route et pendant leurs pérégrinations. Ces prêtres considèrent le temps passé en voyage vers les sites sacrés de leur religion comme plus précieux que celui passé reclus à l’intérieur d’une église. Relativement courants, ces pèlerins aiment voyager, généralement à pieds ou en caravane. Même si cet archétype porte le nom de « pèlerin nomade », tous les prêtres qui préfèrent
+{s:Menuarchétypeprêtre}{s:cs}{s:MMI}''La plupart des prêtres occupent un temple en particulier, mais les prêtres aventuriers passent la majeure partie de leur temps à l’écart de leur lieu de culte favori et pratiquent leur religion sur la route et pendant leurs pérégrinations. Ces prêtres considèrent le temps passé en voyage vers les sites sacrés de leur religion comme plus précieux que celui passé reclus à l’intérieur d’une église. Relativement courants, ces pèlerins aiment voyager, généralement à pieds ou en caravane. Même si cet archétype porte le nom de « pèlerin nomade », tous les prêtres qui préfèrent 
 pratiquer leur religion sur la route peuvent le choisir. Quel que soit leur nationalité, ils apprennent les rudiments de la cartomancie et en savent beaucoup sur les gens.''
 
 #### Route de la fortune

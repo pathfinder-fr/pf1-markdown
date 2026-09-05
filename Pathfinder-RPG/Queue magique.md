@@ -11,6 +11,6 @@ Categories:
 
 **Conditions requises.** [[kitsune (race)|Kitsune]]
 
-**Avantage.** Le kitsune gagne un nouveau pouvoir magique, utilisable deux fois par jour, choisi dans l’ordre parmi cette liste : *[[sort Déguisement|déguisement]]*, *[[charme-personne]]*, *[[détection faussée]]*, *[[invisibilité]]*, *[[suggestion]]*, *[[déplacement]]*, *[[confusion]]*, *[[domination]]*. Par exemple, la première fois qu’il choisit ce don, le kitsune gagne déguisement 2/jour ; la deuxième fois qu’il le choisit, il gagne charme-personne 2/jour. Son niveau de lanceur de sorts pour ces sorts est égal à ses dés de vie. Le DD de ces capacités est basé sur le [[Charisme]].
+**Avantage.** Le kitsune gagne un nouveau pouvoir magique, utilisable deux fois par jour, choisi dans l’ordre parmi cette liste : *[[sort Déguisement|déguisement]]*, *[[charme-personne]]*, *[[détection faussée]]*, *[[invisibilité]]*, *[[suggestion]]*, *[[déplacement]]*, *[[confusion]]*, *[[domination]]*. Par exemple, la première fois qu’il choisit ce don, le kitsune gagne déguisement 2/jour ; la deuxième fois qu’il le choisit, il gagne charme-personne 2/jour. Son niveau de lanceur de sorts pour ces sorts est égal à ses dés de vie. Le DD de ces capacités est basé sur le [[Charisme]]. 
 
 **Spécial.** Le kitsune peut choisir ce don jusqu’à huit fois. Chaque fois qu’il le prend, il gagne une capacité supplémentaire, comme indiqué ci-dessus.

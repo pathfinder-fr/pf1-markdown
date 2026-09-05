@@ -13,10 +13,10 @@ Categories:
 {s:BDTitre|Guide de passage|{s:RSE}}
 **Aura** Variable modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 136.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce *[[Guide magique|guide]]* est un bijou d’orfèvrerie, ouvragé en or et incrusté de minuscules opales, rubis, diamants et saphirs. Trois encoches sur le rabat intérieur du couvercle peuvent accueillir chacune une pierre ioun. Il dégage à la demande une lumière équivalente au sort *[[lumière du jour]]*. Il possède les capacités suivantes, chacune activée par un mot de commande différent :
-• *[[porte dimensionnelle]]* (une fois par jour)
-• *[[feuille morte]]* (à volonté)
-• *[[déblocage]]* (à volonté)
+Ce *[[Guide magique|guide]]* est un bijou d’orfèvrerie, ouvragé en or et incrusté de minuscules opales, rubis, diamants et saphirs. Trois encoches sur le rabat intérieur du couvercle peuvent accueillir chacune une pierre ioun. Il dégage à la demande une lumière équivalente au sort *[[lumière du jour]]*. Il possède les capacités suivantes, chacune activée par un mot de commande différent :  
+• *[[porte dimensionnelle]]* (une fois par jour)  
+• *[[feuille morte]]* (à volonté)  
+• *[[déblocage]]* (à volonté)  
 • *[[résistance aux énergies destructives]]* (une fois par jour, résistance à l’énergie 20, dure 24 heures)
 
 Quand la première encoche à pierre ioun est utilisée, la capacité *porte dimensionnelle* ne marche plus. Quand la seconde encoche est utilisée, *feuille morte* et *résistance aux énergies destructrices* ne sont plus disponibles. Quand la troisième encoche est utilisée, *lumière du jour* et *déblocage* ne fonctionnent plus.

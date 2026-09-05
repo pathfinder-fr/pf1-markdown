@@ -33,7 +33,7 @@ Au niveau 13, le champion du marteau peut, par une [[action complexe]], frapper 
 Au niveau 17, tous les [[don de combat|dons de combat]] qu’un champion du marteau a appris avec une arme appartenant au groupe des [[guerrier#Marteaux|marteaux]] (comme [[Science du critique]] ou [[Arme de prédilection]]) s’appliquent à toutes les armes de ce groupe. Ce pouvoir remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 4]].
 
 #### Coup dévastateur (Ext)
-Au niveau 19, par une [[action simple]], un champion du marteau peut faire une unique attaque de corps à corps avec une arme du groupe des [[guerrier#Marteaux|marteaux]] avec un malus de -5. S’il touche, l’attaque est considérée comme un [[coup critique]]. Les pouvoirs spéciaux des armes qui s’activent seulement en cas de coup critique ne se déclenchent pas en cas de confirmation du critique. Ce pouvoir remplace [[guerrier#MAITRISEDESARMURES|maîtrise des armures]].
+Au niveau 19, par une [[action simple]], un champion du marteau peut faire une unique attaque de corps à corps avec une arme du groupe des [[guerrier#Marteaux|marteaux]] avec un malus de -5. S’il touche, l’attaque est considérée comme un [[coup critique]]. Les pouvoirs spéciaux des armes qui s’activent seulement en cas de coup critique ne se déclenchent pas en cas de confirmation du critique. Ce pouvoir remplace [[guerrier#MAITRISEDESARMURES|maîtrise des armures]]. 
 
 #### Maîtrise des armes (Ext)
 Pour cette aptitude de classe, un champion du marteau est obligé de choisir une arme du groupe des [[guerrier#Marteaux|marteaux]].

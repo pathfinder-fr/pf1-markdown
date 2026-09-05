@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 1 po ; **Poids** —
+{s:MCA}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cette bouteille, qui semble être fabriquée en verre, est plus fragile qu'il n'y paraît et ne provoque aucun dégât quand elle touche une créature ou un objet. Très prisées par les artistes de théâtre, les bouteilles en verre de sucre accordent un bonus de circonstances de +2 aux tests de [[Bluff]] et de [[Représentation]] impliquant la mise en scène de combats réalistes.

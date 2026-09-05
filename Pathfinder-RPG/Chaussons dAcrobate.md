@@ -8,7 +8,7 @@ LastModified: 2024-05-31 10:39
 {s:BDTitre|Chaussons d’acrobate|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3  ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 3 000 po ; **Poids** 1 kg
 (((Description)))
-Ces chaussons en cuir gris et souple permettent à leur porteur de garder l’équilibre dans les situations précaires. Il conserve son bonus de [[Dextérité]] à la [[CA]] lorsqu’il fait de l’escalade, court ou utilise sa compétence d’[[Acrobaties]] pour éviter de tomber alors qu’il se déplace sur une surface étroite ou sur un sol irrégulier. De plus, il gagne un bonus de compétence de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]] et aux jets de [[Réflexes]] pour éviter de chuter (y compris pour éviter de tomber à terre).
+Ces chaussons en cuir gris et souple permettent à leur porteur de garder l’équilibre dans les situations précaires. Il conserve son bonus de [[Dextérité]] à la [[CA]] lorsqu’il fait de l’escalade, court ou utilise sa compétence d’[[Acrobaties]] pour éviter de tomber alors qu’il se déplace sur une surface étroite ou sur un sol irrégulier. De plus, il gagne un bonus de compétence de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]] et aux jets de [[Réflexes]] pour éviter de chuter (y compris pour éviter de tomber à terre). 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[grâce féline]]* ; **Coût** 1 500 po
 </div>

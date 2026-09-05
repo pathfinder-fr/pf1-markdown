@@ -21,7 +21,7 @@ Au niveau 1, le vagabond apprend une [[Linguistique|langue]] de plus ou se forme
 Au niveau 3, le vagabond gagne [[Endurance]] comme don supplémentaire et son bonus double quand il fait un test de [[Constitution]] à cause d’une marche forcée. De plus, il gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre les sorts et effets qui provoquent [[épuisé|épuisement]] ou [[fatigué|fatigue]]. Ce pouvoir remplace [[moine#SERENITE|sérénité]].
 
 #### Pied léger (Sur)
-Au niveau 5, le vagabond ne laisse plus de traces derrière lui et il est impossible de suivre sa piste, sauf s’il le désire. Il peut dépenser 1 point de sa [[réserve de ki]] pour utiliser *[[charge de fourmi]]*, *[[démarche aérienne]]*,  *[[infatigable poursuivant]]* ou *[[passage sans trace]]* comme un pouvoir magique (avec un [[NLS]] égal au niveau du moine). Ce pouvoir remplace [[moine#CHUTERALENTIE|chute ralentie]].
+Au niveau 5, le vagabond ne laisse plus de traces derrière lui et il est impossible de suivre sa piste, sauf s’il le désire. Il peut dépenser 1 point de sa [[réserve de ki]] pour utiliser *[[charge de fourmi]]*, *[[démarche aérienne]]*,  *[[infatigable poursuivant]]* ou *[[passage sans trace]]* comme un pouvoir magique (avec un [[NLS]] égal au niveau du moine). Ce pouvoir remplace [[moine#CHUTERALENTIE|chute ralentie]]. 
 
 #### Énigmatique (Sur)
 Au niveau 5, le vagabond s’enveloppe d’un nimbe de mystère. Le [[DD]] des tests de [[Connaissances]], de [[Diplomatie]] ou de [[Psychologie]] pour obtenir des informations ou avoir une intuition sur le vagabond augmente de 5. De plus, s’il dépense 1 point de [[ki]], il gagne *[[antidétection]]* pendant 24 heures, avec un [[NLS]] égal à son niveau de moine. Ce pouvoir remplace [[moine#SAUTSPUISSANTS|sauts puissants]].

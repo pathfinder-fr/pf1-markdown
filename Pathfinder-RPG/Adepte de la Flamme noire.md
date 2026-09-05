@@ -7,7 +7,7 @@ Categories:
 - Paths of Prestige
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:PP}''Formant un ordre très peu organisé composé d'aliénistes et de démonologistes nihilistes, les adeptes de la Flamme noire étudient la manière dont le pouvoir de la destruction se manifeste à travers le multivers. Ils concentrent leurs recherches obsessives sur la Flamme noire. Ce phénomène occulte brûle les fibres de la réalité partout où il va, rétrécissant les murs séparant les différents plans – surtout entre le Plan Matériel et les trous impies et sombres des Plans Extérieurs maléfiques. Certains poursuivent la Flamme noire pour des raisons purement académiques, mais la plupart cherchent à maîtriser et manipuler son énergie pour libérer le pouvoir destructeur du multivers et anéantir toute création.
+{s:MenuClassesDePrestige}{s:cs}{s:PP}''Formant un ordre très peu organisé composé d'aliénistes et de démonologistes nihilistes, les adeptes de la Flamme noire étudient la manière dont le pouvoir de la destruction se manifeste à travers le multivers. Ils concentrent leurs recherches obsessives sur la Flamme noire. Ce phénomène occulte brûle les fibres de la réalité partout où il va, rétrécissant les murs séparant les différents plans – surtout entre le Plan Matériel et les trous impies et sombres des Plans Extérieurs maléfiques. Certains poursuivent la Flamme noire pour des raisons purement académiques, mais la plupart cherchent à maîtriser et manipuler son énergie pour libérer le pouvoir destructeur du multivers et anéantir toute création. 
 
 Les [[Gardien des failles|gardiens des failles]] s'opposent diamétralement aux adeptes de la Flamme noire. Alors que les adeptes cherchent à maîtriser le pouvoir des Plans Extérieurs maléfiques pour leur propre compte, en ouvrant constamment des passerelles planaires afin de peut-être avoir ne serait-ce qu'un petit aperçu de cette Flamme noire élusive, les gardiens des failles essaient plutôt de fermer ces portails. Puisque que les gardiens des failles font obstacle aux efforts des adeptes de la Flamme Noire, ces invocateurs saisissent toutes les opportunités possibles pour saboter ou corrompre leurs rivaux.''
 
@@ -120,7 +120,7 @@ Les [[Gardien des failles|gardiens des failles]] s'opposent diamétralement aux 
 
 </center>
 
-**Dés de vie.** d6.
+**Dés de vie.** d6. 
 
 ### Conditions requises
 Pour pouvoir devenir adepte de la Flamme noire, le personnage doit satisfaire aux conditions suivantes :
@@ -150,9 +150,9 @@ Un adepte de la Flamme noire obtient le don [[Convocation sacrée]] comme don su
 
 {s:reference|SOUILLUREDELAFLAMMENOIRE}
 #### Souillure de la Flamme noire (Sur)
-Au niveau 2 et par une [[action simple]], un adepte de la Flamme noire peut corrompre la surface planaire en brins de Flamme noire qui créent une résonance destructrice entre lui-même et une cible située à 9 m (6 {s:c}). Il gagne un bonus de malfaisance de +1 aux [[jds|jets de sauvegarde]], aux tests de [[NLS|niveau de lanceur de sorts]] contre la cible et la cible subit un malus de -1 à ses jets de sauvegarde contre les attaques de l'adepte de la Flamme noire (-2 si l'attaque est un effet d'[[invocation]]). La souillure dure un nombre de [[round|rounds]] égal au niveau de classe de l'adepte, mais un jet de [[Volonté]] réussi ([[DD]] 10 + niveau de classe de l'adepte + son modificateur de [[Charisme]]) réduit cette durée à un round. L'effet prend fin immédiatement si la cible s'éloigne à plus de 9 m de l'adepte.
+Au niveau 2 et par une [[action simple]], un adepte de la Flamme noire peut corrompre la surface planaire en brins de Flamme noire qui créent une résonance destructrice entre lui-même et une cible située à 9 m (6 {s:c}). Il gagne un bonus de malfaisance de +1 aux [[jds|jets de sauvegarde]], aux tests de [[NLS|niveau de lanceur de sorts]] contre la cible et la cible subit un malus de -1 à ses jets de sauvegarde contre les attaques de l'adepte de la Flamme noire (-2 si l'attaque est un effet d'[[invocation]]). La souillure dure un nombre de [[round|rounds]] égal au niveau de classe de l'adepte, mais un jet de [[Volonté]] réussi ([[DD]] 10 + niveau de classe de l'adepte + son modificateur de [[Charisme]]) réduit cette durée à un round. L'effet prend fin immédiatement si la cible s'éloigne à plus de 9 m de l'adepte. 
 
-Le bonus et le malus de malfaisance passent respectivement à +2 et à -2 (-3 pour les effets d'[[invocation]]) au niveau 6. Ils passent ensuite à +3 et à -3 (-4 pour les effets d'[[invocation]]) au niveau 10.
+Le bonus et le malus de malfaisance passent respectivement à +2 et à -2 (-3 pour les effets d'[[invocation]]) au niveau 6. Ils passent ensuite à +3 et à -3 (-4 pour les effets d'[[invocation]]) au niveau 10. 
 
 {s:reference|PACTEDELAFLAMMENOIRE}
 #### Pacte de la Flamme noire (Sur)
@@ -176,7 +176,7 @@ Au niveau 7, lorsqu'un adepte de la Flamme noire convoque une créature avec un 
 
 {s:reference|COMPASSIONMAUDITE}
 #### Compassion maudite (Sur)
-Au niveau 8, lorsqu'un adepte de la Flamme Noire ou que sa créature convoquée ou appelée inflige des points de dégâts à une cible affectée par la [[Adepte de la Flamme noire#SOUILLUREDELAFLAMMENOIRE|souillure de la Flamme Noire]], il peut par une [[action rapide]] augmenter les dégâts infligés de 1 par niveau de classe. Si la cible meurt, l'adepte gagne un nombre de  [[points de vie temporaires]] égal à la moitié du nombre de [[DV|dés de vie]] total de la cible. Ces points de vie temporaires durent 1 heure et ne se cumulent pas.
+Au niveau 8, lorsqu'un adepte de la Flamme Noire ou que sa créature convoquée ou appelée inflige des points de dégâts à une cible affectée par la [[Adepte de la Flamme noire#SOUILLUREDELAFLAMMENOIRE|souillure de la Flamme Noire]], il peut par une [[action rapide]] augmenter les dégâts infligés de 1 par niveau de classe. Si la cible meurt, l'adepte gagne un nombre de  [[points de vie temporaires]] égal à la moitié du nombre de [[DV|dés de vie]] total de la cible. Ces points de vie temporaires durent 1 heure et ne se cumulent pas. 
 
 {s:reference|RUPTUREDELAPROTECTIONDEFAILLES}
 #### Rupture de la protection de failles (Sur)

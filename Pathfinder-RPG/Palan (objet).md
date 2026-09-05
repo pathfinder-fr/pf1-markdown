@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 2,5 kg
+{s:AE}**Prix** 5 po ; **Poids** 2,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Qu'il serve à remonter des trésors du fond d'une fosse ou à déplacer des provisions, un simple palan à poulie correctement attaché, rajoute un bonus de circonstances de +5 aux tests de [[Force]] pour soulever des objets lourds. Il faut une minute pour attacher la poulie.

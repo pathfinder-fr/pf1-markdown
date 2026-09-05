@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONSPECTACLE|spectacle]]
 
-**Conditions.** [[Esquive]], 4 rangs en [[Acrobaties]]
+**Conditions.** [[Esquive]], 4 rangs en [[Acrobaties]] 
 
 **Avantage.** Quand le personnage passe une [[action rapide]] à faire un test de combat de spectacle après un [[coup critique]] ou une [[manœuvre offensive]] et qu’il est adjacent à la cible du critique ou de la manœuvre, il peut se placer dans n’importe quelle case adjacente à la cible, sans provoquer d’ [[attaque dopportunité|attaque d’opportunité]]. Pour cela, le chemin doit être dégagé jusqu’à la case et le personnage doit pouvoir l’atteindre par une [[action de mouvement]]. S’il termine ce mouvement dans une case autre que celle de départ, il gagne un bonus de +2 au test de combat de spectacle.
 

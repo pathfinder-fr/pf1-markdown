@@ -27,5 +27,5 @@ La portée maximale pour qu’une condition déclenche l’apparition de la bouc
 Il est possible d’user de *[[permanence]]* sur un sort de *crâne ricanant*.
 
 
-(((Ce sort fonctionne comme *[[bouche magique]]* mais, au lieu de créer une bouche illusoire sur n’importe quelle surface, il affecte un crâne. De plus, quand quelqu’un déclenche la magie du crâne, il pousse un ricanement dément effrayant avant de transmettre son message. Toutes les créatures qui l’entendent ricaner doivent réussir un
+(((Ce sort fonctionne comme *[[bouche magique]]* mais, au lieu de créer une bouche illusoire sur n’importe quelle surface, il affecte un crâne. De plus, quand quelqu’un déclenche la magie du crâne, il pousse un ricanement dément effrayant avant de transmettre son message. Toutes les créatures qui l’entendent ricaner doivent réussir un 
 [[jet de sauvegarde]] ou être [[secoué|secouées]] pendant 1d4 [[round|rounds]].)))

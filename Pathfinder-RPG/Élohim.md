@@ -47,7 +47,7 @@ LastModified: 2017-02-28 20:32
 </td><td><div>
 *Cet être n’a qu’un seul oeil et se compose d’un étrange mélange d’insectes, de champignons et d’autres éléments vivants qui ne forment qu’une seule entité ailée.*
 
-L’élohim est un être étrange obsédé par le désir de créer des mondes miniatures peuplés de créatures de son choix. Il crée de nouveaux demiplans permanents ou altère des environnements reculés sur des plans déjà existants, y semant une vie nouvelle, puis finit par les abandonner.
+L’élohim est un être étrange obsédé par le désir de créer des mondes miniatures peuplés de créatures de son choix. Il crée de nouveaux demiplans permanents ou altère des environnements reculés sur des plans déjà existants, y semant une vie nouvelle, puis finit par les abandonner. 
 
 Il peut revenir vers ses créations des années, voire des siècles plus tard, afin d’observer la manière dont sa progéniture s’est développée et peut l’autoriser à vivre encore comme il peut l’éradiquer complètement. L’élohim ne communique que très rarement avec les autres êtres et, quand il le fait, ne s’exprime que de manière énigmatique
 

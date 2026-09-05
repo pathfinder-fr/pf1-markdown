@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg
+{s:AE}**Prix** 2 pc ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Ce type de café est servi avec de généreuses quantités de lait, de sucre et d’épices qui contrebalancent son amertume naturelle. Le kahvè se boit à n’importe quel moment de la journée, tant chez soi que dans les cafés de la ville. On lit parfois la bonne aventure dans le marc qui reste au fond de la tasse.

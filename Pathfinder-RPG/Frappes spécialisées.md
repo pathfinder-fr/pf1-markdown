@@ -7,11 +7,11 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:PU}Au niveau 5, un [[Moine unchained]] apprend un nouveau type de frappe spécialisée. À chaque fois qu’il effectue un [[Moine unchained#DELUGEDECOUPS|déluge de coups]], il peut décider que l’une de ses attaques à mains nues est une frappe spécialisée. Cette attaque est résolue normalement mais elle produit un effet supplémentaire en fonction du type de frappe choisi.
+{s:PU}Au niveau 5, un [[Moine unchained]] apprend un nouveau type de frappe spécialisée. À chaque fois qu’il effectue un [[Moine unchained#DELUGEDECOUPS|déluge de coups]], il peut décider que l’une de ses attaques à mains nues est une frappe spécialisée. Cette attaque est résolue normalement mais elle produit un effet supplémentaire en fonction du type de frappe choisi. 
 
-Au niveau 9 et tous les 4 niveaux par la suite, un moine apprend une frappe spécialisée supplémentaire. Il doit choisir quelle frappe spécialisée il souhaite appliquer avant d’effectuer le jet d’attaque.
+Au niveau 9 et tous les 4 niveaux par la suite, un moine apprend une frappe spécialisée supplémentaire. Il doit choisir quelle frappe spécialisée il souhaite appliquer avant d’effectuer le jet d’attaque. 
 
-Au niveau 15, il peut attribuer une frappe spécialisée à deux de ses attaques à mains nues au maximum à chaque round. Ces deux frappes peuvent être différentes.
+Au niveau 15, il peut attribuer une frappe spécialisée à deux de ses attaques à mains nues au maximum à chaque round. Ces deux frappes peuvent être différentes. 
 
 Le moine sélectionne ses frappes spécialisées parmi les suivantes.
 

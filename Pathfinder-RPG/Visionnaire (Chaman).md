@@ -17,7 +17,7 @@ Categories:
 Au niveau 4, le visionnaire reçoit [[Art du devin]] en don supplémentaire, même s’il ne satisfait pas ses conditions.
 
 #### Perception de l’expertise magique (Ext)
-Au niveau 4, le chaman peut déterminer quel type d’expertise magique une créature possède en l’observant pendant 2 rounds avec *[[détection de la magie]]* ou l’un des sorts suivants : *[[détection du Chaos]]*, *[[détection du Mal]]*, *[[détection du Bien]]* ou *[[détection de la Loi]]* (si l’alignement de la créature correspond au sort). Cette aptitude dévoile au visionnaire les lignages, les domaines, les maléfices, les écoles ou les mystères (les cas échéants) que possède la créature.
+Au niveau 4, le chaman peut déterminer quel type d’expertise magique une créature possède en l’observant pendant 2 rounds avec *[[détection de la magie]]* ou l’un des sorts suivants : *[[détection du Chaos]]*, *[[détection du Mal]]*, *[[détection du Bien]]* ou *[[détection de la Loi]]* (si l’alignement de la créature correspond au sort). Cette aptitude dévoile au visionnaire les lignages, les domaines, les maléfices, les écoles ou les mystères (les cas échéants) que possède la créature. 
 
 Un jet de Volonté réussi annule cet effet (DD = 10 + 1/2 niveau du chaman + modificateur de Sagesse du chaman). Une créature affectée ne peut plus être de nouveau la cible de cette aptitude pendant 24 heures. Cette aptitude fonctionne par le biais de capteurs magiques comme avec les sorts *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* et *[[scrutation]]*. Cette aptitude remplace l’esprit errant obtenu au niveau 4.
 

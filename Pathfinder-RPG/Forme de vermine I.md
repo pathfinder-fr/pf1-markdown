@@ -14,13 +14,13 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l'apparence)
-**Portée** [[personnelle]]
-**Cible** lanceur de sorts
+{s:UM}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l'apparence)  
+**Portée** [[personnelle]]  
+**Cible** lanceur de sorts  
 **Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
+<hr />
 Quand le personnage lance ce sort, il peut prendre l'apparence de n'importe quelle vermine de taille [[taille|P ou M]]. Si la forme choisie possède l'une des aptitudes suivantes, le personnage en bénéficie aussi: [[escalade]] 9m, [[fente]], [[nage]] 9m, [[odorat]], [[vision dans le noir]] 18m, [[Vol (capacité)|vol]] 9m(manœuvrabilité moyenne). Le personnage ne devient pas complètement immunisé contre les effets mentaux mais il gagne un bonus de résistance de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre eux.
 - *[[type Vermine|Vermine]] de [[taille|taille P]].* Si le personnage adopte la forme d'une vermine de taille P, il gagne un bonus de taille de +2 à la [[dextérité]] et de +2 à l'armure naturelle.
 - *[[type Vermine|Vermine]] de [[taille|taille M]].* Si le personnage adopte la forme d'une vermine de taille M, il gagne un bonus de taille de +2 à la [[force]] et de +3 à l'armure naturelle.
@@ -35,13 +35,13 @@ Les bonus que le sort confère aux valeurs de [[caractéristiques]] augmentent d
 
 ((({s:sortssimilaires|forme de vermine I}
 ## [[Forme de vermine II]]
-{s:UM}**École** [[Transmutation]] ([[métamorphose]]); **Niveau**  [[Alchimiste|Alch]] 5, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l'apparence)
-**Portée** [[personnelle]]
-**Cible** lanceur de sorts
+{s:UM}**École** [[Transmutation]] ([[métamorphose]]); **Niveau**  [[Alchimiste|Alch]] 5, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un morceau de la créature dont le personnage compte revêtir l'apparence)  
+**Portée** [[personnelle]]  
+**Cible** lanceur de sorts  
 **Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
----
+<hr />
 Ce sort fonctionne comme *[[Forme de vermine I]]* mais permet de prendre aussi la forme d'une vermine TP ou G. Si la forme choisie possède l'une des aptitudes suivantes, le personnage en bénéficie aussi: [[Absorption de sang (capacité)|absorption de sang]], [[attirer]], [[constriction]], [[creusement]] 9m, [[escalade]] 18m, [[étreinte]], [[fente]], [[nage]] 18m, [[odorat]], [[perception des vibrations]] 9m, [[piétinement]], [[poison]], [[toile]], [[vision dans le noir]] 18m, [[vision nocturne]], [[vol]] 18m (bonne manœuvrabilité). Le personnage ne devient pas complètement immunisé contre les effets mentaux mais il gagne un bonus de résistance de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre eux.
 - *[[type Vermine|Vermine]] de [[taille|taille TP]].* Si le personnage adopte la forme d'une vermine TP, il gagne un bonus de taille de +4 à la [[dextérité]], un malus de -2 à la [[force]] et un bonus de +1 à l'armure naturelle.
 - *[[type Vermine|Vermine]] de [[taille|taille G]].* Si le personnage adopte la forme d'une vermine G, il gagne un bonus de taille de +4 à la [[force]], un malus de -2 à la [[dextérité]] et un bonus de +5 à l'armure naturelle.

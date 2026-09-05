@@ -11,11 +11,11 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une pincée de poussière, des braises, du sable soufflé par le vent ou des gouttes d’eau, en fonction du type de génie)
-**Portée** personnelle
-**Cible** le personnage
+{s:MMI}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une pincée de poussière, des braises, du sable soufflé par le vent ou des gouttes d’eau, en fonction du type de génie)  
+**Portée** personnelle  
+**Cible** le personnage  
 **Durée** 1 round/niveau
 
 *Les magiciens et les prêtres de l'empire de l'Est ont toujours cherché à imiter les génies avec lesquels ils pactisaient. Le sort engeance de génie est le résultat des tentatives menées pour obtenir le pouvoir et l’influence de ces fiers extérieurs sans que le lanceur de ce sort ne soit obligé d’abandonner totalement sa forme.*

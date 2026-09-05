@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pa ; **Poids** —
+{s:AE}**Prix** 2 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette fine feuille de peau animale traitée constitue une surface d'écriture résistante et convient à la création de [[Parchemins magiques]]. Elle a une [[solidité]] de 0, 2 points de vie et le [[DD]] pour la déchirer est de 5.

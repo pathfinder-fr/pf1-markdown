@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 8 po ; **Poids** 11 kg
+{s:cs}{s:UI}**Prix** 8 po ; **Poids** 11 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d’équipement]]</span>
----
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

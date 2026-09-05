@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 1 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Qu’elles soient pliées, colorées ou abîmées, les cartes marquées permettent à un utilisateur averti de connaître la face de la carte en voyant la marque à son dos. Il faut réussir un test de [[Perception]] [[DD]] 25 ou un test de [[Profession]] (joueur) DD 20 pour réaliser que les cartes sont marquées. Le prix est donné pour un jeu de cartes en papier.

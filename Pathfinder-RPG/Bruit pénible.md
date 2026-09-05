@@ -19,5 +19,5 @@ Categories:
 **Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage émet un puissant bruit qui fait vibrer la chair des vivants. Les cibles doivent faire un
+Le personnage émet un puissant bruit qui fait vibrer la chair des vivants. Les cibles doivent faire un 
 [[jet de sauvegarde]] ou devenir [[États préjudiciables|fiévreuses]]. Les créatures immunisées contre les coups critiques le sont aussi contre ce sort.

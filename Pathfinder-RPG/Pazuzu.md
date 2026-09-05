@@ -98,7 +98,7 @@ qui ne dissipe pas les effets de protection contre le Mal. Ce pouvoir
 est l’équivalent d’un sort de niveau 9.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Ce fiélon à tête d’aigle possède une queue de scorpion et quatre immenses ailes plumeuses. Il brandit un sceptre de métal noir.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Ce fiélon à tête d’aigle possède une queue de scorpion et quatre immenses ailes plumeuses. Il brandit un sceptre de métal noir.*  
 
 Pazuzu est l’un des [[Seigneurs démons]] les plus vieux et les plus puissants. Son royaume se situe dans l’une des plus grandes failles du plan des Abysses. C’est un monde vertical qui abrite une grande cité au coeur de laquelle se niche Shibaxet, le nichoir et le palais personnel de Pazuzu.
 
@@ -118,7 +118,7 @@ toutes les créatures volantes maléfiques, tout particulièrement
 les vrocks et les harpies. Son souffle exhale une nuée de sauterelles
 et on raconte qu’à l’aube de la civilisation, sa première
 expiration sur le Plan matériel a engendré le démon qui, par
-la suite, est devenu Deskari.
+la suite, est devenu Deskari.   
 Pazuzu est l’un des princes démons les plus anciens et l’un
 des premiers à avoir atteint un statut de dirigeant dans les Abysses,
 en même temps que Lamashtu, Abraxas et Dagon il y a fort
@@ -126,7 +126,7 @@ longtemps. Le conflit ancien qui l’oppose à Lamashtu l’a néanmoins
 empêché d’acquérir davantage de pouvoir et de devenir
 éventuellement un dieu ; cette situation ne fait que renforcer sa
 détermination dans l’interminable guerre qu’il mène contre la
-Mère des monstres.
+Mère des monstres.   
 Son royaume, la Haute M’Vanie, s’étend sur la paroi de l’une
 des grandes Failles abyssales. Ce royaume vertical englobe une
 immense cité qui s’élève sur une vaste corniche, ainsi que les
@@ -139,7 +139,7 @@ de tours appelé Shibaxet, que seuls ses serviteurs les plus loyaux
 et ses proies les plus goûteuses ont l’occasion de contempler.
 
 ### Le culte de Pazuzu
-Pazuzu, le Roi des démons du vent, est vénéré par les harpies et autres créatures volantes maléfiques mais aussi par grand nombre d’antipaladins, des gens autrefois honorables qui se sont tournés vers le chaos et le mal… souvent sous l’influence de Pazuzu lui-même.
-Le démon a pour temples et sites sacrés des cathédrales à flanc de falaise, des ruines dans le désert et de hautes tours au sommet  des montagnes.
+Pazuzu, le Roi des démons du vent, est vénéré par les harpies et autres créatures volantes maléfiques mais aussi par grand nombre d’antipaladins, des gens autrefois honorables qui se sont tournés vers le chaos et le mal… souvent sous l’influence de Pazuzu lui-même.  
+Le démon a pour temples et sites sacrés des cathédrales à flanc de falaise, des ruines dans le désert et de hautes tours au sommet  des montagnes.  
 Il a pour symbole maudit une représentation de sa propre personne, la main droite levée, et pour arme de prédilection l’épée longue. Il donne accès aux domaines de l’Air, du Chaos, du Mal et de la Duperie et aux sous-domaines des Nuages, de la Supercherie, des Démons et du Vent.
 </div></td></tr></table>

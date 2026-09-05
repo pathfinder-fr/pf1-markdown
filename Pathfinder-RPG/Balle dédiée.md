@@ -13,14 +13,14 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Divination]] ; **Niveau** [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F/FD]] (un élément de la créature spécifique ou du type choisi)
-**Portée** contact
-**Cible** une munition ou une arme de jet
-**Durée** 10 minutes/[[niveau]] ou jusqu’à déchargement
+{s:UC}**École** [[Divination]] ; **Niveau** [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F/FD]] (un élément de la créature spécifique ou du type choisi)  
+**Portée** contact  
+**Cible** une munition ou une arme de jet  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à déchargement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])
----
+<hr />
 Le personnage augmente la précision de la cible contre un [[Types de créatures|type de créature]] (et un sous-type pour les [[type Extérieur|humanoïdes]] et les [[type Extérieur|extérieurs]]) ou contre une créature spécifique qu'il connaît et peut nommer. Lorsqu'elle est utilisée contre une créature désignée, la munition ne fait jamais [[long feu]], ignore le [[camouflage]] (mais pas le [[camouflage total]]), et si elle est tirée à 9 m (6 {s:c}) de distance ou moins, l’attaque vise la CA au [[contact]]. Le personnage doit vaincre la [[RM|résistance à la magie]] d'une créature désignée quand il la touche, sinon, le sort n’a aucun effet. Une attaque réussie contre une créature désignée avec la munition enchantée menace automatiquement un [[coup critique|critique potentiel]] et inflige 1 point de dégât supplémentaire par [[NLS|niveau de lanceur de sorts]] (20 au maximum). Ces dégâts supplémentaires ne sont pas multipliés grâce au coup critique automatique, mais le sont normalement si l'attaque menaçait déjà un coup critique sans l’effet de ce sort
 
 Le sort se décharge une fois que la munition a été tirée sur une créature désignée, que le tir ait touché ou non.
@@ -35,13 +35,13 @@ Augmentez le multiplicateur de critique de l’arme ciblée de 1 (×4 maximum).
 
 ((({s:sortssimilaires|balle dédiée}
 ## [[Balle dédiée supérieure]]
-{s:UC}**École** [[Divination]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6, [[Rôdeur|Rôd]] 4, [[Sorcière|Sor]] 6
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F/FD]] (un objet de la créature choisie ou de son type)
-**Portée** contact
-**Cible** une munition ou une arme de jet
-**Durée** 10 minutes/[[niveau]] ou jusqu’à déchargement
+{s:UC}**École** [[Divination]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6, [[Rôdeur|Rôd]] 4, [[Sorcière|Sor]] 6  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F/FD]] (un objet de la créature choisie ou de son type)  
+**Portée** contact  
+**Cible** une munition ou une arme de jet  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à déchargement  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])
----
+<hr />
 Ce sort fonctionne comme *[[balle dédiée]]* mais les dégâts supplémentaires s'élèvent à 2 points par [[NLS|niveau de lanceur de sorts]] (40 au maximum).
 )))

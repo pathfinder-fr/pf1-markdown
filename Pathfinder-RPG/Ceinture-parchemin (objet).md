@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 3 pa ; **Poids** —
+{s:cs}{s:UI}**Prix** 3 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cet accessoire est spécialement conçu pour qu'un unique sort soit inscrit à l'intérieur de sa surface, à l'abri des regards indiscrets. Les infiltrés et les espions utilisent souvent les ceintures-parchemins pour profiter d’échappatoires magiques supplémentaires lorsque le reste de leur équipement est réquisitionné après une capture. La ceinture est réutilisable, bien que les coûts et le temps normaux nécessaires pour y inscrire un sort s'appliquent pour chaque nouveau sort. Le personnage doit retirer la ceinture et la tenir dans une main libre afin d'utiliser le parchemin.

@@ -8,7 +8,7 @@ LastModified: 2019-01-29 22:31
 
 **(Source: Heroes of the street)**
 
-*Vous connaissez des personnes et des choses interagissant avec le monde souterrain, qu'il s'agisse de relations au sein de la pègre ou d'amis qui résident à la surface.*
+*Vous connaissez des personnes et des choses interagissant avec le monde souterrain, qu'il s'agisse de relations au sein de la pègre ou d'amis qui résident à la surface.* 
 
 **Avantage(s):** Vous gagnez +2 sur tous vos jets de [[Connaissances]] (exploration souterraine) et de [[Survie]] quand vous êtes en milieu urbain ou souterrain.
 

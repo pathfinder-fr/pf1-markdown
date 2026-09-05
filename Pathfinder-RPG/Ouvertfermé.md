@@ -10,12 +10,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[action rapide]]
-**Composantes** [[composantes|V, G, F]] (un clou de porte, une poignée ou un gond)
-**Portée** [[contact]]
-**Cibles** une porte, une fenêtre ou un portail similaire pas ne mesurant pas plus de 3 m sur 3 m
-**Durée** 1 round/niveau (T)
+{s:cs}{s:UI}**École**  [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[action rapide]]  
+**Composantes** [[composantes|V, G, F]] (un clou de porte, une poignée ou un gond)  
+**Portée** [[contact]]  
+**Cibles** une porte, une fenêtre ou un portail similaire pas ne mesurant pas plus de 3 m sur 3 m  
+**Durée** 1 round/niveau (T)  
 **Jet de sauvegarde** Volonté, dévoile ; **Résistance à la magie** non
 
 Le personnage altère l'apparence d'une porte et dissimule le fait qu'elle soit ouverte ou fermée. Il peut faire en sorte que la porte touchée semble être fermée, qu'elle le soit ou non réellement, ou qu'elle semble ouverte, qu'elle le soit ou non réellement. Après avoir lancé le sort, il peut changer d'option par une [[action de mouvement]]. Les créatures qui utilisent une action de mouvement pour ouvrir ou fermer la porte peuvent tenter un jet de [[Volonté]] pour dévoiler l'illusion.

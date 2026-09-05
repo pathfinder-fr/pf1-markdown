@@ -25,7 +25,7 @@ Au niveau 2, le bretteur rondolero peut porter un coup de bouclier en utilisant 
 Au niveau 6, lors d'une [[attaque à outrance]], un bretteur rondolero utilisant une falcata et une targe peut alterner les coups de falcata et de targe à chaque attaque. Cela ne lui accorde pas d'attaques supplémentaires mais ne lui impose aucun malus comme le ferait le combat à deux armes et cela ne lui fait pas perdre le bonus à la CA que son bouclier lui apporte.
 
 #### Charmante vie
-Un bretteur rondolero n'obtient l'aptitude [[bretteur#CHARMANTEVIE|charmante vie]] qu'au niveau 10. Il ne peut l'utiliser qu'une fois par jour.
+Un bretteur rondolero n'obtient l'aptitude [[bretteur#CHARMANTEVIE|charmante vie]] qu'au niveau 10. Il ne peut l'utiliser qu'une fois par jour. 
 
 Aux niveaux 14 et 18, il peut l'utiliser une fois de plus par jour.
 

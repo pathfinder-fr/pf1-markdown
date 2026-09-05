@@ -4,8 +4,8 @@ Title: ConVergence FR 2024
 LastModified: 2025-09-14 11:34
 ---
 
----
-Du Vendredi 15 au samedi 17, la région Francia et la communauté Pathfinder-FR vous invitent à **ConVergence FR**, un grand rassemblement de joueurs et maîtres de jeu du monde francophone, qui sera organisé en ligne. Convention de jeu organisé (SFS et PFS), ce sera l'occasion de jouer à **Pathfinder 2** et **Starfinder** tout le week-end, de se plonger dans ces mondes incroyablement riches élaborés par de talentueux écrivains.
+<hr />
+Du Vendredi 15 au samedi 17, la région Francia et la communauté Pathfinder-FR vous invitent à **ConVergence FR**, un grand rassemblement de joueurs et maîtres de jeu du monde francophone, qui sera organisé en ligne. Convention de jeu organisé (SFS et PFS), ce sera l'occasion de jouer à **Pathfinder 2** et **Starfinder** tout le week-end, de se plonger dans ces mondes incroyablement riches élaborés par de talentueux écrivains. 
 <div style="display: flex; justify-content: space-around; align-items: center">
 <img src="/Wiki/public/Upload/Logos/LogoPFS.webp" style="width: 32%"/>
 <img src="/Wiki/public/Upload/Logos/LogoSFS.webp" style="width: 32%"/>
@@ -157,7 +157,7 @@ La suite et fin de cette trame, ne sera pas sortie pour la convention et nous la
 ##### Un Spécial Royal
 {s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0499E.jpg|25%|fright}
   
-Sollicités par la Reine de Kyonin elle-même, la Société des Éclaireurs doit enquêter sur un noble elfe obsédé par les démons et sur ses plans inquiétants pour une ville isolée dans les forêts de Kyonin. En échange, la société obtiendra l'autorisation d'opérer à nouveau au sein de la nation.
+Sollicités par la Reine de Kyonin elle-même, la Société des Éclaireurs doit enquêter sur un noble elfe obsédé par les démons et sur ses plans inquiétants pour une ville isolée dans les forêts de Kyonin. En échange, la société obtiendra l'autorisation d'opérer à nouveau au sein de la nation. 
   
 
 La Société des Éclaireurs décide d'y envoyer plusieurs groupes car le voyage est périlleux. Une fois les éclaireurs arrivés, la ville est assiégée par une puissance qui dépasse tous les elfes, quels que soient leurs plans et leur ambition. Les équipes d'éclaireurs doivent travailler ensemble efficacement et rapidement pour empêcher la corruption de la forêt et de la ville !

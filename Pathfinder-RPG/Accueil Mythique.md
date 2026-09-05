@@ -118,7 +118,7 @@ LastModified: 2018-08-29 09:02
 <li>[[Ninja|Le ninja]] *([[astuces|astuces de ninja]])*</li>
 <li>[[Oracle|L'oracle]] *([[mystères]], [[malédictions doracle|malédictions]])*</li>
 <li>[[Pistolier|Le pistolier]] *([[exploits|exploits de pistolier]])*</li>
-<li>[[Samouraï|Le samouraï]] *([[ordres|ordres pour samouraï]])*</li>
+<li>[[Samouraï|Le samouraï]] *([[ordres|ordres pour samouraï]])*</li> 
 <li>[[Sorcière|La sorcière]] *([[maléfices]], [[protecteurs]])*</li>
 </ul>
 </li>
@@ -435,7 +435,7 @@ LastModified: 2018-08-29 09:02
 <li>[[Descriptions individuelles des engins de siège]]</li>
 <li>[[Munitions spéciales des engins de siège]]</li>
 <li>[[Solidité et points de vie des structures]]</li>
-</ul>
+</ul>  
 </ul>
 ### Les objets magiques
 <ul>

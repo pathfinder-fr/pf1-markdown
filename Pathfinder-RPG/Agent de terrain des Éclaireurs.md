@@ -54,25 +54,25 @@ Pour devenir un Agent de terrain Explorateur, le personnage doit remplir les con
 
 **Dons.** [[Talent]] (au choix).
 
-**Compétences.** 5 rangs en Connaissances (au choix), 1 rang en Linguistique, 1 rang en Perception.
+**Compétences.** 5 rangs en Connaissances (au choix), 1 rang en Linguistique, 1 rang en Perception. 
 
 **Spécial.** Doit être un membre actif des Explorateurs et posséder un *[[guide magique]]*.
 
 
 ### compétences de classe
-Voici les compétences de classe de l’Agent de terrain Explorateur sont les suivantes : [[Bluff]] (Cha), [[Connaissances]] (toutes) (Int), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escalade]] (For), [[Évasion]] (Dex), [[Linguistique]] (Int), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag), [[Sabotage]] (Dex), [[UOM|Utilisation d’objets magiques]] (Cha).
+Voici les compétences de classe de l’Agent de terrain Explorateur sont les suivantes : [[Bluff]] (Cha), [[Connaissances]] (toutes) (Int), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escalade]] (For), [[Évasion]] (Dex), [[Linguistique]] (Int), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag), [[Sabotage]] (Dex), [[UOM|Utilisation d’objets magiques]] (Cha). 
 
-**Nombre de rangs par niveau.** 6 + modificateur d’[[Intelligence]].
+**Nombre de rangs par niveau.** 6 + modificateur d’[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe de prestige de l’agent de terrain des Explorateurs.
+Voici les caractéristiques de la classe de prestige de l’agent de terrain des Explorateurs. 
 
 #### Maniement des armes et port des armures
-L’agent de terrain n’apprend pas à manier une arme supplémentaire ni à porter une armure de plus.
+L’agent de terrain n’apprend pas à manier une arme supplémentaire ni à porter une armure de plus. 
 
 {s:Reference|AMÉLIORATIONDEGUIDE}
 #### Amélioration de guide
-Au niveau 1 et, par la suite, tous les trois niveaux, l’agent de terrain Explorateur peut ajouter une propriété à son *[[guide magique]]*. Ces propriétés s’ajoutent à un guide ordinaire, pas à une variante ni à un guide modifié (ceci dit, l’Explorateur peut avoir plusieurs guides à la fois s’il le désire). Si l’agent perd son guide amélioré, il peut en acheter un nouveau au prix normal plus 100 po par niveau d’agent de terrain Explorateur, conservant ainsi toutes les améliorations apportées. L’agent choisit son amélioration dans la liste suivante. Les améliorations qui apportent un effet de sort supplémentaire utilisent le [[NLS]] du guide ou celui de l’agent de terrain Explorateur (le plus élevé) pour déterminer les effets basés sur le niveau de lanceur de sorts.
+Au niveau 1 et, par la suite, tous les trois niveaux, l’agent de terrain Explorateur peut ajouter une propriété à son *[[guide magique]]*. Ces propriétés s’ajoutent à un guide ordinaire, pas à une variante ni à un guide modifié (ceci dit, l’Explorateur peut avoir plusieurs guides à la fois s’il le désire). Si l’agent perd son guide amélioré, il peut en acheter un nouveau au prix normal plus 100 po par niveau d’agent de terrain Explorateur, conservant ainsi toutes les améliorations apportées. L’agent choisit son amélioration dans la liste suivante. Les améliorations qui apportent un effet de sort supplémentaire utilisent le [[NLS]] du guide ou celui de l’agent de terrain Explorateur (le plus élevé) pour déterminer les effets basés sur le niveau de lanceur de sorts. 
 - **Lumières dansantes.** Au lieu de lancer *[[lumière]]* à volonté, le guide lance *[[lumières dansantes]]*. 
 - **Lumière du jour.** Une fois par jour, l’agent de terrain Explorateur peut utiliser son guide pour lancer *[[lumière du jour]]*. Il peut choisir cette amélioration à plusieurs reprises. Il a droit à une utilisation quotidienne de plus par amélioration de *lumière du jour* supplémentaire.
 - **Flasque.** Il y a un compartiment secret dans l’ossature du guide, ce qui permet d’y cacher une potion, une huile ou une dose de poison. L’agent peut récupérer la substance par une [[action rapide]] qui ne provoque pas d’[[AO|attaque d’opportunité]], contrairement à l’[[action de mouvement]] normalement nécessaire pour récupérer un objet rangé. Pour boire la potion ou appliquer l’huile ou le poison, il faut tout de même une [[action simple]], ce qui provoque des attaques d’opportunité. L’agent de terrain Explorateur gagne un bonus de +2 aux tests d’[[Escamotage]] opposés aux tests de [[Perception]] pour éviter que quelqu’un qui l’observe ou qui le fouille ne remarque le compartiment caché.
@@ -84,7 +84,7 @@ Au niveau 1 et, par la suite, tous les trois niveaux, l’agent de terrain Expl
 
 {s:Reference|FORMATIONDEXPLORATEUR}
 #### Formation d’Explorateur
-L’agent de terrain Explorateur suit une formation qui l’aide à accomplir ses trois devoirs : explorer, rendre compte, coopérer. Il ne peut pas suivre deux fois la même formation, à moins d’une indication contraire. L’agent de terrain Explorateur suit une formation supplémentaire au niveau 3 puis, par la suite, tous les trois niveaux.
+L’agent de terrain Explorateur suit une formation qui l’aide à accomplir ses trois devoirs : explorer, rendre compte, coopérer. Il ne peut pas suivre deux fois la même formation, à moins d’une indication contraire. L’agent de terrain Explorateur suit une formation supplémentaire au niveau 3 puis, par la suite, tous les trois niveaux. 
 - **Attaque sournoise +1d6 (Ext).** Ce pouvoir fonctionne comme la capacité de [[roublard]] du même nom. Si l’agent de terrain dispose déjà d’une [[attaque sournoise]], les bonus aux dégâts se cumulent. L’agent de terrain Explorateur doit être au moins de niveau 3 avant de pouvoir choisir cette formation. 
 - **Connaissance de l’ennemi (Ext).** L’agent de terrain Explorateur choisit un type de créature et gagne un bonus de +5 aux tests de [[Connaissances]] pour identifier les créatures du type choisi. Il peut choisir cette formation à plusieurs reprises tant qu’il l’applique à chaque fois à un type de créatures différent. 
 - **Défenseur habile (Ext).** Quand l’agent de terrain arrive à utiliser l’action [[aider qqn|aider quelqu’un]] pour augmenter la [[CA]] d’un allié, il gagne un bonus d’esquive de +1 à sa propre CA jusqu’au début de son prochain tour. 

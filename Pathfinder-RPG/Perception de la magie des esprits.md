@@ -7,8 +7,8 @@ LastModified: 2020-06-09 17:59
 {s:MCA}**École** [[Divination]]; **Niveau** [[chaman|Cham]] 1  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  
-**Portée** personnelle,
-**Cible** le lanceur de sort
+**Portée** personnelle,  
+**Cible** le lanceur de sort  
 **Durée** 24 heures  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

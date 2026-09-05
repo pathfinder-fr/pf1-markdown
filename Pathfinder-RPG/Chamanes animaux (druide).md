@@ -19,7 +19,7 @@ Categories:
 ### Règles communes de fonctionnement des aptitudes du chaman animal
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#22|→]] Druide, Chamanes animaux : À quel niveau de classe ces archétypes obtiennent-ils forme animale ?***
 
-Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druide n'obtiennent pas la capacité [[Druide#FORMEANIMALE|forme animale]] avant le niveau de classe 6.
+Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druide n'obtiennent pas la capacité [[Druide#FORMEANIMALE|forme animale]] avant le niveau de classe 6.  
 (Les autres archétypes de druide de cet ouvrage utilisent une formulation plus claire pour expliquer que le personnage n'obtient pas la capacité avant le niveau 6, et les chamans animaux devraient également utiliser cette formulation. De plus, les descriptions pour la capacité de classe forme animale modifiée devraient inclurent « Cette capacité remplace forme animale. ».)}**Pacte avec la nature (Ext).** Le chaman animal doit choisir entre un [[compagnons animaux|compagnon animal]] ou un domaine en lien avec l'animal totem qu'il a choisi.
 
 **Empathie sauvage (Ext).** Par une action complexe, le chaman animal peut utiliser la capacité [[druide#EMPATHIESAUVAGE|empathie sauvage]] sur des animaux en lien avec l'animal totem qu'il a choisi avec un bonus de +4.
@@ -28,7 +28,7 @@ Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druid
 
 Au niveau 2, l’activation de ce pouvoir nécessite une [[action simple]], au niveau 7 une [[action de mouvement]] et au niveau 12 une [[action rapide]]. Chaque jour, le chaman peut utiliser ce pouvoir pendant un nombre de minutes égal à son niveau de [[druide]]. Cette durée n’est pas forcément continue mais doit se découper en segments d’une minute. C’est un effet de métamorphose que le druide ne peut pas utiliser quand il est affecté par un autre effet de même type comme [[druide#FORMEANIMALE|forme animale]].  
 
-**Convocation totémique.** Au [[niveau]] 5, un chaman animal peut lancer [[convocation dalliés naturels I|convocation d’alliés naturels]] par une [[action simple]] lorsqu’il convoque des animaux d'une espèce liée à son animal totem qui varie pour chaque chaman animal. Ces [[type animal|animaux]] reçoivent un nombre de [[pv|points de vie]] temporaires égal à son [[niveau]] de [[druide]].
+**Convocation totémique.** Au [[niveau]] 5, un chaman animal peut lancer [[convocation dalliés naturels I|convocation d’alliés naturels]] par une [[action simple]] lorsqu’il convoque des animaux d'une espèce liée à son animal totem qui varie pour chaque chaman animal. Ces [[type animal|animaux]] reçoivent un nombre de [[pv|points de vie]] temporaires égal à son [[niveau]] de [[druide]]. 
 
 Le chaman peut choisir d'appliquer l’[[Archétypes#CREATUREJEUNE|archétype jeune]] à n’importe quel animal convoqué afin de réduire de un le niveau du sort de convocation requis, augmenter le niveau du sort de convocation requis de un pour appliquer l’archétype [[Archétypes#CREATUREEVOLUEE|évolué]] ou [[Archétypes#CREATUREGEANTE|géant]], ou encore augmenter le niveau du sort de convocation requis de deux pour appliquer ces deux archétypes simultanément. Cette capacité remplace [[druide#MILLEVISAGES|mille visages]].
 
@@ -40,17 +40,17 @@ Le chaman peut choisir d'appliquer l’[[Archétypes#CREATUREJEUNE|archétype je
 #### Chaman Aigle
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#21|→]] Druide, Chaman aigle : Comment puis-je prendre la forme d'un roc si un roc est de taille Gigantesque et que la taille maximum atteignable avec forme animale est Très grand ?***
 
-Le manque de profils techniques pour les grands oiseaux dans les produits officiels Paizo limite les options disponibles pour cet archétype.
-Pour remédier à ce problème, un <u>[[Chamanes animaux (druide)#CHAMANAIGLE|chaman aigle]]</u> peut utiliser [[Druide#FORMEANIMALE|forme animale]] pour prendre la forme d'un [[aigle]] de taille M (en appliquant l'archétype de [[Archétypes#CREATUREGEANTE|créature géante]] à un aigle de taille P), et pour prendre la forme d'un [[roc]] de taille TG (en appliquant l'archétype de [[Archétypes#CREATUREJEUNE|créature jeune]] à un roc de taille Gig). Les capacités de la forme choisie sont déterminées par le sort de *forme bestiale* émulé par la forme animale, selon le niveau de druide effectif du chaman aigle.
+Le manque de profils techniques pour les grands oiseaux dans les produits officiels Paizo limite les options disponibles pour cet archétype.  
+Pour remédier à ce problème, un <u>[[Chamanes animaux (druide)#CHAMANAIGLE|chaman aigle]]</u> peut utiliser [[Druide#FORMEANIMALE|forme animale]] pour prendre la forme d'un [[aigle]] de taille M (en appliquant l'archétype de [[Archétypes#CREATUREGEANTE|créature géante]] à un aigle de taille P), et pour prendre la forme d'un [[roc]] de taille TG (en appliquant l'archétype de [[Archétypes#CREATUREJEUNE|créature jeune]] à un roc de taille Gig). Les capacités de la forme choisie sont déterminées par le sort de *forme bestiale* émulé par la forme animale, selon le niveau de druide effectif du chaman aigle.  
 Cette règle ne s'applique qu'aux chamans aigles, et pas aux autres archétypes de chaman animal.}*Le chaman en appelle au noble aigle, fier et sévère, dont le cri s’élève haut au-dessus du monde et dont le regard acéré et impitoyable voit tout.*
 
-**Pacte avec la nature (Ext).**
+**Pacte avec la nature (Ext).** 
 - Compagnon animal : [[Liste des compagnons animaux#Oiseau(aiglefauconhibou)|aigle]].
 - Domaine : [[domaine de lAir|Air]], [[domaine de la Faune|Faune]], [[domaine de la Noblesse|Noblesse]] ou [[domaine du Climat|Climat]].
 
 **Empathie sauvage (Ext).** Avec les oiseaux.
 
-**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman aigle peut prendre un aspect de l’animal tout en conservant sa forme humaine. Le chaman aigle doit choisir l’un des ensembles de bonus suivants :
+**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman aigle peut prendre un aspect de l’animal tout en conservant sa forme humaine. Le chaman aigle doit choisir l’un des ensembles de bonus suivants : 
 - déplacement ([[vol]] 9 mètres (6 {s:c}) (moyen), le [[druide]] doit avoir atteint le [[niveau]] 5 pour choisir ce pouvoir),
 - sens ([[vision nocturne]], bonus racial de +4 sur les [[test|tests]] de [[Perception]])
 - ou armes naturelles (morsure 1d4, 2 serres 1d4 pour un chaman de [[taille]] M).
@@ -73,7 +73,7 @@ Lorsqu’il utilise la métamorphose totémique, il peut parler normalement et l
 
 **Empathie sauvage (Ext).** Avec les chauves-souris.
 
-**Métamorphose totémique (Sur).** Au [[niveau]] 2, le chaman chauve-souris peut adopter l’aspect d’une chauve-souris tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants :
+**Métamorphose totémique (Sur).** Au [[niveau]] 2, le chaman chauve-souris peut adopter l’aspect d’une chauve-souris tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants : 
 - armes naturelles (morsure 1d4 pour un chaman de [[taille]] M),
 - déplacement ([[vol]] 9 mètres (6 {s:c}) moyenne ; le [[druide]] doit être au moins de niveau 5 pour choisir ce pouvoir),
 - ou sens ([[vision aveugle]] 6 mètres (4 {s:c})). 
@@ -96,7 +96,7 @@ Quand le druide utilise la transformation totémique, il peut tout de même parl
 
 **Empathie sauvage (Ext).** Avec les lézards.
 
-**Métamorphose totémique (Sur).** Au niveau 2, le chaman peut adopter un aspect du dragon tout en conservant sa forme naturelle. Il gagne l’un des bonus suivants :
+**Métamorphose totémique (Sur).** Au niveau 2, le chaman peut adopter un aspect du dragon tout en conservant sa forme naturelle. Il gagne l’un des bonus suivants : 
 - armes naturelles (2 griffes (1d4) et morsure (1d6) pour une créature de [[taille]] M, bonus de +2 au [[BMO]] sur les tests de [[lutte]]),
 - déplacement (vol 9 m (6 {s:c}) (moyenne), le druide doit être au moins de niveau 5), 
 - robustesse (+2 armure naturelle à la [[CA]], [[Endurance]])
@@ -122,7 +122,7 @@ Quand le chaman utilise la métamorphose totémique, il peut parler normalement 
 
 **Empathie sauvage (Ext).** Avec les félins.
 
-**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman lion peut prendre un aspect de l’[[type animal|animal]] tout en conservant sa forme humaine. Il doit choisir l’un des ensemble de bonus suivants :
+**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman lion peut prendre un aspect de l’[[type animal|animal]] tout en conservant sa forme humaine. Il doit choisir l’un des ensemble de bonus suivants : 
 - déplacement (bonus d’altération de +6 mètres (4 {s:c}) à sa [[VD|vitesse de déplacement]]),
 - sens ([[vision nocturne]], [[odorat]])
 - ou armes naturelles(morsure 1d4, 2 griffes 1d4 pour un chaman de [[taille]] M, pattes arrière, [[DMD]] +2 sur les [[test|tests]] de [[lutte]]).
@@ -162,13 +162,13 @@ Lorsqu’il utilise la métamorphose totémique, il peut parler normalement et l
 #### Chaman Primate
 *Un chaman qui adopte ce totem puise sa force dans celle des primates, de puissants singes pacifiques dotés d’une force inégalée. Le chaman primate est un protecteur de la forêt, amical et pourtant capable de broyer les ennemis qui ont provoqué sa colère.*
 
-**Pacte avec la nature.**
+**Pacte avec la nature.** 
 - Compagnon animal : [[Liste des compagnons animaux#Gorille|gorille]] ou primate apparenté.
 - Domaine : [[Domaine de la Communauté|Communauté]] (sous-domaine de la Famille), [[Domaine de la Destruction|Destruction]] (sous-domaine de la Rage), [[Faune]] ou [[Force]].
 
 **Empathie sauvage (Ext).** Par une [[action complexe]],  le chaman primate peut utiliser l’[[druide#EMPATHIESAUVAGE|empathie sauvage]] avec les gorilles et autres primates avec un bonus de +4.
 
-**Métamorphose totémique (Sur).** Au niveau 2, le chaman primate peut adopter l’aspect d’un primate tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants :
+**Métamorphose totémique (Sur).** Au niveau 2, le chaman primate peut adopter l’aspect d’un primate tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants : 
 - armes naturelles (2 coups 1d6 pour un chaman de [[taille]] M, +2 aux tests de [[manoeuvre offensive]] pour une [[lutte]]),
 - déplacement (escalade 6 mètres (4 {s:c}), bonus racial de +4 aux tests d’[[Escalade]]),
 - robustesse (bonus d’armure naturelle de +2 à a CA, [[Endurance]]),
@@ -188,13 +188,13 @@ Quand le druide utilise la métamorphose totémique, il peut tout de même parle
 #### Chaman Ours
 *Le chaman en appelle au puissant ours, le titan des forêts et des montagnes, le parangon de la force et de la férocité mais aussi le protecteur sage et tranquille.*
 
-**Pacte avec la nature (Ext).**
+**Pacte avec la nature (Ext).** 
 - Compagnon animal : [[Liste des compagnons animaux#OURS|ours]].
 - Domaine : [[domaine de la Faune|Faune]], [[domaine de la Force|Force]], [[domaine de la Protection|Protection]] ou [[domaine de la Terre|Terre]].
 
 **Empathie sauvage (Ext).** Avec les ours et les [[glouton|gloutons]]
 
-**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman ours peut prendre un aspect de l’[[type animal|animal]] tout en conservant sa forme humaine. Il reçoit l’un des ensembles de bonus suivants :
+**Métamorphose totémique (Sur).** Au [[niveau]] 2, un chaman ours peut prendre un aspect de l’[[type animal|animal]] tout en conservant sa forme humaine. Il reçoit l’un des ensembles de bonus suivants : 
 - mouvement (bonus d’altération de +3 m (2 {s:c}) à sa [[VD|vitesse de déplacement]], bonus racial de +4 sur ses [[test|tests]] de [[Natation]]),
 - sens ([[vision nocturne]], [[odorat]]),
 - robustesse (bonus d’armure naturelle de +2 à sa [[CA]], don [[Endurance]])
@@ -212,7 +212,7 @@ Lorsqu’il utilise la métamorphose totémique, il peut parler normalement et l
 #### Chaman Requin
 *Certains druides prennent modèle sur le dangereux requin, ce chasseur sans remords craint de tous les habitants des mers. Comme lui, le druide laisse sang et terreur dans son sillage.*
 
-**Pacte avec la nature.**
+**Pacte avec la nature.** 
 - Compagnon animal : requin.
 - Domaine : [[Domaine de lEau|Eau]], la [[Domaine de la Faune|Faune]], la [[Domaine de la Guerre|Guerre]] ou [[Domaine de la Mort|Mort]].
 
@@ -242,7 +242,7 @@ Quand le chaman utilise la métamorphose totémique, il peut parler normalement 
 
 **Empathie sauvage (Ext).** Avec les sangliers
 
-**Métamorphose totémique (Sur).** Au [[niveau]] 2, le chaman sanglier peut adopter l’aspect d’un sanglier tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants :
+**Métamorphose totémique (Sur).** Au [[niveau]] 2, le chaman sanglier peut adopter l’aspect d’un sanglier tout en gardant sa forme habituelle. Il gagne l’un des ensembles de bonus suivants : 
 - armes naturelles (défenses 1d8 pour un chaman de [[taille]] M),
 - déplacement (bonus d’altération de +3 m à la vitesse de base),
 - robustesse (bonus d’armure naturelle de +2 à la [[CA]], [[Endurance]])
@@ -260,14 +260,14 @@ Quand le druide utilise la métamorphose totémique, il peut tout de même parle
 #### Chaman Saurien
 *Un chaman avec cette spécialité se concentre sur les dinosaures primitifs, les horreurs archaïques qui s’attardent aux frontières de l’écosystème, comme autant d’étrangers ataviques et affamés, des destructeurs craints de tous les autres animaux.*
 
-**Pacte avec la nature.**
+**Pacte avec la nature.** 
 - Compagnon animal : [[Liste des compagnons animaux#Dinosaure(ankylosaure)|Dinosaure]]
 - Domaine : [[Domaine de la Destruction|Destruction]], la [[Domaine de la Faune|Faune]], la [[Domaine de la Force|Force]] et la [[Domaine de la Guerre|Guerre]].
 
 **Empathie sauvage (Ext).** Avec les dinosaures et les reptiles.
 
 **Métamorphose totémique (Sur).**
-Au niveau 2, le chaman peut adopter un aspect des sauriens tout en conservant sa forme naturelle. Il doit choisir parmi les ensembles de bonus suivants :
+Au niveau 2, le chaman peut adopter un aspect des sauriens tout en conservant sa forme naturelle. Il doit choisir parmi les ensembles de bonus suivants : 
 - armes naturelles (2 griffes (1d4), morsure (1d6) pour une créature de taille M, [[pattes arrière (capacité)|pattes arrière]], +2 [[BMO]] pour la [[lutte]]), 
 - déplacement (bonus d’amélioration de +3 m (2 {s:c}) à la [[VD|vitesse de base]]),
 - écailles (bonus d’armure naturelle +2 à la [[CA]])
@@ -285,7 +285,7 @@ Quand le chaman utilise la métamorphose totémique, il peut parler normalement 
 #### Chaman Serpent
 *Le chaman en appelle au rusé serpent, au séducteur discret qui s’insinue dans les esprits faibles et frappe lorsqu’ils ne sont plus sur leurs gardes. Certains haïssent sa nature perfide alors que d’autres louent son pragmatisme réfléchi.*
 
-**Pacte avec la nature (Ext).**
+**Pacte avec la nature (Ext).** 
 - Compagnon animal : [[Liste des compagnons animaux#Serpentvipère|serpent]]
 - Domaine :  [[domaine du Charme|Charme]], [[domaine de la Duperie|Duperie]], [[domaine de lEau|Eau]] ou [[domaine de la Faune|Faune]].
 

@@ -53,7 +53,7 @@ de [[familiers|familier]] aux lanceurs de sort. Un
 familier compsognathus donne à son maître un bonus
 de +4 aux tests d’Initiative.
 
-Vous pouvez créer un profil pour un compsognathus corallestris en appliquant l’archétype simple « géant » au compsognathus. Alors que les compsognathus classiques peuvent servir de familiers, les compsognathus corallestris plus massifs servent généralement de compagnons animaux.
+Vous pouvez créer un profil pour un compsognathus corallestris en appliquant l’archétype simple « géant » au compsognathus. Alors que les compsognathus classiques peuvent servir de familiers, les compsognathus corallestris plus massifs servent généralement de compagnons animaux. 
 
 #### Le compsognathus comme compagnon animal
 

@@ -11,11 +11,11 @@ Categories:
 {s:BDTitre|Bâton aux cent mains|}
 **Aura** [[Évocation]] puissante ; **NLS** 17 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 180 200 po ; **Poids** 2,5 kg
 (((Description)))
-Sculpté sous la forme de dizaines de mains avides et distordues, ce bâton est entièrement taillé dans une seule pièce de cristal clair. Lorsqu’on le tient, les mains qui le composent se distordent pour ressembler aux gants ou aux mains de la personne qui le tient. Il permet d’utiliser les sorts suivants.
-• *[[Main impérieuse]]* (1 charge)
-• *[[Main interposée]]* (1 charge)
-• *[[Poing serré]]* (2 charges)
-• *[[Poigne agrippeuse]]* (2 charges)
+Sculpté sous la forme de dizaines de mains avides et distordues, ce bâton est entièrement taillé dans une seule pièce de cristal clair. Lorsqu’on le tient, les mains qui le composent se distordent pour ressembler aux gants ou aux mains de la personne qui le tient. Il permet d’utiliser les sorts suivants.  
+• *[[Main impérieuse]]* (1 charge)  
+• *[[Main interposée]]* (1 charge)  
+• *[[Poing serré]]* (2 charges)  
+• *[[Poigne agrippeuse]]* (2 charges)  
 • *[[Main broyeuse]]* (3 charges)
 
 Ce bâton permet également au porteur d’utiliser *[[manipulation à distance]]* à volonté.

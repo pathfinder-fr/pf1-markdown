@@ -74,8 +74,8 @@ Page 25 – Dans l’archétype <u>[[Chimiste enragé (alchimiste)|chimiste enra
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|2}
 #### --Barbare, Guerrier totem : Cet archétype du MRA permet-il de prendre plus d’un type de pouvoirs de rage totémiques ?
-Non, <u>[[Guerrier totem (barbare)|la ligne]]</u> de l’*Art de la guerre* est une erreur ; un barbare ne peut pas choisir plus d’un type de pouvoirs de rage totémiques.
-Cette erreur sera corrigée dans la prochaine impression de l’*Art de la guerre*.
+Non, <u>[[Guerrier totem (barbare)|la ligne]]</u> de l’*Art de la guerre* est une erreur ; un barbare ne peut pas choisir plus d’un type de pouvoirs de rage totémiques.  
+Cette erreur sera corrigée dans la prochaine impression de l’*Art de la guerre*.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -98,8 +98,8 @@ Mise à jour : Page 48, dans la première colonne, dans la section Inquisitions,
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|6}
 #### --Moine, Artiste martial : Comment puis-je utiliser pas chassé si cet archétype remplace ma réserve de ki ?
-L’<u>[[Artiste martial (moine)|archétype]]</u> devrait remplacer toutes les capacités basées sur le ki, mais pas chassé a été laissé par accident.
-L’archétype devrait aussi remplacer pas chassé avec un don supplémentaire de moine.
+L’<u>[[Artiste martial (moine)|archétype]]</u> devrait remplacer toutes les capacités basées sur le ki, mais pas chassé a été laissé par accident.  
+L’archétype devrait aussi remplacer pas chassé avec un don supplémentaire de moine.  
 Ce sera modifié dans la prochaine impression de l’Art de la guerre.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -110,10 +110,10 @@ L’arme de prédilection fait en effet référence à l’unique arme de guerre
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### Magus, Myrmidarque : Mes entraînements aux armes et entraînements aux armures se cumulent-ils si je me multiclasse en guerrier ?
-Oui.
-Entraînement aux armures a besoin de plus d’explications quant à son cumul :
-L’[[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1]] du [[guerrier]] (obtenu au niveau 3) offre aussi au guerrier la capacité de se déplacer à vitesse normale en portant une armure intermédiaire. Un <u>[[Myrmidarque (magus)|myrmidarque]]</u> obtient l’entraînement aux armures 1 au niveau 8, et peut aussi ignorer la réduction de vitesse des armures intermédiaires.
-L’entraînement aux armures 2 du guerrier (obtenu au niveau 7) offre aussi au guerrier la capacité de se déplacer à vitesse normale en portant une armure lourde. Un myrmidarque obtient l’entraînement aux armures 2 au niveau 14, et peut aussi ignorer la réduction de vitesse des armures lourdes.
+Oui.  
+Entraînement aux armures a besoin de plus d’explications quant à son cumul :  
+L’[[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1]] du [[guerrier]] (obtenu au niveau 3) offre aussi au guerrier la capacité de se déplacer à vitesse normale en portant une armure intermédiaire. Un <u>[[Myrmidarque (magus)|myrmidarque]]</u> obtient l’entraînement aux armures 1 au niveau 8, et peut aussi ignorer la réduction de vitesse des armures intermédiaires.  
+L’entraînement aux armures 2 du guerrier (obtenu au niveau 7) offre aussi au guerrier la capacité de se déplacer à vitesse normale en portant une armure lourde. Un myrmidarque obtient l’entraînement aux armures 2 au niveau 14, et peut aussi ignorer la réduction de vitesse des armures lourdes.  
 Un personnage multiclassé avec l’entraînement aux armures 1 du guerrier (niveau 3) et l’entraînement aux armures 1 du myrmidarque (niveau 8) obtient la capacité d’ignorer la réduction de vitesse des armures lourdes (comme c’est l’équivalent d’un entraînement aux armures 2, qui offre cette capacité).
 
 <div style="border-top:1px dashed #4b3124">
@@ -131,7 +131,7 @@ Mise à jour Page 59, changez « niveau 2 Crushing Embrace » en « niveau 2 É
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|11}
 #### Rôdeur, Traqueur sauvage : Comment puis-je avoir la capacité pouvoirs de rage et la capacité talent du sauvage s’ils remplacent tout deux ennemi juré ?
-La capacité pouvoirs de rage et la capacité talent du sauvage devraient être considérées comme une seule et même capacité offerte par l’archétype et remplaçant les 2e, 3e, 4e et 5e ennemis jurés. Aux niveaux de rôdeur 5, 10, 15, et 20, le personnage peut choisir soit un pouvoir de rage soit le bonus à une compétence décrit dans la capacité talent du sauvage. *(Retour à l’<u>[[Traqueur sauvage (rôdeur)|archétype]]</u>)*
+La capacité pouvoirs de rage et la capacité talent du sauvage devraient être considérées comme une seule et même capacité offerte par l’archétype et remplaçant les 2e, 3e, 4e et 5e ennemis jurés. Aux niveaux de rôdeur 5, 10, 15, et 20, le personnage peut choisir soit un pouvoir de rage soit le bonus à une compétence décrit dans la capacité talent du sauvage. *(Retour à l’<u>[[Traqueur sauvage (rôdeur)|archétype]]</u>)*  
 Ce sera corrigé dans la prochaine impression de l’*Art de la guerre*.
 
 ### Réponses sur les dons
@@ -182,8 +182,8 @@ Oui. Tant que le personnage peut recharger son arme par une [[action libre]] il 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|19}
 #### Piétinement vicieux : Ce cela interagit avec Croc-en-jambe supérieur ? Le personnage a-t-il deux AOs ou seulement une ?
-{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Dons et compétences)|celle du Manuel des joueurs]].}Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.
-[[Croc-en-jambe supérieur]] offre une AO quand le personnage fait tomber un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe.
+{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Dons et compétences)|celle du Manuel des joueurs]].}Utiliser ces dons ensembles provoque deux [[AO|AOs]], parce les deux effets déclenchant une AO sont certes similaires, mais bien distincts.  
+[[Croc-en-jambe supérieur]] offre une AO quand le personnage fait tomber un adversaire. [[Piétinement vicieux]] lui offre une AO quand un adversaire tombe.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).
 
 ### Réponses sur la maîtrise du combat

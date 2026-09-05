@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
+{s:AE}**Prix** 1 po ; **Poids** 2 kg<sup>[[Équipement daventurier#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette sacoche est faite de peau animale ou de cuir traité. Elle est étanche et peut contenir environ 2 litres de liquide. Le poids est indiqué pour une outre pleine d'eau, de vin ou de bière, vide, elle pèse environ 1 kg.

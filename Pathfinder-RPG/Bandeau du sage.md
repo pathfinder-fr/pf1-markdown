@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Bandeau du sage|{s:AE}}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 71 300 po ; **Poids** 0,5 kg
 (((Caractéristiques)))
-**Alignement** variable ; **Sens** 9 m
-**Intelligence** 20 ; **Sagesse** 16 ; **Charisme** 12 ; **Ego** 20
+**Alignement** variable ; **Sens** 9 m  
+**Intelligence** 20 ; **Sagesse** 16 ; **Charisme** 12 ; **Ego** 20  
 **Langues** télépathie (commun et 10 autres langues)
 (((Description)))
 Ce [[bandeau dintelligence|bandeau d’intelligence +6]] est doué de conscience et partage son savoir et son éducation avec tout propriétaire convenable. Il peut avoir n’importe quel alignement et a pour seul dessein de partager ses connaissances avec son propriétaire. Il fonctionne aussi comme un [[casque de compréhension]]. De plus, au lieu de donner des rangs de compétences comme un [[bandeau dintelligence|bandeau d’intelligence +6]] ordinaire, il confère 4 rangs dans six compétences de [[Connaissances]]. Le bandeau déverse une grande quantité d’informations par ses murmures constants et il peut communiquer par télépathie en commun ou dans l’une des dix autres langues qu’il maîtrise. Une fois par semaine, son propriétaire peut lui demander de lancer *[[mythes et légendes]]* par une [[action simple]].

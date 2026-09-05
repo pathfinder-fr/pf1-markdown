@@ -7,7 +7,7 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**Prix** 190 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
+{s:cs}{s:UI}**Prix** 190 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Boire ce liquide clair et pétillant accorde 1d4 utilisations d'[[Outils alchimiques#INSPIRATION|inspiration alchimique]] qui ne peuvent être dépensées que sur les tests de [[Psychologie]]. Les avantages du sérum d'intuition durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests d'[[Bluff]] et conserver le pire résultat.

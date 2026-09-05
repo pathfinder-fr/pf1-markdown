@@ -20,5 +20,5 @@ Le Puissant|Le symbole de Trudd est un marteau de guerre devant un bouclier dor�
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

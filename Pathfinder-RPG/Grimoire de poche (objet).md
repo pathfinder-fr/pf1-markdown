@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}**Prix** 50 po ; **Poids** 0,5 kg
+{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}**Prix** 50 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Les magiciens elfiques ont parfois besoin de voyager avec des dizaines, voire des centaines de grimoires, ce qui les oblige souvent à chercher comment les alléger. Les grimoires de poche ne contiennent que 70 pages de sorts, mais ils pèsent bien moins lourd qu’un [[Grimoire (objet)|grimoire ordinaire]].

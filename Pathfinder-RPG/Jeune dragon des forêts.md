@@ -22,7 +22,7 @@ Categories:
 {s:BDTexte|**Corps à corps** corne, +16 (1d8+9) et coup de queue, +14 (1d8+9) et 2 griffes, +16 (1d8+6) et morsure, +17 (2d6+9)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec corne et morsure)}
 {s:BDTexte|**Attaques spéciales** souffle ([[cône]] de 12 m (8 {s:c}), 6d6 dégâts perforants, DD 19)}
-{s:BDTexte|**Pouvoirs magiques** (NLS 11 ; concentration +12)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 11 ; concentration +12)} 
 {s:BDSorts|À volonté — *[[passage sans trace]]*}
 {s:BDTexte|**Sorts connus** (NLS 1 ; concentration +2)}
 {s:BDSorts|1er (4/jour) — *[[bouclier]]*, *[[brume de dissimulation]]*}

@@ -52,7 +52,7 @@ s’agit d’une créature aussi grande qu’une baleine, capable d’attaquer
 par surprise depuis les profondeurs de la mer et de contrôler le
 climat et les vents sans lesquels les navires ne peuvent plus avancer. Il
 est doté d’une intelligence cruelle semblable à celle des criminels les
-plus créatifs et les plus malveillants du monde.
+plus créatifs et les plus malveillants du monde. 
 
 Certains pensent que les krakens sont une punition envoyée par les dieux, alors
 que d’autres les considèrent comme les véritables

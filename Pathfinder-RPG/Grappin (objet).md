@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po (standard), 2.001 po (en mithral) ; **Poids** 2 kg (standard), 1 kg (en mithral)
+{s:AE}**Prix** 1 po (standard), 2.001 po (en mithral) ; **Poids** 2 kg (standard), 1 kg (en mithral)  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Il faut faire un [[jet dattaque|jet d'attaque]] à distance pour lancer un grappin, en traitant le crochet comme une arme de jet ayant un [[facteur de portée]] de 3 mètres. Les objets avec une surface assez grande pour réceptionner le grappin ont une [[CA]] de 5.

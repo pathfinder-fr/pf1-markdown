@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Pièce de destinée aléatoire|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 6 000 po ; **Poids** —
 (((Description)))
-Quand un personnage lance cette pièce de cuivre terni, elle lui permet de développer le potentiel dont le cours de la vie l’a privé. Si un [[humain]], un [[demi-elfe]] ou un [[demi-orque]] lance la pièce en l’air puis la rattrape, il subit un malus de -2 à la valeur de caractéristique modifiée par un bonus racial de +2 lors de la création du personnage et gagne en contrepartie un bonus inné de +2 à une autre valeur de caractéristique déterminée aléatoirement. Le bonus et le malus durent 1 heure. L’annulation du malus annule également le bonus. La pièce peut être utilisée trois fois par jour.
+Quand un personnage lance cette pièce de cuivre terni, elle lui permet de développer le potentiel dont le cours de la vie l’a privé. Si un [[humain]], un [[demi-elfe]] ou un [[demi-orque]] lance la pièce en l’air puis la rattrape, il subit un malus de -2 à la valeur de caractéristique modifiée par un bonus racial de +2 lors de la création du personnage et gagne en contrepartie un bonus inné de +2 à une autre valeur de caractéristique déterminée aléatoirement. Le bonus et le malus durent 1 heure. L’annulation du malus annule également le bonus. La pièce peut être utilisée trois fois par jour. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Modification dapparence|modification d’apparence]]* ; **Coût** 3 000 po
 </div>

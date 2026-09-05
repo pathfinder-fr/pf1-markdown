@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa (standard), 1 po (orque), 2 po (elfique), 2 po (gnome), 2 po (halfeline), 2 po (naine) ; **Poids** 0,5 kg (standard), 0,5 kg (orque), 0,5 kg (elfique), 0,5 kg (gnome), 0,25 kg (halfeline), 0,75 kg (naine)<sup>[[Nourriture et boissons#1|1]]</sup>
+{s:AE}**Prix** 5 pa (standard), 1 po (orque), 2 po (elfique), 2 po (gnome), 2 po (halfeline), 2 po (naine) ; **Poids** 0,5 kg (standard), 0,5 kg (orque), 0,5 kg (elfique), 0,5 kg (gnome), 0,25 kg (halfeline), 0,75 kg (naine)<sup>[[Nourriture et boissons#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Le prix est indiqué pour une journée de vivres. Cette nourriture insipide se compose généralement d’aliments durs, de bœuf séché et de fruits secs mais le contenu varie d’une région à l’autre et en fonction de la race qui la prépare. Tant que la nourriture reste au sec, elle peut se conserver pendant des mois sans se gâter.  
   
 *Rations de survie elfique*. Les [[Elfe|elfes]] préfèrent le pain mou d’avoine mélangé avec d’autres graines, des baies et des noisettes et adouci de miel. Ils complètent ces rations avec des fruits secs et des fruits à coques. Si un elfe se nourrit uniquement de ces ration pendant au moins 1 semaine, il reçoit un bonus de +2 aux tests et aux [[jds|jets de sauvegarde]] bénéficiant du don [[Endurance]]. Cet avantage dure jusqu’à ce qu’il fasse un repas contenant en autre chose que ces rations ou qu’il passe une journée complète sans manger.  

@@ -44,7 +44,7 @@ Categories:
 {s:BDSousTitre|POUVOIRS SPÉCIAUX}
 {s:BDTexte|**Bâton de glace (Sur).** Une fois par semaine, une guenaude arctique peut
 accomplir un rituel d’une heure afin de créer un bâton composé de glace
-noire aussi solide que l’acier et qui fonctionne comme un *bâton de froid +2*.
+noire aussi solide que l’acier et qui fonctionne comme un *bâton de froid +2*. 
 Une guenaude arctique qui manipule son bâton de glace peut utiliser
 *[[cône de froid]]* une fois par jour en tant que pouvoir magique. Le bâton
 fond au bout d’une semaine.}

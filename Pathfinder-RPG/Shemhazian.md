@@ -11,7 +11,7 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Shemhazian|FP 16}
-{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire} 
 {s:BDTexte|*Source : Bestiaire 2, p.88*}
 {s:BDTexte|**PX** 76 800}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille Gig, CM}

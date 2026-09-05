@@ -17,14 +17,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Grâce à *guérison suprême*, le lanceur de sorts peut [[canalisation dénergie|canaliser]] suffisamment d’énergie positive dans le corps du sujet pour faire disparaître toutes ses blessures et [[maladie|maladies]]. Ce sort soigne les [[affaiblissement temporaire|affaiblissements temporaires]] de caractéristique, l’aliénation, la [[aveuglé|cécité]], la [[confus|confusion]], la débilité, l’[[ébloui|éblouissement]], l’empoisonnement, l’[[épuisé|épuisement]], l’[[étourdi|étourdissement]], la [[fatigué|fatigue]], la [[fiévreux|fièvre]], l’[[hébété|hébétement]], les [[maladie|maladies]], la [[nauséeux|nausée]] et la [[assourdi|surdité]]. Il guérit également de 10 [[points de vie]] par [[niveau de lanceur de sorts]], jusqu’à un maximum de 150 points de vie au niveau 15.
 
 Par contre, *guérison suprême* n’a aucun effet sur les [[niveau négatif|niveaux négatifs]], les niveaux perdus et les [[diminution permanente|diminutions permanentes]] de caractéristique.
@@ -39,24 +39,24 @@ Les dégâts soignés s’élèvent à 15 points de dégâts par [[niveau de lan
 
 ((({s:sortssimilaires|guérison suprême}
 ## [[Guérison de destrier]]
-**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[paladin|Pal]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** la monture touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[paladin|Pal]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** la monture touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[guérison suprême]]*, mais il n’affecte que le destrier du [[paladin]] (il s’agit généralement d’un cheval).
 
 ## [[Guérison suprême de groupe]]
-**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 9, [[Prêtre|Prê]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** 1 ou plusieurs créatures distantes de moins de 9 m (6 {s:c}) les unes des autres
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 9, [[Prêtre|Prê]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** 1 ou plusieurs créatures distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[guérison suprême]]*, si ce n’est qu’il agit à distance et sur plusieurs cibles à la fois, restituant à chacune d’entre elles un nombre de [[points de vie]] pouvant aller jusqu’à 250.
 )))

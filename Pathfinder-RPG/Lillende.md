@@ -66,7 +66,7 @@ Les lillendes n’ont pas besoin de se nourrir comme les mortels,
 car elles tirent leur énergie de la joie procurée par la musique, l’art
 et les spectacles. Elles apprécient également les étendues sauvages
 préservées et, dans les royaumes mortels, elles recherchent les
-endroits qui leur rappellent la beauté de leur plan d’origine.
+endroits qui leur rappellent la beauté de leur plan d’origine. 
 
 On retrouve ces muses dans les légendes de nombreuses races, lesquelles
 racontent comment des lillendes ont contribué au développement des
@@ -74,7 +74,7 @@ talents d’un prodige ou à la création d’une œuvre d’art remarquable.
 Certaines de ces histoires sont vraies : toutes les lillendes ont leurs
 œuvres, leurs créations ou leurs artistes préférés et elles visitent
 souvent le plan Matériel pour s’en régaler ou pour s’assurer qu’ils
-sont à l’abri du danger.
+sont à l’abri du danger. 
 
 Lorsque les lillendes doivent défendre ces
 beautés qui leur sont chères, elles se révèlent être des ennemis

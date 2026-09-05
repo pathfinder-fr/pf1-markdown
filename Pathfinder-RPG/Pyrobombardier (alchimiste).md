@@ -14,7 +14,7 @@ Categories:
 Le pyrobombardier traite les [[Équipement daventurier#Torche|torches]] comme des armes courantes.
 
 #### Bombardier du feu (Sur ou Ext)
-Au niveau 1, lorsque le pyrobombardier lance une bombe infligeant des dégâts de feu, toutes les créatures situées dans le rayon de l’explosion reçoivent 1 point de dégâts supplémentaires par dé de dégâts infligés. En contrepartie, les pyrobombardiers n’ajoutent leur modificateur d’[[Intelligence]] qu'aux dégâts des bombes ou substances alchimiques infligeant des dégâts de feu. Autrement, cette capacité fonctionne comme ses [[alchimiste#BOMBES|bombes]] et son [[alchimiste#LANCERIMPROVISE|lancer improvisé]].
+Au niveau 1, lorsque le pyrobombardier lance une bombe infligeant des dégâts de feu, toutes les créatures situées dans le rayon de l’explosion reçoivent 1 point de dégâts supplémentaires par dé de dégâts infligés. En contrepartie, les pyrobombardiers n’ajoutent leur modificateur d’[[Intelligence]] qu'aux dégâts des bombes ou substances alchimiques infligeant des dégâts de feu. Autrement, cette capacité fonctionne comme ses [[alchimiste#BOMBES|bombes]] et son [[alchimiste#LANCERIMPROVISE|lancer improvisé]]. 
 
 Cette capacité altère [[alchimiste#BOMBES|bombes]] et son [[alchimiste#LANCERIMPROVISE|lancer improvisé]].
 

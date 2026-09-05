@@ -12,7 +12,7 @@ Categories:
 Katapesh est la capitale du pays du même nom. Elle se situe sur la côte est du [[Garund]]. On dit qu'elle est la ville du chaos organisé où l'argent est roi et le commerce le plus puissant des dieux.
 
 #### Description générale de Katapesh
-La ville domine l'[[océan Obari]] depuis un promontoire sableux, au sommet du Mur d'Obsidienne, de hautes falaises d'un noir vitreux. Au pied des falaises, une bande de terre s'étend jusqu'à la mer.
+La ville domine l'[[océan Obari]] depuis un promontoire sableux, au sommet du Mur d'Obsidienne, de hautes falaises d'un noir vitreux. Au pied des falaises, une bande de terre s'étend jusqu'à la mer. 
 
 La ville est entourée de murs en grès d'une hauteur d'environ 13 mètres, surmontés de remparts et parsemés de tours crénelées.
 

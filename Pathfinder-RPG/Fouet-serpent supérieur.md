@@ -15,6 +15,6 @@ Categories:
 
 **Conditions.** [[Fouet-serpent]], [[BBA]] +4
 
-**Avantages.** Lorsque le personnage réussit une manœuvre de [[désarmement]] ou de [[croc-en-jambe]] avec son don Fouet-serpent, il peut tenter une manœuvre supplémentaire de ce type contre n’importe quelle cible à portée d’allonge de son fouet.
+**Avantages.** Lorsque le personnage réussit une manœuvre de [[désarmement]] ou de [[croc-en-jambe]] avec son don Fouet-serpent, il peut tenter une manœuvre supplémentaire de ce type contre n’importe quelle cible à portée d’allonge de son fouet. 
 
 Avec une manœuvre de repositionnement, il peut déplacer la créature sur n’importe quelle position à portée d’allonge de son fouet.

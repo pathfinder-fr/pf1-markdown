@@ -11,11 +11,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Magus]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une ficelle nouée à un cocon)
-**Portée** personnelle
-**Cible** le personnage
+{s:RSE}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Magus]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une ficelle nouée à un cocon)  
+**Portée** personnelle  
+**Cible** le personnage  
 **Durée** 1 minute/niveau
 
 Pendant toute la durée du sort, les organes vitaux du personnage ondulent, changent de place et s’agencent de façon à résister plus facilement aux coups portés dans une zone vulnérable. Tant que ce sort est actif, les [[coup critique|coups critiques]] et les [[attaque sournoise|attaques sournoises]] portées contre le personnage ont 25% de chances de ne pas infliger de dégâts supplémentaires, même si le personnage subit tout de même les dégâts normaux infligés par l’attaque. Au niveau 7, les chances d’évitement des dégâts supplémentaires s’élèvent à 50%, puis à 75% au niveau 13.

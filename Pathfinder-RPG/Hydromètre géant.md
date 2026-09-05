@@ -49,5 +49,5 @@ LastModified: 2020-09-20 00:19
 
 Un hydromètre géant est un insecte aux longues pattes capable de marcher sur l’eau. Il se nourrit de poissons et d’oiseaux. Les hydromètres utilisent leur faible capacité de vol uniquement pour échapper aux prédateurs ou pour effectuer leurs migrations saisonnières vers de nouvelles zones de reproduction. Les humanoïdes qui vivent près des côtes les dressent parfois pour en faire des montures. Un hydromètre géant vit 1 à 2 ans.
 
-Si un hydromètre géant porte une charge supérieure à sa capacité de transport légère (100 kilogrammes), cela l’empêche d’utiliser son pouvoir de marche sur l’eau.
+Si un hydromètre géant porte une charge supérieure à sa capacité de transport légère (100 kilogrammes), cela l’empêche d’utiliser son pouvoir de marche sur l’eau. 
 </div></td></tr></table>

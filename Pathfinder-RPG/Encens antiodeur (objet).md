@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 80 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 80 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 L’encens antiodeur est une sorte de [[Bâton fumigène (objet)|bâton fumigène]] qui bloque la plupart des odeurs. Tant que la fumée persiste, les créatures qui disposent du pouvoir [[Odorat (capacité)|odorat]] doivent réussir un test de [[Perception]] opposé au test de [[Discrétion]] des créatures qui se trouvent dans la fumée pour les localiser. Si une créature passe 5 [[round|rounds]] ou plus dans la fumée, elle s’accroche à lui et dissimule son odeur pendant 1 round après qu’elle a quitté le nuage de fumée.

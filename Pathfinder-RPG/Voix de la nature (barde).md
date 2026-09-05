@@ -21,6 +21,6 @@ Au [[niveau]] 1, la voix de la nature peut choisir un sort de druide ou de rôde
 #### Représentation bardique
 La voix de la nature reçoit la représentation bardique suivante.
 ##### Chant de la nature (Sur)
-Au [[niveau]] 3, la voix de la nature peut utiliser [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]  pour conférer un aspect animal à un allié, comme si elle utilisait l’aptitude de classe du chasseur [[Chasseur#IMITATIONANIMALE|Imitation animale]]. L’allié doit être capable d’entendre ou de voir la représentation. La voix de la nature remplace le niveau de [[chasseur]] par son niveau de barde pour déterminer l’effet de l’aspect animal. Le barde peut affecter un deuxième allié au [[niveau]] 10 et un troisième allié au [[niveau]] 17 à l’aide de cette représentation.
+Au [[niveau]] 3, la voix de la nature peut utiliser [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]  pour conférer un aspect animal à un allié, comme si elle utilisait l’aptitude de classe du chasseur [[Chasseur#IMITATIONANIMALE|Imitation animale]]. L’allié doit être capable d’entendre ou de voir la représentation. La voix de la nature remplace le niveau de [[chasseur]] par son niveau de barde pour déterminer l’effet de l’aspect animal. Le barde peut affecter un deuxième allié au [[niveau]] 10 et un troisième allié au [[niveau]] 17 à l’aide de cette représentation. 
 
 Le chant de la nature utilise une composante sonore ou visuelle. Cette aptitude remplace toutes les améliorations de l’inspiration talentueuse, le chant funèbre et l’inspiration héroïque.

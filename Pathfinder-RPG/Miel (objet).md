@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 po ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Cette substance dorée est utilisée pour adoucir les plats. Elle se conserve naturellement très bien et, si elle est scellée dans des bocaux en bois, en verre ou en céramique, on peut s’en servir pour conserver des fruits, des fruits à coques, de la viande, voire même du cuir pendant des décennies.

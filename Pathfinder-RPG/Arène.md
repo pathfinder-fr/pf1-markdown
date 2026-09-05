@@ -39,9 +39,9 @@ Qu’il s’agisse de guerriers exotiques se donnant en spectacle ou de criminel
 {s:BDTexte|**Faveur** Les gladiateurs peuvent donner libre-accès à l’arène même en-dehors des heures d’ouverture et peuvent aider les PJ à acheter des armes exotiques non magiques avec une réduction de prix de 10%.}
 </div>
 </td><td><div>
-Les gladiateurs se distinguent autant par leur style de combat que par leur nation d’origine, mais tous cherchent à verser le sang pour la gloire et la fortune. Bon nombre d’entre eux mettent en avant la rapidité et la protection plutôt que la force brute. Ils jaugent leur adversaire avant de se lancer au combat avec une fureur sanguinaire, épée et bouclier au clair. On peut les utiliser comme gardes du corps, comme « policiers anti-émeute » dans une ville ou comme tirailleurs d’élite dans une armée.
+Les gladiateurs se distinguent autant par leur style de combat que par leur nation d’origine, mais tous cherchent à verser le sang pour la gloire et la fortune. Bon nombre d’entre eux mettent en avant la rapidité et la protection plutôt que la force brute. Ils jaugent leur adversaire avant de se lancer au combat avec une fureur sanguinaire, épée et bouclier au clair. On peut les utiliser comme gardes du corps, comme « policiers anti-émeute » dans une ville ou comme tirailleurs d’élite dans une armée. 
 
-En remplaçant [[Esquive]] par [[Maniement dune arme exotique|Maniement d’une arme exotique]], on crée un maître d’armes exotiques.
+En remplaçant [[Esquive]] par [[Maniement dune arme exotique|Maniement d’une arme exotique]], on crée un maître d’armes exotiques. 
 
 En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter leur dernière victoire avec deux [[PNJ ivrogne|ivrognes]] (FP 6).
 </div></td></tr></table>
@@ -101,7 +101,7 @@ On peut rencontrer un maître des bêtes seul avec son animal, occupé à chasse
 {s:BDTexte|**A distance** javeline, +12 (1d6+6)}
 {s:BDTexte|**Attaque spéciale** entraînement aux armes (lames lourdes +1), pouvoirs de rage (pic de force +5, regard intimidant), rage (14 rounds/jour)}
 {s:BDSousTitre|Tactiques}
-{s:BDTexte|**Profil de base** lorsqu’il n’est pas en rage : **CA** 19, contact 12, pris au dépourvu 17 ; **pv** 85 ; **Vig** +10, **Vol** +2 ; **Corps à corps** ''épée à deux
+{s:BDTexte|**Profil de base** lorsqu’il n’est pas en rage : **CA** 19, contact 12, pris au dépourvu 17 ; **pv** 85 ; **Vig** +10, **Vol** +2 ; **Corps à corps** ''épée à deux 
 mains vicieuse en adamantium +1'', +17/+12 (2d6+10/17–20 plus 2d6 vicieux) ou gantelet clouté, +14/+9 (1d3+4) ; **Distance** javeline, +12 (1d6+4) ; **For** 18, **Con** 14, **BMO** +14 (+18 [[destruction]]), **DMD** 26 (28 contre la [[destruction]]) ; **Compétences** [[Escalade]] +8, [[Natation]] +7}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 14, **Con** 18, **Int** 8, **Sag** 10, **Cha** 12}
@@ -114,7 +114,7 @@ mains vicieuse en adamantium +1'', +17/+12 (2d6+10/17–20 plus 2d6 vicieux) ou 
 {s:BDTexte|**Faveur** Un champion peut présenter les PJ à un [[PNJ Général|général]], à un [[PNJ Prince marchand|prince marchand]] ou à un [[PNJ Noble|noble]] qui fait partie de ses fans, octroyant ainsi un bonus de +10 aux tests de [[Diplomatie]] envers cette personne. Il peut aussi ordonner à un [[PNJ Gladiateur|gladiateur]] d’aider les PJ pendant 24 heures.}
 </div>
 </td><td><div>
-Le champion est le maître de l’arène. Il laisse derrière lui un sillage d’armes en ruines, de corps détruits et de rêves brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule et la terreur qu’il inspire chez ses ennemis le font exulter.
+Le champion est le maître de l’arène. Il laisse derrière lui un sillage d’armes en ruines, de corps détruits et de rêves brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule et la terreur qu’il inspire chez ses ennemis le font exulter. 
 
 On peut également utiliser le champion comme chef barbare ou capitaine mercenaire. On peut le rencontrer seul ou en compagnie de deux [[PNJ Gladiateur|gladiateurs]] (FP 10).
 </div></td></tr></table>

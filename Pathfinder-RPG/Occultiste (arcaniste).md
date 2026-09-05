@@ -16,9 +16,9 @@ Categories:
 Un occultiste ajoute tous les sorts *[[allié doutreplan|allié d’outreplan]]* à sa liste de sorts (en remplaçant le niveau de prêtre par son niveau d’arcaniste) et considère *[[changement de plan]]* comme un sort d’arcaniste de niveau 5.
 
 #### Maîtrise des convocations (Mag)
-Un occultiste peut dépenser 1 point de son [[réservoir arcanique]] pour lancer *[[convocation de monstres]]* I. Il peut lancer ce sort par une [[action simple]] et les créatures convoquées demeurent pendant 1 minute par niveau (au lieu de 1 round par niveau). Au niveau 3 et tous les 2 niveaux par la suite, la puissance de cette aptitude augmente d’un niveau de sort, ce qui permet à l’occultiste de convoquer des créatures plus dangereuses (le maximum correspond à *[[convocation de monstres]]* IX au niveau 17), en dépensant un point supplémentaire de son réservoir arcanique par niveau de sort.
+Un occultiste peut dépenser 1 point de son [[réservoir arcanique]] pour lancer *[[convocation de monstres]]* I. Il peut lancer ce sort par une [[action simple]] et les créatures convoquées demeurent pendant 1 minute par niveau (au lieu de 1 round par niveau). Au niveau 3 et tous les 2 niveaux par la suite, la puissance de cette aptitude augmente d’un niveau de sort, ce qui permet à l’occultiste de convoquer des créatures plus dangereuses (le maximum correspond à *[[convocation de monstres]]* IX au niveau 17), en dépensant un point supplémentaire de son réservoir arcanique par niveau de sort. 
 
-Un occultiste ne peut pas maintenir actif plus d’une convocation de monstres de cette façon en même temps. Si cette aptitude est de nouveau utilisée, la convocation de monstres en cours prend fin immédiatement.
+Un occultiste ne peut pas maintenir actif plus d’une convocation de monstres de cette façon en même temps. Si cette aptitude est de nouveau utilisée, la convocation de monstres en cours prend fin immédiatement. 
 
 Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 1.
 

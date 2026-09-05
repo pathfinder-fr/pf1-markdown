@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:CM}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:CM}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cette décoction alchimique au goût infecte accorde, pendant une courte période, une incroyable férocité à celui qui la boit. Cela fonctionne comme le pouvoir de monstre [[férocité (capacité)|férocité]] et dure une heure après absorption. Il faut réussir un test d’[[Artisanat]] (alchimie) [[DD]] 20 pour créer cet objet.

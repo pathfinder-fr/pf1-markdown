@@ -8,7 +8,7 @@ Zutha était le Seigneur des Runes de la Gourmandise et dirigeant du domaine tha
 
 Contrairement aux autres Seigneurs des Runes, Zutha n'était pas un humain mais un mort-vivant monstrueux qui éprouvait les mêmes sens qu'un être vivant. Mais cette particularité avait un prix et et corps mort-vivant nécessitait un renouvellement constant. La source de ce renouvellement constant n'a jamais été retrouvé dans les écrits qui nous sont parvenus. Il atteint cet état particulier pour se permettre de continuer à engloutir les produits de son riche domaine.
 
-On dit que Zutha n'a jamais mangé deux fois le même plat et qu'il s'empiffrait de nourritures exotiques et de "repas d'esclaves" venus de tout [[Golarion]]. Ceux qui croisaient sa route voyaient leurs réserves fondre d'un coup. Néanmoins, Zutha vendait les surplus des greniers de [[Thassilon|Gastash]] aux autres domaines thassilonien, parfois même aux deux parties d'un conflit en même temps.
+On dit que Zutha n'a jamais mangé deux fois le même plat et qu'il s'empiffrait de nourritures exotiques et de "repas d'esclaves" venus de tout [[Golarion]]. Ceux qui croisaient sa route voyaient leurs réserves fondre d'un coup. Néanmoins, Zutha vendait les surplus des greniers de [[Thassilon|Gastash]] aux autres domaines thassilonien, parfois même aux deux parties d'un conflit en même temps. 
 
 Il était décrit comme étant plus habile avec sa plume qu'avec une arme, et ce n'était pas faire affront à ses capacités martiales. L'arme favorite de Zutha était un assemblage d'anneaux et de pierres Ioun que lui-seul savait utiliser. Il la préférait même à la faux qui était servait symbole de son pouvoir.
 

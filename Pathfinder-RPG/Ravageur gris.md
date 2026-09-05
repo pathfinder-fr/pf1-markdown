@@ -30,53 +30,53 @@ Categories:
 {s:BDTexte|<b>For</b> 25, <b>Dex</b> 13, <b>Con</b> 24, <b>Int</b> 3, <b>Sag</b> 14, <b>Cha</b> 8}
 {s:BDTexte|<b>BBA</b> +8, <b>BMO</b> +16, <b>DMD</b> 27}
 {s:BDTexte|<b>Dons</b> <a>[[Arme de prédilection]] (griffe)</a>, [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]]}
-{s:BDTexte|<b>Compétences</b> <a>[[Perception]]</a> +13, [[Survie]] +6 ; <b>Modificateurs raciaux</b> +4 en [[Perception]]}
+{s:BDTexte|<b>Compétences</b> <a>[[Perception]]</a> +13, [[Survie]] +6 ; <b>Modificateurs raciaux</b> +4 en [[Perception]]} 
 {s:BDTexte|<b>Particularités</b> dégâts doublés contre les objets}
 {s:BDTexte|<b>Langues</b> géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> marais tempérés}
-{s:BDTexte|<b>Organisation sociale</b> solitaire (plus éventuellement une ou plusieurs créatures protégée(s), voir le
+{s:BDTexte|<b>Organisation sociale</b> solitaire (plus éventuellement une ou plusieurs créatures protégée(s), voir le 
 texte)}
 {s:BDTexte|<b>Trésor</b> fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|<b>Dégâts doublés contre les objets (Ext).</b> Lorsqu’un ravageur gris effectue une attaque à outrance contre un objet ou un bâti-ment, les dégâts infligés sont doublés.}
 
-</td><td><div>''Cette énorme créature a une peau grise, glabre et lisse. Ses nombreux yeux
+</td><td><div>''Cette énorme créature a une peau grise, glabre et lisse. Ses nombreux yeux 
 jaunes et ses larges mâchoires sont ses seules caractéristiques faciales.''
 
-Les  ravageurs  gris  sont  des  prédateurs
-solitaires  et  violents  faisant  plus  de
-2,70  mètres  de  haut,  pesant  au  moins
-2 000 kg et dotés d’une force exceptionnelle.
-Certains  prétendent  en  avoir  vus  déraciner
-un  arbre  adulte  et  le  réduire  en  charpies  afin
-de pouvoir attraper les proies qui s’y étaient réfugiées.
-Les ravageurs gris évitent à tout prix de former des groupes ou
-des communautés avec leurs pairs et ne tolèrent la présence
-d’autres individus de leur espèce qu’au cours de la saison de
-la reproduction. Certains érudits les disent asexués, mais
-ce sont plus probablement des hermaphrodites capables
+Les  ravageurs  gris  sont  des  prédateurs 
+solitaires  et  violents  faisant  plus  de 
+2,70  mètres  de  haut,  pesant  au  moins 
+2 000 kg et dotés d’une force exceptionnelle. 
+Certains  prétendent  en  avoir  vus  déraciner 
+un  arbre  adulte  et  le  réduire  en  charpies  afin 
+de pouvoir attraper les proies qui s’y étaient réfugiées. 
+Les ravageurs gris évitent à tout prix de former des groupes ou 
+des communautés avec leurs pairs et ne tolèrent la présence 
+d’autres individus de leur espèce qu’au cours de la saison de 
+la reproduction. Certains érudits les disent asexués, mais 
+ce sont plus probablement des hermaphrodites capables 
 de se fertiliser eux-mêmes quoi qu’assez rarement.
-Malgré  leur  existence  solitaire,  les  ravageurs
-gris  développent  souvent  des  liens  d’affection
-pour  d’autres  créatures.  Le  plus  souvent,  il  s’agit
-d’un troupeau d’herbivores ou d’une petite tribu d’humanoïdes
-mais cela concerne parfois aussi un habitant des marais solitaire.
-Ils se mettent alors à protéger cette ou ces créature(s) : ils ne s’en
-éloignent jamais de plus d’un ou de deux kilomètres, accourent
-pour  les  protéger  au  cas  où  elles  seraient  attaquées  et  leur
-apportent une offrande de nourriture une fois par jour, un peu
-comme un chat domestique. Les ravageurs gris ne blessent jamais
-les  créatures  qu’ils  protègent,  et  si  celles-ci  les  attaquent,  ils
-battent en retraite en se demandant bien pourquoi elles agissent
-ainsi. La plupart des protégés finissent par accepter la présence
-du  ravageur  gris.  Les  humanoïdes  primitifs  peuvent  même  le
-considérer  comme  un  don  des  dieux.  L’affection  d’un  ravageur
-gris peut durer seulement quelques mois ou s’étendre sur plus
-d’une dizaine d’années, jusqu’au moment où il déménage vers un
+Malgré  leur  existence  solitaire,  les  ravageurs 
+gris  développent  souvent  des  liens  d’affection 
+pour  d’autres  créatures.  Le  plus  souvent,  il  s’agit 
+d’un troupeau d’herbivores ou d’une petite tribu d’humanoïdes 
+mais cela concerne parfois aussi un habitant des marais solitaire. 
+Ils se mettent alors à protéger cette ou ces créature(s) : ils ne s’en 
+éloignent jamais de plus d’un ou de deux kilomètres, accourent 
+pour  les  protéger  au  cas  où  elles  seraient  attaquées  et  leur 
+apportent une offrande de nourriture une fois par jour, un peu 
+comme un chat domestique. Les ravageurs gris ne blessent jamais 
+les  créatures  qu’ils  protègent,  et  si  celles-ci  les  attaquent,  ils 
+battent en retraite en se demandant bien pourquoi elles agissent 
+ainsi. La plupart des protégés finissent par accepter la présence 
+du  ravageur  gris.  Les  humanoïdes  primitifs  peuvent  même  le 
+considérer  comme  un  don  des  dieux.  L’affection  d’un  ravageur 
+gris peut durer seulement quelques mois ou s’étendre sur plus 
+d’une dizaine d’années, jusqu’au moment où il déménage vers un 
 nouveau territoire et oublie ses anciens protégés.
-Les  ravageurs  gris  ne  sont  généralement  pas  de  nature
-malicieuse.  Ils  attaquent  seulement  s’ils  ont  faim  ou  si  eux  ou
-leurs protégés sont menacés. Lorsqu’ils défendent leurs protégés,
+Les  ravageurs  gris  ne  sont  généralement  pas  de  nature 
+malicieuse.  Ils  attaquent  seulement  s’ils  ont  faim  ou  si  eux  ou 
+leurs protégés sont menacés. Lorsqu’ils défendent leurs protégés, 
 ils combattent jusqu’à la mort.
 </div></td></tr></table>

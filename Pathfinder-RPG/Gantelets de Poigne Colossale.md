@@ -8,7 +8,7 @@ LastModified: 2024-06-02 18:28
 {s:BDTitre|Gantelets de poigne colossale|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 20.000 po ; **Poids** 2,5 kg
 (((Description)))
-Par une [[action rapide]], le porteur de ces gantelets de cuir grossier peut doubler la taille de ses mains et les rendre aussi dures que le bois. Cette transformation dure jusque 20 rounds par jour (ces rounds ne sont pas nécessairement consécutifs). Si le porteur parvient à toucher un adversaire avec une attaque à mains nues ou naturelle en utilisant ses mains agrandies, il peut tenter de le [[manœuvres offensives#BOUSCULADE|bousculer]] par une [[action rapide]].
+Par une [[action rapide]], le porteur de ces gantelets de cuir grossier peut doubler la taille de ses mains et les rendre aussi dures que le bois. Cette transformation dure jusque 20 rounds par jour (ces rounds ne sont pas nécessairement consécutifs). Si le porteur parvient à toucher un adversaire avec une attaque à mains nues ou naturelle en utilisant ses mains agrandies, il peut tenter de le [[manœuvres offensives#BOUSCULADE|bousculer]] par une [[action rapide]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[agrandissement]]* ; **Coût** 10.000 po
 </div>

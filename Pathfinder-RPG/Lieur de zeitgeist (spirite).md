@@ -16,11 +16,11 @@ Le fantôme d'un lieur de zeitgeist est appelé un zeitgeist. En plus d'une émo
 #### Aspect communautaire (Mag)
 Un lieur de zeitgeist gagne un nombre de [[Pouvoirs magiques (capacité)|pouvoirs magiques]] en rapport avec l'aspect communautaire de son zeitgeist. Outre le fait qu'ils sont basés sur la [[Sagesse]] et non le [[Charisme]], ils fonctionnent comme les [[Esprit fracturé (spirite)|pouvoirs émotionnels]] d'un esprit fracturé. Le pouvoir magique *[[transformation de maître]]* n'ignore pas la [[composantes|composante matérielle]] du sort.
 
-<u>*Corruption*</u> : *[[faveur conditionnelle]]* (5), *[[faux souvenir]]* (7), *[[charme-personne]]* (9), *[[suggestion de groupe]]* (16).
-<u>*Crime*</u> : *[[crime de situation]]* (5), *[[main vagabonde]]* (7), *[[offrande exigée]]* (9), *[[vague de criminalité]]* (16).
-<u>*Économie*</u> : *[[chance de lartisan|chance de l'artisan]]* (5), *[[transformation de maître]]* (7), *[[charmant cadeau]]* (9), *[[création majeure]]* (16).
-<u>*Folklore*</u> : *[[lecture dobjet|lecture d'objet]]* (5), *[[hypercognition]]* (7), *[[conscience accrue]]* (9), *[[mythes et légendes]]* (16).
-<u>*Loi*</u> : *[[détection du Chaos]]* (5), *[[flèche de loi]]* (7), *[[paix forcée]]* (9), *[[marque de la justice]]* (16).
+<u>*Corruption*</u> : *[[faveur conditionnelle]]* (5), *[[faux souvenir]]* (7), *[[charme-personne]]* (9), *[[suggestion de groupe]]* (16).  
+<u>*Crime*</u> : *[[crime de situation]]* (5), *[[main vagabonde]]* (7), *[[offrande exigée]]* (9), *[[vague de criminalité]]* (16).  
+<u>*Économie*</u> : *[[chance de lartisan|chance de l'artisan]]* (5), *[[transformation de maître]]* (7), *[[charmant cadeau]]* (9), *[[création majeure]]* (16).  
+<u>*Folklore*</u> : *[[lecture dobjet|lecture d'objet]]* (5), *[[hypercognition]]* (7), *[[conscience accrue]]* (9), *[[mythes et légendes]]* (16).  
+<u>*Loi*</u> : *[[détection du Chaos]]* (5), *[[flèche de loi]]* (7), *[[paix forcée]]* (9), *[[marque de la justice]]* (16).  
 <u>*Société*</u> : *[[adapation culturelle]]* (5), *[[épidémie de rumeurs]]* (7), *[[partage de la langue]]* (9), *[[efforts coordonnés]]* (16).
 
 Cette capacité remplace [[Spirite#DETECTIONDESMORTSVIVANTS|détection des morts-vivants]], [[Spirite#APAISEMENTDESESPRITS|apaisement des esprits]], [[Spirite#DETECTIONDELINVISIBILITE|détection de l'invisibilité]] et [[Spirite#APPELDUNESPRIT|appel d'un esprit]].

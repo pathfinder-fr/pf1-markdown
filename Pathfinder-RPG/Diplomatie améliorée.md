@@ -12,12 +12,12 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[école Divination|Divination]] ; **Niveau** [[Druide|Dru]] 0, [[Prêtre|Prê]] 0
-**Temps d'incantation**  1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** créature touchée
-**Durée** une minute ou jusqu’à utilisation
+**École** [[école Divination|Divination]] ; **Niveau** [[Druide|Dru]] 0, [[Prêtre|Prê]] 0  
+**Temps d'incantation**  1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** créature touchée  
+**Durée** une minute ou jusqu’à utilisation  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage confère à la cible de ce sort des talents diplomatiques d’origine divine. La créature ciblée bénéficie alors d’un bonus de compétence de +2 sur un unique test de [[Diplomatie]] ou d’[[Intimidation]]. Elle doit décider d’utiliser le bonus avant d’effectuer son test.

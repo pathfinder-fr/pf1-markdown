@@ -45,7 +45,7 @@ Categories:
 
 Une chose de peaux recousues est une créature artificielle rudimentaire fabriquée à partir de morceaux de tissu, de cuir et de peaux cousues les unes aux autres pour lui donner l’aspect d’un ogre empaillé. Ces êtres sont généralement créés par les lanceurs de sorts qui n’ont pas suffisamment de pouvoir, de talent ou d’or pour concevoir un golem de chair.{br}
 
-La paille qui ressort entre les coutures et par les bouches et les cavités oculaires des visages qui composent la chose de peaux recousues lui confère un aspect à la fois terrifiant et dépenaillé. Des nuées de vermines et d’autres créatures trouvent souvent refuge dans la paille et la magie de la créature artificielle octroie aux nuées qui nichent dans son corps un étonnant pouvoir revigorant. Malgré son aspect, la chose de peaux recousues est forte, résistante et agile, même si ses composantes la rendent vulnérables au feu.
+La paille qui ressort entre les coutures et par les bouches et les cavités oculaires des visages qui composent la chose de peaux recousues lui confère un aspect à la fois terrifiant et dépenaillé. Des nuées de vermines et d’autres créatures trouvent souvent refuge dans la paille et la magie de la créature artificielle octroie aux nuées qui nichent dans son corps un étonnant pouvoir revigorant. Malgré son aspect, la chose de peaux recousues est forte, résistante et agile, même si ses composantes la rendent vulnérables au feu.  
 
 #### Variantes de chose de peaux recousues
 Une chose de peaux recousues créé avec des composants prélevés sur des créatures spécifiques, tels que des dragons ou des géants de feu, peut bénéficier de pouvoirs supplémentaires en fonction des créatures sélectionnées.

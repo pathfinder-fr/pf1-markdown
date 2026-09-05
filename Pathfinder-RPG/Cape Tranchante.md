@@ -8,7 +8,7 @@ LastModified: 2024-06-01 16:55
 {s:BDTitre|Cape tranchante|{s:AE}}
 **Aura** [[Transmutation]] et [[Illusion]] faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 20.000 po ; **Poids** 0,5 kg
 (((Description)))
-Les bords de cette épaisse cape bordeaux sont couverts de plaques et de lames de mithral. Sa coupe s’adapte parfaitement sur une armure lourde. Par une [[action complexe]], son porteur peut tournoyer dans sa case pour blesser les créatures situées à 1,50 mètre. Cette attaque utilise le [[BBA|bonus de base à l’attaque]] le plus élevé du porteur contre chaque créature et inflige 2d6 points de dégâts en cas de réussite. Le porteur est considéré comme formé au maniement de cette arme. De plus, la cape peut être magiquement améliorée comme une arme de corps à corps, en ajoutant le prix des propriétés spéciales à celui de la cape.
+Les bords de cette épaisse cape bordeaux sont couverts de plaques et de lames de mithral. Sa coupe s’adapte parfaitement sur une armure lourde. Par une [[action complexe]], son porteur peut tournoyer dans sa case pour blesser les créatures situées à 1,50 mètre. Cette attaque utilise le [[BBA|bonus de base à l’attaque]] le plus élevé du porteur contre chaque créature et inflige 2d6 points de dégâts en cas de réussite. Le porteur est considéré comme formé au maniement de cette arme. De plus, la cape peut être magiquement améliorée comme une arme de corps à corps, en ajoutant le prix des propriétés spéciales à celui de la cape. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[barrière de lames]]* ; **Coût** 10.000 po
 </div>

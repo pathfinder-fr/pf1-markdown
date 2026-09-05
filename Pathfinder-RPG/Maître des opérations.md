@@ -12,7 +12,7 @@ LastModified: 2021-04-30 15:54
 
 **Avantages.** Par une action simple, le hobgobelin encourage un allié, qui doit avoir moins de dés de vie que lui, à se montrer téméraire. Pendant 1 minute, cet allié gagne un bonus de moral de +1 à ses jets d’attaque, à ses jets de dégâts et à ses jets de Volonté contre les effets mentaux. Néanmoins, cet allié subit un malus de -2 à la CA et à ses tests de compétence.
 
-Pour affecter un allié involontaire, le hobgobelin doit réussir un test d’[[Intimidation]] dont le [[DD]] est le même que celui utilisé pour démoraliser son allié.
+Pour affecter un allié involontaire, le hobgobelin doit réussir un test d’[[Intimidation]] dont le [[DD]] est le même que celui utilisé pour démoraliser son allié. 
 
 **Spécial.** Si le hobgobelin a 10 rangs ou plus en [[Intimidation]], le bonus de moral monte à +2.
 

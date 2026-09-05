@@ -17,6 +17,6 @@ Categories:
 
 **Condition.** [[Attaque en puissance]], [[BBA|bonus de base à l'attaque]] +4
 
-**Avantage.** Quand vous prenez un ennemi en tenaille avec un allié qui possède également ce don, vous pouvez vous employer dans vos attaques de manière à infliger plus de dégâts à votre adversaire, au risque que ces attaques ne blessent votre allié aussi.
-Quand vous choisissez d'utiliser ce don, calculez le résultat de votre jet d'attaque contre la CA de votre adversaire et de votre allié. Si vous touchez l'adversaire, vous infligez des dégâts bonus comme si vous utilisiez [[attaque en puissance]]. Si vous touchez votre allié, il ne subit aucun dégât de votre attaque à part ces dégâts supplémentaires. Il est possible de toucher à la fois votre ennemi et votre partenaire avec une attaque.
+**Avantage.** Quand vous prenez un ennemi en tenaille avec un allié qui possède également ce don, vous pouvez vous employer dans vos attaques de manière à infliger plus de dégâts à votre adversaire, au risque que ces attaques ne blessent votre allié aussi. 
+Quand vous choisissez d'utiliser ce don, calculez le résultat de votre jet d'attaque contre la CA de votre adversaire et de votre allié. Si vous touchez l'adversaire, vous infligez des dégâts bonus comme si vous utilisiez [[attaque en puissance]]. Si vous touchez votre allié, il ne subit aucun dégât de votre attaque à part ces dégâts supplémentaires. Il est possible de toucher à la fois votre ennemi et votre partenaire avec une attaque. 
 Les dégâts bonus accordés par ce don s'additionnent avec ceux de l'attaque en puissance.

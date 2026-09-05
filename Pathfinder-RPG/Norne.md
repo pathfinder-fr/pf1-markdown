@@ -15,7 +15,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 3* p.200}
 {s:BDTexte|**PX** 153.600}
 {s:BDTexte|[[type Fée|Fée]] de taille G, LN}
-{s:BDTexte|**Init** +16 ; **Sens** vision à 360°, [[vision aveugle]] à 36 m (24 (8 {s:c}), [[vision nocturne]],
+{s:BDTexte|**Init** +16 ; **Sens** vision à 360°, [[vision aveugle]] à 36 m (24 (8 {s:c}), [[vision nocturne]], 
 [[vision magique suprême|*vision magique suprême*]], [[vision lucide|*vision lucide*]] ; [[Perception]] +30}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 33, contact 21, pris au dépourvu 31 (armure +7, Dex +2, intuition +10, naturelle +5, taille -1)}
@@ -42,16 +42,16 @@ incantation rapide d’*[[Assassin imaginaire]] ([[DD]] 24)*, *[[moment de presc
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 14, **Con** 30, **Int** 21, **Sag** 24, **Cha** 31}
 {s:BDTexte|**BBA** +10, **BMO** +18, **DMD** 40}
-{s:BDTexte|**Dons** [[Attaques réflexes]], [[Dur à cuire]], [[Expertise du combat]],
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Dur à cuire]], [[Expertise du combat]], 
 [[Pouvoir magique rapide]] (*[[Assassin imaginaire]]*), [[Réflexes surhumains]],
 [[Science de la vigueur surhumaine]], [[Science de la volonté de fer]],
 [[Science de linitiative|Science de l’initiative]], [[Science des réflexes surhumains]],
 [[Vigueur surhumaine]], [[Volonté de fer]]}
 {s:BDTexte|**Compétences** [[Artisanat]] (étoffes) +18, [[Bluff]] +23, [[Connaissances]] (toutes) +18,
-[[Intimidation]] +30, [[Perception]] +30, [[Premiers secours]] +11, [[Psychologie]] +30,
+[[Intimidation]] +30, [[Perception]] +30, [[Premiers secours]] +11, [[Psychologie]] +30, 
 [[Représentation]] (déclamation) +18, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +23}
 {s:BDTexte|**Langues** commun, géant, sylvestre ; *[[don des langues]]*}
-{s:BDTexte|**Part** [[changement de forme (capacité)|changement de forme]] (humanoïde ;
+{s:BDTexte|**Part** [[changement de forme (capacité)|changement de forme]] (humanoïde ; 
 *[[modification dapparence|modification d’apparence]]* ou *[[forme de géant II]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides}
@@ -75,7 +75,7 @@ La cible reçoit aussitôt 20d6 points de dégâts ([[Vigueur]] [[DD]] 30,
 1/2 dégâts). Si la cible meurt des suites de ces dégâts, la norne
 a complètement tranché le fil : dans ce cas, la cible ne peut être
 ramenée à la vie à moins d’un [[miracle]], d’un [[souhait]] ou d’une
-intervention divine. Il s’agit d’un effet de mort. Le [[DD]]
+intervention divine. Il s’agit d’un effet de mort. Le [[DD]] 
 du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div>
 </td><td><div>''Cette femme impressionnante au visage sévère a de longs cheveux blonds

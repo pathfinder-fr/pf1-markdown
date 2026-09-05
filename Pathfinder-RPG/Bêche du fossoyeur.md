@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bêche du fossoyeur|{s:mca}}
 **Aura** [[Invocation]] et [[Transmutation]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 12 150 po ; **Poids** 2 kg
 (((Description)))
-Ce solide bâton magique en chêne poli et la lame tranchante fixée à son extrémité s’utilisent comme une [[Pelle (objet)|pelle]] [[Artisanat#OBJETMAITRE|de maître]] quand ils ne servent pas à lancer des sorts.
-• *[[Excavation expéditive]]* (1 charge)
-• *[[Création de fosse]]* (2 charges)
+Ce solide bâton magique en chêne poli et la lame tranchante fixée à son extrémité s’utilisent comme une [[Pelle (objet)|pelle]] [[Artisanat#OBJETMAITRE|de maître]] quand ils ne servent pas à lancer des sorts.  
+• *[[Excavation expéditive]]* (1 charge)  
+• *[[Création de fosse]]* (2 charges)  
 • *[[Fosse hérissée de pieux]]* (5 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[création de fosse]]*, *[[excavation expéditive]]*, *[[fosse hérissée de pieux]]* ; **Coût** 6 100 po

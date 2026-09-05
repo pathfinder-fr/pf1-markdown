@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
-**École** [[Transmutation]] ;
+**École** [[Transmutation]] ; 
 **Niveau** [[Antipaladin|Apal]] 1, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

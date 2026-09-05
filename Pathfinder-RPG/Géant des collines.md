@@ -97,7 +97,7 @@ en communauté pour saquer et piller. Ils préfèrent les climats
 tempérés mais s’éloignent de leur milieu favori si cela leur permet
 de trouver de nombreuses ressources faciles à piller. En général, ce
 sont des créatures incroyablement égoïstes qui n’engagent jamais
-un combat à moins d’être certaines de le gagner.
+un combat à moins d’être certaines de le gagner. 
 
 Face à un ennemi terrifiant, un géant des collines n’hésitera pas à pousser un de ses
 frères de clan vers le danger et à le sacrifier afin de sauver sa peau.
@@ -112,7 +112,7 @@ villes ou dans les principaux centres de population cependant).
 Ils y travaillent comme ouvriers ou soldats dans certaines villes
 à la frontière de la civilisation et font souvent office de diplomates
 de fortune lorsqu’il s’agit de négocier avec des groupes errants
-de géants des collines.
+de géants des collines. 
 
 Malheureusement, les géants des collines nomades ont plutôt tendance à insulter ou à tuer à vue ceux de leurs
 frères qui ont abandonné leur style de vie et se sont tournés

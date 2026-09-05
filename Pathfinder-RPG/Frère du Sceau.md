@@ -170,7 +170,7 @@ Au niveau 5, un frère du Sceau peut tenter de briser différentes protections m
 
 {s:reference|EFFETDOMINO}
 #### Effet domino (Ext)
-Au niveau 6, lorsqu'un frère du Sceau réussit une manœuvre de [[coup fabuleux]] et que la cible projetée atterrit sur un obstacle (ce qui inclut les autres créatures), il ajoute son niveau de classe au 1d6 de dégâts subis par la créature et l’obstacle.
+Au niveau 6, lorsqu'un frère du Sceau réussit une manœuvre de [[coup fabuleux]] et que la cible projetée atterrit sur un obstacle (ce qui inclut les autres créatures), il ajoute son niveau de classe au 1d6 de dégâts subis par la créature et l’obstacle. 
 
 {s:reference|MAINSDEPIERRE}
 #### Mains de pierre (Sur)

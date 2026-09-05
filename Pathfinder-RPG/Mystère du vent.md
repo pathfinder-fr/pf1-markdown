@@ -9,7 +9,7 @@ Categories:
 {s:MenuMystères}{s:APG}
 **Compétences de classe.** Un oracle du mystère des vents ajoute [[Acrobaties]], [[Évasion]], [[Vol]] et [[Discrétion]] à sa liste de compétences de classe.
 
-**Sorts supplémentaires.** *[[Modification des vents]]* (2), *[[bourrasque]]* (4), *[[manteau de vent]]* (6), *[[rivière de vent]]* (8), *[[contrôle des vents]]* (10), *[[sirocco]]* (12), *[[contrôle du climat]]* (14), *[[cyclone]]* (16), *[[vents de la vengeance]]* (18)
+**Sorts supplémentaires.** *[[Modification des vents]]* (2), *[[bourrasque]]* (4), *[[manteau de vent]]* (6), *[[rivière de vent]]* (8), *[[contrôle des vents]]* (10), *[[sirocco]]* (12), *[[contrôle du climat]]* (14), *[[cyclone]]* (16), *[[vents de la vengeance]]* (18) 
 
 ===Révélations=== *Un oracle du mystère des vents peut choisir l’une des révélations suivantes.*
 

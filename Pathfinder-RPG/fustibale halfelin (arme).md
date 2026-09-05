@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** 24 m (16 c) ; **Type** C ; **Spécial** —
+{s:AE}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** 24 m (16 c) ; **Type** C ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 {s:Desambi|Dans le <u>Manuel des joueurs</u>, cet objet est aussi appelé "bâton de jet halfelin".}Fabriqué à partir d’une fronde spéciale fixée sur un petit gourdin, le fustibale (ou bâton de jet halfelin) a un effet dévastateur entre les mains d’une personne expérimentée. Le modificateur de [[Force]] du personnage s’applique aux [[Valeurs de combat#DEGATS|jets de dégâts]] de l’arme, exactement comme pour les [[arme de jet|armes de jet]]. Il peut tirer avec le fustibale halfelin à une main mais pas le recharger ainsi. Pour cela, il faut dépenser une [[action de mouvement]] nécessitant l’utilisation des deux mains et provoquant des [[AO|attaques d’opportunité]].  
   
 Le fustibale halfelin tire des [[billes de fronde (arme)|billes]]. Le personnage peut tirer des pierres ordinaires mais elles ne sont pas aussi denses ni rondes que les billes. Elles infligent les mêmes dégâts que si l’arme était conçue pour une créature plus petite que le porteur d’une catégorie de taille. Ce dernier reçoit un malus de -1 à ses [[jet dattaque|jets d’attaque]].  

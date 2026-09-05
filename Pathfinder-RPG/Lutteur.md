@@ -264,13 +264,13 @@ Un lutteur est formé au maniement de toutes les armes courantes ainsi que de la
 
 {s:reference|ENTRAINEMENTMARTIAL}
 #### Entraînement martial (Ext)
-À partir du niveau 1, le lutteur considère ses niveaux de lutteur comme des niveaux de [[moine]] et de [[guerrier]] quand il s’agit de remplir les conditions requises par un don. Il est aussi considéré comme un guerrier et un moine vis-à-vis des dons et des objets magiques qui fonctionnent différemment avec les personnages possédant des niveaux dans ces classes (comme [[Coup étourdissant]] et la [[robe de moine]]).
+À partir du niveau 1, le lutteur considère ses niveaux de lutteur comme des niveaux de [[moine]] et de [[guerrier]] quand il s’agit de remplir les conditions requises par un don. Il est aussi considéré comme un guerrier et un moine vis-à-vis des dons et des objets magiques qui fonctionnent différemment avec les personnages possédant des niveaux dans ces classes (comme [[Coup étourdissant]] et la [[robe de moine]]). 
 
 Cette aptitude n’offre pas les dons que les guerriers et les moines acquièrent automatiquement en fonction de leur niveau de classe, comme le Coup étourdissant.
 
 {s:reference|FLEXIBILITEMARTIALE}
 #### Flexibilité martiale (Ext)
-Le lutteur peut accomplir une [[action de mouvement]] pour profiter d’un [[Dons#COMBAT|don de combat]] qu’il ne possède pas. Cet effet dure une minute et le lutteur doit remplir les conditions requises par le don.
+Le lutteur peut accomplir une [[action de mouvement]] pour profiter d’un [[Dons#COMBAT|don de combat]] qu’il ne possède pas. Cet effet dure une minute et le lutteur doit remplir les conditions requises par le don. 
 
 Chaque jour, il peut utiliser ce pouvoir un nombre de fois égal à 3 + 1/2 niveau de lutteur (1 au minimum). Le lutteur peut utiliser de nouveau ce pouvoir avant la fin de sa durée s’il veut remplacer le don de combat choisi par un autre. Si le don de combat a un nombre d’utilisations limité (comme [[Coup étourdissant]]), à chaque fois que le lutteur utilise ce don grâce à ce pouvoir, il décompte l’utilisation de la limite quotidienne.
 
@@ -305,7 +305,7 @@ de taille P ou G</caption>
 </div></div>
 Au niveau 1, le lutteur gagne [[Science du combat à mains nues]] comme don supplémentaire. Il peut attaquer avec les poings, les coudes, les genoux et les pieds, ce qui veut dire qu’il peut attaquer à mains nues même s’il a les mains prises. Il applique la totalité de son bonus de [[Force]] (et non la moitié) aux jets de dégâts à mains nues. En général, les attaques à mains nues du lutteur infligent des dégâts létaux mais, s’il le désire, il peut infliger des dégâts non-létaux sans pour autant subir de malus au [[jet dattaque|jet d’attaque]]. De même, il peut choisir d’infliger des dégâts létaux ou non lors d’une lutte.
 
-Les attaques à mains nues du lutteur sont considérées comme portées avec des armes naturelles et manufacturées vis-à-vis des sorts qui modifient les armes naturelles ou manufacturées. Le lutteur inflige plus de dégâts à mains nues que les autres personnages, comme indiqué dans la table. Un lutteur de [[taille P]] inflige moins de dégâts que ce qui est indiqué alors qu’un lutteur de taille G en inflige plus.
+Les attaques à mains nues du lutteur sont considérées comme portées avec des armes naturelles et manufacturées vis-à-vis des sorts qui modifient les armes naturelles ou manufacturées. Le lutteur inflige plus de dégâts à mains nues que les autres personnages, comme indiqué dans la table. Un lutteur de [[taille P]] inflige moins de dégâts que ce qui est indiqué alors qu’un lutteur de taille G en inflige plus. 
 
 Consultez la table ci-contre pour de plus amples informations.
 
@@ -344,7 +344,7 @@ Au niveau 4, quand le lutteur porte une armure légère ou ne porte pas d’armu
 #### KO (Ext)
 Au niveau 4, le lutteur peut, une fois par jour, porter une attaque dévastatrice qui met immédiatement sa cible KO. Il doit annoncer son intention avant de lancer l’attaque. S’il touche et que la cible subit des dégâts suite à son coup, elle doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 niveau de lutteur + le plus élevé entre le modificateur de [[Dextérité]] ou de [[Force]] du lutteur). Si elle échoue, elle tombe [[inconscient|inconsciente]] pendant 1d6 rounds.
 
-À chaque round, la cible évanouie peut, à son tour, effectuer un nouveau [[jet de sauvegarde]] pour mettre un terme à l’effet par une [[action complexe]] qui ne provoque pas d’[[AO|attaque d’opportunité]]. Les créatures immunisées contre les [[coup critique|coups critiques]] et les dégâts non-létaux sont aussi immunisées contre cette aptitude.
+À chaque round, la cible évanouie peut, à son tour, effectuer un nouveau [[jet de sauvegarde]] pour mettre un terme à l’effet par une [[action complexe]] qui ne provoque pas d’[[AO|attaque d’opportunité]]. Les créatures immunisées contre les [[coup critique|coups critiques]] et les dégâts non-létaux sont aussi immunisées contre cette aptitude. 
 
 Au niveau 10, le lutteur peut utiliser cette aptitude deux fois par jour et trois fois au niveau 16.
 
@@ -364,7 +364,7 @@ Au niveau 5, le lutteur inflige plus de dégâts avec les armes de proximité. Q
 
 {s:reference|COUPFABULEUX}
 #### Coup fabuleux (Ext)
-Au niveau 16, le lutteur peut, par une [[action simple]], effectuer une manœuvre offensive de coup fabuleux contre une créature tangible de sa taille ou plus petite. S'il réussit son test de manœuvre, la cible subit des dégâts comme si elle avait reçu un coup de l’arme de proximité du lutteur ou de ses mains nues.
+Au niveau 16, le lutteur peut, par une [[action simple]], effectuer une manœuvre offensive de coup fabuleux contre une créature tangible de sa taille ou plus petite. S'il réussit son test de manœuvre, la cible subit des dégâts comme si elle avait reçu un coup de l’arme de proximité du lutteur ou de ses mains nues. 
 
 De plus, elle est propulsée sur 3 mètres (2 {s:c}) dans la direction choisie par le lutteur et elle tombe [[à terre]]. Le lutteur peut la déplacer en ligne droite seulement et ne peut pas la rapprocher de lui. Si un obstacle empêche la cible de terminer son déplacement, la cible et l’obstacle subissent tous deux 1d6 points de dégâts et la cible tombe à terre dans l’espace adjacent à l’obstacle (contrairement au don de monstre [[Coup fabuleux]], le lutteur peut utiliser cette aptitude quelle que soit sa taille).
 

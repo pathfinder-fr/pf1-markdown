@@ -97,7 +97,7 @@ Categories:
 
 </div></td>
 
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>*Cet humanoïde à la peau de bronze est musclé et agile. Il porte des vêtements colorés brodés de runes luisantes.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>*Cet humanoïde à la peau de bronze est musclé et agile. Il porte des vêtements colorés brodés de runes luisantes.* 
 
 Nés à partir des âmes d’auteurs, d’artistes et de conteurs, les raélis voyagent dans les régions les plus reculées des plans en quête d’histoires épiques, de poèmes ou de simples contes.
 

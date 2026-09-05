@@ -8,7 +8,7 @@ LastModified: 2024-05-25 16:29
 {s:BDTitre|Ceinture de terre élémentaire|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 24 000 po ; **Poids** 1,5 kg
 (((Description)))
-Cette ceinture est composée de plusieurs morceaux plats d’ardoise fixés les uns aux autres par de solides lanières de cuir. Cette ceinture octroie à son porteur un bonus d’altération de +4 à la [[Constitution]] et l’immunise contre les effets qui le poussent, le tirent ou le déplacent contre son gré. Ce bonus est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. Elle n’offre aucune protection contre les effets de téléportation. De plus, une fois par jour et sur commande, le porteur peut prendre la forme d’un élémentaire de terre de taille G, comme s’il était sous l’effet du sort *[[corps élémentaire III]]*.
+Cette ceinture est composée de plusieurs morceaux plats d’ardoise fixés les uns aux autres par de solides lanières de cuir. Cette ceinture octroie à son porteur un bonus d’altération de +4 à la [[Constitution]] et l’immunise contre les effets qui le poussent, le tirent ou le déplacent contre son gré. Ce bonus est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. Elle n’offre aucune protection contre les effets de téléportation. De plus, une fois par jour et sur commande, le porteur peut prendre la forme d’un élémentaire de terre de taille G, comme s’il était sous l’effet du sort *[[corps élémentaire III]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Endurance de lours|endurance de l’ours]]*, *[[corps élémentaire III]]* ; **Coût** 12 000 po
 </div>

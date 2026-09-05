@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Lunettes de médecin|{s:MCA}}
 **Aura** [[école divination|Divination]] et Invocation]] faibles ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 4 900 po ; **Poids** —
 (((Description)))
-Ces lunettes ordinaires à la monture en airain sont dotées de verres teintés en vert et sont très prisées par les médecins praticiens comme par les aventuriers.
+Ces lunettes ordinaires à la monture en airain sont dotées de verres teintés en vert et sont très prisées par les médecins praticiens comme par les aventuriers.  
 Quand le personnage les porte, elles lui permettent d’avoir constamment conscience des poisons et des maladies, comme pour les sorts *[[détection du poison]]* et *[[diagnostic]]*. Une fois par jour, sur commande, le personnage peut également toucher une seule créature afin d’utiliser *[[ralentissement du poison]]* sur elle.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection du poison]]*, *[[diagnostic]]*, *[[ralentissement du poison]]* ; **Coût** 2 450 po

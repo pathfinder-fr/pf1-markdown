@@ -9,8 +9,8 @@ Categories:
 
 Le comté d'Odranto est situé au nord de l'[[Ustalav]].
 
-Il a toujours servi de zone tampon contre les invasions des tribus kellides de la [[Numérie]] et, avant qu'il ne disparaisse, du Sarkoris. Cette position et son histoire ont incité ses gouvernants de la famille d'Odranto (dont le comte Conwrest Muralt est le descendant direct) à construire de multiples châteaux de styles architecturaux différents au fil du temps.
+Il a toujours servi de zone tampon contre les invasions des tribus kellides de la [[Numérie]] et, avant qu'il ne disparaisse, du Sarkoris. Cette position et son histoire ont incité ses gouvernants de la famille d'Odranto (dont le comte Conwrest Muralt est le descendant direct) à construire de multiples châteaux de styles architecturaux différents au fil du temps. 
 
-Aujourd'hui, certains de ces châteaux sont inhabités et tombent en ruine. Mais nombreuses sont les légendes qui disent que certaines de ces forteresses - telles la Maison Beumhal, le Territoire des Larmes Perdues ou l'infâme Château Kronquist - sont hantées
+Aujourd'hui, certains de ces châteaux sont inhabités et tombent en ruine. Mais nombreuses sont les légendes qui disent que certaines de ces forteresses - telles la Maison Beumhal, le Territoire des Larmes Perdues ou l'infâme Château Kronquist - sont hantées 
 
 On retrouve l'essentiel de la population du comté d'Odranto dans la cité d'[[Ardagh]].

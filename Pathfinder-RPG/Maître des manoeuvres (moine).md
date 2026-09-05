@@ -18,7 +18,7 @@ Au [[niveau]] 1, le maître des manœuvres peut, lors d’une [[attaque à outra
 
 
 #### Manœuvre défensive (Ext)
-Au niveau 3, si le maître des manœuvres dispose d’un don de science des manœuvres offensives, quand une créature exécute la manœuvre associée contre lui, elle déclenche une [[attaque dopportunité|attaque d’opportunité]] de sa part, même si ce ne devrait pas être le cas. Ce pouvoir remplace
+Au niveau 3, si le maître des manœuvres dispose d’un don de science des manœuvres offensives, quand une créature exécute la manœuvre associée contre lui, elle déclenche une [[attaque dopportunité|attaque d’opportunité]] de sa part, même si ce ne devrait pas être le cas. Ce pouvoir remplace 
 [[moine#SERENITE|sérénité]].
 
 #### Manœuvre fiable (Ext)

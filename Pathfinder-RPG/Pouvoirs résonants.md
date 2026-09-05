@@ -9,19 +9,19 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-Dans chaque [[guide magique]] se trouve un réseau de fils qui servent à canaliser la puissance des [[pierre ioun|pierres ioun]], permettant au possesseur d’un guide de bénéficier des pouvoirs d’une pierre sans prendre le risque de voir un objet précieux tourner autour de sa tête.
+Dans chaque [[guide magique]] se trouve un réseau de fils qui servent à canaliser la puissance des [[pierre ioun|pierres ioun]], permettant au possesseur d’un guide de bénéficier des pouvoirs d’une pierre sans prendre le risque de voir un objet précieux tourner autour de sa tête. 
 
-En outre, la magie qui imprègne le guide amplifie la puissance de la pierre ioun, généralement (dans environ 75% des cas), débloquant des nouvelles capacités en plus du pouvoir normal de la pierre. Malheureusement, l’énergie requise est telle que les propriétés magiques du guide lui-même sont détournées pour alimenter la pierre ioun, annulant temporairement les capacités normales du guide.
+En outre, la magie qui imprègne le guide amplifie la puissance de la pierre ioun, généralement (dans environ 75% des cas), débloquant des nouvelles capacités en plus du pouvoir normal de la pierre. Malheureusement, l’énergie requise est telle que les propriétés magiques du guide lui-même sont détournées pour alimenter la pierre ioun, annulant temporairement les capacités normales du guide. 
 
-Le mécanisme consistant à utiliser un guide pour amplifier la puissance d’une pierre ioun est généralement appelé augmentation, canalisation, rehaussement ou résonance.
+Le mécanisme consistant à utiliser un guide pour amplifier la puissance d’une pierre ioun est généralement appelé augmentation, canalisation, rehaussement ou résonance. 
 
-L’aura résonante d’un guide interagissant avec une pierre ioun peut être détectée et identifiée avec *[[détection de la magie]]* (ou des sorts similaires) et la compétence [[Art de la magie]], tout comme n’importe quel autre objet magique.
+L’aura résonante d’un guide interagissant avec une pierre ioun peut être détectée et identifiée avec *[[détection de la magie]]* (ou des sorts similaires) et la compétence [[Art de la magie]], tout comme n’importe quel autre objet magique. 
 
-Les auras de multiples guides utilisés comme augmentateurs ont tendance à interférer les uns avec les autres ; une personne munie d’un guide qui essaie d’en manipuler un second s’aperçoit généralement que les deux ont des ratés et cessent de fonctionner au bout de quelques secondes, mais se réactivent une fois que le second est mis à l’écart.
+Les auras de multiples guides utilisés comme augmentateurs ont tendance à interférer les uns avec les autres ; une personne munie d’un guide qui essaie d’en manipuler un second s’aperçoit généralement que les deux ont des ratés et cessent de fonctionner au bout de quelques secondes, mais se réactivent une fois que le second est mis à l’écart. 
 
-Certains guides élaborés et coûteux peuvent recevoir plus d’une seule pierre ioun à la fois et continuer de fonctionner (bien qu’un autre guide puisse interférer si on l’approche trop).
+Certains guides élaborés et coûteux peuvent recevoir plus d’une seule pierre ioun à la fois et continuer de fonctionner (bien qu’un autre guide puisse interférer si on l’approche trop). 
 
-Pour déterminer quel effet un guide a sur une pierre ioun, sélectionner une des méthodes suivantes :
+Pour déterminer quel effet un guide a sur une pierre ioun, sélectionner une des méthodes suivantes : 
 - ***Méthode 1 : L’assignation statique.*** Toutes les pierres ioun d’une couleur et d’une forme particulière réagissent exactement de la même façon à tous les guides. C’est la méthode la plus facile et la plus rapide, mais elle manque de diversité et permet aux PJ de prévoir facilement ce que feront une nouvelle pierre ou un nouvel appareil une fois qu’on les aura combinés.
 
 - ***Méthode 2 : La détermination aléatoire.*** Chaque combinaison d’une pierre ioun et d’un guide requiert un jet sur une table pour voir quel pouvoir résonant elle acquiert. Cette méthode permet une plus grande diversité, mais nécessite de tenir le compte précis du pouvoir augmenté de chaque pierre unique et empêche les PJ de prédire ce qu’une combinaison particulière, quelle qu’elle soit, pourra donner.
@@ -178,7 +178,7 @@ Les pouvoirs résonants des formes les plus communes de pierres ioun sont listé
 | 100 | Un choc en retour détruit le *guide* à moins qu’il réussisse un jet de [[Vigueur]] [[DD]] 19 ; en cas de succès, le *guide* acquiert la condition [[brisé]], le rendant non fonctionnel jusqu’à ce qu’il soit réparé. La pierre ioun demeure intacte.<sup>[[Pouvoirs résonants#2|2]]</sup> |
 
 
-<sub>{s:Reference|NOTE1}*(1) Si le pouvoir normal de la pierre donne le même genre de bonus, ces effets se cumulent. Par exemple, une [[Sphère rouge sang]] (bonus d’altération de +2 en [[Dextérité]]) qui a le pouvoir résonant de « bonus d’altération de +2 en Dextérité » procure un bonus d’amélioration de +4 en Dextérité.*
-{s:Reference|NOTE2}*(2)  Autre option possible, un guide aux emplacements multiples prévus pour accueillir des pierres ioun ne peut être endommagé qu’à un de ces emplacements, et les autres encoches à pierres ioun fonctionnent normalement.*
+<sub>{s:Reference|NOTE1}*(1) Si le pouvoir normal de la pierre donne le même genre de bonus, ces effets se cumulent. Par exemple, une [[Sphère rouge sang]] (bonus d’altération de +2 en [[Dextérité]]) qui a le pouvoir résonant de « bonus d’altération de +2 en Dextérité » procure un bonus d’amélioration de +4 en Dextérité.*  
+{s:Reference|NOTE2}*(2)  Autre option possible, un guide aux emplacements multiples prévus pour accueillir des pierres ioun ne peut être endommagé qu’à un de ces emplacements, et les autres encoches à pierres ioun fonctionnent normalement.*  
 {s:Reference|NOTE1}*(3)  Si aucune cible adéquate ne se trouve à portée, l’aiguille indique le nord comme normalement.*
 </sub>

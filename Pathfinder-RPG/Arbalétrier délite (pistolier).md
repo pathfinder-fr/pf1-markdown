@@ -41,6 +41,6 @@ Il gagne les [[exploits]] suivants qui en remplacent d’autres.
 
 #### Entraînement aux arbalètes (Ext).
 
-À partir du [[niveau]] 5, un arbalétrier d’élite peut choisir un type spécifique d’arbalète, comme l’arbalète de poing ou l’arbalète lourde. Il gagne un bonus aux jets de dégâts égal à son modificateur de [[Dextérité]] lorsqu’il tire avec ce type d’arbalète. De plus, quand il réussit un [[coup critique]] avec ce type d’arbalète, son modificateur de critique augmente de 1 (×2 devient ×3, par exemple).
+À partir du [[niveau]] 5, un arbalétrier d’élite peut choisir un type spécifique d’arbalète, comme l’arbalète de poing ou l’arbalète lourde. Il gagne un bonus aux jets de dégâts égal à son modificateur de [[Dextérité]] lorsqu’il tire avec ce type d’arbalète. De plus, quand il réussit un [[coup critique]] avec ce type d’arbalète, son modificateur de critique augmente de 1 (×2 devient ×3, par exemple). 
 
 Tous les 4 niveaux par la suite, il peut choisir un type d’arbalète différent supplémentaire pour bénéficier du bonus aux dégâts et du modificateur de critique lorsqu’il tire avec ce type d’arbalète. Cette aptitude remplace entraînement aux armes à feu.

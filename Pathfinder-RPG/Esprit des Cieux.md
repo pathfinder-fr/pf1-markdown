@@ -42,7 +42,7 @@ Un chaman qui choisit l’esprit des cieux comme esprit ou comme esprit errant d
 **Poussière stellaire (Mag).** Par une action simple, le chaman matérialise de la poussière d’étoile autour d’une créature située dans un rayon de 9 mètres (6 {s:c}). La cible émet alors autant de lumière qu’une chandelle et ne peut bénéficier d’un [[camouflage]] ni d’une invisibilité. Elle subit un malus de –1 aux [[jet dattaque|jets d’attaque]] et aux tests de [[Perception]] basés sur la vue. Ces malus augmentent de 1 au niveau 4 puis tous les quatre niveaux, jusqu’à un maximum de –6 au niveau 20. Cet effet dure un nombre de rounds égal à la moitié du niveau du chaman (1 au minimum). Ce pouvoir n’affecte pas les créatures dépourvues de vision. Chaque jour, le chaman peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Charisme]].
 
 ### Pouvoir d’esprit supérieur
-Un chaman qui choisit l’esprit des cieux comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version supérieure de l’esprit.
+Un chaman qui choisit l’esprit des cieux comme esprit ou comme esprit errant dispose du pouvoir suivant dès qu’il accède à la version supérieure de l’esprit. 
 
 **Adaptation au vide (Sur).** Le chaman gagne la [[vision dans le noir]] à 18 mètres (12 {s:c}). S’il la possède déjà, sa portée augmente de 9 mètres (6 {s:c}). De plus, le chaman voit dans les ténèbres surnaturelles, bénéficie constamment d’*[[endurance aux énergies destructives]]* et n’a plus besoin de respirer.
 

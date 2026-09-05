@@ -76,7 +76,7 @@ Les driders ont un dimorphisme sexuel assez marqué. La partie
 inférieure du corps des driders femelles est élancée et gracieuse,
 souvent semblable au corps des veuves noires, et sa partie supérieure
 conserve le torse aux courbes séduisantes et le visage élégant
-des [[Drow|drows]] (si on néglige ses crocs acérés et venimeux).
+des [[Drow|drows]] (si on néglige ses crocs acérés et venimeux). 
 
 La partie inférieure du corps des driders mâles est massive comme le corps
 d’une tarentule et sa partie supérieure est

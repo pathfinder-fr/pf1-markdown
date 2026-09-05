@@ -14,12 +14,12 @@ Categories:
 
 {s:cm}**Cette option est plus courante chez les [[Troglodyte|troglodytes]].**
 
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (une dent de lézard)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** un essaim de crocs animés
-**Durée** 1 [[round]]/[[niveau]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (une dent de lézard)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** un essaim de crocs animés  
+**Durée** 1 [[round]]/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le troglodyte invoque une nuée qui se compose de milliers de crocs volants animés couvrant un cube de 3 mètres de côté. Ces crocs attaquent toutes les créatures situées dans la zone occupée. Le troglodyte peut convoquer cette nuée de façon à ce qu’elle partage l’espace d’autres créatures et il peut la déplacer d’un maximum de 12 mètres par [[round]] par une [[action de mouvement]]. Si le troglodyte décide de ne pas déplacer la nuée, celle-ci se déplace automatiquement d’un maximum de 12 mètres pour envelopper la créature la plus proche (y compris le troglodyte) si elle ne l’a pas déjà fait.

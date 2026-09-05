@@ -20,11 +20,11 @@ Un ectoplasmiste de niveau 4 peut utiliser ses fouets comme des armes [[Caracté
 
 Le bonus d’altération des fouets d’un ectoplasmiste de niveau 6 passe à +2 et on considère qu’ils possèdent l’alignement du personnage lorsqu’il s’agit d’ignorer les éventuelles [[Réduction de dégâts (capacité)|réduction de dégâts]].
 
-Les fouets d’un ectoplasmiste de niveau 8 deviennent des armes [[Armes magiques#Spectrale|spectrales]] et leur allonge augmente de 1,50 mètre supplémentaire (pour une augmentation totale de 3 mètres). En outre, les attaques effectuées avec les fouets contre des adversaires non adjacents ne provoquent plus d’attaque d’opportunité. L’utilisation des fouets pour manipuler des objets à distance provoque toujours des attaques d’opportunité, mais uniquement si l’action entreprise par l’ectoplasmiste en provoque normalement (au lieu d’en provoquer quelle que soit l’action entreprise).
+Les fouets d’un ectoplasmiste de niveau 8 deviennent des armes [[Armes magiques#Spectrale|spectrales]] et leur allonge augmente de 1,50 mètre supplémentaire (pour une augmentation totale de 3 mètres). En outre, les attaques effectuées avec les fouets contre des adversaires non adjacents ne provoquent plus d’attaque d’opportunité. L’utilisation des fouets pour manipuler des objets à distance provoque toujours des attaques d’opportunité, mais uniquement si l’action entreprise par l’ectoplasmiste en provoque normalement (au lieu d’en provoquer quelle que soit l’action entreprise). 
 
 Le bonus d’altération des fouets d’un ectoplasmiste de niveau 10 passe à +3.
 
-Un ectoplasmiste de niveau 12 choisit une [[fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante]] (colère, désespoir, dévouement, haine, jalousie, terreur ou zèle). Ses fouets acquièrent une propriété spéciale d’arme magique comme s’ils étaient affectés par un sort de *[[lame spirituelle (sort)|lame spirituelle]]* dont l’énergie de l’[[fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante]] correspond à celle choisie par l’ectoplasmiste.
+Un ectoplasmiste de niveau 12 choisit une [[fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante]] (colère, désespoir, dévouement, haine, jalousie, terreur ou zèle). Ses fouets acquièrent une propriété spéciale d’arme magique comme s’ils étaient affectés par un sort de *[[lame spirituelle (sort)|lame spirituelle]]* dont l’énergie de l’[[fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante]] correspond à celle choisie par l’ectoplasmiste. 
 
 Le bonus d’altération des fouets d’un ectoplasmiste de niveau 14 passe à +4.
 

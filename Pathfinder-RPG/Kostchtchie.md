@@ -87,7 +87,7 @@ Kostchtchie (prononcer koch-TIC-ti-kaï) ressemble à un gigantesque géant du f
 
 Kostchtchie ne se déplace jamais sans son impressionnant marteau, une arme en adamantium d’une taille prodigieuse que même le plus fort des géants du froid aurait bien du mal à manier. Le [[Seigneurs démons|seigneur démon]] est connu comme le Froid immortel.
 
-Il réside dans une immense forteresse abyssale, creusée au coeur d’une haute montagne sise dans un royaume gelé fait de pics déchiquetés et d’immenses glaciers, infesté d’innombrables horreurs glaciales. Kostchtchie mesure neuf mètres.
+Il réside dans une immense forteresse abyssale, creusée au coeur d’une haute montagne sise dans un royaume gelé fait de pics déchiquetés et d’immenses glaciers, infesté d’innombrables horreurs glaciales. Kostchtchie mesure neuf mètres. 
 
 Kostchtchie est né de parents humains. Il est devenu un assassin lorsque son père l’a obligé à tuer sa mère et ses soeurs. Il a accompli sa tâche bien mieux que prévu en tuant également son père. Plus tard, une fois devenu un féroce seigneur de guerre connu pour avoir tué de dizaines de chefs géants, il a affronté la Reine-Sorcière Baba Yaga pour l’obliger à lui offrir l’immortalité. La sorcière a accepté mais a déformé son corps pour en faire un hideux géant. Ensuite, elle a dissimulé les derniers fragments de son âme de mortel à l’intérieur d’un torque magique. Kostchtchie s’est réfugié dans les Abysses pour attiser sa haine et cacher sa honte. Il a trouvé un nouveau sens à la vie en devenant le protecteur des géants du froid, même s’il les déteste. Il rêve de récupérer le torque qui contient les fragments de son âme mortelle, dans l’espoir qu’ils le délivrent de sa difformité sans lui retirer son immortalité.
 
@@ -95,7 +95,7 @@ Kostchtchie est né de parents humains. Il est devenu un assassin lorsque son p�
 Lorsque Kostchtchie se bat, il utilise presque toujours l’attaque en puissance, échangeant un malus de –8 aux jets d’attaque contre un bonus de +16 aux jets de dégâts. Le Froid immortel est souvent accompagné de plusieurs géants du froid dont au moins deux prêtres qui pourvoient à tous ses besoins. Ils font de leur mieux pour le soigner lors des batailles, sans quoi leur seigneur les tuera ou leur imposera un destin pire encore.
 
 ### Le culte de Kostchtchie
-Kostchtchie est vénéré chez les géants, principalement les géants du froid mais aussi chez les ettins, les géants des collines et les ogres. Quelques dragons blancs lui vouent un culte, tout comme certaines tribus humaines barbares des contrées gelées.
+Kostchtchie est vénéré chez les géants, principalement les géants du froid mais aussi chez les ettins, les géants des collines et les ogres. Quelques dragons blancs lui vouent un culte, tout comme certaines tribus humaines barbares des contrées gelées. 
 
 Il ne tolère aucune femme parmi ses fidèles et n’accordera jamais des sorts de prêtre à une femme. À son service, il a des yetis demi-fiélons, des linnorms des glaces, des rémorhazes et d’autres monstres de grande taille vivant dans les régions glacées.
 

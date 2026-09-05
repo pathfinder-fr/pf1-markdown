@@ -24,7 +24,7 @@ Investis de l’essence du plan de l’Ombre, avec un sang humain auquel se mêl
 
 **Aventuriers.** Les aléas permanents du plan de l’Ombre constituent un grand danger pour les aventuriers fetchelins, mais présentent également de grandes opportunités. Néanmoins, du fait de leur statut d’esclaves sur leur plan d’origine, la plupart d’entre eux préfèrent partir à l’aventure sur le plan Matériel qui offre souvent plus de liberté et d’opportunités d’échanges entre les deux plans. Les fetchelins font d’excellents ninjas, oracles, rôdeurs, roublards et invocateurs.
 
-**Noms masculins.** Arim, Drosil, Jégan, Somar, Yétar, Zoka.
+**Noms masculins.** Arim, Drosil, Jégan, Somar, Yétar, Zoka.  
 **Noms féminins.** Acéra, Amélisce, Inva, Renza, Zaithérin.
 
 {s:Reference|TRAITSSTANDARDS}

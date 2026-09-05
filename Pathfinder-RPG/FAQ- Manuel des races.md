@@ -43,7 +43,7 @@ La capacité <u>[[Halfelin#GUERRIERALAFRONDE|guerrier à la fronde]]</u> dit : �
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|5}
 #### --Humain : Où se trouve le sort *pure strain* du lignage d'ensorceleur impérieux ?
-Le sort *pure strain* a été abandonné lors du développement mais son nom n'a pas été retiré de la liste des <u>[[Lignage Impérieux|sorts bonus]]</u>. Remplacez *pure strain* par *[[champ de force]]*.
+Le sort *pure strain* a été abandonné lors du développement mais son nom n'a pas été retiré de la liste des <u>[[Lignage Impérieux|sorts bonus]]</u>. Remplacez *pure strain* par *[[champ de force]]*.  
 Cela a été noté pour une future réimpression du *Manuel des races*.-- Les textes ont été corrigés sur ce point.
 
 

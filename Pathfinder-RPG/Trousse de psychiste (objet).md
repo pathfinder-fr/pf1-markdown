@@ -7,7 +7,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**Prix** 35 po ; **Poids** 13,5 kg
+{s:AO}**Prix** 35 po ; **Poids** 13,5 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], un [[Cristal prismatique (objet)|cristal prismatique]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

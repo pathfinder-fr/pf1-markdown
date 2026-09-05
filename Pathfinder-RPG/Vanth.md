@@ -42,14 +42,14 @@ LastModified: 2021-07-15 17:27
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*Ce squelette humanoïde est doté d’une paire d’ailes de corbeau noires et d’une longue queue, et il porte un masque lustré de vautour à la place du visage.*
 
-Austères, silencieux et enveloppés de leurs ailes noires déchiquetées, les psychopompes vanths sont les gardiens stoïques du Purgatoire et les surveillants des itinéraires empruntés par les morts. Le vanth ressemble à un squelette noir doté d’ailes semblables à celles d’un corbeau et portant le masque d’un crâne de vautour.
+Austères, silencieux et enveloppés de leurs ailes noires déchiquetées, les psychopompes vanths sont les gardiens stoïques du Purgatoire et les surveillants des itinéraires empruntés par les morts. Le vanth ressemble à un squelette noir doté d’ailes semblables à celles d’un corbeau et portant le masque d’un crâne de vautour. 
 
 Également appelés faucheurs, anges de la mort ou amzraneïs, les vanths protègent les défunts de ceux qui cherchent à dévorer ou à enlever leur âme de mortel.
-Ils rattrapent les âmes échappées qui tentent de fuir le destin qui leur a été assigné.
+Ils rattrapent les âmes échappées qui tentent de fuir le destin qui leur a été assigné. 
 
 Ce sont des soldats de la mort qui affrontent tout ce qui est susceptible de perturber le cycle naturel de la mortalité. Ils surveillent également les défunts et les biens de la mort, tels que les cimetières oubliés, les mausolées abandonnés et les clairières sacrées.
 
-Le vanth pèse 200 kilogrammes et mesure 2,40 mètres mais, comme il est tout voûté, il peut regarder la plupart des humanoïdes adultes dans les yeux. Les vanths sont d’antiques créatures et leur existence est probablement antérieure à celle des dieux actuels de la mort. Selon certaines rumeurs, ils auraient été créés à partir des âmes supérieures de soldats originaires d’un monde lointain qui vénéraient la mort. Ils parlent peu et montrent rarement leurs émotions. Leur voix caverneuse porte anormalement loin.
+Le vanth pèse 200 kilogrammes et mesure 2,40 mètres mais, comme il est tout voûté, il peut regarder la plupart des humanoïdes adultes dans les yeux. Les vanths sont d’antiques créatures et leur existence est probablement antérieure à celle des dieux actuels de la mort. Selon certaines rumeurs, ils auraient été créés à partir des âmes supérieures de soldats originaires d’un monde lointain qui vénéraient la mort. Ils parlent peu et montrent rarement leurs émotions. Leur voix caverneuse porte anormalement loin. 
 
 La faux du vanth est un symbole de son statut et représente son rôle de faucheur d’âmes. Ces faux sont couvertes de runes écrites dans un langage que l’on avait déjà oublié quand les dieux de la mort firent du Purgatoire leur domaine.
 

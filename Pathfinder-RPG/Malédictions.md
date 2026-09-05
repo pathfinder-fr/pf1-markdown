@@ -7,7 +7,7 @@ LastModified: 2021-07-25 16:50
 {s:Desambi|Malédiction est également le nom d'un [[sort Malédiction|sort]]. Voir aussi la [[Malédiction (capacité)|capacité de monstre]] de même nom.}
 Des voleurs insouciants pillant une tombe, des aventuriers ivres insultant un puissant magicien, des explorateurs téméraires mettant la main sur d’antiques épées, tous peuvent subir une malédiction. Ces afflictions magiques ont des effets variés, d’un simple malus sur certains jets à une transformation en crapaud de l’infortuné. Certaines peuvent même provoquer la décomposition de la victime, qui ne laissera derrière elle qu’un peu de poussière.
 
-La plupart du temps, les malédictions ne s’effacent pas avec quelques [[jet de sauvegarde|jets de sauvegarde]]. Seule la magie peut les guérir, à l’aide de sorts comme *[[délivrance des malédictions]]* et *[[annulation denchantement|annulation d’enchantement]]*.
+La plupart du temps, les malédictions ne s’effacent pas avec quelques [[jet de sauvegarde|jets de sauvegarde]]. Seule la magie peut les guérir, à l’aide de sorts comme *[[délivrance des malédictions]]* et *[[annulation denchantement|annulation d’enchantement]]*. 
 
 Alors que certaines détériorent lentement leur victime, d’autres infligent un malus fixe à partir du moment où on les contracte, un malus qui s’atténuera ni ne grandira. Il existe également des objets magiques dont les effets sont similaires à ceux d’une malédiction (voir [[objets maudits]]).
 

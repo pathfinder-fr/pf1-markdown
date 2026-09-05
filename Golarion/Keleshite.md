@@ -12,17 +12,17 @@ L’adage dit – *Un keleshite vous surprendra toujours*. Ils favorisent consta
 
 A l’est, les Sultanats de Diamant du Casmaron Intérieur s’étendent sur d’immenses territoires, presque tous régis par des Keleshites. Célèbres pour leur décadence, ces royaumes représentent parfaitement l’amour du luxe qui anime ce peuple – on retrouve par ailleurs des extravagances semblables dans les contrées de [[Qadira]] et [[Katapesh]].
 
-Beaucoup de Keleshites prétendent que leurs ancêtres faisaient partie des premiers humains à apprendre l’agriculture, obtenant ce concept grâce à des génies ou à travers des accords passés avec de puissants dragons bleus. Aucune de ces deux espèces ne nient ces affirmations ; ils sont même flattés et s’enorgueillissent de ce mensonge.
+Beaucoup de Keleshites prétendent que leurs ancêtres faisaient partie des premiers humains à apprendre l’agriculture, obtenant ce concept grâce à des génies ou à travers des accords passés avec de puissants dragons bleus. Aucune de ces deux espèces ne nient ces affirmations ; ils sont même flattés et s’enorgueillissent de ce mensonge. 
 
 ### Marchands esclavagistes
 
-Les Keleshites utilisent des filets barbelés, des drogues ou des bolas pour capturer leurs futurs esclaves ; une fois attrapées leurs victimes sont maîtrisées à l’aide de magie ou de menottes pour être ensuite vendues au Grand Marché de [[Katheer]] ou sur des galères. Ces prisonniers n’ont le droit de porter que des habits rudimentaires comme des pagnes ou d’autres haillons.
+Les Keleshites utilisent des filets barbelés, des drogues ou des bolas pour capturer leurs futurs esclaves ; une fois attrapées leurs victimes sont maîtrisées à l’aide de magie ou de menottes pour être ensuite vendues au Grand Marché de [[Katheer]] ou sur des galères. Ces prisonniers n’ont le droit de porter que des habits rudimentaires comme des pagnes ou d’autres haillons. 
 
-Les marins keleshites sont chose commune dans la Mer Intérieure, leur réseau maritime s’étendant jusqu’aux lointaines Terres des Rois des Linnorms : ils sont à la fois vu comme un bon présage et des porteurs de richesse mais également détestés en tant qu’esclavagistes. Leur code vestimentaire va des tenues sophistiquées en soie aux robes confortables de lin ou de coton. Ces habits sont généralement accompagnés de couvre-chef comme des voiles ou des turbans afin de retenir le sable et de se couvrir du soleil.
+Les marins keleshites sont chose commune dans la Mer Intérieure, leur réseau maritime s’étendant jusqu’aux lointaines Terres des Rois des Linnorms : ils sont à la fois vu comme un bon présage et des porteurs de richesse mais également détestés en tant qu’esclavagistes. Leur code vestimentaire va des tenues sophistiquées en soie aux robes confortables de lin ou de coton. Ces habits sont généralement accompagnés de couvre-chef comme des voiles ou des turbans afin de retenir le sable et de se couvrir du soleil. 
 
 ### La brutalité raffinée
 
-Les derviches – des soldats gracieux à la fois guerriers et danseurs – sont le symbole le plus rependu de la tradition militaire keleshite. Ils revêtent généralement des kilts qui tournoient autour d’eux dans un tourbillon de couleur. Présents dans tout l’Empire Kelesh et ses stratapies, ces individus se voient attribuer des traitements de faveur et se considère souvent au dessus de la loi.
+Les derviches – des soldats gracieux à la fois guerriers et danseurs – sont le symbole le plus rependu de la tradition militaire keleshite. Ils revêtent généralement des kilts qui tournoient autour d’eux dans un tourbillon de couleur. Présents dans tout l’Empire Kelesh et ses stratapies, ces individus se voient attribuer des traitements de faveur et se considère souvent au dessus de la loi. 
 
 La religion majoritaire keleshite est le culte de Sarenrae, la déesse du soleil. Suivant ses ordres d’un fanatisme zélé, ce peuple s’heurte souvent au caractère lunatique de cette divinité : promettant à qui le veut pardon et rédemption tout en encourageant l’application d’une justice expéditive à l’encontre des coupables présumés. Une séparation, voire un réel schisme, a alors eu lieu entre ceux qui utilisent leur foi comme un prétexte pour faire condamner des innocents et ceux qui croient réellement en les enseignements de Sarenrae.
 

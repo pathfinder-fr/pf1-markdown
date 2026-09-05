@@ -20,7 +20,7 @@ Le prestidigitateur maîtrise les types de [[représentation bardique]] suivants
 - *Maîtrise de la métamagie (Ext).* Au niveau 14, le prestidigitateur peut appliquer les effets d’un [[don de métamagie]] à un sort qu’il est sur le point de lancer, sans rallonger le temps d’incantation. Le barde doit toujours y consacrer un [[emplacement de sort]] de niveau supérieur. La représentation cesse immédiatement. Cette aptitude dépendant du langage utilise une composante verbale et remplace [[Représentations#Mélodie_effrayante_Mag_9|mélodie effrayante]]. 
 
 #### Talent magique (Ext)
-Un prestidigitateur gagne un bonus égal à la moitié de son niveau de barde sur les tests d’[[Art de la magie]], de [[Connaissances]] (mystères) et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]]. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]].
+Un prestidigitateur gagne un bonus égal à la moitié de son niveau de barde sur les tests d’[[Art de la magie]], de [[Connaissances]] (mystères) et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]]. Cette aptitude remplace [[barde#Savoir_bardique_Ext_2|savoir bardique]]. 
 
 #### Science du contresort
 Le prestidigitateur gagne le don [[Science du contresort]] en bonus à la place de l’aptitude de classe [[Représentations#Contre-chant_Sur_0|contrechant]].
@@ -33,7 +33,7 @@ Au niveau 2 et par une [[action rapide]], un prestidigitateur peut étendre la d
 Au niveau 2 et tous les quatre niveaux au-delà, un prestidigitateur peut choisir un nouveau sort parmi ceux disponibles pour n’importe quelle classe de jeteur de sort profane, et l’ajouter à la liste de ceux qu’il connait. Le sortilège doit être d’un niveau accessible. Cette aptitude remplace [[barde#Versatilité_artistique_Ext_5|versatilité artistique]].
 
 #### Pacte magique (Ext)
-Au niveau 5, le prestidigitateur gagne l’aptitude de magicien [[magicien#PACTEMAGIQUE|pacte magique]]. Il ne peut choisir ni un familier, ni une arme comme objet fétiche. Cette aptitude remplace [[barde#Maître_du_savoir_Ext_7|maître du savoir]].
+Au niveau 5, le prestidigitateur gagne l’aptitude de magicien [[magicien#PACTEMAGIQUE|pacte magique]]. Il ne peut choisir ni un familier, ni une arme comme objet fétiche. Cette aptitude remplace [[barde#Maître_du_savoir_Ext_7|maître du savoir]]. 
 
 #### Maîtrise des baguettes (Ext)
 Au niveau 10 et lorsqu’il utilise une baguette contenant un sort présent sur sa liste, le [[DD]] du [[jet de sauvegarde]] sera calculé en tenant compte du modificateur de [[Charisme]] du barde. Au niveau 16, il utilisera son [[NLS]] à la place de celui de la baguette. Cette aptitude remplace [[barde#Touche-à-tout_Ext_8|touche à tout]].

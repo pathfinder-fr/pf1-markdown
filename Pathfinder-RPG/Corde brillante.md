@@ -8,12 +8,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Magus]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une petite et fine chaîne en argent d’une valeur de 100 po)
-**Portée** 9 m
-**Cible** une créature
-**Durée** 1 round/niveau ou instantanée (voir description)
+{s:MMI}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Magus]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une petite et fine chaîne en argent d’une valeur de 100 po)  
+**Portée** 9 m  
+**Cible** une créature  
+**Durée** 1 round/niveau ou instantanée (voir description)  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Vigueur, partiel]] (voir description) ; **Résistance à la magie** oui
 
 Quand il lance ce sort, le personnage effectue une [[contact|attaque de contact]] à distance contre un unique adversaire situé à 9 mètres ou moins. S’il touche, une fine corde d’argent s’étend depuis son corps jusqu’à celui de la créature touchée et forme une connexion qui lui permet d’anticiper les actions de cette créature. Pendant toute la durée du sort, il bénéficie d’un bonus d’intuition de +5 aux tests de [[Perception]] et de [[Psychologie]] opposés à ceux de la cible. Il gagne également un bonus d’intuition de +5 aux tests d’[[Art de la magie]] effectués pour identifier les sorts qu’elle lance dans le but de le [[contresort|contrer]]. Enfin, le personnage gagne un bonus d’esquive de +2 à sa [[CA]] contre les attaques de la cible à son encontre.

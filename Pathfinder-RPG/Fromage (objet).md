@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Le prix est indiqué pour un gros morceau de fromage en meule. Les meules de 2,5 kg ou de 5 kg de fromage vieilli ont une croûte épaisse permettant de conserver la fraîcheur du produit.

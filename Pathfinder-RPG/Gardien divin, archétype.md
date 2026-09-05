@@ -9,7 +9,7 @@ LastModified: 2019-01-29 16:46
 {s:BDTitre|Création d'un gardien divin|FP +1}
 {s:BDTexte|*Source : Bestiaire 4 page 130*}
 
-« Gardien divin » est un archétype acquis que l’on peut ajouter à n’importe quelle créature (que nous appellerons créature de base). Le gardien conserve le profil et les pouvoirs de cette créature, à l’exception des éléments suivants.
+« Gardien divin » est un archétype acquis que l’on peut ajouter à n’importe quelle créature (que nous appellerons créature de base). Le gardien conserve le profil et les pouvoirs de cette créature, à l’exception des éléments suivants. 
 
 - **FP.** Comme la créature de base +1.
 - **Alignement.** En général, l’alignement du gardien divin correspond à celui du dieu qui lui a confié ses pouvoirs. Il arrive pourtant qu’un dieu punisse un fidèle égaré ou un ennemi de sa religion en le transformant en gardien divin.
@@ -50,7 +50,7 @@ Si le gardien divin sort de la zone qui constitue le site sacré, il perd imméd
 
 </div>
 </td><td><div>
-Un gardien divin est une créature que les dieux ont choisie pour veiller sur un site sacré. Jouissant (ou souffrant diraient certains) du don de vie éternelle, le gardien divin passe des siècles au service de son dieu, à protéger inlassablement le site qui lui a été confié contre tous ceux qui voudraient le profaner.
+Un gardien divin est une créature que les dieux ont choisie pour veiller sur un site sacré. Jouissant (ou souffrant diraient certains) du don de vie éternelle, le gardien divin passe des siècles au service de son dieu, à protéger inlassablement le site qui lui a été confié contre tous ceux qui voudraient le profaner. 
 
 En général, ces gardiens ont une allure plus majestueuse que celle de leurs frères mortels, afin de les différencier des membres ordinaires de leur espèce. Le gardien divin entretient un lien spirituel avec le site qu’il doit garder pour l’éternité. Tant qu’il y demeure, il ne ressent pas les effets de la faim, de la soif, de la maladie ni même de l’âge. En son sein, il possède de nombreux pouvoirs qui lui permettent de le protéger contre les intrus mais il ne peut pas quitter les lieux, sans quoi le fardeau des années passées le rattrapera. Il doit choisir entre la puissance et le prestige qu’apportent ses éternelles responsabilités et la liberté que la mort apporte invariablement.
 
@@ -58,7 +58,7 @@ La plupart des gardiens divins ont choisi de servir leur dieu pour l’éternit�
 
 L’hydre gardienne divine présentée ici est conçue à partir de l’[[hydre]] du Bestiaire Pathfinder JdR. Consultez la page 186 du Bestiaire pour connaître les traits des hydres et leur pouvoir de régénération de têtes. Cette hydre est le gardien divin du dieu de la nature et du climat, ce qui lui donne les sous-types air et eau.
 
-Voir l'exemple [[hydre gardienne divine]]
+Voir l'exemple [[hydre gardienne divine]] 
 
 
 </div></td></tr></table>

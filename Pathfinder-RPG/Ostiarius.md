@@ -50,7 +50,7 @@ Une créature vivante qui n’est pas un extérieur et qui bénéficie des effet
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>*Vêtue de vêtements sombres, chaque courbe, chaque muscle sculpté du corps de cette créature suggère un nouveau plaisir haletant ou une nouvelle torture émoustillante.*
 
 Les ostiarius gardent le passage entre le monde des mortels et les plaisirs du plan de l’Ombre. Leur mission est double : ils
-doivent accueillir leurs frères et soeurs sur le plan Matériel et, de manière plus insidieuse, convaincre les mortels de volontairement les accompagner sur leur monde natal plongé dans l’ombre. Ce sont les émissaires de leur race, incitant les mortels impressionnables à abandonner leurs philosophies éculées pour embrasser le potentiel d’un royaume de ténèbres insondables.
+doivent accueillir leurs frères et soeurs sur le plan Matériel et, de manière plus insidieuse, convaincre les mortels de volontairement les accompagner sur leur monde natal plongé dans l’ombre. Ce sont les émissaires de leur race, incitant les mortels impressionnables à abandonner leurs philosophies éculées pour embrasser le potentiel d’un royaume de ténèbres insondables. 
 
 La plupart des ostiarius  dépassent fièrement les 1,80 mètre de hauteur, et leur poids peut varier de la maigreur extrême à la véritable obésité.
 </div></td></tr></table>

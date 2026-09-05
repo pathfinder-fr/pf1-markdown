@@ -19,8 +19,8 @@ L'Homme fort|%2fPCUP%2fReligion-PNG%2fKurgess.png|[[Divinités#AUTRES|Autres div
 Kurgess pense que la compétition est saine, que l'esprit sportif est essentiel et que la tricherie est un signe de mauvaise moralité. Il encourage les mortels à se surpasser pour relever des défis et se fixer des objectifs toujours plus ambitieux.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Repli expéditif]]* peut être préparé comme un sort du 1er niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Repli expéditif]]* peut être préparé comme un sort du 1er niveau.  
 • *[[Saut]]* peut être préparé comme un sort du 1er niveau.
 
 ### Options de personnage thématiques

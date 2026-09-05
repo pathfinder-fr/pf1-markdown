@@ -11,7 +11,7 @@ LastModified: 2024-08-29 15:34
 ### Amélioration des créatures convoquées (Augment Summoning)
 **Q : Si j'écris un [[parchemins magiques|parchemin]] de *[[convocation de monstres]]*, puis que je lance le sort grâce à ce [[parchemins magiques|parchemin]], est-ce que les créatures convoquées bénéficient de ce don, ou n'affecte t-il que les sorts que je lance directement ?**
 
-R : (Jason Bulmahn) Le don [[Amélioration des créatures convoquées]] affecte les créatures convoquées à l'aide d'un [[parchemins magiques|parchemin]]. Référez-vous au paragraphe "[[Parchemins magiques#DETERMINEREFFET|Déterminer l'effet]]" dans la description des [[parchemins magiques|parchemins]]. "*Un sort lancé à partir d'un [[parchemins magiques|parchemin]] fonctionne exactement comme un sort préparé et lancé normalement.*"
+R : (Jason Bulmahn) Le don [[Amélioration des créatures convoquées]] affecte les créatures convoquées à l'aide d'un [[parchemins magiques|parchemin]]. Référez-vous au paragraphe "[[Parchemins magiques#DETERMINEREFFET|Déterminer l'effet]]" dans la description des [[parchemins magiques|parchemins]]. "*Un sort lancé à partir d'un [[parchemins magiques|parchemin]] fonctionne exactement comme un sort préparé et lancé normalement.*" 
 
 {s:Reference|FAQDONSATTAQUEECLAIRE}
 ### Attaque éclair
@@ -70,7 +70,7 @@ Notez que cela ne vous donne pas deux [[canalisation|canalisations]] supplément
 ### Démonstration (Dazzling Display)
 **Q : Quelle est la différence entre [[Démonstration]] et l'option "[[intimidation|démoraliser un ennemi]]" dans la compétence [[Intimidation]] ? Il semble que les deux affectent tous les opposants dans un rayon de 9 m (6 {s:c}). Est-ce que "démoraliser un adversaire" n'en affecte qu'un ?**
 
-R : Dans la compétence [[Intimidation]], il est dit : "*En cas de réussite, la cible est [[secoué|secouée]] pendant 1 round.*" Cela veut donc dire que cela affecte une seule cible, alors que le don [[Démonstration]] lui affecte toutes les cibles dans un rayon de 9 m (6 {s:c}).
+R : Dans la compétence [[Intimidation]], il est dit : "*En cas de réussite, la cible est [[secoué|secouée]] pendant 1 round.*" Cela veut donc dire que cela affecte une seule cible, alors que le don [[Démonstration]] lui affecte toutes les cibles dans un rayon de 9 m (6 {s:c}). 
 
 {s:Reference|FAQDONSMETAMAGIE}
 ### Dons de Métamagie
@@ -108,7 +108,7 @@ Cela signifie qu'un [[ensorceleur]] pourrait [[incantation rapide|incanter rapid
 ### Enchaînement (Cleave) et Succession d'enchaînements (Great Cleave)
 **Q : À la fin de la description de ce don, on constate que son utilisation fait subir au personnage un malus de -2 à la [[CA]] jusqu'à son prochain tour. À la fin de la description de [[Succession denchaînements|Succession d'enchaînements]], on peut voir la même chose. Est-ce que ces malus s'additionnent ?**
 
-R : (James Jacobs 14/05/10) Vous ne pourriez utiliser [[Enchaînement]] et [[Succession denchaînements|Succession d'enchaînements]] simultanément car il faut pour chacun de ces deux dons une [[action simple]] pour pouvoir les activer. En fait, une fois que vous possédez le don [[Succession denchaînements|Succession d'enchaînements]], vous n'avez plus besoin du don [[Enchaînement]] car le don [[Succession denchaînements|Succession d'enchaînements]] fait la même chose mais en mieux. Donc vous ne subissez que le malus de celui-ci.
+R : (James Jacobs 14/05/10) Vous ne pourriez utiliser [[Enchaînement]] et [[Succession denchaînements|Succession d'enchaînements]] simultanément car il faut pour chacun de ces deux dons une [[action simple]] pour pouvoir les activer. En fait, une fois que vous possédez le don [[Succession denchaînements|Succession d'enchaînements]], vous n'avez plus besoin du don [[Enchaînement]] car le don [[Succession denchaînements|Succession d'enchaînements]] fait la même chose mais en mieux. Donc vous ne subissez que le malus de celui-ci. 
 
 **Q : Est-ce que je dois déclarer l'utilisation du don [[Enchaînement]] avant d'attaquer ?**
 
@@ -130,13 +130,13 @@ R : (Sean K. Reynolds - 15/02/2012) Non. Si votre attaque touche le lanceur de s
 ### Éventration à deux armes (Two-Weapon Rend)
 **Q : Alors, si un personnage peut faire plusieurs attaques grâce à [[Science du combat à deux armes]] et un haut [[BBA]], n'importe lesquelles de ses attaques peuvent occasionner une [[Éventration à deux armes|éventration]] tant qu'elles sont consécutives ?**
 
-R : (James Jacobs 01/05/10) Elles doivent juste avoir lieu dans le même round ; elles n'ont pas besoin d'être consécutives. Vous avez juste besoin de toucher une fois avec l'arme primaire et une fois avec l'arme secondaire. Qu'importe l'attaque, tant que chacune de ces armes touche. Et n'oubliez pas la dernière ligne dans la description de ce don : "*Le personnage ne peut faire de tels dégâts qu'une fois par round.*"
+R : (James Jacobs 01/05/10) Elles doivent juste avoir lieu dans le même round ; elles n'ont pas besoin d'être consécutives. Vous avez juste besoin de toucher une fois avec l'arme primaire et une fois avec l'arme secondaire. Qu'importe l'attaque, tant que chacune de ces armes touche. Et n'oubliez pas la dernière ligne dans la description de ce don : "*Le personnage ne peut faire de tels dégâts qu'une fois par round.*" 
 
 {s:Reference|FAQDONSEXPLOSIONARCANIQUE}
 ### Explosion arcanique (Arcane Blast) et Bouclier arcanique (Arcane Shield)
-**Q : Pour les dons *Explosion arcanique* et *Bouclier arcanique* (issus de l'APG), est-ce que leurs effets sont considérés comme des [[capacités spéciales#TYPES|pouvoirs surnaturels, magiques]] ou encore autre chose ?**
+**Q : Pour les dons *Explosion arcanique* et *Bouclier arcanique* (issus de l'APG), est-ce que leurs effets sont considérés comme des [[capacités spéciales#TYPES|pouvoirs surnaturels, magiques]] ou encore autre chose ?** 
 
-R : (James Jacobs 29/08/10) Ils sont considérés comme des [[capacités spéciales#TYPES|pouvoirs surnaturels]]. Car s'ils étaient des [[capacités spéciales#TYPES|pouvoirs magiques]], ils auraient un [[NLS|niveau de lanceur]] de sort associé pour permettre, entre autres choses, une *[[dissipation de la magie]]*.
+R : (James Jacobs 29/08/10) Ils sont considérés comme des [[capacités spéciales#TYPES|pouvoirs surnaturels]]. Car s'ils étaient des [[capacités spéciales#TYPES|pouvoirs magiques]], ils auraient un [[NLS|niveau de lanceur]] de sort associé pour permettre, entre autres choses, une *[[dissipation de la magie]]*. 
 
 {s:Reference|FAQDONSFRAPPEDECISIVE}
 ### Frappe décisive (Vital Strike)
@@ -151,31 +151,31 @@ R : (James Jacobs 07/03/10) [[Attaque éclair]] vous permet de faire une seule a
 1. Avancer sur l'ennemi, le frapper et faire des dommages supplémentaires ([[Frappe décisive]]).
 
 Un [[MJ]] généreux vous permettra de mixer un ou plusieurs de ces dons voir même de les utiliser tous en même temps...
-mais ce n'est aucunement l'intention des règles. Ces dons existent pour vous donner plusieurs choix possibles, et ils vous donnent des avantages spécifiques suivant ce que vous voulez faire (frapper et vous écarter, frapper plusieurs ennemis ou faire beaucoup de dommages à un ennemi).
+mais ce n'est aucunement l'intention des règles. Ces dons existent pour vous donner plusieurs choix possibles, et ils vous donnent des avantages spécifiques suivant ce que vous voulez faire (frapper et vous écarter, frapper plusieurs ennemis ou faire beaucoup de dommages à un ennemi). 
 
 **Q : Mais dans l'AP#30 (page 42), il est indiqué que la tactique favorite de Sharx Veskandi est l'utilisation combinée de [[Frappe décisive]] et d'[[Attaque éclair]].**
 
-A : (James Jacobs 07/03/10) Car c'est une bonne tactique. Et parce que quand je crée une aventure, j'y vais à l'instinct plutôt que regarder minutieusement toutes les règles... car c'est le seul moyen de rester dans les délais pour une sortie mensuelle. De plus, comme je l'ai mentionné ci-dessus, combiner [[Attaque éclair]] et [[Frappe décisive]] c'est cool. Comme vous avez trouvé un précédent qui indique que ces deux dons marchent ensemble dans une de nos productions, que cela en soit ainsi ! Les dons [[Frappe décisive]] et [[Attaque éclair]] étaient faits pour être combinés, après tout.
+A : (James Jacobs 07/03/10) Car c'est une bonne tactique. Et parce que quand je crée une aventure, j'y vais à l'instinct plutôt que regarder minutieusement toutes les règles... car c'est le seul moyen de rester dans les délais pour une sortie mensuelle. De plus, comme je l'ai mentionné ci-dessus, combiner [[Attaque éclair]] et [[Frappe décisive]] c'est cool. Comme vous avez trouvé un précédent qui indique que ces deux dons marchent ensemble dans une de nos productions, que cela en soit ainsi ! Les dons [[Frappe décisive]] et [[Attaque éclair]] étaient faits pour être combinés, après tout.  
 
 **Q : Quel type d'action ([[action simple|simple]], [[action complexe|complexe]], [[action de mouvement|de mouvement]], [[action rapide|rapide]], [[action libre|libre]]) est utilisé pour [[Frappe décisive]] ?**
 
-R : (Jason Bulmahn) [[Frappe décisive]] est une action d'attaque, donc c'est une [[action simple]].
+R : (Jason Bulmahn) [[Frappe décisive]] est une action d'attaque, donc c'est une [[action simple]]. 
 
-*Note :* Une action d'attaque est un des types d'actions indiqués dans les [[action simple|actions simples]] page 182 ou dans la [[Types dactions#SIMPLE|liste des actions simples]]. C'est une [[action simple]] possible parmi : Activer un objet magique, lancer un sort, se mettre en défense totale, ou utiliser une capacité spéciale.
+*Note :* Une action d'attaque est un des types d'actions indiqués dans les [[action simple|actions simples]] page 182 ou dans la [[Types dactions#SIMPLE|liste des actions simples]]. C'est une [[action simple]] possible parmi : Activer un objet magique, lancer un sort, se mettre en défense totale, ou utiliser une capacité spéciale. 
 
 **Q : Peut-on [[charge|charger]] et utiliser [[Frappe décisive]] ?**
 
-A : (Jason Bulmahn) La [[charge]] est une [[action complexe]] spéciale (en excluant les charges partielles). Vous ne pouvez pas combiner une [[charge]] et [[Frappe décisive]].
+A : (Jason Bulmahn) La [[charge]] est une [[action complexe]] spéciale (en excluant les charges partielles). Vous ne pouvez pas combiner une [[charge]] et [[Frappe décisive]]. 
 
 **Q : Est-ce que [[Frappe décisive]] affecte les sorts de dommage au contact (Par exemple, *[[contact glacial]]* et *[[blessure légère]]*) ?**
 
-R : (James Jacobs 05/11/09) [[Frappe décisive]] ne vous permet pas de faire plus de dommages avec des sorts à moins qu'ils fonctionnent comme des armes. Vous pouvez l'utiliser avec une *[[lame de feu]]*, mais pas avec un *[[rayon ardent]]*.
+R : (James Jacobs 05/11/09) [[Frappe décisive]] ne vous permet pas de faire plus de dommages avec des sorts à moins qu'ils fonctionnent comme des armes. Vous pouvez l'utiliser avec une *[[lame de feu]]*, mais pas avec un *[[rayon ardent]]*. 
 
 R : (James Jacobs 06/11/09) Le rôle de [[Frappe décisive]] n'a jamais été de permettre aux lanceurs de sort de doubler leurs dés de dommage, et nous l'indiquerons dans une prochaine FAQ pour bien insister que ce n'est pas son rôle.
 
 **Q : Si j'ai un critique avec une grande hache (1d12+6) en ayant utilisé [[Frappe décisive]], combien je fais de dommage ?**
 
-R : 4d12+18. (1d12+6)x3 dû au critique plus 1d12 dû à [[Frappe décisive]].
+R : 4d12+18. (1d12+6)x3 dû au critique plus 1d12 dû à [[Frappe décisive]]. 
 
 **Q : Peut-on utiliser [[Frappe décisive]] avec un arc ou une arme de jet ?**
 
@@ -183,15 +183,15 @@ R : Rien n'indique le contraire donc c'est possible.
 
 **Q : Peut-on combiner [[Enchaînement]] et [[Frappe décisive]] ?**
 
-R : Ces deux dons requièrent une [[action simple]] et comme vous n'en avez qu'une par round, vous ne pouvez pas combiner ces deux dons.
+R : Ces deux dons requièrent une [[action simple]] et comme vous n'en avez qu'une par round, vous ne pouvez pas combiner ces deux dons. 
 
-**Q : Dans la description de [[Frappe mortelle]], il est indiqué qu'on double les dommages normaux avec une exception en cas de critique "Les dommages additionnels et le [[saignement]] ne sont pas multipliés en cas de critique". Est-ce que les dés additionnels dus à [[Frappe décisive]] sont aussi doublés ?**
+**Q : Dans la description de [[Frappe mortelle]], il est indiqué qu'on double les dommages normaux avec une exception en cas de critique "Les dommages additionnels et le [[saignement]] ne sont pas multipliés en cas de critique". Est-ce que les dés additionnels dus à [[Frappe décisive]] sont aussi doublés ?** 
 
 R : Vous ne pouvez combiner [[Frappe mortelle]] et [[Frappe décisive]] car les deux demandent une [[action simple]] pour les utiliser. Et comme vous n'avez qu'une [[action simple]] par round, cela ne marche pas.
 
 **Q : Donc au sixième niveau et en utilisant une *épée longue +2*, une [[Attaque en puissance]] (-2 pour toucher, +4 aux dommages) et ayant 16 en [[Force]], si j'utilisais le don [[Frappe décisive]], mes dommages seraient-ils 2d8, +2 de l'arme, +4 de l'[[Attaque en puissance]] et +3 de la [[Force]] ou 2d8 +4 de l'arme, +8 de l'[[Attaque en puissance]] et +3 de la [[Force]] ? Et ensuite quels seraient les dommages en cas de critique ?**
 
-R : (Jason Bulmahn) Le seul moyen de résoudre cela est... de lancer seulement les dés de dommage deux fois. Tout le reste est normal. Si vous faites un critique, ajoutez les dommages du critique normalement puis lancez les dommages de base de l'arme encore et ajoutez tout cela. Donc, dans votre exemple, le personnage lancerait 1d8+5 pour une attaque normale, 1d8+9 avec [[Attaque en puissance]] et 2d8+9 avec [[Attaque en puissance]] et [[Frappe décisive]]. Sur un critique avec [[Frappe décisive]], il lancerait 3d8+10 pour une attaque normale, 3d8+18 en utilisant [[Attaque en puissance]].
+R : (Jason Bulmahn) Le seul moyen de résoudre cela est... de lancer seulement les dés de dommage deux fois. Tout le reste est normal. Si vous faites un critique, ajoutez les dommages du critique normalement puis lancez les dommages de base de l'arme encore et ajoutez tout cela. Donc, dans votre exemple, le personnage lancerait 1d8+5 pour une attaque normale, 1d8+9 avec [[Attaque en puissance]] et 2d8+9 avec [[Attaque en puissance]] et [[Frappe décisive]]. Sur un critique avec [[Frappe décisive]], il lancerait 3d8+10 pour une attaque normale, 3d8+18 en utilisant [[Attaque en puissance]]. 
 
 **Q : Le texte de ce don stipule qu'il ne multiplie pas les dommages dus à la force, aux [[armes magiques|capacités spéciales de l'arme]] ni les dommages de précision. Est-ce que les autres dommages (ceux qui ne sont pas spécifiés, tels les spécialisations martiales, les bonus d'altération, ou la capacité d'[[représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] du [[barde]]) sont multipliés ?**
 

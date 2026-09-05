@@ -7,9 +7,9 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 8 pa ; **Poids** 1 kg
+{s:cs}{s:AA}**Prix** 8 pa ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Composé d'un petit cadre en bois avec des pointes barbelées pointant vers l'intérieur, ce piège est placé dans une fosse juste assez profonde pour la partie inférieure de la jambe d'un personnage de taille M. Quand quelqu'un entre sur la case, la botte attrape et retient sa jambe. La cible subit des dégâts si elle essaie de se déplacer ou si un test de [[Sabotage]] visant à la libérer échoue de 5 ou plus.
 
 <div class="BD">

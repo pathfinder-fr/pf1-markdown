@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Linceul de désintégration|{s:AE}}
 **Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3.300 po ; **Poids** 5 kg
 (((Description)))
-Ce tissu fin et bordé est utilisé pour envelopper un cadavre avant sa mise en bière. Après avoir enveloppé un corps à l’aide de ce linceul, il suffit de prononcer le mot de commande pour transformer le cadavre en poussières. La magie du linceul fonctionne une fois seulement, après quoi il devient un morceau de tissu ordinaire.
+Ce tissu fin et bordé est utilisé pour envelopper un cadavre avant sa mise en bière. Après avoir enveloppé un corps à l’aide de ce linceul, il suffit de prononcer le mot de commande pour transformer le cadavre en poussières. La magie du linceul fonctionne une fois seulement, après quoi il devient un morceau de tissu ordinaire. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[désintégration]]* ; **Coût** 1.650 po
 </div>

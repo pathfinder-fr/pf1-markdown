@@ -7,8 +7,8 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs} {s:ISG} *Le personnage porte son armure lourde comme une seconde peau.*
+{s:cs} {s:ISG} *Le personnage porte son armure lourde comme une seconde peau.* 
 
-**Conditions.** [[Prêtre]] de niveau 7, suivant de [[Gorum (technique)|Gorum]]
+**Conditions.** [[Prêtre]] de niveau 7, suivant de [[Gorum (technique)|Gorum]] 
 
 **Avantage.** Le personnage obtient la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] avec un niveau effectif de [[guerrier]] égal à son niveau de prêtre -4.

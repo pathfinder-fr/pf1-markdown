@@ -61,7 +61,7 @@ Un pantin des âmes est une [[poupée des âmes]] améliorée de taille humaine.
 
 
 ### Construction
-On fabrique un pantin des âmes avec du bois ou de la porcelaine auquel on ajoute un masque habilement sculpté d’une valeur minimale de 500 po qui sert de focaliseur d’âme. Sa création nécessite un fragment d’âme prélevé sur une créature qui meurt au cours de la fabrication du pantin (ceci n’empêche pas l’autre partie de l’âme d’effectuer sa transition dans l’après-vie ou le cadavre d’être ressuscité ultérieurement). Une âme réticente peut résister au processus en réussissant un jet de Volonté DD 20.
+On fabrique un pantin des âmes avec du bois ou de la porcelaine auquel on ajoute un masque habilement sculpté d’une valeur minimale de 500 po qui sert de focaliseur d’âme. Sa création nécessite un fragment d’âme prélevé sur une créature qui meurt au cours de la fabrication du pantin (ceci n’empêche pas l’autre partie de l’âme d’effectuer sa transition dans l’après-vie ou le cadavre d’être ressuscité ultérieurement). Une âme réticente peut résister au processus en réussissant un jet de Volonté DD 20. 
 
 
 **NLS** 7 ; **Prix** 16 500 po{br}

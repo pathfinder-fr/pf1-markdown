@@ -12,11 +12,11 @@ Categories:
 
 Diobel est la plus petite des cités vassales d'[[Absalom]] et est localisée sur la côté ouest de l'[[Île de Kortos]]. A cause de son statut de *Porte Arrière d'Absalom*, son contrôle est un sujet politique très controversé. Le dirigeant de la ville porte le titre de Teriarque et ne peut être renvoyé de son poste après son élection par le Grand Conseil d'[[Absalom]].
 
-Le Teriarque actuel est le Scion Aven de la Maison Arnsen, un habitant d'[[Absalom]] d'origine taldane. Le [[Seigneur Gyr]] et le Seigneur Aven sont des amis d'enfance, ils ont monté ensemble les échelons de la haute société ensemble et lorsque Gyr fut élu Primarque il utilisa son influence pour nommer Aven au rang de Teriarque de Diobel.
+Le Teriarque actuel est le Scion Aven de la Maison Arnsen, un habitant d'[[Absalom]] d'origine taldane. Le [[Seigneur Gyr]] et le Seigneur Aven sont des amis d'enfance, ils ont monté ensemble les échelons de la haute société ensemble et lorsque Gyr fut élu Primarque il utilisa son influence pour nommer Aven au rang de Teriarque de Diobel.  
 
 Si le Primarque vit ça comme un ample remboursement pour tous les services qu'Aven lui avait rendu, ce dernier ne considérait cet acte que comme un début et en attendait plus de son ami. En conséquence les deux hommes sont désormais ennemis, les opposants politiques du [[Seigneur Gyr]] pouvant toujours trouver refuge à Diobel. Ces groupes complotistes ont promit au Seigneur Aven beaucoup de pouvoir lorsque leur propre régime sera établi - une promesse sur laquelle le Teriarque garde de prudentes réserves.
 
-Son principal adversaire pour le contrôle de Diobel est le Consortium de Kortos, une guilde de marchands qui contrôle la majorité du commerce de la ville et pourrait avoir quelques vues sur le contrôle d'[[Absalom]].
+Son principal adversaire pour le contrôle de Diobel est le Consortium de Kortos, une guilde de marchands qui contrôle la majorité du commerce de la ville et pourrait avoir quelques vues sur le contrôle d'[[Absalom]]. 
 
 ### Commerce
 
@@ -24,7 +24,7 @@ Diobel est un hameau vivant de la pêche, les eaux peu profondes l'entourant ass
 
 Pendant des siècles, contrebandiers et marchands se sont servis de barges pour débarquer leurs cargaisons à Diobel avant de les transporter en caravane jusqu'aux marchés d'[[Absalom]]. S'inspirant du [[Cimetière des Epaves]], le petit hameau a érigé ses propres défenses en se servant d'un trait caractéristique des eaux l'entourant : peu profonde, la mer alentours ne permet pas aux larges navires d'y circulant, assurant une défense efficace contre les pirates ou les monstres marins. Fort heureusement, bien qu'accompagnée de remarques désobligeantes des habitants d'[[Absalom]], cette amélioration n'entrava pas la route commerciale entre les deux cités.
 
-Si la plupart des individus qui empruntent ce chemin ne sont que d'honnêtes citoyens cherchant à éviter des taxes superflues et la criminalité des [[Docks]], certains d'entre eux sont des esclavagistes, des trafiquants de drogue ou des espions. Les locaux se contentent des les ignorer tant qu'ils ne sèment pas de trouble à Diobel et les stocks de contrebande paraissent négligeables face à ceux du port aux yeux de l'administration d'[[Absalom]].
+Si la plupart des individus qui empruntent ce chemin ne sont que d'honnêtes citoyens cherchant à éviter des taxes superflues et la criminalité des [[Docks]], certains d'entre eux sont des esclavagistes, des trafiquants de drogue ou des espions. Les locaux se contentent des les ignorer tant qu'ils ne sèment pas de trouble à Diobel et les stocks de contrebande paraissent négligeables face à ceux du port aux yeux de l'administration d'[[Absalom]]. 
 
 En plus des ressources locales, de petites fermes indépendantes de l'[[Île de Kortos]] échangent aussi de la nourriture avec les caravanes. En conséquence, une importante portion des vivres d'[[Absalom]] est issue d'une importation locale dépendant de la route commerciale *Absalom-Diobel*.
 

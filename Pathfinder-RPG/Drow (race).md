@@ -21,7 +21,7 @@ Cruels et malins, les drows sont le sombre reflet de la race des elfes. Aussi ap
 
 **Aventuriers.** Esclavagistes et conquérants, les drows cherchent à étendre leur territoire et beaucoup veulent raviver de vieilles querelles entre les nations elfes et naines concernant des terres désolées dont l’appartenance est disputée. Les hommes drows privilégient les classes spécialisées dans les pratiques martiales ou la discrétion, afin de se rapprocher de leurs ennemis et de leurs demeures, que ce soient des classes de guerriers ou d’espions. Les femmes drows choisissent généralement des classes leur permettant de commander, comme celles de barde ou de druide. Les deux genres ont un talent inné pour l’art de la magie et peuvent devenir des magiciens ou des invocateurs. Les drows font des antipaladins parfaits, mais on décourage souvent les hommes à s’engager dans cette voie puisque la noblesse féminine n’apprécie guère l’idée que des hommes à la volonté marquée se laissent aller à leur instinct pour l’indépendance et entretiennent une relation directe avec un seigneur-démon.
 
-**Noms masculins.** Arcavato, Drovic, Firyin, Kaëlmourn, Mirrendier, Pharnox, Syrendross, Zov.
+**Noms masculins.** Arcavato, Drovic, Firyin, Kaëlmourn, Mirrendier, Pharnox, Syrendross, Zov.  
 **Noms féminins.** Belmarniss, Cylellinth, Ilvaria, Johysis, Loscivia, Tyvorhan, Ulumbralya, Volundéïl.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -260,7 +260,7 @@ Au fil des millénaires, les drows sont devenus les maîtres incontestés de leu
 Grâce au contrat entre les Abysses et la perverse société des elfes noirs telle que nous la connaissons aujourd’hui, un drow sur vingt naît avec des pouvoirs magiques innés dépassant de loin ceux des autres. Ces « nobles » se hissent généralement jusqu’aux plus hauts échelons de la société drow. Pour des raisons inconnues, les nobles sont presque tous des femmes. Ce déséquilibre du pouvoir a aidé à façonner le puissant et violent système matriarcal à présent enraciné dans la culture drow.
 L’échelon supérieur de n’importe quelle communauté souterraine drow, qu’il s’agisse d’un village ou d’une métropole, est toujours uniformément féminin. Dans les grandes villes, les matrones dirigent des maisons qui leur servent autant de centre
 familial que de siège du pouvoir. Ces femmes sont souvent des prêtresses ou des magiciennes, tout comme les membres de leur
-conseil. Des régiments de drows bien entraînés servent la maison et sa matrone. Les drows travaillant à l’ombre d’une grande maison montrent leur loyauté en dénonçant les complots et les ambitions des autres serviteurs, dans l’espoir d’obtenir des faveurs et d’avoir le privilège de servir des membres importants de la maisonnée.
+conseil. Des régiments de drows bien entraînés servent la maison et sa matrone. Les drows travaillant à l’ombre d’une grande maison montrent leur loyauté en dénonçant les complots et les ambitions des autres serviteurs, dans l’espoir d’obtenir des faveurs et d’avoir le privilège de servir des membres importants de la maisonnée. 
 
 En dehors des maisons nobles, les drows sont des marchands, des commerçants et des négociants en informations. Pour les roturiers, la vie est un exercice d’équilibre précaire : il faut maintenir des relations lucratives avec les maisons influentes sans se laisser entraîner dans leurs querelles.
 

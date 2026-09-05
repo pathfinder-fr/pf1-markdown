@@ -10,14 +10,14 @@ Categories:
 - Sort psychiste 6
 ---
 
-**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un bout de toison de mouton et de la poudre de jade (valant 25 po))
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** [[branche chimère|chimère]] ne pouvant dépasser 1 cube de 6 m/4 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête/niveau ([[Présentation des sorts#DEFFACONNABLE|F]])
-**Durée** [[permanente]] jusqu’au déclenchement, puis 1 round/[[niveau]]
+**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un bout de toison de mouton et de la poudre de jade (valant 25 po))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** [[branche chimère|chimère]] ne pouvant dépasser 1 cube de 6 m/4 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête/niveau ([[Présentation des sorts#DEFFACONNABLE|F]])  
+**Durée** [[permanente]] jusqu’au déclenchement, puis 1 round/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[image silencieuse]]*, si ce n’est que l’[[illusion]] obtenue inclut des [[composantes]] visuelles, sonores, olfactives et thermiques, voire même des paroles intelligibles et qu’elle se déclenche lorsqu’une condition spécifique est remplie.
 
 Le lanceur du sort choisit la condition au cours de l’incantation (un mot à prononcer par exemple). La condition qui déclenche l’[[illusion]] peut être aussi générale ou spécifique que le personnage le désire mais elle doit se baser sur des éléments visuels, sonores, olfactifs ou tactiles ; elle ne peut pas dépendre d’éléments qui ne sont pas immédiatement perceptibles via un des sens (comme l’[[alignement]]). Reportez-vous au descriptif du sort *[[bouche magique]]* pour plus de renseignements sur les conditions de déclenchement.
@@ -26,14 +26,14 @@ Le lanceur du sort choisit la condition au cours de l’incantation (un mot à p
 
 (((
 ## Image silencieuse
-**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, F]] (toison de mouton)
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])
-**Durée** [[Présentation des sorts#DUREE|concentration]]
+**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, F]] (toison de mouton)  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** [[branche chimère|chimère]] visuelle ne pouvant occuper plus de 4 cubes de 3 m/2 {s:c} d’arête + 1 cube de 3 m/2 {s:c} d’arête par [[niveau]] ([[Présentation des sorts#DEFFACONNABLE|F]])  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
----
+<hr />
 Ce sort génère une [[illusion]] strictement visuelle représentant un objet, une créature ou un effet magique choisi par le personnage. Elle n’inclut aucune sensation sonore, tactile, olfactive ou thermique. Le lanceur de sorts peut déplacer l’image dans les limites de portée indiquées.
 
 ### Version mythique

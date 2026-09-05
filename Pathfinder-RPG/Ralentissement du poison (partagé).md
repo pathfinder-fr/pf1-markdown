@@ -17,26 +17,26 @@ Categories:
 ---
 
 {s:UC}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3  
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 1 heure/[[niveau]]
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 1 heure/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[ralentissement du poison]]* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
 
 
 
 (((
 ## Ralentissement du poison
-**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 1 heure/[[niveau]]
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 1 heure/[[niveau]]  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Le bénéficiaire du sort est temporairement [[immunisé]] contre les effets du [[poison]]. Toute substance toxique qui circule dans son corps cesse de l’affecter jusqu’au terme de la durée indiquée. *Ralentissement du poison* ne soigne pas les dégâts que cette substance a pu infliger au préalable.
 )))

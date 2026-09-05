@@ -7,8 +7,8 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*En faisant appel aux pouvoirs d'Érastil, le personnage peut tirer une flèche qui soigne au lieu de blesser.*
+{s:cs}{s:ISG}*En faisant appel aux pouvoirs d'Érastil, le personnage peut tirer une flèche qui soigne au lieu de blesser.* 
 
-**Conditions.** Capacité à lancer des sorts de « soins », maniement de l'[[arc long (arme)|arc long]], suivant d'[[Érastil (technique)|Érastil]]
+**Conditions.** Capacité à lancer des sorts de « soins », maniement de l'[[arc long (arme)|arc long]], suivant d'[[Érastil (technique)|Érastil]] 
 
 **Avantage.** Une fois par jour quand le personnage lance un sort de « soins », il peut remplacer la [[Présentation des sorts#COMPOSANTEGESTUELLE|composante gestuelle]] du sort en bandant son arc pour créer rayon de lumière vert brillant. Lorsque le personnage bande son arc pour préparer son sort et qu'il touche sa cible via un [[jet dattaque|jet d'attaque]] à distance, le rayon de lumière vert soigne la cible comme si elle avait été touchée par le sort de « soins ».

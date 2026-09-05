@@ -60,7 +60,7 @@ Ces objets souffrent d’un dysfonctionnement qui leur fait faire l’inverse de
 #### Fonctionnement intermittent
 Les trois catégories d’objets à fonctionnement intermittent se comportent exactement comme leur fabricant l’avait prévu. Du moins, de temps à autre. Voici les trois catégories : peu fiable, dépendant et incontrôlable.
 
-**Peu fiable.** À chaque fois que le personnage active l’objet, il y a 5% de chances (01-05 sur un d100) pour qu’il ne fonctionne pas.
+**Peu fiable.** À chaque fois que le personnage active l’objet, il y a 5% de chances (01-05 sur un d100) pour qu’il ne fonctionne pas. 
 
 **Dépendant.** L’objet ne fonctionne que sous certaines conditions. Pour savoir lesquelles, choisissez (ou tirez au hasard) dans la table ci-dessous.
 
@@ -100,7 +100,7 @@ Les trois catégories d’objets à fonctionnement intermittent se comportent ex
 {s:Reference|CONDITIONREQUISE}
 
 #### Conditions requises
-Certains objets ne s’utilisent qu’une fois que le personnage a rempli des conditions très rigoureuses. Pour le faire fonctionner, il faut remplir une ou plusieurs des conditions suivantes.
+Certains objets ne s’utilisent qu’une fois que le personnage a rempli des conditions très rigoureuses. Pour le faire fonctionner, il faut remplir une ou plusieurs des conditions suivantes.  
 - Le personnage doit manger deux fois plus que la normale.  
 - Le personnage doit dormir deux fois plus que la normale.  
 - Le personnage doit entreprendre une quête spécifique (une fois seulement, l’objet fonctionne ensuite normalement).  
@@ -123,7 +123,7 @@ Les conditions requises dépendent tellement de la nature de l’objet qu’il n
 {s:Reference|INCONVENIENT}
 
 #### Inconvénients
-Les objets possédant des inconvénients apportent des avantages à leur propriétaire mais également des désavantages. Parfois, l’inconvénient se manifeste uniquement quand on les utilise (ou qu’on les tient en main dans le cas des armes), d’autres fois, il s’applique tant que le personnage garde l’objet en sa possession (voir la table ci-dessous).
+Les objets possédant des inconvénients apportent des avantages à leur propriétaire mais également des désavantages. Parfois, l’inconvénient se manifeste uniquement quand on les utilise (ou qu’on les tient en main dans le cas des armes), d’autres fois, il s’applique tant que le personnage garde l’objet en sa possession (voir la table ci-dessous).  
 Sauf indication contraire, les inconvénients font effet tant que le personnage garde l’objet en sa possession. Le [[DD]] pour résister à un inconvénient est généralement de 10 + [[NLS]] de l’objet.
 
 <center>
@@ -252,7 +252,7 @@ Sauf indication contraire, les inconvénients font effet tant que le personnage 
 ### Objets maudits spécifiques
 Les objets maudits les plus insidieux et les plus dangereux sont sûrement ceux dont les fonctionnalités d’origine ont été entièrement remplacées par une malédiction. Mais ils ont aussi leur utilité, qu’on s’en serve comme piège ou comme arme.
 
-Voici quelques échantillons d’objets maudits.
+Voici quelques échantillons d’objets maudits. 
 
 La colonne origine donne le nom d’un ou plusieurs objets magiques dont la création est susceptible de donner naissance à l’objet maudit. On peut vendre un objet maudit comme si c’était un objet magique ordinaire, à condition que l’acheteur ne soit pas au courant de la malédiction que contient l’objet.
 

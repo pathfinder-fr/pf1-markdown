@@ -14,7 +14,7 @@ Categories:
 Au niveau 2, le guerrier reçoit un bonus à ses jets de sauvegarde contre les effets d'absorption d'énergie et de mort.  Ce bonus est de +1 au niveau 2, +1 par tranche de quatre niveau au delà du niveau 2. Cette capacité remplace [[guerrier#COURAGE|courage]].
 
 #### Sauvagerie naturelle (Ext).
-Au niveau 5, et lorsqu'il utilise des [[armes naturelles]], le personnage reçoit un bonus à ses jets d'attaque et de dégâts ainsi que sur son [[BMO]] et son [[DMD]] pour tout ce qui a trait à la [[lutte]]. Ce bonus est de +1 au niveau 5, +1 par tranche de cinq niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]]
+Au niveau 5, et lorsqu'il utilise des [[armes naturelles]], le personnage reçoit un bonus à ses jets d'attaque et de dégâts ainsi que sur son [[BMO]] et son [[DMD]] pour tout ce qui a trait à la [[lutte]]. Ce bonus est de +1 au niveau 5, +1 par tranche de cinq niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]] 
 
 #### Charge sauvage (Ext).
 Au niveau 9, lorsqu'il frappe avec une arme naturelle à la fin d'une [[charge]], le guerrier sauvage reçoit un bonus à ses jets d'attaques égal à la moitié de son niveau de guerrier, mais il subit une pénalité à la [[CA]] de même valeur. Ce bonus s'applique également au [[BMO]] du personnage lorsqu'il tente une [[bousculade]] ou un [[renversement]] durant la charge. Ces valeurs remplacent le bonus d'attaque et la pénalité à la CA normalement appliqués lors d'une charge. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 2.

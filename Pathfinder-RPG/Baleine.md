@@ -40,7 +40,7 @@ Categories:
 </td><td><div>
 *Cette immense baleine se déplace lentement et gracieusement à travers les eaux, ce qui semble étonnant vu sa taille immense.*
 
-Les baleines sont souvent chassées pour leur viande et leur graisse, dont on peut extraire des huiles coûteuses. Les baleines à fanons (ou mysticètes) n’ont pas de dents et attaquent en frappant leurs ennemis à l’aide de leur queue. Les baleines à dents (ou odontocètes) et les cachalots, par contre, attaquent en mordant.
+Les baleines sont souvent chassées pour leur viande et leur graisse, dont on peut extraire des huiles coûteuses. Les baleines à fanons (ou mysticètes) n’ont pas de dents et attaquent en frappant leurs ennemis à l’aide de leur queue. Les baleines à dents (ou odontocètes) et les cachalots, par contre, attaquent en mordant. 
 
 Voir aussi : [[Basilosaure]], [[Grande baleine blanche]]
 

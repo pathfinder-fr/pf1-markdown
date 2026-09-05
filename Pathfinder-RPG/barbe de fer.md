@@ -14,7 +14,7 @@ Categories:
 ---
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}
-**École** [[Transmutation]] ;
+**École** [[Transmutation]] ; 
 **Niveau** [[Antipaladin|Apal]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

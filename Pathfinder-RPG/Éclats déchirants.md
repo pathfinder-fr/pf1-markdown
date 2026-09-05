@@ -14,7 +14,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 **Temps d’incantation** 1 [[action simple]]  
 **Composantes** [[Composantes|V]]  
 **Portée** contact  

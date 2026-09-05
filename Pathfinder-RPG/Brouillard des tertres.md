@@ -10,12 +10,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])
-**Effet** étendue de brouillard sur une zone de 6 m de rayon et de 6 m de hauteur
-**Durée** 1 minute/niveau
+{s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
+**Effet** étendue de brouillard sur une zone de 6 m de rayon et de 6 m de hauteur  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Brouillard des tertres crée un banc de brume semblable à celui que crée *[[nappe de brouillard]]*, à la seule différence que ses vapeurs sont noires et présentent un lien nécromantique avec le personnage. Ces vapeurs ne gênent pas la vision du personnage. En raison du lien que celui-ci entretient avec le brouillard, si la moindre partie de ce brouillard se trouve à moins de 9 mètres du personnage, toutes les créatures présentes dans le brouillard sont considérées comme à portée quand le personnage utilise n’importe lesquels de ses maléfices ayant une portée maximale de 9 mètres.

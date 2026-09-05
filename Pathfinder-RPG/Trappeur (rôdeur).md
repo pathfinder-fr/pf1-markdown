@@ -17,7 +17,7 @@ Un trappeur ajoute [[Sabotage]] à sa liste de compétence de classe, en plus de
 Un trappeur ajoute 1/2 niveau de rôdeur aux tests de [[Perception]] pour localiser un piège et aux tests de [[Sabotage]] (1 au minimum). Le trappeur peut utiliser [[Sabotage]] pour neutraliser des pièges magiques.
 
 #### Piège
-Au niveau 5, le trappeur apprend à créer un collet et un autre [[pièges de rôdeur|piège de rôdeur]] de son choix. Au niveau 7 et, par la suite, tous les deux niveaux, il peut en apprendre un autre. Chaque jour, il peut les utiliser un nombre de fois égal à 1/2 niveau de rôdeur + modificateur de [[Sagesse]]. Une fois qu’il a appris un piège, il ne peut plus l’oublier et ne peut pas le remplacer par un autre. Il ne peut pas choisir le même piège à plusieurs reprises. Ce pouvoir remplace le pouvoir de classe de rôdeur [[rôdeur#SORTS|d’incantation]].
+Au niveau 5, le trappeur apprend à créer un collet et un autre [[pièges de rôdeur|piège de rôdeur]] de son choix. Au niveau 7 et, par la suite, tous les deux niveaux, il peut en apprendre un autre. Chaque jour, il peut les utiliser un nombre de fois égal à 1/2 niveau de rôdeur + modificateur de [[Sagesse]]. Une fois qu’il a appris un piège, il ne peut plus l’oublier et ne peut pas le remplacer par un autre. Il ne peut pas choisir le même piège à plusieurs reprises. Ce pouvoir remplace le pouvoir de classe de rôdeur [[rôdeur#SORTS|d’incantation]]. 
 
 Les trappeurs n’apprennent pas de sorts et sont incapables d’incanter. Ils n’ont pas de [[NLS|niveau de lanceur de sorts]] et ne peuvent pas utiliser d’objets à potentiel magique ou à fin d’incantation.
 

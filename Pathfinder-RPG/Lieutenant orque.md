@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Particularités** armes familières, [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1}
 {s:BDTexte|**Équipement de combat** *[[flèches (arme)|flèches]] [[tueuse (propriété)|tueuse de nain +1]]* (2), *[[potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** [[armure de peau (armure)|armure de peau de maître]],  [[arc long composite (arme)|arc long composite]] (For +3) avec [[Flèches (arme)|20 flèches]], [[cimeterre à deux mains (arme)|cimeterre à deux mains]], [[cape de résistance|cape de résistance +1]], 127 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

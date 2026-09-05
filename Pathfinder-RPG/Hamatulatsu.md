@@ -14,7 +14,7 @@ Categories:
 
 **Conditions**. [[Arme de prédilection]] (mains nues), [[Science du combat à mains nues]]
 
-**Avantages**. Les attaques à mains nues du personnage infligent des dégâts contondants ou perforants. C’est à lui d’en décider à chaque fois qu’il attaque un adversaire, mais il ne peut faire qu’un type de dégâts à la fois. S’il réussit un [[coup critique]] alors qu’il inflige des dégâts perforants, la douleur supplémentaire rend l’ennemi [[fiévreux]] pendant 1 round (ou [[chancelant]] pendant 1 round s’il était déjà fiévreux). Si le personnage réussit plusieurs coups critiques au cours du même round, cela n’augmente pas la durée de l’effet néfaste.
+**Avantages**. Les attaques à mains nues du personnage infligent des dégâts contondants ou perforants. C’est à lui d’en décider à chaque fois qu’il attaque un adversaire, mais il ne peut faire qu’un type de dégâts à la fois. S’il réussit un [[coup critique]] alors qu’il inflige des dégâts perforants, la douleur supplémentaire rend l’ennemi [[fiévreux]] pendant 1 round (ou [[chancelant]] pendant 1 round s’il était déjà fiévreux). Si le personnage réussit plusieurs coups critiques au cours du même round, cela n’augmente pas la durée de l’effet néfaste. 
 
 **Spécial**. Un [[moine]] de niveau 6 peut choisir l’hamatulatsu comme substitut de don supplémentaire même s’il ne remplit pas les conditions requises. Théoriquement, ce style de combat est enseigné uniquement par un unique monastère dédié à une divinité diabolique.
 

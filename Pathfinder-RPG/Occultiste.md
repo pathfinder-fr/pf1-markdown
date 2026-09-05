@@ -8,9 +8,9 @@ Categories:
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi les [[Écoles instrumentales]].***
-***Voir aussi les [[Instruments sacrés]].***
-***Voir aussi la [[Sorts doccultiste|liste des sorts d'occultiste]].***
+<div class="fright">***Voir aussi les [[Écoles instrumentales]].***  
+***Voir aussi les [[Instruments sacrés]].***  
+***Voir aussi la [[Sorts doccultiste|liste des sorts d'occultiste]].***  
 {s:PM0|occultiste}**Voir les archétypes de l'occultiste**&emsp;
 <li ID="occultiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeoccultiste}</li>
 </div>{s:AO}*L’occultiste se focalise sur le monde qui l’entoure et développe une conscience aiguë des énergies qui traversent son environnement. Il étudie la magie qui imprègne toute chose, depuis les résonances psychiques émises par les objets ordinaires jusqu’aux puissantes incantations nécessaires pour activer les sorts les plus redoutables. L’occultiste canalise sa force psychique au travers d’instruments : des objets qui lui permettent de concentrer son pouvoir et de produire d’incroyables effets. Pour lui, les instruments sont bien plus que de simples outils. Ce sont des témoignages et des objets liés aux événements du passé. L’occultiste les utilise pour influencer et modifier le présent en ajoutant sa légende aux leurs. Même si certains de ces instruments sont des objets magiques à part entière, la plupart sont des objets, certes simples, mais néanmoins importants pour l’occultiste sur le plan personnel ou historique.*
@@ -355,28 +355,28 @@ Un occultiste peut lancer les sorts psychiques de la [[sorts doccultiste|liste d
 
 Pour apprendre ou lancer un sort, l’occultiste doit avoir une valeur d’[[Intelligence]] au moins égale à 10 + le niveau du sort. Le [[DD]] des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur d’[[Intelligence]] de l’occultiste.
 
-Un occultiste ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien d’emplacements de sort de base est indiqué dans la Table "[[occultiste#TABLEOCCULTISTE|L'occultiste]]". En plus de ce quota, il reçoit des sorts quotidiens en bonus si sa valeur d’[[Intelligence]] est suffisamment élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
+Un occultiste ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien d’emplacements de sort de base est indiqué dans la Table "[[occultiste#TABLEOCCULTISTE|L'occultiste]]". En plus de ce quota, il reçoit des sorts quotidiens en bonus si sa valeur d’[[Intelligence]] est suffisamment élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]"). 
 
-L’occultiste possède un répertoire de sorts limité. Pour chaque école instrumentale qu’il apprend à utiliser, il peut ajouter un sort par niveau qu’il est capable de lancer à son répertoire. Il les choisit dans la liste de sorts de cette école. S’il choisit la même école instrumentale plusieurs fois, il ajoute à chaque fois un sort de chaque niveau issu de la liste de cette école.
-Quand l’occultiste apprend à lancer un nouveau niveau de sort, il ajoute immédiatement un sort de ce niveau à son répertoire pour chaque école instrumentale qu’il connaît (en plus des éventuels sorts supplémentaires conférés par les écoles sélectionnées plusieurs fois).
+L’occultiste possède un répertoire de sorts limité. Pour chaque école instrumentale qu’il apprend à utiliser, il peut ajouter un sort par niveau qu’il est capable de lancer à son répertoire. Il les choisit dans la liste de sorts de cette école. S’il choisit la même école instrumentale plusieurs fois, il ajoute à chaque fois un sort de chaque niveau issu de la liste de cette école.  
+Quand l’occultiste apprend à lancer un nouveau niveau de sort, il ajoute immédiatement un sort de ce niveau à son répertoire pour chaque école instrumentale qu’il connaît (en plus des éventuels sorts supplémentaires conférés par les écoles sélectionnées plusieurs fois). 
 
-Lorsqu’il atteint le niveau 5 et tous les trois niveaux par la suite (aux niveaux 8, 11, et ainsi de suite), un occultiste peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà.
+Lorsqu’il atteint le niveau 5 et tous les trois niveaux par la suite (aux niveaux 8, 11, et ainsi de suite), un occultiste peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà.  
 Dans les faits, l’occultiste perd l’ancien sort qu’il remplace par le nouveau. Le niveau de ce nouveau sort doit être identique à celui du sort remplacé et d’au moins un niveau inférieur au plus haut niveau de sorts que l’occultiste est capable de lancer. Le sort nouvellement appris doit faire partie de la même liste de sorts de l’école instrumentale à laquelle appartenait le sort perdu. L’occultiste ne peut échanger qu’un seul sort de cette façon et doit choisir s’il procède à un échange au moment où il apprend de nouveaux sorts lors du passage de niveau.
 
 Un occultiste n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire quand il le souhaite, à condition qu’il lui reste encore les emplacements de sort quotidiens des niveaux appropriés.
 
 {s:Reference|POUVOIRDEFOCALISATION}
 #### Pouvoir de focalisation (Sur)
-Au niveau 1, un occultiste apprend le pouvoir de focalisation de base conféré par chacune de ses deux écoles instrumentales (voir [[Écoles instrumentales|Instruments]]) et peut choisir un pouvoir de focalisation supplémentaire dans la liste de ceux qui lui sont disponibles grâce à ces écoles. Chaque fois que l’occultiste apprend une nouvelle école instrumentale, il obtient le pouvoir de base de cette école.
+Au niveau 1, un occultiste apprend le pouvoir de focalisation de base conféré par chacune de ses deux écoles instrumentales (voir [[Écoles instrumentales|Instruments]]) et peut choisir un pouvoir de focalisation supplémentaire dans la liste de ceux qui lui sont disponibles grâce à ces écoles. Chaque fois que l’occultiste apprend une nouvelle école instrumentale, il obtient le pouvoir de base de cette école. 
 
-De plus, au niveau 3 et tous les 2 niveaux par la suite, il apprend un nouveau pouvoir de focalisation choisi parmi les options proposées par toutes les écoles instrumentales qu’il connaît. L’occultiste peut utiliser les pouvoirs de focalisation uniquement en dépensant de la [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]].
+De plus, au niveau 3 et tous les 2 niveaux par la suite, il apprend un nouveau pouvoir de focalisation choisi parmi les options proposées par toutes les écoles instrumentales qu’il connaît. L’occultiste peut utiliser les pouvoirs de focalisation uniquement en dépensant de la [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]]. 
 
-Sauf indication contraire, le [[DD]] des jets de sauvegarde effectués pour résister aux pouvoirs de focalisation est égal à 10 + la moitié du niveau d’occultiste + le modificateur d’[[Intelligence]] de l’occultiste.
+Sauf indication contraire, le [[DD]] des jets de sauvegarde effectués pour résister aux pouvoirs de focalisation est égal à 10 + la moitié du niveau d’occultiste + le modificateur d’[[Intelligence]] de l’occultiste. 
 L’occultiste ne peut pas choisir plusieurs fois le même pouvoir de focalisation. L’occultiste doit avoir atteint un niveau spécifique d’occultiste avant de pouvoir choisir certains pouvoirs de focalisation.
 
 {s:Reference|INSTRUMENTS}
 #### Instruments (Sur)
-Au niveau 1, un occultiste apprend à utiliser deux [[Écoles instrumentales]]. Au niveau 2 et tous les 4 niveaux d’occultiste par la suite, il apprend l’utilisation d’une école instrumentale supplémentaire, jusqu’à un maximum de sept écoles au niveau 18.
+Au niveau 1, un occultiste apprend à utiliser deux [[Écoles instrumentales]]. Au niveau 2 et tous les 4 niveaux d’occultiste par la suite, il apprend l’utilisation d’une école instrumentale supplémentaire, jusqu’à un maximum de sept écoles au niveau 18. 
 
 Chaque école  instrumentale permet d’ajouter un sort par niveau de sort à la [[Sorts doccultiste|liste des sorts de l'occultiste]]. Aucun des sorts issus des autres écoles n’est considéré comme faisant partie de la [[Sorts doccultiste|liste des sorts de l'occultiste]] tant que celui-ci n’a pas choisi l’école instrumentale. L’occultiste ne peut pas utiliser les objets magiques [[règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|à potentiel magique]] et [[règles relatives aux objets magiques#OBJETSAFINDINCANTATION|à fin d’incantation]] des écoles qu’il ne connaît pas, à moins qu’il ne réussisse un test d’[[Utilisation dObjets magiques|Utilisation d’objets magiques]] approprié. Un occultiste peut choisir une école instrumentale plusieurs fois afin d’apprendre des sorts supplémentaires de cette école.
 

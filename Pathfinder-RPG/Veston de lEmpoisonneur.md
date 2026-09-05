@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:14
 {s:BDTitre|Veston de l’empoisonneur|{s:AE}}
 **Aura** [[Invocation]] et [[Nécromancie]] faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 12.000 po ; **Poids** 1,5 kg
 (((Description)))
-Trois fois par jour, le porteur de ce veston sombre peut créer une fiole contenant une dose de [[poisons|poison]] décrit dans le Manuel des Joueurs et dont le prix est inférieur ou égal à 300 po. L’aspect du poison produit par le veston est toujours trouble et ambré. Il devient inutilisable au bout d’une heure.
+Trois fois par jour, le porteur de ce veston sombre peut créer une fiole contenant une dose de [[poisons|poison]] décrit dans le Manuel des Joueurs et dont le prix est inférieur ou égal à 300 po. L’aspect du poison produit par le veston est toujours trouble et ambré. Il devient inutilisable au bout d’une heure. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[création mineure]]*, *[[empoisonnement]]* ; **Coût** 6.000 po
 </div>

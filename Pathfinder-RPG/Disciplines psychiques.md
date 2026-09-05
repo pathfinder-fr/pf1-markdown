@@ -134,7 +134,7 @@ Le point de vue du personnage envers la puissance psychique est holistique. Il d
 
 **Caractéristique associée à la réserve phrénique.** [[Sagesse]].
 
-**Sorts supplémentaires.** [[Repli expéditif]] (1), [[Endurance de lours|endurance de l’ours]] (4), [[rapidité]] (6), [[liberté de mouvement]] (8), [[Écholocalisation]] (10), [[transformation martiale]] (12), [[forme éthérée]] (14), [[corps de fer]] (16), [[forme akashique]] (18).
+**Sorts supplémentaires.** [[Repli expéditif]] (1), [[Endurance de lours|endurance de l’ours]] (4), [[rapidité]] (6), [[liberté de mouvement]] (8), [[Écholocalisation]] (10), [[transformation martiale]] (12), [[forme éthérée]] (14), [[corps de fer]] (16), [[forme akashique]] (18). 
 
 **Pouvoirs de discipline.** Le personnage altère son corps grâce à ses pouvoirs et à son impressionnante détermination.
 

@@ -7,10 +7,10 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[Domaines|domaines de prêtre]].***
-***Voir aussi les [[variantes de canalisation]].***
-***Voir aussi la [[Liste des sorts de prêtres|liste des sorts de prêtre]].***
-***Voir aussi les [[Golarion.Religions et philosophies|religions et philosophies]] de Golarion.***
+<div class="fright">***Voir aussi les [[Domaines|domaines de prêtre]].***  
+***Voir aussi les [[variantes de canalisation]].***  
+***Voir aussi la [[Liste des sorts de prêtres|liste des sorts de prêtre]].***  
+***Voir aussi les [[Golarion.Religions et philosophies|religions et philosophies]] de Golarion.***  
 {s:PM0|prêtre}**Voir les archétypes du prêtre**&emsp;
 <li ID="prêtre" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeprêtre}</li>
 </div>*La foi et les miracles divins suscitent des vocations. Les prêtres, ces êtres appelés à servir des puissances qui dépassent l’entendement de la plupart des mortels, en prêchent les merveilles et satisfont les besoins spirituels de leur peuple. Ce ne sont cependant pas de simples faiseurs de sermons mais bel et bien des émissaires divins qui accomplissent la volonté des dieux à la force de leur bras et grâce à la magie divine. Ces prêtres sont dévoués aux doctrines des religions et des philosophies qui les inspirent et œuvrent à faire connaître leur foi et à accroître son influence. Même s’ils possèdent des pouvoirs similaires, on retrouve autant de différences entre les prêtres qu’entre les divinités qu’ils servent : certains offrent soins et pardon, d’autres la justice, la loi et la liberté, et d’autres encore corrompent et incitent des conflits. Les prêtres agissent de bien des manières mais tous ceux qui empruntent ce chemin marchent aux côtés des alliés les plus puissants qui soient : ils sont les bras armés des dieux eux-mêmes.*
@@ -469,11 +469,11 @@ Le prêtre reçoit également les pouvoirs indiqués dans chacun de ses domaines
 {s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#46|→]] Sous-domaines : Les druides, les inquisiteurs et les autres classes qui ont accès à des domaines peuvent-ils prendre les sous-domaines listés dans la section du MRA portée sur le prêtre ?***
 
 Oui, tant qu'ils suivent les règles relatives aux <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> présentées à la page 124. Un personnage qui n'a pas de divinité tutélaire (comme certains druides ou paladins) peut choisir un unique sous-domaine associé à un domaine accessible pour sa classe.
----
+<hr />
 ***[[FAQ- Manuel des joueurs - Règles avancées#47|→]] Prêtre, Sous-domaines Extérieurs : Comment suis-je censé utiliser le sort de domaine *contrat intermédiaire* offert par ces sous-domaines ?***
 
-Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[[cercle magique contre le Chaos]]* <nowiki>[[</nowiki>Loi<nowiki>]]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [[Prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] dans le *Manuel des joueurs*).
-La solution est d'autoriser l'utilisation du sort de domaine *[[contrat intermédiaire]]* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)
+Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[[cercle magique contre le Chaos]]* <nowiki>[[</nowiki>Loi<nowiki>]]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [[Prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] dans le *Manuel des joueurs*).  
+La solution est d'autoriser l'utilisation du sort de domaine *[[contrat intermédiaire]]* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)  
 Ce texte sera modifié dans une future impression du *Manuel des joueurs - Règles avancées*.}{s:APG}**Les sous-domaines.** Chaque domaine se décline en sous-domaines associés. Ils remplacent un des pouvoirs accordés par la [[Divinités|divinité]] ainsi qu’un certain nombre de sorts dans la liste du prêtre. Un prêtre qui choisit un sous-domaine particulier doit avoir accès à son domaine associé et au sous-domaine choisit grâce à sa divinité et ne peut pas choisir le domaine qui lui est associé comme autre domaine (en pratique, le sous-domaine remplace le domaine qui lui est associé). On considère que les sous-domaines ont les mêmes effets et les mêmes prérequis que les domaines auxquels ils sont associés. Si un sous-domaine est associé à deux domaines, le prêtre ne peut sélectionner que l’un des deux domaines. Les [[Druide|druides]] peuvent également choisir des sous-domaines (à l’exception de celui du [[Domaine de la Terre#Sous-domaines_0|Métal]]), de même que les [[Inquisiteur]] (si leur divinité le leur permet).
 
 Si un pouvoir de domaine nécessite un [[jds|jet de sauvegarde]], le [[DD]] sera égal à 10 + la moitié du niveau de prêtre + le modificateur de [[Sagesse]] du prêtre.

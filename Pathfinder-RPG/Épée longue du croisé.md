@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Épée longue du croisé|{s:WMH}}
 **Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 47 315 po ; **Poids** 2 kg
 (((Caractéristiques)))
-{s:cs}Cette *[[épée longue (arme)|épée longue]] [[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]] de démons +1* en [[fer froid]] est apposée du symbole de la déesse de la bravoure. Lorsque le porteur utilise la capacité [[paladin#PACTEDIVIN|pacte divin]] ou [[Prêtre combattant#ARMESACREE|arme sacrée]] pour l'améliorer, l’*épée longue du croisé* augmente le nombre de points de bonus d'altération qu'il peut dépenser avec ces capacités de 1.
+{s:cs}Cette *[[épée longue (arme)|épée longue]] [[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]] de démons +1* en [[fer froid]] est apposée du symbole de la déesse de la bravoure. Lorsque le porteur utilise la capacité [[paladin#PACTEDIVIN|pacte divin]] ou [[Prêtre combattant#ARMESACREE|arme sacrée]] pour l'améliorer, l’*épée longue du croisé* augmente le nombre de points de bonus d'altération qu'il peut dépenser avec ces capacités de 1.  
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[châtiment sacré]]*, *[[convocation de monstres I]]*, le créateur doit être un suivant de la [[Golarion.Iomédae|déesse de la bravoure]], le créateur doit être un [[paladin]] ou un [[prêtre combattant]] ; **Coût** 23 815 po
 </div>

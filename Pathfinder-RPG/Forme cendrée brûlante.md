@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 4, [[ensorceleur|Ens]]/[[magicien|Mag]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|G, M]] (une bande de gaze et une poignée de cendres)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature tangible et consentante touchée
-**Durée** 1 minute/[[niveau]]
+{s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 4, [[ensorceleur|Ens]]/[[magicien|Mag]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|G, M]] (une bande de gaze et une poignée de cendres)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature tangible et consentante touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[état gazeux]]*, à la seule différence que la cible se transforme en tourbillon visible de cendres et de fumée brûlant plutôt qu’en gaz translucide. La cible gagne le [[sous-type feu]]. Une créature qui commence son tour dans un espace occupé par la cible reçoit 2d6 points de dégâts de feu et doit réussir un jet de [[Vigueur]] (DD 15 + 1 par jet précédent) ou subir les effets de l’inhalation de [[Dangers naturels#FUMEE|fumée]].
 
 ### Version mythique
@@ -29,14 +29,14 @@ Ce sort fonctionne comme *[[état gazeux]]*, à la seule différence que la cibl
 
 (((
 ## État gazeux
-**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|G, M/FD]] (un morceau de gaze et une volute de fumée)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature tangible et consentante touchée
-**Durée** 2 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|G, M/FD]] (un morceau de gaze et une volute de fumée)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature tangible et consentante touchée  
+**Durée** 2 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 La cible et tout son équipement perdent toute substance et se transforment en brume translucide. Ses protections physiques (son armure et son armure naturelle par exemple) perdent leur efficacité mais ses bonus de taille, de [[Dextérité]] et de parade s’appliquent encore, tout comme les bonus d’armure que lui procurent des effets de force. Le sujet gagne une [[RD|réduction des dégâts]] de 10/magie et acquiert une [[immunité]] contre le [[poison]], les [[attaque sournoise|attaques sournoises]] et les [[coup critique|coups critiques]]. Il ne peut ni attaquer ni lancer de sorts à [[composante verbale|composantes verbales]], [[composante gestuelle|gestuelles]] ou [[composante matérielle|matérielles]] ; cela ne l’empêche cependant pas de jeter les sorts qu’il aurait préparés en utilisant les [[dons#DONMETAMAGIE|dons de métamagie]] [[Dispense de composantes matérielles]], [[Incantation silencieuse]] et [[Incantation statique]]. Le sujet perd également tous ses [[pouvoir surnaturel|pouvoirs surnaturels]]. S’il avait lancé un sort de [[Présentation des sorts#PORTEE|contact]] mais ne l’avait pas encore utilisé, l’énergie de celui-ci se dissipe sans aucun effet lorsqu’il entre en *état gazeux*.
 
 La créature gazeuse est incapable de courir, mais elle sait voler à une [[vitesse de déplacement]] de 3 m (2 cases) et réussit automatiquement ses tests de [[Vol]]. Elle peut passer par le moindre trou ou la plus petite fissure, emmenant avec elle tout ce qu’elle transporte. Elle est emportée par le vent et ne peut pas entrer dans l’eau ou tout autre liquide. Elle ne peut manipuler ou activer des objets, ce qui inclut ceux qu’elle porte sous *état gazeux*. Les objets qui sont perpétuellement actifs le restent, mais il est possible que leurs effets soient neutralisés.

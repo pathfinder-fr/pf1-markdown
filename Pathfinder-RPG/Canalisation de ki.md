@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Lorsque le personnage canalise de l'énergie positive, il peut aussi canaliser du ki.*
+{s:cs}{s:ISG}*Lorsque le personnage canalise de l'énergie positive, il peut aussi canaliser du ki.* 
 
 **Conditions.** Capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] positive, suivant d'[[Irori (technique)|Irori]]
 

@@ -4,7 +4,7 @@ Title: Temp-Manuel des PNJ
 LastModified: 2020-12-10 17:06
 ---
 
-Le manuel des PNJ en vf comprend plusieurs livres édités en vo :
+Le manuel des PNJ en vf comprend plusieurs livres édités en vo : 
 
 snippet à créer MPNJ pour manuel des PNJ et guide des PNJ Rivaux
 

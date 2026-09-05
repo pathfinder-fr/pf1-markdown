@@ -14,27 +14,27 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (quelques crins)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 monture
-**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (quelques crins)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 monture  
+**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fait apparaître un [[cheval|cheval léger]] ou un [[poney]] (au choix) servant de monture au personnage (voir le Bestiaire Pathfinder RPG). L’animal le sert fidèlement et de son plein gré. Il est équipé d’un mors et d’une selle.
 
 
 
 ((({s:sortssimilaires|monture}
 ## [[Monture (partagé)]]
-{s:UC}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (quelques crins)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** jusqu'à six montures
-**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:UC}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (quelques crins)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** jusqu'à six montures  
+**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[monture]]* mais il permet d’invoquer un maximum de six [[cheval|chevaux légers]] ou [[poney|poneys]] et la durée se divise entre les montures invoquées, par portions de 2 heures.
 )))

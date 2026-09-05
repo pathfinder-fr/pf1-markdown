@@ -11,11 +11,11 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3
-**Temps d’incantation** 10 minutes
-**Composantes** [[composantes|V, G, F]] (un [[Jeu du tourment (objet)|jeu du tourment]])
-**Portée** contact
-**Cible** une créature
+{s:CCMI}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[composantes|V, G, F]] (un [[Jeu du tourment (objet)|jeu du tourment]])  
+**Portée** contact  
+**Cible** une créature  
 **Durée** 1 jour/niveau ou jusqu’à accomplissement
 
 Le personnage utilise un [[Jeu du tourment (objet)|jeu du tourment]] pour lire la bonne aventure, pour lui ou pour quelqu’un d’autre. S’il lance *lecture du tourment* sur une créature, il doit lui rester adjacent pendant toute la durée de l’incantation. La lecture doit décrire un événement ou une marche à suivre (par exemple, « chasser le roi des pirates » ou « se rendre à un endroit précis pour chercher une épée magique »). La cible du tourment devra s’exécuter, à un moment ou un autre, pendant la durée du sort.

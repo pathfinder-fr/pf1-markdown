@@ -18,9 +18,9 @@ Categories:
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 **Effet** 6 m (4 {s:c}) de rayon, centré sur une créature, un objet ou un point dans l'espace  
 **Durée** 1 [[round]]/[[niveau]] (T)  
-**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
-([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] 
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui 
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage crée une émanation magique qui interfère avec toutes les hallucinations et les chimères situées à l’intérieur, ce qui donne un bonus de +4 aux [[jet de sauvegarde|jets de sauvegarde]] des créatures pour comprendre qu’il s’agit d’une [[illusion]]. L’émanation annule le [[camouflage]] autre que total. Les tests de [[Perception]] pour remarquer des créatures ou des objets dans la zone bénéficient d’un bonus égal à la moitié du
+Le personnage crée une émanation magique qui interfère avec toutes les hallucinations et les chimères situées à l’intérieur, ce qui donne un bonus de +4 aux [[jet de sauvegarde|jets de sauvegarde]] des créatures pour comprendre qu’il s’agit d’une [[illusion]]. L’émanation annule le [[camouflage]] autre que total. Les tests de [[Perception]] pour remarquer des créatures ou des objets dans la zone bénéficient d’un bonus égal à la moitié du 
 [NLS|niveau de lanceur de sorts]] du personnage (+10 au maximum). Le sort est stationnaire si on le lance sur un point dans l’espace et mobile si on le lance sur une créature ou un objet, bien que les créatures et les objets tenus aient droit à un [[jet de sauvegarde]] ou un test de [[résistance à la magie]] pour annuler l’effet du sort.

@@ -12,7 +12,7 @@ Categories:
 L'organisation est née il y a une dizaine d'années. Elle est très fortement divisée et ses membres ne connaissent pas personnellement les autres membres de l'organisation. Chacun à une tâche particulière qui empêche de faire tomber l'ensemble du réseau. Certains vont "kidnapper" les esclaves halfelins dans les fermes auxquelles ils sont attachés, d'autres vont les convoyer vers des caches qui sont gérées par une troisième personne. C'est là que les quatrièmes viennent les récupérer pour amener les halfelins à des passeurs qui leur feront passer les frontières.
 
 ### Le Fermier
-Personne ne connaît réellement celui qui se fait appeler *Le Fermier*. Certains prétendent qu'il s'agit d'un unique halfelin, d'autres qu'ils sont plusieurs à se partager le rôle. La rumeur la plus sérieuse fait état d'un ancien esclave de [[Corentyn]] qui aurait tué son ancien maître et se serait enfui d'abord au [[Rahadoum]] puis en [[Andoran]].
+Personne ne connaît réellement celui qui se fait appeler *Le Fermier*. Certains prétendent qu'il s'agit d'un unique halfelin, d'autres qu'ils sont plusieurs à se partager le rôle. La rumeur la plus sérieuse fait état d'un ancien esclave de [[Corentyn]] qui aurait tué son ancien maître et se serait enfui d'abord au [[Rahadoum]] puis en [[Andoran]]. 
 
 Enfin, les plus récents racontars indiquent que le réseau aurait été créé par les [[Chevaliers de lAigle|Chevaliers de l'Aigle]] d'[[Andoran]] avec pour objectif masqué de repérer les différents axes entre les villes chélaxiennes. Cette étude montrerait les velléités andoranes de commencer une guerre contre le [[Chéliax]].
 

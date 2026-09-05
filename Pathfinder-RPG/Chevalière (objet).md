@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** —
+{s:AE}**Prix** 5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cet anneau présente un motif en relief, généralement des armoiries familiales ou un sigle officiel. Le personnage presse la chevalière sur de la [[Cire à cacheter (objet)|cire fondue]] pour y imprimer ce symbole.

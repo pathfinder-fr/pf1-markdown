@@ -36,11 +36,11 @@ A travers l'histoire, le nombre de Rois des Linnorms a beaucoup varié. Ils sont
 
 
 ### Habitants des Terres des Rois des Linnorms
-Les habitants humanoïdes les plus nombreux de cette terre gelée sont les [[Ulfes]]. Les Terres des Rois des Linnorms ont toujours été le centre spirituel des [[Ulfes]]. On a découvert des traces d'habitats ulfes datant de l'Âge de la Destinée, mais on suppose qu'ils y vivaient déjà depuis longtemps. En plus des [[Ulfes]], on peut aussi croiser quelques [[Varisiens]], des [[nains]] et des [[gnomes]].
+Les habitants humanoïdes les plus nombreux de cette terre gelée sont les [[Ulfes]]. Les Terres des Rois des Linnorms ont toujours été le centre spirituel des [[Ulfes]]. On a découvert des traces d'habitats ulfes datant de l'Âge de la Destinée, mais on suppose qu'ils y vivaient déjà depuis longtemps. En plus des [[Ulfes]], on peut aussi croiser quelques [[Varisiens]], des [[nains]] et des [[gnomes]]. 
 
 Les autre occupants des Terres des Rois des Linnorms sont essentiellement des créatures féériques, qui sont peut-être plus nombreuses que les humains. Ceci s'explique facilement par le fait que sous cette terre se situe un portail permettant d'accéder au Monde Premier.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Terres des Rois des Linnorms dans le supplément
+Vous pourrez trouver plus d'informations à propos des Terres des Rois des Linnorms dans le supplément 
 - [[Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

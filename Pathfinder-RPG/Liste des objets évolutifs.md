@@ -15,7 +15,7 @@ Cette partie présente des armures et des boucliers aux pouvoirs et aux proprié
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Armure de l'Argmageddon}
-**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** armure ;
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** armure ;  
 **Catégorie** merveille ; **Prix** 2650 po ; **Poids** 25 kg
 (((Description)))
 Cette *armure de l’Armageddon* fonctionne comme un *[[harnois (armure)|harnois]] +1* pour presque tous leurs porteurs : elle s’adapte automatiquement aux individus de taille P à G quand ils l’enfilent. Le style de cette armure noircie, dotée d’articulations et d’un casque, n’est pas sans rappeler la légendaire tarasque.
@@ -35,7 +35,7 @@ Cette *armure de l’Armageddon* fonctionne comme un *[[harnois (armure)|harnois
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Armure de l'hôte céleste}
-**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** armure ;
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** armure ;  
 **Catégorie** trophée ; **Prix** 6900 po ; **Poids** 10 kg
 (((Description)))
 Cette lumineuse *[[cotte de mailles (armure)|cotte de mailles]] +1* en or et en argent est si raffinée qu’il est possible de la porter sous des vêtements ordinaires sans qu’elle ne se voie. Elle possède un [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité maximal]] de +5, un [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] de -2 et un [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] de 15%. Elle est considérée comme une [[armure légère]].
@@ -53,7 +53,7 @@ Cette lumineuse *[[cotte de mailles (armure)|cotte de mailles]] +1* en or et en 
 
 <div class="BD">
 {s:BDTitre|Bouclier draconique}
-**Aura** [[Abjuration]] puissante ; **NLS** 14 ; **Emplacement** bouclier ;
+**Aura** [[Abjuration]] puissante ; **NLS** 14 ; **Emplacement** bouclier ;  
 **Catégorie** trophée ; **Prix** 28557 po ; **Poids** 5 kg
 (((Description)))
 Cet *[[écu (armure)|écu en bois]] +1* est recouvert d’une peau de dragon tendue et il est renforcé de plaques pétrifiées taillées dans les écailles de dragon les plus épaisses. Le bonus d’altération à la [[CA]] du *bouclier draconique* augmente de 1 contre toutes les créatures de type dragon ou de 2 contre les dragons du type spécifique utilisé pour fabriquer ce bouclier. Ce bonus d’altération s’applique également aux [[jds|jets de sauvegarde]] contre le souffle des dragons. Si le porteur réussit un jet de sauvegarde contre le souffle d’un dragon, il ne subit aucun dégât.
@@ -75,7 +75,7 @@ Cette partie présente des armes aux propriétés magiques et aux pouvoirs inhab
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Flèche de l'héritage}
-**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** aucun ;
+**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** aucun ;  
 **Catégorie** babiole ; **Prix** 305 po ; **Poids** 50 g
 (((Description)))
 Cette flèche joliment sculptée survit toujours aux tirs. Si elle se concentre par une [[action simple]], la dernière personne qui a tiré la flèche peut savoir dans quelle direction celle-ci a atterri, jusqu’à une distance maximale de 1,5 kilomètre. Cet effet se dissipe 24 heures après que la flèche a été tirée. De base, une *flèche de l’héritage* fonctionne simplement comme une flèche [[arme de maître|de maître]] mais n’est jamais détruite et peut être récupérée après utilisation. Cet objet magique évolutif peut prendre la forme d’autres types de munitions : carreaux, shurikens, billes de fronde et même balles d’armes à feu.
@@ -95,7 +95,7 @@ Cette flèche joliment sculptée survit toujours aux tirs. Si elle se concentre 
 
 <div class="BD">
 {s:BDTitre|Lame assoiffée}
-**Aura** [[Nécromancie]] modérée ; **NLS** 6 ; **Emplacement** aucun ;
+**Aura** [[Nécromancie]] modérée ; **NLS** 6 ; **Emplacement** aucun ;  
 **Catégorie** merveille ; **Prix** 4800 po ; **Poids** 1 kg
 (((Description)))
 Cette longue *[[dague (arme)|dague]] +1* incurvée émet un bourdonnement de satisfaction quand on la plonge dans le sang. Malgré la longueur de sa lame, elle se lance normalement et peut infliger un coup critique sur un résultat de 18 à 20.
@@ -116,7 +116,7 @@ Cette longue *[[dague (arme)|dague]] +1* incurvée émet un bourdonnement de sat
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Lance du maître-chasseur}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 6 ; **Emplacement** aucun ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 6 ; **Emplacement** aucun ;  
 **Catégorie** trophée ; **Prix** 2650 po ; **Poids** 3 kg
 (((Description)))
 Cette *[[lance (arme)|lance]] +1* taillée dans un bois noir de jais est dotée d’une lame d’ambre poli. Le porteur de la lance peut utiliser *[[repérage]]* à volonté.
@@ -132,7 +132,7 @@ Cette *[[lance (arme)|lance]] +1* taillée dans un bois noir de jais est dotée 
 
 <div class="BD">
 {s:BDTitre|Masse d'armes multi-mécanique}
-**Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement** aucun ;
+**Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement** aucun ;  
 **Catégorie** trophée ; **Prix** 2650 po ; **Poids** 2 kg
 (((Description)))
 Le manche de cette *[[masse darmes légère (arme)|masse d’armes légère]] +1* est entourés de bandes de différents métaux, chacune faisant 2,5 centimètres d’épaisseur. Une fois par jour, le propriétaire de la masse d’armes peut la transformer en une masse d’un métal différent par une [[action simple]]. La *masse d’armes multi-métallique* reste faite de ce métal jusqu’à la prochaine transformation. Pour commencer, le métal qui la compose peut passer de l’[[argent]] à l’acier et vice versa. Elle conserve toutes ses propriétés magiques quand elle se transforme, ainsi que tous les sorts et effets en cours qui l’affectent à ce moment-là.
@@ -148,7 +148,7 @@ Le manche de cette *[[masse darmes légère (arme)|masse d’armes légère]] +1
 
 <div class="BD">
 {s:BDTitre|Vengeance sacrée}
-**Aura** [[Abjuration]] modérée <nowiki>[[</nowiki>Bien<nowiki>]]</nowiki> ; **NLS** 6 ; **Emplacement** aucun ;
+**Aura** [[Abjuration]] modérée <nowiki>[[</nowiki>Bien<nowiki>]]</nowiki> ; **NLS** 6 ; **Emplacement** aucun ;  
 **Catégorie** merveille ; **Prix** 4800 po ; **Poids** 2 kg
 (((Description)))
 Cette [[épée longue (arme)|épée longue]] [[arme de maître|de maître]] en [[fer froid]] devient une *[[épée longue (arme)|épée longue]] en [[fer froid]] +1* entre les mains d’un [[paladin]].
@@ -172,7 +172,7 @@ Les anneaux accordent des capacités magiques à leurs porteurs. Tout le monde p
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Anneau du drake (des flammes)}
-**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 6000 po ; **Poids** —
 (((Description)))
 Sculpté dans une pierre rouge en forme de dragon aux ailes scintillantes, cet anneau confère à son porteur une résistance au feu de 5. Il dégage une odeur de soufre persistante tant qu’il protège son porteur.
@@ -189,7 +189,7 @@ Sculpté dans une pierre rouge en forme de dragon aux ailes scintillantes, cet a
 
 <div class="BD">
 {s:BDTitre|Anneau du drake (des forêts)}
-**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 6000 po ; **Poids** —
 (((Description)))
 Sculpté dans une pierre gris-vert en forme de tête de dragon, cet anneau confère à son porteur une résistance à l’acide de 5. L’anneau en pierre dégage une odeur d’acide persistante tant qu’il protège son porteur.
@@ -206,7 +206,7 @@ Sculpté dans une pierre gris-vert en forme de tête de dragon, cet anneau conf�
 
 <div class="BD">
 {s:BDTitre|Anneau du drake (des mers)}
-**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 6000 po ; **Poids** —
 (((Description)))
 Sculpté dans une pierre bleu-vert en forme de dragon ondulant, cet anneau confère à son porteur une résistance à l’électricité de 5. L’anneau en pierre dégage une odeur d’iode persistante tant qu’il protège son porteur.
@@ -223,7 +223,7 @@ Sculpté dans une pierre bleu-vert en forme de dragon ondulant, cet anneau conf�
 
 <div class="BD">
 {s:BDTitre|Anneau du drake (du froid)}
-**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 6000 po ; **Poids** —
 (((Description)))
 Sculpté dans une pierre blanche en forme de dragon enroulé, cet anneau confère à son porteur une résistance au froid de 5. Il dégage une odeur de frais persistante tant qu’il protège son porteur.
@@ -240,7 +240,7 @@ Sculpté dans une pierre blanche en forme de dragon enroulé, cet anneau confèr
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Anneau du filou}
-**Aura** [[Illusion]] faible ; **NLS** 4 ; **Emplacement** anneau ;
+**Aura** [[Illusion]] faible ; **NLS** 4 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 1080 po ; **Poids** —
 (((Description)))
 Cet anneau casse-tête à cinq pièces doit être correctement assemblé pour pouvoir le glisser au doigt. Une fois par jour par une [[action de mouvement]], le porteur peut créer une seule image miroir comme s’il utilisait le pouvoir de double du [[domaine de la Duperie]]. Si le porteur est un prêtre possédant le domaine de la Duperie et le pouvoir de double, il gagne à la place deux utilisations supplémentaires de ce pouvoir.
@@ -258,7 +258,7 @@ Cet anneau casse-tête à cinq pièces doit être correctement assemblé pour po
 
 <div class="BD">
 {s:BDTitre|Anneau du seigneur de la terre}
-**Aura** [[Invocation]] modérée ; **NLS** 6 ; **Emplacement** anneau ;
+**Aura** [[Invocation]] modérée ; **NLS** 6 ; **Emplacement** anneau ;  
 **Catégorie** merveille ; **Prix** 4800 po ; **Poids** —
 (((Description)))
 Cet anneau en pierre est constamment recouvert d’une fine couche de poussière. Il accorde à son porteur le pouvoir de *[[fusion dans la pierre]]* une fois par jour.
@@ -277,7 +277,7 @@ Cet anneau en pierre est constamment recouvert d’une fine couche de poussière
 
 <div class="BD">
 {s:BDTitre|Quintuplés du feu}
-**Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** anneau ;
+**Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** anneau ;  
 **Catégorie** trophée ; **Prix** 10800 po ; **Poids** —
 (((Description)))
 Ces cinq anneaux en or sont tous sertis d’une opale de feu et sont enfilés par une chaîne en or toute fine (ils n’occupent donc qu’un seul emplacement d’anneau). Le porteur peut décocher jusqu’à cinq *[[rayon ardent|rayons ardents]]* par jour, un de chaque anneau. Il peut libérer un rayon par une [[action simple]] ou deux rayons (de deux anneaux différents) par une [[action complexe]].
@@ -299,7 +299,7 @@ Les sceptres sont des sortes de baguettes aux capacités magiques uniques et qui
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Sceptre de mimétisme}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement** aucun ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement** aucun ;  
 **Catégorie** babiole ; **Prix** 1350 po ; **Poids** 1 kg
 (((Description)))
 La surface lisse de ce sceptre a été polie au point de lui donner une brillance réfléchissante. Deux cabochons (un ambre et un viride) enchâssés aux extrémités contrôlent les fonctions du sceptre. Une créature peut presser la pierre viride puis faire rouler le sceptre sur un écrit posé sur une surface plane pour copier cet écrit à l’intérieur du sceptre en laissant le texte original intact. Elle peut reproduire le texte original en pressant l’ambre et en faisant rouler le sceptre sur une autre surface plane. Le texte est stocké dans le sceptre jusqu’à ce que la pierre viride soit à nouveau pressée. Le sceptre peut copier un texte couvrant une surface égale à la sienne : 25 centimètres par 30. Il est possible de copier des pages de grimoire dans un *sceptre de mimétisme* mais pareil procédé ne sert qu’à sauvegarder le texte pour le retranscrire plus tard : le lanceur doit toujours s’acquitter du prix total de la [[Magie profane#ECRITS|copie du sort dans un grimoire]]. Le sceptre ne permet pas de copier des pièges basés sur des écrits magiques tels que des *[[runes explosives]]*, mais qui tente de le faire ne déclenche pas le piège à moins que le mouvement de l’objet magique sur le texte ne le déclenche normalement.
@@ -315,7 +315,7 @@ La surface lisse de ce sceptre a été polie au point de lui donner une brillanc
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Sceptre du seigneur de la mort}
-**Aura** [[Nécromancie]] modérée ; **NLS** 9 ; **Emplacement** aucun ;
+**Aura** [[Nécromancie]] modérée ; **NLS** 9 ; **Emplacement** aucun ;  
 **Catégorie** merveille ; **Prix** 16005 po ; **Poids** 2 kg
 (((Description)))
 Ce sceptre et le petit crâne qui le surmonte sont faits d’adamantium noirci. Il est possible de le manier comme une *[[masse darmes légère (arme)|masse d’armes légère]] [[conductrice (propriété)|conductrice]] +1*. Sur commande du manipulateur, le sceptre se transforme en [[morgenstern (arme)|morgenstern]], en [[masse darmes lourde (arme)|masse d’armes lourde]], en [[fléau darmes léger (arme)|fléau d’armes léger]] ou en [[fléau darmes lourd (arme)|fléau d’armes lourd]]. Il reprend sa forme normale si on le lâche pendant un [[round]]. Les commandants des légions de morts-vivants manient souvent ces sceptres pour imposer leur autorité. Le fait de changer le type de l’arme peut servir à signaler un changement de stratégie pour les hordes de morts-vivants : la masse d’armes indique une marche régulière, le morgenstern un assaut frontal, le fléau d’armes un repli, etc.
@@ -338,12 +338,12 @@ Un bâton est un long manche contenant plusieurs sorts. Les bâtons renferment g
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Bâton des trajectoires}
-**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** aucun ;
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** aucun ;  
 **Catégorie** trophée ; **Prix** 8000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce bâton en bois est gravé de motifs complexes représentant des vagues, des bourrasques, des sentiers et des plantes grimpantes. À mesure que son porteur progresse en niveaux, les motifs s’animent, d’abord lentement puis de plus en plus vite et fort. Aux niveaux supérieurs, une scène naturelle complexe et mouvante, avec des sentiers dessinant des embranchements et des tsunamis dévastateurs, s’anime sur la surface du bâton. Il permet d’utiliser les sorts suivants.
-• *[[Grand pas]]* (1 charge)
-• *[[Repli expéditif]]* (2 charges)
+Ce bâton en bois est gravé de motifs complexes représentant des vagues, des bourrasques, des sentiers et des plantes grimpantes. À mesure que son porteur progresse en niveaux, les motifs s’animent, d’abord lentement puis de plus en plus vite et fort. Aux niveaux supérieurs, une scène naturelle complexe et mouvante, avec des sentiers dessinant des embranchements et des tsunamis dévastateurs, s’anime sur la surface du bâton. Il permet d’utiliser les sorts suivants.  
+• *[[Grand pas]]* (1 charge)  
+• *[[Repli expéditif]]* (2 charges)  
 • *[[Poisson-singe]]* (2 charges)
 - **Niveau 12.** Le bâton permet d’utiliser *[[pattes daraignée|pattes d’araignée]]* pour 2 charges. Le coût de *[[repli expéditif]]* et de *[[poisson-singe]]* est réduit à 1 charge.
 - **Niveau 14.** Le bâton permet d’utiliser *[[sort Vol|vol]]* pour 2 charges. Le coût de *[[pattes daraignée|pattes d’araignée]]* est réduit à 1 charge.
@@ -359,11 +359,11 @@ Ce bâton en bois est gravé de motifs complexes représentant des vagues, des b
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Bâton du seigneur du bûcher}
-**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ;
+**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ;  
 **Catégorie** merveille ; **Prix** 8000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce bâton est entièrement taillé dans de l’obsidienne polie incrustée de rubis. Des flammes vacillantes semblent danser sur sa surface. À mesure que le porteur progresse en niveaux, les flammes illusoires deviennent de plus en plus grandes et changent de couleur : d’abord jaune pâle, elles finissent par devenir bleu foncé. Ce bâton permet d’utiliser les sorts suivants.
-• *[[Étincelles]]* (1 charge)
+Ce bâton est entièrement taillé dans de l’obsidienne polie incrustée de rubis. Des flammes vacillantes semblent danser sur sa surface. À mesure que le porteur progresse en niveaux, les flammes illusoires deviennent de plus en plus grandes et changent de couleur : d’abord jaune pâle, elles finissent par devenir bleu foncé. Ce bâton permet d’utiliser les sorts suivants.  
+• *[[Étincelles]]* (1 charge)  
 • *[[Rayon ardent]]* (2 charges)
 - **Niveau 10.** *[[Rayon ardent]]* ne coûte plus qu’une charge et le bâton permet d’utiliser *[[boule de feu]]* pour 2 charges.
 - **Niveau 12.** Les sorts de *[[boule de feu]]* du bâton deviennent des boules de feu à [[Extension deffet|Extension d’effet]] ; le bâton fonctionne comme un *[[bâton (arme)|bâton]] de [[feu (propriété)|feu]] +1* quand son porteur combat avec.
@@ -389,7 +389,7 @@ Il existe deux grandes catégories d’objets merveilleux : les objets à emplac
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Bécher des poisons à foison}
-**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement**  aucun ;
+**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement**  aucun ;  
 **Catégorie** trophée ; **Prix** 3600 po ; **Poids** 0,5 kg
 (((Description)))
 Cette fiole évasée en verre trempé est fermée par un bouchon et peut contenir jusqu’à 5 doses de poison différent. Le porteur peut fabriquer jusqu’à 5 doses de poison simultanément avec ce bécher. Il doit effectuer des tests d’[[Artisanat]] (alchimie) pour chaque dose de poison mais peut progresser sur les cinq doses simultanément (en effectuant, en même temps, les tests pour connaître les progrès réalisés pour la semaine ou la journée). L’utilisateur peut également verser des doses de poison déjà prêtes dans le bécher. Les poisons ne se mélangent pas tant qu’ils sont stockés de cette façon et l’utilisateur peut décanter ceux qu’il souhaite (y compris les poisons incomplets) en nommant le poison qu’il souhaite déverser.
@@ -406,7 +406,7 @@ Cette fiole évasée en verre trempé est fermée par un bouchon et peut conteni
 
 <div class="BD">
 {s:BDTitre|{s:Reference|BOTTESDELESPRITELFIQUE}Bottes de l’esprit elfique}
-**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement**  pieds ;
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement**  pieds ;  
 **Catégorie** babiole ; **Prix** 3100 po ; **Poids** 0,5 kg
 (((Description)))
 Ces bottes légères et élégantes sont solides mais douces au toucher puisqu’elles sont en partie constituées de feuilles vivantes et autres matériaux naturels. Elles confèrent à leur porteur un bonus de compétence de +5 aux tests d’[[Acrobaties]] et lui permettent de considérer la première case de [[terrain difficile]] dans laquelle il pénètre chaque round comme un terrain normal.
@@ -423,7 +423,7 @@ Ces bottes légères et élégantes sont solides mais douces au toucher puisqu�
 
 <div class="BD">
 {s:BDTitre|Bottes de la brute}
-**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement**  pieds ;
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement**  pieds ;  
 **Catégorie** merveille ; **Prix** 5814 po ; **Poids** 3 kg
 (((Description)))
 Ces lourdes bottes grossières sont ornées de nombreuses plaques de fer et de pointes rouillées qui leur donnent un côté effrayant. Le porteur peut utiliser les *bottes de la brute* pour attaquer comme s’il portait un [[gantelet (arme)|gantelet]] en [[fer froid]] [[arme de maître|de maître]] ou un [[gantelet clouté (arme)|gantelet clouté]] en [[fer froid]] [[arme de maître|de maître]], en fonction de la partie des bottes qu’il utilise. Ces bottes protègent également les pieds du porteur comme si elles avaient une [[solidité]] de 8. Cette solidité ne s’applique que contre les effets affectant directement les pieds de la cible, comme les [[Chausse-trappes (objet)|chausse-trappes]], *[[croissance dépines|croissance d’épines]]*, *[[pierres acérées]]* ou les flaques d’[[Acide (objet)|acide]]. Elle s’applique également contre les effets infligeant des dégâts à l’adversaire, comme *[[bouclier de feu]]*, *[[corps épineux]]* ou les défenses barbelées des [[Diable barbelé|diables barbelés]], mais uniquement si le porteur utilise les *bottes de la brute* pour effectuer une attaque.
@@ -439,7 +439,7 @@ Ces lourdes bottes grossières sont ornées de nombreuses plaques de fer et de p
 
 <div class="BD">
 {s:BDTitre|Bottes de réactivité}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 9 ; **Emplacement**  pieds ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 9 ; **Emplacement**  pieds ;  
 **Catégorie** babiole ; **Prix** 2650 po ; **Poids** 0,5 kg
 (((Description)))
 Ces bottes moulantes en cuir noir permettent à leur porteur de mieux se préparer avant la bataille. Quand le porteur n’a pas encore agi au début d’un combat, les bottes lui confèrent un bonus de chance de +2 aux [[jds|jets de sauvegarde]] ainsi que 12 points de vie temporaires. Ces deux effets se dissipent quand vient le premier tour du porteur, même s’il retarde son action.
@@ -454,10 +454,10 @@ Ces bottes moulantes en cuir noir permettent à leur porteur de mieux se prépar
 
 <div class="BD">
 {s:BDTitre|Bracelets de bouclier de force}
-**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement**  poignets ;
+**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement**  poignets ;  
 **Catégorie** trophée ; **Prix** 5950 po ; **Poids** 1 kg
 (((Description)))
-Ces bracelets accentués de cristal sont fixés par des lanières métalliques et une fine dentelle de fil de fer enchâssée. Le porteur peut demander aux bracelets de créer un bouclier de force pour le protéger. Chaque bracelet peut créer un bouclier pendant un maximum de 10 minutes par jour. Cette durée doit être dépensée par incréments de 1 minute. Si le porteur n’utilise qu’un seul bracelet de force, celui-ci crée une [[targe (armure)|targe]], une [[rondache (arme)|rondache]] ou un [[écu (armure)|écu]] de force. Si le porteur active les deux bracelets de force en même temps, le bouclier de force généré équivaut à un [[pavois (armure)|pavois]].
+Ces bracelets accentués de cristal sont fixés par des lanières métalliques et une fine dentelle de fil de fer enchâssée. Le porteur peut demander aux bracelets de créer un bouclier de force pour le protéger. Chaque bracelet peut créer un bouclier pendant un maximum de 10 minutes par jour. Cette durée doit être dépensée par incréments de 1 minute. Si le porteur n’utilise qu’un seul bracelet de force, celui-ci crée une [[targe (armure)|targe]], une [[rondache (arme)|rondache]] ou un [[écu (armure)|écu]] de force. Si le porteur active les deux bracelets de force en même temps, le bouclier de force généré équivaut à un [[pavois (armure)|pavois]].  
 Quel que soit le type de bouclier de force créé, il ne pèse rien et n’impose que la moitié du [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] normal. Outre cela, il répond aux règles normales de l’utilisation et du maniement des boucliers. Le bouclier confère le même bonus à la [[CA]] correspondant. Étant donné que c’est un champ de force, son bonus s’applique contre les attaques de contact intangibles.
 - **Niveau 10.** Si le porteur a créé un écu de force, il peut dépenser 1 minute de la durée du bouclier pour effectuer une seule attaque de coup de bouclier comme si celui-ci était doté de la propriété spéciale d’*[[attaque (propriété)|attaque]]*, avec un bonus d’altération au [[jet dattaque|jet d’attaque]] égal à un quart des [[DV|dés de vie]] du porteur (+5 au maximum).
 - **Niveau 12.** Si le porteur a créé un pavois de force, il peut le détacher de son bras et l’utiliser comme une *[[main impérieuse]]* avec un nombre de points de vie égal à la moitié des points de vie du porteur. Le porteur ne bénéficie plus des avantages conférés par le pavois tant que la *main impérieuse* est active. Chaque [[round]] d’utilisation de la main impérieuse dépense une minute de la durée d’utilisation de chaque bracelet.
@@ -470,7 +470,7 @@ Quel que soit le type de bouclier de force créé, il ne pèse rien et n’impos
 
 <div class="BD">
 {s:BDTitre|Bracelets de la caresse féerique}
-**Aura** [[Enchantement]] faible ; **NLS** 4 ; **Emplacement**  poignets ;
+**Aura** [[Enchantement]] faible ; **NLS** 4 ; **Emplacement**  poignets ;  
 **Catégorie** babiole ; **Prix** 480 po ; **Poids** —
 (((Description)))
 Ces bracelets sont sculptés dans un argent solide mais étonnamment fin. Ils brillent et scintillent légèrement dans l’ombre ou sous la lumière de la lune. Le porteur peut les activer une fois par jour par une [[action libre]] pour bénéficier d’un bonus de compétence de +4 à un test de [[Bluff]] ou de [[Discrétion]].
@@ -485,7 +485,7 @@ Ces bracelets sont sculptés dans un argent solide mais étonnamment fin. Ils br
 
 <div class="BD">
 {s:BDTitre|Cape de la chauve-souris}
-**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement**  épaules ;
+**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement**  épaules ;  
 **Catégorie** trophée ; **Prix** 900 po ; **Poids** 0,5 kg
 (((Description)))
 Cette cape fabriquée dans un tissu marron foncé ou noir ressemble à de gigantesques ailes de chauves-souris. Elle permet à son porteur de s’accrocher aux plafonds la tête en bas, comme une chauve-souris.
@@ -505,7 +505,7 @@ Cette cape fabriquée dans un tissu marron foncé ou noir ressemble à de gigant
 
 <div class="BD">
 {s:BDTitre|Cape d’arachnide}
-**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement**  épaules ;
+**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement**  épaules ;  
 **Catégorie** trophée ; **Prix** 900 po ; **Poids** 0,5 kg
 (((Description)))
 Cet habit en soie rouge et violet, délicatement brodé de motifs de toiles à peine perceptibles, accorde à son porteur un bonus de chance de +2 aux [[jds|jets de sauvegarde]] contre le poison des araignées.
@@ -524,7 +524,7 @@ Cet habit en soie rouge et violet, délicatement brodé de motifs de toiles à p
 
 <div class="BD">
 {s:BDTitre|{s:Reference|CAPEDELESPRITELFIQUE}Cape de l’esprit elfique}
-**Aura** [[Transmutation]] puissante ; **NLS** 12 ; **Emplacement**  épaules ;
+**Aura** [[Transmutation]] puissante ; **NLS** 12 ; **Emplacement**  épaules ;  
 **Catégorie** babiole ; **Prix** 5400 po ; **Poids** 0,5 kg
 (((Description)))
 Quand il enfile cette cape grise toute simple et rabat le capuchon sur sa tête, le porteur gagne un bonus de compétence de +5 aux tests de [[Discrétion]]. Si le porteur passe au moins une minute à se concentrer pour que les couleurs de la cape se fondent avec celles de son environnement, il peut effectuer des tests de [[Discrétion]] même sans abri ou camouflage jusqu’à ce qu’il effectue une attaque ou se déplace à plus de la moitié de sa vitesse de base lors de son tour. Une fois qu’il a brisé cet effet, le porteur doit laisser s’écouler une minute avant de pouvoir le réactiver.
@@ -540,7 +540,7 @@ Quand il enfile cette cape grise toute simple et rabat le capuchon sur sa tête,
 
 <div class="BD">
 {s:BDTitre|Chapelet des nombreuses prières}
-**Aura**  (écoles multiples) faible ; **NLS** 4 ; **Emplacement**  aucun ;
+**Aura**  (écoles multiples) faible ; **NLS** 4 ; **Emplacement**  aucun ;  
 **Catégorie** trophée ; **Prix** 900 po ; **Poids** 0,25 kg
 (((Description)))
 Cet objet ressemble à un simple chapelet de prières jusqu’à ce que l’utilisateur lance un sort divin alors qu’il le porte. À ce moment-là, il apprend comment activer l’une des perles spéciales du chapelet (un grain de bénédiction) pour lancer *[[bénédiction]]* une fois par jour.
@@ -558,7 +558,7 @@ Cet objet ressemble à un simple chapelet de prières jusqu’à ce que l’util
 
 <div class="BD">
 {s:BDTitre|Coeur de l’arbre vénérable}
-**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement**  cou ;
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement**  cou ;  
 **Catégorie** merveille ; **Prix** 14000 po ; **Poids** —
 (((Description)))
 Cette amulette en [[ébénite]] sculptée ressemble à un cœur humain. Par une [[action de mouvement]], lorsqu’il se tient sur un sol en terre, en pierre ou en bois, le porteur peut provoquer la pousse de vrilles boisées similaires à des racines sur ses jambes. Celles-ci ancrent ses pieds au sol et il bénéficie ainsi d’un bonus de +4 au [[DMD]] contre les manœuvres offensives de [[bousculade]], d’[[entraînement]], de [[lutte]], de [[renversement]], de [[repositionnement]], de [[croc-en-jambe]], ainsi que toutes les manœuvres offensives qui devraient le forcer à quitter l’espace qu’il occupe, ainsi qu’aux [[jds|jets de sauvegarde]] contre les effets qui devraient le forcer à quitter l’espace qu’il occupe en cas d’échec. Les racines disparaissent si le porteur quitte l’espace qu’il occupe, même involontairement.
@@ -576,7 +576,7 @@ Cette amulette en [[ébénite]] sculptée ressemble à un cœur humain. Par une 
 
 <div class="BD">
 {s:BDTitre|Collier des enfers}
-**Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement**  cou ;
+**Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement**  cou ;  
 **Catégorie** trophée ; **Prix** 9300 po ; **Poids** —
 (((Description)))
 Cette chaîne en or arbore des sphères rouges et dorées scintillantes de différentes tailles. Elle ne compte pas comme un objet porté autour du cou quand il s’agit de déterminer les objets magiques actifs portés par le personnage. Le collier fonctionne comme un [[Collier à boules de feu|collier à boules de feu (1er modèle)]] avec une sphère à 6d6 au lieu d’une sphère à 5d6. Quand une sphère explose, une toute petite sphère du même type que celle qui a explosé commence à se former autour de la chaîne, gagnant en taille et en intensité en l’espace d’une semaine, après quoi elle est prête à exploser à nouveau.
@@ -593,7 +593,7 @@ Cette chaîne en or arbore des sphères rouges et dorées scintillantes de diff�
 
 <div class="BD">
 {s:BDTitre|Corde de grâce surnaturelle}
-**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement**  taille ;
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement**  taille ;  
 **Catégorie** trophée ; **Prix** 5000 po ; **Poids** 0,5 kg
 (((Description)))
 Quand on la noue autour de la taille, cette corde grossière et simple accorde à son porteur un bonus de compétence de +10 aux tests d’[[Acrobaties]] effectués pour garder l’équilibre.
@@ -609,7 +609,7 @@ Quand on la noue autour de la taille, cette corde grossière et simple accorde �
 
 <div class="BD">
 {s:BDTitre|Diadème de cristal}
-**Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement**  tête ;
+**Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement**  tête ;  
 **Catégorie** merveille ; **Prix** 1000 po ; **Poids** —
 (((Description)))
 Ce diadème finement ouvragé, aux gravures complexes et ornée de petites gemmes cristallines, donne l’impression d’avoir été sculpté dans de la glace. Malgré son apparente fragilité, il a une [[solidité]] de 12 et 10 points de vie. Son porteur bénéficie des effets constants d’une *[[endurance aux énergies destructives]]* dans les environnements froids uniquement.
@@ -630,7 +630,7 @@ Ce diadème finement ouvragé, aux gravures complexes et ornée de petites gemme
 
 <div class="BD">
 {s:BDTitre|Écharpe d’abondance}
-**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement**  taille ;
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement**  taille ;  
 **Catégorie** babiole ; **Prix** 710 po ; **Poids** 0,5 kg
 (((Description)))
 Cette écharpe colorée ressemble à celle que portent généralement les marins ou les voyageurs mais, entre ses plis, se cache une poche d’abondance. Le porteur peut plonger la main dans cette poche dissimulée pour en retirer un fruit un nombre de fois par jour égal à son niveau de personnage. Le type de fruit varie. Un fruit suffit à nourrir et à désaltérer un [[type Humanoïde|humanoïde]] pour 24 heures. Au bout de 24 heures, le fruit se gâte et ne nourrit plus personne. Enlevée à son porteur, l’écharpe ne produit plus de fruits pour personne d’autre pendant 24 heures. Si son dernier porteur la réenfile pendant ce temps, l’écharpe reprend normalement ses fonctions (et la quantité de fruits restants à l’intérieur n’est pas réinitialisée).
@@ -648,7 +648,7 @@ Cette écharpe colorée ressemble à celle que portent généralement les marins
 
 <div class="BD">
 {s:BDTitre|Étoile des visions}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 11 ; **Emplacement**  yeux ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 11 ; **Emplacement**  yeux ;  
 **Catégorie** trophée ; **Prix** 14400 po ; **Poids** —
 (((Description)))
 Quand elle touche un œil, cette gemme en forme d’étoile se fixe d’elle-même jusqu’à ce qu’on la retire volontairement ou qu’elle soit arrachée à un porteur inconscient. Sur commande, le porteur peut partager sa vision de son environnement avec des alliés situés dans un rayon de 18 mètres. Ceci les fait bénéficier de toutes les perceptions visuelles spéciales du porteur (comme [[vision dans le noir (capacité)|vision dans le noir]] ou *[[détection de linvisibilité|détection de l’invisibilité]]*) et autorise même les alliés aveugles à voir, à condition que le porteur ne soit pas lui-même [[aveuglé|aveugle]]. Cet effet dure 1 minute et, une fois utilisé, ne peut plus être activé pendant 30 minutes. Lorsque les effets sont actifs, un allié du porteur peut alterner à volonté entre la capacité à partager la vision du porteur et la capacité à voir par ses propres yeux.
@@ -664,7 +664,7 @@ Quand elle touche un œil, cette gemme en forme d’étoile se fixe d’elle-mê
 
 <div class="BD">
 {s:BDTitre|Fiole de reconcoction}
-**Aura** [[école Divination|Divination]] et [[Invocation]] faibles ; **NLS** 4 ; **Emplacement**  aucun ;
+**Aura** [[école Divination|Divination]] et [[Invocation]] faibles ; **NLS** 4 ; **Emplacement**  aucun ;  
 **Catégorie** babiole ; **Prix** 2650 po ; **Poids** —
 (((Description)))
 Cette jolie fiole en argent peut contenir une seule dose de liquide. Si on verse une potion de sort de niveau 1 dans la fiole, l’intérieur analyse le liquide et se lie à la potion. Quand la potion a été bue, la fiole se met à siffler et à bouillonner tandis que d’étranges liquides et agents réactifs se mêlent lentement à l’intérieur. Au bout d’une semaine complète, la fiole produit une nouvelle potion du même sort de niveau 1 avec le [[NLS]] minimum. Si une créature boit cette potion ou vide la fiole avant qu’une semaine ne se soit écoulée, elle ne bénéficie d’aucun avantage, la potion en cours de préparation est perdue et la fiole cesse ses concoctions jusqu’à ce qu’on la remplisse d’une nouvelle potion de niveau 1. Si la fiole est vidée de son contenu, et donc que la potion qu’elle contient n’est pas bue, la fiole ne reconcocte pas cette potion.
@@ -682,7 +682,7 @@ Cette jolie fiole en argent peut contenir une seule dose de liquide. Si on verse
 
 <div class="BD">
 {s:BDTitre|Gants de façonnage des nuages}
-**Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement**  yeux ;
+**Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement**  yeux ;  
 **Catégorie** trophée ; **Prix** 5400 po ; **Poids** 0,5 kg
 (((Description)))
 Le porteur de ces gants bleu ciel, froids au toucher, peut sculpter et façonner des créations faites de brume et de nuages – tant les siennes que celles des autres. Le porteur peut faire appel au pouvoir des gants jusqu’à trois fois par jour quand il crée un nuage de gaz ou de brume avec un sort, un pouvoir magique, un pouvoir surnaturel ou un objet magique afin que la zone d’effet soit [[Présentation des sorts#DEFFACONNABLE|façonnable]]. Sinon, le porteur peut utiliser les gants pour disperser un nuage de gaz ou de brume existant d’un simple contact, comme s’il utilisait *[[dissipation de la magie]]*. Tout effet non-magique est automatiquement dissipé sur une étendue de 6 mètres centrée sur le porteur.
@@ -698,7 +698,7 @@ Le porteur de ces gants bleu ciel, froids au toucher, peut sculpter et façonner
 
 <div class="BD">
 {s:BDTitre|Gantelets du maître des forges}
-**Aura** [[Abjuration]] modérée ; **NLS** 7 ; **Emplacement**  mains ;
+**Aura** [[Abjuration]] modérée ; **NLS** 7 ; **Emplacement**  mains ;  
 **Catégorie** trophée ; **Prix** 3750 po ; **Poids** 2 kg
 (((Description)))
 Ces gantelets calcinés en cuir épais rembourré sont renforcés d’un maillage métallique et de protections en céramique qui diffusent la chaleur. Le porteur gagne un bonus de compétence de +5 aux tests d’[[Artisanat]] (armures) et d’[[Artisanat]] (armes).
@@ -718,7 +718,7 @@ Ces gantelets calcinés en cuir épais rembourré sont renforcés d’un maillag
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Gantelets galvanisants}
-**Aura** [[Évocation]] faible ; **NLS** 5 ; **Emplacement**  mains ;
+**Aura** [[Évocation]] faible ; **NLS** 5 ; **Emplacement**  mains ;  
 **Catégorie** trophée ; **Prix** 1882 po ; **Poids** 1 kg
 (((Description)))
 Ces gants sont tissés d’un fin maillage en cuivre et de fils métalliques, investissant les mains du porteur d’une charge électrique. Le porteur peut utiliser les *gantelets galvanisants* pour effectuer une attaque de contact au corps à corps infligeant 1d6 points de dégâts d’électricité. Il gagne un bonus de +3 à l’attaque si la cible porte une armure métallique ou composée de métal.
@@ -736,7 +736,7 @@ Ces gants sont tissés d’un fin maillage en cuivre et de fils métalliques, in
 
 <div class="BD">
 {s:BDTitre|Guenilles souillées}
-**Aura**  nécromantie modérée ; **NLS** 5 ; **Emplacement**  corps ;
+**Aura**  nécromantie modérée ; **NLS** 5 ; **Emplacement**  corps ;  
 **Catégorie** trophée ; **Prix** 5000 po ; **Poids** 3 kg
 (((Description)))
 Ces robes en lambeaux sont toutes usées et effilochées, couvertes de poussière et de crasse. Étant constamment exposé à des formes inoffensives de maladies inoculées par les guenilles, le porteur devient plus résistant à la maladie et à la saleté, gagnant un bonus alchimique de +4 aux [[jds|jets de sauvegarde]] contre la maladie et les effets qui rendent [[nauséeux]] ou [[fiévreux]]. Il est possible de porter les guenilles souillées avec une armure.
@@ -753,7 +753,7 @@ Ces robes en lambeaux sont toutes usées et effilochées, couvertes de poussièr
 
 <div class="BD">
 {s:BDTitre|Lanterne-pendentif}
-**Aura** [[Évocation]] faible ; **NLS** 4 ; **Emplacement**  cou ;
+**Aura** [[Évocation]] faible ; **NLS** 4 ; **Emplacement**  cou ;  
 **Catégorie** trophée ; **Prix** 1000 po ; **Poids** —
 (((Description)))
 Ce petit pendentif de verre et d’airain a été taillé sous la forme d’une lanterne et émet constamment une lumière identique à celle d’un sort de lumière. Par une [[action de mouvement]], le porteur peut ouvrir la *lanterne-pendentif* miniature et diriger la toute petite flamme fantasmagorique qui brûle à l’intérieur afin qu’elle aille flotter où il le souhaite dans un rayon de 33 mètres. Cette flamme fonctionne comme des *[[lumières dansantes]]* mais le porteur peut créer un nombre de lumières égal à la moitié de son niveau de personnage, jusqu’à un maximum de 4, et il ne peut créer que des lumières de torche, pas des sphères scintillantes ni des formes humanoïdes. Quand ces lumières dansantes sont activées, la lumière de la *lanterne-pendentif* s’éteint.
@@ -770,7 +770,7 @@ Ce petit pendentif de verre et d’airain a été taillé sous la forme d’une 
 
 <div class="BD">
 {s:BDTitre|Longue-vue de l’astronome}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement**  aucun ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement**  aucun ;  
 **Catégorie** babiole ; **Prix** 1250 po ; **Poids** 0,5 kg
 (((Description)))
 Cette longue-vue offre une vision améliorée des corps célestes et des mouvements cosmiques dans la nuit la plus noire. Quiconque observe à travers la longue-vue gagne un bonus de compétence de +5 aux tests de compétence destinés à en apprendre plus sur les mouvements des cieux ou des constellations, en général les tests de [[Connaissances]] (nature).
@@ -787,7 +787,7 @@ Cette longue-vue offre une vision améliorée des corps célestes et des mouveme
 
 <div class="BD">
 {s:BDTitre|Lunettes de perception des pensées}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement**  yeux ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 7 ; **Emplacement**  yeux ;  
 **Catégorie** trophée ; **Prix** 3600 po ; **Poids** —
 (((Description)))
 Le porteur de ces lentilles en cristal ornées gagne un bonus de compétence de +6 aux tests de [[Psychologie]]. Quand il utilise [[Psychologie]] pour savoir si quelqu’un lui ment ou non, il a un bref aperçu des pensées du menteur à ce moment-là.
@@ -803,7 +803,7 @@ Le porteur de ces lentilles en cristal ornées gagne un bonus de compétence de 
 
 <div class="BD">
 {s:BDTitre|Masque des souvenirs déments}
-**Aura** [[école Divination|Divination]] modérée ; **NLS** 6 ; **Emplacement**  tête ;
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 6 ; **Emplacement**  tête ;  
 **Catégorie** trophée ; **Prix** 2500 po ; **Poids** 0,5 kg
 (((Description)))
 Ce masque en mithral malléable peut être fixé à n’importe quel casque pour être porté avec. Il est possible de placer le masque sur le visage d’une créature [[type Humanoïde|humanoïde]] ou d’un [[type Humanoïde monstrueux|humanoïde monstrueux]] [[sans défense]], mort ou vif, et de l’activer en prononçant le mot de commande. Le masque absorbe les pensées et les souvenirs de la créature et les façonne à l’image de la créature – processus qui prend 10 minutes. Quiconque porte le masque après l’avoir activé gagne un bonus de compétence de +5 aux tests de [[Connaissances]], de [[Charisme]] et de compétences basées sur le [[Charisme]] relatifs à la créature dont les souvenirs ont été absorbés, y compris aux tests effectués pour se faire passer pour cette créature.
@@ -821,7 +821,7 @@ Ce masque en mithral malléable peut être fixé à n’importe quel casque pour
 
 <div class="BD">
 {s:BDTitre|Perle de puissance}
-**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement**  aucun ;
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement**  aucun ;  
 **Catégorie** trophée ; **Prix** 1575 po ; **Poids** —
 (((Description)))
 Cette perle de taille, d’éclat et d’apparence ordinaires renferme le secret d’une puissance magique infinie. Elle fonctionne comme une [[Perle de thaumaturge|perle de thaumaturge (niveau 1)]] et l’utilisateur gagne un bonus de +1 à son [[NLS|niveau de lanceur de sorts]] quand il lance le sort de l’emplacement rappelé par la perle.
@@ -841,7 +841,7 @@ Cette perle de taille, d’éclat et d’apparence ordinaires renferme le secret
 
 <div class="BD">
 {s:BDTitre|Plastron de gloire}
-**Aura** [[Enchantement]] modéré ; **NLS** 8 ; **Emplacement**  cou ;
+**Aura** [[Enchantement]] modéré ; **NLS** 8 ; **Emplacement**  cou ;  
 **Catégorie** trophée ; **Prix** 5000 po ; **Poids** 1 kg
 (((Description)))
 Ce plastron doré est incrusté d’héliolites et de diamants en plus d’être gravé de couronnes de laurier. En portant ce plastron, le porteur améliore son éloquence et son sérieux pour bénéficier d’un bonus de compétence de +5 aux tests de [[Diplomatie]], d’[[Intimidation]] et de [[Représentation]] (déclamation).
@@ -857,7 +857,7 @@ Ce plastron doré est incrusté d’héliolites et de diamants en plus d’être
 
 <div class="BD">
 {s:BDTitre|Plume magique éternelle}
-**Aura** [[Invocation]] faible ; **NLS** 8 ; **Emplacement**  aucun ;
+**Aura** [[Invocation]] faible ; **NLS** 8 ; **Emplacement**  aucun ;  
 **Catégorie** babiole ; **Prix** 2650 po ; **Poids** —
 (((Description)))
 Cette petite plume colorée frissonne doucement comme si une brise permanente soufflait dessus. Par une [[action simple]], le propriétaire de la plume peut transformer celle-ci en une autre variété de plume magique. Tous les propriétaires peuvent utiliser une plume magique éternelle pour reproduire les effets d’une [[Plume magique|plume magique (ancre)]]. Les propriétaires de haut niveau disposent d’options supplémentaires. La plume garde sa nouvelle forme jusqu’à ce que son propriétaire lui commande d’en changer ou jusqu’à ce qu’elle soit activée sous cette forme comme une plume magique normale. Une fois activée, la plume retrouve son apparence de plume normale, de couleur gris terne. Il faut attendre une semaine après sa dernière activation avant de pouvoir la réutiliser.
@@ -875,7 +875,7 @@ Cette petite plume colorée frissonne doucement comme si une brise permanente so
 
 <div class="BD">
 {s:BDTitre|Robe de la reine féerique}
-**Aura** [[Transmutation]] modéré ; **NLS** 6 ; **Emplacement**  corps ;
+**Aura** [[Transmutation]] modéré ; **NLS** 6 ; **Emplacement**  corps ;  
 **Catégorie** merveille ; **Prix** 4800 po ; **Poids** 0,5 kg
 (((Description)))
 Quand on l’enfile, cette robe simple à manche longue s’estompe au point de devenir presque invisible. Elle accorde au porteur un bonus de compétence de +4 aux tests de [[Bluff]], de [[Diplomatie]], d’[[Intimidation]] et de [[Psychologie]] contre les créatures [[type Fée|féeriques]]. Sur commande, ce manteau brille d’une douce *[[lueur féerique]]* de la couleur choisie par le porteur et un deuxième mot de commande met fin à la lueur.
@@ -895,7 +895,7 @@ Quand on l’enfile, cette robe simple à manche longue s’estompe au point de 
 
 <div class="BD">
 {s:BDTitre|Robe du dragon}
-**Aura** [[Transmutation]] puissante ; **NLS** 12 ; **Emplacement**  corps ;
+**Aura** [[Transmutation]] puissante ; **NLS** 12 ; **Emplacement**  corps ;  
 **Catégorie** merveille ; **Prix** 38000 po ; **Poids** 0,5 kg
 (((Description)))
 Cette robe en soie rouge est brodée de dragons en fil d’or. Le porteur gagne un bonus d’altération de +3 à l’armure naturelle et une résistance au feu de 10. Une fois par jour, il peut bénéficier des avantages d’une *[[vision dans le noir]]*, comme avec le sort du même nom. En principe, les robes du dragon sont harmonisées avec les dragons rouges mais il existe des variantes harmonisées à d’autres types de dragons.
@@ -912,7 +912,7 @@ Cette robe en soie rouge est brodée de dragons en fil d’or. Le porteur gagne 
 
 <div class="BD">
 {s:BDTitre|Sac de contenance infinie}
-**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement**  aucun ;
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement**  aucun ;  
 **Catégorie** babiole ; **Prix** 3100 po ; **Poids** 7,5 kg
 (((Description)))
 Ce sac en toile d’apparence ordinaire fait environ 60 centimètres par 1,20 mètre. Il s’ouvre néanmoins sur un espace extradimensionnel bien plus grand que ses dimensions extérieures ne le laissent penser. Il fonctionne comme un [[Sac sans fond|sac sans fond (modèle I)]] mais le fait de récupérer un objet dans le sac ne provoque pas d’[[AO|attaque d’opportunité]].
@@ -928,7 +928,7 @@ Ce sac en toile d’apparence ordinaire fait environ 60 centimètres par 1,20 m�
 
 <div class="BD">
 {s:BDTitre|Sacoche de poussière pixie}
-**Aura** [[Transmutation]] faible ; **NLS** 1 ; **Emplacement**  aucun ;
+**Aura** [[Transmutation]] faible ; **NLS** 1 ; **Emplacement**  aucun ;  
 **Catégorie** babiole ; **Prix** 15 po ; **Poids** 0,5 kg
 (((Description)))
 Cette sacoche ouvragée contient une poussière scintillante aux diverses couleurs iridescentes. Le porteur peut prendre de la poussière afin de l’utiliser comme une réserve illimitée de poudre colorée ordinaire. Il prélève toujours de la poussière de la couleur qu’il souhaite.
@@ -948,7 +948,7 @@ Cette sacoche ouvragée contient une poussière scintillante aux diverses couleu
 
 <div class="BD">
 {s:BDTitre|Sceau du crâne rieur}
-**Aura** [[Nécromancie]] modérée ; **NLS** 12 ; **Emplacement**  front ;
+**Aura** [[Nécromancie]] modérée ; **NLS** 12 ; **Emplacement**  front ;  
 **Catégorie** babiole ; **Prix** 2000 po ; **Poids** 0,5 kg
 (((Description)))
 Ce bandeau en argent terni est orné d’un crâne d’ébène. Quand le porteur parvient à démoraliser une créature avec un test d’[[Intimidation]], les malus de l’état secoué augmentent de 2 sur les tests et les jets qui impliquent le porteur. Par exemple, les attaques effectuées contre le porteur et les [[jds|jets de sauvegarde]] contre ses sorts subissent un malus de -4 au lieu de -2.
@@ -963,7 +963,7 @@ Ce bandeau en argent terni est orné d’un crâne d’ébène. Quand le porteur
 
 <div class="BD">
 {s:BDTitre|Selle héroïque}
-**Aura** [[Abjuration]] modérée ; **NLS** 8 ; **Emplacement**  aucun ;
+**Aura** [[Abjuration]] modérée ; **NLS** 8 ; **Emplacement**  aucun ;  
 **Catégorie** trophée ; **Prix** 6000 po ; **Poids** 20 kg
 (((Description)))
 Cette selle de guerre élaborée est ornée d’accessoires complexes et de toute une panoplie de pampilles, de rubans et de clochettes parfaits pour annoncer le retour merveilleux des grands héros. Une nouvelle pampille, un nouveau ruban ou une nouvelle clochette apparaît sur la selle après chaque victoire. Quand le cavalier d’une monture équipée d’une *selle héroïque* est la cible d’un effet d’[[branche guérison|invocation (guérison)]], celui-ci affecte également sa monture. Utilisez le niveau du cavalier pour déterminer les pouvoirs évolutifs de l’objet.
@@ -980,7 +980,7 @@ Cette selle de guerre élaborée est ornée d’accessoires complexes et de tout
 
 <div class="BD">
 {s:BDTitre|Veste aux feuilles d’or}
-**Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement**  torse ;
+**Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement**  torse ;  
 **Catégorie** trophée ; **Prix** 2400 po ; **Poids** 2 kg
 (((Description)))
 Cet habit est bordé de feuilles dorées dont la splendeur automnale est préservée par magie. Les feuilles conservent cette apparence naturelle dans les environnements urbains comme dans les environnements naturels autres que les bois et les forêts. Quand le porteur est en forêt, les feuilles de la veste changent de couleur pour s’adapter à la flore locale. Tant qu’il ne se déplace pas à plus de la moitié de sa vitesse de base en un [[round]], le porteur gagne un bonus de +4 aux tests de [[Discrétion]] et peut tenter des tests de [[Discrétion]] même s’il ne bénéficie pas d’[[abri]] ou de [[camouflage]]. Chaque fois qu’il effectue une attaque, les feuilles virent au rouge sang, ce qui annule cet effet pendant 1 minute.
@@ -998,7 +998,7 @@ Cet habit est bordé de feuilles dorées dont la splendeur automnale est préser
 
 <div class="BD">
 {s:BDTitre|Veste de préservation magique}
-**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement**  torse ;
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement**  torse ;  
 **Catégorie** trophée ; **Prix** 8000 po ; **Poids** 0,5 kg
 (((Description)))
 Tissée de soie arachnéenne, cette veste accorde une puissante protection contre les sorts qui risque de distordre l’esprit et le corps du porteur. Celui-ci gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre les malédictions, les [[Enchantement|enchantements]] et les [[Transmutation|transmutations]].

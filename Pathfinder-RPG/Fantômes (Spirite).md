@@ -382,7 +382,7 @@ Les fantômes ont souvent une apparence proche de celle qu’ils avaient de leur
 #### Colère
 Les fantômes dominés par cette émotion bouillonnent d’une colère née des événements vécus de leur vivant. Ils ont souvent l’aspect de brutes massives aux sourcils broussailleux ou de créatures frénétiques qui semblent toujours sur le point de frapper ceux qui s’approchent trop près d’elles. Émane très souvent d’eux une aura rouge vive, surtout quand ils engagent le combat. D’autres halètent constamment en expirant une sorte de buée rougeoyante qui passe au travers de leurs mâchoires spectrales et constamment serrées.
 
-**Compétences**. Le fantôme gagne un nombre de rangs en [[Intimidation]] et [[Survie]] égal à son nombre de Dés de Vie. Lorsqu’il est confiné dans la conscience du spirite, le fantôme confère au spirite le don de [[Talent]] pour chacune de ces compétences.
+**Compétences**. Le fantôme gagne un nombre de rangs en [[Intimidation]] et [[Survie]] égal à son nombre de Dés de Vie. Lorsqu’il est confiné dans la conscience du spirite, le fantôme confère au spirite le don de [[Talent]] pour chacune de ces compétences. 
 
 **Jets de sauvegarde favorables**. Vigueur et Volonté.
 

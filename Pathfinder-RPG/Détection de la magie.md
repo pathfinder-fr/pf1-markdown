@@ -23,14 +23,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 18 m (12 {s:c})
-**Zone d'effet** [[émanation]] en forme de cône
-**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/[[niveau]] (T)
+**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 18 m (12 {s:c})  
+**Zone d'effet** [[émanation]] en forme de cône  
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Grâce à ce sort, le personnage peut repérer les auras magiques. Les informations fournies par *détection de la magie* dépendent du temps que le personnage passe à étudier le sujet et ou la zone.
 
 Premier round : présence ou absence d’auras magiques.
@@ -81,14 +81,14 @@ Il est possible d’user de *[[permanence]]* sur *détection de la magie*.
 
 ((({s:sortssimilaires|détection de la magie}
 ## [[Détection de la magie suprême]]
-{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** 18 m
-**Zone d'effet** [[émanation]] en forme de cône
-**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 1 minute/niveau (T)
+{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** 18 m  
+**Zone d'effet** [[émanation]] en forme de cône  
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 1 minute/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[détection de la magie]]*, excepté que le personnage récolte bien plus d'informations à partir des auras magiques qu'il trouve, et que ces auras peuvent être détectées pendant bien plus longtemps. Le personnage peut détecter une aura persistante datant d'un maximum de 1 jour par [[NLS|niveau de lanceur de sorts]] qu'il possède, quelque soit l'intensité originale de l'aura.
 
 De plus, lorsque le personnage consacre une [[action simple]] à se concentrer sur ce sort, il peut également étudier une créature dans la zone d'effet et effectuer un test d'[[Art de la magie]] afin de déterminer le dernier sort qu'elle a lancé en identifiant les traces persistantes que ce sort a laissé dans sa propre aura. Le [[DD]] pour identifier le sort est égal à 20 + le [[NLS|niveau de lanceur de sorts]] de la créature.

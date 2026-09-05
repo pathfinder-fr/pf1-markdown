@@ -14,7 +14,7 @@ Categories:
 ---
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
-**École** [[Abjuration]] ;
+**École** [[Abjuration]] ; 
 **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Rôdeur|Rôd]] 2  
 **Temps d'incantation** 1 [[action simple]]  
 **Composantes** [[composantes|V, G]]  

@@ -9,7 +9,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:Menuarchétypetueur}{s:mca}*Qu’ils soient chargés de capturer des criminels recherchés ou payés pour ramener des débiteurs auprès de leurs usuriers, les chasseurs de primes sont appréciés pour leur faculté à capturer leurs cibles vivantes.*
+{s:Menuarchétypetueur}{s:mca}*Qu’ils soient chargés de capturer des criminels recherchés ou payés pour ramener des débiteurs auprès de leurs usuriers, les chasseurs de primes sont appréciés pour leur faculté à capturer leurs cibles vivantes.* 
 
 #### Armes et armures
 Un chasseur de primes est formé au maniement de toutes les armes courantes et de guerre, ainsi qu’à l’aklys, aux bolas, au dan bong, au lasso et au filet. Ils sont formés au port des [[armure légère|armures légères]] ainsi qu’au maniement des targes et des rondaches, mais pas à celui des écus ni des pavois. Cette aptitude remplace la section Armes et armures du tueur.

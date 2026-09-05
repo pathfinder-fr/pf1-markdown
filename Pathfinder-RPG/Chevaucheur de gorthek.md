@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Particularités** armes familières, [[chevalier#DRESSEUREXPERIMENTE|dresseur expérimenté]] +3, [[chevalier#MONTURE|monture]] ([[gorthek]], voir p. 196), [[Ordres#ORDRE DU COCKATRICE|ordre du Cockatrice]] (fanfaron), [[chevalier#TACTICIEN|tacticien]] (2/jour, 6 rounds, action simple)}
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins modérés]]*, *[[potions magiques|potion]] de [[splendeur de laigle|splendeur de l’aigle]]* ; **Équipement divers** *[[armure de plaques (armure)|armure de plaques +1]]*, *[[Lance darçon (arme)|lance d'arçon +1]]*, [[javeline (arme)|javelines]] (8), *[[cape de résistance|cape de résistance +1]]*, 182 po}
 </div>
-</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px"> 
 
 <p class="tablo-caption">Variantes d'orque</p>
 

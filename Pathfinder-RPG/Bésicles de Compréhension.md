@@ -8,7 +8,7 @@ LastModified: 2024-05-24 22:38
 {s:BDTitre|Bésicles de compréhension|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 2 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 3.000 po
 (((Description)))
-Une fois chaussées, ces besicles d’aspect anodin traduisent tous les écrits en un dialecte connu de leur porteur, comme s’il était sous l’effet d’un sort de *[[compréhension des langages]]*. Elles servent aussi à détecter les contrefaçons. Elles confèrent à leur porteur un bonus de +5 aux tests de [[Linguistique]] pour les détecter et permettent faire ce type de tests sans formation.
+Une fois chaussées, ces besicles d’aspect anodin traduisent tous les écrits en un dialecte connu de leur porteur, comme s’il était sous l’effet d’un sort de *[[compréhension des langages]]*. Elles servent aussi à détecter les contrefaçons. Elles confèrent à leur porteur un bonus de +5 aux tests de [[Linguistique]] pour les détecter et permettent faire ce type de tests sans formation. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[compréhension des langages]]*  ; **Coût** 1.500 po
 </div>

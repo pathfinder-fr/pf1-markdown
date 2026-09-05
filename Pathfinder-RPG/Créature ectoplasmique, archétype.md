@@ -9,7 +9,7 @@ LastModified: 2020-09-18 04:08
 
 {s:BDTitre|Créer une créature ectoplasmique|FP +1}
 
-« Ectoplasmique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature tangible (autre que morte-vivante), à laquelle on se réfère ensuite sous le terme de créature de base.
+« Ectoplasmique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature tangible (autre que morte-vivante), à laquelle on se réfère ensuite sous le terme de créature de base. 
 
 - **Facteur de puissance.** Comme la créature de base +1.
 - **Alignement.** Généralement Chaotique Mauvais.
@@ -58,7 +58,7 @@ Plus encore que la plupart des morts-vivants, les créatures nées d’un ectopl
 
 
 Quand un esprit rejoint l’au-delà, il est très rare qu’il souhaite revenir, encore moins si ce doit être dans un corps ectoplasmique défiguré. Les esprits qui ne sont pas suffisamment puissants pour revenir sous forme de fantôme ou de spectre reviennent parfois sous forme de monstre ectoplasmique, surtout quand il ne reste rien du corps original de la créature que l’esprit pourrait investir pour revenir comme squelette ou zombi. Parfois, les fantômes et autres morts-vivants puissants font délibérément appel aux ectoplasmes du royaume éthéré, dans le fol espoir de décupler leur pouvoir en s’entourant d’un hôte ectoplasmique.
-Ceux qui subissent ce triste destin, que ce soit par malchance ou par choix, sont généralement coincés dans leur prison ectoplasmique jusqu’à ce que la mort les libère enfin de cette non-vie. La transition entre la mort et la mort-vivance ectoplasmique est une épreuve atroce et la créature continue de souffrir pour conserver l’horrible forme dans laquelle elle renaît. Cette agonie perpétuelle fait souvent basculer ces êtres au-delà même de la folie, les investissant d’une rage insatiable similaire à celle que connaissent les fantômes frustrés et autres âmes hantées.
+Ceux qui subissent ce triste destin, que ce soit par malchance ou par choix, sont généralement coincés dans leur prison ectoplasmique jusqu’à ce que la mort les libère enfin de cette non-vie. La transition entre la mort et la mort-vivance ectoplasmique est une épreuve atroce et la créature continue de souffrir pour conserver l’horrible forme dans laquelle elle renaît. Cette agonie perpétuelle fait souvent basculer ces êtres au-delà même de la folie, les investissant d’une rage insatiable similaire à celle que connaissent les fantômes frustrés et autres âmes hantées. 
 
 La rancoeur et le désespoir brûlant de ces créatures ectoplasmiques les poussent souvent à la violence : la plupart de ces êtres se jettent d’eux-mêmes dans la bataille, ne tuant que pour étancher leur soif naturelle pour la souffrance d’autrui tout en espérant y trouver la mort et être ainsi libérés de leur propre douleur. Quand les créatures ectoplasmiques entrent en contact avec une surface (y compris avec les murs qu’elles traversent), elles laissent derrière elles un film argenté ressemblant à de la bave de limace, particularité pratiquement exclusive à ces morts-vivants. Cette sécrétion glissante sèche en l’espace de quelques instants donc, un personnage qui en trouve peut être certain qu’une telle créature est tapie quelque part dans les parages.
 

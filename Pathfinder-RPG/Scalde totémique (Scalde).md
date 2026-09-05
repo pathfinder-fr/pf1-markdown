@@ -20,13 +20,13 @@ Le scalde totémique confère les pouvoirs d’imitation animale de son animal t
 #### Empathie totémique (Ext et Mag)
 Au niveau 4, le scalde totémique peut améliorer l’attitude des animaux du même type que son totem. Cette aptitude fonctionne exactement comme un test de [[Diplomatie]] effectué pour améliorer l’attitude d’une personne. Le scalde lance 1d20 et ajoute son niveau de scalde et son modificateur de Charisme pour déterminer le résultat du test d’empathie totémique. Un animal domestique typique a une attitude de départ indifférente tandis que les animaux sauvages sont le plus souvent inamicaux.
 
-De plus, au niveau 4, le scalde totémique peut lancer *[[charme-animal]]* une fois par jour comme un pouvoir magique, son [[NLS|niveau de lanceur de sorts]] étant, dans ce cas, égal à son niveau de scalde auquel il ajoute son modificateur de [[Charisme]] pour déterminer le [[DD]]. Ceci fonctionne uniquement contre les animaux du même type que l’animal totémique (à l’appréciation du MJ).
+De plus, au niveau 4, le scalde totémique peut lancer *[[charme-animal]]* une fois par jour comme un pouvoir magique, son [[NLS|niveau de lanceur de sorts]] étant, dans ce cas, égal à son niveau de scalde auquel il ajoute son modificateur de [[Charisme]] pour déterminer le [[DD]]. Ceci fonctionne uniquement contre les animaux du même type que l’animal totémique (à l’appréciation du MJ). 
 
 Au niveau 8 et tous les 4 niveaux par la suite, il peut utiliser cette aptitude une fois de plus par jour. Cette aptitude remplace esquive instinctive et esquive instinctive supérieure.
 
 
 #### Forme animale (Sur)
-Au niveau 5, un scalde totémique peut prendre la forme de taille P ou M de son animal totémique, comme avec l’aptitude de [[Druide#FORMEANIMALE|forme animale]] du [[druide]]. Son niveau effectif de druide dans le cadre de cette aptitude est égal à son niveau de scalde -1.
+Au niveau 5, un scalde totémique peut prendre la forme de taille P ou M de son animal totémique, comme avec l’aptitude de [[Druide#FORMEANIMALE|forme animale]] du [[druide]]. Son niveau effectif de druide dans le cadre de cette aptitude est égal à son niveau de scalde -1. 
 
 Il peut utiliser cette aptitude deux fois par jour au niveau 11 et trois fois par jour au niveau 17. Ceci ne permet pas au scalde de prendre d’autres formes, tels que celles d’élémentaires, de plantes ou d’autres types d’animaux.
 

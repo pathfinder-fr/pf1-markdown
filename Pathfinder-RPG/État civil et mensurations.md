@@ -96,9 +96,9 @@ adulte</td>
 </table>
 
 
-''(1) Cette catégorie inclut barbares, ensorceleur, oracles et roublards.
-(2) Cette catégorie inclut bardes, chevaliers, conjurateurs, guerriers, paladins, pistoliers, rôdeurs, et sorcières.
-(3) Cette catégorie inclut alchimistes, druides, inquisiteurs, magiciens, magus, moines et prêtres.
+''(1) Cette catégorie inclut barbares, ensorceleur, oracles et roublards.  
+(2) Cette catégorie inclut bardes, chevaliers, conjurateurs, guerriers, paladins, pistoliers, rôdeurs, et sorcières.  
+(3) Cette catégorie inclut alchimistes, druides, inquisiteurs, magiciens, magus, moines et prêtres.  
 
 (**) La détermination aléatoire de l'âge de départ des aasimars, des dhampirs et des tieffelins [a été prévue](https://paizo.com/threads/rzs2spht?Why-edit-the-age-of-Aasimar-Dhampir-and#38) pour être semblable à celle des demi-elfes. Consultez malgré tout votre MJ puisqu'il s'agit d'une information venant directement du directeur créatif et non d'un ouvrage publié officiellement.''
 </center>

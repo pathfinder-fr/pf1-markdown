@@ -10,8 +10,8 @@ Categories:
 {s:BDTitre|Bâton d’envoûtement|}
 **Aura** [[Enchantement]] modéré ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 17 600 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton en bois sculpté et noueux permet de lancer les sorts suivants :
-• *[[charme-monstre]]* (2 charges)
+Ce bâton en bois sculpté et noueux permet de lancer les sorts suivants :  
+• *[[charme-monstre]]* (2 charges)  
 • *[[charme-personne]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[charme-monstre]]*, *[[charme-personne]]* ; **Coût** 8 800 po

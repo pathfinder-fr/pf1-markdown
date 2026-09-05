@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 4, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Zone d'effet** [[cylindre]] de 12 m de haut sur 3 m (2 {s:c}) de rayon
-**Durée** [[instantanée]]
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 4, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Zone d'effet** [[cylindre]] de 12 m de haut sur 3 m (2 {s:c}) de rayon  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce sort crée une colonne de flammes semblant tomber du ciel. Il administre 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 15d6). La moitié est causée par le feu, mais le reste prend la forme d’énergie divine et donc ne peut être réduit par une résistance au feu.

@@ -9,12 +9,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un petit miroir)
-**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
-**Cible** une créature
-**Durée** 1 round/niveau
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un petit miroir)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)  
+**Cible** une créature  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Créé à l’origine par un disciple du Roi-mage, ce sort a été utilisé pour transformer les soldats ennemis des armées de morts-vivants du Domaine du Mort en conduits d’énergie magique susceptibles d’exploser au milieu des lignes arrières ennemies. Depuis lors, ce sort est fortement apprécié des lanceurs de sorts profanes qui maîtrisent certaines tactiques sur le champ de bataille.*

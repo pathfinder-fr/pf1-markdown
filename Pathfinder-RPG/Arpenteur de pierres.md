@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*Le personnage est capable discerner le meilleur chemin pour traverser les terrains rocheux.*
+{s:cs}{s:ISG}*Le personnage est capable discerner le meilleur chemin pour traverser les terrains rocheux.* 
 
 **Conditions.** Trait racial [[Nain#CONNAISSANCEPIERRE|connaissance de la pierre]], suivant de [[Torag (technique)|Torag]].
 

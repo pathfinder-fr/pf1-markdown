@@ -42,7 +42,7 @@ Les elfes pensent que leur vie actuelle n'est qu'une parmi d'autres et qu'après
 Bien qu'il est possible de trouver des elfes en dehors de leurs communautés principales que sont la Tour Acérée ou le [[Kyonin]], il y a une certaine différence entre ceux qui ont été élevés au sein de ces communautés et ceux qui vivent au contact des autres races. La vie parmi les races ayant une espérance de vie moindre a transformé la vision des choses de ces elfes. Ces derniers ressentent une certaine idée mélancolique de la vie qui est appelée "Désolation" (Forlorn). Ils sont souvent pris en pitié et pris de haut par le reste de la population elfe qui les croient apeurés émotionnellement. On rencontre la plupart des elfes aventuriers dans cette catégorie.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Elfes dans les suppléments
+Vous pourrez trouver plus d'informations à propos des Elfes dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - [[Golarion.Publications#COMPANIONELVES|Pathfinder Companion: Elves of Golarion]].
 {s:VoirAussiAprès}

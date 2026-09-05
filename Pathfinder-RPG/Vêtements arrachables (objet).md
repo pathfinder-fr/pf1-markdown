@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +5 po ; **Poids** —
+{s:AE}**Prix** +5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Les voleurs et les traîtres reconnaissent la valeur d’un bon déguisement et savent qu’il est tout aussi important de pouvoir retirer ce déguisement à la hâte pour afficher celui d’en-dessous. Les vêtements arrachables sont généralement amples et permettent de porter d’autres vêtements en-dessous. Les coutures de ces vêtements sont faites de manière à se déchirer facilement, ils sont donc très facile à retirer (une [[action simple]]) afin de passer rapidement inaperçu. N’importe quelle tenue peut être faite de vêtements arrachables, pour un coût supplémentaire.

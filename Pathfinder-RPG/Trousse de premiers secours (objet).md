@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Poids** 0,5 kg
+{s:AE}**Prix** 50 po ; **Poids** 0,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cet ensemble de bandages et d’herbes fournit un bonus de circonstances de +2 aux tests de [[Premiers secours]]. Une trousse de premiers secours est épuisée après 10 utilisations.

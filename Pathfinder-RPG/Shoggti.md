@@ -9,7 +9,7 @@ Categories:
 <table class="Bestiaire 2"><tr><td>
 <div class="BD">
 {s:BDTitre|Shoggti|FP 7}
-{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire} 
 {s:BDTexte|*Source : Bestiaire 2* p.235}
 {s:BDTexte|**PX** 3.200}
 {s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille G, CM}

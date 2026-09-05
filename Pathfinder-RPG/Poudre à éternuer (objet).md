@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 60 po ; **Poids** 1 kg ; **DD d'Artisanat (alchimie)** 25
+{s:AE}**Prix** 60 po ; **Poids** 1 kg ; **DD d'Artisanat (alchimie)** 25  
 <span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
----
+<hr />
 Cette grosse poudre jaune-rouge est une [[arme à aspersion]] provoquant des éternuements incontrôlés pendant 1d4+1 [[round|rounds]]. Quiconque se trouve sur la case d’impact doit réussir un jet de [[Vigueur]] de [[DD]] 12 pour résister à la poudre, tandis que les créatures des cases adjacentes doivent réussir un jet de Vigueur de DD 8. Les créatures affectées par la poudre à éternuer doivent réussir un jet de Vigueur DD 10 tous les rounds tant qu’ils éternuent, sinon, elles sont [[chancelant|chancelantes]] jusqu’à leur prochain tour. Il s’agit d’un effet de poison. La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 25.

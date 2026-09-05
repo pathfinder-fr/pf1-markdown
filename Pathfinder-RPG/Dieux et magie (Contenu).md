@@ -6,7 +6,7 @@ Categories:
 - Src Dieux et magie
 ---
 
-[Gods and Magic](https://paizo.com/products/btpy85eh?Pathfinder-Chronicles-Gods-Magic) a été publié en Octobre 2008 par Paizo inc.
+[Gods and Magic](https://paizo.com/products/btpy85eh?Pathfinder-Chronicles-Gods-Magic) a été publié en Octobre 2008 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom [Dieux et magie](https://www.black-book-editions.fr/produit.php?id=990), en Septembre 2012.
 
 <nav class="wiki-toc"></nav>
@@ -20,68 +20,68 @@ Traduit et publié en français par Black Book Editions sous le nom [Dieux et ma
 <div style="border-top:1px dashed #4b3124">
 #### Artefacts
 <div class="article_3col">
-[[Bouclier dAroden|Bouclier brisé d'arnisant]] (modifié),
-[[Grand cube de Jayalakshmi|Grand cube extraordinaire]],
-[[Rapière de Vesper]] (modifié),
+[[Bouclier dAroden|Bouclier brisé d'arnisant]] (modifié),  
+[[Grand cube de Jayalakshmi|Grand cube extraordinaire]],  
+[[Rapière de Vesper]] (modifié),  
 [[Source cantorienne|Source d'évolution]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Choppe du héros ivre]] (modifié),
-[[Clé du deuxième coffre]] (modifié),
-[[Cristal rhomboïde]] (modifié),
-[[Dague de bronze dÉrastil|Dague de bronze d'Érastil]] (modifié),
-[[Dague sacrificielle de la mère sang]] (modifié),
-[[Flasque du pourfendeur]] (modifié),
-[[Icône de la sage-femme]] (modifié),
-[[Livre des cultes de Preklikin]] (modifié),
-[[Marteau de forge du Père]] (modifié).
+**Aucun (Sans emplacement).**  
+[[Choppe du héros ivre]] (modifié),  
+[[Clé du deuxième coffre]] (modifié),  
+[[Cristal rhomboïde]] (modifié),  
+[[Dague de bronze dÉrastil|Dague de bronze d'Érastil]] (modifié),  
+[[Dague sacrificielle de la mère sang]] (modifié),  
+[[Flasque du pourfendeur]] (modifié),  
+[[Icône de la sage-femme]] (modifié),  
+[[Livre des cultes de Preklikin]] (modifié),  
+[[Marteau de forge du Père]] (modifié).  
 
-**Corps.**
-[[Oripeaux de la sorcière]] (modifié),
-[[Robe du maître des maîtres]] (modifié).
+**Corps.**  
+[[Oripeaux de la sorcière]] (modifié),  
+[[Robe du maître des maîtres]] (modifié).  
 
-**Cou.**
-[[Ambre de gaze]] (modifié),
-[[Cristal blafard]] (modifié),
-[[Orbe du guide]] (modifié),
-[[Pendentif azlant]],
-[[Pentacle à pointes dAsmodéus|Pentacle à pointes d'Asmodéus]] (modifié),
-[[Pépite de ShadGorum|Pépite de Shad-Gorum]] (modifié),
-[[Pierre nocturne de chagrin]] (modifié),
-[[Stylet dard]] (modifié),
-[[Vurra du créateur]] (modifié).
+**Cou.**  
+[[Ambre de gaze]] (modifié),  
+[[Cristal blafard]] (modifié),  
+[[Orbe du guide]] (modifié),  
+[[Pendentif azlant]],  
+[[Pentacle à pointes dAsmodéus|Pentacle à pointes d'Asmodéus]] (modifié),  
+[[Pépite de ShadGorum|Pépite de Shad-Gorum]] (modifié),  
+[[Pierre nocturne de chagrin]] (modifié),  
+[[Stylet dard]] (modifié),  
+[[Vurra du créateur]] (modifié).  
 
-**Épaules.**
-[[Cape de la croisée]] (modifié),
-[[Cape du ciel nocturne|Cape de la sombre tapisserie]] (modifié),
-[[Cape du grand héros barghest]] (modifié),
-[[Cape du traqueur de mort]] (modifié),
-[[Peau dours du briseur dos|Peau d'ours du briseur d'os]] (modifié).
+**Épaules.**  
+[[Cape de la croisée]] (modifié),  
+[[Cape du ciel nocturne|Cape de la sombre tapisserie]] (modifié),  
+[[Cape du grand héros barghest]] (modifié),  
+[[Cape du traqueur de mort]] (modifié),  
+[[Peau dours du briseur dos|Peau d'ours du briseur d'os]] (modifié).  
 
-**Mains.**
-[[Gantelet de lHéritière|Gantelet de l'Héritière]] (modifié).
+**Mains.**  
+[[Gantelet de lHéritière|Gantelet de l'Héritière]] (modifié).  
 
-**Pieds.**
-[[Bottes de la Rose éternelle]] (modifié).
+**Pieds.**  
+[[Bottes de la Rose éternelle]] (modifié).  
 
-**Poignets.**
-[[Bracelet de vision]] (modifié).
+**Poignets.**  
+[[Bracelet de vision]] (modifié).  
 
-**Taille.**
-[[Ceinture du Roi serpent]] (modifié),
-[[Chaînes brisées de la bête]] (modifié),
-[[Écharpe de la Fleur de laube|Écharpe de la Fleur de l'Aube]] (modifié),
-[[Kilt de la vague de vent]] (modifié).
+**Taille.**  
+[[Ceinture du Roi serpent]] (modifié),  
+[[Chaînes brisées de la bête]] (modifié),  
+[[Écharpe de la Fleur de laube|Écharpe de la Fleur de l'Aube]] (modifié),  
+[[Kilt de la vague de vent]] (modifié).  
 
-**Tête.**
-[[Bicorne de Besmara]] (modifié),
-[[Masque de chair tranchante]] (modifié),
-[[Masque de la mère démone]] (modifié),
-[[Masque sacré du dieu vivant]],
+**Tête.**  
+[[Bicorne de Besmara]] (modifié),  
+[[Masque de chair tranchante]] (modifié),  
+[[Masque de la mère démone]] (modifié),  
+[[Masque sacré du dieu vivant]],  
 [[Voile des voiles]] (modifié).
 </div>
 
@@ -89,113 +89,113 @@ Traduit et publié en français par Black Book Editions sous le nom [Dieux et ma
 ### Options de classe
 #### Domaines de prêtre
 <div class="article_3col">
-[[Domaine des Reptiles|Reptiles et Amphibiens]] (modifié),
-[[Domaine du Vide|Vide]] (modifié).
+[[Domaine des Reptiles|Reptiles et Amphibiens]] (modifié),  
+[[Domaine du Vide|Vide]] (modifié).  
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Armure de Gorum|Armure épineuse]] (modifié),
-[[Bénédiction du guet]] (modifié),
-[[Blessure sympathique]],
-[[Bouclier de la Fleur de laube|Bouclier de l'aube]] (modifié),
-[[Canaliser la vigueur]] (modifié),
-[[Canaliser le don]] (modifié),
-[[Choisis ton poison]] (modifié),
-[[Cœur incassable|Cœur indomptable]] (modifié),
-[[Eaux de Lamashtu|Eaux de folie]] (modifié),
-[[Explosion de gloire]] (modifié),
-[[Faim de la goule]] (modifié),
-[[Flèche du Borgne]] (modifié),
-[[Fureur de Rovagug]] (modifié),
-[[Guérison diabolique|Guérison infernale]] (modifié),
-[[Guérison diabolique supérieure|Guérison infernale suprême]] (modifié),
-[[Œuf empoisonné]] (modifié),
-[[Os protecteur]] (modifié),
-[[Rêve vagabond]],
-[[Stratégie de repli]] (modifié),
-[[Trident de Gozreh|Trident de la nature]] (modifié),
-[[Vengeance de lamoureux|Vengeance de l'amant]] (modifié),
+[[Armure de Gorum|Armure épineuse]] (modifié),  
+[[Bénédiction du guet]] (modifié),  
+[[Blessure sympathique]],  
+[[Bouclier de la Fleur de laube|Bouclier de l'aube]] (modifié),  
+[[Canaliser la vigueur]] (modifié),  
+[[Canaliser le don]] (modifié),  
+[[Choisis ton poison]] (modifié),  
+[[Cœur incassable|Cœur indomptable]] (modifié),  
+[[Eaux de Lamashtu|Eaux de folie]] (modifié),  
+[[Explosion de gloire]] (modifié),  
+[[Faim de la goule]] (modifié),  
+[[Flèche du Borgne]] (modifié),  
+[[Fureur de Rovagug]] (modifié),  
+[[Guérison diabolique|Guérison infernale]] (modifié),  
+[[Guérison diabolique supérieure|Guérison infernale suprême]] (modifié),  
+[[Œuf empoisonné]] (modifié),  
+[[Os protecteur]] (modifié),  
+[[Rêve vagabond]],  
+[[Stratégie de repli]] (modifié),  
+[[Trident de Gozreh|Trident de la nature]] (modifié),  
+[[Vengeance de lamoureux|Vengeance de l'amant]] (modifié),  
 [[Vérité dAbadar|Vérité d'Abadar]] (modifié).
 </div>
 
 
 ## Les cultes de la pureté
-[Faiths of Purity](https://paizo.com/products/btpy8j60?Pathfinder-Player-Companion-Faiths-of-Purity) a été publié en Avril 2011 par Paizo inc.
+[Faiths of Purity](https://paizo.com/products/btpy8j60?Pathfinder-Player-Companion-Faiths-of-Purity) a été publié en Avril 2011 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom de "Les cultes de la pureté", il fait partie de Dieux et magie détaillé en haut de page.
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[[Chaleur glorieuse]] (modifié),
-[[Charge du vertueux]]* (modifié),
-[[Convocation dalliés agiles|Convocation d'alliés agiles]] (modifié),
-[[Dans le mille]]* (modifié),
-[[Danseur de la lance]]* (modifié),
-[[Dard du papillon]]* (modifié),
-[[Exploit de sapeur]] (modifié),
-[[Frappe du protecteur]] (modifié),
-[[Guide divinatoire]] (modifié),
-[[Lecture de la pierre]] (modifié),
-[[Lutteur ivre]]* (modifié),
+[[Chaleur glorieuse]] (modifié),  
+[[Charge du vertueux]]* (modifié),  
+[[Convocation dalliés agiles|Convocation d'alliés agiles]] (modifié),  
+[[Dans le mille]]* (modifié),  
+[[Danseur de la lance]]* (modifié),  
+[[Dard du papillon]]* (modifié),  
+[[Exploit de sapeur]] (modifié),  
+[[Frappe du protecteur]] (modifié),  
+[[Guide divinatoire]] (modifié),  
+[[Lecture de la pierre]] (modifié),  
+[[Lutteur ivre]]* (modifié),  
 [[Messager de lespoir|Messager de l'espoir]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Armes contre le mal]] (modifié),
-[[Brume de rêves]] (modifié),
-[[Connaissances du Borgne]] (modifié),
-[[Eau améliorée]] (modifié),
-[[Exploiter la beauté intérieure]] (modifié),
-[[Métal solaire]] (modifié),
-[[Petites fractures]] (modifié),
+[[Armes contre le mal]] (modifié),  
+[[Brume de rêves]] (modifié),  
+[[Connaissances du Borgne]] (modifié),  
+[[Eau améliorée]] (modifié),  
+[[Exploiter la beauté intérieure]] (modifié),  
+[[Métal solaire]] (modifié),  
+[[Petites fractures]] (modifié),  
 [[Piste de la rose]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[[Traits religieux|Religieux]].**
-Agent de la chance (modifié),
-Allié reptilien (modifié),
-Apaisement (modifié),
-Artiste fidèle (modifié),
-Artiste fiévreux (modifié),
-Beauté intérieure (modifié),
-Concentration empyréenne (modifié),
-Enlumineur (modifié),
-Facile à vivre (modifié),
-L'œil du forgeron (modifié),
-Le bras plié (modifié),
-Les leçons de Chaldira (modifié),
-Lumière purificatrice (modifié),
-Maître avisé (modifié),
-Obstiné (modifié),
-Optimisme stoïque (modifié),
-Organisateur talentueux (modifié),
-Panthéiste elfique (modifié),
-Porte-parole d'Érastil (modifié),
-Pureté de la foi (modifié),
-Stratège défensif (modifié),
+**[[Traits religieux|Religieux]].**  
+Agent de la chance (modifié),   
+Allié reptilien (modifié),   
+Apaisement (modifié),   
+Artiste fidèle (modifié),   
+Artiste fiévreux (modifié),   
+Beauté intérieure (modifié),   
+Concentration empyréenne (modifié),   
+Enlumineur (modifié),   
+Facile à vivre (modifié),   
+L'œil du forgeron (modifié),   
+Le bras plié (modifié),   
+Les leçons de Chaldira (modifié),   
+Lumière purificatrice (modifié),   
+Maître avisé (modifié),   
+Obstiné (modifié),   
+Optimisme stoïque (modifié),   
+Organisateur talentueux (modifié),   
+Panthéiste elfique (modifié),   
+Porte-parole d'Érastil (modifié),   
+Pureté de la foi (modifié),   
+Stratège défensif (modifié),   
 Un phare dans la nuit (modifié).
 </div>
 
 
 ## Les cultes de l'équilibre
-[Faiths of Balance](https://paizo.com/products/btpy8lvb?Pathfinder-Player-Companion-Faiths-of-Balance) a été publié en Juillet 2011 par Paizo inc.
+[Faiths of Balance](https://paizo.com/products/btpy8lvb?Pathfinder-Player-Companion-Faiths-of-Balance) a été publié en Juillet 2011 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom de "Les cultes de l'équilibre", il fait partie de Dieux et magie détaillé en haut de page.
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[[Attaque à contre-courant]]* (modifié),
-[[Engagement ferme]]* (modifié),
-[[Fossoyeur épineux]]* (modifié),
-[[Intuition magique]] (modifié),
-[[Réaction pondérée]]* (modifié),
+[[Attaque à contre-courant]]* (modifié),  
+[[Engagement ferme]]* (modifié),  
+[[Fossoyeur épineux]]* (modifié),  
+[[Intuition magique]] (modifié),  
+[[Réaction pondérée]]* (modifié),  
 [[Vengeance sanglante]]* (modifié).
 </div>
 
@@ -203,12 +203,12 @@ Les dons marqués d'un astérisque (*) sont des dons de combat.
 ### Équipement
 #### Focalisateurs de canalisation
 <div class="article_3col">
-[[Focalisateurs de canalisation#Écaille du juste|Écaille du juste]],
-[[Focalisateurs de canalisation#Fétiche ailé|Fétiche ailé]],
-[[Focalisateurs de canalisation#Fouet brûlant|Fouet brûlant]],
-[[Focalisateurs de canalisation#Gong de bronze|Gong de bronze]],
-[[Focalisateurs de canalisation#Icône de bois flotté|Icône de bois flotté]],
-[[Focalisateurs de canalisation#Masque scindé|Masque scindé]],
+[[Focalisateurs de canalisation#Écaille du juste|Écaille du juste]],  
+[[Focalisateurs de canalisation#Fétiche ailé|Fétiche ailé]],  
+[[Focalisateurs de canalisation#Fouet brûlant|Fouet brûlant]],  
+[[Focalisateurs de canalisation#Gong de bronze|Gong de bronze]],  
+[[Focalisateurs de canalisation#Icône de bois flotté|Icône de bois flotté]],  
+[[Focalisateurs de canalisation#Masque scindé|Masque scindé]],  
 [[Focalisateurs de canalisation#Œil de fer|Œil de fer]].
 </div>
 
@@ -222,119 +222,119 @@ Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
-**Aucun (Sans emplacement).**
-[[Clé automate]],
-[[Cordes tranchantes]],
-[[Huiles apaisantes]],
-[[Manuel du reflet calme]],
-[[Tuiles de la spirale]].
+**Aucun (Sans emplacement).**  
+[[Clé automate]],  
+[[Cordes tranchantes]],  
+[[Huiles apaisantes]],  
+[[Manuel du reflet calme]],  
+[[Tuiles de la spirale]].  
 
-**Tête.**
+**Tête.**  
 [[Masque de destruction et de création]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Allègement dobjet|Allègement d'objet]] (modifié),
-[[Allègement dobjet de groupe|Allègement d'objet de groupe]] (modifié),
-[[Ascèse]] (modifié),
-[[Équité]] (modifié),
-[[Jauge de sort]] (modifié),
-[[Jugement par anticipation]] (modifié),
-[[Lecture de la météo]] (modifié),
-[[Les yeux du séducteur]] (modifié),
+[[Allègement dobjet|Allègement d'objet]] (modifié),  
+[[Allègement dobjet de groupe|Allègement d'objet de groupe]] (modifié),  
+[[Ascèse]] (modifié),  
+[[Équité]] (modifié),  
+[[Jauge de sort]] (modifié),  
+[[Jugement par anticipation]] (modifié),  
+[[Lecture de la météo]] (modifié),  
+[[Les yeux du séducteur]] (modifié),  
 [[Natation aérienne]] (modifié).
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[[Traits religieux|Religieux]].**
-Amoureux des lois (modifié),
-Beau parleur (modifié),
-Bon nageur (modifié),
-Centré (modifié),
-Chasseur de cadavres (modifié),
-Cœur bien accroché (modifié),
-Cœur vide, cœur plein (modifié),
-Connaître la terre (modifié),
-Conspirateur sacré (modifié),
-Doigts de fée, esprit vif (modifié),
-Enfant de la nature (modifié),
-Esprit brisé (modifié),
-Guerrier de la houle (modifié),
-Guide spirituel (modifié),
-Les yeux de la nature (modifié),
-Liberté de la rivière (modifié),
-Opportuniste (modifié),
-Ôter les voiles (modifié),
-Poigne de fer (modifié),
-Portier (modifié),
-Principes sous-jacents (modifié),
-Profondeur magique (modifié),
+**[[Traits religieux|Religieux]].**  
+Amoureux des lois (modifié),   
+Beau parleur (modifié),   
+Bon nageur (modifié),   
+Centré (modifié),   
+Chasseur de cadavres (modifié),   
+Cœur bien accroché (modifié),   
+Cœur vide, cœur plein (modifié),   
+Connaître la terre (modifié),   
+Conspirateur sacré (modifié),   
+Doigts de fée, esprit vif (modifié),   
+Enfant de la nature (modifié),   
+Esprit brisé (modifié),   
+Guerrier de la houle (modifié),   
+Guide spirituel (modifié),   
+Les yeux de la nature (modifié),   
+Liberté de la rivière (modifié),   
+Opportuniste (modifié),   
+Ôter les voiles (modifié),   
+Poigne de fer (modifié),   
+Portier (modifié),   
+Principes sous-jacents (modifié),   
+Profondeur magique (modifié),   
 Prophète de la réalité (modifié).
 </div>
 
 
 ## Les cultes de la corruption
-[Faiths of Corruption](https://paizo.com/products/btpy8odc?Pathfinder-Player-Companion-Faiths-of-Corruption) a été publié en Octobre 2011 par Paizo inc.
+[Faiths of Corruption](https://paizo.com/products/btpy8odc?Pathfinder-Player-Companion-Faiths-of-Corruption) a été publié en Octobre 2011 par Paizo inc.  
 Traduit et publié en français par Black Book Editions sous le nom de "Les cultes de la corruption", il fait partie de Dieux et magie détaillé en haut de page.
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat, et ceux suivis d'un C sont des dons de critique.
 <div class="article_3col">
-[[Aplatissement]]* (modifié),
-[[Briser la détermination]] (modifié),
-[[Charge impitoyable]]* (modifié),
-[[Destruction didentité|Destruction d'identité]]*<sup>C</sup> (modifié),
-[[Douleur bienvenue]],
-[[Effroyable coup de grâce]]* (modifié),
-[[Esprit ordonné]] (modifié),
-[[Esquive de lombre|Esquive de l'ombre]] (modifié),
-[[Rejet du poison]] (modifié),
-[[Saignée]]* (modifié),
+[[Aplatissement]]* (modifié),  
+[[Briser la détermination]] (modifié),  
+[[Charge impitoyable]]* (modifié),  
+[[Destruction didentité|Destruction d'identité]]*<sup>C</sup> (modifié),  
+[[Douleur bienvenue]],  
+[[Effroyable coup de grâce]]* (modifié),  
+[[Esprit ordonné]] (modifié),  
+[[Esquive de lombre|Esquive de l'ombre]] (modifié),  
+[[Rejet du poison]] (modifié),  
+[[Saignée]]* (modifié),  
 [[Manieur de torche|Tison]]* (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[[Appendices monstrueux]] (modifié),
-[[Faim vampirique]],
-[[Nuit de lames]] (modifié),
-[[Perdre la piste]] (modifié),
-[[Portail fragile]] (modifié),
-[[Sacrifice partagé]] (modifié),
+[[Appendices monstrueux]] (modifié),  
+[[Faim vampirique]],  
+[[Nuit de lames]] (modifié),  
+[[Perdre la piste]] (modifié),  
+[[Portail fragile]] (modifié),  
+[[Sacrifice partagé]] (modifié),  
 [[Toucher hémorragique]] (modifié).
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[[Traits religieux|Religieux]].**
-Affinité des éléments (modifié),
-Alliance d’Abaddon (modifié),
-Chasseur de savoir,
-Chirurgien de guerre (modifié),
-Confiance fiélone (modifié),
-Coup vindicatif,
-Coups destructeurs (modifié),
-Déséquilibré (modifié),
-Difforme (modifié),
-Duperie consommée (modifié),
-Étreinte du serpent (modifié),
-Flammes des Enfers (modifié),
-Haine des dieux (modifié),
-Innocuité (modifié),
-Lanceur de sorts kuthite (modifié),
-Lien innommable (modifié),
-Maître contractant (modifié),
-Mixtures puissantes (modifié),
-Nécrorateur (modifié),
-Persuasion démoniaque (modifié),
-Savoir secret (modifié),
-Terrifiante célérité (modifié),
-Trappeur fatal (modifié),
+**[[Traits religieux|Religieux]].**  
+Affinité des éléments (modifié),   
+Alliance d’Abaddon (modifié),   
+Chasseur de savoir,   
+Chirurgien de guerre (modifié),   
+Confiance fiélone (modifié),   
+Coup vindicatif,   
+Coups destructeurs (modifié),   
+Déséquilibré (modifié),   
+Difforme (modifié),   
+Duperie consommée (modifié),   
+Étreinte du serpent (modifié),   
+Flammes des Enfers (modifié),   
+Haine des dieux (modifié),   
+Innocuité (modifié),   
+Lanceur de sorts kuthite (modifié),   
+Lien innommable (modifié),   
+Maître contractant (modifié),   
+Mixtures puissantes (modifié),   
+Nécrorateur (modifié),   
+Persuasion démoniaque (modifié),   
+Savoir secret (modifié),   
+Terrifiante célérité (modifié),   
+Trappeur fatal (modifié),   
 Tueur de dragon (modifié).
 </div>

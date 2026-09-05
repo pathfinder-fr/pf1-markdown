@@ -46,7 +46,7 @@ Les gnomes s’entendent relativement bien avec les halfelins et les humains qui
 
 Les gnomes ont une force physique bien inférieure à celle de nombreuses races. Ils considèrent cet aspect comme un simple élément qu’il leur faut prendre en compte. La plupart des aventuriers gnomes compensent par leur penchant pour la sorcellerie ou la musique des bardes, tandis que d’autres se tournent vers l’alchimie ou les armes exotiques pour gagner un léger avantage lors d’un conflit.
 
-**Noms masculins.** Abroshtor, Bastargre, Halungalom, Korlmnite, Poshment, Zarzuket, Zatqualmie.
+**Noms masculins.** Abroshtor, Bastargre, Halungalom, Korlmnite, Poshment, Zarzuket, Zatqualmie.  
 **Noms féminins.** Besh, Fijit, Lini, Majet, Neji, Pai, Queck, Trig.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -133,15 +133,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les gnomes occultes.** Les supercheries mentales sont pratiquées de manière naturelle par les gnomes. Leur nature même de gnome les incite à apprécier la magie psychique et ses pratiques obscures et décalées. Chaque classe occulte possède des qualités qui plaisent aux gnomes, que ce soit le don inné des cinétistes pour la magie ou la fascination des occultistes pour les colifichets.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute +1/2 au nombre de [[alchimiste#BOMBES|bombes]] qu’il peut créer chaque jour.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute +1/2 au nombre de [[alchimiste#BOMBES|bombes]] qu’il peut créer chaque jour.  
 L'alchimie est l'une des vocations les plus respectées pour un gnome. En mêlant leur amour pour la magie et leur pratique à la théorie appliquée, cette carrière enveloppe tout un champ d'opportunité quotidienne s'ouvrant sur le domaine de la découverte.
 
 {s:MCA}**[[Arcaniste]].** Ajoute 1/6 au nombre de points que l’arcaniste obtient chaque jour dans son [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]].
 
-{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute +1/2 à son [[Barbare#SENSDESPIEGES|sens des pièges]].
+{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute +1/2 à son [[Barbare#SENSDESPIEGES|sens des pièges]].  
 Les barbares gnomes sont généralement associés à ceux ayant vécu depuis longtemps parmi les tribus de fées sauvages que tout aussi bien avec les bêtes féroces du règne animal, étant pour ainsi dire l'incarnation des esprits de la nature.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde ajoute +1 à son nombre quotidien de rounds de [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]].
+{s:MR}{s:APG}**[[Barde]].** Le barde ajoute +1 à son nombre quotidien de rounds de [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]].  
 De nombreux gnomes sont des collectionneurs obsessifs d'histoires, de chansons et de blagues ; faisant d'eux des bardes réputés pour leur vaste répertoire, leur énergétique prestation et ainsi que leur tissage de la magie dans leurs performances.
 
 {s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
@@ -150,28 +150,28 @@ De nombreux gnomes sont des collectionneurs obsessifs d'histoires, de chansons e
 
 {s:MCA}**[[Chasseur]].** Confère une [[RD]] 1/magie au [[compagnon animal]] du [[chasseur]]. À chaque fois que le chasseur gagne un niveau, la RD augmente de 1/2 (pour un maximum de RD 10/magie). Si le chasseur remplace son compagnon animal, le nouveau bénéficie de cette RD.
 
-{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.  
 Bien que les chevaliers gnomes sont rares, certains d'entre eux prêtent serment sous leur honneur et peuvent ainsi maîtriser un large éventail de tactiques pour défendre le peuple et les terres qu'ils aiment.
 
 {s:AO}**[[Cinétiste]].** Le personnage bénéficie d’un bonus de +1/2 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] effectués contre des créatures dont le [[Types de créatures|sous-type]] correspond à l’[[cinétiste#ÉLÉMENTDEPRÉDILECTION|élément de prédilection]] du cinétiste.
 
-{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute +1 [[pv]] à son [[Conjurateur#EIDOLON|eidolon]].
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute +1 [[pv]] à son [[Conjurateur#EIDOLON|eidolon]].  
 Les gnomes, ces bricoleurs invétérés à la créativité sans borne, prennent grand plaisir à concevoir et à façonner leur eidolon. Les serviteurs des conjurateurs gnomes ressemblent souvent à des constructions mécaniques ou à des créatures féeriques.
 
-{s:MR}{s:APG}**[[Druide]].** Le druide gagne une [[Résistance (capacité)|résistance]] de 1 contre l’acide, le froid, l’électricité ou le feu. À chaque fois que le druide choisit cette récompense, sa résistance augmente de 1 pour le type d’énergie choisi (avec un maximum de +10 dans chaque type).
+{s:MR}{s:APG}**[[Druide]].** Le druide gagne une [[Résistance (capacité)|résistance]] de 1 contre l’acide, le froid, l’électricité ou le feu. À chaque fois que le druide choisit cette récompense, sa résistance augmente de 1 pour le type d’énergie choisi (avec un maximum de +10 dans chaque type).  
 Maintes gnomes sont intimement reliés à la terre et les forêts, revêtant ainsi le manteau druidique afin de rester en étroite communion avec les animaux et les esprits de la nature.
 
 {s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[Liste des formules dalchimiste|liste de l’enquêteur]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[Ensorceleur#LIGNAGE|lignages]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Charisme]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[Ensorceleur#LIGNAGE|lignages]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Charisme]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les pouvoirs profanes du lignage féerique apparaissent dans de nombreuses familles gnomes, même si on peut également rencontrer d’autres lignages chez les gnomes. La plupart des ensorceleurs gnomes sont acceptés comme des êtres tout à fait normaux au sein de leur société mais ceux qui tirent leurs pouvoirs de sources maléfiques suscitent souvent la méfiance et le mépris.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#SALECOUP|sale coup]] ou une [[Manoeuvres offensives#SUBTILISATION|subtilisation]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#SALECOUP|sale coup]] ou une [[Manoeuvres offensives#SUBTILISATION|subtilisation]].  
 Les gnomes combattants sont extrêmement tenaces, désireux de prouver que même le plus petit combattant peut être un titan sur le champ de bataille.
 
 {s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 le nombre d'[[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] qu’il peut utiliser chaque jour.
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur ajoute un bonus de +1 à ses tests de [[concentration]] quand il lance un sort d’inquisiteur.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur ajoute un bonus de +1 à ses tests de [[concentration]] quand il lance un sort d’inquisiteur.  
 Certains gnomes font un jour ou l'autre la rencontre avec l'hostilité du monde extérieur, spécialement celle venant des races impitoyables envers eux. De ce fait, certains choisissent d'enfiler le manteau de l'inquisiteur pour défendre leur peuple et de protéger leurs terres contre les âmes insensibles.
 
 {s:cs}{s:UI}**[[Justicier]].** Gain d'un bonus de +1/2 aux tests de [[Bluff]] pour proférer un mensonge qui serait vrai du point de vue de l'[[Justicier#DOUBLEIDENTITE|identité actuelle]] du justicier.
@@ -180,45 +180,45 @@ Certains gnomes font un jour ou l'autre la rencontre avec l'hostilité du monde 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un pouvoir d’[[Magicien#ECOLEDEMAGIE|écoles de magie]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un pouvoir d’[[Magicien#ECOLEDEMAGIE|écoles de magie]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.  
 La longue tradition magique des gnomes les amène souvent à se spécialiser dans les royaumes de l’illusion ou de la magie élémentaire. Les gnomes sont des historiens, des chercheurs et des savants respectés bien déterminés à repousser les limites des possibilités magiques et parvenant bien souvent à réaliser des avancées inédites.
 
 {s:MR}**[[Magus]].** Le [[magus]] ajoute l’une des propriétés spéciales suivantes à la liste de celles qu’il peut donner à son arme en utilisant sa [[Magus#RESERVEMAGIQUE|réserve magique]] : *[[alliance (propriété)|d’alliance]]*, *[[conductrice (propriété)|conductrice]]*, *[[corrosive (propriété)|corrosive]]*, *[[explosion corrosive (propriété)|d’explosion corrosive]]*, *[[enchaînement (propriété)|d’enchaînement]]*, *[[menaçante (propriété)|menaçante]]*, *[[gardienne (propriété)|gardienne]]*, *[[miséricordieuse (propriété)|miséricordieuse]]*, *[[spectrale (propriété)|spectrale]]*, *[[vicieuse (propriété)|vicieuse]]*. Impossible de changer une propriété obtenue grâce à cette récompense.
 
 {s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/2 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] effectués contre les esprits, les [[type Mort-vivant|morts-vivants]], les [[Fantômes (Spirite)|fantômes de spirite]] et les créatures natives du [[plans ésotériques#PLANASTRAL|plan Astral]].
 
-{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 aux tests d’[[Acrobaties]] qu’il peut faire en dépensant un point de [[Moine#RESERVEDEKI|réserve de ki]]. Le moine doit être au moins de niveau 5 avant de choisir cette récompense.
+{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 aux tests d’[[Acrobaties]] qu’il peut faire en dépensant un point de [[Moine#RESERVEDEKI|réserve de ki]]. Le moine doit être au moins de niveau 5 avant de choisir cette récompense.  
 Les gnomes sont des individus hauts en couleurs, passionnés et flamboyants par nature. Ces traits de caractère transparaissent dans leur vision de la perfection physique et naturelle. Bon nombre d’entre eux utilisent donc des styles martiaux imprévisibles qui ressemblent plus à des danses improvisées qu’à des techniques maîtrisées à force de pratique.
 
 {s:AO}**[[Occultiste]].** Le personnage augmente d’une minute la durée de ses [[écoles instrumentales#ILLUSIONFOCALISATIONDEBASE|chimères mineures]]. Il augmente également de 2 % les chances de rater engendrées par le [[Modificateurs de combat#CAMOUFLAGETOTAL|camouflage total]] de son [[Écoles instrumentales#ILLUSIONRESONANCE|pouvoir de résonance de distorsion]]. Cette option n’augmente pas la limite maximale des chances de rater.
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau quand il détermine les effets de sa [[Oracle#MALEDICTIONDELORACLE|malédiction d’oracle]].
+{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau quand il détermine les effets de sa [[Oracle#MALEDICTIONDELORACLE|malédiction d’oracle]].  
 Les gnomes descendent d’anciens esprits féeriques, ce qui les prédispose naturellement aux dévotions oraculaires, à l’interprétation des signes venant de l’au-delà et à l’écoute des murmures des forces naturelles.
 
-{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 point de vie à son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]], qu’il l’utilise pour soigner ou pour blesser.
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 point de vie à son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]], qu’il l’utilise pour soigner ou pour blesser.  
 Les gnomes dotés d’un zèle religieux exceptionnel ou de la passion de protéger ceux qui les entourent deviennent parfois des paladins. La plupart d’entre eux trouvent leur aptitude à parler avec les animaux très utile, à la fois pour communiquer avec leur monture et pour pourchasser les mécréants.
 
 {s:MR}**[[Pistolier]].** Le pistolier met 5 minutes de moins (50 minutes de moins au maximum) pour réparer une arme à feu cassée grâce au don [[Création darmes à feu|Création d’armes à feu]].
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/2 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne des créatures de type [[type animal|animal]], [[type fée|fée]] ou [[type plante|plante]].
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/2 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne des créatures de type [[type animal|animal]], [[type fée|fée]] ou [[type plante|plante]].  
 Les gnomes deviennent souvent les serviteurs des [[Golarion.religions et philosophies|dieux]], en particulier envers les divinités de l'art, de la musique, de l'exploration,  de la découverte, et de la gaieté, témoignant leur ferveur pour la création avec un véritable zèle religieux.
 
 {s:MCA}**[[Prêtre combattant]].** Ajoute 1/2 au résultat de la [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d’énergie]] du prêtre combattant quand il soigne des créatures de type [[type animal|animal]], [[type fée|fée]] ou [[type plante|plante]].
 
 {s:AO}**[[Psychiste]].** Le personnage augmente de 1/3 point le nombre total de points que contient sa [[psychiste#RESERVEPHRENIQUE|réserve phrénique]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Le [[compagnon animal]] du rôdeur gagne une [[RD]] 1/ magie. Cette RD augmente de +1/2 à chaque fois que le rôdeur choisit de nouveau cette récompense (avec un maximum de RD 10/magie). Si le rôdeur remplace son compagnon animal, le nouveau gagne la même RD que l’ancien.
+{s:MR}{s:APG}**[[Rôdeur]].** Le [[compagnon animal]] du rôdeur gagne une [[RD]] 1/ magie. Cette RD augmente de +1/2 à chaque fois que le rôdeur choisit de nouveau cette récompense (avec un maximum de RD 10/magie). Si le rôdeur remplace son compagnon animal, le nouveau gagne la même RD que l’ancien.  
 Les gnomes qui décident de prendre les armes deviennent le plus souvent des [[rôdeur|rôdeurs]], ce qui leur permet de tirer parti de la relation innée qui les lie à la nature et de leur capacité à communiquer avec ses créations.
 
 {s:MR}{s:APG}**[[Roublard]].** Le roublard gagne un bonus de +1/2 aux tests de [[Sabotage]] et d’
-[[Utilisation dObjets Magiques|Utilisation d’objets magiques]] liés aux glyphes, aux symboles, aux parchemins et autres écrits magiques.
+[[Utilisation dObjets Magiques|Utilisation d’objets magiques]] liés aux glyphes, aux symboles, aux parchemins et autres écrits magiques.  
 Les roublards gnomes maîtrisent généralement une large variété de compétences. Ils jouent de leur personnalité charismatique dans leurs relations avec les autres et ajoutent même une touche de magie pour améliorer leurs talents lors de la création et de la manipulation de serrures et de pièges.
 
 {s:MCA}**[[Sanguin]].** Ajoute 1/4 au niveau de classe effectif du sanguin quand il détermine la puissance de ses pouvoirs de [[Sanguin#LIGNAGE|lignage]].
 
 {s:MCA}**[[Scalde]].** Bonus de +1 aux tests de [[concentration]] pour lancer un sort de scalde.
 
-{s:MR}{s:APG}**[[Sorcière]].** La sorcière gagne 1/6 d’un nouveau [[Sorcière#MALEFICE|maléfice]].
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière gagne 1/6 d’un nouveau [[Sorcière#MALEFICE|maléfice]].  
 Les gnomes n’hésitent pas à faire appel à des pouvoirs étranges et anciens, ce qui en fait des sorcières étonnamment douées. La plupart des sorcières gnomes adoptent des familiers étranges ou exotiques qui correspondent bien à leur personnalité.
 
 {s:AO}**[[Spirite]].** Le personnage ajoute 1/6 au bonus de bouclier dont il bénéficie quand il est sous l’effet d’une [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle normale]] ou [[spirite#INTERFERENCESPIRITUELLESUPERIEURE|supérieure]].

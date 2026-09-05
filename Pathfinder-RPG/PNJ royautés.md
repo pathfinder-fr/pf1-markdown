@@ -106,4 +106,4 @@ Un roi peut aussi être utilisé comme général de haut rang, puissant seigneur
 
 Un roi possède généralement une escorte de quatre [[PNJ nobles#CHEVALIER|chevaliers]] (FP 15) mais beaucoup d’entre eux voyagent avec une douzaine de [[PNJ nobles#CHEVALIER|chevaliers]] en période de guerre (FP 16). Un roi peut aussi être accompagné d’un [[PNJ armées#GENERAL|général]], de deux conseillers [[PNJ nobles#NOBLE|nobles]] et d’un [[PNJ temples#HAUTPRETRE|haut prêtre]] (FP 16). À la cour, un groupe de 10 [[PNJ nobles#NOBLE|nobles]] et un [[PNJ marchands#PRINCEMARCHAND|prince marchand]] peut tenter de gagner les faveurs d’un roi et de sa reine (FP 17). Un roi qui craint pour sa sécurité et voyage déguisé peut avoir deux [[PNJ arènes#CHAMPION|champions]] comme gardes du corps (FP 15).
 </div></td></tr></table>
----
+<hr />

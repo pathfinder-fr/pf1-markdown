@@ -8,8 +8,8 @@ Categories:
 - Règles officielles
 ---
 
-{s:Menuarchétypedruide}{s:UC}''Tous les druides se déplacent facilement dans la nature mais l’arpenteur de monde se fait un devoir de parcourir le
-monde entier. Certains servent de messagers et d’éclaireurs pour les cercles druidiques tandis que d’autres semblent
+{s:Menuarchétypedruide}{s:UC}''Tous les druides se déplacent facilement dans la nature mais l’arpenteur de monde se fait un devoir de parcourir le 
+monde entier. Certains servent de messagers et d’éclaireurs pour les cercles druidiques tandis que d’autres semblent 
 simplement victimes d’une inextinguible soif de voyager. Chaque pays leur permet de découvrir de nouveaux mystères et d’acquérir un peu plus de sagesse.''
 
 

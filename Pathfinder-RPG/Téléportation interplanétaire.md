@@ -11,28 +11,28 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** lanceur de sorts et objets touchés ou créatures consentantes
-**Durée** instantanée
+{s:UM}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** lanceur de sorts et objets touchés ou créatures consentantes  
+**Durée** instantanée  
 **Jet de sauvegarde** non et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non et oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort fonctionne comme *[[téléportation]]* mais il n’a absolument aucune limite de portée. Le personnage n’a pas besoin d’avoir déjà vu sa destination mais il doit avoir une idée assez précise du monde sur lequel il veut se rendre. « La troisième planète en partant du soleil » est une destination acceptable mais pas « un monde habitable près de cette étoile brillante. » Si le personnage a un endroit précis de la planète en tête, il y atterrit sans risque d’erreur, sinon, il arrive dans un lieu qui ne met pas immédiatement sa vie en danger. S’il n’y a pas de zone d’arrivée sûre dans le monde (si quelqu’un essaye de se rendre sur le soleil sans prendre les précautions adéquates par exemple), le sort échoue.
 
 
 
 (((
 ## Téléportation
-**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** [[personnelle]] et [[contact]]
-**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** [[personnelle]] et [[contact]]  
+**Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
----
+<hr />
 Ce sort transporte instantanément le personnage sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [[NLS|niveau de lanceur de sorts]] mais le personnage ne peut pas se rendre dans un autre plan d’existence. Il peut emporter des objets à concurrence de sa [[charge maximale]] et peut aussi emmener une créature consentante de [[taille M]] ou inférieure (qui transporte un poids inférieur à sa [[charge maximale]]) par tranche de trois [[NLS|niveaux de lanceur de sorts]]. Une créature de [[taille G]] compte comme deux créatures de [[taille M]], une créature de [[taille TG]] vaut quatre créatures de [[taille M]], etc. Toutes les créatures transportées doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le lanceur de sorts. Comme tous les sorts dont la portée est [[personnelle]], le lanceur de sorts n’a pas besoin d’effectuer de [[jet de sauvegarde]] ou de [[test de résistance à la magie]]. Seuls les objets tenus ou utilisés par quelqu’un d’autre nécessitent un tel jet.
 
 Le personnage doit avoir une idée exacte de l’endroit où il va réapparaître. Plus le personnage a une image mentale précise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut être difficile, voire impossible, de se rendre dans certaines zones balayées par de violentes énergies physiques ou magiques.

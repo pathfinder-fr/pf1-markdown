@@ -8,7 +8,7 @@ LastModified: 2024-05-31 20:36
 {s:BDTitre|Bottes de perception des vibrations|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 10 000 po ; **Poids** 0.5 kg
 (((Description)))
-Ces bottes de cuir marron sont dotées de coques renforcées en bout de pied et de semelles crantées conçues pour aider leur porteur à ressentir les vibrations du sol. Ces bottes confèrent à leur porteur la [[perception des vibrations (capacité)|perception des vibrations]] sur une distance de 1,50 mètres tant qu’il se tient sur un sol compact.
+Ces bottes de cuir marron sont dotées de coques renforcées en bout de pied et de semelles crantées conçues pour aider leur porteur à ressentir les vibrations du sol. Ces bottes confèrent à leur porteur la [[perception des vibrations (capacité)|perception des vibrations]] sur une distance de 1,50 mètres tant qu’il se tient sur un sol compact. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Détection de linvisibilité|détection de l’invisibilité]]*  ; **Coût** 5 000 po
 </div>

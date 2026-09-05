@@ -9,7 +9,7 @@ Categories:
 - Varisie
 ---
 
-Cet immense bâtiment est construit au dessus d'une poche de gaz naturel.
+Cet immense bâtiment est construit au dessus d'une poche de gaz naturel. 
 Entièrement dirigées par des nains, les Forges à Gaz de [[Port-Énigme]] sont l'un des rares endroits de [[Varisie]] où il est possible de fondre et de forger certains métaux comme l'[[adamantium]].
 
 {s:VoirAussiAvant}

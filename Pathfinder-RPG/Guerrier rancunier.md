@@ -8,9 +8,9 @@ LastModified: 2021-04-30 15:45
 
 **Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [[orque (race)|Orque]].
+**Conditions.** [[orque (race)|Orque]]. 
 
-**Avantages.** L’orque gagne un bonus de moral de +1 à ses jets d’attaque et de dégâts contre les créatures qui l’ont attaqué au cours de ce combat.
+**Avantages.** L’orque gagne un bonus de moral de +1 à ses jets d’attaque et de dégâts contre les créatures qui l’ont attaqué au cours de ce combat. 
 
 {s:PU}
 #### Astuce martiale ([[Endurance et Astuces martiales|règles]])

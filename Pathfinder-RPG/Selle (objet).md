@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po (de bât), 10 po (d'équitation); 15 po (spéciale, de bât), 20 po (de guerre), 30 po (spéciale, d'équitation), 60 po (spéciale, de guerre) ; **Poids** 7,5 kg (de bât), 12,5 kg (d'équitation), 10 kg (spéciale, de bât), 15 kg (de guerre), 15 kg (spéciale, d'équitation), 20 kg (spéciale, de guerre)
+{s:AE}**Prix** 5 po (de bât), 10 po (d'équitation); 15 po (spéciale, de bât), 20 po (de guerre), 30 po (spéciale, d'équitation), 60 po (spéciale, de guerre) ; **Poids** 7,5 kg (de bât), 12,5 kg (d'équitation), 10 kg (spéciale, de bât), 15 kg (de guerre), 15 kg (spéciale, d'équitation), 20 kg (spéciale, de guerre)  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Les selles servent à caler un cavalier ou des provisions sur une monture.  
   
 *Selle d’équitation*. Ces selles constituent le matériel d’équitation le plus répandu. Si le cavalier tombe [[inconscient]] alors qu’il est en selle, il a 50% de chances de rester en selle.  

@@ -11,13 +11,13 @@ Categories:
 {s:Menuarchétypeguerrier}{s:APG}*Ces combattants étudient et pratiquent les subtilités du combat monté, s'entraînant sans cesse en compagnie de leurs nobles pur-sangs ou de leurs monstres dressés, à la recherche de la parfaite harmonie entre le cavalier et sa monture.*
 
 #### Monture tenace (Ext).
-Au niveau 2, et après qu'elle se soit entraînée avec son cavalier pendant 1 heure, la monture du guerrier bénéficie d'un bonus d'esquive à sa [[CA]] et d'un bonus de moral à ses [[jet de sauvegarde|jets de sauvegarde]]. Ce bonus est de +1 au niveau 2, +1 par tranche de quatre niveaux au-delà du niveau 2. Ce bonus s'applique tant que son cavalier est en selle ou occupe l'espace voisin du sien. Cette capacité remplace [[guerrier#COURAGE|courage]].
+Au niveau 2, et après qu'elle se soit entraînée avec son cavalier pendant 1 heure, la monture du guerrier bénéficie d'un bonus d'esquive à sa [[CA]] et d'un bonus de moral à ses [[jet de sauvegarde|jets de sauvegarde]]. Ce bonus est de +1 au niveau 2, +1 par tranche de quatre niveaux au-delà du niveau 2. Ce bonus s'applique tant que son cavalier est en selle ou occupe l'espace voisin du sien. Cette capacité remplace [[guerrier#COURAGE|courage]]. 
 
 #### Chargeur en armure (Ext).
 Au niveau 3, le monteur de bêtes ne subit plus de [[Caractéristiques des armures#MALUSARMURE|pénalité d'armure]] sur ses jets d'[[équitation]]. La [[VD|vitesse de déplacement]] de sa monture n'est pas réduite lorsqu'elle porte une charge intermédiaire ou lorsqu'elle est équipée d'une [[armure intermédiaire|barde intermédiaire]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 1]].
 
 #### Courage monté (Ext).
-Au niveau 5, lorsque le cavalier est en selle ou occupe l'espace voisin de celui de sa monture, lui et cette dernière reçoivent un bonus à leurs jets d'attaque et de dégâts. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1, 2, 3 et 4]].
+Au niveau 5, lorsque le cavalier est en selle ou occupe l'espace voisin de celui de sa monture, lui et cette dernière reçoivent un bonus à leurs jets d'attaque et de dégâts. Ce bonus est de +1 au niveau 5, +1 par tranche de quatre niveaux au-delà du niveau 5. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1, 2, 3 et 4]]. 
 
 #### Sauter à terre (Ext).
 Au niveau 7, et après que sa monture a effectué un déplacement, le personnage peut tenter de sauter de selle (test d' [[Équitation]] [[DD]] 20). S'il réussit, il peut entreprendre une [[attaque à outrance]]. Cette capacité remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 2]].

@@ -8,7 +8,7 @@ LastModified: 2017-05-04 14:36
 <div class="BD">
 {s:BDTitre|Création d'un seigneur zombi}
 {s:BDTexte|*Source : Bestiaire 4 page 248*}
-« Seigneur zombi » est un archétype acquis qui peut être appliqué à une créature tangible (autre qu’un mort-vivant) ayant une valeur minimale de 3 en Intelligence. On utilise le terme « créature de base » pour désigner par la suite cette créature tangible.
+« Seigneur zombi » est un archétype acquis qui peut être appliqué à une créature tangible (autre qu’un mort-vivant) ayant une valeur minimale de 3 en Intelligence. On utilise le terme « créature de base » pour désigner par la suite cette créature tangible. 
 
 - **FP.** Le FP d’un seigneur zombi est de 1 point plus élevé que celui d’un zombi ordinaire ayant le même nombre de dés de vie, plus l’augmentation normale du FP provoquée par les niveaux de classe (le cas échéant).
 - **Type.** Le type de la créature devient mort-vivant. Elle conserve ses sous-types, à l’exception de ceux de l’alignement et de l’espèce. 

@@ -9,11 +9,11 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[école Divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Rôdeur|Rôd]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un morceau de papier prélevé d’un livre sur les monstres)
-**Portée** personnelle
-**Cible** le personnage
+{s:MMI}**École** [[école Divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Rôdeur|Rôd]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un morceau de papier prélevé d’un livre sur les monstres)  
+**Portée** personnelle  
+**Cible** le personnage  
 **Durée** 1 minute/niveau
 
 Les [[Inquisiteur|inquisiteurs]], tout comme les [[Rôdeur|rôdeurs]], savent depuis longtemps que l’acquisition de connaissances sur un ennemi permet de le dominer. Ce sort a été créé pour exploiter la moindre vulnérabilité d’une grande majorité de créatures.

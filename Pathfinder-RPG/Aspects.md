@@ -9,11 +9,11 @@ Categories:
 {s:Menuclassessupplémentaires}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:plume}<div class="description">***Source*** *Ultimate wilderness.*</div>
 Un métamorphe tire sa force primaire d'une association avec un type spécifique d'animal. Il en résulte que lorsqu'un métamorphe utilise son aptitude aspect du métamorphe ou forme bestiale, il peut prendre seulement les formes de ses aspects choisis. Jusqu'à ce qu'il atteigne le niveau 5, un métamorphe ne possède qu'un unique aspect, mais au fur et à mesure que son niveau augmente, il obtient davantage de contrôle sur ses transformations, lui permettant de prendre plusieurs aspects et même de les mélanger.
 
-Tous les aspects du métamorphe possèdent une forme mineure et une forme majeure. La forme mineure accorde au métamorphe quelques uns des traits physiques de l'animal, alors que la forme majeure est celle qu'il prend lorsqu'il utilise *forme bestiale* pour se transformer pleinement en un animal.
+Tous les aspects du métamorphe possèdent une forme mineure et une forme majeure. La forme mineure accorde au métamorphe quelques uns des traits physiques de l'animal, alors que la forme majeure est celle qu'il prend lorsqu'il utilise *forme bestiale* pour se transformer pleinement en un animal. 
 
 La liste des aptitudes obtenues avec l'aspect majeur incluent celles qui sont obtenues avec l'aptitude forme bestiale, mais les avantages obtenus qui résulteraient d'un changement de taille ne sont pas listées ici (voir *[[forme bestiale]] II*). S'il n'y a pas d'indication listée de base de [[VD|vitesse de déplacement]] terrestre, considérez que la Vitesse de déplacement au sol est de 9 m .
 
-Les options suivantes représentent seulement les principaux choix habituels qui sont utilisés par les métamorphes. D'autres aspects basés sur différents animaux existent certainement et pourraient accorder des pouvoirs similaires ou de nouvelles aptitudes basés sur les thèmes et la nature de l'animal.
+Les options suivantes représentent seulement les principaux choix habituels qui sont utilisés par les métamorphes. D'autres aspects basés sur différents animaux existent certainement et pourraient accorder des pouvoirs similaires ou de nouvelles aptitudes basés sur les thèmes et la nature de l'animal. 
 
 Vous pouvez utiliser les aspects suivants comme des guides pour développer votre propre modèle, mais si vous souhaitez qu'il en soit ainsi, vous devez obtenir la permission de votre MJ.
 
@@ -44,7 +44,7 @@ Le deinonychus est adepte à se précipiter d'une cachette pour infliger des ble
 
 **Forme mineure.** Vous obtenez un bonus de +2 sur les tests d'Initiative. ce bonus passe à +4 au niveau 8 et +6 au niveau 15.
 
-**Forme majeure.**  Votre forme change pour celle d'un deinonychus. Sous cette forme, vous obtenez une vitesse de base de 18 m (12 {s:c}), vision nocturne, odorat (9 m), une attaque de morsure (dégâts 1d6), deux attaques avec les ergots (dégâts 1d8 et vos attaques d'ergots peuvent utiliser les dégâts de vos griffes de métamorphe ainsi que bond.
+**Forme majeure.**  Votre forme change pour celle d'un deinonychus. Sous cette forme, vous obtenez une vitesse de base de 18 m (12 {s:c}), vision nocturne, odorat (9 m), une attaque de morsure (dégâts 1d6), deux attaques avec les ergots (dégâts 1d8 et vos attaques d'ergots peuvent utiliser les dégâts de vos griffes de métamorphe ainsi que bond. 
 
 Au niveau 8, vous obtenez deux attaques avec vos pattes avant (dégâts 1d4 mais ces attaques ne peuvent pas bénéficier des dégâts de vos griffes de métamorphe) et un bonus racial de +4 sur les tests d'Acrobaties. Au niveau 15, vous obtenez un bonus d'esquive de +1 à la CA et [[Attaque éclair]] en tant que don supplémentaire.
 
@@ -53,7 +53,7 @@ Le faucon perçoit tout et dispose de la rapidité pou fondre même sur les proi
 
 **Forme mineure.** Vous obtenez un bonus de compétence de +4 aux tests de [[Perception]]. Ce bonus augmente à +6 au niveau 8 et à +8 au niveau 15.
 
-**Forme majeure.** Votre forme change pour celle d'un faucon de taille P. sous cette forme, vous obtenez une attaque de morsure (dégâts 1d4), deux attaques de griffe (dégâts 1d3), une vitesse de vol de 18 m (12 {s:c}) (bonne), vision nocturne et un bonus racial de +4 racial aux tests de [[Perception]] basés sur la vue.
+**Forme majeure.** Votre forme change pour celle d'un faucon de taille P. sous cette forme, vous obtenez une attaque de morsure (dégâts 1d4), deux attaques de griffe (dégâts 1d3), une vitesse de vol de 18 m (12 {s:c}) (bonne), vision nocturne et un bonus racial de +4 racial aux tests de [[Perception]] basés sur la vue. 
 
 Au niveau 8, vous obtenez vision dans le noir avec une portée de 36 m (24 {s:c}) et votre bonus racial à la Perception basé sur la vue passe à +6. Au niveau 15, vous obtenez [[vision aveugle]] avec une portée de 18 m (12 {s:c}) et votre vitesse de vol passe à 27 m (18 {s:c}) (parfaite).
 
@@ -62,7 +62,7 @@ Cet aspect déclenche la férocité brutale et la furie obstinée du glouton. Le
 
 **Forme mineure.** Vous obtenez 1 point de vie supplémentaire par Dé de vie que vous possédez et vous traitez votre score de Constitution comme s'il était de 4 points supérieur lorsqu'il s'agit de déterminer si vous mourrez en atteignant un nombre de points de vie négatif. Au niveau 8, vous obtenez Endurance comme don supplémentaire. Au niveau 15, vous traitez votre score de Constitution comme s'il était de 8 points supérieur à ce qu'il est lorsqu'il s'agit de déterminer si vous mourrez en atteignant un nombre de points de vie négatif.
 
-**Forme majeure.**  Votre forme change pour celle d'un glouton sanguinaire. Sous cette forme, vous obtenez deux griffes (dégâts 1d8) et une morsure (dégâts 1d6), une vitesse d'Escalade de 3 m (2 {s:c}), [[vision nocturne]] et [[odorat]] (9 m (6 {s:c}). Sous la forme de glouton sanguinaire, vous obtenez la capacité de rage du Barbare mais vous ne pouvez l'activer que lors du round qui suit des dégâts subis. Vous pouvez être en rage pendant un nombre de rounds chaque jour égal à votre niveau de métamorphe. Cette capacité fonctionne autrement comme la capacité du Barbare (Contrairement à celle du glouton, vous pouvez mettre un terme à votre rage de manière volontaire).
+**Forme majeure.**  Votre forme change pour celle d'un glouton sanguinaire. Sous cette forme, vous obtenez deux griffes (dégâts 1d8) et une morsure (dégâts 1d6), une vitesse d'Escalade de 3 m (2 {s:c}), [[vision nocturne]] et [[odorat]] (9 m (6 {s:c}). Sous la forme de glouton sanguinaire, vous obtenez la capacité de rage du Barbare mais vous ne pouvez l'activer que lors du round qui suit des dégâts subis. Vous pouvez être en rage pendant un nombre de rounds chaque jour égal à votre niveau de métamorphe. Cette capacité fonctionne autrement comme la capacité du Barbare (Contrairement à celle du glouton, vous pouvez mettre un terme à votre rage de manière volontaire). 
 
 Au niveau 8, vous pouvez choisir deux pouvoirs de rage de barbare, en considérant votre niveau de Métamorphe comme niveau de Barbare pour déterminer si vous remplissez les conditions requises. Au niveau 15, vous n'être plus fatigué au terme de votre rage.
 
@@ -81,7 +81,7 @@ L’aspect du lézard donne des mouvements rapides et gracieux qui vous permette
 
 **Forme mineure** :  Vous obtenez un bonus de compétence de +4  aux tests d’Acrobaties. Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
 
-**Forme majeure** : Votre forme change pour celle d’un lézard coloré très agile (comme le [[Lézard à collerette géant]]) mais avec les changements suivants. Sous cette forme vous gagnez une [[VD|vitesse de base]] de 12 m (8 {s:c}), la [[vision nocturne]], [[odorat]] (9 m), une attaque naturelle primaire de morsure (1d8 dégâts) avec la capacité d’[[étreinte]] et une attaque naturelle secondaire de queue (1d6 dégâts) avec la capacité [[croc-en-jambe]]. Au niveau 8 votre vitesse de base passe à 18 m et vous gagnez une vitesse d’escalade de 9 m.
+**Forme majeure** : Votre forme change pour celle d’un lézard coloré très agile (comme le [[Lézard à collerette géant]]) mais avec les changements suivants. Sous cette forme vous gagnez une [[VD|vitesse de base]] de 12 m (8 {s:c}), la [[vision nocturne]], [[odorat]] (9 m), une attaque naturelle primaire de morsure (1d8 dégâts) avec la capacité d’[[étreinte]] et une attaque naturelle secondaire de queue (1d6 dégâts) avec la capacité [[croc-en-jambe]]. Au niveau 8 votre vitesse de base passe à 18 m et vous gagnez une vitesse d’escalade de 9 m. 
 
 Au niveau 15 vous gagnez le don [[Arme naturelle supérieure]] avec votre attaque de morsure et votre attaque de queue et vous disposez d'une allonge de 3 m avec votre attaque de queue.
 
@@ -97,7 +97,7 @@ L’aspect de l’ours fait de vous un guerrier furieux, puissant et endurant. C
 
 **Forme mineure** :  Vous obtenez un bonus d'altération de +2 à votre score de Constitution. Au niveau 8 ce bonus passe à +4 et à +6 au niveau 15
 
-**Forme majeure** : Votre forme change pour celle d’un ours sanguinaire. Sous cette forme vous gagnez deux attaques de griffes (1d6 dégâts) avec la capacité [[étreinte]], une attaque de morsure (dégâts 1d8), une vitesse de base de 12 m (8 {s:c}), la [[vision nocturne]] et la capacité [[odorat]] (9 m).
+**Forme majeure** : Votre forme change pour celle d’un ours sanguinaire. Sous cette forme vous gagnez deux attaques de griffes (1d6 dégâts) avec la capacité [[étreinte]], une attaque de morsure (dégâts 1d8), une vitesse de base de 12 m (8 {s:c}), la [[vision nocturne]] et la capacité [[odorat]] (9 m). 
 
 Au niveau 8 vous obtenez le don [[Arme naturelle supérieure]] avec vos griffes. Au niveau 15 le multiplicateur de critique de vos griffes augmente de 1 (×2 devient ×3) avec un maximum de ×4 et vous gagnez également le don [[Coup fabuleux]].
 
@@ -106,9 +106,9 @@ Le serpent est un ennemi discret et mortel qui frappe lorsque l'on ne l'attend p
 
 **Forme mineure.** Vous gagnez un bonus de +2 sur les [[AO|attaques d’opportunité]] et un bonus d’esquive de +2 à la CA contre les attaques d’opportunité. Ces bonus passent à +4 au niveau 8 et à +6 au niveau 15.
 
-**Forme majeure.** : Votre forme change pour celle d’un cobra impérial. Sous cette forme vous gagnez une attaque de morsure (2d6 dégâts), une vitesse d’escalade de 9 m, une vitesse de nage de 9 m, la [[vision nocturne]] et le don [[Attaques réflexes]]. Si vous disposez déjà de ce don ou si votre Dextérité est trop basse pour vous faire gagner des attaques d’opportunité supplémentaires avec ce don vous en obtenez automatiquement une supplémentaire à chaque round.
+**Forme majeure.** : Votre forme change pour celle d’un cobra impérial. Sous cette forme vous gagnez une attaque de morsure (2d6 dégâts), une vitesse d’escalade de 9 m, une vitesse de nage de 9 m, la [[vision nocturne]] et le don [[Attaques réflexes]]. Si vous disposez déjà de ce don ou si votre Dextérité est trop basse pour vous faire gagner des attaques d’opportunité supplémentaires avec ce don vous en obtenez automatiquement une supplémentaire à chaque round. 
 
-Au niveau 8 vous obtenez un bonus racial de +4 sur les tests d’Acrobaties et de Discrétion. Au niveau 15 quand vous faites une attaque d’opportunité avec votre morsure cette attaque injecte le poison suivant.
+Au niveau 8 vous obtenez un bonus racial de +4 sur les tests d’Acrobaties et de Discrétion. Au niveau 15 quand vous faites une attaque d’opportunité avec votre morsure cette attaque injecte le poison suivant.  
 
 **Poison (Ext)** Morsure–blessure ; ***JdS*** Vigueur DD 10 + la moitié de votre niveau de métamorphe + votre modificateur de Constitution ; ***fréquence*** 1/round pendant 6 rounds ; ***effet*** affaiblissement temporaire 1d3 Con ; ***guérison*** 2 réussites consécutives.
 
@@ -126,16 +126,16 @@ L'aspect de la souris offre la possibilité d'accéder à des endroits difficile
 
 **Forme mineure.** Vous gagnez la capacité de classe du roublard esquive totale. Au niveau 12, vous obtenez à la place le talent de maître roublard esquive extraordinaire.
 
-**Forme majeure.** Votre forme change pour celle d’une souris de taille TP (comme un rat sanguinaire mais avec un espace occupé de 75 cm de côté et une allonge de 0 m. Sous cette forme vous gagnez une attaque de morsure (1d4 dégâts), une vitesse d’escalade de 6 m, une vitesse de nage de 6 m, la [[vision nocturne]], la capacité [[odorat]] et vous pouvez utiliser votre Dextérité à la place de votre Force pour les tests d’Escalade et de Natation.
+**Forme majeure.** Votre forme change pour celle d’une souris de taille TP (comme un rat sanguinaire mais avec un espace occupé de 75 cm de côté et une allonge de 0 m. Sous cette forme vous gagnez une attaque de morsure (1d4 dégâts), une vitesse d’escalade de 6 m, une vitesse de nage de 6 m, la [[vision nocturne]], la capacité [[odorat]] et vous pouvez utiliser votre Dextérité à la place de votre Force pour les tests d’Escalade et de Natation. 
 
-Au niveau 8 vos vitesses d’escalade et de nage passent à 12 m. Au niveau 15 vous ne provoquez plus d’attaques d’opportunité de la part des créatures quand vous vous déplacez dans l'espace qu'elles contrôlent mais vous en provoquez lorsque vous sortez de leur espace contrôlé.
+Au niveau 8 vos vitesses d’escalade et de nage passent à 12 m. Au niveau 15 vous ne provoquez plus d’attaques d’opportunité de la part des créatures quand vous vous déplacez dans l'espace qu'elles contrôlent mais vous en provoquez lorsque vous sortez de leur espace contrôlé.  
 
 #### Taureau
 Le taureau aime charger ses ennemis de façon féroce et il est un adepte du piétinement pour les réduire en une pulpe sanglante.
 
 **Forme mineure.** Vous gagnez un bonus d’altération de +2 à votre score de Force. Au niveau 8 ce bonus passe à +4 et au niveau 15 il passe à +6.
 
-**Forme majeure** : Votre forme change pour celle d’un taureau de taille G (voir bétail). Sous cette forme vous gagnez une vitesse de base de 12 m (8 {s:c}), la [[vision nocturne]], la capacité [[odorat]], une attaque de corne (dégâts 1d8) avec [[Charge puissante]] (+1d8 de dégâts lors d’une charge avec vos cornes). Au niveau 8 vous obtenez la capacité universelle de monstre piétinement (dégâts égaux à vos dégâts de cornes +1,5 fois votre modificateur de Force). Au niveau 15, votre attaque de corne inflige 2d8 points de dégâts et vous obtenez le don [[Coup fabuleux]].
+**Forme majeure** : Votre forme change pour celle d’un taureau de taille G (voir bétail). Sous cette forme vous gagnez une vitesse de base de 12 m (8 {s:c}), la [[vision nocturne]], la capacité [[odorat]], une attaque de corne (dégâts 1d8) avec [[Charge puissante]] (+1d8 de dégâts lors d’une charge avec vos cornes). Au niveau 8 vous obtenez la capacité universelle de monstre piétinement (dégâts égaux à vos dégâts de cornes +1,5 fois votre modificateur de Force). Au niveau 15, votre attaque de corne inflige 2d8 points de dégâts et vous obtenez le don [[Coup fabuleux]]. 
 
 #### Tigre
 Le tigre est un chasseur puissant mais gracieux, guettant patiemment sa proie et l'abattant avec une impitoyable efficacité.

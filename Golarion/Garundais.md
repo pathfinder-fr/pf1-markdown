@@ -15,11 +15,11 @@ Les Garundais ont la peau noire, les pommettes saillantes, les épaules larges e
 Il est probable que les Garundais soient originaires du sud du [[Garund]] et qu'ils aient migré vers le nord. Mais personne ne sait quand ce mouvement de population eut lieu. Cela devait être dans des temps anciens puisque les Garundais sont à l'origine de plusieurs anciennes civilisations dont celles de l'ancien [[Osirion]], de l'[[Empire Jistka]] et de la [[Ligue Tékritaninne]]. Néanmoins, depuis cette époque, leur histoire n'en est pas moins flamboyante. Ils sont les fondateurs et les habitants de nombreuses nations telles que la [[Thuvie]], le [[Rahadoum]] et le [[Alkenastre|Grand Duché d'Alkenastre]]. Les Garundais ont aussi migré vers le sud de l'[[Avistan]] et, si cette époque est révolue depuis plusieurs siècles, on trouve encore des clans d'origine garundaise partout dans l'[[Avistan]].
 
 ### Culture
-Les Garundais sont connus pour être des gens amicaux et serviables et dont la culture repose principalement sur le clan. Un clan est un rassemblement de quinze à vingt familles. A l'intérieur de chaque clan s'est instaurée au fur et à mesure du temps une hiérarchie complexe que les étrangers ont du mal à comprendre. Cette classification est aussi présente entre les clans qui occupent le même territoire.
+Les Garundais sont connus pour être des gens amicaux et serviables et dont la culture repose principalement sur le clan. Un clan est un rassemblement de quinze à vingt familles. A l'intérieur de chaque clan s'est instaurée au fur et à mesure du temps une hiérarchie complexe que les étrangers ont du mal à comprendre. Cette classification est aussi présente entre les clans qui occupent le même territoire. 
 
 De vieilles traditions permettent de gérer les relations entre les clans lorsqu'ils sont amenés à se rencontrer. En raison de la nature nomade des clans garundais, cela arrive arrive assez souvent. Chaque clan pénétrant sur le territoire d'un autre est honoré et cordialement accueillit pendant le premier mois de sa présence. Au bout de cette période, le clan "invité" doit changer de territoire ou payer un lourd tribut au clan dominant de la communauté. Si le clan "invité" paie son tribut pendant une année entière, il est accepté à l'intérieur de la communauté au plus bas niveau de la hiérarchie.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Garundais dans le supplément
+Vous pourrez trouver plus d'informations à propos des Garundais dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

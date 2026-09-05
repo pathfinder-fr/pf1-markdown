@@ -89,7 +89,7 @@ Categories:
 **Dé de vie** d6.
 
 ### Conditions requises
-Pour devenir un estimateur légal, il faut satisfaire aux conditions suivantes.
+Pour devenir un estimateur légal, il faut satisfaire aux conditions suivantes. 
 
 **Divinité.** Doit prier le [[Golarion.Abadar|dieu de la civilisation]]
 

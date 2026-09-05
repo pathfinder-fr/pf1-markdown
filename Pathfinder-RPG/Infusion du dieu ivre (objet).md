@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 5 pc ; **Poids** 0,25 kg
+{s:cs}{s:AA}**Prix** 5 pc ; **Poids** 0,25 kg  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Cette ale est la bière la plus répandue à la Ville au centre du monde. L’on dit que la recette est celle de la dernière bière que le dieu des aventuriers a pris avant d'entreprendre le test de la Pierre étoile. Le houblon de cette bière était à l'origine cultivé sur l'île au centre du monde, mais l'immense brasserie importe maintenant depuis le Berceau de la liberté et l’Empire décadent.

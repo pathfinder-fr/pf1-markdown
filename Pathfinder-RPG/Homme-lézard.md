@@ -48,14 +48,14 @@ Les hommes-lézards sont de fiers et puissants prédateurs
 reptiliens dont les villages sont disséminés dans les profondeurs
 des marais et des marécages. Ils ne semblent pas vouloir coloniser
 les terres plus sèches et se contentent des armes et des rituels
-simples qu’ils emploient depuis des millénaires.
+simples qu’ils emploient depuis des millénaires. 
 
 De nombreuses races les considèrent comme des sauvages sans culture mais leurs
 communautés isolées abritent un peuple haut en couleurs, avec
 des traditions et une histoire orale remontant à une époque où les
 humains ne se tenaient pas encore debout sur deux jambes.
 La plupart des hommes-lézards mesurent entre
-1,80 mètres et 2,10 mètres et pèsent de 100 kg à 125 kg.
+1,80 mètres et 2,10 mètres et pèsent de 100 kg à 125 kg. 
 
 Leurs muscles puissants sont recouverts d’écailles grises, vertes
 ou brunes. Certaines espèces possèdent de petites crêtes
@@ -63,7 +63,7 @@ dorsales ou des collerettes de couleur vive. Ce sont tous
 d’excellents nageurs qui se déplacent en agitant leurs
 puissantes queues de 1,20 mètre. Ils sont tout à fait à
 l’aise dans l’eau, mais peuvent également respirer
-à l’air libre.
+à l’air libre. 
 
 Ils retournent systématiquement vers les monticules où ils vivent en groupe pour se reproduire et pour
 dormir. Comme leur sang reptilien les rend léthargiques lorsqu’il
@@ -80,7 +80,7 @@ ont de bonnes raisons d’adopter ces traits cependant, car
 leur rythme de reproduction est très faible à côté de celui des
 humanoïdes à sang chaud, et les tribus qui ne défendraient pas leur
 territoire marécageux jusqu’à la mort se retrouveraient rapidement
-submergées par des hordes de mammifères.
+submergées par des hordes de mammifères. 
 
 Quant à leur tendance à consommer les corps des amis et des ennemis défunts, les hommes-lézards
 la justifient par le bon sens : la vie dans les marais étant

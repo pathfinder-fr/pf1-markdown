@@ -59,5 +59,5 @@ LastModified: 2018-01-17 14:57
 
 Cousines des nymphes, quoique plus sombres et plus lunatiques, les lampades boudent dans des cavernes naturelles et des tunnels obscurs desquels on entend résonner dans le noir l’écho de leurs pleurs. On trouve souvent ces créatures légèrement vêtues dans des cavernes et des donjons où elles attirent à elles les humanoïdes comme les papillons sont attirés par les flammes. Elles préfèrent l’obscurité mais savent qu’il leur faut exposer leurs formes en pleine lumière pour que les créatures puissent les contempler et pour qu’elles puissent en tirer avantage.
 
-Tout comme les nymphes protègent les sites naturels les plus parfaits et les dryades leurs arbres sacrés, les lampades veillent sur les sombres recoins du monde. Elles parlent aux pierres des cavernes obscures qui les entourent et leurs pleurs désespérés résonnent jusque dans les entrailles du monde.
+Tout comme les nymphes protègent les sites naturels les plus parfaits et les dryades leurs arbres sacrés, les lampades veillent sur les sombres recoins du monde. Elles parlent aux pierres des cavernes obscures qui les entourent et leurs pleurs désespérés résonnent jusque dans les entrailles du monde. 
 </div></td></tr></table>

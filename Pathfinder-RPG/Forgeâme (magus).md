@@ -35,7 +35,7 @@ Au niveau 11, le forgeâme peut, par une [[action simple]], rendre un nombre de 
 Au niveau 16, quand un adversaire active un objet magique dans la zone contrôlée par un forgeâme, il provoque une [[attaque dopportunité|attaque d’opportunité]] qui permet au magus de l’attaquer ou de tenter de [[destruction|détruire l’objet]]. S’il parvient à le détruire, ses effets sont annulés. Ce pouvoir remplace [[magus#RIPOSTER|riposte]].
 
 #### Reconstruction instantanée (Sur)
-Au niveau 19, le forgeâme peut reforger un objet détruit d’un simple contact, grâce à une [[action simple]] qui ne provoque pas d’attaque d’opportunité. Ce pouvoir remplace [[magus#ACCESAUXSORTSSUPERIEUR|accès aux sorts supérieur]].
+Au niveau 19, le forgeâme peut reforger un objet détruit d’un simple contact, grâce à une [[action simple]] qui ne provoque pas d’attaque d’opportunité. Ce pouvoir remplace [[magus#ACCESAUXSORTSSUPERIEUR|accès aux sorts supérieur]]. 
 
 #### Arcanes de magus conseillés
 Voici les arcanes qui viennent compléter le forgeâme : [[frappe de dissipation (arcane)|frappe de dissipation]], [[lame dédiée (arcane)|lame dédiée]], [[lame fantôme (arcane)|lame fantôme]], [[lame longue durée (arcane)|lame longue durée]], [[lame tueuse (arcane)|lame tueuse]] et [[précision arcanique (arcane)|précision arcanique]].

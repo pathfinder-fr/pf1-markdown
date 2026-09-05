@@ -28,7 +28,7 @@ Categories:
 - **Pouvoirs magiques** (NLS 14 ; concentration +20)
   - Permanent - *[[détection du Bien]]*, *[[détection de pensées]]*, *[[don des langues]]*
   - À volonté – *[[téléportation suprême]]* (personnel plus 25 kg d’équipement
-maximum), *[[mise à mort]]* (DD 18), *[[désir anormal]]* (Voir l'art de la magie) (DD 18)
+maximum), *[[mise à mort]]* (DD 18), *[[désir anormal]]* (Voir l'art de la magie) (DD 18) 
   - 3/jour - *[[profanation]]*, *[[désespoir foudroyant]]* accéléré (DD20), *[[énergie négative]]*, *[[suggestion]]* (DD19)
   - 1/jour - *[[modification de mémoire]]* (DD20), *[[mépris absolu]]* (Voir l'art de la magie) (DD 20), *[[convocation]] (niveau 4 : 1d3 [[ceustodaémon]], 35%) *
 (((Statistiques)))

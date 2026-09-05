@@ -4,7 +4,7 @@ Title: Le lac des Brumes et des Voiles
 LastModified: 2010-06-15 19:05
 ---
 
-Le lac des Brumes et des Voiles est une vaste étendue d'eau située au nord-est de l'[[Avistan]]. Il est bordé par les nations du [[Brévoy]] (où il est appelé traditionnellement "le Lac"), du [[Mendev]] et de la [[Numérie]].
+Le lac des Brumes et des Voiles est une vaste étendue d'eau située au nord-est de l'[[Avistan]]. Il est bordé par les nations du [[Brévoy]] (où il est appelé traditionnellement "le Lac"), du [[Mendev]] et de la [[Numérie]]. 
 
 Son nom provient du nuage de vapeur stagnant provoqué par l'évaporation de ses eaux chaudes, au début de l'hiver.
 

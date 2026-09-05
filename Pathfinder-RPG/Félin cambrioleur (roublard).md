@@ -17,7 +17,7 @@ Au niveau 4, le félin cambrioleur maîtrise l’art de se déplacer discrèteme
 Au niveau 8, le félin cambrioleur devient un maître dans l’art d’éviter et de manipuler les pièges et les serrures. Il peut essayer de crocheter une serrure par une [[action simple]] et ne prend que la moitié du temps normal nécessaire au désamorçage des pièges (minimum de 1 [[round]]). Quand il a contourné le piège sans le désamorcer, il peut également décider de désactiver son déclencheur pendant un maximum de 1 minute : si tel est le cas, il peut aussi décider de mettre un terme prématuré à cette désactivation par une action libre. Cette capacité remplace [[roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]].
 
 #### Talents de roublard conseillés
-Ces talents de roublards complètent l’archétype du félin cambrioleur : [[Talents#DISCRETETRAPIDE|discret et rapide]], [[Talents#DESAMORCAGERAPIDE|désamorçage rapide]], [[Talents#CROCHETAGERAPIDE|crochetage rapide]], [[Talents#MAITRISEDUTERRAIN|maîtrise du terrain]].
+Ces talents de roublards complètent l’archétype du félin cambrioleur : [[Talents#DISCRETETRAPIDE|discret et rapide]], [[Talents#DESAMORCAGERAPIDE|désamorçage rapide]], [[Talents#CROCHETAGERAPIDE|crochetage rapide]], [[Talents#MAITRISEDUTERRAIN|maîtrise du terrain]]. 
 
 #### Talents de maître conseillés
 Ces talents de maître roublard complètent l’archétype du félin cambrioleur : [[Talents#UNJOURDEPLUS|un jour de plus]], [[Talents#ACROBATIESRAPIDES|acrobaties rapides]], [[Talents#CACHEENPLEINELUMIERE|caché en pleine lumière]].

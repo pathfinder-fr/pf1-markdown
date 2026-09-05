@@ -108,7 +108,7 @@ Vous trouverez ci-dessous des exemples de bâtiments avec les salles qui les com
 {s:Reference|ACADÉMIE}
 <div class=BD>
 {s:BDTitre|Académie|{s:GC}}
-**Création** 120 Marchandises, 16 Influence, 109 Travail, 3 Magie (5 360 po)
+**Création** 120 Marchandises, 16 Influence, 109 Travail, 3 Magie (5 360 po)  
 **Salles** 1 laboratoire d’alchimie, 2 salles de bain, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 dôme d’observation, 2 bureaux, 1 scriptorium, 1 salon, 1 statue.
 (((Description)))
 Un établissement d’enseignement supérieur.
@@ -117,7 +117,7 @@ Un établissement d’enseignement supérieur.
 {s:Reference|ALCHIMISTE}
 <div class=BD>
 {s:BDTitre|Alchimiste|{s:GC}}
-**Création** 48 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 940 po)
+**Création** 48 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 940 po)  
 **Salles** 1 laboratoire d’alchimie, 1 chambre à coucher, 1 jardin, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage.
 (((Description)))
 Le laboratoire et la demeure d’un fabricant de potions, de poisons et de produits alchimiques.
@@ -126,7 +126,7 @@ Le laboratoire et la demeure d’un fabricant de potions, de poisons et de produ
 {s:Reference|APPARTEMENT}
 <div class=BD>
 {s:BDTitre|Appartement|{s:GC}}
-**Création** 41 Marchandises, 16 Influence, 41 Travail (2 120 po)
+**Création** 41 Marchandises, 16 Influence, 41 Travail (2 120 po)  
 **Salles** 4 dortoirs, 1 cuisine, 1 latrines, 1 bureau, 1 remise
 (((Description)))
 Un bâtiment où sont logés un grand nombre de personnes contre un loyer modique.
@@ -135,7 +135,7 @@ Un bâtiment où sont logés un grand nombre de personnes contre un loyer modiqu
 {s:Reference|ARÈNE}
 <div class=BD>
 {s:BDTitre|Arène|{s:GC}}
-**Création** 109 Marchandises, 20 Influence, 96 Travail, 1 Magie (4 800 po)
+**Création** 109 Marchandises, 20 Influence, 96 Travail, 1 Magie (4 800 po)  
 **Salles** 1 bar, 1 salle de bain, 1 jardin, 4 salles de combat, 1 salle de jeux, 1 infirmerie, 1 latrines, 1 bureau, 1 remise, 1 étalage.
 (((Description)))
 Un grand édifice public conçu pour y organiser des compétitions, des démonstrations, des sports d’équipe ou des combats.
@@ -144,7 +144,7 @@ Un grand édifice public conçu pour y organiser des compétitions, des démonst
 {s:Reference|ATELIER DE PRODUITS EXOTIQUES}
 <div class=BD>
 {s:BDTitre|Atelier de produits exotiques|{s:GC}}
-**Création** 44 Marchandises, 1 Influence, 41 Travail (1 730 po)
+**Création** 44 Marchandises, 1 Influence, 41 Travail (1 730 po)  
 **Salles** 1 atelier d’artisan, 1 chambre à coucher, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage
 (((Description)))
 L’atelier et la demeure d’un créateur d’objets magiques ou de feux d’artifice, d’un souffleur de verre ou d’un artisan similaire.
@@ -153,7 +153,7 @@ L’atelier et la demeure d’un créateur d’objets magiques ou de feux d’ar
 {s:Reference|AUBERGE}
 <div class=BD>
 {s:BDTitre|Auberge|{s:GC}}
-**Création** 52 Marchandises, 5 Influence, 47 Travail (2 130 po)
+**Création** 52 Marchandises, 5 Influence, 47 Travail (2 130 po)  
 **Salles** 1 bar, 1 salle de bain, 1 chambre à coucher, 1 salle commune, 1 cuisine, 1 latrines, 1 logement, 1 stabulation, 1 étalage
 (((Description)))
 Un endroit où les voyageurs peuvent se restaurer et se reposer.
@@ -162,7 +162,7 @@ Un endroit où les voyageurs peuvent se restaurer et se reposer.
 {s:Reference|BANQUE}
 <div class=BD>
 {s:BDTitre|Banque|{s:GC}}
-**Création** 39 Marchandises, 3 Influence, 35 Travail (1 570 po)
+**Création** 39 Marchandises, 3 Influence, 35 Travail (1 570 po)  
 **Salles** 1 poste de garde, 2 bureaux, 1 pièce secrète, 1 étalage, 2 chambres fortes
 (((Description)))
 Un bâtiment sécurisé, conçu pour stocker de la monnaie et des objets précieux et pour octroyer des prêts aux gens dans le besoin.
@@ -171,7 +171,7 @@ Un bâtiment sécurisé, conçu pour stocker de la monnaie et des objets précie
 {s:Reference|BIBLIOTHÈQUE}
 <div class=BD>
 {s:BDTitre|Bibliothèque|{s:GC}}
-**Création** 29 Marchandises, 4 Influence, 28 Travail, 2 Magie (1 460 po)
+**Création** 29 Marchandises, 4 Influence, 28 Travail, 2 Magie (1 460 po)  
 **Salles** 2 bibliothèques, 1 salle commune, 1 bureau, 1 remise
 (((Description)))
 Un grand bâtiment où sont archivés des livres.
@@ -180,7 +180,7 @@ Un grand bâtiment où sont archivés des livres.
 {s:Reference|BOUTIQUE}
 <div class=BD>
 {s:BDTitre|Boutique|{s:GC}}
-**Création** 14 Marchandises, 1 Influence, 12 Travail (550 po)
+**Création** 14 Marchandises, 1 Influence, 12 Travail (550 po)  
 **Salles** 1 latrines, 1 bureau, 1 remise, 1 étalage
 (((Description)))
 Un commerce ordinaire.
@@ -189,7 +189,7 @@ Un commerce ordinaire.
 {s:Reference|BOUTIQUE DE LUXE}
 <div class=BD>
 {s:BDTitre|Boutique de luxe|{s:GC}}
-**Création** 28 Marchandises, 1 Influence, 22 Travail (1 030 po)
+**Création** 28 Marchandises, 1 Influence, 22 Travail (1 030 po)  
 **Salles** 1 ameublement (étalage), 1 bureau, 1 remise, 1 étalage, 1 chambre forte
 (((Description)))
 Une boutique spécialisée dans la vente de produits chers et luxueux.
@@ -198,7 +198,7 @@ Une boutique spécialisée dans la vente de produits chers et luxueux.
 {s:Reference|BOUTIQUE DE MAGIE}
 <div class=BD>
 {s:BDTitre|Boutique de magie|{s:GC}}
-**Création** 40 Marchandises, 1 Influence, 33 Travail, 1 Magie (1 590 po)
+**Création** 40 Marchandises, 1 Influence, 33 Travail, 1 Magie (1 590 po)  
 **Salles** 1 ameublement (étalage), 1 bureau, 1 reliquaire, 1 remise, 1 étalage, 2 chambres fortes
 (((Description)))
 Une boutique spécialisée dans la vente et l’achat d’objets magiques, de sorts et de remèdes magiques.
@@ -207,7 +207,7 @@ Une boutique spécialisée dans la vente et l’achat d’objets magiques, de so
 {s:Reference|BRASSERIE}
 <div class=BD>
 {s:BDTitre|Brasserie|{s:GC}}
-**Création** 36 Marchandises, 3 Influence, 32 Travail (1 450 po)
+**Création** 36 Marchandises, 3 Influence, 32 Travail (1 450 po)  
 **Salles** 1 bar, 1 brasserie, 1 cuisine, 1 bureau, 2 remises, 1 poste de travail
 (((Description)))
 Un bâtiment conçu pour le brassage de la bière et de l’ale, pour la vinification, la distillation ou diverses utilisations similaires.
@@ -216,7 +216,7 @@ Un bâtiment conçu pour le brassage de la bière et de l’ale, pour la vinific
 {s:Reference|CASERNE}
 <div class=BD>
 {s:BDTitre|Caserne|{s:GC}}
-**Création** 80 Marchandises, 18 Influence, 73 Travail, 1 Magie (3 700 po)
+**Création** 80 Marchandises, 18 Influence, 73 Travail, 1 Magie (3 700 po)  
 **Salles** 2 armureries, 1 chambre à coucher, 2 dortoirs, 1 salle commune, 1 dojo, 1 poste de garde, 1 infirmerie, 1 cuisine, 1 latrines, 1 bureau, 1 remise
 (((Description)))
 Un bâtiment conçu pour accueillir des gardes, des miliciens ou d’autres types de soldats.
@@ -225,7 +225,7 @@ Un bâtiment conçu pour accueillir des gardes, des miliciens ou d’autres type
 {s:Reference|CATHÉDRALE}
 <div class=BD>
 {s:BDTitre|Cathédrale|{s:GC}}
-**Création** 91 Marchandises, 12 Influence, 84 Travail, 11 Magie (4 960 po)
+**Création** 91 Marchandises, 12 Influence, 84 Travail, 11 Magie (4 960 po)  
 **Salles** 1 autel, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 cellule, 1 salle de cérémonie, 1 confessionnal, 1 cour, 1 crypte, 1 jardin, 1 bureau, 1 reliquaire, 1 sanctuaire, 1 salon, 1 statue, 1 remise
 (((Description)))
 Un centre d’activités religieuses et spirituelles.
@@ -234,7 +234,7 @@ Un centre d’activités religieuses et spirituelles.
 {s:Reference|CHÂTEAU}
 <div class=BD>
 {s:BDTitre|Château|{s:GC}}
-**Création** 165 Marchandises, 31 Influence, 148 Travail, 2 Magie (7 390 po)
+**Création** 165 Marchandises, 31 Influence, 148 Travail, 2 Magie (7 390 po)  
 **Salles** 2 armureries, 3 chambres à coucher, 2 dortoirs, 1 cellule, 1 cour, 1 crypte, 4 murs défensifs, 1 pont-levis, 1 issue de secours, 1 jardin, 1 bretèche, 1 salle à mâchicoulis, 1 cuisine, 1 latrines, 1 bureau, 1 salon, 1 stabulation, 2 remises
 (((Description)))
 Une demeure fortifiée élaborée, la retraite d’un noble ou le cœur défensif d’une communauté.
@@ -243,7 +243,7 @@ Une demeure fortifiée élaborée, la retraite d’un noble ou le cœur défensi
 {s:Reference|CIMETIÈRE}
 <div class=BD>
 {s:BDTitre|Cimetière|{s:GC}}
-**Création** 18 Marchandises, 12 Influence, 19 Travail, 5 Magie (1 600 po)
+**Création** 18 Marchandises, 12 Influence, 19 Travail, 5 Magie (1 600 po)  
 **Salles** 3 sites funéraires, 1 crypte, 1 statue
 (((Description)))
 Un lopin de terre où les morts sont enterrés et honorés.
@@ -252,7 +252,7 @@ Un lopin de terre où les morts sont enterrés et honorés.
 {s:Reference|COMMERCE}
 <div class=BD>
 {s:BDTitre|Commerce|{s:GC}}
-**Création** 19 Marchandises, 1 Influence, 16 Travail (730 po)
+**Création** 19 Marchandises, 1 Influence, 16 Travail (730 po)  
 **Salles** 1 latrines, 1 remise, 1 étalage, 1 poste de travail
 (((Description)))
 Une devanture derrière laquelle travaille un artisancommerçant, comme un boulanger ou un boucher.
@@ -261,7 +261,7 @@ Une devanture derrière laquelle travaille un artisancommerçant, comme un boula
 {s:Reference|COMPLEXE DE BUREAUX}
 <div class=BD>
 {s:BDTitre|Complexe de bureaux|{s:GC}}
-**Création** 55 Marchandises, 6 Influence, 52 Travail, 1 Magie (2 420 po)
+**Création** 55 Marchandises, 6 Influence, 52 Travail, 1 Magie (2 420 po)  
 **Salles** 1 bibliothèque, 1 latrines, 4 bureaux, 2 scriptoriums, 1 salon, 2 remises
 (((Description)))
 Une importante suite de bureaux occupés par des clercs et des greffiers travaillant pour une guilde ou un gouvernement.
@@ -270,7 +270,7 @@ Une importante suite de bureaux occupés par des clercs et des greffiers travail
 {s:Reference|ÉCOLE}
 <div class=BD>
 {s:BDTitre|École|{s:GC}}
-**Création** 58 Marchandises, 5 Influence, 53 Travail (2 370 po)
+**Création** 58 Marchandises, 5 Influence, 53 Travail (2 370 po)  
 **Salles** 1 clocher, 2 salles de classe, 1 salle commune, 1 cour, 1 cuisine, 1 latrines, 1 bureau, 2 remises, 1 poste de travail
 (((Description)))
 Un endroit où l’on éduque les enfants et les adolescents.
@@ -279,7 +279,7 @@ Un endroit où l’on éduque les enfants et les adolescents.
 {s:Reference|ÉCOLE DE BARDES}
 <div class=BD>
 {s:BDTitre|École de bardes|{s:GC}}
-**Création** 107 Marchandises, 13 Influence, 109 Travail, 1 Magie (4 810 po)
+**Création** 107 Marchandises, 13 Influence, 109 Travail, 1 Magie (4 810 po)  
 **Salles** 1 auditorium, 2 salles de bain, 1 chambre à coucher, 1 bibliothèque, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 cuisine, 1 latrines, 2 bureaux, 1 scriptorium, 1 salon, 1 statue, 1 remise
 (((Description)))
 Un centre d’enseignement dans le domaine des arts visuels et liés au spectacle, à la littérature, à la musique et aux traditions.
@@ -288,7 +288,7 @@ Un centre d’enseignement dans le domaine des arts visuels et liés au spectacl
 {s:Reference|ÉCOLE DE LA MAGIE}
 <div class=BD>
 {s:BDTitre|École de la magie|{s:GC}}
-**Création** 121 Marchandises, 17 Influence, 110 Travail, 5 Magie (5 630 po)
+**Création** 121 Marchandises, 17 Influence, 110 Travail, 5 Magie (5 630 po)  
 **Salles** 1 laboratoire d’alchimie, 2 salles de bain, 1 chambre à coucher, 1 clocher, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 bibliothèque magique, 1 observatoire, 2 bureaux, 1 scriptorium, 1 salon, 1 statue
 (((Description)))
 Une institution où des étudiants sont formés aux arts magiques.
@@ -297,7 +297,7 @@ Une institution où des étudiants sont formés aux arts magiques.
 {s:Reference|ÉCOLE MILITAIRE}
 <div class=BD>
 {s:BDTitre|École militaire|{s:GC}}
-**Création** 142 Marchandises, 16 Influence, 129 Travail, 2 Magie (6 100 po)
+**Création** 142 Marchandises, 16 Influence, 129 Travail, 2 Magie (6 100 po)  
 **Salles** 1 armurerie, 1 salle de bain, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 cellule, 2 salles de classe, 1 salle commune, 1 cour, 1 dojo, 1 serre, 1 infirmerie, 1 cuisine, 1 latrines, 1 logement, 2 bureaux, 1 scriptorium, 1 salon, 1 statue, 1 remise, 1 salle de guerre
 (((Description)))
 Une institution dédiée à l’étude des arts de la guerre et à l’entraînement des soldats et des officiers d’élite.
@@ -306,7 +306,7 @@ Une institution dédiée à l’étude des arts de la guerre et à l’entraîne
 {s:Reference|ÉCURIE}
 <div class=BD>
 {s:BDTitre|Écurie|{s:GC}}
-**Création** 42 Marchandises, 3 Influence, 39 Travail (1 710 po)
+**Création** 42 Marchandises, 3 Influence, 39 Travail (1 710 po)  
 **Salles** 1 enclos, 1 champ, 1 latrines, 1 bureau, 2 stabulations, 1 remise
 (((Description)))
 Un endroit où l’on prend soin des chevaux et de diverses autres montures destinées à la vente.
@@ -315,7 +315,7 @@ Un endroit où l’on prend soin des chevaux et de diverses autres montures dest
 {s:Reference|ENCLOS À BÉTAIL}
 <div class=BD>
 {s:BDTitre|Enclos à bétail|{s:GC}}
-**Création** 42 Marchandises, 4 Influence, 37 Travail (1 700 po)
+**Création** 42 Marchandises, 4 Influence, 37 Travail (1 700 po)  
 **Salles** 4 enclos, 1 latrines, 1 bureau, 1 fosse, 1 remise, 1 poste de travail
 (((Description)))
 Les étables et les enclos où l’on rassemble et prépare le bétail avant de l’emmener à l’abattoir.
@@ -324,7 +324,7 @@ Les étables et les enclos où l’on rassemble et prépare le bétail avant de 
 {s:Reference|FERME}
 <div class=BD>
 {s:BDTitre|Ferme|{s:GC}}
-**Création** 53 Marchandises, 1 Influence, 50 Travail (2 090 po)
+**Création** 53 Marchandises, 1 Influence, 50 Travail (2 090 po)  
 **Salles** 1 enclos, 1 chambre à coucher, 1 champ, 1 jardin, 1 cuisine, 1 latrines, 1 salon
 (((Description)))
 Une petite ferme ou un ranch familial.
@@ -333,7 +333,7 @@ Une petite ferme ou un ranch familial.
 {s:Reference|FORGE}
 <div class=BD>
 {s:BDTitre|Forge|{s:GC}}
-**Création** 18 Marchandises, 1 Influence, 17 Travail (730 po)
+**Création** 18 Marchandises, 1 Influence, 17 Travail (730 po)  
 **Salles** 1 forge, 1 bureau, 2 remises
 (((Description)))
 Un forgeron qui fabrique des armures, des armes ou une quantité d’autres objets en fer.
@@ -342,7 +342,7 @@ Un forgeron qui fabrique des armures, des armes ou une quantité d’autres obje
 {s:Reference|FORT}
 <div class=BD>
 {s:BDTitre|Fort|{s:GC}}
-**Création** 136 Marchandises, 25 Influence, 124 Travail, 1 Magie (6 050 po)
+**Création** 136 Marchandises, 25 Influence, 124 Travail, 1 Magie (6 050 po)  
 **Salles** 2 armureries, 1 chambre à coucher, 2 dortoirs, 1 cellule, 1 salle commune, 1 cour, 3 murs défensifs, 1 dojo, 2 fortifications (dans la salle commune et la bretèche), 1 bretèche, 1 infirmerie, 1 cuisine, 1 latrines, 1 bureau, 1 remise, 1 salle de guerre
 (((Description)))
 Un avant-poste fortifié occupé par des bandits, des mercenaires, des soldats ou de dangereux humanoïdes.
@@ -351,7 +351,7 @@ Un avant-poste fortifié occupé par des bandits, des mercenaires, des soldats o
 {s:Reference|FRONT DE MER}
 <div class=BD>
 {s:BDTitre|Front de mer|{s:GC}}
-**Création** 63 Marchandises, 10 Influence, 56 Travail (2 680 po)
+**Création** 63 Marchandises, 10 Influence, 56 Travail (2 680 po)  
 **Salles** 2 enclos, 4 quais, 1 bureau, 4 remises, 1 poste de travail
 (((Description)))
 Un complexe portuaire pour gérer les départs et les arrivées de marchandises et de passagers par voie fluviale ou maritime et pour construire des navires.
@@ -360,7 +360,7 @@ Un complexe portuaire pour gérer les départs et les arrivées de marchandises 
 {s:Reference|GARNISON}
 <div class=BD>
 {s:BDTitre|Garnison|{s:GC}}
-**Création** 126 Marchandises, 32 Influence, 112 Travail, 1 Magie (5 820 po)
+**Création** 126 Marchandises, 32 Influence, 112 Travail, 1 Magie (5 820 po)  
 **Salles** 4 armureries, 2 chambres à coucher, 4 dortoirs, 1 salle commune, 1 dojo, 1 poste de garde, 1 infirmerie, 1 cuisine, 1 latrines, 2 bureaux, 2 remises
 (((Description)))
 Un grand bâtiment conçu pour accueillir des soldats, pour entraîner des gardes et recruter des miliciens ; il est plus grand et plus polyvalent qu’une caserne.
@@ -369,7 +369,7 @@ Un grand bâtiment conçu pour accueillir des soldats, pour entraîner des garde
 {s:Reference|GRANGE}
 <div class=BD>
 {s:BDTitre|Grange|{s:GC}}
-**Création** 30 Marchandises, 30 Travail (1 200 po)
+**Création** 30 Marchandises, 30 Travail (1 200 po)  
 **Salles** 10 remises
 (((Description)))
 Un endroit où l’on stocke du grain et de la nourriture.
@@ -379,7 +379,7 @@ Un endroit où l’on stocke du grain et de la nourriture.
 {s:Reference|HERBORISTE}
 <div class=BD>
 {s:BDTitre|Herboriste|{s:GC}}
-**Création** 52 Marchandises, 1 Influence, 48 Travail (2 030 po)
+**Création** 52 Marchandises, 1 Influence, 48 Travail (2 030 po)  
 **Salles** 1 atelier d’artisan, 1 chambre à coucher, 1 serre, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage
 (((Description)))
 L’atelier et la demeure d’un jardinier, d’un guérisseur, d’un empoisonneur ou d’un fabricant de potions.
@@ -388,7 +388,7 @@ L’atelier et la demeure d’un jardinier, d’un guérisseur, d’un empoisonn
 {s:Reference|HÔPITAL}
 <div class=BD>
 {s:BDTitre|Hôpital|{s:GC}}
-**Création** 45 Marchandises, 4 Influence, 43 Travail, 2 Magie (2 080 po)
+**Création** 45 Marchandises, 4 Influence, 43 Travail, 2 Magie (2 080 po)  
 **Salles** 1 salle de bain, 1 salle commune, 2 infirmeries, 1 latrines, 1 bureau, 1 statue, 1 remise, 1 étalage, 1 poste de travail
 (((Description)))
 Un bâtiment conçu pour soigner des malades.
@@ -397,7 +397,7 @@ Un bâtiment conçu pour soigner des malades.
 {s:Reference|HÔTEL DE LA MONNAIE}
 <div class=BD>
 {s:BDTitre|Hôtel de la monnaie|{s:GC}}
-**Création** 49 Marchandises, 2 Influence, 45 Travail (1 940 po)
+**Création** 49 Marchandises, 2 Influence, 45 Travail (1 940 po)  
 **Salles** 1 atelier d’artisan, 1 fortification (chambre forte), 1 poste de garde, 1 latrines, 1 bureau, 1 remise, 2 chambres fortes
 (((Description)))
 Un bâtiment sécurisé où l’on frappe la monnaie et dans lequel sont conservés les étalons en matière de poids et de mesures.
@@ -406,7 +406,7 @@ Un bâtiment sécurisé où l’on frappe la monnaie et dans lequel sont conserv
 {s:Reference|HÔTEL DE VILLE}
 <div class=BD>
 {s:BDTitre|Hôtel de ville|{s:GC}}
-**Création** 23 Marchandises, 2 Influence, 23 Travail (980 po)
+**Création** 23 Marchandises, 2 Influence, 23 Travail (980 po)  
 **Salles** 1 salle commune, 1 latrines, 1 bureau, 1 scriptorium, 1 remise
 (((Description)))
 Un lieu où se déroulent les réunions ouvertes au public et où sont stockées les archives de la communauté.
@@ -415,7 +415,7 @@ Un lieu où se déroulent les réunions ouvertes au public et où sont stockées
 {s:Reference|MAISON}
 <div class=BD>
 {s:BDTitre|Maison|{s:GC}}
-**Création** 32 Marchandises, 1 Influence, 31 Travail (1 290 po)
+**Création** 32 Marchandises, 1 Influence, 31 Travail (1 290 po)  
 **Salles** 1 chambre à coucher, 1 cuisine, 1 latrines, 1 accès aux égouts, 1 salon, 1 remise
 (((Description)))
 Une petite chaumière qui peut accueillir jusqu’à deux adultes ou une famille.
@@ -424,7 +424,7 @@ Une petite chaumière qui peut accueillir jusqu’à deux adultes ou une famille
 {s:Reference|MAISON DE LA GUILDE}
 <div class=BD>
 {s:BDTitre|Maison de la guilde|{s:GC}}
-**Création** 67 Marchandises, 66 Travail (2 660 po)
+**Création** 67 Marchandises, 66 Travail (2 660 po)  
 **Salles** 1 salle commune, 1 cuisine, 1 latrines, 2 bureaux, 1 pièce secrète, 1 salon, 2 remises, 3 postes de travail
 (((Description)))
 Le siège d’une guilde ou d’une association similaire.
@@ -433,7 +433,7 @@ Le siège d’une guilde ou d’une association similaire.
 {s:Reference|MANOIR}
 <div class=BD>
 {s:BDTitre|Manoir|{s:GC}}
-**Création** 132 Marchandises, 4 Influence, 120 Travail (5 160 po)
+**Création** 132 Marchandises, 4 Influence, 120 Travail (5 160 po)  
 **Salles** 1 bar, 1 salle de bain, 4 chambres à coucher, 1 issue de secours, 2 ameublements (chambre à coucher et salon), 1 cuisine, 1 lavoir, 1 latrines, 1 logement, 1 bureau, 1 pièce secrète, 2 salons, 1 stabulation, 2 remises
 (((Description)))
 Un gigantesque manoir occupé par une famille riche et ses domestiques.
@@ -442,7 +442,7 @@ Un gigantesque manoir occupé par une famille riche et ses domestiques.
 {s:Reference|MARCHÉ NOIR}
 <div class=BD>
 {s:BDTitre|Marché noir|{s:GC}}
-**Création** 53 Marchandises, 6 Influence, 48 Travail (2 200 po)
+**Création** 53 Marchandises, 6 Influence, 48 Travail (2 200 po)  
 **Salles** 1 armurerie, 1 cellule, 1 issue de secours, 1 société de façade, 1 poste de garde, 1 bureau, 1 pièce secrète, 1 remise, 1 chambre forte
 (((Description)))
 Une boutique secrète dans laquelle s’achètent et se vendent des marchandises illicites, dangereuses et suspectes.
@@ -451,7 +451,7 @@ Une boutique secrète dans laquelle s’achètent et se vendent des marchandises
 {s:Reference|MONASTÈRE}
 <div class=BD>
 {s:BDTitre|Monastère|{s:GC}}
-**Création** 58 Marchandises, 15 Influence, 53 Travail, 6 Magie (3 270 po)
+**Création** 58 Marchandises, 15 Influence, 53 Travail, 6 Magie (3 270 po)  
 **Salles** 1 autel, 1 salle de bain, 1 bibliothèque, 1 dortoir, 1 cour, 1 crypte, 1 jardin, 1 cuisine, 1 lavoir, 1 latrines, 1 bureau, 2 sanctuaires, 1 scriptorium
 (((Description)))
 Un cloître dédié à la méditation et à l’étude.
@@ -460,7 +460,7 @@ Un cloître dédié à la méditation et à l’étude.
 {s:Reference|MONUMENT}
 <div class=BD>
 {s:BDTitre|Monument|{s:GC}}
-**Création** 10 Marchandises, 8 Travail (360 po)
+**Création** 10 Marchandises, 8 Travail (360 po)  
 **Salles** 1 ameublement (statue), 1 statue
 (((Description)))
 La statue d’une personne célèbre, un monument à la mémoire des soldats tombés au combat ou une œuvre d’art publique.
@@ -469,7 +469,7 @@ La statue d’une personne célèbre, un monument à la mémoire des soldats tom
 {s:Reference|MOULIN}
 <div class=BD>
 {s:BDTitre|Moulin|{s:GC}}
-**Création** 17 Marchandises, 16 Travail (660 po)
+**Création** 17 Marchandises, 16 Travail (660 po)  
 **Salles** 1 meule, 1 bureau, 2 remises
 (((Description)))
 Un bâtiment conçu pour débiter du bois ou moudre du grain.
@@ -478,7 +478,7 @@ Un bâtiment conçu pour débiter du bois ou moudre du grain.
 {s:Reference|MUSÉE}
 <div class=BD>
 {s:BDTitre|Musée|{s:GC}}
-**Création** 47 Marchandises, 5 Influence, 43 Travail, 1 Magie (2 050 po)
+**Création** 47 Marchandises, 5 Influence, 43 Travail, 1 Magie (2 050 po)  
 **Salles** 1 poste de garde, 1 bureau, 1 reliquaire, 2 statues, 2 remises, 1 étalage, 2 salles des trophées, 1 chambre forte
 (((Description)))
 Un lieu où sont exposés des œuvres d’art et des artefacts contemporains et historiques.
@@ -487,7 +487,7 @@ Un lieu où sont exposés des œuvres d’art et des artefacts contemporains et 
 {s:Reference|OBSERVATOIRE}
 <div class=BD>
 {s:BDTitre|Observatoire|{s:GC}}
-**Création** 32 Marchandises, 4 Influence, 31 Travail, 2 Magie (1 580 po)
+**Création** 32 Marchandises, 4 Influence, 31 Travail, 2 Magie (1 580 po)  
 **Salles** 1 bibliothèque, 1 latrines, 1 dôme d’observation, 1 bureau, 1 scriptorium, 1 remise
 (((Description)))
 Un dôme haut perché ou une haute tour dotée d’appareils optiques pour observer le ciel.
@@ -496,7 +496,7 @@ Un dôme haut perché ou une haute tour dotée d’appareils optiques pour obser
 {s:Reference|ORPHELINAT}
 <div class=BD>
 {s:BDTitre|Orphelinat|{s:GC}}
-**Création** 63 Marchandises, 7 Influence, 62 Travail, 1 Magie (2 810 po)
+**Création** 63 Marchandises, 7 Influence, 62 Travail, 1 Magie (2 810 po)  
 **Salles** 1 chambre à coucher, 1 dortoir, 1 salle de classe, 1 salle commune, 1 cour, 1 infirmerie, 1 cuisine, 1 lavoir, 1 latrines, 1 crèche, 1 bureau, 2 remises
 (((Description)))
 Un endroit dans lequel on prend soin d’un grand nombre d’orphelins.
@@ -505,7 +505,7 @@ Un endroit dans lequel on prend soin d’un grand nombre d’orphelins.
 {s:Reference|PALAIS}
 <div class=BD>
 {s:BDTitre|Palais|{s:GC}}
-**Création** 453 Marchandises, 42 Influence, 421 Travail, 9 Magie (19 640 po)
+**Création** 453 Marchandises, 42 Influence, 421 Travail, 9 Magie (19 640 po)  
 **Salles** 1 autel, 1 salle de bal, 1 bar, 2 salles de bain, 6 chambres à coucher, 1 dortoir, 1 cellule, 1 salle commune, 2 cours, 1 crypte, 6 murs défensifs, 1 issue de secours, 6 ameublements (dans la salle de bal, deux chambres à coucher, un bureau, un salon et la salle du trône), 1 jardin, 1 bretèche, 2 cuisines, 1 labyrinthe, 1 lavoir, 2 latrines, 2 logements, 2 bureaux, 1 sanctuaire, 3 pièces secrètes, 3 salons, 1 terrain de sport, 4 stabulations, 2 statues, 6 remises, 1 salle du trône, 1 salle des trophées, 2 chambres fortes, 1 salle de guerre.
 (((Description)))
 Un édifice et des terres grandioses qui démontrent la richesse, le pouvoir et l’autorité de ses occupants au monde entier.
@@ -514,7 +514,7 @@ Un édifice et des terres grandioses qui démontrent la richesse, le pouvoir et 
 {s:Reference|PALAIS DE JUSTICE}
 <div class=BD>
 {s:BDTitre|Palais de justice|{s:GC}}
-**Création** 43 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 840 po)
+**Création** 43 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 840 po)  
 **Salles** 1 bibliothèque, 2 cellules, 1 salle commune, 2 bureaux, 1 salon
 (((Description)))
 Un bâtiment où les témoins sont entendus et les affaires de justice réglées selon la loi par des juges généralement impartiaux.
@@ -523,7 +523,7 @@ Un bâtiment où les témoins sont entendus et les affaires de justice réglées
 {s:Reference|PRISON}
 <div class=BD>
 {s:BDTitre|Prison|{s:GC}}
-**Création** 40 Marchandises, 5 Influence, 33 Travail (1 610 po)
+**Création** 40 Marchandises, 5 Influence, 33 Travail (1 610 po)  
 **Salles** 4 cellules, 1 poste de garde, 1 bureau, 1 remise, 1 chambre de torture
 (((Description)))
 Un édifice fortifié dans lequel on enferme les criminels.
@@ -532,7 +532,7 @@ Un édifice fortifié dans lequel on enferme les criminels.
 {s:Reference|QUAI}
 <div class=BD>
 {s:BDTitre|Quai|{s:GC}}
-**Création** 22 Marchandises, 3 Influence, 20 Travail (930 po)
+**Création** 22 Marchandises, 3 Influence, 20 Travail (930 po)  
 **Salles** 1 enclos, 1 quai, 1 bureau, 2 remises
 (((Description)))
 Des entrepôts et des ateliers pour décharger les bateaux et accueillir leurs marchandises et leurs passagers.
@@ -541,7 +541,7 @@ Des entrepôts et des ateliers pour décharger les bateaux et accueillir leurs m
 {s:Reference|SALLE DE BAL}
 <div class=BD>
 {s:BDTitre|Salle de bal|{s:GC}}
-**Création** 53 Marchandises, 1 Influence, 53 Travail (2 150 po)
+**Création** 53 Marchandises, 1 Influence, 53 Travail (2 150 po)  
 **Salles** 1 Salle de bal, 1 Bar, 1 Salle commune, 1 Latrines, 1 Bureau, 1 Salon, 1 Remise
 (((Description)))
 Un établissement dans lequel on danse, on boit et on flirte avec des gens séduisants. C’est souvent un endroit où les membres de différentes classes sociales se mélangent en toute discrétion, parfois en portant des masques ou d’autres déguisements.
@@ -550,7 +550,7 @@ Un établissement dans lequel on danse, on boit et on flirte avec des gens sédu
 {s:Reference|SANCTUAIRE}
 <div class=BD>
 {s:BDTitre|Sanctuaire|{s:GC}}
-**Création** 3 Marchandises, 1 Influence, 4 Travail, 1 Magie (270 po)
+**Création** 3 Marchandises, 1 Influence, 4 Travail, 1 Magie (270 po)  
 **Salles** 1 autel, 1 dstatue
 (((Description)))
 Un autel, une idole, une clairière sacrée ou un site religieux similaire.
@@ -559,7 +559,7 @@ Un autel, une idole, une clairière sacrée ou un site religieux similaire.
 {s:Reference|TANNERIE}
 <div class=BD>
 {s:BDTitre|Tannerie|{s:GC}}
-**Création** 20 Marchandises, 1 Influence, 20 Travail (830 po)
+**Création** 20 Marchandises, 1 Influence, 20 Travail (830 po)  
 **Salles** 1 lavoir, 1 latrines, 1 atelier de tanneur, 1 bureau, 1 fosse, 1 remise
 (((Description)))
 Un bâtiment où l’on traite les peaux pour en faire du cuir.
@@ -568,7 +568,7 @@ Un bâtiment où l’on traite les peaux pour en faire du cuir.
 {s:Reference|TAVERNE}
 <div class=BD>
 {s:BDTitre|Taverne|{s:GC}}
-**Création** 22 Marchandises, 1 Influence, 22 Travail (910 po)
+**Création** 22 Marchandises, 1 Influence, 22 Travail (910 po)  
 **Salles** 1 bar, 1 salle commune, 1 latrines, 1 bureau, 1 remise
 (((Description)))
 Un établissement où l’on peut boire et manger.
@@ -577,7 +577,7 @@ Un établissement où l’on peut boire et manger.
 {s:Reference|TEMPLE}
 <div class=BD>
 {s:BDTitre|Temple|{s:GC}}
-**Création** 28 Marchandises, 2 Influence, 29 Travail, 2 Magie (1 400 po)
+**Création** 28 Marchandises, 2 Influence, 29 Travail, 2 Magie (1 400 po)  
 **Salles** 1 autel, 1 chambre à coucher, 1 salle commune, 1 confessionnal, 1 bureau, 1 sanctuaire, 1 statue, 1 remise
 (((Description)))
 Un grand lieu de culte dédié à une divinité spécifique.
@@ -586,7 +586,7 @@ Un grand lieu de culte dédié à une divinité spécifique.
 {s:Reference|THÉÂTRE}
 <div class=BD>
 {s:BDTitre|Théâtre|{s:GC}}
-**Création** 41 Marchandises, 2 Influence, 46 Travail (1 800 po)
+**Création** 41 Marchandises, 2 Influence, 46 Travail (1 800 po)  
 **Salles** 1 auditorium, 1 latrines, 1 bureau, 1 pièce secrète, 2 remises, 1 étalage
 (((Description)))
 Un lieu de divertissement dans lequel on peut assister à des pièces de théâtre, des opéras et des concerts.
@@ -595,7 +595,7 @@ Un lieu de divertissement dans lequel on peut assister à des pièces de théât
 {s:Reference|TOUR DE GUET}
 <div class=BD>
 {s:BDTitre|Tour de guet|{s:GC}}
-**Création** 35 Marchandises, 9 Influence, 25 Travail (1 470 po)
+**Création** 35 Marchandises, 9 Influence, 25 Travail (1 470 po)  
 **Salles** 1 armurerie, 1 clocher, 1 bretèche
 (((Description)))
 Une structure haute qui fait office de poste de garde.
@@ -604,7 +604,7 @@ Une structure haute qui fait office de poste de garde.
 {s:Reference|TOUR DU MAGE}
 <div class=BD>
 {s:BDTitre|Tour du mage|{s:GC}}
-**Création** 88 Marchandises, 9 Influence, 81 Travail, 11 Magie (4 750 po)
+**Création** 88 Marchandises, 9 Influence, 81 Travail, 11 Magie (4 750 po)  
 **Salles** 1 atelier d’artisan, 1 salle de bain, 1 chambre à coucher, 1 cellule, 1 salle de cérémonie, 1 cuisine, 1 latrines, 1 bibliothèque magique, 1 bureau, 1 scriptorium, 1 chambre de divination, 1 salon, 1 remise
 (((Description)))
 La demeure et le laboratoire d’un lanceur de sorts.
@@ -613,7 +613,7 @@ La demeure et le laboratoire d’un lanceur de sorts.
 {s:Reference|UNIVERSITÉ}
 <div class=BD>
 {s:BDTitre|Université|{s:GC}}
-**Création** 94 Marchandises, 10 Influence, 88 Travail, 2 Magie (4 140 po)
+**Création** 94 Marchandises, 10 Influence, 88 Travail, 2 Magie (4 140 po)  
 **Salles** 1 salle de bain, 1 clocher, 1 bibliothèque, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 dôme d’observation, 2 bureaux, 1 scriptorium, 1 salon, 1 statue
 (((Description)))
 Un établissement d’enseignement supérieur.
@@ -622,7 +622,7 @@ Un établissement d’enseignement supérieur.
 {s:Reference|VILLA DE NOBLE}
 <div class=BD>
 {s:BDTitre|Villa de noble|{s:GC}}
-**Création** 218 Marchandises, 16 Influence, 204 Travail (8 920 po)
+**Création** 218 Marchandises, 16 Influence, 204 Travail (8 920 po)  
 **Salles** 1 bar, 1 salle de bain, 4 chambres à coucher, 2 cours, 4 murs défensifs, 1 issue de secours, 2 ameublements (chambre à coucher et salon), 1 jardin, 1 bretèche, 1 cuisine, 1 labyrinthe, 1 lavoir, 1 latrines, 1 logement, 2 bureaux, 2 pièces secrètes, 2 salons, 1 stabulation, 1 statue, 2 remises, 1 salle des trophées, 1 chambre forte
 (((Description)))
 Un manoir étendu entouré d’un terrain somptueux.
@@ -631,7 +631,7 @@ Un manoir étendu entouré d’un terrain somptueux.
 {s:Reference|ZOO}
 <div class=BD>
 {s:BDTitre|Zoo|{s:GC}}
-**Création** 200 Marchandises, 33 Influence, 188 Travail (8 750 po)
+**Création** 200 Marchandises, 33 Influence, 188 Travail (8 750 po)  
 **Salles** 2 enclos, 1 cour, 4 murs défensifs, 1 champ, 1 poste de garde, 6 abris pour animaux, 1 écloserie, 1 cuisine, 1 latrines, 2 bureaux, 1 stabulation, 2 remises, 1 étalage
 (((Description)))
 Un grand parc rempli d’animaux exotiques et de créatures magiques.
@@ -677,7 +677,7 @@ Cette rubrique présente quelques organisations types, leur coût de création e
 {s:Reference|BANDE DE GROS-BRAS}
 <div class=BD>
 {s:BDTitre|Bande de gros-bras|{s:GC}}
-**Création** 7 Marchandises, 8 Influence, 13 Travail (640 po)
+**Création** 7 Marchandises, 8 Influence, 13 Travail (640 po)  
 **Employés** 1 cambrioleurs, 2 soldats
 (((Description)))
 Une bande de professionnels armés qui jouent les gros-bras au nom de votre personnage.
@@ -686,7 +686,7 @@ Une bande de professionnels armés qui jouent les gros-bras au nom de votre pers
 {s:Reference|CABALE}
 <div class=BD>
 {s:BDTitre|Cabale|{s:GC}}
-**Création** 16 Marchandises, 12 Influence, 8 Travail, 24 Magie (3 240 po)
+**Création** 16 Marchandises, 12 Influence, 8 Travail, 24 Magie (3 240 po)  
 **Employés** 4 apprentis-mages, 1 mage, 1 sage
 (((Description)))
 Un groupe d’étude composé de confrères et d’apprentis voués aux mystères et aux recherches magiques.
@@ -695,7 +695,7 @@ Un groupe d’étude composé de confrères et d’apprentis voués aux mystère
 {s:Reference|CARAVANIERS}
 <div class=BD>
 {s:BDTitre|Caravaniers|{s:GC}}
-**Création** 6 Marchandises, 3 Influence, 7 Travail (350 po)
+**Création** 6 Marchandises, 3 Influence, 7 Travail (350 po)  
 **Employés** 1 conducteur d’attelage, 1 garde, 1 travailleur
 (((Description)))
 Des voyageurs formés au chargement, au transport et au déchargement de marchandises à l’aide d’animaux, de chariots et de navires.
@@ -704,7 +704,7 @@ Des voyageurs formés au chargement, au transport et au déchargement de marchan
 {s:Reference|CHASSEURS DE PRIMES}
 <div class=BD>
 {s:BDTitre|Chasseurs de primes|{s:GC}}
-**Création** 8 Marchandises, 8 Influence, 10 Travail (600 po)
+**Création** 8 Marchandises, 8 Influence, 10 Travail (600 po)  
 **Employés** 1 archer, 1 bureaucrate, 1 conducteur d’attelage
 (((Description)))
 Des combattants formés pour traquer et capturer les criminels et les fugitifs.
@@ -713,7 +713,7 @@ Des combattants formés pour traquer et capturer les criminels et les fugitifs.
 {s:Reference|CLUB DE COMBAT}
 <div class=BD>
 {s:BDTitre|Club de combat|{s:GC}}
-**Création** 5 Marchandises, 7 Influence, 10 Travail (510 po)
+**Création** 5 Marchandises, 7 Influence, 10 Travail (510 po)  
 **Employés** 1 conducteur d’attelage, 1 garde, 1 travailleur, 1 laquai, 1 fraudeur
 (((Description)))
 Une association éventuellement illégale composée d’amateurs de combat à mains nues.
@@ -722,7 +722,7 @@ Une association éventuellement illégale composée d’amateurs de combat à ma
 {s:Reference|COMPAGNIE DE MERCENAIRES}
 <div class=BD>
 {s:BDTitre|Compagnie de mercenaires|{s:GC}}
-**Création** 18 Marchandises, 13 Influence, 25 Travail, 6 Magie (1 850 po)
+**Création** 18 Marchandises, 13 Influence, 25 Travail, 6 Magie (1 850 po)  
 **Employés** 1 archer d’élite, 2 soldats d’élite, 1 curé
 (((Description)))
 Un groupe de combattants armés et loyaux envers votre personnage. Ce dernier les rémunère pour protéger ses biens et pour combattre.
@@ -731,7 +731,7 @@ Un groupe de combattants armés et loyaux envers votre personnage. Ce dernier le
 {s:Reference|CULTE}
 <div class=BD>
 {s:BDTitre|Culte|{s:GC}}
-**Création** 15 Marchandises, 11 Influence, 17 Travail, 18 Magie (2 770 po)
+**Création** 15 Marchandises, 11 Influence, 17 Travail, 18 Magie (2 770 po)  
 **Employés** 4 acolytes, 2 gardes, 1 curé
 (((Description)))
 Un culte dissident ou une société secrète dont les membres considèrent que la religion de votre personnage est la seule qui vaille.
@@ -741,16 +741,16 @@ Un culte dissident ou une société secrète dont les membres considèrent que l
 {s:Reference|ÉQUIPAGE DE NAVIRE}
 <div class=BD>
 {s:BDTitre|Équipage de navire|{s:GC}}
-**Création** 1 Marchandises, 2 Influence, 4 Travail (160 po)
+**Création** 1 Marchandises, 2 Influence, 4 Travail (160 po)  
 **Employés** 1 travailleur, 1 marin
 (((Description)))
-L’équipage d’un petit voilier.
+L’équipage d’un petit voilier.  
 </div>
 
 {s:Reference|GUILDE D’ARTISANS}
 <div class=BD>
 {s:BDTitre|Guilde d’artisans|{s:GC}}
-**Création** 8 Marchandises, 10 Influence, 14 Travail (740 po)
+**Création** 8 Marchandises, 10 Influence, 14 Travail (740 po)  
 **Employés** 1 bureaucrate, 2 artisans, 2 travailleurs
 (((Description)))
 Des artisans et leurs assistants qui produisent des marchandises de qualité.
@@ -759,7 +759,7 @@ Des artisans et leurs assistants qui produisent des marchandises de qualité.
 {s:Reference|GROUPE DE CHASSEURS}
 <div class=BD>
 {s:BDTitre|Groupe de chasseurs|{s:GC}}
-**Création** 5 Marchandises, 6 Influence, 11 Travail (500 po)
+**Création** 5 Marchandises, 6 Influence, 11 Travail (500 po)  
 **Employés** 1 archer, 1 travailleur, 1 laquai
 (((Description)))
 Des guides et des assistants formés au loisir de la chasse.
@@ -768,7 +768,7 @@ Des guides et des assistants formés au loisir de la chasse.
 {s:Reference|GUILDE DE VOLEURS}
 <div class=BD>
 {s:BDTitre|Guilde de voleurs|{s:GC}}
-**Création** 4 Marchandises, 15 Influence, 12 Travail (770 po)
+**Création** 4 Marchandises, 15 Influence, 12 Travail (770 po)  
 **Employés** 2 tire-laine, 1 cambrioleur, 1 fraudeur, 1 soldat
 (((Description)))
 Une bande de malfrats et de criminels qui commettent des actes illégaux.
@@ -777,7 +777,7 @@ Une bande de malfrats et de criminels qui commettent des actes illégaux.
 {s:Reference|SUITE}
 <div class=BD>
 {s:BDTitre|Suite|{s:GC}}
-**Création** 6 Marchandises, 9 Influence, 7 Travail (530 po)
+**Création** 6 Marchandises, 9 Influence, 7 Travail (530 po)  
 **Employés** 1 bureaucrate, 1 conducteur d’attelage, 2 laquais
 (((Description)))
 Des amis et des flagorneurs qui s’occupent de la logistique liée aux repas, au sommeil, aux voyages et aux divertissements de votre personnage.
@@ -786,7 +786,7 @@ Des amis et des flagorneurs qui s’occupent de la logistique liée aux repas, a
 {s:Reference|TROUPE DE THÉÂTRE}
 <div class=BD>
 {s:BDTitre|Troupe de théâtre|{s:GC}}
-**Création** 15 Marchandises, 17 Influence, 13 Travail, 20 Magie (3 070 po)
+**Création** 15 Marchandises, 17 Influence, 13 Travail, 20 Magie (3 070 po)  
 **Employés** 5 apprentis-mages, 1 bureaucrate, 1 artisan, 1 travailleur
 (((Description)))
 Une troupe de théâtre ou un groupe similaire composé de comédiens, de costumiers et de décorateurs.
@@ -795,7 +795,7 @@ Une troupe de théâtre ou un groupe similaire composé de comédiens, de costum
 {s:Reference|VAGABONDS}
 <div class=BD>
 {s:BDTitre|Vagabonds|{s:GC}}
-**Création** 10 Marchandises, 13 Influence, 13 Travail, 7 Magie (1 550 po)
+**Création** 10 Marchandises, 13 Influence, 13 Travail, 7 Magie (1 550 po)  
 **Employés** 1 acolyte, 1 apprenti-mage, 1 tire-laine, 2 conducteurs d’attelage, 1 garde, 1 travailleur, 1 fraudeur
 (((Description)))
 Des nomades répugnants spécialisés dans les spectacles magiques, la bonne aventure, les jeux truqués et la confection de remèdes de charlatan.

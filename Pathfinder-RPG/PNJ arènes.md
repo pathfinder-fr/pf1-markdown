@@ -76,10 +76,10 @@ En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter le
 {s:BDTexte|**Faveur** Les maîtres des bêtes peuvent aider les PJ à chasser une proie humanoïde ou animale.}
 </div>
 </td><td><div>
-Les maîtres des bêtes sont des combattants exotiques et des dompteurs qui ravissent le cœur des foules avec l’aide de leurs animaux lorsqu’ils se battent en duo contre des créatures plus grandes. Cela se termine
-généralement mal pour leurs compagnons animaux, mais, après tout, ce ne sont pas les bêtes à dompter et à entraîner qui manquent. Les maîtres des bêtes peuvent servir de chasseurs de prime de bas niveau
+Les maîtres des bêtes sont des combattants exotiques et des dompteurs qui ravissent le cœur des foules avec l’aide de leurs animaux lorsqu’ils se battent en duo contre des créatures plus grandes. Cela se termine 
+généralement mal pour leurs compagnons animaux, mais, après tout, ce ne sont pas les bêtes à dompter et à entraîner qui manquent. Les maîtres des bêtes peuvent servir de chasseurs de prime de bas niveau 
 (en combattant avec deux matraques), de garde-chasse royaux ou de chasseurs de gros gibier en campagne.
-Parmi les compagnons animaux typiques des gladiateurs maîtres des bêtes, on trouve les crocodiles, les dinosaures, les gorilles, les gros félins, les hyènes, les loups, les ours, les rhinocéros et les varans.
+Parmi les compagnons animaux typiques des gladiateurs maîtres des bêtes, on trouve les crocodiles, les dinosaures, les gorilles, les gros félins, les hyènes, les loups, les ours, les rhinocéros et les varans. 
 Des  maîtres  des  bêtes  montés  sur  des  compagnons  rocs  peuvent aussi former une force d’attaque aérienne.
 
 On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé à chasser ou à échanger des histoires avec un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]]  et  un  [[PNJ terres sauvages#TRAPPEUR|trappeur]]  (FP  8)  ou  encore  dans  un  trio  avec  un [[PNJ mercenaires#CHASSEURDEPRIMES|chasseur de primes]] (FP 12).
@@ -116,7 +116,7 @@ On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé
 {s:BDTexte|**Faveur** Un champion peut présenter les PJ à un général, à un prince marchand ou à un noble qui fait partie de ses fans, octroyant ainsi un bonus de +10 aux tests de [[Diplomatie]] envers cette personne. Il peut aussi ordonner à un [[PNJ gladiateur|gladiateur]] d’aider les PJ pendant 24 heures.}
 </div>
 </td><td><div>
-Le  champion  est  le  maître  de  l’arène.  Il  laisse  derrière  lui  un sillage  d’armes  en  ruines,  de  corps  détruits  et  de  rêves  brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule
+Le  champion  est  le  maître  de  l’arène.  Il  laisse  derrière  lui  un sillage  d’armes  en  ruines,  de  corps  détruits  et  de  rêves  brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule 
 et la terreur qu’il inspire chez ses ennemis le font exulter.
 
 On peut également  utiliser  le  champion  comme  chef  barbare  ou  capitaine mercenaire. On peut le rencontrer seul ou en compagnie de deux [[PNJ gladiateur|gladiateurs]] (FP 10).

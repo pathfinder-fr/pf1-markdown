@@ -54,5 +54,5 @@ Cet immense chasseur félin peut dépasser les 3,60 mètres de longueur et peser
 
 **Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [[pattes arrière]] (1d4) ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [[bond]], [[étreinte]], [[pattes arrière]] (1d6).
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [[bond]], [[étreinte]], [[pattes arrière]] (1d6). 
 </div></td></tr></table>

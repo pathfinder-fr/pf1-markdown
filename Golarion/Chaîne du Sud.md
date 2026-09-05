@@ -7,7 +7,7 @@ Categories:
 - Taldor
 ---
 
-Ce massif montagneux du [[Taldor]] est le prolongement géologique naturel de la chaîne des [[Montagnes Zho]] du [[Qadira]].
+Ce massif montagneux du [[Taldor]] est le prolongement géologique naturel de la chaîne des [[Montagnes Zho]] du [[Qadira]]. 
 
 Constitué de certains des plus hauts sommets de [[Golarion]], ses pics sont toujours enneigés et servent d'habitat à toutes sortes de monstres dont des [[Géants]] du Froid. Une légende taldanne raconte même qu'un [[Golarion.dragons|dragon]] y vit. Mais, de même que pour ses congénères des [[Monts Brumeux]], personne n'en a jamais vu la couleur.
 

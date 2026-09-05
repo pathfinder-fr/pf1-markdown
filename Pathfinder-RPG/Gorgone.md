@@ -44,14 +44,14 @@ dotées d’un très mauvais caractère. Au
 premier coup d’œil, on peut les confondre
 avec des créatures artificielles mais, sous
 les plaques d’aspect métallique qui les protègent, elles sont faites de
-chair et d’os.
+chair et d’os. 
 
 À l’instar des taureaux agressifs, elles s’en prennent à
 toutes les créatures qu’elles ne connaissent pas et qu’elles croisent,
 n’hésitant pas à piétiner les corps de leurs adversaires ou à briser leurs
 restes pétrifiés jusqu’à ce qu’il soit impossible de les reconnaître. Les
 femelles sont tout aussi dangereuses que les mâles et les deux sexes
-ont la même apparence.
+ont la même apparence. 
 
 Une gorgone moyenne mesure 1,80 mètres
 de hauteur et 2,40 mètres de longueur, pour un poids de 2 000 kg.
@@ -64,7 +64,7 @@ se retrouvent donc sous la forme de pépites ou de petits cristaux
 bruts dans leurs excréments (une sorte de poudre grise à l’odeur
 amère). Les gorgones ont un comportement tellement agressifs
 envers toutes les autres créatures qu’il ne reste rapidement plus
-aucun autre prédateur et aucune proie sur leur domaine.
+aucun autre prédateur et aucune proie sur leur domaine. 
 
 Chaque troupeau de gorgones est dirigé par un taureau dominant. Les
 gorgones solitaires sont souvent des taureaux adolescents expulsés
@@ -74,7 +74,7 @@ Une fois leur carapace enlevée, la chair de gorgone est coriace
 mais ressemble à de la viande de bœuf. Ceux qui y prennent goût
 la trouvent assez nourrissante. De nombreuses tribus de géants de
 pierre pensent que manger de la viande de gorgone leur permet
-d’améliorer leur propre armure naturelle.
+d’améliorer leur propre armure naturelle. 
 
 La poudre de corne de gorgone vaut 250 po et peut servir de composante
 matérielle pour les objets magiques qui

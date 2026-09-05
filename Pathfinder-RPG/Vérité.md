@@ -24,6 +24,6 @@ Categories:
 **Jet de sauvegarde** aucun; **Résistance à la magie** non
 
 
-Le lanceur de sorts peut communiquer avec toutes les créatures qui ne sont pas dépourvues d’intelligence. Tant qu’il peut être entendu, toutes les créatures comprennent ce qu’il dit, chacune l’entendant comme s’il parlait sa langue ou utilisait un autre mode de communication naturel, et le lanceur de sorts comprend leurs réponses comme si ces créatures parlaient sa langue natale. Il peut poser des questions et recevoir des réponses, mais ce sort ne rend pas les créatures plus amicales ou plus coopératives qu’elles ne le sont normalement, et les êtres non doués de sensations risquent de donner des réponses limitées.
+Le lanceur de sorts peut communiquer avec toutes les créatures qui ne sont pas dépourvues d’intelligence. Tant qu’il peut être entendu, toutes les créatures comprennent ce qu’il dit, chacune l’entendant comme s’il parlait sa langue ou utilisait un autre mode de communication naturel, et le lanceur de sorts comprend leurs réponses comme si ces créatures parlaient sa langue natale. Il peut poser des questions et recevoir des réponses, mais ce sort ne rend pas les créatures plus amicales ou plus coopératives qu’elles ne le sont normalement, et les êtres non doués de sensations risquent de donner des réponses limitées. 
 
 Lorsque le lanceur de sorts utilise *vérité*, les [[Créer un sort#DEPENDANTDULANGAGE|effets basés sur son langage]] peuvent affecter toutes les créatures qui ne sont pas dépourvues d’intelligence.

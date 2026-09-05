@@ -11,9 +11,9 @@ Categories:
 
 {s:Menuclasseshybrides}
 {s:Menubénédictions}
-{s:mca}Le prêtre combattant choisit deux bénédictions conférées par sa divinité. Un prêtre combattant sans divinité peut choisir les deux bénédictions qu’il veut (à condition que le MJ approuve ces choix). Les dieux accordent des bénédictions portant le même nom que leurs [[domaines]].
+{s:mca}Le prêtre combattant choisit deux bénédictions conférées par sa divinité. Un prêtre combattant sans divinité peut choisir les deux bénédictions qu’il veut (à condition que le MJ approuve ces choix). Les dieux accordent des bénédictions portant le même nom que leurs [[domaines]]. 
 
-Sauf indication contraire, une bénédiction s’utilise par une [[action simple]].
+Sauf indication contraire, une bénédiction s’utilise par une [[action simple]].  
 
 Si le pouvoir d’une bénédiction imite un effet de sort, le [[NLS|niveau de lanceur de sorts]] du prêtre combattant est égal à son niveau de classe.
 

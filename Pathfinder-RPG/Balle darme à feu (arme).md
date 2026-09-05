@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** —
+{s:AE}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABMUNITIONS|Munitions d'arme à feu]]</span>
----
+<hr />
 Munitions de la plupart des armes à feu à une et deux mains, les balles prennent généralement la forme de petites balles en plomb ou en un autre métal. Trente balles pèsent environ 250 grammes.

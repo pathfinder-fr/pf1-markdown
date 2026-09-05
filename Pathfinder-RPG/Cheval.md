@@ -53,7 +53,7 @@ Categories:
 Les chevaux mesurent entre 1,50 mètre et 1,80 mètre de
 hauteur aux épaules et pèsent entre 500 kg et 750 kg.
 Le profil ci-dessus convient pour un cheval de selle moyen
-(appelé parfois « cheval léger »).
+(appelé parfois « cheval léger »). 
 
 Certains chevaux
 plus grands et plus costauds sont élevés pour le

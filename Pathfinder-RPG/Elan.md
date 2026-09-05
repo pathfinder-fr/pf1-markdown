@@ -39,27 +39,27 @@ Categories:
 </td><td><div>
 *L’homme arrive au garrot de cette bête majestueuse dont la tête est couronnée par une grande ramure se terminant en de nombreuses pointes. *
 
-Les élans se regroupent en larges troupeaux vivant dans
-les plaines, les collines et les forêts de nombreuses étendues
-sauvages. Leur taille, leur force et leur ramure leur permettent
-de faire face à la plupart des dangers de leur environnement,
-même si les troupeaux préfèrent généralement la fuite au
-combat. Les élans sont des survivants aux facultés d’adaptation
-exceptionnelles, capables de passer outre des changements
-climatiques violents sans problème. La plupart des races d’élans
-mesurent de 90 centimètres à 1,50 mètre et
-pèsent de 175 à 275 kilos, les femelles étant
+Les élans se regroupent en larges troupeaux vivant dans 
+les plaines, les collines et les forêts de nombreuses étendues 
+sauvages. Leur taille, leur force et leur ramure leur permettent 
+de faire face à la plupart des dangers de leur environnement, 
+même si les troupeaux préfèrent généralement la fuite au 
+combat. Les élans sont des survivants aux facultés d’adaptation 
+exceptionnelles, capables de passer outre des changements 
+climatiques violents sans problème. La plupart des races d’élans 
+mesurent de 90 centimètres à 1,50 mètre et 
+pèsent de 175 à 275 kilos, les femelles étant 
 bien plus fines que les mâles.
-Il existe de nombreuses espèces
-d’élans. Les plus grandes peuvent atteindre
-1,80 mètre au garrot et peuvent servir de
-montures aux humanoïdes de taille M  :
-ces élans ont 3 DV et sont de taille G. L’élan
-des rivières, espèce particulièrement
-rare, est un excellent nageur  : il
-gagne une vitesse de nage de
-9 mètres. Tous les élans
-de cette taille sont des
+Il existe de nombreuses espèces 
+d’élans. Les plus grandes peuvent atteindre 
+1,80 mètre au garrot et peuvent servir de 
+montures aux humanoïdes de taille M  : 
+ces élans ont 3 DV et sont de taille G. L’élan 
+des rivières, espèce particulièrement 
+rare, est un excellent nageur  : il 
+gagne une vitesse de nage de 
+9 mètres. Tous les élans 
+de cette taille sont des 
 créatures de FP 2
 
 #### L'élan (wapiti) comme compagnon animal

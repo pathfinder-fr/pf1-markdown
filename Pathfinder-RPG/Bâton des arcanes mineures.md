@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Bâton des arcanes mineures|}
 **Aura** [[Abjuration]] et [[Évocation]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 8 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton luisant est fabriqué en argent poli et surmonté d’une pierre précieuse simple. On l’offre souvent aux apprentis lanceurs de sorts lorsqu’ils terminent leur enseignement. Il permet d’utiliser les sorts suivants.
-• *[[bouclier]]* (1 charge)
+Ce bâton luisant est fabriqué en argent poli et surmonté d’une pierre précieuse simple. On l’offre souvent aux apprentis lanceurs de sorts lorsqu’ils terminent leur enseignement. Il permet d’utiliser les sorts suivants.  
+• *[[bouclier]]* (1 charge)  
 • *[[projectile magique]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[projectile magique]]*, *[[bouclier]]*; **Coût** 4 000 po

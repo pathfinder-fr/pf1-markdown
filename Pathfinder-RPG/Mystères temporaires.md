@@ -4,7 +4,7 @@ Title: Mystères temporaires
 LastModified: 2012-09-05 21:57
 ---
 
-Chaque [[oracle]] doit choisir un mystère dans la liste qui suit.
+Chaque [[oracle]] doit choisir un mystère dans la liste qui suit. 
 
 Sauf indication contraire, le [[DD]] pour résister à ces révélations est égal à 10 + 1/2 niveau oracle + modificateur de [[Charisme]] de l’oracle.
 

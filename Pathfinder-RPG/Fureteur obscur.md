@@ -40,9 +40,9 @@ Categories:
 {s:BDTexte|**Trésor** standard (dague, traînée noir <nowiki>[[</nowiki>3 doses<nowiki>]]</nowiki>, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Dernier sursaut (Sur).** Lorsqu'un fureteur obscur est tué, son corps s'enflamme dans un éclair de vive lumière blanche qui n'épargne que son équipement (qui tombe sur le sol).Toutes les créatures dans un rayonnement de 3 m (2 {s:c}) doivent réussir un jet de [[Vigueur]] de [[DD]] 13 pour éviter d'être [[aveuglé|aveuglées]] pendant 1d6 rounds. Les fureteurs obscurs situés dans cette zone sont automatiquement [[aveuglé|aveuglés]] pendant au moins 1 round à cause de leur sensibilité à la lumière. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
-{s:BDTexte|**Haillons protecteurs (Ext).** Les nombreuses couches de haillons crasseux que portent les fureteurs obscurs les protègent comme s'il s'agissait d'armures de cuir.}
+{s:BDTexte|**Haillons protecteurs (Ext).** Les nombreuses couches de haillons crasseux que portent les fureteurs obscurs les protègent comme s'il s'agissait d'armures de cuir.} 
 {s:BDTexte|**Utilisation des poisons (Ext).** Les fureteurs obscurs sont experts dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Ils utilisent généralement une pâte noire et malodorante distillée à partir de champignons souterrains et connue sous le nom de traînée noire - blessure ; *JS* [[Vigueur]] [[DD]] 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]]  1d2 [[Force|For]] ; *guérison* 1 réussite.}
-{s:BDTexte|**Vision dans les ténèbres (Sur).** Les fureteurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[[ténèbres profondes]]*.}
+{s:BDTexte|**Vision dans les ténèbres (Sur).** Les fureteurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[[ténèbres profondes]]*.} 
 
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[obscurien|obscuriens]].***</li></ul>*Ce petit humanoïde est recouvert de crasseux haillons puant de la tête aux pieds. Seuls ses main et son nez blanc pâle sont visibles.*
@@ -53,7 +53,7 @@ communautés proches lorsque leur envie de voler et de mettre la
 pagaille devient incontrôlable. Ces créatures s’enveloppent dans
 de nombreuses couches de tissu noir, moisi et crasseux, ce qui peut
 donner l’impression que les individus dissimulés à l’intérieur sont
-encore plus petits qu’ils le sont réellement.
+encore plus petits qu’ils le sont réellement. 
 
 Les fureteurs obscurs, qu’on rencontre généralement en groupes, fuient la lumière vive mais
 se montrent assez téméraires dans le noir.

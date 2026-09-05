@@ -14,7 +14,7 @@ Categories:
 (((Description)))
 Cette balle +1 inflige des dégâts normaux mais, quand elle touche une créature vivante, elle s’enfonce dans sa chair et lui inflige d’horribles douleurs jusqu’à ce que quelqu’un l’extraie ou qu’elle ressorte de l’autre côté. La créature est [[chancelant|chancelante]] tant que la balle creuse son corps. Cet effet dure 1d3 [[round|round(s)]] ou jusqu’à ce que quelqu’un retire la balle avec un test de [[Premiers secours]] [[DD]] 15 par une [[action simple]].
 
-Les *balles fouisseuses supérieures* mettent plus longtemps à ressortir (la victime est [[chancelant|chancelante]] pendant 1d3+2 [[round|rounds]]) et elles sont plus difficiles à extraire ([[Premiers secours]] [[DD]] 20 par une [[action simple]]).
+Les *balles fouisseuses supérieures* mettent plus longtemps à ressortir (la victime est [[chancelant|chancelante]] pendant 1d3+2 [[round|rounds]]) et elles sont plus difficiles à extraire ([[Premiers secours]] [[DD]] 20 par une [[action simple]]). 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[symbole de douleur]]* (normale) ou *[[Symbole détourdissement|symbole d’étourdissement]]* (supérieure)  ; **Coût** 861 po (normale), 1.723 po (supérieure)
 </div>

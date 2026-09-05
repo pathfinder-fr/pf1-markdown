@@ -40,7 +40,7 @@ Les cockatrices sont des bêtes stupides, vicieuses et repoussantes
 que les autres créatures évitent du fait de leur capacité magique à
 transformer la chair en pierre. D’après les légendes, la première
 cockatrice aurait émergé d’un œuf pondu par une jeune poule
-et couvé par un crapaud.
+et couvé par un crapaud. 
 
 Que cette histoire soit vraie ou pas, ces
 volatiles au cri perçant parviennent aujourd’hui à se reproduire de

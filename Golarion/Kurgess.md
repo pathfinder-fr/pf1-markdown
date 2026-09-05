@@ -9,7 +9,7 @@ Categories:
 {s:Dieu|Kurgess|%2fPCUP%2fReligion-PNG%2fKurgess.png|L'Homme Fort|NB|Compétition, Sport, Abnégation|Athlètes, Compétiteurs|Javeline|Bien, Chance, Communauté, Force, Voyage|Agathions, Commerce, Destin, Famille, Foyer, Résolution|} Kurgess est le demi-dieu associé à la saine compétition, au sport et à l’épanouissement physique. Son symbole est un bras musclé fléchi soutenant une chaine dorée.
 
 ### Histoire
-Né d’un père péquenaud taldan d’une puissance physique prodigieuse, Kurgess a été découvert par un marchand ambulant quand il était encore un jeune homme. Ce dernier fut impressionné par les incroyables qualités du garçon fermier : endurance, force, rapidité et décida de le sponsoriser dans diverses compétitions et courses. Kurgess y fit des merveilles et partagea ses prix avec son mécène.
+Né d’un père péquenaud taldan d’une puissance physique prodigieuse, Kurgess a été découvert par un marchand ambulant quand il était encore un jeune homme. Ce dernier fut impressionné par les incroyables qualités du garçon fermier : endurance, force, rapidité et décida de le sponsoriser dans diverses compétitions et courses. Kurgess y fit des merveilles et partagea ses prix avec son mécène. 
 
 Sa renommée s’étendit largement induisant malheureusement de la jalousie et de l’amertume à son égard. Durant la troisième course annuelle du Raptor, sise dans la cité taldane d’[[Oppara]], les ennemis de Kurgess lui tendirent un piège mortel. Le jeune homme, conscient de ce piège, fut tué en sauvant les autres participants des griffes du raptor.
 

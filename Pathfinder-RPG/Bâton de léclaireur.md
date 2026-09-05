@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bâton de l'éclaireur|}
 **Aura** [[Invocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 9 600 po ; **Poids** 2 kg
 (((Description)))
-Ce bâton est soigneusement taillé à partir de branches qui s’entremêlent à mesure qu’elles poussent. Il est couronné de feuilles vivantes. Il permet d’utiliser les sorts suivants.
-• *[[Repérage]]* (1 charge)
-• *[[Passage sans trace]]* (1 charge)
+Ce bâton est soigneusement taillé à partir de branches qui s’entremêlent à mesure qu’elles poussent. Il est couronné de feuilles vivantes. Il permet d’utiliser les sorts suivants.  
+• *[[Repérage]]* (1 charge)  
+• *[[Passage sans trace]]* (1 charge)  
 • *[[Convocation dalliés naturels I|Convocation d’alliés naturels I]]* (2 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[repérage]]*, *[[passage sans trace]]*, *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*; **Coût** 4 800 po

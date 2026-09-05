@@ -23,7 +23,7 @@ L'accession au pouvoir de la [[Maison Thrune]] modifia beaucoup de choses à [[C
 Aujourd'hui, la mainmise de Vassindio sur le Conseil est mise à mal et le souffle de la révolution se répand dans ses rangs.
 
 ### Structure de la guilde
-Bien que la campagne [[Aventures.Présentation AP5|Le Conseil des Voleurs]] ne fasse qu'une allusion à la véritable structure de la guilde, voici ce que l'on peut en dire.
+Bien que la campagne [[Aventures.Présentation AP5|Le Conseil des Voleurs]] ne fasse qu'une allusion à la véritable structure de la guilde, voici ce que l'on peut en dire. 
 
 #### Hiérarchie et rôles
 La guilde est structurée hiérarchiquement, avec seulement les quelques membres du Conseil à sa tête. Le Conseil est généralement composé de huit à douze personnes, mélangeant des membres de la noblesse, de la criminalité et des civils. Parmi les membres connus de ce petit noyau, on citera Vassindio Drovenge et Eirtein Oberigo.

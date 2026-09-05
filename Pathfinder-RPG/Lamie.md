@@ -51,7 +51,7 @@ ancienne. Elles ont l’apparence de femmes minces et séduisantes
 au-dessus de la ceinture mais, en-dessous, elles possèdent un
 puissant corps de lion. Leur partie humaine comporte également
 quelques traits évoquant les félins : des yeux sauvages aux pupilles
-en fente et des dents ressemblant à des crocs de prédateurs.
+en fente et des dents ressemblant à des crocs de prédateurs. 
 
 Une lamie moyenne mesure un peu plus de 1,80 mètre de hauteur, plus de
 2,40 mètres de longueur et atteint un poids supérieur à 325 kg.
@@ -59,14 +59,14 @@ Les lamies sont attirées par les régions du monde abandonnées
 ou en ruines. Les châteaux partiellement effondrés, les cités
 abandonnées et les monuments oubliés correspondent aux goûts
 esthétiques de ces cruelles chasseresses, tout particulièrement s’ils
-se trouvent dans un milieu aride ou sans vie.
+se trouvent dans un milieu aride ou sans vie. 
 
 Les lamies apprécient par dessus tout les temples délabrés. Elles prennent plaisir à voir des
 lieux de culte dédiés à des divinités bonnes réduits en ruines et ne
 reculent devant rien pour détruire les places saintes prospères.
 Les lamies obéissent à la femelle la plus âgée du groupe, qu’elles
 traitent comme un chef, une mère et un chamane et à qui elles vouent
-une vénération fanatique.
+une vénération fanatique. 
 
 Les lamies rejettent la plupart des cultes religieux, qu’elles considèrent être à l’origine de la malédiction qui
 leur a donné une forme bestiale. Cela n’empêche pas les lamies

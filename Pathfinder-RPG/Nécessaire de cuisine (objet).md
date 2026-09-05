@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 po ; **Poids** 8 kg
+{s:AE}**Prix** 3 po ; **Poids** 8 kg  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Ce nécessaire comprend une [[Marmite (objet)|marmite en fer]], une [[Poêle à frire (objet)|poêle à frire]], une louche, une broche, une planche à découper en bois, un couteau aiguisé, un trépied en fer pour la marmite, un sachet de petit bois et une petite sélection de condiments locaux ou faciles à trouver. Le personnage peut fixer la broche au trépied pour faire rôtir du petit gibier. Toutes les pièces (à l'exception de la poêle) rentrent dans le chaudron pour faciliter le rangement et le transport.

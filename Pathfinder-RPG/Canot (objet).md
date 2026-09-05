@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 500 po ; **Passage (1,5 km)** 2 cp
+{s:AE}**Prix** 500 po ; **Passage (1,5 km)** 2 cp  
 <span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
----
+<hr />
 Les canots équipent généralement le pont des grands navires. Ils permettent de transporter les passagers et les marchandises.

@@ -15,13 +15,13 @@ Quand les dégâts infligés par les <u>[[Caractéristiques des armes#TAILLEARME
 - Si le type de dé n’est pas référencé dans le tableau, appliquez les règles suivantes avant d’ajuster les dés de dégâts. 2d4 comptent comme 1d8 dans le tableau, 3d4 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d4 supérieurs. 1d12 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d12 supérieurs.
 - Enfin, 2d10 augmentent à 4d8 et diminuent à 2d8, quelque soit la taille initiale, et ainsi de suite pour les nombres de d10 supérieurs.
 
-**Tableau de progression des dés de dégâts**
+**Tableau de progression des dés de dégâts**  
 1 → 1d2 → 1d3 → 1d4 →1d6 → 1d8 → 1d10 → 2d6 → 2d8 → 3d6 → 3d8 → 4d6 → 4d8 → 6d6 → 6d8 → 8d6 → 8d8 → 12d6 → 12d8 → 16d6
----
+<hr />
 ***[[FAQ- Bestiaire#8|→]] Griffes et serres : Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?***
 
-Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[[Attaques naturelles (capacité)|griffes]]</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.
-Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [[Bond (capacité)|bond]] ou [[Éventration (capacité)|éventration]].
+Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[[Attaques naturelles (capacité)|griffes]]</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.  
+Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [[Bond (capacité)|bond]] ou [[Éventration (capacité)|éventration]].  
 Les serres sont similaires aux griffes, mais se placent sur les pieds d'une créature, généralement bipède (particulièrement une créature bipède volante comme un [[aigle géant]] ou une [[harpie]]). Une capacité qui offre des attaques de griffe ne peut pas être utilisée comme s'il s'agissait d'attaques de serre (autrement dit, vous ne pouvez pas « personnaliser » les effets techniques de la capacité pour pouvoir l'utiliser avec un membre différent).}La plupart des créatures possèdent une ou plusieurs attaques naturelles (c’est-à-dire des attaques effectuées sans l’aide d’une arme fabriquée). Ces attaques sont regroupées en deux catégories : les attaques primaires et les attaques secondaires.
 - {s:Reference|PRINCIPALE}Les attaques primaires utilisent le [[BBA|bonus d’attaque de base]] maximum de la créature et lui permettent d’ajouter son bonus de [[Force]] aux [[jet de dégâts|jets de dégâts]].
 - {s:Reference|SECONDAIRE}Les attaques secondaires utilisent le bonus d’attaque de base de la créature –5 et ne lui permettent d’ajouter que la moitié de son bonus de Force aux dégâts.
@@ -188,6 +188,6 @@ La Table ci-dessous présente également les dégâts usuels des attaques nature
 <nowiki>*</nowiki> Pour certaines créatures, il peut être approprié d’utiliser d’autres valeurs que celles indiquées ci-dessus.
 
 La colonne « Type de dégât » indique le type des dégâts généralement infligés par l’attaque naturelle en question :
-contondant (C), Perforant (P) ou tranchant (T). Certaines attaques peuvent occasionner des dégâts de plusieurs types à la fois. Elles ignorent les réductions de dégâts comme si la totalité des dégâts appartenait à chacun des types de dégâts cités. Certains Extérieurs, fées, humanoïdes ou humanoïdes monstrueux ne possèdent aucune attaque naturelle. Ces créatures peuvent porter des attaques à mains nues, mais les bonus d’attaque sont alors déterminés comme si elles utilisaient des armes et, si elles attaquent avec deux mains, les règles du combat à deux armes s’appliquent.
+contondant (C), Perforant (P) ou tranchant (T). Certaines attaques peuvent occasionner des dégâts de plusieurs types à la fois. Elles ignorent les réductions de dégâts comme si la totalité des dégâts appartenait à chacun des types de dégâts cités. Certains Extérieurs, fées, humanoïdes ou humanoïdes monstrueux ne possèdent aucune attaque naturelle. Ces créatures peuvent porter des attaques à mains nues, mais les bonus d’attaque sont alors déterminés comme si elles utilisaient des armes et, si elles attaquent avec deux mains, les règles du combat à deux armes s’appliquent. 
 
 *Format :* morsure, +5 (1d6+1), 2 griffes, +5 (1d4+2), 4 tentacules, +0 (1d4+1). *Emplacement :* Corps à corps et Distance.

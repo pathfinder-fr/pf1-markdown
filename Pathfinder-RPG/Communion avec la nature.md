@@ -19,7 +19,7 @@ Categories:
 **Cible** le jeteur de sorts  
 **Durée** [[instantanée]]
 
-Le personnage ne fait plus qu’un avec la nature qui l’environne, ce qui lui permet de connaître intimement les alentours. Il apprend aussitôt tout ce qu’il y a à savoir sur trois des thèmes suivants :
+Le personnage ne fait plus qu’un avec la nature qui l’environne, ce qui lui permet de connaître intimement les alentours. Il apprend aussitôt tout ce qu’il y a à savoir sur trois des thèmes suivants : 
 - sol ou milieu : végétation, minéraux, étendues et cours d’eau, 
 - habitants :  population animale, présence ou non de créatures des bois, présence ou non de puissantes créatures surnaturelles, 
 - ou encore état de la nature environnante.

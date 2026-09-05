@@ -10,7 +10,7 @@ LastModified: 2021-02-23 17:25
 {s:pucem|Animal|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.203}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[[type Animal|Animal]] ([[sous-type nuée|nuée]]) de taille TP, N}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type nuée|nuée]]) de taille TP, N} 
 {s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturelle +1, taille +2)}

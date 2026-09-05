@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** 9 rangs en [[Connaissances]] (mystères), capacité à préparer et lancer des sorts de niveau 4.
 
-**Avantage.** Une fois par jour, quand le personnage prépare ses sorts, il peut choisir un emplacement de sort dans trois niveaux au maximum, à condition que ces niveaux soient inférieurs à celui du sort de plus haut niveau qu’il peut lancer. Le personnage peut préparer deux sorts par emplacement choisi. Il peut lancer normalement l’un ou l’autre de ces sorts, mais cela consomme les deux sorts préparés dans le même emplacement.
+**Avantage.** Une fois par jour, quand le personnage prépare ses sorts, il peut choisir un emplacement de sort dans trois niveaux au maximum, à condition que ces niveaux soient inférieurs à celui du sort de plus haut niveau qu’il peut lancer. Le personnage peut préparer deux sorts par emplacement choisi. Il peut lancer normalement l’un ou l’autre de ces sorts, mais cela consomme les deux sorts préparés dans le même emplacement. 
 
 **Spécial.** Un [[magicien]] peut choisir ce don comme [[Magicien#DONSUPPLEMENTAIRE|don supplémentaire]].

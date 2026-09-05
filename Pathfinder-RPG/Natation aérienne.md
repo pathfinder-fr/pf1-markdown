@@ -13,12 +13,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** contact
-**Cible** créature touchée de taille G ou inférieure
-**Durée** 1 minute/[[niveau]]
+{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** contact  
+**Cible** créature touchée de taille G ou inférieure  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** aucun (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Ce sort confère à la cible la capacité de nager dans les airs. Les créatures qui ont une vitesse de nage peuvent se déplacer dans l’air à cette vitesse. Celles qui en sont dépourvues doivent faire des tests de [[Natation]] afin de se déplacer normalement. En l’absence de vent, l’air a les mêmes effets qu’une eau calme, le vent léger ou modéré a les mêmes effets qu’une eau agitée, et il est impossible de nager dans des [[Vents|vents plus forts]]. Ce sort ne confère pas la capacité de respirer l’air aux créatures qui ne le peuvent pas en temps normal.

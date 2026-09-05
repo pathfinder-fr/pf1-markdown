@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** —
+{s:AE}**Prix** 1 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
 [[FAQ- Armes et équipement#3|→]] Dragonne : Quel type d’action est nécessaire pour récupérer une arme attachée au poignet par une dragonne ?**'

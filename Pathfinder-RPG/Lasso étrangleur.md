@@ -15,7 +15,7 @@ Categories:
 
 **Conditions.** [[Arme de prédilection]] (lasso), [[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso).
 
-**Avantages.** Quand le personnage réussit à enchevêtrer une cible avec un lasso et dépasse le [[DMD]] de sa cible de 5 ou plus, cette dernière ne peut émettre que des murmures et doit réussir un test de concentration (DD = 20 + BMO du personnage + niveau du sort) pour lancer un sort à composante verbale, utiliser un objet à mot de commande ou user d’une magie exigeant des paroles.
+**Avantages.** Quand le personnage réussit à enchevêtrer une cible avec un lasso et dépasse le [[DMD]] de sa cible de 5 ou plus, cette dernière ne peut émettre que des murmures et doit réussir un test de concentration (DD = 20 + BMO du personnage + niveau du sort) pour lancer un sort à composante verbale, utiliser un objet à mot de commande ou user d’une magie exigeant des paroles. 
 
 De plus, le DD du test d’[[Évasion]] pour échapper au lasso du personnage est de 15 ou DMD du personnage (prendre le plus élevé).
 

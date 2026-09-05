@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Éclat de l'esprit amalgamé|{s:AE}}
 **Aura** [[école divination|Divination]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** —
 (((Description)))
-Ce tout petit cristal clair fait partie d’une grande machine venue d’un autre monde qui a été brisée il y a bien longtemps. À lui seul, cet éclat, pas plus gros qu’un ongle, n’a aucun pouvoir. Mais s’il est mis en contact avec un autre éclat, les deux morceaux prennent la même couleur. Si on insère ces éclats dans la peau d’êtres doués de conscience, alors les individus dotés d’éclats de même couleur peuvent communiquer entre eux par télépathie s’ils se voient.
+Ce tout petit cristal clair fait partie d’une grande machine venue d’un autre monde qui a été brisée il y a bien longtemps. À lui seul, cet éclat, pas plus gros qu’un ongle, n’a aucun pouvoir. Mais s’il est mis en contact avec un autre éclat, les deux morceaux prennent la même couleur. Si on insère ces éclats dans la peau d’êtres doués de conscience, alors les individus dotés d’éclats de même couleur peuvent communiquer entre eux par télépathie s’ils se voient. 
 Cette capacité permet aux participants de n’entendre que ce que les autres porteurs d’éclat souhaitent divulguer et de ne révéler que ce qu’ils veulent. Le porteur a tout contrôle sur cette télépathie et peut la bloquer ou ne communiquer qu’avec certaines personnes spécifiques, au choix.
 (((Utilisation en campagne)))
-Les joueurs discutent souvent autour de la table de jeu et, à l’occasion, réagissent à des informations que leurs personnages n’ont aucun moyen de connaître. Cet artefact donne aux [[PJ]] une raison de savoir des choses qu’ils devraient, généralement, ignorer.
+Les joueurs discutent souvent autour de la table de jeu et, à l’occasion, réagissent à des informations que leurs personnages n’ont aucun moyen de connaître. Cet artefact donne aux [[PJ]] une raison de savoir des choses qu’ils devraient, généralement, ignorer. 
 </div>

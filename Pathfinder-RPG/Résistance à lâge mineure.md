@@ -19,8 +19,8 @@ Categories:
 **Cible** lanceur de sorts  
 **Durée** 24 heures  
 
-Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen]].
+Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen]]. 
 
-Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de -1 à la [[force]], la [[dextérité]] et la [[constitution]] qui apparaissent avec l’âge moyen.
+Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de -1 à la [[force]], la [[dextérité]] et la [[constitution]] qui apparaissent avec l’âge moyen. 
 
 En revanche il conserve les bonus d’[[intelligence]], de [[sagesse]] et de [[charisme]] liés, tant que le sort fait effet. Les malus supplémentaires qui viennent avec l’âge avancé et vénérable s’appliquent en totalité.

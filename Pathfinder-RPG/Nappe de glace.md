@@ -14,12 +14,12 @@ Categories:
 
 {s:cm}**Ce sort est réservé aux personnages de la race [[Géant du froid]].**
 
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[Magus]] 2, [[rôdeur|Rôd]] 2, [[sorcière|Sor]] 2
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone d'effet** rayonnement de 1,50 m de rayon
-**Durée** instantanée (voir texte)
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[Magus]] 2, [[rôdeur|Rôd]] 2, [[sorcière|Sor]] 2  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone d'effet** rayonnement de 1,50 m de rayon  
+**Durée** instantanée (voir texte)  
 **Jet de sauvegarde** [[Réflexes]] partiel (voir texte) ; **Résistance à la magie** voir texte
 
 Le personnage crée une bouffée de froid intense qui recouvre toutes les surfaces solides de la zone d’une pellicule de glace. Une créature qui se trouve dans la zone lors de l’incantation du sort subit 1d6 points de dégâts de froid + 1 point par [[NLS|niveau de lanceur de sorts]] (+10 au maximum) et tombe à terre. Une créature qui réussit un jet de [[Réflexes]] reçoit seulement la moitié des dégâts et ne tombe pas. La [[RM|résistance à la magie]] s’applique à cet effet initial.

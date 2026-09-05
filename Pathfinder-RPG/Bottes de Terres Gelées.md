@@ -8,7 +8,7 @@ LastModified: 2024-05-31 23:03
 {s:BDTitre|Bottes de terres gelées|{s:AE}}
 **Aura** [[Transmutation]] et [[Abjuration]] faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 2 500 po ; **Poids** 0.5 kg
 (((Description)))
-Celui qui porte ces bottes peut se déplacer dans la neige à sa vitesse normale et sans laisser la moindre trace. De plus, les bottes lui permettent d’avancer à sa vitesse normale sur la glace la plus traîtresse sans risquer de tomber ou de glisser (seulement sur des surfaces horizontales, pas sur des pentes importantes ou des parois verticales). Enfin, elles réchauffent leur porteur comme s’il bénéficiait du sort *[[endurance aux énergies destructives]]*.
+Celui qui porte ces bottes peut se déplacer dans la neige à sa vitesse normale et sans laisser la moindre trace. De plus, les bottes lui permettent d’avancer à sa vitesse normale sur la glace la plus traîtresse sans risquer de tomber ou de glisser (seulement sur des surfaces horizontales, pas sur des pentes importantes ou des parois verticales). Enfin, elles réchauffent leur porteur comme s’il bénéficiait du sort *[[endurance aux énergies destructives]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[endurance aux énergies destructives]]*, passage sans trace ; **Coût** 1 250 po
 </div>

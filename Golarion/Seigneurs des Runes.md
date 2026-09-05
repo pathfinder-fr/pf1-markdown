@@ -8,7 +8,7 @@ L'[[Thassilon|Empire du Thassilon]] fut fondé il y a plus de onze siècles par 
 
 Avant sa mort, le Premier Roi avait obtenu de la déesse [[Lissala]] les Règles de la Loi - *Générosité, Amour, Humilité, Tempérance, Charité, Empathie et Zèle*. Il les avait alors distribuées à chacun des sept Seigneurs des Runes. Au fil du temps, ces derniers furent corrompus par ce que les érudits actuels appellent les Grands Péchés de l'Âme, abandonnant tous les aspects positifs de ces traits pour en adopter le contraire. C'est ainsi que les Seigneurs des Runes embrassèrent sept nouveaux vices - *Avidité, Luxure, Orgueil, Gloutonnerie, Envie, Colère et Paresse*. Ils se spécialisèrent également chacun dans une école de la magie runique et adoptèrent une arme sacrée qui devint le symbole de leur travers.
 
-Les Seigneurs des Runes forgèrent des alliances avec des dragons et emprisonnèrent des géants en utilisant des secrets de la magie des runes et des glyphes qu'ils avaient dérobés aux [[Aboleths]]. A l'aide de ces esclaves à la force mystique, ces sorciers bâtirent d'énormes constructions ésotériques et des monuments titanesques encore debout de nos jours, héritages d'un passé lointain et mystérieux.
+Les Seigneurs des Runes forgèrent des alliances avec des dragons et emprisonnèrent des géants en utilisant des secrets de la magie des runes et des glyphes qu'ils avaient dérobés aux [[Aboleths]]. A l'aide de ces esclaves à la force mystique, ces sorciers bâtirent d'énormes constructions ésotériques et des monuments titanesques encore debout de nos jours, héritages d'un passé lointain et mystérieux. 
 
 <u>Seigneurs des Runes :</u> (*Précédant la chute de la Pierre-Etoile*)
 

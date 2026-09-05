@@ -8,12 +8,12 @@ Categories:
 ---
 
 {s:Nation|Galt|%2fPCUP%2fNation-PNG%2fGalt.png|La Révolution Eternelle|CN|Anarchie révolutionnaire|Citoyen Goss, président du Conseil Révolutionnaire|[[Isarn]] (42 700)|[[Edme]] (13 600), [[Litran]] (4 900), [[Lisière]] (14 200)|?|?|commun, hallit|[[Calistria]], [[Cayden Cailéan]], [[Erastil]], [[Shélyn]], [[Norgorber]], [[Iomédae]]}
-Le Galt est une terre où les idéaux et la libre pensée ont cours depuis très longtemps. Avec la mort d'[[Aroden]], les habitants du Galt ont décidé de s'éloigner des principes du [[Chéliax]] et de ses propres nobles, suppôts du pays infernal. Une révolution sanglante éclata qui dura cinq longues années. Depuis quarante ans, pas moins de douze gouvernements ont été mis en place puis renversés.
+Le Galt est une terre où les idéaux et la libre pensée ont cours depuis très longtemps. Avec la mort d'[[Aroden]], les habitants du Galt ont décidé de s'éloigner des principes du [[Chéliax]] et de ses propres nobles, suppôts du pays infernal. Une révolution sanglante éclata qui dura cinq longues années. Depuis quarante ans, pas moins de douze gouvernements ont été mis en place puis renversés. 
 
 ### La géographie du Galt
 Le Galt est situé à l'est de l'[[Avistan]], aux confins des immenses plaines qui se perdent dans le [[Casmaron]]. Le pays est dans son ensemble relativement plat. Le bout de la chaîne des [[Cinq Rois]] borde son extrémité ouest, à la frontière avec le [[Kyonin]], alors qu'au sud, la chaîne des [[Golarion.Monts Brumeux|Pics Brumeux]] sert de frontière avec le [[Taldor]].
 
-Le réseau hydrographique est principalement composé d'un affluent du [[Sellen]]. La rivière prend sa source au pied de chaque extrémité des [[Golarion.Monts Brumeux|Pics Brumeux]] et traverse [[Litran]] et [[Isarn]] avant de se jeter dans le [[Sellen]] à la frontière avec les [[Royaumes Fluviaux]].
+Le réseau hydrographique est principalement composé d'un affluent du [[Sellen]]. La rivière prend sa source au pied de chaque extrémité des [[Golarion.Monts Brumeux|Pics Brumeux]] et traverse [[Litran]] et [[Isarn]] avant de se jeter dans le [[Sellen]] à la frontière avec les [[Royaumes Fluviaux]]. 
 
 Au pied de la chaîne des [[Cinq Rois]], le [[Sellen]] coule tranquillement en provenance du nord avant d'entamer sa traversée de la forêt du [[Verduran]] au niveau de la ville de [[Lisière]].
 

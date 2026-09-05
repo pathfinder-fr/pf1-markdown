@@ -19,9 +19,9 @@ Au niveau 3, un glaive de l’esprit peut dépenser une utilisation quotidienne 
 #### Sorts
 Un glaive de l’esprit ajoute les sorts psychiques suivants à sa liste de sorts de paladin aux niveaux indiqués :
 
-Niveau 1 — *[[bouclier des pensées I]]*, *[[détection dimportance psychique|détection d'importance psychique]]*, *[[manipulation à distance]]*, *[[projectile télékinétique]]* ;
-Niveau 2 — *[[barrière mentale I]]*, *[[bouclier des pensées II]]*, *[[enveloppement des pensées]]*, *[[transport dobjet|transport d'objet]]* ;
-Niveau 3 — *[[barrière mentale II]]*, *[[bouclier des pensées III]]*, *[[forteresse intellectuelle I]]*, *[[manœuvre télékinétique]]* ;
+Niveau 1 — *[[bouclier des pensées I]]*, *[[détection dimportance psychique|détection d'importance psychique]]*, *[[manipulation à distance]]*, *[[projectile télékinétique]]* ;  
+Niveau 2 — *[[barrière mentale I]]*, *[[bouclier des pensées II]]*, *[[enveloppement des pensées]]*, *[[transport dobjet|transport d'objet]]* ;  
+Niveau 3 — *[[barrière mentale II]]*, *[[bouclier des pensées III]]*, *[[forteresse intellectuelle I]]*, *[[manœuvre télékinétique]]* ;  
 Niveau 4 — *[[bouclier des pensées IV]]*, *[[forteresse intellectuelle II]]*, *[[perception des pensées]]*, *[[télékinésie]]*, *[[tour de volonté de fer I]]*.
 
 Le glaive de l’esprit peut préparer et lancer ces sorts psychiques comme des sorts divins de [[paladin]]. En revanche, le glaive de l’esprit ne peut pas utiliser ces sorts pour fabriquer des objets, y compris pour faire des [[Potions magiques|potions]] ou des [[Parchemins magiques|parchemins]] de ces sorts. Cette capacité remplace [[Paladin#CANALISATIONDENERGIEPOSITIVE|canalisation d'énergie positive]].

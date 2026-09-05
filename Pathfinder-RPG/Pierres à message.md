@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Pierres à message|{s:RSE}}
 **Aura** [[Transmutation]] faible  ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 10 000 po ; **Poids** —
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ces deux petits morceaux de roche noire sont gravés de plusieurs dizaines de minuscules symboles magiques surlignés à la peinture rouge et fixés à une simple chaîne d’argent. Les *pierres à message* sont toujours créées par paire. Lorsque leur propriétaire et une autre personne portent chacun une pierre, l’un ou l’autre peut murmurer des paroles que le porteur de la seconde pierre percevra s’il n’est pas éloigné de plus de 5 kilomètres.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[vent de murmures]]* ; **Coût** 5 000 po

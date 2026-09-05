@@ -10,9 +10,9 @@ Categories:
 
 Capitale d'[[Osirion]], Sothis est aussi la ville la plus peuplée du pays. Elle est le siège du gouvernement d'[[Osirion]]
 
-Elle est le symbole de la renaissance de la nation osirionnaise depuis que les anciennes lois d'[[Osirion]] ont été rétablies par le Pahraon Khemet I. La magnificence des monuments et palais qui la composent permet au Pharaon actuel, le Prince Rubis Khemet III, d'asseoir son autorité sur l'ensemble du territoire et illustre parfaitement le rayonnement ancestral de la civilisation osirionnaise.
+Elle est le symbole de la renaissance de la nation osirionnaise depuis que les anciennes lois d'[[Osirion]] ont été rétablies par le Pahraon Khemet I. La magnificence des monuments et palais qui la composent permet au Pharaon actuel, le Prince Rubis Khemet III, d'asseoir son autorité sur l'ensemble du territoire et illustre parfaitement le rayonnement ancestral de la civilisation osirionnaise. 
 
-Certains lieux justifient à eux-seuls de visiter la ville :
+Certains lieux justifient à eux-seuls de visiter la ville : 
 - la Flèche d'Azghaad (Azghaad's Spire) : abrite le Temple de [[Néthys]], 
 - le Dôme Noir (Black Dome) : abrite le palais royal et le quartier noble de la ville,
 - le Conseil du Soleil et du Ciel (Council of Sun and Sky) : abrite le conseil des représentants des cités d'[[Osirion]],

@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:regional|Kéléshites|Kéléshites|kéléshites}{s:MR}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 cible principale plus 1 cible supplémentaire/3 niveaux (chacune doit être dans un rayon de 4,5 m de la cible principale)
-**Durée** instantanée
+{s:regional|Kéléshites|Kéléshites|kéléshites}{s:MR}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 cible principale plus 1 cible supplémentaire/3 niveaux (chacune doit être dans un rayon de 4,5 m de la cible principale)  
+**Durée** instantanée  
 **Jet de sauvegarde** [[Réflexes]], 1/2 dégâts ; **Résistance à la magie** oui
 
 *Le [[Golarion.Kélesh|peuple de l'Est]] se vante d’avoir volé ce sort aux génies il y a des milliers d’années, alors que les autres civilisations luttaient sans encore avoir découvert la maîtrise du feu.*

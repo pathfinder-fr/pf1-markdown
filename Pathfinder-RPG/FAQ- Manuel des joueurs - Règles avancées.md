@@ -216,8 +216,8 @@ En général, si une capacité de classe offre plusieurs sous-capacités, il est
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|12}
 #### Barbare, Guerrier totem : Cet archétype permet-il au personnage de prendre plus d'un type de pouvoirs de rage totémiques ?
-{s:Desambi|Cette question est un doublon de [[FAQ- lArt de la guerre#2|celle de l'Art de la guerre]].}Non, la ligne de l’*Art de la guerre* est une erreur ; un <u>[[Guerrier totem (barbare)|barbare]]</u> ne peut pas choisir plus d'un type de pouvoirs de rage totémiques.
-Cette erreur sera corrigée dans la prochaine impression de l'Art de la guerre.
+{s:Desambi|Cette question est un doublon de [[FAQ- lArt de la guerre#2|celle de l'Art de la guerre]].}Non, la ligne de l’*Art de la guerre* est une erreur ; un <u>[[Guerrier totem (barbare)|barbare]]</u> ne peut pas choisir plus d'un type de pouvoirs de rage totémiques.  
+Cette erreur sera corrigée dans la prochaine impression de l'Art de la guerre.  
 Cette réponse est d'abord apparue dans le [Paizo blog du 11/9/2012](http://paizo.com/paizo/blog/v5748dyo5ldw0?The-FAQ-That-Time-Forgot).
 
 <div style="border-top:1px dashed #4b3124">
@@ -233,15 +233,15 @@ Le barbare choisit qui les <u>[[Pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|esprits
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|15}
 #### Chevalier, Monture : Les niveaux de compagnon animal obtenus grâce à la classe de druide se cumulent-ils aux niveaux de monture du chevalier ?
-Si l'animal apparaît dans la liste de <u>[[Chevalier#MONTURE|monture]]</u> du chevalier et dans la liste de [[Druide#PACTEAVECLANATURE|compagnons animaux]] de l'autre classe, les niveaux de chevalier et de druide se cumulent pour déterminer les capacités de l'animal. Si l'animal n'apparaît pas dans la liste de montures du chevalier, les niveaux de druide ne se cumulent pas et le personnage doit avoir deux animaux différents (l'un comme compagnon animal, l'autre comme monture de chevalier).
-Par exemple, un druide de taille M qui choisit un compagnon cheval verrait ses niveaux de chevalier se cumuler à ses niveaux de druide pour déterminer les capacités du cheval. En revanche, un druide de taille M qui choisit un compagnon oiseau ne pourrait pas cumuler ses niveaux de chevalier pour déterminer les capacités de l'oiseau, et devrait choisir une seconde créature comme monture (ou abandonner l'oiseau et choisir un compagnon animal qui peut servir de monture).
-Ces mêmes réponses s'appliquent aux personnages multiclassés chevalier/rôdeur.
+Si l'animal apparaît dans la liste de <u>[[Chevalier#MONTURE|monture]]</u> du chevalier et dans la liste de [[Druide#PACTEAVECLANATURE|compagnons animaux]] de l'autre classe, les niveaux de chevalier et de druide se cumulent pour déterminer les capacités de l'animal. Si l'animal n'apparaît pas dans la liste de montures du chevalier, les niveaux de druide ne se cumulent pas et le personnage doit avoir deux animaux différents (l'un comme compagnon animal, l'autre comme monture de chevalier).  
+Par exemple, un druide de taille M qui choisit un compagnon cheval verrait ses niveaux de chevalier se cumuler à ses niveaux de druide pour déterminer les capacités du cheval. En revanche, un druide de taille M qui choisit un compagnon oiseau ne pourrait pas cumuler ses niveaux de chevalier pour déterminer les capacités de l'oiseau, et devrait choisir une seconde créature comme monture (ou abandonner l'oiseau et choisir un compagnon animal qui peut servir de monture).  
+Ces mêmes réponses s'appliquent aux personnages multiclassés chevalier/rôdeur.  
 (Notez que l'équipe de conception déconseille aux joueurs de posséder plus d'une créature compagnon à la fois, car ces créatures sont généralement bien plus faibles qu'une seule créature affectée par ces règles de cumul, et ajoutent à la comptabilité nécessaire pour jouer ce personnage.)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|16}
 #### Conjurateur, Eidolon : Lorsque j'invoque mon eidolon après qu'il ait été banni ou renvoyé, combien de points de vie a-t-il au moment de réapparaître ?
-Quelque soit le nombre de points de vie qu'il avait avant d'être banni ou renvoyé (mais pas tué), il revient avec le même montant au moment de réapparaître.
+Quelque soit le nombre de points de vie qu'il avait avant d'être banni ou renvoyé (mais pas tué), il revient avec le même montant au moment de réapparaître.  
 Mise à jour : MRA page 43, dans la description de la capacité <u>[[Conjurateur#EIDOLON|eidolon]]</u>, 2e paragraphe, 2e phrase, remplacez « le même nombre de points de vie que la dernière fois où il a été appelé » par « le même nombre de points de vie que la dernière où il a été renvoyé ou banni. »
 
 <div style="border-top:1px dashed #4b3124">
@@ -252,15 +252,15 @@ La description de la capacité indique de « choisir une attaque », et pas de �
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|18}
 #### --Conjurateur, Évolution armure naturelle améliorée : Quel est le niveau minimum nécessaire pour sélectionner l'évolution armure naturelle améliorée (page 48) pour mon eidolon ?
-La description de l'<u>[[Eidolon#ARMURENATURELLEAMELIOREE|évolution]]</u> indique : « Le conjurateur peut choisir cette évolution une fois tous les cinq niveaux. ». Malheureusement, ce texte n'est pas clair.
-Un conjurateur peut sélectionner cette évolution une fois des niveaux 1 à 4, puis une fois de plus des niveaux 5 à 9, puis une troisième fois des niveaux 10 à 14,  puis une quatrième fois des niveaux 15 à 19, et enfin une cinquième fois au niveau 20. Cette formulation sera clarifiée dans le prochain document de mise à jour et l'impression à venir du MRA.
-Mise à jour : Page 48 : Remplacez la description de l'évolution armure naturelle améliorée par :
+La description de l'<u>[[Eidolon#ARMURENATURELLEAMELIOREE|évolution]]</u> indique : « Le conjurateur peut choisir cette évolution une fois tous les cinq niveaux. ». Malheureusement, ce texte n'est pas clair.  
+Un conjurateur peut sélectionner cette évolution une fois des niveaux 1 à 4, puis une fois de plus des niveaux 5 à 9, puis une troisième fois des niveaux 10 à 14,  puis une quatrième fois des niveaux 15 à 19, et enfin une cinquième fois au niveau 20. Cette formulation sera clarifiée dans le prochain document de mise à jour et l'impression à venir du MRA.  
+Mise à jour : Page 48 : Remplacez la description de l'évolution armure naturelle améliorée par :  
 « Armure naturelle améliorée (Ext). Une épaisse fourrure, des écailles rigides ou des plaques osseuses poussent sur la peau de l'eidolon et lui donnent un bonus de +2 à l'armure naturelle. Le conjurateur peut choisir cette évolution une fois au niveau 1, et une fois de plus aux niveaux 5, 10, 15 et 20. »-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|19}
 #### --Conjurateur, Lien vital : Puis-je utiliser lien vital en dehors de mon tour, si je suis paralysé, ou si je ne peux autrement entreprendre aucune action ?
-Bien que la <u>[[Conjurateur#LIENVITAL|capacité]]</u> se rapporte à une action libre, il s'agit d'une chose qu'un conjurateur devrait pouvoir faire à chaque fois que l'eidolon subit suffisamment de dégâts pour être renvoyé sur son plan d'origine, même si ce n'est pas son tour (ce qui est normalement le cas lorsqu'il est attaqué), s'il est sans défense à cause d'un poison visant la Force ou la Dextérité, s'il est sous l'effet d'un sort d’*[[immobilisation de personne]]*, etc. Autrement dit, ce n'est pas une action du tout, et ne devrait pas être qualifié comme tel.
+Bien que la <u>[[Conjurateur#LIENVITAL|capacité]]</u> se rapporte à une action libre, il s'agit d'une chose qu'un conjurateur devrait pouvoir faire à chaque fois que l'eidolon subit suffisamment de dégâts pour être renvoyé sur son plan d'origine, même si ce n'est pas son tour (ce qui est normalement le cas lorsqu'il est attaqué), s'il est sans défense à cause d'un poison visant la Force ou la Dextérité, s'il est sous l'effet d'un sort d’*[[immobilisation de personne]]*, etc. Autrement dit, ce n'est pas une action du tout, et ne devrait pas être qualifié comme tel.  
 Mise à jour : MRA page 44, dans la description de lien vital, 1er paragraphe, 2e phrase, supprimez « par une action libre ».-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -271,20 +271,20 @@ La <u>[[Conjurateur#VIESLIEES|capacité]]</u> devrait être déclenchée lorsque
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|21}
 #### Druide, Chaman aigle : Comment puis-je prendre la forme d'un roc si un roc est de taille Gigantesque et que la taille maximum atteignable avec forme animale est Très grand ?
-Le manque de profils techniques pour les grands oiseaux dans les produits officiels Paizo limite les options disponibles pour cet archétype.
-Pour remédier à ce problème, un <u>[[Chamanes animaux (druide)#CHAMANAIGLE|chaman aigle]]</u> peut utiliser [[Druide#FORMEANIMALE|forme animale]] pour prendre la forme d'un [[aigle]] de taille M (en appliquant l'archétype de [[Archétypes#CREATUREGEANTE|créature géante]] à un aigle de taille P), et pour prendre la forme d'un [[roc]] de taille TG (en appliquant l'archétype de [[Archétypes#CREATUREJEUNE|créature jeune]] à un roc de taille Gig). Les capacités de la forme choisie sont déterminées par le sort de *forme bestiale* émulé par la forme animale, selon le niveau de druide effectif du chaman aigle.
+Le manque de profils techniques pour les grands oiseaux dans les produits officiels Paizo limite les options disponibles pour cet archétype.  
+Pour remédier à ce problème, un <u>[[Chamanes animaux (druide)#CHAMANAIGLE|chaman aigle]]</u> peut utiliser [[Druide#FORMEANIMALE|forme animale]] pour prendre la forme d'un [[aigle]] de taille M (en appliquant l'archétype de [[Archétypes#CREATUREGEANTE|créature géante]] à un aigle de taille P), et pour prendre la forme d'un [[roc]] de taille TG (en appliquant l'archétype de [[Archétypes#CREATUREJEUNE|créature jeune]] à un roc de taille Gig). Les capacités de la forme choisie sont déterminées par le sort de *forme bestiale* émulé par la forme animale, selon le niveau de druide effectif du chaman aigle.  
 Cette règle ne s'applique qu'aux chamans aigles, et pas aux autres archétypes de chaman animal.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|22}
 #### Druide, Chamanes animaux : À quel niveau de classe ces archétypes obtiennent-ils forme animale ?
-Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druide n'obtiennent pas la capacité [[Druide#FORMEANIMALE|forme animale]] avant le niveau de classe 6.
+Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druide n'obtiennent pas la capacité [[Druide#FORMEANIMALE|forme animale]] avant le niveau de classe 6.  
 (Les autres archétypes de druide de cet ouvrage utilisent une formulation plus claire pour expliquer que le personnage n'obtient pas la capacité avant le niveau 6, et les chamans animaux devraient également utiliser cette formulation. De plus, les descriptions pour la capacité de classe forme animale modifiée devraient inclurent « Cette capacité remplace forme animale. ».)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|23}
 #### Demi-elfe et demi-orque : Est-ce qu'un personnage de n'importe laquelle de ces races peut sélectionner les options de bonus de classe de prédilection humaines ?
-{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Races et classes)#8|celle du Manuel des joueurs]].}Oui. Les <u>[[Demi-elfe|demi-elfes]]</u> et les <u>[[Demi-orque|demi-orques]]</u> peuvent sélectionner des options de classe de prédilection, des archétypes, des traits, et autres comme s'ils étaient des membres à part entière de chaque race (un demi-elfe peut sélectionner les éléments de règles [[Humain|humains]] et [[Elfe|elfes]], un demi-orque peut sélectionner les éléments de règles humains et [[Orque (race)|orques]]).
+{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Races et classes)#8|celle du Manuel des joueurs]].}Oui. Les <u>[[Demi-elfe|demi-elfes]]</u> et les <u>[[Demi-orque|demi-orques]]</u> peuvent sélectionner des options de classe de prédilection, des archétypes, des traits, et autres comme s'ils étaient des membres à part entière de chaque race (un demi-elfe peut sélectionner les éléments de règles [[Humain|humains]] et [[Elfe|elfes]], un demi-orque peut sélectionner les éléments de règles humains et [[Orque (race)|orques]]).  
 Mise à jour 26/9/2013 : Il s'agit de l'annulation d'une décision précédente. Elle résout une divergence entre cette FAQ, une autre FAQ du MRA, et une FAQ du *Manuel des joueurs*.
 
 <div style="border-top:1px dashed #4b3124">
@@ -300,12 +300,12 @@ Oui, et l'ensorceleur l'apprend comme un sort de 4e niveau. Notez que *[[geyser]
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|26}
 #### --Inquisiteur : Certaines des capacités de l'inquisiteur font toujours référence aux bonus évolutifs de la version playtest de la classe. Comment fonctionnent-t-elles maintenant ?
-(Cette information apparaîtra dans le document errata du MRA, cette mention existe pour adresser les questions récurrentes relatives à l'inquisiteur jusqu'à ce que l'errata soit posté.)
-Page 41 : Dans la capacité de classe [[Inquisiteur#EXTERMINER|exterminer]], remplacez le texte par :
-« **Exterminer (Ext).** Au niveau 17, l'inquisiteur apprend à concentrer son jugement. Chaque fois qu'un inquisiteur utilise sa capacité de jugement, il doit choisir un type de jugement. Le bonus octroyé par celui-ci est calculé comme si l'inquisiteur avait 5 niveaux de plus. Contrairement à ce qui est possible pour les autres types de jugement, celui qui est amélioré par cette capacité ne peut pas être changé pendant toute son application. »
-Page 41 : Dans la capacité de classe [[Inquisiteur#VERITABLEJUGEMENT|véritable jugement]], supprimez la sixième phrase.
-Page 223 : Dans le sort *[[flammes du fidèle]]*, remplacez la deuxième phrase par :
-« Si le personnage utilise son pouvoir de classe de jugement, son arme revêt plutôt la propriété de feu intense. »
+(Cette information apparaîtra dans le document errata du MRA, cette mention existe pour adresser les questions récurrentes relatives à l'inquisiteur jusqu'à ce que l'errata soit posté.)  
+Page 41 : Dans la capacité de classe [[Inquisiteur#EXTERMINER|exterminer]], remplacez le texte par :  
+« **Exterminer (Ext).** Au niveau 17, l'inquisiteur apprend à concentrer son jugement. Chaque fois qu'un inquisiteur utilise sa capacité de jugement, il doit choisir un type de jugement. Le bonus octroyé par celui-ci est calculé comme si l'inquisiteur avait 5 niveaux de plus. Contrairement à ce qui est possible pour les autres types de jugement, celui qui est amélioré par cette capacité ne peut pas être changé pendant toute son application. »  
+Page 41 : Dans la capacité de classe [[Inquisiteur#VERITABLEJUGEMENT|véritable jugement]], supprimez la sixième phrase.  
+Page 223 : Dans le sort *[[flammes du fidèle]]*, remplacez la deuxième phrase par :  
+« Si le personnage utilise son pouvoir de classe de jugement, son arme revêt plutôt la propriété de feu intense. »  
 Page 288: Dans la propriété spéciale d'arme *[[juge (propriété)|juge]]*, dans le premier paragraphe, supprimez la dernière phrase.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -316,7 +316,7 @@ Oui, mais uniquement lorsque les alliés de l'<u>[[Inquisiteur#TACTIQUESOLITAIRE
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|28}
 #### Inquisiteur, Tueur : La capacité tueur de l'inquisiteur (page 40) affecte-t-elle les deux extrémités d'une arme double ?
-Non. En règle générale, le jeu considère les [[Caractéristiques des armes#DOUBLE|armes doubles]] comme s'il s'agissait de deux armes différentes, et une capacité, un sort ou un effet qui modifie ou améliore « une arme » ne s'applique qu'à une extrémité d'une arme double.
+Non. En règle générale, le jeu considère les [[Caractéristiques des armes#DOUBLE|armes doubles]] comme s'il s'agissait de deux armes différentes, et une capacité, un sort ou un effet qui modifie ou améliore « une arme » ne s'applique qu'à une extrémité d'une arme double.  
 Parfois les règles sont redondantes et précisent explicitement qu'une capacité qui affecte « une arme » (comme le [[Paladin#PACTEDIVIN|pacte divin]] du paladin) n'affecte qu'une seule extrémité d'une arme double. D'autres fois les règles ne sont pas redondantes (comme le sort *[[arme magique]]* ou la capacité <u>[[Inquisiteur#TUEUR|tueur]]</u> de l'inquisiteur), mais la règle générale s'applique toujours : l'arme double est traitée comme deux armes séparées.
 
 <div style="border-top:1px dashed #4b3124">
@@ -327,7 +327,7 @@ Oui. Dans les faits, le <u>[[Maître chymiste#MUTAGENEEVOLUE|chymiste]]</u> dép
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|30}
 #### Maître chymiste : Dans le cadre de la capacité mutation (page 272), si le personnage ne peut pas effectuer d'action simple au tour suivant, est-ce qu'il est obligé de muter contre sa volonté, et si oui, quelle action est nécessaire pour le faire ?
-Être contraint à changer de forme est une punition que le <u>[[Maître chymiste#MUTATION|maître chymiste]]</u> risque. Il ne devrait pas être capable d'ignorer cette punition simplement parce qu'il est incapable d'effectuer une [[action simple]] au tour suivant (par exemple, s'il est [[nauséeux]]). Dans ces circonstances, il doit utiliser l'intégralité des actions disponibles à son tour pour changer de forme. Par exemple, s'il est nauséeux, il doit utiliser son [[action de mouvement]] disponible pour muter. S'il est réduit à une [[action rapide]] au tour suivant après l'effet déclencheur, il doit utiliser cette action rapide pour muter. S'il est [[sans défense]], la transformation n'a pas lieu jusqu'au prochain tour où le personnage peut effectuer une action simple (ou tout autre action disponible) pour muter.
+Être contraint à changer de forme est une punition que le <u>[[Maître chymiste#MUTATION|maître chymiste]]</u> risque. Il ne devrait pas être capable d'ignorer cette punition simplement parce qu'il est incapable d'effectuer une [[action simple]] au tour suivant (par exemple, s'il est [[nauséeux]]). Dans ces circonstances, il doit utiliser l'intégralité des actions disponibles à son tour pour changer de forme. Par exemple, s'il est nauséeux, il doit utiliser son [[action de mouvement]] disponible pour muter. S'il est réduit à une [[action rapide]] au tour suivant après l'effet déclencheur, il doit utiliser cette action rapide pour muter. S'il est [[sans défense]], la transformation n'a pas lieu jusqu'au prochain tour où le personnage peut effectuer une action simple (ou tout autre action disponible) pour muter.  
 Par exemple, si le personnage est sans défense à cause d'un sort d’*[[immobilisation de personne]]*, la seule action qui lui est disponible est une [[action complexe]] visant à se libérer. Une fois libéré de ce sort, à son prochain tour (le premier tour au cours duquel il est capable d'effectuer d'autres actions), il doit dépenser une action simple pour muter.
 
 <div style="border-top:1px dashed #4b3124">
@@ -348,7 +348,7 @@ Le texte dit « une fois par round ». Que le personnage traverse l'espace occup
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|34}
 #### Oracle, Malédiction hanté : La malédiction hanté affecte-t-elle le temps nécessaire pour dégainer une arme ?
-Non. La <u>[[Malédictions doracle#HANTE|malédiction]]</u> affecte l'action « [[Types dactions|prendre un objet porté sur soi]] ». Si le personnage utilise l'action « [[Types dactions|dégainer une arme]] » (comme pour dégainer une dague rangée dans un fourreau à sa ceinture), il s'agit d'un type d'action différent et la malédiction hanté ne l'affecte pas.
+Non. La <u>[[Malédictions doracle#HANTE|malédiction]]</u> affecte l'action « [[Types dactions|prendre un objet porté sur soi]] ». Si le personnage utilise l'action « [[Types dactions|dégainer une arme]] » (comme pour dégainer une dague rangée dans un fourreau à sa ceinture), il s'agit d'un type d'action différent et la malédiction hanté ne l'affecte pas.  
 Si le personnage essaye de récupérer une dague depuis son sac à dos, cela entre dans le cadre de l'action « prendre un objet porté sur soi » et la malédiction interfère normalement.
 
 <div style="border-top:1px dashed #4b3124">
@@ -379,7 +379,7 @@ Non, sauf si la <u>[[Oracle#REVELATION|révélation]]</u> précise le contraire.
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|40}
 #### Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de prêtre et les effets qui dépendent de la Sagesse, comme *arme spirituelle* ?
-Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[[Oracle#SORTS|oracle]]</u> doit effectivement utiliser son modificateur de Sagesse.
+Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[[Oracle#SORTS|oracle]]</u> doit effectivement utiliser son modificateur de Sagesse.  
 Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.
 
 <div style="border-top:1px dashed #4b3124">
@@ -390,7 +390,7 @@ La <u>[[Guerrier de la lumière sainte (paladin)|capacité]]</u> compte comme un
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|42}
 #### Paladin, Serviteur sacré : L'archétype serviteur sacré (page 118) obtient un domaine. Est-ce que le serviteur sacré obtient tous les avantages de ce domaine, comme ses pouvoirs de domaine ?
-Oui.
+Oui.  
 Sauf précision contraire, lorsqu'un personnage obtient un domaine de prêtre, ils bénéficient de tous les avantages associés à ce domaine : les pouvoirs accordés, l'accès aux sorts de domaine, ainsi qu'un emplacement de sort de domaine à chaque niveau de sort qu'il est capable de lancer. *(Retour à l'<u>[[Serviteur sacré (paladin)|archétype]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
@@ -401,15 +401,15 @@ Non. *(Retour à la <u>[[Prophète enragé|classe]]</u>)*
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|44}
 #### Roublard, Défense offensive : Le bonus d'esquive du talent de roublard « défense offensive » (page 142) se cumule-t-il avec lui-même ? S'applique-t-il à tout le monde, ou seulement la cible que j'attaque ?
-Il y a deux problèmes concernant ce <u>[[Talents#DEFENSEOFFENSIVE|talent de roublard]]</u>.
-Premièrement, dans la première impression il accordait un bonus de circonstances de +1 contre la cible attaquée, ce qui en faisait une capacité très faible. La mise à jour de la seconde impression a remplacé le bonus de circonstances par un bonus d'esquive, mais a accidentellement omis le texte « contre cette créature », ce qui en faisait une capacité très puissante.
+Il y a deux problèmes concernant ce <u>[[Talents#DEFENSEOFFENSIVE|talent de roublard]]</u>.  
+Premièrement, dans la première impression il accordait un bonus de circonstances de +1 contre la cible attaquée, ce qui en faisait une capacité très faible. La mise à jour de la seconde impression a remplacé le bonus de circonstances par un bonus d'esquive, mais a accidentellement omis le texte « contre cette créature », ce qui en faisait une capacité très puissante.  
 Deuxièmement, elle ne précise pas si le bonus d'esquive se cumule avec lui-même, et cela crée un paradoxe dans les règles puisque d'une part les bonus d'une même source ne se cumulent pas mais que d'autre part les bonus d'esquive se cumulent toujours. Bien que nous n'ayons pas tranché sur le futur de ce talent, nous tendons vers cette solution : *le bonus d'esquive ne s'applique que contre la créature sur laquelle le personnage a utilisé l'attaque sournoise, et le bonus d'esquive ne se cumule pas avec lui-même.* Cela empêche le personnage d'obtenir un bonus d'esquive à la CA contre une créature puissante en utilisant son attaque sournoise sur une créature faible, et d'atteindre une CA absurdement élevée en utilisant l'attaque sournoise à répétition lors d'un même round.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|45}
 #### --Rôdeur, Rôdeur infiltré : Comment un rôdeur avec l'archétype rôdeur infiltré (page 138), qui lui fait perdre sa capacité de classe environnement de prédilection, peut-il utiliser les capacités de classe camouflage et caché en pleine lumière ?
-Un rôdeur avec l'archétype <u>[[Rôdeur infiltré (rôdeur)|rôdeur infiltré]]</u> peut utiliser les capacités de classe [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise sa capacité de classe adaptation, qu'importe le terrain où il se trouve.
-Mise à jour : À la page 138, dans l'archétype rôdeur infiltré, dans la capacité de classe adaptation, ajoutez la phrase suivante à la fin du second paragraphe :
+Un rôdeur avec l'archétype <u>[[Rôdeur infiltré (rôdeur)|rôdeur infiltré]]</u> peut utiliser les capacités de classe [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise sa capacité de classe adaptation, qu'importe le terrain où il se trouve.  
+Mise à jour : À la page 138, dans l'archétype rôdeur infiltré, dans la capacité de classe adaptation, ajoutez la phrase suivante à la fin du second paragraphe :  
 « Le rôdeur peut utiliser les capacités [[Rôdeur#CAMOUFLAGE|camouflage]] et [[Rôdeur#CACHEENPLEINELUMIERE|caché en pleine lumière]] chaque fois qu'il utilise des adaptations. »-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -420,8 +420,8 @@ Oui, tant qu'ils suivent les règles relatives aux <u>[[Domaines#SOUSDOMAINES|so
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|47}
 #### Prêtre, Sous-domaines Extérieurs : Comment suis-je censé utiliser le sort de domaine *contrat intermédiaire* offert par ces sous-domaines ?
-Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[[cercle magique contre le Chaos]]* <nowiki>[[</nowiki>Loi<nowiki>]]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [[Prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] dans le *Manuel des joueurs*).
-La solution est d'autoriser l'utilisation du sort de domaine *[[contrat intermédiaire]]* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)
+Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[[cercle magique contre le Chaos]]* <nowiki>[[</nowiki>Loi<nowiki>]]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [[Prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] dans le *Manuel des joueurs*).  
+La solution est d'autoriser l'utilisation du sort de domaine *[[contrat intermédiaire]]* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)  
 Ce texte sera modifié dans une future impression du *Manuel des joueurs - Règles avancées*.
 
 <div style="border-top:1px dashed #4b3124">
@@ -442,32 +442,32 @@ La description du <u>[[Maléfices#Déguisement|maléfice]]</u> devrait préciser
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|51}
 #### --Sorcière, Maléfice guérison : Puis-je utiliser ce maléfice pour blesser les morts-vivants ? Si oui, combien de fois puis-je affecter un mort-vivant donné ?
-Le <u>[[Maléfices#Guérison|maléfice]]</u> fonctionne comme le sort de *soins* approprié, donc il blesse les morts-vivants.
-Lorsqu'il est utilisé pour blesser un mort-vivant, il devrait avoir la même limitation d'une utilisation par 24 heures que son utilisation guérisseuse (bien que ce ne soit pas un « avantage » pour le mort-vivant ciblé.)
-Pour plus de clarté, là où le maléfice actuelle indique : « Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures »,
-Il devrait en fait dire : « Quand une créature a été affectée par ce maléfice, elle ne peut plus l'être pendant 24 heures  »
+Le <u>[[Maléfices#Guérison|maléfice]]</u> fonctionne comme le sort de *soins* approprié, donc il blesse les morts-vivants.  
+Lorsqu'il est utilisé pour blesser un mort-vivant, il devrait avoir la même limitation d'une utilisation par 24 heures que son utilisation guérisseuse (bien que ce ne soit pas un « avantage » pour le mort-vivant ciblé.)  
+Pour plus de clarté, là où le maléfice actuelle indique : « Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures »,  
+Il devrait en fait dire : « Quand une créature a été affectée par ce maléfice, elle ne peut plus l'être pendant 24 heures  »  
 Ceci sera reflété dans la prochaine impression du MRA.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|52}
 #### Sorcière, Maléfice mauvais œil : Puis-je utiliser ce maléfice plus d'une fois par cible ?
-Oui. Tant que le personnage applique un malus différent avec chaque utilisation du <u>[[Maléfices#Mauvaisœil|maléfice]]</u> (CA, tests de caractéristique, jets d'attaque, jets de sauvegarde, ou tests de compétence), il peut imposer plusieurs malus à une même cible. Appliquer le même malus à une cible réinitialise simplement la durée de l'utilisation la plus récente du maléfice.
-Exemple : Au round 1, le personnage maudit la CA de la cible. Au round 2, le personnage maudit les jets d'attaque de la cible, qui est donc soumise à deux maléfices de mauvais œil. Au round 3, le personnage maudit les jets de sauvegarde de la cible, qui est donc soumise à trois maléfices de mauvais œil. Au round 4, le personnage maudit à nouveau sa CA, réinitialisant la durée du maléfice de CA (ce qui n'ajoute pas un malus de -2 supplémentaire à sa CA). La même chose se produirait si deux sorcières utilisaient le mauvais œil sur la même cible - tant que chaque maléfice de mauvais œil applique un malus à une statistique différente, ils s'appliquent tous.
+Oui. Tant que le personnage applique un malus différent avec chaque utilisation du <u>[[Maléfices#Mauvaisœil|maléfice]]</u> (CA, tests de caractéristique, jets d'attaque, jets de sauvegarde, ou tests de compétence), il peut imposer plusieurs malus à une même cible. Appliquer le même malus à une cible réinitialise simplement la durée de l'utilisation la plus récente du maléfice.  
+Exemple : Au round 1, le personnage maudit la CA de la cible. Au round 2, le personnage maudit les jets d'attaque de la cible, qui est donc soumise à deux maléfices de mauvais œil. Au round 3, le personnage maudit les jets de sauvegarde de la cible, qui est donc soumise à trois maléfices de mauvais œil. Au round 4, le personnage maudit à nouveau sa CA, réinitialisant la durée du maléfice de CA (ce qui n'ajoute pas un malus de -2 supplémentaire à sa CA). La même chose se produirait si deux sorcières utilisaient le mauvais œil sur la même cible - tant que chaque maléfice de mauvais œil applique un malus à une statistique différente, ils s'appliquent tous.  
 Cela ne va pas à l'encontre de la règle générale relative au cumul de malus - chaque effet de mauvais œil est essentiellement une source différente, bien qu'ils se rapportent tous au maléfice de mauvais œil (qui est à considérer comme 5 maléfices faibles distincts rangés sous un même chapeau). De la même façon que plusieurs incantations de *[[sort Malédiction|malédiction]]* sur une même cible devraient se cumuler tant qu'elles font des choses différentes (réduction de Force, réduction de Dextérité, malus aux jets d'attaque, inaction, etc), plusieurs utilisation du maléfice de mauvais œil se cumulent tant qu'elles cibles des statistiques différentes.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|53}
 #### --Sorcière, Maléfice ricanement : Puis-je utiliser mon action simple et mon action de mouvement pour ricaner deux fois lors d'un même round, rallongeant l'effet d'un autre maléfice de deux rounds ?
-Non, un personnage ne peut utiliser <u>[[Maléfices#Ricanement|ricanement]]</u> qu'une fois par round.
+Non, un personnage ne peut utiliser <u>[[Maléfices#Ricanement|ricanement]]</u> qu'une fois par round.  
 Il est envisagé de clarifier ce point dans une prochaine impression du *Manuel des joueurs - Règles avancées*.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|54}
 #### --Sorcière, Maléfice ricanement : Mon personnage doit-il littéralement ricaner de façon erratique lorsque j'utilise ce maléfice, ou est-ce simplement du texte d'ambiance ?
-Le personnage doit effectivement <u>[[Maléfices#Ricanement|ricaner]]</u> - sans doute d'une voix forte, similaire au volume et à la clarté nécessaire à la formulation d'une composante de sort verbale.
-Mise à jour 19/7/2013:
-Si la sorcière est soumise à un effet de *[[silence]]*, elle ne peut pas utiliser le maléfice de ricanement.
-Si la cible est soumise à un effet de *[[silence]]*, elle n'est pas affectée par le ricanement.
+Le personnage doit effectivement <u>[[Maléfices#Ricanement|ricaner]]</u> - sans doute d'une voix forte, similaire au volume et à la clarté nécessaire à la formulation d'une composante de sort verbale.  
+Mise à jour 19/7/2013:  
+Si la sorcière est soumise à un effet de *[[silence]]*, elle ne peut pas utiliser le maléfice de ricanement.  
+Si la cible est soumise à un effet de *[[silence]]*, elle n'est pas affectée par le ricanement.  
 Cela nécessitera une clarification dans la prochaine impression du *Manuel des joueurs - Règles avancées*.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -478,7 +478,7 @@ Non. Tous les aspects du maléfice de <u>[[Maléfices#Vol|vol]]</u> n'affectent 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|56}
 #### Sorcière, Maléfices : Si un maléfice indique qu'il ne peut affecter une créature qu'une fois toutes les 24 heures, cela implique-t-il qu'une autre sorcière ne peut pas l'utiliser sur cette cible ?
-Non, la restriction ne s'applique qu'à la sorcière qui a utilisé le <u>[[Sorcière#MALEFICE|maléfice]]</u>, et n'empêche pas d'autres sorcières d'utiliser leur propre maléfice du même nom sur cette cible.
+Non, la restriction ne s'applique qu'à la sorcière qui a utilisé le <u>[[Sorcière#MALEFICE|maléfice]]</u>, et n'empêche pas d'autres sorcières d'utiliser leur propre maléfice du même nom sur cette cible.  
 Par exemple, si Esmeralda utilise son maléfice de [[Maléfices#Guérison|guérison]] sur Gustave, elle ne peut plus l'utiliser sur lui pendant 24 heures. Morda peut toujours utiliser son maléfice de guérison sur Gustave pendant la période d'attente d'Esmeralda (et le faire empêcherait Morda de l'utiliser à nouveau sur lui pendant 24 heures). Répétez ad infinitum pour toute autre sorcière utilisant le maléfice de guérison.
 
 <div style="border-top:1px dashed #4b3124">
@@ -499,14 +499,14 @@ Le don <u>[[Attaque en groupe]]</u> permet au personnage d'être considéré en 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|60}
 #### --Attaque magique : Utiliser ce don (page 156) est-il considéré comme une un pouvoir magique ou une capacité surnaturelle ?
-Il s'agit d'une capacité surnaturelle.
+Il s'agit d'une capacité surnaturelle.  
 Mise à jour : Page 156, ajoutez cette phrase à la fin de la description du don <u>[[Attaque magique]]</u> : « Cette attaque est une capacité surnaturelle. »-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|61}
 #### Coup parfait : Puis-je utiliser ce don avec des attaques à mains nues ?
-Tel qu'écrit, ce don ne peut être utilisé qu'avec les armes spécifiquement citées dans la description du don.
-Alors pourquoi le don a-t-il [[Science du combat à mains nues]] comme condition, si un personnage ne peut pas l'utiliser avec les attaques à mains nues ? Parce que le don est pensé pour être un truc cool que les moines peuvent faire, et que les moines obtiennent SCMN automatiquement (à moins qu'un archétype ne remplace ce don), donc avoir SCMN comme condition signifie qu'il est plus facile pour les moines d'apprendre <u>[[Coup parfait]]</u> et plus difficile pour les autres classes. La condition aurait pu être « moine de niveau X », mais cela aurait impliqué que seuls les moines puissent sélectionner le don (excluant même les autres classes et archétypes d'arts martiaux).
+Tel qu'écrit, ce don ne peut être utilisé qu'avec les armes spécifiquement citées dans la description du don.  
+Alors pourquoi le don a-t-il [[Science du combat à mains nues]] comme condition, si un personnage ne peut pas l'utiliser avec les attaques à mains nues ? Parce que le don est pensé pour être un truc cool que les moines peuvent faire, et que les moines obtiennent SCMN automatiquement (à moins qu'un archétype ne remplace ce don), donc avoir SCMN comme condition signifie qu'il est plus facile pour les moines d'apprendre <u>[[Coup parfait]]</u> et plus difficile pour les autres classes. La condition aurait pu être « moine de niveau X », mais cela aurait impliqué que seuls les moines puissent sélectionner le don (excluant même les autres classes et archétypes d'arts martiaux).  
 Notez que l'archétype [[Archer zen (moine)|archer zen]] permet d'utiliser ce don avec un arc, ce qui signifie qu'il existe un précédent pour la création d'un archétype de combat à mains nues qui modifie le don pour l'utiliser avec d'autres armes.
 
 <div style="border-top:1px dashed #4b3124">
@@ -537,8 +537,8 @@ Non, <u>[[Sort sélectif|il]]</u> n'affecte que les sorts à durée instantanée
 ### Réponses sur l'équipement et les objets magiques
 {s:Reference|67}
 #### Augmentations de niveau effectif grâce aux objets magiques : Plusieurs objets du MRA augmentent le niveau effectif du personnage pour certaines capacités de classe, comme le *collier de sérénité* pour les moines, la *robe de l'héritage magique* pour les ensorceleurs, et le *bracelet de châtiment argenté* pour les paladins. Qu'est ce que cela implique exactement ?
-Le [[Collier de sérénité|collier]] indique qu'il affecte « sa réserve de ki et les effets basés sur les pouvoirs qui en découlent (comme le fait d'ignorer la résistance aux dégâts) ». Ainsi, l'augmentation du niveau effectif de moine pour la capacité [[Moine#RESERVEDEKI|réserve de ki]] augmente uniquement le nombre de points de ki et le type de RD que les attaques à mains nues du moine ignorent. Les autres capacités qui dépendent des points de ki (plénitude physique, pas chassé et désertion de l'âme) ne font pas partie de la capacité réserve de ki, et la magie n'affecte donc ni ces capacités ni le moment où le moine y a accès.
-La [[Robe de lhéritage magique|robe]] indique « considère que son niveau d'ensorceleur augmente de +4 lorsqu'il s'agit de déterminer les pouvoirs de lignage qu'il peut utiliser, ainsi que leurs effets ». Notez que pouvoirs de lignage, arcane de lignage, sorts de lignage, et dons de lignage sont trois capacités distinctes de la classe d'ensorceleur, la robe n'affecte que les pouvoirs de lignage.
+Le [[Collier de sérénité|collier]] indique qu'il affecte « sa réserve de ki et les effets basés sur les pouvoirs qui en découlent (comme le fait d'ignorer la résistance aux dégâts) ». Ainsi, l'augmentation du niveau effectif de moine pour la capacité [[Moine#RESERVEDEKI|réserve de ki]] augmente uniquement le nombre de points de ki et le type de RD que les attaques à mains nues du moine ignorent. Les autres capacités qui dépendent des points de ki (plénitude physique, pas chassé et désertion de l'âme) ne font pas partie de la capacité réserve de ki, et la magie n'affecte donc ni ces capacités ni le moment où le moine y a accès.  
+La [[Robe de lhéritage magique|robe]] indique « considère que son niveau d'ensorceleur augmente de +4 lorsqu'il s'agit de déterminer les pouvoirs de lignage qu'il peut utiliser, ainsi que leurs effets ». Notez que pouvoirs de lignage, arcane de lignage, sorts de lignage, et dons de lignage sont trois capacités distinctes de la classe d'ensorceleur, la robe n'affecte que les pouvoirs de lignage.  
 Le [[Bracelet de châtiment argenté|bracelet]] indique « considère que son niveau de paladin est augmenté de 4 niveaux pour tout ce qui concerne son pouvoir de châtiment du mal ». Puisque les seuls aspects de [[Paladin#CHATIMENTDUMAL|châtiment du Mal]] qui dépendent du niveau sont le bonus aux jets d'attaque et le nombre d'utilisations quotidiennes, ce sont les deux choses que le bracelet affectent.
 
 <div style="border-top:1px dashed #4b3124">
@@ -559,7 +559,7 @@ Tel qu’originellement publié, c'était une action rapide. L'équipe de concep
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|71}
 #### --Propriété spéciale, *Chasseresse* : Quelle est la valeur du bonus que la propriété *chasseresse* ajoute aux tests de Survie du personnage ?
-Le <u>[[chasseresse (propriété)|bonus]]</u> est égal au bonus d'altération de l'arme.
+Le <u>[[chasseresse (propriété)|bonus]]</u> est égal au bonus d'altération de l'arme.  
 Cette information sera inclue dans la prochaine impression du MRA.-- Les textes ont été corrigés sur ce point.
 
 ### Réponses sur les sorts

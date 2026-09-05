@@ -15,28 +15,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, F]] (du granit et de la poudre de diamant <nowiki>[[</nowiki>d’une valeur de 250 po par créature affectée</nowiki>]]</nowiki>)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 10 minutes/[[niveau]] ou jusqu’à utilisation
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, F]] (du granit et de la poudre de diamant <nowiki>[[</nowiki>d’une valeur de 250 po par créature affectée</nowiki>]]</nowiki>)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à utilisation  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[peau de pierre]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes. Une fois que le sort a absorbé 10 points de dégâts par [[NLS|niveau de lanceur de sorts]] (150 au maximum) pour une créature donnée, le sort se dissipe pour cette créature.
 
 
 
 (((
 ## Peau de pierre
-**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 5, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (granite et poussière de diamant (250 po))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 10 minutes/[[niveau]] ou jusqu’à utilisation
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 5, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (granite et poussière de diamant (250 po))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 10 minutes/[[niveau]] ou jusqu’à utilisation  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Le sujet bénéficie d’une importante protection contre les attaques physiques qui se traduit par une [[RD|réduction des dégâts]] de 10/[[adamantium]]. Il ignore donc les 10 premiers points de dégâts infligés par chaque attaque, sauf si ceux-ci sont occasionnés par une arme en [[adamantium]]. Dans ce cas, ils l’affectent normalement. Dès que la *peau de pierre* a absorbé un total de 10 points de dégâts par [[NLS|niveau du lanceur de sorts]] (jusqu’à un maximum de 150 points), elle cesse de faire effet.
 
 ### Version mythique

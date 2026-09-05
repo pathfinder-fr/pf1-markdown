@@ -17,13 +17,13 @@ Le Rat des Eaux|%2fPCUP%2fReligion-PNG%2fHanspur.png|[[Divinités#AUTRES|Autres 
 |—}{s:cs}{s:ISG}On dit que Hanspur navigue sur la rivière Sellen sous les traits d'un vieux navigateur accompagné de son rat sauvage. Il est généralement maussade et taciturne, mais on dit qu'il a parfois des conversations amicales avec ceux qui respectent la rivière. Sa doctrine comprend les *Six Libertés de la Rivière* et ne comprend que quelques autres déclarations simples sur la nature changeante des choses, sur le fait que la vie est une rivière et que la mort sur l'eau est une bonne fin pour une vie simple. Il n'aime pas les barrages et tous ceux qui bloquent ou modifient le cours des rivières.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[druide]]).**
+**Lancement de sorts ([[druide]]).**  
 • *[[Marche sur londe|Marche sur l'onde]]* peut être préparé comme un sort de 3e niveau.
 
-**Lancement de sorts ([[rôdeur]]).**
+**Lancement de sorts ([[rôdeur]]).**  
 • *[[Respiration aquatique]]* peut être préparé comme un sort de 2e niveau.
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

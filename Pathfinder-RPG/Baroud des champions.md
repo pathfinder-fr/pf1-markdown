@@ -10,12 +10,12 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Shoantis||shoantis}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Prêtre|Prê]] 3
-**Temps d'incantation** 1 round
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)
-**Cible** deux créatures
-**Durée** 1 round/niveau
+{s:regional|Shoantis||shoantis}{s:cs}{s:ISR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Prêtre|Prê]] 3  
+**Temps d'incantation** 1 round  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
+**Cible** deux créatures  
+**Durée** 1 round/niveau  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui (voir texte)
 
 Le personnage permet à deux champions désignés de se battre sans interruption. Les deux créatures doivent être consentantes afin que le sort fonctionne. Après l'incantation, toute créature qui tente d'aider ou de gêner l'une des deux cibles de quelque manière que ce soit doit réussir un jet de [[Volonté]] ou perdre son action à la place (la [[RM|résistance à la magie]] s'applique). Une créature qui rate son jet de Volonté contre *baroud des champions* ne peut pas essayer d'intervenir à nouveau. Si une créature réussit à intervenir dans le baroud, le sort se termine immédiatement.

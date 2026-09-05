@@ -149,7 +149,7 @@ Ces nains qui se consacrent passionnément à la réalisation de ce rêve sont c
 **Dé de vie.** d10.
 
 ### Conditions requises
-Pour pouvoir devenir prospecteur céleste, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir prospecteur céleste, le personnage doit satisfaire aux conditions suivantes. 
 
 **Compétences.** 5 rangs en [[Connaissances]] (exploration souterraine), 5 rangs en [[Connaissances]] (histoire).
 
@@ -160,14 +160,14 @@ Pour pouvoir devenir prospecteur céleste, le personnage doit satisfaire aux con
 **Traits.** Trait racial [[nain]] (n'importe lequel) ou trait social [[traits sociaux#ADOPTE|adopté]].
 
 ### Compétences de classe
-Voici les compétences de la classe du prospecteur céleste : [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (géographie) (Int), [[Discrétion]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Survie]] (Sag).
+Voici les compétences de la classe du prospecteur céleste : [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (géographie) (Int), [[Discrétion]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Survie]] (Sag). 
 
 **Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de prospecteur céleste.
 #### Armes et armures
-Un prospecteur céleste gagne la formation au maniement des armes courantes et de guerre, ainsi qu'au port des armures légères, intermédiaires et boucliers (y compris les pavois).
+Un prospecteur céleste gagne la formation au maniement des armes courantes et de guerre, ainsi qu'au port des armures légères, intermédiaires et boucliers (y compris les pavois). 
 
 {s:reference|ARMEANCESTRALE}
 #### Arme ancestrale (Sur)
@@ -193,20 +193,20 @@ En étudiant l'art de ses ancêtres, un prospecteur céleste apprend les techniq
 
 {s:reference|VISIONDANSLENOIR}
 #### Vision dans le noir (Ext)
-Au niveau 5, un prospecteur céleste devient plus à l'aise quand il opère dans les profondeurs sombres des terres natales
+Au niveau 5, un prospecteur céleste devient plus à l'aise quand il opère dans les profondeurs sombres des terres natales 
 des nains. Il obtient la [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] à 18 m (12 {s:c}). S'il possède déjà cette capacité, la portée augmente de 9 m (6 {s:c}). Au niveau 7, la portée de la vision dans le noir du prospecteur céleste augmente de 9 m supplémentaires.
 
 {s:reference|RUNESDERESISTANCE}
 #### Runes de résistance (Sur)
 Au niveau 6, un prospecteur céleste peut utiliser son armure pour ignorer n'importe quelle attaque magique pendant une courte durée. Par une [[action de mouvement]], le prospecteur céleste peut obtenir une [[résistance à la magie]] égale à 5 + son nombre de [[DV|dés de vie]] s'il porte une armure légère ou égale à 10 + son nombre de dés de vie s'il porte une armure intermédiaire ou lourde. Révoquer cette capacité prend une [[action rapide]]. Un prospecteur céleste peut utiliser cette capacité pendant un nombre de rounds par jour égal à son niveau de classe. Ces rounds n'ont pas à être consécutifs.
 
-{s:reference|PISTESDESANCIENS}
+{s:reference|PISTESDESANCIENS} 
 #### Pistes des anciens (Ext)
 Les autres labyrinthes font pâle figure face au dédale désordonné de tunnels laissés par les anciens nains qui poursuivaient la quête de la surface. Au niveau 8, un prospecteur céleste devient [[immunité (capacité)|immunisé]] au sort *[[dédale]]* et ne peut pas se perdre dans des environnements souterrains.
 
 {s:reference|PILIER}
 #### Pilier (Ext)
-Au niveau 9, un prospecteur céleste a affiné sa résistance mentale pour éviter certaines attaques. S'il réussit un jet de [[Vigueur]] ou de [[Volonté]] contre une attaque qui a un effet réduit sur un [[jds|jet de sauvegarde]] réussi, il évite complètement l'effet à la place. Cette capacité ne peut être utilisée que si le prospecteur céleste porte une armure légère, intermédiaire ou aucune armure. Un prospecteur céleste [[sans défense]] n'obtient pas les avantages de la capacité Pilier.
+Au niveau 9, un prospecteur céleste a affiné sa résistance mentale pour éviter certaines attaques. S'il réussit un jet de [[Vigueur]] ou de [[Volonté]] contre une attaque qui a un effet réduit sur un [[jds|jet de sauvegarde]] réussi, il évite complètement l'effet à la place. Cette capacité ne peut être utilisée que si le prospecteur céleste porte une armure légère, intermédiaire ou aucune armure. Un prospecteur céleste [[sans défense]] n'obtient pas les avantages de la capacité Pilier. 
 
 {s:reference|APPELAUXARMES}
 #### Appel aux armes (Mag)

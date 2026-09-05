@@ -4,7 +4,7 @@ Title: Les talents de justicier
 LastModified: 2025-05-15 17:53
 ---
 
-{s:Menuclassessupplémentaires}{s:cs}{s:UI}Les talents marqués d'un astérisque (*) sont réservés aux justiciers harceleurs.
+{s:Menuclassessupplémentaires}{s:cs}{s:UI}Les talents marqués d'un astérisque (*) sont réservés aux justiciers harceleurs.  
 Les talents marqués de deux astérisques (**) sont réservés aux justiciers vengeurs.
 
 

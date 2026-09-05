@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Sur le déclin il y a peu, cette maison de jeu a été entièrement restaurée par Saul Vancaskerkin. C'est ici qu'est organisé le nouveau jeu à la mode à [[Port-Énigme]] : "*Trompez le Diable et Empochez son Or*".
+Sur le déclin il y a peu, cette maison de jeu a été entièrement restaurée par Saul Vancaskerkin. C'est ici qu'est organisé le nouveau jeu à la mode à [[Port-Énigme]] : "*Trompez le Diable et Empochez son Or*". 
 
 
 {s:VoirAussiAvant}

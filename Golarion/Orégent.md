@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Orégent (ville)|[[Andoran]]|[[Val de Sombrelune]]|LN|Conseil ([[Consortium du Bois]])|8 000 po|22 700 (grande ville)|17,993 humains, 2,043 nains, 1,135 halfelins, 681 elfes, 400 demi-elfes, 254 gnomes, 200 demi-orques, 54 autres|• **Elsbet Regere**, magistrat (humain f, LB, paladin d'[[Iomédae]] 6)
-• **Cedrog Deadknuckle**, Maillet du Consortium (humain m, NM, lutteur 8)
+{s:Communauté|Orégent (ville)|[[Andoran]]|[[Val de Sombrelune]]|LN|Conseil ([[Consortium du Bois]])|8 000 po|22 700 (grande ville)|17,993 humains, 2,043 nains, 1,135 halfelins, 681 elfes, 400 demi-elfes, 254 gnomes, 200 demi-orques, 54 autres|• **Elsbet Regere**, magistrat (humain f, LB, paladin d'[[Iomédae]] 6)  
+• **Cedrog Deadknuckle**, Maillet du Consortium (humain m, NM, lutteur 8)  
 • **Pras Windstill**, capitaine (humain m, LB, guerrier 4)}Orégent est une ville du centre de l'[[Andoran]] située au sud du [[Val de Sombrelune]]. Il abrite le [[Consortium du Bois]] et fait office de passerelle pour le trafic à la fois vers et depuis le Val.<sup>(3)</sup><sup>(4)</sup>
 
 #### Histoire

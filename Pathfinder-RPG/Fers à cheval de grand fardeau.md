@@ -11,7 +11,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Fers à cheval de grand fardeau|{s:RSE}}
-**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 2 500 po ; **Poids** 11 kg (pour 4 fers)
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 2 500 po ; **Poids** 11 kg (pour 4 fers) 
 (((Description)))
 Ces fers à cheval robustes vont toujours par quatre, comme des fers ordinaires, mais ils sont bien plus lourds. Quand on les fixe aux sabots d’un animal, ils doublent la [[Poids transportable|capacité de charge]] de l’animal. Les quatre fers doivent être portés simultanément pour que la magie soit active.
 (((Création)))

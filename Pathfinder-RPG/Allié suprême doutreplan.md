@@ -11,28 +11,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 2 500 po plus paiement ; voir description), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** jusqu’à 3 [[type Extérieur|Extérieurs]] appelés (ne totalisant pas plus de 18 [[DV]]), apparaissant à 9 m ou moins les uns des autres
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 2 500 po plus paiement ; voir description), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** jusqu’à 3 [[type Extérieur|Extérieurs]] appelés (ne totalisant pas plus de 18 [[DV]]), apparaissant à 9 m ou moins les uns des autres  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort est semblable à *[[Allié doutreplan|allié d’outreplan]]* : il permet d’appeler une entité ayant jusqu’à 18 [[DV]], ou plusieurs créatures de même [[Types de créatures|type]] dont les [[DV]] cumulés ne dépassent pas 18. Elles agissent en groupe et acceptent d’accomplir une tâche pour le [[prêtre]] en échange d’un service qu’il devra leur rendre à son tour.
 
 
 
 (((
 ## Allié d'outreplan
-**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Médium|Méd]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]
-**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 [[type Extérieur|Extérieur]] de 6 [[DV]] maximum appelé
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[[voir texte]]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Médium|Méd]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 500 po plus paiement ; voir description), [[composantes|FD]]  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 [[type Extérieur|Extérieur]] de 6 [[DV]] maximum appelé  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 En lançant ce sort le [[prêtre]] demande à son dieu de lui envoyer l’aide d’un [[type Extérieur|Extérieur]] de 6 [[DV]] ou moins. Si il ne sert aucun dieu particulier, son [[branche appel|appel]] est généralement entendu par une créature du même [[alignement]] que lui. Dans le cas où le lanceur de sorts connaît le nom d’une entité particulière, il peut demander son assistance en la nommant lors de l’incantation (sans garantir que la créature souhaitée soit bien celle qui répondra à l’appel).
 
 Le [[prêtre]] peut demander un service à la créature, à condition de lui en rendre un en contrepartie. Ce service peut-être simple ou complexe. Il faut pouvoir communiquer avec la créature en question pour marchander.

@@ -36,23 +36,23 @@ Après avoir récité une prière traditionnelle à Torag, travailler à la forg
 : **3.** ***Châtiment tellurique (Sur).*** Le personnage fait appel à son lien avec la terre et à sa force cachée pour la mettre au service de ses batailles saintes. Chaque fois qu'il utilise sa capacité [[Paladin#CHATIMENTDUMAL|châtiment du Mal]], il peut choisir d'ajouter 2d6 points de dégâts d'acide à son [[Valeurs de combat#DEGATS|jet de dégâts]]. Si le personnage n'a pas accès à cette capacité, il peut ajouter 2d6 points de dégâts d'acide à une attaque unique contre un adversaire Mauvais trois fois par jour. Il doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Si l'attaque rate ou si la cible n'est pas Mauvaise, l'utilisation de cette capacité est gâchée.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.
-• *[[Fabrication]]* peut être préparé comme un sort de 5e niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.  
+• *[[Fabrication]]* peut être préparé comme un sort de 5e niveau.  
 • *[[Réparation]]* peut être préparé comme une oraison.
 
-**Lancement de sorts ([[paladin]]).**
-• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.
-• *[[Fabrication]]* peut être préparé comme un sort de 5e niveau.
+**Lancement de sorts ([[paladin]]).**  
+• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.  
+• *[[Fabrication]]* peut être préparé comme un sort de 5e niveau.  
 • *[[Réparation]]* peut être préparé comme un sort de 1er niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Création majeure]]* peut être préparé comme un sort de 5e niveau.  
 • *[[Fabrication]]* peut être préparé comme un sort de 5e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres I]].* [[Blaireau]]
-• *[[Convocation de monstres III]].* [[Azer]]
+**Convocations étendues.**  
+• *[[Convocation de monstres I]].* [[Blaireau]]  
+• *[[Convocation de monstres III]].* [[Azer]]  
 • *[[Convocation de monstres III]].* [[Blaireau sanguinaire]]
 
 #### Code de conduite du paladin
@@ -65,5 +65,5 @@ Les [[Paladin|paladins]] de Torag se consacrent à la protection non seulement d
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 pc ; **Poids** 4,5 kg
+{s:AE}**Prix** 3 pc ; **Poids** 4,5 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette jarre de base en terre cuite est équipée d'un bouchon et a une contenance de 4,5 litres. Le poids est indiqué pour une jarre remplie d'eau, de vin ou de bière, lorsqu'elle est vide, elle pèse environ 0,25 kg.

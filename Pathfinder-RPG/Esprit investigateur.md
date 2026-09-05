@@ -20,5 +20,5 @@ Categories:
 **Cible** le lanceur de sorts  
 **Durée** 10 minutes/niveau ou jusqu’à déchargement
 
-L’esprit du personnage est capable de corréler les informations avec beaucoup d’efficacité. Quand il tente un test d’Art de la magie, de [[Connaissances]], d’[[Estimation]] ou de [[Linguistique]], il peut faire deux jets et garder le meilleur résultat. S’il a un pouvoir qui lui permet de relancer une deuxième fois, il ne peut pas utiliser ce pouvoir et cet avantage sur le même jet.
+L’esprit du personnage est capable de corréler les informations avec beaucoup d’efficacité. Quand il tente un test d’Art de la magie, de [[Connaissances]], d’[[Estimation]] ou de [[Linguistique]], il peut faire deux jets et garder le meilleur résultat. S’il a un pouvoir qui lui permet de relancer une deuxième fois, il ne peut pas utiliser ce pouvoir et cet avantage sur le même jet.  
 Le sort est déchargé quand le personnage a utilisé son avantage un nombre de fois égal à son niveau de lanceur.

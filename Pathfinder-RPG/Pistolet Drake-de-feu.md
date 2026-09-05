@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:41
 {s:BDTitre|Pistolet drake-de-feu|{s:AE}}
 **Aura** [[Évocation]] faible  ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 20.300 po ; **Poids** 2 kg
 (((Description)))
-La forme minutieusement élaborée du barillet de cet imposant pistolet de [[feu (propriété)|feu]] +1 ressemble à un dragon rugissant. Sa crosse est couverte de cuir de dragon rouge ciré. Le personnage peut décider, s’il tire des balles ordinaires avec un *pistolet drake-de-feu*, que la totalité des dégâts infligés devienne des dégâts de feu. De plus, par une [[action simple]] en remplacement d’une attaque normale, le personnage peut dépenser une balle pour créer un cône de feu équivalent à celui d’un sort de *[[mains brûlantes]]*.
+La forme minutieusement élaborée du barillet de cet imposant pistolet de [[feu (propriété)|feu]] +1 ressemble à un dragon rugissant. Sa crosse est couverte de cuir de dragon rouge ciré. Le personnage peut décider, s’il tire des balles ordinaires avec un *pistolet drake-de-feu*, que la totalité des dégâts infligés devienne des dégâts de feu. De plus, par une [[action simple]] en remplacement d’une attaque normale, le personnage peut dépenser une balle pour créer un cône de feu équivalent à celui d’un sort de *[[mains brûlantes]]*. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[mains brûlantes]]*, *[[boule de feu]]*  ; **Coût** 10.800 po
 </div>

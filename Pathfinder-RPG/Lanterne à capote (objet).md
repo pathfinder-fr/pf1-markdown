@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 7 po ; **Poids** 1 kg
+{s:AE}**Prix** 7 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Une lanterne à capote diffuse une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 9 mètres et augmente la luminosité d'une catégorie dans un rayon de 9 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne à capote n'augmente pas la luminosité dans la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[[Huile (objet)|huile]]. Le personnage peut la tenir dans une main.

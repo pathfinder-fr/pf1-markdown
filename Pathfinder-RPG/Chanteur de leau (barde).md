@@ -17,11 +17,11 @@ Le chanteur de l’eau a certaines représentations bardiques uniques qui rempla
 - *Eau vitale (Sur).* Au niveau 5, le chanteur de l’eau peut dépenser 1 [[round]] de [[représentation bardique]] par une [[action simple]] pour manipuler l’eau, le sang et les autres fluides corporels d’une créature, rendant la cible [[fiévreux|fiévreuse]] pendant 1d4 rounds. Sinon, il peut utiliser cette capacité pour tenter une manœuvre offensive de [[repositionnement]] en utilisant son [[BBA|bonus de base à l’attaque]] et son modificateur de [Charisme]] comme son [[BMO]]. Cette capacité a une portée de 9 mètres, ne fonctionne que sur les créatures ayant des fluides corporels et n’affecte pas celles immunisées aux [[coup critique|coups critiques]]. Cette représentation remplace l’utilisation de [[barde#MAITREDUSAVOIR|maître du savoir]] gagnée au niveau 5 (mais le chanteur de l’eau peut quand même en gagner l’utilisation une fois par jour au niveau 11 et deux fois par jour au niveau 17).
 
 #### Sorts du chanteur de l’eau
-Le chanteur de l’eau rajoute certains sorts liés à l’eau à sa liste. Il ajoute les pouvoirs suivants à sa liste de sorts dès que son niveau de barde lui permet de lancer les sorts du niveau indiqué.
-**Niveau 0** – *[[création deau|création d’eau]]* ;
-**Niveau 1** – *[[poussée hydraulique]]*, *[[vague]]* ;
-**Niveau 2** – *[[orbe aqueux]]*, *[[torrent hydraulique]]*, *[[marche sur londe|marche sur l’onde]]* ;
-**Niveau 3** – *[[forme liquide]]*, *[[chevaucher les vagues]]* ;
-**Niveau 4** – *[[contrôle de leau|contrôle de l’eau]]*, *[[marche sur londe (partagé)|marche sur l’onde (partagé)]]* ;
-**Niveau 5** – *[[vortex]]* ;
+Le chanteur de l’eau rajoute certains sorts liés à l’eau à sa liste. Il ajoute les pouvoirs suivants à sa liste de sorts dès que son niveau de barde lui permet de lancer les sorts du niveau indiqué.  
+**Niveau 0** – *[[création deau|création d’eau]]* ;  
+**Niveau 1** – *[[poussée hydraulique]]*, *[[vague]]* ;  
+**Niveau 2** – *[[orbe aqueux]]*, *[[torrent hydraulique]]*, *[[marche sur londe|marche sur l’onde]]* ;  
+**Niveau 3** – *[[forme liquide]]*, *[[chevaucher les vagues]]* ;  
+**Niveau 4** – *[[contrôle de leau|contrôle de l’eau]]*, *[[marche sur londe (partagé)|marche sur l’onde (partagé)]]* ;  
+**Niveau 5** – *[[vortex]]* ;  
 **Niveau 6** – *[[manteau marin]]*.

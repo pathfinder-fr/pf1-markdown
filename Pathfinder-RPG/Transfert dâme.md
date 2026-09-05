@@ -14,10 +14,10 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:cs}{s:BotD}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau**
+{s:cs}{s:BotD}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** 
 [[chaman|Cham]] 7, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[prêtre|Prê]] 7, [[psychiste|Psy]] 7, [[Sorcière|Sor]] 7 , [[Spirite|Spi]] 6  
 **Temps d’incantation** 1 [[action simple]]  
-**Composantes** [[composantes|V, G, M]] (une gemme d'une valeur de 1 000 po par [[DV]] de la créature ou de l'âme ciblée)  
+**Composantes** [[composantes|V, G, M]] (une gemme d'une valeur de 1 000 po par [[DV]] de la créature ou de l'âme ciblée)   
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 **Cible** un [[Pétitionnaire, archétype|pétitionnaire]], une âme [[sous-type intangible|intangible]] ou une créature similaire  
 **Durée** [[permanente]] (voir texte)  

@@ -54,7 +54,7 @@ sanguinaires adoptent les
 mêmes comportements que
 leurs cousins de plus petite
 taille mais se montrent
-beaucoup plus agressifs.
+beaucoup plus agressifs. 
 
 Les
 géants s’en servent souvent
@@ -64,7 +64,7 @@ garde « améliorés ». Certains
 humanoïdes féroces et certains
 habitants des bois entraînent
 ces loups pour s’en faire
-des montures.
+des montures. 
 
 La fourrure
 des loups sanguinaires, qui

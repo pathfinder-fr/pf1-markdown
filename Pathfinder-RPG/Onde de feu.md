@@ -20,7 +20,7 @@ Categories:
 **Durée** concentration, jusqu'à 1 [[round]]/[[niveau]] ; voir description  
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Une violente onde de feu jaillit de la main du lanceur de sorts, infligeant 2d6 points de [[dégâts]] de feu à toutes les créatures prises dans la zone. À chaque [[round]] où le lanceur [[Lancer des sorts#CONCENTRATION|se concentre]] sur le sort, il peut choisir d’affecter une nouvelle zone.
+Une violente onde de feu jaillit de la main du lanceur de sorts, infligeant 2d6 points de [[dégâts]] de feu à toutes les créatures prises dans la zone. À chaque [[round]] où le lanceur [[Lancer des sorts#CONCENTRATION|se concentre]] sur le sort, il peut choisir d’affecter une nouvelle zone. 
 
 *Onde de feu* met le feu aux combustibles et endommage les objets présents dans la zone. Il peut faire fondre les métaux ayant un faible point de fusion comme le plomb, l’or, le cuivre, l’argent et le bronze. Si les dégâts causés à un obstacle brisent ou traversent celui-ci, l’onde de feu peut se poursuivre au-delà de cet obstacle si la [[Présentation des sorts#ZONEDEFFET|zone d’effet]] l’autorise ; sinon, elle s’arrête à l’obstacle comme le ferait n’importe quel effet de sort.
 

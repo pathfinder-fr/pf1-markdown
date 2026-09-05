@@ -5,7 +5,7 @@ LastModified: 2021-08-26 00:52
 ---
 
 {s:MenuTraits}
-Les traits de campagne sont tout spécialement conçus pour relier votre personnage à l’histoire d’une campagne. Ils vous offrent généralement une raison toute prête pour vous lancer dans la première aventure. C’est pour cela que les MJ créent généralement leurs propres traits de campagnes pour leurs PJ.
+Les traits de campagne sont tout spécialement conçus pour relier votre personnage à l’histoire d’une campagne. Ils vous offrent généralement une raison toute prête pour vous lancer dans la première aventure. C’est pour cela que les MJ créent généralement leurs propres traits de campagnes pour leurs PJ. 
 
 {s:APG}Si votre MJ utilise des traits de campagne, un de vos traits initiaux doit appartenir à cette catégorie. Votre second trait peut être choisi parmi les autres types de traits. Voici un exemple de liste de traits de campagne créée pour la campagne « Les ombres tapies sous Pointesable » que James Jacobs fait jouer dans les bureaux de Paizo et qui se déroule dans la ville varisienne de Pointesable (voir Les Offrandes calcinées). Ces traits ont été conçus spécialement pour cette campagne, mais avec quelques retouches, ils peuvent facilement être utilisés pour n’importe quelle campagne se déroulant dans une petite ville côtière assiégée par des créatures étranges et horribles venant du sous-sol.
 
@@ -18,9 +18,9 @@ Il gagne un bonus de trait de +1 sur les tests de Connaissances (mystères) et C
 
 
 ### Fils/fille préféré(e)
-*Le personnage est né et a été élevé dans la ville de Pointesable ou dans une des fermes environnantes. Il connaît de nombreux secrets au sujet de la région et les habitants du coin savent déjà qui il est. Il est apprécié en ville et possède de nombreux amis dans la région mais les petits criminels locaux le considèrent comme une balance ou une poule mouillée.*
+*Le personnage est né et a été élevé dans la ville de Pointesable ou dans une des fermes environnantes. Il connaît de nombreux secrets au sujet de la région et les habitants du coin savent déjà qui il est. Il est apprécié en ville et possède de nombreux amis dans la région mais les petits criminels locaux le considèrent comme une balance ou une poule mouillée.* 
 
-Il gagne un bonus de trait de +1 aux tests de Connaissances (folklore local) et Connaissances (folklore local) est toujours une compétence de classe pour lui. De plus, il peut choisir un des citoyens honnêtes de Pointesable cités plus bas comme allié.
+Il gagne un bonus de trait de +1 aux tests de Connaissances (folklore local) et Connaissances (folklore local) est toujours une compétence de classe pour lui. De plus, il peut choisir un des citoyens honnêtes de Pointesable cités plus bas comme allié. 
 
 Selon l’individu choisi, il gagne des avantages différents.
 - **Améiko Kaijitsu** (aristocrate locale et propriétaire de l’auberge du Dragon rouillé). Améiko est l’une des nobles les plus influentes et appréciées de Pointesable. Son auberge/taverne est la plus fréquentée en ville et, en tant que son ami, le personnage y sera toujours nourri et logé gratuitement. Elle possède également de très bons contacts avec de nombreux marchands et elle pourra vendre son butin à sa place, ce qui lui permettra d’obtenir 10% de plus que le prix de vente qu’il pourrait normalement espérer.
@@ -28,9 +28,9 @@ Selon l’individu choisi, il gagne des avantages différents.
 
 
 ### Mouton noir
-*Le personnage est né et a été élevé dans la ville de Pointesable. Il connaît de nombreux secrets au sujet de la région et les habitants du coin savent déjà qui il est. On ne le déteste pas vraiment en ville mais les gens pensent que c’est un causeur de troubles et un bâtard à qui on ne peut pas faire confiance. Les petits criminels locaux le respectent mais pas les gens honnêtes.*
+*Le personnage est né et a été élevé dans la ville de Pointesable. Il connaît de nombreux secrets au sujet de la région et les habitants du coin savent déjà qui il est. On ne le déteste pas vraiment en ville mais les gens pensent que c’est un causeur de troubles et un bâtard à qui on ne peut pas faire confiance. Les petits criminels locaux le respectent mais pas les gens honnêtes.* 
 
-Il gagne un bonus de trait de +1 aux tests de Connaissances (folklore local) et Connaissances (folklore local) est toujours une compétence de classe pour lui. De plus, il peut choisir un des citoyens connus de Pointesable cités plus bas comme allié.
+Il gagne un bonus de trait de +1 aux tests de Connaissances (folklore local) et Connaissances (folklore local) est toujours une compétence de classe pour lui. De plus, il peut choisir un des citoyens connus de Pointesable cités plus bas comme allié. 
 
 Selon l’individu choisi, il gagne des avantages différents.
 - **Alivar « Cloporte » Podiker** (apothicaire). Tout le monde suspecte le Cloporte, un homme à la sueur abondante et aux yeux nerveux, de vendre du poison dans sa minable échoppe bondée où règne toujours une odeur âcre. Le personnage est l’une des rares personnes en ville qui en est certain. Le personnage entre en jeu avec des poisons pour une valeur totale de 400 po et le Cloporte continuera à lui vendre du poison tant qu’il garde sa langue dans sa poche.

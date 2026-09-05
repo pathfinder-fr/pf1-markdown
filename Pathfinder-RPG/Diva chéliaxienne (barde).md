@@ -13,11 +13,11 @@ Categories:
 #### Célèbre
 Au niveau 1, une diva peut choisir la région où elle est célèbre. Dans cette région, les autochtones auront tendance à réagir favorablement à son encontre. Le barde gagne un bonus aux tests de [[Bluff]] et d’[[Intimidation]] effectués dans cette région et lorsqu’il influence les gens qui en sont originaires.
 
-Au niveau 1, cette région comprend une ou plusieurs communautés qui rassemblent une population totale de 1 000 personnes ou moins et le modificateur aux test de Bluff et d’Intimidation s’élève à +1. Au fur et à mesure que sa célébrité s’accroît, on entend parler d’elle dans des régions supplémentaires (généralement dans les endroits où elle a vécu ou voyagé, ou dans des communautés proches de celles où elle est connue) et ses bonus s’appliquent à davantage de personnes.
+Au niveau 1, cette région comprend une ou plusieurs communautés qui rassemblent une population totale de 1 000 personnes ou moins et le modificateur aux test de Bluff et d’Intimidation s’élève à +1. Au fur et à mesure que sa célébrité s’accroît, on entend parler d’elle dans des régions supplémentaires (généralement dans les endroits où elle a vécu ou voyagé, ou dans des communautés proches de celles où elle est connue) et ses bonus s’appliquent à davantage de personnes. 
 
 Au niveau 5, la région comprend une ou plusieurs communautés qui rassemblent une population totale de 5 000 personnes ou moins et le modificateur aux tests de Bluff et d’Intimidation s’élève à +2. Au niveau 9, la région comprend une ou plusieurs communautés qui rassemblent une population totale de 25 000 personnes ou moins et le modificateur aux tests de Bluff et d’Intimidation s’élève à +3.
 
-Au niveau 13, la région comprend une ou plusieurs communautés qui rassemblent une population totale de 100 000 personnes ou moins et le modificateur aux tests de Bluff et d’Intimidation s’élève à +4. Au niveau 17 et plus, la renommée de la diva s’est encore plus répandue et la plupart des peuplades civilisées la connaissent (à la discrétion du MJ). Son modificateur aux tests de Diplomatie et d’Intimidation s’élève à +5.
+Au niveau 13, la région comprend une ou plusieurs communautés qui rassemblent une population totale de 100 000 personnes ou moins et le modificateur aux tests de Bluff et d’Intimidation s’élève à +4. Au niveau 17 et plus, la renommée de la diva s’est encore plus répandue et la plupart des peuplades civilisées la connaissent (à la discrétion du MJ). Son modificateur aux tests de Diplomatie et d’Intimidation s’élève à +5. 
 
 Cette aptitude remplace [[Barde#SAVOIRBARDIQUE|savoir bardique]].
 
@@ -25,9 +25,9 @@ Cette aptitude remplace [[Barde#SAVOIRBARDIQUE|savoir bardique]].
 Au niveau 2, alors qu’elle déploie toujours plus d’efforts pour surpasser ses rivaux, une diva peut dépenser des [[round|rounds]] supplémentaires de [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] pour améliorer ses [[Représentations#CONTRE-CHANT|contre-chants]], ses [[Représentations#REPRESENTATIONMORTELLE|représentations mortelles]], ses [[Représentations#FASCINATION|fascinations]], ses [[Représentations#MELODIEEFFRAYANTE|mélodies effrayantes]] et ses diatribes blessantes (voir plus bas). Quand elle utilise ce pouvoir, elle bénéficie d’un  bonus de +2 aux tests de [[Représentation]] ou au [[DD]] des [[jds|jets de sauvegarde]] effectués contre ses représentations bardiques. La diva doit dépenser un round de représentation bardique supplémentaire lors de chaque round où elle utilise prima donna pour augmenter le résultat de son test de Représentation ou le DD des jets de sauvegarde. Cette aptitude remplace [[Barde#ERUDITION|érudition]].
 
 #### Maîtrise des costumes (Ext)
-Au niveau 5, la diva est tellement habituée à porter d’étranges et volumineux costumes pendant ses représentations qu’elle est désormais formée au port des armures intermédiaires et sait lancer des [[Liste des sorts de bardes|sorts de barde]] tout en portant ce type d’armures, sans se préoccuper du [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] qu’elles occasionnent normalement.
+Au niveau 5, la diva est tellement habituée à porter d’étranges et volumineux costumes pendant ses représentations qu’elle est désormais formée au port des armures intermédiaires et sait lancer des [[Liste des sorts de bardes|sorts de barde]] tout en portant ce type d’armures, sans se préoccuper du [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec des sorts profanes]] qu’elles occasionnent normalement. 
 
-Au niveau 11, elle est formée au port des armures lourdes et peut lancer des sorts de barde tout en portant ce type d’armures sans se préoccuper du risque d’échec des sorts profanes qu’elles occasionnent normalement.
+Au niveau 11, elle est formée au port des armures lourdes et peut lancer des sorts de barde tout en portant ce type d’armures sans se préoccuper du risque d’échec des sorts profanes qu’elles occasionnent normalement. 
 
 Une diva multiclassée applique tout de même le risque d’échec des sorts profanes lancés par le biais d’autres classes. Cette aptitude remplace [[Barde#MAITREDUSAVOIR|maître du savoir]].
 

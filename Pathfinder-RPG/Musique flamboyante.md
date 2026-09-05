@@ -16,7 +16,7 @@ Categories:
 
 Si le personnage lance un sort de *[[convocation de monstres I|convocation de monstres]]* en tant que sort de barde, il peut donner une apparence flamboyante aux créatures convoquées, ce qui leur donne une résistance au feu de 5 et ajoute 1 point de dégâts de feu à leurs attaques naturelles. La créature émet une faible lumière dans un [[rayon]] de 1,50 mètre (1 {s:c}).
 
-Cet aspect du don reste sans effet sur des créatures de [[sous-type feu]].
+Cet aspect du don reste sans effet sur des créatures de [[sous-type feu]]. 
 
 Quand le personnage utilise ce don, le sort affecté devient du [[Présentation des sorts#REGISTRE|registre]] du feu.
 

@@ -27,7 +27,7 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 griffes, +39 (3d6+18) et morsure, +39 (6d6+18/19-20 plus [[étreinte (capacité)|étreinte]]) et queue, +34 (4d6+9 plus [[croc-en-jambe (capacité)|croc-en-jambe]])}
 {s:BDTexte|**A distance** jet d’eau, +20 (4d8+18/19-20 plus étourdissement et poussée)}
 {s:BDTexte|**Espace occupé** 9 m (6 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** désastre, [[engloutissement (capacité)|engloutissement]] (4d6+27 contondant, CA 28, 39 pv), [[engloutissement rapide (capacité)|engloutissement rapide]],
+{s:BDTexte|**Attaques spéciales** désastre, [[engloutissement (capacité)|engloutissement]] (4d6+27 contondant, CA 28, 39 pv), [[engloutissement rapide (capacité)|engloutissement rapide]], 
 [[éventration (capacité)|éventration]] (2 griffes, 3d6+18), [[repousser (capacité)|repousser]] (jet d’eau, 6 m), [[retournement de navires (capacité)|retournement de navires]] (DD 25)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +22)}
 {s:BDSorts|*3/jours* - *[[tsunami]]* (DD 21)}
@@ -49,7 +49,7 @@ Categories:
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Béhémoth|béhémoths]].***</li></ul>*Cette bête, semblable à une baleine, tire son corps massif vers la surface des mers déchaînées grâce à ses deux énormes membres.*
 
-Envoyés pas les dieux pour punir ceux qui vivent près de la mer, les béhémoths thalassiques abattent les navires en mer avant de reporter leur attention sur les structures et les survivants basés sur la terre ferme. Malgré leur corpulence massive, les béhémoths thalassiques sont incroyablement rapides dans l’eau et rivalisent avec les navires les le plus véloces. Au sol, il est plus facile de leur échapper, en tout cas pour ceux qui sont prêts à laisser leur foyer et leurs possessions derrière eux. S’ils sont capables de survivre indéfiniment sur la terre ferme et de s’y mouvoir en utilisant le mode de déplacement maladroit des phoques, les béhémoths thalassiques se lassent très vite de l’incessante gravité terrestre. Ils s’aventurent rarement à plus de 1,5 à 3 kilomètres du rivage avant de retourner à leur confortable flottabilité marine.
+Envoyés pas les dieux pour punir ceux qui vivent près de la mer, les béhémoths thalassiques abattent les navires en mer avant de reporter leur attention sur les structures et les survivants basés sur la terre ferme. Malgré leur corpulence massive, les béhémoths thalassiques sont incroyablement rapides dans l’eau et rivalisent avec les navires les le plus véloces. Au sol, il est plus facile de leur échapper, en tout cas pour ceux qui sont prêts à laisser leur foyer et leurs possessions derrière eux. S’ils sont capables de survivre indéfiniment sur la terre ferme et de s’y mouvoir en utilisant le mode de déplacement maladroit des phoques, les béhémoths thalassiques se lassent très vite de l’incessante gravité terrestre. Ils s’aventurent rarement à plus de 1,5 à 3 kilomètres du rivage avant de retourner à leur confortable flottabilité marine. 
 
 Les béhémoths thalassiques ressemblent à d’immenses cachalots lorsqu’ils sont dans l’eau, mais ils peuvent se hisser sur le rivage très rapidement en se servant de leurs puissants membres antérieurs. Leur queue et leurs membres peuvent briser le bois et la pierre en un coup, tandis que leurs mâchoires s’ouvrent suffisamment largement pour engloutir de petits bateaux.
 

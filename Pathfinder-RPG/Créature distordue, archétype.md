@@ -33,7 +33,7 @@ Le processus de distorsion de la chair peut durer des jours, des semaines, voire
 Ce distordeur pique et tâte le sujet, lui arrachant la peau et le soumettant à d’autres tortures atroces quand il le faut, manipulant la vermine en fonction de ses attentes et s’assurant que la vase présente le mélange d’agents réactifs qui convient à chacune des étapes de ce mystérieux processus. Quand le processus est achevé, l’abomination transformée est censée se libérer d’elle-même de la vase : celles qui échouent sont sommairement massacrées.
 
 Le résultat final apporte et soustrait à la fois quelque chose à la créature originale. Bien que le processus soit  fondamentalement le même pour tous les types de créatures sur lesquels les drows expérimentent, les résultats sont extrêmement différents.
-Un drow dont on distord la chair devient un drider, un elfe devient un irnakurse et un troglodyte devient un ghonhatine.
+Un drow dont on distord la chair devient un drider, un elfe devient un irnakurse et un troglodyte devient un ghonhatine. 
 
 Certaines races semblent résister complètement au processus : c’est le cas des nains, pour lesquels il n’a jamais réussi et de la plupart des créatures féeriques qui y sont particulièrement résilientes. Ce que l’on sait sur la distorsion de la chair, c’est que les créatures fondamentalement mauvaises qui y sont soumises sont souvent plus utiles aux drows que celles qui débutent du côté du bien. Les distordus les plus utiles sont ceux que l’on crée à partir des drows. Ces malheureux sujets sont en général des individus ayant fait défaut à leur maison ou nés avec des anomalies physiques ou mentales. Contrairement aux autres distordus, qui sont souvent stériles ou dépourvus d’organes ou de capacités de reproduction, les driders sont une race à part entière, capable de procréer.
 
@@ -47,7 +47,7 @@ Il existe aussi d’autres cultures qui comprennent et pratiquent la distorsion 
 #### Bestiaire des distordus
 Les distordeurs drows expérimentent sans cesse en vue de découvrir de nouveaux distordus. Voici une liste des plus courants.
 
-**[[Drider]] (drows).** Les driders sont les premières et les plus nombreuses des créatures que les drows ont créées par distorsion de la chair. Ce sont les seules créatures ainsi déformées connues pour se reproduire vraiment. Cf. p.117 du Bestiaire.
+**[[Drider]] (drows).** Les driders sont les premières et les plus nombreuses des créatures que les drows ont créées par distorsion de la chair. Ce sont les seules créatures ainsi déformées connues pour se reproduire vraiment. Cf. p.117 du Bestiaire. 
 
 **[[Ghonhatine]] (troglodytes)**. Ces distordus sont pratiquement deux fois plus grands que les troglodytes et sont nettement plus bestiaux et terrifiants. Cf. p.47.
 

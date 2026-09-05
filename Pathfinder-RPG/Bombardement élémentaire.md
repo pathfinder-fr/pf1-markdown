@@ -9,12 +9,12 @@ Categories:
 - Sort magicien 7
 ---
 
-{s:CMy}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[[</nowiki>voir description<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7
-**Temps d'incantation** 1 round
-**Composantes** [[composantes|V, G]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Effet** un ou plusieurs élémentaires sont invoqués
-**Durée** 1 round/2 niveaux (T)
+{s:CMy}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[[</nowiki>voir description<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
+**Temps d'incantation** 1 round  
+**Composantes** [[composantes|V, G]]   
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Effet** un ou plusieurs élémentaires sont invoqués  
+**Durée** 1 round/2 niveaux (T)  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Le personnage convoque des élémentaires arrivant directement de leurs plans élémentaires et les déchaîne violemment sur ses ennemis. Il doit disposer d’une ligne d’effet sur un point situé au moins 18 mètres au-dessus des cibles visées et dans la zone de portée du sort. Le personnage peut convoquer un élémentaire noble, deux élémentaires de taille TG, quatre élémentaires de taille G ou huit élémentaires de taille M. Il dirige les élémentaires sur des cibles situées à moins de 18 mètres les unes des autres et ne peut pas attribuer plus d’un élémentaire par cible.

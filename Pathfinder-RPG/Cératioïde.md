@@ -46,7 +46,7 @@ Categories:
 </td><td><div>
 *Cette créature humanoïde et molle, aux allures de poisson possède les attributs des prédateur des fonds marins  :une large gueule, des yeux globuleux et un leurre de chair luminescent qui se balance à son front.*
 
-Maîtres des fosses océaniques, les cératioïdes partagent plusieurs traits inhabituels caractéristiques prédateurs aquatiques de la famille des ceratiidae, aussi connus sous le nom de poissons-pêcheurs. Depuis leurs étranges cités aux hautes tours cachées sous les vagues, les cératioïdes étendent leur influence partout.
+Maîtres des fosses océaniques, les cératioïdes partagent plusieurs traits inhabituels caractéristiques prédateurs aquatiques de la famille des ceratiidae, aussi connus sous le nom de poissons-pêcheurs. Depuis leurs étranges cités aux hautes tours cachées sous les vagues, les cératioïdes étendent leur influence partout. 
 
 L’aspect le plus étrange du cératioïde tient sans doute au fait qu’il est en réalité constitué de deux entités distinctes  : une femelle puissante et imposante, et un mâle parasitaire de la taille d’un rat qui passe la majorité de sa vie accroché au cou de sa compagne. Une femelle sans compagnon perd sa capacité d’esprit dual, tandis qu’un mâle non rattaché à une femelle conserve son intelligence mais possède les mêmes caractéristiques que l’[[anguille électrique]] (sans le pouvoir spécial d’électricité ni la résistance à l’électricité).
 </div></td></tr></table>

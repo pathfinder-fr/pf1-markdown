@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:04
 {s:BDTitre|Tunique d’incantation minutieuse|{s:AE}}
 **Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 5.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette tunique de laine est ornée d’un motif brodé avec du fil noir et argenté représentant plusieurs chaînes liées les unes aux autres. Elle aide son porteur à rester concentré lors de ses incantations et lui confère un bonus de +2 aux [[lancer des sorts#CONCENTRATION|tests de concentration]].
+Cette tunique de laine est ornée d’un motif brodé avec du fil noir et argenté représentant plusieurs chaînes liées les unes aux autres. Elle aide son porteur à rester concentré lors de ses incantations et lui confère un bonus de +2 aux [[lancer des sorts#CONCENTRATION|tests de concentration]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Magie de guerre]] ; **Coût** 2.500 po
 </div>

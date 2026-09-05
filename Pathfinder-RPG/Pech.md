@@ -15,7 +15,7 @@ LastModified: 2021-02-20 15:26
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 15 (Dex +1, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 27 (6d6+6)}
-{s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +6}
+{s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +6} 
 {s:BDTexte|**Immunités** pétrification ; **RD** 5/fer froid ; **RM** 14}
 {s:BDTexte|**Faiblesses** [[aveuglé|Aveugle]] par la lumière}
 {s:BDSousTitre|Attaque}
@@ -42,7 +42,7 @@ LastModified: 2021-02-20 15:26
 </div>
 </td><td><div>*Cet humanoïde jaune pâle a des membres dégingandés et de gros yeux blancs et vides. Il tient une pioche dans ses mains noueuses.*
 
-Il y a bien longtemps de cela, dans les cavernes les plus éloignées de la surface, les pechs servaient des maîtres aujourd’hui oubliés, partis un jour sans laisser d’instructions. Certains pechs ont tenté de se réfugier dans les tunnels plus proches de la surface, qui semblaient plus surs. Les horreurs indicibles qu’ils y ont rencontrées les ont transformés en derros au bout de quelques générations. Les pechs qui étaient restés plus près de leurs anciennes cavernes ont survécu jusqu’à ce jour, mais ils sont si peu nombreux et vivent de manière si isolée que peu d’habitants de la surface connaissent leur existence.
+Il y a bien longtemps de cela, dans les cavernes les plus éloignées de la surface, les pechs servaient des maîtres aujourd’hui oubliés, partis un jour sans laisser d’instructions. Certains pechs ont tenté de se réfugier dans les tunnels plus proches de la surface, qui semblaient plus surs. Les horreurs indicibles qu’ils y ont rencontrées les ont transformés en derros au bout de quelques générations. Les pechs qui étaient restés plus près de leurs anciennes cavernes ont survécu jusqu’à ce jour, mais ils sont si peu nombreux et vivent de manière si isolée que peu d’habitants de la surface connaissent leur existence. 
 
 Les pechs sont des mineurs et des maçons doués. On les retrouve parfois au service d’autres races souterraines (comme ouvriers rémunérés ou esclaves). Ils ont appris à soigneusement dissimuler les entrées qui conduisent à leur repaire en les faisant disparaître dans la roche vivante, de sorte qu’elles ne puissent être repérées que si on les observe depuis un angle bien précis. Quand des étrangers découvrent un repaire de pechs, ils reçoivent généralement un accueil des plus chaleureux et des conseils amicaux, mais les pechs leur demandent fermement de les laisser tranquilles. Un pech moyen ne mesure qu’un mètre de hauteur mais sa chair dense lui donne un poids de 50 k
 </div></td></tr></table>

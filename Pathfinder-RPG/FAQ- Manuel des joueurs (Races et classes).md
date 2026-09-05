@@ -91,7 +91,7 @@ Par exemple, le guerrier mentionné précédemment pourrait utiliser l'accroisse
 #### Archétype : Si un archétype remplace une capacité de classe par une version plus spécifique de cette capacité (ou qui fonctionne de manière similaire à la capacité remplacée), est-ce que la capacité de l'archétype compte comme la capacité originale pour les règles qui améliorent cette dernière ?
 Cela dépend de la façon dont la capacité de l'<u>[[Classes#ARCHETYPES|archétype]]</u> est formulée. Si celle-ci indique qu'elle fonctionne comme la capacité standard, elle compte comme cette capacité. Si elle requiert de faire un choix spécifique à la capacité standard, elle compte comme cette capacité. Dans tous les autres cas, la capacité de l'archétype ne compte pas comme la capacité standard. Le fait que le nom de la capacité de l'archétype soit différent de celui de la capacité standard n'est pas important pour déterminer si elle compte comme cette dernière, c'est la description et les mécanismes de jeu de la capacité de l'archétype qui importent.
 
-*Exemple :* l'archétype de guerrier [[Dragon (guerrier)|dragon]] (*l'Art de la guerre*) a une capacité appelée "entraînement à la lance", qui demande que le dragon sélectionne les lances comme groupe d'armes et qui fait référence  au bonus d'entraînement aux armes (bien que ce bonus suive une progression légèrement différente de celle de l'entraînement aux armes standard). Cette capacité compte donc comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes, comme les [[gants de duelliste]] (*Manuel des joueurs : règles avancées*) qui augmentent le bonus d'entraînement aux armes du porteur.
+*Exemple :* l'archétype de guerrier [[Dragon (guerrier)|dragon]] (*l'Art de la guerre*) a une capacité appelée "entraînement à la lance", qui demande que le dragon sélectionne les lances comme groupe d'armes et qui fait référence  au bonus d'entraînement aux armes (bien que ce bonus suive une progression légèrement différente de celle de l'entraînement aux armes standard). Cette capacité compte donc comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes, comme les [[gants de duelliste]] (*Manuel des joueurs : règles avancées*) qui augmentent le bonus d'entraînement aux armes du porteur. 
 
 *Exemple :* l'archétype de guerrier [[Archer (guerrier)|archer]] confère plusieurs capacités (comme "expert archer") qui remplacent l'entraînement aux armes et n'y font pas référence dans leur description. En conséquence, ces capacités ne comptent pas comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes (comme les gants de duelliste). C'est même le cas pour la capacité "expert archer" qui confère un bonus qui augmente tous les quatre niveaux de guerrier, exactement comme l'entraînement aux armes.
 
@@ -114,20 +114,20 @@ Si un personnage possède un archétype ou un autre élément de règles qui rem
 
 Si un personnage possède un archétype ou un autre élément de règles qui remplace certaines mises à niveau d’une capacité de classe évolutive, ou retarde le moment où il obtient cette capacité de classe, il ne possède pas cette capacité de classe jusqu’à ce qu’il l’obtienne réellement.
 
-*Exemple :* Si le personnage possède un archétype de guerrier qui remplace [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]] (mais pas entraînement aux armes 2, 3 et 4), il n’obtient pas entraînement aux armes 2 avant le niveau 9, ce qui signifie qu’il ne possède pas la capacité de classe entraînement aux armes du tout avant le niveau 9. N’importe quelle option avec « entraînement aux armes » ou « capacité de classe entraînement aux armes » comme condition lui est indisponible avant le niveau 9.
-*Exemple :* Si le personnage possède un archétype de prêtre qui remplace la [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] au niveau 1 (mais pas les améliorations ultérieures de canalisation d’énergie), il n’obtient pas la capacité canalisation d’énergie avant le niveau 3, ce qui signifie qu’il ne possède pas la capacité de classe canalisation d’énergie avant d’atteindre le niveau 3. N’importe quelle option avec « canalisation d’énergie » ou « capacité de classe canalisation d’énergie » comme condition lui est indisponible avant qu’il atteigne le niveau 3.
+*Exemple :* Si le personnage possède un archétype de guerrier qui remplace [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]] (mais pas entraînement aux armes 2, 3 et 4), il n’obtient pas entraînement aux armes 2 avant le niveau 9, ce qui signifie qu’il ne possède pas la capacité de classe entraînement aux armes du tout avant le niveau 9. N’importe quelle option avec « entraînement aux armes » ou « capacité de classe entraînement aux armes » comme condition lui est indisponible avant le niveau 9.  
+*Exemple :* Si le personnage possède un archétype de prêtre qui remplace la [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] au niveau 1 (mais pas les améliorations ultérieures de canalisation d’énergie), il n’obtient pas la capacité canalisation d’énergie avant le niveau 3, ce qui signifie qu’il ne possède pas la capacité de classe canalisation d’énergie avant d’atteindre le niveau 3. N’importe quelle option avec « canalisation d’énergie » ou « capacité de classe canalisation d’énergie » comme condition lui est indisponible avant qu’il atteigne le niveau 3.  
 *Exemple :* Si le personnage possède un archétype de sorcière qui remplace son [[Sorcière#MALEFICE|maléfice]] de niveau 1 (mais pas les maléfices suivants, les maléfices majeurs, ou les grands maléfices)), il n’obtient pas son premier maléfice avant le niveau de sorcière 2, ce qui signifie qu’il ne possède pas la capacité de classe maléfice avant d’atteindre le niveau de sorcière 2. N’importe quelle option avec « maléfice » ou « capacité de classe maléfice » comme condition lui est indisponible avant qu’il atteigne le niveau 2.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|6}
 #### Classe de prestige : Si je prend un niveau dans une classe de prestige qui améliore la capacité de lancement de sorts, cela me donne-t-il accès aux sorts de lignage de plus haut niveau ?
-Non. De même, cela n’offre pas de dons de lignage supplémentaires.
-Si le personnage était un magicien, cela ne lui donnerait pas accès à ses pouvoirs d’école de plus haut niveau.
-Si le personnage était un oracle, cela ne lui donnerait pas de sorts de mystère supplémentaires. (En revanche, cela lui donnerait accès aux sorts de soins et de blessure de plus haut niveau, puisqu’ils font partie de la capacité de classe sorts de l’oracle.)
-Si le personnage était une sorcière, cela ne lui donnerait pas de sorts de protecteur supplémentaires.
+Non. De même, cela n’offre pas de dons de lignage supplémentaires.  
+Si le personnage était un magicien, cela ne lui donnerait pas accès à ses pouvoirs d’école de plus haut niveau.  
+Si le personnage était un oracle, cela ne lui donnerait pas de sorts de mystère supplémentaires. (En revanche, cela lui donnerait accès aux sorts de soins et de blessure de plus haut niveau, puisqu’ils font partie de la capacité de classe sorts de l’oracle.)   
+Si le personnage était une sorcière, cela ne lui donnerait pas de sorts de protecteur supplémentaires.  
 Etc.
 
-Les <u>[[Classes de prestige#DEFINITIONS|classes de prestige]]</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.
+Les <u>[[Classes de prestige#DEFINITIONS|classes de prestige]]</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.  
 (Notez que la classe de disciple draconien a la capacité [[Disciple draconien#SANGDESDRAGONS|sang des dragons]], qui indique spécifiquement que le personnage obtient ses pouvoirs de lignage et ses sorts de lignage ; c’est une capacité propre à cette classe et non pas une règle générale sur l’amélioration du lancement de sorts par une classe de prestige.)
 
 <div style="border-top:1px dashed #4b3124">
@@ -152,7 +152,7 @@ Mise à jour 26/9/2013 : Ceci est une inversion d’une ancienne règle. Cela r�
 {s:Reference|9}
 #### Duelliste, Défense astucieuse : Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?
 Un duelliste ajoute son bonus d'Intelligence à sa CA (et non à son bonus de Dextérité à la CA). Il perd ce bonus d'Intelligence à la CA dans toutes les situations où il est privé de son bonus de Dextérité à la CA.
-Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.
+Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.  
 Ce bonus d'Intelligence à la CA s'applique également à la CA de contact. *(Retour à la <u>[[Duelliste#DEFENSEASTUCIEUSE|capacité]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
@@ -201,7 +201,7 @@ Vous pourriez peut-être mettre un astérisque sur les dons supplémentaires de 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|17}
 #### Humain : Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?
-C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.
+C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.  
 Par exemple, un humain guerrier 1 avec Int 6 devrait commencer avec 2 rangs, ajouter le -2 de son malus d’Int (pour un total de 0 rangs), appliquer la règle du « minimum 1 » (pour un total ajusté de 1 rang), puis ajouter 1 rang d’humain (pour un total de 2 rangs).
 
 Autrement dit, un humain devrait toujours terminer avec plus de rangs de compétence qu’un autre personnage équivalent d’une race différente.
@@ -209,7 +209,7 @@ Autrement dit, un humain devrait toujours terminer avec plus de rangs de compét
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|18}
 #### Intelligence : Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?
-Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
+Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.  
 Techniquement, les objets qui améliorent l’Int comme un *[[Bandeau dintelligence|bandeau d’intelligence]]* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).
 
 <div style="border-top:1px dashed #4b3124">
@@ -278,7 +278,7 @@ Par exemple, un humain homme d’armes 1 pourrait choisir « homme d’armes » 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|30}
 #### Pouvoirs magiques et niveau de sort : Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?
-Le niveau de sort effectif de ces <u>[[Capacités spéciales|pouvoirs magiques]]</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis.
+Le niveau de sort effectif de ces <u>[[Capacités spéciales|pouvoirs magiques]]</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis. 
 
 Par exemple, un ensorceleur de lignage élémentaire de niveau 1 a Rayon élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 1 étant le niveau 1, ce pouvoir magique compte comme un sort de niveau 1. Un ensorceleur de lignage élémentaire de niveau 9 a Explosion élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 9 étant le niveau 4, ce pouvoir magique compte comme un sort de niveau 4.
 
@@ -290,7 +290,7 @@ Puisque l'[[Épée bâtarde (arme)|épée bâtarde]] est listée comme étant un
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|32}
 #### --Réserve de ki du moine : Quels types de réduction de dégâts un moine peut-il ignorer grâce à cette capacité ?
-Les moines ont souvent des problèmes à ignorer les [[RD]] avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[[Moine#RESERVEDEKI|réserve de ki]]</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.
+Les moines ont souvent des problèmes à ignorer les [[RD]] avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[[Moine#RESERVEDEKI|réserve de ki]]</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around).-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">

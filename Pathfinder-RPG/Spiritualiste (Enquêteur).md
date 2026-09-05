@@ -10,7 +10,7 @@ Categories:
 {s:Menuarchétypeenquêteur}{s:mca}*Alors que la plupart des investigateurs scrutent le monde physique pour obtenir leurs connaissances, d’autres utilisent des moyens révoltants. Les spiritualistes s’empressent de montrer à ceux qui pensent que les morts ne parlent pas qu’ils ont tort. Au lieu de manipuler des substances chimiques et des réactifs pour trouver des indices, ils s’adressent directement au monde des esprits pour découvrir comment les crimes et les actes désespérés nés de noires passions ont été commis.*
 
 #### Communion avec les esprits (Mag)
-Au lieu de mener des recherches alchimiques pour trouver des indices, un spiritualiste communie avec l’au-delà.
+Au lieu de mener des recherches alchimiques pour trouver des indices, un spiritualiste communie avec l’au-delà. 
 
 Au niveau 1, un spiritualiste peut utiliser *[[compréhension des langages]]*, *[[détection des passages secrets]]* et *[[identification]]*, mais le temps d’incantation pour chacun de ces sorts s’élève à une minute, durée pendant laquelle le spiritualiste doit consulter les esprits des morts qui rôdent dans les alentours ou qui sont attachés à lui d’une façon ou d’une autre. Le spiritualiste peut utiliser cette aptitude un nombre de fois par jour égal à son niveau d’enquêteur + son modificateur de [[Sagesse]]. Au fur et à mesure qu’il monte en niveaux, le spiritualiste peut utiliser d’autres sorts dont le temps d’incantation est identique à celui mentionné plus haut.
 
@@ -26,7 +26,7 @@ Au niveau 2, les rapports que le spiritualiste entretient avec les entités de l
 
 
 #### Sixième sens (Sur)
-Au niveau 3, un spiritualiste peut dépenser une de ses utilisations de l’aptitude communion avec les esprits pour relancer un unique jet de sauvegarde qu’il vient de rater. Il doit conserver le résultat de la relance, même s’il est inférieur. Cette aptitude remplace sens des pièges.
+Au niveau 3, un spiritualiste peut dépenser une de ses utilisations de l’aptitude communion avec les esprits pour relancer un unique jet de sauvegarde qu’il vient de rater. Il doit conserver le résultat de la relance, même s’il est inférieur. Cette aptitude remplace sens des pièges. 
 
 #### Murmures des esprits (Sur)
 Au niveau 4, le spiritualiste peut se mettre en relation avec le monde des esprits afin de bénéficier d’un soutien au combat pendant un court instant. Il peut dépenser une utilisation de son aptitude de communion avec les esprits afin de gagner un bonus d’intuition à la [[CA]] et aux jets de sauvegarde égal à son modificateur de Sagesse (minimum 1) pendant une minute. Cette aptitude remplace alchimie rapide.

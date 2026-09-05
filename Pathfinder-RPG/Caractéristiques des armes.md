@@ -59,13 +59,13 @@ Dans les autres cas, une arme ne peut infliger un type de dégâts ou un autre. 
 #### Spécial
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#8|→]] Armes de croc-en-jambe : Si un personnage veut faire une manœuvre de croc-en-jambe, doit-il utiliser une arme avec l’attribut spécial croc-en-jambe ?***
 
-Non. Lorsqu’il fait une manœuvre de [[croc-en-jambe]], le personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial <u>[[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]</u> – il peut utiliser n’importe quelle arme. Par exemple, il peut tenter un croc-en-jambe avec une épée longue ou une attaque à mains nues, même si ces armes n’ont pas l’attribut spécial croc-en-jambe.
+Non. Lorsqu’il fait une manœuvre de [[croc-en-jambe]], le personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial <u>[[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]</u> – il peut utiliser n’importe quelle arme. Par exemple, il peut tenter un croc-en-jambe avec une épée longue ou une attaque à mains nues, même si ces armes n’ont pas l’attribut spécial croc-en-jambe.  
 Notez qu’il y a un avantage à utiliser une arme avec cet attribut spécial (a.k.a. une « arme de croc-en-jambe ») lorsqu’on fait une manœuvre de croc-en-jambe : si l’attaque de croc-en-jambe rate de 10 ou plus, le personnage peut lâcher l’arme de croc-en-jambe plutôt que tomber à terre.
 
 Sur une note similaire, un personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial [[Caractéristiques des armes#DESARMEMENT|désarmement]] (a.k.a. une « arme de désarmement ») lorsqu’il fait une manœuvre de [[désarmement]] – il peut utiliser n’importe quelle arme.
 
 Note : Il s’agit d’une révision de cette FAQ basée sur un [Paizo blog](http://paizo.com/paizo/blog/v5748dyo5lcom) à propos des manœuvres offensives avec les armes. La version antérieure de cette FAQ indiquait qu’utiliser une arme de croc-en-jambe était le seul moyen d’appliquer le bonus d’altération de l’arme utilisée, les bonus d’Arme de prédilection, et les bonus similaires aux tests de manœuvres offensive de croc-en-jambe. La clarification de ce blog implique que toute arme utilisée pour tenter un croc-en-jambe applique ces bonus lors d’une manœuvre offensive de croc-en-jambe, donc cette FAQ a été mise à jour pour retirer la limitation « seule les armes de croc-en-jambe peuvent appliquer ces bonus ».
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#9|→]] Armes de moine : Les moines sont-ils automatiquement formés au maniement de toutes les armes avec l’attribut spécial « moine » ?***
 
 Comme c’est écrit, non – l’attribut spécial « <u>[[Caractéristiques des armes#MOINE|moine]]</u> » indique qu’un [[moine]] peut utiliser l’arme dans le cadre d’un [[Moine#DELUGEDECOUPS|déluge de coups]], mais il n’offre pas le maniement de ladite arme.}Certaines armes ont des attributs spéciaux en plus de celles qui sont indiquées dans leur description.
@@ -102,8 +102,8 @@ Si une arme se brise de cette manière, on considère qu’elle a reçu un nombr
 ### Armes courantes, de guerre ou exotiques
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#10|→]] Armes exotiques et mains : Si une arme est maniée à deux mains comme une arme de guerre et à une main avec une formation au maniement des armes exotiques, puis-je la manier à une main sans formation exotique avec un malus de -4 ?***
 
-Non.
-Notez qu’un personnage ne peut normalement pas manier une arme à deux mains dans une seule main. L’[[épée bâtarde (arme)|épée bâtarde]] est une exception à cette règle précisant qu’on ne peut manier une arme à deux mains dans une seule main, mais un personnage a besoin d’une formation particulière pour pouvoir utiliser l’épée bâtarde de cette façon. Sans cette formation spéciale, manier une épée bâtarde à une main est aussi impossible que de manier une [[épée à deux mains (arme)|épée à deux mains]] dans une seule main.
+Non.  
+Notez qu’un personnage ne peut normalement pas manier une arme à deux mains dans une seule main. L’[[épée bâtarde (arme)|épée bâtarde]] est une exception à cette règle précisant qu’on ne peut manier une arme à deux mains dans une seule main, mais un personnage a besoin d’une formation particulière pour pouvoir utiliser l’épée bâtarde de cette façon. Sans cette formation spéciale, manier une épée bâtarde à une main est aussi impossible que de manier une [[épée à deux mains (arme)|épée à deux mains]] dans une seule main.  
 (La même chose s’applique pour les autres armes avec cette exception à une main <u>[[Caractéristiques des armes#ARMEEXOTIQUE|exotique]]</u>, comme la [[hache darmes naine (arme)|hache d'armes naine]].)}La plupart des classes de personnage sont formées au maniement des [[Tableau récapitulatif des armes#TABCOURANTES|armes courantes]]. Les classes orientées vers le combat, comme le [[barbare]], le [[chevalier]] et le [[guerrier]], sont formées au maniement des armes courantes et [[Tableau récapitulatif des armes#TABDEGUERRE|de guerre]]. Les personnages ayant d’autres classes sont formés à un assortiment d’armes courantes et, parfois, de quelques armes de guerre, voire même d’[[Tableau récapitulatif des armes#TABEXOTIQUES|armes exotiques]]. Tous les personnages sont formés au [[Actions simples#ATTAQUEMAINSNUES|combat à mains nues]] et au maniement des [[Actions simples#ATTAQUENATURELLE|armes naturelles]] qu’ils reçoivent de leur race. Un personnage qui utilise une arme pour laquelle il n’est pas formé reçoit un malus de -4 à tous ses jets d’attaque avec cette arme.
 
 {s:Reference|ARMEDECORPSACORPS}{s:Reference|ARMEADISTANCE}
@@ -133,7 +133,7 @@ Si les [[shurikens (arme)|shurikens]] sont des armes de jet, ils sont traités c
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#6|→]] Armes à deux mains dans une main : Lorsqu’un don ou une autre capacité indique de traiter une arme normalement maniée à deux mains comme une arme à une main, elle est considérée comme étant une arme à une ou deux mains dans le cadre de l’application du modificateur de Force ou du don Attaque en puissance ?***
 
 Si le personnage la manie à une main (même si c’est normalement une <u>[[Caractéristiques des armes#ARMEADEUXMAINS|arme à deux mains]]</u>), il la traite comme une arme à une main pour déterminer la quantité de [[Force]] à appliquer, le bonus aux dégâts d’[[Attaque en puissance]], etc.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Combat)#9|→]] Armes à deux mains : Quel genre d’action coûte le fait de lâcher d’une main une arme à deux mains ou de la ressaisir avec les deux mains ?***
 
 Les deux sont des actions libres. Par exemple, un magicien qui manie un [[bâton (arme)|bâton]] peut le lâcher d’une main par une action libre, lancer un sort par une action simple, puis le saisir à nouveau avec cette main par une action libre ; cela signifie que le magicien est toujours capable de faire des attaques d’opportunité avec l’<u>[[Caractéristiques des armes#ARMEADEUXMAINS|arme]]</u> (qui nécessite d’utiliser deux mains).
@@ -179,7 +179,7 @@ Quand les dégâts infligés par les <u>[[Caractéristiques des armes#TAILLEARME
 - Si le type de dé n’est pas référencé dans le tableau, appliquez les règles suivantes avant d’ajuster les dés de dégâts. 2d4 comptent comme 1d8 dans le tableau, 3d4 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d4 supérieurs. 1d12 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d12 supérieurs.
 - Enfin, 2d10 augmentent à 4d8 et diminuent à 2d8, quelque soit la taille initiale, et ainsi de suite pour les nombres de d10 supérieurs.
 
-**Tableau de progression des dés de dégâts**
+**Tableau de progression des dés de dégâts**  
 1 → 1d2 → 1d3 → 1d4 →1d6 → 1d8 → 1d10 → 2d6 → 2d8 → 3d6 → 3d8 → 4d6 → 4d8 → 6d6 → 6d8 → 8d6 → 8d8 → 12d6 → 12d8 → 16d6}Chaque arme a une catégorie de taille. Cette appellation renseigne sur la taille de la créature pour laquelle l’arme a été conçue. La catégorie de taille d’une arme ne correspond pas à sa taille en tant qu’objet. En général, une [[Caractéristiques des armes#ARMELEGERE|arme légère]] est un objet plus petit de deux catégories de taille que le porteur, une [[Caractéristiques des armes#ARMEAUNEMAIN|arme à une main]] est un objet plus petit d’une catégorie de taille que le porteur et une [[Caractéristiques des armes#ARMEADEUXMAINS|arme à deux mains]] est un objet de la même catégorie de taille que le porteur.
 
 **Les armes de taille inappropriée.** Une créature ne peut pas utiliser une arme dont la taille ne lui convient pas parfaitement au maximum de ses capacités. Un malus cumulatif de -2 s’applique aux [[jet dattaque|jets d’attaque]] pour chaque catégorie qui sépare la taille réelle du porteur de la taille prévue pour le propriétaire de l’arme. Si la créature n’est pas formée au maniement de l’arme, elle subit en outre un malus de -4 pour non-maîtrise de l’arme.

@@ -15,7 +15,7 @@ Categories:
 ---
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}
-**École** [[école divination|Divination]] ;
+**École** [[école divination|Divination]] ; 
 **Niveau** [[Druide|Dru]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
 **Temps d'incantation** 1 [[action complexe]]  
 **Composantes** [[composantes|V, G, F/FD]] (bec de chouette)  

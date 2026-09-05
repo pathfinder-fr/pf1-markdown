@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 50 po ; **Poids** 1 kg
+{s:cs}{s:AA}**Prix** 50 po ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Ce masque protecteur confère un bonus de circonstances de +1 aux jets de [[Vigueur]] contre les toxines volatiles et les effets basés sur l’odorat. À la Cité-état diabolique, porter un masque de médecin en public quand on n’est ni guérisseur ni physicien est un crime mineur.

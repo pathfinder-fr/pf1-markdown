@@ -7,7 +7,7 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:um}Le don [[Création de créatures artificielles]] permet à un lanceur de sorts de créer toutes sortes de créatures artificielles permanentes, selon un processus qui ressemble à celui de fabrication des objets magiques.
+{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:um}Le don [[Création de créatures artificielles]] permet à un lanceur de sorts de créer toutes sortes de créatures artificielles permanentes, selon un processus qui ressemble à celui de fabrication des objets magiques. 
 
 Chaque créature artificielle a un prix d’achat et un prix de fabrication, ainsi qu’une liste de conditions et de compétences requises pour la fabriquer. Certaines exigent des matériaux spéciaux en sus du prix de base, qui servent habituellement à fabriquer le corps de la créature.
 
@@ -31,7 +31,7 @@ Un lanceur de sorts peut utiliser *[[animation dobjets|animation d’objets]]* p
 
 </div>
 #### Capacités des objets animés
-Voici la liste des capacités applicables aux [[objet animé|objets animés]], qu’ils aient été créés par un sort d’*[[animation dobjets|animation d’objets]]* ou avec le don [[Création de créatures artificielles]].
+Voici la liste des capacités applicables aux [[objet animé|objets animés]], qu’ils aient été créés par un sort d’*[[animation dobjets|animation d’objets]]* ou avec le don [[Création de créatures artificielles]]. 
 
 Pour les appliquer, il faut [[objet animé|dépenser des points de construction]] (PC).
 

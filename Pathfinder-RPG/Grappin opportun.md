@@ -9,12 +9,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une tête de flèche)
-**Portée** [[contact]]
-**Cibles** un objet en forme de corde d'une longueur maximum de 15 m + 1,5 m/niveau
-**Durée** 1 minute/niveau (T)
+{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Inquisiteur|Inq]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une tête de flèche)  
+**Portée** [[contact]]  
+**Cibles** un objet en forme de corde d'une longueur maximum de 15 m + 1,5 m/niveau  
+**Durée** 1 minute/niveau (T)  
 **Jet de sauvegarde** Vigueur, annule (objet) ; **Résistance à la magie** non
 
 La corde ciblée rétrécit et prend la forme d'une flèche, d'un carreau ou d'une autre munition que le personnage peut tirer sur n'importe quel objet de taille M ou supérieure. En réussissant un [[jet dattaque|jet d'attaque]] contre une [[CA]] de 5 + la solidité de l'objet ciblé, le grappin opportun vient frapper et se coincer dans l'objet avec la force d'un [[Grappin (objet)|grappin en fer]].

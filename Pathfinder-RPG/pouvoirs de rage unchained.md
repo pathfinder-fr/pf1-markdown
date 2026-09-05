@@ -11,7 +11,7 @@ Categories:
 {s:PU}
 - ***Retour au [[Barbare unchained]].***
 
-Au fur et à mesure, le barbare unchained gagne des niveaux et apprend à utiliser sa rage de différentes façons.
+Au fur et à mesure, le barbare unchained gagne des niveaux et apprend à utiliser sa rage de différentes façons. 
 
 Au niveau 2 et tous les 2 niveaux par la suite, le barbare gagne un pouvoir de rage. Il bénéficie des avantages conférés par ces pouvoirs uniquement lorsqu’il est en rage. Certains de ces pouvoirs sont toujours actifs pendant la rage, d’autres s’utilisent obligatoirement en conjonction avec une action spécifique. Sauf indication contraire, un barbare ne peut choisir un même pouvoir de rage qu’une seule fois.
 
@@ -268,7 +268,7 @@ minimal</td><td COLSPAN="4">Pouvoirs de rage</td></tr>
 
 Une fois par jour, le barbare peut absorber l’énergie d’une attaque unique qui inflige des dégâts du type d’énergie auquel il résiste grâce au pouvoir de rage [[Pouvoirs de rage unchained#RESISTANCEALENERGIE|Résistance à l'énergie]]. Il ne subit aucun dégât de cette attaque et n’effectue aucun [[jds|jet de sauvegarde]]. À la place, il augmente le nombre de points de vie temporaires dont il bénéficie grâce à sa rage d’un montant égal à la moitié des dégâts qu’il aurait dû subir (si on ignore sa résistance aux énergies destructives).
 
-Si le barbare est de niveau 16 au moins, une fois avant la fin de sa rage, il peut relâcher l’énergie absorbée sous forme de souffle en forme de ligne de 18 mètres (12 {s:c}) de long ou de cône de 9 mètres (6 {s:c}). Le souffle inflige un montant de dégâts égal au nombre de points de dégâts qu’il aurait dû subir suite à l’effet absorbé. Les créatures affectées par le souffle peuvent effectuer un jet de [[Réflexes]] pour ne subir que la moitié des dégâts ([[DD]] = 10 + la moitié du niveau du barbare + son modificateur de [[Constitution]]). Le barbare conserve les points de vie temporaires obtenus grâce à ce pouvoir même s’il décide de souffler.
+Si le barbare est de niveau 16 au moins, une fois avant la fin de sa rage, il peut relâcher l’énergie absorbée sous forme de souffle en forme de ligne de 18 mètres (12 {s:c}) de long ou de cône de 9 mètres (6 {s:c}). Le souffle inflige un montant de dégâts égal au nombre de points de dégâts qu’il aurait dû subir suite à l’effet absorbé. Les créatures affectées par le souffle peuvent effectuer un jet de [[Réflexes]] pour ne subir que la moitié des dégâts ([[DD]] = 10 + la moitié du niveau du barbare + son modificateur de [[Constitution]]). Le barbare conserve les points de vie temporaires obtenus grâce à ce pouvoir même s’il décide de souffler. 
 
 {s:APG}{s:Reference|ANIMALTOTEM}
 #### Animal totem (Sur)
@@ -280,7 +280,7 @@ Lorsqu’il est en [[barbare unchained#RAGEDEBERSERKER|rage]], le barbare béné
 #### Animal totem, majeur (Sur)
 **Prérequis** : [[Pouvoirs de rage unchained#ANIMALTOTEM|Animal totem]], niveau 10
 
-Lorsqu’il est en [[barbare unchained#RAGEDEBERSERKER|rage]], le barbare acquiert la capacité spéciale [[Bond (capacité)|bond]] et peut ainsi porter une [[attaque à outrance]] lorsqu’il termine sa [[charge]]. De plus, ses griffes infligent 1d8 points de dégâts (1d6 s’il est de [[taille]] P), triplés sur un [[coup critique]].
+Lorsqu’il est en [[barbare unchained#RAGEDEBERSERKER|rage]], le barbare acquiert la capacité spéciale [[Bond (capacité)|bond]] et peut ainsi porter une [[attaque à outrance]] lorsqu’il termine sa [[charge]]. De plus, ses griffes infligent 1d8 points de dégâts (1d6 s’il est de [[taille]] P), triplés sur un [[coup critique]]. 
 
 {s:APG}{s:Reference|ANIMALTOTEMMINEUR}
 #### Animal totem, mineur (Sur)
@@ -290,7 +290,7 @@ Lorsqu’il est en [[barbare unchained#RAGEDEBERSERKER|rage]], le barbare gagne 
 #### Attaque dominatrice (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#AVANCEDOMINATRICE|Avance dominatrice]], niveau 6
 
-Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare peut [[renversement|renverser]] plus d’une cible par [[round]] s’il accepte une pénalité cumulative de -2 à son [[BMO]] pour chaque [[test]] de [[renversement]] qu’il effectue après le premier.
+Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare peut [[renversement|renverser]] plus d’une cible par [[round]] s’il accepte une pénalité cumulative de -2 à son [[BMO]] pour chaque [[test]] de [[renversement]] qu’il effectue après le premier. 
 
 {s:APG}{s:Reference|AVANCEDOMINATRICE}
 #### Avance dominatrice (Ext)
@@ -320,7 +320,7 @@ Le barbare peut frapper le sol autour de lui par une [[action complexe]]. Cette 
 #### Brise roc supérieur (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#BRISEROC|Brise roc]], niveau 8
 
-Quand il utilise le pouvoir de rage [[Pouvoirs de rage unchained#BRISEROC|brise roc]], le barbare peut augmenter de 1,50 mètre (1 {s:c}) le rayon de l’effet. Il peut sélectionner ce pouvoir de rage jusqu’à trois fois et ses effets se cumulent.
+Quand il utilise le pouvoir de rage [[Pouvoirs de rage unchained#BRISEROC|brise roc]], le barbare peut augmenter de 1,50 mètre (1 {s:c}) le rayon de l’effet. Il peut sélectionner ce pouvoir de rage jusqu’à trois fois et ses effets se cumulent. 
 
 {s:APG}{s:Reference|BUVEURPRODIGIEUX}
 #### Buveur prodigieux (Ext)
@@ -340,13 +340,13 @@ Le barbare peut entrer en rage même quand il est [[fatigué]]. Dans ce cas, il 
 #### Coup handicapant (Ext)
 **Prérequis** : niveau 8
 
-Une fois par jour quand le barbare attaque et touche sa cible, celle-ci subit un [[affaiblissement temporaire]] de 1 point en [[Force]] ou en [[Dextérité]]. L’affaiblissement temporaire infligé augmente de 1 point tous les 4 niveaux de barbare possédés.
+Une fois par jour quand le barbare attaque et touche sa cible, celle-ci subit un [[affaiblissement temporaire]] de 1 point en [[Force]] ou en [[Dextérité]]. L’affaiblissement temporaire infligé augmente de 1 point tous les 4 niveaux de barbare possédés. 
 
 {s:Reference|COUPHEMORRAGIQUE}
 #### Coup hémorragique (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#POSTUREPUISSANTE|Posture puissante]], niveau 8
 
-Quand il utilise le pouvoir de rage [[Pouvoirs de rage unchained#POSTUREPUISSANTE|posture puissante]], le barbare peut effectuer une attaque qui inflige une profonde blessure hémorragique. Une fois par [[round]], l’une de ses attaques inflige un montant de points de dégâts de saignement égal à la moitié du bonus aux dégâts conféré par la posture puissante. Les dégâts de saignement ne se cumulent pas entre eux.
+Quand il utilise le pouvoir de rage [[Pouvoirs de rage unchained#POSTUREPUISSANTE|posture puissante]], le barbare peut effectuer une attaque qui inflige une profonde blessure hémorragique. Une fois par [[round]], l’une de ses attaques inflige un montant de points de dégâts de saignement égal à la moitié du bonus aux dégâts conféré par la posture puissante. Les dégâts de saignement ne se cumulent pas entre eux. 
 
 {s:Reference|COUPINATTENDU}
 #### Coup inattendu (Ext)
@@ -411,7 +411,7 @@ Quand le barbare effectue une manœuvre offensive de [[destruction]] ou une atta
 
 {s:Reference|FUREURANIMALE}
 #### Fureur animale (Ext)
-Le barbare peut effectuer des attaques de morsure. C’est l’[[attaque naturelle]] principale du personnage qui inflige 1d4 points de dégâts (si le barbare est de taille M, 1d3 s’il est de taille P) plus le modificateur de [[Force]] du barbare. Si cette attaque est effectuée au cours d’une [[attaque à outrance]] et accompagnée d’attaques avec des armes manufacturées, l’attaque de morsure est effectuée en appliquant le bonus de base à l’attaque le plus élevé du barbare –5, et il ajoute la moitié seulement de son modificateur de Force aux [[Valeurs de combat#DEGATS|jets de dégâts]].
+Le barbare peut effectuer des attaques de morsure. C’est l’[[attaque naturelle]] principale du personnage qui inflige 1d4 points de dégâts (si le barbare est de taille M, 1d3 s’il est de taille P) plus le modificateur de [[Force]] du barbare. Si cette attaque est effectuée au cours d’une [[attaque à outrance]] et accompagnée d’attaques avec des armes manufacturées, l’attaque de morsure est effectuée en appliquant le bonus de base à l’attaque le plus élevé du barbare –5, et il ajoute la moitié seulement de son modificateur de Force aux [[Valeurs de combat#DEGATS|jets de dégâts]]. 
 
 Le barbare peut effectuer une attaque de morsure au cours d’une action pour maintenir sa prise ou se libérer d’une [[agrippé|étreinte]] en situation de lutte. Si le personnage réussit à frapper sa cible avec son attaque de morsure, les tests de [[lutte]] qu’il effectue contre la cible bénéficient d’un bonus de +2 jusqu’à la fin du [[round]] en cours.
 
@@ -507,13 +507,13 @@ Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare béné
 #### Piétinement féroce (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#MONTUREFEROCE|Monture féroce]], niveau 8
 
-Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]] et sur le dos de sa monture, celle-ci gagne l’attaque spéciale de [[piétinement]], qui inflige 1d8 points de dégâts pour un [[type Animal|animal]] de [[taille]] M, 2d6 points pour un animal de [[taille]] G et 2d8 points pour un animal de [[taille]] TG, plus 1,5 fois le modificateur de [[Force]] de la monture. Ces dégâts peuvent être réduits de moitié en réussissant un jet de [[Réflexes]] ([[DD]] 10 + la moitié du niveau de barbare + le modificateur de [[Force]] de la monture). Les créatures qui se trouvent sur la trajectoire de la monture ou qui contrôlent une zone qu’elle traverse peuvent porter des [[AO|attaques d’opportunité]] sur elle ou son cavalier, mais pas sur les deux.
+Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]] et sur le dos de sa monture, celle-ci gagne l’attaque spéciale de [[piétinement]], qui inflige 1d8 points de dégâts pour un [[type Animal|animal]] de [[taille]] M, 2d6 points pour un animal de [[taille]] G et 2d8 points pour un animal de [[taille]] TG, plus 1,5 fois le modificateur de [[Force]] de la monture. Ces dégâts peuvent être réduits de moitié en réussissant un jet de [[Réflexes]] ([[DD]] 10 + la moitié du niveau de barbare + le modificateur de [[Force]] de la monture). Les créatures qui se trouvent sur la trajectoire de la monture ou qui contrôlent une zone qu’elle traverse peuvent porter des [[AO|attaques d’opportunité]] sur elle ou son cavalier, mais pas sur les deux. 
 
 {s:APG}{s:Reference|PIETINEMENTFEROCEMAJEUR}
 #### Piétinement féroce, majeur (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#MONTUREFEROCE|Monture féroce]], [[Pouvoirs de rage unchained#PIETINEMENTFEROCE|piétinement féroce]], niveau 12
 
-La monture d’un barbare peut piétiner des créatures dont la [[taille]] est inférieure ou égale à la sienne. De plus, elle peut par une [[action libre]] tenter un [[renversement]] sur une créature qui a raté son jet de [[Réflexes]] (ou choisi de ne pas faire de [[jds|jet de sauvegarde]] afin de bénéficier d’une [[AO|attaque d’opportunité]]).
+La monture d’un barbare peut piétiner des créatures dont la [[taille]] est inférieure ou égale à la sienne. De plus, elle peut par une [[action libre]] tenter un [[renversement]] sur une créature qui a raté son jet de [[Réflexes]] (ou choisi de ne pas faire de [[jds|jet de sauvegarde]] afin de bénéficier d’une [[AO|attaque d’opportunité]]). 
 
 {s:Reference|POSTUREDEFENSIVE}
 #### Posture défensive (Ext)
@@ -553,13 +553,13 @@ Le barbare focalise sa férocité. Il gagne un bonus de +1 aux [[Valeurs de comb
 #### Posture régénératrice (Ext)
 **Prérequis** : niveau 4
 
-Le barbare récupère rapidement. Au début de son tour, il récupère 1 point de vie temporaire par tranche de 4 niveaux de barbare (jusqu’à un maximum de 5 points de vie par round), mais ce pouvoir ne lui permet pas de posséder plus de [[pv|points de vie temporaires]] que le total maximum conféré par sa rage. C’est un pouvoir de rage de posture.
+Le barbare récupère rapidement. Au début de son tour, il récupère 1 point de vie temporaire par tranche de 4 niveaux de barbare (jusqu’à un maximum de 5 points de vie par round), mais ce pouvoir ne lui permet pas de posséder plus de [[pv|points de vie temporaires]] que le total maximum conféré par sa rage. C’est un pouvoir de rage de posture. 
 
 {s:Reference|POSTUREVANTARDE}
 #### Posture vantarde (Ext)
 **Prérequis** : niveau 12
 
-Le barbare peut provoquer ses adversaires pour les inciter à le frapper tout en préparant des contre-attaques dévastatrices. Les ennemis gagnent un bonus de +4 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] effectués contre le barbare tant qu’il adopte cette posture, mais chaque attaque effectuée contre le barbare provoque une [[AO|attaque d’opportunité]] de sa part, résolue avant de déterminer l’issue de l’attaque à l’origine de l’opportunité. C’est un pouvoir de rage de posture.
+Le barbare peut provoquer ses adversaires pour les inciter à le frapper tout en préparant des contre-attaques dévastatrices. Les ennemis gagnent un bonus de +4 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] effectués contre le barbare tant qu’il adopte cette posture, mais chaque attaque effectuée contre le barbare provoque une [[AO|attaque d’opportunité]] de sa part, résolue avant de déterminer l’issue de l’attaque à l’origine de l’opportunité. C’est un pouvoir de rage de posture. 
 
 {s:Reference|POURSUITE}
 #### Poursuite (Ext)
@@ -569,7 +569,7 @@ Le barbare peut parcourir jusqu’au double de sa [[VD|vitesse de déplacement]]
 #### Précision affinée (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#POSTUREPRECISE|Posture précise]], niveau 8
 
-Lorsqu’il adopte la [[Pouvoirs de rage unchained#POSTUREPRECISE|posture précise]], le barbare ignore les chances de rater à cause d’un [[camouflage]] et considère le [[camouflage total]] comme un [[camouflage|camouflage normal]]. Il ignore également les malus d’[[abri]], à l’exception du malus d’abri total.
+Lorsqu’il adopte la [[Pouvoirs de rage unchained#POSTUREPRECISE|posture précise]], le barbare ignore les chances de rater à cause d’un [[camouflage]] et considère le [[camouflage total]] comme un [[camouflage|camouflage normal]]. Il ignore également les malus d’[[abri]], à l’exception du malus d’abri total. 
 
 {s:Reference|PRECISIONLETALE}
 #### Précision létale (Ext)
@@ -587,13 +587,13 @@ Si le barbare menace d’infliger un [[coup critique]] en utilisant le pouvoir [
 #### Projectile (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#PROJECTILEMINEUR|Projectile mineur]], niveau 8
 
-Ce pouvoir est en tout point semblable à Projectile mineur, mais le barbare peut en plus augmenter le [[facteur de portée]] à 18 m (12 cases) ou la [[Caractéristiques des armes#TAILLEARME|taille]] de son projectile d’une catégorie.
+Ce pouvoir est en tout point semblable à Projectile mineur, mais le barbare peut en plus augmenter le [[facteur de portée]] à 18 m (12 cases) ou la [[Caractéristiques des armes#TAILLEARME|taille]] de son projectile d’une catégorie. 
 
 {s:APG}{s:Reference|PROJECTILEMAJEUR}
 #### Projectile majeur (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#PROJECTILE|Projectile]], niveau 12
 
-Ce pouvoir est en tout point semblable à [[Pouvoirs de rage unchained#PROJECTILE|projectile]], mais le barbare peut augmenter le [[facteur de portée]] de 27 m (18 {s:c}) ou la [[Caractéristiques des armes#TAILLEARME|taille]] de son projectile de deux catégories.
+Ce pouvoir est en tout point semblable à [[Pouvoirs de rage unchained#PROJECTILE|projectile]], mais le barbare peut augmenter le [[facteur de portée]] de 27 m (18 {s:c}) ou la [[Caractéristiques des armes#TAILLEARME|taille]] de son projectile de deux catégories. 
 
 {s:APG}{s:Reference|PROJECTILEMINEUR}
 #### Projectile mineur (Ext)
@@ -603,7 +603,7 @@ Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]] et par une [[actio
 #### Projectile en charge (Ext)
 **Prérequis** : [[Pouvoirs de rage unchained#PROJECTILEMINEUR|Projectile mineur]], niveau 6
 
-Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]] et qu’il [[charge]], le barbare peut sortir et lancer un projectile, ce qui lui confère le bonus normal de +2 sur cette attaque, mais également sur l’attaque de corps à corps à la fin de la [[charge]]. Le barbare doit se déplacer d'au moins 3 m avant de lancer le projectile et doit parcourir au moins 3 m supplémentaires avant d'effectuer son attaque au corps-à-corps de fin de [[charge]]. Il doit avoir un projectile en main ou une main libre au début de la [[charge]].
+Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]] et qu’il [[charge]], le barbare peut sortir et lancer un projectile, ce qui lui confère le bonus normal de +2 sur cette attaque, mais également sur l’attaque de corps à corps à la fin de la [[charge]]. Le barbare doit se déplacer d'au moins 3 m avant de lancer le projectile et doit parcourir au moins 3 m supplémentaires avant d'effectuer son attaque au corps-à-corps de fin de [[charge]]. Il doit avoir un projectile en main ou une main libre au début de la [[charge]]. 
 
 {s:Reference|PROTECTIONDESPOINTSVITAUX}
 #### Protection des points vitaux (Ext)
@@ -661,7 +661,7 @@ Lorsqu’il est en rage, le barbare gagne deux attaques de griffe considérées 
 
 {s:mca}{s:Reference|SANGABYSSAL}
 #### Sang abyssal (Sur)
-**Prérequis** : Sang abyssal mineur, niveau 6
+**Prérequis** : Sang abyssal mineur, niveau 6 
 
 Une fois par jour quand le barbare entre en rage, il peut choisir d’augmenter sa taille de base d’une catégorie (comme le sort *[[agrandissement]]*, même si le barbare n’est pas humanoïde).
 
@@ -678,7 +678,7 @@ Lorsqu’il est en rage, on considère que ses attaques au corps à corps du bar
 
 {s:mca}{s:Reference|SANGCELESTE}
 #### Sang céleste (Sur)
-**Prérequis** : Sang céleste mineur, niveau 6
+**Prérequis** : Sang céleste mineur, niveau 6 
 
 Lorsqu’il est en rage, le barbare gagne une résistance de 5 contre l’acide et le froid.
 
@@ -694,13 +694,13 @@ Lorsqu’il est en rage et qu’il touche une créature en effectuant une attaqu
 
 {s:mca}{s:Reference|SANGDEMORTVIVANT}
 #### Sang de mort-vivant (Sur)
-**Prérequis** : Sang de mort-vivant mineur, niveau 6
+**Prérequis** : Sang de mort-vivant mineur, niveau 6 
 
-Lorsqu’il est en rage, on considère que toutes les attaques au corps à corps du barbare bénéficient de la propriété spéciale d’arme [[spectrale (propriété)|spectrale]].
+Lorsqu’il est en rage, on considère que toutes les attaques au corps à corps du barbare bénéficient de la propriété spéciale d’arme [[spectrale (propriété)|spectrale]]. 
 
 {s:mca}{s:Reference|SANGDEMORTVIVANTMAJEUR}
 #### Sang de mort-vivant majeur (Sur)
-**Prérequis** : Sang de mort-vivant, niveau 10
+**Prérequis** : Sang de mort-vivant, niveau 10 
 
 Lorsqu’il est en rage, le barbare gagne une résistance au froid 10, ainsi qu’une [[RD]] 10/- contre les dégâts non létaux.
 
@@ -710,7 +710,7 @@ Lorsqu’il est en rage, le barbare gagne deux attaques de griffe considérées 
 
 {s:mca}{s:Reference|SANGDRACONIQUE}
 #### Sang draconique (Sur)
-**Prérequis** : Sang draconique mineur, niveau 6
+**Prérequis** : Sang draconique mineur, niveau 6 
 
 Choisissez un type d’énergie destructive parmi les suivants : acide, électricité, feu ou froid. Lorsqu’il est en rage, le barbare gagne une résistance de 5 contre le type d’énergie destructive choisi et un bonus d’armure naturelle de +1.
 
@@ -726,9 +726,9 @@ Choisissez un type d’énergie destructive : acide, électricité, feu ou froid
 
 {s:mca}{s:Reference|SANGELEMENTAIRE}
 #### Sang élémentaire (Sur)
-**Prérequis** : Sang élémentaire mineur, niveau 6
+**Prérequis** : Sang élémentaire mineur, niveau 6 
 
-Lorsqu’il est en rage, le barbare gagne une résistance aux énergies destructives de 10 contre le type d’énergie choisi lorsqu’il a pris le pouvoir de sang élémentaire mineur.
+Lorsqu’il est en rage, le barbare gagne une résistance aux énergies destructives de 10 contre le type d’énergie choisi lorsqu’il a pris le pouvoir de sang élémentaire mineur. 
 
 {s:mca}{s:Reference|SANGELEMENTAIREMAJEUR}
 #### Sang élémentaire majeur (Sur)
@@ -742,7 +742,7 @@ Quand le barbare est en rage et à chaque fois qu’il confirme un [[coup critiq
 
 {s:mca}{s:Reference|SANGFEERIQUE}
 #### Sang féerique (Sur)
-**Prérequis** : Sang féerique mineur, niveau 6
+**Prérequis** : Sang féerique mineur, niveau 6 
 
 Lorsqu’il est en rage et qu’il [[charge]], le barbare ignore les terrains difficiles (y compris les terrains magiques, mais pas les créatures).
 
@@ -758,7 +758,7 @@ Trois fois par jour, lorsqu’il est en rage et par une [[action rapide]], le ba
 
 {s:mca}{s:Reference|SANGINFERNAL}
 #### Sang infernal (Sur)
-**Prérequis** : Sang infernal mineur, niveau 6
+**Prérequis** : Sang infernal mineur, niveau 6 
 
 Lorsqu’il est en rage, le barbare gagne une résistance au feu 5, ainsi qu’un bonus de +2 aux jets de sauvegarde contre le [[poison]].
 
@@ -808,7 +808,7 @@ Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare béné
 
 {s:APG}{s:Reference|TOTEMDUCHAOSMINEUR}
 #### Totem du chaos, mineur (Sur)
-Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare gagne un bonus de parade de +1 à sa [[CA]] lorsqu’il combat des créatures d’alignement [[Loyal]], et d’un bonus de résistance de +1 sur les [[jds|jets de sauvegarde]] contre la [[confusion]], la folie, le métamorphisme et les effets de la magie du registre [[registre|Loyal]]. Ce bonus augmente de +1 pour chaque pouvoir de rage de totem du chaos que le personnage possède.
+Lorsqu’il est en [[Barbare unchained#RAGEDEBERSERKER|rage]], le barbare gagne un bonus de parade de +1 à sa [[CA]] lorsqu’il combat des créatures d’alignement [[Loyal]], et d’un bonus de résistance de +1 sur les [[jds|jets de sauvegarde]] contre la [[confusion]], la folie, le métamorphisme et les effets de la magie du registre [[registre|Loyal]]. Ce bonus augmente de +1 pour chaque pouvoir de rage de totem du chaos que le personnage possède. 
 
 {s:uc}{s:Reference|TOTEMDUSERPENTMONDE}
 #### Totem du serpent-monde (Sur)

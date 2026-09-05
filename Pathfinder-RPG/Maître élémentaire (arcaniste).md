@@ -26,7 +26,7 @@ Au niveau 9, le maître élémentaire fait passer les dégâts infligés par son
 Au niveau 11, le maître élémentaire reçoit une exploitation d’arcaniste supérieure liée à son élément. S’il a choisi l’air, il gagne l’exploitation d’arcaniste électricité dansante, acide persistant s’il a choisi la terre, feu dévorant s’il a choisi le feu et tombe gelée s’il a choisi l’eau. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 11.
 
 #### Déplacement élémentaire (Sur)
-Au niveau 15, le maître élémentaire gagne un mode de déplacement élémentaire. Cette amélioration dépend de l’élément choisi.
+Au niveau 15, le maître élémentaire gagne un mode de déplacement élémentaire. Cette amélioration dépend de l’élément choisi. 
 - L’air confère une vitesse de vol de 27 mètres (manoeuvrabilité moyenne),
 - la terre une vitesse de creusement de 9 mètres,
 - le feu une augmentation de la vitesse de déplacement de base au sol de 9 mètres

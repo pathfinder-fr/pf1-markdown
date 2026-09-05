@@ -43,9 +43,9 @@ Quand vous faites référence à un volume des *Chroniques des Explorateurs* qui
 {s:BDTitre|Volume 1|{s:Reference|VOLUME1}}
 Le premier volume des Chroniques des Explorateurs (publié pour la première fois en 4317 AR), comporte un récit de l’exploration des ruines de l'Empire des premiers hommes par le fondateur de la Compagnie, les détails de la course d'un prince marchand Explorateur contre une [[Marid|maride]] et un [[Efrit|éfrit]] ainsi que les aventures d'un marin Explorateur dans la Jungle sauvage.
 (((Bonus de compétences)))
-• Améliorer les interactions avec les génies ([[Diplomatie]] et [[Connaissances]] (plans) +2)
-• Meilleure compréhension des constructions grammaticales et des idiomes de la langue des premiers hommes ([[Linguistique]] +2)
-• Circuler dans les forêts denses de la Jungle sauvage ([[Survie]] +2)
+• Améliorer les interactions avec les génies ([[Diplomatie]] et [[Connaissances]] (plans) +2)  
+• Meilleure compréhension des constructions grammaticales et des idiomes de la langue des premiers hommes ([[Linguistique]] +2)  
+• Circuler dans les forêts denses de la Jungle sauvage ([[Survie]] +2)  
 • Comprendre l’histoire de l'Empire des premiers hommes ([[Connaissances]] (histoire) +2)
 </div>
 
@@ -53,7 +53,7 @@ Le premier volume des Chroniques des Explorateurs (publié pour la première foi
 {s:BDTitre|Volume 2|{s:Reference|VOLUME2}}
 Le deuxième volume des Chroniques des Explorateurs comprend la liste de trente-et-une citadelles de siège de la plaine des entourant la ville au Centre du Monde, cataloguées par le fondateur de la Compagnie, ainsi que les notes d'un Explorateur sur sa remontée du plus long fleuve de la Jungle sauvage, en direction d’une fantastique cité de jade qu’il dit avoir découverte à sa source.
 (((Bonus de compétences)))
-• Parcourir les nombreux donjons traîtres situés sous les citadelles de siège de la plaine autour de la Ville au Centre du Monde et en leur sein ([[Connaissances]] (exploration souterraine) +2)
+• Parcourir les nombreux donjons traîtres situés sous les citadelles de siège de la plaine autour de la Ville au Centre du Monde et en leur sein ([[Connaissances]] (exploration souterraine) +2)  
 • Améliorer l’efficacité et la sécurité des voyages sur les cours d’eau ([[Profession]] (marin) +2)
 </div>
 
@@ -61,7 +61,7 @@ Le deuxième volume des Chroniques des Explorateurs comprend la liste de trente-
 {s:BDTitre|Volume 11|{s:Reference|VOLUME11}}
 Quand ce volume a été publié pour la première fois, il contenait une foule d’informations erronées sur les dragons, toutes issues de la plume d'une Exploratrice. Ces erreurs ayant provoqué de nombreuses morts et quantité de blessés chez ceux qui affrontaient des dragons de tous types, elles ont poussé le Conseil à enquêter sur les sources du dragon d'airain auprès duquel elle s'était renseignée (et qui lui avait fourni la majeure partie de ces informations erronées). Ayant jugé ces sources suspectes, ces derniers ont fait corriger le volume, mais des copies de la première version existent encore dans des collections oubliées.
 (((Bonus de compétences)))
-• Meilleure compréhension de la nature et des coutumes des dragons ([[Connaissances]] (mystères) +2)
+• Meilleure compréhension de la nature et des coutumes des dragons ([[Connaissances]] (mystères) +2)  
 • Faire la distinction entre les vérités et les exagérations concernant les sujets ésotériques ([[Psychologie]] +2)
 </div>
 
@@ -70,8 +70,8 @@ Quand ce volume a été publié pour la première fois, il contenait une foule d
 {s:BDTitre|Volume 14|{s:Reference|VOLUME14}}
 Ce volume est le premier à ne contenir que des récits d’exploits que les Explorateurs ont accomplis sur d’autres plans. Il comprend les archives du voyage d'un Explorateurs dans vingt-trois royaumes abyssaux et la liste des hordes démoniaques qui y vivent ; une carte détaillée de la capitale du domaine des éfrits et de ses environs, sur le Plan du feu, tracée par une célèbre cartographe Exploratrice ; et soixante-dix chansons paillardes et poèmes humoristiques qu'un Explorateur a appris pendant les dix années qu’il a passées à la cour d’un puissant satyre du Monde féerique.
 (((Bonus de compétences)))
-• Faire des blagues de mauvais goût ([[Représentation]] (comédie) +2)
-• Identifier des démons et d’autres extérieurs originaires des Abysses ([[Connaissances]] (plans) +2)
+• Faire des blagues de mauvais goût ([[Représentation]] (comédie) +2)  
+• Identifier des démons et d’autres extérieurs originaires des Abysses ([[Connaissances]] (plans) +2)  
 • Se repérer dans l’immense capitale du domaine des éfrits dans le Plan du Feu et dans ses alentours ([[Connaissances]] (géographie) +2)
 </div>
 
@@ -79,7 +79,7 @@ Ce volume est le premier à ne contenir que des récits d’exploits que les Exp
 {s:BDTitre|Volume 27|{s:Reference|VOLUME27}}
 Ce volume a fait beaucoup de bruit à sa sortie car il contient une bonne centaine de pages rassemblant des notes du célèbre fondateur de la Compagnie des Explorateurs, disparu un siècle plus tôt. Bon nombre de ces extraits ne sont que des récits partiels de dangers ou de batailles, sans guère de contexte, mais un chapitre étonnamment complet décrit son périple dans la Calotte glaciaire et ce qu’il y a découvert. Le reste du volume comporte un traité sur les méthodes d’annulation des effets des pièges magiques, rédigé par la maîtresse du Savoir de l’époque.
 (((Bonus de compétences)))
-• Se repérer et suivre une piste dans les environnements arctiques ([[Survie]] +2)
+• Se repérer et suivre une piste dans les environnements arctiques ([[Survie]] +2)  
 • Repérer et désamorcer les pièges magiques avec une célérité impressionnante ([[Sabotage]] +2, [[Perception]] +2)
 </div>
 
@@ -87,8 +87,8 @@ Ce volume a fait beaucoup de bruit à sa sortie car il contient une bonne centai
 {s:BDTitre|Volume 44|{s:Reference|VOLUME44}}
 Ce volume, publié en 4707 AR, est connu pour son récit détaillé de l’exploration des Tréfonds par un [[Agent de terrain des Éclaireurs|Agent de terrain des Explorateurs]]. Elle y confirme que les [[Drow|drows]] des légendes sont bien réels, ce qui a poussé les natifs du Royaume des elfes (qui avaient caché leur existence pendant des millénaires) à proposer des pots-de-vin au Conseil pour qu’il rappelle les ouvrage publiés et les modifie. La Compagnie a refusé et, en quelques années, l’existence des elfes noirs est devenue un fait reconnu. Parmi les autres récits, on trouve un bref essai de la capitaine-aventurière actuelle sur d’antiques reliques de l’ancien Empire du péché.
 (((Bonus de compétences)))
-• Identifier les [[Drow (race)|drows]] et leurs coutumes, leurs faiblesses et leurs tactiques ([[Connaissances]] (folklore local) +2)
-• En apprendre plus sur les artefacts de l'Empire du péché ([[Connaissances]] (histoire) +2)
+• Identifier les [[Drow (race)|drows]] et leurs coutumes, leurs faiblesses et leurs tactiques ([[Connaissances]] (folklore local) +2)  
+• En apprendre plus sur les artefacts de l'Empire du péché ([[Connaissances]] (histoire) +2)  
 • Parcourir les tunnels des Tréfonds et en identifier les occupants ([[Connaissances]] (exploration souterraine) +2 et [[Connaissances]] (géographie) +2)
 </div>
 

@@ -11,16 +11,16 @@ Categories:
 {s:BDTitre|Lame de la mante|{s:AE}}
 **Aura** [[Évocation]] puissante ; **NLS** 20 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1 kg
 (((Caractéristiques)))
-**Alignement** LM ; **Sens** 18 m, vision dans le noir
-**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 14 ; **Ego** 16
+**Alignement** LM ; **Sens** 18 m, vision dans le noir  
+**Intelligence** 10 ; **Sagesse** 12 ; **Charisme** 14 ; **Ego** 16  
 **Langues** télépathie
-**Dessein spécial** tuer tout le monde
-**Pouvoirs magiques** *(NLS 20<sup>e</sup>, concentration +22)*
-: 3/jour — *[[modification dapparence|modification d’apparence]]*, *[[ténèbres]]*, *[[pattes daraignée|pattes d’araignée]]*, *[[coup au but]]*
+**Dessein spécial** tuer tout le monde  
+**Pouvoirs magiques** *(NLS 20<sup>e</sup>, concentration +22)*  
+: 3/jour — *[[modification dapparence|modification d’apparence]]*, *[[ténèbres]]*, *[[pattes daraignée|pattes d’araignée]]*, *[[coup au but]]*  
 : 1/jour — *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[ténèbres profondes]]*, *[[porte dimensionnelle]]*, *[[invisibilité suprême]]*
 (((Description)))
-La *lame de la mante* est un [[sabre dentelé (arme)|sabre dentelé]] *[[axiomatique (propriété)|axiomatique]]* +2 [[objets intelligents|intelligent]] fait d’une chitine rouge qui forme une lame courbe dentelée. Elle permet à son propriétaire de faire une [[attaque sournoise]] de +1d6. Cette capacité fonctionne exactement comme le pouvoir de [[roublard]] du même nom et se cumule avec tous les bonus d’[[attaque sournoise]] que peut avoir le porteur.
+La *lame de la mante* est un [[sabre dentelé (arme)|sabre dentelé]] *[[axiomatique (propriété)|axiomatique]]* +2 [[objets intelligents|intelligent]] fait d’une chitine rouge qui forme une lame courbe dentelée. Elle permet à son propriétaire de faire une [[attaque sournoise]] de +1d6. Cette capacité fonctionne exactement comme le pouvoir de [[roublard]] du même nom et se cumule avec tous les bonus d’[[attaque sournoise]] que peut avoir le porteur.  
 Quand une créature est blessée avec cette lame, le porteur peut, par une [[action rapide]], activer la propriété spéciale *[[tueuse (propriété)|tueuse]]* de l’arme (ce qui lui donne un bonus d’altération supplémentaire de +2 et lui fait infliger 2d6 points de dégâts supplémentaires, mais uniquement contre les créatures du même type que celle qui a été touchée). La propriété tueuse dure dix minutes et n’est utilisable qu’une fois par jour. Consacrée pour le culte de l’assassin divin, la *lame de la mante* accorde également des bonus aux [[assassin des mantes rouges|assassin pourpre]] qui la manient. Un [[assassin des mantes rouges|assassin pourpre]] maniant la *lame de la mante* gagne un bonus de +2 au [[DD]] de ses [[assassin des mantes rouges#ATTAQUEDELAMANTE|attaques de la mante]] et peut utiliser ses pouvoirs [[assassin des mantes rouges#LINCEULÉCARLATE|linceul écarlate]] et [[assassin des mantes rouges#SESTOMPER|s’estomper]] une fois de plus par jour.
 (((Destruction)))
-Si un même porteur utilise la *lame de la mante* pour tuer neuf monarques légitimes, l’arme peut alors être détruite grâce à une manœuvre de [[destruction|destruction d’arme]] réussie.
+Si un même porteur utilise la *lame de la mante* pour tuer neuf monarques légitimes, l’arme peut alors être détruite grâce à une manœuvre de [[destruction|destruction d’arme]] réussie. 
 </div>

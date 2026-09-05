@@ -15,6 +15,6 @@ Categories:
 **Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/2 [[niveau|niveaux]])  
 **Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Cette incantation génère un état de résonance destructeur dans le corps de la cible. Chaque round que le [[prêtre]] passe à se [[concentration|concentrer]] (y compris le premier), il inflige 10 points de dégâts par [[niveau de lanceur de sorts]] à une créature en provoquant son implosion. Si le personnage perd sa [[concentration]], le sort se termine immédiatement mais les créatures qui ont déjà commencé à imploser continuent de s’effondrer sur elles-mêmes. Le personnage ne peut pas affecter la même créature à plusieurs reprises au cours d’une même utilisation de ce sort.
+Cette incantation génère un état de résonance destructeur dans le corps de la cible. Chaque round que le [[prêtre]] passe à se [[concentration|concentrer]] (y compris le premier), il inflige 10 points de dégâts par [[niveau de lanceur de sorts]] à une créature en provoquant son implosion. Si le personnage perd sa [[concentration]], le sort se termine immédiatement mais les créatures qui ont déjà commencé à imploser continuent de s’effondrer sur elles-mêmes. Le personnage ne peut pas affecter la même créature à plusieurs reprises au cours d’une même utilisation de ce sort. 
 
 *Implosion* est sans effet sur les créatures [[intangible|intangibles]] ou celles qui se trouvent en [[état gazeux]].

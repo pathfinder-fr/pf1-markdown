@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 1 kg
+{s:AE}**Prix** 5 pa ; **Poids** 1 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Si le personnage utilise un marteau en combat, il le traite comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gantelet clouté (arme)|gantelet clouté]] de même taille.

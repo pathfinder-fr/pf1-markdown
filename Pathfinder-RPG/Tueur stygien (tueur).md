@@ -27,7 +27,7 @@ Au niveau 10, un tueur stygien peut se transformer en un nuage de brume noire co
 #### Talents de tueur
 Les talents de tueur (et les talents de roublard) suivants viennent compléter l’archétype de tueur stygien
 
-attaque sanglante, attaque sournoise puissante, attaque surprise, empoisonnement rapide, mouvement à quatre pattes, poison persistant, réactions lentes, utilisation des poisons*.
+attaque sanglante, attaque sournoise puissante, attaque surprise, empoisonnement rapide, mouvement à quatre pattes, poison persistant, réactions lentes, utilisation des poisons*. 
 
 Les talents de tueur signalés par un astérisque [[*]] sont présentés dans la description de la classe de tueur.
 

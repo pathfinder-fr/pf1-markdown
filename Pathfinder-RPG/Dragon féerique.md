@@ -49,7 +49,7 @@ Categories:
 Les dragons féeriques sont apparentés aux pseudodragons. Ce sont de joyeux farceurs qui passent l’essentiel de leur temps à faire des blagues. Bien que la plupart de ces blagues soient spontanées, certains dragons passent des mois, voire même des années, à préparer une farce vraiment spectaculaire. Nous conseillons aux voyageurs qui traversent une région occupée par ces plaisantins bienveillants (mais parfois agaçants) de bien surveiller leurs affaires s’ils ne veulent pas être victimes de toutes sortes de désagréments : chevaux peinturlurés au jus de baie, fourmis dans les duvets et vêtements accrochés en haut des arbres, par exemple.
 
 Contrairement aux véritables dragons, les dragons féeriques ne grandissent pas en vieillissant, mais leurs écailles changent de couleur. Elles sont tout d’abord rouges et traversent ensuite tout le spectre de l’arc en ciel pour finir d’un violet sombre quand le dragon est très âgé. Le niveau de lanceur de sorts d’un dragon féerique augmente avec l’âge (il gagne généralement des niveaux d’ensorceleur) et il apprend des sorts plus puissants pour accompagner ses
-pouvoirs innés.
+pouvoirs innés. 
 
 Quoiqu’il en soit, les dragons féeriques apprennent toujours des sorts qui les aideront à faire des farces (ils aiment tout particulièrement les sorts d’illusion et d’enchantement). Les dragons féeriques évitent le combat à moins qu’ils n’y soient contraints ou que leur petite communauté arboricole ne soit menacée. Si le dragon est obligé de se battre, il essaie de semer la confusion chez ses ennemis plutôt que de les tuer et utilise ses sorts et son souffle afin de les affaiblir et de les disperser avant de s’enfuir.
 

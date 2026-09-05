@@ -9,12 +9,12 @@ Categories:
 - Sort prêtre 2
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[paladin|Pal]] 2, [[prêtre|Prê]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature
-**Durée** 10 minutes/niveau
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[paladin|Pal]] 2, [[prêtre|Prê]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature  
+**Durée** 10 minutes/niveau  
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 *Ce sort est réservé aux personnages qui vénèrent la déesse naine de l'amour.*

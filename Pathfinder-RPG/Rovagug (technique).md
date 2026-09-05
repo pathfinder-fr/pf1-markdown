@@ -36,13 +36,13 @@ Briser un assortiment d'objets d'une valeur d'au moins 10 po, de préférence de
 : **3.** ***Choc désintégrateur (Mag).*** Une fois par jour, le personnage peut canaliser une une infime partie de la haine de Rovagug à travers son arme, recréant les effets d'une *[[désintégration]]*. Il doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Si l'attaque touche, la cible est affectée comme si elle avait été la cible d'une *désintégration* lancée par un [[magicien]] d'un niveau égal au nombre de [[DV|Dés de vie]] du personnage (maximum 20). Si l'attaque rate, l'effet de *désintégration* est gâché.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[adepte]]/[[antipaladin]]/[[druide]]/[[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[adepte]]/[[antipaladin]]/[[druide]]/[[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
 • *[[Métamorphose funeste]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres III]].* [[Étrangleur]] - CM ([[sous-type extraplanaire|extraplanaire]])
-• *[[Convocation de monstres V]].* [[Babélien]] - CM ([[sous-type extraplanaire|extraplanaire]])
-• *[[Convocation de monstres V]].* [[Grick]] [[Archétypes#CREATUREFIELONNE|fiélon]] - NM
+**Convocations étendues.**  
+• *[[Convocation de monstres III]].* [[Étrangleur]] - CM ([[sous-type extraplanaire|extraplanaire]])  
+• *[[Convocation de monstres V]].* [[Babélien]] - CM ([[sous-type extraplanaire|extraplanaire]])  
+• *[[Convocation de monstres V]].* [[Grick]] [[Archétypes#CREATUREFIELONNE|fiélon]] - NM  
 • *[[Convocation de monstres VII]].* [[Emkrah]] - CM
 
 #### Code de conduite de l'antipaladin
@@ -56,5 +56,5 @@ Les [[Antipaladin|antipaladins]] de Rovagug recherchent le Grand Réveil de leur
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

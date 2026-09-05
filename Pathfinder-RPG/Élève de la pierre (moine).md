@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:Menuarchétypemoine}{s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
-*En suivant la voie de la pierre, les élèves renoncent à l’essentiel de la mobilité des moines pour la vraie résistance.*
+*En suivant la voie de la pierre, les élèves renoncent à l’essentiel de la mobilité des moines pour la vraie résistance.* 
 
 #### Dur comme la pierre (Ext)
 Au niveau 2, lorsqu’un adversaire fait un jet de confirmation sur un [[coup critique]] contre un élève de la pierre, la [[CA]] de l’élève est considérée comme supérieure à la normale de +4. Cette capacité remplace [[moine#ESQUIVETOTALE|esquive totale]].

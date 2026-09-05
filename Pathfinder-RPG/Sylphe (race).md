@@ -21,7 +21,7 @@ Enfants des descendants d’humains et d’êtres élémentaires de l’air comm
 
 **Aventuriers.** Le besoin inné des sylphes à aller au fond des choses conduit nombre d’entre eux à vivre une vie d’aventurier. Un sylphe qui tombe sur la piste d’un mystère ne trouvera pas le repos tant qu’il n’aura pas découvert jusqu’au dernier indice, suivi chaque piste et découvert le coeur même du problème. Ces sylphes se font beaucoup d’ennemis en fouinant dans les affaires des autres et s’en remettent souvent à leurs talents de roublard ou de magicien pour se défendre.
 
-**Noms masculins.** Akaash, Eydan, Hanuum, Siival, Vasaam.
+**Noms masculins.** Akaash, Eydan, Hanuum, Siival, Vasaam.  
 **Noms féminins.** Inam, Keeya, Lissi, Nava, Radaya, Téna.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -88,7 +88,7 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 
 {s:MR}**[[Prêtre]].** Le prêtre rajoute un bonus de 1/2 à ses jets de [[Connaissances]] (plans) relatifs au Plan de l'Air et aux créatures avec le sous-type [[sous-type Air|Air]].
 
-{s:MR}**[[Roublard]].** Le roublard rajoute un bonus de 1/2 à ses jets d'[[Acrobaties]] pour sauter, ainsi qu'un bonus de 1/2 à ses jets de [[Psychologie]].
+{s:MR}**[[Roublard]].** Le roublard rajoute un bonus de 1/2 à ses jets d'[[Acrobaties]] pour sauter, ainsi qu'un bonus de 1/2 à ses jets de [[Psychologie]]. 
 
 {s:MR}**[[Sorcière]].** La sorcière rajoute un bonus de 1/2 aux jets de [[Discrétion]] et de [[Perception]] effectués par son [[Sorcière#FAMILIERDELASORCIERE|familier]]. Si le sylphe remplace son familier, le nouveau familier bénéficie également de ces bonus de compétences.
 </td></tr></table>

@@ -36,31 +36,31 @@ La Fleur de l'Aube apprécie les pouvoirs rédempteurs de la compassion et de la
 : **3.** ***Frappe du rayon solaire (Mag).*** Une fois par jour, le personnage peut canaliser les effets de *[[explosion de lumière]]* à travers son arme. Le personnage doit déclarer l'utilisation de cette capacité avant d'effectuer son [[jet dattaque|jet d'attaque]]. Si l'attaque touche, la cible est affectée comme si le personnage avait lancé *explosion de lumière*, en plus de subir les dégâts normaux de l'arme. L'effet d‘*explosion de lumière* généré n'affecte que la cible touchée par l'attaque, pas une zone d'effet comme c'est habituellement le cas. Si l'attaque rate, l'effet d‘*explosion de lumière* est gâché.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Explosion de lumière]]* peut être préparé comme un sort de 6e niveau.
-• *[[Lame de feu]]* peut être préparé comme un sort de 3e niveau.
-• *[[Métal solaire]]* peut être préparé comme un sort de 1er niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Explosion de lumière]]* peut être préparé comme un sort de 6e niveau.  
+• *[[Lame de feu]]* peut être préparé comme un sort de 3e niveau.  
+• *[[Métal solaire]]* peut être préparé comme un sort de 1er niveau.  
 • *[[Rayon de soleil]]* peut être préparé comme un sort de 5e niveau.
 
-**Lancement de sorts ([[paladin]]).**
-• *[[Lame de feu]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[paladin]]).**  
+• *[[Lame de feu]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Rayon de soleil]]* peut être préparé comme un sort de 4e niveau.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
-• *[[Explosion de lumière]]* peut être préparé comme un sort de 8e niveau.
-• *[[Lame de feu]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
+• *[[Explosion de lumière]]* peut être préparé comme un sort de 8e niveau.  
+• *[[Lame de feu]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Rayon de soleil]]* peut être préparé comme un sort de 7e niveau.
 
-**Lancement de sorts ([[rôdeur]]).**
-• *[[Lame de feu]]* peut être préparé comme un sort de 2e niveau.
-• *[[Lumière du jour]]* peut être préparé comme un sort de 3e niveau.
+**Lancement de sorts ([[rôdeur]]).**  
+• *[[Lame de feu]]* peut être préparé comme un sort de 2e niveau.  
+• *[[Lumière du jour]]* peut être préparé comme un sort de 3e niveau.  
 • *[[Rayon de soleil]]* peut être préparé comme un sort de 4e niveau.
 
-**Convocations étendues.**
-• *[[Convocation dalliés naturels VII|Convocation d'alliés naturels VII]].* [[Djinn]] - NB
-• *[[Convocation dalliés naturels VIII|Convocation d'alliés naturels VIII]].* [[Efrit]] - LB (racheté ; sans le pouvoir magique *[[souhait]]*)
-• *[[Convocation de monstres VI]].* [[Jann]] - NB
-• *[[Convocation de monstres VII]].* [[Djinn]] - NB
+**Convocations étendues.**  
+• *[[Convocation dalliés naturels VII|Convocation d'alliés naturels VII]].* [[Djinn]] - NB  
+• *[[Convocation dalliés naturels VIII|Convocation d'alliés naturels VIII]].* [[Efrit]] - LB (racheté ; sans le pouvoir magique *[[souhait]]*)  
+• *[[Convocation de monstres VI]].* [[Jann]] - NB  
+• *[[Convocation de monstres VII]].* [[Djinn]] - NB  
 • *[[Convocation de monstres VIII]].* [[Efrit]] - LB (racheté ; sans le pouvoir magique *[[souhait]]*)
 
 #### Code de conduite du paladin
@@ -76,5 +76,5 @@ Les [[Paladin|paladins]] de la Fleur de l'Aube sont de féroces guerriers, à l'
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

@@ -12,7 +12,7 @@ Categories:
 
 **Formation nécessaire** : oui
 
-*Le personnage connaît les ficelles d’une profession en particulier.*
+*Le personnage connaît les ficelles d’une profession en particulier.* 
 
 Tout comme les compétences d’[[Artisanat]], de [[Connaissances]] et de [[Représentation]], la compétence de Profession regroupe plusieurs spécialisations différentes. Le personnage peut posséder plusieurs professions et investir des points de compétence séparément dans chacune d’elles. Alors que les formes d’Artisanat permettent de fabriquer des objets, celles de Profession représentent les aptitudes du personnage dans des domaines nécessitant des connaissances plus variées mais moins spécialisées. Les formes de Profession les plus courantes sont les suivantes :
 

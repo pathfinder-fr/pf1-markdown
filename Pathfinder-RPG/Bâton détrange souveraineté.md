@@ -12,30 +12,30 @@ Categories:
 {s:BDTitre|Bâton d’étrange souveraineté|{s:CMy}}
 **Aura** Variable puissante ; **NLS** 20 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** [[Artefacts|artefact]] ; **Poids** 2,5 kg
 (((Description)))
-Semblable au *[[bâton de thaumaturge]]*, ce long bâton en ivoire est incrusté de sceaux de platine et brûle d’un feu étrange quand on fait appel à ses pouvoirs. Contrairement à un bâton ordinaire, le *bâton d’étrange souveraineté* contient 50 charges et ne peut pas se recharger normalement. Certains de ces pouvoirs consomment des charges, d’autres non. Il ne perd pas ses pouvoirs s’il n’a plus de charges. Voici les pouvoirs qui ne dépensent pas de charge :
-• *[[Armure de mage]]*
-• *[[Déblocage]]*
-• *[[Idiotie]]*
-• *[[Lumière du jour]]*
-• *[[Manipulation à distance]]*
-• *[[Verrou du mage]]*
+Semblable au *[[bâton de thaumaturge]]*, ce long bâton en ivoire est incrusté de sceaux de platine et brûle d’un feu étrange quand on fait appel à ses pouvoirs. Contrairement à un bâton ordinaire, le *bâton d’étrange souveraineté* contient 50 charges et ne peut pas se recharger normalement. Certains de ces pouvoirs consomment des charges, d’autres non. Il ne perd pas ses pouvoirs s’il n’a plus de charges. Voici les pouvoirs qui ne dépensent pas de charge :  
+• *[[Armure de mage]]*  
+• *[[Déblocage]]*  
+• *[[Idiotie]]*  
+• *[[Lumière du jour]]*  
+• *[[Manipulation à distance]]*  
+• *[[Verrou du mage]]*  
 • *[[Vision magique]]*
 
-Voici les pouvoirs qui dépensent 1 charge par utilisation :
-• *[[Tentacules noirs]]*
-• *[[Dissipation suprême]]*
-• *[[Invisibilité suprême]]*
-• *[[Téléportation suprême]]*
-• *[[Image accomplie]]* ([[Volonté]] [[DD]] 18 pour percer à jour)
-• *[[Suggestion]]* (Volonté DD 18 pour annuler)
-• *[[Cône de froid]]* (15d6 dégâts, [[Réflexes]] DD 20 1/2 dégâts)
-• *[[Boule de feu]]* (10d6 dégâts, Réflexes DD 18 1/2 dégâts)
+Voici les pouvoirs qui dépensent 1 charge par utilisation :  
+• *[[Tentacules noirs]]*  
+• *[[Dissipation suprême]]*  
+• *[[Invisibilité suprême]]*  
+• *[[Téléportation suprême]]*  
+• *[[Image accomplie]]* ([[Volonté]] [[DD]] 18 pour percer à jour)  
+• *[[Suggestion]]* (Volonté DD 18 pour annuler)  
+• *[[Cône de froid]]* (15d6 dégâts, [[Réflexes]] DD 20 1/2 dégâts)  
+• *[[Boule de feu]]* (10d6 dégâts, Réflexes DD 18 1/2 dégâts)  
 • *[[Arc électrique]]* (15d6 dégâts, Réflexes DD 20 1/2 dégâts)
 
-Voici les pouvoirs qui consomment 2 charges par utilisation :
-• *[[Changement de plan]]* (Volonté DD 22 pour annuler, arrivée de 3 à 300 kilomètres de la destination voulue)
-• *[[Convocation de monstres IX]]* (les créatures invoquées profitent des avantages du don [[Amélioration des créatures convoquées]])
-• *[[Rayons prismatiques]]* (DD 22)
+Voici les pouvoirs qui consomment 2 charges par utilisation :  
+• *[[Changement de plan]]* (Volonté DD 22 pour annuler, arrivée de 3 à 300 kilomètres de la destination voulue)  
+• *[[Convocation de monstres IX]]* (les créatures invoquées profitent des avantages du don [[Amélioration des créatures convoquées]])  
+• *[[Rayons prismatiques]]* (DD 22)  
 • *[[Sphère prismatique]]* (DD 24)
 
 Pour 5 charges, le *bâton d’étrange souveraineté* crée un *[[portail]]*.

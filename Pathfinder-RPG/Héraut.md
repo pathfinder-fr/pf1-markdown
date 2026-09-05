@@ -16,34 +16,34 @@ Categories:
 | Niveau || BBA || Réflexes || Vigueur || Volonté
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1
+| 1 || +1 || +0 || +1 || +1 
 | CLASS="gauche" | 1er [[Héraut#ORDREEXALTANT|ordre exaltant]] (+1), [[Héraut#SCIENCEDUPRESTIGE|science du prestige]], [[Héraut#VOIXDELAUTORITE|voix de l’autorité]]
 |- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
+| 2 || +2 || +1 || +1 || +1 
 | CLASS="gauche" | [[Héraut#MARCHEAISEE|Marche aisée]]
 |-
-| 3 || +3 || +1 || +2 || +2
+| 3 || +3 || +1 || +2 || +2 
 | CLASS="gauche" | 2e [[Héraut#ORDREEXALTANT|ordre exaltant]]
 |- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2
+| 4 || +4 || +1 || +2 || +2 
 | CLASS="gauche" | [[Héraut#ORDREEXALTANT|Ordre exaltant]] (+2), [[Héraut#INSPIRATIONGLORIEUSE|inspiration glorieuse]]
 |-
-| 5 || +5 || +2 || +3 || +3
+| 5 || +5 || +2 || +3 || +3 
 | CLASS="gauche" | 3e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BANNIERE|bannière]]
 |- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3
+| 6 || +6 || +2 || +3 || +3 
 | CLASS="gauche" | [[Héraut#DONDETRAVAILENEQUIPE|Don de travail en équipe]]
 |-
-| 7 || +7 || +2 || +4 || +4
+| 7 || +7 || +2 || +4 || +4 
 | CLASS="gauche" | 4e [[Héraut#ORDREEXALTANT|ordre exaltant]] (+3), [[Héraut#DEFIEPROUVANT|défi éprouvant]]
 |- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4
+| 8 || +8 || +3 || +4 || +4 
 | CLASS="gauche" | [[Héraut#ORDRESPERSISTANTS|Ordres persistants]]
 |-
-| 9 || +9 || +3 || +5 || +5
+| 9 || +9 || +3 || +5 || +5 
 | CLASS="gauche" | 5e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BAROUDDHONNEUR|baroud d’honneur]]
 |- CLASS="alt"
-| 10 || +10 || +3 || +5 || +5
+| 10 || +10 || +3 || +5 || +5 
 | CLASS="gauche" | [[Héraut#ORDRESCOMPLEXES|Ordres complexes]], [[Héraut#ORDREEXALTANT|ordre exaltant]] (+4)
 |}
 

@@ -7,8 +7,8 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}*L'énergie positive du personnage transforme ceux qu'il soigne en véritables pionniers.*
+{s:cs}{s:ISG}*L'énergie positive du personnage transforme ceux qu'il soigne en véritables pionniers.* 
 
-**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, suivant de [[Desna (technique)|Desna]]
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, suivant de [[Desna (technique)|Desna]] 
 
 **Avantage.** Une fois par jour, lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive, il peut permettre aux créatures soignées d'ignorer les [[terrain difficile|terrains difficiles]] pendant un nombre de minutes égal à son modificateur de [[Charisme]] (minimum 1 minute).

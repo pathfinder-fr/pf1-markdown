@@ -51,13 +51,13 @@ Ces diables effrayants et sadiques sont fort appréciés des fiélons plus
 puissants pour leur dévouement sans faille envers les lois de l’Enfer et
 les ordres de leurs maîtres. Les osyluths n’hésitent pas à dénoncer les
 diables désobéissants, quel que soit leur rang, et ont érigé la torture
-en une forme d’art macabre.
+en une forme d’art macabre. 
 
 Les diabolistes prennent de grands
 risques en passant des marchés avec les osyluths, car ces derniers
 collectent de nombreux secrets infernaux dans les ruches calcifiées
 cauchemardesques où ils pratiquent la torture. Les osyluths aiment
-beaucoup voyager vers le plan des mortels.
+beaucoup voyager vers le plan des mortels. 
 
 En utilisant leur don pour
 la cruauté ou en se mettant au service de lanceurs de sorts maléfiques,

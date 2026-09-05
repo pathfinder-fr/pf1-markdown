@@ -10,7 +10,7 @@ Categories:
 
 Ce fleuve de l'est du [[Garund]] débute son cours dans la [[Chaîne Brisée]], aux confins du Grand Duché d'[[Alkenastre]].
 
-Durant des années innombrables, et sous l'action de l'érosion, un profond canyon a été creusé par le fleuve et de nombreuses cascades sont présentes au début de son parcours.
+Durant des années innombrables, et sous l'action de l'érosion, un profond canyon a été creusé par le fleuve et de nombreuses cascades sont présentes au début de son parcours. 
 
 La plus impressionnante, et la plus connue, de ces cascades est appelée Cascade d'Alken. Sur son bord supérieur s'étend la ville d'[[Golarion.Alkenastre Ville|Alkenastre]]. A ses pieds, au bout d'une chute vertigineuse de 250 mètres, le fleuve borde la petite ville de [[Martel]].
 

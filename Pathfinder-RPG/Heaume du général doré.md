@@ -8,13 +8,13 @@ LastModified: 2024-06-03 17:33
 {s:BDTitre|Heaume du général doré|{s:AE}}
 **Aura** [[école divination|Divination]] puissante  ; **NLS** 13 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 62 200 po ; **Poids** 1,5 kg
 (((Caractéristiques)))
-**Alignement** NB ; **Sens** 9 m
-**Intelligence** 14 ; **Sagesse** 16 ; **Charisme** 14 ; **Ego** 14
+**Alignement** NB ; **Sens** 9 m  
+**Intelligence** 14 ; **Sagesse** 16 ; **Charisme** 14 ; **Ego** 14  
 **Langues** parole (commun et 4 autres langues)
 (((Description)))
-Ce casque doré incrusté de gemmes fonctionne comme une [[couronne de conquérant]] et permet à son propriétaire d’utiliser trois [[dons de spectacle]] ou [[dons déquipe|de travail en équipe]] comme s’il les avait appris. Il faut choisir ces dons lors de la création du heaume et il n’est plus possible de les modifier par la suite. Il faut porter le casque pendant 24 heures pour bénéficier de ces dons.
-De plus, le heaume parle à travers le rubis incrusté au-dessus de la protection nasale. Il connaît le commun et quatre autres langues. Ces casques sont toujours très confiants, voire arrogants. Ils aiment commenter les batailles, louer les actes héroïques, souligner des erreurs tactiques et donner des conseils martiaux à leur propriétaire et ses alliés. Voici ses autres pouvoirs.
-• Trois fois par jour, il peut lancer *[[coup au but]]* sur son propriétaire ou un allié situé à 9 mètres ou moins.
+Ce casque doré incrusté de gemmes fonctionne comme une [[couronne de conquérant]] et permet à son propriétaire d’utiliser trois [[dons de spectacle]] ou [[dons déquipe|de travail en équipe]] comme s’il les avait appris. Il faut choisir ces dons lors de la création du heaume et il n’est plus possible de les modifier par la suite. Il faut porter le casque pendant 24 heures pour bénéficier de ces dons.  
+De plus, le heaume parle à travers le rubis incrusté au-dessus de la protection nasale. Il connaît le commun et quatre autres langues. Ces casques sont toujours très confiants, voire arrogants. Ils aiment commenter les batailles, louer les actes héroïques, souligner des erreurs tactiques et donner des conseils martiaux à leur propriétaire et ses alliés. Voici ses autres pouvoirs.  
+• Trois fois par jour, il peut lancer *[[coup au but]]* sur son propriétaire ou un allié situé à 9 mètres ou moins.  
 • Trois fois par jour, il peut tenter de démoraliser tous les ennemis dans un rayon de 9 mètres, par une [[action libre]], comme s’il utilisait la compétence d’[[Intimidation]], avec un bonus de +17.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], connaissance des [[dons de spectacle]] ou

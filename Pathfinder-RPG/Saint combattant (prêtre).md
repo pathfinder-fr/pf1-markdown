@@ -14,7 +14,7 @@ Categories:
 Le saint combattant ne choisit qu’un [[domaine]] et obtient un sort de moins que les [[prêtre|prêtres]] ordinaires quand il monte de [[niveau]]. Si ce changement fait passer son nombre de sorts à 0 pour un niveau donné, il lance uniquement les sorts de domaine ou ceux que lui accorde son bonus de [[Sagesse]].
 
 #### Don supplémentaire
-Le saint combattant gagne un don supplémentaire au niveau 1 puis au niveau 5 et ensuite tous les cinq niveaux (avec un maximum de six au niveau 20).
+Le saint combattant gagne un don supplémentaire au niveau 1 puis au niveau 5 et ensuite tous les cinq niveaux (avec un maximum de six au niveau 20). 
 - Au niveau 1, il doit les choisir dans la liste suivante : [[Arme de prédilection]]*, [[Art du bouclier]], [[Bouclier salvateur]], [[Maniement dune arme de guerre|Maniement des armes de guerre]], [[Maniement du pavois]], [[Port des armures lourdes]], [[Science du coup de bouclier]].
 - À partir du niveau 10, il a également accès à : [[Arme de prédilection supérieure]]*, [[Art du bouclier supérieur]], [[Frappe du bouclier]], [[Maniement dune arme exotique|Maniement des armes exotiques]], [[Science du critique]]*, [[Spécialisation au bouclier]]*, [[Spécialisation martiale]]*.
 - Au niveau 20, le saint combattant peut aussi choisir entre [[Spécialisation supérieure aux boucliers|Spécialisation supérieure au bouclier]] et [[Spécialisation martiale supérieure]]*.

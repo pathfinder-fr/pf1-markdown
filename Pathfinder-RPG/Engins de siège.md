@@ -71,7 +71,7 @@ Voici l’explication des diverses entrées des tables d’équipement des engin
 
 {s:Reference|CHARGEMENT}**Chargement.** Cette colonne indique le nombre d’[[action complexe|actions complexes]] nécessaires pour charger l’arme de siège (ou d’actions de mouvement si le chef d’équipe possède le don [[Maître ingénieur de siège]]).
 
-{s:Reference|VITESSE}**Vitesse.** C’est la vitesse de déplacement de l’arme quand toute son équipe fait une [[action de mouvement]].
+{s:Reference|VITESSE}**Vitesse.** C’est la vitesse de déplacement de l’arme quand toute son équipe fait une [[action de mouvement]]. 
 
 {s:Reference|ENGINSADISTANCE}
 ### Engins de siège à distance

@@ -10,12 +10,12 @@ Categories:
 {s:BDTitre|Bâton d’enchantement|}
 **Aura** [[Enchantement]] puissant ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
-Souvent constitué du bois d’un pommier et surmonté d’un cristal transparent, ce bâton permet de lancer les sorts suivants :
-• *[[brume mentale]]* (2 charges)
-• *[[désespoir foudroyant]]* (2 charges)
-• *[[fou rire]]* (1 charge)
-• *[[sommeil]]* (1 charge)
-• *[[suggestion]]* (1 charge)
+Souvent constitué du bois d’un pommier et surmonté d’un cristal transparent, ce bâton permet de lancer les sorts suivants :  
+• *[[brume mentale]]* (2 charges)  
+• *[[désespoir foudroyant]]* (2 charges)  
+• *[[fou rire]]* (1 charge)  
+• *[[sommeil]]* (1 charge)  
+• *[[suggestion]]* (1 charge)  
 • *[[suggestion de groupe]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[brume mentale]]*, *[[désespoir foudroyant]]*, *[[fou rire]]*, *[[sommeil]]*, *[[suggestion]]*, *[[suggestion de groupe]]* ; **Coût** 41 000 po

@@ -18,14 +18,14 @@ Vous êtes un tortionnaire aguerri, un ritualiste chevronné dans l'art sacrific
 **Avantage.** Lorsque vous êtes amené à porter le coup de grâce, le multiplicateur de critique de vos armes est augmenté de 1. Lorsqu'une de ces attaques inflige des dégâts excessifs, la difficulté du jet de sauvegarde est augmenté de 5.
 
 #### Savoir-vivre diabolique
-Vous maîtrisez les subtilités des us et coutumes des Enfers et la manière de converser avec les diables et les adeptes infernaux.
+Vous maîtrisez les subtilités des us et coutumes des Enfers et la manière de converser avec les diables et les adeptes infernaux. 
 
 **Conditions.** Connaissance (noblesse) 5 rangs et Connaissance (plans) 5 rangs
 
 **Avantage.** Vous obtenez un bonus de +2 sur les capacités basées sur le Charisme et sur les tests de compétences contre les diables, ainsi qu'un bonus de +2 sur les jets de sauvegarde contre les sorts, les pouvoirs surnaturels et les pouvoirs magiques des diables. Les diables souffrent d'une pénalité de -2 sur les jets de sauvegardes contre vos sorts et pouvoirs magiques avec le registre langage adéquat du language ou qui sont renforcés par la connaissance du véritable nom.
 
 #### Onction Impie
-Vous invoquez une bénédiction diabolique sur vous-même ou sur autrui.
+Vous invoquez une bénédiction diabolique sur vous-même ou sur autrui. 
 
 **Conditions.** Connaissance (plans) 1 rang. Aura maléfique, soit en se basant sur l'aura, soit en possédant au moins 5 dés de vie et un alignement mauvais.
 

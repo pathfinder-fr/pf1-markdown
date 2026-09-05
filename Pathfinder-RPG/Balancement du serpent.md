@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Science du combat à mains nues]], [[École du serpent]], 3 rangs en [[Acrobaties]] , 6 rangs en [[Psychologie]]
+**Conditions.** [[Science du combat à mains nues]], [[École du serpent]], 3 rangs en [[Acrobaties]] , 6 rangs en [[Psychologie]] 
 
 **Avantage.** Le personnage gagne un bonus de +4 au [[DMD]] contre les manœuvres de [[croc-en-jambe]] et aux tests d’[[Acrobaties]] et aux [[jet de sauvegarde|Jets de sauvegarde]] pour éviter de tomber.
 

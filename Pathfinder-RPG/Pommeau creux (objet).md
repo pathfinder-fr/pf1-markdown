@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** —
+{s:AE}**Prix** 5 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 En fonction de l'arme, le pommeau creux peut contenir un objet aussi gros qu'une [[Flasque (objet)|flasque]] ou aussi petit qu'un petit rouleau de papier. Il faut réussir un test de [[Perception]] [[DD]] 15 pour repérer un pommeau creux.

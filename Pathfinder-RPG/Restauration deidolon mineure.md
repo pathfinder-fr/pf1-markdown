@@ -6,27 +6,27 @@ Categories:
 - Sort conjurateur 2
 ---
 
-{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2
-**Temps d’incantation** 3 [[round|rounds]]
-**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** eidolon touché
-**Durée** [[instantanée]]
+{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2  
+**Temps d’incantation** 3 [[round|rounds]]  
+**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** eidolon touché  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort fonction comme *[[restauration partielle]] * mais affecte uniquement un eidolon.
 
 
 
 (((
 ## Restauration partielle
-**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2
-**Temps d'incantation** 3 [[round|rounds]]
-**Composantes** [[composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
+**Temps d'incantation** 3 [[round|rounds]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
----
+<hr />
 Ce sort dissipe les effets magiques réduisant l’une des [[caractéristiques]] de la cible ou permet de récupérer 1d4 points d’une [[caractéristique]] [[affaiblissement temporaire|temporairement affaiblie]]. *Restauration partielle* élimine toute [[fatigué|fatigue]] dont est victime le sujet. Si le personnage est [[épuisé]], il devient simplement [[fatigué]]. Le sort ne peut rien contre les [[diminution permanente|diminutions permanentes]] de [[caractéristique]].
 )))

@@ -7,9 +7,9 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 37/50 po ; **Poids** 7,5/10 kg
-**Bonus de bouclier** +2 ; **Bonus de Dex maximal** — ; **Malus d'armure** -3
-**Risque d'échec des sorts profanes** 15% ; **Vitesse** —/—
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 37/50 po ; **Poids** 7,5/10 kg  
+**Bonus de bouclier** +2 ; **Bonus de Dex maximal** — ; **Malus d'armure** -3  
+**Risque d'échec des sorts profanes** 15% ; **Vitesse** —/—  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABBOUCLIERS|Boucliers]]</span>
----
+<hr />
 Une dizaine de tiges en bois ou en métal est fixée sur la face avant de ce lourd bouclier. Le personnage peut l’utiliser pour [[désarmement|désarmer]] ses adversaires.

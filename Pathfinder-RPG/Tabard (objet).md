@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 5 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Souvent porté par-dessus une armure, cet habit est généralement sans manche et ouvert sur les flancs. Son large endroit permet de broder des insignes ou des armoiries, mettant ainsi en évidence l’allégeance du porteur.

@@ -16,7 +16,7 @@ L’hérétique obtient les jugements suivants, en plus de ceux des autres inqui
 - *Fuite (Sur).* À chaque fois que l’inquisiteur qui utilise ce jugement frappe un adversaire au corps à corps ou à distance, il peut utiliser une [[action de mouvement]] pour tenter de créer une diversion et se cacher (avec la compétence [[Discrétion]]).
 
 #### Art de la fuite (Ext)
-Au niveau 1, l’hérétique peut utiliser tous les tours qu’il connaît pour échapper à ses poursuivants. Il ajoute son modificateur de [[Sagesse]] à ses tests de [[Bluff]] et de [[Discrétion]] en plus de ses modificateurs de caractéristique habituels.
+Au niveau 1, l’hérétique peut utiliser tous les tours qu’il connaît pour échapper à ses poursuivants. Il ajoute son modificateur de [[Sagesse]] à ses tests de [[Bluff]] et de [[Discrétion]] en plus de ses modificateurs de caractéristique habituels. 
 
 Ce pouvoir remplace [[inquisiteur#CONNAISSANCEDESMONSTRES|connaissance des monstres]].
 

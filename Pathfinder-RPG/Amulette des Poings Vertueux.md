@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Amulette des poings vertueux|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 4.000 po ; **Poids** 0,25 kg
 (((Description)))
-Cette amulette en or est utilisée par les sectes religieuses pour aider les fidèles à capturer des fugitifs ou à se défendre sans blesser trop grièvement les gens qu’ils cherchent à convertir. Lorsque le porteur de cette amulette utilise ses pouvoirs divins de représailles (tels que le châtiment d’un [[prêtre]] ou d’un [[paladin]] ou le jugement de châtiment d’un [[inquisiteur]]), l’amulette lui permet d’effectuer des attaques à mains nues au corps à corps comme s’il possédait le don [[Science du combat à mains nues]].
+Cette amulette en or est utilisée par les sectes religieuses pour aider les fidèles à capturer des fugitifs ou à se défendre sans blesser trop grièvement les gens qu’ils cherchent à convertir. Lorsque le porteur de cette amulette utilise ses pouvoirs divins de représailles (tels que le châtiment d’un [[prêtre]] ou d’un [[paladin]] ou le jugement de châtiment d’un [[inquisiteur]]), l’amulette lui permet d’effectuer des attaques à mains nues au corps à corps comme s’il possédait le don [[Science du combat à mains nues]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Science du combat à mains nues]], *[[poing de pierre]]*  ; **Coût** 2.000 po
 </div>

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
+{s:AE}**Prix** 5 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Vêtements]]</span>
----
+<hr />
 Ce vêtement rond en tissu résistant à l’eau (généralement en laine ou en cuir) est doté d’une ouverture à capuche en son centre, ce qui fait qu’il est facile de l’enfiler ou de le retirer et qu’il protège tout le corps contre la pluie et la neige.

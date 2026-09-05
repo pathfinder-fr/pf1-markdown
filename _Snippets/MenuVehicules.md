@@ -29,7 +29,7 @@
 <li>[[Véhicules aquatiques (véhicules)|Les véhicules aquatiques]]</li>
 <li>[[Véhicules aériens (véhicules)|Les véhicules aériens]]</li>
 </ul>
-</li>
+</li>  
 </ul>
 </td></tr></table>
 </td></tr></table>

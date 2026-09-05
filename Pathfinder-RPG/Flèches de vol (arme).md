@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 1,5 kg
+{s:AE}**Prix** 2 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
----
+<hr />
 Ces flèches ont une tige légère et un empennage spécial leur donnant une plus grande portée. Le [[facteur de portée]] d’une flèche de vol est augmenté de 6 mètres avec les [[arc long (arme)|arcs longs]] et de 3 mètres avec les [[arc court (arme)|arcs courts]]. Elles infligent des dégâts comme si elles étaient plus petites d’une catégorie de taille.

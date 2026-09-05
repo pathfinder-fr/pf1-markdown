@@ -22,7 +22,7 @@ Guerriers féroces, les hobgobelins survivent grâce à la conquête. Ils doiven
 
 **Aventuriers.** Les aventuriers hobgobelins sont généralement des solitaires iconoclastes qui s’irritent de la stricte hiérarchie de la vie militaire. Les autres ont fui ou ont été exilés après être tombés en disgrâce pour avoir fait preuve de faiblesse ou de lâcheté. Certains caressent le rêve de revenir un jour dans la famille des hobgobelins avec des richesses et des histoires de grands exploits à faire rougir. Quelques-uns servent des généraux hobgobelins prévoyants qui envoient les jeunes les plus prometteurs à travers le monde afin qu’ils reviennent un jour peut-être comme de valeureux héros de la cause hobgobeline. Les hobgobelins ont tendance à choisir des classes martiales, notamment de chevalier, de guerrier, de moine et de roublard. Les arts de la magie n’inspirent aucune confiance à la société des hobgobelins et rares sont ceux qui les pratiquent, à l’exception des alchimistes qui s’attirent des louanges et une admiration réticentes pour leurs talents pyrotechniques.
 
-**Noms masculins.** Arak, Békri, Doruk, Fétchi, Grung, Hagla, Haluk, Kurat, Malgrim, Mévlut, Oktar, Saltuk, Turgut.
+**Noms masculins.** Arak, Békri, Doruk, Fétchi, Grung, Hagla, Haluk, Kurat, Malgrim, Mévlut, Oktar, Saltuk, Turgut.  
 **Noms féminins.** Afet, Ceyda, Ela, Esma, Huri, Kurmu, Maral, Masal, Melda, Nisa, Nural, Sekla, Séna, Tansu, Vésile.
 
 {s:Reference|TRAITSSTANDARDS}

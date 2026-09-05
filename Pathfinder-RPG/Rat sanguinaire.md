@@ -28,14 +28,14 @@ Categories:
 {s:BDTexte|**For** 10, **Dex** 17, **Con** 13, **Int** 2, **Sag** 13, **Cha** 4}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12 (16 contre [[croc-en-jambe]])}
 {s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
-{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Escalade]] +11, [[Natation]] +11, [[Perception]] +4 ; **Modificateurs raciaux** [[Escalade]] et [[Natation]] dépendent de la [[Dextérité]]}
-{s:BDSousTitre|Écologie}
-{s:BDTexte|**Environnement** ville}
-{s:BDTexte|**Organisation sociale** solitaire ou meute (2-20)}
-{s:BDTexte|**Trésor** aucun}
-{s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Maladie : fièvre des marais (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 11 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d3 [[dextérité|Dex]] et 1d3 [[Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la Constitution.}
-</div>
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Escalade]] +11, [[Natation]] +11, [[Perception]] +4 ; **Modificateurs raciaux** [[Escalade]] et [[Natation]] dépendent de la [[Dextérité]]} 
+{s:BDSousTitre|Écologie} 
+{s:BDTexte|**Environnement** ville} 
+{s:BDTexte|**Organisation sociale** solitaire ou meute (2-20)} 
+{s:BDTexte|**Trésor** aucun} 
+{s:BDSousTitre|Capacités spéciales} 
+{s:BDTexte|**Maladie : fièvre des marais (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 11 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d3 [[dextérité|Dex]] et 1d3 [[Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la Constitution.} 
+</div> 
 
 {s:ImageCentre|Bestiaire/Rat sanguinaire.jpg|95%}
 
@@ -50,17 +50,17 @@ Categories:
 | [[Nuée de rats]] | 2 |
 | [[Rat sanguinaire]] | 1/3 |
 
-</div>''Ce rat crasseux de la taille d’un chien possède une fourrure épaisse, une
+</div>''Ce rat crasseux de la taille d’un chien possède une fourrure épaisse, une 
 longue queue couverte de croûtes et deux yeux brillants.''
 
-Les rats sanguinaires peuvent
-atteindre une longueur de 60 cm
-et peser jusqu’à 12,5 kg. On en
-trouve souvent dans les souterrains
-ainsi que dans les égouts des villes.
+Les rats sanguinaires peuvent 
+atteindre une longueur de 60 cm 
+et peser jusqu’à 12,5 kg. On en 
+trouve souvent dans les souterrains 
+ainsi que dans les égouts des villes. 
 
 #### Le rat sanguinaire comme compagnon animal
 **Caractéristiques de départ. Taille** P ; **Vitesse** 12 m (8 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c}) ; **Attaque** morsure (1d4) ; **Caractéristiques** For 10, Dex 17, Con 12, Int 2, Sag 12, Cha 4 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 4. Attaque** morsure (1d4 plus maladie) ; **Caractéristiques** For +2, Con +2.
+**Évolution au niveau 4. Attaque** morsure (1d4 plus maladie) ; **Caractéristiques** For +2, Con +2. 
 </div></td></tr></table>

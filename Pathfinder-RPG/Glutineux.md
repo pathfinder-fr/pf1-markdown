@@ -44,7 +44,7 @@ Categories:
 </td><td><div>
 *Cette créature humanoïde et blême est enveloppée de fins lambeaux de peau auxquels s’accrochent de petits détritus et une odeur fétide.*
 
-Les glutineux ressemblent vaguement à des momies embaumées, enveloppées de bandelettes sales mais, en réalité, ce sont des êtres d’une nature complètement différente, venus d’un autre monde. Transformés à la suite d’un horrible processus dans le Plan éthéré, leur corps est couvert de tous petits fils adhésifs qui se collent à tout, ce qui permet aux glutineux de lier les armes de leurs ennemis et de capturer les créatures vivantes pour leurs rituels pervers.
+Les glutineux ressemblent vaguement à des momies embaumées, enveloppées de bandelettes sales mais, en réalité, ce sont des êtres d’une nature complètement différente, venus d’un autre monde. Transformés à la suite d’un horrible processus dans le Plan éthéré, leur corps est couvert de tous petits fils adhésifs qui se collent à tout, ce qui permet aux glutineux de lier les armes de leurs ennemis et de capturer les créatures vivantes pour leurs rituels pervers. 
 
 Autrefois humains, les glutineux ont oublié leur humanité et hantent désormais leurs anciens parents avec une insouciance jubilatoire. Ils digèrent la nourriture très lentement et, de ce fait, peuvent se nourrir sur une seule et même créature (les humains constituent leur repas favori) pendant des jours, voire des semaines, se régalant d’une ou deux bouchées par jour et forçant leurs proies vivantes à endurer une mort atroce et interminable.
 </div></td></tr></table>

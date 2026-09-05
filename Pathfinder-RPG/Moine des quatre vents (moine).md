@@ -15,7 +15,7 @@ Categories:
 Un moine des quatre vents possède les aptitudes de classe suivantes.
 
 #### Poing élémentaire (Sur)
-Au niveau 1, un moine des quatre vents gagne [[Poing élémentaire]] comme don supplémentaire, même s’il n’en remplit pas les conditions.
+Au niveau 1, un moine des quatre vents gagne [[Poing élémentaire]] comme don supplémentaire, même s’il n’en remplit pas les conditions. 
 
 Au niveau 5 et tous les cinq niveaux par la suite, les dégâts du Poing élémentaire sont augmentés de 1d6 (2d6 au niveau 5, 3d6 au niveau 10 et ainsi de suite).
 

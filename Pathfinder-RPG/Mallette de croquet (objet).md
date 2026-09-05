@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** 5 kg
+{s:AE}**Prix** 5 pa ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Cette mallette comprend quatre maillets en bois, neuf arceaux en bois (cages) et quatre boules en bois.

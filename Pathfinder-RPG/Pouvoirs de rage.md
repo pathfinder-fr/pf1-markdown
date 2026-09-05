@@ -533,49 +533,49 @@ Une fois par rage, le personnage peut aiguiser ses sens pour y voir normalement 
 #### Malédiction mortelle du linnorm de la taïga (Sur)
 **Prérequis :** Niveau 4
 
-Le personnage canalise le pouvoir d’un [[linnorm de la taïga]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’électricité. Si le personnage tombe dans l’inconscience ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de l’électricité ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm de la taïga]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’électricité. Si le personnage tombe dans l’inconscience ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de l’électricité ([[Volonté]], annule).  
 *Malédiction d’électrocution* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible est affublée d’une [[Vulnérabilités (capacité)|vulnérabilité]] à l’électricité.
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDEROCHE}
 #### Malédiction mortelle du linnorm de roche (Sur)
 **Prérequis :** Niveau 8
 
-Le personnage canalise le pouvoir d’un [[linnorm de roche]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de feu. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du sang bouillonant ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm de roche]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de feu. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du sang bouillonant ([[Volonté]], annule).  
 *Malédiction du sang bouillonant* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible est affublée d’une [[Vulnérabilités (capacité)|vulnérabilité]] au feu et la douleur infligée par son sang brûlant la rend [[chancelant|chancelante]] de manière permanente (c’est un effet de [[regsitre|douleur]]).
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDESCAIRNS}
 #### Malédiction mortelle du linnorm des cairns (Sur)
 **Prérequis :** Niveau 8
 
-Le personnage canalise le pouvoir d’un [[linnorm des cairns]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’énergie négative. Si le personnage tombe dans l’inconscience ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de décomposition ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm des cairns]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’énergie négative. Si le personnage tombe dans l’inconscience ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de décomposition ([[Volonté]], annule).  
 *Malédiction de décomposition* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible subit un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1 point de [[Con]] par jour et vieillit au rythme de 1 an par jour (et finit par subir tous les malus dus au [[État civil et mensurations#AGE|vieillissement]] sans bénéficier des bonus).
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDESFALAISES}
 #### Malédiction mortelle du linnorm des falaises (Sur)
 **Prérequis :** Niveau 4
 
-Le personnage canalise le pouvoir d’un [[linnorm des falaises]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de feu. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du feu ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm des falaises]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de feu. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du feu ([[Volonté]], annule).  
 *Malédiction du feu* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible est affublée d’une [[Vulnérabilités (capacité)|vulnérabilité]] au feu.
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDESFJORDS}
 #### Malédiction mortelle du linnorm des fjords (Sur)
 **Prérequis :** Niveau 4
 
-Le personnage canalise le pouvoir d’un [[linnorm des fjords]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de froid. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de noyade ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm des fjords]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de froid. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de noyade ([[Volonté]], annule).  
 *Malédiction de noyade* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible ne peut plus respirer dans l’eau (même à l’aide de la magie). Elle peut [[Dangers naturels#ASPHYXIE|retenir sa respiration]] moitié moins longtemps qu’à l’ordinaire et devient [[fiévreux|fiévreuse]] à chaque fois qu’elle retient sa respiration.
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDESGLACES}
 #### Malédiction mortelle du linnorm des glaces (Sur)
 **Prérequis :** Niveau 4
 
-Le personnage canalise le pouvoir d’un [[linnorm des glaces]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de froid. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du froid ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm des glaces]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire de froid. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction du froid ([[Volonté]], annule).  
 *Malédiction du froid* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible est affublée d’une [[Vulnérabilités (capacité)|vulnérabilité]] au froid.
 
 {s:MCA}{s:Reference|MALEDICTIONMORTELLEDULINNORMDESLACS}
 #### Malédiction mortelle du linnorm des lacs (Sur)
 **Prérequis :** Niveau 4
 
-Le personnage canalise le pouvoir d’un [[linnorm des lacs]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’acide. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de la mort ([[Volonté]], annule).
+Le personnage canalise le pouvoir d’un [[linnorm des lacs]]. Ses attaques au corps à corps infligent 1 point de dégâts supplémentaire d’acide. Si le personnage tombe dans l’[[inconscient|inconscience]] ou est tué par une attaque ou un sort, l’attaquant subit la malédiction de la mort ([[Volonté]], annule).  
 *Malédiction de la mort* : *JdS* [[Volonté]] [[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Charisme]] du personnage ; *effet* la cible ne peut plus être affectée par des sorts de soins et ne peut plus guérir naturellement en se reposant.
 
 {s:uc}{s:Reference|MARQUEPROMETTEUSE}
@@ -617,7 +617,7 @@ Lorsque le [[barbare]] est en [[barbare#RAGEDEBERSERKER|rage]], il ajoute à tou
 #### Nageur bestial (Ext)
 **Prérequis** : Nage en rage, niveau 6
 
-Quand le barbare est en rage, il gagne une vitesse de nage naturelle égale à sa [[VD|vitesse de déplacement]] de base.
+Quand le barbare est en rage, il gagne une vitesse de nage naturelle égale à sa [[VD|vitesse de déplacement]] de base. 
 
 {s:Reference|NOUVELLEVIGUEUR}
 #### Nouvelle vigueur (Ext)
@@ -822,7 +822,7 @@ Lorsqu’il est en rage, le barbare gagne deux attaques de griffe considérées 
 
 {s:mca}{s:Reference|SANGABYSSAL}
 #### Sang abyssal (Sur)
-**Prérequis** : Sang abyssal mineur, niveau 6
+**Prérequis** : Sang abyssal mineur, niveau 6 
 
 Une fois par jour quand le barbare entre en rage, il peut choisir d’augmenter sa taille de base d’une catégorie (comme le sort *[[agrandissement]]*, même si le barbare n’est pas humanoïde).
 
@@ -839,7 +839,7 @@ Lorsqu’il est en rage, on considère que ses attaques au corps à corps du bar
 
 {s:mca}{s:Reference|SANGCELESTE}
 #### Sang céleste (Sur)
-**Prérequis** : Sang céleste mineur, niveau 6
+**Prérequis** : Sang céleste mineur, niveau 6 
 
 Lorsqu’il est en rage, le barbare gagne une résistance de 5 contre l’acide et le froid.
 
@@ -855,13 +855,13 @@ Lorsqu’il est en rage et qu’il touche une créature en effectuant une attaqu
 
 {s:mca}{s:Reference|SANGDEMORTVIVANT}
 #### Sang de mort-vivant (Sur)
-**Prérequis** : Sang de mort-vivant mineur, niveau 6
+**Prérequis** : Sang de mort-vivant mineur, niveau 6 
 
-Lorsqu’il est en rage, on considère que toutes les attaques au corps à corps du barbare bénéficient de la propriété spéciale d’arme [[spectrale (propriété)|spectrale]].
+Lorsqu’il est en rage, on considère que toutes les attaques au corps à corps du barbare bénéficient de la propriété spéciale d’arme [[spectrale (propriété)|spectrale]]. 
 
 {s:mca}{s:Reference|SANGDEMORTVIVANTMAJEUR}
 #### Sang de mort-vivant majeur (Sur)
-**Prérequis** : Sang de mort-vivant, niveau 10
+**Prérequis** : Sang de mort-vivant, niveau 10 
 
 Lorsqu’il est en rage, le barbare gagne une résistance au froid 10, ainsi qu’une [[RD]] 10/- contre les dégâts non létaux.
 
@@ -871,7 +871,7 @@ Lorsqu’il est en rage, le barbare gagne deux attaques de griffe considérées 
 
 {s:mca}{s:Reference|SANGDRACONIQUE}
 #### Sang draconique (Sur)
-**Prérequis** : Sang draconique mineur, niveau 6
+**Prérequis** : Sang draconique mineur, niveau 6 
 
 Choisissez un type d’énergie destructive parmi les suivants : acide, électricité, feu ou froid. Lorsqu’il est en rage, le barbare gagne une résistance de 5 contre le type d’énergie destructive choisi et un bonus d’armure naturelle de +1.
 
@@ -887,9 +887,9 @@ Choisissez un type d’énergie destructive : acide, électricité, feu ou froid
 
 {s:mca}{s:Reference|SANGELEMENTAIRE}
 #### Sang élémentaire (Sur)
-**Prérequis** : Sang élémentaire mineur, niveau 6
+**Prérequis** : Sang élémentaire mineur, niveau 6 
 
-Lorsqu’il est en rage, le barbare gagne une résistance aux énergies destructives de 10 contre le type d’énergie choisi lorsqu’il a pris le pouvoir de sang élémentaire mineur.
+Lorsqu’il est en rage, le barbare gagne une résistance aux énergies destructives de 10 contre le type d’énergie choisi lorsqu’il a pris le pouvoir de sang élémentaire mineur. 
 
 {s:mca}{s:Reference|SANGELEMENTAIREMAJEUR}
 #### Sang élémentaire majeur (Sur)
@@ -903,7 +903,7 @@ Quand le barbare est en rage et à chaque fois qu’il confirme un [[coup critiq
 
 {s:mca}{s:Reference|SANGFEERIQUE}
 #### Sang féerique (Sur)
-**Prérequis** : Sang féerique mineur, niveau 6
+**Prérequis** : Sang féerique mineur, niveau 6 
 
 Lorsqu’il est en rage et qu’il [[charge]], le barbare ignore les terrains difficiles (y compris les terrains magiques, mais pas les créatures).
 
@@ -919,7 +919,7 @@ Trois fois par jour, lorsqu’il est en rage et par une [[action rapide]], le ba
 
 {s:mca}{s:Reference|SANGINFERNAL}
 #### Sang infernal (Sur)
-**Prérequis** : Sang infernal mineur, niveau 6
+**Prérequis** : Sang infernal mineur, niveau 6 
 
 Lorsqu’il est en rage, le barbare gagne une résistance au feu 5, ainsi qu’un bonus de +2 aux jets de sauvegarde contre le [[poison]].
 
@@ -972,7 +972,7 @@ Lorsqu’il est en [[barbare#RAGEDEBERSERKER|rage]], le [[barbare]] bénéficie 
 {s:APG}{s:Reference|TOTEMDUCHAOSMINEUR}
 #### Totem du chaos, mineur (Sur)
 
-Lorsqu’il est en [[barbare#RAGEDEBERSERKER|rage]], le [[barbare]] gagne un bonus de parade de +1 à sa [[CA]] lorsqu’il combat des créatures d’alignement [[Loyal]], et d’un bonus de résistance de +1 sur les [[jet de sauvegarde|jets de sauvegarde]] contre la [[confusion]], la folie, le métamorphisme et les effets de la magie du registre Loyal. Ce bonus augmente de +1 pour chaque pouvoir de rage de totem du chaos que le personnage possède.
+Lorsqu’il est en [[barbare#RAGEDEBERSERKER|rage]], le [[barbare]] gagne un bonus de parade de +1 à sa [[CA]] lorsqu’il combat des créatures d’alignement [[Loyal]], et d’un bonus de résistance de +1 sur les [[jet de sauvegarde|jets de sauvegarde]] contre la [[confusion]], la folie, le métamorphisme et les effets de la magie du registre Loyal. Ce bonus augmente de +1 pour chaque pouvoir de rage de totem du chaos que le personnage possède. 
 
 {s:uc}{s:Reference|TOTEMDRACONIQUE}
 #### Totem draconique (Sur)

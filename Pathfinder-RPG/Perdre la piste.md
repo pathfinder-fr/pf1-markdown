@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Norgorber|%2fPCUP%2fReligion-PNG%2fNorgorber.png}{s:ISG}{s:GeM}**École** [[Illusion]] ; **Niveau** [[Antipaladin|Antipal]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature/[[niveau]]
-**Durée** 1 heure/[[niveau]] (T)
+{s:divin|Norgorber|%2fPCUP%2fReligion-PNG%2fNorgorber.png}{s:ISG}{s:GeM}**École** [[Illusion]] ; **Niveau** [[Antipaladin|Antipal]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature/[[niveau]]  
+**Durée** 1 heure/[[niveau]] (T)  
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Ce sort permet au lanceur d’effacer ses traces lorsqu’il tente d’échapper à un ou des poursuivants. Il augmente le [[DD]] de tous les tests de [[Survie]] effectués pour suivre la piste des cibles du sort de 2 par [[NLS|niveau de lanceur]].

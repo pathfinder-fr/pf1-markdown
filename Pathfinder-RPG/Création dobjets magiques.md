@@ -11,13 +11,13 @@ LastModified: 2024-07-01 18:07
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#22|→]] Fabrication et conditions de sort : Lorsqu’il fabrique un objet, un lanceur de sorts profanes peut-il utiliser un parchemin divin pour satisfaire la condition de sort divin d’un objet ?***
 
-Oui. (De même, un lanceur de sorts divins peut utiliser un parchemin profane pour satisfaire la <u>[[Création dobjets magiques|condition de sort]]</u> profane d’un objet.)
+Oui. (De même, un lanceur de sorts divins peut utiliser un parchemin profane pour satisfaire la <u>[[Création dobjets magiques|condition de sort]]</u> profane d’un objet.)  
 En revanche, le personnage doit être capable d’activer le parchemin d’une façon ou d’une autre pendant le processus de fabrication. Cela nécessite probablement que le lanceur de sorts profane réussisse un test d’Utilisation d’objets magiques pour activer le sort divin. Si le lanceur ne parvient pas à lancer le sort divin depuis le parchemin, il ne fait aucun progrès sur l’objet ce jour sauf s’il a une autre source pour ce sort divin (comme une autre copie de ce parchemin).
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#23|→]] Fabriquer et faire 10 : Puis-je faire 10 au test d’Art de la magie pour fabriquer un objet magique ?***
 
 Oui. *(Retour à la <u>[[Création dobjets magiques|règle]]</u>)*
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#24|→]] Fabriquer et ignorer des conditions : Quelles conditions de fabrication un personnage peut-il ignorer en ajoutant un +5 au DD de son test d’Art de la magie ?***
 
 Comme présenté à la <u>[[Création dobjets magiques|page 554]]</u> du Manuel des joueurs, il n’y a aucune limitation autre que (1) avoir le don de création d’objet, et (2) l’impossibilité d’ignorer les contraintes liées aux sorts pour les potions, les objets à fin d’incantation et les objets à potentiel magique. Donc les prérequis raciaux, les conditions de sort spécifiques, les prérequis mathématiques (comme « NLS au moins égal à trois fois le bonus d’altération ») etc, sont tous sujets à la règle du DD +5.}Tous les objets présentés ici ont des conditions de création impératives dans leurs descriptions. La plupart du temps, il s’agit d’une condition de sort que celui qui fabrique l’objet doit remplir (il est aussi possible de faire appel à un autre objet magique ou à un lanceur de sorts différent). Le [[DD]] augmente de +5 pour chaque condition que le créateur ne remplit pas. Une exception toutefois : le don de création d'objet est indispensable et ne peut être remplacé par quoi que ce soit. De plus, il est impossible de créer des potions, des parchemins, des bâtons, des baguettes, ou tout autre objet à fin d’incantation ou à potentiel magique sans remplir toutes les conditions de sort imposées.

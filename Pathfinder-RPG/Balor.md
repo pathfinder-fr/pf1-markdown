@@ -44,8 +44,8 @@ Categories:
 {s:BDTexte|**Trésor** standard (*épée longue +1 maudite*, *fouet +1 de feu*, autres trésors)}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Attaque vorpale (Sur)** Toutes les armes tranchantes maniées par un balor (y compris l'épée longue et le fouet qu'ils utilisent généralement) gagnent la propriété [[vorpale (propriété)|vorpale]]. Une fois lâchées par le balor, elles conservent cette qualité pendant 1 heure avant de retourner à leur état normal (magique ou pas).}
-{s:BDTexte|**Corps enflammé (Sur)** Des flammes dansent sur tout le corps du balor. un individu qui frappe un balor avec une arme naturelle ou à mains nues subit 1d6 points de dégâts de feu. Les créatures qui agrippent un balor ou sont [[agrippé|agrippées]] par lui subissent 6d6 points de dégâts de feu par round tant que cette situation persiste.}
-{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un balor est tué, il provoque une explosion de feu aveuglante qui inflige 100 points de dégâts (50% de dégâts de feu et 50% de dégâts maudits) à tout ce qui se trouve dans un rayon de 30 m (20 {s:c}) (un jet de [[Réflexes]] de [[DD]] 33 permet de diviser les dégâts par deux). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Corps enflammé (Sur)** Des flammes dansent sur tout le corps du balor. un individu qui frappe un balor avec une arme naturelle ou à mains nues subit 1d6 points de dégâts de feu. Les créatures qui agrippent un balor ou sont [[agrippé|agrippées]] par lui subissent 6d6 points de dégâts de feu par round tant que cette situation persiste.} 
+{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un balor est tué, il provoque une explosion de feu aveuglante qui inflige 100 points de dégâts (50% de dégâts de feu et 50% de dégâts maudits) à tout ce qui se trouve dans un rayon de 30 m (20 {s:c}) (un jet de [[Réflexes]] de [[DD]] 33 permet de diviser les dégâts par deux). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].} 
 {s:BDTexte|**Enchevêtrement (Ext)** Si un balor frappe un ennemi de taille inférieure ou égale à M avec son fouet, il peut immédiatement effectuer un test de [[lutte]] sans provoquer d'[[attaque dopportunité|attaque d'opportunité]]. S'il réussit ce test, il attire l'ennemi dans un emplacement adjacent au sien et l'ennemi devient [[agrippé]] (mais pas le balor.}
 {s:BDTexte|**Maîtrise des fouets (Ext)** Lorsqu'un balor combat avec deux armes, il traite les fouets comme des armes légères et ceux-ci peuvent infliger des dégâts létaux à ses ennemis quel que soit leur bonus d'armure ou d'armure naturelle.}
 </div>
@@ -80,7 +80,7 @@ télékinésie pour désarmer les adversaires qui utilisent des armes à
 distance ou pour attirer des ennemis jusqu’au corps à corps (une
 télékinésie en incantation rapide permet à un balor de mettre cette
 tactique en pratique puis d’infliger un round entier d’attaques
-à l’ennemi déconcerté).
+à l’ennemi déconcerté). 
 
 Les balors réduits à 50 points de vie ou
 moins tentent quasiment toujours de fuir en se téléportant mais,
@@ -109,7 +109,7 @@ le FP se situe entre 21 et 25 (le même intervalle de FP que les
 divers seigneurs démons naissants, les seigneurs démons eux-mêmes
 correspondant à des FP supérieurs ou égaux à 26) ; ils
 peuvent donc tout à fait faire office d’ennemis finaux pour une
-longue compagne.
+longue compagne. 
 
 La plupart des seigneurs démons possèdent
 plusieurs niveaux de barbare, de guerrier ou de rôdeur (toutefois,

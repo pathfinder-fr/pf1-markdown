@@ -17,7 +17,7 @@ Categories:
 
 **Avantage.** Le personnage gagne une certaine dose de panache ainsi que la capacité à accomplir un seul exploit de bretteur de niveau 1. Choisissez un exploit de niveau 1 du pouvoir de classe de [[bretteur]] [[exploits (bretteur)|exploits]] (vous ne pouvez choisir l'exploit parade et riposte opportune). Une fois choisi, cet exploit ne peut plus être changé.
 
-Chaque matin, le personnage gagne 1 point de panache. Au cours de la journée, il peut gagner d’autres points, sans dépasser un maximum égal à son modificateur de Charisme (1 au minimum). Il récupère des points de panache comme le bretteur qui utilise le pouvoir de [[Bretteur#PANACHE|panache]]. Il les dépense pour utiliser l’exploit de bretteur de niveau 1 qu’il a choisi en même temps que ce don ou dont il bénéficie grâce à d’autres dons ou des objets magiques.
+Chaque matin, le personnage gagne 1 point de panache. Au cours de la journée, il peut gagner d’autres points, sans dépasser un maximum égal à son modificateur de Charisme (1 au minimum). Il récupère des points de panache comme le bretteur qui utilise le pouvoir de [[Bretteur#PANACHE|panache]]. Il les dépense pour utiliser l’exploit de bretteur de niveau 1 qu’il a choisi en même temps que ce don ou dont il bénéficie grâce à d’autres dons ou des objets magiques. 
 
 **Spécial.** Si le personnage gagne des niveaux dans une classe qui possède le pouvoir de classe panache, il peut aussitôt échanger ce don contre celui de [[Panache supplémentaire]].
 

@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:07
 {s:BDTitre|Plastron prophétique|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 6.000 po ; **Poids** 0,5 kg
 (((Description)))
-Les pierres sacrées, les étoiles et les inscriptions pleines de sagesse ancestrale gravées sur ce plastron améliorent les chances de succès des sorts d’*[[augure]]*, de *[[divination]]* et de *[[contact avec les plans]]*. Le porteur ajoute 1d6 au d100 lancé lorsqu’il lance l’un de ces sorts. Quand il lance les sorts *[[communion]]* ou *[[communion avec la nature]]*, le porteur peut poser une question de plus ou obtenir une information supplémentaire.
+Les pierres sacrées, les étoiles et les inscriptions pleines de sagesse ancestrale gravées sur ce plastron améliorent les chances de succès des sorts d’*[[augure]]*, de *[[divination]]* et de *[[contact avec les plans]]*. Le porteur ajoute 1d6 au d100 lancé lorsqu’il lance l’un de ces sorts. Quand il lance les sorts *[[communion]]* ou *[[communion avec la nature]]*, le porteur peut poser une question de plus ou obtenir une information supplémentaire. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[divination]]*, *[[assistance divine]]*  ; **Coût** 3.000 po
 </div>

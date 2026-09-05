@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Contes du tourment|{s:AE}}
 **Aura** [[Invocation]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 0,5 kg
 (((Description)))
-Les *contes du tourment* sont un jeu de cartes du tourment unique lié au Royaume du tourment, un demi-plan fantastique peuplé des manifestations fantasques et malfaisantes des personnages tirés des illustrations du jeu du tourment. Une fois par jour, sur une commande mentale de leur propriétaire, les *contes du tourment* peuvent générer un vortex tourbillonnant conduisant au Royaume du tourment, comme s’il s’agissait d’un sort de portail. Ce pouvoir ne fonctionne pas quand le jeu est dans le Royaume du tourment : ceux qui sont à l’intérieur doivent trouver un autre moyen de s’échapper. Le Royaume du tourment est présenté en détail dans le *Module Pathfinder: Le tourment*.
+Les *contes du tourment* sont un jeu de cartes du tourment unique lié au Royaume du tourment, un demi-plan fantastique peuplé des manifestations fantasques et malfaisantes des personnages tirés des illustrations du jeu du tourment. Une fois par jour, sur une commande mentale de leur propriétaire, les *contes du tourment* peuvent générer un vortex tourbillonnant conduisant au Royaume du tourment, comme s’il s’agissait d’un sort de portail. Ce pouvoir ne fonctionne pas quand le jeu est dans le Royaume du tourment : ceux qui sont à l’intérieur doivent trouver un autre moyen de s’échapper. Le Royaume du tourment est présenté en détail dans le *Module Pathfinder: Le tourment*.  
 (((Destruction)))
-Les *contes du tourment* ne peuvent être détruits qu’après avoir accompli une série mythique de 54 quêtes, chacune liée à une carte du tourment. Ce n’est qu’alors qu’est révélée la 55ème quête dont l’accomplissement annule l’existence du jeu et du Royaume du tourment.
+Les *contes du tourment* ne peuvent être détruits qu’après avoir accompli une série mythique de 54 quêtes, chacune liée à une carte du tourment. Ce n’est qu’alors qu’est révélée la 55ème quête dont l’accomplissement annule l’existence du jeu et du Royaume du tourment.  
 </div>
 
 #### Le plan du Royaume du tourment

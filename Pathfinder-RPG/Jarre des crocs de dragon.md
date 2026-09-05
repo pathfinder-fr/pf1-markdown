@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Jarre des crocs de dragon|{s:AE}}
 **Aura** [[Transmutation]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1,5 kg
 (((Description)))
-À chaque fois que cette jarre se retrouve entre les mains d’un nouveau propriétaire, elle produit 2d4 crocs de dragon. Quand un personnage en avale une, il dispose des pouvoirs suivants pendant une semaine ou jusqu’à ce qu’il les révoque par une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].
-• L’utilisateur se transforme en dragon, comme avec [[forme draconique I]], [[forme draconique II]] ou [[forme draconique III]], en fonction de son nombre de [[DV]]. S’il possède 12 [[DV]] ou moins, il est sous l’effet d’une [[forme draconique I]] ; [[forme draconique II]] s’il possède entre 13 et 18 [[DV]] et [[forme draconique III]] s’il possède 19 [[DV]] ou plus. L’utilisateur choisit le type de dragon en fonction de son alignement.
+À chaque fois que cette jarre se retrouve entre les mains d’un nouveau propriétaire, elle produit 2d4 crocs de dragon. Quand un personnage en avale une, il dispose des pouvoirs suivants pendant une semaine ou jusqu’à ce qu’il les révoque par une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].  
+• L’utilisateur se transforme en dragon, comme avec [[forme draconique I]], [[forme draconique II]] ou [[forme draconique III]], en fonction de son nombre de [[DV]]. S’il possède 12 [[DV]] ou moins, il est sous l’effet d’une [[forme draconique I]] ; [[forme draconique II]] s’il possède entre 13 et 18 [[DV]] et [[forme draconique III]] s’il possède 19 [[DV]] ou plus. L’utilisateur choisit le type de dragon en fonction de son alignement.  
 - **Loyal Bon.** Dragon de bronze, d’or ou d’argent.  
 - **Neutre Bon.** N’importe quel dragon métallique.  
 - **Chaotique Bon.** Dragon d’airain ou de cuivre.  
@@ -24,11 +24,11 @@ Categories:
 - **Chaotique Mauvais.** Dragon noir, rouge ou blanc.
 
 
-L’utilisateur reprend toujours la même apparence draconique à chaque fois qu’il avale un croc. Sous forme draconique, il bénéficie des pouvoirs suivants.
-• Parle le draconique
-• Bonus de compétence de +4 aux tests de [[Vol]]
-• Bonus de compétence de +4 aux tests de [[Bluff]], de [[Diplomatie]], d’[[Intimidation]] et de [[Psychologie]] contre des dragons.
-• Immunité contre le sommeil, la paralysie et [[RM]] 11 + nombre de [[DV]].
+L’utilisateur reprend toujours la même apparence draconique à chaque fois qu’il avale un croc. Sous forme draconique, il bénéficie des pouvoirs suivants.  
+• Parle le draconique  
+• Bonus de compétence de +4 aux tests de [[Vol]]  
+• Bonus de compétence de +4 aux tests de [[Bluff]], de [[Diplomatie]], d’[[Intimidation]] et de [[Psychologie]] contre des dragons.  
+• Immunité contre le sommeil, la paralysie et [[RM]] 11 + nombre de [[DV]].  
 • [[présence terrifiante (capacité)|Présence terrifiante]] dans un rayon de 60 mètres doté d’un [[DD]] au jet de [[Volonté]] de 10 + [[DV]] + modificateur de [[Charisme]].
 
 La jarre crée des crocs une seule fois par utilisateur. Si elle change de propriétaire avant que le premier n’ait utilisé tous les crocs créés, l’individu spolié ne peut plus en profiter par la suite.

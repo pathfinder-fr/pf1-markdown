@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Marque-page trompeur|{s:AE}}
 **Aura** [[Illusion]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1.500 po ; **Poids** —
 (((Description)))
-Ce marque-page modifie le livre dans lequel il est inséré pour que celui-ci prenne la forme d’un ouvrage complètement différent, même s’il est lu avec beaucoup d’attention. La nature du livre illusoire est déterminée lors de la création du marque-page (il s’agit le plus souvent de livres ordinaires ou au contenu ennuyeux, tels que des textes de loi ou religieux). Le marque-page sa personne et le livre par le biais du sort *[[antidétection]]*.
+Ce marque-page modifie le livre dans lequel il est inséré pour que celui-ci prenne la forme d’un ouvrage complètement différent, même s’il est lu avec beaucoup d’attention. La nature du livre illusoire est déterminée lors de la création du marque-page (il s’agit le plus souvent de livres ordinaires ou au contenu ennuyeux, tels que des textes de loi ou religieux). Le marque-page sa personne et le livre par le biais du sort *[[antidétection]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[antidétection]]*, *[[page secrète]]* ; **Coût** 750 po
 </div>

@@ -21,8 +21,8 @@ Categories:
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
 **Cible** une créature touchée  
 **Durée** 1 heure/[[niveau]] (T)  
-**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
-([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] 
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui 
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible est capable de respirer sous l’eau et gagne une vitesse de nage de 9 mètres. Cette vitesse de nage lui permet aussi d’obtenir un bonus de +8 aux tests de [[Natation]] et de [[faire 10]] à ces mêmes tests même si elle est distraite ou en danger. La cible peut faire une action de [[course]] en nageant, tant qu’elle se déplace en ligne droite. Ce sort n’empêche pas la cible de respirer à l’air libre.

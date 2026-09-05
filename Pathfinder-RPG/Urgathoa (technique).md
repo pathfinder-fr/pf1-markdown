@@ -36,27 +36,27 @@ Recouvrir une table (ou une surface plane appropriée) d'une étoffe de velours 
 : **3.** ***Intrépidité face à la mort-vivance (Ext).*** Le personnage a passé trop de temps parmi les morts-vivants pour se laisser abuser par leurs ruses et leurs capacités, et il est insensible à beaucoup de leurs pouvoirs. Il augmente son bonus de [[Guerrier#COURAGE|courage]] de 1. Ce bonus s'applique désormais aux [[jds|jets de sauvegarde]] contre les sorts et effets générés par les morts-vivants, aussi bien qu'à ceux contre les effets de peur. Le bonus s'applique également aux effets non magiques générés par les morts-vivants, comme le poison d'une [[toile mortelle]]. Si le personnage ne possède pas la capacité de classe courage, il obtient à la place un bonus de malfaisance de +2 aux jets de sauvegarde contre les sorts et effets générés par les morts-vivants.
 
 ### Règles uniques aux suivants
-**Lancement de sorts (toutes les classes).**
-• Les sorts de *[[contagion]]* lancés par les fidèles d'Urgathoa utilisent toujours le DD de sort du lanceur pour les jets de sauvegarde secondaires de la maladie.
+**Lancement de sorts (toutes les classes).**  
+• Les sorts de *[[contagion]]* lancés par les fidèles d'Urgathoa utilisent toujours le DD de sort du lanceur pour les jets de sauvegarde secondaires de la maladie.  
 • Les fidèles qui lancent *[[guérison des maladies]]* peuvent attirer les maladies en eux lorsqu'ils soignent leurs cibles ; ils en deviennent porteurs sans en subir les effets néfastes.
 
-**Lancement de sorts ([[antipaladin]]).**
-• *[[Baiser de la goule]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[antipaladin]]).**  
+• *[[Baiser de la goule]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Purification de nourriture et deau|Purification de nourriture et d'eau]]* peut être préparé comme un sort de 1er niveau.
 
-**Lancement de sorts ([[ensorceleur]]/[[magicien]]).**
-• *[[Contagion]]* peut être préparé comme un sort de 3e niveau. (version profane ; magiciens [[Magicien#ECOLEDEMAGIE|nécromanciens]] uniquement)
+**Lancement de sorts ([[ensorceleur]]/[[magicien]]).**  
+• *[[Contagion]]* peut être préparé comme un sort de 3e niveau. (version profane ; magiciens [[Magicien#ECOLEDEMAGIE|nécromanciens]] uniquement)  
 • *[[Guérison des maladies]]* peut être préparé comme un sort de 3e niveau. (version profane ; magiciens [[Magicien#ECOLEDEMAGIE|nécromanciens]] uniquement)
 
-**Lancement de sorts ([[inquisiteur]]).**
-• *[[Baiser de la goule]]* peut être préparé comme un sort de 2e niveau.
+**Lancement de sorts ([[inquisiteur]]).**  
+• *[[Baiser de la goule]]* peut être préparé comme un sort de 2e niveau.  
 • *[[Purification de nourriture et deau|Purification de nourriture et d'eau]]* peut être préparé comme une oraison.
 
-**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**  
 • *[[Baiser de la goule]]* peut être préparé comme un sort de 2e niveau.
 
-**Convocations étendues.**
-• *[[Convocation de monstres I]].* [[Squelette humain]] [[Squelette, archétype|sanglant]]
+**Convocations étendues.**  
+• *[[Convocation de monstres I]].* [[Squelette humain]] [[Squelette, archétype|sanglant]]  
 • *[[Convocation de monstres VII]].* [[Filles dUrgathoa|Fille d'Urgathoa]] ([[sous-type extraplanaire|extraplanaire]])
 
 #### Code de conduite de l'antipaladin
@@ -69,5 +69,5 @@ Les [[Antipaladin|antipaladins]] d'Urgathoa sont des créatures de la nuit, des 
 
 ### Options de personnage thématiques
 <div class="article_2col">
-*À VENIR*
+*À VENIR*  
 </div>

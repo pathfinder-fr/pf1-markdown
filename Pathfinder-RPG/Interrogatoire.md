@@ -13,27 +13,27 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur]], [[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1
-**Temps d’incantation** 1 [[round]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** une créature vivante touchée
-**Durée** 1 minute/[[niveau]]
+{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur]], [[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
+**Temps d’incantation** 1 [[round]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** une créature vivante touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Le personnage interroge la cible et renforce l’interrogatoire en menaçant de lui infliger des douleurs magiques. Il peut poser une question par tranche de deux [[NLS|niveaux de lanceur de sorts]]. La cible répond ou subit 1d4 points de dégâts plus bonus de [[Sagesse]] du personnage. La cible n’est pas obligée de répondre sincèrement mais la menace de torture lui donne un malus de -4 aux tests de [[Bluff]] pour convaincre le personnage d’un mensonge.
 
 
 
 ((({s:sortssimilaires|interrogatoire}
 ## [[Interrogatoire supérieur]]
-{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur]], [[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Psychiste|Psy]] 4
-**Temps d’incantation** 1 [[round]]
-**Composantes** [[Composantes|V, G]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** une créature vivante touchée
-**Durée** 1 minute/[[niveau]]
+{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur]], [[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Psychiste|Psy]] 4  
+**Temps d’incantation** 1 [[round]]  
+**Composantes** [[Composantes|V, G]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** une créature vivante touchée  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[interrogatoire]]* mais le personnage pose une question par [[NLS|niveaux de lanceur de sorts]] et les dégâts infligés sont de 1d8 + bonus de [[Sagesse]] si la cible refuse de répondre.
 )))

@@ -47,7 +47,7 @@ Categories:
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#7|→]] Armes à distance magiques et munitions : Lorsqu’une arme à distance transmet son bonus d’altération à ses munitions, est-ce qu’il compte comme un « vrai » bonus d’altération ou plus comme un bonus temporaire similaire à celui d’*arme magique suprême* ? Autrement dit, est-ce que le bonus d’altération transmit permet à la flèche d’ignorer la réduction de dégâts comme si elle était en fer froid, en argent, en adamantium, et alignée ?***
 
 Non, au-delà des moyens décrits dans le *Manuel des joueurs* (si l’arme à distance est au moins +1, les munitions comptent comme étant magiques, et si l’arme à distance est alignée elles comptent comme étant de cet alignement aussi) le <u>[[Armes magiques|bonus d’altération]]</u> transmit par l’arme à distance aux munitions ne les aident pas à ignorer tout autre type de réduction de dégâts. Les archers et les personnages similaires peuvent acheter plusieurs sortes de munitions ou des munitions avec un bonus d’altération plus élevé pour surpasser les différents types de réductions de dégâts.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#16|→]] Bonus aux armes : Est-ce que les propriétés spéciales d’arme (comme *tueuse*) ou les capacités de classe (comme le pacte divin du paladin) permettent de dépasser le bonus d’altération limite de +5 et la limitation de bonus équivalent à +10 ?***
 
 Pour la limitation du <u>[[Armes magiques|bonus d’altération]]</u>, cela dépend de l’effet spécifique ou de la capacité qui modifie l’arme.

@@ -23,6 +23,6 @@ Les Kéléshites doivent une grande partie de leur développement aux génies de
 La culture kéléshite a des principes sur les rôles entre les hommes et les femmes que beaucoup d'autres civilisations de [[Golarion]] trouvent dépassés. Les femmes kéléshites sont traitées comme des princesses ou des joyaux inestimables car c'est à elle qu'incombe la lourde tâche de donner naissance aux générations futures. Elles sont aussi destinataires des transmissions matérielles d'une génération à l'autre, les Kéléshites considérant que cela évite les conflits auxquels les hommes se livrent et qui sont si communs au [[Garund]] ou en [[Avistan]]. D'un autre côté, les hommes doivent gagner leur place dans la société en excellant dans leur domaine. Lorsqu'on les questionnent à propos de cette approche, les Kéléshites donnent l'exemple de la très longue existence du [[Qadira]] comme preuve du bien fondé de leurs idées et du bon fonctionnement de ce système. Mais, en réalité, les conflits entre les femmes du [[Qadira]] et le temps nécessaire à un homme pour montrer son aisance et ainsi en faire un bon parti sont aussi grotesques que les conflits d'héritages que l'on trouve dans le reste du monde.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Kéléshites dans le supplément
+Vous pourrez trouver plus d'informations à propos des Kéléshites dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

@@ -38,7 +38,7 @@ Les sept seigneurs des runes, avant même la mort du roi avaient déjà commenc�
 La principale divinité du Thassilon était [[Lissala]], déesse des runes, dont le culte fut introduit par l'empereur [[Xin]] lui-même. C'est son enseignement de la magie des runes qui donna sa puissance à l'empire. Bien qu'elle ne soit pas réputée pour être une déesse mauvaise, son message fut corrompu par la suite par les seigneurs des runes. D'autres églises existèrent au Thassilon. Les plus connus sont les monastères de l'[[Esprit du Paon]], ceux dévoués à [[Minderhal]], Seigneur des Géants, à [[Desna]] et la croyance en de nombreux démons.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos du Thassilon dans le supplément
+Vous pourrez trouver plus d'informations à propos du Thassilon dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - On parle également de l'empire du Thassilon dans le [[Aventures.Présentation AP1#AP1-1|premier volume]] de la campagne [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]].
 - On peut trouver un article dédié à la magie du Thassilon dans le [[Aventures.Présentation AP1#AP1-5|cinquième volume]] de la campagne [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]].

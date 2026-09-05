@@ -56,7 +56,7 @@ Un homoncule ne s’éloigne jamais volontairement de plus de
 500 m de son maître, mais il peut être emmené de force. Si cela se
 produit, la créature fait tout son possible pour réduire la distance
 qui la sépare de son maître, car elle ne peut pas communiquer
-avec lui au-delà de 500 m.
+avec lui au-delà de 500 m. 
 
 Si une attaque détruit l’homoncule, elle
 inflige également 2d10 points de dégâts à
@@ -92,7 +92,7 @@ coûtent 50 po. Une fois le corps sculpté, son animation requiert
 un long rituel magique qui doit se dérouler dans un laboratoire
 ou un atelier spécialement préparé à cet effet, similaire à un
 laboratoire d’alchimie et nécessitant d’être approvisionné pour
-un coût supplémentaire de 1 000 po.
+un coût supplémentaire de 1 000 po. 
 
 Si le créateur construit le corps de la créature lui-même, cette étape et le rituel d’animation
 peuvent être effectués en même temps. Il est possible de créer un

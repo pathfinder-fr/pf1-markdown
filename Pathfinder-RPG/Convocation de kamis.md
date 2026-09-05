@@ -9,42 +9,42 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:regional|Tianais|Tianais|tianais}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** un ou plusieurs [[sous-type kami|kamis]]
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+{s:regional|Tianais|Tianais|tianais}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** un ou plusieurs [[sous-type kami|kamis]]  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[convocation dalliés naturels V|convocation d'alliés naturels V]]*, excepté que le personnage peut convoquer un [[kodama]], 1d3 [[fukujin]] ou 1d4+1 [[shikigami]].
 
 
 
 (((
 ## Convocation d'alliés naturels V
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 créature de niveau 5 ou 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 créature de niveau 5 ou 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre convoquées  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 5, 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
 
 
 (((
 ## Convocation d'alliés naturels I
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Effet** 1 créature convoquée
-**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Effet** 1 créature convoquée  
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Voir les [[Convocation dalliés naturels|listes de créatures]] pour les sorts de *Convocation d'alliés naturels*.
 
 Ce sort invoque une créature naturelle (en général un [[type animal|animal]], une [[type fée|fée]], une [[type créature magique|créature magique]], un [[type extérieur|Extérieur]] de [[sous-type élémentaire]] ou un [[sous-type géant|géant]]) qui donne le meilleur d’elle-même pour combattre les ennemis du personnage. Elle se manifeste là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [[druide]] (ou le [[rôdeur]]) est capable de communiquer avec elle, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.

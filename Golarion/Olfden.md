@@ -7,9 +7,9 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Olfden (ville)|[[Andoran]]|[[Val de Sombrelune]]|NB|Standard (gouvernement démocratique)|3 000|3 319 (grosse bourgade)|89% humains, 5% nains, 2% demi-orques, 1% elfes, 1% gnomes, 2% autres|• **Gilmore Amring**, maire (humain m)
-• **Irik VonSet**, conseiller en chef
-• **Karlae Siegfrost**, conseillère (humain f, magicien 3/prêtre de [[Néthys]] 3/ théurge mystique 7)
+{s:Communauté|Olfden (ville)|[[Andoran]]|[[Val de Sombrelune]]|NB|Standard (gouvernement démocratique)|3 000|3 319 (grosse bourgade)|89% humains, 5% nains, 2% demi-orques, 1% elfes, 1% gnomes, 2% autres|• **Gilmore Amring**, maire (humain m)  
+• **Irik VonSet**, conseiller en chef  
+• **Karlae Siegfrost**, conseillère (humain f, magicien 3/prêtre de [[Néthys]] 3/ théurge mystique 7)  
 • **Luna Alred**, héroïne locale (humain f, NB, guerrier 4/magicien 5/champion occulte 4)}Olfden est une grande ville [[Andoran|andorane]] située dans la région du [[Val de Sombrelune]], à mi-chemin entre [[Nid-du-Faucon]] et [[Orégent]], et à seulement quelques kilomètres d'[[Adamas]], le siège du [[Régiment de Diamant]].<sup>(2)</sup>
 
 #### Histoire

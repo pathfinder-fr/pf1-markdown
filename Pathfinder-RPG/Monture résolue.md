@@ -8,7 +8,7 @@ LastModified: 2020-03-08 11:28
 
 **Condition.** [[Dressage]] 5 rangs
 
-**Avantage.** Choisissez un animal que vous pouvez utiliser pour la monte et que vous avez monté pendant un total d'au moins une heure par le passé. Lorsque vous la montez, cette créature obtient un bonus de moral de +4 sur les jets de sauvegarde contre les effets de peur et d'émotion et elle n'est plus affectée par l'[[aura surnaturelle (capacité)|aura surnaturelle]] des créatures. De plus, lorsque vous la montez, le [[DD]] pour pousser cet animal par le biais de la compétence [[Dressage]] n'augmente pas lorsqu'elle est blessée ou qu'elle a subi des dégâts non létaux ou par des capacités qui absorbent des Caractéristiques.
+**Avantage.** Choisissez un animal que vous pouvez utiliser pour la monte et que vous avez monté pendant un total d'au moins une heure par le passé. Lorsque vous la montez, cette créature obtient un bonus de moral de +4 sur les jets de sauvegarde contre les effets de peur et d'émotion et elle n'est plus affectée par l'[[aura surnaturelle (capacité)|aura surnaturelle]] des créatures. De plus, lorsque vous la montez, le [[DD]] pour pousser cet animal par le biais de la compétence [[Dressage]] n'augmente pas lorsqu'elle est blessée ou qu'elle a subi des dégâts non létaux ou par des capacités qui absorbent des Caractéristiques. 
 
 Vous pouvez modifier l'animal qui reçoit ces effets, mais seulement une fois par semaine.
 

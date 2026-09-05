@@ -34,10 +34,10 @@ Categories:
 {s:BDTexte|**For** 7, **Dex** 16, **Con** 15, **Int** 12, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 12}
 {s:BDTexte|**Dons** [[Attaque en finesse]], [[Vigilance]]}
-{s:BDTexte|**Compétences** [[Bluff]] +12, [[Déguisement]] +16, [[Discrétion]] +17, [[Escalade]] +14, [[Évasion]] +6, [[Natation]] +11, [[Perception]] +9, [[Psychologie]] +9}
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Déguisement]] +16, [[Discrétion]] +17, [[Escalade]] +14, [[Évasion]] +6, [[Natation]] +11, [[Perception]] +9, [[Psychologie]] +9} 
 {s:BDTexte|**Modificateurs raciaux** +4 en [[Bluff]], +8 en [[Déguisement]]}
 {s:BDTexte|**Langues** commun, infernal, commun des Profondeurs ; *[[compréhension des langages]]*}
-{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]]
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] 
 (tout objet vivant de taille TP) ; oeil du maître}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -58,7 +58,7 @@ comme son maître par une [[action simple]]. Si le raktavarna est le
 [[familier]] d’un lanceur de sorts, ce dernier est automatiquement
 son maître : le raktavarna ne peut rien y changer. Par une [[action complexe]]
 , le maître du raktavarna peut observer le monde
-comme s’il voyait par les yeux du raktavarna. Le maître doit se
+comme s’il voyait par les yeux du raktavarna. Le maître doit se 
 concentrer pour maintenir ce lien chaque [[round]]. Le maître perd
 ses sens visuels pendant cette durée et utilise la [[vision dans le noir]],
 la *[[détection de la magie]]* et la vision normale du raktavarna

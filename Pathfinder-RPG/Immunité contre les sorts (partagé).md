@@ -12,28 +12,28 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créatures touchées
-**Durée** 10 minutes/[[niveau]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créatures touchées  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#RM|inoffensif]])
----
+<hr />
 Ce sort fonctionne comme *[[immunité contre les sorts]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 
 
 
 (((
 ## Immunité contre les sorts
-**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Inquisiteur|Inq]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible** créature touchée
-**Durée** 10 minutes/[[niveau]]
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Inquisiteur|Inq]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible** créature touchée  
+**Durée** 10 minutes/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#RM|inoffensif]])
----
+<hr />
 La créature protégée est immunisée contre les effets d’un sort spécifique par tranche de quatre [[niveau|niveaux]] du lanceur de sorts. Les sorts en question doivent être du 4e niveau ou d’un niveau inférieur. Le sujet du sort bénéficie en fait d’une [[RM|résistance à la magie]] imbattable contre le ou les sorts spécifiés, ce qui signifie qu’*immunité contre les sorts* est impuissant face aux sorts qui ne tiennent pas compte de la [[RM|résistance à la magie]]. La protection offerte par l’*immunité contre les sorts* s’étend bien sûr aux sorts, mais aussi aux [[pouvoirs magiques]] des créatures et aux capacités des objets magiques semblables à des sorts. Il n’est d’aucune utilité contre les [[pouvoirs spéciaux|pouvoirs surnaturels]] ou [[pouvoirs spéciaux|exceptionnels]], tels que le souffle d’un [[type dragon|dragon]] ou le regard pétrifiant d’un [[basilic]].
 
 Il protège contre un seul sort donné, pas contre un [[domaines|domaine]] ou une [[école de magie]], ou encore contre un groupe de sorts aux effets similaires. Une créature ne peut être protégée que par une seule *immunité contre les sorts* (normale ou suprême) à la fois.

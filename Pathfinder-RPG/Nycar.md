@@ -54,7 +54,7 @@ Les nycars vivent dans de petites tanières souterraines, souvent accessibles so
 Le nycar mesure à peu près 75 centimètres de long et possède deux petites pattes qu’il utilise pour traîner son corps de serpent avec une rapidité surprenante. Les nycars sont des créatures jalouses qui ont l’habitude de chasser seules, mais certains s’accouplent jusqu’à ce que la femelle ponde ses oeufs. Ces oeufs sont noirs et de la taille d’un poing humain d’adulte. La femelle nourrit ses petits pendant une année après leur éclosion, période pendant laquelle les petits demeurent sur son territoire. Une fois mature, le nycar pèse 6 kilogrammes environ et peut vivre 90 ans.
 
 On a déjà vu certains nycars s’associer à des humains ou à d’autres créatures intelligentes, à condition que ces derniers
-leur offrent des proies faciles et d’occasionnelles babioles brillantes.
+leur offrent des proies faciles et d’occasionnelles babioles brillantes. 
 Un lanceur de sorts chaotique neutre avec le don Familier supérieur peut obtenir un familier nycar dès le niveau 7.
 
 </div></td></tr></table>

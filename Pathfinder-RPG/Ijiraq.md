@@ -47,11 +47,11 @@ LastModified: 2017-03-19 11:42
 </td><td><div>
 *Avec un crâne de caribou en guise de tête, cet humanoïde doté de griffes monstrueuses est vêtu de plusieurs épaisseurs de fourrure en lambeaux décorées de talismans en ivoire couverts de gravures.*
 
-Gardiens des régions nordiques, les ijiraqs protègent la beauté et la placidité glacées de leurs terres natales arctiques contre tous les intrus, quelles que soient leur race ou leurs intentions.
+Gardiens des régions nordiques, les ijiraqs protègent la beauté et la placidité glacées de leurs terres natales arctiques contre tous les intrus, quelles que soient leur race ou leurs intentions. 
 
 Ce sont des créatures dotées d’une résolution aussi froide, implacable et inébranlable que les vents arctiques. Ils tuent sans distinction les intrus bienveillants ou malveillants. Distants et mystérieux, ils n’aiment pas révéler leur véritable aspect et préfèrent endosser la forme svelte et soyeuse du caribou ou de l’élan. Même sous cette forme, on ne les aperçoit que du coin de l’oeil, tels des ombres furtives. Ceux qui plantent leur regard dans celui des irijaqs voient le monde qui les entoure se mettre à chanceler et à sombrer dans une telle irréalité que même le forestier le plus compétent ne parvient plus à déterminer la direction du nord. Il en va de même pour les autochtones qui vivent depuis des lustres au même endroit : ils s’égarent, même si leur demeure est à portée de vue.
 
-Rares sont ceux qui peuvent honnêtement affirmer avoir vu le véritable visage d’un ijiraq car ces créatures portent, comme des masques, les crânes des impressionnants animaux dont ils peuvent prendre la forme. Les ijiraqs mesurent 1,50 mètre de haut ou 1,80 mètre si l’on prend en compte leurs cornes impressionnantes.
+Rares sont ceux qui peuvent honnêtement affirmer avoir vu le véritable visage d’un ijiraq car ces créatures portent, comme des masques, les crânes des impressionnants animaux dont ils peuvent prendre la forme. Les ijiraqs mesurent 1,50 mètre de haut ou 1,80 mètre si l’on prend en compte leurs cornes impressionnantes. 
 
 Ils pèsent 90 kilogrammes environ.
 </div></td></tr></table>

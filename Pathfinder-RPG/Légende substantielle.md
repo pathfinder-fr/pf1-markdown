@@ -9,12 +9,12 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:cs}{s:CMy}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Barde|Bard]] 5, [[Prêtre|Prê]] 6
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** une créature/niveau situées à moins de 9 mètres les unes des autres
-**Durée** 1 round/niveau (T)
+{s:cs}{s:CMy}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Barde|Bard]] 5, [[Prêtre|Prê]] 6  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G]]   
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** une créature/niveau situées à moins de 9 mètres les unes des autres  
+**Durée** 1 round/niveau (T)  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui
 
 D’après ce que l’on sait, les dirigeants de l'Empire des premiers hommes auraient utilisé ce sort pour amplifier leur pouvoir mythique et celui de leurs plus brillants lieutenants. Le personnage amplifie le pouvoir mythique des créatures ciblées, les alimentant en énergie réparatrice chaque fois qu’elles font appel à leurs aptitudes mythiques. Quand une créature affectée par ce sort dépense des utilisations de [[pouvoir mythique]] pour une aptitude quelle qu’elle soit, elle regagne aussitôt 2d8 [[pv|points de vie]] + 1 point par [[NLS|niveau de lanceur de sorts]] (+25 au maximum). De plus, la créature profite de l’un des effets supplémentaires suivants.

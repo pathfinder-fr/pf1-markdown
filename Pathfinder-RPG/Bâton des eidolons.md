@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bâton des eidolons|}
 **Aura** [[Transmutation]] et [[Invocation]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 14 400 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton crochu est taillé dans l’acajou et orné d’ossements d’eidolons sortant du bois. Il permet d’utiliser les sorts suivants.
-• *[[Régénération deidolon mineure|Régénération d’eidolon mineure]]* (1 charge)
-• *[[Libération]]* (1 charge)
+Ce bâton crochu est taillé dans l’acajou et orné d’ossements d’eidolons sortant du bois. Il permet d’utiliser les sorts suivants.  
+• *[[Régénération deidolon mineure|Régénération d’eidolon mineure]]* (1 charge)  
+• *[[Libération]]* (1 charge)  
 • *[[Évolution mineure]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[évolution mineure]]*, *[[régénération deidolon mineure|régénération d’eidolon mineure]]*, *[[libération]]*; **Coût** 7 200 po

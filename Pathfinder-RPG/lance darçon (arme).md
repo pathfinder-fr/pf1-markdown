@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Lances|lances]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]
+{s:AE}**Prix** 10 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Lances|lances]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#25|→]] Lance d’arçon : Si j’ai le pouvoir bond et que je charge avec une lance d’arçon, est-ce que mes attaques itératives avec la lance d’arçon bénéficient du multiplicateur de dégâts lié à la charge ?***
 
 Non, il serait illogique que ces attaques itératives bénéficient des dégâts supplémentaires. Pour faire cette seconde attaque, le personnage doit ramener la <u>[[lance darçon (arme)|lance d’arçon]]</u> à lui et frapper en avant à nouveau, et cette frappe ne bénéficie pas de l’inertie de la charge. (Le *Manuel des joueurs* n’indique pas que le personnage n’obtient le multiplicateur de dégâts que sur la première attaque portée avec la lance d’arçon parce que quand le *Manuel des joueurs* a été publié, il n’y avait aucun moyen pour un PJ de charger et de porter plusieurs attaques avec une arme dans le même round, donc cette combinaison n’avait pas besoin d’être adressée.)}La lance d’arçon inflige le double des dégâts lorsque le personnage la manie sur le dos d’une monture qui [[charge]]. En selle, il peut la manier d’une seule main.

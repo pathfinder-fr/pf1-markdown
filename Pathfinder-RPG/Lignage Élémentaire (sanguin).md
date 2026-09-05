@@ -20,7 +20,7 @@ Categories:
 a choisi, quels que soient leurs effets habituels. De plus, le sous-type du sort change pour correspondre à celui de l’élément du personnage.)
 
 ### Pouvoirs de lignage
-L’un des quatre éléments imprègne le corps du sanguin qui peut puiser dans sa puissance quand il déclenche sa [[Sanguin#RAGESANGUINE|rage sanguine]].
+L’un des quatre éléments imprègne le corps du sanguin qui peut puiser dans sa puissance quand il déclenche sa [[Sanguin#RAGESANGUINE|rage sanguine]]. 
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
@@ -38,7 +38,7 @@ L’un des quatre éléments imprègne le corps du sanguin qui peut puiser dans 
 
 **Frappes élémentaires (Sur).** Au niveau 1, le sanguin peut imprégner ses attaques au corps à corps de son énergie élémentaire et ce, par une [[action rapide]] et trois fois par jour. Pendant 1 [[round]], l’attaque inflige alors 1d6 points de dégâts supplémentaires du type d’énergie choisi au départ. Au niveau 8, il peut utiliser ce pouvoir cinq fois par jour et au niveau 20, toutes ses attaques de corps à corps infligent ces dégâts supplémentaires, le sanguin n’a même plus besoin de dépenser une action rapide pour activer le pouvoir.
 
-**Résistance élémentaire(Ext).** Au niveau 4, le personnage gagne une [[Résistance (capacité)|résistance]] de 10 contre le type d’énergie choisi au départ.
+**Résistance élémentaire(Ext).** Au niveau 4, le personnage gagne une [[Résistance (capacité)|résistance]] de 10 contre le type d’énergie choisi au départ. 
 
 **Déplacement élémentaire(Sur).** Au niveau 8, le sanguin gagne un mode de déplacement spécial ou un bonus à la vitesse de déplacement, en fonction de l’élément qu’il a choisi, comme indiqué dans la table précédente.
 

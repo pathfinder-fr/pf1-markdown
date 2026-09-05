@@ -49,7 +49,7 @@ Dans la partie [[Andoran|andorane]] de la forêt, qui comprend toutes les terres
 
 La forêt de Verduran a donné son nom à l'une des cinq régions définies de la nation de l'[[Andoran]], les autres étant la [[Région dAlmas|région d'Almas]], [[Arthfell]], les [[Plaines de Carpenden]] et le [[Val de Sombrelune]].
 
-**Communautés.** [[Bellis]], [[Fusil]].
+**Communautés.** [[Bellis]], [[Fusil]].  
 **Points d'intérêts.** [[Fourches Noires]], [[Halte de Diggen]].
 
 #### Le Verduran au Taldor
@@ -57,7 +57,7 @@ Grâce au Traité de Bois-sauvage, signé entre les druides indigènes de la [[L
 
 La forêt de Verduran couvrait autrefois la majeure partie du nord du [[Taldor]], avant que ses étendues orientales ne soient réduites par la nation en pleine croissance et qu'une grande partie des terres s'affaisse pour former des marécages. Aujourd'hui, le [[marais de Noirbois]], les zones humides de la [[préfecture de Krearis]]<sup>(9)</sup> et le lac Lauchlein<sup>(10)</sup> se dressent sur les terres autrefois couvertes de forêt.
 
-**Communautés.** [[Port du Pendu]], [[Wispil]].
+**Communautés.** [[Port du Pendu]], [[Wispil]].  
 **Points d'intérêts.** [[Dunholme]], [[Guet brumeux]], [[Île darenway|Île d’Arenway]], [[Ruines de Nazilli]], [[Visage de Bafra]].
 
 #### Créatures de Verduran

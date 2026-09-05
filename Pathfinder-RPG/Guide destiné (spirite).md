@@ -11,7 +11,7 @@ Categories:
 {s:Menuarchétypespirite}{s:cs}{s:OO}*Tous les fantômes ne sont pas des morts agités qui fuient l'après-vie. En de rares occasions, la déesse qui juge les défunts renvoie une âme jugée sur le Plan Matériel - reliant l'esprit à un croyant dévoué – pour accomplir une tâche finale, réparer un crime ou accorder une seconde chance à une âme divisée. Malheureusement, du point de vue d'une âme, le voyage dans le Fleuve des âmes et les épreuves du Cimetière durent une éternité, et la plupart des fantômes reviennent avec peu, voire aucune idée de qui ils étaient ou de la nature de leur objectif. Le guide destiné aide son fantôme à découvrir des détails sur sa vie et ce qu'il peut faire pour définitivement partir.*
 
 #### Berger des morts
-Un guide destiné ajoute *[[destruction de mort-vivant]]* et *[[sanctification de cadavre]]* à sa liste de sorts connus.
+Un guide destiné ajoute *[[destruction de mort-vivant]]* et *[[sanctification de cadavre]]* à sa liste de sorts connus. 
 
 #### Fantôme
 Le fantôme lié à un guide destiné doit choisir le [[Fantômes (Spirite)#REMORDS|remords]] comme émotion dominante.

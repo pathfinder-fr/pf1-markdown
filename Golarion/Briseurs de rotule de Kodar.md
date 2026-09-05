@@ -7,7 +7,7 @@ Categories:
 - Varisie
 ---
 
-{s:Organisation|Les Briseurs de rotule de Kodar|Kodar Kneecappers|CB|Tuer des Géants|[[Harse]], [[Varisie]]|Thortona Fjortoft|Essentiellement des nains|Groupe d'aventuriers|National|-}Le groupe des Briseurs de rotule de Kodar a été fondé par Klaas Fjortoft. Il s'agit d'une organisation basée à [[Harse]], en [[Varisie]], dont le but est de venger les morts de ceux tombés sous les coups de géants.
+{s:Organisation|Les Briseurs de rotule de Kodar|Kodar Kneecappers|CB|Tuer des Géants|[[Harse]], [[Varisie]]|Thortona Fjortoft|Essentiellement des nains|Groupe d'aventuriers|National|-}Le groupe des Briseurs de rotule de Kodar a été fondé par Klaas Fjortoft. Il s'agit d'une organisation basée à [[Harse]], en [[Varisie]], dont le but est de venger les morts de ceux tombés sous les coups de géants. 
 
 Ils sont actuellement dirigés par Thortona Fjortoft, la fille de Klaas.
 

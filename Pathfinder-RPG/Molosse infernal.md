@@ -58,7 +58,7 @@ consiste à encercler leur proie sans
 faire de bruit avant qu’un ou deux molosses
 ne passent à l’attaque et n’utilisent
 leur souffle enflammé pour la repousser
-vers le reste de la meute.
+vers le reste de la meute. 
 
 Si la proie
 ne s’enfuit pas, la meute rétrécit le cercle
@@ -70,7 +70,7 @@ Les géants du feu apprécient la compagnie
 des molosses infernaux, car ils partagent
 leur immunité contre le feu ainsi que
 leur propension à se montrer cruels envers
-les intrus.
+les intrus. 
 
 C’est seulement quand un géant
 du feu se met à traiter un molosse infernal,

@@ -7,7 +7,7 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:menuaventuresoccultes}{s:AO}Un esprit des lieux se forme quand un excès d’énergie
+{s:menuaventuresoccultes}{s:AO}Un esprit des lieux se forme quand un excès d’énergie 
 psychique est ensuite saturé de résonances émotionnelles
 positives très puissantes. Ces êtres s’éveillent généralement
 dans les endroits possédant des liens étroits avec un
@@ -281,7 +281,7 @@ effet unique. Son bonus d’attaque (si besoin) est généralement
 - Esprit des lieux dynamisé, privé, CB (rayon de 4,50 m centré sur la statue du héros)
 - **NLS** 4ème
 - **pv** 8 ; **Cérémonie** [[Connaissances]] (histoire) DD 24, [[Représentation]] (déclamation) DD 24
-(((Effet)))
+(((Effet))) 
 - Le personnage appelle le courageux héros du passé, rappelant ses exploits et lui demandant de lui prêter sa force lors de sa propre quête. Si la cérémonie est couronnée de succès, la statue du héros semble lever son arme en signe de salut et le personnage bénéficie des effets d’un héroïsme.
 - **Effet de corruption** héroïsme devient effroi (DD 13).
 
@@ -307,7 +307,7 @@ effet unique. Son bonus d’attaque (si besoin) est généralement
 - Esprit des lieux protecteur, coterie, NB (pièce de 3 m sur 3 m)
 - **NLS** 5ème
 - **pv** 10 ; **Cérémonie** [[Connaissances]] (religion) DD 25, [[Survie]] DD 25
-(((Effet)))
+(((Effet))) 
 - Quand le personnage apporte les offrandes voulues, faites de brindilles et de baies, l’esprit des lieux se manifeste sous la forme d’un prêtre fantomatique replet portant un plateau lourd de victuailles qu’il offre au personnage et à ses alliés, comme avec un sort de création de nourriture et d’eau.
 - **Effet de corruption** création de nourriture et d’eau devient contagion (DD 14).
 

@@ -18,7 +18,7 @@ Categories:
 #### Imitation sauvage (Sur)
 Au niveau 1, un chasseur sauvage peut, de manière limitée, changer sa forme pour prendre celle d’animaux hybrides. Ceci fonctionne comme l’aptitude de classe imitation animale, sauf que le chasseur applique toujours l’aspect à lui-même et que sa durée n’est plus limitée. Il peut mettre fin à cette aptitude par une [[action libre]].
 
-Quand un chasseur sauvage utilise cette aptitude, son corps se transforme pour prendre certaines caractéristiques physiques d’un animal, telles qu’une peau couverte de poils, des ongles plus longs, des dents allongées et des yeux aux teintes étranges ; ces changements ne confèrent pas d’autres pouvoirs en dehors de ceux décrits par l’imitation animale et disparaissent quand le chasseur bénéficie d’un aspect différent ou met fin à cette aptitude.
+Quand un chasseur sauvage utilise cette aptitude, son corps se transforme pour prendre certaines caractéristiques physiques d’un animal, telles qu’une peau couverte de poils, des ongles plus longs, des dents allongées et des yeux aux teintes étranges ; ces changements ne confèrent pas d’autres pouvoirs en dehors de ceux décrits par l’imitation animale et disparaissent quand le chasseur bénéficie d’un aspect différent ou met fin à cette aptitude. 
 
 Ce changement physique est un effet de métamorphose, ce qui n’est pas le cas des effets de l’imitation animale. Cette aptitude altère imitation animale et remplace tactique du chasseur et communication avec le maître.
 

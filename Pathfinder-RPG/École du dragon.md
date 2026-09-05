@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [[For]] 15, [[Science du combat à mains nues]], 3 [[rang|rangs]] en [[Acrobaties]]
+**Conditions.** [[For]] 15, [[Science du combat à mains nues]], 3 [[rang|rangs]] en [[Acrobaties]] 
 
 **Avantage.** Quand le personnage utilise cette école, il gagne un bonus de +2 aux [[jet de sauvegarde|Jets de sauvegarde]] contre les effets de sommeil, de paralysie et d’étourdissement. Il ignore le [[terrain difficile]] quand il [[charge]], court ou bat en retraite. Il peut aussi charger à travers une case occupée par un allié. De plus, il peut ajouter 1,5 fois son bonus de Force à la première attaque à mains nues du round.
 

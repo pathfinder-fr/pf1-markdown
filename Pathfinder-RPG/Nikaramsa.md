@@ -48,5 +48,5 @@ Categories:
 </div>
 </td><td><div>{s:cs}<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[asura|asuras]].***</li></ul>*Ce géant musclé à deux têtes de lion féroces, chacune avec une longue langue noire qui fouette l'air inlassablement.*
 
-Un nikaramsa exploite l'orgueil et l'émerveillement des prêtres mortels en se déguisant en messager choisi par une divinité et en accordant des avantages divins à une congrégation, déroutant les croyants en transmettant de plus en plus de leçons hérétiques comme paroles d'évangiles. Le nikaramsa corrompt alors les bénédictions de la foi, provoquant l'effondrement de la religion à la suite des atrocités de son propre clergé.
+Un nikaramsa exploite l'orgueil et l'émerveillement des prêtres mortels en se déguisant en messager choisi par une divinité et en accordant des avantages divins à une congrégation, déroutant les croyants en transmettant de plus en plus de leçons hérétiques comme paroles d'évangiles. Le nikaramsa corrompt alors les bénédictions de la foi, provoquant l'effondrement de la religion à la suite des atrocités de son propre clergé. 
 </div></td></tr></table>

@@ -31,26 +31,26 @@ En général, l’emplacement de ces zones de magie primordiale et la création 
 Les manifestations de magie primordiale ont tendance à renforcer le potentiel de la magie avant de se manifester de manière explosive. Tout comme la foudre d’un orage n’explose pas de manière régulière et répétée, les éruptions magiques se manifestent de temps à autre et  quasiment  au  hasard.  Et  tout  comme  les  paratonnerres  attirent les éclairs, il est possible d’attirer la magie primordiale de manière intentionnelle ou accidentelle en manipulant la magie aux endroits où s’accumulent ces énergies.
 
 ### Manifestation de la magie primordiale
-Quand  la  magie  primordiale  se  manifeste,  lancez  les  dés  et consultez la table des Exemples d’évènements de magie primordiale pour déterminer la nature de cette manifestation. Quand la  magie  primordiale  exerce  son  pouvoir,  pensez  à supprimer les effets qui ont déjà eu lieu et à les remplacer par des évènements et des effets nouveaux.
+Quand  la  magie  primordiale  se  manifeste,  lancez  les  dés  et consultez la table des Exemples d’évènements de magie primordiale pour déterminer la nature de cette manifestation. Quand la  magie  primordiale  exerce  son  pouvoir,  pensez  à supprimer les effets qui ont déjà eu lieu et à les remplacer par des évènements et des effets nouveaux. 
 
 Si vous voulez que la magie primordiale joue un rôle majeur dans votre campagne, vous devriez veiller à toujours renouveler ses effets pour qu’aucun ne soit exactement identique aux autres. Ainsi, pour faciliter le travail, vous pouvez tout simplement remplacer les effets de sort aléatoires et les descriptions qui leur sont habituellement attribués par des effets et des descriptions légèrement différentes, comme une boule de feu noire qui dégage une odeur de rose et inflige des dégâts d’acide par exemple.
 
-La majorité des effets de magie primordiale devrait plutôt avoir lieu quand des créatures activent des objets magiques, utilisent des pouvoirs magiques ou lancent des sorts dans les zones propices (le simple fait de porter un objet magique ou de bénéficier des avantages d’un objet aux effets permanents ou d’un effet de sort n’est pas suffisant. C’est l’activation même d’un objet ou l’incantation d’un sort qui déclenche la magie primordiale).
+La majorité des effets de magie primordiale devrait plutôt avoir lieu quand des créatures activent des objets magiques, utilisent des pouvoirs magiques ou lancent des sorts dans les zones propices (le simple fait de porter un objet magique ou de bénéficier des avantages d’un objet aux effets permanents ou d’un effet de sort n’est pas suffisant. C’est l’activation même d’un objet ou l’incantation d’un sort qui déclenche la magie primordiale). 
 
-Quand une créature active un objet magique, lance un sort ou utilise un pouvoir magique dans une zone de magie primordiale, il y a 50 % de chances que l’effet du sort soit remplacé par un effet de magie primordiale.
+Quand une créature active un objet magique, lance un sort ou utilise un pouvoir magique dans une zone de magie primordiale, il y a 50 % de chances que l’effet du sort soit remplacé par un effet de magie primordiale. 
 
 Quand une créature lance un sort, utilise un pouvoir magique ou active un objet magique à fin d’incantation ou à potentiel magique, elle doit effectuer un test de [[concentration]] ([[DD]] = 15 + deux fois le niveau du sort) pour garder le contrôle de la magie et éviter de déclencher un effet de magie primordiale. Les créatures qui activent d’autres types d’objets magiques n’ont pas l’occasion d’effectuer un test  d’[[Art de la magie]] pour éviter le déclenchement d’un effet  de magie primordiale.
 
 ### Facteur de puissance (FP)
-Quand  un  effet  de  magie  primordiale se manifeste de manière naturelle, il cible une créature ou une zone aléatoire à proximité des PJ ou à n’importe quel endroit qui vous paraît approprié. Vous devez déterminer le FP de l’évènement au moment où l’effet se produit. Si un lanceur de sorts ou un objet magique déclenche l’évènement, son FP est égal au [[NLS|niveau de lanceur de sorts]] de l’objet ou du lanceur de sorts.
+Quand  un  effet  de  magie  primordiale se manifeste de manière naturelle, il cible une créature ou une zone aléatoire à proximité des PJ ou à n’importe quel endroit qui vous paraît approprié. Vous devez déterminer le FP de l’évènement au moment où l’effet se produit. Si un lanceur de sorts ou un objet magique déclenche l’évènement, son FP est égal au [[NLS|niveau de lanceur de sorts]] de l’objet ou du lanceur de sorts.  
 
 Quand un évènement se  produit de manière naturelle, vous pouvez lancer 1d20 pour déterminer son FP. Bien entendu, veillez à réduire le FP des évènements de magie primordiale pour qu’il soit le plus proche possible du niveau moyen de votre groupe de PJ. Tous les évènements de magie primordiale ne sont pas dangereux, mais vous risquez de mettre en péril le plaisir de jeu de vos joueurs et votre impartialité s’ils sont trop fréquemment les victimes d’effets dont la dangerosité dépasse de loin leurs capacités.
 
 Les évènements de magie primordiale persistent souvent plusieurs minutes, plusieurs heures, voire plusieurs jours. Une *[[dissipation de la magie]]* ou des sorts similaires peuvent dissiper leurs effets. Le cas échéant, considérez que le [[NLS|niveau de lanceur de sorts]] de l’effet est égal au FP de l’évènement.
 
-Dans la table des Exemples d’évènements de magie primordiale, l’abréviation  « FP »  est  utilisée  pour  indiquer  une valeur mathématique ; utilisez le FP de la magie primordiale pour déterminer ce nombre.
+Dans la table des Exemples d’évènements de magie primordiale, l’abréviation  « FP »  est  utilisée  pour  indiquer  une valeur mathématique ; utilisez le FP de la magie primordiale pour déterminer ce nombre.  
 
-''Par  exemple,  un  évènement  de  magie primordiale de FP 11 qui dure « FP minutes et affecte une zone d’un
+''Par  exemple,  un  évènement  de  magie primordiale de FP 11 qui dure « FP minutes et affecte une zone d’un 
 rayon de FP × 1,50 mètre » dure 11 minutes et affecte une zone d’un rayon de 16,5 mètres (11 {s:c}).''
 
 ### Exemples d’évènements de magie primordiale

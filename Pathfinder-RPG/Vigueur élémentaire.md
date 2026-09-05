@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs} {s:ISG} *Le personnage a appris les secrets de la transformation en communiant avec les êtres élémentaires.*
+{s:cs} {s:ISG} *Le personnage a appris les secrets de la transformation en communiant avec les êtres élémentaires.* 
 
 **Conditions.** Suivant d'un seigneur élémentaire
 

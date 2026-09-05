@@ -8,7 +8,7 @@ LastModified: 2024-05-21 18:26
 {s:BDTitre|Grande hache de vitesse|{s:AE}}
 **Aura** [[Transmutation]] modérée  ; **NLS** 10 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 11.320 po ; **Poids** 6 kg
 (((Description)))
-La lame de cette [[Grande hache (arme)|grande hache]] [[acérée (propriété)|acérée]] +1 est en obsidienne noire. Lorsque son porteur charge un adversaire, il bénéficie d’un bonus d’altération de +3 mètres à sa vitesse de déplacement pour le [[round]]. Une fois par jour, il peut ordonner à la hache d’octroyer à l’ensemble de ses alliés situés à 9 mètres ou moins de lui un bonus d’altération de 3 mètres à leur vitesse de déplacement de base pendant 1 [[round]].
+La lame de cette [[Grande hache (arme)|grande hache]] [[acérée (propriété)|acérée]] +1 est en obsidienne noire. Lorsque son porteur charge un adversaire, il bénéficie d’un bonus d’altération de +3 mètres à sa vitesse de déplacement pour le [[round]]. Une fois par jour, il peut ordonner à la hache d’octroyer à l’ensemble de ses alliés situés à 9 mètres ou moins de lui un bonus d’altération de 3 mètres à leur vitesse de déplacement de base pendant 1 [[round]]. 
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[repli expéditif]]*, *[[affûtage]]*  ; **Coût** 5.802 po
 </div>

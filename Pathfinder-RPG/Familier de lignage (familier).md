@@ -4,7 +4,7 @@ Title: Familiers de lignage
 LastModified: 2022-04-28 19:45
 ---
 
-<div class="fright">***Retour aux [[Familiers]].***
+<div class="fright">***Retour aux [[Familiers]].***  
 {s:cs}</div><div class="description">**Source :** Familiar Folio (FF).</div>
 
 28 avril 2022 projet de traduction en cours : Familiers de lignage.

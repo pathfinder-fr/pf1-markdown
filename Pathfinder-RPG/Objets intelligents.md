@@ -50,7 +50,7 @@ l’alignement de l’objet.
 
 </center></div></div>Tous les objets intelligents ont un alignement (voir la table ci-contre). Les armes intelligentes en ont déjà un, indiqué de manière explicite ou implicite. Si vous créez une arme intelligente, son alignement doit être en adéquation avec les pouvoirs qu’elle possède et qui s’activent en fonction de l’alignement.
 
-Si un personnage ramasse un objet dont l’alignement ne correspond pas au sien, il reçoit un [[niveau négatif]] (hormis ceux notés d’un astérisque dans le tableau ci-contre). Ce n’est jamais une véritable perte de niveau, il persiste seulement tant que le personnage garde l’objet en sa possession (on ne peut pas le dissiper, pas même avec les différents sorts de *[[restauration]]*). Le [[niveau négatif]] se cumule avec les autres malus que l’objet impose aux propriétaires qui ne lui conviennent pas.
+Si un personnage ramasse un objet dont l’alignement ne correspond pas au sien, il reçoit un [[niveau négatif]] (hormis ceux notés d’un astérisque dans le tableau ci-contre). Ce n’est jamais une véritable perte de niveau, il persiste seulement tant que le personnage garde l’objet en sa possession (on ne peut pas le dissiper, pas même avec les différents sorts de *[[restauration]]*). Le [[niveau négatif]] se cumule avec les autres malus que l’objet impose aux propriétaires qui ne lui conviennent pas. 
 
 Les objets avec un [[Objets intelligents#EGO|Ego]] de 20 à 29 (voir plus bas) infligent deux [[niveau négatif|niveaux négatifs]], ceux avec un [[Objets intelligents#EGO|Ego]] de 30 ou plus en infligent trois.
 

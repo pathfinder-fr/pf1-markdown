@@ -8,7 +8,7 @@ LastModified: 2024-05-29 19:50
 {s:BDTitre|Couvre-chef du libre penseur|{s:AE}}
 **Aura** [[Abjuration]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 12 000 po ; **Poids** —
 (((Description)))
-Ce couvre-chef souple aide le porteur à ne pas succomber aux influences extérieures. Une fois par jour, orsqu’il effectue un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] pour résister à un effet mental, il peut effectuer un deuxième jet et conserver le meilleur résultat.
+Ce couvre-chef souple aide le porteur à ne pas succomber aux influences extérieures. Une fois par jour, orsqu’il effectue un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] pour résister à un effet mental, il peut effectuer un deuxième jet et conserver le meilleur résultat. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[esprit impénétrable]]* ; **Coût** 6 000 po
 </div>

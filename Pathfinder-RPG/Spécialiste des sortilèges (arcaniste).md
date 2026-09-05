@@ -13,11 +13,11 @@ Categories:
 {s:Menuarchétypearcaniste}{s:MCA}*Là où la plupart des arcanistes étudient la magie dans son ensemble, un spécialiste des sortilèges se focalise sur quelques sorts seulement. Ils sont capables de tordre et de plier la magie de leurs sorts emblématiques en appliquant des techniques impossibles à reproduire par les autres lanceurs de sorts.*
 
 #### Sorts emblématiques
-Au niveau 1 et chaque fois que le spécialiste des sortilèges accède à un nouveau niveau de sorts, il choisit un sort emblématique.
+Au niveau 1 et chaque fois que le spécialiste des sortilèges accède à un nouveau niveau de sorts, il choisit un sort emblématique. 
 
 Il peut lancer ce sort sans le préparer, de la même façon qu’un ensorceleur lance ses sorts spontanément. Même si le spécialiste des sortilèges n’a pas besoin de préparer ce sort, il continue de l’inclure dans le nombre de sorts qu’il est susceptible de préparer, ce qui réduit de 1 le nombre de sorts de chaque niveau qu’il peut préparer quotidiennement.
 
-Un spécialiste des sortilèges peut remplacer un unique sort emblématique par un autre sort de même niveau lorsqu’il gagne un niveau dans la classe d’arcaniste.
+Un spécialiste des sortilèges peut remplacer un unique sort emblématique par un autre sort de même niveau lorsqu’il gagne un niveau dans la classe d’arcaniste. 
 
 Le DD des sorts emblématiques augmente de 1.
 

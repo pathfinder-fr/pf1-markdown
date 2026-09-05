@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 1,5 kg
+{s:AE}**Prix** 15 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Un recueil de formules compte 100 pages de parchemins et chaque formule d’[[Alchimiste#EXTRAITS|extrait]] alchimique prend une page par niveau de l’extrait. Un recueil de formules tout neuf ne contient aucune formule d’extrait. Les [[Alchimiste|alchimistes]] commencent le jeu avec un recueil de formules contenant les formules d’extraits qu’ils connaissent. Il s’agit de l’équivalent pour l’alchimiste du [[Grimoire (objet)|grimoire]] des [[Magicien|magiciens]] (ce sont des objets similaires).

@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Bâton d'accompagnement|}
 **Aura** [[Évocation]] et [[transmutation]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 14 800 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est orné de notes de musique. Lorsqu’un personnage le tient en main et l’utilise au cours d’une représentation bardique, il accompagne le chant de sons d’instruments à vent, accordant un bonus de compétence de +2 aux tests de Représentation. Il permet d’utiliser les sorts suivants.
-• *[[Corde déchardes|Corde d’échardes]]* (1 charge)
-• *[[Final salvateur]]* (1 charge)
+Ce bâton est orné de notes de musique. Lorsqu’un personnage le tient en main et l’utilise au cours d’une représentation bardique, il accompagne le chant de sons d’instruments à vent, accordant un bonus de compétence de +2 aux tests de Représentation. Il permet d’utiliser les sorts suivants.  
+• *[[Corde déchardes|Corde d’échardes]]* (1 charge)  
+• *[[Final salvateur]]* (1 charge)  
 • *[[Allegro]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[allegro]]*, *[[corde déchardes|corde d’échardes]]*, *[[final salvateur]]*; **Coût** 7 400 po

@@ -19,7 +19,7 @@ Le personnage peut utiliser sa réserve monétaire dans n'importe quelle communa
 
 La réserve monétaire du personnage est disponible même hors du Paradis religieux des marchands, mais dans ce cas l'obtention d'un objet commandé prend 1 heure de plus si sa valeur est inférieure à la limite d'achat de la communauté, ou 1 jour de plus s'il l'excède.
 
-(((Profits of ~~Kalistrade~~
+(((Profits of ~~Kalistrade~~  
 *Your careful investments provide you with liquid assets with which you may gain the use of various items on a temporary basis.*
 
 **Prerequisites:** Diplomacy 1 rank, Druma affinity.

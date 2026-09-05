@@ -145,17 +145,17 @@ if (dt1<dt2) return -1;
 return 1;
 }
 
-function ts_sort_currency(a,b) {
+function ts_sort_currency(a,b) { 
 aa = ts_getInnerText(a.cells[[SORT_COLUMN_INDEX]]).replace(/[[0-9.]]/g,'');
 bb = ts_getInnerText(b.cells[[SORT_COLUMN_INDEX]]).replace(/[[0-9.]]/g,'');
 return parseFloat(aa) - parseFloat(bb);
 }
 
-function ts_sort_numeric(a,b) {
+function ts_sort_numeric(a,b) { 
 
 aa = parseFloat(ts_getInnerText(a.cells[[SORT_COLUMN_INDEX]]));
 if (isNaN(aa)) aa = -1;
-bb = parseFloat(ts_getInnerText(b.cells[[SORT_COLUMN_INDEX]]));
+bb = parseFloat(ts_getInnerText(b.cells[[SORT_COLUMN_INDEX]])); 
 if (isNaN(bb)) bb = -1;
 return aa-bb;
 }
@@ -168,7 +168,7 @@ r = r.replace(new RegExp(/æ/g),"ae");
 r = r.replace(new RegExp(/ç/g),"c");
 r = r.replace(new RegExp(/[[èéêë]]/g),"e");
 r = r.replace(new RegExp(/[[ìíîï]]/g),"i");
-r = r.replace(new RegExp(/ñ/g),"n");
+r = r.replace(new RegExp(/ñ/g),"n");                
 r = r.replace(new RegExp(/[[òóôõö]]/g),"o");
 r = r.replace(new RegExp(/œ/g),"oe");
 r = r.replace(new RegExp(/[[ùúûü]]/g),"u");

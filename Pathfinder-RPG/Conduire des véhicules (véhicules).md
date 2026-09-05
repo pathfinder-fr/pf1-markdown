@@ -27,7 +27,7 @@ Afin d’accomplir cette manœuvre, le conducteur doit réussir un [[conduire|te
 
 {s:Reference|SORTIRDUCOMBAT}**Sortir un véhicule du combat.** Comme il est facile d’accomplir cette tâche en [[faire 10|faisant 10]] sur le [[test de compétence|jet de compétence]], les [[test de compétence|tests de compétence]] ne sont normalement pas nécessaires. Presque tous les personnages peuvent facilement le faire ; les [[DD]] sont donnés uniquement pour régler les situations spéciales qui pourraient arriver dans le jeu.
 
-{s:Reference|CONDUIREVEHICULEAPROPULSIONMAGIQUE}**Conduire un véhicule propulsé par magie.** En général, un tel [[véhicule]] requiert des actions mais pas de [[conduire|test de conduite]] pour le diriger. Lorsqu’un personnage pilote ce genre d’engin, traitez chaque action comme s’il avait réussi son test.
+{s:Reference|CONDUIREVEHICULEAPROPULSIONMAGIQUE}**Conduire un véhicule propulsé par magie.** En général, un tel [[véhicule]] requiert des actions mais pas de [[conduire|test de conduite]] pour le diriger. Lorsqu’un personnage pilote ce genre d’engin, traitez chaque action comme s’il avait réussi son test. 
 
 {s:Reference|CONDUIREVEHICULESANSCOPETENCE}**Conduire un véhicule sans la compétence appropriée.** S’il ne possède pas la [[compétences|compétence]], le [[conducteur]] peut toujours faire à la place un jet de [[Sagesse]]. Il peut même [[faire 10]] ou bénéficier d’une assistance lorsqu’il utilise sa [[Sagesse]] à la place de la compétence.
 

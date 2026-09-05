@@ -50,7 +50,7 @@ Categories:
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Protéen|protéens]].***</li></ul>*Des tentacules portant des gueules de tortue émergent du dos de cette créature serpentine, comme pour accompagner la dangereuse bouche qui orne son visage reptilien.*
 
-Les protéens les plus brutaux, les naunets, forment la caste la plus basse de cette race. Ils servent de troupes de choc dans les armées protéennes ou de pillards itinérants au service du Chaos.
+Les protéens les plus brutaux, les naunets, forment la caste la plus basse de cette race. Ils servent de troupes de choc dans les armées protéennes ou de pillards itinérants au service du Chaos. 
 
 On les trouve surtout près des frontières fluctuantes qui séparent les Limbes des autres plans. La stabilité et l’immuabilité de ces zones instillent souvent en eux une folie qui les incite à traverser la frontière vers ces autres plans et à y déchirer le voile de la réalité lui-même afin de rendre à de larges territoires leur forme originale, celle d’une beauté pleine de promesses similaire à leur plan d’origine.
 

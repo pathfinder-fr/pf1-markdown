@@ -7,11 +7,11 @@ Categories:
 - Paths of Prestige
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:PP}''Probablement aucun groupe n'a semé les graines de la liberté dans l'Empire diabolique aussi hardiment que le Réseau libérateur, et aucun membre du réseau n'est dédié à cette cause autant que les agents du réseau. Chargés de libérer les esclaves des exploitations agricoles de la nation infernale et de les escorter en lieu sûr dans le Berceau de la liberté ou le Royaume de l'Homme, les agents du réseau sont de réelles plaies pour les dirigeants et les grands bourgeois du pays et leurs minions diaboliques. Ces libérateurs d'élites pratiquent leur art partout à travers l'Empire diabolique, que ce soit dans les rues les plus sombres ou les terres sauvages, comme des forêts. Les agents du réseau utilisent des vocables du champ lexical de l'agriculture pour masquer leurs activités aux oreilles indiscrètes – en se référant à leurs cachettes secrètes comme des « granges », aux esclaves qu'ils escortent comme des « cultures » et aux chemins secrets qu'ils prennent comme des « rangs ». Tout contact prolongé entre agents du réseau est fortement déconseillé par les dirigeants du réseau car cela pourrait exposer l'organisation aux autorités. Malgré cela, il se rencontrent souvent en secret pour discuter des routes les plus sûres à prendre, des sommes d'argent à utiliser pour soudoyer certains officiers et des meilleurs tactiques pour organiser au mieux les groupes d'esclaves, tout cela pour améliorer leur chance d'évasion.
+{s:MenuClassesDePrestige}{s:cs}{s:PP}''Probablement aucun groupe n'a semé les graines de la liberté dans l'Empire diabolique aussi hardiment que le Réseau libérateur, et aucun membre du réseau n'est dédié à cette cause autant que les agents du réseau. Chargés de libérer les esclaves des exploitations agricoles de la nation infernale et de les escorter en lieu sûr dans le Berceau de la liberté ou le Royaume de l'Homme, les agents du réseau sont de réelles plaies pour les dirigeants et les grands bourgeois du pays et leurs minions diaboliques. Ces libérateurs d'élites pratiquent leur art partout à travers l'Empire diabolique, que ce soit dans les rues les plus sombres ou les terres sauvages, comme des forêts. Les agents du réseau utilisent des vocables du champ lexical de l'agriculture pour masquer leurs activités aux oreilles indiscrètes – en se référant à leurs cachettes secrètes comme des « granges », aux esclaves qu'ils escortent comme des « cultures » et aux chemins secrets qu'ils prennent comme des « rangs ». Tout contact prolongé entre agents du réseau est fortement déconseillé par les dirigeants du réseau car cela pourrait exposer l'organisation aux autorités. Malgré cela, il se rencontrent souvent en secret pour discuter des routes les plus sûres à prendre, des sommes d'argent à utiliser pour soudoyer certains officiers et des meilleurs tactiques pour organiser au mieux les groupes d'esclaves, tout cela pour améliorer leur chance d'évasion. 
 
 Presque tous les agents du réseau sont des [[roublard|roublards]] [[halfelin|halfelins]], même si certains membres fervents ont des niveaux dans les classes de roublard et d'[[inquisiteur]] alors que des membres plus malins auront des niveaux de roublard et de [[rôdeur]]. Les [[justicier|justiciers]] peuvent naturellement aussi répondre à l'appel de l'organisation et devenir des agents du réseau. Les non-halfelins sont habituellement admis après avoir prouvé leur loyauté envers le mouvement anti-esclavagiste et leur bonne volonté envers les halfelinss mais une fois qu'ils rejoignent la cause, ils sont un atout majeur dans l'organisation pour la simple et bonne raison que leur race ne rend pas les officiers immédiatement suspicieux dans les zones où le réseau est actif.
 
-La mission d'un agent du réseau repose en partie sur sa capacité à établir et maintenir une fausse identité viable et crédible. Beaucoup prétendent être des marchands ou bricoleurs itinérants – des occupations qui leur donnent la liberté de se rendre où ils veulent (et doivent) aller, quand ils le veulent – et ils ont un alibi pour expliquer leur présence sur la route s'ils sont confrontés aux autorités de l'Empire démoniaque. Les autres agents du réseau rejoignent des bandes de mercenaires ou des groupes d'aventuriers, en utilisant leurs compétences en survie et en organisation pour aider leurs compagnons en échange de quelques coups de main au cas où la libération d'un certain esclave tournerait au vinaigre.''
+La mission d'un agent du réseau repose en partie sur sa capacité à établir et maintenir une fausse identité viable et crédible. Beaucoup prétendent être des marchands ou bricoleurs itinérants – des occupations qui leur donnent la liberté de se rendre où ils veulent (et doivent) aller, quand ils le veulent – et ils ont un alibi pour expliquer leur présence sur la route s'ils sont confrontés aux autorités de l'Empire démoniaque. Les autres agents du réseau rejoignent des bandes de mercenaires ou des groupes d'aventuriers, en utilisant leurs compétences en survie et en organisation pour aider leurs compagnons en échange de quelques coups de main au cas où la libération d'un certain esclave tournerait au vinaigre.'' 
 
 <center>
 
@@ -128,27 +128,27 @@ La mission d'un agent du réseau repose en partie sur sa capacité à établir e
 **Dé de vie.** d8.
 
 ### Conditions requises
-Pour pouvoir devenir agent du réseau, le personnage doit satisfaire aux conditions suivantes.
+Pour pouvoir devenir agent du réseau, le personnage doit satisfaire aux conditions suivantes. 
 
 **Alignement.** Chaotique Bon.
 
-**Compétences.** 3 rangs en [[Connaissances]] (folklore local), 5 rangs en [[Discrétion]], 5 rangs en [[Déguisement]], 5 rangs en [[Survie]].
+**Compétences.** 3 rangs en [[Connaissances]] (folklore local), 5 rangs en [[Discrétion]], 5 rangs en [[Déguisement]], 5 rangs en [[Survie]]. 
 
-**Dons.** Deux [[dons déquipe|dons d'équipe]].
+**Dons.** Deux [[dons déquipe|dons d'équipe]]. 
 
-**Spécial.** [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +2d6 ou 2 [[Justicier#TALENTSDEJUSTICIER|talents de justicier]].
+**Spécial.** [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +2d6 ou 2 [[Justicier#TALENTSDEJUSTICIER|talents de justicier]]. 
 
 ### Compétences de classe
-Voici les compétences de classe de l'agent du réseau : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (géographie) (Int), [[Déguisement]] (Dex), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escamotage]] (Dex), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag) et [[Survie]] (Sag).
+Voici les compétences de classe de l'agent du réseau : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (géographie) (Int), [[Déguisement]] (Dex), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escamotage]] (Dex), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag) et [[Survie]] (Sag). 
 
-**Rangs de compétence par niveau.** 6 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 6 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe d'agent du réseau.
+Voici les caractéristiques de la classe d'agent du réseau. 
 
 {s:reference|CULTUREDURESEAU}
 #### Culture du réseau (Ext)
-Par une [[action simple]], un agent du réseau peut désigner jusqu'à 3 + son modificateur de [[Charisme]] alliés comme des membres de sa culture du réseau. Les membres d'une culture doivent rester à 9 m (6 {s:c}) ou moins de l'agent du réseau pour obtenir n'importe quel avantage venant de capacités affectant une culture du réseau, quelle que soit la source (que ce soit un [moissonneur du réseau](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Vigilante%20Bellflower%20Harvester), un [irrigateur du réseau](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Rogue%20Bellflower%20Irrigator) ou un agent du réseau). Si un ou plusieurs de ses alliés vont au-delà de cette portée, l'agent du réseau doit à nouveau désigner ces alliés pour qu'ils soient inclus dans sa culture. Au niveau 7, cette portée passe à 18 m (12 {s:c}).
+Par une [[action simple]], un agent du réseau peut désigner jusqu'à 3 + son modificateur de [[Charisme]] alliés comme des membres de sa culture du réseau. Les membres d'une culture doivent rester à 9 m (6 {s:c}) ou moins de l'agent du réseau pour obtenir n'importe quel avantage venant de capacités affectant une culture du réseau, quelle que soit la source (que ce soit un [moissonneur du réseau](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Vigilante%20Bellflower%20Harvester), un [irrigateur du réseau](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Rogue%20Bellflower%20Irrigator) ou un agent du réseau). Si un ou plusieurs de ses alliés vont au-delà de cette portée, l'agent du réseau doit à nouveau désigner ces alliés pour qu'ils soient inclus dans sa culture. Au niveau 7, cette portée passe à 18 m (12 {s:c}). 
 
 {s:reference|SEMEURRAPIDE}
 #### Semeur rapide (Ext)
@@ -174,8 +174,8 @@ Au niveau 3, un agent du réseau obtient une [[roublard#ATTAQUESOURNOISE|attaque
 #### Grange de prédilection (Ext)
 Au niveau 5, un agent de réseau s'habitue à une communauté particulière et y trouve des contacts dignes de confiance. Tant qu'il est dans les limites de cette communauté, il obtient un bonus de +2 aux tests d'[[initiative]] ainsi qu'aux tests de [[Connaissances]] (folklore local), [[Discrétion]], [[Perception]] et [[Survie]]. Tous les alliés désignés comme membres de sa [[Agent du Réseau Campanule#CULTUREDURESEAU|culture du réseau]] obtiennent un bonus à ces compétences égal à la moitié du bonus de l'agent du réseau. Un agent du réseau qui voyage dans sa communauté de prédilection ne laisse aucune trace et ne peut pas être traqué (mais peut laisser des traces s'il le désire).
 
-Tant qu'il n'est pas en danger immédiat (par exemple, lorsqu'il fuit avec des poursuivants juste derrière lui), l'agent du réseau peut toujours trouver un endroit sûr pour lui et les membres de sa [[Agent du Réseau Campanule#CULTUREDURESEAU|culture du réseau]] pour se reposer dans la communauté choisie. Dans ce lieu, lui et ses alliés sont nourris, habillés et peuvent recevoir des soins de base (comme si un personnage avec un bonus de +10 en [[Premiers secours]] prenait soin d'eux).
+Tant qu'il n'est pas en danger immédiat (par exemple, lorsqu'il fuit avec des poursuivants juste derrière lui), l'agent du réseau peut toujours trouver un endroit sûr pour lui et les membres de sa [[Agent du Réseau Campanule#CULTUREDURESEAU|culture du réseau]] pour se reposer dans la communauté choisie. Dans ce lieu, lui et ses alliés sont nourris, habillés et peuvent recevoir des soins de base (comme si un personnage avec un bonus de +10 en [[Premiers secours]] prenait soin d'eux). 
 
-Aux niveaux 7 et 9, l'agent du réseau peut sélectionner une communauté supplémentaire dans laquelle il obtient ces bonus. À chaque fois qu'il choisit une nouvelle communauté, le bonus aux compétences et le bonus à l'initiative dans une des communautés de prédilection choisies (ce qui inclut la communauté qu'il vient de choisir, s'il le désire) augmentent de 2.
+Aux niveaux 7 et 9, l'agent du réseau peut sélectionner une communauté supplémentaire dans laquelle il obtient ces bonus. À chaque fois qu'il choisit une nouvelle communauté, le bonus aux compétences et le bonus à l'initiative dans une des communautés de prédilection choisies (ce qui inclut la communauté qu'il vient de choisir, s'il le désire) augmentent de 2. 
 
 Pour cette capacité, une grange de prédilection peut être n'importe quelle [[Villes|communauté]] ayant 100 individus ou plus. Les fermes à la périphérie, les champs et les maisons sont considérés comme faisant partie d'une communauté.

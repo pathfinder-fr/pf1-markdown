@@ -10,10 +10,10 @@ Categories:
 {s:BDTitre|Bâton de clarté|}
 **Aura** [[Évocation]] puissante ; **NLS** 15 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 51 500 po ; **Poids** 2,5 kg
 (((Description)))
-Ce bâton est habituellement recouvert d’une couche d’argent sur lequel sont gravés des symboles solaires. Il permet de lancer les sorts suivants :
-• *[[explosion de lumière]]* (3 charges)
-• *[[illumination]]* (1 charge)
-• *[[lumière du jour]]* (2 charges)
+Ce bâton est habituellement recouvert d’une couche d’argent sur lequel sont gravés des symboles solaires. Il permet de lancer les sorts suivants :  
+• *[[explosion de lumière]]* (3 charges)  
+• *[[illumination]]* (1 charge)  
+• *[[lumière du jour]]* (2 charges)  
 • *[[lumières dansantes]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[explosion de lumière]]*, *[[illumination]]*, *[[lumière du jour]]*, *[[lumières dansantes]]* ; **Coût** 20 750 po

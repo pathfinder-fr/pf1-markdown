@@ -65,7 +65,7 @@ de nombreux sages à émettre diverses hypothèses peu concluantes sur
 leur origine et leurs motivations. Ils parlent un dialecte du commun
 caractérisé par des pépiements et de clapotements mais ils ne sont
 que très rarement enclins à dialoguer avec les créatures qui ne sont
-pas de leur race.
+pas de leur race. 
 
 Si les chuuls ont développé une culture qui va au-delà
 de la simple saison de reproduction frénétique qu’on leur connaît, les
@@ -73,7 +73,7 @@ humanoïdes n’en ont pas (encore) connaissance. Ils semblent plutôt
 diriger entièrement leur intellect à la recherche des meilleurs endroits
 pour tendre une embuscade aux autres créatures intelligentes et à la
 décoration de leurs repaires avec des trophées prélevés sur ceux qu’ils
-ont tués.
+ont tués. 
 
 Les chuuls ne montrent aucun intérêt pour les outils de
 quelque sorte que ce soit mais il semblent avoir un besoin compulsif

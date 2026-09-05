@@ -33,7 +33,7 @@ Comme le culte est Loyal, au sein de ces obédiences, il y a une hiérarchie sé
 
 ### Temples
 
-Les suivants de Zon-kuthon étant rarement les bienvenues dans une communauté, ils ont tendance à cacher leur croyance ainsi que leur lieu de culte. Cette clandestinité, ainsi que leur goût prononcé pour les ténèbres, les poussent à choisir des bâtiments désaffectés, des caves et autres ruines qu'ils transforment en salle de torture.
+Les suivants de Zon-kuthon étant rarement les bienvenues dans une communauté, ils ont tendance à cacher leur croyance ainsi que leur lieu de culte. Cette clandestinité, ainsi que leur goût prononcé pour les ténèbres, les poussent à choisir des bâtiments désaffectés, des caves et autres ruines qu'ils transforment en salle de torture. 
 
 Le [[Nidal]] est la nation qui possède le plus de fidèles du Seigneur de Minuit, ces dirigeants ayant passé un pacte de servitude durant l'âge des ténèbres.
 

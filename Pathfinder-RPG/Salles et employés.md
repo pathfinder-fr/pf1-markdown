@@ -15,18 +15,18 @@ Chaque salle ou employé coûte un certain montant d’un ou plusieurs types de 
 
 {s:Reference|Construction d’un bâtiment par l’agencement de salles}
 #### Construction d’un bâtiment par l’agencement de salles
-Lorsque votre personnage lance la construction d’un bâtiment (voir la [[Bâtiments et organisations#Bâtiments|liste des bâtiments]]), il peut relier les salles de la façon qui lui convient à l’aide de portes et de couloirs ou les inclure dans un seul et même espace suffisamment grand et dénué de cloison. Sauf indication contraire, chaque salle contient un sol, un plafond, des murs, des meubles, des portes, des fenêtres et divers éléments appropriés à sa fonction au sein du bâtiment.
+Lorsque votre personnage lance la construction d’un bâtiment (voir la [[Bâtiments et organisations#Bâtiments|liste des bâtiments]]), il peut relier les salles de la façon qui lui convient à l’aide de portes et de couloirs ou les inclure dans un seul et même espace suffisamment grand et dénué de cloison. Sauf indication contraire, chaque salle contient un sol, un plafond, des murs, des meubles, des portes, des fenêtres et divers éléments appropriés à sa fonction au sein du bâtiment. 
 - *Exemple.* une salle commune est une pièce spacieuse conçue pour accueillir beaucoup de monde. Dans un fort, une salle commune contient des tables, des chaises et sert de mess pour les soldats. Dans une taverne ou une auberge, elle contient les mêmes éléments de mobilier et c’est le principal endroit où les clients se rendent pour se rencontrer et boire un verre. Dans un temple, elle contient des chaises ou des bancs, et c’est dans cette pièce que sont réalisés les offices religieux. Dans une école de bardes, elle contient des chaises et des pupitres, et c’est dans cette salle que les artistes pratiquent leur art.
 
 Les portes extérieures sont des portes en bois de bonne qualité dotées de serrures très simples. Les portes intérieures sont des portes en bois toutes simples sans serrure. Vous pouvez faire installer des serrures de différentes qualités en les acquérant au prix normal.
 
-Votre personnage n’est pas obligé de construire toutes les salles du bâtiment en même temps. Le prix de construction d’un bâtiment contenant deux salles est le même, que vous construisiez ces deux salles au même moment, ou l’une d’abord et l’autre plus tard.
+Votre personnage n’est pas obligé de construire toutes les salles du bâtiment en même temps. Le prix de construction d’un bâtiment contenant deux salles est le même, que vous construisiez ces deux salles au même moment, ou l’une d’abord et l’autre plus tard. 
 
 {s:Reference|Salles brisées}
 #### Salles brisées
 Si les dégâts subis par une salle dépasse la moitié de ses points de vie (ou si le MJ décide qu’elle est suffisamment endommagée suite à un évènement d’intermède ou autre), la salle obtient l’état préjudiciable brisé. Une salle brisée ne produit plus que la moitié de ses recettes habituelles. En règle générale, pour réparer une salle brisée, il faut dépenser un montant de po ou de capitaux égal à la moitié du prix de construction de la salle. Certains évènements liés aux bâtiments permettent de réparer des salles brisées à des prix différents.
 
-Un bâtiment entier peut également obtenir l’état préjudiciable brisé. Traitez le bâtiment comme si toutes ses salles étaient brisées, sauf que votre personnage doit réparer le bâtiment dans son ensemble au lieu de réparer les salles qu’il contient les unes après les autres.
+Un bâtiment entier peut également obtenir l’état préjudiciable brisé. Traitez le bâtiment comme si toutes ses salles étaient brisées, sauf que votre personnage doit réparer le bâtiment dans son ensemble au lieu de réparer les salles qu’il contient les unes après les autres. 
 
 {s:Reference|Création d’une organisation par le recrutement des employés}
 #### Création d’une organisation par le recrutement des employés
@@ -38,7 +38,7 @@ La composition d’une équipe d’employés peut évoluer au cours du temps en 
 
 Votre personnage peut uniquement recruter des équipes composées d’employés dont le niveau de personnage est inférieur ou égal à sa valeur de Prestige. Si votre personnage ne possède pas ce don, calculez cette valeur en additionnant son niveau et son modificateur de [[Charisme]].
 
-Sauf indication contraire, les employés ne sont pas des aventuriers et ils ne vous accompagneront pas lors de vos aventures à l’intérieur de donjons ou d’endroits potentiellement mortels.
+Sauf indication contraire, les employés ne sont pas des aventuriers et ils ne vous accompagneront pas lors de vos aventures à l’intérieur de donjons ou d’endroits potentiellement mortels. 
 - *Exemple.* un acolyte est un lanceur de sorts divins de bas niveau. Au sein d’un culte, les acolytes sont les individus les moins gradés de la hiérarchie et se chargent de la plupart des interactions avec les nouveaux convertis. Dans une guilde de voleurs, ils s’occupent des soins appliqués aux membres de la guilde après un casse ou une guerre des gangs. Dans une compagnie de mercenaires, ils veilleront à répondre aux demandes spirituelles et à soigner les blessures physiques des soldats.
 
 {s:Reference|Employés et Prestige}
@@ -47,15 +47,15 @@ Entre autres avantages, la présence de suivants conférée par le don [[Prestig
 
 Les individus qui travaillent dans l’organisation de votre personnage lui obéissent parce qu’il les rémunère ou tout du moins parce qu’il entretient un contact régulier avec eux et supervise leurs activités. À la différence des cohortes et des suivants obtenus grâce au don [[Prestige]] (ceux-là sont loyaux envers votre personnage grâce à sa réputation et à son comportement), si votre personnage s’absente trop longtemps, il risque de rompre les liens avec ses organisations. Dans le paragraphe sur la phase d’entretien, référez-vous à la troisième étape : [[Phases dintermède#4ème étape – Déterminez l’usure des entreprises|Déterminez l’usure des capitaux]].
 
-En plus des méthodes applicables pour empêcher l’usure indiquées dans le paragraphe sur la [[Phases dintermède#Phase d’entretien|phase d’entretien]], le personnage peut résoudre ce problème en intégrant des suivants au sein de ses organisations. Votre personnage peut ajouter automatiquement des suivants dans ses organisations, de la même façon qu’il recrute des employés. Pour chaque groupe de cinq suivants désignés pour devenir membres d’une organisation, le personnage gagne un bonus de +1 à son test de prestige effectué pour prévenir l’usure. Comme la plupart des suivants sont des personnages de bas niveau avec des classes de PNJ, beaucoup ne sont pas formés au combat et sont souvent recrutés en tant qu’[[Salles et employés#ACOLYTE|acolytes]], [[Salles et employés#BUREAUCRATES|bureaucrates]], [[Salles et employés#ARTISANS|artisans]], [[Salles et employés#LAQUAIS|laquais]], etc. (voir [[Salles et employés#Récapitulatif des employés|Les employés]]).
+En plus des méthodes applicables pour empêcher l’usure indiquées dans le paragraphe sur la [[Phases dintermède#Phase d’entretien|phase d’entretien]], le personnage peut résoudre ce problème en intégrant des suivants au sein de ses organisations. Votre personnage peut ajouter automatiquement des suivants dans ses organisations, de la même façon qu’il recrute des employés. Pour chaque groupe de cinq suivants désignés pour devenir membres d’une organisation, le personnage gagne un bonus de +1 à son test de prestige effectué pour prévenir l’usure. Comme la plupart des suivants sont des personnages de bas niveau avec des classes de PNJ, beaucoup ne sont pas formés au combat et sont souvent recrutés en tant qu’[[Salles et employés#ACOLYTE|acolytes]], [[Salles et employés#BUREAUCRATES|bureaucrates]], [[Salles et employés#ARTISANS|artisans]], [[Salles et employés#LAQUAIS|laquais]], etc. (voir [[Salles et employés#Récapitulatif des employés|Les employés]]). 
 
 {s:Reference|Combiner salles et employés}
 #### Combiner salles et employés
-Ce système permet à votre personnage de construire un [[Bâtiments et organisations#Bâtiments|bâtiment]] dans lequel personne ne travaille, de créer une [[Bâtiments et organisations#Organisations|organisation]] sans base d’opérations ou de combiner les deux pour créer un [[Bâtiments et organisations#Bâtiments|bâtiment]] doté d’un effectif au grand complet ou une organisation installée dans un quartier général. Par exemple, si votre personnage construit un temple et recrute des acolytes dans la même communauté, il peut mettre les acolytes au travail dans son temple. Si le temple contient une salle dans laquelle les acolytes peuvent dormir, ils peuvent même vivre sur place. Si plus tard, votre personnage désire déplacer les acolytes ou de s’en débarrasser, il possède toujours le temple et peut en disposer comme il lui sied.
+Ce système permet à votre personnage de construire un [[Bâtiments et organisations#Bâtiments|bâtiment]] dans lequel personne ne travaille, de créer une [[Bâtiments et organisations#Organisations|organisation]] sans base d’opérations ou de combiner les deux pour créer un [[Bâtiments et organisations#Bâtiments|bâtiment]] doté d’un effectif au grand complet ou une organisation installée dans un quartier général. Par exemple, si votre personnage construit un temple et recrute des acolytes dans la même communauté, il peut mettre les acolytes au travail dans son temple. Si le temple contient une salle dans laquelle les acolytes peuvent dormir, ils peuvent même vivre sur place. Si plus tard, votre personnage désire déplacer les acolytes ou de s’en débarrasser, il possède toujours le temple et peut en disposer comme il lui sied. 
 
 {s:Reference|Lire le profil d'une unité}
 ### Comment lire le profil d'une unité
-Les profils des salles et des employés se ressemblent et sont présentés de la façon suivante. Lorsqu’une section n’indique aucune valeur (une salle qui ne peut être améliorée ou qui ne sert pas à améliorer une autre salle, par exemple), elle n’apparaît tout simplement pas dans le profil.
+Les profils des salles et des employés se ressemblent et sont présentés de la façon suivante. Lorsqu’une section n’indique aucune valeur (une salle qui ne peut être améliorée ou qui ne sert pas à améliorer une autre salle, par exemple), elle n’apparaît tout simplement pas dans le profil. 
 
 {s:Reference|Recettes}
 #### Recettes
@@ -69,7 +69,7 @@ Si votre personnage possède, dans une même communauté, plusieurs bâtiments o
 
 Dans le cas d’une salle, la rémunération des employés nonqualifiés au service de votre personnage est déjà prélevée sur le montant des recettes. Par exemple, les recettes indiquées dans la description du bar prennent déjà en compte la rémunération du barman et des serveurs. Dans le cas des employés et des recettes indiquées dans leur description, on part du principe qu’ils travaillent dans un bâtiment qui appartient à votre personnage. Si ses employés ne disposent d’aucun bâtiment dans lequel travailler, réduisez de moitié les Recettes qu’ils engendrent.
 
-Il est possible que le texte descriptif du profil d’une unité propose d’autres avantages sans rapport avec le système d’intermède.
+Il est possible que le texte descriptif du profil d’une unité propose d’autres avantages sans rapport avec le système d’intermède. 
 - *Exemple.* l’[[Bâtiments et organisations#AUBERGE|auberge]] contient un [[Salles et employés#BAR|bar]], une [[Salles et employés#SALLE COMMUNE|salle commune]], une [[Salles et employés#CUISINE|cuisine]], un [[Salles et employés#LOGEMENT|logement]] et une [[Salles et employés#STABULATION|stabulation]]. Le bar confère +10 en po et en [[Intermèdes#Influence|Influence]] ; la salle commune +7 en po et en [[Intermèdes#Influence|Influence]] ; la cuisine +4 en po et en [[Intermèdes#Marchandises|Marchandises]] ; le logement +12 en po et la stabulation +8 en po, [[Intermèdes#Marchandises|Marchandises]] et [[Intermèdes#Travail|Travail]]. Toutes ces salles peuvent produire des po et si votre personnage le souhaite, vous devez simplement faire la somme de leurs bonus (pour un total de +41) et effectuer le test de [[Acquisition des capitaux#Travail qualifié|travail qualifié]] de l’auberge afin de déterminer le montant de po produit. Si vous souhaitez utiliser le bonus du bar pour produire de l’[[Intermèdes#Influence|Influence]] et les bonus des autres salles pour produire des po, vous effectuez un test de [[Acquisition des capitaux#Travail qualifié|travail qualifié]] pour l’[[Intermèdes#Influence|Influence]] avec un modificateur de +10 (le bonus du bar) et un autre test de travail qualifié pour les po avec un modificateur de +31 (le total des bonus conférés par la salle commune, le logement et la stabulation). 
 
 {s:Reference|Restrictions sur les recettes}
@@ -86,7 +86,7 @@ Le profil ne donne pas la liste des avantages qui ne sont pas liés aux mécanis
 
 {s:Reference|Création}
 #### Création
-Cette section donne le montant de [[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] et [[Intermèdes#Magie|Magie]] qu’il faut dépenser pour construire la salle ou recruter les employés. Est également indiqué une valeur en po qui correspond au prix à payer pour acheter une salle entièrement terminée ou pour recruter des employés prêts à travailler de ce type.
+Cette section donne le montant de [[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] et [[Intermèdes#Magie|Magie]] qu’il faut dépenser pour construire la salle ou recruter les employés. Est également indiqué une valeur en po qui correspond au prix à payer pour acheter une salle entièrement terminée ou pour recruter des employés prêts à travailler de ce type. 
 
 {s:Reference|Durée}
 #### Durée
@@ -94,13 +94,13 @@ Cette section indique la durée des travaux nécessaires pour terminer la constr
 
 Si aucune Durée n’est précisée dans le cas des employés, la dépense de capitaux pour les recruter n’est pas considérée comme une action d’intermède.
 
-Remarquez que les Durées de recrutement partent du principe que les employés sont embauchés à long terme et elles ne prennent pas en compte la disponibilité de ces PNJ en matière de travail temporaire. Par exemple, si votre personnage souhaite louer les services d’un prêtre de niveau 3 pour qu’il lance restauration partielle, il n’a pas besoin de passer sept jours d’intermède à recruter des curés ; il doit simplement [[Lancement de sort (objet)|louer les services d’un lanceur de sorts]] comme décrit dans le Manuel des Joueurs.
+Remarquez que les Durées de recrutement partent du principe que les employés sont embauchés à long terme et elles ne prennent pas en compte la disponibilité de ces PNJ en matière de travail temporaire. Par exemple, si votre personnage souhaite louer les services d’un prêtre de niveau 3 pour qu’il lance restauration partielle, il n’a pas besoin de passer sept jours d’intermède à recruter des curés ; il doit simplement [[Lancement de sort (objet)|louer les services d’un lanceur de sorts]] comme décrit dans le Manuel des Joueurs. 
 
 {s:Reference|Taille}
 #### Taille
 Dans le cas d’une salle, cette section donne une fourchette du nombre de cases (de 1,50 mètres de côté) qu’il faut pour intégrer une salle standard de ce type dans un bâtiment. Par exemple, une [[Salles et employés#CUISINE|cuisine]] fait entre 2 et 6 cases de 1,50 mètre de côté. Si votre personnage veut construire une salle de ce type plus spacieuse, il devra construire deux salles (qui n’en formeront  qu’une). S’il souhaite construire une salle plus petite, il peut réduire la taille sans coût supplémentaire. Par exemple, si votre personnage a seulement besoin d’une cuisine de 1 case de 1,50 mètre de côté, il peut le faire au prix indiqué dans le profil de cette salle, même si la limite inférieure de la fourchette est de 2 cases de 1,50 mètre de côté.
 
-Dans le cas d’employés, cette section indique le nombre de personnes de ce type recrutées. En règle générale, le nombre d’employés recrutés ne peut être inférieur à 50% ni supérieur à 150% de la valeur indiquée. Si votre personnage souhaite recruter un nombre d’employés plus important que la limite supérieure, il doit recruter deux équipes et les fusionner.
+Dans le cas d’employés, cette section indique le nombre de personnes de ce type recrutées. En règle générale, le nombre d’employés recrutés ne peut être inférieur à 50% ni supérieur à 150% de la valeur indiquée. Si votre personnage souhaite recruter un nombre d’employés plus important que la limite supérieure, il doit recruter deux équipes et les fusionner. 
 
 {s:Reference|Amélioration}
 #### Amélioration
@@ -108,7 +108,7 @@ Certaines salles et certains employés sont des variantes ou des versions améli
 
 Pour chaque type de capitaux, réglez uniquement le prix pour des différences positives. Par exemple, si votre personnage transforme un [[Salles et employés#DORTOIR|dortoir]] en [[Salles et employés#LOGEMENT|logement]], vous dépensez 3 points de [[Intermèdes#Marchandises|Marchandises]], 3 points de [[Intermèdes#Travail|Travail]] et 6 jours. Même si un logement coûte moins d’[[Intermèdes#Influence|Influence]], vous ne récupérer pas la différence en effectuant l’amélioration.
 
-Il n’est pas possible de rétrograder une salle ou des employés. Vous pouvez remplacer une salle ou des employés par d’autres avec l’accord du MJ, comme pour une amélioration.
+Il n’est pas possible de rétrograder une salle ou des employés. Vous pouvez remplacer une salle ou des employés par d’autres avec l’accord du MJ, comme pour une amélioration. 
 
 {s:Reference|Description}
 #### Description
@@ -118,14 +118,14 @@ La description d’une unité vient après ses caractéristiques. Elle donne sou
 ### Retards sur les constructions et le recrutement
 Si la nature de la communauté va à l’encontre du type de bâtiment ou d’organisation que votre personnage tente de construire ou de créer (tel qu’un marché noir ou une guilde de voleurs dans une communauté avec un modificateur de [[Villes#Les_modificateurs_de_communauté_2|Criminalité]] réduit et un modificateur de [[Villes#Les_modificateurs_de_communauté_2|Lois]] élevé), le MJ peut décider que cette construction ou ce recrutement prend 1d6 × 10% plus de temps que la normal (1 jour supplémentaire au minimum) si votre personnage ne supervise pas lui-même le travail.
 
-Vous pouvez raccourcir ce délai supplémentaire avant ou pendant la période de retard en dépensant 1 point d’[[Intermèdes#Influence|Influence]], ce qui le réduit de 1d6 jours (0 jour de retard au minimum).
-Votre personnage peut ordonner à un compagnon d’arme de superviser le travail à sa place ou embaucher un [[gestionnaires|employé compétent]] pour le faire ; l’une ou l’autre de ces options prévient tout risque de retard.
+Vous pouvez raccourcir ce délai supplémentaire avant ou pendant la période de retard en dépensant 1 point d’[[Intermèdes#Influence|Influence]], ce qui le réduit de 1d6 jours (0 jour de retard au minimum). 
+Votre personnage peut ordonner à un compagnon d’arme de superviser le travail à sa place ou embaucher un [[gestionnaires|employé compétent]] pour le faire ; l’une ou l’autre de ces options prévient tout risque de retard. 
 
 {s:Reference|Délocaliser une organisation}
 ### Délocaliser une organisation
 Votre personnage peut délocaliser une organisation vers une autre communauté en payant la moitié du prix de son recrutement. Ce prix inclut les coûts de délocalisation des employés, de remplacement des individus qui n’ont pas souhaité partir, etc. Pour préparer la délocalisation d’une organisation, il faut habituellement 1d6 jours par groupe d’employés. La durée de la délocalisation effective des employés est égale à celle nécessaire pour se rendre de la communauté de départ à celle d’arrivée. L’organisation confère la moitié seulement de ses avantages pendant la durée de préparation de la délocalisation et aucun pendant le voyage vers la nouvelle communauté.
 
-Au lieu de délocaliser une organisation entière, votre personnage peut décider de délocaliser une partie seulement des employés qui y travaillent. Par exemple, si deux groupes de [[Salles et employés#CAMBRIOLEURS|cambrioleurs]] travaillent dans la [[Bâtiments et organisations#GUILDE DE VOLEURS|guilde de voleurs]] de votre personnage, il peut délocaliser l’un d’eux vers une communauté différente en dépensant 2 points d’[[Intermèdes#Influence|Influence]] et 1 point de [[Intermèdes#Travail|Travail]] (la moitié du prix de recrutement d’un groupe de [[Salles et employés#CAMBRIOLEURS|cambrioleurs]] dans la nouvelle communauté). Tout le reste fonctionne comme si vous délocalisiez une organisation dans son ensemble. Votre personnage peut intégrer ces employés dans une organisation déjà existante dans la nouvelle communauté ou les utiliser pour créer une nouvelle organisation.
+Au lieu de délocaliser une organisation entière, votre personnage peut décider de délocaliser une partie seulement des employés qui y travaillent. Par exemple, si deux groupes de [[Salles et employés#CAMBRIOLEURS|cambrioleurs]] travaillent dans la [[Bâtiments et organisations#GUILDE DE VOLEURS|guilde de voleurs]] de votre personnage, il peut délocaliser l’un d’eux vers une communauté différente en dépensant 2 points d’[[Intermèdes#Influence|Influence]] et 1 point de [[Intermèdes#Travail|Travail]] (la moitié du prix de recrutement d’un groupe de [[Salles et employés#CAMBRIOLEURS|cambrioleurs]] dans la nouvelle communauté). Tout le reste fonctionne comme si vous délocalisiez une organisation dans son ensemble. Votre personnage peut intégrer ces employés dans une organisation déjà existante dans la nouvelle communauté ou les utiliser pour créer une nouvelle organisation. 
 
 {s:Reference|Les salles}
 ### Les salles
@@ -246,9 +246,9 @@ Vous pouvez utiliser les salles suivantes pour construire des bâtiments.
 {s:Reference|ABRI POUR ANIMAUX}
 <div class=BD>
 {s:BDTitre|Abri pour animaux|{s:GC}}
-**Recettes** +12 ou Influence
-**Création** 18 Marchandises, 3 Influence, 17 Travail (790 po) ; **Durée** 40 jours
-**Taille** 40-60 cases
+**Recettes** +12 ou Influence  
+**Création** 18 Marchandises, 3 Influence, 17 Travail (790 po) ; **Durée** 40 jours  
+**Taille** 40-60 cases  
 **Amélioration de** enclos et stabulation
 (((Description)))
 Cette salle permet d’abriter des animaux. À la différence d’une stabulation ou d’une écloserie, un abri pour animaux
@@ -260,7 +260,7 @@ contempler. On ajoute plusieurs hautes perches dans un abri pour animaux conçu 
 {s:Reference|ACCÈS AUX ÉGOUTS}
 <div class=BD>
 {s:BDTitre|Accès aux égouts|{s:GC}}
-**Création** 2 Marchandises, 1 Influence, 2 Travail (110 po) ; **Durée** 4 jours
+**Création** 2 Marchandises, 1 Influence, 2 Travail (110 po) ; **Durée** 4 jours  
 **Taille** 4-6 cases
 (((Description)))
 Un accès aux égouts peut être une salle, un tunnel ou un élément aussi simple qu’une solide trappe fixée au sol. Pour
@@ -270,8 +270,8 @@ pouvoir construire une telle salle, la communauté dans laquelle se situe le bâ
 {s:Reference|ARMURERIE}
 <div class=BD>
 {s:BDTitre|Armurerie|{s:GC}}
-**Avantages** permet d’équiper les membres d’un dortoir ou d’un poste de garde, réduit le temps nécessaire pour enfiler une armure.
-**Création** 9 Marchandises, 3 Influence, 6 Travail (390 po) ; **Durée** 16 jours
+**Avantages** permet d’équiper les membres d’un dortoir ou d’un poste de garde, réduit le temps nécessaire pour enfiler une armure.  
+**Création** 9 Marchandises, 3 Influence, 6 Travail (390 po) ; **Durée** 16 jours  
 **Taille** 5-15 cases
 (((Description)))
 Une armurerie contient une grande variété d’armes et d’armures ordinaires en quantité suffisante pour équiper les
@@ -281,9 +281,9 @@ membres d’un dortoir ou d’un poste de garde (les gardes ou les soldats stock
 {s:Reference|ATELIER DE COUTURE}
 <div class=BD>
 {s:BDTitre|Atelier de couture|{s:GC}}
-**Recettes** +10 ou Marchandises ou Influence
-**Avantage** compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat.
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
+**Recettes** +10 ou Marchandises ou Influence  
+**Avantage** compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat.  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
 **Taille** 6-12 cases
 (((Description)))
 Un atelier de couture est conçu pour créer des blasons et pour fabriquer des vêtements, des tapisseries, des couvertures, des tapis, du linge et autres pièces de textile. Il contient un métier à tisser, un rouet, des cadres à tapisserie, des étagères sur lesquelles sont stockés les tissus pliés, des plans de travail et les outils pour
@@ -293,9 +293,9 @@ filer, tisser et coudre. Cette pièce peut servir à un maximum de trois personn
 {s:Reference|ATELIER D’ARTISAN}
 <div class=BD>
 {s:BDTitre|Atelier d’artisan|{s:GC}}
-**Recettes** +10 ou Marchandises ou Influence
-**Avantages** compte comme des outils de maître artisan pour une compétence d’Artisanat.
-**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 20 jours
+**Recettes** +10 ou Marchandises ou Influence  
+**Avantages** compte comme des outils de maître artisan pour une compétence d’Artisanat.  
+**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 20 jours  
 **Taille** 8-16 cases
 (((Description)))
 Cet atelier spécialisé contient toute une variété d’outils et de matériaux pour pratiquer un artisanat particulier tel que le travail du verre, la taille de gemmes ou la sculpture. Vous déterminez l’artisanat concerné lorsque votre personnage construit la salle. Cette pièce peut servir à un maximum de trois personnes à la fois.
@@ -304,9 +304,9 @@ Cet atelier spécialisé contient toute une variété d’outils et de matériau
 {s:Reference|ATELIER DE MÉCANIQUE}
 <div class=BD>
 {s:BDTitre|Atelier de mécanique|{s:GC}}
-**Recettes** +10 ou Marchandises ou Travail
-**Avantages** compte comme des outils d’artisan de qualité supérieure pour pratiquer l’Artisanat (mécanique).
-**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 20 jours
+**Recettes** +10 ou Marchandises ou Travail  
+**Avantages** compte comme des outils d’artisan de qualité supérieure pour pratiquer l’Artisanat (mécanique).  
+**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 20 jours  
 **Taille** 8-16 cases
 (((Description)))
 Cet atelier contient tous les outils de précision et les postes de travail nécessaires à la fabrication de mécanismes délicats. Cette pièce peut servir à un maximum de trois personnes à la fois.
@@ -315,9 +315,9 @@ Cet atelier contient tous les outils de précision et les postes de travail néc
 {s:Reference|ATELIER DE TANNEUR}
 <div class=BD>
 {s:BDTitre|Atelier de tanneur|{s:GC}}
-**Recettes** +10 ou Marchandises
-**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences de travail du cuir
-**Création** 7 Marchandises, 1 Influence, 7 Travail (310 po) ; **Durée** 16 jours
+**Recettes** +10 ou Marchandises  
+**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences de travail du cuir  
+**Création** 7 Marchandises, 1 Influence, 7 Travail (310 po) ; **Durée** 16 jours  
 **Taille** 4-10 cases
 (((Description)))
 Un atelier de tanneur contient une table solide, un tabouret, des cuves, des étendoirs et des outils conçus pour traiter les peaux et les transformer en cuir. L’atelier de tanneur peut accueillir jusqu’à trois travailleurs à la fois et l’on considère qu’ils manipulent des outils d’artisan de qualité supérieure lorsqu’ils fabriquent des articles en cuir grâce aux compétences d’Artisanat (travail du cuir) ou Artisanat (souliers) par exemple.
@@ -326,9 +326,9 @@ Un atelier de tanneur contient une table solide, un tabouret, des cuves, des ét
 {s:Reference|AUDITORIUM}
 <div class=BD>
 {s:BDTitre|Auditorium|{s:GC}}
-**Recettes** +15 ou Influence
-**Avantages** bonus aux tests de Représentation
-**Création** 19 Marchandises, 1 Influence, 25 Travail (910 po) ; **Durée** 40 jours
+**Recettes** +15 ou Influence  
+**Avantages** bonus aux tests de Représentation  
+**Création** 19 Marchandises, 1 Influence, 25 Travail (910 po) ; **Durée** 40 jours  
 **Taille** 40-100 cases
 (((Description)))
 Amélioration d': une salle de bal
@@ -338,8 +338,8 @@ Cette grande salle est utilisée pour accomplir diverses performances artistique
 {s:Reference|AUTEL}
 <div class=BD>
 {s:BDTitre|Autel|{s:GC}}
-**Recettes** +3 Influence
-**Avantages** compte comme une installation permanente vouée à la divinité du personnage dans le cadre d’une consécration ou de sorts similaires.
+**Recettes** +3 Influence  
+**Avantages** compte comme une installation permanente vouée à la divinité du personnage dans le cadre d’une consécration ou de sorts similaires.  
 **Création** 2 Marchandises, 1 Influence, 2 Travail, 1 Magie (210po) ; **Durée** 4 jours
 (((Description)))
 Ce point focal spirituel est doté de l’iconographie et des ustensiles nécessaires pour effectuer des cérémonies. Un autel classique est le plus souvent en pierre, mais il peut également prendre la forme d’un bassin sacré, d’un bûcher sacrificiel, d’une série de statues ou de tout autre point de convergence sacré.
@@ -348,9 +348,9 @@ Ce point focal spirituel est doté de l’iconographie et des ustensiles nécess
 {s:Reference|BAR}
 <div class=BD>
 {s:BDTitre|Bar|{s:GC}}
-**Recettes** +10 ou Influence
-**Avantages** bonus aux tests de Diplomatie pour recueillir des informations
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours
+**Recettes** +10 ou Influence  
+**Avantages** bonus aux tests de Diplomatie pour recueillir des informations  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours  
 **Taille** 10-20 cases
 (((Description)))
 Un bar contient toute une variété de boissons et un comptoir pour les préparer. Après avoir passé une heure en compagnie des gens du coin dans cette salle, votre personnage gagne, pendant les vingt-quatre prochaines heures, un bonus de +1 aux tests de Diplomatie effectués pour recueillir des informations dans la communauté.
@@ -359,10 +359,10 @@ Un bar contient toute une variété de boissons et un comptoir pour les prépare
 {s:Reference|BIBLIOTHÈQUE}
 <div class=BD>
 {s:BDTitre|Bibliothèque|{s:GC}}
-**Recettes** +8 ou Influence
-**Avantages** bonus aux tests d’une compétence de Connaissances.
-**Création** 8 Marchandises, 2 Influence, 7 Travail, 1 Magie (460 po) ; **Durée** 16 jours
-**Taille** 4-12 cases
+**Recettes** +8 ou Influence  
+**Avantages** bonus aux tests d’une compétence de Connaissances.  
+**Création** 8 Marchandises, 2 Influence, 7 Travail, 1 Magie (460 po) ; **Durée** 16 jours  
+**Taille** 4-12 cases  
 **Amélioration en** bibliothèque magique
 (((Description)))
 Une bibliothèque contient une grande quantité d’étagères couvertes de livres, en plus des chaises, bureaux et tables pour lire et étudier. La plupart des bibliothèques contiennent des livres couvrant une large gamme de connaissances et représentant une source impressionnante d’informations générales, mais certaines contiennent des livres axés sur un sujet spécifique. Lorsque votre personnage construit une bibliothèque, sélectionnez une compétence de Connaissances. Si quelqu’un pose une question en relation avec cette compétence et passe une heure à faire des recherches dans la bibliothèque, il gagne un bonus de +3 au test de Connaissances pour y répondre.
@@ -371,10 +371,10 @@ Une bibliothèque contient une grande quantité d’étagères couvertes de livr
 {s:Reference|BIBLIOTHÈQUE MAGIQUE}
 <div class=BD>
 {s:BDTitre|Bibliothèque magique|{s:GC}}
-**Recettes** +12 ou Influence ou Magie
-**Avantages** bonus aux tests de Connaissances (mystères), d’Art de la magie et de recherche de sorts.
-**Création** 9 Marchandises, 3 Influence, 8 Travail, 3 Magie (730 po) ; **Durée** 20 jours
-**Taille** 4-12 cases
+**Recettes** +12 ou Influence ou Magie  
+**Avantages** bonus aux tests de Connaissances (mystères), d’Art de la magie et de recherche de sorts.  
+**Création** 9 Marchandises, 3 Influence, 8 Travail, 3 Magie (730 po) ; **Durée** 20 jours  
+**Taille** 4-12 cases  
 **Amélioration de** la bibliothèque
 (((Description)))
 Une bibliothèque magique est similaire à une bibliothèque,mais elle est spécifiquement conçue pour l’étude des arts
@@ -384,8 +384,8 @@ magiques. Elle contient des étagères couvertes de livres, des chaises conforta
 {s:Reference|BRASSERIE}
 <div class=BD>
 {s:BDTitre|Brasserie|{s:GC}}
-**Recettes** +10 ou Influence
-**Création** 9 Marchandises, 2 Influence, 7 Travail (380 po) ; **Durée** 24 jours
+**Recettes** +10 ou Influence  
+**Création** 9 Marchandises, 2 Influence, 7 Travail (380 po) ; **Durée** 24 jours  
 **Taille** 12-24 cases
 (((Description)))
 Une brasserie permet à votre personnage de faire fermenter et de distiller des ingrédients tels que des fruits ou des
@@ -395,9 +395,9 @@ céréales pour créer des boissons fortes.
 {s:Reference|BRETÈCHE}
 <div class=BD>
 {s:BDTitre|Bretèche|{s:GC}}
-**Avantages** les défenseurs obtiennent un bonus à l’initiative et aux tests de Perception.
-**Création** 15 Marchandises, 3 Influence, 12 Travail (630 po) ; **Durée** 40 jours
-**Taille** 8-12 cases
+**Avantages** les défenseurs obtiennent un bonus à l’initiative et aux tests de Perception.  
+**Création** 15 Marchandises, 3 Influence, 12 Travail (630 po) ; **Durée** 40 jours  
+**Taille** 8-12 cases  
 **Amélioration de** salle à mâchicoulis, poste de garde
 (((Description)))
 Cette structure défensive bloque l’accès à un bâtiment. Elle est normalement agencée de façon à ce que les défenseurs aient une ligne de mire dégagée vers toutes les entrées de la salle et toutes les personnes en approche à l’extérieur du bâtiment. Elle contient une solide porte en bois dotée d’une serrure de bonne qualité. Cette porte peut être construite en fer pour 500 po. Il est possible d’ajouter une herse en bois pour 500 po ou en fer pour 1 000 po.
@@ -409,8 +409,8 @@ Marchandises). Un individu qui exploite les aspects défensifs d’une bretèche
 {s:Reference|BUREAU}
 <div class=BD>
 {s:BDTitre|Bureau|{s:GC}}
-**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours
-**Taille** 2-5 cases
+**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours  
+**Taille** 2-5 cases  
 **Amélioration de** remise
 (((Description)))
 La porte de cette salle ordinaire est dotée d’une serrure simple. L’endroit contient une chaise et un grand bureau doté de deux tiroirs fermés par une serrure simple. Un bureau permet à son occupant de travailler dans le calme et à l’écart des autres activités se déroulant dans le reste du bâtiment.
@@ -419,8 +419,8 @@ La porte de cette salle ordinaire est dotée d’une serrure simple. L’endroit
 {s:Reference|CABANON}
 <div class=BD>
 {s:BDTitre|Cabanon|{s:GC}}
-**Création** 3 Marchandises, 2 Travail (100 po) ; **Durée** 3 jours
-**Taille** 2-4 cases
+**Création** 3 Marchandises, 2 Travail (100 po) ; **Durée** 3 jours  
+**Taille** 2-4 cases  
 **Amélioration en** latrines, remise
 (((Description)))
 Cet abri rudimentaire en bois contient une table simple, un grabat et un tabouret. Il est possible de construire un Cabanon à l’aide d’outils et de matériaux simples. Pour 1 point de Marchandises et 2 points de Travail supplémentaires, il est possible de remplacer le bois du cabanon par de la brique ou de la pierre.
@@ -429,7 +429,7 @@ Cet abri rudimentaire en bois contient une table simple, un grabat et un taboure
 {s:Reference|CELLULE}
 <div class=BD>
 {s:BDTitre|Cellule|{s:GC}}
-**Création** 5 Marchandises, 4 Travail (180 po) ; **Durée** 16 jours
+**Création** 5 Marchandises, 4 Travail (180 po) ; **Durée** 16 jours  
 **Taille** 1-9 cases
 (((Description)))
 Il est possible d’enfermer jusqu’à quatre prisonniers dans cette salle inconfortable. Ce n’est généralement guère plus que des murs de pierre et un sol couvert de paille, mais certaines peuvent également contenir du mobilier très
@@ -440,8 +440,8 @@ menottes simples ou de qualité supérieure au prix normal.
 {s:Reference|CHAMBREACOUCHER}
 <div class=BD>
 {s:BDTitre|Chambre à coucher|{s:GC}}
-**Recettes** +3 ou Influence
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 20 jours
+**Recettes** +3 ou Influence  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 20 jours  
 **Taille** 4-8 cases
 (((Description)))
 Une chambre à coucher fournit confort et l’intimité pour une ou deux personnes. Elle contient le plus souvent un grand lit ou deux petits lits. Beaucoup contiennent également du mobilier supplémentaire, comme des chaises, des garde-robes, des coffres, des tables ou des âtres de petite taille. Une chambre à coucher peut être le lieu où dort le propriétaire du bâtiment ou une pièce confortable à louer.
@@ -450,9 +450,9 @@ Une chambre à coucher fournit confort et l’intimité pour une ou deux personn
 {s:Reference|CHAMBRE DE DIVINATION}
 <div class=BD>
 {s:BDTitre|Chambre de divination|{s:GC}}
-**Recettes** +2 ou Influence
-**Avantages** augmente le DD des effets de scrutation
-**Création** 6 Marchandises, 1 Influence, 5 Travail, 3 Magie (550 po) ; **Durée** 16 jours
+**Recettes** +2 ou Influence  
+**Avantages** augmente le DD des effets de scrutation  
+**Création** 6 Marchandises, 1 Influence, 5 Travail, 3 Magie (550 po) ; **Durée** 16 jours  
 **Taille** 4-16 cases
 (((Description)))
 Une chambre de divination est un endroit calme conçu pour organiser des séances de scrutation, de spiritisme et
@@ -462,8 +462,8 @@ de divination similaires. Elle contient une table, des chaises et un bassin remp
 {s:Reference|CHAMBRE DE TORTURE}
 <div class=BD>
 {s:BDTitre|Chambre de torture|{s:GC}}
-**Avantage** bonus aux tests d’Intimidation
-**Création** 7 Marchandises, 3 Influence, 5 Travail (330 po) ; **Durée** 20 jours
+**Avantage** bonus aux tests d’Intimidation  
+**Création** 7 Marchandises, 3 Influence, 5 Travail (330 po) ; **Durée** 20 jours  
 **Taille** 6-16 cases
 (((Description)))
 Cette salle sinistre est conçue pour interroger, torturer et accomplir des actes moralement douteux. Elle contient des éléments permettant d’entraver des humanoïdes et divers ustensiles conçus pour infliger gêne et souffrance. Ceux qui posent des questions dans cette salle gagnent un bonus de +3 aux tests d’Intimidation effectués pour influencer les captifs.
@@ -472,9 +472,9 @@ Cette salle sinistre est conçue pour interroger, torturer et accomplir des acte
 {s:Reference|CHAMBRE D’INVOCATION}
 <div class=BD>
 {s:BDTitre|Chambre d’invocation|{s:GC}}
-**Recettes** +3 Magie
-**Avantages** bonus aux tests de Charisme, Diplomatie, Intimidation et Connaissances (plans)
-**Création** 11 Marchandises, 4 Influence, 10 Travail, 5 Magie (1040 po) ; **Durée** 28 jours
+**Recettes** +3 Magie  
+**Avantages** bonus aux tests de Charisme, Diplomatie, Intimidation et Connaissances (plans)  
+**Création** 11 Marchandises, 4 Influence, 10 Travail, 5 Magie (1040 po) ; **Durée** 28 jours  
 **Taille** 6-16 cases
 (((Description)))
 Une chambre d’invocation est conçue pour accomplir des rituels magiques de conjuration d’Extérieurs. Elle contient
@@ -485,9 +485,9 @@ la craie pour pouvoir lancer les sorts de cercle magique, contrat intermédiaire
 {s:Reference|CHAMBRE-FORTE}
 <div class=BD>
 {s:BDTitre|Chambre-forte|{s:GC}}
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
-**Taille** 4-8 cases
-**Amélioration de** reliquaire, remise
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
+**Taille** 4-8 cases  
+**Amélioration de** reliquaire, remise  
 **Amélioration en** pièce secrète
 (((Description)))
 C’est une pièce sécurisée conçue pour prévenir toute intrusion. L’accès à cette salle est bloqué par une porte en
@@ -497,8 +497,8 @@ fer dotée d’une serrure de bonne qualité. Si cette salle est améliorée en 
 {s:Reference|CHAMP}
 <div class=BD>
 {s:BDTitre|Champ|{s:GC}}
-**Recettes** +10 ou Marchandises
-**Création** 15 Marchandises, 15 Travail (600 po) ; **Durée** 20 jours
+**Recettes** +10 ou Marchandises  
+**Création** 15 Marchandises, 15 Travail (600 po) ; **Durée** 20 jours  
 **Taille** 60-100 cases
 (((Description)))
 Cette grande étendue de terre arable est utilisée pour cultiver ou pour produire du fourrage destiné au bétail. Le prix de cette salle inclut le défrichement de la parcelle, la fertilisation du sol, etc... À la discrétion du MJ, votre personnage peut découvrir une parcelle de terre disponible qui sera automatiquement et gratuitement considérée comme un champ.
@@ -506,8 +506,8 @@ Cette grande étendue de terre arable est utilisée pour cultiver ou pour produi
 {s:Reference|CLOCHER}
 <div class=BD>
 {s:BDTitre|Clocher|{s:GC}}
-**Recettes** +3 capitaux (d’un type que le bâtiment génère déjà)
-**Création** 11 Marchandises, 3 Influence, 7 Travail (450 po) ; **Durée** 28 jours
+**Recettes** +3 capitaux (d’un type que le bâtiment génère déjà)  
+**Création** 11 Marchandises, 3 Influence, 7 Travail (450 po) ; **Durée** 28 jours  
 **Taille** 9-25 cases
 (((Description)))
 Cette salle à deux étages contient une ou plusieurs cloches conçues pour carillonner ou pour sonner l’alerte (on les
@@ -517,8 +517,8 @@ actionne avec des cordes accessibles d’en bas). Le son des cloches s’entend 
 {s:Reference|CONFESSIONNAL}
 <div class=BD>
 {s:BDTitre|Confessionnal|{s:GC}}
-**Avantages** bonus aux tests de Discrétion.
-**Création** 2 Marchandises, 3 Travail (100 po) ; **Durée** 4 jours
+**Avantages** bonus aux tests de Discrétion.  
+**Création** 2 Marchandises, 3 Travail (100 po) ; **Durée** 4 jours  
 **Taille** 2-4 cases
 (((Description)))
 Cette paire de minuscules salles reliées permet d’entretenir des conversations privées. Vous pouvez également construire un espace secret permettant d’observer la pièce voisine sans être vu, par le biais d’un petit judas dissimulé au sein d’une tapisserie ou d’une mosaïque. La partie secrète de la pièce confère un bonus de +4 aux tests de Discrétion contre les créatures situées dans la partie attenante. Il est possible de construire le confessionnal de
@@ -527,8 +527,8 @@ manière à ce que le bonus s’applique aux créatures situées dans l’une, l
 {s:Reference|COUR}
 <div class=BD>
 {s:BDTitre|Cour|{s:GC}}
-**Recettes** +5 capitaux (d’un type que le bâtiment génère déjà).
-**Création** 4 Marchandises, 5 Travail (180 po) ; **Durée** 24 jours
+**Recettes** +5 capitaux (d’un type que le bâtiment génère déjà).  
+**Création** 4 Marchandises, 5 Travail (180 po) ; **Durée** 24 jours  
 **Taille** 20-40 cases
 (((Description)))
 Ce grand espace à ciel ouvert est généralement conçu pour contenir un jardin décoratif, pour organiser des entraînements ou des réunions, ou pour servir de lieu de stockage.
@@ -537,8 +537,8 @@ Ce grand espace à ciel ouvert est généralement conçu pour contenir un jardin
 {s:Reference|CRÈCHE}
 <div class=BD>
 {s:BDTitre|Crèche|{s:GC}}
-**Recettes** +6 ou Influence
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 14 jours
+**Recettes** +6 ou Influence  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 14 jours  
 **Taille** 8-16 cases
 (((Description)))
 Une crèche est conçue pour prendre soin des enfants et des nouveaux-nés. Elle contient des berceaux, des lits d’enfant, des jouets, une table à langer et des meubles de rangement.
@@ -547,8 +547,8 @@ Une crèche est conçue pour prendre soin des enfants et des nouveaux-nés. Elle
 {s:Reference|CRYPTE}
 <div class=BD>
 {s:BDTitre|Crypte|{s:GC}}
-**Recettes** +5 ou Influence ou Magie
-**Création** 5 Marchandises, 3 Influence, 5 Travail, 2 Magie (490 po) ; **Durée** 16 jours
+**Recettes** +5 ou Influence ou Magie  
+**Création** 5 Marchandises, 3 Influence, 5 Travail, 2 Magie (490 po) ; **Durée** 16 jours  
 **Taille** 8-30 cases
 (((Description)))
 Améliorations du : site funéraire
@@ -559,8 +559,8 @@ tombe. Les sorts qui conservent ou protègent les cadavres (comme préservation 
 {s:Reference|CUISINE}
 <div class=BD>
 {s:BDTitre|Cuisine|{s:GC}}
-**Recettes** +4 ou Marchandises
-**Création** 4 Marchandises, 4 Travail (160 po) ; **Durée** 12 jours
+**Recettes** +4 ou Marchandises  
+**Création** 4 Marchandises, 4 Travail (160 po) ; **Durée** 12 jours  
 **Taille** 2-6 cases
 (((Description)))
 Une cuisine sert à préparer de la nourriture. Elle contient un fourneau, un évier, des ustensiles de cuisine et un petit garde-manger contenant de la nourriture. Une cuisine rattachée à une entreprise (une auberge, par exemple) permet de vendre de la nourriture préparée. Dans ce cas, il est fort probable que l’entreprise possède également une remise pour stocker la nourriture.
@@ -569,9 +569,9 @@ Une cuisine sert à préparer de la nourriture. Elle contient un fourneau, un é
 {s:Reference|DOJO}
 <div class=BD>
 {s:BDTitre|Dojo|{s:GC}}
-**Recettes** +8 ou Influence ou Travail
-**Avantages** compte comme un lieu d’entraînement ou de réapprentissage approprié.
-**Création** 7 Marchandises, 1 Influence, 7 Travail (310 po) ; **Durée** 20 jours
+**Recettes** +8 ou Influence ou Travail  
+**Avantages** compte comme un lieu d’entraînement ou de réapprentissage approprié.  
+**Création** 7 Marchandises, 1 Influence, 7 Travail (310 po) ; **Durée** 20 jours  
 **Taille** 15-30 cases
 (((Description)))
 Cet espace dégagé est conçu pour se battre ou pour pratiquer diverses activités physiques. S’il est utilisé pour l’entrainement au combat et au tir de précision, il contient des mannequins ou des cibles de forme humanoïde. La plupart des dojos voient leur sol couvert de tapis ou de paille pour amortir les chutes et sont dotés de râteliers contenant des versions non-létales d’armes standards. S’il est utilisé par une guilde de voleurs, le dojo ne sert pas à s’entraîner au combat mais plutôt à l’évasion, au crochetage des serrures et au désamorçage des pièges. Le dojo peut accueillir un maximum de dix personnes à la fois. Il peut servir de dortoir sans toutefois proposer le même confort (surtout à cause de l’absence de couchage).
@@ -580,9 +580,9 @@ Cet espace dégagé est conçu pour se battre ou pour pratiquer diverses activit
 {s:Reference|DÔME D’OBSERVATION}
 <div class=BD>
 {s:BDTitre|Dôme d’observation|{s:GC}}
-**Recettes** +5 ou Influence ou Magie
-**Avantages** bonus aux tests de Connaissances (géographie),Connaissances (nature) et Connaissances (plans).
-**Création** 8 Marchandises, 9 Travail, 1 Magie (440 po) ; **Durée** 20 jours
+**Recettes** +5 ou Influence ou Magie  
+**Avantages** bonus aux tests de Connaissances (géographie),Connaissances (nature) et Connaissances (plans).  
+**Création** 8 Marchandises, 9 Travail, 1 Magie (440 po) ; **Durée** 20 jours  
 **Taille** 10-20 cases
 (((Description)))
 Cette salle construite en hauteur est à ciel ouvert ou dotée d’une lucarne ou d’un toit rétractable pour observer le passage des corps célestes. Un dôme d’observation contient des étagères couvertes d’archives et de notes, un télescope et d’autres ustensiles conçus pour l’étude des corps célestes. Un individu qui passe une heure à faire des recherches dans le Dôme d’observation gagne un bonus de +2 aux tests de Connaissances (géographie), Connaissances (nature) et Connaissances (plans) pour répondre à une question à propos des cieux.
@@ -591,9 +591,9 @@ Cette salle construite en hauteur est à ciel ouvert ou dotée d’une lucarne o
 {s:Reference|DORTOIR}
 <div class=BD>
 {s:BDTitre|Dortoir|{s:GC}}
-**Recettes** +8 ou Travail
-**Création** 7 Marchandises, 4 Influence, 7 Travail (400 po) ; **Durée** 24 jours
-**Taille** 15-35 cases
+**Recettes** +8 ou Travail  
+**Création** 7 Marchandises, 4 Influence, 7 Travail (400 po) ; **Durée** 24 jours  
+**Taille** 15-35 cases  
 **Amélioration en** logement
 (((Description)))
 Un dortoir offre un espace de vie limité sans réelle intimité pour dix personnes au maximum. La salle contient le plus souvent des lits ou des couchettes, du linge, des petits coffres dotés de serrures très simples et des pots de chambre. Si cette salle fait partie d’une auberge, le bâtiment est plus proche de l’asile de nuit que de l’hôtel pour voyageurs qui propose normalement des chambres individuelles. Si le dortoir fait partie d’un hôpital, c’est là que sont alités les patients.
@@ -602,8 +602,8 @@ Un dortoir offre un espace de vie limité sans réelle intimité pour dix person
 {s:Reference|ÉCLOSERIE}
 <div class=BD>
 {s:BDTitre|Écloserie|{s:GC}}
-**Recettes** +5 ou Marchandises
-**Création** 4 Marchandises, 1 Influence, 3 Travail (170 po) ; **Durée** 10 jours
+**Recettes** +5 ou Marchandises  
+**Création** 4 Marchandises, 1 Influence, 3 Travail (170 po) ; **Durée** 10 jours  
 **Taille** 2-6 cases
 (((Description)))
 Une écloserie est utilisée pour la nidification et l’éclosion de créatures ovipares, telles que les oiseaux, les lézards, les ours-hiboux ou les dragons. Sinon, elle peut également servir à abriter des poissons, des crustacés ou d’autres créatures aquatiques et ovipares. Cette salle peut être installée sur le toit d’un bâtiment pour permettre aux créatures volantes d’aller et venir, ou elle se trouver au rez-de-chaussée. L’écloserie contient des cages et des
@@ -613,9 +613,9 @@ rembourrages souples sur lesquels les oeufs sont couvés. Elle peut également c
 {s:Reference|ENCLOS}
 <div class=BD>
 {s:BDTitre|Enclos|{s:GC}}
-**Recettes** +8 ou Marchandises ou Travail
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours
-**Taille** 4-16 cases
+**Recettes** +8 ou Marchandises ou Travail  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours  
+**Taille** 4-16 cases  
 **Amélioration en** abri pour animaux
 (((Description)))
 Un enclos permet d’accueillir des animaux qui nécessitent plus d’attention que les chevaux ou le bétail. On met généralement dans un enclos des animaux pour leur viande (poulets ou cochons par exemple), pour les exposer (comme des oiseaux chanteurs ou des reptiles) ou pour se protéger (comme les chiens ou les gros félins). Un enclos peut
@@ -625,9 +625,9 @@ contenir un animal de taille G, 2 de taille M, 4 de taille P, 8 de taille Min ou
 {s:Reference|ÉTALAGE}
 <div class=BD>
 {s:BDTitre|Étalage|{s:GC}}
-**Recettes** +5 capitaux (d’un type que le bâtiment produit déjà)
-**Création** 5 Marchandises, 1 Influence, 3 Travail (190 po) ; **Durée** 12 jours
-**Taille** 2-4 cases
+**Recettes** +5 capitaux (d’un type que le bâtiment produit déjà)  
+**Création** 5 Marchandises, 1 Influence, 3 Travail (190 po) ; **Durée** 12 jours  
+**Taille** 2-4 cases  
 **Amélioration de** société de façade
 (((Description)))
 C’est un simple étalage, avec un comptoir en bois, un registre des ventes, des étagères et divers éléments
@@ -637,9 +637,9 @@ nécessaires pour commercer.
 {s:Reference|FORGE}
 <div class=BD>
 {s:BDTitre|Forge|{s:GC}}
-**Recettes** +10 ou Marchandises
-**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences de forge.
-**Création** 9 Marchandises, 1 Influence, 8 Travail (370 po) ; **Durée** 20 jours
+**Recettes** +10 ou Marchandises  
+**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences de forge.  
+**Création** 9 Marchandises, 1 Influence, 8 Travail (370 po) ; **Durée** 20 jours  
 **Taille** 8-16 cases
 (((Description)))
 Une forge contient un foyer, une enclume, une cuve de refroidissement, des outils de forgeron et divers matériaux
@@ -649,8 +649,8 @@ appropriés pour forger le fer et d’autres types de métaux. La forge peut acc
 {s:Reference|FOSSE}
 <div class=BD>
 {s:BDTitre|Fosse|{s:GC}}
-**Recettes** +1 ou Travail
-**Création** 1 Marchandises, 1 Travail (40 po) ; **Durée** 2 jours
+**Recettes** +1 ou Travail  
+**Création** 1 Marchandises, 1 Travail (40 po) ; **Durée** 2 jours  
 **Taille** 1-5 cases
 (((Description)))
 C’est un trou où l’on jette les choses qui ne sont plus d’aucune utilité. La fosse peut être utilisée pour contenir des ordures, des déchets dangereux ou des objets sans aucune valeur. Elle peut également servir de fosse commune où l’on enterre des cadavres, de latrines communales ou de puits rudimentaire. Une fosse typique s’enfonce abruptement sur 1,50 à 4,50 mètres.
@@ -659,9 +659,9 @@ C’est un trou où l’on jette les choses qui ne sont plus d’aucune utilité
 {s:Reference|IMPRIMERIE}
 <div class=BD>
 {s:BDTitre|Imprimerie|{s:GC}}
-**Recettes** +8 ou Marchandises, Influence ou Travail
-**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences liées à l’écrit et à l’imprimerie.
-**Création** 9 Marchandises, 2 Influence, 7 Travail (380 po) ; **Durée** 20 jours
+**Recettes** +8 ou Marchandises, Influence ou Travail  
+**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences liées à l’écrit et à l’imprimerie.  
+**Création** 9 Marchandises, 2 Influence, 7 Travail (380 po) ; **Durée** 20 jours  
 **Taille** 5-16 cases
 (((Description)))
 Amélioration du : scriptorium
@@ -671,9 +671,9 @@ Cet atelier spécialisé contient une presse d’imprimerie, un endroit où stoc
 {s:Reference|INFIRMERIE}
 <div class=BD>
 {s:BDTitre|Infirmerie|{s:GC}}
-**Recettes** +8 ou Influence
-**Avantages** compte comme une trousse de premiers secours (voir description)
-**Création** 6 Marchandises, 1 Influence, 6 Travail, 1 Magie (370 po) ; **Durée** 16 jours
+**Recettes** +8 ou Influence  
+**Avantages** compte comme une trousse de premiers secours (voir description)  
+**Création** 6 Marchandises, 1 Influence, 6 Travail, 1 Magie (370 po) ; **Durée** 16 jours  
 **Taille** 4-12 cases
 (((Description)))
 Une infirmerie sert à traiter les personnes blessées ou malades. Elle contient des lits, une bassine pour se laver et du ravitaillement médical. L’infirmerie peut accueillir un maximum de deux soigneurs et leur fournit du matériel que l’on assimile à une trousse de premiers secours. Tant que le bâtiment n’est pas considéré comme brisé, vous n’avez pas à noter le nombre de charges restantes de ces trousses de premiers secours.
@@ -682,8 +682,8 @@ Une infirmerie sert à traiter les personnes blessées ou malades. Elle contient
 {s:Reference|ISSUE DE SECOURS}
 <div class=BD>
 {s:BDTitre|Issue de secours|{s:GC}}
-**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 16 jours
-**Taille** 6-12 cases
+**Création** 9 Marchandises, 9 Travail (360 po) ; **Durée** 16 jours  
+**Taille** 6-12 cases  
 **Amélioration de** pièce secrète
 (((Description)))
 C’est un couloir ou une coursive qui permet de quitter un bâtiment pour accéder à une sortie dissimulée. La porte de
@@ -694,9 +694,9 @@ sortie est généralement en bois simple et dotée d’une serrure moyenne (Sabo
 {s:Reference|JARDIN}
 <div class=BD>
 {s:BDTitre|Jardin|{s:GC}}
-**Recettes** +8 ou Marchandises
-**Création** 5 Marchandises, 4 Travail (180 po) ; **Durée** 12 jours
-**Taille** 10-20 cases
+**Recettes** +8 ou Marchandises  
+**Création** 5 Marchandises, 4 Travail (180 po) ; **Durée** 12 jours  
+**Taille** 10-20 cases  
 **Amélioration en** serre
 (((Description)))
 Cette étendue de terre fertile soigneusement entretenue est conçue pour faire pousser des plantes nécessitant plus de
@@ -706,9 +706,9 @@ soins que les plantes céréalières, même s’il est possible de l’utiliser 
 {s:Reference|LABORATOIRE D’ALCHIMIE}
 <div class=BD>
 {s:BDTitre|Laboratoire d’alchimie|{s:GC}}
-**Recettes** +10 ou Marchandises ou Magie
-**Avantages** compte comme un laboratoire d’alchimie (équipement)
-**Création** 8 Marchandises, 1 Influence, 5 Travail, 1 Magie (390 po) ; **Durée** 16 jours
+**Recettes** +10 ou Marchandises ou Magie  
+**Avantages** compte comme un laboratoire d’alchimie (équipement)  
+**Création** 8 Marchandises, 1 Influence, 5 Travail, 1 Magie (390 po) ; **Durée** 16 jours  
 **Taille** 8-16 cases
 (((Description)))
 Cette salle permet à votre personnage d’améliorer ses tests d’Artisanat (alchimie), ses recherches de nouvelles formules d’alchimiste et la réalisation de tâches alchimiques similaires. Cette pièce peut servir à un maximum de trois personnes à la fois..
@@ -717,8 +717,8 @@ Cette salle permet à votre personnage d’améliorer ses tests d’Artisanat (a
 {s:Reference|LABYRINTHE}
 <div class=BD>
 {s:BDTitre|Labyrinthe|{s:GC}}
-**Recettes** +5 ou Influence
-**Création** 15 Marchandises, 15 Travail (370 po) ; **Durée** 30 jours
+**Recettes** +5 ou Influence  
+**Création** 15 Marchandises, 15 Travail (370 po) ; **Durée** 30 jours  
 **Taille** 40-100 cases
 (((Description)))
 Un labyrinthe est un dédale composé de murs ou de haies ou un simple motif en mosaïques posé au sol qu’arpentent ceux
@@ -728,9 +728,9 @@ qui cherchent la tranquillité, la méditation et l’apaisement.
 {s:Reference|LATRINES}
 <div class=BD>
 {s:BDTitre|Latrines|{s:GC}}
-**Avantages** bonus aux jets de Vigueur effectués pour éviter de tomber malade.
-**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 4 jours
-**Taille** 1-4 cases
+**Avantages** bonus aux jets de Vigueur effectués pour éviter de tomber malade.  
+**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 4 jours  
+**Taille** 1-4 cases  
 **Amélioration de** cabanon
 (((Description)))
 Des latrines contiennent jusqu’à quatre petites pièces privées de 1,50 m × 1,50 mètre, utilisées pour satisfaire les besoins biologiques. Si un bâtiment ne contient pas de latrines, les gens qui y travaillent doivent se rendre à l’extérieur pour faire leurs besoins. En fonction du bâtiment et de la communauté, les latrines peuvent se présenter sous forme d’une cabane extérieure, d’un cabinet avec un pot de chambre ou d’une planche trouée reliée à un système d’évacuation externe qui déverse les déjections dans une fosse d’aisances ou une auge à cochons. Si le bâtiment bénéficie d’un accès aux égouts, il est possible de relier automatiquement toutes les latrines du bâtiment aux égouts de la communauté (voir page 111). La présence de latrines améliore les conditions sanitaires d’un bâtiment, voilà pourquoi les résidents, les invités, les employés et tous ceux qui fréquentent le lieu bénéficient d’un bonus de +2 aux jets de Vigueur pour éviter de tomber malade au sein de la communauté.
@@ -739,9 +739,9 @@ Des latrines contiennent jusqu’à quatre petites pièces privées de 1,50 m ×
 {s:Reference|LAVOIR}
 <div class=BD>
 {s:BDTitre|Lavoir|{s:GC}}
-**Recettes** +3 ou Marchandises
-**Avantages** bonus aux jets de Vigueur effectués pour éviter de tomber malade.
-**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours
+**Recettes** +3 ou Marchandises  
+**Avantages** bonus aux jets de Vigueur effectués pour éviter de tomber malade.  
+**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours  
 **Taille** 2-6 cases
 (((Description)))
 Un lavoir contient une large vasque pour tremper du linge ou des vêtements, un chaudron pour chauffer de l’eau, des planches à laver, des étendoirs, des caisses et des paniers pour porter le linge sec. Cette salle peut être à ciel ouvert et accolée à un bâtiment. Les employés et les usagers réguliers du lavoir gagnent un bonus de +1 aux jets de Vigueur effectués pour éviter de tomber malade tant qu’ils se trouvent à l’intérieur de la communauté.
@@ -750,8 +750,8 @@ Un lavoir contient une large vasque pour tremper du linge ou des vêtements, un 
 {s:Reference|LOGEMENT}
 <div class=BD>
 {s:BDTitre|Logement|{s:GC}}
-**Recettes** +12
-**Création** 10 Marchandises, 1 Influence, 10 Travail (430 po) ; **Durée** 30 jours
+**Recettes** +12  
+**Création** 10 Marchandises, 1 Influence, 10 Travail (430 po) ; **Durée** 30 jours  
 **Taille** 20-35 cases
 (((Description)))
 Amélioration du: dortoir
@@ -761,8 +761,8 @@ Cet endroit contient plusieurs petites chambres qui permettent de loger jusqu’
 {s:Reference|MEULE}
 <div class=BD>
 {s:BDTitre|Meule|{s:GC}}
-**Recettes** +8 ou Marchandises
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 20 jours
+**Recettes** +8 ou Marchandises  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 20 jours  
 **Taille** 20-30 cases
 (((Description)))
 Cette salle contient un mécanisme conçu pour moudre du grain, des denrées alimentaires et d’autres matières premières. La plupart des meules simples s’actionnent à la main. Celles qui fonctionnent en y attelant des chevaux ou d’autres animaux de bât nécessitent la présence d’une étable, celles qui tournent sous l’action de l’eau nécessitent la présence d’eau courante et celles qui fonctionnent sous l’action du vent nécessitent la présence d’un moulin à vent.
@@ -771,7 +771,7 @@ Cette salle contient un mécanisme conçu pour moudre du grain, des denrées ali
 {s:Reference|MUR DÉFENSIF}
 <div class=BD>
 {s:BDTitre|Mur défensif|{s:GC}}
-**Création** 5 Marchandises, 2 Influence, 5 Travail (260 po) ; **Durée** 12 jours
+**Création** 5 Marchandises, 2 Influence, 5 Travail (260 po) ; **Durée** 12 jours  
 **Taille** 20-40 cases
 (((Description)))
 C’est généralement un mur, une palissade en bois ou une simple clôture qui cerne un bâtiment et fournit un minimum
@@ -781,9 +781,9 @@ de sécurité. Cette protection ne fait pas plus de trois mètres de haut (elle 
 {s:Reference|PÉAGE}
 <div class=BD>
 {s:BDTitre|Péage|{s:GC}}
-**Recettes** +4 ou Marchandises
-**Création** 2 Marchandises, 1 Influence, 2 Travail (110 po) ; **Durée** : 6 jours
-**Taille** 1-5 cases
+**Recettes** +4 ou Marchandises  
+**Création** 2 Marchandises, 1 Influence, 2 Travail (110 po) ; **Durée** : 6 jours  
+**Taille** 1-5 cases  
 **Amélioration en** poste de garde
 (((Description)))
 Un péage est un petit abri conçu pour filtrer la circulation sur une route ou un pont de manière à ce que son propriétaire collecte des taxes auprès des voyageurs. Si cette salle est construite à proximité d’une communauté, il faut dépenser 1 point d’Influence par jour pour maintenir son activité. Le péage peut également être illégal en fonction de la nature de la communauté proche.
@@ -792,9 +792,9 @@ Un péage est un petit abri conçu pour filtrer la circulation sur une route ou 
 {s:Reference|PIÈCE SECRÈTE}
 <div class=BD>
 {s:BDTitre|Pièce secrète|{s:GC}}
-**Création** 5 Marchandises, 6 Travail (220 po) ; **Durée** 16 jours
-**Taille** 6-10 cases
-**Amélioration de** chambre-forte
+**Création** 5 Marchandises, 6 Travail (220 po) ; **Durée** 16 jours  
+**Taille** 6-10 cases  
+**Amélioration de** chambre-forte  
 **Amélioration en** issue de secours
 (((Description)))
 Cet endroit est soit une salle, soit un passage qui relie deux salles dans un bâtiment. On y entre en empruntant une porte secrète (DD 20). Deux portes secrètes peuvent être situées à chaque extrémité d’un passage, ou une porte normale à une extrémité et une porte secrète à l’autre. Dans le cas d’une salle, elle est le plus souvent utilisée pour cacher quelqu’un ou quelque chose. Dans le cas d’un passage, il permet de se déplacer sans être vu à l’intérieur d’un bâtiment, souvent dans le but d’espionner ou de déplacer des marchandises de contrebande. Pour chaque tranche de 500 po dépensées, vous pouvez améliorer le camouflage d’une porte secrète située dans le bâtiment (DD 30 pour la repérer).
@@ -803,7 +803,7 @@ Cet endroit est soit une salle, soit un passage qui relie deux salles dans un b�
 {s:Reference|PONT-LEVIS}
 <div class=BD>
 {s:BDTitre|Pont-levis|{s:GC}}
-**Création** 8 Marchandises, 2 Influence, 5 Travail (320 po) ; **Durée** 6 jours
+**Création** 8 Marchandises, 2 Influence, 5 Travail (320 po) ; **Durée** 6 jours  
 **Taille** 4-8 cases
 (((Description)))
 Ce pont escamotable enjambe une fosse, une douve ou un obstacle similaire, ce qui permet de contrôler l’accès à
@@ -814,13 +814,13 @@ côté ou de l’autre du pont. Une fois levé, le pont forme une barrière de b
 {s:Reference|POSTE DE GARDE}
 <div class=BD>
 {s:BDTitre|Poste de garde|{s:GC}}
-**Recettes** +4 ou Marchandises
-**Avantages** les défenseurs gagnent un bonus aux tests d’initiative et de Perception.
-**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 20 jours
+**Recettes** +4 ou Marchandises  
+**Avantages** les défenseurs gagnent un bonus aux tests d’initiative et de Perception.  
+**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 20 jours  
 **Taille** 6-10 cases
 (((Description)))
 Amélioration du : péage
-**Amélioration en** bretèche
+**Amélioration en** bretèche  
 Cette structure défensive bloque l’accès à un bâtiment. Elle est normalement agencée de façon à ce que les défenseurs aient une ligne de mire dégagée sur toutes les entrées de la salle et sur toutes les personnes en approche à l’extérieur du bâtiment. Il est possible de construire cette salle à l’intérieur d’une tour (sans coût supplémentaire) dont le premier étage est aussi considéré comme un poste de garde. Le prix indiqué inclut la rémunération des
 employés non-qualifiés en tant que gardes (hommes du peuple ou experts 1 avec des uniformes, mais sans arme ni armure). Si le bâtiment est une armurerie, ces employés sont équipés d’armes et d’armures qui servent surtout à impressionner. Si le personnage souhaite recruter des gardes entraînés capables de défendre le bâtiment contre des intrus dangereux, il devra louer les services de gardes professionnels ou recruter des gardes ou des soldats.
 Un individu qui exploite les aspects défensifs d’un poste de garde gagne un bonus de +1 aux tests d’initiative et de Perception effectués contre des intrus qui se trouvent dans cette salle.
@@ -829,9 +829,9 @@ Un individu qui exploite les aspects défensifs d’un poste de garde gagne un b
 {s:Reference|POSTE DE TRAVAIL}
 <div class=BD>
 {s:BDTitre|Poste de travail|{s:GC}}
-**Recettes** +8 ou Marchandises ou Influence
-**Avantage** compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat ou de Profession.
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
+**Recettes** +8 ou Marchandises ou Influence  
+**Avantage** compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat ou de Profession.  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
 **Taille** 8-16 cases
 (((Description)))
 Cette salle contient une table, une chaise et les outils d’artisan de qualité supérieure appropriés à la pratique d’une compétence d’Artisanat ou de Profession de votre choix lorsque votre personnage construit cette salle. Par exemple, si le poste de travail est conçu pour être utilisé par un charpentier, il contiendra des pinces, des scies, des clous, des marteaux et un atelier solide.Cette salle peut accueillir jusqu’à trois travailleurs à la fois.
@@ -840,8 +840,8 @@ Cette salle contient une table, une chaise et les outils d’artisan de qualité
 {s:Reference|QUAI}
 <div class=BD>
 {s:BDTitre|Quai|{s:GC}}
-**Recettes** +12 ou Marchandises ou Influence ou Travail
-**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 20 jours
+**Recettes** +12 ou Marchandises ou Influence ou Travail  
+**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 20 jours  
 **Taille** 10-30 cases
 (((Description)))
 C’est une série de passerelles montées sur pilotis qui permettent d’amarrer en toute sécurité des embarcations. À proximité d’une remise, les quais permettent de déplacer facilement des cargaisons entre les embarcations et le lieu de stockage.
@@ -850,10 +850,10 @@ C’est une série de passerelles montées sur pilotis qui permettent d’amarre
 {s:Reference|RELIQUAIRE}
 <div class=BD>
 {s:BDTitre|Reliquaire|{s:GC}}
-**Recettes** +5 ou Influence
-**Avantages** bonus aux tests de Connaissances (religion) en rapport avec ce qu’il contient
-**Création** 4 Marchandises, 4 Travail, 1 Magie (260 po) ; **Durée** 12 jours
-**Taille** 1-4 cases
+**Recettes** +5 ou Influence  
+**Avantages** bonus aux tests de Connaissances (religion) en rapport avec ce qu’il contient  
+**Création** 4 Marchandises, 4 Travail, 1 Magie (260 po) ; **Durée** 12 jours  
+**Taille** 1-4 cases  
 **Amélioration en** chambre-forte
 (((Description)))
 Dédié à une divinité ou à une philosophie spécifique, un reliquaire est conçu pour stocker et protéger des artefacts religieux. Il contient des étagères sur lesquelles sont posés les objets, des vitrines d’exposition pour les protéger et parfois quelques tables et chaises pour les étudier. Une porte en bois solide ou une grille dotée d’une serrure
@@ -863,10 +863,10 @@ de bonne qualité ferme l’entrée. À la différence d’une chambre-forte, un
 {s:Reference|REMISE}
 <div class=BD>
 {s:BDTitre|Remise|{s:GC}}
-**Recettes** +2
-**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours
-**Taille** 4-8 cases
-**Amélioration de** société de façade, cabanon
+**Recettes** +2  
+**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours  
+**Taille** 4-8 cases  
+**Amélioration de** société de façade, cabanon  
 **Amélioration en** bureau, chambre-forte
 (((Description)))
 Une remise est une salle conçue pour stocker des objets destinés à une utilisation ultérieure. La plupart des entrepôts sont un simple assemblage de plusieurs remises construites dans un seul et même bâtiment. Une boutique qui propose des articles bon marché peut autoriser ses clients à sélectionner leurs achats directement dans la remise. On y accède par une porte dotée d’une serrure de qualité moyenne.
@@ -875,9 +875,9 @@ Une remise est une salle conçue pour stocker des objets destinés à une utilis
 {s:Reference|SALLE À MÂCHICOULIS}
 <div class=BD>
 {s:BDTitre|Salle à mâchicoulis|{s:GC}}
-**Avantages** les défenseurs bénéficient d’un abri amélioré.
-**Création** 4 Marchandises, 4 Travail (160 po) ; **Durée** 10 jours
-**Taille** 4-8 cases
+**Avantages** les défenseurs bénéficient d’un abri amélioré.  
+**Création** 4 Marchandises, 4 Travail (160 po) ; **Durée** 10 jours  
+**Taille** 4-8 cases  
 **Amélioration en** bretèche
 (((Description)))
 Cet espace aux parois percées de meurtrières ou dotées de moyens défensifs similaires procure aux défenseurs un avantage lorsqu’ils attaquent ou espionnent des intrus. Cette salle est dotée de portes en bois solide fermées par des serrures simples, ce qui permet aux défenseurs de piéger des intrus à l’intérieur. Un individu qui exploite les aspects défensifs de la salle à mâchicoulis bénéficie d’un abri amélioré contre des intrus situés à l’intérieur de la salle, même si ces moyens défensifs limitent les attaques que les défenseurs peuvent porter. Par exemple, un
@@ -887,9 +887,9 @@ défenseur peut lancer un sort à travers une meurtrière, tirer avec un arc ou 
 {s:Reference|SALLE COMMUNE}
 <div class=BD>
 {s:BDTitre|Salle commune|{s:GC}}
-**Recettes** +7 ou Influence
-**Création** 7 Marchandises, 8 Travail (300 po) ; **Durée** 16 jours
-**Taille** 10-30 cases
+**Recettes** +7 ou Influence  
+**Création** 7 Marchandises, 8 Travail (300 po) ; **Durée** 16 jours  
+**Taille** 10-30 cases  
 **Amélioration en** salle de bal, salle de cérémonie, salle du trône
 (((Description)))
 Cette salle polyvalente est suffisamment spacieuse pour
@@ -900,9 +900,9 @@ paillasses, des sièges ou des tabourets et des tables.
 {s:Reference|SALLE DE BAIN}
 <div class=BD>
 {s:BDTitre|Salle de bain|{s:GC}}
-**Recettes** +3 ou Influence
-**Avantages** bonus aux jets de Vigueur contre les maladies
-**Création** 3 Marchandises, 1 Influence, 2 Travail (130 po) ; **Durée** 8 jours
+**Recettes** +3 ou Influence  
+**Avantages** bonus aux jets de Vigueur contre les maladies  
+**Création** 3 Marchandises, 1 Influence, 2 Travail (130 po) ; **Durée** 8 jours  
 **Taille** 3-6 cases
 (((Description)))
 Amélioration du : sauna
@@ -912,11 +912,11 @@ Une salle de bain contient une grande baignoire ou plusieurs bassins de taille r
 {s:Reference|SALLE DE BAL}
 <div class=BD>
 {s:BDTitre|Salle de bal|{s:GC}}
-**Recettes** +10 ou Influence
-**Avantages** bonus aux tests de Représentation
-**Création** 19 Marchandises, 19 Travail (760 po) ; **Durée** 40 jours
-**Taille** 40-60 cases
-**Amélioration en** auditorium
+**Recettes** +10 ou Influence  
+**Avantages** bonus aux tests de Représentation  
+**Création** 19 Marchandises, 19 Travail (760 po) ; **Durée** 40 jours  
+**Taille** 40-60 cases  
+**Amélioration en** auditorium  
 **Amélioration de** la salle commune
 (((Description)))
 Cette salle spacieuse et lumineuse est conçue pour y organiser des bals, des réceptions et divers événements
@@ -926,21 +926,21 @@ Cette salle spacieuse et lumineuse est conçue pour y organiser des bals, des r�
 {s:Reference|SALLE DE CÉRÉMONIE}
 <div class=BD>
 {s:BDTitre|Salle de cérémonie|{s:GC}}
-**Recettes** +10 Capitaux
-**Avantages** bonus aux tests de Bluff, Diplomatie et Intimidation (voir ci-dessous)
-**Création** 16 Marchandises, 2 Influence, 15 Travail, 5 Magie (1180 po) ; **Durée** 40 jours
+**Recettes** +10 Capitaux  
+**Avantages** bonus aux tests de Bluff, Diplomatie et Intimidation (voir ci-dessous)  
+**Création** 16 Marchandises, 2 Influence, 15 Travail, 5 Magie (1180 po) ; **Durée** 40 jours  
 **Taille** 40-100 cases
 (((Description)))
 Améliorations en : salle du trône
-**Amélioration de** la salle commune
+**Amélioration de** la salle commune  
 C’est une salle spacieuse destinée à accueillir beaucoup de monde lors des événements importants tels que les services religieux, les réunions communales et les mariages. Elle contient souvent une zone surélevée sur laquelle se tiennent les intéressés ou le maître de cérémonie et des chaises pour ceux qui assistent à l'événement. Un individu qui dirige ou parle de manière officielle lors de l'événement gagne un bonus de +1 aux tests de Bluff, Diplomatie et Intimidation effectués pour influencer autrui lors de l'événement. Ce bonus disparaît à la fin de l'événement.
 </div>
 
 {s:Reference|SALLE DE CLASSE}
 <div class=BD>
 {s:BDTitre|Salle de classe|{s:GC}}
-**Recettes** +8 Capitaux
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 14 jours
+**Recettes** +8 Capitaux  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 14 jours  
 **Taille** 5-20 cases
 (((Description)))
 Cette petite salle de réunion est conçue de manière à ce qu’un unique maître de conférences puisse être vu sans problème par de nombreux participants. Nombre de salles de classe contiennent des places assises pour les étudiants, un lutrin et un tableau.
@@ -949,10 +949,10 @@ Cette petite salle de réunion est conçue de manière à ce qu’un unique maî
 {s:Reference|SALLE DE COMBAT}
 <div class=BD>
 {s:BDTitre|Salle de combat|{s:GC}}
-**Recettes** +15 ou Influence
-**Avantages** un combattant gagne un bonus aux tests d’Intimidation et de combat de spectacle.
-**Création** 18 Marchandises, 4 Influence, 16 Travail (800 po) ; **Durée** 40 jours
-**Taille** 40-100 cases
+**Recettes** +15 ou Influence  
+**Avantages** un combattant gagne un bonus aux tests d’Intimidation et de combat de spectacle.  
+**Création** 18 Marchandises, 4 Influence, 16 Travail (800 po) ; **Durée** 40 jours  
+**Taille** 40-100 cases  
 **Amélioration en** Terrain de sport
 (((Description)))
 Cette salle contenant une arène fermée permet d’organiser des combats périlleux, depuis les sports non-létaux comme la lutte ou la boxe jusqu’aux pratiques létales et sanglantes comme les combats d’animaux ou de gladiateurs. Elle contient des sièges pour les spectateurs, un revêtement de sol approprié (des tapis ou du sable) et souvent une sorte de barrière située entre les combattants et le public. Chaque jour, le responsable de la salle de combat peut octroyer à un unique combattant un bonus de +2 aux tests d’Intimidation et de combat de spectacle (L’art de la guerre Pathfinder JdR, page 153). Cet avantage s’applique uniquement à l’intérieur de la communauté.
@@ -961,8 +961,8 @@ Cette salle contenant une arène fermée permet d’organiser des combats péril
 {s:Reference|SALLE DE GUERRE}
 <div class=BD>
 {s:BDTitre|Salle de guerre|{s:GC}}
-**Avantage** bonus aux tests de compétence et de combat de masse pendant la préparation du conflit.
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
+**Avantage** bonus aux tests de compétence et de combat de masse pendant la préparation du conflit.  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
 **Taille** 4-12 cases
 (((Description)))
 Cette salle est conçue pour préparer des manoeuvres militaires ou des braquages de premier ordre ou pour les briefings. Elle contient une grande table centrale entourée de plusieurs chaises, des cartes et des figurines représentant les troupes et les édifices. Lorsqu’elle est utilisée pour préparer une bataille, l’armée du personnage
@@ -972,9 +972,9 @@ gagne un bonus de +2 aux tests d’attaque et de moral effectués lors de la pro
 {s:Reference|SALLE DE JEUX}
 <div class=BD>
 {s:BDTitre|Salle de jeux|{s:GC}}
-**Recettes** +10 (voir description)
-**Avantages** Criminalité +1, Danger +10 (voir description)
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
+**Recettes** +10 (voir description)  
+**Avantages** Criminalité +1, Danger +10 (voir description)  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
 **Taille** 10-20 cases
 (((Description)))
 Une salle de jeux contient des tables appropriées pour pratiquer des jeux d’argent ou autres. Elle permet également
@@ -984,8 +984,8 @@ de parier sur divers participants aux sports violents ou autres activités illic
 {s:Reference|SALLE DES TROPHÉES}
 <div class=BD>
 {s:BDTitre|Salle des trophées|{s:GC}}
-**Recettes** +5 ou Influence
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours
+**Recettes** +5 ou Influence  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours  
 **Taille** 4-20 cases
 (((Description)))
 Cette pièce est conçue pour exposer les trophées récupérés lors d’une aventure, tels que des têtes de monstre empaillés, des peintures rares, des statues étranges et des objets magiques bizarres et désormais inutiles. À cause des vitrines d’exposition et de la pagaille qui règne dans cette salle, il est difficile de l’utiliser pour
@@ -995,10 +995,10 @@ autre chose mais vous pouvez tout de même y mettre des chaises ou des bancs pou
 {s:Reference|SALLE DU TRÔNE}
 <div class=BD>
 {s:BDTitre|Salle du trône|{s:GC}}
-**Recettes** +15 Influence
-**Avantages** bonus aux tests de Bluff, Diplomatie, Intimidation, Représentation et Connaissances (folklore local)
-**Création** 25 Marchandises, 5 Influence, 25 Travail, 5 Magie (1650 po) ; **Durée** 40 jours
-**Taille** 40-80 cases
+**Recettes** +15 Influence  
+**Avantages** bonus aux tests de Bluff, Diplomatie, Intimidation, Représentation et Connaissances (folklore local)  
+**Création** 25 Marchandises, 5 Influence, 25 Travail, 5 Magie (1650 po) ; **Durée** 40 jours  
+**Taille** 40-80 cases  
 **Amélioration de** salle de cérémonie, salle commune
 (((Description)))
 Une salle du trône est conçue pour accueillir des invités prestigieux tels que des nobles. Elle contient un trône, divers éléments décoratifs et quelques sièges pour les visiteurs. En consacrant une heure à converser avec les visiteurs, l’hôte gagne un bonus de +1 aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation effectués pour les influencer ou pour recueillir des informations sur eux pendant les vingt-quatre prochaines heures.
@@ -1009,9 +1009,9 @@ Une salle du trône est conçue pour accueillir des invités prestigieux tels qu
 {s:BDTitre|Salle piégée|{s:GC}}
 **Avantage** voir description
 (((Description)))
-Prix : voir description
-**Durée** voir description
-**Taille** 1-4 cases
+Prix : voir description 
+**Durée** voir description  
+**Taille** 1-4 cases  
 Un piège peut être une salle à part entière dans un bâtiment ou un élément ajouté à une salle. Une salle piégée peut
 paraitre vide, mais elle peut également être décorée pour sembler anodine et attirer ainsi une victime dans le piège.
 Les prix des pièges sont indiqués dans le Manuel des Joueurs (page 429), leur fabrication nécessite l’application des règles sur l’Artisanat (page 90) mais vous pouvez dépenser des Marchandises et du Travail pour régler les coûts occasionnés.
@@ -1020,9 +1020,9 @@ Les prix des pièges sont indiqués dans le Manuel des Joueurs (page 429), leur 
 {s:Reference|SALON}
 <div class=BD>
 {s:BDTitre|Salon|{s:GC}}
-**Recettes** +4 Influence
-**Avantage** bonus aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation
-**Création** 12 Marchandises, 12 Travail (480 po) ; **Durée** 24 jours
+**Recettes** +4 Influence  
+**Avantage** bonus aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation  
+**Création** 12 Marchandises, 12 Travail (480 po) ; **Durée** 24 jours  
 **Taille** 6-10 cases
 (((Description)))
 Cette salle est un lieu de rencontre et de détente doté d’un mobilier confortable. Elle peut servir de salon, de salle à manger ou de fumoir, entre autres. Elle contient le mobilier approprié à sa fonction (des sièges pour un salon, une table et des chaises pour une salle à manger et ainsi de suite). En passant une heure en conversation aimable avec les invités présents dans cette salle, l’hôte gagne un bonus de +1 aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation effectués pour influencer ces invités ou pour recueillir des informations sur eux pendant les vingt-quatre prochaines heures.
@@ -1031,8 +1031,8 @@ Cette salle est un lieu de rencontre et de détente doté d’un mobilier confor
 {s:Reference|SANCTUAIRE}
 <div class=BD>
 {s:BDTitre|Sanctuaire|{s:GC}}
-**Avantages** bonus à un jet de Volonté
-**Création** 2 Marchandises, 1 Influence, 1 Travail, 1 Magie (190 po) ; **Durée** 6 jours
+**Avantages** bonus à un jet de Volonté  
+**Création** 2 Marchandises, 1 Influence, 1 Travail, 1 Magie (190 po) ; **Durée** 6 jours  
 **Taille** 1-4 cases
 (((Description)))
 Cette pièce, décorée de manière plaisante et simple, avec des lignes claires et un environnement apaisant, est l’endroit idéal où méditer et prier seul. Un individu qui passe au moins 4 heures à ne rien faire d’autre que prier ou méditer dans un sanctuaire gagne un bonus de +1 aux jets de Volonté. Ce bonus disparaît dès que l’individu quitte la communauté ou après avoir effectué un jet de Volonté.
@@ -1041,10 +1041,10 @@ Cette pièce, décorée de manière plaisante et simple, avec des lignes claires
 {s:Reference|SAUNA}
 <div class=BD>
 {s:BDTitre|Sauna|{s:GC}}
-**Recettes** +3 ou Influence
-**Avantages** bonus aux jets de sauvegarde pour récupérer d’une maladie ou pour éliminer des niveaux négatifs subis.
-**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours
-**Taille** 2-5 cases
+**Recettes** +3 ou Influence  
+**Avantages** bonus aux jets de sauvegarde pour récupérer d’une maladie ou pour éliminer des niveaux négatifs subis.  
+**Création** 3 Marchandises, 3 Travail (120 po) ; **Durée** 8 jours  
+**Taille** 2-5 cases  
 **Amélioration en** salle de bain
 (((Description)))
 Cette pièce à l’agencement très simple contient des bancs, une source de chaleur centrale, des pierres et une cuve d’eau avec une louche pour produire de la vapeur. Un individu qui passe une heure dans un sauna gagne un bonus de +1 aux jets de sauvegarde effectués pour récupérer d’une maladie (et non pour éviter d’en contracter une) et aux jets de sauvegarde effectués pour éliminer les niveaux négatifs subis. Ce bonus disparaît au bout de vingt-quatre heures.
@@ -1053,10 +1053,10 @@ Cette pièce à l’agencement très simple contient des bancs, une source de ch
 {s:Reference|SCRIPTORIUM}
 <div class=BD>
 {s:BDTitre|Scriptorium|{s:GC}}
-**Recettes** +5 ou Marchandises ou Influence ou Travail ou Magie
-**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences d’écriture.
-**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 16 jours
-**Taille** 5-16 cases
+**Recettes** +5 ou Marchandises ou Influence ou Travail ou Magie  
+**Avantages** compte comme des outils d’artisan de qualité supérieure pour les compétences d’écriture.  
+**Création** 7 Marchandises, 2 Influence, 6 Travail (320 po) ; **Durée** 16 jours  
+**Taille** 5-16 cases  
 **Amélioration en** imprimerie
 (((Description)))
 C’est là que les scribes travaillent. Le scriptorium contient des chaises, des écritoires, ainsi que de l’encre, du papier et d’autres ustensiles nécessaires pour créer ou copier des oeuvres écrites. Cette salle peut accueillir jusqu’à trois travailleurs à la fois. Là, il peuvent écrire des parchemins ou utiliser les compétences Artisanat (calligraphie) ou Profession (scribe).
@@ -1065,8 +1065,8 @@ C’est là que les scribes travaillent. Le scriptorium contient des chaises, de
 {s:Reference|SERRE}
 <div class=BD>
 {s:BDTitre|Serre|{s:GC}}
-**Recettes** +12 ou Marchandises ou Influence
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours
+**Recettes** +12 ou Marchandises ou Influence  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 16 jours  
 **Taille** 10-20 cases
 (((Description)))
 Amélioration du : jardin
@@ -1076,10 +1076,10 @@ Ce jardin bénéficiant d’une température volontairement régulée est à l�
 {s:Reference|SITE FUNÉRAIRE}
 <div class=BD>
 {s:BDTitre|Site funéraire|{s:GC}}
-**Recettes** +4 ou Influence
-**Avantages** permet de créer des morts-vivants ou de prévenir leur apparition.
-**Création** 4 Marchandises, 3 Influence, 4 Travail, 1 Magie (350 po) ; **Durée** 8 jours
-**Taille** 20-30 cases
+**Recettes** +4 ou Influence  
+**Avantages** permet de créer des morts-vivants ou de prévenir leur apparition.  
+**Création** 4 Marchandises, 3 Influence, 4 Travail, 1 Magie (350 po) ; **Durée** 8 jours  
+**Taille** 20-30 cases  
 **Amélioration en** crypte
 (((Description)))
 C’est dans ce sombre lopin de terre que sont inhumés les morts.on peut y enterrer jusqu’à vingt cadavres de taille M ou inférieure et chaque emplacement est clairement indiqué par une pierre tombale, une statue ou tout autre type d’élément similaire. Pour un coût supplémentaire de 200 po, l’endroit peut être consacré ou profané. Un cadavre enterré en terre consacrée ne peut être revenir sous forme de mort-vivant alors qu’un cadavre enterré en
@@ -1089,10 +1089,10 @@ terre profanée a 5% de chances par mois de se relever sous forme de zombi incon
 {s:Reference|SOCIÉTÉ DE FAÇADE}
 <div class=BD>
 {s:BDTitre|Société de façade|{s:GC}}
-**Recettes** +2 ou Marchandises
-**Avantages** augmentation du DD des tests de Perception et de Psychologie
-**Création** 4 Marchandises, 1 Influence, 4 Travail (190 po) ; **Durée** 12 jours
-**Taille** 10-20 cases
+**Recettes** +2 ou Marchandises  
+**Avantages** augmentation du DD des tests de Perception et de Psychologie  
+**Création** 4 Marchandises, 1 Influence, 4 Travail (190 po) ; **Durée** 12 jours  
+**Taille** 10-20 cases  
 **Amélioration en** remise et étalage (voir ci-dessous)
 (((Description)))
 Cette entreprise simple et quelconque présente une façade inoffensive pour dissimuler des transactions criminelles. Elle peut ressembler à une boutique de prêteur sur gages bas de gamme ou à un étalage pauvrement fourni. Elle contient les éléments de base pour faire tourner le type d’entreprise factice, mais sa véritable fonction consiste à cacher la nature du bâtiment – généralement une entreprise criminelle ou un lieu de réunion secret, comme le sanctuaire d’un culte ou la planque de voleurs. La salle contient une porte secrète qui permet d’accéder au reste du bâtiment. Elle augmente le DD des tests de Perception et de Psychologie effectués par ceux qui tentent de repérer une activité
@@ -1102,9 +1102,9 @@ anormale ou de déterminer la véritable nature du bâtiment. Puisqu’une soci�
 {s:Reference|STABULATION}
 <div class=BD>
 {s:BDTitre|Stabulation|{s:GC}}
-**Recettes** +8 ou Marchandises ou Travail
-**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours
-**Taille** 6-16 cases
+**Recettes** +8 ou Marchandises ou Travail  
+**Création** 6 Marchandises, 1 Influence, 5 Travail (250 po) ; **Durée** 16 jours  
+**Taille** 6-16 cases  
 **Amélioration en** abri pour animaux
 (((Description)))
 Une stabulation est utilisée pour mettre à l’abri 1 à 2 chevaux ou d’autres animaux domestiques de taille G. Elle contient des portes, des auges, du fourrage et de la paille.
@@ -1113,8 +1113,8 @@ Une stabulation est utilisée pour mettre à l’abri 1 à 2 chevaux ou d’autr
 {s:Reference|STATUE}
 <div class=BD>
 {s:BDTitre|Statue|{s:GC}}
-**Recettes** +1 ou Influence
-**Création** 1 Marchandises, 2 Travail (60 po) ; **Durée** 2 jours
+**Recettes** +1 ou Influence  
+**Création** 1 Marchandises, 2 Travail (60 po) ; **Durée** 2 jours  
 **Taille** 1-9 cases
 (((Description)))
 Cet espace contient une statue, une fontaine ou un autre élément décoratif de grande taille. Si cet endroit a une signification religieuse, il peut faire office de chapelle. Le prix et la durée indiqués prennent en compte l’installation de l’élément seulement (qui peut être en bois, en bronze ou en pierre). Ils n’englobent pas le coût et la durée nécessaire pour créer l’élément. Toutefois, celui-ci doit être installé dans l’emplacement prévu pour pouvoir produire des recettes.
@@ -1123,9 +1123,9 @@ Cet espace contient une statue, une fontaine ou un autre élément décoratif de
 {s:Reference|TERRAIN DE SPORT}
 <div class=BD>
 {s:BDTitre|Terrain de sport|{s:GC}}
-**Recettes** +10 ou Influence
-**Création** 17 Marchandises, 3 Influence, 18 Travail (790 po) ; **Durée** 20 jours
-**Taille** 40-100 cases
+**Recettes** +10 ou Influence  
+**Création** 17 Marchandises, 3 Influence, 18 Travail (790 po) ; **Durée** 20 jours  
+**Taille** 40-100 cases  
 **Amélioration de** salle de combat
 (((Description)))
 Cette zone en plein air est utilisée pour pratiquer des joutes, des activités athlétiques, des combats et divers autres sports. Un terrain de sport contient le terrain à proprement parlé, des places assises pour le public et l’équipement nécessaire pour pratiquer un sport.
@@ -1142,8 +1142,8 @@ Une salle peut bénéficier de plusieurs extensions du moment qu’elles sont di
 {s:Reference|AMEUBLEMENT}
 <div class=BD>
 {s:BDTitre|Ameublement (extension)|{s:GC}}
-**Recettes** +5 au test de la salle effectué pour produire des capitaux
-**Création** 9 Marchandises, 6 Travail (300 po) ; **Durée** 20 jours
+**Recettes** +5 au test de la salle effectué pour produire des capitaux  
+**Création** 9 Marchandises, 6 Travail (300 po) ; **Durée** 20 jours  
 **Taille** comme la salle d’origine
 (((Description)))
 Cette extension permet de garnir une salle avec des éléments décoratifs, tels que des lambris, un revêtement de sol en marbre, des tasses à thé en porcelaine, des peintures d’un grand réalisme et des lits à baldaquin. La décoration est adaptée à la fonction de la salle et du bâtiment. Par exemple, si cette extension est appliquée à un bar fréquenté par des soldats, elle se composera de blasons patriotiques et de placards à la mémoire des héros de guerre.
@@ -1153,8 +1153,8 @@ Cette extension permet de garnir une salle avec des éléments décoratifs, tels
 {s:Reference|FORTIFICATION}
 <div class=BD>
 {s:BDTitre|Fortification (extension)|{s:GC}}
-**Avantage** augmente la solidité d’une salle
-**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 30 jours
+**Avantage** augmente la solidité d’une salle  
+**Création** 8 Marchandises, 7 Travail (300 po) ; **Durée** 30 jours  
 **Taille** comme la salle d’origine
 (((Description)))
 Cette extension peut s’appliquer à n’importe quelle salle. Elle permet de renforcer les murs, d’améliorer la solidité des portes et de traiter ou de remplacer les matériaux inflammables. Lors de l’achat de cette extension, la solidité des murs de la salle est augmentée de +2, le bois des portes est plus solide (solidité 5, points de résistance 20) et les parois et le sol bénéficient d’une résistance au feu 5. Cette extension ne s’applique pas aux objets contenus dans la pièce (par exemple, la fortification d’une bibliothèque affecte sa structure et non les livres qu’elle contient).
@@ -1218,9 +1218,9 @@ Votre personnage peut recruter les employés suivants et les associer à d’aut
 {s:Reference|ACOLYTE}
 <div class=BD>
 {s:BDTitre|Acolyte|{s:GC}}
-**Recettes** +4 po, Influence ou Magie
-**Création** 2 Marchandises, 2 Influence, 2 Travail, 3 Magie (440 po) ; **Durée** 3 jours
-**Taille** 1 personne
+**Recettes** +4 po, Influence ou Magie  
+**Création** 2 Marchandises, 2 Influence, 2 Travail, 3 Magie (440 po) ; **Durée** 3 jours 
+**Taille** 1 personne  
 **Amélioration en** curé, sage
 (((Description)))
 Un acolyte est un lanceur de sorts divins récemment et suffisamment formé pour traiter les malades ou pour conseiller autrui en matières religieuses. C’est généralement un adepte, un prêtre, un druide ou un oracle de niveau 1 qui porte une armure légère (ou aucune armure dans le cas d’un adepte) et une arme appropriée à sa foi.
@@ -1229,9 +1229,9 @@ Un acolyte est un lanceur de sorts divins récemment et suffisamment formé pour
 {s:Reference|APPRENTI-MAGE}
 <div class=BD>
 {s:BDTitre|Apprenti-mage|{s:GC}}
-**Recettes** +4 po, Influence ou Magie
-**Création** 2 Marchandises, 2 Influence, 1 Travail, 4 Magie (520 po) ; **Durée** 3 jours
-**Taille** 1 personne
+**Recettes** +4 po, Influence ou Magie  
+**Création** 2 Marchandises, 2 Influence, 1 Travail, 4 Magie (520 po) ; **Durée** 3 jours  
+**Taille** 1 personne  
 **Amélioration en** mage, sage
 (((Description)))
 Un apprenti-mage est un lanceur de sorts profanes récemment et suffisamment formé pour aider à l’accomplissement de rituels magiques, pour générer des effets tapageurs ou pour conseiller autrui en matière de magie. C’est généralement un barde, un ensorceleur, un invocateur, une sorcière ou un magicien de niveau 1.
@@ -1240,9 +1240,9 @@ Un apprenti-mage est un lanceur de sorts profanes récemment et suffisamment for
 {s:Reference|ARCHERS}
 <div class=BD>
 {s:BDTitre|Archers|{s:GC}}
-**Recettes** +6 po, Influence ou Travail
-**Création** 4 Marchandises, 3 Influence, 7 Travail (310 po) ; **Durée** 4 jours
-**Taille** 5 personnes
+**Recettes** +6 po, Influence ou Travail  
+**Création** 4 Marchandises, 3 Influence, 7 Travail (310 po) ; **Durée** 4 jours  
+**Taille** 5 personnes  
 **Amélioration en** archers d’élite ; **Amélioration de** soldats
 (((Description)))
 Les archers sont des soldats formés à la manipulation d’armes à distance. Ce sont généralement des hommes d’armes de niveau 1. Chacun porte une armure d’écailles, un arc long, une targe et une épée longue.
@@ -1251,10 +1251,10 @@ Les archers sont des soldats formés à la manipulation d’armes à distance. C
 {s:Reference|ARCHERS D’ÉLITE}
 <div class=BD>
 {s:BDTitre|Archers d’élite|{s:GC}}
-**Recettes** +7 po, Influence ou Travail
-**Création** 5 Marchandises, 4 Influence, 8 Travail (380 po) ; **Durée** 6 jours
-**Taille** 5 personnes
-**Amélioration de** archers, soldats d’élite
+**Recettes** +7 po, Influence ou Travail  
+**Création** 5 Marchandises, 4 Influence, 8 Travail (380 po) ; **Durée** 6 jours  
+**Taille** 5 personnes  
+**Amélioration de** archers, soldats d’élite  
 **Amélioration en** archers montés
 (((Description)))
 Les archers d’élite sont des hommes d’armes de niveau 3. Chacun est équipé d’une armure d’écailles, d’un arc long, d’une targe et d’une épée longue.
@@ -1263,9 +1263,9 @@ Les archers d’élite sont des hommes d’armes de niveau 3. Chacun est équip�
 {s:Reference|ARCHERS MONTÉS}
 <div class=BD>
 {s:BDTitre|Archers montés|{s:GC}}
-**Recettes** +8 po, Influence ou Travail
-**Création** 9 Marchandises, 3 Influence, 10 Travail (470 po) ; **Durée** 7 jours
-**Taille** 5 personnes
+**Recettes** +8 po, Influence ou Travail  
+**Création** 9 Marchandises, 3 Influence, 10 Travail (470 po) ; **Durée** 7 jours  
+**Taille** 5 personnes  
 **Amélioration de** cavaliers, archers d’élite
 (((Description)))
 Les archers montés sont des soldats formés à chevaucher des montures tout en manipulant des armes à distance avant d’engager le corps à corps. Ce sont généralement des hommes d’armes de niveau 3. Chacun est équipé d’une cuirasse, d’un arc court, d’une épée longue, d’une lance d’arçon et d’un écu en acier. Ils montent des chevaux légers entraînés au combat.
@@ -1274,8 +1274,8 @@ Les archers montés sont des soldats formés à chevaucher des montures tout en 
 {s:Reference|ARTISANS}
 <div class=BD>
 {s:BDTitre|Artisans|{s:GC}}
-**Recettes** +4 po, Marchandises ou Travail
-**Création** 3 Marchandises, 2 Influence, 4 Travail (200 po) ; **Durée** 2 jours
+**Recettes** +4 po, Marchandises ou Travail  
+**Création** 3 Marchandises, 2 Influence, 4 Travail (200 po) ; **Durée** 2 jours  
 **Taille** 3 personnes
 (((Description)))
 Les artisans sont formés à la pratique d’une compétence d’Artisanat ou de Profession particulière qu’ils exploitent pour gagner leur vie. Ils peuvent être alchimistes, charpentiers, tanneurs, maçons ou forgerons, entre autres. Un charpentier typique est un expert de niveau 4 (Manuel des PNJ Pathfinder JdR page 261) avec 4 rangs dans les compétences suivantes : Escalade, Artisanat (charpenterie), Diplomatie et Connaissances (ingénierie et folklore local). Les artisans spécialisés dans d’autres domaines possèdent une répartition de rangs similaire.
@@ -1284,9 +1284,9 @@ Les artisans sont formés à la pratique d’une compétence d’Artisanat ou de
 {s:Reference|BUREAUCRATES}
 <div class=BD>
 {s:BDTitre|Bureaucrates|{s:GC}}
-**Recettes** +4 po ou Influence
-**Création** 2 Marchandises, 4 Influence, 2 Travail (200 po) ; **Durée** 2 jours
-**Taille** 5 personnes
+**Recettes** +4 po ou Influence  
+**Création** 2 Marchandises, 4 Influence, 2 Travail (200 po) ; **Durée** 2 jours  
+**Taille** 5 personnes  
 **Amélioration de** fraudeurs, soldats
 (((Description)))
 Les bureaucrates interagissent avec le gouvernement local et gèrent le travail de paperasse ennuyeux lié au fonctionnement d’une entreprise ou d’une organisation. Parmi eux, on peut trouver des comptables, des diplomates, des juristes et des scribes. Un bureaucrate est le plus souvent un expert de niveau 1, 2 ou 3 avec des rangs dans les compétences de Bluff, Diplomatie, Intimidation, Connaissances (folklore local), Linguistique et Profession (avocat, clerc ou scribe).
@@ -1295,9 +1295,9 @@ Les bureaucrates interagissent avec le gouvernement local et gèrent le travail 
 {s:Reference|CAMBRIOLEURS}
 <div class=BD>
 {s:BDTitre|Cambrioleurs|{s:GC}}
-**Recettes** +4 po, Marchandises ou Influence
-**Création** 1 Marchandises, 4 Influence, 3 Travail (200 po) ; **Durée** 3 jours
-**Taille** 5 personnes
+**Recettes** +4 po, Marchandises ou Influence  
+**Création** 1 Marchandises, 4 Influence, 3 Travail (200 po) ; **Durée** 3 jours  
+**Taille** 5 personnes  
 **Amélioration de** tire-laine
 (((Description)))
 Les cambrioleurs sont des voleurs spécialisés dans le cambriolage, le braquage et divers crimes violents réalisés pour le profit. Un cambrioleur typique est un expert ou un roublard de niveau 3 avec 3 rangs dans chacune des compétences suivantes : Escalade, Sabotage, Intimidation, Perception et Discrétion.
@@ -1306,10 +1306,10 @@ Les cambrioleurs sont des voleurs spécialisés dans le cambriolage, le braquage
 {s:Reference|CAVALIERS}
 <div class=BD>
 {s:BDTitre|Cavaliers|{s:GC}}
-**Recettes** +7 po, Influence ou Travail
-**Création** 8 Marchandises, 3 Influence, 8 Travail (410 po) ; **Durée** 6 jours
-**Taille** 5 personnes
-**Amélioration de** soldats d’élite, soldats
+**Recettes** +7 po, Influence ou Travail  
+**Création** 8 Marchandises, 3 Influence, 8 Travail (410 po) ; **Durée** 6 jours  
+**Taille** 5 personnes  
+**Amélioration de** soldats d’élite, soldats  
 **Amélioration en** archers montés
 (((Description)))
 Les cavaliers sont des soldats formés pour le combat monté. Ce sont généralement des hommes d’armes de niveau 3. Chacun porte une cuirasse, une épée longue, une lance d’arçon et un écu en acier. Ils utilisent des chevaux légers entraînés au combat.
@@ -1318,10 +1318,10 @@ Les cavaliers sont des soldats formés pour le combat monté. Ce sont générale
 {s:Reference|CONDUCTEUR D’ATTELAGE}
 <div class=BD>
 {s:BDTitre|Conducteur d’attelage|{s:GC}}
-**Recettes** +2 po, Marchandises ou Travail
-**Création** 2 Marchandises, 1 Influence, 1 Travail (90 po) ; **Durée** 0 jour
-**Taille** 1 personne
-**Amélioration de** travailleurs
+**Recettes** +2 po, Marchandises ou Travail  
+**Création** 2 Marchandises, 1 Influence, 1 Travail (90 po) ; **Durée** 0 jour  
+**Taille** 1 personne  
+**Amélioration de** travailleurs  
 **Amélioration en** laquais
 (((Description)))
 Les conducteurs d’attelage sont formés pour s’occuper des animaux ordinaires et les diriger. Ils peuvent conduire des charrettes tirées par des bœufs, rassembler des troupeaux de bétail ou dresser des chevaux de selle. Un conducteur d’attelage est généralement un expert de niveau 1 avec des rangs dans les compétences de Dressage, Connaissances (géographie), Profession (conducteur d’attelage), Équitation et Survie.
@@ -1330,9 +1330,9 @@ Les conducteurs d’attelage sont formés pour s’occuper des animaux ordinaire
 {s:Reference|CURÉ}
 <div class=BD>
 {s:BDTitre|Curé|{s:GC}}
-**Recettes** +7 po, Influence ou Magie
-**Création** 3 Marchandises, 3 Influence, 3 Travail, 6 Magie (810 po) ; **Durée** 7 jours
-**Taille** 1 personne
+**Recettes** +7 po, Influence ou Magie  
+**Création** 3 Marchandises, 3 Influence, 3 Travail, 6 Magie (810 po) ; **Durée** 7 jours  
+**Taille** 1 personne  
 **Amélioration de** acolyte
 (((Description)))
 Un curé est un lanceur de sorts divins qualifié mais pas particulièrement remarquable. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de niveau 3, équipé d’une armure légère (ou d’aucune armure dans le cas d’un adepte) et d’une arme appropriée à sa foi.
@@ -1341,10 +1341,10 @@ Un curé est un lanceur de sorts divins qualifié mais pas particulièrement rem
 {s:Reference|FRAUDEURS}
 <div class=BD>
 {s:BDTitre|Fraudeurs|{s:GC}}
-**Recettes** +2 po, Marchandises ou Influence
-**Création** 3 Influence, 2 Travail (130 po) ; **Durée** 1 jour
-**Taille** 5 personnes
-**Amélioration de** travailleurs
+**Recettes** +2 po, Marchandises ou Influence  
+**Création** 3 Influence, 2 Travail (130 po) ; **Durée** 1 jour  
+**Taille** 5 personnes  
+**Amélioration de** travailleurs  
 **Amélioration en** bureaucrates
 (((Description)))
 Les fraudeurs effectuent des tâches illégales mais populaires telles que l’organisation de paris ou de combats clandestins, ou la distribution d’alcool de contrebande. D’autres types d’employés peuvent également accomplir ce genre de tâches (votre personnage peut ainsi recruter des travailleurs en tant que prostituées ou des gardes pour gérer une arène), mais les fraudeurs sont particulièrement compétents dans ce domaine.
@@ -1354,10 +1354,10 @@ Les fraudeurs effectuent des tâches illégales mais populaires telles que l’o
 {s:Reference|GARDES}
 <div class=BD>
 {s:BDTitre|Gardes|{s:GC}}
-**Recettes** +2 po, Influence ou Travail
-**Création** 2 Marchandises, 3 Travail (100 po) ; **Durée** 1 jour
-**Taille** 5 personnes
-**Amélioration de** travailleurs
+**Recettes** +2 po, Influence ou Travail  
+**Création** 2 Marchandises, 3 Travail (100 po) ; **Durée** 1 jour  
+**Taille** 5 personnes  
+**Amélioration de** travailleurs  
 **Amélioration en** gardes d’élite, soldats
 (((Description)))
 Les gardes sont formés pour surveiller une personne ou un lieu et pour les défendre si nécessaire. À la différence des soldats, on n’attend pas d’eux qu’ils cherchent les ennuis ou se montrent agressifs. Ils sont plutôt employés pour inciter les ennemis occasionnels à prendre la fuite ou pour défendre un lieu ou une personne contre des ennemis entreprenants. Les gardes sont généralement des hommes d’armes de niveau 1. Ils sont équipés d’une armure d’écailles et soit d’une coutille, soit d’un écu en bois et d’un épieu.
@@ -1366,10 +1366,10 @@ Les gardes sont formés pour surveiller une personne ou un lieu et pour les déf
 {s:Reference|GARDES D’ÉLITE}
 <div class=BD>
 {s:BDTitre|Gardes d’élite|{s:GC}}
-**Recettes** +4 po, Influence ou Travail
-**Création** 3 Marchandises, 1 Influence, 4 Travail (170 po) ; **Durée** 2 jours
-**Taille** 5 personnes
-**Amélioration de** gardes
+**Recettes** +4 po, Influence ou Travail  
+**Création** 3 Marchandises, 1 Influence, 4 Travail (170 po) ; **Durée** 2 jours  
+**Taille** 5 personnes  
+**Amélioration de** gardes  
 **Amélioration en** soldats d’élite
 (((Description)))
 Comme les gardes, ces employés défendent un lieu mais ne prennent pas d’initiatives. Les gardes d’élite sont des hommes d’armes de niveau 3 (Manuel des PNJ page 257). Ils sont équipés d’une chemise de mailles ou d’une crevice, d’un écu en acier, d’un épieu, d’une guisarme ou d’une hallebarde.
@@ -1378,21 +1378,21 @@ Comme les gardes, ces employés défendent un lieu mais ne prennent pas d’init
 {s:Reference|LAQUAIS}
 <div class=BD>
 {s:BDTitre|Laquais|{s:GC}}
-**Recettes** +2 Influence ou Travail
-**Création** 1 Marchandises, 2 Influence, 2 Travail (120 po) ; **Durée** 1 jour
-**Taille** 5 personnes
+**Recettes** +2 Influence ou Travail  
+**Création** 1 Marchandises, 2 Influence, 2 Travail (120 po) ; **Durée** 1 jour  
+**Taille** 5 personnes  
 **Amélioration de** conducteurs d’attelage, travailleurs
 (((Description)))
-Les laquais sont au service de votre personnage de nuit comme de jour et s’occupent des tâches quotidiennes domestiques et de l’intendance lors des déplacements. On compte parmi eux des majordomes, des valets, des bonnes, des hérauts, des dames d’honneur et du personnel de service
+Les laquais sont au service de votre personnage de nuit comme de jour et s’occupent des tâches quotidiennes domestiques et de l’intendance lors des déplacements. On compte parmi eux des majordomes, des valets, des bonnes, des hérauts, des dames d’honneur et du personnel de service 
 similaire. Les laquais qualifiés anticipent les besoins de votre personnage et coordonnent les tâches de ses autres employés, ainsi que de ceux de ses invités ou de ses hôtes. Un laquais est généralement un homme du peuple ou un expert de niveau 1 avec des rangs dans quelques-unes des compétences suivantes : Diplomatie, Déguisement, Intimidation, Connaissances (folklore local), Connaissances (noblesse), Linguistique, Perception et Psychologie.
 </div>
 
 {s:Reference|MAGE}
 <div class=BD>
 {s:BDTitre|Mage|{s:GC}}
-**Recettes** +7 po, Influence ou Magie
-**Création** 3 Marchandises, 2 Influence, 2 Travail, 8 Magie (960 po) ; **Durée** 7 jours
-**Taille** 1 personne
+**Recettes** +7 po, Influence ou Magie  
+**Création** 3 Marchandises, 2 Influence, 2 Travail, 8 Magie (960 po) ; **Durée** 7 jours  
+**Taille** 1 personne  
 **Amélioration de** apprenti-mage
 (((Description)))
 Un mage est un lanceur de sorts profanes qualifié mais pas particulièrement remarquable. C’est généralement un barde, un ensorceleur, un invocateur, une sorcière ou un magicien de niveau 3.
@@ -1401,9 +1401,9 @@ Un mage est un lanceur de sorts profanes qualifié mais pas particulièrement re
 {s:Reference|MARINS}
 <div class=BD>
 {s:BDTitre|Marins|{s:GC}}
-**Recettes** +2 po, Marchandises ou Travail
-**Création** 1 Marchandises, 1 Influence, 2 Travail (90 po) ; **Durée** 0 jour
-**Taille** 5 personnes
+**Recettes** +2 po, Marchandises ou Travail  
+**Création** 1 Marchandises, 1 Influence, 2 Travail (90 po) ; **Durée** 0 jour  
+**Taille** 5 personnes  
 **Amélioration de** travailleurs
 (((Description)))
 Les marins savent naviguer à bord d’un navire, s’orienter en mer et défendre leur bateau contre une attaque de pirates ou d’autres menaces hostiles. Un marin typique est un expert de niveau 2 (Manuel des PNJ page 250) avec 2 rangs dans chacune des compétences suivantes : Acrobaties, Escalade, Perception, Profession (marin), Survie et Natation.
@@ -1412,9 +1412,9 @@ Les marins savent naviguer à bord d’un navire, s’orienter en mer et défend
 {s:Reference|SAGE}
 <div class=BD>
 {s:BDTitre|Sage|{s:GC}}
-**Recettes** +5 po ou Influence
-**Création** 5 Marchandises, 2 Influence, 2 Travail (200 po) ; **Durée** 4 jours
-**Taille** 1 personne
+**Recettes** +5 po ou Influence  
+**Création** 5 Marchandises, 2 Influence, 2 Travail (200 po) ; **Durée** 4 jours  
+**Taille** 1 personne  
 **Amélioration de** acolyte, apprenti-mage
 (((Description)))
 Un sage est une personne possédant des connaissances étendues dans un ou plusieurs domaines apparentés. Il peut conseiller votre personnage sur toutes les questions relatives à ses domaines de connaissances. Un sage typique est un expert de niveau 3 avec 3 rangs dans des compétences telles qu’Estimation, Connaissances, Linguistique, Profession et Art de la magie.
@@ -1423,10 +1423,10 @@ Un sage est une personne possédant des connaissances étendues dans un ou plusi
 {s:Reference|SOLDATS}
 <div class=BD>
 {s:BDTitre|Soldats|{s:GC}}
-**Recettes** +5 po, Influence ou Travail
-**Création** 3 Marchandises, 2 Influence, 5 Travail (220 po) ; **Durée** 2 jours
-**Taille** 5 personnes
-**Amélioration de** gardes
+**Recettes** +5 po, Influence ou Travail  
+**Création** 3 Marchandises, 2 Influence, 5 Travail (220 po) ; **Durée** 2 jours  
+**Taille** 5 personnes  
+**Amélioration de** gardes  
 **Amélioration en** archers, bureaucrates, cavaliers, soldats d’élite
 (((Description)))
 Les soldats sont formés au combat. Ils ont les moyens et la volonté nécessaires pour tuer les ennemis de votre personnage. À la différence des gardes, ils engagent le combat sur ordre de leur chef (même si votre personnage peut leur demander de se comporter comme des gardes). En fonction de la nature de l’organisation de votre personnage, les soldats peuvent être des hommes de main plutôt que de véritables soldats au sens militaire du terme. Les soldats sont généralement des hommes d’armes de niveau 1. Ils sont équipés d’une armure d’écailles, d’une épée longue, d’un écu en bois et de javelines.
@@ -1435,10 +1435,10 @@ Les soldats sont formés au combat. Ils ont les moyens et la volonté nécessair
 {s:Reference|SOLDATS D’ÉLITE}
 <div class=BD>
 {s:BDTitre|Soldats d’élite|{s:GC}}
-**Recettes** +6 po, Influence ou Travail
-**Création** 5 Marchandises, 3 Influence, 7 Travail (330 po) ; **Durée** 5 jours
-**Taille** 5 personnes
-**Amélioration de** gardes d’élite, soldats
+**Recettes** +6 po, Influence ou Travail  
+**Création** 5 Marchandises, 3 Influence, 7 Travail (330 po) ; **Durée** 5 jours  
+**Taille** 5 personnes  
+**Amélioration de** gardes d’élite, soldats  
 **Amélioration en** cavaliers, archers d’élite
 (((Description)))
 Comme les soldats, ces employés se lancent dans des manœuvres offensives et traquent les ennemis de votre personnage pour les tuer. Les soldats d’élite sont des hommes d’armes de niveau 3 (Manuel des PNJ page 257). Chacun est équipé d’une chemise de mailles ou d’une crevice, d’une guisarme, d’une hallebarde ou d’un écu en acier et d’un épieu.
@@ -1447,9 +1447,9 @@ Comme les soldats, ces employés se lancent dans des manœuvres offensives et tr
 {s:Reference|TIRE-LAINE}
 <div class=BD>
 {s:BDTitre|Tire-laine|{s:GC}}
-**Recettes** +3 po, Marchandises ou Travail
-**Création** 3 Influence, 1 Travail (110po) ; **Durée** 1 jour
-**Taille** 5 personnes
+**Recettes** +3 po, Marchandises ou Travail  
+**Création** 3 Influence, 1 Travail (110po) ; **Durée** 1 jour  
+**Taille** 5 personnes  
 **Amélioration en** cambrioleurs
 (((Description)))
 Les tire-laine sont des voleurs de seconde zone (et souvent jeunes) qui gagnent leur vie en accomplissant des actes illégaux mineurs tels que le pickpocket ou le vol à l’étalage. Ce sont le plus souvent des hommes du peuple (Manuel des PNJ page 262), des experts (Manuel des PNJ page 250) ou des roublards (Manuel des PNJ page 180) de niveau 1 avec 1 rang dans les compétences de Perception, Escamotage et Discrétion.
@@ -1458,9 +1458,9 @@ Les tire-laine sont des voleurs de seconde zone (et souvent jeunes) qui gagnent 
 {s:Reference|TRAVAILLEURS}
 <div class=BD>
 {s:BDTitre|Travailleurs|{s:GC}}
-**Recettes** +2 po ou Travail
-**Création** 1 Influence, 2 Travail (70 po) ; **Durée** 0 jour
-**Taille** 5 personnes
+**Recettes** +2 po ou Travail  
+**Création** 1 Influence, 2 Travail (70 po) ; **Durée** 0 jour  
+**Taille** 5 personnes  
 **Amélioration en** conducteurs d’attelage, gardes, laquais, marins, fraudeurs
 (((Description)))
 Les travailleurs sont des ouvriers non-qualifiés qui effectuent des tâches simples. Dans la plupart des cas, ils font un travail physique, mais il est possible de recruter des travailleurs spécialisés dans la réalisation de tâches particulières telles que la mendicité au service d’une guilde de voleurs, des pleureurs professionnels au service d’un culte ou des comédiens pour une représentation théâtrale. Les travailleurs sont généralement des hommes du peuple de niveau 1 (Manuel des PNJ page 256) sans aucun rang dans une compétence d’Artisanat ou de Profession.

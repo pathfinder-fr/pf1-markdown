@@ -13,12 +13,12 @@ Categories:
 
 La formulation implique que le sort intensifié utilise le niveau de sort de l’emplacement dépensé pour le préparer ou le lancer, quel qu’il soit, mais les règles viennent de la 3.5 et ne tiennent pas compte (1) de la règle normale qui permet de préparer un sort dans un emplacement plus élevé, et (2) de sa capacité à être combiné avec d’autres [[Dons#DONMETAMAGIE|dons de métamagie]].
 
-Pour le (1), avoir Augmentation d’intensité ne signifie pas que tout sort lancé avec un emplacement plus élevé est automatiquement intensifié ; le personnage doit prendre la décision de préparer ou de lancer le sort normalement ou de manière intensifiée.
-Si le personnage est un lanceur de sorts non-spontanés (comme un [[Prêtre]] ou un [[Magicien]]) qui veut préparer un sort dans un emplacement plus élevé, il n’a aucune raison de ne pas utiliser Augmentation d’intensité sur ce sort (cela ne lui coûte pas plus de temps ou autre « ressource » du jeu).
-Si le personnage est un lanceur de sorts spontanés, intensifier un sort en utilisant un emplacement plus élevé rallonge tout de même le temps d’incantation, comme n’importe quelle utilisation de la métamagie, donc il doit peser le pour et le contre entre
-• lancer le sort normalement en utilisant un emplacement plus élevé
-et,
-• augmenter le temps d’incantation nécessaire pour le lancer comme un sort intensifié afin de le traiter comme s’il était du niveau de l’emplacement dépensé.
+Pour le (1), avoir Augmentation d’intensité ne signifie pas que tout sort lancé avec un emplacement plus élevé est automatiquement intensifié ; le personnage doit prendre la décision de préparer ou de lancer le sort normalement ou de manière intensifiée.  
+Si le personnage est un lanceur de sorts non-spontanés (comme un [[Prêtre]] ou un [[Magicien]]) qui veut préparer un sort dans un emplacement plus élevé, il n’a aucune raison de ne pas utiliser Augmentation d’intensité sur ce sort (cela ne lui coûte pas plus de temps ou autre « ressource » du jeu).  
+Si le personnage est un lanceur de sorts spontanés, intensifier un sort en utilisant un emplacement plus élevé rallonge tout de même le temps d’incantation, comme n’importe quelle utilisation de la métamagie, donc il doit peser le pour et le contre entre  
+• lancer le sort normalement en utilisant un emplacement plus élevé  
+et,  
+• augmenter le temps d’incantation nécessaire pour le lancer comme un sort intensifié afin de le traiter comme s’il était du niveau de l’emplacement dépensé.  
 
 *Exemple :* Un [[Ensorceleur]] de niveau 10 pourrait lancer *[[boule de feu]]* en utilisant un emplacement de 3e, 4e ou 5e niveau, elle aurait un temps d’incantation d’une action simple seulement, compterait comme un sort de 3e niveau, et aurait un DD de 13 + le modificateur de Charisme du personnage. S’il avait Augmentation d’intensité et voulait l’intensifier en utilisant un emplacement de 4e ou de 5e niveau, elle aurait un temps d’incantation d’une action complexe, mais compterait comme un sort de 4e ou de 5e niveau et aurait un DD de 14 + modificateur de Cha (pour un sort de 4e niveau) ou 15 + modificateur de Cha (pour un sort de 5e niveau).
 

@@ -21,7 +21,7 @@ Categories:
 **Durée** 1 minute/[[niveau]] (T)  
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
-Ce sort recouvre une surface solide d’une couche de colle gluante. Les créatures qui se trouvent dans la zone du sort au moment où il prend effet doivent réussir un jet de [[Réflexes]]. Celles qui échouent sont [[enchevêtré|enchevêtrées]] mais peuvent se libérer en réussissant un test de [[BMO|manœuvre offensive]] ou un test d'[[Évasion]] par une [[action simple]] contre le [[DD]] de ce sort. la zone affectée par le sort est considérée comme un [[Déplacement et position#Terrain_difficile_0|environnement difficile]].
+Ce sort recouvre une surface solide d’une couche de colle gluante. Les créatures qui se trouvent dans la zone du sort au moment où il prend effet doivent réussir un jet de [[Réflexes]]. Celles qui échouent sont [[enchevêtré|enchevêtrées]] mais peuvent se libérer en réussissant un test de [[BMO|manœuvre offensive]] ou un test d'[[Évasion]] par une [[action simple]] contre le [[DD]] de ce sort. la zone affectée par le sort est considérée comme un [[Déplacement et position#Terrain_difficile_0|environnement difficile]]. 
 
 Une créature qui traverse la colle doit réussir un test de manœuvre offensive ou un test d'Évasion au cours de son action de mouvement (DD = DD du sort). Les créatures qui ratent leur jet terminent leur déplacement de suite et sont [[enchevêtré|enchevêtrées]] sur la première case où elles pénètrent.
 

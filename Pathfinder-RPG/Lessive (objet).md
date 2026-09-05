@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa (classique), 1 po (magique)
+{s:AE}**Prix** 1 pa (classique), 1 po (magique)  
 <span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
----
+<hr />
 Le prix est indiqué pour un maximum de quatre articles (comme un pantalon, des sous-vêtements, une chemise et une veste ou un gilet). Les articles supplémentaires sont lavés pour 3 pc chacun. Le personnage récupère son linge le lendemain à moins qu’il ne l’apport à la laverie de très bonne heure. Les laveries magiques sont tenus par des mages (généralement des apprentis magiciens) qui lavent les vêtements, magiquement et instantanément, avec un sort de *[[prestidigitation]]*.

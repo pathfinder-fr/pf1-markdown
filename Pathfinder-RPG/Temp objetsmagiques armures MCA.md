@@ -221,7 +221,7 @@ Les tests de [[Survie]] pour pister le personnage subissent un
 malus de -5 et le personnage gagne un bonus de compétence de +5
 aux tests de [[Discrétion]]. Seules les armures en cuir ou en peau peuvent
 être sans trace.
-(((Caractéristiques)))
+(((Caractéristiques))) 
 - **Emplacement** aucun **NLS** 5 **Poids** —
 - **Aura** transmutation faible ;**Prix** 3 750 po
 [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[passage sans trace]]

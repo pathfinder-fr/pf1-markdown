@@ -9,7 +9,7 @@ Categories:
 Les Tianais viennent du lointain [[Tian Xia]], un territoire presque inaccessible aux habitants des nations de la [[mer Intérieure]]. Les quelques Tianais qui ont émigré de leur terre d'origine vers les côtes de l'[[Avistan]] et du [[Garund]] sont généralement regroupés en une seule ethnie. Mais les Tianais sont issus d'un continent entier et, de ce fait, ne forment pas une seule unité ethnique, mais plusieurs. Tous les Tianais de la [[mer Intérieure]] ont un seul point commun : ils sont éloignés de leur terre d'origine de plusieurs milliers de kilomètres.
 
 ### Apparence
-Bien que regroupés en différentes ethnies que les étrangers ont du mal à différencier, les Tianais ont néanmoins quelques ressemblances. D'abord ils sont généralement plus petits que les humains avistanais ou garundais. Les hommes ne dépassent que rarement le mètre soixante-dix alors que les femmes n'atteignent pas le mètre cinquante-cinq. Leur carrure est également plus mince, surtout celle des membres des ethnies Tian-Dan et Tian-Sing, que l'on dit émaciés.
+Bien que regroupés en différentes ethnies que les étrangers ont du mal à différencier, les Tianais ont néanmoins quelques ressemblances. D'abord ils sont généralement plus petits que les humains avistanais ou garundais. Les hommes ne dépassent que rarement le mètre soixante-dix alors que les femmes n'atteignent pas le mètre cinquante-cinq. Leur carrure est également plus mince, surtout celle des membres des ethnies Tian-Dan et Tian-Sing, que l'on dit émaciés. 
 
 Les Tianais ont souvent les cheveux noirs ou marron très foncé, quelle que soit leur origine. Plus rarement, ils naissent avec les cheveux blancs, ce qui est chez eux un signe de grandeur. La couleur des yeux des membres de la plus grande ethnie tianaise, les Tian-Shu, est marron, mais celà peut varier d'une ethnie à l'autre. Les Tian-Min de [[Minkai]], par exemple, possèdent l'échelle de couleurs la plus grande de toutes les ethnies tianaises.
 
@@ -25,6 +25,6 @@ La culture des Tianais est un grand mystère pour les non Tianais. On sait qu'il
 Le second élément unique à la culture tianaise est l'importance du thé dans la vie des habitants. Il intervient dans tous les styles de vie et dans toutes les couches de la société au [[Tian Xia]]. Il est même plus populaire que l'alcool sur la plus grande partie du continent. Son importance a été mise en exergue il y a environ 4000 ans lorsque les cours royales se mirent à en boire et que les couches plus populaires se mirent à les imiter.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Tianais dans le supplément
+Vous pourrez trouver plus d'informations à propos des Tianais dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

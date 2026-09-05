@@ -43,7 +43,7 @@ régions rurales. Ces monstres enfouisseurs de la taille d’un cheval
 évitent généralement les zones à forte densité de population
 comme les villes, mais leur goût prononcé pour le bétail et la chair
 d’humanoïde ne leur permet pas non plus de rester dans les étendues
-sauvages et inhabitées.
+sauvages et inhabitées. 
 
 Les fermes rurales constituent leur milieu
 naturel de prédilection car ils peuvent se déplacer facilement
@@ -69,13 +69,13 @@ mandibules, ce qui leur permet de se déplacer étonnamment vite
 similaires (ils ne peuvent toutefois pas creuser dans la roche). En
 plus de l’acide, ils peuvent également déverser par la bouche une
 sécrétion plus épaisse et moins caustique qui leur permet de
-renforcer les parois de leurs tunnels.
+renforcer les parois de leurs tunnels. 
 
 Les ankhegs qui façonnent des tunnels permanents doivent se déplacer à la moitié de leur vitesse
 de creusement. Les tunnels d’ankhegs mesurent généralement
 3 mètres en hauteur et en largeur, possèdent une section
 approximativement circulaire et s’étendent sur une longueur
-variant entre 18 mètres et 45 mètres (1d10+5 fois 1,50 m).
+variant entre 18 mètres et 45 mètres (1d10+5 fois 1,50 m). 
 
 Les ankhegs se rassemblent souvent en groupes dans un même territoire et
 façonnent des réseaux complexes de tunnels qui serpentent sous
@@ -85,7 +85,7 @@ lorsqu’ils sont trop nombreux à creuser en même temps.
 Les ankhegs ressemblent à des vermines géantes mais sont en
 fait beaucoup plus intelligents qu’une araignée moyenne. Avec
 suffisamment de temps et un entraîneur doué, ils peuvent être
-dressés pour servir de montures ou d’animaux de trait.
+dressés pour servir de montures ou d’animaux de trait. 
 
 Même « domestiqués », les ankhegs ont
 tendance à cracher de l’acide

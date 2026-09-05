@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs} {s:ISG} *La foi du personnage tire sur les fils du destin, en plus de soigner le corps.*
+{s:cs} {s:ISG} *La foi du personnage tire sur les fils du destin, en plus de soigner le corps.* 
 
 **Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] positive 3d6, suivant de [[Pharasma (technique)|Pharasma]]
 

@@ -36,7 +36,7 @@ Quand le mage lance ce sort, il adopte l’apparence de n’importe quel [[type 
 
 **Créature magique de taille M.** Si le personnage prend la forme d’une [[type créature magique|créature magique]] de [[taille M]], il gagne un bonus de +4 à la [[Force]] et un bonus d’armure naturelle de +4.
 
-(((Ce sort fonctionne comme *[[forme bestiale II]]* mais le personnage peut aussi prendre l’apparence d’un [[type animal|animal]] de [[taille Min]] ou [[taille TG|TG]] ou d’une [[type créature magique|créature magique]] de [[taille P]] ou [[taille M|M]]. Si cette créature dispose des aptitudes suivantes, le personnage en bénéficie aussi :
+(((Ce sort fonctionne comme *[[forme bestiale II]]* mais le personnage peut aussi prendre l’apparence d’un [[type animal|animal]] de [[taille Min]] ou [[taille TG|TG]] ou d’une [[type créature magique|créature magique]] de [[taille P]] ou [[taille M|M]]. Si cette créature dispose des aptitudes suivantes, le personnage en bénéficie aussi : 
 creusement 9 m, escalade 27 m, nage 27 m, vol 27 m (bonne maniabilité), [[bond]], [[constriction]], [[croc-en-jambe]], [[étreinte]], [[férocité]], [[pattes arrière]], [[odorat]], [[perception aveugle]] à 9 m, [[piétinement]], [[poison]], propulsion, [[toile]], [[vision dans le noir]] 18 m, [[vision nocturne]].
 
 **Animal de taille Min.** Si le personnage prend la forme d’un [[type animal|animal]] de [[taille Min]], il gagne un bonus de +6 à la [[Dextérité]], un malus de -4 à la [[Force]] et un bonus d’armure naturelle de +1.

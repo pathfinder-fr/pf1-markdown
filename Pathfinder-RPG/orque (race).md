@@ -24,7 +24,7 @@ Les orques considèrent les demi-orques avec un mélange de mépris, d’envie e
 
 **Aventuriers.** Les orques ne quittent généralement leur tribu que lorsqu’ils perdent une lutte de pouvoir. Encourant l’humiliation, l’esclavage, voire même la mort aux mains des leurs, ils choisissent de partir et de s’associer à d’autres races. Les orques qui échouent à réfréner leur tempérament et leur tendance instinctive à la domination font rarement long feu lorsqu’ils s’en prennent aux leurs. Même si ceux qui parviennent à se débrouiller dans les autres sociétés apprécient souvent le luxe et le confort que celles-ci peuvent leur apporter, ils rêvent toujours de rentrer chez eux, pour s’emparer du pouvoir et prendre leur revanche.
 
-**Noms masculins.** Arkus, Carrug, Félzak, Murdut, Prabur.
+**Noms masculins.** Arkus, Carrug, Félzak, Murdut, Prabur.  
 **Noms féminins.** Durra, Grillgiss, Ilyat, Krugga, Leffit, Olbin, Trisgrak.
 
 {s:Reference|TRAITSSTANDARDS}

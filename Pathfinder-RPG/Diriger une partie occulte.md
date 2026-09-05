@@ -510,7 +510,7 @@ existent.
 
 ### Amorces d'aventures occultes
 Les amorces d’aventure suivantes jouent sur les éléments
-et les thèmes liés aux aventures occultes.
+et les thèmes liés aux aventures occultes. 
 
 #### Un couple de diablotins
 Les rumeurs disant que les cadavres d’étranges créatures

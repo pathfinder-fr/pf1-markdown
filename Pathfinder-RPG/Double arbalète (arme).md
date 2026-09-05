@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 300 po ; **Poids** 9 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** 24 m (16 c) ; **Type** P ; **Spécial** voir texte
+{s:AE}**Prix** 300 po ; **Poids** 9 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]  
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** 24 m (16 c) ; **Type** P ; **Spécial** voir texte  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 {s:Desambi|Dans le <u>Manuel des jouuers - Règles avancées</u>, cet objet est aussi appelé "arbalète double".}Cette arme lourde tire une paire de carreaux à pointe en fer d’une seule pression de la gâchette.  
   
 Du fait de sa taille et de son poids, le personnage reçoit un malus de -4 à ses [[jet dattaque|jets d’attaque]] s’il est formé à son maniement ou de -8 s’il ne l’est pas. Si l’attaque réussit, la cible reçoit les dégâts des deux carreaux. Les dégâts des [[coup critique|coups critiques]], des [[Roublard#ATTAQUESOURNOISE|attaques sournoises]] et les autres dégâts basés sur la précision ne s’appliquent qu’au premier carreau. Il faut dépenser une [[action simple]] pour charger un carreau.  

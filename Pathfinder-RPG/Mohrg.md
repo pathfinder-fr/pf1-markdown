@@ -44,7 +44,7 @@ Les individus qui ont tué de nombreuses
 victimes de leur vivant, comme les tueurs en
 série, les soldats assoiffés de sang ou les berserkers
 avides de combat, sont marqués et transformés par
-le poids de leurs actions meurtrières.
+le poids de leurs actions meurtrières. 
 
 Lorsqu’un tel individu est
 amené devant la justice et exécuté publiquement pour ses crimes
@@ -73,7 +73,7 @@ pour retourner aux endroits qu’ils préféraient et « hanter »
 leurs anciennes cachettes, ou parfois poursuivre l’œuvre
 des meurtriers qu’ils étaient en reprenant les méthodes
 d’assassinat et de destruction qu’ils employaient
-lorsqu’ils respiraient encore.
+lorsqu’ils respiraient encore. 
 
 Ces mohrgs sont
 souvent plus déséquilibrés que la majorité des
@@ -89,7 +89,7 @@ morts-vivants elles aussi, les meurtres
 d’un mohrg ne passent bien sûr pas
 inaperçus très longtemps, même
 s’ils prennent bien soin de ne s’en
-prendre qu’à la lie de la société.
+prendre qu’à la lie de la société. 
 
 Les activités d’un mohrg entraînent
 inévitablement l’apparition soudaine
@@ -99,7 +99,7 @@ contrôle de ces zombis et qu’il possède une intelligence teintée
 de haine et de cruauté, il garde généralement son armée en
 réserve et lui commande de patienter plusieurs semaines
 ou plusieurs mois, jusqu’à ce que le cimetière local
-regorge de serviteurs morts-vivants.
+regorge de serviteurs morts-vivants. 
 
 C’est ensuite,
 lorsque le mohrg estime que le bon moment

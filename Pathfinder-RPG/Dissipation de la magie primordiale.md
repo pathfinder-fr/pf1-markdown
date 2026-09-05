@@ -9,11 +9,11 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une pincée de sable du désert de la Cicatrice magique)
-**Portée** 3 m
-**Zone d'effet** émanation de 3 m de rayon centrée sur le personnage
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une pincée de sable du désert de la Cicatrice magique)  
+**Portée** 3 m  
+**Zone d'effet** émanation de 3 m de rayon centrée sur le personnage  
 **Durée** 1 round/niveau
 
 *Les magiciens de la Grande magiocratie ont créé ce sort lors de leurs recherches sur la nature de la Désolation de mana, dans l’espoir de créer au sein de cette région qui dévore la magie de petites zones où leurs sorts pourraient fonctionner de manière fiable. Ce sort est la méthode la plus efficace conçue jusqu’à maintenant. Elle stabilise temporairement la magie pour que les incantations au sein d’une zone de petite taille aboutissent sans crainte de déclencher des évènements de magie primordiale.*

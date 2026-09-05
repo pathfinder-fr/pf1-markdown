@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:36
 {s:BDTitre|Bandeau de vaillance|{s:AE}}
 **Aura** [[Abjuration]] puissante ; **NLS** 16 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 14.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce simple bandeau de fer protège son porteur contre la terreur. Dès qu’il est victime d’un effet de terreur, on considère qu’il est simplement [[États préjudiciables#Secoué|secoué]] (même s’il devrait normalement être [[États préjudiciables#Effrayé|effrayé]] ou [[États préjudiciables#Paniqué|paniqué]]). De plus, il gagne un bonus de compétence de +2 aux jets de [[Volonté]] contre la terreur. S’il possède l’aptitude de classe de [[guerrier#COURAGE|courage]], il ajoute 4 niveaux à son niveau de classe pour déterminer l’effet de cette aptitude.
+Ce simple bandeau de fer protège son porteur contre la terreur. Dès qu’il est victime d’un effet de terreur, on considère qu’il est simplement [[États préjudiciables#Secoué|secoué]] (même s’il devrait normalement être [[États préjudiciables#Effrayé|effrayé]] ou [[États préjudiciables#Paniqué|paniqué]]). De plus, il gagne un bonus de compétence de +2 aux jets de [[Volonté]] contre la terreur. S’il possède l’aptitude de classe de [[guerrier#COURAGE|courage]], il ajoute 4 niveaux à son niveau de classe pour déterminer l’effet de cette aptitude. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Regain dassurance|regain d’assurance]]*  ; **Coût** 7.000 po
 </div>

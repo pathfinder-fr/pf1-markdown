@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 30 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20
+{s:cs}{s:AA}**Prix** 30 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
----
+<hr />
 Cette huile d’une teinte brun clair fonctionne comme le [[Musc des terres sanglantes (objet)|musc des terres sanglantes]] mais attire un type spécifique de créature ([[Chien|chiens]], [[Abeille géante|abeilles géantes]], etc).

@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa (standard), 10 po (pipés), 50 po (pipés, supérieurs) ; **Poids** — (standard), — (pipés), — (pipés, supérieurs)
+{s:AE}**Prix** 1 pa (standard), 10 po (pipés), 50 po (pipés, supérieurs) ; **Poids** — (standard), — (pipés), — (pipés, supérieurs)  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Il existe différentes formes de dés mais les plus courants sont en forme de cubes.  
   
 *Dés pipés*. La plupart des dés pipés sont plus lourds que les autres, le poids étant concentré à l’opposé du nombre voulu. Le personnage peut repérer ce truquage avec un test d’[[Estimation]] ou de [[Perception]] [[DD]] 15. Les dés pipés supérieurs (comme les dés en bois taillés autour d’un poids naturel) ont un DD allant de 20 à 30.

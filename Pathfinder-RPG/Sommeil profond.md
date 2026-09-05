@@ -15,14 +15,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (du sable fin, des pétales de rose ou un criquet vivant)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Zone d'effet** 1 ou plusieurs créatures vivantes dans un rayonnement de 3 m (2 {s:c}) de rayon
-**Durée** 1 minute/[[niveau]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (du sable fin, des pétales de rose ou un criquet vivant)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Zone d'effet** 1 ou plusieurs créatures vivantes dans un rayonnement de 3 m (2 {s:c}) de rayon  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort est semblable à *[[sommeil]]*, si ce n’est qu’il affecte 10 [[DV]] de créatures.
 
 ### Version mythique
@@ -35,29 +35,29 @@ Ce sort fonctionne comme sommeil mythique, sauf qu’il affecte jusqu’à 20 DV
 
 (((
 ## Sommeil
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, M]] (du sable fin, des pétales de rose ou un criquet vivant)
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Zone d'effet** 1 ou plusieurs créatures vivantes dans un rayonnement de 3 m (2 {s:c}) de rayon
-**Durée** 1 minute/[[niveau]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, M]] (du sable fin, des pétales de rose ou un criquet vivant)  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Zone d'effet** 1 ou plusieurs créatures vivantes dans un rayonnement de 3 m (2 {s:c}) de rayon  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort endort 4 [[DV]] de créatures. Les créatures les plus faibles sont affectées les premières. Lorsque leurs [[DV]] sont équivalents, ce sont les créatures les plus proches du point d’origine du [[rayonnement]] qui sont atteintes en premiers. Les [[DV]] qui ne suffisent pas à affecter la cible suivante sont perdus. Les créatures endormies sont [[sans défense]]. Elles se réveillent si on les gifle ou si on les frappe, mais le bruit ne suffit pas. Réveiller un compagnon est une [[action simple]] qui entre dans la catégorie « [[aider quelquun|aider quelqu’un]] ». *Sommeil* reste sans effet sur les créatures [[inconscient|inconscientes]], les [[type mort-vivant|morts-vivants]] ou les [[type créature artificielle|créatures artificielles]].
 )))
 
 ((({s:sortssimilaires|sommeil profond}
 ## [[Sommeil de lamnésique|Sommeil de l'amnésique]]
-{s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}{s:MR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ;
-**Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G, F]] (quelques gouttes d'eau d'un ruisseau)
-**Portée** courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])
-**Cible** une créature vivante
-**Zone d'effet** [[émanation]] de 6 m de rayon
-**Durée** 1 minute/[[niveau]]
+{s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}{s:MR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; 
+**Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G, F]] (quelques gouttes d'eau d'un ruisseau)  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
+**Cible** une créature vivante  
+**Zone d'effet** [[émanation]] de 6 m de rayon  
+**Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui (inoffensif)
----
+<hr />
 Ce sort agit comme *[[sommeil profond]]*, mais affecte seulement une créature de 10 [[DV]] ou moins. De plus, quand elle se réveille, elle ne garde aucun souvenir des circonstances dans lesquelles le sort a été lancé. La cible perd tout souvenir de ce qui s’est passé pendant les 5 minutes qui ont précédé le lancement du sort. Aucun effet ne peut
 lui rendre la mémoire, à part un miracle ou un souhait.
 )))

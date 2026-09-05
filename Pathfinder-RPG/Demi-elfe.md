@@ -47,7 +47,7 @@ Certains demi-elfes entendent l’appel du divin, mais vivent en dehors des stru
 
 **Aventuriers.** Les demi-elfes sont souvent des nomades qui parcourent le monde à la recherche d’un endroit qu’ils pourront appeler leur foyer. Leur désir de prouver leur valeur à leur communauté et d’asseoir leur identité personnelle (ou même de laisser un héritage) les pousse à mener une vie courageuse. Certains disent que, malgré leur longévité, ils perçoivent le passage du temps comme les humains plutôt que comme les elfes et qu’ils préfèrent obtenir richesses, pouvoir ou célébrité tôt dans leur vie, pour pouvoir en profiter plus tard.
 
-**Noms masculins.** Calathes, Encinal, Iradli, Kyras, Narciso, Quinray, Seltyil, Zirul.
+**Noms masculins.** Calathes, Encinal, Iradli, Kyras, Narciso, Quinray, Seltyil, Zirul.  
 **Noms féminins.** Cathran, Elsbeth, Iandoli, Kieyanna, Lialda, Maddela, Reda, Tamarie.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -130,15 +130,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les demi-elfes occultes.** Nombreux sont les demi-elfes doués pour nouer ou solidifier leurs  relations sociales et les demi-elfes adeptes des arts psychiques savent que les connexions mentales avec autrui facilitent ces relations. Ils s’avèrent particulièrement doués pour mettre en oeuvre les communications spirituelles pratiquées par les médiums. Les demi-elfes plus proches de leurs racines elfiques se lancent dans la carrière de psychiste et ceux plus en accord avec leur héritage humain préfèrent la voie du cinétiste ou de l’hypnotiseur.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste rajoute 30 centimètres au [[facteur de portée]] de ses armes de jet à aspersion (y compris ses bombes). Cette option n’a aucun effet tant que l’alchimiste ne l’a pas choisie à cinq reprises (ou un autre multiple de 5) : un facteur de portée de 7,20 mètres se traduit, en pratique, comme un facteur de portée de 6 mètres.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste rajoute 30 centimètres au [[facteur de portée]] de ses armes de jet à aspersion (y compris ses bombes). Cette option n’a aucun effet tant que l’alchimiste ne l’a pas choisie à cinq reprises (ou un autre multiple de 5) : un facteur de portée de 7,20 mètres se traduit, en pratique, comme un facteur de portée de 6 mètres.  
 Les demi-elfes sont des touche-à-tout curieux. Nombre d’entre eux étudient l’alchimie, au moins de manière superficielle, et beaucoup font preuve de grands talents lorsqu’il s’agit de mélanger et de répartir des éléments volatiles.
 
 {s:MCA}**[[Arcaniste]].** Quand l’arcaniste lance un sort d’enchantement, il ajoute 1/3 à son [[NLS|niveau de lanceur de sorts]] effectif mais uniquement quand il détermine la durée de l’effet.
 
-{s:MR}{s:APG}**[[Barbare]].** Quand le barbare est la cible d’une attaque provenant d’un piège détecté avec [[Barbare#SENSDESPIEGES|sens des pièges]], il gagne un bonus de +1/4 aux [[jet de sauvegarde|jets de Réflexes]] et un bonus d’esquive de +1/4 à la [[CA]].
+{s:MR}{s:APG}**[[Barbare]].** Quand le barbare est la cible d’une attaque provenant d’un piège détecté avec [[Barbare#SENSDESPIEGES|sens des pièges]], il gagne un bonus de +1/4 aux [[jet de sauvegarde|jets de Réflexes]] et un bonus d’esquive de +1/4 à la [[CA]].  
 Les barbares demi-elfes sont généralement issus de parents vivant dans des sociétés sauvages. Bon nombre d’entre eux quittent leur culture pour échapper aux conséquences de leur différence, mais certains défendent férocement leur peuple tout en cherchant sans cesse à prouver leur valeur.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde gagne +1 [[round]] de [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] par jour.
+{s:MR}{s:APG}**[[Barde]].** Le barde gagne +1 [[round]] de [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] par jour.  
 De nombreux demi-elfes se tournent vers la classe de [[barde]], car celle-ci met en valeur leurs charmes naturels et leur facilité d’adaptation sociale, ce qui leur permet souvent de susciter l’adoration chez les autres.
 
 {s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
@@ -147,7 +147,7 @@ De nombreux demi-elfes se tournent vers la classe de [[barde]], car celle-ci met
 
 {s:MCA}**[[Chasseur]].** Ajoute 1,50 mètre à la [[VD|vitesse de base]] du compagnon animal. Au combat, cet avantage se traduit par une augmentation de 1,50 mètre de la vitesse de base uniquement une fois que le personnage a choisi cinq fois cette option.
 
-{s:MR}{s:APG}**[[Chevalier]].** Le [[chevalier]] ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
+{s:MR}{s:APG}**[[Chevalier]].** Le [[chevalier]] ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.  
 Les chevaliers demi-elfes abordent l’art de la guerre et de l’étiquette avec élégance et finesse. La voie du [[chevalier]] leur donne un code à suivre et un maître à servir afin de gagner honneur et estime, même si les [[humain|humains]] et les [[elfe|elfes]] les voient souvent comme des imposteurs ou des intrus au sein de leurs [[ordres|ordres de chevalerie]].
 
 {s:AO}**[[Cinétiste]].** le personnage ajoute un bonus de +1/4 aux [[Valeurs de combat#DEGATS|jets de dégâts]] qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
@@ -155,20 +155,20 @@ Les chevaliers demi-elfes abordent l’art de la guerre et de l’étiquette ave
 {s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute 1/4 de point à la [[eidolon|réserve de points d’évolution de son eidolon]].
 Certains demi-elfes éprouvent une étrange fascination à l’idée de créer et de façonner la vie, l’esprit, le corps et l’âme. Nombre d’entre eux cherchent à faire de leur [[eidolon]] une créature parfaite dotée d’une beauté immaculée ou inspirant une irrésistible terreur.
 
-{s:MR}{s:APG}**[[Druide]].** Le druide choisit un pouvoir de [[Domaines animaux et environnementaux|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour. Si le druide a un [[Compagnons animaux|compagnon animal]] grâce au lien avec la nature, ce compagnon reçoit +1 rang de compétence. Si le druide doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
+{s:MR}{s:APG}**[[Druide]].** Le druide choisit un pouvoir de [[Domaines animaux et environnementaux|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour. Si le druide a un [[Compagnons animaux|compagnon animal]] grâce au lien avec la nature, ce compagnon reçoit +1 rang de compétence. Si le druide doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.  
 Les demi-elfes qui ne se sentent pas à leur place au sein des sociétés civilisées les abandonnent fréquemment pour se tourner vers l’harmonie intrinsèque du monde naturel. En laissant libre cours à la connexion avec le monde naturel que leur inspire leur sang elfique, bon nombre d’entre eux trouvent dans les contrées sauvages une tranquillité qu’aucune société ne peut leur offrir.
 
 {s:MCA}**[[Enquêteur]].** Bonus de +1/4 aux jets d’[[Enquêteur#INSPIRATION|inspiration]].
 
-{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[lignages|lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[lignages|lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.  
 De la magie coule dans le sang de tout demi-elfe. Elle se manifeste souvent sous la forme d’un [[lignages|lignage]] [[lignage profane|profane]] ou [[lignage féerique|féerique]] mais d’autres sources de pouvoirs apparaissent aussi parfois. Quelle que soit l’origine de leur magie, les demi-elfes apprennent rapidement à maîtriser les pouvoirs dont ils ont hérité.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une tentative de [[Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#RENVERSEMENT|renversement]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une tentative de [[Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#RENVERSEMENT|renversement]].  
 Les guerriers demi-elfes sont assez nombreux : la simplicité brutale des champs de bataille exerce un grand pouvoir d’attraction sur ceux qui en ont assez de devoir réconcilier leur nature divisée. Les goûts et les talents variés des demi-elfes les incitent souvent à maîtriser un large éventail d’armes.
 
 {s:AO}**[[Hypnotiseur]].** Quand il lance des sorts d'hypnotiseur d’[[enchantement]], le personnage ajoute 1/2 niveau à son [[NLS|niveau de lanceur de sorts]], mais uniquement pour déterminer leur [[Présentation des sorts#DUREE|durée]].
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer de [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] 1/4 de fois de plus par jour.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer de [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] 1/4 de fois de plus par jour.  
 Les conflits intérieurs auxquels les inquisiteurs demi-elfes doivent faire face aiguisent leurs instincts lorsqu’il s’agit de comprendre l’esprit des autres et l’équilibre entre la vie et la mort.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
@@ -177,45 +177,45 @@ Les conflits intérieurs auxquels les inquisiteurs demi-elfes doivent faire face
 
 {s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à une manœuvre de [[renversement]] ou de [[croc-en-jambe]].
 
-{s:MR}{s:APG}**[[Magicien]].** Quand le magicien lance un sort d’[[enchantement]], il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.
+{s:MR}{s:APG}**[[Magicien]].** Quand le magicien lance un sort d’[[enchantement]], il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.  
 De nombreux demi-elfes héritent des talents magiques de leurs ancêtres et trouvent à la fois du réconfort et du respect en maîtrisant les arts profanes. Toutes les [[écoles de magie]] leur sont accessibles mais bon nombre d’entre eux s’intéressent plutôt aux sorts à la puissance explosive, à ceux qui les enveloppent d’un certain mystère ou à ceux qui les aident à manipuler le monde qui les entoure.
 
-{s:MR}**[[Magus]].** Le magus ajoute +1/4 au nombre de points de sa [[Magus#RESERVEMAGIQUE|réserve magique]].
+{s:MR}**[[Magus]].** Le magus ajoute +1/4 au nombre de points de sa [[Magus#RESERVEMAGIQUE|réserve magique]]. 
 
 {s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/3 aux [[compétences#TESTSDECOMPETENCES|tests de compétence]] qui utilisent les [[extensions de compétences occultes]].
 
-{s:MR}{s:APG}**[[Moine]].** Le moine ajoute +1/2 à ses tests d’[[Évasion]] et d’[[Acrobaties]] pour traverser une surface étroite.
+{s:MR}{s:APG}**[[Moine]].** Le moine ajoute +1/2 à ses tests d’[[Évasion]] et d’[[Acrobaties]] pour traverser une surface étroite.  
 Les demi-elfes qui parviennent à faire la paix avec leur héritage de sang-mêlé incarnent l’apaisement
 et l’illumination méditative que prône la voie du [[moine]]. Nombre d’entre eux adoptent des techniques martiales humaines et elfes et les combinent pour former de nouvelles écoles de combat redoutables.
 
 {s:AO}**[[Occultiste]].** Le personnage bénéficie d’un bonus de +1/2 aux tests d’[[Art de la magie]] effectués pour identifier les propriétés des [[Règles relatives aux objets magiques|objets magiques]] et aux tests d’[[Utilisation dObjets magiques|Utilisation d'objets magiques]] effectués pour simuler une race.
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un nouveau [[Liste des sorts de prêtres|sort d’oracle]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un nouveau [[Liste des sorts de prêtres|sort d’oracle]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.  
 Les demi-elfes ont tendance à vivre au jour le jour, à suivre les intuitions basées sur les murmures de l’air, le trajet des étoiles et les mouvements imperceptibles des foules dans les rues, voire même les voix ancestrales qui leur parlent à travers leur lignage.
 
-{s:MR}{s:APG}**[[Paladin]].** Les pouvoirs d’aura du paladin couvrent 30 centimètres de plus. Cette option n’a aucun effet tant que le paladin ne l’a pas choisie au moins 5 fois (ou un multiple de 5) : une aura de 2,70 mètres a le même effet qu’une aura de 1,50 mètre, par exemple.
+{s:MR}{s:APG}**[[Paladin]].** Les pouvoirs d’aura du paladin couvrent 30 centimètres de plus. Cette option n’a aucun effet tant que le paladin ne l’a pas choisie au moins 5 fois (ou un multiple de 5) : une aura de 2,70 mètres a le même effet qu’une aura de 1,50 mètre, par exemple.  
 Qu’ils soient dévoués à un des [[Golarion.religions et philosophies|dieux]] de leur parent [[humain]], de leur parent [[elfe]], ou à n’importe quelle autre divinité qu’ils ont choisi d’adopter, les [[paladin|paladins]] demi-elfes portent l’étendard de leur seigneur avec zèle et grâce. Les demi-elfes trouvent bien souvent au sein de ces ordres saints une paix et une camaraderie qu’ils n’ont jamais connues ailleurs.
 
 {s:MR}**[[Pistolier]].** Le pistolier ajoute +1/4 au nombre de [[Pistolier#AUDACE|points d’audace]] de sa réserve.
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/3 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne ou blesse des créatures.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/3 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne ou blesse des créatures.  
 Les demi-elfes se sentent souvent tenus à l’écart des [[Golarion.religions et philosophies|églises]] humaines ou elfiques. Pourtant, nombre d’entre eux choisissent quand même de suivre une vocation divine : celle-ci peut leur procurer un contexte bien utile pour entrer en contact avec d’autres races partageant le même culte ou simplement une connexion avec le divin, à côté de laquelle leurs incertitudes vis-à-vis des autres mortels semblent bien futiles.
 
 {s:MCA}**[[Prêtre combattant]].** Bonus de +1/3 aux dégâts et aux soins de la [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d’énergie]].
 
 {s:AO}**[[Psychiste]].** le personnage gagne 1/6 d’une nouvelle [[Psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Le [[Compagnons animaux|compagnon animal]] du rôdeur reçoit +1 rang de compétence. Si le rôdeur doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
+{s:MR}{s:APG}**[[Rôdeur]].** Le [[Compagnons animaux|compagnon animal]] du rôdeur reçoit +1 rang de compétence. Si le rôdeur doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.  
 Les demi-elfes frustrés par la société se retirent souvent dans les contrées sauvages et y développent des liens étroits avec les animaux et la nature aux changements imprévisibles.
 
-{s:APG}**[[Roublard]].** Le roublard ajoute +1/2 à ses tests de [[Bluff]] pour faire une feinte et à ses tests de [[Diplomatie]] pour rassembler des informations.
+{s:APG}**[[Roublard]].** Le roublard ajoute +1/2 à ses tests de [[Bluff]] pour faire une feinte et à ses tests de [[Diplomatie]] pour rassembler des informations.  
 De nombreux demi-elfes excellent dans l’art du roublard. Ils étudient les gens et leurs habitudes et apprennent ainsi comment profiter des fiers et des imprudents.
 
 {s:MCA}**[[Sanguin]].** Augmente les bonus du [[Sanguin#SANCTUAIRESANGUIN|sanctuaire sanguin]] de 1/4.
 
 {s:MCA}**[[Scalde]].** Augmente le nombre total de rounds de [[scalde#CHANTDERAGE|chant de rage]] quotidiens de 1.
 
-{s:MR}{s:APG}**[[Sorcière]].** Le [[Familiers|familier]] de la sorcière apprend un nouveau [[Liste des sorts de Sorcière|sort de sorcière]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît. Si la sorcière remplace son familier, le nouveau connaît aussi le sort supplémentaire.
+{s:MR}{s:APG}**[[Sorcière]].** Le [[Familiers|familier]] de la sorcière apprend un nouveau [[Liste des sorts de Sorcière|sort de sorcière]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît. Si la sorcière remplace son familier, le nouveau connaît aussi le sort supplémentaire.  
 Poussés par l’amertume ou par la soif de pouvoirs magiques toujours plus grands, les demi-elfes démontrent une aptitude aussi développée à manier les pouvoirs des sorcières que les autres formes de magie. Bon nombre d’entre eux adoptent des [[familiers]] blessés ou possédant une autre caractéristique distinctive, des créatures qui sont souvent mises à l’écart de leur société, elles aussi.
 
 {s:AO}**[[Spirite]].** le personnage octroie un rang de [[compétences|compétence]] supplémentaire à son [[Fantômes (Spirite)|fantôme]].

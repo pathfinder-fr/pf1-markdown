@@ -11,7 +11,7 @@ Categories:
 
 **Catégorie.** [[dons#doncombat|combat]]
 
-**Conditions.** [[nain]], [[Tête dure]], [[Casque bosselé]], [[BBA]]+11
+**Conditions.** [[nain]], [[Tête dure]], [[Casque bosselé]], [[BBA]]+11 
 
 **Avantages.** Quand le personnage porte un casque, il ajoute +1 à sa [[CA]] contre les confirmations de [[coup critique]]. Cet avantage se cumule avec le [[Casque bosselé]]. Quand le personnage utilise Casque bosselé pour détourner un coup critique, il peut appliquer tous les dégâts du critique au casque avant de les appliquer à sa personne. Si cela lui évite de subir le moindre dégât, tous les effets supplémentaires comme les [[dons de critique]] ou le [[poison]] sont annulés.
 

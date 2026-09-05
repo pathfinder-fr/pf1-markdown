@@ -16,14 +16,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[COMPOSANTES|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** 1 créature vivante
-**Durée** [[instantanée]]
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[COMPOSANTES|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** 1 créature vivante  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction), puis [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet au mage de faire apparaître l’image de la créature la plus abominable qui soit pour la cible en donnant corps aux pires craintes de cette dernière. La victime est la seule à voir pleinement l’*assassin imaginaire*, le mage ne percevant, lui, qu’une vague forme spectrale. La cible a droit à un jet de [[Volonté]] pour comprendre que son agresseur n’est qu’une [[hallucination]]. Si elle le rate, elle est touchée par l’[[illusion]] et doit alors réussir un jet de [[Vigueur]] sous peine de mourir de peur. Même si elle réussit ce second [[jet de sauvegarde]], le choc est tel qu’elle perd 3d6 [[PV|points de vie]].
 
 Si la cible possède la [[Télépathie (capacité)|télépathie]] ou porte un *[[casque de télépathie]]* et réussit son jet de [[Volonté]], elle peut renvoyer l’*assassin imaginaire* sur son lanceur. C’est alors ce dernier qui doit effectuer un ou deux [[jet de sauvegarde|jets de sauvegarde]] s’il ne veut pas être tué par son propre sort.
@@ -38,14 +38,14 @@ Si la cible rate son jet de [[Volonté]] mais réussit son jet de [[Vigueur]], l
 
 ((({s:sortssimilaires|assassin imaginaire}
 ## [[Ennemi subconscient]]
-**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[COMPOSANTES|V, G]]
-**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cibles** nombre indéfini de créatures, distantes de moins de 9 m (6 {s:c}) les unes des autres
-**Durée** [[instantanée]]
+**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[COMPOSANTES|V, G]]  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cibles** nombre indéfini de créatures, distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction), puis [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
----
+<hr />
 Ce sort fonctionne comme *[[assassin imaginaire]]*, si ce n’est qu’il peut affecter plus d’une créature. Les victimes sont les seules à voir les créatures imaginaires qui les attaquent, mais le lanceur de sorts peut les apercevoir sous la forme de vagues spectres d’ombre.
 
 Si une victime réussit son jet de [[Vigueur]], elle subit tout de même 3d6 points de dégâts et un [[affaiblissement temporaire]] de 1d4 points de [[Force]]. De plus, elle est [[étourdi|étourdie]] pendant 1 round.

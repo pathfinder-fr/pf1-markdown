@@ -20,7 +20,7 @@ Categories:
 
 Quand le personnage lance ce sort, il prend la forme de n’importe quelle créature de type [[type vase|vase]] de [[taille P]] ou de [[taille M]].
 
-Quelque soit la vase dont il prend la forme, le personnage voit sa vitesse de base passer à 3 m (2 c) alors qu'il obtient une vitesse d'escalade de 3 m (2 c), une vitesse de nage de 6 m (4 c), la [[perception aveugle (capacité)|perception aveugle]] à 9 m (6 c), ainsi qu'un bonus de résistance de +4 aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison.
+Quelque soit la vase dont il prend la forme, le personnage voit sa vitesse de base passer à 3 m (2 c) alors qu'il obtient une vitesse d'escalade de 3 m (2 c), une vitesse de nage de 6 m (4 c), la [[perception aveugle (capacité)|perception aveugle]] à 9 m (6 c), ainsi qu'un bonus de résistance de +4 aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison.  
 Une arme en bois ou en métal utilisée pour attaquer le personnage subit des dégâts comme s'il l'avait touchée avec son attaque de coup, sauf si le porteur de l'arme réussit un jet de [[Réflexes]].
 
 **Vase de taille P :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [[Constitution]], une attaque de coup (1d3 plus 1d3 acide) et la capacité de [[constriction (capacité)|constriction]] (1d3), mais subit un malus de -4 à sa valeur de [[Dextérité]].

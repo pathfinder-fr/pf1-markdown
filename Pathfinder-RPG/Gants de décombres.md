@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Gants de décombres|{s:MR}}
 **Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 8 000 ; **Poids** 0,5 kg
 (((Description)))
-Ces gants sont faits d’une fine toile de métal. Si une créature portant des gants de décombres touche une case de 1,5 mètre de côté de pierre ou de terre, des décombres viennent recouvrir la surface, faisant de cette case
+Ces gants sont faits d’une fine toile de métal. Si une créature portant des gants de décombres touche une case de 1,5 mètre de côté de pierre ou de terre, des décombres viennent recouvrir la surface, faisant de cette case 
 un [[terrain difficile]]. L’utilisation des gants coûte une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Le porteur peut les utiliser pour créer jusqu’à 20 cases de terrain difficile par jour.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[excavation expéditive]]* ; **Coût** 4 000 po

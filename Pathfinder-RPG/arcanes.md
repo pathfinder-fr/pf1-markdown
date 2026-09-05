@@ -8,7 +8,7 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:Menuclassessupplémentaires}
+{s:Menuclassessupplémentaires} 
 {s:um}*Maître de la magie profane et des attaques à l’arme blanche plus conventionnelles, le magus cherche un équilibre entre ces deux styles. Plus le magus monte en niveau, mieux il maîtrise les secrets profanes qui alimentent ses attaques magiques et martiales.*
 
 À partir du niveau 3, le magus obtient un arcane. Ensuite, il en gagne un nouveau tous les trois niveaux. Sauf indication contraire, le magus ne peut pas sélectionner le même arcane à plusieurs reprises. Les arcanes de magus qui affectent les sorts s’appliquent uniquement aux sorts de la liste de magus, à moins d’une indication contraire.
@@ -179,11 +179,11 @@ Le magus doit être au moins de niveau 6 et disposer d'une réserve de ki avant 
 
 {s:mca}{s:Reference|ARCANEFLAMBOYANT}
 #### Arcane flamboyant (Ext)
-Un magus acquiert les [[exploits (bretteur)|exploits]] [[exploits (bretteur)#BRAVOURE|bravoure]] et [[exploits (bretteur)#PARADEETRIPOSTEOPPORTUNE|parade et riposte opportune]] de la liste des exploits de [[bretteur]]. Le magus ne peut dépenser que des points de sa [[réserve magique]] (et non des points de panache) pour utiliser ces exploits et ceux qu’il reçoit grâce à l'arcane [[arcanes#EXPLOITARCANIQUE|exploit arcanique]]. Il ne peut pas utiliser les points de sa réserve magique pour utiliser les exploits acquis par le biais d’autres classes ou grâce à des dons. Il ne peut pas non plus récupérer les points de sa réserve magique comme le fait un bretteur avec ses points de panache. Les effets qui augmentent, réduisent ou affectent d’une façon ou d’une autre le coût en points de panache ou d’audace n’affectent pas les points de la réserve magique d’un magus qui possède cet arcane.
+Un magus acquiert les [[exploits (bretteur)|exploits]] [[exploits (bretteur)#BRAVOURE|bravoure]] et [[exploits (bretteur)#PARADEETRIPOSTEOPPORTUNE|parade et riposte opportune]] de la liste des exploits de [[bretteur]]. Le magus ne peut dépenser que des points de sa [[réserve magique]] (et non des points de panache) pour utiliser ces exploits et ceux qu’il reçoit grâce à l'arcane [[arcanes#EXPLOITARCANIQUE|exploit arcanique]]. Il ne peut pas utiliser les points de sa réserve magique pour utiliser les exploits acquis par le biais d’autres classes ou grâce à des dons. Il ne peut pas non plus récupérer les points de sa réserve magique comme le fait un bretteur avec ses points de panache. Les effets qui augmentent, réduisent ou affectent d’une façon ou d’une autre le coût en points de panache ou d’audace n’affectent pas les points de la réserve magique d’un magus qui possède cet arcane. 
 
 {s:UM}{s:Reference|ASSAUTACCELERE}
 #### Assaut accéléré (Sur)
-Le magus peut dépenser 1 point de sa [[Magus#RESERVEMAGIQUE|réserve magique]] par une [[action rapide]] pour agir plus rapidement. Ceci fonctionne comme un sort de *[[rapidité]]* mais n’affecte que le mage et dure un nombre de rounds égal au bonus d’[[Intelligence]] du magus.
+Le magus peut dépenser 1 point de sa [[Magus#RESERVEMAGIQUE|réserve magique]] par une [[action rapide]] pour agir plus rapidement. Ceci fonctionne comme un sort de *[[rapidité]]* mais n’affecte que le mage et dure un nombre de rounds égal au bonus d’[[Intelligence]] du magus. 
 
 Le magus doit être au moins de niveau 9 avant de choisir cet arcane.
 
@@ -319,7 +319,7 @@ Quand le magus améliore son arme à l’aide de sa [[réserve magique]], il peu
 
 {s:UM}{s:Reference|MAGIEACCELEREE}
 #### Magie accélérée (Sur)
-Chaque jour, le magus peut lancer un sort comme s’il était sous l’effet du don [[Incantation rapide]]. Ceci n’augmente ni son niveau, ni sa durée d’incantation. Le magus doit avoir atteint le niveau 15 avant de choisir cet arcane.
+Chaque jour, le magus peut lancer un sort comme s’il était sous l’effet du don [[Incantation rapide]]. Ceci n’augmente ni son niveau, ni sa durée d’incantation. Le magus doit avoir atteint le niveau 15 avant de choisir cet arcane.  
 
 {s:Reference|MAGIEELOIGNEE}
 #### Magie éloignée (Sur)
@@ -330,7 +330,7 @@ Chaque jour, le magus peut lancer un sort comme s’il était sous l’effet du 
 {s:UM}{s:Reference|MAGIERENFORCEE}
 #### Magie renforcée (Sur)
 Une fois par jour, le magus peut lancer un sort comme sous l’effet du don [[Extension deffet|Extension d’effet]]. Ceci
-n’augmente pas la durée d’incantation ni le niveau du sort. Le magus doit avoir atteint le niveau 6 avant de choisir cet arcane.
+n’augmente pas la durée d’incantation ni le niveau du sort. Le magus doit avoir atteint le niveau 6 avant de choisir cet arcane.  
 
 {s:UM}{s:Reference|MAGIESILENCIEUSE}
 #### Magie silencieuse (Sur)
@@ -358,7 +358,7 @@ Quand le magus utilise une [[baguettes magiques|baguette]], il calcule le [[DD]]
 
 {s:uc}{s:Reference|MAITRISEDESSCEPTRES}
 #### Maîtrise des sceptres (Sur)
-Quand le magus utilise un sceptre, il calcule le [[DD]] de tous les sorts qu’il contient en utilisant son modificateur d’Intelligence (0 au minimum) au lieu du modificateur minimum nécessaire pour lancer ce sort.
+Quand le magus utilise un sceptre, il calcule le [[DD]] de tous les sorts qu’il contient en utilisant son modificateur d’Intelligence (0 au minimum) au lieu du modificateur minimum nécessaire pour lancer ce sort.  
 
 {s:uc}{s:Reference|MANIEURDESCEPTRES}
 #### Manieur de sceptres (Sur)
@@ -368,7 +368,7 @@ Le magus utilise son modificateur d’[[Intelligence]] (0 au minimum) aux tests 
 #### Mélange des sorts (Ext)
 Quand un magus choisit cet arcane, il doit sélectionner un sort de la [[Liste des sorts densorceleursmagiciens|liste de magicien]] d’un niveau qu’il peut lancer en tant que magus. Il ajoute ce sort dans son [[Magicien#GRIMOIRE|grimoire]] et à sa liste des sorts de magus connus, avec un niveau égal à son niveau en tant que sort de mage. Il peut aussi choisir deux sorts de cette manière mais ils doivent tous deux être d’au moins un niveau de moins que le sort de magus de plus haut niveau accessible au personnage.
 
-Le magus peut choisir cet arcane à plusieurs reprises.
+Le magus peut choisir cet arcane à plusieurs reprises.  
 
 {s:Reference|ODORATARCANIQUE}
 #### Odorat arcanique (Sur)
@@ -388,7 +388,7 @@ Le magus obtient [[Perturbateur]] en don supplémentaire. Il doit avoir atteint 
 #### Piège de rôdeur (Ext)
 {s:plume}<div class="description">**Source :** Ranged Tactics Toolbox (RTT).</div>
 
-Le magus apprend un [[pièges de rôdeur|piège de rôdeur]]. Il doit être au moins de niveau 10 avant de choisir cet arcane.
+Le magus apprend un [[pièges de rôdeur|piège de rôdeur]]. Il doit être au moins de niveau 10 avant de choisir cet arcane.  
 
 {s:UM}{s:Reference|PRECISIONARCANIQUE}
 #### Précision arcanique (Sur)
@@ -431,7 +431,7 @@ Le magus peut dépenser 1 point de plus de sa [[réserve magique]] quand il se s
 #### Réserve de rayons (Sur)
 {s:plume}<div class="description">**Source :** Ranged Tactics Toolbox (RTT).</div>
 
-Par une [[action simple]], le magus peut dépenser 1 point de sa [[réserve magique]] pour charger une arme à distance d'énergie. Par une [[action libre]], lorsqu'il effectue une attaque à distance, il peut activer ce pouvoir. S’il touche sa cible, il libère une décharge qui inflige 2d6 points de dégâts d’énergie (acide, électricité, feu ou froid, à choisir au moment de dépenser les points de [[Magus#RESERVEMAGIQUE|réserve magique]] qui activent ce pouvoir).
+Par une [[action simple]], le magus peut dépenser 1 point de sa [[réserve magique]] pour charger une arme à distance d'énergie. Par une [[action libre]], lorsqu'il effectue une attaque à distance, il peut activer ce pouvoir. S’il touche sa cible, il libère une décharge qui inflige 2d6 points de dégâts d’énergie (acide, électricité, feu ou froid, à choisir au moment de dépenser les points de [[Magus#RESERVEMAGIQUE|réserve magique]] qui activent ce pouvoir). 
 
 Au niveau 6 et, par la suite, tous les trois niveaux, la quantité des dégâts infligés par l’attaque augmente de 1d6.
 

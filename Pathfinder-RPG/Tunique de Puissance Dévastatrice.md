@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:08
 {s:BDTitre|Tunique de puissance dévastatrice|{s:AE}}
 **Aura** [[Évocation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 6.000 po ; **Poids** 1 kg
 (((Description)))
-Cette tunique est cousue à l’aide de fil doré et ses manches sont ourlées d’argent. Le porteur gagne un bonus de +2 au [[DMD|Degré de Manoeuvre Défensive]] contre les manœuvres de [[manœuvres offensives#DESARMEMENT|désarmement]] et de [[manœuvres offensives#DESTRUCTION|destruction]] d’arme. Si le porteur est un [[samouraï]], il peut, deux fois par jour et par une [[action rapide]], appliquer les effets de la propriété spéciale d’arme [[tonnerre (propriété)|tonnerre]] sur un coup critique réussi contre l’adversaire de son défi.
+Cette tunique est cousue à l’aide de fil doré et ses manches sont ourlées d’argent. Le porteur gagne un bonus de +2 au [[DMD|Degré de Manoeuvre Défensive]] contre les manœuvres de [[manœuvres offensives#DESARMEMENT|désarmement]] et de [[manœuvres offensives#DESTRUCTION|destruction]] d’arme. Si le porteur est un [[samouraï]], il peut, deux fois par jour et par une [[action rapide]], appliquer les effets de la propriété spéciale d’arme [[tonnerre (propriété)|tonnerre]] sur un coup critique réussi contre l’adversaire de son défi. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Cécitésurdité|cécité/surdité]]*, *[[armure de mage]]* ; **Coût** 3.000 po
 </div>

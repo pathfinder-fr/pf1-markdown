@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}
-**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>;
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>; 
 **Niveau** [[Barde|Bard]] 1  
 **Temps d'incantation** voir texte  
 **Composantes** [[composantes|V, G]]  

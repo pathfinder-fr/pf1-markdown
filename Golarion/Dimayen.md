@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville située dans le sud du [[Qadira]], dans le [[Désert de Meraz]].
+Ville située dans le sud du [[Qadira]], dans le [[Désert de Meraz]]. 
 
 Dimayen fut par le passé un grand centre agricole pour le [[Qadira]], mais les tempêtes de sables ont eu raison de la cité qui est maintenant laissée à l'abandon. Elle ne comporte aujourd'hui plus qu'environ 5 000 habitants.

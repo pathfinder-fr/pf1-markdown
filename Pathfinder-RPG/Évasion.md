@@ -8,7 +8,7 @@ LastModified: 2020-03-25 12:27
 
 **Caractéristique associée** : [[Dextérité]]
 
-**Formation nécessaire** : non
+**Formation nécessaire** : non 
 
 **Malus d’armure** : oui
 

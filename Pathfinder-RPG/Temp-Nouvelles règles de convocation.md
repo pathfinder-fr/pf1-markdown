@@ -51,7 +51,7 @@ Jusqu'à présent les créatures naturelles convoquées par le sort de *[[Convoc
 ### Nouveaux tableaux de Convocation
 Un certain nombre d'options présentées dans ces nouvelles règles développent les types de créatures qui peuvent être convoquée avec des sorts de convocation. Quand un personnage accède à d'autres choix de convocation de monstres il sélectionne les options figurant sur les listes présentées ici. Une fois réalisés, ces choix ne peuvent plus être modifiés (sauf indication contraire ou si le MJ choisi d'accorder le choix étendu). Lorsque ces monstres alternatifs sont convoqués, ils ne possèdent pas toujours la pleine puissance typique des créatures de leur genre. La plupart ont des versions plus faibles des capacités qui sont normalement utilisable à volonté. Si une créature convoquée à partir de ces listes possèdent une capacité qui est utilisable de manière illimitées ou un certain nombre de fois par jour et nécessite un jet de sauvetage, une créature qui tente un jet de sauvetage contre la capacité en question devient immunisé contre cette capacité pendant 24 heures. Cette immunité s'applique également pour capacité possédée à toutes les autres créatures du même genre convoqué par le même lanceur de sorts.
 
-Il existe deux manières d'utiliser ces tableaux au choix du MJ :
+Il existe deux manières d'utiliser ces tableaux au choix du MJ : 
 
 **Choix restreint**
   
@@ -128,7 +128,7 @@ Les personnages ont accès à un don de **Convocation étendue** qui permet d'aj
 
 **Choix étendu**
   
-Toutes les créatures de tous ces nouveaux tableaux s'ajoutent aux tableaux de convocation traditionnels de même niveau pour tous les joueurs. De plus le MJ peut enrichir ces nouveaux tableaux des créatures de son choix de n'importe quel bestiaire en respectant la règle ci-jointe :
+Toutes les créatures de tous ces nouveaux tableaux s'ajoutent aux tableaux de convocation traditionnels de même niveau pour tous les joueurs. De plus le MJ peut enrichir ces nouveaux tableaux des créatures de son choix de n'importe quel bestiaire en respectant la règle ci-jointe : 
 
   
 **Niveau 1 :** Créature de FP  1/2 et inférieur

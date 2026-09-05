@@ -8,9 +8,9 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [[écoles de magie]] et les [[familiers]].***
-***Voir aussi les [[découvertes arcaniques]].***
-***Voir aussi la [[liste des sorts densorceleursmagiciens|liste des sorts de magicien]].***
+<div class="fright">***Voir aussi les [[écoles de magie]] et les [[familiers]].***  
+***Voir aussi les [[découvertes arcaniques]].***  
+***Voir aussi la [[liste des sorts densorceleursmagiciens|liste des sorts de magicien]].***  
 {s:PM0|magicien}**Voir les archétypes du magicien**&emsp;
 <li ID="magicien" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypemagicien}</li>
 </div>*Au-delà du voile du monde de tous les jours se cachent les mystères du pouvoir absolu. Les œuvres des êtres supérieurs aux mortels, les légendes des royaumes où vivent les dieux et les esprits, les actes créateurs à la fois merveilleux et terribles… tous ces mystères intriguent ceux qui possèdent l’ambition et les capacités nécessaires pour s’élever au-dessus du commun des mortels et atteindre le pouvoir véritable. C’est la voie des magiciens. Ces individus à l’esprit affûté recherchent, collectent et convoitent les connaissances ésotériques et se servent d’arts connus seulement d’une poignée de personnes pour réaliser des merveilles allant au-delà de la portée des simples mortels. Certains choisissent un domaine d’étude magique spécifique et deviennent des experts d’une certaine catégorie de pouvoirs, alors que d’autres optent pour la versatilité et jouissent de toute l’étendue des merveilles magiques. Dans tous les cas, l’ingéniosité et la puissance des magiciens sont évidentes : ils peuvent détruire leurs ennemis, renforcer leurs alliés et façonner le monde selon leurs désirs.*

@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Bâton de monstruosification|{s:mca}}
 **Aura** [[Transmutation]] ([[branche métamorphose|métamorphose]]) faible ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 12 000 po ; **Poids** 2 kg
 (((Description)))
-Les silhouettes monstrueuses gravées sur ce bâton taillé dans l’ivoire se métamorphosent lentement en d’autres figures monstrueuses et grandissent souvent pour occuper toujours plus d’espace sur la surface du bâton. Un [[alchimiste]] ou un autre personnage capable de créer des extraits peut verser un extrait d’*[[agrandissement]]* sur ce bâton pour en restaurer une charge ou y verser un extrait de *[[physique monstrueux I]]* pour en restaurer 3 charges.
-• *[[Agrandissement]]* (1 charge)
+Les silhouettes monstrueuses gravées sur ce bâton taillé dans l’ivoire se métamorphosent lentement en d’autres figures monstrueuses et grandissent souvent pour occuper toujours plus d’espace sur la surface du bâton. Un [[alchimiste]] ou un autre personnage capable de créer des extraits peut verser un extrait d’*[[agrandissement]]* sur ce bâton pour en restaurer une charge ou y verser un extrait de *[[physique monstrueux I]]* pour en restaurer 3 charges.  
+• *[[Agrandissement]]* (1 charge)  
 • *[[Physique monstrueux I]]* (3 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[agrandissement]]*, *[[physique monstrueux I]]*, le créateur doit être un [[alchimiste]] ; **Coût** 6 150 po

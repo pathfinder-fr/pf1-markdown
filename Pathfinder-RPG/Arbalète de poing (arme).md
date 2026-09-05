@@ -7,10 +7,10 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 100 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** 9 m (6 c) ; **Type** P ; **Spécial** —
+{s:AE}**Prix** 100 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]  
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** 9 m (6 c) ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
----
+<hr />
 Le personnage peut réarmer une arbalète de poing d’une main. Le rechargement prend une [[action de mouvement]] qui provoque des [[AO|attaques d’opportunité]]. L’arbalète de poing tire des [[carreaux darbalète (arme)|carreaux d’arbalète]] standards comme ceux qu’utilisent les arbalètes lourdes et légères.  
   
 Le personnage peut tirer avec (mais pas recharger) une arbalète de poing avec une main sans malus. Il peut tirer avec une arbalète de poing dans chaque main mais il reçoit un malus à ses [[jet dattaque|jets d’attaque]] comme s’il maniait [[Actions spéciales#COMBAT2ARMES|deux armes]] légères.

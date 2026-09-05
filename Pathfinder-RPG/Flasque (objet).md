@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 pc ; **Poids** 0,75 kg
+{s:AE}**Prix** 3 pc ; **Poids** 0,75 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette bouteille en verre a une contenance de 0,5 litre. Elle est relativement fragile et se brise si on la jette sur une créature ou sur une surface dure. Il existe des flasques en simple verre brun mais également de plus élaborées estampées des armoiries d'une famille ou d'autres représentations artistiques.

@@ -13,11 +13,11 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Chaman|Cham]] 6, [[Inquisiteur|Inq]] 6, [[Médium|Méd]] 4, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6
-**Temps d'incantation** 8 heures
-**Composantes** [[composantes|V, G, M]] (encens et toniques rares d'une valeur de 250 po)
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Chaman|Cham]] 6, [[Inquisiteur|Inq]] 6, [[Médium|Méd]] 4, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
+**Temps d'incantation** 8 heures  
+**Composantes** [[composantes|V, G, M]] (encens et toniques rares d'une valeur de 250 po)  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** [[instantanée]]
 
 Le personnage entrevoit l'avenir. *Pronostic* fonctionne comme *[[divination]]* excepté que le sort peut voir jusqu'à un an et un jour dans le futur. En raison de l'imprévisibilité accrue de l'avenir lointain, *pronostic* est bien plus cryptique que le sort *divination* ne l'est déjà.

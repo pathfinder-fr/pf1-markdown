@@ -118,7 +118,7 @@ Categories:
 </table>
 
 
-**Dés de vie.** d8.
+**Dés de vie.** d8. 
 
 ### Conditions requises
 Pour pouvoir devenir adepte démoniaque, le personnage doit satisfaire aux conditions suivantes :

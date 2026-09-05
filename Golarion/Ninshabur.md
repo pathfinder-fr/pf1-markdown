@@ -33,6 +33,6 @@ Le seul peuple véritablement issu du peuple Ninshabur sont les fantômes qui er
 Les descendants du peuple Ninshabur peuvent se trouver partout autour de la [[mer Intérieure]], les soldats prenant pour femmes des natives des régions conquises. On peut estimer que la plus grande concentration de descendants des Ninshabur se trouve au [[Qadira]], même si les [[Taldans]] ont hérité de leur peau matte. En plus de ces deux nations, on trouve encore quelques traces de sang ninshabur à [[Absalom]], en [[Andoran]], au [[Chéliax]], au [[Galt]], en [[Isger]], au [[Nex]] et en [[Osirion]].
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos du Ninshabur dans le supplément
+Vous pourrez trouver plus d'informations à propos du Ninshabur dans le supplément 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

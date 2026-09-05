@@ -178,8 +178,8 @@ Chaque prophète enragé possède un guide spirituel, un fantôme intangible qui
 
 {s:Reference|MYSTEREDUPROPHETEENRAGE}
 #### Mystère du prophète enragé
-À partir du niveau 2 et par la suite à tous les niveaux pairs, le prophète enragé apprend un nouveau sort de son [[prophète enragé#GUIDESPIRITUEL|guide spirituel]].
-Ces sorts viennent s’ajouter à ceux de la liste donnée dans la [[oracle#SORTSCONNUSDELORACLE|table :  Sorts connus de l’oracle]] . Comme les sorts appris grâce au [[mystère]] de l’[[oracle]], il est impossible de les échanger une fois arrivé à un niveau supérieur. Pour apprendre un de ces sorts auprès de son guide spirituel, le prophète enragé doit être capable de lancer des sorts d’oracle du niveau indiqué. Il considère le sort comme un sort d’oracle du niveau indiqué.
+À partir du niveau 2 et par la suite à tous les niveaux pairs, le prophète enragé apprend un nouveau sort de son [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]. 
+Ces sorts viennent s’ajouter à ceux de la liste donnée dans la [[oracle#SORTSCONNUSDELORACLE|table :  Sorts connus de l’oracle]] . Comme les sorts appris grâce au [[mystère]] de l’[[oracle]], il est impossible de les échanger une fois arrivé à un niveau supérieur. Pour apprendre un de ces sorts auprès de son guide spirituel, le prophète enragé doit être capable de lancer des sorts d’oracle du niveau indiqué. Il considère le sort comme un sort d’oracle du niveau indiqué. 
 
 Voici les sorts disponibles  :  *[[œil du mage]]* (4), *[[augure]]* (2), *[[divination]]* (4), *[[songe]]* (5), *[[orientation]]* (6), *[[main du berger]]* (3), *[[détection de linvisibilité]]* (2), *[[traversée des ombres]]* (6),  *[[communication avec les morts]]*  (3),  *[[main spectrale]]*  (2),  *[[arme spirituelle]]* (2),  *[[serviteur invisible]]*(1), *[[vision]]* (7), *[[vent de murmures]]* (2).
 

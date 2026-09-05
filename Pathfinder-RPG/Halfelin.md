@@ -40,7 +40,7 @@ Les halfelins cohabitent en bons termes avec les humains, mais, comme les socié
 
 Certains vagabonds s’associent avec eux dans l’espoir qu’une partie de leur chance mystique leur déteigne dessus. Les halfelins ne voient aucun inconvénient à encourager ce genre de croyances, non seulement chez leurs compagnons de voyage, mais aussi dans le monde entier. Beaucoup tentent de tirer parti de leur réputation de créatures chanceuses pour négocier une réduction quand ils voyagent en bateau ou avec une caravane, ou même quand ils passent une nuit dans une auberge. Ils rencontrent des succès mitigés, mais on raconte bien assez d’histoires sur la bonne fortune qui échoie à ceux qui voyagent en compagnie d’un halfelin pour faire réfléchir même les plus sceptiques. Évidemment, certaines personnes soupçonnent les halfelins de répandre délibérément ces rumeurs, juste pour obtenir des réductions.
 
-**Noms masculins.** Antal, Boram, Hyrgan, Jamir, Lem, Miro, Sumak, Tribin, Uldar, Vraxim.
+**Noms masculins.** Antal, Boram, Hyrgan, Jamir, Lem, Miro, Sumak, Tribin, Uldar, Vraxim.  
 **Noms féminins.** Anafa, Bellis, Étune, Filiu, Irlana, Marra, Pressi, Rilka, Sistra, Wyssal, Yamyra.
 
 {s:Reference|TRAITSSTANDARDS}
@@ -128,15 +128,15 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les halfelins occultes.** La croyance populaire veut que les halfelins évitent les problèmes grâce à la chance qui les caractérise mais, pour certains, la « chance halfeline » est le reflet d’un véritable talent psychique. Beaucoup transforment ce talent en une pratique plus importante pour compenser leur petite taille et deviennent particulièrement doués lorsqu’il s’agit d’influencer ou de manipuler leur entourage.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute la formule d’un nouvel [[alchimiste#EXTRAITS|extrait]] à son livre de formules. Elle doit être au moins d’un niveau de moins que la plus puissante qu’il connaît.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute la formule d’un nouvel [[alchimiste#EXTRAITS|extrait]] à son livre de formules. Elle doit être au moins d’un niveau de moins que la plus puissante qu’il connaît.  
 La curiosité naturelle des halfelins les pousse à expérimenter sans cesse de nouvelles choses et, parmi toutes les classes, c’est chez les alchimistes que cette tendance peut s’exprimer le plus librement, sous la forme de nouvelles découvertes explosives (au sens littéral) qui n’attendent que d’être dévoilées.
 
 {s:MCA}**[[Arcaniste]].** Gain de 1/6 d’une nouvelle [[Exploitations|exploitation]] d’arcaniste.
 
-{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute un bonus de +1/2 au [[Barbare#SENSDESPIEGES|sens des pièges]] ou de +1/3 au bonus du pouvoir de rage [[pouvoirs de rage#PRECISIONETONNANTE|précision étonnante]].
+{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute un bonus de +1/2 au [[Barbare#SENSDESPIEGES|sens des pièges]] ou de +1/3 au bonus du pouvoir de rage [[pouvoirs de rage#PRECISIONETONNANTE|précision étonnante]].  
 Même si les races plus grandes trouvent l’idée d’un barbare halfelin plutôt comique, rares sont ceux qui le lui diraient en face. Les barbares halfelins sont peut-être plus faibles que les autres barbares, mais la terrible fureur d’un halfelin en rage pourrait bien en surprendre plus d’un.
 
-{s:MR}{s:APG}**[[Barde]].** Le barde gagne un bonus de +1/2 aux tests de [[Bluff]] pour transmettre un message secret, un bonus de +1/2 aux tests de [[Diplomatie]] pour rassembler des informations et un bonus de +1/2 aux tests de [[Déguisement]] pour passer pour un enfant [[elfe]], [[demi-elfe]] ou [[humain]].
+{s:MR}{s:APG}**[[Barde]].** Le barde gagne un bonus de +1/2 aux tests de [[Bluff]] pour transmettre un message secret, un bonus de +1/2 aux tests de [[Diplomatie]] pour rassembler des informations et un bonus de +1/2 aux tests de [[Déguisement]] pour passer pour un enfant [[elfe]], [[demi-elfe]] ou [[humain]].  
 Les halfelins aiment chanter, danser et faire la fête ; et leurs bardes sont passés maîtres dans l’art d’amuser tout un chacun. Ils se produisent parfois dans les grandes salles et les théâtres célèbres mais on les rencontre tout aussi souvent sur les chemins où ils laissent libre cours à leur amour du voyage et amènent la joie et l’hilarité chaque jour à un nouveau public.
 
 {s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
@@ -145,35 +145,35 @@ Les halfelins aiment chanter, danser et faire la fête ; et leurs bardes sont pa
 
 {s:MCA}**[[Chasseur]].** Le [[compagnon animal]] gagne un bonus de chance de +1/4 aux [[jds|jets de sauvegarde]]. Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
 
-{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute +1/2 à son niveau effectif de classe quand il détermine les dégâts qu’il inflige lors d’une [[AO|attaque d’opportunité]] contre un ennemi qu’il a [[chevalier#DEFI|défié]].
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute +1/2 à son niveau effectif de classe quand il détermine les dégâts qu’il inflige lors d’une [[AO|attaque d’opportunité]] contre un ennemi qu’il a [[chevalier#DEFI|défié]].  
 Les halfelins sont peut-être trop petits pour monter des chevaux mais, juché sur un poney, un chien de selle ou une autre monture exotique, un chevalier halfelin pourrait bien surprendre des adversaires de plus grandes tailles en menant des soldats au combat sans la moindre peur tout en leur inspirant un comportement héroïque à l’aide de ses talents et de sa dévotion.
 
 {s:AO}**[[Cinétiste]].** Le personnage augmente de 1/6 point la capacité de la [[cinétiste#RÉSERVEINTERNE|réserve interne]] du cinétiste.
 
-{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur donne un rang de [[eidolon#Les_caractéristiques_de_base_de_leidolon_13|compétence]] de plus à son [[Conjurateur#EIDOLON|eidolon]].
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur donne un rang de [[eidolon#Les_caractéristiques_de_base_de_leidolon_13|compétence]] de plus à son [[Conjurateur#EIDOLON|eidolon]].  
 La curiosité des halfelins ne connaît pas de limite. Certains poursuivent la voie du conjurateur pour explorer les multiples formes qu’une créature magique peut prendre. Leurs eidolons sont généralement parés de couleurs vives mais peuvent adopter n’importe quelle apparence concevable par leur imagination débridée. Ils font parfois également office de montures.
 
-{s:MR}{s:APG}**[[Druide]].** Le druide gagne un bonus de chance de +1/4 aux jets de sauvegarde de son [[compagnon animal]].
+{s:MR}{s:APG}**[[Druide]].** Le druide gagne un bonus de chance de +1/4 aux jets de sauvegarde de son [[compagnon animal]].  
 Les halfelins ont plutôt tendance à apprécier les bons côtés de la civilisation mais certains druides halfelins trouvent réconfort et bonheur au sein de la nature. D’autres encore s’allient avec les animaux qui sont déjà présents dans les villes.
 
 {s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[liste des formules dalchimiste|liste des formules de l'alchimiste]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un [[ensorceleur#LIGNAGE|pouvoir de lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un [[ensorceleur#LIGNAGE|pouvoir de lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les ensorceleurs halfelins gardent généralement leurs capacités magiques secrètes jusqu’à ce qu’ils en aient besoin, afin de prendre plus facilement leurs adversaires par surprise. Ils préfèrent souvent les enchantements qui améliorent leurs talents naturels de persuasion et les évocations énormes qui font paraître leur petite taille comme un trait sans importance.
 
-{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#CROCENJAMBE|croc-en-jambe]] ou une [[Manoeuvres offensives#LUTTE|lutte]].
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#CROCENJAMBE|croc-en-jambe]] ou une [[Manoeuvres offensives#LUTTE|lutte]].  
 Les halfelins sont généralement moins bagarreurs que les autres races, mais cela ne les empêche pas de comprendre et d’apprécier l’importance des combattants entraînés capables de défendre leurs frères.
 
 {s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 le nombre d’[[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] qu’il peut utiliser chaque jour.
 
-{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer son [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] le plus récent 1/4 de fois de plus par jour.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer son [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] le plus récent 1/4 de fois de plus par jour.  
 Grâce à leur aptitude à se fondre dans le décor et à écouter sans être remarqués, les halfelins parviennent facilement à obtenir des informations secrètes. Combiné avec leur curiosité naturelle, ce talent fait d’eux de parfaits inquisiteurs, tout spécialement lorsqu’il s’agit d’enquêter au sein des autres races.
 
 {s:cs}{s:UI}**[[Justicier]].** Gagne 1/6 d'un nouveau [[Justicier#TALENTSOCIAL|talent social]].
 
 {s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à une manoeuvre de [[renversement]] ou de [[lutte]].
 
-{s:MR}{s:APG}**[[Magicien]].** Le magicien ajoute +1/2 à son niveau de classe effectif quand il détermine l’armure naturelle, l’Intelligence et les capacités spéciales de son [[familier]].
+{s:MR}{s:APG}**[[Magicien]].** Le magicien ajoute +1/2 à son niveau de classe effectif quand il détermine l’armure naturelle, l’Intelligence et les capacités spéciales de son [[familier]].  
 Les magiciens halfelins cherchent souvent à percer les secrets de la magie pour deux raisons : leur curiosité naturelle et leur désir de s’élever au-dessus de leur taille physique et de forcer les autres races à les prendre en considération. C’est ainsi qu’ils ont tendance à préférer les sorts très visuels et les démonstrations de pouvoir évidentes.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
@@ -182,37 +182,37 @@ Les magiciens halfelins cherchent souvent à percer les secrets de la magie pour
 
 {s:AO}**[[Médium]].** Le personnage augmente de 1/3 point le bonus dont bénéficie le médium grâce à son [[médium#ESPRIT|aubaine de séance médiumnique]], cela n'augmente pas le bonus des membre du groupe dans [[médium#SÉANCEMÉDIUMNIQUEDEGROUPE|les séances de groupes]].
 
-{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 au [[DMD]] pour résister à une [[Manoeuvres offensives#LUTTE|lutte]] et a droit à 1/2 [[Moine#COUPETOURDISSANT|attaque étourdissante]] de plus par jour.
+{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 au [[DMD]] pour résister à une [[Manoeuvres offensives#LUTTE|lutte]] et a droit à 1/2 [[Moine#COUPETOURDISSANT|attaque étourdissante]] de plus par jour.  
 De nombreux halfelins désirent la vie simple faite de dévotion et de dévouement que constitue la voie du moine. Ces individus au comportement calme, apparemment inoffensifs et toujours prêts à entreprendre de durs labeurs, se fondent facilement dans les communautés halfelins. De nombreux pillards se sont rendus compte trop tard de leur erreur après avoir attaqué un halfelin désarmé.
 
 {s:AO}**[[Occultiste]].** Le personnage ajoute 1/2 point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] par jour.
 
-{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau effectif quand il détermine les effets de son pouvoir de [[oracle#MALEDICTIONDELORACLE|malédiction]].
+{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau effectif quand il détermine les effets de son pouvoir de [[oracle#MALEDICTIONDELORACLE|malédiction]].  
 Les oracles sont plutôt rares au sein de la plupart des races, mais on les rencontre en plus grand nombre dans les endroits où les halfelins sont opprimés ou réduits en esclavage. Ils assurent alors le rôle de centres spirituels secrets des communautés où les cultes et les rassemblements sont interdits. Les oracles halfelins vénèrent souvent les esprits de la terre, de la nature ou même les héros du passé.
 
-{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 pv à son pouvoir d’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 pv à son pouvoir d’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).  
 Vu la grande importance que les halfelins accordent à la communauté, au foyer et à la maison, nombre d’entre eux désirent devenir paladins. Les ennemis qui ne les prennent pas au sérieux apprennent bien vite qu’il s’agit d’une erreur lorsque ces robustes guerriers saints font s’abattre la fureur des cieux sur ceux qui nourrissent de sombres projets.
 
-{s:MR}**[[Pistolier]].** Le pistolier rajoute un bonus d’esquive +1/4 à la [[CA]] au bonus qu’il possède déjà grâce au pouvoir [[Pistolier#DÉROBADE|dérobade]] (avec un maximum de +2) ou un bonus de 1/4 à la [[CA]] quand il utilise l'exploit [[exploits#ESQUIVEDUPISTOLIER|esquive du pistolier]].
+{s:MR}**[[Pistolier]].** Le pistolier rajoute un bonus d’esquive +1/4 à la [[CA]] au bonus qu’il possède déjà grâce au pouvoir [[Pistolier#DÉROBADE|dérobade]] (avec un maximum de +2) ou un bonus de 1/4 à la [[CA]] quand il utilise l'exploit [[exploits#ESQUIVEDUPISTOLIER|esquive du pistolier]]. 
 
-{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.  
 Les halfelins ont une foi inébranlable les uns envers les autres et cette dévotion s’étend à leurs [[Golarion.religions et philosophies|dieux]]. Leur bonne humeur, leur curiosité et leur capacité à se fondre facilement dans de nouvelles sociétés en font d’excellents missionnaires.
 
 {s:MCA}**[[Prêtre combattant]].** Ajoute 1/4 au niveau effectif du prêtre combattant quand il détermine les dégâts de son [[Prêtre combattant#ARMESACREE|arme sacrée]].
 
 {s:AO}**[[Psychiste]].** Le personnage considère son modificateur de [[Charisme]] comme supérieur d’1/3 point lorsqu’il s’agit de déterminer le nombre de rounds quotidiens pendant lesquels il peut utiliser ses [[psychiste#DISCIPLINEPSYCHIQUE|pouvoirs de discipline]].
 
-{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus d’esquive de +1/4 à la [[CA]] contre ses [[Rôdeur#ENNEMIJURE|ennemis jurés]].
+{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus d’esquive de +1/4 à la [[CA]] contre ses [[Rôdeur#ENNEMIJURE|ennemis jurés]].  
 Les halfelins n’ont peut-être pas la réputation d’être de grands chasseurs, mais c’est seulement parce que ceux qui sont incapables de se défaire de leurs préjugés n’ont jamais vraiment pris leur talent en considération. Les rôdeurs halfelins excellent dans l’art d’abattre des proies de toutes tailles, de se cacher dans les régions sauvages aussi facilement que leurs cousins se fondent dans le décor urbain et de collaborer avec leurs compagnons animaux (qui fait parfois aussi office de monture) en tirant parti de leur sens de la tactique.
 
-{s:MR}{s:APG}**[[Roublard]].** Le roublard choisit une arme dans la liste qui suit : [[Dague (arme)|dague]], [[Fronde (arme)|fronde]] ou toute arme comportant la mention « halfelin » dans son nom. Il ajoute un bonus de +1/2 aux jets de confirmation de [[Actions simples#COUPCRITIQUE|coup critique]] avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
+{s:MR}{s:APG}**[[Roublard]].** Le roublard choisit une arme dans la liste qui suit : [[Dague (arme)|dague]], [[Fronde (arme)|fronde]] ou toute arme comportant la mention « halfelin » dans son nom. Il ajoute un bonus de +1/2 aux jets de confirmation de [[Actions simples#COUPCRITIQUE|coup critique]] avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].  
 Les roublards correspondent au stéréotype de l’aventurier halfelin qui mène une vie de joyeux conteur, de cambrioleur rusé et d’audacieux bandit de grand chemin. Avec leurs pieds légers et leurs mains agiles, les halfelins font naturellement d’excellents voleurs et pickpockets, un fait que leurs détracteurs aiment à souligner.
 
 {s:MCA}**[[Sanguin]].** Gain d’un bonus d’esquive de +1/4 à la [[CA]] lors d’une [[Sanguin#RAGESANGUINE|rage sanguine]] contre des créatures d’au moins une catégorie de [[taille]] de plus que le sanguin.
 
 {s:MCA}**[[Scalde]].** Le scalde choisit une arme dans la liste suivante : [[Dague (arme)|dague]], [[Fronde (arme)|fronde]] ou toute arme comportant la mention « halfelin » dans son nom. Il gagne un bonus de +1/2 sur les jets de confirmation de [[coup critique]] avec cette arme, avec un maximum de +4. Ce bonus ne se cumule pas avec [[Don pour les critiques]] et autres effets similaires.
 
-{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute +1/4 à son niveau de lanceur de sorts effectif quand elle détermine les effets des sorts que lui accorde son [[Sorcière#SORTSDEPROTECTEUR|protecteur]].
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute +1/4 à son niveau de lanceur de sorts effectif quand elle détermine les effets des sorts que lui accorde son [[Sorcière#SORTSDEPROTECTEUR|protecteur]].  
 Les halfelins ont la réputation d’être de grands naïfs prêts à tout gober, mais ils collectionnent aussi les secrets et, chez certains, cette tendance se développe en une vocation de sorcière. Ils deviennent alors sages-femmes, herboristes ou érudits fous en quête de savoir.
 
 {s:AO}**[[Spirite]].** Le personnage ajoute 1/4 au nombre de rounds pendant lesquels le [[Fantômes (Spirite)#FORMEDEMANIFESTATIONCOMPLETE|fantôme intangible]] peut sortir de la [[Spirite#LAISSEETHEREE|ligne de mire et d’effet du spirite]] avant qu’il ne soit renvoyé vers le plan Éthéré.

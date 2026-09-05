@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Couronne verte|{s:MR}}
 **Aura** [[Invocation]] ([[branche guérison|guérison]]), [[école divination|Divination]] et [[Abjuration]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1,5 kg
 (((Description)))
-<u>***Contenu issu d'un supplément 3.5***</u>
+<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce fin bandeau semble être confectionné à partir de vignes vivantes bleues et vertes dotées de minuscules feuilles. Clairement créées par des mains [[elfe|elfiques]], les vignes se croisent et se décroisent en formant continuellement de nouveaux motifs. Au printemps, des fleurs cristallines éclosent sur la couronne puis commencent à faner, sans jamais perdre leur beauté d’origine (les monarques elfes ont pour tradition d’offrir ces fleurs aux citoyens méritants).
 
 Les plus anciennes légendes du Royaume des elfes semblent indiquer que leurs rois ne portaient pas la couronne Verte, mais seuls les restes fragmentaires de contes qui remontent à la préhistoire mentionnent ce fait. De mémoire d’elfe, elle a toujours fait partie des joyaux de la royauté. La couronne est un objet vivant qui croît en fonction des désirs de son porteur. Lors des siècles de guerre, des épines se mettent peu à peu à pousser et elle prend l’aspect d’un heaume ; en temps de paix, elle pousse pour adopter une forme fragile et harmonieuse. Le porteur peut utiliser *[[détection du poison]]*, *[[guérison suprême]]*, *[[lumière]]*, ou *[[annulation denchantement|annulation d’enchantement]]* à volonté et par une [[action simple]]. Une fois par jour, il peut utiliser *[[festin des héros]]* et *[[résurrection]]*.

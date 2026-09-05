@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 5 po (en étain ou en bois), 25 po (en os ou en écaille de tortue), 300 po (en ivoire ou en métal précieux) ; **Poids** — (en étain ou en bois), — (en os ou en écaille de tortue), — (en ivoire ou en métal précieux)
+{s:MCA}**Prix** 5 po (en étain ou en bois), 25 po (en os ou en écaille de tortue), 300 po (en ivoire ou en métal précieux) ; **Poids** — (en étain ou en bois), — (en os ou en écaille de tortue), — (en ivoire ou en métal précieux)  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 Le couvercle articulé de cette toute petite boîte ornée forme un sceau étanche quand il est fermé. La boîte peut contenir diverses prises de tabac, des poudres, du tabac et d'autres substances similaires. Elle peut être faite dans n'importe quel matériau, du bois à l'ivoire en passant par les métaux précieux enchâssés de gemmes.

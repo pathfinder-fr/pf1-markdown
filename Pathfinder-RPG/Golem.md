@@ -53,9 +53,9 @@ Ils se distinguent des autres [[type créature artificielle|créatures artificie
 Les golems sont dénués d’intelligence et ne font donc rien sans un ordre de leur créateur. Ils suivent les instructions à la lettre et sont incapables d’élaborer des stratégies ou des tactiques complexes. Pour que le créateur puisse donner des ordres à un golem, ce dernier doit se trouver à moins de 18 m (12 {s:c}) de lui et pouvoir le voir et l’entendre. Un golem qui ne reçoit pas de nouvel ordre suit la dernière instruction qu’il a reçue du mieux qu’il peut (cependant, il riposte s’il est attaqué). Le créateur peut donner au golem un ordre simple à appliquer en son absence, ou il peut lui demander de suivre les ordres d’un autre individu, mais il peut toujours reprendre le contrôle en lui ordonnant de ne plus écouter que ses instructions.
 
 #### Construire un golem
-Le coût de création d’un golem inclut le prix du corps physique ainsi que celui des matériaux et des composantes de sorts nécessaires à sa fabrication. Les matériaux requis et le coût total sont indiqués dans la description des golems.
+Le coût de création d’un golem inclut le prix du corps physique ainsi que celui des matériaux et des composantes de sorts nécessaires à sa fabrication. Les matériaux requis et le coût total sont indiqués dans la description des golems. 
 
-*Note.* Le prix de vente d’un golem possédant plus de [[DV|dés de vie]] que les golems typiques présentés dans les descriptions augmente de 5 000 po par [[DV]] supplémentaire, avec un accroissement supplémentaire de 50 000 po si le golem passe à une catégorie de taille supérieure. Dans le cas des golems possédant l’archétype simple « [[archétypes simples#CREATUREEVOLUEE|évolué]] », il faut majorer le prix de 15 000 po.
+*Note.* Le prix de vente d’un golem possédant plus de [[DV|dés de vie]] que les golems typiques présentés dans les descriptions augmente de 5 000 po par [[DV]] supplémentaire, avec un accroissement supplémentaire de 50 000 po si le golem passe à une catégorie de taille supérieure. Dans le cas des golems possédant l’archétype simple « [[archétypes simples#CREATUREEVOLUEE|évolué]] », il faut majorer le prix de 15 000 po. 
 
 
 ### Gardes animés
@@ -75,7 +75,7 @@ Si on le lui ordonne, un garde animé intercepte les attaques qui visent son ma�
 de l’amulette reçoit un malus de –2 lorsque le garde animé est adjacent à son maître.
 
 #### Guérison accélérée (Ext).
-Le garde animé dispose d’une capacité de [[guérison accélérée]] de 5 points.
+Le garde animé dispose d’une capacité de [[guérison accélérée]] de 5 points. 
 
 #### Localisation du maître (Sur).
 Tant que le garde animé et son amulette se trouvent sur le même [[plans|plan]], il peut localiser le porteur de l’amulette (ou juste l’amulette, si le porteur la retire après avoir appelé le garde animé).

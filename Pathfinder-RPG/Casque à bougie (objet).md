@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 2 kg
+{s:AE}**Prix** 2 po ; **Poids** 2 kg  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cet objet est un casque surmonté d'une petite pointe courte sur laquelle on place une [[Bougie (objet)|bougie]], ce qui laisse les mains libres pour effectuer d'autres tâches.

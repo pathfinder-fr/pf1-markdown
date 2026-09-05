@@ -43,14 +43,14 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>*Des chaînes et des objets perforants torturent la chair de cet être exsangue. Son visage et sa bouche portent les marques de souffrance les plus inquiétantes.*
 
 
-Chaque kyton se considère comme une sorte d’artiste, couchant encore et encore ses visions avant-gardistes sur différents supports : la chair, les esprits, l’obscurité et d’autres matières naturelles et délicates.
-Mais pour chaque chef-d’oeuvre, d’innombrables tentatives échouent. Les sacristains sont sans doute l’un des échecs les plus utiles des kytons.
+Chaque kyton se considère comme une sorte d’artiste, couchant encore et encore ses visions avant-gardistes sur différents supports : la chair, les esprits, l’obscurité et d’autres matières naturelles et délicates. 
+Mais pour chaque chef-d’oeuvre, d’innombrables tentatives échouent. Les sacristains sont sans doute l’un des échecs les plus utiles des kytons. 
 
-Nés de lambeaux de chair imparfaite, de chaînes tordues et d’esprits meurtris, les sacristains sont définitivement liés aux chirurgiens-sculpteurs kytons qui les ont créés. Ils n’ont aucune volonté propre et leur esprit est formaté pour servir, ce qui fait d’eux des serviteurs extrêmement loyaux.
+Nés de lambeaux de chair imparfaite, de chaînes tordues et d’esprits meurtris, les sacristains sont définitivement liés aux chirurgiens-sculpteurs kytons qui les ont créés. Ils n’ont aucune volonté propre et leur esprit est formaté pour servir, ce qui fait d’eux des serviteurs extrêmement loyaux. 
 
-Plus que de simples automates, ils forment une caste d’esclaves redoutables créés pour prendre un plaisir extatique à servir les membres de leur race. À l’intérieur de leur bouche est fixé un portail miniature et permanent menant au plan de l’Ombre. Les effets de ce portail sont réduits mais il ne cesse de hurler la musique des royaumes kytons, gouvernés par une torture noire et des plaisirs inavouables.
+Plus que de simples automates, ils forment une caste d’esclaves redoutables créés pour prendre un plaisir extatique à servir les membres de leur race. À l’intérieur de leur bouche est fixé un portail miniature et permanent menant au plan de l’Ombre. Les effets de ce portail sont réduits mais il ne cesse de hurler la musique des royaumes kytons, gouvernés par une torture noire et des plaisirs inavouables. 
 
-Lorsqu’il se sent menacé, le sacristain ouvre grand la bouche pour séduire ses adversaires du chant collectif des siens. Sans ce pouvoir, ces brutes seraient bien incapables d’y parvenir.
+Lorsqu’il se sent menacé, le sacristain ouvre grand la bouche pour séduire ses adversaires du chant collectif des siens. Sans ce pouvoir, ces brutes seraient bien incapables d’y parvenir. 
 
 L’aspect des sacristains peut varier mais ils ont toujours l’apparence d’humanoïdes torturés et mutilés aux caractéristiques physiques redondantes ou absentes. Ils mesurent entre 1,80 et 2,40 mètres et pèsent entre 40 et 80 kilogrammes.
 </div></td></tr></table>

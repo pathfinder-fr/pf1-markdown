@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}**Prix** 10 po ; **Poids** 5 kg
+{s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}**Prix** 10 po ; **Poids** 5 kg  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Ce matériel spécialisé est adapté en fonction du type d’animal à dresser. Le harnachement donne un bonus de +2 aux tests de [[Dressage]] vis-à-vis de l’animal qui le porte.

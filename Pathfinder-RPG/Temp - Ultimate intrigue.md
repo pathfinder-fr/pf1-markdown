@@ -31,13 +31,13 @@ Apparaissent alors une page sur lequel figure deux noms. Tu ne touches pas à "p
 
 Tu travailles ensuite dans l'encadré principal.
 
-1. Tu y copies colles le texte que tu veux traduire,
+1. Tu y copies colles le texte que tu veux traduire, 
 2. Tu traduis,
 3. Tu mets en page (tu peux ouvrir une autre page d'un archétype pour voir à quoi ressemble la mise en page. Pour éditer une page existante, tu as sur la page un symbole de crayon au dessus de l'affichage et si tu passes dessus, il te propose "edit the page". Si tu cliques, tu verras le code).
 4. tu crées ensuite les liens et tu places les snippet (on en reparlera)
 5. Tu places les méta informations et renseigne les catégories
 
-Conseil :
+Conseil : 
 - N'hésites pas à sauvegarder régulièrement à chaque étape ta page lors de ton travail. Tu as un bouton save en haut à droite quand tu édites.
 - Tu peux poker FaustMe ou moi sous discord ou bien subsidiairement Dalvyn par exemple
 - N'utilises pas l'onglet preview

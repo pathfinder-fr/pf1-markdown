@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:10
 {s:BDTitre|Chemise enflammée|{s:AE}}
 **Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 8.000 po ; **Poids** 0,5 kg
 (((Description)))
-À chaque fois que le porteur est en situation de [[manœuvres offensives#LUTTE|lutte]] (que ce soit en attaque ou en défense), la chemise prend feu et inflige 1d6+10 points de dégâts de feu chaque [[round]] à son adversaire. Les flammes ne brûlent pas le porteur et persistent pendant 1 [[round]] (elles continuent de brûler l’adversaire du porteur si ce dernier est toujours en situation de lutte après un [[round]]). La chemise prend feu pendant 10 [[round|rounds]] par jour maximum. Ces [[round|rounds]] ne sont pas obligatoirement consécutifs.
+À chaque fois que le porteur est en situation de [[manœuvres offensives#LUTTE|lutte]] (que ce soit en attaque ou en défense), la chemise prend feu et inflige 1d6+10 points de dégâts de feu chaque [[round]] à son adversaire. Les flammes ne brûlent pas le porteur et persistent pendant 1 [[round]] (elles continuent de brûler l’adversaire du porteur si ce dernier est toujours en situation de lutte après un [[round]]). La chemise prend feu pendant 10 [[round|rounds]] par jour maximum. Ces [[round|rounds]] ne sont pas obligatoirement consécutifs. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bouclier de feu]]* ; **Coût** 4.000 po
 </div>

@@ -8,7 +8,7 @@ LastModified: 2024-06-03 17:13
 {s:BDTitre|Chemise de liberté|{s:AE}}
 **Aura** [[Abjuration]] et [[Transmutation]] modérées ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 10.000 po ; **Poids** —
 (((Description)))
-Cette chemise ample, parfois plissée, est taillée de façon à ne pas gêner les mouvements. Une fois par jour et sur commande, le porteur peut bénéficier des avantages d’un sort de *[[liberté de mouvement]]* pendant 10 minutes.
+Cette chemise ample, parfois plissée, est taillée de façon à ne pas gêner les mouvements. Une fois par jour et sur commande, le porteur peut bénéficier des avantages d’un sort de *[[liberté de mouvement]]* pendant 10 minutes. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Grâce féline]]*, *[[liberté de mouvement]]* ; **Coût** 5.000 po
 </div>

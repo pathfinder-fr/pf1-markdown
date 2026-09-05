@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}**Prix** 50 po ; **Poids** 1,5 kg
+{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}**Prix** 50 po ; **Poids** 1,5 kg  
 <span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
----
+<hr />
 Cet encensoir béni contient jusqu’à 10 bâtonnets d’encens et brûle à raison de 1 bâtonnet par heure. Si on ajoute un [[Bâton fumigène (objet)|bâton fumigène]] à l’encens alors qu’il est en train de brûler, les créatures de sous-type [[sous-type Mal|Mal]] sont [[ébloui|éblouies]] tant qu’elles restent dans la zone de fumée produite.

@@ -8,7 +8,7 @@ LastModified: 2024-05-31 23:06
 {s:BDTitre|Bottes d’enracinement|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 8 000 po ; **Poids** 1 kg
 (((Description)))
-Plus le porteur de ces bottes reste longtemps au même endroit (sur la terre ferme) et plus il sera difficile de l’en déloger. Il gagne un bonus de circonstance cumulatif de +1 au [[DMD]] pour chaque [[round]] pendant lequel il reste dans la même case (+10 maximum).
+Plus le porteur de ces bottes reste longtemps au même endroit (sur la terre ferme) et plus il sera difficile de l’en déloger. Il gagne un bonus de circonstance cumulatif de +1 au [[DMD]] pour chaque [[round]] pendant lequel il reste dans la même case (+10 maximum). 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[corps élémentaire I]]* ; **Coût** 4 000 po
 </div>

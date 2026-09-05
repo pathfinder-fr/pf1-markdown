@@ -14,7 +14,7 @@ Categories:
 
 *Le personnage est entraîné à créer un type spécifique d’objets (comme les armures ou les armes).*
 
-Comme [[Connaissances]], [[Profession]] ou [[Représentation]], la compétence d’Artisanat regroupe en fait plusieurs compétences distinctes. Chaque personnage peut posséder plusieurs compétences d’Artisanat et investir des points de compétences séparément dans chacune d’elles. Les compétences d’Artisanat les plus courantes sont les suivantes :
+Comme [[Connaissances]], [[Profession]] ou [[Représentation]], la compétence d’Artisanat regroupe en fait plusieurs compétences distinctes. Chaque personnage peut posséder plusieurs compétences d’Artisanat et investir des points de compétences séparément dans chacune d’elles. Les compétences d’Artisanat les plus courantes sont les suivantes : 
 
 alchimie, arcs, armes, armures, bijoux, calligraphie, constructions en bois (ou menuiserie), constructions en pierre, engins de siège, étoffes, joaillerie, livres, mécanique (ou mécanismes à engrenages), navires, paniers, peintures, pièges, poteries, sculptures, serrures, souliers, travail du cuir, travail de la forge (ou ferronnerie), travail du verre et vêtements.
 

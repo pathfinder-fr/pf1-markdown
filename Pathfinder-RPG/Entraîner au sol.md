@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Int]] 13, [[Expertise du combat]], [[Science du croc-en-jambe]]
+**Conditions.** [[Int]] 13, [[Expertise du combat]], [[Science du croc-en-jambe]] 
 
 **Avantage.** Quand un adversaire arrive à faire tomber le personnage, ce dernier peut lui faire un [[croc-en-jambe]] par une [[action immédiate]].
 

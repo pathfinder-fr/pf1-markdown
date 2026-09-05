@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:28
 {s:BDTitre|Couronne de houx|{s:AE}}
 **Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 5.700 po ; **Poids** 0,5 kg
 (((Description)))
-Cette couronne est tissée à l’aide de houx magiquement préservé, avec ses feuilles vert profond et ses baies rouges et perpétuellement brillantes. Le porteur peut créer des baies nourricières une fois par jour comme s’il lançait le sort du même nom. Tous les effets créés par ses soins qui affectent les plantes, y compris les pouvoirs du [[domaine de la Flore]], bénéficient d’un bonus de +1 au [[NLS|niveau de lanceur de sorts]] et au [[DD]] du [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]].
+Cette couronne est tissée à l’aide de houx magiquement préservé, avec ses feuilles vert profond et ses baies rouges et perpétuellement brillantes. Le porteur peut créer des baies nourricières une fois par jour comme s’il lançait le sort du même nom. Tous les effets créés par ses soins qui affectent les plantes, y compris les pouvoirs du [[domaine de la Flore]], bénéficient d’un bonus de +1 au [[NLS|niveau de lanceur de sorts]] et au [[DD]] du [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]]. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[baie nourricière]]*, *[[croissance végétale]]* ; **Coût** 2.580 po
 </div>

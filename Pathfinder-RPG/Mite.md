@@ -54,7 +54,7 @@ Categories:
 Les mites, qui descendent de fées plus petites qu’eux, figurent
 parmi les créatures les plus pitoyables et les plus lâches qui habitent
 l’obscurité. Ils sont si horriblement laids que même les gobelins
-se moquent de leur apparence.
+se moquent de leur apparence. 
 
 La plupart des mites sont blessés
 par ces moqueries et les ruminent pendant des semaines, des
@@ -68,14 +68,14 @@ Les mites étaient autrefois plus proches de l’étrange monde
 des fées mais ils sont devenus plus grands et plus trapus au fil des
 générations passées sur le plan Matériel. Malgré tout, leur petite
 stature les place encore au bas de l’échelle alimentaire des grottes
-dans lesquelles ils vivent.
+dans lesquelles ils vivent. 
 
 Leurs ennemis traditionnels sont les
 nains et les gnomes, et plus particulièrement les [[Svirfneblin|svirfneblins]] qui
 occupent les cavernes souterraines très loin sous la surface. Le seul
 élément qui joue en leur faveur lors des combats est leur capacité
 naturelle à communiquer de manière empathique avec les vermines
-dénuées d’intelligence.
+dénuées d’intelligence. 
 
 Les mites adorent tout particulièrement les
 araignées, les mille-pattes et les pêcheurs des grottes. Les colonies
@@ -87,7 +87,7 @@ permettaient de manipuler les objets magiques, la chance ou les objets
 mécaniques comme leurs sinistres cousins gremlins, mais ils peuvent
 encore accomplir quelques petits tours magiques grâce à leur capacité
 de prestidigitation, des tours qu’ils emploient souvent pour ennuyer
-leurs ennemis.
+leurs ennemis. 
 
 Lorsqu’un mite est confronté à un ennemi dangereux,
 il utilise sa capacité d’[[anathème]] pour l’affaiblir (le mite ouvrent grand

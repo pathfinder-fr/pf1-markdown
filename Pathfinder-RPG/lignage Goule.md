@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:MenuLignages}
-{s:cm}*Le lien entre le personnage et les morts-vivants affamés façonne sa magie.*
+{s:cm}*Le lien entre le personnage et les morts-vivants affamés façonne sa magie.* 
 
-**Compétence de classe.** [[Discrétion]]
+**Compétence de classe.** [[Discrétion]] 
 
 **Sorts supplémentaires.** *[[rayon affaiblissant]]* (niveau 3), *[[festin de cendres]]* (niveau 5), *[[baiser du vampire]]* (niveau 7), *[[terreur]]* (niveau 9), *[[terre affamée]]* (niveau 11), *[[glissement de terrain]]* (niveau 13), *[[sort Contrôle des morts-vivants|contrôle des morts-vivants]]* (niveau 15), *[[aura maudite]]* (niveau 17), *[[plainte doutre-tombe|plainte d'outre-tombe]]* (niveau 19)
 

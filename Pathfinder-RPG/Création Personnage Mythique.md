@@ -17,7 +17,7 @@ Si votre personnage accède au [[pouvoir mythique]] au cours d’un des volets d
 
 Si le [[pouvoir mythique]] est le thème central de toute la campagne, la source du pouvoir de chaque PJ peut être différente. Au cours d’une campagne de ce type, vous devriez discuter avec votre MJ pour déterminer la source de votre [[pouvoir mythique]]. Ce pouvoir peut provenir d’un contact avec un artefact antique ou du parrainage obtenu auprès d’une divinité. Le MJ peut exiger de ses PJ qu’ils partagent certains aspects de leur pouvoir (comme sa source) afin de leur donner une raison d’œuvrer ensemble ou il peut les rassembler pour suivre un destin commun et de grande envergure, une assemblée d’éminents héros qui seront amenés à accomplir des hauts-faits véritablement légendaires.
 
-Quelle que soit l’option choisie, il y aura un moment au cours de la campagne où votre personnage accédera au [[pouvoir mythique]] (ou lorsque celui-ci se manifestera, dans le cas d’un [[pouvoir mythique]] latent présent chez un personnage depuis sa naissance). On appelle [[ascension]] cet instant crucial de l’histoire. En fonction du style de la campagne, cet événement peut se dérouler dès le début de l’histoire ou bien plus tard au cours de la carrière de votre personnage, en jouant l’un des volets d’une intrigue plus vaste. Dès que votre personnage a connu l’[[ascension]], il devient mythique. Il acquiert une [[voie]] et diverses aptitudes mythiques.
+Quelle que soit l’option choisie, il y aura un moment au cours de la campagne où votre personnage accédera au [[pouvoir mythique]] (ou lorsque celui-ci se manifestera, dans le cas d’un [[pouvoir mythique]] latent présent chez un personnage depuis sa naissance). On appelle [[ascension]] cet instant crucial de l’histoire. En fonction du style de la campagne, cet événement peut se dérouler dès le début de l’histoire ou bien plus tard au cours de la carrière de votre personnage, en jouant l’un des volets d’une intrigue plus vaste. Dès que votre personnage a connu l’[[ascension]], il devient mythique. Il acquiert une [[voie]] et diverses aptitudes mythiques. 
 
 {s:Reference|ASCENSIONMYTHIQUE}
 #### Ascension mythique
@@ -33,7 +33,7 @@ Le MJ est libre d’imaginer n’importe quel type d’événement pour prépare
 #### Choisir une voie
 Une fois que votre personnage est en possession du [[pouvoir mythique]], il doit choisir une [[voie]] mythique qui est très similaire à une classe supplémentaire. Cette [[voie]] détermine la majorité des aptitudes mythiques que possède votre personnage mais au lieu de gagner des niveaux dans une [[voie]] mythique, le personnage gagne des grades qui lui confèrent des aptitudes et des bonus supplémentaires. L’obtention d’un [[grade]] au sein d’une [[voie]] ne se substitue pas au gain d’expérience et aux niveaux du personnage.
 
-Celui-ci reçoit toujours des points d’expérience après avoir surmonté des épreuves, mais ces points servent uniquement à augmenter ses niveaux de classe. Un personnage obtient des [[grades]] mythiques supplémentaires en accomplissant un certain nombre d’épreuves.
+Celui-ci reçoit toujours des points d’expérience après avoir surmonté des épreuves, mais ces points servent uniquement à augmenter ses niveaux de classe. Un personnage obtient des [[grades]] mythiques supplémentaires en accomplissant un certain nombre d’épreuves. 
 
 Chaque [[voie]] confère plusieurs aptitudes particulières. De plus, tous les personnages mythiques possèdent plusieurs aptitudes mythiques identiques. Dès que votre personnage mythique atteint un nouveau [[grade]], vous devez sélectionner l’ensemble des nouveaux pouvoirs que lui confère ce [[grade]].
 
@@ -109,9 +109,9 @@ Chaque PJ mythique gagne plusieurs aptitudes de base partagées par tous les per
 </table>
 
 
-{s:Reference|ValeurCaracMythique}
+{s:Reference|ValeurCaracMythique} 
 #### Valeur de caractéristique
-En atteignant le 2ème [[grade]] mythique, une valeur de caractéristique de votre choix augmente définitivement de 2 points. Aux grades 4, 6, 8 et 10, vous renouvelez cette opération qui peut être appliquée sur une même caractéristique ou sur une caractéristique différente.
+En atteignant le 2ème [[grade]] mythique, une valeur de caractéristique de votre choix augmente définitivement de 2 points. Aux grades 4, 6, 8 et 10, vous renouvelez cette opération qui peut être appliquée sur une même caractéristique ou sur une caractéristique différente. 
 
 {s:Reference|DonMythique}
 #### Don mythique
@@ -127,15 +127,15 @@ Les personnages mythiques peuvent puiser dans une source de pouvoir qui leur per
 
 {s:Reference|MonteeEnPuissanceMythique}
 #### Montée en puissance (Sur)
-Le personnage peut utiliser du [[pouvoir mythique]] pour accomplir des actions particulièrement difficiles. Il peut dépenser une utilisation de [[pouvoir mythique]] pour lancer 1d6 et pour ajouter le résultat obtenu à celui d’un d20 que vous venez de lancer. L’utilisation de cette aptitude est une [[action immédiate]] que vous pouvez accomplir après avoir pris connaissance du premier résultat. Cette aptitude peut modifier les conséquences d’un mauvais jet de dé. Le dé en bonus que vous pouvez lancer en utilisant cette aptitude passe à 1d8 au [[grade]] 4, 1d10 au [[grade]] 7 et 1d12 au [[grade]] 10.
+Le personnage peut utiliser du [[pouvoir mythique]] pour accomplir des actions particulièrement difficiles. Il peut dépenser une utilisation de [[pouvoir mythique]] pour lancer 1d6 et pour ajouter le résultat obtenu à celui d’un d20 que vous venez de lancer. L’utilisation de cette aptitude est une [[action immédiate]] que vous pouvez accomplir après avoir pris connaissance du premier résultat. Cette aptitude peut modifier les conséquences d’un mauvais jet de dé. Le dé en bonus que vous pouvez lancer en utilisant cette aptitude passe à 1d8 au [[grade]] 4, 1d10 au [[grade]] 7 et 1d12 au [[grade]] 10. 
 
 {s:Reference|ExcellenteInitiative}
 #### Excellente initiative (Ext)
-Au 2ème [[grade]], le personnage gagne un bonus aux tests d’initiative égal à son [[grade]] mythique. De plus, par une [[action libre]] lors de son tour, il peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer une [[action simple]] supplémentaire pendant son tour. Cette [[action simple]] supplémentaire ne peut être utilisée pour lancer un sort. Le personnage ne peut bénéficier d’une action supplémentaire de cette façon plus d’une fois par round.
+Au 2ème [[grade]], le personnage gagne un bonus aux tests d’initiative égal à son [[grade]] mythique. De plus, par une [[action libre]] lors de son tour, il peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer une [[action simple]] supplémentaire pendant son tour. Cette [[action simple]] supplémentaire ne peut être utilisée pour lancer un sort. Le personnage ne peut bénéficier d’une action supplémentaire de cette façon plus d’une fois par round. 
 
 {s:Reference|Retablissement}
 #### Rétablissement (Ext)
-Au 3ème [[grade]] et s’il n’est pas mort, le personnage récupère la totalité de ses points de vie après huit heures de repos. De plus, en dépensant une utilisation de [[pouvoir mythique]] et en se reposant une heure, il récupère un nombre de points de vie égal à la moitié de son montant maximum de points de vie (ce montant ne peut être dépassé) et régénère une utilisation de l’une de ses aptitudes de classe qui a un nombre d’utilisations quotidiennes limité (telle que la rage du [[barbare]], les représentions bardiques, les sorts par jour, etc.). Ce repos compte comme une période de sommeil de huit heures et permet donc de récupérer ce type d’aptitudes. Il ne permet pas de récupérer des utilisations de [[pouvoir mythique]] ou d’aptitudes mythiques dont le nombre d’utilisations quotidiennes est limité.
+Au 3ème [[grade]] et s’il n’est pas mort, le personnage récupère la totalité de ses points de vie après huit heures de repos. De plus, en dépensant une utilisation de [[pouvoir mythique]] et en se reposant une heure, il récupère un nombre de points de vie égal à la moitié de son montant maximum de points de vie (ce montant ne peut être dépassé) et régénère une utilisation de l’une de ses aptitudes de classe qui a un nombre d’utilisations quotidiennes limité (telle que la rage du [[barbare]], les représentions bardiques, les sorts par jour, etc.). Ce repos compte comme une période de sommeil de huit heures et permet donc de récupérer ce type d’aptitudes. Il ne permet pas de récupérer des utilisations de [[pouvoir mythique]] ou d’aptitudes mythiques dont le nombre d’utilisations quotidiennes est limité. 
 
 {s:Reference|JDSMythique}
 #### Jets de sauvegarde mythiques (Ext)
@@ -143,7 +143,7 @@ Au 5ème [[grade]], à chaque fois que le personnage réussit un jet de sauvegar
 
 {s:Reference|ForceVolonte}
 #### Force de volonté (Ext)
-Au 6ème [[grade]], le personnage peut faire preuve de volonté pour que les événements se déroulent selon ses désirs. Par une [[action immédiate]], il peut dépenser une utilisation de [[pouvoir mythique]] pour relancer un d20 que vous venez de lancer ou pour forcer une créature non-mythique à relancer un jet de d20 qu’elle vient d’effectuer. Le personnage peut utiliser cette aptitude après que vous avez pris connaissance du résultat. Quoi qu’il en soit, le résultat de ce second jet doit être conservé, même s’il est pire.
+Au 6ème [[grade]], le personnage peut faire preuve de volonté pour que les événements se déroulent selon ses désirs. Par une [[action immédiate]], il peut dépenser une utilisation de [[pouvoir mythique]] pour relancer un d20 que vous venez de lancer ou pour forcer une créature non-mythique à relancer un jet de d20 qu’elle vient d’effectuer. Le personnage peut utiliser cette aptitude après que vous avez pris connaissance du résultat. Quoi qu’il en soit, le résultat de ce second jet doit être conservé, même s’il est pire. 
 
 {s:Reference|Indomptable}
 #### Indomptable (Ext)
@@ -151,7 +151,7 @@ Au 8ème [[grade]], le personnage peut dépenser une utilisation de [[pouvoir my
 
 {s:Reference|Immortel}
 #### Immortel (Sur)
-Au 9ème [[grade]], si le personnage meurt, il revient à la vie vingt-quatre heures plus tard, quel que soit l’état de sa dépouille ou les moyens utilisés pour le tuer. Lorsqu’il revient à la vie, il n’est pas considéré comme étant reposé et il ne regagne donc pas les utilisations quotidiennes de ses aptitudes tant qu’il ne s’est pas reposé. Cette aptitude ne s’applique pas si le personnage meurt à cause d’un coup de grâce ou d’un coup critique infligé par une créature mythique (ou une créature encore plus puissante) ou une créature non-mythique qui manipule une arme capable d’ignorer la réduction épique des dégâts. Au 10ème [[grade]], le personnage peut revenir à la vie quelles que soient les conditions de sa mort, sauf si son adversaire utilise un artefact pour lui porter un coup de grâce ou un coup critique.
+Au 9ème [[grade]], si le personnage meurt, il revient à la vie vingt-quatre heures plus tard, quel que soit l’état de sa dépouille ou les moyens utilisés pour le tuer. Lorsqu’il revient à la vie, il n’est pas considéré comme étant reposé et il ne regagne donc pas les utilisations quotidiennes de ses aptitudes tant qu’il ne s’est pas reposé. Cette aptitude ne s’applique pas si le personnage meurt à cause d’un coup de grâce ou d’un coup critique infligé par une créature mythique (ou une créature encore plus puissante) ou une créature non-mythique qui manipule une arme capable d’ignorer la réduction épique des dégâts. Au 10ème [[grade]], le personnage peut revenir à la vie quelles que soient les conditions de sa mort, sauf si son adversaire utilise un artefact pour lui porter un coup de grâce ou un coup critique. 
 
 {s:Reference|HeroLegendaire}
 #### Héros légendaire (Sur)

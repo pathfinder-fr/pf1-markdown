@@ -38,7 +38,7 @@ LastModified: 2019-10-16 00:07
 {s:BDTexte|**Instinct (Ext).** Les aurochs mangeur d'hommes ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[[dédale]]* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [[pris au dépourvu]].}
 </div>
 </td><td><div>
-*Cette bête imposante qui se démarque du bovin ordinaire est dotée de cornes ensanglantées et de crocs acérés. Une lueur d'intelligence malsaine brille dans ses yeux*
+*Cette bête imposante qui se démarque du bovin ordinaire est dotée de cornes ensanglantées et de crocs acérés. Une lueur d'intelligence malsaine brille dans ses yeux*  
 
 Voir aussi : [[Auroch]] et [[Animal Mangeur dhommes, archétype|archetype Animal Mangeur d'hommes]]
 </div></td></tr></table>

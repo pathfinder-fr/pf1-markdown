@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 41 po ; **Poids** 16,75 kg<sup>[[Trousses déquipement#2|2]]</sup>
+{s:AE}**Prix** 41 po ; **Poids** 16,75 kg<sup>[[Trousses déquipement#2|2]]</sup>  
 <span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
----
+<hr />
 Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Instrument de musique (objet)|instrument de musique]] ordinaire, un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Carnet (objet)|carnet]], un [[Kit repas (objet)|kit repas]], un [[Miroir (objet)|miroir]], une [[Corde (objet)|corde]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

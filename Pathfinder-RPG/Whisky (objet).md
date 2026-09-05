@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa (le verre), 20 po (Oldlaw, le verre) ; **Poids** 0,25 kg (le verre), 0,5 kg (Oldlaw, le verre)
+{s:AE}**Prix** 1 pa (le verre), 20 po (Oldlaw, le verre) ; **Poids** 0,25 kg (le verre), 0,5 kg (Oldlaw, le verre)  
 <span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
----
+<hr />
 Le whisky est une boisson distillée fabriquée à partir de grains écrasés et fermentés (généralement de l’orge, du maïs, du seigle ou du blé), vieilli dans un fût en bois. Plus la boisson vieillit, plus le produit fini est raffiné.  
   
 *Whisky Oldlaw.* Ce whisky single malt est fabriqué selon une recette vieille de presque 200 ans. C’est la boisson alcoolisée préférée de tous les anciens soldats.

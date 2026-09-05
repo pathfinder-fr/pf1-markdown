@@ -73,7 +73,7 @@ LastModified: 2015-04-24 17:00
 <li>[[Ninja|Le ninja]] *([[astuces]])*</li>
 <li>[[Oracle|L'oracle]] *([[mystères]])*</li>
 <li>[[Pistolier|Le pistolier]] *([[exploits]])*</li>
-<li>[[Samouraï|Le samouraï]] *([[ordres]])*</li>
+<li>[[Samouraï|Le samouraï]] *([[ordres]])*</li> 
 <li>[[Sorcière|La sorcière]] *([[maléfices]], [[protecteurs]])*</li>
 </ul>
 #### [[Classes de prestige]]
@@ -387,7 +387,7 @@ LastModified: 2015-04-24 17:00
 <li>Listes de monstres
 <ul>
 <li>[[Liste de monstres par milieu naturel]]</li>
-<li>[[Liste de monstres par FP]]</li>
+<li>[[Liste de monstres par FP]]</li>  
 <li>[[Liste de monstres par type]]</li>
 </ul>
 </li>
@@ -401,7 +401,7 @@ LastModified: 2015-04-24 17:00
 </ul>
 ### Boîte à outils du MJ
 <ul>
-<li>[[Créer des PNJ]]</li>
+<li>[[Créer des PNJ]]</li> 
 <li>[[Classes de PNJ]]
 <ul>
 <li>[[Adepte|L'adepte]]</li>

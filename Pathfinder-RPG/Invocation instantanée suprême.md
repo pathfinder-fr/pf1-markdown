@@ -9,28 +9,28 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (saphirs d'une valeur de 1 000 po chacun)
-**Portée** voir description
-**Cibles** jusqu'à 1 objet/3 niveaux, chacun pesant jusqu'à 5 kg et dont la plus grande dimension ne dépasse pas 1.8 m
-**Durée** permanente ou jusqu'à déchargement
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (saphirs d'une valeur de 1 000 po chacun)  
+**Portée** voir description  
+**Cibles** jusqu'à 1 objet/3 niveaux, chacun pesant jusqu'à 5 kg et dont la plus grande dimension ne dépasse pas 1.8 m  
+**Durée** permanente ou jusqu'à déchargement  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[invocation instantanée]]*, excepté que le personnage peut cibler plusieurs objets. Il doit dépenser un saphir (d'une valeur de 1 000 po) différent pour chacun. Pour chaque objet ciblé, il peut toucher une créature, lui permettant de prononcer le mot de commande pour activer cet objet (chaque objet a son propre mot de commande) en détruisant la gemme associée et en appelant l'objet à elle. Seul le personnage ou la créature touchée peut activer une gemme donnée et voir la *[[signature magique]]* apposée sur elle.
 
 
 
 (((
 ## Invocation instantanée
-**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un saphir d’une valeur de 1 000 po)
-**Portée** voir description
-**Cible** 1 objet pesant jusqu’à 5 kg, dont la plus longue dimension ne doit pas dépasser 1,80 m
-**Durée** [[permanente]] jusqu’à utilisation
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un saphir d’une valeur de 1 000 po)  
+**Portée** voir description  
+**Cible** 1 objet pesant jusqu’à 5 kg, dont la plus longue dimension ne doit pas dépasser 1,80 m  
+**Durée** [[permanente]] jusqu’à utilisation  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
----
+<hr />
 Grâce à ce sort, le personnage fait apparaître dans sa main un objet (pas une créature vivante) qui peut provenir quasiment de n’importe où.
 
 Le lanceur de sorts doit tout d’abord placer une *[[signature magique]]* sur l’objet en question. Il lance ensuite ce sort, qui consigne une description magique et invisible de l’objet sur un saphir valant au moins 1 000 po. Après cela, le lanceur de sorts peut appeler l’objet en prononçant un [[mot de commande]] choisi lors de l’incantation tout en écrasant la gemme. L’objet apparaît alors instantanément dans sa main. La gemme n’est utilisable que par le lanceur de sorts.

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** —
+{s:AE}**Prix** 1 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Généralement utilisé par les plus riches, le papier à lettres de luxe consiste en une feuille de très bonne qualité de 23 centimètres par 15, souvent avec le seau du propriétaire imprimé ou en relief.

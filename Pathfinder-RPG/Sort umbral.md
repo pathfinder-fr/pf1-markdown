@@ -15,7 +15,7 @@ Categories:
 
 **Condition** [[Sort ténébreux]]
 
-**Avantage** Un sort umbral obtient le [[registre]] de l’obscurité. Tant que le sort fait effet, la créature ou l’objet affecté irradie l’obscurité sur un [[rayon]] de 3 m (2 {s:c}) et réduit l’intensité lumineuse de la même façon qu’un sort de *[[ténèbres]]*. Les sources de lumière non magique, comme les torches ou les lanternes, n’augmentent pas l’intensité lumineuse dans cette zone. Les sources de lumière magique augmentent l’intensité lumineuse dans une zone affectée par un sort umbral seulement si elles sont d’un niveau supérieur au niveau non modifié du sort umbral. Cet effet ne se cumule pas avec lui-même ou avec d’autres effets qui créent de l’obscurité.
+**Avantage** Un sort umbral obtient le [[registre]] de l’obscurité. Tant que le sort fait effet, la créature ou l’objet affecté irradie l’obscurité sur un [[rayon]] de 3 m (2 {s:c}) et réduit l’intensité lumineuse de la même façon qu’un sort de *[[ténèbres]]*. Les sources de lumière non magique, comme les torches ou les lanternes, n’augmentent pas l’intensité lumineuse dans cette zone. Les sources de lumière magique augmentent l’intensité lumineuse dans une zone affectée par un sort umbral seulement si elles sont d’un niveau supérieur au niveau non modifié du sort umbral. Cet effet ne se cumule pas avec lui-même ou avec d’autres effets qui créent de l’obscurité. 
 
 Le personnage ne peut pas appliquer ce don sur un sort dont la durée est instantanée ou qui ne cible pas une créature ou un objet.
 

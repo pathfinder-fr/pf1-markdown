@@ -25,9 +25,9 @@ Categories:
 **Durée** 1 minute/[[niveau]]  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-Ce sort crée 1 rune de paix brillante plus 1 tous les 2 niveaux au dessus du niveau 1 (jusqu'à un maximum de 5 runes au niveau 9). Un symbole identique à cette rune apparaît sur votre front pour le reste de la durée du sort et ne peut pas être déguisée (mais n'est visible que si vous l'êtes aussi).
+Ce sort crée 1 rune de paix brillante plus 1 tous les 2 niveaux au dessus du niveau 1 (jusqu'à un maximum de 5 runes au niveau 9). Un symbole identique à cette rune apparaît sur votre front pour le reste de la durée du sort et ne peut pas être déguisée (mais n'est visible que si vous l'êtes aussi). 
 
-Chaque rune illumine un cube de 1,5 m (1 {s:c}), empêchant n'importe quel sort jusqu'au 3ème niveau que vous lancez et qui a une zone définie (à la différence d'un effet ou des cibles) de rentrer dans le cube ou de l'affecter.
+Chaque rune illumine un cube de 1,5 m (1 {s:c}), empêchant n'importe quel sort jusqu'au 3ème niveau que vous lancez et qui a une zone définie (à la différence d'un effet ou des cibles) de rentrer dans le cube ou de l'affecter. 
 
 Ainsi, si vous lancez *[[Nuage nauséabond]]* par exemple, les vapeurs toxiques sont un effet et passeront à travers le cube en produisant leur effet normalement.
 

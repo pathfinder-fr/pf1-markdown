@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** +20 po ; **Poids** —
+{s:AE}**Prix** +20 po ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Cette bague abrite un tout petit compartiment sous le chaton, servant généralement à accueillir du [[Poisons|poison]]. Il faut une [[action de mouvement]] pour ouvrir et refermer la bague. Et pour passer inaperçu, il faut réussir un test d'[[Escamotage]] [[DD]] 20.

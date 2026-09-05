@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Diadème de rubis|{s:RSE}}
 **Aura** [[Invocation]] et [[Transmutation]] modérées ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 94 000 po ; **Poids** 2,5 kg
 (((Description)))
-{s:cs}{s:Desambi|L'emplacement occupé par cet objet est une erreur qui n'a jamais été traitée par Paizo, n'hésitez pas à le considérer comme porté sur la tête ou le front, comme les autres diadèmes.}<u>***Contenu issu d'un supplément 3.5***</u>
+{s:cs}{s:Desambi|L'emplacement occupé par cet objet est une erreur qui n'a jamais été traitée par Paizo, n'hésitez pas à le considérer comme porté sur la tête ou le front, comme les autres diadèmes.}<u>***Contenu issu d'un supplément 3.5***</u>  
 Ce diadème d’or est serti de rubis et il est si mince qu’il se porte sans problème sous la coiffe officielle des pharaons. Il fonctionne comme un *[[Bandeau dinspiration|bandeau d'inspiration +6]]* et un *[[serre-tête de persuasion]]*. Si c’est le dirigeant légitime de la Terre des pharaons qui le porte, il lui permet de communiquer par télépathie avec l'agent invisible des seigneurs élémentaires du désert. Ce pouvoir fonctionne tant que le pharaon et l'agent se trouvent sur le même plan.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[splendeur de laigle|splendeur de l’aigle]]*, *[[sagesse du hibou]]*, *[[allié majeur doutreplan|allié majeur d’outreplan]]*, *[[lien télépathique]]* ; **Coût** 47 000 po

@@ -12,12 +12,12 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8
-**Temps d'incantation**  1 [[action simple]]
-**Composantes** [[composantes|V, G]]
-**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/[[niveau]])
-**Cible** 3 momies ou plus qui ne doivent pas être éloignées de plus de 9 m les unes des autres (voir texte)
-**Durée** 7 jours ou 7 mois (T), (voir texte)
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8  
+**Temps d'incantation**  1 [[action simple]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/[[niveau]])  
+**Cible** 3 momies ou plus qui ne doivent pas être éloignées de plus de 9 m les unes des autres (voir texte)  
+**Durée** 7 jours ou 7 mois (T), (voir texte)  
 **Jet de sauvegarde** [[Présentation des sorts#JETDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[grand tertre]]* mais il appelle 1d4+2 [[Momie|momies]] [[Archétypes#CREATUREEVOLUEE|évoluées]] au lieu de [[Tertre errant|tertres errants]].

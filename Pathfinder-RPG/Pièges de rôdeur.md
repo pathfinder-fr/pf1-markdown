@@ -16,11 +16,11 @@ Les rôdeurs possèdent une habileté légendaire pour traquer et capturer leurs
 
 Pour poser un piège, il faut dépenser une [[action complexe]] qui provoque des [[attaque dopportunité|attaques d’opportunité]]. Le piège occupe une case de 1,50 mètre (1 {s:c}) de côté. Il est impossible de le placer dans une case déjà occupé par un piège de rôdeur ou un piège magique comme un *[[glyphe de garde]]*. Le rôdeur a seulement besoin de matériaux de base pour créer le piège, comme un bout de tissu, un peu de métal (une dague, une pointe de fer ou quelques clous), 30 centimètres de corde ou de liane, etc. Le [[DD]] des tests de [[Perception]] pour remarquer le piège, des tests de [[Sabotage]] pour le désarmer et des [[jet de sauvegarde|jets de sauvegarde]] pour l’éviter est toujours égal à 10 + 1/2 niveau du personnage + bonus de [[Sagesse]]. Tous les pièges de rôdeur sont de type *Déclencheur* emplacement et *Remise en place* aucune.
 
-Les pièges de rôdeur sont extraordinaires ou surnaturels : les extraordinaires sont de Type mécanique et les surnaturels de Type magique. Certains sont notés comme extraordinaires ou magiques (surnaturels), quand le rôdeur les apprend, il peut les utiliser d’une manière ou de l’autre.
+Les pièges de rôdeur sont extraordinaires ou surnaturels : les extraordinaires sont de Type mécanique et les surnaturels de Type magique. Certains sont notés comme extraordinaires ou magiques (surnaturels), quand le rôdeur les apprend, il peut les utiliser d’une manière ou de l’autre. 
 - Un piège extraordinaire a un malus de -2 au [[DD]]. Il dure 1 jour par niveau de rôdeur ou jusqu’à ce qu’on le déclenche, selon ce qui se produit en premier. 
 - Un piège magique ne dure que 1 heure par niveau ou jusqu’à ce qu’on le déclenche, selon ce qui se produit en premier. 
 
-Le [[DD]] du piège diminue de 1 pour chaque jour passé après sa pose (ou chaque heure dans le cas des pièges magiques).
+Le [[DD]] du piège diminue de 1 pour chaque jour passé après sa pose (ou chaque heure dans le cas des pièges magiques). 
 
 Les pièges marqués d’un astérisque (*) s’ajoutent ou viennent modifier les effets d’un autre piège. Le rôdeur peut ajouter ce type de piège à n’importe quel piège de rôdeur standard (ce qui lui coûte 1 utilisation de son pouvoir de piège de plus).
 

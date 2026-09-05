@@ -36,7 +36,7 @@ LastModified: 2017-01-19 21:25
 (((Pouvoirs spéciaux)))
 - **Attaque diverse (Ext)**. L’attaque de coup du galvo inflige des dégâts contondants et tranchants puisque la créature est intégralement formée d’anguilles qui mordent.
 - **Imitation de nuée (Ext).** Le galvo n’a pas d’anatomie apparente et n’est pas sujet aux coups critiques ou à la prise en tenaille. Il est également immunisé contre tout sort physique ou effet ciblant un nombre spécifique de créatures (y compris contre les sorts à cible unique tels que désintégration). Les effets mentaux qui ciblent une seule créature fonctionnent normalement contre le galvo puisque les éléments individuels composant le galvo partagent un esprit de ruche. 
-Le galvo reçoit 50% de dégâts en plus de la part des effets de zone dommageables tels que boule de feu et les armes à  aspersion.
+Le galvo reçoit 50% de dégâts en plus de la part des effets de zone dommageables tels que boule de feu et les armes à  aspersion. 
 - **Projection d’anguille (Ext)**. Le galvo peut projeter l’une des anguilles qui le composent comme une fléchette, sur une distance maximale de 9 mètres lors d’une attaque de contact à distance. Un anguille projetée inflige un nombre de points de dégâts égal à 1d6 + modificateur de Force du galvo et 1d6 points de dégâts d’électricité.
 
 

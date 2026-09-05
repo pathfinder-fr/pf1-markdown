@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-{s:UC}Alors que le ninja évolue, il apprend de nouvelles astuces qui lui permettent de tromper ses ennemis et d’obtenir des pouvoirs surnaturels.
+{s:UC}Alors que le ninja évolue, il apprend de nouvelles astuces qui lui permettent de tromper ses ennemis et d’obtenir des pouvoirs surnaturels. 
 
 À partir du niveau 2, il apprend une astuce et une de plus tous les deux niveaux. Sauf indication contraire, il ne peut pas choisir la même astuce à plusieurs reprises.
 
@@ -122,13 +122,13 @@ Un ninja qui connaît cette astuce peut empêcher une créature de puiser dans s
 {s:Reference|BOMBEASPHYXIANTE}
 #### Bombe asphyxiante (Ext)
 
-**Prérequis :** [[Astuces#BOMBEFUMIGENE|bombe fumigène]]
+**Prérequis :** [[Astuces#BOMBEFUMIGENE|bombe fumigène]]  
 Quand un ninja lance une bombe asphyxiante, toutes les créatures vivantes qui se trouvent dans le nuage doivent réussir un jet de [[Vigueur]] ou être [[chancelant|chancelantes]] pendant 1d4 rounds à cause de la fumée noire qui les étouffe. Le [[DD]] du jet de sauvegarde est égal à 10 + 1/2 niveau du ninja + modificateur de [[Charisme]] du ninja. Le ninja peut créer une bombe fumigène ordinaire ou ajouter du [[poison]] à celle-ci.
 
 {s:Reference|BOMBEEMPOISONNÉE}
 #### Bombe empoisonnée (Ext)
 
-**Prérequis :** [[Astuces#BOMBEFUMIGENE|bombe fumigène]]
+**Prérequis :** [[Astuces#BOMBEFUMIGENE|bombe fumigène]]  
 Quand le ninja lance une bombe fumigène, il peut lui ajouter une dose de [[poison]] inhalé. Ce poison affecte toutes les créatures qui se trouvent dans la zone d’effet du nuage et persiste tant que la fumée reste. Le ninja doit payer son poison comme à l’accoutumée.
 
 {s:Reference|BOMBEFUMIGÈNE}
@@ -141,7 +141,7 @@ Un ninja qui choisit cette astuce obtient un [[don]] de combat supplémentaire.
 
 {s:Reference|CAPTUREDEPROJECTILES}
 #### Capture de projectiles
-**Prérequis :** dons [[Science du combat à mains nues]] et [[Parade de projectiles]]
+**Prérequis :** dons [[Science du combat à mains nues]] et [[Parade de projectiles]]  
 Le ninja qui choisit cette astuce gagne le don [[Capture de projectiles]] comme don supplémentaire.
 
 {s:Reference|CLONEDOMBRE}
@@ -196,7 +196,7 @@ Par une [[action rapide]], le ninja qui connaît cette astuce peut concentrer so
 
 {s:Reference|MAÎTREDESSAUTSENHAUTEUR}
 #### Maître des sauts en hauteur (Ext)
-**Prérequis :** [[Astuces#MAITREACROBATE|maître acrobate]]
+**Prérequis :** [[Astuces#MAITREACROBATE|maître acrobate]]  
 Quand un ninja qui dispose de cette astuce fait un saut en hauteur, le [[DD]] du [[Acrobaties|saut]] est réduit de moitié.
 
 {s:Reference|MAÎTRISEDUNEÉCOLE}
@@ -210,7 +210,7 @@ Le métabolisme du ninja est plus lent que la normale. Il peut retenir son souff
 {s:Reference|PARADEDEPROJECTILES}
 #### Parade de projectiles
 
-**Prérequis :** don [[Science du combat à mains nues]]
+**Prérequis :** don [[Science du combat à mains nues]]  
 Un ninja qui choisit cette astuce gagne le don [[Parade de projectiles]] comme don supplémentaire.
 
 {s:Reference|POINTVITAL}
@@ -241,14 +241,14 @@ Cette astuce permet au ninja d’utiliser son ki pour améliorer sa vision, ce q
 ### Description des astuces de maître
 Au niveau 10 et ensuite tous les deux niveaux, le ninja peut choisir une astuce de maître au lieu d’une astuce de ninja.
 
-<table width="100%"><tr><td width="49%">
+<table width="100%"><tr><td width="49%"> 
 {s:Reference|ASSASSINAT}
 #### Assassinat (Ext)
 Un ninja qui connaît cette astuce de maître est capable de tuer sur-le-champ un adversaire sans défense. Pour ce faire, il doit étudier sa cible pendant 1 round, par une [[action simple]]. Au round suivant, si le ninja réussit une [[attaque sournoise]] et que la cible ne bénéficie pas de son bonus de [[Dextérité]] à la [[CA]], l’attaque sournoise risque de la tuer en plus de ses effets. La tentative d’assassinat échoue automatiquement si la cible considère le ninja comme un ennemi. Si le ninja réussit son [[attaque sournoise]] et que la cible rate son jet de [[Vigueur]], elle meurt. Le [[DD]] du [[jet de sauvegarde]] est de 10 + 1/2 niveau du ninja + modificateur de [[Charisme]] du ninja. Si la cible réussit son jet de sauvegarde, elle subit les dégâts de l’attaque sournoise mais elle est immunisée contre le pouvoir d’assassinat de ce ninja pendant 1 jour.
 
 {s:Reference|BOMBEAVEUGLANTE}
 #### Bombe aveuglante (Ext)
-**Prérequis :** [[Astuces#BOMBEASPHYXIANTE|bombe asphyxiante]]
+**Prérequis :** [[Astuces#BOMBEASPHYXIANTE|bombe asphyxiante]]  
 Quand le ninja lance une bombe fumigène, toutes les créatures vivantes situées dans le nuage doivent réussir un jet de Vigueur ou être aveuglées par la fumée noire pendant 1d4 rounds. Le DD du jet de sauvegarde est de 10 + 1/2 niveau du ninja + modificateur de [[Charisme]] du ninja. On ne peut pas combiner cette astuce à celle de la bombe asphyxiante mais on peut le faire avec la bombe empoisonnée.
 
 {s:Reference|DÉPLACEMENTLIBRE}
@@ -265,19 +265,19 @@ Le ninja évite même les attaques magiques ou inhabituelles avec agilité. S’
 
 {s:Reference|LAMEINVISIBLE}
 #### Lame invisible (Sur)
-**Prérequis :** [[Astuces#DISPARU|disparu]]
+**Prérequis :** [[Astuces#DISPARU|disparu]]  
 Quand le ninja utilise l’astuce disparu, on considère qu’il se trouve sous l’effet d’un sort d’*[[invisibilité suprême]]*.
 
 {s:Reference|MAÎTREDUDÉGUISEMENT}
 #### Maître du déguisement (Sur)
-**Prérequis :** [[Astuces#DEGUISEMENTINSTANTANE|déguisement instantané]]
+**Prérequis :** [[Astuces#DEGUISEMENTINSTANTANE|déguisement instantané]]  
 Le ninja peut prendre l’apparence d’une autre créature ou d’un individu donné. Quand il utilise l'astuce déguisement instantané, sa durée passe à 10 minutes par niveau. Sinon, il peut se servir de cette astuce pour prendre l’apparence d’un individu précis qu’il a déjà vu pendant 1 minute par niveau. Les créatures qui connaissent cet individu ont droit à un jet de [[Volonté]] pour percer l’illusion. Le [[DD]] du [[jet de sauvegarde]] est de 10 + 1/2 niveau du ninja + modificateur de [[Charisme]] du ninja. L’illusion modifie aussi la voix du ninja à condition qu’il ait entendu l’individu parler et qu’il maîtrise sa langue.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 {s:Reference|MAÎTRISEDUCOMBATÀMAINSNUES}
 #### Maîtrise du combat à mains nues
-**Prérequis :** don [[Science du combat à mains nues]]
+**Prérequis :** don [[Science du combat à mains nues]]  
 Quand un ninja qui choisit cette astuce se bat à mains nues, il inflige autant de dégâts qu’un [[moine]] de son niveau -4. Si le ninja possède des niveaux de moine, ce pouvoir se cumule avec ses niveaux de moine quand il détermine les dégâts qu’il fait avec ses attaques à mains nues.
 
 {s:Reference|PASFANTOMATIQUE}
@@ -286,7 +286,7 @@ Par une [[action rapide]], le ninja qui connaît cette astuce peut franchir un m
 
 {s:Reference|RÉPLIQUEDOMBRE}
 #### Réplique d’ombre (Sur)
-**Prérequis :** [[Astuces#CLONEDOMBRE|clone d'ombre]]
+**Prérequis :** [[Astuces#CLONEDOMBRE|clone d'ombre]]  
 Cette astuce permet au ninja de créer un double illusoire de sa personne, qui s’éloigne de lui dans une seule direction et lui permet de créer une diversion. Le double peut grimper à un mur, sauter par-dessus une fosse ou simplement éviter les obstacles, en se déplaçant au double de la vitesse normale du ninja dans la direction que ce dernier lui a indiquée quand il a activé le pouvoir. Il ne peut pas changer de direction par la suite. Le double persiste 1 round par niveau de ninja. Si quelqu’un interagit avec le double, il a droit à un jet de [[Volonté]] pour comprendre qu’il s’agit d’un faux. Le DD du [[jet de sauvegarde]] est de 10 + 1/2 niveau du ninja + modificateur de [[Charisme]] du ninja. Ce pouvoir coûte 1 point de ki par utilisation.
 
 {s:Reference|TALENTDEMAÎTREROUBLARD}

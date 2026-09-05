@@ -18,7 +18,7 @@ Agencé dans un cercle vaguement concentrique se dresse un mur intérieur, celui
 ### Histoire
 Fort Taggun était une ville commerciale relativement stable jusqu'en 4663 CA. Lorsque la Citadelle Gheisteno fut réduite en cendre, les patrouilles de Chevaliers Infernaux qui autrefois surveillaient la Route Principale de Ménador cessèrent. Il ne fallut pas attendre longtemps avant que les orques natifs des montagnes ne s'y intéressent, revendiquant ces vallons étroits pour leur propre compte.
 
-Avec l'opiniâtreté de la mainmise Impériale sur la mer, reprendre et protéger un col de montagne fut considéré comme un futile gaspillage de ressources. Fort Taggun tomba en désuétude sans que l'Empire n'intervienne en apportant son aide. Les échanges commerciaux périclitèrent rapidement, affamant la cité autrefois si florissante.
+Avec l'opiniâtreté de la mainmise Impériale sur la mer, reprendre et protéger un col de montagne fut considéré comme un futile gaspillage de ressources. Fort Taggun tomba en désuétude sans que l'Empire n'intervienne en apportant son aide. Les échanges commerciaux périclitèrent rapidement, affamant la cité autrefois si florissante. 
 
 À terme, cette longue route jadis si fréquentée fut renommée l'Ancienne Route de Ménador, ses sentiers ayant depuis été abandonnés, excepté par les voyageurs les plus impétueux ou les plus imprudents. Ceux qui osent encore l’emprunter louent les services de mercenaires aguerris pour les protéger de peur qu'on ne les revoit plus.
 

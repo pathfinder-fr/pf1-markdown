@@ -8,11 +8,11 @@ LastModified: 2024-05-27 16:28
 {s:AE}{s:BDTitre|Bâton de ciel et terre|}
 **Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 54 000 po ; **Poids** 2,5 kg
 (((Description)))
-Surmonté d’une pierre trouble et tournoyante et recouvert d’un filigrane en fer noir, ce bâton permet d’utiliser les sorts suivants.
-• *[[bourrasque]]* (1 charge)
-• *[[façonnage de la pierre]]* (1 charge)
-• *[[marche dans les airs]]* (2 charges)
-• *[[contrôle des vents]]* (2 charges)
+Surmonté d’une pierre trouble et tournoyante et recouvert d’un filigrane en fer noir, ce bâton permet d’utiliser les sorts suivants.  
+• *[[bourrasque]]* (1 charge)  
+• *[[façonnage de la pierre]]* (1 charge)  
+• *[[marche dans les airs]]* (2 charges)  
+• *[[contrôle des vents]]* (2 charges)  
 • *[[pierres acérées]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[bourrasque]]*, *[[façonnage de la pierre]]*, *[[marche dans les airs]]*, *[[contrôle des vents]]*, *[[pierres acérées]]* ; **Coût** 27 000 po

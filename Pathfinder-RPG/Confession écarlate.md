@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
-**Temps d’incantation** 10 minutes
-**Composantes** [[composantes|V, G]]
-**Portée** contact
-**Cible** ou zone l’objet touché ou une zone maximale de 30 cm de côté
-**Durée** permanente et 1 heure/[[niveau]] (cf. texte)
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[composantes|V, G]]  
+**Portée** contact  
+**Cible** ou zone l’objet touché ou une zone maximale de 30 cm de côté  
+**Durée** permanente et 1 heure/[[niveau]] (cf. texte)  
 **Jet de sauvegarde** [[Vigueur]] pour annuler ; **Résistance à la magie** oui
 
 Le personnage protège un objet ou une zone avec sa rune ou sa marque personnelle. Il peut décider de rendre l’inscription visible ou invisible, et celle-ci n’endommage pas le matériau sur lequel elle est placée. Un sort de *[[détection de la magie]]* permet de faire briller et de rendre visible une marque invisible. Si une créature autre que le personnage touche l’objet ou la zone protégé(e) et rate un jet de [[Vigueur]], sa peau devient rouge vif pendant 1 heure par niveau. Il est impossible de se débarrasser de cette coloration en se lavant, mais elle peut être dissipée.

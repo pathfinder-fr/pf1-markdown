@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [[Attaques réflexes]], [[Science du combat à mains nues]], [[Balancement du serpent]], 6 rangs en [[Acrobaties]] , 9 rangs en [[Psychologie]]
+**Conditions.** [[Attaques réflexes]], [[Science du combat à mains nues]], [[Balancement du serpent]], 6 rangs en [[Acrobaties]] , 9 rangs en [[Psychologie]] 
 
 **Avantage.** Quand le personnage utilise l’[[École du serpent]] et qu’un adversaire le rate, il peut faire une attaque à mains nues contre lui, comme [[attaque dopportunité|attaque d’opportunité]]. S’il touche, il peut dépenser une [[action immédiate]] pour faire une seconde attaque à mains nues contre lui.
 

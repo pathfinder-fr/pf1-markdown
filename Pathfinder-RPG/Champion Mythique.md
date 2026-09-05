@@ -60,7 +60,7 @@ Choisissez l’une des aptitudes suivantes. Ce choix est définitif.
 
 {s:Reference|APTITUDEDEVOIE}
 #### Aptitude de voie
-Au 1<sup>er</sup> [[grade]] et tous les [[grades]] par la suite, choisissez une nouvelle [[aptitude de voie]] parmi la liste des [[Aptitudes de la voie du Champion Mythique|aptitudes de la voie du champion]] ou parmi la liste des
+Au 1<sup>er</sup> [[grade]] et tous les [[grades]] par la suite, choisissez une nouvelle [[aptitude de voie]] parmi la liste des [[Aptitudes de la voie du Champion Mythique|aptitudes de la voie du champion]] ou parmi la liste des 
 [[Aptitudes de voie universelles Mythique|aptitudes de voie universelles]] . Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un grade mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
 
 {s:Reference|CHAMPIONEGENDAIRE}

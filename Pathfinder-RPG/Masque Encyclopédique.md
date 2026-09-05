@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:08
 {s:BDTitre|Masque encyclopédique|{s:AE}}
 **Aura** [[école divination|Divination]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 10 000 po ; **Poids** 0,5 kg
 (((Description)))
-Les bribes de phrases écrites au hasard sur toute la surface de ce masque dénué d’yeux et de la couleur du parchemin donnent une idée des quantités de connaissances qu’il renferme. Il octroie un bonus de compétence de +10 à tous les tests de [[Connaissances]] de son propriétaire mais ce dernier est aveugle tant qu’il porte le masque. Il faut porter cet objet pendant 10 minutes avant de bénéficier de son bonus.
+Les bribes de phrases écrites au hasard sur toute la surface de ce masque dénué d’yeux et de la couleur du parchemin donnent une idée des quantités de connaissances qu’il renferme. Il octroie un bonus de compétence de +10 à tous les tests de [[Connaissances]] de son propriétaire mais ce dernier est aveugle tant qu’il porte le masque. Il faut porter cet objet pendant 10 minutes avant de bénéficier de son bonus. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Clairaudienceclairvoyance|clairaudience/clairvoyance]]* ; **Coût** 5 000 po
 </div>

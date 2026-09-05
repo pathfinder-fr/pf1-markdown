@@ -92,15 +92,15 @@ Voici un résumé des classes de prestige.
 ### Définitions des termes
 {s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#6|→]] Classe de prestige : Si je prend un niveau dans une classe de prestige qui améliore la capacité de lancement de sorts, cela me donne-t-il accès aux sorts de lignage de plus haut niveau ?***
 
-Non. De même, cela n’offre pas de dons de lignage supplémentaires.
-Si le personnage était un magicien, cela ne lui donnerait pas accès à ses pouvoirs d’école de plus haut niveau.
-Si le personnage était un oracle, cela ne lui donnerait pas de sorts de mystère supplémentaires. (En revanche, cela lui donnerait accès aux sorts de soins et de blessure de plus haut niveau, puisqu’ils font partie de la capacité de classe sorts de l’oracle.)
-Si le personnage était une sorcière, cela ne lui donnerait pas de sorts de protecteur supplémentaires.
+Non. De même, cela n’offre pas de dons de lignage supplémentaires.  
+Si le personnage était un magicien, cela ne lui donnerait pas accès à ses pouvoirs d’école de plus haut niveau.  
+Si le personnage était un oracle, cela ne lui donnerait pas de sorts de mystère supplémentaires. (En revanche, cela lui donnerait accès aux sorts de soins et de blessure de plus haut niveau, puisqu’ils font partie de la capacité de classe sorts de l’oracle.)   
+Si le personnage était une sorcière, cela ne lui donnerait pas de sorts de protecteur supplémentaires.  
 Etc.
 
-Les <u>[[Classes de prestige#DEFINITIONS|classes de prestige]]</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.
+Les <u>[[Classes de prestige#DEFINITIONS|classes de prestige]]</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.  
 (Notez que la classe de disciple draconien a la capacité [[Disciple draconien#SANGDESDRAGONS|sang des dragons]], qui indique spécifiquement que le personnage obtient ses pouvoirs de lignage et ses sorts de lignage ; c’est une capacité propre à cette classe et non pas une règle générale sur l’amélioration du lancement de sorts par une classe de prestige.)
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Races et classes)#7|→]] Conditions des classes de prestige : Si une classe de prestige nécessite 5 rangs dans une compétence et que je possède 6 rangs dans cette compétence, suis-je toujours éligible ?***
 
 Oui, parce que les rangs de compétence sont inclusifs : si un personnage a 6 rangs dans une compétence, alors il a 5 rangs dans cette compétence, et remplit donc la <u>[[Classes de prestige#DEFINITIONS|condition]]</u> « posséder 5 rangs dans <nowiki>[[</nowiki>cette<nowiki>]]</nowiki> compétence ».
@@ -110,7 +110,7 @@ De la même façon, si un personnage a un BBA de +6, alors il a un BBA de +5, et
 De même, si un personnage a une Force de 15, alors il a une Force de 13, et remplit donc la condition « For 13 » du don Attaque en puissance.
 
 Les conditions de don ne sont pas inclusives, puisqu’il est possible pour une créature d’avoir un don sans en remplir les conditions. Par exemple, un rôdeur peut choisir Tir de précision comme don supplémentaire de rôdeur sans avoir le don Tir à bout portant ; il ne remplit donc pas les conditions de Tir de loin (qui a Tir à bout portant dans ses conditions) parce qu’il n’a pas réellement le don Tir à bout portant, même s’il possède un don qui inclut Tir à bout portant comme condition.
----
+<hr />
 ***[[FAQ- Manuel des joueurs (Magie et sorts)#4|→]] Classes de prestige et lanceurs de sorts : Est-ce qu’un magicien (ou un autre personnage utilisant un grimoire), reçoit des sorts supplémentaires à ajouter dans son grimoire lorsqu’il prend un niveau dans une classe de prestige qui améliore la capacité de lancement de sorts ?***
 
 Non. <u>[[Classes de prestige#DEFINITIONS|Cette amélioration]]</u> du niveau de lancement de sorts n’apporte aucun autre avantage, excepté des sorts par jour, des sorts connus (pour les lanceurs de sorts spontanés), et une augmentation du niveau de lanceur de sorts global. Le magicien doit dépenser du temps et de l’argent pour ajouter de nouveaux sorts à son grimoire.}Les définitions suivantes concernent quelques termes utilisés dans cette section.
@@ -123,5 +123,5 @@ Non. <u>[[Classes de prestige#DEFINITIONS|Cette amélioration]]</u> du niveau de
 
 **Niveau de classe.** Le niveau d’un personnage dans l’une de ses classes. Pour un personnage à une seule classe, le niveau de classe et le niveau global sont identiques.
 
-{s:cs}{s:PP}{s:Reference|SORTSPARJOUR}**Sorts par jour.** Plusieurs classes de prestige octroient au personnage des sorts par jour supplémentaires, selon leur niveau dans la classe de prestige. Cet ajout est précisée dans une colonne ce qui est noté dans une colonne distincte du tableau de progression de la classe de prestige, sous "Sorts par jour". Sauf mention contraire dans la section "Caractéristiques de classe" de la classe de prestige, les sorts donnés suivent les règles suivantes.
+{s:cs}{s:PP}{s:Reference|SORTSPARJOUR}**Sorts par jour.** Plusieurs classes de prestige octroient au personnage des sorts par jour supplémentaires, selon leur niveau dans la classe de prestige. Cet ajout est précisée dans une colonne ce qui est noté dans une colonne distincte du tableau de progression de la classe de prestige, sous "Sorts par jour". Sauf mention contraire dans la section "Caractéristiques de classe" de la classe de prestige, les sorts donnés suivent les règles suivantes.  
 Aux niveaux indiqués, un membre de cette classe de prestige obtient de nouveaux sorts par jour comme s'il avait gagné un niveau dans une classe de lanceur de sorts qu'il avait déjà avant de prendre cette classe de prestige. (Sauf mention contraire dans le tableau de progression de la classe de prestige, il peut s'agir d'une classe de lanceur de sorts divins ou profanes.) Ce pendant, il n'obtient pas d'autre avantage de cette classe hormis les sorts par jour, les sorts connus (s'il est un lanceur de sorts spontanés) et le [[NLS|niveau de lanceur de sorts]] effectif amélioré. S'il avait plus d'une classe de lanceur de sorts avant de prendre la classe de prestige, il doit choisir la classe à laquelle il donnera le niveau pour déterminer ses nouveaux sorts par jour.

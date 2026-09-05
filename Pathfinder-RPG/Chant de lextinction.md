@@ -15,14 +15,14 @@ Si on remonte cette boîte à musique, elle joue alors une mélodie entêtante d
 
 <u>***Voir aussi l'[[Golarion.Chant de lextinction|histoire et les implications de cet artefact]].***</u>
 (((Destruction)))
-Toute créature qui réussit un test d’[[Artisanat]] (pièges) [[DD]] 35 alors qu’elle manipule la boîte à musique peut truquer l’appareil pour qu’il joue à rebours une fois. Ainsi, un [[barde]] peut apprendre le *chant de l’extinction*, mais à rebours. Le fait de jouer le *chant de l’extinction* à rebours fait imploser la boîte à musique mais tue aussi le porteur. Le personnage ne peut pas être ramené à la vie en aucune façon sauf par une intervention divine.
+Toute créature qui réussit un test d’[[Artisanat]] (pièges) [[DD]] 35 alors qu’elle manipule la boîte à musique peut truquer l’appareil pour qu’il joue à rebours une fois. Ainsi, un [[barde]] peut apprendre le *chant de l’extinction*, mais à rebours. Le fait de jouer le *chant de l’extinction* à rebours fait imploser la boîte à musique mais tue aussi le porteur. Le personnage ne peut pas être ramené à la vie en aucune façon sauf par une intervention divine. 
 </div>
 
 ##### Chef-d'œuvre du Chant de l’extinction (chant, instruments à cordes, instruments à vent)
 *Clairon de la fin des temps, ce chef-d'œuvre est une cacophonie méticuleuse qui met fin à toute vie.*
 
-**Condition requise.** 15 rangs en Représentation (chant, instruments à cordes, instruments à vent).
-**Prix.** Don ou sort de barde connu de niveau 6.
-**Effet.** La zone de 30 mètres de rayon entourant le personnage se met à trembler et à gémir comme si la terre souffrait. La zone affectée est traitée comme si elle était sous les effets du sort *[[tremblement de terre]]*. En outre, toutes les créatures de la zone, excepté le personnage, doivent réussir un jet de [[Réflexes]] [[DD]] 25 tandis que des mâchoires de terre s’ouvrent individuellement sous chacune d’elles. Celles qui échouent tombent dans un gouffre de 30 mètres de profondeur qui se referme très vite et les broie, les piégeant comme si elles étaient enterrées sous une avalanche et enfermées [[dangers naturels#ASPHYXIE|sans air]]. Si une créature vivante et douée de conscience est tuée par les effets du *chant de l’extinction*, le personnage cesse de vieillir pendant un an.
-**Utilisation.** Toutes les [[représentation bardique|représentations bardiques]] du personnage pour la journée.
+**Condition requise.** 15 rangs en Représentation (chant, instruments à cordes, instruments à vent).  
+**Prix.** Don ou sort de barde connu de niveau 6.  
+**Effet.** La zone de 30 mètres de rayon entourant le personnage se met à trembler et à gémir comme si la terre souffrait. La zone affectée est traitée comme si elle était sous les effets du sort *[[tremblement de terre]]*. En outre, toutes les créatures de la zone, excepté le personnage, doivent réussir un jet de [[Réflexes]] [[DD]] 25 tandis que des mâchoires de terre s’ouvrent individuellement sous chacune d’elles. Celles qui échouent tombent dans un gouffre de 30 mètres de profondeur qui se referme très vite et les broie, les piégeant comme si elles étaient enterrées sous une avalanche et enfermées [[dangers naturels#ASPHYXIE|sans air]]. Si une créature vivante et douée de conscience est tuée par les effets du *chant de l’extinction*, le personnage cesse de vieillir pendant un an.  
+**Utilisation.** Toutes les [[représentation bardique|représentations bardiques]] du personnage pour la journée.  
 **Action.** 5 [[round|rounds]] complets.

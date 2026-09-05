@@ -16,7 +16,7 @@ Les Varisiens ont généralement la peau très matte. Ils aiment les vêtements 
 Bien qu'ils soient principalement nomades, les Varisiens croient qu'ils sont issus d'un territoire dévasté par une grande tragédie. Beaucoup d'entre eux tendent à croire que leur peuple retrouvera une nouvelle terre, peut-être bénie des dieux.
 
 {s:VoirAussiAvant}
-Vous pourrez trouver plus d'informations à propos des Varisiens dans les suppléments
+Vous pourrez trouver plus d'informations à propos des Varisiens dans les suppléments 
 - [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 - apport d'éclaireurs sur [[Aides de jeu#REHARROW|les cartes Harrow/du Tourment]], des cartes divinatoires utilisées par les Varisiens.
 - On parle également des Varisiens et de leur coutumes dans le [[Aventures.Présentation AP2#AP2-1|premier volume]] de la campagne [[Aventures.Présentation AP2|La Malédiction du Trône Écarlate]].

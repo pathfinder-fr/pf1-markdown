@@ -20,7 +20,7 @@ Les tieffelins fréquentent rarement les leurs et adoptent donc souvent la cultu
 
 **Aventuriers.** Les tieffelins s’intègrent rarement aux sociétés mortelles qu’ils appellent leur foyer. Attirés par l’aventure comme une échappatoire, ils espèrent se construire une vie meilleure, prouver qu’ils sont libres de la corruption de leur sang ou punir un monde qui les craint et les rejette. Les tieffelins font des roublards doués, de puissants magiciens et magi, ainsi que des ensorceleurs particulièrement puissants, puisque leur sang les rend plus forts. Ceux qui succombent au Mal qui est en eux deviennent souvent de puissants prêtres aux pouvoirs de fiélons.
 
-**Noms masculins.** Baru, Dellisar, Maldrek, Molos, Sarvin, Papillon-des-rives, Témérith, Voren, Zoren.
+**Noms masculins.** Baru, Dellisar, Maldrek, Molos, Sarvin, Papillon-des-rives, Témérith, Voren, Zoren.  
 **Noms féminins.** Allizsah, Indranna, Kasidra, Kilarra, Mellisan, Mordren, Nisha.
 
 #### Les tieffelins non-humains

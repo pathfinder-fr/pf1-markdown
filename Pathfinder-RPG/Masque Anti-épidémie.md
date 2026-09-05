@@ -8,7 +8,7 @@ LastModified: 2024-05-29 20:08
 {s:BDTitre|Masque anti-épidémie|{s:AE}}
 **Aura** [[Nécromancie]] faible  ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 7 500 po ; **Poids** 1 kg
 (((Description)))
-Ce masque en forme de tête d’oiseau stylisé se compose d’une paire de lunettes de protection fixée sur un bec de céramique qui couvre le nez et la bouche. Les lunettes ne sont pas magiques et peuvent être remplacées par un objet magique approprié pour les yeux. Le masque octroie à son porteur un bonus de résistance de +4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les maladies. Une fois par jour et sur commande, son utilisateur peut lancer *[[guérison des maladies]]* (comme le sort du même nom) sur une unique créature touchée.
+Ce masque en forme de tête d’oiseau stylisé se compose d’une paire de lunettes de protection fixée sur un bec de céramique qui couvre le nez et la bouche. Les lunettes ne sont pas magiques et peuvent être remplacées par un objet magique approprié pour les yeux. Le masque octroie à son porteur un bonus de résistance de +4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les maladies. Une fois par jour et sur commande, son utilisateur peut lancer *[[guérison des maladies]]* (comme le sort du même nom) sur une unique créature touchée. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[guérison des maladies]]*  ; **Coût** 3 750 po
 </div>

@@ -54,7 +54,7 @@ et de préparer son corps pour la transformation en mort-vivant.
 Aucune de ces deux tâches n’est simple. De plus, tous les corps et
 toutes les âmes sont différents, ce qui complique encore le rituel. Une
 méthode fonctionnant pour un lanceur de sorts pourrait en tuer un
-autre ou lui faire perdre l’esprit.
+autre ou lui faire perdre l’esprit. 
 
 Les méthodes exactes permettant la
 transformation d’un lanceur de sorts sont laissées à l’appréciation

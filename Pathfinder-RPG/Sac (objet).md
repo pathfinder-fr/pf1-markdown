@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>  
 <span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
----
+<hr />
 Ce solide sac en toile, pratique pour transporter l'équipement d'aventurier et autres provisions, a une contenance d'environ 120 litres. Une lanière en cuir passée dans des boucles à la gueule du sac et permet de le fermer facilement.

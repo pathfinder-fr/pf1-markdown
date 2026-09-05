@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*Des ailes à plumes poussent dans le dos du personnage.*
 
-**Conditions requises.** [[Sang angélique]], [[aasimar (race)|Aasimar]], niveau de personnage 10.
+**Conditions requises.** [[Sang angélique]], [[aasimar (race)|Aasimar]], niveau de personnage 10. 
 
 **Avantages.** L’aasimar gagne une paire d’ailes aux plumes étincelantes qui lui accordent une vitesse de vol de 9 mètres ([[vol#SPECIAL|manoeuvrabilité]] moyenne) s’il porte une armure légère ou non-encombrante, de 6 mètres (manoeuvrabilité médiocre) s’il porte une armure ou une charge intermédiaire ou lourde. Il considère [[Vol]] comme une compétence de classe.

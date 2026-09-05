@@ -48,13 +48,13 @@ Les nécrophages sont des humanoïdes qui ont été arrachés au repos
 ou à cause de leur personnalité extrêmement malveillante. Un
 nécrophage peut également être créé lorsqu’un esprit mort-vivant et
 maléfique fusionne de manière permanente avec un corps (celui d’un
-guerrier décédé bien souvent).
+guerrier décédé bien souvent). 
 
 Ceux qui ont connu le nécrophage de
 son vivant ne parviennent généralement pas à le reconnaître. Ses chairs
 ont été déformées par le mal et la mort-vie, la haine transparaît dans
 ses yeux et ses dents se sont transformées en crocs semblables à ceux
-des bêtes sauvages.
+des bêtes sauvages. 
 
 En un certain sens, les nécrophages constituent le
 chaînon manquant entre les goules et les spectres. Ce sont des cadavres
@@ -63,7 +63,7 @@ Comme les nécrophages n’ont pas besoin de respirer (au même
 titre que tous les autres morts-vivants), on les rencontre parfois sous
 l’eau. Ce ne sont généralement pas de très bons nageurs cependant,
 à l’exception de ceux qui vivaient autrefois dans ce milieu, comme
-les elfes aquatiques et les hommes-poissons.
+les elfes aquatiques et les hommes-poissons. 
 
 Les nécrophages marins préfèrent les grottes au plafond bas, où leurs talents limités
 pour la natation ne les gênent pas trop.
@@ -82,7 +82,7 @@ incapables de créer des rejetons.
 certaines sociétés, ces nécrophages
 particuliers sont créés délibérément pour
 garder les tumulus et les sites où les morts
-sont enterrés.
+sont enterrés. 
 Un nécrophage des cairns est
 un nécrophage « évolué » qui utilise une arme
 pour combattre (généralement une épée) et qui

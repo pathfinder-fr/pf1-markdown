@@ -10,10 +10,10 @@ Categories:
 {s:BDTitre|Bâton de défense|}
 **Aura** [[Abjuration]] puissante ; **NLS** 15 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 62 000 po ; **Poids** 2,5 kg
 (((Description)))
-Le bâton de défense semble normal, mais luit d’une aura magique battant comme un cœur quand on le brandit pour se protéger. Il permet d’utiliser les sorts suivants :
-• *[[bouclier]]* (1 charge)
-• *[[bouclier de la foi]]* (1 charge)
-• *[[bouclier de la Loi]]* (3 charges)
+Le bâton de défense semble normal, mais luit d’une aura magique battant comme un cœur quand on le brandit pour se protéger. Il permet d’utiliser les sorts suivants :  
+• *[[bouclier]]* (1 charge)  
+• *[[bouclier de la foi]]* (1 charge)  
+• *[[bouclier de la Loi]]* (3 charges)  
 • *[[protection dautrui|protection d’autrui]]* (1 charge)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[bouclier]]*, *[[bouclier de la foi]]*, *[[bouclier de la Loi]]*, *[[protection dautrui|protection d’autrui]]*, alignement Loyal ; **Coût** 31 000 po

@@ -85,7 +85,7 @@ Utilisez « inférieures à 20 » de la description sur l’<u>[[adamantium]]</u
 #### Adamantium : Quelle est la solidité d’une arme en métal faite d’adamantium ?
 La réponse est différente si l’arme est entièrement en <u>[[adamantium]]</u>, ou faite en partie d’adamantium et en partie d’un autre matériau.
 
-La [[Exploration#POINTDERESISTANCE|table 7-12]] à la page 175 du Manuel des joueurs liste la [[solidité]] et les [[Exploration#POINTDERESISTANCE|points de résistance]] des armes ordinaires. La table part du principe que l’arme en question est faite de cuir, de bois et/ou d’acier, suivant le plus approprié.
+La [[Exploration#POINTDERESISTANCE|table 7-12]] à la page 175 du Manuel des joueurs liste la [[solidité]] et les [[Exploration#POINTDERESISTANCE|points de résistance]] des armes ordinaires. La table part du principe que l’arme en question est faite de cuir, de bois et/ou d’acier, suivant le plus approprié.  
 Selon la [[Exploration#TABSOLIDITEMATIERES|table 7-13]], l’acier a une solidité de 10, ce qui justifie qu’une arme entièrement faite d’acier ait une solidité de 10.
 
 Les armes avec un manche ont habituellement un manche en bois plutôt qu’en métal. Même une arme avec une tête en acier comme une [[hache darmes (arme)|hache d’armes]] a un manche en bois, donc même si sa tête est faite d’un matériau avec une solidité de 10, sa partie la plus faible est le manche, qui a une solidité de 5, l’arme est donc listée dans la table 7-12 comme ayant une solidité de 5 (parce qu’on part du principe qu’un personnage vise les parties plus vulnérables quand il tente de détruire un objet).
@@ -99,8 +99,8 @@ Notez que le « point faible » d’une arme avec un manche n’affecte pas les 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### --*Amulette des poings invincibles* : Le prix de cet objet est-il correct ?
-L’équipe de conception a décidé de réduire le prix de <u>[[Amulette des poings invincibles|cet objet]]</u>. Les nouveaux prix sont comme suit : 4.000 po (+1), 16.000 po (+2), 36.000 po (+3), 64.000 po (+4), 100.000 po (+5). Par conséquent, cela réduit le coût de fabrication de ces amulettes, comme suit : 2.000 po (+1), 8.000 po (+2), 18.000 po (+3), 32.000 po (+4), 50.000 po (+5).
-Cela rend le prix de cet objet un peu plus compétitif pour les moines et les créatures qui se basent sur les attaques naturelles.
+L’équipe de conception a décidé de réduire le prix de <u>[[Amulette des poings invincibles|cet objet]]</u>. Les nouveaux prix sont comme suit : 4.000 po (+1), 16.000 po (+2), 36.000 po (+3), 64.000 po (+4), 100.000 po (+5). Par conséquent, cela réduit le coût de fabrication de ces amulettes, comme suit : 2.000 po (+1), 8.000 po (+2), 18.000 po (+3), 32.000 po (+4), 50.000 po (+5).  
+Cela rend le prix de cet objet un peu plus compétitif pour les moines et les créatures qui se basent sur les attaques naturelles.  
 Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around). Les prochaines impressions du Manuel des joueurs, du Guide des PNJ, et d’Armes et équipement seront mises à jour avec cette information.-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -111,7 +111,7 @@ Oui. Si l’<u>[[Amulette des poings invincibles|amulette]]</u> confère au moin
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|5}
 #### --*Anneau de contresort* : Contre-t-il les sorts à zone d’effet comme *boule de feu* ?
-L’<u>[[Anneau de contresort|anneau]]</u> affecte uniquement les sorts qui ciblent le porteur, pas les sorts qui l’inclut dans leur zone d’effet. Une interprétation possible est que l’anneau immuniserait le porteur à ce lancement du sort (et le reste de la zone serait affecté normalement), mais cela nécessiterait une explication supplémentaire et créerait des situations étranges où le porteur serait immunisé à *[[contrôle de leau|contrôle de l’eau]]* ou *[[défense magique]]* et serait capable de se déplacer normalement dans de tels effets. À la place, il est plus clair d’admettre que l’anneau n’affecte que les sorts qui ciblent le porteur).
+L’<u>[[Anneau de contresort|anneau]]</u> affecte uniquement les sorts qui ciblent le porteur, pas les sorts qui l’inclut dans leur zone d’effet. Une interprétation possible est que l’anneau immuniserait le porteur à ce lancement du sort (et le reste de la zone serait affecté normalement), mais cela nécessiterait une explication supplémentaire et créerait des situations étranges où le porteur serait immunisé à *[[contrôle de leau|contrôle de l’eau]]* ou *[[défense magique]]* et serait capable de se déplacer normalement dans de tels effets. À la place, il est plus clair d’admettre que l’anneau n’affecte que les sorts qui ciblent le porteur).  
 (Le texte de l’objet magique sera clarifié dans les prochains errata.)-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
@@ -127,7 +127,7 @@ Non, au-delà des moyens décrits dans le *Manuel des joueurs* (si l’arme à d
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### Armes de croc-en-jambe : Si un personnage veut faire une manœuvre de croc-en-jambe, doit-il utiliser une arme avec l’attribut spécial croc-en-jambe ?
-Non. Lorsqu’il fait une manœuvre de [[croc-en-jambe]], le personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial <u>[[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]</u> – il peut utiliser n’importe quelle arme. Par exemple, il peut tenter un croc-en-jambe avec une épée longue ou une attaque à mains nues, même si ces armes n’ont pas l’attribut spécial croc-en-jambe.
+Non. Lorsqu’il fait une manœuvre de [[croc-en-jambe]], le personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial <u>[[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]</u> – il peut utiliser n’importe quelle arme. Par exemple, il peut tenter un croc-en-jambe avec une épée longue ou une attaque à mains nues, même si ces armes n’ont pas l’attribut spécial croc-en-jambe.  
 Notez qu’il y a un avantage à utiliser une arme avec cet attribut spécial (a.k.a. une « arme de croc-en-jambe ») lorsqu’on fait une manœuvre de croc-en-jambe : si l’attaque de croc-en-jambe rate de 10 ou plus, le personnage peut lâcher l’arme de croc-en-jambe plutôt que tomber à terre.
 
 Sur une note similaire, un personnage n’est pas obligé d’utiliser une arme avec l’attribut spécial [[Caractéristiques des armes#DESARMEMENT|désarmement]] (a.k.a. une « arme de désarmement ») lorsqu’il fait une manœuvre de [[désarmement]] – il peut utiliser n’importe quelle arme.
@@ -142,8 +142,8 @@ Comme c’est écrit, non – l’attribut spécial « <u>[[Caractéristiques de
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Armes exotiques et mains : Si une arme est maniée à deux mains comme une arme de guerre et à une main avec une formation au maniement des armes exotiques, puis-je la manier à une main sans formation exotique avec un malus de -4 ?
-Non.
-Notez qu’un personnage ne peut normalement pas manier une arme à deux mains dans une seule main. L’[[épée bâtarde (arme)|épée bâtarde]] est une exception à cette règle précisant qu’on ne peut manier une arme à deux mains dans une seule main, mais un personnage a besoin d’une formation particulière pour pouvoir utiliser l’épée bâtarde de cette façon. Sans cette formation spéciale, manier une épée bâtarde à une main est aussi impossible que de manier une [[épée à deux mains (arme)|épée à deux mains]] dans une seule main.
+Non.  
+Notez qu’un personnage ne peut normalement pas manier une arme à deux mains dans une seule main. L’[[épée bâtarde (arme)|épée bâtarde]] est une exception à cette règle précisant qu’on ne peut manier une arme à deux mains dans une seule main, mais un personnage a besoin d’une formation particulière pour pouvoir utiliser l’épée bâtarde de cette façon. Sans cette formation spéciale, manier une épée bâtarde à une main est aussi impossible que de manier une [[épée à deux mains (arme)|épée à deux mains]] dans une seule main.  
 (La même chose s’applique pour les autres armes avec cette exception à une main <u>[[Caractéristiques des armes#ARMEEXOTIQUE|exotique]]</u>, comme la [[hache darmes naine (arme)|hache d'armes naine]].)
 
 <div style="border-top:1px dashed #4b3124">
@@ -164,7 +164,7 @@ Cela signifie qu’une armure en <u>[[mithral]]</u> permet à son porteur de l�
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|14}
 #### Attaques à mains nues : Dans le cadre de *morsure magique* et d’autres sorts, une attaque à mains nues est-elle le corps entier du personnage, ou est-ce une partie de son corps (comme un poing ou un pied) ?
-Comme c’est écrit, le texte n’est pas aussi clair qu’il pourrait l’être. Puisque *[[morsure magique]]* nécessite que le lanceur choisisse une arme naturelle spécifique à affecter, on pourrait interpréter qu’il implique de le faire pour chaque partie du corps qu’il veut altérer avec le sort (poing, coude, pied, genou, tête, etc). En revanche, aucune mécanique de jeu ne précise quelle partie du corps un moine doit utiliser pour porter une <u>[[Actions simples#ATTAQUEMAINSNUES|attaque à mains nues]]</u> (autre que si le moine tient un objet dans ses mains, il ne peut probablement pas les utiliser pour porter une attaque à mains nues), donc un moine pourrait simplement choisir une partie du corps à altérer avec le sort et constamment utiliser celle-ci, surtout depuis la révision des règles sur le déluge de coups du 4/12/2012 qui permet à un moine d’utiliser son déluge avec la même arme (dans ce cas, une attaque à mains nues) pour toutes les attaques du déluge. Cela signifie qu’il n’existe pas de raison technique qui imposerait à *morsure magique* et aux sorts similaires de cibler précisément une partie du corps pour améliorer les attaques à mains nues. Ainsi, l’attaque à mains nues d’une créature est son corps entier, et une *morsure magique* (ou un sort similaire) lancé sur l’attaque à mains nues d’une créature affecte toutes les attaques à mains nues que la créature porte.
+Comme c’est écrit, le texte n’est pas aussi clair qu’il pourrait l’être. Puisque *[[morsure magique]]* nécessite que le lanceur choisisse une arme naturelle spécifique à affecter, on pourrait interpréter qu’il implique de le faire pour chaque partie du corps qu’il veut altérer avec le sort (poing, coude, pied, genou, tête, etc). En revanche, aucune mécanique de jeu ne précise quelle partie du corps un moine doit utiliser pour porter une <u>[[Actions simples#ATTAQUEMAINSNUES|attaque à mains nues]]</u> (autre que si le moine tient un objet dans ses mains, il ne peut probablement pas les utiliser pour porter une attaque à mains nues), donc un moine pourrait simplement choisir une partie du corps à altérer avec le sort et constamment utiliser celle-ci, surtout depuis la révision des règles sur le déluge de coups du 4/12/2012 qui permet à un moine d’utiliser son déluge avec la même arme (dans ce cas, une attaque à mains nues) pour toutes les attaques du déluge. Cela signifie qu’il n’existe pas de raison technique qui imposerait à *morsure magique* et aux sorts similaires de cibler précisément une partie du corps pour améliorer les attaques à mains nues. Ainsi, l’attaque à mains nues d’une créature est son corps entier, et une *morsure magique* (ou un sort similaire) lancé sur l’attaque à mains nues d’une créature affecte toutes les attaques à mains nues que la créature porte.  
 La description de *morsure magique* sera légèrement mise à jour dans la prochaine version du *Manuel des joueurs* pour prendre cette règle en compte.
 
 <div style="border-top:1px dashed #4b3124">
@@ -225,7 +225,7 @@ Un cas particulier sur la règle de maniement serait une capacité qui permet au
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|22}
 #### Fabrication et conditions de sort : Lorsqu’il fabrique un objet, un lanceur de sorts profanes peut-il utiliser un parchemin divin pour satisfaire la condition de sort divin d’un objet ?
-Oui. (De même, un lanceur de sorts divins peut utiliser un parchemin profane pour satisfaire la <u>[[Création dobjets magiques|condition de sort]]</u> profane d’un objet.)
+Oui. (De même, un lanceur de sorts divins peut utiliser un parchemin profane pour satisfaire la <u>[[Création dobjets magiques|condition de sort]]</u> profane d’un objet.)  
 En revanche, le personnage doit être capable d’activer le parchemin d’une façon ou d’une autre pendant le processus de fabrication. Cela nécessite probablement que le lanceur de sorts profane réussisse un test d’Utilisation d’objets magiques pour activer le sort divin. Si le lanceur ne parvient pas à lancer le sort divin depuis le parchemin, il ne fait aucun progrès sur l’objet ce jour sauf s’il a une autre source pour ce sort divin (comme une autre copie de ce parchemin).
 
 <div style="border-top:1px dashed #4b3124">
@@ -300,6 +300,6 @@ Non. Les <u>*[[Sceptre de métamagie|sceptres de métamagie]]*</u> permettent au
 #### *Tueuse* : Puis-je appliquer plusieurs propriétés spéciales *tueuse* à la même arme ? Si oui, leurs effets se cumulent-ils ?
 Un personnage peut appliquer plusieurs propriétés spéciales <u>*[[tueuse (propriété)|tueuse]]*</u> à la même arme. Par exemple, il peut avoir une *épée longue tueuse de dragons et de fées +1*, ce qui augmente le bonus d’altération et les dégâts contre les dragons et contre les fées.
 
-Si un personnage a plusieurs effets *tueur* sur une arme et attaque une créature contre laquelle plusieurs *tueurs* s’appliquent (comme une arme *tueuse d’extérieurs chaotiques et mauvais* utilisée contre un démon), les effets ne se cumulent pas : le bonus d’altération de l’arme est seulement supérieur de +2 par rapport à son bonus d’altération réel, et elle n’inflige que +2d6 points de dégâts supplémentaires contre cet adversaire.
+Si un personnage a plusieurs effets *tueur* sur une arme et attaque une créature contre laquelle plusieurs *tueurs* s’appliquent (comme une arme *tueuse d’extérieurs chaotiques et mauvais* utilisée contre un démon), les effets ne se cumulent pas : le bonus d’altération de l’arme est seulement supérieur de +2 par rapport à son bonus d’altération réel, et elle n’inflige que +2d6 points de dégâts supplémentaires contre cet adversaire.  
 
 (Comparez cela à l’[[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] du guerrier ou les bonus d’[[Rôdeur#ENNEMIJURE|ennemis jurés]] du rôdeur, les deux indiquent que le personnage utilise le bonus le plus élevé si plusieurs bonus s’appliquent.)

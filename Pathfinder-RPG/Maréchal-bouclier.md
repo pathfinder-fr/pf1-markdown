@@ -22,7 +22,7 @@ Categories:
 | CLASS="gauche" | [[Maréchal-bouclier#SENSDUDANGER|Sens du danger]], [[Maréchal-bouclier#MARECHALPISTOLIER|maréchal-pistolier]]
 |-
 | 3 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[Maréchal-bouclier#RUSELABYRINTHIQUE|Ruse labyrinthique]]
+| CLASS="gauche" | [[Maréchal-bouclier#RUSELABYRINTHIQUE|Ruse labyrinthique]] 
 |- CLASS="alt"
 | 4 || +4 || +2 || +1 || +2
 | CLASS="gauche" | [[Maréchal-bouclier#JUGEMENTLEGAL|Jugement légal]] (2/jour)
@@ -65,7 +65,7 @@ Voici les compétences de classe du maréchal-bouclier : [[Acrobaties]] (Dex), 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de maréchal-bouclier.
 #### Armes et armures
-Un maréchal-bouclier ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un maréchal-bouclier ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|SENSDUDETAIL}
 #### Sens du détail (Ext)

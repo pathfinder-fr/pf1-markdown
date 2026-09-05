@@ -11,13 +11,13 @@ Categories:
 {s:BDTitre|Luth de discorde|{s:AE}}
 **Aura** [[Enchantement]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 37 900 po ; **Poids** 1,5 kg
 (((Caractéristiques)))
-**Alignement** CN ; **Sens** 36 m, vision dans le noir
-**Intelligence** 14 ; **Sagesse** 14 ; **Charisme** 18 ; **Ego** 14
+**Alignement** CN ; **Sens** 36 m, vision dans le noir  
+**Intelligence** 14 ; **Sagesse** 14 ; **Charisme** 18 ; **Ego** 14  
 **Langues** télépathie (commun et 4 autres langues)
 (((Description)))
-Ce luth est un instrument de maître fait d’ébène poli avec des incrustations en nacre et des frettes en or. Les créatures qui en jouent bénéficient d’un bonus de compétence de +2 aux tests de [[Représentation]] (instrument à cordes) car ses doux murmures télépathiques indiquent au musicien comment s’améliorer. Il octroie également les pouvoirs suivants :
-• Si le musicien possède au moins 6 rangs en [[Représentation]] (instrument à cordes), il peut, trois fois par jour et sur commande, jouer un accord qui déclenche un sort d’*[[ordre assassin]]*.
-• Si le musicien possède au moins 6 rangs en [[Représentation]] (instrument à cordes), il peut, trois fois par jour et sur commande, jouer un accord qui déclenche un sort de *[[cacophonie distrayante]]* ([[NLS]] 3).
+Ce luth est un instrument de maître fait d’ébène poli avec des incrustations en nacre et des frettes en or. Les créatures qui en jouent bénéficient d’un bonus de compétence de +2 aux tests de [[Représentation]] (instrument à cordes) car ses doux murmures télépathiques indiquent au musicien comment s’améliorer. Il octroie également les pouvoirs suivants :  
+• Si le musicien possède au moins 6 rangs en [[Représentation]] (instrument à cordes), il peut, trois fois par jour et sur commande, jouer un accord qui déclenche un sort d’*[[ordre assassin]]*.  
+• Si le musicien possède au moins 6 rangs en [[Représentation]] (instrument à cordes), il peut, trois fois par jour et sur commande, jouer un accord qui déclenche un sort de *[[cacophonie distrayante]]* ([[NLS]] 3).  
 • Si le musicien possède au moins 6 rangs en [[Représentation]] (instrument à cordes), il peut, trois fois par jour et sur commande, jouer un accord qui déclenche un sort d’*[[écholocalisation]]* ([[NLS]] 4).
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[cacophonie distrayante]]*, *[[écholocalisation]]*, *[[ordre assassin]]* ; **Coût** 18 950 po

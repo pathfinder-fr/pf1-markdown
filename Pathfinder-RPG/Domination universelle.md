@@ -12,28 +12,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[Registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 créature
-**Durée** 1 jour/[[niveau]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[Registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 créature  
+**Durée** 1 jour/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort est semblable à *[[domination]]*, si ce n’est qu’il n’est pas limité par le type de la cible.
 
 
 
 (((
 ## Domination
-**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
-**Temps d'incantation** 1 [[round]]
-**Composantes** [[composantes|V, G]]
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cible** 1 [[type humanoïde|humanoïde]]
-**Durée** 1 jour/[[niveau]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
+**Temps d'incantation** 1 [[round]]  
+**Composantes** [[composantes|V, G]]  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cible** 1 [[type humanoïde|humanoïde]]  
+**Durée** 1 jour/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Grâce à ce sort, le personnage peut contrôler les actions d’une créature [[type humanoïde|humanoïde]] via le lien télépathique qui s’établit entre eux.
 
 Si le personnage parle un langage que la créature comprend, il peut généralement la forcer à agir selon ses désirs (en restant dans les limites des possibilités de la créature). Si ce n’est pas le cas, il ne peut lui donner que des instructions simples telles que « Viens ici », « Va là-bas », « Combats » ou « Ne bouge pas ». Il sait ce que la créature éprouve mais ne reçoit aucune information sensorielle directe de sa part, et la créature ne peut pas lui envoyer des messages télépathiques.

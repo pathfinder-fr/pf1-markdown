@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Almas (ville)|[[Andoran]]|[[Région dAlmas|Région d'Almas]]|NB|Gouvernement démocratique|16 000 po|76 600 (métropole)|53,088 humains, 6,894 halfelins, 6,128 nains, 5,362 elfes, 3,830 demi-orques, 1, 532 gnomes, 766 autres|• **Codwin 1er d'[[Augustana]]**, élu suprême des peuples Libres de l'[[Andoran]] (humain m, LB, paladin de [[Iomédae]] 14)
-• **Darius Chaussargent**, évêque (humain m, prêtre d'[[Abadar]])
-• **Reginald Cormath**, général des chevaliers de l'aigle (humain m, LB, paladin de [[Iomédae]] 12)
+{s:Communauté|Almas (ville)|[[Andoran]]|[[Région dAlmas|Région d'Almas]]|NB|Gouvernement démocratique|16 000 po|76 600 (métropole)|53,088 humains, 6,894 halfelins, 6,128 nains, 5,362 elfes, 3,830 demi-orques, 1, 532 gnomes, 766 autres|• **Codwin 1er d'[[Augustana]]**, élu suprême des peuples Libres de l'[[Andoran]] (humain m, LB, paladin de [[Iomédae]] 14)  
+• **Darius Chaussargent**, évêque (humain m, prêtre d'[[Abadar]])  
+• **Reginald Cormath**, général des chevaliers de l'aigle (humain m, LB, paladin de [[Iomédae]] 12)  
 • **Jhonn Bleys**, commandant de la garde civile et des milices environnantes (demi-elfe m, NB, rôdeur 8)}Almas est la capitale de la nation libre de l'[[Andoran]] et l'une des villes les plus grandes et les plus influentes de la [[mer Intérieure]]. À bien des égards, l'égalitarisme et le multiculturalisme de la ville sont les parfaits exemples des préjugés sur la société andorane en général.
 
 #### Histoire

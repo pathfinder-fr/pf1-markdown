@@ -7,7 +7,7 @@ Categories:
 - Src Paths of Prestige
 ---
 
-{s:MenuClassesDePrestige}{s:cs}{s:PP}''Parmi ceux qui cherchent à maîtriser l’art de l’illusion, beaucoup se tournent vers la déesse des illusions, des mystères, des reflets et des voiles. Elle récompense les plus dévoués, ceux qui possèdent de grands talents dans cet art ou simplement ceux qui attirent son œil par de puissantes connaissances sur la nature de l’illusion et de la tromperie. Ces rares personnes sont appelées “illusionnistes voilés”, les disciples privilégiés de la déesse des illusions.
+{s:MenuClassesDePrestige}{s:cs}{s:PP}''Parmi ceux qui cherchent à maîtriser l’art de l’illusion, beaucoup se tournent vers la déesse des illusions, des mystères, des reflets et des voiles. Elle récompense les plus dévoués, ceux qui possèdent de grands talents dans cet art ou simplement ceux qui attirent son œil par de puissantes connaissances sur la nature de l’illusion et de la tromperie. Ces rares personnes sont appelées “illusionnistes voilés”, les disciples privilégiés de la déesse des illusions. 
 
 Bien que très doués dans toutes les formes d’illusions, les illusionnistes voilés excellent principalement quand ils lancent des hallucinations - des sorts qui changent ou cachent la vraie forme de l’illusionniste. La plupart des illusionnistes voilés n’aiment pas maintenir un même déguisement sur une longue durée. À la place, ils préfèrent changer d’apparence chaque jour, ou même chaque heure. Cela rend l’intégration en société compliquée pour eux et la plupart deviennent des vagabonds, prenant un nouveau visage à chaque village qu’ils visitent.''
 
@@ -130,9 +130,9 @@ Bien que très doués dans toutes les formes d’illusions, les illusionnistes v
 **Dé de vie** d6.
 
 ### Conditions requises
-Pour devenir un illusionniste voilé, il faut satisfaire aux conditions suivantes.
+Pour devenir un illusionniste voilé, il faut satisfaire aux conditions suivantes. 
 
-**Dons.** [[École Renforcée]] (Illusion)
+**Dons.** [[École Renforcée]] (Illusion) 
 
 **Compétences.** 5 rangs en [[Bluff]], 2 rangs en [[Connaissances]] (mystères), 5 rangs en [[Déguisement]]
 
@@ -145,23 +145,23 @@ Voici les compétences de classe de l’illusionniste voilé : [[Art de la magi
 
 ### Caractéristiques de classe
 #### Armes et armures
-Un illusionniste voilé ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un illusionniste voilé ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|RESERVEDEVOILES}
 #### Réserve de voiles (Mag)
-Un illusionniste voilé tire sa puissance d’une réserve d’énergie magique afin de renforcer ses illusions. Cette réserve de voiles contient un nombre de points égal à son niveau de classe + son modificateur de [[Sagesse]], d'[[Intelligence]] ou de [[Charisme]] (le personnage fait son choix au premier niveau, il ne peut pas changer ensuite). La réserve se renouvelle une fois par jour lorsque l’illusionniste prépare ses sorts ou récupère ses emplacements de sort.
+Un illusionniste voilé tire sa puissance d’une réserve d’énergie magique afin de renforcer ses illusions. Cette réserve de voiles contient un nombre de points égal à son niveau de classe + son modificateur de [[Sagesse]], d'[[Intelligence]] ou de [[Charisme]] (le personnage fait son choix au premier niveau, il ne peut pas changer ensuite). La réserve se renouvelle une fois par jour lorsque l’illusionniste prépare ses sorts ou récupère ses emplacements de sort. 
 
-Par une [[action simple]], l’illusionniste voilé peut dépenser 1 point de sa réserve de voiles pour changer son apparence comme avec un sort de *[[sort déguisement|déguisement]]*. C’est un effet d’[[branche hallucination|hallucination]] qui dure un nombre d’heures égal à son niveau de classe d’illusionniste voilé. Le [[DD]] pour dévoiler l’illusion est de 15 + le nombre de points restants dans la réserve de voiles de l'illusionniste.
+Par une [[action simple]], l’illusionniste voilé peut dépenser 1 point de sa réserve de voiles pour changer son apparence comme avec un sort de *[[sort déguisement|déguisement]]*. C’est un effet d’[[branche hallucination|hallucination]] qui dure un nombre d’heures égal à son niveau de classe d’illusionniste voilé. Le [[DD]] pour dévoiler l’illusion est de 15 + le nombre de points restants dans la réserve de voiles de l'illusionniste. 
 
 Au niveau 3, l’illusionniste voilé peut altérer ses propriétés auditives (son) perçues lorsqu'il porte son *déguisement*.
 
 Au niveau 5, l’illusionniste voilé peut aussi changer ses propriétés tactiles (toucher) ressenties et peut imiter n’importe quelle voix qui lui est familière.
 
-Au niveau 9, l’illusionniste voilé peut même tromper les sens extraordinaires, tels que l’[[Odorat (capacité)|odorat]], la [[Vision aveugle (capacité)|vision aveugle]] ou la [[Perception des vibrations (capacité)|perception des vibrations]].
+Au niveau 9, l’illusionniste voilé peut même tromper les sens extraordinaires, tels que l’[[Odorat (capacité)|odorat]], la [[Vision aveugle (capacité)|vision aveugle]] ou la [[Perception des vibrations (capacité)|perception des vibrations]]. 
 
 {s:reference|VOILESDELADEESSE}
 #### Voiles de la déesse
-Un illusionniste voilé apprend à se dissimuler sous les formes préférées de la déesse des illusions : humain, halfelin, elfe, gnome, cyclope et naga. Une fois que l’illusionniste apprend un voile, il peut dépenser 1 point de sa [[Illusionniste voilé#RESEREDEVOILES|réserve de voiles]] pour prendre l'apparence d'un membre de la race de ce voile, comme s'il utilisait le sort *[[sort déguisement|déguisement]]*, même si cela devrait normalement dépasser les limitations du sort. Lorsqu’il prend l'apparence de l’une de ces races, il gagne un bonus supplémentaire à son test de [[Déguisement]] égal à son niveau de classe. Chaque voile donne également un pouvoir supplémentaire à l’illusionniste. Prendre l’aspect d’un autre voile alors que l’illusionniste est toujours sous l’effet de son pouvoir magique de *déguisement* ne coûte qu’une [[action libre]], et ne coûte aucun point de la réserve de voiles.
+Un illusionniste voilé apprend à se dissimuler sous les formes préférées de la déesse des illusions : humain, halfelin, elfe, gnome, cyclope et naga. Une fois que l’illusionniste apprend un voile, il peut dépenser 1 point de sa [[Illusionniste voilé#RESEREDEVOILES|réserve de voiles]] pour prendre l'apparence d'un membre de la race de ce voile, comme s'il utilisait le sort *[[sort déguisement|déguisement]]*, même si cela devrait normalement dépasser les limitations du sort. Lorsqu’il prend l'apparence de l’une de ces races, il gagne un bonus supplémentaire à son test de [[Déguisement]] égal à son niveau de classe. Chaque voile donne également un pouvoir supplémentaire à l’illusionniste. Prendre l’aspect d’un autre voile alors que l’illusionniste est toujours sous l’effet de son pouvoir magique de *déguisement* ne coûte qu’une [[action libre]], et ne coûte aucun point de la réserve de voiles. 
 - ***Humain.*** Au niveau 1, un illusionniste voilé peut sélectionner un sort de l’école de l’[[illusion]] de la [[Liste des sorts densorceleursmagiciens|liste de sorts de l’ensorceleurs/magiciens]] d’un niveau qu’il peut lancer et l’ajouter à la liste de sorts de sa classe au même niveau. Si le sort est déjà sur sa liste, l’illusionniste l’ajoute à son grimoire, à son familier ou à sa liste de sorts connus. Chaque fois que l’illusionniste gagne un niveau, il peut sélectionner un sort d’illusion supplémentaire.
 
 - ***Halfelin.*** Au niveau 2, un illusionniste voilé peut dépenser 1 point de sa réserve de voiles par une [[action libre]] tout en incantant un sort d’[[illusion]] pour masquer son incantation. Les créatures qui tentent d’identifier le sort en pleine incantation doivent d’abord réussir un jet de [[Volonté]] ([[DD]] 15 + nombre de points restants dans la réserve de voiles de l'illusionniste) ou penser que le sort en est un autre, aux choix de l’illusionniste. Le sort illusoire doit être du même niveau que le sort réel et l’illusionniste doit être capable de le lancer. 
@@ -180,7 +180,7 @@ Au niveau 5, un illusionniste voilé peut revêtir ou modifier le *déguisement*
 
 {s:reference|VERITABLEVOILE}
 #### Véritable voile
-Au niveau 10, un illusionniste voilé peut dépenser 1 point de sa [[Illusionniste voilé#RESERVEDEVOILES|réserve de voiles]] pour ancrer son *déguisement* dans la réalité. Le pouvoir magique *déguisement* de l'illusionniste est traité comme un effet de [[branche métamorphose|métamorphose]], bien qu'il reste associé à l’école de l’illusion et gagne le [[registre]] de l'ombre. Les autres créatures n’ont plus le droit à un jet de [[Volonté]] pour reconnaître l’effet comme une illusion mais elles peuvent toujours faire un test de [[Perception]] pour essayer de réaliser que l’illusionniste voilé porte un déguisement.
+Au niveau 10, un illusionniste voilé peut dépenser 1 point de sa [[Illusionniste voilé#RESERVEDEVOILES|réserve de voiles]] pour ancrer son *déguisement* dans la réalité. Le pouvoir magique *déguisement* de l'illusionniste est traité comme un effet de [[branche métamorphose|métamorphose]], bien qu'il reste associé à l’école de l’illusion et gagne le [[registre]] de l'ombre. Les autres créatures n’ont plus le droit à un jet de [[Volonté]] pour reconnaître l’effet comme une illusion mais elles peuvent toujours faire un test de [[Perception]] pour essayer de réaliser que l’illusionniste voilé porte un déguisement. 
 
 S’il s'est déguisé en humanoïde en utilisant sa capacité réserve de voiles, l’illusionniste gagne l’effet du sort *[[modification dapparence|modification d’apparence]]*. S’il est déguisé en Cyclope ou en Naga, il gagne un bonus de taille de +4 à la [[Force]], un malus de -2 à sa [[Dextérité]], un bonus d’armure naturelle de +4 et n’importe quelle capacité possédée par la créature dont l’illusionniste a pris la forme, parmi la liste suivante : crachat, creusement 9 m (6 {s:c}), escalade 27 m, [[Férocité (capacité)|férocité]], nage 27 m (18 {s:c}), [[Poison (capacité)|Poison]], protection des pensées, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]], vol 27 m (18 {s:c}) (manœuvrabilité bonne).
 

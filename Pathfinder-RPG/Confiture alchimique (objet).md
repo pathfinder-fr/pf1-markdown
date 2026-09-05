@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20  
 <span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
----
+<hr />
 Ces petites boîtes de confiture spécialement traitée contiennent juste assez de marmelade pour fournir une dose revitalisante à un [[halfelin]]. N’importe quelle créature peut manger cette confiture par une [[action simple]], mais elle ne bénéficie qu’aux halfelins. Elle dissipe la [[fatigué|fatigue]] chez ces derniers, mais rend les autres créatures [[fiévreux|fiévreuses]] pendant 1 [[round]].

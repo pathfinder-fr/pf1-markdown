@@ -12,12 +12,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (une rune complexe inscrite sur un morceau de papier placé sous la langue du lanceur)
-**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
-**Cibles** le lanceur de sort et une créature consentante/2 niveaux, chacune se trouvant à 9 m ou moins l'une de l'autre
-**Durée** 10 minutes/niveau (T)
+{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (une rune complexe inscrite sur un morceau de papier placé sous la langue du lanceur)  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
+**Cibles** le lanceur de sort et une créature consentante/2 niveaux, chacune se trouvant à 9 m ou moins l'une de l'autre  
+**Durée** 10 minutes/niveau (T)  
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Lorsque le personnage lance ce sort, toutes les cibles deviennent capable de parler une nouvelle langue. Cette langue semble aléatoire, comme une suite de syllabes balbutiées pour quiconque n'est pas sous l'effet du sort, mais toutes les cibles se comprennent parfaitement.

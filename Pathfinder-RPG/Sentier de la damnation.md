@@ -11,13 +11,13 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:MR}**École** [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Cible** lanceur de sort (téléportation) et créatures dans un [[Présentation des sorts#DEFRAYONNEMENT|rayon]] de 3 mètres (voir description)
-**Durée** [[Présentation des sorts#DUREE|instantanée]]
+{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:MR}**École** [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Cible** lanceur de sort (téléportation) et créatures dans un [[Présentation des sorts#DEFRAYONNEMENT|rayon]] de 3 mètres (voir description)  
+**Durée** [[Présentation des sorts#DUREE|instantanée]]  
 **Jet de sauvegarde** non ; **Résistance à la magie** non
----
+<hr />
 Ce sort fonctionne comme *[[porte dimensionnelle]]* à la seule différence que le lanceur de sorts laisse une explosion de feu derrière lui. Il désigne un coin de sa case de départ : une explosion de flammes de 3 mètres de [[Présentation des sorts#DEFRAYONNEMENT|rayon]] jaillit de ce coin au moment où le lanceur de sorts quitte sa position, infligeant 4d6 points de dégâts de feu.
 
 ### Version mythique
@@ -29,14 +29,14 @@ Ce sort fonctionne comme *[[porte dimensionnelle]]* à la seule différence que 
 
 (((
 ## Porte dimensionnelle
-**École** [[Invocation]] ([[téléportation]]) ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V]]
-**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
-**Cibles** le jeteur de sorts et les créatures consentantes ou les objets touchés
-**Durée** [[instantanée]]
+**École** [[Invocation]] ([[téléportation]]) ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V]]  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
+**Cibles** le jeteur de sorts et les créatures consentantes ou les objets touchés  
+**Durée** [[instantanée]]  
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui ou non (objet)
----
+<hr />
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#24|→]] *Porte dimensionnelle* : Si le lanceur amène d’autres créatures avec lui quand il incante ce sort, les passagers sont-ils incapables d’entreprendre une autre action jusqu’à leur prochain tour, ou est-ce uniquement le cas pour le lanceur ?***
 
 Cette restriction ne s’applique qu’au lanceur. *(Retour au <u>[[Porte dimensionnelle|sort]]</u>)*}Cette incantation permet de se déplacer instantanément jusqu’à un point situé à portée. Le personnage arrive toujours à l’endroit choisi, soit en le visualisant, soit en indiquant ses coordonnées. Après avoir utilisé ce sort, le personnage ne peut rien faire avant son prochain tour de jeu. Il peut emporter des objets si leur poids total ne dépasse pas sa [[charge maximale]]. Il peut aussi emmener une créature consentante de [[taille M]] ou inférieure (qui porte un équipement ou des objets qui ne dépassent pas sa [[charge maximale]]) ou son équivalent par tranche de trois [[NLS|niveaux de lanceur de sorts]]. Une créature de [[taille G]] compte comme deux créatures de [[taille M]], une créature de [[taille TG]] comme deux de [[taille G]], etc. Toutes les créatures transportées doivent être en contact les unes avec les autres et l'une d’elles au moins doit toucher le personnage.

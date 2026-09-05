@@ -12,26 +12,26 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sanguin|San]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[Composantes|V, G, M]] (un zeste de citron)
-**Portée** [[personnelle]]
-**Cible** lanceur de sorts
+{s:UM}**École** [[évocation]] <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sanguin|San]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[Composantes|V, G, M]] (un zeste de citron)  
+**Portée** [[personnelle]]  
+**Cible** lanceur de sorts  
 **Durée** 1 [[round]]/[[niveau]] (T)
----
+<hr />
 Ce sort fonctionne comme *[[bouclier de feu]]* mais il enveloppe le personnage d’une brume acide verte ou jaune et non de flammes brûlantes ou glacées. Le sort inflige des dégâts d’acide aux attaquants et protège le personnage contre ces mêmes dégâts. Ce sort n’émet pas de lumière.
 
 
 
 (((
 ## Bouclier de feu
-**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]] ou [[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (un peu de phosphore pour le *bouclier chaud* ; une luciole ou un ver luisant pour le *bouclier froid*)
-**Portée** [[personnelle]]
-**Cible** le jeteur de sorts
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]] ou [[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (un peu de phosphore pour le *bouclier chaud* ; une luciole ou un ver luisant pour le *bouclier froid*)  
+**Portée** [[personnelle]]  
+**Cible** le jeteur de sorts  
 **Durée** 1 [[round]]/[[niveau]] (T)
----
+<hr />
 Ce sort cerne le personnage d’un rideau de flammes qui inflige des dégâts à quiconque le touche au corps à corps. Les flammes le protègent également des attaques à base de froid ou de feu, le choix devant être fait au moment de l’incantation.
 
 Toute créature touchant le lanceur de sorts à l’aide d’une arme naturelle ou de corps à corps lui cause des dégâts normaux, mais elle perd 1d6 points de vie, +1 par [[NLS|niveau de lanceur de sorts]] (+15 maximum). Selon la version de bouclier choisie, ce sont des dégâts de feu ou de froid. La [[RM|résistance à la magie]] de la créature la protège normalement contre cette attaque. Les armes bénéficiant d’une [[allonge]] exceptionnelle, telles que la pique, n’exposent pas leur utilisateur aux effets de *bouclier de feu*.

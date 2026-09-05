@@ -15,12 +15,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 4
-**Temps d’incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, M]] (sphère de verre creuse ou attrape-rêves)
-**Portée** [[contact]]
-**Cible** créature touchée
-**Durée** 1 heure/[[niveau]]
+{s:cs}{s:OO}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 4  
+**Temps d’incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, M]] (sphère de verre creuse ou attrape-rêves)  
+**Portée** [[contact]]  
+**Cible** créature touchée  
+**Durée** 1 heure/[[niveau]]  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
 Le personnage protège l'esprit de la cible contre les suggestions et les influences lorsqu'elle est inconsciente. Quand elle dort, la cible est protégée contre les sorts de divination comme *[[antidétection]]* et elle obtient une [[RM|résistance à la magie]] de 10 + le [[NLS|niveau de lanceur de sorts]] du personnage contre les [[registre|effets mentaux]]. De plus, la cible a immédiatement droit à un nouveau [[jds|jet de sauvegarde]] (si elle y avait droit au départ) contre n'importe quel sort qui l'aurait possédée ou qui exercerait un contrôle mental manifeste sur elle. Cela fonctionne comme le second effet de *[[protection contre le Mal]]* sauf qu'il s'applique quelque soit l'alignement de la créature ou de l'objet qui a initié la possession ou l'effet de contrôle mental.

@@ -21,6 +21,6 @@ Categories:
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir description) ; **Résistance à la magie** oui
 
 
-Le personnage dégage une aura qui sape la force des autres membres de son espèce et la lui transfère. À chaque fois qu’une créature possédant le même type et au moins un même sous-type (le cas échéant) que le personnage commence son tour au sein de son aura, elle doit réussir un jet de Vigueur ou subir 1d4 points de dégâts. Le personnage gagne un nombre de points de vie temporaires égal à la quantité de dégâts infligés par le sort (au maximum 10 + niveau de lanceur de sorts). Ces points de vie temporaires se dissipent dès que le sort se termine.
+Le personnage dégage une aura qui sape la force des autres membres de son espèce et la lui transfère. À chaque fois qu’une créature possédant le même type et au moins un même sous-type (le cas échéant) que le personnage commence son tour au sein de son aura, elle doit réussir un jet de Vigueur ou subir 1d4 points de dégâts. Le personnage gagne un nombre de points de vie temporaires égal à la quantité de dégâts infligés par le sort (au maximum 10 + niveau de lanceur de sorts). Ces points de vie temporaires se dissipent dès que le sort se termine. 
 
 Tant que le sort est actif et que le personnage a au moins 5 points de vie temporaires, il gagne un bonus de compétence de +1 aux jets d’attaque, aux jets de sauvegarde et aux tests de compétence. S’il a 15 points de vie temporaires ou plus, ce bonus passe à +2.

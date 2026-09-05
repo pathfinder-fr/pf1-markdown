@@ -12,14 +12,14 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Occultiste|Occ]] 3, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 4
-**Temps d’incantation** 10 minutes
-**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 500 po)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+{s:UM}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Occultiste|Occ]] 3, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 4  
+**Temps d’incantation** 10 minutes  
+**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 500 po)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], voir texte)
----
+<hr />
 Ce sort fonctionne comme *[[symbole de mort]]* mais toutes les créatures situées à moins de 18 mètres (12 {s:c}) du *symbole de guérison* baignent dans l’énergie positive et guérissent de 2d8 points + 1 point de dégâts par [[NLS|niveau de lanceur de sorts]] (+15 au maximum). Les [[type mort-vivant|morts-vivants]] et les autres créatures blessées par l’énergie positive subissent 2d8 points de dégâts + 1 par [[NLS|niveau de lanceur de sorts]] (+15 au maximum). Un jet de [[Volonté]] réussi permet de réduire ces dégâts de moitié. Le symbole ne soigne ou ne blesse une créature qu’une fois par 24 heures. Une fois le symbole déclenché, il reste actif pendant 10 minutes par [[NLS|niveau de lanceur de sorts]].
 
 On peut rendre le *symbole de guérison* permanent à l’aide d’un sort de *[[permanence]]* si le lanceur de sorts est de [[NLS|niveau]] 10 ou plus et s’il paie 10 000 po.
@@ -28,14 +28,14 @@ On peut rendre le *symbole de guérison* permanent à l’aide d’un sort de *[
 
 (((
 ## Symbole de mort
-**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)
-**Portée** 0 m (voir texte)
-**Cible** 1 symbole
-**Durée** voir texte
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Sorcière|Sor]] 8  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (du mercure et du phosphore ainsi qu’un diamant et une opale en poudre d’une valeur de 5 000 chacun)  
+**Portée** 0 m (voir texte)  
+**Cible** 1 symbole  
+**Durée** voir texte  
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
----
+<hr />
 Ce sort permet de tracer une puissante rune. Les créatures comprises dans un [[rayonnement]] de 18 m (12 {s:c}) de rayon et dont les [[points de vie]] actuels combinés ne dépassent pas 150 meurent si elles ratent leur jet de [[Vigueur]]. Les créatures les plus proches sont affectées les premières et le sort ignore celles qui ont trop de [[points de vie]] pour être affectées. Une fois le symbole activé, il se met à luire et persiste pendant dix minutes par [[NLS|niveau de lanceur de sorts]] ou jusqu’à avoir tué un nombre de créatures dont le total de [[points de vie]] ne dépasse pas 150. Toute créature qui entre dans la zone est soumise à l’effet du symbole. Tant qu’elle reste dans la zone, elle ne doit faire qu’un seul [[jet de sauvegarde]], par contre, si elle la quitte et y revient ensuite, elle doit en faire un nouveau.
 
 Tant qu’il n’est pas déclenché, le *symbole de mort* demeure inactif (bien qu’on le voie nettement à dix-huit mètres (12 {s:c})). Pour être vraiment efficace, un symbole doit être bien en vue. Si la rune est masquée, le sort cesse temporairement de faire effet.

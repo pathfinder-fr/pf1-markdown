@@ -7,8 +7,8 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 25 po ; **Poids** 2,5 kg ; **Groupes** —
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** 3 m (2 c) ; **Type** C ou T ; **Spécial** —
+{s:cs}{s:AA}**Prix** 25 po ; **Poids** 2,5 kg ; **Groupes** —  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** 3 m (2 c) ; **Type** C ou T ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 Cette arme polyvalente ressemble à une hache à tête lourde, mais un porteur compétent peut utiliser l'arrière de la tête pour infliger des dégâts contondants.

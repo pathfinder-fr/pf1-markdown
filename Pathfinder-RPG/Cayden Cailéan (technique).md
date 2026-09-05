@@ -36,18 +36,18 @@ Chanter une chanson à la gloire de la liberté, de la bravoure et de son dieu (
 : **3.** ***Chance critique (Ext).*** Le personnage note chaque fois qu'il obtient un 1 naturel sur un [[jds|jet d'attaque]], jusqu'à un nombre maximum égal à son bonus de [[Charisme]]. Dès qu'il obtient un [[coup critique|critique potentiel]] sur un jet d'attaque, le personnage peut échanger l'un de ces 1 naturels comptabilisés pour confirmer automatiquement le coup critique. Ce nombre est remis à zéro chaque jour, et tout 1 naturel comptabilisé la veille est perdu.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([[barde]]).**
+**Lancement de sorts ([[barde]]).**  
 • *[[Déblocage]]* peut être préparé comme un sort de 1er niveau (uniquement pour ouvrir des liens, des menottes ou des chaînes utilisées pour emprisonner ou autrement entraver une personne).
 
-**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**
-• *[[Création deau|Création d'eau]]* peut être préparé comme une oraison (peut créer une bière ou un vin commun, 1 choppe/niveau).
-• *[[Création de nourriture et deau|Création de nourriture et d'eau]]* peut être préparé comme un sort de 3e niveau (peut créer de la bière ou du vin plutôt que de l'eau, qui se gâte aussi vite que la nourriture).
+**Lancement de sorts ([[inquisiteur]]/[[prêtre]]/[[prêtre combattant]]).**  
+• *[[Création deau|Création d'eau]]* peut être préparé comme une oraison (peut créer une bière ou un vin commun, 1 choppe/niveau).  
+• *[[Création de nourriture et deau|Création de nourriture et d'eau]]* peut être préparé comme un sort de 3e niveau (peut créer de la bière ou du vin plutôt que de l'eau, qui se gâte aussi vite que la nourriture).  
 • *[[Déblocage]]* peut être préparé comme un sort de 1er niveau (uniquement pour ouvrir des liens, des menottes ou des chaînes utilisées pour emprisonner ou autrement entraver une personne).
 
-**Convocations étendues.**
-• *[[Convocation de monstres II]].* [[Chien de selle|Molosse de cay]] [[Archétypes#CREATURECELESTE|céleste]] - CB (utilise les statistiques du chien de selle)
-• *[[Convocation de monstres III]].* [[Satyre]] - CB (sans flûtes)
-• *[[Convocation de monstres V]].* [[Oxydeur]] - N
+**Convocations étendues.**  
+• *[[Convocation de monstres II]].* [[Chien de selle|Molosse de cay]] [[Archétypes#CREATURECELESTE|céleste]] - CB (utilise les statistiques du chien de selle)  
+• *[[Convocation de monstres III]].* [[Satyre]] - CB (sans flûtes)  
+• *[[Convocation de monstres V]].* [[Oxydeur]] - N  
 • *[[Convocation de monstres V]].* [[Satyre]] - CB (avec flûtes)
 
 ### Options de personnage thématiques

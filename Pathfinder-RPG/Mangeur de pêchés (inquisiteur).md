@@ -26,7 +26,7 @@ Au niveau 8, quand l’inquisiteur mange les péchés d’une créature qui devr
 Ce pouvoir remplace un [[inquisiteur#DOMAINE|domaine]] d’inquisiteur.
 
 #### Communication avec les morts (Mag)
-Au niveau 6, quand l’inquisiteur dévore les péchés d’un ennemi, il peut, dans les 10 minutes qui suivent, poser des questions à son âme, comme s’il utilisait *[[communication avec les morts]]* avec un [[NLS|niveau de lanceur de sorts]] égal à son niveau d’inquisiteur.
+Au niveau 6, quand l’inquisiteur dévore les péchés d’un ennemi, il peut, dans les 10 minutes qui suivent, poser des questions à son âme, comme s’il utilisait *[[communication avec les morts]]* avec un [[NLS|niveau de lanceur de sorts]] égal à son niveau d’inquisiteur. 
 
 Il n’a pas besoin de disposer du cadavre ennemi (il peut manger les péchés, s’éloigner et utiliser ensuite *[[communication avec les morts]]*). L’âme a droit à un [[jet de sauvegarde]], comme le cadavre. Ce pouvoir remplace le don supplémentaire de [[Don#DONEQUIPE|travail en équipe]] du niveau 6.
 

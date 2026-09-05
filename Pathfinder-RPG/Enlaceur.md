@@ -49,7 +49,7 @@ ressembler comme deux gouttes d’eau à une stalagmite de pierre ou
 de glace (ou, dans les endroits où le plafond est bas, à un pilier de
 pierre ou de glace). Lorsqu’il se trouve dans un lieu sans champs de
 formations rocheuses ou gelées pour se cacher, l’enlaceur compresse
-son corps en une forme trapue ressemblant à un gros rocher.
+son corps en une forme trapue ressemblant à un gros rocher. 
 
 Les filaments qui partent de ses flancs ne sont pas faits de chair mais
 d’une épaisse substance semi-liquide similaire à de la cire fondue,
@@ -64,7 +64,7 @@ les cavernes souterraines. Ils ne se rassemblent pas en grandes
 communautés (certains enlaceurs vivent cependant auprès
 d’autres habitants souterrains comme les dévoreurs d’intellect
 ou les néothélides, avec lesquels quelques-uns se sont même
-alliés). Par contre, ils forment souvent de petits groupes.
+alliés). Par contre, ils forment souvent de petits groupes. 
 
 Ils sont particulièrement intéressés par la philosophie de la vie et de la mort
 et par les détails des religions les plus cruelles et les plus sinistres.
@@ -73,7 +73,7 @@ ou en discuter avec ceux qu’ils pensaient tout d’abord simplement
 dévorer. Certains récits parlent de philosophes et d’individus très
 doués pour les débats que des groupes d’enlaceurs auraient gardés
 en vie pendant plusieurs jours ou même plusieurs années comme
-animaux domestiques ou compagnons de conversation.
+animaux domestiques ou compagnons de conversation. 
 
 Mais, si ces « animaux domestiques » ne parviennent pas à s’échapper, l’appétit
 des enlaceurs prend tôt ou tard le pas sur leur curiosité intellectuelle,

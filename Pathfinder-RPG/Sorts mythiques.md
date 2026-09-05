@@ -196,13 +196,13 @@ Cette rubrique décrit de nouveaux sorts qui affectent les règles ou les créat
 **Amplifié.** Comme tous les sorts mythiques concernés, si un sort possède une version amplifiée, celle-ci est expliquée dans la description du sort.
 
 <div class="article_3col">
-[[Sort Ascension|Ascension]],
-[[Gloire dépréciée]],
-[[Gloire partagée]],
-[[Immortalité]],
-[[Restauration de pouvoir mythique]],
-[[Rupture mythique]],
-[[Terraformation]],
-[[Transfert de voie]],
+[[Sort Ascension|Ascension]],  
+[[Gloire dépréciée]],  
+[[Gloire partagée]],  
+[[Immortalité]],  
+[[Restauration de pouvoir mythique]],  
+[[Rupture mythique]],  
+[[Terraformation]],  
+[[Transfert de voie]],  
 [[Vol de pouvoir]].
 </div>

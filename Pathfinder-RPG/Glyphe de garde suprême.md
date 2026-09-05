@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 6
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (Le [[prêtre]] trace le glyphe à l’aide d’un bâtonnet d’encens qu’il a auparavant recouvert de poudre de diamant (valeur 400 po minimum))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]
-**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 6  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (Le [[prêtre]] trace le glyphe à l’aide d’un bâtonnet d’encens qu’il a auparavant recouvert de poudre de diamant (valeur 400 po minimum))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]  
+**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non (objet) et oui (voir texte)
----
+<hr />
 Ce sort fonctionne comme *[[glyphe de garde]]*, si ce n’est que son explosion inflige jusqu’à 10d8 points de dégâts et qu’il peut être associé à un sort du 6e niveau ou d’un niveau inférieur.
 
 Le personnage peut identifier un *glyphe de garde suprême* à l’aide d’une *[[lecture de la magie]]* s’il réussit un test d’[[Art de la magie]] [[DD]] 16.
@@ -28,14 +28,14 @@ Le personnage peut identifier un *glyphe de garde suprême* à l’aide d’une 
 
 (((
 ## Glyphe de garde
-**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3
-**Temps d'incantation** 10 minutes
-**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))
-**Portée** [[Présentation des sorts#PORTEE|contact]]
-**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]
-**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])
+**École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3  
+**Temps d'incantation** 10 minutes  
+**Composantes** [[composantes|V, G, M]] (poudre de diamant (200 po))  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
+**Cible ou zone d’effet** objet touché ou jusqu’à 0,5 m²/[[niveau]]  
+**Durée** [[permanente]] jusqu’au déclenchement ([[Présentation des sorts#DUREE|T]])  
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non (objet) et oui (voir texte)
----
+<hr />
 La puissante inscription magique créée par ce sort affecte toute personne qui pénètre dans la zone ou tente d’ouvrir l’objet qu’elle protège. Le *glyphe de garde* peut être utilisé pour défendre un pont, un passage ou un accès, ou encore pour piéger un coffre ou un container par exemple.
 
 Le lanceur du sort spécifie les conditions de déclenchement du glyphe. Le plus souvent, l’effet magique du glyphe affecte toute créature qui pénètre dans la zone ou ouvre l’objet protégé sans prononcer un mot de passe choisi par le personnage lors de l’incantation. En plus du mot de passe (ou à la place de celui-ci), le lanceur du sort peut utiliser des conditions basées sur les caractéristiques physiques des créatures (comme la taille ou le poids) ou encore sur leur type, sous-type ou espèce. Les conditions peuvent également évoquer les concepts de la Loi, du Bien, du Mal et du Chaos ou traiter de manière spécifique les individus qui appartiennent à la même religion que le lanceur du sort. Par contre, elles ne peuvent pas se baser sur la [[classe]], le [[niveau]] ou le nombre de dés de vie des créatures. Les créatures [[invisible|invisibles]] déclenchent le glyphe normalement, mais pas celles qui sont éthérées. Une zone donnée ne peut être protégée par plus d’un glyphe ; par contre, si une commode comporte trois tiroirs, chacun d’eux peut recevoir un glyphe.

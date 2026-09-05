@@ -51,7 +51,7 @@ Categories:
 Les manteleurs sont des créatures mystérieuses et paranoïaques qui ressemblent à des raies mantas volantes monstrueuses et maléfiques. Les spécimens moyens ont une envergure de 2,40 mètres et pèsent 50 kg.
 
 Les manteleurs gardent le secret sur les motivations incompréhensibles qui les animent. Ils semblent même se méfier
-des autres individus de leur espèce. Leur forme étrange leur permet de passer pour des manteaux, des tapisseries ou d’autres objets communs.
+des autres individus de leur espèce. Leur forme étrange leur permet de passer pour des manteaux, des tapisseries ou d’autres objets communs. 
 
 Certaines histoires parlent de manteleurs qui se seraient alliés avec d’autres créatures, se seraient accrochés à leur dos et les auraient protégées pour des raisons mystérieuses.
 

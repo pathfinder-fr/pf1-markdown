@@ -28,7 +28,7 @@ Le gouvernement de l'Irrisen pourrait être assimilé à une monarchie conventio
 Si les enfants de la reine remplacée quittent le pays avec leur mère, ses petits-enfants eux restent, permettant de laisser une trace du passage des précédentes reines d'Irrisen.
 
 ### Relations internationales de l'Irrisen
-L'Irrisen n'a pas de très bonnes relations avec ses voisins.
+L'Irrisen n'a pas de très bonnes relations avec ses voisins. 
 
 La nation la moins hostile est la [[Varisie]], de qui elle est séparée par les infranchissables [[Monts Kodar]], amenuisant leurs échanges au strict minimum.
 

@@ -50,7 +50,7 @@ qu’eux, comme
 les ours noirs. Ce
 sont des adversaires
 implacables qui se battent avec frénésie lorsqu’ils
-sont blessés.
+sont blessés. 
 
 Ils ont tendance à libérer une forte odeur de musc
 déplaisante lorsqu’ils sont en colère.

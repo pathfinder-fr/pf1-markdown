@@ -27,7 +27,7 @@ Bien que la description des <u>[[Capacités spéciales#CARACTERISTIQUES|bonus te
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|2}
 #### Augmentations temporaires et permanentes de caractéristiques : pourquoi les bonus temporaires s'appliquent-ils seulement à certaines choses ?
-Les <u>[[Capacités spéciales#CARACTERISTIQUES|bonus temporaires à une caractéristique]]</u> devraient s'appliquer à tout ce qui relève de cette caractéristique, exactement comme les bonus permanents le font. Il n'y avait pas assez d'espace dans la section dédiée du glossaire et il n'a pas été possible de lister tout ce qu'un bonus de caractéristique peut affecter dans le jeu.
+Les <u>[[Capacités spéciales#CARACTERISTIQUES|bonus temporaires à une caractéristique]]</u> devraient s'appliquer à tout ce qui relève de cette caractéristique, exactement comme les bonus permanents le font. Il n'y avait pas assez d'espace dans la section dédiée du glossaire et il n'a pas été possible de lister tout ce qu'un bonus de caractéristique peut affecter dans le jeu. 
 
 L'objectif de la règle sur les valeurs temporaires de caractéristiques est de permettre au joueur de ne pas avoir à tout recalculer pour son personnage à chaque fois que ce dernier bénéficie d'une *[[force de taureau]]* ou d'un sort similaire ; la règle se contente de résumer les effets les plus communs associés aux caractéristiques.
 

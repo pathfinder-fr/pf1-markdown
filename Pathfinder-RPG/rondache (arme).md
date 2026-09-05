@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3/9 po ; **Poids** 2,5/3 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
-**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —
+{s:AE}**Prix** 3/9 po ; **Poids** 2,5/3 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]  
+**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
----
+<hr />
 On peut porter un coup avec une rondache plutôt que de l’utiliser pour se défendre. Les rondaches sont décrits parmi les [[rondache (armure)|armures]].

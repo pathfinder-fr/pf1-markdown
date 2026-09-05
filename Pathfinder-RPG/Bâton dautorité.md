@@ -8,9 +8,9 @@ LastModified: 2024-05-27 16:16
 {s:AE}{s:BDTitre|Bâton d'autorité|}
 **Aura** Variable modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 23 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce gros bâton fonctionne comme un *bâton +1/+1*. Il permet d'utiliser les sorts suivants :
-• *[[silence forcé]]* (1 charge)
-• *[[interrogatoire]]* (1 charge)
+Ce gros bâton fonctionne comme un *bâton +1/+1*. Il permet d'utiliser les sorts suivants :  
+• *[[silence forcé]]* (1 charge)  
+• *[[interrogatoire]]* (1 charge)  
 • *[[ennui oppressant]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[silence forcé]]*, *[[interrogatoire]]*, *[[ennui oppressant]]* ; **Coût** 11 800 po

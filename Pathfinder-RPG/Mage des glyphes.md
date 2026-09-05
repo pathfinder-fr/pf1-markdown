@@ -121,30 +121,30 @@ Categories:
 **Dés de Vie.** d6.
 
 ### Conditions
-Pour devenir un mage des glyphes, le personnage doit remplir les critères suivants.
+Pour devenir un mage des glyphes, le personnage doit remplir les critères suivants. 
 
-**Dons.** [[Écriture de parchemins]], [[Magie des glyphes]]
-**Compétences.** [[Connaissances]] (histoire) 5 rangs, [[Connaissances]] (mystères) 5 rangs, [[Linguistique]] 5 rangs
-**Langues.** Langue morte, Langue actuelle.
+**Dons.** [[Écriture de parchemins]], [[Magie des glyphes]]  
+**Compétences.** [[Connaissances]] (histoire) 5 rangs, [[Connaissances]] (mystères) 5 rangs, [[Linguistique]] 5 rangs  
+**Langues.** Langue morte, Langue actuelle.  
 **Sorts.** Doit être capable de lancer des sorts profanes.
 ### Compétences de classe
-Voici les compétences de classe du mage des glyphes (et la caractéristique associée à chacune) : [[Art de la magie]] (Int), [[Connaissances]] (toutes) (Int), [[Escalade]] (For), [[Estimation]] (Int), [[Linguistique]] (Int), [[Perception]] (Sag), [[Sabotage]] (Dex), [[Survie]] (Sag), [[UOM|Utilisation d’objets magiques]] (Cha) et [[Vol]] (Dex).
+Voici les compétences de classe du mage des glyphes (et la caractéristique associée à chacune) : [[Art de la magie]] (Int), [[Connaissances]] (toutes) (Int), [[Escalade]] (For), [[Estimation]] (Int), [[Linguistique]] (Int), [[Perception]] (Sag), [[Sabotage]] (Dex), [[Survie]] (Sag), [[UOM|Utilisation d’objets magiques]] (Cha) et [[Vol]] (Dex). 
 
 **Rangs de compétence par niveau.** 4 + modificateur d’Intelligence.
 
 ### Aptitudes de la classe
-Voici les aptitudes de la classe de mage des glyphes.
+Voici les aptitudes de la classe de mage des glyphes. 
 
 #### Armes et armures
-Le mage des glyphes n’obtient aucune formation supplémentaire dans le maniement des armes ou le port des armures.
+Le mage des glyphes n’obtient aucune formation supplémentaire dans le maniement des armes ou le port des armures. 
 
 {s:Reference|SORTS}
 #### Sorts
-Quand un mage des glyphes gagne un niveau, il gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts profanes qui était sienne avant de devenir mage des glyphes. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, ce qui veut dire qu’il ajoute, pour l’essentiel, le niveau de mage des glyphes à celui d’une autre classe de lanceur de sorts profanes qu’il possède. Si le personnage possédait plus d’une classe de lanceur de sorts profanes avant de devenir mage des glyphes, il doit choisir à quelle classe il ajoute ce nouveau niveau lorsqu’il s’agit de déterminer les sorts quotidiens.
+Quand un mage des glyphes gagne un niveau, il gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts profanes qui était sienne avant de devenir mage des glyphes. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, ce qui veut dire qu’il ajoute, pour l’essentiel, le niveau de mage des glyphes à celui d’une autre classe de lanceur de sorts profanes qu’il possède. Si le personnage possédait plus d’une classe de lanceur de sorts profanes avant de devenir mage des glyphes, il doit choisir à quelle classe il ajoute ce nouveau niveau lorsqu’il s’agit de déterminer les sorts quotidiens. 
 
 {s:Reference|CONNAISSANCEDESGLYPHES}
 #### Connaissances des glyphes
-Au fur et à mesure qu’un mage des glyphes gagne des niveaux, il améliore sa maîtrise de la magie écrite sous forme de parchemins, de glyphes et de symboles. Il découvre également les diverses magies antiques qui renforcent toujours plus ses pouvoirs. On appelle ces diverses découvertes des connaissances des glyphes. À chaque nouveau niveau atteint, le mage des glyphes apprend une nouvelle façon d’améliorer sa magie qu’il choisit parmi la liste proposée ci-dessous.
+Au fur et à mesure qu’un mage des glyphes gagne des niveaux, il améliore sa maîtrise de la magie écrite sous forme de parchemins, de glyphes et de symboles. Il découvre également les diverses magies antiques qui renforcent toujours plus ses pouvoirs. On appelle ces diverses découvertes des connaissances des glyphes. À chaque nouveau niveau atteint, le mage des glyphes apprend une nouvelle façon d’améliorer sa magie qu’il choisit parmi la liste proposée ci-dessous. 
 - **Accroissement de l’efficacité des parchemins (Sur).** Par une [[action rapide]], lorsqu’il lance un sort inscrit sur un parchemin, un mage des glyphes peut ajouter un bonus égal à deux fois son modificateur d’Intelligence sur les tests de [[NLS|niveau de lanceur de sorts]] effectués pour ignorer la [[RM]]. Il peut utiliser cette aptitude un nombre de fois par jour égal à 1/3 de son niveau de mage des glyphes (minimum 1).
 - **Amélioration des parchemins (Sur).** Par une [[action rapide]], un mage des glyphes peut appliquer son [[NLS|niveau de lanceur de sorts]] à la place de celui du parchemin magique qu’il est en train de lire. Il peut utiliser cette aptitude un nombre de fois par jour égal à 1/3 de son niveau de mage des glyphes (minimum 1). 
 - **Analyse des parchemins (Sur).** Par une [[action libre]], un mage des glyphes peut automatiquement connaître le contenu d’un parchemin magique, comme s’il utilisait *[[lecture de la magie]]*. Il gagne un bonus d’intuition égal à son niveau de mage des glyphes aux tests d’[[UOM|Utilisation des objets magiques]] effectués pour lancer des sorts à partir de parchemins. 

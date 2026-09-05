@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 5 pa ; **Poids** —
+{s:cs}{s:AA}**Prix** 5 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Marché noir]]</span>
----
+<hr />
 La racine de cette grande plante aux fleurs bleues est toxique (voir le [[Poisons#Aconit|poison]] du même nom), mais les herboristes l'utilisent à faible dose pour réduire la douleur et réguler le rythme cardiaque. L’on dit que cela peut aider une victime de [[Lycanthrope, archétype|lycanthropie]] à se débarrasser de la malédiction.

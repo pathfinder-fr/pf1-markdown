@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa ; **Poids** —
+{s:AE}**Prix** 5 pa ; **Poids** —  
 <span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
----
+<hr />
 Il s’agit du prix que coûte une écurie pour une créature de taille G ou plus petite pour une journée, dans une écurie standard ou dans un autre logement pour animaux. Les écuries particulièrement sophistiquées peuvent coûter plus cher et les écuries pour les créatures plus grandes ou exotiques coûtent le double.

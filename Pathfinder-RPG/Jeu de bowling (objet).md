@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 pa–10 po ; **Poids** 7,5 kg
+{s:AE}**Prix** 5 pa–10 po ; **Poids** 7,5 kg  
 <span class="Catégorie">**Catégorie** [[Jeux]]</span>
----
+<hr />
 Ce simple jeu de 10 quilles est souvent compliqué par les irrégularités de la boule, des quilles et du terrain de jeu.

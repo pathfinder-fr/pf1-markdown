@@ -8,7 +8,7 @@ LastModified: 2024-05-29 19:59
 {s:BDTitre|Perruque de juge|{s:AE}}
 **Aura** [[école divination|Divination]] modérée ; **NLS** 7  ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 59 200 po ; **Poids** —
 (((Description)))
-Cette perruque de longues boucles blanches confère à son porteur une dignité et une gravité évidentes. Il bénéficie d’un bonus de compétence de +4 aux tests de [[Diplomatie]] et d’[[Intimidation]]. Il peut se concentrer à volonté sur une créature située à 9 mètres ou moins pour la scruter à l’aide du sort *[[détection du mensonge]]*.
+Cette perruque de longues boucles blanches confère à son porteur une dignité et une gravité évidentes. Il bénéficie d’un bonus de compétence de +4 aux tests de [[Diplomatie]] et d’[[Intimidation]]. Il peut se concentrer à volonté sur une créature située à 9 mètres ou moins pour la scruter à l’aide du sort *[[détection du mensonge]]*. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection du mensonge]]* ; **Coût** 29 600 po
 </div>

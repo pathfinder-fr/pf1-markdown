@@ -24,7 +24,7 @@ Categories:
 **Composantes** [[Composantes|V, M/FD]] (un grain de café) \
 **Portée** personnelle \
 **Cible** le lanceur de sorts \
-**Durée** 10 minutes/[[niveau]] (T)
+**Durée** 10 minutes/[[niveau]] (T) 
 
 Le personnage entre dans un état de conscience aiguë qui lui permet de repérer plus de choses de son environnement et de se rappeler les informations sans effort. Il bénéficie d’un bonus de compétence de +2 aux tests de [[Perception]] et à tous les tests de [[Connaissances]] auxquelles il est formé.
 

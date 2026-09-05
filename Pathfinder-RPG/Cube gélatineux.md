@@ -45,7 +45,7 @@ Le cube gélatineux est l’un des prédateurs les plus étranges des
 souterrains ou des ruines. Ces créatures dénuées d’intelligence
 passent leur existence à errer dans les couloirs et les cavernes
 sombres et à engloutir les matériaux organiques tels que les plantes,
-les détritus, les charognes et même les créatures vivantes.
+les détritus, les charognes et même les créatures vivantes. 
 
 Au bout
 d’un moment, les matières que le cube ne peut pas digérer, comme
@@ -61,7 +61,7 @@ se servent de cubes gélatineux pour garder des places-fortes ou des
 fortifications souterraines. Ils emprisonnent ces créatures immenses
 dans de gigantesques caisses de métal et les font transporter (par
 esclaves ou par magie) jusqu’à l’endroit où elles devront monter la
-garde.
+garde. 
 
 Les cubes gélatineux permettent également de se débarrasser
 efficacement des détritus : une tribu qui parvient à piéger un cube
@@ -72,7 +72,7 @@ que piège mortel, selon l’ingéniosité des créatures qui l’ont capturé.
 Les cubes gélatineux mesurent généralement 3 mètres de côté
 et pèsent au moins 7 500 kg, mais des explorateurs souterrains ont
 affirmé avoir vu des spécimens plus grands draguer les grottes et
-les corridors les plus profonds.
+les corridors les plus profonds. 
 
 Dans les endroits où on trouve de
 nombreuses sources de nourriture, les cubes gélatineux peuvent

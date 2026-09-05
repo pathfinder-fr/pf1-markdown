@@ -9,7 +9,7 @@ Categories:
 
 {s:DieuTech|Ananshea|La peau qui marche sur les dents| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Animaux sauvages, brutalité, torture
-|N'importe|Aucun
+|N'importe|Aucun 
 |[[kukri (arme)|Kukri]]
 |[[Domaine de la Destruction|Destruction]], [[Domaine de la Faune|Faune]], [[Domaine de la Force|Force]], [[Domaine du Mal|Mal]]
 |[[Domaine de la Force|Férocité]], [[Domaine du Mal|Peur]], [[Domaine de la Destruction|Rage]], [[Domaine du Mal|Sahkil]], [[Domaine de la Destruction|Torture]]

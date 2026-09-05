@@ -159,9 +159,9 @@ Pour pouvoir devenir un faux prêtre, il faut satisfaire aux conditions suivante
 
 ### Compétences de classe
 
-Voici les compétences de classe du faux prêtre : [[Bluff]] (Cha), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Psychologie]] (Sag), [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha).
+Voici les compétences de classe du faux prêtre : [[Bluff]] (Cha), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha), [[Psychologie]] (Sag), [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha). 
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]]. 
 
 ### Caractéristiques de classe
 Voici les caractéristiques de classe du faux prêtre.
@@ -172,11 +172,11 @@ Un faux prêtre ne gagne aucune formation supplémentaire au maniement des armes
 #### Domaine du faux dieu
 Un faux prêtre peut sélectionner un domaines parmi les suivants : [[Domaine du Charme|Charme]], [[Domaine de la Duperie|Duperie]], [[Domaine de la Loi|Loi]] ou [[Domaine du Mal|Mal]]. Le faux prêtre gagne les pouvoirs offerts par ce domaine, en utilisant son [[NLS|niveau de lanceur de sorts]] profanes comme niveau effectif de [[prêtre]] et son modificateur de [[Charisme]] ou d'[[Intelligence]] (selon le plus élevé) à la place du modificateur de [[Sagesse]]. Il n'obtient cependant pas de sorts de domaine par ce domaine.
 
-Au niveau 5, un faux prêtre peut sélectionner un second domaine de la liste et utiliser les pouvoirs qu'il accorde de la même façon.
+Au niveau 5, un faux prêtre peut sélectionner un second domaine de la liste et utiliser les pouvoirs qu'il accorde de la même façon. 
 
 {s:reference|PREMIERRITUEL}
 #### Premier rituel (Sur)
-Au niveau 1, un faux prêtre ajoute *[[bénédiction]]* et *[[soins légers]]* à une des listes de sorts profanes à laquelle il a accès, mais les traite comme des sorts de 2e niveau. S'il est un lanceur de sorts spontanés, ils sont également ajoutés à sa liste de sorts connus. Lorsqu'il lance *[[soins légers]]* en utilisant cette capacité, les points de vie soignés sont à la place traités comme des [[Blessures et mort#PVTEMPORAIRES|points de vie temporaires]] qui durent 10 minutes par niveau de faux prêtre, même si la cible ne remarque pas la différence jusqu'à ce que la durée expire. Les points de vie temporaires conférés ainsi (et par les sorts de soins consécutifs) ne se cumulent pas.
+Au niveau 1, un faux prêtre ajoute *[[bénédiction]]* et *[[soins légers]]* à une des listes de sorts profanes à laquelle il a accès, mais les traite comme des sorts de 2e niveau. S'il est un lanceur de sorts spontanés, ils sont également ajoutés à sa liste de sorts connus. Lorsqu'il lance *[[soins légers]]* en utilisant cette capacité, les points de vie soignés sont à la place traités comme des [[Blessures et mort#PVTEMPORAIRES|points de vie temporaires]] qui durent 10 minutes par niveau de faux prêtre, même si la cible ne remarque pas la différence jusqu'à ce que la durée expire. Les points de vie temporaires conférés ainsi (et par les sorts de soins consécutifs) ne se cumulent pas. 
 
 De plus, lorsqu'un faux prêtre utilise le don [[Fausse incantation]] pour lancer un sort de niveau 0 ou 1 figurant sur la liste de sorts du prêtre, il reçoit un bonus de circonstances de +10 sur n'importe quel test de [[Bluff]] en opposition lorsqu'il lance le sort.
 

@@ -4,7 +4,7 @@ Title: Créer des nouveaux familiers
 LastModified: 2026-08-02 05:06
 ---
 
-<div class="fright">***Retour au [[Folio des Familiers]].***
+<div class="fright">***Retour au [[Folio des Familiers]].***  
 {s:cs}</div><div class="description">**Source :** Familiar Folio (FF).</div>
 
 Bien qu’il existe déjà de nombreux types de familiers, il arrive que les options disponibles ne correspondent pas exactement à l’idée que vous vous faites du compagnon magique de votre personnage. Avec l’accord de votre maître du jeu, vous pouvez toutefois réutiliser le profil d’un familier existant afin de représenter approximativement le familier idéal pour votre personnage.

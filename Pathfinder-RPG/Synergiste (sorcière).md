@@ -22,6 +22,6 @@ De plus, elle gagne une des [[attaque naturelle|attaques naturelles]] du [[famil
 
 Au niveau 11, durant la symbiose, la synergiste gagne tous les avantages possédés par le [[familier]] et listés par le sort de [[forme bestiale III]]. Si le familier peut voler, la synergiste peut voler autant qu'elle le désire durant la symbiose.
 
-Au niveau 14, durant la symbiose, la synergiste gagne tous les avantages possédés par le [[familier]] et listés par le sort de [[forme bestiale IV]]. De plus, elle gagne toutes les [[attaque naturelle|attaques naturelles]] du [[familier]], s'il en possédait.
+Au niveau 14, durant la symbiose, la synergiste gagne tous les avantages possédés par le [[familier]] et listés par le sort de [[forme bestiale IV]]. De plus, elle gagne toutes les [[attaque naturelle|attaques naturelles]] du [[familier]], s'il en possédait. 
 
 Ce pouvoir remplace les maléfices de sorcière de niveau 1, 8 et 14.

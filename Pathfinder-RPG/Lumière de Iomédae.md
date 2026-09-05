@@ -10,12 +10,12 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [[Invocation]] <nowiki>[</nowiki>[[registre|Bien, lumière]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 3
-**Temps d'incantation** 1 [[action simple]]
-**Composantes** [[composantes|V, G, FD]]
-**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau)
-**Cibles** tous les morts-vivants dans une étendue de 3 m de rayon
-**Durée** 1 minute/niveau
+{s:MMI}**École** [[Invocation]] <nowiki>[</nowiki>[[registre|Bien, lumière]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 3  
+**Temps d'incantation** 1 [[action simple]]  
+**Composantes** [[composantes|V, G, FD]]  
+**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau)  
+**Cibles** tous les morts-vivants dans une étendue de 3 m de rayon  
+**Durée** 1 minute/niveau  
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Volonté, partiel]] ; **Résistance à la magie** oui
 
 Avec ce sort, le personnage crée des colonnes de lumière bleutée qui illuminent tous les morts-vivants situés dans la zone. Les morts-vivants affectés subissent un malus de -20 aux tests de [[Discrétion]].

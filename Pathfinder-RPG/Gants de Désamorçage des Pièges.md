@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Gants de désamorçage des pièges|{s:AE}}
 **Aura** [[école Divination|Divination]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 4.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ces gants en cuir clouté ressemblent à des gants d’artisan mais ils sont renforcés par de multiples bandelettes métalliques rétractables que le porteur peut utiliser pour que l’extrémité de chaque doigt soit dotée d’un outil approprié à l’examen et au désamorçage des pièges. Une fois enfilés, ces gants confèrent un bonus de compétence de +5 aux tests de [[Sabotage]] pour désamorcer les pièges. De plus, ils octroient un bonus de chance de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les pièges.
+Ces gants en cuir clouté ressemblent à des gants d’artisan mais ils sont renforcés par de multiples bandelettes métalliques rétractables que le porteur peut utiliser pour que l’extrémité de chaque doigt soit dotée d’un outil approprié à l’examen et au désamorçage des pièges. Une fois enfilés, ces gants confèrent un bonus de compétence de +5 aux tests de [[Sabotage]] pour désamorcer les pièges. De plus, ils octroient un bonus de chance de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les pièges. 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection des pièges]]* ; **Coût** 2.000 po
 </div>

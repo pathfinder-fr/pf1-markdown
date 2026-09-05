@@ -87,11 +87,11 @@ Les géants de pierre élisent souvent domicile dans d’énormes
 grottes creusées dans les pics rocheux les plus élevés. Ils vivent
 généralement tout au plus à quelques jours de voyage d’autres
 groupes de géants de pierre et certaines tribus partagent même
-parfois des troupeaux de chèvres ou d’autres types de bétails.
+parfois des troupeaux de chèvres ou d’autres types de bétails. 
 
 Les géants de pierre plus âgés quittent souvent leur tribu pendant un
 longue période de temps pour aller vivre en ermites quelque part
-ou tenter de s’intégrer à d’autres civilisations humanoïdes.
+ou tenter de s’intégrer à d’autres civilisations humanoïdes. 
 Après des décennies de cet exil qu’ils s’infligent, ceux qui reviennent
 deviennent des géants de pierre vénérables.
 

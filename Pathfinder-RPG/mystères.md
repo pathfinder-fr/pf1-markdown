@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-{s:apg}{s:um}Chaque [[oracle]] doit choisir un mystère dans la liste qui suit.
+{s:apg}{s:um}Chaque [[oracle]] doit choisir un mystère dans la liste qui suit. 
 
 Sauf indication contraire, le [[DD]] pour résister à ces révélations est égal à 10 + 1/2 niveau oracle + modificateur de [[Charisme]] de l’oracle.
 

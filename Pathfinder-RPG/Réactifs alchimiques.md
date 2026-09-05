@@ -13,8 +13,8 @@ Categories:
 {s:AA}{s:Reference|Acide}
 #### Acide ([[Acide (objet)|lien]])
 Une flasque d’acide classique a beaucoup d’utilisation comme composante de puissance, plus particulièrement avec les sorts offensifs.
----
-**Doses** 1 (10 po) ; **Sorts** *[[aspersion acide]]*, *[[brume acide]]*, *[[dissipation de la magie]]*, *[[flèche acide]]*, *[[graisse]]*, *[[mur de glace]]*
+<hr />
+**Doses** 1 (10 po) ; **Sorts** *[[aspersion acide]]*, *[[brume acide]]*, *[[dissipation de la magie]]*, *[[flèche acide]]*, *[[graisse]]*, *[[mur de glace]]*  
 **Effet** L’acide peut être utilisé comme composante de puissance des manières suivantes :
 - **Aspersion acide (F).** Le sort inflige +1 point de dégâts.
 - **Aspersion acide (M).** L’acide du sort dure 1 round supplémentaire.
@@ -28,8 +28,8 @@ Une flasque d’acide classique a beaucoup d’utilisation comme composante de p
 {s:AA}{s:Reference|Anti-maladie}
 #### Anti-maladie ([[Anti-maladie (objet)|lien]])
 Certains sorts de guérison ont de meilleurs effets lorsqu’ils sont utilisés avec cette substance.
----
-**Doses** 1 (50 po) ; **Sorts** *[[festin des héros]]*, *[[guérison des maladies]]*
+<hr />
+**Doses** 1 (50 po) ; **Sorts** *[[festin des héros]]*, *[[guérison des maladies]]*  
 **Effet** L’anti-maladie peut être utilisé comme composante de puissance des manières suivantes :
 - **Festin des héros (M).** Pour chaque fiole d’anti-maladie utilisée comme composante de puissance, une créature consommant le festin gagne les avantages d’un [[Anti-maladie (objet)|anti-maladie]] pendant 12 heures. Le goût habituellement infect de l’anti-maladie de modifie pas le goût du festin.
 - **Guérison des maladies (M).** Ajoute un bonus de +2 au test de [[NLS|niveau de lanceur de sorts]] du personnage pour soigner les maladies de la cible.
@@ -38,8 +38,8 @@ Certains sorts de guérison ont de meilleurs effets lorsqu’ils sont utilisés 
 {s:AA}{s:Reference|Antitoxine}
 #### Antitoxine ([[Antitoxine (objet)|lien]])
 Comme l’anti-maladie, cette substance améliore certains sorts de guérison.
----
-**Doses** 1 (50 po) ; **Sorts** *[[neutralisation du poison]]*
+<hr />
+**Doses** 1 (50 po) ; **Sorts** *[[neutralisation du poison]]*  
 **Effet** L’antitoxine peut être utilisé comme composante de puissance des manières suivantes :
 - **Neutralisation du poison (M).** Ajoute un bonus de +2 au test de [[NLS|niveau de lanceur de sorts]] du personnage pour neutraliser les poisons qui affectent la cible. L’antitoxine n’a aucun effet si le sort est lancé sur un objet.
 
@@ -47,8 +47,8 @@ Comme l’anti-maladie, cette substance améliore certains sorts de guérison.
 {s:AA}{s:Reference|Bâton fumigène}
 #### Bâton fumigène ([[Bâton fumigène (objet)|lien]])
 Ces objets fonctionnent mieux avec des sorts qui créent des nuages ou de la fumée.
----
-**Doses** 1 (20 po) ; **Sorts** *[[brume de dissimulation]]*, *[[nappe de brouillard]]*, *[[pyrotechnie]]*
+<hr />
+**Doses** 1 (20 po) ; **Sorts** *[[brume de dissimulation]]*, *[[nappe de brouillard]]*, *[[pyrotechnie]]*  
 **Effet** Les bâtons fumigènes peuvent être utilisés comme composante de puissance des manières suivantes :
 - **Brume de dissimulation (M).** Le sort crée un épais brouillard plutôt que de la brume. Ce brouillard ne peut pas être dispersé par des sorts de feu et se dissipe naturellement après 1 minute.
 - **Nappe de brouillard (M).** Augmente le rayon du nuage de 1,5 m.
@@ -58,8 +58,8 @@ Ces objets fonctionnent mieux avec des sorts qui créent des nuages ou de la fum
 {s:AA}{s:Reference|Feu grégeois}
 #### Feu grégeois ([[Feu grégeois (objet)|lien]])
 Cette spécialité naine peut prolonger la durée des sorts de feu.
----
-**Doses** 1 (20 po) ; **Sorts** *[[boule de feu]]*, *[[mains brûlantes]]*, *[[protection contre les énergies destructives]]*, *[[rayon ardent]]*, *[[résistance aux énergies destructives]]*, *[[sphère de feu]]*
+<hr />
+**Doses** 1 (20 po) ; **Sorts** *[[boule de feu]]*, *[[mains brûlantes]]*, *[[protection contre les énergies destructives]]*, *[[rayon ardent]]*, *[[résistance aux énergies destructives]]*, *[[sphère de feu]]*  
 **Effet** Le feu grégeois peut être utilisé comme composante de puissance des manières suivantes :
 - **Boule de feu (M).** Une cible par [[NLS|niveau de lanceur de sorts]] qui rate son jet de [[Réflexes]] (au choix du personnage) prend feu comme si elle avait été touchée par un [[Feu grégeois (objet)|feu grégeois]].
 - **Mains brûlantes (M).** Une cible par [[NLS|niveau de lanceur de sorts]] qui rate son jet de [[Réflexes]] (au choix du personnage) prend feu comme si elle avait été touchée par un [[Feu grégeois (objet)|feu grégeois]].
@@ -73,8 +73,8 @@ Cette spécialité naine peut prolonger la durée des sorts de feu.
 {s:AA}{s:Reference|Gardelame}
 #### Gardelame ([[Gardelame (objet)|lien]])
 Les armes et les armures ne sont pas les seules choses que le gardelame protège.
----
-**Doses** 1 (40 po) ; **Sorts** *[[mur de fer]]*
+<hr />
+**Doses** 1 (40 po) ; **Sorts** *[[mur de fer]]*  
 **Effet** Le gardelame peut être utilisé comme composante de puissance des manières suivantes :
 - **Mur de fer (M).** Pour chaque pot de gardelame utilisé comme composante de puissance, le personnage peut désigner un carré de 3 m du *mur de fer* qui obtient une [[Résistance (capacité)|résistance]] à l’acide de 10 et une [[Immunité (capacité)|immunité]] aux attaques de rouille.
 
@@ -82,8 +82,8 @@ Les armes et les armures ne sont pas les seules choses que le gardelame protège
 {s:AA}{s:Reference|Glace liquide}
 #### Glace liquide ([[Glace liquide (objet)|lien]])
 Cette substance renforce la magie du froid.
----
-**Doses** 1 (40 po) ; **Sorts** *[[cône de froid]]*, *[[préservation des morts]]*, *[[protection contre les énergies destructives]]*, *[[rayon de givre]]*, *[[résistance aux énergies destructives]]*
+<hr />
+**Doses** 1 (40 po) ; **Sorts** *[[cône de froid]]*, *[[préservation des morts]]*, *[[protection contre les énergies destructives]]*, *[[rayon de givre]]*, *[[résistance aux énergies destructives]]*  
 **Effet** La glace liquide peut être utilisé comme composante de puissance des manières suivantes :
 - **Cône de froid (M).** Le sort inflige +1 point de dégâts par [[NLS|niveau de lanceur de sorts]].
 - **Préservation des morts (M).** La durée du sort augmente de 2 jours par [[NLS|niveau de lanceur de sorts]].
@@ -96,8 +96,8 @@ Cette substance renforce la magie du froid.
 {s:AA}{s:Reference|Graisse alchimique}
 #### Graisse alchimique ([[Graisse alchimique (objet)|lien]])
 Cette substance est parfaite pour améliorer les sorts qui affectent ou crééent des surfaces.
----
-**Doses** 1 (5 po) ; **Sorts** *[[graisse]]*, *[[mur de fer]]*, *[[mur de pierre]]*, *[[tempête de neige]]*
+<hr />
+**Doses** 1 (5 po) ; **Sorts** *[[graisse]]*, *[[mur de fer]]*, *[[mur de pierre]]*, *[[tempête de neige]]*  
 **Effet** La graisse alchimique peut être utilisée comme composante de puissance des manières suivantes :
 - **Graisse (M).** Augmente de [[DD]] du jet de [[Réflexes]] des créatures affectées et le bonus aux tests d’[[Évasion]] des armures graissées de 1.
 - **Mur de fer (M).** Pour chaque pot de graisse utilisé comme composante de puissance, le personnage peut désigner un carré de 3 m du *mur de fer* qui devient glissant (+5 au [[DD]] d’[[Escalade]]).
@@ -108,8 +108,8 @@ Cette substance est parfaite pour améliorer les sorts qui affectent ou crééen
 {s:AA}{s:Reference|Poil à gratter}
 #### Poil à gratter ([[Poil à gratter (objet)|lien]])
 Cette poudre peut rendre particulièrement irritant un sort habituellement anodin.
----
-**Doses** 1 (60 po) ; **Sorts** *[[nuée grouillante]]*, *[[poussière scintillante]]*, *[[répulsif]]*
+<hr />
+**Doses** 1 (60 po) ; **Sorts** *[[nuée grouillante]]*, *[[poussière scintillante]]*, *[[répulsif]]*  
 **Effet** Le poil à gratter peut être utilisé comme composante de puissance des manières suivantes :
 - **Nuée grouillante (M).** Le [[DD]] de la [[Distraction (capacité)|distraction]] de la nuée augmente de 2.
 - **Poussière scintillante (M).** Pour chaque sachet de poil à gratter utilisé comme composante de puissance, le personnage peut désigner une créature dans la zone d’effet qui sera affectée par le [[Armes alchimiques#Poil à gratter|poil à gratter]] (DD 12).
@@ -119,8 +119,8 @@ Cette poudre peut rendre particulièrement irritant un sort habituellement anodi
 {s:AA}{s:Reference|Poudre à flash}
 #### Poudre à flash ([[Poudre à flash (objet)|lien]])
 Utile comme distraction, la poudre à flash rend les sorts qui produisent des explosions de lumière plus dangereux.
----
-**Doses** 1 (50 po) ; **Sorts** *[[illumination]]*, *[[pyrotechnie]]*
+<hr />
+**Doses** 1 (50 po) ; **Sorts** *[[illumination]]*, *[[pyrotechnie]]*  
 **Effet** La poudre à flash peut être utilisée comme composante de puissance des manières suivantes :
 - **Illumination (M).** Le [[DD]] du [[jds|jet de sauvegarde]] du sort augmente de 2.
 - **Pyrotechnie (M).** Lorsqu’il est utilisé pour créer un feu d’artifice, augmente le [[DD]] de 1 et la durée de l’aveuglement de 1 [[round]].
@@ -129,8 +129,8 @@ Utile comme distraction, la poudre à flash rend les sorts qui produisent des ex
 {s:AA}{s:Reference|Pierre tonnerre}
 #### Pierre tonnerre ([[Pierre tonnerre (objet)|lien]])
 Bien qu'elles soient suffisamment efficaces à elles seules, ces pierres ont des interactions utiles avec certains sorts.
----
-**Doses** 1 (30 po) ; **Sorts** *[[alarme]]*, *[[glyphe de garde]]*
+<hr />
+**Doses** 1 (30 po) ; **Sorts** *[[alarme]]*, *[[glyphe de garde]]*  
 **Effet** Les pierres tonnerres peuvent être utilisées comme composante de puissance des manières suivantes :
 - **Alarme (M).** S’il est lancé comme une alarme mentale, le personnage peut faire en sorte que le sort manifeste une alarme mentale et une alarme audible en même temps. S’il est lancé comme une alarme audible, l’alarme est aussi bruyante qu’une pierre tonnerre et affecte les créatures dans une étendue de 3 m de rayon comme si une [[Pierre tonnerre (objet)|pierre tonnerre]] avait détoné à cet endroit.
 - **Glyphe de garde (M).** Les créatures qui ratent leur jet de sauvegarde contre un glyphe explosif sont également [[assourdi|assourdies]] comme avec une [[Pierre tonnerre (objet)|pierre tonnerre]].
@@ -139,8 +139,8 @@ Bien qu'elles soient suffisamment efficaces à elles seules, ces pierres ont des
 {s:AA}{s:Reference|Sacoche immobilisante}
 #### Sacoche immobilisante ([[Sacoche immobilisante (objet)|lien]])
 Ces sacoches peuvent rendre un sort contraignant encore pire.
----
-**Doses** 1 (50 po) ; **Sorts** *[[lenteur]]*, *[[tentacules noirs]]*, *[[toile daraignée|toile d’araignée]]*
+<hr />
+**Doses** 1 (50 po) ; **Sorts** *[[lenteur]]*, *[[tentacules noirs]]*, *[[toile daraignée|toile d’araignée]]*  
 **Effet** Les sacoches immobilisantes peuvent être utilisées comme composante de puissance des manières suivantes :
 - **Lenteur (M).** Pour chaque sacoche immobilisante utilisée comme composante de puissance, le personnage peut désignée une créature ralentie qui sera affectée par une [[Sacoche immobilisante (objet)|sacoche immobilisante]].
 - **Tentacules noirs (M).** Pour chaque sacoche immobilisante utilisée comme composante de puissance, le personnage peut relancer le test de [[lutte]] des tentacules contre une créature de son choix.

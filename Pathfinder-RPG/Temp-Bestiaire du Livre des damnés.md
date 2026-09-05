@@ -6,7 +6,7 @@ Categories:
 - Livre des damnés
 ---
 
-Il faudra donc faire la description des créatures suivantes :
+Il faudra donc faire la description des créatures suivantes : 
 
 
 Diables :
@@ -36,7 +36,7 @@ Daémons
 - [[Kostchtchie]] Fait
 - [[Nocticula]] Fait
 - [[Pazuzu]] Fait
-.... à faire
+.... à faire 
 
 ---
 

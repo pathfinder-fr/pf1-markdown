@@ -8,7 +8,7 @@ LastModified: 2024-05-30 15:30
 {s:BDTitre|Robe ardente|{s:AE}}
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 11.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette robe de soie rouge et orange donne l’impression qu’un feu brûle sous de la surface soyeuse du tissu. Elle octroie une résistance au feu de 5 et augmente le [[NLS|niveau de lanceur de sorts]] du porteur de +1 pour l’ensemble des sorts du registre du feu. Une fois par jour et sur commande, le porteur de la robe peut créer un rayonnement de feu de 6 mètres de rayon. Toutes les créatures (à l’exception du porteur) situées dans l’aire d’effet subissent 2d6 points de dégâts de feu ([[Réflexes]] [[DD]] 16 1/2 dégâts).
+Cette robe de soie rouge et orange donne l’impression qu’un feu brûle sous de la surface soyeuse du tissu. Elle octroie une résistance au feu de 5 et augmente le [[NLS|niveau de lanceur de sorts]] du porteur de +1 pour l’ensemble des sorts du registre du feu. Une fois par jour et sur commande, le porteur de la robe peut créer un rayonnement de feu de 6 mètres de rayon. Toutes les créatures (à l’exception du porteur) situées dans l’aire d’effet subissent 2d6 points de dégâts de feu ([[Réflexes]] [[DD]] 16 1/2 dégâts). 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Augmentation dintensité|Augmentation d’intensité]], *[[résistance aux énergies destructives]]*, *[[boule de feu]]*  ; **Coût** 5.500 po
 </div>

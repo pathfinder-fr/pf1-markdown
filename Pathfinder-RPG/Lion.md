@@ -57,7 +57,7 @@ alimentaire sur leur territoire,
 quand cela est plus pratique
 ou devient nécessaire, ils se
 contentent de dévorer des
-cadavres.
+cadavres. 
 
 Ils s’attaquent
 parfois aux autres prédateurs

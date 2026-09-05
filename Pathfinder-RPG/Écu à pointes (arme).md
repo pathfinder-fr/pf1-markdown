@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 17/30 po ; **Poids** 7,5/10 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —
+{s:AE}**Prix** 17/30 po ; **Poids** 7,5/10 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]  
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —  
 <span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
----
+<hr />
 Les boucliers à [[pointes de bouclier (armure)|pointes]] sont des armes impressionnantes qui peuvent n’avoir qu’une seule pointe centrale, des bords aiguisés ou tout un ensemble de pointes mortelles. On peut utiliser l’écu à pointes pour porter un coup plutôt que pour se défendre. On ne peut pas [[désarmement|désarmer]] un personnage équipé d’un écu à pointes.

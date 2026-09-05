@@ -157,11 +157,11 @@ Chargés de la justice et des exécutions par le conseil révolutionnaire, les B
 ### Conditions requises
 Pour pouvoir devenir bourreau gris, le personnage doit satisfaire aux conditions suivantes.
 
-**Compétences.** 2 rangs en [[Bluff]], 2 rangs en [[Déguisement]], 2 rangs en  [[Diplomatie]], 5 rangs en [[Intimidation]], 2 rangs en [[Perception]] et 5 rangs en [[Psychologie]].
+**Compétences.** 2 rangs en [[Bluff]], 2 rangs en [[Déguisement]], 2 rangs en  [[Diplomatie]], 5 rangs en [[Intimidation]], 2 rangs en [[Perception]] et 5 rangs en [[Psychologie]]. 
 
 **Dons.** [[Attaques réflexes]].
 
-**Sorts.** Capacité à lancer des sorts divins de 2e niveau.
+**Sorts.** Capacité à lancer des sorts divins de 2e niveau. 
 
 **Spécial.** Le personnage doit exécuter publiquement un individu jugé et condamné. Le fait qu'il soit réellement coupable ou innocent n'a aucune importance.
 
@@ -171,9 +171,9 @@ Voici les compétences de classe du bourreau gris : [[Bluff]] (Cha), [[Connaiss
 **Rangs de compétence par niveau.** 6 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
-Voici les caractéristiques de la classe du bourreau gris.
+Voici les caractéristiques de la classe du bourreau gris. 
 #### Armes et armures
-Un bourreau gris ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures.
+Un bourreau gris ne gagne aucune formation supplémentaire au maniement des armes ou au port des armures. 
 
 {s:reference|ANONYMAT}
 #### Anonymat (Ext)
@@ -193,23 +193,23 @@ Au niveau 2, un bourreau gris peut déclarer un jugement sur ses ennemis. Cette 
 
 {s:reference|TUEUR}
 #### Tueur (Sur)
-Au niveau 3, un bourreau gris peut enchanter son arme pour qu'elle excelle face à certains ennemis. Cette capacité est identique à la capacité de [[Inquisiteur#TUEUR|tueur]] de l'[[inquisiteur]], et il peut l'utiliser pendant un nombre de [[round|rounds]] par jour égal à son niveau de classe. Ces rounds n'ont pas à être consécutifs.
+Au niveau 3, un bourreau gris peut enchanter son arme pour qu'elle excelle face à certains ennemis. Cette capacité est identique à la capacité de [[Inquisiteur#TUEUR|tueur]] de l'[[inquisiteur]], et il peut l'utiliser pendant un nombre de [[round|rounds]] par jour égal à son niveau de classe. Ces rounds n'ont pas à être consécutifs. 
 
 {s:reference|INTERROGATOIREDRAMATIQUE}
 #### Interrogatoire dramatique (Ext)
-Au niveau 3, si un bourreau gris menace une créature [[sans défense]], il obtient un bonus de +5 sur les tests de [[Diplomatie]], d'[[Intimidation]] et de [[Représentation]] pour influencer les créatures qui ont une attitude hostile, inamicale, amicale ou serviable envers la créature sans défense, ce qui inclut la créature elle-même.
+Au niveau 3, si un bourreau gris menace une créature [[sans défense]], il obtient un bonus de +5 sur les tests de [[Diplomatie]], d'[[Intimidation]] et de [[Représentation]] pour influencer les créatures qui ont une attitude hostile, inamicale, amicale ou serviable envers la créature sans défense, ce qui inclut la créature elle-même. 
 
 {s:reference|DONSDEXECUTION}
 #### Dons d'exécution (Ext)
-Au niveau 4 et tous les 2 niveaux par la suite, le bourreau gris gagne des dons supplémentaires en plus des dons gagnés via une progression normale. Les dons doivent faire partie de la liste suivante : [[Attaque en groupe]], [[Frappe décisive]], [[Homme de main]], [[Pas de côté]]. Au niveau 8, les dons suivants se rajoutent à la liste : [[Coup final mortel]], [[Coup odieux]]. Un bourreau gris n'a pas besoin de remplir les conditions requises du don pour pouvoir le prendre.
+Au niveau 4 et tous les 2 niveaux par la suite, le bourreau gris gagne des dons supplémentaires en plus des dons gagnés via une progression normale. Les dons doivent faire partie de la liste suivante : [[Attaque en groupe]], [[Frappe décisive]], [[Homme de main]], [[Pas de côté]]. Au niveau 8, les dons suivants se rajoutent à la liste : [[Coup final mortel]], [[Coup odieux]]. Un bourreau gris n'a pas besoin de remplir les conditions requises du don pour pouvoir le prendre. 
 
 {s:reference|ENQUETEURSINISTRE}
 #### Enquêteur sinistre (Ext)
-Au niveau 4, un bourreau gris peut utiliser la compétence d'[[Intimidation]] plutôt que [[Diplomatie]] pour récolter des informations. Il peut également relancer n'importe quel test de [[Psychologie]] qui s'oppose au test de [[Bluff]] de quelqu'un avant que les résultats du test soient révélés, mais il doit conserver le second résultat, même s'il est pire que le premier.
+Au niveau 4, un bourreau gris peut utiliser la compétence d'[[Intimidation]] plutôt que [[Diplomatie]] pour récolter des informations. Il peut également relancer n'importe quel test de [[Psychologie]] qui s'oppose au test de [[Bluff]] de quelqu'un avant que les résultats du test soient révélés, mais il doit conserver le second résultat, même s'il est pire que le premier. 
 
 {s:reference|SECONDJUGEMENT}
 #### Second jugement (Sur)
-Au niveau 4, lorsqu'un bourreau gris utilise son [[Inquisiteur#JUGEMENT|jugement]] ou son [[Jardinier gris#JUGEMENTSEVERE|jugement sévère]], il choisit deux jugements différents. Cela ne coûte qu'une seule utilisation de sa capacité. Il peut changer un de ses jugements en un autre type par une [[action rapide]].
+Au niveau 4, lorsqu'un bourreau gris utilise son [[Inquisiteur#JUGEMENT|jugement]] ou son [[Jardinier gris#JUGEMENTSEVERE|jugement sévère]], il choisit deux jugements différents. Cela ne coûte qu'une seule utilisation de sa capacité. Il peut changer un de ses jugements en un autre type par une [[action rapide]]. 
 
 {s:reference|SCIENCEDUTUEUR}
 #### Science du tueur (Sur)
@@ -217,11 +217,11 @@ Au niveau 5, lorsqu'un bourreau gris utilise sa capacité [[Jardinier gris#TUEUR
 
 {s:reference|TUEURSOMBRE}
 #### Tueur sombre (Sur)
-Au niveau 7, lorsqu'un bourreau gris utilise sa capacité [[Jardinier gris#TUEUR|tueur]] sur une arme de corps à corps, son arme obtient également la propriété spéciale *[[Menaçante (propriété)|menaçante]]*.
+Au niveau 7, lorsqu'un bourreau gris utilise sa capacité [[Jardinier gris#TUEUR|tueur]] sur une arme de corps à corps, son arme obtient également la propriété spéciale *[[Menaçante (propriété)|menaçante]]*. 
 
 {s:reference|JUGEMENTMORTEL}
 #### Jugement mortel (Sur)
-Au niveau 8, lorsqu'un bourreau gris utilise son [[Inquisiteur#JUGEMENT|jugement]] ou son [[Jardinier gris#JUGEMENTSEVERE|jugement sévère]], il peut déclarer un jugement mortel contre un adversaire en portant une attaque de corps à corps (ou une attaque à distance, si l'ennemi est à 9 m ou moins) contre la cible. Si l'attaque touche, elle inflige ses dégâts normalement et la créature doit faire un jet de [[Vigueur]] comme si elle était touchée par une *[[flèche mortelle]]* de son type de créature. Le [[DD]] du [[jds|jet de sauvegarde]] est égal à 10 + niveau de classe du bourreau gris + son modificateur de [[Sagesse]]. Un bourreau gris peut utiliser cette capacité une fois par jour.
+Au niveau 8, lorsqu'un bourreau gris utilise son [[Inquisiteur#JUGEMENT|jugement]] ou son [[Jardinier gris#JUGEMENTSEVERE|jugement sévère]], il peut déclarer un jugement mortel contre un adversaire en portant une attaque de corps à corps (ou une attaque à distance, si l'ennemi est à 9 m ou moins) contre la cible. Si l'attaque touche, elle inflige ses dégâts normalement et la créature doit faire un jet de [[Vigueur]] comme si elle était touchée par une *[[flèche mortelle]]* de son type de créature. Le [[DD]] du [[jds|jet de sauvegarde]] est égal à 10 + niveau de classe du bourreau gris + son modificateur de [[Sagesse]]. Un bourreau gris peut utiliser cette capacité une fois par jour. 
 
 {s:reference|TUEURSUPERIEUR}
 #### Tueur supérieur (Sur)

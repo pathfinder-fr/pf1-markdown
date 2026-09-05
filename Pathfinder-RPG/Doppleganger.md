@@ -67,7 +67,7 @@ particulièrement envahir les sociétés humaines afin d’assouvir leurs
 désirs : certains d’entre eux apprécient la complexité des chorégraphies
 politiques et d’autres aiment expérimenter avec différentes races et
 différents sexes (à la fois lors de leurs transformations et chez leurs
-partenaires romantiques).
+partenaires romantiques). 
 
 Tous ces métamorphes n’utilisent pas leurs
 dons à des fins cruelles et sadiques mais ce sont ces individus-là qui

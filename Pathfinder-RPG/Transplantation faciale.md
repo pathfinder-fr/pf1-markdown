@@ -15,11 +15,11 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:cs}{s:ISG}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Antipaladin|Antipal]] 4, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Inquisiteur|Inq]] 4, [[Magus]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5
-**Temps d'incantation** 1 round
-**Composantes** [[composantes|V, G, M]] (un cadavre)
-**Portée** personnelle
-**Cibles** le lanceur de sorts
+{s:cs}{s:ISG}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Antipaladin|Antipal]] 4, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Inquisiteur|Inq]] 4, [[Magus]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5  
+**Temps d'incantation** 1 round  
+**Composantes** [[composantes|V, G, M]] (un cadavre)  
+**Portée** personnelle  
+**Cibles** le lanceur de sorts  
 **Durée** permanente
 
 Ce sort permet au personnage d'ajouter ou de retirer un visage qu'il a volé pour son usage personnel. Avant de lancer ce sort, le personnage doit retirer le visage et les yeux d'une créature morte depuis au plus 1 minute par [[NLS|niveau de lanceur de sorts]] et les placer sur les siens. Une fois le sort lancé, la peau volée de la créature se fond magiquement avec celle du personnage, à tel point que les expressions et la couleur des yeux de son nouveau visage semblent parfaitement naturelles. Cette nouvelle apparence confère au personnage un bonus de +10 aux tests de [[Déguisement]]. L'altération apportée par *transplantation faciale* étant permanente, il n'y a aucune aura magique résiduelle et la nouvelle apparence du personnage n'est pas reconnue par les sorts de détection. *Transplantation faciale* peut être lancé autant de fois qu'on le souhaite, permettant à un seul lanceur de porter des couches et des couches de visages volés. Cependant, seul le visage le plus récent est effectivement visible.
