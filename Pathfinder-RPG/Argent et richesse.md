@@ -20,7 +20,50 @@ Chaque personnage débute avec un certain nombre de pièces d’or qu’il peut 
 {s:Reference|TABLERICHESSEDEPARTPJ}
 <center>
 
-<table CLASS="tablo"><caption>Richesse de départ des personnages</caption><tr CLASS="titre"><td>Classe</td><td>Source</td><td>Richesse de départ (po)</td><td>Moyenne (po)</td></tr><tr CLASS="premier"><td>[[Arcaniste]]</td><td>MCA</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Alchimiste]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Barbare]]</td><td>MJ</td><td>3d6x10</td><td>105</td></tr><tr><td>[[Barde]]</td><td>MJ</td><td>3d6x10</td><td>105</td></tr><tr><td>[[Bretteur]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Chaman]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Chasseur]]</td><td>MCA</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Chevalier]]</td><td>MJRA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Cinétiste]]</td><td>AO</td><td>1d6×10</td><td>35</td></tr><tr><td>[[Conjurateur]]</td><td>MJRA</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Druide]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Enquêteur]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Ensorceleur]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Guerrier]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Hypnotiseur]]</td><td>AO</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Inquisiteur]]</td><td>MJRA</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Justicier]]</td><td>*UI*</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Lutteur]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Magicien]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Magus]]</td><td>UM</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Médium]]</td><td>AO</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Métamorphe]]</td><td>*UW*</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Moine]]</td><td>MJ</td><td>1d6x10</td><td>35</td></tr><tr><td>[[Ninja]]</td><td>AG</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Occultiste]]</td><td>AO</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Oracle]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Paladin]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Pistolier]]</td><td>AG</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Prêtre]]</td><td>MJ</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Prêtre combattant]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Psychiste]]</td><td>AO</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Rôdeur]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Roublard]]</td><td>MJ</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Samouraï]]</td><td>AG</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Sanguin]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Scalde]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Sorcière]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Spirite]]</td><td>AO</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Tueur]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr></table>
+<p class="tablo-caption">Richesse de départ des personnages</p>
+
+{.tablo}
+| Classe | Source | Richesse de départ (po) | Moyenne (po) |
+| --- | --- | --- | --- |
+| [[Arcaniste]] | MCA | 2d6×10 | 70 |
+| [[Alchimiste]] | MJRA | 3d6×10 | 105 |
+| [[Barbare]] | MJ | 3d6x10 | 105 |
+| [[Barde]] | MJ | 3d6x10 | 105 |
+| [[Bretteur]] | MCA | 5d6×10 | 175 |
+| [[Chaman]] | MCA | 3d6×10 | 105 |
+| [[Chasseur]] | MCA | 4d6×10 | 140 |
+| [[Chevalier]] | MJRA | 5d6×10 | 175 |
+| [[Cinétiste]] | AO | 1d6×10 | 35 |
+| [[Conjurateur]] | MJRA | 2d6×10 | 70 |
+| [[Druide]] | MJ | 2d6x10 | 70 |
+| [[Enquêteur]] | MCA | 3d6×10 | 105 |
+| [[Ensorceleur]] | MJ | 2d6x10 | 70 |
+| [[Guerrier]] | MJ | 5d6x10 | 175 |
+| [[Hypnotiseur]] | AO | 3d6×10 | 105 |
+| [[Inquisiteur]] | MJRA | 4d6×10 | 140 |
+| [[Justicier]] | *UI* | 5d6x10 | 175 |
+| [[Lutteur]] | MCA | 3d6×10 | 105 |
+| [[Magicien]] | MJ | 2d6x10 | 70 |
+| [[Magus]] | UM | 4d6×10 | 140 |
+| [[Médium]] | AO | 4d6×10 | 140 |
+| [[Métamorphe]] | *UW* | 3d6×10 | 105 |
+| [[Moine]] | MJ | 1d6x10 | 35 |
+| [[Ninja]] | AG | 4d6x10 | 140 |
+| [[Occultiste]] | AO | 4d6×10 | 140 |
+| [[Oracle]] | MJRA | 3d6×10 | 105 |
+| [[Paladin]] | MJ | 5d6x10 | 175 |
+| [[Pistolier]] | AG | 5d6x10 | 175 |
+| [[Prêtre]] | MJ | 4d6x10 | 140 |
+| [[Prêtre combattant]] | MCA | 5d6×10 | 175 |
+| [[Psychiste]] | AO | 2d6×10 | 70 |
+| [[Rôdeur]] | MJ | 5d6x10 | 175 |
+| [[Roublard]] | MJ | 4d6x10 | 140 |
+| [[Samouraï]] | AG | 5d6×10 | 175 |
+| [[Sanguin]] | MCA | 3d6×10 | 105 |
+| [[Scalde]] | MCA | 3d6×10 | 105 |
+| [[Sorcière]] | MJRA | 3d6×10 | 105 |
+| [[Spirite]] | AO | 2d6×10 | 70 |
+| [[Tueur]] | MCA | 5d6×10 | 175 |
 
 </center>
 

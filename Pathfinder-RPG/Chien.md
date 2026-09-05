@@ -34,7 +34,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de chien</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chien]]</td><td>1/3</td></tr><tr><td>[[Chien de selle]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes de chien</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Chien]] | 1/3 |
+| [[Chien de selle]] | 1 |
 
 </div>*La faim transparaît dans les yeux brun foncé de ce petit chien à la fourrure éparse.*
 

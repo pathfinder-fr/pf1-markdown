@@ -37,7 +37,15 @@ LastModified: 2020-09-21 15:22
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de méduse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Méduse à tête de mort]]</td><td>1</td></tr><tr><td>[[Méduse géante]]</td><td>7</td></tr><tr><td>[[Méduse saphir]]</td><td>11</td></tr><tr><td>[[Nuée de méduses]]</td><td>6</td></tr></table>
+<p class="tablo-caption">Variantes de méduse</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Méduse à tête de mort]] | 1 |
+| [[Méduse géante]] | 7 |
+| [[Méduse saphir]] | 11 |
+| [[Nuée de méduses]] | 6 |
 
 </div>*Cette méduse aux longs tentacules a une large ombrelle sur laquelle se dessine un motif ressemblant vaguement à une tête de mort.*
 

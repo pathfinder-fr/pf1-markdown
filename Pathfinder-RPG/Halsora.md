@@ -38,7 +38,16 @@ LastModified: 2020-11-24 23:46
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de créature distordue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Drider]]</td><td>7</td></tr><tr><td>[[Ghonhatine]]</td><td>10</td></tr><tr><td>[[Grothlut]]</td><td>3</td></tr><tr><td>[[Halsora]]</td><td>7</td></tr><tr><td>[[Irnakurse]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de créature distordue</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Drider]] | 7 |
+| [[Ghonhatine]] | 10 |
+| [[Grothlut]] | 3 |
+| [[Halsora]] | 7 |
+| [[Irnakurse]] | 9 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette petite créature végétale est une grosse masse de muscles pareils à des étaux et dont les yeux enfoncés pleurent sans cesse des larmes noires et visqueuses.*
 

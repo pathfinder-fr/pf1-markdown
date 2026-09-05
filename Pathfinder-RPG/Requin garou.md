@@ -68,7 +68,19 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de lycanthrope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris garou]]</td><td>3</td></tr><tr><td>[[Crocodile garou]]</td><td>3</td></tr><tr><td>[[Loup-garou]]</td><td>2</td></tr><tr><td>[[Ours-garou]]</td><td>4</td></tr><tr><td>[[Rat-garou]]</td><td>2</td></tr><tr><td>[[Requin garou]]</td><td>3</td></tr><tr><td>[[Sanglier-garou]]</td><td>2</td></tr><tr><td>[[Tigre-garou]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Variantes de lycanthrope</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Chauve-souris garou]] | 3 |
+| [[Crocodile garou]] | 3 |
+| [[Loup-garou]] | 2 |
+| [[Ours-garou]] | 4 |
+| [[Rat-garou]] | 2 |
+| [[Requin garou]] | 3 |
+| [[Sanglier-garou]] | 2 |
+| [[Tigre-garou]] | 4 |
 
 </div>
 <ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>''Cette créature musculeuse a le corps d’un humain mais une tête de

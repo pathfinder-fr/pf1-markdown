@@ -7,7 +7,19 @@ LastModified: 2021-04-25 00:34
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux qlippoths</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Augnagar]]</td><td>14</td></tr><tr><td>[[Chernobue]]</td><td>12</td></tr><tr><td>[[Cythnigot]]</td><td>2</td></tr><tr><td>[[Iathavos]]</td><td>20</td></tr><tr><td>[[Nyogoth]]</td><td>10</td></tr><tr><td>[[Shoggti]]</td><td>7</td></tr><tr><td>[[Thulgant]]</td><td>18</td></tr><tr><td>[[Véxénion]]</td><td>6</td></tr></table>
+<p class="tablo-caption">Les principaux qlippoths</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Augnagar]] | 14 |
+| [[Chernobue]] | 12 |
+| [[Cythnigot]] | 2 |
+| [[Iathavos]] | 20 |
+| [[Nyogoth]] | 10 |
+| [[Shoggti]] | 7 |
+| [[Thulgant]] | 18 |
+| [[Véxénion]] | 6 |
 
 </div></div><div class="description">**Source :** Bestiaire 2.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type qlippoth|qlippoth]])*

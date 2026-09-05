@@ -28,7 +28,14 @@ LastModified: 2021-07-14 09:58
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon du néant</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du néant]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon du néant adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon du néant vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+<p class="tablo-caption">Variantes de dragon du néant</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon du néant]] | &nbsp; | 9 |
+| [[Dragon du néant adulte]] | &nbsp; | 13 |
+| [[Dragon du néant vénérable]] | &nbsp; | 18 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
 

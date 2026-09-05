@@ -24,6 +24,14 @@ Le personnage peut utiliser la compétence Religion pour se remémorer des infor
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test de Religion</td></tr><tr CLASS="premier"><td>Connaître le nom des plans</td><td>10</td></tr><tr><td>Reconnaître le symbole ou le clergé d’une divinité connue</td><td>10</td></tr><tr><td>Connaître les doctrines et la mythologie connues</td><td>15</td></tr><tr><td>Reconnaître le plan sur lequel le personnage se trouve</td><td>15</td></tr><tr><td>Identifier l’origine planaire d’une créature</td><td>20</td></tr><tr><td>Reconnaître le clergé ou le symbole d’une divinité peu connue</td><td>20</td></tr></table>
+{.tablo .autoalt}
+| Tâche | DD du test de Religion |
+| --- | --- |
+| Connaître le nom des plans | 10 |
+| Reconnaître le symbole ou le clergé d’une divinité connue | 10 |
+| Connaître les doctrines et la mythologie connues | 15 |
+| Reconnaître le plan sur lequel le personnage se trouve | 15 |
+| Identifier l’origine planaire d’une créature | 20 |
+| Reconnaître le clergé ou le symbole d’une divinité peu connue | 20 |
 
 </center>

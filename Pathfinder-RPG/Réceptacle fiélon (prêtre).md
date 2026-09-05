@@ -35,12 +35,36 @@ Contrairement à la plupart des prêtres, les réceptacles fiélons doivent choi
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Archidiables</caption><tr CLASS="titre"><td>Archidiable</td><td>Al</td><td>Thèmes</td><td>Domaines</td><td>Arme de prédilection</td></tr><tr><td>Baalzébul</td><td>LM</td><td>Arrogance, mensonges, mouches</td><td>Air, Loi, Mal, Mort</td><td>Lance</td></tr><tr><td>Bélial</td><td>LM</td><td>Adultère, désir, mensonge</td><td>Charme, Destruction, Loi, Mal</td><td>Corsèque</td></tr><tr><td>Dispater</td><td>LM</td><td>Gouvernement, prisons, villes</td><td>Duperie, Loi, Mal, Noblesse</td><td>Masse d’armes lourde</td></tr><tr><td>Méphistophélès</td><td>LM</td><td>Contrats, diables, secrets</td><td>Connaissance, Loi, Mal, Rune</td><td>Trident</td></tr></table>
+<p class="tablo-caption">Archidiables</p>
+
+{.tablo .autoalt}
+| Archidiable | Al | Thèmes | Domaines | Arme de prédilection |
+| --- | --- | --- | --- | --- |
+| Baalzébul | LM | Arrogance, mensonges, mouches | Air, Loi, Mal, Mort | Lance |
+| Bélial | LM | Adultère, désir, mensonge | Charme, Destruction, Loi, Mal | Corsèque |
+| Dispater | LM | Gouvernement, prisons, villes | Duperie, Loi, Mal, Noblesse | Masse d’armes lourde |
+| Méphistophélès | LM | Contrats, diables, secrets | Connaissance, Loi, Mal, Rune | Trident |
 
 
-<table CLASS="tablo autoalt"><caption>Seigneurs-démons</caption><tr CLASS="titre"><td>Seigneur démon</td><td>Al</td><td>Thèmes</td><td>Domaines</td><td>Arme de prédilection</td></tr><tr><td>Abraxas</td><td>CM</td><td>Magie, savoir interdit, serpents</td><td>Chaos, Connaissance, Magie, Mal</td><td>Fouet</td></tr><tr><td>Baphomet</td><td>CM</td><td>Bêtes, labyrinthes, minotaures</td><td>Chaos, Force, Mal</td><td>Coutille</td></tr><tr><td>Dagon</td><td>CM</td><td>Difformité, mer, monstres marins</td><td>Chaos, Destruction, Eau, Mal</td><td>Trident</td></tr><tr><td>Shax</td><td>CM</td><td>Envie, mensonge, meurtre</td><td>Chaos, Destruction, Mal, Noblesse</td><td>Dague</td></tr></table>
+<p class="tablo-caption">Seigneurs-démons</p>
+
+{.tablo .autoalt}
+| Seigneur démon | Al | Thèmes | Domaines | Arme de prédilection |
+| --- | --- | --- | --- | --- |
+| Abraxas | CM | Magie, savoir interdit, serpents | Chaos, Connaissance, Magie, Mal | Fouet |
+| Baphomet | CM | Bêtes, labyrinthes, minotaures | Chaos, Force, Mal | Coutille |
+| Dagon | CM | Difformité, mer, monstres marins | Chaos, Destruction, Eau, Mal | Trident |
+| Shax | CM | Envie, mensonge, meurtre | Chaos, Destruction, Mal, Noblesse | Dague |
 
 
-<table CLASS="tablo autoalt"><caption>Cavaliers de l’Apocalypse</caption><tr CLASS="titre"><td>Cavalier</td><td>Al</td><td>Thèmes</td><td>Domaines</td><td>Arme de prédilection</td></tr><tr><td>Apollyon</td><td>NM</td><td>Pestilence</td><td>Air, Destruction, Mal, Ténèbres</td><td>Faux</td></tr><tr><td>Charon</td><td>NM</td><td>Mort</td><td>Connaissance, Eau, Mal, Mort</td><td>Bâton</td></tr><tr><td>Szuriel</td><td>NM</td><td>Guerre</td><td>Feu, Force, Guerre, Mal</td><td>Épée à deux mains</td></tr><tr><td>Trelmarixian</td><td>NM</td><td>Famine</td><td>Climat, Folie, Mal, Terre</td><td>Gantelet clouté</td></tr></table>
+<p class="tablo-caption">Cavaliers de l’Apocalypse</p>
+
+{.tablo .autoalt}
+| Cavalier | Al | Thèmes | Domaines | Arme de prédilection |
+| --- | --- | --- | --- | --- |
+| Apollyon | NM | Pestilence | Air, Destruction, Mal, Ténèbres | Faux |
+| Charon | NM | Mort | Connaissance, Eau, Mal, Mort | Bâton |
+| Szuriel | NM | Guerre | Feu, Force, Guerre, Mal | Épée à deux mains |
+| Trelmarixian | NM | Famine | Climat, Folie, Mal, Terre | Gantelet clouté |
 
 </center></div></div>

@@ -36,7 +36,15 @@ LastModified: 2021-02-23 16:36
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de lézard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Caméléon géant]]</td><td>3</td></tr><tr><td>[[Gecko géant]]</td><td>1</td></tr><tr><td>[[Lézard à collerette géant]]</td><td>5</td></tr><tr><td>[[Varan]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de lézard</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Caméléon géant]] | 3 |
+| [[Gecko géant]] | 1 |
+| [[Lézard à collerette géant]] | 5 |
+| [[Varan]] | 2 |
 
 </div>*Ce lézard écailleux qui se fond presque parfaitement dans son environnement a des yeux bougeant indépendamment l’un de l’autre.*
 

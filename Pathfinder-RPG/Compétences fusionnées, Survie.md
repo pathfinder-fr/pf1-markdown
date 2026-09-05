@@ -47,7 +47,28 @@ Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s�
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Conditions en vigueur</td><td>Mod au DD du test de Survie</td></tr><tr CLASS="premier"><td>Par tranche de trois créatures au sein du groupe pisté</td><td>-1</td></tr><tr><td>**Taille des créatures pistées :**</td><td>&emsp;</td></tr><tr><td>&emsp;Infime (I)</td><td>+8</td></tr><tr><td>&emsp;Minuscule (Min)</td><td>+4</td></tr><tr><td>&emsp;Très petite (TP)</td><td>+2</td></tr><tr><td>&emsp;Petite (P)</td><td>+1</td></tr><tr><td>&emsp;Moyenne (M)</td><td>0</td></tr><tr><td>&emsp;Grande (G)</td><td>-1</td></tr><tr><td>&emsp;Très grande (TG)</td><td>-2</td></tr><tr><td>&emsp;Gigantesque (Gig)</td><td>-4</td></tr><tr><td>&emsp;Colossale (C)</td><td>-8</td></tr><tr><td>Par tranche de 24 heures écoulées depuis que la piste a été laissée</td><td>+1</td></tr><tr><td>Par heure de pluie depuis que la piste a été laissée</td><td>+1</td></tr><tr><td>Chute de neige depuis que la piste a été laissée</td><td>+10</td></tr><tr><td>**Mauvaise visibilité :**</td><td>&emsp;</td></tr><tr><td>&emsp;Brouillard ou précipitation</td><td>+3</td></tr><tr><td>&emsp;Clair de lune</td><td>+3</td></tr><tr><td>&emsp;Ciel nocturne couvert ou nuit sans lune</td><td>+6</td></tr><tr><td>Le groupe pisté masque sa piste et réduit de moitié sa vitesse de déplacement</td><td>+5</td></tr></table>
+{.tablo .autoalt}
+| Conditions en vigueur | Mod au DD du test de Survie |
+| --- | --- |
+| Par tranche de trois créatures au sein du groupe pisté | -1 |
+| **Taille des créatures pistées :** | &emsp; |
+| &emsp;Infime (I) | +8 |
+| &emsp;Minuscule (Min) | +4 |
+| &emsp;Très petite (TP) | +2 |
+| &emsp;Petite (P) | +1 |
+| &emsp;Moyenne (M) | 0 |
+| &emsp;Grande (G) | -1 |
+| &emsp;Très grande (TG) | -2 |
+| &emsp;Gigantesque (Gig) | -4 |
+| &emsp;Colossale (C) | -8 |
+| Par tranche de 24 heures écoulées depuis que la piste a été laissée | +1 |
+| Par heure de pluie depuis que la piste a été laissée | +1 |
+| Chute de neige depuis que la piste a été laissée | +10 |
+| **Mauvaise visibilité :** | &emsp; |
+| &emsp;Brouillard ou précipitation | +3 |
+| &emsp;Clair de lune | +3 |
+| &emsp;Ciel nocturne couvert ou nuit sans lune | +6 |
+| Le groupe pisté masque sa piste et réduit de moitié sa vitesse de déplacement | +5 |
 
 </center>
 

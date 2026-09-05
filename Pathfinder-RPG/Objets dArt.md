@@ -18,15 +18,95 @@ Les objets d’art s’achètent et se vendent à leur pleine valeur et servent 
 ### Détermination aléatoire des objets d'art
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 1 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~50 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-05</td><td>statuette de guerrier en bronze</td><td>15</td></tr><tr><td>06</td><td>carillon en cuivre élaboré</td><td>20</td></tr><tr><td>07</td><td>éventail peint en papier avec une armature en argent</td><td>20</td></tr><tr><td>08-09</td><td>carafe en cuivre et en verre</td><td>25</td></tr><tr><td>10-17</td><td>symbole sacré en argent</td><td>25</td></tr><tr><td>18-21</td><td>idole sculptée dans la pierre</td><td>30</td></tr><tr><td>22-25</td><td>assortiment de six dés en ivoire</td><td>30</td></tr><tr><td>26-29</td><td>bol en ivoire gravés d’animaux</td><td>40</td></tr><tr><td>30</td><td>poupée de porcelaine avec des habits de soie</td><td>40</td></tr><tr><td>31-32</td><td>masque de porcelaine</td><td>40</td></tr><tr><td>33-36</td><td>flasque en bronze gravée de guerrier</td><td>50</td></tr><tr><td>37-39</td><td>brasero en cuivre avec des gravures religieuses</td><td>50</td></tr><tr><td>40-42</td><td>sceptre de cuivre avec des incrustations en or</td><td>50</td></tr><tr><td>43-44</td><td>œuf de cristal sur un présentoir en argent</td><td>50</td></tr><tr><td>45-46</td><td>peinture d’une noble</td><td>50</td></tr><tr><td>47-51</td><td>calice en ébénite polie</td><td>50</td></tr><tr><td>52</td><td>hochet de bébé en argent</td><td>50</td></tr><tr><td>53-55</td><td>échiquier en argent</td><td>50</td></tr><tr><td>56-60</td><td>étui à parchemin en ivoire</td><td>60</td></tr><tr><td>61-66</td><td>assiette en argent décorée</td><td>60</td></tr><tr><td>67-71</td><td>corne à boire en ivoire avec un embout en cuivre</td><td>60</td></tr><tr><td>72-74</td><td>sceau en argent d’une famille noble</td><td>60</td></tr><tr><td>75-80</td><td>statue de dragon en argent</td><td>65</td></tr><tr><td>81-83</td><td>encensoir en électrum avec des filigranes d’argent</td><td>70</td></tr><tr><td>84-87</td><td>chandelier en argent avec un symbole sacré</td><td>75</td></tr><tr><td>88-90</td><td>peigne en argent avec une poignée ornementée</td><td>75</td></tr><tr><td>91-93</td><td>miroir à main en argent</td><td>75</td></tr><tr><td>94-96</td><td>crâne en cristal</td><td>80</td></tr><tr><td>97</td><td>flûte ornementée en argent</td><td>80</td></tr><tr><td>98-100</td><td>scarabée gravé en jade</td><td>85</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 1 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~50 po) | Prix(po) |
+| --- | --- | --- |
+| 01-05 | statuette de guerrier en bronze | 15 |
+| 06 | carillon en cuivre élaboré | 20 |
+| 07 | éventail peint en papier avec une armature en argent | 20 |
+| 08-09 | carafe en cuivre et en verre | 25 |
+| 10-17 | symbole sacré en argent | 25 |
+| 18-21 | idole sculptée dans la pierre | 30 |
+| 22-25 | assortiment de six dés en ivoire | 30 |
+| 26-29 | bol en ivoire gravés d’animaux | 40 |
+| 30 | poupée de porcelaine avec des habits de soie | 40 |
+| 31-32 | masque de porcelaine | 40 |
+| 33-36 | flasque en bronze gravée de guerrier | 50 |
+| 37-39 | brasero en cuivre avec des gravures religieuses | 50 |
+| 40-42 | sceptre de cuivre avec des incrustations en or | 50 |
+| 43-44 | œuf de cristal sur un présentoir en argent | 50 |
+| 45-46 | peinture d’une noble | 50 |
+| 47-51 | calice en ébénite polie | 50 |
+| 52 | hochet de bébé en argent | 50 |
+| 53-55 | échiquier en argent | 50 |
+| 56-60 | étui à parchemin en ivoire | 60 |
+| 61-66 | assiette en argent décorée | 60 |
+| 67-71 | corne à boire en ivoire avec un embout en cuivre | 60 |
+| 72-74 | sceau en argent d’une famille noble | 60 |
+| 75-80 | statue de dragon en argent | 65 |
+| 81-83 | encensoir en électrum avec des filigranes d’argent | 70 |
+| 84-87 | chandelier en argent avec un symbole sacré | 75 |
+| 88-90 | peigne en argent avec une poignée ornementée | 75 |
+| 91-93 | miroir à main en argent | 75 |
+| 94-96 | crâne en cristal | 80 |
+| 97 | flûte ornementée en argent | 80 |
+| 98-100 | scarabée gravé en jade | 85 |
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 2 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~100 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>carillon élaboré en argent</td><td>60</td></tr><tr><td>03-08</td><td>scarabée en or gravé</td><td>75</td></tr><tr><td>09-10</td><td>éventail peint en soie avec une armature en électrum</td><td>75</td></tr><tr><td>11-12</td><td>tête d’animal empaillé montée sur une plaque</td><td>75</td></tr><tr><td>13-17</td><td>assortiment de six dés en argent</td><td>75</td></tr><tr><td>18-20</td><td>carafe en argent et en verre</td><td>75</td></tr><tr><td>21-22</td><td>bol en argent gravé de lion</td><td>75</td></tr><tr><td>23-26</td><td>masque en argent</td><td>75</td></tr><tr><td>27-30</td><td>idole sculptée dans le jade</td><td>80</td></tr><tr><td>31</td><td>poupée de porcelaine habillée de fourrures et de bijoux</td><td>80</td></tr><tr><td>32-35</td><td>brasero en argent avec des symboles religieux</td><td>80</td></tr><tr><td>36-38</td><td>flasque en argent avec des symboles religieux</td><td>80</td></tr><tr><td>39-41</td><td>encensoir d’or avec des filigranes en argent</td><td>90</td></tr><tr><td>42-44</td><td>échiquier en or et en argent</td><td>100</td></tr><tr><td>45</td><td>hochet de bébé en or</td><td>100</td></tr><tr><td>46-53</td><td>symbole sacré en or</td><td>100</td></tr><tr><td>54-56</td><td>lyre de maître</td><td>100</td></tr><tr><td>57-58</td><td>peinture d’une princesse</td><td>100</td></tr><tr><td>59-61</td><td>coupe en argent frappée du blason royal</td><td>100</td></tr><tr><td>62-65</td><td>assiette décorée en électrum</td><td>110</td></tr><tr><td>66-69</td><td>statue de dragon en or</td><td>110</td></tr><tr><td>70-72</td><td>statue de lion en or</td><td>110</td></tr><tr><td>73-77</td><td>corne à boire en ivoire avec un embout en argent</td><td>110</td></tr><tr><td>78-81</td><td>miroir à main en or et en argent</td><td>120</td></tr><tr><td>82-85</td><td>chaudron en argent avec des symboles d’animaux</td><td>120</td></tr><tr><td>86-88</td><td>peigne en argent avec une poignée en or</td><td>125</td></tr><tr><td>89-90</td><td>œuf en argent avec une figurine de dragon</td><td>125</td></tr><tr><td>91-92</td><td>sceptre en argent avec des aigles</td><td>125</td></tr><tr><td>93-97</td><td>calice en argent avec des dragons gravés</td><td>150</td></tr><tr><td>98-100</td><td>chandelier en or avec un symbole sacré</td><td>200</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 2 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~100 po) | Prix(po) |
+| --- | --- | --- |
+| 01-02 | carillon élaboré en argent | 60 |
+| 03-08 | scarabée en or gravé | 75 |
+| 09-10 | éventail peint en soie avec une armature en électrum | 75 |
+| 11-12 | tête d’animal empaillé montée sur une plaque | 75 |
+| 13-17 | assortiment de six dés en argent | 75 |
+| 18-20 | carafe en argent et en verre | 75 |
+| 21-22 | bol en argent gravé de lion | 75 |
+| 23-26 | masque en argent | 75 |
+| 27-30 | idole sculptée dans le jade | 80 |
+| 31 | poupée de porcelaine habillée de fourrures et de bijoux | 80 |
+| 32-35 | brasero en argent avec des symboles religieux | 80 |
+| 36-38 | flasque en argent avec des symboles religieux | 80 |
+| 39-41 | encensoir d’or avec des filigranes en argent | 90 |
+| 42-44 | échiquier en or et en argent | 100 |
+| 45 | hochet de bébé en or | 100 |
+| 46-53 | symbole sacré en or | 100 |
+| 54-56 | lyre de maître | 100 |
+| 57-58 | peinture d’une princesse | 100 |
+| 59-61 | coupe en argent frappée du blason royal | 100 |
+| 62-65 | assiette décorée en électrum | 110 |
+| 66-69 | statue de dragon en or | 110 |
+| 70-72 | statue de lion en or | 110 |
+| 73-77 | corne à boire en ivoire avec un embout en argent | 110 |
+| 78-81 | miroir à main en or et en argent | 120 |
+| 82-85 | chaudron en argent avec des symboles d’animaux | 120 |
+| 86-88 | peigne en argent avec une poignée en or | 125 |
+| 89-90 | œuf en argent avec une figurine de dragon | 125 |
+| 91-92 | sceptre en argent avec des aigles | 125 |
+| 93-97 | calice en argent avec des dragons gravés | 150 |
+| 98-100 | chandelier en or avec un symbole sacré | 200 |
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 3 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~500 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-03</td><td>crâne de démon plaqué or</td><td>300</td></tr><tr><td>04-13</td><td>idole de marbre</td><td>300</td></tr><tr><td>14-19</td><td>luth de maître en ébénite</td><td>300</td></tr><tr><td>20-24</td><td>scarabée gravé en mithral</td><td>400</td></tr><tr><td>25-28</td><td>carafe en or et en ivoire</td><td>400</td></tr><tr><td>29-32</td><td>bol en or gravé de dragons</td><td>400</td></tr><tr><td>33-35</td><td>encensoir en or avec des incrustations de platine</td><td>400</td></tr><tr><td>36-41</td><td>masque en or</td><td>450</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 3 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~500 po) | Prix(po) |
+| --- | --- | --- |
+| 01-03 | crâne de démon plaqué or | 300 |
+| 04-13 | idole de marbre | 300 |
+| 14-19 | luth de maître en ébénite | 300 |
+| 20-24 | scarabée gravé en mithral | 400 |
+| 25-28 | carafe en or et en ivoire | 400 |
+| 29-32 | bol en or gravé de dragons | 400 |
+| 33-35 | encensoir en or avec des incrustations de platine | 400 |
+| 36-41 | masque en or | 450 |
 
 </td><td width="50%">
 
@@ -34,14 +114,76 @@ Les objets d’art s’achètent et se vendent à leur pleine valeur et servent 
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 4 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~1 000 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-05</td><td>scarabée gravé en platine</td><td>700</td></tr><tr><td>06-11</td><td>crâne de dragon plaqué or</td><td>800</td></tr><tr><td>12-18</td><td>bol en platine avec des gravures ésotériques</td><td>800</td></tr><tr><td>19-22</td><td>encensoir ornementé en platine</td><td>800</td></tr><tr><td>23-26</td><td>carafe en or décorée de grappes de raisin</td><td>850</td></tr><tr><td>27-31</td><td>masque en platine</td><td>900</td></tr><tr><td>32-36</td><td>échiquier en or et en mithral</td><td>1 000</td></tr><tr><td>37-41</td><td>planétaire en or et en platine</td><td>1 000</td></tr><tr><td>42-46</td><td>flûte en or</td><td>1 000</td></tr><tr><td>47-51</td><td>idole en or avec d’étranges gravures</td><td>1 000</td></tr><tr><td>52</td><td>hochet de bébé en platine</td><td>1 000</td></tr><tr><td>53-55</td><td>symbole sacré en platine d’un prêtre célèbre</td><td>1 000</td></tr><tr><td>56-64</td><td>assiette décorée en platine</td><td>1 100</td></tr><tr><td>65-68</td><td>chaudron de platine avec d’étranges symboles</td><td>1 100</td></tr><tr><td>69-71</td><td>flasque en platine avec des symboles religieux</td><td>1 100</td></tr><tr><td>72-77</td><td>coupe en platine frappée du blason royal</td><td>1 200</td></tr><tr><td>78-81</td><td>sceptre de platine avec incrustations d’or</td><td>1 200</td></tr><tr><td>82-87</td><td>calice en platine avec des anges gravés</td><td>1 250</td></tr><tr><td>88-93</td><td>statuette de divinité en platine</td><td>1 300</td></tr><tr><td>94-100</td><td>peinture d’une reine réalisée par un maître</td><td>1 500</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 4 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~1 000 po) | Prix(po) |
+| --- | --- | --- |
+| 01-05 | scarabée gravé en platine | 700 |
+| 06-11 | crâne de dragon plaqué or | 800 |
+| 12-18 | bol en platine avec des gravures ésotériques | 800 |
+| 19-22 | encensoir ornementé en platine | 800 |
+| 23-26 | carafe en or décorée de grappes de raisin | 850 |
+| 27-31 | masque en platine | 900 |
+| 32-36 | échiquier en or et en mithral | 1 000 |
+| 37-41 | planétaire en or et en platine | 1 000 |
+| 42-46 | flûte en or | 1 000 |
+| 47-51 | idole en or avec d’étranges gravures | 1 000 |
+| 52 | hochet de bébé en platine | 1 000 |
+| 53-55 | symbole sacré en platine d’un prêtre célèbre | 1 000 |
+| 56-64 | assiette décorée en platine | 1 100 |
+| 65-68 | chaudron de platine avec d’étranges symboles | 1 100 |
+| 69-71 | flasque en platine avec des symboles religieux | 1 100 |
+| 72-77 | coupe en platine frappée du blason royal | 1 200 |
+| 78-81 | sceptre de platine avec incrustations d’or | 1 200 |
+| 82-87 | calice en platine avec des anges gravés | 1 250 |
+| 88-93 | statuette de divinité en platine | 1 300 |
+| 94-100 | peinture d’une reine réalisée par un maître | 1 500 |
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 5 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~5 000 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-08</td><td>livre de chansons oubliées écrit par un célèbre barde</td><td>3 000</td></tr><tr><td>09-16</td><td>boîte à musique en ébénite et en platine</td><td>4 000</td></tr><tr><td>17-26</td><td>sablier en mithral avec de la poussière de diamant</td><td>4 000</td></tr><tr><td>27-34</td><td>œuf orné de gemmes contenant le sang d’un ensorceleur épique</td><td>4 500</td></tr><tr><td>35-37</td><td>urne en or contenant les cendres d’un héros</td><td>4 500</td></tr><tr><td>38-45</td><td>heaume taillé dans le crâne d’un diantrefosse</td><td>5 000</td></tr><tr><td>46-55</td><td>texte sacré écrit de la main d’un saint</td><td>5 000</td></tr><tr><td>56-65</td><td>peinture d’une reine bien-aimée par un maître</td><td>5 000</td></tr><tr><td>66-74</td><td>idole de platine avec de mystérieuses gravures</td><td>5 000</td></tr><tr><td>75-77</td><td>épée d’apparat incrustée de gemmes</td><td>6 000</td></tr><tr><td>78-83</td><td>fémur de saint gravé</td><td>6 000</td></tr><tr><td>84-88</td><td>calice en platine béni par un saint</td><td>6 000</td></tr><tr><td>89-91</td><td>météore métallique luisant</td><td>6 500</td></tr><tr><td>92-97</td><td>orbe royal en or incrusté de joyaux</td><td>7 000</td></tr><tr><td>98-100</td><td>cœur de dragon cristallisé</td><td>7 500</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 5 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~5 000 po) | Prix(po) |
+| --- | --- | --- |
+| 01-08 | livre de chansons oubliées écrit par un célèbre barde | 3 000 |
+| 09-16 | boîte à musique en ébénite et en platine | 4 000 |
+| 17-26 | sablier en mithral avec de la poussière de diamant | 4 000 |
+| 27-34 | œuf orné de gemmes contenant le sang d’un ensorceleur épique | 4 500 |
+| 35-37 | urne en or contenant les cendres d’un héros | 4 500 |
+| 38-45 | heaume taillé dans le crâne d’un diantrefosse | 5 000 |
+| 46-55 | texte sacré écrit de la main d’un saint | 5 000 |
+| 56-65 | peinture d’une reine bien-aimée par un maître | 5 000 |
+| 66-74 | idole de platine avec de mystérieuses gravures | 5 000 |
+| 75-77 | épée d’apparat incrustée de gemmes | 6 000 |
+| 78-83 | fémur de saint gravé | 6 000 |
+| 84-88 | calice en platine béni par un saint | 6 000 |
+| 89-91 | météore métallique luisant | 6 500 |
+| 92-97 | orbe royal en or incrusté de joyaux | 7 000 |
+| 98-100 | cœur de dragon cristallisé | 7 500 |
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet d'art de grade 6 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Objet d'art (~10 000 po)</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-06</td><td>âme de vampire gelée</td><td>7 000</td></tr><tr><td>07-13</td><td>corne de licorne avec incrustations de mithral</td><td>7 000</td></tr><tr><td>14-16</td><td>souffle de dieu cristallisé</td><td>10 000</td></tr><tr><td>17-22</td><td>essence de vérité</td><td>10 000</td></tr><tr><td>23-31</td><td>globe d’air pur</td><td>10 000</td></tr><tr><td>32-40</td><td>cœur de la montagne</td><td>10 000</td></tr><tr><td>41-46</td><td>gemme d’âme inversée</td><td>10 000</td></tr><tr><td>47-55</td><td>orbe d’eau vivante</td><td>10 000</td></tr><tr><td>56-64</td><td>éclat de feu pur</td><td>10 000</td></tr><tr><td>65-72</td><td>glace qui ne fond jamais</td><td>10 000</td></tr><tr><td>73-79</td><td>bijou temporel</td><td>11 000</td></tr><tr><td>80-83</td><td>casse-tête insoluble en adamantium</td><td>12 000</td></tr><tr><td>84-89</td><td>texte sacré écrit avec le sang d’un saint</td><td>12 000</td></tr><tr><td>90-93</td><td>tribarre en mithral</td><td>12 000</td></tr><tr><td>94-100</td><td>tapisserie éthérée</td><td>13 000</td></tr></table>
+<p class="tablo-caption">Objet d'art de grade 6 aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Objet d'art (~10 000 po) | Prix(po) |
+| --- | --- | --- |
+| 01-06 | âme de vampire gelée | 7 000 |
+| 07-13 | corne de licorne avec incrustations de mithral | 7 000 |
+| 14-16 | souffle de dieu cristallisé | 10 000 |
+| 17-22 | essence de vérité | 10 000 |
+| 23-31 | globe d’air pur | 10 000 |
+| 32-40 | cœur de la montagne | 10 000 |
+| 41-46 | gemme d’âme inversée | 10 000 |
+| 47-55 | orbe d’eau vivante | 10 000 |
+| 56-64 | éclat de feu pur | 10 000 |
+| 65-72 | glace qui ne fond jamais | 10 000 |
+| 73-79 | bijou temporel | 11 000 |
+| 80-83 | casse-tête insoluble en adamantium | 12 000 |
+| 84-89 | texte sacré écrit avec le sang d’un saint | 12 000 |
+| 90-93 | tribarre en mithral | 12 000 |
+| 94-100 | tapisserie éthérée | 13 000 |
 
 </td></tr></table>

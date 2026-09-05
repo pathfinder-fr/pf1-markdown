@@ -39,7 +39,20 @@ Categories:
 {s:ImageCentre|Bestiaire/Araignée géante.jpg|90%}
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'araignée</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Araignée écarlate]]</td><td>1/4</td></tr><tr><td>[[Araignée géante]]</td><td>1</td></tr><tr><td>[[Araignée goliath]]</td><td>11</td></tr><tr><td>[[Araignée lunaire]]</td><td>2</td></tr><tr><td>[[Araignée ogre]]</td><td>5</td></tr><tr><td>[[Araignée-crabe géante]]</td><td>1/2</td></tr><tr><td>[[Nuée daraignées|Nuée d'araignées]]</td><td>1</td></tr><tr><td>[[Tarentule géante]]</td><td>8</td></tr><tr><td>[[Veuve noire géante]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes d'araignée</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Araignée écarlate]] | 1/4 |
+| [[Araignée géante]] | 1 |
+| [[Araignée goliath]] | 11 |
+| [[Araignée lunaire]] | 2 |
+| [[Araignée ogre]] | 5 |
+| [[Araignée-crabe géante]] | 1/2 |
+| [[Nuée daraignées|Nuée d'araignées]] | 1 |
+| [[Tarentule géante]] | 8 |
+| [[Veuve noire géante]] | 3 |
 
 </div>*Sans faire un bruit, une araignée aussi grande qu’un homme émerge du tunnel de toile qu’elle a tissé.*
 

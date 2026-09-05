@@ -11,7 +11,19 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux Agathions</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Avoral]]</td><td>9</td></tr><tr><td>[[Cervinal]]</td><td>17</td></tr><tr><td>[[Cétacéal]]</td><td>15</td></tr><tr><td>[[Draconal]]</td><td>20</td></tr><tr><td>[[Léonal]]</td><td>12</td></tr><tr><td>[[Reptial]]</td><td>4</td></tr><tr><td>[[Silvanshie]]</td><td>2</td></tr><tr><td>[[Vulpinal]]</td><td>6</td></tr></table>
+<p class="tablo-caption">Les principaux Agathions</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Avoral]] | 9 |
+| [[Cervinal]] | 17 |
+| [[Cétacéal]] | 15 |
+| [[Draconal]] | 20 |
+| [[Léonal]] | 12 |
+| [[Reptial]] | 4 |
+| [[Silvanshie]] | 2 |
+| [[Vulpinal]] | 6 |
 
 </div></div><div class="description">*Source : Bestiaire 2 p.17.*</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*

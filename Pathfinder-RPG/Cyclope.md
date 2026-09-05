@@ -41,7 +41,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de cyclope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cyclope]]</td><td>5</td></tr><tr><td>[[Cyclope kabandha]]</td><td>9</td></tr><tr><td>[[Grand cyclope]]</td><td>12</td></tr></table>
+<p class="tablo-caption">Variantes de cyclope</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Cyclope]] | 5 |
+| [[Cyclope kabandha]] | 9 |
+| [[Grand cyclope]] | 12 |
 
 </div>*Sous l’unique œil qui orne le front de ce géant de près de trois mètres, on peut voir une large bouche aussi vaste qu’une caverne.*
 

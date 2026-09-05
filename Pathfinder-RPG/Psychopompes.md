@@ -7,7 +7,19 @@ LastModified: 2025-02-16 19:25
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux psychopompes</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Catrina]]</td><td>5</td></tr><tr><td>[[Mémitim]]</td><td>15</td></tr><tr><td>[[Morrigna]]</td><td>13</td></tr><tr><td>[[Nosoï]]</td><td>2</td></tr><tr><td>[[Shoki]]</td><td>9</td></tr><tr><td>[[Vanth]]</td><td>7</td></tr><tr><td>[[Viduus]]</td><td>4</td></tr><tr><td>[[Yamaraj]]</td><td>20</td></tr></table>
+<p class="tablo-caption">Les principaux psychopompes</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Catrina]] | 5 |
+| [[Mémitim]] | 15 |
+| [[Morrigna]] | 13 |
+| [[Nosoï]] | 2 |
+| [[Shoki]] | 9 |
+| [[Vanth]] | 7 |
+| [[Viduus]] | 4 |
+| [[Yamaraj]] | 20 |
 
 </div></div><div class="description">**Source :** Bestiaire 4.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]])*

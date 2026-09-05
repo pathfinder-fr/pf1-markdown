@@ -39,7 +39,13 @@ Categories:
 <div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'armure fantôme</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Armure fantôme gardienne]]</td><td>2</td></tr><tr><td>[[Armure fantôme géante]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Variantes d'armure fantôme</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Armure fantôme gardienne]] | 2 |
+| [[Armure fantôme géante]] | 4 |
 
 </div>*Cette armure bouge comme si elle était portée par un guerrier extrêmement compétent, mais il n’y a de toute évidence personne à l’intérieur.*
 

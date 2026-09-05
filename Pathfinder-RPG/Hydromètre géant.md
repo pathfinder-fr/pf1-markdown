@@ -37,7 +37,13 @@ LastModified: 2020-09-20 00:19
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'hydromètre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hydromètre géant]]</td><td>1</td></tr><tr><td>[[Nymphe dhydromètre|Nymphe d'hydromètre]]</td><td>1/4</td></tr></table>
+<p class="tablo-caption">Variantes d'hydromètre</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Hydromètre géant]] | 1 |
+| [[Nymphe dhydromètre|Nymphe d'hydromètre]] | 1/4 |
 
 </div>*Cet insecte est doté de longues pattes duveteuses qui lui permettent de marcher sur l’eau tout aussi facilement que sur la terre ferme.*
 

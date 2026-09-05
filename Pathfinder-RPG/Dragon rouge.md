@@ -33,7 +33,17 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon rouge</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon rouge]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon rouge adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon rouge vénérable]]</td><td>&nbsp;</td><td>19</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dracosire rouge mythique]]</td><td>25</td><td>10</td></tr><tr><td>[[Jeune dragon rouge mythique]]</td><td>12</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de dragon rouge</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon rouge]] | &nbsp; | 10 |
+| [[Dragon rouge adulte]] | &nbsp; | 14 |
+| [[Dragon rouge vénérable]] | &nbsp; | 19 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Dracosire rouge mythique]] | 25 | 10 |
+| [[Jeune dragon rouge mythique]] | 12 | 5 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li>*Une couronne de cornes cruelles ceint la tête de ce puissant dragon dont le long corps est couvert d’écailles épaisses, couleur de lave.*
 

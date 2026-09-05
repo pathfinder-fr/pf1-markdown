@@ -32,7 +32,14 @@ Dragon, CN
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon lunaire</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon lunaire]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon lunaire adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon lunaire vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+<p class="tablo-caption">Variantes de dragon lunaire</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon lunaire]] | &nbsp; | 9 |
+| [[Dragon lunaire adulte]] | &nbsp; | 13 |
+| [[Dragon lunaire vénérable]] | &nbsp; | 18 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Un halo scintillant entoure la tête couronnée d’une crête de ce majestueux dragon. Des reflets ondoient sur ses grandes ailes comme du tulle laiteux sous les rayons de la lune.*
 

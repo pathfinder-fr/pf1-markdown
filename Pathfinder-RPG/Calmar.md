@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de calmar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Calmar]]</td><td>1</td></tr><tr><td>[[Calmar géant]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de calmar</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Calmar]] | 1 |
+| [[Calmar géant]] | 9 |
 
 </div>*Ce calmar rouge et effilé traverse les flots à grande vitesse. Au-dessus de ses tentacules, deux grands yeux scrutent les environs.*
 

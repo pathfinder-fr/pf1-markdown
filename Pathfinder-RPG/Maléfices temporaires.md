@@ -11,7 +11,34 @@ Les [[sorcière|sorcières]] apprennent un certain nombre de sortilèges, appel�
 
 <center>
 
-<table CLASS="tablo toutgauche autoalt"><caption>Maléfices de sorcières</caption><tr CLASS="titre"><td>Maléfices</td><td>Maléfices majeurs</td><td>Grands maléfices</td></tr><tr CLASS="premier"><td>[[Maléfices#Cercle|Cercle (Ext)]]</td><td>[[Maléfices#Agonie|Agonie (Sur)]]</td><td>[[Maléfices#Désastrenaturel|Désastre naturel (Sur)]]</td></tr><tr><td>[[Maléfices#Chance|Chance (Sur)]]</td><td>[[Maléfices#Cauchemars|Cauchemars (Sur)]]</td><td>[[Maléfices#Donneusedevie|Donneuse de vie (Sur)]]</td></tr><tr><td>[[Maléfices#Charme|Charme (Sur)]]</td><td>[[Maléfices#Contrôleduclimat|Contrôle du climat (Sur)]]</td><td>[[Maléfices#Malédictionmortelle|Malédiction mortelle (Sur)]]</td></tr><tr><td>[[Maléfices#Déguisement|Déguisement (Sur)]]</td><td>[[Maléfices#Guérisonmajeure|Guérison majeure (Sur)]]</td><td>[[Maléfices#Réincarnationforcée|Réincarnation forcée (Sur)]]</td></tr><tr><td>[[Maléfices#Dépérissement|Dépérissement (Sur)]]</td><td>[[Maléfices#Oeildeguenaude|Oeil de guenaude (Sur)]]</td><td>[[Maléfices#Sommeiléternel|Sommeil éternel (Sur)]]</td></tr><tr><td>[[Maléfices#Dondeslangues|Don des langues (Sur)]]</td><td>[[Maléfices#Poupéedecire|Poupée de cire (Sur)]]</td><td>[[Maléfices#Convocationdesprit|Convocation d’esprit* (Mag)]]</td></tr><tr><td>[[Maléfices#Guérison|Guérison (Sur)]]</td><td>[[Maléfices#Représailles|Représailles (Sur)]]</td><td>[[Maléfices#Huttedelasorcière|Hutte de la sorcière* (Sur)]]</td></tr><tr><td>[[Maléfices#Malchance|Malchance (Sur)]]</td><td>[[Maléfices#Vision|Vision (Sur)]]</td><td>[[Maléfices#Sinistreprophétie|Sinistre prophétie* (Sur)]]</td></tr><tr><td>[[Maléfices#Mauvaisœil|Mauvais œil (Sur)]]</td><td>[[Maléfices#Blessuresinfectées|Blessures infectées* (Sur)]]</td></tr><tr><td>[[Maléfices#Ricanement|Ricanement (Sur)]]</td><td>[[maléfices#Brouetdelasorcière|Brouet de la sorcière* (Ext)]]</td></tr><tr><td>[[Maléfices#Sceau|Sceau (Sur)]]</td><td>[[Maléfices#Couvertdegivre|Couvert de givre* (Sur)]]</td></tr><tr><td>[[Maléfices#Sommeil|Sommeil (Sur)]]</td><td>[[Maléfices#Cuisinerlesgens|Cuisiner les gens* (Sur)]]</td></tr><tr><td>[[Maléfices#Vol|Vol (Sur)]]</td><td>[[maléfices#Demeurecachée|Demeure cachée* (Mag)]]</td></tr><tr><td>[[Maléfices#Agacerlesbêtes|Agacer les bêtes* (Sur)]]</td><td>[[maléfices#Oeildelabête|OEil de la bête* (Sur)]]</td></tr><tr><td>[[Maléfices#Cheveuxpréhensiles|Cheveux préhensiles* (Sur)]]</td><td>[[Maléfices#Parlerenrêve|Parler en rêve* (Mag)]]</td></tr><tr><td>[[Maléfices#Cicatrice|Cicatrice* (Sur)]]</td><td>[[Maléfices#Tombedeglace|Tombe de glace* (Sur)]]</td></tr><tr><td>[[Maléfices#Langagesauvage|Langage sauvage* (Sur)]]</td></tr><tr><td>[[Maléfices#Odeurdenfant|Odeur d'enfant* (Ext)]]</td></tr><tr><td>[[Maléfices#Oiseaudemauvaisaugure|Oiseau de mauvais augure* (Sur)]]</td></tr><tr><td>[[Maléfices#Ongle|Ongle* (Ext)]]</td></tr><tr><td>[[Maléfices#Poumonaquatique|Poumon aquatique* (Ext)]]</td></tr><tr><td>[[Maléfices#Sorcièredumarais|Sorcière du marais* (Mag)]]</td></tr><tr><td>[[Maléfices#Tremperdanslepoison|Tremper dans le poison* (Mag)]]</td></tr></table>
+<p class="tablo-caption">Maléfices de sorcières</p>
+
+{.tablo .toutgauche .autoalt}
+| Maléfices | Maléfices majeurs | Grands maléfices |
+| --- | --- | --- |
+| [[Maléfices#Cercle|Cercle (Ext)]] | [[Maléfices#Agonie|Agonie (Sur)]] | [[Maléfices#Désastrenaturel|Désastre naturel (Sur)]] |
+| [[Maléfices#Chance|Chance (Sur)]] | [[Maléfices#Cauchemars|Cauchemars (Sur)]] | [[Maléfices#Donneusedevie|Donneuse de vie (Sur)]] |
+| [[Maléfices#Charme|Charme (Sur)]] | [[Maléfices#Contrôleduclimat|Contrôle du climat (Sur)]] | [[Maléfices#Malédictionmortelle|Malédiction mortelle (Sur)]] |
+| [[Maléfices#Déguisement|Déguisement (Sur)]] | [[Maléfices#Guérisonmajeure|Guérison majeure (Sur)]] | [[Maléfices#Réincarnationforcée|Réincarnation forcée (Sur)]] |
+| [[Maléfices#Dépérissement|Dépérissement (Sur)]] | [[Maléfices#Oeildeguenaude|Oeil de guenaude (Sur)]] | [[Maléfices#Sommeiléternel|Sommeil éternel (Sur)]] |
+| [[Maléfices#Dondeslangues|Don des langues (Sur)]] | [[Maléfices#Poupéedecire|Poupée de cire (Sur)]] | [[Maléfices#Convocationdesprit|Convocation d’esprit* (Mag)]] |
+| [[Maléfices#Guérison|Guérison (Sur)]] | [[Maléfices#Représailles|Représailles (Sur)]] | [[Maléfices#Huttedelasorcière|Hutte de la sorcière* (Sur)]] |
+| [[Maléfices#Malchance|Malchance (Sur)]] | [[Maléfices#Vision|Vision (Sur)]] | [[Maléfices#Sinistreprophétie|Sinistre prophétie* (Sur)]] |
+| [[Maléfices#Mauvaisœil|Mauvais œil (Sur)]] | [[Maléfices#Blessuresinfectées|Blessures infectées* (Sur)]] |  |
+| [[Maléfices#Ricanement|Ricanement (Sur)]] | [[maléfices#Brouetdelasorcière|Brouet de la sorcière* (Ext)]] |  |
+| [[Maléfices#Sceau|Sceau (Sur)]] | [[Maléfices#Couvertdegivre|Couvert de givre* (Sur)]] |  |
+| [[Maléfices#Sommeil|Sommeil (Sur)]] | [[Maléfices#Cuisinerlesgens|Cuisiner les gens* (Sur)]] |  |
+| [[Maléfices#Vol|Vol (Sur)]] | [[maléfices#Demeurecachée|Demeure cachée* (Mag)]] |  |
+| [[Maléfices#Agacerlesbêtes|Agacer les bêtes* (Sur)]] | [[maléfices#Oeildelabête|OEil de la bête* (Sur)]] |  |
+| [[Maléfices#Cheveuxpréhensiles|Cheveux préhensiles* (Sur)]] | [[Maléfices#Parlerenrêve|Parler en rêve* (Mag)]] |  |
+| [[Maléfices#Cicatrice|Cicatrice* (Sur)]] | [[Maléfices#Tombedeglace|Tombe de glace* (Sur)]] |  |
+| [[Maléfices#Langagesauvage|Langage sauvage* (Sur)]] |  |  |
+| [[Maléfices#Odeurdenfant|Odeur d'enfant* (Ext)]] |  |  |
+| [[Maléfices#Oiseaudemauvaisaugure|Oiseau de mauvais augure* (Sur)]] |  |  |
+| [[Maléfices#Ongle|Ongle* (Ext)]] |  |  |
+| [[Maléfices#Poumonaquatique|Poumon aquatique* (Ext)]] |  |  |
+| [[Maléfices#Sorcièredumarais|Sorcière du marais* (Mag)]] |  |  |
+| [[Maléfices#Tremperdanslepoison|Tremper dans le poison* (Mag)]] |  |  |
 
 **Maléfices issus de l'ultimate magic / l'art de la magie*
 </center>

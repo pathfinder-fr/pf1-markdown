@@ -11,7 +11,16 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux démodandes</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Démodande caoutchouteux]]</td><td>17</td></tr><tr><td>[[Démodande filandreux]]</td><td>15</td></tr><tr><td>[[Démodande goudronneux]]</td><td>13</td></tr><tr><td>[[Démodande hirsute]]</td><td>18</td></tr><tr><td>[[Démodande visqueux]]</td><td>16</td></tr></table>
+<p class="tablo-caption">Les principaux démodandes</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Démodande caoutchouteux]] | 17 |
+| [[Démodande filandreux]] | 15 |
+| [[Démodande goudronneux]] | 13 |
+| [[Démodande hirsute]] | 18 |
+| [[Démodande visqueux]] | 16 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.70.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démodande|démodande]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*

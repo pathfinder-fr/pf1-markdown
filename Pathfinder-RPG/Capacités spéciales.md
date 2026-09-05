@@ -38,7 +38,15 @@ Uniquement si le prérequis cite explicitement le nom d’un sort. Par exemple, 
 **Pouvoirs surnaturels (Sur).** Les pouvoirs surnaturels sont magiques mais n’agissent pas comme des sorts. Ces pouvoirs ne sont pas soumis à la [[RM|résistance à la magie]] mais ne fonctionnent pas au sein d’une *[[zone dantimagie|zone d’antimagie]]* ou dans tout autre endroit où la magie est supprimée ou réprimée. Les effets d’un pouvoir surnaturel ne peuvent pas être dissipés et ils ne peuvent pas être affectés par un [[contresort]]. Voir la Table ci-après pour un résumé des pouvoirs spéciaux.
 
 
-<table CLASS="tablo centre autoalt"><caption>Les types de pouvoirs spéciaux</caption><tr CLASS="titre"><td>&emsp;</td><td>Extraordinaire</td><td>Magique</td><td>Surnaturel</td></tr><tr CLASS="premier"><td>[[attaque dopportunité|Attaque d’opportunité]]</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>*[[Dissipation de la magie]]*</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>[[RM|Résistance à la magie]]</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>*[[Zone dantimagie|Zone d’antimagie]]*</td><td>Non</td><td>Oui</td><td>Oui</td></tr></table>
+<p class="tablo-caption">Les types de pouvoirs spéciaux</p>
+
+{.tablo .centre .autoalt}
+| &emsp; | Extraordinaire | Magique | Surnaturel |
+| --- | --- | --- | --- |
+| [[attaque dopportunité|Attaque d’opportunité]] | Non | Oui | Non |
+| *[[Dissipation de la magie]]* | Non | Oui | Non |
+| [[RM|Résistance à la magie]] | Non | Oui | Non |
+| *[[Zone dantimagie|Zone d’antimagie]]* | Non | Oui | Oui |
 
 
 *Attaque d’opportunité* : l’utilisation de ce type de pouvoir provoque-t-elle une [[attaque dopportunité|attaque d’opportunité]], au même titre que le fait de lancer un sort ?

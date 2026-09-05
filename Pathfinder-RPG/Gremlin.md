@@ -11,7 +11,21 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux gremlins</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Fuath]]</td><td>1</td></tr><tr><td>[[Haniver]]</td><td>1/2</td></tr><tr><td>[[Hobkins]]</td><td>1/2</td></tr><tr><td>[[Jinkin]]</td><td>1</td></tr><tr><td>[[Monaciello]]</td><td>1</td></tr><tr><td>[[Nuglub]]</td><td>2</td></tr><tr><td>[[Nuno]]</td><td>1/2</td></tr><tr><td>[[Pugwampi]]</td><td>1/2</td></tr><tr><td>[[Tristefripe]]</td><td>1/3</td></tr><tr><td>[[Vexgit]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Les principaux gremlins</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Fuath]] | 1 |
+| [[Haniver]] | 1/2 |
+| [[Hobkins]] | 1/2 |
+| [[Jinkin]] | 1 |
+| [[Monaciello]] | 1 |
+| [[Nuglub]] | 2 |
+| [[Nuno]] | 1/2 |
+| [[Pugwampi]] | 1/2 |
+| [[Tristefripe]] | 1/3 |
+| [[Vexgit]] | 1 |
 
 </div></div><div class="description">**Source :** Bestiaire 2 p.149.</div>
 *Types/Sous-types associés : [[type Fée|Fée]]*

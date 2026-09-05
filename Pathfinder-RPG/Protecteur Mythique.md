@@ -19,7 +19,21 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEPROTECTEUR}Le protecteur</caption><tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr><tr CLASS="premier"><td>1</td><td>[[Protecteur Mythique#RALLIMENTDUPROTECTEUR|Ralliement du protecteur]], [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>2</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>3</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>4</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>5</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>6</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>7</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>8</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>9</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>10</td><td>[[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Protecteur Mythique#VERITABLEDEFENSEUR|Véritable défenseur]]</td></tr></table>
+<p class="tablo-caption">{s:Reference|TABLEPROTECTEUR}Le protecteur</p>
+
+{.tablo .centre .autoalt}
+| Grade | Caractéristiques de la voie |
+| --- | --- |
+| 1 | [[Protecteur Mythique#RALLIMENTDUPROTECTEUR|Ralliement du protecteur]], [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 2 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 3 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 4 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 5 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 6 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 7 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 8 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 9 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 10 | [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Protecteur Mythique#VERITABLEDEFENSEUR|Véritable défenseur]] |
 
 </div></div>Au fur et à mesure que le protecteur monte en [[grades]], il obtient les aptitudes suivantes :
 

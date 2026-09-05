@@ -37,7 +37,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'anguille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Anguille des sables]]</td><td>5</td></tr><tr><td>[[Anguille électrique]]</td><td>2</td></tr><tr><td>[[Murène géante]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes d'anguille</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Anguille des sables]] | 5 |
+| [[Anguille électrique]] | 2 |
+| [[Murène géante]] | 5 |
 
 </div>*Ce poisson serpentin de 1,80 mètre de long se déplace lentement. Son corps émet de temps en temps d’étranges crépitements.*
 

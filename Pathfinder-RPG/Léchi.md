@@ -11,7 +11,17 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux léchis</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Léchi attrape-mouche]]</td><td>4</td></tr><tr><td>[[Léchi calebasse]]</td><td>1</td></tr><tr><td>[[Léchi dalgues|Léchi d'algues]]</td><td>3</td></tr><tr><td>[[Léchi de feuilles]]</td><td>1/2</td></tr><tr><td>[[Léchi fongique]]</td><td>2</td></tr><tr><td>[[Léchi lotus]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Les principaux léchis</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Léchi attrape-mouche]] | 4 |
+| [[Léchi calebasse]] | 1 |
+| [[Léchi dalgues|Léchi d'algues]] | 3 |
+| [[Léchi de feuilles]] | 1/2 |
+| [[Léchi fongique]] | 2 |
+| [[Léchi lotus]] | 5 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.113.</div>
 *Types/Sous-types associés : [[type Plante|Plante]] ([[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]]).*

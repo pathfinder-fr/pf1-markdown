@@ -28,7 +28,17 @@ Le personnage commence le jeu avec une Renommée égale à son niveau de personn
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les modificateurs de la Sphère d’influence</caption><tr CLASS="titre"><td>Action</td><td>Modificateur au test</td></tr><tr CLASS="premier"><td>Les alliés ou les sbires du personnage content ses exploits avant qu’il n’arrive</td><td>+5</td></tr><tr><td>Un [[barde]] conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive</td><td>+1/2 niveau du barde</td></tr><tr><td>Le personnage a des [[contacts]] PNJ dans le village</td><td>+1</td></tr><tr><td>Le personnage a des ennemis dans le village</td><td>+1</td></tr><tr><td>Le personnage s’éloigne de sa Sphère d’influence</td><td>-1 par tranche de 16 km</td></tr><tr><td>La langue principale du village est différente de celle du personnage</td><td>-5</td></tr></table>
+<p class="tablo-caption">Les modificateurs de la Sphère d’influence</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| Action | Modificateur au test |
+| --- | --- |
+| Les alliés ou les sbires du personnage content ses exploits avant qu’il n’arrive | +5 |
+| Un [[barde]] conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive | +1/2 niveau du barde |
+| Le personnage a des [[contacts]] PNJ dans le village | +1 |
+| Le personnage a des ennemis dans le village | +1 |
+| Le personnage s’éloigne de sa Sphère d’influence | -1 par tranche de 16 km |
+| La langue principale du village est différente de celle du personnage | -5 |
 
 </div></div>La réputation du personnage ne s’étend pas plus loin que le récit de ses exploits. Même si c’est un grand héros dans son pays, il découvrira très vite que, lorsqu’il voyage dans d’autres territoires, sa réputation décroît jusqu’à ce qu’il atteigne des régions où il est complètement inconnu. Plus sa réputation est grande, plus elle se répand, plus sa Sphère d’influence s’élargit.
 
@@ -133,7 +143,17 @@ Si un évènement devait accroître la Renommée du personnage, celui-ci pourrai
 Si le personnage a une Renommée négative, les PNJ non-Mauvais ont souvent des réactions inamicales ou hostiles à son égard. Notez que si le personnage a la réputation d’être quelqu’un de puissant et dangereux, les PNJ pourraient l’éviter plutôt que de l’affronter.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Réactions face à une renommée négative</caption><tr CLASS="titre"><td>Renommée</td><td>Réaction</td></tr><tr CLASS="premier"><td>-5</td><td>Les marchands, les employés et les aubergistes imposent une surtaxe de 10% au personnage pour le dissuader de faire des affaires dans leur communauté -8 Les marchands, les employés et les aubergistes refusent de faire affaire avec le personnage. S’il entre dans un commerce, on lui demande aussitôt de partir. S’il refuse, le propriétaire appelle les autorités ou les gens du coin pour le mettre dehors.</td></tr><tr><td>-10</td><td>Quand le personnage approche, les commerces ferment leurs portes et occultent leurs vitrines. La plupart des citoyens refusent de discuter avec lui. Les autres exigent du personnage qu’il parte sur-le-champ. S’il reste plus de 24 heures ou s’oppose aux citoyens, sa Renommée baisse de 5 et les citoyens se rassemblent pour le chasser de la ville.</td></tr><tr><td>-15</td><td>Outrée que le personnage ait le toupet d’entrer dans sa communauté, une foule en colère se rassemble. Si le personnage ne part pas dans les minutes qui suivent, la foule commence à le lapider avec des fruits, des bâtons et des cailloux.</td></tr><tr><td>-20</td><td>Une foule en colère se forme peu de temps après que le personnage est entré en ville. Refusant d’attendre un procès potentiellement corrompu, elle tente de capturer le personnage et de l’exécuter pour ses crimes.</td></tr><tr><td>-25</td><td>Une figure d’autorité a délivré un mandat d’arrêt à l’encontre du personnage, incluant une récompense pour quiconque le capture. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.</td></tr><tr><td>-30</td><td>Une figure d’autorité a mis la tête du personnage à prix. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.</td></tr></table>
+<p class="tablo-caption">Réactions face à une renommée négative</p>
+
+{.tablo .centre .autoalt .toutgauche}
+| Renommée | Réaction |
+| --- | --- |
+| -5 | Les marchands, les employés et les aubergistes imposent une surtaxe de 10% au personnage pour le dissuader de faire des affaires dans leur communauté -8 Les marchands, les employés et les aubergistes refusent de faire affaire avec le personnage. S’il entre dans un commerce, on lui demande aussitôt de partir. S’il refuse, le propriétaire appelle les autorités ou les gens du coin pour le mettre dehors. |
+| -10 | Quand le personnage approche, les commerces ferment leurs portes et occultent leurs vitrines. La plupart des citoyens refusent de discuter avec lui. Les autres exigent du personnage qu’il parte sur-le-champ. S’il reste plus de 24 heures ou s’oppose aux citoyens, sa Renommée baisse de 5 et les citoyens se rassemblent pour le chasser de la ville. |
+| -15 | Outrée que le personnage ait le toupet d’entrer dans sa communauté, une foule en colère se rassemble. Si le personnage ne part pas dans les minutes qui suivent, la foule commence à le lapider avec des fruits, des bâtons et des cailloux. |
+| -20 | Une foule en colère se forme peu de temps après que le personnage est entré en ville. Refusant d’attendre un procès potentiellement corrompu, elle tente de capturer le personnage et de l’exécuter pour ses crimes. |
+| -25 | Une figure d’autorité a délivré un mandat d’arrêt à l’encontre du personnage, incluant une récompense pour quiconque le capture. Tout le monde est au courant et beaucoup sont prêts à remporter la mise. |
+| -30 | Une figure d’autorité a mis la tête du personnage à prix. Tout le monde est au courant et beaucoup sont prêts à remporter la mise. |
 
 
 ### La renommée partagée

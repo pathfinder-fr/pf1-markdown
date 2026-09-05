@@ -15,7 +15,31 @@ LastModified: 2021-01-19 15:08
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>L'inventeur</caption><tr CLASS="titre"><td>Niveau</td><td>Aptitudes</td></tr><tr><td>1</td><td>Ascendance et historique, maîtrises initiales, explosion, innovation, don d’inventeur, surpuissance, inventeur sans pareil</td></tr><tr><td>2</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>3</td><td>Don général, reconfiguration, amélioration de compétence</td></tr><tr><td>4</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>5</td><td>Primes de caractéristique, don ancestral, amélioration de compétence, innovateur d’armes</td></tr><tr><td>6</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>7</td><td>Don général, réflexes éclair, boost offensif, amélioration de compétence, spécialisation martiale</td></tr><tr><td>8</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>9</td><td>Don ancestral, innovation capitale, expertise inventive, amélioration de compétence</td></tr><tr><td>10</td><td>Primes de caractéristiques, don d’inventeur, don de compétence</td></tr><tr><td>11</td><td>Don général, expertise avec les armures intermédiaires, résolution, amélioration de compétence</td></tr><tr><td>12</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>13</td><td>Vigilance, don ancestral, amélioration de compétence, maîtrise martiale</td></tr><tr><td>14</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>15</td><td>Primes de caractéristiques, reconfiguration complète, don général, spécialisation martiale supérieure, mastodonte, amélioration de compétence</td></tr><tr><td>16</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>17</td><td>Don ancestral, maîtrise inventive, amélioration de compétence, innovation révolutionnaire</td></tr><tr><td>18</td><td>Don d’inventeur, don de compétence</td></tr><tr><td>19</td><td>Don général, invention infinie, maîtrise des armures intermédiaires, amélioration de compétence</td></tr><tr><td>20</td><td>Primes de caractéristiques, don d’inventeur, don de compétence</td></tr></table>
+<p class="tablo-caption">L'inventeur</p>
+
+{.tablo .autoalt .toutgauche}
+| Niveau | Aptitudes |
+| --- | --- |
+| 1 | Ascendance et historique, maîtrises initiales, explosion, innovation, don d’inventeur, surpuissance, inventeur sans pareil |
+| 2 | Don d’inventeur, don de compétence |
+| 3 | Don général, reconfiguration, amélioration de compétence |
+| 4 | Don d’inventeur, don de compétence |
+| 5 | Primes de caractéristique, don ancestral, amélioration de compétence, innovateur d’armes |
+| 6 | Don d’inventeur, don de compétence |
+| 7 | Don général, réflexes éclair, boost offensif, amélioration de compétence, spécialisation martiale |
+| 8 | Don d’inventeur, don de compétence |
+| 9 | Don ancestral, innovation capitale, expertise inventive, amélioration de compétence |
+| 10 | Primes de caractéristiques, don d’inventeur, don de compétence |
+| 11 | Don général, expertise avec les armures intermédiaires, résolution, amélioration de compétence |
+| 12 | Don d’inventeur, don de compétence |
+| 13 | Vigilance, don ancestral, amélioration de compétence, maîtrise martiale |
+| 14 | Don d’inventeur, don de compétence |
+| 15 | Primes de caractéristiques, reconfiguration complète, don général, spécialisation martiale supérieure, mastodonte, amélioration de compétence |
+| 16 | Don d’inventeur, don de compétence |
+| 17 | Don ancestral, maîtrise inventive, amélioration de compétence, innovation révolutionnaire |
+| 18 | Don d’inventeur, don de compétence |
+| 19 | Don général, invention infinie, maîtrise des armures intermédiaires, amélioration de compétence |
+| 20 | Primes de caractéristiques, don d’inventeur, don de compétence |
 
 </center>
 

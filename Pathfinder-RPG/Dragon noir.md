@@ -35,7 +35,16 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon noir</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon noir]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dragon noir adulte]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon noir vénérable]]</td><td>&nbsp;</td><td>16</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon noir mythique|Dragon noir d'âge mûr mythique]]</td><td>15</td><td>6</td></tr></table>
+<p class="tablo-caption">Variantes de dragon noir</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon noir]] | &nbsp; | 7 |
+| [[Dragon noir adulte]] | &nbsp; | 11 |
+| [[Dragon noir vénérable]] | &nbsp; | 16 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Dragon noir mythique|Dragon noir d'âge mûr mythique]] | 15 | 6 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
 

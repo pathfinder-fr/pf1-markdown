@@ -39,7 +39,13 @@ Une race de créatures artificielles est un groupe d’objets animés ou de cré
 - Il n’est pas possible de les relever ou de les ressusciter.
 - Elles sont difficiles à détruire et gagnent un nombre de points de vie bonus basé sur leur taille, comme indiqué dans la table qui suit.  
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille de la créature artificielle</td><td>Points de vie bonus</td></tr><tr CLASS="premier"><td>TP</td><td>—</td></tr><tr><td>P</td><td>10</td></tr><tr><td>M</td><td>20</td></tr><tr><td>G</td><td>30</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| Taille de la créature artificielle | Points de vie bonus |
+| --- | --- |
+| TP | — |
+| P | 10 |
+| M | 20 |
+| G | 30 |
 
 - Elles ne respirent pas, ne mangent pas et ne dorment pas à moins de vouloir profiter de quelque effet bénéfique de l’une de ces activités. Cela signifie qu’une créature artificielle peut boire des potions pour profiter de leurs effets et peut dormir pour regagner des sorts, mais qu’aucune de ces activités n’est nécessaire à sa survie ou à son bon état de santé.
 

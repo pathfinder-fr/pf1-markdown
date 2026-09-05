@@ -89,7 +89,20 @@ On ne peut pas appliquer la magie du tourment et un don de métamagie au même s
 #### Jeu spirituel (Sur)
 
 
-<table CLASS="tablo col1centre fright"><caption>Associations d’alignement du jeu du tourment</caption><tr CLASS="titre"><td>Alignement</td><td>Désaccord</td><td>Accord partiel</td></tr><tr CLASS="premier"><td>LB</td><td>CM</td><td>NB, CB, LN, LM</td></tr><tr><td>NB</td><td>NM</td><td>LB, CB, N, NM</td></tr><tr><td>CB</td><td>LM</td><td>LB, NB, CN, CM</td></tr><tr><td>LN</td><td>CN</td><td>N, LB, LM</td></tr><tr><td>N</td><td>–</td><td>–</td></tr><tr><td>CN</td><td>LN</td><td>N, CB, CM</td></tr><tr><td>LM</td><td>CB</td><td>NM, CM, LB, LN</td></tr><tr><td>NM</td><td>NB</td><td>LM, CM, NB, N</td></tr><tr><td>CM</td><td>LB</td><td>LM, NM, CB, CN</td></tr></table>
+<p class="tablo-caption">Associations d’alignement du jeu du tourment</p>
+
+{.tablo .col1centre .fright}
+| Alignement | Désaccord | Accord partiel |
+| --- | --- | --- |
+| LB | CM | NB, CB, LN, LM |
+| NB | NM | LB, CB, N, NM |
+| CB | LM | LB, NB, CN, CM |
+| LN | CN | N, LB, LM |
+| N | – | – |
+| CN | LN | N, CB, CM |
+| LM | CB | NM, CM, LB, LN |
+| NM | NB | LM, CM, NB, N |
+| CM | LB | LM, NM, CB, CN |
 
 Par une action simple, une voyante de niveau 5 peut convoquer un jeu du tourment scintillant et translucide qui s’envole dans les airs et englobe une cible située à moins de 9 mètres dans une nuée de cartes tranchantes. La voyante tire ensuite un nombre de cartes égal à son niveau de classe et le jeu spirituel inflige des dégâts basés sur le nombre d’accords qu’elle tire, comme indiqué dans la table à droite.
 

@@ -32,7 +32,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon de magma</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon souverain]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon souverain adulte]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Dragon souverain vénérable]]</td><td>&nbsp;</td><td>20</td></tr></table>
+<p class="tablo-caption">Variantes de dragon de magma</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon souverain]] | &nbsp; | 11 |
+| [[Dragon souverain adulte]] | &nbsp; | 15 |
+| [[Dragon souverain vénérable]] | &nbsp; | 20 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Ce magnifique dragon est couvert de superbes écailles d’or et ses cornes
 lui dessinent une couronne.''

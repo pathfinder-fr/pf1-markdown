@@ -41,7 +41,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de crocodile</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Crocodile]]</td><td>2</td></tr><tr><td>[[Crocodile sanguinaire]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de crocodile</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Crocodile]] | 2 |
+| [[Crocodile sanguinaire]] | 9 |
 
 </div>*Le reptile jaillit hors de l’eau avec une vitesse étonnante, ouvre la gueule et rugit tout en agitant sa puissante queue derrière lui.*
 

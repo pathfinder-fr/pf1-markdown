@@ -33,7 +33,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon du ciel</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du ciel]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon du ciel adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon du ciel vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+<p class="tablo-caption">Variantes de dragon du ciel</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon du ciel]] | &nbsp; | 9 |
+| [[Dragon du ciel adulte]] | &nbsp; | 13 |
+| [[Dragon du ciel vénérable]] | &nbsp; | 18 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Pourtant dépourvu d’ailes, ce dragon sillonne le ciel en serpentant avec
 grâce, ses écailles réfléchissant les nuances changeantes des cieux.''

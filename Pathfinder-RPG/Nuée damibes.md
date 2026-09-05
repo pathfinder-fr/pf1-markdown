@@ -39,7 +39,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'amibe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Amibe géante]]</td><td>1</td></tr><tr><td>[[Nuée damibes|Nuée d'amibes]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes d'amibe</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Amibe géante]] | 1 |
+| [[Nuée damibes|Nuée d'amibes]] | 1 |
 
 </div>*Des milliers de petites gouttes gélatineuses s’animent et se rassemblent en un monticule huileux d’où émane une horrible odeur de vinaigre rance.*
 

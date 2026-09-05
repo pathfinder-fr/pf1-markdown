@@ -11,7 +11,14 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux béhémoths</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Béhémoth des tempêtes]]</td><td>22</td></tr><tr><td>[[Béhémoth du tonnerre]]</td><td>18</td></tr><tr><td>[[Béhémoth thalassique]]</td><td>20</td></tr></table>
+<p class="tablo-caption">Les principaux béhémoths</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Béhémoth des tempêtes]] | 22 |
+| [[Béhémoth du tonnerre]] | 18 |
+| [[Béhémoth thalassique]] | 20 |
 
 </div></div><div class="description">*Source : Bestiaire 3.*</div>
 *Types/Sous-types associés : [[type Créature magique|Créature magique]] ([[sous-type béhémoth|béhémoth]])*

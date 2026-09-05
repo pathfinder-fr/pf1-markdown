@@ -27,7 +27,13 @@ Le personnage tente de pousser l’esprit d’un individu donné à se manifeste
 
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Mod au jet de volonté</td></tr><tr CLASS="premier"><td>Ressemblance ou portrait</td><td>-2</td></tr><tr><td>Possession ou habit</td><td>-4</td></tr><tr><td>Morceau de corps, mèche de cheveux, rognure d’ongle etc.</td><td>-10</td></tr><tr><td>Alignement différent</td><td>+4</td></tr></table>
+{.tablo .centre .autoalt}
+| Lien | Mod au jet de volonté |
+| --- | --- |
+| Ressemblance ou portrait | -2 |
+| Possession ou habit | -4 |
+| Morceau de corps, mèche de cheveux, rognure d’ongle etc. | -10 |
+| Alignement différent | +4 |
 
 
 Quand le personnage réussit à appeler un esprit, ce dernier se manifeste sous une forme vaporeuse à la silhouette ressemblant vaguement à celle que le défunt arborait de son vivant. L’esprit a les caractéristiques physiques d’un serviteur invisible et peut effectuer des manipulations physiques mineures. Il parle dans un murmure fantomatique dans une langue qu’il connaissait de son vivant.

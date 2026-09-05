@@ -29,7 +29,14 @@ LastModified: 2021-07-14 10:05
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon du néant</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du vortex]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon du vortex adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon du vortex vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+<p class="tablo-caption">Variantes de dragon du néant</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon du vortex]] | &nbsp; | 10 |
+| [[Dragon du vortex adulte]] | &nbsp; | 14 |
+| [[Dragon du vortex vénérable]] | &nbsp; | 19 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
 

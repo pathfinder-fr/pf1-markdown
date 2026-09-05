@@ -21,7 +21,20 @@ LastModified: 2019-01-29 16:46
 - **Pouvoirs magiques**. Le gardien divin obtient un nombre de pouvoirs magiques cumulatifs qui dépendent de ses DV. À moins d’une indication contraire, ils fonctionnent une fois par jour. Leur NLS équivaut au nombre de DV du gardien ou au NLS des pouvoirs magiques de la créature de base, si elle en avait (la valeur la plus élevée des deux).
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>DV</td><td>Pouvoir</td></tr><tr CLASS="premier"><td>1-2</td><td>*[[alarme]]* 3/jour, *[[porte dimensionnelle]]* (à volonté, au sein du sol sacré seulement), *[[verrouillage]]*</td></tr><tr><td>3-4</td><td>*[[déblocage]]* 3/jour, *[[verrou du mage]]*</td></tr><tr><td>5-6</td><td>*[[augure]], [[clairaudienceclairvoyance|clairaudience/clairvoyance]]*</td></tr><tr><td>7-8</td><td>*[[renvoi]]*</td></tr><tr><td>9-10</td><td>*[[communion]]*</td></tr><tr><td>11-12</td><td>* [[défense magique]]*</td></tr><tr><td>13-14</td><td>* [[interdiction]]*</td></tr><tr><td>15-16</td><td>* [[bannissement]]*</td></tr><tr><td>17-18</td><td>*[[champ de force]]*</td></tr><tr><td>19-20</td><td>* [[écran]]*</td></tr><tr><td>21+</td><td>* [[aversion]]*</td></tr></table>
+{.tablo}
+| DV | Pouvoir |
+| --- | --- |
+| 1-2 | *[[alarme]]* 3/jour, *[[porte dimensionnelle]]* (à volonté, au sein du sol sacré seulement), *[[verrouillage]]* |
+| 3-4 | *[[déblocage]]* 3/jour, *[[verrou du mage]]* |
+| 5-6 | *[[augure]], [[clairaudienceclairvoyance|clairaudience/clairvoyance]]* |
+| 7-8 | *[[renvoi]]* |
+| 9-10 | *[[communion]]* |
+| 11-12 | * [[défense magique]]* |
+| 13-14 | * [[interdiction]]* |
+| 15-16 | * [[bannissement]]* |
+| 17-18 | *[[champ de force]]* |
+| 19-20 | * [[écran]]* |
+| 21+ | * [[aversion]]* |
 
 
 

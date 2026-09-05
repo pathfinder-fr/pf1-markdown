@@ -35,7 +35,15 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'ours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grizzly]]</td><td>4</td></tr><tr><td>[[Ours sanguinaire]]</td><td>7</td></tr><tr><td>[[Ours polaire]]</td><td>5</td></tr><tr><td>[[Ours polaire sanguinaire]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes d'ours</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Grizzly]] | 4 |
+| [[Ours sanguinaire]] | 7 |
+| [[Ours polaire]] | 5 |
+| [[Ours polaire sanguinaire]] | 8 |
 
 </div>*De la fourrure blanche comme neige de cet animal massif dépassent plusieurs excroissances osseuses impressionnantes.*
 

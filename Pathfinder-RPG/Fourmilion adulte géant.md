@@ -37,7 +37,13 @@ Categories:
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de fourmillion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Fourmilion adulte géant]]</td><td>6</td></tr><tr><td>[[Fourmilion géant]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de fourmillion</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Fourmilion adulte géant]] | 6 |
+| [[Fourmilion géant]] | 5 |
 
 </div>*Cet insecte grêle, que quatre ailes fragiles maintiennent en l’air, fait claquer ses mandibules pour exprimer sa faim.*
 

@@ -43,7 +43,14 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de profond</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hybride profond]]</td><td>1/2</td></tr><tr><td>[[Profond]]</td><td>1</td></tr><tr><td>[[Seigneur profond]]</td><td>14</td></tr></table>
+<p class="tablo-caption">Variantes de profond</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Hybride profond]] | 1/2 |
+| [[Profond]] | 1 |
+| [[Seigneur profond]] | 14 |
 
 </div>*Le cuir gris-vert de cette créature pataude luit d’humidité et de la salive dégouline de sa gueule à l’aspect de poisson.*
 

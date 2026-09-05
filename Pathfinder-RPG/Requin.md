@@ -41,7 +41,15 @@ Categories:
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de requin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Requin bouledogue]]</td><td>2</td></tr><tr><td>[[Grand requin blanc]]</td><td>4</td></tr><tr><td>[[Requin]]</td><td>2</td></tr><tr><td>[[Requin sanguinaire]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de requin</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Requin bouledogue]] | 2 |
+| [[Grand requin blanc]] | 4 |
+| [[Requin]] | 2 |
+| [[Requin sanguinaire]] | 9 |
 
 </div>''Les nageoires de ce requin bleu fendent les flots. Ses yeux noirs s’agitent et
 ses mâchoires béantes abritent d’innombrables dents.''

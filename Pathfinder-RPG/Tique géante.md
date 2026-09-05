@@ -40,7 +40,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de tique</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de tiques]]</td><td>9</td></tr><tr><td>[[Tique géante]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes de tique</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Nuée de tiques]] | 9 |
+| [[Tique géante]] | 1 |
 
 </div>*Cette tique de la taille d’un chien a un horrible corps enflé et une tête mince garnie de mandibules crochues.*
 

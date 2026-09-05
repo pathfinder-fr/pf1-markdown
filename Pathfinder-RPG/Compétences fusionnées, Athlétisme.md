@@ -33,7 +33,20 @@ Le personnage doit avoir les deux mains libres lors d’une escalade, mais il pe
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Surface ou activité</td><td>DD du test d’Athlétisme</td></tr><tr CLASS="premier"><td>Pente trop inclinée pour permettre d’avancer en marchant</td><td>0</td></tr><tr><td>Corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer</td><td>0</td></tr><tr><td>Corde à nœuds ou corde affectée par le sort corde enchantée</td><td>5</td></tr><tr><td>Corde accrochée près d’un mur contre lequel on peut s’appuyer</td><td>5</td></tr><tr><td>Surface garnie de corniches où on peut se tenir ou s’appuyer</td><td>10</td></tr><tr><td>Grimper sur un rebord auquel on s’agrippe par les mains</td><td>15</td></tr><tr><td>Surface comprenant suffisamment de prises</td><td>15</td></tr><tr><td>Corde lisse</td><td>15</td></tr><tr><td>Surface inégale comprenant quelques prises (mur de donjon)</td><td>20</td></tr><tr><td>Surface rugueuse (paroi rocheuse naturelle ou mur de briques)</td><td>25</td></tr><tr><td>Dévers ou plafond impérativement garni de prises pour les mains</td><td>30</td></tr></table>
+{.tablo .autoalt}
+| Surface ou activité | DD du test d’Athlétisme |
+| --- | --- |
+| Pente trop inclinée pour permettre d’avancer en marchant | 0 |
+| Corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer | 0 |
+| Corde à nœuds ou corde affectée par le sort corde enchantée | 5 |
+| Corde accrochée près d’un mur contre lequel on peut s’appuyer | 5 |
+| Surface garnie de corniches où on peut se tenir ou s’appuyer | 10 |
+| Grimper sur un rebord auquel on s’agrippe par les mains | 15 |
+| Surface comprenant suffisamment de prises | 15 |
+| Corde lisse | 15 |
+| Surface inégale comprenant quelques prises (mur de donjon) | 20 |
+| Surface rugueuse (paroi rocheuse naturelle ou mur de briques) | 25 |
+| Dévers ou plafond impérativement garni de prises pour les mains | 30 |
 
 </center>
 

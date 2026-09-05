@@ -24,7 +24,15 @@ max.</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td>1</
 Les sorts qui affectent l’intégrité physique du cube coûte également des charges à celui-ci.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Sort ou effet</td><td>Charges supplémentaires</td></tr><tr CLASS="premier"><td>*[[Cor de dévastation]]*</td><td>6</td></tr><tr><td>*[[Désintégration]]*</td><td>6</td></tr><tr><td>*[[Mur de feu]]*</td><td>2</td></tr><tr><td>*[[Passe-muraille]]*</td><td>3</td></tr><tr><td>*[[Porte de phase]]*</td><td>5</td></tr><tr><td>*[[Rayons prismatiques]]*</td><td>7</td></tr></table>
+{.tablo .centre .autoalt}
+| Sort ou effet | Charges supplémentaires |
+| --- | --- |
+| *[[Cor de dévastation]]* | 6 |
+| *[[Désintégration]]* | 6 |
+| *[[Mur de feu]]* | 2 |
+| *[[Passe-muraille]]* | 3 |
+| *[[Porte de phase]]* | 5 |
+| *[[Rayons prismatiques]]* | 7 |
 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[mur de force]]* ; **Coût** 31 000 po

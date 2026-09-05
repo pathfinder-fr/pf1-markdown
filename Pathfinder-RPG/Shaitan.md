@@ -49,7 +49,16 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de génie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Djinn]]</td><td>5</td></tr><tr><td>[[Efrit]]</td><td>8</td></tr><tr><td>[[Jann]]</td><td>4</td></tr><tr><td>[[Marid]]</td><td>9</td></tr><tr><td>[[Shaitan]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de génie</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Djinn]] | 5 |
+| [[Efrit]] | 8 |
+| [[Jann]] | 4 |
+| [[Marid]] | 9 |
+| [[Shaitan]] | 7 |
 
 </div>''Cette créature ressemble à un humain gigantesque possédant une peau de
 pierre polie et des yeux semblables à des agates brillantes.''

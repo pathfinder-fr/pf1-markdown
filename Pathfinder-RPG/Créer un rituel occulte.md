@@ -100,6 +100,18 @@ rituels de haut niveau).
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>{s:Reference|RITUELSDEREFERENCE}Rituels de référence basés sur l’école</caption><tr CLASS="titre"><td>École</td><td>Portée</td><td>Cible</td><td>Durée</td><td>Jet de sauvegarde</td><td>RM</td></tr><tr CLASS="premier"><td>**Abjuration**</td><td>courte</td><td>1 créature ou plus, chacune devant se trouver à 9 m ou moins des autres</td><td>minutes</td><td>Volonté pour annuler</td><td>oui</td></tr><tr><td>**Divination**</td><td>longue</td><td>personnelle</td><td>minutes</td><td>aucun</td><td>non</td></tr><tr><td>**Enchantement**</td><td>courte</td><td>1 créature vivante</td><td>minutes</td><td>Volonté pour annuler</td><td>oui</td></tr><tr><td>**Évocation**</td><td>moyenne</td><td>zone éclair de 1,50 m de large ou rayonnement de 6 m de rayon</td><td>instantanée</td><td>Réflexes 1/2 dégâts</td><td>oui</td></tr><tr><td>**Illusion**</td><td>contact</td><td>1 créature vivante ou 0,6 m3 de matière</td><td>Durée minutes</td><td>Volonté pour percer à jour</td><td>non</td></tr><tr><td>**Invocation**</td><td>courte</td><td>1 créature</td><td>heures (instantanée pour la branche de la téléportation)</td><td>Volonté pour annuler (inoffensif )</td><td>oui (inoffensif)</td></tr><tr><td>**Nécromancie**</td><td>courte</td><td>1 créature ou cadavre ou plus</td><td>instantanée</td><td>aucun</td><td>non.</td></tr><tr><td>**Transmutation**</td><td>moyenne</td><td>1 créature vivante ou 0,6 m3 de matière</td><td>rounds</td><td>Vigueur 1/2 dégâts (ou inoffensif)</td><td>oui</td></tr></table>
+<p class="tablo-caption">{s:Reference|RITUELSDEREFERENCE}Rituels de référence basés sur l’école</p>
+
+{.tablo .autoalt}
+| École | Portée | Cible | Durée | Jet de sauvegarde | RM |
+| --- | --- | --- | --- | --- | --- |
+| **Abjuration** | courte | 1 créature ou plus, chacune devant se trouver à 9 m ou moins des autres | minutes | Volonté pour annuler | oui |
+| **Divination** | longue | personnelle | minutes | aucun | non |
+| **Enchantement** | courte | 1 créature vivante | minutes | Volonté pour annuler | oui |
+| **Évocation** | moyenne | zone éclair de 1,50 m de large ou rayonnement de 6 m de rayon | instantanée | Réflexes 1/2 dégâts | oui |
+| **Illusion** | contact | 1 créature vivante ou 0,6 m3 de matière | Durée minutes | Volonté pour percer à jour | non |
+| **Invocation** | courte | 1 créature | heures (instantanée pour la branche de la téléportation) | Volonté pour annuler (inoffensif ) | oui (inoffensif) |
+| **Nécromancie** | courte | 1 créature ou cadavre ou plus | instantanée | aucun | non. |
+| **Transmutation** | moyenne | 1 créature vivante ou 0,6 m3 de matière | rounds | Vigueur 1/2 dégâts (ou inoffensif) | oui |
 
 </center>

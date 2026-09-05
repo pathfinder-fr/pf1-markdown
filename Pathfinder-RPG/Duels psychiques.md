@@ -60,7 +60,18 @@ PM dépensés pour les dégâts Nombre de dés de dégâts
 
 <center>
 
-<table CLASS="tablo autoalt"  WIDTH="80%"><tr CLASS="titre"><td>PM dépensés pour les dégâts</td><td>Nombre de dés de dégâts</td></tr><tr CLASS="premier"><td>1 PM</td><td>1 dé</td></tr><tr><td>2 PM</td><td>4 dés</td></tr><tr><td>3 PM</td><td>6 dés</td></tr><tr><td>4 PM</td><td>8 dés</td></tr><tr><td>5 PM</td><td>10 dés</td></tr><tr><td>6 PM</td><td>12 dés</td></tr><tr><td>7 PM</td><td>14 dés</td></tr><tr><td>8 PM</td><td>16 dés</td></tr><tr><td>9 PM</td><td>1 dé par niveau de manifestation du créateur (20 dés au maximum)</td></tr></table>
+{.tablo .autoalt style="width:80%"}
+| PM dépensés pour les dégâts | Nombre de dés de dégâts |
+| --- | --- |
+| 1 PM | 1 dé |
+| 2 PM | 4 dés |
+| 3 PM | 6 dés |
+| 4 PM | 8 dés |
+| 5 PM | 10 dés |
+| 6 PM | 12 dés |
+| 7 PM | 14 dés |
+| 8 PM | 16 dés |
+| 9 PM | 1 dé par niveau de manifestation du créateur (20 dés au maximum) |
 
 </center>
 

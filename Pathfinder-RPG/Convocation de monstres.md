@@ -35,7 +35,26 @@ Categories:
 </td>
 <td><div>
 
-<table CLASS="tablo autoalt"><caption>[Niveau 3](http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM3.ashx)</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Anguille électrique]]*</td><td>—</td></tr><tr><td>[[Archon lumineux]]</td><td>[[sous-type Bien|Bien]], [[sous-type Loi|Loi]]</td></tr><tr><td>[[Auroch]]*</td><td>—</td></tr><tr><td>[[Chauve-souris sanguinaire]]*</td><td>—</td></tr><tr><td>[[Crocodile]]*</td><td>—</td></tr><tr><td>[[Dretch]] (démon)</td><td>[[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]</td></tr><tr><td>[[Fourmi géante]], soldat*</td><td>—</td></tr><tr><td>[[Glouton]]*</td><td>—</td></tr><tr><td>[[Gorille]]*</td><td>—</td></tr><tr><td>[[Guépard]]*</td><td>—</td></tr><tr><td>[[Léopard]] (félin)*</td><td>—</td></tr><tr><td>[[Requin]]*</td><td>—</td></tr><tr><td>[[Sanglier]]*</td><td>—</td></tr><tr><td>[[Serpent constricteur]]*</td><td>—</td></tr><tr><td>[[Varan]]*</td><td>—</td></tr></table>
+<p class="tablo-caption">[Niveau 3](http://www.pathfinder-fr.org/Wiki/Ressources.Monstres%20convoqu%C3%A9s%20CM3.ashx)</p>
+
+{.tablo .autoalt}
+| Créature | Sous-type |
+| --- | --- |
+| [[Anguille électrique]]* | — |
+| [[Archon lumineux]] | [[sous-type Bien|Bien]], [[sous-type Loi|Loi]] |
+| [[Auroch]]* | — |
+| [[Chauve-souris sanguinaire]]* | — |
+| [[Crocodile]]* | — |
+| [[Dretch]] (démon) | [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]] |
+| [[Fourmi géante]], soldat* | — |
+| [[Glouton]]* | — |
+| [[Gorille]]* | — |
+| [[Guépard]]* | — |
+| [[Léopard]] (félin)* | — |
+| [[Requin]]* | — |
+| [[Sanglier]]* | — |
+| [[Serpent constricteur]]* | — |
+| [[Varan]]* | — |
 
 </div>
 </td></tr></table>

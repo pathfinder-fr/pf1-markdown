@@ -11,7 +11,18 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux azatas</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bralani]]</td><td>6</td></tr><tr><td>[[Brijidine]]</td><td>17</td></tr><tr><td>[[Gancanagh]]</td><td>4</td></tr><tr><td>[[Ghaéle]]</td><td>13</td></tr><tr><td>[[Lillende]]</td><td>7</td></tr><tr><td>[[Lyrakien]]</td><td>2</td></tr><tr><td>[[Raélis]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Les principaux azatas</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Bralani]] | 6 |
+| [[Brijidine]] | 17 |
+| [[Gancanagh]] | 4 |
+| [[Ghaéle]] | 13 |
+| [[Lillende]] | 7 |
+| [[Lyrakien]] | 2 |
+| [[Raélis]] | 10 |
 
 </div></div><div class="description">*Source : Bestiaire p.26.*</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]])*

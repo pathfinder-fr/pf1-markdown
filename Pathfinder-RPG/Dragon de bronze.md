@@ -34,7 +34,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon de bronze</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de bronze]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon de bronze adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon de bronze vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+<p class="tablo-caption">Variantes de dragon de bronze</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon de bronze]] | &nbsp; | 9 |
+| [[Dragon de bronze adulte]] | &nbsp; | 13 |
+| [[Dragon de bronze vénérable]] | &nbsp; | 18 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Ce dragon élancé est recouvert d’écailles métalliques ternes dont la couleur varie du bronze brillant au bleu marbré.*
 

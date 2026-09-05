@@ -39,7 +39,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de crapaud</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crapaud]]</td><td>1/8</td></tr><tr><td>[[Crapaud des glaciers]]</td><td>6</td></tr><tr><td>[[Crapaud géant]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de crapaud</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Crapaud]] | 1/8 |
+| [[Crapaud des glaciers]] | 6 |
+| [[Crapaud géant]] | 2 |
 
 </div>*De grosses verrues parsèment la peau de ce crapaud brun de la taille d’un cheval. Sa gorge se boursoufle et ondule comme s’il était sur le point de coasser.*
 

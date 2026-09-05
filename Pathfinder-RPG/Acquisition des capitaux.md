@@ -97,7 +97,19 @@ Certains types de capitaux, l’[[Intermèdes#Influence|Influence]] en particuli
 La population d’une communauté fixe la limite de l’aide que votre personnage peut obtenir pendant une journée. La table "[[Acquisition des capitaux#Limite des dépenses|Limite des dépenses]]" indique le nombre maximum de [[Intermèdes#Marchandises|Marchandises]], d’[[Intermèdes#Influence|Influence]] et de [[Intermèdes#Travail|Travail]] que votre personnage peut dépenser chaque jour dans une communauté. Même s’il dispose de beaucoup de [[Intermèdes#Marchandises|Marchandises]] et de [[Intermèdes#Travail|Travail]] acquis grâce à diverses faveurs, si la communauté est de taille extrêmement réduite, elle n’aura tout simplement pas assez de force de travail disponible pour que les capitaux du personnage puissent se transformer en projets finalisés.
 
 
-<table CLASS="tablo autoalt centre" WIDTH="60%"><caption>{s:Reference|Limite des dépenses}Limite des dépenses</caption><tr CLASS="titre"><td>Communauté</td><td>Limite des dépenses par jour ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])</td></tr><tr CLASS="premier"><td>Lieu-dit</td><td>2</td></tr><tr><td>Hameau</td><td>4</td></tr><tr><td>Village</td><td>10</td></tr><tr><td>Petite bourgade</td><td>15</td></tr><tr><td>Grosse bourgade</td><td>25</td></tr><tr><td>Petite ville</td><td>35</td></tr><tr><td>Grande ville</td><td>50</td></tr><tr><td>Capitale</td><td>65</td></tr></table>
+<p class="tablo-caption">{s:Reference|Limite des dépenses}Limite des dépenses</p>
+
+{.tablo .autoalt .centre style="width:60%"}
+| Communauté | Limite des dépenses par jour ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]]) |
+| --- | --- |
+| Lieu-dit | 2 |
+| Hameau | 4 |
+| Village | 10 |
+| Petite bourgade | 15 |
+| Grosse bourgade | 25 |
+| Petite ville | 35 |
+| Grande ville | 50 |
+| Capitale | 65 |
 
 
 {s:Reference|Utilisation des suivants}

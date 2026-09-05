@@ -9,7 +9,17 @@ LastModified: 2013-06-02 14:27
 *D'après un [post](http://paizo.com/threads/rzs2ldzm?Custom-Expanded-Kingdom-Events-Table) de Karui Kage sur le blog de Paizo.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Table étendue d'évènements de royaume</caption><tr CLASS="titre"><td>1d100</td><td>Évènements</td></tr><tr CLASS="premier"><td>1-15</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Mauvais_3|Évènement mauvais]]</td></tr><tr><td>16-37</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Ennuyeux_4|Évènement ennuyeux]]</td></tr><tr><td>38-62</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Neutre_5|Évènement neutre]]</td></tr><tr><td>68-83</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Plaisant_6|Évènement plaisant]]</td></tr><tr><td>84-95</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Bon_7|Évènement bon]]</td></tr><tr><td>96-100</td><td>[[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Majeur_8|Évènement majeur]]</td></tr></table>
+<p class="tablo-caption">Table étendue d'évènements de royaume</p>
+
+{.tablo .centre .autoalt}
+| 1d100 | Évènements |
+| --- | --- |
+| 1-15 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Mauvais_3|Évènement mauvais]] |
+| 16-37 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Ennuyeux_4|Évènement ennuyeux]] |
+| 38-62 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Neutre_5|Évènement neutre]] |
+| 68-83 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Plaisant_6|Évènement plaisant]] |
+| 84-95 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Bon_7|Évènement bon]] |
+| 96-100 | [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Majeur_8|Évènement majeur]] |
 
 
 #### Évènement Mauvais

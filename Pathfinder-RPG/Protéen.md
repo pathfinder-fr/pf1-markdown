@@ -7,7 +7,15 @@ LastModified: 2021-07-15 17:26
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux protéens</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Imentesh]]</td><td>10</td></tr><tr><td>[[Kékétar]]</td><td>17</td></tr><tr><td>[[Naunet]]</td><td>7</td></tr><tr><td>[[Ver du néant]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Les principaux protéens</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Imentesh]] | 10 |
+| [[Kékétar]] | 17 |
+| [[Naunet]] | 7 |
+| [[Ver du néant]] | 2 |
 
 </div></div><div class="description">**Source :** Bestiaire 2 p.223.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type protéen|protéen]])*

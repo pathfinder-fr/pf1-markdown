@@ -40,7 +40,15 @@ Effectuez un jet sur la table ci-dessous à la place de celle de la version [[no
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Table des effets mythiques</caption><tr CLASS="titre"><td>d100</td><td>Comportement</td></tr><tr CLASS="premier"><td>01-25</td><td>La cible agit normalement, mais subit un malus de -2 aux jets d’attaque, aux tests de compétence et de caractéristique jusqu’à son prochain tour.</td></tr><tr><td>26-50</td><td>La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [[CA]] jusqu’à son prochain tour.</td></tr><tr><td>51-75</td><td>La cible s’inflige 2d8 points de dégâts + son modificateur de [[Force]] avec l’objet qu’elle tient en main.</td></tr><tr><td>76-100</td><td>La cible attaque l’allié le plus proche (un familier est considéré comme un allié dans le cadre de ce sort).</td></tr></table>
+<p class="tablo-caption">Table des effets mythiques</p>
+
+{.tablo .autoalt .toutgauche}
+| d100 | Comportement |
+| --- | --- |
+| 01-25 | La cible agit normalement, mais subit un malus de -2 aux jets d’attaque, aux tests de compétence et de caractéristique jusqu’à son prochain tour. |
+| 26-50 | La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [[CA]] jusqu’à son prochain tour. |
+| 51-75 | La cible s’inflige 2d8 points de dégâts + son modificateur de [[Force]] avec l’objet qu’elle tient en main. |
+| 76-100 | La cible attaque l’allié le plus proche (un familier est considéré comme un allié dans le cadre de ce sort). |
 
 </center>
 

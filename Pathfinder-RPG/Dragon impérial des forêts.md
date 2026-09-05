@@ -33,7 +33,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de  impérial des forêts</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des forêts]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon des forêts adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon des forêts vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+<p class="tablo-caption">Variantes de  impérial des forêts</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon des forêts]] | &nbsp; | 10 |
+| [[Dragon des forêts adulte]] | &nbsp; | 14 |
+| [[Dragon des forêts vénérable]] | &nbsp; | 19 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>*Cette énorme créature serpentine et dépourvue d’ailes a des écailles couleur de jade et des bois de cerf. Lorsqu’elle s’avance, on croirait entendre le bruit de pierres que l’on broie.*
 

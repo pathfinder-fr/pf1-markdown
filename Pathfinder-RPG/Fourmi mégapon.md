@@ -41,7 +41,15 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de fourmi</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Fourmi chevalière]]</td><td>4</td></tr><tr><td>[[Fourmi géante]]</td><td>2</td></tr><tr><td>[[Fourmi mégapon]]</td><td>6</td></tr><tr><td>[[Nuée de fourmis soldats]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de fourmi</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Fourmi chevalière]] | 4 |
+| [[Fourmi géante]] | 2 |
+| [[Fourmi mégapon]] | 6 |
+| [[Nuée de fourmis soldats]] | 5 |
 
 </div>*Cette énorme fourmi possède de dangereuses mandibules et un dard suintant. Elle semble suffisamment imposante pour dévorer un cheval.*
 

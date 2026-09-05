@@ -20,7 +20,21 @@ vers l’excellence. Au sein d’un groupe, il les protège et les pousse à acc
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEMERECHAL}Le maréchal</caption><tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr><tr CLASS="premier"><td>1</td><td>[[Maréchal Mythique#ORDREDUMARECHAL|Ordre du maréchal]], [[Maréchal Mythique#APTITUDEDEVOIE|aptitude de voie]]</td></tr><tr><td>2</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>3</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>4</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>5</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>6</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>7</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>8</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>9</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>10</td><td>[[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Maréchal Mythique#COMMANDANTVISIONNAIRE|commandant visionnaire]]</td></tr></table>
+<p class="tablo-caption">{s:Reference|TABLEMERECHAL}Le maréchal</p>
+
+{.tablo .centre .autoalt}
+| Grade | Caractéristiques de la voie |
+| --- | --- |
+| 1 | [[Maréchal Mythique#ORDREDUMARECHAL|Ordre du maréchal]], [[Maréchal Mythique#APTITUDEDEVOIE|aptitude de voie]] |
+| 2 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 3 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 4 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 5 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 6 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 7 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 8 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 9 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]] |
+| 10 | [[Maréchal Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Maréchal Mythique#COMMANDANTVISIONNAIRE|commandant visionnaire]] |
 
 </div></div>Au fur et à mesure que le maréchal monte en [[grades]], il obtient les aptitudes suivantes :
 

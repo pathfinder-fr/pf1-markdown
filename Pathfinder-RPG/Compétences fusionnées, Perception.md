@@ -32,7 +32,23 @@ Le personnage peut détecter la présence d’une créature qui utilise la comp�
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Stimulus</td><td>DD du test de Perception</td></tr><tr CLASS="premier"><td>Entendre les bruits d’un combat</td><td>-10</td></tr><tr><td>Sentir l’odeur de détritus en putréfaction</td><td>-10</td></tr><tr><td>Entendre les détails d’une conversation</td><td>0</td></tr><tr><td>Voir une créature visible</td><td>0</td></tr><tr><td>Sentir l’odeur de la fumée</td><td>0</td></tr><tr><td>Déterminer si la nourriture est avariée</td><td>5</td></tr><tr><td>Entendre les pas d’une créature</td><td>10</td></tr><tr><td>Entendre les détails d’une conversation à voix basse</td><td>15</td></tr><tr><td>Identifier les effets d’une potion en la goûtant</td><td>15 + NLS de la potion</td></tr><tr><td>Entendre le son d’une clef tournant dans une serrure</td><td>20</td></tr><tr><td>Entendre le son d’un arc dont on tend la corde</td><td>25</td></tr><tr><td>Percevoir les vibrations d’une créature souterraine passant sous le personnage</td><td>25</td></tr><tr><td>Remarquer un pickpocket</td><td>Opposé au test de Finesse</td></tr><tr><td>Remarquer une créature qui tente d’être discrète</td><td>Opposé au test de Discrétion</td></tr></table>
+{.tablo .autoalt}
+| Stimulus | DD du test de Perception |
+| --- | --- |
+| Entendre les bruits d’un combat | -10 |
+| Sentir l’odeur de détritus en putréfaction | -10 |
+| Entendre les détails d’une conversation | 0 |
+| Voir une créature visible | 0 |
+| Sentir l’odeur de la fumée | 0 |
+| Déterminer si la nourriture est avariée | 5 |
+| Entendre les pas d’une créature | 10 |
+| Entendre les détails d’une conversation à voix basse | 15 |
+| Identifier les effets d’une potion en la goûtant | 15 + NLS de la potion |
+| Entendre le son d’une clef tournant dans une serrure | 20 |
+| Entendre le son d’un arc dont on tend la corde | 25 |
+| Percevoir les vibrations d’une créature souterraine passant sous le personnage | 25 |
+| Remarquer un pickpocket | Opposé au test de Finesse |
+| Remarquer une créature qui tente d’être discrète | Opposé au test de Discrétion |
 
 </center>
 
@@ -40,7 +56,18 @@ On applique les modificateurs indiqués dans la table suivante sur le [[DD]] des
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances</td><td>Mod au DD du test de Perception</td></tr><tr CLASS="premier"><td>Distance entre le personnage et la source, l’objet ou la créature</td><td>+1 par 3 m</td></tr><tr><td>À travers une porte fermée</td><td>+5</td></tr><tr><td>À travers un mur</td><td>+10 par 30 cm d’épaisseur</td></tr><tr><td>Conditions favorables</td><td>-2</td></tr><tr><td>Conditions défavorables</td><td>+2</td></tr><tr><td>Conditions exécrables</td><td>+5</td></tr><tr><td>Le personnage qui effectue le test est distrait</td><td>+5</td></tr><tr><td>Le personnage qui effectue le test est endormi</td><td>+10</td></tr><tr><td>La créature, l’objet ou la source est invisible</td><td>+20</td></tr></table>
+{.tablo .autoalt}
+| Circonstances | Mod au DD du test de Perception |
+| --- | --- |
+| Distance entre le personnage et la source, l’objet ou la créature | +1 par 3 m |
+| À travers une porte fermée | +5 |
+| À travers un mur | +10 par 30 cm d’épaisseur |
+| Conditions favorables | -2 |
+| Conditions défavorables | +2 |
+| Conditions exécrables | +5 |
+| Le personnage qui effectue le test est distrait | +5 |
+| Le personnage qui effectue le test est endormi | +10 |
+| La créature, l’objet ou la source est invisible | +20 |
 
 </center>
 

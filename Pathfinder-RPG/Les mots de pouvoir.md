@@ -64,7 +64,21 @@ Certaines classe interagissent avec ces règles d’une manière un peu différe
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
 
-<table CLASS="tablo centre autoalt"><caption>Tableau Combinaisons des mots effet</caption><tr CLASS="titre"><td>Niveau du mot</td><td>Un mot effet</td><td>Deux mots effet</td><td>Trois mots effet</td></tr><tr CLASS="premier"><td>0</td><td>0</td><td>-</td><td>-</td></tr><tr><td>1er</td><td>1</td><td>-</td><td>-</td></tr><tr><td>2ème</td><td>2</td><td>0/0</td><td>-</td></tr><tr><td>3ème</td><td>3</td><td>1/1 ou 2/0</td><td>0/0/0</td></tr><tr><td>4ème</td><td>4</td><td>2/2 ou 3/1</td><td>1/1/1 ou 2/0/0</td></tr><tr><td>5ème</td><td>5</td><td>3/3 ou 4/2</td><td>2/2/2 ou 3/1/1</td></tr><tr><td>6ème</td><td>6</td><td>4/4 ou 5/3</td><td>3/3/3 ou 4/2/2</td></tr><tr><td>7ème</td><td>7</td><td>5/5 ou 6/4</td><td>4/4/4 ou 5/3/3</td></tr><tr><td>8ème</td><td>8</td><td>6/6 ou 7/5</td><td>5/5/5 ou 6/4/4</td></tr><tr><td>9ème</td><td>9</td><td>7/7 ou 8/5</td><td>6/6/6 ou 7/5/5</td></tr></table>
+<p class="tablo-caption">Tableau Combinaisons des mots effet</p>
+
+{.tablo .centre .autoalt}
+| Niveau du mot | Un mot effet | Deux mots effet | Trois mots effet |
+| --- | --- | --- | --- |
+| 0 | 0 | - | - |
+| 1er | 1 | - | - |
+| 2ème | 2 | 0/0 | - |
+| 3ème | 3 | 1/1 ou 2/0 | 0/0/0 |
+| 4ème | 4 | 2/2 ou 3/1 | 1/1/1 ou 2/0/0 |
+| 5ème | 5 | 3/3 ou 4/2 | 2/2/2 ou 3/1/1 |
+| 6ème | 6 | 4/4 ou 5/3 | 3/3/3 ou 4/2/2 |
+| 7ème | 7 | 5/5 ou 6/4 | 4/4/4 ou 5/3/3 |
+| 8ème | 8 | 6/6 ou 7/5 | 5/5/5 ou 6/4/4 |
+| 9ème | 9 | 7/7 ou 8/5 | 6/6/6 ou 7/5/5 |
 
 </div></div>Comme n’importe quel autre membre de sa classe, un lanceur de mots bénéficie toujours de ses emplacements de sorts mais il les utilise différemment. Chacun d’entre eux contient un sort de mots ou lui permet d’en constituer un en arrangeant un certain nombre de mots de pouvoir entre eux. Ces mots de pouvoir ont chacun un niveau associé et, dans certains cas, des restrictions sur la manière de les arranger entre eux. Leur niveau est également le niveau minimum de l’emplacement de sort qui doit être utilisé pour transformer ces mots en sorts.
 

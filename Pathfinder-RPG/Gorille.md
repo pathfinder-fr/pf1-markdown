@@ -41,7 +41,15 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de singe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Singe]]</td><td>1/4</td></tr><tr><td>[[Gorille]]</td><td>2</td></tr><tr><td>[[Gorille sanguinaire]]</td><td>3</td></tr><tr><td>[[Mégaprimate]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes de singe</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Singe]] | 1/4 |
+| [[Gorille]] | 2 |
+| [[Gorille sanguinaire]] | 3 |
+| [[Mégaprimate]] | 8 |
 
 </div>*Le gorille avance à pas lourds sur ses jambes et ses poings. Ses grands yeux sont enfoncés dans son crâne sous un large front.*
 

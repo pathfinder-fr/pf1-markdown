@@ -35,7 +35,32 @@ Voir aussi : [[Drézen|Drézen avant libération]], [[Les Terres Blessées]], [[
 </div>
 </td><td><div class="BD">
 
-<table CLASS="tablo centre"><caption>Rencontres dans les Marches</caption><tr CLASS="titre"><td>_1d100_</td><td>Rencontre</td><td>FP moyen</td></tr><tr CLASS="premier"><td>01-07</td><td>Le démon et les morts</td><td>9</td></tr><tr><td>08-11</td><td>1d4 [[Pathfinder-RPG.nuée dasticots|nuées d'asticots]]</td><td>9</td></tr><tr><td>12-14</td><td>1 [[Pathfinder-RPG.vrock|vrock]]</td><td>9</td></tr><tr><td>15-20</td><td>1 [[Pathfinder-RPG.bébilith|bébilith]]</td><td>10</td></tr><tr><td>21-25</td><td>1d4 [[Pathfinder-RPG.bodak|bodaks]]</td><td>10</td></tr><tr><td>26-28</td><td>1 [[Pathfinder-RPG.dérakni|dérakni]]</td><td>10</td></tr><tr><td>29-36</td><td>Ignoble sabat</td><td>10</td></tr><tr><td>37-41</td><td>1d4 [[Pathfinder-RPG.Distordu|distordus]]</td><td>10</td></tr><tr><td>42-45</td><td>1 [[Pathfinder-RPG.jeune dragon rouge|jeune dragon rouge]]</td><td>10</td></tr><tr><td>46-49</td><td>1  [[Pathfinder-RPG.Cristal carnivore|Cristal carnivore]]</td><td>11</td></tr><tr><td>50-57</td><td>Le Fléau</td><td>11</td></tr><tr><td>58-64</td><td>1 [[Pathfinder-RPG.shachath|shachath]]</td><td>11</td></tr><tr><td>65-70</td><td>2d8 [[Pathfinder-RPG.PNJ Fanatique|fanatiques]]</td><td>12</td></tr><tr><td>71-76</td><td>1d4 [[Pathfinder-RPG.déchu|déchus]]</td><td>12</td></tr><tr><td>77-84</td><td>Mères du Chaos</td><td>12</td></tr><tr><td>85-88</td><td>1d6 [[Pathfinder-RPG.nuée de tiques|nuées de tiques]]</td><td>12</td></tr><tr><td>89-91</td><td>1 [[Pathfinder-RPG.dwiergeth|dwiergeth]]</td><td>13</td></tr><tr><td>92-95</td><td>1 [[Pathfinder-RPG.glabrezu|glabrezu]]</td><td>13</td></tr><tr><td>96-98</td><td>1d4 [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]]</td><td>13</td></tr><tr><td>99-100</td><td>Champion du culte</td><td>14</td></tr><tr><td>*</td><td>Si le résultat ne convient pas, faire planer [[AP13-Scorizscar|Scorizscar]]</td><td>-</td></tr></table>
+<p class="tablo-caption">Rencontres dans les Marches</p>
+
+{.tablo .centre}
+| _1d100_ | Rencontre | FP moyen |
+| --- | --- | --- |
+| 01-07 | Le démon et les morts | 9 |
+| 08-11 | 1d4 [[Pathfinder-RPG.nuée dasticots|nuées d'asticots]] | 9 |
+| 12-14 | 1 [[Pathfinder-RPG.vrock|vrock]] | 9 |
+| 15-20 | 1 [[Pathfinder-RPG.bébilith|bébilith]] | 10 |
+| 21-25 | 1d4 [[Pathfinder-RPG.bodak|bodaks]] | 10 |
+| 26-28 | 1 [[Pathfinder-RPG.dérakni|dérakni]] | 10 |
+| 29-36 | Ignoble sabat | 10 |
+| 37-41 | 1d4 [[Pathfinder-RPG.Distordu|distordus]] | 10 |
+| 42-45 | 1 [[Pathfinder-RPG.jeune dragon rouge|jeune dragon rouge]] | 10 |
+| 46-49 | 1  [[Pathfinder-RPG.Cristal carnivore|Cristal carnivore]] | 11 |
+| 50-57 | Le Fléau | 11 |
+| 58-64 | 1 [[Pathfinder-RPG.shachath|shachath]] | 11 |
+| 65-70 | 2d8 [[Pathfinder-RPG.PNJ Fanatique|fanatiques]] | 12 |
+| 71-76 | 1d4 [[Pathfinder-RPG.déchu|déchus]] | 12 |
+| 77-84 | Mères du Chaos | 12 |
+| 85-88 | 1d6 [[Pathfinder-RPG.nuée de tiques|nuées de tiques]] | 12 |
+| 89-91 | 1 [[Pathfinder-RPG.dwiergeth|dwiergeth]] | 13 |
+| 92-95 | 1 [[Pathfinder-RPG.glabrezu|glabrezu]] | 13 |
+| 96-98 | 1d4 [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]] | 13 |
+| 99-100 | Champion du culte | 14 |
+| * | Si le résultat ne convient pas, faire planer [[AP13-Scorizscar|Scorizscar]] | - |
 
 
 - **Le Démon et les morts (FP 9)** : [[Pathfinder-RPG.Nabasu|nabasu]] (4 points de croissance), [[Pathfinder-RPG.goule|4 goules]].

@@ -10,7 +10,16 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux colosses</caption><tr CLASS="titre"><td>Nom</td><td>FP</td><td>RMY</td></tr><tr CLASS="premier"><td>[[Colosse de bois]]</td><td>17</td><td>6</td></tr><tr><td>[[Colosse de chair]]</td><td>16</td><td>6</td></tr><tr><td>[[Colosse de fer]]</td><td>21</td><td>8</td></tr><tr><td>[[Colosse de pierre]]</td><td>19</td><td>7</td></tr><tr><td>[[Colosse sphinx]]</td><td>14</td><td>4</td></tr></table>
+<p class="tablo-caption">Les principaux colosses</p>
+
+{.tablo .autoalt}
+| Nom | FP | RMY |
+| --- | --- | --- |
+| [[Colosse de bois]] | 17 | 6 |
+| [[Colosse de chair]] | 16 | 6 |
+| [[Colosse de fer]] | 21 | 8 |
+| [[Colosse de pierre]] | 19 | 7 |
+| [[Colosse sphinx]] | 14 | 4 |
 
 </div></div><div class="description">*Source : Bestiaire 4.*</div>
 *Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]])*

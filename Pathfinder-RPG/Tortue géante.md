@@ -48,7 +48,13 @@ charge transportée.
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de tortue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Tortue géante]]</td><td>1</td></tr><tr><td>[[Tortue immense]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes de tortue</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Tortue géante]] | 1 |
+| [[Tortue immense]] | 8 |
 
 </div>*Cette tortue est moitié moins grande qu’un humain et possède une carapace en dôme, un cuir tanné et un long cou.*
 

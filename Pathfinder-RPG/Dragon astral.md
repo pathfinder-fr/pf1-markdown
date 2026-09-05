@@ -32,7 +32,14 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon astral</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon astral]]</td><td>9</td></tr><tr><td>[[Dragon astral adulte]]</td><td>13</td></tr><tr><td>[[Dragon astral vénérable]]</td><td>18</td></tr></table>
+<p class="tablo-caption">Variantes de dragon astral</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Jeune dragon astral]] | 9 |
+| [[Dragon astral adulte]] | 13 |
+| [[Dragon astral vénérable]] | 18 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>''Ce majestueux dragon semble scintiller sous l’effet d’une multitude de
 pensées astrales tourbillonnantes.''

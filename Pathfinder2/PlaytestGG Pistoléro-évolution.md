@@ -15,7 +15,31 @@ LastModified: 2021-01-19 15:11
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Le pistoléro</caption><tr CLASS="titre"><td>Votre Niveau</td><td>Capacités de classe</td></tr><tr><td>1</td><td>Ascendance et historique, maîtrises initiales, don de pistoléro, voie de pistoléro, acte initial</td></tr><tr><td>2</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>3</td><td>Don général, entêté, amélioration de compétence</td></tr><tr><td>4</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>5</td><td>Primes de caractéristique, don ancestral, amélioration de compétence, maîtrise des armes du pistoléro</td></tr><tr><td>6</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>7</td><td>Don général, sens alertes, amélioration de compétence, spécialisation martiale</td></tr><tr><td>8</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>9</td><td>Don d’ascendance, acte avancé, expertise du pistoléro, amélioration de compétence</td></tr><tr><td>10</td><td>Primes de caractéristique, don de pistoléro, don de compétence</td></tr><tr><td>11</td><td>Don général, évasion, amélioration de compétence</td></tr><tr><td>12</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>13</td><td>Don ancestral, légende des pistoléros, expertise avec les armures légères, amélioration de compétence</td></tr><tr><td>14</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>15</td><td>Primes de caractéristique, acte supérieur, don général, spécialisation martiale supérieure, amélioration de compétence</td></tr><tr><td>16</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>17</td><td>Don ancestral, juggernaut, avantage du tireur, amélioration de compétence</td></tr><tr><td>18</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>19</td><td>Don général, sens extraordinaires, maîtrise des armures légères, amélioration de compétence</td></tr><tr><td>20</td><td>Primes de caractéristique, don de pistoléro, don de compétence</td></tr></table>
+<p class="tablo-caption">Le pistoléro</p>
+
+{.tablo .autoalt .toutgauche}
+| Votre Niveau | Capacités de classe |
+| --- | --- |
+| 1 | Ascendance et historique, maîtrises initiales, don de pistoléro, voie de pistoléro, acte initial |
+| 2 | Don de pistoléro, don de compétence |
+| 3 | Don général, entêté, amélioration de compétence |
+| 4 | Don de pistoléro, don de compétence |
+| 5 | Primes de caractéristique, don ancestral, amélioration de compétence, maîtrise des armes du pistoléro |
+| 6 | Don de pistoléro, don de compétence |
+| 7 | Don général, sens alertes, amélioration de compétence, spécialisation martiale |
+| 8 | Don de pistoléro, don de compétence |
+| 9 | Don d’ascendance, acte avancé, expertise du pistoléro, amélioration de compétence |
+| 10 | Primes de caractéristique, don de pistoléro, don de compétence |
+| 11 | Don général, évasion, amélioration de compétence |
+| 12 | Don de pistoléro, don de compétence |
+| 13 | Don ancestral, légende des pistoléros, expertise avec les armures légères, amélioration de compétence |
+| 14 | Don de pistoléro, don de compétence |
+| 15 | Primes de caractéristique, acte supérieur, don général, spécialisation martiale supérieure, amélioration de compétence |
+| 16 | Don de pistoléro, don de compétence |
+| 17 | Don ancestral, juggernaut, avantage du tireur, amélioration de compétence |
+| 18 | Don de pistoléro, don de compétence |
+| 19 | Don général, sens extraordinaires, maîtrise des armures légères, amélioration de compétence |
+| 20 | Primes de caractéristique, don de pistoléro, don de compétence |
 
 </center>
 

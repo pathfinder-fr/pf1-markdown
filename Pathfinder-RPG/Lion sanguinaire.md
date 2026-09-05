@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de lion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Lion]]</td><td>3</td></tr><tr><td>[[Lion sanguinaire]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de lion</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Lion]] | 3 |
+| [[Lion sanguinaire]] | 5 |
 
 </div>*La fourrure de cet immense lion tacheté de la taille d’un homme debout est maculée du sang de ses victimes.*
 

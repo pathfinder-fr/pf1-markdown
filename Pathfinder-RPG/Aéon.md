@@ -12,7 +12,18 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux Aéons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Akhana]]</td><td>12</td></tr><tr><td>[[Bythos]]</td><td>16</td></tr><tr><td>[[Lipika]]</td><td>18</td></tr><tr><td>[[Othaos]]</td><td>5</td></tr><tr><td>[[Paraclétus]]</td><td>2</td></tr><tr><td>[[Pléroma]]</td><td>20</td></tr><tr><td>[[Thélétos]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Les principaux Aéons</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Akhana]] | 12 |
+| [[Bythos]] | 16 |
+| [[Lipika]] | 18 |
+| [[Othaos]] | 5 |
+| [[Paraclétus]] | 2 |
+| [[Pléroma]] | 20 |
+| [[Thélétos]] | 7 |
 
 </div></div><div class="description">**Source :** Bestiaire 2 p.10.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type aéon|aéon]], [[sous-type extraplanaire|extraplanaire]])*

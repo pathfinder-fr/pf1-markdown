@@ -36,7 +36,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon d'argent</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon dargent|Jeune dragon d'argent]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon dargent adulte|Dragon d'argent adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon dargent vénérable|Dragon d'argent vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+<p class="tablo-caption">Variantes de dragon d'argent</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon dargent|Jeune dragon d'argent]] | &nbsp; | 10 |
+| [[Dragon dargent adulte|Dragon d'argent adulte]] | &nbsp; | 14 |
+| [[Dragon dargent vénérable|Dragon d'argent vénérable]] | &nbsp; | 19 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Les écailles de ce grand dragon élégant brillent comme de l’argent lustré et on dirait que sa queue est couverte de plumes.*
 

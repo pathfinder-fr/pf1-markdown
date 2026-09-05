@@ -11,7 +11,21 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Variantes de kami</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Dosojin]]</td><td>7</td></tr><tr><td>[[Dunagh]]</td><td>4</td></tr><tr><td>[[Fukujin]]</td><td>3</td></tr><tr><td>[[Jinushigami]]</td><td>20</td></tr><tr><td>[[Kaminari]]</td><td>17</td></tr><tr><td>[[Kodama]]</td><td>5</td></tr><tr><td>[[Shikigami]]</td><td>2</td></tr><tr><td>[[Suijin]]</td><td>14</td></tr><tr><td>[[Toshigami]]</td><td>15</td></tr><tr><td>[[Zuishin]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Variantes de kami</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Dosojin]] | 7 |
+| [[Dunagh]] | 4 |
+| [[Fukujin]] | 3 |
+| [[Jinushigami]] | 20 |
+| [[Kaminari]] | 17 |
+| [[Kodama]] | 5 |
+| [[Shikigami]] | 2 |
+| [[Suijin]] | 14 |
+| [[Toshigami]] | 15 |
+| [[Zuishin]] | 10 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.156.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type kami|kami]], [[sous-type natif|natif]]).*

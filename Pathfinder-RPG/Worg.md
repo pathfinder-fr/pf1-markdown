@@ -38,7 +38,13 @@ Categories:
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de worg</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Loup arctique]]</td><td>5</td></tr><tr><td>[[Worg]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de worg</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Loup arctique]] | 5 |
+| [[Worg]] | 2 |
 
 </div>''On peut percevoir une intelligence maléfique dans les yeux rouge foncé de
 ce loup de grande taille.''

@@ -36,7 +36,13 @@ LastModified: 2022-02-05 12:22
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de vautour</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Vautour]]</td><td>1/2</td></tr><tr><td>[[Vautour géant]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Variantes de vautour</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Vautour]] | 1/2 |
+| [[Vautour géant]] | 4 |
 
 </div>*Le vilain bec crochu et l’immense tête nue de cet immense charognard aux grandes ailes attirent l’attention.*
 

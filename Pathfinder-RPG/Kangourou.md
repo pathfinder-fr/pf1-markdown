@@ -32,7 +32,13 @@ LastModified: 2021-02-23 16:37
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de marsupial</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Kangourou]]</td><td>1/2</td></tr><tr><td>[[Thylacine]]</td><td>1/2</td></tr></table>
+<p class="tablo-caption">Variantes de marsupial</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Kangourou]] | 1/2 |
+| [[Thylacine]] | 1/2 |
 
 </div>*Aussi grand qu’un humain adulte, cette créature à tête de souris se dresse sur ses puissantes pattes arrière et traîne derrière elle une queue épaisse.*
 

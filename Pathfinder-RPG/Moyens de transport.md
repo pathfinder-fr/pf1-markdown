@@ -12,11 +12,38 @@ Categories:
 
 <table width="100%"><tr><td width="50%" style="padding-right:10px">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Moyens de transport terrestres</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Passage (1,5 km)</td></tr><tr CLASS="premier"><td>[[Moyens de transport#Char|↓]] [[Char (objet)|Char (intermédiaire)]]</td><td>75 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Char|↓]] [[Char (objet)|Char (léger)]]</td><td>50 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Char|↓]] [[Char (objet)|Char (lourd)]]</td><td>100 po</td><td>3 cp</td></tr><tr><td>[[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (intermédiaire)]]</td><td>100 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (léger)]]</td><td>50 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (lourd)]]</td><td>200 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Charrette|↓]] [[Charrette (objet)|Charrette]]</td><td>15 po</td><td>1 cp</td></tr><tr><td>[[Moyens de transport#Diligence|↓]] [[Diligence (objet)|Diligence]]</td><td>100 po</td><td>3 cp</td></tr><tr><td>[[Moyens de transport#Traîneau|↓]] [[Traîneau (objet)|Traîneau]]</td><td>100 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Traîneau à chiens|↓]] [[Traîneau à chiens (objet)|Traîneau à chiens]]</td><td>20 po</td><td>3 cp</td></tr></table>
+<p class="tablo-caption">Moyens de transport terrestres</p>
+
+{.tablo .centre .autoalt .toutgauche style="width:100%"}
+| Objet | Prix | Passage (1,5 km) |
+| --- | --- | --- |
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (intermédiaire)]] | 75 po | 2 cp |
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (léger)]] | 50 po | 2 cp |
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (lourd)]] | 100 po | 3 cp |
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (intermédiaire)]] | 100 po | 2 cp |
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (léger)]] | 50 po | 2 cp |
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (lourd)]] | 200 po | 2 cp |
+| [[Moyens de transport#Charrette|↓]] [[Charrette (objet)|Charrette]] | 15 po | 1 cp |
+| [[Moyens de transport#Diligence|↓]] [[Diligence (objet)|Diligence]] | 100 po | 3 cp |
+| [[Moyens de transport#Traîneau|↓]] [[Traîneau (objet)|Traîneau]] | 100 po | 2 cp |
+| [[Moyens de transport#Traîneau à chiens|↓]] [[Traîneau à chiens (objet)|Traîneau à chiens]] | 20 po | 3 cp |
 
 </td><td width="50%" style="vertical-align:top; border-left:solid 1px #002564; padding-left:10px">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Moyens de transport maritimes</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Passage (1,5 km)</td></tr><tr CLASS="premier"><td>[[Moyens de transport#Bateau à voiles|↓]] [[Bateau à voiles (objet)|Bateau à voiles]]</td><td>10.000 po</td><td>2 pa</td></tr><tr><td>[[Moyens de transport#Bateau de guerre|↓]] [[Bateau de guerre (objet)|Bateau de guerre]]</td><td>25.000 po</td><td>2 pa</td></tr><tr><td>[[Moyens de transport#Canot|↓]] [[Canot (objet)|Canot]]</td><td>500 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Chaloupe|↓]] [[Chaloupe (objet)|Chaloupe]]</td><td>50 po</td><td>2 cp</td></tr><tr><td>[[Moyens de transport#Drakkar|↓]] [[Drakkar (objet)|Drakkar]]</td><td>10.000 po</td><td>5 cp</td></tr><tr><td>[[Moyens de transport#Galère|↓]] [[Galère (objet)|Galère]]</td><td>30.000 po</td><td>1 pa</td></tr><tr><td>[[Moyens de transport#Jonque|↓]] [[Jonque (objet)|Jonque]]</td><td>15.000 po</td><td>1 pa</td></tr><tr><td>[[Moyens de transport#Quillard|↓]] [[Quillard (objet)|Quillard]]</td><td>3.000 po</td><td>1 pa</td></tr><tr><td>[[Moyens de transport#Radeau|↓]] [[Radeau (objet)|Radeau]]</td><td>—</td><td>1 cp</td></tr></table>
+<p class="tablo-caption">Moyens de transport maritimes</p>
+
+{.tablo .centre .autoalt .toutgauche style="width:100%"}
+| Objet | Prix | Passage (1,5 km) |
+| --- | --- | --- |
+| [[Moyens de transport#Bateau à voiles|↓]] [[Bateau à voiles (objet)|Bateau à voiles]] | 10.000 po | 2 pa |
+| [[Moyens de transport#Bateau de guerre|↓]] [[Bateau de guerre (objet)|Bateau de guerre]] | 25.000 po | 2 pa |
+| [[Moyens de transport#Canot|↓]] [[Canot (objet)|Canot]] | 500 po | 2 cp |
+| [[Moyens de transport#Chaloupe|↓]] [[Chaloupe (objet)|Chaloupe]] | 50 po | 2 cp |
+| [[Moyens de transport#Drakkar|↓]] [[Drakkar (objet)|Drakkar]] | 10.000 po | 5 cp |
+| [[Moyens de transport#Galère|↓]] [[Galère (objet)|Galère]] | 30.000 po | 1 pa |
+| [[Moyens de transport#Jonque|↓]] [[Jonque (objet)|Jonque]] | 15.000 po | 1 pa |
+| [[Moyens de transport#Quillard|↓]] [[Quillard (objet)|Quillard]] | 3.000 po | 1 pa |
+| [[Moyens de transport#Radeau|↓]] [[Radeau (objet)|Radeau]] | — | 1 cp |
 
 </td></tr></table>
 

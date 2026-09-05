@@ -39,7 +39,15 @@ La véritable fonction de la compétence de Profession consiste à gérer avec s
 **Grande entreprise.** Les activités de l’entreprise du personnage sont d’une ampleur certaine et fonctionnent soit sous la forme de plusieurs entreprises moyennes disséminées au sein d’une petite ville ou d’une communauté plus importante, soit sous la forme de plusieurs entreprises de tailles diverses établies dans plusieurs petites bourgades ou communautés plus importantes.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>{s:Reference|TAILLEETCREATIONDUNEENTREPRISE}Taille et création d’une entreprise</caption><tr CLASS="titre"><td>Taille de l’entreprise</td><td>Facteur de travail</td><td>Nombre minimum d’employés</td><td>Nombre maximum d’employés</td><td>Temps d’installation</td><td>Coûts de création/de développement</td><td>Facteur de bénéfices mensuels</td></tr><tr CLASS="premier"><td>Itinérante</td><td>0</td><td>0</td><td>2</td><td>1 journée</td><td>1 po/rang</td><td>5</td></tr><tr><td>Petite</td><td>-2</td><td>2</td><td>4</td><td>1 semaine</td><td>100 po/rang</td><td>10</td></tr><tr><td>Moyenne</td><td>-5</td><td>5</td><td>10</td><td>2 semaines</td><td>1 000 po/rang</td><td>100</td></tr><tr><td>Grande</td><td>-10</td><td>10</td><td>20</td><td>1 mois</td><td>5 000 po/rang</td><td>1 000</td></tr></table>
+<p class="tablo-caption">{s:Reference|TAILLEETCREATIONDUNEENTREPRISE}Taille et création d’une entreprise</p>
+
+{.tablo .centre .autoalt style="width:100%"}
+| Taille de l’entreprise | Facteur de travail | Nombre minimum d’employés | Nombre maximum d’employés | Temps d’installation | Coûts de création/de développement | Facteur de bénéfices mensuels |
+| --- | --- | --- | --- | --- | --- | --- |
+| Itinérante | 0 | 0 | 2 | 1 journée | 1 po/rang | 5 |
+| Petite | -2 | 2 | 4 | 1 semaine | 100 po/rang | 10 |
+| Moyenne | -5 | 5 | 10 | 2 semaines | 1 000 po/rang | 100 |
+| Grande | -10 | 10 | 20 | 1 mois | 5 000 po/rang | 1 000 |
 
 
 ### Gestion d'une entreprise

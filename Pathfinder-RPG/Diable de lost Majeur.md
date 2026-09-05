@@ -54,7 +54,14 @@ Cette capacité est l’équivalent d’un sort de 3e niveau.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Les variantes de Diable de l'ost</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Diable de lost|Diable de l'ost]] (Magaav)</td><td>6</td></tr><tr><td>[[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav)</td><td>6</td></tr><tr><td>[[Diable de lost mineur|Diable de l'ost mineur]] (Gaav)</td><td>3</td></tr></table>
+<p class="tablo-caption">Les variantes de Diable de l'ost</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Diable de lost|Diable de l'ost]] (Magaav) | 6 |
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) | 6 |
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) | 3 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Des paires jumelles d’ailes de vautour galeuses et infectées de maux

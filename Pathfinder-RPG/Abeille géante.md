@@ -39,7 +39,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'abeille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Abeille géante]]</td><td>1</td></tr><tr><td>[[Abeille reine géante]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes d'abeille</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Abeille géante]] | 1 |
+| [[Abeille reine géante]] | 5 |
 
 </div>*Des marques jaunes et noires bien visibles et un manteau de poils hérissés recouvrent cette immense abeille. Son dard à la taille d’une lame de dague.*
 

@@ -16,7 +16,14 @@ Il arrive parfois que des particularités raciales et des traits raciaux coûten
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre autoalt"><caption>Points de race et nombre maximum de traits par niveau de puissance</caption><tr CLASS="titre"><td>Niveau de puissance</td><td>Points de race</td><td>Traits par catégorie</td></tr><tr CLASS="premier"><td>Standard</td><td>1-10</td><td>3</td></tr><tr><td>Évolué</td><td>11-20</td><td>4</td></tr><tr><td>Monstrueux</td><td>21 et plus</td><td>5</td></tr></table>
+<p class="tablo-caption">Points de race et nombre maximum de traits par niveau de puissance</p>
+
+{.tablo .centre .autoalt}
+| Niveau de puissance | Points de race | Traits par catégorie |
+| --- | --- | --- |
+| Standard | 1-10 | 3 |
+| Évolué | 11-20 | 4 |
+| Monstrueux | 21 et plus | 5 |
 
 </div></div>Il y a trois niveaux de puissance : standard, évolué et monstrueux. Les races standard ne peuvent prendre que des traits raciaux standard, les races évoluées peuvent prendre des traits raciaux standard et évolués, et les races monstrueuses peuvent prendre des traits raciaux standard, évolués et monstrueux. La table 4-1 indique le nombre de PR que vous pouvez dépenser ainsi que le nombre maximum de traits raciaux que vous pouvez prendre par catégorie selon votre niveau de puissance.
 

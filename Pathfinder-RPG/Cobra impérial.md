@@ -35,7 +35,18 @@ LastModified: 2021-02-20 16:09
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de serpent</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Vipère]]</td><td>1/2</td></tr><tr><td>[[Anaconda géant]]</td><td>10</td></tr><tr><td>[[Cobra impérial]]</td><td>5</td></tr><tr><td>[[Nuée de serpents]]</td><td>2</td></tr><tr><td>[[Nuée de serpents venimeux]]</td><td>4</td></tr><tr><td>[[Serpent constricteur]]</td><td>2</td></tr><tr><td>[[Serpent venimeux]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes de serpent</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Vipère]] | 1/2 |
+| [[Anaconda géant]] | 10 |
+| [[Cobra impérial]] | 5 |
+| [[Nuée de serpents]] | 2 |
+| [[Nuée de serpents venimeux]] | 4 |
+| [[Serpent constricteur]] | 2 |
+| [[Serpent venimeux]] | 1 |
 
 </div>*Ce gigantesque cobra vert lève sa tête de manière agressive. La lumière fait luire sa capuche d’écailles aux couleurs vives, une mise en garde impossible à ignorer.*
 

@@ -132,7 +132,16 @@ Si deux des reliques devaient être remises à un même individu, ou si deux des
 - **Sens unifiés.** Quand plusieurs *reliques de Kazavon* sont réunies, l’esprit du dragon regagne une partie de sa conscience, de sa force de volonté et de sa capacité à influencer le monde. Ainsi, l’[[objets intelligents#EGO|ego]] combiné des reliques, leurs [[objets intelligents#SNES|méthodes de communication]] et leurs [[objets intelligents#SNES|sens]] augmentent comme indiqué dans le tableau ci-dessous.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Nombre de reliques</td><td>Communication</td><td>Sens</td><td>Ego</td></tr><tr CLASS="premier"><td>1</td><td>Empathie</td><td>9 m</td><td>10</td></tr><tr><td>2</td><td>Empathie</td><td>18 m</td><td>12</td></tr><tr><td>3</td><td>Parole</td><td>36 m</td><td>14</td></tr><tr><td>4</td><td>Parole</td><td>36 m, vision dans le noir</td><td>16</td></tr><tr><td>5</td><td>Parole</td><td>36 m, vision dans le noir</td><td>18</td></tr><tr><td>6</td><td>Parole, télépathie</td><td>36 m, vision dans le noir</td><td>20</td></tr><tr><td>7</td><td>Parole, télépathie</td><td>36 m, perception aveugle, vision dans le noir</td><td>22</td></tr></table>
+{.tablo .centre .autoalt}
+| Nombre de reliques | Communication | Sens | Ego |
+| --- | --- | --- | --- |
+| 1 | Empathie | 9 m | 10 |
+| 2 | Empathie | 18 m | 12 |
+| 3 | Parole | 36 m | 14 |
+| 4 | Parole | 36 m, vision dans le noir | 16 |
+| 5 | Parole | 36 m, vision dans le noir | 18 |
+| 6 | Parole, télépathie | 36 m, vision dans le noir | 20 |
+| 7 | Parole, télépathie | 36 m, perception aveugle, vision dans le noir | 22 |
 
 
 - **Objectif unifié.** Quand au moins trois *reliques de Kazavon* sont réunies, le dragon recouvre suffisamment de sa conscience et de sa personnalité pour comprendre la situation dans laquelle il se trouve. À ce stade, les artefacts disposent d’un objectif unifié : retrouver les autres reliques. Que ce soit en dominant leurs porteurs ou par une manipulation subtile, les reliques cherchent leurs sœurs dans l’espoir de ressusciter.

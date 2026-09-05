@@ -9,7 +9,17 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux rakshasas</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Dandasuka]]</td><td>5</td></tr><tr><td>[[Maharadjah]]</td><td>20</td></tr><tr><td>[[Maraï]]</td><td>8</td></tr><tr><td>[[Rakshasa]]</td><td>10</td></tr><tr><td>[[Raktavarna]]</td><td>2</td></tr><tr><td>[[Tataka]]</td><td>15</td></tr></table>
+<p class="tablo-caption">Les principaux rakshasas</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Dandasuka]] | 5 |
+| [[Maharadjah]] | 20 |
+| [[Maraï]] | 8 |
+| [[Rakshasa]] | 10 |
+| [[Raktavarna]] | 2 |
+| [[Tataka]] | 15 |
 
 </div></div><div class="description">**Source :** Bestiaire 3, p.220.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type rakshasa|rakshasa]])*

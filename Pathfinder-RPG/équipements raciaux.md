@@ -20,7 +20,13 @@ Les [[demi-elfe|demi-elfes]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des demi-elfes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Cartes du ciel</td><td>200 po</td><td>0,25 kg</td></tr><tr><td>Feuilles d’érable doré</td><td>50 po</td><td>0,25 kg</td></tr></table>
+<p class="tablo-caption">Équipement des demi-elfes</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids |
+| --- | --- | --- |
+| Cartes du ciel | 200 po | 0,25 kg |
+| Feuilles d’érable doré | 50 po | 0,25 kg |
 
 </center></div></div>
 
@@ -38,7 +44,13 @@ Les [[demi-orque|demi-orques]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des demi-orques</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Kit de déguisement orque</td><td>75 po</td><td>0,5 kg</td><td>–</td></tr><tr><td>Purulence noire (fiole)</td><td>30 po</td><td>–</td><td>25</td></tr></table>
+<p class="tablo-caption">Équipement des demi-orques</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Kit de déguisement orque | 75 po | 0,5 kg | – |
+| Purulence noire (fiole) | 30 po | – | 25 |
 
 </center></div></div>
 
@@ -106,7 +118,15 @@ Les [[halfelin|halfelins]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des halfelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bâtons du diable halfelins</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Cape parachute</td><td>100 po</td><td>2 kg</td><td>-</td></tr><tr><td>Confiture alchimique</td><td>15 po</td><td>-</td><td>20</td></tr><tr><td>Corde rugissante</td><td>100 po</td><td>0,5 kg</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des halfelins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Bâtons du diable halfelins | 25 po | 0,5 kg | - |
+| Cape parachute | 100 po | 2 kg | - |
+| Confiture alchimique | 15 po | - | 20 |
+| Corde rugissante | 100 po | 0,5 kg | - |
 
 </center></div></div>
 
@@ -127,7 +147,13 @@ Les [[humain|humains]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des humains</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Fouet de dressage</td><td>5 po</td><td>1 kg</td></tr><tr><td>Harnachement de dressage</td><td>10 po</td><td>5 kg</td></tr></table>
+<p class="tablo-caption">Équipement des humains</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids |
+| --- | --- | --- |
+| Fouet de dressage | 5 po | 1 kg |
+| Harnachement de dressage | 10 po | 5 kg |
 
 </center></div></div>
 
@@ -164,7 +190,16 @@ Les [[aasimar (race)|aasimars]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des aasimars</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Ambroisie (fiole)</td><td>100 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>Encens (10 bâtonnets)</td><td>10 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Encensoir céleste</td><td>50 po</td><td>1,5 kg</td><td>-</td></tr><tr><td>Huile sainte</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Lampe céleste</td><td>300 po</td><td>1 kg</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des aasimars</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Ambroisie (fiole) | 100 po | 0,5 kg | 25 |
+| Encens (10 bâtonnets) | 10 po | 0,5 kg | - |
+| Encensoir céleste | 50 po | 1,5 kg | - |
+| Huile sainte | 25 po | 0,5 kg | 20 |
+| Lampe céleste | 300 po | 1 kg | - |
 
 </center></div></div>
 
@@ -187,7 +222,14 @@ Les [[dhampir (race)|dhampirs]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des dhampirs</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Carreaux transperce-coeur (5)</td><td>100 po</td><td>1,5 kg</td></tr><tr><td>Col de protection</td><td>10 po</td><td>0,125 kg</td></tr><tr><td>Kit du tueur de vampires</td><td>500 po</td><td>4 kg</td></tr></table>
+<p class="tablo-caption">Équipement des dhampirs</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids |
+| --- | --- | --- |
+| Carreaux transperce-coeur (5) | 100 po | 1,5 kg |
+| Col de protection | 10 po | 0,125 kg |
+| Kit du tueur de vampires | 500 po | 4 kg |
 
 </center></div></div>
 
@@ -235,7 +277,14 @@ Les [[fetchelin (race)|fetchelins]] ont accès à l'équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des fetchelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Fiole de nectar d’ombre</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Lanterne de lumière noire</td><td>20 po</td><td>1,5 kg</td><td>-</td></tr><tr><td>Lunettes de vision obscure</td><td>200 po</td><td>-</td><td>25</td></tr></table>
+<p class="tablo-caption">Équipement des fetchelins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Fiole de nectar d’ombre | 25 po | 0,5 kg | 20 |
+| Lanterne de lumière noire | 20 po | 1,5 kg | - |
+| Lunettes de vision obscure | 200 po | - | 25 |
 
 </center></div></div>
 
@@ -258,7 +307,17 @@ Les [[gobelin (race)|gobelins]] ont accès à l'équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des gobelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Apaise-tripes (fiole)</td><td>50 po</td><td>-</td><td>25</td></tr><tr><td>Harnais de vol</td><td>10 po</td><td>5 kg</td><td>-</td></tr><tr><td>Harnais de vol de maître</td><td>80 po</td><td>5 kg</td><td>-</td></tr><tr><td>Apaise-tripes (fiole)</td><td>50 po</td><td>-</td><td>25</td></tr><tr><td>Lance-bombe</td><td>10 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>Racine veloutée (fiole)</td><td>10 po</td><td>-</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des gobelins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Apaise-tripes (fiole) | 50 po | - | 25 |
+| Harnais de vol | 10 po | 5 kg | - |
+| Harnais de vol de maître | 80 po | 5 kg | - |
+| Apaise-tripes (fiole) | 50 po | - | 25 |
+| Lance-bombe | 10 po | 0,25 kg | 25 |
+| Racine veloutée (fiole) | 10 po | - | 20 |
 
 </center></div></div>
 
@@ -274,7 +333,13 @@ Les [[gobelin (race)|gobelins]] ont accès à l'équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Armes des gobelins</caption><tr CLASS="titre"><td>Arme de corps à corps légère</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Tranchechien</td><td>8 po</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>1/2 kg</td><td>T</td><td>fragile</td></tr><tr><td>Coupecheval</td><td>10 po</td><td>1d8</td><td>1d10</td><td>×3</td><td>6 kg</td><td>P ou T</td><td>[[Tableau récapitulatif des armes#CROCENJAMBE|Croc-en-jambe]], [[Tableau récapitulatif des armes#RECEPTION|réception]]</td></tr></table>
+<p class="tablo-caption">Armes des gobelins</p>
+
+{.tablo .autoalt}
+| Arme de corps à corps légère | Prix | Dégâts (P) | Dégâts (M) | Critique | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Tranchechien | 8 po | 1d4 | 1d6 | 19-20/x2 | 1/2 kg | T | fragile |
+| Coupecheval | 10 po | 1d8 | 1d10 | ×3 | 6 kg | P ou T | [[Tableau récapitulatif des armes#CROCENJAMBE|Croc-en-jambe]], [[Tableau récapitulatif des armes#RECEPTION|réception]] |
 
 </center></div></div>
 
@@ -313,7 +378,14 @@ Les [[homme-félin (race)|hommes-félins]] ont accès à l’équipement suivant
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des hommes-félins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bottes de velours</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Griffes métalliques</td><td>305 po</td><td>1 kg</td><td>-</td></tr><tr><td>Trousse de marquage olfactif</td><td>10 po</td><td>2,5 kg</td><td>25</td></tr></table>
+<p class="tablo-caption">Équipement des hommes-félins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Bottes de velours | 25 po | 0,5 kg | - |
+| Griffes métalliques | 305 po | 1 kg | - |
+| Trousse de marquage olfactif | 10 po | 2,5 kg | 25 |
 
 </center></div></div>
 
@@ -332,7 +404,15 @@ Les [[homme-rat (race)|hommes-rats]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des hommes-rats</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Encre nauséabonde</td><td>5 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>Encre nauséabonde magique</td><td>spécial</td><td>0,5 kg</td><td>-</td></tr><tr><td>Poche de vérole</td><td>50 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Tonique infectieux</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des hommes-rats</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Encre nauséabonde | 5 po | 0,5 kg | 15 |
+| Encre nauséabonde magique | spécial | 0,5 kg | - |
+| Poche de vérole | 50 po | 0,5 kg | 20 |
+| Tonique infectieux | 150 po | 0,5 kg | 20 |
 
 </center></div></div>
 
@@ -349,7 +429,12 @@ arme à dispersion. Traitez cette attaque comme une attaque de contact à distan
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Arme des hommes-rats</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Coût</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Lame caudale</td><td>5 po</td><td>1d2</td><td>1d3</td><td>20/×2</td><td>–</td><td>0,5 kg</td><td>T</td><td>–</td></tr></table>
+<p class="tablo-caption">Arme des hommes-rats</p>
+
+{.tablo .autoalt}
+| Arme de guerre | Coût | Dégâts (P) | Dégâts (M) | Critique | Portée | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lame caudale | 5 po | 1d2 | 1d3 | 20/×2 | – | 0,5 kg | T | – |
 
 </center></div></div>
 
@@ -366,7 +451,13 @@ Les [[ifrit (race)|ifrits]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des ifrits</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Encre de feu</td><td>1 po</td><td>-</td><td>15</td></tr><tr><td>Sang d'ifrit</td><td>50 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des ifrits</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Encre de feu | 1 po | - | 15 |
+| Sang d'ifrit | 50 po | 0,5 kg | 20 |
 
 </center></div></div>
 
@@ -384,7 +475,16 @@ Les [[kobold (race)|kobolds]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Accessoires caudaux des kobolds</caption><tr CLASS="titre"><td>Arme</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Balai</td><td>7 po</td><td>1d4</td><td>1d6</td><td>x2</td><td>1,5 kg</td><td>C</td><td>croc-en-jambe</td></tr><tr><td>Lame</td><td>3 po</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>1 kg</td><td>T</td><td>-</td></tr><tr><td>Long fouet</td><td>15 po</td><td>1d4</td><td>1d6</td><td>x2</td><td>0,5 kg</td><td>T</td><td>allonge</td></tr><tr><td>Pieu</td><td>3 po</td><td>1d6</td><td>1d8</td><td>x3</td><td>1 kg</td><td>P</td><td>-</td></tr><tr><td>Poids</td><td>1 po</td><td>1d6</td><td>1d6</td><td>x2</td><td>2 kg</td><td>C</td><td>-</td></tr></table>
+<p class="tablo-caption">Accessoires caudaux des kobolds</p>
+
+{.tablo .autoalt}
+| Arme | Prix | Dégâts (P) | Dégâts (M) | Critique | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Balai | 7 po | 1d4 | 1d6 | x2 | 1,5 kg | C | croc-en-jambe |
+| Lame | 3 po | 1d6 | 1d8 | 19-20/x2 | 1 kg | T | - |
+| Long fouet | 15 po | 1d4 | 1d6 | x2 | 0,5 kg | T | allonge |
+| Pieu | 3 po | 1d6 | 1d8 | x3 | 1 kg | P | - |
+| Poids | 1 po | 1d6 | 1d6 | x2 | 2 kg | C | - |
 
 </center></div></div>
 
@@ -394,7 +494,14 @@ Les [[kobold (race)|kobolds]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des kobolds</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Charbon alchimique(cendres aveuglantes)</td><td>100 po</td><td>-</td><td>25</td></tr><tr><td>Charbon alchimique (fumée asphyxiante)</td><td>50 po</td><td>-</td><td>20</td></tr><tr><td>Sifflet des grottes</td><td>20 po</td><td>-</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des kobolds</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Charbon alchimique(cendres aveuglantes) | 100 po | - | 25 |
+| Charbon alchimique (fumée asphyxiante) | 50 po | - | 20 |
+| Sifflet des grottes | 20 po | - | - |
 
 </center></div></div>
 
@@ -416,7 +523,14 @@ Les [[ondin (race)|ondins]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des ondins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Ceintures de chaîne</td><td>15 po</td><td>0,125 kg</td><td>-</td></tr><tr><td>Éponge à potion</td><td>2 po</td><td>-</td><td>15</td></tr><tr><td>Manche d’arme ondin</td><td>+300 po</td><td>-</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des ondins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Ceintures de chaîne | 15 po | 0,125 kg | - |
+| Éponge à potion | 2 po | - | 15 |
+| Manche d’arme ondin | +300 po | - | - |
 
 </center></div></div>
 
@@ -435,7 +549,14 @@ Les [[orque (race)|orques]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des orques</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Besace d’esprit guerrier</td><td>50 po</td><td>-</td><td>20</td></tr><tr><td>Étendard tribal</td><td>50 po</td><td>10 kg</td><td>-</td></tr><tr><td>Masque de guerre</td><td>50 po</td><td>1 kg</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des orques</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Besace d’esprit guerrier | 50 po | - | 20 |
+| Étendard tribal | 50 po | 10 kg | - |
+| Masque de guerre | 50 po | 1 kg | - |
 
 </center></div></div>
 
@@ -454,7 +575,15 @@ Les [[oréade (race)|oréades]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des oréades</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Gemme de chair (décorative)</td><td>1 po</td><td>-</td><td>-</td></tr><tr><td>Gemme de chair (pointes)</td><td>50 po</td><td>2,5 kg</td><td>-</td></tr><tr><td>Lichen de camouflage</td><td>100 po</td><td>-</td><td>-</td></tr><tr><td>Onguent de rochéclats</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des oréades</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Gemme de chair (décorative) | 1 po | - | - |
+| Gemme de chair (pointes) | 50 po | 2,5 kg | - |
+| Lichen de camouflage | 100 po | - | - |
+| Onguent de rochéclats | 150 po | 0,5 kg | 20 |
 
 </center></div></div>
 
@@ -478,7 +607,13 @@ Les [[sylphe (race)|sylphes]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des sylphes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Cape-aile</td><td>1 200 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Souffle élémentaire (fiole)</td><td>80 po</td><td>0,25 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des sylphes</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Cape-aile | 1 200 po | 0,5 kg | - |
+| Souffle élémentaire (fiole) | 80 po | 0,25 kg | 20 |
 
 </center></div></div>
 
@@ -495,7 +630,14 @@ Les [[tengu (race)|tengus]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des tengus</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td></tr><tr><td>Cerf-volant de terreur</td><td>20 po</td></tr><tr><td>Huile alaire</td><td>1 po</td></tr><tr><td>Trousse de cerfs-volants de communication</td><td>5 po</td></tr></table>
+<p class="tablo-caption">Équipement des tengus</p>
+
+{.tablo .autoalt}
+| Équipement | Prix |
+| --- | --- |
+| Cerf-volant de terreur | 20 po |
+| Huile alaire | 1 po |
+| Trousse de cerfs-volants de communication | 5 po |
 
 </center></div></div>
 
@@ -516,7 +658,12 @@ Les [[tieffelin (race)|tieffelins]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des tieffelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Onguent de sang fiélon</td><td>7 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des tieffelins</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD Artisanat |
+| --- | --- | --- | --- |
+| Onguent de sang fiélon | 7 po | 0,5 kg | 20 |
 
 </center></div></div>
 
@@ -532,7 +679,12 @@ Les [[aquatique (race)|aquatiques]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Arme des aquatiques</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td></tr><tr><td>Couteau de mer</td><td>8 po</td><td>1d3</td><td>1d4</td><td>19-20/x2</td><td>0,5 kg</td><td>T</td></tr></table>
+<p class="tablo-caption">Arme des aquatiques</p>
+
+{.tablo .autoalt}
+| Arme de guerre | Prix | Dégâts (P) | Dégâts (M) | Critique | Poids | Type |
+| --- | --- | --- | --- | --- | --- | --- |
+| Couteau de mer | 8 po | 1d3 | 1d4 | 19-20/x2 | 0,5 kg | T |
 
 </center></div></div>
 
@@ -547,7 +699,12 @@ Les [[duergar (race)|duergars]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Poison duergar</caption><tr CLASS="titre"><td>Nom</td><td>Type</td><td>DD Vig</td><td>Incubation</td><td>Fréquence</td><td>Effet</td><td>Guérison</td><td>Prix</td></tr><tr><td>Brûle-sorts</td><td>Blessure</td><td>14</td><td>-</td><td>1/rd pdt 4 rd</td><td>voir texte</td><td>1 réussite</td><td>200 po</td></tr></table>
+<p class="tablo-caption">Poison duergar</p>
+
+{.tablo .autoalt}
+| Nom | Type | DD Vig | Incubation | Fréquence | Effet | Guérison | Prix |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Brûle-sorts | Blessure | 14 | - | 1/rd pdt 4 rd | voir texte | 1 réussite | 200 po |
 
 </center></div></div>
 
@@ -575,7 +732,12 @@ Les [[grippli (race)|gripplis]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Poison des gripplis</caption><tr CLASS="titre"><td>Nom</td><td>Type</td><td>DD Vig</td><td>Incubation</td><td>Fréquence</td><td>Effet</td><td>Guérison</td><td>Prix</td></tr><tr><td>Poison</br>d’araignée</td><td>Blessure</td><td>14</td><td>-</td><td>1/rd</br>pdt 6 rd</td><td>1d4 Dex et</br>confus pdt 1 rd</td><td>2 réussites</br>consécutives</td><td>800 po</td></tr></table>
+<p class="tablo-caption">Poison des gripplis</p>
+
+{.tablo .autoalt}
+| Nom | Type | DD Vig | Incubation | Fréquence | Effet | Guérison | Prix |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Poison</br>d’araignée | Blessure | 14 | - | 1/rd</br>pdt 6 rd | 1d4 Dex et</br>confus pdt 1 rd | 2 réussites</br>consécutives | 800 po |
 
 </center></div></div>
 
@@ -590,7 +752,13 @@ Les [[homme-poisson (race)|hommes-poissons]] ont accès à l’équipement suiva
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Armes des hommes-poissons</caption><tr CLASS="titre"><td>Armes à distance</td><td>Prix</td><td>Poids</td></tr><tr><td>Arbalète sous-marine légère</td><td>70 po</td><td>2 kg</td></tr><tr><td>Arbalète sous-marine lourde</td><td>100 po</td><td>4 kg</td></tr></table>
+<p class="tablo-caption">Armes des hommes-poissons</p>
+
+{.tablo .autoalt}
+| Armes à distance | Prix | Poids |
+| --- | --- | --- |
+| Arbalète sous-marine légère | 70 po | 2 kg |
+| Arbalète sous-marine lourde | 100 po | 4 kg |
 
 </center></div></div>
 
@@ -605,7 +773,12 @@ Les [[samsaran (race)|samsarans]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des samsarans</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Roue karmique du samsaran</td><td>25 po</td><td>0,25 kg</td></tr></table>
+<p class="tablo-caption">Équipement des samsarans</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids |
+| --- | --- | --- |
+| Roue karmique du samsaran | 25 po | 0,25 kg |
 
 </center></div></div>
 
@@ -620,7 +793,12 @@ Les [[strix (race)|strix]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Arme des strix</caption><tr CLASS="titre"><td>Arme exotique</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Filet de barbelés</td><td>30 po</td><td>voir texte</td><td>voir texte</td><td>-</td><td>3 m (2 {s:c})</td><td>5 kg</td><td>P</td><td>Croc-en-jambe, voir texte</td></tr></table>
+<p class="tablo-caption">Arme des strix</p>
+
+{.tablo .autoalt}
+| Arme exotique | Prix | Dégâts (P) | Dégâts (M) | Critique | Portée | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Filet de barbelés | 30 po | voir texte | voir texte | - | 3 m (2 {s:c}) | 5 kg | P | Croc-en-jambe, voir texte |
 
 </center></div></div>
 
@@ -637,7 +815,12 @@ Les [[suli (race)|sulis]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des sulis</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'Artisanat</td></tr><tr><td>Flux élémentaire (flasque)</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des sulis</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'Artisanat |
+| --- | --- | --- | --- |
+| Flux élémentaire (flasque) | 20 po | 0,25 kg | 20 |
 
 </center></div></div>
 
@@ -652,7 +835,12 @@ Les [[svirfneblin (race)|svirfneblins]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Arme des svirfneblins</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Prix</td><td>Dégpats (P)</td><td>Dégpats (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Fléchette de choc</td><td>100 po</td><td>1d3</td><td>1d4</td><td>x2</td><td>6m</td><td>0,25kg</td><td>P</td><td>voir texte</td></tr></table>
+<p class="tablo-caption">Arme des svirfneblins</p>
+
+{.tablo .autoalt}
+| Arme de guerre | Prix | Dégpats (P) | Dégpats (M) | Critique | Portée | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fléchette de choc | 100 po | 1d3 | 1d4 | x2 | 6m | 0,25kg | P | voir texte |
 
 </center></div></div>
 
@@ -666,7 +854,12 @@ Les [[vanara (race)|vanaras]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des vanaras</caption><tr CLASS="titre"><td>Type d’objet en bois fouettant</td><td>Prix</td></tr><tr><td>Arme en bois ou avec un manche en bois</td><td>+500 po</td></tr></table>
+<p class="tablo-caption">Équipement des vanaras</p>
+
+{.tablo .autoalt}
+| Type d’objet en bois fouettant | Prix |
+| --- | --- |
+| Arme en bois ou avec un manche en bois | +500 po |
 
 </center></div></div>
 
@@ -682,7 +875,12 @@ Les [[vishkanya (race)|vishkanyas]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des vishkanyas</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Tatouage empoisonné</td><td>50 po</td><td>-</td><td>20</td></tr></table>
+<p class="tablo-caption">Équipement des vishkanyas</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Tatouage empoisonné | 50 po | - | 20 |
 
 </center></div></div>
 
@@ -696,7 +894,12 @@ Les [[wayang (race)|wayangs]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des wayangs</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Ensemble de pochoirs d’ombre</td><td>30 po</td><td>1 kg</td><td>-</td></tr></table>
+<p class="tablo-caption">Équipement des wayangs</p>
+
+{.tablo .autoalt}
+| Équipement | Prix | Poids | DD d'artisanat |
+| --- | --- | --- | --- |
+| Ensemble de pochoirs d’ombre | 30 po | 1 kg | - |
 
 </center></div></div>
 
@@ -714,6 +917,11 @@ Cette arme à une main ressemble à un nunchaku en ce qu’elle se compose de de
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Arme des gnolls</caption><tr CLASS="titre"><td>Arme exotique</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Bâton de flind</td><td>9 po</td><td>1d6</td><td>1d8</td><td>x2</td><td>—</td><td>3 kg</td><td>C et P</td><td>Croc-en-jambe, Désarmement</td></tr></table>
+<p class="tablo-caption">Arme des gnolls</p>
+
+{.tablo .autoalt}
+| Arme exotique | Prix | Dégâts (P) | Dégâts (M) | Critique | Portée | Poids | Type | Spécial |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bâton de flind | 9 po | 1d6 | 1d8 | x2 | — | 3 kg | C et P | Croc-en-jambe, Désarmement |
 
 </center></div></div>

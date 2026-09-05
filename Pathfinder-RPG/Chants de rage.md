@@ -7,8 +7,17 @@ LastModified: 2024-10-02 17:47
 {s:Menuclasseshybrides}<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Chants de rage et  
-niveau de scalde minimal</caption><tr CLASS="titre"><td>Chant de rage</td><td>Niveau minimum</td></tr><tr CLASS="premier"><td>[[Chants de rage#RAGEINSPIREE|Rage inspirée]]</td><td>1</td></tr><tr><td>[[Chants de rage#CHANTDEMARCHE|Chant de marche]]</td><td>3</td></tr><tr><td>[[Chants de rage#CHANTDEFORCE|Chant de force]]</td><td>6</td></tr><tr><td>[[Chants de rage#CHANTFUNESTE|Chant funeste]]</td><td>10</td></tr><tr><td>[[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]]</td><td>14</td></tr></table>
+<p class="tablo-caption">Chants de rage et  
+niveau de scalde minimal</p>
+
+{.tablo .centre .autoalt}
+| Chant de rage | Niveau minimum |
+| --- | --- |
+| [[Chants de rage#RAGEINSPIREE|Rage inspirée]] | 1 |
+| [[Chants de rage#CHANTDEMARCHE|Chant de marche]] | 3 |
+| [[Chants de rage#CHANTDEFORCE|Chant de force]] | 6 |
+| [[Chants de rage#CHANTFUNESTE|Chant funeste]] | 10 |
+| [[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]] | 14 |
 
 </div></div>{s:FAQ|***[[FAQ- Manuel des joueurs - Classes avancées#5|→]] Gestion de la colère : Si je suis en rage, en rage unchained, en rage sanguine ou sous toute autre forme de rage similaire, puis-je cumuler autant d'avantages que possible ?***
 

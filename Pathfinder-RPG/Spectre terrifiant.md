@@ -46,7 +46,22 @@ Categories:
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de gobelours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gobelours]]</td><td>2</td></tr><tr><td>[[Grincedent gobelours]]</td><td>4</td></tr><tr><td>[[Traqueur gobelours]]</td><td>5</td></tr><tr><td>[[Fanatique gobelours]]</td><td>7</td></tr><tr><td>[[Dévoreur gobelours]]</td><td>8</td></tr><tr><td>[[Rôdeur gobelours]]</td><td>8</td></tr><tr><td>[[Spectre terrifiant]]</td><td>8</td></tr><tr><td>[[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]]</td><td>10</td></tr><tr><td>[[Ombre discrète gobelours]]</td><td>10</td></tr><tr><td>[[Mage du sang gobelours]]</td><td>11</td></tr><tr><td>[[Tyran gobelours]]</td><td>13</td></tr></table>
+<p class="tablo-caption">Variantes de gobelours</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Gobelours]] | 2 |
+| [[Grincedent gobelours]] | 4 |
+| [[Traqueur gobelours]] | 5 |
+| [[Fanatique gobelours]] | 7 |
+| [[Dévoreur gobelours]] | 8 |
+| [[Rôdeur gobelours]] | 8 |
+| [[Spectre terrifiant]] | 8 |
+| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] | 10 |
+| [[Ombre discrète gobelours]] | 10 |
+| [[Mage du sang gobelours]] | 11 |
+| [[Tyran gobelours]] | 13 |
 
 </div>*La brume dessine une forme vaguement humanoïde elle a des traits indistincts, sauf au niveau de ses mains griffues et de son visage poilu à la gueule hérissée de crocs. *
 

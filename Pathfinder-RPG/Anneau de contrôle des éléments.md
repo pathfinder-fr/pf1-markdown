@@ -21,7 +21,13 @@ Le porteur de l’anneau peut dialoguer avec les créatures natives du plan avec
 Le possesseur d’un anneau de contrôle des éléments subit un malus à certains [[jet de sauvegarde|jets de sauvegarde]], comme indiqué ci-dessous :
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Élément</td><td>Malus au jet de sauvegarde</td></tr><tr CLASS="premier"><td>Air</td><td>-2 contre les effets magiques liés à la terre</td></tr><tr><td>Eau</td><td>-2 contre les effets magiques liés au feu</td></tr><tr><td>Feu</td><td>-2 contre les effets magiques liés à l’eau ou au froid</td></tr><tr><td>Terre</td><td>-2 contre les effets magiques liés à l’air ou à l’électricité</td></tr></table>
+{.tablo .centre .autoalt}
+| Élément | Malus au jet de sauvegarde |
+| --- | --- |
+| Air | -2 contre les effets magiques liés à la terre |
+| Eau | -2 contre les effets magiques liés au feu |
+| Feu | -2 contre les effets magiques liés à l’eau ou au froid |
+| Terre | -2 contre les effets magiques liés à l’air ou à l’électricité |
 
 
 En plus des propriétés détaillées ci-dessus, chaque anneau possède des pouvoirs dépendant de son type :

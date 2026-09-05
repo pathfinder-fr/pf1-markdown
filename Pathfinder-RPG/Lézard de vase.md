@@ -38,7 +38,13 @@ LastModified: 2023-02-20 15:49
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de lézard de vase</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Lézard de vase]]</td><td>1/4</td></tr><tr><td>[[Lézard de vase géant]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de lézard de vase</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Lézard de vase]] | 1/4 |
+| [[Lézard de vase géant]] | 2 |
 
 </div>*Les pattes antérieures de ce lézard bipède ressemblent à des mains. Sa peau est mouchetée de gris et de marron et une crête court du haut de son crâne au bout de sa queue.*
 

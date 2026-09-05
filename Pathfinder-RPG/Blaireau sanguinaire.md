@@ -37,7 +37,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de blaireau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Blaireau]]</td><td>1/2</td></tr><tr><td>[[Blaireau sanguinaire]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de blaireau</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Blaireau]] | 1/2 |
+| [[Blaireau sanguinaire]] | 2 |
 
 </div>*Ce blaireau gigantesque grogne et gratte le sol avec des griffes semblables à des pelles. On peut deviner les muscles épais qui se cachent sous sa fourrure zébrée et hirsute.*
 

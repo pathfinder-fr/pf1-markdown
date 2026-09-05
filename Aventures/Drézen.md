@@ -47,7 +47,31 @@ Aujourd'hui les fanatiques dévoué à Deskari et Baphomet contrôlent les ruine
 Les soldats et mercenaires constituent le reste des habitants et patrouillent régulièrement dans les rues et les faubourgs orientaux avant de faire leur rapport aux chefs du culte et à leurs maitre démoniaque.
 
 
-<table CLASS="tablo centre"><caption>Rencontres aux alentours de Drézen</caption><tr CLASS="titre"><td>d100</td><td>Rencontre</td><td>FP moyen</td></tr><tr CLASS="premier"><td>01-08</td><td>1d8 [[Pathfinder-RPG.Dretch|dretchs]]</td><td>6</td></tr><tr><td>07-13</td><td>2d6 [[Pathfinder-RPG.Goule|goules]]</td><td>6</td></tr><tr><td>14-20</td><td>1 [[Pathfinder-RPG.Minotaure demi-fiélon|minotaure demi-fiélon]]</td><td>6</td></tr><tr><td>21-24</td><td>1d4 [[Pathfinder-RPG.Ariès|ariès]]</td><td>6</td></tr><tr><td>25-27</td><td>1d6 [[Pathfinder-RPG.ombre|ombres]]</td><td>6</td></tr><tr><td>28-33</td><td>Bergers</td><td>7</td></tr><tr><td>34-40</td><td>1d4 [[Pathfinder-RPG.Brimorak|brimoraks]]</td><td>7</td></tr><tr><td>41-45</td><td>1d8 [[Pathfinder-RPG.asticot géant|asticots géants]]</td><td>7</td></tr><tr><td>46-50</td><td>1d4 [[Pathfinder-RPG.babau|babaus]]</td><td>8</td></tr><tr><td>51-55</td><td>Traqueur bodack</td><td>8</td></tr><tr><td>56-60</td><td>1d4 [[Pathfinder-RPG.âpresoif|âpresoifs]]</td><td>8</td></tr><tr><td>61-67</td><td>Maîtres des hurleurs</td><td>8</td></tr><tr><td>68-72</td><td>1d4 [[Pathfinder-RPG.nabasu|nabasus]]</td><td>8</td></tr><tr><td>73-77</td><td>Chevalier paladin</td><td>8</td></tr><tr><td>78-84</td><td>1 [[Pathfinder-RPG.Urannagal|urannagal]]</td><td>8</td></tr><tr><td>85-87</td><td>1 [[Pathfinder-RPG.kithangien|kithangien]]</td><td>9</td></tr><tr><td>88-91</td><td>1d4 [[Pathfinder-RPG.spectre|spectres]]</td><td>9</td></tr><tr><td>92-95</td><td>1d8 [[Pathfinder-RPG.Thoxel|thoxels]]</td><td>9</td></tr><tr><td>96-98</td><td>1 [[Pathfinder-RPG.nuée de tiques|nuée de tiques]]</td><td>9</td></tr><tr><td>99-100</td><td>1 [[Pathfinder-RPG.vrock|vrock]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Rencontres aux alentours de Drézen</p>
+
+{.tablo .centre}
+| d100 | Rencontre | FP moyen |
+| --- | --- | --- |
+| 01-08 | 1d8 [[Pathfinder-RPG.Dretch|dretchs]] | 6 |
+| 07-13 | 2d6 [[Pathfinder-RPG.Goule|goules]] | 6 |
+| 14-20 | 1 [[Pathfinder-RPG.Minotaure demi-fiélon|minotaure demi-fiélon]] | 6 |
+| 21-24 | 1d4 [[Pathfinder-RPG.Ariès|ariès]] | 6 |
+| 25-27 | 1d6 [[Pathfinder-RPG.ombre|ombres]] | 6 |
+| 28-33 | Bergers | 7 |
+| 34-40 | 1d4 [[Pathfinder-RPG.Brimorak|brimoraks]] | 7 |
+| 41-45 | 1d8 [[Pathfinder-RPG.asticot géant|asticots géants]] | 7 |
+| 46-50 | 1d4 [[Pathfinder-RPG.babau|babaus]] | 8 |
+| 51-55 | Traqueur bodack | 8 |
+| 56-60 | 1d4 [[Pathfinder-RPG.âpresoif|âpresoifs]] | 8 |
+| 61-67 | Maîtres des hurleurs | 8 |
+| 68-72 | 1d4 [[Pathfinder-RPG.nabasu|nabasus]] | 8 |
+| 73-77 | Chevalier paladin | 8 |
+| 78-84 | 1 [[Pathfinder-RPG.Urannagal|urannagal]] | 8 |
+| 85-87 | 1 [[Pathfinder-RPG.kithangien|kithangien]] | 9 |
+| 88-91 | 1d4 [[Pathfinder-RPG.spectre|spectres]] | 9 |
+| 92-95 | 1d8 [[Pathfinder-RPG.Thoxel|thoxels]] | 9 |
+| 96-98 | 1 [[Pathfinder-RPG.nuée de tiques|nuée de tiques]] | 9 |
+| 99-100 | 1 [[Pathfinder-RPG.vrock|vrock]] | 9 |
 
 
 - **Bergers (FP 7)** : [[Pathfinder-RPG.PNJ Garde frontalier|Jelra]], [[Pathfinder-RPG.PNJ Garde frontalier|Téoske]], [[Pathfinder-RPG.Auroch mangeur dhommes|2 aurochs mangeurs d'hommes]]

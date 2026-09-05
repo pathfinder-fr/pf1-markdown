@@ -42,7 +42,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'ombre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Ombre]]</td><td>3</td></tr><tr><td>[[Ombre supérieure]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes d'ombre</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Ombre]] | 3 |
+| [[Ombre supérieure]] | 8 |
 
 </div>''Cette ombre animée par une énergie maudite, aux mouvements difficiles
 à repérer, possède une silhouette vaguement humaine.''

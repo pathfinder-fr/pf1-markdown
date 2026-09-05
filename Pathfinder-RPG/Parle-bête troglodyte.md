@@ -44,7 +44,22 @@ les statistiques suivantes : **VD** 9 m ; **Compétences** Escalade +0.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de troglodyte</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troglodyte]]</td><td>1</td></tr><tr><td>[[Rôdeur troglodyte]]</td><td>2</td></tr><tr><td>[[Parle-bête troglodyte]]</td><td>3</td></tr><tr><td>[[Prêtre troglodyte]]</td><td>3</td></tr><tr><td>[[Ensorceleur troglodyte]]</td><td>4</td></tr><tr><td>[[Cavalier des écailles troglodyte]]</td><td>6</td></tr><tr><td>[[Slaugrak]]</td><td>6</td></tr><tr><td>[[Champion troglodyte]]</td><td>7</td></tr><tr><td>[[Chef de clan troglodyte]]</td><td>8</td></tr><tr><td>[[Garde du terrier troglodyte]]</td><td>9</td></tr><tr><td>[[Tyran troglodyte]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Variantes de troglodyte</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Troglodyte]] | 1 |
+| [[Rôdeur troglodyte]] | 2 |
+| [[Parle-bête troglodyte]] | 3 |
+| [[Prêtre troglodyte]] | 3 |
+| [[Ensorceleur troglodyte]] | 4 |
+| [[Cavalier des écailles troglodyte]] | 6 |
+| [[Slaugrak]] | 6 |
+| [[Champion troglodyte]] | 7 |
+| [[Chef de clan troglodyte]] | 8 |
+| [[Garde du terrier troglodyte]] | 9 |
+| [[Tyran troglodyte]] | 10 |
 
 </div> Les lanceurs de sorts divins troglodytes
 font office de conseillers spirituels pour

@@ -20,7 +20,19 @@ Libre à vous de placer vos bâtiments comme bon vous semble. Vous pouvez commen
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TAILLEETVALEURDEBASE}Taille et valeur de base d’une communaute</caption><tr CLASS="titre"><td>Population</td><td>Taille</td><td>Valeur de base</td></tr><tr CLASS="premier"><td>Moins de 21</td><td>lieu-dit</td><td>50 po</td></tr><tr><td>21-60</td><td>hameau</td><td>200 po</td></tr><tr><td>61-200</td><td>village</td><td>500 po</td></tr><tr><td>201-2 000</td><td>petite bourgade</td><td>1 000 po</td></tr><tr><td>2 001-5 000</td><td>grosse bourgade</td><td>2 000 po</td></tr><tr><td>5 001-10 000</td><td>petite ville</td><td>4 000 po</td></tr><tr><td>10 001-25 000</td><td>grande ville</td><td>8 000 po</td></tr><tr><td>Plus de 25 000</td><td>métropole</td><td>16 000 po</td></tr></table>
+<p class="tablo-caption">{s:Reference|TAILLEETVALEURDEBASE}Taille et valeur de base d’une communaute</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| Population | Taille | Valeur de base |
+| --- | --- | --- |
+| Moins de 21 | lieu-dit | 50 po |
+| 21-60 | hameau | 200 po |
+| 61-200 | village | 500 po |
+| 201-2 000 | petite bourgade | 1 000 po |
+| 2 001-5 000 | grosse bourgade | 2 000 po |
+| 5 001-10 000 | petite ville | 4 000 po |
+| 10 001-25 000 | grande ville | 8 000 po |
+| Plus de 25 000 | métropole | 16 000 po |
 
 </div></div>
 {s:Reference|CONSTRUCTION}**Construction.** La construction se déroule lors du tour où vous payez les [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] du bâtiment, quelle que soit sa taille. Les avantages liés à un bâtiment s’appliquent de suite. Si le [[MJ]] le souhaite, vous pouvez utiliser une magie de construction (comme une *[[lyre de bâtisseur]]*, un sort de *[[fabrication]]* ou un *[[mur de pierre]]*) pour réduire de 2 PC le prix d’un unique bâtiment (0 au minimum). C’est une réduction que vous ne pouvez utiliser qu’une fois par tour, quelles que soient les quantités de magie utilisées.

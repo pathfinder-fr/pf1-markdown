@@ -38,7 +38,14 @@ de monnaie, anneau, shuriken)</td><td>+4</td></tr><tr><td>Habits épais ou ample
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Qualité de la serrure</td><td>DD du test de Finesse</td></tr><tr CLASS="premier"><td>Simple</td><td>20</td></tr><tr><td>Moyenne</td><td>25</td></tr><tr><td>Bonne</td><td>30</td></tr><tr><td>Excellente</td><td>40</td></tr><tr><td>Pas d’[[Outils de cambrioleur (objet)|outils de cambrioleur]]</td><td>+10</td></tr></table>
+{.tablo .autoalt}
+| Qualité de la serrure | DD du test de Finesse |
+| --- | --- |
+| Simple | 20 |
+| Moyenne | 25 |
+| Bonne | 30 |
+| Excellente | 40 |
+| Pas d’[[Outils de cambrioleur (objet)|outils de cambrioleur]] | +10 |
 
 </center></div></div>Le [[DD]] pour crocheter une serrure dépend de la qualité de celle-ci.
 

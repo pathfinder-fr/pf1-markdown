@@ -16,7 +16,15 @@ Categories:
 
 </td><td width="28%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Type de parchemin</caption><tr CLASS="titre"><td>D100</td><td>Type de parchemin</td></tr><tr CLASS="premier"><td>01-45</td><td>parchemin profane commun</td></tr><tr><td>46-60</td><td>parchemin profane hors du commun</td></tr><tr><td>61-90</td><td>parchemin divin commun</td></tr><tr><td>91-100</td><td>parchemin divin hors du commun</td></tr></table>
+<p class="tablo-caption">Type de parchemin</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Type de parchemin |
+| --- | --- |
+| 01-45 | parchemin profane commun |
+| 46-60 | parchemin profane hors du commun |
+| 61-90 | parchemin divin commun |
+| 91-100 | parchemin divin hors du commun |
 
 </td></tr></table>
 
@@ -86,7 +94,32 @@ Categories:
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Parchemins de niveau 4</caption><tr CLASS="titre"><td>D100</td><td>Parchemin commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-04</td><td>*[[marche dans les airs]]*</td><td>700</td></tr><tr><td>05-07</td><td>*[[marteau du Chaos]]*</td><td>700</td></tr><tr><td>08-15</td><td>*[[soins intensifs]]*</td><td>700</td></tr><tr><td>16-19</td><td>*[[protection contre la mort]]*</td><td>700</td></tr><tr><td>20-22</td><td>*[[ancre dimensionnelle]]*</td><td>700</td></tr><tr><td>23-25</td><td>*[[détection du mensonge]]*</td><td>700</td></tr><tr><td>26-28</td><td>*[[renvoi]]*</td><td>700</td></tr><tr><td>29-33</td><td>*[[puissance divine]]*</td><td>700</td></tr><tr><td>34-39</td><td>*[[colonne de feu]]*</td><td>700</td></tr><tr><td>40-43</td><td>*[[liberté de mouvement]]*</td><td>700</td></tr><tr><td>44-46</td><td>*[[châtiment sacré]]*</td><td>700</td></tr><tr><td>47-51</td><td>*[[blessure critique]]*</td><td>700</td></tr><tr><td>52-56</td><td>*[[arme magique suprême]]*</td><td>700</td></tr><tr><td>57-61</td><td>*[[neutralisation du poison]]*</td><td>700</td></tr><tr><td>62-64</td><td>*[[courroux de lordre|courroux de l’ordre]]*</td><td>700</td></tr><tr><td>65-68</td><td>*[[empoisonnement]]*</td><td>700</td></tr><tr><td>69-73</td><td>*[[immunité contre les sorts]]*</td><td>700</td></tr><tr><td>74-77</td><td>*[[pierres acérées]]*</td><td>700</td></tr><tr><td>78-80</td><td>*[[convocation de monstres IV]]*</td><td>700</td></tr><tr><td>81-83</td><td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*</td><td>700</td></tr><tr><td>84-86</td><td>*[[don des langues]]*</td><td>700</td></tr></table>
+<p class="tablo-caption">Parchemins de niveau 4</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Parchemin commun | Prix(po) |
+| --- | --- | --- |
+| 01-04 | *[[marche dans les airs]]* | 700 |
+| 05-07 | *[[marteau du Chaos]]* | 700 |
+| 08-15 | *[[soins intensifs]]* | 700 |
+| 16-19 | *[[protection contre la mort]]* | 700 |
+| 20-22 | *[[ancre dimensionnelle]]* | 700 |
+| 23-25 | *[[détection du mensonge]]* | 700 |
+| 26-28 | *[[renvoi]]* | 700 |
+| 29-33 | *[[puissance divine]]* | 700 |
+| 34-39 | *[[colonne de feu]]* | 700 |
+| 40-43 | *[[liberté de mouvement]]* | 700 |
+| 44-46 | *[[châtiment sacré]]* | 700 |
+| 47-51 | *[[blessure critique]]* | 700 |
+| 52-56 | *[[arme magique suprême]]* | 700 |
+| 57-61 | *[[neutralisation du poison]]* | 700 |
+| 62-64 | *[[courroux de lordre|courroux de l’ordre]]* | 700 |
+| 65-68 | *[[empoisonnement]]* | 700 |
+| 69-73 | *[[immunité contre les sorts]]* | 700 |
+| 74-77 | *[[pierres acérées]]* | 700 |
+| 78-80 | *[[convocation de monstres IV]]* | 700 |
+| 81-83 | *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* | 700 |
+| 84-86 | *[[don des langues]]* | 700 |
 
 </td><td width="50%">
 

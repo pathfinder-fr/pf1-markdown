@@ -68,7 +68,28 @@ cumulent avec aucun autre point de vie temporaire.</td></tr></table>
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><caption>{s:Reference|PICDEMAGIESAUVAGE}Pic de magie sauvage</caption><tr CLASS="titre"><td>d100</td><td>Effet de pic</td></tr><tr CLASS="premier"><td>01-02</td><td>Le lanceur de sorts subit 1d6 points de dégâts par niveau du sort lancé.</td></tr><tr><td>03-04</td><td>Le lanceur de sorts est affecté par un sort de *[[lenteur]]* pendant 5 [[round|rounds]].</td></tr><tr><td>05</td><td>Le sort prend effet en un point aléatoire de sa zone de portée.</td></tr><tr><td>06</td><td>Le lanceur de sorts est [[confus]] pendant 1 [[round]] (comme avec une *[[confusion]]*).</td></tr><tr><td>07</td><td>Le lanceur de sorts subit 1 point de saignement en [[Constitution]].</td></tr><tr><td>08</td><td>Le lanceur de sorts subit 1 point de saignement dans la caractéristique associée à son aptitude d’incantation (déterminez cette caractéristique aléatoirement si la créature n’est pas un lanceur de sorts).</td></tr><tr><td>09-10</td><td>Le lanceur de sorts est hébété pendant 1 round (comme avec un *[[hébétement de monstre]]*)</td></tr><tr><td>11-12</td><td>Le sort inflige 1,5 fois les dégâts normaux.</td></tr><tr><td>13</td><td>Le lanceur de sorts subit 1d4 points de dégâts de saignement.</td></tr><tr><td>14</td><td>Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[[sommeil]]*).</td></tr><tr><td>15-16</td><td>Pendant 1 minute, le lanceur de sorts ne peut plus incanter ni se concentrer sur des sorts.</td></tr><tr><td>17</td><td>Le lanceur de sorts est affecté par un *[[rapetissement]]* pendant 1 [[round]].</td></tr><tr><td>18-19</td><td>Le lanceur de sorts est [[fiévreux]] pendant 5 [[round|rounds]].</td></tr><tr><td>20</td><td>Une *[[zone de vérité]]* apparaît, centrée sur le lanceur de sorts.</td></tr><tr><td>21-29</td><td>Le lanceur de sorts est affecté comme s’il était la cible de son sort.</td></tr><tr><td>30-32</td><td>Toutes les cibles du sort sont affectées par une *[[restauration partielle]]*.</td></tr><tr><td>33-38</td><td>Toutes les cibles du sort sont soignées de 1d8+1 points de dégâts. Il s’agit d’un effet d’énergie positive.</td></tr></table>
+<p class="tablo-caption">{s:Reference|PICDEMAGIESAUVAGE}Pic de magie sauvage</p>
+
+{.tablo .centre .autoalt .toutgauche style="width:96%"}
+| d100 | Effet de pic |
+| --- | --- |
+| 01-02 | Le lanceur de sorts subit 1d6 points de dégâts par niveau du sort lancé. |
+| 03-04 | Le lanceur de sorts est affecté par un sort de *[[lenteur]]* pendant 5 [[round|rounds]]. |
+| 05 | Le sort prend effet en un point aléatoire de sa zone de portée. |
+| 06 | Le lanceur de sorts est [[confus]] pendant 1 [[round]] (comme avec une *[[confusion]]*). |
+| 07 | Le lanceur de sorts subit 1 point de saignement en [[Constitution]]. |
+| 08 | Le lanceur de sorts subit 1 point de saignement dans la caractéristique associée à son aptitude d’incantation (déterminez cette caractéristique aléatoirement si la créature n’est pas un lanceur de sorts). |
+| 09-10 | Le lanceur de sorts est hébété pendant 1 round (comme avec un *[[hébétement de monstre]]*) |
+| 11-12 | Le sort inflige 1,5 fois les dégâts normaux. |
+| 13 | Le lanceur de sorts subit 1d4 points de dégâts de saignement. |
+| 14 | Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[[sommeil]]*). |
+| 15-16 | Pendant 1 minute, le lanceur de sorts ne peut plus incanter ni se concentrer sur des sorts. |
+| 17 | Le lanceur de sorts est affecté par un *[[rapetissement]]* pendant 1 [[round]]. |
+| 18-19 | Le lanceur de sorts est [[fiévreux]] pendant 5 [[round|rounds]]. |
+| 20 | Une *[[zone de vérité]]* apparaît, centrée sur le lanceur de sorts. |
+| 21-29 | Le lanceur de sorts est affecté comme s’il était la cible de son sort. |
+| 30-32 | Toutes les cibles du sort sont affectées par une *[[restauration partielle]]*. |
+| 33-38 | Toutes les cibles du sort sont soignées de 1d8+1 points de dégâts. Il s’agit d’un effet d’énergie positive. |
 
 </td><td width="50%">
 
@@ -117,4 +138,18 @@ Les sorts sont soumis à un risque d’échec automatique, tout comme n’import
 **Avec les jets d’attaque magique.** Quand vous utilisez la variante du jet d’attaque magique, un échec critique peut survenir si vous faites un 1 naturel au jet d’attaque. Effectuez un second jet d’attaque : s’il est à nouveau raté, le sort est un échec critique.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Échecs critiques magiques</caption><tr CLASS="titre"><td>d10</td><td>Résultat de l’échec critique</td></tr><tr CLASS="premier"><td>1</td><td>Un pic d’énergie magique incontrôlée inflige 1d6 points de dégâts par niveau de sort au lanceur de sorts.</td></tr><tr><td>2</td><td>Le sort frappe le lanceur de sorts ou l’un de ses alliés plutôt que la cible visée.</td></tr><tr><td>3</td><td>Le sort prend effet en un point aléatoire de sa zone de portée.</td></tr><tr><td>4</td><td>L’effet que le sort a sur la cible est contraire à l’effet normal.</td></tr><tr><td>5</td><td>Le lanceur de sorts souffre de quelque effet mineur bizarre en rapport avec le sort. La plupart de ces effets ne devraient pas durer plus longtemps que la durée originale du sort ou pas plus de 2d10 minutes pour les sorts spontanés.</td></tr><tr><td>6</td><td>Un ou plusieurs objets inoffensifs aléatoires apparaissent soudainement dans la zone d’effet du sort.</td></tr><tr><td>7</td><td>L’effet du sort est retardé, ne s’activant qu’à un moment donné au cours des 1d12 prochaines heures. Le sort est lancé dans la direction générale de la cible originale, jusqu’à sa portée maximale si la cible s’est déplacée.</td></tr><tr><td>8</td><td>Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [[round]].</td></tr><tr><td>9</td><td>Le lanceur de sorts est [[hébété]] pendant 1 [[round]].</td></tr><tr><td>10</td><td>Le lanceur de sorts subit un [[affaiblissement temporaire]] de 1 point de [[Constitution]].</td></tr></table>
+<p class="tablo-caption">Échecs critiques magiques</p>
+
+{.tablo .centre .autoalt .toutgauche}
+| d10 | Résultat de l’échec critique |
+| --- | --- |
+| 1 | Un pic d’énergie magique incontrôlée inflige 1d6 points de dégâts par niveau de sort au lanceur de sorts. |
+| 2 | Le sort frappe le lanceur de sorts ou l’un de ses alliés plutôt que la cible visée. |
+| 3 | Le sort prend effet en un point aléatoire de sa zone de portée. |
+| 4 | L’effet que le sort a sur la cible est contraire à l’effet normal. |
+| 5 | Le lanceur de sorts souffre de quelque effet mineur bizarre en rapport avec le sort. La plupart de ces effets ne devraient pas durer plus longtemps que la durée originale du sort ou pas plus de 2d10 minutes pour les sorts spontanés. |
+| 6 | Un ou plusieurs objets inoffensifs aléatoires apparaissent soudainement dans la zone d’effet du sort. |
+| 7 | L’effet du sort est retardé, ne s’activant qu’à un moment donné au cours des 1d12 prochaines heures. Le sort est lancé dans la direction générale de la cible originale, jusqu’à sa portée maximale si la cible s’est déplacée. |
+| 8 | Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [[round]]. |
+| 9 | Le lanceur de sorts est [[hébété]] pendant 1 [[round]]. |
+| 10 | Le lanceur de sorts subit un [[affaiblissement temporaire]] de 1 point de [[Constitution]]. |

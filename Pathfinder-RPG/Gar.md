@@ -37,7 +37,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de gar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gar]]</td><td>1</td></tr><tr><td>[[Gar géant]]</td><td>6</td></tr></table>
+<p class="tablo-caption">Variantes de gar</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Gar]] | 1 |
+| [[Gar géant]] | 6 |
 
 </div>*Ce long poisson élancé possède un corps musclé et des mâchoires garnies de dents acérées.*
 

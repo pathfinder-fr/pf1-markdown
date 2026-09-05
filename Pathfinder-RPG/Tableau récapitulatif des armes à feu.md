@@ -26,4 +26,19 @@ Voir les [[Armes à feu|règles relatives aux armes à feu]].''
 {s:Reference|TABMUNITIONS}
 ### Les munitions d'arme à feu
 
-<table CLASS="tablo centre autoalt"><caption>Les munitions d'arme à feu</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Descriptions individuelles des armes à feu#Balle darme à feu|↓]] [[Balle darme à feu (arme)|Balle d'arme à feu (1)]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Balle grêlée|↓]] [[Balle grêlée (arme)|Balle grêlée]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (enchevêtrement)]]</td><td>40 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (flamboyante)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (papier, balle ou bille de plomb)]]</td><td>12 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (sel)]]</td><td>12 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (souffle de dragon)]]</td><td>40 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Cartouche en métal|↓]] [[Cartouche en métal (arme)|Cartouche en métal]]</td><td>15 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Plombs|↓]] [[Plombs (arme)|Plombs (poignée)]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Poudre noire|↓]] [[Poudre noire (arme)|Poudre noire (baril)]]</td><td>1.000 po</td><td>2,5 kg</td></tr><tr><td>[[Descriptions individuelles des armes à feu#Poudre noire|↓]] [[Poudre noire (arme)|Poudre noire (dose)]]</td><td>10 po</td><td>—</td></tr></table>
+<p class="tablo-caption">Les munitions d'arme à feu</p>
+
+{.tablo .centre .autoalt}
+| Objet | Prix | Poids |
+| --- | --- | --- |
+| [[Descriptions individuelles des armes à feu#Balle darme à feu|↓]] [[Balle darme à feu (arme)|Balle d'arme à feu (1)]] | 1 po | — |
+| [[Descriptions individuelles des armes à feu#Balle grêlée|↓]] [[Balle grêlée (arme)|Balle grêlée]] | 5 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (enchevêtrement)]] | 40 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (flamboyante)]] | 10 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (papier, balle ou bille de plomb)]] | 12 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (sel)]] | 12 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche alchimique|↓]] [[Cartouche alchimique (arme)|Cartouche alchimique (souffle de dragon)]] | 40 po | — |
+| [[Descriptions individuelles des armes à feu#Cartouche en métal|↓]] [[Cartouche en métal (arme)|Cartouche en métal]] | 15 po | — |
+| [[Descriptions individuelles des armes à feu#Plombs|↓]] [[Plombs (arme)|Plombs (poignée)]] | 1 po | — |
+| [[Descriptions individuelles des armes à feu#Poudre noire|↓]] [[Poudre noire (arme)|Poudre noire (baril)]] | 1.000 po | 2,5 kg |
+| [[Descriptions individuelles des armes à feu#Poudre noire|↓]] [[Poudre noire (arme)|Poudre noire (dose)]] | 10 po | — |

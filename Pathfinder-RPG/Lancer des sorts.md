@@ -67,7 +67,23 @@ Quand un personnage se trouve sur un cheval lancé au galop, à bord d’un char
 Si le personnage est la cible d’un sort alors que lui-même tente d’en lancer un, il doit réussir un [[lancer des sorts#TESTCONCENTRATION|test de Concentration]] afin de terminer son incantation. Si le sort qui l’agresse lui inflige des dégâts, le [[DD]] passe à 10 + points de dégâts subis + niveau du sort qu’il tente de jeter. Si le sort adverse sert juste à le distraire, le [[DD]] est égal au [[DD]] du jet de sauvegarde du sort de l’agresseur + le niveau du sort que le personnage essaie de lancer. Pour les sorts n’autorisant pas de jet de sauvegarde, on prend en compte le [[DD]] que son jet de sauvegarde devrait avoir s’il en permettait un (10 + niveau du sort + valeur de caractéristique du lanceur de sorts).
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEDDTESTSCONCENTRATION}DD des tests de concentration</caption><tr CLASS="titre"><td>Situation</td><td>DD du test de concentration</td></tr><tr CLASS="premier"><td>[[lancer des sorts#INCANTATIONSURLADEFENSIVE|Incantation sur la défensive]]</td><td>15 + niveau du sort x2</td></tr><tr><td>[[lancer des sorts#BLESSURE|Blessé pendant l’incantation]]</td><td>10 + dégâts reçus + niveau du sort</td></tr><tr><td>[[lancer des sorts#BLESSURE|Dégâts continus pendant l’incantation]]</td><td>10 + 1/2 dégâts reçus + niveau du sort</td></tr><tr><td>[[lancer des sorts#SORT|Affecté par un sort qui ne blesse pas pendant l’incantation]]</td><td>DD du sort + niveau du sort</td></tr><tr><td>[[lancer des sorts#LUTTEETIMMOBILISATION|Agrippé ou immobilisé pendant l’incantation]]</td><td>10 + BMO de l’adversaire + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTVIOLENT|Mouvement violent pendant l’incantation]]</td><td>10 + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement très violent pendant l’incantation]]</td><td>15 + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement extrêmement violent pendant l’incantation]]</td><td>20 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Vent et pluie ou neige fondue pendant l’incantation]]</td><td>5 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Vent et grêle ou débris pendant l’incantation]]</td><td>10 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Intempérie causée par un sort]]</td><td>voir le sort</td></tr><tr><td>[[lancer des sorts#ENCHEVETREMENT|Enchevêtré pendant l’incantation]]</td><td>15 + niveau du sort</td></tr></table>
+<p class="tablo-caption">{s:Reference|TABLEDDTESTSCONCENTRATION}DD des tests de concentration</p>
+
+{.tablo .centre .autoalt}
+| Situation | DD du test de concentration |
+| --- | --- |
+| [[lancer des sorts#INCANTATIONSURLADEFENSIVE|Incantation sur la défensive]] | 15 + niveau du sort x2 |
+| [[lancer des sorts#BLESSURE|Blessé pendant l’incantation]] | 10 + dégâts reçus + niveau du sort |
+| [[lancer des sorts#BLESSURE|Dégâts continus pendant l’incantation]] | 10 + 1/2 dégâts reçus + niveau du sort |
+| [[lancer des sorts#SORT|Affecté par un sort qui ne blesse pas pendant l’incantation]] | DD du sort + niveau du sort |
+| [[lancer des sorts#LUTTEETIMMOBILISATION|Agrippé ou immobilisé pendant l’incantation]] | 10 + BMO de l’adversaire + niveau du sort |
+| [[lancer des sorts#MOUVEMENTVIOLENT|Mouvement violent pendant l’incantation]] | 10 + niveau du sort |
+| [[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement très violent pendant l’incantation]] | 15 + niveau du sort |
+| [[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement extrêmement violent pendant l’incantation]] | 20 + niveau du sort |
+| [[lancer des sorts#INTEMPERIES|Vent et pluie ou neige fondue pendant l’incantation]] | 5 + niveau du sort |
+| [[lancer des sorts#INTEMPERIES|Vent et grêle ou débris pendant l’incantation]] | 10 + niveau du sort |
+| [[lancer des sorts#INTEMPERIES|Intempérie causée par un sort]] | voir le sort |
+| [[lancer des sorts#ENCHEVETREMENT|Enchevêtré pendant l’incantation]] | 15 + niveau du sort |
 
 
 {s:Reference|CONTRESORT}

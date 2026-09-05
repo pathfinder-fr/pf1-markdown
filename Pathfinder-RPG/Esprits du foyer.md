@@ -9,7 +9,14 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux esprits du foyer</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Domovoï]]</td><td>3</td></tr><tr><td>[[Dvorovoï]]</td><td>4</td></tr><tr><td>[[Ovinnik]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Les principaux esprits du foyer</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Domovoï]] | 3 |
+| [[Dvorovoï]] | 4 |
+| [[Ovinnik]] | 2 |
 
 </div></div><div class="description">**Source :** Bestiaire 5, p.116.</div>
 *Types/Sous-types associés : [[type Fée|Fée]]*

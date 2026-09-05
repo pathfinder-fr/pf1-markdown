@@ -34,7 +34,16 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon bleu</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon bleu]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon bleu adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon bleu vénérable]]</td><td>&nbsp;</td><td>18</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]]</td><td>17</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de dragon bleu</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon bleu]] | &nbsp; | 9 |
+| [[Dragon bleu adulte]] | &nbsp; | 13 |
+| [[Dragon bleu vénérable]] | &nbsp; | 18 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]] | 17 | 7 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Ce grand dragon serpentin, dont les écailles ont la couleur du ciel du désert, se déplace avec une grâce inquiétante.*
 

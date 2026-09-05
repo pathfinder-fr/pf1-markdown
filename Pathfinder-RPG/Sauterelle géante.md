@@ -39,7 +39,13 @@ LastModified: 2020-09-21 18:12
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de sauterelle</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de sauterelles]]</td><td>2</td></tr><tr><td>[[Sauterelle géante]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de sauterelle</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Nuée de sauterelles]] | 2 |
+| [[Sauterelle géante]] | 3 |
 
 </div>*En quête de nourriture, cette énorme sauterelle creuse à l’aide de ses mandibules qui produisent une sorte de crissement.*
 

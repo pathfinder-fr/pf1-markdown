@@ -43,7 +43,18 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes de scorpion</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Scorpion dard-vert]] | 1/4 |
+| [[Scorpion des cavernes]] | 1 |
+| [[Scorpion empereur géant]] | 11 |
+| [[Scorpion fantomatique]] | 1/2 |
+| [[Scorpion géant]] | 3 |
+| [[Scorpion noir]] | 15 |
+| [[Scorpion piégeur]] | 8 |
 
 </div>*Ce scorpion de 5 m agite ses dangereuses pinces en signe de défi. Sa queue et son dard forment une arche au-dessus de son dos.*
 

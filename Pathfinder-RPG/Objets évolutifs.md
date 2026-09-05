@@ -31,7 +31,31 @@ Beaucoup d’objets évolutifs débloquent de nouveaux pouvoirs jusqu’au nivea
 Si un [[PJ]] reçoit un objet évolutif dont le [[NLS|niveau de lanceur de sorts]] est inférieur à son niveau de personnage, il reçoit en réalité un objet dont la valeur est supérieure au prix indiqué dans le profil de l’objet. Consultez la table "[[Objets évolutifs#VALEURDESOBJETSEVOLUTIFS|Valeur des objets évolutifs]]" et utilisez le niveau du PJ pour estimer la valeur réelle de son objet : c’est ce prix d’achat qui détermine sa véritable valeur. Donner un objet dont le niveau de lanceur de sorts est supérieur au niveau du personnage ne pose pas les mêmes problèmes car l’objet ne débloquera pas ses pouvoirs supérieurs avant un certain temps. Ne réduisez pas le trésor pour ce genre d’objet tant que le niveau du PJ ne dépasse pas le niveau de lanceur de sorts de l’objet.
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|VALEURDESOBJETSEVOLUTIFS}Valeur des objets évolutifs</caption><tr CLASS="titre"><td>Niveau</td><td>Babiole (5%)</td><td>Trophée (15%)</td><td>Merveille (30%)</td></tr><tr CLASS="premier"><td>1</td><td>15 po</td><td>45 po</td><td>90 po</td></tr><tr><td>2</td><td>50 po</td><td>150 po</td><td>300 po</td></tr><tr><td>3</td><td>150 po</td><td>450 po</td><td>900 po</td></tr><tr><td>4</td><td>300 po</td><td>900 po</td><td>1 800 po</td></tr><tr><td>5</td><td>525 po</td><td>1 575 po</td><td>3 150 po</td></tr><tr><td>6</td><td>800 po</td><td>2 400 po</td><td>4 800 po</td></tr><tr><td>7</td><td>1 175 po</td><td>3 525 po</td><td>7 050 po</td></tr><tr><td>8</td><td>1 650 po</td><td>4 950 po</td><td>9 900 po</td></tr><tr><td>9</td><td>2 300 po</td><td>6 900 po</td><td>13 800 po</td></tr><tr><td>10</td><td>3 100 po</td><td>9 300 po</td><td>18 600 po</td></tr><tr><td>11</td><td>4 100 po</td><td>12 300 po</td><td>24 600 po</td></tr><tr><td>12</td><td>5 400 po</td><td>16 200 po</td><td>32 400 po</td></tr><tr><td>13</td><td>7 000 po</td><td>21 000 po</td><td>42 000 po</td></tr><tr><td>14</td><td>9 250 po</td><td>27 750 po</td><td>55 500 po</td></tr><tr><td>15</td><td>12 000 po</td><td>36 000 po</td><td>72 000 po</td></tr><tr><td>16</td><td>15 750 po</td><td>47 250 po</td><td>94 500 po</td></tr><tr><td>17</td><td>20 500 po</td><td>61 500 po</td><td>129 000 po</td></tr><tr><td>18</td><td>26 500 po</td><td>79 500 po</td><td>159 000 po</td></tr><tr><td>19</td><td>34 250 po</td><td>102 750 po</td><td>205 500 po</td></tr><tr><td>20</td><td>44 000 po</td><td>132 000 po</td><td>264 000 po</td></tr></table>
+<p class="tablo-caption">{s:Reference|VALEURDESOBJETSEVOLUTIFS}Valeur des objets évolutifs</p>
+
+{.tablo .centre .autoalt}
+| Niveau | Babiole (5%) | Trophée (15%) | Merveille (30%) |
+| --- | --- | --- | --- |
+| 1 | 15 po | 45 po | 90 po |
+| 2 | 50 po | 150 po | 300 po |
+| 3 | 150 po | 450 po | 900 po |
+| 4 | 300 po | 900 po | 1 800 po |
+| 5 | 525 po | 1 575 po | 3 150 po |
+| 6 | 800 po | 2 400 po | 4 800 po |
+| 7 | 1 175 po | 3 525 po | 7 050 po |
+| 8 | 1 650 po | 4 950 po | 9 900 po |
+| 9 | 2 300 po | 6 900 po | 13 800 po |
+| 10 | 3 100 po | 9 300 po | 18 600 po |
+| 11 | 4 100 po | 12 300 po | 24 600 po |
+| 12 | 5 400 po | 16 200 po | 32 400 po |
+| 13 | 7 000 po | 21 000 po | 42 000 po |
+| 14 | 9 250 po | 27 750 po | 55 500 po |
+| 15 | 12 000 po | 36 000 po | 72 000 po |
+| 16 | 15 750 po | 47 250 po | 94 500 po |
+| 17 | 20 500 po | 61 500 po | 129 000 po |
+| 18 | 26 500 po | 79 500 po | 159 000 po |
+| 19 | 34 250 po | 102 750 po | 205 500 po |
+| 20 | 44 000 po | 132 000 po | 264 000 po |
 
 
 ### Achat et vente

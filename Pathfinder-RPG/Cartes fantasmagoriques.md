@@ -13,7 +13,43 @@ Categories:
 Ce jeu de cartes parcheminées est généralement rangé dans un étui en ivoire, en cuir ou en bois. Un jeu complet comprend trente-quatre cartes. Chaque fois qu’une carte est tirée au hasard et jetée au sol, une *[[image accomplie]]* se forme. Celle-ci représente la créature associée à la carte. L’[[illusion]] est incapable de s’éloigner de plus de neuf mètres de l’endroit où la carte a touché le sol, mais, cette restriction exceptée, elle se comporte comme une créature de chair et d’os, obéissant en tout point aux ordres de son créateur. Si l’[[illusion]] est dissipée, la carte s’efface et il est impossible de l’utiliser par la suite. Il suffit que quelqu’un ramasse la carte pour que l’*[[image accomplie]]* soit automatiquement et immédiatement dissipée. Les cartes et l’[[illusion]] que chacune fait apparaître sont résumées dans la table suivante (selon que vous vous servez d’un jeu de cartes à jouer ou d’un jeu de tarot divinatoire, référez-vous à la première ou à la deuxième colonne).
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"><td>As de cœur</td><td>IV. L’Empereur</td><td>[[Dragon rouge]]</td></tr><tr><td>Roi de cœur</td><td>Cavalier d’épées</td><td>[[Guerrier]] [[humain]] et quatre gardes</td></tr><tr><td>Dame de cœur</td><td>Reine de bâtons</td><td>[[magicien|Magicienne]] [[humain|humaine]]</td></tr><tr><td>Valet de cœur</td><td>Roi de bâtons</td><td>[[Druide]] [[humain]]</td></tr><tr><td>10 de cœur</td><td>VII. Le Chariot</td><td>[[Géant des nuages]]</td></tr><tr><td>9 de cœur</td><td>Valet de bâtons</td><td>[[Ettin]]</td></tr><tr><td>8 de cœur</td><td>As de coupes</td><td>[[Gobelours]]</td></tr><tr><td>7 de cœur</td><td>5 de bâtons</td><td>[[Gobelin]]</td></tr><tr><td>As de carreau</td><td>III. L’Impératrice</td><td>[[Glabrezu]] (démon)</td></tr><tr><td>Roi de carreau</td><td>2 de coupes</td><td>[[Magicien]] [[elfe]] et son apprentie</td></tr><tr><td>Dame de carreau</td><td>Reine d’épées</td><td>[[rôdeur|Rôdeuse]] [[demi-elfe]]</td></tr><tr><td>Valet de carreau</td><td>XIV. Tempérance</td><td>[[Harpie]]</td></tr><tr><td>10 de carreau</td><td>7 de bâtons</td><td>[[Barbare]] [[demi-orque]] (sexe masculin)</td></tr><tr><td>9 de carreau</td><td>4 de deniers</td><td>[[Ogre]] [[magicien|mage]]</td></tr><tr><td>8 de carreau</td><td>As de deniers</td><td>[[Gnoll]]</td></tr><tr><td>7 de carreau</td><td>6 de deniers</td><td>[[Kobold]]</td></tr><tr><td>As de pique</td><td>II. La Papesse</td><td>[[Liche]]</td></tr><tr><td>Roi de pique</td><td>3 de bâtons</td><td>Trois [[prêtre|prêtres]] [[humain|humains]]</td></tr><tr><td>Dame de pique</td><td>4 de coupes</td><td>[[Méduse]]</td></tr><tr><td>Valet de pique</td><td>Cavalier de deniers</td><td>[[Paladin]] [[nain]]</td></tr><tr><td>10 de pique</td><td>7 d’épées</td><td>[[Géant du froid|Géant du givre]]</td></tr><tr><td>9 de pique</td><td>3 d’épées</td><td>[[Troll]]</td></tr><tr><td>8 de pique</td><td>As d’épées</td><td>[[Hobgobelin]]</td></tr><tr><td>7 de pique</td><td>5 de coupes</td><td>[[Gobelin]]</td></tr><tr><td>As de trèfle</td><td>VIII. La Force</td><td>[[Golem de fer]]</td></tr><tr><td>Roi de trèfle</td><td>Valet de deniers</td><td>Rois [[roublard|roublards]] [[halfelin|halfelins]]</td></tr><tr><td>Dame de trèfle</td><td>10 de coupes</td><td>Quatre [[pixie|pixies]] (visibles)</td></tr><tr><td>Valet de trèfle</td><td>9 de deniers</td><td>[[Barde]] [[demi-elfe]] (sexe féminin)</td></tr><tr><td>10 de trèfle</td><td>9 de bâtons</td><td>[[Géant des collines]]</td></tr><tr><td>9 de trèfle</td><td>Roi d’épées</td><td>[[Ogre]]</td></tr><tr><td>8 de trèfle</td><td>As de bâtons</td><td>[[Orque]]</td></tr><tr><td>7 de trèfle</td><td>6 d’épées</td><td>[[Kobold]]</td></tr><tr><td>Joker noir</td><td>2 de deniers</td><td>[[Illusion]] du propriétaire des cartes</td></tr><tr><td>Joker rouge</td><td>2 de bâtons</td><td>[[Illusion]] du propriétaire des cartes (sexe inversé)</td></tr></table>
+{.tablo .centre .autoalt}
+| Carte à jouer | Tarots | Créature |
+| --- | --- | --- |
+| As de cœur | IV. L’Empereur | [[Dragon rouge]] |
+| Roi de cœur | Cavalier d’épées | [[Guerrier]] [[humain]] et quatre gardes |
+| Dame de cœur | Reine de bâtons | [[magicien|Magicienne]] [[humain|humaine]] |
+| Valet de cœur | Roi de bâtons | [[Druide]] [[humain]] |
+| 10 de cœur | VII. Le Chariot | [[Géant des nuages]] |
+| 9 de cœur | Valet de bâtons | [[Ettin]] |
+| 8 de cœur | As de coupes | [[Gobelours]] |
+| 7 de cœur | 5 de bâtons | [[Gobelin]] |
+| As de carreau | III. L’Impératrice | [[Glabrezu]] (démon) |
+| Roi de carreau | 2 de coupes | [[Magicien]] [[elfe]] et son apprentie |
+| Dame de carreau | Reine d’épées | [[rôdeur|Rôdeuse]] [[demi-elfe]] |
+| Valet de carreau | XIV. Tempérance | [[Harpie]] |
+| 10 de carreau | 7 de bâtons | [[Barbare]] [[demi-orque]] (sexe masculin) |
+| 9 de carreau | 4 de deniers | [[Ogre]] [[magicien|mage]] |
+| 8 de carreau | As de deniers | [[Gnoll]] |
+| 7 de carreau | 6 de deniers | [[Kobold]] |
+| As de pique | II. La Papesse | [[Liche]] |
+| Roi de pique | 3 de bâtons | Trois [[prêtre|prêtres]] [[humain|humains]] |
+| Dame de pique | 4 de coupes | [[Méduse]] |
+| Valet de pique | Cavalier de deniers | [[Paladin]] [[nain]] |
+| 10 de pique | 7 d’épées | [[Géant du froid|Géant du givre]] |
+| 9 de pique | 3 d’épées | [[Troll]] |
+| 8 de pique | As d’épées | [[Hobgobelin]] |
+| 7 de pique | 5 de coupes | [[Gobelin]] |
+| As de trèfle | VIII. La Force | [[Golem de fer]] |
+| Roi de trèfle | Valet de deniers | Rois [[roublard|roublards]] [[halfelin|halfelins]] |
+| Dame de trèfle | 10 de coupes | Quatre [[pixie|pixies]] (visibles) |
+| Valet de trèfle | 9 de deniers | [[Barde]] [[demi-elfe]] (sexe féminin) |
+| 10 de trèfle | 9 de bâtons | [[Géant des collines]] |
+| 9 de trèfle | Roi d’épées | [[Ogre]] |
+| 8 de trèfle | As de bâtons | [[Orque]] |
+| 7 de trèfle | 6 d’épées | [[Kobold]] |
+| Joker noir | 2 de deniers | [[Illusion]] du propriétaire des cartes |
+| Joker rouge | 2 de bâtons | [[Illusion]] du propriétaire des cartes (sexe inversé) |
 
 
 Il y a 10 % de chances pour qu’un jeu de cartes déterminé aléatoirement ait perdu 1d20 cartes (son prix est alors réduit en proportion). Sur un résultat de 11–100, il est complet.

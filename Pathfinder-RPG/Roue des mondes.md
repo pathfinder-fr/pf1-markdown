@@ -22,7 +22,19 @@ Dans une *roue des mondes* se cache un piège. Chaque fois qu'un porteur utilise
 Chaque créature qui utilise une *roue des mondes* possède son propre pourcentage de chance de dysfonctionnement diabolique, qui ne peut jamais être réduit. Si une créature atteint les 100% de chances d'ouvrir un portail vers un cercle des Enfers, une *roue des mondes* se déplace elle et son porteur sur un cercle des Enfers aléatoire à la prochaine utilisation.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>D10</td><td>Plan</td><td>Niveau de l'Enfer</td></tr><tr CLASS="premier"><td>1</td><td>Les Abysses</td><td>Avernus</td></tr><tr><td>2</td><td>Les Limbes</td><td>Dis</td></tr><tr><td>3</td><td>L'Utopie</td><td>Érébus</td></tr><tr><td>4</td><td>Le Nirvana</td><td>Phlégethon</td></tr><tr><td>5</td><td>L'Élysée</td><td>Stygie</td></tr><tr><td>6</td><td>Le Paradis</td><td>Malbolge</td></tr><tr><td>7</td><td>Le Purgatoire</td><td>Cocyte</td></tr><tr><td>8</td><td>Abaddon</td><td>Caina</td></tr><tr><td>9</td><td>Les Enfers</td><td>Nessus</td></tr><tr><td>10</td><td>Relancer</td><td>Relancer</td></tr></table>
+{.tablo .centre .autoalt style="width:100%"}
+| D10 | Plan | Niveau de l'Enfer |
+| --- | --- | --- |
+| 1 | Les Abysses | Avernus |
+| 2 | Les Limbes | Dis |
+| 3 | L'Utopie | Érébus |
+| 4 | Le Nirvana | Phlégethon |
+| 5 | L'Élysée | Stygie |
+| 6 | Le Paradis | Malbolge |
+| 7 | Le Purgatoire | Cocyte |
+| 8 | Abaddon | Caina |
+| 9 | Les Enfers | Nessus |
+| 10 | Relancer | Relancer |
 
 (((Destruction)))
 Chaque *roue des mondes* a codé dans son fonctionnement un "lieu d'anathème". Si la roue est utilisée pour ouvrir un portail à cet emplacement planaire spécifique, il ouvre à la place un portail au cœur des Limbes et est entraînée dans le vortex avec n'importe quelle créature qui traverse le portail. Cela détruit la *roue des mondes* et la créature qui l'a activée.

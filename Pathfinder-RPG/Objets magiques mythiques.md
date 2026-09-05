@@ -33,14 +33,38 @@ N’importe qui peut utiliser ces armures mais elles fonctionnent bien mieux qua
 Ces propriétés spéciales d’armes améliorent les créatures mythiques ou interagissent avec elles. Certaines dérobent du pouvoir mythique, d’autres bloquent son utilisation.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Propriété spéciale d'arme</td><td>Prix</td></tr><tr CLASS="premier"><td>[[sacro-sainte (propriété)|Sacro-sainte]]</td><td>+5 000 po</td></tr><tr><td>[[dispersion (propriété)|Dispersion]]</td><td>Bonus de +1</td></tr><tr><td>[[tueuse de mythiques (propriété)|Tueuse de mythiques]]</td><td>Bonus de +1</td></tr><tr><td>[[moissonnage (propriété)|Moissonnage]]</td><td>Bonus de +2</td></tr><tr><td>[[puissance (propriété)|Puissance]]</td><td>Bonus de +2</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Propriété spéciale d'arme | Prix |
+| --- | --- |
+| [[sacro-sainte (propriété)|Sacro-sainte]] | +5 000 po |
+| [[dispersion (propriété)|Dispersion]] | Bonus de +1 |
+| [[tueuse de mythiques (propriété)|Tueuse de mythiques]] | Bonus de +1 |
+| [[moissonnage (propriété)|Moissonnage]] | Bonus de +2 |
+| [[puissance (propriété)|Puissance]] | Bonus de +2 |
 
 
 #### Armes spéciales
 Ces armes majestueuses sont parfaitement adaptées aux créatures mythiques.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Arme magique spécifique</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Pic de clivage de la pierre]]</td><td>11 308 po</td></tr><tr><td>[[Lance de harponnage]]</td><td>19 502 po</td></tr><tr><td>[[Hache brutale]]</td><td>21 320 po</td></tr><tr><td>[[Dague aux mille morsures]]</td><td>24 502 po</td></tr><tr><td>[[Flamme de la déesse]]</td><td>33 315 po</td></tr><tr><td>[[Arc dÉrastil|Arc du Borgne]]</td><td>38 000 po</td></tr><tr><td>[[arme Marteau du chaos|Marteau du chaos]]</td><td>38 312 po</td></tr><tr><td>[[Arc de souffle draconique]]</td><td>50 375 po</td></tr><tr><td>[[Brise-sort]]</td><td>71 600 po</td></tr><tr><td>[[Pointe dombre|Pointe d'ombre]]</td><td>96 600 po</td></tr><tr><td>[[Pistolet sans nom]]</td><td>98 300 po</td></tr><tr><td>[[Foudroyeur]]</td><td>98 302 po</td></tr><tr><td>[[Doigt dombre|Doigt d’ombre]]</td><td>102 960 po</td></tr><tr><td>[[Épée du feu intérieur]]</td><td>151 315 po</td></tr><tr><td>[[Justicière sacrée]]</td><td>202 630 po</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Arme magique spécifique | Prix |
+| --- | --- |
+| [[Pic de clivage de la pierre]] | 11 308 po |
+| [[Lance de harponnage]] | 19 502 po |
+| [[Hache brutale]] | 21 320 po |
+| [[Dague aux mille morsures]] | 24 502 po |
+| [[Flamme de la déesse]] | 33 315 po |
+| [[Arc dÉrastil|Arc du Borgne]] | 38 000 po |
+| [[arme Marteau du chaos|Marteau du chaos]] | 38 312 po |
+| [[Arc de souffle draconique]] | 50 375 po |
+| [[Brise-sort]] | 71 600 po |
+| [[Pointe dombre|Pointe d'ombre]] | 96 600 po |
+| [[Pistolet sans nom]] | 98 300 po |
+| [[Foudroyeur]] | 98 302 po |
+| [[Doigt dombre|Doigt d’ombre]] | 102 960 po |
+| [[Épée du feu intérieur]] | 151 315 po |
+| [[Justicière sacrée]] | 202 630 po |
 
 
 #### Autres objets magiques

@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'éléphant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Éléphant]]</td><td>7</td></tr><tr><td>[[Mastodonte]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes d'éléphant</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Éléphant]] | 7 |
+| [[Mastodonte]] | 9 |
 
 </div>*Cet animal à la peau très épaisse arbore deux larges défenses d’ivoire de part et d’autre de sa longue trompe préhensile.*
 

@@ -40,7 +40,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de moustique</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Moustique géant]]</td><td>6</td></tr><tr><td>[[Nuée de moustiques]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de moustique</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Moustique géant]] | 6 |
+| [[Nuée de moustiques]] | 3 |
 
 </div>*Le bourdonnement et les mouvements erratiques de cette nuée de moustiques affamés promettent une rencontre des plus désagréables.*
 </div></td></tr></table>

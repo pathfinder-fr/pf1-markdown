@@ -11,7 +11,19 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Variantes de linnorm</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Linnorm de la taïga]]</td><td>19</td></tr><tr><td>[[Linnorm de roche]]</td><td>21</td></tr><tr><td>[[Linnorm des cairns]]</td><td>18</td></tr><tr><td>[[Linnorm des falaises]]</td><td>14</td></tr><tr><td>[[Linnorm des fjords]]</td><td>16</td></tr><tr><td>[[Linnorm des glaces]]</td><td>17</td></tr><tr><td>[[Linnorm des lacs]]</td><td>20</td></tr><tr><td>[[Linnorm des rivières]]</td><td>15</td></tr></table>
+<p class="tablo-caption">Variantes de linnorm</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Linnorm de la taïga]] | 19 |
+| [[Linnorm de roche]] | 21 |
+| [[Linnorm des cairns]] | 18 |
+| [[Linnorm des falaises]] | 14 |
+| [[Linnorm des fjords]] | 16 |
+| [[Linnorm des glaces]] | 17 |
+| [[Linnorm des lacs]] | 20 |
+| [[Linnorm des rivières]] | 15 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.170</div>
 *Types/Sous-types associés : [[type Dragon|Dragon]].*

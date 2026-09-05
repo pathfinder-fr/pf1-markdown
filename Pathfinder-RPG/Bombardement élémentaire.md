@@ -25,11 +25,26 @@ Le personnage doit choisir un type d’élémentaire à convoquer lorsqu’il la
 
 <table width="100%"><tr><td width="40%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr CLASS="titre"><td>Taille de l'élémentaire</td><td>Dégâts</td></tr><tr CLASS="premier"><td>M</td><td>6d6</td></tr><tr><td>G</td><td>8d6</td></tr><tr><td>TG ou plus grand</td><td>12d6</td></tr></table>
+{.tablo .centre .autoalt style="width:94%"}
+| Taille de l'élémentaire | Dégâts |
+| --- | --- |
+| M | 6d6 |
+| G | 8d6 |
+| TG ou plus grand | 12d6 |
 
 </td><td width="60%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr CLASS="titre"><td>Type de l'élémentaire</td><td>Type de dégâts</td></tr><tr CLASS="premier"><td>[[Élémentaire de lAir|Air]]</td><td>Moitié tranchant, moitié électricité</td></tr><tr><td>[[Élémentaire de la boue|Boue]]</td><td>Contondant et entrave*</td></tr><tr><td>[[Élémentaire de lEau|Eau]]</td><td>Contondant et [[Élémentaire de lEau|extinction des feux]]*</td></tr><tr><td>[[Élémentaire de léclair|Éclair]]</td><td>Électricité et [[Élémentaire de léclair|maîtrise du métal]]*</td></tr><tr><td>[[Élémentaire du Feu|Feu]]</td><td>Feu et [[Élémentaire du Feu|brûlure]]*</td></tr><tr><td>[[Élémentaire de la glace|Glace]]</td><td>Moitié contondant, moitié froid</td></tr><tr><td>[[Élémentaire du magma|Magma]]</td><td>Moitié contondant, moitié feu</td></tr><tr><td>[[Élémentaire de la Terre|Terre]]</td><td>Contondant et [[Élémentaire de la Terre|maîtrise de la terre]]*</td></tr></table>
+{.tablo .centre .autoalt style="width:94%"}
+| Type de l'élémentaire | Type de dégâts |
+| --- | --- |
+| [[Élémentaire de lAir|Air]] | Moitié tranchant, moitié électricité |
+| [[Élémentaire de la boue|Boue]] | Contondant et entrave* |
+| [[Élémentaire de lEau|Eau]] | Contondant et [[Élémentaire de lEau|extinction des feux]]* |
+| [[Élémentaire de léclair|Éclair]] | Électricité et [[Élémentaire de léclair|maîtrise du métal]]* |
+| [[Élémentaire du Feu|Feu]] | Feu et [[Élémentaire du Feu|brûlure]]* |
+| [[Élémentaire de la glace|Glace]] | Moitié contondant, moitié froid |
+| [[Élémentaire du magma|Magma]] | Moitié contondant, moitié feu |
+| [[Élémentaire de la Terre|Terre]] | Contondant et [[Élémentaire de la Terre|maîtrise de la terre]]* |
 
 </td></tr></table>
 

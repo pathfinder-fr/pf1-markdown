@@ -39,7 +39,15 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de grenouille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grenouille géante]]</td><td>1</td></tr><tr><td>[[Grenouille goliath]]</td><td>3</td></tr><tr><td>[[Grenouille venimeuse]]</td><td>1/2</td></tr><tr><td>[[Père grenouille]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de grenouille</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Grenouille géante]] | 1 |
+| [[Grenouille goliath]] | 3 |
+| [[Grenouille venimeuse]] | 1/2 |
+| [[Père grenouille]] | 5 |
 
 </div>''C’est une petite grenouille vert clair et rouge dont les pattes arrière sont
 garnies de bandes bleu électrique.''

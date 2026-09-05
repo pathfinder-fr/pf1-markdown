@@ -7,7 +7,20 @@ LastModified: 2021-07-15 17:32
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux seigneurs démons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Baphomet]]</td><td>27</td></tr><tr><td>[[Dagon]]</td><td>28</td></tr><tr><td>[[Deskari]]</td><td>29</td></tr><tr><td>[[Kostchtchie]]</td><td>26</td></tr><tr><td>[[Nocticula]]</td><td>30</td></tr><tr><td>[[Pazuzu]]</td><td>30</td></tr><tr><td>[[Shax]]</td><td>28</td></tr><tr><td>[[Sifkesh]]</td><td>28</td></tr><tr><td>[[Xoveron]]</td><td>27</td></tr></table>
+<p class="tablo-caption">Les principaux seigneurs démons</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Baphomet]] | 27 |
+| [[Dagon]] | 28 |
+| [[Deskari]] | 29 |
+| [[Kostchtchie]] | 26 |
+| [[Nocticula]] | 30 |
+| [[Pazuzu]] | 30 |
+| [[Shax]] | 28 |
+| [[Sifkesh]] | 28 |
+| [[Xoveron]] | 27 |
 
 </div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs démons (capacité)|traits des seigneurs démons]].***
 ***Voir la description des [[Démon|démons]].***</div><div class="description">**Source :** Bestiaire 4.</div>

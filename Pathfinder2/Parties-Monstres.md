@@ -62,14 +62,28 @@ Pour aider le MJ à déterminer la valeur totale des parties qu’il est possibl
 La première approche remplace le tableau des trésors par niveau qui se trouve dans le Livre de base, en fonction de la variante choisie. Les valeurs correspondant à des parties de monstres peuvent provenir des créatures vaincues directement ou de butin trouvé sur des adversaires défaits (comme des objets construits à partir de parties de monstres, qui peuvent être décomposés pour récupérer certaines de ces parties de monstres). Cette approche convient sans doute mieux à une vision globale de la construction d’aventures. Par exemple, voici les données pour le niveau 6.
 
 
-<table CLASS="tablo centre cadre autoalt toutgauche"><caption>Butin pour un groupe de niveau 6</caption><tr CLASS="titre"><td>&nbsp;</td><td>Livre de base</td><td>Système complet</td><td>Version légère</td><td>Variante hybride</td></tr><tr CLASS="premier"><td>**Valeur totale**</td><td>2000 po</td><td>2000 po</td><td>2000 po</td><td>2000 po</td></tr><tr><td>**Objets permanents**</td><td>7e×2, 6e×2</td><td>&nbsp;</td><td>7e×2, 6e×2</td><td>7e×1, 6e×1</td></tr><tr><td>**Consommables**</td><td>7e×2, 6e×2, 5e×2</td><td>&nbsp;</td><td>7e×2, 6e×2, 5e×2</td><td>7e×2, 6e×2, 5e×2</td></tr><tr><td>**Monnaie**</td><td>500 po</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>**Parties de monstres**</td><td>&nbsp;</td><td>2000 po</td><td>500 po</td><td>1110 po</td></tr></table>
+<p class="tablo-caption">Butin pour un groupe de niveau 6</p>
+
+{.tablo .centre .cadre .autoalt .toutgauche}
+| &nbsp; | Livre de base | Système complet | Version légère | Variante hybride |
+| --- | --- | --- | --- | --- |
+| **Valeur totale** | 2000 po | 2000 po | 2000 po | 2000 po |
+| **Objets permanents** | 7e×2, 6e×2 | &nbsp; | 7e×2, 6e×2 | 7e×1, 6e×1 |
+| **Consommables** | 7e×2, 6e×2, 5e×2 | &nbsp; | 7e×2, 6e×2, 5e×2 | 7e×2, 6e×2, 5e×2 |
+| **Monnaie** | 500 po | &nbsp; | &nbsp; | &nbsp; |
+| **Parties de monstres** | &nbsp; | 2000 po | 500 po | 1110 po |
 
 
 La seconde approche présente des quantités/valeurs de parties de monstres par monstre/ennemi rencontré, en se basant sur le fait qu’au fil des 1000 XP nécessaires pour gagner un niveau, approximativement 640 de ces XP proviennent de créatures qui peuvent être dépiécées. Cette version est sans doute plus pratique pour les MJ désirant convertir une aventure existante pour l’utiliser en conjonction avec le système des parties de monstres. Ici encore, le livre propose trois tableaux, en fonction de la variante choisie. Par exemple, pour une créature de niveau 6 :
 
 
 
-<table CLASS="tablo centre cadre autoalt toutgauche"><caption>Butin en parties de monstres pour une créature de niveau 6</caption><tr CLASS="titre"><td>Système complet</td><td>Version légère</td><td>Variante hybride</td></tr><tr CLASS="premier"><td>125 po</td><td>30 po</td><td>65 po</td></tr></table>
+<p class="tablo-caption">Butin en parties de monstres pour une créature de niveau 6</p>
+
+{.tablo .centre .cadre .autoalt .toutgauche}
+| Système complet | Version légère | Variante hybride |
+| --- | --- | --- |
+| 125 po | 30 po | 65 po |
 
 
 Le livre présente également des options pour récolter plus de parties de monstres en utilisant une activité similaire à Earn Income/Gagner de l’argent, ainsi qu’un don permettant d’utiliser les compétences de Connaissances liées aux créatures pour encore augmenter la récolte. Il aborde également le sujet du commerce des parties de monstres et la récolte d’éléments similaires à des parties de monstres à partir de hantises et de pièges.
@@ -86,7 +100,17 @@ On peut également utiliser les parties de monstres pour retravailler un objet, 
 Lorsqu’on investit des parties de monstres pour retravailler un objet, le niveau de ce dernier augmente quand certaines valeurs-seuils sont atteintes. Voici les valeurs correspondant aux premiers niveaux (le système propose des valeurs différentes pour les armes et armures d'une part, et pour les bouclier et objets améliorant la Perception ou une compétence d'autre part) :
 
 
-<table CLASS="tablo centre cadre autoalt toutgauche"><caption>Évolution en niveau d'un objet retravaillé</caption><tr CLASS="titre"><td>Niveau</td><td>Coût total (armes et armures)</td><td>Coût total (bouclier, objets améliorant la Perception ou une compétence)</td></tr><tr CLASS="premier"><td>1</td><td>20 po</td><td>10 po</td></tr><tr><td>2</td><td>35 po</td><td>20 po</td></tr><tr><td>3</td><td>60 po</td><td>35 po</td></tr><tr><td>4</td><td>100 po</td><td>60 po</td></tr><tr><td>5</td><td>160 po</td><td>100 po</td></tr><tr><td>6</td><td>250 po</td><td>160 po</td></tr></table>
+<p class="tablo-caption">Évolution en niveau d'un objet retravaillé</p>
+
+{.tablo .centre .cadre .autoalt .toutgauche}
+| Niveau | Coût total (armes et armures) | Coût total (bouclier, objets améliorant la Perception ou une compétence) |
+| --- | --- | --- |
+| 1 | 20 po | 10 po |
+| 2 | 35 po | 20 po |
+| 3 | 60 po | 35 po |
+| 4 | 100 po | 60 po |
+| 5 | 160 po | 100 po |
+| 6 | 250 po | 160 po |
 
 
 Lorsque le niveau de l’objet augmente, certaines de ses propriétés fondamentales augmentent (de manière semblable à se qui se passe avec des runes fondamentales dans le système standard). Certains seuils débloquent également le nombre de fois que l’objet peut être imprégné. L’évolution dépend du type d’objet ; voici par exemple une partie de celle qui concerne les armes.
@@ -128,7 +152,15 @@ Par exemple, voici une partie des progressions pour les 3 voies liées au feu :
 
 
 
-<table CLASS="tablo centre cadre autoalt toutgauche"><caption>Évolution de la propriété de feu</caption><tr CLASS="titre"><td>Niveau</td><td>Voie de la magie</td><td>Voie de la puissance</td><td>Voie de la technique</td></tr><tr CLASS="premier"><td>2</td><td>*flammes* à volonté, augmenté à la moitié du niveau de l'arme (arrondi supérieur)</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>4</td><td>*mains brûlantes* 1/jour</td><td>+1 point de dégât de feu</td><td>les Frappes infligent 1 point de dégât de feu persistant</td></tr><tr><td>6</td><td>*mains brûlantes* est augmenté au niveau 2</td><td>+ 1d4 points de dégâts de feu</td><td>+1 point de dégât de feu</td></tr><tr><td>8</td><td>*sphère enflammée* et *boucle de feu* 1/jour chacun, remplace *mains brûlantes*</td><td>+ 1d6 points de dégâts de feu ; en cas de critique, la Frappe inflige 1d10 points de dégâts de feu persistants</td><td>Les dégâts de feu persistants passent à 1d6 ; de plus, en cas de critique, on ajoute 1d10 points de dégâts de feu persistants</td></tr></table>
+<p class="tablo-caption">Évolution de la propriété de feu</p>
+
+{.tablo .centre .cadre .autoalt .toutgauche}
+| Niveau | Voie de la magie | Voie de la puissance | Voie de la technique |
+| --- | --- | --- | --- |
+| 2 | *flammes* à volonté, augmenté à la moitié du niveau de l'arme (arrondi supérieur) | &nbsp; | &nbsp; |
+| 4 | *mains brûlantes* 1/jour | +1 point de dégât de feu | les Frappes infligent 1 point de dégât de feu persistant |
+| 6 | *mains brûlantes* est augmenté au niveau 2 | + 1d4 points de dégâts de feu | +1 point de dégât de feu |
+| 8 | *sphère enflammée* et *boucle de feu* 1/jour chacun, remplace *mains brûlantes* | + 1d6 points de dégâts de feu ; en cas de critique, la Frappe inflige 1d10 points de dégâts de feu persistants | Les dégâts de feu persistants passent à 1d6 ; de plus, en cas de critique, on ajoute 1d10 points de dégâts de feu persistants |
 
 
 #### Suite de l'exemple du guerrier

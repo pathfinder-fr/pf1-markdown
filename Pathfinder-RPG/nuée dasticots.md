@@ -39,7 +39,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de parasite</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Asticot géant]]</td><td>3</td></tr><tr><td>[[Nuée dasticots|Nuée d'asticots]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de parasite</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Asticot géant]] | 3 |
+| [[Nuée dasticots|Nuée d'asticots]] | 7 |
 
 </div>*Ce tapis écoeurant d’asticots blancs se tortillent en tous sens, ondulant telle une vague blafarde et affamée.*
 </div></td></tr></table>

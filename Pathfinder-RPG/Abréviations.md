@@ -7,7 +7,62 @@ LastModified: 2019-02-20 18:49
 Voici une liste des abréviations courantes rencontrées dans les règles et/ou sur le forum.
 
 
-<table CLASS="tablo autoalt toutgauche"><caption>Liste d'abréviations courantes</caption><tr CLASS="titre"><td>Abréviation</td><td>Signification</td></tr><tr CLASS="premier"><td>AdJ</td><td>Aide de Jeu</td></tr><tr><td>AdN</td><td>Ajustement de Niveau<sup>1</sup></td></tr><tr><td>Al</td><td>Alignement</td></tr><tr><td>AO</td><td>Attaque d’Opportunité</td></tr><tr><td>APG</td><td>Advanced Player's Guide / Manuel du joueur, règles avancées</td></tr><tr><td>BBA</td><td>Bonus de Base à l'Attaque</td></tr><tr><td>BMC</td><td>Bonus de Manœuvre de Combat (= BMO)<sup>2</sup></td></tr><tr><td>BMO</td><td>Bonus de Manœuvre Offensive</td></tr><tr><td>CàC</td><td>Corps à Corps</td></tr><tr><td>CA</td><td>Classe d'Armure</td></tr><tr><td>DD</td><td>Degré de Difficulté, ou donjons et dragons</td></tr><tr><td>DMC</td><td>Degré de Manœuvre de Combat (= DMD)<sup>2</sup></td></tr><tr><td>DMD</td><td>Degré de Manœuvre Défensive</td></tr><tr><td>DV</td><td>Dé de Vie</td></tr><tr><td>EXP</td><td>cf PX</td></tr><tr><td>Ext</td><td>Pouvoir/Capacité Extraordinaire</td></tr><tr><td>F</td><td>Focaliseur, une sorte d’accessoire pour les sorts</td></tr><tr><td>FD</td><td>Focaliseur Divin, un objet lourd de signification religieuse</td></tr><tr><td>FP</td><td>Facteur de Puissance, concerne les monstres</td></tr><tr><td>G</td><td>Gestuelle (composante de sort)</td></tr><tr><td>JDR</td><td>Jeu De Rôle</td></tr><tr><td>JdS</td><td>Jets de Sauvegarde</td></tr><tr><td>JSL</td><td>Jet Sans Limite<sup>3</sup></td></tr><tr><td>Lvl</td><td>Level, soit niveau en français</td></tr><tr><td>Mag</td><td>Pouvoir/Capacité Magique</td></tr><tr><td>MJ</td><td>Maître/Meneur du Jeu</td></tr><tr><td>MOD</td><td>Modificateurs (de caractéristiques)</td></tr><tr><td>MpH</td><td>Miles per Hour => Km/H en français</td></tr><tr><td>MR</td><td>Manuel des races</td></tr><tr><td>NG</td><td>Niveau Global = somme de tous les niveaux de classe du personnage</td></tr><tr><td>NGE</td><td>Niveau Global Équivalent<sup>1</sup></td></tr><tr><td>NLS</td><td>Niveau du Lanceur de Sorts</td></tr><tr><td>PA</td><td>Pièce d'Argent</td></tr><tr><td>PC</td><td>Pièce de Cuivre, Points de compétences ou Points de Construction suivant le contexte</td></tr><tr><td>PF</td><td>PathFinder, voire pile ou face</td></tr><tr><td>PF-RPG</td><td>PathFinder role playing game : le jeu de rôle pathfinder</td></tr><tr><td>PJ</td><td>Personnage Joueur</td></tr><tr><td>PNJ</td><td>Personnage Non Joueur</td></tr><tr><td>PO</td><td>Pièce d'Or</td></tr><tr><td>PP</td><td>Pièce de Platine</td></tr><tr><td>PV ou PdV</td><td>Points de Vie</td></tr><tr><td>PX</td><td>Points d'expérience, également disponible sous la forme XP ou encore EXP.</td></tr><tr><td>RD</td><td>Réduction des Dégâts</td></tr><tr><td>Réf</td><td>Réflexes</td></tr><tr><td>RM</td><td>Résistance à la Magie</td></tr><tr><td>Sur</td><td>Pouvoir/Capacité Surnaturelle</td></tr><tr><td>UM</td><td>Ultimate Magic - Art de la Magie</td></tr><tr><td>V</td><td>Verbale (composante de sort)</td></tr><tr><td>Vig</td><td>Vigueur</td></tr><tr><td>Vol</td><td>Volonté</td></tr><tr><td>XP</td><td>cf PX</td></tr></table>
+<p class="tablo-caption">Liste d'abréviations courantes</p>
+
+{.tablo .autoalt .toutgauche}
+| Abréviation | Signification |
+| --- | --- |
+| AdJ | Aide de Jeu |
+| AdN | Ajustement de Niveau<sup>1</sup> |
+| Al | Alignement |
+| AO | Attaque d’Opportunité |
+| APG | Advanced Player's Guide / Manuel du joueur, règles avancées |
+| BBA | Bonus de Base à l'Attaque |
+| BMC | Bonus de Manœuvre de Combat (= BMO)<sup>2</sup> |
+| BMO | Bonus de Manœuvre Offensive |
+| CàC | Corps à Corps |
+| CA | Classe d'Armure |
+| DD | Degré de Difficulté, ou donjons et dragons |
+| DMC | Degré de Manœuvre de Combat (= DMD)<sup>2</sup> |
+| DMD | Degré de Manœuvre Défensive |
+| DV | Dé de Vie |
+| EXP | cf PX |
+| Ext | Pouvoir/Capacité Extraordinaire |
+| F | Focaliseur, une sorte d’accessoire pour les sorts |
+| FD | Focaliseur Divin, un objet lourd de signification religieuse |
+| FP | Facteur de Puissance, concerne les monstres |
+| G | Gestuelle (composante de sort) |
+| JDR | Jeu De Rôle |
+| JdS | Jets de Sauvegarde |
+| JSL | Jet Sans Limite<sup>3</sup> |
+| Lvl | Level, soit niveau en français |
+| Mag | Pouvoir/Capacité Magique |
+| MJ | Maître/Meneur du Jeu |
+| MOD | Modificateurs (de caractéristiques) |
+| MpH | Miles per Hour => Km/H en français |
+| MR | Manuel des races |
+| NG | Niveau Global = somme de tous les niveaux de classe du personnage |
+| NGE | Niveau Global Équivalent<sup>1</sup> |
+| NLS | Niveau du Lanceur de Sorts |
+| PA | Pièce d'Argent |
+| PC | Pièce de Cuivre, Points de compétences ou Points de Construction suivant le contexte |
+| PF | PathFinder, voire pile ou face |
+| PF-RPG | PathFinder role playing game : le jeu de rôle pathfinder |
+| PJ | Personnage Joueur |
+| PNJ | Personnage Non Joueur |
+| PO | Pièce d'Or |
+| PP | Pièce de Platine |
+| PV ou PdV | Points de Vie |
+| PX | Points d'expérience, également disponible sous la forme XP ou encore EXP. |
+| RD | Réduction des Dégâts |
+| Réf | Réflexes |
+| RM | Résistance à la Magie |
+| Sur | Pouvoir/Capacité Surnaturelle |
+| UM | Ultimate Magic - Art de la Magie |
+| V | Verbale (composante de sort) |
+| Vig | Vigueur |
+| Vol | Volonté |
+| XP | cf PX |
 
 <sup>1</sup>Issu de DD 3.5, n'est plus utilisé en PF-RPG{br}
 <sup>2</sup>Traduction obsolète{br}

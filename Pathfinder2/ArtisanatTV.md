@@ -33,7 +33,14 @@ Pour déterminer le temps de préparation, vérifiez le niveau de l’objet et d
 Vous pouvez également précipiter le processus et réduire le nombre de jours pour la préparation tout en acceptant un risque d’échec plus grand. Si vous êtes au moins Expert en Artisanat, vous pouvez réduire le temps de préparation de 1 jour en augmentant le DD de 5. Si vous êtes au moins Maître, vous pouvez réduire le temps de préparation de 2 jours en augmentant le DD de 10. Si vous êtes Légendaire en Artisanat, vous pouvez réduire le temps de préparation de 3 jours en augmentant le DD de 15. Si vous fabriquez un consommable et que cette réduction amène le nombre de jours à 0 ou moins, la préparation prend 4 heures.
 
 
-<table CLASS="tablo centre autoalt"><caption>Nombre de jours pour la préparation</caption><tr CLASS="titre"><td>Niveau de l'objet</td><td>Consommable</td><td>Permanent</td></tr><tr CLASS="premier"><td>Égal au niveau de l'artisan</td><td>4</td><td>6</td></tr><tr><td>niveau de l'artisan -1 ou -2</td><td>3</td><td>5</td></tr><tr><td>Niveau de l'artisan -3 ou moins</td><td>2</td><td>4</td></tr></table>
+<p class="tablo-caption">Nombre de jours pour la préparation</p>
+
+{.tablo .centre .autoalt}
+| Niveau de l'objet | Consommable | Permanent |
+| --- | --- | --- |
+| Égal au niveau de l'artisan | 4 | 6 |
+| niveau de l'artisan -1 ou -2 | 3 | 5 |
+| Niveau de l'artisan -3 ou moins | 2 | 4 |
 
 
 ### Terminer l’objet

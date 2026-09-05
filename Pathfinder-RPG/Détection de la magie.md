@@ -50,7 +50,13 @@ Les auras magiques particulièrement puissantes ou encore les [[émanation|éman
 **Aura persistante.** Une aura magique ne disparaît pas immédiatement lorsque sa source est dissipée (s’il s’agit d’un sort) ou détruite (s’il s’agit d’un objet magique) mais persiste pendant un certain temps. Une *détection de la magie* dirigée vers la zone en question révélera une aura de puissance ténue (moins puissante encore qu’une aura faible). La période de temps pendant laquelle l’aura persiste dépend de l’intensité d’origine de l’aura.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Intensité de l’aura</td><td>Durée</td></tr><tr CLASS="premier"><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>Puissante</td><td>1d6x10 minutes</td></tr><tr><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+{.tablo .centre .autoalt}
+| Intensité de l’aura | Durée |
+| --- | --- |
+| Faible | 1d6 [[round|rounds]] |
+| Modérée | 1d6 minutes |
+| Puissante | 1d6x10 minutes |
+| Surpuissante | 1d6 jours |
 
 
 Les [[sous-type élémentaire|élémentaires]] et les [[type extérieur|Extérieurs]] ne sont pas magiques de manière inhérente mais, s’ils ont été convoqués par magie, *détection de la magie* repère l’aura du sort qui les a invoqués. Le personnage peut pivoter sur lui-même et examiner une nouvelle zone chaque [[round]]. Le sort fonctionne à travers les barrières si celles-ci ne sont pas trop épaisses : il est bloqué par 30 cm de pierre, 2,5 cm de métal, une mince feuille de plomb ou 90 cm de bois ou de terre.

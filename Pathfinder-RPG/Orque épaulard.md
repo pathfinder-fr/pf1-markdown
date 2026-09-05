@@ -39,7 +39,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dauphin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Dauphin]]</td><td>1/2</td></tr><tr><td>[[Orque épaulard]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de dauphin</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Dauphin]] | 1/2 |
+| [[Orque épaulard]] | 5 |
 
 </div>''Ce cétacé noir et élancé aux dents acérées possède des taches blanches
 caractéristiques près de chacun de ses yeux.''

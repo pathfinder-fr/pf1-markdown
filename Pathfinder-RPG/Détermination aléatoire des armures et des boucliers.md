@@ -12,7 +12,22 @@ Categories:
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Armure ou bouclier aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Type d'armure ou de bouclier</td></tr><tr CLASS="premier"><td>01-04</td><td>[[crevice (armure)|crevice]]</td></tr><tr><td>05-11</td><td>[[cuirasse (armure)|cuirasse]]</td></tr><tr><td>12-14</td><td>[[targe (armure)|targe]]</td></tr><tr><td>15-21</td><td>[[chemise de mailles (armure)|chemise de mailles]]</td></tr><tr><td>22-27</td><td>[[cotte de mailles (armure)|cotte de mailles]]</td></tr><tr><td>28-34</td><td>[[harnois (armure)|harnois]]</td></tr><tr><td>35-39</td><td>[[armure de plaques (armure)|armure de plaques]]</td></tr><tr><td>40-45</td><td>[[écu (armure)|écu en acier]]</td></tr><tr><td>46-51</td><td>[[écu (armure)|écu en bois]]</td></tr><tr><td>52-55</td><td>[[armure de peau (armure)|armure de peau]]</td></tr><tr><td>56-61</td><td>[[armure de cuir (armure)|armure de cuir]]</td></tr></table>
+<p class="tablo-caption">Armure ou bouclier aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Type d'armure ou de bouclier |
+| --- | --- |
+| 01-04 | [[crevice (armure)|crevice]] |
+| 05-11 | [[cuirasse (armure)|cuirasse]] |
+| 12-14 | [[targe (armure)|targe]] |
+| 15-21 | [[chemise de mailles (armure)|chemise de mailles]] |
+| 22-27 | [[cotte de mailles (armure)|cotte de mailles]] |
+| 28-34 | [[harnois (armure)|harnois]] |
+| 35-39 | [[armure de plaques (armure)|armure de plaques]] |
+| 40-45 | [[écu (armure)|écu en acier]] |
+| 46-51 | [[écu (armure)|écu en bois]] |
+| 52-55 | [[armure de peau (armure)|armure de peau]] |
+| 56-61 | [[armure de cuir (armure)|armure de cuir]] |
 
 </td><td width="50%">
 

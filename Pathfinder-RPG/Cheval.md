@@ -40,7 +40,13 @@ Categories:
 {s:ImageDroite|Bestiaire/Cheval.jpg|90%}
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de cheval</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cheval]]</td><td>1</td></tr><tr><td>[[Poney]]</td><td>1/2</td></tr></table>
+<p class="tablo-caption">Variantes de cheval</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Cheval]] | 1 |
+| [[Poney]] | 1/2 |
 
 </div>*Ce fier cheval traverse la plaine herbeuse dans un galop gracieux alors que le vent agite la barde qui le protège.*
 

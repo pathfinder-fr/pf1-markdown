@@ -35,7 +35,16 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon blanc</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon blanc]]</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Dragon blanc adulte]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon blanc vénérable]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon blanc mythique|Dragon blanc adolescent mythique]]</td><td>9</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de dragon blanc</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon blanc]] | &nbsp; | 6 |
+| [[Dragon blanc adulte]] | &nbsp; | 10 |
+| [[Dragon blanc vénérable]] | &nbsp; | 15 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Dragon blanc mythique|Dragon blanc adolescent mythique]] | 9 | 3 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Les écailles blanches de ce dragon semblent gelées et sa tête est ornée de cornes minces et reliées par de fines membranes.*
 

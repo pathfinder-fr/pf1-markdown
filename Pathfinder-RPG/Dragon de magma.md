@@ -32,7 +32,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon de magma</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de magma]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon de magma adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon de magma vénérable]]</td><td>&nbsp;</td><td>17</td></tr></table>
+<p class="tablo-caption">Variantes de dragon de magma</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon de magma]] | &nbsp; | 8 |
+| [[Dragon de magma adulte]] | &nbsp; | 12 |
+| [[Dragon de magma vénérable]] | &nbsp; | 17 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Des filets de lave et des veines incandescentes semblent serpenter entre les écailles noires de ce dragon ainsi que sur les membranes de ses ailes.*
 

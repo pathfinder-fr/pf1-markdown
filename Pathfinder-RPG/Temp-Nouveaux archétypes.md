@@ -31,7 +31,14 @@ Les créatures ayant l’archétype créature boréale vivent à la limite entre
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures aériennes</caption><tr CLASS="titre"><td>DV</td><td>Résistance à l’électricité</td><td>RD</td><td>Dégâts d’électricité</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+<p class="tablo-caption">Protections des créatures aériennes</p>
+
+{.tablo style="width:100%"}
+| DV | Résistance à l’électricité | RD | Dégâts d’électricité |
+| --- | --- | --- | --- |
+| 1–4 | 10 | – | 1 point |
+| 5–10 | 15 | 3/_ | 1d6 |
+| 11+ | 20 | 5/_ | 2d6 |
 
 </div></div>
 Les créatures ayant l’archétype créature aérienne vivent sur le plan de l’Air et possèdent des adaptations uniques pour pouvoir survivre sur ce plan. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature aérienne augmente de +1 si la créature de base a 5 D.V. ou plus.
@@ -43,7 +50,14 @@ Les créatures ayant l’archétype créature aérienne vivent sur le plan de l�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures aqueuses</caption><tr CLASS="titre"><td>DV</td><td>Résistance au froid</td><td>RD</td><td>Dégâts de froid</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+<p class="tablo-caption">Protections des créatures aqueuses</p>
+
+{.tablo style="width:100%"}
+| DV | Résistance au froid | RD | Dégâts de froid |
+| --- | --- | --- | --- |
+| 1–4 | 10 | – | 1 point |
+| 5–10 | 15 | 3/_ | 1d6 |
+| 11+ | 20 | 5/_ | 2d6 |
 
 </div></div>
 Les créatures ayant l’archétype créature aqueuse vivent sur le plan de l’Eau et se déplacent avec une grâce unique
@@ -56,7 +70,14 @@ dans ce milieu sous-marin. Cet archétype simple ne peut être appliqué qu'à u
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures chtoniennes</caption><tr CLASS="titre"><td>DV</td><td>Résistance à l’acide</td><td>RD</td><td>Dégâts d’acide</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+<p class="tablo-caption">Protections des créatures chtoniennes</p>
+
+{.tablo style="width:100%"}
+| DV | Résistance à l’acide | RD | Dégâts d’acide |
+| --- | --- | --- | --- |
+| 1–4 | 10 | – | 1 point |
+| 5–10 | 15 | 3/_ | 1d6 |
+| 11+ | 20 | 5/_ | 2d6 |
 
 </div></div>
 Les créatures ayant l’archétype créature chtonienne vivent sur le plan de la Terre et produisent de l'acide qu'ils utilisent pour creuser rapidement leur maison dans les rochers denses. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature chtonienne augmente de +1 si la créature de base a 5 D.V. ou plus.
@@ -68,7 +89,14 @@ Les créatures ayant l’archétype créature chtonienne vivent sur le plan de l
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures ardentes</caption><tr CLASS="titre"><td>DV</td><td>RD</td><td>Dégâts de feu</td></tr><tr CLASS="premier"><td>1–4</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>3/_</td><td>2d6</td></tr><tr><td>11+</td><td>5/_</td><td>3d6</td></tr></table>
+<p class="tablo-caption">Protections des créatures ardentes</p>
+
+{.tablo style="width:100%"}
+| DV | RD | Dégâts de feu |
+| --- | --- | --- |
+| 1–4 | – | 1 point |
+| 5–10 | 3/_ | 2d6 |
+| 11+ | 5/_ | 3d6 |
 
 </div></div>
 Les créatures ayant l’archétype créature ardente vivent sur le plan du Feu et et agissent comme les conduits des énergies brûlantes de leur Plan d'origine. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature ardente augmente de +1 si la créature de base a 5 D.V. ou plus.
@@ -80,7 +108,14 @@ Les créatures ayant l’archétype créature ardente vivent sur le plan du Feu 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures primordiales</caption><tr CLASS="titre"><td>DV</td><td>RD</td><td>Pouvoirs magiques</td></tr><tr CLASS="premier"><td>1–4</td><td>–</td><td>*[[lumières dansantes]]*</td></tr><tr><td>5–10</td><td>5/fer froid</td><td>*[[Lueur féerique]]*</td></tr><tr><td>11+</td><td>10/fer froid</td><td>*[[Confusion mineure]]*</td></tr></table>
+<p class="tablo-caption">Protections des créatures primordiales</p>
+
+{.tablo style="width:100%"}
+| DV | RD | Pouvoirs magiques |
+| --- | --- | --- |
+| 1–4 | – | *[[lumières dansantes]]* |
+| 5–10 | 5/fer froid | *[[Lueur féerique]]* |
+| 11+ | 10/fer froid | *[[Confusion mineure]]* |
 
 </div></div>
 Les créatures ayant l’archétype créature primordiales vivent dans le premier monde des fées et sont des précurseurs magiques ou des échos des créatures (animales le plus souvent) du plan matériel. Elles traversent parfois le plan matériel aux côtés de fées ou d'autres voyageurs planaires. Le FP de la créature primordiale augmente de +1 si la créature de base a 5 D.V. ou plus.

@@ -36,7 +36,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de sanglier</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Sanglier]]</td><td>2</td></tr><tr><td>[[Sanglier sanguinaire]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Variantes de sanglier</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Sanglier]] | 2 |
+| [[Sanglier sanguinaire]] | 4 |
 
 </div>''Les petits yeux injectés de sang de cette bête colérique surplombent une
 gueule remplie de défenses aiguisées.''

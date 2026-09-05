@@ -29,7 +29,13 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 **Pièges magiques.** Là encore, choisissez les éléments qui vous conviennent et déterminez le [[Rencontres#FP|FP]] du piège en fonction (voir la table ci-dessous). Si un PJ souhaite concevoir et construire un piège magique, il doit disposer du don [[Création dobjets merveilleux|Création d’objets merveilleux]]. De plus, il doit être capable de lancer le ou les sorts nécessaire à la conception du piège, sans quoi il devra louer les services d’un [[PNJ]] qui s’en chargera pour lui.
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|MODIFFPMAGIQUES}Modificateurs au FP des pièges magiques</caption><tr CLASS="titre"><td>Élément</td><td>Modificateur au FP</td></tr><tr CLASS="premier"><td>Sort du plus haut niveau</td><td>+ niveau du sort</td></tr><tr><td>Sort provoquant des dégâts</td><td>+1/10 points de dégâts moyens</td></tr></table>
+<p class="tablo-caption">{s:Reference|MODIFFPMAGIQUES}Modificateurs au FP des pièges magiques</p>
+
+{.tablo .centre .autoalt}
+| Élément | Modificateur au FP |
+| --- | --- |
+| Sort du plus haut niveau | + niveau du sort |
+| Sort provoquant des dégâts | +1/10 points de dégâts moyens |
 
 
 ### Facteur de puissance d’un piège

@@ -40,7 +40,13 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de termite</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de termites]]</td><td>6</td></tr><tr><td>[[Termite géant]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de termite</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Nuée de termites]] | 6 |
+| [[Termite géant]] | 3 |
 
 </div>*Le sol grouille de termites qui mordent et piquent tout ce qui se trouve sur leur passage.*
 

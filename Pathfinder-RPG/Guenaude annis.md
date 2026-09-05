@@ -42,7 +42,18 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de guenaude</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Guenaude annis]]</td><td>6</td></tr><tr><td>[[Guenaude arctique]]</td><td>7</td></tr><tr><td>[[Guenaude de sang]]</td><td>8</td></tr><tr><td>[[Guenaude des tempêtes]]</td><td>7</td></tr><tr><td>[[Guenaude marine]]</td><td>4</td></tr><tr><td>[[Guenaude noire]]</td><td>9</td></tr><tr><td>[[Guenaude verte]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de guenaude</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Guenaude annis]] | 6 |
+| [[Guenaude arctique]] | 7 |
+| [[Guenaude de sang]] | 8 |
+| [[Guenaude des tempêtes]] | 7 |
+| [[Guenaude marine]] | 4 |
+| [[Guenaude noire]] | 9 |
+| [[Guenaude verte]] | 5 |
 
 </div>*La peau de cette vieille sorcière répugnante et bossue a la couleur d’un hématome. Malgré son dos voûté, elle est bien plus grande qu’un humain. *
 

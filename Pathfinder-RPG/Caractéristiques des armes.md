@@ -153,7 +153,22 @@ Un coup à [[mains nues (arme)|mains nues]] est toujours considéré comme une a
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Dégâts des armes de taille TP ou G</caption><tr CLASS="titre"><td>Taille M</td><td>Taille TP</td><td>Taille G</td></tr><tr CLASS="premier"><td>1d2</td><td>—</td><td>1d3</td></tr><tr><td>1d3</td><td>1</td><td>1d4</td></tr><tr><td>1d4</td><td>1d2</td><td>1d6</td></tr><tr><td>1d6</td><td>1d3</td><td>1d8</td></tr><tr><td>1d8</td><td>1d4</td><td>2d6</td></tr><tr><td>1d10</td><td>1d6</td><td>2d8</td></tr><tr><td>1d12</td><td>1d8</td><td>3d6</td></tr><tr><td>2d4</td><td>1d4</td><td>2d6</td></tr><tr><td>2d6</td><td>1d8</td><td>3d6</td></tr><tr><td>2d8</td><td>1d10</td><td>3d8</td></tr><tr><td>2d10</td><td>2d6</td><td>4d8</td></tr></table>
+<p class="tablo-caption">Dégâts des armes de taille TP ou G</p>
+
+{.tablo .centre .autoalt}
+| Taille M | Taille TP | Taille G |
+| --- | --- | --- |
+| 1d2 | — | 1d3 |
+| 1d3 | 1 | 1d4 |
+| 1d4 | 1d2 | 1d6 |
+| 1d6 | 1d3 | 1d8 |
+| 1d8 | 1d4 | 2d6 |
+| 1d10 | 1d6 | 2d8 |
+| 1d12 | 1d8 | 3d6 |
+| 2d4 | 1d4 | 2d6 |
+| 2d6 | 1d8 | 3d6 |
+| 2d8 | 1d10 | 3d8 |
+| 2d10 | 2d6 | 4d8 |
 
 </div></div>{s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#30|→]] Modifications de taille, modifications effectives de la taille, et progression des dés de dégâts : Je suis perdu quant à l’augmentation et la diminution des catégories de dés de dégâts des armes manufacturées et naturelles quand la taille de l’arme ou sa taille effective change. Il y a plusieurs tableaux, et je ne suis pas sûr du quel utiliser.***
 

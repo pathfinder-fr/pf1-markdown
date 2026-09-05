@@ -37,7 +37,20 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'animal de troupeau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Antilope]]</td><td>1/2</td></tr><tr><td>[[Auroch]]</td><td>2</td></tr><tr><td>[[Bélier]]</td><td>1</td></tr><tr><td>[[Bison]]</td><td>4</td></tr><tr><td>[[Cerf]]</td><td>1</td></tr><tr><td>[[Dromadaire]]</td><td>1</td></tr><tr><td>[[Élan]]</td><td>1</td></tr><tr><td>[[Élan des rivières]]</td><td>2</td></tr><tr><td>[[Girafe]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes d'animal de troupeau</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Antilope]] | 1/2 |
+| [[Auroch]] | 2 |
+| [[Bélier]] | 1 |
+| [[Bison]] | 4 |
+| [[Cerf]] | 1 |
+| [[Dromadaire]] | 1 |
+| [[Élan]] | 1 |
+| [[Élan des rivières]] | 2 |
+| [[Girafe]] | 3 |
 
 </div>*Deux magnifiques cornes incurvées ornent le front de ce robuste bélier à la toison brune et blanche.*
 

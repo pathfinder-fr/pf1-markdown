@@ -55,11 +55,29 @@ Lorsque le personnage se laisse tomber d’une certaine hauteur (ou en cas d’u
 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>tests de saut en longueur</caption><tr CLASS="titre"><td>Saut en longueur</td><td>DD du test d’Acrobaties</td></tr><tr CLASS="premier"><td>1,50 m (1 case)</td><td>5</td></tr><tr><td>3,00 m (2 cases)</td><td>10</td></tr><tr><td>4,50 m (3 cases)</td><td>15</td></tr><tr><td>6,00 m (4 cases)</td><td>20</td></tr><tr><td>plus de 6 m</td><td>+5 par 1,50 m (1 case)</td></tr></table>
+<p class="tablo-caption">tests de saut en longueur</p>
+
+{.tablo .centre .autoalt}
+| Saut en longueur | DD du test d’Acrobaties |
+| --- | --- |
+| 1,50 m (1 case) | 5 |
+| 3,00 m (2 cases) | 10 |
+| 4,50 m (3 cases) | 15 |
+| 6,00 m (4 cases) | 20 |
+| plus de 6 m | +5 par 1,50 m (1 case) |
 
 </td><td width="2%"></td><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>Tests de saut en hauteur</caption><tr CLASS="titre"><td>Saut en hauteur</td><td>DD du test d’Acrobaties</td></tr><tr CLASS="premier"><td>30 cm</td><td>4</td></tr><tr><td>60 cm</td><td>8</td></tr><tr><td>90 cm</td><td>12</td></tr><tr><td>120 cm</td><td>16</td></tr><tr><td>plus de 120 cm</td><td>+4 par 30 cm</td></tr></table>
+<p class="tablo-caption">Tests de saut en hauteur</p>
+
+{.tablo .centre .autoalt}
+| Saut en hauteur | DD du test d’Acrobaties |
+| --- | --- |
+| 30 cm | 4 |
+| 60 cm | 8 |
+| 90 cm | 12 |
+| 120 cm | 16 |
+| plus de 120 cm | +4 par 30 cm |
 
 </td></tr></table>
 

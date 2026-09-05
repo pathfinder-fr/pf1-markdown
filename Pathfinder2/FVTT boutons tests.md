@@ -61,7 +61,30 @@ Pour créer un bouton de test, il faut utiliser le code `@Check` et préciser le
 Les types reconnus sont les suivants (<strong>ATTENTION : depuis quelques versions, les versions courtes en 3 lettres ne sont plus reconnues ; il faut utiliser les noms longs !</strong>) :
 
 
-<table CLASS="tablo autoalt centre toutgauche"><tr CLASS="titre"><td>Type</td><td>Signification</td></tr><tr><td>`flat`</td><td>test nu</td></tr><tr><td>`perception`</td><td>Perception</td></tr><tr><td>`fortitude`</td><td>Vigueur</td></tr><tr><td>`reflex`</td><td>Réflexes</td></tr><tr><td>`will`</td><td>Volonté</td></tr><tr><td>`acrobatics` ou `acr`</td><td>Acrobaties</td></tr><tr><td>`arcana` ou `arc`</td><td>Arcanes</td></tr><tr><td>`athletics` ou `ath`</td><td>Athlétisme</td></tr><tr><td>`crafting` ou `cra`</td><td>Artisanat</td></tr><tr><td>`deception` ou `dec`</td><td>Duperie</td></tr><tr><td>`diplomacy` ou `dip`</td><td>Diplomatie</td></tr><tr><td>`intimidation` ou `itm` (!!)</td><td>Intimidation</td></tr><tr><td>`medicine` ou `med`</td><td>Médecine</td></tr><tr><td>`nature` ou `nat`</td><td>Nature</td></tr><tr><td>`occultism` ou `occ`</td><td>Occultisme</td></tr><tr><td>`performance` ou `prf` (!!)</td><td>Représentations</td></tr><tr><td>`religion` ou `rel`</td><td>Religion</td></tr><tr><td>`society` ou `soc`</td><td>Société</td></tr><tr><td>`stealth` ou `ste`</td><td>Discrétion</td></tr><tr><td>`survival` ou `sur`</td><td>Survie</td></tr><tr><td>`thievery` ou `thi`</td><td>Art du voleur</td></tr></table>
+{.tablo .autoalt .centre .toutgauche}
+| Type | Signification |
+| --- | --- |
+| `flat` | test nu |
+| `perception` | Perception |
+| `fortitude` | Vigueur |
+| `reflex` | Réflexes |
+| `will` | Volonté |
+| `acrobatics` ou `acr` | Acrobaties |
+| `arcana` ou `arc` | Arcanes |
+| `athletics` ou `ath` | Athlétisme |
+| `crafting` ou `cra` | Artisanat |
+| `deception` ou `dec` | Duperie |
+| `diplomacy` ou `dip` | Diplomatie |
+| `intimidation` ou `itm` (!!) | Intimidation |
+| `medicine` ou `med` | Médecine |
+| `nature` ou `nat` | Nature |
+| `occultism` ou `occ` | Occultisme |
+| `performance` ou `prf` (!!) | Représentations |
+| `religion` ou `rel` | Religion |
+| `society` ou `soc` | Société |
+| `stealth` ou `ste` | Discrétion |
+| `survival` ou `sur` | Survie |
+| `thievery` ou `thi` | Art du voleur |
 
 
 ### DD des tests

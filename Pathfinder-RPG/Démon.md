@@ -13,7 +13,53 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux démons</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Abrikandilu]]</td><td>&nbsp;</td><td>3</td></tr><tr><td>[[Andrazku]]</td><td>&nbsp;</td><td>5</td></tr><tr><td>[[Ariès]]</td><td>&nbsp;</td><td>4</td></tr><tr><td>[[Babau]]</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Balor]]</td><td>&nbsp;</td><td>20</td></tr><tr><td>[[Brimorak]]</td><td>&nbsp;</td><td>5</td></tr><tr><td>[[Cambion]]</td><td>&nbsp;</td><td>2</td></tr><tr><td>[[Coloxe]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Démon des ombres]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dérakni]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dretch]]</td><td>&nbsp;</td><td>2</td></tr><tr><td>[[Gallu]]</td><td>&nbsp;</td><td>19</td></tr><tr><td>[[Gibrileth]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Glabrezu]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Hala]]</td><td>&nbsp;</td><td>4</td></tr><tr><td>[[Hezrou]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Incube]]</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Kalavakus]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Katpaskir]]</td><td>&nbsp;</td><td>18</td></tr><tr><td>[[Kithangien]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Lilitu]]</td><td>&nbsp;</td><td>17</td></tr><tr><td>[[Marilith]]</td><td>&nbsp;</td><td>17</td></tr><tr><td>[[Nabasu]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Nalfeshnie]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Omox]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Oolioddroo]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Quasit]]</td><td>&nbsp;</td><td>2</td></tr><tr><td>[[Séraptis]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Shachath]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Shemhazian]]</td><td>&nbsp;</td><td>16</td></tr><tr><td>[[Succube]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Thoxel]]</td><td>&nbsp;</td><td>5</td></tr><tr><td>[[Ulkreth]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Vavaki]]</td><td>&nbsp;</td><td>18</td></tr><tr><td>[[Vermlek]]</td><td>&nbsp;</td><td>3</td></tr><tr><td>[[Vilsteth]]</td><td>&nbsp;</td><td>16</td></tr><tr><td>[[Vrock]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Vrolikai]]</td><td>&nbsp;</td><td>19</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Marilith mythique]]</td><td>21</td><td>8</td></tr><tr><td>[[Nalfeshnie mythique]]</td><td>17</td><td>7</td></tr><tr><td>[[Vrock mythique]]</td><td>11</td><td>4</td></tr></table>
+<p class="tablo-caption">Les principaux démons</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Abrikandilu]] | &nbsp; | 3 |
+| [[Andrazku]] | &nbsp; | 5 |
+| [[Ariès]] | &nbsp; | 4 |
+| [[Babau]] | &nbsp; | 6 |
+| [[Balor]] | &nbsp; | 20 |
+| [[Brimorak]] | &nbsp; | 5 |
+| [[Cambion]] | &nbsp; | 2 |
+| [[Coloxe]] | &nbsp; | 12 |
+| [[Démon des ombres]] | &nbsp; | 7 |
+| [[Dérakni]] | &nbsp; | 10 |
+| [[Dretch]] | &nbsp; | 2 |
+| [[Gallu]] | &nbsp; | 19 |
+| [[Gibrileth]] | &nbsp; | 11 |
+| [[Glabrezu]] | &nbsp; | 13 |
+| [[Hala]] | &nbsp; | 4 |
+| [[Hezrou]] | &nbsp; | 11 |
+| [[Incube]] | &nbsp; | 6 |
+| [[Kalavakus]] | &nbsp; | 10 |
+| [[Katpaskir]] | &nbsp; | 18 |
+| [[Kithangien]] | &nbsp; | 9 |
+| [[Lilitu]] | &nbsp; | 17 |
+| [[Marilith]] | &nbsp; | 17 |
+| [[Nabasu]] | &nbsp; | 8 |
+| [[Nalfeshnie]] | &nbsp; | 14 |
+| [[Omox]] | &nbsp; | 12 |
+| [[Oolioddroo]] | &nbsp; | 13 |
+| [[Quasit]] | &nbsp; | 2 |
+| [[Séraptis]] | &nbsp; | 15 |
+| [[Shachath]] | &nbsp; | 11 |
+| [[Shemhazian]] | &nbsp; | 16 |
+| [[Succube]] | &nbsp; | 7 |
+| [[Thoxel]] | &nbsp; | 5 |
+| [[Ulkreth]] | &nbsp; | 15 |
+| [[Vavaki]] | &nbsp; | 18 |
+| [[Vermlek]] | &nbsp; | 3 |
+| [[Vilsteth]] | &nbsp; | 16 |
+| [[Vrock]] | &nbsp; | 9 |
+| [[Vrolikai]] | &nbsp; | 19 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Marilith mythique]] | 21 | 8 |
+| [[Nalfeshnie mythique]] | 17 | 7 |
+| [[Vrock mythique]] | 11 | 4 |
 
 </div></div><div class="description">**Source :** Bestiaire p.59.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*

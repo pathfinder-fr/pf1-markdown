@@ -15,7 +15,20 @@ Categories:
 - **FP.** Cette valeur dépend du nombre de dés de vie initial de la créature, comme indiqué dans la table suivante. Elle est également modifiée par la taille, comme indiqué dans le paragraphe [[DV]].
 
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Dés de vie</td><td>FP</td></tr><tr CLASS="premier"><td>1</td><td>1/4</td></tr><tr><td>2</td><td>1/2</td></tr><tr><td>3-4</td><td>1</td></tr><tr><td>5-6</td><td>2</td></tr><tr><td>7-8</td><td>3</td></tr><tr><td>9-10</td><td>4</td></tr><tr><td>11-12</td><td>5</td></tr><tr><td>13-16</td><td>6</td></tr><tr><td>17-20</td><td>7</td></tr><tr><td>21-24</td><td>8</td></tr><tr><td>25-28</td><td>9</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| Dés de vie | FP |
+| --- | --- |
+| 1 | 1/4 |
+| 2 | 1/2 |
+| 3-4 | 1 |
+| 5-6 | 2 |
+| 7-8 | 3 |
+| 9-10 | 4 |
+| 11-12 | 5 |
+| 13-16 | 6 |
+| 17-20 | 7 |
+| 21-24 | 8 |
+| 25-28 | 9 |
 
 - **Alignement.** Toujours Neutre.
 - **Type.** La créature devient de type [[type Créature artificielle|créature artificielle]] mais conserve ses sous-types, à l’exception des sous-types d’alignement (comme [[sous-type Bon|Bon]]) et des sous-types indiquant une espèce. Elle n’acquiert pas le sous-type [[sous-type Altéré|altéré]] et conserve les statistiques et les pouvoirs spéciaux de la créature de base, en dehors de ce qui suit.
@@ -23,7 +36,16 @@ Categories:
 - **Classe d’armure.** Le bonus d’armure naturelle de la créature empaillée dépend de sa taille.
 
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td>TP ou inférieure</td><td>+0</td></tr><tr><td>P</td><td>+1</td></tr><tr><td>M</td><td>+2</td></tr><tr><td>G</td><td>+3</td></tr><tr><td>TG</td><td>+4</td></tr><tr><td>Gig</td><td>+7</td></tr><tr><td>C</td><td>+11</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| Taille | Bonus d’armure naturelle |
+| --- | --- |
+| TP ou inférieure | +0 |
+| P | +1 |
+| M | +2 |
+| G | +3 |
+| TG | +4 |
+| Gig | +7 |
+| C | +11 |
 
 - **Dés de vie.** Supprimez tous les [[DV]] issus de niveaux de classe (sans descendre au-dessous de 1 DV) et remplacez tous les DV raciaux par des d10. Comme les créatures empaillées sont des [[type Créature artificielle|créatures artificielles]], elles gagnent un nombre de points de vie supplémentaires dépendant de leur taille, comme indiqué dans la table suivante. Elles gagnent également des DV supplémentaires en fonction de leur taille, comme indiqué dans la table suivante.
 

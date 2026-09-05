@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de cafard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cafard géant]]</td><td>1/2</td></tr><tr><td>[[Nuée de cafards]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de cafard</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Cafard géant]] | 1/2 |
+| [[Nuée de cafards]] | 2 |
 
 </div>''Ce cafard de la taille d’un chien s’avance rapidement en faisant claquer
 impatiemment ses mandibules recouvertes de déchets.''

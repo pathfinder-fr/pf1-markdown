@@ -42,7 +42,13 @@ Categories:
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de main rampante</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Main rampante]]</td><td>1/2</td></tr><tr><td>[[Main rampante géante]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de main rampante</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Main rampante]] | 1/2 |
+| [[Main rampante géante]] | 5 |
 
 </div>*Cette main coupée prend soudainement vie. Elle utilise ses doigts pour se propulser à grande vitesse vers l’avant à la manière d’une araignée difforme.*
 

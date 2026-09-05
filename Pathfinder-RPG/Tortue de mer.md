@@ -39,7 +39,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de tortue de mer</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Tortue de mer]]</td><td>1/6</td></tr><tr><td>[[Tortue happante]]</td><td>1/3</td></tr><tr><td>[[Tortue happante géante]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de tortue de mer</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Tortue de mer]] | 1/6 |
+| [[Tortue happante]] | 1/3 |
+| [[Tortue happante géante]] | 9 |
 
 </div>Les tortues sont des reptiles très lents dotés d’une solide carapace dans laquelle elles peuvent se retirer quand elles se sentent menacées. Beaucoup de tortues possèdent des nageoires et sont plus à l’aise dans l’eau que sur terre. On peut également utiliser ce profil pour une tortue terrestre qui a des pattes au lieu de nageoires et vit dans les régions arides.
 

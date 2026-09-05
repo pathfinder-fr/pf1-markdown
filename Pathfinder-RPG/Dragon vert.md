@@ -34,7 +34,16 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon vert</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon vert]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon vert adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon vert vénérable]]</td><td>&nbsp;</td><td>17</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon vert mythique|Très vieux dragon vert mythique]]</td><td>20</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes de dragon vert</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon vert]] | &nbsp; | 8 |
+| [[Dragon vert adulte]] | &nbsp; | 12 |
+| [[Dragon vert vénérable]] | &nbsp; | 17 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Dragon vert mythique|Très vieux dragon vert mythique]] | 20 | 8 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Une unique corne acérée orne le bout du museau tout en dents de ce féroce dragon couvert d’écailles couleur d’émeraude.*
 

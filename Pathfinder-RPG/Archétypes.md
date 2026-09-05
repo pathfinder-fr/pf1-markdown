@@ -124,7 +124,20 @@ Les créatures qui possèdent cet archétype sont des spécimens immatures. Vous
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Emplacement de sorts des druides, magiciens et prêtres</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1-3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4-6</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7-9</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10-12</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13-15</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>16-18</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>19-21</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>22-24</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>25+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+<p class="tablo-caption">Emplacement de sorts des druides, magiciens et prêtres</p>
+
+{.tablo .autoalt}
+| DV | 0 | 1er | 2e | 3e | 4e | 5e | 6e | 7e | 8e | 9e |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-3 | 2 | 1 | - | - | - | - | - | - | - | - |
+| 4-6 | 2 | 2 | 1 | - | - | - | - | - | - | - |
+| 7-9 | ‡ | 2 | 2 | 1 | - | - | - | - | - | - |
+| 10-12 | ‡ | ‡ | 2 | 2 | 1 | - | - | - | - | - |
+| 13-15 | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - | - | - |
+| 16-18 | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - | - |
+| 19-21 | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - |
+| 22-24 | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - |
+| 25+ | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 |
 
 </center></div></div>Un archétype de classe simple fonctionne comme les autres archétypes simples. Il permet au MJ de personnaliser une créature en lui donnant des pouvoirs et un habillage de classe sans avoir à réellement ajouter de niveaux de classe. Tous les archétypes de classe simples proposent deux catégories de modifications. Les « règles rapides » présentent une méthode condensée altérant les pouvoirs et statistiques de la créature sans remodeler tout son profil. Les « règles de reconstruction » dressent la liste de toutes les modifications à apporter au profil de base si le MJ a le temps de le remanier en profondeur, entre deux sessions de jeu par exemple, quand il prépare sa prochaine séance. Ces deux méthodes donnent des créatures aux capacités similaires, à défaut d’être identiques. Ces archétypes donnent leurs propres pouvoirs de classe indiqués par un obèle (†) qui fonctionnent légèrement différemment du pouvoir de classe original, comme précisé dans la description de l’archétype.
 
@@ -144,7 +157,17 @@ La créature barbare peut devenir enragée, ce qui lui confère de nombreux bonu
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Sorts de barde connus</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1-4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5-8</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9-12</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13-16</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>17-20</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>20+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+<p class="tablo-caption">Sorts de barde connus</p>
+
+{.tablo .autoalt}
+| DV | 0 | 1er | 2e | 3e | 4e | 5e | 6e |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-4 | 2 | 1 | - | - | - | - | - |
+| 5-8 | 2 | 2 | 1 | - | - | - | - |
+| 9-12 | ‡ | 2 | 2 | 1 | - | - | - |
+| 13-16 | ‡ | ‡ | 2 | 2 | 1 | - | - |
+| 17-20 | ‡ | ‡ | ‡ | 2 | 2 | 1 | - |
+| 20+ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 |
 
 </center></div></div>La créature barde sait comment inspirer ses camarades pour les pousser à accomplir de grandes choses, c’est donc entourée d’alliés qu’elle est la plus efficace. Elle possède aussi des capacités incantatoires limitées. Le [[FP]] de la créature barde augmente de 2 si elle a 10 [[DV]] ou plus.
 
@@ -168,7 +191,20 @@ Une créature druide est attirée par la puissance brute de la nature. Elle peut
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Sorts d'ensorceleur connus</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1-4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5-7</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8-10</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11-13</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14-16</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>17-19</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>20-22</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>23-25</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>26+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+<p class="tablo-caption">Sorts d'ensorceleur connus</p>
+
+{.tablo .autoalt}
+| DV | 0 | 1er | 2e | 3e | 4e | 5e | 6e | 7e | 8e | 9e |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-4 | 2 | 1 | - | - | - | - | - | - | - | - |
+| 5-7 | 2 | 2 | 1 | - | - | - | - | - | - | - |
+| 8-10 | ‡ | 2 | 2 | 1 | - | - | - | - | - | - |
+| 11-13 | ‡ | ‡ | 2 | 2 | 1 | - | - | - | - | - |
+| 14-16 | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - | - | - |
+| 17-19 | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - | - |
+| 20-22 | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - | - |
+| 23-25 | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 | - |
+| 26+ | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | ‡ | 2 | 2 | 1 |
 
 </center></div></div>Les créatures ensorceleurs disposent d’un éventail de puissants sorts et pouvoirs pour pulvériser leurs ennemis. Choisissez un lignage d’ensorceleur au moment d’ajouter cet archétype. Le [[FP]] de la créature augmente de 2 si elle possède entre 8 et 13 [[DV]] et de 3 si elle possède 14 [[DV]] ou plus.
 

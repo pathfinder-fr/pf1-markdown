@@ -31,7 +31,17 @@ Votre représentant doit faire un test de [[Diplomatie]] dont le [[DD]] obéit �
 {s:ClearRight}<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre autoalt"><caption>Modificateur de relations diplomatiques</caption><tr CLASS="titre"><td>Relations</td><td>Modificateur du DD</td></tr><tr CLASS="premier"><td>Vous et le royaume choisi avez tous deux conclu une alliance avec un troisième royaume</td><td>-8</td></tr><tr><td>Vous avez conclu un traité avec un allié du royaume choisi</td><td>-4</td></tr><tr><td>Vous et le royaume choisi avez tous deux conclu un traité avec un même troisième royaume</td><td>-2</td></tr><tr><td>Vous avez une ambassade chez un ennemi du royaume choisi</td><td>+2</td></tr><tr><td>Vous avez conclu un traité avec un ennemi du royaume choisi</td><td>+5</td></tr><tr><td>Vous avez conclu une alliance avec un ennemi du royaume choisi</td><td>+10</td></tr></table>
+<p class="tablo-caption">Modificateur de relations diplomatiques</p>
+
+{.tablo .centre .autoalt}
+| Relations | Modificateur du DD |
+| --- | --- |
+| Vous et le royaume choisi avez tous deux conclu une alliance avec un troisième royaume | -8 |
+| Vous avez conclu un traité avec un allié du royaume choisi | -4 |
+| Vous et le royaume choisi avez tous deux conclu un traité avec un même troisième royaume | -2 |
+| Vous avez une ambassade chez un ennemi du royaume choisi | +2 |
+| Vous avez conclu un traité avec un ennemi du royaume choisi | +5 |
+| Vous avez conclu une alliance avec un ennemi du royaume choisi | +10 |
 
 </div></div>
 - **Modificateur de relations.** Ceci prend en compte les traités, les alliances et les conflits que vous avez avec les alliés et les ennemis du royaume choisi. Si vous avez les mêmes amis que l’autre royaume, il aura intérêt à entretenir de bonnes relations diplomatiques avec vous, en revanche, si vous êtes amis avec ses ennemis, il aura bien moins envie de négocier avec vous. Modifiez le [[DD]] comme indiqué dans la table "Modificateur de relations diplomatiques" à chaque fois que vous avez tous deux des relations avec un troisième royaume.

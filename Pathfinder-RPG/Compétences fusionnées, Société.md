@@ -54,6 +54,16 @@ Le personnage peut utiliser la compétence Société pour se remémorer des info
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test de Société</td></tr><tr CLASS="premier"><td>Connaitre les lois, les dirigeants et les sites populaires</td><td>10</td></tr><tr><td>Connaitre un évènement récent ou historiquement important</td><td>10</td></tr><tr><td>Déterminer la date approximative d’un évènement spécifique</td><td>15</td></tr><tr><td>Connaitre une rumeur ou une tradition connue</td><td>15</td></tr><tr><td>Connaitre l’étiquette appropriée</td><td>15</td></tr><tr><td>Connaitre les organisations secrètes, les dirigeants et les sites</td><td>20</td></tr><tr><td>Connaitre une lignée de succession</td><td>20</td></tr><tr><td>Connaitre un évènement peu connu ou historiquement ancien</td><td>20</td></tr></table>
+{.tablo .autoalt}
+| Tâche | DD du test de Société |
+| --- | --- |
+| Connaitre les lois, les dirigeants et les sites populaires | 10 |
+| Connaitre un évènement récent ou historiquement important | 10 |
+| Déterminer la date approximative d’un évènement spécifique | 15 |
+| Connaitre une rumeur ou une tradition connue | 15 |
+| Connaitre l’étiquette appropriée | 15 |
+| Connaitre les organisations secrètes, les dirigeants et les sites | 20 |
+| Connaitre une lignée de succession | 20 |
+| Connaitre un évènement peu connu ou historiquement ancien | 20 |
 
 </center>

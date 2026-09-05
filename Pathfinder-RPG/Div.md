@@ -11,7 +11,18 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux divs</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Akvan]]</td><td>20</td></tr><tr><td>[[Aghash]]</td><td>4</td></tr><tr><td>[[Doru]]</td><td>2</td></tr><tr><td>[[Ghawwas]]</td><td>10</td></tr><tr><td>[[Païraka]]</td><td>7</td></tr><tr><td>[[Sépide]]</td><td>14</td></tr><tr><td>[[Shira]]</td><td>12</td></tr></table>
+<p class="tablo-caption">Les principaux divs</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Akvan]] | 20 |
+| [[Aghash]] | 4 |
+| [[Doru]] | 2 |
+| [[Ghawwas]] | 10 |
+| [[Païraka]] | 7 |
+| [[Sépide]] | 14 |
+| [[Shira]] | 12 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.85.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*

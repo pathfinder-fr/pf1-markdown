@@ -22,7 +22,16 @@ Le DD des tests de Bluff pour mentir sont modifiés en fonction de l’attitude 
 
 <center>
 
-<table CLASS="tablo"><caption>Tests de bluff</caption><tr CLASS="titre"><td>Attitude initiale</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>Hostile</td><td>+10</td></tr><tr><td>Inamical</td><td>+5</td></tr><tr><td>Indifférent</td><td>+0</td></tr><tr><td>Amical</td><td>-5</td></tr><tr><td>Serviable</td><td>-5</td></tr></table>
+<p class="tablo-caption">Tests de bluff</p>
+
+{.tablo}
+| Attitude initiale | Modificateur au DD |
+| --- | --- |
+| Hostile | +10 |
+| Inamical | +5 |
+| Indifférent | +0 |
+| Amical | -5 |
+| Serviable | -5 |
 
 </center>
 

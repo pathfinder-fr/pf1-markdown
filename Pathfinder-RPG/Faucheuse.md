@@ -50,7 +50,13 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de faucheuse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Faucheuse mineure]]</td><td>16</td></tr><tr><td>[[Faucheuse]]</td><td>22</td></tr></table>
+<p class="tablo-caption">Variantes de faucheuse</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Faucheuse mineure]] | 16 |
+| [[Faucheuse]] | 22 |
 
 </div>*L’une des mains réduites à l’état d’os de cette créature squelettique vêtue d’une robe empoigne une énorme faux à la lame incurvée.*
 

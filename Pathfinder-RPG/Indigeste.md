@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'indigeste</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Indigeste]]</td><td>1/4</td></tr><tr><td>[[Nuée dindigestes|Nuée d'indigestes]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes d'indigeste</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Indigeste]] | 1/4 |
+| [[Nuée dindigestes|Nuée d'indigestes]] | 5 |
 
 </div>*Un mélange d’os et de fragments de crâne à demi-liquéfiés flotte dans une gelée jaune et brune.*
 

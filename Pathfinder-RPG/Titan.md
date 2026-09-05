@@ -11,7 +11,17 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux titans</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Titan hécatonchire]]</td><td>&nbsp;</td><td>24</td></tr><tr><td>[[Titan de lÉlysée|Titan de l’Élysée]]</td><td>&nbsp;</td><td>21</td></tr><tr><td>[[Titan thanatotique]]</td><td>&nbsp;</td><td>22</td></tr><tr><td>**Membres Mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Danave]]</td><td>24</td><td>9</td></tr><tr><td>[[Titan fomorien]]</td><td>22</td><td>8</td></tr></table>
+<p class="tablo-caption">Les principaux titans</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Titan hécatonchire]] | &nbsp; | 24 |
+| [[Titan de lÉlysée|Titan de l’Élysée]] | &nbsp; | 21 |
+| [[Titan thanatotique]] | &nbsp; | 22 |
+| **Membres Mythiques** | **FP** | **RMY** |
+| [[Danave]] | 24 | 9 |
+| [[Titan fomorien]] | 22 | 8 |
 
 </div></div><div class="description">**Source :** Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]/[[sous-type Bien|Bien]])*

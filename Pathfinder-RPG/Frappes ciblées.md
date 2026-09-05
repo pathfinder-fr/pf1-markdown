@@ -98,7 +98,21 @@ et des [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminuti
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TABLOCALISATION}Localisation des frappes ciblées</caption><tr CLASS="titre"><td>Localisation</td><td>Difficulté</td><td>Malus</td></tr><tr CLASS="premier"><td>[[Frappes ciblées#Abdomen|Abdomen]]</td><td>Délicate</td><td>-5</td></tr><tr><td>[[Frappes ciblées#Bras|Bras]]</td><td>Facile</td><td>-2</td></tr><tr><td>&emsp;[[Frappes ciblées#Main|Main]]</td><td>Délicate</td><td>-5</td></tr><tr><td>[[Frappes ciblées#Jambe|Jambe]]</td><td>Facile</td><td>-2</td></tr><tr><td>[[Frappes ciblées#Tête|Tête]]</td><td>Délicate</td><td>-5</td></tr><tr><td>&emsp;[[Frappes ciblées#Cou|Cou]]</td><td>Difficile</td><td>-10</td></tr><tr><td>&emsp;[[Frappes ciblées#Œil|Œil]]</td><td>Difficile</td><td>-10</td></tr><tr><td>&emsp;[[Frappes ciblées#Oreille|Oreille]]</td><td>Difficile</td><td>-10</td></tr><tr><td>[[Frappes ciblées#Tronc|Tronc]]</td><td>Facile</td><td>-2</td></tr><tr><td>&emsp;[[Frappes ciblées#Cœur|Cœur]]</td><td>Difficile</td><td>-10</td></tr></table>
+<p class="tablo-caption">{s:Reference|TABLOCALISATION}Localisation des frappes ciblées</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| Localisation | Difficulté | Malus |
+| --- | --- | --- |
+| [[Frappes ciblées#Abdomen|Abdomen]] | Délicate | -5 |
+| [[Frappes ciblées#Bras|Bras]] | Facile | -2 |
+| &emsp;[[Frappes ciblées#Main|Main]] | Délicate | -5 |
+| [[Frappes ciblées#Jambe|Jambe]] | Facile | -2 |
+| [[Frappes ciblées#Tête|Tête]] | Délicate | -5 |
+| &emsp;[[Frappes ciblées#Cou|Cou]] | Difficile | -10 |
+| &emsp;[[Frappes ciblées#Œil|Œil]] | Difficile | -10 |
+| &emsp;[[Frappes ciblées#Oreille|Oreille]] | Difficile | -10 |
+| [[Frappes ciblées#Tronc|Tronc]] | Facile | -2 |
+| &emsp;[[Frappes ciblées#Cœur|Cœur]] | Difficile | -10 |
 
 </div></div>{s:Reference|Abdomen}
 #### Abdomen

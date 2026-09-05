@@ -28,7 +28,16 @@ Ce type de jeu non-linéaire encourage les PJ à se lancer dans le monde, à che
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TEMPSDEXPLORATION}Temps d’exploration (1 hexagone)</caption><tr CLASS="titre"><td>VD du groupe</td><td>Plaines ou collines</td><td>Désert, forêt ou marais</td><td>Montagnes</td></tr><tr CLASS="premier"><td>4,5 m</td><td>3 jours</td><td>4 jours</td><td>5 jours</td></tr><tr><td>6 m</td><td>2 jours</td><td>3 jours</td><td>4 jours</td></tr><tr><td>9 m</td><td>1 journée</td><td>2 jours</td><td>3 jours</td></tr><tr><td>12 m</td><td>1 journée</td><td>1 journée</td><td>2 jours</td></tr><tr><td>15 m</td><td>1 journée</td><td>1 journée</td><td>1 journée</td></tr></table>
+<p class="tablo-caption">{s:Reference|TEMPSDEXPLORATION}Temps d’exploration (1 hexagone)</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| VD du groupe | Plaines ou collines | Désert, forêt ou marais | Montagnes |
+| --- | --- | --- | --- |
+| 4,5 m | 3 jours | 4 jours | 5 jours |
+| 6 m | 2 jours | 3 jours | 4 jours |
+| 9 m | 1 journée | 2 jours | 3 jours |
+| 12 m | 1 journée | 1 journée | 2 jours |
+| 15 m | 1 journée | 1 journée | 1 journée |
 
 </div></div>Chaque hexagone de la carte correspond à 20 kilomètres d’un coin à l’autre et représente une zone d’un peu moins de 250 km2. Les hexagones servent à suivre les déplacements du groupe tandis qu’il est en exploration et aident à définir l’étendue des différents types d’environnements. Dans ces règles, les rapports d’exploration diffèrent des rapports de voyage que l’on trouve dans le Manuel des Joueurs puisque les personnages sont également censés prendre le temps d’explorer complètement chaque zone découverte, ce qui est nettement plus long que de simplement la traverser.
 
@@ -59,7 +68,12 @@ Le fait de se perdre répond aux règles normales (Manuel des Joueurs, p. 430) �
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d100</td><td>Résultat</td></tr><tr CLASS="premier"><td>01-50</td><td>Pas de rencontre</td></tr><tr><td>51-60</td><td>Danger</td></tr><tr><td>61-100</td><td>Monstre</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| d100 | Résultat |
+| --- | --- |
+| 01-50 | Pas de rencontre |
+| 51-60 | Danger |
+| 61-100 | Monstre |
 
 </div></div>Les catastrophes naturelles peuvent se produire n’importe où. Les régions sauvages accueillent souvent toute une variété de monstres. Vous pouvez ajouter quelques dangers de plus à vos sessions d’exploration en incluant des rencontres aléatoires, qu’elles prennent la forme de dangers naturels ou de monstres vivant dans l’environnement donné.
 
@@ -202,7 +216,15 @@ Les plaines peuvent être des champs de hautes herbes, une toundra toujours gel�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d20</td><td>Élément environnemental</td></tr><tr CLASS="premier"><td>1-3</td><td>Difficile</td></tr><tr><td>4-6</td><td>Caractéristiques</td></tr><tr><td>7-10</td><td>Terrain de chasse</td></tr><tr><td>11-12</td><td>Ressources</td></tr><tr><td>13-14</td><td>Secrets</td></tr><tr><td>15-20</td><td>Normal</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| d20 | Élément environnemental |
+| --- | --- |
+| 1-3 | Difficile |
+| 4-6 | Caractéristiques |
+| 7-10 | Terrain de chasse |
+| 11-12 | Ressources |
+| 13-14 | Secrets |
+| 15-20 | Normal |
 
 </div></div>Tout le monde n’a pas forcément le temps de créer des cartes détaillées pour le jeu. Vous trouverez un exemple de carte à photocopier et à utiliser facilement en jeu, à la page 168, mais vos joueurs et vous-même pouvez également utiliser les règles qui suivent pour créer aléatoirement une carte inédite en cours de jeu. Ceci pourrait permettre à vos joueurs de découvrir le monde vierge qui les entoure. Les options suivantes sont spécifiquement prévues pour correspondre à des types génériques d’environnements tempérés : il vous appartient de les ajuster à votre jeu. Dans les terres stériles gelées, les hexagones de plaines pourraient représenter de grandes étendues de glace tandis que dans un climat aride, ce pourrait être de gigantesques sebkhas. Servez-vous de ces exemples comme d’un tremplin pour créer une campagne d’exploration unique.
 

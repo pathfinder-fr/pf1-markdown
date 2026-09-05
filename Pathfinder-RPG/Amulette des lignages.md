@@ -20,7 +20,13 @@ Chaque type d’amulette des lignages accorde au personnage les pouvoirs d’un 
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>d100</td><td>Matériau</td><td>Type d’énergie</td><td>Forme du souffle</td></tr><tr CLASS="premier"><td>01-25</td><td>Malachite</td><td>Acide</td><td>ligne de 18 mètres</td></tr><tr><td>26-50</td><td>Azurite</td><td>Électricité</td><td>ligne de 18 mètres</td></tr><tr><td>51-75</td><td>Agate rouge</td><td>Feu</td><td>cône de 9 mètres</td></tr><tr><td>76-100</td><td>Calcite</td><td>Froid</td><td>cône de 9 mètres</td></tr></table>
+{.tablo .centre .autoalt style="width:100%"}
+| d100 | Matériau | Type d’énergie | Forme du souffle |
+| --- | --- | --- | --- |
+| 01-25 | Malachite | Acide | ligne de 18 mètres |
+| 26-50 | Azurite | Électricité | ligne de 18 mètres |
+| 51-75 | Agate rouge | Feu | cône de 9 mètres |
+| 76-100 | Calcite | Froid | cône de 9 mètres |
 
 
 
@@ -28,7 +34,13 @@ Chaque type d’amulette des lignages accorde au personnage les pouvoirs d’un 
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>d100</td><td>Matériau</td><td>Type d’énergie</td></tr><tr CLASS="premier"><td>01-25</td><td>Anhydrite</td><td>Électricité</td></tr><tr><td>26-50</td><td>Hématite</td><td>Acide</td></tr><tr><td>51-75</td><td>Béryl</td><td>Feu</td></tr><tr><td>76-100</td><td>Forstérite</td><td>Froid</td></tr></table>
+{.tablo .centre .autoalt style="width:100%"}
+| d100 | Matériau | Type d’énergie |
+| --- | --- | --- |
+| 01-25 | Anhydrite | Électricité |
+| 26-50 | Hématite | Acide |
+| 51-75 | Béryl | Feu |
+| 76-100 | Forstérite | Froid |
 
 
 

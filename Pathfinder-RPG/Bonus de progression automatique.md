@@ -14,7 +14,22 @@ Si vous souhaitez retirez tous les objets magiques du jeu (ou les rendre telleme
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Niveau</td><td>Bonus obtenus</td></tr><tr CLASS="premier"><td>1</td><td>—</td></tr><tr><td>2</td><td>—</td></tr><tr><td>3</td><td>[[Bonus de progression automatique#RESISTANCE|Résistance]] +1</td></tr><tr><td>4</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1</td></tr><tr><td>5</td><td>[[Bonus de progression automatique#PARADE|Parade]] +1</td></tr><tr><td>6</td><td>[[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +2</td></tr><tr><td>7</td><td>[[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +2</td></tr><tr><td>8</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +1, [[Bonus de progression automatique#HARMONISATIONDARME|harmonisation d’arme]] +1/+1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1/+1, [[Bonus de progression automatique#RESISTANCE|résistance]] +2</td></tr><tr><td>9</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2</td></tr><tr><td>10</td><td>[[Bonus de progression automatique#PARADE|Parade]] +2, [[Bonus de progression automatique#RESISTANCE|résistance]] +3</td></tr><tr><td>11</td><td>[[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +4</td></tr><tr><td>12</td><td>[[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +4</td></tr><tr><td>13</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +2, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +4/+2, [[Bonus de progression automatique#RESISTANCE|résistance]] +4</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Niveau | Bonus obtenus |
+| --- | --- |
+| 1 | — |
+| 2 | — |
+| 3 | [[Bonus de progression automatique#RESISTANCE|Résistance]] +1 |
+| 4 | [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1 |
+| 5 | [[Bonus de progression automatique#PARADE|Parade]] +1 |
+| 6 | [[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +2 |
+| 7 | [[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +2 |
+| 8 | [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +1, [[Bonus de progression automatique#HARMONISATIONDARME|harmonisation d’arme]] +1/+1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1/+1, [[Bonus de progression automatique#RESISTANCE|résistance]] +2 |
+| 9 | [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2 |
+| 10 | [[Bonus de progression automatique#PARADE|Parade]] +2, [[Bonus de progression automatique#RESISTANCE|résistance]] +3 |
+| 11 | [[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +4 |
+| 12 | [[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +4 |
+| 13 | [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +2, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +4/+2, [[Bonus de progression automatique#RESISTANCE|résistance]] +4 |
 
 </td><td width="50%">
 

@@ -41,7 +41,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de barghest</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Barghest]]</td><td>4</td></tr><tr><td>[[Barghest noble]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de barghest</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Barghest]] | 4 |
+| [[Barghest noble]] | 7 |
 
 </div>*Ce monstre canin grogne et avance sur quatre pattes. Ses longs membres antérieurs ressemblent plus à des mains qu’à des pattes.*
 

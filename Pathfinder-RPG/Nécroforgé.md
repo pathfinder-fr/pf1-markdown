@@ -70,7 +70,14 @@ Pour créer un nécroforgé, le lanceur de sorts doit disposer d’un minimum de
 Le créateur peut utiliser un cadavre ou un mort-vivant de taille supérieure plutôt que deux de la taille directement inférieure. Il doit coudre, coller ou se débrouiller pour fixer les différents éléments corporels entre eux afin d’aboutir à l’anatomie désirée, puis il doit lancer animation des morts et réparation intégrale pour finaliser sa création (le coût en composantes matérielles du sort animation des morts s’élève à 50 po par dé de vie du nécroforgé). Le créateur ne peut pas créer de nécroforgé dont le nombre de dés de vie est supérieur à son niveau de lanceur de sorts. Comme pour animation des morts, le nécroforgé est sous le contrôle de son créateur une fois sa création finalisée. Remarquez que la création d’un nécroforgé nécessite le lancement d’un sort du registre Mal.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Taille</td><td>DV</td><td>PC</td><td>FP</td><td>Nombre de morts-vivants nécessaires</td></tr><tr CLASS="premier"><td>Moyenne</td><td>4d8</td><td>2</td><td>3</td><td>5</td></tr><tr><td>Grande</td><td>7d8</td><td>3</td><td>5</td><td>10</td></tr><tr><td>Très Grande</td><td>10d8</td><td>4</td><td>7</td><td>25</td></tr><tr><td>Gigantesque</td><td>14d8</td><td>5</td><td>9</td><td>50</td></tr><tr><td>Colossale</td><td>18d8</td><td>6</td><td>11</td><td>100</td></tr></table>
+{.tablo}
+| Taille | DV | PC | FP | Nombre de morts-vivants nécessaires |
+| --- | --- | --- | --- | --- |
+| Moyenne | 4d8 | 2 | 3 | 5 |
+| Grande | 7d8 | 3 | 5 | 10 |
+| Très Grande | 10d8 | 4 | 7 | 25 |
+| Gigantesque | 14d8 | 5 | 9 | 50 |
+| Colossale | 18d8 | 6 | 11 | 100 |
 
 
 

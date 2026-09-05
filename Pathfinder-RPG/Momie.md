@@ -43,7 +43,14 @@ La putréfaction de la momie est à la fois une [[malédiction]] et une [[maladi
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de momie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Momie]]</td><td>5</td></tr><tr><td>[[Momie des marais]]</td><td>4</td></tr><tr><td>[[Seigneur momie humain]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Variantes de momie</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Momie]] | 5 |
+| [[Momie des marais]] | 4 |
+| [[Seigneur momie humain]] | 10 |
 
 </div>*Cet humanoïde enrubanné de vieilles bandelettes de lin en décomposition de la tête aux pieds s’avance en traînant les pieds.*
 

@@ -12,7 +12,13 @@ LastModified: 2024-08-25 22:44
 
 </td><td width="28%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Type de baguette</caption><tr CLASS="titre"><td>D100</td><td>Type de baguette</td></tr><tr CLASS="premier"><td>01-75</td><td>commune</td></tr><tr><td>75-100</td><td>hors du commun</td></tr></table>
+<p class="tablo-caption">Type de baguette</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Type de baguette |
+| --- | --- |
+| 01-75 | commune |
+| 75-100 | hors du commun |
 
 </td></tr></table>
 

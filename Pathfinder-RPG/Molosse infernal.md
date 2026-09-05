@@ -40,7 +40,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de molosse infernal</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Molosse infernal]]</td><td>3</td></tr><tr><td>[[Molosse nessien]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Variantes de molosse infernal</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Molosse infernal]] | 3 |
+| [[Molosse nessien]] | 9 |
 
 </div>*Cette créature ressemble à un grand loup maigre doté de griffes blanches, d’une fourrure rouge-brun et d’yeux d’un rouge ardent.*
 

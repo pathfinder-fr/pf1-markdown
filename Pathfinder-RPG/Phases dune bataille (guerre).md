@@ -18,7 +18,14 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Stratégie</td><td>VDÉF</td><td>MA</td><td>Dégâts infligés</td></tr><tr CLASS="premier"><td>Défensive</td><td>+4</td><td>-4</td><td>-6</td></tr><tr><td>Prudente</td><td>+2</td><td>-2</td><td>-3</td></tr><tr><td>Standard</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>Agressive</td><td>-2</td><td>+2</td><td>+3</td></tr><tr><td>Téméraire</td><td>-4</td><td>+4</td><td>+6</td></tr></table>
+{.tablo .centre .autoalt}
+| Stratégie | VDÉF | MA | Dégâts infligés |
+| --- | --- | --- | --- |
+| Défensive | +4 | -4 | -6 |
+| Prudente | +2 | -2 | -3 |
+| Standard | +0 | +0 | +0 |
+| Agressive | -2 | +2 | +3 |
+| Téméraire | -4 | +4 | +6 |
 
 </div></div>Lors de la première phase de corps à corps, le commandant choisit une stratégie parmi les cinq proposées sur l’échelle de stratégie. Ces stratégies modifient la [[Combat de masse#VDEF|VDéf]], le [[Combat de masse#MA|MA]] et les modificateurs de dégâts de l’armée.
 

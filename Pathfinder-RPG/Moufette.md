@@ -37,7 +37,13 @@ LastModified: 2020-09-21 16:36
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de moufette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Moufette]]</td><td>1/4</td></tr><tr><td>[[Moufette géante]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de moufette</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Moufette]] | 1/4 |
+| [[Moufette géante]] | 3 |
 
 </div>*Semblable à un petit blaireau, cette créature a une fourrure noire rayée de blanc de son museau à sa queue touffue relevée en signe d’avertissement.*
 

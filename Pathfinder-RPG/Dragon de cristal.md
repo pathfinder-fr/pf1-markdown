@@ -32,7 +32,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon de cristal</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de cristal]]</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Dragon de cristal adulte]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon de cristal vénérable]]</td><td>&nbsp;</td><td>15</td></tr></table>
+<p class="tablo-caption">Variantes de dragon de cristal</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon de cristal]] | &nbsp; | 6 |
+| [[Dragon de cristal adulte]] | &nbsp; | 10 |
+| [[Dragon de cristal vénérable]] | &nbsp; | 15 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Ce dragon de couleur brillante a des écailles, des dents et des griffes en cristal multicolore et ses ailes sont des pans de verre flexibles.*
 

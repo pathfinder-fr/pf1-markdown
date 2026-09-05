@@ -26,7 +26,28 @@ En revanche, cela ne signifie pas forcément que le MJ ou le joueur doit lancer 
 La compétence de Perception permet également de remarquer certains détails dans l’environnement du personnage. Le [[DD]] du test dépend alors de la distance, de l’environnement et de la difficulté à percevoir le détail en question. La table qui suit donne quelques indications pour déterminer le [[DD]] du test.
 
 
-<table CLASS="tablo centre autoalt"><caption>tests de Perception</caption><tr CLASS="titre"><td>Détail</td><td>DD du test de Perception</td></tr><tr CLASS="premier"><td>Entendre les bruits d’un combat</td><td>-10</td></tr><tr><td>Sentir l’odeur de détritus en putréfaction</td><td>-10</td></tr><tr><td>Sentir l’odeur de la fumée</td><td>0</td></tr><tr><td>Entendre les détails d’une conversation</td><td>0</td></tr><tr><td>Voir une créature visible</td><td>0</td></tr><tr><td>Déterminer si de la nourriture est avariée</td><td>5</td></tr><tr><td>Entendre les pas d’une créature</td><td>10</td></tr><tr><td>Entendre les détails d’une conversation à voix basse</td><td>15</td></tr><tr><td>Trouver une porte cachée de difficulté moyenne</td><td>15</td></tr><tr><td>Entendre le son d’une clef tournant dans une serrure</td><td>20</td></tr><tr><td>Trouver une porte secrète de difficulté moyenne</td><td>20</td></tr><tr><td>Entendre le son d’un arc dont on tend la corde</td><td>25</td></tr><tr><td>Percevoir les vibrations d’une créature souterraine passant sous le personnage</td><td>25</td></tr><tr><td>Remarquer un pickpocket</td><td>opposé au test d’[[Escamotage]]</td></tr><tr><td>Remarquer une créature utilisant la compétence de [[Discrétion]]</td><td>opposé au test de [[Discrétion]]</td></tr><tr><td>Trouver un [[pièges|piège]] caché</td><td>variable selon le [[pièges|piège]]</td></tr><tr><td>Identifier les effets d’une potion en la goûtant</td><td>15 + [[NLS]] de la potion</td></tr></table>
+<p class="tablo-caption">tests de Perception</p>
+
+{.tablo .centre .autoalt}
+| Détail | DD du test de Perception |
+| --- | --- |
+| Entendre les bruits d’un combat | -10 |
+| Sentir l’odeur de détritus en putréfaction | -10 |
+| Sentir l’odeur de la fumée | 0 |
+| Entendre les détails d’une conversation | 0 |
+| Voir une créature visible | 0 |
+| Déterminer si de la nourriture est avariée | 5 |
+| Entendre les pas d’une créature | 10 |
+| Entendre les détails d’une conversation à voix basse | 15 |
+| Trouver une porte cachée de difficulté moyenne | 15 |
+| Entendre le son d’une clef tournant dans une serrure | 20 |
+| Trouver une porte secrète de difficulté moyenne | 20 |
+| Entendre le son d’un arc dont on tend la corde | 25 |
+| Percevoir les vibrations d’une créature souterraine passant sous le personnage | 25 |
+| Remarquer un pickpocket | opposé au test d’[[Escamotage]] |
+| Remarquer une créature utilisant la compétence de [[Discrétion]] | opposé au test de [[Discrétion]] |
+| Trouver un [[pièges|piège]] caché | variable selon le [[pièges|piège]] |
+| Identifier les effets d’une potion en la goûtant | 15 + [[NLS]] de la potion |
 
 
 

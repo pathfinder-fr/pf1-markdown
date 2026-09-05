@@ -26,7 +26,17 @@ Les malus persistent aussi longtemps que dure le tourment mais les bonus sont «
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Familles associées aux tests</caption><tr CLASS="titre"><td>Famille</td><td>Test associé</td></tr><tr CLASS="premier"><td>Marteau (For)</td><td>[[jet dattaque|Jets d’attaque]] (à distance et en mêlée)</td></tr><tr><td>Clef (Dex)</td><td>Jets de [[Réflexes]]</td></tr><tr><td>Bouclier (Con)</td><td>Jets de [[Vigueur]]</td></tr><tr><td>Livre (Int)</td><td>[[Compétences#TESTSDECOMPETENCES|Tests de compétence]]</td></tr><tr><td>Étoile (Sag)</td><td>Jets de [[Volonté]]</td></tr><tr><td>Couronne (Cha)</td><td>N’importe quel jet de d20</td></tr></table>
+<p class="tablo-caption">Familles associées aux tests</p>
+
+{.tablo .centre .autoalt .toutgauche}
+| Famille | Test associé |
+| --- | --- |
+| Marteau (For) | [[jet dattaque|Jets d’attaque]] (à distance et en mêlée) |
+| Clef (Dex) | Jets de [[Réflexes]] |
+| Bouclier (Con) | Jets de [[Vigueur]] |
+| Livre (Int) | [[Compétences#TESTSDECOMPETENCES|Tests de compétence]] |
+| Étoile (Sag) | Jets de [[Volonté]] |
+| Couronne (Cha) | N’importe quel jet de d20 |
 
 </td><td width="50%">
 

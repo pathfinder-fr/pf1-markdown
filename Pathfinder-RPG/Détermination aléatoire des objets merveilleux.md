@@ -12,7 +12,16 @@ Categories:
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Objet aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Type d'objet merveilleux</td></tr><tr CLASS="premier"><td>01-06</td><td>[[#TAILLE|Taille]]</td></tr><tr><td>07-12</td><td>[[#CORPS|Corps]]</td></tr><tr><td>13-17</td><td>[[#TORSE|Torse]]</td></tr><tr><td>18-22</td><td>[[#YEUX|Yeux]]</td></tr><tr><td>23-28</td><td>[[#PIEDS|Pieds]]</td></tr></table>
+<p class="tablo-caption">Objet aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Type d'objet merveilleux |
+| --- | --- |
+| 01-06 | [[#TAILLE|Taille]] |
+| 07-12 | [[#CORPS|Corps]] |
+| 13-17 | [[#TORSE|Torse]] |
+| 18-22 | [[#YEUX|Yeux]] |
+| 23-28 | [[#PIEDS|Pieds]] |
 
 </td><td width="50%">
 

@@ -40,7 +40,23 @@ Certains ensorceleurs de [[sang sauvage (ensorceleur)|sang sauvage]] possèdent 
 distordue. Ce bonus persiste tant que la métamorphose affecte la cible.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Avantages de la métamorphose distordue</caption><tr CLASS="titre"><td>D12</td><td>Effet</td></tr><tr CLASS="premier"><td>1</td><td>double articulation : +2 aux tests d’[[Évasion]]</td></tr><tr><td>2</td><td>doigts palmés : +2 aux tests de [[Natation]]</td></tr><tr><td>3</td><td>poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]]</td></tr><tr><td>4</td><td>œil d’insecte : +2 aux tests de [[Perception]]</td></tr><tr><td>5</td><td>camouflage : +2 aux tests de [[Discrétion]]</td></tr><tr><td>6</td><td>peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]]</td></tr><tr><td>7</td><td>robuste : +1 aux jets de [[Vigueur]]</td></tr><tr><td>8</td><td>vif : +1 aux jets de [[Réflexes]]</td></tr><tr><td>9</td><td>astucieux : +1 aux jets de [[Volonté]]</td></tr><tr><td>10</td><td>rapide : +1,50 mètre de déplacement</td></tr><tr><td>11</td><td>vicieux : +1 aux [[jet dattaque|jets d’attaque]] au corps à corps</td></tr><tr><td>12</td><td>œil de faucon : +1 aux jets d’[[attaque à distance]]</td></tr></table>
+<p class="tablo-caption">Avantages de la métamorphose distordue</p>
+
+{.tablo .centre .autoalt .toutgauche}
+| D12 | Effet |
+| --- | --- |
+| 1 | double articulation : +2 aux tests d’[[Évasion]] |
+| 2 | doigts palmés : +2 aux tests de [[Natation]] |
+| 3 | poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]] |
+| 4 | œil d’insecte : +2 aux tests de [[Perception]] |
+| 5 | camouflage : +2 aux tests de [[Discrétion]] |
+| 6 | peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]] |
+| 7 | robuste : +1 aux jets de [[Vigueur]] |
+| 8 | vif : +1 aux jets de [[Réflexes]] |
+| 9 | astucieux : +1 aux jets de [[Volonté]] |
+| 10 | rapide : +1,50 mètre de déplacement |
+| 11 | vicieux : +1 aux [[jet dattaque|jets d’attaque]] au corps à corps |
+| 12 | œil de faucon : +1 aux jets d’[[attaque à distance]] |
 
 
 ### Pouvoirs de lignage

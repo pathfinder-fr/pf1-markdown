@@ -34,7 +34,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon d'or</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon dor|Jeune dragon d'or]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon dor adulte|Dragon d'or adulte]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Dragon dor vénérable|Dragon d'or vénérable]]</td><td>&nbsp;</td><td>20</td></tr></table>
+<p class="tablo-caption">Variantes de dragon d'or</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon dor|Jeune dragon d'or]] | &nbsp; | 11 |
+| [[Dragon dor adulte|Dragon d'or adulte]] | &nbsp; | 15 |
+| [[Dragon dor vénérable|Dragon d'or vénérable]] | &nbsp; | 20 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Des écailles dorées recouvrent le corps de ce majestueux dragon au regard sage et perçant dont la tête est ornée d’une couronne de cornes.*
 

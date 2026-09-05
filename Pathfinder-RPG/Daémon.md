@@ -7,7 +7,33 @@ LastModified: 2025-01-15 18:51
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux daémons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Astradaémon]]</td><td>16</td></tr><tr><td>[[Cacodaémon]]</td><td>2</td></tr><tr><td>[[Ceustodaémon]]</td><td>6</td></tr><tr><td>[[Crucidaémon]]</td><td>15</td></tr><tr><td>[[Derghodaémon]]</td><td>12</td></tr><tr><td>[[Érodaémon]]</td><td>11</td></tr><tr><td>[[Genthodaémon]]</td><td>5</td></tr><tr><td>[[Hydrodaémon]]</td><td>8</td></tr><tr><td>[[Lacridaémon]]</td><td>3</td></tr><tr><td>[[Leukodaémon]]</td><td>9</td></tr><tr><td>[[Méladaémon]]</td><td>11</td></tr><tr><td>[[Obcisidaémon]]</td><td>19</td></tr><tr><td>[[Oléthrodaémon]]</td><td>20</td></tr><tr><td>[[Phasmadaémon]]</td><td>17</td></tr><tr><td>[[Piscodaémon]]</td><td>10</td></tr><tr><td>[[Purrodaémon]]</td><td>18</td></tr><tr><td>[[Sanguidaémon]]</td><td>9</td></tr><tr><td>[[Suspiridaémon]]</td><td>7</td></tr><tr><td>[[Témerdaémon]]</td><td>14</td></tr><tr><td>[[Thanadaémon]]</td><td>13</td></tr><tr><td>[[Vénédaémon]]</td><td>5</td></tr><tr><td>[[Vulnudaémon]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Les principaux daémons</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Astradaémon]] | 16 |
+| [[Cacodaémon]] | 2 |
+| [[Ceustodaémon]] | 6 |
+| [[Crucidaémon]] | 15 |
+| [[Derghodaémon]] | 12 |
+| [[Érodaémon]] | 11 |
+| [[Genthodaémon]] | 5 |
+| [[Hydrodaémon]] | 8 |
+| [[Lacridaémon]] | 3 |
+| [[Leukodaémon]] | 9 |
+| [[Méladaémon]] | 11 |
+| [[Obcisidaémon]] | 19 |
+| [[Oléthrodaémon]] | 20 |
+| [[Phasmadaémon]] | 17 |
+| [[Piscodaémon]] | 10 |
+| [[Purrodaémon]] | 18 |
+| [[Sanguidaémon]] | 9 |
+| [[Suspiridaémon]] | 7 |
+| [[Témerdaémon]] | 14 |
+| [[Thanadaémon]] | 13 |
+| [[Vénédaémon]] | 5 |
+| [[Vulnudaémon]] | 4 |
 
 </div></div><div class="description">*Source : Bestiaire 2, p.72.*</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*

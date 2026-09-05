@@ -42,7 +42,15 @@ de la Constitution.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de mille-pattes</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Mille-pattes à queue fouettante]]</td><td>3</td></tr><tr><td>[[Mille-pattes géant]]</td><td>1/2</td></tr><tr><td>[[Mille-pattes titanesque]]</td><td>9</td></tr><tr><td>[[Nuée de mille-pattes]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Variantes de mille-pattes</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Mille-pattes à queue fouettante]] | 3 |
+| [[Mille-pattes géant]] | 1/2 |
+| [[Mille-pattes titanesque]] | 9 |
+| [[Nuée de mille-pattes]] | 4 |
 
 </div>*Ce mille-pattes gigantesques avance à toute vitesse tout en fouettant l’air violemment à l’aide de sa queue dédoublée.*
 

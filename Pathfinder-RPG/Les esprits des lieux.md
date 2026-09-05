@@ -138,7 +138,20 @@ bonté restaurent leurs points de vie et les protègent contre
 cette corruption.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>Acte</td><td>Effet</td></tr><tr CLASS="premier"><td>Commettre un acte violent</td><td>pv réduits de 1</td></tr><tr><td>Commettre un meurtre</td><td>pv réduits de 1 par tranche de 3 DV de la victime (1 pv au minimum)</td></tr><tr><td>Lancer animation des morts</td><td>pv réduits de 1 par mort-vivant créé</td></tr><tr><td>Lancer création de mort-vivant ou création de mort-vivant dominant</td><td>pv réduits de 1 par niveau de sort lancé</td></tr><tr><td>Convocation d’un extérieur Mauvais</td><td>pv réduits de 1 par extérieur Mauvais invoqué</td></tr><tr><td>Appel d’un extérieur Mauvais</td><td>pv réduits de 1 par niveau du sort lancé</td></tr><tr><td>Lancer profanation</td><td>pv réduits de 2</td></tr><tr><td>Lancer sanctification maléfique</td><td>pv réduits de 4</td></tr><tr><td>Cérémonie de l’esprit des lieux réussie</td><td>Restaure 2 pv</td></tr><tr><td>Lancer consécration</td><td>Restaure 2 pv (au maximum une fois/jour)</td></tr><tr><td>Lancer sanctification</td><td>Restaure 4 pv</td></tr></table>
+{.tablo .centre .autoalt .toutgauche}
+| Acte | Effet |
+| --- | --- |
+| Commettre un acte violent | pv réduits de 1 |
+| Commettre un meurtre | pv réduits de 1 par tranche de 3 DV de la victime (1 pv au minimum) |
+| Lancer animation des morts | pv réduits de 1 par mort-vivant créé |
+| Lancer création de mort-vivant ou création de mort-vivant dominant | pv réduits de 1 par niveau de sort lancé |
+| Convocation d’un extérieur Mauvais | pv réduits de 1 par extérieur Mauvais invoqué |
+| Appel d’un extérieur Mauvais | pv réduits de 1 par niveau du sort lancé |
+| Lancer profanation | pv réduits de 2 |
+| Lancer sanctification maléfique | pv réduits de 4 |
+| Cérémonie de l’esprit des lieux réussie | Restaure 2 pv |
+| Lancer consécration | Restaure 2 pv (au maximum une fois/jour) |
+| Lancer sanctification | Restaure 4 pv |
 
 
 Si un esprit des lieux tombe à 0 point de vie, il est corrompu

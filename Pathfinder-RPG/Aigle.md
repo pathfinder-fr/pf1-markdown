@@ -34,7 +34,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'aigle</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Aigle]]</td><td>1/2</td></tr><tr><td>[[Aigle géant]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes d'aigle</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Aigle]] | 1/2 |
+| [[Aigle géant]] | 3 |
 
 </div>''Ce magnifique oiseau de proie est couvert de plumes sombres sauf au
 sommet de la tête, où elles sont d’une blancheur éclatante.''

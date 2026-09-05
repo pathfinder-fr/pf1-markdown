@@ -272,7 +272,18 @@ La suite me sert juste a avoir des tableaux avec seulement les objets sans empla
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
 
-<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Ardoise spirituelle]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[Pierres de lithomancie]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[Manuel dorigamis animaux|Manuel d'origamis animaux]]*</td><td>13 500 po</td></tr><tr><td>—</td><td>*[[Fer à cheval porte-bonheur]] (collectif)*</td><td>15 000 po</td></tr><tr><td>—</td><td>*[[Poupée ganji]]*</td><td>16 000 po</td></tr><tr><td>—</td><td>*[[Miroir aux esprits]]*</td><td>18 900 po</td></tr><tr><td>—</td><td>*[[Ouija magique]]*</td><td>20 000 po</td></tr></table>
+<p class="tablo-caption">Objets merveilleux de puissance intermédiaire</p>
+
+{.tablo .centre .autoalt}
+| 1d100 | Objet | Prix de vente |
+| --- | --- | --- |
+| — | *[[Ardoise spirituelle]]* | 12 000 po |
+| — | *[[Pierres de lithomancie]]* | 12 000 po |
+| — | *[[Manuel dorigamis animaux|Manuel d'origamis animaux]]* | 13 500 po |
+| — | *[[Fer à cheval porte-bonheur]] (collectif)* | 15 000 po |
+| — | *[[Poupée ganji]]* | 16 000 po |
+| — | *[[Miroir aux esprits]]* | 18 900 po |
+| — | *[[Ouija magique]]* | 20 000 po |
 
 </center>
 </td></tr></table>
@@ -280,7 +291,16 @@ La suite me sert juste a avoir des tableaux avec seulement les objets sans empla
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
 
-<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Miroir de capture des âmes]]*</td><td>33 000 po</td></tr><tr><td>—</td><td>*[[Poupée ganji]] (supérieure)*</td><td>36 000 po</td></tr><tr><td>—</td><td>*[[Accumulateur dorgone|Accumulateur d'orgone]]*</td><td>48 000 po</td></tr><tr><td>—</td><td>*[[Chaloupe volante]]*</td><td>80 000 po</td></tr><tr><td>—</td><td>*[[Skiff volant]]*</td><td>180 000 po</td></tr></table>
+<p class="tablo-caption">Objets merveilleux de grande puissance</p>
+
+{.tablo .centre .autoalt}
+| 1d100 | Objet | Prix de vente |
+| --- | --- | --- |
+| — | *[[Miroir de capture des âmes]]* | 33 000 po |
+| — | *[[Poupée ganji]] (supérieure)* | 36 000 po |
+| — | *[[Accumulateur dorgone|Accumulateur d'orgone]]* | 48 000 po |
+| — | *[[Chaloupe volante]]* | 80 000 po |
+| — | *[[Skiff volant]]* | 180 000 po |
 
 </center>
 </td></tr></table>

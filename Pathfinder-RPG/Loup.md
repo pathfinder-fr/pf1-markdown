@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de loup</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Loup]]</td><td>1</td></tr><tr><td>[[Loup sanguinaire]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de loup</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Loup]] | 1 |
+| [[Loup sanguinaire]] | 3 |
 
 </div>*Ce puissant canidé observe sa proie de ses yeux jaunes et perçants alors que sa langue va et vient entre ses dents blanches et acérées.*
 

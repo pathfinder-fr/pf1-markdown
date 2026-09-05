@@ -9,8 +9,25 @@ Categories:
 {s:MenuClasses}<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Représentations bardiques par   
-niveau de barde minimal</caption><tr CLASS="titre"><td>Représentation bardique</td><td>Niveau minimal</td></tr><tr CLASS="premier"><td>[[Représentations#CONTRE-CHANT|Contre-chant]]</td><td>1</td></tr><tr><td>[[Représentations#DISTRACTION|Distraction]]</td><td>1</td></tr><tr><td>[[Représentations#FASCINATION|Fascination]]</td><td>1</td></tr><tr><td>[[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]]</td><td>1</td></tr><tr><td>[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]]</td><td>3</td></tr><tr><td>[[Représentations#SUGGESTION|Suggestion]]</td><td>6</td></tr><tr><td>[[Représentations#CHANTFUNESTE|Chant funeste]]</td><td>8</td></tr><tr><td>[[Représentations#INSPIRATIONGLORIEUSE|Inspiration glorieuse]]</td><td>9</td></tr><tr><td>[[Représentations#REPRESENTATIONAPAISANTE|Représentation apaisante]]</td><td>12</td></tr><tr><td>[[Représentations#MELODIEEFFRAYANTE|Mélodie effrayante]]</td><td>14</td></tr><tr><td>[[Représentations#INSPIRATIONHEROIQUE|Inspiration héroïque]]</td><td>15</td></tr><tr><td>[[Représentations#SUGGESTIONDEGROUPE|Suggestion de groupe]]</td><td>18</td></tr><tr><td>[[Représentations#REPRESENTATIONMORTELLE|Représentation mortelle]]</td><td>20</td></tr></table>
+<p class="tablo-caption">Représentations bardiques par   
+niveau de barde minimal</p>
+
+{.tablo .centre .autoalt}
+| Représentation bardique | Niveau minimal |
+| --- | --- |
+| [[Représentations#CONTRE-CHANT|Contre-chant]] | 1 |
+| [[Représentations#DISTRACTION|Distraction]] | 1 |
+| [[Représentations#FASCINATION|Fascination]] | 1 |
+| [[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] | 1 |
+| [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] | 3 |
+| [[Représentations#SUGGESTION|Suggestion]] | 6 |
+| [[Représentations#CHANTFUNESTE|Chant funeste]] | 8 |
+| [[Représentations#INSPIRATIONGLORIEUSE|Inspiration glorieuse]] | 9 |
+| [[Représentations#REPRESENTATIONAPAISANTE|Représentation apaisante]] | 12 |
+| [[Représentations#MELODIEEFFRAYANTE|Mélodie effrayante]] | 14 |
+| [[Représentations#INSPIRATIONHEROIQUE|Inspiration héroïque]] | 15 |
+| [[Représentations#SUGGESTIONDEGROUPE|Suggestion de groupe]] | 18 |
+| [[Représentations#REPRESENTATIONMORTELLE|Représentation mortelle]] | 20 |
 
 </div></div>Un [[barde]] peut utiliser la compétence [[Représentation]] pour créer des effets magiques affectant ceux qui sont proches de lui, y compris lui-même s’il le désire. Chaque jour, il peut utiliser cette capacité pendant un nombre de rounds égal à 4 + son modificateur de [[Charisme]]. Ce nombre augmente de +2 à chaque niveau de barde après le premier. Au fil des niveaux, le barde apprend à produire différents effets. Chaque round, il peut choisir celui qu’il désire utiliser.
 

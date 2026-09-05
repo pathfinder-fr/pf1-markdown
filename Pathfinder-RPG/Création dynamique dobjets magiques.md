@@ -104,7 +104,33 @@ Le personnage apporte les touches finales à l’objet.
 Le [[MJ]] doit effectuer un jet et consulter la table ci-dessous pour déterminer les défis auxquels les [[PJ]] sont confrontés lors de la fabrication de l’objet. Sinon, il peut choisir un défi particulier en fonction des circonstances de la campagne.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Défi</td></tr><tr CLASS="premier"><td>01-04</td><td>[[Création dynamique dobjets magiques#Mutation aberrante|Mutation aberrante]]</td></tr><tr><td>05-08</td><td>[[Création dynamique dobjets magiques#Construction difficile|Construction difficile]]</td></tr><tr><td>09-12</td><td>[[Création dynamique dobjets magiques#Instructions contradictoires|Instructions contradictoires]]</td></tr><tr><td>13-16</td><td>[[Création dynamique dobjets magiques#Références croisées cryptiques|Références croisées cryptiques]]</td></tr><tr><td>17-20</td><td>[[Création dynamique dobjets magiques#Visiteur impromptu|Visiteur impromptu]]</td></tr><tr><td>21-24</td><td>[[Création dynamique dobjets magiques#Exigence émotionnelle|Exigence émotionnelle]]</td></tr><tr><td>25-28</td><td>[[Création dynamique dobjets magiques#Surcharge d'énergie|Surcharge d’énergie]]</td></tr><tr><td>29-32</td><td>[[Création dynamique dobjets magiques#Offre alléchante|Offre alléchante]]</td></tr><tr><td>33-36</td><td>[[Création dynamique dobjets magiques#Composantes fragiles|Composantes fragiles]]</td></tr><tr><td>37-40</td><td>[[Création dynamique dobjets magiques#Obstacle historique|Obstacle historique]]</td></tr><tr><td>41-44</td><td>[[Création dynamique dobjets magiques#Ingrédients illégaux|Ingrédients illégaux]]</td></tr><tr><td>45-48</td><td>[[Création dynamique dobjets magiques#Ingrédients infestés|Ingrédients infestés]]</td></tr><tr><td>49-52</td><td>[[Création dynamique dobjets magiques#Ingrédients quasi-conscients|Ingrédients quasi-conscients]]</td></tr><tr><td>53-56</td><td>[[Création dynamique dobjets magiques#Esprit intrusif|Esprit intrusif]]</td></tr><tr><td>57-60</td><td>[[Création dynamique dobjets magiques#Convergence de lignes telluriques|Convergence de lignes telluriques]]</td></tr><tr><td>61-64</td><td>[[Création dynamique dobjets magiques#Résonance magique|Résonance magique]]</td></tr><tr><td>65-68</td><td>[[Création dynamique dobjets magiques#Singularité planaire|Singularité planaire]]</td></tr><tr><td>69-72</td><td>[[Création dynamique dobjets magiques#Référence rare|Référence rare]]</td></tr><tr><td>73-76</td><td>[[Création dynamique dobjets magiques#Pénurie de réactif|Pénurie de réactif]]</td></tr><tr><td>77-80</td><td>[[Création dynamique dobjets magiques#Prérequis royal|Prérequis royal]]</td></tr><tr><td>81-84</td><td>[[Création dynamique dobjets magiques#Élucidation sesquipédalienne|Élucidation sesquipédalienne]]</td></tr><tr><td>85-88</td><td>[[Création dynamique dobjets magiques#Défaut structurel|Défaut structurel]]</td></tr><tr><td>89-92</td><td>[[Création dynamique dobjets magiques#Inspiration soudaine|Inspiration soudaine]]</td></tr><tr><td>93-100</td><td>[[Création dynamique dobjets magiques#DEFISDECLASSE|Défi de classe]]</td></tr></table>
+{.tablo .centre .autoalt}
+| d100 | Défi |
+| --- | --- |
+| 01-04 | [[Création dynamique dobjets magiques#Mutation aberrante|Mutation aberrante]] |
+| 05-08 | [[Création dynamique dobjets magiques#Construction difficile|Construction difficile]] |
+| 09-12 | [[Création dynamique dobjets magiques#Instructions contradictoires|Instructions contradictoires]] |
+| 13-16 | [[Création dynamique dobjets magiques#Références croisées cryptiques|Références croisées cryptiques]] |
+| 17-20 | [[Création dynamique dobjets magiques#Visiteur impromptu|Visiteur impromptu]] |
+| 21-24 | [[Création dynamique dobjets magiques#Exigence émotionnelle|Exigence émotionnelle]] |
+| 25-28 | [[Création dynamique dobjets magiques#Surcharge d'énergie|Surcharge d’énergie]] |
+| 29-32 | [[Création dynamique dobjets magiques#Offre alléchante|Offre alléchante]] |
+| 33-36 | [[Création dynamique dobjets magiques#Composantes fragiles|Composantes fragiles]] |
+| 37-40 | [[Création dynamique dobjets magiques#Obstacle historique|Obstacle historique]] |
+| 41-44 | [[Création dynamique dobjets magiques#Ingrédients illégaux|Ingrédients illégaux]] |
+| 45-48 | [[Création dynamique dobjets magiques#Ingrédients infestés|Ingrédients infestés]] |
+| 49-52 | [[Création dynamique dobjets magiques#Ingrédients quasi-conscients|Ingrédients quasi-conscients]] |
+| 53-56 | [[Création dynamique dobjets magiques#Esprit intrusif|Esprit intrusif]] |
+| 57-60 | [[Création dynamique dobjets magiques#Convergence de lignes telluriques|Convergence de lignes telluriques]] |
+| 61-64 | [[Création dynamique dobjets magiques#Résonance magique|Résonance magique]] |
+| 65-68 | [[Création dynamique dobjets magiques#Singularité planaire|Singularité planaire]] |
+| 69-72 | [[Création dynamique dobjets magiques#Référence rare|Référence rare]] |
+| 73-76 | [[Création dynamique dobjets magiques#Pénurie de réactif|Pénurie de réactif]] |
+| 77-80 | [[Création dynamique dobjets magiques#Prérequis royal|Prérequis royal]] |
+| 81-84 | [[Création dynamique dobjets magiques#Élucidation sesquipédalienne|Élucidation sesquipédalienne]] |
+| 85-88 | [[Création dynamique dobjets magiques#Défaut structurel|Défaut structurel]] |
+| 89-92 | [[Création dynamique dobjets magiques#Inspiration soudaine|Inspiration soudaine]] |
+| 93-100 | [[Création dynamique dobjets magiques#DEFISDECLASSE|Défi de classe]] |
 
 
 <table width="100%"><tr><td width="49%">

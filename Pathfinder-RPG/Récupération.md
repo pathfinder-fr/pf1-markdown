@@ -20,7 +20,16 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>Durée</td></tr><tr CLASS="premier"><td>Radeau</td><td>1 minute</td></tr><tr><td>Chaloupe</td><td>1 minute</td></tr><tr><td>Quillard</td><td>10 minutes</td></tr><tr><td>Drakkar</td><td>1 heure</td></tr><tr><td>Bateau à voiles</td><td>2 heures</td></tr><tr><td>Bateau de guerre</td><td>3 heures</td></tr><tr><td>Galion</td><td>4 heures</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| Taille | Durée |
+| --- | --- |
+| Radeau | 1 minute |
+| Chaloupe | 1 minute |
+| Quillard | 10 minutes |
+| Drakkar | 1 heure |
+| Bateau à voiles | 2 heures |
+| Bateau de guerre | 3 heures |
+| Galion | 4 heures |
 
 </div></div>Une force invisible rassemble les restes d’une épave. Les morceaux de coque, les voiles déchirées, les mâts brisés et les figures de proue détruites se ressoudent pour reconstruire le navire d’origine. Le bois pourri redevient solide et les voiles redeviennent intactes alors que les cordages du gréement ondulent autour des mâts pour reprendre leur position d’origine.
 

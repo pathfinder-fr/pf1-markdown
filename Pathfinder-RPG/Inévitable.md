@@ -10,7 +10,16 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux inévitables</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Arbitre]]</td><td>2</td></tr><tr><td>[[Kolyarut]]</td><td>12</td></tr><tr><td>[[Lhaksharut]]</td><td>20</td></tr><tr><td>[[Marut]]</td><td>15</td></tr><tr><td>[[Zélékhut]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Les principaux inévitables</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Arbitre]] | 2 |
+| [[Kolyarut]] | 12 |
+| [[Lhaksharut]] | 20 |
+| [[Marut]] | 15 |
+| [[Zélékhut]] | 9 |
 
 </div></div><div class="description">**Source :** Bestiaire 2 p.171.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type inévitable|inévitable]], [[sous-type Loi|Loi]]).*

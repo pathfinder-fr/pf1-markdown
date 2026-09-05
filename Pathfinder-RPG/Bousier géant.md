@@ -38,7 +38,13 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de bousier</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bousier géant]]</td><td>6</td></tr><tr><td>[[Nuée de bousiers]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de bousier</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Bousier géant]] | 6 |
+| [[Nuée de bousiers]] | 3 |
 
 </div>*Ce scarabée brillant est aussi gros qu’une vache. Sa solide carapace d’un noir bleuté est pleine de poussière et de crottin.*
 

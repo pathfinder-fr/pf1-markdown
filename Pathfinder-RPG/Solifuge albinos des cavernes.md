@@ -36,7 +36,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de solifuge</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Solifuge albinos des cavernes]]</td><td>4</td></tr><tr><td>[[Solifuge géant]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes de solifuge</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Solifuge albinos des cavernes]] | 4 |
+| [[Solifuge géant]] | 1 |
 
 </div>*Les pattes avant de cette espèce d’araignée se terminent par d’immenses pinces préhensiles. Sa gueule comporte une paire de mandibules verticales gigantesques.*
 

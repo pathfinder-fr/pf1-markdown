@@ -46,7 +46,20 @@ Chaque armée est décrite selon un format standard. Dans les pages suivantes, n
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les tailles des armées</caption><tr CLASS="titre"><td>Taille de l’armée</td><td>Nbre d’unités</td><td>FPA</td></tr><tr CLASS="premier"><td>Infime</td><td>1</td><td>FP d’une créature individuelle –8</td></tr><tr><td>Minuscule</td><td>10</td><td>FP d’une créature individuelle –6</td></tr><tr><td>Très petite</td><td>25</td><td>FP d’une créature individuelle –4</td></tr><tr><td>Petite</td><td>50</td><td>FP d’une créature individuelle –2</td></tr><tr><td>Moyenne</td><td>100</td><td>FP d’une créature individuelle</td></tr><tr><td>Grande</td><td>200</td><td>FP d’une créature individuelle +2</td></tr><tr><td>Très grande</td><td>500</td><td>FP d’une créature individuelle +4</td></tr><tr><td>Gigantesque</td><td>1 000</td><td>FP d’une créature individuelle +6</td></tr><tr><td>Colossale</td><td>2 000</td><td>FP d’une créature individuelle +8</td></tr></table>
+<p class="tablo-caption">Les tailles des armées</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| Taille de l’armée | Nbre d’unités | FPA |
+| --- | --- | --- |
+| Infime | 1 | FP d’une créature individuelle –8 |
+| Minuscule | 10 | FP d’une créature individuelle –6 |
+| Très petite | 25 | FP d’une créature individuelle –4 |
+| Petite | 50 | FP d’une créature individuelle –2 |
+| Moyenne | 100 | FP d’une créature individuelle |
+| Grande | 200 | FP d’une créature individuelle +2 |
+| Très grande | 500 | FP d’une créature individuelle +4 |
+| Gigantesque | 1 000 | FP d’une créature individuelle +6 |
+| Colossale | 2 000 | FP d’une créature individuelle +8 |
 
 </div></div>{s:Reference|TAILLE}**Taille.** La taille de l’armée détermine le nombre d’unités individuelles qu’elle comprend mais aussi son [[Combat de masse#FPA|FPA]].
 

@@ -30,4 +30,15 @@ Voir les [[Engins de siège|règles relatives aux engins de siège]], ainsi que 
 
 ### Les munitions d'engins de siège
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les munitions spéciales pour engin de siège</caption><tr CLASS="titre"><td>Munition</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Descriptions individuelles des engins de siège#Ballotpestiféré|Ballot pestiféré]]</td><td>80 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Bombe|Bombe]]</td><td>600 po</td><td>15 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Feugrégeois|Feu grégeois]]</td><td>200 po</td><td>5 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Fumée|Fumée]]</td><td>250 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Glaceliquide|Glace liquide]]</td><td>400 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Tirdechaîne|Tir de chaîne]]</td><td>50 po</td><td>15 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Tirdeferaille|Tir de ferraille]]</td><td>30 po</td><td>12,5 kg</td></tr></table>
+<p class="tablo-caption">Les munitions spéciales pour engin de siège</p>
+
+{.tablo .centre .toutgauche .autoalt}
+| Munition | Prix | Poids |
+| --- | --- | --- |
+| [[Descriptions individuelles des engins de siège#Ballotpestiféré|Ballot pestiféré]] | 80 po | 10 kg |
+| [[Descriptions individuelles des engins de siège#Bombe|Bombe]] | 600 po | 15 kg |
+| [[Descriptions individuelles des engins de siège#Feugrégeois|Feu grégeois]] | 200 po | 5 kg |
+| [[Descriptions individuelles des engins de siège#Fumée|Fumée]] | 250 po | 10 kg |
+| [[Descriptions individuelles des engins de siège#Glaceliquide|Glace liquide]] | 400 po | 10 kg |
+| [[Descriptions individuelles des engins de siège#Tirdechaîne|Tir de chaîne]] | 50 po | 15 kg |
+| [[Descriptions individuelles des engins de siège#Tirdeferaille|Tir de ferraille]] | 30 po | 12,5 kg |

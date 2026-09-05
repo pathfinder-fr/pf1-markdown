@@ -7,7 +7,20 @@ LastModified: 2021-04-25 00:06
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux kytons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[monstre augure|Augure]]</td><td>2</td></tr><tr><td>[[Éphialtès]]</td><td>16</td></tr><tr><td>[[Ermite]]</td><td>20</td></tr><tr><td>[[Kyton|Évangéliste]]</td><td>6</td></tr><tr><td>[[Interlocuteur]]</td><td>12</td></tr><tr><td>[[Libitinarii]]</td><td>13</td></tr><tr><td>[[Mégère]]</td><td>17</td></tr><tr><td>[[Ostiarius]]</td><td>5</td></tr><tr><td>[[Sacristain]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Les principaux kytons</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[monstre augure|Augure]] | 2 |
+| [[Éphialtès]] | 16 |
+| [[Ermite]] | 20 |
+| [[Kyton|Évangéliste]] | 6 |
+| [[Interlocuteur]] | 12 |
+| [[Libitinarii]] | 13 |
+| [[Mégère]] | 17 |
+| [[Ostiarius]] | 5 |
+| [[Sacristain]] | 10 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.167.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]).*

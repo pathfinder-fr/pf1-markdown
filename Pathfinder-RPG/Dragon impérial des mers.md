@@ -32,7 +32,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon des mers</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des mers]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon des mers adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon des mers vénérable]]</td><td>&nbsp;</td><td>17</td></tr></table>
+<p class="tablo-caption">Variantes de dragon des mers</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Jeune dragon des mers]] | &nbsp; | 8 |
+| [[Dragon des mers adulte]] | &nbsp; | 12 |
+| [[Dragon des mers vénérable]] | &nbsp; | 17 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Le long corps de ce dragon serpentin ploie et ondule, et ses écailles ont la
 même couleur que les vagues de l’océan.''

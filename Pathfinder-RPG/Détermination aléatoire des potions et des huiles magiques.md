@@ -23,7 +23,18 @@ Categories:
 ### Potions et huiles magiques par niveau de sort
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Potions et huiles de niveau 0</caption><tr CLASS="titre"><td>D100</td><td>Potion ou huile commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-14</td><td>*[[signature magique]]*</td><td>25</td></tr><tr><td>15-28</td><td>*[[assistance divine]]*</td><td>25</td></tr><tr><td>29-44</td><td>*[[lumière]]*</td><td>25</td></tr><tr><td>45-58</td><td>*[[purification de nourriture et deau|purification de nourriture et d’eau]]*</td><td>25</td></tr><tr><td>59-72</td><td>*[[résistance]]*</td><td>25</td></tr><tr><td>73-86</td><td>*[[stabilisation]]*</td><td>25</td></tr><tr><td>87-100</td><td>*[[stimulant]]*</td><td>25</td></tr></table>
+<p class="tablo-caption">Potions et huiles de niveau 0</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Potion ou huile commune | Prix(po) |
+| --- | --- | --- |
+| 01-14 | *[[signature magique]]* | 25 |
+| 15-28 | *[[assistance divine]]* | 25 |
+| 29-44 | *[[lumière]]* | 25 |
+| 45-58 | *[[purification de nourriture et deau|purification de nourriture et d’eau]]* | 25 |
+| 59-72 | *[[résistance]]* | 25 |
+| 73-86 | *[[stabilisation]]* | 25 |
+| 87-100 | *[[stimulant]]* | 25 |
 
 
 
@@ -31,7 +42,27 @@ Categories:
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Potions et huiles de niveau 2</caption><tr CLASS="titre"><td>D100</td><td>Potion ou huile commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-04</td><td>*[[aide]]*</td><td>300</td></tr><tr><td>05-07</td><td>*[[arme alignée]]*</td><td>300</td></tr><tr><td>08-11</td><td>*[[peau décorce|peau d’écorce]]*</td><td>300</td></tr><tr><td>12-16</td><td>*[[endurance de lours|endurance de l’ours]]*</td><td>300</td></tr><tr><td>17-20</td><td>*[[flou]]*</td><td>300</td></tr><tr><td>21-25</td><td>*[[force de taureau]]*</td><td>300</td></tr><tr><td>26-30</td><td>*[[grâce féline]]*</td><td>300</td></tr><tr><td>31-37</td><td>*[[soins modérés]]*</td><td>300</td></tr><tr><td>38-41</td><td>*[[vision dans le noir]]*</td><td>300</td></tr><tr><td>42-44</td><td>*[[ralentissement du poison]]*</td><td>300</td></tr><tr><td>45-49</td><td>*[[splendeur de laigle|splendeur de l’aigle]]*</td><td>300</td></tr><tr><td>50-54</td><td>*[[ruse du renard]]*</td><td>300</td></tr><tr><td>55-61</td><td>*[[invisibilité]]*</td><td>300</td></tr><tr><td>62-66</td><td>*[[lévitation]]*</td><td>300</td></tr><tr><td>67-71</td><td>*[[sagesse du hibou]]*</td><td>300</td></tr><tr><td>72-73</td><td>*[[protection contre les projectiles]]*</td><td>300</td></tr></table>
+<p class="tablo-caption">Potions et huiles de niveau 2</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Potion ou huile commune | Prix(po) |
+| --- | --- | --- |
+| 01-04 | *[[aide]]* | 300 |
+| 05-07 | *[[arme alignée]]* | 300 |
+| 08-11 | *[[peau décorce|peau d’écorce]]* | 300 |
+| 12-16 | *[[endurance de lours|endurance de l’ours]]* | 300 |
+| 17-20 | *[[flou]]* | 300 |
+| 21-25 | *[[force de taureau]]* | 300 |
+| 26-30 | *[[grâce féline]]* | 300 |
+| 31-37 | *[[soins modérés]]* | 300 |
+| 38-41 | *[[vision dans le noir]]* | 300 |
+| 42-44 | *[[ralentissement du poison]]* | 300 |
+| 45-49 | *[[splendeur de laigle|splendeur de l’aigle]]* | 300 |
+| 50-54 | *[[ruse du renard]]* | 300 |
+| 55-61 | *[[invisibilité]]* | 300 |
+| 62-66 | *[[lévitation]]* | 300 |
+| 67-71 | *[[sagesse du hibou]]* | 300 |
+| 72-73 | *[[protection contre les projectiles]]* | 300 |
 
 </td><td width="50%">
 

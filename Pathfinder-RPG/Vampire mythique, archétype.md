@@ -40,7 +40,20 @@ Cela sera corrigé dans la prochaine impression de *Campagnes mythiques*.}
 Le vampire mythique entretient des liens avec les tout premiers de sa race. Soit il est lui-même une de ces antiques créatures, soit il est un de leurs premiers rejetons.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Aptitudes du vampire mythique</caption><tr CLASS="titre"><td>FP du vampire de base</td><td>Rang mythique</td><td>Aptitudes mythiques</td></tr><tr CLASS="premier"><td>4-5</td><td>2</td><td>Concentration d’énergie négative, triompher de ses faiblesses (lumière du soleil), griffes scabreuses</td></tr><tr><td>6-7</td><td>3</td><td>Résistance à la canalisation +8</td></tr><tr><td>8-9</td><td>4</td><td>Créatures de l’éclipse (goules ou ombres), triompher de ses faiblesses (ail)</td></tr><tr><td>10-11</td><td>5</td><td>Silhouettes de brume</td></tr><tr><td>12-13</td><td>6</td><td>Résistance à la canalisation +12, tête pensante, triompher de ses faiblesses (miroirs et symboles sacrés), télékinésie</td></tr><tr><td>14-15</td><td>7</td><td>Créatures de l’éclipse (âmes-en-peine ou mohrgs), vol</td></tr><tr><td>16-17</td><td>8</td><td>Création de rejetons mythiques, triompher de ses faiblesses (invitation)</td></tr><tr><td>18-19</td><td>9</td><td>Augures du sang, résistance à la canalisation +16</td></tr><tr><td>20 et plus</td><td>10</td><td>Éclipse, triompher de ses faiblesses (eau courante)</td></tr></table>
+<p class="tablo-caption">Aptitudes du vampire mythique</p>
+
+{.tablo .centre .autoalt .toutgauche}
+| FP du vampire de base | Rang mythique | Aptitudes mythiques |
+| --- | --- | --- |
+| 4-5 | 2 | Concentration d’énergie négative, triompher de ses faiblesses (lumière du soleil), griffes scabreuses |
+| 6-7 | 3 | Résistance à la canalisation +8 |
+| 8-9 | 4 | Créatures de l’éclipse (goules ou ombres), triompher de ses faiblesses (ail) |
+| 10-11 | 5 | Silhouettes de brume |
+| 12-13 | 6 | Résistance à la canalisation +12, tête pensante, triompher de ses faiblesses (miroirs et symboles sacrés), télékinésie |
+| 14-15 | 7 | Créatures de l’éclipse (âmes-en-peine ou mohrgs), vol |
+| 16-17 | 8 | Création de rejetons mythiques, triompher de ses faiblesses (invitation) |
+| 18-19 | 9 | Augures du sang, résistance à la canalisation +16 |
+| 20 et plus | 10 | Éclipse, triompher de ses faiblesses (eau courante) |
 
 </div>
 </td></tr></table>

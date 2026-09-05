@@ -37,7 +37,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'hydromètre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hydromètre géant]]</td><td>1</td></tr><tr><td>[[Nymphe dhydromètre|Nymphe d'hydromètre]]</td><td>1/4</td></tr></table>
+<p class="tablo-caption">Variantes d'hydromètre</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Hydromètre géant]] | 1 |
+| [[Nymphe dhydromètre|Nymphe d'hydromètre]] | 1/4 |
 
 </div>*Ces petits insectes aquatiques juvéniles marchent facilement sur l’eau.*
 

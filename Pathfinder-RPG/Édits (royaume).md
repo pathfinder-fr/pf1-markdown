@@ -16,7 +16,16 @@ Lors de la phase d’édits du tour de royaume, vous pouvez définir librement l
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre autoalt"><caption>Les édits de jours feries</caption><tr CLASS="titre"><td>Par an</td><td>Loyauté</td><td>Consommation</td></tr><tr CLASS="premier"><td>Aucun</td><td>-1</td><td>+0</td></tr><tr><td>1</td><td>+1</td><td>+1</td></tr><tr><td>6</td><td>+2</td><td>+2</td></tr><tr><td>12</td><td>+3</td><td>+4</td></tr><tr><td>24</td><td>+4</td><td>+8</td></tr></table>
+<p class="tablo-caption">Les édits de jours feries</p>
+
+{.tablo .centre .autoalt}
+| Par an | Loyauté | Consommation |
+| --- | --- | --- |
+| Aucun | -1 | +0 |
+| 1 | +1 | +1 |
+| 6 | +2 | +2 |
+| 12 | +3 | +4 |
+| 24 | +4 | +8 |
 
 </div></div>Les jours fériés sont des fêtes générales ou des observances que l’on respecte dans tout le royaume. La dépense en [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] comprend le manque de revenus dus aux citoyens qui ne travaillent pas lors des jours fériés, la préparation et la logistique que cela entraîne sur l’année et le coût de la fête en elle-même (ces dépenses annuelles sont réparties sur l’année et comprises dans le modificateur de [[Royaumes et guerre#CONSOMMATION|Consommation]] que vous payez chaque tour).
 
@@ -36,7 +45,16 @@ Ces améliorations sont des modifications physiques que vous pouvez apporter à 
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre autoalt"><caption>Les édits publicitaires</caption><tr CLASS="titre"><td>Nv de publicité</td><td>Stabilité</td><td>Consommation</td></tr><tr CLASS="premier"><td>Aucun</td><td>-1</td><td>+0</td></tr><tr><td>Discret</td><td>+1</td><td>+1</td></tr><tr><td>Normal</td><td>+2</td><td>+2</td></tr><tr><td>Agressif</td><td>+3</td><td>+4</td></tr><tr><td>Expansionniste</td><td>+4</td><td>+8</td></tr></table>
+<p class="tablo-caption">Les édits publicitaires</p>
+
+{.tablo .centre .autoalt}
+| Nv de publicité | Stabilité | Consommation |
+| --- | --- | --- |
+| Aucun | -1 | +0 |
+| Discret | +1 | +1 |
+| Normal | +2 | +2 |
+| Agressif | +3 | +4 |
+| Expansionniste | +4 | +8 |
 
 </div></div>Les édits publicitaires regroupent les actions et les évènements que le royaume utilise pour attirer de nouveaux citoyens et améliorer le bien-être des siens. Ce peut être une campagne de recrutement, des publicités pour des biens et des services ou de la propagande pour améliorer la perception que les gens ont de votre royaume, en son sein comme à l’étranger. Les édits publicitaires augmentent la [[Royaumes et guerre#CONSOMMATION|Consommation]] mais aussi la [[Royaumes et guerre#STABILITE|Stabilité]].
 
@@ -45,6 +63,15 @@ Ces améliorations sont des modifications physiques que vous pouvez apporter à 
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre autoalt"><caption>Les édits de taxation</caption><tr CLASS="titre"><td>Niveau de taxe</td><td>Économie</td><td>Loyauté</td></tr><tr CLASS="premier"><td>Aucun</td><td>+0</td><td>+1</td></tr><tr><td>Léger</td><td>+1</td><td>-1</td></tr><tr><td>Normal</td><td>+2</td><td>-2</td></tr><tr><td>Lourd</td><td>+3</td><td>-4</td></tr><tr><td>Écrasant</td><td>+4</td><td>-8</td></tr></table>
+<p class="tablo-caption">Les édits de taxation</p>
+
+{.tablo .centre .autoalt}
+| Niveau de taxe | Économie | Loyauté |
+| --- | --- | --- |
+| Aucun | +0 | +1 |
+| Léger | +1 | -1 |
+| Normal | +2 | -2 |
+| Lourd | +3 | -4 |
+| Écrasant | +4 | -8 |
 
 </div></div>Le niveau de taxation indique les fonds que vous récupérez grâce aux taxes lors de la [[Tour de royaume#PHASEDEREVENUS|phase de revenus]]. Plus les taxes sont importantes plus l’[[Royaumes et guerre#ECONOMIE|Économie]] de votre royaume est florissante (ce qui vous aide à réussir vos tests d’Économie pour générer des revenus) mais moins vos citoyens sont heureux (ce qui diminue leur [[Royaumes et guerre#LOYAUTE|Loyauté]]).

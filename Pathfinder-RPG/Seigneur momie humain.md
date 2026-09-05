@@ -51,7 +51,14 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de momie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Momie]]</td><td>5</td></tr><tr><td>[[Momie des marais]]</td><td>4</td></tr><tr><td>[[Seigneur momie humain]]</td><td>10</td></tr></table>
+<p class="tablo-caption">Variantes de momie</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Momie]] | 5 |
+| [[Momie des marais]] | 4 |
+| [[Seigneur momie humain]] | 10 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Seigneur momie, archétype|Seigneur momie]].***</li></ul>*Cette silhouette émaciée, d’apparence autrefois noble, est emmaillotée dans des bandelettes de lin sales de la tête aux pieds. Ses yeux brûlent d’un éclat impie.*
 

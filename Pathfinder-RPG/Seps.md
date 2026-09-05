@@ -41,7 +41,13 @@ LastModified: 2026-04-02 16:59
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de seps</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune seps]]</td><td>2</td></tr><tr><td>[[Seps]]</td><td>11</td></tr></table>
+<p class="tablo-caption">Variantes de seps</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Jeune seps]] | 2 |
+| [[Seps]] | 11 |
 
 </div>
 *Ce serpent géant à la carapace épaisse est doté de grands crocs suintant d’un venin qui chuinte au contact du sol.*

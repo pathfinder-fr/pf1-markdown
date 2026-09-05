@@ -43,7 +43,13 @@ volonté.
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes d'hippocampe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hippocampe géant]]</td><td>3</td></tr><tr><td>[[Hippocampe tueur]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes d'hippocampe</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Hippocampe géant]] | 3 |
+| [[Hippocampe tueur]] | 5 |
 
 </div>*Cette créature aquatique de la taille d’un éléphant ressemble au mélange d’un cheval et d’un poisson avec des yeux hagards et tournoyants.*
 

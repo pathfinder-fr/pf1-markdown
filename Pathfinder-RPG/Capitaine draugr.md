@@ -45,7 +45,14 @@ Categories:
 <td>
 <div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de pirate mort-vivant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Capitaine draugr]]</td><td>4</td></tr><tr><td>[[Capitaine fantôme]]</td><td>7</td></tr><tr><td>[[Pirate draugr]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de pirate mort-vivant</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Capitaine draugr]] | 4 |
+| [[Capitaine fantôme]] | 7 |
+| [[Pirate draugr]] | 3 |
 
 </div>
 La plupart des capitaines draugrs étaient déjà maîtres de leur navire de leur vivant mais il y a quelques exceptions, surtout parmi les individus de bas rang qui ont tiré un grand pouvoir de leur passage à l’état de mort-vivant. Le reste de l’équipage mort-vivant considère généralement un tel individu comme le capitaine de plein droit du navire fantôme à bord duquel ils parcourent les océans.

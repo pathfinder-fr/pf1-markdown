@@ -34,7 +34,14 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon des cauchemars</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des cauchemars]]</td><td>6</td></tr><tr><td>[[Dragon des cauchemars adulte]]</td><td>10</td></tr><tr><td>[[Dragon des cauchemars vénérable]]</td><td>15</td></tr></table>
+<p class="tablo-caption">Variantes de dragon des cauchemars</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Jeune dragon des cauchemars]] | 6 |
+| [[Dragon des cauchemars adulte]] | 10 |
+| [[Dragon des cauchemars vénérable]] | 15 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Ce dragon couleur d’ébène, agrémenté de touffes de poils rouges et affreusement crispé, semble traquer les ombres.*
 

@@ -37,7 +37,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de hyène</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hyène]]</td><td>1</td></tr><tr><td>[[Hyène sanguinaire]]</td><td>3</td></tr></table>
+<p class="tablo-caption">Variantes de hyène</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Hyène]] | 1 |
+| [[Hyène sanguinaire]] | 3 |
 
 </div>*Cette immense hyène possède une large tête, des yeux chassieux rouges et une gueule remplie de grandes dents acérées.*
 

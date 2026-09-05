@@ -38,7 +38,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de morse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Morse]]</td><td>3</td></tr><tr><td>[[Morse empereur]]</td><td>8</td></tr></table>
+<p class="tablo-caption">Variantes de morse</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Morse]] | 3 |
+| [[Morse empereur]] | 8 |
 
 </div>''Deux longues défenses dépassent de la gueule barbue de cette créature
 volumineuse. Elle se déplace maladroitement à l’aide de ses nageoires.''

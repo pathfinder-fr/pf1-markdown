@@ -53,11 +53,29 @@ Quand un combattant a l’occasion de modifier l’attitude de la foule, il fait
 
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Test selon le bonus de base à l'attaque</caption><tr CLASS="titre"><td>Bonus de base à l'attaque</td><td>Bonus au test de combat de spectacle</td></tr><tr CLASS="premier"><td>0</td><td>+0</td></tr><tr><td>1-5</td><td>+1</td></tr><tr><td>6-10</td><td>+2</td></tr><tr><td>11-15</td><td>+3</td></tr><tr><td>16+</td><td>+4</td></tr></table>
+<p class="tablo-caption">Test selon le bonus de base à l'attaque</p>
+
+{.tablo .centre .autoalt style="width:96%"}
+| Bonus de base à l'attaque | Bonus au test de combat de spectacle |
+| --- | --- |
+| 0 | +0 |
+| 1-5 | +1 |
+| 6-10 | +2 |
+| 11-15 | +3 |
+| 16+ | +4 |
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Test selon le meilleur rang en Représentation</caption><tr CLASS="titre"><td>Meilleur rang en Représentation</td><td>Bonus au test de combat de spectacle</td></tr><tr CLASS="premier"><td>0</td><td>+0</td></tr><tr><td>1-5</td><td>+1</td></tr><tr><td>6-10</td><td>+2</td></tr><tr><td>11-15</td><td>+3</td></tr><tr><td>16+</td><td>+4</td></tr></table>
+<p class="tablo-caption">Test selon le meilleur rang en Représentation</p>
+
+{.tablo .centre .autoalt style="width:96%"}
+| Meilleur rang en Représentation | Bonus au test de combat de spectacle |
+| --- | --- |
+| 0 | +0 |
+| 1-5 | +1 |
+| 6-10 | +2 |
+| 11-15 | +3 |
+| 16+ | +4 |
 
 </td></tr></table>
 
@@ -95,7 +113,15 @@ Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieu
 - *Tricher.* Si un camp triche ostensiblement ou enfreint les règles, le [[Pathfinder-RPG.DD|DD]] de ses tests de combat de spectacle augmente de 2 pour le reste du combat. Ce malus est cumulable. Pour repérer la tricherie, déterminez le bonus de [[Pathfinder-RPG.Perception|Perception]] et de [[Pathfinder-RPG.Psychologie|Psychologie]] de la foule (+0 pour une foule d’humains ordinaires) et appliquez les modificateurs basés sur la taille du public. Le [[Pathfinder-RPG.DD|DD]] dépend de ce que fait le combattant pour cacher sa tricherie (habituellement, il recourt au [[Pathfinder-RPG.Bluff|Bluff]] ou à la [[Pathfinder-RPG.Discrétion|Discrétion]]). 
 
 
-<table CLASS="tablo centre autoalt"><caption>Tricher</caption><tr CLASS="titre"><td>Taille de la foule</td><td>Bonus aux tests de Perception et de Psychologie pour repérer une tricherie</td></tr><tr CLASS="premier"><td>Public réduit</td><td>+8</td></tr><tr><td>Public ordinaire</td><td>+12</td></tr><tr><td>Large public</td><td>+16</td></tr><tr><td>Public très nombreux</td><td>+20</td></tr></table>
+<p class="tablo-caption">Tricher</p>
+
+{.tablo .centre .autoalt}
+| Taille de la foule | Bonus aux tests de Perception et de Psychologie pour repérer une tricherie |
+| --- | --- |
+| Public réduit | +8 |
+| Public ordinaire | +12 |
+| Large public | +16 |
+| Public très nombreux | +20 |
 
 - *En supériorité numérique.* Si un camp est en supériorité numérique avec un ratio inférieur à 2 contre 1, le [[Pathfinder-RPG.DD|DD]] des tests qui permettent de modifier l’attitude de la foule ou de gagner des [[Pathfinder-RPG.Combat de spectacle|points de victoire]] de cette équipe augmente de 2. Si le ratio est supérieur à 2 contre 1, le [[Pathfinder-RPG.DD|DD]] augmente de 6. Cette augmentation disparaît ou diminue si le nombre de combattants s’équilibre ou s’il passe à moins de 2 contre 1.
 
@@ -105,7 +131,15 @@ Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieu
 Le [[Pathfinder-RPG.DD|DD]] diminue de 1 point de plus par tranche de 5 points au dessus du [[Pathfinder-RPG.DD|DD]] du test de [[Pathfinder-RPG.Diplomatie|Diplomatie]].
 
 
-<table CLASS="tablo centre autoalt"><caption>Pot de vin ou coercition</caption><tr CLASS="titre"><td>Taille de la foule</td><td>DD de Diplomatie</td><td>Or dépensé</td></tr><tr CLASS="premier"><td>Public réduit</td><td>15</td><td>25 po</td></tr><tr><td>Public ordinaire</td><td>20</td><td>150 po</td></tr><tr><td>Large public</td><td>25</td><td>750 po</td></tr><tr><td>Public très nombreux</td><td>30</td><td>2 000 po</td></tr></table>
+<p class="tablo-caption">Pot de vin ou coercition</p>
+
+{.tablo .centre .autoalt}
+| Taille de la foule | DD de Diplomatie | Or dépensé |
+| --- | --- | --- |
+| Public réduit | 15 | 25 po |
+| Public ordinaire | 20 | 150 po |
+| Large public | 25 | 750 po |
+| Public très nombreux | 30 | 2 000 po |
 
 
 {s:Reference|MODIFIERATTITUDEFOULE}

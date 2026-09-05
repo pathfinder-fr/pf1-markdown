@@ -18,7 +18,18 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances du test d’Acrobaties</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>Surface légèrement encombrée (sable, graviers)</td><td>+2</td></tr><tr><td>Surface très encombrée (sol d’une caverne, gravats)</td><td>+5</td></tr><tr><td>Surface légèrement glissante (sol humide)</td><td>+2</td></tr><tr><td>Surface très glissante (glace)</td><td>+5</td></tr><tr><td>Surface légèrement en pente (moins de 45°)</td><td>+2</td></tr><tr><td>Surface en pente forte (plus de 45°)</td><td>+5</td></tr><tr><td>Surface légèrement instable (bateau sur des eaux agitées)</td><td>+2</td></tr><tr><td>Surface modérément instable (navire pris dans une tempête)</td><td>+5</td></tr><tr><td>Surface extrêmement instable (tremblement de terre)</td><td>+10</td></tr></table>
+{.tablo .autoalt}
+| Circonstances du test d’Acrobaties | Modificateur au DD |
+| --- | --- |
+| Surface légèrement encombrée (sable, graviers) | +2 |
+| Surface très encombrée (sol d’une caverne, gravats) | +5 |
+| Surface légèrement glissante (sol humide) | +2 |
+| Surface très glissante (glace) | +5 |
+| Surface légèrement en pente (moins de 45°) | +2 |
+| Surface en pente forte (plus de 45°) | +5 |
+| Surface légèrement instable (bateau sur des eaux agitées) | +2 |
+| Surface modérément instable (navire pris dans une tempête) | +5 |
+| Surface extrêmement instable (tremblement de terre) | +10 |
 
 </center>
 

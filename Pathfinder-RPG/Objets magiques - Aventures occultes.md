@@ -39,7 +39,12 @@ Un bâton est un long bout de bois contenant plusieurs sorts. Les bâtons contie
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Bâtons (AO)</caption><tr CLASS="titre"><td>Intermédiaire</td><td>Puissante</td><td>Bâton</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>—</td><td>*[[Bâton vril|Vril]]*</td><td>200 000 po</td></tr></table>
+<p class="tablo-caption">Bâtons (AO)</p>
+
+{.tablo .col1centre}
+| Intermédiaire | Puissante | Bâton | Prix de vente |
+| --- | --- | --- | --- |
+| — | — | *[[Bâton vril|Vril]]* | 200 000 po |
 
 </center>
 

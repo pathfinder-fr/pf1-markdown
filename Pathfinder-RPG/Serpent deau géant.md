@@ -43,7 +43,13 @@ Categories:
 <td>
 <div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de serpent d'eau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Serpent deau|Serpent d'eau]]</td><td>1</td></tr><tr><td>[[Serpent deau géant|Serpent d'eau géant]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de serpent d'eau</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Serpent deau|Serpent d'eau]] | 1 |
+| [[Serpent deau géant|Serpent d'eau géant]] | 7 |
 
 </div>
 *Cette grande créature aquatique sinueuse d’un bleu pâle rayé de jaune vif possède une sorte de nageoire au bout de la queue pour nager plus facilement.*

@@ -9,7 +9,18 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux asuras</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Adhukaït]]</td><td>7</td></tr><tr><td>[[Aghasura]]</td><td>11</td></tr><tr><td>[[Asurendra]]</td><td>20</td></tr><tr><td>[[Hishandura]]</td><td>15</td></tr><tr><td>[[Japalisura]]</td><td>12</td></tr><tr><td>[[Tripurasura]]</td><td>2</td></tr><tr><td>[[Upasunda]]</td><td>9</td></tr></table>
+<p class="tablo-caption">Les principaux asuras</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Adhukaït]] | 7 |
+| [[Aghasura]] | 11 |
+| [[Asurendra]] | 20 |
+| [[Hishandura]] | 15 |
+| [[Japalisura]] | 12 |
+| [[Tripurasura]] | 2 |
+| [[Upasunda]] | 9 |
 
 </div></div><div class="description">*Source : Bestiaire 3*</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])*

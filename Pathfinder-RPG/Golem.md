@@ -11,7 +11,36 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Variantes de golem</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Golem alchimique]]</td><td>9</td></tr><tr><td>[[Golem canon]]</td><td>15</td></tr><tr><td>[[Golem dadamantium|Golem d'adamantium]]</td><td>19</td></tr><tr><td>[[Golem dargile|Golem d'argile]]</td><td>10</td></tr><tr><td>[[Golem de bois]]</td><td>6</td></tr><tr><td>[[Golem de chair]]</td><td>7</td></tr><tr><td>[[Golem de charogne]]</td><td>4</td></tr><tr><td>[[Golem de cire]]</td><td>3</td></tr><tr><td>[[Golem de corail]]</td><td>9</td></tr><tr><td>[[Golem de cristal]]</td><td>11</td></tr><tr><td>[[Golem de cuivre]]</td><td>14</td></tr><tr><td>[[Golem de fer]]</td><td>13</td></tr><tr><td>[[Golem de glace]]</td><td>5</td></tr><tr><td>[[Golem de mithral]]</td><td>16</td></tr><tr><td>[[Golem de noqual]]</td><td>18</td></tr><tr><td>[[Golem de pacotille]]</td><td>4</td></tr><tr><td>[[Golem de pierre]]</td><td>11</td></tr><tr><td>[[Golem de plomb]]</td><td>10</td></tr><tr><td>[[Golem de Quantium]]</td><td>20</td></tr><tr><td>[[Golem de roche-moelle]]</td><td>8</td></tr><tr><td>[[Golem de sang]]</td><td>6</td></tr><tr><td>[[Golem de verre]]</td><td>8</td></tr><tr><td>[[Golem dos|Golem d'os]]</td><td>8</td></tr><tr><td>[[Golem fossile]]</td><td>12</td></tr><tr><td>[[Golem mécanique]]</td><td>12</td></tr></table>
+<p class="tablo-caption">Variantes de golem</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Golem alchimique]] | 9 |
+| [[Golem canon]] | 15 |
+| [[Golem dadamantium|Golem d'adamantium]] | 19 |
+| [[Golem dargile|Golem d'argile]] | 10 |
+| [[Golem de bois]] | 6 |
+| [[Golem de chair]] | 7 |
+| [[Golem de charogne]] | 4 |
+| [[Golem de cire]] | 3 |
+| [[Golem de corail]] | 9 |
+| [[Golem de cristal]] | 11 |
+| [[Golem de cuivre]] | 14 |
+| [[Golem de fer]] | 13 |
+| [[Golem de glace]] | 5 |
+| [[Golem de mithral]] | 16 |
+| [[Golem de noqual]] | 18 |
+| [[Golem de pacotille]] | 4 |
+| [[Golem de pierre]] | 11 |
+| [[Golem de plomb]] | 10 |
+| [[Golem de Quantium]] | 20 |
+| [[Golem de roche-moelle]] | 8 |
+| [[Golem de sang]] | 6 |
+| [[Golem de verre]] | 8 |
+| [[Golem dos|Golem d'os]] | 8 |
+| [[Golem fossile]] | 12 |
+| [[Golem mécanique]] | 12 |
 
 </div></div><div class="description">**Source :** Bestiaire p.164.</div>
 *Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]].*

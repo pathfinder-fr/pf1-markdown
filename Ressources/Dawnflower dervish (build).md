@@ -52,4 +52,28 @@ LastModified: 2014-08-13 02:26
 ### Évolution proposée
 
 
-<table CLASS="tablo autoalt" width="100%"><caption>Évolution du dawnflower dervish</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>02</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>03</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>04</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>05</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>06</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>07</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>08</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>09</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>10</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>11</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>12</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>13</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>14</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>15</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>16</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>17</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>18</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>19</td><td></td><td></td><td></td><td>&nbsp;</td></tr><tr><td>20</td><td></td><td></td><td></td><td>&nbsp;</td></tr></table>
+<p class="tablo-caption">Évolution du dawnflower dervish</p>
+
+{.tablo .autoalt style="width:100%"}
+| Niveau | Classe | BBA | NLS | Capacités de classe, dons |
+| --- | --- | --- | --- | --- |
+| 01 |  |  |  | &nbsp; |
+| 02 |  |  |  | &nbsp; |
+| 03 |  |  |  | &nbsp; |
+| 04 |  |  |  | &nbsp; |
+| 05 |  |  |  | &nbsp; |
+| 06 |  |  |  | &nbsp; |
+| 07 |  |  |  | &nbsp; |
+| 08 |  |  |  | &nbsp; |
+| 09 |  |  |  | &nbsp; |
+| 10 |  |  |  | &nbsp; |
+| 11 |  |  |  | &nbsp; |
+| 12 |  |  |  | &nbsp; |
+| 13 |  |  |  | &nbsp; |
+| 14 |  |  |  | &nbsp; |
+| 15 |  |  |  | &nbsp; |
+| 16 |  |  |  | &nbsp; |
+| 17 |  |  |  | &nbsp; |
+| 18 |  |  |  | &nbsp; |
+| 19 |  |  |  | &nbsp; |
+| 20 |  |  |  | &nbsp; |

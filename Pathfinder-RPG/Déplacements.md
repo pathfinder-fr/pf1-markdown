@@ -71,7 +71,20 @@ Un personnage [[fatigué]] ne peut ni [[courir]] ni [[charge|charger]] et subit 
 **Terrain.** La nature du terrain traversé affecte la distance que l’on peut parcourir en une heure ou une journée (voir le tableau ci-dessous). Une grand-route est une artère principale droite et pavée, une route est en général une piste de terre battue et un sentier ressemble à une route qui permet seulement de voyager en file indienne, sans véhicule. Enfin, un terrain vierge n’offre pas la moindre piste.
 
 
-<table CLASS="tablo centre autoalt"><caption>Terrain et déplacements sur longue distance</caption><tr CLASS="titre"><td>Terrain</td><td>Grande route</td><td>Chemin ou route</td><td>Terrain vierge</td></tr><tr CLASS="premier"><td>Broussailles</td><td>×1</td><td>×1</td><td>×3/4</td></tr><tr><td>Collines</td><td>×1</td><td>×3/4</td><td>×1/2</td></tr><tr><td>Désert de sable</td><td>×1</td><td>×1/2</td><td>×1/2</td></tr><tr><td>Forêt</td><td>×1</td><td>×1</td><td>×1/2</td></tr><tr><td>Jungle</td><td>×1</td><td>×3/4</td><td>×1/4</td></tr><tr><td>Marais</td><td>×1</td><td>×3/4</td><td>×1/2</td></tr><tr><td>Montagnes</td><td>×3/4</td><td>×3/4</td><td>×1/2</td></tr><tr><td>Plaine</td><td>×1</td><td>×1</td><td>×3/4</td></tr><tr><td>Toundra gelée</td><td>×1</td><td>×3/4</td><td>×3/4</td></tr></table>
+<p class="tablo-caption">Terrain et déplacements sur longue distance</p>
+
+{.tablo .centre .autoalt}
+| Terrain | Grande route | Chemin ou route | Terrain vierge |
+| --- | --- | --- | --- |
+| Broussailles | ×1 | ×1 | ×3/4 |
+| Collines | ×1 | ×3/4 | ×1/2 |
+| Désert de sable | ×1 | ×1/2 | ×1/2 |
+| Forêt | ×1 | ×1 | ×1/2 |
+| Jungle | ×1 | ×3/4 | ×1/4 |
+| Marais | ×1 | ×3/4 | ×1/2 |
+| Montagnes | ×3/4 | ×3/4 | ×1/2 |
+| Plaine | ×1 | ×1 | ×3/4 |
+| Toundra gelée | ×1 | ×3/4 | ×3/4 |
 
 
 {s:Reference|MARCHEFORCEE}**Marche forcée.** Au cours d’une journée normale, le personnage marche 8 heures durant. Le reste du temps, il monte le campement pour la nuit (ou replie les tentes le matin venu), se repose et mange.

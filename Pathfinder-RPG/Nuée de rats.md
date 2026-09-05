@@ -41,7 +41,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de rat</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Rat]]</td><td>1/4</td></tr><tr><td>[[Nuée de rats]]</td><td>2</td></tr><tr><td>[[Rat sanguinaire]]</td><td>1/3</td></tr></table>
+<p class="tablo-caption">Variantes de rat</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Rat]] | 1/4 |
+| [[Nuée de rats]] | 2 |
+| [[Rat sanguinaire]] | 1/3 |
 
 </div>''Une masse grouillante de rats s’approche, poussant de petits cris, dévoilant
 des dents acérées ici et là et griffant tout sur son passage.''

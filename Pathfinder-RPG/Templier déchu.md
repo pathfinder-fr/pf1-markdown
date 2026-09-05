@@ -47,7 +47,15 @@ Le templier parjure possède un don particulier pour se ranger du côté des vai
 #### Combat déloyal (Ext)
 Le templier parjure mélange le noble style de combat des terrains de joute et de la chevalerie avec le genre déloyal et opportuniste des bagarres de taverne. Il ne recule devant aucune ruse. Il ne souffre jamais d’un malus au jet d’attaque quand il utilise une arme improvisée et bénéficie d’un bonus de +2 quand il fait un test de manoeuvre offensive. De plus, quand il réussit un coup critique, il peut choisir d’infliger des dégâts normaux. Dans ce cas, il lance un d6 et remplace les dégâts supplémentaires dus au critique par le résultat indiqué dans la table suivante.
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>d6</td><td>Résultat</td></tr><tr><td>1</td><td>cible chancelante pendant 1 round</td></tr><tr><td>2</td><td>cible nauséeuse pendant 1 round</td></tr><tr><td>3</td><td>cible sourde pendant 1 round</td></tr><tr><td>4</td><td>cible aveuglée pendant 1 round</td></tr><tr><td>5</td><td>cible fiévreuse pendant 1 minute</td></tr><tr><td>6</td><td>cible fatiguée</td></tr></table>
+{.tablo .autoalt}
+| d6 | Résultat |
+| --- | --- |
+| 1 | cible chancelante pendant 1 round |
+| 2 | cible nauséeuse pendant 1 round |
+| 3 | cible sourde pendant 1 round |
+| 4 | cible aveuglée pendant 1 round |
+| 5 | cible fiévreuse pendant 1 minute |
+| 6 | cible fatiguée |
 
 Le templier double la durée de l’effet si les dégâts du critique sont multipliés par 3 et la triple s’ils sont multipliés par 4.
 

@@ -43,7 +43,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de main rampante</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Main rampante]]</td><td>1/2</td></tr><tr><td>[[Main rampante géante]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de main rampante</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Main rampante]] | 1/2 |
+| [[Main rampante géante]] | 5 |
 
 </div>*Cette grande main putréfiée semble se tenir en équilibre instable sur ses doigts boudinés. D’horribles pustules ornent sa chair pâle et nécrosée.*
 

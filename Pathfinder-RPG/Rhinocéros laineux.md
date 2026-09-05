@@ -37,7 +37,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de rhinocéros</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Rhinocéros]]</td><td>4</td></tr><tr><td>[[Rhinocéros laineux]]</td><td>6</td></tr></table>
+<p class="tablo-caption">Variantes de rhinocéros</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Rhinocéros]] | 4 |
+| [[Rhinocéros laineux]] | 6 |
 
 </div>''Une rangée de cornes immenses surplombe le museau et le front de ce
 grand rhinocéros couvert d’une épaisse fourrure brune.''

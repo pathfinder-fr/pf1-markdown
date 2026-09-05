@@ -12,7 +12,36 @@ Categories:
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Arme aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Type d'arme</td></tr><tr CLASS="premier"><td>01</td><td>[[épée bâtarde (arme)|épée bâtarde]]</td></tr><tr><td>02-05</td><td>[[hache darmes (arme)|hache d'armes]]</td></tr><tr><td>06</td><td>[[bolas (arme)|bolas]]</td></tr><tr><td>07-08</td><td>[[gourdin (arme)|gourdin]]</td></tr><tr><td>09-10</td><td>[[arc long composite (arme)|arc long composite]]</td></tr><tr><td>11-12</td><td>[[arc court composite (arme)|arc court composite]]</td></tr><tr><td>13-16</td><td>[[dague (arme)|dague]]</td></tr><tr><td>17</td><td>[[fléchette (arme)|fléchette]]</td></tr><tr><td>18</td><td>[[hache darmes naine (arme)|hache d'armes naine]]</td></tr><tr><td>19</td><td>[[cimeterre à deux mains (arme)|cimeterre à deux mains]]</td></tr><tr><td>20</td><td>[[gantelet (arme)|gantelet]]</td></tr><tr><td>21</td><td>[[coutille (arme)|coutille]]</td></tr><tr><td>22-24</td><td>[[grande hache (arme)|grande hache]]</td></tr><tr><td>25</td><td>[[massue (arme)|massue]]</td></tr><tr><td>26-28</td><td>[[épée à deux mains (arme)|épée à deux mains]]</td></tr><tr><td>29</td><td>[[hallebarde (arme)|hallebarde]]</td></tr><tr><td>30</td><td>[[hachette (arme)|hachette]]</td></tr><tr><td>31-33</td><td>[[arbalète lourde (arme)|arbalète lourde]]</td></tr><tr><td>34</td><td>[[fléau darmes lourd (arme)|fléau d’armes lourd]]</td></tr><tr><td>35</td><td>[[masse darmes lourde (arme)|masse d’armes lourde]]</td></tr><tr><td>36-37</td><td>[[lance darçon (arme)|lance d’arçon]]</td></tr><tr><td>38-40</td><td>[[arbalète légère (arme)|arbalète légère]]</td></tr><tr><td>41</td><td>[[fléau darmes léger (arme)|fléau d’armes léger]]</td></tr><tr><td>42</td><td>[[marteau léger (arme)|marteau léger]]</td></tr><tr><td>43-44</td><td>[[masse darmes légère (arme)|masse d’armes légère]]</td></tr></table>
+<p class="tablo-caption">Arme aléatoire</p>
+
+{.tablo .centre .autoalt style="width:94%"}
+| D100 | Type d'arme |
+| --- | --- |
+| 01 | [[épée bâtarde (arme)|épée bâtarde]] |
+| 02-05 | [[hache darmes (arme)|hache d'armes]] |
+| 06 | [[bolas (arme)|bolas]] |
+| 07-08 | [[gourdin (arme)|gourdin]] |
+| 09-10 | [[arc long composite (arme)|arc long composite]] |
+| 11-12 | [[arc court composite (arme)|arc court composite]] |
+| 13-16 | [[dague (arme)|dague]] |
+| 17 | [[fléchette (arme)|fléchette]] |
+| 18 | [[hache darmes naine (arme)|hache d'armes naine]] |
+| 19 | [[cimeterre à deux mains (arme)|cimeterre à deux mains]] |
+| 20 | [[gantelet (arme)|gantelet]] |
+| 21 | [[coutille (arme)|coutille]] |
+| 22-24 | [[grande hache (arme)|grande hache]] |
+| 25 | [[massue (arme)|massue]] |
+| 26-28 | [[épée à deux mains (arme)|épée à deux mains]] |
+| 29 | [[hallebarde (arme)|hallebarde]] |
+| 30 | [[hachette (arme)|hachette]] |
+| 31-33 | [[arbalète lourde (arme)|arbalète lourde]] |
+| 34 | [[fléau darmes lourd (arme)|fléau d’armes lourd]] |
+| 35 | [[masse darmes lourde (arme)|masse d’armes lourde]] |
+| 36-37 | [[lance darçon (arme)|lance d’arçon]] |
+| 38-40 | [[arbalète légère (arme)|arbalète légère]] |
+| 41 | [[fléau darmes léger (arme)|fléau d’armes léger]] |
+| 42 | [[marteau léger (arme)|marteau léger]] |
+| 43-44 | [[masse darmes légère (arme)|masse d’armes légère]] |
 
 </td><td width="50%">
 

@@ -134,4 +134,36 @@ Le coût de fabrication des matières premières spéciales est toujours deux fo
 **Matières premières pures.** Ces matières premières facilitent le processus de fabrication des objets. Quand un personnage utilise ce type de matières premières, il effectue deux tests d’Artisanat et conserve le meilleur résultat.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>Prix des matières premières spéciales</caption><tr CLASS="titre"><td>Matières premières spéciales (500 g)</td><td>Faciles à travailler</td><td>Qualité supérieure</td><td>Malléables</td><td>Pures</td></tr><tr CLASS="premier"><td>Acier</td><td>8 po</td><td>8 po</td><td>5 po</td><td>6 po</td></tr><tr><td>[[Acier ardent]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Acier glacé]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Acier vivant]]</td><td>200 po</td><td>200 po</td><td>125 po</td><td>150 po</td></tr><tr><td>[[Adamantium]]</td><td>600 po</td><td>600 po</td><td>375 po</td><td>450 po</td></tr><tr><td>[[Argent alchimique]]</td><td>20 po</td><td>20 po</td><td>12 po, 5 pa</td><td>15 po</td></tr><tr><td>Bois</td><td>2 po</td><td>2 po</td><td>1 po, 2 pa, 5 pc</td><td>1 po, 5 pa</td></tr><tr><td>[[Bois flexible]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Bois vert]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Bronze_0|Bronze]]</td><td>10 po</td><td>10 po</td><td>6 po, 2 pa, 5 pc</td><td>7 po, 5 pa</td></tr><tr><td>[[Bronze élyséen]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr><tr><td>[[Crin de griffon]]</td><td>80 po</td><td>80 po</td><td>50 po</td><td>60 po</td></tr><tr><td>[[Cristal de sang]]</td><td>80 po</td><td>80 po</td><td>50 po</td><td>60 po</td></tr><tr><td>Cuir</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Ébénite]]</td><td>20 po</td><td>20 po</td><td>12 po, 5pa</td><td>15 po</td></tr><tr><td>[[Fer froid]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Mithral]]</td><td>800 po</td><td>800 po</td><td>500 po</td><td>600 po</td></tr><tr><td>[[Armes et armures primitives#Obsidienne_1|Obsidienne]]</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Armes et armures primitives#Or_2|Or]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Os_3|Os]]</td><td>2 po</td><td>2 po</td><td>1 po, 2 pa, 5 pc</td><td>1 po, 5 pa</td></tr><tr><td>[[Peau dange|Peau d’ange]]</td><td>200 po</td><td>200 po</td><td>125 po</td><td>150 po</td></tr><tr><td>[[Peau danguille|Peau d’anguille]]</td><td>250 po</td><td>250 po</td><td>156 po, 2 pa, 5 pc</td><td>187 po, 5 pa</td></tr><tr><td>[[Peau de dragon]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Pierre_4|Pierre]]</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Racine de wy]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr><tr><td>Tissu</td><td>8 po</td><td>8 po</td><td>5 po</td><td>6 po</td></tr><tr><td>[[Tissu de sombrefeuille]]</td><td>20 po</td><td>20 po</td><td>12 po, 5 pa</td><td>15 po</td></tr><tr><td>[[Viridium]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr></table>
+<p class="tablo-caption">Prix des matières premières spéciales</p>
+
+{.tablo .centre .autoalt style="width:100%"}
+| Matières premières spéciales (500 g) | Faciles à travailler | Qualité supérieure | Malléables | Pures |
+| --- | --- | --- | --- | --- |
+| Acier | 8 po | 8 po | 5 po | 6 po |
+| [[Acier ardent]] | 300 po | 300 po | 187 po, 5 pa | 225 po |
+| [[Acier glacé]] | 300 po | 300 po | 187 po, 5 pa | 225 po |
+| [[Acier vivant]] | 200 po | 200 po | 125 po | 150 po |
+| [[Adamantium]] | 600 po | 600 po | 375 po | 450 po |
+| [[Argent alchimique]] | 20 po | 20 po | 12 po, 5 pa | 15 po |
+| Bois | 2 po | 2 po | 1 po, 2 pa, 5 pc | 1 po, 5 pa |
+| [[Bois flexible]] | 300 po | 300 po | 187 po, 5 pa | 225 po |
+| [[Bois vert]] | 100 po | 100 po | 62 po, 5 pa | 75 po |
+| [[Armes et armures primitives#Bronze_0|Bronze]] | 10 po | 10 po | 6 po, 2 pa, 5 pc | 7 po, 5 pa |
+| [[Bronze élyséen]] | 400 po | 400 po | 250 po | 300 po |
+| [[Crin de griffon]] | 80 po | 80 po | 50 po | 60 po |
+| [[Cristal de sang]] | 80 po | 80 po | 50 po | 60 po |
+| Cuir | 6 po | 6 po | 3 po, 7 pa, 5 pc | 4 po, 5 pa |
+| [[Ébénite]] | 20 po | 20 po | 12 po, 5pa | 15 po |
+| [[Fer froid]] | 100 po | 100 po | 62 po, 5 pa | 75 po |
+| [[Mithral]] | 800 po | 800 po | 500 po | 600 po |
+| [[Armes et armures primitives#Obsidienne_1|Obsidienne]] | 6 po | 6 po | 3 po, 7 pa, 5 pc | 4 po, 5 pa |
+| [[Armes et armures primitives#Or_2|Or]] | 100 po | 100 po | 62 po, 5 pa | 75 po |
+| [[Armes et armures primitives#Os_3|Os]] | 2 po | 2 po | 1 po, 2 pa, 5 pc | 1 po, 5 pa |
+| [[Peau dange|Peau d’ange]] | 200 po | 200 po | 125 po | 150 po |
+| [[Peau danguille|Peau d’anguille]] | 250 po | 250 po | 156 po, 2 pa, 5 pc | 187 po, 5 pa |
+| [[Peau de dragon]] | 100 po | 100 po | 62 po, 5 pa | 75 po |
+| [[Armes et armures primitives#Pierre_4|Pierre]] | 6 po | 6 po | 3 po, 7 pa, 5 pc | 4 po, 5 pa |
+| [[Racine de wy]] | 400 po | 400 po | 250 po | 300 po |
+| Tissu | 8 po | 8 po | 5 po | 6 po |
+| [[Tissu de sombrefeuille]] | 20 po | 20 po | 12 po, 5 pa | 15 po |
+| [[Viridium]] | 400 po | 400 po | 250 po | 300 po |

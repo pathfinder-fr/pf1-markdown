@@ -59,6 +59,56 @@ LastModified: 2020-06-13 10:56
 ### Objets sans emplacement (pour tri)
 <center>
 
-<table CLASS="tablo col1centre autoalt"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Élixir de voix tonitruante]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Cure-dent de pyrotechnie]]</td><td>400 po</td><td>—</td></tr><tr><td>[[Poussière du conteur]]</td><td>600 po</td><td>—</td></tr><tr><td>[[Poussière de lassassin|Poussière de l’assassin]]</td><td>750 po</td><td>—</td></tr><tr><td>[[Cri en bouteille]]</td><td>900 po</td><td>0,25 kg</td></tr><tr><td>[[Maillage magique]] (niveau 1)</td><td>1 000 po</td><td>0,5 kg</td></tr><tr><td>[[Encens deidos|Encens d’eidos]]</td><td>2 000 po</td><td>0,5 kg</td></tr><tr><td>[[Lanterne des auras]]</td><td>2 000 po</td><td>1 kg</td></tr><tr><td>[[Luth va-t-en-guerre]]</td><td>2 000 po</td><td>1,5 kg</td></tr><tr><td>[[Poussière de restauration]]</td><td>2 000 po</td><td>—</td></tr><tr><td>[[Rune de pouvoir]] (niveau 1)</td><td>2 000 po</td><td>—</td></tr><tr><td>[[Élixir de changement de sexe]]</td><td>2 250 po</td><td>—</td></tr><tr><td>[[Os de troll]]</td><td>2 400 po</td><td>0,5 kg</td></tr><tr><td>[[Élégance de lépéiste|Élégance de l’épéiste]]</td><td>2 500 po</td><td>—</td></tr><tr><td>[[Cloche des esprits-revenants]]</td><td>3 000 po</td><td>0,5 kg</td></tr><tr><td>[[Porte-clés magique]]</td><td>3 000 po</td><td>4 kg</td></tr><tr><td>[[Maillage magique]] (niveau 2)</td><td>4 000 po</td><td>0,5 kg</td></tr><tr><td>[[Calebasse scintillante]]</td><td>4 250 po</td><td>4 kg</td></tr><tr><td>[[Fourreau des mille lames]]</td><td>5 000 po</td><td>1,5 kg</td></tr><tr><td>[[Bannière des nuits réparatrices]]</td><td>5 040 po</td><td>3,5 kg</td></tr><tr><td>[[Sifflet dinvocation|Sifflet d’invocation]]</td><td>6 300 po</td><td>—</td></tr><tr><td>[[Fenêtre à sens unique (MCA)]]</td><td>7 500 po</td><td>0,5 kg</td></tr><tr><td>[[Coupes dentente|Coupes d’entente]]</td><td>8 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de pouvoir]] (niveau 2)</td><td>8 000 po</td><td>—</td></tr><tr><td>[[Pipe de lenquêteur|Pipe de l’enquêteur]]</td><td>9 000 po</td><td>—</td></tr><tr><td>[[Maillage magique]] (niveau 3)</td><td>9 000 po</td><td>0,5 kg</td></tr><tr><td>[[Fort du chasseur]]</td><td>10 000 po</td><td>0,5 kg</td></tr><tr><td>[[Corne de la panacée]]</td><td>12 000 po</td><td>0,5 kg</td></tr><tr><td>[[Statuette merveilleuse]] (diablotin en fer)</td><td>13 000 po</td><td>0,5 kg</td></tr><tr><td>[[Mouchoir de localisation]]</td><td>15 000 po</td><td>—</td></tr><tr><td>[[Runes du sabbat de la mégère]]</td><td>16 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de la foi antique]]</td><td>16 000 po</td><td>0,5 kg</td></tr><tr><td>[[Maillage magique]] (niveau 4)</td><td>16 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de pouvoir]] (niveau 3)</td><td>18 000 po</td><td>—</td></tr><tr><td>[[Maillage magique]] (niveau 5)</td><td>25 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de pouvoir]] (niveau 4)</td><td>32 000 po</td><td>—</td></tr><tr><td>[[Maillage magique]] (niveau 6)</td><td>36 000 po</td><td>0,5 kg</td></tr><tr><td>[[Maillage magique]] (niveau 7)</td><td>49 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de pouvoir]] (niveau 5)</td><td>50 000 po</td><td>—</td></tr><tr><td>[[Maillage magique]] (niveau 8)</td><td>64 000 po</td><td>0,5 kg</td></tr><tr><td>[[Rune de pouvoir]] (niveau 6)</td><td>72 000 po</td><td>—</td></tr><tr><td>[[Maillage magique]] (niveau 9)</td><td>81 000 po</td><td>0,5 kg</td></tr><tr><td>[[Boussole du prédateur]]</td><td>85 000 po</td><td>—</td></tr><tr><td>[[Rune de pouvoir]] (niveau 7)</td><td>98 000 po</td><td>—</td></tr><tr><td>[[Rune de pouvoir]] (niveau 8)</td><td>128 000 po</td><td>—</td></tr><tr><td>[[Rune de pouvoir]] (niveau 9)</td><td>162 000 po</td><td>—</td></tr></table>
+<p class="tablo-caption">Objets merveilleux de faible puissance</p>
+
+{.tablo .col1centre .autoalt}
+| Objet | Prix | Poids |
+| --- | --- | --- |
+| [[Élixir de voix tonitruante]] | 250 po | — |
+| [[Cure-dent de pyrotechnie]] | 400 po | — |
+| [[Poussière du conteur]] | 600 po | — |
+| [[Poussière de lassassin|Poussière de l’assassin]] | 750 po | — |
+| [[Cri en bouteille]] | 900 po | 0,25 kg |
+| [[Maillage magique]] (niveau 1) | 1 000 po | 0,5 kg |
+| [[Encens deidos|Encens d’eidos]] | 2 000 po | 0,5 kg |
+| [[Lanterne des auras]] | 2 000 po | 1 kg |
+| [[Luth va-t-en-guerre]] | 2 000 po | 1,5 kg |
+| [[Poussière de restauration]] | 2 000 po | — |
+| [[Rune de pouvoir]] (niveau 1) | 2 000 po | — |
+| [[Élixir de changement de sexe]] | 2 250 po | — |
+| [[Os de troll]] | 2 400 po | 0,5 kg |
+| [[Élégance de lépéiste|Élégance de l’épéiste]] | 2 500 po | — |
+| [[Cloche des esprits-revenants]] | 3 000 po | 0,5 kg |
+| [[Porte-clés magique]] | 3 000 po | 4 kg |
+| [[Maillage magique]] (niveau 2) | 4 000 po | 0,5 kg |
+| [[Calebasse scintillante]] | 4 250 po | 4 kg |
+| [[Fourreau des mille lames]] | 5 000 po | 1,5 kg |
+| [[Bannière des nuits réparatrices]] | 5 040 po | 3,5 kg |
+| [[Sifflet dinvocation|Sifflet d’invocation]] | 6 300 po | — |
+| [[Fenêtre à sens unique (MCA)]] | 7 500 po | 0,5 kg |
+| [[Coupes dentente|Coupes d’entente]] | 8 000 po | 0,5 kg |
+| [[Rune de pouvoir]] (niveau 2) | 8 000 po | — |
+| [[Pipe de lenquêteur|Pipe de l’enquêteur]] | 9 000 po | — |
+| [[Maillage magique]] (niveau 3) | 9 000 po | 0,5 kg |
+| [[Fort du chasseur]] | 10 000 po | 0,5 kg |
+| [[Corne de la panacée]] | 12 000 po | 0,5 kg |
+| [[Statuette merveilleuse]] (diablotin en fer) | 13 000 po | 0,5 kg |
+| [[Mouchoir de localisation]] | 15 000 po | — |
+| [[Runes du sabbat de la mégère]] | 16 000 po | 0,5 kg |
+| [[Rune de la foi antique]] | 16 000 po | 0,5 kg |
+| [[Maillage magique]] (niveau 4) | 16 000 po | 0,5 kg |
+| [[Rune de pouvoir]] (niveau 3) | 18 000 po | — |
+| [[Maillage magique]] (niveau 5) | 25 000 po | 0,5 kg |
+| [[Rune de pouvoir]] (niveau 4) | 32 000 po | — |
+| [[Maillage magique]] (niveau 6) | 36 000 po | 0,5 kg |
+| [[Maillage magique]] (niveau 7) | 49 000 po | 0,5 kg |
+| [[Rune de pouvoir]] (niveau 5) | 50 000 po | — |
+| [[Maillage magique]] (niveau 8) | 64 000 po | 0,5 kg |
+| [[Rune de pouvoir]] (niveau 6) | 72 000 po | — |
+| [[Maillage magique]] (niveau 9) | 81 000 po | 0,5 kg |
+| [[Boussole du prédateur]] | 85 000 po | — |
+| [[Rune de pouvoir]] (niveau 7) | 98 000 po | — |
+| [[Rune de pouvoir]] (niveau 8) | 128 000 po | — |
+| [[Rune de pouvoir]] (niveau 9) | 162 000 po | — |
 
 </center>

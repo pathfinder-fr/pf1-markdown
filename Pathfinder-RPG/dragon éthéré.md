@@ -34,7 +34,14 @@ suivants lorsqu’il atteint la catégorie d’âge indiquée : adolescent – *
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon éthéré</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon éthéré]]</td><td>7</td></tr><tr><td>[[Dragon éthéré adulte]]</td><td>11</td></tr><tr><td>[[Dragon éthéré vénérable]]</td><td>16</td></tr></table>
+<p class="tablo-caption">Variantes de dragon éthéré</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Jeune dragon éthéré]] | 7 |
+| [[Dragon éthéré adulte]] | 11 |
+| [[Dragon éthéré vénérable]] | 16 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Les ombres et l’obscurité semblent plus épaisses autour des ailes dépenaillées de ce dragon silencieux.*
 

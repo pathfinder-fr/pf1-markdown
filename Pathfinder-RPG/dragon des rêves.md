@@ -34,7 +34,14 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de dragon des rêves</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des rêves]]</td><td>10</td></tr><tr><td>[[Dragon des rêves adulte]]</td><td>14</td></tr><tr><td>[[Dragon des rêves vénérable]]</td><td>19</td></tr></table>
+<p class="tablo-caption">Variantes de dragon des rêves</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Jeune dragon des rêves]] | 10 |
+| [[Dragon des rêves adulte]] | 14 |
+| [[Dragon des rêves vénérable]] | 19 |
 
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Cette créature gracieuse, presque chimérique, laisse derrière elle une traînée nuageuse aux formes hypnotiques.*
 

@@ -40,7 +40,21 @@ Voici les tables de plaies mineures et majeures. Quand le personnage doit déter
 
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
 
-<table CLASS="tablo centre autoalt"><caption>Les plaies mineures aléatoires</caption><tr CLASS="titre"><td>D10</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>[[description des plaies magiques#DECONCENTRATIONDUMAGE|Déconcentration du mage]]</td></tr><tr><td>2</td><td>[[description des plaies magiques#COASSEMENTDUMAGE|Coassement du mage]]</td></tr><tr><td>3</td><td>[[description des plaies magiques#CONFUSIONDINCANTATION|Confusion d’incantation]]</td></tr><tr><td>4</td><td>[[description des plaies magiques#DISSOCIATION|Dissociation]]</td></tr><tr><td>5</td><td>[[description des plaies magiques#YEUXDEBENE|Yeux d’ébène]]</td></tr><tr><td>6</td><td>[[description des plaies magiques#ETRANGEFIEVRE|Étrange fièvre]]</td></tr><tr><td>7</td><td>[[description des plaies magiques#HEMOCULYSIS|Hémoculysis]]</td></tr><tr><td>8</td><td>[[description des plaies magiques#LASSITUDE|Lassitude]]</td></tr><tr><td>9</td><td>[[description des plaies magiques#OBSESSIONRITUELLE|Obsession rituelle]]</td></tr><tr><td>10</td><td>[[description des plaies magiques#ACCROAUXSORTS|Accro aux sorts]]</td></tr></table>
+<p class="tablo-caption">Les plaies mineures aléatoires</p>
+
+{.tablo .centre .autoalt}
+| D10 | Résultat |
+| --- | --- |
+| 1 | [[description des plaies magiques#DECONCENTRATIONDUMAGE|Déconcentration du mage]] |
+| 2 | [[description des plaies magiques#COASSEMENTDUMAGE|Coassement du mage]] |
+| 3 | [[description des plaies magiques#CONFUSIONDINCANTATION|Confusion d’incantation]] |
+| 4 | [[description des plaies magiques#DISSOCIATION|Dissociation]] |
+| 5 | [[description des plaies magiques#YEUXDEBENE|Yeux d’ébène]] |
+| 6 | [[description des plaies magiques#ETRANGEFIEVRE|Étrange fièvre]] |
+| 7 | [[description des plaies magiques#HEMOCULYSIS|Hémoculysis]] |
+| 8 | [[description des plaies magiques#LASSITUDE|Lassitude]] |
+| 9 | [[description des plaies magiques#OBSESSIONRITUELLE|Obsession rituelle]] |
+| 10 | [[description des plaies magiques#ACCROAUXSORTS|Accro aux sorts]] |
 
 </td><td width="50%">
 

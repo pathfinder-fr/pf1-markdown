@@ -39,7 +39,13 @@ LastModified: 2020-09-21 17:41
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de puce</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Puce cyclopéenne]]</td><td>2</td></tr><tr><td>[[Puce géante]]</td><td>1/2</td></tr></table>
+<p class="tablo-caption">Variantes de puce</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Puce cyclopéenne]] | 2 |
+| [[Puce géante]] | 1/2 |
 
 </div>*Cette puce cyclopéenne est aussi grande qu’un cheval. Ses pattes pendouillent maladroitement sous son énorme corps gonflé et entièrement protégé de plaques dépareillées.*
 

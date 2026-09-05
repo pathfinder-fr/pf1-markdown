@@ -15,4 +15,15 @@ Afin de respecter la licence OGL, voici les noms qui seront utilisés en périph
 
 
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="94%"><caption>Glossaire des noms d'organisations</caption><tr CLASS="titre"><td>Nom</td><td>Périphrase</td></tr><tr CLASS="premier"><td>kéléshites</td><td>peuple de l'Est</td></tr><tr><td>kellides</td><td>peuple scarifié</td></tr><tr><td>Réseau campanule</td><td>Réseau des halfelins libres</td></tr><tr><td>La Sczarni</td><td>Les barons du crime</td></tr><tr><td>Les [[Shoantis]]</td><td>Les barbares des Terres Sauvages</td></tr><tr><td>ufle</td><td>peuple viking</td></tr><tr><td>vudrain</td><td>peuple mille et une nuits</td></tr></table>
+<p class="tablo-caption">Glossaire des noms d'organisations</p>
+
+{.tablo .centre .autoalt .toutgauche style="width:94%"}
+| Nom | Périphrase |
+| --- | --- |
+| kéléshites | peuple de l'Est |
+| kellides | peuple scarifié |
+| Réseau campanule | Réseau des halfelins libres |
+| La Sczarni | Les barons du crime |
+| Les [[Shoantis]] | Les barbares des Terres Sauvages |
+| ufle | peuple viking |
+| vudrain | peuple mille et une nuits |

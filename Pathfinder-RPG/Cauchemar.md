@@ -44,7 +44,13 @@ Categories:
 {s:ImageCentre|Bestiaire/Cauchemar_img.jpg|95%}
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de destrier noir</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cauchemar]]</td><td>11</td></tr><tr><td>[[Destrier noir]]</td><td>5</td></tr></table>
+<p class="tablo-caption">Variantes de destrier noir</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Cauchemar]] | 11 |
+| [[Destrier noir]] | 5 |
 
 </div>*Ce gigantesque cheval brûlant se dresse sur des sabots fumant. Des flammes infernales dansent dans ses yeux emplis de haine.*
 

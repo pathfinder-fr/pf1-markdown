@@ -37,7 +37,14 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de félin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Chat]]</td><td>1/4</td></tr><tr><td>[[Guépard]]</td><td>2</td></tr><tr><td>[[Léopard]]</td><td>2</td></tr></table>
+<p class="tablo-caption">Variantes de félin</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| Familier, [[Chat]] | 1/4 |
+| [[Guépard]] | 2 |
+| [[Léopard]] | 2 |
 
 </div>''À chacun de ses pas, on peut voir les muscles d’acier de ce léopard glisser
 sous sa fourrure tachetée.''

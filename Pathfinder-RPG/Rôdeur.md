@@ -48,7 +48,41 @@ Lorsqu’un rôdeur choisit les [[type Extérieur|Extérieurs]] ou les [[type hu
 
 <div class="article_3col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr Class="titre"><td>Ennemis jurés du rôdeur</td></tr><tr CLASS="premier"><td>[[type Aberration|Aberration]]</td></tr><tr><td>[[type Animal|Animal]]</td></tr><tr><td>[[type Créature artificielle|Créature artificielle]]</td></tr><tr><td>[[type Créature magique|Créature magique]]</td></tr><tr><td>[[type Dragon|Dragon]]</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Air|Air]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Feu|Feu]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Loi|Loi]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Mal|Mal]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type natif|natif]])</td></tr><tr><td>[[type Extérieur|Extérieur]] ([[sous-type Terre|Terre]])</td></tr><tr><td>[[type Fée|Fée]]</td></tr><tr><td>[[type Humanoïde|Humanoïde]] (autre sous-type)</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type elfe|elfe]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] (gnoll)</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type gnome|gnome]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type halfelin|halfelin]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]])</td></tr><tr><td>[[type Humanoïde|Humanoïde]] (orque)</td></tr><tr><td>[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]])</td></tr><tr><td>[[type Humanoïde monstrueux|Humanoïde monstrueux]]</td></tr><tr><td>[[type Mort-vivant|Mort-vivant]]</td></tr><tr><td>[[type Plante|Plante]]</td></tr><tr><td>[[type Vase|Vase]]</td></tr><tr><td>[[type Vermine|Vermine]]</td></tr></table>
+{.tablo .centre .autoalt .toutgauche style="width:100%"}
+| Ennemis jurés du rôdeur |
+| --- |
+| [[type Aberration|Aberration]] |
+| [[type Animal|Animal]] |
+| [[type Créature artificielle|Créature artificielle]] |
+| [[type Créature magique|Créature magique]] |
+| [[type Dragon|Dragon]] |
+| [[type Extérieur|Extérieur]] ([[sous-type Air|Air]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Feu|Feu]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Loi|Loi]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Mal|Mal]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) |
+| [[type Extérieur|Extérieur]] ([[sous-type Terre|Terre]]) |
+| [[type Fée|Fée]] |
+| [[type Humanoïde|Humanoïde]] (autre sous-type) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type elfe|elfe]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) |
+| [[type Humanoïde|Humanoïde]] (gnoll) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type gnome|gnome]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type halfelin|halfelin]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) |
+| [[type Humanoïde|Humanoïde]] (orque) |
+| [[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) |
+| [[type Humanoïde monstrueux|Humanoïde monstrueux]] |
+| [[type Mort-vivant|Mort-vivant]] |
+| [[type Plante|Plante]] |
+| [[type Vase|Vase]] |
+| [[type Vermine|Vermine]] |
 
 </div>
 

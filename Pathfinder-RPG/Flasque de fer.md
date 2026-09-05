@@ -20,7 +20,34 @@ Si le personnage libérant une créature enfermée prononce le [[mot de commande
 Le prix indiqué est pour une *flasque de fer* vide. Il se peut qu’une *flasque de fer* nouvellement découverte contienne déjà un prisonnier, comme indiqué sur la table suivante :
 
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>1d100</td><td>Contenu</td></tr><tr CLASS="premier"><td>01–50</td><td>Vide</td></tr><tr><td>51–54</td><td>[[élémentaire de lair|Élémentaire de l’Air]] (taille G)</td></tr><tr><td>55–58</td><td>[[Traqueur invisible]]</td></tr><tr><td>59–62</td><td>[[Élémentaire de la Terre]] (taille G)</td></tr><tr><td>63–66</td><td>[[Xorn]]</td></tr><tr><td>67–70</td><td>[[Élémentaire du Feu]] (taille G)</td></tr><tr><td>71–74</td><td>[[Salamandre]]</td></tr><tr><td>75–78</td><td>[[élémentaire de leau|Élémentaire de l’Eau]] (taille G)</td></tr><tr><td>79–82</td><td>[[Xill]]</td></tr><tr><td>83-85</td><td>[[Chien hurleur]]</td></tr><tr><td>86</td><td>[[Démon]] ([[ombre]])</td></tr><tr><td>87</td><td>[[Démon]] ([[vrock]])</td></tr><tr><td>88</td><td>[[Démon]] ([[hezrou]])</td></tr><tr><td>89</td><td>[[Démon]] ([[glabrezu]])</td></tr><tr><td>90</td><td>[[Démon|Démone]] ([[succube]])</td></tr><tr><td>91</td><td>[[Diable]] ([[Diable osseux|osyluth]])</td></tr><tr><td>92</td><td>[[Diable]] ([[Diable barbu|barbazu]])</td></tr><tr><td>93</td><td>[[Diable]] ([[érinye|érinyes]])</td></tr><tr><td>94</td><td>[[Diable]] ([[Diable cornu|cornugon]])</td></tr><tr><td>95</td><td>[[Agathion]] ([[avoral]])</td></tr><tr><td>96</td><td>[[Azata]] ([[ghaéle]])</td></tr><tr><td>97</td><td>[[Archon]] ([[Archon messager|messager]])</td></tr><tr><td>98</td><td>[[Rakshasa]]</td></tr><tr><td>99</td><td>[[Démon]] ([[balor]])</td></tr><tr><td>100</td><td>[[Diable]] ([[diantrefosse]])</td></tr></table>
+{.tablo .centre .autoalt .toutgauche}
+| 1d100 | Contenu |
+| --- | --- |
+| 01–50 | Vide |
+| 51–54 | [[élémentaire de lair|Élémentaire de l’Air]] (taille G) |
+| 55–58 | [[Traqueur invisible]] |
+| 59–62 | [[Élémentaire de la Terre]] (taille G) |
+| 63–66 | [[Xorn]] |
+| 67–70 | [[Élémentaire du Feu]] (taille G) |
+| 71–74 | [[Salamandre]] |
+| 75–78 | [[élémentaire de leau|Élémentaire de l’Eau]] (taille G) |
+| 79–82 | [[Xill]] |
+| 83-85 | [[Chien hurleur]] |
+| 86 | [[Démon]] ([[ombre]]) |
+| 87 | [[Démon]] ([[vrock]]) |
+| 88 | [[Démon]] ([[hezrou]]) |
+| 89 | [[Démon]] ([[glabrezu]]) |
+| 90 | [[Démon|Démone]] ([[succube]]) |
+| 91 | [[Diable]] ([[Diable osseux|osyluth]]) |
+| 92 | [[Diable]] ([[Diable barbu|barbazu]]) |
+| 93 | [[Diable]] ([[érinye|érinyes]]) |
+| 94 | [[Diable]] ([[Diable cornu|cornugon]]) |
+| 95 | [[Agathion]] ([[avoral]]) |
+| 96 | [[Azata]] ([[ghaéle]]) |
+| 97 | [[Archon]] ([[Archon messager|messager]]) |
+| 98 | [[Rakshasa]] |
+| 99 | [[Démon]] ([[balor]]) |
+| 100 | [[Diable]] ([[diantrefosse]]) |
 
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[séquestration]]* ; **Coût** 85 000 po (vide)

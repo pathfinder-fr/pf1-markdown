@@ -9,7 +9,16 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux thriae</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bâtisseuse thriae]]</td><td>14</td></tr><tr><td>[[Danseuse thriae]]</td><td>6</td></tr><tr><td>[[Oracle thriae]]</td><td>11</td></tr><tr><td>[[Reine thriae]]</td><td>18</td></tr><tr><td>[[Soldat thriae]]</td><td>4</td></tr></table>
+<p class="tablo-caption">Les principaux thriae</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Bâtisseuse thriae]] | 14 |
+| [[Danseuse thriae]] | 6 |
+| [[Oracle thriae]] | 11 |
+| [[Reine thriae]] | 18 |
+| [[Soldat thriae]] | 4 |
 
 </div></div><div class="description">**Source :** Bestiaire 3 p.253.</div>
 *Types/Sous-types associés : [[type Humanoïde monstrueux|Humanoïde monstrueux]]*

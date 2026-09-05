@@ -11,7 +11,39 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Les principaux diables</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chortov]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Diable accusateur]] (Zébub)</td><td>&nbsp;</td><td>3</td></tr><tr><td>[[Diable apostat]] (Deimavigga)</td><td>&nbsp;</td><td>17</td></tr><tr><td>[[Diable barbelé]] (Hamatula)</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Diable barbu]] (Barbazu)</td><td>&nbsp;</td><td>5</td></tr><tr><td>[[Diable belliciste]] (Lévaloch)</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Diable cornu]] (Cornugon)</td><td>&nbsp;</td><td>16</td></tr><tr><td>[[Diable de la noyade]] (Sarglagon)</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Diable de lhérésie|Diable de l'hérésie]] (Ayngavhaul)</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Diable de lost|Diable de l'ost]] (Magaav)</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav)</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Diable de lost mineur|Diable de l'ost mineur]] (Gaav)</td><td>&nbsp;</td><td>3</td></tr><tr><td>[[Diable des contrats]] (Phistophilius)</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Diable des glaces]] (Gélugon)</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Diable immolateur]] (Puragaus)</td><td>&nbsp;</td><td>19</td></tr><tr><td>[[Diable némésis]] (Advodaze)</td><td>&nbsp;</td><td>18</td></tr><tr><td>[[Diable osseux]] (Osyluth)</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Diable trompeur]] (Bdellavritra)</td><td>&nbsp;</td><td>16</td></tr><tr><td>[[Diable vestale]] (Gylou)</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Diablotin]]</td><td>&nbsp;</td><td>2</td></tr><tr><td>[[Diantrefosse]]</td><td>&nbsp;</td><td>20</td></tr><tr><td>[[Érinye]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Lémure]]</td><td>&nbsp;</td><td>1</td></tr><tr><td>[[Salikotal]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Ukobach]]</td><td>&nbsp;</td><td>4</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Diable osseux mythique]]</td><td>11</td><td>4</td></tr><tr><td>[[Diable des glaces mythique]]</td><td>16</td><td>6</td></tr></table>
+<p class="tablo-caption">Les principaux diables</p>
+
+{.tablo .autoalt}
+| Nom | &nbsp; | FP |
+| --- | --- | --- |
+| [[Chortov]] | &nbsp; | 9 |
+| [[Diable accusateur]] (Zébub) | &nbsp; | 3 |
+| [[Diable apostat]] (Deimavigga) | &nbsp; | 17 |
+| [[Diable barbelé]] (Hamatula) | &nbsp; | 11 |
+| [[Diable barbu]] (Barbazu) | &nbsp; | 5 |
+| [[Diable belliciste]] (Lévaloch) | &nbsp; | 7 |
+| [[Diable cornu]] (Cornugon) | &nbsp; | 16 |
+| [[Diable de la noyade]] (Sarglagon) | &nbsp; | 8 |
+| [[Diable de lhérésie|Diable de l'hérésie]] (Ayngavhaul) | &nbsp; | 12 |
+| [[Diable de lost|Diable de l'ost]] (Magaav) | &nbsp; | 6 |
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) | &nbsp; | 6 |
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) | &nbsp; | 3 |
+| [[Diable des contrats]] (Phistophilius) | &nbsp; | 10 |
+| [[Diable des glaces]] (Gélugon) | &nbsp; | 13 |
+| [[Diable immolateur]] (Puragaus) | &nbsp; | 19 |
+| [[Diable némésis]] (Advodaze) | &nbsp; | 18 |
+| [[Diable osseux]] (Osyluth) | &nbsp; | 9 |
+| [[Diable trompeur]] (Bdellavritra) | &nbsp; | 16 |
+| [[Diable vestale]] (Gylou) | &nbsp; | 14 |
+| [[Diablotin]] | &nbsp; | 2 |
+| [[Diantrefosse]] | &nbsp; | 20 |
+| [[Érinye]] | &nbsp; | 8 |
+| [[Lémure]] | &nbsp; | 1 |
+| [[Salikotal]] | &nbsp; | 7 |
+| [[Ukobach]] | &nbsp; | 4 |
+| **Membres mythiques** | **FP** | **RMY** |
+| [[Diable osseux mythique]] | 11 | 4 |
+| [[Diable des glaces mythique]] | 16 | 6 |
 
 </div></div><div class="description">**Source :** Bestiaire p.77.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])*

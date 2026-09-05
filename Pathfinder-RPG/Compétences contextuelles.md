@@ -25,11 +25,52 @@ La table suivante donne la liste des compétences nouvelles et redéfinies, ains
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr CLASS="titre"><td>Compétences d'aventure</td></tr><tr CLASS="premier"><td>[[Acrobaties]]</td></tr><tr><td>[[Art de la magie]]</td></tr><tr><td>[[Bluff]]</td></tr><tr><td>[[Connaissances]] (exploration souterraine)</td></tr><tr><td>[[Connaissances]] (folklore local)</td></tr><tr><td>[[Connaissances]] (mystères)</td></tr><tr><td>[[Connaissances]] (nature)</td></tr><tr><td>[[Connaissances]] (plans)</td></tr><tr><td>[[Connaissances]] (religion)</td></tr><tr><td>[[Déguisement]]</td></tr><tr><td>[[Diplomatie]]</td></tr><tr><td>[[Discrétion]]</td></tr><tr><td>[[Équitation]]</td></tr><tr><td>[[Escalade]]</td></tr><tr><td>[[Évasion]]</td></tr><tr><td>[[Intimidation]]</td></tr><tr><td>[[Natation]]</td></tr><tr><td>[[Perception]]</td></tr><tr><td>[[Premiers secours]]</td></tr><tr><td>[[Psychologie]]</td></tr><tr><td>[[Sabotage]]</td></tr><tr><td>[[Survie]]</td></tr><tr><td>[[UOM|Utilisation d’objets magiques]]</td></tr><tr><td>[[Vol]]</td></tr></table>
+{.tablo .centre .autoalt style="width:94%"}
+| Compétences d'aventure |
+| --- |
+| [[Acrobaties]] |
+| [[Art de la magie]] |
+| [[Bluff]] |
+| [[Connaissances]] (exploration souterraine) |
+| [[Connaissances]] (folklore local) |
+| [[Connaissances]] (mystères) |
+| [[Connaissances]] (nature) |
+| [[Connaissances]] (plans) |
+| [[Connaissances]] (religion) |
+| [[Déguisement]] |
+| [[Diplomatie]] |
+| [[Discrétion]] |
+| [[Équitation]] |
+| [[Escalade]] |
+| [[Évasion]] |
+| [[Intimidation]] |
+| [[Natation]] |
+| [[Perception]] |
+| [[Premiers secours]] |
+| [[Psychologie]] |
+| [[Sabotage]] |
+| [[Survie]] |
+| [[UOM|Utilisation d’objets magiques]] |
+| [[Vol]] |
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr CLASS="titre"><td>Compétences contextuelles</td></tr><tr CLASS="premier"><td>[[Artisanat]]</td></tr><tr><td>[[Connaissances]] (géographie)</td></tr><tr><td>[[Connaissances]] (histoire)</td></tr><tr><td>[[Connaissances]] (ingénierie)</td></tr><tr><td>[[Connaissances]] (noblesse)</td></tr><tr><td>[[Compétences contextuelles#CREATIONARTISTIQUE|Création artistique]]</td></tr><tr><td>[[Dressage]]</td></tr><tr><td>[[Escamotage]]</td></tr><tr><td>[[Estimation]]</td></tr><tr><td>[[Linguistique]]</td></tr><tr><td>[[Profession]]</td></tr><tr><td>[[Représentation]]</td></tr><tr><td>[[Compétences contextuelles#SAVOIR|Savoir]]</td></tr></table>
+{.tablo .centre .autoalt style="width:94%"}
+| Compétences contextuelles |
+| --- |
+| [[Artisanat]] |
+| [[Connaissances]] (géographie) |
+| [[Connaissances]] (histoire) |
+| [[Connaissances]] (ingénierie) |
+| [[Connaissances]] (noblesse) |
+| [[Compétences contextuelles#CREATIONARTISTIQUE|Création artistique]] |
+| [[Dressage]] |
+| [[Escamotage]] |
+| [[Estimation]] |
+| [[Linguistique]] |
+| [[Profession]] |
+| [[Représentation]] |
+| [[Compétences contextuelles#SAVOIR|Savoir]] |
 
 </td></tr></table>
 
@@ -74,7 +115,14 @@ Le personnage sait créer des œuvres d’art et peut tenter de gagner sa vie en
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td>DD du test de Création artistique</td><td>Qualité du travail</td></tr><tr CLASS="premier"><td>10</td><td>**Œuvre banale.** Personne n’achète l’œuvre originale du personnage, mais on lui propose quelques menus travaux lié à ses talents, qui consistent souvent à réparer ou à copier le travail de quelqu’un d’autre. Le personnage gagne 1d10 pc par jour.</td></tr><tr><td>15</td><td>**Œuvre plaisante.** Dans une cité florissante, le personnage trouve plusieurs clients désireux d’acquérir son œuvre. Il gagne 1d10 pa par jour.</td></tr><tr><td>20</td><td>**Œuvre impressionnante.** Dans une cité florissante, le personnage gagne 3d10 pa par jour et peut recevoir une commission artistique versée par une personnalité publique ou un individu riche. C’est ainsi que commence à se développer la réputation du personnage au niveau local.</td></tr><tr><td>25</td><td>**Œuvre mémorable.** Dans une cité florissante, le personnage gagne 1d6 po par jour. Il peut attirer l’attention de mécènes fortunés et commence à développer une réputation au niveau national.</td></tr><tr><td>30</td><td>**Chef d’œuvre.** Dans une cité florissante, le personnage gagne 3d6 po par jour. Avec le temps, il peut attirer l’attention de mécènes étrangers, voire d’entités extraplanaires.</td></tr></table>
+{.tablo .autoalt .toutgauche}
+| DD du test de Création artistique | Qualité du travail |
+| --- | --- |
+| 10 | **Œuvre banale.** Personne n’achète l’œuvre originale du personnage, mais on lui propose quelques menus travaux lié à ses talents, qui consistent souvent à réparer ou à copier le travail de quelqu’un d’autre. Le personnage gagne 1d10 pc par jour. |
+| 15 | **Œuvre plaisante.** Dans une cité florissante, le personnage trouve plusieurs clients désireux d’acquérir son œuvre. Il gagne 1d10 pa par jour. |
+| 20 | **Œuvre impressionnante.** Dans une cité florissante, le personnage gagne 3d10 pa par jour et peut recevoir une commission artistique versée par une personnalité publique ou un individu riche. C’est ainsi que commence à se développer la réputation du personnage au niveau local. |
+| 25 | **Œuvre mémorable.** Dans une cité florissante, le personnage gagne 1d6 po par jour. Il peut attirer l’attention de mécènes fortunés et commence à développer une réputation au niveau national. |
+| 30 | **Chef d’œuvre.** Dans une cité florissante, le personnage gagne 3d6 po par jour. Avec le temps, il peut attirer l’attention de mécènes étrangers, voire d’entités extraplanaires. |
 
 </center>
 
@@ -84,7 +132,14 @@ Puisque les œuvres d’art sont les produits de l’imagination, les outils de 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td>Qualité de l'œuvre</td><td>DD</td><td>Commission</td></tr><tr CLASS="premier"><td>Œuvre banale</td><td>10</td><td>1 pa</td></tr><tr><td>Œuvre plaisante</td><td>15</td><td>25 po (250 pa)</td></tr><tr><td>Œuvre impressionnante</td><td>20</td><td>50 po (500 pa)</td></tr><tr><td>Œuvre mémorable</td><td>25</td><td>100 po (1 000 pa)</td></tr><tr><td>Chef d’œuvre</td><td>30</td><td>200 po (2 000 pa)</td></tr></table>
+{.tablo .autoalt .toutgauche}
+| Qualité de l'œuvre | DD | Commission |
+| --- | --- | --- |
+| Œuvre banale | 10 | 1 pa |
+| Œuvre plaisante | 15 | 25 po (250 pa) |
+| Œuvre impressionnante | 20 | 50 po (500 pa) |
+| Œuvre mémorable | 25 | 100 po (1 000 pa) |
+| Chef d’œuvre | 30 | 200 po (2 000 pa) |
 
 </center></div></div>*Création d’une œuvre sur commande.* Si le personnage crée une œuvre particulière commandée par un client, déterminez la valeur de l’œuvre que le personnage souhaite créer en consultant la table ci-dessous, puis suivez les étapes indiquées. Le personnage doit avoir un client désireux de verser le prix fixé pour pouvoir créer une œuvre sur commande. Le montant touché lorsque le personnage tente de gagner sa vie en utilisant Création artistique provient d’œuvres massivement distribuées ou publiées, pas d’une commande achetée par un unique client.
 
@@ -137,7 +192,32 @@ Il faut connaitre les propriétés et la qualité d’un objet pour savoir le fa
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Tâche</td><td>Compétence d’Artisanat</td><td>DD</td></tr><tr CLASS="premier"><td>Déterminer de quelle culture un objet est issu (par ex., les elfes, les géants du froid, etc.)</td><td>En fonction du type d’objet</td><td>15</td></tr><tr><td>Identifier la signature d’un artisan célèbre</td><td>En fonction du type d’objet</td><td>10</td></tr><tr><td>Identifier la signature d’un artisan méconnu<sup>1</sup></td><td>En fonction du type d’objet</td><td>20</td></tr><tr><td>Identifier l’artisan à l’origine d’un objet non signé<sup>1</sup></td><td>En fonction du type d’objet</td><td>30</td></tr><tr><td>Déterminer la [[solidité]] et les points de vie d’un objet<sup>1</sup></td><td>En fonction du type d’objet</td><td>20</td></tr><tr><td>Déterminer les objets que peut fabriquer un [[alchimiste]] en examinant les substances présentes dans son laboratoire<sup>1</sup></td><td>Alchimie</td><td>15</td></tr><tr><td>Graver des motifs ornementaux sur les plates d’une armure métallique</td><td>Armures ou peintures</td><td>15</td></tr><tr><td>Identifier une [[armure de maître]] d’un simple coup d’œil</td><td>Armures</td><td>15</td></tr><tr><td>Déterminer le type d’environnement dans lequel ont été prélevés les matériaux utilisés pour la confection d’un panier</td><td>Paniers</td><td>10</td></tr><tr><td>Déterminer la région spécifique dans laquelle ont été prélevés les matériaux utilisés pour la confection d’un panier</td><td>Paniers</td><td>20</td></tr><tr><td>Fondre du minerai et raffiner du métal</td><td>Forge</td><td>15</td></tr><tr><td>Fabriquer des [[pointes pour armure (armure)|pointes d’armure]] ou de bouclier sans utiliser [[Artisanat]] (armures)<sup>1</sup></td><td>Forge</td><td>+5</td></tr><tr><td>Déterminer l’ancienneté approximative d’un livre</td><td>Livres</td><td>10</td></tr><tr><td>Identifier un [[arc long composite (arme)|arc composite]] d’un simple coup d’œil</td><td>Arcs</td><td>10</td></tr><tr><td>Identifier un arc [[arme de maître|de maître]] d’un simple coup d’œil</td><td>Arcs</td><td>15</td></tr><tr><td>Déterminer le niveau d’expérience d’un écrivain et s’il écrit de la main gauche ou droite</td><td>Calligraphie</td><td>10</td></tr><tr><td>Rédiger une invitation répondant aux conventions sociales</td><td>Calligraphie</td><td>10</td></tr><tr><td>Fabriquer un tonneau ou une caisse</td><td>Constructions en bois</td><td>10</td></tr><tr><td>Fabriquer un radeau rudimentaire avec des matériaux de récupération</td><td>Constructions en bois ou navires</td><td>15</td></tr><tr><td>Sculpter un joli objet dans du bois</td><td>Charpenterie ou sculpture</td><td>15</td></tr><tr><td>Fabriquer une [[armure de bois (armure)|armure de bois]] ou un bouclier en bois sans utiliser [[Artisanat]] (armures)</td><td>Charpenterie</td><td>+5</td></tr><tr><td>Teinter correctement un vêtement ou un rouleau de tissu</td><td>Étoffes</td><td>10</td></tr><tr><td>Raccommoder une voile</td><td>Étoffes, vêtements, navires</td><td>15</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Tâche | Compétence d’Artisanat | DD |
+| --- | --- | --- |
+| Déterminer de quelle culture un objet est issu (par ex., les elfes, les géants du froid, etc.) | En fonction du type d’objet | 15 |
+| Identifier la signature d’un artisan célèbre | En fonction du type d’objet | 10 |
+| Identifier la signature d’un artisan méconnu<sup>1</sup> | En fonction du type d’objet | 20 |
+| Identifier l’artisan à l’origine d’un objet non signé<sup>1</sup> | En fonction du type d’objet | 30 |
+| Déterminer la [[solidité]] et les points de vie d’un objet<sup>1</sup> | En fonction du type d’objet | 20 |
+| Déterminer les objets que peut fabriquer un [[alchimiste]] en examinant les substances présentes dans son laboratoire<sup>1</sup> | Alchimie | 15 |
+| Graver des motifs ornementaux sur les plates d’une armure métallique | Armures ou peintures | 15 |
+| Identifier une [[armure de maître]] d’un simple coup d’œil | Armures | 15 |
+| Déterminer le type d’environnement dans lequel ont été prélevés les matériaux utilisés pour la confection d’un panier | Paniers | 10 |
+| Déterminer la région spécifique dans laquelle ont été prélevés les matériaux utilisés pour la confection d’un panier | Paniers | 20 |
+| Fondre du minerai et raffiner du métal | Forge | 15 |
+| Fabriquer des [[pointes pour armure (armure)|pointes d’armure]] ou de bouclier sans utiliser [[Artisanat]] (armures)<sup>1</sup> | Forge | +5 |
+| Déterminer l’ancienneté approximative d’un livre | Livres | 10 |
+| Identifier un [[arc long composite (arme)|arc composite]] d’un simple coup d’œil | Arcs | 10 |
+| Identifier un arc [[arme de maître|de maître]] d’un simple coup d’œil | Arcs | 15 |
+| Déterminer le niveau d’expérience d’un écrivain et s’il écrit de la main gauche ou droite | Calligraphie | 10 |
+| Rédiger une invitation répondant aux conventions sociales | Calligraphie | 10 |
+| Fabriquer un tonneau ou une caisse | Constructions en bois | 10 |
+| Fabriquer un radeau rudimentaire avec des matériaux de récupération | Constructions en bois ou navires | 15 |
+| Sculpter un joli objet dans du bois | Charpenterie ou sculpture | 15 |
+| Fabriquer une [[armure de bois (armure)|armure de bois]] ou un bouclier en bois sans utiliser [[Artisanat]] (armures) | Charpenterie | +5 |
+| Teinter correctement un vêtement ou un rouleau de tissu | Étoffes | 10 |
+| Raccommoder une voile | Étoffes, vêtements, navires | 15 |
 
 </td><td width="50%">
 
@@ -149,7 +229,26 @@ La table ci-dessous précise les compétences d’[[Artisanat]] à utiliser pour
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Tâche</td><td>Compétence d’Artisanat</td></tr><tr CLASS="premier"><td>[[Animaux, montures et leur équipement#Barde|Armures pour animaux]]</td><td>Armures</td></tr><tr><td>[[Équipement daventurier#Chaîne (3 m)|Chaîne]]</td><td>Forge ou pièges</td></tr><tr><td>[[Moyens de transport#Charrette|Charrette]] ou [[Moyens de transport#Diligence|diligence]]</td><td>Constructions en bois</td></tr><tr><td>[[Équipement daventurier#Chausse-trappes|Chausse-trappes]]</td><td>Armes</td></tr><tr><td>[[Équipement daventurier#Chevalière|Chevalière]]</td><td>Bijoux</td></tr><tr><td>[[Équipement daventurier#Coffre|Coffre]]</td><td>Constructions en bois ou serrures</td></tr><tr><td>[[Équipement daventurier#Corde|Corde en chanvre]]</td><td>Paniers ou étoffes</td></tr><tr><td>[[Équipement daventurier#Corde en soie|Corde en soie]]</td><td>Étoffes</td></tr><tr><td>[[Équipement daventurier#Étui à parchemins|Étui à parchemins]]</td><td>Constructions en bois ou travail du cuir</td></tr><tr><td>[[Équipement daventurier#Grappin|Grappin]]</td><td>Forge ou armes</td></tr><tr><td>[[Trousses doutils et de compétences#Instrument de musique|Instrument de musique]]</td><td>Instruments de musique</td></tr><tr><td>[[Équipement daventurier#Jeu du tourment|Jeu du tourment]]</td><td>Peintures</td></tr><tr><td>[[Trousses doutils et de compétences#Laboratoire d'alchimiste|Laboratoire d’alchimiste]]</td><td>Alchimie</td></tr><tr><td>[[Équipement daventurier#Lampe|Lampe]]</td><td>Forge ou travail du verre</td></tr><tr><td>[[Équipement daventurier#Longue vue|Longue vue]]</td><td>Travail du verre</td></tr><tr><td>[[Trousses doutils et de compétences#Matériel d'escalade|Matériel d’escalade]]</td><td>Forge</td></tr><tr><td>[[Équipement daventurier#Menottes|Menottes]]</td><td>Forge ou serrures</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Tâche | Compétence d’Artisanat |
+| --- | --- |
+| [[Animaux, montures et leur équipement#Barde|Armures pour animaux]] | Armures |
+| [[Équipement daventurier#Chaîne (3 m)|Chaîne]] | Forge ou pièges |
+| [[Moyens de transport#Charrette|Charrette]] ou [[Moyens de transport#Diligence|diligence]] | Constructions en bois |
+| [[Équipement daventurier#Chausse-trappes|Chausse-trappes]] | Armes |
+| [[Équipement daventurier#Chevalière|Chevalière]] | Bijoux |
+| [[Équipement daventurier#Coffre|Coffre]] | Constructions en bois ou serrures |
+| [[Équipement daventurier#Corde|Corde en chanvre]] | Paniers ou étoffes |
+| [[Équipement daventurier#Corde en soie|Corde en soie]] | Étoffes |
+| [[Équipement daventurier#Étui à parchemins|Étui à parchemins]] | Constructions en bois ou travail du cuir |
+| [[Équipement daventurier#Grappin|Grappin]] | Forge ou armes |
+| [[Trousses doutils et de compétences#Instrument de musique|Instrument de musique]] | Instruments de musique |
+| [[Équipement daventurier#Jeu du tourment|Jeu du tourment]] | Peintures |
+| [[Trousses doutils et de compétences#Laboratoire d'alchimiste|Laboratoire d’alchimiste]] | Alchimie |
+| [[Équipement daventurier#Lampe|Lampe]] | Forge ou travail du verre |
+| [[Équipement daventurier#Longue vue|Longue vue]] | Travail du verre |
+| [[Trousses doutils et de compétences#Matériel d'escalade|Matériel d’escalade]] | Forge |
+| [[Équipement daventurier#Menottes|Menottes]] | Forge ou serrures |
 
 </td><td width="50%">
 
@@ -161,7 +260,20 @@ La table suivante indique les compétences d’Artisanat généralement utilisé
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Objet porté</td><td>Compétence d’Artisanat</td></tr><tr CLASS="premier"><td>Amulette</td><td>Bijoux</td></tr><tr><td>Anneau</td><td>Bijoux</td></tr><tr><td>Bandeau</td><td>Étoffes ou vêtements</td></tr><tr><td>Bracelet</td><td>Forge ou bijoux</td></tr><tr><td>Brassard</td><td>Armures ou travail du cuir</td></tr><tr><td>Broche</td><td>Bijoux</td></tr><tr><td>Cape ou manteau</td><td>Étoffes ou vêtements</td></tr><tr><td>Casque</td><td>Armures</td></tr><tr><td>Ceinture</td><td>Travail du cuir ou vêtements</td></tr><tr><td>Collier</td><td>Forge ou bijoux</td></tr><tr><td>Corset</td><td>Vêtements ou travail du cuir</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Objet porté | Compétence d’Artisanat |
+| --- | --- |
+| Amulette | Bijoux |
+| Anneau | Bijoux |
+| Bandeau | Étoffes ou vêtements |
+| Bracelet | Forge ou bijoux |
+| Brassard | Armures ou travail du cuir |
+| Broche | Bijoux |
+| Cape ou manteau | Étoffes ou vêtements |
+| Casque | Armures |
+| Ceinture | Travail du cuir ou vêtements |
+| Collier | Forge ou bijoux |
+| Corset | Vêtements ou travail du cuir |
 
 </td><td width="50%">
 
@@ -174,7 +286,35 @@ Une profession englobe souvent de nombreux domaines d’expertise auxiliaires et
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Tâche</td><td>Compétence de Profession</td><td>DD</td></tr><tr CLASS="premier"><td>Déterminer la solidité et les points de vie d’une bâtisse</td><td>Architecte ou ingénieur</td><td>20</td></tr><tr><td>Préparer des [[Nourriture et boissons#Rations de survie|rations de survie]] (1 heure de travail pour un jour de ration)</td><td>Boulanger ou cuisinier</td><td>10</td></tr><tr><td>Obtenir une autorisation officielle</td><td>Avocat ou clerc</td><td>15</td></tr><tr><td>Faire sortir de prison quelqu’un qui a été emprisonné pour un délit mineur<sup>1</sup></td><td>Avocat</td><td>20</td></tr><tr><td>Demander une faveur spéciale à un juge (appréhender un individu, par exemple)</td><td>Avocat</td><td>30</td></tr><tr><td>Distiller un alcool d’une qualité exceptionnelle</td><td>Brasseur</td><td>20</td></tr><tr><td>Détecter un poison dans une boisson</td><td>Brasseur</td><td>25</td></tr><tr><td>Écorcher un animal et tanner sa peau</td><td>Boucher, berger ou tanneur</td><td>10</td></tr><tr><td>Abattre et dépecer un animal</td><td>Boucher, cuisinier ou berger</td><td>15</td></tr><tr><td>Réduire le montant d’une taxe ou d’un impôt officiel d’un nombre de po égal à la moitié du résultat du test<sup>2</sup></td><td>Clerc</td><td>20 ou +</td></tr><tr><td>Cuisiner un repas d’une qualité exceptionnelle</td><td>Cuisinier</td><td>20</td></tr><tr><td>Détecter un poison dans de la nourriture</td><td>Cuisinier</td><td>25</td></tr><tr><td>Trouver des clients potentiels au sein d’un établissement ou d’un d’un grand groupe d’individus</td><td>Courtisan</td><td>10</td></tr><tr><td>Jauger une hiérarchie sociale</td><td>Courtisan</td><td>15</td></tr><tr><td>Continuer à conduire un véhicule en subissant des dégâts</td><td>Conducteur d’attelage ou marin</td><td>5</td></tr><tr><td>Se mettre à l’abri (comme avec la compétence [[Équitation]]) tout en conduisant un véhicule</td><td>Conducteur d’attelage ou marin</td><td>15</td></tr><tr><td>Identifier une plante qui n’est pas une créature</td><td>Fermier ou jardinier</td><td>10</td></tr><tr><td>Revivifier des plantes en train de mourir</td><td>Fermier ou jardinier</td><td>15</td></tr><tr><td>Fournir une journée de nourriture pour le personnage et autrui en pleine nature</td><td>Pêcheur ou trappeur</td><td>15<sup>3</sup></td></tr><tr><td>Se souvenir des règles d’un jeu de hasard</td><td>Joueur</td><td>10</td></tr><tr><td>Avoir l’intuition qu’un jeu est truqué</td><td>Joueur</td><td>20</td></tr><tr><td>Réduire de 50% le coût de la vie s’il est moyen ou inférieur</td><td>Tavernier</td><td>15<sup>3</sup></td></tr><tr><td>Calmer la faim ou la soif pour une journée</td><td>Herboriste</td><td>10</td></tr><tr><td>Identifier des herbes médicinales courantes</td><td>Herboriste</td><td>10</td></tr><tr><td>Identifier des herbes médicinales rares</td><td>Herboriste</td><td>15</td></tr><tr><td>Aider quelqu’un lors d’un test de [[Connaissances]] en utilisant des ouvrages de référence</td><td>Bibliothécaire</td><td>5</td></tr></table>
+{.tablo .centre .autoalt style="width:96%"}
+| Tâche | Compétence de Profession | DD |
+| --- | --- | --- |
+| Déterminer la solidité et les points de vie d’une bâtisse | Architecte ou ingénieur | 20 |
+| Préparer des [[Nourriture et boissons#Rations de survie|rations de survie]] (1 heure de travail pour un jour de ration) | Boulanger ou cuisinier | 10 |
+| Obtenir une autorisation officielle | Avocat ou clerc | 15 |
+| Faire sortir de prison quelqu’un qui a été emprisonné pour un délit mineur<sup>1</sup> | Avocat | 20 |
+| Demander une faveur spéciale à un juge (appréhender un individu, par exemple) | Avocat | 30 |
+| Distiller un alcool d’une qualité exceptionnelle | Brasseur | 20 |
+| Détecter un poison dans une boisson | Brasseur | 25 |
+| Écorcher un animal et tanner sa peau | Boucher, berger ou tanneur | 10 |
+| Abattre et dépecer un animal | Boucher, cuisinier ou berger | 15 |
+| Réduire le montant d’une taxe ou d’un impôt officiel d’un nombre de po égal à la moitié du résultat du test<sup>2</sup> | Clerc | 20 ou + |
+| Cuisiner un repas d’une qualité exceptionnelle | Cuisinier | 20 |
+| Détecter un poison dans de la nourriture | Cuisinier | 25 |
+| Trouver des clients potentiels au sein d’un établissement ou d’un d’un grand groupe d’individus | Courtisan | 10 |
+| Jauger une hiérarchie sociale | Courtisan | 15 |
+| Continuer à conduire un véhicule en subissant des dégâts | Conducteur d’attelage ou marin | 5 |
+| Se mettre à l’abri (comme avec la compétence [[Équitation]]) tout en conduisant un véhicule | Conducteur d’attelage ou marin | 15 |
+| Identifier une plante qui n’est pas une créature | Fermier ou jardinier | 10 |
+| Revivifier des plantes en train de mourir | Fermier ou jardinier | 15 |
+| Fournir une journée de nourriture pour le personnage et autrui en pleine nature | Pêcheur ou trappeur | 15<sup>3</sup> |
+| Se souvenir des règles d’un jeu de hasard | Joueur | 10 |
+| Avoir l’intuition qu’un jeu est truqué | Joueur | 20 |
+| Réduire de 50% le coût de la vie s’il est moyen ou inférieur | Tavernier | 15<sup>3</sup> |
+| Calmer la faim ou la soif pour une journée | Herboriste | 10 |
+| Identifier des herbes médicinales courantes | Herboriste | 10 |
+| Identifier des herbes médicinales rares | Herboriste | 15 |
+| Aider quelqu’un lors d’un test de [[Connaissances]] en utilisant des ouvrages de référence | Bibliothécaire | 5 |
 
 </td><td width="50%">
 
@@ -186,4 +326,10 @@ Une profession englobe souvent de nombreux domaines d’expertise auxiliaires et
 En plus de savoir donner des spectacles, un artiste connait les œuvres majeures du type de représentation choisi.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="60%"><tr CLASS="titre"><td>Tâche</td><td>Compétence de Représentation</td><td>DD</td></tr><tr CLASS="premier"><td>Reproduire le style d’un artiste célèbre</td><td>Variable</td><td>15</td></tr><tr><td>Se rappeler ou reconnaître toutes les notes, les paroles ou les textes d’une œuvre populaire</td><td>Variable</td><td>15</td></tr><tr><td>Se rappeler ou reconnaitre toutes les notes, les paroles ou les textes d’une œuvre méconnue</td><td>Variable</td><td>20</td></tr><tr><td>Improviser un numéro sur un sujet spécifique</td><td>Scène, farce, déclamation ou chant</td><td>20</td></tr></table>
+{.tablo .centre .autoalt style="width:60%"}
+| Tâche | Compétence de Représentation | DD |
+| --- | --- | --- |
+| Reproduire le style d’un artiste célèbre | Variable | 15 |
+| Se rappeler ou reconnaître toutes les notes, les paroles ou les textes d’une œuvre populaire | Variable | 15 |
+| Se rappeler ou reconnaitre toutes les notes, les paroles ou les textes d’une œuvre méconnue | Variable | 20 |
+| Improviser un numéro sur un sujet spécifique | Scène, farce, déclamation ou chant | 20 |

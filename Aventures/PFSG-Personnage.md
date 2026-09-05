@@ -15,7 +15,13 @@ Ce chapitre contient tout ce que vous avez besoin de connaître pour créer un p
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}a *Campagne Organisée de la Société des Éclaireurs* utilise, en ce qui concerne la détermination des valeurs de caractéristique, la méthode de l'achat de points qui est décrite au chapitre 1 ([[Pathfinder-RPG.caractéristiques#Déterminer_les_caractéristiques_7|tableau 1-2]]) du *Manuel des joueurs*. La Campagne de la Société des Éclaireurs est considérée comme une «campagne fantastique», de ce fait, chaque joueur dispose de 20 points à répartir entre les six [[Pathfinder-RPG.caractéristiques|caractéristiques]], ce qui vous permet de bâtir un personnage solide dès le 1er niveau.
 
 
-<table CLASS="tablo"><caption>TABLE 2-1 : COUTS DES CARACTÉRISTIQUES</caption><tr CLASS="titre"><td>Caractéristique</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr CLASS="premier"><td>Cout (Points)</td><td>-4</td><td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td><td>5</td><td>7</td><td>10</td><td>13</td><td>17</td></tr><tr><td>Modificateur</td><td>-2</td><td>-1</td><td>-1</td><td>0</td><td>0</td><td>+1</td><td>+1</td><td>+2</td><td>+2</td><td>+3</td><td>+3</td><td>+4</td></tr></table>
+<p class="tablo-caption">TABLE 2-1 : COUTS DES CARACTÉRISTIQUES</p>
+
+{.tablo}
+| Caractéristique | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cout (Points) | -4 | -2 | -1 | 0 | 1 | 2 | 3 | 5 | 7 | 10 | 13 | 17 |
+| Modificateur | -2 | -1 | -1 | 0 | 0 | +1 | +1 | +2 | +2 | +3 | +3 | +4 |
 
 
 (((Les points de caractéristique gagnés au fur et à mesure des niveaux n’utilisent pas ce tableau. Ce sont des points à part entière qui sont ajoutés selon les règles du *Manuel des joueurs*.)))
@@ -103,7 +109,15 @@ Consultez la table suivante pour trouver les valeurs appropriées pour votre per
 
 
 
-<table CLASS="tablo"><caption>TABLE 2-2 : POINTS DE VIE PAR CLASSE</caption><tr CLASS="titre"><td>Classe</td><td>Dé de Vie</br>(Hit dice)</td><td>PdV (HP)</br>au 1er niveau</td><td>PdV (HP)</br>Gagnés par Niveau</td></tr><tr CLASS="premier"><td>Ensorceleur, sorcière<sup>1</sup>, Magicien</td><td>d6</td><td>6</td><td>4</td></tr><tr><td>Alchimiste<sup>1</sup>, barde, prêtre, druide, </br>inquisiteur<sup>1</sup>, magus<sup>2</sup>, moine, ninja<sup>3</sup>,</br>oracle<sup>1</sup>, roublard, conjurateur<sup>1</sup></td><td>d8</td><td>8</td><td>5</td></tr><tr><td>Chevalier<sup>1</sup>, guerrier, pistolier<sup>3</sup>,</br>paladin, rôdeur, samuraï<sup>3</sup></td><td>d10</td><td>10</td><td>6</td></tr><tr><td>Barbare</td><td>d12</td><td>12</td><td>7</td></tr></table>
+<p class="tablo-caption">TABLE 2-2 : POINTS DE VIE PAR CLASSE</p>
+
+{.tablo}
+| Classe | Dé de Vie</br>(Hit dice) | PdV (HP)</br>au 1er niveau | PdV (HP)</br>Gagnés par Niveau |
+| --- | --- | --- | --- |
+| Ensorceleur, sorcière<sup>1</sup>, Magicien | d6 | 6 | 4 |
+| Alchimiste<sup>1</sup>, barde, prêtre, druide, </br>inquisiteur<sup>1</sup>, magus<sup>2</sup>, moine, ninja<sup>3</sup>,</br>oracle<sup>1</sup>, roublard, conjurateur<sup>1</sup> | d8 | 8 | 5 |
+| Chevalier<sup>1</sup>, guerrier, pistolier<sup>3</sup>,</br>paladin, rôdeur, samuraï<sup>3</sup> | d10 | 10 | 6 |
+| Barbare | d12 | 12 | 7 |
 
 
 <small>1 Apparait dans le *Manuel du joueur - Règles avancées*.</br>

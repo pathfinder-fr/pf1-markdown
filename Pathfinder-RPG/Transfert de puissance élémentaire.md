@@ -39,7 +39,12 @@ Ce sort fonctionne comme *[[transfert de sorts]]*, à la seule différence que l
 Au terme de l’incantation, le [[prêtre]] transfère à la créature de son choix un ou plusieurs sorts qu’il a préparés. Le bénéficiaire, qui doit avoir un minimum de 5 en [[Intelligence]] et de 9 en [[Sagesse]], peut alors lancer ces sorts comme s’il les avait préparés normalement. Le lanceur ne peut transmettre que des [[abjuration|abjurations]], des [[divination|divinations]] et des [[invocation|invocations]] ([[guérison]]) de cette manière. Le nombre de sorts transférés (et leur niveau) dépend uniquement du nombre de [[DV]] de la créature ; Le lanceur de sorts aura beau lancer *transfert de sorts* à plusieurs reprises il ne pourra pas dépasser cette limite.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>DV du bénéficiaire</td><td>Sorts transférés</td></tr><tr CLASS="premier"><td>2 ou moins</td><td>1 sort du 1er [[niveau de sort|niveau]]</td></tr><tr><td>3–4</td><td>1 ou 2 sorts du 1er [[niveau de sort|niveau]]</td></tr><tr><td>5+</td><td>1 ou 2 sorts du 1er [[niveau de sort|niveau]] et 1 du 2e [[niveau de sort|niveau]]</td></tr></table>
+{.tablo .centre .autoalt}
+| DV du bénéficiaire | Sorts transférés |
+| --- | --- |
+| 2 ou moins | 1 sort du 1er [[niveau de sort|niveau]] |
+| 3–4 | 1 ou 2 sorts du 1er [[niveau de sort|niveau]] |
+| 5+ | 1 ou 2 sorts du 1er [[niveau de sort|niveau]] et 1 du 2e [[niveau de sort|niveau]] |
 
 
 Les caractéristiques variables du sort (portée, durée, zone d’effet, etc.) sont calculées à partir du [[NLS|niveau du lanceur de sorts]], pas du nombre de [[DV]] de la créature qui le reçoit.

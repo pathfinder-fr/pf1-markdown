@@ -45,7 +45,15 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de veela</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Veela de lair|Veela de l'air]]</td><td>7</td></tr><tr><td>[[Veela de la terre]]</td><td>7</td></tr><tr><td>[[Veela de leau|Veela de l'eau]]</td><td>7</td></tr><tr><td>[[Veela du feu]]</td><td>7</td></tr></table>
+<p class="tablo-caption">Variantes de veela</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Veela de lair|Veela de l'air]] | 7 |
+| [[Veela de la terre]] | 7 |
+| [[Veela de leau|Veela de l'eau]] | 7 |
+| [[Veela du feu]] | 7 |
 
 </div>*Ce mince humanoïde androgyne présente une grâce surnaturelle et une peau à la couleur surprenante.*
 

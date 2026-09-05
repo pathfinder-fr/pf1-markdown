@@ -21,7 +21,12 @@ Categories:
 Le personnage brouille la limite entre le corps et l'esprit, redirigeant les [[Affaiblissement temporaire (capacité)|affaiblissements]] et les [[Affaiblissement temporaire (capacité)|diminutions de caractéristique]] affectant sa cible à d'autres caractéristiques selon le tableau ci-dessous.
 
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Caractéristiques physiques</td><td>Caractéristiques mentales</td></tr><tr CLASS="premier"><td>[[Force]]</td><td>[[Intelligence]]</td></tr><tr><td>[[Dextérité]]</td><td>[[Sagesse]]</td></tr><tr><td>[[Constitution]]</td><td>[[Charisme]]</td></tr></table>
+{.tablo .centre .toutgauche .autoalt}
+| Caractéristiques physiques | Caractéristiques mentales |
+| --- | --- |
+| [[Force]] | [[Intelligence]] |
+| [[Dextérité]] | [[Sagesse]] |
+| [[Constitution]] | [[Charisme]] |
 
 
 Le transfert de dégâts peut se faire dans n'importe quel sens, le personnage peut convertir un affaiblissement d'Intelligence en Force et inversement. Le personnage peut transférer n'importe quel nombre de points d'affaiblissement ou de diminution en une seule incantation, mais seulement d'une caractéristique à celle correspondante. Il ne peut pas transférer assez de points pour réduire une valeur de caractéristique à 0.

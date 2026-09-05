@@ -56,7 +56,29 @@ Ces évènements sont appropriés à la plupart des codes d’honneur, y compris
 Ces évènements s’appliquent aux codes de chevalerie ou arthuriens.
 
 
-<table CLASS="tablo centre autoalt"><caption>Code de chevalerie</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Devenir un seigneur ou quelqu’un de rang similaire</td><td>+50</td></tr><tr><td>Vaincre un seigneur noble en combat</td><td>+20</td></tr><tr><td>Accepter de protéger un allié honorable et être responsable de sa sécurité</td><td>+10</td></tr><tr><td>Amener un ennemi sans honneur à se repentir</td><td>+6</td></tr><tr><td>Acquérir des vassaux</td><td>+4</td></tr><tr><td>Offrir asile et défendre cette offre</td><td>+3</td></tr><tr><td>Jurer fidélité à un seigneur</td><td>+3</td></tr><tr><td>Vaincre un monstre difficile d’alignement opposé (FP supérieur de 2 ou plus au niveau moyen du groupe)</td><td>+2</td></tr><tr><td>Protéger un site sacré de sa religion contre des attaquants</td><td>+2</td></tr><tr><td>Protéger un innocent dans une situation désespérée (FP supérieur de 2 ou plus au niveau moyen du groupe)</td><td>+2</td></tr><tr><td>Prêter un serment majeur et s’y tenir</td><td>+2</td></tr><tr><td>Remporter un tournoi</td><td>+1</td></tr><tr><td>Accepter la parole d’un ennemi et refuser de payer la rançon</td><td>-2</td></tr><tr><td>Être trahi par un ennemi « repenti »</td><td>-2</td></tr><tr><td>Être accusé d’une infraction mineure</td><td>-2</td></tr><tr><td>Offrir asile et trahir sa parole</td><td>-4</td></tr><tr><td>Prêter un serment majeur et le briser</td><td>-4</td></tr><tr><td>Remporter un tournoi en trichant</td><td>-5</td></tr></table>
+<p class="tablo-caption">Code de chevalerie</p>
+
+{.tablo .centre .autoalt}
+| Évènements | Points d'honneur |
+| --- | --- |
+| Devenir un seigneur ou quelqu’un de rang similaire | +50 |
+| Vaincre un seigneur noble en combat | +20 |
+| Accepter de protéger un allié honorable et être responsable de sa sécurité | +10 |
+| Amener un ennemi sans honneur à se repentir | +6 |
+| Acquérir des vassaux | +4 |
+| Offrir asile et défendre cette offre | +3 |
+| Jurer fidélité à un seigneur | +3 |
+| Vaincre un monstre difficile d’alignement opposé (FP supérieur de 2 ou plus au niveau moyen du groupe) | +2 |
+| Protéger un site sacré de sa religion contre des attaquants | +2 |
+| Protéger un innocent dans une situation désespérée (FP supérieur de 2 ou plus au niveau moyen du groupe) | +2 |
+| Prêter un serment majeur et s’y tenir | +2 |
+| Remporter un tournoi | +1 |
+| Accepter la parole d’un ennemi et refuser de payer la rançon | -2 |
+| Être trahi par un ennemi « repenti » | -2 |
+| Être accusé d’une infraction mineure | -2 |
+| Offrir asile et trahir sa parole | -4 |
+| Prêter un serment majeur et le briser | -4 |
+| Remporter un tournoi en trichant | -5 |
 
 
 #### Le code criminel
@@ -84,4 +106,29 @@ Ces évènements s’appliquent aux codes des samouraïs.
 Ces évènements s’appliquent aux sociétés tribales ou nomades.
 
 
-<table CLASS="tablo centre autoalt"><caption>Code tribal</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Devenir chef de clan</td><td>+50</td></tr><tr><td>Vaincre le chef de sa tribu en combat singulier et devenir chef</td><td>+20</td></tr><tr><td>Obtenir justice face à un grand manque de respect à l’égard de sa famille, de sa tribu ou de son clan</td><td>+3</td></tr><tr><td>Défendre son village ou son camp contre un assaut</td><td>+2</td></tr><tr><td>Développer une image publique crainte et reconnaissable</td><td>+2</td></tr><tr><td>Dépasser les basiques de l’hospitalité</td><td>+2</td></tr><tr><td>Représenter sa tribu lors d’une réunion de clans</td><td>+2</td></tr><tr><td>Se dresser contre 10 adversaires (que le conflit soit physique, social ou artistique)</td><td>+2</td></tr><tr><td>Défier le chef de sa tribu en combat singulier pour le commandement</td><td>+1</td></tr><tr><td>Développer une nouvelle tradition tribale</td><td>+1</td></tr><tr><td>Faire valoir la justice tribale pour une transgression grave</td><td>+1</td></tr><tr><td>Obtenir justice pour une petite insulte faite à sa famille, sa tribu ou son clan</td><td>+1</td></tr><tr><td>Le groupe fait appliquer le code de l’hospitalité</td><td>+1</td></tr><tr><td>Enfreindre le code de conduite tribal</td><td>-1</td></tr><tr><td>Dire du mal de son clan à l’extérieur de celui-ci</td><td>-1</td></tr><tr><td>Dire du mal de sa tribu au sein de celle-ci</td><td>-2</td></tr><tr><td>Reculer devant un combat singulier</td><td>-3</td></tr><tr><td>Ignorer la chaîne de commandement tribale</td><td>-3</td></tr><tr><td>Le groupe refuse l’hospitalité à d’autres voyageurs</td><td>-3</td></tr><tr><td>Dénoncer un membre de sa famille</td><td>-3</td></tr><tr><td>Le groupe tire profit de l’hospitalité de ses hôtes puis trahit ces derniers</td><td>-5</td></tr></table>
+<p class="tablo-caption">Code tribal</p>
+
+{.tablo .centre .autoalt}
+| Évènements | Points d'honneur |
+| --- | --- |
+| Devenir chef de clan | +50 |
+| Vaincre le chef de sa tribu en combat singulier et devenir chef | +20 |
+| Obtenir justice face à un grand manque de respect à l’égard de sa famille, de sa tribu ou de son clan | +3 |
+| Défendre son village ou son camp contre un assaut | +2 |
+| Développer une image publique crainte et reconnaissable | +2 |
+| Dépasser les basiques de l’hospitalité | +2 |
+| Représenter sa tribu lors d’une réunion de clans | +2 |
+| Se dresser contre 10 adversaires (que le conflit soit physique, social ou artistique) | +2 |
+| Défier le chef de sa tribu en combat singulier pour le commandement | +1 |
+| Développer une nouvelle tradition tribale | +1 |
+| Faire valoir la justice tribale pour une transgression grave | +1 |
+| Obtenir justice pour une petite insulte faite à sa famille, sa tribu ou son clan | +1 |
+| Le groupe fait appliquer le code de l’hospitalité | +1 |
+| Enfreindre le code de conduite tribal | -1 |
+| Dire du mal de son clan à l’extérieur de celui-ci | -1 |
+| Dire du mal de sa tribu au sein de celle-ci | -2 |
+| Reculer devant un combat singulier | -3 |
+| Ignorer la chaîne de commandement tribale | -3 |
+| Le groupe refuse l’hospitalité à d’autres voyageurs | -3 |
+| Dénoncer un membre de sa famille | -3 |
+| Le groupe tire profit de l’hospitalité de ses hôtes puis trahit ces derniers | -5 |

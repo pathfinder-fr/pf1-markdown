@@ -36,7 +36,13 @@ Categories:
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de raie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Raie à aiguillon]]</td><td>1/2</td></tr><tr><td>[[Raie manta]]</td><td>1</td></tr></table>
+<p class="tablo-caption">Variantes de raie</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Raie à aiguillon]] | 1/2 |
+| [[Raie manta]] | 1 |
 
 </div>''Cette  grande  raie  avale  de  petits  morceaux  dans  sa  large  bouche  tout  en
 glissant agilement dans les eaux grâce à des nageoires ressemblant à des ailes.''

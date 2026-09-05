@@ -11,7 +11,14 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo autoalt"><caption>Variantes de kaiju</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Agyra]]</td><td>27</td></tr><tr><td>[[Bézravnis]]</td><td>26</td></tr><tr><td>[[Mogaru]]</td><td>28</td></tr></table>
+<p class="tablo-caption">Variantes de kaiju</p>
+
+{.tablo .autoalt}
+| Nom | FP |
+| --- | --- |
+| [[Agyra]] | 27 |
+| [[Bézravnis]] | 26 |
+| [[Mogaru]] | 28 |
 
 </div></div><div class="description">**Source :** Bestiaire 4 p.159.</div>
 *Types/Sous-types associés : [[type Créature magique|Créature magique]] ([[sous-type kaiju|kaiju]]).*
