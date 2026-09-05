@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (texte saint rédigé sur un parchemin)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort fait apparaître autour du bénéficiaire une aura scintillante repoussant les attaques. *Bouclier de la foi* confère un bonus de parade de +2 à la [[CA]], +1 tous les six [[NLS|niveaux de lanceur de sorts]] (jusqu’à un bonus maximum de +5 au [[niveau]] 18).

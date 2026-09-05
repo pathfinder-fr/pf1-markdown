@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[personnelle]]  
-
 **Effet** une [[nuée daraignées|nuée d'araignées]]  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Le personnage vomit une [[nuée daraignées|nuée d'araignées]] qui attaque toutes les créatures qui se trouvent dans la zone. La nuée apparaît dans une case adjacente au personnage mais si cette case ne contient pas de créature vivante, elle se dirige à sa vitesse normale dans une direction choisie par le lanceur de sorts. Ce dernier peut déplacer la nuée ou changer sa direction par une [[action simple]], en se concentrant sur elle, sinon la nuée continue d'avancer dans sa direction actuelle. Si le personnage possède au moins un [[NLS|niveau de lanceur de sorts]] de 7, il peut vomir une [[nuée de guêpes]]. Enfin, si son [[NLS|niveau de lanceur de sorts]] est de 13 au minimum, il peut vomir une [[nuée de fourmis soldats]].

@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)
 
 La parole du [[barde]] est des plus faciles et persuasives. Il bénéficie d’un bonus de +20 aux tests de [[Bluff]] visant à convaincre autrui de la véracité de ses propos. Ce bonus ne s’applique pas aux autres utilisations de la compétence [[Bluff]], notamment exécuter une [[feinte]] en combat, créer une diversion pour [[abri|se cacher]], ou transmettre un message secret.

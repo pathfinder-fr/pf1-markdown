@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}** École **[[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 [[round]]/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>

@@ -475,7 +475,6 @@ Un roublard disposant de ce talent peut appliquer deux doses de [[poison]] en m�
 | Capitale
 | 35
 |}</div> Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).  
-
 Le [[DD]] est basé sur la taille de la ville et il faut une semaine pour que la rumeur se propage. En cas de réussite, la communauté accepte la rumeur comme un fait avéré. Si le roublard bat le [[DD]] de 5 ou plus, il réduit le temps que la nouvelle met pour se répandre de 1d4 jours. En cas d’échec, la rumeur n’a aucun poids mais si le roublard rate son test de 5 ou plus, c’est la rumeur inverse ou une théorie opposée qui se répand sur le sujet.
 
 {s:APG}{s:Reference|COUPASSOMMANT}

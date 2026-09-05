@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 3  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** objet touché  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 L’objet touché émet une vive lumière dans un rayon de 6 mètres (4 {s:c}). Cet effet se présente sous forme de flamme stable qui n’émet pas de chaleur et ne consomme pas d’oxygène. Les alliés qui se trouvent dans la zone éclairée gagnent un bonus d’altération de +2 aux tests de [[Perception]] et de [[Psychologie]], ainsi qu’aux tests de [[Connaissances]] pour identifier les monstres qui se trouvent dans la zone et pour connaître leurs pouvoirs spéciaux et leurs faiblesses.

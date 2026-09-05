@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 15 m (10 {s:c})  
-
 **Zone d'effet** tous les adversaires se trouvant à 15 m (10 {s:c}) ou moins  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Imprécation* instille le doute et la peur chez les adversaires du lanceur de sorts. Toutes les créatures affectées subissent un malus de moral de -1 aux [[jet dattaque|jets d’attaque]] et aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[Présentation des sorts#REGISTRE|terreur]].

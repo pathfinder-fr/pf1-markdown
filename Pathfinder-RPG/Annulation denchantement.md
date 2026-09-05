@@ -22,17 +22,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** jusqu’à 1 créature/[[niveau]], chacune ne devant pas se trouver à plus de 9 m des autres  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Ce sort annule les [[enchantement|enchantements]], [[transmutation|transmutations]] et [[malédiction|malédictions]] actifs sur la cible. *Annulation d’enchantement* peut également inverser un effet [[instantanée|instantané]]. Le personnage fait un test de [[niveau de lanceur de sorts]] (1d20 + son [[niveau de lanceur de sorts]], maximum +15) contre un [[DD]] égal à 11 + [[niveau de lanceur de sorts]] de l’effet. En cas de réussite, la créature est délivrée du sort, de la [[malédiction]] ou de l’effet. Pour les objets maudits, le [[DD]] est égal au [[DD]] de la [[malédiction]].

@@ -19,15 +19,10 @@ Categories:
 {s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}{s:MR}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ;
 **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 4, [[Médium|Méd]] 3, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]] (demi-elfe uniquement)  
-
 **Cible** lanceur de sort  
-
 **Durée** 1 minute/[[niveau]]
 
 {s:FAQ|***[[FAQ- Manuel des races#1|→]] Demi-elfe, *parangon soudain* : Puis-je lancer *parangon soudain* plusieurs fois par jour pour bénéficier d'effets différents ?***

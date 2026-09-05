@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un rayon de miel et de la poussière de jade (10 po))  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature ou 1 objet  
-
 **Durée** [[permanente]] jusqu’à utilisation  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort fait apparaître sur la créature ou l’objet choisi une bouche enchantée qui délivre un message si l’événement spécifié au cours de l’incantation se produit. Ce message, qui ne peut contenir plus de vingt-cinq mots, doit être déclamé dans une langue parlée par son créateur et peut prendre jusqu’à dix minutes. La bouche ne peut prononcer ni incantation, ni [[mot de commande]], ni activer le moindre effet magique. Par contre, elle remue les lèvres en fonction de ce qu’elle dit. Placée sur une statue par exemple, on pourrait avoir l’impression que celle-ci se met à parler. Cela n’empêche bien évidemment pas de lancer le sort sur un arbre, un rocher, une porte, ou tout autre objet ou créature.

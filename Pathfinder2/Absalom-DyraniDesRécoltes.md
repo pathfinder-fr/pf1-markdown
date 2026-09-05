@@ -5,7 +5,6 @@ LastModified: 2022-03-17 02:35
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 La foule rassemblée devant le vaste précipice qui entoure la Cathédrale de la Pierre-Étoile était légèrement plus grande aujourd’hui que d’habitude. Des visiteurs provenant de tous les coins de Golarion s’arrêtaient chaque jour devant l’énorme fossé pour s’émerveiller à la vue de l’ancien édifice qui se dressait au centre, pour rêver de la pierre cachée derrière ses murs épais, ses pièges mortels et ses gardiens immortels. La légende disait que la Pierre-Étoile accordait un pouvoir incommensurable à toute personne qui touche sa surface cristalline et réussit l’épreuve spirituelle finale. Ceux qui réussissaient devenaient des dieux. Mais la plupart ne faisaient guère plus que de se tuer en tombant dans le gouffre à l’extérieur et, quant aux rares individus qui parvenaient à pénétrer dans la cathédrale, on n’entendait généralement plus parler d’eux.

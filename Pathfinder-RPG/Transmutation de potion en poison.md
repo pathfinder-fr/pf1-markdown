@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]] puis 1 minute/[[niveau]] ; voir texte
 
 Cet [[alchimiste#EXTRAIT|extrait]] donne une pâleur maladive au personnage pendant 1 [[round]]. Pendant ce laps de temps, toute [[potions magiques|potion]] consommée n'a aucun effet. En revanche, elle emplit sa bouche d'un vil [[poison]] qu'il peut cracher sur une arme par une [[action libre]]. S'il ne le fait pas en 1 [[round]], il s'empoisonne. L'effet du [[poison]] dépend du [[niveau de sort]] contenu dans la [[potions magiques|potion]] consommée (voir ci-dessous). Si le [[poison]] n'est pas utilisé en moins de 1 minute par [[NLS|niveau de lanceur de sorts]], il devient inerte. Le personnage ne peut créer qu'une dose de [[poison]] par incantation de ce sort.
@@ -31,36 +26,28 @@ On peut créer les poisons suivants à l’aide du sort transmutation des potion
 <div class="BD">
 {s:BDTitre|POISON DE POTION DE NIVEAU 0|}
 **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 10  
-
 **Fréquence** 1/[[round]] pendant 2 [[round|rounds]]  
-
 **Effet**  1 point d’[[affaiblissement temporaire]] de [[Dextérité|Dex]] ; **Guérison** 1 réussite
 </div>
 
 <div class="BD">
 {s:BDTitre|POISON DE POTION DE NIVEAU 1|}
 **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 11  
-
 **Fréquence** 1/[[round]] pendant 4 [[round|rounds]]  
-
 **Effet** 1d2 points d’[[affaiblissement temporaire]] de [[Dextérité|Dex]] ; **Guérison** 1 réussite
 </div>
 
 <div class="BD">
 {s:BDTitre|POISON DE POTION DE NIVEAU 2|}
 **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 13  
-
 **Fréquence** 1/[[round]] pendant 6 [[round|rounds]]  
-
 **Effet** 1d4 points d’[[affaiblissement temporaire]] de [[Force|For]] ; **Guérison** 1 réussite
 </div>
 
 <div class="BD">
 {s:BDTitre|POISON DE POTION DE NIVEAU 3|}
 **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14  
-
 **Fréquence** 1/[[round]] pendant 6 [[round|rounds]]  
-
 **Effet** 1d4 points d’[[affaiblissement temporaire]] de [[Constitution|Con]] ; **Guérison** 2 réussites consécutives
 </div>
 </div>

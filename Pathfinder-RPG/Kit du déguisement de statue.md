@@ -7,9 +7,7 @@ Title: Kit du déguisement de statue
 **Source: Heroes of the Streets**
 
 **Prix** 50 po; **Poids** 3,5 kg  
-
 **Catégorie** Outils  
-
 
 Ce kit de déguisement contient du make-up et des vêtements de couleur métallique ou de la même couleur qu'une pierre, que vous pouvez vous mettre pour ressembler à une statue. Celà vous donne un bonus de +2 seulement sur les jets de [[Déguisement]] pour resssembler à des matériaux en pierre, métal ou similaires. Vous prenez un malus de -5 sur les jets de [[Déguisement]] quand vous imitez un objet inanimé. Un observateur peut tenter un simple jet de Perception opposé à votre jet de [[Déguisement]] quand il vous voie, et un jet supplémentaire à chaque fois qu'il intéragit avec vous. Ce kit est épuisé après 10 utilisations.
 

@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (un onyx noir valant au moins 25 po par dé de vie du mort-vivant)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cibles** le ou les cadavres touchés  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Animation des morts* transforme les cadavres en [[zombi humain|zombis]] et les ossements en [[squelette humain|squelettes]] obéissant aux ordres du lanceur de sorts. Les [[type mort-vivant|morts-vivants]] peuvent suivre leur maître ou monter la garde à un endroit précis en attaquant tout ce qui bouge (ou seulement certains [[Types de créatures|types]] de créatures). Ils restent animés tant qu’ils ne sont pas détruits, après quoi ils ne pourront plus être affectés de nouveau par ce sort.

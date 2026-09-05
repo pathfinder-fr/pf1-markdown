@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[ensorceleur]]/[[magicien]] 0, [[inquisiteur]] 0, [[prêtre]] 0, [[sorcière]] 0  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[Choisi]]*
 
 Si la cible d’un sort incluant ce mot effet est [[mourant|mourante]], elle subit 1 point de vie de dégâts de [[saignement]] à chaque tour.

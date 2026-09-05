@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] ; **Niveau** [[inquisiteur]] 1, [[paladin]] 1, [[prêtre]] 1  
-
 **Durée** [[Présentation des sorts#DUREE|Concentration]] , jusqu'à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[cône (mot de pouvoir)|cône]]*
 
 Ce mot effet détecte un ou plusieurs [[alignement|alignements]]. Lorsqu’il le lance, le personnage choisit l’un des [[alignement|alignements]] suivants : Chaos, Mal, Bien ou Loi. En se concentrant, il sent la présence et la source de cet [[alignement]] dans la zone d’effet du sort. Si la source est une créature qui a plus de 25 [[DV]], un [[type extérieur|Extérieur]], un [[prêtre]] ou un [[paladin]] de plus de 4 [[DV]], ou bien un objet magique ou un sort dont le [[NLS]] est supérieur au [[niveau]] 16, il sait que l’aura est forte.

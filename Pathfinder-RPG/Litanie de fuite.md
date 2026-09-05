@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 3  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature agrippée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le personnage adresse une prière désespérée aux serviteurs de ses dieux pour emporter un allié prisonnier d’une [[lutte]]. La cible n’est plus ni [[agrippé|agrippée]] ni [[immobilisé|immobilisée]] et elle est téléportée à 3 m (2 {s:c}). S'il n'y a aucun espace capable d'accueillir la cible après téléportation, le sort échoue.

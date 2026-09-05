@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Quand le personnage lance ce sort, il peut prendre la forme de n’importe quelle créature de type [[type plante|plante]] de [[taille P]] , [[taille M|M]] ou [[taille G|G]] (voir le Bestiaire Pathfinder RPG). Si cette forme dispose des aptitudes suivantes, le personnage en bénéficie aussi : [[constriction]], [[étreinte]], [[poison]], [[vision dans le noir]] à 18 m, [[vision nocturne]]. Si cette forme ne peut pas bouger, la [[vitesse de déplacement]] du personnage est réduite à 1,50 m (1 case) et il perd toute autre possibilité de mouvement. Si la créature est [[immunisé|immunisée]] ou possède une résistance à un élément, le personnage gagne un résistance de 20 contre cet élément. Si la créature est [[Vulnérabilités (capacité)|vulnérable]] à un élément, le personnage le devient aussi.

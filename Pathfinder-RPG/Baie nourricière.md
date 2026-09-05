@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** 2d4 baies fraîchement cueillies  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 En lançant ce sort sur des baies fraîchement cueillies, 2d4 d’entre elles deviennent magiques. Le personnage parvient à les différencier instantanément, comme tout autre [[druide]] de [[niveau]] 3 ou plus. Chaque baie nourrit autant qu’un repas normal (pour une créature de [[taille M]]) et quiconque en mange une récupère également 1 [[PV|point de vie]]. On ne peut regagner de la sorte plus de 8 [[PV|points de vie]] par tranche de vingt-quatre heures.

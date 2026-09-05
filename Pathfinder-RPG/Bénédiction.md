@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 15 m (10 {s:c})  
-
 **Zone d'effet** le lanceur de sorts et tous les alliés se trouvant dans un rayonnement de 15 m (10 {s:c}) ou moins centré sur le personnage  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort offre un renouveau de courage aux alliés du personnage, se traduisant par un bonus de moral de +1, tant aux [[jet dattaque|jets d’attaque]] qu’aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[registre|terreur]]. *Bénédiction* contre et dissipe *[[imprécation]]*.

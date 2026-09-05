@@ -32,7 +32,6 @@ L'équipe responsable ne peut naturellement pas avoir une réponse à donner pou
   
   
 
-
 ### Jouer plusieurs fois le même scénario
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20D.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ans certaines circonstances, il sera nécessaire qu'un joueur rejoue une aventure qu'il a déjà vécue ou participe à une aventure qu'il a déjà maîtrisée en tant que MJ. Les règles qui suivent déterminent quand il est légal de rejouer un scénario de la Société des Éclaireurs et quels avantages vous pouvez en retirer.
@@ -56,7 +55,6 @@ En complément, les MJ de la campagne qui sont récompensés pour leurs efforts 
 Aucun personnage ne peut recevoir deux fois la même chronique. Des chroniques similaires doivent être attribuées chaque fois à des personnages différents.
 
 (((**Note du traducteur**: Seuls les modules autorisés et scénarios suivants, rentrent dans la catégorie des aventures qui peuvent être rejouées plusieurs fois avec des personnages du 1er niveau:  
-
 - La série des scénarios "Premiers Pas" (le 2 et le 3 ont été retirés de la campagne)</br>
 - We Be Goblins / Nous Gobelins ! (module autorisé)</br>
 - Crypt of the Everburning Flame (module autorisé)</br>

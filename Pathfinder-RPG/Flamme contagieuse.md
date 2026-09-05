@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 3 rayons ou plus  
-
 **Durée** 3 [[round|rounds]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage frappe plusieurs ennemis avec des rayons de feu. Il peut envoyer trois rayons +1 par tranche de quatre [[niveau|niveaux]] au-delà du [[niveau]] 11 (pour un maximum de cinq rayons au [[niveau]] 19). Il faut réussir une [[attaque de contact à distance]] pour chaque rayon pour qu'il touche sa cible et inflige 4d6 points de dégâts de feu. Le personnage peut diriger tous les rayons contre une même cible ou les répartir entre plusieurs mais ils doivent tous viser des cibles distantes de moins de 9 mètres (6 {s:c}) les unes des autres et être tirés simultanément.

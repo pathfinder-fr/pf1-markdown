@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (une pincée de poussière et quelques gouttes d’eau)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[cylindre]] (6 m de rayon, 12 m de haut)  
-
 **Durée** 1 round/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort déclenche une tempête de grêle infligeant 3d6 points de dégâts contondants et 2d6 points de dégâts de froid. Une fois le sort lancé, ces dégâts ne se produisent qu’une seule fois ; pendant le reste du sort, la zone est prise sous une averse de neige et de neige fondue. Un malus de -4 s’applique aux tests de [[Perception]] effectués au sein de la tempête de grêle et la zone est considérée comme un [[terrain difficile]]. Au terme du sort, la grêle disparaît, ne laissant rien derrière elle (hormis les dégâts infligés).

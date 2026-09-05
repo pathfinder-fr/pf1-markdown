@@ -11,7 +11,6 @@ LastModified: 2024-09-02 17:40
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-
 <nav class="wiki-toc"></nav>
 
 ### Scénarios Pathfinder Society

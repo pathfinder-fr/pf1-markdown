@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:MR}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[contact]]  
-
 **Cible** [[Drow (race)|drow]] consentant touché  
-
 **Durée** 24 heures (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La cible [[drow (race)|drow]] se transforme en [[elfe]] de la surface. Le drow perd ses traits raciaux vision dans le noir et aveuglé par la lumière, mais gagne le trait racial [[vision nocturne]] à la place. L’alignement et la personnalité du drow ne sont pas affectés par la transformation, mais le sort dissimule son alignement comme le ferait un sort d’*[[alignement indétectable]]*. Le sort accorde à la cible un bonus de +10 à ses tests de [[Déguisement]] afin de passer pour un [[elfe]], mais elle apparaît comme une copie elfique d’elle-même et peut être reconnue comme telle par un autre drow la connaissant.

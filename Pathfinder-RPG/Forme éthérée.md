@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)
 
 Grâce à ce sort, le personnage et son équipement deviennent *éthérés*. Pendant toute la durée du sort, il se trouve dans le [[plan Éthéré]], un plan qui chevauche le [[plan Matériel]]. Quand le sort se termine, le personnage reprend son état normal.

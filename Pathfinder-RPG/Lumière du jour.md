@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 L’objet touché par le jeteur de sorts dégage une lumière aussi vive que celle du soleil dans un rayon de dix-huit mètres (12 {s:c}). Ce sort augmente la luminosité d’un cran dans un rayon de dix-huit mètres (12 {s:c}) supplémentaires (l’obscurité se transforme en faible lumière, la faible lumière se transforme en lumière normale et cette dernière en vive lumière). Les créatures qui subissent un malus quand elles se trouvent exposée à une vive lumière sont handicapées de la même manière quand elles se trouvent dans un rayon de dix-huit mètres (12 {s:c}). Malgré son nom, ce sort n’est pas l’équivalent de la lumière du jour au regard des créatures blessées ou détruites par celle-ci.

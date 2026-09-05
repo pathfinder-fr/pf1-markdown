@@ -12,15 +12,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 5, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, F]] (croissant d'argent d'une valeur de 5 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 24 heures (T)
 
 Le *triple aspect* permet au personnage de changer son apparence contre celle d'une des trois catégories d'âges idéalisées : adolescent (jeune homme/jeune fille), adulte (père/mère) ou personne âgée (ancien/ne). Dans tous les cas, il revêt l'apparence qui serait la sienne à l'âge approprié, il n'endosse pas celle d'un nouvel individu.

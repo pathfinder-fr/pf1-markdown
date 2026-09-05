@@ -15,7 +15,6 @@ Categories:
 **Temps d'incantation** 10 minutes
 **Composantes** [[composantes|V, G, M]] (offrandes d’une valeur de 1 250 po plus paiement ; voir description), [[composantes|FD]]
 **Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** 1 ou 2 [[type Extérieur|Extérieurs]] appelés (ne totalisant pas plus de 12 [[DV]]), apparaissant à 9 m ou moins les uns des autres
 **Durée** [[instantanée]]
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non

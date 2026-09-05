@@ -7,17 +7,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (mercure, gomme arabique et fumée)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature ou 1 objet non magique (jusqu’à un cube de 3 m (2 {s:c}) de côté/[[niveau]])  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) (voir texte) ; **Résistance à la magie** oui (objet)
 
 Ce sort est semblable à *[[métamorphose suprême]]*, si ce n’est qu’il permet de transformer un objet ou une créature. Ce sort permet d’effectuer toutes sortes de transformations, le personnage ne se limite pas à transformer des êtres vivants en autres êtres vivants. La durée du sort dépend de l’importance du changement séparant la forme résultante de la forme d’origine. On peut la déterminer en se référant aux indications suivantes :

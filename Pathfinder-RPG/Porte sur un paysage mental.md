@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[hypnotiseur|Hyp]] 3, [[médium|Méd]] 3, [[psychiste|Psy]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 portail illusoire  
-
 **Durée** 10 minutes/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule (voir texte)]] ; **Résistance à la magie** non
 
 Le personnage ou d’autres créatures entrent dans un [[paysages mentaux|paysage mental]] ou s’en échappent par une porte imaginaire. Cette dernière prend la forme que désire le personnage, mais elle ne peut pas être plus large qu’un cube de 1,50 mètre. Ce sort a différents effets selon que le personnage se trouve dans un [[paysages mentaux|paysage mental]] ou non au moment où il le lance.

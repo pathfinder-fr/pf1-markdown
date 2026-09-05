@@ -46,11 +46,8 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Div|divs]].***</li></ul>*Le regard sensuel de cette fiélonne humanoïde à la peau bleue et vêtue de séduisants atours suggère toutes sortes de plaisirs dégradants.*
 
 Combinaisons sensuelles de séduction et de destruction, les païrakas incarnent la nature corruptrice de la luxure débridée. Elles prennent rarement leur véritable forme lorsqu’elles sont sur le Plan matériel, choisissant plutôt de prendre une apparence affriolante pour séduire des victimes potentielles, détruire des couples et alimenter des obsessions. Sous sa véritable forme, le corps de la païraka est un paysage immonde de rougeurs enflammées, de pustules purulentes et de cloques gorgées, symbolisant son caractère corrompu tant physique que spirituel.  
-
 Les païrakas tirent une certaine fierté de leur perversion. Il n’y a rien qu’elles aiment plus que pousser les amoureux à se retourner les uns contre les autres ou que détruire les liens d’amitié. La païraka se nourrit de ces lents tourments et savoure chaque coeur brisé, chaque déception. Elle utilise la luxure et la sexualité comme ses armes principales, jouant avec les tabous et les désirs charnels pour rompre les relations amicales. Les païrakas se servent également de leur séduction pour transmettre des maladies, charmant leurs victimes pour établir un contact physique.  
-
 Comme tous les divs, les païrakas ont leur faiblesse : elles ne supportent pas la couleur rouge. Elles ne portent jamais cette couleur ni n’entrent dans des lieux peints en rouge, et elles s’attaquent toujours aux créatures portant des vêtements aux teintes pourpres avant toutes les autres.  
-
 Les païrakas mesurent 1,80 mètre et pèsent 75 kilos. Leur couleur de peau varie énormément de l’une à l’autre.
 
 </div></td></tr></table>

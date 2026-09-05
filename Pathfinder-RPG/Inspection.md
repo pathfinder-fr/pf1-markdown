@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Divination]] ;** Niveau** [[Barde|Bard]] 0, [[Inquisiteur|Inq]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** cube de 3 m (2 {s:c}) de côté  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage examine une zone à portée comme s'il cherchait de petits détails à l'aide de la compétence [[Perception]]. Il fait un test de [[Perception]] avec un malus de -5, modifié comme à l'accoutumée selon les conditions dans lesquelles il se trouve. Les malus de distance ne comptent pas. Appliquez le [[DD]] pour toute caractéristique cachée comme les portes secrètes, les pièges ou les trésors dissimulés. Le personnage doit être en mesure de voir la zone qu'il fouille et il ne découvre que les détails perceptibles à la vue ou au toucher. *Inspection* détecte seulement les objets et les caractéristiques d'un endroit, pas les créatures.

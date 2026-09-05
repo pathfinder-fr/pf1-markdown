@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Divination]] ; **Niveau** [[Chaman|Cham]] 2, [[druide|Dru]] 2, [[sorcière|Sor]] 2   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G, FD]]  
-
 **Portée** Personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Quand le personnage est sous forme animale (quand, par exemple, il utilise *forme animale* ou est affecté par un effet de *métamorphose*), il peut parler normalement, même quand il lance des sorts à composante verbale, et sa voix est la même que lorsqu’il est sous sa forme normale. Il peut lancer ce sort lorsqu’il est sous forme animale, utilisant alors les composantes gestuelles appropriées à l’animal.

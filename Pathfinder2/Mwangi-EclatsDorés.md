@@ -5,7 +5,6 @@ LastModified: 2022-02-02 17:14
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 « Es-tu perdue, mon enfant ? »

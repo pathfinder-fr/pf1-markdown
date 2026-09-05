@@ -16,17 +16,11 @@ Categories:
 **(Source: Heroes of the streets)**
 
 **Ecole** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 1, [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1  
-
 **Composantes** [[composantes|V,G,M/FD]](une petite clé)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** Une créature  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
-
 
 La cible peut observer durant un round entier une serrure dont elle connait la présence (ou un objet qui inclut une serrure comme une porte ou un coffre) situé dans une portée de 18 m (12 {s:c}) à l'effet de déterminer si elle est ouverte, fermée ou bien bloquée).
 

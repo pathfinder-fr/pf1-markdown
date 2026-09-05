@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (des rognures de corne de mule)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 arme à feu  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
 L’arme à feu ciblée tire soudain de son propre chef, même si elle n’est pas chargée. Son recul est si violent que son propriétaire doit la serrer fermement pour la garder en main et qu’il est [[pris au dépourvu]] jusqu’au début de son prochain tour. S’il est déjà [[pris au dépourvu]], il tombe [[à terre]]. Si l’arme était chargée, la munition est gâchée.

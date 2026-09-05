@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Des vagues d’[[énergie négative]] [[fatigué|fatiguent]] toutes les créatures situées dans la zone. Ce sort n’a aucun effet sur les créatures déjà [[fatigué|fatiguées]].

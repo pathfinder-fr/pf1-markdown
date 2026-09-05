@@ -13,17 +13,11 @@ Categories:
 {s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}
 **École** [[Évocation]] <nowiki>[</nowiki>[[Présentation des sorts#BIEN|bien]]<nowiki>]</nowiki> ;
 **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une fiole d'ambroisie d'une valeur de 100po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]])/(5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** [[émanation]] de 6 m de rayon  
-
 **Durée** 2 heures/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort sanctifie une zone de pouvoir divin. Le [[DD]] pour résister aux sorts ou pouvoirs magiques du registre [[Créer un sort#BIEN|Bien]] ou à l’énergie canalisée qui blesse les [[type extérieur|extérieurs]] Mauvais (comme lorsqu’on utilise canalisation alignée) augmente de +2. En outre, les extérieurs Mauvais reçoivent un malus de -1 à leurs jets d’attaque, à leurs jets de dégâts et à leurs jets de sauvegarde, et il est impossible de les appeler ou de les convoquer dans un espace sacré.

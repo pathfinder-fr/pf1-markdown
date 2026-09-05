@@ -147,7 +147,6 @@ ATTENTION : utiliser les accents sur la première lettre en majuscule des noms d
 
 #### Archétypes pour les autres classes
 **Fait : **~~Modifier les snippets des classes déjà existantes pour y intégrer les nouveaux archétypes~~  
-
 **Fait :** ~~Relire tous les archétypes parce que j'ai déjà du corriger des choses...~~
 
 ##### Alchimiste

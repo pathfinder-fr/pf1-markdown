@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, M]] (un peu de nourriture appréciée par l’animal que l’on souhaite appeler)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 [[type animal|animal]] de [[taille TP]]  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui
 
 Ce sort oblige un [[type animal|animal]] de [[taille TP]] à se rendre à l’endroit indiqué par le personnage. Cela permet généralement de transmettre un message à un allié. Le sort ne fonctionne que si l’[[type animal|animal]] n’a pas été dompté ou dressé par un autre personnage (cela exclut donc les [[familiers]] et [[compagnon animal|compagnons animaux]]).

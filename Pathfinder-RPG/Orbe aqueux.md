@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une goutte d'eau et une perle de verre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** sphère de 3 m (2 {s:c}) de diamètre  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
 Le personnage crée une sphère roulante d'eau tourbillonnante qui peut engloutir ceux qu'elle touche. L<nowiki>'</nowiki>*orbe aqueux* se déplace à une vitesse de 9 mètres (6 {s:c}) par [[round]], roulant par-dessus toute barrière qui mesure moins de 3 mètres (2 {s:c}). Il éteint automatiquement tout feu qui n'est pas d'origine magique et fonctionne comme une *[[dissipation de la magie]]* pour les feux magiques tant qu'ils sont de la même taille que lui ou plus petits.

@@ -5,9 +5,7 @@ LastModified: 2021-10-08 17:51
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[FAN|Retour à la page des créations de fans pour Pathfinder 2]]   
-
 
 ### Gobelin demi-fiélon (par MJAjani)
 

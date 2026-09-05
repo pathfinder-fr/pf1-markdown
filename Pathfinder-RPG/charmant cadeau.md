@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,F]] (l'objet à offrir)  
-
 **Portée** 1,50 m (1 {s:c})  
-
 **Cible** 1 créature   
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage offre un objet à une créature adjacente et la pousse à l'utiliser ou à le consommer. Si la cible rate son jet de sauvegarde, elle accepte immédiatement l'objet offert, en laissant tomber ce qu'elle porte si nécessaire. Au prochain tour, elle consomme ou enfile l'objet, comme il convient selon le type d'objet. Par exemple, la créature mangera une pomme, boira une potion, mettra un anneau à son doigt ou brandira une épée dans sa main libre. Si la cible est physiquement incapable d'accepter l'objet offert, le sort échoue. Une fois la durée du sort écoulée, la cible n'a plus aucune obligation de continuer de consommer ou d'utiliser l'objet, mais elle aura sûrement du mal à se débarrasser d'un objet maudit.

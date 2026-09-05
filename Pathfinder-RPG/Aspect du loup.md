@@ -11,15 +11,10 @@ Categories:
 ---
 
 {s:APG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 5, [[Rôdeur|Rôd]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Quand le personnage lance ce sort, il prend l'aspect d'un loup, y compris certaines de ses caractéristiques physiques. Il devient plus robuste, ses oreilles s'allongent et il lui pousse de la fourrure et des crocs acérés. Il gagne un bonus d'altération de +4 à la [[Force]] et à la [[Dextérité]], le pouvoir [[odorat]] et un bonus d'altération de +2 aux attaques de [[croc-en-jambe]]. Il peut faire une manœuvre de [[croc-en-jambe]] par une [[action rapide]]. Cette manœuvre ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]].

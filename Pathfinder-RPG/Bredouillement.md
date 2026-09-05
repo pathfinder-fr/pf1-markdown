@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature ; voir texte  
-
 **Durée** 1 [[round]]/niveau  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort provoque une crise de bredouillements incontrôlables chez la cible qui devient par ailleurs [[États préjudiciables#Nauséeux|nauséeuse]]. L’effet se termine si elle réussit son jet de sauvegarde, sinon, elle continue d’être [[États préjudiciables#Nauséeux|nauséeuse]] et de bredouiller pendant toute la durée du sort. Les créatures qui se trouvent à 9 mètres ou moins de la cible et l’entendent bredouiller doivent réussir un jet de [[Volonté]], sans quoi elles sont [[États préjudiciables#Fasciné|fascinées]] tant qu’elle marmonne. Une créature qui n’est plus [[États préjudiciables#Fasciné|fascinée]] ne peut pas l’être à nouveau par la même incantation de bredouillement. Ce sort n’affecte pas les créatures disposant d’une [[Intelligence]] de 2 ou moins.

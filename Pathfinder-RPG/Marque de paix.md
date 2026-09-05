@@ -18,19 +18,12 @@ Categories:
 **(Source : Heroes of the street)**
 
 **École** [[Abjuration]] ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1, [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[paladin|Pal]] 1, [[prêtre|Prê]] 1 , [[sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,M/FD]](un cube en verre)  
-
 **Portée** courte (7.5m + 1.5 m/2[[niveau]]) (5 {s:c} + 1 {s:c}/2[[niveau]])  
-
 **Zone d'effet** Peut avoir plus d'un cube, jusqu'à 9 m (6 {s:c}) de distance entre chaque cube.  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 
 Ce sort crée 1 rune de paix brillante plus 1 tous les 2 niveaux au dessus du niveau 1 (jusqu'à un maximum de 5 runes au niveau 9). Un symbole identique à cette rune apparaît sur votre front pour le reste de la durée du sort et ne peut pas être déguisée (mais n'est visible que si vous l'êtes aussi).
 

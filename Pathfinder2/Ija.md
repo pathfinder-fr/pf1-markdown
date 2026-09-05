@@ -5,7 +5,6 @@ LastModified: 2021-05-31 17:57
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 À Kiutu, un village calme sur la côte est du lac Terwa, on conte souvent aux jeunes enfants qui grandissent dans le coin des histoires concernant les ruines qu’on peut apercevoir de l’autre côté, sur le rivage, séparé du patelin par des eaux peu profondes. Certaines histoires évoquent des monstres draconiques qui hanteraient et terroriseraient ceux qui posent le pied au-delà du seuil du temple enfoui, et d’autres parlent d’ombres ailées qui viennent à Kiutu la nuit pour emmener vers les ruines les enfants qui ne se comportent pas bien. Quel que soit le récit, l’ambiance qui entoure les anciennes ruines de Selsanglant est profondément emprunte de terreur et de dangers pour les habitants de Kiutu. La plupart des enfants se lassent d’entendre ces histoires quand ils deviennent adolescents et se mettent à les considérer comme des inventions, même si les ruines restent toujours un sujet tabou. Mais Ija et les siens ont toujours accepté qu’elle était une enfant différente ; la jeune fille n’a jamais vraiment perdu la curiosité de son enfance.

@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, maladie]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 3, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le sujet contracte une [[maladies|maladie]] tirée de la liste suivante : bouille-crâne, mal aveuglant (*anciennement croupissure*), fièvre des marais, fièvre gloussante, lèpre, mal rouge, mort vaseuse, peste bubonique, tremblante.

@@ -6,7 +6,6 @@ LastModified: 2019-10-08 17:27
 
 {s:AO}*Le regard du personnage sème la peur chez ses ennemis.*{s:Desambi|Ce don a été renommé en raison du fait qu'il pré-existe un autre don du nom de [[Regard intimidant]] paru dans le manuel Art de la Magie.}  
 
-
 **Catégorie.** [[dons#DONCOMBAT|combat]]
 
 **Conditions.** Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]].

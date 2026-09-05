@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une source de feu)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cible** une source de feu, jusqu'à 0,60 mètres cube  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] et [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; voir texte ; **Résistance à la magie** non
 
 *Jet de flammes* fait exploser un feu en un geyser de flamme liquide aveuglante. Le sort utilise une source de feu qui s'éteint automatiquement. Un feu de plus de 0,60 mètre cube ne s'éteindra qu'en partie. Les feux magiques ne s'éteignent pas, mais une créature de [[sous-type feu]] utilisée comme source reçoit 1 point de dégâts par [[NLS|niveau de lanceur de sorts]] (pas de [[jet de sauvegarde]]).

@@ -41,7 +41,6 @@ Categories:
 
 Les iguanodons sont de grands dinosaures herbivores vivant dans les marécages et les forêts où ils peuvent
 profiter de l’abondante végétation. L’iguanodon est capable de se déplacer sur deux pattes comme sur quatre, passant rapidement d’un mode de déplacement à l’autre s’il doit traverser des feuillages denses ou atteindre de délicieuses bouchées suspendues dans les voûtes feuillues.  
-
 Bien qu’ils soient herbivores, les iguanodons sont réputés pour leur promptitude à la colère. Leurs pouces
 pointus font de leurs griffes des armes particulièrement dévastatrices : un coup bien placé peut transformer un prédateur affamé en bête terrifiée. Les iguanodons mesurent 9 mètres de long et pèsent 3 tonnes.
 

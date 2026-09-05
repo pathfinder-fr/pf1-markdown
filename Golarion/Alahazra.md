@@ -71,7 +71,6 @@ Alahzra est aujourd'hui une femme, toujours bien assez attirante pour faire tour
 </div>
 </center>
 **LE MYSTÈRE DE LA FLAMME**   
-
 - **Divinités** : Asmodéus, Sarenrae
 - **Compétences de classe.** En tant qu’oracle du mystère de la flamme, vous ajoutez Acrobaties, Escalade, Intimidation et Représentation à votre liste de compétences de classe.
 - **Toucher de la flamme (Sur).** En une action simple, vous pouvez réaliser une attaque de contact au corps à corps qui inflige 1d6 points de feu. Vous pouvez utiliser cette capacité un nombre de fois par jour égal à 3 + votre modificateur de Charisme.

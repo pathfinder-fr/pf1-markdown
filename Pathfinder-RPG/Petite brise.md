@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)  
-
 **Cible** une créature ou un objet  
-
 **Durée** 1 heure (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif); **Résistance à la magie** oui (inoffensif)
 
 Le personnage crée un vent léger qui souffle, dans la direction de son choix, mais uniquement sur sa cible. Cette brise accorde à la cible un bonus de circonstances de +2 aux jets de sauvegarde dans les environnements très chauds, contre les fortes chaleurs ainsi que contre les nuages, les vapeurs et les gaz (comme *[[brume mortelle]]*, *[[nuage nauséabond]]* et les poisons inhalés). Il doit y avoir de l’air pour pouvoir lancer ce sort.

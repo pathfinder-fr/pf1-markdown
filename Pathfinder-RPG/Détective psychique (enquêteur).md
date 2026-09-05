@@ -14,15 +14,10 @@ Un détective psychique lance les [[la magie psychique|sorts psychiques]] de la 
 Au niveau 5 et tous les 3 niveaux par la suite, un détective psychique peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà, en respectant les mêmes règles que celles indiquées pour les [[barde|bardes]]. Dans les faits, le détective psychique perd l’ancien sort et le remplace par le nouveau. Le niveau du sort nouvellement appris doit être identique à celui du sort échangé et d’au moins un niveau inférieur au plus haut niveau de sort que le détective psychique est capable de lancer. Un détective psychique n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire quand il le souhaite, à condition qu’il lui reste les emplacements de sort quotidiens des niveaux appropriés.
 
 *Sorts de détective psychique :* un détective psychique ajoute les sorts suivants à sa liste de sorts, en plus des sorts de psychiste de niveau 6 et moins.  
-
 Niveau 1 – [[détection des pièges]], [[détection de la Loi]], [[détection du Bien]], [[détection du Chaos]], [[détection du Mal]].  
-
 Niveau 3 – [[apaisement des esprits]], [[lumière du jour]].  
-
 Niveau 4 – [[modification de mémoire]].  
-
 Niveau 6 – [[bannissement]], [[moment de prescience]], [[scrutation suprême]].  
-
 Cette aptitude remplace celle d’[[enquêteur#ALCHIMIE|alchimie]].
 
 #### Fouineur psychique (Sur)

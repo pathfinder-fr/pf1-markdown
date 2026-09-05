@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone** émanation de 9 m  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] +2 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage crée un chœur spectral et dirige la musique de ses gémissements fantomatiques torturés, ce qui pousse les auditeurs à croire qu’ils souffrent des tourments de la mort. Les chanteurs transparents occupent un cube de 3 mètres de côté mais sont [[intangible|intangibles]] et n’interfèrent pas physiquement avec les créatures. On ne peut pas les attaquer. Les créatures situées à moins de 9 mètres du chœur éprouvent de violentes douleurs qui leur imposent un malus de -2 aux [[jet dattaque|jets d’attaque]], aux [[test de compétence|tests de compétence]] et aux [[test|tests de caractéristique]]. Les individus qui quittent la zone conservent ces malus pendant 2 [[round|rounds]] avant que l’illusion ne se dissipe.

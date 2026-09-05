@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau**  [[Chaman|Cham]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un œuf pourri ou des feuilles de salade)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** nuage couvrant une étendue de 6 m (4 {s:c}) de rayon et 6 m de haut  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
 Cette [[invocation]] fait apparaître un banc de brume semblable à une *[[nappe de brouillard]]* mais il donne la [[nauséeux|nausée]] à toute personne qui respire ses [[émanation|émanations]]. L’effet se prolonge tant que la créature reste dans le nuage et pendant 1d4+1 [[round|rounds]] après qu’elle en est sortie (faire un jet de dés séparé pour chaque créature). Si un personnage réussit son jet de [[Vigueur]] mais reste dans la [[zone deffet|zone d’effet]] du sort, il doit effectuer un nouveau [[jet de sauvegarde]] à chaque [[round]], au tour du lanceur de sorts. C'est un effet de [[poison]].

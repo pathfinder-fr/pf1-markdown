@@ -11,15 +11,10 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Ce sort fonctionne comme [[lien de vie]] mais le personnage transfère 3d6 points de vie par une [[action rapide]].

@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]], [[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible contracte l'une des [[maladies]] suivantes : le mal aveuglant, la peste bubonique, la fièvre gloussante, la fièvre des marais, la lèpre, la bouille-crâne, le mal rouge, la tremblotte ou la mort vaseuse comme avec le sort [[contagion]], mais ces [[maladies]] sont très contagieuses et toute créature qui touche une cible infectée, se fait toucher par elle ou passe plus d'une heure dans un espace confiné avec elle doit faire un [[jet de sauvegarde]] contre le [[DD]] normal de la maladie (pas celui du sort). Si elle échoue, elle tombe malade. Si la cible initiale surmonte la maladie en réussissant le nombre de [[jet de sauvegarde|jets de sauvegarde]] requis, elle reste porteuse de la maladie pendant une durée équivalente à sa fréquence et risque d'infecter les autres pendant cette période.

@@ -5,7 +5,6 @@ LastModified: 2023-04-27 17:33
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[OTARI|Retour à la page sur Otari]]
 
 Voici une courte rencontre que les MJ peuvent ajouter à leurs campagnes tournant autour d'Otari, qu'il s'agisse de la boîte d'initiation, des aventures de Troubles à Otari, de la campagne [[AP28|Le Donjon des Abominations]] ou d'une campagne de leur cru. On pourrait penser qu'une petite horde de zombis gobelins est une rencontre étrange dans une petite ville côtière pacifique comme Otari mais les lecteurs de la mini-nouvelle "Le Voile des quatre silences" verront la connexion.
@@ -17,7 +16,6 @@ Cette rencontre se déroule dans ou près d'une cabane abandonnée située à pr
 <img src="Illustrations/Wiki/PF2/112520_MapUpdate.png" class="center" alt="">
 
 {s:ImageLien|Illustrations/Wiki/PF2/nousZombisDarnyMini.jpg|600px|center|https://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Wiki/PF2/nousZombisDarny.webp}  
-
 (carte par Darny, cliquez pour télécharger une version plus grande)
 </center>
 

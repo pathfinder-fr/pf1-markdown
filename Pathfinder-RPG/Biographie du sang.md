@@ -18,17 +18,11 @@ Categories:
 
 {s:APG}
 **École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un bout de parchemin)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** le sang d'une créature ou une tache de sang  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** non
 
 Le personnage découvre la réponse à une question spécifique qui porte sur une créature tant qu'il a au moins accès à une goutte de son sang. Il peut lancer le sort sur une créature morte ou vivante, mais les êtres vivants ou morts-vivants ont droit à un [[jet de sauvegarde]] pour résister au sort. Le sort fonctionne aussi bien avec du sang frais que séché. Quand le personnage lance le sort, la réponse à l'une des quatre questions suivantes apparaît sur la surface plane de son choix (un mur, un bout de papier, etc.).

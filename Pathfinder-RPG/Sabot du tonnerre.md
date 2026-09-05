@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage tape du pied ou frappe son arme contre la terre ou le sol, créant une onde de puissance dont il peut se servir pour faire un [[croc-en-jambe]] à une créature. Il fait un test de manœuvre offensive de [[croc-en-jambe]] contre la cible mais, plutôt que d’utiliser son bonus de base à l’attaque, il peut utiliser son [[NLS|niveau de lanceur de sorts]] et, plutôt que son modificateur de [[Force]], il peut utiliser le modificateur de sa valeur de caractéristique de lancement de sorts ([[Intelligence]] pour les [[magus|magi]] et les [[magicien|magiciens]] ; [[Sagesse]] pour les [[druide|druides]] et les [[rôdeur|rôdeurs]] ; [[Charisme]] pour les ensorceleurs et les [[sanguin|sanguins]]). Ceci ne provoque pas d’[[AO|attaque d’opportunité]]. Ce sort n’a aucun effet si le personnage ne peut toucher la terre ou le sol ou si sa cible n’est pas en contact avec la terre ou le sol.

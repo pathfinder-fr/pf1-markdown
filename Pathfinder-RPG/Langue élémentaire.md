@@ -15,15 +15,10 @@ Categories:
 
 {s:APG}
 **École** [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|air]], [[registre|terre]], [[registre|feu]] ou [[registre|eau]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (limaille de fer)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Ce sort permet au lanceur de sorts de converser avec des créatures associées à l'élément choisi, y compris les créatures élémentaires, sans se limiter à elles. Ce sort bénéficie du sous-type élémentaire basé sur la version du sort lancé. La *langue élémentaire* ne garantit pas une réaction amicale, elle permet seulement de communiquer. Le personnage peut parler avec toutes les créatures du type choisi tant qu'elles ont une [[Intelligence]] de 1 ou plus, même si elles ne se comprennent pas entre elles.

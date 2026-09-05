@@ -76,7 +76,6 @@ Compagnon : DV 1+3/4niv., BBA 3/4 DV JS Vig+Ref Fort, Vol Faible, Compétences :
 *Rôdeur* Ennemi favori : +2 +2/5 niveaux, Compagnon animal = niv/ -4  
 *Roublard* Attaque sournoise : 1D6/2 niveaux (arrondi supérieur), esquive totale, ne peut être pris au dépourvu  
 
-
 Concernant les sorts : inutile de faire une liste, on peut déterminer au vol s'ils sont mémorisés ou non.
 - Les sorts de plus haut niveau accessible : pour un sort donné que le MD aimerait utiliser, il y a 2/6 chances qu'il soit mémorisé - dans la limite du nombre total de sorts disponibles
 - Les sorts de niveau immédiatement inférieur au plus haut niveau : pour un sort donné, il y a 4/6 chances quil soit mémorisé - dans la limite du nombre total de sorts disponibles

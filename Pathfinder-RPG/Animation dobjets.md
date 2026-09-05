@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** un objet de [[taille P]] par [[niveau de lanceur de sorts]] (voir description)  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort anime les objets inertes en leur donnant un semblant de vie. Le ou les objets peuvent alors attaquer les cibles désignées par le lanceur de sorts. Ils peuvent être de n’importe quelle matière non-magique. Le sort peut animer un objet de [[taille P]] ou inférieure par [[NLS|niveau de lanceur de sorts]], ou un nombre équivalent d’objets plus grands. Un objet de [[taille M]] compte pour deux objets de [[taille P]] ou inférieure, un objet de [[taille G]] en vaut quatre, un objet de [[taille TG]] en vaut huit, un objet de [[taille Gig]] en vaut seize et un objet de [[taille C]] en vaut trente-deux. Il est possible de changer de cible(s) au prix d’une [[action de mouvement]], comme s’il s’agissait de diriger un sort actif. Consultez le Bestiaire Pathfinder-RPG pour obtenir les statistiques des [[Objet animé|objets animés]].

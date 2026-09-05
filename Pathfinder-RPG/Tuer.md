@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]] <nowiki>[</nowiki>[[registre|mort]], [[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[prêtre]] 6, [[druide]] 7, [[ensorceleur]]/[[magicien]] 6, [[sorcière]] 6  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet subit 10 points de dégâts par [[NLS|niveau de lanceur]], avec un maximum de 150 points de dégâts. Si le [[jet de sauvegarde]] est réussi, elle subit à la place 3d6 points de dégâts + 1 par [[NLS|niveau de lanceur]] (maximum 15). Un sort incluant cet effet n’affecte que les créatures vivantes.

@@ -15,15 +15,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un morceau de granite)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Ce sort transforme les mains du personnage en pierres vivantes. Tant que le sort fait effet, ses attaques à mains nues ne provoquent pas d'[[attaque dopportunité|attaques d'opportunité]] et infligent 1d6 points de [[dégâts létaux|dégâts contondants létaux]] (1d4 si le personnage est de taille P). De plus, ses attaques à mains nues ignorent toute [[solidité]] inférieure à 8 sur un objet.

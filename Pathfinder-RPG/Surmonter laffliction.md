@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Effet** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage surmonte temporairement un [[états préjudiciables|état préjudiciable]]. Ceci ne met pas un terme à l'[[états préjudiciables|état préjudiciable]] mais annule juste son effet tant que le sort perdure. Le personnage surmonte l’un des [[états préjudiciables]] suivants : [[aveuglé]], [[confus]], [[ébloui]], [[effrayé]], [[fatigué]], [[fiévreux]], [[hébété]], [[paralysé]], [[secoué]] ou [[assourdi]].

@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un morceau d'éponge imbibé de larmes)  
-
 **Portée** contact  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu'à épuisement  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le personnage utilise ce sort pour voler les soins d’une autre créature. Il doit réussir une [[attaque de contact au corps à corps]] contre sa cible. Jusqu’à la fin du sort, dès que la cible est sujette à un sort ou un effet surnaturel qui rend des points de vie, elle reçoit seulement la moitié des soins (arrondi à l’inférieur) et le personnage reçoit l’autre moitié (aussi arrondie à l’inférieur). Pour bénéficier des soins, le personnage doit rester dans un rayon de 7,50 m (5 {s:c}) (plus 1,50 m (1 {s:c}) tous les 2 [[NLS|niveaux]]) autour de sa cible. S’il sort de cette zone, le sort expire. Il expire également une fois que le personnage a absorbé 5 points de vie par [[NLS|niveau de lanceur de sort]] (avec un maximum de 50 pv).

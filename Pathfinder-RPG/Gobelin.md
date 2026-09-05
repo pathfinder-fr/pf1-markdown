@@ -107,15 +107,10 @@ autres types de nourriture, à l’exception des légumes peut-être.
 
 Les gobelins ne possèdent pas de dé de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **-2 Force, +4 Dextérité, -2 Charisme.** Les gobelins sont rapides mais faibles et peu agréables à côtoyer.  
-
 - **Compétents.** Bonus racial de +4 aux tests de [[Discrétion]] et d'[[Équitation]].  
-
 - **Petite taille.** Les gobelins sont des créatures de taille P. Ils gagnent donc un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et une bonus de taille de +4 aux tests de [[Discrétion]].  
-
 - **Rapidité.** malgré leur taille, les gobelins sont rapides. Leur vitesse de déplacement de base est de 9 m (6 {s:c}).  
-
 - **Vision dans le noir.** Les gobelins peuvent voir dans le noir jusqu'à 18 m (12 {s:c}).  
-
 - **Langues.** Les gobelins parlent automatiquement le gobelin. S'ils ont une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, draconique, gnoll, gnome, halfelin, nain, orque.
 
 {s:VoirAussiAvant}La page de la race [[Gobelin (race)|Gobelin]]{s:VoirAussiAprès}

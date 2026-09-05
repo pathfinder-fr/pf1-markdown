@@ -5,7 +5,6 @@ LastModified: 2023-05-25 13:57
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • Autres types de boutons inline : [[FVTT boutons jets|Boutons de jets de dés]] - [[FVTT boutons tests|Boutons de tests]] - [[FVTT boutons gabarit|Boutons de gabarit]]
 
 <nowiki><style>

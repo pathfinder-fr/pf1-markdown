@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, M/FD]] (fourrure de chauve-souris et morceau de charbon)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 L’objet enchanté par ce sort génère une zone de ténèbres absolue de dix-huit mètres de rayon. La [[Exploration#Vision_et_lumière_2|luminosité]] de la zone baisse alors de deux niveaux : de lumière vive à faible lumière, la lumière normale se mue en obscurité ou les zones de faible lumière ou d’obscurité sont envahies de ténèbres surnaturelles. Les créatures vulnérables ou sensibles à la lumière ne subissent pas de dégâts si elles sont exposées à une lumière normale. Toutes les créatures situées dans une zone de lumière faible bénéficient d’un [[camouflage]] (20 % de chances de les rater) tandis que celles qui se trouvent dans l’obscurité bénéficient d’un [[camouflage|camouflage total]] (50% de chances de les rater). Les sources d’éclairage normales (bougies, torches, lanternes, etc.) ne permettent pas d’augmenter la luminosité d’une zone affectée par ce sort. Les sources de lumières magiques augmentent la luminosité de la zone uniquement si elles proviennent d’un sort de niveau supérieur aux *ténèbres profondes*. De plus les créatures dotées de la [[vision dans le noir]] ne peuvent les percer.

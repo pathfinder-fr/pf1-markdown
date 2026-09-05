@@ -10,15 +10,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[inquisiteur|Inq]] 5, [[prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 round/[[niveau]] (T)
 
 La taille du lanceur de sorts double et son poids est multiplié par huit. Cette transformation s’accompagne de plusieurs modifications : sa [[catégorie de taille]] augmente d’un cran ; il gagne un bonus de taille de +4 en [[Force]] et en [[Constitution]] ; il subit un malus de -2 à la [[Dextérité]] ; il bénéficie d’un [[bonus daltération|bonus d’altération]] de +2 à l’armure naturelle et, enfin, il gagne une [[RD|réduction des dégâts`]] de 5/Mal (s’il [[canalisation dénergie|canalise de l’énergie positive]]) ou de 5/Bien (s’il [[canalisation dénergie|canalise de l’énergie négative]]). Au niveau 15, cette [[RD|réduction des dégâts]] passe à 10/Mal ou 10/Bien (mais n’augmente plus par la suite). Comme le personnage a changé de [[catégorie de taille]], son modificateur de taille (appliqué à la [[CA]] et aux [[jet dattaque|jets d’attaque]]) est également altéré. Sa [[vitesse de déplacement]] ne change pas mais l’espace qu’il occupe et son [[allonge]] dépendent de sa nouvelle catégorie de taille.

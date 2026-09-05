@@ -12,15 +12,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Druide|Dru]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (nid d'insecte écrasé)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** voir texte
 
 Le personnage transforme tous ses tissus mous en nuées d'insectes ou d'autres créatures et les envoie exécuter sa volonté, ne laissant que ses os et son équipement derrière lui. Ces nuées disposent de leurs aptitudes et pouvoirs habituels mais elles possèdent une petite partie de la conscience du personnage, ce qui lui permet de percevoir la même chose qu'elles et de contrôler leurs actions. Tant que le personnage est sous cette forme, il ne peut pas utiliser ses propres aptitudes ou entreprendre une action autre que le contrôle des nuées.

@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** [[permanente]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La victime du sort devient [[assourdi|sourde]] ou [[aveuglé|aveugle]], au choix du lanceur de sorts faisant appel aux forces de la [[registre|mort]].

@@ -13,7 +13,6 @@ Choisissez tout d'abord la race de votre personnage. S'il s'agit d'un humain, d'
 <tr style="vertical-align: top">
 <td style="width:150px"><table style="background-color: #fff3e6; border: 0.5px solid #4b3124">
 <tr><td style="padding: 6px">Race :  
-
 <select id="race" onchange="changeRace(this.value);">
 </select></td></tr>
 <tr><td style="padding: 6px">Bonus :
@@ -128,13 +127,9 @@ COÛT
 </td>
 <td ROWSPAN="3" style="padding-left: 12px; font-size: x-small; vertical-align: top">
 <b>Quotas de points selon le type de campagne :</b>  
-
 &bull; Basse fantaisie : 10 points  
-
 &bull; Standard : 15 points  
-
 &bull; Haute fantaisie : 20 points  
-
 &bull; Épique : 25 points
 </td>
 </tr>

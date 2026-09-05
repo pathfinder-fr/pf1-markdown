@@ -44,11 +44,8 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Poison (Sur).** Morsure–blessure ; *JdS* [[Vigueur]] [[DD]] 25 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* un effet choisi par le xacarba parmi trois options ; *guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].  
-
 •  *Bile de fiélon :* [[affaiblissement temporaire]] de 1d4 points de [[Force]] (les créatures d’alignement Bon subissent en plus 2d8 points de dégâts).  
-
 •  *Disjonction ignoble :* dissipation suprême ciblée ([[NLS]] 18) sur la victime.  
-
 •  *Sang mystérieux :* [[affaiblissement temporaire]] de 1d4 points de [[Dextérité]] et de 1d4 points de [[Sagesse]] et confusion pendant 1 [[round]].}
 {s:BDTexte|**Renvoi des sorts (Sur).** Les créatures qui tentent de lancer un sort dans un rayon de 9 mètres (6 {s:c}) autour d’un xacarba doivent le lancer sur la défensive. Si le lanceur du sorts rate son test de concentration (ou s’il décide de ne pas le lancer sur la défensive), le xacarba peut choisir la cible du sort par une [[action immédiate]]. La nouvelle cible doit pouvoir être ciblée par le sort : s’il n’y a pas d’alternative admissible, le xacarba ne peut pas utiliser cette capacité.}
 </div>

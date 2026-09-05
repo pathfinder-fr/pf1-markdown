@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[inquisiteur]] 3, [[prêtre]] 3, [[sorcière]] 3  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[Choisi]]*
 
 La cible d’un sort incluant ce mot effet subit 3d6 point de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +15). Les [[type mort-vivant|morts-vivants]] sont par contre soignés et ne bénéficient donc pas de [[jet de sauvegarde]] ou de [[RM|résistance à la magie]].

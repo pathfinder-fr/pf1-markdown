@@ -5,7 +5,6 @@ LastModified: 2021-07-19 08:01
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Jiella, arrête de courir ! C’est moi, ta sœur ! Viens, écoute-moi. Je n’ai qu’un court instant.

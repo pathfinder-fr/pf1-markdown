@@ -6,11 +6,8 @@ LastModified: 2019-06-29 02:50
 
 {s:cs}
 **(Source: Heroes of the street)**  
-
 **Prix** 40 po; **Poids** —  
-
 **Catégorie** Matériel d'aventurier  
-
 
 Cette carte vous aide à naviguer dans une seule ville. Vous pouvez consulter la carte durant 1 minute pour gagner un bonus de +2 quand vous tentez un jet de [[Connaissances]] (Folklore Local) pour identifier un endroit dans cette ville (et pour tenter des jets au dessus de 10 si vous n'êtes pas entraînés) ou quand vous tentez un jet de [[Survie]] de DD 15 pour éviter de se perdre dans cette ville.
 
@@ -19,9 +16,6 @@ Cette carte vous aide à naviguer dans une seule ville. Vous pouvez consulter la
 (((Source Heroes of the Streets pg. 12
 
 Price 40 gp; Weight —  
-
 Category Adventuring Gear  
-
 Description  
-
 This map aids in navigating a single city. You can consult the map for 1 minute to gain a +2 bonus when attempting a Knowledge (local) check to identify a location in that city (and can attempt checks for DCs above 10 even if untrained) or when attempting a DC 15 Survival check to avoid getting lost in that city.)))

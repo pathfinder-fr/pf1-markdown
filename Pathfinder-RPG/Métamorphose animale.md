@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[Branche métamorphose|métamorphose]]) ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** jusqu’à 1 créature consentante/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Quand le Druide lance ce sort, une créature consentante par [[niveau de lanceur de sorts]] adopte l’apparence de n’importe quel [[type animal|animal]] de [[taille Min]], [[taille TP|TP]], [[taille P|P]], [[taille M|M]], [[taille G|G]] ou [[taille TG|TG]] ou d’une [[type créature magique|créature magique]] de [[taille P]] ou [[taille M|M]] choisi par le personnage. Si cette créature dispose des aptitudes suivantes, le personnage en bénéficie aussi : creusement 9 m, escalade 27 m, nage 27 m, vol 27 m (bonne maniabilité), [[bond]], [[constriction]], [[croc-en-jambe]], [[étreinte]], [[férocité]], [[pattes arrière]], [[odorat]], [[perception aveugle]] à 9 m, [[piétinement]], [[poison]], propulsion, [[toile]], [[vision dans le noir]] 18 m, [[vision nocturne]].

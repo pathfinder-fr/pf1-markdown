@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une épée de platine miniature (250 po))  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** 1 épée  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort crée un plan de force scintillant en forme d’épée que le personnage peut contrôler et envoyer frapper tous les adversaires dans la portée du sort, en commençant dès le [[round]] où il lance le sort. Lors du tour du personnage, l’épée attaque la cible désignée une fois par [[round]]. Son bonus d’attaque est égal au [[niveau de lanceur de sorts]] du personnage augmenté de son bonus d’[[Intelligence]] (pour un [[magicien]]) ou de son bonus de [[Charisme]] (pour un [[ensorceleur]]) et d’un [[bonus daltération|bonus d’altération]] de +3. Comme il s’agit d’un effet de [[registre|force]], l’épée peut frapper les créatures [[éthéré|éthérées]] ou [[intangible|intangibles]]. Elle inflige 4d6+3 points de dégâts de force et possède une [[zone de critique]] possible de 19–20 et un multiplicateur en cas de critique de x2.

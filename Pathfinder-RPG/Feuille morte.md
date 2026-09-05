@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action immédiate]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** un objet ou créature de [[taille M]] ou inférieure/[[niveau]], distantes de 6 m (4 {s:c}) ou moins les uns des autres, et en état de chute libre.  
-
 **Durée** jusqu’à l’atterrissage ou 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort ralentit la chute des créatures ou des objets affectés, celle-ci passant instantanément à 18 m (12 {s:c}) par round (ce qui correspond à la vitesse à l’impact lorsqu’on tombe de quelques dizaines de centimètres). Les sujets ne subissent pas le moindre dégât à l’atterrissage, pour autant que le sort continue de faire effet. Si le sort échoit avant la fin de la chute, les sujets reprennent une vitesse de chute normale.

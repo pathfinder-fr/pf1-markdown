@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 2  
-
 **Temps d'incantation** 1 action immédiate  
-
 **Composantes** [[Composantes|V, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage ouvre brièvement un puissant conduit entre sa personne et une autre créature. Il subit alors tous les dégâts et autres effets négatifs que la cible aurait dû recevoir. Quand une créature qui se trouve à portée est touchée par une attaque ou rate un [[jet de sauvegarde]], le personnage peut lancer ce sort pour que les blessures et/ou les effets qui auraient dû affecter la cible lui soient transmis par magie. Le personnage subit alors les dégâts et les effets négatifs de l'attaque, comme si c'était lui qui avait été touché ou avait raté son [[jet de sauvegarde]]. Les résistances et immunités du [[paladin]] s'appliquent normalement mais en dehors de cela, il ne peut ni réduire ni annuler les dégâts ou les effets.

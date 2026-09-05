@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (un cône ou un prisme de céramique blanche)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** [[rayon]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Un [[rayon]] bleuté et glacé part de la main du personnage qui doit réussir une [[attaque de contact à distance]] pour infliger les dégâts à la cible. Le rayon inflige 1d6 points de dégâts de froid par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 25d6) et 1d4 points de [[diminution permanente]] de [[Dextérité]].

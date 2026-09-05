@@ -9,23 +9,15 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature ou un objet de taille G maximum  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Une averse soudaine trempe la créature ou l’objet ciblé. La pluie suit la cible dans la limite de la portée du sort, en l’imbibant d’eau. Si la cible est en feu, les flammes s’éteignent automatiquement. Toute flamme plus petite qu’un feu de camp (comme les lanternes et les torches) est également automatiquement noyée.
 
 (((**Note :** La parution de ces nouveaux tours de magie était initialement prévue par Paizo dans l’Art de la Magie. Elle a été supprimée faute de place, en laissant des traces dans la première édition de l’ouvrage en anglais. Paizo a décidé de faire plaisir à ses fans en les publiant par la suite sur son blog. BBE et Pathfinder-FR sont particulièrement heureux de pouvoir en proposer autant aux fans francophones.  
-
 Le sort ci-dessous est différent des tours de magie habituels. Il est rare. Les lanceurs de sorts qui ont accès à tous les sorts de niveau 0 dès leur premier niveau ne bénéficient pas de ce sort. Un lanceur de sorts doit découvrir son secret d’une autre façon (grimoire de mage, bibliothèques, parchemins oubliés...).  
-
 Ce tour de magie ne peut être utilisé dans le cadre du jeu organisé de la Pathfinder Society.)))

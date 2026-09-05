@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 1,5 km/[[niveau]]  
-
 **Zone d'effet** étendue de 3 m (2 {s:c}) de rayon  
-
 **Durée** 1 heure/[[niveau]] ou dès que la destination est atteinte  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort envoie un message ou un son. Le vent le transporte jusqu’au lieu souhaité. Le *vent de murmures* rejoint une destination connue du personnage qui doit être comprise dans les limites de portée du sort, à condition qu’il puisse y accéder. Aussi léger et [[intangible]] que la brise, le sort délivre son message une fois sa destination atteinte, même si personne n’est là pour l’entendre. Une fois qu’il a accompli sa tâche, le sort se dissipe.

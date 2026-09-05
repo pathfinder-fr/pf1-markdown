@@ -10,15 +10,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Antipaladin|Apal]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une pincée de carottes séchées ou une agate)  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minutes/niveau
 
 Le personnage gagne [[vision dans le noir]], la capacité à voir à 18 mètres (12 {s:c}) même dans les ténèbres complètes, y compris dans celles que créent *[[ténèbres profondes]]*. La vision dans le noir ne se fait qu’en noir et blanc mais, outre cela, offre une vue normale. Lorsque le personnage est affecté, ses yeux deviennent complètement noirs (mais apparaissent blancs à quiconque le voit grâce à vision dans le noir).

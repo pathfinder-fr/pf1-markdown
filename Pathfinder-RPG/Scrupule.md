@@ -17,17 +17,11 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute/[[niveau]] ou jusqu'à déchargement  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible est soudain assaillie de doutes quant à l’efficacité de ses actions et la justesse de sa cause. Elle subit un malus de -10 aux tests de caractéristique, [[test de compétence|de compétence]] et [[Test de concentration|de Concentration]], jusqu’à la fin du sort ou jusqu’à ce qu’elle passe un tour entier sans rien faire (elle utilise une [[action complexe]] pour reprendre ses esprits). Le sort expire après un [[round]] à ne rien faire.

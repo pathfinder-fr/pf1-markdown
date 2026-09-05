@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Divination]] ; **Niveau** [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage communie avec le divin et réfléchit sur un type de créature rencontré la veille. Il peut faire un test de [[Connaissances]] concernant ce type de créature avec un bonus d’intuition de +10.

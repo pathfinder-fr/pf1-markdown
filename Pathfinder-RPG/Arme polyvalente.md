@@ -17,17 +17,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (limaille de fer)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme ou 50 projectiles qui doivent se trouver ensemble au moment de l'incantation  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ;** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Le personnage transforme à sa guise l'aspect physique d'une arme. Ce sort fonctionne comme une *[[arme magique suprême]]* sauf qu'il modifie subtilement les propriétés physiques  de l'arme et lui permet d'ignorer l'une des [[RD|réductions de dégâts]] suivantes : contondant, fer froid, perforant, argent ou tranchant. L'arme affectée inflige toujours des dégâts normaux pour une arme de son type et sa solidité, comme ses points de vie, restent inchangés. On peut lancer ce sort sur une arme naturelle ou sur des mains nues.

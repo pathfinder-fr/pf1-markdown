@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Druide|Dru]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#JETSDESAUVEGARDE|concentration]], jusqu’à 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection des collets et des fosses*, le lanceur de sorts peut repérer les fosses, les poids en équilibre prêts à tomber sur toute personne passant sous eux, les collets ainsi que les pièges mécaniques fabriqués à partir de matériaux naturels. Il ne permet pas de repérer les pièges complexes comme des trappes cachés par exemple.

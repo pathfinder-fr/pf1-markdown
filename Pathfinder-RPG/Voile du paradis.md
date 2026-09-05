@@ -11,17 +11,11 @@ Categories:
 
 {s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]] ou 1,50 m (1 {s:c}) (voir description)  
-
 **Cible** Lanceur de sorts ou toutes les créatures dans un rayon de 1,5 m ; voir description  
-
 **Durée** 10 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** non
 
 Le lanceur de sorts s’entoure d’un voile d’énergie positive : les [[type extérieur|extérieurs]] Mauvais ont plus de mal à le blesser.

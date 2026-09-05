@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[prêtre]] 8  
-
 **Durée** 1 [[round]]/[[niveau]] T  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*
 
 Un sort incluant ce mot effet fonctionne de la même manière que *[[bouclier dalignement|bouclier d’alignement]]* mais le bonus à la [[CA]] et aux [[jet de sauvegarde|jets de sauvegarde]] passe à +4. De plus, la cible du sort bénéficie d’une [[RM]] 25 contre les sorts lancés par les créatures de l’[[alignement]] choisi. Enfin, les créatures de l’[[alignement]] choisi ressentent de la douleur à toucher quelqu’un qui est protégée de la sorte. Elles subissent 2d6 points de dégâts pour chaque attaque réussie avec une arme de corps à corps ou une arme naturelle.

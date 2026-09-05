@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]], [[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante dotée de 100 [[pv]] ou moins  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage prononce un mot qui terrasse instantanément une créature de son choix, qu’elle entende le mot ou non. Une créature dotée de plus de 100 [[points de vie]] n’est pas affectée.

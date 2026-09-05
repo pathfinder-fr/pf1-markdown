@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 8, [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[illimitée]]  
-
 **Cible** 1 créature ou 1 objet  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait partie des plus puissants pour ce qui est de la localisation de créature ou d’objet. Seuls *[[esprit impénétrable]]* ou l’intervention directe d’un dieu permettent d’empêcher le lanceur de sorts d’apprendre ce qu’il cherche à savoir via ce sort. *Localisation suprême* déjoue les techniques communes permettant de se soustraire à la scrutation ou la localisation magique. Le sort révèle l’endroit exact où se trouve l’individu ou l’objet recherché (nom du bâtiment, du propriétaire, de l’entreprise, etc.), en y ajoutant la localité, le comté (ou autre division administrative), le pays, le continent et le plan d’existence.

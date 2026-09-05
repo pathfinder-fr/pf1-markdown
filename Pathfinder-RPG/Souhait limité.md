@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** Universel ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (diamant (1 500 po))  
-
 **Portée** voir description  
-
 **Cible, effet ou zone d’effet** voir description  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui
 
 *Souhait limité* permet de créer n’importe quel effet magique, ou presque. Il peut par exemple servir pour :

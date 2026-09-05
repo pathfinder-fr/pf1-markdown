@@ -16,17 +16,11 @@ Categories:
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}
 **École** [[Transmutation]] ;
 **Niveau** [[Antipaladin|Apal]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Ce sort fait pousser une barbe broussailleuse en fer sur le visage d’une cible consentante. Elle lui donne un bonus d’armure de +1 à la [[CA]] et se cumule avec une éventuelle armure. La barbe de fer peut aussi servir d’arme, comme des pointes d’armure en [[fer froid]]. En revanche, elle gêne l’élocution et les sorts à composante verbale ont 20 % de risques d’échec.

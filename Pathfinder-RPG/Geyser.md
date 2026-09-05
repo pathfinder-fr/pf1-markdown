@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|feu, eau]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un morceau de roche volcanique)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** jet d'eau bouillante qui remplit une case de 1,50 m (1 {s:c}) et monte jusqu'à 3 m (2 {s:c})/2 [[niveau|niveaux]]  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] +1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir plus bas) ; **Résistance à la magie** non
 
 Le personnage fait jaillir une colonne d'eau bouillante de n'importe quelle surface horizontale, renversant tout être qui se trouve juste au-dessus et exposant les créatures voisines aux gouttelettes brûlantes qui retombent.

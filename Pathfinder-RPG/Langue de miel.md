@@ -14,15 +14,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, M/FD]] (une goutte de miel)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]]
 
 Ce sort augmente la diplomatie du personnage. Tant qu'il est sous l'effet du sort, il lance deux dés à chaque fois qu'il fait un test de [[Diplomatie]] pour modifier l'attitude d'une créature et conserve le meilleur score. Si le résultat est assez bas pour réduire l'attitude de la créature d'un cran, cette dernière comprend que le personnage la manipule à l'aide d'un sort. Le personnage peut également lancer le sort avant de faire un test de [[Diplomatie]] pour obtenir des renseignements, auquel cas il obtient un bonus de compétence de +5 au test.

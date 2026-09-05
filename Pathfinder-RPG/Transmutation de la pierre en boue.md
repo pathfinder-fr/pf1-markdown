@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (eau et argile)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[[niveau]] (F)  
-
 **Durée** [[permanente]] (voir description)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Ce sort transforme la pierre brute (c’est-à-dire non-travaillée) en quantité égale de boue. Le sort n’affecte pas la pierre magique ou enchantée. La profondeur de boue créée ne dépasse jamais trois mètres. Les créatures incapables de se dégager (en volant, en lévitant, etc.) s’enfoncent jusqu’à la taille ou jusqu’à la poitrine, ce qui réduit leur [[vitesse de déplacement]] à 1,50 m et leur inflige un malus de -2 à la [[CA]] et aux [[jet dattaque|jets d’attaque]]. On peut jeter de la broussaille sur la boue pour que les créatures assez légères puissent s’y hisser. Les créatures suffisamment grandes pour toucher le fond peuvent quitter la zone à raison de 1,50 m par round.

@@ -15,15 +15,10 @@ Categories:
 {s:racial|Homme-poisson (race)|h-poissons|Illustrations/PNJ/Homme-poisson.jpg}{s:MR}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]])  ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature volontaire touchée  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le [[Lancer des sorts|lanceur de sorts]] transforme les nageoires, les palmes ou la queue de la cible pour en faire des jambes et des pieds, lui permettant de marcher sur la terre ferme. La cible perd sa vitesse de nage, mais gagne une [[Déplacements|vitesse de base]] appropriée à une créature humanoïde de sa [[Petites et grandes créatures#TABLEAUTAILLES|taille]] (vitesse de 9 mètres pour une créature de taille M ou plus grande, vitesse de 6 mètres pour une créature de taille P). Si la créature est immergée dans l’eau pendant 1 [[Vocabulaire courant#ROUND|round]], la transformation s’inverse, lui permettant de nager normalement. Un round après avoir quitté l’eau, la transformation a lieu de nouveau, lui permettant de marcher.

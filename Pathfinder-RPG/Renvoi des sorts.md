@@ -12,15 +12,10 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un petit miroir en argent)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** jusqu’à épuisement ou 10 minutes/[[niveau]]
 
 Les sorts et effets magiques qui prennent le personnage pour cible (et seulement ceux-là) sont renvoyés sur celui qui les a lancés. Les sorts de zone ne sont pas affectés, pas plus que les sorts à effet. Cette protection est inefficace contre les sorts de portée « contact ». L’[[abjuration]] renvoie de sept à dix (1d4+6) [[niveau de sort|niveaux de sort]] (ce chiffre est déterminé en secret). Chaque sort retourné à l’envoyeur est retranché à ce nombre.

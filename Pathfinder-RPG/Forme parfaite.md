@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[alchimiste]] 4, [[barde]] 4, [[conjurateur]] 4, [[druide]] 4, [[ensorceleur]]/[[magicien]] 4, [[magus]] 4, [[prêtre]] 4  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet bénéficie d’un bonus d’altération de +4 à la [[Force]], la [[Dextérité]] et la [[Constitution]].

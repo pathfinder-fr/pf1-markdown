@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal, maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** un nuage de 6 m (4 {s:c}) de rayon et 6 m (4 {s:c}) de haut  
-
 **Durée** 1 minute/[[niveau]] et instantanée (voir texte)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Le personnage crée un ignoble nuage gris, semblable à une *[[nappe de brouillard]]* parfois zébrée d’éclairs d’un vert maladif à l’odeur écœurante. Les créatures situées dans la zone doivent réussir un [[jet de sauvegarde]] ou contracter l’une des [[maladies]] suivantes : la bouille-crâne, la diantrespasme, la fièvre des marais, la fièvre gloussante, la lèpre, le mal aveuglant, le mal rouge, la mort vaseuse, la peste bubonique, la peste infernale ou la tremblante.

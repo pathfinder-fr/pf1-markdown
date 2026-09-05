@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 6, [[ensorceleur]]/[[magicien]] 7  
-
 **Durée** instantanée, 1 [[round]]/[[niveau]], voir la description  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce mot effet inflige à la cible 1d6 points de dégâts sonores par [[NLS|niveau de lanceur]] (maximum 15d4) et la rend [[chancelant|chancelante]] pendant 1 [[round]] par [[niveau]]. Un jet de [[Vigueur]] réussi diminue de moitié les dégâts et annule l’état préjudiciable.

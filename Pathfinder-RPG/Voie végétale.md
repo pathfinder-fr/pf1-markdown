@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche téléportation|téléportation]]); **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[illimitée]]  
-
 **Cible** le jeteur de sorts et les créatures consentantes ou objets touchés  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à ce sort, le [[druide]] peut s’engouffrer dans une plante de son choix (à condition qu’elle soit au moins de taille égale au personnage) et de ressortir à la fin du [[round]] par une autre plante de la même espèce, quelle que soit la distance les séparant. Les deux plantes doivent être vivantes, mais le personnage n’a pas besoin de connaître celle par laquelle il compte ressortir. S’il ignore où elle se trouve exactement, il indique juste la direction et la distance qui l’intéressent et *voie végétale* le rapproche autant que possible de cette destination. Si le [[druide]] cherche à atteindre une plante bien spécifique et si cette dernière est morte, le sort échoue. Le personnage est aussitôt éjecté de la plante qui a servie de point d’entrée.

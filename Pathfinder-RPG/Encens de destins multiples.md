@@ -14,7 +14,6 @@ Categories:
 **Aura** [[école Divination|Divination]] modérée ; **NLS** 11 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3 300 po ; **Poids** 0,5 kg
 (((Description)))
 Utilisé pendant la méditation, cet encens permet à la conscience du samsaran de traverser ses vies futures ou passées pour en apprendre plus au sujet d’une personne, d’un lieu ou d’un élément important. Cela fonctionne comme *[[mythes et légendes]]*, mais seulement si le sujet est proche. Cet état transcendantal dure 1 heure pendant laquelle le [[samsaran (race)|samsaran]] ne peut entreprendre aucune autre action. S’il est dérangé pendant sa méditation, l’effet de son encens est perdu. Les créatures autres que les samsarans peuvent utiliser cet encens, mais la connexion à leurs autres vies sont plus fragiles et nécessitent une méditation plus profonde durant 24 heures.  
-
 Chaque bloc d’encens ne dure que le temps d’une utilisation.
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[mythes et légendes]]* ; **Coût** 1 650 po

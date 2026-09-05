@@ -7,13 +7,9 @@ LastModified: 2017-04-23 19:36
 <button type="button" id="go">Générer</button>
 
 <input type="text" id="resAlea1" readonly />  
-
 <input type="text" id="resAlea2" readonly />  
-
 <input type="text" id="resAlea3" readonly />  
-
 <input type="text" id="resAlea4" readonly />  
-
 <input type="text" id="resAlea5" readonly />
 
 <script>

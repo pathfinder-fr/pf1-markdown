@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** la créature artificielle touchée  
-
 **Durée** 1 round/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Le personnage peut effectuer une attaque de contact au corps à corps pour envoyer une impulsion à la cible, interférant avec la magie qui lui a insufflé la vie. Si la créature artificielle rate son jet de sauvegarde, elle est [[sans défense]] mais à droit à un nouveau [[jds|jet de sauvegarde]] à la fin de chacun de ses tours pour mettre fin à l'effet. Si la créature artificielle est normalement immunisée à la magie, l'impulsion est moins efficace et la créature bénéficie d'un bonus de +4 à aux jets de sauvegarde.

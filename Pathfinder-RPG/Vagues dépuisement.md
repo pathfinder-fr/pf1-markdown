@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Des vagues d’[[énergie négative]] [[épuisé|épuisent]] toutes les créatures situées dans la zone. Ce sort n’a aucun effet sur les créatures déjà [[épuisé|épuisées]].

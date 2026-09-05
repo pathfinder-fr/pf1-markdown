@@ -50,6 +50,5 @@ Si elles doivent l’essentiel de leurs capacités martiales à leurs pouvoirs m
 possèdent la force et la résistance qui caractérisent toutes les thriae. Les oracles thriae passent la plupart de leur temps à méditer dans l’une des nombreuses chambres de la colonie réservées à ce genre d’activités.
 
 Consommant de grandes quantités de la mérope de leur reine pour accroître leurs pouvoirs de divination, les oracles réfléchissent aux meilleures solutions pour résoudre les problèmes de leur colonie et font souvent office de conseillères politiques auprès de la reine. Lorsqu’un groupe d’étrangers particulièrement riches vient chercher conseil auprès de plusieurs oracles thriae, ces prophétesses combinent tout leurs pouvoirs pour réussir les divinations les plus complexes.  
-
 Les oracles thriae mesurent 1,80 mètre de la tête aux pieds et pèsent 75 kilos. L’oracle thriae présentée ici incarne la moins puissante de son espèce. Beaucoup d’oracles thriae prennent des niveaux de moine ou de roublard afin d’être plus à même de protéger leur reine. Les oracles et ensorceleuses thriae sont également assez communes : ces thriae sont particulièrement importantes au sein de la ruche pour leurs capacités magiques.
 </div></td></tr></table>

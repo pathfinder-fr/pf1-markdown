@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un tout petit sablier)  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** émanation de 9 m de rayon centrée sur le lanceur  
-
 **Durée** 1 round  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage génère une onde temporelle qui affecte toutes les créatures dans la zone. Au début du tour de chaque créature, il y a 50% de chances qu’elles soient soumises à un effet de rapidité. Sinon, elles sont soumises à un effet de lenteur.

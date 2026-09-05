@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un os d’un mort-vivant)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cibles** 1 créature vivante/3 [[niveau|niveaux]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]] ou 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Les cibles de ce sort sont [[effrayé|effrayées]]. Si une cible réussit un jet de [[Volonté]], elle est seulement [[secoué|secouée]] pendant 1 [[round]]. Les créatures qui possèdent 6 [[DV]] ou plus sont [[immunisé|immunisées]] contre ce sort.

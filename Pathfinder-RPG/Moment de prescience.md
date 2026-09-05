@@ -12,15 +12,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 heure/[[niveau]] ou jusqu’à utilisation
 
 Ce sort offre au personnage un sixième sens puissant. Il ne peut s’en servir qu’une seule fois pendant toute la durée du sort et il donne un bonus d’intuition égal au [[niveau de lanceur de sorts]] (maximum +25) à un [[jet dattaque|jet d’attaque]], un jet de [[manœuvre de combat]], un test de caractéristique ou [[test de compétence|de compétence]] opposé, ou un [[jet de sauvegarde]]. Il peut aussi choisir d’appliquer le bonus d’intuition à sa [[CA]] lors d’une attaque (même s’il est [[pris au dépourvu]]). Activer l’effet n’exige aucune action. Si besoin, il est même possible de l’activer au tour de jeu d’un autre personnage. Par contre, il faut décider d’utiliser *moment de prescience* avant d’effectuer le jet concerné. Ensuite, le sort prend fin. Un même personnage ne peut bénéficier que d’un seul *moment de prescience* à la fois.

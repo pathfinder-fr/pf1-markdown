@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un petit cristal ou un cône de verre)  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 *Cône de froid* crée une vague de froid glacial naissant dans la main tendue du [[magicien]] et prenant la forme d’un cône. Toutes les créatures situées dans la [[zone deffet|zone d’effet]] voient leur chaleur corporelle chuter, ce qui se traduit par 1d6 points de dégâts de froid par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 15d6).

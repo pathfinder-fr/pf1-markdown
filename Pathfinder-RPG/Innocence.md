@@ -12,15 +12,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Le personnage s'entoure d'une aura d'innocence et semble digne de confiance. Il gagne un bonus de compétence de +10 aux tests de [[Bluff]] destinés à convaincre les autres de son innocence. Les gens ont alors du mal à le croire capable du moindre méfait. Ce bonus ne s'applique pas aux autres usages du [[Bluff]], comme les feintes en combat, les diversions pour se cacher ou les messages secrets transmis par insinuation. Il ne sert pas non plus à convaincre les gens de quoi que ce soit d'autre que de son innocence et de son caractère irréprochable.

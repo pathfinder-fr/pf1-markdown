@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau**  [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un petit sifflet en argent, un morceau d’os et un bout de ficelle)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** chien de garde spectral  
-
 **Durée** 1 heure/[[niveau]] ou jusqu’à apparition, puis 1 [[round]]/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait apparaître un chien spectral visible de son seul créateur. L’animal garde le lieu où il se manifeste (il ne se déplace pas). Il se met à aboyer dès qu’une créature de [[taille P]] (ou supérieure) se déplace à neuf mètres ou moins de lui (les personnes se trouvant déjà à moins de neuf mètres du chien quand il est convoqué peuvent se déplacer sans déclencher la moindre réaction de sa part, mais si elles s’éloignent, il se met à aboyer dès qu’elles s’approchent de nouveau dans la zone gardée). Le chien a la faculté de voir les créatures [[invisible|invisibles]] ou [[éthéré|éthérées]]. Il réagit aux [[illusion|illusions]] de type [[branche ombre|ombre]], mais pas aux [[chimère|chimères]].

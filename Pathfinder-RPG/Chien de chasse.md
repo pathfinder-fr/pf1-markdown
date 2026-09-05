@@ -14,15 +14,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une goutte de sang et une pincée de cannelle)  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 heure/[[niveau]]
 
 Le personnage gagne l'aptitude [[odorat]] et peut donc traquer une créature à l'odeur. Il reçoit un bonus de compétence de +8 aux tests de [[Perception]] qui recourent à l'odorat et un bonus de compétence de +4 aux tests de [[Survie]] pour suivre une piste à l'odeur. Il subit un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets liés à l'odeur comme le pouvoir spécial de [[puanteur]] et les *[[nuage nauséabond|nuages nauséabonds]]*. Une créature sous l'effet de *chien de chasse* peut détecter le [[poison]] à l'odeur si elle réussit un test de [[Perception]] [[DD]] 20.

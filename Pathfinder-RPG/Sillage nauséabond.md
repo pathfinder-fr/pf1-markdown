@@ -5,17 +5,11 @@ LastModified: 2020-06-09 17:28
 ---
 
 {s:MCA}**École** [[invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 3, [[chaman|Cham]] 3, [[druide|Dru]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[Magus]] 3, [[sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un œuf pourri ou des feuilles de chou)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Cible** une créature volontaire  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** aucun et [[Vigueur]] pour annuler (cf. texte) ; **Résistance à la magie** non
 
 La cible exsude des vapeurs nauséabondes qui emplissent l’espace qu’elle occupe. Ces vapeurs n’obscurcissent pas la vision mais rendent les créatures nauséeuses comme le ferait un nuage nauséabond. La cible est immunisée contre ces vapeurs. Celles-ci persistent si la créature se déplace, emplissant chaque case qu’elle traverse jusqu’à ce qu’elle ait rempli un nombre de case égal à 4 × le niveau de lanceur du personnage : si elle traverse plus de cases que cela, les cases en surplus ne s’emplissent pas de vapeurs.

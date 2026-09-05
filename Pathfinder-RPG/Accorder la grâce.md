@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 2   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature [[Alignement|Bonne]] touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Grâce à ce sort, le personnage peut accorder sa grâce divine à une autre créature d'alignement [[alignement|Bon]] pendant un bref laps de temps, en l'imprégnant d'une part de sa sainte vertu. Quand il touche le sujet, il lui transmet un bonus sacré à tous les [[jet de sauvegarde|jets de sauvegarde]] égal à son bonus de [[Charisme]] (le cas échéant).

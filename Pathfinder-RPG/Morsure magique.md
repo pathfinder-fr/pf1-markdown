@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 *Morsure magique* donne à l’une des [[arme naturelle|armes naturelles]] de la cible un [[bonus daltération|bonus d’altération]] de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts. Le sort peut affecter une morsure, un coup de poing, ou toute autre attaque portée par une [[arme naturelle]]. Ce sort ne transforme pas les [[dégâts non-létaux]] des [[attaque à mains nues|attaques à mains nues]] en [[dégâts létaux]].

@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1d4+1 [[round|rounds]] de temps apparent (voir description)
 
 Ce sort semble stopper le cours du temps, sauf pour celui qui le lance. En réalité, la [[VD|vitesse]] du personnage s’accroît tellement que le reste de son environnement lui paraît figé, même si les autres créatures se déplacent en fait à leur [[VD|vitesse normale]]. Le personnage peut agir pendant 1d4+1 [[round|rounds]] de temps apparent. Feu, froid, gaz et autres, qu’ils soient magiques ou non, l’affectent toujours. Tant que l’*arrêt du temps* dure, les autres créatures sont invulnérables aux attaques et aux sorts du personnage. Les sorts de zone dont la durée est supérieure à celle de l’*arrêt du temps* affectent normalement les autres créatures (pour le reste de leur durée) une fois qu’il a repris son cours normal. La plupart des lanceurs de sorts profitent du temps qui leur est alloué pour renforcer leurs défenses, convoquer des alliés ou fuir.

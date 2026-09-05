@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** jusqu'à 1 créature/3 [[niveau|niveaux]] qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Forme véritable* dissipe tout [[branche métamorphose|effet de métamorphose]] qui affecte la créature visée et lui rend sa forme naturelle, même contre son gré. Si le personnage lance ce sort contre une cible affectée par un [[branche métamorphose|sort de métamorphose]] comme *[[métamorphose funeste]]*, *[[forme de géant I]]* ou *[[forme de géant II]]*, il doit réussir un test de niveau de lanceur de sorts (1d20 + [[NLS|niveau de lanceur de sorts]], maximum +15) contre un [[DD]] de 11 + [[NLS|niveau de lanceur de sorts]] de l'effet. En cas de succès, l'[[branche métamorphose|effet de métamorphose]] se termine immédiatement.

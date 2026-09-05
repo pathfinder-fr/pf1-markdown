@@ -14,17 +14,11 @@ Categories:
 
 {s:Desambi|À ne pas confondre avec le sort de [[refuge du mage]] (Bard 4, Ens/Mag 4).}
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un objet préparé (1 500 po))  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** [[permanente]] jusqu’à utilisation  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet d’enchanter un objet préparé pour l’occasion. Cet objet permettra ensuite de transporter instantanément celui qui le tient chez le lanceur de sorts, à condition que sa demeure se trouve dans le même plan. Une fois l’objet enchanté, le lanceur de sorts doit le donner de son plein gré à la personne de son choix, à qui il doit également enseigner le [[mot de commande]] qu’il a choisi. Pour bénéficier de l’effet du sort, le sujet doit prononcer le [[mot de commande]] au moment où il brise l’objet, ce qui lui demande une [[action simple]]. Il est alors instantanément transporté chez le lanceur de sorts, avec tout ce qu’il porte (dans la limite de sa [[charge maximale]]). Aucune autre créature ne peut l’accompagner, exception faite d’un [[familiers|familier]] qui doit le toucher au moment où il casse l’objet.

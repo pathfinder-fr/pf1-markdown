@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** jusqu'à 1 [[round]]/[[niveau]] (voir texte)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage emprunte une [[compétences|compétence]] connue de lui à la cible. Après l'avoir touchée, il peut faire un unique test pour la [[compétences|compétence]] choisie en utilisant le [[rang]] de la cible auquel il applique son propre modificateur de caractéristique. Si le personnage dépasse la durée d'effet du sort pour effectuer son test ou si le test demande plus de temps, le sort échoue et le personnage doit utiliser ses propres [[rang|rangs]] de [[compétences|compétence]] (s'il en a). Si la [[compétences|compétence]] d'emprunt est une [[compétence de classe]] pour le personnage, il gagne un bonus de +3 au test quand il l'utilise.

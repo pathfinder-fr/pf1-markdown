@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur]] 3, [[prêtre]] 3, [[druide]] 3, [[magus]] 3, [[rôdeur]] 3, [[ensorceleur]]/[[magicien]] 3  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[barrière]]*
 
 Ce mot effet crée un mur vertical fait de tourbillons d’air. Ce vent ne gène pas la vision mais les projectiles qui le traversent ratent automatiquement (à l’exception des gros projectiles, comme les rochers jetés par un géant et les armes de siège). Les créatures qui essaient de passer à travers se retrouvent en [[terrain difficile]] et doivent faire

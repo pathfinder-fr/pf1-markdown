@@ -26,7 +26,6 @@ ou grande hache avec attaque en puissance +11/+6 (1d12+12, x3) }
   
 ou grande hache avec attaque en puissance +13/+8 (1d12+15, x3) }
 {s:BDTexte|**Dist **hache de lancer +9 (1d6+4, facteur de portée 2 cases)  
-
 ou arc court +9 (1d6 +4 / x3) }
 {s:BDTexte|**Attaques spéciales** rage (25 rounds/jour, +4 Force, +6 Constitution, +2 Volonté, -2 CA)}
 {s:BDTexte|**Pouvoirs de rage**}
@@ -39,11 +38,8 @@ ou arc court +9 (1d6 +4 / x3) }
 {s:BDTexte|**Langues **commun}
 {s:BDSousTitre|PARTICULARITÉS}
 **Rage d'ivrogne (ext)** Lorsqu’il entre en rage et par une action de mouvement, le barbare peut avaler une potion, une chope de bière ou l’équivalent en alcool, ce qui ne provoque pas d’attaque d’opportunité. Une potion produira ses effets normalement, et une boisson alcoolisée permettra au personnage de maintenir sa rage durant le round sans avoir à dépenser un de ses rounds de rage quotidiens (au lieu des effets habituels de l’alcool). En plus de la fatigue normale qui suit une rage, le barbare est nauséeux pendant un nombre de rounds égal au nombre de doses d’alcool bues pendant sa rage.   
-
 **Bon pour ce que tu as (Ext)** Lorsqu’il est en rage et s’il avale une dose d’alcool, le barbare peut relancer un jet de sauvegarde contre l’un des états préjudiciables suivants qui pourraient l’affecter : aveuglé, confus, ébloui, assourdi, épuisé, fatigué, effrayé, nauséeux, paniqué, secoué ou fiévreux. S’il le réussit, l’effet est annulé pour la durée de sa rage. S’il a été empoisonné, il peut utiliser ce pouvoir pour relancer le jet de sauvegarde. Un succès sera comptabilisé dans le nombre de succès requis pour la guérison, mais un échec n’aura aucun effet préjudiciable.  
-
 **Courage liquide (Ext)** Lorsqu’il est en rage, le barbare augmente son bonus de moral sur les jets de sauvegarde contre les effets affectant l’esprit de +1 s’il consomme une dose d’alcool durant sa rage.   
-
 ** Résistance à l’énergie (Ext)** Lorsqu’il est en rage, le personnage bénéficie d’une résistance au froid égale à la moitié de son niveau de barbare.
 
 {s:BDSousTitre|ÉQUIPEMENT}

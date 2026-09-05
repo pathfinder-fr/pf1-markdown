@@ -19,7 +19,6 @@ Bonne lecture à toi
 </div>
 </div>
   
-
 ### Avancement du projet
 Trouvable ci-dessous l'avancement de mon projet. Il n'avancera pas vite, mais au moins, cher lecteur, tu sauras où j'en suis (et moi aussi :D).
 
@@ -73,7 +72,6 @@ Trouvable ci-dessous l'avancement de mon projet. Il n'avancera pas vite, mais au
   
 
 
-
 ### Guide du joueur
 #### Organisation
 **Race** -> OK
@@ -85,13 +83,11 @@ Trouvable ci-dessous l'avancement de mon projet. Il n'avancera pas vite, mais au
 **Systèmes et règles optionnels**
 Santé mentale, greffe d'organe, etc...
   
-
 #### Races et classes
 <u>**Races**</u>
 
 Toutes les races peuvent convenir à la campagne. Même si vous êtes originaire d'un autre pays, une grande partie de la campagne se situe à Absalom, la ville au centre du monde. Il y a là-bas un énorme mélange de races et ethnie, si bien que n'importe qui peut se trouver une place en sein de cette gigantesque ville.
   
-
 <u>**Classes**</u>
 
 **Classes et archétypes.** Toutes les classes peuvent être utiles au cours de la campagne, comme la plupart des archétypes. Toutefois, un groupe bien équilibré est indispensable pour survivre aux défis de la campagne.
@@ -100,7 +96,6 @@ Toutes les races peuvent convenir à la campagne. Même si vous êtes originaire
 **Ennemis jurés et environnements de prédilection.**  Les rôdeurs de la campagne seront utiles s'ils choisissent les aberrations, les créatures artificielles, les créatures magiques, les humanoïdes (elfes), les humanoïdes (humains) et les morts-vivants comme ennemis jurés. En ce qui concerne les environnements de prédilections, les environnements sous-terre et urbain sont les meilleurs choix.
 **Dons et compétences.** Certains dons et compétences seront particulièrement utiles pendant la campagne. Une ou plusieurs compétences sociales (comme le Bluff, la Diplomatie ou l’Intimidation) seront les bienvenues; les compétences de Connaissances (Mystères), Connaissances (Exploration souterraine) et Connaissances (Religion) seront les plus utilisées. Les compétences Art de la magie, Discrétion, Escalade, Estimation, Linguistique, Perception, Premiers secours, Psychologie, Survie et Utilisation d'objets magiques seront toujours utiles. Pour les lanceurs de sorts, les dons de méta-magies, ceux pour augmenter les DD et ceux pour passer les RM seront les plus utiles; pour les combattants, les dons qui augmentent leur capacité de défense seront les plus utiles; dans tous les cas, les dons qui améliorent les jets de sauvegarde seront également d'une grande utilité.
   
-
 
 #### Traits de campagne
 <u>**Ancien membre**</u>
@@ -123,11 +118,9 @@ Il y a quelques années, vous avez assistez à un événement qui vous as trauma
   
 
 
-
 #### Systèmes et règles optionnels
 
   
-
 
 
 ### Campagne
@@ -141,7 +134,6 @@ Toute idée qui pourrait être intéressante, à trier puis à sélectionner.
 - Sectes  
 
   
-
 #### Synopsis de la campagne
 La Chute ne fit pas que détruire des royaumes. Alors que les empire Azlant et Thassilon sombraient et que les elfes quittaient Golarion, des créatures étranges, appelé illithids arrivèrent. Transporter par la Pierre-étoile, les illithids arrivèrent sur Golarion. Pendant un temps, ils vécurent difficilement dans les ruines de l'ancien Azlant. Mais pour une raison inconnue, ils migrèrent vers l'Ombreterre. Chose impensable, ils réussirent à travers les cavernes du Nar-Voth et de la Sékamine pour arriver dans une des grottes de l'Orv, les Montagnes de Minuit. Là, ils établirent leur campement, et y restèrent pendant de nombreux siècles.
 Mais alors qu'ils survivaient tant bien que mal dans cette région inhospitalière, les illithids rencontrèrent ce qui pour eux été un dieu. Dans une caverne, ils avaient trouvé une créature d'une grande puissance et se mirent à la vénéré. Et la situation évolua très vite. Guidé cet être, les illithids évoluèrent. Mais alors que l'évolution prend des centaines voir des milliers d'années, celle des illithids ne prit que quelques dizaines d'années. Ils acquièrent de fantastiques capacités psioniques, un goût prononcé pour la magie et un esprit partagé entre eux et l'être qu'ils avaient rencontré. Il le nommèrent l'Être suprême.
@@ -151,7 +143,6 @@ Un jour, les dévoreurs d'intellect découvrirent la surface, où l'humanité et
 Les dévoreurs d'intellect réussirent à créer leur dispositif, et purent réveiller leurs maîtres. Mais seulement quelques'un sortirent de leur stase. Avec les informations de leur créations, ils décidèrent de laisser leur congénères en stase et partirent vers la surface. Ils les réveilleraient plus tard, lorsqu'ils s'en sauront plus. Arrivé non loin de la surface, ils établirent un avant-poste, et purent observer le monde. Tant de connaissances et d'expériences s'offraient à eux. Ils décidèrent de créer un artefact capable d'attirer et de contrôler les êtres pensants, afin de satisfaire leur soif d'expériences. Mais pour que cela fonctionne, il leurs fallait récolter des informations sur chaque races afin que l'artefact fonctionne. Il envoyèrent donc les dévoreurs d'intellect à travers Golarion pour qu'ils amassent des connaissances auprès des différentes races. Pour cela, les illithids leur ordonnèrent de capturer des érudits et d'étudier les plus prometteur.
 Le jour approche, où les illithids vont sortir de l'ombre et dominer le monde.
   
-
 #### Chapitre 1 - Mystère au centre du monde
 <u>**Les grandes lignes du chapitre:**</u>
 
@@ -178,7 +169,6 @@ Deux PNJ ont plus d'importance que les autres, il s'agit du second de la secte (
 Lors de leur enquête dans les rues de la cité, les PJ pourrait rencontrer des bandes de petites frappes, des rats géants et autres créatures urbaines.
   
 
-
 #### Chapitre 2 - Quand le voile s'épaissi
 <u>**Les grandes lignes du chapitre:**</u>
 Les PJs ont délivrer les érudits des griffes des fidèles de Norgorber; mais certains manquent à l'appel. Si les PJs ont capturé un des sectaire, ils apprendront que certains érudits ont été envoyés au QG de la secte. Si les PJs n'ont pas laissé de sectaires en vie, un des érudits rescapé pourra leur dire. Si les PJs ne cherchent pas à en savoir plus et à sauver les érudits, les autorités de la ville leurs demandent de s'en charger, au vu de leur résultats.
@@ -203,7 +193,6 @@ Plusieurs PNJ ont plus d'importance que les autres, il s'agit du chef de la sect
 Durant le voyage, les PJ peuvent rencontrer la faune local (sanglier, blaireau, etc...). L'exploration de l'extérieur du temple peut mettre en face des PJ des vases grises, des mille-pattes géants, des moisissures jaunes ou encore des araignées géantes.
   
 
-
 #### Chapitre 3 - Recherche immatérielle
 <u>**Les grandes lignes du chapitre:**</u>
 La victoire sur la secte permet aux PJs de conduire les érudits en lieu sûr. Les autorités sont épater par le travaille effectué par les PJs et les récompense comme il se doit. Mais la présence d'un dévoreur d'intellect au sein d'une secte de Norgorber reste un mystère sans réponse.
@@ -227,7 +216,6 @@ Les PJ passeront niveau 6 vers le début de l'exploration de la bibliothèque. I
 Les PJ rencontreront quatre PNJ dans la bibliothèque. Les trois premiers sont les gardiens des salles de la bibliothèque. On trouve un Dandasuka, un Gardien tombal et un Golem de chair. L'ultime gardien est une lillende barde intangible.
 Les monstres présents dans la bibliothèque sont rares. Au début de la bibliothèque, des araignées géantes et des trolls ont pût entrer dans le complexe. Dans les salles plus profondes, les créatures mécaniques sont les seules créatures que les PJ rencontreront.
   
-
 #### Chapitre 4 - Rencontre du troisième type
 <u>**Les grandes lignes du chapitre:**</u>
 
@@ -251,7 +239,6 @@ Les PJ atteindront le niveau 8 après la première confrontation avec les drows.
 
 
   
-
 #### Chapitre 5 - Mystère dévoilée
 <u>**Les grandes lignes du chapitre:**</u>
 Après leur victoire, les PJs reçoivent une convocation de la Grande loge de la Société. Ils repartent donc pour Absalom, accompagné de l'expédition; et ramenant de précieuses informations. Mais à leur arrivée, les PJs constatent que la Grande loge est en ébullition. Énormément d'érudits ont disparu depuis leur départ, et de nombreuses attaques ont lieu en divers endroits de Golarion, attaque perpétré par des drows et des créatures de l'Ombreterre. Après avoir prit connaissances des informations ramenées par les PJs, la Société décide de les envoyé sur certains lieux des futurs attaques afin d'empêcher le pire et d'enquêter.
@@ -273,7 +260,6 @@ Les PJ gagneront leur niveau 11 pendant leur enquête à travers Golarion. Il pa
 
 
   
-
 #### Chapitre 6 - Voyage en terre inconnue
 <u>**Les grandes lignes du chapitre:**</u>
 Une fois leur expédition prête, les PJs peuvent partir en direction de l'Ombreterre et de l'avant-poste illithids. La route est semée d'embûches, les illithids ayant placés de nombreux alliées dominer sur la route pour ralentir toutes personnes qui chercheraient à les tuer. Mais aidé par les membres de leur expédition, les PJs triomphent facilement des embûches.
@@ -294,7 +280,6 @@ Les PJ passeront niveau 13 une fois leur campement installé. Ils seront niveau 
 
 
   
-
 ### Annexe
 #### Idées en vrac
 Toute idée qui pourrait être intéressante, à trier puis à sélectionner.
@@ -303,9 +288,7 @@ Toute idée qui pourrait être intéressante, à trier puis à sélectionner.
 - Dossier sur la bibliothèque
 
   
-
 #### Ecologie des illithids
 
   
-
 #### Ecologie des dévoreurs d'intellect

@@ -14,17 +14,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, F]] (une reproduction miniature de l’engin de siège cible <nowiki>[[</nowiki>10 po<nowiki>]]</nowiki>)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un engin de siège démonté  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage a besoin d’un ouvrier de moins par tranche de deux [[NLS|niveaux de lanceur de sorts]] pour [[Engins de siège|assembler une arme de siège]]. S’il possède des rangs en [[Connaissances]] (ingénierie), il peut se passer d’un ouvrier de plus et d’un de plus tous les 5 rangs. S’il n’arrive pas à se dispenser de tous les ouvriers nécessaires en ajoutant son [[NLS|niveau de lanceur de sorts]] et ses rangs en [[Connaissances]], le sort échoue.

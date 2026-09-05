@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide]], [[registre|froid]], [[registre|électricité]], [[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une écaille de dragon du type qui produit l'énergie que le lanceur de sorts veut absorber)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 10 minutes/[[niveau]] ou jusqu'à déchargement ; voir texte  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 

@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un peu de terre issue d’une tombe)  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#JETSDESAUVEGARDE|concentration]], jusqu’à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection des morts-vivants*, le lanceur de sorts peut détecter les auras spécifiques des [[type mort-vivant|morts-vivants]]. Les informations qu’il reçoit dépendent du temps passé à étudier la [[zone deffet|zone d’effet]] :

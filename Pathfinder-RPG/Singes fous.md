@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** une nuée de singes  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage invoque une [[nuée de singes]] crieurs malicieux. La nuée comprend les ordres du personnage et leur obéit. Elle possède les mêmes statistiques qu’une [[nuée de singes]]. Les créatures qui ratent leur [[jet de sauvegarde]] contre les [[distraction|attaques de distraction]] des singes sont [[assourdi|sourdes]] pendant 1 minute et [[nauséeux|nauséeuses]]. Les singes font une tentative de [[Manœuvres offensives#DESARMEMENT|désarmement]] ou de [[Manœuvres offensives#SUBTILISATION|subtilisation]] en combat à chaque tour, par une [[action libre]], contre toute créature qui commence son tour dans leur case. Pour le [[BMO]], les singes utilisent le [[NLS|niveau de lanceur de sorts]] du personnage plus son bonus de caractéristique (l’[[Intelligence]] pour les [[magicien|magiciens]], la [[Sagesse]] pour les [[druide|druides]] et les [[oracle|oracles]] et le [[Charisme]] pour les [[barde|bardes]], les [[conjurateur|conjurateurs]] et les [[ensorceleur|ensorceleurs]]). Pour récupérer un objet [[Manœuvres offensives#SUBTILISATION|subtilisé]], il faut réussir une manœuvre de [[Manœuvres offensives#DESARMEMENT|désarmement]] ou de [[Manœuvres offensives#SUBTILISATION|subtilisation]] contre le [[DMD]] + 10 des singes. Tout objet [[Manœuvres offensives#SUBTILISATION|subtilisé]] par les singes subit des dégâts de nuée à chaque [[round]] passé en possession de la nuée.

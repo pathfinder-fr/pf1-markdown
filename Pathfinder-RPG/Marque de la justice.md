@@ -5,17 +5,11 @@ LastModified: 2020-04-30 14:29
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 5, [[paladin|Pal]] 4, [[prêtre|Prê]] 5, [[sorcière|Sor]] 5  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[permanente]] (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le sort fait apparaître une trace indélébile sur la cible. Le lanceur de sorts décide au moment de l’incantation du comportement qui active le symbole (le plus souvent, cela consiste à choisir le crime que l’on souhaite que la cible cesse de perpétrer). Dès qu’elle a le comportement en question, elle subit une *[[sort malédiction|malédiction]]*, comme le sort du même nom.

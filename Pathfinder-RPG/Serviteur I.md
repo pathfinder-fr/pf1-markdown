@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde]] 1, [[druide]] 1, [[ensorceleur]]/[[magicien]] 1, [[rôdeur]] 1, [[prêtre]] 1, [[sorcière]] 1  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Un sort incluant ce mot effet convoque une créature qui obéit aux ordres du personnage. À chaque tour, elle attaque ses adversaires au mieux de ses capacités. Si le personnage peut communiquer avec elle, il peut diriger ses attaques ou lui donner d’autres instructions. Le sort convoque une créature de la liste de niveau 1 de la Table "[[Convocation de monstres]]".

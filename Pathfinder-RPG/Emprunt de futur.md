@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[alchimiste]] 4, [[barde]] 4, [[conjurateur]] 4, [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet peut faire une [[action simple]] et une [[action de mouvement]], ou une [[action complexe]] immédiatement après que l’effet a été lancé (maximum une fois par [[round]]). Elle passe son prochain tour mais tous les effets qui auraient dû avoir lieu à ce moment-là ou les effets de sort qui auraient dû expirer au tour suivant se déroulent normalement. La cible n’est pas [[sans défense]] mais elle ne peut pas entreprendre d’action.

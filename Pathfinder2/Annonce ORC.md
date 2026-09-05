@@ -5,7 +5,6 @@ LastModified: 2023-01-13 02:47
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • *Lien vers l’article sur le [blog de Paizo](https://paizo.com/community/blog/v5748dyo6si7v)*
 
 ### Paizo annonce l’Open RPG Creative License (ORC), indépendante de tout système de jeu spécifique

@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poussière spéciale (50 po))  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** [[permanente]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Si on examine une serrure ou un autre mécanisme similaire de près, ce sort donne l’impression qu’il est piégé. Il se lance sur un verrou, un cadenas, un loquet, une charnière, un fermoir, un bouchon, etc. pour persuader tout individu capable de détecter les pièges (ou qui utilise un sort pour parvenir au même résultat) qu’il se trouve en présence d’un piège. Mais il s’agit d’une [[illusion]], sans conséquence si le « piège » est accidentellement déclenché. Ce sort est destiné à dissuader les voleurs ou au moins à leur faire perdre du temps.

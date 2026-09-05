@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]]  ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (quelques gouttes de liqueur)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme à feu chargée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
 Ce sort accroît les risques que l’arme visée fasse [[long feu]] et augmente sa zone de [[long feu]] de +1 par tranche de cinq [[NLS|niveaux de lanceur de sorts]] (+5 au maximum). Si le tireur est conscient de l’effet du sort avant d’essayer de tirer avec la munition instable ([[Art de la magie]] [[DD]] 17 pour identifier le sort au moment de l’incantation ou effet similaire), il peut utiliser une [[action simple]] pour décharger la munition modifiée qui est alors détruite.

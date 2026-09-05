@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** jusqu’à 4 lumières devant se trouver dans un rayon de 3 m (2 {s:c})  
-
 **Durée** 1 minute (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait apparaître, au choix, jusqu’à quatre lumières ressemblant à des torches ou des lanternes (dont l’éclairage est équivalent), jusqu’à quatre globes lumineux semblables à des [[feu-follet|feux follets]], ou une silhouette lumineuse vaguement [[type humanoïde|humanoïde]]. Quand ce sort est lancé plusieurs fois, les lumières dansantes doivent rester à trois mètres (2 {s:c}) ou moins les unes des autres. Mis à part cela, elles se déplacent en fonction des désirs du lanceur de sort, sans que ce dernier ait besoin de se concentrer : elles peuvent donc avancer, reculer, monter, descendre, tourner à l’angle des couloirs, etc. Elles peuvent se déplacer de 30 m (20 {s:c}) par [[round]]. Les lumières dansantes qui vont au-delà des limites de portée du sort (par rapport au personnage, pas au point où le sort a été lancé) disparaît aussitôt.

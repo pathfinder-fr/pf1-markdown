@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Divination]] ;** Niveau** [[Barde|Bard]] 3, [[Inquisiteur|Inq]] 3, [[Psychiste|Psy]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** le lanceur de sorts plus une créature consentante par trois [[niveau|niveaux]] qui doivent être distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage choisit un unique [[Dons#DONEQUIPE|don de travail en équipe]] en sa possession. Il forge alors un lien avec ses alliés, ce qui leur permet de bénéficier de ce don même s'ils ne le possèdent pas. Le personnage doit appartenir à un groupe qui répond aux conditions demandées pour activer le bonus, s'il veut que ses alliés en profitent. Par exemple, deux alliés qui prennent un [[orque]] [[pris en tenaille|en tenailles]] ne bénéficieront d'aucun avantage lié au don [[Grande tenaille]] du personnage, mais s'il prend l'[[orque]] [[pris en tenaille|en tenailles]] avec un allié, ce dernier profite du bonus. Le positionnement et les actions des alliés doivent tout de même remplir les conditions requises par le [[Dons#DONEQUIPE|don de travail en équipe]] pour recevoir le bonus.

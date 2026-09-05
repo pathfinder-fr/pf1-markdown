@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]], [[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]/10 minutes par [[DV]] de la cible (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort permet au [[prêtre]] d’absorber l’énergie vitale d’une créature. *Mise à mort* ne fonctionne que sur une créature vivante se trouvant à -1 point de vie ou moins. Si la victime rate son [[jet de sauvegarde]], elle décède aussitôt, tandis que le [[prêtre]] gagne 1d8 points de vie temporaires et un [[bonus daltération|bonus d’altération]] de +2 en [[Force]]. De plus, son [[niveau de lanceur de sorts]] augmente de +1, ce qui rend ses sorts plus efficaces (sans toutefois lui permettre d’en apprendre de nouveaux). Tous ces effets se dissipent au bout de 10 minutes par [[DV]] de la créature achevée.

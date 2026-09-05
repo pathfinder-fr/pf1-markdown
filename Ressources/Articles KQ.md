@@ -21,7 +21,6 @@ LastModified: 2011-12-30 11:03
 
 ### Objets magiques
 - **[[KQ Cartomancien|La dernière carte du Cartomancien]].** Cet article en cinq parties présente une série de cartes magiques au fil des aventures de Lan Su'Vavock et Kai Geyser, deux érudits qui remontent la piste des indices laissés par un ancien cartographe légendaire, par **Michael Kortes** (également auteur des rubriques "Ask a Shoanti" dans [[Golarion.Wayfinder|Wayfinder]]).   
-
 *Liens vers la [[KQ Cartomancien|Partie 1]] — [[KQ Cartomancien 2|Partie 2]] — [[KQ Cartomancien 3|Partie 3]] — [[KQ Cartomancien 4|Partie 4]] — [[KQ Cartomancien 5|Partie 5]].*
 
 ### Pièges

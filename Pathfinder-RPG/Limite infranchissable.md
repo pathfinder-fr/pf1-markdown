@@ -9,15 +9,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 1,5 m  
-
 **Zone** rayonnement de 1,5 m centrée sur le lanceur  
-
 **Durée** 1 round/niveau
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

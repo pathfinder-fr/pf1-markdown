@@ -5,7 +5,6 @@ LastModified: 2021-10-14 12:05
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Votre esprit vous joue des tours bien étrange quand vous subissez un traumatisme important. Certaines personnes hurlent ou se battent, d’autres se renferment sur elles-mêmes, et d’autres encore fuient. Alors que son navire secoué par la tempête était projeté dans les airs et allait s’écraser et se briser sur les récifs rocheux de la côte de l’Arcadie, Droven sentit un calme étrange l’envahir. Et même quand un longeron en bois se détacha de son armature et vint percuter son bras, il se prit à analyser calmement la situation.

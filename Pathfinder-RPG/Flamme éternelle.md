@@ -15,19 +15,12 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poussière de rubis (50 po))  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Effet** flamme illusoire magique  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Une flamme aussi brillante que celle d’une torche apparaît sur l’objet que le lanceur de sorts touche. Elle a l’apparence d’une flamme normale mais elle ne dégage pas la moindre chaleur et ne consomme pas d’oxygène. Il est possible de recouvrir et de cacher une *flamme éternelle*, mais pas de l’étouffer ou de l’éteindre.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6  
-
 **Temps d'incantation** 6 [[round|rounds]]  
-
 **Composantes** [[composantes|V, G, M]] (eau bénite et encens (1 500 po, plus 1 500 po par cube de 18 m/12 {s:c} d’arête), [[composantes|FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** 1 cube de 18 m/12 {s:c} d’arête par [[niveau]] (F)  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
 Ce sort rend impossible tout voyage planaire vers ou à partir de la [[zone deffet|zone d’effet]]. Ceci inclut les sorts de téléportation (comme *[[porte dimensionnelle]]* et *[[téléportation]]*), les changements de plan, le voyage astral et tous les sorts de convocation. Ces effets échouent automatiquement.

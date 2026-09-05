@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (une pierre de soleil et une source de feu)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[rayonnement]] de 24 m (16 {s:c}) de rayon  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort crée une explosion silencieuse de chaleur éblouissante qui émane d’un point que le personnage désigne. Toutes les créatures prises dans la [[zone deffet|zone d’effet]] sont [[aveuglé|aveuglées]] et subissent 6d6 points de dégâts. Ces dégâts sont doublés pour les créatures que la lumière du jour dérange ou affaiblit. Un jet de [[Réflexes]] réussi annule la [[aveuglé|cécité]] et réduit les dégâts de moitié.

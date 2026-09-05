@@ -15,17 +15,11 @@ Categories:
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
 **École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>;
 **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible du sort a l’impression d’être couverte d’insectes grouillants qui la piquent. Elle est incapable de rester tranquille et se trémousse sans cesse. Elle subit un malus de -4 à tous les tests de [[Dextérité]] et tous les tests de compétence basés dessus. Elle est incapable de retarder une action, de préparer une action ou de se mettre en [[défense totale]].

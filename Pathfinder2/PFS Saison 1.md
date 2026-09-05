@@ -6,344 +6,213 @@ LastModified: 2023-03-06 20:21
 
 <img src="Logos/PFS2/Year_of_the_Open_Road_Logo.png" class="fright" alt="">
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 ### Année de la Route ouverte
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0100E_180.jpeg|1-00 - Origin of the Open road}
 **Titre VF** L'Origine de la Route Ouverte  
-
 **Niveau** 5 (persos pré-tirés), par Ron Lundeen  
-
 **Tag** Intrigue principale  
-
 **Lieu** Nex  
-
   
-
 Au cours des dernières décennies, de nombreux incidents survenus à la Grande Loge de la Société des Éclaireurs à Absalom ont endommagé ses collections inestimables, détruisant irrémédiablement de nombreux documents. La Société a envoyé les PJ à Maison du Nexus, dans la métropole arcanique de Quantium, en espérant que la deuxième plus ancienne loge de la Société puisse contenir des copies des textes perdus, pour les copier et les étudier. Cependant, les PJ ne sont pas les seuls à s'intéresser aux secrets conservés dans la Maison du Nexus, et les PC se retrouvent sur la piste d'improbables criminels. Cette aventure utilise les personnages prétirés de 5ème niveau disponibles en téléchargement gratuit.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0101E_180.jpeg|1-01 - The Absalom Initiation}
 **Titre VF** Initiation à Absalom  
-
 **Niveau** 1–4, par Liz Lydell  
-
 **Tag** Répétable  
-
 **Lieu** Absalom  
-
   
-
 Une nouvelle ère commence pour la Société des Éclaireurs, avec de nouvelles recrues et de nouvelles factions toutes impatientes de nouer des liens et de se lancer dans de grandes aventures. Les PJs font partie des recrues invitées à participer à une fête de bienvenue où ils peuvent rencontrer à la fois la vieille garde et les leaders en devenir. Mais la fête ne se traduit pas que par des paroles : les PJs sont envoyés à travers Absalom dans quatre escapades passionnantes, grâce auxquelles ils peuvent donner un coup d'envoi à leur carrière d'aventurier !
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0102E_180.jpeg|1-02 - The Mosquito Witch}
 **Titre VF** La Sorcière Moustique  
-
 **Niveau** 1–4, par Eleanor Ferron  
-
 **Tag** Aucun  
-
 **Lieu** Royaumes Fluviaux  
-
   
-
 Il y a plusieurs décennies, des témoins ont rapporté une sombre apparition à l'extérieur de la ville tranquille de Shimmerford, dans les Royaumes Fluviaux. Surnommée la Sorcière Moustique, elle a été rarement vue depuis et elle est rapidement devenue une légende locale appréciée que la ville commémore et utilise pour attirer les visiteurs. Mais lorsque de récentes attaques ont commencé à viser le bétail et les citadins, beaucoup ont commencé à croire en l'existence de la sorcière moustique. Les PJ se rendent à Shimmerford pour élucider le mystère, mais deviendront-ils la prochaine victime de la sorcière ?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0103E_180.jpeg|1-03 - Escaping the Grave}
 **Titre VF** S'Échapper de la Tombe  
-
 **Niveau** 1–4, par Adiran Ng  
-
 **Tag** Alliance des Emissaires  
-
 **Lieu** Pays des Tombes  
-
   
-
 Le Tyran qui Murmure s'est échappé de la Tour-du-Gibet et a ravagé les terres du Dernier Rempart. Bien que la nation ait réussi à évacuer de nombreux civils, il reste des réfugiés, des Éclaireurs et des trésors culturels irremplaçables piégés dans ce royaume de morts-vivants connu sous le nom de Pays des Tombes. Les PJ font partie des tentatives de la Société pour infiltrer ces terres dangereuses, sauver les Éclaireurs disparus au combat et récupérer autant de textes historiques et de trésors qu'ils peuvent. Faites vite ! Chaque heure passée derrière les lignes ennemies augmente les chances qu'une armée proche découvre la mission des PJ.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0104E_180.jpeg|1-04 - Bandits of Immenwood}
 **Titre VF** Les Bandits d'Immenwood  
-
 **Niveau** 1–4, par Scott D. Young  
-
 **Tag** Grandes Archives  
-
 **Lieu** Ile de Kortos  
-
   
-
 Les Éclaireurs sont appelés pour aider les leurs ! Des Éclaireurs revenant d'une longue mission en mer se sont échoués sur l'île de Kortos et ont dû abandonner nombre de leurs découvertes afin de pouvoir poursuivre leur route vers Absalom et recevoir les soins médicaux dont ils avaient tant besoin. Les PJ sont envoyés sur le site de l'épave pour récupérer les reliques et les cartes que leurs pairs ont été contraints d'abandonner, mais les reliques ont attiré l'attention de certains des habitants les plus turbulents d'Immenwood. Les PJ pourront-ils rapporter les documents et les reliques à Zarta Dralneen, l'archiviste en chef de la Grande Loge ? Ou seront-ils la proie de ces bandits peu communs qui vivent dans la partie littorale de l'une des forêts les plus tristement célèbres de Kortos ?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0105E_180.jpeg|1-05 - Trailblazer's Bounty}
 **Titre VF** La Prime aux Pionniers  
-
 **Niveau** 1–4, par Tineke Bolleman  
-
 **Tag** Chasseurs d'Horizon  
-
 **Lieu** Isger, Molthune  
-
   
-
 La puissante nation du Cheliax offre une prime publique qui récompenserait généreusement la première équipe d'explorateurs à avoir tracé une route viable à travers la chaîne de Ménador, reliant les nations d'Isger et de Molthune (tout cela pour contourner la puissance économique de Druma, qui a récemment imposé des taxes plus élevées sur les biens clés traversant ses frontières). Cependant, la chaîne de Ménador est un obstacle imposant, avec ses versants abrupts, ses sommets enneigés et ses orcs territoriaux. Malgré tout, il n'y a pas de meilleurs explorateurs que les Éclaireurs, et la Société a envoyé une équipe pour remporter la prime. Les PJ sont-ils prêts non seulement à explorer les montagnes qui les attendent, mais aussi à se mesurer aux équipes rivales et aux habitants de la région ?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0106E_180.jpeg|1-06 - Lost on the Spirit Road}
 **Titre VF** Perdus sur la Route des Esprits  
-
 **Niveau** 1–4, par Christopher Wasko  
-
 **Tag** Répétable  
-
 **Lieu** Continent du Tian-Xia  
-
   
-
 Une cargaison de reliques en route pour le Minkai a disparu quelque part dans la Forêt des Esprits, une vaste étendue boisée  qui abrite des kami et des esprits de toutes sortes. À la recherche de la cargaison disparue, les agents Éclaireurs se rendent dans un village isolé, où ils découvrent les secrets de cette forêt énigmatique. Ce scénario offre une grande variété de possibilités de rencontres et de causes de disparition de la cargaison, ce qui permet de vivre une expérience inédite à chaque partie.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0107E_180.jpeg|1-07 - Flooded King's Court}
 **Titre VF** La Cour du Roi Inondé  
-
 **Niveau** 1–4, par Brian Duckwitz  
-
 **Tag** Sceau Vigilant  
-
 **Lieu** Absalom  
-
   
-
 Depuis un théâtre en ruine dans le quartier délabré des Flaques à Absalom, un héros gobelin et soi-disant roi règne sur les gobelins locaux. Les fondations instables du théâtre ont révélé des ruines datant des premiers jours d'Absalom, et le roi gobelin a lancé un appel aux explorateurs pour qu'ils fouillent la zone et en éliminent les dangers. La Société des Éclaireurs a répondu à l'appel. Mais ils ne sont pas les seuls intéressés et ils doivent faire leurs preuves pour obtenir le droit d'entrer dans ces dédales perdus.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0108E_180.jpeg|1-08 - Revolution on the Riverside}
 **Titre VF** Révolution Fluviale  
-
 **Niveau** 1–4, par Kalervo Oikarinen  
-
 **Tag** Intrigue principale  
-
 **Lieu** Royaumes Fluviaux  
-
   
-
 Au cœur des Royaumes Fluviaux, la révolution et l'agitation montent en pression. Les PJ sont appelés à enquêter sur les rumeurs d'une ancienne loge d'Éclaireurs abandonnée, mais découvrent que leur enquête les conduit au milieu des dangers et des intrigues locales. Ce qui commence comme une simple quête devient une révolution menaçant de balayer une nation, et les actions des PJ vont inévitablement façonner l'avenir de tout un royaume.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0109E_180.jpeg|1-09 - Star-Crossed Voyages}
 **Titre VF** Voyage sous des étoiles contraires  
-
 **Niveau** 3–6, par Lu Pellazar  
-
 **Tag** Chasseurs d'Horizon  
-
 **Lieu** Vidriane  
-
   
-
 La Société des Éclaireurs est appelée à aider la jeune nation de Vidriane ! Alors que les PJ naviguent au-delà de la limite de la Mer Intérieure, au large des côtes du Garund du sud, à la recherche de nouvelles routes commerciales pour trouver de nouveaux alliés à la Vidriane, ils se retrouvent parmi les iruxis, une civilisation d'hommes-lézards astrologues. Si les iruxis eux-mêmes semblent être des alliés intéressants, d'autres forces émergent dans les jungles voisines, et si les PJ espèrent rejoindre le nord en ayant tracé une nouvelle route commerciale, ils devront d'abord faire face à un mal ancien dont la présence complique la navigation sur des voies maritimes périlleuses.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0110E_180.jpeg|1-10 - Tarnbreaker's Trail}
 **Titre VF** Le Trek du Briseur de Lochs  
-
 **Niveau** 1–4, par Steven Hammond  
-
 **Tag** Aucun  
-
 **Lieu** Terres des Rois des Linnorms  
-
   
-
 Le capitaine d'aventure Bjersig Torrsen a lancé un appel à un groupe d'Éclaireurs pour participer à une course connue sous le nom du trek de Balgird. Cette course, qui se déroule dans les Terres des Rois de Linnorm, est un événement annuel auquel participent les Varkis et les Ulfes de la région. Bjersig espère qu'en faisant participer les PJ, ils pourront non seulement renforcer la réputation de la Société dans les Terres des Sagas, mais aussi documenter cet événement passionnant. Bien que la Société ait reçu l'autorisation officielle des organisateurs, certains des concurrents ulfes en particulier considèrent la participation des Éclaireurs comme une intrusion dans leur loisir traditionnel. Cependant, le véritable défi de cette course ne réside pas dans les monstres ou les opposants de la course, mais dans la rudesse même de ce marathon épuisant.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0111E_180.jpeg|1-11 - Flames of Rebellion}
 **Titre VF** Les Flammes de la Révolte  
-
 **Niveau** 1–4, par Michael Sayre  
-
 **Tag** Intrigue principale  
-
 **Lieu** Andoran  
-
   
-
 Sur les traces de l'un des premiers Éclaireurs, les PJs se rendent dans la ville de Sauerton où un vieil allié les aide à trouver des indices importants. Ces indices conduisent les PJs dans une région sauvage dangereuse, jusqu'à une vieille tour dont l'histoire remonte à plus loin que la Société des Éclaireurs elle-même. Alors que les PJs doivent faire face à de nombreuses menaces aux intérêts opposés, trouveront-ils les clés cachées qui leur permettront de percer les secrets du Pacte de la Route Ouverte, ou simplement une autre piste obscurcie par le passage des siècles ?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0112E_180.jpeg|1-12 - Burden of Envy}
 **Titre VF** Le Fardeau de l'Envie  
-
 **Niveau** 1–4, par Lysle Kapp  
-
 **Tag** Serment Radieux  
-
 **Lieu** Nouveau Thassilon  
-
   
-
 Swindler, rogue, and occasional Pathfinder ally Guaril Karela has approached the Society with an opportunity that Valais Durant, the leader of the Society's Radiant Oath faction, can't refuse. Guaril has been charging refugees to sneak them out of Xin Edasseril, a city ruled by the Runelord of Envy, and now it looks like Guaril won't be able to fulfill his contracts. Society agents are charged with sneaking into the dangerous city and sneaking out with a handful of its citizens before their absence is noticed so that the Radiant Oath can help them find new lives beyond their current ruler's tyrannical reach.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0113E_180.jpeg|1-13 - Devil at the Crossroads}
 **Titre VF** Le Diable de la Croisée des Chemins  
-
 **Niveau** 3–6, par Jenny Jarzabski  
-
 **Tag** Sceau Vigilant  
-
 **Lieu** Cicatrice de Sarkoris  
-
   
-
 The Sarkoris Scar still aches from the recently closed Worldwound, but that hasn't stopped the Pathfinder Society and their allies in the Farheavens Clan from maintaining their efforts to reclaim the Sarkorians' ancestral homelands. At a trading post near the southern border of the Sarkoris Scar, the PCs meet their contact from the Farheavens but not all is as it seems. The PCs and their allies will need to unravel the twisted skeins of an infernal plot if they have any hope of avoiding becoming the next victims of a fiendish spirit. This adventure was concepted at Paizo's Adventure Design Workshop panel during GenCon 2019.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0114E_180.jpeg|1-14 - Lions of Katapesh}
 **Titre VF** Les Lions de Katapesh  
-
 **Niveau** 1–4, par Adam Meyers  
-
 **Tag** Répétable  
-
 **Lieu** Katapesh  
-
   
-
 Patriarche gobelin, marchand et allié de la Société Pathfinder, Yigrig Moneymaker a besoin d'aide ! Le rusé marchand gobelin a de grands projets pour construire un pont qui reliera deux partenaires commerciaux prometteurs, mais quelque chose agite la faune locale et convainc les lions et autres prédateurs des plaines de Katapeshi que les gobelins sont plus savoureux qu'il n'y paraît. Les PJs doivent découvrir qui est responsable des épreuves auxquelles la famille d'Yigrig est confrontée avant que les lions de Katapesh ne dévorent tout le clan des gobelins et ne mettent fin aux chances de commerce entre deux cités du désert.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0115E_180.jpeg|1-15 - The Blooming Catastrophe}
 **Titre VF** La Catastrophe de la Floraison  
-
 **Niveau** 1–4, par Mikhail Rekun  
-
 **Tag** Roue Verdoyante, suite du scénario #10-12 - Breath of the dragonskull, préquel de l'intrigue principale de la Saison 2  
-
 **Lieu** Iobarie  
-
   
-
 The Pathfinders travel to Iobaria, where elven druids and centaur warriors are united against an unlikely threat: a self-propogating horde of corrupted leshys! The source of the Abyssal corruption may be tied to a previous trip to Iobaria by the Pathfinder Society, so it falls to the PCs to seek out the source of the leshy incursion and restore balance to the woodlands.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0116E_180.jpeg|1-16 - The Perennial Crown, Part 1 : Opal of Bhopan}
 **Titre VF** La Couronne Pérenne, partie 1 : L'Opale de Bhopan  
-
 **Niveau** 3–6, par Thilo Graf  
-
 **Tag** Intrigue principale  
-
 **Lieu** Bhopan  
-
   
-
 Dans cette première partie de la couronne pérenne , les éclaireurs se rendent sur l'île de Bhopan pour la première fois depuis plus de quatre siècles ! Sur l'île boisée où l'Éclaireur fondateur Selmius Foster a trouvé la mort, les PJ rencontreront le peuple bhopanais d'ascendance féerique. Cependant, toutes les négociations diplomatiques ne se déroulent pas dans une salle de réunion guindée. Afin de naviguer dans les coutumes complexes et influencées par les feys de la cour bhopanaise et d'établir une relation avec les dirigeants de Bhopan, les PJ doivent trouver leur chemin à travers un bal masqué rempli de pas de danse complexes et d'agendas cachés.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0117E_180.jpeg|1-17 - The Perennial Crown, Part 2 : The Thorned Monarch}
 **Titre VF** La Couronne Pérenne, partie 2 : Le Monarque-Épines  
-
 **Niveau** 3–6, par Alex Augunas  
-
 **Tag** Intrigue principale  
-
 **Lieu** Bhopan  
-
   
-
 Dans cette deuxième partie de la couronne pérenne, les éclaireurs doivent échapper à la redoutable fée connu sous le nom du monarque épineux. Ce tyran implacable ne reculera devant rien pour traquer les PJs et s'approprier leurs découvertes. Il ne se contentera pas d'utiliser son impressionnante puissance physique et magique, mais manipulera également les innocents citoyens de Bhopan dans leurs tentatives désespérées d'empêcher les PJs de fuir Bhopan avec le seul objet qui pourrait mettre un terme aux ambitions de la fée maléfique.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0118E.jpg|1-18 - Lodge of the Living God}
 **Titre VF** La Loge du Dieu Vivant  
-
 **Niveau** 1-4, par Alex Greenshields  
-
 **Tag** Alliance des Émissaires  
-
 **Lieu** Razmiran  
-
   
-
 An unexpected alliance begins! The masked priest Narsen invites the Pathfinders to the city of Xer in Razmiran, a closed nation dedicated to Razmir, the Living God. Normally insular and isolated, access to Razmiran represents a unique opportunity for the Pathfinder Society. Narsen has even sweetened the pot by offering to fund the repair of an old keep to serve as the Society's new lodge. As the first Pathfinders arrive to oversee repairs on the lodge-to-be, will this mark the historic first moment in an unlikely partnership, or will it trigger a disaster of unmitigated proporitions?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0119E.jpg|1-19 - Iolite Squad Alpha}
 **Titre VF** La Brigade Iolite Alpha  
-
 **Niveau** 3–6, par Mike Kimmel  
-
 **Tag** Aucun  
-
 **Lieu** Oprak  
-
   
-
 The newly formed hobgoblin nation of Oprak has reached out to the Pathfinder Society in the name of diplomacy. Mindful of the aid Oprak could provide against the threat of the Whispering Tyrant, the Society has dispatched the PCs to escort a trial squad of hobgoblin recruits and run them through some in-the-field Pathfinder training. Will the Iolite Squad be the first in a new wave of Pathfinders, or are Oprak’s attempts at diplomacy doomed to go up in smoke?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0120E.jpg|1-20 - The Lost Legend}
 **Titre VF** La Légende Perdue  
-
 **Niveau** 3–6, par Chris Sims  
-
 **Tag** Intrigue principale  
-
 **Lieu** Étendue Mwangi  
-
   
-
 The Pathfinder Society begins a perilous trek through the swamps and jungles of the Mwangi Expanse, searching for the location where the founding members of their organization formed the Open Road Pact. The clues the Pathfinders must follow are centuries old, however, and their best lead is the final logs of an ancient Pathfinder whose true fate may be markedly different than the world has been led to believe.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0121E_180.jpeg|1-21 - Mistress of the Maze}
 **Titre VF** La Maîtresse du Labyrinthe  
-
 **Niveau** 5-8, par Christen N. Sowards  
-
 **Tag** Aucun  
-
 **Lieu** Labyrinthe de la Route Ouverte  
-
   
-
 Open Decemvirate member Eliza Petulengro is looking for a handful of intrepid Pathfinders to accompany her on an interdimensional journey throught the Maze of the Open Road! Eliza is traveling from the Grand Lodge in Absalom to the Woodsedge Lodge in Galt, but the Maze of the Open Road has become unstable and unpredictable in recent years. Eliza hopes that with help of her fellow Pathfinders, she can secure the road and prepare it for regular use by the Society once more.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0122E_180.jpeg|1-22 - Doom of Cassomir}
 **Titre VF** La Ruine de Cassomir  
-
 **Niveau** 1-4, par Calder CaDavid  
-
 **Tag** Aucun  
-
 **Lieu** Taldor  
-
   
-
 Doom stalks the streets of Cassomir! The people of Admiral's Fen have long been doughty pioneers and sailors, but time and tribulations both natural and economic have worn down their spirits. Amid this widespread gloom and general depression, dark forces have begun pulling strings to begin a societal collapse that could take the entire city under. Venture-Captain Hestia Themis calls on her allies in the Pathfinder Society to try and help her unravel the twisting skeins of manipulation and deceit before Cassomir's final doom is assured.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0123E.jpg|1-23 - Star-Crossed Court}
 **Titre VF** La Cour des Étoiles Contraires  
-
 **Niveau** 3-6, par Alex Riggs  
-
 **Tag** Répétable  
-
 **Lieu** Ekkeshikaar  
-
   
-
 On an idyllic island of the western coast of Garund, the PCs arrive at the iruxi city of Ekkeshikaar. Seeking to establish new trade relations between the lizardfolk of Ekkeshikaar and the people of Vidrian, the Pathfinder Society must navigate a delicate political landscape while thwarting the efforts of nefarious forces who seek to stop the proposed alliance by any means necessary.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0124E_180.jpeg|1-24 - Lightning Strikes, Stars Fall}
 **Titre VF** La Foudre Frappe, Les Étoiles Chutent  
-
 **Niveau** 5-8, par Vanessa Hoskins  
-
 **Tag** Aucun  
-
 **Lieu** Numeria  
-
   
-
 The Pathfinder Society is called to action once more! Venture-Captain Dagur Hawksight needs a skilled group of experienced adventurers to scout ahead of a caravan crossing the Numerian wastes. Only the most skilled explorers can be entrusted with such a mission, for deadly pools of poison, fearsome mutants, and robots of all sizes are only the best-known dangers to plague the wastes. Lurking in the shadows, a gang of criminals armed with advanced technology seek to stop the PCs from completing their mission. Can the PCs overcome the many challenges before them, or will Hawksight's mission end in deadly failure?
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0125E_180.jpeg|1-25 - Grim Symphony}
 **Titre VF** Symphonie Macabre  
-
 **Niveau** 5-8, par Eleanor Ferron  
-
 **Tag** Grandes Archives  
-
 **Lieu** Ustalav  
-
   
-
 Dans les profondeurs d'Ustalav, un infâme docteur mène des expériences répugnantes sur des créatures vivantes ou mortes depuis sa demeure volée dans un ancien donjon. Aujourd'hui, le parlement des citoyens qui possèdent le terrain sur lequel est construit le donjon souhaite se libérer de l'ombre sinistre qui les attend juste derrière leur porte, et ils ont offert à la Société des Éclaireurs la bibliothèque ancienne qui se trouve dans les voûtes du donjon en guise de paiement pour l'expulsion de son occupant actuel. Les Éclaireurs parviendront-ils à libérer le donjon et à protéger les habitants des terreurs qui se cachent dans ses couloirs, ou rejoindront-ils les rangs des morts-vivants qui dansent au rythme de la sinistre symphonie du Dr Velshen ?

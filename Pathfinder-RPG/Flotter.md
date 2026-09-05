@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2, [[sorcière]] 2  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif ) ; **Résistance à la magie** oui (inoffensif )  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet flotte dans les airs, montant ou descendant à la vitesse de 9 mètres (6 {s:c}) par [[round]], par une [[action de mouvement]]. Ce sort n’autorise que les mouvements verticaux mais d’autres forces peuvent permettre au personnage de se déplacer horizontalement. Le lanceur n’a aucun contrôle sur ce mouvement mais il peut mettre un terme au sort incluant ce mot effet de manière prématurée par une [[action immédiate]].

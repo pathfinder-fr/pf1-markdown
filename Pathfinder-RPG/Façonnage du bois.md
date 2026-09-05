@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Occultiste|Occ]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** morceau de bois touché, dans la limite de 0,3 m³ + 30 dm³/[[niveau]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Grâce à ce sort, le personnage peut façonner du bois pour lui faire prendre la forme qu’il désire. Il peut ainsi créer des boîtes grossières, des portes et d’autres objets similaires mais il lui est impossible de créer des détails précis. Si l’objet comporte des [[composantes]] mobiles, il y a 30 % de chances pour qu’il ne fonctionne pas.

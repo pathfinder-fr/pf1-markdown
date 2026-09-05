@@ -22,15 +22,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un peu de suie et une pincée de sel)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]]
 
 Ce sort permet de comprendre la langue des autres créatures et de déchiffrer des textes qui resteraient sinon incompréhensibles. Notez que le fait de savoir lire un passage n’implique pas forcement qu’on en saisisse la teneur, et que le sort ne fonctionne que dans un seul sens : il ne permet nullement de parler ou d’écrire le langage qu’il traduit.

@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur]] 4, [[druide]] 4, [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[barrière]]*
 
 Ce mot effet crée un mur vertical fait de glace solide. Celui-ci doit former une seule surface lisse et ininterrompue épaisse de 3 centimètres par [[NLS|niveau du lanceur]] et possédant 3 points de vie par tranche de 3 centimètres d’épaisseur. Le mur bloque la vue.

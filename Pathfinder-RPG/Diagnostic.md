@@ -18,17 +18,11 @@ Categories:
 
 {s:UM}
 **École** [[Divination]] ; **Niveau** [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible ou zone d’effet** une créature, un objet ou un cube de 1,5 m (1 {s:c})  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage détermine si une créature, un objet ou une zone est porteur d’une [[maladie]] ou d’une infestation (y compris des moisissures, des mucus et autres dangers similaires) ou s’il y a des effets exceptionnels ou surnaturels qui provoquent des effets de [[fiévreux|fièvre]] ou de [[nauséeux|nausée]]. En cas de présence de [[maladie]], le personnage sait de laquelle il s’agit et connaît ses effets. Si la cible est une créature, le personnage gagne un bonus de +4 aux tests de [[Premiers secours]] pour soigner la [[maladie]]. Le sort peut traverser de nombreuses barrières mais il est arrêté par 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb ou 90 centimètres de bois ou de terre.

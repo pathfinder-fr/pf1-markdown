@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu, malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une plume et une goutte d’huile)  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** permanente jusqu’à activation (cf. texte)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage jette sur la cible une malédiction qui se déclenche la prochaine fois qu’elle dort, 1 heure après son assoupissement. Quand la malédiction s’active, la créature s’enflamme, recevant 1d6 points de dégâts de feu par tranche de 2 niveaux de lanceur (8d6 au maximum). De plus, elle continue de brûler, recevant 2d6 points de dégâts de feu par round à la fin de chacun de ses tours jusqu’à ce qu’elle finisse par mourir ou soit éteinte comme à l'accoutumée. Si la cible est toujours endormie, les dégâts de feu de ce sort la réveillent.

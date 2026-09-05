@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[ensorceleur]]/[[magicien]] 3, [[magus]] 3, [[prêtre]] 3, [[sorcière]] 3  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet reçoit un bonus d’armure à la [[CA]] de +4, +1 point tous les quatre [[NLS|niveaux du lanceur]]. Cette armure est un champ de force et protège des attaques des [[intangible|créatures intangibles]]. Si une autre source confère à la cible un meilleur bonus d’armure, le sort augmente à la place de +1 ce bonus d’armure et protège des attaques des [[intangible|créatures intangibles]].

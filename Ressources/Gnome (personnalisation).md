@@ -27,38 +27,24 @@ Les règles suivantes ajoutent de nouveaux traits raciaux ceux de décrits dans 
 #### Travail de fée
 
 **École** Transmutation ; **Niveau** 0 (Gnome)  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** V, G, M (un biscuit et un verre de lait)  
-
 **Portée** 0  
-
 **Cible** personnel  
-
 **Durée** 10 minutes  
-
 **Jet de sauvegarde** aucun  
-
 Le gnome réalise en 10 minutes des tâches mineures (ND 10) qui aurait pu être réalisées en 1 heure ou moins (ranger, laver du linge...). S'il interrompt son action, le sort se termine est l'action n'est pas totalement terminée au prorata du temps passé.
 1 fois par jour, le gnome peut utiliser ce sort lors d'un test d'artisanat ou de profession (ND10 et supérieur).
 
 #### Campement confortable
 
 **École** Invocation ; **Niveau** 1 (Gnome)  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** V, G, M (une infusion de fleurs et une goutte de miel pour chacun)  
-
 **Portée** 9 mètres  
-
 **Cible** 2 cibles / niveau du gnome dans un rayon de 9 mètres autour du centre du campement  
-
 **Durée** Une nuit  
-
 **Jet de sauvegarde** Vigueur (annule) inoffensif  
-
 Les bénéficiaires du sorts doivent avoir bu l'infusion et tant qu’ils restent à 9m du centre du campement du gnome ils considèrent leur ration excellente et leur couchage digne d’une auberge. Ils récupèrent leur santé comme s’ils avaient passé une nuit dans le confort. Le bénéficiaire doit pouvoir se reposer au moins 6 heures en continues ou 8 heures coupées de 2 heures de garde ou de quart.
 
 
@@ -67,40 +53,24 @@ Les bénéficiaires du sorts doivent avoir bu l'infusion et tant qu’ils resten
 
 #### Protection du foyer
 **École** Invocation et Abjuration ; **Niveau** 3 (Gnome)  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** V, G, M (une brosse en roseau et du sel)  
-
 **Portée** spéciale  
-
 **Cible** Une demeure de 25m<sup>2</sup> / niveau du gnome  
-
 **Durée** 2 heures par niveau du gnome  
-
 **Jet de sauvegarde** Volonté pour ½  
-
 **Résistance magique** aucun  
-
 Le gnome invoque le pouvoir des fées domestiques pour protéger **la demeure d'une communauté **(une bâtisse ou un campement pouvant être contenus dans l'aire d'effet). Les auteurs d’actions hostiles subissent un malus sacré de -2 à leurs jets d'attaques. Le feu ne peut pas quitter son âtre et générer d’incendie dans cette demeure, les dommages élémentaires magiques sont réduits de 1 par dés de dégâts.
 
 Une demeure valable pour ce sort doit être un lieu de vie et comporter au moins un feu et un couchage (un campement, une hutte, une caravane, une masure, un baraquement, une auberge...). La communauté est définie par les personnes présentent dans la demeure lors de l'incantation, les membres de la communauté ne sont pas affectés par le malus sacré sauf s'ils quittent plus de 2 heures la demeure.
 
 #### Voyage par les portes
 **École** Invocation et Divination; **Niveau** 4 (Gnome)  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** V, G, M (la clef d'une maison de la rue)  
-
 **Portée** spéciale  
-
 **Cible** spéciale  
-
 **Durée** 1 heure par niveau du gnome  
-
 **Jet de sauvegarde** aucun  
-
 **Résistance magique** aucune  
-
 Le gnome crée un lien entre toutes les portes non secrètes d’une demeure (25m<sup>2</sup> par niveau) ou d’une portion de rue (un côté de la rue entre 2 intersections d'autre rues au cul-de-sac). Il prend connaissance de leurs positions mais pas sur quelles pièces elles s’ouvrent. Il possède une utilisation pour 3 niveaux de gnome. Il peut se déplacer par téléportation en ouvrant une porte avec une limite de 30m/20c entre chaque porte. A destination, le gnome ne peut apparaitre que d'un côté qu'il a déjà visité. Il peut aussi dépenser une utilisation du sort pour regarder sans se déplacer à travers l'orifice d'une porte (serrure, œilleton...). Le voyage par les portes n’immunise pas le gnome contre les pièges et sortilèges qui les protègent.

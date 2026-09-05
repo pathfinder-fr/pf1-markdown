@@ -19,11 +19,8 @@ Au niveau 7 et tous les six niveaux suivants, l’ensorceleur reçoit un don sup
 ### Les lignages d'ensorceleurs
 {s:MenuLignages}''Le logo indique la source du lignage :
 - <sup>APG</sup> Manuel des Joueurs Règles Avancées.   
-
 - <sup>UM/AdM</sup> Art de la Magie.  
-
 - <sup>MR</sup> Manuel des Races.   
-
 - <sup>MC</sup> Manuel des Classes.
 - <sup>CofB</sup> Champions of Balance.
 - <sup>BofF</sup> Blood of Fiends.

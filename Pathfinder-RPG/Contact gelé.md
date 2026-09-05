@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Au terme de l'incantation, la main du mage s'auréole d'une lueur bleutée. Une [[attaque de contact]] inflige 4D6 de dégâts de froid et la cible est [[chancelant|chancelante]] pour 1 round. Si l'attaque est un [[coup critique]], la cible est [[chancelant|chancelante]] pour 1 minute.

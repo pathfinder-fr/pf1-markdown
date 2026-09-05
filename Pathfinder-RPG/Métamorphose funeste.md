@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Chaman|Cham]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir description ; **Résistance à la magie** oui
 
 Ce sort est semblable à *[[forme bestiale III]]*, si ce n’est qu’il permet de transformer le sujet en [[type animal|animal]] de [[taille P]] ou inférieure n’ayant pas plus de 1 [[DV]]. Si la nouvelle forme se révèle fatale pour la créature (si le personnage métamorphose sa cible en créature aquatique alors qu’elle ne se trouve pas dans l’eau, par exemple), le sujet bénéficie d’un bonus de +4 au [[jet de sauvegarde]].

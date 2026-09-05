@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 9, [[ensorceleur]]/[[magicien]] 9  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*
 
 Ce mot effet inflige 1d6 points de dégâts de feu par [[NLS|niveau de lanceur]] (maximum 20d6).

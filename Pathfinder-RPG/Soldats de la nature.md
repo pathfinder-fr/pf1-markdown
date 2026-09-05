@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ([[création]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** émanation de 9 m (6 {s:c}) de rayon, centrée sur le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage fait appel aux plantes qui l’entourent pour l’aider à se battre. Le sort est inefficace s’il n’y a pas de plantes dans la zone. À chaque tour, le personnage peut dépenser une [[action rapide]] et/ou une [[action simple]] pour diriger l’une des attaques suivantes. Le [[bonus dattaque|bonus d’attaque]] ou le [[DMD]] de ces attaques est égal au [[BBA]] du personnage + son modificateur de [[Sagesse]]. Le sort donne un bonus aux dégâts de +1 par tranche de trois [[NLS|niveaux de lanceur de sorts]] (+5 au maximum). Les soldats de la nature ne provoquent jamais d’[[attaque dopportunité|attaque d’opportunité]] et ne sont pas considérés comme des alliés pour prendre un adversaire [[prise en tenaille|en tenaille]] ou autre.

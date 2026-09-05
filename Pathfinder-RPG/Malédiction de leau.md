@@ -9,17 +9,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[composantes|V, G, M]] (2,5 kg de poudre d’argent (valeur 25 po))  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** flasque d’eau touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort permet d’infuser assez d’énergie négative à une flasque d’eau (un demi-litre) pour la transformer en eau maudite. Sur les [[type extérieur|Extérieurs]] d’[[alignement]] Bon, ce liquide a le même effet que l’[[Eau bénite (objet)|eau bénite]] sur les [[type mort-vivant|morts-vivants]] et les [[type extérieur|Extérieurs]] d’[[alignement]] Mauvais.

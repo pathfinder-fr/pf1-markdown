@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (une lentille de rubis sertie d’or, d’une valeur de 1 500 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature ou 1 objet par [[niveau de lanceur de sorts]]  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
 Ce sort permet par une [[action libre]] d’identifier la magie affectant la cible, laquelle peut être une créature ou un objet. Le personnage ne peut examiner qu’un objet ou une créature par [[round]].

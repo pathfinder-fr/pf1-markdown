@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (un petit instrument de musique)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** [[étendue]] de 3 m (2 {s:c}) de rayon  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Comme son nom l’indique, ce sort déclenche une véritable cacophonie dans la [[zone deffet|zone d’effet]]. Toutes les créatures touchées par cette agression auditive perdent 1d8 [[points de vie]] et doivent réussir un jet de [[Vigueur]] sous peine d’être [[étourdi|étourdies]] pendant 1 [[round]]. Les créatures [[assourdi|sourdes]] sont insensibles à l’[[étourdi|étourdissement]], mais elles reçoivent tout de même les dégâts indiqués.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cibles** 1 porte dans la limite de 2 m²/[[niveau]]  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort verrouille une porte, une fenêtre, un portail, des volets ou une herse de bois, de métal ou de pierre. *Verrouillage* empêche d’ouvrir l’objet protégé comme si ce dernier était fermé par un véritable cadenas. *[[Déblocage]]* ou *[[dissipation de la magie]]* dissipe le *verrouillage*. Un personnage qui souhaite enfoncer une porte ou autre protégée par ce sort voit le [[DD]] de son test de [[Force]] augmenté de 5 points.

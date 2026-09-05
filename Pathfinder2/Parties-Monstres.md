@@ -5,7 +5,6 @@ LastModified: 2022-01-11 19:25
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 {s:ImageExtLien|https://d1wgd08o7gfznj.cloudfront.net/uploads/gallery_images/e0e53e0c-ef12-44be-86a8-7e98081ae0d9/Battlezoo%20PDF_large.png|250px|fright|http://www.battlezoo.com}

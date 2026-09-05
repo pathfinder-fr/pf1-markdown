@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]] (voir description)  
-
 **Cibles** le jeteur de sorts et 1 créature touchée/3 [[niveau|niveaux]]  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Résistance à la magie** oui
 
 Grâce à ce sort, le personnage passe dans le [[plan Éthéré]] en compagnie de plusieurs personnes consentantes, tant qu’elles se tiennent toutes par la main (leur équipement voyage avec elles). Le personnage peut emmener une créature tous les trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] en plus de sa propre personne. Une fois dans l’[[plan Éthéré|éther]], ils n’ont pas besoin de rester ensemble. Quand le sort s’achève, toutes les créatures affectées reviennent automatiquement dans le [[plan Matériel]].

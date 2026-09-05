@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un petit roseau ou un brin de paille)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** créatures vivantes touchées  
-
 **Durée** 2 heures/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Les créatures affectées respirent sans mal sous l’eau. Si le personnage décide d’en faire bénéficier plusieurs compagnons, il doit diviser la durée indiquée par le nombre d’individus affectés. Ce sort n’empêche pas les créatures de respirer à l’air libre.

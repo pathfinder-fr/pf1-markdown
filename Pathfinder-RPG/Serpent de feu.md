@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une écaille de serpent)  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone** voir texte  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] ; **Résistance à la magie** oui
 
 Le personnage crée une ligne de flammes sinueuse qu'il peut façonner comme bon lui semble. Le *serpent de feu* affecte une case de 1,50 mètre de (1 {s:c}) côté par [[NLS|niveau de lanceur de sorts]] et chaque case doit être adjacente à la précédente, en commençant au niveau du personnage. Le *serpent de feu* ne peut pas s'étendre au-delà de la portée maximale du sort. Toute créature qui se trouve sur le chemin du serpent subit 1d6 points de dégâts de feu par [[NLS|niveau de lanceur de sorts]] (15d6 au maximum).

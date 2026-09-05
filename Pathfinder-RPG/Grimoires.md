@@ -27,13 +27,10 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce lourd volume curieusement ornementé est aux trois-quarts vide. Des notes serrées qui traitent des principes de la défense magique et des faiblesses des entités surnaturelles occupent les deux premières pages.*
 
 **Protection.** Cadenas ordinaire ([[DD]] 25)  
-
 **Écoles d’opposition.** [[Convocation]], [[enchantement]]  
-
 **Valeur.** 185 po
 
 **Sorts**  
-
 1 — [[bouclier]] <sup>S</sup>, [[détection des morts-vivants]], [[mains brûlantes]], [[projectile magique]], [[protection contre le mal]] <sup>S</sup>, [[rayon affaiblissant]], [[repli expéditif]]
 
 {s:Reference|CARNETDAPPRENTISDERULTHAVEN}
@@ -41,11 +38,9 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce mince carnet a été relié avec soin mais à l’évidence par un amateur qui a tendu du cuir sur une fine reliure. À l’intérieur, les écrits sont pleins de fioritures et trop serrés, au point que les mots sont parfois illisibles. Huit pages contiennent des sorts, les dix dernières sont vierges. Le portrait d’une femme ordinaire, à l’expression sévère, est glissé à l’intérieur de la couverture.*
 
 **Écoles d’opposition.** [[Illusion]], [[transmutation]]  
-
 **Valeur.** 195 po
 
 **Sorts**  
-
 1 — [[compréhension des langages]] <sup>S</sup>, [[convocation de monstres I]], [[coup au but]] <sup>S</sup>, [[détection des morts-vivants]] <sup>S</sup>, [[détection des passages secrets]] <sup>S</sup>, [[identification]] <sup>S</sup>, [[protection contre la loi]], [[protection contre le mal]]
 
 {s:Reference|JOURNALSANSNOM}
@@ -55,9 +50,7 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 **Valeur.** 275 po
 
 **Sorts**  
-
 2 — [[rayon ardent]], [[ruse du renard]]  
-
 1 — [[alarme]], [[bouclier]], [[brume de dissimulation]], [[décharge électrique]], [[feuille morte]], [[image silencieuse]], [[monture]], [[sommeil]]
 
 {s:Reference|TOMEDUVOYAGEUR}
@@ -65,15 +58,11 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce petit livre, pas plus grand qu’un carnet de notes de poche, est relié entre deux couvertures de bois. C’est à l’évidence une copie faite pour supporter les rigueurs des aventures. Il est impossible de retirer la pointe de flèche fichée dans la couverture sans recourir à la magie.*
 
 **Protection.** Cadenas simple (DD 20)  
-
 **Écoles d’opposition.** [[Convocation]], [[enchantement]]  
-
 **Valeur.** 365 po
 
 **Sorts**  
-
 2 — [[corde enchantée]] <sup>S</sup>, [[déblocage]] <sup>S</sup>, [[lévitation]] <sup>S</sup>, [[planer]] <sup>S</sup>  
-
 1 — [[agrandissement]] <sup>S</sup>, [[arc de gravité]] <sup>S</sup>, [[arme magique]] <sup>S</sup>, [[bouclier]], [[charge de fourmi]] <sup>S</sup>, [[effacement]] <sup>S</sup>, [[repli expéditif]] <sup>S</sup>, [[saut]], [[verrouillage]] <sup>S</sup>
 
 {s:Reference|LIVREDESDOULEURS}
@@ -81,21 +70,15 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *La couverture en cuir de ce livre est assez ordinaire et dégage une légère odeur déplaisante, comme celle de la viande brûlée. À l’intérieur, l’écriture est irrégulière et les nombreuses notes qui figurent sur les pages tachées de cendres indiquent que son précédent propriétaire cherchait à obtenir une magie encore plus dévastatrice. Au centre de la couverture, il y a une rune luisante dont la forme rappelle vaguement un éclair.*
 
 **Protection.** Cadenas ordinaire ([[DD]] 25)  
-
 **Écoles d’opposition.** [[Divination]], [[transmutation]]  
-
 **Valeur.** 535 po (900 avec le rituel de préparation)
 
 **Sorts**  
-
 3 — [[boule de feu]] <sup>S</sup>, [[éclair]] <sup>S</sup>  
-
 2 — [[baiser de la goule]], [[bourrasque]] <sup>S</sup>, [[flèche acide]], [[ténèbres]] <sup>S</sup>  
-
 1 — [[contact corrosif]], [[couleurs dansantes]], [[décharge électrique]] <sup>S</sup>, [[hypnose]], [[mains brûlantes]] <sup>S</sup>, [[poussée hydraulique]] <sup>S</sup>, [[projectile magique]], [[rayon affaiblissant]]
 
 **Rituel de préparation**  
-
 **Puissance destructrice (Sur).** Le personnage peut tirer la quintessence d’un sort mais se blesse. Il dépense cet avantage par une [[action libre]] quand il utilise un sort de [[magicien]] d’[[évocation]]. On considère alors que le sort est sous l’effet de [[Quintessence des sorts]] mais le personnage subit 1d4 points de dégâts × niveau du sort affecté. Il est impossible de réduire ces dégâts, de quelque manière que ce soit.
 
 {s:Reference|JOURNALDELABORATOIREDAFFLUXCONSTANT}
@@ -105,13 +88,10 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 **Valeur.** 395 po (770 po avec le rituel de préparation)
 
 **Formules**  
-
 2 — [[flou]], [[ralentissement du poison]], [[souffle de feu]], [[transmutation de potion en poison]], [[vomir une nuée]]  
-
 1 — [[caresse de la mer]], [[compréhension des langages]], [[négation de larôme|négation de l’arôme]], [[œil du mitrailleur]], [[endurance aux énergies destructives]], [[saut]], [[sens surdéveloppés]], [[soins légers]]
 
 **Rituel de préparation**  
-
 **Protection alchimique (Sur).** Les connaissances alchimiques contenues dans ce livre protègent le personnage contre les poisons et les objets alchimiques. Le personnage dépense cet avantage par une [[action immédiate]] quand il fait un jet de sauvegarde contre un poison ou un objet alchimique, avant de lancer le dé. Il gagne un bonus de +4 au jet de sauvegarde.
 
 {s:Reference|LIVREDELATOMBE}
@@ -119,21 +99,15 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce tome empeste la chair en décomposition ou une odeur pire encore. De la moisissure de tombeau s’accroche à la couverture mangée par les vers et les pages sont tachées de poussière. Quelques-unes ont été arrachées.*
 
 **Protection.** Le bord des trois premières pages est enduit de poison de nitharit (contact ; sauvegarde Vig [[DD]] 13 ; fréquence 1/minute pendant 6 minutes ; effet 1d3 affaiblissement de Con ; guérison 1 jet de sauvegarde)  
-
 **Écoles d’opposition.** [[Enchantement]], [[transmutation]]  
-
 **Valeur.** 815 po (1 265 po avec le rituel de préparation)
 
 **Sorts**  
-
 3 — [[baiser du vampire]] <sup>S</sup>, [[biographie du sang]], [[rayon dépuisement|rayon d’épuisement]] <sup>S</sup>  
-
 2 — [[appel des pierres]], [[baiser de la goule]] <sup>S</sup>, [[contrôle mineur des morts-vivants]] <sup>S</sup>, [[création de carte au trésor]], [[main spectrale]] <sup>S</sup>, [[toile daraignée|toile d’araignée]]  
-
 1 — [[armure de mage]], [[bouclier]], [[contact glacial]] <sup>S</sup>, [[coup au but]], [[déguisement]], [[façonnage de cadavre]] <sup>S</sup>, [[mains brûlantes]], [[protection contre le bien]], [[rayon affaiblissant]] <sup>S</sup>, [[ventriloquie]]
 
 **Rituel de préparation**  
-
 **Souffle de la tombe (Sur).** Le personnage dépense cet avantage par une [[action rapide]] pour souffler une bouffée d’air putride dans un cône de 4,50 mètres. Les créatures situées dans cette zone doivent réussir un jet de [[Vigueur]] ([[DD]] 10 + [[niveau de lanceur de sorts]] le plus élevé du personnage dans une classe capable de préparer des sorts) ou être [[fiévreux|fiévreuses]] pendant 1 round. L’avantage est alors utilisé et le personnage subit un malus de -4 aux tests de [[Diplomatie]] et de [[Discrétion]] jusqu’à ce qu’il prépare à nouveau ses sorts.
 
 {s:Reference|GRIMOIREDESYEUXLUISANTS}
@@ -141,24 +115,16 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Le titre de ce livre apparaît en relief sur la couverture écailleuse. À l’intérieur, les pages scintillent et luisent, même sous une faible lumière, et l’écriture est d’une netteté surnaturelle.*
 
 **Protection.** Tout le livre est protégé par un sort de texte illusoire ([[Volonté]] [[DD]] 16, en cas d’échec, le livre suggère au lecteur de « le fermer et partir »)  
-
 **Écoles d’opposition.** [[Évocation]], [[nécromancie]]  
-
 **Valeur.** 1 055 po (1 755 po avec le rituel de préparation)
 
 **Sorts**  
-
 4 — [[assassin imaginaire]] <sup>S</sup>, [[poussière détoile|poussière d’étoile]] <sup>S</sup>  
-
 3 — [[image accomplie]] <sup>S</sup>, [[sphère dinvisibilité|sphère d’invisibilité]] <sup>S</sup>, [[texte illusoire]] <sup>S</sup>  
-
 2 — [[bouche magique]] <sup>S</sup>, [[détection faussée]] <sup>S</sup>, [[effroi]] <sup>OP</sup>, [[piège illusoire]] <sup>S</sup>  
-
 1 — [[alarme]], [[arme magique]], [[aura magique]] <sup>S</sup>, [[bouclier]], [[compréhension des langages]], [[corde animée]], [[couleurs dansantes]] <sup>S</sup>, [[déguisement]] <sup>S</sup>, [[hypnose]], [[sommeil]]  
 
-
 **Rituel de préparation**  
-
 **Yeux luisants (Sur).** Quand le personnage lance un sort d’[[illusion]], sa vision s’améliore. Quand il utilise cet avantage par une [[action libre]] au moment de lancer un sort d’[[illusion]], il obtient la [[vision dans le noir]] sur 18 mètres et un bonus de +4 aux jets de sauvegarde pour dévoiler une [[illusion]]. Ces deux avantages durent 1 minute.
 
 {s:Reference|TOMEDUTRANSMUTATEUR}
@@ -166,23 +132,16 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce livre tout simple est relié de cuir blanc et muni d’un fermoir d’argent. Les dernières pages remplies sont couvertes de notes soigneuses sur la théorie de l’économie écrites d’une main claire et précise. Ensuite, on trouve une page souillée d’une tache brun-rouge puis seulement des pages vierges.*
 
 **Protection.** Cadenas de bonne qualité ([[DD]] 30), rune explosive ([[Réflexes]] [[DD]] 16)  
-
 **Écoles d’opposition.** [[Illusion]], [[nécromancie]]  
-
 **Valeur.** 1 835 po (2 635 po avec le rituel de préparation)
 
 **Sorts**  
-
 4 — [[contact calcificateur]] <sup>S</sup>, **, [[confusion]], [[façonnage de la pierre]] <sup>S</sup>, [[forme bestiale II]] <sup>S</sup>, [[porte dimensionnelle]]  
-
 3 — [[arme magique suprême]] <sup>S</sup>, [[dissipation de la magie]], [[éclair]], [[lenteur]] <sup>S</sup>, [[runes explosives]], [[vision magique]]  
-
 2 — [[déblocage]] <sup>S</sup>, [[détection de linvisibilité|détection de l’invisibilité]], [[modification dapparence|modification d’apparence]] <sup>S</sup>, [[pyrotechnie]], [[résistance aux énergies destructives]], [[sphère de feu]], [[vent de murmures]] <sup>S</sup>  
-
 1 — [[armure de mage]], [[charme-personne]], [[corde animée]] <sup>S</sup>, [[couleurs dansantes]] <sup>OP</sup>, [[disque flottant]], [[effacement]] <sup>S</sup>, [[projectile magique]], [[protection contre le chaos]], [[serviteur invisible]]
 
 **Rituel de préparation**  
-
 **Transmutation défensive (Sur).** Quand le personnage change de forme, il peut augmenter ses défenses. S’il utilise cet avantage par une [[action libre]] alors qu’il lance un sort de [[transmutation]] de portée personnelle, il gagne un bonus de +2 à l’armure naturelle pendant toute la durée du sort tant que celui-ci l’affecte.
 
 {s:Reference|LIVREDEXPERTDERULTHAVEN}
@@ -190,25 +149,17 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *La tranche de ce livre de taille moyenne est cassée et sa couverture souple en cuir gris est cornée. Le cuir est très usé par endroit et sa surface est constellée de petits trous causés par des brûlures. Il est fermé par un cadenas d’airain. Le portrait d’une femme est glissé dans la couverture et toute l’image, en dehors de son visage, est recouverte de textes, des textes disposés en cercle avec des flèches qui pointent vers de nouveaux cercles de suppositions. Les mots « Sacrifice de diaboliste ? » se trouvent sous le menton de la femme.*
 
 **Protection.** Cadenas ordinaire ([[DD]] 25). Les sorts de niveau 5 sont cachés par une page secrète. Le mot clef est « révéler. »  
-
 **Écoles d’opposition.** [[Illusion]], [[transmutation]]  
-
 **Valeur.** 2 195 po (3 320 avec le rituel de préparation)
 
 **Sorts**  
-
 5 — [[contact avec les plans]] <sup>S</sup>, [[création majeure]], [[lien télépathique]] <sup>S</sup>  
-
 4 — [[détection de la scrutation]] <sup>S</sup>, [[délivrance des malédictions]], [[localisation de créature]] <sup>S</sup>, [[scrutation]] <sup>S</sup>  
-
 3 — [[clairaudienceclairvoyance|clairaudience/clairvoyance]] <sup>S</sup>, [[don des langues]] <sup>S</sup>, [[page secrète]] <sup>OP</sup>, [[vision magique]] <sup>S</sup>  
-
 2 — [[convocation de monstres II]], [[détection de linvisibilité|détection de l’invisibilité]] <sup>S</sup>, [[détection de pensées]] <sup>S</sup>, [[localisation dobjet|localisation d’objet]] <sup>S</sup>, [[résistance aux énergies destructives]], [[sphère de feu]]  
-
 1 — [[compréhension des langages]] <sup>S</sup>, [[coup au but]] <sup>S</sup>, [[détection des morts-vivants]] <sup>S</sup>, [[détection des passages secrets]] <sup>S</sup>, [[déguisement]] <sup>OP</sup>, [[frayeur]], [[identification]] <sup>S</sup>, [[protection contre la loi]], [[protection contre le mal]]
 
 **Rituel de préparation**  
-
 **Yeux de Rul Thaven (Sur).** Le personnage utilise une astuce que Rul Thaven lui-même perfectionna pour débusquer les créatures invisibles. Quand il utilise cet avantage par une [[action rapide]], il bénéficie de [[détection de linvisibilité|détection de l’invisibilité]] pendant 1 round.
 
 {s:Reference|JOURNALDELABETEINTERIEURE}
@@ -218,17 +169,12 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 **Valeur.** 915 po (2 165 avec le rituel de préparation)
 
 **Formules**  
-
 4 — [[souffle de dragon]]  
-
 3 — [[don des langues]], [[forme bestiale I]], [[rage]], [[respiration aquatique]]  
-
 2 — [[caresse élémentaire]], [[force de taureau]], [[peau décorce|peau d’écorce]], [[résistance aux énergies destructives]], [[soins modérés]]  
-
 1 — [[agrandissement]], [[bouclier]], [[chance de lartisan|chance de l’artisan]], [[compréhension des langages]], [[déguisement]], [[identification]], [[œil du mitrailleur]], [[soins légers]]
 
 **Rituel de préparation**  
-
 **Décoction bestiale (Sur).** Ce journal permet au personnage de fabriquer un mutagène extrêmement puissant et sauvage. Il peut utiliser cet avantage pour imprégner son propre mutagène. Le mutagène donne un bonus alchimique de +6 à la valeur de caractéristique choisie au lieu du +4 habituel mais le personnage subit un malus de -2 à toutes ses caractéristiques mentales (Intelligence, Sagesse et Charisme) tant que le mutagène fait effet.
 
 {s:Reference|MANUSCRITDEJACKWERESON}
@@ -236,19 +182,13 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ce livre de cuir blanc est taché de sang, de poussière, de vin et autres. Le nom de son propriétaire, Jack Were-son, est gravé en lettres d’or sur la couverture mais à part cela, on ne trouve pas d’autres informations sur l’auteur. Plusieurs pages contiennent des diagrammes tracés avec soin et des illustrations de la main d’un artiste compétent mais sans la moindre inspiration.*
 
 **Protection.** Cadenas ordinaire avec verrou du mage ([[DD]] 35) et runes explosives ([[Réflexes]] [[DD]] 16)  
-
 **Valeur.** 2 835 po
 
 **Sorts**  
-
 5 — [[annulation denchantement|annulation d’enchantement]], [[broderie]], [[métamorphose]], [[sanctuaire secret]]  
-
 4 — [[charme-monstre]], [[forme véritable]], [[invisibilité suprême]], [[pleine lune]], [[porte dimensionnelle]]  
-
 3 — [[antidétection]], [[éclair]], [[lame du crépuscule]], [[manteau de vent]], [[rapidité]], [[runes explosives]]  
-
 2 — [[flèche acide]], [[nappe de brouillard]], [[pattes daraignée|pattes d’araignée]], [[protection contre les projectiles]], [[poussière du crépuscule]], [[regard brûlant]]  
-
 1 — [[charge de fourmi]], [[disparition]], [[frayeur]], [[identification]], [[mains brûlantes]], [[modification des vents]], [[poing de pierre]], [[projectile magique]], [[sommeil]], [[verrouillage]]
 
 {s:Reference|APPELARCTIQUE}
@@ -256,27 +196,18 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces deux livres usés contiennent de fines feuilles de vélin. De magnifiques illustrations représentent les effets de chaque sort dont beaucoup se basent sur un thème arctique. Même si les pages et les illustrations hivernales sont de grande qualité, l’étui de cuir qui abrite les deux livres sent la graisse. Il est également gras au toucher, comme si on avait utilisé de la graisse animale pour lui donner une étanchéité sommaire.*
 
 **Protection.** [[Piège à feu]] modifié pour infliger des dégâts de [[registre|froid]] ([[Réflexes]] [[DD]] 17)  
-
 **Écoles d’opposition.** [[Illusion]], [[nécromancie]]  
-
 **Valeur.** 4 335 po (5 985 avec le rituel de préparation)
 
 **Sorts**  
-
 6 — [[prévoyance]] <sup>S</sup>, [[champ de force]], [[sphère glaciale]] <sup>S</sup>  
-
 5 — [[cône de froid]] <sup>S</sup>, [[mur de force]] <sup>S</sup>, [[permanence]], [[sanctuaire secret]], [[téléportation]]  
-
 4 — [[cri]], [[mur de glace]] <sup>S</sup>, [[peau de pierre]], [[symbole de révélation]], [[tempête de grêle]] <sup>S</sup>  
-
 3 — [[aura élémentaire]] <sup>S</sup>, [[coursier fantôme]], [[dissipation de la magie]], [[éclair]] <sup>S</sup>, [[héroïsme]], [[piège à feu]], [[recherche de pensées]], [[vision magique]]  
-
 2 — [[corde enchantée]], [[force de taureau]], [[fou rire]], [[poussière scintillante]], [[réparation intégrale]], [[résistance aux énergies destructives]], [[simulacre de vie]] <sup>OP</sup>  
-
 1 — [[agrandissement]], [[armure de mage]], [[bouclier]], [[brume de dissimulation]], [[décharge électrique]] <sup>S</sup>, [[détection des passages secrets]], [[endurance aux énergies destructives]], [[feuille morte]], [[projectile magique]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Morsure du froid (Sur).** Le personnage imprègne ses sorts d’un froid si mordant que peu de gens peuvent le supporter. Il dépense cet avantage par une [[action libre]] quand il lance un sort du registre du [[registre|froid]]. Les dégâts causés par ce sort ignorent la résistance au froid mais pas l’immunité.
 
 {s:Reference|SAVOIRDETAERNISLOINVOYANT}
@@ -284,27 +215,18 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces deux livres font partie d’un ensemble relié par un lien de cuir. Ils possèdent une couverture découpée dans un cuir luisant d’un bleu surnaturel avec une tranche de fer et d’argent. Ils sont froids au toucher et il suffit de les fixer pour être pris d’un léger vertige.*
 
 **Protection.** [[Sceau du serpent]] ([[Réflexes]] [[DD]] 16)  
-
 **Écoles d’opposition.** [[Divination]], [[nécromancie]]  
-
 **Valeur.** 4 555 po (6 355 avec le rituel de préparation)
 
 **Sorts**  
-
 6 — [[contrat intermédiaire]] <sup>S</sup>, [[convocation de monstres VI]] <sup>S</sup>, [[mur de fer]] <sup>S</sup>, [[poudre descampette|poudre d’escampette]] <sup>S</sup>  
-
 5 — [[bulle de vie]], [[contact avec les plans]] <sup>OP</sup>, [[téléportation]] <sup>S</sup>, [[vol supérieur]]  
-
 4 — [[ancre dimensionnelle]], [[assassin imaginaire]], [[brouillard dense]] <sup>S</sup>, [[fosse acide]] <sup>S</sup>, [[mission]], [[tentacules noirs]] <sup>S</sup>  
-
 3 — [[abri]], [[arme magique suprême]], [[cercle magique contre le mal]], [[état gazeux]], [[fosse hérissée de pieux]] <sup>S</sup>, [[nuage nauséabond]], [[sceau du serpent]] <sup>S</sup>  
-
 2 — [[appel des pierres]] <sup>S</sup>, [[éruption de flèches]] <sup>S</sup>, [[fracassement]], [[hébétement]], [[poussière du crépuscule]] <sup>S</sup>, [[poussière scintillante]] <sup>S</sup>  
-
 1 — [[armure de mage]] <sup>S</sup>, [[aura magique]], [[compréhension des langages]] <sup>OP</sup>, [[déguisement]], [[monture]] <sup>S</sup>, [[saut]], [[serviteur invisible]] <sup>S</sup>, [[sommeil]], [[trébucher dans un trou]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Convocation robuste (Sur).** La créature invoquée voit ses défenses augmenter pour une courte période. Le personnage dépense cet avantage par une [[action libre]] quand il lance un sort de [[magicien]] de l’école de l’[[invocation]] ([[convocation]]). La créature convoquée par ce sort gagne un nombre de points de vie temporaires égal à son [[niveau de lanceur de sorts]] et, tant qu’il lui reste au moins 1 de ces points de vie, elle gagne un bonus de circonstance de +2 aux jets de sauvegarde.
 
 {s:Reference|QUETEETERNELLE}
@@ -312,27 +234,18 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Toutes sortes d’énigmes, d’extraits de sagesse populaire et de fragments de cartes sont glissés entre les pages de ces deux volumes usés. Il manque un coin sur une couverture, comme si elle avait reçu un coup d’épée et, à l’intérieur, le texte est écrit tout petit et très serré, comme si l’auteur avait peur de manquer de place.*
 
 **Écoles d’opposition.** [[Invocation]], [[transmutation]]  
-
 **Valeur.** 6 475 po (8 395 avec le rituel de préparation)
 
 **Sorts**  
-
 7 — [[rayons prismatiques]], [[scrutation suprême]] <sup>S</sup>, [[vision magique suprême]] <sup>S</sup>  
-
 6 — [[éclair multiple]], [[prévoyance]], [[mauvais œil]], [[mythes et légendes]] <sup>S</sup>, [[vision lucide]] <sup>S</sup>  
-
 5 — [[domination]], [[lien télépathique]] <sup>S</sup>, [[oeil indiscret]] <sup>S</sup>, [[serpent de feu]], [[téléportation]] <sup>OP</sup>  
-
 4 — [[confusion]], [[détection de la scrutation]] <sup>S</sup>, [[mur de feu]], [[oeil du mage]] <sup>S</sup>, [[tempête de grêle]], [[terreur]]  
-
 3 — [[arme magique suprême]] <sup>OP</sup>, [[clairaudienceclairvoyance|clairaudience/clairvoyance]] <sup>S</sup>, [[déplacement]], [[dissipation de la magie]], [[don des langues]] <sup>S</sup>, [[éclair]], [[recherche de pensées]], [[torrent hydraulique]]  
-
 2 — [[détection de linvisibilité|détection de l’invisibilité]] <sup>S</sup>, [[idiotie]], [[localisation dobjet|localisation d’objet]] <sup>S</sup>, [[rayon ardent]], [[résistance aux énergies destructives]], [[ruse du renard]] <sup>OP</sup>, [[simulacre de vie]], [[verrou du mage]]  
-
 1 — [[alarme]], [[bouclier]], [[charme-personne]], [[compréhension des langages]] <sup>S</sup>, [[couleurs dansantes]], [[coup au but]] <sup>S</sup>, [[détection des passages secrets]] <sup>S</sup>, [[disque flottant]], [[excavation expéditive]] <sup>OP</sup>, [[protection contre le mal]], [[ventriloquie]]
 
 **Rituel de préparation**  
-
 **Sage itinérant (Sur).** Rien ne vaut un livre magique pour faire travailler sa mémoire. Contrairement aux autres avantages, celui-ci ne se dépense pas. On considère que le personnage est entraîné en [[Connaissances]] (géographie) jusqu’à ce qu’il prépare à nouveau ses sorts. Si c’était déjà le cas, il gagne un bonus de circonstance de +2 à ces tests.
 
 {s:Reference|HERITAGEDUGRANDPERE}
@@ -340,25 +253,16 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces deux ouvrages de référence sont recouverts de cuir humain parfaitement conservé, avec un entrelacs de phalanges comme fermoir de couverture. Un sceau familial est estampé en bas de la couverture, au milieu, mais les feuilles d’or commencent à s’effriter et révèlent que l’estampe suit en réalité le motif d’un tatouage de la peau humaine.*
 
 **Protection.** Trois cadenas de qualité supérieure, chacun renforcé par un [[verrou du mage]] ([[DD]] 50) et un [[symbole de faiblesse]] ([[Vigueur]] [[DD]] 20 sur la deuxième page de chaque livre).  
-
 **Écoles d’opposition.** [[Enchantement]], [[illusion]]  
-
 **Valeur.** 7 635 po
 
 **Sorts**  
-
 7 — [[contrôle des morts-vivants]] <sup>S</sup>, [[doigt de mort]] <sup>S</sup>, [[résurrection temporaire]] <sup>S</sup>, [[symbole de faiblesse]] <sup>S</sup>  
-
 6 — [[bouclier involontaire]] <sup>S</sup>, [[brume acide]], [[cercle de mort]] <sup>S</sup>, [[éclair multiple]], [[création de mort-vivant]] <sup>S</sup>  
-
 5 — [[immobilisation de monstre]], [[mur de force]], [[possession]] <sup>S</sup>, [[renvoi]], [[possession dobjet|possession d'objet]] <sup>S</sup>, [[vagues de fatigue]] <sup>S</sup>  
-
 4 — [[animation des morts]] <sup>S</sup>, [[contagion]] <sup>S</sup>, [[cri]], [[énergie négative]] <sup>S</sup>, [[malédiction]] <sup>S</sup>, [[mur de glace]], [[projection dombre|projection d’ombre]] <sup>S</sup>  
-
 3 — [[antidétection]], [[baiser du vampire]] <sup>S</sup>, [[cercle magique contre le bien]], [[éclair]], [[immobilisation de morts-vivants]] <sup>S</sup>, [[nuage nauséabond]], [[préservation des morts]] <sup>S</sup>, [[rayon dépuisement|rayon d’épuisement]] <sup>S</sup>  
-
 2 — [[cécitésurdité|cécité]] <sup>S</sup>, [[dissimulation dobjet|dissimulation d’objet]], [[effroi]] <sup>S</sup>, [[nuée grouillante]], [[résistance aux énergies destructives]], [[simulacre de vie]] <sup>S</sup>, [[ténèbres]], [[verrou du mage]]  
-
 1 — [[bouclier]], [[brume de dissimulation]], [[contact glacial]] <sup>S</sup>, [[disque flottant]], [[façonnage de cadavre]] <sup>S</sup>, [[frayeur]] <sup>S</sup>, [[hypnose]], [[rayon affaiblissant]] <sup>S</sup>, [[restauration de cadavre]] <sup>S</sup>, [[sommeil]]
 
 {s:Reference|GUIDEDUCHYMISTE}
@@ -366,19 +270,13 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Les pages de ce livre de formules ont été soigneusement vernies. Des détails et des diagrammes sur des outils d’alchimie sont dispersés parmi les formules dont beaucoup semblent défier les conventions de l’alchimie et de la physique. La dernière page contient des notes incomplètes sur la préparation de mutagènes expérimentaux.*
 
 **Protection.** Cadenas de bonne facture ([[DD]] 30)  
-
 **Valeur.** 2 545 po
 
 **Formules**  
-
 5 — [[assimilation retardée]], [[possession]], [[résistance à la magie]]  
-
 4 — [[détonation]], [[invisibilité suprême]], [[liberté de mouvement]], [[peau de pierre]], [[restauration]]  
-
 3 — [[amplification délixir|amplification d’élixir]], [[corps épineux]], [[héroïsme]], [[protection contre les énergies destructives]], [[rapidité]], [[vision magique]]  
-
 2 — [[détection de linvisibilité|détection de l’invisibilité]], [[endurance de lours|endurance de l’ours]], [[modification dapparence|modification d’apparence]], [[simulacre de vie]], [[souffle de feu]], [[transmutation de potion en poison]]  
-
 1 — [[agrandissement]], [[bouclier]], [[charge de fourmi]], [[compréhension des langages]], [[coup au but]], [[détection des passages secrets]], [[négation de larôme|négation de l’arôme]], [[saut]], [[sens aiguisés]], [[soins légers]]
 
 {s:Reference|GRIMOIREDUGARDIEN}
@@ -386,31 +284,20 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces trois livres de bonne conception sont couverts de runes de protection contre les extérieurs et les morts-vivants. À l’intérieur, les bords des pages ont été abîmés par de l’eau.*
 
 **Protection.** [[Runes explosives]] ([[Réflexes]] [[DD]] 16) et [[piège à feu]] ([[Réflexes]] [[DD]] 17)  
-
 **Écoles d’opposition.** [[Illusion]], [[nécromancie]]  
-
 **Valeur.** 10 055 po ( 13 055 avec le rituel de préparation)
 
 **Sorts**  
-
 8 — [[dédale]], [[entrave]], [[protection contre les sorts]] <sup>S</sup>  
-
 7 — [[bannissement]] <sup>S</sup>, [[boule de feu à retardement]], [[dépense]] <sup>S</sup>, [[forme draconique II]], [[poigne agrippeuse]]  
-
 6 — [[analyse denchantement|analyse d’enchantement]], [[dissipation suprême]] <sup>S</sup>, [[éclair multiple]], [[vision lucide]], [[zone dantimagie|zone d’antimagie]] <sup>S</sup>  
-
 5 — [[annulation denchantement|annulation d’enchantement]] <sup>S</sup>, [[cône de froid]], [[convocation de monstres V]], [[métamorphose]], [[mur de force]], [[renvoi]] <sup>S</sup>  
-
 4 — [[agrandissement de groupe]], [[ancre dimensionnelle]] <sup>S</sup>, [[confusion]], [[piège à feu]] <sup>S</sup>, [[forme véritable]] <sup>S</sup>, [[porte dimensionnelle]], [[refuge du mage]]  
-
 3 — [[cercle magique contre le mal]], [[éclair]], [[entrer dans une image]], [[lumière du jour]], [[manteau de vent]], [[rapidité]], [[respiration aquatique]], [[runes explosives]]  
-
 2 — [[bandes de protection]], [[déblocage]], [[détection de pensées]], [[poussière scintillante]], [[protection contre les projectiles]] <sup>S</sup>, [[rayon ardent]], [[résistance aux énergies destructives]] <sup>S</sup>, [[vent de murmures]]  
-
 1 — [[arme dombre|arme d’ombre]] <sup>OP</sup>, [[bouclier]] <sup>S</sup>, [[brume de dissimulation]], [[corde animée]], [[décharge électrique]], [[détection des morts-vivants]], [[détection des passages secrets]], [[endurance aux énergies destructives]] <sup>S</sup>, [[feuille morte]], [[maladresse]], [[protection contre le chaos]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Astuce du gardien (Sur).** Le personnage essaie de tromper une attaque d’une phrase rapide pleine de pouvoir. Cet avantage se dépense par une [[action immédiate]] quand un [[type extérieur|extérieur]] ou un [[type mort-vivant|mort-vivant]] touche le personnage. La créature doit refaire son jet d’attaque et conserver le résultat du second jet, même s’il est pire que le premier.
 
 {s:Reference|MYSTERESDESOMBRES}
@@ -418,31 +305,20 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Chaque volume de cette trilogie est écrit à l’encre dorée sur des pages de papier noir. Un texte illusoire cache des descriptions de la géographie et des habitants du plan de l’Ombre.*
 
 **Protection.** [[Texte illusoire]] ([[Volonté]] [[DD]] 16, en cas d’échec, la suggestion est « Oubliez l’existence des descriptions et des notes »), [[piège illusoire]] (il semble que chaque livre déclenche un piège si on l’ouvre)  
-
 **Écoles d’opposition.** [[Divination]], [[évocation]]  
-
 **Valeur.** 11 865 po (15 065 avec le rituel de préparation)
 
 **Sorts**  
-
 8 — [[animation suspendue]], [[esprit impénétrable]], [[magie des ombres suprême]] <sup>S</sup>, [[motif scintillant]] <sup>S</sup>  
-
 7 — [[convocation dombres suprême|convocation d’ombres suprême]] <sup>S</sup>, [[doigt de mort]], [[projection dimage|projection d’image]] <sup>S</sup>, [[renvoi des sorts]], [[simulacre]] <sup>S</sup>  
-
 6 — [[défense magique]], [[image permanente]] <sup>S</sup>, [[image programmée]] <sup>S</sup>, [[mauvais œil]], [[souhait limité]], [[symbole de persuasion]], [[traversée des ombres]] <sup>S</sup>  
-
 5 — [[brume mentale]], [[brume mortelle]], [[cauchemar]] <sup>S</sup>, [[faux-semblant]] <sup>S</sup>, [[magie des ombres]] <sup>S</sup>, [[mirage]] <sup>S</sup>, [[télékinésie]]  
-
 4 — [[assassin imaginaire]] <sup>S</sup>, [[convocation dombres|convocation d’ombres]] <sup>S</sup>, [[délivrance des malédictions]], [[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]], [[invisibilité suprême]] <sup>S</sup>, [[porte dimensionnelle]], [[scrutation]] <sup>OP</sup>, [[tentacules noirs]]  
-
 3 — [[cercle magique contre le bien]], [[coursier fantôme]], [[dissipation de la magie]], [[héroïsme]], [[image accomplie]] <sup>S</sup>, [[lenteur]], [[réduction dobjet|réduction d’objet]], [[texte illusoire]] <sup>S</sup>  
-
 2 — [[bouche magique]] <sup>S</sup>, [[dissimulation dobjet|dissimulation d’objet]], [[image miroir]] <sup>S</sup>, [[piège illusoire]] <sup>S</sup>, [[poussière scintillante]], [[simulacre de vie]], [[ténèbres]] <sup>OP</sup>, [[vent de murmures]], [[verrou du mage]]  
-
 1 — [[aura magique]] <sup>S</sup>, [[brume de dissimulation]], [[couleurs dansantes]] <sup>S</sup>, [[déguisement]] <sup>S</sup>, [[endurance aux énergies destructives]], [[feuille morte]], [[graisse]], [[image silencieuse]] <sup>S</sup>, [[image silencieuse]] <sup>S</sup>, [[rayon affaiblissant]], [[ventriloquie]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Connaissances des ombres (Sur).** Le savoir contenu dans ce livre s’accroche à la conscience du personnage comme le plan de l’Ombre lui-même. Contrairement aux autres avantages, celui-ci ne se dépense pas. On considère que le personnage est entraîné dans toutes les compétences de [[Connaissances]] tant qu’elles ont trait à la géographie ou aux habitants du plan de l’Ombre. Si le personnage est déjà entraîné dans la [[Connaissances|Connaissance]] appropriée, il gagne un bonus de circonstance de +2 au test.
 
 {s:Reference|LIVRESDEMAITREDERULTHAVEN}
@@ -450,33 +326,21 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces trois livres sont reliés dans un cuir aussi noir qu’une nuit sans étoiles et serrés ensemble dans un lien d’argent brillant. Les pages sont pleines de notes et d’errata. Les notes manuscrites se font de plus en plus hâtives et fur et à mesure que l’on approche de la fin de la trilogie et la dernière page indique « Je l’ai trouvée ! »*
 
 **Protection.** Chaque livre est muni d’un cadenas de qualité supérieure ([[DD]] 40) ; les sorts de niveaux 7 à 9 sont cachés par une page secrète et le premier livre est protégé par une [[runes explosives|rune explosive]].  
-
 **Écoles d’opposition.** [[Illusion]], [[transmutation]]  
-
 **Valeur.** 12 725 po (16 550 avec le rituel de préparation)
 
 **Sorts**  
-
 9 — [[délivrance]], [[prémonition]] <sup>S</sup>  
-
 8 — [[exigence]], [[localisation suprême]] <sup>S</sup>, [[œil indiscret suprême]] <sup>S</sup>, [[séquestration]]  
-
 7 — [[changement de plan]], [[invocation instantanée]], [[scrutation suprême]] <sup>S</sup>, [[vision]] <sup>S</sup>, [[vision magique suprême]] <sup>S</sup>  
-
 6 — [[analyse denchantement|analyse d’enchantement]] <sup>S</sup>, [[défense magique]], [[dissipation suprême]], [[mythes et légendes]] <sup>S</sup>, [[champ de force]], [[vision lucide]] <sup>S</sup>  
-
 5 — [[adaptation planaire]] <sup>OP</sup>, [[coffre secret]], [[communication à distance]], [[contact avec les plans]] <sup>S</sup>, [[création majeure]], [[lien télépathique]] <sup>S</sup>  
-
 4 — [[ancre dimensionnelle]], [[délivrance des malédictions]], [[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]], [[localisation de créature]] <sup>S</sup>, [[malédiction]], [[mission]], [[partage des sens]] <sup>S</sup>, [[refuge du mage]]  
-
 3 — [[biographie du sang]] <sup>S</sup>, [[clairaudienceclairvoyance|clairaudience/clairvoyance]] <sup>S</sup>, [[don des langues]] <sup>S</sup>, [[page secrète]] <sup>OP</sup>, [[recherche de pensées]] <sup>S</sup>, [[runes explosives]], [[vision magique]] <sup>S</sup>  
-
 2 — [[convocation de monstres II]], [[détection de linvisibilité|détection de l’invisibilité]] <sup>S</sup>, [[détection de pensées]] <sup>S</sup>, [[flamme éternelle]] <sup>S</sup>, [[immobilisation de personne]], [[localisation dobjet|localisation d’objet]] <sup>S</sup>, [[résistance aux énergies destructives]], [[sphère de feu]]  
-
 1 — [[compréhension des langages]] <sup>S</sup>, [[coup au but]] <sup>S</sup>, [[déguisement]] <sup>OP</sup>, [[détection des morts-vivants]] <sup>S</sup>, [[détection des passages secrets]] <sup>S</sup>, [[frayeur]], [[identification]] <sup>S</sup>, [[protection contre la loi]], [[protection contre le mal]]
 
 **Rituel de préparation**  
-
 **Yeux améliorés de Rul Thaven (Sur).** Cet avantage amélioré permet au personnage de voir les créatures invisibles. Quand il utilise cet avantage par une [[action rapide]], il bénéficie de [[détection de linvisibilité|détection de l’invisibilité]] pendant 10 rounds. Ces rounds ne sont pas forcément consécutifs mais le personnage doit dépenser une [[action rapide]] à chaque fois qu’il utilise cet avantage. L’effet de l’avantage est inactif une fois que les 10 rounds de [[détection de linvisibilité|détection de l’invisibilité]] ont été utilisés ou jusqu’à ce que le personnage prépare à nouveau ses sorts.
 
 {s:Reference|MANUELDULIEUR}
@@ -484,33 +348,21 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces trois volumes sont reliés dans du cuir de requin noir. Les sorts sont inscrits à l’encre violette sur du papier fin. Ils cachent des notes extensives sur la construction d’un phylactère de liche.*
 
 **Protection.** [[Aura magique]] (le grimoire ne semble pas magique), [[page secrète]] pour cacher les notes sur la confection d’un phylactère de liche, [[sceau du serpent]] ([[Réflexes]] [[DD]] 17)  
-
 **Écoles d’opposition.** [[Abjuration]], [[enchantement]]  
-
 **Valeur.** 17 165 po (21 215 avec le rituel de préparation)
 
 **Sorts**  
-
 9 — [[arrêt du temps]], [[capture dâme|capture d’âme]], [[convocation de monstres IX]] <sup>S</sup>, [[portail]] <sup>S</sup>, [[souhait]]  
-
 8 — [[contrat suprême]] <sup>S</sup>, [[création de mort-vivant dominant]], [[dédale]] <sup>S</sup>, [[écran]], [[flétrissure]]  
-
 7 — [[bannissement]] <sup>OP</sup>, [[convocation de monstres VII]] <sup>S</sup>, [[doigt de mort]], [[inversion de la gravité]], [[poigne agrippeuse]], [[téléportation suprême]] <sup>S</sup>  
-
 6 — [[contrat intermédiaire]] <sup>S</sup>, [[désintégration]], [[dissipation suprême]] <sup>OP</sup>, [[flamme contagieuse]], [[mur de fer]] <sup>S</sup>, [[mythes et légendes]]  
-
 5 — [[brume mortelle]] <sup>S</sup>, [[coffre secret]] <sup>S</sup>, [[cône de froid]], [[contact avec les plans]], [[fosse affamée]] <sup>S</sup>, [[permanence]], [[possession]], [[symbole de douleur]], [[vol supérieur]]  
-
 4 — [[boule de foudre]], [[détection de la scrutation]], [[délivrance des malédictions]] <sup>OP</sup>, [[énergie négative]], [[invisibilité suprême]], [[porte dimensionnelle]] <sup>S</sup>, [[sphère disolement|sphère d’isolement]], [[tentacules noirs]] <sup>S</sup>  
-
 3 — [[boule de feu]], [[clignotement]], [[entrer dans une image]], [[lumière du jour]], [[nuage nauséabond]] <sup>S</sup>, [[page secrète]], [[préservation des morts]], [[sceau du serpent]] <sup>S</sup>  
-
 2 — [[détection de linvisibilité|détection de l’invisibilité]], [[nuée grouillante]] <sup>S</sup>, [[poussière scintillante]] <sup>S</sup>, [[réparation intégrale]], [[résistance aux énergies destructives]] <sup>OP</sup>, [[simulacre de vie]], [[toile daraignée|toile d’araignée]] <sup>S</sup>, [[vision dans le noir]]  
-
 1 — [[armure de mage]] <sup>S</sup>, [[aura magique]], [[déguisement]], [[détection des morts-vivants]], [[graisse]] <sup>S</sup>, [[mains brûlantes]], [[projectile magique]], [[rayon affaiblissant]], [[serviteur invisible]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Contingence revigorante (Sur).** Cet avantage ne s’utilise pas par une action, il se déclenche quand le personnage tombe à 0 point de vie ou moins et lui fait immédiatement regagner 2d6 points de vie. Si cela suffit à le faire remonter à 0 point de vie ou plus, il ne tombe pas inconscient.
 
 
@@ -521,27 +373,17 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 **Valeur.** 16 435 po (20 710 avec le rituel de préparation)
 
 **Sorts**  
-
 9 — [[changement de forme]], [[ennemi subconscient]], [[souhait]], [[vague mondiale]]  
-
 8 — [[forme de géant II]], [[manteau marin]], [[motif scintillant]], [[rayon polaire]], [[séquestration]]  
-
 7 — [[contrôle du climat]], [[corps élémentaire IV]], [[mot de pouvoir aveuglant]], [[rempart]], [[renvoi des sorts]], [[vengeance fantasmagorique]]  
-
 6 — [[éclair multiple]], [[contrôle de leau|contrôle de l’eau]], [[forme bestiale IV]], [[forme liquide]], [[forme végétale II]], [[manteau de rêves]], [[poudre descampette|poudre d’escampette]]  
-
 5 — [[adaptation planaire]], [[comète]], [[fabrication]], [[geyser]], [[immobilisation de monstre]], [[serpent de feu]], [[télékinésie]], [[vol supérieur]]  
-
 4 — [[forme véritable]], [[invisibilité suprême]], [[jet de flammes]], [[pleine lune]], [[porte dimensionnelle]], [[poussière détoile|poussière d’étoile]], [[souffle de dragon]], [[Sphère disolement|Sphère d'isolement]]  
-
 3 — [[arme polyvalente]], [[aura élémentaire]], [[clignotement]], [[lame du crépuscule]], [[manteau de vent]], [[Sables changeants]], [[sort vol|vol]]  
-
 2 — [[accélération du poison]], [[éruption de flèches]], [[langue élémentaire]], [[modification dapparence|modification d'apparence]], [[partage de la langue]], [[poussière du crépuscule]], [[souffle de feu]], [[vague]]  
-
 1 — [[caresse de la mer]], [[charge de fourmi]], [[coup au but]], [[disparition]], [[endurance aux énergies destructives]], [[feuille morte]], [[grandes illuminations]], [[identification]], [[modification des vents]], [[poing de pierre]]
 
 **Rituel de préparation**  
-
 **Avantage défensif (Sur).** Le personnage émet une rapide décharge d’énergie profane qui détourne une attaque magique. Quand le personnage est la cible d’un sort ou d’un pouvoir magique de contact, il peut, par une [[action immédiate]], dépenser cet avantage pour gagner un bonus de parade de +4 à la [[CA]] contre l’attaque qui a provoqué son utilisation.
 
 {s:Reference|LESFORMULESDEMAITREGEBR}
@@ -549,26 +391,17 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Ces quatre livres enveloppés dans du tissu sont imprimés avec soin (comme avec une presse ou une autre forme de transcription mécanique), avec une page de garde, une table des matières et un index bien utile avec des références croisées. Ils sont en excellent état. À l’évidence, ce sont des ouvrages de référence et non des notes de laboratoire. Leur auteur était sûrement un inventeur très discipliné et concentré.*
 
 **Protection.** La couverture est enduite d’un poison appelé larmes de la mort (contact ; jet de sauvegarde [[Vigueur]] [[DD]] 22, incubation 1 minute ; fréquence 1/minute pendant 6 minutes ; effet 1d6 [[affaiblissement temporaire|affaiblissement]] de Con et [[paralysé|paralysie]] pendant 1 minute)  
-
 **Valeur.** 6 615 po (11 115 avec le rituel de préparation)
 
 **Formules**  
-
 6 — [[corps élémentaire III]], [[forme draconique I]], [[guérison suprême]], [[jumeau]], [[transformation]], [[traversée des ombres]]  
-
 5 — [[assimilation retardée]], [[cauchemar]], [[échapper au temps]], [[résistance à la magie]], [[songe]], [[transformation résurgente]], [[vol supérieur]]  
-
 4 — [[bouclier de feu]], [[détonation]], [[forme liquide]], [[formule universelle]], [[invisibilité suprême]], [[neutralisation du poison]], [[peau de pierre]], [[souffle de dragon]]  
-
 3 — [[amplification délixir|amplification d’élixir]], [[chien de chasse]], [[contact absorbant]], [[corps épineux]], [[déplacement]], [[héroïsme]], [[rapidité]], [[recherche de pensées]], [[réservoir draconique]]  
-
 2 — [[caresse élémentaire]], [[détection de linvisibilité|détection de l’invisibilité]], [[force de taureau]], [[grâce féline]], [[peau décorce|peau d’écorce]], [[perception des indices]], [[souffle de feu]], [[transmission alchimique]], [[transmutation de potion en poison]], [[vomir une nuée]]  
-
 1 — [[bouclier]], [[caresse de la mer]], [[chance de lartisan|chance de l’artisan]], [[compréhension des langages]], [[déguisement]], [[endurance aux énergies destructives]], [[négation de larôme|négation de l’arôme]], [[œil du mitrailleur]], [[poing de pierre]], [[sens aiguisés]]  
 
-
 **Rituel de préparation**  
-
 **Bombe spontanée (Sur).** Quand il s’agit de [[alchimiste#BOMBES|bombes]], le personnage a un atout dans sa manche. Une fois par jour, par une [[action rapide]], il peut appliquer à une bombe une [[découvertes|découverte]] pour laquelle il est qualifié (mais qu’il n’a pas encore faite). Ceci ne lui permet pas de cumuler des [[découvertes]] non cumulables sur une [[alchimiste#BOMBES|bombe]].
 
 {s:Reference|LAMAITRISEDESMOTSETDESPENSEES}
@@ -576,31 +409,19 @@ Quand un personnage prépare ses sorts avec un grimoire ou un livre de formules 
 *Cet ouvrage massif est aussi gros que quatre grimoires normaux. Il est relié dans un cuir aussi résistant qu’une armure de plaques et cousu avec de fins fils de métal souple et non de tissu. Une liste de noms, tous barrés, figure à la fin.*
 
 **Protection.** Symbole de mort sur la première page du livre ([[Vigueur|Vig]] [[DD]] 22)  
-
 **Écoles d’opposition.** [[Convocation]], [[illusion]]  
-
 **Valeur.** 22 675 po (27 265 avec le rituel de préparation)
 
 **Sorts**  
-
 9 — [[arrêt du temps]], [[disjonction]], [[domination universelle]] <sup>S</sup>, [[immobilisation de monstre de groupe]] <sup>S</sup>, [[mot de pouvoir mortel]] <sup>S</sup>, [[prémonition]], [[suffocation de groupe]]  
-
 8 — [[clone]], [[danse irrésistible]] <sup>S</sup>, [[entrave]] <sup>S</sup>, [[esprit impénétrable]], [[explosion de lumière]], [[métamorphose universelle]], [[mot de pouvoir étourdissant]] <sup>S</sup>  
-
 7 — [[changement de plan]] <sup>OP</sup>, [[déviation]], [[immobilisation de personne de groupe]] <sup>S</sup>, [[invocation instantanée]] <sup>OP</sup>, [[mot de pouvoir aveuglant]] <sup>S</sup>, [[parole résonnante]], [[souhait limité]], [[symbole détourdissement|symbole d’étourdissement]] <sup>S</sup>, [[vision magique suprême]]  
-
 6 — [[prévoyance]], [[dissipation suprême]], [[ennemi contondant]], [[main impérieuse]], [[manteau de rêves]] <sup>S</sup>, [[mythes et légendes]], [[quête]] <sup>S</sup>, [[remémoration]], [[vision lucide]]  
-
 5 — [[débilité]] <sup>S</sup>, [[domination]] <sup>S</sup>, [[fabrication]], [[œil indiscret]], [[permanence]], [[prison de glace]], [[renvoi]], [[sanctuaire secret]], [[téléportation]] <sup>OP</sup>  
-
 4 — [[ancre dimensionnelle]], [[désespoir foudroyant]] <sup>S</sup>, [[façonnage de la pierre]], [[malédiction]], [[pleine lune]] <sup>S</sup>, [[sphère disolement|sphère d’isolement]], [[terreur]]  
-
 3 — [[antidétection]], [[arme magique suprême]], [[boule de feu]], [[héroïsme]] <sup>S</sup>, [[protection contre les énergies destructives]], [[suggestion]] <sup>S</sup>, [[voile répugnant]], [[sort vol|vol]]  
-
 2 — [[bouche magique]] <sup>OP</sup>, [[corde enchantée]], [[détection de linvisibilité|détection de l’invisibilité]], [[flamme éternelle]], [[fou rire]] <sup>S</sup>, [[idiotie]] <sup>S</sup>, [[image miroir]] <sup>OP</sup>, [[résistance aux énergies destructives]], [[simulacre de vie]], [[verrou du mage]]  
-
 1 — [[alarme]], [[bouclier]], [[charme-personne]] <sup>S</sup>, [[feuille morte]], [[identification]], [[poussée hydraulique]], [[projectile magique]], [[rayon affaiblissant]], [[serviteur invisible]] <sup>OP</sup>, [[silence forcé]], [[trou de mémoire]] <sup>S</sup>
 
 **Rituel de préparation**  
-
 **Malédiction des noms (Sur).** Lorsque le personnage a fini de préparer ses sorts à l’aide de ce livre, il note le nom propre d’une unique créature au bas de la liste de noms. Quand il se trouve à moins de 9 mètres de la créature choisie, il peut, par une [[action rapide]], l’appeler par son nom pour déclencher la malédiction des noms, ce qui dépense l’avantage. La cible reçoit un malus de -2 aux jets d’attaque et de -4 à tous les jets d’attaque contre le personnage pendant 1 minute. Quand le personnage active cette [[malédiction]], le nom écrit au dos du livre est barré et la créature ne pourra plus jamais être victime de la malédiction des noms lancée par le personnage. Les malus de deux malédictions des noms ne se cumulent pas sur la même créature.

@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 5  
-
 **Temps d'incantation** 24 heures  
-
 **Composantes** [[composantes|V, G, M]] (2 000 po d’herbes et d’huiles)[[composantes|, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** animal ou arbre touché  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#9|→]] *Éveil* : Passer le type d’une créature à « créature magique » affecte-t-il son type de DV, son BBA, ou d’autres statistiques ? Qu’en est-il de ses 2 DVs supplémentaires ? L’entraînement au port d’une barde est-il lié à la formation au port des armures ?***

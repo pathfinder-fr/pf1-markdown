@@ -16,17 +16,11 @@ Categories:
 
 {s:UC}
 **École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** contact  
-
 **Zone** une arme tranchante touchée  
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage permet à une arme de corps à corps tranchante de laisser une ignoble plaie sur un visage. Quand l’arme cible touche une créature vivante, son propriétaire peut décharger le sort par une [[action libre]]. Une plaie béante s’ouvre alors sur le front de la victime, en plus des effets habituels de l’attaque, et lui inflige des dégâts de [[saignement]] égaux à la moitié du [[NLS|niveau du lanceur de sorts]]. Au début de chaque tour de la victime, quand elle subit ses dégâts de [[saignement]], elle souffre aussi d’un malus cumulatif de -1 aux jets d’attaque. Quand ce malus passe à -3, la victime considère également que toutes les cibles qu’elle vise bénéficient d’un [[camouflage]] (20% de chances de rater). Quand le malus atteint -5, la cible est [[aveuglé|aveugle]]. Si quelqu’un arrête l’hémorragie, la victime n’a plus de malus. Une créature [[immunité (capacité)|immunisée]] contre les dégâts de [[saignement]] est aussi [[immunité (capacité)|immunisée]] contre les effets de ce sort.

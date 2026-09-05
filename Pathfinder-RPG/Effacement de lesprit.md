@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[hypnotiseur|Hyp]] 4, [[médium|Méd]] 4, [[Occultiste|Occ]] 4, [[psychiste|Psy]] 4, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** instantanée ; voir texte  
-
 **Jet de sauvegarde** Volonté annule ; **Résistance à la magie** oui
 
 Le personnage efface une partie de l’esprit et des expériences de la cible, lui imposant deux [[absorption dénergie (capacité)|niveaux négatifs]] pendant 1 jour par niveau de lanceur de sorts. Si la cible est un mage choisissant et préparant ses sorts à l’avance, chaque niveau négatif issu d’effacement de l’esprit lui fait perdre un sort préparé du plus haut niveau de sort de sa connaissance dans chacune de ses classes de lanceur de sorts nécessitant une préparation. On considère que la cible ne connaît plus ces sorts tant qu’elle ne s’est pas débarrassée des niveaux négatifs correspondants.

@@ -9,7 +9,6 @@ Categories:
 ---
 
 **Niveau** 0  
-
 **Portée** aucune
 
 Un sort de mots incluant ce [[mots cibles|mot cible]] n’affecte que le lanceur. Les [[mots effets]] limités à ce mot peuvent être associés avec d’autres [[mots effets]] mais le lanceur en est la cible unique, et ce quelles que soient les autres cibles disponibles.

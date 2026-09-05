@@ -15,21 +15,14 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 4, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (petits pois en poudre et sabot d’animal)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** brouillard s’étendant sur 9 m (6 {s:c}) de rayon et 6 m (4 {s:c}) de haut  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Un banc de brouillard apparaît à l’endroit indiqué par le personnage. Il limite le champ de vision (y compris la [[vision dans le noir]]) à 1,50 m (1 {s:c}). En cas de combat, les créatures qui se trouvent à moins de 1,50 m (1 {s:c}) bénéficient d’un [[camouflage]] (20 % de chances que les attaques les ratent). Au-delà, elles bénéficient d’un [[camouflage|camouflage total]] (50 % de chances que les attaques les ratent, et leurs adversaires ne peuvent les localiser à l’œil nu).  
-
 De plus, les créatures qui tentent de se frayer un passage au travers voient leur [[vitesse de déplacement]] réduite de moitié et les dégâts au corps à corps subissent un malus de -2. La brume rend toute attaque à distance impossible (sauf pour les [[rayon|rayons magiques]]). Une créature tombant dans une nappe de *brouillard dense* est fortement ralentie et les dégâts dus à la chute sont réduits de 1d6 points tous les 3 m parcourus dans la [[zone deffet|zone d’effet]] du sort. Une créature située dans un *brouillard dense* ne peut réaliser de [[pas de placement]]. Le *brouillard dense* et les effets similaires ne se cumulent pas en terme de réduction de mouvement et de malus d’attaque.
 
 Ces nuées sont bien plus stables que celles d’un brouillard normal, à tel point qu’il faut un vent violent (au moins 50 km/h) pour les dissiper. Soumises à une telle force, elles sont dispersées en 1 [[round]]. Enfin, il est possible d’user de *[[permanence]]* sur un sort de *brouillard dense*. Un *brouillard dense* permanent dispersé par le vent se reforme au bout de dix minutes.

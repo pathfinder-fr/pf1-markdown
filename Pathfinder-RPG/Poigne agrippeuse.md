@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un gant souple)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** main de 3 m/2 {s:c} de long  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort fait apparaître une main magique de [[taille G]] qui prend forme entre le personnage et l’un de ses adversaires. La main flottante et désincarnée se déplace de sorte qu’elle se trouve toujours entre les deux protagonistes, quels que soient les efforts déployés par l’adversaire pour la contourner. Elle procure un [[abri]] au mage, ce qui se traduit par un bonus de +4 à la [[CA]] (contre cet adversaire uniquement). Rien ne peut tromper la main. Elle continue de s’interposer même en cas d’obscurité soudaine, si l’adversaire devient [[invisible]], se transforme, se cache, etc.

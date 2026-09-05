@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (un petit bout de fer bien droit)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 ou plusieurs [[type humanoïde|humanoïdes]], distants de moins de 9 m/6 {s:c} les uns des autres  
-
 **Durée** 1 [[round]]/[[niveau]] (T) (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Les cibles du sort se figent et se retrouvent [[paralysé|paralysées]]. Elles restent conscientes de ce qui se passe autour d’elles et peuvent respirer normalement mais ne peuvent entreprendre aucune action, pas même parler. Chaque [[round]], lors de leur tour, elles peuvent effectuer un nouveau [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]] pour tenter de mettre fin à l’effet. Il s’agit d’une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaques d’opportunité]]. Si une créature ailée se retrouve [[paralysé|paralysée]], elle ne peut plus battre des ailes et tombe. Un nageur [[paralysé]] ne peut plus bouger et risque de se noyer.

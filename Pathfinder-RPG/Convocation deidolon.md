@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ;** Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, M]] (une pièce d'argent)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un [[eidolon]]  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ;**Résistance à la magie** non
 
 Le personnage ouvre une faille entre les dimensions afin d'invoquer son [[eidolon]]. Cela revient au même qu'une [[conjurateur#EIDOLON|invocation]] normale excepté que l'[[eidolon]] ne demeure avec lui que pendant la durée du sort. Quand l'[[eidolon]] est invoqué de cette manière, il ne peut pas toucher une créature protégée par une *[[protection contre le mal]]* ou un effet similaire et la *[[dissipation de la magie]]* permet de le renvoyer dans son [[plans|plan]] d'origine.

@@ -16,17 +16,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** [[Composantes|V, G, M]] (voir plus bas)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une arme, une armure, un bouclier, un outil ou une trousse touchée  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage convertit un objet ordinaire en son équivalent de maître. Une épée normale devient une [[armes de maître|épée de maître]], une armure de cuir devient une [[Caractéristiques des armures#ARMURESDEMAITRE|armure de cuir de maître]], une trousse d’outils de voleur devient une trousse d’outils de maître, etc. Si la cible n’a pas de version de maître, le sort est sans effet. Le personnage peut affecter 50 munitions comme une seule arme. C’est à lui de décider si l’apparence de l’objet change pour refléter sa qualité supérieure.

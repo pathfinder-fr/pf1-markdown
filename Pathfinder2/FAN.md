@@ -6,7 +6,6 @@ LastModified: 2025-08-20 22:28
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-
 <nav class="wiki-toc"></nav>
 
 ### Aventures converties
@@ -74,23 +73,14 @@ PNJs et créatures provenant du blog de Paizo :
 
 
 ''Pour ajouter un PNJ / une créature :  
-
 (1) Ouvrir la page "Personnage-type" dans un autre onglet  
-
 (2) Ouvrir cette page en mode édition  
-
 (3) Ajouter un lien pour la nouvelle créature en suivant le format des autres liens et en indiquant le nom du PNJ / de la créature ainsi que son niveau entre parenthèses  
-
 (4) Sauvegarder la page modifiée  
-
 (5) Cliquer sur le lien rouge que vous venez d'ajouter et choisir de créer une nouvelle page  
-
 (6) Dans "Page Title", indiquer le nom du PNJ / de la créature  
-
 (7) Ouvrir le "Personnage-type" en mode édition ; copier-coller tout le code de la page dans la nouvelle page créée  
-
 (8) Modifier le code de la nouvelle page créée pour coller à la nouvelle créature  
-
 (9) Sauvegarder la page modifiée''
 
 

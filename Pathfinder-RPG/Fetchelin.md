@@ -53,19 +53,12 @@ Un fetchelin mesure 1,80 mètre de hauteur mais pèse seulement 75 kg, étant g�
 
 Les fetchelins se définissent par leur niveau de classe et ne possèdent pas de DV raciaux. Ils partagent les traits raciaux suivants :
 - **+2 Dextérité, +2 Charisme, -2 Sagesse.** Les fetchelins sont rapides et dynamiques mais leur comportement est parfois étrange et ils se laissent facilement distraire lorsque leur esprit vagabonde.  
-
 - **Vision dans le noir.** Les fetchelins voient dans le noir jusqu’à une distance de 18 mètres (12 {s:c}).  
-
 - **Vision nocturne.** Les fetchelins voient deux fois plus loin que les humains dans des conditions de faible luminosité.  
-
 - **Talentueux.** Les fetchelins gagnent un bonus racial de +1 aux tests de [[Connaissances]] (plans) et de [[Discrétion]].  
-
 - **Fusion dans les ombres.** Voir ci-contre.  
-
 - **Résistances des ombres.** Les fetchelins bénéficient d’une résistance de 5 points au froid et de 5 points à l’électricité.  
-
 - **Pouvoirs magiques.** Les fetchelins peuvent utiliser [[déguisement]] une fois par jour en tant que pouvoir magique. Ils peuvent prendre la forme de n’importe quelle créature humanoïde en utilisant cette capacité. Lorsqu’un fetchelin atteint le niveau 9 (en combinant ses différentes classes), il gagne [[traversée des ombres]] (uniquement lui) en tant que pouvoir magique utilisable une fois par jour. Au niveau 13, il gagne [[changement de plan]] (personnel uniquement, uniquement vers le plan des Ombres ou le plan Matériel) en tant que pouvoir magique utilisable une fois par jour. Le NLS du fetchelin pour ces pouvoirs magiques est égal à son nombre total de DV.  
-
 - **Langues.** Les fetchelins entrent en jeu en sachant parler le commun. Un fetchelin doté d’une Intelligence élevée peut choisir ses langues supplémentaires parmi la liste suivante : aérien, aklo, aquatique, draconique, d’ziriak (uniquement pour le comprendre, pas le parler), igneux, terreux, ou n’importe quelle langue régionale humaine.
 
 {s:VoirAussiAvant}La page de la race [[Fetchelin (race)|Fetchelin]]{s:VoirAussiAprès}

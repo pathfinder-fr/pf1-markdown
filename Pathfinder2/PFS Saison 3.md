@@ -6,43 +6,29 @@ LastModified: 2022-09-25 18:55
 
 <img src="Logos/PFS2/Year of Shattered Sanctuaries.png" class="fright" alt="">
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 ### Année des Sanctuaires Brisés
 Il y a 6 arcs qui composent le Metaplot de l'année 3 :   
-
 - l'arc principal, à Absalom, qui débute et conclut la saison et fait le lien entre tous les autres arcs. Il commence par le scénario 3-01 pour niveaux 1 à 4, puis le 3-06 pour niveaux 3 à 6, le 3-17 pour niveaux 5 à 8 et le 3-19 pour niveaux 7 à 10.   
-
 - l'arc d'Andoran, pour niveaux 1 à 4, scénarios 3-02 et 3-05   
-
 - l'arc du Cheliax, niveaux 3 à 6, scénarios 3-04 et 3-07   
-
 - l'arc de Qadira, niveaux 1 à 4, scénarios 3-08 et 3-12   
-
 - l'arc d'Osirion, niveaux 5 à 8, scénarios 3-09 et 3-14   
-
 - l'arc du Taldor, niveaux 3 à 6, scénarios 3-11 et 3-16   
-
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0301E.jpg|Introduction to Pathfinder Society : Year of Shattered Sanctuaries}
 **Titre VF** Introduction à Pathfinder Society : L'année des sanctuaires brisés   
-
 **Niveau** 1-4, par Mike Kimmel  
-
 **Tag** Intrigue principale, Répétable  
-
 **Lieu** Absalom
 
 A recently inducted Pathfinder field agent makes a startling discovery as pleas for assistance flock to the Society’s Grand Lodge from across the Inner Sea. A group of Pathfinders come to assist in parsing the ongoing damage to the Society when a staunch ally requests their assistance. Stepping into a problem close to home, the agents quickly uncover a larger plot set to tear the Society apart and that it’s up to them to raise the alarm!
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0302E.jpg|3-02 - The East Hill Haunting}
 **Titre VF** L'apparition de la Colline Est   
-
 **Niveau** 1-4, par Nicole Heits  
-
 **Tag** Intrigue principale  
-
 **Lieu** Andoran
 
 With pressure mounting against the legal claim on one of their lodges, the Society sends a group of heroes to assist in the defense. Arriving in the Andoran city of Almas, the PCs quickly find themselves doing far more than paperwork when a ghostly specter seemingly accuses the Pathfinder Society of some heinous act. Forced to investigate the ghost’s appearance, it’s up to the PCs to figure out the truth behind the message and what is really going with the so-called “East Hill Haunting”.
@@ -51,11 +37,8 @@ The East Hill Haunting is part of the ongoing story of the Year of Shattered San
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0303E.jpg|3-03 - Echoes of Desperation}
 **Titre VF** Échos de Désespoir   
-
 **Niveau** 3-6, par Mike Kimmel & Nate Wright  
-
 **Tag**   
-
 **Lieu** Vidriane
 
 Venture-Captain Finze Bellaugh at the Anthusis Lodge in Vidrian recently came into possession of a magic bell that was plundered from a community of Song'o halflings living somewhere in the Laughing Jungle. He believes the bell is a critically important object to this community, and he needs a group of skilled Pathfinders to learn precisely where the bell came from, then return it to its rightful owners. The PCs soon discover there is more to the bell's story, and returning it is no simple matter!

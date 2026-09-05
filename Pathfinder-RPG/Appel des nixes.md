@@ -17,17 +17,11 @@ Categories:
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|effet mental, son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 4   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|90 mètres]]  
-
 **Cible** toute créature dans un rayon de 90 mètres centré sur le lanceur de sorts  
-
 **Durée** concentration +1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort génère un chant étrange et contagieux qui séduit et appelle tous ceux qui l’entendent. L’Appel des nixes affecte un maximum de 24 [[Vocabulaire courant#DESDEVIE|dés de vie]] de créatures. Les créatures dans la zone qui ratent leur [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]] sont attirées par le chant et s’avancent dans sa direction en empruntant le chemin le plus direct. Si leur itinéraire les conduit dans une zone dangereuse, comme au milieu d’un feu ou sur le bord d’une falaise, les créatures ont toutes droit à un deuxième jet de sauvegarde pour mettre fin à l’effet avant de se diriger vers le danger. Les créatures attirées par le chant du sort ne peuvent rien faire d’autre que se défendre. Une victime dans un [[Présentation des sorts#DEFRAYONNEMENT|rayon]] de 1,5 mètre du lanceur de sorts reste simplement où elle est et demeure [[États préjudiciables#Fasciné|fascinée]] pendant toute la [[Présentation des sorts#DUREE|durée]] du sort.

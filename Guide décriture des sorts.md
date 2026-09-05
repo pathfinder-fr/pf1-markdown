@@ -14,17 +14,11 @@ Ce guide a pour but de permettre à quiconque de participer à la rédaction d'u
 Voici tout d'abord un exemple complet, que nous allons ensuite décrire partie par partie :
 
 @@**École** [[nom_école]] ([[branche_école]]) <nowiki>[</nowiki>[[registre]]<nowiki>]</nowiki>; **Niveau** [[classes]] 1, [[sorcière]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un humanoïde  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Description...@@

@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Rôdeur|Rôd]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Cible** une créature (cf. texte)  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 La cible dégage une forte odeur que la plupart des prédateurs reconnaissent comme celle d’une proie sans défense. Les 1d4+1 créatures prédatrices les plus proches dans un rayon de 9 mètres doivent réussir un jet de [[Volonté]] pour ne pas attaquer la cible (les animaux possédant le pouvoir odorat sont affectés dans un rayon de 18 mètres). Si le prédateur est un animal, il peut être éloigné de la cible par un dresseur qui utilise le tour « arrête ! » ou tout autre effet mettant en suspend ou dissipant les effets de rage ou d’émotion.

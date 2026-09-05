@@ -17,17 +17,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une goutte de résine)  
-
 **Portée** contact  
-
 **Cible** un objet brisé d'un maximum de 1 kg/[[niveau]]  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
 Quand le personnage lance ce sort, une force spectrale vient consolider une arme et la débarrasse de la condition [[brisé|brisée]] pour une courte période. Tant que l’objet [[brisé]] se trouve sous cette forme, il ne souffre pas de sa condition et on le considère comme intact. En revanche, il ne récupère pas de points de vie et, s’il subit des dégâts supplémentaires, il risque de se faire détruire.

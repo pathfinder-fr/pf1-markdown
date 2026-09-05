@@ -17,17 +17,11 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage connecte ses sens à ceux de sa cible, ce qui lui permet de voir et d’entendre par ses yeux et ses oreilles. Par une [[action de mouvement]], il peut faire passer ses perceptions de sa personne à sa cible ou inversement. Quand il utilise les sens de sa cible, son propre corps est [[assourdi|sourd]] et [[aveuglé|aveugle]] : il perçoit par les sens normaux et spéciaux de la cible (comme la [[vision dans le noir]]) au lieu des siens.

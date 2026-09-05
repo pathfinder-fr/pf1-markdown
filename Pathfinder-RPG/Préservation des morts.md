@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (du sel et une pièce de cuivre pour chaque œil du mort)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** cadavre touché  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort permet de préserver la dépouille d’un mort afin d’empêcher la décomposition, ce qui a pour effet de rallonger le délai au bout duquel on ne peut plus le ramener à la vie (voir *[[rappel à la vie]]*). Les jours passés sous l’effet de *préservation des morts* ne sont pas comptabilisés dans la limite imposée par *[[rappel à la vie]]*. Ce sort rend le transport d'un camarade défunt moins désagréable.

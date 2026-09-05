@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[Magus]] 5, [[occultiste|Occ]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G, M]] (un parchemin vierge ou magique ; voir texte)  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Réflexes 1/2 dégâts]] ; voir texte ; **Résistance à la magie** oui
 
 Quand le personnage lance ce sort, il réduit rapidement un parchemin en lambeaux et envoie les morceaux virevolter autour de sa cible, lui infligeant un millier de petites coupures. Si le personnage utilise un parchemin ordinaire, le sort inflige 1d6 points de dégâts tranchants magiques par [[NLS|niveau de lanceur de sorts]] (15d6 au maximum).

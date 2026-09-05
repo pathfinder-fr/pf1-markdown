@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** étendue de 6 m de rayon  
-
 **Durée** [[instantanée]] (1d4 rounds) ; voir description  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Ce sort permet au lanceur de sorts de faire appel à la puissance du [[Mauvais|Mal]] pour châtier ses ennemis. La réponse des dieux du [[Mauvais|Mal]] prend la forme d’un nuage de ténèbres denses et glacées. Seules les créatures [[alignement|Bonnes]] ou [[Neutre|Neutres]] sont affectées ; celles qui sont d’[[alignement|alignement Mauvais]] ne risquent rien.

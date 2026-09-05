@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[ligne]] de 18 m (12 {s:c}) de long émanant du jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le lanceur de sorts projette de puissantes vagues d’énergie dans une direction qu’il choisit et celles-ci repoussent tous les objets en bois situés dans la [[zone deffet|zone d’effet]] jusqu’à la limite de la portée du sort. Les objets de plus de 7,5 cm de diamètre qui sont fermement fixés ne sont pas affectés, mais ceux qui ne sont pas attachés le sont. Les objets dont le diamètre mesure 7 cm ou moins et qui sont attachés volent en éclats qui sont ensuite repoussés par le sort. Les objets déplacés par le sort s’éloignent à une vitesse de 12 m (8 {s:c}) par [[round]].

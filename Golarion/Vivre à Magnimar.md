@@ -49,22 +49,14 @@ Quant aux objets qui ne sont pas dans ces listes, ils ne sont pas traditionnelle
 </tr>
 <tr>
 <td>5 Nourriture et objets courants  
-
 7 Matériel d'aventurier de 10 po ou moins  
-
 7 Habits : paysan, moine, explorateur, voyage  
-
 9 Armes courantes légères</td>
 <td>10 Matériel d’aventurier de 10 à 9999 po  
-
 12 Matériel de classes inférieur à 70 po  
-
 12 Habits, tous autre que noble et royal  
-
 13 Armes courantes  
-
 13 Armures légères  
-
 14 Animal et équipement inférieur à 100 po</td>
 </tr>
 <tr>
@@ -73,32 +65,19 @@ Quant aux objets qui ne sont pas dans ces listes, ils ne sont pas traditionnelle
 </tr>
 <tr>
 <td>15 Matériel de classes supérieur à 70 po  
-
 19 Habits : noble et royal  
-
 19 Armes courantes de maître  
-
 17 Armes de guerre  
-
 17 Armures intermédiaires ou légères de maître  
-
 18 Animal et équipement inférieur à 200 po  
-
 18 Objet magique inférieur à 150 po  
-
 19 Poisons, inférieur à 200 po</td>
 <td>22 Clepsydre et longue-vue  
-
 23 Armes de guerre de maître  
-
 21 Armes exotiques  
-
 21 Armures lourdes ou intermédiaires de maître  
-
 22 Cheval de guerre entraîné  
-
 23 Objet magique inférieur à 500 po  
-
 24 Poisons, inférieur à 1000 po</td>
 </tr>
 </table>
@@ -145,23 +124,16 @@ Organisation : les Mouches
 <tr STYLE="vertical-align: top;">
 <td><b>Domaines d'activité</b></td>
 <td>Magie divine 0  
-
 Magie profane 2  
-
 Militaire 1  
-
 Infiltration 5</td>
 </tr>
 <tr STYLE="vertical-align: top;">
 <td><b>Grades</b></td>
 <td>Larve 1  
-
 Lucilie 2  
-
 Mouche 3  
-
 Stomoxe 4  
-
 Juge 5</td>
 </tr>
 <tr STYLE="vertical-align: top;">

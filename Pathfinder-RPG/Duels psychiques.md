@@ -33,15 +33,12 @@ Les manifestations psychiques sont alimentées par l’énergie psychique, repr�
 Pour créer une manifestation psychique, le combattant a quatre manières de générer des PM : via ses valeurs de caractéristique, via ses pouvoirs de classe, en sacrifiant des sorts ou en sacrifiant des pouvoirs magiques. Chacune de ces méthodes ne s’utilise qu’une fois par manifestation. Par exemple, un personnage pistolier 1/magicien 8 peut générer 1 PM grâce à ses valeurs de caractéristique, 1 PM grâce à son audace et 2 PM en sacrifiant un sort de niveau 2. Il atteint alors sa limite de 4 PM par manifestation mais il n’aurait pas pu le faire en sacrifiant quatre sorts de niveau 1. Si un combattant n’utilise pas tous les points de manifestation générés de suite, il perd les points en trop. La génération de PM à partir des caractéristiques ne réduit pas ces dernières mais elle a d’autres conséquences sur le combattant une fois le duel [[Duels psychiques#CONCLUREUNDUELPSYCHIQUE|terminé]]. Toutes les autres sources de PM vident les ressources dépensées dans le monde réel également.
 
 **Générer des PM à partir d’une valeur de caractéristique.**  
-
 Chaque combattant commence son duel avec une réserve de PM égale à ses [[DV]] + la moyenne de son [[Intelligence]], sa [[Sagesse]] et son [[Charisme]]. Le combattant peut puiser dans cette réserve par une [[action libre]] pour générer des PM. Un combattant qui puise dans cette réserve, peu importe combien de points, est [[États préjudiciables#Fatigué|fatigué]] dès qu’il quitte le [[paysages mentaux#PAYSAGESMENTAUXBINAIRES|paysage mental binaire]]. S’il puise la moitié ou plus de ces points, il est [[États préjudiciables#Épuisé|épuisé]] en quittant le paysage et subit un malus de –4 à l’[[Intelligence]], la [[Sagesse]] et le [[Charisme]] pendant les 24 heures suivantes. Si le combattant vide toute sa réserve, il est [[États préjudiciables#Inconscient|inconscient]] quand il quitte le paysage. La fatigue, l’épuisement, l’inconscience et le malus de –4 ignorent toutes les immunités et persistent pendant 24 heures. Il est impossible de s’en débarrasser avant le terme de cette durée, à moins de recourir à un *[[souhait]]* ou un *[[miracle]]*.
 
 **Générer des PM via un pouvoir de classe.**  
-
 Un combattant disposant d’une [[magus#RESERVEMAGIQUE|réserve magique]], d’[[Pistolier#AUDACE|audace]], de [[moine#RESERVEDEKI|ki]], de [[bretteur#PANACHE|panache]] ou [[psychiste#RESERVEPHRENIQUE|phrénique]] (ou d’un pouvoir de classe similaire approuvé par le MJ) peut dépenser des points issus de ces réserves par une [[action libre]] pour générer des PM au taux de 1 PM par point dépensé. Sacrifier un sort pour générer des PM. Un combattant peut sacrifier un unique emplacement de sort (pour les lanceurs de sorts spontanés) ou un sort préparé (s’il prépare ses sorts) pour générer un nombre de PM égal au niveau du sort sacrifié. Les [[alchimiste|alchimistes]] et les [[enquêteur|enquêteurs]] peuvent sacrifier un emplacement supplémentaire comme s’il s’agissait d’un emplacement de sort mais seulement si cet emplacement est libre et non dédié à un extrait physique.
 
 **Sacrifier un pouvoir magique pour générer des PM.**  
-
 Un combattant peut sacrifier une utilisation de pouvoir magique pour générer des PM comme il le ferait avec un sort. Cependant, les pouvoirs utilisables à volonté se sacrifient une seule fois par duel psychique, ce ne sont pas des sources infinies de PM.
 
 {s:Reference|CRÉERUNEMANIFESTATIONPSYCHIQUE}
@@ -89,15 +86,10 @@ PM dépensés pour les dégâts Nombre de dés de dégâts
 Le type de dé de dégâts de la manifestation dépend de la source des PM de la manifestation. Les sorts et pouvoirs magiques psychiques sacrifiés donnent des d8. Les sorts profanes et les autres pouvoirs magiques donnent des d6. Toutes les autres méthodes de génération (y compris les méthodes mixtes) donnent des d4. Si l’attaque de la manifestation se résout contre la [[CA]] ou la [[valeurs de combat#ATTAQUESDECONTACT|CA au contact]], c’est un critique potentiel infligeant le double des dégâts normaux en cas de 20 naturel. Si la manifestation autorise un jet de sauvegarde, le créateur peut dépenser des PM supplémentaires pour ajouter l’un des états préjudiciables issus de la liste donnée plus bas (il doit tout de même dépenser 1 PM pour les dégâts). Un jet de sauvegarde réussi annule toujours cet état. Les états préjudiciables reçus lors d’un duel psychique se dissipent si le duel se termine avant la fin de leur durée normale. En dehors des exceptions et ajouts indiqués dans la liste des états préjudiciables suivante, ces états fonctionnent comme à l’accoutumée.
 
 *Aveugle (3 PM).* Les créatures affectées sont [[États préjudiciables#Aveuglé|aveugles]] pour 1 round. Elles ne peuvent pas utiliser de manifestations offensives obligeant à faire un jet de sauvegarde.  
-
 *Confus (3 PM).* Les créatures affectées sont [[États préjudiciables#Confus|confuses]] pour 1 round, ce qui brise automatiquement leur concentration. Si une créature affectée est obligée d’attaquer la créature la plus proche, elle attaque la [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créature de pensée matérialisée]], s’il en a une, ou son adversaire s’il n’en a pas. Un combattant confus n’attaque jamais sa propre [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créature de pensée matérialisée]] et inversement. Cet état préjudiciable accompagne seulement les manifestations exigeant un jet de [[Volonté]].  
-
 *Enchevêtré (2 PM).* Les créatures affectées sont [[États préjudiciables#Enchevêtré|enchevêtrées]] jusqu’à ce qu’elles dépensent une [[action complexe]] pour mettre fin à cet état. Cet état préjudiciable accompagne seulement les manifestations exigeant un jet de [[Réflexes]].  
-
 *Hébété (4 PM)*. Les créatures affectées sont [[États préjudiciables#Hébété|hébétées]] pendant 1 round. Un combattant hébété peut toujours se concentrer sur ses [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créatures de pensée matérialisée]] et créer des [[duels psychiques#MANIFESTATIONDEFENSIVE|manifestations défensives]] mais il ne peut pas créer de nouvelles [[duels psychiques#CRÉATUREDEPENSÉEMATÉRIALISÉE|créatures de pensée matérialisée]] ni de [[duels psychiques#MANIFESTATIONOFFENSIVE|manifestations offensives]]. Cet état préjudiciable accompagne seulement les manifestations exigeant un jet de [[Volonté]].  
-
 *Nauséeux (4 PM).* Les créatures affectées sont [[États préjudiciables#Nauséeux|nauséeuses]] pendant 1 round. Une créature nauséeuse peut seulement créer des [[duels psychiques#MANIFESTATIONDEFENSIVE|manifestations défensives]]. Cet état préjudiciable accompagne seulement les manifestations exigeant un jet de [[Vigueur]].  
-
 *Secoué (1 PM).* Les créatures affectées sont [[États préjudiciables#Secoué|secouées]] pendant 1d4 rounds. Cet état préjudiciable accompagne seulement les manifestations exigeant un jet de [[Volonté]].
 
 {s:Reference|MANIFESTATIONDEFENSIVE}
@@ -121,21 +113,13 @@ Les manifestations défensives protègent un combattant contre les manifestation
 Une créature de pensée matérialisée est un esclave mental artificiel qui revêt l’apparence que désire son créateur. Pour créer une telle chose, il faut un round entier (comme si le combattant lançait un sort avec un temps d’incantation d’une [[action complexe]]). Elle reste tant que son créateur se concentre sur son existence par des [[action complexe|actions complexes]]. Un combattant ne peut créer qu’une créature de pensée matérialisée à la fois. Une créature de pensée matérialisée doit diriger ses attaques contre une autre créature de pensée matérialisée si une telle créature est présente, sinon, elle peut attaquer l’adversaire de son créateur. Elle attaque au moment où son créateur passe une [[action complexe]] à se concentrer sur elle. Quand une créature de pensée matérialisée est réduite à 0 point de vie ou moins, elle disparaît et son créateur subit un montant de dégâts égal au contrecoup psychique associé à cette créature (voir les statistiques des créatures de pensée matérialisée, plus bas). Le combattant peut renvoyer sa créature de pensée matérialisée par une [[action libre]]. Voici les statistiques d’une créature de pensée matérialisée basique coûtant 1 PM.
 
 **Statistiques d’une créature de pensée matérialisée :**   
-
 **CA.** [[CA]] du créateur ;   
-
 **CA contact.** [[valeurs de combat#ATTAQUESDECONTACT|CA contact]] du créateur ;   
-
 **pv** 1/2 pv actuels du créateur ;   
-
 **BBA ** Niveau de manifestation du créateur + modificateur d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] du créateur (prendre le plus élevé) ;   
-
 **Dégâts.** 1d6 + modificateur d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] du créateur ;   
-
 **Jets de sauvegarde.** bonus aux jets de sauvegarde du créateur ;   
-
 **Contrecoup psychique.** 1d10 + coût en PM de la créature de pensée matérialisée.   
-
 **Améliorations de créature de pensée matérialisée.** Quand un combattant crée une créature de pensée matérialisée, il peut lui ajouter les améliorations suivantes, sans dépasser sa limite de PM.
 
 *Augmentation du bonus de base à l’attaque.* Augmente le coût d’un maximum de 4 PM pour améliorer le bonus d’attaque de toutes les attaques de la créature du même montant.

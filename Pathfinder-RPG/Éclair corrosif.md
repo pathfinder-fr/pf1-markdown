@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
-
 **Durée** 2 [[round|rounds]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[Choisi]]*
 
 Un sort de mots incluant ce mot effet inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur]] (maximum 5d4). Le [[round]] suivant, la cible subit une nouvelle fois les dégâts. Un jet d’[[attaque de contact à distance]] est nécessaire.

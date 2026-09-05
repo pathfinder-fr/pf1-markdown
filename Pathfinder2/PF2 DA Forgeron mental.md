@@ -5,12 +5,10 @@ LastModified: 2022-05-31 17:20
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 *Classe provenant du livre Dark Archives.*  
-
 
 "L'esprit façonne la réalité". Même si cette phrase est entendue un peu partout sur Golarion, elle n'est jamais autant à prendre au pied de la lettre que dans le cas des forgerons mentaux (ou forge-esprits), ces individus dotés d'un mystérieux talent mental qui leur permet de manifester leur esprit sous la forme d'un objet matériel. Certains acquièrent ce pouvoir suite à un entraînement magique avec un ancêtre ou un mentor alors que d'autres le reçoivent en cadeau d'un être supérieur ou par chance, de manière inexpliquée. Quelle que soit la source exacte, vous avez maîtrisé la capacité de façonner une image mentale en une création tangible suffisamment solide pour affecter le monde physique. Vous avez exercé ce pouvoir pour vous aider au combat en façonnant des armes puissantes, limitées uniquement par votre imagination.
 

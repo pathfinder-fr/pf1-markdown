@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Nécromancie]] ; **Niveau** [[médium|Méd]] 4, [[Occultiste|Occ]] 5, [[psychiste|Psy]] 5, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (petit miroir en argent)  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** créature intangible ou apparition  
-
 **Durée** 1 heure/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage piège la cible dans le miroir qui lui sert de focalisateur. Une fois dans le miroir, plus rien ne peut affecter cette cible.

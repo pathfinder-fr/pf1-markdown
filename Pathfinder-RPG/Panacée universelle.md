@@ -14,15 +14,10 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** voir plus bas
 
 Ce sort crée quelques effets de tours de magie liés à la santé du personnage, à son bien-être et à ses divertissements. La panacée n’a pas d’effets secondaires (par exemple, la panacée d’ivresse ne donne pas la gueule de bois). Quand le personnage utilise la *panacée universelle*, il choisit l’un des effets suivants.

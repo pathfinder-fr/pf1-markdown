@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] (voir texte); **Résistance à la magie** oui
 
 La peau du personnage se couvre de bubons boursouflés gonflés de pus qui éclatent si on le frappe. Toute créature qui frappe le personnage avec son corps ou une arme tenue en main inflige des dégâts normaux mais subit 1d6 points de dégâts d'acide et doit réussir un [[jet de sauvegarde]] ou être [[fiévreux]] pendant 1 round. Si l'attaque portée contre le personnage est un coup critique, l'attaquant est [[nauséeux]] et non [[fiévreux]] s'il rate son [[jet de sauvegarde]]. Ces dégâts peuvent blesser les nuées.

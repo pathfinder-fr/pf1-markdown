@@ -10,13 +10,9 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[barde]] 2, [[conjurateur]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible est [[chancelant|chancelante]] pendant la durée de l’effet. Elle peut faire un nouveau [[jet de sauvegarde]] contre celui-ci à la fin de chaque tour ; en cas de réussite, l’effet prend fin.  
-
 :**Augmentation :** La cible ne reçoit aucun [[jet de sauvegarde]] supplémentaire pour mettre fin à l’effet. Si elle rate le premier, elle est [[chancelant|chancelante]] pour toute sa durée.

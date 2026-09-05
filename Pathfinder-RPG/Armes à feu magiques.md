@@ -14,7 +14,6 @@ Categories:
 <div class="BD" align="center">
 {s:Reference|CHARGEETANCHE}{s:BDTitre|Charge étanche|}
 Cette propriété s’applique uniquement aux [[cartouche alchimique|cartouches alchimiques]] ou [[cartouche métallique|métalliques]] des [[armes à feu]]. On les utilise pour charger un [[pistolet]] sous l’eau ou dans un environnement privé d’air comme un vide. La propriété protège le contenu de la cartouche lors du chargement et crée une bulle d’air résiduel autour d’elle, ce qui protège la munition et permet de tirer en l’absence d’air. Une fois la cartouche chargée, la bulle d’air reste 3 minutes ou jusqu’à ce que le personnage tire la cartouche, selon ce qui se produit en premier.  
-
 Quand un personnage utilise une [[armes à feu|arme à feu]] sous l’eau, elle subit tout de même un malus de -2 au [[jet dattaque|jet d’attaque]] pour chaque tranche de 1,50 m (1 {s:c}) qui la sépare de sa cible, même si elle utilise ce genre de munition, en plus du [[Facteur de portée|malus de distance]] habituel. Quand le personnage utilise une *charge étanche*, son arme explose en cas de [[long feu]] même s’il se trouve sous l’eau ou dans un environnement privé d’air.
 (((Caractéristiques)))
 - **Aura** [[Abjuration]] faible ; **NLS** 3 ; [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[bulle dair|bulle d’air]]* ; **Prix** 30 po par [[cartouche]] ou 1 500 po les 50
@@ -103,7 +102,6 @@ Cette amulette est généralement fabriquée à partir des restes de balles util
 **Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement** - (voir plus bas) ; **Prix** 2 000 po ; **Poids** 0,5 kg
 (((Description)))
 Cette corne magique contient vingt doses de [[poudre noire]]. Quand on s’en sert pour charger directement une arme, elle crée une poche d’air qui enveloppe le [[pistolet]] et permet de tirer sous l’eau ou dans une zone privée d’air. Une fois le [[pistolet]] chargé à l’aide de la *corne*, la poche d’air reste 10 minutes ou jusqu’à ce que le [[pistolet]] tire un coup de feu, selon ce qui se produit en premier.  
-
 Quand un personnage utilise une [[armes à feu|arme à feu]] chargée avec la corne sous l’eau, elle subit tout de même un malus de -2 au [[jet dattaque|jet d’attaque]] pour chaque tranche de 1,50 m (1 {s:c}) qui la sépare de sa cible, en plus du [[Facteur de portée|malus de distance]] habituel. Quand le personnage utilise la corne pour charger son arme, cette dernière explose en cas de [[long feu]] même si elle se trouve sous l’eau ou dans un environnement privé d’air.
 (((Fabrication)))
 **Conditions requises** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bulle dair|bulle d'air]]* ; **Prix** 1 000 po
@@ -145,9 +143,7 @@ Cette lunette se fixe sur une [[arme à feu]] à deux mains. Elle fait alors par
 **Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** - ; **Prix** 10 000 po ; **Poids** 0,5 kg
 (((Description)))
 Cette *[[statuette merveilleuse]]* utilise les mêmes règles générales que les autres objets de même type.  
-
 Cette statuette représente une araignée aux courtes pattes que l’on peut utiliser une fois par jour pendant une minute. Quand on l’active, elle développe de longues pattes segmentées et gambade sur son propriétaire pour débarrasser ses robes de leurs peluches, son armure de sa crasse ou autre. Si on le lui ordonne par une [[action libre]], elle se perche sur le canon d’une [[arme à feu]] à une ou deux mains et, dès que le personnage tire, elle se précipite vers la gueule de l’arme pour la nettoyer. À chaque fois qu’elle nettoie l’arme, le coup suivant ne peut pas faire [[long feu]].  
-
 Quand l’*araignée d’ardoise* est activée, elle a 1 [[PV|point de vie]] et elle est considérée comme un objet tenu. Elle ne quitte jamais volontairement la case de son propriétaire.
 (((Fabrication)))
 **Conditions requises** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[animation dobjets|animation d'objets]]* ; **Prix** 5 000 po

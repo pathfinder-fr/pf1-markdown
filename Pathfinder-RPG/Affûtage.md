@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** arme touchée ou 50 projectiles devant être en contact les uns avec les autres au moment de l’incantation  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort augmente le tranchant d’une arme, donc les chances qu’elle a de porter des coups plus importants. La [[zone de critique]] possible de l’arme affectée est alors doublée. Une [[zone de critique]] possible normale devient 19–20. Une zone de 19–20 passe à 17–20. Une zone de 18–20 devient 15–20. Il ne fonctionne que sur les armes tranchantes et perforantes. Lancé sur des flèches ou des carreaux d’arbalète, l’*affûtage* de chaque projectile cesse de faire effet après usage, qu’il ait atteint sa cible ou non. Les shuriken sont considérés comme des flèches et non comme des armes de jet pour ce sort

@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature/[[niveau]], distantes de moins de 9 m les unes des autres  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 De l’[[énergie négative]] part dans toutes les directions depuis le point d’origine, infligeant 1d8 points de dégâts, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +25), à toutes les créatures vivantes situées alentour.

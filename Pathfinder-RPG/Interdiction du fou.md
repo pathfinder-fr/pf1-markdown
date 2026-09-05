@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 6, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un trousseau de clefs)  
-
 **Portée** 3 m (2 {s:c})  
-
 **Zone** émanation sphérique de 3 m (2 {s:c}) de rayon centrée sur le lanceur de sorts  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 À force de singeries et de démonstrations, le personnage crée une zone protégée qui affecte négativement les ennemis qui tentent d'y pénétrer. Quand un adversaire entre dans cette zone, il doit immédiatement faire un jet de [[Volonté]]. S'il échoue, il est [[confus]] tant qu'il se trouve dans la zone d'effet et pendant 1 [[round]] après l'avoir quittée. S'il réussit son [[jet de sauvegarde]], il est [[chancelant]] tant qu'il reste dans la zone et pendant 1 [[round]] après l'avoir quittée.

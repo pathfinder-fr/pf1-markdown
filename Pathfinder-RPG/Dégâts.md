@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] ; **Niveau** [[barde]] 3, [[ensorceleur]]/[[magicien]] 2, [[prêtre]] 3  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 Ce mot effet provoque la perte de la moitié de ses points de vie et l’obtention de la condition [[brisé|cassé]] chez un objet situé dans la portée du sort. Cet objet ne doit pas peser plus de 5 kilos par [[NLS|niveau de lanceur]]. Les objets magiques bénéficient d’un bonus de +4 au [[jet de sauvegarde]], en plus de leur bonus normal, afin de résister à cet effet. Les objets appartenant à une créature utilisent le [[jet de sauvegarde]] de celle-ci ou de l’objet, selon ce qui est le plus favorable. Les [[artefacts]] ne sont pas affectés par ce mot.

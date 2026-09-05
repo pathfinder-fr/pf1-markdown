@@ -12,15 +12,10 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Rôdeur|Rôd]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** le compagnon animal  
-
 **Durée** 1 minute/[[niveau]]
 
 Le lien qui unit le personnage et son [[compagnon animal]] se renforce. Tant que le personnage reste dans le champ de vision de son [[compagnon animal|compagnon]], il peut communiquer avec lui par télépathie comme s’ils partageaient le même langage. De plus, tant qu’il reste dans le champ de vision de l’animal, il peut le pousser avec une [[action rapide]] au lieu d’une [[action de mouvement]] et il n’a pas besoin de faire de test de [[Dressage]] pour le gérer, il réussit automatiquement le test.

@@ -11,15 +11,10 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)
 
 Par une [[action simple]], le personnage peut se changer en éclair de foudre et se déplacer instantanément en ligne droite sur une distance maximale de 36 mètres. Il se matérialise à nouveau à son point d’arrivée par une [[action libre]]. Ce déplacement ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Les créatures qui se trouvent sur son chemin reçoivent 10d6 points de dégâts électriques et sont [[chancelant|chancelantes]] pendant 1 [[round]] (jet de [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et ne pas [[chancelant|chanceler]], on applique la [[résistance à la magie]]). Les objets qui se trouvent sur le trajet du personnage subissent aussi des dégâts : les combustibles s’embrasent et les métaux avec un point de fusion très bas se mettent à fondre. Si le chemin du personnage est interrompu par une barrière ou s’il est détourné, ce dernier se matérialise le plus près possible de sa destination finale, dans une case libre. Les cibles qui se trouvent entre son point de départ et son nouveau point d’arrivée subissent des dégâts normaux. Tant que le sort fait effet, le personnage est immunisé contre l’électricité.

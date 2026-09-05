@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, F]] (le coffre et son double)  
-
 **Portée** voir description  
-
 **Cible** 1 coffre et jusqu’à 30 dm³ de possessions/niveau de lanceur de sorts  
-
 **Durée** 60 jours ou jusqu’à utilisation  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à ce sort le personnage peut dissimuler un coffre dans le [[plan Éthéré]] pendant soixante jours et de le récupérer à volonté. Le coffre peut contenir 30 dm³ par [[niveau]] du mage (sans tenir compte de ses dimensions, qui sont de l’ordre de 90 cm x 60 cm x 60 cm). Si l’on place un être vivant dans le coffre, le sort a tout simplement 75 % de risques d’échouer. Une fois le coffre envoyé, le personnage peut le récupérer en se [[concentration|concentrant]] (ce qui compte pour une [[action simple]]) ; le coffre réapparaît alors ses côtés.

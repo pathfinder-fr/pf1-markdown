@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[conjurateur]] 1, [[ensorceleur]]/[[magicien]] 1, [[magus]] 1, [[prêtre]] 1, [[sorcière]] 1  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet reçoit un bonus d’armure de +4 à la [[CA]]. Cette armure est un champ de force et protège des attaques des créatures [[intangible|intangibles]].

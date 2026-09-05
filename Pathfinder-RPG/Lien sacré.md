@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 round  
-
 **Composantes** [[Composantes|V, G, F]] (une paire de bracelets dorés d'une valeur de 100 po chacun, un porté par la cible, l'autre par le personnage)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]] (voir description)  
-
 **Cible** créature touchée  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Pour utiliser ce sort, le personnage doit tout d'abord toucher le récipiendaire afin de créer un champ d'énergies bénéfiques entre eux. Une fois le sort lancé, le personnage et la cible peuvent lancer des sorts d'[[Invocation]] ([[branche guérison|guérison]]) avec une portée définie comme « [[Présentation des sorts#PORTEE|contact]] » alors qu'ils se trouvent à courte portée l'un de l'autre (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]). Si le personnage ou la cible ôte son bracelet, le sort se termine immédiatement.

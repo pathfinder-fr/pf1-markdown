@@ -14,17 +14,11 @@ Categories:
 
 {s:racial|Aquatique (race)|aquatiques|Illustrations/PNJ/Aquatique.jpg}{s:MR}
 **École** [[Transmutation]] ; **Niveau** [[Pathfinder-RPG.druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[Pathfinder-RPG.prêtre|Prê]] 2, [[Pathfinder-RPG.sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[Pathfinder-RPG.action simple|action simple]]  
-
 **Composantes** [[Pathfinder-RPG.Composantes|V, G, M/FD]] (algues)  
-
 **Portée** contact  
-
 **Cible** créatures vivantes touchées  
-
 **Durée** 1 heure/[[Pathfinder-RPG.niveau|niveau]] ; voir description  
-
 **Jet de sauvegarde** [[Pathfinder-RPG.Volonté|Volonté]] [[Pathfinder-RPG.Présentation des sorts|annule]] ; **Résistance à la magie** oui
 
 Les cibles peuvent respirer librement sous l’eau. Néanmoins, elles ne peuvent plus respirer d’air. Divisez la durée de manière égale entre toutes les créatures que vous touchez. Ce sort n’a aucun effet sur les créatures qui peuvent déjà respirer sous l’eau.

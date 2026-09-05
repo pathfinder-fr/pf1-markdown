@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[druide]] 3, [[ensorceleur]]/[[magicien]] 3, [[magus]] 3, [[sorcière]] 3  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restrictions de cible** *[[explosion]]* (émanation)
 
 Ce mot effet déclenche de lourdes chutes de neige dans la zone d’effet. Il fournit le même [[camouflage]] que la *[[nappe de brouillard (mot de pouvoir)|nappe de brouillard]]*, mais le vent ne le dissipe pas. De plus, le terrain devient difficile pendant toute la durée de l’effet et il est très glissant pour tout ce qui se rapporte aux tests d’[[Acrobaties]] et d’[[Escalade]].

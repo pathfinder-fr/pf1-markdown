@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur de lames tourbillonnantes de 6 m (4 {s:c}) de long/[[niveau]], ou anneau de lames tourbillonnantes de 1,50 m (1 {s:c}) de rayon/2 [[niveau|niveaux]] ; 6 m de haut dans les deux cas  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Cette [[évocation]] fait apparaître un mur de lames effilées comme des rasoirs tourbillonnant autour d’un point central, créant une barrière immobile et verticale. Toute créature tentant de la franchir subit 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 15d6). Un jet de [[Réflexes]] réussi permet de réduire ces dégâts de moitié.

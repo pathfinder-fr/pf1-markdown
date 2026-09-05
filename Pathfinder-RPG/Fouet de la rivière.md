@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[[</nowiki>eau<nowiki>]]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 0 m  
-
 **Effet** fouet d’eau  
-
 **Durée** 1 minute/niveau (T) ou jusqu’à déchargement (cf. texte)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée une lanière d’eau claire qui fonctionne comme un fouet adapté à sa taille, à la seule différence qu’il effectue une attaque de contact au corps à corps plutôt qu’une attaque normale. Tout ce que touche le personnage avec le fouet reçoit des dégâts et se fait imbiber d’un demi-litre d’eau. Une créature de sous-type feu reçoit 1d6 points de dégâts supplémentaires. Si la cible est en feu, elle bénéficie d’un bonus de +2 à son prochain jet de sauvegarde pour éteindre les flammes.

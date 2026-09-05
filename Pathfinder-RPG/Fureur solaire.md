@@ -12,17 +12,11 @@ Categories:
 
 {s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#MALEDICTION|malédiction]], [[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 2, [[sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le lanceur de sorts maudit la cible, la forçant à endurer une [[Dangers naturels#CHALEUR|chaleur]] accablante. Sur un jet de sauvegarde raté, la cible est aussitôt la proie d’une chaleur intense, reçoit 1d4 points de dégâts non létaux et souffre d’un coup de chaleur (fatiguée). Elle doit réussir un jet de sauvegarde normal contre la chaleur accablante toutes les 10 minutes (en commençant avec un DD de 15 plutôt que le DD du sort).

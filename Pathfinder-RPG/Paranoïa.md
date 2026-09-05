@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[psychiste|Psy]] 2, [[sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 [[round]]/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible prend tout le monde pour un adversaire. Elle se montre hostile envers toutes les créatures et traite tout le monde en ennemi, elle ne considère que sa propre personne comme un allié. Elle doit faire une [[valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]] dès qu’une créature lui en donne l’occasion. Enfin, quand elle est adjacente à une ou deux créatures, elle se laisse submerger par la paranoïa et subit un malus de –2 aux jets d’attaque, de dégâts des armes et de sauvegarde, ainsi qu’aux tests de caractéristique et de compétence.

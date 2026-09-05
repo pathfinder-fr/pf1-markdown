@@ -5,7 +5,6 @@ LastModified: 2021-11-23 03:24
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Cette page est la traduction d'une aide de jeu partagée par Jason Tondro (@doctorcomics sur Twitter) et disponible en anglais à l'adresse suivante : [lien GoogleDrive](https://drive.google.com/file/d/1YJJueHtxpqJqqtXT1Rp3kqJB4Y7PBj03/view).

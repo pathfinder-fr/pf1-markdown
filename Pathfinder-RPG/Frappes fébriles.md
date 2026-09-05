@@ -16,17 +16,11 @@ Categories:
 
 {s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:MR}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#MALADIE|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Druide|Dru]] 2, [[Magus]] 3, [[Rôdeur|Rôd]] 4, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 action simple  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sort  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le lanceur de sorts est en proie à la [[Maladies|maladie]] et toutes les créatures qui le frappent avec [[Actions simples#ATTAQUECORPSACORPS|une attaque de corps à corps]] doivent réussir un jet de [[Vigueur]] ou être [[États préjudiciables#Fiévreux|fiévreuses]] pendant 1 minute. Les créatures immunisées aux maladies sont immunisées à cet effet de fièvre.

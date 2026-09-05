@@ -52,8 +52,6 @@ Categories:
 Perfides et venimeux, les ghawwas polluent les mers et cherchent à apporter la destruction à tous ceux qui y vivent.
 Les ghawwas sont un mélange entre un énorme humanoïde, un poisson préhistorique et un poisson benthique venimeux. Si la plupart des ghawwas vivent dans les eaux salées, ils se téléportent parfois dans des oasis pour les souiller ou les
 assécher. Bien qu’ils considèrent tous les mortels comme leurs ennemis, les ghawwas en veulent surtout aux créatures pacifiques amphibies telles que les hommes-poissons et les locathahs.  
-
 Aucun ghawwas ne supporte le son des cloches qui les met en rage : ils recherchent alors la source du son pour détruire les cloches et le sonneur.  
-
 Le ghawwas mesure 3,6 mètres et pèse près de 600 kilos.
 </div></td></tr></table>

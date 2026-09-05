@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une goutte de mélasse)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]])/(5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature/[[niveau]], distantes de moins de 9 m/6 {s:c} les unes des autres  
-
 **Durée** 1 [[round]]/niveau  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Les créatures affectées par ce sort se déplacent et attaquent bien plus lentement. Leur tour de jeu est limité à une [[action de mouvement]] ou à une [[action simple]], mais pas les deux (les [[action complexe|actions complexes]] sont impossibles). Dans le même temps, elles subissent un malus de –1 à la [[CA]] et aux [[jet dattaque|jets d’attaque]] et de [[Réflexes]]. Les individus ralentis voient leur [[vitesse de déplacement]] normale réduite de moitié (arrondir à la tranche de 1,50 m/1 case inférieure), ce qui réduit également leur [[Acrobaties#SAUTER|distance de saut]].

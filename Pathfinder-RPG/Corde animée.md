@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 corde (ou objet assimilé) ne dépassant pas une longueur de 15 m + 1,50 m/[[niveau]] (voir description)  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet d’animer tout objet s’apparentant à une corde. La longueur maximale stipulée correspond à une corde de 2,5 cm de diamètre. Réduisez-la de 50 % chaque fois que le diamètre est doublé, ou augmentez-la d’autant s’il est réduit de moitié.

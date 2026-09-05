@@ -11,15 +11,10 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]], voir texte
 
 Le personnage choisit une créature qu’il a blessée et qui se trouve dans les 18 mètres. Si elle a une vitesse de creusement, d’escalade, de nage ou de vol, il en bénéficie pendant la durée du sort, à la même vitesse et avec la même manœuvrabilité que la créature choisie. Si le personnage acquiert ainsi une vitesse de creusement ou de nage, il peut respirer sous terre ou sous l’eau. Si la créature s’éloigne de plus de 300 mètres du personnage, le sort se termine. Si celle-ci possède plusieurs types de mouvement, le personnage en choisit un.

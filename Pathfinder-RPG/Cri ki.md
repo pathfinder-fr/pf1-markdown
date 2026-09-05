@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage pousse un aboiement guttural et envoie une décharge d’énergie sonore soudaine qui frappe son adversaire.

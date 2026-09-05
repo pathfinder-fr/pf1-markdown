@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 4, [[médium|Méd]] 3, [[occultiste|Occ]] 4, [[psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 [[round]]/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage accède aux souvenirs et connaissances de la cible. Il peut tenter de découvrir la réponse à une question par round. Un jet de [[Volonté]] réussi met fin au sort, sinon, la créature peut tenter un test de [[Bluff]] DD 11 + modificateur de [[Psychologie]] du personnage. Si elle rate le test, le personnage obtient l’information désirée, si elle le réussit, il n’obtient aucune information. Si elle le réussit de 5 ou plus, elle donne la réponse qu’elle veut et le personnage est persuadé d’avoir obtenu le bon renseignement. Les questions du personnage se posent entièrement par télépathie et les réponses arrivent directement dans son esprit, le personnage et la cible n’ont donc pas besoin de partager un même langage, bien que les créatures à l’intelligence limitée puissent n’offrir que des images sensorielles en réponse aux questions posées.

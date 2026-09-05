@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** 1 jour/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** non
 
 Le personnage absorbe dans son corps le prochain objet qu'il touche de sa main. S'il tient déjà un objet, il peut tenter de l'absorber, sinon, il peut en toucher un par une [[action simple]] séparée de l'incantation du sort. Il peut absorber n'importe quel objet non magique et non vivant qui pèse moins de 500 grammes par [[NLS|niveau de lanceur de sorts]]. Un conteneur et son contenant comptent comme un seul objet. Les objets qui se trouvent en possession d'une autre créature ont droit à un jet de [[Vigueur]] pour ne pas être absorbés. Le personnage peut continuer à essayer d'absorber l'objet jusqu'à ce qu'il y parvienne.

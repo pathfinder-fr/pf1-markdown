@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche mirage|mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un écheveau de fils multicolores)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** voile transparent de 12 m (8 {s:c}) de long et 6 m (4 {s:c}) de haut  
-
 **Durée** [[présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort crée un voile transparent aux couleurs changeantes constitué de fils de lumière multicolores qui dessinent des formes étrangères variées. Le voile possède un côté inoffensif que le personnage choisit au moment de l’incantation. L’autre se tord et se contorsionne pour tracer des formes impossibles qui affectent toutes les créatures qui le voient à moins de 18 mètres (12 {s:c}). Le voile affecte un maximum de 24 [[DV]] de créatures et touche en premier celles qui possèdent le moins de [[DV]]. Si plusieurs créatures ont le même nombre de [[DV]], il affecte d’abord celles qui sont les plus proches. L’effet dépend du nombre de [[DV]] de la créature.

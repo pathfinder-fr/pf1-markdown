@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une pincée de sel et de poivre)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché qui pèse jusqu'à 0,5 kg/[[niveau]]  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** oui (objet)
 
 Le personnage peut transformer un objet qui pèse jusqu'à 0,5 kg par niveau de lanceur de sorts en une substance comestible que toute créature vivante peut mâcher, avaler et digérer en toute sécurité. Quelle que soit la nature originelle de cette nourriture, elle n'a pas de goût et possède une consistance légèrement caoutchouteuse. Une livre de cet aliment suffit à nourrir une créature de taille M pendant une journée.

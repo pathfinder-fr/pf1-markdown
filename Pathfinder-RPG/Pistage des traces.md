@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[école divination|Divination]] ; **Niveau** [[Occultiste|Occ]] 2, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, M]] (un bout de plâtre)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** empreinte touchée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Il suffit que le personnage touche une empreinte pour avoir une nette image mentale de la personne ou de la créature qui l'a laissée. Cette image a exactement la même apparence que la créature au moment où elle a laissé l'empreinte, ce qui comprend son équipement, son matériel ou toute chose qu'elle porte à cet instant. Par exemple, l'empreinte d'un [[cheval]] révèlera aussi bien la monture que le cavalier qui la chevauchait au moment où elle a laissé son empreinte.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Occultiste|Occ]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 12 m (8 {s:c})/[[niveau]]  
-
 **Zone d'effet** cylindre de 12 m (8 {s:c}) de rayon/[[niveau]] et de 12 m de haut  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Cette incantation permet de prendre le contrôle du vent dans la [[zone deffet|zone d’effet]]. Le personnage peut modifier la vitesse de celui-ci, ainsi que la direction dans laquelle il souffle. Une fois ces changements apportés, ceux-ci se maintiennent jusqu’à ce que les effets du sort ne cessent, à moins que le lanceur de sorts veuille les modifier de nouveau, ce qu’il peut faire sur simple [[concentration]]. Il est possible de créer une zone d’accalmie faisant jusqu’à vingt-quatre mètres de diamètre au centre de la zone d’effet, mais également de limiter l’effet du sort à une zone circulaire se conformant aux limites de portée.

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 parchemin ou 2 pages  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Ce sort efface les écrits magiques ou normaux de la surface d’un parchemin ou de deux pages de papier, vélin ou autre matière similaire. Il permet également de supprimer les *[[runes explosives]]*, *[[glyphe de garde|glyphes de garde]]*, *[[sceau du serpent|sceaux du serpent]]* et autres signatures magiques, mais pas les symboles ou les textes illusoires. Les écrits non-magiques sont automatiquement effacés si le lanceur de sorts est le seul à les tenir en main ; si quelqu’un d’autre les tient également, les chances de succès sont de 90 %.

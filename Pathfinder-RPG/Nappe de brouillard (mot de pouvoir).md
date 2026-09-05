@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ([[branche création|création]]) ; **Niveau** [[druide]] 1, [[ensorceleur]]/[[magicien]] 1, [[prêtre]] 1, [[sorcière]] 1  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non  
-
 **Restrictions de cible** *[[barrière]]*, *[[explosion]]* (émanation)
 
 Un brouillard épais et qui ne se déplace pas apparaît dans la zone d’effet du sort. Il réduit la visibilité, y compris la [[vision dans le noir]], au-delà de 1,50 mètre (1 {s:c}). Les créatures situées plus loin bénéficient donc d’un [[camouflage total]]. Un vent modéré ou un [[mots effets#MOTSDEFEU|effet de feu]] dissipe le brouillard dans la zone affectée.

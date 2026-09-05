@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[ensorceleur]]/[[magicien]] 9  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[choisi]]*
 
 Le temps autour de la cible s’arrête et lui permet de faire 1d4 [[action simple|actions simples]] avant de reprendre son cours. Tous les objets et les créatures sont immunisés contre la cible pendant qu’elle fait ses actions supplémentaires. Les autres créatures ne peuvent même pas être prises pour cible lorsque le temps est arrêté de la sorte. Le personnage peut lancer des sorts et utiliser des objets magiques qu’il porte de manière habituelle.

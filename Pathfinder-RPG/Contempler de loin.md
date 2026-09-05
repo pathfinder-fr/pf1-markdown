@@ -12,15 +12,10 @@ Categories:
 ---
 
 {s:AO}** École **[[école Divination|Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[médium|Méd]] 4, [[Occultiste|Occ]] 5, [[psychiste|Psy]] 5, [[spirite|Spi]] 5  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** [[composantes|V, G, M]] (encens)  
-
 **Portée** voir texte  
-
 **Cible** lanceur de sorts  
-
 **Durée** instantanée
 
 Le corps du personnage plonge dans un état de transe tandis que ses sens psychiques gagnent un endroit éloigné pour y recevoir des impressions psychiques. Le personnage doit préciser la direction dans laquelle se trouve l’endroit qu’il désire observer de loin et la distance qui l’en sépare. Le sort ne lui permet pas de voir l’apparence physique des lieux, il n’est donc d’aucune utilité avant un sort de *[[téléportation]]* mais il fournit une impression psychique de l’endroit susceptible de déboucher sur des informations capitales. Par exemple, une forêt habitée par une communauté de fées très soudée peut apparaître sous la forme d’une ville dans les arbres tandis que le magnifique palais d’un roi maléfique gardé par un effet d’interdiction prendra la forme d’une sombre forteresse entourée de chaînes immatérielles.

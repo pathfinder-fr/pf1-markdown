@@ -17,17 +17,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée ou objet touché   
-
 **Durée** 10 minutes/[[niveau]] ou instantanée (voir texte)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le personnage fait vieillir la cible temporairement, ce qui la fait passer à la [[État civil et mensurations#AGE|catégorie d’âge]] supérieure. Elle subit immédiatement les malus de [[Force]], de [[Dextérité]] et de [[Constitution]] de sa nouvelle [[État civil et mensurations#AGE|catégorie d’âge]] mais ne gagne pas les bonus associés. Si la créature est d’âge inconnu, on considère que le sort la fait passer à l’âge mûr. Les créatures immortelles ou sans âge ne sont pas affectées par ce sort.

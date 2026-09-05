@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 jour/[[niveau]] (T) ou jusqu'à déchargement
 
 Quand le personnage boit cet [[alchimiste#EXTRAIT|extrait]], il doit en consommer rapidement un autre de son choix, l'effet de ce dernier ne se manifestera pas avant une date ultérieure. Le personnage doit absorber le second extrait dans le [[round]] qui suit la consommation d<nowiki>'</nowiki>*assimilation retardée* sans quoi il perdra les effets de cette dernière. L'[[alchimiste#EXTRAITS|extrait]] associé ne peut pas dépasser le [[niveau de sort|niveau]] 4 et le personnage doit payer tout prix exigé par cet [[alchimiste#EXTRAITS|extrait]] au moment où il le boit.

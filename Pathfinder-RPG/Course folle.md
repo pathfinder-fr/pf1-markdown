@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[alchimiste]] 1, [[barde]] 1, [[conjurateur]] 1, [[inquisiteur]] 1, [[magus]] 1, [[ensorceleur]]/[[magicien]] 1  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*
 
 La vitesse de marche de la cible augmente de 9 mètres (6 {s:c}) pour toute la durée de l’effet.

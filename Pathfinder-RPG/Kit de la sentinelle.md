@@ -8,9 +8,7 @@ LastModified: 2023-08-15 11:01
 **Source: Heroes of the Streets**
 
 **Prix** 3 po; **Poids** 4,5 kg  
-
 **Catégorie** Matériel d'aventurier (Kits)  
-
 
 
 Ce kit inclue un badge (broche en tin valant 5 pa), un [[Équipement daventurier#Silex et amorce|Silex et amorce]], une [[Équipement daventurier#Applique pour bouclier|Applique pour bouclier]], un [[Équipement daventurier#Sifflet|Sifflet]] d'alarme, et 10 torches.

@@ -16,17 +16,11 @@ Categories:
 
 {s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** Lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun; **Résistance à la magie** non
 
 

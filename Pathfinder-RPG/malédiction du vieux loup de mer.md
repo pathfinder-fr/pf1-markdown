@@ -13,17 +13,11 @@ Categories:
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki>; **Niveau** [[Druide|Dru]] 5, [[Hypnotiseur|Hyp]] 4, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (une fiole d'eau de mer)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature  
-
 **Durée** permanente  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible se sent constamment comme sur une mer agitée, ce qui la rend fiévreuse en permanence. À chaque fois qu’elle se trouve sur l’eau ou dans l’eau à plus de 1,5 kilomètre du rivage, le mal de mer la rend chancelante. Il est impossible de dissiper cette malédiction, mais on peut l’annuler avec une *[[délivrance des malédictions]]* ou une *[[annulation denchantement|annulation d’enchantement]]*.

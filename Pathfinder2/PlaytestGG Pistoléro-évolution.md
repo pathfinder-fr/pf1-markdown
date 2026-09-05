@@ -5,15 +5,12 @@ LastModified: 2021-01-19 15:11
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
-
 • [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Présentation générale
 
 • Voir la [[PlaytestGG Pistoléro|présentation du pistoléro]]  
-
 • Voir les [[PlaytestGG Pistoléro-dons|dons de classe de pistoléro]]
 
 <center>

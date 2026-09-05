@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[Composantes|V, G, M]] (une fiole de vif-argent d'une valeur de 1 000 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** [[eidolon]] du lanceur de sorts  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
 L'[[eidolon]] change et se transforme. Ce sort permet au personnage de modifier l'une des [[eidolon#EVOLUTIONS|évolutions]] précédentes de son [[eidolon]] et d'allouer ses points à une autre. Si le personnage possède également le pouvoir d'[[conjurateur#ASPECT|aspect`]] ou d'[[conjurateur#ASPECTSUPERIEUR|aspect supérieur]], il peut utiliser le sort pour changer les points utilisés pour ses propres modifications, y compris pour retrancher ou rajouter des points selon ce que ces aptitudes permettent.

@@ -23,7 +23,6 @@ Un sort emmagasiné nécessite au minimum un emplacement de sort supérieur de d
 <center>
 {| CLASS="tablo"
 |+    Retard maximal d'un sort emmagasiné      
-
 |- CLASS="titre"
 | Niveau de   
 l'emplacement   

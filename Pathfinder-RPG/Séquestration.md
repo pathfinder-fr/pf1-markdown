@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]] ou voir description  
-
 **Composantes** [[composantes|V, G, M]] (une gemme d’une valeur de 1 000 po par [[DV]] de la créature piégée)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature  
-
 **Durée** [[permanente]] (voir description)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui (voir description)
 
 *Séquestration* permet d’enfermer l’énergie vitale de la cible (et son corps) dans une pierre précieuse. La gemme retient son prisonnier indéfiniment, à moins qu’elle soit brisée, auquel cas la victime se matérialise à nouveau. Si la créature enfermée est une puissante entité issue d’un autre plan, l’individu qui la libère en détruisant la gemme peut la forcer à lui rendre un service mais s’il ne le fait pas immédiatement, l’ancien détenu est libre d’agir comme il l’entend.

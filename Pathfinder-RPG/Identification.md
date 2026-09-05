@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un peu de vin mélangé avec une plume de hibou)  
-
 **Portée** 18 m/12 {s:c}  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** 3 [[round|rounds]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[détection de la magie]]* mais il offre un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Art de la magie]] destinés à découvrir les propriétés et les [[mot de commande|mots de commande]] des objets magiques en possession du personnage.

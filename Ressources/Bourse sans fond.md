@@ -5,11 +5,8 @@ LastModified: 2011-11-12 13:52
 ---
 
 <div style="float:right"><sub>*Proposé par Faenil*</sub>  
-
 *Retour à l'[[RM Index|index des règles maison]].*  
-
 *Voir aussi le [[Pathfinder-RPG.sac sans fond|sac sans fond]].*  
-
 </div><div class="BD">
 {s:BDTitre|Bourse sans fond|}
 **Aura** [[Pathfinder-RPG.Invocation|Invocation]] modérée ; **NLS** 9 ; **Emplacement** — ; **Prix** 3 000 po ; **Poids** 250 g

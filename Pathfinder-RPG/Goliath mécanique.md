@@ -47,7 +47,6 @@ de 6 m (4 {s:c}). Un [[Valeurs de combat#JETDESAUVEGARDE|jet de Réflexes]] DD 2
 
 On comprend facilement que la retentissante créature mécanique appelée un goliath incarne une technologie créée pour détruire. La nature exacte des « mains » du goliath varie, mais elles donnent toutes lieu à des attaques de coup
 en combat au corps à corps.  
-
 Le goliath mécanique domine la plupart des créatures et des bâtiments du haut de ses 13,50 m, et il pèse plus de 100 tonnes.
 
 ### Construction

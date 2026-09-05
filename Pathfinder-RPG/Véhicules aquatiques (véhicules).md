@@ -316,63 +316,43 @@ Tous les bateaux ne sont pas identiques. Les joueurs recherchant un navire plus 
 Les améliorations suivantes peuvent être ajoutées à un bateau.
 
 **Augmentation de la capacité de chargement (Increased Cargo Capacity).** Il s'agit d'un réagencement du navire permettant d'avoir plus de place pour les réservers du bateau. La capacité de chargement du bateau augmente de 10%.  
-
 *Prérequis.* Artisanat (bateaux) DD 22  
-
 *Coût.* 15% du prix de base du bateau
 
 **Bélier (Ram).** Un bélier standard, généralement en bronze ou en fer, est fixé à la proue du bateau. A navire équipé d'un bélier inflige 2D8 points de dégâts additionnels lors d'une manoeuvre d'éperonnage et ignore les dégâts dus à la pénétration dans la première case d'un objet solide ainsi que tous les dégâts d'éperonnage infligés par un créature ou un autre objet (comme un autre navire).  
-
 *Prérequis.* Artisanat (bateaux) DD 10  
-
 *Coût.* 100 po (navire de taille L), 100 po (navire de taille TG), 300 po (navire de taille Gig) ou 1 000 po (navire de taille C)
 
 **Blindage (Armor plating).** En attachant des plaques de métal au bateau, le nombre de pv de la coque augmente de 15% et sa solidité est augmentée de +4. Cette modification réduit la capacité de chargement du navire de 15%. Le blindage ralentit le bateau, imposant une pénalité de -1 à tous les jets de navigation. La vitesse tactique du navire lors d'un combat bord à bord n'est pas affectée, mais sa vitesse de déplacement est réduite de 20%.  
-
 *Prérequis.* Artisanat (bateaux) DD 28  
-
 *Coût.* 30% du prix de base du bateau
 
 **Blindage en bois (Wooden plating).** Pour améliorer sa protection lors d'un combat naval, des planches de bois ont été clouées sur la coque du navire. Le nombre de pv de la coque augmentent de 5% et sa solidité augmente de 2. Néanmoins, cette évolution réduit la capacité de chargement de 10% car les madriers utilisés pour les renforts prennent de la place. La vitesse tactique du navire en combat bord-à-bord n'est pas affectée, mais sa vitesse en pleine mer est réduite de 10%.  
-
 *Prérequis.* Artisanat (bateau)  DD 25  
-
 *Coût.* 20% du prix de base du bateau
 
 **Compartiments secrets (Smuggling compartments).** Les cloisons du navire sont modifiées pour que l'espace ainsi gagné puisse être utilisé comme zone de stockage cachée. Cela ne modifie pas la capacité de chargement du navire. Un compartiment secret peut contenir tout ce qui peut entrer dans un cube d'une case de côté (30 dm<sup>3</sup>) Si vous utilisez les règles sur les butins (voir le chapitre "The life of a pirate" dans l'Adventure Path #55 pour plus de détails sur les butins), en général, deux compartiments secrets sont nécessaire pour obtenir 1 point de buton. Un test de Perception DD 20 est nécessaire pour trouver des compartiments secrets lors de la fouille d'un navire.  
-
 *Prérequis.* Artisanat (bateau)  DD 19  
-
 *Coût.* 500 po par cube (27 dm<sup>3</sup>) de compartiment secret
 
 **Coque effilée (Narrow hull).** Le bateau a été conçu avec une coque plus fine, lui permettant de se glisser dans des chenaux étroits. La largeur du bateau est diminuée de 20% et sa capacité de chargement est réduite de 1°%. Néanmoins, le bateau gagne un bonus de +2 sur tous les jets de navigation. Cette amélioration doit être installée au moment de la construction du bateau et ne peut être ajoutée par la suite.  
-
 *Prérequis.* Artisanat (bateaux) DD 22  
-
 *Coût.* 15% du prix de base du bateau
 
 **Coque robuste (Sturdy hull).** Des supports et couches de bois supplémentaires sont ajoutés à la structure du bateau, le rendant plus épais et plus résistant. La solidité de la coque augmente de 2 mais la capacité de chargement du navire diminue de 10%.  
-
 *Prérequis.* Artisanat (bateau)  DD 16  
-
 *Coût.* 10% du prix de base du bateau
 
 **Coque traitée magiquement (Magically treated hull).** La coque du bateau est traitée magiquement, doublant le nombre de pv et la solidité du bateau. Cette amélioration peut seulement être ajoutée par un lanceur de sorts possédant le don Creation d'Objets Magiques.  
-
 *Prérequis.* Création d'Objets Magiques, Artisanat (bateaux) DD 15  
-
 *Coût.* 4 500 po par case (6 m x 6m) de bateau
 
 **Figure de proue (Figurehead).** Certains bateaux arborent des sculptures extravagantes sur leur beaupré. Cette modification est strictement décorative, sans réel impact sur le jeu. Les joureurs sont encouragés à déssiner leurs propres figures de proues (comme des dauphins, des sirènes et autres créatures mythiques du même genre).  
-
 *Prérequis.* Artisanat (sculpture) DD 10  
-
 *Coût.* 100 à 1 000 po suivant le port et l'artisan
 
 **Fond de verre (Glass bottom).** De grandes vitres sont installées au fond du navire, permettant à ceux qui sont à l'intérieur d'observer le fond de l'océan. Cette amélioration n'a aucun effet sur les performances du navire, si ce n'est que le fond de la coque est aussi solide qu'un morceau de verre épais (solidité 1, pv 3, DD pour casser 8).  
-
 *Prérequis.* Artisanat (verre) DD 19  
-
 *Coût.* 5% du prix de base du bateau
 
 **Grand safran (Broad rudder).** Un safran plus grand rend un navir plus maniable, accordant un bonus de +1 à tous les jets de navigation.
@@ -380,27 +360,19 @@ Les améliorations suivantes peuvent être ajoutées à un bateau.
 *Coût.* 500 po
 
 **Gouverne traitée magiquement (Magically Treated Control Device).** la barre du bateau (barre à roue ou timon) est traitée magiquement, doublant ses pv et sa solidité. Cette amélioration peut seulement être ajoutée par un lanceur de sorts possédant le don Creation d'Objets Magiques.  
-
 *Prérequis.* Création d'Objets Magiques, Artisanat (bateaux) DD 15  
-
 *Coût.* 1 000 po
 
 **Pont mobile (Movable deck).** Les éléments du pont du navire sont construits pour être mobiles en vue du déguisement du bateau en un autre bateau. Après avoir retiré des douzaines de chevilles, l'équipage peut faire glisser le chateau arrière sur des rails masqués, réarranger la position des mats, augmenter le plat-bord, baisser le pont de la poupe, déplacer la barre et opérer d'autre modifications décorative comme mettre une nouvelle figure de proue ou changer la couleur de voiles. Les chevilles, leviers et rails nécessaires à tout ce chambardement ne peuvent être découvert qu'à l'aide d'un test de Perception DD 20 effectué lors d'un examen précis du bateau.  
-
 *Prérequis.* Artisanat (bateaux) DD 28  
-
 *Coût.* 40% du prix de base du bateau
 
 **Quartier d'équipage supplémentaire (Aditional crew quarters).** Les marins ont plus d'espace pour dormir et manger. Le navire peut embarquer 10% de passagers en plus, mais sa capacité de chargement est réduite de 10%.  
-
 *Prérequis.* Artisanat (bateaux) DD 22  
-
 *Coût.* 20% du prix de base du bateau.
 
 **Quille allongée (Extended keel).** La quille du bateau est plus longue que la normale sur ce type de vaisseau. La longeur totale du navire est 10% plus grande que la norme, bien que la capacité de chargement n'est pas affectée. Le bateau est plus stable et bénéficie d'un bonus de +1 à tous les jets de navigation. Cette amélioration doit être installée au moment de la construstion du bateau (et ne peut pas être ajoutée à un bateau déjà existant).  
-
 *Prérequis.* Artisanat (bateaux) DD 19  
-
 *Coût.* 10% du prix de base du bateau
 
 **Rames traitées magiquement (Magically treated oars).** Les rames du bateau sont traitées magiquement, doublant leur nombre de pv et leur solidité. Cette amélioration peut seulement être ajoutée par un lanceur de sorts possédant le don Creation d'Objets Magiques.
@@ -408,27 +380,19 @@ Les améliorations suivantes peuvent être ajoutées à un bateau.
 *Coût.* 100 po par rame
 
 **Sabord masqué (Concealed weapon port).** Le pont inférieur subit une transformation majeure pour pouvoir accueillir des engins de siège à tir direct de taille G (comme des ballistes légères ou des cannons, si ces erniers sont présents dans la campagne). Un sabord masqué ne peut se remarquer qu'à l'aide d'un test de Perception DD 15. Chaque sabord masqué réduit la capacité de chargement de 5 tonnes, en plus de l'espace nécessaire à l'arme.  
-
 *Prérequis.* Artisanat (bateaux) DD 16  
-
 *Coût.* 100 po par sabord (en plus du coût de l'arme)
 
 **Voiles à déploiement rapide (Rapid-deploy sails).** Le gréement subit une transformation complète pour intégrer des évolutions technologiques permettant de lever et baisser les voiles plus rapidement que la normale. Chaque réglage de voile nécessite moitié moins de temps que d'habitude, ce qui accorde un bonus de +1 à tous les jets de navigation.  
-
 *Prérequis.* Artisanat (voiles) ou Connaissances (ingenierie) DD 25  
-
 *Coût.* 10% du prix de base du bateau
 
 **Voiles en soie (Silk sails).** Peu d'améliorations de navire sont aussi belle que l'ajout de voiles en soie. Ces voiles peuvent être teintées de n'importe quelle couleur, au choix du joueur. Des images remarquables de la vie maritime y sont souvent brodées. De telles voiles sont généralement importées de terres lointaines. Des voiles en soie ntaméliore la vitesse du navire car elles emprisonnent et déplacent l'air de manière plus efficace. Un bateau avec des voiles en soie gagne un bonus de +1 au test de navigation opposé utilisé pour déterminer qui a l'avantage. La vitesse tactique en combat bord-à-bord n'est pas affectée, mais sa vitesse de déplacement en pleine mer est augmentée de 10%.  
-
 *Prérequis.* Artisanat (voiles) DD 16  
-
 *Coût.* 15% du prix de base du bateau
 
 **Voiles traitées magiquement (Magically treated sails).** Les voiles du bateau sont traitées magiquement, doublant leur nombre de pv et leur solidité. Cette amélioration peut seulement être ajoutée par un lanceur de sorts possédant le don Creation d'Objets Magiques.  
-
 *Prérequis.* Création d'Objets Magiques, Artisanat (voiles) DD 15  
-
 *Coût.* 500 po par case (2,25 m<sup>2</sup>) de voile
 
 ## Le Combat maritime

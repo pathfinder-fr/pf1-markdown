@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]]2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[magus]] 2, [[sorcière]] 2  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*
 
 Cet effet fonctionne comme *[[évanouissement]]* mais sa durée est plus longue.

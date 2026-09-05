@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|froid]], [[registre|ténèbres]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** rayon de 9 m (6 {s:c})  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
 Le personnage plonge une zone dans le froid glacial de la nuit arctique. La luminosité diminue de deux crans (jusqu’aux ténèbres, pas jusqu’aux ténèbres surnaturelles) et toutes les créatures de la zone reçoivent 5d6 points de dégâts de froid et 1d6 points d’affaiblissement de [[Dextérité]] par [[round]]. Un jet de [[Vigueur]] réussi à chaque [[round]] annule l’affaiblissement mais pas les dégâts de froid. Toute créature qui ne se déplace pas à son tour est enchâssée dans une couche de glace équivalente à un *[[mur de glace]]*. Elle est sans défense et ne peut plus respirer. Les cadavres qui se trouvent dans la zone pendant plus d’un round se transforment en glace vive. Pour les ramener à la vie, il faut utiliser *[[résurrection suprême]]*, *[[miracle]]* ou *[[souhait]]*. Le personnage peut déplacer la zone d’effet de 3 mètres dans la direction de son choix par une [[action de mouvement]].

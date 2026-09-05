@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** [[Composantes|V, G, M]] (une sculpture de glace de la cible et de la poudre de rubis d'une valeur de 50 po par DV du simulacre)  
-
 **Portée** 0 m  
-
 **Effet** 1 double  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort crée un *simulacre* illusoire de la créature choisie. Ce double est partiellement réel et formé à partir de neige ou de glace. Il ressemble à s’y méprendre à l’original mais il existe des différences: il n’a que la moitié des [[niveau|niveaux]] ou [[DV|dés de vie]] de la créature qu’il imite (ce qui inclut [[points de vie]], [[dons]], [[degré de compétence|degrés de compétence]] et [[pouvoirs spéciaux]]). Le lanceur de sorts ne peut pas créer le *simulacre* d’une créature dont les [[DV]] ou le [[niveau]] dépassent son [[NLS|niveau de lanceur de sorts]] et il ne peut pas lui donner d’aptitudes magiques. Le mage doit faire un test de [[Déguisement]] au moment de l’incantation, afin de déterminer s’il crée un double fidèle. Une créature qui connaît l’original détecte la ruse si elle réussit un test de [[Perception]] opposé au test de [[Déguisement]] du lanceur de sorts ou un test de [[Psychologie]] [[DD]] 20.

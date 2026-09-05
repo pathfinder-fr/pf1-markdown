@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[Branche convocation|convocation]]) ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (une munition)  
-
 **Portée** N/A  
-
 **Cible** récipient touché  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Quand on lance ce sort sur un récipient comme un carquois ou une bourse qui contient des munitions non magiques ou des shuriken (éventuellement [[Caractéristiques des armes#ARMESMAITRE|de maître]], mais pas en [[matériaux spéciaux|matériau spécial]], avec des propriétés alchimiques, ou des modifications non-magiques), au début de chaque [[round]], il remplace les munitions utilisées au round précédent. Les munitions sorties du récipient au round précédent disparaissent. Si le personnage lance un sort qui améliore les projectiles (comme *[[arme alignée]]* ou *[[arme magique suprême]]*) sur le récipient après avoir lancé ce sort, tous les projectiles qu’invoque le premier sort sont affectés par le second.

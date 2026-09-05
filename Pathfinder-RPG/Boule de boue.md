@@ -15,17 +15,11 @@ Categories:
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[créer un sort#TERRE|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2niveaux)  
-
 **Effet** une boule de boue gluante de la taille d’un poing  
-
 **Durée** [[Présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
 Lorsque le personnage lance ce sort, il fait apparaître une unique boule de boue gluante et la lance au visage d’un ennemi avec une [[Valeurs de combat#ATTAQUEDECONTACT|attaque de contact]] à distance. Si la boule de boue touche, la cible est [[États préjudiciables#Aveuglé|aveuglée]]. Tous les rounds, au début de son [[tour]], une créature aveuglée par ce sort peut tenter un jet de [[Réflexes]] pour se secouer et se débarrasser de la boue, mettant fin à l’effet. La boule de boue peut aussi être enlevée par la créature affectée ou par une créature adjacente à elle par une [[action simple]].

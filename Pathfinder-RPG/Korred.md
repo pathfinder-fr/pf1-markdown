@@ -49,6 +49,5 @@ Categories:
 
 Les korreds forment une ancienne race féerique qui aime les zones forestières avec un bon sol rocailleux. Ils ont l'apparence de petits humanoïdes sauvages aux cheveux ébouriffés et emmêlés. Ils aiment tout particulièrement danser au sein des anciens cercles de pierre situés dans les clairières forestières, souvent au son des flûtes de pan des [[satyre|satyres]]. Ces créatures timides détestent être découvertes par des étrangers, même lorsque la rencontre est entièrement due au hasard. Ils attaquent presque toujours les étrangers qui pénètrent dans leur territoire et cherchent à les tuer, ou au moins à les faire déguerpir.  
 
-
 Les korred se parent généralement d'un simple tablier, gilet ou kilt de cuir et gardent les pieds nus et les jambes découvertes. Leurs habits portent souvent de nombreuses poches ou pochettes où ils peuvent glisser leurs possessions. Les cheveux et la barbe d'un korred poussent très rapidement (jusqu'à 2,5 cm par jour). Le Korred les coupe lorsque les tresses deviennent trop encombrantes. Il conserve les morceaux découpés dans sa poche afin de les utiliser pour tisser des cordes sur lesquelles utiliser son pouvoir de *[[corde animée]]*.
 </div></td></tr></table>

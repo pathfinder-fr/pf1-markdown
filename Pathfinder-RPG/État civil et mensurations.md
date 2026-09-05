@@ -191,9 +191,7 @@ adulte || Intuitif<sup>1</sup> || Autodidacte<sup>2</sup> || Érudit<sup>3</sup>
 |}
 
 ''(*) À un âge mûr : -1 en [[For]], [[Dex]] et [[Constitution|Con]] ; +1 en [[Int]], [[Sag]] et [[Cha]].  
-
 À un grand âge : -2 en [[For]], [[Dex]] et [[Constitution|Con]] ; +1 en [[Int]], [[Sag]] et [[Cha]].  
-
 À un âge vénérable : -3 en [[For]], [[Dex]] et [[Constitution|Con]] ; +1 en [[Int]], [[Sag]] et [[Cha]].''
 </center>
 </td></tr></table>

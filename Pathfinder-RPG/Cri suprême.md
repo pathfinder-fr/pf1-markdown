@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (un petit cor en métal ou en ivoire)  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** rayonnement en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) (voir description)
 
 Ce sort est semblable à *[[cri]]*, si ce n’est que le cône inflige 10d6 points de dégâts de son (ou 1d6 points de dégâts de son par [[NLS|niveau de lanceur de sorts]], jusqu’à un maximum de 20d6, contre les objets fragiles et les créatures cristallines). En outre, il [[étourdi|étourdit]] les créatures pendant 1 [[round]] et les [[assourdi|assourdit]] pendant 4d6 [[round|rounds]]. Toute créature située dans la [[zone deffet|zone d’effet]] du cône peut annuler l’[[étourdi|étourdissement]], mais également réduire de moitié les dégâts et la durée de l’[[assourdi|assourdissement]], si elle réussit un jet de [[Vigueur]]. Une créature tenant des objets vulnérables a droit à un jet de [[Réflexes]] pour annuler les dégâts infligés à celui-ci.

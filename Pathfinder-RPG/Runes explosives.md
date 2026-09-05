@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 objet touché pesant moins de 5 kg  
-
 **Durée** [[permanente]] jusqu’à explosion (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
 Le mage trace ces symboles mystiques sur un livre, une carte, un parchemin ou tout support pouvant accueillir un texte. Dès que quelqu’un lit les runes, celles-ci explosent, infligeant 6d6 points de dégâts de force. Quiconque se trouve assez près pour lire le texte subit la totalité des dégâts, sans [[jet de sauvegarde]]. Les autres créatures situées dans un rayon de trois mètres ont droit à un jet de [[Réflexes]] ; en cas de succès, elles n’essuient que la moitié des dégâts. Le support est lui aussi endommagé par les *runes explosives* (pas de [[jet de sauvegarde]]).

@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 2, [[prêtre]] 2, [[magus]] 2  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 La cible subit 1d4 points de dégâts sonores par [[NLS|niveau de lanceur]] (maximum 5d4) et la rend [[chancelant|chancelante]] pendant 1 [[round]]. Un jet de [[Vigueur]] réussi diminue de moitié les dégâts et annule l’état préjudiciable.

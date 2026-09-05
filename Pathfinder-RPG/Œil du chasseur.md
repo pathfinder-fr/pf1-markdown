@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[école divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage aiguise ses pouvoirs de perception et les prépare à lutter contre tout effet occultant. *Œil du chasseur* améliore ainsi grandement ses sens vis-à-vis de la créature choisie. Le personnage perçoit la cible même si elle est [[invisible]] ou [[intangible|éthérée]], comme s'il utilisait un sort de *[[détection de linvisibilité|détection de l'invisibilité]]*, et reçoit un bonus de compétence de +20 aux tests de [[Perception]] pour localiser cette cible. Il ignore le [[camouflage]] offert par la brume ou le brouillard, *[[flou]]*, *[[déplacement]]*, *[[invisibilité]]* et autres effets similaires qui affectent la cible mais pas contre le [[camouflage]] apporté par l'obscurité. Ce sort n'apporte aucun avantage aux alliés du personnage et aucun avantage à celui-ci contre toute créature autre que celle qu'il a choisie pour cible.

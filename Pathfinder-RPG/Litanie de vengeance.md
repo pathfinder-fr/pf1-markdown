@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Cette litanie accentue la douleur des coups que l’adversaire reçoit. Toute créature qui touche la cible avec une attaque gagne un bonus de sainteté ou de malfaisance (selon l’[[alignement]] du lanceur de sorts) de +5 aux dégâts.

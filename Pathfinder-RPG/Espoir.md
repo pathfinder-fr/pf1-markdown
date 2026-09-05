@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[barde|Bard]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cibles** 1 créature vivante/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Un puissant sentiment d’espoir envahit les cibles de ce sort. Elles bénéficient d’un bonus de moral de +2 aux [[jet de sauvegarde|jets de sauvegarde]], aux [[jet dattaque|jets d’attaque]], aux tests de caractéristique, aux [[test de compétence|tests de compétence]] et aux jets de dégâts infligés à l’aide d’une arme.

@@ -14,14 +14,11 @@ Categories:
 
 Une lamesprit lance les sorts de la [[liste des sorts de magus|liste de sorts de magus]] sous forme de [[la magie psychique|sorts psychiques]]. Elle peut lancer n’importe quel sort de son répertoire sans devoir le préparer à l’avance. Pour apprendre ou lancer un sort, une lamesprit doit posséder une valeur d’[[Intelligence]] au moins égale à 10 + le niveau du sort. Le [[DD]] des [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les sorts d’une lamesprit est égal à 10 + le niveau du sort + le modificateur d’[[Intelligence]] de la lamesprit.  
 
-
 Comme tous les lanceurs de sorts, une lamesprit ne peut lancer qu’un nombre limité de sorts de chaque niveau par jour. Elle
 
 connaît le même nombre de sorts et dispose du même nombre d’emplacements de sort quotidiens qu’un [[barde]] de son niveau de magus. Elle connaît et utilise les astuces de niveau 0 de la même façon qu’un barde avec ses [[barde#TOURSDEMAGIE|tours de magie]]. De plus, elle dispose de sorts supplémentaires chaque jour si elle possède une valeur d’[[Intelligence]] élevée (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").  
 
-
 Au niveau 5 et tous les 3 niveaux par la suite, une lamesprit peut apprendre un nouveau sort à la place d’un autre qu’elle connaît déjà, en respectant les mêmes règles que celles indiquées pour les bardes. Dans les faits, la lamesprit perd l’ancien sort et le remplace par le nouveau. Le niveau du sort nouvellement appris doit être identique à celui du sort échangé et d’au moins un niveau inférieur au plus haut niveau de sort que la lamesprit est capable de lancer.  
-
 
 Une lamesprit n’a pas besoin de préparer ses sorts à l’avance. Elle peut lancer n’importe quel sort de son répertoire quand elle le souhaite, à condition qu’il lui reste les emplacements de sort quotidiens des niveaux appropriés. Cette aptitude remplace les capacités d’incantation des sorts du magus.
 
@@ -29,7 +26,6 @@ Une lamesprit n’a pas besoin de préparer ses sorts à l’avance. Elle peut l
 #### Réserve psychique (Sur)
 
 Une lamesprit dispose d’une réserve psychique qui fonctionne de la même façon que la [[magus#RESERVEMAGIQUE|réserve magique]] des magus. Une lamesprit de niveau 1 peut dépenser 1 point de sa réserve psychique par une [[types dactions#SIMPLE|action simple]] pour manifester une [[Caractéristiques des armes#ARMELEGERE|arme de corps à corps légère]] de son choix, entièrement composée d’énergie psychique. En dépensant 2 points, la lamesprit peut manifester une [[Caractéristiques des armes#ARMELEGERE|arme de corps à corps à une main]] et, en dépensant 3 points, une [[Caractéristiques des armes#ARMELEGERE|arme de corps à corps à deux mains]] (mais pas une [[Caractéristiques des armes#ARMEDOUBLE|arme double]]). L’arme psychique reste manifestée pour une durée indéfinie mais disparaît si elle quitte la main de la lamesprit. La lamesprit peut dissiper une arme psychique qu’elle tient en main par une [[types dactions#LIBRE|action libre]]. Suite à la disparition d’une arme psychique, la lamesprit récupère l’énergie psychique utilisée pour la créer. Elle ne peut manifester de cette façon qu’une seule arme à la fois.  
-
 
 Au niveau 1, une arme psychique est considérée comme une [[armes magiques|arme magique]] du type choisi par la lamesprit, avec un bonus d’altération de +1. Au niveau 3 et tous les 3 niveaux par la suite, le bonus d’altération de l’arme augmente de +1, jusqu’à un maximum de +5 au niveau 12. À partir du niveau 5, la lamesprit peut ajouter, à la place de ces bonus, une des propriétés spéciales d’arme magique indiquées dans la description de l’aptitude de [[magus#RESERVEMAGIQUE|réserve magique]]. L’arme doit toutefois posséder un bonus minimum de +1 pour bénéficier d’une de ces propriétés spéciales d’[[armes magiques|arme magique]]. Aux niveaux 15 et 18, l’arme bénéficie d’un bonus d’altération supplémentaire de +1 uniquement utilisable pour l’ajout d’une propriété spéciale d’[[armes magiques|arme magique]]. Cette aptitude remplace celle de [[réserve magique]] et fait office de [[réserve magique]] en ce qui concerne les dons, les pouvoirs et les aptitudes de classe.
 

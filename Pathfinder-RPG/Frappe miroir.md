@@ -14,16 +14,10 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un éclat de miroir)  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** voir texte  
-
 
 Le personnage altère brièvement le cours du temps pour scinder une attaque de corps à corps en deux attaques. Avant la fin de son prochain tour, il fait une attaque au corps à corps, il compare le résultat avec la [[CA]] de deux adversaires à portée. Si ces deux adversaires prennent le personnage [[prise en tenaille|en tenaille]], celui-ci gagne un bonus de +2 aux jets d’attaque (et aux jets de confirmation de [[coup critique]], voir plus bas). S’il touche les deux, il inflige la moitié des dégâts à chacun. S’il n’en touche qu’un, il lui inflige les dégâts d’attaque normaux. En cas de [[coup critique]], il peut se contenter d’un jet d’attaque pour confirmer le critique contre les deux adversaires. S’il confirme le critique sur les deux, il inflige à chacun la moitié des dégâts du [[coup critique]]. S’il confirme le critique contre un seul adversaire, le coup est juste un coup normal. Le sort expire si le personnage ne l’a pas utilisé avant la fin de son prochain tour.

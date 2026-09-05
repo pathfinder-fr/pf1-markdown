@@ -14,17 +14,11 @@ Categories:
 
 {s:UC}
 **École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un oeil de triton)  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Quand le personnage lance ce sort, il choisit un [[alignement]] (Loyal Bon ou Chaotique Mauvais, par exemple). Les créatures de cet alignement émettent un halo fantomatique quand elles se trouvent dans son champ de vision mais il est le seul à le voir.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (des champignons rares d’une valeur de 5 po)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Effet** brume dans une étendue de 6 m de rayon et de 6 m de hauteur  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
 Le personnage crée un banc de brume similaire à ce que ferait une *[[brume de dissimulation]]*, à la seule différence que ses vapeurs sont enivrantes. Les créatures vivantes présentes dans le nuage sont [[Fasciné|fascinées]].

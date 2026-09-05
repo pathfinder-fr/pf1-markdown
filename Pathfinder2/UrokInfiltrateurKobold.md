@@ -5,7 +5,6 @@ LastModified: 2021-02-13 16:09
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Voici le premier d'un série de "personnages prêts à l'emploi" regroupant des PNJ préfabriqués à l'attention des Maîtres de Jeu trop occupés. Pour cette série, Eleanor Ferron et Luis Loza ont collaboré pour mettre en avant quelques-unes des ascendances qui apparaissent dans *Lost Omens: Ancestry Guide*. Chacun de ces PNJ utilise l'une des nouvelles ascendances ou l'un des nouveaux héritages polyvalents présentés dans ce livre mais toutes les informations utiles pour les jouer sont reprises afin de vous permettre de les inclure dans vos aventures dès maintenant ! Le PNJ d'aujourd'hui utilise un nouvel héritage polyvalent, l'aphorite, qui sera discuté un peu plus bas.

@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Psychiste|Psy]] 5, [[Rôdeur|Rôd]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[instantanée]]
 
 Le personnage ne fait plus qu’un avec la nature qui l’environne, ce qui lui permet de connaître intimement les alentours. Il apprend aussitôt tout ce qu’il y a à savoir sur trois des thèmes suivants :

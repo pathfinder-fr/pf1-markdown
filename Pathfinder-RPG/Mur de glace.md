@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de quartz ou de cristal de roche)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** plan de glace constitué d’un carré de 3 m (2 {s:c}) de côté/[[niveau]], ou hémisphère de glace d’un rayon de 90 cm + 30 cm/[[niveau]]  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort fait apparaître un mur ou un hémisphère de glace, au choix du lanceur de sort. On ne peut pas le faire apparaître à un endroit occupé par des objets ou des créatures et sa surface doit être lisse et sans fissure. Toute créature adjacente au mur lors de sa création a droit à un jet de [[Réflexes]] pour le détruire tandis qu’il se forme. En cas de réussite, le sort échoue automatiquement. Le mur est vulnérable au feu qui lui inflige des dégâts normaux (au lieu d’un total réduit de moitié, comme c’est normalement le cas pour les objets). Si le mur fond soudainement, le choc thermique libère un nuage de brouillard qui persiste pendant dix minutes.

@@ -17,17 +17,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** [[sphère]] de toile de 1,50 à 3 m (1 {s:c} à 2 {s:c}) de diamètre ou demi-sphère de 1,50 à 6 m (1 {s:c} à 4 {s:c})  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage crée un abri fait de toiles d’araignée légèrement collantes. Il possède une porte montée sur charnières assez large pour laisser passer des créatures [[taille M|M]]. Les murs opaques de l’abri font 2,5 centimètres d’épaisseur et offrent un [[camouflage total]] à tout ce qui se trouve à l’intérieur.

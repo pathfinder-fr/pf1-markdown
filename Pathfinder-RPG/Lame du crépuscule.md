@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un petit couteau)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** couteau de force flottant  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage crée un sinistre couteau de force qui flotte à ses côtés et attaque à chaque [[round]] la même cible que lui. S'il décide de ne pas attaquer de créature ou s'il effectue une attaque qui touche plusieurs adversaires, le couteau ne porte pas d'attaque pour le [[round]]. Quand il attaque, le couteau utilise le [[BBA|bonus de base à l'attaque]] du personnage, modifié par son bonus d'[[Intelligence]] ou de [[Charisme]] (le plus élevé). Le couteau se place toujours de manière à [[pris en tenaille|prendre l'ennemi en tenailles]] avant d'attaquer, à moins que le personnage ne souhaite le contraire ou que le couteau se retrouve dans l'impossibilité de le faire. Quand il touche, il inflige 1d4 points de dégâts de force. Il menace la même zone de critique qu'une dague ordinaire et possède le même modificateur de coup critique. De plus, si la cible ne bénéficie pas de son bonus de [[Dextérité]] à la [[CA]] ou si le couteau [[pris en tenaille|prend l'ennemi en tenailles]], il peut faire une [[attaque sournoise]] comme un [[roublard]]. Il inflige alors 1d6 points de dégâts de plus par tranche de 4 [[NLS|niveaux de lanceur de sorts]].

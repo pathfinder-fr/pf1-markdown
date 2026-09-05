@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|bien, loi]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 4, [[Prêtre|Prê]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature Loyale Bonne touchée  
-
 **Durée** 1 [[round]]/[[niveau]] (voir texte)  
-
 **Jet de sauvegarde** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage canalise le pouvoir du [[alignement|Bien]] et de la [[alignement|Loi]] pour en imprégner une cible qui gagne temporairement des pouvoirs égaux à ceux d’un [[paladin]]. La cible gagne ''[[détection du mal]] à volonté, comme un [[pouvoir magique]], devient [[immunité|immunisée]] contre les maladies (ce qui supprime tout effet de maladie qui l’affectait au préalable) et contre la peur (ce qui met un terme à tout effet de peur qui l’affectait). La cible peut utiliser l’[[imposition des mains]] (sur elle uniquement) comme un [[paladin]] de 1/2 [[NLS|niveau de lanceur de sorts]] du personnage (une seule fois). Elle peut utiliser [[paladin#CHATIMENTDUMAL|châtiment du mal]] comme un [[paladin]] de 1/2 [[NLS|niveau de lanceur de sorts]] du personnage (une seule fois). Elle ajoute son bonus de [[Charisme]] à tous ses [[jet de sauvegarde|jets de sauvegarde]]. Elle peut utiliser des [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objets magiques à fin d’incantation]] ou [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|à potentiel magique]] ou autre s’il faut être capable de lancer un [[Liste des sorts de paladins|sort de paladin]] pour s’en servir. Tous les pouvoirs qui n’ont pas été utilisés quand le sort expire sont perdus. Ce sort n’a aucun effet sur un [[paladin]].

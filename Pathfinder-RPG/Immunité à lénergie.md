@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[alchimiste]] 6, [[conjurateur]] 6, [[druide]] 6, [[ensorceleur]]/[[magicien]] 6, [[inquisiteur]] 6, [[prêtre]] 6,   
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet bénéficie d’une [[immunité (capacité)|immunité]] contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts magiques.

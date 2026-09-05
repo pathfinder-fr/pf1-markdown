@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un morceau de granite)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur de pierre constitué d’un carré de 1,50 m (1 case) de côté/[[niveau]] (F)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Cette incantation fait apparaître un *mur de pierre* qui fusionne avec la roche à son contact. Ce sort permet de condamner un passage ou de colmater une brèche. Il est composé d’un carré de 1,50 m (1 case) de côté par [[niveau]] et de 2,5 cm d’épaisseur tous les quatre [[niveau de lanceur de sorts|niveaux de lanceur de sorts]]. Il est possible de doubler sa superficie en réduisant de moitié son épaisseur. Il est impossible de le faire apparaître à un endroit occupé par une créature ou un objet.

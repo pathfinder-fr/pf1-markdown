@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[illusion]] ([[branche ombre|ombre]]) <nowiki>[[</nowiki>ténèbres, ombre<nowiki>]]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** brume qui s’étend sur 6 m de rayon (4 {s:c})   
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée une brume grise qui obscurcit la vision (comme *[[nappe de brouillard]]*) et diminue la luminosité d’un niveau (comme *[[ténèbres]]*). Étant donné que le sort génère une illusion et non un véritable brouillard physique, il n’est pas affecté par le vent et peut être lancé sous l’eau.

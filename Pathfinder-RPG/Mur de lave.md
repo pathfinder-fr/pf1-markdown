@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|terre]], [[registre|feu]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un morceau de lave refroidie)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** mur de lave qui occupe une zone de 1,50 m (1 {s:c})/[[niveau]] au maximum (S)  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir texte  ; **Résistance à la magie** non
 
 Ce sort crée un *mur de lave* vertical de 2,50 centimètres d'épaisseur par tranche de 4 [[NLS|niveaux de lanceur de sorts]] et se compose au maximum d'une case de 1,50 mètre par [[NLS|niveau de lanceur de sorts]]. La hauteur maximale du mur ne peut pas dépasser la moitié de sa largeur (avec un minimum de 1,50 mètre (1 {s:c})). Le personnage ne peut pas invoquer le mur de telle façon qu'il occupe la même case qu'une créature ou un objet. On peut détruire une section du *mur de lave* en lui infligeant des dégâts (solidité 4, pv 90) mais dans ce cas, la lave qui reste dans le mur remplit immédiatement le creux, ce qui réduit la taille totale du mur d'une case mais permet de conserver une barrière continue. À chaque fois qu'une arme frappe le mur de lave, elle subit 2d6 points de dégâts de feu (c'est la créature qui frappe le mur qui subit ces dégâts si elle utilise une arme naturelle ou ses mains nues).

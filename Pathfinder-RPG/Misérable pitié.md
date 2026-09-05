@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]] (crachat)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]] et 1 minute, voir texte  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[sanctuaire]]* mais les créatures qui tentent d'attaquer la cible et ratent leur [[jet de sauvegarde]] ressentent un profond sentiment de pitié envers elle, comme si c'était un petit être faible et pathétique qui ne représente aucun danger. Si la cible rompt le sort en attaquant, les créatures qui ont raté leur jet de sauvegarde gagnent un bonus de moral de +2 contre la cible pendant 1 minute.

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 30 minutes  
-
 **Composantes** [[composantes|V, G, M]] (une hyacinthe de 1 000 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** le jeteur de sorts + 1 créature touchée/2 [[NLS|niveaux de lanceur de sorts]]  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort libère l’esprit du personnage de son enveloppe charnelle et lui permet de se rendre dans un autre plan. Le personnage peut emmener d’autres individus avec lui, à condition qu’ils forment un cercle et se tiennent par la main au moment de l’incantation. Les autres voyageurs dépendent entièrement du lanceur de sorts, qu’ils ne doivent pas quitter un seul instant. En effet, s’il lui arrivait quoi que ce soit, ses compagnons devraient se débrouiller seuls pour revenir dans le [[plan Matériel]].

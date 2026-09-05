@@ -11,16 +11,11 @@ Categories:
 ---
 
 **École** Universel ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** 2 [[round|rounds]]  
-
 **Composantes** [[composantes|V, G, M]] (voir les tables)  
-
 **Portée** voir description</br>
 **Cible, effet ou zone d’effet** voir description  
-
 **Durée** [[permanente]] (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort rend permanent l’effet de certains autres sorts. En fonction du sort, il faut avoir atteint un certain niveau et payer un certain nombre de po en poussière de diamant.

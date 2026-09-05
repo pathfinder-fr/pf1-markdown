@@ -87,13 +87,9 @@ sinistre et inconnue qui vit dans les fonds marins.
 
 Les hommes-poissons ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **+2 Dextérité, +2 Constitution, +2 Charisme.** Les hommes-poissons sont gracieux, beaux et dotés d'une constitution solide.  
-
 - **Aquatique.** Les hommes-poissons sont des créatures aquatiques et peuvent respirer sous l'eau. Leur vitesse de déplacement sur le sol est de 1,50 m (1 {s:c}) mais leur vitesse de nage est de 15 m (10 {s:c}). Ils sont [[amphibie|amphibies]] mais préfèrent ne pas rester trop longtemps hors de l'eau.  
-
 - **Armure naturelle +2.** Les hommes-poissons ont une peau dure.  
-
 - **Vision nocturne.** Les hommes-poissons possèdent la capacité de [[vision nocturne]].  
-
 - **Langues.** Les hommes-poissons parlent automatiquement l'aquatique et le commun. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des [[Linguistique|langues supplémentaires]] parmi les suivantes : aboleth, aklo, draconique, elfe, sahuagin et sylvestre.
 
 {s:VoirAussiAvant}La page de la race [[homme-poisson (race)|Homme-poisson]]{s:VoirAussiAprès}

@@ -561,7 +561,6 @@ Le PJ doit faire un jet de [[Vigueur]] DD 16 pour ne pas croire qu'il est la vic
 - **Déclencheur** proximité ; **Réinitialisation** 1 jour
 (((Effet)))
 - Une voix se met à chuchoter des paroles douces et entêtantes au point de faire perdre le sens des réalités à la victime. Celle-ci doit réussir un jet de Volonté (DD 20) ou subir les effets d'un sort d'[[aliénation mentale]]. L'esprit à l'origine est souvent une personne trépassée qui a voyagé trop loin dans l'obscurité de la Sombre Tapisserie.  
-
 - **Destruction** Le sort [[châtiment sacré]] lancé dans la zone détruit de manière permanente cette apparition.
 </div>
 {br}

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 3 m (2 {s:c})  
-
 **Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Cette [[abjuration]] génère un champ d’énergie hémisphérique, [[invisible]] et mobile, bloquant l’entrée à la plupart des créatures vivantes. Il interdit le passage aux [[type animal|animaux]], [[type aberration|aberrations]], [[type créature magique|créatures magiques]], [[type dragon|dragons]], [[type fée|fées]], [[sous-type géant|géants]], [[type humanoïde|humanoïdes]], [[type humanoïde monstrueux|humanoïdes monstrueux]], [[type plante|plantes]], [[type vase|vases]], ainsi qu’à la [[type vermine|vermine]]. Cependant, [[type créature artificielle|créatures artificielles]], [[sous-type élémentaire|élémentaires]], [[type extérieur|Extérieurs]] et [[type mort-vivant|morts-vivants]] ne sont pas gênés.

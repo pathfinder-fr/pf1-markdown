@@ -5,7 +5,6 @@ LastModified: 2025-10-02 17:08
 ---
 
 {s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>

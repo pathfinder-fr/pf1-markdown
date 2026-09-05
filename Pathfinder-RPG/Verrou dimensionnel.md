@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon centré sur un point dans l’espace  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage produit une barrière vert émeraude qui interdit toute forme de déplacement extradimensionnel. Les sorts affectés incluent *[[changement de plan]]*, *[[clignotement]]*, *[[dédale]]*, *[[forme éthérée]]*, *[[passage dans léther|passage dans l’éther]]*, *[[portail]]*, *[[porte dimensionnelle]]*, *[[projection astrale]]*, *[[téléportation]]* et *[[traversée des ombres]]* ainsi que les pouvoirs magiques correspondants. Une fois que le *verrou dimensionnel* en place, il n’est plus possible d’entrer ou de sortir de la zone par quelque forme de déplacement dimensionnel.

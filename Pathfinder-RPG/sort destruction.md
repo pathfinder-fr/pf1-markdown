@@ -13,17 +13,11 @@ Categories:
 
 {s:Desambi|Destruction est également le nom d'une [[destruction (propriété)|propriété d'armes magiques]] et d'une [[destruction|manœuvre de combat]].}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (symbole sacré ou maudit d’une valeur de 500 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Ce sort inflige immédiatement 10 points de dégâts par [[NLS|niveau de lanceur de sorts]]. S’il tue la cible, il consume le corps de celle-ci dans une flamme sacrée (ou maudite) (mais ni son équipement ni ses possessions). Si la victime réussit son jet de [[Vigueur]], elle perd tout de même 10d6 points de vie. Un individu tué par ce sort ne peut être ramené à la vie que par une *[[résurrection suprême]]*, par un *[[souhait]]* énoncé avec le plus grand soin et suivi d’une *[[résurrection]]*, ou par un *[[miracle]]*.

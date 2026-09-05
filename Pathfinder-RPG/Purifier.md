@@ -10,13 +10,9 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[alchimiste]] 4, [[barde]] 4, [[prêtre]] 4, [[druide]] 4, [[inquisiteur]] 4, [[paladin]] 4, [[rôdeur]] 4  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif )  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]], [[choisi]]*
 
 Le mage choisit un type d’affliction quand il lance son sort : malédictions, maladies ou poisons. Sa cible bénéficie d’un nouveau [[jet de sauvegarde]] pour mettre immédiatement un terme à toutes les afflictions du même type qui l’affectent. Le [[DD]] de ce [[jet de sauvegarde]] est égal au [[DD]] original de l’affliction et la cible doit faire un jet pour chacune d’entre elles s’il y en a plusieurs. Si un tel jet n’est pas autorisé au départ, le sort ne peut soigner l’affliction concernée.  
-
 Un sort incluant ce mot effet peut aussi servir à annuler 1d4 niveaux négatifs temporaires ou 1 niveau négatif permanent.

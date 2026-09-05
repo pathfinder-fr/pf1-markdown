@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** 0 m (0 {s:c})  
-
 **Effet** flamme en forme d’épée  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Une lame brûlante et aveuglante apparaît dans la main du [[druide]]. D’une longueur de quatre-vingt-dix centimètres, elle peut être employée comme un cimeterre et tous les coups qu’elle inflige correspondent à des [[attaque de contact au corps à corps|attaques de contact au corps à corps]]. La lame inflige 1d8 points de dégâts de feu par coup, +1 tous les deux [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] (maximum +10). Elle est immatérielle, donc le modificateur de [[Force]] du personnage ne s’applique pas aux dégâts. La lame peut faire prendre feu les matériaux combustibles comme le papier, la paille, le bois sec, le tissu, etc.

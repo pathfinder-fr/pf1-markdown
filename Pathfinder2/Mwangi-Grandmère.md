@@ -5,7 +5,6 @@ LastModified: 2023-05-12 19:28
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 <nav class="wiki-toc"></nav>

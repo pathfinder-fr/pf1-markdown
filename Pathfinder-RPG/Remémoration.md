@@ -10,15 +10,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[magicien|Mag]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[instantanée]]
 
 Ce sort permet de se rappeler immédiatement de tout sort de niveau 5 au maximum que le personnage a utilisé au cours des dernières vingt-quatre heures. Le sort doit impérativement avoir été lancé pendant cette période. Il revient dans la liste de sorts préparés du lanceur de sorts comme si ce dernier l’avait préparé normalement.

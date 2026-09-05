@@ -12,15 +12,10 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un verre d'eau)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Le personnage s'enveloppe d'une colonne tournoyante d'eau élémentaire à l'état pur qui occupe sa case et s'élève à 9 mètres (6 {s:c}). Il gagne une vitesse de nage égale à sa vitesse de déplacement de base et il est capable de voir, d'entendre et de respirer librement dans le *manteau marin*. En revanche, les attaques portées contre lui sont considérées comme ayant lieu [[Milieu aquatique#COMBATSOUSEAU|sous l'eau]]. Le personnage bénéficie d'un abri amélioré (bonus d'abri de +8 à la [[CA]], +4 aux jets de [[Réflexes]]) contre les adversaires qui ne disposent pas de la *[[liberté de mouvement]]*. L'abri apporté par le *manteau marin* ne permet pas au personnage de faire de test de [[Discrétion]] et n'empêche pas les [[attaque dopportunité|attaques d'opportunité]]. Les attaques magiques lancées contre lui ne sont pas affectées, à moins qu'elles ne nécessitent un jet d'attaque ou qu'elles ne fonctionnent pas sous l'eau (comme le *[[nuage nauséabond]]*).

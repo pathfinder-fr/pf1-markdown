@@ -10,7 +10,6 @@ Categories:
 
 {s:UM}
 **Niveau** 1  
-
 **Portée ** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 
 Un sort de mots incluant ce mot cible affecte tout ce qui se trouve dans un rayon de 3 mètres (2 {s:c}) autour de l’explosion. Certains [[mots effets]] utilisant *explosion* sont en fait des émanations qui ont la même zone d’effet que l’explosion, d'une durée plus longue et que l’on ne peut pas déplacer une fois créées. On les désigne sous le nom « émanation » entre parenthèses après mention de la restriction de cible *explosion*.

@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur de buissons épineux constitué de 1 cube de 3 m (2 {s:c}) d’arête/[[niveau]] (F)  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait apparaître une barrière de buissons extrêmement résistants et hérissés d’épines longues comme le doigt. Quiconque se retrouve pris dans le mur ou tente de se frayer un passage au travers perd 25 [[points de vie]] par [[round]] de déplacement, -1 par point de [[CA]], le bonus de [[Dextérité]] et le bonus d’esquive n’étant pas pris en compte (les créatures bénéficiant d’une [[CA]] de 25 ou plus peuvent donc traverser le mur sans risque).

@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** jusqu’à 4 créatures distantes de moins de 9 m les unes des autres  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Grâce à ce sort, les créatures affectées par un sort ou un effet magique de [[paralysé|paralysie temporaire]] ou un autre effet similaire peuvent recouvrer leur liberté de mouvement, tout comme celles qui sont soumises à un sort ou à un effet qui les rend [[chancelant|chancelantes]]. Si le sort ne cible qu’un seul individu, la [[paralysé|paralysie]] est automatiquement annulée. S’il cible deux créatures, chacune d’elles bénéficie d’un nouveau [[jet de sauvegarde]] contre l’effet qui les a [[paralysé|paralysées]] avec un bonus de résistance de +4. Enfin, s’il cible trois ou quatre sujets, ils reçoivent également un nouveau [[jet de sauvegarde]] mais avec un bonus de résistance de +2 seulement.

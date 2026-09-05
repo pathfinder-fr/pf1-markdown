@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage fait appel aux forces du destin pour maudire une créature. La cible souffre de tous les inconvénients du pouvoir de classe de [[oracle#MALEDICTIONDELORACLE|malédiction d'oracle]] et d'aucun de ses avantages. En revanche, le personnage subit toujours tous les effets de sa [[oracle#MALEDICTIONDELORACLE|malédiction]]. Si le personnage ne dispose pas du pouvoir de classe de [[oracle#MALEDICTIONDELORACLE|malédiction d'oracle]], ce sort reste sans effet.

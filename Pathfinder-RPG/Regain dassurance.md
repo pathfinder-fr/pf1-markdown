@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature plus 1 autre/4 [[niveau|niveaux]], distantes de moins de 9 m les unes des autres  
-
 **Durée** 10 minutes (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort permet de redonner confiance au sujet, ce qui lui confère un bonus de moral de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[registre|terreur]] pendant dix minutes. S’il est déjà sous l’influence d’un sort ou effet de [[registre|terreur]], celui-ci est réprimé pendant toute la durée de *regain d’assurance*.

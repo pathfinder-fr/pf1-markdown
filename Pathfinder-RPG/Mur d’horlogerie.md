@@ -13,15 +13,10 @@ Categories:
 **(Source: Heroes of the street)**
 
 **Ecole** [[Invocation]] ([[Création]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** Un mur de mécanismes en bronze dont la zone d'effet est de 1,5 m/[[niveau]] (1{s:c}/[[niveau]])  
-
 **Jet de sauvegarde** [[Réflexes]] (1/2) ou [[Réflexes]] (annule), voir texte ; **Résistance à la magie** Oui
 
 Un mur immobile et vertical constitué d'engrenages et de rouages tournants surgit. Toute créature passant à travers le mur subit 1d6 points de dégâts perçants et tranchants par tranche de 2 [[NLS|niveaux de lanceurs de sorts]] (maximum 10d6); un jet de [[Réflexes]] réussi réduit les dégâts de moitié.

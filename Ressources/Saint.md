@@ -5,7 +5,6 @@ LastModified: 2020-06-02 10:37
 ---
 
 <div class="fright">***Voir aussi la [[Liste des prodiges du saint]].***  
-
 </div>
 
 {s:Reference|TABLESAINT}

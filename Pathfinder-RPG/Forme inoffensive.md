@@ -16,19 +16,12 @@ Categories:
 **(Source: Heroes of the streets)**
 
 **Ecole** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[chaman|Cham]] 2, [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[rôdeur]] 2, [[sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** Un compagnon animal/familier/esprit animal consentant  
-
 **Durée** 8 heures  
-
 **Jet de sauvegarde** [[Vigueur]] annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
-
 
 Vous transformez la cible en un animal inoffensif présentant approximativement le même type de corps. La forme obtenue doit être une forme considérée comme acceptable par les communautés locales comme un chat, un chien, un faucon de chasse, un cheval ou un rat. Cette transformation peut réduire la cible de 2 catégories de taille maximum mais ne peut pas rendre un animal plus petit que la taille TP. Ce sort ne peut pas augmenter la taille de la cible ou lui donner de nouvelles attaques naturelles ou d'autres formes de déplacement. Ce sort fonctionne sinon comme *[[forme bestiale II]]*.
 

@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (un morceau de cuir tanné)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
 Ce sort entoure le sujet d’un champ de force invisible mais tangible qui lui octroie un bonus d’armure de +4 à la [[CA]].

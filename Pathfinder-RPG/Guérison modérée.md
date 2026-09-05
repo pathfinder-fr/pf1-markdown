@@ -10,13 +10,9 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[prêtre]] 2, [[druide]] 3, [[inquisiteur]] 2, [[paladin]] 3, [[rôdeur]] 3, [[sorcière]] 2  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (inoffensif) ou [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*, *[[choisi]]*
 
 La cible d’un sort incluant cet effet est guérie de 2d6 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +10). Les [[type Mort-vivant|morts-vivants]] subissent des dégâts au lieu d’être soignés mais peuvent faire un jet de [[Volonté]] pour réduire ces dégâts de moitié. La [[résistance à la magie]] fonctionne normalement.  
-
 :**Augmentation :** La cible est guérie de 2d8 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +10).

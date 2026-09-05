@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 2, [[prêtre]] 2, [[inquisiteur]] 2, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 2  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restrictions de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet est [[paralysé|paralysée]] et ne peut plus bouger. Bien qu’elle soit consciente et puisse respirer normalement, elle ne peut entreprendre aucune action. Elle fait un nouveau [[jet de sauvegarde]] à la fin de son tour afin d’y mettre un terme. Les créatures volantes qui se servent de leurs ailes pour se déplacer tombent au sol et celles qui nagent ne le peuvent plus et se noient. Les sorts incluant cet effet ne peuvent affecter que les créatures de [[type Humanoïde]].

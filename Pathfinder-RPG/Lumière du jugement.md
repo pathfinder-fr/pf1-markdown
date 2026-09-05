@@ -11,15 +11,10 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Zone** rayon de 9 m (6 {s:c})  
-
 **Durée** instantanée, voir texte
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 

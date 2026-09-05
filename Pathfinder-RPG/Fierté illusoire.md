@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki>; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
 La cible se laisse tellement distraire par une opinion exagérée de sa propre valeur qu'elle subit un malus de -2 aux jets d'attaque et aux tests de compétences. En revanche, ce sentiment lui donne aussi un bonus de moral de +2 contre les effets de [[charme]] et [[coercition]].

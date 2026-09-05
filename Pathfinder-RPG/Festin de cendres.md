@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une pincée de cendres)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 2 jours/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage maudit sa cible en l'affligeant d'une [[dangers naturels#FAIMSOIF|faim]] que nulle nourriture ne peut apaiser. Si la cible rate son [[jet de sauvegarde]], elle souffre d'[[dangers naturels#FAIMSOIF|inanition]]. Les effets de ce sort ne peuvent pas infliger plus de points de [[dégâts non létaux]] que la cible ne possède de points de vie. Aucune quantité de nourriture ne peut contrer cet effet et toute tentative pour absorber de la nourriture rend la cible [[nauséeux|nauséeuse]] à moins qu'elle ne réussisse un jet de [[Vigueur]] [[DD]] 12. La cible subit tout de même les conséquences normales de tout ce qu'elle mange (qu'il s'agisse de [[poison]], de [[potions magiques|potion]] ou autre). On peut dissiper *festin de cendres* avec *[[annulation denchantement|annulation d'enchantement]]*, *[[souhait limité]]*, *[[miracle]]*, *[[délivrance des malédictions]]* ou *[[souhait]]* mais il faut soigner les effets de la [[dangers naturels#FAIMSOIF|faim]] comme d'ordinaire.

@@ -10,13 +10,9 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet reçoit 1d4 niveaux négatifs temporaires. Si ces niveaux négatifs provoquent sa mort, elle revient sous la forme d’un fantôme 1d4 jours à moins d’être enterrée en terre consacrée.  
-
 :**Augmentation :** La perte de niveaux est permanente. Augmenter le mot effet de la sorte améliore son niveau de 5.

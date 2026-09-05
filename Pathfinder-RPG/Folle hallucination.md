@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[fantasme]]); **Niveau**  [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature humanoïde   
-
 **Durée** 5 minutes/[[niveau]](1 heure au maximum)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
 Ce sort produit une réalité hallucinatoire dans l'esprit de la cible. Pour elle, les surfaces semblent onduler et des mouvements en lisière du champ de vision la distraient en permanence. La cible subit un malus de -2 aux [[jet de sauvegarde|jets de sauvegarde]], aux tests de niveau de lanceur de sorts, aux tests de [[compétences]] basés sur l'[[intelligence]] et à ceux basés sur la [[sagesse]].

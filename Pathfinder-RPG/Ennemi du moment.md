@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ;** Niveau** [[Rôdeur|Rôd]] 3   
-
 **Temps d'incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature autre qu'un [[rôdeur#ENNEMIJURE|ennemi juré]]  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à ce sort, le personnage choisit de faire de sa cible son [[rôdeur#ENNEMIJURE|ennemi juré]] pour toute la durée du sort. Il choisit un type d'[[rôdeur#ENNEMIJURE|ennemi juré]] et, tant que le sort est actif, il considère sa cible comme un ennemi de ce type.

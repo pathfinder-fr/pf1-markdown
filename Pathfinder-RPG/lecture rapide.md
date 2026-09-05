@@ -6,15 +6,10 @@ LastModified: 2020-02-16 10:30
 
 {s:RSE}
 **École** [[divination]] ; **Niveau** [[barde]] 1, [[ensorceleur]]/[[magicien]] 1, [[magus]] 1, [[prêtre]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]   
-
 **Portée** contact  
-
 **Cible**  livre touché  
-
 **Durée** instantanée
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 

@@ -6,11 +6,8 @@ LastModified: 2012-09-29 15:07
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[barde]] 2, [[conjurateur]] 2, [[druide]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[magus]] 2, [[paladin]] 2, [[prêtre]] 2, [[sorcière]] 2  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*
 
 Le lanceur d’un sort incluant cet effet choisit un effet de sort qui affecte une créature consentante, puis fait un test de [[NLS]] avec un [[DD]] de 11 + le niveau de lanceur de l’effet de sort. S’il le réussit, l’effet est supprimé pendant la durée de la suppression. Si le sort supprimé a une durée limitée, elle continue de s’écouler pendant la suppression.

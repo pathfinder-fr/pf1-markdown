@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ;** Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature ou un objet  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage invoque un jet d'eau qui renverse et détrempe une créature ou une case. Le personnage peut utiliser ce sort pour [[bousculade|bousculer]] une créature ou un objet. Le [[BMO]] de cette [[bousculade]] est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son modificateur d'[[Intelligence]], de [[Sagesse]] ou de [[Charisme]], selon celui qui est le plus élevé. Cette [[bousculade]] ne provoque pas d'[[attaque dopportunité|attaques d'opportunité]]. La *poussée hydraulique* éteint tout feu ordinaire sur une créature, un objet ou une unique case de 1,50 mètre (1 {s:c}) de côté. Il n'affecte pas les flammes magiques.

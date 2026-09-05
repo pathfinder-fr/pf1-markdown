@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Hypnotiseur|Hyp]] 3, [[Psychiste|Psy]] 4  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 [[type animal|animal]]  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort permet d’envoûter un [[type animal|animal]] et de le forcer à obéir à des ordres simples comme « Cours », « Attaque » ou « Va chercher ». Les instructions suicidaires (y compris forcer l’[[type animal|animal]] à aller combattre une créature faisant au moins deux catégories de taille de plus que l’[[type animal|animal]]) sont ignorées.

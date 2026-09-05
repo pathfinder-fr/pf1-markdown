@@ -13,15 +13,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 L*'arc de gravité* augmente de façon significative le poids et la densité des flèches ou des carreaux tirés à l'instant qui précède l'impact contre la cible et les ramène à la normalité un moment plus tard. Tout projectile tiré avec un arc ou une arbalète portée par le personnage alors qu'il lance ce sort inflige les mêmes dégâts que s'il était d'une [[catégorie de taille]] au-dessus de sa catégorie réelle. Par exemple, une flèche tirée avec un arc de taille moyenne inflige normalement 1d8 points de dégâts mais avec le sort, elle en inflige 2d6 (voir le [[tableau récapitulatif des armes]]). Le personnage est le seul à pouvoir bénéficier de ce sort. Si quelqu'un d'autre utilise son arc, les flèches infligent des dégâts normaux.

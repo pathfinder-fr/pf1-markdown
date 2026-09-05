@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) ;** Niveau** [[Barde|Bard]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** une note de musique solidifiée  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage donne temporairement une forme tangible à une unique note de musique et peut l'accrocher où il veut dans le rayon de portée du sort, ce qui lui permet de s'en servir comme d'un crochet, d'une poulie, d'un objet pour bloquer une porte ou tout ce qu'il peut imaginer. L'apparence exacte de la note dépend de la mélodie jouée. Elle peut être pointue ou arrondie, simple ou pleine de circonvolutions, même colorée, cependant, elle est toujours à peu près de la taille de la main ouverte du personnage. Une fois créée, la *note tangible *résiste à toute tentative pour la déplacer, mais elle disparaît instantanément si on applique assez de force ou de poids contre elle.

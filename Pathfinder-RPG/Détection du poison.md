@@ -21,17 +21,11 @@ Categories:
 ---
 
 **École** [[école Divination|Divination]] ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Occultiste|Occ]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible ou zone d’effet** 1 créature, 1 objet ou 1 cube de 1,50 m (1 {s:c}) d’arête  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort indique si une créature, un objet ou un lieu a été empoisonné ou est toxique. Un test de [[Sagesse]] de [[DD]] 20 permet de déterminer la nature exacte du poison. Si le lanceur de sorts maîtrise la compétence [[Artisanat]] (alchimie), il peut tenter un test d’[[Artisanat]] (alchimie) de [[DD]] 20 si le test de [[Sagesse]] échoue ; il peut également choisir de réaliser ce test d’[[Artisanat]] (alchimie) avant le test de [[Sagesse]]. Le sort fonctionne à travers les barrières si celles-ci ne sont pas trop épaisses : il est bloqué par 30 cm de pierre, 2,5 cm de métal, une mince feuille de plomb ou 90 cm de bois ou de terre.

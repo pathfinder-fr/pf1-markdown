@@ -61,17 +61,11 @@ même parfois des auras visibles légèrement dorées et brillantes.
 
 Les aasimars ne possèdent pas de DV raciaux et progressent en acquérant des niveaux de classes. Ils  Leurs traits raciaux sont les suivants :
 - **+2 Charisme, +2 Sagesse**. Les aasimars sont dotés d'une intuition puissante, d'une confiance en soi importante et d'une personnalité attrayante  
-
 - **Vitesse normale** : la vitesse de déplacement de base des aasimars est de 9 m (6 {s:c}).  
-
 - **Vision dans le noir** : les aasimars peuvent voir dans le noir jusqu'à 18 m (12 {s:c}).  
-
 - **Compétents** : Les aasimars reçoivent un bonus racial de +2 à leurs tests de [[Diplomatie]] et de [[Perception]].  
-
 - **Pouvoir magique** : les aasimars peuvent utiliser *[[lumière du jour]]* une fois par jour comme pouvoir magique dont le NLS égal à leur niveau de classe.  
-
 - **Résistance céleste** : Les aasimars bénéficient de résistances à l'acide, à l'électricité et au froid de 5 points de résistance chacune.   
-
 - **Langues** : les aasimars parlent automatiquement le céleste et le commun. s'ils disposent d'une intelligence élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : draconique, elfe, gnome, halfelin, nain et sylvestre.
 
 {s:VoirAussiAvant}La page de la race [[Aasimar (race)|Aasimar]]{s:VoirAussiAprès}</div></td></tr></table>

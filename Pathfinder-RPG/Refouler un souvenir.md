@@ -11,15 +11,10 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[hypnotiseur|Hyp]] 5, [[psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** instantanée
 
 Ce sort permet au personnage de conserver des connaissances importantes à l’abri de tous, même de lui. Quand il lance ce sort, il choisit un élément de savoir de sa connaissance (d’un maximum de 50 mots). Ce savoir disparaît entièrement de son esprit et il ne se rend même pas compte qu’il a oublié quelque chose. La magie du sort enveloppe les zones manquantes de sa mémoire dans une brume floue. Souvenir refoulé protège contre *[[détection de pensées]]*, *[[détection du mensonge]]*, *[[zone de vérité]]* et autres sorts similaires, bien qu’un interrogatoire minutieux puisse révéler les trous de mémoire ou une *[[modification de mémoire]]* suite à un sort.

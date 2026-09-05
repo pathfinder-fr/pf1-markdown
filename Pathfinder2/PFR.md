@@ -6,7 +6,6 @@ LastModified: 2023-11-03 15:44
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-
 Cette page reprend les principales informations connues au sujet du projet Pathfinder 2 Remastered annoncé par Paizo ce 26 avril 2023. On devrait avoir beaucoup plus de détails lors du séminaire de 2 heures programmé pour le début de la PaizoCon 2023 (du 26 mai au 29 mai).
 
 N'hésitez pas à venir en discuter et à poser vos questions sur le [<img src="https://www.pathfinder-fr.org/images/Pathfinder/logos/discord_icon.png" style="height:12px"/> serveur Discord de Pathfinder-FR!](https://discord.gg/MYqudHH)

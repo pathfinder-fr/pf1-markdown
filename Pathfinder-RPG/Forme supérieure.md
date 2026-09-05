@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[druide]] 2, [[ensorceleur]]/[[magicien]] 2, [[magus]] 2, [[paladin]] 2, [[prêtre]] 2, [[rôdeur]] 2  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet bénéficie d’un bonus d’altération de +4 à la [[Force]], la [[Dextérité]] ou la [[Constitution]] (au choix du lanceur). Par une [[action rapide]], elle peut mettre fin au mot effet de manière prématurée pour bénéficier d’un bonus d’altération de +8 à sa caractéristique, et ce jusqu’à la fin de son tour.

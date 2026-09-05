@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort construit un labyrinthe de force extradimensionnel et transporte la cible en son sein. Chaque [[round]], à son tour de jeu, celle-ci peut réaliser un test d’[[Intelligence]] ([[DD]] 20) pour tenter de le fuir (ce qui constitue une [[action complexe]]). Si la créature ne parvient pas à s’enfuir, le labyrinthe disparaît après 10 minutes et elle retourne d’où elle vient.

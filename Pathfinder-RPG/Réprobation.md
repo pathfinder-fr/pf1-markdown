@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction, voir texte]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature de la même religion que le personnage  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** non; **Résistance à la magie** oui
 
 Le personnage excommunie la cible, pour la maudire et la punir pour ses actes et ses mauvaises actions à l'encontre de sa religion. Ceci a trois effets.

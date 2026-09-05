@@ -43,7 +43,6 @@ Pour tous les autres tests, cette règle ne s’applique pas.
 
 
 <blockquote><h4 class="separator">Eilio et la planche de bois</h4>  
-
 Eilio est un bandit au grand cœur, fuyant les travers de son clan. Au cours d’une de ses aventures, il doit traverser une fosse remplie de pointes acérées en marchant sur une large planche. Pour ce faire, le joueur d'Eilio doit effectuer un test assez simple de sa compétence Acrobatie, avec un DD de 10. Malheureusement, il fait un « 1 » naturel. En ajoutant tous ses bonus (+8) le résultat final est de 9, il échoue donc de justesse. Comme c’est un test de compétence, le « 1 » naturel ne signifie pas automatiquement un échec.  
   
 Tombant dans la fosse, il doit effectuer un jet de sauvegarde pour limiter les dégâts. Le DD est de 30. Le joueur fait un « 20 » naturel et, malgré le fait qu’il n’atteint pas le DD avec son modificateur de +6, c’est une réussite.
@@ -58,7 +57,6 @@ Les bonus ont tous un type, en fonction de leur origine (on dit qu'ils sont typ�
 
 
 <blockquote><h4 class="separator">L'armure d'Abriel</h4>  
-
 Abriel est un halfelin dévoué à la cause de Sarenrae. Pour se protéger, il bénéficie de modificateurs, à sa classe d’armure, qui sont :  
   
 <ul><li>+6 grâce à sa cotte de maille (bonus d’armure)</li><li>+2 grâce à son écu (modificateur de bouclier)</li><li>+1 car il est petit (bonus de taille)</li><li>+2 grâce à sa souplesse (bonus de Dextérité)  
@@ -213,7 +211,6 @@ Dans ces cas, on utilise le nouveau score pour déterminer le modificateur. Pour
 
 
 <blockquote><h4 class="separator">Les sortilèges d’Aurgelmyr</h4>  
-
 Aurgelmyr est un prêtre d’Irori, au cours de son entraînement, son maître lui montre les effets des sortilèges augmentant les capacités physiques et mentales :  
   
 <ul><li>Endurance de l’ours, augmente temporairement de +4 la Constitution. Sa valeur de base dans cette caractéristique est de 12 avec un modificateur de +1, elle passe donc à 16 (12+4) et son modificateur est maintenant de +3. Ses points de vie augmentent donc de +2 par niveau acquis, la différence entre les modificateurs.</li><li>Sagesse du hibou, augmente temporairement de +4 la Sagesse. Sa valeur de base dans cette caractéristique est de 16 avec un modificateur de +3, elle passe donc à 20 (16+4) et son modificateur est maintenant de +5. Cela n’augmente pas les sorts auquel Aurgelmyr a accès mais majorent leurs efficacités.  
@@ -362,7 +359,6 @@ A chaque montée de niveau, le joueur peut opter pour l’une ou l’autre de se
 
 
 <blockquote><h4 class="separator">La classe de prédilection d’Aramis</h4>  
-
 Personnage débutant, le joueur d’Aramis lui attribue son premier niveau en tant que rôdeur. Mais, par la suite, il veut en faire, avant tout, un ensorceleur. Il décide donc que la classe de prédilection sera celle d’ensorceleur. En conséquence, lors de son premier niveau, Aramis ne bénéficie d’aucun bonus, mais devra attendre d’acquérir des niveaux d’ensorceleur pour en profiter.
 </blockquote>
 
@@ -449,19 +445,12 @@ Une fois les caractéristiques, la race et la classe définie, vous pouvez calcu
 
 
 <blockquote><h4 class="separator">Arunya, la guerrière flamboyante</h4>  
-
 Pour l’ensemble de ce chapitre, Arunya servira d’exemple. Guerrière de niveau 1, ses caractéristiques sont les suivantes :  
-
 •	Force 16, modificateur +3  
-
 •	Dextérité 14, modificateur +2  
-
 •	Constitution 16, modificateur +3  
-
 •	Intelligence 10, modificateur +0  
-
 •	Sagesse 9, modificateur -1  
-
 •	Charisme 11, modificateur +0  
 </blockquote>
 #### Les bonus d’attaque
@@ -502,9 +491,7 @@ Les bonus d’attaque au corps à corps, à distance et en manœuvre offensive s
 
 <blockquote><h4 class="separator">Les bonus d’attaque d’Arunya</h4> :
 Bonus d’attaque au corps à corps = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)  
-
 Bonus d’attaque à distance = +3 soit +1 (BBA) +2 (mod de Dextérité) +0 (mod de taille)  
-
 Bonus au manœuvre offensive = +4 soit +1 (BBA) +3 (mod de Force) +0 (mod de taille)  
 </blockquote>
 
@@ -563,13 +550,9 @@ La classe d’armure, de contact, est utilisée quand c’est une attaque magiqu
 
 <blockquote><h4 class="separator">Les défenses d’Arunya</h4>
 La guerrière porte une cotte de mailles pour armure, n’utilisant pas de bouclier car elle est armée d’une épée à deux mains. Ses différentes défenses sont donc :  
-
 CA = 18 soit 10 (fixe) + 6 (cotte de maille) + 2 (mod de Dextérité)  
-
 CA, pris au dépourvu = 16 soit 10 (fixe) + 6 (cotte de maille)  
-
 CA de contact = 12 soit 10 (fixe) + 2 (mod de Dextérité)  
-
 DMD = 16 soit 10 (fixe) +1(BBA) + 3 (mod de Force) + 2 (mod de Dextérité)
 </blockquote>
 
@@ -610,13 +593,9 @@ Le score maximum du rang est égal au niveau du personnage.
 
 
 <blockquote><h4 class="separator">Les points de compétences Enyil</h4>Enyil est une barde humaine avec 12 en Intelligence. Pour son premier niveau, ses points de compétences sont donc de :  
-
 •	6, dû a sa classe  
-
 •	+1, dû au modificateur d’Intelligence  
-
 •	+1 car elle est humaine  
-
 Le joueur d’Enyil a donc 8 points de compétences a dépenser et ce, par niveau.
 </blockquote>
 
@@ -634,17 +613,11 @@ Pour déterminer la valeur d’une compétence, il faut additionner :
 
 
 <blockquote><h4 class="separator">Enyil, l’acrobate</h4>Le joueur d’Enyil dépense un point de compétence dans la compétence Acrobatie. Comme la barde est de niveau 1, c’est le maximum que le joueur peut lui attribuer actuellement. Sa Dextérité est de 14, le modificateur est donc de +2 et elle porte une armure de cuir cloutée.  
-
 Son score en Acrobatie est donc :  
-
 •	1, c’est le rang qu’elle possède  
-
 •	+2, le modificateur de Dextérité  
-
 •	+3, c’est une compétence de classe  
-
 •	-1, a cause de la gène engendrée par le port de l’armure  
-
 •	Soit un total de +5
 </blockquote>
 
@@ -787,7 +760,6 @@ Une autre particularité est qu’ils ne sont pas soumis au pourcentage d’éch
 
 
 <blockquote><h4 class="separator">Les listes de sortilèges d’Aurgelmyr</h4> :   
-
 En tant que prêtre de niveau 1, Aurgelmyr a accès aux listes de sorts de niveau 0 et de niveau 1. Cela veut dire, qu’il connaît l’ensemble des sortilèges contenus dedans, il est libre de choisir.
 </blockquote>
 
@@ -802,12 +774,9 @@ De plus, à l’exception du barde, ils sont soumis au pourcentage d’échec au
 
 
 <blockquote><h4 class="separator">Les sortilèges d’Enyil </h4>:  
-
 En tant que barde de niveau 1, Enyil connaît 4 sorts de niveau 0 et 2 sorts de niveau 1. A sa création, le joueur doit choisir au sein des listes de sorts du barde lesquels son personnage a appris à maîtriser.
 Ainsi Enyil débute avec :  
-
 Niveau 1- <i>Charme personne, Déguisement</i>  
-
 Niveau 0 (tours de magie)- <i>Berceuse, Ouverture/fermeture, Prestidigitation, Son imaginaire</i></blockquote>
 
 
@@ -821,15 +790,11 @@ Les oraisons, pour les druides et les prêtres, et les tours de magie, pour les 
 
 
 <blockquote><h4 class="separator">La prière d’Aurgelmyr</h4> :   
-
 Après une nuit de repos, Aurgelmyr médite et prépare ses sorts pour la journée. Il peut en apprendre 3 de niveau 0, les oraisons, et 3 de niveau 1. Son  choix se porte sur :  
-
 Niveau 1-<i>Compréhension des langages, Bénédiction</i> (x2)  
-
 Niveau 0 (oraison) –<i>Détection de la magie, Lumière et Résistance</i>  
   
 Au cours de la journée, il peut utiliser autant de fois qu’il le désire ses oraisons mais que dans le choix qu’il a fait, c’est à dire <i>détection de la magie, lumière</i> et <i>résistance</i>.  
-
 Il pourra lancer une seule fois <i>compréhension des langages</i> et deux fois <i>bénédiction</i> l’ayant préparée deux fois.
 </blockquote>
 
@@ -848,9 +813,7 @@ Les tours de magie, les sorts de niveau 0, peuvent être utilisés sans limite.
 
 
 <blockquote><h4 class="separator">La magie spontanée d’Enyil</h4> :   
-
 La barde peut lancer quotidiennement 2 sorts de niveau 1 et un nombre illimité de tours de magie qu’il connaît.   
-
 Dans la journée, le joueur décide de lancer un <i>charme-personne</i>. Il lui reste donc un sort de niveau 1 à lancer, il peut continuer à choisir entre <i>charme-personne</i> et <i>déguisement</i>.
 </blockquote>
 
@@ -900,20 +863,14 @@ Ces sortilèges en bonus ne s’appliquent que quand le lanceur de sort est capa
 
 
 <blockquote><h4 class="separator">Les degrés de difficultés et la concentration d’Aurgelmyr</h4> :   
-
 Aurgelmyr est doté de 16 en Sagesse, donc bénéficie d’un bonus de +3 de caractéristique primordiale. Les DD de ses sorts seront donc de :  
-
 •	13 pour le niveau 0 (10 +3 de modificateur de Sagesse + 0 niveau de sort)  
-
 •	14 pour le niveau 1 (10 +3 de modificateur de Sagesse + 1 niveau de sort)  
   
 Son bonus de concentration sera de +4 (+1 de niveau de prêtre +3 de modificateur de Sagesse).  
   
 Avec 16 en Sagesse, Aurgelmyr possède les bonus aux sorts suivants :  
-
 •	+1 sort de niveau 1, que l’on applique car il utilise cette liste de sort.  
-
 •	+1 sort de niveau 2, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.  
-
 •	+1 sort de niveau 3, que l’on n’applique pas car il n’utilise pas encore cette liste de sort.
 </blockquote>

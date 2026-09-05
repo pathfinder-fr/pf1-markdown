@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 porte, coffre ou boîte ne faisant pas plus de 1 m²/[[niveau]]  
-
 **Durée** [[instantanée]] (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Déblocage* permet d’ouvrir les portes coincées, fermées à clef ou bloquées par une barre ainsi que celles qui sont protégées par des sorts comme *[[verrouillage]]* ou *[[verrou du mage]]*. Le personnage doit effectuer un test de [[NLS|niveau de lanceur de sorts]] contre le [[DD]] du verrou, avec un bonus de +10. S’il réussit, il ouvre jusqu’à deux éléments de fermeture. Ce sort ouvre également les passages secrets, les boîtes et les coffres. Il brise aussi les soudures, ouvre les menottes et dénoue les chaînes qui maintiennent quelque chose fermé. Lorsque ce sort est utilisé sur porte protégée par un *[[verrou du mage]]*, il ne dissipe pas le verrou mais en suspend les effets pendant 10 minutes. Dans toutes les autres situations, la porte reste dans l’état dans lequel le sort de *déblocage* l’a laissée (elle ne se referme pas d’elle-même). *Déblocage* ne permet pas de soulever une herse et n’a pas d’effet sur les cordes, les lianes ou les plantes grimpantes. Il faut noter que la puissance du sort est limitée par sa [[zone deffet|zone d’effet]]. Chaque utilisation du sort peut débloquer jusqu’à deux moyens de fermeture différents.

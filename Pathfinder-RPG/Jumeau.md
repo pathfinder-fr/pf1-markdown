@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un mélange de terre et de sang du lanceur de sorts)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement (T)
 
 Cet [[alchimiste#EXTRAIT|extrait]] permet de créer un double parfait du personnage, vêtu et équipé comme lui. Le personnage peut alors faire passer son esprit d'un corps à l'autre une fois par [[round]] par une [[action libre]]. Ce changement se fait soit juste avant le tour du personnage, soit juste après, mais pas pendant le [[round]]. Il peut agir normalement dans le corps qu'il a choisi. L'autre corps est considéré comme [[hébété]] bien qu'il puisse faire une unique [[action de mouvement]] pendant le tour du personnage. Le jumeau ne peut pas parler tant que le personnage est dans le second corps, il ne peut pas [[pris en tenaille|prendre quelqu'un en tenailles]] ni faire une [[attaque dopportunité|attaque d'opportunité]] ni menacer ses ennemis.

@@ -369,7 +369,6 @@ Le rôdeur ne bénéficie de ses dons de style de combat que s’il porte une ar
 {s:ClearRight}
 ## Autres
 <div class="BD"><div class="BDtexte">**SOUS-SOUS TITRE**  
-
 **PNJ** description
 </div></div>
 

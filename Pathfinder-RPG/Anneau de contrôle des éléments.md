@@ -36,67 +36,39 @@ Le possesseur d’un anneau de contrôle des éléments subit un malus à certai
 En plus des propriétés détaillées ci-dessus, chaque anneau possède des pouvoirs dépendant de son type :
 
 **Anneau de contrôle des éléments (Air)**  
-
 • *[[Bourrasque]]* (2 fois par jour)  
-
 • *[[Éclair multiple]]* (1 fois par semaine)  
-
 • *[[Feuille morte]]* (usage illimité, porteur uniquement)  
-
 • *[[Marche dans les airs]]* (1 fois par jour, porteur uniquement)  
-
 • *[[Mur de vent]]* (usage illimité)  
-
 • *[[Résistance aux énergies destructives]]* (électricité) (usage illimité, porteur uniquement)  
-
 *Cet anneau semble n’être qu’un anneau de [[feuille morte]] tant que la condition déterminée n’a pas été remplie. Il doit être réactivé chaque fois qu’il change de porteur.*
 
 **Anneau de contrôle des éléments** (Eau)  
-
 • *[[contrôle de leau|Contrôle de l’eau]]* (2 fois par semaine)  
-
 • *[[création deau|Création d’eau]]* (usage illimité)  
-
 • *[[marche sur londe|Marche sur l’onde]]* (usage illimité)  
-
 • *[[Mur de glace]]* (1 fois par jour)  
-
 • *[[Respiration aquatique]]* (usage illimité)  
-
 • *[[Tempête de grêle]]* (2 fois par semaine)  
-
 *Cet anneau se comporte comme un anneau de [[marche sur londe|marche sur l’onde]] tant que la condition déterminée n’a pas été remplie.*
 
 **Anneau de contrôle des éléments** (Feu)  
-
 • *[[Colonne de feu]]* (2 fois par semaine)  
-
 • *[[Mains brûlantes]]* (usage illimité)  
-
 • *[[Mur de feu]]* (1 fois par jour)  
-
 • *[[Pyrotechnie]]* (2 fois par jour)  
-
 • *[[Résistance aux énergies destructives]]* (feu) (comme un [[anneau de résistance aux énergies destructives|anneau majeur de résistance aux énergies destructives]] (feu))  
-
 • *[[Sphère de feu]]* (2 fois par jour)  
-
 *Cet anneau se comporte comme un [[anneau de résistance aux énergies destructives|anneau majeur de résistance aux énergies destructives]] (feu) tant que la condition déterminée n’a pas été remplie.*
 
 **Anneau de contrôle des éléments** (Terre)  
-
 • *[[Fusion dans la pierre]]* (usage illimité, porteur uniquement)  
-
 • *[[Ramollissement de la terre et de la pierre]]* (usage illimité)  
-
 • *[[Façonnage de la pierre]]* (2 fois par jour)  
-
 • *[[Peau de pierre]]* (1 fois par semaine, porteur uniquement)  
-
 • *[[Passe-muraille]]* (2 fois par semaine)  
-
 • *[[Mur de pierre]]* (1 fois par jour)  
-
 *Cet anneau se comporte comme un anneau de [[fusion dans la pierre]] (permettant à son porteur de lancer [[fusion dans la pierre]] à volonté) tant que la condition déterminée n’a pas été remplie.*
 (((Création)))
 **Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[convocation de monstres VI]]*, ainsi que tous les autres sorts que l’anneau met à la disposition de son porteur ; **Coût** 100 000 po

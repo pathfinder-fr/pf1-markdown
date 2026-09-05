@@ -9,7 +9,6 @@ LastModified: 2024-05-27 16:21
 **Aura** [[Enchantement]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 32 000 po ; **Poids** 2,5 kg
 (((Description)))
 Ce solide bâton en bois est surmonté d’un symbole sacré entouré de vilaines pointes en métal. Il permet d’utiliser les sorts suivants.  
-
 • *[[fustiger]]* (1 charge)
 • *[[injonction]]* (1 charge)
 • *[[zone de vérité]]* (1 charge)

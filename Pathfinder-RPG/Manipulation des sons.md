@@ -5,17 +5,11 @@ LastModified: 2012-11-04 16:44
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[barde|Bard]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature ou 1 objet/[[niveau]], distants de moins de 9 m (6 {s:c}) les uns des autres  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Cette incantation permet au [[barde]] de modifier les sons produits par les objets ou les créatures. Il peut créer des bruits là où il n’y en a pas, étouffer ceux qui existent ou les transformer. Tous les objets ou créatures doivent être affectés de la même manière. Une fois son choix fait, le personnage ne peut plus le modifier. Le [[barde]] peut manipuler les sons, mais pas créer des mots qui ne lui sont pas familiers.

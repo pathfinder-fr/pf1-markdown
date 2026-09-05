@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur translucide de 6 m (4 {s:c}) de long/[[niveau]] ou anneau translucide de 1,5 m (1 {s:c}) de rayon/2 [[niveau|niveaux]] ; 6 m (4 {s:c}) de hauteur quelle que soit la forme  
-
 **Durée** concentration + 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage crée un mur d’énergie translucide au sein duquel on distingue des visages flous aux paupières ou aux oreilles cousues.

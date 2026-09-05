@@ -5,7 +5,6 @@ LastModified: 2021-01-08 11:58
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Voici une rencontre que vous pouvez ajouter à vos parties de Pathfinder 2e édition, qu'elles se déroulent à Otari, ailleurs dans le monde des Présages perdus, ou dans un monde de campagne de votre création.

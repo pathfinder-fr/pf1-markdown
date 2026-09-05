@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|acide, douleur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une poupée de cire et une fiole d'acide de 10 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** concentration (1 [[round]]/5 [[niveau|niveaux]] au maximum)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Le personnage transmute le sang de la cible en acide, ce qui lui inflige 1d6 points de dégâts d’acide/2 [[niveau|niveaux]] (12d6 au maximum) par [[round]]. Cette douleur débilitante rend la cible [[chancelant|chancelante]] et [[fiévreux|fiévreuse]] pendant 1 [[round]]. Si les dégâts la font tomber à 0 point de vie ou moins, elle se dissout et ne laisse presque aucune trace. Son équipement reste intact.

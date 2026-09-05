@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde]] 4, [[conjurateur]] 3, [[druide]] 4, [[ensorceleur]]/[[magicien]] 4, [[rôdeur]] 4, [[prêtre]] 4, [[sorcière]] 4  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*
 
 Cet effet fonction comme *[[serviteur I]]* excepté qu’il convoque une créature de la liste de niveau 4 dans la Table "[[Convocation de monstres]]". Si le sort est lancé par un [[rôdeur]] ou un [[druide]], il convoque à la place une créature tirée de la liste de niveau 4 de la Table "[[Convocation dalliés naturels|Convocation d'alliées naturels]]". Si le mot cible est [[augmentation|augmenté]], le sort incluant cet effet invoque 1d4+1 créatures.

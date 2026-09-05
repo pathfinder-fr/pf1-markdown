@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La créature affectée souffre en permanence de l’effet du sort *[[confusion]]*. *[[Délivrance des malédictions]]* est insuffisant pour soigner un individu frappé d’*aliénation mentale*. Un sort tel que *[[guérison suprême]]*, *[[miracle]]*, *[[restauration suprême]]*, *[[souhait]]* ou *[[souhait limité]]* est nécessaire pour lui permettre de recouvrer ses facultés.

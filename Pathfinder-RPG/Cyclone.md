@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** cyclone haut de 9 m et large de 3 m à sa base, contre 9 m à son extrémité  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Cette [[évocation]] fait surgir un puissant cyclone qui se déplace dans les airs, sur la terre ferme ou sur l’eau, et ce à la vitesse de 18 m par [[round]]. Le personnage peut le guider en se [[concentration|concentrant]], à moins qu’il choisisse de lui faire décrire un mouvement assez simple. Diriger le cyclone ou changer son programme constitue une [[action simple]]. Il se déplace toujours lors du tour de jeu de son créateur. Si jamais il sort au-delà des limites de portée, il se déplace de manière hasardeuse pendant 1d3 [[round|rounds]], pouvant être alors une menace pour le lanceur de sorts et ses alliés, après quoi il se dissipe (dans ce cas, il est impossible de contrôler à nouveau le cyclone, même s’il se retrouve à portée).

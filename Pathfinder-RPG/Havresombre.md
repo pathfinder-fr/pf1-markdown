@@ -12,17 +12,11 @@ Categories:
 
 {s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}{s:MR}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un petit sac de soie noire)  
-
 **Portée** contact  
-
 **Cible** une case de 1,5 m de côté de sol touché  
-
 **Durée** 2 heures/niveau (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[corde enchantée]]*, à la seule différence que le point d’entrée est une case de 1,5 mètre de côté, non une corde. L’espace accueille jusqu’à 10 créatures de toute taille. Lorsque ce sort est lancé sur une case de 1,5 mètre de côté d’un mur, il crée un espace extra-dimensionnel adjacent au plan de l’Ombre.

@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** créatures situées dans une [[étendue]] de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort calme les créatures agitées. Le lanceur de sort ne les contrôle pas, mais il peut les empêcher de combattre si elles sont agressives, ou de faire la fête si elles se montrent trop démonstratives. Les créatures affectées ne peuvent agir de façon destructrice ou faire preuve de violence, sauf pour se défendre. Si on les attaque ou si elles subissent des dégâts, le sort cesse instantanément de faire effet.

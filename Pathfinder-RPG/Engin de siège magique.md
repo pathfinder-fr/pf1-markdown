@@ -16,17 +16,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]]  
-
 **Portée** contact  
-
 **Cible** engin de siège touché  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort permet d’utiliser une [[arme de siège]] indirecte pour bombarder une cible avec plus de précision, ce qui augmente les dégâts. L’[[arme de siège]] reçoit un bonus d’altération de +1 aux jets de visée et de dégâts. Si le personnage utilise une [[arme de siège]] directe, le sort agit comme une *[[arme magique]]*.

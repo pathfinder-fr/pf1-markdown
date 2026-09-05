@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Hypnotiseur|Hyp]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule (inoffensif)]] ; **Résistance à la magie** oui
 
 Le personnage lie son esprit à celui de la créature qu’il touche pour lui transmettre rapidement une grande quantité d’informations complexes. C’est lui qui décide de ce que la cible apprend, sans dépasser la quantité d’informations transmissible normalement en 10 minutes. Ces informations viennent par séries d’images visuelles et de sensations émotionnelles et ne dépendent pas du langage.

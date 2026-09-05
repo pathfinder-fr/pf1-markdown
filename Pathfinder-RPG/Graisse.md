@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une noix de beurre)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible ou zone d’effet** 1 objet ou 1 carré de 3 m (2 {s:c}) de côté  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#11|→]] *Graisse* : Si un ennemi lance ce sort sur mon objet, et que je réussis mon jet de sauvegarde initial, qu’est ce qui se passe ?***

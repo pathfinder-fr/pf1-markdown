@@ -39,7 +39,6 @@ Categories:
 {s:BDTexte|**Trésor** standard (hallebarde de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Maladie (Ext).** L’ariès ronge constamment le bout de sa hallebarde, imprégnant les lames de maladies avec sa salive dégoûtante. Toutes les créatures touchées par la hallebarde de l’ariès doivent réussir un jet de Vigueur DD 15 ou contracter la vérole grise, une maladie terrifiante qui fragilise le système immunitaire et provoque une éruption cutanée de tâches grises ainsi que la catatonie. Le DD du jet de sauvegarde est basé sur la Constitution.  
-
 *Vérole grise* : hallebarde — blessure ; *JdS* Vigueur DD 14 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* affaiblissement temporaire de 1d6 Force ; *guérison* 2 réussites consécutives.}
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>

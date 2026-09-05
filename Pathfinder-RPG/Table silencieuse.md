@@ -18,7 +18,6 @@ Categories:
 **Temps d’incantation** 1 round</br>
 **Composantes** [[Composantes|V]]</br>
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone** émanation de 1,5 m de diamètre centrée sur un objet ou un point dans l’espace</br>
 **Durée** 1 minute/[[niveau]] (T)</br>
 **Jet de sauvegarde** aucun (objet) ; **Résistance à la magie** non (objet)

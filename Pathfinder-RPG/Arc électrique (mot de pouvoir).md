@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 1, [[ensorceleur]]/[[magicien]] 1, [[magus]] 1, [[sorcière]] 1  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce mot effet inflige 1d4 points de dégâts d’électricité par [[NLS|niveau de lanceur]] (maximum 5d4).

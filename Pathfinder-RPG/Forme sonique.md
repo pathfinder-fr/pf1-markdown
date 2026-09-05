@@ -10,15 +10,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ([[métamorphose]]) <nowiki>[[</nowiki>son<nowiki>]]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une pincée de poussière récupérée sur une pierre tombale ou dans un sanctuaire sacré)  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 round/niveau
 
 Quand il lance ce sort, le personnage conserve sa silhouette globale mais lui et son équipement sont transformés en son semi-solide. Lorsqu’il est sous forme sonique, le personnage ne reçoit aucun malus pour se faufiler et peut traverser les cases sans malus comme s’il était plus petit de trois catégories de taille. Une fois par round, il peut effectuer une attaque de contact au corps à corps qui inflige 1d6 points de dégâts de son + 1 point par niveau de lanceur. Le personnage est considéré comme intangible (mais ne peut pas traverser les objets solides). Toute attaque non-magique qu’il effectue n’inflige que la moitié des dégâts. Les attaques magiques ne sont pas affectées et le personnage peut utiliser les objets magiques et autres pièces d’équipement normalement.

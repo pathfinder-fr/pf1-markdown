@@ -181,7 +181,6 @@ Categories:
 |}
 </td></tr></table>
 <sup>{s:Reference|NOTE1}*(1) Ces objets pèsent le quart du poids indiqué pour les créatures de taille P.*</sup>  
-
 ### Trousses d’outils et de compétences
 Ces objets sont particulièrement utiles aux personnages ayant certaines compétences et capacités de classe.
 {s:Reference|Abaque}
@@ -302,7 +301,6 @@ Les druides utilisent généralement ces plantes comme focalisateur divin pour l
 {s:Reference|Instrument de musique}
 #### Instrument de musique
 Si le personnage veut donner un spectacle en utilisant la compétence Représentation associée à un instrument de musique (claviers, percussions, cordes ou vents), il doit avoir l’instrument de musique qui convient, sinon, il ne peut pas utiliser la compétence. Le coût et le poids sont indiqués pour un petit instrument de musique standard que le personnage peut porter à la main, comme un tambour, une lyre, une cloche, une harpe ou une flûte. Les instruments plus grands comme le violoncelle et le piano sont bien entendu plus gros et plus chers.  
-
 *Instrument de musique de maître.* Ces instruments de qualité supérieure accordent un bonus de circonstances de +2 aux tests de [[Représentation]] pour jouer de l’instrument.
 
 {s:AO}{s:Reference|Instruments d’occultiste}
@@ -349,7 +347,6 @@ Ces crampons, pitons, cordes et autres outils accordent un bonus de circonstance
 {s:Reference|Ombrelle}
 #### Ombrelle
 Cette ombrelle pliable est translucide et non-étanche. Elle protège de la chaleur directe du soleil. Dans les environnements très chauds où le soleil est un facteur important (comme dans le désert), elle accorde un bonus de circonstances de +1 aux jets de [[Vigueur]] que le personnage doit faire toutes les heures contre la chaleur et réduit les dégâts subis en cas de jet raté de 1 point de vie (minimum de 1). Elle fournit une protection insuffisante dans les environnements de forte ou d’extrême chaleur. Le personnage doit tenir l’ombrelle d’une main et l’utiliser pour s’abriter du soleil. Sinon, il peut la tenir d’une main et l’utiliser pour protéger une autre créature de sa taille ou plus petite. Le prix est indiqué pour une ombrelle simple et fonctionnelle faite en toile ou en papier laqué. L’ombrelle utilisée comme accessoire de mode peut être bien plus chère, en fonction des matériaux qui la composent, allant de 1 po à 10 po.  
-
 *Parapluie.* Le parapluie est une ombrelle plus lourde et étanche faite en toile huilée ou cirée. Il sert à rester au sec quand il pleut ou quand il neige mais il peut également protéger du soleil comme une ombrelle standard.
 
 {s:AO}{s:Reference|Ouija}
@@ -366,14 +363,12 @@ Il se peut que certains MJ autorisent les outils de maître pour d’autres comp
 {s:Reference|Outils d'artisan}
 #### Outils d'artisan
 Ces outils spéciaux regroupent tout le nécessaire à la fabrication de n’importe quel objet. Sans eux, le personnage doit utiliser des outils improvisés (malus de -2 aux tests d’[[Artisanat]]), en admettant qu’il puisse fabriquer son objet.  
-
 *Outils de maître artisan.* Ces outils ont la même fonction que les outils d’artisan à la seule différence que ce sont les outils parfaits accordant un bonus de circonstances de +2 aux tests d’[[Artisanat]].
 
 {s:Reference|Outils de cambrioleur}
 #### Outils de cambrioleur
 Cette trousse comprend des crochets de serrurier et autres outils nécessaires à l’utilisation de la compétence [[Sabotage]].
 Sans ces outils, le personnage doit utiliser des outils improvisés et reçoit un malus de circonstances de -2 à ses tests de [[Sabotage]].  
-
 *Outils de cambrioleur de qualité supérieure.* Cette trousse comprend des outils supplémentaires et de meilleure facture accordant un bonus de circonstances de +2 aux tests de [[Sabotage]].
 
 {s:AO}{s:Reference|Ouvrage de référence sur l’occulte}
@@ -431,9 +426,7 @@ Une suerie est une grande bâche de cuir posée sur une armature de bois pliable
 {s:Reference|Tarot de voyant}
 #### Tarot de voyant
 Les individus en harmonie avec le monde des esprits utilisent ce jeu de cartes illustrées pour prédire l’avenir tandis que les charlatans s’en servent pour soutirer leur argent aux personnes crédules. Un jeu de cartes standard présente des illustrations sobres sur de simples plaques en bois.  
-
 *Tarot de voyant de qualité.* Un tarot de voyant de qualité se compose généralement de plaques en bois avec des illustrations peintes en couleur, il peut servir de focalisateur pour le sort d’*[[augure]]* et accorde un bonus de circonstances de +1 aux tests de [[Profession]] (diseuse de bonne aventure), [[Profession]] (médium) et autres professions similaires.  
-
 *Tarot de maître voyant.* Un tarot de maître voyant peut être fait de bois, d’ivoire, voire même de métal, avec des illustrations peintes ou gravées. Il est souvent rehaussé d’incrustations en or ou de toutes petites pierres précieuses, il bénéficie de tous les avantages d’un *tarot de voyant de qualité*, à la seule différence qu’il accorde un bonus de circonstances de +2 aux tests de compétences indiqués.
 
 {s:Reference|Trousse à symptômes}

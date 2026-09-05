@@ -11,17 +11,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (spécial, voir plus bas) ; **Résistance à la magie** spécial, voir plus bas
 
 Quand le personnage boit un [[alchimiste#EXTRAIT|extrait]] créé avec cette formule, il voit ses réserves magiques se modifier de façon significative et transformer toutes les [[alchimiste#BOMBES|bombes]] qu’il fabrique pendant que l’[[alchimiste#EXTRAIT|extrait]] fait effet. Cette modification n’a aucune conséquence sur les [[alchimiste#DECOUVERTES|découvertes]] que le personnage utilise pour modifier ses [[alchimiste#BOMBES|bombes]] mais il ne peut activer qu’un effet de mixture (une [[alchimiste#FORMULES|formule]] avec les mots « mixture pour bombe » dans l’intitulé) à la fois. S’il boit une autre *mixture pour bombe*, les effets de la mixture absorbée précédemment se dissipent au profit de ceux de la nouvelle.

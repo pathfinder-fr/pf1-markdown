@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]], [[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** [[type animal|animaux]] ou [[type créature magique|créatures magiques]] ayant 1 ou 2 en [[Intelligence]]  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]]  
-
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Les gestes hypnotiques du personnage et son chant scandé incitent les [[type animal|animaux]] et les [[type créature magique|créatures magiques]] à ne rien faire d’autre que le regarder. Seules les créatures ayant 1 ou 2 en [[Intelligence]] peuvent être affectées. Le personnage [[fasciné|fascine]] un total de 2d6 [[DV]] de créatures, en commençant par les [[type animal|animaux]] les plus proches de lui.

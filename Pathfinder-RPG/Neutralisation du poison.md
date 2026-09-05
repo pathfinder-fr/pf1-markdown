@@ -20,17 +20,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (charbon)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature ou objet (30 dm³/[[niveau]]) touché  
-
 **Durée** 10 minutes/[[niveau]] ; voir description  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Ce sort chasse toutes les formes de [[poison]] de l’organisme de la créature ou de l’objet touché. S’il s’agit d’une créature, le personnage fait un test de lanceur de sorts (1d20 + [[niveau de lanceur de sorts]]) contre le [[DD]] de chaque [[poison]] qui affecte la cible. En cas de succès, le [[poison]] est neutralisé. La créature ne souffre plus et les effets temporaires du [[poison]] disparaissent aussitôt mais le sort n’annule pas les effets instantanés du poison (à savoir la perte de points de vie, un [[affaiblissement temporaire]] de caractéristique et autres effets qui ne se dissipent pas d’eux-mêmes).

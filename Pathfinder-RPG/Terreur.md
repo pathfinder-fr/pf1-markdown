@@ -22,17 +22,11 @@ Categories:
 
 {s:Desambi|Il peut aussi s'agir d'une [[Terreur (capacité)|capacité de monstre]].}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un cœur de poule ou une plume blanche)  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Ce cône invisible provoque une violente [[paniqué|panique]] chez les créatures vivantes prises dans la [[zone deffet|zone d’effet]], à moins qu’elles ne réussissent un jet de [[Volonté]]. Si elles sont acculées, elles se recroquevillent sur elles-mêmes. Si elles réussissent leur jet de [[Volonté]], elles sont [[secoué|secouées]] pendant 1 round.

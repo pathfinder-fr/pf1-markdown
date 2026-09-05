@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[sorcière|Sor]] 6  
-
 **Temps d'incantation** 30 minutes  
-
 **Composantes** [[composantes|V, G, M]] (encens, soufre et huile, cordelette nouée, un peu de sang), F (un bâtonnet en argent)  
-
 **Portée** n’importe où dans la zone défendue  
-
 **Zone d'effet** jusqu’à 20 m²/[[niveau]] (F)  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** voir description
 
 Ce puissant sort permet au personnage de défendre sa demeure. Il protège jusqu’à 20 m² par [[NLS|niveau de lanceur de sorts]]. La zone affectée peut faire jusqu’à six mètres de haut et prendre la forme que le lanceur de sorts choisit. Il est également possible de protéger plusieurs étages en divisant la [[zone deffet|zone d’effet]] en plusieurs tranches. Le lanceur de sorts doit se trouver au sein du lieu à protéger au moment de l’incantation. Le sort engendre les effets magiques suivants :
@@ -44,13 +38,8 @@ La zone protégée acquiert une puissante aura magique d’[[abjuration]]. Un so
 Le personnage est alerté comme avec une [[alarme]] mentale dès qu’une créature pénètre dans la zone gardée tant que lui et la zone gardée se situent sur le même plan. À volonté, le personnage peut se concentrer pour observer la zone gardée comme s’il utilisait un oeil du mage. Lorsqu’il commence sa [[concentration]], le capteur apparaît toujours à un point qu’il désigne lorsqu’il lance le sort. Le personnage peut placer deux des cinq effets indiqués dans la description du sort (lumières dansantes et ainsi de suite) au lieu d’un seul.
 
 **[[Amplifié]] (3ème).** Le personnage peut placer les effets suivants où il le souhaite à l’intérieur de la zone gardée en dépensant une utilisation supplémentaire de [[pouvoir mythique]] par effet.  
-
 1. [[Tentacules noirs]] dans un endroit. Ils réapparaissent au bout de dix minutes s’ils ont été dissipés.  
-
 1. [[Dissipation de la magie]] dans un endroit. Le personnage sélectionne une zone d’une taille maximale de 1,50 mètre de côté. Une créature qui entre ou passe au travers de cette zone est ciblée par le sort. Jet de sauvegarde : [[Volonté]] annule. [[Résistance à la magie]] : oui.  
-
 1. [[Enchevêtrement]] dans quatre endroits. L’effet réapparaît au bout de dix minutes s’il a été dissipé.  
-
 1. [[Runes explosives]] dans trois endroits. Elles réapparaissent au bout de dix minutes si elles ont été activées ou dissipées.  
-
 1. [[Lenteur]] dans trois endroits. L’effet réapparaît au bout de dix minutes s’il a été dissipé.

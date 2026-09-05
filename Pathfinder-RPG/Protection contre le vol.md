@@ -15,17 +15,11 @@ Categories:
 
 {s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}{s:MR}
 **École** [[Abjuration]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** un objet  
-
 **Durée** 24h  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Le lanceur de sorts protège un objet en sa possession contre le vol. Il gagne un bonus de +10 à ses tests de [[Perception]] pour repérer quelqu’un essayant de lui prendre cet objet.

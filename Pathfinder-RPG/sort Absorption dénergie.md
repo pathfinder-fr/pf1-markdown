@@ -13,17 +13,11 @@ Categories:
 
 {s:Desambi|Absorption d'énergie est également une [[Capacités spéciales#NIVEAUNEG|capacité spéciale]]. Voir aussi [[Absorption dénergie (capacité)|ici]].}
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** rayon d’énergie négative  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir la description d’*[[énergie négative]]*)
 
 Le lanceur de sorts tend un doigt et un rayon d’énergie négative en jaillit, annihilant la force vitale de toute créature vivante touchée. Il doit effectuer une [[attaque de contact à distance]]. En cas de succès, la cible acquiert 2d4 [[niveau négatif|niveaux négatifs]] temporaires (voir la section "[[Capacités Spéciales]]"). Les [[niveau négatif|niveaux négatifs]] se cumulent.

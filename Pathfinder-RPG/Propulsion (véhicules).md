@@ -32,7 +32,6 @@ Ces véhicules se déplacent en général à la même vitesse que les courants d
 - {s:Reference|PROPULSIONTRACTEE}*Engins tractés.* Ce type de propulsion implique qu’au moins une créature tire le véhicule. À moins qu’elle ne soit intelligente (caractéristique d’[[Intelligence]] supérieure ou égale à 3), la compétence [[Dressage]] ou [[Profession]] (conducteur d’attelage) sera utilisée pour le test de conduite (au choix du pilote). Les créatures intelligentes doivent être convaincues de collaborer avec un test de [[Diplomatie]] (diminuez le [[DD]] du test de 5 si elles sont serviables), ou contraintes avec un test d’[[Intimidation]]. Le [[DD]] du test sera dans ce cas augmenté de 20.  
 
 
-
 **Une créature peut tracter un nombre de cases de véhicule égal au nombre de cases qu'elle occupe à une vitesse maximale égale à deux fois sa propre vitesse. Elle peut accélérer de son espace dans le nombre de cases du véhicule qu'elle tracte jusqu'à sa vitesse maximale. ''Par exemple, un seul [[cheval]] peut parcourir 6 mètres (4 {s:c}) et tracter un chariot occupant 4 cases sur 30 m (20 {s:c}) par round, avec une [[accélération (véhicules)|accélération]] de 15 m (10 {s:c}).**
 
 **En vo : A creature can pull a number of vehicle squares equal to the number of squares in the creature's space to a top speed equal to twice the creature's speed. It can accelerate its space in vehicle squares up to its speed. For instance, a single horse takes up 4 squares, and can pull a 4-square cart 100 feet each round with an acceleration of 50 feet.**

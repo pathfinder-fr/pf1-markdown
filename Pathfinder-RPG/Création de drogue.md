@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:cs}{s:BotD}**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[alchimiste|Alch]] 3, [[druide|Dru]] 3, [[occultiste|Occ]] 3, [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 0 m  
-
 **Effet** une dose de drogue/3 [[niveau|niveaux]]  
-
 **Durée** 1 minute  
-
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** non
 
 Le lanceur de sorts invoque l'une des drogues suivantes : [[Drogues#ETHER|éther]], [[Drogues#ECORCHEFEUILLE|écorchefeuille]], [[Drogues#OPIUM|opium]], [[Drogues#PESH|pesh]], [[Drogues#PURGE|purge]], [[Drogues#FRISSON|frisson]], [[Drogues#ZERK|zerk]]. (À la discrétion du [[MJ]], d'autres drogues aux effets similaires peuvent être incluses dans la liste). Les doses de drogue que le personnage créé avec ce sort doivent être utilisées dans la minute qui suit leur invocation, ou elles se dissolvent en une poussière sans valeur ou s'évaporent en vapeurs nocives mais passagères, bien que les effets de la drogue puissent durer beaucoup plus longtemps si elle est consommée avant qu'elle ne se désintègre.

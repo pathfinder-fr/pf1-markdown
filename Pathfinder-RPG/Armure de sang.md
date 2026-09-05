@@ -15,18 +15,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/niveau  
-
   
-
 Au contact de l’air, le sang du personnage devient aussi dur que du fer. Chaque fois qu’il reçoit au moins 5 points de dégâts perforants ou tranchants, son armure gagne un bonus d’altération de +1 à la CA.
 Des vêtements ordinaires comptent comme une armure n’accordant aucun bonus à la CA quand il s’agit de ce sort. Ce bonus d’altération se cumule avec lui-même mais pas avec un autre bonus d'altération existant jusqu’à un bonus d’altération maximum de +5. Ce sort n’a aucun effet sous l’eau ou dans les environnements sans air.

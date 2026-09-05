@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Effet** arme de corps à corps touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet au personnage de canaliser la puissance de son dieu dans son épée ou dans une autre arme de corps à corps de son choix. Celle-ci devient alors une arme [[sainte (propriété)|sainte]] +5 ([[bonus daltération|bonus d’altération]] de +5 aux [[jet dattaque|jets d’attaque]] et de dégâts, 2d6 points de dégâts supplémentaires contre les adversaires d’[[alignement]] Mauvais). L’arme émet également un *[[cercle magique contre le Mal]]* (identique au sort du même nom). Si le cercle magique disparaît pour une raison ou une autre, l’arme en crée un nouveau dès le prochain tour de jeu du personnage (il s’agit d’une [[action libre]]). Le sort prend fin automatiquement 1 *[[round]]* après que l’arme a quitté la main du personnage. Le personnage ne peut disposer que d’une seule *épée sainte* à la fois.

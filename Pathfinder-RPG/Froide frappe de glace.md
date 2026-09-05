@@ -10,17 +10,11 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Effet** ligne de 9m (6 {s:c})  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>

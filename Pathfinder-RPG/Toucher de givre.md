@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un sort incluant cet effet inflige 1d6 points de dégâts de froid par [[NLS|niveau de lanceur]] (maximum 5d6). Une cible qui rate son [[jet de sauvegarde]] est également [[chancelant|chancelante]] pendant 1 [[round]].

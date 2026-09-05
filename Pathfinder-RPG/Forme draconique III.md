@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une écaille de dragon du type choisi)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Le personnage se transforme en [[type dragon|dragon chromatique ou métallique]] de [[taille M]] (voir le Bestiaire Pathfinder RPG). Il gagne un bonus de taille de +4 à la [[Force]], de +2 à la [[Constitution]], un bonus d’armure naturelle de +4, une vitesse de vol de 18 m (médiocre), la [[vision dans le noir]] à 18 m, une attaque de souffle et une résistance à un élément. Il gagne aussi une attaque de morsure (1d8), deux griffes (1d6) et deux ailes (1d4). Le souffle et la résistance dépendent du type de dragon. Le personnage ne peut souffler qu’une fois par transformation. Tous les souffles infligent 6d8 points de dégâts et autorisent un jet de [[Réflexes]] pour réduire ces dégâts de moitié.

@@ -14,7 +14,6 @@ Categories:
 
 #### Exploits
 Le boucanier échange quatre exploits de pistolier contre les suivants.  
-
 - **Démarche de loup de mer (Ext).** Au niveau 1, le boucanier gagne [[Pied marin]] comme don supplémentaire. S’il dépense 1 point d’[[audace]], il peut ignorer le [[terrain difficile]] jusqu’à la fin de son tour. Ce pouvoir remplace [[Exploits#NETTOYAGERAPIDE|nettoyage rapide]].
 - **Jargon des pirates (Ext).** Au niveau 3, le boucanier utilise tellement de jargon nautique et d’argot pirate pour embrouiller son interlocuteur qu’il gagne un bonus de +2 aux tests de [[Bluff]] et d’[[Intimidation]]. De plus, il peut dépenser une [[action rapide]] et 1 point d’[[audace]] pour obliger une créature vivante située à moins de 9 m (6 {s:c}) à faire un jet de [[Volonté]] ([[DD]] 10 + 1/2 niveau de boucanier + modificateur de [[Charisme]]). Si la cible échoue, elle est [[confus|confuse]] pour 1 [[round]]. C’est un effet mental dépendant du langage. Ce pouvoir remplace [[Exploits#COUPDECROSSE|coup de crosse]].
 - **Maîtrise du cordage (Ext).** Au niveau 7, tant que le boucanier a au moins 1 point d’[[audace]], il gagne un bonus égal à son niveau de classe aux tests d’[[Acrobaties]] et d’[[Escalade]] quand il grimpe dans les cordages ou s’y balance. S’il dépense 1 point d’[[audace]], il ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] quand il grimpe aux cordages ou s’y balance. Ce don remplace [[Exploits#TIRMORTEL|tir mortel]]. 

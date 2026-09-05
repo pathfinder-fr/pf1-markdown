@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une poignée de graviers laissés tomber un par un)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage améliore l'aptitude d'une créature à blesser son adversaire en fonction du nombre de coups qu'elle lui a déjà portés avec une attaque naturelle. À chaque fois que la créature parvient à toucher son adversaire avec une [[attaque naturelle]], le sujet gagne un bonus cumulable de +1 aux jets de dégâts contre cet adversaire s'il utilise son [[attaque naturelle]] (avec un maximum de +5). S'il rate son attaque, le bonus aux dégâts repart à +0.

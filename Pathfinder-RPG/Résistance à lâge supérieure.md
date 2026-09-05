@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 24 heures  
-
 
 Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen, avancé et vénérable]].
 

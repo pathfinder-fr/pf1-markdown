@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** créatures situées dans une étendue de 6 m (4 {s:c}) de rayon  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort incite les créatures situées dans la zone à s’entre-tuer plutôt qu’à s’en prendre à leurs adversaires. Chaque [[round]], toute créature affectée a 50 % de chances de se ruer sur la cible la plus proche (déterminez le comportement de chacune au début de son tour de jeu). Une créature qui n’attaque pas son voisin le plus proche est libre d’agir comme elle le désir pour le [[round]] en cours. Les créatures qui attaquent leurs compagnons emploient tous les moyens à leur disposition, usant de leurs sorts les plus meurtriers et de leurs techniques de combat les plus avantageuses. Néanmoins, elles ne s’en prennent pas aux cibles [[inconscient|inconscientes]].

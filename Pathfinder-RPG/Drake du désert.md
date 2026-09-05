@@ -49,6 +49,5 @@ Categories:
 Appartenant aux plus féroces de leur genre, les drakes du désert font preuve d’une soif de destruction aussi impitoyable qu’une tempête du désert. Ces violents prédateurs chassent en tendant des embuscades du haut
 des affleurements rocheux où ils se perchent pour surveiller leur environnement. Lorsqu’il repère une proie potentielle, le drake du désert plonge dans le sable et creuse jusqu’à elle ou vole en rase-motte, se cachant derrière les dunes et autres affleurements. Quand il se rapproche de la position de sa victime, il surgit du sable ou plonge d’en haut pour surprendre ses adversaires, préférant s’attaquer aux cibles les plus terrifiées en premier. Avant que l’ennemi ait pu récupérer de l’assaut initial, le drake du désert exhale un nuage de poussière électrifiée, se servant de ses sens surdéveloppés pour porter ses attaques. Les couples de drakes du désert chassent de plus
 grandes proies et de plus grands groupes de victimes et il arrive que des déchaînements de ces bêtes se rassemblent à proximité des routes commerciales pour dévorer des caravanes entières.  
-
 Le drake du désert mesure 4,50 mètres de long, du museau au bout de la queue. Il a un corps souple de ver de terre et pèse 1 250 kilos.
 </div></td></tr></table>

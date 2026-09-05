@@ -49,10 +49,8 @@ toujours en mouvement, il inflige 1d8+6 points de dégâts tranchants lorsqu’i
 
 Les léviathans mécaniques fonctionnent aussi bien sur terre que dans l’eau. Les marins hantés par le souvenir de ces
 fourbes machines n’ont pas besoin d’enjoliver leurs récits, la est suffisamment terrifiante pour effrayer même les marins les plus courageux.  
-
 Les nombreuses plaques et les nombreux maillons du léviathan mécanique sont conçus dans un matériau si résistant
 qu’ils ne rouillent jamais, même après une exposition prolongée aux eaux de mer salées qu’il sillonne souvent.  
-
 Les léviathans mécaniques mesurent 7,50 m de long et pèsent un peu plus de 3 tonnes.
 
 ### Création

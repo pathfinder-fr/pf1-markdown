@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Chaque [[round]], le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [[DV]] de la cible, cette attaque peut avoir jusqu’à trois effets.

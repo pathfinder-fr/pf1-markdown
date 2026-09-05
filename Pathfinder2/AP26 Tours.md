@@ -6,9 +6,7 @@ LastModified: 2023-06-14 16:04
 
 <img src="Illustrations/Wiki/AP26Logo.webp" class="fright" alt="">
 • [[AP26|Retour à la page de la campagne]]   
-
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[AP|Retour à la page des campagnes et aventures officielles pour Pathfinder 2]]
 
 Voici plusieurs idées de tours de cirque (9 pour chacune des classes du livre de base) postées par Jason Tondro (l'auteur du premier volume de la campagne) sur son [compte Twitter](https://twitter.com/doctorcomics/status/1218247246023557120?s=20).

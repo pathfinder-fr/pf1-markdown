@@ -12,15 +12,10 @@ Categories:
 {s:cs|Ultimate Wilderness}
 
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Quand le personnage lance ce sort, il prend la forme de n’importe quelle créature de type [[type vase|vase]] de [[taille P]] ou de [[taille M]].

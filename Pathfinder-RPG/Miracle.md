@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[prêtre|Prê]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]] (voir description)  
-
 **Portée** voir description  
-
 **Cible, effet ou zone d’effet** voir description  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
 On implore un *miracle* plus qu’on le lance. Le [[prêtre]] présente sa requête à son dieu (ou à la puissance qui lui accorde ses sorts) et le prie de l’exaucer.

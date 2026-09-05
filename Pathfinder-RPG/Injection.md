@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage doit tenir un élixir, un extrait, un poison ou une potion en main quand il lance le sort. La substance passe alors de son récipient à un sac magique qui se forme dans le corps du personnage. Tant que le sort fait effet, il peut transmettre la substance d’un simple contact. Dans le cas d'une infusion d'alchimiste, la cible a droit à un jet de Vigueur et à sa résistance à la magie. S’il touche, la substance agit immédiatement, même si elle devrait attendre une période d’incubation, et l’adversaire a droit à un jet de sauvegarde contre la substance (si elle l’autorise).

@@ -71,7 +71,6 @@ LastModified: 2016-08-10 15:33
 <div class="BD">
 {s:BDTitre|Chante-sang|{s:mca}}
 **Emplacement** aucun **NLS** 6 **Poids** —   
-
 **Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -99,7 +98,6 @@ posséder le pouvoir de classe chant de rage, **Prix** Bonus +1
 {s:BDTitre|D'exclusion|{s:mca}}
 **Prix** +3 750 po
 **Emplacement** aucun **NLS** 1 **Poids** —  
-
 **Aura** [[nécromancie]] faible
 (((Description)))
 Quand un personnage maniant une arme d’exclusion blesse une créature
@@ -120,7 +118,6 @@ exclure la cible qu’il exclut depuis le plus longtemps.
 **Prix**
 Bonus+1
 **Emplacement** aucun **NLS** 5 **Poids** —  
-
 **Aura** [[enchantement]] faible
 (((Description)))
 Les armes possédant cette propriété spéciale affectent les adversaires
@@ -143,7 +140,6 @@ un effet de diversion supérieure.
 **Prix**
 Bonus +2
 **Emplacement** aucun **NLS** 8 **Poids** —  
-
 **Aura** [[enchantement]] modérée
 (((Description)))
 Les armes possédant cette propriété spéciale affectent les adversaires
@@ -170,7 +166,6 @@ supérieure à la place.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 7 **Poids** —  
-
 **Aura** enchantement modérée
 (((Description)))
 Si le personnage qui manie une arme de riposte utilise l’exploit parade
@@ -188,7 +183,6 @@ posséder l’exploit parade et riposte opportune
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 5 **Poids** —  
-
 **Aura** [[transmutation]] faible
 (((Description)))
 Quand le personnage confirme un coup critique avec une arme
@@ -211,7 +205,6 @@ ce pouvoir.
 **Prix**
 Bonus +3
 **Emplacement** aucun **NLS** 12 **Poids** —  
-
 **Aura** [[nécromancie]] forte
 (((Description)))
 Cette propriété ne peut être appliquée qu’aux armes de corps à corps.
@@ -232,7 +225,6 @@ d’épuisement ou les coups critiques ne sont pas affectées.
 {s:BDTitre|Flamboyante|{s:mca}}
 **Prix** Bonus+1
 **Emplacement** aucun **NLS** 8 **Poids** —  
-
 **Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -258,7 +250,6 @@ doit garder le second résultat, même c’est aussi un échec.
 **Prix**
 Bonus +3
 **Emplacement** aucun **NLS** 5 **Poids** —  
-
 **Aura** [[abjuration]] et [[divination]] faibles
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -278,7 +269,6 @@ doit être un utilisateur de panache
 **Prix**
 Bonus+1
 **Emplacement** aucun **NLS** 8 **Poids** —  
-
 **Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -298,7 +288,6 @@ le même ennemi, avec un malus de -5.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 7 **Poids** —  
-
 **Aura** [[enchantement]] modéré
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -324,7 +313,6 @@ au jet de dégâts.
 **Prix**
 +2 500 po
 **Emplacement** aucun **NLS** 7 **Poids** —  
-
 **Aura** [[enchantement]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux fouets.
@@ -346,7 +334,6 @@ même s’il ne s’agit pas d’une arme perforante légère ou à une main.
 **Prix**
 +2 000 po
 **Emplacement** aucun **NLS** 7 **Poids** —  
-
 **Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux munitions.
@@ -368,7 +355,6 @@ intégrale
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 7 **Poids** —  
-
 **Aura** [[enchantement]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux coups de
@@ -387,7 +373,6 @@ tests de manoeuvre offensive égal au bonus d’altération de l’arme.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 16 **Poids** —  
-
 **Aura** [[transmutation]] forte
 (((Description)))
 Une arme sacrée est remplie d’énergie divine et fonctionne comme
@@ -411,7 +396,6 @@ coût d’une utilisation de cette bénédiction.
 **Prix**
 +5 000 po
 **Emplacement** aucun **NLS** 7 **Poids** —   
-
 **Aura** [[nécromancie]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux
@@ -437,7 +421,6 @@ plus par jour.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 8 **Poids** —   
-
 **Aura** [[invocation]] modérée
 (((Description)))
 Une arme traque-esprits excelle contre les ennemis possédant le
@@ -494,7 +477,6 @@ les esprits suivants.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 8 **Poids** —   
-
 **Aura** [[invocation]] modérée
 (((Description)))
 Une arme traque-sang excelle contre les ennemis possédant le pouvoir
@@ -550,7 +532,6 @@ suivants.
 **Prix**
 Bonus +5
 **Emplacement** aucun **NLS** 16 **Poids** —  
-
 **Aura** [[transmutation]] forte
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
@@ -580,7 +561,6 @@ tombe au sol, inerte.
 **Prix**
 Bonus +1
 **Emplacement** aucun **NLS** 5 **Poids** —  
-
 **Aura** [[nécromancie]] faible
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes

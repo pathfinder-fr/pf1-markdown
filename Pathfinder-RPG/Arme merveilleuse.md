@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ;** Niveau** [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** arme touchée  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ;** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Le personnage transforme une arme unique en un instrument qui inspire crainte et émerveillement. L'arme gagne un bonus sacré aux dégâts de +2 et, si elle inflige un [[coup critique]], sa cible est [[secoué|secouée]] pendant 1 round, sans [[jet de sauvegarde]]. C'est un effet mental de peur. Si le sort affecte une arme à distance, ses effets s'appliquent aux munitions.

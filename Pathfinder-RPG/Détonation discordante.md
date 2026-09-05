@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] ([[registre|sonore]]) ;** Niveau** [[Barde|Bard]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 3 ou 9 m (2 ou 6 {s:c})  
-
 **Zone** voir texte  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage crée une vague de tonnerre et de force, soit dans un rayonnement de 3 mètres (2 {s:c}) de rayon centré sur le personnage, soit dans un cône de 9 mètres (6 {s:c}). Les créatures qui se trouvent dans la zone subissent 3d6 points de dégâts sonores et sont repoussées de côté, comme par une [[bousculade]]. Le personnage fait un test de [[manœuvre de combat]] et applique ce résultat à chaque créature de la zone. Pour cette [[bousculade]], le [[BMO]] du personnage est égal à son [[NLS|niveau de lanceur de sorts]] plus son modificateur de [[Charisme]]. Cette bousculade ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. La *détonation discordante* ne peut pénétrer un sort de *[[silence]]* (ou tout effet de silence magique similaire).

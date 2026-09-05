@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Prêtre|Prê]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cibles** le jeteur de sorts et 1 créature touchée/3 [[niveau|niveaux]]  
-
 **Durée** 1 heure/[[niveau]] (T) (voir description)  
-
 **Jet de sauvegarde** aucun et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non et oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort permet au personnage de transformer sa substance propre et de prendre la consistance des nuages, ce qui permet de se déplacer à grande vitesse dans les airs (comme avec le sort *[[état gazeux]]*). Le personnage peut emmener avec lui d’autres créatures, chacune pouvant agir indépendamment.

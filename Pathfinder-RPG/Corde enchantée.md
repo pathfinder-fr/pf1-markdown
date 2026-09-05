@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (farine de maïs et parchemin torsadé)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 corde faisant entre 1,50 m et 9 m de long  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Quand cet enchantement est lancé sur une corde d’une longueur comprise entre 1,50 m et 9 m, l’une de ses extrémités se dresse à la verticale, comme si elle était accrochée à quelque chose dans les airs. Elle s’attache en fait dans un espace extradimensionnel se trouvant en bordure du multivers. Les créatures présentes dans cet espace sont à l’abri des sorts (y compris des [[école divination|divinations]]), à moins que ces sorts ne soient capables de fonctionner d’un [[plans|plan]] à l’autre. Ce nouveau [[plans|plan]] dimensionnel peut contenir jusqu’à huit créatures, sans limite de taille. On ne peut retirer ou cacher la corde. Celle-ci peut supporter jusqu’à huit tonnes ; un poids supérieur l’arrache.

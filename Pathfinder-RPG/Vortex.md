@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (une cuillère à touiller)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** tourbillon de 15 m (10 {s:c} de profondeur, de 9 mètres (6 {s:c}) de large au sommet et 1,50 m (1 {s:c}) à la base  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage crée un puissant tourbillon immobile dans n'importe quel volume de liquide suffisant pour le contenir. Toute créature de [[taille P|taille G]] ou moins qui entre en contact avec doit réussir un jet de [[Réflexes]] ou subir 3d6 points de dégâts contondants. Une créature de [[taille P|taille M]] ou moins qui rate ce jet doit en réussir un second ou se faire emporter dans le tourbillon où elle reste prisonnière des puissants courants et reçoit 1d8 points de dégâts par [[round]], à son tour, sans [[jet de sauvegarde]]. Si le personnage le désire, il peut ordonner au tourbillon de rejeter une créature quand il veut.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Effet** ouverture [[éthéré|éthérée]] de 2,40 m x 1,50 m, 3 m de profondeur + 1,50 m/3 [[niveau|niveaux]]  
-
 **Durée** 1 utilisation/2 [[niveau|niveaux]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort ouvre un passage [[éthéré]] au travers du bois, du plâtre ou de la pierre, mais pas des autres matériaux. La *porte de phase* est [[invisible]] et inaccessible à toutes les créatures autres que le lanceur de sorts qui est le seul à pouvoir l’utiliser. Quand il décide de le faire, il disparaît à l’entrée et réapparaît de l’autre côté. S’il le souhaite, il peut emmener une autre créature avec lui (de [[taille M]] ou moins), mais cela compte pour deux utilisations. La porte ne laisse pas passer la lumière, le bruit ni les sorts, et on ne peut pas voir au travers. Ce sort constitue une excellente échappatoire, même si quelques créatures telles que les [[araignée de phase|araignées de phase]] sont capables de l’emprunter. Les *[[gemme de vision|gemmes de vision]]* et autres sorts ou objets similaires révèlent la présence d’une *porte de phase* mais ne permettent pas de l’emprunter.

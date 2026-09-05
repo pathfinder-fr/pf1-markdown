@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 7, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort projette une grande quantité d’énergie négative vers la cible, qui subit 10 points de dégâts par [[niveau de lanceur de sorts]] (pour un maximum de 150 points au niveau 15). Si la créature réussit son [[jet de sauvegarde]], *mise à mal* lui inflige des dégâts diminués de moitié. Que le [[jet de sauvegarde]] soit réussi ou pas, ce sort ne saurait réduire les [[points de vie]] de la cible à moins de 1.

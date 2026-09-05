@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (une mince feuille de plomb, un morceau de verre, un bout de coton et de la chrysolite réduite en poudre)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** 1 cube de 9 m d’arête/[[niveau]] (F)  
-
 **Durée** 24 heures (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort offre une certaine intimité. Toute créature qui observe la zone depuis l’extérieur ne distingue qu’une masse sombre et brumeuse. Même la [[vision dans le noir]] ne parvient à pas à percer cette obscurité. Nul son, quel que soit son volume, ne sort de la zone, aussi est-il inutile de tendre l’oreille pour les créatures situées à l’extérieur. En revanche, celles qui se trouvent à l’intérieur voient normalement.

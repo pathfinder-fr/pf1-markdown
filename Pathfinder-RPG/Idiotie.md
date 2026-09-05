@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le lanceur du sort peut réduire les facultés mentales de la cible d’un simple toucher. S’il réussit une [[attaque de contact au corps à corps]], il inflige un malus de -1d6 aux valeurs d’[[Intelligence]], de [[Sagesse]] et de [[Charisme]] de la victime, sans toutefois les amener en-dessous de 1.

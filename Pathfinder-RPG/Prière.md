@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 3, [[paladin|Pal]] 3, [[prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 12 m  
-
 **Zone d'effet** tous les alliés et ennemis dans un rayonnement de 12 m de rayon, centré sur le personnage  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort permet au personnage de demander à son dieu de l’aider, lui et ses alliés et d’handicaper ses ennemis. Le lanceur de sorts et ses compagnons bénéficient d’un bonus de chance de +1 aux [[jet dattaque|jets d’attaque]], aux jets de dégâts, aux [[jet de sauvegarde|jets de sauvegarde]] et aux [[test de compétence|tests de compétence]], tandis que leurs adversaires subissent un malus de -1 à ces mêmes jets.

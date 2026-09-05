@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** étendue de 24 m de rayon (F)  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Au terme de l’incantation, une secousse violente mais extrêmement localisée ébranle la croûte terrestre. Elle renverse les créatures, fait effondrer des bâtiments, ouvre des failles dans le sol, provoque encore bien d’autres dégâts. Elle dure 1 [[round]], pendant lequel les créatures qui se trouvent sur la terre ferme ne peuvent plus combattre ni se déplacer. Les lanceurs de sorts qui tentent de faire appel à leur magie doivent réussir un test de [[Concentration]] [[DD]] 20 + [[niveau du sort]], sinon, leur sort est perdu. Le *tremblement de terre* affecte toutes les structures et les créatures de la zone touchée. L’effet exact dépend de l’endroit où le personnage lance le sort:

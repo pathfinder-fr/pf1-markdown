@@ -103,7 +103,6 @@ Un bâton est un long bout de bois contenant plusieurs sorts. Les bâtons contie
 
 ### Objets merveilleux
 Les objets merveilleux forment une catégorie « fourre-tout » pour tous les objets qui n’entrent dans aucune des autres catégories (telles que les armes, les bâtons, etc.). Les objets merveilleux forment un groupe d’objets extrêmement variés. Certains doivent être portés sur un emplacement d’objet magique précis pour fonctionner tandis que d’autres doivent simplement être possédés et utilisés. N’importe quelle créature peut utiliser un objet merveilleux, sauf indication différente dans leur description. Nombre d’objets présentés ici nécessitent une certaine connexion psychique afin de fonctionner, comme précisé dans la description de chacun d’eux.  
-
 Il existe deux grandes catégories d’objets merveilleux : les objets à emplacement et les objets sans emplacement. Les objets à emplacement occupent un emplacement d’objet magique et doivent être portés par les créatures qui souhaitent bénéficier de leurs pouvoirs.
 
 #### Objets merveilleux de faible puissance

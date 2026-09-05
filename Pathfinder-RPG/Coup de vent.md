@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[ensorceleur]]/[[magicien]] 3  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restrictions de cible** *[[ligne (mot de pouvoir)|ligne]]*
 
 Ce mot effet crée une rafale de vent qui peut renverser ou freiner ceux qui se trouvent sur sa trajectoire. Quand un sort incluant ce mot est lancé, toutes les créatures de [[taille G]] et inférieures qui se trouvent dans la zone d’effet doivent faire un jet de [[Vigueur]] pour ne pas être projetées [[à terre]] et repoussées 3 mètres (2 {s:c}) en arrière. Quiconque souhaitant traverser la ligne d’air doit faire un test de [[Force]] [[DD]] 20. En cas d’échec, le personnage perd 1,50 mètre (1 {s:c}) de déplacement mais, en dehors de ceci, il n’est pas entravé dans ses mouvements (tant qu’il ne tente pas de franchir la ligne d’air). Le [[DD]] passe à 30 si la créature essaye de s’avancer vers la source du vent. Les créatures volantes subissent un malus de -4 sur leurs [[jet de sauvegarde|jets de sauvegarde]] et leurs tests de [[Force]] lancés contre cet effet.

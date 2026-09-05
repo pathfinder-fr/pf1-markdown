@@ -8,26 +8,17 @@ LastModified: 2019-10-19 00:03
 
 #### Monture fantôme (Sur)
 Un chevalier fantôme de niveau 1 peut manifester une monture spéciale composée d’ectoplasme au lieu d’un véritable animal en chair et en os. Ce compagnon spectral fonctionne comme le compagnon [[spirite#FANTOME|fantôme des spirites]] ; le chevalier fantôme remplace simplement le niveau de spirite par son niveau de chevalier pour en déterminer les caractéristiques. Le fantôme prend la forme d’une créature fantomatique similaire à une des montures normales dont le chevalier peut disposer en fonction de sa taille et de son niveau. Ainsi, un chevalier fantôme de taille M peut posséder un cheval de taille G et un chevalier de taille P, un loup. Un chevalier fantôme doit choisir une monture capable de transporter son poids total, avec quatre pattes ou plus et sans vitesse de déplacement en vol (même si le MJ peut autoriser des montures avec une vitesse de déplacement en nage dans certains environnements). Le MJ doit donner son accord au préalable dans le cas de montures inhabituelles.  
-
 Le chevalier fantôme peut manifester sa monture fantôme sous forme ectoplasmique uniquement et acquiert l’aptitude de [[spirite#LAISSEETHEREE|laisse éthérée]] des spirites qu’il noue à sa monture fantôme. La monture possède le même alignement que le chevalier. Elle ne peut pas parler mais comprend les ordres oraux de son maître et acquiert le pouvoir spécial de [[fantômes (spirite)#LIEN|lien]] des fantômes.  
-
 La monture fantôme a des [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] favorables en Vigueur et en Réflexes et peut posséder des rangs dans les compétences suivantes : [[Acrobaties]] (Dex), [[Discrétion]] (Dex), [[Escalade]] (For), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Survie]] (Sag) et [[Vol]] (Dex). La monture fantôme du chevalier fantôme n’acquiert jamais les pouvoirs spéciaux de [[fantômes (spirite)#PARTAGEDESORTS|transfert de sorts]], [[fantômes (spirite)#TOUCHSPELLS|livrer un sort de contact]] et [[fantômes (spirite)#VOLINTANGIBLE|vol sous forme intangible]], ni les pouvoirs d’[[fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante]].
 Le chevalier fantôme ne subit aucun malus d’armure aux tests lorsqu’il effectue des tests d’[[Équitation]] sur le dos de sa monture. Celle-ci est toujours considérée comme entraînée au combat et commence le jeu avec [[Endurance]] en don supplémentaire.
 
 *Profil de départ d’une monture fantôme.*   
-
 **Type** animal (fantôme de spirite) ;   
-
 **Taille** une catégorie de taille de plus que celle du chevalier fantôme ;   
-
 **VD** 15 m ;   
-
 **CA** +4 armure naturelle ;   
-
 **Attaque** morsure (1d4), 2 sabots (1d6 ; c’est une attaque naturelle secondaire) ;   
-
 **Caractéristiques** For 16, Dex 13, Con 15, Int 2, Sag 12, Cha 6.  
-
 Cette aptitude remplace celle de [[chevalier#MONTURE|monture]].
 
 #### Regard effrayant (Sur)

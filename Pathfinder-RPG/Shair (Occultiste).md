@@ -16,11 +16,8 @@ Un sha’ir de niveau 1 apprend à nouer une relation avec un jin : un génie mi
 Les écoles de magie élémentaires ne confèrent aucun [[occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]] ou de résonance. À la place, le sha’ir considère que tous les [[Liste des sorts délémentaliste|sorts de magicien élémentaliste]] de niveau 6 ou moins issus des listes correspondantes aux écoles élémentaires de son jin font partie de sa liste de sorts d’occultiste. De plus, il ajoute des sorts supplémentaires à son répertoire de sorts connus. Pour chaque niveau de sort qu’il est capable de lancer, il ajoute un sort de chaque école élémentaire et un sort de chaque école non élémentaire de son jin.
 
 Un jin sous sa forme naturelle possède le profil de base d’un [[élémentaire]] du type choisi, de taille P, auquel on ajoute l’archétype simple de [[Archétypes#CREATUREJEUNE|créature jeune]]. Il ne possède pas les pouvoirs spéciaux de combustion, d’extinction des feux, de maîtrise de l’Air, de maîtrise de l’Eau, de maîtrise de la Terre, de nage dans la terre, de tourbillon et de vortex.  
-
 Un sha’ir de niveau 20 choisit un de ses jins et une de ses deux écoles au lieu de choisir un instrument dans le cadre de sa maîtrise d’une école instrumentale.  
-
 Si un de ses jins est tué, on considère que le sha’ir ne possède plus l’instrument approprié pour lancer les sorts qui lui étaient associés. Le sha’ir peut remplacer le jin tué dès le lendemain, en dépensant 1 point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] lors d’un rituel spécial qui s’accomplit en une heure.  
-
 Cette aptitude remplace celle d’[[occultiste#INSTRUMENTS|instruments]] et modifie celles de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]], de [[occultiste#SORTSDOCCULTISTE|sorts]] et de [[occultiste#INSTRUMENTS|maîtrise d’une école instrumentale]].
 
 #### Évolution des jins (Mag, Sur)

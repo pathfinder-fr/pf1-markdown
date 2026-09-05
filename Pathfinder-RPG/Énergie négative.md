@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** rayon d’énergie négative  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le lanceur de sorts tend un doigt et un rayon d’énergie négative en jaillit, annihilant la force vitale de toute créature vivante touchée. Il doit effectuer une [[attaque de contact à distance]]. En cas de succès, la cible acquiert 1d4 [[niveau négatif|niveaux négatifs]] (voir la section "[[Capacités Spéciales]]"). Les [[niveau négatif|niveaux négatifs]] se cumulent.

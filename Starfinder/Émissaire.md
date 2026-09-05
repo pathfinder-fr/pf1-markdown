@@ -9,12 +9,9 @@ Categories:
 *Vous tracez votre voie dans l’univers armé de votre sourire charmeur, de votre esprit vif ainsi que de votre sens affûté de l’auto-préservation et vous excellez aussi à pousser les autres à faire ce que vous voulez. Vous pouvez être un escroc, un arnaqueur, ou un magouilleur mais aussi un acteur, un ambassadeur ou un homme ou une femme d’affaires qui pose les jalons de futures négociations en sachant trouver les mots appropriés ou, parfois, en vous salissant les mains. Vous êtes souvent le stratège du groupe en ayant recours à votre esprit vif et à vos compétences tactiques pour pousser vos amis à exceller. Vous pouvez aussi être doué pour la diplomatie en agissant comme représentant de l’équipage d’un vaisseau, en vous frayant un accès dans les secteurs interdits ou en réussissant à obtenir une audience auprès de politiciens locaux ou de seigneurs de la guerre.*
 
 <div class="fright">***Voir aussi les [[improvisations|improvisations d'émissaire]].***  
-
 ***Voir aussi les [[savoirfaire|savoir-faire d'émissaire]].***'  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo autoalt"

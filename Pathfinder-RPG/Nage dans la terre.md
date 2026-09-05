@@ -17,9 +17,7 @@ Categories:
 **Temps d’incantation** 1 [[action simple]]</br>
 **Composantes** [[Composantes|V, G,]] </br>
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touché  
-
 **Durée** 1 round/[[niveau]]</br>
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui (inoffensif)
 

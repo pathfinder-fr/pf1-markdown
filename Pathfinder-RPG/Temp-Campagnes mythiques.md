@@ -30,11 +30,8 @@ Il faudra faire également une page d'accueil pour les règles mythiques qui ser
 ## Page des menus
 
 [[Accueil Mythique]], [[Temp-Menus de navigation]]  
-
 Création accueil (rectulo)  
-
 Proposition d'accueil (lozatal)  
-
 
 ## INTRODUCTION
 [[Glossaire Mythique]] créée et ok. Les pages de redirection sont créées pour amener sur cette page

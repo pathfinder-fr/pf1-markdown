@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide]], [[registre|froid]], [[registre|électricité]] ou [[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (deux fioles ; une contenant de l'acide, l'autre une solution alcaline, le tout pour une valeur de 50 po)  
-
 **Portée** 9 m (6 {s:c})   
-
 **Zone** étendue de 9 m (6 {s:c}) de rayon centrée sur le lanceur de sorts  
-
 **Durée** 1 [[round]] puis [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Le personnage s'imprègne d'une puissante vague d'énergie élémentaire. Un [[round]] après la fin de l'incantation, l'énergie explose hors du corps du personnage.

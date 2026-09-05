@@ -75,8 +75,6 @@ des drows au pouvoir à se montrer extrêmement paranoïaques.
 
 Les drows nobles ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Le FP d'un drow noble est égal à son niveau de classe. Les drows nobles possèdent les traits raciaux des [[drow|drows]] ainsi que les suivants :
 - **+4 Dextérité, +2 Intelligence, +2 Sagesse, +2 Charisme, -2 Constitution.** Les drows nobles sont très agiles, observateurs et possèdent un port altier. Ces modificateurs de [[caractéristiques]] remplacent ceux des [[drow|drows]] normaux.  
-
 - **Pouvoirs magiques.** Les drows nobles peuvent lancer *[[feuille morte]]*, *[[lévitation]]*, *[[lueur féerique]]*, *[[lumières dansantes]]* et *[[ténèbres profondes]]* à volonté et bénéficient d'une capacité constante de *[[détection de la magie]]*. Une drow noble peut également lancer *[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour chacun. Les pouvoirs magiques exacts des drows nobles peuvent varier d'un individu à l'autre mais les niveaux de sorts restent toujours les mêmes. Tous ces pouvoirs magiques prennent effet avec un [[NLS]] égal au niveau total du drow noble.  
-
 - **Résistance à la magie.** Les drows nobles possèdent une [[RM|résistance à la magie]] égale à 11 + leur niveau de classe.
 </div></td></tr></table>

@@ -280,7 +280,6 @@ Ce livre de 64 pages contient une présentation des quatre Cavaliers de l'Apocal
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9251_180.jpeg|http://paizo.com/products/btpy8sdr?Pathfinder-Campaign-Setting-Inner-Sea-Bestiary}
 <td></td>
 {s:BookComment|Ce livret comporte 46 nouveaux monstres qu'on peut trouver dans la région de la mer Intérieure, tous inventés spécialement pour le monde de campagne de Pathfinder. Certains, comme les hommes mécaniques de Numérie ou les monarques étoilés qui servent la déesse des rêves, ont déjà été mentionné plusieurs fois dans les livres du monde de Pathfinder mais d'autres comme l'étrange vespergaunt ou les gueules tourbillonnantes des déserts du Rahadoum n'ont été que mentionnés ou peut-être illustrés brièvement dans le passé. Et d'autres encore font leur première apparition après avoir été créés dans les campagnes jouées dans les bureaux de Paizo (comme les mystérieux et anciens maîtres voilés ou l'étrangement séduisante reine champignon.  
-
 Des monstres allant du FP 1/2 (comme le singe gobelin ou les énigmatiques lashuntas) au FP 20 (y compris deux immenses rejetons de Rovagug et trois puissants Extérieurs nourrissant de sombres desseins à l'égard de la région de la mer Intérieure, comme le duc infernal exilé Lorthact), ainsi que trois nouveaux archétypes monstrueux (l'exotique vampire vétala qui absorbe l'esprit, les fées maudites du Bois des Crocs et les mutants difformes des Étendues de Mana).}
 {s:BookEnd}
 

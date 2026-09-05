@@ -11,17 +11,11 @@ Categories:
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>;
 **Niveau** [[Barde|Bard]] 1  
-
 **Temps d'incantation** voir texte  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
-
 **Cible** une créature vivante  
-
 **Durée** voir texte  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage peut lancer ce sort comme partie de l’action qui lui permet d’initier une [[représentation bardique]] d’[[inspiration talentueuse (barde)|inspiration talentueuse]]. Les avantages de cette inspiration durent aussi longtemps que nécessaire, afin que la cible puisse l’utiliser lors du prochain test associé à la compétence choisie (avec un maximum de 1 heure par niveau de lanceur de sorts), même si le barde cesse sa représentation.

@@ -14,21 +14,14 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide, électricité, feu ou froid]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] ; voir texte ; ** Résistance à la magie** oui
 
 Ce sort forme une aura d'énergie autour du personnage et blesse tous ceux qui l'approchent. Il choisit un type d'énergie : acide, froid, électricité ou feu. Les créatures adjacentes au personnage au moment où le sort est lancé et au début de son tour reçoivent 2d6 points de dégâts d'énergie du type sélectionné. Cette aura a un effet supplémentaire en fonction du type d'énergie choisi.  
-
 - **Acide.** Les créatures affectées par l'aura du personnage subissent 1 point de dégâts d'acide par [[round]] en continu pendant 1 [[round]] par tranche de 3 [[NLS|niveaux de lanceur de sorts]] et sont [[fiévreux|fiévreuses]] tant que l'acide leur cause des dégâts.
 - **Froid.** Les créatures affectées par l'aura du personnage sont [[fatigué|fatiguées]]. Une créature déjà [[fatigué|fatiguée]] ne subit pas d'effet supplémentaire.
 - **Électricité.** Les créatures affectées par l'aura du personnage sont [[chancelant|chancelantes]] pendant 1 [[round]].

@@ -11,17 +11,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) / (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]/[[niveau]] (T) voir texte  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le personnage désigne une créature qui s’entoure d’un halo de lumière rougeâtre, présage d’un violent destin. Une fois par [[round]], quand la cible attaque ou lance un sort, elle doit faire un jet de [[Vigueur]] [[DD]] = 10 + 1/2 [[NLS|niveau de lanceur de sorts]] + [[Charisme]] (pour un [[oracle]]) ou [[Sagesse]] (pour un [[prêtre]]). En cas d’échec, la cible subit 4d6 + [[Charisme]] (pour un [[oracle]]) ou [[Sagesse]] (pour un [[prêtre]]) points de dégâts d’électricité. Si elle réussit son [[jet de sauvegarde]], elle ne subit pas de dégâts. Le personnage peut dissiper ce sort par une [[action immédiate]] si la cible réussit un [[coup critique]] : la dissipation [[hébété|hébète]] la cible pour 1 [[round]] et transforme le critique en coup normal. L’[[hébété|hébétement]] s’applique après l’attaque.

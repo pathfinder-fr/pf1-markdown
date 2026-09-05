@@ -104,27 +104,16 @@ utiliser des esclaves ou des sbires pour retenir leurs adversaires.
 
 Les drows ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont :
 - **+2 Dextérité, +2 Charisme, -2 Constitution.** Les drows sont agiles et manipulateurs.  
-
 - **Apprentissage martial.** Les drows sont formés à l'utilisation des arbalètes de poing, des épées courtes et des rapières.  
-
 - **Aveuglés par la lumière.** Un drow exposé de manière abrupte à la lumière est [[aveuglé]] pendant 1 round. Au cours des rounds suivants, il reste [[ébloui]] tant qu'il demeure dans la zone affectée.  
-
 - **Immunités des drows.** Les drows sont immunisés contre les effets magiques de sommeil et bénéficient d'un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts d'[[enchantement]].  
-
 - **Pouvoirs magiques.** Les drows peuvent lancer *[[lueur féerique]]*, *[[lumières dansantes]]* et  *[[ténèbres]]* une fois par jour chacun, avec un [[NLS]] égal à leur niveau total.  
-
 - **Résistance à la magie.** Les drows possèdent une [[RM|résistance à la magie]] égale à 6 + leur niveau de classe.  
-
 - **Sens aiguisés.** Les drows bénéficient d'un bonus racial de +2 aux tests de [[Perception]].  
-
 - **Taille M.** Les drows sont des créatures de [[taille]] M, ce qui ne leur apporte ni bonus ni malus.  
-
 - **Utilisation des poisons.** Voir description ci-dessus.  
-
 - **Vision dans le noir.** Les drows peuvent voir dans le noir jusqu'à 36 m (24 {s:c}).  
-
 - **Vitesse normale.** La vitesse de déplacement de base des drows est de 9 m (6 {s:c}).  
-
 - **Langues.** Les drow parlent automatiquement le commun des profondeurs et l'elfe. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : abyssal, aklo, aqueux, commun, draconique, gnome, gobelin et langue signée des drows.
 
 {s:VoirAussiAvant}La page de la race [[Drow (race)|Drow]]{s:VoirAussiAprès}

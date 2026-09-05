@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[chaman|Cham]] 6, [[druide|Dru]] 6, [[hypnotiseur|Hyp]] 5, [[psychiste|Psy]] 6, [[sorcière|Sor]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature/2 niveaux, toutes devant se trouver à 9 m ou moins les unes des autres  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule]] ; **Résistance à la magie** oui
 
 Ce sort bloque les capacités de raisonnement supérieur de la cible, laissant ses plus sombres pulsions remonter à la surface. La cible devient un monstre affamé, sauvage, sanguinaire et violent. Elle reçoit les avantages et inconvénients suivants jusqu’à la fin du sort.

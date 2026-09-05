@@ -16,15 +16,10 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Magus]] 6, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un oeuf de troglodyte)  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Quand le personnage se trouve sous l’effet de ce sort, il peut se téléporter sur 9 m (6 {s:c}) par une [[action de mouvement]]. Il doit terminer ce déplacement dans une case inoccupée située dans sa ligne de mire. Sinon, il peut dépenser une [[action de mouvement]] pour passer d’une position allongée à debout sans provoquer d’[[attaque dopportunité|attaque d’opportunité]].

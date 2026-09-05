@@ -74,7 +74,6 @@ Ce sort s’apparente à *[[cercle magique contre le Mal]]*, si ce n’est que s
 
 ## [[Cercle thaumaturgique]]
 {s:AO}** École **[[Abjuration]] ; **Niveau** [[conjurateur|Con]] 4, [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[inquisiteur|Inq]] 4, [[médium|Méd]] 3, [[Occultiste|Occ]] 3, [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G, M]] (un cercle de poudre d’argent de 90 cm de diamètre)
 **Portée** [[présentation des sorts#PORTEE|contact]]

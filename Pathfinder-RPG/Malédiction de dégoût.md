@@ -14,17 +14,11 @@ Categories:
 {s:UM}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, malédiction, mental]]<nowiki>]</nowiki> ;
 **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature   
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
 Le personnage place une malédiction sur une créature, ce qui la pousse à fuir la vue d'un déclencheur spécifique comme un type de créature, un objet ou une condition choisi par le lanceur de sorts. Qunad la cible se trouve à moins de 9 mètres de ce déclencheur et qu'elle est consciente de sa présence, elle devient [[fiévreux|fiévreuse]] et ressent un besoin impérieux de s'en aller. Voici quelques exemples de déclencheur:des mendiants, des vêtements crasseux, des créatures malades, le roi, du sang, des araignées, des rats, des cadavres ou des égoûts.

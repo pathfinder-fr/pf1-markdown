@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une boucle de cuir ou un fil d’or tordu en forme de bol)  
-
 **Portée** [[personnelle]] ou courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** le jeteur de sorts, 1 créature consentante ou 1 objet dans la limite de 50 kg/[[niveau]]  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet de se déplacer du bas vers le haut ou de déplacer du bas vers le haut une créature consentante ou un objet (il ne doit pas être entre les mains de quelqu’un ni appartenir à un individu non consentant). Par une [[action de mouvement]], le mage dirige mentalement les déplacements de la cible, dans une limite de 6 m (c'est-à-dire 4 cases) par round, vers le haut ou le bas. Il n’est pas possible de déplacer le sujet horizontalement. Cependant, le sujet peut se déplacer latéralement en s’aidant d’une paroi ou d’un plafond (dans ce cas, sa [[vitesse de déplacement]] est généralement divisée par deux).

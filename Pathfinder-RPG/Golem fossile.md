@@ -51,6 +51,5 @@ Les golems fossiles sont souvent utilisés pour garder les cavernes et autres fo
 Le golem fossile doit être construit à partir des squelettes fossilisés d’au moins deux créatures de taille TG ou plus grandes. Les os fossilisés constituant le golem doivent être très bien préservés et réassemblés au moyen de solutions alchimiques d’une valeur de 5 000 po.
 
 **NLS** 15<sup>e</sup> ; **Prix** 125 000 po  
-
 **Conditions** [[Création de créatures artificielles]], *[[façonnage de la pierre]]*, *[[quête]]*,  *[[pétrification]]*,  *[[souhait limité]]*, le créateur doit avoir un niveau de lanceur de sorts minimum de 15 ; **Compétence** [[Artisanat]] (sculptures) ou [[Premiers secours]] [[DD]] 20 ; **Coût** 65 000 po
 </div></td></tr></table>

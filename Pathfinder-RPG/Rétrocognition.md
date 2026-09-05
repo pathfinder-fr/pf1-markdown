@@ -12,15 +12,10 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[médium|Méd]] 3, [[occultiste|Occ]] 3, [[psychiste|Psy]] 5  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** concentration, jusqu’à 1 minute/niveau
 
 Ce sort permet au personnage d’obtenir des impressions psychiques issues des événements qui se sont déroulés là où il se trouve. Pendant la première minute de concentration, le sort révèle les impressions psychiques laissées par les événements s’étant déroulés dans l’heure précédente. Pendant la minute de concentration suivante, il révèle ceux s’étant déroulés pendant l’heure d’avant, etc. Si un événement particulièrement traumatisant ou perturbant d’un point de vue psychique s’est déroulé dans ce laps de temps, le personnage doit réussir un [[lancer des sorts#CONCENTRATION|test de concentration]] ([[DD]] = 20, 30 ou 40 selon la sévérité de la perturbation psychique), sinon il perd sa concentration.

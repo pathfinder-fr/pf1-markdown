@@ -15,15 +15,10 @@ Categories:
 
 {s:UC}
 **École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Médium|Méd]] 0, [[Psychiste|Psy]] 0  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)
 
 Le personnage s’entoure d’illusions inquiétantes qui lui donnent l’air d’une étrange fée démente. Il gagne une [[RD]] 1/[[fer froid]] contre un unique adversaire jusqu’à la fin du sort ou jusqu’à ce qu’il subisse des dégâts.

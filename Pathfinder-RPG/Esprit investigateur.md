@@ -14,15 +14,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 10 minutes/niveau ou jusqu’à déchargement
 
 L’esprit du personnage est capable de corréler les informations avec beaucoup d’efficacité. Quand il tente un test d’Art de la magie, de [[Connaissances]], d’[[Estimation]] ou de [[Linguistique]], il peut faire deux jets et garder le meilleur résultat. S’il a un pouvoir qui lui permet de relancer une deuxième fois, il ne peut pas utiliser ce pouvoir et cet avantage sur le même jet.

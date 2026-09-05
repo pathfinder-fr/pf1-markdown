@@ -21,17 +21,11 @@ Categories:
 
 {s:APG}
 **École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une poignée de pièces de cuivre)  
-
 **Portée** 12 m (8 {s:c})  
-
 **Cible** émanation de 12 m (8 {s:c}) de rayon centrée sur le lanceur de sorts  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] jusqu'à 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
 Comme la *[[détection de pensées]]*, la *recherche de pensées* permet d'effleurer celles de ceux qui entourent le personnage. Il peut les parcourir à la recherche d'une réponse à une question simple (comme « Où se trouve l'antre caché des rats-garous ? ») ou d'une information sur un sujet général (comme les croyances d'un culte maléfique). Il détecte le nombre de créatures situées à portée qui pensent à cette question ou à ce sujet, ainsi que leur emplacement si elles sont visibles. La *recherche de pensées* ne permet pas réellement de lire dans les pensées, juste de savoir ce que pense une créature à propos du sujet sur lequel le personnage se concentre, à condition qu'elle soit également en train d'y réfléchir. Un jet de [[Volonté]] réussi empêche le personnage de sonder les pensées de la créature pendant la durée du sort.

@@ -12,15 +12,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[barde|Bard]] 4, [[druide|Dru]] 3, [[rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Ce sort permet de comprendre les plantes (ce qui inclut les [[type plante|créatures végétales]]) et de communiquer avec elles. Le personnage peut les interroger et comprendre leurs réponses. Les plantes ne possédant qu’une connaissance très limitée de leur environnement, elles sont incapables de répondre à ce qui n’a pas trait à leur voisinage direct. Le sort ne rend pas les végétaux plus amicaux qu’ils ne le seraient normalement. Les plantes prudentes et sournoises sont souvent évasives dans leurs réponses, tandis que les plus gourdes ont tendance à dire n’importe quoi. Le personnage peut même obtenir de la [[type plante|créature végétale]] qu’elle lui rende service si cette dernière se montre amicale envers lui.

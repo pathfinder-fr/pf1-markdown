@@ -65,7 +65,6 @@ Le lien qui vous unit avec votre monture est fort, et vous avez tous les deux ap
 </div>
 </center>
 **L'ORDRE DE LA COCKATRICE**   
-
 En tant que chevalier de l’ordre de la Cockatrice, vous n’êtes au service que de vous-même, vous œuvrez pour atteindre vos propres buts et accroître votre propre gloire. Comme les autres chevaliers de cet ordre, vous avez tendance à être égoïste et à ne vous préoccuper que de vos objectifs personnels.
 
 **Édits.** Vous devez mettre vos propres intérêts et vos propres objectifs avant tous ceux des autres. Vous devez toujours accepter d’être payé quand un paiement vous est dû, toujours accepter les récompenses que vous avez méritées et toujours accepter une part juste du butin. Vous devez saisir toutes les opportunités qui se présentent pour accroître votre prestige, votre importance sociale et votre pouvoir.

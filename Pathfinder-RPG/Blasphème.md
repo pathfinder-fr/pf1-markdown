@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Mal, son]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** 12 m (8 {s:c})  
-
 **Zone d'effet** créatures non-Mauvaises situées dans une [[étendue]] de 12 m (8 {s:c}) de rayon centrée sur le prêtre  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Toute créature non-Mauvaise située dans la [[zone deffet|zone d’effet]] d’un *blasphème* est victime des effets suivants :

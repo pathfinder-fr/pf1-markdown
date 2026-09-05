@@ -20,19 +20,12 @@ Categories:
 
 {s:CMy}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 4, [[Médium|Méd]] 2, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** V, G  
-
 **Portée** [[contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 10 minutes/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 
 Le personnage transfère temporairement l’une de ses [[aptitudes de voie]] mythique à une créature qui peut l’utiliser comme si elle faisait partie des aptitudes de sa propre [[voie]]. Si la cible est incapable de dépenser du [[pouvoir mythique]], elle ne peut activer les effets de l’aptitude qui nécessitent la dépense de [[pouvoir mythique]], mais ceci ne l’empêche pas d’utiliser les parties non concernées par cette règle comme si elle était de [[grade]] 1.
 

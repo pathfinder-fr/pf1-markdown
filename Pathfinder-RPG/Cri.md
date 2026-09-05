@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) (voir description) ; **Résistance à la magie** oui (objet)
 
 Ce sort libère un cri terrible qui [[assourdi|assourdit]] et meurtrit les créatures se trouvant sur le chemin de l’onde sonore. Quiconque se tient dans la [[zone deffet|zone d’effet]] perd l’ouïe pendant 2d6 [[round|rounds]] et subit 5d6 points de dégâts de son. Un [[jet de sauvegarde]] réussi annule la [[assourdi|surdité]] et réduit les dégâts de moitié. Objets fragiles et créatures cristallines subissent 1d6 points de dégâts de son par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 15d6). Ces créatures ont droit à un jet de [[Vigueur]] pour réduire les dégâts de moitié, tandis que les individus tenant des objets fragiles peuvent les protéger en réussissant un jet de [[Réflexes]].

@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Évocation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[Magus]] 6, [[psychiste|Psy]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** Une créature corporelle vivante  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** Spécial (voir le texte) ; **Résistance à la magie** oui
 
 Vous créez une pression incroyable dans la tête de la cible; Ce sort ne fonctionne que sur une créature qui a une tête et qui mourra de la perte de celle-ci. Le sortilège tue instantanément une cible qui a 20 points de vie ou moins, en explosant sa tête et projetant des débris dans un rayon de 3m.

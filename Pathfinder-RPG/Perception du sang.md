@@ -20,17 +20,11 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Antipaladin|Apal]] 2, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]   
-
 **Portée** moyenne (30 m + 3 m/niveau)  
-
 **Cible** une créature/2 niveaux, deux de ces créatures ne devant pas être séparées de plus de 9 mètres.  
-
 **Durée** [[Présentation des sorts#DUREE|1 minute]]/[[niveau]] (T)   
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (inoffensif) ; **Résistance à la magie** [[Résistance à la magie (capacité)|Oui]] (inoffensif)
 
 Le lanceur de sorts magnifie la capacité de la cible à sentir la présence de sang. La cible est considérée comme ayant la capacité universelle de monstre [[Odorat (capacité)|odorat]], mais seulement quand il s’agit de repérer et de localiser des créatures blessées (en dessous de leur maximum de [[points de vie]]). Les créatures en dessous de la moitié de leurs points de vie ou souffrant de dégâts de [[Saignement (capacité)|saignement]] sont considérées comme dégageant une forte odeur pour cette capacité. Les orques et toutes les créatures sous les effets de [[Barbare#RAGEDEBERSERKER|rage]] gagnent un bonus de moral de +2 à leurs [[Valeurs de combat#JETDATTAQUE|jets d’attaque]] et de [[Valeurs de combat#DEGATS|dégâts]] contre les créatures qu’ils peuvent sentir grâce à ce sort, ou un bonus de moral de +4 si le sang de la cible compte comme une odeur forte.

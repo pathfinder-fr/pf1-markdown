@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[inquisiteur]] 2, [[magus]] 1, [[ensorceleur]]/[[magicien]] 1, [[sorcière]] 1  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance
 à la magie''' Oui
 

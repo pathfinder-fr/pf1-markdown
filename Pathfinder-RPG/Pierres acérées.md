@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** 1 carré de 6 m de côté/[[niveau]]  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Au terme de l’incantation, le terrain choisi (sol rocailleux ou en pierre) se couvre de pointes hérissées et invisibles, qui blessent et ralentissent toutes les créatures qui tentent de traverser la [[zone deffet|zone d’effet]]. Toute personne qui pénètre à pied dans la zone affectée subit 1d8 points de dégâts à chaque fois qu’il parcourt 1,50 m et sa [[vitesse de déplacement]] est réduite de moitié.

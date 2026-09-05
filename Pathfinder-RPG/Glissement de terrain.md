@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 6  
-
 **Temps d'incantation** voir description  
-
 **Composantes** [[composantes|V, G, M]] (argile, limon, sable et une lame de fer)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** toute la terre contenue dans un carré de 225 m de côté et sur une profondeur de 3 m maximum (F)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à ce sort, le personnage peut faire bouger de la terre (il peut également s’agir d’argile, de glaise ou de sable) dans le but de faire s’effondrer des remblais ou de déplacer des buttes ou des dunes par exemple. Le sort est par contre impuissant face aux formations rocheuses.

@@ -8,17 +8,11 @@ Categories:
 
 {s:UM}
 **École** [[Divination]]; **Niveau** [[Inquisiteur|Inq]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** un allié  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]); **Résistance à la magie** oui (inoffensif)
 
 Le personnage crée un conduit de connaissances et d’indignation divine entre un allié et lui. Cet allié bénéficie des avantages [[inquisiteur#JUGEMENTS|d’un jugement]] actif (comme le personnage). Si le personnage ne peut pas utiliser son jugement (s’il n’est pas en combat, s’il est [[effrayé]] ou [[inconscient]], etc.) ou s’il change de jugement, l’allié perd les avantages du jugement. Si le personnage a plusieurs jugements actifs, l’allié ne bénéficie que d’un seul que le personnage choisit au moment ou il lance le sort.

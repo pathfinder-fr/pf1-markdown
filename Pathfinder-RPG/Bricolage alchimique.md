@@ -13,17 +13,11 @@ Categories:
 
 {s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:MR}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 action simple  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** [[Armes à feu|arme à feu]] ou objet alchimique touché  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le lanceur de sorts transforme un objet alchimique ou une [[Armes à feu|arme à feu]] en un autre objet alchimique ou en une autre arme à feu de coût égal ou moindre. Les [[Règles relatives aux objets magiques|objets magiques]] ne sont pas affectés par ce sort. Quand la [[Présentation des sorts#DUREE|durée]] du sort se termine, les objets alchimiques utilisés alors qu’ils étaient transformés sont détruits et ne retrouvent pas un état fonctionnel, tandis que les armes à feu retrouvent leur type d’origine.

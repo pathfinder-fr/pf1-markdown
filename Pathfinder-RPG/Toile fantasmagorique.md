@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|dévoiler]] puis [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage implante dans l'esprit de ses cibles une [[Illusion]] qui les présente comme engluées dans des toiles grouillant de nuées de petites araignées. Les créatures qui ratent leur jet de [[Volonté]] et succombent à l'[[Illusion]] sont considérées comme sous l'effet d'un sort de *[[toile daraignée|toile d'araignée]]* et doivent réussir un jet de [[Vigueur]] au début de chaque tour pour ne pas être [[nauséeux|nauséeuses]] pour le [[round]] à cause des araignées fantasmagoriques.

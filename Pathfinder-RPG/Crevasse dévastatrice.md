@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:cs}{s:BotD}**École** [[Invocation]] ([[branche appel|appel]]) <nowiki>[</nowiki>[[registre|Chaos]], [[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 8, [[prêtre|Prê]] 8,  [[sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** trou extradimensionnel de 1,5 m de large et 18 m de profondeur, jusqu'à 1,5 m de long par [[niveau]] (F)  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]], partiel ; **Résistance à la magie** non
 
 Ce sort déchire une faille dans la réalité, créant un trou extradimensionnel d'une profondeur de 18 mètres. Le personnage doit créer la faille sur une surface horizontale de taille suffisante. Étant donné que la faille s'étend dans les Abysses, elle ne déplace pas le matériau sous-jacent d'origine et ne permet pas d'accéder aux zones sous la surface ; le personnage peut créer la faille sur le pont d'un navire aussi facilement que dans le sol d'un donjon ou la terre d'une forêt. Toute créature de taille G ou plus petite se trouvant dans la zone où la faille est invoquée doit réussir un jet de [[Réflexes]] pour éviter de tomber dans le trou. En cas de succès, la créature choisit de quel côté de la faille elle reste une fois celle-ci ouverte. Les objets et les structures abandonnés qui peuvent être entièrement engloutis par la faille y tombent automatiquement.

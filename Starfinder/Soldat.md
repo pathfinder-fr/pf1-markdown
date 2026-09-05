@@ -9,12 +9,9 @@ complexes, les créatures s’affrontent pour la domination, les ressources, les
 
 
 <div class="fright">***Voir aussi les [[optimisations dequipement|optimisation d'équipement]].***  
-
 ***Voir aussi les [[styles de combats]].***'  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo"

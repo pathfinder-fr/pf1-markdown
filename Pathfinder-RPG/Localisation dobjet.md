@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (une baguette de sourcier)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** cercle de 120 m de rayon + 12 m/[[niveau]] (80 {s:c} + 8 {s:c}/[[niveau]]), centré sur le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à cette incantation, le personnage sent dans quelle direction se trouve un objet qu’il connaît bien ou qu’il visualise parfaitement. On peut lui demander de trouver un objet appartenant à une catégorie générale, auquel cas il indique le plus proche. Si l’on recherche un certain objet, il faut avoir son image mentale précise en tête au moment de l’incantation, sinon le sort échoue. Il est impossible de retrouver un objet précis sans avoir auparavant vu l’objet en question (directement, pas par le biais d’un sort de [[Divination]]).

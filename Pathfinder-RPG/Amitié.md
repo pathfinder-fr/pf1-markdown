@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 1, [[ensorceleur]]/[[magicien]] 1, [[sorcière]] 1  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restrictions de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet considère le magicien comme un allié de confiance. Elle le défend et n’attaque pas ses alliés tant que le sort est actif. Cependant, si elle est attaquée par le personnage ou ses amis, *amitié* prend immédiatement fin bien que les autres effets continuent d’agir. Un sort incluant cet effet n’affecte que les créatures de [[type humanoïde]] ; les cibles bénéficient d’un bonus de +4 à leur [[jet de sauvegarde]] si le sort a été augmenté pour affecter plus d’une créature.

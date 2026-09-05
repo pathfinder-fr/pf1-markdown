@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** Universel ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (diamant (25 000 po))  
-
 **Portée** voir description   
-
 **Cible, effet ou zone d’effet** voir description  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun, voir description ; **Résistance à la magie** oui
 
 *Souhait* est le sort ultime des [[magicien|magiciens]] et des [[ensorceleur|ensorceleurs]]. Il suffit en effet au personnage d’exprimer un *souhait* pour que le tissu de la réalité se modifie selon leurs désirs. Mais même un sort aussi puissant a ses limites.

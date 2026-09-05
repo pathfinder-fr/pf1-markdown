@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Effet** instrument fantomatique  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage crée un instrument fantomatique, une créature artificielle magique luisante qui prend la forme d’un instrument de musique choisi par le personnage. L’instrument flotte à côté de lui et se déplace avec lui (même s’il se [[téléportation|téléporte]]). Il est impossible de l’endommager mais on peut le [[dissipation de la magie|dissiper]]. L’instrument joue comme le personnage le lui demande et, tant qu’il joue, le barde n’a pas besoin de dépenser de [[round]] de [[représentation bardique]] pour maintenir un effet. Si le personnage active une [[représentation bardique|représentation]] ou un nouvel effet, cela lui coûte toujours le nombre de [[round|rounds]] de [[représentation bardique|représentation]] habituel.

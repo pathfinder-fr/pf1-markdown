@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** 36 m (24 {s:c})  
-
 **Effet** un sentier en ligne droite de 3 m (2 {s:c}) de large et de 36 m (24 {s:c}) de long au maximum  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage et sa monture laissent une traînée de brume divine luminescente derrière eux, ce qui facilite le passage aux créatures d'[[alignement]] Bon mais gêne les créatures d'[[alignement]] Mauvais. Cette piste de brume luisante apparaît derrière la monture et se poursuit en ligne droite à partir de l'endroit où le personnage a lancé le sort et se termine là où la monture finit son déplacement. La brume prend la forme d'un chemin de 3 mètres (2 {s:c}) de large et de 36 mètres (24 {s:c}) de long au maximum. Elle flotte toujours à une trentaine de centimètres au-dessus du sol. Elle persiste pendant 1 [[round]] par [[niveau]].

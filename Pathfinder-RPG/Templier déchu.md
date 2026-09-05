@@ -105,9 +105,7 @@ Ce pouvoir est identique au [[Roublard#ATTAQUESOURNOISE|pouvoir de roublard]] du
 {s:Reference|VOIEDELALUMIRE}
 #### Voie des ténèbres/voie de la lumière (Sur)
 Alors que le templier évolue, il doit choisir à quel point il souhaite trahir son serment à Iomédae, et par là la loyauté et la bonté qu’elle incarne. S’il choisit la voie de la lumière, il ignore la composante Loyale ou Bonne de son alignement (au choix) quand il s’agit de déterminer les effets magiques basés sur l’alignement (comme réduire les dégâts de ténèbres maudites ou d’une arme impie, masquer son alignement lors d’une détection du Bien ou ignorer les effets d’un cercle de protection contre le Bien).  
-
 Il gagne aussi un bonus de circonstance de +2 aux tests de [[Diplomatie]] contre des créatures de sous-type Bon ou Loyal.   
-
 S’il choisit la voie des ténèbres, il fait de même mais en ce qui concerne les composantes Chaotiques ou Mauvaises de son alignement et son bonus de [[Diplomatie]] fonctionnera uniquement sur des créatures de sous-type Chaotique ou Mauvais.
 
 {s:Reference|VIVREPOURSEBATTREPLUSTARD}

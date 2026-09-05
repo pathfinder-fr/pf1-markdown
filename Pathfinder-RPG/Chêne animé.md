@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 6  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** arbre touché  
-
 **Durée** 1 jour/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Cette [[branche métamorphose|métamorphose]] transforme un chêne en gardien. On ne peut animer qu’un arbre à la fois, il faut donc attendre que le premier arbre redevienne inerte pour lancer le sort sur un autre. *Chêne animé* ne peut être lancé que sur un chêne adulte et en bonne santé (de [[taille TG]] ou plus). L’incantation doit obligatoirement s’accompagner d’une phrase de commande ne dépassant pas un mot par [[NLS|niveau de lanceur de sorts]] du [[druide]]. Le sort métamorphose l’arbre en [[sylvanien]].

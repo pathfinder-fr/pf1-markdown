@@ -17,17 +17,11 @@ Categories:
 
 {s:UC}
 **École** [[Abjuration]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 5, [[Sanguin|San]] 4, [[Sorcière|Sor]] 5   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (quatre dagues de mithral d’une valeur de 502 po pièce)  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** Réflexes 1/2 dégâts (spécial, voir texte) ; **Résistance à la magie** non (spécial, voir texte)
 
 Les dagues qui servent de focalisateurs pour le sort deviennent dangereusement affûtées alors qu’elles s’animent et décrivent des cercles autour du personnage. Les lames occupent un rayon de 1,50 m (1 {s:c}) autour de celui-ci et se déplacent avec lui. Si une créature commence son tour dans la zone d’effet des lames, elle subit 1d4 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (10d4 maximum au niveau 20). Ces dégâts ignorent la [[RD]]/argent.

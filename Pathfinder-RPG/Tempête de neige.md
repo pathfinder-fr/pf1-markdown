@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau**  [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (poussière et eau)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[cylindre]] (12 m de rayon sur 6 m de haut)  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 La neige fondue générée par ce sort tombe avec une telle violence qu’elle bloque le champ de vision de toutes les créatures qui se trouvent dans la [[zone deffet|zone d’effet]] (même celles qui bénéficient de [[vision dans le noir]]). De plus, le sol se couvre presque instantanément d’une pellicule glissante qui réduit tous les déplacements de la moitié dans la [[zone deffet|zone d’effet]], en admettant que les créatures concernées réussissent un test d’[[Acrobaties]] ([[DD]] 10). En cas d’échec, elles ne peuvent se déplacer du tout pendant ce [[round]]. Si elles ratent leur test de 5 points ou plus, elles chutent (voir la compétence [[Acrobaties]] pour de plus amples renseignements).

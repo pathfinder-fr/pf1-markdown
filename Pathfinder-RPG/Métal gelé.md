@@ -9,17 +9,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** l’équipement métallique de 1 créature/2 [[niveau|niveaux]], distantes de moins de 9 m (6 {s:c}) les unes des autres ; ou 12,5 kg de métal/[[niveau]], contenu dans un cercle de 9 m (6 {s:c}) de rayon  
-
 **Durée** 7 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Le sort *métal gelé* diminue fortement la température des métaux affectés. Les objets métalliques non-magiques, non portés ni tenus, n’ont droit à aucun [[jet de sauvegarde]], contrairement aux objets métalliques magiques. Un objet tenu ou porté utilise le [[jet de sauvegarde]] de celui qui l’a en main (à moins que le sien propre soit plus avantageux).

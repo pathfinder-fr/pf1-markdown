@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature ou objet touché  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Si le personnage réussit son [[attaque de contact au corps à corps]], il inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (5d4 au maximum).

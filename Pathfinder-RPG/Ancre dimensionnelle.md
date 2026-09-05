@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** [[rayon]]  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** [[RM|oui]] (objet)
 
 Un [[rayon]] vert jaillit de la main tendue du personnage, qui doit réussir une [[attaque de contact à distance]] pour atteindre sa cible (créature ou objet). En cas de succès, la cible se retrouve entourée d’une aura vert émeraude lui interdisant toute forme de déplacement extradimensionnel. Les sorts affectés sont *[[changement de plan]]*, *[[clignotement]]*, *[[dédale]]*, *[[forme éthérée]]*, *[[passage dans léther|passage dans l’éther]]*, *[[portail]]*, *[[porte dimensionnelle]]*, *[[projection astrale]]*, *[[téléportation]]* et *[[traversée des ombres]]* ainsi que les [[pouvoirs magiques]] correspondants. La victime ne peut pas non plus utiliser un *[[portail]]* ou un *[[cercle de téléportation]]*.

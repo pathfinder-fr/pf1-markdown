@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[composantes|V, G, M]] (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par [[DV]] de [[type mort-vivant|mort-vivant]])  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 cadavre  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort bien plus puissant qu’*[[animation des morts]]* offre la possibilité de créer des [[type mort-vivant|morts-vivants]] autrement plus dangereux : [[ombre|ombres]], [[âme-en-peine|âmes en peine]], [[spectre|spectres]] et [[dévoreur|dévoreurs d’âme]]. Le type de [[type mort-vivant|mort-vivant]] créé est choisi en fonction du [[NLS|niveau de lanceur de sorts]] du personnage :

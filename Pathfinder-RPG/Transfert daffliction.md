@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Nécromancie]] ; **Niveau** [[chaman|Cham]] 6, [[psychiste|Psy]] 6, [[sorcière|Sor]] 7, [[spirite|Spi]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** 1 créature affectée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Les mains du personnage pénètrent dans le corps de la cible et en retirent une affliction sous forme d’objet tangible : une masse de chair visqueuse. La cible guérit comme si elle avait bénéficié de *[[guérison des maladies]]*, *[[délivrance des malédictions]]* ou *[[neutralisation du poison]]*. De plus, cette masse de chair visqueuse permet au personnage de transmettre cette affliction à une autre créature par une [[contact|attaque de contact]], comme s’il livrait un sort de contact. L’affliction provoque les mêmes effets, avec les mêmes jets de sauvegarde et [[DD]].

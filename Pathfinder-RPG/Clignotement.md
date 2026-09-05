@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Effet** le jeteur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)
 
 Le personnage glisse rapidement du [[plan Matériel]] au [[plan Éthéré]], donnant une impression de clignotement (d’où le nom du sort). *Clignotement* possède les effets suivants :

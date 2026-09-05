@@ -13,15 +13,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible **le lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)
 
 Le personnage développe une sensibilité accrue vis-à-vis des manières, des réactions et du langage corporel d’une créature située dans son champ de vision, ce qui lui permet de percevoir son état d’esprit  et de l’influencer facilement. Il gagne un bonus de +10 aux tests de Perception, de Psychologie et de Survie contre cette créature, ainsi qu’un bonus de +5 aux tests de Diplomatie et d’Intimidation contre elle.

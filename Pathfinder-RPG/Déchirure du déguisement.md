@@ -13,15 +13,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Divination]]; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Le personnage voit à travers les déguisements magiques (que ce soient des illusions ou des effets de métamorphose) de niveau de sort égal ou inférieur. Ceci permet au personnage de voir la véritable forme des créatures magiquement déguisées grâce à ce genre de méthodes. La véritable forme apparaît comme une surimpression fantomatique qui se superpose à l’apparence déguisée de la créature.

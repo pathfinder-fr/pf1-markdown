@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 0, [[magus]] 0, [[ensorceleur]]/[[magicien]] 0  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un sort incluant cet effet inflige 1d3 points de dégâts de froid. S’il n’a qu’une seule cible, il nécessite un jet d’[[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact au corps à corps ou de contact à distance]] et n’autorise aucun [[jet de sauvegarde]].

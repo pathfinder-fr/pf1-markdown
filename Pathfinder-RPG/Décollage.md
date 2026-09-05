@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[barde]] 0, [[conjurateur]] 0, [[magus]] 0, [[ensorceleur]]/[[magicien]] 0  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*
 
 Ce mot effet confère au lanceur la capacité de soulever et de bouger des objets ordinaires pesant au maximum 2,5 kg, sur une distance de 9 mètres (6 {s:c}) + 1,50 mètres (1 {s:c}) par tranche de 2 niveaux. Les objets déplacés de cette manière parcourent jusqu’à 4,50 mètres (3 {s:c}) par [[round]] et ne peuvent pas servir à attaquer.

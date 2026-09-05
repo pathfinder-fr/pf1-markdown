@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[occultiste|Occ]] 2, [[psychiste|Psy]] 2, [[sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[contact]]  
-
 **Cible** un objet touché de 0,5 kg et 0,03 m3 max.  
-
 **Durée** instantanée ou 1h/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule (objet)]] ; **Résistance à la magie** oui (objet)
 
 Ce sort permet au personnage de déplacer instantanément un objet non vivant de petite taille d’un endroit à un autre. Il s’utilise de deux manières. L’envoi permet au personnage d’envoyer immédiatement un objet qu’il tient en main vers une destination proche. La réception lui permet de lancer le sort à l’avance sur un objet, afin de le rappeler à lui ultérieurement.

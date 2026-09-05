@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau**  [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** 9 m (6 {s:c}) de rayon  
-
 **Durée** [[instantanée]] et 2 [[round|rounds]] (voir texte)  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir texte); **Résistance à la magie** non
 
 De l'acide jaillit de la case du personnage et se projette dans toute les directions, infligeant 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (20d6 au maximum) aux créatures et aux objets abandonnés dans la zone. Au cours des deux prochains rounds, au tour du personnage, les créatures et les objets qui ratent leur [[jet de sauvegarde]] contre l'explosion initiale reçoivent 1d6 points de dégâts d'acide supplémentaires par tranche de deux [[NLS|niveaux de lanceur de sorts]] (10d6 au maximum), à moins que l'acide ne soit dissipé, neutralisé ou lavé.

@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|bien, émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** 1,50 m (1 {s:c})  
-
 **Zone** case de 1,50 m (1 {s:c}) de côté  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage crée une case qui redonne courage à toute créature Bonne qui entre en contact avec. Toute créature d'[[alignement|alignement Bon]] qui entre dans cette case (même si c'est seulement lors de son déplacement normal) gagne un bonus de +2 aux [[jet dattaque|jets d'attaque]], [[jet de sauvegarde|de sauvegarde]] et 2 points de vie temporaires par [[NLS|niveau de lanceur de sorts]] pendant 1 [[round]]. Les créatures d'un autre [[alignement]] ne tirent aucun avantage de ce sort. Une créature ne peut profiter de ce sort qu'une fois par incantation.

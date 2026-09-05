@@ -13,27 +13,19 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une gemme noire de n’importe quel type d’une valeur de 50 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** sphère de 30 cm de diamètre  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage crée une petite sphère d’énergie négative pure qui ne pèse rien. Par une [[action de mouvement]], il peut la déplacer d’un maximum de 9 mètres (6 {s:c}) par [[round]], dans n’importe quelle direction. Si elle entre dans la case d’une créature vivante, elle s’arrête de bouger pendant 1 [[round]] et la créature gagne un [[niveau négatif]] ([[Vigueur]] pour annuler). Une créature qui passe à travers la case occupée par la sphère ou termine son tour dedans reçoit aussi un [[niveau négatif]] ([[Vigueur]] pour annuler). 24 heures après avoir reçu un ou plusieurs
 [[niveau négatif|niveaux négatifs]] à cause de la sphère, la victime doit réussir un jet de [[Vigueur]] par
 [[niveau négatif]] (le [[DD]] du [[jet de sauvegarde]] est égal au [[DD]] de ce sort). En cas de réussite, la victime se
 débarrasse de son [[niveau négatif]]. Si elle échoue, il devient permanent.  
-
 Si plusieurs orbes (issus de différentes incantations du sort) entrent dans la même case, ils fusionnent automatiquement. L’orbe qui en résulte utilise le [[DD]] le plus grand des incantations fusionnées et la durée d’activité restante la plus longue. Si les orbes appartiennent à différents lanceurs de sorts, ils doivent faire
 des tests d’[[Intelligence]] opposés pour déplacer la sphère.  
-
 Un [[type mort-vivant|mort-vivant]] qui traverse une case occupé par un orbe ou termine son tour dedans gagne 2d4 × 5 points de vie temporaires pendant 1 heure.
 
 ### Mythique

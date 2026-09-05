@@ -19,17 +19,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un objet  
-
 **Durée** voir texte  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (objet)
 
 Le personnage crée et contrôle une force télékinétique invisible. Il la manipule avec une brusquerie surprenante ou avec délicatesse et application, ce qui lui permet d’arracher un objet à un adversaire ou de manipuler un objet éloigné. Il peut utiliser cette force de deux manières.

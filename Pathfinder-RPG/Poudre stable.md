@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (quelques gouttes de liqueur)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme à feu chargée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
 La munition déjà chargée dans l’arme a peu de chances de faire [[long feu]]. La zone de [[long feu]] possible diminue de 1 + 1 par tranche de cinq [[NLS|niveaux de lanceur de sorts]] (+5 au maximum, pour une valeur de [[long feu]] minimum de 0).

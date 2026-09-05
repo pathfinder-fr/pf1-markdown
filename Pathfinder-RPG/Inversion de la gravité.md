@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (de la magnétite et quelques copeaux de fer)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** jusqu’à 1 cube de 3 m/2 {s:c} d’arête par 2 [[niveau|niveaux]] (F)  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** non
 
 Ce sort inverse la gravité dans une zone. Les créatures et objets non attachés tombent vers le haut et atteignent le sommet du volume affecté en 1 [[round]]. S’ils rencontrent un obstacle solide au cours de cette « chute » (le plafond, par exemple), les conséquences de l’impact qui en résulte sont déterminées comme s’ils étaient tombés dans le sens normal. Les objets et les créatures qui atteignent la limite de la zone affectée sans rencontrer d’obstacle y restent suspendus, oscillant légèrement jusqu’à la fin de la durée du sort. Lorsque le sort se termine, les objets et les créatures retombent.

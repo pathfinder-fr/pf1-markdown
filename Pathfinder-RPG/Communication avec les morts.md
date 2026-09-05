@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|dépendant du langage]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 3 m (2 {s:c})  
-
 **Cible** 1 créature morte  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
 Ce sort accorde un semblant de vie et d’intelligence à un cadavre, ce qui permet à celui-ci de répondre à quelques questions posées par le [[prêtre]]. Le [[prêtre]] a droit à une question tous les deux [[NLS|niveaux de lanceur de sorts]]. Les connaissances du cadavre se limitent à ce que la créature savait de son vivant, tout comme la ou les langues qu’il parlait. Ses réponses sont généralement abrégées, difficilement compréhensibles et redondantes, surtout si, de son vivant, la créature se serait opposée au lanceur de sorts.

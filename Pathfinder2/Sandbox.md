@@ -19,11 +19,8 @@ LastModified: 2023-04-27 14:51
 **PV** 8
 
 **Projection défensive** {s:PF2a|ra} **Déclencheur** L'orteil en trop devient agrippé suite aux actions d'une créature ; **Effet** L'orteil en trop projette un gaz malodorant afin d'affaiblir la prise de la créature déclencheur sur lui et tente de s'enfuir précipitamment. La créature déclencheur doit effectuer un test de Réflexes de DD 15 pour éviter de lâcher l'orteil en trop.   
-
 &nbsp;&nbsp;&nbsp;&nbsp;*Réussite* La créature déclencheur parvient à maintenir sa prise sur l'orteil en trop.  
-
 &nbsp;&nbsp;&nbsp;&nbsp;*Échec* L'orteil en trop se soustrait à la prise de la créature et perd l'état agrippé.  
-
 &nbsp;&nbsp;&nbsp;&nbsp;*Échec critique* Comme échec, et la créature est nauséeuse 1.
 ---
 **Vitesse** 2 cases

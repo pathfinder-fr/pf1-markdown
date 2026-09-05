@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un outil)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 jour/[[niveau]] ou jusqu'à utilisation (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible est frappée pour une inspiration soudaine et reçoit un bonus de chance de +5 au prochain test d'[[Artisanat]] pendant toute la durée du sort.

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** le jeteur de sorts et 1 créature extraplanaire bonne, ou le jeteur et le sort du [[registre|Bien]] ou l’[[enchantement]] affectant la créature ou l’objet touché  
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu’à épuisement  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** voir description
 
 Une aura noire et maléfique entoure le personnage et lui confère les avantages suivants :

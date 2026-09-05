@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** nuage couvrant une étendue de 6 m (4 {s:c}) de rayon et 6 m de haut  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** non
 
 Cette invocation fait apparaître un nuage de fumée constellé de braises en suspension. La fumée limite le champ de vision aussi efficacement que le sort *[[nappe de brouillard]]*. De plus, les braises infligent 6d6 points de dégâts de feu par [[round]] (quand vient le tour du personnage) à toutes les créatures prises dans la [[zone deffet|zone d’effet]] (un jet de [[Réflexes]] réussi réduit ce total de moitié).

@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, M]] (un coupon de tissu noir)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une animal indifférent ou amical  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** non; **Résistance à la magie** oui
 
 Le personnage instille l'expérience des montures de combat à un animal (voir la compétence [[dressage]]). Ceci remplace l'entraînement que l'animal pourrait avoir et tous les tours qu'il connaît. Quand le sort se termine, l'animal reprend sa fonction d'origine et ne connaît que ses anciens tours.

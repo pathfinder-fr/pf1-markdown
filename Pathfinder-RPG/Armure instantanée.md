@@ -13,21 +13,15 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Le corps du personnage se drape instantanément dans une armure faite d'une force opaque. S'il le désire, cette armure peut s'orner du symbole de sa religion dans un endroit visible, comme sur la cuirasse ou le heaume. Tant que le sort persiste, cette armure remplace tout vêtement ou autre armure portée par le personnage, magique ou non. Le personnage perd donc tous les avantages de l'armure remplacée par ce sort pendant qu'il fait effet. L'armure instantanée disparaît ensuite.
 
 L*'armure instantanée *se comporte comme n'importe quelle armure de son genre en ce qui concerne le bonus d'armure, le bonus de [[Dextérité]] maximum, les risques d'échecs des sorts profanes etc. Comme elle est faite de force pure, les créatures intangibles ne peuvent pas l'ignorer comme une armure ordinaire. Le genre d'armure créée dépend du niveau de lanceur de sorts.  
-
 
 {| CLASS="tablo centre"
 |- CLASS="titre"

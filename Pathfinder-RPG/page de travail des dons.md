@@ -5,14 +5,10 @@ LastModified: 2020-03-09 17:37
 ---
 
 *Les dons marqués d'un astérisque sont des [[Dons#DONCOMBAT|dons de combat]].*   
-
 ''La colonne Src indique la source du don :
 - <sup>B1</sup> Bestiaire. Ce sont des dons pour les monstres.   
-
 - <sup>APG</sup> Manuel des Joueurs Règles Avancées.  
-
 - <sup>UM</sup> Art de la Magie.   
-
 - <sup>UC</sup> Art de la Guerre.''
 
 <center>

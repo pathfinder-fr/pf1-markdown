@@ -107,19 +107,12 @@ utilisent leur capacité d’agrandissement avant de passer à l’attaque.
 
 Les duergars ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont les suivants :
 - **+2 Constitution, +2 Sagesse, –4 Charisme.** Les duergars sont robustes et observateurs mais également entêtés et belliqueux.  
-
 - **Immunités des duergars.** Les duergars sont immunisés contre la paralysie, les fantasmes et les poisons. Ils bénéficient également d'un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les pouvoirs magiques.  
-
 - **Lentement mais sûrement.** Les duergars ont une vitesse de déplacement de base de 6 m (4 {s:c}) mais celle-ci n'est jamais réduite à cause de l'armure ou de la charge qu'ils portent.  
-
 - **Pouvoirs magiques.** Les duergars peuvent lancer *[[agrandissement]]* et *[[invisibilité]]* une fois par jour chacun, avec un [[NLS]] égal à leur niveau de personnage. Ces pouvoirs magiques n'affectent que le duergar lui-même.  
-
 - **Sensibilité à la lumière.** Les duergars restent [[ébloui|éblouis]] tant qu'ils demeurent dans une zone de lumière vive.  
-
 - **Stabilité.** Les duergars reçoivent un bonus racial de +4 à leurs [[DMD]] pour résister aux [[bousculade|bousculades]] et aux tentatives de [[croc-en-jambe]] lorsqu'ils se tiennent sur le sol.  
-
 - **Vision dans le noir.** Les duergars peuvent voir dans le noir jusqu'à 36 m (24 {s:c}).  
-
 - **Langues.** Les duergars parlent automatiquement le commun, le commun des profondeurs et le nain. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : aklo, draconique, géant, gobelin, orque et terreux.
 
 {s:VoirAussiAvant}La page de la race [[Duergar (race)|Nain Gris]]{s:VoirAussiAprès}

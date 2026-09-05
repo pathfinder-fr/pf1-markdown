@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 8, [[sorcière|Sor]] 8  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (laboratoire doté d’un matériel d’une valeur de 1 000 po), [[composantes|F]] (équipement de laboratoire spécial (500 po)  
-
 **Portée** 0 m  
-
 **Effet** 1 clone  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort produit une copie parfaite, mais inerte, du sujet. Si le sujet reproduit est mort, son âme glisse automatiquement dans le clone, ce qui le ramène à la vie (il faut pour cela que l’âme soit libre et qu’elle veuille revenir d’entre les morts). L’enveloppe corporelle d’origine n’est plus qu’un amas de chairs mortes et il devient impossible de le ressusciter. Si le défunt venait d’atteindre sa limite d’âge (c’est-à-dire s’il est mort de causes naturelles), le *clonage* échoue automatiquement.

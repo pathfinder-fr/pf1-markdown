@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Transmutation]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d’incantation** 1 [[action immédiate]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage puise dans les profondeurs de son esprit et en reste vidé. Quand il est sur le point de faire un jet de d20 basé sur l’[[Intelligence]], la [[Sagesse]] ou le [[Charisme]], il peut lancer ce sort pour gagner un bonus de +8 à cette caractéristique pour ce jet mais il est ensuite [[États préjudiciables#Hébété|hébété]] pendant 1 round.

@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 0, [[ensorceleur]]/[[magicien]] 0, [[magus]] 0, [[sorcière]] 0  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce mot effet inflige 1d4 points de dégâts d’électricité. Si le sort n’a qu’une seule cible, il faut faire un jet d’[[attaque de contact au corps à corps]] ou [[attaque de contact à distance|de contact à distance]] mais il n’autorise pas de [[jet de sauvegarde]].

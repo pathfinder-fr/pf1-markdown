@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Chaque [[round]], le lanceur de sorts se [[concentration|concentre]] sur une créature située à [[portée]]. Grâce aux subtiles perturbations que le sort lui permet de voir dans l’aura de la cible, il sait si celle-ci prononce intentionnellement un mensonge. *Détection du mensonge* n’indique pas la vérité ni les erreurs commises en toute bonne foi, et il ne détecte pas toujours les semi-vérités.

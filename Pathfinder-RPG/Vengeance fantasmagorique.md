@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]] et [[Présentation des sorts#PORTEE|illimitée]] (voir description)  
-
 **Cible** cadavre touché  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|dévoiler]] puis [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
 Quand le personnage lance cet étrange sort sur une créature décédée, une image spectrale terrifiante se lève de son cadavre et pousse un hurlement de vengeance avant de disparaître dans une explosion de lumière surnaturelle. Le fantôme cherche alors son assassin et, tant que ce dernier se trouve sur le même [[plans|plan]] que la créature morte, elle le trouve immanquablement et essaye alors de le tuer.

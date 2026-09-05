@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature extraplanaire  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort force la créature extraplanaire ciblée à retourner dans son plan d’origine si elle rate son jet de [[Volonté]]. Dans ce cas, elle disparaît aussitôt mais elle a 20 % de chances de se retrouver dans un plan autre que le sien.

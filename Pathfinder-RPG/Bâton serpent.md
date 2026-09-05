@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un couteau utilisable pour tailler le bois)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 ou plusieurs morceaux de bois qui doivent se trouver à moins de 9 m (6 {s:c}) les uns des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** oui (objet)
 
 D'un long murmure sifflant, le personnage transforme un morceau de bois ordinaire en divers serpents qui attaquent immédiatement son ennemi. Tant qu'ils restent en vue, le personnage peut diriger leurs actions par télépathie par une action libre. Le personnage peut lancer ce sort contre un objet de bois qui ne se trouve pas en possession d'une créature et qui n'appartient pas à une structure ou à une plante. À chaque fois que le personnage lance ce sort, il peut créer un nombre de serpents égal à son [[NLS|niveau de lanceur de sorts]]. Les serpents les plus puissants équivalent à plusieurs plus petits, comme indiqué plus bas.

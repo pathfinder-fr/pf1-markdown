@@ -24,7 +24,6 @@ Retrouvez la section "Convention ConVergence FR" sur le serveur pour vous attrib
 L'ouverture des inscriptions aux parties est prévue à partir
 - du 16 février pour les MJs participants,  
   
-
 - du 25 février pour tout le monde.
 
 <div style="clear: both"></div>Les inscriptions aux **Parties PsD** seront publiées sur le canal #recrutement du serveur Discord. Les parties qui y sont proposées ne se limitent pas aux parties de la convention&nbsp;: n'hésitez pas à participer à d'autres sessions, surtout si vous débutez !!
@@ -42,7 +41,6 @@ De la Grande Loge d'Absalom aux prairies d'Arcadie en passant par Nex, Qadira, l
 
 #### Les Parties sur Discord
 Les Parties sur Discord (PsD) sont des parties en mode texte offrant aux personnes ayant moins de temps de quand-même s'adonner à leur passe-temps.  
-
 
 <div style="display:flex; justify-content:space-between; width: 84%; margin-left: auto; margin-right: auto">
 {s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0001E.jpg|24%|}
@@ -87,10 +85,8 @@ La semaine précédent la convention, du **Lundi 11 au Jeudi 14 Mars**, nous vou
 
 - Le **Lundi 11 Mars**, Njini nous proposera la Quest #15 "***The Footsteps of Horror***" (Sur les Traces de l'Horreur) pour niveaux 1 à 4 où les éclaireurs devront explorer les sous-sols autrefois occupés par une liche.  
   
-
 - Le **Mardi 12 Mars**, Nous proposerons le Scénario PFS2 #05-03 "***The Heidmarch Heist***" (Le Casse du Manoir Heidmarch) pour niveaux 5 à 8 dans laquelle une équipe d'éclaireurs venu pour remplir une mission de routine se retrouvera au coeur d'une enquête et devra chercher un traître parmi les siens.  
   
-
 - Le **Mercredi 13 Mars** nous emmènerons des explorateurs d'étoiles, starfinders, sur l'Idari, un vaisseau de colons Kassathas devenu membre à part entière de l'alliance des Mondes du Pacte. Dans le Scénario SFS #06-14 "***The Missing***" (Les Disparus), pour niveaux 1 à 4 qui sera en plus le premier scénario se déroulant sur l'Idari jamais proposé dans l'histoire de la Starfinder Society.
 
 <img src="/Events/convergences-fr-Q01-2024/Idari.webp" class="centre" alt="">
@@ -155,10 +151,8 @@ Architecte de la défaite de la vil guenaude Aslynn (saison 4), le membre du Dé
 Dans la trame des "Échanges Équitables", les éclaireurs assistent "La Cascade"
 - Dans ***"Necessary Introduction"*** (des Présentations Indispensables), pour niveaux 1-4 et proposé le jeudi 14 mars. "La Cascade" dépêche une équipe d'agents à Hwanggot pour rencontrer le dragon du monde souterrain, Valashinaz (Treasure Vault).
 .  
-
 - Dans ***"Skymetal Hoard"*** (Pour un Paquet de Metal-Étoile) pour niveaux 5 à 8 , proposé le samedi 16 mars. Dans le cadre d'un accord secret entre le dragon du monde souterrain Valashinaz et "La Cascade", un groupe d'éclaireurs est envoyé sur une petite île au large de Minata pour pour recueillir une collection de métal-étoile dans un temple abandonné de Valashinaz.
   
-
 - Dans ***"The Hidden Current"*** pour niveaux 7 à 10, proposé le dimanche 17 mars. Un mystérieux laboratoire abandonné est découvert dans l'océan Arcadien, avec des signes évidents d'expérimentations occultes ayant eu lieu à un moment donné. "La Cascade", étrangement fascinée par cette nouvelle découverte, envoie un groupe d'éclaireurs pour enquêter et rassembler toutes les recherches qu'ils peuvent trouver à l'intérieur.
 
 La suite et fin de cette trame, ne sera pas sortie pour la convention et nous la proposerons dés sa sortie !!
@@ -167,18 +161,14 @@ La suite et fin de cette trame, ne sera pas sortie pour la convention et nous la
 ##### Un Spécial Royal
 {s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0499E.jpg|25%|fright}
   
-
 Sollicités par la Reine de Kyonin elle-même, la Société des Éclaireurs doit enquêter sur un noble elfe obsédé par les démons et sur ses plans inquiétants pour une ville isolée dans les forêts de Kyonin. En échange, la société obtiendra l'autorisation d'opérer à nouveau au sein de la nation.
   
-
 
 La Société des Éclaireurs décide d'y envoyer plusieurs groupes car le voyage est périlleux. Une fois les éclaireurs arrivés, la ville est assiégée par une puissance qui dépasse tous les elfes, quels que soient leurs plans et leur ambition. Les équipes d'éclaireurs doivent travailler ensemble efficacement et rapidement pour empêcher la corruption de la forêt et de la ville !
   
 
-
 Le scénario Spécial Interactif de cette convention, "***Call of the Forest***" (l'Appel de la Forêt) propose une expérience unique, multi-table où plusieurs tables œuvreront ensemble, en même temps, vers un même objectif. Nous avons prévu 5 tables qui rassembleront des équipes différentes pour cette expédition (niveaux 1 à 8).
   
-
 <div style="clear: both"></div>
 ##### D'autres Scénarios
 La programmation de **ConVergence FR** ne s'arrête évidemment pas à ces quelques scénarios que nous venons de mettre en avant. Pour consulter le programme complet, connectez-vous sur le Warhorn, inscrivez-vous à la convention et consultez l'agenda !! Que ce soit l'introduction de la saison 5, le scénario ***The Crocodile's Smile*** (le Sourire du Crocodile), une aventure sous-marine avec ***Crashing Waves*** (les Vagues Déferlantes),*** Mistress of the Maze*** (la Maîtresse du Labyrinthe) ou encore ***Star Sugar Superstar*** pour Starfinder (oui !! aider une rock-star futuriste), il ne fait aucun doute que vous allez passer un bon moment de rire et de rencontres avec des tas de personnes passionnées qui vous feront vivre des histoires incroyables.

@@ -18,17 +18,11 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (un bout de carte)  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** lanceur de sorts et les alliés dans un rayon de 9 m (6 {s:c}) centré sur le lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La *perspicacité tactique* permet au personnage et à ses alliés de se rendre maîtres des tactiques de combat. Quand l’un d’eux bénéficie d’un bonus aux jets d’attaque ou à la [[CA]] en raison de sa position sur le terrain (s’il prend un ennemi [[prise en tenaille|en tenaille]], s’il se trouve en surplomb, s’il a un abri …) il gagne un bonus supplémentaire d’intuition de +1. Ce bonus augmente de +1 tous les cinq [[NLS|niveaux de lanceur de sorts]] après le niveau 5 (+4 au maximum).

@@ -5,15 +5,12 @@ LastModified: 2021-01-19 15:08
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
-
 • [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Progression de l'inventeur
 
 • Voir la [[PlaytestGG Inventeur|présentation de la classe d'inventeur]]  
-
 • Voir les [[PlaytestGG Inventeur-dons|dons de classe d'inventeur]]
 
 <center>
@@ -168,11 +165,8 @@ Vous avez une pléthore de gadgets et d’équipements attachés à votre corps,
 Vous ajoutez de la puissance supplémentaire à vos attaques en sur-stimulant une série de petits gadgets et autres colifichets. Faites un test d’Artisanat avec un DD standard pour votre niveau.
 
 **Réussite critique.** Vos gadgets rugissent sous l’influx de puissance. Vos Frappes infligent des dégâts supplémentaires égaux à votre modificateur d’Intelligence pendant 1 minute. Vous ne pouvez plus utiliser Surpuissance pendant 1 minute après la fin de cet effet.  
-
 **Réussite.** Vous parvenez à sur-stimuler vos gadgets. Comme une réussite critique mais les dégâts supplémentaires sont égaux à la moitié de votre modificateur d’Intelligence.  
-
 **Échec.** Vous faites une erreur de calcul et ne parvenez pas à sur-stimuler vos gadgets, mais vous pouvez réessayer.  
-
 **Échec critique.** Oops ! Quelque chose explose. Vous subissez des dégâts de feu égaux à votre niveau. Vous ne pouvez pas utiliser Surpuissance pendant 1 minute.
 
 **Spécial.** Si vous possédez une créature artificielle comme innovation, ses Frappes gagnent également les dégâts supplémentaires et, si vous obtenez un échec critique sur votre test d’Artisanat, elle subit également les dégâts de feu.

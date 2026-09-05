@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Effet** violente rafale de vent en forme de ligne émanant de la main tendue du personnage et atteignant la limite de portée  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort génère une violente rafale de vent (75 km/h environ) émanant de la main tendue du personnage et qui affecte toutes les créatures situées sur son chemin. Les créatures volantes reçoivent toutes un malus de -4 aux tests de compétence de [[Vol]]. Les créatures volantes de [[taille TP]] ou inférieure doivent réussir un test de [[Vol]] [[DD]] 25 ou être repoussées de 2d6x3 mètres et subir 2d6 points de dégâts. Les créatures volantes de [[taille P]] ou moins doivent réussir un test de [[Vol]] [[DD]] 20 pour se déplacer contre le vent.

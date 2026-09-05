@@ -7,17 +7,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage souhaite prendre l’apparence)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort transforme une créature consentante en [[type animal|animal]], [[type humanoïde|humanoïde]], [[sous-type élémentaire|élémentaire]], [[type dragon|dragon]] ou [[type plante|créature végétale]] au choix du personnage. Ce sort n’a aucun effet sur les créatures non-consentantes et la cible du sort ne peut pas influer sur la forme donnée par le sort (hormis en faisant part de ses désirs au personnage).

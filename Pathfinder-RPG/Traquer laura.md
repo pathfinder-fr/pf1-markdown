@@ -12,15 +12,10 @@ Categories:
 
 {s:APG}
 **École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|Bien, Chaos, Loi ou Mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)
 
 Le personnage choisit un type d'[[alignement]] (chaotique, Mauvais, Bon ou loyal) et se retrouve capable de suivre la trace laissée par une puissante aura de cet [[alignement]] (voir *[[détection du mal]]*). Ce sort fonctionne comme le pouvoir spécial d'[[odorat]] quand il s'agit de suivre une piste sauf que le personnage suit les marques que l'aura laisse au sol et non une odeur, il n'a donc pas de bonus au test de [[Perception]]. Au [[niveau]] 10, le personnage peut également suivre la piste d'une créature à l'aura modérée.

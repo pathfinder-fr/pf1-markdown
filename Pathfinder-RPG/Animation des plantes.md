@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** une plante de [[taille G]] par tranche de 3 [[NLS|niveaux de lanceur de sorts]], ou toutes les plantes situées à portée (voir description)  
-
 **Durée** 1 [[round]]/[[niveau]] ou 1 heure/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort anime les plantes en leur donnant un semblant de vie. Elles peuvent alors attaquer les cibles désignées par le lanceur de sorts, comme un [[objet animé]]. Le sort peut animer une plante de [[taille G]] ou inférieure ; une plante de [[taille TG]] valant deux plantes de [[taille G]] ou inférieure, une plante de [[taille Gig]] en valant quatre et une plante de [[taille C]] en valant huit. Il est possible de changer de cible(s) au prix d’une [[action de mouvement]], comme s’il s’agissait de diriger un sort actif.

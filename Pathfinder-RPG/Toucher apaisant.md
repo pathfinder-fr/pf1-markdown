@@ -10,13 +10,9 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[prêtre]] 0, [[druide]] 0, [[inquisiteur]] 0, [[paladin]] 1, [[sorcière]] 0  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*, *[[choisi]]*
 
 Si la cible d’un sort incluant cet effet est [[Mourant|mourante]], elle est automatiquement [[Stable|stabilisée]].  
-
 :**Augmentation :** La cible est guérie des états préjudiciables [[secoué]], [[fiévreux]] ou [[fatigué]] (au choix du lanceur). Augmenter cet effet améliore son niveau de 1.

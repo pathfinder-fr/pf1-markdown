@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[occultiste|Occ]] 1, [[psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** créature ou objet touché  
-
 **Durée** 10 minutes/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (voir texte) ; **Résistance à la magie** voir texte
 
 Le personnage fait apparaître une image idéalisée de la cible, créature ou objet, masquant ses défauts ou ses blessures. Une créature blessée ou malade semble en parfaite santé tandis qu’un objet abîmé ou brisé paraît intact. En revanche, un cadavre sous l’effet de quintessence semble toujours mort et un objet détruit ne semblera pas en parfait état. L’illusion a des composantes visuelles et tactiles. Il faut se consacrer à un examen attentif de la cible ou la manipuler pour avoir droit à un jet de sauvegarde pour percer l’illusion à jour, une observation superficielle n’y donne pas droit. Si un personnage utilise un objet brisé pour effectuer ce pour quoi il a été conçu, il découvre automatiquement la supercherie. Si un personnage utilise [[Estimation]] sur un objet bénéficiant de quintessence, il l’estime comme un objet en parfait état, à moins qu’il ne perce l’illusion à jour.

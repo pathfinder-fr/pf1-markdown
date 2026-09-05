@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[chimère]]) ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, F]] (un parchemin roulé en forme de cône)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** sons intelligibles (paroles le plus souvent)  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
 
 Le personnage peut donner l’impression que sa voix (ou tout autre son) semble surgir d’un endroit au choix. Il peut s’exprimer par *ventriloquie* dans une langue qu’il connaît. Quiconque réussit son [[jet de sauvegarde]] prend conscience que les bruits sont illusoires (ce qui n’empêche pas de les entendre tout de même).

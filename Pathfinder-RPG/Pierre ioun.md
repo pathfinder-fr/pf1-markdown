@@ -328,13 +328,9 @@ Une pierre ioun a une [[CA]] de 24, 10 [[points de vie]] et une [[solidité]] de
 | &emsp;défectueuse || Bonus de compétence de +5 sur les tests de Discrétion, malus de -2 en [[Dextérité]] || 1 600 po
 |}
 <sub>{s:Reference|NOTE1}''(1) Après avoir absorbé 20 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  
-
 {s:Reference|NOTE2}(2) Après avoir absorbé 50 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  
-
 {s:Reference|NOTE3}(3) Après avoir absorbé 10 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  
-
 {s:Reference|NOTE4}(4) Après avoir absorbé 5 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  
-
 {s:Reference|NOTE5}(5) Cette pierre possède une compétence associée comme un [[Bandeau dintelligence|bandeau d'intelligence]]''
 </sub>
 

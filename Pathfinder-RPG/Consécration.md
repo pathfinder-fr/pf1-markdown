@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 2, [[prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une fiole d’eau bénie et 25 po de poussière d’argent)[[composantes|, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon  
-
 **Durée** 2 heures/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort bénit un lieu en le baptisant d’énergie positive. Le [[DD]] de tout test destiné à résister à des [[canalisation|canalisations]] d’énergie positive dans cet endroit jouit ensuite d’un bonus de sainteté de +3. Les [[type mort-vivant|morts-vivants]] entrant dans la zone d’effet sont légèrement contrariés, ce qui s’exprime par un malus de -1 aux [[jet dattaque|jets d’attaque]], de dégâts et [[jet de sauvegarde|de sauvegarde]]. Un lieu consacré rend impossible l’animation ou la convocation de [[type mort-vivant|morts-vivants]]. Si un autel, une chapelle ou tout autre objet permanent dédié au dieu du [[prêtre]] (ou à son panthéon ou à une divinité alliée) est présent sur le lieu consacré, les modificateurs indiqués ci-dessus sont doublés (bonus de sainteté de +6 liés à la [[canalisation]] d’énergie positive, malus de -2 aux jets des [[type mort-vivant|morts-vivants]]).

@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (une petite boule de goudron)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Les prises et les appuis de la cible se font plus sûrs et lui donnent un bonus de compétence de +4 aux tests d’[[Escalade]], d’[[Acrobaties]] pour garder son équilibre et au [[DMD]] contre une tentative de [[bousculade]], d’[[attirer]], de [[repositionnement]] et de [[croc-en-jambe]]. Tant que la cible est sous l’effet de ce sort, elle est également [[immunité (capacité)|immunisée]] contre les manœuvres de [[désarmement]].

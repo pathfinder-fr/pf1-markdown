@@ -12,15 +12,10 @@ Categories:
 
 {s:MCA}**École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Barde|Bard]] 6, [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Sorcière|Sor]] 6
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)  
-
 **Portée** 0 m  
-
 **Effet** nuée en forme de fouet  
-
 **Durée** 1 round/niveau (T) (cf. texte)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[Fouet daraignées|fouet d’araignées]]*, à la seule différence qu’il convoque des fourmis soldats et que toutes les créatures que le personnage touche avec le fouet reçoivent des dégâts de nuée comme si elles étaient attaquées par une nuée de fourmis soldats (3d6 points de dégâts plus poison et distraction).
@@ -29,17 +24,11 @@ Si le personnage transforme le fouet en une nuée de fourmis soldats, celle-ci a
 ((({s:sortssimilaires|Fouet de fourmis}
 ## [[Fouet daraignées|fouet d’araignées]]
 {s:MCA}**École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un carré de tissu rouge)  
-
 **Portée** 0 m  
-
 **Effet** nuée en forme de fouet  
-
 **Durée** 1 round/niveau (T) (cf. texte)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage convoque des centaines d’araignées de taille Min, agglutinées les unes aux autres sous la forme d’un fouet adapté à une créature de sa taille. Il peut manier cet objet comme s’il s’agissait d’un véritable fouet, à la seule différence qu’il effectue une attaque de contact au corps à corps plutôt qu’une attaque normale. Toute créature que le personnage touche avec le fouet reçoit des dégâts de nuée comme si elle était attaquée par une nuée d’araignées (1d6 points de dégâts plus poison et distraction). Le fouet de nuée est capable de blesser les créatures ayant une armure ou une armure naturelle, même si un fouet normal ne le pourrait pas. Il ne peut pas servir pour effectuer des attaques de [[bousculade]], d’étreinte ou de [[croc-en-jambe]] et, contrairement à une nuée, il est sujet aux chances de rater en cas de [[camouflage]] et d’[[abri]]. Le fouet est immunisé contre tous les dégâts d’arme, il ne peut jamais être chancelant ou réduit à un état mourant à cause de dégâts, et il est immunisé contre tous les sorts ou effets ciblant un nombre spécifique de créatures (y compris contre les sorts à cible unique tels que désintégration). Le fouet reçoit 50% de dégâts supplémentaires de la part des sorts ou effets affectant une zone mais, puisqu’il est considéré comme faisant partie de l’équipement du personnage, il ne reçoit de dégâts que si le personnage rate un jet de sauvegarde sur un 1 naturel ou si le fouet est spécifiquement pris pour cible par un adversaire. Le fouet n’a pas la sensibilité des nuées aux vents importants.

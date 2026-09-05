@@ -16,19 +16,12 @@ Categories:
 **(Source: Heroes of the street)**
 
 **École** [[transmutation]] ; **Niveau** [[alchimiste|Alc]] 1, [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[magus]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** Jusqu'à 3 pièces touchées  
-
 **Durée** Jusqu'à 10 minutes   
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif, objet]])  
-
 
 Vous pouvez transformer jusqu'à 3 pièces en projectiles mortels qui gagnent la vélocité d'une balle quand elles sont lancées. Les pièces gardent leur apparence normale mais peuvent être utilisées comme des armes de jet avec une incrémentation de portée de 6 m (4{s:c}) et un multiplicateur de critique x2. Les pièces transmutées sont traitées comme des munitions lorsqu'il s'agit de les lancer.
 
@@ -40,15 +33,10 @@ Indépendamment du fait si ça touche ou non, la pièce est détruite après l'a
 Vous pouvez faire une simple attaque de portée avec une pièce dans le cadre de l'incantation de ce sort.
 
 Différents types de pièces permettent de créer différents effets :  
-
 -Les pièces de bronze infligent 1d4 points de dégâts.  
-
 -Les pièces d'argent infligent 1d6 points de dégâts et sont traitées comme de l'argent en ce qui concerne la [[Réduction de dégâts]].  
-
 -Les pièces d'or infligent 1d8 points de dégâts et sont traitées comme des armes de maître.  
-
 -Les pièces de platine infligent 1d10 de dégâts, sont traitées comme des armes de maître et comme des armes en [[adamantium]] pour ce qui concerne la [[réduction de dégâts]] et la solidité.  
-
 
 Toutes les pièces font  1 point de dégât supplémentaire tous les 2 [[NLS|niveaux de lanceurs de sorts]] (jusqu'à un maximum de 10 points de dégâts supplémentaires au [[niveau]] 20.
 

@@ -18,18 +18,11 @@ Categories:
 
 {s:CMy}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 1, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** V, G  
-
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature [[non-mythique]]/3 niveaux  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 
 Le personnage octroie aux cibles une fraction de sa nature mythique. Elles sont ainsi considérées comme des [[Règles mythiques|créatures mythiques]] en ce qui concerne l’utilisation des [[aptitudes de voie]], des [[sorts mythiques|sorts]] et des effets qui fonctionnent différemment avec les créatures mythiques. Ce sort ne confère pas pour autant des [[grades]] mythiques ou des utilisations de [[pouvoir mythique]] aux cibles, mais il leur procure simplement un avantage plus important lorsque d’autres créatures utilisent des aptitudes qui fonctionnent différemment sur des créatures mythiques. Le personnage doit être au minimum un personnage mythique de [[grade]] 1 pour pouvoir lancer ce sort.

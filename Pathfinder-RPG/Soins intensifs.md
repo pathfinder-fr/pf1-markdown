@@ -19,7 +19,6 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G]]
 **Portée** [[Présentation des sorts#PORTEE|contact]]

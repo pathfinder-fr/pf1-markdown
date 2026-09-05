@@ -20,15 +20,10 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte de sang)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 heure/[[niveau]] ou jusqu’à utilisation (voir description)
 
 Le personnage manipule les pouvoirs de la mort pour échapper à cette dernière dans une certaine mesure. Tant que ce sort fait effet, il gagne un nombre de [[points de vie temporaires]] égal à 2d10 +1 par [[NLS|niveau de lanceur de sorts]] (+20 maximum). Les effets de ce sort ne se cumulent pas avec ceux de *[[simulacre de vie]]*.

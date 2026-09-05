@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (glands ou baies de houx)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** jusqu’à 4 glands ou 8 baies de houx  
-
 **Durée** 10 minutes/[[niveau]] ou jusqu’à utilisation  
-
 **Jet de sauvegarde** aucun ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** non
 
 Selon la version du sort que le personnage choisit, il transforme des glands en projectiles explosifs que lui ou un autre individu peut ensuite lancer ou des baies de houx en bombes qu’il peut faire exploser simplement en prononçant un mot.

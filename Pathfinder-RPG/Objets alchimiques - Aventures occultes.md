@@ -35,15 +35,11 @@ Ces morceaux de parchemin traités de manière spécifique se vendent par lot de
 Cet onguent légèrement toxique insensibilise l’épiderme et apaise les blessures. Même si la teinture est effectivement nocive, la personne qui en bénéficie et qui résiste au poison peut soigner ses blessures mineures.
 
 **REMÈDE MIRACLE**  
-
 **Type** poison (contact) ; **Jet de sauvegarde** Vigueur DD 12  
-
 **Incubation** 1 round ; **Fréquence** 1/minute pendant 5 minutes  
-
 **Effet** en cas de jet de sauvegarde raté, le remède miracle inflige
 1 point de dégâts non létal. Toutefois, en cas de jet de sauvegarde
 réussi, la toxine soigne 1d6 points de dégâts non létaux ;  
-
 **Guérison** 1 JS réussi.</td>
 <td>
 {s:Reference|Résidu ectoplasmique}

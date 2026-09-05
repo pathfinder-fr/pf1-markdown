@@ -38,11 +38,8 @@ Categories:
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Occupation (Ext).** L’essaim de guêpes de l’Enfer peut pénétrer le corps d’une créature morte ou [[sans défense]] en passant par sa bouche et ses autres orifices. Il lui faut 1 minute pour occuper le corps et la victime doit être de taille P, M ou G. L’essaim peut abandonner le corps à tout moment par une [[action complexe]]. Toute attaque portée à l’hôte inflige également la moitié des dégâts à l’essaim, même si la [[RD]], les résistances et les immunités de l’essaim peuvent annuler certains dégâts ou la totalité.  
-
 Lorsqu’un essaim de guêpes de l’Enfer occupe un corps mort, elle le transforme en un [[zombi humain|zombi]] de la taille appropriée, que contrôle l’essaim. Si l’essaim occupe une victime vivante, il peut annuler les effets de son propre poison et contrôler les gestes et les actions de sa victime comme s’il utilisait *[[domination universelle]]*. Les guêpes de l’Enfer consument rapidement la victime vivante, lui infligeant un [[affaiblissement temporaire]] de 2d4 points de [[Constitution]] par heure.  
-
 Une créature envahie par un essaim de guêpes de l’Enfer est facile à repérer puisque sa peau ondule au passage des insectes qui grouillent à l’intérieur. L’essaim peut tenter un test de [[Déguisement]] pour dissimuler sa présence avec un malus de -4 s’il occupe un hôte de taille P.  
-
 Un sort de *[[guérison des maladies]]* ou de *[[guérison suprême]]* lancé sur une victime envahie force l’essaim à abandonner son hôte.}
 {s:BDTexte|**Poison (Ext).** Nuée — blessure ; *JdS* [[Vigueur]] [[DD]] 20 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire]] de 1d6 points de [[Dextérité|Dex]] ; *guérison* 2 réussites consécutives.}
 </div>

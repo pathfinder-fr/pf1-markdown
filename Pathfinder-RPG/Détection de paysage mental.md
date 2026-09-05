@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m  
-
 **Zone** émanation en cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
 Ce sort fonctionne comme détection des pensées et permet au personnage de sentir quand la conscience d’une ou plusieurs créatures se trouve dans un [[paysages mentaux|paysage mental]]. La quantité d’informations révélées dépend de la durée d’étude du sujet.

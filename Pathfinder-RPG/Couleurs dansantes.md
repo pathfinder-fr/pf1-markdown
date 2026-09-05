@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poudre ou sable coloré rouge, jaune et bleu)  
-
 **Portée** 4,50 m (3 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]] (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 

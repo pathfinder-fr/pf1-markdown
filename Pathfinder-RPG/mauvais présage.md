@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|malédiction, mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,M]] (poil de chat noir)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature   
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage afflige sa cible de malchance. Au prochain jet de d20, la cible doit lancer deux dés et prendre le résultat le moins favorable. Pour chaque tranche de cinq [[NLS|niveaux de lanceur de sorts]], le personnage oblige sa cible à relancer un d20 supplémentaire (jusqu'à un maximum de cinq jets au niveau 20).

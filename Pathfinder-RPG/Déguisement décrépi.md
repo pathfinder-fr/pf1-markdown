@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[Occultiste|Occ]] 1, [[psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 objet de 0,3 m3/niveau au maximum  
-
 **Durée** 1 jour/niveau  
-
 **Jet de sauvegarde** aucun (objet) ou Volonté pour percer à jour (en cas d’interaction) ; **Résistance à la magie** non
 
 Le personnage transforme visuellement un objet en une version sans valeur de lui-même : une épée magique ou de maître prend l’apparence d’une vieille lame rouillée, un trône luxueux ressemble soudain à une chaise en bois branlante… Si le sort affecte un objet en possession d’un tiers, ce dernier a droit à un jet de Volonté pour percer l’illusion à jour. Déguisement décrépi contre et dissipe quintessence.

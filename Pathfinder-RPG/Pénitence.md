@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[composantes|V, G, M]] (de l’encens)[[composantes|, F]] (un chapelet de prière ou un objet divin d’une valeur de 500 po minimum), FD  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort apaise la conscience de celui qui a commis des actes maléfiques. Le personnage qui désire se repentir doit sincèrement regretter ses erreurs et vouloir les corriger. S’il a commis ces crimes involontairement ou alors qu’il se trouvait sous influence, la *pénitence* ne demande aucun sacrifice de la part du lanceur de sorts. En revanche, si le sujet était conscient de ses actes, le lanceur de sorts doit intercéder auprès de son dieu pour obtenir son pardon. Il lui en coûte alors 2 500 po en encens rares et en offrandes. Ce sort a plusieurs fonctions distinctes, selon la version choisie :

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poudre de quartz)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** mur constitué d’un carré de 3 m (2 {s:c}) de côté/[[niveau]]  
-
 **Durée** 1 round /[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Comme son nom l’indique, ce sort génère un *mur de force* invisible. Cette barrière immobile est immunisée contre la *[[dissipation de la magie]]* bien qu’une *[[disjonction]]* la détruise instantanément. Les sorts abîment normalement le *mur de force* mais *[[désintégration]]* le détruit automatiquement. Les armes et les pouvoirs surnaturels affectent le mur mais celui-ci possède une [[solidité]] de 30 et un nombre de [[points de vie]] égal à 20 par [[niveau de lanceur de sorts]]. Un *[[sceptre doblitération|sceptre d’oblitération]]* ou une *[[sphère dannihilation|sphère d’annihilation]]* détruisent immédiatement le mur.

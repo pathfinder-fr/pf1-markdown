@@ -6,13 +6,9 @@ LastModified: 2023-04-09 20:24
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-
 • [[FVTT boutons jets|Boutons de jets de dés]]  
-
 • [[FVTT boutons tests|Boutons de tests]]  
-
 • [[FVTT boutons gabarit|Boutons de gabarit]]  
-
 
 <nowiki><style>
 1. content #PageContentDiv code {
@@ -60,7 +56,6 @@ Cette page rassemble des indications sur la syntaxe et l'utilisation de trois ty
 
 <table class="example">
 <td>**Code**  
-
 `@Template[[type:cone|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga3b.webp"/></td>
 </tr>
@@ -208,7 +203,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <tr>
 <td>**Code**  
-
 `@Template[[type:emanation|distance:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga1b.webp"/></td>
 </tr>
@@ -220,7 +214,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <tr>
 <td>**Code**  
-
 `@Template[[type:burst|distance:25]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga2b.webp"/></td>
 </tr>
@@ -232,7 +225,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 </table>
 <table class="example">
 <td>**Code**  
-
 `@Template[[type:cone|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga3b.webp"/></td>
 </tr>
@@ -244,7 +236,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 </table>
 <table class="example">
 <td>**Code**  
-
 `@Template[[type:line|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga4b.webp"/></td>
 </tr>
@@ -259,7 +250,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <tr>
 <td>**Code**  
-
 `un cône de @Template[[type:cone|distance:15]]{3 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga5b.webp"/></td>
 </tr>
@@ -274,7 +264,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <tr>
 <td>**Code**  
-
 `@Template[[type:line|distance:30|width:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga6b.webp"/></td>
 </tr>
@@ -286,7 +275,6 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <tr>
 <td>**Code**  
-
 `carré de @Template[[type:line|distance:20|width:20]]{4 × 4 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga7b.webp"/></td>
 </tr>

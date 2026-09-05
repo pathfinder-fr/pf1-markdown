@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 1, [[Inquisiteur|Inq]] 1, [[Occultiste|Occ]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La cible gagne un bonus de résistance de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les [[maléfices]] des [[sorcière|sorcières]].

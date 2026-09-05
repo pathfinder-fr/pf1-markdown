@@ -13,17 +13,11 @@ Categories:
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]], [[registre|lumière]]<nowiki>]</nowiki> ;
 **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un tas de soufre enveloppé dans un tissu)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** feux d’artifice en forme de dragon  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Événement favori des festivals halfelins de l’été, ce sort crée des feux d’artifice en forme de petits dragons. Une

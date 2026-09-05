@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** arme magique de force  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Une arme constituée d’énergie pure apparaît où son créateur le souhaite et attaque ses adversaires, infligeant 1d8 points de dégâts de force à chaque coup au but, +1 tous les trois [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de +5 au [[niveau]] 15). L’*arme spirituelle* prend la forme de l’arme de prédilection du dieu du [[prêtre]], ou d’une arme ayant un sens profond pour sa foi (voir ci-dessous). Les [[coup critique|coups critiques]] qu’elle peut occasionner sont identiques en termes de zone et de multiplicateur à ceux de l’arme dont elle prend la forme. Elle frappe la cible désignée par le [[prêtre]], attaquant dès le [[round]] de son apparition, puis à chaque [[round]] suivant. Son [[BBA|bonus de base]] est le même que celui du personnage + le modificateur de [[Sagesse]] de ce dernier et elle peut frapper à plusieurs reprises au cours d’un même [[round]] si c’est également le cas de son créateur. Elle est considérée comme un sort, et non comme une arme, ce qui lui permet de toucher les créatures dotées d’une [[RD|réduction des dégâts]]. Comme il s’agit d’un [[registre|effet de force]], elle touche les créatures [[intangible|intangibles]] sans tenir compte des 50 % de chances de rater. Elle frappe toujours dans la même direction que le [[prêtre]] et il est impossible de s’en servir pour prendre un adversaire en [[prise en tenaille|tenaille]]. Elle n’est affectée ni par les [[dons]] du [[prêtre]] ni par ses actions de combat. Si l’arme dépasse la portée du sort ou quitte le champ de vision de son créateur ou si ce dernier ne la dirige pas, elle revient flotter à côté de lui.

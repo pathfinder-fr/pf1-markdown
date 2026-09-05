@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** [[rayon]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Grâce à ce sort, le [[prêtre]] parvient à concentrer le pouvoir de son dieu et à le transformer en un [[rayon]] de lumière brûlante surgissant de la paume de sa main. Il doit réussir une [[attaque de contact à distance]] pour atteindre sa cible, qui subit alors 1d8 points de dégâts tous les deux [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] (pour un maximum de 5d8). Les [[type mort-vivant|morts-vivants]], eux, se voient infliger 1d6 points de dégâts par [[niveau de lanceur de sorts]] (maximum 10d6). C’est encore pire pour les [[type Mort-vivant|morts-vivants]] vulnérables à la lumière du jour, comme les [[vampire|vampires]] (1d8 points de dégâts par [[niveau de lanceur de sorts]], maximum 10d8). À l’inverse, [[type créature artificielle|créatures artificielles]] et objets inanimés sont moins affectés (1d6 points de dégâts tous les deux [[niveau de lanceur de sorts|niveaux de lanceur de sorts]], maximum 5d6).

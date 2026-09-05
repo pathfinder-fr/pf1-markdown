@@ -47,9 +47,7 @@ Categories:
 
 Amalgame de plusieurs créatures dangereuses, ces prédateurs préfèrent, comme son nom l’indique, chasser et dévorer les
 araignées. Pour chasser ces créatures, leur plus grand avantage (hormis leur dard, leur capacité à voler et leurs pinces puissantes) est leur capacité à se glisser entre les toiles les plus collantes pour atteindre leurs proies. Malheureusement pour les autres créatures, lorsqu’un dévoreur d’araignées se voit refuser sa proie favorite, il cherche d’autres créatures vivantes pour servir d’hôte à ses petits, très voraces.  
-
 Lorsqu’il chasse, le dévoreur d’araignées plonge sur sa victime pour y planter son dard pointu. La créature s’en retourne ensuite dans les airs et plane en attendant que le venin fasse son effet. Une fois que l’adversaire succombe à la paralysie, le dévoreur d’araignées se pose à nouveau, que ce soit pour se nourrir ou implanter un œuf.  
-
 Bien qu’il soit plus intelligent qu’une simple bête, au point de pouvoir comprendre une langue (généralement l’aklo),
 le dévoreur d’araignées est relativement lent d’esprit. Il est néanmoins suffisamment intelligent pour résister au dressage : ceux qui veulent s’allier avec un dévoreur d’araignées doivent d’abord s’en faire un ami en utilisant la diplomatie et en lui offrant des araignées à dévorer ou dans lesquelles implanter ses œufs, ou en recourant à l’intimidation et à la coercition. Le dévoreur d’araignées mesure approximativement 4,20 mètres de long pour 1,80 mètre de haut. La créature fait un peu plus de 6 mètres d’envergure et pèse près de 1 tonne.
 </div></td></tr></table>

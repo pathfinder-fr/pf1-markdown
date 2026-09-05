@@ -113,9 +113,7 @@ faible
 |}
 
 ''(*) Arrondissez toujours vers le bas après la  
-
 multiplication. Par exemple, la moyenne de 1d4  
-
 est 2 et celle de 2d4 est 5.''</div></div>
 **Dégâts moyens.** C’est la quantité de dégâts moyenne infligée par une créature de ce FP lorsque toutes ses attaques touchent. Pour déterminer les dégâts moyens d’une créature, ajoutez les valeurs moyennes de chacun de ses dés de dégâts (voir la Table ci-contre) aux modificateurs de dégâts de chaque attaque. Les créatures qui combattent en attaquant au corps à corps ou à distance devraient infliger des dégâts situés dans la fourchette déterminée par les colonnes « faibles » et « élevés ». Les créatures qui possèdent un bonus d’attaque plus élevé que la moyenne infligent généralement des dégâts moins importants alors que celles dotées d’un bonus d’attaque inférieur à la moyenne occasionnent des dégâts plus importants.
 

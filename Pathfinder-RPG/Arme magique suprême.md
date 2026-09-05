@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 4, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M/FD]] (poudre de chaux et de carbone)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme ou 50 projectiles (qui doivent être en contact les uns avec les autres au moment de l’incantation)  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort est similaire à *[[arme magique]]*, sauf qu’il confère à l’arme choisie un bonus d’altération de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts tous les quatre [[NLS|niveaux de lanceur de sorts]] (+5 maximum). Ce bonus ne permet pas d’outrepasser la [[RD|résistance aux dégâts]], hormis pour la magie.

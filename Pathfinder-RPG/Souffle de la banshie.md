@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|effet mental, mort, son, terreur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** rayonnement en cône  
-
 **Durée** instantanée et 1 round/niveau (cf. texte)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage crée un cône d’énergie spectrale qui ressemble à des fantômes elfiques hurlants et qui inflige 1d4 points de dégâts par niveau de lanceur (15d4 au maximum). Un jet de [[Réflexes]] réussi permet de réduire ces dégâts de moitié. Toute créature qui rate son jet de [[Réflexes]] doit réussir un jet de [[Volonté]] pour ne pas être paniquée pendant 1 round/niveau.

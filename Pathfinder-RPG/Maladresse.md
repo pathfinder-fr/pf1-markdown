@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 D'un simple [[Présentation des sorts#PORTEE|contact]], le personnage réduit une créature à l'état de bouffon maladroit. La cible subit un malus à la [[Dextérité]] égal à 1d6+1 par tranche de 2 [[NLS|niveaux de lanceur de sorts]] (1d6+5 au maximum). Le malus ne peut pas faire passer la valeur de [[Dextérité]] en dessous de 1.

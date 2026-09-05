@@ -9,17 +9,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** l’équipement métallique de 1 créature/2 [[niveau|niveaux]], distantes de moins de 9 m (6 {s:c}) les unes des autres, ou 12,5 kg de métal/[[niveau]], contenu dans un cercle de 9 m (6 {s:c}) de rayon  
-
 **Durée** 7 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Le sort *métal brûlant* augmente fortement la température des métaux affectés.

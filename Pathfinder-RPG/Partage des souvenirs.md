@@ -17,17 +17,11 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** lanceur de sorts et une créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage lie momentanément son esprit à celui de sa cible et ils partagent un unique souvenir d’une minute au maximum. Le personnage peut montrer un de ses souvenirs à la cible, lui en faire revivre un ou en voir un.

@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:APG}**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage oblige un ennemi à venir l'affronter. À son tour, la cible doit se déplacer à sa vitesse en direction du personnage en évitant tout autre danger situé sur son chemin (y compris tout déplacement qui provoquerait une [[attaque dopportunité|attaque d'opportunité]]). À son tour, la cible ne peut rien faire d'autre que se déplacer. Si elle termine son déplacement à côté du personnage, ce dernier peut faire une [[attaque dopportunité|attaque d'opportunité]] contre elle.

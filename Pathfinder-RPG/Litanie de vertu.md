@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien, langage]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage récite une litanie pour jeter l’anathème sur une créature [[alignement|Mauvaise]] et la rendre plus sensible aux attaques des créatures [[alignement|Bonnes]]. Si la cible est [[alignement|Mauvaise]], les créatures avec une aura Bonne (grâce à un pouvoir de classe ou à leur sous-type) infligent le double de dégâts à chaque attaque. Si la cible est aussi de [[sous-type Mal|sous-type Mauvais]], les attaques des créatures douées d’une aura Bonne les [[ébloui|éblouissent]] pendant 1d4 [[round|rounds]]. Si le sort vise une créature autre que [[alignement|Mauvaise]] (ou qui n’est pas de [[sous-type Mal|sous-type Mauvais]]), il n’a pas d’effet, il est gaspillé.

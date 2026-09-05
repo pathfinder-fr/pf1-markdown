@@ -13,15 +13,10 @@ Categories:
 {s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[Créer un sort#TERRE|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Prêtre|Prê]] 1</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes**  [[composantes|V, G, FD]]  
-
 **Portée**  [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)  
-
 **Cible** une créature  
-
 **Durée** [[Présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** [[Résistance à la magie (capacité)|Oui]]
 
 Le lanceur de sorts crée une pierre de la taille d’un poing qui vole sur un ennemi. Le lanceur doit faire un [[Valeurs de combat#JETDATTAQUE|jet d’attaque]] [[Actions simples#ATTAQUEMAINSNUES|à mains nues]] contre la cible, comme si celle-ci était dans la zone qu’il menace. Si l’attaque réussit, la pierre inflige des dégâts contondants à la cible comme si le lanceur lui avait porté une [[Actions simples#ATTAQUEMAINSNUES|attaque à mains nues]]. Si le lanceur a une [[Moine#RESERVEDEKI|réserve de ki]], la pierre compte comme une frappe ki. Au niveau 4, le [[Moine qinggong (moine)|moine qinggong]] peut choisir ce sort comme pouvoir ki dont l’activation coûte 1 point de ki (si le moine a 0 point de ki après l’activation de ce pouvoir ki, la pierre ne compte pas comme une frappe ki).

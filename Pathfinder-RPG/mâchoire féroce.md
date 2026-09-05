@@ -17,17 +17,11 @@ Categories:
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
 **École** [[Transmutation]] ;
 **Niveau** [[Antipaladin|Apal]] 1, [[Druide|Dru]] 2, [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T), spécial (voir texte)  
-
 
 Les dents du personnage s’allongent et s’effilent, transformant sa bouche en une gueule hérissée de crocs acérés. Il gagne une attaque de morsure qui inflige 1d4 points de dégâts plus modificateur de [[Force]] du personnage. S’il confirme un [[coup critique]] avec cette attaque, elle inflige aussi 1 point de dégâts de [[saignement]]. Si le personnage possède déjà une attaque de morsure, elle inflige 2 points de dégâts de saignement en cas de coup critique. On considère que le personnage est formé à l’utilisation de cette attaque. S’il utilise la morsure lors d’une attaque à outrance, elle sert d’attaque secondaire avec un bonus d’attaque égal au [[BBA|bonus de base]] du personnage -5 et bénéficie seulement de la moitié de son modificateur de Force aux dégâts.
 

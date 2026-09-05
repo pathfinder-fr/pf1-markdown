@@ -17,17 +17,11 @@ Categories:
 ---
 
 {s:Desambi|Ce sort est apparu dans le [[Livre des damnés 1 (Contenu)|Livre des damnés]] sous le nom "Vision des Enfers".}{s:UM}**École** [[Illusion]] ([[branche hallucination|hallucination]]) <nowiki>[</nowiki>[[registre|mal, peur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, M]] (une pincée de soufre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** 15 m (10 {s:c}) de rayon  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Le personnage superpose un terrifiant paysage infernal illusoire sur une zone. Il ne cache pas les structures, l’équipement et les créatures qui se trouvent dans la zone mais toutes les caractéristiques environnementales prennent une apparence terrifiante. Le personnage est préparé à l’apparition de ces images et elles ne l’affectent pas mais toutes les autres créatures de la zone doivent réussir un [[jet de sauvegarde]] ou être [[secoué|secouées]] et subir un malus de -2 aux [[JdS|jets de sauvegarde]] contre les [[registre|effets de peur]]. La peur et le malus persistent tant que la créature reste dans la zone. Les [[diable|diables]] et les créatures [[alignement|Loyales Mauvaises]] ne souffrent pas des effets néfastes de ce sort.

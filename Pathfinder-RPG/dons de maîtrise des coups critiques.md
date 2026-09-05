@@ -91,7 +91,5 @@ Un don de critique modifie les effets des coups critiques en imposant une condit
 |}
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   
-
 *Les dons marqué de <sup>uc</sup> proviennent de l'Art de la Guerre.*   
-
 *Les dons marqués de <sup>um</sup> proviennent de l'Art de la Magie.*

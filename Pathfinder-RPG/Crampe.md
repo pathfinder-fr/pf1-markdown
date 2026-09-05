@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]]  ; **Niveau** [[barde]] 0, [[prêtre]] 0, [[inquisiteur]] 0, [[ensorceleur]]/[[magicien]] 0, [[sorcière]] 0  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La vitesse de déplacement des cibles du sort incluant cet effet est réduite de moitié (minimum 3 mètres (2 {s:c})).

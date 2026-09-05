@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, M]] (une branche de belladone valant 100 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature inconsciente touchée  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage oblige une créature inconsciente ou endormie à se lever et se déplacer dans un état semi-éveillé. Si on guide la créature, elle avance en titubant mais sinon, elle est [[sans défense]]. Elle se déplace à la moitié de sa vitesse de base et elle est limitée à une seule action par [[round]]. Elle ne peut pas avancer plus vite ni faire une action autre qu'une [[action de mouvement]], sauf si on l'aide par magie, et elle rate automatiquement tout test de compétence basé sur la [[Dextérité]] ou la [[Force]]. Si elle reçoit le moindre dégât pendant la crise de somnambulisme, elle doit faire un nouveau [[jet de sauvegarde]] pour voir si le sort se termine et si elle se réveille (à condition qu'elle ait plus de 0 point de vie). Quand le sort se termine ou que le personnage y met un terme, la cible reste [[inconscient|inconsciente]] et doit encore se réveiller normalement.

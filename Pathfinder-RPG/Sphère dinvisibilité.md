@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
-
 **Zone d'effet** sphère de 3 m (2 {s:c}) de rayon autour de la créature ou de l’objet touché  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Toutes les créatures situées à moins de trois mètres du sujet ou de l’objet choisi comme point central deviennent [[invisible|invisibles]]. L’effet se déplace avec le sujet.

@@ -54,7 +54,6 @@ LastModified: 2023-10-22 19:23
 
 Fléau de tous les navires sillonnant les mers, le crabe naufrageur peut ruiner la carrière d’un capitaine de navire marchand en l’espace de quelques minutes, détruisant son bâtiment, déversant sa cargaison au fond des mers et picorant ses membres d’équipage au milieu des débris.Les crabes naufrageurs passent la plus grande partie de leur vie dans les eaux peu profondes, se rapprochant du rivage ou de la surface pour chasser et se
 nourrir.  
-
 Le crabe naufrageur fait 15 mètres de large et possède deux longues pattes qu’il peut étendre de 9 mètres
 supplémentaires. Il pèse 6 tonnes.
 </div></td></tr></table>

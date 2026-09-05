@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 objet touché allant jusqu’à 60 dm³/[[niveau]]  
-
 **Durée** 1 jour/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort permet de rétrécir un objet non-magique jusqu’à ce qu’il ne fasse plus qu’un seizième de sa taille habituelle (ce qui correspond à peine à 1/4 000e de son volume et de sa masse initiaux). Ce changement réduit donc l’objet de quatre catégories de taille (de [[taille G|G]] à [[taille Min|Min]], par exemple). Le personnage peut également modifier la texture de l’objet réduit afin de le rendre aussi souple qu’une étoffe. Le personnage n’a qu’à jeter l’objet sur une surface dure ou prononcer un [[mot de commande]] pour rendre sa taille initiale à l’objet. Il peut même réduire un feu et son combustible à l’aide de ce sort. Le sort cesse instantanément de faire effet dès que l’objet retrouve sa taille initiale.

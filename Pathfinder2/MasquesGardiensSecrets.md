@@ -5,7 +5,6 @@ LastModified: 2021-01-15 08:28
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Cette aide de jeu s'inscrit dans la série des créations pour les MJ menant des campagnes basées autour de Otari.

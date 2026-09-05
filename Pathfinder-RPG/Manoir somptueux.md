@@ -9,17 +9,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[Présentation des sorts#CREATION|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un minuscule portail en ivoire, un peu de marbre poli et une petite cuillère en argent (valeur de 5 po par objet))  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** manoir extradimensionnel dont le volume fait jusqu’à 3 cubes de 3 m (2 {s:c}) d’arête/[[niveau]] (F)  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort donne naissance à un espace extradimensionnel doté d’une seule et unique entrée dans le plan où a été effectuée l’incantation. Haute de 2,40 m et large de 1,20 m, cette entrée prend la forme d’un rideau lumineux à peine visible. Seules les créatures désignées lors de l’incantation peuvent la franchir et le portail se ferme et devient invisible quand le personnage pénètre dans le manoir. Le mage peut le rouvrir quand il le souhaite de l’intérieur. De l’autre côté de la porte, les invités se retrouvent dans un magnifique vestibule qui donne sur de nombreuses salles. L’air y est pur et il y fait chaud.

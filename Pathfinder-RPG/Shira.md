@@ -48,9 +48,7 @@ d’objets uniquement)}
 
 Traqueuses bestiales, les shiras vivent pour chasser et se nourrir. Ces divs ressemblent à des lionnes anthropomorphes
 qui exploitent leur musculature puissante, leurs sens aiguisés et leurs instincts meurtriers pour traquer les mortels les plus orgueilleux et massacrer les ennemis les plus redoutables. Elles incarnent le caractère cruel de la nature et de l’impartialité avec lesquelles la bête et la terre peuvent se retourner contre les mortels, prenant un malin plaisir à mettre les êtres civilisés face à leur petitesse et à leur impuissance devant le monde sauvage. Les shiras préfèrent chasser seules, elles n’acceptent pas la compagnie des autres, même des leurs, à part pour former des groupes de chasse temporaires. Avides de proies intelligentes, elles savourent le goût des âmes des mortels et ne ravagent pas seulement le corps de leurs victimes mais aussi leur essence vitale. Bien qu’elles soient les plus sauvages de tous les divs, les shiras endossent parfois le rôle d’éclaireuses et d’assassins pour les hordes divs. Ces arrangements sont généralement temporaires et ne durent que jusqu’au moment où les instincts sauvages ou la soif de chasser de la shira reprennent le dessus.  
-
 Les shiras ne s’attaquent jamais à des proies faciles, et visent les cibles qui leur paraissent les plus puissantes.
 Lorsqu’elle cède à cette compulsion, la shira estime ses chances de survie et la gloire à retirer d’un succès, planifiant soigneusement sa tactique, sans forcément charger aveuglément. Bien que sauvage, la shira est aussi une habile chasseresse qui peut attendre des semaines que l’opportunité parfaite se présente afin d’abattre la proie qu’elle s’est choisie.  
-
 La plupart des shiras mesurent 3 mètres et pèsent environ 600 kilos.
 </div></td></tr></table>

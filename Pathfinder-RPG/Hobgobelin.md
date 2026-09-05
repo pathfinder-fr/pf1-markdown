@@ -107,11 +107,8 @@ et pèse 80 kg.
 
 Les hobgobelins ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **+2 Dextérité, +2 Constitution.** Les hobgobelins sont rapides et robustes.  
-
 - **Discrets.** Les hobgobelins possèdent un bonus racial de +4 aux tests de [[Discrétion]].  
-
 - **Vision dans le noir.** Les hobgobelins peuvent [[vision dans le noir|voir dans le noir]] jusqu'à 18 m (12 {s:c}).  
-
 - **Langues.** Les hobgobelins parlent automatiquement le commun et le gobelin. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des [[Linguistique|langues supplémentaires]] parmi les suivantes : draconique, infernal, nain, orque.
 
 {s:VoirAussiAvant}La page de la race [[Hobgobelin (race)|Hobgobelin]]{s:VoirAussiAprès}

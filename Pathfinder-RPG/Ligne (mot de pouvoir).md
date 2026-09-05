@@ -10,7 +10,6 @@ Categories:
 
 {s:UM}
 **Niveau** 1  
-
 **Portée ** 6 mètres (4 {s:c})
 
 Un sort de mots incluant ce [[mots cibles|mot cible]] affecte tout ce qui se trouve sur une ligne de 6 mètres (4 {s:c}) de long.

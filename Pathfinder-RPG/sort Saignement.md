@@ -20,17 +20,11 @@ Categories:
 
 {s:Desambi|Saignement est également le nom d'une [[saignement|capacité spéciale]]. Voir aussi [[Saignement (capacité)|ici]].}
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 À cause du personnage, une créature qui se trouvait sous 0 points de vie mais s’était [[stable|stabilisée]] recommence à agoniser. Le lanceur de sorts vise une créature qui possède -1 point de vie ou moins. Celle-ci perd alors un point de vie par [[round]]. On peut la [[stable|stabiliser]] ensuite normalement mais le sort fait perdre 1 point de vie à toute créature [[mourant|mourante]].

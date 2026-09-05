@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[prêtre]] 5, [[druide]] 5, [[inquisiteur]] 5, [[magus]] 5, [[ensorceleur]]/[[magicien]] 5, [[conjurateur]] 5  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance
 à la magie''' Oui
 

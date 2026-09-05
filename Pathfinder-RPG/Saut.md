@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une patte arrière de sauterelle)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Le sujet bénéficie d’un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Acrobaties]] pour sauter en hauteur ou en longueur. Ce [[bonus daltération|bonus d’altération]] passe à +20 pour un lanceur de sorts de [[niveau]] 5 et à +30 (le maximum) pour un lanceur de sorts de [[niveau]] 9.

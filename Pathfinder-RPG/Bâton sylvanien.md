@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 7  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (un bâton sculpté et poli pendant 28 jours)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** bâton touché  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet de transformer un bâton préparé à l’avance en créature ressemblant à un [[sylvanien]] de [[taille TG]] de plus de sept mètres de haut. Le [[druide]] doit planter le bâton dans le sol et prononcer quelques paroles magiques achevant l’incantation pour le voir prendre la forme d’une entité ressemblant à un [[sylvanien]]. Cette dernière défend le personnage et obéit à tous ses ordres. Il ne s’agit pas d’un vrai [[sylvanien]] malgré son apparence : elle ne peut ni discuter avec les [[Sylvanien|sylvaniens]], ni commander aux arbres. Si le [[Sylvanien|pseudo-sylvanien]] se retrouve à 0 [[points de vie|point de vie]] ou moins, il tombe en poussière et le bâton est détruit. Autrement, le bâton peut par la suite resservir comme [[focaliseur]] pour une nouvelle utilisation du sort. Le [[Sylvanien|pseudo-sylvanien]] a toujours son maximum de [[points de vie]] lorsqu’il prend forme, même s’il a subi des blessures lors de sa dernière apparition.

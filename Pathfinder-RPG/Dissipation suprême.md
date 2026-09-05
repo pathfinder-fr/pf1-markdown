@@ -21,17 +21,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 5, [[Chaman|Cham]] 6, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 6, [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible ou zone d’effet** 1 jeteur de sorts, 1 créature ou 1 objet, ou bien [[rayonnement]] de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Dissipation suprême* permet de mettre un terme à un sort lancé sur une créature ou un objet, d’annuler temporairement les pouvoirs d’un objet magique ou de contrer un sort jeté par un autre lanceur de sorts. Un sort dissipé se termine comme si sa durée normale était écoulée. Certains sorts font exception à cette règle et ne sont pas affectés par une *dissipation suprême* (lorsque c’est le cas, c’est précisé dans leur description). *Dissipation suprême* peut également dissiper les effets des [[Capacités spéciales#TYPES|pouvoirs magiques]] de certaines créatures, mais pas les contrer au moment où ils sont lancés. Les effets des sorts dont la durée est instantanée ne peuvent pas être dissipés, car l’intervention magique se termine immédiatement, bien avant que la dissipation ne puisse agir.

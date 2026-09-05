@@ -18,15 +18,10 @@ Categories:
 
 {s:Desambi|Pour la liste des boucliers, voir le [[tableau récapitulatif des armures]].}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 *Bouclier* produit un disque de force mobile flottant devant son créateur, qui absorbe les [[projectile magique|projectiles magiques]] prenant ce dernier pour cible. Il fournit également un bonus de bouclier de +4 à la [[CA]]. S’agissant d’un effet de force, ce bonus agit face aux [[attaque de contact|attaques de contact]] [[intangible|intangibles]]. Il ne présente ni malus d’armure aux tests ni risque d’échec des sorts profanes.

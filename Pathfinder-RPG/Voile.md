@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cibles** 1 ou plusieurs créatures distantes de moins de 9 m les unes des autres  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui (voir description)
 
 Le lanceur de sorts modifie instantanément l’apparence des créatures de son choix et l’[[illusion]] perdure jusqu’à la fin de la durée du sort. Les cibles peuvent prendre n’importe quelle forme, au choix du personnage. Les cibles ressemblent parfaitement aux créatures dont ils ont pris les traits, à la fois sur le plan visuel, tactile ou olfactif. Les créatures reprennent leur apparence normale si elles meurent. Le lanceur de sorts doit réussir un test de [[Déguisement]] s’il tente de reproduire les traits d’un individu donné, mais le sort lui confère un bonus de +10 au test.

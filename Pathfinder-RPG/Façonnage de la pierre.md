@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (argile meuble)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** pierre ou objet en pierre touché, dans la limite de 0,3 m³ + 30 dm³/[[niveau]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet d’altérer une masse rocheuse existante pour lui donner la forme choisie par le personnage. Il est ainsi possible de créer une arme en pierre ou encore une trappe aux contours grossiers. Si l’objet est doté de pièces plus ou moins mobiles, il y a 30 % de chances pour qu’il ne fonctionne pas.

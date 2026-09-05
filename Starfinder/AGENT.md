@@ -8,12 +8,9 @@ LastModified: 2019-09-01 18:46
 
 
 <div class="fright">***Voir aussi les [[exploits dagent|exploits d'agent]].***  
-
 ***Voir aussi les [[spécialisations dagent|spécialisations d'agent]].***'  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo"

@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 6  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]] ou plus (voir plus bas)  
-
 **Jet de sauvegarde** non, voir texte ; **Résistance à la magie** oui
 
 Cette litanie est un sermon dément. La cible est [[confus|confuse]]. Au début de chaque tour, elle doit faire un jet de [[Volonté]] contre l’effet de [[confus|confusion]] (même [[DD]] que le sort). Si elle rate son [[jet de sauvegarde]], elle reste [[confus|confuse]]. Si elle réussit le jet, l’effet prend fin.

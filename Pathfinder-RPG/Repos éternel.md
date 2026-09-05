@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (des cendres et une fiole d'eau bénie ou maudite)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature morte touchée  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage maudit une créature morte et empêche ainsi son esprit de revenir. Toute personne qui lance un sort visant à communiquer avec le mort, à le ramener à la vie ou à le transformer en [[type mort-vivant|mort-vivant]] doit réussir un test de niveau de lanceur de sorts avec un [[DD]] de 11 + [[NLS|niveau de lanceur de sorts]] du personnage. Il est impossible de dissiper le *repos éternel* mais on peut l'annuler avec une *[[délivrance des malédictions]]* ou une *[[annulation denchantement|annulation d'enchantement]]*.

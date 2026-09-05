@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Divination]] ;** Niveau** [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone** émanation en forme de cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection des aberrations*, le lanceur de sorts peut détecter les créatures de [[type aberration]] dans un cône en face de lui. Le personnage doit penser à la créature de [[type aberration]] qu’il recherche au moment de l’incantation puis peut en changer par la suite (à raison d’une fois par [[round]]). Les informations que le sort révèle dépendent du temps que le personnage passe à étudier la zone et à se concentrer sur une créature de [[type aberration]] spécifique :

@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]], [[registre|sonore]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]] ou [[Composantes|F]] (instrument de musique)  
-
 **Portée** 30 m (20 {s:c})  
-
 **Zone** émanation de 30 m (20 {s:c}) de rayon centrée sur le lanceur de sorts  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage produit une mélodie si attirante et séduisante que toutes les créatures qui appartiennent à un groupe possédant une caractéristique physique spécifique et identifiable (comme un type, un sous-type, un âge, un sexe, une couleur de cheveux...) sont presque incapables de résister à l'envie de le suivre. Le personnage choisit la nature des créatures qu'il veut attirer au moment de l'incantation et, une fois ce choix arrêté, il ne peut plus le modifier. Seuls les caractéristiques physiques permettent de déterminer l'audience. Le personnage ne peut pas se baser sur des critères sociaux ou volontaires (comme l'alignement, la religion, la nationalité ou la classe) pour choisir les cibles de ce sort.

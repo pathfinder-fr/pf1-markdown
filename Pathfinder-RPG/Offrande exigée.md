@@ -16,17 +16,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[antipaladin|AntiPal]] 1, [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[hypnotiseur|Hyp]] 1, [[inquisiteur|Inq]] 2, [[occultiste|Occ]] 2, [[psychiste|Psy]] 2, [[sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 1,50 m  
-
 **Cible** 1 créature  
-
 **Durée** instantanée ou 1 [[round]]  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule]] ; **Résistance à la magie** oui
 
 Une créature qui rate son jet de sauvegarde dépense une [[action immédiate]] pour remettre au personnage l’objet qu’elle tient actuellement en main. Si elle n’a plus d’[[action immédiate]] disponible, elle dépense une [[action de mouvement]] au début de son prochain tour pour remettre l’objet au personnage. Si elle tient plusieurs objets en main, elle en donne un au hasard. Si la créature n’est plus adjacente au personnage quand elle doit lui donner l’objet, le sort se dissipe sans effet. Si la cible ne tient aucun objet quand elle est victime du sort, celui-ci ne l’affecte pas.

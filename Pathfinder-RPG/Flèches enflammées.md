@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte d’huile et un fragment de silex)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 50 projectiles devant être en contact les uns avec les autres au moment de l’incantation  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à ce sort, le personnage peut transformer des munitions (des flèches, des carreaux d’arbalète, des shurikens ou des billes de fronde par exemple) en projectiles enflammés. Chacun des projectiles inflige alors 1d6 points de dégâts de feu supplémentaires aux cibles touchées. Un projectile enflammé peut facilement mettre le feu aux objets et aux structures inflammables, mais pas aux créatures touchées.

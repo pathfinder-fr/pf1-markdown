@@ -33,7 +33,6 @@ La durée devient « [[concentration]] + 1 round par [[niveau de lanceur de sort
 ((({s:sortssimilaires|image silencieuse}
 ## [[Image imparfaite]]
 **École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G, F]] (toison de mouton)
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])

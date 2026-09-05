@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Transmutation]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d’incantation** 1 [[action immédiate]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage puise dans les réserves internes de son corps et reste essoufflé. Quand il est sur le point de faire un jet de d20 basé sur la [[Force]], la [[Dextérité]] ou la [[Constitution]], il peut lancer ce sort pour gagner un bonus de +8 à cette caractéristique pour ce jet mais il est ensuite [[États préjudiciables#Fatigué|fatigué]] pendant 1 [[round]].

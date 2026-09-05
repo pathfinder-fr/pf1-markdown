@@ -16,7 +16,6 @@
 <ul ID="PIEGES" CLASS="listecachée cadrebas" style="font-size:100%">
 <li>[[Pièges#DESCRIPTION|Les différentes parties d'un piège]]</li>
 <li>[[Pièges#DIVERS|Éléments divers des pièges]]</li>  
-
 <li>[[Exemples de pièges]]</li>
 <li>[[Conception de pièges]]</li>
 </ul></li>

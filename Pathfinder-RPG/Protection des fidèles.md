@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Zone** émanation de 3 m (2 {s:c}) de rayon issue de la créature touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
 Toutes les créatures qui se trouvent dans la zone et vénèrent le même dieu que le personnage gagnent un bonus de parade de +2 à la [[CA]] et un bonus de résistance de +2 à tous les [[jet de sauvegarde|jets de sauvegarde]]. Au [[niveau]] 12, ces bonus passent à +3 et à +4 au [[niveau]] 18.

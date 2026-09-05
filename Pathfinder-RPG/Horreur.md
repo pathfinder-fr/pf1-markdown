@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]] <nowiki>[</nowiki>[[registre|terreur]], [[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur]]/[[magicien]] 7, [[sorcière]] 7  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** Oui
 
 La victime de ce mot effet subit 10 points de dégâts par [[NLS|niveau de lanceur]]. Si elle réussit son [[jet de sauvegarde]], elle subit 3d6 points de dégâts + 1/[[NLS|niveau de lanceur]].

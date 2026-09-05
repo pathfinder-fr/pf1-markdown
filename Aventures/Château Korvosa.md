@@ -9,7 +9,6 @@ LastModified: 2023-08-14 00:28
 ### Château Korvosa en 3D
 
 Un petit tour de l'imposant Château Korvosa, lorsque les aventuriers vont à la rencontre de la reine Iléosa :  
-
 <embed
 width="420" height="345"
 src="https://www.youtube.com/v/BrOmie6iKEU"

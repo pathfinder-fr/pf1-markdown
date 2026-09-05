@@ -28,7 +28,6 @@ Les archétypes de <u>[[Chamanes animaux (druide)|chamans animaux]]</u> du druid
 
 Au niveau 2, l’activation de ce pouvoir nécessite une [[action simple]], au niveau 7 une [[action de mouvement]] et au niveau 12 une [[action rapide]]. Chaque jour, le chaman peut utiliser ce pouvoir pendant un nombre de minutes égal à son niveau de [[druide]]. Cette durée n’est pas forcément continue mais doit se découper en segments d’une minute. C’est un effet de métamorphose que le druide ne peut pas utiliser quand il est affecté par un autre effet de même type comme [[druide#FORMEANIMALE|forme animale]].  
 
-
 **Convocation totémique.** Au [[niveau]] 5, un chaman animal peut lancer [[convocation dalliés naturels I|convocation d’alliés naturels]] par une [[action simple]] lorsqu’il convoque des animaux d'une espèce liée à son animal totem qui varie pour chaque chaman animal. Ces [[type animal|animaux]] reçoivent un nombre de [[pv|points de vie]] temporaires égal à son [[niveau]] de [[druide]].
 
 Le chaman peut choisir d'appliquer l’[[Archétypes#CREATUREJEUNE|archétype jeune]] à n’importe quel animal convoqué afin de réduire de un le niveau du sort de convocation requis, augmenter le niveau du sort de convocation requis de un pour appliquer l’archétype [[Archétypes#CREATUREEVOLUEE|évolué]] ou [[Archétypes#CREATUREGEANTE|géant]], ou encore augmenter le niveau du sort de convocation requis de deux pour appliquer ces deux archétypes simultanément. Cette capacité remplace [[druide#MILLEVISAGES|mille visages]].

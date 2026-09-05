@@ -23,55 +23,43 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9025_120.jpeg|http://paizo.com/products/btpy89a4}
 {s:BookPic||}
 {s:BookComment|**Niveau 1**  
-
 La ville de [[Golarion.Couronne-Ouest|Couronne d'Ouest]] se meurt. Depuis qu'elle n'est plus la capitale du Chéliax, ses richesses et son prestige se sont dissipés peu à peu et les habitants désespérés ne savent plus à quel saint se vouer dans une ville assaillie par les criminels, des nobles corrompus et une malédiction liée aux ombres. Les PJ pourront-ils combattre à la fois les champions de la loi et ceux de le pègre ?  
   
-
 **Articles :** [[Golarion.Couronne-Ouest|Couronne-d'Ouest]], les [[Golarion.tiéflins|tiéflins]] de Golarion}
 {s:BookTitle|AP5-2|The Sixfold Trial/Le Procès en six parties}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9026_120.jpeg|http://paizo.com/products/btpy89vw}
 {s:BookPic||}
 {s:BookComment|**Niveau 3**  
-
 Pour bannir les monstres d'ombres qui se tapissent dans les rues de [[Golarion.Couronne-Ouest|Couronne d'Ouest]] pendant la nuit, les PJ doivent agir incognito. Ils rejoignent la communauté théâtrale de la ville afin de mettre en pratique un plan complexe visant à s'infiltrer dans la demeure du décadent seigneur-maire. Mais la vie de théâtreux peut être mortelle lorsqu'on joue dans un spectacle auquel aucun acteur n'a encore survécu. Les PJ pourront-ils survivre à leurs premiers pas sur scènes dans une ville où l'œuvre maîtresse d'un acteur est bien souvent également sa dernières œuvre ?  
   
-
 **Articles :** Les Six Épreuves de Larazod, [[Golarion.Iomédae|Iomédae]]}
 {s:BookTitle|AP5-3|What Lies in Dust/Ce qui se cache sous la poussière}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9027_120.jpeg|http://paizo.com/products/btpy8b8h}
 {s:BookPic||}
 {s:BookComment|**Niveau 5**  
-
 À [[Golarion.Couronne-Ouest|Couronne d'Ouest]], avec les ténèbres viennent la peur et la mort. Les nuits sont hantés par les créatures d'une malédiction terrible. Les PJ s'efforcent de libérer la ville de ce fléau qui s'est abattu sur elle il y a de cela plusieurs décennies. À cette fin, ils devront mettre à jour un secret enterré depuis longtemps et un trésor enfermé depuis une éternité. Leurs voyages les mèneront à affronter la lie de la pègre de Couronne-d'Ouest, les habitants de la nuit et les forces de l'Enfer elles-mêmes. Tout ceci pour raviver les souvenirs d'esprits morts depuis longtemps mais qui ont encore des histoires à raconter. Ces âmes pourraient bien révéler quelque chose d'encore plus dangereux que la malédiction nocturne de la ville.  
   
-
 **Articles :** Les trésors des [[Golarion.Éclaireurs|Éclaireurs]], les [[Golarion.Chevaliers infernaux|Chevaliers infernaux]]}
 {s:BookTitle|AP5-4|The Infernal Syndrome/Le syndrome infernal}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9028_120.jpeg|http://paizo.com/products/btpy87dc}
 {s:BookPic||}
 {s:BookComment|**Niveau 7**  
-
 Dans les entrailles de l'un des hauts lieux de [[Golarion.Couronne-Ouest|Couronne d'Ouest]] se tapis un mal indicible, une terreur qui dépasse tout raisonnement, incompréhensible pour les esprits sains, brisée et retenue prisonnière par la magie d'un archimage disparu. Pendant des années, cette menace a couvé, testant sans cesse les barreaux de sa prison, accumulant sa haine et préparant sa vengeance. Aujourd'hui, les événements liés à une conspiration mortelle ont affaibli les chaînes qui retenaient ce cauchemar prisonnier et, alors que ces chaînes se brisent, on voit poindre à l'horizon les flammes des damnés et la promesse d'un bûcher infernal qui consumera tout Couronne d'Ouest.  
   
-
 **Articles :** La possession diabolique, la voie des [[Golarion.Chevaliers infernaux|Chevaliers infernaux]]}
 {s:BookTitle|AP5-5|Mother of Flies/La Mère des Mouches}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9029_120.jpeg|http://paizo.com/products/btpy87dd}
 {s:BookPic||}
 {s:BookComment|**Niveau 9**  
-
 La ville de [[Golarion.Couronne-Ouest|Couronne d'Ouest]] n'a plus de guide et c'est la désorganisation qui s'est installée après une terrifiante incursion venue de l'Enfer. Mais, alors que des fiélons se promènent dans les rues, une rébellion plus insidieuse encore se passe en sous-sol. Une nouvelle puissance se lève et tente de s'emparer de tout Couronne d'Ouest ! Seuls les intuitions d'une sorcière cinglée peuvent aider les PJ à faire échouer ce plan osé. Mais peuvent-ils espérer pouvoir résister face aux véritables maîtres d'une ville sur le point d'être réduite en ruines ?   
   
-
 **Articles :** Un description des guildes de voleurs, [[Golarion.Asmodéus|Asmodéus]]}
 {s:BookTitle|AP5-6|The Twice-Damned Prince/Le Prince doublement damné}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9030_120.jpeg|http://paizo.com/products/btpy88w6}
 {s:BookPic||}
 {s:BookComment|**Niveau 11**  
-
 Une fois leurs mensonges révélés et leurs plans anéantis, deux enfants mortels touchés par l'enfer jouent leur dernière carte pour prendre le contrôle de [[Golarion.Couronne-Ouest|Couronne d'Ouest]]. La ville est plongée dans le chaos et ses dirigeants ont fui. Il ne reste pratiquement plus personne pour défendre les habitants démunis lorsque les complots des fiélons s'attaquent à eux. En même temps, les dirigeants du [[Golarion.Chéliax|Chéliax]] lancent leurs propres manigances pour rétablir le contrôle. Les PJ peuvent-ils ramener l'ordre et briser une fois pour toute la mainmise que le Conseil des Voleurs possède depuis des siècles sur Couronne d'Ouest ? Ou est-ce que l'ancienne capitale succombera à de nouveaux pouvoirs diaboliques ? C'est aux PJ de décider, dans le point final de la campagne du Conseil des Voleurs.  
   
-
 **Articles :** Nouvelles règles pour gérer les catastrophes, [[Golarion.Seigneurs-démons|Mammon l'archidémon]].}
 {s:BookTitle|AP5|Le Conseil des Voleurs : la Campagne complète}
 {s:BookPic||}

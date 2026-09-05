@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (poussière de charbon)  
-
 **Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** créatures et objets dans une étendue de 3 mètres (2 {s:c})  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[fatigué|fatigue]] seulement) ; **Résistance à la magie** non
 
 Une pluie de particules noires iridescentes s'accroche aux torches, aux lanternes, aux bâtons éclairants et aux sources de lumière ordinaire similaires et les éteint. Elle dissipe également tout sort de [[niveau de sort|niveau]] 2 ou moins qui possède le [[registre]] de la lumière (comme une *[[dissipation de la magie]]*). Les créatures qui se trouvent dans la zone doivent faire un test de [[Vigueur]] ou être [[fatigué|fatiguées]].

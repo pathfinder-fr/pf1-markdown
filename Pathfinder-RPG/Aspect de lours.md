@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Le personnage prend l'aspect d'un ours. Il gagne un bonus d'altération de +2 à l'armure naturelle et aux tests de [[BMO]]. Il peut également faire des manœuvres de [[bousculade]], de [[lutte]] et de [[renversement]] sans provoquer d'[[attaque dopportunité|attaque d'opportunité]].

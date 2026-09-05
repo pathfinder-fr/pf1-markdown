@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[personnelle]]  
-
 **Effet** 3 sonneries de cor  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage reproduit le son d’un énorme cor de chasse qui souffle trois notes aussi puissantes que le rugissement d’un dragon. On les entend à trois kilomètres à la ronde dans des conditions extérieures normales. Le personnage peut émettre ces sons à n’importe quelle phase du sort comme une [[action libre]]. Chaque note peut être courte ou longue et permet d’envoyer un message codé très simple.

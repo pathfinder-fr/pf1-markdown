@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (quelques écailles de hareng réduites en poudre et une goutte d’essence de feu follet)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** page touchée (0,3 m² maximum)  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Cette [[transmutation]] modifie le contenu d’une page pour que celle-ci ne soit plus identifiable. On peut changer le texte d’un sort et le remplacer par celui d’un autre sort d’un niveau égal ou inférieur, connu du personnage. Le personnage ne peut pas utiliser ce sort pour changer le sort inscrit sur un [[parchemins magiques|parchemin]] mais il peut s’en servir pour cacher le [[parchemins magiques|parchemin]]. On peut lancer *[[runes explosives]]* ou *[[sceau du serpent]]* sur la page secrète.

@@ -5,15 +5,10 @@ LastModified: 2018-12-02 20:44
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[magicien|Mag]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (un bout de ficelle et de l’encre à base de seiche et de sang de dragon noir)[[composantes|, F]] (une plaque d’ivoire (50 po))  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[instantanée]]
 
 Cette incantation permet de préparer des sorts supplémentaires ou de les conserver en mémoire. Les deux effets possibles de ce sort sont :

@@ -5,9 +5,7 @@ LastModified: 2024-02-23 20:04
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[FAN|Retour à la page des créations de fans pour Pathfinder 2]]   
-
 
 (éventuellement une illustration ou un jeton ; voir la page "Guide de création" pour le code permettant d'insérer une image)Description courte et conseils d'utilisation
 

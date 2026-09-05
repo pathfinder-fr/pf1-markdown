@@ -11,17 +11,11 @@ Categories:
 {s:plume}<div class="description">**Source :** Sargava, the Lost Colony (SLC).</div>
 
 **École** [[Nécromancie]] ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[rôdeur|Rod]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une sauterelle)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** voir texte  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Une petite sphère d'énergie négative jaillit des mains du personnage, tuant toutes les plantes sur une ligne de 18 mètres (12 {s:c}) ou dans une émanation de 3 mètres (2 {s:c}). Il supprime ainsi tout camouflage ou abri que ces plantes pourraient offrir.

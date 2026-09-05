@@ -82,7 +82,6 @@ Le [[guerrier totem (barbare)]] de l'APG est à reprendre pour lister l'ensemble
 Une page de redirection pour [[défi]] a été créée. Le mot défi peut être utilisé comme lien.
 
 snippet Menuarchétypechevalier modifié le 23/03  
-
 Menu déroulant des archétypes sur la page chevalier intégré
 
 #### Druide
@@ -143,7 +142,6 @@ snippet menuarchétypemagicien modifié le 30/03 et archétypes modifiés sur la
 - [[Skirnir (magus)]] :  ==> relu
 
 snippet Menuarchétypemagusmodifié le 31/03 et liste des archétypes intégrée sur la page du magus  
-
 Les pages de redirection des arcanes ont été créées sous la forme <nowiki>[[nom de l'arcane (arcane)|nom de l'arcane]]</nowiki>
 
 #### Moine
@@ -156,7 +154,6 @@ Les pages de redirection des arcanes ont été créées sous la forme <nowiki>[[
 - [[Tetori (moine)]] : ==> relu
 
 snippet Menuarchétypemoine modifié le 01/04 et liste des archétypes intégrée sur la page du moine  
-
 
 #### Paladin
 - [[Bouclier béni (paladin)]] : ==> relu

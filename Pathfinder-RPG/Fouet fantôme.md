@@ -16,17 +16,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Évocation]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 0 m  
-
 **Cible** fouet d’ectoplasme flexible  
-
 **Durée** 1 [[round]]/niveau (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Un fouet blanc de 4,50 mètres de long, d’une pâleur fantomatique, apparaît dans la main du personnage. Il fonctionne comme un [[Tableau récapitulatif des armes#ARMESEXOTIQUESUNEMAIN|fouet]] [[spectrale (propriété)|spectral]] sans bonus d’altération. Le personnage l’utilise comme s’il était formé à son maniement. Les attaques avec le fouet fantôme se résolvent comme des attaques intangibles. Le fouet affecte uniquement les créatures attaquées, traversant les objets et les autres créatures se trouvant sur son chemin, ce qui permet au personnage d’ignorer le camouflage situé entre lui et sa cible. Quand un fouet fantôme traverse un abri total, la cible est considérée comme bénéficiant d’un camouflage total (50 % de chances de rater). Le fouet inflige des dégâts létaux aux créatures intangibles et aux morts-vivants et peut servir à effectuer des manœuvres offensives d’[[Manœuvres offensives#ENTRAINEMENT|entraînement]] ou de [[Manœuvres offensives#REPOSITIONNEMENT|repositionnement]] (en plus des manœuvres de [[Manœuvres offensives#DESARMEMENT|désarmement]] et de [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]] habituelles pour un fouet). Il est impossible de détruire un fouet fantôme ou de désarmer son utilisateur.

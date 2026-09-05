@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (une pincée d'alun)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature ou un objet touché/[[niveau]]  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 D'un geste, ce sort permet au personnage de réduire à néant toutes les odeurs, même les plus ignobles ou les plus reconnaissables. Quand le personnage le lance, les créatures ou les objets choisis perdent toute odeur, naturelle ou autre. Il est impossible de traquer ou de localiser une créature sous l'effet de *négation de l'arôme* à l'aide du pouvoir [[odorat]]. De plus, ce sort empêche la cible d'utiliser le pouvoir [[puanteur]] ou d'autres aptitudes similaires basées sur les odeurs (comme celles que possèdent les [[troglodyte|troglodytes]]).

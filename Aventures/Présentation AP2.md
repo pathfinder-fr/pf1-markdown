@@ -21,7 +21,6 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9007_120.jpeg|http://paizo.com/products/btpy81xw}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/72_Pathfinder_7_Au_bord_de_lanarchie.jpg|https://www.black-book-editions.fr/produit.php?id=42}
 {s:BookComment|**Niveau 1**  
-
 Les têtes vont tomber !  
   
 La Malédiction du trône écarlate s’abat sur Korvosa ! Pendant qu’un roi agonise, un nouveau dirigeant rassemble ses forces dans l’ombre et créée une onde de choc au sein d’une population déjà bien instable, poussant la plus grande ville de Varisie vers la catastrophe. À l’appel d’un mystérieux personnage, un nouveau groupe de héros se dresse contre le désordre. Une étrange magie et de mystérieuses prophéties les envoient sur les traces d’un ennemi commun… et leur permettra peut-être de sauver la ville de la destruction. Au cœur des intrigues mêlant généraux et rois, héros et voleurs, c’est à ces aventuriers qu’il reviendra de décider si le règne du nouveau monarque annoncera une ère de gloire ou l’avènement du chaos.  
@@ -33,40 +32,30 @@ Ce volume de Pathfinder™ inaugure la nouvelle campagne Paizo, La Malédiction 
 * Les premiers pas d’Éando Kline sur les Terres Cendres, dans le Journal des Éclaireurs de Michael Kortes.  
 * Six nouveaux monstres par Nicolas Logue et Mike MacArtor.  
   
-
 **Articles :** Les cartes Harrow/jeu du Tourment, les [[Golarion.Varisiens|Varisiens]]}
 {s:BookTitle|AP2-2|Seven Days to the Grave/Sept jours pour mourir}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9008_120.jpeg|http://paizo.com/products/btpy82qy}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/91_Pathfinder_8_Sept_jours_pour_mourir.jpg|https://www.black-book-editions.fr/produit.php?id=43}
 {s:BookComment|**Niveau 4**  
-
 Sortez vos morts !  
   
 La mort rôde dans les rues ! La Malédiction du trône écarlate continue alors que la main rouge purulente de la mort s’étend au-dessus de Korvosa. Ce qui avait commencé comme une petite infection se transforme en une véritable épidémie et bien vite, plus personne n’est à l’abri. La ville est bientôt dépassée par l’ampleur de la catastrophe et une reine désespérée prend des mesures très strictes pour enrayer l’épidémie.  
   
 Alors que les cadavres s’amoncellent dans les rues, c’est aux PJ qu’il revient de chercher des alliés parmi les gardiens désemparés de la ville, de calmer le vent de panique qui souffle et de sauvez autant de vies qu’ils le peuvent. Mais sous le fardeau de milliers de vies à sauver, pourront-ils découvrir qui est à l’origine de cette peste surnaturelle avant que Korvosa ne devienne une gigantesque fosse commune ?  
   
-
 Ce volume de Pathfinder™ contient :  
-
 * Sept jours pour mourir, une aventure de F. Wesley Schneider, pour des personnages de niveau 4.  
-
 * Un essai sur les maladies, les épidémies et la pestilence ainsi que leurs effets dans les mondes fantastiques, par Rick Miller et Edward P. Healy.  
-
 * Les commandements d’Abadar, le dieu des villes, de la richesse et de la loi, mis à nu par Sean K. Reynolds.  
-
 * Éando Kline s’aventure dans Urglin, la ville en ruines infestée de monstres, dans le Journal des Éclaireurs de James Jacobs.  
-
 * Six nouveaux monstres par F. Wesley Schneider.  
   
-
 **Articles :** Les épidémies, [[Golarion.Abadar|Abadar]]}
 {s:BookTitle|AP2-3|Escape from Old Korvosa/Il faut fuir !}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9009_120.jpeg|http://paizo.com/products/btpy82t5}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/98_Pathfinder_9_Il_faut_fuir_.jpg|https://www.black-book-editions.fr/produit.php?id=51}
 {s:BookComment|  
 **Niveau 7**  
-
 Ils marchent parmi nous !
 
 La peur rôde dans les rues de la Vieille Korvosa alors que La Malédiction du Trône écarlate se poursuit !
@@ -76,7 +65,6 @@ L’anarchie, la peste et les mandats d’une reine sans pitié ont semé le cha
 Pourtant, dans cette tourmente où s’affrontent les gangs et de sinistres individus avides de pouvoir se cache le seul homme qui pourrait ramener la ville à la raison. Pourquoi est-il resté silencieux aussi longtemps ? Quel secret cache-t-il à propos de la nouvelle reine ? Et quel pouvoir démoniaque grandit dans les ombres, prêt à planter ses griffes dans le cœur de la Vieille Korvosa ?
 
 Ce volume de Pathfinder™ contient :  
-
 * Il faut fuir ! une aventure de Richard Pett, pour des personnages de niveau 8.
   
  * Un aperçu du monde des assassins les plus redoutés de Golarion, les Mantes rouges, et de leur voie pavée de sang, par James Jacobs et Nicolas Logue.
@@ -87,13 +75,11 @@ Ce volume de Pathfinder™ contient :
   
   * Cinq nouveaux monstres, par Brian Cortijo, Joshua J. Frost, James Jacobs, et Richard Pett.   
   
-
 **Articles :** Les rakshasas, les [[Golarion.Mantes rouges|Mantes rouges]]}
 {s:BookTitle|AP2-4|A History of Ashes/Histoire de Cendres}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9010_120.jpeg|http://paizo.com/products/btpy82u9}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/105_Pathfinder_10_Histoire_de_Cendres.jpg|https://www.black-book-editions.fr/produit.php?id=52}
 {s:BookComment|**Niveau 10**  
-
 Affrontez les flammes !
 
 Le chemin vers le salut de Korvosa mène loin de cette ville dévastée. Dans les plaines brûlantes des Terres Cendres, les tribus de barbares shoantis protègent farouchement un secret ancien qui pourrait bien être le seul moyen de sauver le Joyau de la Varisie. Mais cela fait bien trop longtemps que Korvosa est leur ennemie pour que ces fiers indigènes daignent lui confier leurs secrets. Ce n'est qu'en apprenant les coutumes de ce peuple et en surmontant leurs épreuves sacrées que les PJ pourront espérer sauver Korvosa. Mais y parviendront ils ? D’autant que les PJ ont à leurs trousses des indigènes en colère, des prêtres maléfiques et des assassins...
@@ -110,13 +96,11 @@ Ce volume de Pathfinder™ contient :
   
  * Cinq nouveaux monstres de Michael Kortes et J.D. Wiker.   
   
-
 **Articles :** Les [[Golarion.Terres Cendrées|Terres Cendres]], les [[Golarion.Shoantis|Shoantis]]}
 {s:BookTitle|AP2-5|Skeletons of Scarwall/Les Squelettes de Balafre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9011_120.jpeg|http://paizo.com/products/btpy83yw}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/108_Pathfinder_11_Les_Squelettes_de_Balafre.jpg|https://www.black-book-editions.fr/produit.php?id=73}
 {s:BookComment|**Niveau 12**  
-
 Les morts ne dorment jamais !
 
 Une armée de morts-vivants condamnés par une longue histoire d'atrocités, se dresse entre Korvosa et son unique espoir de salut.
@@ -135,13 +119,11 @@ Ce volume de Pathfinder™ contient :
   
 * Cinq nouveaux monstres de Greg Vaughan et Sean K Reynolds.   
   
-
 **Articles :** Le [[Golarion.Belkzen|Belkzen]], [[Golarion.Zon-Kuthon|Zon-Kuthon]]}
 {s:BookTitle|AP2-6|Crown of Fangs/La Couronne de Crocs}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9012_120.jpeg|http://paizo.com/products/btpy84el}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/123_Pathfinder_12_La_Couronne_de_Croc.jpg|https://www.black-book-editions.fr/produit.php?id=74}
 {s:BookComment|**Niveau 14**  
-
 Mort à tous les tyrans !
 
 Korvosa agonise sous le joug d'un monarque dément ! Abattus par les émeutes, la maladie et les soldats à la poigne de fer d'un cruel despote, les habitants se terrent chez eux en tremblant et attendent un sauveur. Le temps est donc venu de se dresser contre Iléosa Arabasti, la reine démente, et de mettre un terme à son règne cruel. Mais une véritable armée de soldats, de gardes du corps et de monstruosités diaboliques veille au sein de la ville. Pour ne rien dire d'une reine à priori invincible.
@@ -160,7 +142,6 @@ Ce volume de Pathfinder™ contient :
   
  * Quatre nouveaux monstres de Tito Leati et F. Wesley Schneider.   
   
-
 **Articles :** Les reliques de Kazavon, les cartes Harrow en tant que jeu de cartes merveilleux}
 {s:BookTitle|AP2-7|Pathfinder Dice Set: Curse of the Crimson Throne/Set de dés : la malédiction du trône écarlate}
 {s:BookPic|http://paizo.com/image/product/catalog/QWS/QWSSPAT23_500.jpeg|http://paizo.com/products/btpy84jm}

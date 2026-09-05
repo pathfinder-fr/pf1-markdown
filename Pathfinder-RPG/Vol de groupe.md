@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une plume)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 mètres (6 {s:c}) les unes des autres  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Les cibles du sort acquierent la capacité de voler à la vitesse de 18 m (12 {s:c}) par [[round]] (12 m (9 {s:c}) s’il porte une armure lourde ou intermédiaire, ou encore une charge lourde ou intermédiaire). Si la cible monte, sa vitesse diminue de moitié, mais elle double dès qu’elle descend. Sa manœuvrabilité est bonne. Voler ne lui demande pas plus d’effort mental que marcher, ce qui signifie qu’elle peut attaquer ou lancer des sorts normalement depuis les airs. Elle peut [[charge|charger]] mais pas [[Actions complexes#COURIR|courir]], et il lui est impossible de soulever plus que sa charge maximale autorisée plus son armure. Le sujet gagne un bonus égal à la moitié du [[NLS|niveau de lanceur de sorts]] du personnage aux tests de compétence de [[Vol]].

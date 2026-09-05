@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Cet [[alchimiste#EXTRAIT|extrait]] permet au personnage de lancer ses projectiles plus loin, avec plus de précision. Tant qu'il fait effet, l'[[alchimiste#EXTRAIT|extrait]] augmente la portée de toute arme de jet de 3 mètres (2 {s:c}). De plus, le personnage reçoit un bonus d'intuition de +1 aux [[jet dattaque|jets d'attaque]] avec les armes de jet.

@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Druide|Dru]] 8, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un coquelicot)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun et [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir plus bas) ; **Résistance à la magie** oui
 
 Une créature sous l'effet de cet enchantement entre dans un état d'euphorie. Elle considère toutes les créatures comme des amis chers à son cœur et déteste la violence, mais elle peut se défendre si on la malmène. La vitesse de déplacement de la créature est réduite de moitié jusqu'à la fin du sort et elle ne peut pas attaquer ni lancer de sorts. Si elle est attaquée, elle a droit à un jet de [[Volonté]]. En cas de réussite, elle peut agir normalement pendant 1 [[round]]. En cas d'échec, elle s'éloigne de son attaquant à la moitié de sa vitesse de déplacement dès sa prochaine action.

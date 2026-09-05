@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un éclat de miroir et un cornet acoustique miniature en laiton)  
-
 **Portée** 12 m (8 {s:c})  
-
 **Zone d'effet** [[émanation]] de 12 m (8 {s:c}) de rayon centrée sur le jeteur de sorts  
-
 **Durée** 24 heures  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le lanceur de sorts repère immédiatement toutes les tentatives visant à l’observer grâce à des sorts ou des effets de [[école divination|Divination]] ([[branche scrutation|scrutation]]). La [[zone deffet|zone d’effet]] de la *détection de la scrutation* émane du personnage et se déplace avec lui. Le personnage repère l’emplacement de tous les capteurs magiques se trouvant à l’intérieur de la [[zone deffet|zone d’effet]].

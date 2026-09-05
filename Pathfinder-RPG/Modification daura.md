@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Illusion]] ; **Niveau** [[hypnotiseur|Hyp]] 3, [[médium|Méd]] 3, [[Occultiste|Occ]] 3, [[psychiste|Psy]] 4, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** un objet ou une créature consentante  
-
 **Durée** 1 jour/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui
 
 Le personnage masque et manipule l’aura de la cible pour tromper les gens désireux d’obtenir des informations utiles via l’extension de compétence occulte de [[Extensions de compétences occultes#LECTUREDAURAS|lecture d'auras]] ou l’analyse d’aura. Une même incantation de modification daura|modification d’aura permet de modifier chacune des quatre auras suivantes.

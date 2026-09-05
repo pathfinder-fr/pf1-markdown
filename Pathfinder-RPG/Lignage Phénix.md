@@ -62,7 +62,6 @@ Categories:
 </div>
 <div class="description"><i>Source : Pathfinder Player Companion: Heroes of Golarion.</i></div>
   
-
 <i>L’un de vos ancêtres a été témoin de la résurrection d’un <a class="pagelink" href="Pathfinder-RPG.Phoenix.ashx" title="Phoenix">Phoenix</a> et a noué un lien avec cette créature magique. Les flammes de la renaissance coulent encore dans vos veines, vibrant d’une puissance ardente.</i>
   
   
@@ -80,7 +79,6 @@ Categories:
 <i><a class="pagelink" href="Pathfinder-RPG.Mur%20prismatique.ashx" title="Mur prismatique">Mur prismatique</a></i> (niveau 17),
 <i><a class="pagelink" href="Pathfinder-RPG.Corps%20enflamm%c3%a9.ashx" title="Corps enflammé">Corps enflammé</a></i> (niveau 19)  
   
-
 <b>Dons supplémentaires.</b> <a class="pagelink" href="Pathfinder-RPG.Esquive.ashx" title="Esquive">Esquive</a>,
 <a class="pagelink" href="Pathfinder-RPG.%c3%89l%c3%a9ment%20renforc%c3%a9.ashx" title="Élément renforcé(feu)">Élément renforcé(feu)</a>,
 <a class="pagelink" href="Pathfinder-RPG.Gu%c3%a9rison%20rapide.ashx" title="Guérison rapide">Guérison rapide</a>,
@@ -96,20 +94,14 @@ Categories:
 <h2 class="separator"> Pouvoirs de lignage <a class="headeranchor" id="Pouvoirs_de_lignage_0" href="#Pouvoirs_de_lignage_0" title="Lien vers cette section">¶</a></h2>
 <i>Le phénix est une créature élémentaire du ciel et du feu primordial, et le sang qui coule en vous résonne de cette même puissance.</i>  
   
-
 <b>Le Monde Invisible (Sur).</b> Au niveau 1, vous gagnez <a class="pagelink" href="Pathfinder-RPG.D%c3%a9tection%20de%20la%20magie.ashx" title="Détéction de la magie">Détéction de la magie</a> et <a class="pagelink" href="Pathfinder-RPG.Lecture%20de%20la%20magie.ashx" title="Lecture de la magie">Lecture de la magie</a> comme sorts connus. Au niveau 5, le sang du phénix vous pousse à retrouver et préserver les savoirs perdus ainsi que les objets magiques. Par une <a class="pagelink" href="Pathfinder-RPG.Actions%20rapides.ashx" title="Action rapide">Action rapide</a>, vous pouvez identifier automatiquement les propriétés d’un objet magique non maudit que vous tenez en main ; un objet maudit doit toujours être identifié normalement pour être reconnu comme tel. Vous pouvez utiliser cette capacité un nombre de fois par jour égal à votre modificateur de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>.  
   
-
 <b>Immolation (Sur).</b> Au niveau 3, vous gagnez la capacité de vous entourer de flammes par une action rapide. Ce feu brûle pendant un nombre total de rounds par jour égal à votre niveau de personnage + votre bonus de <a class="pagelink" href="Pathfinder-RPG.Charisme.ashx" title="Le Charisme">Charisme</a>. Ces rounds n’ont pas besoin d’être consécutifs. Toutes vos attaques à mains nues effectuées pendant que l’immolation est active infligent 1d6 points de dégâts de feu supplémentaires, et toute créature qui termine son tour adjacente à vous alors que vous êtes affecté par l’immolation subit également 1d6 points de dégâts de feu.  
   
-
 <b>Ailes Vermillon (Sur).</b> Au niveau 9, vous gagnez la capacité de faire surgir une paire d’ailes de phénix dans votre dos par une <a class="pagelink" href="Pathfinder-RPG.action%20simple.ashx" title="Action simple">action simple</a>. Ces ailes vous confèrent une vitesse de vol de 18 mètres (12 c) avec une manœuvrabilité bonne. Vous pouvez révoquer les ailes par une <a class="pagelink" href="Pathfinder-RPG.action%20libre.ashx" title="Action libre">action libre</a>.  
   
-
 <b>Flammes Restauratrices (Mag).</b> Au niveau 15, vous pouvez lancer <a class="pagelink" href="Pathfinder-RPG.Restauration%20supr%C3%AAme.ashx" title="Restauration suprême">Restauration suprême</a> une fois par jour en tant que pouvoir magique.  
   
-
 <b>Renaissance (Sur).</b> Au niveau 20, la pleine puissance du phénix jaillit de votre être si vous périssez. Lorsque vous mourez, vous revenez à la vie après 1 minute, comme par le sort <a class="pagelink" href="Pathfinder-RPG.R%C3%A9surrection%20supr%C3%AAme.ashx" title="Resuréction suprême">Resurection suprême</a>. Cette capacité ne peut être utilisée qu’une fois toutes les 24 heures ; si vous êtes de nouveau tué durant cette période, votre mort est définitive.  
   
-
 </div>

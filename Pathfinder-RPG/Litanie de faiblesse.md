@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Cette litanie affirme que la cible du personnage est faible et sape ses forces. La cible est [[fatigué|fatiguée]] pour 1 [[round]].

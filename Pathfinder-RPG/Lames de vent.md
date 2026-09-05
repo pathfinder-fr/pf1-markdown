@@ -14,17 +14,11 @@ Categories:
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ;
 **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#CONTACT|contact]]  
-
 **Cible** Créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** [[Résistance à la magie (capacité)|Oui]]
 
 Le lanceur de sorts densifie l’air autour de la cible, le transformant en lames dentées [[États préjudiciables#INVISIBLE|invisibles]] qui infligent un certain nombre de dégâts en fonction de la [[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse de déplacement]] de la cible. Lors de son [[tour]], la cible reçoit 1d6 points de dégâts tranchants si elle se déplace de 1,5 mètre au moins, plus 1d6 points de dégâts tranchants supplémentaires par tranche supplémentaires de 3 mètres de mouvement. Les déplacements qui ne se font pas par l’air (comme le creusement, la nage ou la téléportation) ne provoquent pas ces dégâts. Dans les zones de [[Vents#EFFETSDUVENT|vent violent]], la cible reçoit les dégâts lors de son [[tour]], même si elle ne se déplace pas. Le vent inflige 1d8 points de dégâts tranchants quand il est important, plus 1d8 pour chaque catégorie de vent dépassant le vent important. Ces dégâts supplémentaires ne sont pas infligés par des effets de vent instantanés (comme bourrasque), seulement par des effets de vent durant au moins 1 [[round]].

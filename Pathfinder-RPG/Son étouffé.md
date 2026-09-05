@@ -17,7 +17,6 @@ Categories:
 **Temps d’incantation** 1 round</br>
 **Composantes** [[COMPOSANTES|V, G]]</br>
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un allié/[[niveau]]</br>
 **Durée** 1 minute/[[niveau]] (T)</br>
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui

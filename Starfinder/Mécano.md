@@ -8,12 +8,9 @@ LastModified: 2024-07-04 14:53
 Si un appareil ou un ordinateur a besoin d’être réparé, piraté ou détruit, c’est à vous qu’on fait appel. Que vous soyez un talentueux scientifique, un ingénieur spécialisé dans les vaisseaux spatiaux ou un technicien de terrain, le combat ne vous est pas étranger mais vous considérez qu’il est beaucoup plus raisonnable que votre IA ou que votre drone combatte à votre place.''
 
 <div class="fright">***Voir aussi les [[Astuces de mécano]].***  
-
 ***Voir aussi les [[Les Drones]] et [[Les Exocortex|l'Exocortex]].***  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo autoalt"

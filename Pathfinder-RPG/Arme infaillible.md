@@ -18,17 +18,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme ou 20 projectiles qui doivent tous se trouver groupés au moment de l’incantation  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort aide une arme à s’enfoncer plus près des organes vitaux, pour améliorer le résultat des [[coup critique|coups critiques]]. La [[transmutation]] donne un bonus de +2 aux jets d’attaque pour confirmer un [[coup critique]] et 1 point de plus par tranche de quatre [[NLS|niveaux de lanceur de sorts]] (bonus total de +7 au maximum). Si le personnage lance le sort sur des projectiles, l’effet se termine pour un projectile donné quand il le tire, qu’il touche ou non. Les shuriken sont considérés comme des projectiles vis-à-vis de ce sort.

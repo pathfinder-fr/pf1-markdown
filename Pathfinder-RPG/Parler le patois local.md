@@ -17,7 +17,6 @@ Categories:
 **(Source: Heroes of the street)**
 
 **École** [[Divination]] ; **Niveau** [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1, [[rôdeur]] 1, [[sorcière|Sor]] 1  
-
 **Composantes** [[composantes|V,M,FD]] (une pièce usée)
 
 Ce sort fonctionne comme *[[don des langues]]* sauf que la créature touchée gagne seulement le pouvoir de parler et comprendre un patois humain régional et que la langue en question doit être une langue que vous connaissez. Vous devez sélectionner la langue lorsque vous lancez le sort.

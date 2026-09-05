@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Sorcière|Sor]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 3 m (2 {s:c})  
-
 **Cible** 30 litres/[[niveau]] d'eau et de nourriture ou une [[potions magiques|potion]] ; voir texte  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort fait pourrir instantanément une nourriture par ailleurs tout à fait comestible tandis que l'eau et les autres boissons deviennent saumâtres et imbuvables. Le sort gâche également l'eau bénite et les nourritures et boissons d'importance similaire mais n'a aucun effet sur les créatures, quel que soit leur type, ni sur l'eau maudite. L'eau pèse un kilo par litre, donc 30 litres d'eau pèsent 30 kilos.

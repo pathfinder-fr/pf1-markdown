@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Une fois le personnage protégé par *sanctuaire*, tout adversaire tentant de l’attaquer ou de le prendre pour cible avec un sort doit tout d’abord réussir un jet de [[Volonté]]. En cas de réussite, il n’est pas affecté par le sort et peut agir normalement, sinon, il ne peut pas attaquer le personnage (mais il perd tout de même l’action correspondante) et ne peut lui faire le moindre mal tant que dure le sort. Les créatures qui n’agressent pas le personnage ne sont pas affectées par *sanctuaire*. Le sort n’empêche pas l’individu protégé d’être affecté par des sorts de zone. Le bénéficiaire peut agir à sa guise et lancer librement des sorts qui ne sont pas offensifs, mais s’il attaque qui que ce soit, le sort cesse aussitôt.

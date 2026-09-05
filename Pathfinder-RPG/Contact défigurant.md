@@ -18,28 +18,18 @@ Categories:
 ---
 
 {s:UM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 D’un contact, le personnage applique une douloureuse malédiction à la cible qui est hideusement défigurée. L’apparence
 physique de cette difformité est soumise aux caprices du lanceur de sorts (la plupart des adorateurs de démons choisissent des difformités qui reflètent la forme ou l’apparence de leur protecteur abyssal). La cible reçoit l’un des malus suivants.  
-
 • Malus de -2 à une valeur de caractéristique (avec un minimum de 1)  
-
 • Malus de -2 aux jets d’attaque ou de sauvegarde.  
-
 • Vitesse de base réduite de 1,50 mètre.  
-
 Vous pouvez inventer d’autres effets mais ils ne doivent pas être plus puissants que ceux décrits plus haut.
 
 ### Mythique

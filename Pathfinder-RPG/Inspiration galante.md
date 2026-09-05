@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Divination]] ;** Niveau** [[Barde|Bard]] 2  
-
 **Temps d'incantation** 1 [[action immédiate]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Ce mot plein d'inspiration et imprégné de puissance magique assure souvent le succès d'une entreprise capitale. Le personnage lance ce sort quand une créature rate son jet d'attaque ou son test de compétence. La créature gagne un bonus de compétence de +2d4 au jet d'attaque ou au test de compétence de façon rétroactive. Si le bonus suffit à transformer l'échec en succès, le jet ou le test est considéré comme réussi.

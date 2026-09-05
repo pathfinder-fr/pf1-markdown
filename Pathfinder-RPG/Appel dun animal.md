@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[[</nowiki>effet mental<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** voir description  
-
 **Cible** un animal dont le [[FP]] est égal ou inférieur au [[NLS|niveau de lanceur de sorts]] du personnage  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort appelle l'animal sauvage du type choisi par le personnage le plus proche (à condition que son [[FP]] soit égal ou inférieur au [[NLS|niveau de lanceur de sorts]] du personnage). L'animal se dirige vers le personnage par ses propres moyens, le temps qu'il met pour arriver dépend donc de la distance à laquelle il se trouve lors de l'incantation du sort. S'il n'y a pas d'animal du type voulu capable d'atteindre le personnage avant la fin de la durée du sort, il en est informé mais le sort est tout de même perdu. Ce sort est plus efficace si le personnage a une certaine connaissance de la faune locale et le [[MJ]] peut autoriser un test de [[Connaissances]] (nature) [[DD]] 15 pour découvrir quels types d'animaux se trouvent dans la région.

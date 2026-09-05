@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Médium|Méd]] 4, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** 1 [[round]] (voir description)  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort permet au lanceur de sort de s’insinuer dans l’esprit de la créature choisie et de modifier cinq minutes de sa mémoire, ce qui lui permet d’obtenir l’un des effets suivants :

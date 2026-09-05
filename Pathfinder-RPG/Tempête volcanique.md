@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (de l'obsidienne et des cendres)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone** cylindre (6 m (4 {s:c}) de rayon, 12 m (8 {s:c}) de haut)  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Ce sort fait pleuvoir des morceaux de roche volcanique brûlante et des paquets de cendres qui infligent 3d6 points de dégâts contondants et 2d6 points de dégâts de feu à toutes les créatures de la zone. Ces dégâts ne s’appliquent qu’une fois, lorsque le personnage lance le sort. Pour le reste de la durée du sort, une épaisse pluie de cendres s’abat sur la zone. Les créatures subissent un malus de -4 aux tests de [[Perception]] et toute la zone est transformée en [[terrain difficile]]. À la fin du sort, les rochers et les cendres disparaissent et ne laissent pas d’effets permanents (en dehors des dégâts infligés).

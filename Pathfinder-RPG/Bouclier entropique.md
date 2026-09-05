@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[prêtre|Prê]] 1, [[psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Un champ d’énergie magique et multicolore se forme autour du [[prêtre]] détournant projectiles, rayons et autres attaques à distance. Chaque attaque à distance prenant le personnage pour cible a alors 20 % de chances de le rater (comme si le personnage bénéficiait d’un [[camouflage]]).Le sort reste sans effet contre les autres attaques à distance.

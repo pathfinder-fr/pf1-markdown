@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Chaman|Cham]] 1, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection de la Loi*, le lanceur de sorts peut détecter la présence de la Loi. Les informations qu’il reçoit dépendent du temps passé à étudier la zone ou le sujet choisi.

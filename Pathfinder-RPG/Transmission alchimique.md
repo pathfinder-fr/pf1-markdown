@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 [[round]]
 
 Cet [[alchimiste#EXTRAIT|extrait]] fait émaner un éclat pâle de la bouche du lanceur de sorts. S'il consomme une [[potions magiques|potion]] ou un élixir dans le [[round]] qui suit l'absorption de cet [[alchimiste#EXTRAIT|extrait]], il peut le recracher dans un récipient par une [[action libre]]. Il bénéficie alors de tous les avantages de la [[potions magiques|potion]] ou de l'élixir mais ce dernier n'est pas consommé. Le personnage bénéficie des effets d'une [[potions magiques|potion]] ou d'un élixir seulement par utilisation de cet [[alchimiste#EXTRAIT|extrait]].

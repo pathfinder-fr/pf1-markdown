@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[composantes|V, G, M]] (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par [[DV]] de [[type mort-vivant|mort-vivant]])  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 cadavre  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort bien plus puissant qu’*[[animation des morts]]* offre la possibilité de créer des [[type mort-vivant|morts-vivants]] autrement plus dangereux : [[goule|goules]], [[goule|blêmes]], [[momie|momies]] et [[mohrg|mohrgs]]. Le type de [[type mort-vivant|morts-vivants]] pouvant être animé résulte du [[NLS|niveau de lanceur de sorts]] du personnage :

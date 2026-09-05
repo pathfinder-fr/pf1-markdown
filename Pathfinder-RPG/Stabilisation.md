@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Quand le personnage lance ce sort, il vise une créature ayant -1 [[PV|point de vie]] ou moins. Cette créature se [[Blessures et mort#STABLE|stabilise]] alors automatiquement et ne perd pas d’autres [[points de vie]]. Si, par la suite, elle reçoit de nouveaux dégâts, elle agonise de nouveau.

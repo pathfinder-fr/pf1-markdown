@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (tentacule de pieuvre ou de calmar)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** étendue de 6 m de rayon  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Cette incantation fait apparaître un amas de tentacules noirs et spongieux qui semblent surgir du sol (ou de la surface de l’eau). Ils s’agrippent et s’enroulent autour des créatures qui entrent dans la zone et les immobilisent afin de les écraser.

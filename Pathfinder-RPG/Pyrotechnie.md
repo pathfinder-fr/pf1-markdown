@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une source de feu)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cible** 1 source de feu (cube de 6 m d’arête maximum)  
-
 **Durée** 1d4+1 [[round|rounds]], ou 1d4+1 [[round|rounds]] après que les créatures ont quitté le nuage de fumée (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ou [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui ou non (voir description)
 
 Selon la version choisie, *pyrotechnie* transforme un feu en feu d’artifice [[aveuglé|aveuglant]] ou en nuage de fumée épaisse et étouffante. Le sort utilise une seule source de feu qui s’éteint alors immédiatement. Un feu de plus de six mètres de côté ne s’éteint qu’en partie. Les feux magiques ne s’éteignent pas mais les [[sous-type feu|créatures de feu]] qui servent de source pour ce sort subissent 1 point de dégâts par [[NLS|niveau de lanceur de sorts]].

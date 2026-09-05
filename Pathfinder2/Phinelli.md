@@ -5,7 +5,6 @@ LastModified: 2021-02-27 18:52
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Créer une rencontre à la volée est l'une des tâches les plus difficiles pour les MJ, mais ça l'est encore plus quand il s'agit d'improviser une rencontre dans une rue bondée d'une cité nécessitant de nombreux détails qu'il faut dessiner avant que les joueurs ne commencent à se dissiper. Heureusement, le flip-mat *Classics: Red light District* est disponible pour que vous ne deviez jamais plus dessiner des allées sinueuses, l'intérieur de bâtiments à la réputation douteuse ou un canal à la propreté plus que douteuse. Bien que cette carte ne soit en aucun cas nécessaire pour jouer la rencontre suivante (conçue par Vanessa Hoskins), elle y colle parfaitement.

@@ -15,19 +15,12 @@ Categories:
 
 {s:CMy}
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** V, G, M (minéraux précieux pour une valeur de 10 000po, voir texte)  
-
 **Portée** 30 mètres  
-
 **Zone d’effet** émanation de 30 mètres de rayon autour du personnage  
-
 **Durée** 1 jour/niveau (voir texte)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 
 Le personnage transforme le terrain et le climat dans la zone ciblée en un autre type de terrain et de climat adapté à la planète ou au plan sur lequel il se trouve. Par exemple, le personnage peut transformer un désert en plaines. Pour lancer ce sort, le personnage doit dépenser dix utilisations de [[pouvoir mythique]] en plus du coût en composantes matérielles. L’effet transforme par magie le climat et les plantes ordinaires pour les adapter au nouveau terrain, mais il n’affecte pas les créatures ou la configuration du sol. La transformation de collines rocheuses en zones boisées transforme l’herbe en buissons et en arbrisseaux, mais elle n’aplanit pas les collines, pas plus qu’elle modifie les animaux pour les adapter au nouvel environnement.
 

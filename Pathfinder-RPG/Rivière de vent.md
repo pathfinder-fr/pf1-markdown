@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 36 m (24 {s:c})  
-
 **Cible** ligne de 36 m (24 {s:c})  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Le personnage invoque la puissance de la tempête et dirige un puissant courant de vent là où il le désire. Ce sort crée un couloir de vent de 1,50 m (1 {s:c}) de diamètre. Le vent s'éloigne de l'endroit où se trouvait le lanceur de sorts au moment de l'incantation et poursuit dans cette direction pendant toute la durée du sort. Les créatures prises dans la *rivière de vent* subissent 4d6 points de [[dégâts non létaux]] et tombent [[à terre]]. Un jet de [[Vigueur]] permet de réduire les dégâts de moitié et de rester debout.

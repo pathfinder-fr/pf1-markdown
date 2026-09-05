@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** jusqu’à 2 DV de créatures végétales/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Ce sort permet d’exercer un contrôle sur les actions de [[type plante|créatures végétales]]. Le personnage leur donne des ordres de vive voix et celles-ci les comprennent, quelle que soit la langue parlée. Si toute forme de communication vocale est impossible (dans la [[zone deffet|zone d’effet]] d’un sort de *[[silence]]*, par exemple), les [[type plante|plantes]] contrôlées n’agressent pas le personnage. Au terme du sort, les sujets retrouvent leur comportement habituel.

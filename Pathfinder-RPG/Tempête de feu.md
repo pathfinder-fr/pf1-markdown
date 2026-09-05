@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 7, [[Prêtre|Prê]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** 2 cubes de 3 m d’arête/[[niveau]] (F)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Lorsque le personnage lance ce sort, la [[zone deffet|zone d’effet]] se transforme brusquement en un gigantesque brasier. Si le personnage le désire, les flammes peuvent épargner la végétation et/ou les [[type plante|créatures végétales]]. Par contre, toutes les autres cibles potentielles (et les [[type plante|créatures végétales]] que le jeteur de sorts souhaite affecter) subissent 1d6 points de dégâts de feu par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 20d6). Les créatures qui ratent leur jet de [[Réflexes]] s’embrasent et subissent 4d6 points de dégâts de feu par [[round]] jusqu’à extinction des flammes. Pour étouffer le feu, il faut réussir un test de [[Réflexes]] [[DD]] 20 lors d’une [[action complexe]].

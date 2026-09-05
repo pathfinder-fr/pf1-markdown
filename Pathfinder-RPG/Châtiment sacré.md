@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 4, [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[rayonnement]] de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[instantanée]] (1 [[round]]) (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Grâce à ce sort, le [[prêtre]] fait appel à la puissance du Bien pour châtier ses ennemis. Seules les créatures Neutres ou Mauvaises sont touchées. Celles qui sont d’[[alignement]] Bon ne courent aucun danger.

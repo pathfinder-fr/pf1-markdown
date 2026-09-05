@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute ou jusqu’à utilisation  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Ce sort fournit à la créature une *assistance divine* momentanée, se traduisant par un bonus de compétence de +1 sur un [[jet dattaque|jet d’attaque]], un [[jet de sauvegarde]] ou un [[test de compétence]]. La cible doit choisir d’utiliser ou non son bonus avant de jeter le dé.

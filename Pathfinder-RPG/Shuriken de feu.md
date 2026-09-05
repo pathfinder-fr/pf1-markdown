@@ -11,17 +11,11 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une pincée de soufre et un shuriken pour une valeur de 2 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** deux shuriken enflammés ou plus  
-
 **Durée** 1 round/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage invoque deux projectiles enflammés qui ressemblent à des shuriken, et un de plus tous les deux [[NLS|niveaux]] après le 3 (avec un maximum de huit shuriken au [[NLS|niveau]] 15). Ces projectiles flottent devant le personnage. Quand ils apparaissent, il peut les lancer (tous ou quelques-uns) sur une cible unique ou sur des cibles différentes. Pour cela, il faut faire une [[attaque de contact à distance]] qui inflige 1d8 points de dégâts de feu. Le personnage ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] quand il lance les shuriken.

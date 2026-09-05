@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Évocation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[prêtre|Prê]] 5, [[psychiste|Psy]] 5, [[spirite|Spi]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de gaze)  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Effet** une feuille d’ectoplasme opaque de maximum 90 cm²/niveau ou une sphère ou un hémisphère d’un rayon d’au maximum 3 m/niveau  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** aucun et [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage déroule un énorme voile d’ectoplasme où s’agitent des esprits sans repos. Une fois formé, le mur ectoplasmique ne bouge plus.

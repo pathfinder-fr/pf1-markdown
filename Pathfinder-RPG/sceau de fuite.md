@@ -16,16 +16,10 @@ Categories:
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
 **École** [[Abjuration]] ;
 **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 round/[[niveau]]  
-
 
 Ce sceau améliore la maniabilité du personnage quand il évite les attaques d’adversaires plus grands que lui. Quand le personnage est sous l’effet de ce sort et qu’une créature d’au moins une catégorie de taille de plus que lui l’attaque et le rate, il peut, par une [[action immédiate]], s’éloigner de 1,50 mètre de son assaillant. Ce mouvement augmente de 1,50 mètre par tranche de cinq niveaux de lanceur de sorts. Ce déplacement ne provoque jamais d’[[attaque dopportunité|attaque d’opportunité]].

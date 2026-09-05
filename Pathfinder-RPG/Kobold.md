@@ -104,19 +104,12 @@ verts, bleus et noirs sont assez nombreux également.
 
 Les kobolds ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Un kobold doté de niveaux dans des classes de PNJ reçoit une pénalité de -3 à son FP (au lieu de la pénalité normale de -2). Un PJ kobold peut bénéficier d'un don supplémentaire au niveau 1, à choisir parmi les dons raciaux des kobolds (voir *Manuel des races*). Les traits raciaux des kobolds sont les suivants :
 - **-4 Force, +2 Dextérité, -2 Constitution.** Les kobolds sont rapides mais faibles.  
-
 - **Armure.** Les kobolds reçoivent un bonus d'armure naturelle de +1.  
-
 - **Ingénieux.** Les kobolds gagnent un bonus racial de +2 aux tests d'[[Artisanat]] (pièges), de [[Perception]] et de [[Profession]] (mineur). De plus, [[Artisanat]] (pièges) et [[Discrétion]] sont toujours des compétences de classe pour eux.  
-
 - **Taille P.** Les kobolds sont des créatures de taille P. Ils gagnent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et un bonus de taille de +4 aux tests de [[Discrétion]].  
-
 - **Vision dans le noir.** Les kobolds peuvent [[vision dans le noir|voir dans le noir]] jusqu'à 18 m (12 {s:c}).  
-
 - **Vitesse normale.** La vitesse de déplacement de base des kobolds est de 9 m (6 {s:c}).  
-
 - **Vulnérabilité.** Les kobolds sont [[sensibilité à la lumière|sensibles à la lumière]].  
-
 - **Langues.** Les kobolds parlent automatiquement le draconique. S'ils disposent d'un [[Intelligence]] assez élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, commun des profondeurs, gnome, nain.
 
 {s:VoirAussiAvant}La page de la race [[Kobold (race)|Kobold]]{s:VoirAussiAprès}

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Druide|Dru]] 8, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[illimitée]]  
-
 **Cible** le jeteur de sorts et des objets et créatures consentantes  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 *Mot de rappel* téléporte instantanément le personnage dans son sanctuaire. Ce sanctuaire doit être désigné alors que le personnage prépare le sort, et il doit forcément s’agir d’un lieu que le [[prêtre]] (ou le [[druide]]) connaît très bien. Le point d’arrivée précis prend la forme d’une zone prévue pour l’occasion de trois mètres (2 cases) de côté ou moins. Il n’y a pas de limite de distance à l’utilisation de ce sort au sein d’un même plan, mais *mot de rappel* ne permet pas de passer d’un plan à un autre. Le lanceur de sorts peut emporter avec lui des objets, tant qu’il ne dépasse pas sa [[charge maximale]]. Il peut également téléporter une créature consentante de [[taille M]] ou inférieure (portant équipement et objets dans la limite de sa [[charge maximale]]) tous les trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]]. Une créature de [[taille G]] vaut deux créatures de [[taille M]], une créature de [[taille TG]] vaut deux créatures de [[taille G]], etc. Toutes doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le [[prêtre]] (ou [[druide]]). S’il dépasse cette limite, le sort échoue automatiquement.

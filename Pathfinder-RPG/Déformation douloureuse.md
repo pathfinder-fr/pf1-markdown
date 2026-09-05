@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) <nowiki>[</nowiki>[[registre|mal]], [[registre|douleur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
 L’[[attaque de contact]] du personnage inflige une difformité douloureuse à la cible. Ses membres se tordent et se recourbent tandis que son corps se contorsionne de façon incontrôlable alors qu’il change. À chaque [[round]], la cible souffre d’une douleur insoutenable qui lui inflige 2d6 points de [[dégâts non-létaux]], 1 point d’affaiblissement de [[Dextérité]] et 1 point d’affaiblissement de [[Constitution]]. Sa [[vitesse de déplacement|vitesse de base]] est réduite de 3 mètres. À son tour, une fois par [[round]], par une [[action libre]], la cible peut tenter un nouveau jet de [[Vigueur]] pour résister au sort pendant 1 [[round]].

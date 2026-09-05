@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G, M]] (verre brisé)  
-
 **Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
-
 **Zone** un cube de 3 m/niveau  
-
 **Durée** 1 h/niveau (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
 Le personnage solidifie des fragments de substance éthérée pour en faire des rasoirs inter-dimensionnels invisibles aux regards normaux. Les déplacements sont réduits de moitié dans la zone d’éclats éthérés, même pour les créatures intangibles. Les créatures qui entrent dans un cube de 1,50 mètre de côté empli d’éclats éthérés reçoivent 1d8 points de dégâts perforants et tranchants et doivent réussir un jet de [[Réflexes]], sous peine de subir 1 point de dégâts de saignement. Ces dégâts de saignement se cumulent entre eux et avec d’éventuelles autres sources de saignement. Une créature se tenant dans la zone affectée ne subit pas de dégâts si elle reste absolument immobile mais il suffit d’un léger mouvement, comme attaquer ou se défendre, pour l’obliger à faire un jet de sauvegarde. Si une créature stationnaire réussit son jet de sauvegarde, elle évite la totalité des dégâts pour ce round, mais si elle échoue, elle subit les mêmes dégâts et le même saignement que si elle s’était déplacée.

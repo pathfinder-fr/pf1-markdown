@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Illusion]] ([[branche mirage|mirage]]) <nowiki>[</nowiki>[[registre|lumière, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une pincée de poudre scintillante)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante et spéciale ; voir texte  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage crée une poussière qui scintille d'une lueur vive et file en direction d'une cible autour de laquelle elle se met à tournoyer en décrivant un dessin complexe. Ce motif silhouette clairement la cible et émet autant de lumière qu'un [[Outils alchimiques#Bâton éclairant|bâton éclairant]], ce qui empêche la créature de se camoufler. Elle doit réussir un jet de [[Volonté]] ou être [[hébété|hébétée]] pendant 1 [[round]]. Au tour suivant, elle doit refaire un jet et, en cas d'échec, elle est à nouveau [[hébété|hébétée]] pour 1 [[round]] et ainsi de suite à chaque [[round]]. Quand la cible réussit son [[jet de sauvegarde]], la *poussière d'étoile* passe à l'ennemi le plus proche dans un rayon de 9 mètres (6 {s:c}). Il doit à son tour réussir un jet de [[Volonté]] ou être [[hébété]]. La poussière change d'ennemi à chaque fois que celui qu'elle silhouette réussit son [[jet de sauvegarde]]. La *poussière d'étoile* ne peut affecter la cible qu'à une reprise, une fois que la cible a réussi son [[jet de sauvegarde]], le sort se termine immédiatement. Le sort n'affecte que les créatures ennemies, pas les alliés du personnage.

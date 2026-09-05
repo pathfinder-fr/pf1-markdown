@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; **Niveau** [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature/[[niveau]], ces créatures ne doivent pas se trouver à plus de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Grâce à cette bénédiction, le personnage appelle ses alliés à aller de l'avant et les encourage à vaincre et conquérir. À chaque [[round]], pendant toute la durée du sort, chacun de vos alliés peut choisir, au début de son tour, l'un des bonus suivants pour le [[round]] :

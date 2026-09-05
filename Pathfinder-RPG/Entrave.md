@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[composantes|V, G, M]] (une opale de 500 po par [[DV]] de la cible et d’autres [[composantes]], comme indiqué plus bas)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** voir description (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort crée des entraves magiques qui permettent de retenir une créature. La cible ne bénéficie d’un [[jet de sauvegarde]] au moment où le sort est lancé que si elle possède un nombre de [[DV]] supérieur ou égal à la moitié du [[niveau de lanceur de sorts]] du personnage.

@@ -8,17 +8,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]]; **Niveau** [[Druide|Dru]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** un arbre de [[taille TG]] ou plus grand  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non; **Résistance à la magie** non
 
 Le sort anime une branche et la dirige contre les ennemis du personnage. Un lanceur de sorts de [[niveau]] 10 ou moins peut utiliser un arbre de [[taille TG]], un lanceur de niveau 11 à 15 un arbre de [[taille Gig]] et un lanceur de niveau 16 ou plus un arbre de [[taille Col]]. La branche animée fait une attaque de coup avec une valeur de [[Force]] égale à 10+ [[NLS|niveau de lanceur de sorts]]. La branche frappe une fois par [[round]] avec un [[BBA|bonus de base à l'attaque]] égal au [[NLS|niveau de lanceur de sorts]]+modificateur de force de la branche, avec le modificateur de taille approprié(-2 pour un TG, -4 pour un Gig, et -8 pour un Col). Le coup d'un arbre de taille TG inflige 2d6 points de dégâts, celui d'un Gig 3d6 et celui d'un Col 4d6. L'arbre ajoute 1,5 fois son modificateur de force à ces dégâts. Un arbre TG a une allonge de 4,50 mètres (3 {s:c}), un Gig de 6 mètres (4 {s:c}) et un Col de 9 mètres (6 {s:c}). L'arbre attaque la créature que le lanceur de sorts lui a désignée au moment ou il jette le sort. Il est incapable de se déplacer. Le personnage peut lui dire d'attaquer une autre cible par une [[action de mouvement]]. L'arbre ne gagne aucun bonus en cas de prise en tenaille et il ne peut pas aider un allié à prendre un adversaire en tenaille. Il ne peut pas attaquer un adversaire que le lanceur de sorts ne voit pas.

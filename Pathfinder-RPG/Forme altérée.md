@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[alchimiste]] 3, [[druide]] 3, [[ensorceleur]]/[[magicien]] 3, [[magus]] 3, [[sorcière]] 3  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restrictions de cible** *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet bénéfice d’un bonus de taille de +2 à la [[Force]] et de deux des avantages suivants : deux attaques de griffe infligeant chacune 1d6 points de dégâts pour une [[taille M]] (1d4 si [[taille P|P]]), une attaque de morsure infligeant 1d8 points de dégâts pour une [[taille M]] (1d6 si [[taille P|P]]), vitesse d’escalade de 9 mètres (6 {s:c}), vitesse de nage de 9 mètres (6 {s:c}), [[vision dans le noir]] jusqu’à 20 mètres, [[vision nocturne (capacité)|vision nocturne]], [[odorat (capacité)|odorat]] ou bonus d’armure naturelle de +2.

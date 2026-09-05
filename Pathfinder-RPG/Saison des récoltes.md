@@ -13,19 +13,12 @@ Categories:
 **(Source: Heroes of the street)**
 
 **École** [[abjuration]] ; **Niveau** [[chaman|Cham]] 2, [[druide|Dru]] 2  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[composantes|V,G,M]]  
-
 **Portée** courte (7.5m + 1.5 m/2[[niveau]]) (5 {s:c} + 1 {s:c}/2[[niveau]])  
-
 **Cible** une plante  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 
 Vous provoquez la poussée de croissance d'une unique plante, la faisant pousser dans un cycle de fleur, fruit, ou de production céréalière appropriée. Si la plante est une plante qui ne fait pas normalement pousser de la nourriture faite pour l'organisme humain, elle produit alors des fleurs comestible sous l'effet de ce sort. La plante produit assez de nourriture pour nourrir une créature de [[taille|taille M]] par [[NLS|niveau de lanceurs de sorts]]. La nourriture récoltée par ce sort pourrit après 24h si elle n'a pas été mangée. Ce sort nourrit, fertilise, et pollinise la plante sans la blesser d'aucune manière. Ce sort n'a aucun effet sur les créature de type plante.
 

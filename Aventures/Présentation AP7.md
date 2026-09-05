@@ -21,55 +21,43 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9037_120.jpeg|http://paizo.com/products/btpy8b7v}
 {s:BookPic||}
 {s:BookComment|**Niveau 1 — Août 2010.**  
-
 Le [[Golarion.Sargava|Sargava]] est une colonie nichée au bord d'une vaste jungle sauvage, l'Étendue [[Golarion.Mwangi|Mwangi]], un endroit où de nombreuses factions plus puissantes les unes que les autres s'affrontent pour le contrôle. Lorsque des rumeurs parlant d'une piste vers une mythique citée perdue surgissent, quatre factions (les assassins des Mantes Rouges, la Société des Éclaireurs, la ligue marchande du Consortium Aspis et les seigneurs-pirates des Entraves) s'engagent dans une course pour être les premiers à s'emparer des trésors de la cité perdue, et le premier pas dans cette quête consiste à résoudre les anciens mystères de la fameuse île connue sous le nom de Lame du Contrebandier, une île encombrée de navires naufragés où pullulent de dangereuses bêtes.  
   
-
 **Articles :** règles à propos des quatre factions en compétition, les hommes-serpents de l'Étendue [[Golarion.Mwangi|Mwangi]]}
 {s:BookTitle|AP7-2|Racing to Ruin/La Course vers les ruines ou La Course vers la destruction}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9038_120.jpeg|http://paizo.com/products/btpy8ddc}
 {s:BookPic||}
 {s:BookComment|**Niveau 4 — Septembre 2010.**  
-
 Les héros se rendent dans la capitale désespérée du Sargava, un colonie sur le déclin, pour prendre des provisions en vue d'un voyage vers Saventh-Yhi, la cité azlante perdue de Sept Lances. Sur place, ils se retrouvent mêlés à une intrigue concernant la Société des Éclaireurs, la ligue marchande du Consortium Aspis, les seigneurs-pirates des Entraves et les dangereux assassins de la Mante Rouge, des rivaux qui cherchent eux aussi à piller la cité perdue pour leurs propres comptes. Chaque groupe utilise des tactiques propres pour inciter les héros à les rejoindre, alors que les dirigeants du Sargava promettent une immense récompense aux explorateurs qui parviendront à découvrir et à explorer la ville en ruine. Talonnés par des factions ennemies, les PJ parviendront-ils à survivre à des rencontres inattendues, à une tribu d'hommes-singes et à la jungle Hurlante pour atteindre la cité perdue de Saventh-Yhi avant qu'il ne soit trop tard ?  
   
-
 **Articles :** ville portuaire d'[[Golarion.Éléder|Éléder]] au [[Golarion.Sargava|Sargava]], le dieu [[Golarion.Gozreh|Gozreh]]}
 {s:BookTitle|AP7-3|City of Seven Spears/La Cité des Sept Lances}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9039_120.jpeg|http://paizo.com/products/btpy8ddd}
 {s:BookPic||}
 {s:BookComment|**Niveau 7 — Octobre 2010.**  
-
 Les héros quittent enfin les pistes de la jungle de l'Étendue Mwangi et découvrent la cité perdue de Saventh-Yhi, envahie par les plantes, un avant-poste en ruines de l'ancien royaume de l'Azalnte. Sept monolithes semblables à des lances dominent la végétation et, sur les passages suspendus branlants, on entend retentir les cris sauvages poussés par des prédateurs inconnus. Le cité offre la promesse de richesses indescriptibles à ceux qui sont assez braves pour s'en emparer. Mais les héros ne sont pas seuls car leurs alliés et leurs ennemis au sein du gouvernement de la colonie du Sargava, la Société des Éclaireurs, le Consortium Aspis, les seigneurs-pirates des Entraves et les mystérieux assassins de la Mante Rouge ont eux aussi des vues sur les trésors de la Cité aux Sept Lances et la course au pillage de ses richesses renfermées dans les nombreux sites de la ville a commencé !  
   
-
 **Articles :** la cité perdue de Saventh-Yhi et le ju ju, la magie primitive des natifs du Mwangi}
 {s:BookTitle|AP7-4|Vaults of Madness/Les salles de la folie}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9040_120.jpeg|http://paizo.com/products/btpy8dde}
 {s:BookPic||}
 {s:BookComment|**Niveau 10 — Novembre 2010.**  
-
 Un étrange boucanier sauvé dans la Cité des Sept Lances révèle le secret qui se tapit sous Saventh-Yhi, une cité d'hommes-serpents oubliée appelée Ilmuréa ; c'est de là que proviennent les craintes des natifs superstitieux qui parlent d'un terrible mal tapi sous la surface. Les héros doivent accompagner leur nouvel allié et venir en aide à ses compagnons captifs dans la ville souterraine en bravant les Salles de la folie où pullulent les pièges, les monstres et qui se dressent entre Saventh-Yhi et Ilmuréa. Mais, alors qu'ils se mettent en route, un nouvel habitant vient s'établir dans la Cité des Sept Lances, le légendaire Roi-Gorille en personne !  
   
-
 **Articles :** des pièges mortels pour les sites très anciens, l'écologie des Charu-ka, les hommes-gorilles sauvages du Mwangi qui servent le Roi-gorille}
 {s:BookTitle|AP7-5|The Thousand Fangs Below/Mille crocs sous la surface}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9041_120.jpeg|http://paizo.com/products/btpy8ddf}
 {s:BookPic||}
 {s:BookComment|**Niveau 13 — Décembre 2010.**  
-
 Les héros explorent l'ancienne cité d'hommes-serpents d'Ilmuréa et découvrent qu'elle n'est pas aussi abandonnée qu'ils le pensaient. De sauvages descendants des premiers habitants azlantes de la Cité aux Sept Lances y ont dégénéré en des morlocks qui vivent sous la surface et qui ont glissé vers la folie et le mal au fil de milliers d'années. Des créatures maléfiques venues de partout dans les Terres Sombres se rejoignent en masse à Ilmuréa, là où les attire la tête coupée de leur dieu ophidien mort, Ydersius. Un sombre rituel a déjà commencé, qui utilisera la puissance du Crâne du Serpent pour redonner aux hommes-serpents de Golarion leur véritable et dangereux potentiel, créant ainsi un nouveau danger sous chacune des nations du monde. Un Éclaireur disparu possède la clef qui permettra d'interrompre le rituel mais, avant qu'il ne puisse mener à bien son plan, il faut d'abord le sauver de sa prison souterraine.  
   
-
 **Articles :** les hommes-serpents d'Ilmuréa, le dieu [[Golarion.Néthys|Néthys]]}
 {s:BookTitle|AP7-6|Sanctum of the Serpent God/Le sanctuaire du Dieu Serpent}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9042_500.jpeg|http://paizo.com/products/btpy8g3i}
 {s:BookPic||}
 {s:BookComment|**Niveau 15 — Janvier 2011.**  
-
 Après avoir affronté des hommes-serpents sous terre, les héros doivent lever une armée dans les ruines de Saventh-Yhi, au sein d'une jungle déchirée par la guerre. Mais cela ne nécessite pas seulement des talents diplomatiques mais aussi de nombreux tests de courage et de force. Une fois cette armée sauvage mise sur pied, il faut ouvrir un chemin vers la place-forte des hommes-serpents située sous la cité, ce qui nécessite l'activation d'une ancienne machinerie grâce à laquelle sept des tours acérées de la ville vont s'enfoncer et empaler la ville souterraine. Alors que les guerriers de la jungle affrontent des légions d'hommes-serpents, les héros se fraient un chemin vers le temple du dieu-serpent Ydersius pour combattre le haut-prêtre fou et interrompre le rituel qui menace de redonner vie à cet ancien dieu maléfique.  
   
-
 **Articles :** jungles de l'Étendue Mwangi (et ses tribus), comment continuer la campagne}
 {s:BookTitle|AP7-7|Pathfinder Dice Set: Serpent's Skull/Set de dés : le crâne du serpent}
 {s:BookPic|http://paizo.com/image/product/catalog/QWS/QWSSPAT36_500.jpeg|http://paizo.com/products/btpy8u2i}

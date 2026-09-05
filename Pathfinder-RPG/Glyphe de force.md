@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[ensorceleur]]/[[magicien]] 6, [[magus]] 6  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 Ce mot effet fonctionne de la même manière que le mot effet *[[armure de force]]* mais il confère un bonus de +6 à la [[CA]], +1 point par tranche de quatre [[NLS|niveaux de lanceur]]. Si une autre source confère à la cible un meilleur bonus d’armure, le mot effet améliore à la place ce bonus d’armure de +2.

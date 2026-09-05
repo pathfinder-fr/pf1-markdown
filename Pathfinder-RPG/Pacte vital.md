@@ -15,14 +15,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]</br>
 **Composantes** [[COMPOSANTES|V, G, FD/M]] (une goutte de sang de chaque cible)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante volontaire/[[niveau]], ne devant pas se trouver à plus de 9 m / (6 {s:c}) les unes des autres  
-
 **Durée **1 minute/[[niveau]]
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui
 

@@ -9,23 +9,15 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** étincelle d'électricité  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Une étincelle d’électricité vient frapper la cible sur un jet réussi d’[[attaque de contact à distance]]. Elle provoque 1d3 points de dégâts d’électricité.
 
 (((**Note :** La parution de ces nouveaux tours de magie était initialement prévue par Paizo dans l’Art de la Magie. Elle a été supprimée faute de place, en laissant des traces dans la première édition de l’ouvrage en anglais. Paizo a décidé de faire plaisir à ses fans en les publiant par la suite sur son blog. BBE et Pathfinder-FR sont particulièrement heureux de pouvoir en proposer autant aux fans francophones.  
-
 Le sort ci-dessous est différent des tours de magie habituels. Il est rare. Les lanceurs de sorts qui ont accès à tous les sorts de niveau 0 dès leur premier niveau ne bénéficient pas de ce sort. Un lanceur de sorts doit découvrir son secret d’une autre façon (grimoire de mage, bibliothèques, parchemins oubliés...).  
-
 Ce tour de magie ne peut être utilisé dans le cadre du jeu organisé de la Pathfinder Society.)))

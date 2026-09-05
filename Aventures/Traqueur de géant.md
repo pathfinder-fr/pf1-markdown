@@ -23,7 +23,6 @@ Categories:
 {s:BDTexte|**Vitesse **6 cases}
 {s:BDTexte|**Càc **hache d'arme +7 (1d6+1 x3)}
 {s:BDTexte|**Dist **Arc long +11 (1d8+1, x3) ou Viser +9 (1d8+5)   
-
 ou tir rapide +9/+9 (1d8+1 x3) portée 78m.}
 {s:BDTexte|**Attaques spéciales** Attaque handicapante }
 {s:BDTexte|**Sorts** Aucuns}
@@ -38,16 +37,11 @@ ou tir rapide +9/+9 (1d8+1 x3) portée 78m.}
 {s:BDTexte|**Langues **commun, géant}
 {s:BDSousTitre|PARTICULARITÉS}
 **Ennemi juré (ext)** +4 contre les géants +2 contre les humanoïdes monstrueux. Ce bonus s'applique aux jets d'attaques, de dégâts, de perception, de bluff, de psychologie de connaissance et de survie contre ses ennemis jurés.   
-
 **Style de combat à distance.**   
-
 **Environnement de prédilection(ext)** +2 en montagne. Ce bonus s'applique aux jets d'initiative, de perception, de survie, de connaissance (géographie) et de discrétion.  
-
 **Compagnon animal.** Aigle (niveau 2) L'animal ne porte pas de nom.   
-
 **Astuce du chasseur (ext).**Utilisable 4/jour
 - attaque handicapante. Diminue de moitié la vitesse de la cible d'une attaque durant 1d4 rounds.   
-
 {s:BDSousTitre|ÉQUIPEMENT}
 Cuir clouté de maître ; Arc long de force (+1) de maître en os de dragon d'airain (draconomicon), Hache d'arme de maître, 60 flèches, matériel de voyageur, [veste de chasseur](http://www.pathfinder-fr.org/Wiki/Informations.Veste%20de%20chasseur.ashx), corde en soie, Longue vue, Carquois efficace, huile d'arme magique (3), Huile d'arme magique supérieure, Potion de soins léger, potion d'invisibilité, huile d'arme enflammée, 40 PO
 </div>
@@ -55,7 +49,6 @@ Cuir clouté de maître ; Arc long de force (+1) de maître en os de dragon d'ai
 </td><td><div>*Alors que vous suivez sans peine les traces démesurées du géant, vous remarquez qu'un oiseau de proie observe calmement vos efforts. Soudain, sorti de nulle part, apparait un homme vêtu de frusques informes. Il tient en main un puissant arc en os.* *"Hé, Mec, fait-il en mangeant à moitié ses mots. Va trifouiller un'aut'pist'. Celle là, c'est ma mienne"*
 
 Throma est un PNJ bourru discourtois, inculte, pas spécialement courageux et même sournois. Il passe sa vie sur la piste des géants, traquant les trolls, les ogres et même les géants des collines. Il opère presque uniquement en solitaire (il n'a par exemple jamais appris à tirer sur un adversaire tout en évitant de toucher un allié. )  
-
 Relativement faible au corps à corps, il passera beaucoup de temps avant de réaliser la moindre attaque, mettant toutes les chances de son côté. S'il a pu survivre en exerçant une telle activité, c'est uniquement en concevant des tactiques qui ne laissent aucune chance à ses adversaires, s'ingéniant à utiliser le terrain au mieux pour retarder au plus tard le moment ou le géant arrive au corps à corps.
 
 </div></td></tr></table>

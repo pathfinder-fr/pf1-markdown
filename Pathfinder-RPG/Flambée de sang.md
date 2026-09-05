@@ -19,17 +19,11 @@ Categories:
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#feu|feu]]<nowiki>]</nowiki> ;
 **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif )
 
 La cible gagne une aura de 1,5 mètre de [[Présentation des sorts#DEFRAYONNEMENT|rayon]] qui provoque l’embrasement du sang des

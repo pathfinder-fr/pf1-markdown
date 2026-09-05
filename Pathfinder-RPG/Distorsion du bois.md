@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Occultiste|Occ]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 objet en bois de [[taille P]]/[[niveau]] dans une zone de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Grâce à ce sort, le personnage peut forcer un morceau de bois à se plier et à se tordre, altérant de manière permanente sa forme et sa résistance. Il est ainsi possible de déformer une porte pour la faire s’ouvrir ou au contraire se coincer (un test de [[Force]] est alors nécessaire pour la pousser), d’ouvrir une voie d’eau dans la coque d’un navire ou de rendre une arme à distance inutilisable. Une arme de corps à corps déformée impose un malus de -4 aux [[jet dattaque|jets d’attaque]].

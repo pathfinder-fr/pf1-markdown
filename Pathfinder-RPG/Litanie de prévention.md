@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]  
-
 
 Cette litanie rend le personnage plus sensible aux faits et gestes de ses adversaires. Il a droit à deux [[attaque dopportunité|attaques d’opportunité]] supplémentaires pour le [[round]]. De plus, il gagne un bonus de sainteté de +2 à la [[CA]] contre les [[attaque dopportunité|attaques d’opportunité]].
 

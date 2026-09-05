@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, M/FD]] (une plume d'aigle)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le sujet gagne un bonus de compétence de +2 aux tests de [[Perception]] et bénéficie de la [[vision nocturne]]. Les sujets qui la possèdent déjà voient leur distance de visibilité doubler grâce au sort.

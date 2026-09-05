@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un projectile constitué d’acide  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le jeteur de sort lance un petit orbe en direction de la cible. Il doit effectuer une [[attaque de contact à distance]] pour toucher cette dernière. L’orbe inflige alors 1d3 points de dégâts d’acide. Cet acide disparaît au bout d’un [[round]].

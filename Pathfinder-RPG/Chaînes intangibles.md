@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 6, [[spirite|Spi]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature intangible/niveau, les créatures devant être à 9 m ou moins les unes des autres  
-
 **Durée** concentration  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage invoque des chaînes fantomatiques pour lier les créatures intangibles. Le [[BMO]] des chaînes est égal au niveau de lanceur de sorts + modificateur d’[[Intelligence]]. Le personnage lance le dé une seule fois pour la totalité des effets du sort et applique le résultat à toutes ses cibles intangibles.

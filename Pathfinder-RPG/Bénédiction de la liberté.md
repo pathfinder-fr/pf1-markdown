@@ -12,15 +12,10 @@ Categories:
 **(Source: Heroes of the street)**
 
 **École** [[Abjuration]] ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,M]] (une plume ou un objet représentant la chance)  
-
 **Portée** [[personnelle]]  
-
 **Cible** Le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Vous vous imprégnez d'une *bénédiction de liberté*. Vous gagnez un bonus de chance de +1 par tranche de 6 niveaux de lanceur de sorts (minimum +1, maximum +3) à votre [[DMD]], à vos jets de sauvegarde contre les sorts et les pièges qui entravent vos mouvements. Vous pouvez arrêter le sort par une [[action rapide]] pour gagner un bonus de 1,5m (1 {s:c}) à votre [[VD|vitesse de base]] pour 1 round par minute restante avant l'expiration du sort.

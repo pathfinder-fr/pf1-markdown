@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) ([[effet mental]]) ;** Niveau** [[Barde|Bard]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui permet à une créature située dans la zone d'effet de la [[barde#REPRESENTATIONBARDIQUE|représentation]] de faire une [[action de mouvement]] ou une [[action simple]] de son choix.

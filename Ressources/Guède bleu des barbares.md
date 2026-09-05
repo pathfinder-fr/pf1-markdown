@@ -5,9 +5,7 @@ LastModified: 2011-11-12 13:53
 ---
 
 <div style="float:right"><sub>*Proposé par Faenil*</sub>  
-
 *Retour à l'[[RM Index|index des règles maison]].*  
-
 </div><div class="BD">
 {s:BDTitre|Guède bleu des barbares|}
 **Aura** [[pathfinder-RPG.Abjuration|Abjuration]] faible ; **NLS** 3 ;  **Prix** 300 po ; **Poids** 1 kg

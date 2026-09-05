@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (feuille de rhubarbe et estomac de vipère)[[composantes|, F]] (un dard)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** 1 flèche d’acide  
-
 **Durée** 1 [[round]] + 1 [[round]]/3 [[niveau|niveaux]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Une flèche constituée d’acide jaillit de la main du lanceur de sorts et file vers la cible. Si le personnage réussit une [[attaque de contact à distance]], la flèche inflige 2d4 points de dégâts d’acide à la cible ; la *flèche acide* ne provoque pas d’éclaboussures mettant en danger les créatures proches de la cible. Si l’acide n’est pas neutralisé, il continue de faire effet pendant 1 [[round]] supplémentaire par tranche de trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] (jusqu’à un maximum de 6 [[round|rounds]] supplémentaires au [[niveau]] 18), infligeant 2d4 points de dégâts par [[round]].

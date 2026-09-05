@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** nuage de 108 m de rayon  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 10 [[round|rounds]]) (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
 Ce sort fait apparaître un énorme nuage noir, qui lance des éclairs et des coups de tonnerre. Toutes les créatures qui se trouvent en dessous doivent réussir un jet de [[Vigueur]] sous peine d’être [[assourdi|assourdies]] pendant 1d4x10 minutes. Si le lanceur de sorts cesse de se [[concentration|concentrer]], le sort s’achève immédiatement, sinon, il produit des effets différents au cours des [[round|rounds]] suivants, comme détaillé ci-dessous. Chaque effet se manifeste durant le tour de jeu du personnage.

@@ -47,9 +47,7 @@ LastModified: 2016-11-25 10:58
 *Cet arbuste imposant est taillé dans la forme vague d’un éléphant avec ses pattes et ses défenses couvertes de ronces.*
 
 Mi-végétales, mi-animales, les topiaires sont des plantes vivantes qui ressemblent à des arbustes décoratifs généralement conçus pour agrémenter les jardins et les parcs.   
-
 Toutefois, la nature bestiale et le comportement réservé de ces créatures prouvent qu’elles sont plus que de simples décorations.   
-
 Certains supposent que les topiaires vivantes seraient originaires du monde primaire des fées où les phénomènes étranges,
 tels que des plantes en forme d’animaux, ne sont pas si inhabituels.
 

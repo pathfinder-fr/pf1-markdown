@@ -15,17 +15,11 @@ Categories:
 
 {s:cmy}
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** V, G  
-
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature mythique  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui
 
 Le personnage draine le [[pouvoir mythique|pouvoir]] d’une créature mythique et l’utilise pour restaurer le sien. La cible perd 1d4 utilisations de [[pouvoir mythique]]. Si le personnage possède une aptitude qui lui permet de dépenser du [[pouvoir mythique]], il récupère autant d’utilisations que celles perdues par la cible.

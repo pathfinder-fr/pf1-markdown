@@ -28,7 +28,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Ange|}
 - *L’eidolon ressemble à une créature céleste comme un ange, un archon ou un azata. L’eidolon angélique apparaît souvent comme un bel humanoïde aux ailes de plumes.*  
-
 - **24 points**
 - **forme de base** bipède
 - **évolutions primaires** résistance (feu ou électricité), entraînement aux armes
@@ -39,7 +38,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Béhir|}
 - *Ce modèle crée un eidolon reptilien aux nombreuses pattes qui ressemble à un béhir.*  
-
 - **24 points**
 - **forme de base** quadrupède
 - **évolutions primaires** escalade, membres (pattes)
@@ -50,7 +48,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Centaure|}
 - *L’eidolon possède une moitié supérieure de corps humain et une moitié inférieure de quadrupède (comme un cheval). Le torse humain de l’eidolon est plus petit que la partie quadrupède du corps, c’est pourquoi il manie des armes d’une catégorie de taille de moins que la sienne (M pour la plupart des eidolons centaures). On peut aussi utiliser un modèle de centaure pour créer une lamie (un eidolon centaure avec le torse d’une femme et la partie inférieure d’un lion) en remplaçant l’évolution sabots par des griffes et en ajoutant magie basique* (fatigue), magie mineure* (ventriloquie), magie majeure* (hébétement) et magie ultime (image accomplie), pour un modèle à 23 points.*  
-
 - **13 points**
 - **forme de base** quadrupède
 - **évolutions primaires** membres (bras), sabots*
@@ -61,7 +58,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Chimère|}
 - *Ce modèle crée un eidolon qui ressemble à une chimère : un lion avec des ailes et deux têtes supplémentaires, une de dragon et une de chèvre. C’est la couleur de la tête de dragon qui détermine le type de souffle de l’eidolon.*  
-
 - **19 points**
 - **forme de base** quadrupède
 - **évolutions primaires** griffes, tête*
@@ -72,7 +68,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Chose de l’au-delà|}
 - *L’eidolon possède une forme qui n’a pas été conçue pour le regard des mortels, comme celle d’un shoggoth, d’un migo, d’un rejeton des étoiles ou pire. La chose de l’au-delà peut prendre n’importe quelle forme de base, avec plein de bouches, d’yeux, de griffes et de tentacules.*  
-
 - **25 points**
 - **forme de base** n’importe
 - **évolutions primaires** tentacules (3)
@@ -83,7 +78,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Démon|}
 - *L’eidolon a une apparence démoniaque et, comme les démons peuvent prendre n’importe quelle forme, il n’y a pas de forme de base recommandée. Une marilith aura une forme serpentine pour sa moitié basse, alors qu’un vrock aura une forme de base bipède.*  
-
 - **26 points**
 - **forme de base** n’importe
 - **évolutions primaires** résistance (acide, froid, feu)
@@ -94,7 +88,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Destrier noir|}
 - *Cet eidolon est un farouche équidé, semblable à un destrier noir, qui peut servir de monture.*  
-
 - **17 points**
 - **forme de base** quadrupède
 - **évolutions primaires** attaque d’énergie (feu), sabots*
@@ -105,7 +98,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Diable|}
 - *L’eidolon a une apparence infernale, il peut avoir des ailes de chauve-souris ou voler par magie.*  
-
 - **26 points**
 - **forme de base** bipède
 - **évolutions primaires** magie basique* (hébétement ou rayon de givre), attaques magiques, résistance (acide ou froid)
@@ -116,7 +108,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Dragon|}
 - *L’eidolon ressemble à un dragon M. Un dragon P ressemblera à un dragon féerique ou un pseudo dragon. On peut créer un dragon G ou TG en échangeant des évolutions proposées contre des évolutions de taille.*  
-
 - **24 points**
 - **forme de base** quadrupède
 - **évolutions primaires** griffes, queue, coup de queue
@@ -127,7 +118,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 <div class="BD">
 {s:BDTitre|Drider|}
 - *Cet eidolon aux allures de centaure possède le torse d’un humanoïde et le bas du corps d’une araignée géante. Son torse est plus petit que la partie quadrupède du corps, c’est pourquoi il manie des armes d’une catégorie de taille inférieure à la sienne (M pour la plupart des eidolons driders).*  
-
 - **25 points**
 - **forme de base** quadrupède
 - **évolutions primaires** escalade, membres (bras)
@@ -139,7 +129,6 @@ La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recomm
 {s:BDTitre|Fée|}
 - ''L’eidolon ressemble à une créature féerique comme une dryade, une nymphe, une pixie ou un satyre. Les eidolons féeriques sont souvent de séduisants humanoïdes qui peuvent avoir des ailes de papillon ou d’autres insectes. On peut créer un eidolon féerique aquatique, comme une nixe, en ajoutant une évolution de branchies et de nage, pour un
 modèle à 24 points.''  
-
 - **22 points**
 - **forme de base** bipède
 - **évolutions primaires** magie basique* (hébétement, lumières dansantes ou son imaginaire), entraînement aux armes
@@ -152,7 +141,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Garde du corps|}
 - *L’eidolon ressemble à un guerrier humain. Son armure naturelle se matérialise sous la forme d’une armure de plate mais elle fait partie intégrante du corps de l’eidolon. Les eidolons gardes du corps sont normalement entraînés à manier tout un éventail de dangereuses armes.*  
-
 - **11 points**
 - **forme de base** bipède
 - **évolutions primaires** armure naturelle supérieure, entraînement aux armes
@@ -163,7 +151,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Génie|}
 - *L’eidolon ressemble à un génie, comme un djinn, un éfrit, un jann, un marid ou un shaitan. Ses mouvements, ses attaques d’énergie et son immunité dépendent du type de génie recherché : le djinn vole, fait des attaques d’électricité et est immunisé contre l’acide ; l’éfrit vole, fait des attaques de feu et est immunisé contre le feu ; le marid nage, fait des attaques de froid et est immunisé contre le froid ; le shaitan creuse, fait des attaques d’acide et est immunisé contre l’électricité.*  
-
 - **21-23 points**
 - **forme de base** bipède
 - **évolutions primaires** magie basique* (détection de la magie), entraînement aux armes
@@ -174,7 +161,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Homme-poisson|}
 - *L’eidolon possède la partie supérieure du corps d’un humanoïde et la partie inférieure d’un poisson. Ce modèle sert à créer un humanoïde aquatique comme un homme-poisson ou un sahuagin.*  
-
 - **18 points**
 - **forme de base** aquatique
 - **évolutions primaires** membres (bras), queue
@@ -185,7 +171,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Hydre|}
 - *L’eidolon ressemble à une hydre à plusieurs têtes. Ce modèle permet de lui en attribuer cinq. On peut créer une cryohydre ou une pyrohydre en ajoutant des évolutions de souffle et d’immunité, pour un modèle à 26 points.*  
-
 - **20 points**
 - **forme de base** serpentine
 - **évolutions primaires** morsure, tête*
@@ -196,7 +181,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Linnorm|}
 - *L’eidolon ressemble à un linnorm M. On peut en créer un G ou TG en échangeant des évolutions secondaires. Ce modèle peut aussi servir à créer un dragon sans ailes, comme un dragon chinois.*  
-
 - **23 points**
 - **forme de base** serpentine
 - **évolutions primaires** griffes, membres (pattes)
@@ -207,7 +191,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Mammouth|}
 - *Cet eidolon est une grande et puissante créature avec des défenses et une trompe préhensile (grâce à l’évolution de tentacule), comme un éléphant ou un mastodonte.*  
-
 - **14 points (20 pour un TG)**
 - **forme de base** quadrupède
 - **évolutions primaires** corne, tentacule
@@ -218,7 +201,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Mort-vivant|}
 - *L’eidolon ressemble à une créature morte-vivante, un squelette, un zombi, une momie ou même un fantôme intangible ou une ombre. Un conjurateur doté d’un tel eidolon doit choisir l’évolution apparence de mort-vivant au niveau 1.*  
-
 - **19 points**
 - **forme de base** n’importe
 - **évolutions primaires** apparence de mort-vivant*, aura surnaturelle*
@@ -229,7 +211,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Requin|}
 - *L’eidolon ressemble à un prédateur aquatique fuselé comme un requin ou un orque.*  
-
 - **16 points**
 - **forme de base** aquatique
 - **évolutions primaires** étreinte (morsure), odorat
@@ -240,7 +221,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Serpent ailé|}
 *Cet eidolon ressemble à un serpent avec des ailes, comme un couatl ou une lillende.*  
-
 - **23 points (couatl), 26 points (lillende)**
 - **forme de base** serpentine
 - **évolutions primaires** magie basique* (n’importe), étreinte
@@ -252,7 +232,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Serpent de mer|}
 - *Cet eidolon serpentin aquatique ressemble à un serpent de mer ou un ver marin.*  
-
 - **18 points, 24 points (TG)**
 - **forme de base** serpentine
 - **évolutions primaires** branchies, résistance (feu), nage
@@ -263,7 +242,6 @@ modèle à 24 points.''
 <div class="BD">
 {s:BDTitre|Vermine|}
 - *L’eidolon ressemble à un énorme insecte ou une autre vermine. Si le conjurateur choisit l’évolution (pattes) à plusieurs reprises, il peut créer une araignée géante.*  
-
 - **16 points, 18 points (araignée), 22 ou 24 points (très grand)**
 - **forme de base** quadrupède
 - **évolutions primaires** escalade, membres (pattes)

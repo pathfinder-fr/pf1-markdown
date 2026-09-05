@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] ; **Niveau** [[Inquisiteur|Inq]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** un objet ou une créature qui entrave le lanceur de sorts  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] (objet) ; **Résistance à la magie** oui
 
 La colère divine du personnage fait exploser ses liens, ce qui inflige 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] à l'objet ciblé (maximum 5d6) en ignorant une solidité de 10 ou moins. Un jet de [[Vigueur]] réussi permet de [[Présentation des sorts#JETSDESAUVEGARDE|réduire les dégâts de moitié]] mais seuls les objets magiques ont droit à un [[jet de sauvegarde]].

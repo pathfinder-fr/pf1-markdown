@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ;** Niveau** [[Paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort permet au personnage d'échanger sa place contre celle d'un allié. Quand il lance ce sort, il choisit un unique allié à portée. Il se téléporte dans sa case alors que l'allié se téléporte dans celle que le personnage occupait.

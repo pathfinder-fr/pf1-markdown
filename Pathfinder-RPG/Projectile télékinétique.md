@@ -11,15 +11,10 @@ Categories:
 ---
 
 {s:AO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[courte]] (7.5m + 1.5m /2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Vous lancez un objet pesant jusqu'à 2kg sur la cible. Vous devez réussir à une attaque à distance (pas une attaque de contact à distance) pour toucher votre cible; Si vous touchez, vous infligez 1d6 points de dégâts contondant à la cible et à l'objet. Le type d'objet lancé ne change pas le type de dommage ou toute autre propriété de l'attaque, même si vous lancez une arme ou un objet magique de cette manière.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]] ([[Barde]] uniquement)[[composantes|, G, M]] (un morceau de phosphore)[[composantes|, F]] (un prisme de cristal) ; voir description  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** lueurs multicolores dans une étendue de 6 m/4 cases de rayon  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Une lueur dont les couleurs rappellent celle d’un arc-en-ciel apparaît et [[fasciné|fascine]] toutes les créatures situées dans la zone d’effet. *Lueur d’arc-en-ciel* peut [[fasciné|fasciner]] un maximum de 24 [[DV]], sachant que les créatures dont le [[DV]] est le moins élevé sont affectées en premier. En cas d’égalité de [[DV]], ce sont les cibles qui se trouvent le plus près du jeteur de sorts qui sont affectées en premier. Si elles échouent leur [[jet de sauvegarde]], elles sont [[fasciné|fascinées]] par la lueur.

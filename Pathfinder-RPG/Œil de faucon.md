@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** capteur magique  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Œil de faucon* crée un capteur magique juste au-dessus de la tête du personnage. Il apparaît à n'importe quelle hauteur, avec un maximum de mètres égal à la portée du sort. Le personnage voit tout ce qui se passe depuis cet emplacement comme s'il s'y trouvait et peut faire une rotation sur 360°. Ses perceptions se font à l'aide de ses sens visuels habituels. Un lanceur de sorts qui utilise l*'œil de faucon* voit donc facilement ce qui se passe dans le lointain. Le sort ne peut pas traverser une surface solide mais il n'est pas affecté par le feuillage ou autre.

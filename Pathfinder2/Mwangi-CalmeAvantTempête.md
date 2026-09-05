@@ -5,7 +5,6 @@ LastModified: 2021-07-19 08:51
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 « … et, de la part du village de Mua’bri, j’apporte un chaudron en faïence encerclé d’éclairs et recouvert de poussière d’or que les potiers de ce village offrent à votre majesté afin que leur travail puisse être remémoré à tout jamais … »

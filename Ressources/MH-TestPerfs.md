@@ -39,7 +39,6 @@ Manipulations :
 |}
 
   
-
 {| CLASS="tablo"
 |- CLASS="titre"
 | v 0.2 || iPhone 6 || iPad Air || iPhone 5S || iPad 4 || Nexus 10 || Oppo  Find 7+ || Nexus 7 || SGS II || HP Slate 7+ || wiko cink king

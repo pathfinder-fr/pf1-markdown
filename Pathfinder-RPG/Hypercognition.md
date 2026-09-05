@@ -13,15 +13,10 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[barde|Bard]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[médium|Méd]] 2, [[psychiste|Psy]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** voir texte
 
 Le personnage récolte et catalogue rapidement toutes les données disponibles sur une personne, un lieu, une chose ou un événement. Des bribes de souvenirs et des indices s’assemblent dans son esprit dans un ordre logique et systématique. Dès la fin de l’incantation, le personnage commence à dépenser le temps nécessaire à un test d’[[Intelligence]] ou de [[Linguistique]] pour détecter un faux ou déchiffrer un message codé ou à un test de [[Connaissances]]. Si le test exige au moins 3 [[round|rounds]], il peut le faire cinq fois plus rapidement (1 round au minimum). Si le test prend moins de [[round|rounds]] il peut le faire instantanément. Quoi qu’il en soit, il gagne un bonus d’intuition sur le test égal à son [[NLS|niveau de lanceur de sorts]] (+10 au maximum). Cependant, ce bonus ne permet pas de dépasser le résultat que le personnage obtiendrait avec un 20 naturel.

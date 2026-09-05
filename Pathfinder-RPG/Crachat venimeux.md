@@ -14,17 +14,11 @@ Categories:
 
 {s:Desambi|Il existe un [[crachat venimeux (nagaji)|don]] du même nom.}{s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un jet de venin  
-
 **Durée** [[instantanée]], voir texte  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** non
 
 Le personnage crache un jet de venin sur une cible grâce à une [[attaque de contact à distance]]. S’il touche, la cible est [[aveuglé|aveugle]] pendant 1 [[round]]. La cible doit aussi réussir un [[jet de sauvegarde]] ou être [[poison|empoisonnée]] par du venin de vipère noire. Le [[DD]] des [[round|rounds]] de [[poison]] successifs est égal au [[DD]] du sort.

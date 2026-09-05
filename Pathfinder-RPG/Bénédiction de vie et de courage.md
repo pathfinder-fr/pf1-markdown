@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche guérison|guérison]]) <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 minute/[[niveau]] (voir plus bas)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Grâce à cette prière, le personnage apporte un soutien durable à une créature blessée. Tant que le sort fait effet, la cible reçoit un bonus de moral de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de peur et de mort. Pendant la durée d'effet, elle peut à tout instant mettre un terme au sort par une [[action rapide]] en échange d'un rayonnement d'énergie guérisseuse. La cible perd ses bonus aux [[jet de sauvegarde|jets de sauvegarde]] mais elle guérit de 1d8 points de dégâts +1 par [[NLS|niveau de lanceur de sorts]] (+10 au maximum).

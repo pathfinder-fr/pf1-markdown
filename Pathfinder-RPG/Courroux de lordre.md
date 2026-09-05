@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ([[registre|Loi]]) ; **Niveau** [[inquisiteur|Inq]] 4, [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** toutes les créatures non-Loyales qui se trouvent dans un cube de 9 m (6 {s:c}) de côté  
-
 **Durée** instantanée (1 [[round]]) ; voir description  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]], voir description ; **Résistance à la magie** oui
 
 Le personnage canalise la puissance de la Loi pour châtier ses ennemis. Le sort prend la forme d’une grille d’énergie tridimensionnelle qui affecte seulement les créatures Chaotiques et Neutres (pas les créatures Loyales).

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un peu de sable, de chaux et d’eau)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[[niveau]] (F)  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Ce sort transforme la boue ou les sables mouvants en pierre (généralement du grès ou une roche similaire). Cette transformation est [[permanente]].

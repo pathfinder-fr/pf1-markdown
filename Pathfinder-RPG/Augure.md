@@ -16,15 +16,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (25 po d’encens), F (jeu de bâtonnets ou d’osselets couverts de runes (valeur minimale 25 po))  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[instantanée]]
 
 Augure révèle au [[prêtre]] si l’action que lui-même ou ses compagnons vont entreprendre aura de bonnes ou de mauvaises conséquences dans un avenir proche.

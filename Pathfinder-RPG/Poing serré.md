@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (un gant souple)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** main de 3 m/2 cases de long  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[main interposée]]* sauf que la main est également capable de pousser ou de frapper un adversaire désigné par le personnage. À chaque [[round]], la main flottante peut parcourir jusqu’à dix-huit mètres et porter une attaque. Comme elle est dirigée par le personnage, elle ne voit pas davantage les créatures [[invisible|invisibles]] ou cachées que lui.

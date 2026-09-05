@@ -258,19 +258,12 @@ ou empêchent les personnages d’utiliser leurs points héroïques.
 <div class="BD">
 {s:BDTitre|Chance héroïque|}
 **École** Évocation ; **Niveau** Alc 2, Bar 2, Pal 3, Prê 2  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V, G, FD, M (poudre de diamant valant 100 po)  
-
 **Portée** contact  
-
 **Cible** créature touchée  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** Volonté annule (inoffensif ) ; **Résistance à la magie** non  
-
 Ce sort octroie 1 point héroïque à la cible. Ce point héroïque doit être
 utilisé avant le terme de la durée du sort, sous peine d’être perdu. Ce
 point héroïque en bonus est dépensé avant tout autre point héroïque
@@ -280,14 +273,10 @@ que la cible pourrait posséder.
 <div class="BD">
 {s:BDTitre|Chance héroïque de groupe|}
 **École** Évocation ; **Niveau** Bar 4, Prê 5  
-
 **Composantes** V, G, FD, M (poudre de diamant valant 1 000 po)  
-
 **Portée courte** (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une ou plusieurs créatures, chacune d’elles étant à au plus
 9 mètres de toutes les autres  
-
 Ce sort fonctionne comme chance héroïque à l’exception des
 différences notées ci-dessus.
 </div>
@@ -295,19 +284,12 @@ différences notées ci-dessus.
 <div class="BD">
 {s:BDTitre|Destin brisé|}
 **École** Enchantement ; **Niveau** Prê 3, Sor 2  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V, G  
-
 **Portée courte** (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature vivante  
-
 **Durée** 10 minutes/niveau  
-
 **Jet de sauvegarde** Volonté annule ; **Résistance à la magie** oui  
-
 Le lanceur de sorts maudit la cible et l’empêche de tirer parti de sa
 puissante destinée. La cible est secouée et ne peut pas utiliser de
 points héroïques pendant toute la durée du sort. Ces effets peuvent
@@ -318,19 +300,12 @@ magie ou un effet similaire.
 <div class="BD">
 {s:BDTitre|Destin défait|}
 **École** Divination ; **Niveau** Ens/Mag 3, Prê 3, Sor 3  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V, G, FD  
-
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** Volonté annule ; **Résistance à la magie** oui  
-
 Le lanceur de sorts prononce une prédiction puissante qui éloigne la
 cible de son destin. Cet effet très perturbant inflige à la cible des pénalités
 cumulatives de –2 sur tous les tests de caractéristiques, jets d’attaque,
@@ -343,19 +318,12 @@ dégâts pour chaque point héroïque utilisé pendant que ce sort fait effet.
 <div class="BD">
 {s:BDTitre|Malédiction Funeste|}
 **École** [[Nécromancie]] [[Mal, mort]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3, Sor 3  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V, G, F (poudre d’onyx valant 500 po)  
-
 **Portée** contact  
-
 **Cible** créature vivante touchée  
-
 **Durée** instantanée/1 minute par DV de la cible ; voir la description  
-
 **Jet de sauvegarde** Volonté annule ; **Résistance à la magie** oui  
-
 Le lanceur de sorts prononce une terrible malédiction sur le corps
 d’une créature mourante, ce qui lui permet de consommer son dernier
 souffle de vie. Au cours de l’incantation, il touche une créature vivante

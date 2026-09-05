@@ -15,15 +15,10 @@ Categories:
 ---
 
 **École** [[école Divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Le personnage acquiert une connaissance innée du mécanisme des pièges, ce qui lui permet de bénéficier d’un bonus d’intuition égal à la moitié de son [[NLS|niveau de lanceur de sorts]] (+10 maximum) pour tout test de [[Perception]] visant à trouver les pièges. Il a droit à un test pour remarquer tout piège situé à moins de trois mètres de lui, même s’il ne les cherche pas activement. Notez que *détection des pièges* ne confère pas la faculté de désamorcer les pièges ainsi découverts.

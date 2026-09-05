@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[branche mirage|mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un prisme de cristal)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** lueurs colorées dans une étendue de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Un groupement de lueurs étincelantes et discordantes parcourt les airs, affectant les créatures situées dans la [[zone deffet|zone d’effet]]. Le sort peut affecter un nombre total de [[dés de vie]] de créatures égal au [[niveau de lanceur de sorts]] (maximum 20). Les créatures possédant le moins de [[DV]] sont les premières affectées. En cas d’égalité, les plus proches du point d’origine sont atteintes en priorité. Le sort affecte chaque sujet selon ses [[dés de vie]] :

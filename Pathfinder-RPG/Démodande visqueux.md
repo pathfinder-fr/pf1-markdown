@@ -50,7 +50,6 @@ Categories:
 
 Les démodandes visqueux sont plus musclés que les démodandes hirsutes, mais ils n’ont pas la souplesse et la
 rapidité de leurs frères goudronneux. Ils ont une tête de grenouille, semblable à celle des démodandes hirsutes, mais leurs yeux toujours en mouvement leur donnent un air plus sauvage. Le démodande visqueux mesure 1,80 mètre et pèse 250 kilos.  
-
 Les démodandes visqueux servent régulièrement de troupes d’assaut dans les armées démodandes, mais on leur confie souvent la responsabilité du regroupement et de la garde des esclaves. Les démodandes visqueux n’ont aucun pouvoir magique de contrôle de l’esprit mais ils préfèrent de toute façon recourir à l’intimidation et aux menaces physiques
 pour encadrer les esclaves et s’en faire obéir.
 </div></td></tr></table>

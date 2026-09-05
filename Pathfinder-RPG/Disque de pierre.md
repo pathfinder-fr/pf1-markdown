@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[[</nowiki>terre<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une pincée de terre ou de métal)  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un ou plusieurs disques de pierre  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage crée un disque de pierre qui vole en direction d’un ennemi. Il peut créer un disque, puis un de plus aux niveaux de lanceur 7 et 11. Pour chaque disque qu’il crée, il décide si son bord est émoussé (infligeant des dégâts contondants) ou acéré (infligeant des dégâts tranchants). Pour toucher et infliger 4d6 points de dégâts, il faut effectuer une attaque à distance avec chaque disque. Il est possible de lancer les disques sur plus d’une cible, mais aucune cible ne doit se trouver à plus de 9 mètres (6 {s:c}) des autres et les disques doivent être lancés simultanément.

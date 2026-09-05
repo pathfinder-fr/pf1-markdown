@@ -12,15 +12,10 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Le [[prêtre]] fait appel à la puissance divine pour devenir un combattant plus redoutable. Il gagne un bonus de chance de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts, aux tests de [[Force]] et de compétences basées sur la [[Force]], et ce pour chaque tranche de trois [[NLS|niveaux de lanceur de sorts]] (+6 au maximum). Il gagne aussi 1 point de vie temporaire par [[NLS|niveau de lanceur de sorts]]. Quand le personnage porte une [[attaque à outrance]], il a droit à une attaque supplémentaire (avec son [[BBA|bonus de base à l’attaque]] maximal et les modificateurs appropriés). Cette attaque supplémentaire ne se cumule pas avec des effets semblables comme *[[rapidité]]* ou les [[rapide (propriété)|armes rapide]].

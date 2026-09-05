@@ -18,15 +18,10 @@ Categories:
 **École** [[Transmutation]]  <nowiki>[</nowiki>[[Créer un sort#TERRE|terre]]<nowiki>]</nowiki> ;
 **Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3</br>
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)  
-
 **Effet** une nuée de pierres  
-
 **Durée** [[concentration]] + 2 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** [[Résistance à la magie (capacité)|Oui]]
 
 Le lanceur de sorts anime une zone de débris, de graviers ou autres

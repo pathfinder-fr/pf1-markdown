@@ -15,19 +15,12 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[instantanée]]  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage pousse la cible à se laisser obnubiler par son importance, ses talents et ses capacités de séduction. Elle ne peut pas s’empêcher de se contempler dans toutes les surfaces réfléchissantes qu’elle croise. En société, elle essaye toujours de faire un commentaire sur sa propre beauté ou sur la laideur de quelqu’un comparé à elle. La cible reste constamment distraite, elle cherche toujours une surface où se mirer (un miroir, un bassin d’eau claire, un bouclier poli, etc.) ce qui lui donne un malus de -2 aux [[test de compétence|tests de compétence]]. Au combat, la cible s’inquiète à l’idée que les ennemis abîment sa plastique et elle se concentre plus sur la défense que sur l’attaque (elle lance des sorts défensifs plutôt qu’offensifs et privilégie le [[combat sur la défensive]] ou la [[défense totale]], etc.).

@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#19|→]] *Négation de l’invisibilité* : Fonctionne-t-il sur les créatures naturellement invisibles ?***

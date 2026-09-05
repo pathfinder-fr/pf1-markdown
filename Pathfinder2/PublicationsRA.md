@@ -22,9 +22,7 @@ LastModified: 2024-08-13 15:56
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2113_180.png|Rage of Elements}
 Consumez comme le soleil ! Fracassez comme les vagues ! Tonnez comme une avalanche !  
-
 Saisissez l'écrasante puissante des forces les plus primordiales de la nature avec Rage of Elements, un supplément de règles de 224 pages pour le jeu de rôle Pathfinder qui s'intéresse aux composantes fondamentales de la réalité !  
-
 Les éléments sont sous votre contrôle avec la toute nouvelle classe de kinétiste, qui ajoute à Pathfinder l'un des types de héros les plus populaires de la littérature médiévale-fantastique. Les nouveaux sorts élémentaires et l'équipement offrent des tonnes de nouvelles options liées aux éléments pour toutes les classes, et des articles détaillés présentent un aperçu des majestueux plans Élémentaires, y compris deux nouveaux : le plan du Métal, un plan qui se désagrège petit à petit, et les vastes forêts ordonnées du plan du Bois. Un épais bestiaire ajoute des douzaines de créatures liées aux éléments pour peupler ces régions étranges ou pour égayer même les plus ternes des donjons du plan Matériel.
 
 Date de sortie US : 08/2023
@@ -66,19 +64,12 @@ Date de sortie US : 07/2022
 Ce livre révèle les secrets des trésors étincelants d'un dragon terrifiant, le tout présenté par le brave assistant kobold de ce dragon. Ce livre de règles à couverture cartonnée de 224 pages présente un catalogue de nouvel équipement allant de quasiment toutes les catégories d'ustensiles et d'objets magiques disponibles dans le système de Pathfinder RPG jusqu'à de toutes nouvelles catégories d'objets. Équipez votre personnage avec l'outil parfait en matière d'armes uniques, de reliques personnalisables et d'objets merveilleux pour répondre à chacun de vos besoins tout en vous préparant pour toutes les circonstances avec des potions, des élixirs, des baguettes et plus encore !
 
 Chacune des salles au trésor du dragon contient une montagne d'objets précieux, qu'il s'agisse d'armes mortelles ou d'armures oubliées en passant par des objets alchimiques et des poisons létaux. Il y en a pour tout le monde, y compris :  
-
 • quasiment 600 nouveaux objets répartis à travers plusieurs catégories,  
-
 • plus de 50 nouvelles armes (comme le brise-terre dévastateur ou la falcata mordante),  
-
 • de nouveaux boucliers et de nouvelles armures (de plastrons en bois pour les druides aux boucliers magiques en matières provenant des étoiles, qui vous transforment en des comètes vivantes!),  
-
 • un chapitre entier sur l'alchimie étendue avec plus de 100 nouveaux objets alchimiques (allant des pilules de soin aux lance-flamme),  
-
 • de nouveaux objets magiques de toutes les formes et de toutes les tailles, des tatouages magiques aux artéfacts comme la puissante coutille de la déesse Shélyn, le Murmure des Âmes,  
-
 • un chapitre entier de nouvelles règles étendues et de variantes pour l'artisanat,  
-
 • et de nouvelles catégories d'objets qui vous confèrent des pouvoirs mais avec un coût qui peut s'avérer dangereux.
 
 Date de sortie US : 02/2023

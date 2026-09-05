@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[divination]]  ; **Niveau** [[barde]] 6, [[prêtre]] 6, [[druide]] 6, [[inquisiteur]] 6, [[sorcière]] 6  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*
 
 Le lanceur de cet effet peut nommer n’importe quel endroit qu’il a visité ou n’importe quel objet qu’il a eu en main auparavant. Pour toute la durée du sort, il connaît toujours la direction dans laquelle se trouve l’endroit ou de l’objet. Le sort indique toujours la direction la plus rapide et le guide à la perfection à travers les labyrinthes ou

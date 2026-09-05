@@ -18,7 +18,6 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G, FD]]
 **Portée** [[Présentation des sorts#PORTEE|contact]]

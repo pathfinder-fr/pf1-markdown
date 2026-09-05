@@ -16,17 +16,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature/3 [[niveau|niveaux]], situées à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** concentration + 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
 
 Le sang des cibles commence à bouillir. Si une cible rate son [[jet de sauvegarde]], elle reçoit 1 point de dégâts de feu par [[round]]. Ce sort n’a aucun effet sur les cibles qui n’ont pas de sang.

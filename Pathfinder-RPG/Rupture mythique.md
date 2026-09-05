@@ -17,17 +17,11 @@ Categories:
 
 {s:CMy}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 2, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 action simple  
-
 **Composantes** V, G  
-
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature  
-
 **Durée** permanent  
-
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 Le personnage restreint l’accès de la cible à son [[pouvoir mythique]]. Chaque fois que la cible tente de lancer un [[sort mythique]], de dépenser du [[pouvoir mythique]] pour activer une [[aptitude de voie]] ou d’utiliser un effet qui nécessite la dépense de [[pouvoir mythique]], elle doit effectuer un jet de [[Volonté]] contre le DD de ce sort. Si elle rate son jet de sauvegarde, la créature perd son action et l’aptitude qu’elle tentait d’utiliser ne produit aucun effet.

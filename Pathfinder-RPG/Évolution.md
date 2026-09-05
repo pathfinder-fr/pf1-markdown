@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ; ** Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une écaille de caméléon)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** l'[[eidolon]] du personnage  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
 Ce sort permet à l'[[eidolon]] du personnage de revêtir de nouvelles caractéristiques. Il donne à son [[eidolon]] toute [[eidolon#EVOLUTIONS|évolution]] dont le coût n'excède pas 4 [[eidolon|points d'évolution]]. Le personnage ne peut accorder qu'une [[eidolon#EVOLUTIONS|évolution]] à son [[eidolon]] à l'aide de ce sort, même si elle peut être prise à plusieurs reprises. Le personnage peut donner une [[eidolon#EVOLUTIONS|évolution]] qui lui permet de dépenser des [[eidolon#EVOLUTIONS|points d'évolution]] supplémentaires pour l'améliorer. On ne peut pas utiliser ce sort pour améliorer une [[eidolon#EVOLUTIONS|évolution]] que l'[[eidolon]] possède déjà. Ce dernier doit remplir les conditions requises par l'[[eidolon#EVOLUTIONS|évolution]] choisie. Ce sort ne permet pas à un [[eidolon]] d'augmenter son nombre d'[[attaque naturelle|attaques naturelles]].

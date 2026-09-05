@@ -50,12 +50,9 @@ Categories:
 
 Les démons coloxes, également connus sous le nom de démons-mouches, ressemblent à des humains avec une tête de mouche et une paire d’ailes très fines. Le moindre de leur mouvement semble empreint d’une vivacité et d’une vigilance
 démente. Le coloxe aime porter des vêtements et des bijoux somptueux qui rivalisent avec ceux des nobles les plus riches de n’importe quelle race. Le coloxe mesure 1,80 mètre et pèse 75 kilos.  
-
 Assez ironiquement, étant donné leur grotesque apparence d’insecte, les coloxes sont des démons de la vanité. Ils naissent des âmes des mortels narcissiques qui, dans leur égocentrisme insouciant, se rendent responsables de désastres ou de tragédies.  
-
 Malgré leur apparence répugnante, ces démons se considèrent comme membres d’une élite cultivée. Ils sont exceptionnellement patients et galants pour des démons et, de ce fait, servent souvent d’émissaires, de diplomates
 ou de négociateurs pour les généraux mariliths, les balors, et même pour les seigneurs démoniaques. Les coloxes demeurent un exemple de courtoisie, même lorsqu’ils font face à des ennemis haïs, mais leurs manières sont toujours une façade trompeuse qui masque leurs efforts pour prendre l’ascendant.  
-
 Les lanceurs de sorts mortels maléfiques adorent invoquer les démons coloxes pour tenir ce genre de rôles, mais ces
 monstres font également de très bons assassins. Même ainsi, le coloxe reste une créature digne et polie. Ce démon normalement civilisé ne révèle sa véritable nature démoniaque que lorsqu’il est mis face à un reflet de lui-même : toute créature assez insensée pour piéger un coloxe et l’amener à se regarder dans un miroir devient un éternel ennemi aux yeux du démon offensé et scandalisé.
 </div></td></tr></table>

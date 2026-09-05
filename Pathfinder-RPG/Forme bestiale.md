@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[alchimiste]] 4, [[druide]] 4, [[ensorceleur]]/[[magicien]] 4, [[magus]] 4, [[sorcière]] 4  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restrictions de cible** *[[personnel (mot de pouvoir)|personnel]]*
 
 Cet effet fonctionne de la même manière que *[[forme altérée]]* sauf que la cible reçoit un bonus de taille de +4 à la [[Force]] et qu’elle peut choisir trois avantages. En plus de ceux disponibles pour *[[forme altérée]]*, la cible peut choisir parmi les avantages suivants : vitesse de vol 9 mètres (6 {s:c}) (manœuvrabilité moyenne), [[étreinte (capacité)|étreinte]] (avec n'importe quelle attaque d'arme naturelle), [[bond (capacité)|bond]], [[croc-en-jambe (capacité)|croc-en-jambe]] (avec n'importe quelle attaque d'arme naturelle) ou bonus d’armure naturelle de +4.

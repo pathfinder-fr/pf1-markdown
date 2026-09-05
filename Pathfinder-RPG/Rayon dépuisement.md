@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte de sueur)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** [[rayon]]  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; **Résistance à la magie** oui
 
 Un rayon noir jaillit du doigt tendu du personnage qui doit réussir une ([[attaque de contact à distance]]) pour toucher sa cible.

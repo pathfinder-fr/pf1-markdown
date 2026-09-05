@@ -5,7 +5,6 @@ LastModified: 2023-04-10 13:55
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 <div class="blocPF2">

@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[charme]]) <nowiki>[</nowiki>[[registre|langage]], [[registre|mental]], [[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cibles** nombre illimité de créatures  
-
 **Durée** jusqu’à 1 heure  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Si le personnage est parvenu à attirer l’attention d’un groupe de créatures, il peut utiliser ce sort pour les captiver. Pour lancer ce sort, il doit chanter ou parler sans interruption pendant 1 [[round]] entier. Après cela, les individus affectés boivent ses paroles et n’ont plus d’yeux que pour lui, de sorte qu’ils en oublient tout ce qui les entoure. Pendant toute la durée du sort, on considère qu’ils se montrent amicaux envers le personnage. Les créatures de race ou de religion opposée à celle du personnage bénéficient d’un bonus de +4 à leur [[jet de sauvegarde]].

@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** une arme de corps à corps  
-
 **Durée** 1 [[round]]/[[niveau]] (voir texte)  
-
 **Jet de sauvegarde** [[vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui (objet)
 
 L’arme de la cible s’enveloppe de flammes qui ne blessent pas son propriétaire et ne l’endommagent pas. Quand elle touche, elle inflige 1d4 points de dégâts de feu de plus. Ces dégâts ne se multiplient pas en cas de [[coup critique]]. L’effet se termine immédiatement si l’arme est immergée. L’effet ne se cumule pas avec les propriétés *[[feu (propriété)|de feu]]* ou *[[feu intense (propriété)|de feu intense]]*, ni avec tout autre effet qui accorde des dégâts de feu supplémentaires à une arme. Le sort ne fonctionne pas sur une arme *[[froid (propriété)|de froid]]* ou *[[froid intense (propriété)|de froid intense]]* ni sur une arme qui inflige des dégâts supplémentaires de froid.

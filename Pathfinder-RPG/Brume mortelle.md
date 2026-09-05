@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** nuage couvrant une étendue de 6 m (4 {s:c}) de côté et de 6 m de haut  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; **Résistance à la magie** non
 
 Ce sort génère une nappe de brouillard similaire à celle créée par *[[brouillard dense]]*, sauf que ses volutes sont d’une inquiétante couleur vert jaune et hautement toxiques. Toute créature vivante de 3 [[DV]] ou moins les respirant meurt aussitôt (sans [[jet de sauvegarde]]), tandis que celles qui ont entre 4 et 6 [[DV]] doivent réussir un jet de [[Vigueur]] si elles ne veulent pas connaître le même sort (auquel cas elles subissent tout de même un [[affaiblissement temporaire]] de 1d4 points de [[Constitution]] par [[round]] passé dans la brume).

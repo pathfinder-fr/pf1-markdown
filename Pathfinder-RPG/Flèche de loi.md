@@ -9,17 +9,11 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Loi]]<nowiki>]</nowiki> ; **Niveau**  [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]] (un symbole sacré)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** projectile en forme de flèche fait d'énergie loyale  
-
 **Durée** [[instantanée]] (1 [[round]]); voir texte  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte); **Résistance à la magie** oui
 
 Une flèche d'ordre pur fuse du symbole du personnage vers une cible à portée, grâce à une [[attaque de contact à distance]]. Toute créature Chaotique touchée par la flèche reçoit 1d8 points de dégâts par tranche de deux [[niveau|niveaux]] de lanceurs de sorts (5d8 au maximum). Un extérieur Chaotique reçoit 1d6 points de dégâts par [[niveau]] de lanceur de sorts (10d6 au maximum) et il est [[hébété]] pendant 1 round. Jet de volonté 1/2 dégâts et annule [[hébété|l'hébètement]]. Ce sort inflige la moitié des dégâts aux créatures qui ne sont ni chaotique ni loyales et ne les [[hébété|hébète]] pas. La flèche n'a aucun effet sur une créature loyale.

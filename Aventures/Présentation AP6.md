@@ -24,55 +24,43 @@ Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux lien
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9031_120.jpeg|http://paizo.com/products/btpy88wf}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/163_Pathfinder_31.jpg|https://www.black-book-editions.fr/produit.php?id=108}
 {s:BookComment|**Niveau 1**  
-
 Pénétrez dans les Terres Volées, une contrée sauvage pour laquelle des nobles, des bandits et des bêtes s'entre-déchirent. C'est sur ces terres que le pays divisé du Brévoy a envoyé des émissaires chargés de prendre le contrôle de ces individus sans loi et des créatures mortelles qui en ont fait un lieu sauvage et honteux. Derrière la frontière escarpée s'étend un pays abritant des monstres voraces, des fées capricieuses, des locaux rusés et des bandits soumis aux ordres d'un seigneur que personne n'ose défier. Les PJ parviendront-ils à survivre aux Terres Volées, à écraser les dangers qui y sont tapis et à établir les fondements d'un nouveau royaume ? Ou ne seront-ils qu'un groupe de plus dans la liste de ceux qui se sont perdus à tout jamais dans ces étendues sauvages et voraces ?  
   
-
 **Articles :** le pays du [[Golarion.Brévoy|Brévoy]], des règles pour l'exploration et la conquête d'un nouveau royaume}
 {s:BookTitle|AP6-2|Rivers Run Red/Quand les rivières se teintent de rouge}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9032_120.jpeg|http://paizo.com/products/btpy88wg}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/211_Pathfinder_32_Quand_les_rivieres_se_teintent_de_ro.jpg|https://www.black-book-editions.fr/produit.php?id=110}
 {s:BookComment|**Niveau 4**  
-
 Le coeur des Terres Volées a été exploré et les bandits qui y régnaient ont été dispersés. Ce royaume que de nombreuses personnes se sont déchiré est enfin ouvert aux pionniers et aux colons qui veulent s'en approprier. Avec le flot des nombreux voyageurs qui profitent de l'occasion, les PJ se retrouvent chargés de régenter un nouveau domaine. Ils doivent guider et protéger cette nation naissante qui tente tant bien que mal de croître près d'une frontière dangereuse. Mais les menaces qui pèsent sur ce nouveau pays sont bien plus dangereuses que de simples animaux sauvages et bandits, car les habitants monstrueux des collines et des forêts s'avancent pour terrasser tous ceux qui ont pénétré sur leur territoire; Les PJs peuvent-ils protéger ces terres qu'ils ont explorées et domptées avec tant de peine ? Ou leur histoire disparaîtra-t-elle sous les crocs des Terres Dérobées ?  
   
-
 **Articles :** règles pour gouverner des villes et des nations, le dieu [[Golarion.Érastil|Érastil]]}
 {s:BookTitle|AP6-3|The Varnhold Vanishing/Les disparus de Varnhold}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9033_120.jpeg|http://paizo.com/products/btpy88wh}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/215_Pathfinder_33_Les_DIsparus_de_Varnhold.jpg|https://www.black-book-editions.fr/produit.php?id=126}
 {s:BookComment|**Niveau 7**  
-
 Tout est sur le point d'exploser. Alors que la guerre contre les rois bandits des Royaumes Fluviaux dégénère, le jeune royaume du Varnhold situé à l'est des terres des héros ne donne plus signe de vie. Une enquête révèle que quelque chose de terrible s'en est emparé, annihilant toute trace de vie dans toute une ville sans laisser aucun signe de violence. Quelle terrible influence provenant des terres sauvages à l'est des Royaumes Fluviaux est donc responsable pour la disparition du Varnhold ?  
   
-
 **Articles :** plaines à l'est de la région de la mer Intérieure, les ruines du royaume de l'Iobarie dirigées aujourd'hui par de sombres druides, des barbares sauvages, des tribus de centaures et un danger ancien qui continue encore de hanter ces royaumes aujourd'hui.}
 {s:BookTitle|AP6-4|Blood for Blood/Le Prix du sang}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9034_120.jpeg|http://paizo.com/products/btpy8b7w}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/216_Pathfinder_34_Le_Prix_du_sang.jpg|https://www.black-book-editions.fr/produit.php?id=130}
 {s:BookComment|**Niveau 10**  
-
 Les héros se sont emparés des Terres Volées après avoir vaincu des seigneurs de guerre locaux et construit une nation sur une terre sauvage. Mais des ennemis inattendus lancent soudainement une attaque à l'ouest, ce qui suggère que des menaces encore plus grandes attendent au-delà des frontières de la nation naissante. Des tribus de barbares, des armées hétéroclites de bandits et même un soulèvement de bourbiérins brutaux s'amassent pour la guerre, se pourléchant déjà les babines à l'idée de s'emparer des possessions que les PJ ont si durement acquises. Les bourbiérins parlent à voix basse d'un tombeau caché au coeur des Terres Volées et de l'appétit insatiable des barbares de l'ouest qui voudraient mettre à jour un puissant artéfact caché là-bas afin de mener à terme leurs propres plans. Les héros peuvent-ils protéger leur nation si durement acquises tout en faisant face aux dangers venus de l'ouest ?  
   
-
 **Articles :** écologie et société des bourbiérins, trésors et reliques les mieux cachés des Terres volées}
 {s:BookTitle|AP6-5|War of the River Kings/La guerre des rois du fleuve}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9035_120.jpeg|http://paizo.com/products/btpy8b7u}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/245_Pathfinder_35_La_Guerre_des_rois_du_fleuve.jpg|https://www.black-book-editions.fr/produit.php?id=136}
 {s:BookComment|**Niveau 13**  
-
 La Guerre des rois fluviaux bat son plein à travers les Terres Volées, opposant les forces des héros à une alliance de barbares, de rois bandits et de créatures féeriques sinistres. Les Terres Volées ne peuvent avoir qu'un seul dirigeant et ce dirigeant doit prouver qu'il mérite ce poste sur le champ de bataille.  
   
-
 **Articles :** règles pour les combats de masse, la ville de Pitax, le dieu [[Golarion.Gorum|Gorum]]}
 {s:BookTitle|AP6-6|Sound of a Thousand Screams/Un millier de hurlements}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9036_120.jpeg|http://paizo.com/products/btpy8b7x}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/244_Pathfinder_36.jpg|https://www.black-book-editions.fr/produit.php?id=144}
 {s:BookComment|**Niveau 16**  
-
 Les héros se sont emparé de la ville de bandits de Pitax afin de consolider leur prise sur la jeune nation des Terres Volées. Mais si un ennemi a été vaincu, les plus puissants sont encore là ! Des saboteurs infiltrés restent encore tapis dans les ruelles sombres de Pitax. Et consolider leur prise sur les Terres Volées devient le moindre de leurs soucis lorsque soudainement des créatures brutales et mortelles venues du Monde Premier des fées apparaissent à travers le pays. Lors de la conclusion de cette campagne, les PJ devront faire face à un ennemi impatient d'abattre sur Golarion la terrible fureur de ce royaume étrange et violent.  
   
-
 **Articles :** expansion du royaume après la campagne, le Monde Premier}
 {s:BookTitle|AP6-7|Pathfinder Dice Set: Kingmaker/Set de dés : Kingmaker}
 {s:BookPic|http://paizo.com/image/product/catalog/QWS/QWSSPAT34_500.jpeg|http://paizo.com/products/btpy8hwg}

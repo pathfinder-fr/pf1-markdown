@@ -42,16 +42,12 @@ LastModified: 2021-04-11 10:46
 Peut-être les moins léonins de tous les sphinx, les criosphinx à tête de bélier n’ont pas l’intelligence des
 androsphinx et des gynosphinx mais sont tout de même plus futés que les hiéracosphinx. Comme ces derniers et comme les androsphinx, les criosphinx sont toujours des mâles. Lorsqu’un combat commence, le criosphinx baisse la tête pour
 foncer cornes en tête sur ses ennemis, les griffant une fois au corps à corps. Mais il préfère fondre sur ses adversaires depuis de hautes altitudes.  
-
 Les criosphinx convoitent les richesses plus que toute autre chose, extorquant généralement un tribut à quiconque traverse leur territoire en échange de leur sécurité. Les groupes qui ne peuvent pas payer doivent céder un des leurs ou deux de leurs montures qui lui serviront de repas, les voyageurs solitaires doivent se battre ou mourir.  
-
 Contrairement aux gynosphinx, les simples énigmes ne suffisent pas au criosphinx, seul l’éclat du métal ou le
 scintillement des joyaux le satisfait. Il n’y a pas grand-chose qui puisse convaincre un criosphinx de se séparer d’une seule pièce, sauf le désir que cette espèce éprouve pour les gynosphinx. Par-dessus tout, les criosphinx cherchent à s’accoupler avec les gynosphinx et peuvent de montrer très généreux en échange d’informations sur leur localisation ou, mieux encore, en échange d’une énigme bien pensée qui pourrait les impressionner. Pour leur part, les gynosphinx préfèrent ne pas avoir affaire à ces créatures dont elles se moquent, les voyant comme les brebis galeuses des sphinx, mais elles s’abaissent parfois à accepter un bref rendez-vous secret dans les très rares cas où un criosphinx parvient à les impressionner avec ses richesses ou son esprit.  
-
 Certains criosphinx s’installent dans le désert comme diseurs de bonne aventure, profitant de la sagesse légendaire
 des androsphinx et des gynosphinx pour tromper des voyageurs crédules. Comme leurs frères colériques, ils cherchent à dépouiller les voyageurs de leurs richesses mais en échange d’informations et non contre un droit de passage. Ils glanent généralement leurs informations sûres lors de conversations anodines avec les créatures du désert, les criosphinx utilisant leur capacité innée de communication avec les animaux. Un criosphinx manquant d’informations
 valables imagine souvent d’agréables mensonges.  
-
 Les criosphinx détestent les hiéracosphinx et les considèrent comme de simples bêtes, comme un symbole de disgrâce pour leur noble race. Ils font fuir leurs cousins à tête de faucon en faisant mine de les charger et en se mettant
 en position de combat avant de passer à de véritables attaques si les hiéracosphinx les ignorent. Ils regardent les androsphinx avec un mélange de peur et de respect et les gynosphinx avec envie et dédain.
 </div></td></tr></table>

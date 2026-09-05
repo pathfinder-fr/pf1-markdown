@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 4, [[Occultiste|Occ]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 objet ferreux non-magique (ou une partie seulement, jusqu’à 90 cm du point de contact) ou 1 créature ferreuse  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage peut faire rouiller le métal d’un simple contact. Tout métal ferrugineux (fer ou alliage à base de fer) qu’il touche s’oxyde immédiatement : il perd son tranchant, se troue en divers endroits et devient inutile. Si l’objet touché est particulièrement grand (par exemple une porte ou un mur de fer), le sort l’affecte seulement jusqu’à 90 cm du point de contact (tout le volume compris à moins d’un mètre de la main du personnage est détruit). Les métaux magiques sont immunisés contre rouille.

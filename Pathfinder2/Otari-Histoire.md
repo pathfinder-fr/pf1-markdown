@@ -5,7 +5,6 @@ LastModified: 2023-04-27 17:38
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[OTARI|Retour à la page sur Otari]]
 
 ---

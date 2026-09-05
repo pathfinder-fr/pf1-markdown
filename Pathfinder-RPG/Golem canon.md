@@ -55,6 +55,5 @@ Les rouages internes du golem canon sont un labyrinthe mécanique  : ses compart
 Le golem canon est un assemblage de 2 tonnes d’adamantium, de cuivre, de fer froid et de mithral.
 
 **NLS** 17<sup>e</sup> ; **Prix** 200 000 po  
-
 **Conditions** [[Création de créatures artificielles]], *[[quête]]*, *[[souhait limité]]*, *[[changement de plan]]* ou *[[coffre secret]]*, le créateur doit avoir un niveau de lanceur de sorts minimum de 17 ; **Compétence** [[Artisanat]] (engins de siège) et [[Connaissances]] (ingénierie) [[DD]] 25 ; **Coût** 105 000 po
 </div></td></tr></table>

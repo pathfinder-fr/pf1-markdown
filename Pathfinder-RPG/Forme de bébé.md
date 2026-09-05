@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une poupée de chiffon)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un animal  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (et [[Volonté]], spécial, voir texte) ; **Résistance à la magie** oui
 
 Le personnage transforme l’animal cible en [[type créature magique|créature magique]] de [[taille P]] (ou une créature magique d'une catégorie de taille inférieure à celle de la créature originale, selon la plus petite), ce qui le rajeunit pendant un bref laps de temps. Sous cette forme, la cible a seulement 1 [[DV]] (avec le maximum de points de vie) et elle subit un malus de -4 à la [[Force]], la [[Constitution]], l’[[Intelligence]] et la [[Sagesse]] (1 au minimum). La créature gagne aussi un bonus de taille de +4 à la [[Dextérité]] et de +2 à l’armure naturelle.

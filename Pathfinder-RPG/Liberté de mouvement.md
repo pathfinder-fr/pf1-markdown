@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 4, [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une lanière de cuir attachée à la cible)[[composantes|, FD]]  
-
 **Portée** [[personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** le jeteur de sorts ou créature touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort permet au personnage ou à la créature ciblé de se déplacer et de combattre normalement, même si elle subit les effets d’un sort ou d’une magie qui réduit ses déplacements (comme les sorts de *[[brouillard dense]]*, *[[lenteur]]*, *[[toile daraignée|toile d’araignée]]* ou à cause de la [[paralysé|paralysie]]). Toutes les [[manœuvres offensives]] qui visent à agripper la cible échouent automatiquement et elle réussit forcément tous ses tests de [[manœuvres offensives]] et d’[[Évasion]] destinés à échapper à une [[lutte]] ou une [[immobilisé|immobilisation]].

@@ -10,17 +10,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature artificielle touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui (inoffensif)
 
 La créature artificielle visée gagne la guérison accélérée 5. Elle ne se cumule pas avec une guérison accélérée qu’elle pourrait avoir par ailleurs. La guérison rapide n’a aucun effet sur une créature artificielle à 0 point de vie ou qui est détruite.

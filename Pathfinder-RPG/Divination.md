@@ -14,15 +14,10 @@ Categories:
 
 {s:Desambi|Divination est également une [[Présentation des sorts#DIVINATION|école de sorts]] et une [[Divination (école)|école de magie]] pour magiciens.}
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (encens et offrande appropriée d’une valeur de 25 po)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[instantanée]]
 
 Ce sort est une version plus puissante d’*[[augure]]* qui permet de recueillir un indice important en rapport avec une question relative à un objectif, un événement ou une activité devant se produire dans la semaine à venir. Le conseil se présente sous la forme d’une simple phrase ou, à l’inverse, comme un poème ou une prédiction difficile à décoder. Notez que si les [[PJ|PJs]] n’utilisent pas immédiatement l’information dévoilée par ce sort, il est possible que celle-ci devienne caduque. Le personnage a 70 % + 1 % par [[NLS|niveau de lanceur de sorts]] du [[prêtre]] (90% maximum) de chances d’obtenir une réponse exacte. En cas d’échec à ce jet, le lanceur de sort sait instinctivement que le sort n’a pas fonctionné, à moins qu’il ne soit trompé par un sort visant à lui fournir des informations erronées.

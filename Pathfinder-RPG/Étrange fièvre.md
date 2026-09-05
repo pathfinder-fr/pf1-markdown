@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]], [[registre|maladie]], [[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible est atteinte de la [[Plaies|plaie magique]] [[Description des plaies magiques|étrange fièvre]].

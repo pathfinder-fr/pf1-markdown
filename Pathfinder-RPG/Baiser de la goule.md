@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]] *(aspect de puanteur seulement)*<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sanguin|San]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (un morceau de vêtement appartenant à une goule ou une poignée de terre venant de son antre)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** [[type humanoïde|humanoïde]] vivant touché  
-
 **Durée** 1d6+2 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort transmet au mage un flot d’[[énergie négative]] qui lui permet de paralyser pendant la durée du sort le premier [[type humanoïde|humanoïde]] qu’il touche avec une [[attaque de contact au corps à corps]].

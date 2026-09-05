@@ -9,10 +9,8 @@ Categories:
 
 
 <div class="fright">***Voir aussi les [[connexions]].***  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo"

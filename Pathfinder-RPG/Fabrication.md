@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** voir description  
-
 **Composantes** [[composantes|V, G, M]] (les matériaux originels, qui coûtent le même prix que les matériaux bruts nécessaires à la fabrication de l’objet)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** jusqu’à 0,3 m³/[[niveau]] (voir description)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#10|→]] *Fabrication* : Puis-je utiliser ce sort pour fabriquer un objet de maître ou un objet fait d’un matériau spécial ?***

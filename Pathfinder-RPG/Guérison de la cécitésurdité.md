@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort soigne la [[aveuglé|cécité]] ou la [[assourdi|surdité]] (au choix du personnage), qu’elle soit d’origine naturelle ou magique. Il ne rend pas un œil ou une oreille perdu, mais il répare ces organes s’ils ont été endommagés.

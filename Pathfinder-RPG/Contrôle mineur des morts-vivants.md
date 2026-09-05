@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de viande crue ou un éclat d’os)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 [[type mort-vivant|mort-vivant]]  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort permet de contrôler en partie un [[type mort-vivant|mort-vivant]]. Si celui-ci est intelligent, il interprétera toutes les paroles et les actions du personnage de la manière la plus favorable qui soit (son attitude est amicale) et ne l’attaquera pas avant que le sort ne prenne fin. Le [[type mort-vivant|mort-vivant]] peut suivre les instructions du personnage, mais celui-ci doit remporter un test de [[Charisme]] opposé pour convaincre le sujet de faire une chose qui lui déplaît (une seule chance). Un [[type mort-vivant|mort-vivant]] intelligent contrôlé n’obéit jamais à un ordre suicidaire, mais il est possible de le persuader que le jeu en vaut la chandelle.

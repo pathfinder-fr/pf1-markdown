@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] <nowiki>[[</nowiki>terre<nowiki>]]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]   
-
 **Composantes** [[composantes|V, G, M]] (un morceau d’adamantium d’une valeur de 100 po ou un morceau de fer froid ou d’argent d’une valeur de 20 po)   
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])   
-
 **Cible** une arme par niveau   
-
 **Durée** 1 minute/niveau (cf. texte)   
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage dote les armes ciblées des propriétés de l’adamantium, du fer froid ou de l’argent, selon la composante matérielle utilisée, avec les effets suivants.

@@ -17,17 +17,11 @@ Categories:
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}
 **École** [[école divination|Divination]] ;
 **Niveau** [[Druide|Dru]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action complexe]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (bec de chouette)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
 Quand le personnage lance ce sort, il peut glaner des informations auprès de la terre elle-même. Alors qu’il marche dans la nature, elle murmure dans un langage qu’il comprend, mais qui s’avère si décousu qu’il a du mal à discerner les informations utiles. Ces murmures lui donnent un bonus d’intuition de +4 à un unique test de [[Connaissances]] associé au type d’environnement où il se trouve. S’il se trouve dans un environnement froid, un désert, une forêt, une jungle, en montagne, dans une plaine, un marais ou un environnement aquatique, le bonus s’applique aux tests de Connaissances (nature). S’il est dans un environnement souterrain, le bonus s’applique aux tests de Connaissances (exploration souterraine). S’il se trouve dans un environnement urbain, le bonus concerne les tests de Connaissances (folklore local) et s’il est sur un plan autre que le plan Matériel, il s’applique aux tests de Connaissances (plans). Si le personnage quitte un environnement pour un autre, il perd le bonus de l’ancien environnement et gagne celui associé au nouveau.

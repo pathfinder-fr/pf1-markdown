@@ -14,17 +14,11 @@ Categories:
 
 {s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}{s:MR}
 **École** [[Invocation]] ([[création]]) ombre ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** V, G  
-
 **Portée** moyenne (30 m + 3 m/niveau)  (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** un éclair d’énergie ou plus  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]] pour annuler ; voir description ; **Résistance à la magie** oui
 
 Le lanceur de sorts crée un ou plusieurs éclairs d’énergie négative investis d’ombre originaires du plan de l’Ombre.

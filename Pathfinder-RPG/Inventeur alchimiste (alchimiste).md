@@ -243,7 +243,6 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 
 {s:Reference|PACTEALCHIMIQUE}
 *Pacte alchimique (Sur)*. La relation entre un inventeur alchimiste et son homoncule est si étroite que les extraits de l’alchimiste fonctionnent tout aussi bien sur lui que sur son homoncule, ce qui permet à ce dernier de bénéficier des extraits sans que l’alchimiste ait besoin de posséder la découverte d’[[découvertes#INFUSION|infusion]]. L’homoncule est considéré comme un [[type humanoïde|humanoïde]] ou comme une [[type créature artificielle|créature artificielle]], en choisissant le plus avantageux, lorsqu’il s’agit de déterminer quels extraits peuvent l’affecter.  
-
 De plus, chaque jour, l’homoncule peut préparer les extraits de son maître à l’aide de son livre de formules, tant qu’il est à portée du [[Inventeur alchimiste (alchimiste)#CONTACTTÉLÉPATHIQUE|contact télépathique]].
 
 {s:Reference|VISIONDANSLENOIR}

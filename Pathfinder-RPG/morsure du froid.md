@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 L’[[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] du personnage inflige 1d6 points de dégâts de froid [[Blessures et mort#NONLETAL|non létaux]] +1 par [[niveau]] et la cible est [[fatigué|fatiguée]]. Cette condition se dissipe quand la cible a guéri les points de dégâts. Ce sort ne peut pas [[épuisé|épuiser]] une créature, même si elle est déjà [[fatigué|fatiguée]]. Le personnage peut utiliser cette [[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] une fois par [[niveau]].

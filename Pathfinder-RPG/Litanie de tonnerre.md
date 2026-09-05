@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, son]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]] ou plus (voir plus bas)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage fait retentir un fracas de tonnerre aux oreilles de son ennemi qui est [[assourdi|sourd]] jusqu’à ce qu’on le débarrasse de cette condition et [[confus]] pendant 1 [[round]].

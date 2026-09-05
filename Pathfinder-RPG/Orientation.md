@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 3 [[round|rounds]]  
-
 **Composantes** [[composantes|V, G, F]] (un jeu d’objets divinatoires)  
-
 **Portée** [[personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** le jeteur de sorts ou la créature touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le bénéficiaire du sort devient capable de trouver le chemin le plus court pour se rendre en un lieu donné comme une ville, un château, un lac ou un donjon. Sa destination peut se trouver en extérieur ou sous terre tant qu’elle est suffisamment importante : le sort ne permet pas de se rendre à la cabane d’un bûcheron mais il permet d’atteindre un camp de bûcherons. Le sort se base sur les localités, pas sur les créatures ou les objets qui s’y trouvent. L’endroit recherché doit se trouver sur le même plan que le personnage au moment où celui-ci lance le sort.

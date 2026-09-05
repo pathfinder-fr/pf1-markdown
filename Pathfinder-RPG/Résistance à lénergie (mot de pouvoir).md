@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[alchimiste]] 2, [[conjurateur]] 2, [[druide]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[paladin]] 2, [[prêtre]] 2, [[rôdeur]] 1  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
 La cible d’un sort incluant cet effet bénéficie d’une [[résistance (capacité)|résistance]] 10 contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts d’énergie.

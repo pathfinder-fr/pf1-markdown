@@ -6,10 +6,7 @@ LastModified: 2019-11-29 08:53
 
 {s:cs}
 **(Source: Heroes of the street)**  
-
 **Prix** 40 po; **Poids** 5.5 kg  
-
 **Catégorie** Matériel d'aventurier (Kits)  
-
 
 Ce kit inclut un coupe-verre, 5 feuilles de papier glu, un grappin, un sac à dos de maître, et une corde en soie (15m).

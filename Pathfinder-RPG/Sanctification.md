@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 5, [[inquisiteur|Inq]] 5, [[prêtre|Prê]] 5  
-
 **Temps d'incantation** 24 heures  
-
 **Composantes** [[composantes|V, G, M]] (herbes, huiles rares et encens, pour une valeur totale de 1 000 po, plus 1 000 po par [[niveau du sort]] associé), FD  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Zone d'effet** [[émanation]] de 12 m de rayon à partir du point touché  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** voir description
 
 *Sanctification* transforme un site ou bâtiment en lieu sacré, ce qui a quatre effets distincts :

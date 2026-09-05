@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[sorcière]] 2  
-
 **Durée** [[Présentation des sorts#DUREE|Concentration]] , jusqu'à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[cône (mot de pouvoir)|cône]]*
 
 Ce mot permet au lanceur de détecter et de lire les pensées de surface d’une créature située dans la zone d’effet du sort s’il est conscient de sa présence et si elle rate un jet de Volonté. Si elle le réussit, il ne peut pas savoir ce qu’elle pense pendant toute la durée du sort. Si l’[[Intelligence]] de la cible dépasse d’au moins 10 celle du lanceur et qu’elle réussit son jet de [[Volonté]], elle est capable de lire les pensées de surface du personnage pendant toute la durée du sort tandis que ce dernier ne peut rien apprendre. Il peut se concentrer sur une nouvelle créature à chaque [[round]] s’il le souhaite.

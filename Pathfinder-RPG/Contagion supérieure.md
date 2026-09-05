@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]], [[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[contagion]]* mais la victime ne peut pas surmonter la [[maladie]] sans recourir à la magie : même si elle réussit le nombre de [[jet de sauvegarde|jets de sauvegarde]] requis, elle ne guérit pas. Le [[DD]] pour [[dissipation de la magie|dissiper]] la [[maladie]] à l’aide de la magie est égal à celui du [[jet de sauvegarde]] +5.

@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]/1 heure (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le mage doit réussir une [[attaque de contact au corps à corps]] pour que le sort prenne effet. Il inflige alors 1d6 points de dégâts tous les deux [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de 10d6). Le lanceur de sorts gagne autant de [[points de vie temporaires]] qu’il inflige de dégâts. Ces [[points de vie]] ne peuvent toutefois dépasser le nombre actuel de [[points de vie]] de la cible + sa valeur de [[Constitution]] (ce qui peut suffire à la tuer). Les [[points de vie temporaires]] disparaissent au bout d’une heure.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** 1 main spectrale  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Une *main spectrale* prend forme à partir de l’énergie vitale du personnage. Elle se matérialise et se déplace selon les souhaits de son créateur, ce qui lui permet de lancer à distance des sorts de contact de bas niveau. À la fin de l’incantation, le mage perd 1d4 [[points de vie]], qu’il regagne au terme de la durée indiquée ou si la main est [[dissipation de la magie|dissipée]]. Par contre, ces [[points de vie]] restent perdus si la main est détruite (mais on peut les soigner normalement). Tant que le sort persiste, le personnage peut lancer n’importe quel sort de portée « contact » du 4e niveau ou moins par l’intermédiaire de la *main spectrale*, qui lui confère un bonus de +2 au [[jet dattaque|jet d’attaque]] de [[attaque de contact au corps à corps|contact au corps à corps]] (se servir de la main de cette façon constitue une attaque normale). La main se trouve toujours entre l’ennemi et le mage. Si elle s’éloigne trop de ce dernier ou si elle quitte son champ de vision (ou s’il cesse de la contrôler), elle revient flotter à ses côtés.

@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]]; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une [[Tableau récapitulatif des armes|arme]]/3 [[niveau|niveaux]]  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]]  
-
 **Jet de sauvegarde** Volonté ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]); **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Fonctionne comme [[affûtage]] mais affecte plusieurs [[Tableau récapitulatif des armes|armes]] et demande de la [[Présentation des sorts#DUREE|concentration]]. Le personnage choisit les [[Tableau récapitulatif des armes|armes]] qu'il veut affecter et ne peut en améliorer qu'une par créature. Si une [[Tableau récapitulatif des armes|arme]] sort de la zone d'effet du sort, ce dernier se termine pour elle.

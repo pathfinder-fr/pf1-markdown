@@ -16,15 +16,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une potion de force de taureau que le personnage doit boire et dont les effets sont inclus dans le sort)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Cette incantation transforme le mage en machine à tuer : grâce à elle, il devient plus fort, plus rapide et plus efficace au combat. En même temps, son état d’esprit change et il apprécie tant le maniement des armes qu’il devient incapable de faire appel à sa magie, que ce soit à l’aide d’un sort ou d’un objet.

@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible ou zone d'effet** 1 objet magique lié au feu ou 1 cube de 6 m (4 {s:c}) d’arête/[[niveau]] (F)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** non ou oui (objet)
 
 On utilise souvent ce sort pour mettre un terme aux feux de forêt ou aux autres incendies de grande ampleur. Tous les feux de nature non magique situés dans la [[zone deffet|zone d’effet]] sont automatiquement éteints. Le sort peut également dissiper les sorts de feu situés dans la zone mais, pour ce faire, le personnage doit réussir un test dissipation (1d20 + 1 par [[niveau de lanceur de sorts]], avec un maximum de +15) contre chacun des sorts. Le [[DD]] de ces tests de dissipation est de 11 + [[niveau de lanceur de sorts]] de l’effet de feu.

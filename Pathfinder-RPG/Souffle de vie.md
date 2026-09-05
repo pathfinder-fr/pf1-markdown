@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 5, [[Prêtre|Prê]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou [[Présentation des sorts#JETSDESAUVEGARDE|réduit de moitié]] (voir description) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou oui (voir description)
 
 Ce sort soigne 5d8 [[points de vie]] + 1 par [[NLS|niveau de lanceur de sorts]] (maximum +25). Contrairement aux autres sorts de soin, *souffle de vie* peut ramener une créature récemment décédée à la vie. Si le personnage lance ce sort sur une créature morte il y a 1 [[round]], les soins sont pris en compte. Si les [[points de vie]] de la créature atteignent alors une valeur négative supérieure à son total de [[Constitution]], elle revient à la vie et se [[stable|stabilise]] au niveau de ses nouveaux [[points de vie]]. En revanche, si ses [[points de vie]] négatifs sont d’une valeur inférieure à son total de [[Constitution]], la créature reste morte. Les créatures qui reviennent à la vie grâce à ce sort gagnent un [[niveau négatif]] qui se dissipe au bout d’une journée.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une petite sphère de cristal)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cible, effet ou zone d’effet** voir description  
-
 **Durée** instantanée ou 1 [[round]]/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
 *Sphère glaciale* crée un globe d’énergie glacée qui jaillit des mains du personnage et explose dans un [[rayonnement]] de 12 m (8 {s:c})de diamètre, infligeant 1d6 points de dégâts de froid par [[NLS|niveau de lanceur de sorts]] (15d6 maximum) aux créatures situées dans la zone. Les créatures [[élémentaire de lEau|élémentaires de l’Eau]] subissent 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (maximum 15d8) et sont ralenties pendant 1d4 rounds.

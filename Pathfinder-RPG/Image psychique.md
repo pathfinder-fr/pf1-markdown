@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[psychiste|Psy]] 9   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[courte|longue]] (120 m + 12 m/niveau)  
-
 **Effet **un double d’ombre  
-
 **Durée** 1 [[round]]/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d'interaction) ; **Résistance à la magie** oui
 
 Le personnage enveloppe sa conscience dans une image quasi réelle de lui. Elle a la même apparence, fait les mêmes bruits et dégage la même odeur mais elle est [[États préjudiciables#Intangible|intangible]]. Tant que l’esprit du personnage occupe l’image, il la contrôle comme si c’était son propre corps mais il ne peut pas s’en servir pour affecter directement des objets solides. L’image se déplace à une vitesse de vol de 18 mètres avec une manœuvrabilité parfaite. Les sens du personnage perçoivent uniquement ce que l’image voit et entend tant que son esprit l’occupe, son propre corps étant considéré comme [[États%20préjudiciables.ashx#Aveuglé|aveugle]], [[États%20préjudiciables.ashx#Assourdi|sourd]] et [[États%20préjudiciables.ashx#Sansdéfense|sans défense]]. L’esprit du personnage peut passer de son corps à son image ou inversement par une [[action rapide]]. Tant que son esprit occupe son corps, son image est [[États%20préjudiciables.ashx#Sansdéfense|sans défense]].

@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|chaos]], [[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** 12 m  
-
 **Zone d'effet** créatures non-Chaotiques situées dans une [[étendue]] de 12 m de rayon centrée sur le prêtre  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Toutes les créatures non-Chaotiques situées dans la zone de la *parole du Chaos* et qui l’entendent sont victimes des effets suivants.

@@ -47,7 +47,6 @@ Categories:
 
 Les démodandes goudronneux sont souples et minces à côté des autres démodandes. En dépit de cette différence, tous
 les démodandes goudronneux restent forts et agiles. Même si leurs ailes de chauve-souris semblent en lambeaux et inutiles, ils peuvent toujours voler. Le démodande goudronneux mesure 2,10 mètre et pèse 200 kilos.  
-
 Les démodandes goudronneux sont les fantassins des armées démodandes : élevés pour la guerre, ces créatures rapides et
 mortelles constituent l’essentiel des légions démodandes. Le fait qu’ils soient eux-mêmes plus forts que la plupart des extérieurs témoigne de la puissance de leur race. Un démodande goudronneux seul est déjà un adversaire redoutable alors ne parlons pas de la puissance de groupes entiers. Bien qu’ils soient très forts, ils préfèrent manier des armes légères, une dans chaque main. Ils utilisent rarement les armes lourdes, seulement lorsque leurs supérieurs le leur ordonnent directement. Ils n’ont pas les griffes redoutables des autres démodandes, et un goudronneux sans arme a tendance à fuir le combat dès qu’il le peut pour revenir une fois correctement armé.
 </div></td></tr></table>

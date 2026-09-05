@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 3 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
 Le personnage prononce un terrible mot de pouvoir qui envoie des vibrations potentiellement mortelles dans une cible choisie. Cette dernière doit réussir un [[jet de sauvegarde]] par [[round]], à son tour, et l’effet se renforce à chaque échec. Au premier [[round]], la cible subit 5d6 points de dégâts sonores et elle est [[chancelant|chancelante]] pendant 1 [[round]]. [[Jet de sauvegarde]] 1/2 dégâts, annule le [[chancelant|chancellement]]. Au deuxième [[round]], la cible reçoit 5d6 points de dégâts sonores et elle est [[étourdi|étourdie]] pour 1 [[round]]. [[Jet de sauvegarde]] 1/2 dégâts, annule l’[[étourdi|étourdissement]]. Au troisième [[round]], la cible subit 10d6 points de dégâts sonores et elle est [[étourdi|étourdie]] pendant 1d4+1 [[round|rounds]]. [[Jet de sauvegarde]] 1/2 dégâts, annule l’[[étourdi|étourdissement]]. La parole résonnante n’a plus d’effet après le troisième round, même si on prolonge son effet.

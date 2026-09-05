@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[branche mirage|mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]] (Barde uniquement)[[composantes|, G, M]] (un bâtonnet d’encens ou de cristal) (voir description)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** lueurs multicolores dans une étendue de 3 m (2 {s:c}) de rayon  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort engendre des lueurs de couleurs changeantes qui [[fasciné|fascinent]] les créatures présentes dans la [[zone deffet|zone d’effet]]. Jetez 2d4, +1 par [[niveau de lanceur de sorts]] (jusqu’à un maximum de +10), pour déterminer combien de [[DV]] sont affectés. Les créatures qui ont le moins de [[DV]] sont affectées en premier. En cas d’égalité, ce sont les cibles se trouvant le plus près du point d’origine du sort qui sont touchées en premier. Les [[DV]] en trop sont perdus. Les créatures affectées fixent les lueurs sans prendre garde à ce qui les entoure. Les créatures [[aveuglé|aveugles]] sont immunisées contre ce sort.

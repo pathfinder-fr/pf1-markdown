@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 En posant ses mains sur la cible, le [[prêtre]] engendre un transfert d’[[énergie négative]] faisant perdre 4d8 points de vie à sa cible, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +20). Les [[type mort-vivant|morts-vivants]] étant animés par l’[[énergie négative]], ce sort ne les blesse pas mais les soigne du nombre indiqué.

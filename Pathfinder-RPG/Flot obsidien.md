@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre, feu]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (un petit morceau d'obsidienne)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** rayon de 6 m (4 {s:c})  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]], voir texte ; **Résistance à la magie** non
 
 Le personnage transforme une mince couche de sol en verre fondu qui refroidit rapidement. Les créatures qui se trouvent dans la zone subissent 1d6 points de dégâts de feu par tranche de deux [[NLS|niveaux de lanceur de sorts]] (10d6 au maximum) et sont [[enchevêtré|enchevêtrées]]. Toutes les créatures qui se trouvent dans la zone et réussissent leur [[jet de sauvegarde]] reçoivent la moitié des dégâts seulement. Elles ne sont pas [[enchevêtré|enchevêtrées]]. Une créature [[enchevêtré|enchevêtrée]] peut tenter de se libérer en dépensant une [[action de mouvement]] pour faire un test de [[Force]] ou d’[[Évasion]] (même [[DD]] que le [[jet de sauvegarde]] du sort).

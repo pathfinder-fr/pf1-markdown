@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 3, [[rôdeur|Rôd]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** voir description  
-
 **Cible ou zone d’effet** voir description  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Croissance végétale* a des effets qui peuvent varier selon la version choisie.

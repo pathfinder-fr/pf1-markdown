@@ -5,7 +5,6 @@ LastModified: 2021-09-30 10:36
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Nahlmika Ironsight respecte les traditions naines, même si elle sillonne la surface du monde, bien loin de chez elle. Avec sa large stature, sa longue chevelure sombre et ses yeux couleur d’ambre, Nhalmika ne passe jamais inaperçue, mais c’est le fusil à dispersion nain qu’elle garde à portée de mains qui marque le plus ses amis comme ses ennemis.

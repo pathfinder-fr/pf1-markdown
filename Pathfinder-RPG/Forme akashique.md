@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Nécromancie]] ; **Niveau** [[psychiste|Psy]] 9  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 24 heures  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Au moment où le personnage lance le sort, il crée une archive parfaite de son corps physique dans les [[Plans ésotériques#LESANNALESAKASHIQUES|Annales akashiques]]. Ces annales mentionnent son total de points de vie actuel, ses caractéristiques physiques ([[Force]], [[Dextérité]] et [[Constitution]]) et tout modificateur temporaire ou état préjudiciable comme un affaiblissement à une valeur de caractéristique physique, une maladie, des niveaux négatifs ou un empoisonnement. Si, pendant la durée d’effet du sort, le personnage tombe à moins de 0 pv ou se fait tuer par un effet de mort autre qu’un effet mental, il peut laisser son corps actuel succomber sur-le-champ et revêtir le corps issu de ses annales au tour suivant. À ce moment, son cadavre disparaît et le personnage peut apparaître à sa place (déjà vêtu des habits encore présents sur le cadavre) ou à n’importe quel endroit qu’il a déjà occupé dans un rayon de 150 mètres autour de son cadavre (mais dans ce cas sans son équipement).

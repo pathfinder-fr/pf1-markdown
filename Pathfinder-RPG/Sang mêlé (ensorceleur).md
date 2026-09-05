@@ -15,7 +15,6 @@ Categories:
 Non, car les règles relatives aux archétypes indiquent qu'aucune des capacités de classe alternatives ne peut remplacer ou modifier la même capacité de classe qu'une autre capacité de classe alternative. Puisque les archétypes d'ensorceleur <u>[[Sang mêlé (ensorceleur)|sang mêlé]]</u> et <u>[[Sang sauvage (ensorceleur)|sang sauvage]]</u> remplace tous les deux l'arcane de lignage et les pouvoirs de lignage, ils ne sont pas compatibles.
 
 Notez que le MJ a toute latitude pour autoriser cette combinaison. Seulement, le personnage ne devrait pas pouvoir utiliser la capacité de l'archétype sang mêlé à choisir un pouvoir de lignage de niveau inférieur s'il a été remplacé par l'archétype sang sauvage. Par exemple, un ensorceleur de sang sauvage brutal ([[Lignage Abyssal|abyssal]]) remplace « force de l'Abysse » par « ailes des Abysses » au niveau 9 ; le personnage « paye » pour l'archétype sang sauvage en perdant « force de l'Abysse », et ne peut donc pas utiliser son lignage sauvage pour choisir « force de l'Abysse » comme pouvoir de lignage de niveau 15 ou 20.}{s:um}''Un lignage de sang mêlé combine les pouvoirs de deux héritages distincts. Dans la plupart des cas, les ensorceleurs qui possèdent ce lignage sont le fruit de deux ensorceleurs issus de lignées différentes, mais il arrive que l’un d’eux naisse de la combinaison d’autres pouvoirs : un ensorceleur [[lignage Draconique|draconique]] qui est amené à accomplir une grande destinée, un ensorceleur [[lignage Abyssal|abyssal]] dont la famille traite avec des diables et un ensorceleur [[lignage Profane|profane]] élevé par des fées depuis sa naissance, voilà autant de sources possibles pour des lignages de sang mêlé.  
-
 Un ensorceleur de sang mêlé choisit deux lignages différents. Il a accès aux compétences, aux dons et à certains pouvoirs des deux lignées dont il est issu mais cela lui coûte une part de santé mentale et réduit ses choix (voir les
 inconvénients).''
 
@@ -24,7 +23,6 @@ Un ensorceleur de sang mêlé reçoit des [[compétences de classe]] supplément
 
 #### Sorts supplémentaires
 Un ensorceleur de sang mêlé peut choisir des sorts supplémentaires dans ses deux lignages. Il peut également apprendre un sort supplémentaire de plus bas niveau qu’il n’a pas encore choisi à la place du sort de niveau supérieur auquel il a droit. Les sorts supplémentaires de plus bas niveau occupent le même emplacement de sort que celui qu’ils auraient dû avoir si l’ensorceleur les avait choisis au bon moment.  
-
 *Exemple* : Au niveau 3, un ensorceleur de sang mêlé [[lignage aberrant|aberrant]]/[[lignage abyssal|abyssal]] peut apprendre *[[frayeur]]* ou *[[agrandissement]]* comme sort supplémentaire de lignage. S’il choisit *[[frayeur]]* comme sort supplémentaire de niveau 3, il peut utiliser son sort supplémentaire de niveau 5 pour apprendre *[[agrandissement]]* au lieu de *[[force de taureau]]* ou de *[[détection de linvisibilité|détection de l’invisibilité]]* et il l’ajoute à sa liste de sorts connus de niveau 1 (comme s’il l’avait appris en sort supplémentaire de niveau 3).
 
 #### Don supplémentaire

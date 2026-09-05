@@ -27,7 +27,6 @@ Contrairement à *[[vision magique]]*, ce sort ne peut pas bénéficier de *[[pe
 (((
 ## Vision magique
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G]]
 **Portée** [[personnelle]]

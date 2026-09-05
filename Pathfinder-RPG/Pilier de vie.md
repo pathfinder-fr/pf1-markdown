@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche guérison|guérison]]) <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** pilier d'énergie positive de 1,50 m (1 {s:c}) de côté et 6 m de haut  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage invoque une colonne d'énergie positive dans une case de 1,50 m (1 {s:c}) de côté située à portée. Elle dégage autant de lumière qu'un [[Outils alchimiques#Bâton éclairant|bâton éclairant]]. Toute créature vivante adjacente au *pilier de lumière* peut utiliser une [[action simple]] pour le toucher et récupérer 2d8 points de vie + 1 point par [[NLS|niveau de lanceur de sorts]] (maximum +20). Les créatures peuvent s'avancer dans la case qui contient la colonne mais si un [[type mort-vivant|mort-vivant]] fait de même, il subit 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (maximum 10d6). Les créatures [[type mort-vivant|mortes-vivantes]] sensibles à la lumière vive subissent 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (maximum 10d8). Une créature ne peut profiter ou souffrir des effets de ce sort qu'une seule fois par incantation.

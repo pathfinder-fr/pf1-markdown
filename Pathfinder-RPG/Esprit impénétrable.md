@@ -12,7 +12,6 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G]]
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
@@ -27,7 +26,6 @@ Le bénéficiaire d’*esprit impénétrable* est protégé contre tous les sort
 ((({s:sortssimilaires|esprit impénétrable}
 ## [[Esprit impénétrable (partagé)]]
 {s:UC}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G]]
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])

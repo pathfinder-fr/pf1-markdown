@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 18 m  
-
 **Zone d'effet** ligne partant du jeteur de sorts  
-
 **Durée** 1 round/ [[niveau]] ou jusqu’à épuisement  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] et [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
 Tant que ce sort fait effet, le personnage peut émettre un [[rayon]] de lumière éblouissante à chaque round (au prix d’une [[action simple]]). Il peut donner naissance à un [[rayon]] tous les trois [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de six au [[niveau]] 18). Le sort s’achève au terme de la durée indiquée ou dès qu’il a lancé tous ses [[rayon|rayons]].

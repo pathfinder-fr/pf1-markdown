@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** Universel ; **Niveau** [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Effet** 1 rune ou marque personnelle devant tenir dans un carré de 30 cm de côté  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet au personnage d’apposer sa signature ou sa marque personnelle, qui ne peut comprendre plus de six caractères distincts. Ce symbole peut être visible ou non. La rune s’inscrit dans n’importe quel matériau sans abîmer l’objet sur lequel elle est placée. Si la marque est invisible, *[[détection de la magie]]* l’entoure d’une aura qui la rend visible (mais elle n’en devient pas forcément compréhensible pour autant).

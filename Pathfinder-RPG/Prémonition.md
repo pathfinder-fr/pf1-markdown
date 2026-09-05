@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M/FD]] (une plume d’oiseau chanteur)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** voir description  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Grâce à *prémonition*, le lanceur de sorts bénéficie d’un puissant sixième sens qui l’avertit si un danger menace le bénéficiaire de la [[divination]], c’est-à-dire lui-même ou la créature de son choix. Le personnage n’est jamais [[surpris]] ou [[pris au dépourvu]]. De plus, le sort lui donne une indication quant au meilleur moyen de se protéger, ce qui se traduit par un bonus d’intuition de +2 à la [[CA]] et aux jets de [[Réflexes]]. Ce bonus disparaît si le personnage perd son bonus de [[Dextérité]] à la CA.

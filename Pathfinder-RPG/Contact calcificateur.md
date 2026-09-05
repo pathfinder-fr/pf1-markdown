@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Terre]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature(s) touchée(s) (jusqu'à une par [[niveau]])  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Le contact du personnage transmute la substance de la créature touchée en pierre. Une fois par round, il peut faire une [[attaque de contact]] qui inflige 1d4 points d'[[affaiblissement temporaire]] de [[Dextérité]] et ralentit la cible (comme par un sort de *[[lenteur]]*) pendant 1 [[round]]. Un jet de [[Vigueur]] permet d'annuler l'effet de *[[lenteur]]* mais pas l'[[affaiblissement temporaire|affaiblissement de caractéristique]]. Une cible avec une [[Dextérité]] réduite à 0 est [[pétrifié|pétrifiée]] de façon permanente. *[[annulation denchantement|Annulation d'enchantement]]*, *[[restauration]]* ou *[[Transmutation de la pierre en chair]]* inversent les effets du *contact calcificateur*.

@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|effet mental, émotion, terreur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une ou plusieurs créature(s) vivante(s) (cf. texte)  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 À chaque round et par une [[action simple]], le personnage peut cibler une seule créature vivante ou un nombre de créatures vivantes totalisant un maximum de 9 DV et les frapper d’ondes de puissance terrifiantes. Si la cible rate son jet de sauvegarde, elle est paniquée pendant 1d4 rounds et le personnage gagne 5 points de vie temporaires (qui disparaissent au bout d’une heure). Quand la créature n’est plus paniquée, elle reste secouée pendant 10 minutes par niveau de lanceur et elle redevient automatiquement paniquée si elle voit à nouveau le personnage pendant cette durée.

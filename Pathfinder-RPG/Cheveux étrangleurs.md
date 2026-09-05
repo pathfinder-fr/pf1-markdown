@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Les cheveux du personnage s’animent et s’étendent pour agripper et exercer une constriction sur un adversaire. Le personnage fait un test de [[lutte]] contre la cible en utilisant son [[NLS|niveau de lanceur de sorts]] comme [[BBA|bonus de base à l’attaque]] plus un bonus égal à son bonus d’[[Intelligence]] (pour une [[sorcière]] ou un [[magicien]] ou de [[Charisme]] (pour un [[ensorceleur]]). Le test de [[lutte]] ne provoque pas

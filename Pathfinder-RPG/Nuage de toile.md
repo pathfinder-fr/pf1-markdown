@@ -12,17 +12,11 @@ Categories:
 
 {s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:MR}
 **École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** le nuage s’étend sur un espace de 6 m de rayon et de 6 m de haut  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; **Résistance à la magie** non
 
 Le lanceur de sorts crée un nuage de fils de toile d’araignée adhésifs et résistants au feu qui s’élève en volutes et s’étend, comme un sort de *[[brume mortelle]]*. Le nuage s’éloigne du lanceur à raison de 3 mètres (2 {s:c}) par round, roulant au-dessus du sol.

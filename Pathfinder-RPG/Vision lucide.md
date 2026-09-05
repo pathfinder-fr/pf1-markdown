@@ -24,17 +24,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 6, [[Chaman|Cham]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 7, [[Hypnotiseur|Hyp]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (onguent à paupière (250 po))  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#42|→]] *Vision lucide* : Ce sort protège-t-il contre *assassin imaginaire* ?***

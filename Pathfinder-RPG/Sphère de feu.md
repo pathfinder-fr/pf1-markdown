@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (suif, soufre et poudre de fer)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** sphère de 1,50 m (1 {s:c}) de diamètre  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Cette incantation génère une boule de feu qui roule dans la direction indiquée par le lanceur de sorts et brûle tout ce qu’elle touche. Elle se déplace de 9 m par [[round]] et peut faire des bonds de 9 m pour atteindre ses cibles. Dès qu’elle atteint une créature, elle s’immobilise pendant 1 [[round]], le temps de lui infliger 3d6 points de dégâts de feu (que la cible peut éviter à l’aide d’un jet de [[Réflexes]]). La sphère enflammée peut franchir des obstacles hauts de 1,20 m au maximum. Les matériaux inflammables s’enflamment à son contact. Elle éclaire autant qu’une torche.
@@ -35,17 +29,11 @@ La sphère se déplace tant que son créateur la dirige (ce qui lui coûte une [
 ((({s:sortssimilaires|Sphère de feu}
 ## [[Sphère de feu suprême]]
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (suif, soufre et poudre de fer)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** sphère de 1,50 m (1 {s:c}) de diamètre  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[sphère de feu]]*, à la seule différence qu’il inflige 6d6 points de dégâts de feu à toutes les créatures qu’il touche. Toutes les créatures qui ratent leur [[jds|jet de sauvegarde]] contre la sphère s’[[dangers naturels#PRENDREFEU|enflamment]]. Si une créature s’enflamme, le [[DD]] pour éteindre le feu est égal au [[DD]] de ce sort.

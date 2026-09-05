@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]], [[registre|lumière]]<nowiki>]</nowiki> ;** Niveau** [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[contact]] ou 1,50 m (1 {s:c}) (voir description)  
-
 **Cible** créature touchée ou toutes les créatures dans un rayon de 1,50 m (1 {s:c}) ; voir texte  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Un manteau de lumière scintillante enveloppe le sujet en émettant autant de lumière qu'une torche. Le sujet gagne un bonus de résistance de +1 à tous les [[jet de sauvegarde|jets de sauvegarde]] par tranche de quatre [[NLS|niveaux de lanceur de sorts]] (maximum +5 au niveau 20). Le sujet peut mettre un terme au *manteau de colère* quand il le désire par une [[action rapide]] afin d'infliger 2d8 points de dégâts de force à toutes les créatures qui se trouvent à moins de 1,50 mètre (1 {s:c}).

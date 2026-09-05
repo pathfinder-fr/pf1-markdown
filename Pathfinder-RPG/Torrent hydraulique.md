@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone** ligne de 18 m (12 {s:c})  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage invoque un puissant courant d'eau qui balaye les créatures et les obstacles qui se dressent sur son passage jusqu'à ce qu'il se heurte à une barrière qu'il ne peut pas franchir. Il bouscule les créatures et les objets déplaçables. Le personnage peut ainsi [[bousculade|bousculer]] des créatures de toutes tailles, pas seulement celles d'une catégorie de taille seulement au-dessus de la sienne. Ce dernier fait un test de [[BMO|manœuvre de combat]] et applique son résultat à toutes les créatures de la zone. Le [[BMO]] de cette [[bousculade]] est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son modificateur d'[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] (choisir le plus élevé). Cette [[bousculade]] ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]].

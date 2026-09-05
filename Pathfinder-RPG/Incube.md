@@ -46,9 +46,7 @@ Categories:
 *Les ailes de chauve-souris, les cornes recourbées et les jambes bestiales de cet humanoïde énigmatique et séduisant trahissent ses origines démoniaques.*
 
 L’incube, sous sa véritable forme, est toujours musclé et séduisant, avec de longs cheveux et un regard intense. Sa peau peut être de n’importe quelle couleur, mais elle est toujours douce et soyeuse. Lorsqu’il n’utilise pas ses ailes pour voler, l’incube peut les replier sur ses épaules pour en faire une cape : beaucoup décorent l’intérieur et l’extérieur de leurs ailes de tatouages, d’encre ou de scarifications. Les incubes mesurent entre 1,80 et 1,95 mètre et pèsent généralement 100 kilos.  
-
 Lorsqu’ils ne combattent pas, les incubes servent de conseillers, de tortionnaires et de compagnons aux démons plus puissants. Parmi les mortels, les lanceurs de sorts les invoquent souvent pour rmeplir des rôles similaires, mais il
 faut prendre garde lorsque l’on batifole avec un incube car ils adorent faire souffrir leur partenaire.  
-
 Comme les succubes, les incubes naissent des âmes d’alignement Chaotique Mauvais des mortels particulièrement avides et lascifs. Cependant, si les succubes utilisent subtilement et méthodiquement leurs charmes pour provoquer la ruine, l’incube est généralement direct et énergique pour assouvir ses insatiables désirs.
 </div></td></tr></table>

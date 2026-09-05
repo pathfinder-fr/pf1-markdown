@@ -8,16 +8,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] une goutte de sang du lanceur  
-
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)  
-
 **Cible** une créature
 **Durée** 1 round/[[niveau]]   
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La créature ciblée devient sensible à l’utilisation répétée des maléfices nuisibles du personnage, même si celui-ci ne devrait pas pouvoir viser la créature avec un maléfice donné pendant un certain temps. Par exemple, après avoir pris une créature pour cible d’un maléfice de charme, le personnage ne peut normalement pas la reprendre pour cible pendant une journée. Mais une fois qu’il a lancé ce sort sur la créature, le personnage peut lancer le même maléfice de charme de manière répétée tant que vulnérabilité aux maléfices persiste. Lorsque ce sort se termine, cela n’a aucun effet sur les maléfices actifs ou en cours sur une créature. Par exemple, si la créature rate son jet de sauvegarde contre une seconde utilisation du maléfice de charme du personnage, la victime reste charmée pendant la durée normale, même si le sort de vulnérabilité aux maléfices se termine avant le

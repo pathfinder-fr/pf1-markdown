@@ -62,34 +62,19 @@ Si la plupart des akvans traversent l’existence en massacrant les mortels et l
 par une race particulière de génies et concentrent toute leur colère contre les membres de cette race. Ce qui se montrent les plus efficaces pour massacrer les génies au cours de leurs années de service retiennent l’attention d’Ahriman qui leur confère un pouvoir accru et les transforme en princes akvans.
 Chaque prince akvan se consacre à l’extinction d’un type de génie particulier et reçoit des pouvoirs spéciaux qui lui permettent de tuer efficacement les génies de ce type. Un prince akvan reçoit 4 à 8 dés de vie supplémentaires ainsi qu’un bonus de +4 à trois valeurs de caractéristiques. Il est de FP 22 à 24. Le prince akvan reçoit également
 l’une des capacités suivantes, selon le type de génie qu’il chasse.  
-
 **Braises mourantes.** Un prince akvan ayant les éfrits pour ennemis jurés contrôle les flammes. Il gagne [[Résistance (capacité)|résistance]] au feu 30, l’attaque spéciale de chaleur des [[Efrit|éfrits]] (1d6 quand on le touche, 6d6 quand il agrippe ou est agrippé), ainsi que les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants :  
-
 à volonté — [[incantation rapide]] de *[[extinction des feux]]*, *[[mur de feu]]*, *[[rayon ardent]]*  
-
 3/jour — *[[souhait]]*.  
-
 **Désagrégation de la terre.** Un akvan chasseur de shaitans peut briser la pierre la plus solide. Il reçoit les capacités nage dans la pierre, [[Perception des vibrations (capacité)|perception des vibrations]] à 30 m (20 {s:c}), une vitesse de creusement de 30 m (20 {s:c}) et ses [[Attaques naturelles (capacité)|attaques naturelles]] sont considérées comme étant en adamantium quand il s’agit de passer une réduction de dégâts. Il reçoit également les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants :  
-
 3/jour — [[incantation rapide]] de *[[façonnage de la pierre]]*, *[[souhait]]*, *[[Transmutation de la boue en pierre]]* et *[[Transmutation de la pierre en boue]]*.  
-
 **Mer assoiffée.** Un prince akvan tueur de marids contrôle les eaux et peut les empoisonner. Il gagne une vitesse de nage de 30 m (20 {s:c}), l’attaque spéciale de [[marid]] fureur de l’Eau (8d6 points de dégâts, [[aveuglé]] et [[étourdi]] pendant 1d6 rounds) et les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants :  
-
 Constant — *[[marche sur londe|marche sur l’onde]]*, *[[respiration aquatique]]*  
-
 à volonté — [[incantation rapide]] de *[[contrôle de leau|contrôle de l’eau]]*  
-
 3/jour — *[[flétrissure]]*, *[[souhait]]*.  
-
 **Vent haletant.** Un prince akvan chasseur de djinns a le pouvoir de contrôler les vents. Il gagne une [[Résistance (capacité)|résistance]] à l’électricité de 30 et la capacité [[Tourbillon (capacité)|tourbillon]], sa vitesse de [[Vol (capacité)|vol]] passe à 36 m (24 {s:c}) (manœuvrabilité parfaite) et il reçoit les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants :  
-
 à volonté — *[[invisibilité]]*  
-
 3/jour — *[[état gazeux]]*, *[[souhait]]*.  
-
 **Âme désaxée.** Un prince akvan tueur de janns sème l’échec et la défaite. Il gagne une [[Résistance (capacité)|résistance]] à l’acide, à l’électricité et au froid de 20, ainsi que les [[Pouvoirs magiques (capacité)|Pouvoirs magiques]] suivants :  
-
 à volonté — *[[forme éthérée]]*, *[[invisibilité]]*  
-
 3/jour — *[[aliénation mentale]]*, *[[Disjonction|disjonction du mage]]*, *[[souhait]]*.
 </div></td></tr></table>

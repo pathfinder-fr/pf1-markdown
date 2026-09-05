@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un peu de magnétite et une pincée de poussière)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** [[rayon]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (objet) ; **Résistance à la magie** oui
 
 Un mince rayon vert jaillit du doigt que le lanceur de sorts tend vers sa cible (celui-ci doit réussir une [[attaque de contact à distance]] pour toucher sa cible). Une créature frappée par le rayon subit 2d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (avec un maximum de 40d6). Si le rayon réduit une créature à 0 point de vie ou moins, celle-ci est entièrement désintégrée et il ne reste plus d’elle qu’une fine couche de poussière. Son équipement n’est cependant pas affecté.

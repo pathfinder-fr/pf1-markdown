@@ -14,17 +14,11 @@ Categories:
 
 {s:Desambi|Il peut également s'agir d'une [[Régénération (capacité)|capacité]].}
 **École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 9, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 3 [[round|rounds]] entiers  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort fait repousser les membres tranchés (doigt, orteil, main, pied, bras, jambe, queue, ou même tête pour une créature en ayant plusieurs), ressoude les os brisés et reconstitue les organes détruits. Une fois le sort lancé, la *régénération* prend 1 [[round]] si les membres tranchés sont appliqués contre la plaie ou 2d10 [[round|rounds]] s’ils sont absents.

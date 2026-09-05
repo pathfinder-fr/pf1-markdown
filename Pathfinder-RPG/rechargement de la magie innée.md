@@ -21,16 +21,10 @@ Categories:
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
 **École** [[Transmutation]] ;
 **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** instantanée  
-
 
 Le personnage canalise son énergie magique dans sa propre aura, pour recharger ses pouvoirs magiques innés. Il a droit à une nouvelle utilisation de tous ses pouvoirs magiques de niveau 0 ou 1 issus de ses traits raciaux.

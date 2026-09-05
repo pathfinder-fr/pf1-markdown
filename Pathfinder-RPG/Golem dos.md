@@ -51,7 +51,6 @@ Les golems d’os sont le plus souvent élaborés pour servir de gardiens de tom
 Le corps du golem est constitué d’os d’au moins une dizaine de squelettes de taille M ou plus grands. Ces os doivent être traités avec des huiles et de la laque valant 1 000 po.
 
 **NLS** 9<sup>e</sup> ; **Prix** 41 000 po  
-
 **Conditions** [[Création de créatures artificielles]], *[[quête]]*, *[[souhait limité]]*,  *[[télékinésie]]* et soit *[[animation des morts]]*, soit *[[animation dobjets|animation d’objets]]*, le créateur doit avoir un niveau de lanceur de sorts minimum de 9 ; **Compétence** [[Artisanat]] (sculptures) ou [[Premiers secours]] [[DD]] 15 ; **Coût** 21 000 po
 </div>
 

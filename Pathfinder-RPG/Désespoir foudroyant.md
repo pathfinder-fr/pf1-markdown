@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un flacon rempli de larmes)  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Une grande tristesse envahit les cibles situées dans le cône de désespoir engendré par ce sort. Les créatures affectées subissent un malus de -2 aux [[jet dattaque|jets d’attaque]], aux [[jet de sauvegarde|jets de sauvegarde]], aux tests de caractéristiques, aux [[test de compétence|tests de compétences]] et aux jets de dégâts des armes.

@@ -7,7 +7,6 @@ Categories:
 ---
 
 À la différence des autres objets magiques, les artefacts sont presque impossibles à détruire (et les PJ n’ont pas les capacités suffisantes pour en créer). Il existe donc, pour chacun d’eux, un moyen spécifique de les détruire à la place d’un mode de création.  
-
 On ne peut jamais acheter un artefact, ni le trouver par hasard dans un trésor. Il est absolument nécessaire de bien mesurer l’impact et le rôle d’un tel objet dans une campagne. N’oubliez pas que ces objets magiques sont capricieux, et qu’ils peuvent aisément disparaître et se perdre de nouveau s’il s’avère que leur présence est en train de ruiner votre campagne.
 
 ### Artefacts mineurs

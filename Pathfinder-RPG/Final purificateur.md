@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[guérison]]) ;** Niveau** [[Barde|Bard]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui élimine l'une des conditions suivantes sur une créature affectée par la [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] : [[recroquevillé]], [[ébloui]], [[épuisé]], [[paralysé]], [[secoué]] ou [[étourdi]].

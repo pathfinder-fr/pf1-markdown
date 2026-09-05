@@ -13,15 +13,10 @@ Categories:
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
 **École** [[Abjuration]] ;
 **Niveau** [[Druide|Dru]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Le lanceur de sorts respire la grâce surnaturelle des néréides.

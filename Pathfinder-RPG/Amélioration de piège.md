@@ -16,17 +16,11 @@ Categories:
 
 {s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}
 **École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V,G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un [[pièges|piège]] unique  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Quand le sort est lancé, le [[pièges|piège]] affecté voit un de ses aspects, choisi au moment du lancement, amélioré. Le lanceur peut choisir de lui conférer n'importe quel de ces bonus (chacun augmentant le [[Rencontres#FP|FP]] du piège de 1) :

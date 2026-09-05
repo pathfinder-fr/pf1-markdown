@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 Pour demander l'aide de son dieu, le personnage fait un serment de paix temporaire qui lui accorde des défenses supérieures mais l'empêche d'attaquer pendant toute la durée du sort. Tant qu'il est soumis aux effets du sort, il gagne un bonus sacré de +5 à la [[CA]] et aux [[jet de sauvegarde|jets de sauvegarde]] ainsi qu'une [[RD]] 10/Mal. S'il attaque, directement ou non, ou s'il fait montre de la moindre hostilité envers une créature, le sort prend fin.

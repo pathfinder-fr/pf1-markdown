@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 1, [[rôdeur]] 1, [[sorcière]] 1  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet ne peut être qu’un [[type animal|animal]] ou une [[type créature magique|créature magique]], et cette dernière reçoit un bonus de +4 sur son [[jet de sauvegarde]]. La cible devient calme et docile. Elle n’attaque pas pendant qu’elle se trouve sous l’influence de ce sort mais celui-ci cesse immédiatement si elle est attaquée. Les créatures affectées ne fuient pas mais ne sont pas [[sans défense]].

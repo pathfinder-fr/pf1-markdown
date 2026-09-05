@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|douleur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Prêtre|Prê]] 4, [[Rôdeur|Rôd]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 3 m (2 {s:c})  
-
 **Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Cette incantation génère une barrière invisible qui repousse la [[type vermine|vermine]]. Les créatures qui appartiennent à cette catégorie n’ont aucune chance de passer si leur nombre de [[DV|dés de vie]] est inférieur au tiers du [[niveau]] du personnage.

@@ -23,17 +23,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|effet mental, émotion, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante ayant 5 [[DV]] ou moins  
-
 **Durée** 1d4 [[round|rounds]] ou 1 [[round]] (voir description)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 La cible de ce sort est [[effrayé|effrayée]]. Si elle réussit un jet de [[Volonté]], elle est seulement [[secoué|secouée]] pendant 1 [[round]]. Les créatures qui possèdent 6 [[DV]] ou plus sont [[immunisé|immunisées]] contre ce sort. *Frayeur* contre et dissipe *[[regain dassurance|regain d’assurance]]*.

@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[téléportation]]) ; **Niveau** [[Chaman|Cham]] 7, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Médium|Méd]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (un bâtonnet métallique fourchu harmonisé au plan d’arrivée)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée, ou jusqu’à 8 créatures consentantes se tenant par la main  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Grâce à ce sort le personnage peut partir (ou envoyer quelqu’un) dans une dimension ou un [[plans|plan]] différent. Si plusieurs personnes consentantes se tiennent par la main et forment un cercle, *changement de plan* peut transporter jusqu’à huit personne en même temps. Il est presque impossible d’apparaître à l’endroit exact où l’on souhaite atterrir. Depuis le [[plan Matériel]], on peut accéder à la quasi-totalité des autres [[plans]], mais on se matérialise à 8–800 kilomètres (8d100) du lieu choisi. Si les créatures souhaitent rentrer chez elles, elles doivent trouver un autre moyen (comme relancer *changement de plan*).

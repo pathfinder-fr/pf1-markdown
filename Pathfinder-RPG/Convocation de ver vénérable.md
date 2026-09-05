@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Druide|Dru]] 9  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** une créature invoquée  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Ce sort invoque un [[ver pourpre]] avec l’[[archétypes simples#CREATUREGEANTE|archétype créature géante simple]] qui donne le meilleur de lui-même pour combattre les ennemis du personnage. Il se manifestent là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [[druide]] est capable de communiquer avec lui, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.

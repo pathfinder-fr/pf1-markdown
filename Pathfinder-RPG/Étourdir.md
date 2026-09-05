@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur]]/[[magicien]] 8  
-
 **Durée** variable ; voir la description  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 Ce mot effet [[étourdi|étourdit]] une créature vivante sans que celle-ci ait besoin d’entendre le mage le prononcer. Sa durée dépend des points de vies actuels de la cible. Au-delà de 151 points de vie, il n’a aucun effet.

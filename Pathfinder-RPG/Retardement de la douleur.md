@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]]  <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature   
-
 **Durée** 1 heure/niveau  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage inhibe la sensation de douleur de la cible. Les effets de douleur comme *[[frappe douloureuse]] * et *[[symbole de douleur]] * n’affectent pas la cible tant que le sort n’est pas expiré. Ceci n’annule pas les dégâts physiques reçus ni les affaiblissements ou réductions de [[caractéristiques]] causés par la douleur, mais le sort annule les malus à la douleur tant qu’il dure.

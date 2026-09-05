@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 3, [[Hypnotiseur|Hyp]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une pincée de poussière)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 jour/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage maudit sa cible en l'affligeant d'une soif que nulle boisson ne peut apaiser. Si la cible rate son [[jet de sauvegarde]], elle se [[Dangers naturels#FAIMSOIF|déshydrate]]. Les effets de ce sort ne peuvent pas infliger plus de points de [[dégâts non létaux]] que la cible ne possède de points de vie. Aucune quantité de boisson ne peut contrer cet effet, bien que la cible subisse les conséquences normales de l'absorption de liquide (qu'il s'agisse de [[poison]], de [[potions magiques|potion]] ou autre). On peut dissiper *coupe de poussière* avec *[[annulation denchantement|annulation d'enchantement]]*, *[[souhait limité]]*, *[[miracle]]*, *[[délivrance des malédictions]]* ou *[[souhait]]* mais il faut soigner les effets de la [[dangers naturels#FAIMSOIF|déshydratation]] comme d'ordinaire.

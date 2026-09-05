@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** nourriture et eau pour sustenter 3 humains ou 1 cheval/[[niveau]] pour 24h  
-
 **Durée** 24 heures (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Cette invocation fait apparaître une nourriture simple choisie par le [[prêtre]]. Les aliments sont nourrissants, mais peu folichon sur le plan gustatif. Ils se périment rapidement et deviennent immangeables au bout de vingt-quatre heures, sauf s’ils sont conservés à l’aide de *[[purification de nourriture et deau|purification de nourriture et d’eau]]* (qui prolonge leur durée de vie de vingt-quatre heures supplémentaires). L’eau est d’une pureté semblable à celle de l’eau de pluie. Contrairement à la nourriture, il n’y a pas de risque qu’elle croupisse.

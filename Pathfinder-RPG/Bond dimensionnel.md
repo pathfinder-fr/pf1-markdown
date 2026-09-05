@@ -9,11 +9,8 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[convocation]]) ; **Niveau** [[barde]] 3, [[conjurateur]] 3, [[magus]] 3, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 3  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[choisi]]*
 
 Un sort incluant ce mot effet téléporte les cibles volontaires vers un autre lieu dans la ligne de vue du lanceur et à portée du sort.

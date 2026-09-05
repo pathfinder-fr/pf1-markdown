@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[prêtre]] 2, [[sorcière]] 2  
-
 **Durée** [[Présentation des sorts#DUREE|Concentration]] , jusqu'à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[cône (mot de pouvoir)|cône]]*
 
 Ce mot permet au lanceur de voir les créatures et les objets [[invisible|invisibles]]. Il sent qu’ils sont cachés mais il les voit normalement.

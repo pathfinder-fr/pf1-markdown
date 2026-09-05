@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage emplit l’esprit des cibles d’un sentiment de quiétude. Celles qui tentent de commettre un acte violent sont assaillies de vives douleurs et reçoivent 3d6 points de [[dégâts non létaux]] à chaque [[round]] où elles essayent de blesser quelqu’un. Si une cible est attaquée, elle peut se défendre et participer au combat en utilisant [[Expertise du combat]], [[combat sur la défensive]] ou en faisant une action de [[défense totale]], rien de ceci ne déclenche de douleurs et de [[dégâts non létaux]].

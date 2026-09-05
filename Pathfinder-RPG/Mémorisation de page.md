@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, F]] (la page à mémoriser)  
-
 **Portée** contact  
-
 **Cible** une créature vivante  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La cible mémorise parfaitement la page que le personnage a utilisée comme focalisateur. Elle peut visualiser cette page aussi facilement que si elle la regardait de ses propres yeux, percevant également les détails infimes visibles à l’oeil nu grâce à un examen attentif. La mémoire de cette page inclut le texte et les images, comme les dessins ou les cartes. Quelqu’un qui ne maîtrise pas la langue de cette page (ou une personne illettrée) pourrait retransmettre ce qui est écrit en recopiant simplement la forme des lettres afin qu’une autre personne puisse les lire.

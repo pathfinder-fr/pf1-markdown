@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 minute par page  
-
 **Composantes** [[composantes|V, G, M]] (encre à base de plomb (50 po))  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 objet touché de 5 kg maximum  
-
 **Durée** 1 jour/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Pendant l’incantation, le personnage rédige quelques lignes sur un morceau de papier, un parchemin ou autre. Le *texte illusoire* semble être écrit dans une langue magique ou étrangère. Seules les personnes choisies au moment de l’incantation peuvent le lire. Pour les autres, il reste incompréhensible.

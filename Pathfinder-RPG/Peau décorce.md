@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Comme son nom l’indique, ce sort rend l’épiderme du sujet aussi dur que de l’écorce, ce qui lui offre un [[bonus daltération|bonus d’altération]] de +2 au bonus d’armure naturelle. Ce bonus augmente de 1 point par tranche de 3 niveaux du lanceur de sorts au dessus du niveau 3, pour un maximum de +5 au niveau 12.

@@ -11,15 +11,10 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Rôdeur|Rôd]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une pincée de terre qui vient de l'[[rôdeur#ENVIRONNEMENTDE PREDILECTION|environnement de prédilection]] du [[rôdeur]])  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 heure/2 [[niveau|niveaux]] (T)
 
 Le personnage fait appel aux esprits de la nature pour qu’ils l’aident à s’adapter à son environnement. Il traite le terrain sur lequel il se trouve comme son meilleur [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] jusqu’à ce que le sort expire.

@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Chaman|Cham]] 6, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 5   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Le personnage peut tenter de tuer la créature de son choix. Quand le personnage lance ce sort, d’inquiétantes flammes noires crépitent autour de sa main. Il lui faut réussir une [[attaque de contact au corps à corps]]. La cible subit 12d6 points de dégâts, +1 par [[niveau de lanceur de sorts]]. Si la cible réussit son [[jet de sauvegarde]], elle perd seulement 3d6 points de vie, +1 par [[niveau de lanceur de sorts]] du [[prêtre]] (ce qui peut suffire pour la tuer).

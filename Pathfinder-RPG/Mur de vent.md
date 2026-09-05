@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un minuscule éventail et une plume d'oiseau exotique)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur faisant jusqu’à 3 m (2 {s:c}) de long/[[niveau]] et 1,50 m de haut/[[niveau]] (F)  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui
 
 Un rideau de vent invisible apparaît à la fin de l’incantation. Il fait soixante centimètres d’épaisseur et sa violence considérable lui permet d’emporter les oiseaux plus petits qu’un [[aigle]] ou d’arracher les papiers et les autres objets similaires des mains des possesseurs qui sont surpris (ce dernier peut toutefois les garder en main s’il réussit un jet de [[Réflexes]]). Les créatures volantes de [[taille TP]] ou [[taille P|P]] sont incapables de franchir cette barrière. Les objets qui ne sont pas tenus et les vêtements s’envolent au contact d’un *mur de vent*. Les flèches et les carreaux sont déviés et manquent automatiquement leur cible, tandis que toutes les autres armes à distance ont 30% de chance de la rater (rochers de géants, projectiles d’engins de siège et autres armes de jet aussi massives ne sont pas affectés). Le gaz ne peut pas franchir le mur, pas plus que la plupart des souffles gazeux ou les créatures sous [[état gazeux|forme gazeuse]]. À l’inverse, le sort ne représente pas une barrière pour les créatures [[intangible|intangibles]].

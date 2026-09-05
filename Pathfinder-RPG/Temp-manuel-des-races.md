@@ -473,7 +473,6 @@ vente
 Page des [[Talents]] de roublard en travaux à terminer
 
 Les sorts des hommes félins  
-
 - [[Neuf vies]] ~~texte copié (rectulo) -  mis en forme (ariock)~~ **relecture**
 - [[Vol de souffle]] ~~texte copié (rectulo) -  mis en forme (ariock)~~ **relecture**
 

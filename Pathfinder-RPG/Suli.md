@@ -58,15 +58,10 @@ Les sulis se définissent par leurs niveaux de classe : ils n’ont pas de dés 
 caractéristiques raciales suivantes.
 
 - **+2 Force, +2 Charisme, -2 Intelligence**. Les sulis sont souvent forts et séduisants mais ils sont lents d’esprit.  
-
 - **Vision nocturne.** Les sulis voient deux fois plus loin que les humains en cas de faible luminosité.  
-
 - **Négociateur**. Les sulis sont de fins négociateurs et gagnent un bonus racial de +2 à leurs tests de Diplomatie et de Psychologie.  
-
 - **Assaut élémentaire**. (*cf. ci-dessus*).   
-
 - **Résistance élémentaire**. Les sulis ont une résistance à l’acide de 5, au froid de 5, à l’électricité de 5 et au feu de 5.  
-
 - **Langues**. Les sulis commencent en parlant le commun et une langue élémentaire au choix (aquatique, aérien, igné ou terreux). Les sulis ayant une haute valeur d’Intelligence peuvent choisir leurs langues supplémentaires parmi celles-ci : aquatique, aérien, draconique, igné et terreux.
 
 {s:VoirAussiAvant}La page de la race [[Suli (race)|Suli]]{s:VoirAussiAprès}

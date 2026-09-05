@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 1, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Ce sort permet de comprendre les [[type animal|animaux]] et de communiquer avec eux. Le personnage peut les interroger et comprendre leurs réponses, même si le sort ne les rend pas plus amicaux qu’ils le seraient normalement. Les [[type animal|animaux]] prudents et sournois sont souvent évasifs dans leurs réponses, alors que les plus benêts ont tendance à dire n’importe quoi. Le personnage peut même obtenir de l’[[type animal|animal]] qu’il lui rende service si ce dernier se montre amical envers lui.

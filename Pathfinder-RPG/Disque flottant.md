@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte de mercure)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** disque de force de 90 cm de diamètre  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort crée un plan de force légèrement concave qui suit le personnage et peut porter des charges pour lui. Le disque a un diamètre de 90 cm et s’enfonce de 2,5 cm en son centre. Il peut accepter jusqu’à 50 kg par [[NLS|niveau de lanceur de sorts]]. S’il est utilisé pour transporter un liquide, sa contenance est de 8 litres. Il flotte à un mètre du sol et reste toujours horizontal. Il se meut en flottant lorsqu’il est dans la portée du sort et suit le lanceur de sorts en se déplaçant chaque round d’une distance inférieure ou égale à la [[vitesse de déplacement]] normale du lanceur de sort. Sauf ordre contraire, il reste à une distance de 1,50 m du personnage. Le disque disparaît instantanément lorsque le sort expire. Il fait de même si le personnage s’éloigne au-delà des limites de portée ou s’il tente de le soulever à plus d’un mètre du sol. Lorsque le disque disparaît, tout ce qu’il transportait tombe au sol.

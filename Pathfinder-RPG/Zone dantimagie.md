@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (une pincée de poudre de fer ou quelques copeaux du même métal)  
-
 **Portée** 3 m (2 {s:c})  
-
 **Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon centrée sur le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** voir description
 
 Ce sort d’[[abjuration]] génère une barrière invisible se déplaçant avec le lanceur de sorts. Tout ce qui se trouve dans cette sphère est immunisé contre la plupart des effets magiques (sorts, [[Capacités spéciales#TYPES|pouvoirs magiques]] et [[Capacités spéciales#TYPES|pouvoirs surnaturels]]). De même, aucun sort ni objet magique ne peut fonctionner à l’intérieur.

@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, langage]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 3, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 4  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restrictions de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet doit suivre les instructions du lanceur. Ce dernier doit être capable de donner ses ordres en 1 [[round]] et il doit être possible d’accomplir les actions dans la durée du sort. Les instructions ne peuvent inclure quelque chose qui est manifestement dangereux ou néfaste pour la cible, elles n’ont pas besoin de prendre toute la durée du sort et une fois qu’elles sont terminées, le sort contenant ce mot effet prend fin. Si les instructions ne sont pas achevées à l’expiration du sort, plus rien n’oblige la cible à finir.

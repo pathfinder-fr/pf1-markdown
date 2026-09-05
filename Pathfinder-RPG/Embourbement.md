@@ -8,17 +8,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (terre et eau)  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature/niveau, ne devant pas se trouver à plus de 9 m les unes des autres  
-
 **Durée** 1 round/niveau (cf. texte)  
-
 **Jet de sauvegarde** [[Vigueur]], annule ; **Résistance à la magie** oui
 
 Le personnage enduit les cibles d’une boue épaisse et collante qui agit comme un sort de *[[lenteur]]* et [[aveuglé|aveugle]] les cibles. Une créature peut dépenser une [[action simple]] pour débarrasser ses yeux ou les yeux d’une créature adjacente de cette boue, mettant fin à l’état aveuglé pour cet individu. Il faut une [[action complexe]] pour se débarrasser de suffisamment de boue pour mettre fin à l’effet de *lenteur*. Le fait de plonger dans un lac ou d’être sujet à un effet créant beaucoup d’eau (comme *[[création deau|création d’eau]]* ou *[[poussée hydraulique]]* débarrasse de toute la boue en 1 [[round]]. Un effet de *[[rapidité]]* lancé sur une créature ralentie par la boue permet à celle-ci d’agir normalement pendant toute la durée de rapidité. *Lenteur* ne se cumule pas avec les effets d’embourbement. Ce sort ne permet pas de contrer ou de dissiper *rapidité*.

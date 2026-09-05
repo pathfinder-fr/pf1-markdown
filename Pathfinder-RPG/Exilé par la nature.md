@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 3, [[Sorcière|Sor]] 3   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[Présentation des sorts#DUREE|permanente]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Ce sort maudit la créature touchée et la rend inamicale aux yeux du monde naturel. Tous les animaux ont une [[diplomatie|attitude initiale hostile]] envers la cible. Les [[familier|familiers]] et les [[type créature magique|créatures magiques]] ne sont pas affectés par ce sort mais les [[compagnon animal|compagnons animaux]] si. Si la cible possède un [[compagnon animal]], il ne devient pas hostile mais, pendant toute la durée de la [[malédiction]], il subit un malus de -2 aux [[jet dattaque|jets d'attaque]], aux tests de compétence et aux [[jet de sauvegarde|jets de sauvegarde]]. La cible subit également un malus de -10 aux tests de [[Survie]] car le climat et l'environnement semblent également conspirer contre elle.

@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 Ce mot effet inflige 1d4 points de dégâts de force par [[NLS|niveau de lanceur]] (maximum 5d4). Cet effet est semblable à un *[[projectile magique]]* pour tout ce qui relève des sorts qui annulent ou absorbent les effets de force.

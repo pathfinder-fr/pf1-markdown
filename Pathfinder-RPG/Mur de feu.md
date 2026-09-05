@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau**  [[Chaman|Cham]] 5, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (un peu de phosphore)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** rideau de feu opaque long de 6 m (4 {s:c})/[[niveau]] ou anneau de feu d’un diamètre de 1,50 m (1 {s:c})/2 [[niveau|niveaux]] ; dans les deux cas, 6 m de hauteur  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Un rideau immobile de flammes violettes se constitue au terme de l’incantation. Un côté du mur, choisi par le personnage, dégage une importante chaleur infligeant 2d4 points de dégâts de feu à toutes les créatures situées à 3 m (2 {s:c}) ou moins des flammes, et 1d4 points à celles se trouvant entre 3 et 6 m (2 à 4 {s:c}) de distance. Le mur inflige ces dégâts lorsqu’il apparaît et à chaque [[round]] où un individu se trouve dans la zone d’effet du sort au tour du personnage. De plus, il inflige 2d6 points de dégâts de feu, +1 par [[niveau de lanceur de sorts]] (jusqu’à un maximum de +20) à tous les personnages qui le traversent. Ces dégâts sont doublés pour les [[type mort-vivant|morts-vivants]].

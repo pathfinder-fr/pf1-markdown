@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki>; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 10 minutes/[[niveau]], voir texte  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte); **Résistance à la magie** oui
 
 La cible est entourée de froid pénétrant pendant toute la durée du sort et souffre d'un [[Dangers naturels#FROID|froid important]]. Si la cible rate son premier [[jet de sauvegarde]], elle subit donc 1d6 points de dégâts de froid et doit réussir un jet toute les 10 minutes(avec [[DD]] du froid important en non celui de ce sort) ou subir des dégâts supplémentaires.

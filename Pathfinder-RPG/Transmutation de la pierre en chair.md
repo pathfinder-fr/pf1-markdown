@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte de sang mêlée à un peu de terre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature pétrifiée ou 1 [[cylindre]] de pierre faisant jusqu’à 3 m de long et entre 30 et 90 cm de diamètre  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) (voir description) ; **Résistance à la magie** oui
 
 Ce sort redonne son apparence normale à une créature [[pétrifié|pétrifiée]], ce qui la ramène aussitôt à la vie (son équipement reprend lui aussi sa consistance initiale). La cible doit réussir un jet de [[Vigueur]] [[DD]] 15 pour survivre au choc de cette transformation. Toute créature [[pétrifié|pétrifiée]] peut être affectée par cette incantation, quelle que soit sa taille. Le sort permet aussi de transformer une masse de pierre en une substance ayant la texture de la chair. La masse qui en résulte est inerte, à moins qu’elle ne soit animée par de l’énergie vitale ou magique (*transmutation de la pierre en chair* peut par exemple transformer une statue de pierre animée en statue de chair animée mais une statue ordinaire se changera en masse de chair inerte en forme de statue). Si la masse de pierre prise pour cible est vraiment très importante, le lanceur de sort affecte seulement un cylindre de trois mètres de long et de trente à quatre-vingt-dix centimètres de diamètre.

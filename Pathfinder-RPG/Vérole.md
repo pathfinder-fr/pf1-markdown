@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (feuilles d'une plante toxique)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage inflige une douloureuse urticaire à la créature visée. Cette dernière est [[fiévreux|fiévreuse]] et subit un malus de -4 à la [[Dextérité]] (ce malus ne peut pas faire tomber la [[Dextérité]] en dessous de 0). La cible peut utiliser une [[action de mouvement]] pour se gratter furieusement et se débarrasser de la condition [[fiévreux]] (mais pas du malus de [[Dextérité]]) jusqu'au début de son prochain tour.

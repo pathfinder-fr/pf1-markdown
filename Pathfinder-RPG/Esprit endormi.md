@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 4, [[inquisiteur|Inq]] 4, [[médium|Méd]] 2, [[Occultiste|Occ]] 3, [[prêtre|Prê]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
-
 **Cible** 1 créature ou objet (voir texte)  
-
 **Durée** 1 round/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui
 
 Le personnage touche les esprits au cœur de sa cible et les endort. Si la cible est un [[médium]] doté d’un esprit habitant son corps ou un [[spirite]] abritant un fantôme dans sa conscience (ou un membre d’une autre classe utilisant le pouvoir de classe d’médium#ESPRIT|esprit]] ou de [[spirite#FANTOME|fantôme]]) et qu’elle rate son jet de sauvegarde, son esprit ou son fantôme devient impuissant et ne lui apporte plus aucun avantage, y compris les dons supplémentaires et les sorts connus qu’il lui offre habituellement.

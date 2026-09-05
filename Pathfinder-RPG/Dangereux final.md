@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature/3 [[niveau|niveaux]] qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui inflige 2d8 points de dégâts sonores à chaque cible. De plus, chaque cible reçoit 3d6 points de dégâts de [[saignement]] pendant 1d6 rounds. Un [[jet de sauvegarde]] réussi annule les dégâts de [[saignement]] mais pas les dégâts sonores.

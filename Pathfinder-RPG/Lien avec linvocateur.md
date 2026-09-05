@@ -16,17 +16,11 @@ Categories:
 
 {s:UC}
 **École** [[Nécromancie]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (deux mouches)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature invoquée ou un eidolon  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage exploite le lien invisible qui unit la créature qu’il vise et son invocateur, afin de blesser ce dernier. Quand la créature invoquée que vise le sort est victime d’un sort qui lui inflige des dégâts, son invocateur devient aussi la cible du sort. Il bénéficie de ses défenses normales contre le sort, comme un [[jet de sauvegarde]] ou une [[RM|résistance à la magie]]. Le personnage ne peut pas l’affecter s’il se trouve sur un autre [[Plans|plan d’existence]].

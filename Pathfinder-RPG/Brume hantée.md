@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[illusion]] ([[branche chimère|chimère]]) <nowiki>[</nowiki>[[registre|ombre]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 6 m (4 {s:c})  
-
 **Effet** nuage de 6 m (4 {s:c}) de rayon et de 6 m de haut  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] (voir texte) ; **Résistance à la magie** non
 
 Une brume illusoire habitée de silhouettes floues s’élève autour du personnage. Elle reste stationnaire. Cette brume bloque la visibilité, même pour des créatures dotées de [[vision dans le noir]], au-delà de 1,50 mètre. Une créature située à 1,50 mètre dispose toujours d’un [[camouflage]] (les attaques ont 20% de chances de la rater). Celles qui se trouvent plus loin bénéficient d’un [[camouflage total|camouflage complet]] (50% de chances de les rater, l’attaquant ne peut pas utiliser la vue pour les repérer). Toutes les créatures qui se trouvent dans la brume doivent réussir leur

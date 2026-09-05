@@ -13,15 +13,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Le personnage gagne un bonus d’esquive de +1 à la CA, un bonus de circonstances de +4 aux tests d’[[Évasion]] et de manœuvre offensive pour s'échapper d'une situation de lutte, et un bonus de circonstances de +4 au [[DMD]] contre les tentatives de lutte.

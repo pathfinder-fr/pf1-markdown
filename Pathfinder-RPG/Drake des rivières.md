@@ -46,8 +46,6 @@ Se nourrissant aussi facilement de poissons que de pêcheurs, les drakes des riv
 d’eau douce. Ils seraient apparentés aux dragons noirs, comme le suggère leur crachat acide, leur affinité pour l’eau,
 leur côté vicieux et leur goût pour la viande faisandée. Comme les autres drakes, ceux des rivières sont de cruels
 chasseurs aimant jouer avec leurs proies. Lorsqu’ils n’ont pas faim, ils s’amusent à traquer et à harceler les autres créatures et les voyageurs. Un trésor jeté à l’eau peut aider à distraire un drake des rivières, mais ce genre de tentatives de corruption ne retient pas longtemps un individu particulièrement affamé. Les drakes des rivières tuent souvent plus qu’ils ne peuvent manger sur le moment : préférant la viande décomposée, ils ont, sous l’eau, des garde-manger remplis de proies à différents stades de décomposition. Le drake des rivières est un chasseur attentif et ingénieux utilisant ses repaires aquatiques pour se camoufler aux yeux des créatures du rivage. S’il est surpris au sol, il bat en retraite dans l’eau ou s’envole si ses ennemis sont préparés au combat aquatique, usant constamment de son mucus caustique et de sa grande vitesse.  
-
 Les drakes des rivières sont plus susceptibles de chasser en groupe que les autres drakes, menaçant les routes fluviales et attaquant les bords des lacs et des rivières lorsqu’ils sont assez nombreux. Néanmoins, ces troupes désorganisées battent rapidement en retraite face à la moindre résistance significative.  
-
 Les drakes des rivières mesurent 2,50 mètres de long et ressemblent beaucoup à de petits drakes des mers. Un drake des rivières adulte pèse environ 350 kilos.
 </div></td></tr></table>

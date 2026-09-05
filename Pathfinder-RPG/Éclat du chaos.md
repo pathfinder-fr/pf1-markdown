@@ -8,19 +8,12 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 2   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** projectile d'énergie chaotique en forme de fléchette  
-
 **Durée** [[instantanée]] (1d6 rounds)  
-
 **Jet de sauvegarde** [[Volonté]] partielle (voir texte); **Résistance à la magie** oui  
-
 
 Grâce à son symbole sacré, le personnage envoie un projectile fait de chaos coagulé vers une cible à portée, par une [[attaque de contact à distance]]. Les créatures loyales frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [[niveau|niveaux]] de lanceurs de sorts (5d8 au maximum). Un extérieur loyal subit 1d6 points de dégâts par [[niveau|niveaux]] de lanceurs de sort (10d6 au maximum) et est ralenti (comme avec [[lenteur]]) pendant
 1 round. Volonté 1/2 dégâts et annule la lenteur. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni chaotiques ni loyales, qui ne sont pas ralenties. Il n'a aucun effet sur les créatures chaotiques.

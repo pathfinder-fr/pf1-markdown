@@ -8,17 +8,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]]; **Niveau** [[Prêtre|Prê]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 minute/niveau  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible gagne tout les avantages de [[oracle#MALEDICTIONDELORACLE|la malédiction de l’oracle]], sans aucun malus. Dans certains cas, ceci n’a aucun effet (par exemple un [[guerrier]] qui reçoit la malédiction hanté ne peut pas lancer de sorts et les sorts connus supplémentaires ne lui servent donc à rien).

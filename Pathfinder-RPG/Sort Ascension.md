@@ -15,19 +15,12 @@ Categories:
 
 {s:CMy}
 **École** [[Universelle]] ; **Niveau** [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d’incantation** 1 heure  
-
 **Composantes** V, G, F ([[Artefacts#Les_artefacts_mineurs_2|artefact mineur]]), M (10 000 po en herbes rares, gemmes et autres matières exotiques)  
-
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** une créature [[non-mythique]]/3 niveaux  
-
 **Durée** 2 heures/niveau ; voir texte  
-
 **Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 
 Le personnage désigne un certain nombre de créatures et leur confère l’accès au [[pouvoir mythique]]. Chacune des créatures obtient le premier [[grade]] mythique dans la [[voie]] mythique de son choix. Les créatures gagnent ainsi immédiatement les avantages de la [[voie]] choisie. La durée du sort est divisée équitablement entre toutes les cibles du sort. Les cibles conservent leur [[grade]] mythique seulement si elles restent à 30 mètres ou moins du focaliseur du sort. Une cible qui sort des limites de portée du sort perd son [[grade]] mythique, mais elle le récupère immédiatement si elle revient à portée. Si le focaliseur est détruit lorsque le sort est actif, ce dernier prend fin immédiatement et toutes les cibles reçoivent 1d4 [[niveau négatif|niveaux négatifs]] permanents.
 

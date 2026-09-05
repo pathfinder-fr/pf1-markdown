@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (fiole d’eau maudite et 2,5 kg de poussière d’argent (25po), à saupoudrer dans la zone)[[composantes|, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** [[émanation]] de 6 m de rayon  
-
 **Durée** 2 heures/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort baigne le lieu choisi d’une importante quantité d’[[énergie négative]]. Le [[DD]] de tout test destiné à résister à une [[canalisation dénergie|canalisation]] d’[[énergie négative]] bénéficie d’un bonus de malfaisance de +3.

@@ -12,17 +12,11 @@ Categories:
 
 {s:Desambi|À ne pas confondre avec le sort de [[refuge]] (Ens/Mag 9, Prê 7).}
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[barde|Bard]] 4, [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[sorcière|Sor]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (un éclat de pierre, du sable, une goutte d’eau et un copeau de bois)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** structure de 6 m de côté  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage fait apparaître une solide chaumière construite à l’aide de matériaux courants dans la région. Le sol est plat, propre et sec. Le *refuge* ressemble à s’y méprendre à une vraie maison, avec sa porte, ses deux fenêtres munies de volets et sa petite cheminée.

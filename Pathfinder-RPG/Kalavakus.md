@@ -52,6 +52,5 @@ Le DD du [[jet de sauvegarde]] dépend du [[Charisme]].}
 
 Les kalavakus, que certains connaissent sous le nom de « démons cornus », sont des monstres musclés et imposants. Dans
 les Abysses, ils oeuvrent comme esclavagistes, ou parfois gardiens de harems ou capitaines de la garde pour certains démons plus puissants, ou même mercenaires vendant les victimes qu’ils ont capturées à tous ceux qui peuvent les payer.  
-
 Un kalavakus mesure 2,10 mètres et pèse 225 kg. Ils sont créés à partir des âmes des mortels maléfiques esclavagistes de leur vivant.
 </div></td></tr></table>

@@ -10,15 +10,10 @@ Categories:
 {s:cs|Ultimate Wilderness}
 
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Ce sort fonctionne comme *[[forme de vase II]]*, si ce n'est que le lanceur de sorts peut aussi se transformer en [[type vase|vase]] de [[taille TG]]. Quelque soit la vase dont il prend la forme, la portée de la vision aveugle octroyée au personnage passe à 9 m (6 c), et le bonus de résistance aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison passe à +8.

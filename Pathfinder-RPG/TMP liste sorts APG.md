@@ -76,127 +76,65 @@ LastModified: 2011-12-29 22:19
 ### REDIRECTION POUR LES TALENTS DE ROUBLARDS
 
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Équilibriste (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Équilibriste (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Acrobaties rapides (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Acrobaties rapides (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque distrayante (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque distrayante (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Expert en survie (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Expert en survie (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque handicapante (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque handicapante (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque et changement de position (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque et changement de position (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Extraire des informations (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Extraire des informations (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque dissipante (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque dissipante (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sanglante (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sanglante (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fin observateur (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fin observateur (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque redirigée (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque redirigée (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sournoise puissante (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sournoise puissante (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Formation martiale (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Formation martiale (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sournoise mortelle (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque sournoise mortelle (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque surprise (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Attaque surprise (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Forte impression (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Forte impression (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Cocktail mortel (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Cocktail mortel (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Beau parleur (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Beau parleur (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fuite rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fuite rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Coup assommant (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Coup assommant (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Botte secrète (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Botte secrète (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Grimpeur agile (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Grimpeur agile (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Don (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Don (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Camouflage (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Camouflage (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Installation de pièges rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Installation de pièges rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Esprit fuyant (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Esprit fuyant (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Charmeur (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Charmeur (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Magie majeure (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Magie majeure (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Esquive extraordinaire (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Esquive extraordinaire (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Coup bouleversant (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Coup bouleversant (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Magie mineure (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Magie mineure (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fabricant de pièges économe (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Fabricant de pièges économe (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Crochetage rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Crochetage rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Mouvement à quatre pattes (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Mouvement à quatre pattes (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Lames entremêlées (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Lames entremêlées (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Déclenchement extraordinaire (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Déclenchement extraordinaire (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.OEil de l’archer (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.OEil de l’archer (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maintenant que j’y repense (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maintenant que j’y repense (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Défense offensive (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Défense offensive (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Organiser l’attaque (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Organiser l’attaque (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maître du déguisement (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maître du déguisement (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Debout (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Debout (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Poison persistant (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Poison persistant (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maîtrise des compétences (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Maîtrise des compétences (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Déguisement rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Déguisement rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Polyglotte doué (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Polyglotte doué (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Opportunisme (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Opportunisme (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Dénicheur de pièges (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Dénicheur de pièges (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Réactions lentes (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Réactions lentes (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Roulé-boulé (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Roulé-boulé (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Désamorçage rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Désamorçage rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Résilience (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Résilience (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Surprise du chasseur (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Surprise du chasseur (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Difficile à berner (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Difficile à berner (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Roublard en finesse (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Roublard en finesse (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Tireur discret (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Tireur discret (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Discret et rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Discret et rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Saut de l’expert (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Saut de l’expert (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Un jour de plus (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Un jour de plus (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Doigts rapides (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Doigts rapides (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Subtilisation au combat (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Subtilisation au combat (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Empoisonnement rapide (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Empoisonnement rapide (talent))  
-
 [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Tir soudain (talent)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Edit.aspx?Page=Pathfinder-RPG.Tir soudain (talent))

@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 8, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** 1d4+1 [[round|rounds]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Une irrésistible envie de danser en bougeant les pieds et en tapant des mains assaille le sujet. Il est tellement pris par les multiplie pirouettes et entrechats qu’il ne peut faire quoi que ce soit d’autre. Il reçoit un malus de -4 à la [[CA|classe d’armure]], un malus de -10 aux jets de [[Réflexes]] et il ne peut plus utiliser son bouclier pour se protéger. De plus, il provoque des [[attaque dopportunité|attaques d’opportunité]] chaque [[round]] lors de son tour de jeu. Un jet de [[Volonté]] réussi réduit la durée à 1 [[round]] seulement.

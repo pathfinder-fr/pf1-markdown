@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** [[émanation]] de 6 m de rayon - 4 cases de rayon  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** [[RM|oui]]
 
 Les créatures se trouvant dans la [[zone deffet|zone d’effet]] (ou qui y pénètrent pendant la [[Présentation des sorts#DUREE|durée d'effet]] du sort) ne peuvent pas mentir intentionnellement. Elles ont droit à un [[jet de sauvegarde]] pour ne pas subir l’effet de l’[[enchantement]] quand celui-ci est lancé ou quand elles entrent pour la première fois dans la *zone de vérité*. Les créatures affectées sont conscientes de ce qui leur arrive. Elles peuvent donc refuser de répondre à une question lorsqu’elles préféreraient mentir ou rester aussi évasives qu’elles le désirent tant qu’elles profèrent des vérités. Quiconque quitte la [[zone deffet|zone d’effet]] est libre de dire autant de mensonges qu’il le souhaite.

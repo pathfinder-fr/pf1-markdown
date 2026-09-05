@@ -16,17 +16,11 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V]]  
-
 **Portée** [[courte]] 7,50 m + 1,50 m/2 niveaux  
-
 **Zone** 1 créature humanoïde  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage peut lire dans les pensées superficielles de la cible et décrypter les renseignements transmis par son apparence, son langage corporel et sa manière de parler pour déduire quantité d’informations sur elle, même si elle est déguisée (y compris avec un effet de métamorphose). Quand le personnage lance ce sort, il effectue un test de [[Psychologie]] [[DD]] 20 avec un bonus égal à son [[NLS|niveau de lanceur de sorts]]. S’il réussit son test, il découvre l’une des informations suivantes, de son choix, plus une par tranche de 5 points au-dessus du [[DD]] : âge, alignement, classes†, dons†, sexe, langue maternelle, lieu de naissance, race ou ethnie, traits raciaux†, religion, orientation sexuelle ou formation dans une compétence d’[[Artisanat]], de [[Représentation]] ou de [[Profession]]. Pour les informations marquées d’un obèle (†), si la cible possède plus d’un élément de cette catégorie, chacun compte comme une information distincte.

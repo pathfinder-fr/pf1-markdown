@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki>; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d’incantation** 10 minutes  
-
 **Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 5 000 po)  
-
 **Portée** 0 m (voir description)  
-
 **Cible** 1 symbole  
-
 **Durée** permanente  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Ce sort permet au personnage d’inscrire une puissante rune de pouvoir sur une porte ou au-dessus, ou sur une autre ouverture qui ne mesure pas plus de 2 m²/[[NLS|niveau]]. Le symbole se déclenche dès l’incantation terminée. Il émet une lueur visible et scelle la porte ou l’ouverture avec une barrière de force invisible qui équivaut à un *[[mur de force]]*. Il faut détruire le symbole pour annuler cet effet mais pour cela, il faut d’abord détruire le *[[mur de force]]*. Une fois le symbole déclenché, il reste actif pendant 10 minutes par [[NLS|niveau de lanceur de sorts]].

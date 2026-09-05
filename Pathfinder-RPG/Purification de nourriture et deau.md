@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 3 m  
-
 **Cible** 30 dm³/[[niveau]] d’eau et de nourriture impropres à la consommation  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort transforme la nourriture avariée et l’eau croupie en denrées saines mais il ne les empêche pas de pourrir à nouveau. La *purification de nourriture et d’eau* annule les pouvoirs de l’eau maudite et des breuvages ou aliments similaires. En revanche, le sort reste sans effet sur les [[potions magiques]] et les créatures, quelles qu’elles soient.

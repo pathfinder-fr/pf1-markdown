@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 10 minutes/[[niveau]] (voir texte)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] )

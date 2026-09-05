@@ -6,7 +6,6 @@ LastModified: 2019-10-08 15:20
 
 *Les dons marqués d'un astérisque sont des [[Dons#DONCOMBAT|dons de combat]].*   
 
-
 {s:filtrable}
 <center>
 {| CLASS="tablo autoalt toutgauche filtrable"

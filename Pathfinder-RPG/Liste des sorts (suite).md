@@ -722,5 +722,4 @@ Categories:
 
 
 <div style="text-align:right">***Vers le [[Liste des sorts|début]] de la liste (A–D).***  
-
 ***Vers la [[Liste des sorts (fin)|fin]] de la liste (P-Z).***</div>

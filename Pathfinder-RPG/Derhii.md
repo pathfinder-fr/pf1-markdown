@@ -52,13 +52,10 @@ Categories:
 Le derhii, ou singe volant, est une version dangereuse et carnivore du grand singe terrestre, plus doux. Les derhiis
 ressemblent à des gorilles avec d’énormes ailes grises et noires de buse ou de vautour. Ils mesurent 2,70
 mètres et pèsent 200 kilos.  
-
 Les derhiis forment des groupes assez restreints que l’on appelle couramment des troupes et qui se composent généralement d’un mâle adulte, de plusieurs femelles adultes et de leurs petits. Il arrive parfois que plusieurs mâles
 ou femelles se regroupent en troupes unisexes, sans petits, mais ces groupes se forment généralement dans un but bien précis tel que la chasse, le pillage ou la guerre, après quoi ils se séparent. Les grandes tribus
 primitives de derhiis se composent de multiples troupes et sont en principe dirigées par un seul chef puissant.  
-
 Les derhiis nichent souvent dans les feuillages de la jungle ou dans des repaires escarpés, préférant installer leurs nids en hauteur, dans les grands arbres ou dans les grottes à flanc de falaise. Du haut de leurs perchoirs, les derhiis exigent parfois un tribut de la part singes inférieurs tandis qu’eux mêmes s’allient à des créatures volantes plus puissantes encore, comme les dragons ou les dragonnes. On trouve, à l’occasion, des derhiis vivant dans des ruines effondrées et envahies par la végétation cachées au fin fond de la jungle.  
-
 Les derhiis sont carnivores par nature et chasseurs par préférence. Ils attaquent leurs proies depuis les hauteurs,
 lançant leurs javelines de leurs bras puissants avant de descendre terminer le travail avec leurs lames. Lorsque la
 viande se fait rare, ils se nourrissent de fruits et de racines ou de tout ce qu’ils trouvent à ramasser.

@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[appel]] ou [[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (voir description)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** voir description  
-
 **Durée** instantanée ou [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]] ; voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort a deux effets distincts. Tout d’abord, il établit un lien interdimensionnel entre le plan du personnage et celui que ce dernier cherche à contacter, ce qui permet de passer de l’un à l’autre (dans n’importe quel sens).

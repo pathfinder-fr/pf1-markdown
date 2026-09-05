@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[évocation]] ; **Niveau** [[Barde|Bard]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 4,50 m (3 {s:c})  
-
 **Zone** [[cône]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
 Pendant sa [[représentation bardique]], le personnage peut pincer une corde dont la note se transforme en une pluie d’éclats cristallins acérés qui infligent 2d6 points de dégâts à toutes les créatures prises dans la zone d’effet.

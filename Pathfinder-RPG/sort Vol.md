@@ -21,17 +21,11 @@ Categories:
 
 {s:Desambi|Vol est également le nom d'une [[Vol|compétence]] et d'une [[Vol (capacité)|capacité spéciale]].}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une plume)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible du sort acquiert la capacité de voler avec une vitesse de 18 m (12 m s’il porte une armure lourde ou intermédiaire, ou encore une charge lourde ou intermédiaire). S’il monte, sa vitesse diminue de moitié, mais elle double dès qu’il descend. Sa manœuvrabilité est bonne. Voler ne lui demande pas plus d’effort mental que marcher, ce qui signifie qu’il peut attaquer ou lancer des sorts normalement depuis les airs. Il peut [[charge|charger]] mais pas [[Actions complexes#COURIR|courir]], et il lui est impossible de soulever plus que sa charge maximale autorisée plus son armure. Le sujet gagne un bonus égal à la moitié du [[NLS|niveau de lanceur de sorts]] du personnage aux tests de compétence de [[Vol]].

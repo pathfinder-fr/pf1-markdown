@@ -14,17 +14,11 @@ Categories:
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]], [[registre|lumière]]<nowiki>]</nowiki> ;
 **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]])/(5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un rayon de lumière ou plus  
-
 **Durée** instantanée (voir description)  
-
 **Jet de sauvegarde** [[Vigueur]] pour annuler ; **Résistance à la magie** oui
 
 Le lanceur de sorts frappe ses ennemis de rayons aveuglants de lumière du soleil. Il peut lancer un rayon + un par tranche de 4 niveaux au-delà du 3e (jusqu’à un maximum de trois rayons au niveau 11).

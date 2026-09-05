@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[Présentation des sorts#CREATION|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (toile d’araignée)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** toiles d’araignée dans une étendue de 6 m de rayon  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
 Comme son nom l’indique, ce sort fait apparaître une grande quantité de fils épais, solides et gluants qui emprisonnent toutes les créatures situées dans la [[zone deffet|zone d’effet]]. Ils sont semblables à ceux que tissent les araignées mais ils sont bien plus résistants. Le sort doit, au minimum, s’ancrer sur deux points solides diamétralement opposés sinon la toile s’effondre et disparaît. Les créatures prises dans la toile sont aussitôt [[agrippé|agrippées]]. En revanche, une créature qui attaque un individu pris dans la toile n’est pas [[agrippé|agrippée]] à son tour.

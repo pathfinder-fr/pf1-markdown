@@ -25,17 +25,11 @@ Categories:
 
 {s:Desambi|Lumière est également une [[lumière (propriété)|propriété d'armes magiques]].}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, M/FD]] (une luciole)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Lancé sur un objet, ce sort le fait briller comme la lumière d’une torche, ce qui lui permet d’éclairer jusqu’à six mètres (4 {s:c}) à la ronde tout en augmentant la luminosité d’un cran dans un rayon de six mètres (4 {s:c}) de plus (les ténèbres se muent en faible lumière et cette dernière en lumière normale). Ce sort n’a aucun effet dans une zone de lumière normale ou de vive lumière. L’effet est immobile, mais on peut le jeter sur un objet mobile.

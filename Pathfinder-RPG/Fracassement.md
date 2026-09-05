@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (une paillette de mica)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet ou cible** étendue de 1,50 m (1 {s:c}) de rayon ; ou 1 objet ou 1 créature cristalline  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ou [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui (objet)
 
 *Fracassement* crée une puissante vibration sonore qui peut être utilisée pour briser les objets fragiles et non magiques, détruire un unique objet solide et non magique ou encore pour endommager une créature cristalline.

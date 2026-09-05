@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une poignée de sphères en argile, verre, cristal ou en argile)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Si le jet de [[Volonté]] de la cible échoue, ses valeurs d’[[Intelligence]] et de [[Charisme]] sont réduites à 1. Elle n’est plus capable de lancer des sorts, d’utiliser les compétences dépendant de l’[[Intelligence]] ou du [[Charisme]], de comprendre ce qu’on lui dit ni même de s’exprimer de manière cohérente. Toutefois, elle parvient encore à reconnaître ses amis et elle peut les suivre ou même les protéger. L’effet persiste jusqu’à ce que la créature soit soignée grâce à l’un des sorts suivants : *[[guérison suprême]]*, *[[souhait limité]]*, *[[miracle]]* ou *[[souhait]]*. Si la cible est capable de lancer des sorts profanes (s’il s’agit d’un [[magicien]] ou d’un [[ensorceleur]] par exemple), elle se voit infliger un malus de -4 au [[jet de sauvegarde]] contre ce sort.

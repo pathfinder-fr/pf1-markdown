@@ -43,7 +43,6 @@ Categories:
 *Cette créature mécanique de taille humaine à quatre bras se tient sur trois jambes prolongeant son corps principal.*
 
 Les ingénieurs de créatures mécaniques ne pouvant pas toujours être là pour s’assurer que leurs créations fonctionnent au maximum de leurs capacités, ils ont inventé le serviteur mécanique. Ce sont des experts en réparation sur le champ de bataille, que ce soit pour eux-mêmes ou pour les autres créatures mécaniques : ils sont très utiles, tant pour les escarmouches que pour les campagnes. Parmi les explorateurs de certaines ruines étranges, une rumeur dit qu’il existerait des créatures mécaniques serviteurs que l’on aurait magiquement doués d’intelligence ; s’ils ne sont pas plus intelligents qu’un humain moyen, ces serviteurs « éveillés » ont des compétences et des dons correspondant à leurs dés de vie ([[Perception]] +2, [[Sabotage]] +7 et [[Talent]] [[Sabotage]] pour la plupart des serviteurs mécaniques intelligents). On raconte par ailleurs qu’ils auraient un rôle bien plus complexe que celui de simple réparateur. Une créature mécanique intelligent possède un score d’Intelligence de 11 et peut parler une langue.  
-
 Les créatures mécaniques serviteurs mesurent environ 1,50 m et pèsent plus de 200 kilos.
 
 ### Création

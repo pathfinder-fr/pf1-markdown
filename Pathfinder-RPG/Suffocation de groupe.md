@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une fiole contenant une bouffée de souffle du lanceur de sort)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante/2 [[niveau|niveaux]] qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Ce sort extrait l'air contenu dans les poumons des cibles et les font rapidement suffoquer. Une cible peut tenter un jet de [[Vigueur]] pour résister aux effets du sort. Si elle réussit, elle est juste [[chancelant|chancelante]] pendant 1 [[round]] alors qu'elle reprend son souffle. Si elle échoue elle se met immédiatement à suffoquer. Au prochain tour de la cible, elle est réduite à 0 point de vie et tombe [[inconscient|inconsciente]]. Un [[round]] après, elle passe à -1 point de vie et [[mourant|agonise]]. Elle meurt au [[round]] suivant. À chaque [[round]], la cible peut repousser les effets du sort si elle réussit un jet de [[Vigueur]], mais le sort l'affecte tout de même pour 3 [[round|rounds]] et, à chaque fois qu'elle rate un [[jet de sauvegarde]], la cible se rapproche un peu plus de la suffocation. Ce sort affecte seulement les créatures qui doivent respirer. Il est impossible de vaincre les effets de ce sort en retenant sa respiration : si la victime rate le premier [[jet de sauvegarde]], l'air s'échappe de ses poumons.

@@ -17,17 +17,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature convoquée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage prend le contrôle d’une créature invoquée en détruisant le lien qui l’unit au lanceur de sorts qui l’a invoquée. Si la créature rate son jet de sauvegarde, le personnage peut lui donner des ordres comme si c’était lui qui l’avait invoquée. Le lanceur de sorts originel peut tenter d’en reprendre le contrôle par une [[action simple]] en faisant un test d’[[Art de la magie]] opposé à celui du personnage. Quand le sort du personnage se termine, l’invocateur

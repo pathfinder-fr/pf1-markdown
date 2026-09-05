@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[alchimiste]] 1, [[barde]] 1, [[conjurateur]] 1, [[ensorceleur]]/[[magicien]] 1, [[inquisiteur]] 1, [[magus]] 1, [[sorcière]] 1  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet devient [[invisible]] jusqu’au début du prochain tour du [[magicien]]. Si elle attaque ou entreprend une action offensive, l’effet cesse.

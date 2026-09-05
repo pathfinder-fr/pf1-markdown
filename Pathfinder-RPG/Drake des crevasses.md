@@ -49,6 +49,5 @@ aussi sauvages et brutales que les territoires sur lesquels ils chassent. Leur f
 apparaître comme de simples bêtes meurtrières, mais ils prennent tout simplement plus de plaisir à se battre que les
 autres drakes, affrontant même souvent les membres de leur propre espèce. Ils daignent rarement s’adresser aux autres
 créatures, sinon pour s’adonner à un jeu cruel au cours duquel leurs demandes se font de plus en plus scandaleuses, jusqu’à ce que la victime réalise enfin que le drake manipulateur s’amuse avec elle ou jusqu’à ce qu’il commence à s’ennuyer. Le drake des crevasses reste rarement au sol très longtemps, préférant tourner haut dans les airs, près des pics menaçants ou des cimes, nichant dans les fissures qu’il y trouve. Lorsqu’il repère des proies depuis ces hauteurs, il plonge sur elles, dispersant les groupes et semant la terreur grâce à sa soudaine apparition. Face aux adversaires particulièrement agiles, il utilise son souffle, commençant par ralentir ses proies, puis il les tue une à une. Le drake des crevasses adore le goût du sang et concentre ses attaques sur les créatures les plus dodues.  
-
 Le drake des crevasses mesure environ 4,20 mètres de long, de la pointe du bec au bout de la queue. Son corps robuste et épineux pèse 1 250 kilos.
 </div></td></tr></table>

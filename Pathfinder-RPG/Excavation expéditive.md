@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (petite pelle)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone** de la terre dans un cube de 1,50 m (1 {s:c}) de côté  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non
 
 Le personnage peut faire une excavation et déplacer de la terre, de la poussière et du sable dans une zone équivalant à un cube de 1,50 mètre (1 {s:c}) de côté. Si le personnage est enterré, il peut dégager un cube de terre autour de lui, mais il ne peut pas utiliser ce sort pour creuser un tunnel. En plus de ces applications ordinaires, ce sort permet d'ouvrir une fosse de 1,50 mètre (1 {s:c}) sous les pieds d'une créature. Une créature de taille M ou plus petite tombe au fond à moins de réussir un jet de [[Réflexes]]. Dans ce cas, elle peut choisir d'atterrir sur ses pieds au fond de la fosse ou de bondir dans une case adjacente. Ce mouvement ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Une créature peut sortir de la fosse à l'aide d'un test d'[[Escalade]] [[DD]] 5. Les créatures plus grandes peuvent ignorer toute fosse inférieure à leur taille.

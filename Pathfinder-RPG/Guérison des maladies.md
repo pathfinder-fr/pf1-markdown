@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort soigne toutes les [[maladie|maladies]] dont souffre le sujet. Le personnage doit réussir un test de lanceur de sorts (1d20 + [[niveau de lanceur de sorts]]) contre le [[DD]] de chaque [[maladie]] qui affecte la cible. En cas de succès, la [[maladie]] disparaît. Ce sort détruit également certains parasites et autres menaces du même genre comme par exemple le [[Donjons#Champignons_moisissures_et_limons_6|limon vert]].

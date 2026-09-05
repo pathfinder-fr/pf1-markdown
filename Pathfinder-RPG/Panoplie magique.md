@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 3, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** armure ou bouclier touché  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 L’armure ou le bouclier touché par le personnage bénéficie d’un [[bonus daltération|bonus d’altération]] de +1 par tranche de quatre [[niveau|niveaux]] du [[prêtre]] (jusqu’à un maximum de +5 au [[niveau]] 20). Ce sort permet aussi d’enchanter des vêtements normaux qui sont alors assimilés à une armure qui ne procure aucun bonus à la [[CA]].

@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur]] 0, [[druide]] 0, [[inquisiteur]] 0, [[magus]] 0, [[ensorceleur]]/[[magicien]] 0  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** non
 
 Un sort de mots incluant ce mot effet inflige 1d3 points de dégâts d’acide. S’il n’a qu’une seule cible, un jet d’[[attaque de contact au corps à corps]] ou un jet d’[[attaque de contact à distance]] est nécessaire et il n’y a pas de [[jet de sauvegarde]].

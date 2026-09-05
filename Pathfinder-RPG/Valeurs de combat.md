@@ -24,14 +24,12 @@ Avec une arme de corps à corps, le bonus d’attaque est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque au corps à corps**   
 =  
-
 [[BBA|Bonus de base à l’attaque]] + modificateur de [[Force]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]]</center></div>
 
 Avec une arme à distance, le bonus d’attaque est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance**   
 =  
-
 [[BBA|Bonus de base à l’attaque]] + modificateur de [[Dextérité]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]] + malus de portée</center></div>
 
 {s:Reference|CA}
@@ -40,7 +38,6 @@ La classe d’armure (CA) représente la difficulté que les adversaires ont à 
 
 <div class="presentation arrondi recentre ombre"><center>**CA**   
 =  
-
 10 + [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] + [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]] + modificateur de [[Dextérité]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]]</center></div>
 
 Notez que l’armure limite le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]], et qu’un personnage revêtu d’une armure particulièrement encombrante risque fort de ne pas bénéficier de la totalité de son bonus de [[Dextérité]] (voir le "[[Tableau récapitulatif des armures]]").

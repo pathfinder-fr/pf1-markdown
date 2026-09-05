@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[divination]] ; **Niveau** [[prêtre]] 2, [[sorcière]] 2  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*
 
 La cible du sort peut voir le futur d’une action précise qui se déroulera dans la prochaine heure, et déterminer si elle aura de bons ou de mauvais résultats. Cette prédiction n’est pas garantie ; il y a 70% de chances d’avoir des informations exactes + 1% par [[NLS|niveau du lanceur]]. Si le jet échoue, les résultats sont erronés. La seule information reçue est « fortune » pour un bon résultat, « malheur » pour un mauvais résultat, les deux si le résultat est bon et mauvais ou neutres pour le lanceur. Des sorts supplémentaires qui visent la même action révèlent toujours les mêmes résultats.

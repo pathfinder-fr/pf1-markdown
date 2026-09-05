@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une feuille de fer et 500 g de poudre d’or (valeur 50 po))  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** mur de fer constitué d’un carré de 1,50 m (1 {s:c}) de côté/[[niveau]] (voir description)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Le mage fait apparaître un *mur de fer*, plan et vertical. Il peut s’en servir pour bloquer un accès ou colmater une brèche. En effet, le mur s’intègre aux matières inertes avec lesquelles il est en contact (tant que cette surface le lui permet). Il ne peut pas le créer là où se trouve une créature ou un autre objet. Le personnage peut modifier sa forme en fonction de l’espace disponible, mais le mur doit toujours être de forme plane.

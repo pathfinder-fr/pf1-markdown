@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[branche création|création]]) ; **Niveau** [[conjurateur]] 5, [[prêtre]] 5, [[druide]] 6, [[magus]] 5, [[ensorceleur]]/[[magicien]] 5  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[barrière]]*
 
 Ce mot effet crée un mur vertical fait de pierre solide, qui doit former une seule surface lisse et ininterrompue. Il fait 3 centimètres d’épaisseur par [NLS|niveau du lanceur]], a une [[solidité]] de 8 et 15 points de vie par tranche de 3 cm d’épaisseur. Le mur bloque la vue.

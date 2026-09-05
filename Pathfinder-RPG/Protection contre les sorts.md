@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[conjurateur|Conj]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poussière de diamant (500 po)), F (un diamant (1 000 po) par cible. Chacune doit porter cette gemme pendant la durée du sort ; si elle la perd, le sort ne la protège plus)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** jusqu’à 1 créature touchée/4 [[niveau|niveaux]]  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Les bénéficiaires du sort gagnent un bonus de résistance de +8 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les [[Capacités spéciales#TYPES|pouvoirs magiques]] (mais pas contre les [[capacités spéciales#TYPES|pouvoirs surnaturels ou extraordinaires]]).

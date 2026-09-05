@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[inquisiteur|Inq]] 1, [[paladin|Pal]] 1, [[prêtre|Prê]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute
 
 Le lanceur de sorts invoque la puissance et la sagesse de son dieu pour obtenir un bonus de chance de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts par tranche de trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] (+1 au minimum, +3 au maximum). Ce bonus ne s’applique pas aux dégâts des sorts.

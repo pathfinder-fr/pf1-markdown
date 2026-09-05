@@ -17,16 +17,10 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]  
-
 
 L’armure du personnage ne réduit plus sa vitesse. Le malus aux tests diminue aussi de 1 +1 tous les cinq [[NLS|niveaux de lanceur de sorts]] (5 au maximum).

@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[transmutation]] ; **Niveau** [[alchimiste]] 3, [[conjurateur]] 3, [[prêtre]] 4, [[magus]] 3, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 3  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif )  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet gagne une vitesse de vol de 18 mètres (12 {s:c}) avec une manœuvrabilité moyenne (12 mètres (9 {s:c}) si elle est encombrée ou si elle porte une armure [[Tableau récapitulatif des armures#INTERMEDIAIRES|intermédiaire]] ou [[Tableau récapitulatif des armures#LOURDES|lourde]]). Le personnage reçoit également un bonus d’intuition aux tests de [[Vol]] égal à la moitié de son niveau de lanceur.

@@ -5,7 +5,6 @@ LastModified: 2023-04-27 17:33
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[OTARI|Retour à la page sur Otari]]
 
 Les aventuriers ne passent pas toutes leurs journées dans des cryptes envahies par les moisissures ou dans des marécages dangereux. Quand les héros ont besoin d'un break, ils peuvent passer leur temps libre dans une ville amicale comme Otari. La campagne [[AP28|Le Donjon des Abominations]] présente plusieurs nouvelles options utilisables pendant le temps libre pour les personnages qui se sont liés d'amitié avec certains des individus notables de la ville. Voici quelques activités de temps libre que les héros peuvent entreprendre le plus grand temple d'Otari, la Bibliothèque de la Fleur de l'Aube.

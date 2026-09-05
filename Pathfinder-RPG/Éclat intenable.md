@@ -11,19 +11,12 @@ Categories:
 ---
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle et 9 m (cf. texte)  
-
 **Zone** émanation de 9 m de rayon centrée sur le lanceur  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** aucun et [[Réflexes]] pour dégâts partiels (cf. texte) ;  
-
 **Résistance à la magie** non et oui (cf. texte)
 
 Le corps du personnage brille d’une terrible lumière. Les créatures dans un rayon de 9 mètres autour de lui et qui peuvent le voir sont [[Ébloui]] (pas de jet de sauvegarde). Les créatures sensibles à la lumière doivent réussir un jet de [[Réflexes]] pour ne pas devenir [[Aveuglé]] . La lumière compte comme une lumière du jour quand il s’agit d’affecter les effets de ténèbres (et inversement). Si l’émanation pénètre dans une zone affectée par des ténèbres magiques (ou inversement), les deux effets s’annulent temporairement, les zones d’effet superposées étant dominées par les conditions lumineuses annexes les plus importantes. Les états [[Ébloui]] et [[Aveuglé]] dus à la lumière du personnage se terminent quand le sort se termine ou quand le personnage n’est plus dans le champ de vision de la victime.

@@ -8,17 +8,11 @@ Categories:
 
 {s:UM}
 **École** [[Abjuration]] ; **Niveau** [[Paladin|Pal]] 1  
-
 **Temps d’incantation** 1 [[action immédiate]]  
-
 **Composantes** [[Composantes|V, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un allié  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]); **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage concentre son aura sur un allié et lui permet de refaire un [[jet de sauvegarde]] raté contre un effet de [[registre|charme]] ou de peur avec un bonus de +4. Si le personnage ne dispose pas du pouvoir de classe [[paladin#AURADEBRAVOURE|aura de bravoure]], ce sort n'a aucun effet sur les peurs de la cible. S'il ne dispose pas du pouvoir de classe [[paladin#AURADEFERMETE|aura de fermeté]], ce sort n'a aucun effet sur les effets de charmes qui visent la cible.

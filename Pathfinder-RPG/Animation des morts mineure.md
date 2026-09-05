@@ -16,11 +16,8 @@ Categories:
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (un onyx noir valant au moins 25 po par dé de vie du mort-vivant)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** un cadavre</br>
 **Durée** [[présentation des sorts#DUREE|instantanée]]</br>
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non

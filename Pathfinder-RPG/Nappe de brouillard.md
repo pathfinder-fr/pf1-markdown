@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** brouillard s’étendant sur 6 m de rayon  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Un banc de brouillard apparaît à l’endroit indiqué par le personnage. Il limite le champ de vision (y compris la [[vision dans le noir]]) à 1,50 m (1 {s:c}). En cas de combat, les créatures qui se trouvent à moins de 1,50 m (1 {s:c}) bénéficient d’un [[camouflage]] (20 % de chances que les attaques les ratent). Au-delà, elles bénéficient d’un [[camouflage|camouflage total]] (50 % de chances que les attaques les ratent, et leurs adversaires ne peuvent les localiser à l’œil nu).

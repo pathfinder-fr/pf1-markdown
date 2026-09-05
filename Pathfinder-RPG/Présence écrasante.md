@@ -16,17 +16,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une plume de cygne)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature/[[niveau]] qui ne doivent pas être distantes de plus de 9 m les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
 
 La présence du personnage émerveille les créatures voisines. Si elles ratent leur [[jet de sauvegarde]], elles tombent à genoux et se prosternent devant le personnage, en pensant s’incliner devant une présence divine. Une créature volante qui ne sait pas faire de [[vol stationnaire]] atterrit immédiatement et se prosterne. Ces créatures sont [[sans défense]] pendant toute la durée du sort. À chaque [[round]], la cible du sort peut, à son tour, tenter un nouveau [[jet de sauvegarde]] pour mettre un terme à l’effet du sort. C’est une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Une créature qui se remet de ce sort après avoir été affectée pendant au moins 1 [[round]] subit une diminution de 1d6 points de [[Sagesse]] et se retrouve [[chancelant|chancelante]] pendant 1d4 [[round|rounds]]. Une créature qui réussit le premier [[jet de sauvegarde]] pour résister au sort est seulement [[chancelant|chancelante]] pendant 1 [[round]].

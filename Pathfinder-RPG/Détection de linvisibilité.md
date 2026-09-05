@@ -21,15 +21,10 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (talc et poudre d’argent)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)
 
 Ce sort permet au personnage de repérer les objets et les créatures [[invisible|invisibles]] situés dans son champ de vision, ainsi que celles qui sont [[éthéré|éthérées]], comme si elles étaient visibles. Ces créatures apparaissent sous la forme de silhouettes translucides, ce qui permet au personnage de distinguer les créatures visibles, les [[invisible|invisibles]] et celles qui sont [[éthéré|éthérées]].

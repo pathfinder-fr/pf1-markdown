@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[divination]] ; **Niveau** [[alchimiste]] 3, [[barde]] 2, [[prêtre]] 4, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 3  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot peut lire, écrire, parler et comprendre une langue spécifique choisie par le mage. Celle-ci peut être l’une de celles connues par le lanceur, même les langues raciales.

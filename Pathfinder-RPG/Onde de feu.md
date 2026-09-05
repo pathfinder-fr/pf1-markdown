@@ -13,17 +13,11 @@ Categories:
 
 {s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}
 **École** [[Évocation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|6 m (4 {s:c})]]  
-
 **Effet** [[Présentation des sorts#LIGNEDEFFET|ligne de 6 m (4 {s:c})]]  
-
 **Durée** concentration, jusqu'à 1 [[round]]/[[niveau]] ; voir description  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Une violente onde de feu jaillit de la main du lanceur de sorts, infligeant 2d6 points de [[dégâts]] de feu à toutes les créatures prises dans la zone. À chaque [[round]] où le lanceur [[Lancer des sorts#CONCENTRATION|se concentre]] sur le sort, il peut choisir d’affecter une nouvelle zone.

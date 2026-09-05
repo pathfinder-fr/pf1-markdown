@@ -15,17 +15,11 @@ Categories:
 
 {s:racial|Changelin (race)|changelins|Illustrations/PNJ/Changelin.jpg}{s:MR}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m <nowiki>[[</nowiki>5 {s:c}<nowiki>]]</nowiki> + 1,5 m <nowiki>[[</nowiki>1 {s:c}<nowiki>]]</nowiki> /2 niveaux)  
-
 **Cible** une créature  
-
 **Durée** permanente  
-
 **Jet de sauvegarde** [[Volonté]] annule ; **Résistance à la magie** oui
 
 Vous implantez une idée, un concept ou un doute dans l’esprit du sujet. La cible croit sincèrement que l’idée est la sienne, mais n’est pas forcée d’agir en conséquence. Si l’idée est contraire aux pensées normales de la cible (comme, par exemple, un [[Paladin]] qui se dirait : « Je devrais assassiner mes amis »), cette dernière peut se douter qu’une magie mentale est à l’œuvre. L’idée doit être suffisamment claire pour être transmise en une phrase ou deux. Il n’est pas nécessaire de parler une même [[Linguistique#APPRENDREUNELANGUE|langue]] pour que le sort réussisse, mais sans une langue commune, seules les idées rudimentaires les plus basiques peuvent être implantées.

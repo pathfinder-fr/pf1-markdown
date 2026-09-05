@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cibles** jusqu’à 1 créature touchée/[[niveau]]  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 On ne peut faire appel à ce sort que dans une zone de faible luminosité. Le lanceur de sorts et ceux qu’il touche sont alors transportés par une voie d’ombre jusqu’en bordure du [[plan Matériel]], à proximité du [[plans|plan de l’Ombre]]. L’effet du sort est principalement illusoire, mais la voie empruntée est quasi-réelle. Le personnage peut emmener plusieurs compagnons avec lui, à condition que tous se touchent au moment de l’incantation.

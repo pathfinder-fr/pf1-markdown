@@ -17,19 +17,12 @@ Categories:
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
 **École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>;
 **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone** cube de 3 m de côté par [[niveau]]  
-
 **Durée** 1 jour/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour dévoiler ; **Résistance à la magie** non
 
 Le personnage place une illusion sur une zone pour faire croire aux créatures qui la voient ou interagissent avec elle qu’elle a été victime d’une catastrophe ou d’une calamité et qu’ils n’ont aucun intérêt à s’y rendre. Le personnage doit décrire la nature de la catastrophe quand il lance le sort (si c’est un incendie, une tornade, un pillage, une épidémie, etc.) Ensuite, l’illusion se charge de rajouter des détails réalistes. Quand le personnage lance ce sort, il peut immuniser certaines créatures clairement identifiables (grâce à leur race, leur sexe, leur catégorie d’âge, etc.) contre l’illusion. Toutes les créatures qui répondent à ces caractéristiques perçoivent la véritable nature de la zone affectée et non l’illusion. Les créatures qui ne sont pas immunisées et ratent leur jet de sauvegarde considèrent automatiquement que la zone affectée n’a absolument aucun intérêt pour elles et elles poursuivent toujours leur chemin sans l’inspecter plus avant, à moins d’avoir des raisons de soupçonner quelque chose. Les créatures qui ont de bonnes raisons de se douter de la supercherie et qui décident d’examiner les lieux ont droit à un nouveau jet de sauvegarde avec un bonus de +2 quand elles entrent dans le village et interagissent directement avec l’illusion.  
-
 Le personnage peut étendre la zone affectée en lançant le sort à plusieurs reprises. À chaque fois, il doit « attacher » le nouveau sort à une zone déjà voilée en utilisant le même désastre et en accordant l’immunité aux mêmes créatures. Sinon, toute l’illusion disparaît, quelle que soit sa taille.

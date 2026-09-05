@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature tangible/[[round]]  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/2 [[niveau|niveaux]])  
-
 **Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Cette incantation génère un état de résonance destructeur dans le corps de la cible. Chaque round que le [[prêtre]] passe à se [[concentration|concentrer]] (y compris le premier), il inflige 10 points de dégâts par [[niveau de lanceur de sorts]] à une créature en provoquant son implosion. Si le personnage perd sa [[concentration]], le sort se termine immédiatement mais les créatures qui ont déjà commencé à imploser continuent de s’effondrer sur elles-mêmes. Le personnage ne peut pas affecter la même créature à plusieurs reprises au cours d’une même utilisation de ce sort.

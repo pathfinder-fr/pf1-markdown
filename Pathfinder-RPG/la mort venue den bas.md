@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage donne à la cible un bonus d’esquive à la [[CA]] contre les attaques des créatures plus grandes que lui. Ce bonus est de +1 par catégorie de taille d’écart, avec un maximum de +1 point de bonus par tranche de trois niveaux de lanceur de sorts. Si la cible du sort est un gnome, le bonus maximal est égal à +1 par tranche de 2 niveaux de lanceur de sorts.

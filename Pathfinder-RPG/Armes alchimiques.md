@@ -226,7 +226,6 @@ Un [[Kobold (race)|kobold]] qui mâche et avale ce morceau de charbon alchimique
 - *Fumée asphyxiante.* Ce morceau friable de charbon blanc crayeux permet au kobold de cracher un cône de 4,5 mètres de vapeur fétide qui inflige 1d6 points de dégâts d’acide et rend les créatures [[fiévreux|fiévreuses]] pendant 1d4 [[round|rounds]]. Une créature qui réussit un jet de [[Réflexes]] [[DD]] 15 ne reçoit que la moitié des dégâts et n’est pas fiévreuse.  
 
 
-
 {s:AE}{s:Reference|Eau bénite}
 #### Eau bénite
 **Prix** 25 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** —

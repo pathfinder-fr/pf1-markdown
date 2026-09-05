@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** arme touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort rend l’arme ciblée particulièrement puissante contre les créatures maléfiques. On considère que cette arme possède un bonus d’altération de +1 quand il s’agit de vaincre la [[RD|résistance aux dégâts]] des créatures maléfiques ou de frapper des êtres [[intangible|intangibles]] (mais le sort ne confère pas un réel bonus d’altération). L’arme est bonne, ce qui lui permet de passer outre la [[RD|réduction des dégâts]] de certaines créatures (cet effet réprime et remplace l’éventuel [[alignement]] de l’arme). Il est possible d’utiliser ce sort sur une flèche ou un carreau d’arbalète, mais une arme à projectile (arc, etc.) affectée ne transmet pas ses propriétés aux projectiles qu’elle tire.

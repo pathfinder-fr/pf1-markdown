@@ -17,17 +17,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Nécromancie]] ; **Niveau** [[alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[prêtre|Prê]] 3, [[psychiste|Psy]] 3, [[sorcière|Sor]] 3, [[spirite|Spi]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** créature consentante touchée  
-
 **Durée** 1 heure/niveau (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage touche la cible et la plonge dans un état semblable à la mort pendant toute la durée du sort. La cible semble morte et toutes les créatures qui interagissent avec elle doivent réussir un test de [[Premiers secours]] DD 20 pour se rendre compte qu’elle est vivante.

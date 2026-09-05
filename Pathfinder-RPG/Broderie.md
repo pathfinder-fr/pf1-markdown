@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un morceau de tissu brodé de moins de 3 m de côté d'une valeur de 100 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** tous les objets déposés sur le tissu  
-
 **Durée** 1 jour/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ;** Résistance à la magie** oui (objet)
 
 Le personnage transforme tous les objets placés sur un tissu en une version bidimensionnelle brodée, ce qui lui permet de les transporter et de les ranger facilement. Il peut accumuler n'importe quel poids en objets tant qu'ils ne sortent pas des limites du tissu (occupant donc un cube de 3 mètres (2 {s:c}) de côté au maximum). Quand le personnage lance le sort, toute la pile d'objets disparaît dans le tissu, remplacée par une broderie fidèle vue sous l'angle souhaité par le personnage. Le tissu conserve son poids et ses dimensions. Le personnage peut récupérer la pile d'objets à tout moment par une [[action complexe]], en dépliant le tissu et en ordonnant au sort de se dissiper, ce qui consume le tissu. Toute personne autre que le lanceur de sorts doit dissiper la *broderie* si elle veut retrouver les objets. Si le tissu est détruit ou très abîmé, tous les objets qu'il contenait sont perdus. Ce sort n'affecte pas les [[artefacts]] ni les objets uniques similaires.

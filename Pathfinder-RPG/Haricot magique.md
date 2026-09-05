@@ -8,15 +8,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Druide|Dru]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,5 m + 1,5 m/2niveaux)  
-
 **Effet** case de 1,5 m de côté de tiges de haricot possibles à escalader  
-
 **Durée** instantanée
 
 Le personnage fait surgir du sol une tige de haricot épaisse et solide et la fait pousser à une hauteur maximale de 3 mètres + 1,5 mètre par tranche de 2 niveaux de lanceur. La tige qui pousse s’ancre d’elle-même aux objets solides comme les murs ou les plafonds et se développe autour des objets qui n’obstruent pas complètement la case où elle se trouve (comme les branches d’arbre), mais elle est arrêtée par les obstacles solides. La tige du haricot offre de nombreuses prises pour les pieds et les mains. Le [[DD]] pour l’escalader est de 5. Elle peut supporter un poids maximal de 100 kg plus 25 kg par niveau de lanceur, ou le double de ce poids si son extrémité supérieure est ancrée. Si elle s’ancre d’elle-même à un solide objet mobile (comme un navire ou un engin de siège), il faut réussir un test de [[Force]] [[DD]] 23 ou trancher la tige (solidité 2, 40 pv) pour libérer cet objet.

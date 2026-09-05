@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature Mauvaise qui n'est pas de [[sous-type Mal]]  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage contraint une créature Mauvaise qui ne possède pas le [[sous-type Mal]] à réfléchir momentanément à ses actions passées et à se laisser submerger par les remords et la prise de conscience. La cible tombe immédiatement [[à terre]] et, pendant toute la durée du sort, elle se met à se confesser à haute voix auprès du lanceur de sorts pour tous ses péchés et toutes ses transgressions. Le sort se termine immédiatement si le personnage sort du champ de vision de la cible ou si cette dernière se fait attaquer.

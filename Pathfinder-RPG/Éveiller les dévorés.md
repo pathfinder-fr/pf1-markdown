@@ -16,17 +16,11 @@ Categories:
 ---
 
 {s:cs}{s:BotD}**École** [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|douleur]]<nowiki>]</nowiki> ; **Niveau** [[chaman|Cham]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[inquisiteur|Inq]] 4, [[prêtre|Prê]] 5,  [[Psychiste|Psy]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/niveau) (20 {s:c} + 2 {s:c}/niveau)  
-
 **Cible** un [[sous-type daémon|daémon]]/4 niveaux  
-
 **Durée** instantanée et 1 [[round]]/niveau  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
 Ce sort est souvent utilisé par les invocateurs comme méthode pour tourmenter les daémons et forcer leur obéissance, car il réveille les innombrables âmes brisées et angoissées que les daémons ciblés ont consommées. Tous les daémons ciblés par *éveiller les dévorés* doivent être à une distance de 9 m les uns des autres. Les souvenirs fragmentés hantent et affligent les daémons, infligeant 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (maximum 15d8) et rendant les daémons [[confus]] pendant 1 round par niveau. Un daémon qui réussit un jet de [[Volonté]] réduit les dégâts de moitié et annule l'effet de confusion.

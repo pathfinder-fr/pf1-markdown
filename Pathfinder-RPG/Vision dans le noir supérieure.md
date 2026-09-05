@@ -18,15 +18,10 @@ Categories:
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Antipaladin|Apal]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 4</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une pincée de carotte séchée ou une agate)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible du sort acquiert la faculté de voir jusqu’à 36 mètres (24 {s:c}) de distance dans le noir le plus complet. Il voit les formes normalement, mais en noir et blanc.

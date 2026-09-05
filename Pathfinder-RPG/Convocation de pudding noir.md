@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[convocation]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, M]] (une fiole d’acide d’une valeur de 10 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un [[Pouding noir|pudding noir]] convoqué  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage convoque un [[Pouding noir|pudding noir]] qui attaque immédiatement la créature la plus proche. Il n’a aucun contrôle sur le [[Pouding noir|pudding]] qui peut l’attaquer s’il ne voit pas d’adversaire plus proche. Le

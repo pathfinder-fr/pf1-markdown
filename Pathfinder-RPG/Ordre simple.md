@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, langage]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 1, [[ensorceleur]]/[[magicien]] 1, [[inquisiteur]] 1, [[prêtre]] 1, [[sorcière]] 1  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restrictions de cible** *[[choisi]]*
 
 Au prochain tour, la cible d’un sort incluant cet effet doit suivre l’un des cinq ordres simples au mieux de ses capacités. Si elle ne peut entreprendre l’action spécifique, l’effet du sort échoue. Voici les cinq ordres possibles:

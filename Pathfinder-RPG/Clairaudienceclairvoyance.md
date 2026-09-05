@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, F/FD]] (un petit cornet acoustique ou un œil de verre)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** capteur magique  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Clairaudience/clairvoyance* crée un capteur magique invisible grâce auquel le personnage peut se concentrer sur le lieu de son choix et de voir ou d’entendre (selon son désir) ce qui s’y passe comme s’il s’y trouvait. Le personnage n'a pas besoin d'avoir de ligne de vue ou d'effet, mais l’endroit observé doit être connu (le personnage doit s’y être déjà rendu auparavant, à moins qu’il s’agisse d’un lieu évident). Une fois le lieu choisi, le capteur ne bouge plus, mais il peut pivoter dans n’importe quelle direction. A l’opposé d’autres sorts de [[branche scrutation|scrutation]], celui-ci ne permet pas l’utilisation des sens accrus par magie. Si l’endroit désigné est obscurci magiquement, le personnage ne voit rien. Si cette obscurité est naturelle, il perçoit ce qui se passe dans un rayon de trois mètres autour du point d’effet du sort. *Clairaudience/clairvoyance* ne fonctionne que dans le [[plans|plan]] d’existence où le personnage se situe actuellement.

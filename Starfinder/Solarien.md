@@ -8,10 +8,8 @@ LastModified: 2021-08-02 04:55
 votre disposition des particules d’énergie fondamentale ou entropique, vous pouvez manipuler cette essence en combat pour créer des armes et des armures de lumière stellaire ou de ténèbres dévorantes. Que vous ayez été formé dans un temple ou que vous ayez découvert seul votre puissance, vous vous reconnaissez comme partie intégrante d’une ancienne tradition, une force de préservation et d’annihilation.''
 
 <div class="fright">***Voir aussi les [[RÉVÉLATIONS STELLAIRES]].***  
-
 </ul></div>
   
-
 
 <center>
 {| CLASS="tablo"

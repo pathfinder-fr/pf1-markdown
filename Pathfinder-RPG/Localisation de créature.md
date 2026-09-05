@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (fourrure d’un limier)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** cercle de 120 m de rayon + 12 m/[[niveau]] (80 {s:c} + 8 {s:c}/[[niveau]]), centré sur le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à cette incantation, le personnage sent dans quelle direction se trouve une créature  connue du personnage. A la fin de l’incantation, le personnage fait lentement des tours sur lui-même, jusqu’à ce que le sort lui indique dans quelle direction se trouve la créature qu’il recherche (si elle ne se trouve pas trop loin). Si elle se déplace, le jeteur de sorts apprend également dans quelle direction elle avance.

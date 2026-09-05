@@ -17,56 +17,44 @@ Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu A
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9055_120.jpeg|http://paizo.com/products/btpy8mh2}
 {s:BookPic||}
 {s:BookComment|**Niveau 1**  
-
 Les aventuriers se réveillent dans la cale d'un navire au milieu de la mer et découvrent qu'ils ont été contraints de rejoindre un équipage de vauriens, de voleurs et de boucaniers originaires des îles pirates des Entraves. Quand ils sont intégrés à un équipage réduit chargé de piloter un vaisseau capturé, les aventuriers ont finalement une chance de mettre sur pied une mutinerie… mais une soudaine tempête les fait échouer sur une île isolée habitée par d'étranges monstres. Pourront-ils survivre aux dangers de l'île, venir à bout de leurs cruels geôliers et reprendre le contrôle de leur destin ? Deviendront-ils des pirates terrifiants possédant leur propre navire ou l'océan sera-t-il leur tombeau ?  
   
-
 **Articles :** [[Golarion.Besmara|Besmara]], la déesse des pirates et sur la vie des pirates en mer.}
 {s:BookTitle|AP10-2|Raiders of the Fever Sea/Les pillards de la mer de la Fièvre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9056_180.jpeg|http://paizo.com/products/btpy8moe}
 {s:BookPic||}
 {s:BookComment|**Niveau 4**  
-
 Les aventuriers, qui sont désormais maîtres de leur propres vaisseau, peuvent devenir de véritables pirates mais ils doivent d'abord rebaptiser et rafistoler leur navire. Avant de pouvoir être considérés comme des pirates des Entraves à part entière, ils devront prouver qu'ils sont dignes de ce titre. Quand ils découvrent une carte au trésor tatouée sur un pirate rival vaincu, ils partent à la recherche du trésor enfoui. S'il le trouvent, ils auront assez de butin pour revenir aux Entraves en tant que véritables capitaines libres !  
   
-
 **Articles :** Un atlas des emplacements et des dangers qui se cachent sous les vagues des divers océans de Golarion}
 {s:BookTitle|AP10-3|Tempest Rising/La tempête se lève}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9057_180.jpeg|http://paizo.com/products/btpy8mof}
 {s:BookPic||}
 {s:BookComment|**Niveau 7**  
-
 Les aventuriers reviennent vers les Entraves la cale pleine de butin et de trésors. Ils doivent se présenter devant le Roi des Ouragans des Entraves. Désormais reconnus en tant que Capitaines libres, ils peuvent s'inscrire à la Régate des capitaines libres, une course épuisante longeant le terrible ouragan appelé l'Œil d'Abendégo. Les vainqueurs recevront une bourse bien garnie, leur propre île privée et un siège au Conseil des Pirates des Enclaves. Les aventuriers parviendront-ils à triompher contre de féroces adversaires, d'anciens rivaux et les vents et courants traîtres de l'Œil d'Abendégo ? Ou leur vaisseau s'échouera-t-il contre les rochers, incapable de naviguer à nouveau ?  
   
-
 **Articles :** les secrets des seigneurs-pirates des Entraves et sur Port-Péril}
 {s:BookTitle|AP10-4|Island of Empty Eyes/L'île des yeux vides}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9058_180.jpeg|http://paizo.com/products/btpy8mog}
 {s:BookPic||}
 {s:BookComment|**Niveau 9**  
-
 Après avoir gagné la Régate des Capitaines libres, les aventuriers doivent désormais s'approprier leur récompense : une île habitée et dangereuse appelée l'île des Yeux vide. Après avoir exploré d'étranges ruines et combattu les habitants monstrueux de l'île, les aventuriers doivent organiser un festin pour leurs pairs du Conseil des pirates. Mais un mystérieux saboteur menace de ruiner la fête. Les aventuriers pourront-ils dompter les étendues sauvages de leur île et protéger leurs importants invités ? Ou perdront-ils à tout jamais le respect des seigneurs pirates et sombreront-ils dans l'obscurité ?  
   
-
 **Articles :** les pirates légendaires de Golarion et des détails sur l'étrange race des cyclopes}
 {s:BookTitle|AP10-5|The Price of Infamy/Le prix de l'infamie}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9059_180.jpeg|http://paizo.com/products/btpy8moh}
 {s:BookPic||}
 {s:BookComment|**Niveau 11**  
-
 Les aventuriers possèdent désormais leur propre île et leur propre port mais ils auront besoin de plus d'un vaisseau pour les défendre. Ils doivent parcourir les ports et les quais des Entraves pour recruter d'autres navires et de nouveaux équipages qui travailleront sous leur bannière. Mais, lorsqu'un rival surgi du passé envoie une flotte les attaquer, ils doivent défendre l'île sur laquelle ils se sont établis. Et, lorsqu'ils reviennent vers l'île pour se venger, ils découvrent un traître dont les actes mettent en danger toutes les îles des Entraves.  
   
-
 **Articles :** culte de [[Golarion.Norgorber|Norgorber]], dieu des voleurs et des assassins et des règles pour les combats entre des flottes de pirates}
 {s:BookTitle|AP10-6|From Hell’s Heart/Depuis le coeur des Enfers}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9060_180.jpeg|http://paizo.com/products/btpy8moi}
 {s:BookPic||}
 {s:BookComment|**Niveau 13**  
-
 Avec, au loin, une flotte ennemie bien décidée à conquérir les Entraves, les aventuriers doivent construire leur propre flotte de pirates et de boucaniers pour se défendre contre les envahisseurs, jusqu'à la confrontation : une bataille navale épique au milieu de l'Œil d'Abendégo. Les aventuriers parviendront-ils à vaincre la flotte des envahisseurs et à sauver les Entraves ? Ou l'indépendance des Capitaines libres sera-t-elle perdue à jamais ?
   
   
-
 **Articles :** étendre la campagne, les monstres marins les plus dangereux}
 {s:BookTitle|AP10-7|Skull & Shackles Adventure Path Pawn Collection/Boîte de pions des Pirates des Entraves}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1004_180.jpeg|http://paizo.com/products/btpy8rci}

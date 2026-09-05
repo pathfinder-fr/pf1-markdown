@@ -13,17 +13,11 @@ Categories:
 
 {s:Desambi|Abri est également une [[abri|notion relative au combat]].}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (une petite perle de cristal)  
-
 **Portée** 6 m (4 {s:c})  
-
 **Effet** [[sphère]] de 6 m (4 {s:c}) de rayon centrée sur la position du personnage  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 En lançant ce sort, le personnage fait apparaître autour de lui une [[sphère]] de [[registre|force]], opaque et immobile, de la couleur de son choix. La moitié supérieure du globe est visible, le reste se trouvant sous terre. En plus du personnage, l’*abri* peut accueillir jusqu’à neuf créatures de [[taille M]]. Tous ces invités peuvent entrer ou sortir comme bon leur semble. Par contre, si le personnage sort de la sphère, celle-ci disparaît aussitôt.

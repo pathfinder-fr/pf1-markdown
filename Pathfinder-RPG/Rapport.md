@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cibles** 1 créature vivante touchée/3 [[niveau|niveaux]]  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort est particulièrement utile lorsque le personnage a besoin de savoir ce qui arrive à ses compagnons quand le groupe se sépare. Le *rapport* qu’il reçoit indique la position et l’état de santé de chacun : en pleine forme, blessé, [[hors de combat]], [[chancelant]], [[inconscient]], [[mourant]], [[nauséeux]], [[paniqué]], [[étourdi]], empoisonné, malade, [[confus]], etc. Une fois les sujets nommés, la distance ne constitue plus un obstacle entre eux et le personnage, à condition que tous restent dans le même plan d’existence. Si l’un d’eux le quitte, le lanceur de sorts ne reçoit plus la moindre informations à son sujet.

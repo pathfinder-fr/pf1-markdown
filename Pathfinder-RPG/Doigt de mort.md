@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature vivante  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Ce sort inflige 10 points de dégâts par [[NLS|niveau de lanceur de sorts]]. Si la cible réussit son [[jet de sauvegarde]], elle perd seulement 3d6 [[points de vie]], +1 par [[NLS|niveau de lanceur de sorts]]. Il est possible que les dégâts occasionnés soient suffisants pour la tuer, même si elle réussit son [[jet de sauvegarde]].

@@ -262,7 +262,6 @@ Chaque objet intelligent possède au moins un pouvoir mais certains en possèden
 | +2
 |- CLASS="note"
 | COLSPAN="4" | (*) Les objets intelligents peuvent seulement maîtriser des compétences basées sur l’[[Intelligence]], la [[Sagesse]] ou le [[Charisme]], à moins qu’ils ne possèdent un pouvoir ou une forme qui leur permette de se mouvoir.  
-
 |}
 </center>
 
@@ -326,7 +325,6 @@ pouvoirs magiques)
 | +2
 |- CLASS="note"
 | COLSPAN="3" | (*) Le dessein des objets Neutres (N) consiste à préserver l’équilibre en vainquant/tuant les puissants représentants des alignements extrêmes (LB, LM, CB, CM).  
-
 |}
 </center>
 

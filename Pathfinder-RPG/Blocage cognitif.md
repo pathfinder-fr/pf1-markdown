@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[psychiste|Psy]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#La_portée_18|courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 round/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage crée un blocage mental dans l’esprit de sa cible, entravant son processus d’incantation mentale et l’obligeant à ajouter une [[La magie psychique#COMPOSANTEINTELLECTUELLE|composante intellectuelle]] à ses sorts et pouvoirs magiques. Cela vient en plus des autres composantes du sort et ne remplace pas la [[composantes|composante verbale]]. Les pouvoirs magiques exigent cette [[La magie psychique#COMPOSANTEINTELLECTUELLE|composante intellectuelle]], alors même qu’ils ne demandent habituellement pas de composante.

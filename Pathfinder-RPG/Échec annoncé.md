@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Divination]] <nowiki>[</nowiki>[[registre|malédiction]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** [[Présentation des sorts#DUREE|permanent]] ou 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
 Le personnage flagelle le corps et l'esprit de sa cible en lui faisant ressentir l'angoisse de l'échec et les souffrances de toutes les défaites à venir, ce qui la rend définitivement [[secoué|secouée]] et [[fiévreux|fiévreuse]]. Un jet de [[volonté]] réussi réduit la durée à 1 round par [[niveau]]. Si la cible est un lanceur de sort, il reçoit une [[Description des plaies magiques|plaie mineure]] aléatoire en cas de jet raté.

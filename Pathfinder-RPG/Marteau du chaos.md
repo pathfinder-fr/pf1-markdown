@@ -8,17 +8,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|chaos]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 4, [[prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** zone de 6 m (4 {s:c}) de rayon  
-
 **Durée** [[instantanée]] (1d6 [[round|rounds]]) ; voir description  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir description ; **Résistance à la magie** oui
 
 Le personnage déchaîne le pouvoir du Chaos sur ses ennemis. Ce pouvoir se traduit par une explosion multicolore d’énergie qui bondit et ricoche alentour. Seules les créatures Loyales ou Neutres sont affectées.

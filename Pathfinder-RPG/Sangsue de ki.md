@@ -14,15 +14,10 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Le personnage place son esprit dans un état réceptif, de manière à ce que, s’il confirme un coup critique contre un ennemi vivant ou s’il en réduit un à 0 point de vie ou moins, il puisse lui voler une partie de son *ki*. Tant que le personnage possède encore au moins 1 point de *ki* dans sa réserve, cela la remplit d’un point de plus mais ne lui permet pas de dépasser son maximum. Ce pouvoir ne se cumule pas avec des pouvoirs similaires comme la [[Moine du Fantôme affamé (moine)#SUBTILISATIONDEKI|subtilisation de ki]] du [[Moine du Fantôme affamé (moine)|moine du fantôme affamé]].

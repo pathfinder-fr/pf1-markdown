@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** [[rayon]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort crée un rayon d’énergie positive. Le personnage doit réussir une [[attaque de contact à distance]] pour atteindre le [[type mort-vivant|mort-vivant]]. Si l’attaque touche, le [[type mort-vivant|mort-vivant]] subit 1d6 points de dégâts.

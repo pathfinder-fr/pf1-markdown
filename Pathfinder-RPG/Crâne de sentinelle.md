@@ -15,19 +15,12 @@ Categories:
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[créer un sort#MAL|Mal]]<nowiki>]</nowiki> ;
 **Niveau** [[Antipaladin|Apal]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[Composantes|V, G, M]] (un onyx d’une valeur minimum de 10 po)  
-
 **Portée** contact  
-
 **Cible** une tête tranchée touchée.  
-
 **Durée** permanente (T) ; voir description  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 
 Le lanceur de sorts restaure ses sens à une tête tranchée d’humanoïde ou
 d’humanoïde monstrueux tué au cours des dernières 24 heures, créant une

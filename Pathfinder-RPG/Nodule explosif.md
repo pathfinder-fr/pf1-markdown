@@ -12,19 +12,12 @@ Categories:
 ---
 
 {s:AO}**École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 3, [[médium|Méd]] 3, [[Occultiste|Occ]] 2, [[psychiste|Psy]] 3   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 objet touché pesant moins de 5 kg  
-
 **Durée** [[permanente]] jusqu’à déchargement (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** non
 
 Le personnage imprègne un objet d’énergie psychique. Le nodule explosif provoque une explosion mentale dès qu’une créature dotée d’un esprit touche l’objet, lui infligeant 6d6 points de dégâts et la rendant [[États préjudiciables#Chancelant|chancelante]] pendant 1 minute. Un jet de sauvegarde réussi réduit les dégâts de moitié et annule le chancellement.  
-
 Les pièges magiques comme celui-ci sont difficiles à repérer et à désamorcer. Un personnage disposant du pouvoir de classe recherche de pièges peut utiliser [[Sabotage]] pour désactiver le nodule explosif. Le [[DD]] des tests de [[Perception]] pour repérer le nodule et de [[Sabotage]] pour le désamorcer sont tous deux de 25 + niveau du sort. De plus, une créature disposant de l’extension de compétence occulte [[Extensions de compétences occultes#LECTUREDAURAS|lecture d'auras]] a droit au même test de [[Perception]] pour repérer le nodule.

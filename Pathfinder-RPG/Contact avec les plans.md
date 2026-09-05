@@ -16,15 +16,10 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]]
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#5|→]] *Contact avec les plans* : Puis-je faire 10 au test d’Intelligence imposé par ce sort ?***

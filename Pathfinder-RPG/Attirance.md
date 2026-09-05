@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (une goutte de miel et des perles broyées (1 500 po))  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 lieu (volume n’excédant pas 1 cube de 3 m d’arête/[[niveau]]) ou 1 objet  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 L’objet ou le lieu désigné par le jeteur de sort engendre des vibrations attirant, au choix, un [[Types de créatures|type]] donné de créatures intelligentes ou tous les êtres d’un même [[alignement]]. La [[race]] de créatures affectée doit être nommée lors de l’incantation. Les [[Sous-types de créatures|sous-types]] ne sont pas assez spécifiques. Si le personnage préfère affecter un [[alignement]], il doit l’indiquer.

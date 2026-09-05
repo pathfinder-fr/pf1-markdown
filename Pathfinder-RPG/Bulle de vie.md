@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Rôdeur|Rôd]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un morceau de coquille d'œuf)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créatures touchées, jusqu'à une/[[niveau]]  
-
 **Durée** 2 heures/[[niveau]] ; voir texte  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVERGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVERGARDE|inoffensif]]) ; ** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVERGARDE|inoffensif]])
 
 Le personnage entoure les créatures touchées d'une enveloppe constante et déplaçable de 3 cm d'épaisseur de conditions vivables. Cette enveloppe permet au sujet de respirer librement, même sous l'eau ou dans le vide. Elle les immunise également contre les gaz et les vapeurs nocives, y compris les [[maladies]] et les [[poisons]] inhalés ainsi que les sorts comme *[[brume mortelle]]* ou *[[nuage nauséabond]]*. De plus, l'enveloppe protège les sujets contre les températures extrêmes (comme *[[endurance aux énergies destructives]]*) et aux fortes pressions.

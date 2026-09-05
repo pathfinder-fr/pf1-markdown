@@ -25,7 +25,6 @@ Olivier Fanton, un des traducteurs de cette édition, proposait sur [son site](h
 <center>
 {| CLASS="tablo"
 |+    Table aléatoire des échecs critiques      
-
 |- CLASS="titre"
 | 1d6 || Caractéristique || Conséquence
 |- CLASS="premier"

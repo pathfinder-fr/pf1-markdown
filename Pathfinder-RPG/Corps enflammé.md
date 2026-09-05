@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]]
 
 Ce sort transforme le corps du lanceur de sorts en flamme vivante. Le personnage et son équipement sont alors immunisés contre les dégâts de feu. En réalité, à chaque fois que le personnage devrait subir des dégâts de feu, il est soigné pour un ratio de 1 point de soin pour 3 points de dégâts que l'attaque de feu aurait normalement dû infliger. Le personnage est [[immunisé]] contre la [[aveuglé|cécité]], les [[coup critique|coups critiques]], les [[affaiblissement temporaire|affaiblissements]] de caractéristique, la [[assourdi|surdité]], la maladie, la noyade, l'électricité, le poison, l'[[étourdi|étourdissement]] et contre tous les sorts qui affectent sa physiologie ou sa respiration. Il ne subit que la moitié des dégâts d'acide ou d'électricité. Il reçoit 150% des dégâts de froid normaux.

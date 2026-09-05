@@ -16,26 +16,18 @@ Categories:
 
 {s:UM}
 **École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]] et courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** lanceur de sorts et un allié  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** oui (inoffensif); **Résistance à la magie** oui (inoffensif)
 
 Le personnage fusionne ses pensées avec celles d'un allié, ce qui leur permet de se battre en tandem, de façon parfaitement coordonnée. Le personnage et son allié font tous deux leur jet d'[[initiative]] et utilisent le meilleur jet avant d'y ajouter leur modificateur. Ce sort a trois effet.
 
 :*A distance*. Si le personnage et son allié font tous deux une [[Valeurs de combat#BONUSDATTAQUE|attaque à distance]] contre la même créature, ils font tous deux un [[jet dattaque|jet d'attaque]] et prennent tous deux le meilleur dé (plus les bonus).  
 
-
 :*Corps à corps*. Si le personnage et son allié font tous deux une [[Valeurs de combat#BONUSDATTAQUE|attaque de corps à corps]] contre la même créature, ils font tous deux un [[jet dattaque|jet d'attaque]] et prennent tous deux le meilleur dé (plus les bonus).  
-
 
 :*Sort*. Si le personnage et son allié lancent tous deux un sort et visent la même zone ou la même créature, les créatures affectées subissent un malus de -2 au [[jet de sauvegarde]] contre les sorts.
 

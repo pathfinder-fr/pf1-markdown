@@ -11,17 +11,11 @@ Categories:
 
 {s:Desambi|Contrôle des morts-vivants est également le nom d'un [[contrôle des morts-vivants|don]] et d'une [[contrôle des morts-vivants (propriété)|propriété d'armure magique]].}
 **École** [[Nécromancie]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de viande crue et un éclat d’os)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** jusqu’à 2 [[DV]] de [[type mort-vivant|morts-vivants]]/[[niveau]], distants de moins de 9 m (6 {s:c}) les uns des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Grâce à ce sort, le personnage peut prendre le contrôle de [[type mort-vivant|morts-vivants]] pour un temps limité. Il leur donne ses ordres vocalement. Le personnage ne peut pas communiquer par télépathie mais quelle que soit la langue qu’il utilise, il se fait comprendre des [[type mort-vivant|morts-vivants]]. S’il se trouve dans l’incapacité de pouvoir s’exprimer (par exemple, à cause d’un sort de *[[silence]]*), les créatures affectées ne l’attaquent pas. Lorsque le sort cesse de faire effet, les [[type mort-vivant|morts-vivants]] recommencent à agir normalement.

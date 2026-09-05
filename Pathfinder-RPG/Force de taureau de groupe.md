@@ -16,7 +16,6 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G, M/FD]] (quelques poils de taureau ou une pincée de bouse séchée)
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])

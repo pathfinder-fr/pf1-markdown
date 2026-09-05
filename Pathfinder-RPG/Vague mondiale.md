@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau, terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** voir description  
-
 **Effet** voir description  
-
 **Durée** 1 [[round]]/[[niveau]] ou 1 heure/[[niveau]] ; voir description (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage crée une ondulation sur n'importe quelle sorte de terrain naturel (y compris une étendue d'eau, de forêt, de désert, de toundra, etc.) qui l'emporte en toute sécurité sur de grandes distances avec une puissance dévastatrice. Cette vague de terrain fait onduler le monde sur son passage, soulevant ou étirant sans les abîmer les objets, les créatures et tout ce qui se trouve en rapport avec le monde naturel alors qu'elle déchire et abîme tout le reste. Le personnage doit choisir le type de la vague quand il lance le sort : un tsunami ou une petite houle. S'il choisit de faire un tsunami, il crée une lame d'eau ou de terre de 9 mètres (6 {s:c}) de haut qui s'abat sur le paysage et dure 1 [[round]] par [[niveau]]. S'il choisit la houle, il crée une vague plus douce et plus contrôlable de 1,50 mètre (1 {s:c}) qui dure 1 heure par [[niveau]]. Quelle que soit la forme ou la composition de la vague, sa crête s'étend sur 3 mètres (2 {s:c}) devant et derrière le personnage et sur 1,50 mètre (1 {s:c}) par [[niveau]] sur sa droite et sa gauche. Que le personnage soit assis ou debout sur la crête, il ne risque absolument pas de tomber alors que la vague l'emporte et il peut même s'allonger et dormir (ou entreprendre une action quelconque comme s'il se tenait sur un sol stable). Il peut permettre à une créature par [[niveau]] de l'accompagner en toute sécurité.

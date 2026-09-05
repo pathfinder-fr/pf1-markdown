@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] ;** Niveau** [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une feuille d'arbre qui ombrage bien)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature par [[niveau]]  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort offre au sujet un certain degré de protection contre les effets néfastes du soleil. Le sujet enveloppé du *manteau d'ombre* considère la chaleur due à l'exposition au soleil comme étant un degré en dessous de ce qu'elle devrait être : une chaleur torride sera considérée comme une chaleur accablante alors que cette dernière sera considérée comme une température normale (voir "[[Dangers Naturels#CHALEUR|La Chaleur]]"). Le *manteau d'ombre* réduit également tout malus dû au soleil de 1. En revanche, le sort n'élimine pas les effets directs du soleil sur les créatures vulnérables. Le sort n'a aucun effet sur les sources de chaleur autres que le soleil.

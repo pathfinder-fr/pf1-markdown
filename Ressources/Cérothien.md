@@ -47,19 +47,14 @@ Categories:
 </td><td><div>*Ce soldat grossièrement armuré possède une tête bestiale. Il pointe vers vous la corne qui se trouve juste au dessus de sa bouche.*
 
 Le cérothien est une créature d’aspect bestial qui a été créée il y a fort longtemps par une magie profane afin de fournir d’implacables soldats aux légions impériales. Inspirés par de puissants animaux méridionaux, les cérothiens ont un cuir des plus épais, une tête allongée surmontée d’oreilles toujours en mouvement, et munie de petits yeux myopes. La caractéristique la plus marquante est l’épaisse corne située au-dessus de leur bouche et qui font d’eux des combattants exceptionnels.    
-
 Il s’agit de créatures totalement dépourvues d’humour, s’adaptant à merveille à une organisation de type militaire. Les premiers cérothiens qui furent créé furent vraisemblablement équipés en masse d’armures et d’armes efficaces et peu chères. S’adaptant à ces conditions, les cérothiens ont développé leur culture et leur mode de vie sur ces données, faisant même des légions où ils étaient enrôlés leur principale structure sociale.   
-
 Malgré leur impressionnant potentiel au combat frontal, les cérothiens souffrent d’une vue incroyablement mauvaise qu’ils compensent par une ouïe fine. Cela étant, l’utilisation d’armes à distances leur est quasiment impossible et rares sont ceux qui prennent la peine d’apprendre à manier un arc correctement. Les mieux nantis possèdent des verres correcteurs pour pallier cet handicap.   
-
 Ils sont le plus souvent d’alignement loyal.   
-
 
 #### Les cérothiens en tant que PJ
 
 Les érothiens ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **For  +2, Con +2, Cha -2**. Les cérothiens ont été créés forts et endurants, mais dépourvus d'humour et d'imagination. *(spécialisé, 1PR)*  
-
 - **Taille** moyenne.
 - **Langue** : commun. Un score élevé d’intelligence permet au cérothien d’apprendre le nain, l’elfique ou l'orc. 
 - **Vitesse** : 9 mètres.

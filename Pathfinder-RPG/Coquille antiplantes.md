@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[druide|Dru]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 3 m (2 {s:c})  
-
 **Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon centrée sur le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort crée une barrière [[invisible]] et mobile qui protège toute personne se trouvant à l’intérieur contre les attaques des [[type plante|créatures végétales]] et des [[type plante|plantes animées]]. Comme il en va pour la majorité des sorts d’[[abjuration]], la protection s’évanouit immédiatement si l’on s’en sert pour repousser activement une créature.

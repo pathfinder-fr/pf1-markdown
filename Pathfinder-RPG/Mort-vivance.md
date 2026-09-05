@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[prêtre]] 3, [[ensorceleur]]/[[magicien]] 3  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 **Restriction de cible** *[[choisi]]*
 
 Ce mot effet ne peut prendre pour cible que les cadavres de créatures mortes. Ceux-ci deviennent des [[Squelette, archétype|squelettes]] ou des [[Zombi, archétype|zombis]], selon ce que le lanceur a décidé, et suivent ses ordres au mieux de leurs capacités limitées. Ils restent des [[type Mort-vivant|morts-vivants]] jusqu’à ce qu’ils soient détruits. Le personnage peut créer au mieux 2 [[DV]] de [[type Mort-vivant|morts-vivants]] par [[NLS|niveau de lanceur]] à chaque fois qu’il utilise un sort incluant ce mot effet. Il ne peut contrôler plus de 4 [[DV]] de ces créatures par [[NLS|niveau de lanceur]]. S’il crée d’autres [[type Mort-vivant|morts-vivants]], il décide lesquels restent sous son contrôle afin de rester dans la limite imposée par le sort.

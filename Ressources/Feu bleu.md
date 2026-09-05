@@ -7,11 +7,8 @@ Categories:
 ---
 
 <div style="float:right"><sub>*Proposé par Faenil*</sub>  
-
 *Retour à l'[[RM Index|index des règles maison]].*  
-
 *Voir aussi les [[Pathfinder-RPG.Outils alchimiques|.Outils alchimiques]].*  
-
 </div><div class="BD">
 
 

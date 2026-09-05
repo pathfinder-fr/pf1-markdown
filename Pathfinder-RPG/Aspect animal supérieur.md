@@ -16,7 +16,6 @@ Categories:
 ---
 
 {s:UC}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 3, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
-
 **Temps d’incantation** 1 [[action simple]]
 **Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)
 **Portée** personnelle
@@ -38,7 +37,6 @@ Ce sort fonctionne comme *[[aspect animal]]* mais le personnage peut prendre deu
 (((
 ## Aspect animal
 {s:UC}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2  
-
 **Temps d’incantation** 1 [[action simple]]
 **Composantes** [[Composantes|V, G, F]] (un morceau de l’animal)
 **Portée** personnelle

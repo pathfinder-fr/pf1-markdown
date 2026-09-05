@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une perle noire réduite en poudre (500 po))  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Zone d'effet** plusieurs créatures vivantes dans un [[rayonnement]] de 12 m (8 {s:c}) de rayon  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Cercle de mort éteint l’étincelle de vie des créatures présentes dans la [[zone deffet|zone d’effet]], qui meurent instantanément. Le sort tue 1d4 [[DV]] de créatures par [[NLS|niveau de lanceur de sorts]] (allant jusqu’à un maximum de 20d4). Les plus faibles créatures sont les premières à être affectées. En cas de [[DV]] identiques, ce sont les cibles les plus proches du point d’origine du [[rayonnement]] qui sont touchées en priorité. Toute créature disposant d’un minimum de 9 [[DV]] est immunisée contre ce sort. Si les [[DV]] restants sont insuffisant pour toucher la cible suivante, ils sont perdus.

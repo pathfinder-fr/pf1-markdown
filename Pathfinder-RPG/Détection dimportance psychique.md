@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] ; **Niveau** [[hypnotiseur|Hyp]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|12 m]]  
-
 **Zone** rayonnement de 12 m centré sur le lanceur  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage remarque la présence des objets dotés d’une importance psychique situés dans les parages. Ce sont des objets qui possèdent une empreinte ou une histoire psychique conséquente, telle qu’on peut la lire via l’extension de compétence occulte de

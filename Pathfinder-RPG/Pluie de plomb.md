@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 4, [[Psychiste|Psy]] 3, [[Sanguin|San]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une poignée de plombs en métal ou de plombs en fer froid, en argent ou en adamantium ; consultez la description pour le prix)  
-
 **Portée** 9 m (6 {s:c})  
-
 **Zone** cône  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** non
 
 Ce sort crée une explosion de plombs invoqués qui s’abat sur tout ce qui se trouve dans la zone et inflige 1d8 points de dégâts perforants par tranche de deux [[NLS|niveaux de lanceur de sorts]], avec un maximum de 5d8. Ces dégâts sont soumis à la [[RD|réduction de dégâts]]. Si les plombs sont en fer froid (50 po), en argent (20 po) ou en adamantium (100 po), la pluie de plomb ignore la [[RD]] appropriée. Les plombs disparaissent une fois le sort lancé et les dégâts infligés.

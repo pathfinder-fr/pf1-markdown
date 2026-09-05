@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 9 m (6 {s:c})  
-
 **Cible** [[émanation]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage murmure une unique parole dans le langage primitif du bien. Elle est anathème pour tous les serviteurs du mal et renforce la résolution des créatures bonnes. Les créatures Mauvaises qui se trouvent dans le cône doivent réussir un jet de [[Vigueur]] ou être [[fiévreux|fiévreuses]] pendant 1 [[round]]/[[niveau]]. Les [[type extérieur|extérieurs]] Mauvais de [[sous-type Mal|sous-type Mauvais]], les dragons Mauvais et les [[type mort-vivant|morts-vivants]] qui se trouvent dans le cône subissent également 2d8 points de dégâts s'ils ratent leur [[jet de sauvegarde]]. Les créatures d'alignement Bon situées dans la zone d'effet gagnent un bonus sacré de +2 aux jets d'attaque et de dégâts pendant 1 [[round]].

@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Abjuration]] ; **Niveau** [[hypnotiseur|Hyp]] 4, [[médium|Méd]] 3, [[Occultiste|Occ]] 3, [[psychiste|Psy]] 5, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** objet touché  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté, annule (objet)]] ; **Résistance à la magie**oui (objet)
 
 Le personnage bannit les impressions psychiques de l’objet touché, le privant de son histoire récente. Au personnage de choisir quelle durée il efface, dans la limite d’une journée par niveau de lanceur de sorts. Il doit impérativement effacer les événements présents d’abord et remonter ensuite dans le passé, il ne peut pas laisser les événements les plus récents intacts. Il est impossible de récupérer les impressions ainsi effacées via lecture d’objet, mythes et légendes ou des méthodes similaires.

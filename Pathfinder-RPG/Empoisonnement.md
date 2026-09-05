@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Hypnotiseur|Hyp]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature vivante touchée  
-
 **Durée** [[instantanée]] (voir description)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort fait appel au pouvoir des entités venimeuses. Il permet au personnage d’empoisonner sa cible en réussissant une [[attaque de contact au corps à corps]]. Le [[poison]] inflige 1d3 points d’[[affaiblissement temporaire]] de [[Constitution]] par [[round]] pendant 6 [[round|rounds]]. Une créature empoisonnée a droit à un jet de [[Vigueur]] par [[round]] pour annuler les dégâts et se débarrasser du poison.

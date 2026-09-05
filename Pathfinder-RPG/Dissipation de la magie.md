@@ -25,17 +25,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible ou zone d’effet** 1 jeteur de sorts, 1 créature ou 1 objet  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Dissipation de la magie* permet de mettre un terme à un sort lancé sur une créature ou un objet, d’annuler temporairement les pouvoirs d’un objet magique ou de contrer un sort jeté par un autre lanceur de sorts. Un sort dissipé se termine comme si sa durée normale était écoulée. Certains sorts font exception à cette règle et ne sont pas affectés par une *dissipation de la magie* (lorsque c’est le cas, c’est précisé dans leur description). *Dissipation de la magie* peut également dissiper les effets des [[Capacités spéciales#TYPES|pouvoirs magiques]] de certaines créatures, mais pas les contrer au moment où ils sont lancés. Les effets des sorts dont la durée est instantanée ne peuvent pas être dissipés, car l’intervention magique se termine immédiatement, bien avant que la dissipation ne puisse agir.

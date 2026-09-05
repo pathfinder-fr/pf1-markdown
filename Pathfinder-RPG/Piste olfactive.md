@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Druide|Dru]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une reine des fourmis)  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage ou une créature consentante qu'il touche laisse une piste olfactive que seules les créatures désignées au moment de l'incantation peuvent suivre. Elles y parviennent avec une grande facilité : elles bénéficient d'un bonus de compétence de +20 aux tests de [[Survie]] destinés à suivre la créature qui a laissé cette piste. Les créatures sujettes qui disposent du pouvoir spécial [[odorat]] gagnent un bonus de compétence de +10 aux tests de [[Sagesse]] ou de [[Survie]] pour suivre la piste.

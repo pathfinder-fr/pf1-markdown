@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** 1 carré de 3 m de côté/[[niveau]] (voir description)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Au terme de l’incantation, la pierre et la terre comprises dans la [[zone deffet|zone d’effet]] se ramollissent, à condition qu’elles soient encore à l’état brut (autrement dit, qu’on ne les ait pas travaillées). La terre humide se transforme en boue épaisse, la terre sèche en sable ou en terre friable et la roche en argile meuble facile à modeler. Le sort affecte une zone de 3 m de côté, sur une profondeur allant de 30 cm à 1,20 m, selon la résistance du sol. Il n’affecte pas la pierre magique, enchantée ou ouvragée, ni les créatures de terre ou de pierre.

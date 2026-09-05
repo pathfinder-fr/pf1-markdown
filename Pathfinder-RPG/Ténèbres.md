@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, M/FD]] (fourrure de chauve-souris et morceau de charbon)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#39|→]] *Ténèbres* : Est-ce qu’ajouter plusieurs bâtons éclairants dans la zone d’effet de ce sort augmente le niveau de luminosité ?***

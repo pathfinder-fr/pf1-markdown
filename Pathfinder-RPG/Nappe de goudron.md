@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu, terre]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (une bille de goudron durcie)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone** 6 m (4 {s:c}) de rayon  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]], voir texte ; **Résistance à la magie** non
 
 Le personnage convertit une couche de sol en goudron brûlant. Les créatures situées dans la zone d’effet quand le goudron apparaît subissent 1d6 points de dégâts de feu par tranche de deux [[NLS|niveaux de lanceur de sorts]] (10d6 au maximum). Elles doivent réussir un jet de [[Réflexes]] sinon elles sont [[enchevêtré|enchevêtrées]]. Une créature [[enchevêtré|enchevêtrée]] a droit à un [[JdS|jet de sauvegarde]] par [[round]], pour se libérer du goudron. Elle peut aussi tenter de se dégager avec un test de [[Force]] ou d’[[Évasion]] (même [[DD]] que le [[JdS|jet de sauvegarde]]).

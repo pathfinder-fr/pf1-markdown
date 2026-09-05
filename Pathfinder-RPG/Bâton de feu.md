@@ -11,11 +11,8 @@ Categories:
 **Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 18 950 po ; **Poids** 2,5 kg
 (((Description)))
 Le bâton du feu est taillé dans de bois de fer et ferré de laiton à ses deux extrémités et offre la possibilité de jeter les sorts suivants :  
-
 • *[[boule de feu]]* (1 charge)  
-
 • *[[mains brûlantes]]* (1 charge)  
-
 • *[[mur de feu]]* (2 charges)
 (((Création)))
 **Conditions** [[Création de bâtons magiques]], *[[boule de feu]]*, *[[mains brûlantes]]*, *[[mur de feu]]* ; **Coût** 9 475 po

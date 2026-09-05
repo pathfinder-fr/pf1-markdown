@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Illusion]] ([[hallucination]]) ; **Niveau** [[hypnotiseur|Hyp]] 1, [[psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** 1 créature vivante touchée  
-
 **Durée** 1 minute/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ;**Résistance à la magie** oui (inoffensif)
 
 Quand le personnage lance ce sort, il crée un écho mental d’un maximum de 25 mots. Toute tentative de lecture des pensées de surface de la cible déchiffre seulement cet écho, à moins que le lanceur de sorts ne réussisse un test de niveau de lanceur de sorts ([[DD]] = 11 + [[NLS]] du personnage). Si le personnage lance l’écho des pensées sur lui-même, le [[DD]] est de 15 + son [[NLS|niveau de lanceur de sorts]]. De plus, quand le personnage lance ce sort sur lui, il peut changer les paroles de l’écho en se concentrant et en dépensant une [[action simple]].

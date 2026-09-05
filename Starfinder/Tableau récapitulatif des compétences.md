@@ -53,6 +53,5 @@ sans formation || Caractéristique
 |}
 
 ''C = compétence de classe  
-
 (*) le malus d’armure s’applique''
 </center>

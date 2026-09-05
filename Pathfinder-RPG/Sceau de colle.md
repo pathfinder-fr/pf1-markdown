@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]   
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible ou zone d’effet** 1 objet ou 1 carré de 1,5 m (1 {s:c}) de côté  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Ce sort recouvre une surface solide d’une couche de colle gluante. Les créatures qui se trouvent dans la zone du sort au moment où il prend effet doivent réussir un jet de [[Réflexes]]. Celles qui échouent sont [[enchevêtré|enchevêtrées]] mais peuvent se libérer en réussissant un test de [[BMO|manœuvre offensive]] ou un test d'[[Évasion]] par une [[action simple]] contre le [[DD]] de ce sort. la zone affectée par le sort est considérée comme un [[Déplacement et position#Terrain_difficile_0|environnement difficile]].

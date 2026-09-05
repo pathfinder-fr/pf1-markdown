@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Paladin|Pal]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)  
-
 **Cible** le compagnon du lanceur  
-
 **Durée** 1 heure/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Ce sort crée un lien mystique spécial entre le personnage et son compagnon ([[Druide#Compagnon_animal_1|compagnon animal]], [[Paladin#PACTEDIVIN|monture liée]], [[Conjurateur#EIDOLON|eidolon]] ou [[familiers|familier]]), ce qui permet au premier de transférer les blessures du second à lui-même. La créature gagne un bonus de [[Valeurs de combat#BONUSPARADE|parade]] de +1 à la CA et un bonus de résistance de +1 aux [[Valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]]. Par une action immédiate, quand son compagnon reçoit des dégâts, le personnage peut recevoir ces dégâts à sa place pour empêcher son compagnon d’être blessé (comme *[[Protection dautrui|protection d’autrui]]*, à la seule différence que les dégâts ne sont pas répartis entre le personnage et la cible).

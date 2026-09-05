@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide, froid, électricité, feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une écaille de dragon)  
-
 **Portée** 9 ou 18 m (6 ou 12 {s:c})  
-
 **Cible** [[rayonnement]] en forme de cône ou ligne  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Le personnage souffle une bouffée d'énergie. Les créatures situées dans la zone d'effet reçoivent 1d6 points de dégâts d'énergie par [[NLS|niveau de lanceur de sorts]] (12d6 au maximum). Un jet de [[Réflexes]] réduit les dégâts de moitié. L'effet du sort et le type d'énergie dépendent du type d'écaille de dragon utilisé.

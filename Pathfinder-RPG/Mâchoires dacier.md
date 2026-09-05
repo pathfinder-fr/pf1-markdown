@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (sève d'arbre à gomme)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage permet à une créature de se servir de l'une de ses [[attaque naturelle|attaques naturelles]] pour s'attacher fermement à son adversaire. Il choisit l'une des [[attaque naturelle|attaques naturelles]] de la créature (généralement une attaque de griffe ou de morsure) et offre à la créature le pouvoir d'[[étreinte]] (qui comprend un bonus de +4 aux tests de [[BMO|manœuvres de combat]] pour démarrer une situation de [[lutte]] ou la maintenir). Une créature qui dispose de plusieurs [[attaque naturelle|attaques naturelles]] peut frapper un adversaire [[agrippé]] avec ses attaques supplémentaires mais ne peut pas frapper une autre créature.

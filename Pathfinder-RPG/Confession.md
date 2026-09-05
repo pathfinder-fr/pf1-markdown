@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) (dépend du langage, [[effet mental]]) ;** Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
 Le personnage pose à la cible une seule question. À sa prochaine action, cette dernière doit y répondre honnêtement dans la langue où la question lui a été posée ou subir 1d6 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (maximum 5d6) et être [[fiévreux|fiévreuse]] pendant 2d4 rounds. Un jet de [[Volonté]] réussi [[Présentation des sorts#JETSDESAUVEGARDE|annule]] l'effet de [[fiévreux|fièvre]] et réduit les dégâts de moitié. Une créature incapable de répondre reçoit quand même des dégâts.

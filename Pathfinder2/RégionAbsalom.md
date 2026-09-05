@@ -5,7 +5,6 @@ LastModified: 2021-05-13 23:09
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 <img src="Illustrations/Blog/PF2/kortos-darny.webp" class="center" alt="">

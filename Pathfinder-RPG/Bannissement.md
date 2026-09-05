@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 7, [[Spirite|Spi]] 6   
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (voir texte)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 ou plusieurs créatures extraplanaires distantes de moins de 9 m les unes des autres  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Bannissement* est une version plus puissante de *[[renvoi]]* qui permet de chasser les créatures [[sous-type extraplanaire|extraplanaires]] du [[plans|plan]] d’origine du personnage. Il est possible de bannir jusqu’à 2 [[DV]] de créatures par [[NLS|niveau de lanceur de sorts]].

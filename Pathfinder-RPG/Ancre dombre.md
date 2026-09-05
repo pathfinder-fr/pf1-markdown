@@ -16,15 +16,10 @@ Categories:
 {s:racial|Wayang (race)|wayangs|Illustrations/PNJ/Wayang.jpg}{s:MR}
 **École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[Créer un sort#OMBRE|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 créature touchée  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 L’ombre de la cible se transforme en ancre souple attachée à sa case actuelle. La créature peut avancer de 1,5 mètre (1 {s:c}) maximum au-delà de cette case sans malus. Si elle cherche à avancer au-delà de 1,5 mètre (1 {s:c}) de son point d’ancrage, elle doit effectuer une [[Manœuvres offensives#BOUSCULADE|bousculade]] avec un test de [[manœuvre offensive]] contre un [[Manœuvres offensives#BMO|BMO]] de 10 + 1/2 du [[Lancer des sorts#NLS|niveau de lanceur de sorts]] du personnage + son modificateur d’[[Intelligence]] (si c’est une [[sorcière]] ou un [[magicien]]) ou de [[Charisme]] (si c’est un [[barde]] ou un [[ensorceleur]]).

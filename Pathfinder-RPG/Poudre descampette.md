@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[Composantes|V, G, M]] (une poignée de porte en laiton)  
-
 **Portée** [[illimitée]]  
-
 **Cible** le lanceur de sorts et une créature consentante/2 [[niveau|niveaux]], qui doivent se trouver à moins de 9 m (6 {s:c}) du lanceur de sorts  
-
 **Durée** 1h/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 La *poudre d'escampette* téléporte le personnage et les alliés choisis au moment de l'incantation dans un endroit prédéterminé. Le personnage doit tout d'abord lancer le sort à cet endroit et toutes les créatures affectées doivent s'y trouver au moment de l'incantation et ne pas être éloignées de plus de 9 mètres (6 {s:c}) du lanceur de sorts. Tant que le sort n'a pas expiré, le personnage peut le déclencher à tout moment par une [[action rapide]]. À ce moment, toutes les créatures affectées (ou leur cadavre et leur équipement) qui se trouvent à moins de 9 mètres (6 {s:c}) du lanceur de sorts sont téléportées là où le personnage avait lancé le sort. Les créatures qui se trouvent à plus de 9 mètres (6 {s:c}) restent sur place. Celles qui se trouvent à portée du sort mais ne veulent pas partir peuvent simplement choisir de rester. Le personnage peut franchir n'importe quelle distance sur un [[plans|plan]] mais il ne peut pas utiliser ce sort pour voyager entre deux [[plans]].

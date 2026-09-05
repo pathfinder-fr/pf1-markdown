@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] ; **Niveau** [[barde]] 2, [[ensorceleur]]/[[magicien]] 2, [[magus]] 2, [[prêtre]] 2, [[sorcière]] 2  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[Explosion]]* (émanation)
 
 La cible d’un sort incluant cet effet irradie l’obscurité dans un rayon de 6 mètres (4 {s:c}), annulant toutes les sources de lumière naturelles et magiques inférieures au niveau du sort. Celui-ci réduit la luminosité d’un niveau mais n’a aucun effet sur une zone déjà obscure.

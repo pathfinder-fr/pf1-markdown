@@ -54,7 +54,6 @@ Créatures mécaniques de feu et de cuivre extraplanaire, les golems de cuivre s
 Construire un golem de cuivre nécessite 9 tonnes de cuivre associées à plusieurs solutions minérales et différents composés minéraux rares d’une valeur minimum de 20 000 po.
 
 **NLS** 17<sup>e</sup> ; **Prix** 180 000 po  
-
 **Conditions** [[Création de créatures artificielles]], *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[quête]]*, *[[nuage incendiaire]]*, *[[souhait limité]]*, le créateur doit avoir un niveau de lanceur de sorts minimum de 17 ; **Compétence** [[Artisanat]] (armures) ou [[Artisanat]] (travail de la forge) [[DD]] 22 ; **Coût**   
 100 000 po
 </div></td>

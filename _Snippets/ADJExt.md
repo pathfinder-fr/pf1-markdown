@@ -9,7 +9,6 @@
 </div>
 <div STYLE="text-align: left; margin: 0; padding: 3px; font-size: x-small; background-color: #f3efe2;">
 ?5?   
-
 <div STYLE="text-align: right; margin: 0; font-size: x-small; font-variant: small-caps;">
 par ?6?
 </div>

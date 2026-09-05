@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, M]] (une petite boucle de cuir)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Ce sort fait apparaître le sujet à une soixantaine de centimètres de l’endroit où il se trouve réellement. Les attaques qui devraient normalement le toucher ont donc 50 % de chance de le rater, comme s’il bénéficiait d’un [[camouflage total]] (mais, contrairement à ce qui se passe dans le cas d’un [[camouflage total]], ses adversaires peuvent le viser normalement). *[[Vision lucide]]* dévoile l’endroit où le lanceur de sorts se trouve réellement et annule les risques d’échec des attaques.

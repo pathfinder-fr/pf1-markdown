@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]]  ; **Niveau** [[prêtre]] 4, [[druide]] 5, [[inquisiteur]] 5, [[paladin]] 4  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet bénéficie d’un bonus sacré de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre tous les sorts et les effets magiques de mort. Le sujet ne peut pas subir de niveau négatif tant que le sort est actif, mais ceux qu’il a reçus avant ne disparaissent pas. La cible est automatiquement [[stable|stabilisée]] sil elle tombe en-dessous de 0 point de vie et n’est pas tuée.

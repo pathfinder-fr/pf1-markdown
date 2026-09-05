@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur]]5, [[druide]] 4, [[rôdeur]] 4, [[sorcière]] 4  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant cet effet obéit à tous les ordres simples que le lanceur lui donne. Ces ordres sont donnés grâce à un lien mental qui ne requiert pas de parler, mais ils doivent être compris par l’animal qui ignore tous les ordres suicidaires ou destructeurs. La cible d’un sort incluant cet effet ne peut être qu’un [[type animal|animal]] ou une [[type créature magique|créature magique]] et cette dernière reçoit un bonus de +4 sur son [[jet de sauvegarde]].

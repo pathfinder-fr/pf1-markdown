@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Psychiste|Psy]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 [[round]]/[[niveau]] et spécial (voir plus bas)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage ouvre un lien entre son esprit et celui de sa cible pour lui donner des conseils et des encouragements pendant toute la durée du sort. À chaque fois que la cible du sort fait un jet d'attaque, un test de caractéristique ou un test de compétence, elle lance deux d20 et prend le meilleur résultat des deux. Si la cible obtient un 20 naturel, le sort se termine : le brillant conseil du personnage a été utilisé.

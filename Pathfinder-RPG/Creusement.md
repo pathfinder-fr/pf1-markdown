@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Le sujet peut se déplacer en creusant dans le sable, la terre meuble ou les graviers à une vitesse de 4,50 mètres (ou 3 mètres s’il porte une armure lourde ou intermédiaire ou une charge lourde ou intermédiaire) ou à une vitesse de 1,50 mètre dans la roche. L’utilisation de ce sort ne demande pas plus de concentration que le simple fait de marcher, le sujet peut donc attaquer ou lancer des sorts normalement. Une créature qui creuse ne peut pas charger ni courir. Les matériaux friables s’effondrent derrière la cible 1 [[round]] après son passage dans la zone. Ce sort ne permet pas au

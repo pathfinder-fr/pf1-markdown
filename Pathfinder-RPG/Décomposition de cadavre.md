@@ -18,17 +18,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]](une pincée de crapaud séché)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** un cadavre ou un [[type mort-vivant|mort-vivant tangible]]  
-
 **Durée** [[instantanée]] ou 1 minute (voir texte)  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
 Quand le personnage utilise ce sort, il décompose rapidement la chair d’un unique cadavre de taille TG ou moins et ne laisse qu’un squelette parfaitement nettoyé. Si le personnage le lance sur un [[type mort-vivant|mort-vivant]] tangible, ce dernier subit un malus de -2 à tous les jets, à la [[CA]] et au [[DMD]] pendant 1 minute.

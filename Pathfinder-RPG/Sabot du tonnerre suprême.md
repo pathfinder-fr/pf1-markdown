@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone** ligne de 18 m (12 {s:c})  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme [[sabot du tonnerre]], aux seules différences indiquées ci-dessus, et qu'il affecte toutes les créatures dans la zone d'effet, quelque soit leur taille. Quand le personnage fait son test de manœuvre offensive, il applique le résultat à chacune des créatures présentes dans la zone.

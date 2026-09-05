@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
-
 **Durée** 1 [[round]]/[[niveau]] (voir texte)  
-
 **Jet de sauvegarde** [[réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts et partiel]] (voir ci dessous) ; **Résistance à la magie** non
 
 Un sort de mots incluant ce mot effet inflige 1d6 points de dégâts d’acide par [[NLS|niveau de lanceur]] (maximum 10d6). Les cibles blessées sont [[fiévreux|fiévreuses]] pendant 1 [[round]] par [[NLS|niveau de lanceur]] ou pendant 1 [[round]] si le [[jet de sauvegarde]] contre le sort est réussi.

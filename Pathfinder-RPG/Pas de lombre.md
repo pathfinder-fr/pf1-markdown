@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** lanceur de sorts  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Pour utiliser ce sort, le personnage doit se trouver dans une zone de faible luminosité ou dans les ténèbres. Il entre dans une ombre ou dans une zone d’obscurité qui le transporte le long d’un passage sinueux fait d’ombres vers un autre emplacement sombre situé à portée.

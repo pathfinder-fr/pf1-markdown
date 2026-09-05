@@ -14,19 +14,12 @@ Categories:
 **(Source: Heroes of the streets)**
 
 **Ecole** [[illusion]] ([[branche chimère|Chimère]]) ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1, [[sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,M]] (Un bouton de chemise)  
-
 **Portée** moyenne (30 m + 3 m/2 [[niveau|niveaux]]) (20 {s:c} + 2 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** Un cube de 3 m(2 {s:c}) d'illusion de foule  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jets de sauvegarde** [[Volonté]] Doute(si interaction avec la foule) ; **Résistance à la magie** Non  
-
 
 Ce sort créé une illusion d'un groupe immobile de personnes. Ils peuvent être de la race [[humain|humaine]] ou de n'importe quelle ethnie avec laquelle vous êtes familiers, et ils parlent un langage de votre choix et connaissance. Aux personnes ne faisant pas attention, leurs conversations semblent parfaitement normales mais sont en fait répétitives et sans sens. La foule à l'air d'être un groupe de citoyens typiques, et ne peuvent pas dupliquer un groupe précis, une guilde ou une équipe militaire.
 

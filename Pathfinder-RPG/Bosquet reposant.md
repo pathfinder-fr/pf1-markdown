@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche création|création]]) ;** Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[Composantes|V, G, M/FD]] (une feuille ou un brin d'herbe et une goutte d'eau)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** bosquet de 6 m (4 {s:c}) de rayon  
-
 **Durée** 2 heures/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage invoque un bosquet d'arbres qui entourent une petite source. Le bosquet surgit de nulle part, même sur le sol le plus aride et le plus rocailleux, quelle que soit la saison, mais il faut lancer le sort en extérieur sur un terrain dégagé.

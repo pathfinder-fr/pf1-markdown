@@ -16,17 +16,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur|Con]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 3, [[Occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 6, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 round  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
-
 **Cible** 1 créature  
-
 **Durée** 1 h/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[possession spirituelle]]* mais le personnage échange son esprit avec celui de sa cible. Cette dernière ne partage pas son corps avec le personnage, se retrouvant dans l’impossibilité d’agir, elle gagne le corps du personnage et le contrôle, comme si les deux protagonistes avaient chacun lancé *[[possession spirituelle]]* sur l’autre.

@@ -11,17 +11,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, F]] (0,5 kg de plomb ou une quantité de métal mou d'une valeur de 2 po)  
-
 **Portée** contact  
-
 **Cible** 0,5 kg de métal mou  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage convertit 0,5 kilo de plomb en balles. Il décide s’il crée des billes de fronde, des balles pour arme à feu ou des plombs lorsqu’il lance le sort. Ce dernier permet de créer 2 billes de fronde, 30 balles ou 10 ensembles de plombs.

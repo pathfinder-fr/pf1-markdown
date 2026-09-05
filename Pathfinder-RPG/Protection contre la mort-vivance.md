@@ -13,17 +13,11 @@ Categories:
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}
 **École** [[Nécromancie]] ;
 **Niveau** [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La cible devient résistante aux effets des attaques d’absorption d’énergie et d’absorption de sang portées par les créatures [[type mort-vivant|mortes-vivantes]], et ne peut pas être transformée en morte-vivante si elle est tuée alors que ce sort est actif.

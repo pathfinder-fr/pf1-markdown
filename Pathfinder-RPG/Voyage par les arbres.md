@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[téléportation]]) ; **Niveau** [[druide|Dru]] 5, [[rôdeur|Rôd]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 heure/[[niveau]] ou jusqu’à utilisation (voir description)
 
 Ce sort permet de pénétrer dans un arbre ou de se déplacer d’un arbre à un autre. L’arbre dans lequel le personnage entre et ceux par lesquels il passe avant de ressortir doivent appartenir à la même espèce. La largeur de leur tronc doit également leur permettre d’accueillir le lanceur de sorts. Dès que ce dernier pénètre dans un chêne (par exemple), il sait instantanément où tous les autres chênes situés dans les limites de portée du sort se trouvent (voir ci-dessous), ce qui lui permet de décider jusqu’auquel il souhaite se téléporter ou s’il veut ressortir par l’arbre par lequel il est entré. L’arbre au cœur duquel il peut réapparaître peut se trouver plus ou moins loin, en fonction de son espèce :

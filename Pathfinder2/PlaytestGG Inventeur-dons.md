@@ -5,15 +5,12 @@ LastModified: 2021-01-19 14:53
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
-
 • [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 À chaque fois que vous gagnez un don de d'inventeur, vous pouvez choisir un don parmi la liste suivante. Vous devez remplir les prérequis avant de pouvoir le prendre.
 
 • Voir la [[PlaytestGG Inventeur|présentation de la classe d'inventeur]]  
-
 • Voir l'[[PlaytestGG Inventeur-évolution|évolution de l'inventeur]]
 
 ### Niveau 1
@@ -47,9 +44,7 @@ Vous avez créé un compagnon artificiel et, même s'il n'est pas une innovation
 Vous sabotez l'arme ou l'armure d'un ennemi. Choisissez soit une arme tenue par un ennemi à votre portée ou une armure portée par un ennemi à votre portée. Effectuez un test d'Artisanat contre le DD de Réflexes de l'ennemi.
 
 **Réussite critique.** Votre sabotage est incroyablement efficace. Si vous avez saboté une arme, l'ennemi subit un malus de circonstances de -2 aux jets d'attaque et de dégâts avec cette arme. Si vous avez saboté une armure, l'armure gêne les mouvements de l'ennemi, ce qui le rend pris au dépourvu et lui impose un malus de -3 m à ses Vitesses. L'effet persiste jusqu'à ce que l'ennemi utilise une action d'Interaction pour le supprimer.  
-
 **Réussite.** Votre sabotage est efficace de manière temporaire. Comme la réussite critique, mais l'effet se termine après 1 round, même si l'ennemi n'Interagit pas pour y mettre un terme.  
-
 **Échec critique.** Votre sabotage tourne vraiment mal, ce qui cause une petite explosion dans vos outils ou votre équipement. Vous subissez des dégâts de feu égaux à votre niveau.
 </div>
 
@@ -75,9 +70,7 @@ Vous activez des engins sur votre innovation, qui font que votre arme frappe ave
 {s:trait|Auditif} {s:trait|Concentration} {s:trait|Inventeur}
 
 **Prérequis** compagnon artificiel  
-
 **Fréquence** une fois par minute  
-
 **Déclencheur** Votre compagnon artificiel est sur le point de devenir confus ou contrôlé.
 ---
 Vous utilisez le lien qui vous unit votre compagnon artificiel à son créateur pour le libérer d'un effet le contrôlant. Tentez de contrer l'effet qui rend confus ou contrôle votre compagnon artificiel en utilisant votre modificateur d'Artisanat pour le test de contre et la moitié de votre niveau (arrondi vers le haut) comme niveau de contre.
@@ -97,7 +90,6 @@ Certains prétendaient qu'il était impossible de soigner avec des explosions, m
 {s:trait|Inventeur} {s:trait|Manipulation} {s:trait|Modification}
 
 **Prérequis** innovation armure  
-
 **Conditions** Vous portez votre armure innovation ou vous la tenez dans vos deux mains sous sa forme compacte (voir le texte).
 ---
 Vous avez modifié votre armure pour pouvoir la replier en une forme plus petite et plus compacte. Sous sa forme compacte, votre armure innovation est plus facile à transporter, avec un Encombrement de 1 point de moins que son Encombrement normal, avec un minimum d'un Encombrement léger (une armure transportée possède généralement un Encombrement de 1 point de plus que celui indiqué dans sa description).
@@ -159,7 +151,6 @@ Vous activez des engrenages, des explosifs et d'autres gadgets cachés dans votr
 {s:trait|Inventeur} {s:trait|Manipulation} {s:trait|Instable}
 
 **Prérequis** innovation d'armure, de créature artificielle ou d'arme  
-
 **Déclencheur** Votre tour commence.
 ---
 Les engins mécaniques instables de votre innovation vous permettent de pousser votre innovation à agir plus rapidement. Vous êtes accéléré pendant ce tour. La manière dont vous utilisez l'action supplémentaire dépend de votre innovation.
@@ -202,11 +193,8 @@ Vous avez trouvé une méthode vous permettant d'utiliser une combinaison hété
 Quand vous activez une Frappe Mégatonne, vous repoussez vos ennemis et vous les faites reculer face à la force explosive de votre coup. En cas de Frappe Mégatonne réussie, votre cible doit effectuer un jet de Vigueur contre votre DD de classe.
 
 **Réussite critique.** La cible n'est pas affectée.  
-
 **Réussite.** La cible est repoussée de 1,5 m.  
-
 **Échec.** La cible est repoussée de 3 m.  
-
 **Échec critique.** La cible est repoussée de 6 m.
 
 **Spécial.** Si votre innovation est un sbire, cette amélioration s'applique à ses Frappes Mégatonnes.
@@ -226,7 +214,6 @@ Grâce à vos améliorations constantes, votre compagnon artificiel a atteint un
 {s:trait|Inventeur} {s:trait|Manipulation}
 
 **Prérequis** Surpuissance  
-
 **Condition** Vous êtes actuellement sous les effets de Surpuissance.
 ---
 Vous passez rapidement certains de vos gadgets améliorants à un allié et partagez brièvement leurs bienfaits avec lui. Choisissez un allié situé à à m ou moins. Jusqu'à la fin de son prochain tour, cet allié gagne les mêmes bonus de dégâts à ses Frappes que ceux dont vous bénéficiez grâce à Surpuissance.
@@ -238,7 +225,6 @@ Vous passez rapidement certains de vos gadgets améliorants à un allié et part
 {s:trait|Inventeur} {s:trait|Manipulation} {s:trait|Instable}
 
 **Prérequis** Innovation armure  
-
 **Conditions** Vous portez votre armure innovation.
 ---
 Vous créez une réaction en chaîne instable qui fait apparaître d'innombrables étincelles dansant sur la surface de votre armure. Pendant 1 minute, toute créature qui vous touche ou qui vous frappe avec une attaque à mains nues de corps à corps ou avec une arme de corps à corps sans allonge subit 1d12 points de dégâts d'électricité.
@@ -260,13 +246,11 @@ Vous avez modifié votre innovation en utilisant plusieurs méthodes originales 
 {s:trait|Inventeur} {s:trait|Manipulation}
 
 **Prérequis** boost offensif   
-
 **Fréquence** une fois toutes les 10 minutes
 ---
 Vous ne vous contentez pas simplement de bricoler votre innovation, vous intervenez également sur les armes de vos alliés. Choisissez un allié à votre portée et une de ses armes. Effectuez un test d'Artisanat contre un DD élevé pour votre niveau.
 
 **Réussite.** Pendant 1 minute, les Frappes de l'allié choisi avec l'arme choisie gagnent le même boost offensif que celui de votre innovation.  
-
 **Échec critique.** Votre allié subit des dégâts de même type et de même quantité que ceux que votre boost offensif inflige normalement en cas de Frappe réussie.
 </div>
 
@@ -304,7 +288,6 @@ Vous avez mené suffisamment d'expériences sur vos coéquipiers pour savoir com
 {s:trait|Inventeur}
 
 **Prérequis** Intervention du bricoleur  
-
 **Fréquence** Une fois par jour
 ---
 Vous bricolez avec l'équipement de vos alliés si souvent que les modifications que vous lui avez apportées leur confèrent des avantages pendant toute la journée. Pendant vos préparatifs quotidiens, vous pouvez choisir un allié et une de ses armes. Effectuez un test d'Artisanat contre un DD très élevé pour votre niveau. En cas de réussite, les Frappes de cet allié avec cette arme gagnent le même boost offensif que celui que vous avez choisi pour votre innovation. Cet effet persiste jusqu'à vos prochains préparatifs quotidiens. En cas d'échec critique, votre allié subit des dégâts de même type et de même quantité que ce que votre boost offensif inflige normalement en cas de Frappe réussite.
@@ -382,7 +365,6 @@ Alors que certains se demandent comment vous trouvez le temps d'effectuer un si 
 {s:trait|Inventeur} {s:trait|Instable}
 
 **Prérequis** Innovation armure  
-
 **Déclencheur** Vous êtes sur le point de subir des dégâts.
 ---
 Votre innovation active divers engins que vous avez préparés à l'avance, déclenchant une réaction en chaîne instable qui bloque les dégâts. Réduisez les dégâts que vous êtes sur le point de subir de 50.

@@ -13,15 +13,10 @@ Categories:
 
 {s:Desambi|Il peut aussi s'agir d'une [[Changement de forme (capacité)|capacité]] de certaines créatures.}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (serre-tête de jade (1 500 po))  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)
 
 Ce sort permet de prendre la forme de n’importe quelle créature. Il fonctionne comme *[[modification dapparence|modification d’apparence]]*, *[[forme bestiale IV]]*, *[[corps élémentaire IV]]*, *[[forme draconique III]]*, *[[forme de géant II]]* et *[[forme végétale III]]*, au choix du personnage. Le personnage peut changer de forme une fois par round, par une [[action libre]]. La modification d’apparence a lieu juste avant ou juste après l’action normale, mais jamais pendant.

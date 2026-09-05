@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[rôdeur]] 2, [[sorcière]] 2  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[choisi]]*
 
 La cible du sort considère le lanceur comme un allié de confiance. Elle le défend et n’attaque pas ses alliés tant qu’elle se trouve sous l’influence du sort. Si à un moment ou à un autre le personnage ou ses alliés l’attaquent, le sort cesse de faire effet. La cible d’un sort incluant cet effet ne peut être qu’un [[type animal|animal]] ou une [[type créature magique|créature magique]], et cette dernière reçoit un bonus de +4 sur son [[jet de sauvegarde]].

@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (poudre de fer météoritique d'une valeur de 100 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 heure/[[niveau]] ou jusqu'à déclenchement puis 1 [[round]]/[[niveau]]
 
 *Transformation résurgente* permet au personnage de guérir de blessures mortelles et de retrouver vitalité et envie de combattre mais à un certain prix. Une fois lancé, le sort reste en sommeil pendant 1 heure par [[NLS|niveau de lanceur de sorts]], jusqu'à ce que le personnage tombe à un quart de ses points de vie ou moins. Une fois le sort déclenché, il gagne immédiatement un bonus d'altération de +4 à la [[Constitution]] et à la [[Force]], une [[RD]] 5/– et les avantages d'un sort de *[[rapidité]]*. De plus, il guérit de 4d8 points de dégâts + 1 point par [[NLS|niveau de lanceur de sorts]] (maximum +25). La *transformation résurgente* peut même le sauver de la mort en soignant une plaie qui aurait dû être mortelle, mais elle n'empêche pas le personnage de mourir à cause de dégâts massifs ou à cause d'autre chose qu'une perte de points de vie. En revanche, cette transformation entrave les facultés mentales du personnage et lui inflige un [[affaiblissement temporaire]] de 1d4 points d'[[Intelligence]] et de [[Sagesse]].

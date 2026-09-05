@@ -11,15 +11,10 @@ Categories:
 ---
 
 {s:AO}** École **[[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[sorcière|Sor]] 7, [[spirite|Spi]] 5  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/niveau (T)
 
 Le personnage échange la matière grossière de son corps physique contre l’essence immatérielle du plan de l’Ombre, devenant une ombre vivante. Sous une [[Exploration#VISIONLUMIERE|lumière vive]] ou normale, il apparaît comme une ombre indépendante mais en cas de faible lumière ou d’obscurité, il gagne un [[camouflage total]]. Ce camouflage est seulement normal et non total contre les créatures dotées de vision dans le noir. Le corps d’ombre est intangible mais ne permet pas de voler ni de traverser des objets ou des créatures solides. En revanche, le personnage peut se déplacer à sa vitesse sur n’importe quelle surface, horizontale, verticale ou liquide, et le terrain difficile ne le ralentit pas. Sa taille ne change pas.

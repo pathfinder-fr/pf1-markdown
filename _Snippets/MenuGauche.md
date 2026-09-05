@@ -130,6 +130,5 @@
 ## Section
 <center>
 <small>Vous êtes dans la section</small>  
-
 {NAMESPACEDROPDOWN}
 </center>

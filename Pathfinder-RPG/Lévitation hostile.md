@@ -18,17 +18,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une boucle de cuir sertie de magnétite)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage fait léviter la cible à quelques centimètres du sol, pour la priver de ses aplombs et réduire sa vitesse de moitié. La cible subit également un malus de -4 au [[DMD]] contre les tentatives de [[bousculade]], d’[[attirer]] et de [[repositionnement]]. Si la cible attaque avec une arme de corps à corps ou à distance, elle devient de plus en plus instable : sa première attaque a un malus de -1, la deuxième de -2 etc. avec un maximum de -5. Si la créature passe une [[action complexe]] à se stabiliser, le malus repart à -1.

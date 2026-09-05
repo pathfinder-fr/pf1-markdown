@@ -5,282 +5,166 @@ LastModified: 2025-08-25 12:13
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 Les quêtes PFS sont des aventures courtes conçues pour être jouées en 2 à 3 heures. Elles rapportent 2 XP, 2 points de réputation et 4 jours de Downtime. Elles continuent la [[PFS Quêtes Saison 1|première série]] publiée entre 2019 et 2020 sous un format plus moderne.  
   
-
 <u>Note</u>: les scénarios sont disponibles le <u>*dernier mercredi du mois indiqué*</u>. De plus les images des couvertures divergent parfois entre celles du site de Paizo et la couverture finale du pdf
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0014E.jpg|Quest 14 - The Swordlord’s Challenge}
 **Titre VF** Le Défi du Maître d'Armes  
-
 **Ecrit par** Tineke Bolleman  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** Disponible  
-
 **Lieu** Restov, Brevoy  
-
 **Foundry** Deidril's Pathfinder 2 PDF Import  
-
   
-
 Une Maître d'Armes aldori qui a combattu aux côtés des Éclaireurs il y a des années cherche un moyen de pousser ses élèves à se surpasser. Elle lance un défi à Marcos Farabellus, le Maître des épées, en se vantant que ses jeunes élèves les plus prometteurs peuvent vaincre tous ceux que Marcos a formés. Elle met en jeu sa fierté d'enseignante et une arme puissante qu'elle a utilisée lors de la cinquième croisade. Marcos est convaincu qu'une telle relique, utilisée au cœur même de la Plaie du Monde, serait un excellent ajout aux coffres de la Société et que les PJ sont les élèves parfaits pour mettre en jeu sa propre fierté. Les PJ doivent faire tout leur possible pour justifier la confiance qu'il a placée en eux et remporter une grande victoire - et peut-être un nouvel allié - pour la Société des Éclaireurs.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0015E.jpg|Quest 15 - In the Footsteps of Horror}
 **Titre VF** Sur les Traces de l'Horreur  
-
 **Ecrit par** Shan Wolf  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** Disponible  
-
 **Lieu** Ile de Kortos  
-
 **Foundry** Deidril's Pathfinder 2 PDF Import  
-
   
-
 Un groupe de puissants éclaireurs a dû abandonner l'exploration d'un complexe souterrain après avoir vaincu une puissante liche et stoppé de justesse un rituel dévastateur. Les PJ sont chargés d'explorer ce complexe désormais débarrassé de toute menace et de répertorier ce qui s'y trouve. Le rituel, cependant, bien qu'incomplet, a lié le site avec sa contrepartie du Nébulmonde, et une fois entrés, les PJs se rendent compte que leur tache ne sera ni aussi simple et ennuyeuse que prévue, car ils devront combattre au travers d'une version altérée par le Miroir des Ombres du complexe juste pour rentrer chez eux, avec des menaces inconnues qui n'ont pas toutes été éliminées.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0016E.jpg|Quest 16 - The Winter Queen's Dollhouse}
 **Titre VF** La Maison de Poupée de la Reine de l'Hiver  
-
 **Ecrit par** Brite Cheney  
-
 **Niveau** 1-4  
-
 **Tag** Répétable, Tout Age  
-
 **Disponibilité** Disponible  
-
 **Lieu** Absalom  
-
 **Foundry** Deidril's Pathfinder 2 PDF Import  
-
   
-
 La reine Anastasia, souveraine d'Irrisen, a trouvé d'étranges maisons de poupées en fouillant les coffres de sa tante. Elle en envoya une aux Éclaireurs pour qu'ils l'étudient. Lorsque la magie d'Aslynn fut libérée dans les voûtes de Skyreach, la magie de la maison de poupée fut réactivée. En réalité, ces maisons de poupées étaient des prisons destinées à rétrécir ceux qui avaient irrité Elvanna, l'ancienne reine. Aujourd'hui, la magie est prête à piéger les PJ. De plus, les poupées servantes animées se sont réveillées sous la forme de poppets, et si certaines sont heureuses d'aider, d'autres ne sont pas aussi accueillantes..
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0017E.jpg|Quest 17 - Escorting a Mirage}
 **Titre VF** Escorter un mirage  
-
 **Ecrit par** Glen Parnell  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** Disponible  
-
 **Lieu** Merab, Thuvia  
-
 **Foundry** Deidril's Pathfinder 2 PDF Import  
-
   
-
 Un agent Aspis malchanceux, relégué à Thuvia où les opérations Aspis ont pratiquement cessé, a trouvé une occasion inattendue de se venger. Zarta Dralneen est en train de faire une acquisition à Merab, et ce qu'elle pourrait être est le sujet des rumeurs de la ville. L'Aspis vengeur détourne ces rumeurs en parlant de l'Elixir de l'Orchidée du Soleil, et bien que personne de compétent ou de compréhensif ne tomberait dans le panneau d'une rumeur aussi peu convaincante, Merab a plus que sa part d'imbéciles désespérés. Alors que les PJ ramènent les achats de Zarta au port, ces fous désespérés frappent, transformant une simple escorte en un combat pour la survie.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0018E.jpg|Quest 18 - Student Exchange}
 **Titre VF** Echange Etudiant  
-
 **Ecrit par** Jackson Wood  
-
 **Niveau** 1-4  
-
 **Tag** Répétable, Tout Age  
-
 **Disponibilité** Disponible  
-
 **Lieu** Nantambu, Mwangi  
-
 **Foundry** Deidril's Pathfinder 2 PDF Import  
-
   
-
 Les PJ ont été placés dans une sorte de programme d'échange, dans le cadre duquel la Magaambya, la plus ancienne école de magie encore en activité dans Golarion, jugera de leur valeur en tant que base d'une future coopération. Le professeur Ot a été chargé de montrer aux PJ les méthodes de l'école de magie et de prendre leur mesure. L'avenir de ce partenariat est entre les mains des PJ.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0019E.jpg|Quest 19 - The Elsewhere Feast}
 **Titre VF** Le Festin d'Ailleurs  
-
 **Ecrit par** Mark Malcolm  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** Disponible  
-
 **Lieu** Jol, Terre des Rois Linnorm  
-
 **Foundry** Pas encore disponible  
-
   
-
 L'être énigmatique connu sous le nom de Thane, l'un des plus puissants habitants du Premier Monde, se lasse rarement de la solitude et organise une grande fête. Les invitations sont disséminées dans tous les plans, et il suffit d'interagir avec l'une d'entre elles pour qu'un « invité » soit soudainement emporté vers le festin. De plus, le Thane déforme le temps dans son royaume, faisant durer chaque jour une décennie. La fête se poursuit pendant une semaine au cours de ces décennies. Les mortels se retrouvent avec soixante-dix ans de plus alors qu'une semaine seulement s'est écoulée, s'ils ont survécu à des décennies de fête.  
-
 Récemment, le Thane s'est à nouveau ennuyé et a envoyé des invitations. Certains citoyens de Jol qui ont eu la malchance de tomber sur ces invitations ont été emmenés. C'est aux PJ de les libérer - et probablement aux PJ eux-mêmes - avant que d'autres années ne s'écoulent dans le temps tordu du royaume du Thane.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q020E.jpg|Quest 20 - The Dacilane Academy's Show Must Go On}
 **Titre VF** Le Spectacle de l'Académie Dacilane Doit Continuer  
-
 **Ecrit par** Lucas Servideo  
-
 **Niveau** 1-4  
-
 **Tag** Répétable, Tout Age  
-
 **Disponibilité** Disponible  
-
 **Lieu** Absalom  
-
 **Foundry** Pas encore disponible  
-
   
-
 L'Académie Dacilane fait souvent appel à la Société des Éclaireurs pour la tirer d'affaire ou pour aider ses élèves. Étant donné que de nombreux Éclaireurs inscrivent leurs enfants à l'académie, la relation est mutuellement bénéfique. Il n'est donc pas surprenant que l'académie fasse appel aux Éclaireurs pour s'assurer que rien de terrible ne se produise pendant la pièce que les élèves vont jouer dans un théâtre voisin, la Muse de la Rose. Récemment, des accidents malheureux se sont produits lors de représentations. Personne n'a été gravement blessé, mais les représentations ont toutes été gâchées. C'est aux PJ de s'assurer que la représentation de l'Académie Dacilane ne subisse pas le même sort, même s'ils doivent empêcher des catastrophes dans les coulisses du spectacle lui-même.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q021E.jpg|Quest 21 - Infernal Infiltration}
 **Titre VF** Infiltration Infernale  
-
 **Ecrit par** Shan Wolf  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Octobre 2024*</u>  
-
 **Lieu** Kintargo, Ravounel  
-
 **Foundry** Pas encore disponible  
-
   
-
 Certains citoyens mécontents de Kintargo, qui préféraient les choses sous la domination chelaxienne, ont volé des informations très sensibles concernant les transactions commerciales et les itinéraires de la Société des Éclaireurs. Entre les mains d'ennemis, ces informations pourraient mettre en danger de nombreux agents. Le Chéliax tolère à peine la Société dans les bons jours, et si ces voleurs-espions parviennent à mettre les informations cryptées entre les mains de véritables agents de renseignement chélaxiens, le Chéliax se réjouira sans doute de pouvoir leur faire un mal incalculable. C'est aux PJ d'infiltrer la base d'opérations des escrocs et de récupérer l'information avant que ces vauriens ne l'envoient. Il sera essentiel de garder le silence, car les Directeurs des Approvisionnements et des Achats ne veulent certainement pas les mettre au courant de ce qu'ils ont vraiment.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q022E.jpg|Quest 22 - Friends in Need}
 **Titre VF** Amis dans le Besoin  
-
 **Ecrit par** Elizabeth V. Nold  
-
 **Niveau** 1-4  
-
 **Tag** Répétable, Tout Age  
-
 **Disponibilité** <u>*Décembre 2024*</u>  
-
 **Lieu** Marécage du Bois Noir, Taldor  
-
 **Foundry** Pas encore disponible  
-
   
-
 L'enclave iruxi de Tskikha est depuis longtemps un allié fidèle de la Société des Éclaireurs. L'emplacement de l'enclave à proximité de ruines azlanti accordées aux éléments a permis à la Société d'effectuer de nombreuses recherches tout en protégeant les iruxi des dangers présents dans les ruines, qui ont tendance à causer des problèmes. Récemment, elles semblent avoir attiré des monstres élémentaires qui sèment la pagaille et le chaos dans l'enclave. Les Tskikha ont une fois de plus appelé leurs alliés à l'aide.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q023E.jpg|Quest 23 - Lacking Respect}
 **Titre VF** Manque de Respect  
-
 **Ecrit par** Jay Scott  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Février 2025*</u>  
-
 **Lieu** Irrisen  
-
 **Foundry** Pas encore disponible  
-
   
-
 Tout le monde à Irrisen n'est pas satisfait du règne de la reine Anastasia. Un groupe de bandits a trouvé facile d'assouvir ses penchants violents sous le règne de la précédente reine. Aujourd'hui, ils sèment le trouble à Irrisen et dans les colonies situées à sa frontière occidentale. C'est aux PJ de mettre un terme à leurs activités de banditisme.  
-
 **Note de contenu :** Cette quête montre les conséquences de la torture. Avant de commencer, comprenez que le consentement des joueurs (y compris celui du maître de jeu) est essentiel pour que l'expérience de jeu soit sûre et amusante pour tout le monde. Vous devez discuter avec vos joueurs avant de commencer l'aventure et modifier les descriptions de la narration si nécessaire.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q024E.jpg|Quest 24 - Tanuki Trouble}
 **Titre VF** Problèmes Tanuki  
-
 **Ecrit par** Hiromi Cota  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Avril 2025*</u>  
-
 **Lieu** Irrisen  
-
 **Foundry** Pas encore disponible  
-
   
-
 Au cours de l'Année de l'Exploration sans Entrave (saison 5), la réapparition des plans de métal et de bois a déstabilisé le Labyrinthe de la Route Ouverte, le labyrinthe extradimensionnel utilisé par la Société des Éclaireurs pour transporter des personnes et des biens sur de vastes distances. En essayant de se stabiliser, de nouvelles entrées et sorties sont apparues, dont une dans un village de Tanuki à Minkai. Les Tanuki se sont amusés à faire des farces aux voyageurs dans le labyrinthe jusqu'à ce que des Agents-Éclaireur les battent à leur propre jeu. Aujourd'hui, le village est en bons termes avec la Société, mais les Éclaireurs aimeraient avoir une loge dans le village pour superviser cette nouvelle sortie. Les Tanuki sont d'accord, mais seulement si les Éclaireurs leur rendent d'abord quelques services. Bien entendu, ce sont les PJ qui sont chargés de ces faveurs.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q025E.jpg|Quest 25 - The Greengold Dilemma}
 **Titre VF** Le dilemme de l'or vert  
-
 **Ecrit par** Glen Parnell  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Juin 2025*</u>  
-
 **Lieu** Kyonin  
-
 **Foundry** Pas encore disponible  
-
   
-
 Greengold, une ville portuaire de la nation elfique de Kyonin, se remet d'une catastrophe, ce qui donne aux éclaireurs l'occasion parfaite d'établir un gîte au sein de la nation elfique. Pour ce faire, ils doivent convaincre certains des dirigeants et des personnes les plus importantes de la nation elfique. La Société a envoyé une équipe de dirigeants pour s'occuper de ces négociations, mais elle a également envoyé quelques agents plus novices pour aider à faire une impression sur le potentiel que la formation au sein la Société peut offrir. Bien entendu, le Consortium Aspis, ennemi de longue date des Éclaireurs, tente de s'implanter à Greengold, et certains agents trop zélés décident que les PJ feraient d'excellentes cibles.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q026E.jpg|Quest 26 - The Dragon's Plea}
 **Titre VF** La Supplique du Dragon  
-
 **Ecrit par** Lucas Servideo  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Octobre 2025*</u>  
-
 **Lieu** Verduran Forest  
-
 **Foundry** Pas encore disponible  
-
   
-
 Il y a plus d'un an, des troubles dans la forêt de Verduran ont chassé un jeune dragon à cornes de son repaire. Incapable de s'opposer aux forces de la Loge du Bois Sauvage sous son leadership alors corrompu, il s'est enfui vers le nord. Il souhaite désespérément retourner dans la forêt, mais n'a pas suffisamment confiance en ses propres capacités pour tenter l'aventure seul. Il a entendu parler des Eclaireurs, et de la façon dont ils ont résolu de nombreux problèmes et aidé d'autres personnes.
 
 Cependant, sa fierté de dragon l'empêche de demander de l'aide. Il s'est donc rendu à la Loge de la Lisière de la Forêt pour proposer une alliance. La capitaine Armeline Jirneau a compris le récit du dragon, mais elle compatit à son sort. Elle a besoin de vous pour explorer le nord de Verduran, car elle sait que les problèmes avec la Loge du Bois Sauvage sont désormais résolus. Si cela fonctionne, la Société aura un allié draconique de plus, même si celui-ci est un peu jeune et naïf.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO16Q027E.jpg|Quest 27 - Within the Glacier}
 **Titre VF** A L'intérieur du Glacier  
-
 **Ecrit par** Kate Tremaine  
-
 **Niveau** 1-4  
-
 **Tag** Répétable  
-
 **Disponibilité** <u>*Décembre 2025*</u>  
-
 **Lieu** La Couronne du Monde  
-
 **Foundry** Pas encore disponible  
-
   
-
 La découverte d'anciennes ruines dans la Couronne du Monde, la région glaciale située à l'extrême nord de Golarion, incite les Eclaireurs à explorer le site. Alors que les agents novices ne sont généralement pas en première ligne lors des expéditions, le sol s'est effondré sous vos pieds alors que vous transportiez des provisions vers le site avec vos compagnons, vous laissant piégés dans une partie inexplorée des ruines. Vous et vos compagnons devez trouver un moyen de sortir de ces anciennes ruines cyclopéennes.

@@ -17,15 +17,10 @@ Categories:
 ---
 
 {s:MCA}**École** [[illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d’incantation** 1 round  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** l’arme manufacturée touchée  
-
 **Durée** 1 heure/niveau (T)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

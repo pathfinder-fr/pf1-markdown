@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (poudre d’ambre (500 po) et écaille de serpent)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** livre ou texte touché  
-
 **Durée** [[permanente]] ou jusqu’à utilisation ; jusqu’à libération ou 1d4 jours + 1 jour/[[niveau]] (voir description)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Au terme de l’incantation, un symbole s’inscrit au cœur de tout texte long de vingt-cinq mots ou plus. Dès que quelqu’un le lit, un serpent de couleur ambrée apparaît et frappe le lecteur (à condition qu’il existe une ligne d’effet entre le symbole et la cible).

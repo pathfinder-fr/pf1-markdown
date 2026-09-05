@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection des passages secrets*, le lanceur de sorts peut repérer les passages secrets, les caches et les compartiments secrets. Seuls les passages, les portes ou les ouvertures spécialement conçus pour ne pas être remarqués sont révélés par ce sort. Les informations obtenues dépendent du temps passé à étudier la zone observée :

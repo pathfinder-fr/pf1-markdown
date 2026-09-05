@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** non
 
 Pour lancer ce sort, le personnage doit avoir une arme en main. En cas de jet d'attaque réussi, cette arme frappe avec un fracas retentissant. La cible reçoit 1d6 points de dégâts sonores. L'arme n'est pas endommagée par l'attaque.

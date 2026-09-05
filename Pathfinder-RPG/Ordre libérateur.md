@@ -19,17 +19,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[action immédiate]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Si la cible est [[Manœuvres offensives#LUTTE|attachée]] ou [[agrippé|agrippée]], elle peut faire un test d’[[Évasion]] pour s’échapper par une [[action immédiate]]. Elle gagne un bonus de compétence au test égal à deux fois le [[NLS|niveau du lanceur de sorts]] (+20 au maximum). Ce sort n’a aucun effet si la cible ne peut pas se libérer avec un test d’[[Évasion]] (par exemple, si elle est victime d’un sort d’*[[immobilisation de personne]]* ou si elle est [[paralysé|paralysée]] par un [[affaiblissement temporaire|affaiblissement]] de [[Force]]).

@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[nécromancie]] <nowiki>[</nowiki>[[registre|terreur]], [[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 3, [[inquisiteur]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** Oui
 
 La victime de ce mot effet est [[effrayé|effrayée]] pour toute la durée du sort. Une cible qui réussit son [[jet de sauvegarde]] est [[secoué|secouée]] pendant 1 [[round]].

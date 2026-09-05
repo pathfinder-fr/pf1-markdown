@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[Médium|Méd]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** 7,5 km  
-
 **Effet** *[[main spectrale]]*  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Une *[[main spectrale]]* apparaît. Le lanceur de sort peut ensuite l’envoyer chercher un personnage situé dans un rayon de 7,5 km. Une fois que la main a retrouvé la créature, elle effectue des signes et l’incite à la suivre pour la reconduire jusqu’au [[prêtre]].

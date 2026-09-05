@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[création]]) ;** Niveau** [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]]
 
 L<nowiki>'</nowiki>*esprit protecteur* est une force invisible, informe et dépourvue d'intelligence qui plane au-dessus du personnage et le protège contre les attaques imprévues. Quand une créature lance une [[attaque dopportunité|attaque d'opportunité]] contre le personnage, l<nowiki>'</nowiki>*esprit protecteur* attaque immédiatement en utilisant le [[BBA|bonus de base à l'attaque]] du personnage plus son modificateur de [[Dextérité]]. S'il touche, il n'inflige pas de dégâts mais fait automatiquement rater l'[[attaque dopportunité|attaque d'opportunité]]. Chaque round, l'esprit protège le personnage contre un nombre d'[[attaque dopportunité|attaques d'opportunité]] égal au bonus de [[Dextérité]] du personnage (1 au minimum).

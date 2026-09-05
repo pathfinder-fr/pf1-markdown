@@ -116,9 +116,7 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 ### (Force)Sous-domaine de la Compétition
 **Exploit athlétique (Sur).** *(remplace pic de force)* Avec une [[action rapide]], vous gagnez le pouvoir de surmonter les obstacles physiques avec facilité. Jusqu'au début de votre prochain tour, vous divisez votre malus d'armure par 2 quand vous tentez un jet d'[[Acrobaties]], d'[[Évasion]], d'[[Escalade]] ou de [[Natation]], et vous gagnez un bonus égal à 1/2 de votre niveau de [[prêtre]] (minimum +1) sur ces jets.  
 
-
 **Sorts de ce sous-domaine:** 1er- [[saut]] // 3ème- [[Aspect animal supérieur]] // 6ème- [[Héroïsme suprême]]  
-
 
 **Dieux de ce sous-domaine:** Dieu des aventuriers // Dieu du savoir // l'Homme fort // la reine du festival // le Puissant
 </div>

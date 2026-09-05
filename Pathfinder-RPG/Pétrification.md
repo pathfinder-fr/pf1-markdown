@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (de la chaux, de l’eau et un peu de terre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** 1 créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible et tout son équipement se transforment en statue de pierre. Si cette statue est endommagée, le sujet souffre de mutilations similaires si on le ramène un jour à son état normal. La victime n’est pas morte (son âme ne quitte pas son corps) mais elle n’a rien de vivant (même si on la sonde à l’aide d’un sort tel que *[[perception de la mort]]*). *Pétrification* ne fonctionne que sur les êtres de chair.

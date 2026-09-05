@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (écaille de poisson)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage fait pousser des filaments entre les doigts et les orteils de sa cible. Ils s'épaississent jusqu'à former des palmes qui lui accordent une vitesse de nage de 9 mètres (6 {s:c}) et un bonus de [[Natation]] associé de +8 ainsi que la possibilité de [[faire 10]] même si elle est distraite ou en danger. La cible peut également utiliser l'option de [[course]] tant qu'elle nage en ligne droite. Ce sort fusionne les bottes et les gants que porte éventuellement la cible avec les palmes (mais les objets magiques à effet continu fonctionnent tout de même). Ce sort ne permet pas de respirer sous l'eau.

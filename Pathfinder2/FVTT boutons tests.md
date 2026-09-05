@@ -5,7 +5,6 @@ LastModified: 2023-10-15 11:26
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • Autres types de boutons inline : [[FVTT boutons jets|Boutons de jets de dés]] - [[FVTT boutons tests|Boutons de tests]] - [[FVTT boutons gabarit|Boutons de gabarit]]
 
 <nowiki><style>
@@ -188,7 +187,6 @@ Le premier exemple ci-dessous utilise le trait `damaging-effect` qui permet de p
 <table class="example">
 <tr>
 <td>**Code**  
-
 `@Check[[type:reflex|dc:20|traits:damaging-effect]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich7a.webp"/></td>
 </tr>

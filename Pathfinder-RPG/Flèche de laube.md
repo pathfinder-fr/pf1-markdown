@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:UC}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** contact  
-
 **Cible** 50 munitions au maximum (elles doivent se trouver ensemble lors de l’incantation)  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Les munitions, y compris les shuriken, émettent une énergie lumineuse. Les créatures qui subissent des malus quand elles sont exposées à une vive lumière subissent ces malus pendant 1 [[round]] après avoir été touchées par ces munitions. Les [[type mort-vivant|morts-vivants]] et les créatures que blesse la lumière du soleil subissent 1d6 points de dégâts supplémentaires. Ces dégâts supplémentaires et la moitié des dégâts de la munition résultent directement de l’énergie lumineuse et ne sont pas sujets à la [[RD|résistance aux dégâts]]. Ces projectiles émettent autant de lumière qu’un [[Bâton éclairant (objet)|bâton éclairant]] pendant 1 [[round]] après qu’on les a lancés.

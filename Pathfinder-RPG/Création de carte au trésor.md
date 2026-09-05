@@ -17,17 +17,11 @@ Categories:
 
 {s:APG}
 **École** [[Divination]] ;** Niveau** [[Barde|Bard]] 2, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 1 heure  
-
 **Composantes** [[Composantes|V, G, M]] (du métal en poudre et des encres rares pour une valeur de 100 po)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature morte  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage prélève un morceau sur une créature morte et s'en sert pour créer une carte qui révèle les emplacements de tous les objets de valeur connus de cette créature de son vivant. Le personnage doit découper le morceau de créature lui-même et cette dernière ne doit pas être morte depuis plus de 24 heures avant l'incantation du sort. Le personnage ne peut pas lancer ce sort sur une créature qui ne possède pas de corps physique et la partie prélevée doit présenter une surface plane correcte comme un bout de peau, de carapace ou de fourrure. La carte est aussi précise que le permettent les connaissances de la créature au moment de sa mort. Elle révèle l'emplacement d'une source de trésors par tranche de trois [[NLS|niveaux de lanceur de sorts]] du personnage. Les inexactitudes et les informations erronées détenues par la créature apparaissent sur la carte. De même, la carte ne tient pas compte des changements qui se sont produits depuis la mort de la créature. Le personnage doit décider de l'échelle de la carte au moment où il la crée : petite (par exemple un ou deux étages d'un donjon), moyenne (une vallée ou une communauté) ou grande (un pays ou plus). La carte indique l'emplacement de ce que la créature pensait qu'il y avait de plus précieux dans la zone. Selon la créature, la carte peut donc indiquer une source de nourriture goûteuse, des partenaires potentiels ou même le propre coffre au trésor du personnage.

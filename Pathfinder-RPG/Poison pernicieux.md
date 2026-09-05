@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 10 minutes/[[niveau|niveaux]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Le personnage affaiblit les défenses de la cible contre le [[poison]]. Celle-ci gagne un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre le [[poison]] et les [[poison|poisons]] qui l’affectent se prolongent pendant deux laps de fréquence supplémentaires (par exemple, un [[Poisons#Venindevipèreàtêtenoire|venin de vipère noire]] dure 8 [[round|rounds]] au lieu de 6 et l’[[Poisons#Arsenic|arsenic]] fait effet pendant 6 minutes au lieu de 4). Les tentatives pour guérir la cible empoisonnée à l’aide d’une [[premiers secours|compétence]] ou de la [[Neutralisation du poison|magie]] subissent un malus de -4.

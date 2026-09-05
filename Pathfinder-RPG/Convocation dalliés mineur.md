@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1d3 créatures invoquées  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Ce sort fonctionne comme *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les lézards, les singes, les rats, les

@@ -16,7 +16,6 @@ Categories:
 
 ### Archétypes simples
 Les archétypes simples peuvent être appliqués à la volée au cours de la partie et sans grands efforts. Il est facile de gérer les créatures célestes ou fiélons invoquées au combat grâce à un sort d’invocation de monstres.  
-
 Les archétypes qui suivent comportent deux groupes de modifications.
 - Les « règles rapides » présentent une méthode rapide pour modifier les jets de dés effectués au cours de la partie afin de simuler les effets de l’archétype sans avoir à reconstruire intégralement le profil de la créature. Cette méthode convient particulièrement bien aux créatures invoquées.
 - Les « règles de reconstruction », quant à elles, indiquent les modifications précises à apporter au profil de la créature si vous avez le temps de la reconstruire intégralement. Cette méthode convient mieux lors de la préparation des parties, quand vous avez le loisir de fabriquer des profils du début à la fin. Les deux méthodes donnent des créatures qui possèdent des capacités similaires voire identiques.

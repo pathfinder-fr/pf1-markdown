@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[COMPOSANTES|V, G, M]] (une pincée de poudre de fer)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature [[type humanoïde|humanoïde]]/[[niveau]], chacune ne devant pas se trouver à plus de 9 m des autres  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort fait grossir les créatures [[type humanoïde|humanoïdes]] affectées instantanément, doublant leur taille et multipliant leur poids par huit. Leurs [[Petites et grandes créatures#TABLEAUTAILLES|catégories de taille]] augmentent alors d’un cran. Les cibles reçoivent un bonus de taille de +2 en [[Force]], un malus de taille de -2 en [[Dextérité]] (1 minimum), et un malus de -1 aux [[jet dattaque|jets d’attaque]] et à la [[CA]] du fait de leur nouvelle taille.

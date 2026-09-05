@@ -21,12 +21,10 @@ Lorsque vous effectuez une attaque à distance, il est également possible que v
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance**   
 =  
-
 Bonus de base à l’attaque + modificateur de [[Les caractéristiques##La_Dextérité_Dex_6|Dextérité]] + malus de portée</center></div>
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance (arme de jet)**   
 =  
-
 Bonus de base à l’attaque + modificateur de [[Les caractéristiques#La_Force_For_5|Force]] + malus de portée</center></div>
 
 
@@ -35,7 +33,6 @@ Lorsque vous attaquez au corps à corps, vous utilisez une arme de corps à corp
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque au corps à corps**   
 =  
-
 Bonus de base à l’attaque + modificateur de [[Les caractéristiques#La_Force_For_5|Force]]</center></div>
 
 #### Les réussites et les échecs automatiques

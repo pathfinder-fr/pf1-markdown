@@ -12,15 +12,10 @@ Categories:
 ---
 
 {s:AO}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
-
 **Temps d’incantation** 1 minute  
-
 **Composantes** [[Composantes|G]]  
-
 **Portée** [[courte|contact]]  
-
 **Cible** 1 créature morte  
-
 **Durée** 1 [[round]]
 
 En utilisant ce sortilège et en touchant la cible, vous pouvez forcer un cadavre à vous parler, mais vous ne pouvez pas lui poser des questions spécifiques ou communiquer avec lui. Le cadavre commencera à balbutier pour 1 [[round]], crachant des phrases aléatoires. Il y a 10% de chance que cette information soit utile au lanceur de sort, mais il est difficile de distinguer si l'information est utile (le MJ fait le jet en secret).

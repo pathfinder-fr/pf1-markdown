@@ -17,17 +17,11 @@ Categories:
 
 {s:APG}
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage enveloppe une créature dans un écran de vents rugissants. Le sujet n'est alors jamais entravé par des vents violents, de tempête ou de moindre force (qu'ils soient d'origine naturelle ou magique) et les jets d'attaque à distance contre lui subissent un malus de -4. Les créatures de taille TP ou moins doivent réussir un jet de [[Vigueur]] pour toucher ou attaquer le sujet au corps à corps. En cas d'échec, l'attaquant [[à terre|tombe à terre]] et les vents le repoussent loin du sujet de 1,50 mètre (1 {s:c}) par [[NLS|niveau de lanceur de sorts]]. Ce déplacement peut lui faire traverser la case d'une autre créature sans l'affecter ni provoquer d'[[attaque dopportunité|attaque d'opportunité]], mais la créature reçoit 3d6 points de [[dégâts non létaux]] plus 1d6 si elle heurte un objet solide qui bloque sa route.

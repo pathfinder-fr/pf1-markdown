@@ -12,7 +12,6 @@ Categories:
 
 #### Célèbre
 Au niveau 1, la célébrité choisit la région dans laquelle elle est connue. Là, les gens auront tendance à réagir favorablement envers elle. Le barde gagne un bonus aux tests de [[Diplomatie]] et d’[[Intimidation]] quand il se trouve dans cette région ou tente d’influencer des gens qui en sont originaires.  
-
 Au niveau 1, cette région est un village ou un groupe de villages qui ne dépasse pas les 1 000 habitants. Il gagne un bonus de +1 aux tests de [[Diplomatie]] et d’[[Intimidation]]. Alors que sa renommée se répand, de nouvelles contrées entendent parler de lui (généralement des endroits où il a vécu ou qu’il a traversés ou encore des villages adjacents à ceux qui le connaissent), ses bonus s’appliquent donc à plus de monde. Au niveau 5, il est connu dans une région qui regroupe 5 000 personnes ou moins et son bonus passe à +2 ; au niveau 9, la région comprend jusqu’à 25 000 habitants et le bonus est de +3 ; au niveau 13 la région compte jusqu’à 100 000 personnes et le bonus passe à +4 et enfin, au niveau 17 et plus, la renommée du barde s’est étendue si loin que la plupart des gens civilisés ont entendu parler de lui (à la discrétion du MJ) et son modificateur est de +5. Ce pouvoir remplace [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]].
 
 #### Représentation bardique

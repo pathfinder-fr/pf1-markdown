@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:cs}{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, malédiction]]<nowiki>]</nowiki> ; **Niveau** [[antipaladin|Apal]] 4, [[chaman|Cham]] 4,[[prêtre|Prê]] 4, [[sorcière|Sor]] 4, [[spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[contact]]  
-
 **Cible** 1 créature touchée  
-
 **Durée** 1 minute et instantanée (voir texte)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Canalisant le blasphème des fiélons dans sa main, le personnage marque sa cible d'une corruption brève mais profonde, damnant irrémédiable son âme si elle venait à mourir dans la minute qui suit. Si le personnage est Loyal Mauvais, les âmes sont envoyées aux Enfers. Si le personnage est Neutre Mauvais, les âmes sont envoyées en Abaddon. Si le personnage est Chaotique Mauvais, les âmes sont envoyées aux Abysses.

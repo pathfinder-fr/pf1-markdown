@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Zone d'effet** [[émanation]] de 1,50 m de rayon (1 case de rayon) centrée sur le jeteur de sorts  
-
 **Durée** 1 heure/[[niveau]] (T)
 
 Grâce à ce sort, le personnage déforme les ondes sonores environnantes afin que lui et les créatures situées dans la [[zone deffet|zone d’effet]] puissent parler normalement sans que celles qui se trouvent à l’extérieur les entendent (cela inclut aussi les autres bruits et les effets de son ou de langage). Cet effet est centré sur le personnage et se déplace avec lui. Toute personne qui entre dans la zone est immédiatement sujette aux effets, alors que celles qui la quittent ne le sont plus. Un test de [[Linguistique]] ([[DD]] 20) visant à lire sur les lèvres permet toutefois de saisir ce qui est dit au sein de la *zone de silence*.

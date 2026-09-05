@@ -31,7 +31,6 @@ La « créature foo» est un archétype hérité que l’on peut ajouter à n’
 
 
 
-
 Les créatures foo sont des esprits gardiens bienveillants originaires du Plan extérieur du Nirvana où elles passent
 leurs journées à gambader dans les étendues idylliques ou à aider les habitants du royaume, notamment les agathions,
 dans leur travail. Bien qu’elles viennent du Nirvana, on trouve souvent des créatures foo sur le Plan matériel puisqu’elles font partie des invocations préférées de nombreuses cultures et religions. Il existe d’innombrables espèces de créatures foo car, pour tout animal qui vit sur le Plan matériel, il existe un double spirituel qui s’ébat et folâtre quelque part dans les vastes étendues du Nirvana. Néanmoins, certaines créatures foo sont plus courantes que d’autres, les chiens et les lions étant les plus répandues. On peut appeler une créature foo sur le Plan matériel pour n’importe quelle raison : ces monstres sont généralement beaucoup plus intelligents que leurs homologues normaux et peuvent non seulement suivre des ordres complexes mais aussi parler et converser. En général, la créature foo est appelée pour servir de gardien pendant un temps : en adoptant sa forme de statue grâce à sa capacité immobilité, elle peut passer pour une simple décoration sculptée sur la façade d’un bâtiment ou sur une fontaine publique. Comme les créatures foo détestent la guerre, on les invoquent
@@ -42,7 +41,6 @@ Il existe, parmi les créatures foo, ce que l’on nomme des « impériales » :
 créatures foo. Les impériales sont bien plus puissantes que les créatures typiques de leur race et possèdent une vaste
 gamme de pouvoirs magiques supplémentaires. Chaque créature foo impériale est une entité unique : il n’en existe
 qu’une seule par race et par époque. Lorsqu’une créature foo impériale se fait tuer, la créature foo la plus puissante s’élève au rôle de remplaçant de la défunte.  
-
 Pour créer une créature foo impériale, établissez d’abord les caractéristiques d’une créature foo standard. Suivez ensuite le même processus que pour faire évoluer une créature selon ses dés de vie plutôt que selon son archétype standard.
 - **1ère étape :** augmenter les valeurs de caractéristiques. La créature foo qui devient une impériale gagne un bonus de +6 à toutes ses valeurs de caractéristiques, sauf à son Intelligence qui passe à 20 (à moins que le bonus de +6 ne la fasse passer à un niveau plus élevé, auquel cas utilisez la valeur le plus haute).
 - **2e étape :** augmenter les dés de vie. La créature foo impériale a toujours au moins deux fois plus de DV que la

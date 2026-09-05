@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[convocation]]) <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[portée|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation%20des%20sorts.ashx#Les_jets_de_sauvegarde_21|partiel]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage peut, d’un simple [[contact]], générer une invasion de vers affamés dans la chair de la victime. Cette dernière doit faire un [[jet de sauvegarde]] par [[round]]. En cas d’échec, elle reçoit 1d6 points de dégâts et 2 points d’affaiblissement de [[Dextérité]]. Elle est [[Chancelant|chancelante]] pendant 1 [[round]]. Si elle réussit son [[jet de sauvegarde]], elle ne subit pas de points de dégâts ni d’affaiblissement et elle est juste [[fiévreux|fiévreuse]] et non [[Chancelant|chancelante]]. L’*infestation de vers* ne se soigne pas avec la *[[guérison des maladies]]* ni la *[[guérison suprême]]* car elle redémarre dès que les vers actuels se font tuer. Une *[[protection contre le mal]]* annule l’effet du sort tant que leurs deux durées se chevauchent. Le *[[rejet du mal]]* met automatiquement un terme à l’infestation.

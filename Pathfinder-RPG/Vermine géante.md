@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** 1 créature ou plus de [[type vermine]] distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort transforme un certain nombre de [[mille-pattes géant|mille-pattes]], d’[[araignée géante|araignées]] ou de [[scorpion géant|scorpions]] de taille normale en *vermines géantes* (voir l'archétype "[[archétypes simples#CREATUREGEANTE|Géant]]"). Il n’est possible de transformer qu’un seul type d’animal à la fois (un seul sort ne permet donc pas de faire grandir simultanément un mille-pattes et une araignée). Le nombre de vermines affectées dépend du [[NLS|niveau de lanceur de sorts du personnage]] (voir la table ci-dessous).

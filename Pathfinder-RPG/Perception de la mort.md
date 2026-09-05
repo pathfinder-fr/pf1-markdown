@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 9 m  
-
 **Zone d'effet** [[émanation]] en forme de [[cône]]  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 En faisant appel aux pouvoirs de la mort, le personnage peut découvrir l’état des créatures proches de la mort qui se trouvent dans la zone d’effet. Il sait instantanément si les créatures sondées sont mortes, dans un état critique (gravement blessées, 3 [[points de vie]] maximum), condamnées à plus ou moins longue échéance (4 [[points de vie]] ou plus), en bonne santé, [[type mort-vivant|mortes-vivantes]] ou ni mortes ni vivantes (comme c’est le cas pour les [[type créature artificielle|créatures artificielles]]). Ce sort révèle instantanément tout sort ou effet magique qui permet de feindre la mort.

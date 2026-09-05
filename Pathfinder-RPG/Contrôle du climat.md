@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 10 minutes (voir description)  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 3 km  
-
 **Zone d'effet** zone de 3 km de rayon centrée sur le jeteur de sorts (voir description)  
-
 **Durée** 4d12 heures (voir description)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet de modifier radicalement le climat dans la zone choisie. L’incantation demande dix minutes, après quoi il faut attendre dix minutes supplémentaires pour que les effets se manifestent. On détermine les conditions climatiques en vigueur. Le personnage peut les modifier en fonction de la saison et de la région dans laquelle il se trouve. Il peut également lancer le sort pour faire que le climat prenne un état calme et normal pour la saison.

@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki>; **Niveau** [[Prêtre|Prê]] 4  
-
 **Temps d’incantation** 1 round  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non; **Résistance à la magie** oui
 
 Les attaques à mains nues du personnage libèrent des décharges d'énergies qui prennent la forme de traits de feu ou de corneilles à l'éclat rouge qui s'envolent immédiatement pour frapper la cible du personnage. Ce dernier peut faire une attaque à mains nues ou un [[moine#DELUGEDECOUPS|déluge de coups]] contre la cible comme si elle se trouvait dans la zone qu'il menace. Chaque attaque réussie inflige les mêmes dégâts que l'attaque à mains nues mais se divise pour moitié en dégâts de feu et pour moitié en dégâts d'énergie négative (cette dernière ne guérit pas les morts-vivants). Par exemple un [[moine]] de [[niveau]] 14 peut utiliser [[moine#DELUGEDECOUPS|déluge de coups]] pour attaquer 5 fois. Il crée une corneille par attaque réussie contre la cible et chacune inflige 2d6 points de dégâts (plus les modificateurs applicables à l'attaque à mains nues).

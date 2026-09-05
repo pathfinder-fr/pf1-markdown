@@ -12,17 +12,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[inquisiteur|Inq]] 6, [[psychiste|Psy]] 7, [[spirite|Spi]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G, F]] (un diadème en argent)  
-
 **Portée** [[courte|contact]]  
-
 **Cible** 1 créature touchée  
-
 **Durée** 1 heure/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule (inoffensif)]] ; **Résistance à la magie** oui (inoffensif)
 
 La cible déborde soudain d’enthousiasme et de confiance, persuadée qu’elle va remporter la victoire. Quand elle rate un jet d’attaque ou de sauvegarde ou bien un test de compétence, de concentration ou de caractéristique, elle gagne un bonus de moral de +4 sur la prochaine tentative effectuée dans un délai de 1 [[round]] (y compris un jet d’attaque contre le même adversaire, un jet de sauvegarde contre le même pouvoir d’un même adversaire, etc.) De plus, quand la cible devrait être victime d’un effet de terreur ou d’émotion, elle peut dissiper le zèle inébranlable sans dépenser d’action pour annuler cet effet sur elle.

@@ -9,15 +9,10 @@ Categories:
 ---
 
 {s:APG}**École** [[Transmutation]] ;** Niveau** [[Paladin|Pal]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts et sa monture  
-
 **Durée** 1 [[round]]/[[niveau]] (T) ; voir texte
 
 Le personnage et sa monture atteignent une synergie parfaite qui leur permet de bénéficier d'avantages basés sur la distance parcourue au cours du [[round]]. À chaque fois que la monture se déplace de 1,50 mètre (1 {s:c}) au cours du [[round]], le personnage gagne un bonus de compétence de +1 aux tests d'[[Équitation]] tandis que lui et sa monture gagnent un bonus de moral de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] avec des armes manufacturées ou naturelles pendant 1 [[round]]. Par exemple, si la monture se déplace à 12 mètres (8 {s:c}) par [[round]], le personnage gagne un bonus de +8 aux tests d'[[Équitation]] et ils gagnent tous les deux un bonus de +8 aux [[Valeurs de combat#DEGATS|jets de dégâts]] pendant 1 [[round]], avec un bonus maximum égal au [[NLS|niveau de lanceur de sorts]] du personnage. Ce dernier doit se trouver en selle pour profiter de ce sort. S'il met pied à terre, tombe ou entreprend la moindre action qui le sépare de sa monture, le sort se termine immédiatement.

@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|dépendant du langage, effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Psychiste|Psy]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone** rayonnement de 9 m (6 {s:c}) de rayon  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage conspue une créature en ligne de mire et dresse d'éventuels alliés contre elle en recourant au pouvoir de sa voix et de sa conviction. Les êtres qui se trouvent dans la zone et qui voient la cible se faire ainsi dénoncer doivent faire un jet de [[Volonté]] ou voir leur [[Diplomatie|attitude de départ]] envers elle se dégrader de deux niveaux. Par exemple, des créatures indifférentes envers la cible deviennent inamicales. Les tests de [[Diplomatie]] qui visent à inverser les effets de la *dénonciation* souffrent d'un malus de -10.

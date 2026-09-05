@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[convocation]]) (voir description) ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** 2 créatures convoquées (ou plus) distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort ouvre un *[[portail]]* vers l’un des quatre plans élémentaires. Un [[druide]] peut sélectionner le plan de son choix (Air, Eau, Feu ou Terre), tandis qu’un [[prêtre]] est limité au plan qui correspond à son [[domaines|domaine]].

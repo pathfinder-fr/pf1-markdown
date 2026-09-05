@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non
 
 Le personnage enduit son corps d’une substance résineuse qui le protège des attaques et colle les armes qui le touchent. Il gagne une [[RD]] 5/perforant et un bonus de circonstances de +4 au [[DMD]] contre les tentatives de [[désarmement]], ainsi qu’un bonus de circonstances de +4 aux [[JdS|jets de sauvegarde]] contre les effets qui l’obligent à lâcher quelque chose. De plus, il gagne un bonus de circonstances de +2 aux [[BMO|tests de manœuvre offensive]] pour initier une [[lutte]], maintenir une [[lutte]] et [[immobiliser]] un adversaire. Quand le personnage [[agrippé|agrippe]] un ennemi, ce dernier subit un malus de -2 quand il tente de briser l’étreinte ou de la fuir avec un test d’[[Évasion]]. Les armes qui frappent le personnage restent collées à lui à moins que leur propriétaire ne réussisse un jet de [[Réflexes]]. Pour décoller l’arme, il faut réussir un jet de [[Force]] ([[DD]] = [[DD]] du [[jet de sauvegarde]] du sort). Ce sort n’a aucun effet sur les attaques à mains nues ni les armes naturelles.

@@ -14,17 +14,11 @@ Categories:
 
 {s:UC}
 **École** [[évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F/FD]] (un maillon de chaîne)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]])/(5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** 3 m de chaîne  
-
 **Durée** 1 round/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Une chaîne de force flottante munie de crochets aux deux extrémités apparaît dans une case inoccupée à portée, au choix du personnage. C’est un objet M avec une allonge de 3 m (2{s:c}). On ne peut pas toucher ni endommager une chaîne de perdition avec une attaque physique mais elle est sujette à la *[[dissipation de la magie]]*, à la *[[désintégration]]*, à une *[[sphère dannihilation|sphère d’annihilation]]* et à un [[sceptre dannulation|sceptre d’annulation]]. Contre les attaques de contact, elle a une [[CA]] de 10 + modificateur de Charisme (ensorceleur) ou d’Intelligence (magicien) ou de Sagesse (prêtre).

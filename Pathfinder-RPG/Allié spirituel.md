@@ -13,17 +13,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[[</nowiki>force<nowiki>]]</nowiki> ;** Niveau** [[Médium|Méd]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** allié fait de force spirituelle  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Un allié fait de force pure apparaît dans une case de 1,50 mètre (1 {s:c}) située à portée. Il revêt l'apparence d'un serviteur du dieu du personnage. L'esprit allié occupe la case bien que le personnage et ses compagnons puissent la traverser puisqu'il est de leur côté. Il porte une seule arme, celle privilégiée par le dieu du personnage (comme pour une *[[arme spirituelle]]*) qui menace la même zone de critique, avec le même modificateur, qu'une arme réelle de même type. À chaque [[round]], quand c'est au tour du personnage en commençant à partir du tour où il lance ce sort, l'allié spirituel attaque un ennemi situé à sa portée désigné par le personnage. L'allié spirituel menace des cases adjacentes, peut [[pris en tenaille|prendre un ennemi en tenailles]] et lance des [[attaque dopportunité|attaques d'opportunité]] comme une créature normale. Quand il fait une attaque au corps à corps, il utilise le [[BBA|bonus de base à l'attaque]] du personnage (avec des attaques supplémentaires si ce bonus est assez élevé) plus le modificateur de [[Sagesse]] du lanceur de sorts. Quand il touche, il inflige 1d10 points de dégâts de force + 1 point de dégâts par tranche de 3 [[NLS|niveaux de lanceur de sorts]] (maximum +5 au niveau 15). Il frappe comme un sort, non comme une arme, et ignore donc toute [[RD]] et peut affecter des créatures [[intangible|intangibles]].

@@ -5,7 +5,6 @@ LastModified: 2021-01-11 22:52
 ---
 
 • [[MainPage|Retour à la page principale pour Pathfinder 2]]   
-
 • [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 Ce qui suit est une traduction des règles de Playtest pour le livre *"Guns & Gears"* introduisant les classes de pistoléro et d'inventeur. La version originale est disponible gratuitement sur le site de Paizo.

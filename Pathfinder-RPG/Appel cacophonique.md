@@ -10,17 +10,11 @@ Categories:
 ---
 
 {s:APG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (un morceau de partition)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage emplit l'esprit de sa cible d'un vacarme retentissant de sons discordants, ce qui la gêne pour se concentrer et agir. La créature est [[nauséeux|nauséeuse]] pendant toute la durée du sort si elle rate son [[jet de sauvegarde]].

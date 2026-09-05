@@ -101,7 +101,6 @@ Les personnages déterminent leurs traits à partir de six catégories différen
   
   
   
-
 ### Étape 9: Points de Vie
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}es personnages de la Société des Éclaireurs commencent la campagne avec un nombre de points de vie prédéterminé et gagnent un nombre de points de vie spécifique chaque fois qu'ils progressent d'un niveau.

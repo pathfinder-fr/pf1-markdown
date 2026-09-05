@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** arme touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort confère à l’arme choisie un bonus d’altération de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts. Un bonus d’altération n’est pas cumulable avec celui que confère une [[arme de maître]].

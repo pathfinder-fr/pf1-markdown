@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[druide|Dru]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[hypnotiseur|Hyp]] 2, [[Occultiste|Occ]] 2, [[psychiste|Psy]] 2, [[sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 jour/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté, partiel]] ; **Résistance à la magie** oui
 
 Le personnage implante un sentiment d’aversion dans l’esprit de la cible qui évite alors un objet ou un lieu. Il doit choisir un objet ou un emplacement spécifique, un lieu ainsi choisi ne pouvant dépasser un cube de 15 mètres d’arête. Le dégoût se trouve uniquement dans l’esprit de la cible, l’objet ou la zone affectée n’est pas soumis au moindre effet magique. Si la cible rate son jet de sauvegarde, elle ne peut pas approcher à 18 mètres ou moins de l’objet ou l’endroit choisi. Elle fait tous les efforts raisonnablement possibles pour éviter l’objet de son dégoût mais elle ne se met pas en danger pour garder ses distances. Par exemple, si l’objet du dégoût est un pont mais qu’un feu de forêt approche et va tuer la cible, elle surmonte son aversion et traverse le pont pour survivre. Si la cible est contrainte de surmonter son dégoût, elle est nauséeuse tout le temps où elle viole ce sentiment.

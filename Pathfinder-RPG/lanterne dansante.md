@@ -15,17 +15,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu, lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,G,F]] (une lanterne)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Effet** anime une lanterne  
-
 **Durée** 1 heure/[[niveau]](T)   
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage peut animer une lanterne et lui ordonner de le suivre. Elle flotte à la hauteur de son épaule et reste à 1,50 mètre (1 {s:c}) de lui, quelle que soit la vitesse à laquelle il se déplace. La lanterne ne supporte pas de poids supplémentaire. Elle illumine une zone comme à l'accoutumée, même si elle n'a pas été alimentée en huile. Pour tout ce qui concerne les sorts et les effets qui visent la lanterne, on considère qu'elle se trouve en possession du personnage, même s'il ne la porte pas directement sur lui. Une *lanterne dansante* peut devenir permanente grâce à un sort de *[[permanence]]* ([[NLS]] 9, 2 500 po).

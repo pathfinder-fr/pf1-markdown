@@ -10,23 +10,14 @@ La description des sorts dans Starfinder est présentée selon un format standar
 Chaque catégorie d’information dans cette description est expliquée dans la section appropriée qui suit l’exemple (ainsi que les références pour des informations plus détaillées). Tous les sorts de Starfinder n’ont pas tous les éléments en gras présentés dans l’exemple, éléments qui ont été inclus dans ce dernier pour qu’il soit exhaustif sur le sujet. L’exemple contient également certains termes employés pour chaque élément ou un résumé de ce qu’on y trouve généralement
 
 **NOM DU SORT**   
-
 **École** type de magie <nowiki>[[descripteur]]</nowiki>  
-
 **Temps d’incantation** action ou durée  
-
 **Portée** personnelle, contact, ou une distance spécifiée  
-
 **Zone d’effet** espace (M)  
-
 **Effet** l’effet mécanique du sort (s’il n’affecte ni une zone, ni des cibles)  
-
 **Cibles** une ou plusieurs créatures  
-
 **Durée** rounds, minutes ou heures (R)  
-
 **Jet de sauvegarde** aucun, partiel ou annule ; **Résistance à la magie** oui ou non  
-
 Les effets du sort sont décrits ici.
 
 #### Nom du sort

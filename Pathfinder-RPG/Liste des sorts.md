@@ -727,5 +727,4 @@ Categories:
 
 
 <div style="float: right">***Vers la [[Liste des sorts (suite)|suite]] de la liste (E-O).***  
-
 ***Vers la [[Liste des sorts (fin)|fin]] de la liste (P-Z).***</div>

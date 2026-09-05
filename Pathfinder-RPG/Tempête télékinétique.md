@@ -9,15 +9,10 @@ Categories:
 ---
 
 {s:AO}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (12m), rayon d'action centré sur vous  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Vigueur (voir le texte)]] ; **Résistance à la magie** oui
 
 Vous générez une tempête d'énergie télékinétique qui émane de vous, déchirant la zone d'effet du sortilège avec une force dévastatrice. Toute créature capturée dans le rayon du sortilège prend 1d6 points de dégât par [[NLS|niveau de lanceur de sorts]] (maximum 20d6) et est [[États préjudiciables#Étourdi|étourdi]] pendant 1 [[round]]. Un jet de [[Vigueur]] réussi réduit les dégâts de moitié et annule les effets étourdissement.

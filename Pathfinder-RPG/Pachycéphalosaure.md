@@ -41,7 +41,6 @@ mais la victime souffre toujours des effets de la bousculade du dinosaure. Le DD
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce reptile bipède possède un crâne tout rond formant un dôme entouré par une collerette osseuse et une crête.*
 
 Le pachycéphalosaure est ordinairement un dinosaure pacifique qui cède à l’irritation et à la violence lors de la saison des amours ou lorsque des prédateurs potentiels viennent envahir le domaine de son troupeau. Le crâne de ce dinosaure a la forme très caractéristique d’un dôme couronné de nombreuses pointes osseuses : ceci, combiné à sa nuque puissante et compacte, lui permet d’effectuer des charges de bélier pouvant infliger de sévères dégâts.  
-
 Le pachycéphalosaure atteint à l’âge adulte une longueur de 4,50 mètres et pèse 700 kilos.
 
 #### Le pachycéphalosaure comme compagnon animal

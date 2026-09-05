@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (un bréchet)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une arme à projectile  
-
 **Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Le personnage donne la possibilité de faire des ricochets à une arme à projectiles. Quand elle touche une cible, elle peut également en toucher une autre. Pour faire un ricochet, le tireur choisit une cible initiale. S’il la touche, le projectile n’est pas détruit, il fait un ricochet. Le tireur choisit alors une seconde cible à moins de 6 m (4 {s:c}) de la première. Il fait un jet d’attaque contre elle avec le même [[BBA]] que l’attaque initiale mais il ne tire pas d’avantages des éventuels bonus d’altération ou des propriétés magiques du projectile. Si le personnage tire à l’[[arme à feu]], le ricochet se fait contre la [[CA]] normale de la cible et non contre la [[CA]] de contact.

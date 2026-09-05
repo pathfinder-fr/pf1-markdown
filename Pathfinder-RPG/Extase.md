@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[guérison]]) <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 18 mètres (12 {s:c})  
-
 **Zone** tous les alliés et ennemis situés dans un rayon de 18 m (12 {s:c}) centré sur le personnage  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** non; **Résistance à la magie** oui
 
 Les paroles inspirées du personnage plongent les autres dans un état de béatitude transcendantale. Tous les alliés dans la zone d'effet se libèrent de tout effet d'émotion néfaste. Le sort soigne également 1d4 points d'affaiblissement d'[[intelligence]], de [[sagesse]] ou de [[charisme]] (au choix du personnage) pour tous les alliés situés dans la zone.

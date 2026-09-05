@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cibles** créature ou créatures touchées (jusqu’à 1/[[niveau]])  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Au terme de l’incantation, la main du mage s’auréole d’une lueur bleutée qui affecte la force vitale des créatures vivantes en leur faisant perdre 1d6 points de vie (pas de [[jet de sauvegarde]]). Si elles échouent à un jet de [[Vigueur]], elles subissent un [[affaiblissement temporaire]] de 1 point de [[Force]]. Le personnage peut utiliser cette [[attaque de contact]] au corps à corps jusqu’à une fois par niveau.

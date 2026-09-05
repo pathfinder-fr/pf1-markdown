@@ -53,15 +53,11 @@ capacités et d’effets, comme précisé ci contre, mais pour recevoir ces bonu
 saillantes, est drapé d’interminables contrats.''
 
 Le diable des contrats, aussi appelé phistophilius, apparaît toujours séduisant et confiant, ses traits finement ciselés affichant un perpétuel sourire suffisant. Les diables des contrats ont la peau rouge et les cheveux noirs. Ils mesurent 1,95 mètre, sans compter les cornes. Le fourré de cornes qui se dresse autour de lui lui rajoute une trentaine de centimètres et fait monter son poids à 175 kilos.  
-
 Ces diables sont au service d’Asmodeus, des archidiables et de l’immense administration de l’Enfer en tant que prêtres, scribes et négociateurs des âmes des mortels. Ils sont là pour tenir les registres des damnés, pour gérer les interminables décrets de l’Enfer et, quand leur emploi du temps le leur permet et que l’opportunité se présente, pour attirer les mortels dans les filets de la damnation.  
-
 La plupart des phistophilius passent leur éternité dans les différents tribunaux des neufs cercles de l’Enfer, tout particulièrement dans les bibliothèques fortifiées et labyrinthiques où sont archivés toutes les lois et les serments infernaux. Ils endossent, à l’occasion, des rôles similaires sur le Plan matériel lorsqu’ils sont convoqués par des mortels particulièrement désespérés, arrogants ou inconscients. Lorsqu’une âme damnée par un contrat infernal est ramenée à la vie (généralement au moyen d’une puissante magie comme miracle ou souhait), le phistophilius remarque aussitôt la transgression. En général, le diable des contrats recrute des alliés plus puissants que lui pour traquer et punir ces contrevenants et récupérer l’âme échappée aussi vite que possible.
 #### Contrats infernaux
 S’il existe différents types de contrats infernaux, voici les deux versions que les diables des contrats proposent le plus souvent aux mortels.  
-
 **Esclave infernal.** Le mortel peut négocier avec le phistophilius pour jouir des services d’un diable à vie. Le mortel choisit n’importe quel type de diable (sauf un diable des contrats) de FP égal ou inférieur à son propre niveau de personnage au moment de l’accord. L’esclave infernal est tenu de ne faire aucun mal au mortel et de suivre ses ordres aussi longtemps qu’il vit. Même si le diable doit obéir aux exigences de son maître, beaucoup prennent un malin plaisir à déformer ses intentions de manière cruelle ou malveillante.  
-
 **Souhaits maudits.** Lorsqu’il signe le contrat, le mortel se voit accorder trois souhaits, fonctionnant
 comme le sort du même nom. Il doit les utiliser dans les 24 heures suivant la signature du contrat, sinon les
 souhaits sont gâchés même s’il demeure prisonnier du contrat. Si le mortel choisit effectivement ses trois
@@ -69,7 +65,6 @@ souhaits, le diable des contrats se réserve le droit de décider de leurs spéc
 #### Rompre un contrat infernal
 Il n’y a que deux manières de rompre un accord passé avec un diable des contrats. Lorsque le contrat est signé, une seconde copie apparaît : la première revient au diable, la seconde est remise au mortel. Les
 mortels sont libres de faire ce qui leur plaît de ces longs documents maléfiques, tandis que le diable des contrats garde généralement ses contrats actifs sur lui. Si les deux copies d’un contrat sont détruites, tous ses effets sont annulés ou inversés et l’âme du mortel retourne à l’endroit où elle aurait normalement dû reposer à sa mort. On peut alors la ressusciter normalement. Le simple fait de prendre la fuite avec les deux copies du contrat ne suffit pas à le rompre : tant que les deux copies existent, l’âme du signataire reste damnée à jamais.  
-
 Il existe une seconde solution: un autre mortel peut reprendre les termes du contrat en son propre nom : son
 âme remplace alors celle du signataire original après sa mort. Les mortels qui cherchent à racheter la dette d’un autre doivent contacter le diable des contrats possédant le dit contrat. Le diable des contrats peut choisir d’accepter ou de refuser à un mortel le droit d’endosser la dette d’un tiers, mais il convoite les âmes religieuses d’alignement Bon plus que toutes les autres. Habiles manipulateurs, les diables des contrats n’autorisent souvent un mortel à payer la dette d’un autre qu’en échange de services ou de preuves de mérite. Si le diable des contrats accepte une autre âme en paiement, le signataire original du contrat conserve tous les avantages du contrat mais il est libéré de sa damnation et peut être ressuscité normalement. Le nouveau signataire ne reçoit cependant aucun avantage et ne peut plus être ramené à la vie après sa mort : il est condamné à passer l’éternité en Enfer.
 </div></td></tr></table>

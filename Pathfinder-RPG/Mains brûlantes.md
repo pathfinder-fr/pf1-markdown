@@ -16,17 +16,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** 4,50 m (3 {s:c})  
-
 **Zone d'effet** [[rayonnement]] en forme de [[cône]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un [[cône]] de flammes jaillit des mains tendues du personnage. Toutes les créatures prises dans ce [[cône]] subissent 1d4 points de dégâts de feu par [[niveau de lanceur de sorts]] (jusqu’à un maximum de 5d4). Les matières inflammables [[Dangers naturels#PRENDREFEU|prennent feu]] si elles sont exposées aux flammes. N’importe qui peut les éteindre par une [[action complexe]].

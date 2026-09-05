@@ -14,17 +14,11 @@ Categories:
 ---
 
 {s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[inquisiteur|Inq]] 3, [[prêtre|Prê]] 3, [[psychiste|Psy]] 3, [[spirite|Spi]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
-
 **Cible** 1 créature  
-
 **Durée** 1 [[round]]/niveau  
-
 **Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule (inoffensif)]] ; **Résistance à la magie** oui (inoffensif)
 
 La cible gagne un bonus de moral de +2 aux jets d’attaque et de dégâts des armes, 1d6 points de vie temporaires et un bonus de moral de +4 aux jets de sauvegarde contre les effets de terreur. Le [[DD]] des tests d’[[Intimidation]] effectués à son encontre augmente également d’un bonus de moral de +4. Une fois par [[round]], la cible peut choisir une autre créature qui bénéficie aussi de ces avantages. Cette créature doit se trouver dans un rayon de 7,50 mètres + 1,50 mètre par tranche de deux [[NLS|niveaux de lanceur de sorts]] du personnage. Une créature ne peut bénéficier de cet avantage qu’une seule fois. La créature bénéficiaire profite seulement des bonus et des points de vie temporaires, elle ne peut pas à son tour propager ces avantages. Les avantages des créatures supplémentaires partagent la même durée que le sort de base, quand ce dernier expire, toutes les créatures affectées perdent leurs bonus et leurs points de vie temporaires.

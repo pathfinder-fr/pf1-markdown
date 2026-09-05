@@ -40,7 +40,6 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*L’immense voile dorsale de cette créature reptilienne à quatre pattes s’agite et se plie lorsque la bête avance.*
 
 Le dimétrodon est un reptile quadrupède similaire, par sa forme, au crocodile, mais avec un museau moins pointu et des dents irrégulières et tranchantes. Sa caractéristique la plus frappante est son énorme voile dorsale. En déployant ou en rétractant cette voile, ce reptile à sang froid contrôle facilement sa température corporelle. Si ce ne sont techniquement pas des dinosaures, les dimétrodons vivent souvent dans les régions peuplées par ces créatures.  
-
 Un dimétrodon adulte peut atteindre 4,5 mètres de long et peser plus de 1 tonne.
 
 #### Le dimétrodon comme compagnon animal

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Rôdeur|Rôd]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cibles** 1 [[type animal|animal]] (Gig ou moins)  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 L’[[type animal|animal]] touché par ce sort double de taille, ce qui multiplie son poids par huit. Il saute dans la catégorie de taille suivante, bénéficiant d’un bonus de taille de +8 en [[Force]] et de +4 en [[Constitution]] (et donc de 2 points de vie supplémentaires par [[DV]]), mais écope d’un malus de taille de -2 en [[Dextérité]]. La créature voit son bonus d’armure naturelle augmenter de 2 points. Le changement de taille modifie également le modificateur de l’animal à la [[CA]] et aux [[jet dattaque|jets d’attaque]], ainsi que ses dégâts de base. Son espace occupé et son [[allonge]] changent suivant sa nouvelle taille, mais pas sa [[vitesse de déplacement]].

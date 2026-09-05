@@ -14,17 +14,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 1, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** personnelle  
-
 **Cible** une arme (arc)  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 L’arc touché prend la rigidité et la robustesse de l’acier trempé. Il peut donc servir d’arme de corps à corps. Un arc court peut alors servir de gourdin et un arc long de bâton, même s’ils gardent leur nombre de points de vie et leur solidité habituels. Si l’arc a un bonus d’altération, il s’applique aux jets d’attaque et de dégâts. Les propriétés spéciales supplémentaires de l’arc s’appliquent aussi aux attaques de corps à corps, à condition que l’on puisse les appliquer à une arme de corps à corps.

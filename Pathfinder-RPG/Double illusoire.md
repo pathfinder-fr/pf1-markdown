@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[chimère]], [[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible et zone d’effet** : le jeteur de sorts et 1 double illusoire  
-
 **Durée** 1 round/[[niveau]] (T) et [[Présentation des sorts#DUREE|concentration]] + 3 [[round|rounds]] (voir description)  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) voir description ; **Résistance à la magie** non
 
 Double illusoire rend le lanceur de sort [[invisible]] (comme par le sort d’*[[invisibilité suprême]]*, une [[hallucination]]) au moment même où un *double illusoire* de sa personne apparaît (comme par le sort d’*[[image accomplie]]*, une [[chimère]]). Une fois le sort lancé, le personnage et son sosie peuvent se déplacer librement. Le double apparaît dans les limites de portée du sort mais il se déplace ensuite en suivant les instructions du personnage (ce qui nécessite de la [[concentration]] et ce, dès le round suivant l’incantation). Le personnage peut choisir de faire apparaître la [[chimère]] à l’endroit exact où il se trouve, de sorte que les témoins de la scène ne le voient pas disparaître au moment où une image apparaît. Le personnage et son sosie peuvent se déplacer dans des directions différentes. Le sosie avance à la même vitesse que le personnage ; il peut parler et gesticuler comme l’individu qu’il copie, mais il ne peut ni combattre ni lancer de sorts (rien ne l’empêche de faire semblant cependant).

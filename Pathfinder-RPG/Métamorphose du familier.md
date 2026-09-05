@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** le [[familier]] du lanceur  
-
 **Durée** 1 minute/niveau (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)
 
 Ce sort fonctionne comme forme animale I, à la seule différence qu’il accorde au [[familier]] la forme de n’importe quel animal de taille P. Le familier du personnage conserve tous ses pouvoirs spéciaux et continue d’accorder au personnage le pouvoir spécial associé à sa forme normale (comme un bonus aux tests de Vol pour une chauve-souris).

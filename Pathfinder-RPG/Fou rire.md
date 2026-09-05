@@ -14,21 +14,14 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une tartelette aux fruits et une plume)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature (voir description)  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort déclenche un *fou rire* incontrôlable chez la cible. Elle se met à rire si fort qu’elle en tombe par terre. La victime ne peut entreprendre aucune action pendant toute la durée du sort, mais elle n’est pas [[sans défense]] pour autant. Une fois le sort terminé, elle redevient libre d’agir normalement. À son tour suivant, elle peut tenter un nouveau [[jet de sauvegarde]] pour mettre fin au *fou rire*. C’est une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. En cas de succès, le *fou rire* cesse, mais dans le cas contraire la créature continue de rire pendant toute la durée du sort.  
-
 Les créatures possédant une [[Intelligence]] inférieure ou égale à 2 ne sont pas affectées. Celles qui sont d’un type différent de celui du lanceur de sorts bénéficient d’un bonus de +4 au [[jet de sauvegarde]], car l’humour de l’un n’est pas forcément compréhensible par l’autre.
 
 ### Mythique

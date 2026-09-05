@@ -36,13 +36,10 @@ ou morsure +15 (1d6+12) et 2 griffes +15 (1d4+5)
   
 ou attaque en puissance morsure +13 (1d6+18) et 2 griffes +11 (1d4+7)}
 {s:BDTexte|**Dist **hache de lancer +10 (1d6+6, facteur de portée 2 cases)  
-
 ou arc court +10 (1d6/ x3) ou sort +10}
 {s:BDTexte|**Dist en rage** hache de lancer +10 (1d6+8, facteur de portée 2 cases)}
 {s:BDTexte|**Attaques spéciales** enchaînement, succession d'enchaînement,   
-
 rage (14 rounds/jour, +4 Force, +4 Constitution, +2 Volonté, -2 CA),   
-
 griffes et morsures (action libre, 5 round/jour), v
 souffle (cône de 6 cases, 5d6 feu, réflexe DD 14)}
 {s:BDTexte|**Pouvoirs de rage**}
@@ -50,11 +47,8 @@ souffle (cône de 6 cases, 5d6 feu, réflexe DD 14)}
   
 Rage élémentaire (+ 1d6 dégâts de feu aux attaques 1 round/jour)}
 {s:BDTexte|**Sorts** (NLS<sup>e</sup> 4) 15 % d'échec aux sorts  
-
 2 (4/jour) - *rayon ardent*  
-
 1 (7/jour) - *agrandissement, saut, repli expéditif, armure du mage*  
-
 0 (A Volonté) - *réparation, signature, ouverture, lecture de la magie, [[Contact brûlant]]*}
 {s:BDSousTitre|TACTIQUE}
 {s:BDTexte|**Avant le combat**. s'il en a le temps, ce barbare jeter des sorts tel *agrandissement* pour se préparer. Il entre en rage et se jette au corps à corpsdès que possible.}
@@ -67,9 +61,7 @@ Rage élémentaire (+ 1d6 dégâts de feu aux attaques 1 round/jour)}
 {s:BDTexte|**Langues **commun, draconien}
 {s:BDSousTitre|PARTICULARITÉS}
 **Furie élémentaire (ext)** Lorsque le barbare encaisse 4 points de dégâts élémentaires, son quota quotidien de rage augmente d'un round.   
-
 **Arcanes de lignage draconique.** Chaque fois que l’ensorceleur lance un sort appartenant au registre du feu ce sort inflige +1 point de dégâts par dé lancé.   
-
 '''Résistances draconiques (Ext),
 Griffes (Ext),
 Morsure du dragon (Ext),

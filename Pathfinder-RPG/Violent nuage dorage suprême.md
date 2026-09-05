@@ -13,15 +13,10 @@ Categories:
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité, son]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sorcière|Sor]] 4{br}
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]]/FD (un morceau d’arbre frappé par la foudre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Effet** sphère de 1,5 m de diamètre  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** Réflexes pour annuler et Vigueur pour annuler (cf. texte) ; **Résistance à la magie** oui
 
 Ce sort fonctionne comme *[[violent nuage dorage|violent nuage d’orage]]*, à la seule différence qu’il inflige 6d6 points de dégâts d’électricité à toutes les créatures qu’il touche. La première créature blessée par le nuage est également étourdie pendant 1 round (Vigueur annule). Il s’agit d’un effet de son.
@@ -31,17 +26,11 @@ Ce sort fonctionne comme *[[violent nuage dorage|violent nuage d’orage]]*, à 
 ## [[violent nuage dorage|violent nuage d’orage]]
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]]/FD (un morceau d’arbre frappé par la foudre)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Effet** sphère de 1,5 m de diamètre  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** [[Réflexes]] pour annuler ; **Résistance à la magie** oui
 
 Un nuage de tempête sphérique et crépitant vole dans la direction indiquée par le personnage et inflige des dégâts d’électricité à ceux qui le touchent. Il a une vitesse de vol de 6 mètres avec une manœuvrabilité parfaite. Si l’orage entre dans un espace qui accueille une créature, il arrête de se déplacer pour le round et inflige 3d6 points de dégâts d’électricité à cette créature, mais un jet de [[Réflexes]] réussi annule ces dégâts. Le nuage offre un [[camouflage]] (20% de chances de rater) à tout ce qui s’y trouve et sa lumière vacillante illumine la même zone que le ferait une bougie.

@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (une pièce de cuivre)  
-
 **Portée** 18 m  
-
 **Cible** une créature  
-
 **Durée** concentration, au maximum 1 minute/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage peut examiner les pensées d’un individu et apprendre le nom et la position des proches parents vivants de la cible, ainsi que l’attitude de la cible à l’égard de ces parents (et inversement). Il obtient des informations sur un parent par round où il se concentre sur la cible. Par exemple, il pourrait apprendre que le père de la cible s’appelle Jarn, qu’il vit dans une ferme du coin et que son enfant et lui ne s’entendent pas très bien. Étant donné que ce sort permet de lire l’esprit de la cible, le personnage ne peut apprendre que ce que la cible sait ou croit savoir.

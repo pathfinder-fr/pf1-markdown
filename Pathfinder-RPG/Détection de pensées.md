@@ -19,17 +19,11 @@ Categories:
 ---
 
 **École** [[Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F/FD]] (une pièce de cuivre)  
-
 **Portée** 18 m (12 {s:c})  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
 Grâce à *détection de pensées*, le lanceur de sorts peut détecter les pensées superficielles des créatures situées dans la [[zone deffet|zone d’effet]]. Les informations révélées dépendent du temps passé à étudier un sujet ou un endroit donné :

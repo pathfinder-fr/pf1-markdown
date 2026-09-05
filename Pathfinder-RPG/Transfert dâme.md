@@ -16,17 +16,11 @@ Categories:
 
 {s:cs}{s:BotD}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau**
 [[chaman|Cham]] 7, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[prêtre|Prê]] 7, [[psychiste|Psy]] 7, [[Sorcière|Sor]] 7 , [[Spirite|Spi]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une gemme d'une valeur de 1 000 po par [[DV]] de la créature ou de l'âme ciblée)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un [[Pétitionnaire, archétype|pétitionnaire]], une âme [[sous-type intangible|intangible]] ou une créature similaire  
-
 **Durée** [[permanente]] (voir texte)  
-
 **Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui (voir texte)
 
 Ce sort fonctionne comme le sort *[[Séquestration]]*, sauf que celui-ci ne fonctionne que sur les âme sans corps (comme un mort-vivant [[sous-type intangible|intangibles]] ou une âme piégée dans une gemme) et les créatures dont la substance est une incarnation physique d'une âme (comme un [[Pétitionnaire, archétype|pétitionnaire]]). Cela n'inclut pas les créatures formées d'âmes ou de matériaux planaire (comme la plupart des extérieurs). *Transfert d'âme* est principalement utilisé pour transférer des âmes d'un réceptacle à un autre, mais il peut également être utilisé pour capturer des âmes vulnérables qui ne sont pas liées à une chair mortelle (comme les créatures intangibles et les pétitionnaires). Quand il est utilisé pour capturer un pétitionnaire, le corps physique du pétitionnaire disparaît, ne réapparaissant seulement quand son âme est libérée du réceptacle.

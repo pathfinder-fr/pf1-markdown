@@ -16,19 +16,12 @@ Categories:
 **(Source: Heroes of the street)**
 
 **Ecole** [[illusion]] ([[Branche chimère|chimère]]); **Niveau** [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1, [[sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[composantes|V,G]]  
-
 **Portée** courte (7.5m + 1.5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** Une émanation d'un rayon de 1,5m (1{s:c}) autour d'un point  
-
 **Durée** 10 minutes/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
-
 
 Ce sort forme une bulle invisible qui filtre toutes les paroles venant de l'intérieur de la bulle. Les personnes qui se trouvent en dehors entendent une version totalement différente de la conversation qui s'y tient. La bulle déguise aussi les mouvements de la bouche pour correspondre à la fausse conversation.
 

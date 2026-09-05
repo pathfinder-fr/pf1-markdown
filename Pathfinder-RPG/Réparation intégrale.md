@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 objet faisant jusqu’à 0,3 m3/[[niveau]] ou une [[type créature artificielle|créature artificielle]] de n’importe quelle taille  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
 Ce sort permet de réparer les dommages superficiels causés aux objets et leur rend 1d6 [[points de vie]] par [[NLS|niveau de lanceur de sort]] (Maximum 5d6). Dans le cas d’un objet [[brisé|cassé]], l’objet n’est plus affecté par cette condition préjudiciable si l’objet se retrouve à au moins 50% de ses [[points de vie]]. Pour que ce sort fonctionne, le personnage doit disposer de tous les morceaux de l’objet.

@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** tous les effets et objets magiques dans 12 m (8 {s:c}) de rayon, ou un objet magique (voir description)  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** non
 
 Tous les effets et objets magiques situés dans la [[zone deffet|zone d’effet]] du sort (à l’exception de ceux que le lanceur de sorts transporte ou touche) subissent l’effet de la *disjonction*. Les sorts et effets magiques sont déconstruits et détruits, ce qui y met un terme comme s’ils avaient été affectés par une *[[dissipation de la magie]]*. Les objets magiques permanents doivent réussir un jet de [[Volonté]] pour éviter de devenir des objets ordinaires pendant la durée du sort. Les objets transportés par des créatures utilisent leur propre bonus de [[jet de sauvegarde]] ou celui de leur porteur (la meilleure valeur des deux). Si le [[jet de sauvegarde]] de l’objet résulte en un 1 naturel (sur le dé), l’objet est détruit au lieu d’être désactivé.

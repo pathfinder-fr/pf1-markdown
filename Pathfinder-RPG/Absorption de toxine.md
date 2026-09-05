@@ -15,17 +15,11 @@ Categories:
 
 {s:UC}
 **École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (une épine de plante vénéneuse)  
-
 **Portée** personnelle  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]] ou jusqu’à épuisement  
-
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** non
 
 Le personnage absorbe la toxicité de son environnement et devient toxique à son tour. Tant qu’il se trouve sous l’effet de ce sort, il est [[immunité|immunisé]] contre les maladies et les poisons avec lesquels il entre en contact et peut choisir d’en absorber un. Dans ce cas, il perd son [[immunité]] contre les maladies et poison autre que l’exemplaire qu’il a absorbé (il reste immunisé contre celui-ci jusqu’à la fin du sort). S’il relance *absorption de toxine* sur sa personne, il ne peut pas en absorber une seconde mais la durée d’effet du sort se réinitialise et revient à 10 minutes/[[niveau]].

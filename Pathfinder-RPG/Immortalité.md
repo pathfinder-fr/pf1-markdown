@@ -17,17 +17,11 @@ Categories:
 
 {s:CMy}
 **École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** V, G  
-
 **Portée** [[contact]]  
-
 **Cible** une créature vivante touchée  
-
 **Durée** 1 round/niveau  
-
 **Jet de sauvegarde** [[Vigueur]], annule (inoffensif) ; **Résistance à la magie : ** oui (inoffensif)
 
 L’âme de la cible est solidement ancrée à l’intérieur de son corps, ce qui l’empêche de mourir en subissant des pertes de [[points de vie]]. Peu importe le nombre actuel de [[points de vie]] de la cible, elle reste vivante (mais pas nécessairement consciente).

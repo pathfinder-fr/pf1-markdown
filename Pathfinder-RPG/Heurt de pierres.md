@@ -12,17 +12,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** voir texte  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]], voir texte ; **Résistance à la magie** non
 
 Le personnage crée deux masses de taille C de roche, de terre et de pierre et les fait se heurter alors qu'une unique créature se trouve entre elles. Les rochers apparaissent à 9 mètres (6 {s:c}) de part et d'autre de la cible, et se ruent vers elles avant de se heurter dans un puissant fracas. Le personnage doit réussir une [[attaque de contact à distance]] pour toucher la cible avec les rochers. Le *heurt de pierres* ignore le [[camouflage]] et les [[abri|abris]]. Si une barrière solide s'interpose entre la cible et l'une des masses de roche, le sort bénéficie d'un bonus de +28 en [[Force]] pour la fracasser et continuer sa route vers la cible. Toute créature frappée par le *heurt de pierres* reçoit 20d6 points de dégâts contondants et [[à terre|tombe au sol]]. Si la cible rate un jet de [[Réflexes]], elle est également ensevelie sous les décombres, comme lors d'un [[Donjons#Les_éboulements_5|effondrement]].

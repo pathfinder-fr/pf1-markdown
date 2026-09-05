@@ -16,17 +16,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]], [[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (un petit anneau de fer)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** deux sphères ou plus de 1,50 m (1 {s:c}) de diamètre  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage crée deux boules de foudre qui volent dans la direction qu'il indique. Tous les 4 [[NLS|niveaux de lanceur de sorts]] après le [[NLS|niveau]] 7, le personnage crée une *boule de foudre* supplémentaire (3 au [[NLS|niveau]] 11, 4 au [[NLS|niveau]] 15 et un maximum de 5 au [[NLS|niveau]] 19). Ces boules volent à une vitesse de 6 mètres (4 {s:c}) par [[round]] et sont d'une [[Vol|manœuvrabilité]] parfaite. Le vent n'influe pas sur la trajectoire d'une sphère.

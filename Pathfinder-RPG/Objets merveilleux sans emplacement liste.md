@@ -939,13 +939,9 @@ Tout le monde peut utiliser un objet merveilleux sans emplacement à moins que l
 <div style="float:right"; padding: 0 0 10px 0">*[[Accumulateur dorgone|Page de l'objet]]*</div>
 (((Description)))
 Cette cabine en bois doublée de fer froid est de la taille d’un gros coffre que l’on aurait posé sur la tranche et suffisamment spacieux pour qu’une créature de taille M puisse s’asseoir sur le petit siège en bois qu’elle contient. La cabine se compose de plaques successives de fer froid, de cyprès et de laine de mouton pour l’insonoriser. Elle est spécifiquement conçue pour attirer et concentrer l’énergie atmosphérique nécessaire au rechargement des réserves internes des utilisateurs de [[la magie psychique|magie psychique]]. Il faut passer plusieurs heures de méditation à l’intérieur d’un accumulateur d’orgone pour l’activer. La créature doit rester consciente et méditer sans entreprendre aucune autre action. Une créature en pleine méditation à l’intérieur de la cabine bénéficie d’un bonus de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] effectués pour soigner les malédictions, les maladies et les empoisonnements. Un accumulateur d’orgone peut également être utilisé de concert avec l’extension de compétence occulte [[extensions de compétences occultes#GUÉRISONMIRACULEUSE|guérison miraculeuse]]. Si le bénéficiaire de la [[extensions de compétences occultes#GUÉRISONMIRACULEUSE|guérison miraculeuse]] est dans l’accumulateur d’orgone, la créature qui effectue le test de [[Premiers secours]] bénéficie d’un bonus de circonstances de +2 à son test. De plus, une créature peut se concentrer pendant qu’elle se trouve dans la cabine pour bénéficier des effets de sorts revigorants. Chacun de ces sorts indique un nombre d’heures pendant lequel l’utilisateur doit méditer à l’intérieur de la cabine. À la fin de ce délai, l’utilisateur doit effectuer un test de [[Sagesse]] contre le [[DD]] indiqué pour bénéficier des effets du sort. Une créature qui possède le don de [[Sensibilité psychique]] ou des niveaux dans une [[classes#CLASSESOCCULTES|classe occulte]] bénéficie d’un bonus de +2 à ce test de [[Sagesse]].  
-
 - *[[Restauration partielle]]* (2 heures, DD 14)  
-
 - *[[Guérison de la cécitésurdité|Guérison de la cécité/surdité]]* (3 heures, DD 16)  
-
 - *[[Restauration]]* (4 heures, DD 18, ne peut pas supprimer un niveau négatif permanent)  
-
 Un utilisateur avec une [[moine#RESERVEDEKI|réserve de ki]] peut également se concentrer pour récupérer des points de ki au lieu de bénéficier des effets d’un sort revigorant, comme s’il utilisait une [[natte de ki]]. Il doit réussir un test de [[Sagesse]] contre un [[DD]] de 10 plus son nombre actuel de points de ki (remarquez que les tests de caractéristique, ainsi que les tests de compétence, n’aboutissent pas à des réussites automatiques en cas de 20 naturel). Un utilisateur qui réussit ce test récupère 1 point de ki.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[Guérison de la cécitésurdité|Guérison de la cécité/surdité]]*, *[[Restauration]]*, *[[Restauration partielle]]* ; **Coût** 24 000 po
@@ -1007,15 +1003,10 @@ Ces gros anneaux en fer de trente-cinq centimètres de diamètre fonctionnent to
 <div style="float:right"; padding: 0 0 10px 0">*[[Ardoise spirituelle|Page de l'objet]]*</div>
 (((Description)))
 Cette ardoise simple se compose d’un cadre en bois de la taille d’un livre fixé autour d’une ardoise noire, fine et rectangulaire. Les [[médium|médiums]] utilisent généralement des ardoises ordinaires pour montrer le fonctionnement de l’[[extensions de compétences occultes#ÉCRITUREAUTOMATIQUE|écriture automatique]], mais cette version magique peut obtenir des réponses à des questions spécifiques posées à propos d’une créature décédée, si l’utilisateur dispose au moins d’un fragment d’os prélevé sur le cadavre de cette créature. Après avoir posé un fragment d’os sur l’ardoise, celui-ci s’anime et commence à écrire les réponses aux quatre questions suivantes.  
-
 - Qui étais-tu ? (Le nom le plus souvent utilisé pour désigner la créature)  
-
 - Qu’étais-tu ? (genre, race et profession/rôle de la créature)  
-
 - Comment es-tu mort ? (Un résumé rapide des événements qui ont provoqué le décès de la créature, relaté du mieux possible d’après ses souvenirs)  
-
 - Quand es-tu mort ? (La date ou la période de sa mort la plus précise possible d’après la créature)  
-
 Ces réponses sont toujours rédigées dans une langue que l’utilisateur sait lire, même si la créature ne connaissait pas cette langue ou ne savait tout simplement pas parler. On peut utiliser l’ardoise spirituelle de cette façon trois fois par jour.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[biographie du sang]]* ; **Coût** 6 000 po
@@ -1041,7 +1032,6 @@ Ce long fémur blafard est aiguisé et sculpté en forme de dague. Il est égale
 <div style="float:right"; padding: 0 0 10px 0">*[[Attrape-rêves|Page de l'objet]]*</div>
 (((Description)))
 Cet objet protecteur est un cercle en bois souple et fin à l’intérieur duquel sont tissés des tendons comme une toile d’araignée. Les attrape-rêves sont souvent décorés de perles et de plumes. Il existe des attrape-rêves plus élaborés en or ou en argent sur lesquels sont suspendus des joyaux et des figurines métalliques.  
-
 Un attrape-rêves protège son propriétaire endormi des influences malveillantes. Il bénéficie ainsi d’un bonus de sainteté de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] effectués pendant son sommeil. De plus, chaque affaiblissement temporaire ou diminution permanente de caractéristique subi pendant son sommeil est réduit de 1 point (jusqu’à un minimum de 0 point).
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[sort résistance|résistance]]* ; **Coût** 1 400 po
@@ -1599,15 +1589,10 @@ Cette grande chaise à porteurs est faite en noirbois léger mais solide. Elle e
 <div style="float:right"; padding: 0 0 10px 0">*[[Chaloupe volante|Page de l'objet]]*</div>
 (((Description)))
 Une chaloupe volante est un petit véhicule parcouru de veines métalliques et semblable à une chaloupe. Un seul occupant peut monter à son bord. Un pilote doté de capacités psychiques peut prendre le contrôle du véhicule. Sans pilote psychique, une chaloupe volante se comporte en tous points comme une [[véhicules aquatiques (véhicules)|chaloupe]].  
-
 Un casque de contrôle, que l’on peut adapter au tour de tête d’une créature de taille P ou M, est relié à de longs câbles connectés aux veines de métal qui recouvrent la chaloupe. Dès qu’une créature psychique (c’est-à-dire une créature avec des niveaux dans une [[classes#CLASSESOCCULTES|classe occulte]], le don de [[Sensibilité psychique]] ou la possibilité d’utiliser des pouvoirs magiques psychiques) enfile le casque de contrôle, la chaloupe volante bénéficie des pouvoirs suivants.  
-
 - Elle peut voler à une vitesse maximale de 30 mètres avec une accélération de 9 mètres.  
-
 - Elle bénéficie d’une [[guérison accélérée]] 2 quand son nombre de points de vie est réduit à la moitié de son total initial. Les dégâts subis avant cette limite doivent être réparés normalement.  
-
 En plus des pouvoirs conférés à la chaloupe volante quand elle est pilotée par une créature psychique, le pilote acquiert les pouvoirs supplémentaires suivants.  
-
 - Une fois par jour, le pilote peut effectuer une [[types dactions#COMPLEXE|action complexe]] pour voyager avec la chaloupe volante entre le plan Matériel et le plan Astral. Ce pouvoir fonctionne par ailleurs comme un *[[changement de plan]]*.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[changement de plan]]*, *[[vol supérieur]]* ; **Coût** 40 000 po
@@ -1743,7 +1728,6 @@ Ce calice métallique est juste assez grand pour contenir le jeton en bois de la
 <div style="float:right"; padding: 0 0 10px 0">*[[Cierge de protection contre les esprits|Page de l'objet]]*</div>
 (((Description)))
 Mélanges de cire et d’ectoplasme récupéré, les cierges de protection contre les esprits protègent contre les créatures du royaume des esprits. Pour fonctionner, un cierge de protection contre les esprits doit être placé dans la zone à protéger. Un fin filet de fumée s’en élève et délimite un cercle de 3 mètres de rayon autour du cierge une fois celui-ci allumé. La zone délimitée est protégée contre les intrusions des créatures projetées dans le [[plans ésotériques#PLANASTRAL|plan Astral]], des créatures éthérées, des [[apparitions]], des créatures [[sous-type intangible|intangibles]], des [[médium|médiums]] en train de canaliser un [[médium#ESPRIT|esprit]] et des [[spirite#FANTOME|fantômes de spirites]]. À l’appréciation du MJ, le cierge peut affecter d’autres esprits ou créatures composées d’ectoplasme. Ces créatures ne peuvent pas entrer dans la zone délimitée et se comportent comme si elles étaient affectées par une *[[coquille antivie]]* qui les prend spécifiquement pour cibles, à l’exclusion de toutes les autres.  
-
 L’effet du cierge prend fin s’il est déplacé après avoir été allumé. Sinon, un cierge de protection contre les esprits se consume entièrement en l’espace d’une heure. Dans un cas comme dans l’autre, le cierge est dépensé dès la première utilisation.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[coquille antivie]]* ; **Coût** 750 po
@@ -2451,7 +2435,6 @@ Cet encens peut adopter différentes formes et couleurs, mais il est impossible 
 <div style="float:right"; padding: 0 0 10px 0">*[[Encens de réalité corporelle|Page de l'objet]]*</div>
 (((Description)))
 Ce bâtonnet d’encens à l’odeur âcre ressemble beaucoup à de l’encens ordinaire jusqu’à ce qu’on l’allume. Dans une zone légèrement venteuse, la fumée de l’encens se répand dans une zone de 12 mètres d’arête et de 6 mètres de haut. À l’intérieur de cette zone, les créatures [[sous-type intangible|intangibles]] se solidifient quelque peu, ce qui les empêche de traverser des objets solides. De plus, tous les types d’attaques (même les attaques non magiques) leur infligent des dégâts normaux au sein de cette zone. Les [[valeurs de combat#ATTAQUESDECONTACT|attaques de contact]] intangibles effectuées dans la zone se résolvent comme des attaques au corps à corps classiques mais les créatures [[sous-type intangible|intangibles]] y ajoutent leur bonus de [[Charisme]]. Les créatures intangibles ne sont toutefois pas complètement concrètes et solides. Elles conservent leur capacité de vol ainsi que leur immunité aux [[manoeuvres offensives]] et aux [[actions simples#COUPCRITIQUE|coups critiques]]. Elles peuvent prendre et manipuler des objets physiques comme si elles possédaient une valeur de [[Force]] égale à leur valeur de [[Charisme]], mais elles ne sont toutefois pas assez solides pour porter un équipement.  
-
 Un [[vents|vent modéré]] diminue de moitié la superficie de la zone couverte par la fumée d’un bâtonnet d’encens de réalité corporelle. Un [[vents|vent important]] disperse la fumée et réduit son efficacité à néant tant qu’il continue de souffler. Un seul bâtonnet d’encens de réalité corporelle brûle en une heure. Il perd toute son efficacité magique s’il est éteint avant la fin de cette heure.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[ancre dimensionnelle]]*, *[[requiem pour les fantômes]]* ; **Coût** 1 400 po
@@ -2465,7 +2448,6 @@ Un [[vents|vent modéré]] diminue de moitié la superficie de la zone couverte 
 <div style="float:right"; padding: 0 0 10px 0">*[[Encens de réceptivité mentale|Page de l'objet]]*</div>
 (((Description)))
 Lorsque l’on fait brûler un morceau de cet encens à l’odeur agréable, les créatures qui inhalent la fumée deviennent inhabituellement réceptives aux pensées. Dans une zone légèrement venteuse, la fumée de l’encens se répand dans une zone de 12 mètres d’arête et de 6 mètres de haut. À l’intérieur de cette zone, toutes les créatures peuvent communiquer entre elles par télépathie. Les créatures qui communiquent de cette façon n’ont pas besoin de parler la même langue mais elles doivent posséder une valeur d’[[Intelligence]] supérieure ou égale à 3. La réceptivité mentale engendrée par l’encens confère un bonus d’intuition de +5 aux tests de [[Diplomatie]] et de [[Psychologie]] effectués à l’encontre des créatures présentes dans la zone. Elle inflige également un malus de -5 aux tests de [[Bluff]] et d’[[Intimidation]] effectués contre ces créatures et un malus de -2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les [[créer un sort#EFFETMENTAL|effets mentaux]].  
-
 Un [[vents|vent modéré]] diminue de moitié la superficie de la zone couverte par la fumée d’un morceau d’encens de réceptivité mentale. Un [[vents|vent important]] disperse la fumée et réduit son efficacité à néant tant qu’il continue de souffler. Un seul morceau d’encens de réceptivité mentale brûle en une heure. On peut l’éteindre puis le rallumer mais chaque utilisation consume au moins dix minutes de sa durée restante.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[lien télépathique]]* ; **Coût** 1 400 po
@@ -2671,7 +2653,6 @@ Les couleurs éclatantes de cette poignée de feuilles changent constamment pour
 <div style="float:right"; padding: 0 0 10px 0">*[[Figurine de cire|Page de l'objet]]*</div>
 (((Description)))
 Cette figurine de cire grossièrement modelée ressemble à la sculpture inachevée d’un humanoïde. Elle peut être liée à un humanoïde vivant de la même façon qu’une [[poupée ganji]], mais on doit la sculpter de façon à le représenter et posséder une mèche de ses cheveux, une dent, du sang, un os ou un morceau de sa chair que l’on incorpore dans la cire. Les individus qui connaissent l’humanoïde représenté peuvent remarquer la ressemblance en observant la figurine de cire et en réussissant un test de [[Perception]] DD 15.  
-
 Une figurine de cire peut être [[aveuglé|aveuglée]], endommagée ou ciblée par un sort de contact de la même façon qu’une [[poupée ganji]], sauf que la créature liée n’est pas affectée si elle se situe à plus de 30 mètres de la figurine. Une figurine de cire ne peut être utilisée qu’une seule fois et fond après avoir été utilisée.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[sort malédiction|malédiction]]* ; **Coût** 250 po
@@ -3615,11 +3596,8 @@ Cette bouteille de cuir est pleine à ras bord d’un liquide vert mousseux. Par
 <div style="float:right"; padding: 0 0 10px 0">*[[Manuel dorigamis animaux|Page de l'objet]]*</div>
 (((Description)))
 Cet imposant manuel à la reliure métallique contient de fines pages de cuivre sur lesquelles sont inscrits des symboles magiques et les points de pliage précis à réaliser pour créer divers origamis animaux. Dès qu’une ou plusieurs pages de cuivre sont arrachées et pliées, elles grandissent par magie pour prendre la forme origamique et approximative de la créature correspondante. Une fois créée, chaque créature origamique bénéficie d’un semblant de vie, comme si son animation était due à une animation d’objets, et obéit aux ordres de son créateur.  
-
 L’utilisateur peut plier les pages pour créer une incroyable diversité de [[objet animé|créatures artificielles animées]] de taille P, M et G. La création d’une créature de taille P nécessite une page, celle d’une créature de taille M deux pages et celle d’une créature de taille G quatre pages. Chaque créature artificielle créée par le manuel est construite avec le nombre de points de construction (PC) et de points de vie indiqué par défaut pour une créature de sa taille. Toutefois, tous les origamis animés acquièrent gratuitement la capacité métal conférée par les points de construction.  
-
 Le manuel ne peut pas créer des créatures artificielles composées d’autres métaux ou de pierre, mais il est possible d’ajouter des PC à une création au prix d’une page par point. Cette possibilité applique toutes les règles de la création d’objets animés et les origamis d’animaux ne peuvent jamais sélectionner la même capacité de PC plus d’une fois. Le manuel contient toutes les instructions pour créer une infinie diversité de créatures fantastiques, uniquement limitée par l’imagination et l’ingéniosité de son utilisateur. Par exemple, l’utilisateur peut effectuer les pliages avec deux pages pour créer un animal semblable à un gorille de taille M, puis arracher trois pages supplémentaires pour lui conférer les capacités d’attaque supplémentaire, de constriction et d’étreinte, pour un total de cinq pages.  
-
 La création d’un origami animal nécessite l’accomplissement d’une [[types dactions#action complexe]]. Chaque origami reste animé pendant une heure avant de s’effondrer en copeaux de cuivre irrécupérables. Les manuels d’origamis animaux nouvellement créés contiennent 50 pages, mais la plupart de ceux que l’on découvre ne contiennent plus que 2d20 + 10 pages intactes.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation dobjets|animation d'objets]]* ; **Coût** 6 750 po
@@ -3694,9 +3672,7 @@ Ce divan luxueux, doté d’un revêtement de feutrine rouge rehaussé d’entre
 <div style="float:right"; padding: 0 0 10px 0">*[[Miroir aux esprits|Page de l'objet]]*</div>
 (((Description)))
 Ces miroirs à main insolites permettent à leur utilisateur de communiquer avec les esprits de créatures mortes récemment, malgré l’importante prise de risques. Sur commande, l’utilisateur peut fixer le miroir du regard et prononcer le nom d’un individu mort récemment dans une tentative pour convoquer le reflet de son esprit.  
-
 Il y a 70 % de chances qu’une tentative de contact avec un esprit spécifique réussisse. Pour chaque semaine écoulée depuis la mort de la créature désignée, ces chances diminuent de 10 % (jusqu’à un minimum de 0 %). Si la tentative est un échec, le miroir aux esprits cesse de fonctionner pendant 1d4 jours et ne peut plus jamais entrer en contact avec cet esprit. Si la tentative est réussie, l’image de la personne décédée apparaît sur le miroir et l’utilisateur peut lui poser jusqu’à trois questions, comme avec *[[appel dun esprit|appel d’un esprit]]*. L’esprit peut également déplacer des objets situés à 6 mètres ou moins du miroir par télékinésie, comme s’il utilisait un *[[serviteur invisible]]*.  
-
 Cette forme de communication est très dangereuse et permet à des esprits malveillants d’agresser l’utilisateur du miroir. Chaque fois que le miroir aux esprits ne parvient pas à entrer en contact avec l’esprit désigné, un autre esprit prend sa place. Cet esprit sème généralement la confusion en donnant des réponses erronées ou en déplaçant des objets alentour, mais il y a 10 % de chances que l’esprit se manifeste sous la forme d’un mort-vivant intangible aléatoire pour s’en prendre à l’utilisateur du miroir.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[appel dun esprit|appel d’un esprit]]* ; **Coût** 9 450 po
@@ -3722,11 +3698,8 @@ Les reflets qui apparaissent à la surface de ce miroir de la taille d’une mai
 <div style="float:right"; padding: 0 0 10px 0">*[[Miroir de capture des âmes|Page de l'objet]]*</div>
 (((Description)))
 Le manieur de ce miroir à main finement ouvragé peut observer le reflet d’une créature pour capturer un fragment de son âme. Pour cela, le manieur doit détourner le regard, comme s’il se protégeait d’une [[regard (capacité)|attaque de regard]], pour pouvoir observer uniquement le reflet de la créature, puis il effectue une [[types dactions#SIMPLE|action simple]] qui provoque des attaques d’opportunité. Cette action inflige 1 [[absorption dénergie (capacité)|niveau négatif]] temporaire à la créature reflétée (Vigueur DD 16 pour annuler). Un miroir de capture des âmes ne peut pas contenir plus de trois fragments d’âme d’une créature. Il ne peut pas contenir non plus les fragments d’âme de plusieurs créatures différentes. Quand le miroir a capturé trois fragments d’âme, les tentatives de capture d’âme ultérieures échouent automatiquement. Quand le miroir contient au moins un fragment d’âme, son manieur bénéficie d’un bonus de chance de +1 aux tests de caractéristique, aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] et aux [[compétences#TESTSDECOMPETENCES|tests de compétence]].  
-
 Le manieur peut interroger les fragments d’âme capturés en fouillant les souvenirs partiels de la créature ciblée. Cet effet fonctionne comme *[[appel dun esprit|appel d’un esprit]]*, sauf qu’il n’est pas nécessaire que la créature soit morte. Le manieur peut poser un nombre de questions par jour égal au nombre de fragments d’âme enfermés dans le miroir.  
-
 Les niveaux négatifs temporaires infligés par un miroir de capture des âmes ne deviennent jamais permanents. La victime peut effectuer un jet de Vigueur DD 16 toutes les 24 heures pour supprimer chaque niveau négatif. Une réussite supprime un niveau négatif et libère un fragment d’âme maintenu en captivité dans le miroir. Toute autre méthode appliquée pour supprimer un niveau négatif (comme une *[[restauration]]*) libère également un fragment d’âme prisonnier du miroir.  
-
 Dès que le miroir de capture des âmes inflige un niveau négatif temporaire à une créature, apparaît à sa surface le reflet fantomatique de cette créature (mais il ne dévoile rien de ses environs) jusqu’à ce que l’ensemble de ses fragments d’âme aient été libérés. Si la victime meurt, ses fragments d’âme disparaissent au bout de 24 heures. Par une [[types dactions#SIMPLE|action simple]], le manieur du miroir peut libérer tous les fragments d’âme, ce qui supprime par là même occasion les niveaux négatifs infligés à la victime.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[appel dun esprit|appel d’un esprit]]*, *[[énergie négative]]* ; **Coût** 16 500 po
@@ -3996,7 +3969,6 @@ Cette côte calcinée arrachée à un troll mort est ornée de gravures runiques
 <div style="float:right"; padding: 0 0 10px 0">*[[Ouija magique|Page de l'objet]]*</div>
 (((Description)))
 Sur cette planche de bois rectangulaire sont gravés en arc de cercle les lettres de l’alphabet, des chiffres et deux mots brefs signifiant l’affirmative et la négative. L’objet comprend également un petit pointeur en forme de cœur soutenu par trois pieds. Cet objet peut être utilisé à la place d’un [[Équipement d’aventurier - Aventures occultes#Ouija|ouija]] ordinaire (comme ceux utilisés par les spirites et autres maîtres de séance de spiritisme pour communiquer avec les apparitions à proximité ou leur propre subconscient), mais ses propriétés magiques ne dépendent pas de la présence d’une apparition ou d’un individu doté d’une sensitivité psychique pour établir une communication. Quand il est employé à la place d’un ouija ordinaire en utilisant l’extension de compétence occulte [[extensions de compétences occultes#ÉCRITUREAUTOMATIQUE|écriture automatique]], un ouija magique confère un bonus de circonstances de +5 au test de [[Linguistique]].  
-
 Une fois par jour, un ouija magique peut être utilisé pour appeler l’esprit d’une créature humanoïde décédée, comme avec *[[appel dun esprit|appel d’un esprit]]*. L’esprit peut effectuer un jet de Volonté DD 17 pour résister à l’appel. S’il réussit son jet, un esprit aux intentions malveillantes prend toujours la place de l’esprit initialement prévu. L’esprit ne parle pas et ne se manifeste pas sous forme vaporeuse ; il communique à la place par le biais du ouija. Il répond aux questions posées en déplaçant le pointeur vers les lettres à la vitesse d’un mot par round tant que l’utilisateur reste concentré. Jusqu’à quatre créatures peuvent utiliser le ouija en même temps et l’esprit appelé subit alors un malus sur son jet de sauvegarde égal au nombre d’utilisateurs présents au-delà du premier.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[appel dun esprit|appel d’un esprit]]* ; **Coût** 10 000 po
@@ -4160,7 +4132,6 @@ Quand un personnage lance cette pièce de cuivre terni, elle lui permet de déve
 <div style="float:right"; padding: 0 0 10px 0">*[[Pièce factice|Page de l'objet]]*</div>
 (((Description)))
 Le propriétaire active cette pièce d’or usagée en la frottant entre le pouce et l’index tout en souhaitant son activation. Seules les créatures qui possèdent le don de [[Sensibilité psychique]] ou qui savent lancer des sorts psychiques peuvent activer une pièce factice. Une fois activée, la pièce tisse un lien avec la créature qui l’a activée et, si elle est remise à quelqu’un d’autre, elle partage avec elle les informations empathiques recueillies à propos de son nouveau détenteur. Ce lien empathique confère à l’activateur de la pièce un bonus d’intuition de +2 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] effectués contre le détenteur actuel de la pièce. De plus, ce détenteur subit un malus de -1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les sorts des registres de l’émotion, de la terreur ou de la scrutation lancés par l’activateur de la pièce. Une fois activée, la pièce paraît non magique, comme si elle était protégée par une *[[aura magique]]* (Volonté DD 11).  
-
 Le lien entre l’activateur et la pièce persiste pendant une semaine. Une fois cette période écoulée, la pièce factice perd l’ensemble de ses pouvoirs et devient une pièce de monnaie ordinaire.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[aura magique]]*, *[[détection de pensées]]* ; **Coût** 188 po
@@ -4270,7 +4241,6 @@ Cette pierre semi-précieuse adhère sur commande à un objet qui ne pèse pas p
 <div style="float:right"; padding: 0 0 10px 0">*[[Pierres de lithomancie|Page de l'objet]]*</div>
 (((Description)))
 Ce jeu de pierres de lithomancie rassemble quinze pierres semi précieuses de tailles et de formes diverses, chacune symbolisant un élément, une émotion et diverses présences spirituelles issues des plans extérieurs. Une fois par jour, le possesseur d’un jeu de pierres de lithomancie peut formuler une question dans sa tête, lancer les pierres sur le sol et tenter une lecture à l’aide d’un test de [[Connaissances]] (plans) pour obtenir une réponse. Le test prend une minute et le DD dépend de la période de temps qui sépare la question de la réponse. Le DD d’une question qui porte sur les 30 prochaines minutes s’élève à 20. Une question qui porte sur le lendemain s’élève à 30 et une question qui porte sur la semaine suivante s’élève à 40. Le MJ effectue le test en secret. Si l’utilisateur des pierres rate le test de 5 points ou plus, il effectue une lecture erronée ou trompeuse. S’il rate le test de moins de 5 points, il n’obtient aucun résultat. Un test réussi révèle des informations similaires à celles obtenues grâce à la réussite d’un *[[augure]]* (pour une lecture à propos des 30 prochaines minutes) ou d’une *[[divination]]* (pour une lecture plus éloignée dans le temps). C’est la position des pierres les unes par rapport aux autres qui permet au lithomancien d’obtenir la réponse.  
-
 En plus de cette fonction, les pierres de lithomancie peuvent être utilisées comme focalisateur supplémentaire lors de l’incantation d’un *[[augure]]*, d’une *[[divination]]* ou de sorts similaires, afin d’augmenter de 10 % (jusqu’à un maximum de 90 %) les chances d’obtenir des informations correctes.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[divination]]*, le créateur doit posséder 5 rangs au moins en Connaissances (plans) ; **Coût** 6 000 po
@@ -4585,7 +4555,6 @@ Cette poudre noire et chatoyante permet, pendant 1 minute, de couvrir une créat
 <div style="float:right"; padding: 0 0 10px 0">*[[Poudre thaumaturgique|Page de l'objet]]*</div>
 (((Description)))
 Cette poudre d’argent est souvent stockée dans des sacs en cuir de la taille d’un poing. Une fois saupoudrée par terre, elle s’anime et dessine en un round des lettres et des symboles thaumaturgiques argentés, disposés en un cercle de 6 mètres de rayon. Ce cercle fonctionne comme le diagramme parfaitement réalisé d’un *[[cercle magique contre le Bien]]*, *[[cercle magique contre le Chaos|le Chaos]]*, *[[cercle magique contre la Loi|la Loi]]* ou *[[cercle magique contre le Mal|le Mal]]* et empêche toute tentative de déplacement extradimensionnel, comme si l’utilisateur avait ajouté une *[[ancre dimensionnelle]]* au cercle. Le cercle inscrit persiste pendant 24 heures. Un sac de poudre thaumaturgique ne peut être utilisé qu’une seule fois.  
-
 Une créature extraplanaire de l’alignement correspondant appelée ou convoquée dans le cercle peut tenter d’en sortir une fois pendant sa durée, comme si elle essayait de se libérer d’un sort de *[[contrat]]*, grâce à sa [[résistance à la magie]] ou à un test de [[Charisme]] DD 26.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Extension de durée]], *[[ancre dimensionnelle]]*, *[[cercle magique contre le Mal]]* ; **Coût** 1 400 po
@@ -4624,13 +4593,9 @@ Cette poupée de chiffon pourrait passer pour un jouet d’enfant si l’on omet
 <div style="float:right"; padding: 0 0 10px 0">*[[Poupée ganji|Page de l'objet]]*</div>
 (((Description)))
 Une poupée ganji est un fétiche si intimement lié à une victime désignée qu’il est possible de lui nuire ou de la soutenir par le biais de la poupée elle-même. Lors de la création de l’objet, le créateur doit désigner une créature humanoïde qu’il lie à la poupée. Pour cela, le créateur doit acquérir un morceau du corps de la cible désignée (le plus souvent une mèche de cheveux, du sang ou une dent) qu’il incorpore dans le fétiche. Une fois ceci fait, la poupée ganji affecte uniquement la ciblé liée et aucune autre. Il est impossible de désigner une cible différente une fois la création de la poupée ganji terminée.  
-
 Une fois la poupée créée, son propriétaire peut l’utiliser trois fois par jour pour produire l’un des effets suivants. Ces effets prennent pour cible la créature liée uniquement. Celle-ci subit un malus de -2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre ces effets.  
-
 **Aveuglement.** Recouvrir la tête de la poupée d’un bout de tissu [[aveuglé|aveugle]] la cible pendant une minute (Volonté DD 16, annule).  
-
 **Dégâts.** Poignarder la poupée avec un instrument pointu, la passer au-dessus d’une flamme, serrer une corde autour de son cou ou endommager la poupée d’une façon ou d’une autre inflige à la cible 3d6 points de dégâts (Vigueur DD 16, 1/2 dégâts). Ces dégâts ignorent toutes les résistances et immunités.  
-
 **Sort de contact.** La poupée ganji remplace la créature liée en ce qui concerne les sorts ayant une portée au contact. La cible subit les effets de ces sorts lancés sur la poupée (jusqu’à trois effets par jour, la limite d’utilisation maximale de la poupée) comme si le lanceur avait effectivement réussi à la toucher. La cible peut effectuer les éventuels [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] autorisés contre ces sorts, conformément aux règles normales, mais elle subit le malus de -2 infligé par la poupée. Les sorts bénéfiques, tels que des *[[soins légers]]*, peuvent également être utilisés de cette façon.
 corps de l’humanoïde lié à la poupée ; **Coût** 8 000 po
 (((Création)))
@@ -4645,11 +4610,8 @@ corps de l’humanoïde lié à la poupée ; **Coût** 8 000 po
 <div style="float:right"; padding: 0 0 10px 0">*[[Poupée ganji|Page de l'objet]]*</div>
 (((Description)))
 Une poupée ganji supérieure ressemble et fonctionne comme la version normale, sauf qu’on peut l’utiliser jusqu’à cinq fois par jour, qu’elle inflige un malus de -4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] effectués par la créature liée contre ses effets et qu’elle possède les pouvoirs modifiés ou additionnels suivants, en plus de tous ceux d’une poupée ganji normale.  
-
 **Dégâts.** Endommager la poupée inflige à la cible 6d6 points de dégâts (Vigueur DD 16, 1/2 dégâts). Ces dégâts ignorent toutes les résistances et immunités.  
-
 **Localisation de créature.** Le propriétaire de la poupée ganji supérieure peut l’utiliser pour localiser sa créature liée, comme avec une *[[localisation de créature]]*.  
-
 **Suggestion.** L’utilisateur murmure dans l’oreille de la poupée pour créer l’effet d’un sort de *[[suggestion]]*. La cible doit réussir un jet de Volonté DD 16 pour résister à cet effet. À la différence du sort, il n’est pas nécessaire que la cible comprenne la langue parlée par le propriétaire de la poupée.
 corps de l’humanoïde lié à la poupée ; **Coût** 18 000 po
 (((Création)))
@@ -5094,19 +5056,12 @@ Ce sifflet en argent a la forme d’une tête de loup. Une fois par jour, son po
 <div style="float:right"; padding: 0 0 10px 0">*[[Skiff volant|Page de l'objet]]*</div>
 (((Description)))
 Un skiff volant est un long véhicule à fond plat semblable à un bateau parcouru de veines métalliques. Sans pilote doté de capacités psychiques, un skiff volant se comporte en tous points comme un [[véhicules aquatiques (véhicules)|quillard]]. Un seul engin de siège à tir direct de taille G peut être monté à l’avant d’un skiff volant.  
-
 Un casque de contrôle, que l’on peut adapter au tour de tête d’une créature de taille P, M ou G, est relié à de longs câbles connectés aux veines de métal qui recouvrent le navire. Dès qu’une créature psychique (c’est-à-dire une créature avec des niveaux dans une [[classes#CLASSESOCCULTES|classe occulte]], le don de [[Sensibilité psychique]] ou la possibilité d’utiliser des pouvoirs magiques psychiques) enfile le casque de contrôle, le skiff volant bénéficie des pouvoirs suivants.  
-
 - Il peut voler à une vitesse maximale de 30 mètres avec une accélération de 9 mètres.  
-
 - Il bénéficie d’une [[guérison accélérée]] 5 quand son nombre de points de vie est réduit à la moitié de son total initial. Les dégâts subis avant cette limite doivent être réparés normalement.  
-
 En plus des pouvoirs conférés au skiff volant quand il est piloté par une créature psychique, le pilote acquiert les pouvoirs supplémentaires suivants.  
-
 - Chaque fois que le pilote lance l’un des sorts psychiques suivants, le sort affecte l’équipage du skiff volant dans son ensemble : *[[barrière mentale I|barrière mentale]]*, *[[bouclier des pensées I|bouclier des pensées]]*, *[[forteresse intellectuelle I|forteresse intellectuelle]]* et *[[tour de volonté de fer I|tour de volonté de fer]]*. Toutes les différentes versions de ces sorts fonctionnent également. Une créature ne bénéficie plus de l’effet de ces sorts si elle quitte le skiff avant la fin de leur durée.  
-
 - Par la seule force de son esprit, le pilote peut viser et faire feu avec l’engin de siège monté sur le skiff volant (en effectuant le même nombre d’actions normalement requises). Il ne peut toutefois pas charger mentalement des munitions dans l’engin de siège.  
-
 - Une fois par jour, le pilote peut effectuer une [[types dactions#COMPLEXE|action complexe]] pour transporter le skiff volant et tout l’équipage à bord comme s’il utilisait un *[[changement de plan]]*.
 (((Création)))
 [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[barrière mentale III]]*, *[[bouclier des pensées III]]*, *[[changement de plan]]*, *[[forteresse intellectuelle III]]*, *[[tour de volonté de fer II]]*, *[[vol supérieur]]* ; **Coût** 90 000 po

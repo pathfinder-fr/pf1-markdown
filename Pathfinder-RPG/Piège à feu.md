@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G, M]] (poussière d’or d’une valeur de 25 po)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** objet touché  
-
 **Durée** [[permanente]] jusqu’au déclenchement (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
 Ce sort déclenche une explosion de flammes dès qu’on ouvre l’objet protégé par le *piège à feu*. Ce sort peut défendre n’importe quel objet que l’on peut fermer.

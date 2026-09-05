@@ -32,7 +32,6 @@ Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3
 **Mouvements élémentaires (Sur).** Au [[niveau]] 15, le personnage obtient une vitesse de nage de 18 mètres (12{s:c}).
 
 **Pouvoir du marid (Sur).** Au [[niveau]] 20, le personnage obtient le même pouvoir que les génies : il peut accorder des vœux. Une fois par jour, il peut lancer *[[souhait limité]]* comme un [[pouvoir magique]]. Ce souhait doit commencer par les mots « je souhaiterais » et ne doit pas dupliquer un souhait déjà accordé au cours des dernières 24 heures. Si le personnage utilise ce pouvoir pour imiter un sort avec une composante magique onéreuse, il doit la fournir.  
-
 L’ensorceleur devient aussi [[immunisé]] contre le froid et peut utiliser *[[changement de plan]]* une fois par jour pour se rendre dans le plan de l’Eau.
 
 ## Lignage sauvage Shahzada

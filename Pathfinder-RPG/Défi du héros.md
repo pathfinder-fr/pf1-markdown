@@ -11,15 +11,10 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[branche guérison|guérison]]) ;** Niveau** [[Paladin|Pal]] 1  
-
 **Temps d'incantation** 1 [[action immédiate]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** [[Présentation des sorts#DUREE|instantanée]]
 
 Un instant avant que le personnage ne tombe à 0 point de vie ou moins, il peut utiliser une [[paladin#IMPOSITIONDESMAINS|imposition des mains]] pour se soigner comme s'il avait utilisé ce pouvoir en bénéficiant de 1d6 points de vie guéris supplémentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d'agir. Si le personnage a déjà utilisé toutes ses [[paladin#IMPOSITIONDESMAINS|impositions]], le sort n'a aucun effet.

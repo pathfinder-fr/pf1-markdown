@@ -13,17 +13,11 @@ Categories:
 
 {s:UM}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal, malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d’incantation** 10 minutes  
-
 **Composantes** [[Composantes|V, G, M]] (onyx en poudre pour une valeur de 10 000 po)[[Composantes|, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Zone** rayon de 1,5 km à partir du point touché  
-
 **Durée** [[présentation des sorts#DUREE|permanente]]  
-
 **Jet de sauvegarde** non, voir texte ; **Résistance à la magie** non
 
 Le personnage lance une terrible malédiction sur les terres et afflige ceux qui y vivent comme ceux qui y meurent. Le personnage choisit l’un des effets suivants.

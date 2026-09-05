@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Druide|Dru]] 5, [[Prêtre|Prê]] 5  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Effet** une [[nuée de guêpes]] tous les 3 [[niveau|niveaux]], chacune devant être adjacente à une autre au moins  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage convoque un certain nombre de [[nuée de guêpes|nuées de guêpes]] (une par tranche de trois [[niveau|niveaux]], avec un maximum de six au niveau 18, voir le Bestiaire Pathfinder RPG). Les nuées doivent être placées de manière contiguë (chacune d’elles devant être adjacente à une autre), mais elles peuvent partager l’espace occupé par d’autres créatures. Chaque nuée attaque les créatures qui se situent dans son espace. Une fois convoquées, les nuées sont stationnaires et ne poursuivent pas les créatures qui prennent la fuite.

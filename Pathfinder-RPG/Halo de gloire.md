@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Invocation]] ([[guérison]]) <nowiki>[</nowiki>[[registre|bien, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 4  
-
 **Temps d'incantation** 1 [[action simple]] ou immédiate ; voir texte  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** [[Présentation des sorts#PORTEE|personnelle]]  
-
 **Zone** rayonnement de 9 m (6 {s:c}) centré sur le lanceur de sorts  
-
 **Durée** instantané et 1 [[round]]/[[niveau]] ; voir texte  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Le personnage tombe [[inconscient]] mais il déclenche une vague spectaculaire d'énergie sacrée qui encourage ses alliés et les soigne alors qu'elle démotive ses adversaires et les blesse. Le personnage peut lancer ce sort à son tour par une [[action simple]] ou par une [[action immédiate]] s'il tombe à 0 point de vie. S'il le lance par une [[action simple]], il tombe immédiatement à -1 point de vie après avoir lancé le sort mais il est [[stable|stabilisé]].

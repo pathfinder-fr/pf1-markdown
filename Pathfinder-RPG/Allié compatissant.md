@@ -21,7 +21,6 @@ Categories:
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
 **Cible** une créature</br>
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La cible cesse immédiatement ses activités à la vue d’un allié blessé pour aller lui porter secours. Si elle possède des sorts curatifs ou des objets magiques guérisseurs, elle les utilise pour aider le blessé, sinon, elle fait un test de [[Premiers secours]]. La cible reste avec l’allié blessé pour s’assurer qu’il est en sécurité et refuse de le quitter tant que ses blessures ne sont pas complètement guéries ou que le sort n’a pas pris fin. Elle peut se défendre et attaquer.

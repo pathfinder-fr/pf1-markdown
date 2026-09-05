@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Loi]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (un reliquaire (500 po))  
-
 **Portée** 6 m (4 {s:c})  
-
 **Cible** 1 créature/[[niveau]] dans un rayonnement de 6 m (4 {s:c}) de rayon à partir du prêtre  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui (inoffensif)
 
 Les bénéficiaires du sort sont entourés d’une aura bleutée qui les protège des attaques, leur confère une résistance supplémentaire contre les sorts du Chaos lancés par les créatures Chaotiques, et ralentit ces dernières quand elles frappent les individus protégés. Ce sort a quatre effets distincts :

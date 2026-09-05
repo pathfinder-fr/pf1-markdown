@@ -50,7 +50,6 @@ Categories:
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Protéen|protéens]].***</li></ul>*La partie inférieure du corps de cette créature serpentine ressemble à un grand serpent, mais elle possède un torse humain et une tête et des serres d’oiseau.*
 
 En tant que missionnaires du Chaos et annonciateurs de la future dissipation de la réalité, les imenteshs sont les protéens qu’on rencontre le plus souvent en-dehors des Limbes. Malgré leur propension à discuter et leur comportement élégant, les objectifs entropiques des imenteshs ne sont jamais loin de leurs pensées. Cette folie inhérente est facilement perceptible dans le faible murmure télépathique qui les entoure constamment et qui menace à tout instant de faire basculer les esprits les plus faibles vers la démence.  
-
 Un imenteshs mesure 4,50 mètres de long et pèse 600 kg.
 </div>
 

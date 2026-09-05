@@ -7,17 +7,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 8  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, F]] (un minuscule reliquaire (500 po))  
-
 **Portée** 6 m (4 {s:c})  
-
 **Cibles** 1 créature/[[niveau]] dans un [[rayonnement]] de 6 m (4 {s:c}) de rayon à partir du [[prêtre]]  
-
 **Durée** 1 round/[[niveau]] (T)  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Une aura de lueurs changeantes entoure les cibles du sort. Elle les protège des attaques, leur confère une résistance supplémentaire contre les sorts de la Loi ou lancés par les créatures Loyales, et plonge ces dernières dans la [[confus|confusion]] quand elles frappent les individus protégés. Cette [[abjuration]] a quatre effets distincts :

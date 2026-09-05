@@ -18,17 +18,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 6 m (4 {s:c})  
-
 **Effet** brouillard centré sur le jeteur de sorts et s’étendant sur 6 m de rayon et de haut  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 D’épaisses volutes de brume s’élèvent autour du personnage à la fin de l’incantation. La nappe reste stationnaire une fois composée, limitant le champ de vision (y compris la [[vision dans le noir]]) à 1,50 m. Les créatures se trouvant à 1,50 m ou moins bénéficient d’un [[camouflage]] (20 % de chances que les attaques les ratent) en combat. Au-delà, le [[camouflage]] devient [[camouflage total|total]] (50 % de chances que les attaques les ratent, et leurs adversaires ne peuvent pas les repérer à vue).

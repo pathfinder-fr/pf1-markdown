@@ -13,15 +13,10 @@ Categories:
 ---
 
 {s:AO}**École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 4, [[médium|Méd]] 4, [[psychiste|Psy]] 4, [[spirite|Spi]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, M]] (un morceau de tissu cérébral séché)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/niveau
 
 Le personnage détecte et repère automatiquement les créatures conscientes situées dans un rayon de 18 mètres, comme s’il possédait le pouvoir [[vision aveugle (capacité)|vision aveugle]]. *[[Antidétection]]*, *[[esprit impénétrable]]* et les effets similaires bloquent cet effet. Le sort permet de différencier les créatures douées d’une intelligence conséquente ([[Intelligence]] de 3 ou plus) et celles dotées d’une intelligence relative ([[Intelligence]] de 1 à 2) mais, en dehors de cela, il n’offre aucune information sur elles.

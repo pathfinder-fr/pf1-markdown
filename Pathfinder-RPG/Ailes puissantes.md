@@ -16,15 +16,10 @@ Categories:
 {s:racial|Strix (race)|strix|Illustrations/PNJ/Strix.jpg}{s:MR}
 **École** [[Transmutation]]  ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1</br>
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Pathfinder-RPG.Présentation des sorts|inoffensif]]) ; **Résistance à la magie** oui ([[Pathfinder-RPG.Présentation des sorts|inoffensif]])
 
 Les ailes de la cible gagnent en puissance, augmentent sa vitesse de [[Vol]] de +3 m et améliorent sa manœuvrabilité d’une catégorie (catégorie maximum : bonne). Cette augmentation compte comme un bonus d’altération. Ce sort n’a aucun effet sur les créatures dépourvues d’ailes ou les êtres ailés ne pouvant pas voler.

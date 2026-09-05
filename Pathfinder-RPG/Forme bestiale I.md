@@ -13,15 +13,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le lanceur de sorts veut prendre l’apparence)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Quand le mage lance ce sort, il adopte l’apparence de n’importe quel [[type animal|animal]] de [[taille P]] ou [[taille M|M]]. Si cette créature dispose des aptitudes suivantes, le personnage en bénéficie aussi : escalade 9 m, nage 9 m, vol 9 m (maniabilité moyenne), [[odorat]], [[vision dans le noir]] 18 m, [[vision nocturne]].

@@ -16,17 +16,11 @@ Categories:
 
 {s:UM}
 **École** [[invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|maladie]]<nowiki>]</nowiki> ; **Niveau**  [[Alchimiste|Alch]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une goutte d’acide et une sphère de verre noire)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature vivante touchée  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage génère une couche de vase autour de sa main. Quand il réussit une [[attaque de contact]] avec, la vase se décolle du personnage et reste attachée à la cible. Elle agit alors comme un limon vert et inflige 1d3 points d’affaiblissement de [[Constitution]] par [[round]]. Tout ce qui permet de se débarrasser d’un limon vert (en le grattant, en le gelant, en le brûlant, en le coupant, avec la lumière du soleil ou avec [[guérison des maladies]])

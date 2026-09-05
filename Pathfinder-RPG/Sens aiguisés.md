@@ -15,17 +15,11 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (une lentille de verre)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** 1 créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 La cible gagne un bonus d’altération de +10 aux tests de [[Perception]]. Ce bonus passe à +20 au [[niveau]] 8 et à +30 (le maximum) au [[niveau]] 16.

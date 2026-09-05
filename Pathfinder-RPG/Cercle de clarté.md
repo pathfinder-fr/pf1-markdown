@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:UM}**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, F]] (lentille de cristal d’une valeur de 10 po)  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** 6 m (4 {s:c}) de rayon, centré sur une créature, un objet ou un point dans l'espace  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])

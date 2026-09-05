@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M/FD]] (une pincée de poussière pour abaissement des eaux et une goutte d’eau pour élévation des eaux)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** toute l’eau comprise dans une zone de 3 m (2 {s:c})/[[niveau]] x 3 m (2 {s:c})/[[niveau]] x 60 cm/[[niveau]] (F)  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** non
 
 Ce sort a deux applications différentes qui permettent de contrôler l’eau. La première provoque l’évaporation de l’eau ou son absorption par le terrain afin d’abaisser son niveau. La seconde provoque une montée des eaux et risque de déclencher des inondations.

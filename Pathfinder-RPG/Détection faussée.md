@@ -17,17 +17,11 @@ Categories:
 ---
 
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** 1 créature ou 1 objet ne dépassant pas 3 m de côté  
-
 **Durée** 1 heure/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Cette [[illusion]] permet d’abuser les sorts de [[école divination|Divination]] détectant les auras (*[[détection de la magie]]*, *[[détection du Mal]]*, *[[détection du mensonge]]*, etc.). Au moment de l’incantation, le personnage choisit un leurre (être vivant ou objet) se trouvant dans les limites de portée indiquée. Tant que dure *détection faussée*, tout sort de détection lancé sur le sujet fonctionne comme s’il avait été jeté sur le leurre (sauf si le lanceur de sorts réussit un jet de [[Volonté]], auquel cas le sort fonctionne normalement). Par exemple, un [[magicien]] se choisissant pour sujet et prenant un arbre tout proche pour leurre communiquera des informations totalement erronées sur sa personne : il n’est pas mauvais, ne ment pas, n’est pas magique, son [[alignement]] est neutre, etc. Ce sort n’affecte pas les autres sortes de [[école divination|Divination]] (*[[augure]]*, *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[détection de pensées]]*, etc.).

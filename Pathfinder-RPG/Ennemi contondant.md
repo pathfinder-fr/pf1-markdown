@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Transmutation]] ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 6  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M]] (fils de marionnette)  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Le personnage attrape une créature par télékinésie et s'en sert pour marteler des adversaires ou des objets proches. Quand le personnage lance ce sort, il doit viser une créature spécifique. Une fois qu'il l'a choisie, il ne peut plus en changer. À chaque [[round]], par une [[action simple]], le personnage peut essayer de lancer la cible sur toute créature ou objet qui se trouve dans les 9 mètres (6 {s:c}). Le personnage doit faire un [[jet dattaque|jet d'attaque]] à chaque fois qu'il veut utiliser la cible comme arme. Le bonus d'attaque de cette attaque est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son modificateur d'[[Intelligence]] ou de [[Charisme]] (le plus élevé). Si le personnage parvient à toucher la nouvelle cible avec la créature qu'il manie, la cible et la créature subissent des dégâts basés sur la taille de la créature.

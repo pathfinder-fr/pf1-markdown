@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur, mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature qui vient de frapper le personnage  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 *Représailles* touche toute créature assez téméraire pour s'en prendre au personnage. Il peut viser toute personne qui vient juste de le frapper au cours du [[round]] précédent, en mêlée, à distance ou avec une arme naturelle ou un sort qui exige un [[jet dattaque|jet d'attaque]]. La cible est alors parcourue d'une douleur lancinante qui lui impose un malus de -4 aux [[jet dattaque|jets d'attaque]], aux [[test de compétence|tests de compétence]] et aux tests de caractéristique. Si la cible réussit son jet de [[Vigueur]], le malus ne dure qu'un [[round]]. Si la cible vénère le même dieu que le personnage, elle souffre d'un malus de -2 au [[jet de sauvegarde]].

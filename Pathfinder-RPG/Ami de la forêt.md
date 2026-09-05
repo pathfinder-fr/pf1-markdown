@@ -12,17 +12,11 @@ Categories:
 
 {s:UC}
 **École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, F]] (une pincée de fumier)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature consentante par tranche de trois [[niveau|niveaux]], elles doivent toutes se trouver à moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Tant que la cible est affectée par le sort, elle se sent très à l’aise dans les zones forestières. Elle ne subit pas de malus aux déplacements ni aux tests d’[[Acrobaties]] et de [[Discrétion]] quand elle se trouve dans les taillis d’une zone forestière.

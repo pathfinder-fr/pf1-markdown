@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** plusieurs créatures vivantes distantes de moins de 9 m (6 {s:c}) les unes des autres  
-
 **Durée** 2d4 [[round|rounds]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Les gestes lents et l’incantation lancinante de ce sort permettent au personnage de capter l’attention des créatures proches, qui cessent leurs activités et le regardent d’un air hagard. Le personnage peut alors profiter de leur état pour leur présenter des suggestions ou des demandes. Le nombre total de [[DV]] de créatures affectées est déterminé en lançant 2d4. Les créatures possédant le moins de [[DV]] sont affectées en premier. Seules les créatures qui peuvent voir ou entendre le lanceur du sort sont hypnotisées ; il n’est cependant pas nécessaire qu’elles comprennent le personnage pour que la fascination prenne effet.

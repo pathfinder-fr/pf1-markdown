@@ -14,17 +14,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Cible** une créature/[[niveau]], toutes situées à moins de 9 m les unes des autres  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage suscite chez les créatures un sentiment de jalousie ardente. Les cibles affectées se tournent vers la créature la plus proche, alliée ou ennemie, et tentent de lui prendre une arme précieuse, de lui voler quelque chose qu’elle tient ou de l’agripper et la délester d’un objet qu’elles apprécient (au choix du personnage). Les cibles affectées peuvent tenter un nouveau jet de [[Volonté]] à chaque [[round]], par une [[action libre]], pour mettre un terme à l’effet.

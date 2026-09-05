@@ -10,9 +10,7 @@ Categories:
 
 {s:UM}
 **École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur]]/[[magicien]] 7  
-
 **Durée** variable ; voir la description  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Ce mot effet provoque la [[aveuglé|cécité]] chez une créature vivante sans que celle-ci ait besoin d’entendre le mage le prononcer. Sa durée dépend des points de vies actuels de la cible. Au-delà de 201 points de vie, il n’a aucun effet.

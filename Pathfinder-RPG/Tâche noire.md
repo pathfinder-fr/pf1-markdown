@@ -12,17 +12,11 @@ Categories:
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction, terreur]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 7, [[sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (une fiole d'eau de mer)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature  
-
 **Durée** permanente  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage marque la cible d’une tache noire sur la peau. Il peut déterminer la forme exacte de la marque, mais elle ne peut pas être plus grande que sa main. La tache noire fonctionne comme la *[[marque de la justice]]*. Une fois la marque activée, la victime est secouée dès qu’elle se trouve sur l’eau ou dans l’eau, à plus de 1,50 mètre du rivage. De plus, tant que la tache noire est active, sa victime est frappée par l’effet *[[exilé par la nature]]*, sauf que toutes les créatures de [[sous-type eau]] ou [[sous-type aquatique|aquatique]] ou possédant une vitesse de nage sont hostiles, même si elles ne sont pas de [[type animal]]. En revanche, la tache n’affecte pas les autres animaux.

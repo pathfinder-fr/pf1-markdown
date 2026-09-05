@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 6  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[COMPOSANTES|V, G, F]] (le bâton qui sert à stocker le sort)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** bâton en bois touché  
-
 **Durée** [[permanente]] jusqu’à utilisation (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Le [[druide]] stocke un sort connu dans un bâton en bois. Il est impossible d’avoir plus d’un *bâton à sort*, qui ne peut contenir qu’un seul sort. Le personnage lance le sort comme s’il l’avait préparé, ce dernier venant en plus de tous ceux qu’il a mémorisés pour la journée. Les [[composante matérielle|composantes matérielles]] sont celles requises par le sort stocké.

@@ -13,9 +13,7 @@ Categories:
 **(Source: Heroes of the street)**
 
 **Ecole** [[invocation]] ([[convocation]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[sorcière|Sor]] 3  
-
 **Cible** Un petit coffre ou coffret avec un volume de 30 cm3  
-
 
 Ce sort fonctionne comme *[[coffre secret]]* sauf que le coffret fait 30 cm3 et ne peut contenir qu'un volume de 30 cm3, ne peut rester sans risque dans le [[plan éthéré]] que 14 jours avant qu'il ne risque d'être perdu. Le sort rate automatiquement si un créature vivante entre dans le coffret. Le coffret utilisé comme focalisateur de *Coffret secret* doit coûter au moins 500 po et sa réplique 5 po.
 

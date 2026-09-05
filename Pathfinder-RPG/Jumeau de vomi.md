@@ -15,17 +15,11 @@ Categories:
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}
 **École** [[Invocation]] ([[création]], [[branche téléportation|téléportation]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 3, [[Psychiste|Psy]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#DUREE|personnelle]]  
-
 **Effet** crée une vase, copie conforme du lanceur  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 
 Lorsqu’il lance ce sort, le personnage vomit, dans une case adjacente, une vase dégoûtante qui est une copie de lui-même. Tant que le jumeau existe, lorsque le lanceur fait une [[action de mouvement]] pour se déplacer, le jumeau peut également se déplacer, mais il n’est pas obligé de suivre le lanceur et ne peut pas faire d’autre action. Lors des rounds qui suivent, au début de son tour, le lanceur peut instantanément changer de place avec son jumeau comme s’il utilisait [[téléportation]]. Il ne s’agit pas d’une action et cela ne provoque pas d’[[Valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]]. Le jumeau a une vitesse de 9 mètres (6 {s:c}) et provoque des attaques d’opportunité normalement lorsqu’il se déplace. Il a une [[CA]] égale à 10 + 1/2 le niveau de lanceur du personnage et un nombre de [[pv|points de vie]] égal au niveau de lanceur du personnage. Si le jumeau est réduit à 0 point de vie, il est détruit, mais le lanceur peut en créer un nouveau lors de son tour par une [[action simple]] tant que la [[Présentation des sorts#DUREE|durée]] du sort n’est pas terminée. Le lanceur ne peut pas vomir plus d’un jumeau à la fois.
 

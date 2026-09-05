@@ -15,17 +15,11 @@ Categories:
 ---
 
 {s:cs}{s:BotD}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal, mort]]<nowiki>]</nowiki> ; **Niveau** [[chaman|Cham]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[occultiste|Occ]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3, [[Spirite|Spi]] 3   
-
 **Temps d’incantation** 1 round  
-
 **Composantes** [[Composantes|V, G, F]] (une lentille de cristal d'une valeur de 500 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature [[mourant|mourante]] ou récemment morte  
-
 **Durée** 1 jour/niveau  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage aspire la force vitale d'une créature [[mourant|mourante]] ou une morte au cours du dernier round, en la concentrant à travers une lentille de cristal pour la transformer en une gemme spirituelle. Si la cible est vivante et qu'elle rate son [[jds|jet de sauvegarde]], elle meurt et le personnage capture son âme dans la gemme. Si elle est déjà morte, elle a tout de même droit à un jet de Volonté comme si elle était encore en vie. La valeur de la gemme spirituelle dépend de la nature de la créature qui a permis sa création (voir le don [[Magie des âmes]]). Les gemmes spirituelles créées par ce sort se réduisent en poussière une fois la durée du sort expirée, libérant l'âme piégée pour qu'elle poursuive son voyage vers le jugement dans le Grand Au-delà.

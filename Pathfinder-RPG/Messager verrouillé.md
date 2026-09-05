@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental, basé sur le langage]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d’incantation** 10 minutes  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante volontaire  
-
 **Durée** permanente jusqu’à déchargement (cf. texte)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage prononce un message court (d’un maximum de 10 mots par niveau de lanceur), l’implantant, en plus de l’identité du destinataire voulu du message, dans l’esprit d’une créature volontaire. La créature est consciente du message et de l’identité du destinataire. Toute tentative visant à prononcer, à écrire ou à communiquer autrement le message à n’importe qui d’autre que le destinataire prévu fait oublier le message à la cible pendant 1d6 minutes. Les tentatives de lecture de l’esprit de la cible (comme avec une *[[détection de pensées]]*) ou visant à forcer la cible à révéler le message (comme par la torture ou la coercition magique) provoquent également une amnésie temporaire.

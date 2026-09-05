@@ -435,16 +435,13 @@ LastModified: 2026-07-19 17:41
 <li>[[Armures magiques spécifiques|armures spécifiques]]</li>
 <li>[[Boucliers magiques spécifiques|boucliers spécifiques]]</li>
 </ul>  
-
 <li>[[Baguettes magiques|Les baguettes magiques]]</li>
 <li>[[Parchemins magiques|Les parchemins magiques]]</li>
 <li>[[Potions magiques|Les potions magiques]]</li>  
-
 <li>[[Anneaux magiques|Les anneaux magiques]]</li>
 <li>[[Bâtons magiques|Les bâtons magiques]]</li>
 <li>[[Sceptres magiques|Les sceptres magiques]]</li>
 <li>[[Tatouages magiques|Les tatouages magiques]]</li>  
-
 <li>[[Objets merveilleux|Les objets merveilleux]]
 <ul><li>[[Liste alphabétique des objets merveilleux|Liste alphabétique]]</li>
 <li>Listes par emplacement : [[Objets merveilleux sans emplacement|aucun]] ([[Objets merveilleux sans emplacement liste|avec profils]]), [[Objets merveilleux portés sur le corps|corps]], [[Objets merveilleux portés autour du cou|cou]], [[Objets merveilleux portés sur les épaules|épaules]], [[Objets merveilleux portés sur le front|front]], [[Objets merveilleux portés aux mains|mains]], [[Objets merveilleux portés aux pieds|pieds]], [[Objets merveilleux portés aux poignets|poignets]], [[Objets merveilleux portés à la taille|taille]], [[Objets merveilleux portés sur la tête|tête]], [[Objets merveilleux portés sur le torse|torse]], [[Objets merveilleux portés sur les yeux|yeux]]</li>
@@ -687,7 +684,6 @@ LastModified: 2026-07-19 17:41
 <ul ID="PIEGES" CLASS="listecachée cadrebas">
 <li>[[Pièges#DESCRIPTION|Les différentes parties d'un piège]]</li>
 <li>[[Pièges#DIVERS|Éléments divers des pièges]]</li>  
-
 <li>[[Exemples de pièges]]</li>
 <li>[[Conception de pièges]]</li>
 </ul></li>
@@ -765,7 +761,6 @@ LastModified: 2026-07-19 17:41
 <ul><li>{s:PM|FAQoff}[[FAQ officielle|Foires aux questions officielles]] (publiées [sur le site Paizo](https://paizo.com/paizo/faq/v5748nruor1fm))
 <ul ID="FAQoff" CLASS="listecachée cadrebas">
 <li>[[FAQ- Manuel des joueurs|Manuel des joueurs]]</li>  
-
 <li>[[FAQ- Armes et équipement|Armes et équipement]]</li>
 <li>[[FAQ- lArt de la guerre|l'Art de la guerre]]</li>
 <li>[[FAQ- lArt de la magie|l'Art de la magie]]</li>

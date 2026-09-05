@@ -21,15 +21,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Ce sort confère un [[bonus daltération|bonus d’altération]] qui augmente la vitesse terrestre de base du personnage de 9 m. Il n’affecte pas les autres modes de déplacement (creusement, escalade, nage ou vol), en revanche, il affecte la distance maximale que le personnage peut parcourir en sautant avec la compétence [[Acrobaties]].

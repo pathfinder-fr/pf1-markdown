@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 3, [[rôdeur|Rôd]] 2  
-
 **Temps d'incantation** 3 [[round|rounds]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cible** cercle de corde, liane ou ficelle non-magique de 60 cm de diamètre + 60 cm/[[niveau]]  
-
 **Durée** jusqu’à ce qu’il se referme ou soit cassé  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort permet de fabriquer un collet fonctionnant comme un piège magique. Il peut être confectionné à partir d’une liane souple, d’une ficelle ou d’une corde. Une fois l’incantation terminée, le piège se fond dans le décor, ce qui le rend extrêmement difficile à repérer (seul un personnage disposant de l'aptitude de [[recherche des pièges]] peut y arriver, sur un test de [[Perception]] de [[DD]] 23). Une des extrémités du collet s’achève par un nœud coulant, qui se referme autour du pied ou de la patte de la première créature passant dedans.

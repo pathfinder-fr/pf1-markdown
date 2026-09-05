@@ -13,17 +13,11 @@ Categories:
 **Ce sort est réservé aux personnages de la race [[Bourbiérin]].**
 
 **École** [[Nécromancie]] (Mal) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de chair d’une autre créature de l’espèce du lanceur de sorts)   
-
 **Portée** personnelle   
-
 **Effet** Aura émanation de 6 m de rayon centrée sur le lanceur  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir description) ; **Résistance à la magie** oui
 
 

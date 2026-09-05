@@ -11,15 +11,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (un morceau de la créature en laquelle le personnage veut se transformer)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)
 
 Le personnage se transforme en un [[type humanoïde|humanoïde]] de [[taille G]] et de sous-type [[sous-type géant|géant]] de son choix (voir le Bestiaire Pathfinder RPG). Il gagne un bonus de taille de +6 à la [[Force]], un malus de -2 à la [[Dextérité]], un bonus de taille de +4 à la [[Constitution]], un bonus d’armure naturelle de +4 et la [[vision nocturne]]. Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : [[éventration]] (2d6 points de dégâts), [[lancer de rochers]] (facteur de portée 18 m, 2d6 points de dégâts), [[réception de rochers]], [[régénération]] 5, [[vision dans le noir]] à 18 m. Si la créature est [[immunisé|immunisée]] ou possède une résistance à un élément, le personnage gagne une résistance de 20 contre cet élément. Si la créature est vulnérable à un élément, il en va de même pour le personnage.

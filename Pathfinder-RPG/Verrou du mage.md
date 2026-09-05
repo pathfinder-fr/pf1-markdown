@@ -11,17 +11,11 @@ Categories:
 ---
 
 **École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (poussière d’or d’une valeur de 25 po)  
-
 **Portée** [[présentation des sorts#PORTEE|contact]]  
-
 **Cibles** porte, coffre ou portail touché, dans la limite de 3 m²/[[niveau]]  
-
 **Durée** [[permanente]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Un *verrou du mage* ferme solidement le coffre, la porte ou le portail ciblé. Le mage peut ouvrir son propre verrou sans la moindre difficulté. Si l’objet fermé a un verrou, le [[DD]] de celui-ci augmente de 10 tant qu’il reste fixé à l’objet. Si ce dernier n’a pas de verrou, le sort en conçoit un que l’on peut ouvrir avec un test de [[Sabotage]] [[DD]] 20.

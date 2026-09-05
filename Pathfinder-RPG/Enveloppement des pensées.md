@@ -17,17 +17,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[hypnotiseur|Hyp]] 2, [[inquisiteur|Inq]] 2, [[médium|Méd]] 2, [[psychiste|Psy]] 2, [[rôdeur|Rôd]] 3, [[sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[courte|personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/niveau (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage est protégé contre l’espionnage mental, notamment contre les effets de divination comme *[[détection des pensées]]* et *[[recherche de pensées]]*, ainsi que contre les sorts d’enchantement tels que *[[modification de mémoire]]* ou *[[trou de mémoire]]*. Si une créature tente d’affecter le personnage avec un effet mental conçu pour détecter ou altérer les pensées ou les souvenirs, elle doit réussir un test de [[NLS|niveau de lanceur de sorts]] contre un [[DD]] de 11 + [[NLS|niveau de lanceur de sorts]] du personnage, sinon, son sort échoue. L’enveloppement des pensées bloque seulement les sorts détectant ou modifiant les pensées ou les souvenirs, les effets comme *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[détection du Mal]]* et *[[localisation de créature]]* fonctionnent normalement.

@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** 18 m  
-
 **Zone d'effet** [[rayonnement]] en forme de cône  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
 Ce sort génère sept [[rayon|rayons]] de lumière tourbillonnante qui jaillissent de la main du personnage. Chaque [[rayon]] a une couleur et un pouvoir particulier. Toutes les créatures de moins de 8 [[DV]] dans la [[zone deffet|zone d’effet]] sont automatiquement [[aveuglé|aveuglées]] pendant 2d4 [[round|rounds]]. Toutes les créatures dans la [[zone deffet|zone d’effet]] sont également touchées au hasard par un ou deux [[rayon|rayons]], qui ont les effets suivants :

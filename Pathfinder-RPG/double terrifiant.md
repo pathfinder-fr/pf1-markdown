@@ -17,17 +17,11 @@ Categories:
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
 **École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) ;
 **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
-
 **Effet** clone monstrueux du lanceur de sorts  
-
 **Durée** 1 minute/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d'interaction) ; **Résistance à la magie** non
 
 Le personnage crée une version bien plus grande et bien plus terrifiante de sa personne. Il peut l’envoyer quelque part, la manipuler et l’utiliser pour interagir avec autrui. Ce double peut être au maximum de deux catégories de taille de plus que le personnage. C’est le lanceur de sorts qui décide selon quel thème modifier son apparence. Le double conserve toujours des vestiges de l’apparence actuelle du lanceur de sorts. Les créatures qui le connaissent ont droit à un bonus de +2 au [[jds|jet de sauvegarde]] pour percer l’illusion. Le double n’a aucune substance, le personnage ne peut donc pas l’utiliser pour modifier son environnement, ni pour attaquer ou blesser les créatures qu’il rencontre. En revanche, il peut s’en servir pour parler ou interagir verbalement avec des créatures à l’aide des compétences [[Bluff]], [[Diplomatie]] et [[Intimidation]]. Il gagne un bonus de compétence de +2 aux tests d’[[Intimidation]] quand il l’utilise à travers le double.

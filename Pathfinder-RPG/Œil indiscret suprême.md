@@ -12,17 +12,11 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
-
 **Temps d'incantation** 1 minute  
-
 **Composantes** [[composantes|V, G, M]] (une poignée de billes de cristal)  
-
 **Portée** 1,5 km  
-
 **Effet** 10 yeux au moins en état de lévitation  
-
 **Durée** 1 heure/[[niveau]] (voir description) (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort fait apparaître des orbes magiques, semi-tangibles et visibles (appelés « yeux ») en nombre égal à 1d4 + [[niveau de lanceur de sorts]]. Ces orbes s’éloignent en tous sens et reviennent en fonction des instructions reçues au cours de l’incantation. Chaque œil bénéficie de *[[vision lucide]]* sur 36 m (24 {s:c}). Ils peuvent donc possiblement se déplacer dans l’obscurité à leur [[vitesse de déplacement]] normale.

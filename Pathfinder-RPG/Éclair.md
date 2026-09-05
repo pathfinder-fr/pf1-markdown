@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (fourrure et bâtonnet en verre)  
-
 **Portée** 36 m (24 {s:c})  
-
 **Zone d'effet** [[ligne]] de 36 m (24 {s:c}) de long  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Ce sort libère une violente décharge électrique qui inflige 1d6 points de dégâts d’électricité par [[niveau de lanceur de sorts]] (avec un maximum de 10d6) à toutes les créatures dans la zone d’effet. L’éclair prend naissance aux extrémités des doigts du lanceur de sorts.

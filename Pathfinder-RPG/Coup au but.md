@@ -16,15 +16,10 @@ Categories:
 ---
 
 **École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, F]] (petite réplique en bois d’une cible d’archerie)  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** voir description
 
 Le personnage jetant ce sort sait intuitivement comment frapper pour que son attaque soit la plus efficace possible. Son prochain [[jet dattaque|jet d’attaque]] (qui doit avoir lieu au plus tard le [[round]] suivant l’incantation) gagne un bonus d’intuition de +20. De plus, il n’a aucune chance de manquer une cible [[camouflage|camouflée]].

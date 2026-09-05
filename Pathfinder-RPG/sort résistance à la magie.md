@@ -14,17 +14,11 @@ Categories:
 
 {s:Desambi|Résistance à la magie est également le nom d'une [[résistance à la magie|capacité spéciale]] et d'une [[résistance à la magie (propriété)|propriété d'armures magiques]].}
 **École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 L’individu touché acquiert une [[RM|résistance à la magie]] égale à 12 + [[NLS|niveau de lanceur de sorts]].

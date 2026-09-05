@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Évocation]] ; **Niveau** [[inquisiteur]] 5, [[paladin]] 4, [[prêtre]] 5  
-
 **Durée** instantanée (voir la description)  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir ci dessous) ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[explosion]]*, *[[cône (mot de pouvoir)|cône]]*, *[[ligne (mot de pouvoir)|ligne]]*
 
 Quand le personnage lance un sort de mots incluant cet effet, il sélectionne un [[alignement]] : [[alignement|Bon, Mauvais, Chaotique ou Loyal]]. Toutes les créatures de cet [[alignement]] subissent 1d8 points de dégâts par tranche de deux [[NLS|niveaux de lanceur]] (maximum 8d8), et elles sont [[chancelant|chancelantes]] pendant 1 [[round]] par [[NLS|niveau de lanceur]] si elles ratent leur [[jet de sauvegarde]]. Les [[type extérieur|extérieurs]] de cet [[alignement]] subissent eux 1d6 points de dégâts par [[NLS|niveau de lanceur]] (maximum 15d6).

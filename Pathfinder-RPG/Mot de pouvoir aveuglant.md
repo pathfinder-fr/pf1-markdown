@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** 1 créature dotée de 200 [[pv]] ou moins  
-
 **Durée** voir description  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage prononce un mot qui [[aveuglé|aveugle]] une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [[points de vie]] actuel de la créature affectée. Une créature dotée de plus de 200 [[points de vie]] n’est pas affectée.

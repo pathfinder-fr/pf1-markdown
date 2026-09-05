@@ -13,17 +13,11 @@ Categories:
 
 {s:UC}
 **École** [[Enchantement]] ([[Branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
-
 **Temps d’incantation** 1 [[action rapide]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 La litanie du personnage est une fascinante diatribe pleine de grâce qui incite la cible à ne rien faire d'autre qu'écouter. La cible est [[fasciné|fascinée]]. Comme d'habitude, une menace évidente annule la fascination, et un danger potentiel autorise un nouveau jet de sauvegarde.

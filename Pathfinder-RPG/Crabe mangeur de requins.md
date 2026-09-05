@@ -59,6 +59,5 @@ Extrêmement rapide et agile pour une créature de grande taille, le crabe mange
 marins. Son régime alimentaire ne se limite pas aux seuls requins, il se nourrit également de poissons rapides tels
 que le barracuda et le thon, parfois même de mollusques comme le calmar géant. Les compétences de chasseur de ces crabes ont évolué au cours des siècles pour leur permettre de suivre les mouvements des créatures les plus rapides
 nageant au-dessus d’eux tandis qu’ils se fondent dans leur environnement.  
-
 Un crabe mangeur de requin mesure 4,80 mètres et pèse un peu plus de 2 tonnes.
 </div></td></tr></table>

@@ -12,17 +12,11 @@ Categories:
 
 {s:UM}
 **École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5   
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** une créature touchée  
-
 **Durée** 3 [[round|rounds]]  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 D’un contact, ce sort fait apparaître et grandir une tache d’acide corrosif sur une cible. Au premier round, l’acide inflige 1 point de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15 au maximum). Au deuxième, la tache grandit et inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (15d4 au maximum). Au troisième et dernier round, l’acide recouvre toute la créature et inflige 1d6 points de dégâts d’acide par

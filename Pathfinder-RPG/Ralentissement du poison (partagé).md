@@ -17,7 +17,6 @@ Categories:
 ---
 
 {s:UC}**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[composantes|V, G, FD]]
 **Portée** [[Présentation des sorts#PORTEE|contact]]

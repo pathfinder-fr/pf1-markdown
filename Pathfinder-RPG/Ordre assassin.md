@@ -16,17 +16,11 @@ Categories:
 
 {s:UM}
 **École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Hypnotiseur|Hyp]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** 1 [[round]]  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage génère chez sa cible un besoin impérieux de tuer son allié le plus proche. La cible fait de son mieux pour obéir à cette pulsion. À son prochain tour, elle attaque son allié le plus proche avec une arme de corps à corps ou une arme naturelle. Si nécessaire, elle se déplace ou charge l’allié le plus proche. Si elle est incapable d’atteindre un allié à son tour, elle se rapproche autant que possible.

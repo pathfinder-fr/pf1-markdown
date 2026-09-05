@@ -15,16 +15,11 @@ Categories:
 ---
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 3, [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 4, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage devient une force de destruction déterminée. Il gagne le pouvoir universel de monstre [[férocité]], un nombre de points de vie supplémentaires égal à 1d6 + niveau du lanceur de sort (+10 au maximum) et un bonus de moral de +4 aux jets de sauvegarde contre les [[effet mental|effets mentaux]]. En revanche, il ne peut pas utiliser l’action battre en [[retraite (action)|retraite]] ni s’éloigner volontairement d’une créature qui l’a attaqué.

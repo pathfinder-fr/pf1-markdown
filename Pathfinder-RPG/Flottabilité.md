@@ -11,17 +11,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d'incantation** 1 [[action immédiate]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)  
-
 **Cible** un objet ou une créature/niveau, de taille M ou plus petit, chacun ne devant pas se trouver à plus de 6 m des autres  
-
 **Durée** jusqu'à 1 round/[[niveau]] (cf. texte)  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet)
 **Résistance à la magie** oui (objet)
 

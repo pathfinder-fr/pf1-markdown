@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Divination]] ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** [[émanation]] en forme de cône  
-
 **Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Grâce à *détection de la faune ou de la flore*, le lanceur de sorts peut détecter un type de végétal ou d’animal spécifique dans un cône en face de lui. Le personnage doit penser à la plante ou à la créature qu’il recherche au moment de l’incantation puis peut en changer par la suite (à raison d’une fois par [[round]]). Les informations que le sort révèle dépendent du temps que le personnage passe à étudier la zone et à se concentrer sur un végétal ou un animal spécifique :

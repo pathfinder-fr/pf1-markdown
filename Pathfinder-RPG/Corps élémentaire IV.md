@@ -10,15 +10,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (l’élément dont le personnage veut prendre la forme)  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 1 min/[[niveau]] (T)
 
 Quand le personnage lance ce sort, il prend l’apparence d’un [[élémentaire de lair|élémentaire d’air]], [[élémentaire de leau|d’eau]], [[élémentaire du feu|de feu]] ou [[élémentaire de la terre|de terre]] de [[taille TG]]. Les aptitudes du personnage dépendent alors du type d’[[sous-type élémentaire|élémentaire]] choisi. Les effets de celles qui dépendent de la taille, comme [[combustion (capacité)|combustion]], *[[élémentaire de lEau|Vortex]] ou [[tourbillon (capacité)|tourbillon]]*, se basent sur celle de l’[[sous-type élémentaire|élémentaire]]. De plus, le personnage est immunisé contre les [[saignement|saignements]], les [[coup critique|coups critiques]] et les [[attaque sournoise|attaques sournoises]] tant qu’il est sous forme [[sous-type élémentaire|élémentaire]] et il gagne une [[RD|résistance]] RD 5/—.

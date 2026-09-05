@@ -11,17 +11,11 @@ Categories:
 
 {s:UC}
 **École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
-
 **Temps d’incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, F]] (un canon ornementé miniature forgé avec une goutte du sang du personnage qui coûte 5 000 po)  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** un canon animé  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le focalisateur du personnage se transforme en canon arcanique M qui apparaît dans une case inoccupée à portée du sort. S’il n’y a pas de case inoccupée à portée, le sort échoue. Quand le canon se matérialise, il est déjà chargé, ensuite, à chaque round, il peut tirer ou se recharger. Pour tirer, il doit évidemment être chargé. Le personnage n’a pas besoin de lui fournir de munition.

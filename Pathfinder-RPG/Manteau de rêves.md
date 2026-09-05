@@ -17,17 +17,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 5, [[Chaman|Cham]] 7, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6  
-
 **Temps d'incantation** 1 [[round]]  
-
 **Composantes** [[Composantes|V, G, M]] (un pétale de rose et une goutte de parfum)  
-
 **Portée** 1,50 m (1 {s:c})  
-
 **Zone** émanation de 1,50 m (1 {s:c}) centrée sur le lanceur de sorts  
-
 **Durée** 1 [[round]]/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le personnage est entouré par un arôme soporifique qui endort toute créature vivante qui commence son tour ou termine son déplacement à moins de 1,50 mètre (1 {s:c}) de lui. Les créatures doivent faire un [[jet de sauvegarde]] à chaque fois qu'elles commencent leur tour ou terminent leur déplacement au sein du *manteau de rêves*, même si elles ont déjà réussi un [[jet de sauvegarde]] contre cet effet. Les créatures endormies sont [[sans défense]] mais on peut les réveiller par une [[action simple]] ou en les blessant. Les créatures qui possèdent le pouvoir [[odorat]] reçoivent un malus de -4 au [[jet de sauvegarde]].

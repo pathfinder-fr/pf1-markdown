@@ -11,19 +11,12 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|Loi, son]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 7  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** 12 m (8 {s:c})  
-
 **Zone d'effet** créatures non-Loyales situées dans une étendue de 12 m (8 {s:c}) de rayon centrée sur le [[prêtre]]  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ;   
-
 **Résistance à la magie** oui
 
 Les créatures d’[[alignement]] autre que Loyal entendant le *décret* sont affectées par les effets néfastes suivants :

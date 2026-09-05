@@ -14,17 +14,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Effet** [[rayon]]  
-
 **Durée** 1 round/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un rayon scintillant jaillit de la main tendue du personnage, qui doit réussir une [[attaque de contact à distance]] pour atteindre sa cible. Celle-ci subit un malus de 1d6 en [[Force]], +1 tous les deux [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de 1d6+5). La valeur de [[Force]] de la cible ne peut en aucun cas tomber en dessous de 1. Un jet de [[Vigueur]] permet de réduire ce malus de moitié. Ce malus ne se cumule pas avec lui-même, on applique le plus élevé.

@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 10 minutes  
-
 **Composantes** [[composantes|V, M]] (suffisamment de poudre d’ambre pour recouvrir toute la surface du cercle (1 000 po))  
-
 **Portée** 0 m  
-
 **Effet** cercle de 1,50 m (1 {s:c}) de rayon téléportant ceux qui l’activent  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
 Ce sort permet de tracer par terre (ou sur toute surface horizontale) un cercle transportant, avec l’équivalent de *[[téléportation suprême]]*, toute créature se trouvant en son sein. Il est impossible de modifier la destination du cercle déterminée. Le sort échoue automatiquement si la destination correspond à un objet solide, un autre [[plans|plan]] ou un lieu inconnu du mage (une description précise suffit néanmoins dans ce cas là).

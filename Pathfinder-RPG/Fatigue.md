@@ -15,17 +15,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Occultiste|Occ]] 0, [[Sorcière|Sor]] 0  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, M]] (une goutte de sueur)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 1 [[round]]/[[niveau]]  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 D’un simple toucher, le lanceur de sorts peut [[fatigué|fatiguer]] la cible en lui infligeant une décharge d’énergie négative. Il doit effectuer une attaque de contact pour toucher sa victime. Celle-ci est alors [[fatigué|fatiguée]] pendant toute la durée du sort.

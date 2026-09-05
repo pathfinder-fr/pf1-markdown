@@ -14,17 +14,11 @@ Categories:
 **(Source: Heroes of the street)**
 
 **École** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 2, [[barde|Bard]] 2, [[chaman|Cham]] 2, [[prêtre|Prê]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V,S]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** Le lanceur de sorts  
-
 **Durée** 1 heure/[[niveau]]  
-
 
 Vous gagnez un sens inné de la direction dans laquelle se trouve votre foyer ou du dernier endroit au sein duquel vous avez tenté un jet d'[[artisanat]], selon votre choix. Vous obtenez un bonus d'intuition de +10 aux jets de [[survie]] pour retrouver votre chemin jusqu'à l'endroit choisi.
 

@@ -14,17 +14,11 @@ Categories:
 
 {s:APG}
 **École** [[Enchantement]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** une créature vivante  
-
 **Durée** [[présentation des sorts#DUREE|instantanée]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage fait oublier à sa cible tout ce qui s'est passé entre le moment où il lance son sort et le début du dernier tour de la cible, ce qui peut lui permettre de refaire un test de [[Diplomatie]], d'[[Intimidation]] ou de compétence opposé, mais seulement vis-à-vis de la cible, pas des autres créatures éventuellement présentes.

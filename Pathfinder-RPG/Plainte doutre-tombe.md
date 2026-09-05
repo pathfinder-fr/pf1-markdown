@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort, son]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Zone d'effet** 1 créature vivante/[[niveau]] dans une étendue de 12 m de rayon  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort émet des vibrations sonores meurtrières capables de tuer tous ceux qui les entendent (sauf le lanceur de sort). Il affecte une créature par [[niveau de lanceur de sorts]] à raison de 10 points de dégâts par [[niveau de lanceur de sorts]], en commençant par celles qui se tiennent le plus près du centre de la [[zone deffet|zone d’effet]].

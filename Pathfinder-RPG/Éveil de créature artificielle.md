@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:AO}** École **[[Transmutation]] ; **Niveau** [[Chaman|Cham]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[Occultiste|Occ]] 5, [[prêtre|Prê]] 7, [[psychiste|Psy]] 6  
-
 **Temps d’incantation** 24 heures  
-
 **Composantes** [[composantes|V, G, M]] (herbes et huiles d’une valeur de 2 000 po par DV de la cible), FD  
-
 **Portée** [[courte|contact]]  
-
 **Cible** créature artificielle dépourvue d’intelligence touchée  
-
 **Durée** instantanée  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Le personnage amplifie la force qui anime une créature artificielle pour émuler une âme, ce qui donne à la créature une conscience humaine. Pour cela, le personnage doit réussir un test d’[[Art de la magie]] ([[DD]] = 15 + [[DV]] actuels de la créature artificielle). Si le maître de la créature est présent (si elle en a un), il fait un test d’[[Art de la magie]] opposé. Le personnage n’a pas d’empathie particulière avec la créature éveillée ni de lien avec elle, elle est libre. Les golems précédemment placés sous le contrôle d’une autre créature (comme un garde animé ou un golem aux ordres de son créateur) brisent tout lien avec cette autre créature. Lancez 3d6 pour déterminer l’[[Intelligence]] de la créature éveillée et augmentez son [[Charisme]] de 2d6. Elle obtient des dons et des rangs de compétence en fonction de sa nouvelle valeur d’[[Intelligence]]. C’est au MJ de répartir ces rangs de compétence en adéquation avec sa fonction. Une créature artificielle éveillée parle une des langues de son créateur et une de plus, aussi parmi celles de son créateur, par point de bonus d’[[Intelligence]] (le cas échéant). Le MJ détermine son alignement, qui correspond généralement à celui de son créateur à un cran près. Ce sort ne fonctionne pas sur une créature artificielle dotée d’une valeur d’[[Intelligence]].

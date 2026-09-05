@@ -30,7 +30,6 @@ Ce sort fonctionne comme *[[sort malédiction|malédiction]]* mais le [[DD]] pou
 {s:Desambi|Pour plus d'information sur les malédictions, voir [[malédictions]].  
 Malédiction est également le nom d'un [[registre]].}
 **École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 4, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
-
 **Temps d'incantation** 1 [[action simple]]
 **Composantes** [[Composantes|V, G]]
 **Portée** [[Présentation des sorts#PORTEE|contact]]

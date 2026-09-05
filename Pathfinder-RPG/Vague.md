@@ -13,17 +13,11 @@ Categories:
 ---
 
 {s:APG}**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, M/FD]] (quelques gouttes d'huile et d'eau)  
-
 **Portée** [[Présentation des sorts#PORTEE|contact]]  
-
 **Cible** créature touchée  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
 Le personnage crée une vague de petite taille qui emporte le bénéficiaire du sort sur l'eau ou sur terre. Quand elle se déplace sur terre, elle augmente la [[VD|vitesse]] du sujet de 3 mètres (2 {s:c}). Si elle dévale une colline, sa vitesse augmente de 6 mètres (4 {s:c}) mais la *vague* n'apporte aucun bonus de mouvement si elle doit remonter une pente. Quand le sujet nage, la *vague* augmente sa vitesse de nage de 6 mètres (4 {s:c}). Si le sujet n'a pas de vitesse de nage, le sort lui en accorde une de 6 mètres (4 {s:c}).

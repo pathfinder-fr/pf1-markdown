@@ -11,17 +11,11 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Sorcière|Sor]] 3  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cible** un crâne  
-
 **Durée** [[Présentation des sorts#DUREE|permanent]] jusqu’à déchargement  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Ce sort fait apparaître sur un crâne choisi une bouche enchantée qui délivre un message si l’événement spécifié au cours de l’incantation se produit, après avoir pousser un ricanement dément effrayant. Toutes les créatures qui l’entendent ricaner doivent réussir un [[jet de sauvegarde]] ou être [[secoué|secouées]] pendant 1d4 [[round|rounds]]. Ce message, qui ne peut contenir plus de vingt-cinq mots, doit être déclamé dans une langue parlée par son créateur et peut prendre jusqu’à dix minutes. La bouche ne peut prononcer ni incantation, ni [[mot de commande]], ni activer le moindre effet magique. Par contre, elle remue les lèvres en fonction de ce qu’elle dit. Placée sur une statue par exemple, on pourrait avoir l’impression que celle-ci se met à parler. Cela n’empêche bien évidemment pas de lancer le sort sur un arbre, un rocher, une porte, ou tout autre objet ou créature.

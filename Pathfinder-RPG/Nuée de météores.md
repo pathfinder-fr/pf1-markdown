@@ -10,17 +10,11 @@ Categories:
 ---
 
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 9  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
-
 **Zone d'effet** 4 étendues de 12 m (8 {s:c}) de rayon (voir description)  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** aucun ou [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
 *Nuée de météores* est un sort extrêmement puissant et très spectaculaire qui ressemble beaucoup à une *[[boule de feu]]*. À la fin de l’incantation, quatre sphères de soixante centimètres de diamètre jaillissent de la main du lanceur de sorts et vont frapper en ligne droite le point qu’il a choisi, laissant une longue traînée d’étincelles derrière elles.

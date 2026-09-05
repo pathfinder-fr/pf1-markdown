@@ -9,17 +9,11 @@ Categories:
 ---
 
 {s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G]]  
-
 **Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
-
 **Effet** un plan de glace ancré, faisant au maximum 3 m de côté/niveau  
-
 **Durée** 10 minutes/niveau  
-
 **Jet de sauvegarde** [[Réflexes]] pour annuler (cf. texte) ; **Résistance à la magie** oui
 
 Ce sort couvre le sol, la terre ou toute autre surface horizontale calme (comme un lac tranquille ou une rivière placide) d’une pellicule de glace qui s’étend lentement. La pellicule de glace initiale ne peut pas se former dans une zone occupée par des objets ou des créatures physiques. Sa surface doit être lisse et sans rupture quand elle se crée. La glace est dure, solide et opaque, faisant 2,5 centimètres d’épaisseur par niveau de lanceur. La glace est suffisamment solide pour supporter le poids d’un cheval ordinaire, ce qui permet aux créatures de traverser une étendue d’eau.

@@ -11,17 +11,11 @@ Categories:
 
 {s:APG}
 **École** [[Évocation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ;** Niveau** [[Inquisiteur|Inq]] 4  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G, FD]]  
-
 **Portée** 6 m (4 {s:c})  
-
 **Zone** rayonnement de 6 m (4 {s:c}) de rayon centré sur le lanceur de sorts  
-
 **Durée** [[instantanée]]  
-
 **Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
 Les paroles colériques du personnage provoquent des blessures physiques chez ses ennemis. Ces derniers reçoivent 1d8 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (5d8 au maximum) et sont [[chancelant|chancelants]] pendant 1 [[round]]. La moitié de ces dégâts sont d'origine [[registre|sonore]] et l'autre d'origine divine. La seconde moitié n'est donc pas soumise à la [[résistance]] aux attaques sonores. La *réprimande *est particulièrement dévastatrice pour les ennemis qui vénèrent le même dieu que le personnage : elle inflige alors 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (10d6 au maximum) et les [[étourdi|étourdit]] pendant 1d4 [[round|rounds]]. Un jet de [[Vigueur]] réussi permet de réduire les dégâts de moitié et évite d'être [[chancelant]] ou [[étourdi]].

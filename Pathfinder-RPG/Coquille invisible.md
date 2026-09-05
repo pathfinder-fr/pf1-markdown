@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[barde]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
-
 **Restriction de cible** *[[explosion]]* (émanation)
 
 Lorsqu’il est lancé, un sort incluant cet effet rend les objets ou les créatures désignés par le lanceur et situés dans sa portée [[invisible|invisibles]], et ce tant qu’ils restent dans cette zone, n’attaquent pas et n’entreprennent pas d’action offensive. Tous les objets portés par les cibles du sort restent eux aussi [[invisible|invisibles]] tant qu’elles restent dans la zone du sort. Une flèche tirée d’un arc redevient visible quand elle en sort de la zone.

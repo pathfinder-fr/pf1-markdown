@@ -12,15 +12,10 @@ Categories:
 ---
 
 **École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[composantes|V, G, FD]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** le jeteur de sorts  
-
 **Durée** 10 minutes/[[niveau]]
 
 Ce sort permet au personnage de fusionner son corps et ce qu’il transporte avec une masse rocheuse. Celle-ci doit être suffisamment grande (dans chacune des trois dimensions) pour permettre au personnage de se tenir à l’intérieur. À la fin de l’incantation, le lanceur de sorts et jusqu’à cinquante kilos d’équipement non-vivant se fondent dans la pierre. S’il emporte avec lui un autre être vivant ou une quantité de matériel plus grande, le sort échoue.

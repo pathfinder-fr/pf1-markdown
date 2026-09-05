@@ -140,27 +140,16 @@ Chaque jour, au niveau 2, le Légionnaire infernal peut utiliser [[détection du
 {s:Reference|ARMUREDULEGIONNAIREINFERNAL}
 #### Armure de Légionnaire infernal (Ext)
 Au niveau 2, le Légionnaire infernal gagne le droit de porter une armure de Légionnaire infernal. Tant qu’il la porte, il réduit son malus d’armure de 1, augmente son bonus de [[Dextérité]] maximal de 1 et se déplace à sa vitesse maximale. Au niveau 5, ces modificateurs passent à 2 et au niveau 8 à 3.  
-
   
-
 Détail de l'armure de Légionnaire infernal (Armure lourde) :  
-
 Prix : 2 000 PO  
-
 Bonus d'armure : +9  
-
 Bonus de Dex max. : +1  
-
 Malus d'armure aux tests : -5  
-
 Risque d'échec des sorts profanes : 35%  
-
 VD(9m) : 6m  
-
 VD(6m) : 4.5m  
-
 Poids : 25kg  
-
 
 
 {s:Reference|DISCIPLINES}

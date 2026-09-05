@@ -13,17 +13,11 @@ Categories:
 ---
 
 **École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
-
 **Temps d'incantation** 1 [[action simple]]  
-
 **Composantes** [[COMPOSANTES|V, G]]  
-
 **Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
-
 **Cibles** animaux distants de 9 m ou moins les uns des autres  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en [[Intelligence]]) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de [[DV|dés de vie]] affectés est égal à 2d4 + [[niveau de lanceur de sorts]].

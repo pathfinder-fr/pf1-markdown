@@ -19,19 +19,12 @@ Categories:
 
 {s:UM}
 **École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
-
 **Temps d’incantation** 1 [[action simple]]  
-
 **Composantes** [[Composantes|V, G]]  
-
 **Portée** [[personnelle]]  
-
 **Cible** lanceur de sorts  
-
 **Durée** 10 minutes/[[niveau]] (T)  
-
 **Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
 Le personnage devient translucide, comme un fantôme (tout comme ses vêtements, ses armes, son armure et son équipement). Le sort affecte aussi tout déguisement ordinaire ou magique du personnage : par exemple, si le personnage est déguisé en roi ou en [[sahuagin]], il ressemblera à une version fantomatique du roi ou d’un [[sahuagin]]. La forme fantôme peut avoir une pâle couleur verte, bleue ou violette ou présenter une version affadie des couleurs habituelles du personnage.  
-
 Le sort ne transforme pas réellement le personnage en fantôme et ne le rend pas [[intangible]]. Si le personnage le désire, il peut donner l’impression de flotter légèrement au-dessus du sol mais en réalité, il se trouve par terre. Une créature qui interagit avec l’hallucination a droit à un [[jet de sauvegarde]] pour se rendre compte qu’il s’agit d’une illusion.

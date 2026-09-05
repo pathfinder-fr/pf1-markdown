@@ -10,11 +10,8 @@ Categories:
 
 {s:UM}
 **École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[alchimiste]] 5, [[druide]] 5, [[ensorceleur]]/[[magicien]] 5, [[magus]] 5, [[sorcière]] 5  
-
 **Durée** 1 minute/[[niveau]]  
-
 **Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
-
 **Restrictions de cible** *[[personnel (mot de pouvoir)|personnel]]*
 
 Cet effet fonctionne de la même manière que *[[forme bestiale]]* sauf que la cible reçoit un bonus de taille de +6 à la [[Force]]. En plus de ceux disponibles pour *[[forme altérée]]* et *[[forme bestiale]]*, la cible peut choisir parmi les avantages suivants : vitesse de creusement 9 mètres (6 {s:c}), [[vision aveugle (capacité)|vision aveugle]] 9 mètre (6 {s:c}), [[constriction (capacité)|constriction]] (infligeant les dégâts de l'[[étreinte (capacité)|étreinte]] + le modificateur de [[Force]] de la cible du mot), [[férocité (capacité)|férocité]], [[Résistance (capacité)|résistance]] 20 contre un type d'énergie ou bonus d’armure naturelle de +4.

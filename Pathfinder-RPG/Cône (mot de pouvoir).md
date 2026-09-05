@@ -10,7 +10,6 @@ Categories:
 
 {s:UM}
 **Niveau** 0  
-
 **Portée ** 3 mètres (2 {s:c})
 
 Un sort de mots incluant ce [[mots cibles|mot cible]] affecte tout ce qui se trouve dans la zone d’effet d’une explosion formant un cône.
