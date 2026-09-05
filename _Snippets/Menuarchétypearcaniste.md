@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'arcaniste
 &nbsp;Retour à la [[Arcaniste|classe]].

@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 $(function(){
 let mètres = ?1?;

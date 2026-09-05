@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de justicier
 &nbsp;Retour à la [[Justicier|classe]].

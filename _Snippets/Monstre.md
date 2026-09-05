@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 function titre(idx,elem) {
 if ($(elem).text().trim() == "Non")

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Les compétences
 

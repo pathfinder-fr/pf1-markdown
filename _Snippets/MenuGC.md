@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Règles du Guide de campagne
 <ul><li>{s:PM|Intermèdes}[[Intermèdes|Les intermèdes]]

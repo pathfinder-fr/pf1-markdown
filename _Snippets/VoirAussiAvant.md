@@ -1,6 +1,2 @@
----
-{}
----
-
 <div class="voiraussi">
 <h4>Voir aussi</h4>

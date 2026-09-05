@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Gestion des convois
 

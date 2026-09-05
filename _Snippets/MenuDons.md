@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Accès rapide aux tableaux récapitulatifs des dons
 <table><tr style="vertical-align: top; text-align: left"><td>

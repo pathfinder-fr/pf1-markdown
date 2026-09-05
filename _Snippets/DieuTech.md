@@ -1,7 +1,3 @@
----
-{}
----
-
 <style>
 td.Non {
 background-color: #f3efe2;

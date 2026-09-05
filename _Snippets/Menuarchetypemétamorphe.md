@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de métamorphe
 &nbsp;Retour à la [[Métamorphe|classe]].

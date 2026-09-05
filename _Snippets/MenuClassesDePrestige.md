@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite" style="max-width: 260px;">
 ### Les classes de prestige
 <table><tr style="vertical-align: top; text-align: left"><td>

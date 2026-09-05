@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="navmenudroite">
 <div class="presentation">
 ### Découvrir Pathfinder

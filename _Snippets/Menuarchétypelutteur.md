@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de lutteur
 &nbsp;Retour à la [[Lutteur|classe]].

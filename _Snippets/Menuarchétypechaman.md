@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de chaman
 &nbsp;Retour à la [[Chaman|classe]].

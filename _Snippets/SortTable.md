@@ -1,7 +1,3 @@
----
-{}
----
-
 <nowiki><script type="text/javascript">
 addEvent(window, "load", sortables_init);
 

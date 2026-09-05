@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float:right; padding: 0 0 8px 8px; background-color: white"><table><tr><td class="presentation">
 ### Types de monstres
 <ul><li>[[type Aberration|Aberration]]</li>

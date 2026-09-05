@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de barbare
 &nbsp;Retour à la [[Barbare|classe]].

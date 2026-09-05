@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de druide
 &nbsp;Retour à la [[Druide|classe]].

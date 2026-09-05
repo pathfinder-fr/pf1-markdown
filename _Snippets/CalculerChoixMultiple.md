@@ -1,7 +1,3 @@
----
-{}
----
-
 <button type="button" class="calculerChoixMultiple">?1?</button>
 <nowiki>
 <script type="text/javascript">

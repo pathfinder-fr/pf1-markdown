@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de moine unchained
 &nbsp;Retour à la [[Moine unchained|classe]].

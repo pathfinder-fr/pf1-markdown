@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les écoles de magie
 &nbsp;Retour à la [[Écoles de magie|présentation]].

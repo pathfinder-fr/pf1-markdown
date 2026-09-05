@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 $(function () {
 let image = "?3?";

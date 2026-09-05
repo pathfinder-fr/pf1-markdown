@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'hypnotiseur
 &nbsp;Retour à la [[Hypnotiseur|classe]].

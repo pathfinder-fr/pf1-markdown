@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu"><table><tr style="vertical-align: top"><td width="13%"><center><img ID="menuclasseIMG2" src="/wiki/public/upload/Illustrations/Autres/Head.jpg" WIDTH="90%" style="border: 1px solid #4b3124" /></center></td><td width="86%">
 ### Les classes supplémentaires
 <table><tr style="vertical-align: top"><td width="25%"><ul>

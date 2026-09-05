@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="tileSF">
 <div class="imgTileSF">
 <a href="/Wiki/Starfinder.?1?.ashx"><img src="/Wiki/Public/Upload/?3?" /></a></div>

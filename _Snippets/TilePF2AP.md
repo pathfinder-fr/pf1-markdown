@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="tilePF2 tilePF2AP ?6?">
 <img class="logoRemaster" title="PF2 version Remaster" src="/Wiki/Public/Upload/PF2/WikiPF2/RemasteredLogo3.webp" />
 <div class="imgTilePF2">

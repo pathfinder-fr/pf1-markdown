@@ -1,5 +1,1 @@
----
-{}
----
-
 <div class="col col-6">

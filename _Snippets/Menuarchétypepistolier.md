@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de pistolier
 &nbsp;Retour à la [[Pistolier|classe]].

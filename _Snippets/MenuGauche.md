@@ -1,7 +1,3 @@
----
-{}
----
-
 ## Navigation
 - [[MainPage|Accueil du site]]
 - <a href="https://t.co/euqukfofhL?amp=1">Serveur Discord</a> <a href="https://t.co/euqukfofhL?amp=1"><img src="/images/Pathfinder/logos/discord_icon.png" style="height:12px"/></a>

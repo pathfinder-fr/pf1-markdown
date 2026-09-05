@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de paladin
 &nbsp;Retour à la [[Paladin|classe]].

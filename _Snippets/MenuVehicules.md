@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 <table><tr style="vertical-align: top">
 <td width="100%">

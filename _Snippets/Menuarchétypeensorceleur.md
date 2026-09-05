@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'ensorceleur
 &nbsp;Retour à la [[Ensorceleur|classe]].

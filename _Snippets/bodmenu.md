@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float:right; border-left: 4px solid #e7dfc6; background-color: #f3efe2; padding: 4px; margin-bottom: 20px">
 *En provenance du Book of the Dead :*  
 

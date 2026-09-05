@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Règles alternatives d'AG
 <ul><li>[[Régles alternatives|Présentation]]</li>

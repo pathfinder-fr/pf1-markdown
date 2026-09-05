@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de guerrier
 &nbsp;Retour à la [[Guerrier|classe]].

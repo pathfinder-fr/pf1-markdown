@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur l'environnement
 <table><tr style="vertical-align: top; text-align: left"><td>

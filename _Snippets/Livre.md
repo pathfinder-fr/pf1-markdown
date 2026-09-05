@@ -1,7 +1,3 @@
----
-{}
----
-
 {| style="border-collapse:separate;float:right;width:260px;padding:5px;margin: 0 0 18px 18px;border: 1px solid #4b3124; background-color: #f3efe2;line-height:22px"
 |-
 | colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold" | ?titre?

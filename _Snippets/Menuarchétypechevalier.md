@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de chevalier
 &nbsp;Retour à la [[Chevalier|classe]].

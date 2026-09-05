@@ -1,7 +1,3 @@
----
-{}
----
-
 bdesc = bdesc.replace(/00GUI00/g,"'");
 }
 </script>

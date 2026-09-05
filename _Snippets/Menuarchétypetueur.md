@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de tueur
 &nbsp;Retour à la [[Tueur|classe]].

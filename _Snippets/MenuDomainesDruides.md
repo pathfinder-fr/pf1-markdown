@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Les domaines animaux et environnementaux
 <table><tr style="vertical-align: top"><td width="33%">

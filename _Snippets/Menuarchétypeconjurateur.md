@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de conjurateur
 &nbsp;Retour à la [[Conjurateur|classe]].

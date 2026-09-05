@@ -1,7 +1,3 @@
----
-{}
----
-
 ## Data Schema and Database-related Topics
 
 (((Data and database issues to better understand the backend data organization of Sueetie and its applications.)))

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de chasseur
 &nbsp;Retour à la [[Chasseur|classe]].

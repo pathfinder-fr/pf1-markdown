@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float:right; padding-left: 6px">
 <table>
 <tr style="vertical-align:bottom">

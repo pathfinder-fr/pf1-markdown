@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de psychiste
 &nbsp;Retour à la [[Psychiste|classe]].

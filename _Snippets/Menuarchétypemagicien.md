@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de magicien
 &nbsp;Retour à la [[Magicien|classe]].

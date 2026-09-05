@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'inquisiteur
 &nbsp;Retour à la [[Inquisiteur|classe]].

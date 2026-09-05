@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float:right; padding: 4px 4px 4px 4px;">
 <img title="Créature magique" class="opachover" src="{UP}/Projets/Puces pour monstres/creature magique.png" style="opacity: 1" />
 </div>

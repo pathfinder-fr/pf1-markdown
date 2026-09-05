@@ -1,7 +1,3 @@
----
-{}
----
-
 *Sueetie.Core Patterns and Origins Documents:*
 
 - [[PatternsConfiguration|SueetieConfiguration]]

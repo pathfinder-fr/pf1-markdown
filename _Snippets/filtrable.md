@@ -1,7 +1,3 @@
----
-{}
----
-
 <nowiki><script type="text/javascript">
 $(filtrable_init);
 

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="position:absolute; left:60px; top:60px; width:80px; height:80px;" title="62—62"></div>
 <div style="position:absolute; left:60px; top:140px; width:80px; height:80px;" title="62—142"></div>
 <div style="position:absolute; left:60px; top:260px; width:80px; height:80px;" title="62—262"></div>

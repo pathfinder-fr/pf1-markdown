@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'oracle
 &nbsp;Retour à la [[Oracle|classe]].

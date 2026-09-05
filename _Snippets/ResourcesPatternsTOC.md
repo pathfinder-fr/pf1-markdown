@@ -1,7 +1,3 @@
----
-{}
----
-
 ## Sueetie.Core Patterns and Origins
 
 (((Below are the classes located in the Sueetie.Core Class Library with links to their documentation.)))

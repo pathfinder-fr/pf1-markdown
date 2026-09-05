@@ -1,7 +1,3 @@
----
-{}
----
-
 <style type="text/css">
 div.menuconvoc {
 border: 1px solid #4b3124;

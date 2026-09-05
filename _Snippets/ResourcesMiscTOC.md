@@ -1,7 +1,3 @@
----
-{}
----
-
 ## Miscellaneous Developer Topics
 
 (((Issues and topics that a Sueetie Developer may or may not encounter, but when you need it, these are helpful resources.)))

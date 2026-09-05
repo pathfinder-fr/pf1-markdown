@@ -1,7 +1,3 @@
----
-{}
----
-
 <SCRIPT LANGUAGE="JavaScript">
 document.location.href="?1?.ashx#?2?"
 </SCRIPT>

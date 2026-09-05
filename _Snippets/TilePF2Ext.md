@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="width: 240px; border: 1px solid #4b3124; background-color: #f3efe2; padding: 5px; margin: 10px; display: flex; flex-direction: column; justify-content: space-between">
 <div style="flex-grow: 1; max-height: 150px; padding: 0; margin: 0; display: flex; flex-direction: column; justify-content: center">
 <a href="?1?"><img style="display: block; margin: 0 auto; max-width: 200px; max-height: 150px" src="?3?" /></a></div>

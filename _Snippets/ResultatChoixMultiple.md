@@ -1,5 +1,1 @@
----
-{}
----
-
 <span value="?1?" class="resultatChoixMultiple"></span>

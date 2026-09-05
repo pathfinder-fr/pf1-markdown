@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de scalde
 &nbsp;Retour à la [[Scalde|classe]].

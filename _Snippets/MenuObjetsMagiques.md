@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur les objets magiques
 <table><tr style="vertical-align: top; text-align: left"><td>

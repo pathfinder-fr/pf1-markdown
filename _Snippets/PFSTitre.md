@@ -1,7 +1,3 @@
----
-{}
----
-
 <TABLE width="100%"><TR><TD>
 <DIV STYLE="position: relative; width: 625px; height: 356px">
 <IMG SRC="/wiki/public/upload/?1?"

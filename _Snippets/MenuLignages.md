@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Les lignages d'ensorceleurs
 <table><tr style="vertical-align: top"><td width="20%">

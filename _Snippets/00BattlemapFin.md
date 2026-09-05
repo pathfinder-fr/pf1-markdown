@@ -1,7 +1,3 @@
----
-{}
----
-
 }
 </script>
 <button type="button" onclick="debut();">Lancer la battlemap</button>

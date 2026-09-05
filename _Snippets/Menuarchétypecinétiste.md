@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de cinétiste
 &nbsp;Retour à la [[Cinétiste|classe]].

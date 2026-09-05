@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les mystères d'oracle
 &nbsp;Retour à la [[Esprits (chaman)|présentation]].

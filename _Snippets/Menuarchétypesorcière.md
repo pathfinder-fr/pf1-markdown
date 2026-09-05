@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de sorcière
 &nbsp;Retour à la [[Sorcière|classe]].

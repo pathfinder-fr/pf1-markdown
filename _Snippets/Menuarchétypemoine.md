@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de moine
 &nbsp;Retour à la [[Moine|classe]].

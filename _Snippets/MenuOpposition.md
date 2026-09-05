@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur l'opposition
 <table><tr style="vertical-align: top; text-align: left"><td width="20%">

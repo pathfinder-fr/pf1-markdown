@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de barde
 &nbsp;Retour à la [[Barde|classe]].

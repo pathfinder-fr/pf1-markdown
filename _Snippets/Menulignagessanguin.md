@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Les lignages de sanguin
 <table><tr style="vertical-align: top"><td width="33%">

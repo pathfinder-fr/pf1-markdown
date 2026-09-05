@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'enquêteur
 &nbsp;Retour à la [[Enquêteur|classe]].

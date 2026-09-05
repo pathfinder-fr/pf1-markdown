@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de prêtre
 &nbsp;Retour à la [[Prêtre|classe]].

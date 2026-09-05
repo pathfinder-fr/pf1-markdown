@@ -1,7 +1,3 @@
----
-{}
----
-
 <div STYLE="border: 0; padding: 0; margin: 10px; width: 90%; float: ?7?; text-align: center;">
 <a NAME="?1?" HREF="/wiki/{PageName}.ashx#?1?">
 <div WIDTH="100%" STYLE="background-color: #4b3124; color: #fff; padding: 3px; margin: 0 0 3px 0; text-align: center; font-weight: bold;">

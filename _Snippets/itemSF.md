@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="itemSF">
 <div>
 <a href="?3?"><h3>?1?</h3></a>

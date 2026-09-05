@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de roublard
 &nbsp;Retour à la [[Roublard|classe]].

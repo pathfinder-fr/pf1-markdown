@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de médium
 &nbsp;Retour à la [[Médium|classe]].

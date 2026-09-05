@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 function hideIfEmpty(idx, elem) {
 if ($(elem).text().trim() == "")

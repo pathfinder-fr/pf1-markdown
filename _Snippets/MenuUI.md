@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 {s:UI}
 ### Règles de l'intrigue

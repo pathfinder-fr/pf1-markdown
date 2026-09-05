@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float: left; margin: 0 0 5px 5px; width:?2?">
 <table WIDTH="100%">
 <tr><td><IMG SRC="/wiki/public/upload/?1?" STYLE="margin: 0 4px 0 0;" WIDTH="100%"/></td></tr>

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de bretteur
 &nbsp;Retour à la [[Bretteur|classe]].

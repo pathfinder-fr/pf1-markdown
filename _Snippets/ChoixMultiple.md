@@ -1,5 +1,1 @@
----
-{}
----
-
 <input type="radio" class="choixMultiple" name="?1?" value="?2?">

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Guide d'utilisation du wiki
 <div>{s:PM|Guide1}[[Guide notions fondamentales|1. Quelques notions fondamentales]]</div>

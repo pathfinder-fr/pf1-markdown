@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu"><table><tr style="vertical-align: top"><td width="15%"><center><img ID="menuraceIMG1" src="/wiki/public/upload/Illustrations/Autres/Head.jpg" width="120px" height="120px" style="border: 1px solid #4b3124; object-fit:cover"/></center></td><td width="100%">
 ### Les races de base
 <table><tr style="vertical-align: top"><td width="25%">

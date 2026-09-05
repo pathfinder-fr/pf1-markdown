@@ -1,7 +1,3 @@
----
-{}
----
-
 <div style="float: right; background-color: #fff; padding: 0 0 18px 18px; width: 240px">
 <div style="padding: 4px; border: 1px solid #4b3124; background-color: #f3efe2">
 <table style="width: 100%;">

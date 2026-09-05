@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Traits de personnage
 <ul><li>[[Traits|Présentation générale]]</li>

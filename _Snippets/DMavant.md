@@ -1,7 +1,3 @@
----
-{}
----
-
 <center style="clear:left">
 <iframe width="840px" height="1800px" id='dm_wiki_div' scrolling="no" frameborder=0 class='dmdiv'></iframe>
 </center>

@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de spirite
 &nbsp;Retour à la [[Spirite|classe]].

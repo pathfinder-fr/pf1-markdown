@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 $(function(){
 $('.CSU1').attr('title', "Source : Courts suppléments univers (Cities of Golarion/Cités de Golarion)");

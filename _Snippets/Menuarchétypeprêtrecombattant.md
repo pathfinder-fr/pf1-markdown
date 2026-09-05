@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes </br>de prêtre combattant
 &nbsp;Retour à la [[Prêtre combattant|classe]].

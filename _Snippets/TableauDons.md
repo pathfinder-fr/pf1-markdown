@@ -1,7 +1,3 @@
----
-{}
----
-
 <script>
 $(function () {
 $("tr.donprérequis0, tr.donprérequis1, tr.donprérequis2").hide();

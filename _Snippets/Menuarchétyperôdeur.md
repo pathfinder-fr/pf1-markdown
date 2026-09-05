@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes de rôdeur
 &nbsp;Retour à la [[Rôdeur|classe]].

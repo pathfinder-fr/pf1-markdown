@@ -1,7 +1,3 @@
----
-{}
----
-
 <script type="text/javascript">
 function initialisation() {
 loaded0 = 0;

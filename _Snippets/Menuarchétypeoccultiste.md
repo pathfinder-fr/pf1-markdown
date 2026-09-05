@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenudroite">
 ### Les archétypes d'occultiste
 &nbsp;Retour à la [[Occultiste|classe]].

@@ -1,7 +1,3 @@
----
-{}
----
-
 <p style="display: flex; justify-content: space-between; background-color: black; color: #f3efe2; padding: 2px; margin-bottom: 8px">
 <span style="font-size:140%; text-transform: uppercase; font-weight: bold">?1?</span>
 <span style="font-size:140%; text-transform: uppercase">?2?</span>

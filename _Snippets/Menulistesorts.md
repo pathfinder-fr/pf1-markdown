@@ -1,7 +1,3 @@
----
-{}
----
-
 <div class="presentation navmenu">
 ### Les listes de sorts
 <table><tr style="vertical-align: top"><td width="40%">

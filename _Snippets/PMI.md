@@ -1,7 +1,3 @@
----
-{}
----
-
 <a href="/Wiki/Pathfinder-RPG.Pirates de la Mer Intérieure (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
 <img title="Source : Pirates of the Inner Sea/Pirates de la Mer Intérieure" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoPMI.gif" style="opacity: 0.7" loop="infinite" />
 </a>
