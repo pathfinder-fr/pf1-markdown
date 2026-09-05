@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.désarmement
+Title: désarmement
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Manœuvres offensives#DESARMEMENT

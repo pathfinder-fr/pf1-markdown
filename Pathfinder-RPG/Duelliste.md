@@ -1,0 +1,143 @@
+---
+Name: Pathfinder-RPG.Duelliste
+Title: Le duelliste
+LastModified: 2024-06-22 16:04
+Categories:
+- Classe de prestige
+---
+
+{s:MenuClassesDePrestige}''Les duellistes sont l'incarnation de l'élégance en escrime. Ils se déplacent avec une grâce inégalée par la plupart de leurs adversaires, parant et contrant les coups d'un rapide revers de lame. Ils préfèrent ne pas s'encombrer d'une armure même s'ils peuvent en porter, car leur dextérité naturelle leur permet d'esquiver aisément les attaques. Tandis que les autres pataugent sur un sol semé d'embûches, les duellistes chargent avec légèreté au milieu du champ de bataille. Ils se jettent dans la mêlée, où leur talent d'épéistes fait des ravages et où leurs attaques fulgurantes moissonnent d'une d'estocade diaboliquement précise des adversaires empotés.
+
+La voie du duelliste est une progression naturelle pour les [roublards](./Roublard.md) et les [bardes](./Barde.md), qui ne se fient pas seulement à une armure pour se protéger, mais c'est une classe aussi répandue parmi les [guerriers](./Guerrier.md) et les [rôdeurs](./Rôdeur.md). On trouve souvent les duellistes là où il existe des règles et une étiquette élaborées du combat.''
+
+<center>
+{| CLASS="tablo"
+|+ Le duelliste
+|- CLASS="titre"
+| Niveau || BBA || Réflexes || Vigueur || Volonté
+| CLASS="gauche" | Spécial
+|- CLASS="premier"
+| 1 || +1 || +1 || +0 || +0
+| CLASS="gauche" | [Défense astucieuse](./Duelliste.md#DEFENSEASTUCIEUSE), [attaque précise](./Duelliste.md#ATTAQUEPRECISE)
+|- CLASS="alt"
+| 2 || +2 || +1 || +1 || +1
+| CLASS="gauche" | [Réaction accrue](./Duelliste.md#REACTIONACCRUE) +2, [parade](./Duelliste.md#PARADE)
+|-
+| 3 || +3 || +2 || +1 || +1
+| CLASS="gauche" | [Grande souplesse](./Duelliste.md#GRANDESOUPLESSE)
+|- CLASS="alt"
+| 4 || +4 || +2 || +1 || +1
+| CLASS="gauche" | [Attaque réflexe](./Duelliste.md#ATTAQUEREFLEXE), [style](./Duelliste.md#STYLE)
+|-
+| 5 || +5 || +3 || +2 || +2
+| CLASS="gauche" | [Riposte](./Duelliste.md#RIPOSTE)
+|- CLASS="alt"
+| 6 || +6 || +3 || +2 || +2
+| CLASS="gauche" | [Charge acrobatique](./Duelliste.md#CHARGEACROBATIQUE)
+|-
+| 7 || +7 || +4 || +2 || +2
+| CLASS="gauche" | [Parade élaborée](./Duelliste.md#PARADEELABOREE)
+|- CLASS="alt"
+| 8 || +8 || +4 || +3 || +3
+| CLASS="gauche" | [Réaction accrue](./Duelliste.md#REACTIONACCRUE) +4
+|-
+| 9 || +9 || +5 || +3 || +3
+| CLASS="gauche" | [Parade de projectiles](./Duelliste.md#PARADEDEPROJECTILES), [pas de retraite](./Duelliste.md#PASDERETRAITE)
+|- CLASS="alt"
+| 10 || +10 || +5 || +3 || +3
+| CLASS="gauche" | [Mutilation](./Duelliste.md#MUTILATION)
+|}
+</center>
+
+**Rôle.** Les talents du duelliste complètent idéalement ceux du [roublard](./Roublard.md) ou du [barde](./Barde.md) qui souhaite améliorer ses capacités de combattant, mais qui, parce qu'il ne porte pas d'[armure lourde](./armure lourde.md), hésite à engager la lutte. Les duellistes sont en première ligne, aux côtés des [guerriers](./Guerrier.md), des [barbares](./Barbare.md) et autres amateurs de corps à corps. Ils évitent avec aisance les lames de leurs adversaires et trouvent la faille dans leur défense avec tout autant d'expertise.
+
+**Alignement.** Les duellistes peuvent choisir n'importe quel alignement, mais comme la plupart d'entre eux ont un passé de [roublard](./Roublard.md) ou de [barde](./Barde.md), ils sont rarement [Loyaux](./Loyal.md). Ceux qui embrassent cependant ce comportement adhèrent souvent à un strict code de l'honneur et refusent d'attaquer un adversaire désarmé ou visiblement inférieur.
+
+**Dés de vie.** d10.
+
+### Conditions
+Pour devenir un duelliste, il faut satisfaire aux conditions suivantes.
+
+**Bonus de base à l’attaque.** +6.
+
+**Compétences.** Rang 2 en [Acrobaties](./Acrobaties.md), Rang 2 en [Représentation](./Représentation.md).
+
+**Dons.** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)
+
+### Compétences de la classe
+Les compétences du duelliste (et la caractéristique dont chacune dépend) sont : [Acrobaties](./Acrobaties.md) (Dex), [Bluff](./Bluff.md) (Cha), [Évasion](./Évasion.md) (Dex), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (Cha).
+
+**Points de compétence à chaque niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Caractéristiques de la classe
+Voici les particularités et aptitudes de la classe de prestige du duelliste.
+
+#### Armes et armures
+Le duelliste est formé au maniement de toutes les [armes courantes](./arme courante.md) et de [guerre](./arme de guerre.md), et au port des [armures légères](./armure légère.md), mais pas au maniement des boucliers.
+
+{s:Reference|DEFENSEASTUCIEUSE}
+#### Défense astucieuse (Ext)
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#9) Duelliste, Défense astucieuse : Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?***
+
+Un <u>[duelliste](./Duelliste.md#DEFENSEASTUCIEUSE)</u> ajoute son bonus d'Intelligence à sa CA (et non à son bonus de Dextérité à la CA). Il perd ce bonus d'Intelligence à la CA dans toutes les situations où il est privé de son bonus de Dextérité à la CA.
+Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.
+Ce bonus d'Intelligence à la CA s'applique également à la CA de contact.
+---
+***[→](./FAQ- Manuel des joueurs (Races et classes).md#10) Duelliste, Défense astucieuse : La capacité de défense astucieuse s'ajoute-t-elle au DMD ?***
+
+Depuis la 6ème impression du *Manuel des joueurs*, la capacité de <u>[défense astucieuse](./Duelliste.md#DEFENSEASTUCIEUSE)</u> confère un bonus d'esquive à la CA. Ce bonus s'ajoute donc au DMD du duelliste.}Quand il porte une [armure légère](./armure légère.md) ou pas d'armure du tout, et aucun bouclier, et qu’il manie une [arme de corps à corps](./arme de corps à corps.md), le duelliste ajoute 1 point de bonus d’[Intelligence](./Intelligence.md) (s’il en a un) par niveau de duelliste à sa [CA](./CA.md) en tant que bonus d'esquive. Lorsque le personnage est pris au dépourvu ou qu’il perd son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) d’une façon ou d’une autre, il perd aussi ce bonus.
+
+{s:Reference|ATTAQUEPRECISE}
+#### Attaque précise (Ext)
+Le duelliste peut frapper avec précision avec une [arme perforante légère](./arme légère.md) ou à une main. Il ajoute alors son niveau de duelliste à son [jet de dégâts](./jet de dégâts.md).
+
+Pour porter une attaque précise, le duelliste ne doit pas attaquer avec sa main secondaire ni tenir un bouclier. L’attaque précise du duelliste ne peut être utilisée que contre des créatures vivantes ayant une anatomie discernable. Les créatures immunisées contre les [coups critiques](./coup critique.md) sont aussi immunisées contre les attaques précises et tout objet ou pouvoir protégeant une créature contre les [coups critiques](./coup critique.md) la protège aussi contre les attaques précises.
+
+{s:Reference|REACTIONACCRUE}
+#### Réaction accrue (Ext)
+Au niveau 2, un duelliste obtient un bonus de +2 aux tests d’[Initiative](./initiative.md). Au niveau 8, ce bonus passe à +4. Il se cumule avec le bonus accordé par le don [Science de l'initiative](./Science de linitiative.md).
+
+{s:Reference|PARADE}
+#### Parade (Ext)
+Au niveau 2, un duelliste apprend à parer les attaques des autres créatures. Lorsque le personnage choisit d'effectuer une [attaque à outrance](./attaque à outrance.md) avec une [arme perforante légère](./arme légère.md) ou à une main, il peut décider de sacrifier l'une de ses attaques. À n'importe quel moment avant le prochain tour, il peut parer une attaque le visant lui ou un allié adjacent, et cette action sera considérée comme une [action immédiate](./Action immédiate.md). Pour effectuer cette parade, le duelliste fait un [jet d'attaque](./jet dattaque.md) en utilisant le bonus de l’attaque qu'il a choisie de sacrifier à son action précédente. Si le résultat est supérieur à celui de son adversaire, l'attaque de ce dernier échoue automatiquement. Si la créature est plus grande que lui, le personnage subit un malus de -4 par [catégorie de taille](./catégorie de taille.md) supérieure. Il subit également un malus de -4 s'il décide de parer un coup destiné à un allié adjacent. Le duelliste déclare son intention après l'annonce de l'attaque, mais avant le jet de dé.
+
+{s:Reference|GRANDESOUPLESSE}
+#### Grande souplesse (Ext)
+Quand il ne porte pas d'armure plus encombrante qu'une [armure légère](./armure légère.md) et aucun bouclier, un duelliste de niveau 3 obtient un bonus supplémentaire de +4 à la [CA](./CA.md) contre les [attaques d’opportunité](./attaque dopportunité.md) qu’il provoque lorsqu’il quitte une case contrôlée.
+
+{s:Reference|ATTAQUEREFLEXE}
+#### Attaque réflexe
+Au niveau 4, et s'il utilise une [arme perforante légère](./arme légère.md) ou à une main, le duelliste gagne les avantages du don [Attaques réflexes](./Attaques réflexes.md).
+
+{s:Reference|STYLE}
+#### Style (Ext)
+Au niveau 4, un duelliste obtient un bonus de compétence de +2 sur les jets de [Réflexes](./Réflexes.md), à condition de ne porter qu'une [armure légère](./armure légère.md) ou pas d'armure du tout et pas de bouclier.
+
+{s:Reference|RIPOSTE}
+#### Riposte (Ext)
+À partir du niveau 5, le duelliste peut effectuer une [attaque d'opportunité](./attaque dopportunité.md) sur une créature dont il a paré l'attaque avec succès, tant que ladite créature est à portée.
+
+{s:Reference|CHARGEACROBATIQUE}
+#### Charge acrobatique (Ext)
+À partir du niveau 6, le duelliste est capable de [charger](./charge.md) dans des situations où d’autres personnages ne le peuvent pas. Il peut [charger](./charge.md) sur un [terrain difficile](./terrain difficile.md) qui handicape le mouvement. Selon les circonstances, il peut être amené à effectuer les tests appropriés pour se déplacer sans encombre.
+
+{s:Reference|PARADEELABOREE}
+#### Parade élaborée (Ext)
+Un duelliste de niveau 7 qui choisit de [combattre sur la défensive](./combattre sur la défensive.md) ou d’utiliser l’action de [défense totale](./défense totale.md) au corps à corps obtient un bonus supplémentaire d’esquive à la [CA](./CA.md) de +1 tous les trois niveaux de duelliste.
+
+{s:Reference|PARADEDEPROJECTILES}
+#### Parade de projectiles
+Au niveau 9, un duelliste obtient les avantages du don [Parade de projectiles](./Parade de projectiles.md) s’il utilise une [arme perforante légère](./arme légère.md) ou à une main. Il n'a pas besoin d'avoir une main de libre pour utiliser ce don.
+
+{s:Reference|PASDERETRAITE}
+#### Pas de retraite (Ext)
+Au niveau 9, le duelliste bénéficie d'une [attaque d'opportunité](./attaque dopportunité.md) sur les ennemis adjacents qui entreprennent une action de [retraite](./retraite (action).md).
+
+{s:Reference|MUTILATION}
+#### Mutilation (Ext)
+Lorsque le duelliste confirme un [coup critique](./coup critique.md) avec une [arme perforante légère](./arme légère.md) ou à une main, il lui est possible d'appliquer l’une des pénalités suivantes en plus des dommages infligés :
+- réduire toutes les vitesses d'action de la cible de 3 m (2 cases) (jusqu'à minimum de 1,50 m (1 case)), 
+- infliger 1d4 points de dommages à la [Force](./Force.md) ou à la [Dextérité](./Dextérité.md), 
+- infliger une pénalité de -4 à tous les [jets de sauvegarde](./jet de sauvegarde.md), une pénalité de -4 à la [CA](./CA.md) ou 2d6 points de dégâts de [saignement](./Saignement.md). 
+
+Ces pénalités durent une minute, à l'exception des dommages aux [caractéristiques](./Caractéristiques.md) (qui doivent être soignés normalement) et des dommages de [saignement](./Saignement.md) (qui cesseront si la victime reçoit des soins magiques, ou sur un jet de compétence de [Premiers secours](./Premiers secours.md) contre un [DD](./DD.md) 15).

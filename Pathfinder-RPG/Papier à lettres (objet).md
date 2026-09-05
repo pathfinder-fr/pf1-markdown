@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Papier à lettres (objet)
+Title: Papier à lettres
+LastModified: 2021-09-16 22:04
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Généralement utilisé par les plus riches, le papier à lettres de luxe consiste en une feuille de très bonne qualité de 23 centimètres par 15, souvent avec le seau du propriétaire imprimé ou en relief.

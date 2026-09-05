@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.sous-type changepeau
+Title: Changepeau (sous-type)
+LastModified: 2020-12-23 20:34
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 5
+---
+
+{s:MenuTypes}*Source : Bestiaire 5* p.313
+
+Ce sous-type s’applique à la race d’humanoïdes appelés [changepeaux](./Changepeau.md), des êtres semblables aux lycanthropes mais victimes d’une malédiction différente.

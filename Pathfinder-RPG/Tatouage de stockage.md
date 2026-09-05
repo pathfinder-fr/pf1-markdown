@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Tatouage de stockage
+Title: Tatouage de stockage
+LastModified: 2024-05-29 19:35
+Categories:
+- Objet mag
+- Règle officielle
+- Src Magie de la mer Intérieure
+---
+
+<div class="BD">
+{s:BDTitre|Tatouage de stockage|{s:MMI}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** aucun ([tatouage](./Tatouages magiques.md)) ; **Prix** 10 000 po ; **Poids** —
+(((Description)))
+Une fois par jour et par une [action simple](./Action simple.md), le porteur peut transférer un sort en cours d’effet de niveau 3 maximum qui cible une cible unique. Le porteur doit avoir lancé le sort sur lui-même. Une fois stocké dans le tatouage, les effets du sort disparaissent et sa durée est également suspendue. Par une action simple, le porteur peut réactiver le sort sur lui-même. Les sorts stockés dans un *tatouage de stockage* sont perdus dès que son porteur prépare ses sorts.
+(((Création)))
+**Conditions** [Création de tatouages magiques](./Création de tatouages magiques.md), *[négation de l’invisibilité](./Négation de linvisibilité.md)* ; **Coût** 5 000 po
+</div>

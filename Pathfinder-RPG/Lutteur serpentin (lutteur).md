@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Lutteur serpentin (lutteur)
+Title: Lutteur serpentin
+LastModified: 2023-05-28 18:44
+Categories:
+- Archétype
+- Archétype lutteur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypelutteur}{s:mca}*Doté d’une ruse et d’une rapidité surprenante, un lutteur serpentin focalise l’attention de ses adversaires sur lui car chacune de ses feintes peut se muer en attaque soudaine. En concédant certains aspects de la polyvalence d’un lutteur, il augmente son potentiel de dégâts et expose ses adversaires à des frappes mortelles et inattendues.*
+
+#### Compétences de classe
+[Bluff](./Bluff.md) et [Discrétion](./Discrétion.md) sont des compétences de classe pour le lutteur serpentin, mais [Intimidation](./Intimidation.md) ne l’est plus.
+
+#### Attaque sournoise (Ext)
+Au niveau 1, le lutteur serpentin peut effectuer des [attaques sournoises](./Roublard.md#ATTAQUESOURNOISE), comme avec le pouvoir de [roublard](./Roublard.md) du même nom. Elles infligent +1d6 points de dégâts au niveau 1. Les dégâts augmentent de +1d6 aux niveaux 6, 10, 12 et 20. S’il acquiert un bonus d’attaque sournoise par le biais d’une autre source, les bonus aux dégâts se cumulent. Cette aptitude remplace flexibilité martiale.
+
+#### Feinte du serpent (Ext)
+Au niveau 3, un lutteur serpentin qui effectue une [action simple](./Action simple.md) pour se déplacer peut combiner ce déplacement avec une [feinte](./feinte.md). S’il peut effectuer une feinte par une [action de mouvement](./Action de mouvement.md) (par exemple, s’il possède le don [Science de la feinte](./Science de la feinte.md)), il peut se déplacer par une [action de mouvement](./Action de mouvement.md) et effectuer une [feinte](./feinte.md). Au niveau 11 et une fois par round, il peut désigner sa case et une case adjacente comme emplacement d’origine de ses attaques jusqu’à la fin de son prochain tour (ce qui lui permet d’utiliser un emplacement ou les deux pour déterminer si lui ou ses alliés prennent un adversaire en tenaille). Au niveau 15, il désigne une case adjacente supplémentaire dans le même but. Cette aptitude remplace l’entraînement aux manoeuvres offensives obtenu aux niveaux 3 et 7.
+
+#### Opportuniste (Ext)
+Au niveau 11 et une fois par round, le lutteur serpentin peut effectuer une [attaque d’opportunité](./AO.md) contre un adversaire qui vient tout juste de subir des dégâts suite à une attaque au corps à corps effectué par un autre personnage. Cette attaque est considérée comme une attaque d’opportunité pour le round en cours. Il ne peut pas utiliser cette aptitude plus d’une fois par round, même s’il possède le don [Attaques réflexes](./Attaques réflexes.md) ou une aptitude similaire. Au niveau 19, il peut utiliser cette aptitude deux fois par round. Elle remplace l’entraînement aux manoeuvres offensives obtenu aux niveaux 11 et 19.

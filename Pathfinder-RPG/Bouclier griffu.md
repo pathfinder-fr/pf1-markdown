@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Bouclier griffu
+Title: Bouclier griffu
+LastModified: 2024-05-23 16:33
+Categories:
+- Objet mag bouclier
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Bouclier griffu|{s:MCA}}
+**Aura** [Nécromancie](./Nécromancie.md) modérée ; **NLS** 9 ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 8 158 po ; **Poids** 4 kg
+(((Description)))
+Ce bouclier en os et en ivoire a été investi de magie pour fonctionner comme un écu en acier et en [mithral](./mithral.md) +2 (mais il n’est pas considéré comme un bouclier en métal). La bordure extérieure du bouclier est ornée de griffes d’animaux stylisées. Si le personnage est [agrippé](./Agrippé.md), [immobilisé](./Immobilisé.md) ou [englouti](./Engloutissement (capacité).md), il peut, par une [action simple](./Action simple.md), animer les griffes de son bouclier et porter une seule attaque au corps à corps infligeant 1d8 points de dégâts + son modificateur de [Force](./Force.md) (1d6 + son modificateur de [Force](./Force.md) s’il est de taille P) sans avoir besoin de réussir de test de manœuvre offensive. Cette action est considérée comme une attaque d’arme à une main, au maniement de laquelle le personnage est formé, non comme un coup de bouclier. En outre, les griffes peuvent s’animer pour réaliser les composantes gestuelles d’un sort à partir du moment où le bras qui tient le bouclier serait lui-même en mesure d’effectuer ces gestes s’il ne portait pas le bouclier. En conséquence, le bouclier n’impose pas de risque d’échec des sorts profanes.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* ; **Coût** 4 158 po
+</div>

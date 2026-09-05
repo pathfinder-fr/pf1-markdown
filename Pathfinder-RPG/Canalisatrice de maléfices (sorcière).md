@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Canalisatrice de maléfices (sorcière)
+Title: Canalisatrice de maléfices
+LastModified: 2023-05-28 13:47
+Categories:
+- Archétype
+- Archétype sorcière
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypesorcière}{s:mca}*Une canalisatrice de maléfices est une sorcière qui se voue à la vie (elle soigne les blessés et détruit les morts-vivants) ou à la mort (elle tue les vivants et soutient les morts-vivants). *
+
+#### Canalisation d’énergie (Sur)
+Au niveau 2, une canalisatrice de maléfices peut invoquer l’aide de son protecteur pour créer une vague d’énergie provenant d’elle-même ou de son familier. Une sorcière Bonne canalise l’énergie positive (comme un prêtre Bon) et une sorcière Mauvaise canalise l’énergie négative (comme un prêtre Mauvais). Une sorcière ni Bonne ni Mauvaise choisit de canaliser l’énergie positive ou négative et ce choix est définitif.
+
+La canalisation d’énergie produit un rayonnement qui affecte toutes les créatures du même type (mort-vivant ou vivant) dans
+un rayon de 9 mètres centré sur la sorcière.
+
+Celle-ci peut canaliser l’énergie un nombre de fois par jour égal à 3 + son modificateur de Charisme (minimum 1). Cette aptitude fonctionne, par ailleurs, comme celle du prêtre lorsqu’il canalise l’énergie, sauf que la sorcière n’a pas besoin d’un symbole sacré pour l’utiliser.
+
+La canalisatrice de maléfices remplace le niveau de prêtre par son niveau de sorcière pour tous les autres effets qui dépendent de la canalisation d’énergie (à l’exception de l’augmentation des dégâts soignés ou infligés). Elle peut inclure ou non sa personne et/ou son familier dans la zone d’effet de la canalisation.
+
+Ce rayonnement soigne ou inflige 1d6 points de dégâts. Chaque fois que la canalisatrice de maléfices à l’occasion d’apprendre un nouveau maléfice (y compris des maléfices majeurs et des grands maléfices, mais pas ceux obtenus via le don Maléfice supplémentaire), elle peut, à la place, augmenter le montant
+de sa canalisation d’énergie de 1d6. Cette aptitude remplace le maléfice obtenu au niveau 2.
+
+#### Maléfices
+Les maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [guérison](./maléfices.md#Guérison), [dépérissement](./maléfices.md#Dépérissement), [tremper dans le poison](./maléfices.md#Tremperdanslepoison), [sceau](./maléfices.md#Sceau).
+
+#### Maléfices majeurs
+Les maléfices majeurs suivants viennent compléter l’archétype de canalisatrice de maléfices : [agonie](./maléfices.md#Agonie), [blessures infectées](./maléfices.md#Blessuresinfectées), [cuisiner les gens](./maléfices.md#Cuisinerlesgens), [guérison majeure](./maléfices.md#Guérisonmajeure), [représailles](./maléfices.md#Représailles).
+
+====Grands maléfices==== Les grands maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [convocation d'esprit](./maléfices.md#Convocationdesprit), [donneuse de vie](./maléfices.md#Donneusedevie), [malédiction mortelle](./maléfices.md#Malédictionmortelle), [sinistre prophétie](./maléfices.md#Sinistreprophétie).

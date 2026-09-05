@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Menteur compulsif
+Title: Menteur compulsif
+LastModified: 2023-01-25 15:04
+Categories:
+- Sort barde 1
+- Sort hypnotiseur 1
+- Sort magicien 2
+- Sort psychiste 2
+- Sort sorcière 2
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}**École**  [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Hyp](./Hypnotiseur.md) 1, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** [contact](./contact.md)
+**Cibles** créature touchée
+**Durée** 1 heure/niveau (T)
+**Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
+
+La cible devient incapable de dire la vérité. Les mensonges proférés n'ont besoin d'être ni convaincants ni cohérents entre eux, mais ils ne peuvent pas être vrais pour autant que la cible le sache. Cet effet s'étend à la communication non-verbale, comme le langage des signes ou les notes écrites. Le sort permet de parler en métaphores et à propos de personnages fictifs.
+
+Ce sort ne limite pas la capacité de la cible à dire des choses qui ne sont ni vraies ni fausses, comme poser des questions, donner des ordres, ou prononcer des composantes de sort verbales. Si la cible de ce sort est simultanément contrainte à dire la vérité (par exemple, si elle se trouve dans une *[zone de vérité](./Zone de vérité.md)*), elle ne peut dire que des choses qui ne sont ni vraies ni fausses.

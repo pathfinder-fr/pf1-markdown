@@ -1,0 +1,73 @@
+---
+Name: Pathfinder-RPG.Moustique géant
+Title: Moustique, Moustique géant
+LastModified: 2023-01-15 17:33
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Moustique géant|FP 6}
+{s:pucem|Vermine|Marais|Tempéré}
+{s:BDTexte|*Source : Bestiaire 2, p.203*}
+{s:BDTexte|**PX** 2 400}
+{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
+{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 17, pris au dépourvu 12 (Dex +7, naturelle +2)}
+{s:BDTexte|**pv** 60 (8d8+24)}
+{s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +3}
+{s:BDTexte|**Immunités** effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|**Corps à corps** morsure, +10 (1d8+6 plus [étreinte](./Étreinte.md), maladie et [saignement](./Saignement.md))}
+{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution), [saignement](./Saignement.md) (2d4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 25, **Con** 17, **Int** —, **Sag** 13, **Cha** 6}
+{s:BDTexte|**BBA** +6, **BMO** +10 (+14 lutte), **DMD** 27 (35 contre [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** +8 en [Perception](./Perception.md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** marécages tempérés ou tropicaux}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou nuée (3–12)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Maladie (Ext).** Malaria : Morsure — blessure ; *JdS* Vigueur DD 17 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 Con et 1d3 Sag ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de moustique
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Moustique géant](./Moustique géant.md) || 6
+|-
+| [Nuée de moustiques](./Nuée de moustiques.md) || 3
+|}
+</div>*Un ventre rouge et boursouflé pendouille sous ce gigantesque moustique qui bat frénétiquement des ailes.*
+
+Les moustiques géants sont des répliques
+gigantesques et horribles des moustiques communs.
+Ce sont de véritables assassins volants. Un
+moustique géant peut absorber le sang d’un humain
+adulte avec une rapidité étonnante et une nuée de
+moustiques de la taille d’un poing peut dévaster
+des troupeaux de bétail ou des villages entiers.
+Les moustiques géants sauvages se nourrissent en
+s’attaquant aux animaux gigantesques comme les
+dinosaures et les créatures de taille similaire.
+
+Les moustiques géants peuvent atteindre
+1,80 mètre de longueur et peser jusqu’à 75 kg. Il
+existe plusieurs variantes de moustiques géants
+mais ces créatures ne sont pas aussi diversifiées
+que les autres vermines géantes. La variante la plus
+commune est le moustique gobelin (un moustique
+géant modifié par l’archétype « créature jeune ») mais
+certains récits parlent de moustiques de la jungle
+de taille G (des moustiques géants modifiés par les
+archétypes « créature évoluée » et « créature géante »).
+</div></td></tr></table>

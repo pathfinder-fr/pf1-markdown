@@ -1,0 +1,13 @@
+---
+Name: Golarion.Charogne
+Title: Charogne
+LastModified: 2010-11-17 18:27
+Categories:
+- Géographie
+- Ustalav
+- Ville
+---
+
+La cité de Charogne est située dans le comté de [Versex](./Versex.md) en [Ustalav](./Ustalav.md).
+
+Il s'agit d'une petite ville étrange, située au sommet d'un mont surnaturel et inhabité. La raison pour laquelle les habitants s'y sont installés n'est pas claire, mais toujours est-il qu'ils y vivent.

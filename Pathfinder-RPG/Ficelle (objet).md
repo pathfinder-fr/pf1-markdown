@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ficelle (objet)
+Title: Ficelle (15 m)
+LastModified: 2021-09-24 19:27
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pc ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Vendue en pelote ou en bobine, la ficelle permet d'improviser des pièges et des systèmes d'alarme, ou de ramener un objet hors d'atteinte à soi en l'attachant à une flèche ou un carreau. La ficelle a une [solidité](./solidité.md) de 0,1 point de vie et le [DD](./DD.md) pour la briser est de 14.

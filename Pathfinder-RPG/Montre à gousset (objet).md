@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Montre à gousset (objet)
+Title: Montre à gousset
+LastModified: 2021-10-24 18:55
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 250 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette horloge miniature est assez petite pour être portée.

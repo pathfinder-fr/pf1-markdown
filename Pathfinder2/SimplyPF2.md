@@ -1,0 +1,101 @@
+---
+Name: Pathfinder2.SimplyPF2
+Title: SimplyPF2e
+LastModified: 2025-05-29 12:08
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Planches SimplyPF2e</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Index](./SimplyPF2.md)
+[Personnages](./SimplyPF2 Personnages.md)
+[Jouer](./SimplyPF2 Jouer.md)
+[États](./SimplyPF2 États.md)
+[Combats](./SimplyPF2 Combats.md)
+[Actions](./SimplyPF2 Actions.md)
+[Dieux](./SimplyPF2 Dieux.md)
+</div>
+</div>
+
+Les planches suivantes ont été créées (en VO) par u/Quinnstone42 (lien [Twitter](https://twitter.com/QuinnStone42) ; images en VO disponibles sur [ce site](https://quinnstone42.wixsite.com/simplypf2e), lien [Patreon](https://www.patreon.com/simplypf2e)). Utilisez les onglets ci-dessus pour naviguer entre les différentes catégories.
+
+Les illustrations utilisent la police OpenDyslexic disponible sur [https://opendyslexic.org/](https://opendyslexic.org/).
+
+Compilations des planches au format PDF : Planches [0 à 20](.//Wiki/public/Upload/ADJ/PF2/SimplyPF2/SimplyPF2_000-020-pdf.md), [21 à 41](.//Wiki/public/Upload/ADJ/PF2/SimplyPF2/SimplyPF2_021-041-pdf.md)
+
+<img src="/ADJ/PF2/SimplyPF2/0 - titre.webp" class="centre cadre" alt="">
+<a href="#TocContainerTable" style="float: right; font-decoration: italic">Vers le haut de la page</a>
+
+### Liste des planches, dans l'ordre de parution inverse
+
+- 69 - Action : Se relever
+- 68 - État : caché
+- 67 - Action : Désigner
+- 66 - Torag
+- 65 - Action : Chercher
+- 64 - État : étourdi
+- 63 - Action : Maintenir un sort
+- 62 - Sarenrae
+- 61 - État : fatigué
+- 60 - Action : ramper
+- 59 - Asmodéus
+- 58 - Action : Se mettre à l'abri
+- 57 - Gorum
+- 56 - État : à terre
+- 55 - Action : Se jeter à terre
+- 54 - Norgorber
+- 53 - État : paralysé
+- 52 - Action : Lever un bouclier
+- 51 - Gozreh
+- 50 - État : effrayé
+- 49 - Action : Démoraliser
+- 48 - Calistria
+- 47 - Action : Intéragir
+- 46 - État : maladroit
+- 45 - Iomédae
+- 44 - État : aveuglé
+- 43 - Action : Faire un pas
+- 42 - Caiden Cailéan
+- 41 - Action : Relâcher
+- 40 - Armes : types de dégâts
+- 39 - Ralenti
+- 38 - Les actions
+- 37 - Action : S'avancer
+- 36 - Prise en tenaille
+- 35 - État : pris au dépourvu
+- 34 - Points d'héroïsme
+- 33 - Frappes à distance
+- 32 - Frappes au corps à corps
+- 30/31 - Degrés de détection
+- 29 - Niveau des objets
+- 28 - Érastil
+- 27 - Solidité
+- 26 - Équipement
+- 25 - Pharasma
+- 24 - Encombrement
+- 23 - Écoles de magie
+- 22 - Desna
+- 21 - Le repos
+- 20 - Néthys
+- 19 - Emplacements de sorts
+- 18 - Traditions magiques
+- 17 - Lamashtu
+- 16 - Compétences
+- 15 - Bonus de maîtrise
+- 14 - Abadar
+- 13 - États/conditions
+- 12 - Allonge
+- 11 - Portée
+- 10 - Taille et espace
+- 9 - Dons
+- 8 - Caractéristiques et modificateurs
+- 7 - ABC de la création de personnages
+- 6 - Traits
+- 5 - Tests et Degrés de Difficulté
+- 4 - Mode temps libre
+- 3 - Mode exploration
+- 2 - Mode rencontre
+- 1 - Modes de jeu

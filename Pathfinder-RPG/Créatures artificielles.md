@@ -1,0 +1,251 @@
+---
+Name: Pathfinder-RPG.Créatures artificielles
+Title: Créatures artificielles
+LastModified: 2024-08-28 16:14
+Categories:
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:um}Le don [Création de créatures artificielles](./Création de créatures artificielles.md) permet à un lanceur de sorts de créer toutes sortes de créatures artificielles permanentes, selon un processus qui ressemble à celui de fabrication des objets magiques.
+
+Chaque créature artificielle a un prix d’achat et un prix de fabrication, ainsi qu’une liste de conditions et de compétences requises pour la fabriquer. Certaines exigent des matériaux spéciaux en sus du prix de base, qui servent habituellement à fabriquer le corps de la créature.
+
+Les matériaux spéciaux augmentent le prix d’achat et de construction de la créature.
+
+Le [DD](./DD.md) de création de la créature artificielle est de 5 + [niveau de lanceur de sorts](./NLS.md) de la créature, comme pour un objet magique. Comme lors de la création d’objets magiques, si le créateur a un bonus de compétence suffisamment élevé, il peut ignorer les conditions requises. À chaque fois qu’il ne remplit pas une condition, le [DD](./DD.md) du test d’[Artisanat](./Artisanat.md) augmente de 5. Le créateur doit toujours disposer des dons et du niveau de lanceur de sorts minimal pour créer la créature. Il doit passer 1 jour à la fabriquer par tranche de 1000 po du prix de base de l’objet, sans compter les matériaux
+spéciaux. Ce processus est identique à celui qui permet de [créer un objet magique](./Création dobjets magiques.md), y compris les règles pour accélérer la création et gérer les interruptions.
+
+#### Les objets animés
+Toutes les créatures artificielles ne sont pas le fruit du don [Création de créatures artificielles](./Création de créatures artificielles.md).
+
+Les sorts comme *[animation d’objets](./Animation dobjets.md)* permettent au lanceur de sorts d’animer temporairement un objet qui existe déjà. Ces créatures artificielles sont plus faibles que les permanentes car elles sont sujettes à la dissipation et à l’antimagie.
+
+Un lanceur de sorts peut utiliser *[animation d’objets](./Animation dobjets.md)* pour créer instantanément une créature artificielle temporaire. S’il jette un sort de *[permanence](./Permanence.md)* dessus, l’objet s’anime de façon permanente mais il est tout de même sensible à la dissipation de la magie et à l’antimagie. La [Création de créatures artificielles](./Création de créatures artificielles.md) permet de fabriquer des objets animés permanents qui ne seront pas affectés par une dissipation de la magie ou une zone d’antimagie. Le [FP](./FP.md) des [objets animés](./Objet animé.md) potentiels dépend de leur taille et de leurs capacités.
+
+<div class="BD">
+{s:BDTitre|Objet animé}
+{s:BDTexte|**NLS** 11 ; **Prix** selon le FP}
+{s:BDSousTitre|Description}
+{s:BDTexte|**Conditions requises.** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md)* ; **Compétences.** [Art de la magie](./Art de la magie.md) ou [Artisanat](./Artisanat.md) approprié ; **Prix** 1/2 prix}
+
+</div>
+#### Capacités des objets animés
+Voici la liste des capacités applicables aux [objets animés](./Objet animé.md), qu’ils aient été créés par un sort d’*[animation d’objets](./Animation dobjets.md)* ou avec le don [Création de créatures artificielles](./Création de créatures artificielles.md).
+
+Pour les appliquer, il faut [dépenser des points de construction](./Objet animé.md) (PC).
+
+- {s:um}**Allonge exceptionnelle (Ext, 1 PC).** L’objet gagne une [allonge](./allonge.md) de 1,50 mètre (1 {s:c}) pour une [attaque au corps à corps](./attaque au corps à corps.md). Augmente l’allonge de toutes les attaques pour 1 PC de plus.</br>
+- {s:um}**Attaque améliorée (Ext, 1 PC).** Toutes les [attaques à distance](./Attaque à distance.md) et au [corps à corps](./attaque au corps à corps.md) de l’objet animé infligent les mêmes dégâts que s’il était d’une [catégorie de taille](./Caractéristiques des armes.md#TAILLEARME) au-dessus de la sienne. L’artisan doit acheter les pouvoirs d’attaque améliorée séparément pour les armes de corps à corps et les armes à distance.</br>
+- {s:um}**Attaque à distance (Ext, 2 PC).** Remplace une attaque de coup par une [attaque à distance](./Attaque à distance.md) qui inflige le même montant de dégâts avec une portée de 6 mètres. Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 2 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques à distance.</br>
+- {s:um}**Attaque perforante (Ext, 1PC).** Remplace une attaque de coup par une attaque perforante qui inflige le même montant de dégâts mais possède un multiplicateur de [coup critique](./coup critique.md) de × 3. Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques perforantes.</br>
+- **Attaque supplémentaire (Ext, 1 PC).** Gagne une attaque de coup supplémentaire.</br>
+- {s:um}**Attaque tranchante (Ext, 1PC).** Remplace une attaque de coup par une attaque tranchante qui inflige le même montant de dégâts mais possède soit une [zone de critique](./zone de critique.md) possible de 19-20 (pour les attaques de type lame), soit un multiplicateur de [coup critique](./coup critique.md) de × 3 (pour les attaques de type faux). Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques tranchantes.</br>
+- **Constriction (Ext, 1 PC).** Ajoute la capacité de [constriction](./constriction.md) à l'attaque de coup (l'objet doit posséder la capacité d<nowiki>'</nowiki>*étreinte* avant de pouvoir choisir cette option).</br>
+- {s:um}**Critiques augmentés (Ext, 1 PC).** Augmente la [zone de critique](./zone de critique.md) possible des attaques de corps à corps d’un objet animé de 1 ou le multiplicateur de [coup critique](./coup critique.md) de 1. Ce pouvoir ne se cumule pas avec lui-même ni avec les pouvoirs d’attaque d’un objet perforant ou tranchant.</br>
+- {s:um}**Croc-en-jambe (Ext, 2 PC).** L’objet gagne le pouvoir spécial [croc-en-jambe](./Croc-en-jambe (capacité).md) pour l’une de ses attaques de coup.
+- **Etreinte (Ext, 1 PC).** Ajoute la capacité d'[étreinte](./Étreinte.md) aux attaques de coup.</br>
+- **Métal (Ext, 2 PC).** L'objet est fait d'un métal courant. Sa [solidité](./solidité.md) passe à 10 et son bonus d'armure naturelle augmente de +2. Les objets de [mithral](./mithral.md) coûtent 4 PC et ont une [solidité](./solidité.md) de 15 et un accroissement du bonus d'armure naturelle de +4. Les objets d'[adamantium](./../Golarion/adamantium.md) coütent 6 PC et ont une [solidité](./solidité.md) de 20 et un accroissement du bonus d'armure naturelle de +6.</br>
+- **Mouvement supplémentaire (Ext, 1 PC).** Gagne un nouveau mode de déplacement (creusement, escalade, vol <nowiki>[</nowiki>déplorable</nowiki>]<nowiki> ou nage) avec une vitesse égale à sa vitesse de déplacement de base.
+- **Pierre (Ext, 1 PC).** L'objet est fait de pierre ou de cristal. Sa [solidité](./solidité.md) passe à 8 et son bonus d'armure naturelle augmente de +1.</br>
+- **Piétinement (Ext, 2 PC):** Gagne la capacité de [piétinement](./Piétinement.md) (voir la description de la capacité pour les dégâts et les [DD](./DD.md) associés).</br>
+- **Plus rapide (Ext, 1 PC).** La vitesse d'un des modes de déplacement augmente de +3 m (2 {s:c}).</br>
+
+### Créer de nouvelles créatures artificielles
+En général, les créatures artificielles n’ont pas de valeur d’[Intelligence](./Intelligence.md) et une valeur de [Sagesse](./Sagesse.md) et de [Charisme](./Charisme.md) de 1. Leur [Dextérité](./Dextérité.md) va de médiocre à moyenne, même s’il existe des créatures artificielles d’une agilité exceptionnelle. Presque toutes les créatures artificielles de [taille M ou G](./taille.md) ont une valeur de [Force](./Force.md) élevée et ces êtres n’ont jamais de valeur de [Constitution](./Constitution.md).</br>
+Les [règles de création des monstres](./Créer un monstre.md) sont le meilleur guide à suivre pour créer une nouvelle créature artificielle. Il est conseillé que les nouvelles créations restent dans les normes des [tables des Valeurs-cibles](./Créer un monstre.md) des monstres selon leur [FP](./FP.md). Comme les créatures artificielles sont souvent des brutes combattantes sans intelligence, elles utilisent généralement la colonne « attaque forte » avec des dégâts situés entre les colonnes élevés et faibles. Les [jets de sauvegarde](./jet de sauvegarde.md) sont presque toujours faibles et elles n’ont pas de jet de prédilection. Comme elles ne possèdent pas de valeur de [Constitution](./Constitution.md), leurs points de vie sont inférieurs à ceux des créatures de même [FP](./FP.md). Pour compenser, donnez une [CA](./CA.md) plus importante aux créatures artificielles qui ne possèdent pas de [RD](./RD.md) ni de [solidité](./solidité.md).
+
+#### Déterminer le prix d’une nouvelle créature artificielle
+Cette partie donne des indications aux gens qui désirent calculer le coût de construction de leurs propres créatures artificielles. En gros, le prix de la créature est égal à son [facteur de puissance](./FP.md) au carré multiplié par 500 po. Le prix des créatures artificielles qui possèdent un [FP](./FP.md) sous forme de fraction se base sur la même fraction de 500 po. Par exemple, une créature [FP](./FP.md) 1/2 coûte 250 po. Le prix des matériaux magiques requis par le don de [Création de créatures artificielles](./Création de créatures artificielles.md) est égal à la moitié de ce prix et il faut consacrer 1 journée à la construction de la créature par tranche de 1 000 po du prix de base. Certaines créatures artificielles, dont les [golems](./Golem.md), nécessitent des composantes matérielles brutes coûteuses qu’il faut payer en totalité, même si le fabricant possède le don [Création de créatures artificielles](./Création de créatures artificielles.md). Ils coûtent entre 5 et 10% du prix de base de la créature.</br>
+Les créatures artificielles qui possèdent plusieurs pouvoirs spéciaux sont encore plus chères à fabriquer. Leur premier pouvoir est inclus dans leur prix de base, les deux suivants augmentent ce prix de +1/2 [FP](./FP.md) par pouvoir et ensuite, tout pouvoir supplémentaire ajoute +1 [FP](./FP.md). Voici quelques exemples de pouvoirs spéciaux : une [RD](./RD.md) supérieure à celle des créatures artificielles ordinaires de même [FP](./FP.md) (au-dessus de [RD](./RD.md) 5 pour des [FP](./FP.md) de 1 à 8 et au-dessus de [RD](./RD.md) 10 pour des [FP](./FP.md) de 9 et plus), des statistiques qui dépassent celles [recommandées en fonction du FP](./Créer un monstre.md), l’[immunité](./Immunité.md) habituelle du [golem](./Golem.md) à la magie, une [RD](./RD.md) ou une [solidité](./solidité.md) que les armes en [adamantium](./../Golarion/adamantium.md) ne peuvent pas ignorer, la capacité de se soigner complètement avec un seul sort et la plupart des attaques spéciales et des particularités.</br>
+Les pouvoirs spéciaux particulièrement puissants, comme un [bonus d’attaque](./bonus dattaque.md) très élevé pour un [golem de fer](./Golem de fer.md), comptent comme deux pouvoirs moins puissants. Les [objets animés](./Objet animé.md) représentent un cas à part : les pouvoirs obtenus à l’aide de points de construction n’augmentent pas le prix de base car ils sont déjà inclus dans le [FP](./FP.md) de l’[objet animé](./Objet animé.md). De plus, le prix des [golems](./Golem.md) et des [homoncules](./Homoncule.md) créés avec des [DV](./DV.md) supplémentaires, l’[archétype](./Archétypes.md) évolué ou des pouvoirs de garde animé est à fixer comme indiqué dans le Bestiaire et non en ajustant le prix en fonction du nouveau [FP](./FP.md).</br>
+Les pouvoirs qui affaiblissent la créature ou risquent de la désavantager réduisent rarement son prix, à l’exception du pouvoir fureur dévastatrice. Les créatures artificielles qui ont une chance de devenir berserk reçoivent un modificateur de [FP](./FP.md) de -1 lors du calcul de leur prix s’il est possible d’en reprendre le contrôle (comme un [golem de chair](./Golem de chair.md)) ou -2 si cette perte de contrôle est définitive (comme un [golem d’argile](./Golem dargile.md)).</br>
+Voici un exemple du calcul du prix de création d’un [golem de pierre](./Golem de pierre.md) ([FP](./FP.md) 11). Le [golem de pierre](./Golem de pierre.md) a pour pouvoirs spéciaux : guérison complète grâce à *[transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)*, immunité à la magie, un bonus de toucher élevé (+22 au lieu de +19 pour des créatures de [FP](./FP.md) 11) et il peut ralentir ses adversaires. De plus, comme ses vulnérabilités aux sorts ne sont pas liées à des sorts ou des effets courants, le prix de son immunité à la magie est doublé, ce qui lui donne un total de 5 pouvoirs spéciaux. Le premier pouvoir n’affecte pas le prix de base, les deux suivants l’augmentent chacun de 1/2 [FP](./FP.md) et les deux derniers de +1 [FP](./FP.md) chacun, pour un [FP](./FP.md) total de 14. Le prix de base est donc estimé à 98 000 po, arrondi à 100 000.</br>
+Quand vous créez une nouvelle créature artificielle, n’oubliez pas que la formule de détermination du prix donnée plus haut n’est qu’indicative. Comme pour les objets magiques, l’ajustement du prix tient plus de l’art que de la science et, comme pour eux, il vaut mieux comparer les nouvelles créations avec ce qui existe déjà. En cas de doute,
+choisissez l’option la plus chère.
+
+
+### Réparer des créatures artificielles
+Même en en prenant grand soin, la plupart des créatures artificielles finissent par s’abîmer. À moins que la créature
+ne subisse des dégâts qui modifient radicalement sa forme physique, celle-ci continue de fonctionner au maximum de ses possibilités et ne tombe en pièces qu’une fois réduite à 0 point de vie. Pourtant, dans l’idéal, il faudrait réparer la créature avant d’en arriver à ce stade. Un sort de *[réparation intégrale](./Réparation intégrale.md)* ou de *[réparation rapide](./Réparation rapide.md)*, voila le meilleur moyen de s’assurer que sa créature artificielle reste en bon état. Ces deux sorts réparent les créatures artificielles, même celles immunisées contre la magie comme les golems.</br>
+Sans cela, le créateur peut réparer sa créature à l’aide du don [Création de créatures artificielles](./Création de créatures artificielles.md). Il dépense alors 100 po par [DV](./DV.md) de la créature et doit faire un test d’[Artisanat](./Artisanat.md) comme pour sa création, avec un [DD](./DD.md) réduit de 5. En cas de réussite, la créature récupère 1d6 points de vie par [DV](./DV.md). Il faut 1 journée par tranche de 1 000 po dépensées pour réparer la créature (avec un minimum d’une journée). Ces réparations se font sur une créature inanimée ou désactivée. Le créateur peut, à tout moment, désactiver sa créature par un simple contact et une [action simple](./Action simple.md).</br>
+Il est impossible de réparer une créature détruite mais le MJ peut laisser le personnage réutiliser certains matériaux
+pour en fabriquer une nouvelle.</br>
+De plus, certaines constructions ont des moyens de réparation spéciaux qui nécessitent généralement un sort lié à leur nature (comme l’utilisation de dégâts d’acide pour soigner un [golem d’argile](./Golem dargile.md)).
+
+### Modifier une créature artificielle
+On peut modifier les créatures artificielles ordinaires pour améliorer leurs capacités de base, leur apparence ou leurs fonctions ou encore pour accomplir diverses tâches qui n’étaient pas prévues lors de leur conception.
+Les modifications permettent de fabriquer des créatures artificielles uniques. Ces modifications se font sur une
+créature inanimée ou désactivée.</br>
+Pour modifier sa propre créature, il faut utiliser le don [Création de créatures artificielles](./Création de créatures artificielles.md) et payer le prix associé à la modification et aux éventuels matériaux nécessaires. Il faut 1 journée par tranche de 1 000 po dépensées pour modifier la créature (avec un minimum d’une journée).
+
+#### Les modifications de base
+Ces modifications changent les propriétés de base d’une créature artificielle : la CA, les DV et les armes.
+
+**Modification de l’armure.** Cette modification ajoute un bonus d’altération à l’[armure naturelle](./CA.md) de la créature artificielle ou lui ajoute une [propriété magique d’armure](./Armures magiques.md). Le prix de l’altération magique est égal à celui des armures magiques.
+
+**Modification des dés de vie.** Les [DV](./DV.md) représentent la force et la puissance générales d’une créature artificielle. Ils affectent le nombre de pouvoirs qu’elle possède, ainsi que ses points de vie, ses jets de sauvegarde et ses bonus de base à l’attaque. On détermine les effets d’une telle modification à l’aide des [règles](./Créer un monstre.md) qui permettent d’ajouter des DV aux créatures. Comme les créatures artificielles ont une taille limitée, la modification des [DV](./DV.md) ne permet pas de les faire grandir. Les modifications de [DV](./DV.md) ne peuvent donc jamais augmenter les [DV](./DV.md) de la créature de plus de 50% de son total de [DV](./DV.md) de base. Certaines créatures artificielles ont un prix précis pour augmenter leurs [DV](./DV.md). Pour calculer le prix de l’augmentation des autres, il faut diviser le prix de construction par le nombre de [DV](./DV.md) qu’elle possède déjà.
+
+**Modification d’arme.** Ces modifications améliorent l’arsenal physique de la créature. Ce processus permet d’ajouter de véritables armes (comme des lames ou des chaînes cloutées) à la structure physique de la créature ou
+d’améliorer celles qu’elle possède déjà en leur ajoutant des [propriétés magiques](./Armes magiques.md). Les changements structuraux modifient seulement les dégâts de la créature artificielle. On considère que celle-ci sait automatiquement manier les armes que l’on ajoute à sa structure lors d’une modification. Le prix de l’ajout d’une arme dépend du prix de celle-ci ou du prix de l’altération ajoutée. Les [prix des altérations magiques](./Armes magiques.md) est le même que celui demandé pour créer une arme magique. Il faut disposer du don [Création d’armes et armures magiques](./Création darmes et armures magiques.md) pour faire une modification d’arme.
+
+**Modification de caractéristique.** Quand l’artisan utilise cette modification, il augmente de façon permanente l’une des valeurs de caractéristique de sa créature artificielle de +2 par modification. Il ne peut pas augmenter les caractéristiques qui possèdent une valeur de 0. Il faut dépenser 5 000 po pour augmenter une valeur de caractéristique de façon permanente.
+
+#### Les modifications complexes
+Ces modifications représentent des changements complexes apportés à la structure et au fonctionnement de la créature artificielle. Elles valent « niveau minimum pour lancer le sort × niveau du sort × 250 po. »
+
+<table width="100%"><tr><td width="49%">
+<div class="BD">
+{s:BDTitre|Modification de créatures artificielle biologique}
+{s:BDTexte|**Conditions requises.** [Création de créatures artificielles](./Création de créatures artificielles.md), *[régénération](./Régénération.md)* ; **Augmentation de FP.** +1 ; **Prix.** 22 750 po}
+{s:BDTexte|De puissants lanceurs de sorts mêlent l’art de la transmutation à celui de la nécromancie pour intégrer des organes vivants dans un golem et le doter de propriétés habituellement réservées aux êtres vivants. Ils placent ces organes dans des vases funéraires avec des fluides arcaniques spéciaux et les scellent dans le corps du golem, mais pas forcément à l’endroit anatomiquement prévu à cet effet. Chaque organe produit un effet spécifique et compte
+comme une amélioration distincte. Le prix des organes des créatures artificielles biologiques est cumulatif. Les améliorations biologiques fonctionnent uniquement sur les [golems](./Golem.md), il est impossible de les placer sur des [objets animés](./Objet animé.md).</br>
+Toutes les créatures artificielles biologiques ont la même faiblesse : elles sont vulnérables aux [coups critiques](./coup critique.md). Un attaquant qui confirme un coup critique inflige des dégâts au golem et détruit aussi une amélioration. L’amélioration endommagée cesse de fonctionner et la créature perd les pouvoirs qui lui étaient associés. Si une créature artificielle possède plus d’une amélioration biologique, un coup critique n’en endommage qu’une que le MJ détermine au hasard.</br>
+*Cœur.* Cette amélioration permet au golem de recevoir la moitié des avantages d’une guérison magique et lui donne des points de vie supplémentaires, comme s’il avait une Constitution de 12 mais la créature ne gagne pas de véritable Constitution. Les sorts d’énergie négative lancés sur le golem risquent d’affecter son cœur et de l’empêcher de fonctionner pendant la durée de l’effet (ou pendant 1 [round](./round.md) pour les effets instantanés). Si le sort autorise un [jet de sauvegarde](./jet de sauvegarde.md), le cœur utilise celui du golem.</br>
+*Cerveau.* Cette amélioration ne permet pas au golem de penser par lui-même mais lui sert de zone de stockage qui l’autorise à apprendre des compétences et des dons comme s’il avait une Intelligence de 10. Les sorts d’enchantement et les sorts à effet mental peuvent affecter le cerveau qui cesse de fonctionner pendant la durée du sort. Quand le cerveau est ainsi éteint, la créature artificielle perd temporairement l’usage de ses compétences et de ses dons. Si le sort autorise un [jet de sauvegarde](./jet de sauvegarde.md), le cerveau utilise celui du golem.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Une créature pour armure}
+{s:BDTexte|**Conditions requises.** [Création d’armes et armures magiques](./Création darmes et armures magiques.md),[Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md)* ; **Augmentation de FP.** +1 ; **Prix.** 35 000 po}
+{s:BDTexte|{s:FAQ|***[→](./FAQ- lArt de la magie.md#47) Une créature pour armure (page 114) : Comment les attaques peuvent-elles cibler une créature-armure ? Est-ce que je bénéficie de ses résistances, immunités et autres défenses ? Quels sont les « avantages » et les « inconvénients » mentionnés dans cette section ? La porter affecte-t-il ma vitesse ?***
+
+La <u>[créature pour armure](./Créatures artificielles.md#Les_modifications_complexes_4)</u> est traitée comme une [cuirasse](./cuirasse (armure).md) en terme de CA. Si quelque chose cible le personnage, il doit d’abord atteindre sa CA. Si cette chose le touche, l’attaque doit passer outre la RD, la solidité et les points de vie de la créature artificielle. Dans les faits, la créature-armure agit comme une réserve de points de vie temporaires : le personnage ne subit aucun dégât des attaques qui ciblent sa CA jusqu’à ce que la créature artificielle soit détruite.
+
+Les attaques qui ignorent la CA ignorent aussi sa protection et affectent le personnage normalement (ce qui inclut la plupart des zones d’effet). Si la créature artificielle est résistante ou immunisée à une attaque en particulier, l’attaque ignore sa protection et affecte le personnage normalement. Concrètement, la créature-armure est utile pour mitiger les dégâts des attaques au corps à corps et à distance, mais ne protège pas un personnage comme s’il était véritablement la créature artificielle qu’il porte.
+
+Par exemple, un [golem de bois](./Golem de bois.md) est immunisé à et est soignée par le froid ; si un personnage porte un golem de bois comme armure, le toucher avec un *[rayon de givre](./Rayon de givre.md)* ne blesse pas l’armure, soigne l’armure si l’attaque inflige au moins 3 points de dégâts de froid, et inflige 1d3 points de dégâts de froid au personnage. Pour les mêmes raisons, le personnage ne gagne pas les faiblesses de la créature artificielle ; ce n’est pas parce qu’un golem de bois est vulnérable au feu que le personnage subit 150% de dégâts de feu lorsqu’il porte un golem de bois comme armure.
+
+Les « avantages » font références au fait que la créature-armure est traitée comme une cuirasse et qu’elle agit comme une réserve de points de vie contre les attaques au corps à corps et à distance. Les « inconvénients » font référence au fait que la créature-armure est traitée comme une cuirasse.
+
+Étant donné que la section « compte comme une cuirasse » n’indique pas qu’elle affecte la vitesse du personnage (vraisemblablement parce que la créature artificielle est partiellement animée et capable de l’aider à se mouvoir), elle ne l’affecte pas.
+
+Mise à jour : Page 114 — Dans la modification Une créature pour armure, dans le premier paragraphe, dans la deuxième phrase, remplacez « touche d’abord la créature » par « inflige des dégâts à la créature ». Dans la troisième phrase, remplacez « récupère les inconvénients » par « conserve les inconvénients ».}Cette modification permet au créateur de la créature artificielle de la revêtir comme une armure. Tant qu’il la porte, elle ne peut pas entreprendre d’action indépendante et reste sous son contrôle. Toute attaque directe contre lui inflige des dégâts à la créature artificielle. Quand une créature artificielle est détruite alors qu’elle sert d’armure, son porteur perd tous les avantages qu’elle apportait mais conserve les inconvénients jusqu’à ce qu’il l’enlève, ce qui lui prend autant de temps que pour une [cuirasse](./Caractéristiques des armures.md#ENFILEROTER). Si la créature artificielle est encore active, son créateur peut lui ordonner de se retirer par une [action rapide](./Action rapide.md). La créature quitte alors la case de son créateur et entre dans une adjacente. Il faut une [action complexe](./Action complexe.md) pour revêtir une créature artificielle comme une armure si elle est active. C’est impossible si elle a été détruite.</br>
+Celui qui porte une créature artificielle comme armure conserve son [bonus de base à l’attaque](./BBA.md) et ses [jets de sauvegarde](./jet de sauvegarde.md). La créature artificielle compte comme une [cuirasse](./Tableau récapitulatif des armures.md) en ce qui concerne la CA, le poids, les modificateurs de Dextérité à la CA et les risques d’échec des sorts profanes.}
+</div>
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+<div class="BD">
+{s:BDTitre|Les yeux du créateur}
+{s:BDTexte|**Conditions requises.** [Création de créatures artificielles](./Création de créatures artificielles.md), *[scrutation](./scrutation.md)* ; **Augmentation de FP.** Aucune ; **Prix.** 8 000 po}
+{s:BDTexte|Le personnage donne à sa créature des yeux cristallins qui lui permettent d’utiliser un sort de *[scrutation](./scrutation.md)* ou *[scrutation suprême](./Scrutation suprême.md)* pour voir à travers les yeux de sa création. Cette modification exige que le personnage prépare également un orbe magique cristallin spécialement lié aux yeux, qui lui servira de [focaliseur](./focaliseur.md) pour le sort. Le prix de ce [focaliseur](./focaliseur.md) est compris dans celui de la modification.</br>
+Contrairement aux sorts de *[scrutation](./scrutation.md)* et de *[scrutation suprême](./Scrutation suprême.md)*, il n’y a aucun risque d’échec, le créateur voit simplement tout ce que voit sa créature pendant toute la durée du sort. Les sorts lancés à travers le récepteur que forment les yeux ont toujours autant de chances que d’habitude de fonctionner.}
+</div>
+
+<div class="BD">
+{s:BDTitre|Une créature pour bras}
+{s:BDTexte|**Conditions requises.** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md)*, créature artificielle
+[P ou TP](./taille.md) ; **Augmentation de FP.** Aucune ; **Prix.** 27 000 po}
+{s:BDTexte|Cette modification s’applique à une créature artificielle [P ou TP](./taille.md), comme un [cobra de fer](./Cobra de fer.md) ou un [homoncule](./Homoncule.md). Le personnage la modifie de façon à pouvoir la passer à son bras et la contrôler comme tel. Le bras artificiel conserve ses [attaques de corps à corps](./attaque au corps à corps.md) et le créateur peut utiliser ses attaques spéciales comme s’il était cette créature (en utilisant les statistiques d’attaque et les effets de la créature artificielle). En revanche, quand il s’agit de déterminer les [attaques d’opportunité](./attaque dopportunité.md) et autres actions déclenchées par une attaque du créateur, on considère que c’est bien ce dernier qui est à l’origine de l’attaque.</br>
+Le bras artificiel offre également à son porteur une protection limitée, à peu près égale à celle d’un [écu d’acier](./Tableau récapitulatif des armures.md). On considère que le personnage sait manier ce bouclier. Le personnage conserve le reste de ses pouvoirs.</br>
+Le bras artificiel compte comme un [écu d’acier](./Tableau récapitulatif des armures.md) quand il s’agit de déterminer la CA, le poids, les modificateurs de Dextérité à la CA et les risques d’échec des sorts profanes.}
+</div>
+</td></tr></table>
+
+#### Rune gravée
+<div class="BD">
+{s:BDTexte|**Conditions requises.** [Création de créatures artificielles](./Création de créatures artificielles.md), Variable (voir plus bas) ; **Augmentation de FP.** Aucune ; **Prix.** Variable (voir plus bas)}
+
+</div>
+Cette sous-catégorie de modification complexe permet au créateur de graver un déclencheur de sort runique dans sa création. Il choisit l’une des runes suivantes (le prix de la rune et ses éventuelles conditions requises sont indiquées dans sa description). Les effets de la rune se déclenchent une fois par jour, à la première occasion. Par une [action immédiate](./Action immédiate.md), le créateur peut tenter de retarder son effet jusqu’à la prochaine fois où quelque chose la déclenchera. Pour cela, la créature artificielle doit être dans la ligne de mire de son créateur (ou ce dernier doit utiliser *[scrutation](./scrutation.md)* ou *[scrutation suprême](./Scrutation suprême.md)* grâce à la modification yeux du créateur). Le lanceur de sorts doit réussir un test d’[Art de la magie](./Art de la magie.md) [DD](./DD.md) 10 + [niveau de lanceur de sorts](./NLS.md) de l’effet de la rune.</br>
+Une créature artificielle peut avoir plusieurs runes et même plusieurs du même type. Dans ce cas, la première se désactive après le premier déclenchement, puis la deuxième à la prochaine occasion et ainsi de suite. Diverses runes de types différents se désactivent dès qu’elles sont déclenchées, même si elles possèdent le même déclencheur.</br>
+On dit qu’il existe bien plus de runes que les suivantes mais ce sont les plus connues et les plus répandues chez les fabricants de créatures artificielles.
+
+<table class="page espace-col deuxcol"><tr><td>
+<div class="BD">
+{s:BDTitre|Rune d'agonie}
+{s:BDTexte|**Aura.** Nécromancie modérée ; **NLS** 9}
+{s:BDSousTitre|Déclenchement et effet}
+{s:BDTexte|Cette modification se déclenche dès que la créature artificielle subit des dégâts. Les créatures qui se trouvent dans un rayon de 6 mètres (4 {s:c})  doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 17 ou se tordre de
+douleur au point d’avoir un malus de -4 aux jets d’attaque et aux tests de compétence et de caractéristique pendant 1 minute. Si la créature réussit son jet de sauvegarde, le malus ne dure qu’un [round](./round.md).}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Symbole de douleur](./Symbole de douleur.md)* ; **Prix** 18 000 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Rune d'emprisonnement}
+{s:BDTexte|**Aura.** Forte invocation ; **NLS** 18}
+{s:BDSousTitre|Déclenchement et effet}
+{s:BDTexte|Cette modification se déclenche dès que la créature est touchée par un sort de contact ou de contact à distance. Le lanceur de sorts qui déclenche l’effet doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 22 ou se faire capturer, corps et âme, dans une gemme sertie dans le corps modifié de la créature artificielle. La gemme le retient jusqu’à ce qu’elle ou la créature artificielle soit détruite. La gemme ne peut retenir qu’une créature à la fois. Lorsqu’elle en a capturé une, la rune ne se déclenche plus jusqu’à ce que l’on remplace la gemme.</br>
+Quand une créature est piégée dans la gemme, cette dernière est vulnérable aux coups critiques. Si un attaquant confirme un coup critique, la créature artificielle subit des dégâts et la gemme est détruite, ce qui libère la créature piégée dans une case adjacente à celle de la créature artificielle. Il faut remplacer la gemme, sinon, la rune d’emprisonnement ne fonctionne plus.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Séquestration](./Séquestration.md)* , gemme d’une valeur de 20 000 po pour servir de [focaliseur](./focaliseur.md) à la rune ; **Prix** 57 600 po}
+</div>
+
+</div></td><td>
+<div class="BD">
+{s:BDTitre|Rune de foudre}
+{s:BDTexte|**Aura.** Faible évocation ; **NLS** 5}
+{s:BDSousTitre|Déclenchement et effet}
+{s:BDTexte|Cette rune se déclenche quand la créature artificielle modifiée se fait toucher par une attaque de corps à corps. Elle libère une décharge d’électricité dans un rayon de 1,50 mètre (1 {s:c}). Cette décharge inflige 3d8 points de dégâts électriques à toutes les créatures situées dans la zone. Jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 12, 1/2 dégâts.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Décharge électrique](./Décharge électrique.md)* ; **Prix** 2 000 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Rune de protection}
+{s:BDTexte|**Aura.** Faible abjuration ; **NLS** 3}
+{s:BDSousTitre|Déclenchement et effet}
+{s:BDTexte|Cette rune se déclenche quand la créature artificielle modifiée se fait toucher par une attaque de corps à corps, à distance ou par un *[projectile magique](./Projectile magique.md)*. La créature artificielle gagne un bonus de bouclier de +4 à la [CA](./CA.md) pendant 3 minutes. C’est un effet de force qui s’applique donc aussi contre les attaques de contact [intangibles](./Intangible (capacité).md).}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Bouclier](./Bouclier.md)* ; **Prix** 1 200 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Rune de terreur}
+{s:BDTexte|**Aura.** Nécromancie modérée ; **NLS** 7}
+{s:BDSousTitre|Déclenchement et effet}
+{s:BDTexte|Cette rune se déclenche la première fois qu’une créature se déplace dans une case adjacente à la créature artificielle modifiée. La rune crée une émanation d’énergie nécromantique dans un rayon de 6 mètres (4 {s:c}). Les créatures qui se trouvent dans la zone doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 20 ou devenir [paniquées](./Paniqué.md) pendant 1d4 [rounds](./round.md). Si une créature réussit son jet, elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md).}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Terreur](./Terreur.md)* ; **Prix** 11 200 po}
+</div>
+</td></tr></table>
+
+#### Cachette à briser
+<div class="BD">
+{s:BDTexte|**Conditions requises.** [Création de créatures artificielles](./Création de créatures artificielles.md), *[fracassement](./Fracassement.md)*
+et variable (voir plus bas) ; **Augmentation de FP.** Aucun ; **Prix.** Variable (voir plus bas)}
+
+</div>
+Dans les sous-catégories de cette modification complexe, on introduit des sections creuses dans certaines parties du golem à l’aide de matériaux volontairement fragiles, conçus pour se briser sous le coup d’un adversaire. Un [coup critique](./coup critique.md) confirmé inflige des dégâts à la créature artificielle et brise la section creuse qui libère la substance que son créateur avait placée à l’intérieur. La modification est détruite en même temps que la cachette (impossible
+de la réparer). Une créature artificielle ne peut avoir qu’une cachette à briser à la fois. Une fois la modification détruite, on peut réinsérer une nouvelle cachette à briser, au prix normal.</br>
+Voici les types de cachette les plus répandus.
+
+<table class="page espace-col deuxcol"><tr><td>
+<div class="BD">
+{s:BDTitre|Cachette de jet d'acide}
+{s:BDTexte|Un liquide acide jaillit dans un rayon de 4,50 mètres (3 {s:c}) autour de la cachette de la créature modifiée. Les créatures qui se trouvent dans la zone doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15, sinon, elles subissent 2d6 points de dégâts d’acide et sont [nauséeuses](./Nauséeux.md) pendant 1d4 [rounds](./round.md). Si une créature réussit son jet, elle ne subit aucun dégât mais elle est [fiévreuse](./Fiévreux.md) pendant 1 [round](./round.md).}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Boule de feu](./Boule de feu.md)* <NdT flèche acide ou un autre sort d’acide plutôt non ?> ; **Prix** 1 200 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Cachette de bombe de feu}
+{s:BDTexte|Une explosion de feu jaillit de la cachette de la créature artificielle modifiée dans un rayon de 4,50 mètres (3 {s:c}). Les créatures qui se trouvent dans la zone doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 12 ou subir 2d6 points de dégâts de feu. [Jet de sauvegarde](./jet de sauvegarde.md) réussi, dégâts 1/2.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Boule de feu](./Boule de feu.md)* ; **Prix** 1 200 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Cachette de brume glacée}
+{s:BDTexte|Une brume glacée jaillit de la cachette de la créature artificielle modifiée dans un rayon de 4,50 mètres (3 {s:c}). Les créatures qui se trouvent dans la zone doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ou subir 1d6 points de dégâts et se retrouver [enchevêtrées](./Enchevêtré.md) pour 1 [round](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) réussi, dégâts 1/2, la cible n’est pas enchevêtrée.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Cône de froid](./Cône de froid.md)* ; **Prix** 1 000 po}
+</div>
+
+</div></td><td>
+<div class="BD">
+{s:BDTitre|Cachette de foudre}
+{s:BDTexte|Une explosion d’électricité jaillit de la cachette de la créature artificielle modifiée dans un rayon de 9 mètres (6 {s:c}). Les créatures qui se trouvent dans la zone doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 ou subir 3d8 points de dégâts d’électricité. [Jet de sauvegarde](./jet de sauvegarde.md) réussi, dégâts 1/2.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Éclair](./Éclair.md)* ; **Prix** 1 200 po}
+</div>
+
+<div class="BD">
+{s:BDTitre|Cachette de gaz toxique}
+{s:BDTexte|Une explosion de gaz toxique jaillit de la cachette de la créature artificielle modifiée dans un rayon de 4,50 mètres (3 {s:c}). Les créatures vivantes qui se trouvent dans la zone doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 13 ou être [confuses](./Confus.md) pendant 1 [round](./round.md). C’est un effet de poison.}
+{s:BDSousTitre|Modification}
+{s:BDTexte|**Conditions requises.** *[Nuage nauséabond](./Nuage nauséabond.md)* ; **Prix** 2 000 po}
+</div>
+</td></tr></table>

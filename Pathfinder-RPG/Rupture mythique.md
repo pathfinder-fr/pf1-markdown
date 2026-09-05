@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.Rupture mythique
+Title: Rupture mythique
+LastModified: 2022-06-25 15:11
+Categories:
+- Magie
+- Règle officielle
+- Sort hypnotiseur 3
+- Sort inquisiteur 3
+- Sort magicien 4
+- Sort médium 2
+- Sort prêtre 4
+- Sort psychiste 4
+- Sort sorcière 4
+- Src Campagnes mythiques
+---
+
+{s:CMy}
+**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4  
+
+**Temps d’incantation** 1 action simple  
+
+**Composantes** V, G  
+
+**Portée** courte (7,50 m + 1,50 m/2 niveaux)  
+
+**Cible** une créature  
+
+**Durée** permanent  
+
+**Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
+
+Le personnage restreint l’accès de la cible à son [pouvoir mythique](./pouvoir mythique.md). Chaque fois que la cible tente de lancer un [sort mythique](./sort mythique.md), de dépenser du [pouvoir mythique](./pouvoir mythique.md) pour activer une [aptitude de voie](./aptitude de voie.md) ou d’utiliser un effet qui nécessite la dépense de [pouvoir mythique](./pouvoir mythique.md), elle doit effectuer un jet de [Volonté](./Volonté.md) contre le DD de ce sort. Si elle rate son jet de sauvegarde, la créature perd son action et l’aptitude qu’elle tentait d’utiliser ne produit aucun effet.
+
+Ce sort ne produit aucun effet sur les aptitudes mythiques qui ne nécessitent aucune dépense de [pouvoir mythique](./pouvoir mythique.md).

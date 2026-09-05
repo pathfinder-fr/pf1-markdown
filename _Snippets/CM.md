@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<div style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Codex monstrueux/Monster Codex" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoMC.gif" style="opacity: 0.7" />
+</div>

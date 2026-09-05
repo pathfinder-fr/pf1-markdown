@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.armure de maître
+Title: armure de maître
+LastModified: 2026-07-01 11:40
+Categories:
+- Redirection
+---
+
+>>> Caractéristiques des armures#ARMURESMAITRE

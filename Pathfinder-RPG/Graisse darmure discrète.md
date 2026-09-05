@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Graisse darmure discrète
+Title: Graisse d'armure discrète
+LastModified: 2024-06-12 20:48
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Graisse d'armure discrète|{s:RSE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 750 po ; **Poids** 0,25 kg
+(((Description)))
+Cette graisse pour armure, noire comme le goudron et à l’odeur puissante, se présente dans une petite boîte circulaire. Une dose suffit à enduire une armure de taille M ou deux armures de taille P. Il faut 10 minutes pour passer la graisse, période pendant laquelle le personnage doit visualiser des habits normaux ou une autre armure : l’armure qu’il graisse prendra cette apparence alternative. L’odeur désagréable de la graisse se dissipe une fois l’application terminée et l’armure apparaît telle que le personnage l’a visualisée, comme avec la propriété spéciale de *[mimétisme](./mimétisme (propriété armure).md)*. L’armure conserve toutes ses propriétés, en dehors de son apparence, y compris son poids, ses malus aux tests et sa limite au bonus de [Dextérité](./Dextérité.md). Cet effet persiste 24 heures avant de se dissiper.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[déguisement](./Déguisement.md)* ; **Coût** 375 po
+</div>

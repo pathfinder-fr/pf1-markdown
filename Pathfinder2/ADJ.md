@@ -1,0 +1,100 @@
+---
+Name: Pathfinder2.ADJ
+Title: Aides de jeu pour Pathfinder 2 (Règles)
+LastModified: 2025-03-25 10:08
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Aides de jeu pour Pathfinder 2</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles](./ADJ.md)
+[Personnages](./ADJ-PJ.md)
+[Pour les MJ](./ADJ-MJ.md)
+[FoundryVTT](./ADJ-FVTT.md)
+[Liens](./ADJ-Liens.md)
+</div>
+</div>
+
+<nav class="wiki-toc"></nav>
+
+### Introduction à Pathfinder 2
+
+<div class="itemmenu">
+{s:ItemPF2|SimplyPF2e|Un recueil de planches pour présenter les concepts principaux de Pathfinder 2, créé (en VO) par u/Quinnstone42 (lien [Twitter](https://twitter.com/QuinnStone42))|/Wiki/Pathfinder2.SimplyPF2.ashx|/Wiki/public/Upload/ADJ/PF2/SimplyPF2/0 - titre.webp}
+
+{s:ItemPF2NoImg|50 conseils|Une cinquantaine de conseils à propos de Pathfinder 2|Pathfinder2.50conseils.ashx}
+
+</div>
+
+### Règles en ligne
+
+<div class="itemmenu">
+{s:ItemPF2|Artisanat|Variantes pour l'artisanat proposées dans Treasure Vault|Pathfinder2.ArtisanatTV.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig crafting.webp}
+</div>
+
+
+
+### Outils en ligne
+
+<div class="itemmenu">
+{s:ItemPF2|Calculette artisanat|Calculette pour l'artisanat PF2 (règles de base et règles révisées de Treasure Vault|Pathfinder2.CalcArtisanat.ashx|/Wiki/public/Upload/ADJ/PF2/calculette.webp}
+
+</div>
+
+### Listes et résumés
+
+<div class="itemmenu">
+
+{s:ItemPF2|PF2 remaster|Nouvelle terminologie pour PF2 remaster, extraites de Foundry par Cheps à partir de la traduction de fans disponible sur [^https://pf2e.pathfinder-fr.org/remaster-changes|https://pf2e.pathfinder-fr.org/remaster-changes]|https://pf2e.pathfinder-fr.org/remaster-changes|https://cdn.paizo.com/image/product/catalog/PZO/PZO12002.png}
+
+{s:ItemPF2|PF2e Cheat Sheet (VF)|Cheat sheet des actions et activités PF2 par PhoebusDF (en VF et en VO, plus d'information [ici](https://www.reddit.com/r/Pathfinder2e/comments/13b9ta7/fr_v17_pathfinder_2e_cheatsheet_pour_les_actions/) sur Reddit - lien vers Google Drive)|https://drive.google.com/drive/folders/1W6rgJrdMwK1IH04u6nsOhc2SrY8O1P-2|/wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig pf2eCheatsheet.webp}
+
+{s:ItemPF2|Actions & Activités|Cheat sheet des actions et activités en PF2 en VF par Kaze|/Wiki/public/Upload/ADJ/PF2/Actions PF2E.pdf|/Wiki/public/Upload/ADJ/PF2/Actions PF2E logo.webp}
+
+{s:ItemPF2|Actions|Liste des actions en PDF : version [simplifiée](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/PF2Actions.pdf) ou [complète](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/Actionsv3.pdf)|/Wiki/public/Upload/ADJ/PF2/PF2Actions.pdf|/Wiki/public/Upload/ADJ/PF2/PF2Actions.jpg}
+
+{s:ItemPF2|Actions|Compilation des actions par Zerr0wFPS : [fichier PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/Actions_PF2.pdf)|/Wiki/public/Upload/ADJ/PF2/Actions_PF2.pdf|/Wiki/public/Upload/ADJ/PF2/Actions_PF2.jpg}
+
+{s:ItemPF2NoImg|Contre|Résumé des règles de contre par Jean-Michel (fichier PDF)|/Wiki/public/Upload/ADJ/PF2/Contre PF2.pdf}
+
+{s:ItemPF2|États|Compilation des états par Zerr0wFPS : [fichier PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/Etats_PF2.pdf)|/Wiki/public/Upload/ADJ/PF2/Etats_PF2.pdf|/Wiki/public/Upload/ADJ/PF2/Etats_PF2.jpg}
+
+{s:ItemPF2|Traits|Résumé des traits (d'actions, d'armes, ...) : [Fichier PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/PF2TraitsObjets.pdf)|/Wiki/public/Upload/ADJ/PF2/PF2TraitsObjets.pdf|/Wiki/public/Upload/ADJ/PF2/PF2TraitsObjets.jpg}
+
+{s:ItemPF2|Activités d'exploration|Résumé des activités d'exploration par Mr.Fred : [PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.pdf) ou [PNG](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1_1920p.png) ou [PNG 4K](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1_4k.png)|/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.pdf|/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.jpg}
+
+{s:ItemPF2|Résumé des règles|Résumé introductif aux règles par Resorb : [Fichier PDF](.//Wiki/public/Upload/ADJ/PF2/PF2-initiation-règles-pdf.md)|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.pdf|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.jpg}
+
+{s:ItemPF2|Cartes de sorts|Cartes des sorts du Guide Avancé par Lirot : [primordial](.//Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG-zip.md), [occulte](.//Wiki/public/Upload/ADJ/PF2/Deck_Occulte_PAG-zip.md), [divin](.//Wiki/public/Upload/ADJ/PF2/Deck_Divin_PAG-zip.md), [arcanique](.//Wiki/public/Upload/ADJ/PF2/Deck_Arcanique_PAG-zip.md), [sorts focalisés](.//Wiki/public/Upload/ADJ/PF2/Deck_Sorts_focalises_PAG-zip.md)|/Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG.zip|/Wiki/public/Upload/ADJ/PF2/Deck_PAG_exemple.jpg}
+
+{s:ItemPF2NoImg|Détection|Aide de jeu pour la détection en PF2, par Stotorm (lien GoogleSheet)|https://docs.google.com/spreadsheets/d/1kyVxGOwhs41v644dAKHRhk2iNnidoRqxvEKSrAceg2E/edit?gid=92495254#gid=92495254}
+
+</div>
+
+
+### Preview et playtests
+
+<div class="itemmenu">
+{s:ItemPF2|Parties de monstres|Aperçu du système des parties de monstres introduit dans le Battlezoo Bestiary|Pathfinder2.Parties-Monstres.ashx|https://d1wgd08o7gfznj.cloudfront.net/uploads/gallery_images/ff80ebfd-0909-4b9d-8291-201ff318a918/Gathering%20Parts_large.jpg}
+
+{s:ItemPF2NoImg|Dhampir|Traduction de la preview de l'Advanced Player's Guide sur l'héritage générique de dhampir (ficher PDF)|/Wiki/public/Upload/ADJ/PF2/Dhampir.pdf}
+
+{s:ItemPF2NoImg|Inventeur et pistoléro|Traduction du playtest de Guns & Gears|Pathfinder2.PlaytestGG.ashx}
+
+{s:ItemPF2NoImg|Preview Book of the Dead|[Jouer un mort-vivant](./PF2 BotD Jouer un mort-vivant.md) : [Fantôme](./PF2 BotD Fantôme.md) [Goule](./PF2 BotD Goule.md) [Liche](./PF2 BotD Liche.md) [Momie](./PF2 BotD Momie.md) [Vampire](./PF2 BotD Vampire.md) [Zombi](./PF2 BotD Zombi.md) (archétypes), [Squelette](./PF2 BotD Squelette.md) (ascendance) ; Archétypes pour vivants : [Gardien des âmes](./PF2 BotD Gardien des âmes.md), [Nécromancien sacré](./PF2 BotD Nécromancien sacré.md), [Tueur de morts-vivants](./PF2 BotD Tueur de morts-vivants.md)|Pathfinder2.PF2 BotD Jouer un mort-vivant.ashx}
+
+{s:ItemPF2NoImg|Dark Archives|Quelques règles provenant des previews de Dark Archives (forgeron mental)|Pathfinder2.PF2 DA Forgeron mental.ashx}
+
+</div>
+
+### Divers
+
+<div class="itemmenu">
+{s:ItemPF2NoImg|Artisanat|Explication des règles de base|Pathfinder2.Règles-Artisanat.ashx}
+
+{s:ItemPF2NoImg|Errata VF|Compilation des errata du Livre de base VF par Rankkor (fichier PDF)|/Wiki/public/Upload/ADJ/PF2/Errata_LdB.pdf}
+
+</div>

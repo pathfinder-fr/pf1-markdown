@@ -1,0 +1,7 @@
+---
+Name: Pathfinder2.SimplyPF2OD
+Title: SimplyPF2 / SimplementPF2 (version OpenDyslexic)
+LastModified: 2022-10-23 15:49
+---
+
+{s:Redirection|Pathfinder2.SimplyPF2}

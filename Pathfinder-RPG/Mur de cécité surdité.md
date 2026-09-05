@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Mur de cécité surdité
+Title: Mur de cécité/surdité
+LastModified: 2024-06-08 16:13
+Categories:
+- Sort barde 4
+- Sort magicien 4
+- Sort prêtre 5
+- Sort psychiste 4
+- Sort sorcière 4
+---
+
+{s:MCA}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Bard](./Barde.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+
+**Effet** mur translucide de 6 m (4 {s:c}) de long/[niveau](./niveau.md) ou anneau translucide de 1,5 m (1 {s:c}) de rayon/2 [niveaux](./niveau.md) ; 6 m (4 {s:c}) de hauteur quelle que soit la forme  
+
+**Durée** concentration + 1 round/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+Le personnage crée un mur d’énergie translucide au sein duquel on distingue des visages flous aux paupières ou aux oreilles cousues.
+
+Quand il crée le mur, le personnage décide si celui-ci aveugle ou assourdit. Toute créature qui traverse le mur doit réussir un jet de sauvegarde pour ne pas être définitivement aveuglée ou assourdie (comme *[cécité/surdité](./Cécitésurdité.md)*).
+
+Le mur doit être vertical et soit rectangulaire, soit circulaire. Il ne doit pas nécessairement toucher le sol. Il doit être continu et intact au moment de la création.
+
+Si sa surface est brisée par un objet ou une créature quelconque au moment du lancement, le sort échoue.

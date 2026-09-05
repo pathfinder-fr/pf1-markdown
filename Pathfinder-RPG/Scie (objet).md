@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Scie (objet)
+Title: Scie
+LastModified: 2021-09-16 22:38
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 4 pc ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Les scies peuvent prendre différentes formes, de la petite scie de charpentier à la longue scie à deux mains qu'utilisent les bûcherons. Le personnage peut insérer une scie entre une porte et son encadrement pour couper les verrous ou les barres en bois. Par une [action complexe](./Action complexe.md), il inflige 5 points de dégâts plus son modificateur de [Force](./Force.md) par [round](./round.md) à l'objet scié. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 10 pour entendre quelqu'un scier. Les scies utilisées pour découper la glace des rivières ont un bout pointu permettant de percer la glace avant de la découper.

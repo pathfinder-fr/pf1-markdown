@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Filet de pêche (objet)
+Title: Filet de pêche
+LastModified: 2021-09-16 20:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 4 po ; **Poids** 2,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce filet mesure 1,50 mètre de côté et peut servir à couvrir une fosse ou à empêcher des créatures de taille TP ou plus grandes d'entrer dans une zone.

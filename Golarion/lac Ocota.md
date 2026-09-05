@@ -1,0 +1,12 @@
+---
+Name: Golarion.lac Ocota
+Title: lac Ocota
+LastModified: 2010-01-26 23:05
+Categories:
+- Etendue Mwangi
+- Géographie
+---
+
+Le lac Ocota est une immense étendue d'eau naturelle située en plein milieu de la grande jungle centrale du [Mwangi](./Mwangi.md). Il a été formé par la confluence du fleuve [Vanji](./Vanji.md) avec la rivière Calme, la rivière Kanga Bandoro et la rivière Mberribe.
+
+Sur la rive sud du lac se tient la cité d'[Usaro](./Usaro.md).

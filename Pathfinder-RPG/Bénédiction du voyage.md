@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction du voyage
+Title: Bénédiction du voyage
+LastModified: 2024-12-11 00:29
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Pied agile *(mineur)*
+Au niveau 1, le prêtre combattant peut accroître sa mobilité par une [action rapide](./Action rapide.md). Pendant 1 round, il ignore les terrains difficiles (mêmes magiques) et ne subit aucun malus quand il les traverse.
+
+#### Bond dimensionnel *(majeur)*
+Au niveau 10, le prêtre combattant peut se téléporter à 6 mètres (4 {s:c}) par une [action de mouvement](./Action de mouvement.md). Il peut augmenter cette distance en dépensant d’autres utilisations du pouvoir de bénédiction, chacune rallongeant la distance de 6 mètres. Il doit avoir le point d’arrivée dans sa ligne de mire. Cette téléportation ne provoque pas d’[attaques d’opportunité](./AO.md). Il peut emmener des créatures consentantes avec lui mais, pour chacune, il doit dépenser une utilisation de bénédiction supplémentaire, quelle que soit la distance parcourue (par exemple, pour se téléporter sur 12 mètres, le prêtre combattant doit dépenser 2 utilisations de bénédiction et, pour emporter une personne supplémentaire, il doit dépenser une utilisation de plus).

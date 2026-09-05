@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Coupe de Cayden
+Title: Coupe de l'aventurier
+LastModified: 2024-06-15 23:29
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Coupe de l'aventurier|{s:CMy}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 16 500 po ; **Poids** 0,5 kg
+(((Description)))
+Cette chope en étain cabossée se remplit, sur commande, d'une bière qui correspond parfaitement au goût et au désir du porteur. Transvasée dans un autre récipient, la bière perd sa saveur et ses vertus en quelques minutes pour n'être plus qu'une boisson ordinaire. Tant que la chope reste en possession de son propriétaire, elle annule la plupart des effets néfastes de la consommation d'alcool excessive, comme la gueule de bois et la perte de connaissance. Elle accorde également un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre le poison.
+
+Une fois par heure, s'il boit le contenu de la chope et porte un toast par une [action de mouvement](./Action de mouvement.md), le buveur bénéficie d'un bonus de moral de +2 en [Force](./Force.md) et en [Constitution](./Constitution.md) mais il subit un malus de -2 aux tests de caractéristiques et de compétences basées sur la [Dextérité](./Dextérité.md) et sur l'[Intelligence](./Intelligence.md). Ces effets durent 10 minutes. Si la chope est vide, le porteur doit d'abord la remplir. Si le buveur dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) alors qu'il boit à la chope, le bonus de moral passe à +4, le malus passe à -4 et les effets de la chope durent 1 heure.
+(((Création)))
+**Conditions** [Artisan mythique](./Artisan mythique.md), [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création de nourriture et d'eau](./Création de nourriture et deau.md)*, *[héroïsme](./Héroïsme.md)*, *[neutralisation du poison](./Neutralisation du poison.md)* ; **Coût** 8 250 po
+</div>

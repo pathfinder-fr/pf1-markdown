@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<a href="/Wiki/Pathfinder-RPG.Campagnes mythiques (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Mythic Adventures, Mythic Origins/Campagnes mythiques" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoCMy.png" style="opacity: 0.7" loop="infinite" />
+</a>

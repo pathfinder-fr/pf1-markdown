@@ -1,0 +1,15 @@
+---
+Name: Golarion.Wispil
+Title: Wispil
+LastModified: 2010-01-09 15:39
+Categories:
+- Géographie
+- Taldor
+- Ville
+---
+
+Ville du [Taldor](./Taldor.md) située au centre de la forêt du [Verduran](./Verduran.md).
+
+De par sa position géographique et en vertu des accords signés il y a près de mille ans entre le Grand Prince du [Taldor](./Taldor.md) et la Loge de la Forêt Sauvage, la ville s'est spécialisée dans le travail du bois. Elle fournit en madriers [Cassomir](./Cassomir.md) suffisamment de matières premières pour assurer la construction navale du [Taldor](./Taldor.md).
+
+Petite particularité, la ville est très majoritairement habitée par des non-humains, essentiellement des gnomes.

@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Traits des plantes (capacité)
+Title: Traits des plantes (Ext)
+LastModified: 2010-11-09 15:03
+---
+
+Les plantes sont immunisées contre tous les effets mentaux (charmes, coercitions, effets de moral, mirages et fantasmes), la [paralysie](./paralysie.md), le [poison](./poison.md), la [métamorphose](./métamorphose.md), le sommeil et l’étourdissement.
+
+*Format :* traits des plantes. *Emplacement :* Immunités.

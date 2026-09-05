@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Attaque en groupe
+Title: Attaque en groupe
+LastModified: 2024-07-13 17:55
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:apg}*Le personnage sait comment attaquer efficacement en groupe.*
+
+**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md).
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#59) Attaque en groupe : Ce don (page 156) permet-il à un personnage de prendre en tenaille avec des armes à distance ?***
+
+Le don <u>[Attaque en groupe](./Attaque en groupe.md)</u> permet au personnage d'être considéré en tenaille tant que deux de ses alliés prennent eux-mêmes son adversaire en tenaille. Le don ne fait aucune mention incluant les attaques à distance, et puisque la [prise en tenaille](./prise en tenaille.md) fait spécifiquement référence aux attaques de corps à corps, les attaques à distance ne profitent pas de ce don. (JMB, 13/8/2010)}**Avantage.** On considère que le personnage [prend en tenaille](./Pris en tenaille.md) tout ennemi qui se trouve dans la zone contrôlée par au moins deux de ses alliés et ce, quelle que soit sa position exacte.
+
+**Normal.** Il faut que le personnage et un de ses alliés se trouvent de part et d’autre d’un ennemi pour prendre celui-ci en tenaille.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([Intelligence](./Intelligence.md) 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. S’il dépense 5 points d’endurance, il bénéficie de ses avantages quand il menace le même adversaire qu’un autre allié (au lieu de deux).

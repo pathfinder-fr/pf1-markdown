@@ -1,0 +1,18 @@
+---
+{}
+---
+
+<script>
+$(function(){
+let mètres = ?1?;
+let cases = mètres / 1.5;
+let pieds = mètres / 1.5 * 5;
+$('.mc?1?').html('<abbr title="' + cases + ' cases, ' + mètres + ' mètres, ' + pieds + ' pieds">' + mètres + ' m</abbr> <span style="display:none">(' + cases + ' cases, ' + mètres + ' mètres, ' + pieds + ' pieds)</span>');
+});
+function showmc(x) {
+$(x).find('span').show();
+}
+function hidemc(x) {
+$(x).find('span').hide();
+}
+</script><span class="mc?1?" onmouseover="showmc(this)" onmouseout="hidemc(this)"></span>

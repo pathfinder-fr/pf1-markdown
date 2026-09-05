@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Paniqué
+Title: Paniqué
+LastModified: 2025-08-19 18:29
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Paniqué

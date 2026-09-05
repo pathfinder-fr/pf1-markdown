@@ -1,0 +1,94 @@
+---
+Name: Pathfinder-RPG.Mycéloïde
+Title: Mycéloïde
+LastModified: 2025-08-16 00:01
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Mycéloïde|FP 4}
+{s:pucem|Plante|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3* p.194}
+{s:BDTexte|**PX** 1 200}
+{s:BDTexte|[Plante](./type Plante.md) de taille M, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 c) , [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 16, contact 10, pris au dépourvu 16 (naturelle +6)}
+{s:BDTexte|**pv** 37 (5d8+15)}
+{s:BDTexte|**Réf** +1, **Vig** +7, **Vol** +4}
+{s:BDTexte|**RD** 5/tranchant ; **Immunité** [traits des plantes](./Traits des plantes.md) ; **Résistance** feu 10, froid 10, son 10}
+{s:BDTexte|**Faiblesse** vulnérabilité à l’électricité}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 c)}
+{s:BDTexte|**Corps à corps** 2 griffes, +6 (1d6+3 plus maladie)}
+{s:BDTexte|**Espace** 3 m (2 c) ; **Allonge** 3 m (2 c)}
+{s:BDTexte|**Attaques spéciales** nuage de spores}
+{s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +6)}
+{s:BDSorts|(1/jour)— domination de spores}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 17, **Dex** 11, **Con** 16, **Int** 9, **Sag** 12, **Cha** 10}
+{s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 16}
+{s:BDTexte|**Dons** [Volonté de fer](./Volonté de fer.md) , [Talent](./Talent.md) ([Discrétion](./Discrétion.md)) , [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences**  [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +6 ; [Psychologie](./Psychologie.md) +5, [Survie](./Survie.md) +5}
+{s:BDTexte|**Modificateurs raciaux** +4 en [Psychologie](./Psychologie.md) , +4 en [Survie](./Survie.md)}
+{s:BDTexte|**Langues** : commun des profondeurs ; télépathie à 18 m (mycéloïdes et malades de la vérole pourpre uniquement)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** souterrains}
+{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-24) ou colonie (25-250)}
+{s:BDTexte|**Trésor** Standard}
+{s:BDSousTitre|pouvoirs spéciaux}
+{s:BDTexte|**Domination de spores (Mag).** Ce pouvoir magique fonctionne comme *[charme-monstre](./Charme-monstre.md)*, à la seule différence qu’il ne s’applique qu’aux créatures infectées par la vérole pourpre.}
+{s:BDTexte|**Vérole pourpre ** : inhalation ou blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ; *incubation* 1 minute ;
+*fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 Sag et de 1d2 Con ; *guérison* 2 réussites consécutives. Une créature qui meurt de la vérole pourpre enfle en l’espace de 24 heures, après quoi son corps éclate, libérant un mycéloïde à maturité. En outre, à partir du moment où la créature subit un affaiblissement temporaire
+d’au moins 7 points de Sagesse à cause de la vérole pourpre,
+elle doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 chaque jour pour
+éviter d’être affectée par les effets d’un sort de mission (aucune
+limite de [DV](./DV.md)) qui oblige le malade à rechercher la colonie de
+mycéloïdes la plus proche afin de se soumettre de lui-même à la
+domination de spores. Le [DD](./DD.md) du jet de sauvegarde est basé sur
+la [Constitution](./Constitution.md).}
+{s:BDTexte|**Nuage de spores (Ext).** Une fois par jour, par une [action simple](./Action simple.md),
+le mycéloïde peut libérer un nuage de spores de 3 mètres de
+[rayon](./rayon.md) centré sur lui. Ce nuage dure 1d3 [round](./round.md)s. Toutes les
+créatures prises dans ce nuage ou le traversant sont exposées
+à la vérole pourpre du mycéloïde : il leur suffit de réussir un
+seul [jet de sauvegarde](./jet de sauvegarde.md) contre le nuage de spores pour être
+complètement immunisées contre les effets de ce nuage
+particulier. Le nuage de spores ne gêne pas la vision.}
+</div>
+</td><td><div>
+''Cette créature fongique au pas traînant ressemble beaucoup à un humain
+grassouillet, mais avec un chapeau de champignon sur la tête.''
+
+Ces champignons ambulants que l’on connaît sous le
+nom de mycéloïdes se nourrissent de matière organique en
+décomposition, comme de nombreux autres champignons.
+Mais contrairement aux moisissures et aux champignons
+normaux, ils prennent un malin plaisir à se nourrir des
+corps d’humanoïdes pourrissant. Les mycéloïdes affirment
+pouvoir sentir le goût de choses telles que l’ « innocence »,
+le « désespoir » et l’ « espoir » dans la maturité de la viande
+rance, même si on ignore si ces allégations sont vraies ou
+si elles sont une simple expression du sens de l’humour
+malsain des mycéloïdes.
+
+La plupart des mycéloïdes ont un chapeau de couleur violet foncé tacheté
+de flocons blancs, un cou d’un violet plus clair et le corps d’un solide
+champignon caoutchouteux. Leurs spores se développent dans la chair
+vivante, provoquant une éruption de douloureuses lésions violettes qui, à un stade
+avancé de la maladie, font germer de nouveaux champignons violets tout petits : leur
+arrachage est douloureux et fait saigner la victime. Cette maladie, la vérole pourpre,
+sert aux mycéloïdes à assaisonner leur viande et à se reproduire.
+Les mycéloïdes préfèrent capturer leurs victimes vivantes afin de pouvoir
+les infecter et les contrôler. Pour le mycéloïde, une créature vivante
+a trois utilités : elle sert tout d’abord d’esclave, puis d’hôte
+qui donnera naissance à de nouveaux mycéloïdes et
+enfin de banquet dont se régalent les mycéloïdes une
+fois que la victime a rempli ses deux premières fonctions.
+</div>
+
+</div></td></tr></table>

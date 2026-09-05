@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.Rage sanguinaire (capacité)
+Title: Rage sanguinaire (Ext)
+LastModified: 2021-07-22 19:46
+Categories:
+- Règle de monstres universelle
+---
+
+Lorsque la créature subit des dégâts au cours d’un combat, lors de son prochain tour, elle peut entrer en rage par une [action libre](./Action libre.md). Elle gagne alors un bonus de +2 à la [Constitution](./Constitution.md) et à la [Force](./Force.md) mais subit un malus de –2 à la [CA](./CA.md). La rage persiste jusqu’à la fin du combat (avec un maximum de 1 minute). La créature ne peut pas mettre un terme à sa rage d’elle même.
+
+*Format :* rage sanguinaire. *Emplacement :* Attaques spéciales.

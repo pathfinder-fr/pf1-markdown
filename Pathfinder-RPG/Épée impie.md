@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Épée impie
+Title: Épée impie
+LastModified: 2022-06-12 18:46
+Categories:
+- Sort antipaladin 4
+---
+
+{s:UM}
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 4  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** arme de corps à corps touchée  
+
+**Durée** 1 round/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** non; **Résistance à la magie** non  
+
+
+Ce sort permet au personnage de canaliser la puissance du mal dans son épée ou dans une autre arme de corps à corps de son choix. L'arme se comporte alors comme une arme [impie](./impie (propriété).md) +5 (bonus d'altération de +5 aux jets d'attaque et de dégâts, +2d6 contre les adversaires bons). Elle émet également un effet de [cercle de protection contre le bien](./Cercle magique contre le Bien.md) (comme le sort). Si le cercle se termine, l'épée en crée un nouveau au tour du personnage, par une [action libre](./Action libre.md). Le sort s'annule automatiquement 1 round après que l'épée a quitté la main du personnage. Ce dernier ne peut avoir qu'une épée impie active à la fois.  
+
+Si le personnage lance ce sort sur une arme magique, les pouvoirs du sort écrasent ceux de l'arme dont le bonus d'altération et les pouvoirs habituels hibernent pendant la durée du sort. Ce sort ne se cumule pas avec tout autre sort de modification d'arme et ne fonctionne pas sur les artéfacts. Le bonus d'arme de maître ne se cumule pas avec le bonus d'attaque du sort.

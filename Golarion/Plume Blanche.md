@@ -1,0 +1,10 @@
+---
+Name: Golarion.Plume Blanche
+Title: Plume Blanche [White Feather]
+LastModified: 2010-01-05 20:14
+Categories:
+- Qadira
+- Religion
+---
+
+La Plume Blanche n'est pas à proprement parler une divinité. Il s'agit d'un avatar d'[Irori](./Irori.md), que l'on peut retrouver sous d'autres noms dans d'autres régions de [Golarion](./Golarion.md), qu'une congrégation de moines du [Qadira](./Qadira.md) vénèrent.

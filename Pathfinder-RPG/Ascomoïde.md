@@ -1,0 +1,97 @@
+---
+Name: Pathfinder-RPG.Ascomoïde
+Title: Ascomoïde
+LastModified: 2025-07-06 17:07
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ascomoïde|FP 5}
+{s:pucem|Plante|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3 page 17*}
+{s:BDTexte|**PX** 1.600}
+{s:BDTexte|[Plante](./type Plante.md) de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
+{s:BDTexte|**pv** 52 (7d8+21)}
+{s:BDTexte|**Réf** +3, **Vig** +8, **Vol** +2}
+{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes.md) ; **RD** 10/perforant ; **Résistances** électricité 10, feu 10 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m}
+{s:BDTexte|**Corps à corps** coup +8 (2d8+6)}
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
+{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (2d8+6, DD 17), poison, spores}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 13, **Con** 17, **Int** -, **Sag** 11, **Cha** 1}
+{s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 21 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Science du renversement](./Science du renversement.md)<sup>B</sup>)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** sous terre}
+{s:BDTexte|**Organisation sociale** solitaire ou grappe (2-8)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|**Poison (Ext)** Spores - inhalation ; *JdS* Vigueur DD16 ; *fréquence* 1/round pendant 6 rounds, *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Force](./Force.md), *guérison* 2 réussites consécutives. Le DD du JdS est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Spores (Ext)** Une fois par round, par une action libre, l’ascomoïde peut libérer un jet de spores mortelles sur une ligne de 9 m. Lorsque le jet entre en contact avec une surface solide, comme un mur ou une créature, il se transforme en un nuage de spores occupant une zone de 3 m de rayon. Ce nuage plane pendant 1 round avant de se disperser. Toutes les créatures présentes dans le nuage doivent réussir un jet de Vigueur DD 16 sinon, elles sont nauséeuses et le restent jusqu’à ce qu’elles quittent la zone. Toutes les créatures qui ratent leur jet de sauvegarde contre la nausée sont également exposées au poison de l’ascomoïde (cf. ci-dessus). Le DD du jet de sauvegarde est basé sur la Constitution.}
+
+
+
+</div>
+</td><td><div>
+*Ce champignon sphérique informe, d’un jaune-vert pâle, roule à une vitesse étonnante en vomissant des nuages de spores fétides dans sa course.*
+
+On confond souvent les ascomoïdes, champignons démesurés,
+avec les vesses-de-loup géantes, jusqu’à ce qu’ils commencent
+à se déplacer en roulant vers toutes les proies vivantes qu’ils
+perçoivent. Une fois qu’ils ont écrasé et tué la créature, ils
+poursuivent leur course rapidement, laissant des spores derrière
+eux dans le corps de leurs victimes, pour donner naissance à de
+nouveaux ascomoïdes. Les ascomoïdes peuvent atteindre 3 m de
+large, mais ils pèsent rarement plus de 200 kilos.
+Les ascomoïdes n’ont pas besoin de lumière pour pousser,
+mais il leur faut un environnement humide. Ils n’ont pas
+vraiment de repaires attitrés mais errent souvent dans les
+mêmes zones, encore et encore, jonchant leur itinéraire des
+os de leurs anciennes victimes.
+Bien qu’ils soient généralement des créatures solitaires, les
+ascomoïdes vivant dans les zones très humides avec d’abondantes
+sources de nourriture (ou de nombreux passants imprudents)
+se regroupent parfois pour former des grappes mortelles. Ce
+genre de colonies de champignons géants se tapit souvent dans
+les grandes cavernes, au milieu des autres plantes de couleurs
+ternes. Usant de leur capacité à détecter les vibrations, les
+ascomoïdes se mettent à rouler au moindre frémissement ou
+bruit de pas potentiel, transformant leurs repaires souterrains en
+un répugnant hachoir à viande. Il faut parfois plusieurs heures
+avant que les groupes d’ascomoïdes qui bondissent violemment
+en tous sens se calment, incapables de faire la différence entre les
+mouvements de leurs proies et les roulades de leurs semblables.
+On rapporte certains cas d’ascomoïdes qui nichent au sommet
+de pentes abruptes et écrasent les grimpeurs en roulant tels de
+terribles avalanches fongiques.
+Celui qui se fait écraser par un ascomoïde ou succombe à
+ses spores connaît une fin ignoble : son corps devient l’hôte
+d’une colonie de champignons envahissants qui se développent
+très vite. Les jeunes ascomoïdes se développent très vite,
+apparaissant généralement dans les vingt-quatre heures. Au bout
+de quarante-huit heures, la victime est tellement imprégnée de
+cette moisissure duveteuse marron-vert que le sort rappel à la vie
+ne peut plus la ressusciter, son corps étant irrémédiablement
+perverti par la moisissure qui l’a rapidement et entièrement
+consumé. Au bout d’un mois, un nouvel
+ascomoïde émerge de cet
+immonde gâchis.
+
+
+**Champignon Flottant (FP 1).** Ce petit ascomoïde de taille P doté d'un œil n'a pas le poids nécessaire pour écraser d'éventuelles victimes, mais il peut voler en utilisant ses jets de spores et faire surgir des épines.
+
+#### Champignon flottant comme compagnon végétal
+
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 18 m (12 {s:c}, moyenne) ; **CA** armure naturelle +1 ; **Attaque** épine (1d4 + poison) ; **Attaque spéciale**  poison (Fréquence 1 round 6, Effet 1 affaiblissement Con, Guérison 1 JdS, DD basé sur la Constitution) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+
+**Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
+</div></td></tr></table>

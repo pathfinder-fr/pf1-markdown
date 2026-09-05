@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Mage au bouclier
+Title: Mage au bouclier
+LastModified: 2024-05-19 17:30
+Categories:
+- Don
+- Don combat
+- Don maîtrise de bouclier
+- Src Armor Masters Handbook
+---
+
+{s:cs}{s:AMH}*Le personnage a appris à lancer des sorts derrière l'abri d'un bouclier.*
+
+**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER)
+
+**Conditions.** [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +3 ou [guerrier](./Guerrier.md) de niveau 1
+
+**Avantage.** Le personnage réduit le [risque d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) de tous les boucliers qu'il utilise de 15% (jusqu’à un minimum de 0%). Utiliser un bouclier ne l'empêche plus de lancer des sorts à [composante gestuelle](./composantes.md) avec la main qui tient le bouclier.

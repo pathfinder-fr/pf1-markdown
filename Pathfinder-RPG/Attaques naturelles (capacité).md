@@ -1,0 +1,181 @@
+---
+Name: Pathfinder-RPG.Attaques naturelles (capacité)
+Title: Attaques naturelles
+LastModified: 2024-08-05 15:10
+Categories:
+- Règle de monstres universelle
+---
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#30) Modifications de taille, modifications effectives de la taille, et progression des dés de dégâts : Je suis perdu quant à l’augmentation et la diminution des catégories de dés de dégâts des armes manufacturées et naturelles quand la taille de l’arme ou sa taille effective change. Il y a plusieurs tableaux, et je ne suis pas sûr du quel utiliser.***
+
+Quand les dégâts infligés par les <u>[armes](./Caractéristiques des armes.md#TAILLEARME)</u> ou les <u>[attaques naturelles](./Attaques naturelles (capacité).md)</u> d’une créature changent à cause d’une modification de sa taille (ou de la taille de son arme), utilisez les règles suivantes pour déterminer les nouveaux dégâts.
+- Si la taille augmente d’une catégorie, trouvez les dégâts originaux sur le tableau et augmentez-les de deux niveaux. Si la taille initiale est P ou moins (ou est traitée comme de taille P ou moins) ou que les dégâts initiaux sont 1d6 ou moins, augmentez les dégâts d’un seul niveau.
+- Si la taille diminue d’une catégorie, trouvez les dégâts originaux sur le tableau et diminuez-les de deux catégories. Si la taille initiale est M ou moins (ou est traitée comme de taille M ou moins) ou que les dégâts initiaux sont 1d8 ou moins, diminuez les dégâts d’un seul niveau.
+- Si le nombre exact de dés originaux ne se trouve pas sur le tableau, appliquez ce qui suit avant d’ajuster les dés de dégâts : si les dégâts sont un nombre de d6, trouvez le nombre de d6 inférieur suivant dans le tableau et utilisez ce nombre en d8 comme dégâts originaux (par exemple, 10d6 seraient traités comme 8d8). Si les dégâts sont un nombre de d8, trouvez le nombre de d8 supérieur suivant dans le tableau et utilisez ce nombre en d6 comme dégâts originaux (par exemple, 5d8 seraient traités comme 6d6). Une fois la nouvelle valeur de dégâts définie, ajustez le nombre de niveaux à passer comme noté ci-dessus.
+- Si le type de dé n’est pas référencé dans le tableau, appliquez les règles suivantes avant d’ajuster les dés de dégâts. 2d4 comptent comme 1d8 dans le tableau, 3d4 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d4 supérieurs. 1d12 comptent comme 2d6 dans le tableau, et ainsi de suite pour les nombres de d12 supérieurs.
+- Enfin, 2d10 augmentent à 4d8 et diminuent à 2d8, quelque soit la taille initiale, et ainsi de suite pour les nombres de d10 supérieurs.
+
+**Tableau de progression des dés de dégâts**
+1 → 1d2 → 1d3 → 1d4 →1d6 → 1d8 → 1d10 → 2d6 → 2d8 → 3d6 → 3d8 → 4d6 → 4d8 → 6d6 → 6d8 → 8d6 → 8d8 → 12d6 → 12d8 → 16d6
+---
+***[→](./FAQ- Bestiaire.md#8) Griffes et serres : Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?***
+
+Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[griffes](./Attaques naturelles (capacité).md)</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.
+Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [bond](./Bond (capacité).md) ou [éventration](./Éventration (capacité).md).
+Les serres sont similaires aux griffes, mais se placent sur les pieds d'une créature, généralement bipède (particulièrement une créature bipède volante comme un [aigle géant](./Aigle géant.md) ou une [harpie](./Harpie.md)). Une capacité qui offre des attaques de griffe ne peut pas être utilisée comme s'il s'agissait d'attaques de serre (autrement dit, vous ne pouvez pas « personnaliser » les effets techniques de la capacité pour pouvoir l'utiliser avec un membre différent).}La plupart des créatures possèdent une ou plusieurs attaques naturelles (c’est-à-dire des attaques effectuées sans l’aide d’une arme fabriquée). Ces attaques sont regroupées en deux catégories : les attaques primaires et les attaques secondaires.
+- {s:Reference|PRINCIPALE}Les attaques primaires utilisent le [bonus d’attaque de base](./BBA.md) maximum de la créature et lui permettent d’ajouter son bonus de [Force](./Force.md) aux [jets de dégâts](./jet de dégâts.md).
+- {s:Reference|SECONDAIRE}Les attaques secondaires utilisent le bonus d’attaque de base de la créature –5 et ne lui permettent d’ajouter que la moitié de son bonus de Force aux dégâts.
+- Si une créature ne possède qu’une seule attaque naturelle, celle-ci utilise toujours le bonus d’attaque de base maximum de la créature et lui permet d’ajouter 1,5 fois son bonus de Force aux dégâts. Cette règle ne s’applique pas si la créature dispose de plusieurs attaques mais n’en effectue qu’une seule.
+
+Si une créature possède un seul type d’attaque mais peut attaquer plusieurs fois au cours du même round, on considère cette attaque comme une attaque primaire (quelle que soit la catégorie à laquelle elle appartient). La Table ci-dessous cite les types d’attaques naturelles les plus courants et indique leur catégorie.
+
+Certaines attaques spécifiques sont régies par des règles différentes. C’est par exemple le cas des [dragons](./dragon.md) qui ajoutent toujours 1,5 fois leur bonus de [Force](./Force.md) aux dégâts de leur morsure. Ces exceptions sont mentionnées dans la description des monstres concernés.
+
+Les créatures qui disposent à la fois d’attaques naturelles et d’attaques par armes manufacturées peuvent combiner ces deux types d’attaques au cours d’une [attaque à outrance](./attaque à outrance.md) (mais, généralement, elles doivent sacrifier les attaques naturelles qui correspondent aux membres dans lesquels elles tiennent une arme, qu’il s’agisse de griffes, de tentacules ou d’un autre appendice). Dans ce cas, les attaques utilisant des armes manufacturées s’effectuent normalement mais toutes les attaques naturelles sont considérées comme des attaques secondaires (quelle que soit la
+catégorie à laquelle elles appartiennent).
+
+La Table ci-dessous présente également les dégâts usuels des attaques naturelles en fonction de la taille des créatures.
+
+{s:Reference|TABLEATTAQUENATURELLE}
+<center>
+{| CLASS="tablo"
+|+ Dégâts de base selon la taille*
+|- CLASS="titre"
+| CLASS="gauche" | Attaque naturelle
+| I
+| Min
+| TP
+| P
+| M
+| G
+| TG
+| Gig
+| Col
+| Type de dégâts
+| Type d’attaque
+|- CLASS="premier"
+| CLASS="gauche" | Aile, pseudopode, sabot, tentacule
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C
+| secondaire
+|- CLASS="alt"
+| CLASS="gauche" | Bec, mandibules, morsure
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| C/P/T
+| primaire
+|-
+| CLASS="gauche" | Corne, défense
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| P
+| primaire
+|- CLASS="alt"
+| CLASS="gauche" | Coup, frappe
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C
+| primaire
+|-
+| CLASS="gauche" | Coup de queue, pinces
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| 4d6
+| C
+| secondaire
+|- CLASS="alt"
+| CLASS="gauche" | Dard
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| P
+| primaire
+|-
+| CLASS="gauche" | Griffe
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C/T
+| primaire
+|- CLASS="alt"
+| CLASS="gauche" | Serres
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| T
+| primaire
+|-
+| CLASS="gauche" | Autre
+| —
+| 1
+| 1d2
+| 1d3
+| 1d4
+| 1d6
+| 1d8
+| 2d6
+| 2d8
+| C/P/T
+| secondaire
+|}
+</center>
+
+<nowiki>*</nowiki> Pour certaines créatures, il peut être approprié d’utiliser d’autres valeurs que celles indiquées ci-dessus.
+
+La colonne « Type de dégât » indique le type des dégâts généralement infligés par l’attaque naturelle en question :
+contondant (C), Perforant (P) ou tranchant (T). Certaines attaques peuvent occasionner des dégâts de plusieurs types à la fois. Elles ignorent les réductions de dégâts comme si la totalité des dégâts appartenait à chacun des types de dégâts cités. Certains Extérieurs, fées, humanoïdes ou humanoïdes monstrueux ne possèdent aucune attaque naturelle. Ces créatures peuvent porter des attaques à mains nues, mais les bonus d’attaque sont alors déterminés comme si elles utilisaient des armes et, si elles attaquent avec deux mains, les règles du combat à deux armes s’appliquent.
+
+*Format :* morsure, +5 (1d6+1), 2 griffes, +5 (1d4+2), 4 tentacules, +0 (1d4+1). *Emplacement :* Corps à corps et Distance.

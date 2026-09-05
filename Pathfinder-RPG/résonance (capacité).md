@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.résonance (capacité)
+Title: résonance
+LastModified: 2020-08-12 12:21
+Categories:
+- Redirection
+---
+
+>>> Pouvoirs résonants

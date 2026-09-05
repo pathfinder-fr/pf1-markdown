@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Abaque (objet)
+Title: Abaque
+LastModified: 2021-09-24 22:01
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 2 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Cet instrument facilite les calculs mathématiques.

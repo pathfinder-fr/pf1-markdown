@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Sort encourageant
+Title: Sort encourageant
+LastModified: 2024-07-23 17:46
+Categories:
+- Contenu supplémentaire
+- Don
+- Don métamagie
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*L'inspiration du personnage fournit à ses alliés un plus grand renfort*
+
+**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+
+**Condition.** [Cha](./Cha.md) 13, 6 rangs en [Diplomatie](./Diplomatie.md)
+
+**Avantage.** Les bonus de moral accordés par un sort encourageant sont augmentés de 1. Un sort encourageant utilise un emplacement d’un niveau supérieur au niveau normal du sort.
+
+(((Encouraging spell (Metamagic)
+
+Your inspiration provides your allies with greater support.
+
+Prerequisites: Cha 13, Diplomacy 6 ranks.
+
+Benefit: Any morale bonus granted by an encouraging spell is increased by 1. An encouraging spell uses up a spell slot 1 level higher than the spell’s actual level.)))

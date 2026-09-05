@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Échelle (objet)
+Title: Échelle
+LastModified: 2021-09-16 20:48
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 2 pa (standard), 2 po (pliante) ; **Poids** 10 kg (standard), 13 kg (pliante)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette simple échelle de 3 mètres de haut se compose de deux longues planches auxquelles sont clouées des barreaux en bois tous les 30 centimètres.  
+  
+*Échelle pliante*. Le crochet, les montants et les barreaux de cette échelle de 3 mètres sont articulés, ce qui permet au personnage de la replier en un paquet de 1,50 mètre sur 30 centimètres. Il faut une [action simple](./Action simple.md) pour la plier ou la déplier.

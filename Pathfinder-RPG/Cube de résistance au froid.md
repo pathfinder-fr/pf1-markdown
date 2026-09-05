@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Cube de résistance au froid
+Title: Cube de résistance au froid
+LastModified: 2024-06-16 19:13
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cube de résistance au froid|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 27 000 po ; **Poids** 1 kg
+(((Description)))
+Ce cube s’active ou se désactive en appuyant sur l’une de ses faces. Activé, il constitue une zone cubique de trois mètres d’arête autour de son possesseur (ou autour du cube, s’il est posé plutôt que tenu), à l’intérieur de laquelle il maintient une température minimale de 20° C si la température extérieure est plus faible. Le champ de force absorbe toutes les attaques à base de froid. S’il subit un total de 50 points de dégâts en 1 round, le cube reprend sa forme initiale et ne peut être activé avant au moins une heure (cela se produit que les dégâts aient été infligés par une ou plusieurs attaques). Enfin, s’il essuie 100 points de dégâts ou plus dans un laps de temps de 10 rounds, le cube est détruit.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* ; **Coût** 13 500 po
+</div>

@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Geyser dair
+Title: Geyser d'air
+LastModified: 2022-06-14 13:49
+Categories:
+- Sort chaman 4
+- Sort druide 3
+- Sort magicien 3
+- Sort magus 3
+- Sort sanguin 3
+- Sort sorcière 3
+---
+
+{s:MCA}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Cible** une créature ou un objet de taille G au maximum  
+
+**Durée** instantanée  
+
+**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour dégâts partiels (cf. texte) ; **Résistance à la magie** oui
+
+Le personnage crée un puissant souffle d’air capable de projeter un adversaire dans les airs. Si la cible rate son jet de [Réflexes](./Réflexes.md), la force de l’air lui inflige 2d6 points de dégâts contondants et la projette dans les airs à une hauteur, en mètres, égale à 1,5 × le niveau du lanceur. Si un objet solide (comme un plafond) arrête la cible dans sa course, celle-ci s’écrase sur l’objet de la même façon qu’elle le ferait au cours d’une chute normale. Quand ce souffle d’air s’arrête, la cible retombe (à moins qu’elle ne soit en mesure de voler) et reçoit les dégâts normaux de la chute. Sur un jet de sauvegarde réussi, la cible ne reçoit que la moitié des dégâts du souffle d’air et celui-ci ne la déplace pas.

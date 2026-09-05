@@ -1,0 +1,48 @@
+---
+Name: Pathfinder-RPG.Implants démoniaques
+Title: Les implants démoniaques
+LastModified: 2024-06-01 17:07
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Livre des damnés
+---
+
+{s:MenuObjetsMagiques}{s:BotD}Cette méthode pour devenir un démon est sans doute moins invasive, mais également plus douloureuse. Elle consiste à implanter petit à petit des éléments démoniaques dans le corps d’un mortel. En extrayant des sections du corps d’un démon, puis en les préparant et en les préservant grâce à l’application de diverses et étranges techniques occultes, il est possible d’arracher une partie des pouvoirs d’un démon pour les transférer à une créature douée de conscience. Les implants démoniaques peuvent être des élixirs magiques provisoires similaires à des drogues (engendrant souvent une dépendance) ou de véritables éléments corporels qui doivent être greffés sur le corps d’un mortel vivant ou à l’intérieur pour pouvoir fonctionner. Tous sont traités comme des [objets merveilleux](./Objets merveilleux.md) en ce qui concernent leur utilisation et leur fabrication. Les trois exemples proposés ici ne font qu’effleurer le potentiel de cette dangereuse catégorie d’objets magiques.
+
+Le récipiendaire des implants démoniaques doit être volontaire pour que la greffe prenne ; les tentatives de greffe forcées aboutissent toujours à un échec. Les greffes d’implants démoniaques réussies infligent des [niveaux négatifs](./niveau négatif.md) aux utilisateurs Bons ou Loyaux ; les niveaux négatifs se cumulent entre eux à chaque nouvel implant greffé. Ils demeurent tant que l’implant est greffé ou (dans le cas du *sang de démon*) jusqu’à ce que l’effet se dissipe. Ils ne provoquent jamais une perte de niveaux définitive, mais il est impossible de se débarrasser des niveaux négatifs tant que l’implant est actif.
+
+Les implants doivent être physiquement excisés si on souhaite les retirer. Cette excision inflige 1d6 points d'[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de [Constitution](./Constitution.md) et peut également provoquer divers autres effets (surdité ou cécité, par exemple) à la discrétion du [MJ](./MJ.md).
+
+### Exemples d'implants démoniaques
+Voici trois exemples d'implants démoniaques : le *sang de démon* , le *sens de démon* et la *patte griffue de démon*.
+
+<table class="page espace-col deuxcol"><tr><td>
+<div class="BD">
+{s:BDTitre|Sang de démon|{s:BotD}{s:Reference|SANGDEDEMON}}
+**Aura** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 800 po ; **Poids** 0,5 kg
+(((Description)))
+Un personnage qui boit une dose de cette liqueur noire et bouillonnante devient [nauséeux](./Nauséeux.md) pendant 1d6 rounds s’il rate un jet de [Vigueur](./Vigueur.md) DD 15. Une fois qu’il l’a ingurgitée, ses attaques ont plus de chances d’affecter les démons pendant 1 heure ; durant cette période, les démons subissent un malus de -2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts et les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) du personnage et celui-ci gagne un bonus de +2 aux tests de [niveau de lanceurs de sorts](./NLS.md) effectués pour vaincre la [résistance à la magie](./RM.md) d’un démon. Le sang de démon engendre une forme de dépendance ; si personnage ne boit pas sa dose quotidienne de sang de démon, il doit réussir un jet de Vigueur DD 15, chaque jour et pendant une semaine, pour éviter un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1 point de [Sagesse](./Sagesse.md) et pour ne pas être [fiévreux](./Fiévreux.md) pendant toute cette journée.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[profanation](./Profanation.md)* ; **Coût** 400 po
+</div>
+
+<div class="BD">
+{s:BDTitre|Sens de démon|{s:BotD}{s:Reference|SENSDEDEMON}}
+**Aura** [Invocation](./Invocation.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 20 000 po ; **Poids** 0,5 kg
+(((Description)))
+Cet implant se présente sous la forme d’un petit bocal rempli de fluide translucide dans lequel flotte un œil, une langue, un doigt, une oreille ou un nez de démon. Pour bénéficier des avantages de cet implant, il faut consommer la totalité du contenu (le fluide épais, l’élément corporel etc.) par une [action complexe](./Action complexe.md). Cette ingestion offre immédiatement un bonus racial permanent de +8 à tous les tests de [Perception](./Perception.md) (remarquez que ce bonus est de type racial et qu’il ne se cumule donc pas avec les autres bonus raciaux que la créature possède déjà). Lorsque le personnage bénéficie de ce bonus, la partie de son corps correspondant à celle ingurgitée se transforme pour ressembler à l’élément ingéré : les yeux deviennent rougeoyants, les oreilles poussent et deviennent pointues, la langue se fourche, et ainsi de suite.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[souhait limité](./Souhait limité.md)*, *[régénération](./Régénération.md)* ; **Coût** 10 000 po
+</div>
+</td>
+<td>
+<div class="BD">
+{s:BDTitre|Patte griffue de démon|{s:BotD}{s:Reference|PATTEGRIFFUEDEDEMON}}
+**Aura** [Invocation](./Invocation.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 20 000 po ; **Poids** 1,5 kg
+(((Description)))
+La *patte griffue de démon* doit être apposée contre la chair à vif d’un moignon récent : s’il faut amputer une créature d’une main, elle subit un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d6 points de [Constitution](./Constitution.md), mais, s’il suffit de préparer un moignon déjà existant en coupant la peau pour mettre la chair à nu, la créature ne subit pas de dégât significatif. Une fois positionnée, la *patte griffue de démon* fusionne avec le moignon, ce qui octroie à la créature une attaque de griffe correspondant à une catégorie de taille de plus que la taille réelle de la cible. La griffe a la forme d’une main humaine (quatre doigts et un pouce), mais possède un aspect démoniaque indubitable (avec des écailles, une coloration étrange, de longues griffes, etc.). Elle peut servir à manier des armes et accomplir tout ce qui est à la portée d’une main humaine.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[souhait limité](./Souhait limité.md)*, *[régénération](./Régénération.md)* ; **Coût** 10 000 po
+</div>
+</td></tr></table>

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Crabe (objet)
+Title: Crabe
+LastModified: 2021-10-14 15:49
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 20 po ; **Poids** 2,5–3,5 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Les lanceurs de sorts marins trouvent souvent que les grands crabes des océans font des [familiers](./Familiers.md) agréables. Néanmoins, sans le lien de familier, ces crustacés dépourvus d’intelligence sont des animaux de compagnie sans intérêt. Voir les statistiques du [crabe royal](./Crabe royal.md).

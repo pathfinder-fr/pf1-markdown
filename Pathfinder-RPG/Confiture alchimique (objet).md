@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Confiture alchimique (objet)
+Title: Confiture alchimique
+LastModified: 2021-09-19 20:10
+Categories:
+- Équipement
+- Src Manuel des races
+---
+
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+Ces petites boîtes de confiture spécialement traitée contiennent juste assez de marmelade pour fournir une dose revitalisante à un [halfelin](./Halfelin.md). N’importe quelle créature peut manger cette confiture par une [action simple](./Action simple.md), mais elle ne bénéficie qu’aux halfelins. Elle dissipe la [fatigue](./Fatigué.md) chez ces derniers, mais rend les autres créatures [fiévreuses](./Fiévreux.md) pendant 1 [round](./round.md).

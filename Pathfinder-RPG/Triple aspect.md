@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Triple aspect
+Title: Triple aspect
+LastModified: 2022-07-05 22:13
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 5
+- Sort sorcière 4
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 5, [Sor](./Sorcière.md) 4  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, F](./composantes.md) (croissant d'argent d'une valeur de 5 po)  
+
+**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+
+**Cible** lanceur de sorts  
+
+**Durée** 24 heures (T)
+
+Le *triple aspect* permet au personnage de changer son apparence contre celle d'une des trois catégories d'âges idéalisées : adolescent (jeune homme/jeune fille), adulte (père/mère) ou personne âgée (ancien/ne). Dans tous les cas, il revêt l'apparence qui serait la sienne à l'âge approprié, il n'endosse pas celle d'un nouvel individu.
+
+Le personnage peut changer son apparence et son âge réel selon ces trois aspects par une [action simple](./Action simple.md). En tant qu'adolescent, il gagne un bonus d'altération de +2 à la [Dextérité](./Dextérité.md) et à la [Constitution](./Constitution.md) mais souffre d'un malus de -2 à la [Sagesse](./Sagesse.md). Sous forme adulte, il gagne un bonus d'altération de +2 à la [Sagesse](./Sagesse.md) et à l'[Intelligence](./Intelligence.md) mais subit un malus de –2 à la [Dextérité](./Dextérité.md). Sous forme de personne âgée, il gagne un bonus d'altération de +4 à la [Sagesse](./Sagesse.md) et à l'[Intelligence](./Intelligence.md) mais subit un malus de -2 à la [Dextérité](./Dextérité.md) et à la [Force](./Force.md). Comme ces bonus sont de type altération, ils se cumulent avec les bonus que le personnage possède déjà en raison de son âge (et qui n'appartiennent à aucun type). Les bonus accordés par le sort représentent la forme idéalisée du *triple aspect* et ne reproduisent pas les valeurs de caractéristiques dont le personnage dispose réellement à l'âge donné.
+
+*[Vision lucide](./Vision lucide.md)* révèle le véritable aspect du personnage, dissimulé par celui qu'il a revêtu, et reconnaît les deux formes comme faisant partie de sa personne. Les individus qui l'examinent attentivement et qui ont déjà interagi avec lui alors qu'il avait un autre âge lui trouvent une certaine ressemblance (comme un air de famille) s'ils réussissent un test de [Perception](./Perception.md) [DD](./DD.md) 20.
+
+Le *triple aspect* ne modifie ni les vêtements, ni l'équipement du personnage et ne soigne pas les blessures ni les difformités qui ne sont pas liées à l'âge.

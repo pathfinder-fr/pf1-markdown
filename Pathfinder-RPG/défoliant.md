@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.défoliant
+Title: Défoliant
+LastModified: 2025-01-15 18:55
+Categories:
+- Sort druide 2
+- Sort magicien 2
+- Sort rôdeur 1
+---
+
+{s:plume}<div class="description">**Source :** Sargava, the Lost Colony (SLC).</div>
+
+**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Rod](./Rôdeur.md) 1  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M](./composantes.md) (une sauterelle)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Effet** voir texte  
+
+**Durée** instantanée  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Une petite sphère d'énergie négative jaillit des mains du personnage, tuant toutes les plantes sur une ligne de 18 mètres (12 {s:c}) ou dans une émanation de 3 mètres (2 {s:c}). Il supprime ainsi tout camouflage ou abri que ces plantes pourraient offrir.
+
+Vous pouvez aussi cibler une unique créature plante avec ce sort. Vous devez réussir une attaque de contact à distance pour toucher votre cible. Si vous réussissez à la toucher, la créature subit 2d8 points de dommage.

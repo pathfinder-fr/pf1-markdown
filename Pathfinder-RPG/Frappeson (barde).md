@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Frappeson (barde)
+Title: Frappeson
+LastModified: 2024-07-08 00:25
+Categories:
+- Archétype
+- Archétype barde
+- Classe
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:Menuarchétypebarde}{s:um}*On dit que les mots peuvent blesser plus profondément que n’importe quelle arme et le frappeson en est la preuve indéniable. Il utilise la musique et les mots comme une arme et peut faire de sa représentation une performance mortelle.*
+
+#### Représentation bardique
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- lArt de la magie.md#5) Barde, Frappeson : La capacité de frappeson paroles étranges est floue. Fonctionne-t-elle plus d'une fois sur la même cible ? Et nécessite-t-elle 30 jets de dés pour être résolue ?**'
+
+Remplacez le texte de <u>[paroles étranges](./Frappeson (barde).md)</u> par le suivant « Au niveau 6, le frappeson peut utiliser une [action simple](./Action simple.md) pour démarrer une représentation et prononcer un mot par tranche de 4 niveaux de barde tout en chargeant ces mots d'énergie sonique. Chaque mot inflige 4d6 points de dégâts de son sous la forme d'une [attaque de contact](./attaque de contact.md) à distance avec une portée de 9 mètres (6 c). Le barde ajoute son modificateur de Charisme aux dégâts pour chacun des mots mystiques. Il peut diriger plusieurs mots sur une même cible, les combinant en une attaque unique plus puissante et n'appliquant la résistance aux énergies et les bonus aux jets de dégâts qu'une seule fois. Le frappeson peut diriger tous les mots vers une unique cible ou viser des cibles différentes, mais il les prononce tous simultanément. Chaque mot lui coûte 1 round de représentation bardique. » Ces changements seront reflété dans le prochain errata.}Le frappeson obtient les représentations bardiques suivantes. Aucune de ces représentations ne s’exécute plus vite qu’une action simple.
+- *Frappemot (Sur).* Au niveau 3, le frappeson peut utiliser un round de [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) par une [action simple](./Action simple.md) pour envoyer une salve de mots chargés de puissance sonore en direction d’une créature ou d’un objet. Cette représentation inflige 1d4 points de dégâts plus le niveau du barde à un objet ou la moitié à une créature vivante. Cette représentation remplace [inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE).
+- *Paroles étranges (Sur).* Au niveau 6, le frappeson peut utiliser une [action simple](./Action simple.md) pour démarrer une représentation et prononcer un mot par tranche de 4 niveaux de barde tout en chargeant ces mots d'énergie sonique. Chaque mot inflige 4d6 points de dégâts de son sous la forme d'une [attaque de contact](./attaque de contact.md) à distance avec une portée de 9 mètres (6 {s:c}). Le barde ajoute son modificateur de Charisme aux dégâts pour chacun des mots mystiques. Il peut diriger plusieurs mots sur une même cible, les combinant en une attaque unique plus puissante et n'appliquant la résistance aux énergies et les bonus aux jets de dégâts qu'une seule fois. Le frappeson peut diriger tous les mots vers une unique cible ou viser des cibles différentes, mais il les prononce tous simultanément. Chaque mot lui coûte 1 round de représentation bardique. Cette représentation remplace [suggestion](./Représentations.md#SUGGESTION).

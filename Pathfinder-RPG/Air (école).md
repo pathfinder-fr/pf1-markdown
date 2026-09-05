@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Air (école)
+Title: L'école élémentaire de l'Air
+LastModified: 2024-09-28 17:14
+Categories:
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:MenuÉcoles}{s:APG}*L’élémentaliste de l’Air manipule les forces du vent, du ciel, des nuages et des éclairs pour semer la confusion et la destruction chez ses ennemis tout en volant dans les airs.*
+
+**Suprématie aérienne (Sur).** Le [magicien](./Magicien.md) gagne un bonus d’altération de +2 aux tests de [Vol](./Vol.md). Ce bonus augmente de +1 par tranche de cinq [niveaux](./niveau.md) de [magicien](./Magicien.md). De plus, il peut lancer *[feuille morte](./Feuille morte.md)* à volonté sur lui-même. Au [niveau](./niveau.md) 5, le [magicien](./Magicien.md) peut lancer *[lévitation](./Lévitation.md)* à volonté sur lui-même. Au [niveau](./niveau.md) 10, il peut lancer *[vol](./sort Vol.md)* à volonté sur lui-même. Au [niveau](./niveau.md) 20, chaque fois qu’il effectue un test de [Vol](./Vol.md), le [magicien](./Magicien.md) peut considérer que le dé indique un 20 naturel.
+
+**Décharge d’éclair (Sur).** Par une [action simple](./Action simple.md), le [magicien](./Magicien.md) peut lancer une décharge d’électricité qui inflige 1d6 points de dégâts + 1 point par tranche de deux [niveaux](./niveau.md) de magicien à toutes les créatures situées dans un rayon de 1,50 m (1 {s:c}) autour de lui et qui les [éblouit](./Ébloui.md) pendant 1d4 [rounds](./round.md). Un jet de [Réflexes](./Réflexes.md) réussi permet d’annuler l’[éblouissement](./Ébloui.md) et de diviser les dégâts par deux. Le [DD](./DD.md) de ce [jet de sauvegarde](./jet de sauvegarde.md) vaut 10 + la moitié du [niveau](./niveau.md) du [magicien](./Magicien.md) + son modificateur d’[Intelligence](./Intelligence.md). Le [magicien](./Magicien.md) peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur d’[Intelligence](./Intelligence.md).
+
+**Cyclone (Sur).** Au [niveau](./niveau.md) 8, le [magicien](./Magicien.md) peut s’entourer de vents violents par une [action simple](./Action simple.md). Ce cyclone a un rayon pouvant aller jusqu’à 3 m (2 {s:c}) et une hauteur maximale de 3 m (2 {s:c}) par niveau de [magicien](./Magicien.md). Les attaques à distance qui passent à travers lui échouent automatiquement. Toutes les créatures volantes qui traversent le cyclone doivent effectuer un test de [Vol](./Vol.md) pour éviter de tomber et de subir des dégâts de chute (la créature ne peut pas tenter un test de [Volonté](./Volonté.md) pour annuler ou réduire ces dégâts). Les créatures au sol ne peuvent pas traverser le cyclone sans d’abord réussir un test de [Force](./Force.md) contre un [DD](./DD.md) égal à 10 + le [NLS](./NLS.md) du magicien. Le cyclone est légèrement visible et peut être repéré avec un test de [Perception](./Perception.md) de [DD](./DD.md) 15. Le [magicien](./Magicien.md) peut utiliser cette capacité pendant un nombre de [rounds](./round.md) par jour égal à son [niveau](./niveau.md) de [magicien](./Magicien.md). Ces [rounds](./round.md) ne doivent pas forcément être consécutifs.

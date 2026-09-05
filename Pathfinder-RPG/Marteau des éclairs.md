@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Marteau des éclairs
+Title: Marteau des éclairs
+LastModified: 2024-06-17 18:28
+Categories:
+- Objet mag
+- Objet mag artefact
+- Objet mag maudit
+- Src Armes et équipement
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Marteau des éclairs|{s:AE}}
+**Aura** Variable puissante ; **NLS** 20 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 7,5 kg
+(((Description)))
+Quand il touche, ce [marteau de guerre](./marteau de guerre (arme).md) *[boomerang](./boomerang (propriété).md)* de taille G +3 inflige 2d6 points de dégâts. Quand le propriétaire du marteau porte aussi une [ceinturon de force de géant](./Ceinturon de force de géant.md) et connaît le nom de son arme (pas s’il pense qu’il s’agit juste d’un [marteau de guerre](./marteau de guerre (arme).md) +3), le marteau se transforme en [marteau de guerre](./marteau de guerre (arme).md) *[boomerang](./boomerang (propriété).md)* de *[tonnerre](./tonnerre (propriété).md) [tueur](./tueuse (propriété).md) de géants* de taille G +5 doté des deux propriétés suivantes.
+
+Premièrement, quand son propriétaire réussit une attaque de jet, le marteau produit un puissant coup de tonnerre qui [étourdit](./Étourdi.md) toutes les créatures situées à moins de 27 mètres pendant 1 [round](./round.md) ([Vigueur](./Vigueur.md) [DD](./DD.md) 15 pour annuler). Le propriétaire de l’arme n’est pas immunisé contre cet effet. Deuxièmement, le [facteur de portée](./facteur de portée.md) du marteau passe à 9 mètres.
+(((Destruction)))
+On peut détruire le *marteau des éclairs* en le faisant chauffer dans la forge d’un [géant du feu](./Géant du feu.md) avant de le refroidir dans le sang d’un humanoïde d’alignement Bon. Le métal devient alors si fragile qu’il casse dès qu’il touche une cible. Pour inverser le phénomène, il faut le plonger dans le sang d’un [géant du feu](./Géant du feu.md). On ne peut pas réparer le marteau une fois [brisé](./Brisé.md).
+</div>

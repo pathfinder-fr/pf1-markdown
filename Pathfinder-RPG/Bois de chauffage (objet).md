@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Bois de chauffage (objet)
+Title: Bois de chauffage (par jour)
+LastModified: 2021-09-16 19:48
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pc ; **Poids** 10 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce paquet de bois sec se compose de brindilles ou de bûches.

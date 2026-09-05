@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Types de créatures
+Title: Les types et sous type de créatures
+LastModified: 2024-08-25 22:33
+Categories:
+- Type de créature
+---
+
+{s:MenuOpposition}{s:MenuTypes}Chaque créature appartient à un type figurant dans le premier tableau ci-contre qui définit ses capacités dans les grandes lignes.
+
+Certaines créatures possèdent un ou plusieurs sous-types figurant dans le second tableau ci-contre. ces sous-types correspondent à diverses capacités spéciales et aux particularités dont elles disposent.
+
+Une créature ne peut pas violer les règles de son type ou de son sous-type à moins de posséder une capacité spéciale ou une particularité qui le justifie.
+
+Les [archétypes](./Archétypes.md) changent souvent le type des créatures du tout au tout.

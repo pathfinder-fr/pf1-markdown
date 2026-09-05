@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Récupération de sang
+Title: Récupération de sang
+LastModified: 2014-08-31 16:23
+Categories:
+- Don
+- Manuel des races
+---
+
+{s:MR}*Le dhampir n’est pas obligé de boire du sang d’une créature vivante pour bénéficier de ses vertus de guérison.*
+
+**Conditions requises.** [Buveur de sang](./Buveur de sang.md), [dhampir](./Dhampir.md).
+
+**Avantages.** Le dhampir peut utiliser son don Buveur de sang sur une créature morte du [sous-type humanoïde](./type Humanoïde.md) approprié. La créature doit être morte depuis moins de 6 heures au maximum.
+
+**Normal.** Le dhampir ne peut bénéficier des avantages du don Buveur de sang que s’il consomme du sang frais sur une créature vivante.

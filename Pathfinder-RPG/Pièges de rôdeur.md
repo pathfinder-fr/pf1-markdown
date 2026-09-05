@@ -1,0 +1,88 @@
+---
+Name: Pathfinder-RPG.Pièges de rôdeur
+Title: Pièges de rôdeur
+LastModified: 2024-09-20 05:21
+Categories:
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:MenuClasses}
+{s:UM}''Les rôdeurs sont les maîtres des terres frontalières, de fidèles gardiens polyvalents qui protègent le domaine qu’ils se sont choisi. Les druides cherchent le réconfort dans la nature mais les rôdeurs se situent sur la ligne floue entre la société civilisée et les étendues sauvages. Ils apprennent de leur environnement favori et s’endurcissent pour devenir de grands prédateurs, qu’ils soient éclaireurs, pisteurs, chasseurs de primes ou autres. La plupart des gens les considèrent comme des combattants physiques mais ils possèdent également de nombreuses aptitudes magiques.
+La partie qui suit présente les pièges de rôdeur (de simples pièges improvisés auxquels le rôdeur incorpore parfois une part de sa magie) et un nouvel archétype de rôdeur, le trappeur, un expert des pièges de toutes sortes.''
+
+### Les pièges de rôdeur
+Les rôdeurs possèdent une habileté légendaire pour traquer et capturer leurs proies. Certains sont capables de fabriquer des pièges élaborés à l’aide de débris, de lianes et d’une once de magie spécialisée. Les personnages peuvent apprendre à utiliser ces pièges à l’aide du don [Apprendre un piège de rôdeur](./Apprendre un piège de rôdeur.md) ou en choisissant l’archétype de [trappeur](./Trappeur (rôdeur).md).
+
+Pour poser un piège, il faut dépenser une [action complexe](./Action complexe.md) qui provoque des [attaques d’opportunité](./attaque dopportunité.md). Le piège occupe une case de 1,50 mètre (1 {s:c}) de côté. Il est impossible de le placer dans une case déjà occupé par un piège de rôdeur ou un piège magique comme un *[glyphe de garde](./Glyphe de garde.md)*. Le rôdeur a seulement besoin de matériaux de base pour créer le piège, comme un bout de tissu, un peu de métal (une dague, une pointe de fer ou quelques clous), 30 centimètres de corde ou de liane, etc. Le [DD](./DD.md) des tests de [Perception](./Perception.md) pour remarquer le piège, des tests de [Sabotage](./Sabotage.md) pour le désarmer et des [jets de sauvegarde](./jet de sauvegarde.md) pour l’éviter est toujours égal à 10 + 1/2 niveau du personnage + bonus de [Sagesse](./Sagesse.md). Tous les pièges de rôdeur sont de type *Déclencheur* emplacement et *Remise en place* aucune.
+
+Les pièges de rôdeur sont extraordinaires ou surnaturels : les extraordinaires sont de Type mécanique et les surnaturels de Type magique. Certains sont notés comme extraordinaires ou magiques (surnaturels), quand le rôdeur les apprend, il peut les utiliser d’une manière ou de l’autre.
+- Un piège extraordinaire a un malus de -2 au [DD](./DD.md). Il dure 1 jour par niveau de rôdeur ou jusqu’à ce qu’on le déclenche, selon ce qui se produit en premier. 
+- Un piège magique ne dure que 1 heure par niveau ou jusqu’à ce qu’on le déclenche, selon ce qui se produit en premier. 
+
+Le [DD](./DD.md) du piège diminue de 1 pour chaque jour passé après sa pose (ou chaque heure dans le cas des pièges magiques).
+
+Les pièges marqués d’un astérisque (*) s’ajoutent ou viennent modifier les effets d’un autre piège. Le rôdeur peut ajouter ce type de piège à n’importe quel piège de rôdeur standard (ce qui lui coûte 1 utilisation de son pouvoir de piège de plus).
+
+<table class="page espace-col deuxcol"><tr><td>
+{s:Reference|COLLET}
+<div class="BD">
+{s:BDTitre|Collet (Ext ou Sur)|{s:UM}}
+- **Effet.** Ce piège se resserre autour d’un membre ou d’une autre partie du corps de la créature qui l’a déclenché (jet de [Réflexes](./Réflexes.md) pour éviter). La créature ne peut plus s’éloigner du piège, à moins que le rôdeur n’ait inclus une « laisse » lors de la construction du piège, ce qui permet à la créature de se déplacer dans la limite autorisée par ce lien. La créature piégée peut s’enfuir avec un test d’[Évasion](./Évasion.md) ([DD](./DD.md) égal au DD du piège) par une [action complexe](./Action complexe.md). Le piège et sa laisse ont un nombre de [points de vie](./pv.md) égal à 1/2 niveau du rôdeur. La victime peut les briser avec un test de [Force](./Force.md) [DD](./DD.md) 25 par une [action complexe](./Action complexe.md). Le piège peut retenir une créature de [taille M](./taille M.md) au maximum. Chaque utilisation quotidienne supplémentaire du pouvoir de piège du rôdeur permet d’augmenter la taille maximale de la créature que le piège peut retenir. Si le rôdeur le souhaite et qu’il y a un objet ou une structure de haute taille non loin, il peut concevoir le piège de manière à hisser la créature.
+</div>
+
+{s:Reference|PIEGEAALARME}
+<div class="BD">
+{s:BDTitre|Piège à alarme* (Ext ou Sur)|{s:UM}}
+- **Effet.** Quand quelqu’un déclenche le piège, il émet un puissant bruit momentané équivalent à une version audible du sort *[alarme](./Alarme.md)*.
+</div>
+
+{s:Reference|PIEGEBRULANT}
+<div class="BD">
+{s:BDTitre|Piège brûlant* (Ext ou Sur)|{s:UM}}
+- **Effet.** Un rôdeur peut ajouter ce piège sur un piège de feu uniquement. Si la créature qui le déclenche rate un jet de [Réflexes](./Réflexes.md), elle prend feu et reçoit 1d6 points de dégâts de feu au début de son tour pendant 1d4 rounds. La créature en flammes peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) par une [action complexe](./Action complexe.md). Si elle se laisse tomber par terre et se roule au sol, elle gagne un bonus de +4 au [jet de sauvegarde](./jet de sauvegarde.md).
+</div>
+
+{s:Reference|PIEGEEMPOISONNE}
+<div class="BD">
+{s:BDTitre|Piège empoisonné (Ext ou Sur)|{s:UM}}
+- **Effet.** Ce piège empoisonne la créature qui le déclenche. Si c’est un piège surnaturel, le poison inflige 1d2 points d’[affaiblissement](./affaiblissement temporaire.md) de [Constitution](./Constitution.md) par round pendant 6 rounds. Si c’est un piège extraordinaire, le rôdeur doit fournir une dose de [poison](./poison.md) qui s’applique par contact, inhalation ou blessure quand il installe le piège. Ce dernier utilise les effets et le [DD](./DD.md) du poison.
+</div>
+
+{s:Reference|PIEGEEXPLOSIF}
+<div class="BD">
+{s:BDTitre|Piège explosif* (Ext ou Sur)|{s:UM}}
+- **Effet.** Un rôdeur peut ajouter ce piège sur un piège de feu uniquement. Le piège explose en une gerbe de feu qui remplit les cases adjacentes et inflige un nombre de points de dégâts égal à 1d6 + 1/2 niveau du rôdeur (jet de [Réflexes](./Réflexes.md) pour annuler). Si le piège est extraordinaire, le rôdeur doit utiliser un matériau explosif, comme du [feu grégeois](./Feu grégeois (objet).md), quand il installe le piège.
+</div>
+
+</div></td><td>
+{s:Reference|PIEGEDEFEU}
+<div class="BD">
+{s:BDTitre|Piège de feu (Ext ou Sur)|{s:UM}}
+- **Effet.** Le piège explose dans une gerbe de flammes qui infligent un nombre de points de dégâts de feu égal à 1d6 + 1/2 niveau du rôdeur à la créature qui le déclenche (jet de [Réflexes](./Réflexes.md) pour annuler). Si le piège est extraordinaire, le rôdeur doit utiliser un matériau explosif, comme du [feu grégeois](./Feu grégeois (objet).md), quand il installe le piège.
+</div>
+
+<div class="BD">
+{s:Reference|PIEGEGIVRANT}
+{s:BDTitre|Piège givrant|{s:UM}}
+- **Effet.** Le piège crée une explosion de glace qui inflige des dégâts à la créature qui le déclenche et l’immobilise. Elle reçoit 1d3 points de dégâts de froid + 1/4 du niveau du rôdeur, elle est [enchevêtrée](./Enchevêtré.md) et clouée au sol, comme avec une [sacoche immobilisante](./Sacoche immobilisante (objet).md). Un jet de [Réflexes](./Réflexes.md) permet de réduire ces dégâts de moitié et empêche la glace d’immobiliser la créature. La glace mesure 3 centimètres d’épaisseur par tranche de 2 DV du rôdeur (3 centimètres au minimum). Elle a une [solidité](./solidité.md) de 0 et 3 [points de vie](./pv.md) par tranche de 3 centimètres d’épaisseur. Elle met 2d4 rounds pour fondre.
+</div>
+
+{s:Reference|PIEGEAMARQUAGE}
+<div class="BD">
+{s:BDTitre|Piège à marquage* (Ext ou Sur)|{s:UM}}
+- **Effet.** Si la créature qui déclenche le piège rate son [jet de sauvegarde](./jet de sauvegarde.md) contre celui-ci, elle est marquée par une teinture et/ou une odeur choisie(s) par le rôdeur. Une marque olfactive réduit le [DD](./DD.md) d’un test de [Pistage](./Survie.md) à l’odeur de 4. On peut se débarrasser de cette marque en se lavant et en se frottant vigoureusement, sinon, elle disparaît d’elle-même au fil des jours.
+</div>
+
+{s:Reference|PIEGEDENEIGE}
+<div class="BD">
+{s:BDTitre|Piège de neige (Ext ou Sur)|{s:UM}}
+- **Effet.** Ce piège explose en un rayonnement de 6 mètres (4 {s:c}) qui envoie de la neige partout comme une *[tempête de neige](./Tempête de neige.md)*. La chute de neige dure un round mais le sol reste gelé pendant 1 round par niveau de rôdeur.
+</div>
+
+{s:Reference|PIEGEANUEE}
+<div class="BD">
+{s:BDTitre|Piège à nuée (Ext ou Sur)|{s:UM}}
+- **Effet.** Ce piège relâche une [nuée de chauves-souris](./Nuée de chauves-souris.md), [de rats](./Nuée de rats.md) ou d’[araignées](./Nuée daraignées.md) qui attaque toutes les créatures de la zone. La nuée reste dans la zone pendant 1 round par niveau avant de se disperser. Si le piège est extraordinaire, le rôdeur doit fournir les créatures qui forment la nuée (en les mettant dans une petite boîte, une cage ou une caisse). Ces créatures risquent de mourir de faim avant que le piège ne se déclenche (un piège extraordinaire dure 1 jour par niveau).
+</div>
+</td></tr></table>

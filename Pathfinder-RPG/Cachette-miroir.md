@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Cachette-miroir
+Title: Cachette-miroir
+LastModified: 2022-06-12 00:42
+Categories:
+- Règle officielle
+- Sort magicien 2
+- Sort occultiste 2
+- Sort psychiste 2
+- Sort sorcière 2
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M](./composantes.md) (une bille en verre ou en métal et une boucle de parchemin tordue)  
+
+**Portée** contact  
+
+**Cible** un miroir  
+
+**Durée** 1 heure/niveau (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage transforme un miroir en un portail menant à un espace extradimensionnel. Cet espace peut accueillir huit créatures de [taille](./taille.md) M. Les créatures qui entrent dans cet espace sont cachées et hors de portée des sorts (même des sorts de [divination](./Divination.md)) à moins que ces sorts ne fonctionnent à travers les plans. Si le miroir est couvert (par un drap ou s’il est placé face contre terre ou contre un mur), le portail devient inactif. Si le miroir est brisé ou déplacé de plus de 1,5 mètre par rapport à l’endroit où il se trouvait quand le personnage a lancé le sort, le sort se termine et toutes les créatures présentes dans l’espace extradimensionnel en sont expulsées (cf. plus bas) et sont [nauséeuses](./Nauséeux.md) pendant 1d6 rounds.
+
+Il est impossible de lancer des sorts par cette interface dimensionnelle et les effets de zone ne peuvent pas la traverser. Ceux qui se trouvent dans l’espace dimensionnel peuvent voir et entendre l’autre côté comme s’ils regardaient par une fenêtre ouverte de la même taille que le miroir. Les créatures extérieures à l’espace extradimensionnel ne voient que ce qu’elles verraient normalement se refléter dans le miroir.
+
+Toute créature dans l’espace dimensionnel peut se rendre visible dans le reflet du miroir pendant 1 round à la fois, mais les créatures à l’extérieur de cet espace ne peuvent entendre aucun des sons provenant de l’intérieur.
+
+Tout ce qui se trouve à l’intérieur de l’espace extradimensionnel est expulsé quand le sort se termine (même si le miroir est couvert). Seule une créature à la fois peut entrer dans le miroir et il ne lui est possible d’y entrer que si elle peut passer par une ouverture de la même taille que le miroir. Par exemple, un miroir de poche n’est pas suffisamment grand pour que les créatures de taille P ou plus grandes puissent l’utiliser comme portail. Les objets ne peuvent entrer dans l’espace extradimensionnel que si une créature capable de passer complètement par le miroir les y emmène.

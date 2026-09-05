@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Pieuvre (objet)
+Title: Pieuvre
+LastModified: 2021-09-21 13:28
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 25 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Ces animaux rusés peuvent servir de [familiers](./Familiers.md) aux lanceurs de sorts aquatiques. Si on en fait des animaux de compagnie, ils faut les garder dans l’eau puisqu’ils ne peuvent pas survivre sans. Voir les statistiques de la [pieuvre](./Pieuvre.md).

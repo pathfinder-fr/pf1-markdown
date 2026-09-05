@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Bond
+Title: Bond
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Bond (capacité)

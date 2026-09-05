@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.rang
+Title: rang
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Compétences#ACQUERIR

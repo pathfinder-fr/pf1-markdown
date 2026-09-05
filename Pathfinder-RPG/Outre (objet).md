@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Outre (objet)
+Title: Outre
+LastModified: 2021-09-16 22:01
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po ; **Poids** 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette sacoche est faite de peau animale ou de cuir traité. Elle est étanche et peut contenir environ 2 litres de liquide. Le poids est indiqué pour une outre pleine d'eau, de vin ou de bière, vide, elle pèse environ 1 kg.

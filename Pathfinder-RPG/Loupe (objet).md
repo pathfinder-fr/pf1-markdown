@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Loupe (objet)
+Title: Loupe
+LastModified: 2021-09-16 21:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 100 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette simple lentille permet de regarder les petits objets de plus près. Elle peut également servir de substitut à l'[amorce et au silex](./Silex et amorce (objet).md) pour allumer des feux. Pour allumer un feu avec une loupe, il faut concentrer une lumière vive, comme celle du soleil, sur du petit bois à enflammer. Cela demande au moins une [action complexe](./Action complexe.md). Une loupe accorde un bonus de circonstances de +2 aux tests d'[Estimation](./Estimation.md) pour tout objet de taille P ou grandement détaillé.

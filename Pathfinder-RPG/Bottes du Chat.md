@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Bottes du Chat
+Title: Bottes du chat
+LastModified: 2024-05-31 10:12
+---
+
+<div class="BD">
+{s:BDTitre|Bottes du chat|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 1 000 po ; **Poids** 0.5 kg
+(((Description)))
+Ces bottes bleues aux semelles épaisses et dotées de renforts orthopédiques sont extrêmement confortables et augmentent quelque peu la taille de leur porteur. Celui-ci subit toujours le minimum de dégâts potentiels dus aux [chutes](./Dangers naturels.md#CHUTES) (on considère que le MJ obtient un 1 sur tous les dés lancés pour déterminer le montant de dégâts) et qu’il retombe toujours sur ses pieds.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[feuille morte](./Feuille morte.md)* ; **Coût** 500 po
+</div>

@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Flatterie enivrante
+Title: Flatterie enivrante
+LastModified: 2023-01-18 16:23
+Categories:
+- Don
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous savez comment compromettre le jugement d'une cible avec des mensonges.*
+
+**Conditions.** [Fourberie](./Fourberie.md), 5 rangs en [Bluff](./Bluff.md)
+
+**Avantages.** Le personnage peut flatter une créature lors d'une interaction prolongée (au moins 1 minute) afin de lui suggérer un sentiment de valeur personnelle exagéré qui brouille son jugement. À la fin de la tirade flatteuse, le personnage effectue un test de [Bluff](./Bluff.md) contre un [DD](./DD.md) égal à 10 + le nombre de [DV](./DV.md) de la créature + son modificateur de [Sagesse](./Sagesse.md), ou à 10 + le bonus en [Psychologie](./Psychologie.md) de la créature, selon le plus élevé. S'il réussit, la cible subit un -2 aux jets de sauvegarde de [Volonté](./Volonté.md), aux tests de Sagesse et aux tests de compétences basés sur la Sagesse pendant 1 heure + 1 heure par tranche de 5 points entre le résultat et le DD du test. La cible peut supprimer cet effet plus tôt en prenant 10 minutes pour se tempérer. Si le personnage rate le test, toutes les créatures qui ont été témoin de l'échec sont immunisées contre la flatterie qu'il peut faire grâce à ce don pendant 24 heures. Si le personnage rate de 5 ou plus, l'attitude de la cible envers lui empire d'une catégorie.

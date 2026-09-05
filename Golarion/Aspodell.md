@@ -1,0 +1,13 @@
+---
+Name: Golarion.Aspodell
+Title: Aspodèles [Aspodell Mountains]
+LastModified: 2010-02-19 19:47
+Categories:
+- Andoran
+- Chéliax
+- Géographie
+---
+
+La chaîne des Aspodèles est un massif montagneux situé à l'est du [Chéliax](./Chéliax.md). Elle constitue une frontière naturelle entre le pays des diables et celui de la liberté.
+
+La chaîne se déploie du nord au sud, mais n'atteint pas la [Mer Intérieure](./mer Intérieure.md), laissant une large bande de terre utilisée par les marchands qui commercent avec l'[Andoran](./Andoran.md). Dans le but de protéger encore plus ses frontières, le [Chéliax](./Chéliax.md) est en train de prolonger la chaîne vers le sud à l'aide d'un grand mur, le Mur Aspodéen.

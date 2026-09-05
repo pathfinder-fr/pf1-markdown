@@ -1,0 +1,48 @@
+---
+Name: Pathfinder-RPG.Papillon sinistre
+Title: Papillon sinistre
+LastModified: 2026-05-05 15:27
+Categories:
+- Monstre
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Papillon sinistre|FP 4}
+{s:pucem|Extérieur|Ciel|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire 2 p.213*}
+{s:BDTexte|**PX** 1200}
+{s:BDTexte|[Exterieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)), de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 12, pris au dépourvu 16 (Dex +3, naturelle +7, taille -1)}
+{s:BDTexte|**pv** 37 (5d10+10)}
+{s:BDTexte|**Réf** +7, **Vig** +3, **Vol** +5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m (2 {s:c}), vol 12 m (8 {s:c}) (bonne)}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d8+2) et 2 griffes, +6 (1d6+2) }
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
+{s:BDTexte|**Attaques spéciales** confusion, implantation, phéromones}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 15, **Dex** 17, **Con** 15, **Int** 2, **Sag** 12, **Cha**10}
+{s:BDTexte|**BBA** +5, **BMO** +8, **DMD** 21}
+{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (confusion), [Vol stationnaire](./Vol stationnaire.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7 (+11 dans la pénombre), [Perception](./Perception.md) +9, [Vol](./Vol.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (dans la pénombre)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous (plan des Ombres)}
+{s:BDTexte|**Organisation sociale** solitaire}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Capacités spéciales}
+
+{s:BDTexte|**Confusion (Sur).** L’étrange mouvement des décorations inscrites sur les ailes d’un papillon sinistre est hypnotique. Toutes les créatures situées dans un rayon de 9 mètres et ne cherchant pas à détourner le regard du papillon sinistre doivent effectuer un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 14 au début de chacun de leur tour pour ne pas être [confuses](./Confus.md) pendant 1 [round](./round.md). Il s’agit d’un effet mental, auquel les papillons sinistres et les vers ténébreux sont immunisés. Le [DD](./DD.md) du jet de sauvegarde dépend du [charisme](./Charisme.md).}
+{s:BDTexte|**Implantation (Ext).**  Un papillon sinistre peut pondre des oeufs dans une créature sans défense ou morte de taille P ou plus grande en y consacrant une [action complexe](./Action complexe.md) provoquant des [attaques d’opportunité](./attaque dopportunité.md). La créature dans laquelle les oeufs de papillon sinistre sont implantés doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 14 chaque matin pour ne pas subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [constitution](./Constitution.md). Si la victime meurt à cause de cet affaiblissement temporaire, 1d4 jeunes vers ténébreux (voir page 288) sortent du corps 24 heures après la mort et le dévore complètement. Les oeufs peuvent être détruits par n’importe quel effet soignant les [maladies](./Maladies.md), mais même les créatures immunisées contre les maladies peuvent être victimes d’une implantation. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [constitution](./Constitution.md).}
+{s:BDTexte|**Phéromones (Sur).**  Après le premier [round](./round.md) du combat, un papillon sinistre peut utiliser une [action libre](./Action libre.md) pour émettre une étrange odeur musquée dans un rayon de 9 mètres. Toutes les créatures situées dans cette zone (à l’exception des autres papillons sinistres et des vers ténébreux) doivent réussir un jet de Vigueur de [DD](./DD.md) 14 chaque round pour ne pas être affaiblies par les phéromones. Si une créature rate un de ces [jets de sauvegarde](./jet de sauvegarde.md), elle subit un malus de –4 en [Force](./Force.md) qui s’applique pendant tout le combat et persiste pendant 1 heure après son terme. Un sort de [Restauration partielle](./Restauration partielle.md)
+ou n’importe quel autre effet capable de soigner des affaiblissements temporaires permet de mettre fin immédiatement au malus de Force. Le [DD](./DD.md) du jet de sauvegarde dépend de la [Constitution](./Constitution.md).}
+</div>
+</td><td><div>*Cet immense papillon de nuit a de grandes ailes pourpres décorées de spirales noires qui semblent se déplacer et se tortiller.*
+
+Les papillons sinistres sont d’étranges créatures natives du plan des Ombres ressemblant à des papillons de nuit. Malgré leur apparence, il ne s’agit pas de vermines : les papillons sinistres possèdent une intelligence primitive mais efficace. On peut les invoquer comme gardiens ou montures à l’aide de sorts tels que allié d’outreplan ou contrat, mais ils peuvent également profiter d’une déchirure dans le tissu des plans pour voyager par eux-mêmes vers la plan Matériel. Un papillon sinistre vivant sur le [plan Matériel](./plan Matériel.md) est actif pendant 2 à 3 heures à l’aube et pendant 2 à 3 heures de plus au soir. Il préfère cependant passer le reste du jour caché dans des bâtiments abandonnés, des grottes, des canyons profonds ou dans une végétation dense, là où les ténèbres sont les plus profondes. Pendant ses périodes d’activité, le papillon sinistre vole dans le ciel à la recherche de créatures à attaquer et à utiliser pour implanter ses oeufs. Comme les papillons sinistres n’éprouvent pas le besoin de se nourrir, c’est surtout le désir de propager leur espèce qui les motive.
+
+Même si les papillons sinistres constituent déjà une certaine menace, c’est surtout de leurs jeunes qu’il faut se méfier. Ces créatures, connues sous le nom de vers ténébreux (voir page 288), sont bien plus dangereuses encore, bien qu’il ne s’agisse que de la forme larvaire du papillon sinistre adulte. Le papillon sinistre, qui peut pondre plusieurs oeufs par jour, représente une grande menace non pas à cause des déprédations qu’il accomplit lui-même, mais plutôt à cause des rejetons qu’il engendre.
+</div></td></tr></table>

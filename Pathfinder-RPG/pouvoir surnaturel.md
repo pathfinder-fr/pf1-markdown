@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.pouvoir surnaturel
+Title: pouvoir surnaturel
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Capacités spéciales#TYPES

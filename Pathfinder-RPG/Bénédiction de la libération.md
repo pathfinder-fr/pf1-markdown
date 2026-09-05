@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction de la libération
+Title: Bénédiction de la libération
+LastModified: 2024-12-11 00:27
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Libération *(mineur)*
+Au niveau 1, le prêtre combattant peut ignorer tout ce qui gêne sa mobilité et tous les effets de paralysie (comme avec *[liberté de mouvement](./Liberté de mouvement.md)*) pendant 1 round et par une [action rapide](./Action rapide.md). Il peut activer cette bénédiction même s’il est par ailleurs incapable d’effectuer la moindre action mais pas s’il est [inconscient](./Inconscient.md).
+
+#### Cri de liberté *(majeur)*
+Au niveau 10, le prêtre combattant peut, par une [action rapide](./Action rapide.md), émettre une aura de 9 mètres (6 {s:c}) qui affecte tous les alliés situés à l’intérieur avec la bénédiction de libération décrite ci-dessus. Cet effet dure 1 round.

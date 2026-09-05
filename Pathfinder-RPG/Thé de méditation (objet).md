@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Thé de méditation (objet)
+Title: Thé de méditation
+LastModified: 2021-09-19 20:17
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 30 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+Ce thé trouble a un effet apaisant et permet d’éclaircir les pensées. Pendant 10 minutes après ingestion, le personnage gagne un bonus alchimique de +2 contre les [effets mentaux](./Registre.md). S’il boit du thé de méditation alors qu’il souffre d’un effet mental, il peut aussitôt refaire un [jet de sauvegarde](./JDS.md) (avec le bonus de +2) contre cet effet. Il ne peut bénéficier de cet avantage particulier qu’une fois par jour.

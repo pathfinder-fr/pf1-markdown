@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.concentration
+Title: Concentration
+LastModified: 2025-09-15 15:10
+Categories:
+- Redirection
+---
+
+>>> Lancer des sorts#CONCENTRATION

@@ -1,0 +1,78 @@
+---
+Name: Pathfinder-RPG.Uintathérium
+Title: Mégafaune, Uintathérium
+LastModified: 2023-12-20 17:39
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Uintathérium|FP 7}
+{s:pucem|Animal|Marais|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.181*}
+{s:BDTexte|**PX** 3 200}
+{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +20}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)}
+{s:BDTexte|**pv** 95 (10d8+50)}
+{s:BDTexte|**Réf** +7, **Vig** +12, **Vol** +6}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m}
+{s:BDTexte|**Corps à corps** morsure, +16 (2d8+15)}
+{s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 30, **Dex** 10, **Con** 21, **Int** 1, **Sag** 13, **Cha** 3}
+{s:BDTexte|**BBA** +7 ; **BMO** +18 ; **DMD** 28 (32 contre les crocs-en-jambe)}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Dur à cuire](./Dur à cuire.md), [Frappe décisive](./Frappe décisive.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +20}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** marais tempérés}
+{s:BDTexte|**Organisation** solitaire, paire ou troupeau (3-12)}
+{s:BDTexte|**Trésor** aucun}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de mégafaune
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Archelon](./Archelon.md) || 5
+|-
+| [Arsinoithérium](./Arsinoithérium.md) || 7
+|-
+| [Baluchithérium](./Baluchithérium.md) || 8
+|-
+| [Basilosaure](./Basilosaure.md) || 12
+|-
+| [Chalicothérium](./Chalicothérium.md) || 6
+|-
+| [Glyptodonte](./Glyptodonte.md) || 6
+|-
+| [Kaprosuchus](./Kaprosuchus.md) || 5
+|-
+| [Mégalania](./Mégalania.md) || 7
+|-
+| [Mégalocéros](./Mégalocéros.md) || 4
+|-
+| [Mégathérium](./Mégathérium.md) || 5
+|-
+| [Moa](./Moa.md) || 2
+|-
+| [Uintathérium](./Uintathérium.md) || 7
+|}
+</div>*Cette grande créature a des airs de rhinocéros, mais est affublée de longs crocs comme ceux d’un tigre à dents de sabre et de petites crêtes ressemblant à des cornes.*
+
+Les uintathériums sont de grands herbivores qui vivent dans les marais et se nourrissent en arrachant des plantes aquatiques des eaux limoneuses à l’aide de leurs larges dents de devant. Ils utilisent aussi ces crocs pour se défendre quand ils se retrouvent face à des prédateurs et les mâles, qui ont des crocs plus gros, s’en servent lors de leur parade amoureuse. Les femelles n’hésitent pas non plus à utiliser leurs dents lors des combats, mais elles préfèrent intimider leurs ennemis pour qu’ils les laissent tranquilles.
+
+Malgré son gros crâne formidablement protégé, le cerveau des uintathériums est plutôt petit. Stupides et lents, les uintathériums ne sont pas particulièrement dangereux envers quiconque ne les provoque pas intentionnellement et ils sont plus faciles à domestiquer que la majorité de la mégafaune.
+
+Les uintathériums mesurent près de 1,80 mètre au garrot et pèsent plus de 2 tonnes.
+
+#### L'uintathérium comme [compagnon animal](./liste des compagnons animaux.md)
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m ; **CA** naturelle +4 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 12, Con 17, Int 1, Sag 13, Cha 3 ; **Particularités** [odorat](./Odorat (capacité).md)
+
+**Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4
+</div></td></tr></table>

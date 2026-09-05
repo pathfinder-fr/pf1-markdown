@@ -1,0 +1,483 @@
+---
+Name: Pathfinder-RPG.Liste des sorts dinquisiteur
+Title: Liste des sorts d'inquisiteur
+LastModified: 2025-01-11 16:09
+Categories:
+- Liste de sorts
+- Règle officielle
+- Sort
+- Src Art de la magie
+- Src Manuel des joueurs
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:MenuMagie}
+Un sort suivi d’un (M) ou d’un (F) dénote la présence d’une [composante matérielle](./composante matérielle.md) ou d’un [focalisateur](./focalisateur.md) qui ne se trouve normalement pas dans une [sacoche à composantes](./Sacoche à composantes (objet).md).
+Un sort suivi d'un (Y) possède une version mythique.
+
+**Ordre de présentation.** Dans la liste, les sorts et leur courte description sont présentées par ordre alphabétique, hormis quand ils appartiennent à une chaîne de sorts particulière.
+
+**[Dés de vie](./dés de vie.md).** Le terme « dés de vie » (ou DV) est synonyme de « niveau de personnage » pour les cibles affectées par les sorts (en effet, nombre de créatures ne peuvent pas progresser dans une classe de personnage ; elles n’ont pas de niveau mais des dés de vie).
+
+**[Niveau de lanceur](./NLS.md).** La puissance d’un sort dépend souvent du niveau de celui qui la jette. Sauf indication contraire, les créatures sans classe ont un niveau de lanceur égal à leur nombre de DV. Dans la description des sorts, le terme « niveau » désigne toujours le niveau de lanceur de celui qui les lance et non le niveau du sort.
+
+**Créatures et personnages.** Les termes « créature » et « personnage » sont considérés comme synonymes dans la description des sorts.
+
+Retour vers l'[inquisiteur](./Inquisiteur.md).
+
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
+{s:Reference|0}
+### Sorts de niveau 0
+- ***[Aspersion acide](./Aspersion acide.md)***. Orbe infligeant 1d3 points de dégâts d'acide.
+- ***[Assistance divine](./Assistance divine.md)***. +1 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence.
+- ***[Création d'eau](./Création deau.md)***. Crée huit litres d'eau pure/niveau.
+- ***[Destruction de mort-vivant](./Destruction de mort-vivant.md)***. 1d6 points de dégâts à un mort-vivant.
+- ***[Détection de la magie](./Détection de la magie.md)***. Détecte sorts et objets magiques à 18 m à la ronde.
+- ***[Détection du poison](./Détection du poison.md)***. Détecte le poison chez une créature ou un petit objet.
+- ***[Hébétement](./Hébétement.md)***. Fait perdre 1 action à un humanoïde de 4 DV ou moins.
+- ***[Inspection](./Inspection.md)*** *(MJRA)*. Voit la zone comme s'il l'examinait.
+- ***[Lecture de la magie](./Lecture de la magie.md)***. Permet de lire parchemins et livres de sorts.
+- ***[Lumière](./Lumière.md)***. Fait briller un objet comme une torche.
+- ***[Marque](./Marque.md)*** *(MJRA)*. Crée une marque permanente sur la cible.
+- ***[Résistance](./sort Résistance.md)***. Confère +1 aux jets de sauvegarde.
+- ***[Saignement](./sort Saignement.md)***. Une créature stabilisée agonise à nouveau.
+- ***[Stabilisation](./Stabilisation.md)***. Stabilise une créature agonisante.
+- ***[Stimulant](./Stimulant.md)***. Confère 1 pv temporaire à la cible.
+
+{s:Reference|1}
+### Sorts de niveau 1
+- ***[Action interdite](./Action interdite.md)*** *(AM)*. La cible obéit au personnage qui lui interdit de faire quelque chose.
+- ***[Aiguillon persuasif](./Aiguillon persuasif.md)*** *(AM)*. La cible subit 1d6 points de dégâts non létaux, le personnage gagne un bonus d'Intimidation.
+- ***[Alarme](./Alarme.md)***. Protège une zone pendant 2 heures/niveau.
+- ***[Alarme d'invisibilité](./Alarme dinvisibilité.md)*** *(MCA)*. Comme *alarme*, mais réagissant uniquement aux créatures invisibles.
+- ***[Altération vocale](./Altération vocale.md)*** *(AM)*. Déguise la voix.
+- ***[Anathème](./Anathème.md)***. Inflige un malus de -2 aux jets d'attaque, aux jets de sauvegarde et aux tests.
+- ***[Arc-bâton](./Arc-bâton.md)*** *(AG)*. Un arc court peut servir de gourdin et un arc long de bâton.
+- ***[Arme boomerang](./Arme boomerang.md)*** *(AG)*. Donne la propriété boomerang à une arme.
+- ***[Arme désespérée](./Arme désespérée.md)*** *(UI)*. Crée une arme improvisée.
+- ***[Arme improvisée raffinée](./Arme improvisée raffinée.md)*** *(MCA)*. Transforme une arme improvisée en une arme courante ou de guerre de maître.
+- ***[Arme infaillible](./Arme infaillible.md)*** *(AG)*. Bonus de +2 qui augmente de +1 tous les quatre niveaux de lanceur de sorts aux jets d’attaque pour confirmer un coup critique.
+- ***[Arme magique](./Arme magique.md)***. Confère un bonus de +1 à une arme.
+- ***[Armes contre le mal](./Armes contre le mal.md) ([Iomédae](./Iomédae (technique).md))*** *(D&M)*. Imprègne des armes d'une lueur pâle qui leur permet d'ignorer les RD mineures des créatures Mauvaises.
+- ***[Armure épineuse](./Armure de Gorum.md) (Y)*** *(CCMI)*. Fait sortir des milliers d'épines d'une armure ou d'un bouclier, blessant ceux qui portent des attaques naturelles au personnage.
+- ***[Armure gardienne](./Armure gardienne.md)*** *(AMH)*. Téléporte l'armure du lanceur sur un allié à portée.
+- ***[Aspect du rossignol](./Aspect du rossignol.md) ([Shélyn](./Shélyn (technique).md))*** *(ISG)*. Transforme la voix en une mélodie claire et plaisante, comme celle d'un rossignol.
+- ***[Baguettarme](./Baguettarme.md)*** *(MMI)*. Fusionne une baguette magique avec l'arme du personnage, lui permettant de manier les deux simultanément.
+- ***[Barrière étourdissante](./Barrière étourdissante.md)*** *(MCA)*. Champ magique qui accorde un bonus de +1 à la CA et aux jets de sauvegarde en plus d’étourdir une créature qui attaque le personnage.
+- ***[Bénédiction](./Bénédiction.md) (Y)***. Les alliés gagnent +1 à l'attaque et aux jets de sauvegarde contre la terreur.
+- ***[Bénédiction de l'eau](./Bénédiction de leau.md) (M)***. Crée de l'eau bénite.
+- ***[Bénédiction du guet](./Bénédiction du guet.md) ([Abadar](./Abadar (technique).md))*** *(D&M)*. Comme *bénédiction*, mais dure 1 heure/niveau et ne fonctionne que dans la ville natale du personnage.
+- ***[Blessure légère](./Blessure légère.md) (Y)***. Inflige 1d8 points de dégâts, +1/niveau (max. +5).
+- ***[Bouclier de défense](./Bouclier de défense.md)*** *(MCA)*. La cible a 25% de chances de traiter les coups critiques et les attaques sournoises comme des attaques normales.
+- ***[Bouclier de la foi](./Bouclier de la foi.md) (Y)***. Aura conférant un bonus de parade de +2 (ou plus).
+- ***[Briser les liens](./Briser les liens.md)*** *(MJRA)*. 1d6 points de dégâts/niveau (max 5d6) sur des liens.
+- ***[Briser les lignes ennemies](./briser les lignes ennemies.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Bonus de distance de charge et lors des manoeuvres de bousculade et renversement.
+- ***[Brume de rêves](./Brume de rêves.md) ([Desna](./Desna (technique).md))*** *(D&M)*. Emplit la tête d'un ennemi de rêves éveillés, ce qui le ralentit.
+- ***[Changement de fonction](./Changement de fonction.md)*** *(MCA)*. L’animal du personnage gagne un nouvel objectif général.
+- ***[Choisis ton poison](./Choisis ton poison.md) ([Cayden Cailéan](./Cayden Cailéan (technique).md))*** *(D&M)*. Convertit temporairement un poison en un alcool enivrant.
+- ***[Colère](./Colère.md)*** *(MJRA)*. Bonus de moral aux jets d’attaque et de dégâts et avantages divers contre une créature.
+- ***[Compréhension des langages](./Compréhension des langages.md)***. Le PJ comprend tous les langages écrits ou parlés.
+- ***[Confirmation d'identité](./Confirmation didentité selon Pétulengro.md)*** *(RSE)*. Détecte à quelle créature une portion manquante appartient.
+- ***[Connaissances du Borgne](./Connaissances du Borgne.md)*** *(AG)*. Le personnage gagne un bonus de +4 aux tests de Survie et peut suivre une piste alors qu’il se déplace au maximum de sa vitesse.
+- ***[Connaître son ennemi](./Connaître son ennemi.md) (Y)*** *(AM)*. Bonus de +10 à un test de Connaissance des monstres.
+- ***[Conscience accrue](./Conscience accrue.md)*** *(MCA)*. La mémoire et la capacité du personnage à traiter les informations sont améliorées.
+- ***[Cor de poursuite](./Cor de poursuite.md)*** *(AM)*. Crée trois notes entendues à des kilomètres.
+- ***[Coup au but](./Coup au but.md) (Y)***. Confère un bonus de +20 au prochain jet d'attaque.
+- ***[Cri perçant](./Cri perçant.md)*** *(AM)*. Inflige des dégâts sonores et hébète la cible.
+- ***[Déguisement](./sort Déguisement.md)***. Modifie l'apparence du PJ.
+- ***[Détection de la Loi](./Détection de la Loi.md)***. Révèle l'aura des créatures, sorts ou objets.
+- ***[Détection des charmes](./Détection des charmes.md)*** *(RSE)*. Détecte les effets de charme, de coercition et de possession dans la zone d'effet.
+- ***[Détection des fidèles](./Détection des fidèles.md)*** *(UI)*. Détecte les suivants de la divinité du personnage dans la zone d'effet.
+- ***[Détection des morts-vivants](./Détection des morts-vivants.md)***. Révèle les morts-vivants à 18 m ou moins.
+- ***[Détection du Bien](./Détection du Bien.md)***. Révèle l'aura des créatures, sorts ou objets.
+- ***[Détection du Chaos](./Détection du Chaos.md)***. Révèle l'aura des créatures, sorts ou objets.
+- ***[Détection du Mal](./Détection du Mal.md)***. Révèle l'aura des créatures, sorts ou objets.
+- ***[Détermination inébranlable](./Détermination inébranlable.md)*** *(RSE)*. La cible ignore les affaiblissements temporaires imposés à une de ses caractéristique.
+- ***[Fabrication de déguisement](./Fabrication de déguisement.md)*** *(UI)*. Crée un déguisement instantanément.
+- ***[Faveur divine](./Faveur divine.md) (Y)***. Confère un bonus de +1 tous les 3 niveaux aux jets d'attaque et de dégâts.
+- ***[Flèche du Borgne](./Flèche du Borgne.md) ([Érastil](./Érastil (technique).md))*** *(D&M)*. Créé une flèche d'électricité crépitante pour blesser les ennemis ou alerter les alliés.
+- ***[Frayeur](./Frayeur.md)***. Une créature possédant 5 DV ou moins fuit pendant 1d4 rounds.
+- ***[Grappin opportun](./Grappin opportun.md)*** *(UI)*. Transforme un objet semblable à une corde en grappin rétractable.
+- ***[Hostilité forcée](./Hostilité forcée.md)*** *(AG)*. Oblige les adversaires à attaquer le personnage au lieu de ses alliés.
+- ***[Imprécation](./Imprécation.md) (Y)***. Les adversaires subissent -1 à l'attaque et aux jets de sauvegarde contre la terreur.
+- ***[Incantation assurée](./incantation assurée.md)*** *(RSE)*. Le personnage considère son NLS comme supérieur de 5 afin de passer la résistance à la magie avec le prochain sort qu'il lance.
+- ***[Infatigable poursuivant](./Infatigable poursuivant.md)*** *(MJRA)*. Le personnage ignore la fatigue quand il court en petites foulées.
+- ***[Injonction](./Injonction.md) (Y)***. La cible obéit à un ordre d'un mot pendant 1 round.
+- ***[Interrogatoire](./Interrogatoire.md)*** *(AM)*. La cible répond aux questions ou souffre.
+- ***[Invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)***. Les morts-vivants ne voient pas les sujets (1/niveau).
+- ***[Litanie de faiblesse](./Litanie de faiblesse.md)*** *(AG)*. Une cible est fatiguée pour 1 round.
+- ***[Litanie de paresse](./Litanie de paresse.md)*** *(AG)*. Une cible n’est plus en mesure de faire des attaques d’opportunité pendant 1 round.
+- ***[Malédiction de l'eau](./Malédiction de leau.md) (M)***. Crée de l'eau maudite.
+- ***[Monture de guerre](./Monture de guerre.md)*** *(AM)*. Un animal devient entraîné au combat.
+- ***[Œuf empoisonné](./Œuf empoisonné.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)*. Transforme un unique œuf en une dose de poison de petit mille-pattes.
+- ***[Ouvert/fermé](./Ouvertfermé.md)*** *(UI)*. Manipule l'apparence d'une porte pour qu'elle paraisse fermée ou ouverte.
+- ***[Paix forcée](./Paix forcée.md)*** *(AG)*. Fige une arme sur le corps de la cible.
+- ***[Paroles secrètes](./Paroles secrètes.md) ([Calistria](./Calistria (technique).md))*** *(ISG)*. Transmet des messages secrets à travers un discours anodin.
+- ***[Plumage d'hiver](./Plumage dhiver.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Protège une créature plumée contre le froid pendant une journée.
+- ***[Protection contre la Loi](./Protection contre la Loi.md) (Y)***. +2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+- ***[Protection contre le Bien](./Protection contre le Bien.md) (Y)***. +2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+- ***[Protection contre le Chaos](./Protection contre le Chaos.md) (Y)***. +2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+- ***[Protection contre le Mal](./Protection contre le Mal.md) (Y)***. +2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+- ***[Protection contre le vol](./Protection contre le vol.md) (Y) ([Tengu](./Tengu (race).md))*** *(MR)*. +10 aux tests de Perception pour remarquer quelqu'un qui tente de subtiliser un objet précis.
+- ***[Rechargement de la magie innée](./rechargement de la magie innée.md) ([Gnome](./Gnome.md))*** *(MR)*. Récupère une utilisation quotidienne d'un pouvoir magique de niveau 0 ou de niveau 1.
+- ***[Regain d'assurance](./Regain dassurance.md)***. +4 aux jets de sauvegarde contre la terreur (un sujet, +1/4 niveaux).
+- ***[Rendre un jugement](./Rendre un jugement.md)*** *(AM)*. Les alliés bénéficient des avantages d'un jugement.
+- ***[Repli expéditif](./Repli expéditif.md) (Y)***. Augmente la vitesse de déplacement de 9 m.
+- ***[River le regard](./River le regard.md)*** *(AG)*. Oblige la cible à regarder uniquement le personnage pendant toute la durée du sort.
+- ***[Sanctification de cadavre](./Sanctification de cadavre.md)*** *(AM)*. Empêche un cadavre de devenir mort-vivant.
+- ***[Sanctuaire](./Sanctuaire.md) (Y)***. Les adversaires ne peuvent pas attaquer le PJ, et inversement.
+- ***[Sceau contre les maléfices](./Sceau contre les maléfices.md) (Y)*** *(AM)*. La cible a un bonus de +4 aux jets de sauvegarde contre les maléfices des sorcières.
+- ***[Silence forcé](./Silence forcé.md)*** *(AM)*. La cible ne peut pas faire de bruit important.
+- ***[Soins légers](./Soins légers.md) (Y)***. Rend 1d8 pv au sujet, +1/niveau (max. +5).
+- ***[Stratégie de repli](./Stratégie de repli.md) ([Torag](./Torag (technique).md))*** *(D&M)*. Une relance gratuite pendant toute la durée du sort.
+- ***[Tir longue distance](./Tir longue distance.md)*** *(AG)*. Bonus de +3 m au facteur de portée de toutes les armes à distance.
+- ***[Toucher de combustion](./Toucher de combustion.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage porte une attaque qui inflige 1d6 points de dégâts et qui risque d'enflammer son adversaire.
+- ***[Vérité d'Abadar](./Vérité dAbadar.md) ([Abadar](./Abadar (technique).md))*** *(D&M)*. Force la cible à dire la vérité.
+
+{s:Reference|2}
+### Sorts de niveau 2
+- ***[Accorder une intuition](./accorder une intuition.md) ([Humain](./Humain.md))*** *(MR)*. Améliore une compétence à laquelle le personnage est déjà formé.
+- ***[Accoutrement honteux](./Accoutrement honteux.md)*** *(UI)*. Force la cible à retirer un équipement.
+- ***[Aide](./Aide.md)***. +1 aux jets d'attaque et de sauvegarde contre la terreur, 1d8 pv temporaires, +1/niveau (max. +10).
+- ***[Alignement indétectable](./Alignement indétectable.md)***. Masque l'alignement pendant 24 heures.
+- ***[Anticipation des pensées](./Anticipation des pensées.md)*** *(AO)*. Bonus de plus en plus élevés à la CA et aux jets d’attaque et de dégâts contre une créature.
+- ***[Apaisement des émotions](./Apaisement des émotions.md)***. Calme des créatures.
+- ***[Apparence charnue](./Apparence charnue.md) ([Goule](./Goule.md))*** *(CM)*. Une créature mort-vivante tangible paraît vivante.
+- ***[Arme alignée](./Arme alignée.md)***. Une arme devient bonne, chaotique, loyale ou mauvaise.
+- ***[Arme boomerang (partagé)](./Arme boomerang (partagé).md)*** *(AG)*. Comme *arme boomerang* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Arme de glace maudite](./Arme de glace maudite.md) (M)*** *(MCA)*. Crée une arme de maître faite d’eau maudite gelée.
+- ***[Arme de glace sacrée](./Arme de glace sacrée.md) (M)*** *(MCA)*. Crée une arme de maître faite d’eau bénite gelée.
+- ***[Arme merveilleuse](./Arme merveilleuse.md)*** *(MJRA)*. L'arme gagne +2 aux jets de dégâts.
+- ***[Arme spirituelle](./Arme spirituelle.md) (Y)***. Arme magique attaquant d'elle-même.
+- ***[Armure sans effort](./Armure sans effort.md)*** *(AG)*. L’armure du personnage ne réduit plus sa vitesse de déplacement.
+- ***[Bénédiction de chance et de résolution](./bénédiction de chance et de résolution.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Les cibles résistent mieux à la terreur..
+- ***[Blessure modérée](./Blessure modérée.md) (Y)***. Inflige 2d8 points de dégâts, +1/niveau (max. +10).
+- ***[Bouclier d'éclats](./Bouclier déclats.md)*** *(AMH)*. Transforme le bouclier du lanceur en une tempête d'éclats métalliques qui attaquent les créatures adjacentes.
+- ***[Bouclier de balles](./Bouclier de balles.md)*** *(MCA)*. Des balles en adamantium interceptent les attaques d’arme à feu.
+- ***[Bruit pénible](./Bruit pénible.md)*** *(AM)*. Le bruit rend 1d4 créatures fiévreuses.
+- ***[Châtiment de l'Héritière](./Châtiment de lHéritière.md) ([Iomédae](./Iomédae (technique).md))*** *(ISG)*. Confère un bonus à la prochaine attaque qui, si elle touche, permet de bousculer sa victime.
+- ***[Chien de chasse](./Chien de chasse.md)*** *(MJRA)*. Augmente l’odorat et donne au lanceur de sorts le pouvoir spécial odorat.
+- ***[Choc mental](./Choc mental.md)*** *(OO)*. Renforce les attaques du personnage avec une violente énergie psychique.
+- ***[Cierge de mort](./Cierge de mort.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage achève un ennemi pour le transformer en élémentaire de feu.
+- ***[Climat de confiance](./Climat de confiance.md)*** *(UI)*. Confère différents bonus lorsque le personnage interagit avec la cible.
+- ***[Coeur dévasté](./Coeur dévasté.md)*** *(MCA)*. Une attaque de contact qui inflige 2d6 points de dégâts et fait chanceler la cible.
+- ***[Confession](./Confession.md)*** *(MJRA)*. La créature répond honnêtement aux questions ou subit 1d6 point de dégâts /deux niveaux (Max. 5d6).
+- ***[Consécration](./Consécration.md) (M, Y)***. Affaiblit les morts-vivants au sein d'une zone.
+- ***[Déblocage](./Déblocage.md) (Y)***. Ouvre les portes fermées, même par magie.
+- ***[Déguisement fantomatique](./Déguisement fantomatique.md)*** *(AM)*. La cible ressemble à son propre fantôme.
+- ***[Déguiser autrui](./Déguiser autrui.md)*** *(AM)*. Comme *déguisement* mais affecte un tiers.
+- ***[Délivrance de la paralysie](./Délivrance de la paralysie.md)***. Délivre de la paralysie, d'immobilisation et de lenteur.
+- ***[Démarche décalibrée](./Démarche décalibrée.md)*** *(UI)*. Les sons produits par la cible semblent venir d'un autre point de l'espace.
+- ***[Détection de l'invisibilité](./Détection de linvisibilité.md)***. Révèle créatures et objets invisibles.
+- ***[Détection de la magie suprême](./Détection de la magie suprême.md)*** *(UI)*. Comme *détection de la magie* mais révèle plus d'informations.
+- ***[Détection de pensées](./Détection de pensées.md)***. Permet d'écouter les pensées superficielles.
+- ***[Détection des pièges](./Détection des pièges.md)***. Le PJ repère les pièges comme un roublard.
+- ***[Discours captivant](./Discours captivant.md)***. Captive à 30 m (+3 m/niveau) à la ronde.
+- ***[Don des langues](./Don des langues.md)***. Permet de parler toutes les langues.
+- ***[Écuyer spirituel](./Écuyer spirituel.md)*** *(AMH)*. Manifeste un allié de force qui assiste le lanceur au combat.
+- ***[Engin de siège magique](./Engin de siège magique.md)*** *(AG)*. L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts.
+- ***[Enveloppement des pensées](./Enveloppement des pensées.md)*** *(AO)*. Protège contre la détection de pensées et la modification de mémoire.
+- ***[Équité](./Équité.md) ([Abadar](./Abadar (technique).md))*** *(D&M)*. Oblige des créatures à conclure une affaire de façon équitable.
+- ***[Erreur malencontreuse](./Erreur malencontreuse.md)*** *(ISG)*. Empêche la cible de confirmer un coup critique.
+- ***[Erreur tactique](./erreur tactique.md)*** *(RSE)*. Empêche une créature d'effectuer des attaques d'opportunité.
+- ***[Examen approfondi](./Examen approfondi.md)*** *(MCA)*. Le personnage gagne des bonus de compétence lorsqu’il interagit avec la cible.
+- ***[Faveur conditionnelle](./Faveur conditionnelle.md)*** *(UI)*. Confère les effets d'un autre sort qui s'inversent si la cible ignore une restriction établie.
+- ***[Flammes du fidèle](./Flammes du fidèle.md) (Y)*** *(MJRA)*. Donne le pouvoir de feu à une arme.
+- ***[Fouet fantôme](./Fouet fantôme.md)*** *(AO)*. Crée un fouet spectral qui traverse les objets.
+- ***[Fureur de Rovagug](./Fureur de Rovagug.md) ([Rovagug](./Rovagug (technique).md))*** *(D&M)*. Créé un tremblement de terre mineur pour faire tomber des créatures.
+- ***[Fustiger](./Fustiger.md)*** *(MJRA)*. La cible est secouée et se recroqueville de peur.
+- ***[Hurlement d'agonie](./Hurlement dagonie.md)*** *(AM)*. Une douleur à hurler limite les actions de la cible.
+- ***[Immobilisation de personne](./Immobilisation de personne.md)***. Immobilise un humanoïde pendant 1 round/niveau.
+- ***[Infliger des souffrances](./Infliger des souffrances.md)*** *(AO)*. La cible subit un malus de –4 aux jets d’attaque ainsi qu’aux tests de compétence et de caractéristique.
+- ***[Instrument d'agonie](./Instrument dagonie.md)*** *(AG)*. L’arme émet une fureur divine qui donne un bonus aux tests d’Intimidation.
+- ***[Invective cuisante](./Invective cuisante.md) (Y)*** *(AG)*. Le personnage fait un test d’Intimidation contre tous les adversaires situés dans les 9 m. Ceux qu’il démoralise subissent des dégâts de feu.
+- ***[Invisibilité](./Invisibilité.md) (Y)***. Sujet invisible pendant 1 minute/niveau ou jusqu'à ce qu'il attaque.
+- ***[Jauge de sort](./Jauge de sort.md) ([Néthys](./Néthys (technique).md))*** *(D&M)*. Révèle certains des sorts préparés de la cible.
+- ***[Jugement par anticipation](./Jugement par anticipation.md) ([Pharasma](./Pharasma (technique).md))*** *(D&M)*. Montre à une créature la récompense ou la punition qui l'attend après la mort.
+- ***[Langue de miel](./Langue de miel.md)*** *(MJRA)*. Le personnage lance 2 dés pour les tests de Diplomatie et conserve le meilleur.
+- ***[Lecture psychique](./Lecture psychique.md)*** *(AO)*. Lecture des pensées de surface pour obtenir des informations sur un sujet.
+- ***[Lien sacré](./Lien sacré.md) (F, Y)*** *(MJRA)*. Lance les sorts de soins de contact de loin.
+- ***[Litanie de défense](./Litanie de défense.md)*** *(AG)*. Double le bonus d’altération d’une armure.
+- ***[Livre ouvert](./Livre ouvert.md)*** *(UI)*. Maudit la cible pour qu'il soit plus facile d'en apprendre plus sur elle.
+- ***[Mâchoire féroce](./mâchoire féroce.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Transforme la bouche du personnage en une mâchoire féroce et lui permet de rugir pour démoraliser ses adversaires.
+- ***[Mise à mort](./Mise à mort.md) (Y)***. Achève une créature mourante ; le PJ gagne temporairement 1d8 pv, +2 en Force et +1 niveau de lanceur de sorts.
+- ***[Mondanité](./Mondanité.md)*** *(UI)*. La cible utilise les rangs de Connaissances (noblesse) du personnage.
+- ***[Offrande exigée](./Offrande exigée.md)*** *(AO)*. Oblige une créature à donner l’objet qu’elle tient.
+- ***[Os protecteur](./Os protecteur.md) ([Pharasma](./Pharasma (technique).md))*** *(D&M)*. Anime un os qui flotte autour du personnage et bloque les attaques physiques.
+- ***[Perception des indices](./Perception des indices.md)*** *(MJRA)*. +5 Perception et Psychologie 10 min/niveau.
+- ***[Perspicacité tactique](./Perspicacité tactique.md)*** *(AG)*. Le personnage gagne un bonus supplémentaire aux jets d’attaque ou à la CA dû à sa position sur le champ de bataille.
+- ***[Plaie au visage](./Plaie au visage.md)*** *(AG)*. Une arme tranchante inflige des dégâts de saignement à la tête d’un adversaire.
+- ***[Portail fragile](./Portail fragile.md) ([Rovagug](./Rovagug (technique).md))*** *(D&M)*. Réduit la solidité et les points de résistance des objets dans une zone.
+- ***[Présence cachée](./sort Présence cachée.md)*** *(UI)*. Empêche les autres créatures de remarquer la présence du personnage.
+- ***[Prison de lumière](./Prison de lumière.md) ([Iomédae](./Iomédae (technique).md))*** *(ISG)*. Enferme une créature dans une prison lumineuse qui aveugle et blesse quiconque s'en échappe.
+- ***[Profanation](./Profanation.md) (M, Y)***. Rend les morts-vivants plus forts au sein d'une zone.
+- ***[Protection contre la Loi (partagé)](./Protection contre la Loi (partagé).md)*** *(AG)*. Comme *protection contre la Loi* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Protection contre le Bien (partagé)](./Protection contre le Bien (partagé).md)*** *(AG)*. Comme *protection contre le Bien* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Protection contre le Chaos (partagé)](./Protection contre le Chaos (partagé).md)*** *(AG)*. Comme *protection contre le Chaos* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Protection contre le Mal (partagé)](./Protection contre le Mal (partagé).md)*** *(AG)*. Comme *protection contre le Mal* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Protection d'autrui](./Protection dautrui.md) (F, Y)***. Le PJ subit 1/2 dégâts à la place du sujet.
+- ***[Racontar](./Racontar.md)*** *(UI)*. Trace une rumeur pour suivre sa progression.
+- ***[Ralentissement du poison](./Ralentissement du poison.md)***. Neutralise le poison pendant 1 heure/niveau.
+- ***[Requiem pour les fantômes](./Requiem pour les fantômes.md)*** *(MJRA)*. Les créatures intangibles reçoivent la moitié des dégâts des armes non magiques.
+- ***[Résistance à la corruption](./Résistance à la corruption.md)*** *(MJRA)*. Protège la créature contre les dégâts des attaques basées sur les alignements.
+- ***[Résistance aux énergies destructives](./Résistance aux énergies destructives.md) (Y)***. Protège contre la forme d'énergie choisie à raison de 10 (ou plus) points de dégâts/attaque.
+- ***[Restauration partielle](./Restauration partielle.md)***. Dissipe effets magiques affaiblissants ou rend 1d4 points de caractéristique perdus.
+- ***[Retardement de la douleur](./Retardement de la douleur.md)*** *(AM)*. Ignore la douleur pendant 1 heure/niveau.
+- ***[Retardement des maladies](./Retardement des maladies.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux maladies.
+- ***[Savoir du chasseur](./Savoir du chasseur.md)*** *(MMI)*. Permet d'effectuer des tests de Connaissances sans formation pour identifier les monstres, et de faire 20 à ces tests si le personnage y est formé.
+- ***[Savoir manier une arme](./Savoir manier une arme.md)*** *(AG)*. Accorde le maniement d’une arme pour une courte période.
+- ***[Sceau de fuite](./sceau de fuite.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Le personnage peut s'éloigner de créatures plus grandes que lui lorsqu'il esquive leurs attaques.
+- ***[Scrupule](./Scrupule.md)*** *(AG)*. La cible a un malus aux tests de caractéristique, de compétence et de Concentration tant qu’elle n’a pas passé un round entier sans rien faire.
+- ***[Sens aiguisés](./Sens aiguisés.md)*** *(AM)*. Bonus aux tests de Perception.
+- ***[Silence](./Silence.md) (Y)***. Étouffe tout bruit dans un rayon de 6 m.
+- ***[Soins modérés](./Soins modérés.md) (Y)***. Rend 2d8 pv au sujet, +1/niveau (max. +10).
+- ***[Son étouffé](./Son étouffé.md)*** *(MCA)*. Les alliés gagnent un bonus aux tests de Discrétion mais sont soumis au risque d’échec des sorts verbaux.
+- ***[Surmonter l'affliction](./Surmonter laffliction.md) (Y)*** *(AM)*. Supprime temporairement une condition.
+- ***[Ténèbres](./Ténèbres.md) (Y)***. Obscurité surnaturelle sur 6 m de rayon.
+- ***[Torche révélatrice](./Torche révélatrice.md)*** *(AG)*. Les objets touchés émettent une vive lumière qui donne des bonus de Perception et de Psychologie.
+- ***[Traquer l'aura](./Traquer laura.md)*** *(MJRA)*. Permet de suivre la piste laissée par l'aura d'un alignement.
+- ***[Vent de murmures](./Vent de murmures.md)***. Transmet un court message à 1,5 km de distance/niv.
+- ***[Vocabulaire savant](./Vocabulaire savant.md)*** *(UI)*. La cible peut parler, lire et écrire un ou plusieurs langages pendant 8 heures.
+- ***[Zone de vérité](./Zone de vérité.md)***. Les créatures affectées ne peuvent pas mentir.
+
+{s:Reference|3}
+### Sorts de niveau 3
+- ***[Affaiblissement des énergies destructives](./Affaiblissement des énergies destructives.md)*** *(OO)*. Réduit la capacité de la cible à puiser dans un type d'énergie spécifique.
+- ***[Affûtage](./Affûtage.md)***. Double la zone de critique possible d'une arme.
+- ***[Alarme sélective](./Alarme sélective.md)*** *(UI)*. Comme *alarme* mais uniquement contre les créatures choisies.
+- ***[Amélioration de piège](./Amélioration de piège.md) ([Kobold](./Kobold (race).md))*** *(MR)*. Renforce un piège ciblé.
+- ***[Ancre dimensionnelle](./Ancre dimensionnelle.md)***. Empêche tout déplacement extradimensionnel.
+- ***[Antidétection](./Antidétection.md) (M)***. Protège contre la scrutation et les divinations.
+- ***[Arme alignée (partagé)](./Arme alignée (partagé).md)*** *(MCA)*. Comme *arme alignée*, mais le personnage peut diviser la durée du sort entre les armes touchées.
+- ***[Arme magique suprême](./Arme magique suprême.md) (Y)***. Confère un bonus de +1/4 niveaux à une arme (max. +5).
+- ***[Bannir les faux-semblants](./Bannir les faux-semblants.md)*** *(MJRA)*. Dissipe une illusion touchée ou le changement de forme d'une créature.
+- ***[Barrière étourdissante suprême](./Barrière étourdissante suprême.md)*** *(MCA)*. Champ magique qui accorde un bonus de +2 à la CA et aux jets de sauvegarde en plus d’étourdir plusieurs créatures qui attaquent le personnage.
+- ***[Bénédiction de la taupe](./Bénédiction de la taupe.md)*** *(AM)*. 1 allié/niveau gagne vision dans le noir et +2 Discrétion.
+- ***[Biographie du sang](./Biographie du sang.md)*** *(MJRA)*. Apprend des informations sur une créature grâce à son sang.
+- ***[Blessure grave](./Blessure grave.md) (Y)***. Inflige 3d8 pts de dégâts, +1/niveau (max. +15).
+- ***[Bouclier de défense suprême](./Bouclier de défense suprême.md)*** *(MCA)*. La cible a 50% de chances de traiter les coups critiques et les attaques sournoises comme des attaques normales.
+- ***[Briser le silence](./Briser le silence.md)*** *(UI)*. Neutralise tous les effets de silence dans la zone.
+- ***[Canaliser la vigueur](./Canaliser la vigueur.md) ([Irori](./Irori (technique).md))*** *(D&M)*. Concentre l'énergie du personnage dans une partie de son corps, lui conférant divers bonus.
+- ***[Cercle magique contre la Loi](./Cercle magique contre la Loi.md)***. Comme *protection contre la Loi*, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+- ***[Cercle magique contre le Bien](./Cercle magique contre le Bien.md)***. Comme *protection contre le Bien*, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+- ***[Cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)***. Comme *protection contre le Chaos*, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+- ***[Cercle magique contre le Mal](./cercle magique contre le Mal.md)***. Comme *protection contre le Mal*, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+- ***[Communication avec les morts](./Communication avec les morts.md)***. Un cadavre répond à 1 question/2 niveaux.
+- ***[Comparaison méticuleuse](./Comparaison méticuleuse.md)*** *(UI)*. Détermine si deux choses sont identiques.
+- ***[Compensation rétributive](./Compensation rétributive.md)*** *(OO)*. Les créatures qui prennent l'objet ciblé subissent une malédiction de fatigue.
+- ***[Contrefaçon instantanée](./Contrefaçon instantanée.md)*** *(UI)*. Manifeste une réplique éphémère d'un objet.
+- ***[Déguisement ajustable](./Déguisement ajustable.md)*** *(MCA)*. Comme *déguisement*, mais le personnage peut changer de déguisement par une action rapide.
+- ***[Délivrance des malédictions](./Délivrance des malédictions.md)***. Libère des malédictions.
+- ***[Détection des angoisses](./Détection des angoisses.md)*** *(UI)*. Révèle les pires angoisses des créatures à 18 m à la ronde.
+- ***[Détection des désirs](./Détection des désirs.md)*** *(UI)*. Révèle les plus grands désirs des créatures à 18 m à la ronde.
+- ***[Dissimulation d'objet](./Dissimulation dobjet.md)***. Dissimule un objet à la scrutation.
+- ***[Dissipation de la magie](./Dissipation de la magie.md) (Y)***. Annule sorts et effets magiques.
+- ***[Double terrifiant](./double terrifiant.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Créé un double menaçant du personnage pour intéragir avec les autres.
+- ***[Efforts coordonnés](./Efforts coordonnés.md)*** *(MJRA)*. Accorde un don de travail en équipe dont dispose le personnage.
+- ***[Élan de rapidité](./Élan de rapidité.md)*** *(AG)*. La vitesse du personnage augmente. Quand il se déplace, il ignore les attaques d’opportunité et peut traverser l’espace occupé par des créatures plus grandes que lui.
+- ***[Empathie de la meute](./Empathie de la meute.md)*** *(UI)*. Crée un lien empathique avec les alliés.
+- ***[Étrange fièvre](./Étrange fièvre.md)*** *(AM)*. La cible est atteinte de la plaie étrange fièvre.
+- ***[Faux alibi](./Faux alibi.md) ([Norgorber](./Norgorber (technique).md))*** *(ISG)*. Modifie les souvenirs de la cible d'une façon prédéfinie.
+- ***[Flamme éternelle](./Flamme éternelle.md) (M)***. Torche permanente ne dégageant aucune chaleur.
+- ***[Flèche de l'aube](./Flèche de laube.md) (Y)*** *(AG)*. Les munitions ciblées émettent une énergie radieuse.
+- ***[Glyphe de garde](./Glyphe de garde.md) (M, Y)***. Inscription affectant ceux qui la touchent.
+- ***[Guérison des maladies](./Guérison des maladies.md)***. Guérit tous les maux du sujet.
+- ***[Héroïsme](./Héroïsme.md) (Y)***. Confère +2 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence.
+- ***[Immobilisation de morts-vivants](./Immobilisation de morts-vivants.md)***. Stoppe les morts-vivants pendant 1 round/niveau.
+- ***[Innombrables yeux](./Innombrables yeux.md)*** *(AM)*. Des yeux supplémentaires donnent la vision à 360°.
+- ***[Isoler](./Isoler.md) ([Gobelours](./Gobelours.md))*** *(CM)*. La cible devient invisible et silencieuse mais seulement vis-à-vis de ses alliés.
+- ***[Juggernaut mortel](./Juggernaut mortel.md)*** *(AG)*. La puissance du personnage augmente à chaque fois qu’il tue.
+- ***[Langage caché](./Langage caché.md)*** *(MJRA)*. +10 aux tests de Bluff pour envoyer des messages secrets.
+- ***[Litanie d'éloquence](./Litanie déloquence.md)*** *(AG)*. Fascine une créature pendant 1 round.
+- ***[Litanie d'enchevêtrement](./Litanie denchevêtrement.md)*** *(AG)*. Enchevêtre une créature pendant un round.
+- ***[Litanie de prévention](./Litanie de prévention.md)*** *(AG)*. Deux attaques d’opportunité de plus pendant 1 round.
+- ***[Litanie de vertu](./Litanie de vertu.md)*** *(AG)*. Une unique créature Mauvaise reçoit plus de dégâts de la part des créatures qui possède une aura Bonne.
+- ***[Localisation d'objet](./Localisation dobjet.md)***. Indique la direction de l'objet cherché.
+- ***[Lumière brûlante](./Lumière brûlante.md) (Y)***. 1d8 points de dégâts/2 niveaux ; plus contre les morts-vivants.
+- ***[Lumière de l'Héritière](./Lumière de Iomédae.md)*** *(MMI)*. Illumine tous les morts-vivants dans la zone et les rends plus vulnérables à l'énergie positive.
+- ***[Lumière du jour](./Lumière du jour.md) (Y)***. Vive lumière sur 18 m de rayon.
+- ***[Manteau de calme](./Manteau de calme.md)*** *(MCA)*. Neutralise les effets de rage de ceux qui ont attaqué le personnage.
+- ***[Mordre la main de son maître](./Mordre la main de son maître.md)*** *(RSE)*. Oblige une création convoquée à attaquer son invocateur.
+- ***[Négation de l'invisibilité](./Négation de linvisibilité.md)***. Dissipe l'invisibilité sur 1,50 m/niveau.
+- ***[Nuit de lames](./Nuit de lames.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)*. Créé un mur immobile fait de minuscules lames noires.
+- ***[Œil du chasseur](./Œil du chasseur.md)*** *(MJRA)*. +20 aux tests de Perception pour repérer une cible.
+- ***[Panoplie magique](./Panoplie magique.md) (Y)***. Armure ou bouclier gagne un bonus d'altération de +1/4 niveaux.
+- ***[Paria](./Paria.md)*** *(MJRA)*. Inflige 2d8 points de dégâts +1/niveau (max +15) à une créature et dissipe un effet.
+- ***[Perception du sang](./Perception du sang.md) ([Orque](./orque (race).md))*** *(MR)*. Améliore la capacité de la cible à sentir la présence de sang.
+- ***[Prière](./Prière.md) (Y)***. +1 pour les alliés à presque tous les jets, -1 pour les adversaires.
+- ***[Protection contre les énergies destructives](./Protection contre les énergies destructives.md)***. Absorbe 12 points de dégâts/niveau infligés par le type d'énergie choisi.
+- ***[Protection des fidèles](./Protection des fidèles.md)*** *(MJRA)*. Les créatures du même alignement que la cible gagnent des bonus à la CA et aux jets de sauvegarde.
+- ***[Purulence](./Purulence.md)*** *(MJRA)*. Donne au sujet une RM 12 + niveau du personnage contre les effets de soins.
+- ***[Ralentissement du poison (partagé)](./Ralentissement du poison (partagé).md)*** *(AG)*. Comme *ralentissement du poison* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Rayon aveuglant](./Rayon aveuglant.md) (Y) ([Dhampir](./Dhampir (race).md))*** *(MR)*. Rayon frappant avec la lumière du soleil, +1 rayon/4 niveaux (max. 3).
+- ***[Recherche de pensées](./Recherche de pensées.md)*** *(MJRA)*. Détecte les pensées des créatures intelligentes.
+- ***[Repérer les faiblesses](./Repérer les faiblesses.md)*** *(AG)*. Le personnage lance deux fois les dés de dégâts des coups critiques et prend les meilleurs.
+- ***[Représailles](./Représailles.md)*** *(MJRA)*. Le dernier attaquant est affligé de malus.
+- ***[Reproche déchirant](./Reproche déchirant.md) ([Hobgobelin](./Hobgobelin (race).md))*** *(MR)*. La cible qui attaque le lanceur de sort subi des dégâts non-létaux.
+- ***[Résistance aux énergies destructives (partagé)](./Résistance aux énergies destructives (partagé).md)*** *(AG)*. Comme *résistance aux énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Rupture mythique](./Rupture mythique.md)*** *(CMy)*. Empêche la cible d'utiliser ses pouvoirs mythiques.
+- ***[Sadomasochisme](./Sadomasochisme.md) ([Zon-Kuthon](./Zon-Kuthon (technique).md))*** *(ISG)*. Le lanceur subit plus de dégâts mais démoralise ses assaillants.
+- ***[Secret dévoilé](./Secret dévoilé.md)*** *(UI)*. Convainc la cible qu'une créature proche connaît son plus grand secret.
+- ***[Silence respectueux](./Silence respectueux.md) ([Chélaxien](./../Golarion/Chélaxiens.md))*** *(ISR)*. Rend toutes les cibles silencieuses, mais ne les empêchent pas d'entendre les sons extérieurs.
+- ***[Soins importants](./Soins importants.md) (Y)***. Rend 3d8 pv au sujet, +1/niveau (max. +15).
+- ***[Témoin](./Témoin.md)*** *(AM)*. Voir à travers les yeux d'une cible et écouter par ses oreilles.
+- ***[Ténèbres profondes](./Ténèbres profondes.md)***. Ténèbres surnaturelles sur 18 m de rayon.
+- ***[Terreur miasmatique](./Terreur miasmatique.md) ([Demi-orque](./Demi-orque.md))*** *(ISR)*. Crache une brume d'un vert maladif qui démoralise les créatures dans la zone.
+- ***[Terrible remords](./Terrible remords.md)*** *(AM)*. La créature est obligée de se blesser.
+- ***[Transe guerrière](./transe guerrière.md) (Y) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Confère la capacité férocité, des points de vies supplémentaires, et un bonus de +4 contre les effets mentaux.
+- ***[Vigueur du juste](./Vigueur du juste.md)*** *(MJRA)*. Améliore l'attaque à chaque coup.
+- ***[Vision magique](./Vision magique.md)***. Le PJ voit les auras magiques.
+- ***[Zèle contagieux](./Zèle contagieux.md)*** *(AO)*. Donne des bonus et des points de vie temporaires se propageant d’une créature à l’autre.
+
+{s:Reference|4}
+### Sorts de niveau 4
+- ***[Aperçu lucide](./Aperçu lucide.md) (M)*** *(UI)*. Comme *vision lucide* mais dure 1 round.
+- ***[Appel du tueur planaire](./Appel du tueur planaire.md)*** *(MCA)*. Les alliés bénéficient d’avantages contre les extérieurs d’un alignement au choix du personnage.
+- ***[Armes muettes](./Armes muettes.md)*** *(UI)*. Les armes ciblées ne font plus de bruit et font taire leurs victimes.
+- ***[Armure impie](./Armure impie.md) (Y)*** *(MJRA)*. Comme *armure sainte* mais RD 5/bien contre un jugement ou un châtiment.
+- ***[Armure sainte](./Armure sainte.md) (Y)*** *(MJRA)*. +1 CA/quatre niveaux (max +5).
+- ***[Aura de mise à mort](./Aura de mise à mort.md)*** *(LD)*. Émet une aura qui se nourrit de l'âme de ceux qui s'y trouvent,
+- ***[Balle dédiée](./Balle dédiée.md) (Y)*** *(AG)*. Les munitions sont plus précises si elles visent un certain type de créature.
+- ***[Blessure critique](./Blessure critique.md) (Y)***. Inflige 4d8 pts de dégâts, +1/niveau (max. +20).
+- ***[Cercle thaumaturgique](./Cercle thaumaturgique.md)*** *(AO)*. Comme *cercle magique* mais affecte un sous-type ou une race d’extérieur sans se baser sur l’alignement.
+- ***[Chaîne cloutée des ombres](./Chaîne cloutée des ombres.md)*** *(MMI)*. Créé une chaîne cloutée vicieuse qui se fond dans les ombres.
+- ***[Chaleur curative](./Chaleur curative.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux dégâts de feu qu'il peut transformer en énergie curative.
+- ***[Châtiment des abominations](./Châtiment des abominations.md) ([Pharasma](./Pharasma (technique).md))*** *(ISG)*. Imite la capacité d'un paladin à châtier les morts-vivants.
+- ***[Châtiment sacré](./Châtiment sacré.md) (Y)***. Blesse et aveugle les créatures Mauvaises (1d8 pts de dégâts/2 niveaux).
+- ***[Colère partagée](./Colère partagée.md)*** *(MJRA)*. Comme *colère* mais bénéficie à plusieurs cibles.
+- ***[Communication à distance](./Communication à distance.md) (Y)***. Transmet un court message n'importe où.
+- ***[Courroux de l'ordre](./Courroux de lordre.md) (Y)***. Blesse et étourdit les créatures Chaotiques (1d8 pts de dégâts/2 niveaux).
+- ***[Dénonciation](./Dénonciation.md)*** *(MJRA)*. Fait empirer l’attitude des gens envers une créature cible.
+- ***[Détection de la scrutation](./Détection de la scrutation.md) (Y)***. Détecte l'espionnage magique.
+- ***[Détection du mensonge](./Détection du mensonge.md)***. Révèle les mensonges délibérés.
+- ***[Dispense de Charon](./Dispense de Charon.md)*** *(BD)*. Protège contre les dangers de l'eau du Styx.
+- ***[Divination](./Divination.md) (M)***. Donne des conseils en rapport avec une action envisagée.
+- ***[Engin de siège magique supérieur](./Engin de siège magique supérieur.md)*** *(AG)*. L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts par tranche de quatre niveaux de lanceur de sorts.
+- ***[Ennemi des enchantements](./Ennemi des enchantements.md)*** *(MCA)*. Le personnage dupe les adversaires qui essayent de lancer des enchantements sur lui.
+- ***[Esprit endormi](./Esprit endormi.md)*** *(AO)*. L’esprit habitant une créature ou un objet entre en dormance.
+- ***[Éveiller les dévorés](./Éveiller les dévorés.md)*** *(BD)*. Inflige 1d8 dégâts non létaux/niveau à un daémon et le rend confus.
+- ***[Explosion de gloire](./Explosion de gloire.md) ([Iomédae](./Iomédae (technique).md))*** *(D&M)*. Confère aux alliés un bonus aux jets d'attaque et de sauvegarde contre la peur, ainsi que des points de vie temporaires.
+- ***[Frappe percutante](./Frappe percutante.md)*** *(MMI)*. Frappe une créature avec une puissance hors du commun, infligeant des dégâts supplémentaires en plus de la bousculer.
+- ***[Hébétement de groupe](./Hébétement de groupe.md)*** *(AM)*. Comme *hébétement* mais sur plusieurs créatures.
+- ***[Héroïsme insipide](./Héroïsme insipide.md)*** *(UI)*. Comme *héroïsme* mais le personnage peut en inverser les effets à tout moment.
+- ***[Immobilisation de monstre](./Immobilisation de monstre.md)***. Immobilise n'importe quelle créature.
+- ***[Immortalité](./Immortalité.md) (Y)*** *(CMy)*. Empêche la mort par perte de points de vie tant que le sort persiste.
+- ***[Immunité contre les sorts](./Immunité contre les sorts.md)***. Immunise le sujet contre 1 sort/4 niveaux.
+- ***[Infatigables poursuivants](./Infatigables poursuivants.md)*** *(MJRA)*. Comme *infatigable poursuivant* mais affecte plusieurs créatures.
+- ***[Infestation de vers](./Infestation de vers.md)*** *(AM)*. Des vers infligent des dégâts et un affaiblissement de Dex.
+- ***[Interrogatoire supérieur](./Interrogatoire supérieur.md)*** *(AM)*. Comme *interrogatoire* mais avec plus de douleur et de questions.
+- ***[Invisibilité suprême](./Invisibilité suprême.md)***. Comme *invisibilité*, mais continue quand le sujet attaque.
+- ***[Lamentation du lâche](./Lamentation du lâche.md)*** *(MJRA)*. Si le sujet n’attaque pas le personnage, il reçoit un malus.
+- ***[Liberté de mouvement](./Liberté de mouvement.md)***. La cible bouge normalement malgré les entraves.
+- ***[Lien des esprits combatifs](./Lien des esprits combatifs.md) (Y)*** *(AM)*. Le personnage et un allié tirent le meilleur de chacun au combat.
+- ***[Litanie de fuite](./Litanie de fuite.md)*** *(AG)*. Téléporte un allié agrippé pour le libérer.
+- ***[Litanie de vision](./Litanie de vision.md)*** *(AG)*. Le personnage distingue les créatures et les objets invisibles situés dans les 9 m autour de lui.
+- ***[Lumière du jugement](./Lumière du jugement.md)*** *(AG)*. Le personnage gagne un effet supplémentaire tant que son jugement est actif.
+- ***[Main rouge de l'assassin](./Main rouge de lassassin.md)*** *(UI)*. Teint en rouge la main du meurtrier du cadavre utilisé.
+- ***[Malédiction conditionnelle](./Malédiction conditionnelle.md)*** *(UI)*. Impose une malédiction difficile à dissiper sans remplir les conditions établies.
+- ***[Malédiction de négation magique](./Malédiction de négation magique.md) (M)*** *(AM)*. La cible est affectée par la plaie magique de négation.
+- ***[Malédiction du paria](./Malédiction du paria.md)*** *(UI)*. Maudit la cible pour qu'elle peine à interagir socialement.
+- ***[Marque du dieu reptile](./Marque du dieu reptile.md) ([Troglodyte](./Troglodyte.md))*** *(CM)*. Marque une créature avec une malédiction acide.
+- ***[Marque supérieure](./Marque supérieure.md)*** *(MJRA)*. Crée une marque permanente sur la cible.
+- ***[Marteau du chaos](./Marteau du chaos.md) (Y)***. Blesse et ralentit les créatures Loyales (1d8 pts de dégâts/2 niveaux).
+- ***[Menottes scellées](./Menottes scellées.md)*** *(AM)*. La cible est limitée à un certain périmètre.
+- ***[Mission](./Mission.md)***. Assigne une tâche à une cible de 7 DV ou moins.
+- ***[Neutralisation du poison](./Neutralisation du poison.md)***. Rend le poison inoffensif.
+- ***[Paix forcée suprême](./Paix forcée suprême.md)*** *(UI)*. Comme *paix forcée* mais sur plusieurs armes et même si elles ne sont pas rangées.
+- ***[Peau de pierre](./Peau de pierre.md) (M, Y)***. RD 10/adamantium.
+- ***[Pistage aérien](./Pistage aérien.md)*** *(UI)*. Le personnage peut traquer les créatures volantes dans les airs.
+- ***[Placage trompeur](./Placage trompeur.md)*** *(UI)*. La cible semble mentir en permanence.
+- ***[Porte-bonheur](./Porte-bonheur.md) ([Desna](./Desna (technique).md))*** *(ISG)*. Émet une vague de bonne fortune aux alliés alentours.
+- ***[Protection contre la mort](./Protection contre la mort.md)***. Confère une immunité contre les sorts de mort et les effets d'énergie négative.
+- ***[Protection contre les énergies destructives (partagé)](./Protection contre les énergies destructives (partagé).md)*** *(AG)*. Comme *protection contre les énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Puissance divine](./Puissance divine.md)***. Bonus à l'attaque et +1 pv/niveau.
+- ***[Renvoi](./Renvoi.md)***. Force une créature à repartir dans son plan d'origine.
+- ***[Repentir forcé](./Repentir forcé.md)*** *(MJRA)*. La cible se laisse tomber à terre et confesse tous ses pêchés.
+- ***[Réprimande](./Réprimande.md)*** *(MJRA)*. Les ennemis subissent 1d8 points de dégâts/2 niveaux de lanceur de sort (max 5d8).
+- ***[Réprobation](./Réprobation.md)*** *(AM)*. Les membres de la religion du personnage fuient la cible marquée.
+- ***[Restauration](./Restauration.md) (M)***. Rend niveaux et points de caractéristique perdus.
+- ***[Sceau de protection contre les morts-vivants](./Sceau de protection contre les morts-vivants.md)*** *(CSU)*. Créé une barrière qui repousse les morts-vivants.
+- ***[Soins intensifs](./Soins intensifs.md) (Y)***. Rend 4d8 pv au sujet, +1/niveau (max. +20).
+- ***[Somnambulisme](./Somnambulisme.md) (M)*** *(MJRA)*. La créature se déplace en dormant.
+- ***[Sonder l'histoire](./Sonder lhistoire.md) ([Demi-elfe](./Demi-elfe.md))*** *(ISR)*. Trouve des réponses à des questions de Connaissances en sondant des réalités alternatives.
+- ***[Ténèbres maudites](./Ténèbres maudites.md) (Y)***. Blesse les créatures Bonnes (1d8 pts de dégâts/2 niveaux) et les rend malades.
+- ***[Terreur](./Terreur.md)***. Les sujets fuient pendant 1 round/niveau.
+- ***[Tranchant du croisé](./Tranchant du croisé.md) (Y)*** *(MMI)*. Confère la propriété *tueuse d'Extérieurs Mauvais* à une arme et rend nauséeux les Extérieurs Mauvais qui subissent un coup critique de cette arme.
+- ***[Transplantation faciale](./Transplantation faciale.md)*** *(ISG)*. Extrait le visage et les yeux d'une créature, les fondant magiquement avec ceux du lanceur.
+- ***[Trouver la proie](./Trouver la proie.md)*** *(AG)*. Le personnage sent si une créature donnée se trouve dans un rayon de 30 km.
+- ***[Vigueur persistante](./Vigueur persistante.md)*** *(MCA)*. Le personnage gagne guérison accélérée 2, immunité contre le saignement et récupération accélérée contre les maladies et les poisons.
+- ***[Vision des auras](./Vision des auras.md)*** *(MCA)*. Le personnage peut voir les auras d’alignement.
+
+{s:Reference|5}
+### Sorts de niveau 5
+- ***[Action interdite supérieure](./Action interdite supérieure.md)*** *(AM)*. Comme *action interdite* mais cible 1 créature/niveau.
+- ***[Annulation d'enchantement](./Annulation denchantement.md) (Y)***. Libère la cible des enchantements, des altérations, des malédictions et de la pétrification.
+- ***[Arme destructrice](./Arme destructrice.md)***. Une arme de corps à corps détruit les morts-vivants.
+- ***[Bannissement](./Bannissement.md)***. Bannit 2 DV/niveau de créatures extraplanaires.
+- ***[Bénédiction du chasseur](./Bénédiction du chasseur.md) ([Érastil](./Érastil (technique).md))*** *(ISG)*. Offre les avantages d'un ennemi juré et d'un environnement de prédilection.
+- ***[Blessure légère de groupe](./Blessure légère de groupe.md)***. Inflige 1d8 points de dégâts +1/niveau à une créature/niveau.
+- ***[Bouclier involontaire](./Bouclier involontaire.md) (M)*** *(MJRA)*. La cible partage les blessures reçues par le lanceur de sorts.
+- ***[Colonne de feu](./Colonne de feu.md) (Y)***. Feu divin (1d6 points de dégâts/niveau).
+- ***[Communion](./Communion.md) (M)***. Le dieu du PJ répond par oui ou non à une question/niveau.
+- ***[Coup retentissant](./Coup retentissant.md)*** *(MJRA)*. Attaque de corps à corps qui inflige 1d6 points de dégâts sonores supplémentaires.
+- ***[Déclaration](./Déclaration.md)*** *(UI)*. Transmet un message aux créatures à des kilomètres à la ronde.
+- ***[Force du colosse](./Force du colosse.md)***. Accroît la taille du PJ et lui confère des bonus au combat.
+- ***[Fustiger de groupe](./Fustiger de groupe.md)*** *(MJRA)*. Comme *fustiger* mais le sort affecte plusieurs créatures.
+- ***[Immunité contre les sorts (partagé)](./Immunité contre les sorts (partagé).md)*** *(AG)*. Comme *immunité contre les sorts* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Infliger des souffrances de groupe](./Infliger des souffrances de groupe.md)*** *(AO)*. Comme *infliger des souffrances* mais touche une créature par niveau.
+- ***[Injonction suprême](./Injonction suprême.md)***. Comme *injonction*, mais affecte un sujet/niveau.
+- ***[Lien télépathique](./Lien télépathique.md)***. Permet de communiquer mentalement.
+- ***[Litanie de tonnerre](./Litanie de tonnerre.md)*** *(AG)*. Une cible est sourde jusqu’à ce qu’on la débarrasse de cette condition et elle est confuse pour 1 round.
+- ***[Litanie de vengeance](./Litanie de vengeance.md)*** *(AG)*. Les alliés qui attaquent la cible de ce sort gagnent un bonus de +5 aux jets de dégâts pendant 1 round.
+- ***[Marque de la justice](./Marque de la justice.md)***. Définit une condition maudissant la cible.
+- ***[Nourrir la haine](./Nourrir la haine.md)*** *(AO)*. Oblige une créature à haïr un type de créature.
+- ***[Peau de pierre (partagé)](./Peau de pierre (partagé).md) (M)*** *(AG)*. Comme *peau de pierre* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Pénitence](./Pénitence.md) (F)***. Permet au sujet d'expier ses fautes.
+- ***[Poursuite divine](./Poursuite divine.md) (Y)*** *(AM)*. Gagne un des types de déplacement de la proie.
+- ***[Protection contre la mort-vivance](./Protection contre la mort-vivance.md) ([Dhampir](./Dhampir (race).md))*** *(MR)*. Confère une immunité contre la transformation en mort-vivant, et limite des effets néfastes de leurs attaques.
+- ***[Quête](./Quête.md)***. Comme *mission*, mais affecte n'importe quelle créature.
+- ***[Rejet de la Loi](./Rejet de la Loi.md)***. Bonus de +4 contre les attaques des créatures Loyales.
+- ***[Rejet du Bien](./Rejet du Bien.md)***. Bonus de +4 contre les attaques des créatures Bonnes.
+- ***[Rejet du Chaos](./Rejet du Chaos.md)***. Bonus de +4 contre les attaques des créatures Chaotiques.
+- ***[Rejet du Mal](./Rejet du Mal.md)***. Bonus de +4 contre les attaques des créatures Mauvaises.
+- ***[Rendre un jugement supérieur](./Rendre un jugement supérieur.md)*** *(AM)*. Un allié bénéficie de tous les jugements.
+- ***[Requiem pour les fantômes de groupe](./Requiem pour les fantômes de groupe.md)*** *(MJRA)*. Comme *requiem pour les fantômes* mais sur plusieurs créatures.
+- ***[Résistance à la magie](./sort résistance à la magie.md)***. Le sujet gagne une RM de 12, +1/niveau.
+- ***[Sanctification](./Sanctification.md) (M)***. Rend un site sacré.
+- ***[Sanctification maléfique](./Sanctification maléfique.md) (M)***. Rend un site maudit.
+- ***[Soins légers de groupe](./Soins légers de groupe.md)***. Rend 1d8 pv+1/niveau à une créature/niveau.
+- ***[Trinquer à la liberté](./Trinquer à la liberté.md) ([Cayden Cailéan](./Cayden Cailéan (technique).md))*** *(ISG)*. Téléporte la cible sur une courte distance pour la libérer de ses entraves.
+- ***[Vision lucide](./Vision lucide.md) (M)***. Permet de voir les choses telles qu'elles sont.
+
+{s:Reference|6}
+### Sorts de niveau 6
+- ***[Annihilation de mort-vivant](./Annihilation de mort-vivant.md) (F, M)***. Détruit 1d4 DV de morts-vivants/niveau (max. 20d4).
+- ***[Aura de mise à mort suprême](./Aura de mise à mort suprême.md)*** *(LD)*. Comme *aura de mise à mort* mais les créatures mourantes succombent plus rapidement à l'intérieur de l'aura.
+- ***[Balle dédiée supérieure](./Balle dédiée supérieure.md)*** *(AG)*. Comme *balle dédiée* mais inflige 2 points de dégâts par niveau de lanceur de sorts.
+- ***[Barrière de lames](./Barrière de lames.md) (Y)***. Lames infligeant 1d6 points de dégâts/niveau.
+- ***[Bénédiction de chance et de résolution de groupe](./bénédiction de chance et de résolution de groupe.md) ([Halfelin](./Halfelin.md))*** *(MR)*. La cible résiste mieux à la terreur.
+- ***[Blasphème](./Blasphème.md) (Y)***. Tue, paralyse, affaiblit ou hébète les cibles non-Mauvaises.
+- ***[Blessure modérée de groupe](./Blessure modérée de groupe.md)***. Inflige 2d8 points de dégâts +1/niveau à une créature/niveau.
+- ***[Cercle de mort](./Cercle de mort.md) (M, Y)***. Tue 1d4 DV de créatures/niveau.
+- ***[Champ de force](./Champ de force.md) (F)***. Nul ne peut approcher du PJ.
+- ***[Décret](./Décret.md) (Y)***. Tue, paralyse, ralentit ou assourdit les cibles non-Loyales.
+- ***[Dissipation suprême](./Dissipation suprême.md)***. Comme *dissipation de la magie*, mais sur cibles multiples.
+- ***[Festin des héros](./Festin des héros.md)***. Nourriture pour une créature/niveau ; confère des bonus au combat.
+- ***[Glyphe de garde suprême](./Glyphe de garde suprême.md) (M)***. Comme *glyphe de garde*, mais avec un sort du 6e niveau ou des dégâts de 10d8 max.
+- ***[Guérison suprême](./Guérison suprême.md) (Y)***. Soigne 10 points de dégâts/niveau, les maladies et les troubles mentaux.
+- ***[Interdiction](./Interdiction.md) (M)***. Bloque les déplacements planaires, blesse les créatures d'un alignement différent.
+- ***[Litanie de folie](./Litanie de folie.md)*** *(AG)*. Une cible est confuse pour au moins 1 round.
+- ***[Mise à mal](./Mise à mal.md) (Y)***. Inflige 10 points de dégâts/niveau.
+- ***[Mordre la main de son maître de groupe](./Mordre la main de son maître de groupe.md)*** *(RSE)*. Comme *mordre la main de son maître* mais avec plusieurs créatures.
+- ***[Mythes et légendes](./Mythes et légendes.md) (F)***. Révèle l'histoire d'un lieu, d'un individu ou d'un objet.
+- ***[Orientation](./Orientation.md)***. Indique comment se rendre à l'endroit choisi.
+- ***[Parole du Chaos](./Parole du Chaos.md) (Y)***. Tue, cause la confusion, étourdit ou assourdit les cibles non-Chaotiques.
+- ***[Parole sacrée](./Parole sacrée.md) (Y)***. Tue, paralyse, aveugle ou assourdit les cibles non-Bonnes.
+- ***[Porteur de peste](./Porteur de peste.md) ([Urgathoa](./Urgathoa (technique).md))*** *(ISG)*. Fait de la cible un porteur de nombreuses maladies contagieuses.
+- ***[Présence écrasante](./Présence écrasante.md)*** *(AM)*. Les créatures s'inclinent devant le personnage comme devant un dieu.
+- ***[Pronostic](./Pronostic.md) (M)*** *(UI)*. Donne une information cryptique concernant un futur plus lointain que *divination*.
+- ***[Purification](./Purification.md)*** *(MJRA)*. Soigne 4d8 points de dégâts +1/niveau (max +25) et dissipe plusieurs afflictions.
+- ***[Purulence de groupe](./Purulence de groupe.md)*** *(MJRA)*. Comme *purulence* mais affecte plusieurs cibles.
+- ***[Soins modérés de groupe](./Soins modérés de groupe.md)***. Rend 2d8 pv +1/niveau à une créature/niveau.
+- ***[Vision de folie](./Vision de Lamashtu.md)*** *(CCMI)*. Comme *cauchemar*, mais permet de livrer un second sort quand la cible se réveille.
+- ***[Zèle inébranlable](./Zèle inébranlable.md)*** *(AO)*. Donne un avantage lors des tentatives suivant un test raté et protège contre les effets d’émotion et de terreur.

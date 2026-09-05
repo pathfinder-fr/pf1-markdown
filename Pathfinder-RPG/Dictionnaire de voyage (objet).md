@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Dictionnaire de voyage (objet)
+Title: Dictionnaire de voyage
+LastModified: 2021-09-16 20:47
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 50 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Chacun de ces livres référence le vocabulaire d'une langue spécifique et se compose de deux parties. La première présente une grande variété d'expressions et de termes utiles en commun (et répartis par catégories) suivis de leur écriture phonétique dans la langue du dictionnaire. La deuxième partie présente dans l'ordre alphabétique (et par écriture phonétique) un ensemble d'expressions et de termes dans la langue cible suivis de leur traduction en commun. L'utilisation de ce dictionnaire n'accorde pas de bonus aux jets effectués pour communiquer mais, si le [MJ](./MJ.md) est d'accord, peut annuler ou réduire un malus si la créature a suffisamment de patience pour attendre la traduction.

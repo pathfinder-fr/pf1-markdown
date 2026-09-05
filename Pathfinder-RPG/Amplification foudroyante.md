@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Amplification foudroyante
+Title: Amplification foudroyante
+LastModified: 2024-07-23 17:56
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Les sorts électriques du personnage fatiguent leurs cibles.*
+
+**Avantage.** Lorsque le personnage lance un sort du [registre](./Registre.md) électricité qui cible une ou plusieurs créatures, il peut choisir de subir une pénalité de -1 au [jet d’attaque](./jet dattaque.md) du sort et réduire le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) de 1 pour rendre la cible la plus proche du personnage ayant subit des dégâts d'électricité [fatiguée](./Fatigué.md). Ce don ne peut jamais rendre [épuisée](./Épuisé.md) une créature déjà [fatiguée](./Fatigué.md).
+
+Ce don n’a pas d’effet sur les sorts qui n’autorisent pas de jet de sauvegarde ou ne nécessitent pas de jet d’attaque.
+
+(((Shocking amplification
+
+Your electricity spells tire their targets.
+
+Benefit: Whenever you cast a spell with the electricity descriptor that targets one or more creatures, you can take a –1 penalty on attack rolls made with the spell and reduce the spell’s saving throw DC by 1 to cause the target closest to you that is dealt electricity damage by the spell to become fatigued for 1  round. This cannot cause a creature that is already fatigued to become exhausted. You must choose to use this feat before making an attack roll or before your target attempts its saving throw. This feat has no effect on spells that neither allow a saving throw nor require an attack roll.)))

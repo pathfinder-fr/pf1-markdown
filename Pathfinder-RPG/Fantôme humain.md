@@ -1,0 +1,96 @@
+---
+Name: Pathfinder-RPG.Fantôme humain
+Title: Fantôme humain
+LastModified: 2025-04-04 07:54
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Fantôme|FP 7}
+{s:pucem|Mort-vivant|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire p.136*}
+{s:BDTexte|**PX** 3.200}
+{s:BDTexte|[Humain](./sous-type humain.md) fantôme, [noble](./Noble.md) 7}
+{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([humanoïde](./type Humanoïde.md) [altéré](./sous-type altéré.md), [intangible](./sous-type intangible.md)) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 17, pris au dépourvu 15 (Dex +1, esquive +1, parade +5)}
+{s:BDTexte|**pv** 73 (7d8+42)}
+{s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +7}
+{s:BDTexte|**Capacités défensives** [intangible](./Intangible.md), reconstruction, [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** vol 9 m (6 {s:c}) (parfait)}
+{s:BDTexte|**Corps à corps** *toucher corrupteur*, +6 (7d6, Vig DD 18, 1/2 dégâts)}
+{s:BDTexte|**Attaques spéciales** *lamentation d'épouvante* (DD 18)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** -, **Dex** 12, **Con** -, **Int** 10, **Sag** 11, **Cha** 20}
+{s:BDTexte|**BBA** +5, **BMO** +5, **DMD** 22}
+{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (histoire) +10, [Connaissances](./Connaissances.md) (noblesse) +10, [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +10, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8}
+{s:BDTexte|**Langues** commun}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous}
+{s:BDTexte|**Organisation sociale** solitaire}
+{s:BDTexte|**Trésor** équipement de PNJ}
+</div>
+</td><td><div>Voir l'[archétype](./Fantôme, archétype.md).
+
+*Cette terrifiante silhouette spectrale flotte dans les airs en silence, traversant les objets solides comme s’ils n’étaient pas là.*
+
+Lorsqu’une grande injustice, réelle ou supposée, empêche une âme
+d’accéder au repos éternel, celle-ci revient parfois sous la forme
+d’un fantôme, une créature immatérielle soumise à une souffrance
+éternelle dont elle ne peut se défaire. Les fantômes peuvent avoir
+n’importe quel alignement mais la majorité d’entre eux restent
+accrochés au monde des vivants du fait d’une rage et d’une haine
+puissantes et possèdent donc un alignement Chaotique Mauvais.
+
+Même les fantômes des créatures Bonnes ou Loyales peuvent se
+laisser gagner par la haine et la cruauté dans l’après-vie.
+Plus encore que la plupart des monstres de ce livre, les fantômes
+gagnent à posséder une histoire intéressante et détaillée. Pourquoi
+cet individu s’est-il transformé en fantôme ? Qu’en disent les
+légendes ? Une rencontre avec un fantôme ne devrait jamais se
+produire par hasard : il existe un grand nombre d’autres morts-vivants
+intangibles comme les âmes-en-peine et les spectres pour
+cela.
+
+La rencontre avec un fantôme devrait plutôt être la scène
+culminante d’une longue période pendant laquelle des sbires
+moins dangereux et des manifestations de l’esprit du mort-vivant
+ont servi à accroître la tension. L’exemple de fantôme présenté
+ci-dessus correspond à une princesse humaine assassinée par
+un amant infidèle. Après qu’elle lui ai dit ses quatre vérités, il l’a
+enserrée de chaînes et l’a jetée dans le puits du château où elle s’est
+noyée.
+
+Les capacités du fantôme ont été choisies en fonction de son
+histoire, afin de montrer qu’il est possible de créer un adversaire
+puissant à partir d’une simple classe de PNJ. Vous pouvez obtenir
+des fantômes encore plus puissants en appliquant cet archétype à
+des créatures qui possèdent des niveaux de classe ou des capacités
+raciales importantes.
+
+Lors de sa création, un fantôme conserve des « copies »
+intangibles de tous les objets auxquels il accordait de l’importance
+de son vivant (sauf si une autre personne est en possession des
+originaux). L’équipement d’un fantôme fonctionne normalement
+pour lui mais traverse les objets et les créatures matérielles sans
+leur causer de tort.
+
+Les armes qui possèdent un bonus d’altération supérieur ou égal à +1 peuvent blesser les créatures matérielles mais
+ces attaques n’infligent que la moitié des dégâts normaux, à moins
+qu’il ne s’agisse d’armes spectrales. Un fantôme ne peut pas utiliser de
+boucliers et d’armures qui ne sont pas spectrales.
+
+Les objets originaux continuent d’exister, tout comme la
+dépouille du fantôme. Si une autre créature s’empare de l’objet, la
+copie intangible disparaît, ce qui va à coup sûr mettre en rage le
+fantôme, qui ne reculera devant rien pour ramener l’objet vers son
+emplacement initial (et ainsi en récupérer l’usage).
+
+</div></td></tr></table>

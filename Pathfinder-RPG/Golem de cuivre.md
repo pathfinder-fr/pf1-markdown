@@ -1,0 +1,62 @@
+---
+Name: Pathfinder-RPG.Golem de cuivre
+Title: Golem, Golem de cuivre
+LastModified: 2021-09-12 13:13
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Golem de cuivre|FP 14}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3 p. 139*}
+{s:BDTexte|**PX** 38 400 px}
+{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille TG, N}
+{s:BDTexte|**Init** +0 ; **Sens** *[détection de l'invisibilité](./Détection de linvisibilité.md)*, [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 30, contact 8, pris au dépourvu 30 (naturelle +22, taille -2)}
+{s:BDTexte|**pv** 150 (20d10+40)}
+{s:BDTexte|**Réf** +6, **Vig** +6, **Vol** +7}
+{s:BDTexte|**RD** 15/adamantium ; **Immunité** feu, magie, [traits des créatures artificielles](./Traits des créatures artificielles.md)}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** cimeterre à deux mains en cuivre, +29 (3d6+11/18-20 plus 2d6 feu) et coup, +29 (2d6+11 plus 2d6 feu)}
+{s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
+{s:BDTexte|**Attaques spéciales** chaleur (2d6 feu), souffle ([DD](./DD.md) 20)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 17 ; concentration +12)}
+{s:BDSorts|Constant - *[détection de l'invisibilité](./Détection de linvisibilité.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 32, **Dex** 11, **Con** -, **Int** -, **Sag** 13, **Cha** 1}
+{s:BDTexte|**BBA** +20, **BMO** +33, **DMD** 43}
+{s:BDTexte|**Particularités** cimeterre en cuivre à deux mains, dernier sursaut}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous}
+{s:BDTexte|**Organisation sociale** solitaire ou garde (2-4)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Cimeterre en cuivre à deux mains (Ext).** Le cimeterre à deux mains du golem de cuivre inflige les mêmes dégâts qu’un cimeterre de taille TG mais correspond, en réalité, à une attaque naturelle principale, non à une arme manufacturée, et ne peut pas être [désarmé](./désarmement.md).}
+{s:BDTexte|**Dernier sursaut (Ext).** Le golem de cuivre explose lorsqu’il est détruit. Toutes les créatures situées dans un rayon de 9 mètres (6 {s:c}) autour de lui reçoivent 12d8 points de dégâts de feu ([Réflexes](./Réflexes.md) [DD](./DD.md) 20, 1/2 dégâts). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Immunité contre la magie (Ext).** Le golem de cuivre est immunisé contre les sorts et les pouvoirs magiques autorisant une [résistance à la magie](./RM.md). En outre, certains sorts et certains effets fonctionnent différemment contre lui :}
+{s:BDTexte|• Les attaques magiques infligeant des dégâts de froid ralentissent le golem de cuivre (comme le sort *[lenteur](./Lenteur.md)*) pendant 1d6 [rounds](./round.md), sans de [jet de sauvegarde](./jet de sauvegarde.md).}
+{s:BDTexte|• Les attaques magiques infligeant des dégâts de feu dissipent les effets de *[lenteur](./Lenteur.md)* dont le golem est affligé et guérissent 1 point de dégât par tranche de 3 points de dégâts que l’attaque aurait dû infliger. Si le nombre de points de vie soignés est supérieur au nombre normal de points de vie du golem, il gagne alors les points en excédent sous la forme de points de vie temporaires. Le golem de cuivre n’a pas de [jet de sauvegarde](./jet de sauvegarde.md) contre les attaques infligeant des dégâts de feu.}
+{s:BDTexte|**Souffle (Ext).** Par une [action libre](./Action libre.md), tous les 1d4 [rounds](./round.md), le golem de cuivre peut cracher un nuage de fumée et de braises emplissant un cube de 6 mètres (4 {s:c}) de côté. Cette capacité fonctionne comme le sort *[nuage incendiaire](./Nuage incendiaire.md)* qui dure 1d6 [rounds](./round.md) et inflige 6d6 points de dégâts de feu ([Réflexes](./Réflexes.md) [DD](./DD.md) 20, 1/2 dégâts). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+*Cette imposante statue de cuivre, construite afin de ressembler à un humanoïde cornu maléfique, tient une gigantesque épée courbe dans son poing de métal.*
+
+Créatures mécaniques de feu et de cuivre extraplanaire, les golems de cuivre sont les sentinelles chargées de la surveillance des palais, des trésors et des harems de leurs créateurs. Les golems de cuivre mesurent 7,20 mètres et pèsent 9 tonnes.
+
+### Construction
+Construire un golem de cuivre nécessite 9 tonnes de cuivre associées à plusieurs solutions minérales et différents composés minéraux rares d’une valeur minimum de 20 000 po.
+
+**NLS** 17<sup>e</sup> ; **Prix** 180 000 po  
+
+**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[quête](./Quête.md)*, *[nuage incendiaire](./Nuage incendiaire.md)*, *[souhait limité](./Souhait limité.md)*, le créateur doit avoir un niveau de lanceur de sorts minimum de 17 ; **Compétence** [Artisanat](./Artisanat.md) (armures) ou [Artisanat](./Artisanat.md) (travail de la forge) [DD](./DD.md) 22 ; **Coût**   
+100 000 po
+</div></td>
+</tr></table>
+{s:ImageCentre|Bestiaire/Golem de cuivre_img.jpg|90%}

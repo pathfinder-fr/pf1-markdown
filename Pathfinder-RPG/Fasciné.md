@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Fasciné
+Title: Fasciné
+LastModified: 2025-09-21 14:41
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Fasciné

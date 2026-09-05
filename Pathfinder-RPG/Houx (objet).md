@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Houx (objet)
+Title: Houx
+LastModified: 2021-10-24 20:05
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** — ; **Poids** —
+<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+---
+{s:Desambi|Cet objet peut aussi être [couplé avec le gui](./Houx et gui (objet).md).}Les baies rouge vif du houx ont de nombreuses utilisations comme décorations et objets rituels. Les druides récoltent les baies de houx avec des outils spécialement préparés et pendant des périodes sacrées de l'année.

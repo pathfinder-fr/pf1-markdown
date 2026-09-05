@@ -1,0 +1,55 @@
+---
+Name: Pathfinder-RPG.Ettercap cauchemardesque
+Title: Créature cauchemardesque, Ettercap cauchemardesque
+LastModified: 2020-09-18 04:09
+Categories:
+- Monstre
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ettercap cauchemardesque|FP 4}
+{s:pucem|Aberration|Forêt-Jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 page 40*}
+- **1 200 PX**
+- [Aberration](./type Aberration.md) de taille M, NM
+- **Init **+9 ; **Sens** vision dans le noir à 36 m, vision nocturne ; Perception +9
+- **Aura** de terreur (18 m, DD 13), de présence terrifiante (9 m, DD 13)
+(((Défense)))
+- **CA** 17, contact 15, pris au dépourvu 12 (Dex +5, naturelle +2)
+- **pv** 30 (4d8+12) ; régénération 5 (sorts et armes du Bien, argent)
+- **Réf **+6, **Vig **+6, **Vol **+6
+- **Capacités défensives** résistance aux illusions, protection contre le Bien ; **RD** 5/Bien ou argent
+(((Attaque)))
+- **VD** 9 m, escalade 9 m, vol 3 m (parfaite)
+- **Corps à corps** morsure, +5 (1d6+2 plus poison) et 2 griffes, +5 (1d4+2)
+- **Attaques spéciales** pièges, poison, terreurs nocturnes (DD 13), toile (distance +8, DD 15, 4 pv)
+- **Pouvoirs magiques** (**NLS** 4 ; concentration +5)
+  - Constant – *[protection contre le Bien](./Protection contre le Bien.md)*
+  - 3/jour – *[cauchemar](./Cauchemar.md)* (DD 16), *[détection de pensées](./Détection de pensées.md)* (DD 13), *[songe](./Songe.md)* (DD 16), *[suggestion](./Suggestion.md)* (DD 14)
+  - 1/jour – *[traversée des ombres](./Traversée des ombres.md)*
+(((Statistiques)))
+- **For** 14, **Dex** 21, **Con** 17, **Int** 8, **Sag** 15, **Cha** 12
+- **BBA **+3 ; **BMO **+5 ; **DMD** 20
+- **Dons** [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
+- **Compétences** [Artisanat](./Artisanat.md) (pièges) +11, [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +9, [Vol](./Vol.md) +13 [Discrétion](./Discrétion.md) +15 ; **Modificateurs raciaux **+8 en Artisanat (pièges), +4 en Discrétion, +4 en Intimidation
+- **Langues** commun
+- **Particularités** empathie avec les araignées +7, mort simulée (DD 13)
+(((Écologie)))
+- **Environnement** forêts tempérées
+- **Organisation** solitaire, couple ou nichées (3-6 et 2-6 araignées géantes)
+- **Trésor** standard
+(((Pouvoirs magiques)))
+- E**mpathie avec les araignées (Ext)**. Ce pouvoir fonctionne comme celui d’empathie sauvage du druide, sauf que l’ettercap ne peut l’utiliser que sur les araignées. L’ettercap gagne un bonus racial de +4 à ce test. Les araignées sont dénuées d’intelligence, mais cette communication empathique leur confère un semblant d’intelligence, ce qui permet aux ettercaps de dresser les araignées géantes pour en faire des gardiennes.
+- **Pièges (Ext)**. Les ettercaps sont particulièrement doués pour confectionner des pièges vicieux avec leurs toiles. Ils fabriquent le plus souvent des collets, des pièges à lance ou à écrasement. Ils n’ont pas besoin d’or pour construire leurs pièges, seulement de temps. Les règles sur la fabrication des pièges se trouvent dans le chapitre 13 du Manuel des Joueurs Pathfinder JdR. La description des pièges des ettercaps se trouvent page 133 du Bestiaire Pathfinder JdR.
+- **Poison (Ext)**. Morsure – blessure ; JdS Vigueur DD 15 ; fréquence 1/round pendant 10 rounds ; effet 1d2 Dex ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.
+
+</div>
+</td><td><div>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature cauchemardesque](./Créature cauchemardesque, archétype.md).***</li></ul>*Cet étrange humanoïde ressemble à une caricature difforme et dégingandée d’ettercap, avec des doigts effilés et un grand sourire mauvais.*
+
+Les créatures cauchemardesques ont un lien contre nature avec les régions les plus terrifiantes de la dimension des Rêves, ce qui leur permet de transformer les rêves d’autrui en cauchemars et de répandre la terreur sur le monde des vivants éveillés. Corrompues par leur puissance, elles deviennent malfaisantes et utilisent leurs pouvoirs pour tourmenter leurs ennemis et maltraiter les créatures inférieures. À terme, leur lien onirique corrompt leur aspect physique et les transforme en une étrange caricature de leur apparence initiale.
+
+La créature cauchemardesque utilise ses pouvoirs pour contrôler les rêves afin de plonger ses victimes dans la confusion et de les terroriser en les abreuvant d’horribles visions d’échecs, de trahisons et de terribles scènes de meurtres et de mort. Les créatures cauchemardesques peuvent même laisser croire à leur cible que celle-ci continue de contrôler ses rêves ou qu’elle s’est réveillée suite à un cauchemar ordinaire, pour mieux broyer ses espérances et plonger leur victime dans une spirale de souffrances et de doutes. Les créatures cauchemardesques les plus vicieuses deviennent parfois des fantômes au moment de leur mort et reviennent sans cesse hanter leurs victimes de prédilection.
+</div></td></tr></table>

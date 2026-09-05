@@ -1,0 +1,36 @@
+---
+Name: Pathfinder-RPG.Nuée de météores
+Title: Nuée de météores
+LastModified: 2022-06-17 23:00
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 9
+- Src Manuel des joueurs
+---
+
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Zone d'effet** 4 étendues de 12 m (8 {s:c}) de rayon (voir description)  
+
+**Durée** [instantanée](./instantanée.md)  
+
+**Jet de sauvegarde** aucun ou [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+
+*Nuée de météores* est un sort extrêmement puissant et très spectaculaire qui ressemble beaucoup à une *[boule de feu](./Boule de feu.md)*. À la fin de l’incantation, quatre sphères de soixante centimètres de diamètre jaillissent de la main du lanceur de sorts et vont frapper en ligne droite le point qu’il a choisi, laissant une longue traînée d’étincelles derrière elles.
+
+Si le mage vise une créature précise, il doit faire une [attaque de contact à distance](./attaque de contact à distance.md) pour la toucher. Toute créature frappée par l’une des sphères subit 2d6 points de dégâts contondants (pas de [jet de sauvegarde](./jet de sauvegarde.md)) et subit un malus de -4 au [jet de sauvegarde](./jet de sauvegarde.md) contre les dégâts de feu infligés (voir ci-dessous). Si une sphère rate sa cible, elle explose au niveau de l’angle le plus proche de la case de ladite cible. Le mage peut lancer plusieurs sphères sur une même cible.
+
+Quand une sphère atteint sa cible, elle explose sous la forme d’une étendue de 12 m (8 {s:c}) de rayon et inflige 6d6 points de dégâts de feu aux créatures situées dans cette zone. Si une créature se trouve dans la [zone d’effet](./zone deffet.md) de plusieurs sphères, elle doit faire un [jet de sauvegarde](./jet de sauvegarde.md) distinct pour chacune. Même si les dégâts viennent de plusieurs sphères, une fois que la cible a fait son (ou ses) [jet(s) de sauvegarde](./jet de sauvegarde.md), les dégâts de feu des sphères s’additionnent et la [résistance](./RM.md) s’applique une seule fois.
+
+### Mythique
+{s:CMy}
+Les météores créés par ce sort infligent des dégâts contondants sur une ligne qui s’étend depuis le personnage jusqu’au point de destination ciblé où ils explosent. Les créatures situées sur la trajectoire d’un météore subissent 2d10 points de dégâts contondants et doivent réussir un jet de [Vigueur](./Vigueur.md) pour ne pas tomber à terre. Les dégâts infligés par l’explosion des météores s’élèvent à 6d10 points de dégâts de feu. Les créatures qui ratent leur jet de [Réflexes](./Réflexes.md) contre les dégâts de feu tombent également à terre et sont assourdies pendant 1d4 rounds.
+
+**[Amplifié](./Amplifié.md) (10ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), les créatures sur la trajectoire d’un météore subissent également 4d10 points de dégâts de feu et les dégâts infligés par l’explosion d’un météore s’élèvent à 10d10 points de dégâts de feu ; ces dégâts de feu ignorent les immunités et les résistances au feu.

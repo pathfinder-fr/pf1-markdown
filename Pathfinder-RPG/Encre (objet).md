@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Encre (objet)
+Title: Encre
+LastModified: 2021-09-16 20:49
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 8 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette fiole contient 30 millilitres d'encre. Les encres de couleur coûtent deux fois plus cher que l'encre noire.

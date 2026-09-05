@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Arbalète de lancer (arme)
+Title: Arbalète de lancer
+LastModified: 2021-10-24 17:43
+Categories:
+- Arme
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 75 po ; **Poids** 4 kg ; **Groupes** [arbalètes](./groupe darmes.md#Arbalètes)
+**Dégâts** — (P), — (M) ; **Critique** — ; **Portée** 9 m (6 c) ; **Type** — ; **Spécial** —
+<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+---
+Cette arbalète épaisse possède une attache en forme de coupe plutôt qu'une rainure pour un carreau. Elle est conçue pour tirer des [armes à aspersion](./arme à aspersion.md). Le rechargement d'une arbalète de lancer prend une [action complexe](./Action complexe.md).

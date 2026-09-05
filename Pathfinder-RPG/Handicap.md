@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Handicap
+Title: Handicap
+LastModified: 2024-07-23 17:51
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maléfice sanglant
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage maudit un adversaire blessé avec de l’incertitude.*
+
+**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+
+**Conditions.** [Int](./Int.md) 13, 5 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+
+**Avantage.** Par une [action simple](./Action simple.md), le personnage peut maudire un adversaire à qui il a infligé des dégâts avec une attaque au corps à corps dans la minute pour le rendre hésitant. La cible doit réussir un jet de [Réflexes](./Réflexes.md) ou subir une pénalité de -10 sur n’importe quel test d’[initiative](./initiative.md) qu’elle réalisera au cours de la prochaine minute.
+
+**Spécial.** Si un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) utilise ce maléfice sanglant, la cible est incapable d’entreprendre une [action complexe](./Action complexe.md) durant 1 [round](./round.md). Cet effet peut être étendu avec le maléfice [ricanement](./maléfices.md#Ricanement).
+
+(((Hinder (blood Hex)
+You curse a bleeding opponent with uncertainty.
+
+Prerequisites: Int 13, Use Magic Device 5 ranks.
+
+Benefit: As a standard action, you can curse an enemy you’ve damaged with a melee attack in the last minute to become hesitant. The target must succeed at a Reflex save or take a –10 penalty on any initiative check it makes in the next minute.
+
+Special: If a shaman or witch uses this blood hex, the target is unable to take a full-attack action for 1 round. This effect can be extended with the cackle hex.)))

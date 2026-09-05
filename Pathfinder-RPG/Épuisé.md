@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Épuisé
+Title: Épuisé
+LastModified: 2026-02-20 14:41
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Épuisé

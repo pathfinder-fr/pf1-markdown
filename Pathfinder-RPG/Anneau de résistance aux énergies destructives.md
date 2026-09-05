@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Anneau de résistance aux énergies destructives
+Title: Anneau de résistance aux énergies destructives
+LastModified: 2024-05-25 17:27
+Categories:
+- Objet mag anneau
+---
+
+<div class="BD">
+{s:BDTitre|Anneau de résistance aux énergies destructives|}
+**Aura** [Abjuration](./Abjuration.md) faible (anneaux mineur et majeur) ou modérée (anneau suprême) ; **NLS** 3 (mineur), 7 (majeur), 11 (suprême) ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 12 000 po (mineur), 28 000 po (majeur), 44 000 po (suprême) ; **Poids** —
+(((Description)))
+Cet anneau protège son porteur contre un type d’énergie destructive (acide, électricité, feu, froid ou son) choisi par le créateur de l’anneau (si l’anneau est trouvé dans un trésor, déterminez le type aléatoirement). Chaque fois qu’une attaque devrait infliger des dégâts de ce type au personnage, la valeur de résistance de l’anneau est retranchée aux dégâts subis.
+
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Type || Résistance
+|- CLASS="premier"
+| Mineur || 10 points
+|-
+| Majeur || 20 points
+|-
+| Suprême || 30 points
+|}
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* ; **Coût** 6 000 po (mineur), 14 000 po (majeur), 22 000 po (suprême)
+</div>

@@ -1,0 +1,53 @@
+---
+Name: Pathfinder-RPG.Vermine géante
+Title: Vermine géante
+LastModified: 2022-07-06 19:49
+Categories:
+- Règle officielle
+- Sort
+- Sort chaman 4
+- Sort druide 4
+- Sort prêtre 4
+- Src Manuel des joueurs
+---
+
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4, [Prê](./Prêtre.md) 4  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, FD](./composantes.md)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Cibles** 1 créature ou plus de [type vermine](./type Vermine.md) distantes de moins de 9 m (6 {s:c}) les unes des autres  
+
+**Durée** 1 minute/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Ce sort transforme un certain nombre de [mille-pattes](./Mille-pattes géant.md), d’[araignées](./Araignée géante.md) ou de [scorpions](./Scorpion géant.md) de taille normale en *vermines géantes* (voir l'archétype "[Géant](./archétypes simples.md#CREATUREGEANTE)"). Il n’est possible de transformer qu’un seul type d’animal à la fois (un seul sort ne permet donc pas de faire grandir simultanément un mille-pattes et une araignée). Le nombre de vermines affectées dépend du [niveau de lanceur de sorts du personnage](./NLS.md) (voir la table ci-dessous).
+
+Les créatures géantes créées par ce sort ne font jamais de mal au personnage, mais ce dernier ne peut leur donner que des instructions très succinctes (« Attaquez », « Défendez-moi », « Arrêtez-vous », etc.). Un ordre leur indiquant d’attaquer un individu ou un monstre spécifique dès que celui-ci apparaîtra ou de protéger un lieu contre un péril bien précis est trop compliqué. Sauf instructions contraires, elles attaquent tout ce qui se trouve à proximité.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| [NLS](./NLS.md) || Mille-pattes || Scorpions || Araignées
+|- CLASS="premier"
+| 9e ou moins || 3 || 1 || 2
+|- CLASS="alt"
+| 10e–13e || 4 || 2 || 3
+|-
+| 14e–17e || 6 || 3 || 4
+|- CLASS="alt"
+| 18e–19e || 8 || 4 || 5
+|-
+| 20 ou + || 12 || 6 || 8
+|}
+</center>
+
+### Mythique
+{s:CMy}
+La vermine que le personnage transforme avec ce sort gagne une RD5/ magie et soit l’archétype de créature évoluée, soit celui de créature géante.
+
+**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), toutes les vermines qu’il transforme gagnent également l’archétype mythique de créature agile ou de créature sauvage pendant toute la durée du sort. S’il a atteint le 9ème [grade](./Grade.md) au moins et dépense trois utilisations de [pouvoir mythique](./pouvoir mythique.md), la durée change et devient instantanée, ce qui signifie que les vermines conservent leur taille géante. Après un nombre de jours égal à son [grade](./Grade.md), le personnage perd le contrôle des vermines à moins qu’il dispose d’un autre moyen pour les contrôler. Elles perdent également l’archétype mythique de créature sauvage ou agile mais conservent l’archétype de créature géante ou évoluée.

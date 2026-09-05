@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Garde dhonneur  (chevalier)
+Title: Garde d'honneur
+LastModified: 2025-01-15 00:13
+Categories:
+- Archétype
+- Archétype chevalier
+- Classe
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:Menuarchétypechevalier}{s:UC}*Certains cavaliers ne s’entraînent pas pour devenir des combattants hors pair mais de fidèles gardes qui défendent courageusement ce qu’on leur a confié. Parfois, ces gardes d’honneur jouent un rôle purement décoratif et se contentent du côté cérémoniel de leur fonction mais beaucoup sont de dangereux adversaires, étonnamment efficaces, capables d’éliminer une menace avant même que leur seigneur ne se rende compte qu’il est en danger. Un garde d’honneur guette constamment le moindre danger et il est prêt à sacrifier sa vie sur-le-champ.*
+
+#### Jurer de protéger (Ext)
+Au [niveau](./niveau.md) 1, quand le garde d’honneur lance un [défi](./Chevalier.md#DEFI), il peut choisir un allié qu’il protège pendant toute la durée du défi. Quand il est adjacent à son protégé, il subit un malus de -1 à la [CA](./CA.md) tandis que le protégé gagne un bonus d’esquive de +1 à la [CA](./CA.md). Ce pouvoir modifie celui de [défi](./défi.md).
+
+#### Ange gardien (Ext)
+Au niveau 3, le garde d’honneur apprend à perturber les attaques ennemies. Il obtient [Garde du corps](./Garde du corps.md) comme don supplémentaire, même s’il ne remplit pas les conditions requises. De plus, quand il se sert de l’action aider autrui pour augmenter la [CA](./CA.md) d’un allié, le bonus qui en découle augmente de +1. Ce pouvoir remplace [charge de cavalerie](./Chevalier.md#CHARGEDECAVALERIE).
+
+#### Objet de la protection (Ext)
+Au niveau 11, le garde d’honneur peut traverser le champ de bataille en un éclair pour défendre son protégé contre la cible de son [défi](./Chevalier.md#DEFI). Quand cette dernière porte une attaque contre son protégé, le garde d’honneur peut se déplacer à sa [vitesse](./VD.md) et faire une unique attaque de corps à corps contre la cible de son [défi](./Chevalier.md#DEFI), par une [action immédiate](./Action immédiate.md). Si le déplacement le permet, l’attaque et le déplacement peuvent prendre la forme d’une [charge](./charge.md). Ce pouvoir remplace [charge puissante](./Chevalier.md#CHARGEPUISSANTE).
+
+#### Défi défensif (Ext)
+Au niveau 12, quand le garde d’honneur lance un défi, sa cible doit lui prêter une attention particulière à cause de ses capacités à intercepter les attaques. Tant que la cible se trouve dans la zone que menace le garde, elle subit un malus de -2 aux [jets d’attaque](./jet dattaque.md) contre les créatures autres que le garde d’honneur. Ce pouvoir remplace [défi éprouvant](./Chevalier.md#DEFIEPROUVANT).

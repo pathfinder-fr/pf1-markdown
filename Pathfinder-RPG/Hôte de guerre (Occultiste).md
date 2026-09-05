@@ -1,0 +1,48 @@
+---
+Name: Pathfinder-RPG.Hôte de guerre (Occultiste)
+Title: Hôte de guerre
+LastModified: 2024-07-15 00:47
+Categories:
+- Archétype
+- Archétype occultiste
+---
+
+{s:Menuarchétypeoccultiste}{s:AO}''Expert en matière d’histoire militaire, de tactique sur le
+champ de bataille et d’occultisme, un hôte de guerre noue un
+lien surnaturel avec une arme, une armure ou un bouclier de
+prédilection. Ce lien lui permet de canaliser l’énergie psychique
+pour lancer des sorts, convoquer l’esprit de l’ancien propriétaire
+de l’objet, augmenter sa force physique et produire divers autres
+effets remarquables.''
+
+#### Compétences de classe
+Un hôte de guerre ajoute [Connaissances](./Connaissances.md) (folklore local) (Int) et [Connaissances](./Connaissances.md) (noblesse) (Int) à sa liste de compétences de classe. Ceci modifie la liste de compétences de classe des occultistes.
+
+#### Armes et armures
+Un hôte de guerre est formé au maniement de toutes les armes courantes et de guerre ainsi qu’à celui des boucliers (y compris des pavois). Il est également formé au port de tous les types d’armures (légère, intermédiaire et lourde). Ceci remplace la formation aux armes et armures des occultistes.
+
+#### Pacte martial (Sur)
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- Aventures occultes.md#10) Hôte de guerre : Que signifie exactement l'immunité de l'instrument de l'hôte de guerre à l'état brisé ? Ne peut-il jamais être détruit ? Un personnage peut-il l'utiliser encore et encore avec des capacités qui brisent une arme pour accorder un avantage ?**'
+
+Dans <u>[ce cas précis](./Hôte de guerre (Occultiste).md)</u>, les implications de cette immunité est légèrement différente de la définition habituelle d'« immunité ». Cela signifie que l'instrument ne subit aucun malus, même s'il devient [brisé](./Brisé.md). Il peut toujours obtenir l'état brisé, et il sera alors traité comme ayant l'état brisé dans le cadre d'effets qui évoluent avec cet état préjudiciable (comme les effets qui imposent l'état brisé, ou qui détruisent la cible si elle est déjà brisée). Comme d'habitude, il est impossible d'utiliser un effet qui brise une arme si elle possède déjà l'état brisé. Une explication sera incluse dans le prochain errata.}Un hôte de guerre de niveau 1 scelle un pacte surnaturel avec une arme, une armure ou un bouclier spécifique. Le choix de l’objet est définitif et ne peut plus être changé par la suite. L’objet avec lequel il pactise est un objet de maître et l’hôte de guerre commence sa carrière en sa possession, sans avoir à régler son prix. L’objet du pacte est immunisé à l’état préjudiciable [brisé](./États préjudiciables.md#Brisé) tant que l’hôte de guerre est en vie. Si le personnage est ramené à la vie après avoir succombé, l’objet du pacte est également et intégralement réparé s’il a été détruit.
+
+Les éventuels pouvoirs magiques associés à l’objet du pacte fonctionnent uniquement quand l’hôte de guerre s’en sert ; sinon, c’est un simple objet de maître entre les mains d’autres créatures. L’objet de pacte d’un hôte de guerre de niveau 1 sert d’instrument pour une école de magie et donne accès à des [écoles supplémentaires](./Occultiste.md#INSTRUMENTS) aux niveaux 2, 10, 14 et 18. Il confère ainsi à l’hôte de guerre les [pouvoirs de focalisation](./Occultiste.md#POUVOIRDEFOCALISATION) de base et les pouvoirs de résonance correspondants. L’objet de pacte d’un hôte de guerre est sa [composante instrumentale](./Écoles instrumentales.md) pour lancer les sorts d’occultiste, toutes écoles de magie de son répertoire confondues.
+
+Il doit cependant répartir sa [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) entre les écoles de son répertoire lorsqu’il s’agit de déterminer les pouvoirs de résonance et l’utilisation des [pouvoirs de focalisation](./Occultiste.md#POUVOIRDEFOCALISATION), même s’il ne possède qu’un seul objet physique en guise d’instrument. Cette aptitude modifie celles d’[instruments](./Occultiste.md#INSTRUMENTS), de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE), d’incantation des sorts et de [maîtrise d’une école instrumentale](./Occultiste.md#INSTRUMENTS).
+
+#### Expert de l’arsenal
+Au niveau 2, l’aptitude d’[expert des objets magiques](./Occultiste.md#EXPERTDESOBJETSMAGIQUES) d’un hôte de guerre s’applique uniquement aux tests effectués sur des armes, des armures et des boucliers. Cette aptitude modifie celle d’[expert des objets magiques](./Occultiste.md#EXPERTDESOBJETSMAGIQUES).
+
+#### Lecture de l’arsenal
+Un hôte de guerre de niveau 2 peut utiliser son aptitude de [lecture d’objet](./Occultiste.md#LECTUREDOBJET) uniquement sur des armes, des armures et des boucliers. Cette aptitude modifie celle de [lecture d’objet](./Occultiste.md#LECTUREDOBJET).
+
+#### Dons supplémentaires
+Aux niveaux 4, 8, 12 et 16, un hôte de guerre acquiert un don supplémentaire en plus de ceux obtenus grâce à sa progression normale. Ces dons supplémentaires doivent être des dons de combat et l’hôte de guerre doit satisfaire les conditions d’acquisition. Cette aptitude remplace celles de [transfert de focalisation](./Occultiste.md#TRANSFERTDEFOCALISATION), [cercles magiques](./Occultiste.md#CERCLESMAGIQUES), [cercles d’entrave](./Occultiste.md#CERCLEDENTRAVE) et [traçage des cercles accéléré](./Occultiste.md#TRACAGEDECERCLEACCÉLÉRÉ).
+
+#### Combattant spirituel (Mag)
+Un hôte de guerre de niveau 5 peut appeler l’esprit d’un combattant mort qui possédait de son vivant son objet de pacte. Il peut appeler l’esprit par une [action simple](./Types dactions.md#SIMPLE) qui ne provoque pas [d’attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE), même si c’est un pouvoir magique. Ce pouvoir fonctionne comme le sort d’*[Allié spirituel](./Allié spirituel.md)*, en appliquant son niveau d’occultiste en guise de [niveau de lanceur de sorts](./NLS.md) et son modificateur d’[Intelligence](./Intelligence.md) au lieu de celui de [Sagesse](./Sagesse.md) pour déterminer ses effets. L’hôte de guerre peut convoquer un combattant spirituel une fois par jour au niveau 5, et une fois de plus par jour par tranche de 4 niveaux d’occultiste au-delà du cinquième. Cette aptitude remplace celle de [vision des auras](./Occultiste.md#VISIONDESAURAS).
+
+#### Gloire héroïque (Sur)
+Un hôte de guerre de niveau 6 peut puiser dans l’énergie de son objet de pacte pour s’octroyer une force, une agilité ou une résistance surhumaine. Par une [action rapide](./Types dactions.md#RAPIDE), il peut s’octroyer un bonus d’intuition de +4 à sa valeur de [Force](./Force.md), de [Dextérité](./Dextérité.md) ou de [Constitution](./Constitution.md), pendant une minute. L’hôte de guerre peut utiliser cette aptitude une fois par jour au niveau 6, et une fois de plus par jour par tranche de 4 niveaux d’occultiste audelà du sixième. S’il active de nouveau la gloire héroïque avant la fin de sa durée, cette nouvelle utilisation remplace la précédente. Cette aptitude remplace [appel d’Extérieur](./Occultiste.md#APPELDEXTERIEUR).

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Nuée de crocs
+Title: Nuée de crocs
+LastModified: 2022-06-17 22:58
+Categories:
+- Sort
+- Sort conjurateur 3
+- Sort druide 3
+- Sort magicien 3
+- Sort psychiste 3
+- Sort sorcière 3
+- Src Codex monstrueux
+---
+
+{s:cm}**Cette option est plus courante chez les [troglodytes](./Troglodyte.md).**
+
+**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3
+**Temps d’incantation** 1 [round](./round.md)
+**Composantes** [V, G, M](./composantes.md) (une dent de lézard)
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Effet** un essaim de crocs animés
+**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le troglodyte invoque une nuée qui se compose de milliers de crocs volants animés couvrant un cube de 3 mètres de côté. Ces crocs attaquent toutes les créatures situées dans la zone occupée. Le troglodyte peut convoquer cette nuée de façon à ce qu’elle partage l’espace d’autres créatures et il peut la déplacer d’un maximum de 12 mètres par [round](./round.md) par une [action de mouvement](./Action de mouvement.md). Si le troglodyte décide de ne pas déplacer la nuée, celle-ci se déplace automatiquement d’un maximum de 12 mètres pour envelopper la créature la plus proche (y compris le troglodyte) si elle ne l’a pas déjà fait.
+
+Les créatures prises dans la zone d’effet de la nuée reçoivent 2d6 points de dégâts. Les crocs infligent des dégâts à toutes les créatures qui partagent leur espace quand elles y entrent et à la fin de leur mouvement, lors de chaque [round](./round.md).

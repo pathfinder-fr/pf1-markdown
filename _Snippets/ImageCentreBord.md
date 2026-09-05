@@ -1,0 +1,5 @@
+---
+{}
+---
+
+<center><IMG SRC="/wiki/public/upload/?1?" WIDTH="?2?" STYLE="float: none; margin: 5px; border: 2px solid black"/></center>

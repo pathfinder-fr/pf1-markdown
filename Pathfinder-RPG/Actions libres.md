@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Actions libres
+Title: Actions libres
+LastModified: 2024-08-28 15:34
+Categories:
+- Combat
+- Règle officielle
+- Src Manuel des joueurs
+---
+
+{s:MenuCombat}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>Les actions libres ne prennent pas de temps, bien que, dans certaines situations le nombre d’actions libres disponibles au cours du même round puisse être limité. Les actions libres provoquent rarement des [attaques d’opportunité](./attaque dopportunité.md). Voici quelques actions libres courantes.
+
+{s:Reference|CESSERCONCENTRATION}
+### Cesser de se concentrer sur un sort
+Il suffit d’une action libre pour cesser de se concentrer sur un sort actif.
+
+{s:Reference|LACHEROBJET}
+### Lâcher un objet
+Une action libre permet de lâcher un objet qu’on tient en main dans sa case ou dans une case adjacente.
+
+{s:Reference|PLONGERAUSOL}
+### Plonger au sol
+Il suffit d’une action libre pour se laisser tomber [à terre](./À terre.md) dans sa case.
+
+{s:Reference|PARLER}
+### Parler
+En règle générale, le personnage peut parler librement, même en dehors de son tour de jeu mais s’il prononce plus de quelques phrases cela dure généralement trop longtemps pour constituer une action libre.

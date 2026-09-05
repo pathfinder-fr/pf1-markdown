@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Tir assuré
+Title: Tir assuré
+LastModified: 2024-07-25 12:08
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Lorsque la magie aide à viser, le personnage manque rarement.*
+
+**Condition.** [Tir de précision](./Tir de précision.md), [Tir de loin](./Tir de loin.md)
+
+**Avantage.** Lorsque le personnage obtient un bonus magique sur un [jet d’attaque](./jet dattaque.md) avec une arme à distance, il peut réduire déduire les pénalités liées au [facteur de portée](./facteur de portée.md) à son [jet de dégâts](./Valeurs de combat.md#DEGATS) au lieu de son jet d’attaque. De plus, lorsque le personnage obtient un bonus magique sur un jet d’attaque à distance, il peut infliger une [attaque sournoise](./attaque sournoise.md) à une cible qui bénéficie d'un [camouflage](./camouflage.md) (mais pas d'un [camouflage total](./camouflage total.md)) tant que son attaque remplit les autres conditions nécessaire à l'attaque sournoise. Le nombre maximal de dés d’attaque sournoise que le personnage peut utiliser de cette manière est égal à la valeur du bonus magique aux jets d'attaque dont il bénéficie.
+
+(((Acute shot
+
+When magic aids your ranged attacks, you rarely miss.
+
+Prerequisites: Far Shot, Precise Shot.
+
+Benefit: Whenever you gain a magic bonus on an attack roll with a ranged weapon, you can deduct any range penalties from your damage roll, instead of your attack roll. Additionally, when you gain a magic bonus on a ranged attack roll, you can deal sneak attack damage to a target that has concealment (but not total concealment) as long as the attack otherwise qualifies to deal sneak attack damage. The maximum number of sneak attack dice you can use in this way is equal to the value of your magic bonus on attack rolls.)))

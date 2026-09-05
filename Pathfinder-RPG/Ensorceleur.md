@@ -1,0 +1,458 @@
+---
+Name: Pathfinder-RPG.Ensorceleur
+Title: L'ensorceleur
+LastModified: 2024-09-27 16:43
+---
+
+{s:MenuClasses}
+<div class="fright">***Voir aussi les [lignages d'ensorceleur](./Lignages.md).***
+***Voir aussi la [liste des sorts d'ensorceleur](./Liste des sorts densorceleursmagiciens.md).***
+{s:PM0|ensorceleur}**Voir les archétypes de l'ensorceleur**&emsp;
+<li ID="ensorceleur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeensorceleur}</li>
+</div>*Un ensorceleur peut être l’héritier d’une lignée où le contrôle de la magie vient naturellement, l’élu d’une divinité, le rejeton d’une créature monstrueuse, un pion du destin ou simplement le récipiendaire d’un pouvoir magique capricieux mais, dans tous les cas, c’est au plus profond de lui-même qu’il puise les talents magiques qui lui accordent une puissance que bien peu de mortels parviennent à concevoir. Les ensorceleurs sont des êtres touchés par la magie, dont les pouvoirs innés menacent à tout moment de consumer leur vie. Ils font sans cesse appel à leurs mystérieuses capacités et les affinent en apprenant peu à peu comment contrôler leur héritage et accomplir des exploits magiques toujours plus puissants. Les capacités et les origines de ces puissants lanceurs de sorts sont tout aussi variées que les manières dont ils choisissent d’utiliser leurs dons innés. Certains cherchent à dompter leurs pouvoirs grâce à la méditation et à la discipline et parviennent peu à peu à maîtriser leur fantastique héritage alors que d’autres s’abandonnent à la magie et la laissent contrôler leur vie, avec des résultats souvent explosifs. Dans tous les cas, les ensorceleurs appréhendent de manière instinctive ce que d’autres lanceurs de sorts ne parviennent à maîtriser qu’au bout de toute une vie de travail ; pour eux, la magie est plus qu’un simple don ou qu’un domaine d’études : c’est leur vie.*
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLEENSORCELEUR}L'ensorceleur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="9" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|  |
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [Dispense de composantes](./Ensorceleur.md#DISPENSEDECOMPOSANTES), [pouvoir de lignage](./Ensorceleur.md#LIGNAGE), [tours de magie](./Ensorceleur.md#TOURSDEMAGIE)
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | &nbsp;
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +1
+| +1
+| +1
+| +3
+| CLASS="gauche" | [Pouvoir de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 5
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | &nbsp;
+| 6
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +2
+| +1
+| +1
+| +4
+| CLASS="gauche" | [Sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | &nbsp;
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +3
+| +2
+| +2
+| +5
+| CLASS="gauche" | [Don de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +4
+| +2
+| +2
+| +6
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +4
+| +3
+| +3
+| +6
+| CLASS="gauche" | [Pouvoir de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+| -
+|-
+| 11
+| +5
+| +3
+| +3
+| +7
+| CLASS="gauche" | [Sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+| -
+|-
+| 13
+| +6/+1
+| +4
+| +4
+| +8
+| CLASS="gauche" | [Don de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+| -
+|- CLASS="alt"
+| 14
+| +7/+2
+| +4
+| +4
+| +9
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+| -
+|-
+| 15
+| +7/+2
+| +5
+| +5
+| +9
+| CLASS="gauche" | [Pouvoir de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+| -
+|- CLASS="alt"
+| 16
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+| -
+|-
+| 17
+| +8/+3
+| +5
+| +5
+| +10
+| CLASS="gauche" | [Sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+| -
+|- CLASS="alt"
+| 18
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | &nbsp;
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 5
+| 3
+|-
+| 19
+| +9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" | [Don de lignage](./Ensorceleur.md#LIGNAGE), [sort de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 4
+|- CLASS="alt"
+| 20
+| +10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [Pouvoir de lignage](./Ensorceleur.md#LIGNAGE)
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+| 6
+|}
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|SORTSCONNUSDELENSORCELEUR}Sorts connus par l'ensorceleur
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="10" CLASS="avecsoustitre gauche" | Sorts connus
+|- CLASS="soustitre"
+| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
+|- CLASS="premier"
+| 1 || 4 || 2 || - || - || - || - || - || - || - || -
+|-
+| 2 || 5 || 2 || - || - || - || - || - || - || - || -
+|-
+| 3 || 5 || 3 || - || - || - || - || - || - || - || -
+|-
+| 4 || 6 || 3 || 1 || - || - || - || - || - || - || -
+|-
+| 5 || 6 || 4 || 2 || - || - || - || - || - || - || -
+|-
+| 6 || 7 || 4 || 2 || 1 || - || - || - || - || - || -
+|-
+| 7 || 7 || 5 || 3 || 2 || - || - || - || - || - || -
+|-
+| 8 || 8 || 5 || 3 || 2 || 1 || - || - || - || - || -
+|-
+| 9 || 8 || 5 || 4 || 3 || 2 || - || - || - || - || -
+|-
+| 10 || 9 || 5 || 4 || 3 || 2 || 1 || - || - || - || -
+|-
+| 11 || 9 || 5 || 5 || 4 || 3 || 2 || - || - || - || -
+|-
+| 12 || 9 || 5 || 5 || 4 || 3 || 2 || 1 || - || - || -
+|-
+| 13 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || - || - || -
+|-
+| 14 || 9 || 5 || 5 || 4 || 4 || 3 || 2 || 1 || - || -
+|-
+| 15 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || - || -
+|-
+| 16 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 2 || 1 || -
+|-
+| 17 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || -
+|-
+| 18 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 2 || 1
+|-
+| 19 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 2
+|-
+| 20 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 3
+|}
+</div></div>**Rôle.** Les ensorceleurs se démarquent par leur capacité à lancer fréquemment un certain nombre de sorts choisis, ce qui en fait de puissants mages de combat. En se familiarisant avec un répertoire de sorts limité mais sans cesse croissant, les ensorceleurs découvrent souvent de nouvelles méthodes permettant d’utiliser de manière versatile certains effets auxquels les autres lanceurs de sorts pourraient ne pas prêter attention. Leur lignage leur octroie également des capacités additionnelles, ce qui les différencient les uns des autres.
+
+**Alignement.** Au choix.
+
+**Dés de vie.** d6.
+
+**Argent de départ.** 2d6 x 10 po (moyenne 70 po).
+
+### Compétences de classe
+Les compétences de classe de l’ensorceleur sont les suivantes : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (mystères) (Int), [Estimation](./Estimation.md) (Int), [Intimidation](./Intimidation.md) (Cha), [Profession](./Profession.md) (Sag), [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) (Cha) et [Vol](./Vol.md) (Dex).
+
+**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Descriptif de la classe
+Les aptitudes de l’ensorceleur sont décrites ci-dessous.
+
+#### Armes et armures
+L’ensorceleur est formé au maniement de toutes les armes courantes mais pas au port des armures ni à l’utilisation des boucliers. En effet, une armure restreint ses gestes, ce qui risque de faire échouer ses sorts à composante gestuelle (voir « [Sorts profanes et armure](./Magicien.md#SORTSPROFANESETARMURE) »).
+
+#### Sorts
+Un ensorceleur peut lancer des sorts profanes appartenant à la [liste des sorts d’ensorceleur et de magicien](./Liste des sorts densorceleursmagiciens.md). Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, un ensorceleur doit avoir une valeur de [Charisme](./Charisme.md) au moins égale à 10 + le niveau du sort. Le [DD](./DD.md) des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur de [Charisme](./Charisme.md) de l’ensorceleur.
+
+Comme les autres lanceurs de sorts, l’ensorceleur ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table "[L'Ensorceleur](./Ensorceleur.md#TABLEENSORCELEUR)". En plus de cela, il reçoit des sorts en bonus si sa valeur de [Charisme](./Charisme.md) est suffisamment élevée (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+
+Le répertoire de sorts d’un ensorceleur est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un ensorceleur apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[Sorts connus par l'ensorceleur](./Ensorceleur.md#SORTSCONNUSDELENSORCELEUR)" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un ensorceleur n’est pas modifié par son éventuel bonus de [Charisme](./Charisme.md) : les nombres de cette table sont fixes). Ces sorts peuvent être choisis parmi la [liste des sorts courants d’ensorceleur et de magicien](./Liste des sorts densorceleursmagiciens.md), mais il peut également s’agir de sorts moins courants, que l’ensorceleur s’est entraîné à maîtriser.
+
+{s:ImageDroite|Illustrations/PNJ/Seoni.jpg|35%}
+Lorsqu’il atteint le niveau 4, et tous les deux niveaux suivants, un ensorceleur peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Il oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié. Un ensorceleur ne peut remplacer qu’un seul sort à chaque fois, et doit choisir de le faire ou non au moment où il apprend de nouveaux sorts lors du passage de niveau.
+
+Contrairement à un [magicien](./Magicien.md) ou à un [prêtre](./Prêtre.md), un ensorceleur n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
+
+{s:reference|LIGNAGE}
+#### Lignage
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#11) Ensorceleur : Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?***
+
+Les pouvoirs de l’<u>[arcane de lignage](./Ensorceleur.md#LIGNAGE)</u> s’appliquent à tous les sorts lancés par les personnages de ce lignage, pas seulement à ceux lancés en utilisant les emplacements de sorts d’ensorceleur.
+
+Règle générale : Si une capacité de classe modifie le lancement de sorts du personnage, elle s’applique aux sorts de toutes ses classes, pas seulement aux sorts de la classe qui offre la capacité. (L’exception étant si la capacité de classe précise qu’elle ne s’applique qu’aux sorts de cette classe.)}Chaque ensorceleur tire ses pouvoirs magiques d’une source liée à son héritage. Elle lui donne accès à des sorts, des dons supplémentaires, une compétence de classe additionnelle et d’autres capacités spéciales. Cette source peut être un lien de sang ou un événement extrême vécu par un de ses ancêtres. Ainsi, un ensorceleur peut avoir un dragon comme parent éloigné, ou son grand-père peut avoir conclu un contrat infernal avec un diable. Quelle que soit la nature de cette source, son influence se manifeste de diverses manières au cours de l’évolution du personnage. Un ensorceleur doit choisir un [lignage](./Lignages.md) dès qu’il reçoit son premier niveau d’ensorceleur. Ce choix ne peut plus être modifié par la suite.
+
+Au niveau 3 et tous les deux niveaux suivants, l’ensorceleur apprend un sort supplémentaire associé à son lignage. Ces sorts viennent s’ajouter au nombre de sorts indiqué dans la Table "[Sorts connus par l'ensorceleur](./Ensorceleur.md#SORTSCONNUSDELENSORCELEUR)". L’ensorceleur ne peut pas les remplacer par d’autres sorts par la suite.
+
+Au niveau 7 et tous les six niveaux suivants, l’ensorceleur reçoit un don supplémentaire qu’il peut choisir dans une liste dépendant de son lignage. L’ensorceleur doit remplir les conditions du don qu’il choisit.
+
+*Voir la [liste des lignages d'ensorceleur](./Lignages.md).*
+
+{s:Reference|TOURSDEMAGIE}
+#### Tours de magie
+Les ensorceleurs apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[Sorts connus par l'ensorceleur](./Ensorceleur.md#SORTSCONNUSDELENSORCELEUR)". Ces sorts sont lancés de la même manière que les autres mais ils ne réduisent pas le quota quotidien de l’ensorceleur et peuvent être utilisés indéfiniment.
+
+{s:Reference|DISPENSEDECOMPOSANTES}
+#### Dispense de composantes
+Un ensorceleur reçoit le don [Dispense de composantes matérielles](./Dispense de composantes matérielles.md) comme don supplémentaire au niveau 1.

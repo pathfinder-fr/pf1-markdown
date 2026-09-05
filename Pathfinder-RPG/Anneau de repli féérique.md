@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Anneau de repli féérique
+Title: Anneau de repli féérique
+LastModified: 2022-06-11 19:00
+Categories:
+- Règle officielle
+- Sort
+- Sort chaman 7
+- Sort druide 7
+- Sort sorcière 7
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:mca}**École** [invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7, [Sor](./Sorcière.md) 7{br}
+**Temps d’incantation** 1 [action simple](./Action simple.md){br}
+**Composantes** [V, G, FD](./composantes.md){br}
+**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md)){br}
+**Effet** prairie extradimensionnelle, faisant un maximum de trois cubes de 3 m de côté /niveau (S){br}
+**Durée** 2 heures/niveau (T){br}
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage invoque une prairie extradimensionnelle accessible par une unique entrée située sur le plan où le sort a été lancé. Le seuil ressemble à un cercle d’amanites délimitant un espace de 3 mètres (2 {s:c}) de côté. Seules les créatures désignées par le personnage peuvent entrer dans la prairie avant lui et le portail se ferme et devient invisible dès que le personnage est entré. Le personnage peut ouvrir cet espace à volonté depuis l’intérieur. Une fois qu’un visiteur a franchi le seuil, il se retrouve dans une prairie crépusculaire idyllique entourée d’un bosquet infranchissable d’arbres fruitiers et de noisetiers. L’atmosphère y est pure, fraîche et chaleureuse. {br}
+Le personnage peut configurer cette prairie selon la forme qu’il souhaite, dans les limites de l’effet du sort. L’endroit est confortable et tempéré. Les arbres offrent suffisamment de nourriture pour alimenter chaque jour quatre personnes par niveau de lanceur. Une équipe de serviteurs animaux ou féeriques presque transparents (composée de deux individus par niveau de lanceur) se mettent au service de tous ceux qui entrent dans la prairie. Ces serviteurs fonctionnent comme des serviteurs invisibles, à la seule différence qu’ils sont visibles et peuvent aller n’importe où dans la prairie.{br}
+Étant donné qu’il n’est possible de pénétrer dans cet endroit que par un portail spécial, les conditions extérieures n’affectent pas la prairie et les conditions intérieures de la prairie n’influencent pas le plan situé au-delà.

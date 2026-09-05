@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Mystère de la sombre tapisserie
+Title: Mystère de la sombre tapisserie
+LastModified: 2024-08-22 21:12
+Categories:
+- Classe
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:MenuMystères}{s:um}
+**Compétences de classe.** Un oracle du mystère de la sombre tapisserie ajoute [Connaissances](./Connaissances.md) (mystères), [Déguisement](./Déguisement.md), [Discrétion](./Discrétion.md) et [Intimidation](./Intimidation.md) à sa liste de compétences de classe.
+
+**Sorts supplémentaires.** *[bouclier entropique](./Bouclier entropique.md)* (2), *[poussière du crépuscule](./Poussière du crépuscule.md)* (4), *[don des langues](./Don des langues.md)* (6), *[tentacules noirs](./Tentacules noirs.md)* (8), *[débilité](./Débilité.md)* (10), *[contrat intermédiaire](./Contrat intermédiaire.md)* (12), *[aliénation mentale](./Aliénation mentale.md)* (14), *[inversion de la gravité](./Inversion de la gravité.md)* (16), *[téléportation interplanétaire](./Téléportation interplanétaire.md)* (18).
+
+### Révélations
+*Un oracle du mystère de la sombre tapisserie peut choisir l’une des révélations suivantes.*
+
+**Ailes des ténèbres (Sur).** Par une [action rapide](./Action rapide.md), le personnage peut faire apparaître des ailes sombres et translucides qui lui donnent une vitesse de [vol](./Vol.md) de 18 mètres et une bonne manœuvrabilité. Il peut utiliser ces ailes pendant 1 minute par niveau d’[oracle](./Oracle.md). Cette durée n’est pas forcément continue mais doit se diviser en segments de 1 minute. Au niveau 11, l’[oracle](./Oracle.md) peut, une fois par jour, utiliser ces ailes pour voler comme avec [vol supérieur](./Vol supérieur.md). Dans ce cas, le pouvoir dure 1 heure par niveau et se décompte de la limite des utilisations quotidiennes. L’[oracle](./Oracle.md) doit être au moins de niveau 7 pour choisir cette révélation.
+
+**Caresse du vide (Sur).** Par une [action simple](./Action simple.md), l’[oracle](./Oracle.md) peut faire une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) qui inflige 1d6 points de dégâts de froid + 1 point par tranche de deux niveaux. Au niveau 7, la créature touchée doit aussi réussir un jet de [Vigueur](./Vigueur.md), sans quoi elle est [fatiguée](./Fatigué.md) pendant un nombre de rounds égal à 1/2 niveau de l’[oracle](./Oracle.md). Ceci n’a aucun effet sur une créature déjà [fatiguée](./Fatigué.md). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Charisme](./Charisme.md).
+
+**Déchirer le voile (Sur).** L’[oracle](./Oracle.md) possède un lien avec les habitants étrangers de la sombre tapisserie qui lui permet de voir dans les plus noires ténèbres. Il gagne [vision dans le noir](./vision dans le noir.md) à 18 mètres. Au niveau 11, il conserve une vision parfaite, quel que soit le degré d’obscurité, même dans des ténèbres absolues ou créées par un sort de [ténèbres profondes](./Ténèbres profondes.md).
+
+**Don de démence (Sur).** Le personnage puise dans le vide insondable entre les étoiles et rend une créature située à moins de 9 mètres [confuse](./Confus.md) pendant 1 round. Un jet de [Volonté](./Volonté.md) annule cet effet. Au niveau 7, la confusion dure un nombre de rounds égal au niveau de l’[oracle](./Oracle.md). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Charisme](./Charisme.md).
+
+**Drain cervical (Sur).** L’[oracle](./Oracle.md) peut consacrer une [action simple](./Action simple.md) à sonder violemment l’esprit d’une unique créature intelligente située dans les 30 mètres. La cible a droit à un jet de [Volonté](./Volonté.md) pour annuler cet effet. Si elle y parvient, elle sait immédiatement qui est à l’origine de cette douloureuse exploration mentale. Si elle échoue, elle éprouve de violentes douleurs et reçoit 1d4 points de dégâts par niveau d’[oracle](./Oracle.md). Une fois que le personnage a réussi son attaque, il peut passer une [action complexe](./Action complexe.md) à démêler l’entrelacs de pensées et de souvenirs volés pour faire un unique test de [Connaissances](./Connaissances.md) avec le bonus de sa victime. Les pensées volées au hasard restent dans l’esprit de l’[oracle](./Oracle.md) pendant un nombre de rounds égal à son modificateur de [Charisme](./Charisme.md). L’[oracle](./Oracle.md) considère les connaissances obtenues comme celles issues d’une [détection de pensées](./Détection de pensées.md). C’est un effet mental. Au niveau 1, le personnage peut utiliser ce pouvoir une fois par jour puis une fois de plus au niveau 5 et, par la suite, tous les cinq niveaux.
+
+**Habitant des ténèbres (Mag).** Une fois par jour, l’[oracle](./Oracle.md) peut envoyer sa psyché dans le vide de l’espace pour attirer l’attention d’un être terrifiant d’un autre monde. L’habitant des ténèbres se comporte comme un sort d’[assassin imaginaire](./Assassin imaginaire.md). Au niveau 17, plusieurs créatures peuvent percevoir l’habitant des ténèbres, comme avec un sort d’[ennemi subconscient](./Ennemi subconscient.md). L’[oracle](./Oracle.md) doit être au moins de niveau 11 pour choisir cette révélation.
+
+**Lire la tapisserie (Mag).** Une fois par jour, le personnage peut passer 10 minutes à méditer sur les mystères de la sombre tapisserie, afin d’envoyer son esprit sur un autre plan et de communiquer avec les étranges êtres qui y résident. Ceci fonctionne comme un sort de [contact avec les plans](./Contact avec les plans.md). L’[oracle](./Oracle.md) doit être au moins de niveau 7 avant de choisir cette révélation.
+
+**Manteau de ténèbres (Sur).** L’[oracle](./Oracle.md) convoque un manteau d’obscurité qui lui donne un bonus de +4 à l’armure et un bonus de circonstance de +2 aux tests de [Discrétion](./Discrétion.md). Au niveau 7 et par la suite tous les quatre niveaux, ces bonus augmentent de +2. Il peut utiliser ce manteau pendant 1 heure par jour par niveau d’oracle. Cette durée n’est pas forcément continue mais doit se diviser en segments de 1 heure.
+
+**Nombreuses formes (Sur).** Par une [action simple](./Action simple.md), le personnage peut prendre la forme d’un humanoïde de taille P ou M, comme avec [modification d’apparence](./Modification dapparence.md). Au niveau 7, il peut prendre celle d’un animal P ou M comme avec [forme bestiale I](./Forme bestiale I.md) ; au niveau 11, celle d’une créature magique de taille P ou M, comme avec [forme bestiale III](./Forme bestiale III.md) et au niveau 15, il peut prendre toutes sortes de formes, comme avec [métamorphose suprême](./Métamorphose suprême.md). Cette durée n’est pas forcément continue mais doit se diviser en segments de 1 minute. L’[oracle](./Oracle.md) doit avoir atteint au moins le niveau 3 avant de choisir cette révélation.
+
+**Vide interstellaire (Sur).** Le personnage fait appel aux profondeurs glaciales de l’espace pour geler ses ennemis. Par une [action simple](./Action simple.md), il peut envelopper une cible située dans les 3 mètres de ce vide. Elle reçoit alors 1d6 points de dégâts par niveau d’[oracle](./Oracle.md). Un jet de [Vigueur](./Vigueur.md) réduit ces dégâts de moitié. Au niveau 10, le vide interstellaire est si froid qu’une créature qui rate son jet de sauvegarde est [fatiguée](./Fatigué.md). Au niveau 15, la créature qui rate ce jet est [épuisée](./Épuisé.md) et étourdie pendant 1 round. L’[oracle](./Oracle.md) peut utiliser ce pouvoir une fois par jour et une fois de plus à partir du niveau 10.
+
+**Révélation finale.** Quand l’[oracle](./Oracle.md) atteint le niveau 20, il devient une créature vraiment surnaturelle et étrangère à ce monde. Il gagne une [RD](./RD.md) 5/– et devient immunisé contre l’acide, les [coups critiques](./coup critique.md) et les [attaques sournoises](./attaque sournoise.md). Une fois par jour, il peut lancer [changement de forme](./Changement de forme.md) comme un pouvoir magique sans avoir besoin de composante matérielle.

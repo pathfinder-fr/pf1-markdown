@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.bonus de base à lattaque
+Title: bonus de base à l’attaque
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Vocabulaire courant#BONUSDEBASEALATTAQUE

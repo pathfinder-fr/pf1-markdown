@@ -1,0 +1,16 @@
+---
+Name: Golarion.Lozeri
+Title: Lozeri
+LastModified: 2010-12-10 23:11
+Categories:
+- Géographie
+- Ustalav
+---
+
+Lozeri est l'un des comtés de l'[Ustalav](./Ustalav.md) qui forme la province des Palatinats. Le territoire du comté est pratiquement recouvert par la partie méridionale de la forêt de [Bois-frisson](./Bois-frisson.md).
+
+Il s'agit du premier comté à s'être séparé du pouvoir traditionnel de l'[Ustalav](./Ustalav.md) lorsqu'en 4670 AR, son peuple renversa le gouvernement injuste de la noblesse locale. Aujourd'hui, le comté de Lozeri est dirigé par un groupe de roturiers aisés qui cède aux caprices de l'élite sociale locale. Leur loisir préféré semble être la chasse, depuis celle de la faune locale jusqu'à celle de bêtes exotiques importées uniquement dans ce but.
+
+Pour le bas peuple du comté, peu de choses ont changé depuis le changement de gouvernement. Beaucoup d'habitants se plaignent que le nouveau conseil lâche des bêtes sauvages dangereuses dans les campagnes pour ses chasses alors que l'ancien dirigeant, le Comte Beauturne, les protégeait. Pour augmenter la frayeur de la population, une rumeur circule depuis quelques années disant que le Diable Gris, une des bêtes relâchées dans la nature en vue d'être chassée, s'attaque aux gens à la lisière de la forêt.
+
+Les principaux centres de population du comté sont [Courtaud](./Courtaud.md) et [Chastel](./Chastel.md).

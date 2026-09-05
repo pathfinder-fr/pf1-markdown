@@ -1,0 +1,20 @@
+---
+Name: Starfinder.sf2-news
+Title: Starfinder 2
+LastModified: 2025-05-24 12:20
+---
+
+Bienvenue dans l'espace Starfinder 2!!
+## Nouvelles Starfinder 2
+<div class="itemmenu">
+{s:TileSF|WIP|WIP|Starfinder/SF2-playtest-small.webp}
+</div>
+
+## Starfinder Society 2
+<div class="itemmenu">
+{s:TileSF|sfs2-paizo-blog-05-06|SFS 2.0: Trame de l'année 1|Starfinder/SFS2-logo.webp}
+{s:TileSF|sfs2-paizo-blog-04-29|SFS 2.0: Récompenses des aventures|Starfinder/SFS2-logo.webp}
+{s:TileSF|sfs2-paizo-blog-04-22|SFS 2.0: Création des personnages|Starfinder/SFS2-logo.webp}
+{s:TileSF|sfs2-paizo-blog-04-15|SFS2.0: Structure des scénario|Starfinder/SFS2-logo.webp}
+{s:TileSF|sfs2-paizo-blog-04-08|Annonce du programme SFS2|Starfinder/SFS2-logo.webp}
+</div>

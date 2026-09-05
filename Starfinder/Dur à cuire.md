@@ -1,0 +1,13 @@
+---
+Name: Starfinder.Dur à cuire
+Title: Dur à cuire
+LastModified: 2024-07-04 17:29
+Categories:
+- Don
+---
+
+Vous êtes particulièrement difficile à tuer. Vos blessures se stabilisent rapidement lorsque vous êtes grièvement blessé.
+
+**Avantage :** quand vous êtes agonisant, vous pouvez dépenser le montant de points de persévérance requis pour vous stabiliser et 1 point de persévérance pour continuer à combattre (en récupérant 1 point de vie) lors du même round.
+
+**Normal : ** la dépense des points de persévérance pour vous stabiliser et pour continuer à combattre se fait lors de rounds séparés.

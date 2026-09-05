@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Forteresse
+Title: Forteresse
+LastModified: 2023-01-11 18:34
+Categories:
+- Don
+- Don histoire
+- Règle officielle
+- Src Guide de campagne
+---
+
+{s:GC}*Vous voulez construire un bastion sur lequel vos ennemis viendront se briser comme des vagues sur les rochers.*
+
+**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+
+**Conditions.** Vous devez disposer du don [Prestige](./Prestige.md) et avoir au moins dix suivants capables de se battre (comme des [guerriers](./Guerrier.md) ou des [rôdeurs](./Rôdeur.md)).
+
+**Avantages.** Vous pouvez dépenser une [action de mouvement](./Action de mouvement.md) pour donner des ordres à vos troupes. Les créatures placées sous votre commandement et situées à 18 mètres ou moins de vous reçoivent alors un bonus de moral de +1 aux [jets d’attaque](./jet dattaque.md), un bonus d’esquive de +1 à la [CA](./CA.md) ou un bonus de +1 à un unique type de [jet de sauvegarde](./JDS.md). Tous vos hommes reçoivent le même bonus. Vous ne pouvez pas utiliser ce don sur des alliés qui ne sont pas placés sous vos ordres. C’est un effet mental dépendant du langage.
+
+**Objectif.** Construisez ou emparez-vous d’une forteresse capable d’abriter au moins 200 hommes et garnissez-la avec un minimum de 100 soldats formés au combat (ou l’équivalent) et placés sous vos ordres. Vous devez aussi stocker assez d’eau et de nourriture pour survivre à un siège de six mois et vous devez disposer d’une réserve d’or suffisante pour payer vos troupes pendant ces six moins si vous devez les rémunérer.
+
+**Avantage de réussite.** Le bonus associé à vos ordres passe à +2 et sa portée à 36 mètres. De plus, vous pouvez donner deux ordres différents à vos troupes. Par exemple, vous pouvez donner un bonus d’attaque de +2 à vos archers et un bonus de +2 à la CA à vos soldats placés en première ligne.

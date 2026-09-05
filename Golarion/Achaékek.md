@@ -1,0 +1,22 @@
+---
+Name: Golarion.Achaékek
+Title: Achaékek, l'Assassin Divin
+LastModified: 2020-06-30 14:47
+Categories:
+- Religion
+---
+
+{s:Dieu|Achaékek|%2fPCUP%2fReligion-PNG%2fAchaekek.png|Celui-qui-Marche-dans-le-Sang, Le Dieu Mante, L'Assassin Divin|LM|Assassins|Mantes Rouges|Sabre dentelé |Guerre, Loi, Mal, Mort, Tromperie|Sang, Diables, Meurtre, Supercherie, Tactique, Voleurs|}
+Achaékek est plus connu sous le nom de Celui-qui-Marche-dans-le-Sang ou encore de Dieu Mante ou d’Assassin Divin.
+
+Terrible assassin, il n’est pas réellement un dieu mais plutôt une créature au service des dieux souhaitant exécuter leurs rivaux potentiels sans se salir les mains. Il a été créé pour réduire à néant ceux qui aspiraient à voler le pouvoir divin, cependant il n’est pas capable de s’en prendre à un dieu.
+
+Il est difficile de connaître ses commanditaires et aucun dieu du panthéon n’avoue avoir eu recours à ses services. Paradoxalement, aucun ne fait rien pour l’anéantir.
+
+Parmi les fidèles du Dieu Mante on trouve les [Mantes Rouges](./Mantes Rouges.md) (Red Mantis), une célèbre organisation d’assassin.
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Enfin, le [troisième volume](./../Aventures/Présentation AP2.md#AP2-3) de la seconde campagne contient un paragraphe qui détaille ce dieu.
+{s:VoirAussiAprès}

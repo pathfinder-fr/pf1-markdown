@@ -1,0 +1,75 @@
+---
+Name: Pathfinder-RPG.FAQ- Manuel des joueurs (Maîtrise)
+Title: FAQ du Manuel des joueurs, section maîtrise
+LastModified: 2024-07-04 23:13
+Categories:
+- FAQ
+---
+
+{s:MenuFAQoff}
+- [Absorption d'énergie :](./.md#1) Est-ce que cela compte comme un effet de mort ?
+
+- [Allié :](./.md#2) Le personnage compte-t-il comme son propre allié ?
+
+- [Effets de terreur/moral :](./.md#3) Qu'est ce qui fait de quelque chose un effet de terreur ? Et pour un effet de moral ?
+
+- [Immunité au feu :](./.md#4) Est-ce qu'une créature avec ce pouvoir obtient automatiquement la vulnérabilité au froid ?
+
+- [Niveaux négatifs :](./.md#5) À la page 566, il est dit que le personnage a droit à un jet de sauvegarde pour se débarrasser des niveaux négatifs temporaires chaque jour, mais la règle de monstre universelle sur l'absorption d'énergie, ainsi que la quasi totalité des passages qui font mention de niveaux négatifs que je peux trouver, dit qu'après 24 heures, un niveau négatif temporaire devient permanent si je rate mon jet. Qui a bon ?
+
+- [Points de vie temporaires :](./.md#6) Est-ce que les points de vie temporaires qui proviennent de la même source se cumulent ?
+
+- [Poison :](./.md#7) Comment est-ce que le poison se cumule avec lui-même exactement ? Quand et comment les jets de sauvegarde sont faits ? Comment déterminer le DD du prochain jet quand la cible est exposée à plus d'une dose du poison à la fois ?
+
+### Réponses
+{s:Reference|1}
+#### Absorption d'énergie : Est-ce que cela compte comme un effet de mort ?
+L'<u>[absorption d'énergie](./Absorption dénergie (capacité).md)</u> n'est pas un effet de mort.
+
+Le type [mort-vivant](./type Mort-vivant.md) indique des immunités aux « effets de mort » et à l'« absorption d'énergie » comme deux choses distinctes.
+
+La description des [attaques de mort](./Capacités spéciales.md#ATTAQUESMORT) dans le Manuel des joueurs ne mentionne pas les niveaux négatifs ou l'absorption d'énergie.
+
+« [Absorption d'énergie et niveaux négatifs](./Absorption dénergie (capacité).md) » est une section complètement à part dans le Manuel des joueurs et elle ne dit ni que l'absorption d'énergie est un type d'attaque de mort, ni que *[protection contre la mort](./Protection contre la mort.md)* protège contre elle.
+
+*[Protection contre la mort](./Protection contre la mort.md)* confère un bonus contre les sorts de mort et les effets magiques de mort, et continue en disant que la cible est immunisée à l'absorption d'énergie, et que les malus imposés par les niveaux négatifs sont suspendus tant que le sort est actif.
+
+Ainsi les règles traitent l'absorption d'énergie et les effets de mort comme deux notions distinctes. Par exemple, si le personnage est immunisé aux effets de mort, il n'est pas nécessairement immunisé à l'absorption d'énergie.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|2}
+#### Allié : Le personnage compte-t-il comme son propre allié ?
+Le personnage compte comme son propre allié sauf précision contraire ou si cela ne ferait aucun sens ou serait impossible. Ainsi, « les alliés du personnage » signifie quasiment toujours « le personnage et ses alliés ».
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|3}
+#### Effets de terreur/moral : Qu'est ce qui fait de quelque chose un effet de terreur ? Et pour un effet de moral ?
+Les effets de terreur incluent les sorts avec le registre [peur](./Registre.md), tout ce qui est explicitement appelé un effet de terreur, tout ce qui impose l'état [secoué](./Secoué.md), [effrayé](./Effrayé.md), ou [paniqué](./Paniqué.md), et toutes les utilisations de la compétence [Intimidation](./Intimidation.md). L'Intimidation, en particulier, est un effet mental de terreur, donc les créatures dénuées d'intelligence et/ou de peur sont immunisées à toutes les utilisations de cette compétence.
+
+Les effets de moral, contrairement aux effets de terreur, n'ont pas de registre ou d'expression fixe. Tout ce qui confère un bonus de moral est un effet de moral. Par exemple, le sort *[rage](./Rage.md)* confère un bonus de moral, donc une créature immunisée aux effets de moral serait immunisée à l'intégralité des effets de ce sort, y compris le malus de -2 à la CA.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|4}
+#### Immunité au feu : Est-ce qu'une créature avec ce pouvoir obtient automatiquement la vulnérabilité au froid ?
+Non. Une créature <u>[immunisée](./Immunité (capacité).md)</u> au feu (comme un [balor](./Balor.md)) ne devrait pas automatiquement être vulnérable au froid. De même, une créature immunisée au froid ne devrait pas automatiquement être vulnérable au feu. (Notez qu'on ne parle pas ici de créature avec le <u>sous-type</u> feu ou froid, qui rend automatiquement vulnérable au type d'énergie opposé.)
+
+~~Malheureusement, le Manuel des joueurs inclut les règles de la 3.5 qui indiquent que l'immunité au feu implique la vulnérabilité au froid, et vice versa (Immunité et vulnérabilité aux énergies, page 567). Cela sera modifié dans la prochaine impression du Manuel des joueurs.~~ Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|5}
+#### Niveaux négatifs : À la page 566, il est dit que le personnage a droit à un jet de sauvegarde pour se débarrasser des niveaux négatifs temporaires chaque jour, mais la règle de monstre universelle sur l'absorption d'énergie, ainsi que la quasi totalité des passages qui font mention de niveaux négatifs que je peux trouver, indiquent qu'après 24 heures, un niveau négatif temporaire devient permanent si je rate mon jet. Qui a bon ?
+La règle de la page 566 est une notion générale, mais presque toutes les règles spécifiques du jeu fonctionnent différemment, et le spécifique prime toujours sur le général. Par ailleurs, la règle de monstre universelle sur l'<u>[absorption d'énergie](./Absorption dénergie (capacité).md)</u> ne dit pas explicitement que les niveaux négatifs sont considérés comme temporaires avant de devenir permanents (il est juste dit « niveaux temporaires »), et nous souhaitons préciser qu'ils s'agit de niveaux négatifs temporaires à ce moment là (et donc que le personnage peut les supprimer plus facilement avec *[restauration](./Restauration.md)*). Le seul texte objectivement faux est le rappel à la fin d’*[énergie négative](./Énergie négative.md)* qui prétend que devenir permanent après 24 heures est la règle générale.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|6}
+#### Points de vie temporaires : Est-ce que les points de vie temporaires qui proviennent de la même source se cumulent ?
+Non. En général, les effets ne se cumulent pas s'ils proviennent de la même source (Manuel des joueurs page 208, [Combinaison d’effets magiques](./Lancer des sorts.md#COMBINAISON)). Bien que les <u>[points de vie temporaires](./points de vie temporaires.md)</u> ne soient pas un « bonus », le principe s'applique quand même.
+
+Cela empêche une créature avec [absorption d'énergie](./Absorption dénergie (capacité).md) (qui lui confère 5 points de vie temporaires à l'utilisation) de drainer un village entier de 100 habitants pour gagner 500 points de vie temporaires avant que les PJs n'arrivent pour la combattre.
+
+Les points de vie temporaires provenant de sources différentes (comme avec un sort d’*[aide](./Aide.md)*, une utilisation d'absorption d'énergie, et un sort de *[baiser du vampire](./Baiser du vampire.md)*) se cumulent toujours entre eux.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|7}
+#### Poison : Comment est-ce que le poison se cumule avec lui-même exactement ? Quand et comment les jets de sauvegarde sont fait ? Comment déterminer le DD du prochain jet quand la cible est exposée à plus d'une dose du poison à la fois ?
+Un personnage a droit à un jet de sauvegarde contre un <u>[poison](./Poisons.md)</u> dès qu'il y est exposé (par exemple quand il est touché par une attaque qui utilise du poison). Le DD du jet de sauvegarde de ce poison est indiqué dans la description dudit poison, mais est augmenté de 2 pour chaque dose de poison qui affecte actuellement la cible (sans compter la dose contre laquelle le jet est effectué). Les poisons dont le personnage a guéri ou qui ont expiré ne comptent pas. De plus, une créature empoisonnée doit effectuer un jet de sauvegarde contre le poison une fois à son tour, mais cela peut être fait n'importe quand pendant son tour. Le jet ne peut pas être retardé en préparant ou en retardant une action. Pour plus d'informations sur les poisons et leur cumul, voir la [FAQ sur le poison](./../Ressources/Concepteur004.md).

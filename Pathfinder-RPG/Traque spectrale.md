@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Traque spectrale
+Title: Traque spectrale
+LastModified: 2023-02-14 15:14
+Categories:
+- Sort
+- Sort druide 4
+- Sort rôdeur 4
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 4, [Rôd](./Rôdeur.md) 4
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, FD](./composantes.md)
+**Portée** [personnelle](./portée.md) (voir description)
+**Cible** le personnage et un compagnon animal situé à 9 mètres ou moins
+**Durée** 1 heure/[niveau](./niveau.md) (T)
+
+Ce sort affecte le personnage et un [compagnon animal](./Druide.md#PACTEAVECLANATURE) situé à 9 mètres ou moins. Grâce à lui, le personnage et le compagnon animal gagnent la [vision dans le noir](./Capacités spéciales.md#VISIONDANSLENOIR) jusqu’à 30 mètres, la [perception des vibrations](./Perception des vibrations (capacité).md) jusqu’à 6 mètres et un bonus d’altération de 12 mètres à la vitesse de déplacement. De plus, le personnage peut suivre une piste en se déplaçant à sa vitesse de déplacement normale sans subir de malus. S’il est déjà capable de le faire à sa vitesse de déplacement normale, il gagne à la place un bonus de +4 aux tests de [Survie](./Survie.md) pour suivre une piste.
+
+La durée de ce sort prend fin immédiatement si le personnage ou le compagnon animal attaquent ou sont attaqués.

@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Montée en puissance chanceuse
+Title: Montée en puissance chanceuse [Mythique]
+LastModified: 2021-04-30 20:55
+Categories:
+- Don
+- Don mythique
+- Src Campagnes mythiques
+---
+
+{s:CMy}*Les montées en puissance du personnage défient le destin.*
+
+**Conditions.** [Forte montée en puissance](./Forte montée en puissance.md), [3ème grade mythique](./Grade.md)
+
+**Avantage.** Chaque fois que le personnage utilise son aptitude de [montée en puissance](./montée en puissance.md), il peut lancer deux fois son dé de montée en puissance et conserver le meilleur résultat. S’il dispose déjà de cette capacité, il peut lancer trois fois son dé de montée en puissance et conserver le meilleur résultat.

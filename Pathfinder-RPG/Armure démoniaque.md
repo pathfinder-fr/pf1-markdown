@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Armure démoniaque
+Title: Armure démoniaque
+LastModified: 2024-05-24 22:33
+Categories:
+- Objet mag armure
+---
+
+<div class="BD">
+{s:BDTitre|Armure démoniaque|{s:AE}}
+**Aura** [Nécromancie](./Nécromancie.md) (Mal) puissante ; **NLS** 13 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 52 260 po ; **Poids** 25 kg
+(((Description)))
+Ce *[harnois](./harnois (armure).md) +4* a été forgé de manière à ce que son porteur ait l’air d’un démon. Une lueur magique rougeâtre émane des symboles gravés sur les jointures et les plaques et des runes luisent par intermittence d’un pouvoir démoniaque. Le porteur d’une armure démoniaque possède des griffes +1 qui infligent 1d10 points de dégâts de base pour une armure de taille M ou 1d8 pour une armure de taille P (critique x2). Toute créature frappée par ces griffes subit les effets d’un sort de *[contagion](./Contagion.md)* ([Vigueur](./Vigueur.md) [DD](./DD.md) 14 annule). Les griffes sont intégrées aux gantelets et aux canons d’avant-bras de l’armure, on ne peut pas en priver le porteur de l’armure en le désarmant. Si le porteur du harnois n’est pas d’alignement Mauvais, il acquiert instantanément un [niveau négatif](./niveau négatif.md) qui persiste tant qu’il porte l’armure. Ce [niveau négatif](./niveau négatif.md) ne peut être dissipé (pas même avec un sort de *[restauration](./Restauration.md)*). Le [niveau négatif](./niveau négatif.md) disparaît dès qu’il enlève l’armure.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[contagion](./Contagion.md)* ; **Coût** 26 955 po
+</div>

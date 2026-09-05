@@ -1,0 +1,48 @@
+---
+Name: Pathfinder-RPG.Slurk
+Title: Slurk
+LastModified: 2024-05-11 19:01
+Categories:
+- Monstre
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Slurk|FP 2}
+{s:pucem|Créature magique|Souterrain|Tempéré}
+- *Source : Bestiaire 2* p.253    
+- **PX** 600
+- [Créature magique](./type Créature magique.md) de taille M, N
+- **Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0
+(((Défense)))
+- **CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
+- **pv** 17 (2d10+6)
+- **Réf** +5, **Vig** +6, **Vol** +0
+(((Attaque)))
+- **VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})
+- **Corps à corps** morsure, +4 (2d6+3)
+- **Distance** projection de mucus, +4 contact à distance
+- **Attaques spéciales** graisse ventrale, mucus dorsal
+(((Statistiques)))
+- **For** 15, **Dex** 14, **Con** 17, **Int** 3, **Sag** 10, **Cha** 10
+- **BBA** +2 ; **BMO** +4 ; **DMD** 16 (20 contre les [bousculades](./bousculade.md), la [lutte](./lutte.md), les [renversements](./renversement.md) et les [crocs-en-jambe](./croc-en-jambe.md))
+- **Dons** {s:Desambi|Étant donné le nombre de DV de cette créature, l'un de ses dons devrait être considéré comme un don supplémentaire. Cette erreur n'a pas été traitée par Paizo.}[Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du renversement](./Science du renversement.md)
+- **Compétences** [Acrobaties](./Acrobaties.md) +16, [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +6 ; **Modificateurs raciaux** +4 en [Évasion](./Évasion.md), + 10 en [Acrobaties](./Acrobaties.md)
+- **Langues** bourbiérin (incapable de parler)
+- **Particularités** posture stable
+(((Écologie)))
+- **Environnement** marais tempérés ou sous terre
+- **Organisation sociale** solitaire, couple ou pack (3–8)
+- **Trésor** aucun
+(((Pouvoirs spéciaux)))
+  - **Graisse ventrale (Ext)**. Le ventre des slurks sécrète une graisse glissante qui leur donne un bonus de +4 aux tests d’Évasion et au DMD contre la lutte. Une fois par minute, un slurk peut utiliser une action complexe pour se frotter contre une surface solide et ainsi recouvrir le sol de graisse sur un rayon de 1,50 mètres. Cela transforme la zone en question en terrain difficile pour 10 minutes. Passé ce délai, la graisse se solidifie en une croûte répugnante.
+  - **Mucus dorsal (Ext)**. Le dos des slurks est recouvert d’une épaisse couche de mucus séché et de dizaines de nodules. Par une action simple, un slurk peut projeter un jet de mucus à partir de l’un de ces nodules. Cela prend la forme d’une attaque de contact à distance pouvant cibler un adversaire situé à 9 mètres (6 {s:c}) ou moins. Le mucus se solidifie rapidement jusqu’à obtenir la texture du goudron refroidi et inflige à la cible l'état enchevêtré. Tous les individus que le slurk parvient à bousculer ou à renverser (en effectuant une manœuvre de combat) sont  automatiquement aspergés de mucus dorsal. On peut enlever le mucus solidifié en y consacrant une action complexe et en réussissant un test de Force contre un DD de 15. Le mucus dorsal du slurk donne aux créatures qui le montent un bonus de +8 aux tests d’Équitation pour rester en selle et un malus de –8 aux tests d’Équitation pour descendre de selle.
+  - **Posture stable (Ext)**. Les slurks gagnent un bonus de +4 au DMD pour résister aux tentatives de bousculade et de renversement.
+
+</div>
+<td><div>*Cette créature dégoûtante ressemble à un crapaud recouvert de mucus dont deux défenses de morse jaillissent de la mâchoire supérieure.*
+
+Les slurks sont les descendants de créatures qui ont été produites au cours d’une expérience naine ayant tenté, sans succès, de domestiquer et d’élever des crapauds souterrains comme bétail et animaux de bât. Le résultat n’a pas convenu aux nains mais d’autres races souterraines, elles, n’hésitent pas à s’allier avec ces crapauds monstrueux et collants.
+Les slurks sont carnivores et armés d’une attaque de morsure qui doit sa dangerosité à deux impressionnantes défenses. Cependant, leur véritable force réside dans leurs sécrétions bizarres et malodorantes. Le mucus produit par leurs dos est incroyablement collant et se solidifie rapidement en une résine résistante. Les slurks tirent parti de cette caractéristique en projetant cette substance vers les intrus puis en attendant qu’elle durcisse avant de s’approcher d’eux et de leur porter le coup fatal. D’autre part, le liquide sécrété par les glandes situées sur l’estomac des slurks est, lui, incroyablement glissant. Cela leur permet d’éviter de rester immobilisés à cause de leur propre mucus dorsal et de mener la vie dure à tous ceux qui voudraient tenter de les agripper contre leur volonté. Ces caractéristiques, combinées à la capacité naturelle des slurks à grimper aux murs et à pouvoir s’accrocher facilement aux plafonds, rendent ces créatures nauséabondes extrêmement désirables pour les kobolds, qui les domestiquent et les entraînent, pour en faire des montures ou des gardiens.
+</div></td></tr></table>

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Sablier (objet)
+Title: Sablier
+LastModified: 2021-09-16 22:36
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10 po (6 secondes), 20 po (1 minute), 25 po (1 heure) ; **Poids** — (6 secondes), 0,25 kg (1 minute), 0,5 kg (1 heure)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce sablier standard met une heure à transférer le sable de la chambre supérieure à la chambre inférieure. Il existe également des sabliers plus petits qui marquent le temps avec plus de précision, sur 1 minute ou 6 secondes. Les sabliers supérieurs à 1 heure sont rares.

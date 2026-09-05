@@ -1,0 +1,88 @@
+---
+Name: Pathfinder-RPG.Habitant de Leng
+Title: Habitant de Leng
+LastModified: 2023-08-19 21:57
+Categories:
+- Monstre
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Habitant de Leng|FP 8}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|<i>Source : Bestiaire 2 p.162</i>}
+{s:BDTexte|<b>PX</b> 4800}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md)) de taille M, CM}
+{s:BDTexte|<b>Init</b> +4 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|<b>CA</b> 21, contact 15, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +6)}
+{s:BDTexte|<b>pv</b> 95 (10d10+40), guérison accélérée planaire 5}
+{s:BDTexte|<b>Réf</b> +11, <b>Vig</b> +11, <b>Vol</b> +6}
+{s:BDTexte|<b>Capacités défensives</b> anatomie bizarre, ne respire pas ;}
+{s:BDTexte|<b>Immunités</b> poison ; <b>Résistance</b> électricité 30, froid 30 ; <b>RM</b> 19}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|<b>VD</b> 12 m (8 {s:c})}
+{s:BDTexte|<b>Corps à corps</b> morsure +14 (1d6+2 plus diminution permanente 1d6 Dextérité)}
+{s:BDTexte| et 2 griffes +14 (1d4+2)}
+{s:BDTexte|<b>Attaques spéciales</b> attaque sournoise +5d6}
+{s:BDTexte|<b>Pouvoirs magiques</b> (NLS 10 ; concentration +15)}
+{s:BDSorts|Constant — <i>[don des langues](./Don des langues.md)</i>}
+{s:BDSorts|3/jour— <i>[Détection de pensées](./Détection de pensées.md) (DD17), [Image imparfaite](./Image imparfaite.md) (DD17), [Lévitation](./Lévitation.md), [Lueurs Hypnotiques](./Lueurs hypnotiques.md) (DD17)</i>}
+{s:BDSorts|1/jour— <i>[Changement de plan](./Changement de plan.md) (DD20, personnel uniquement), [Localisation d'objets](./Localisation dobjet.md), </i>}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|<b>For</b> 14, <b>Dex</b> 18, <b>Con</b> 19, <b>Int</b> 18, <b>Sag</b> 17, <b>Cha</b> 21}
+{s:BDTexte|<b>BBA</b> +10, <b>BMO</b> +12, <b>DMD</b> 27}
+{s:BDTexte|<b>Dons</b>[Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md), [Persuasion](./Persuasion.md), [Souplesse du serpent](./Souplesse du serpent.md)}
+{s:BDTexte|<b>Compétences</b> [Art de la magie](./Art de la magie.md) +12, [Bluff](./Bluff.md) +22, [Connaissances (un au choix)](./Connaissances.md)  +17, [Déguisement](./Déguisement.md) +12 (+16 en tant qu'humanoïde), [Diplomatie](./Diplomatie.md) +7, [Discrétion](./Discrétion.md) +17, [Escamotage](./Escamotage.md) +17 , [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +16, [Profession (marin)](./Profession.md) +8 ,[Psychologie](./Psychologie.md) +16 ,[Sabotage](./Sabotage.md)  +14, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +18 ; <b>Modificateurs raciaux</b> +4 en [Déguisement](./Déguisement.md) pour se déguiser en humanoïde de taille M}
+{s:BDTexte|<b>Langues</b> aklo, [don des langues](./Don des langues.md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|<b>Environnement</b> terre ferme}
+{s:BDTexte|<b>Organisation sociale</b> solitaire, bande (2-5) ou équipage (6-15)}
+{s:BDTexte|<b>Trésor</b> double (de 500 à 2000 po en rubis, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|<b>Absorption de Dextérité (Sur)</b> Les dents et la langue d’un habitant de Leng infligent une diminution permanente de 1d6 points de Dextérité en cas de morsure. Les créatures artificielles, les élémentaires et les créatures qui ne possèdent pas de chair sont immunisés contre cet effet. Un jet de Vigueur réussi contre un DD de 19 réduit la diminution permanente à 1 seul point. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|<b>Anatomie bizarre (ext).</b> L’anatomie interne des habitants de Leng varie d’un spécimen à l’autre. Chaque coup critique ou attaque sournoise infligé à un habitant de Leng a 50% de chances de ne rien faire de plus qu’un coup normal.}
+{s:BDTexte|<b>Guérison accélérée planaire (Sur)</b>. Les habitants de Leng restent connectés à Leng à tout moment et, lorsqu’ils s’en éloignent, ils gagnent la capacité de guérison accélérée 5. Ils perdent toutefois cette capacité sur Leng et dans les zones où les connections interplanaires ne fonctionnent pas. Si un habitant de Leng est tué, son corps se
+dissout complètement en 1d4 rounds, ne laissant que son équipement derrière lui et l’habitant tué se reforme sur Leng (comme une créature invoquée tuée). Sa mort est cependant permanente si sa capacité de guérison accélérée est supprimée à ce moment-là.}
+
+</td><td><div>*Plus on observe les tics qui animent le visage de cet étrange humanoïde vêtu de guenilles en cuir et plus il semble bizarre et horrible.*
+
+Ces  sinistres  habitants  sillonnent  l’univers  depuis  leur
+étrange  nation  d’origine,  Leng,  et  se  fondent  dans  la  masse  en
+se  déguisant  en  humains,  en  s’affublant  d’amples  robes  et  en
+enroulant des turbans autour de leur tête et de leur visage.
+Ces déguisements cachent les cornes qui ornent leur front,
+les griffes au bout de leurs doigts, les tentacules qui s’agitent
+dans  leur  bouche  et  les  pattes  de  bouc  incurvées  et
+garnies de sabots fendus qui leur servent de jambes.
+Les érudits ont des avis bien différents au
+sujet  de  l’emplacement  de  Leng.  Certains
+pensent que Leng se trouve quelque part
+dans  les  plans  Extérieurs  alors  que
+d’autres  sont  convaincus  qu’on  ne  peut  y
+arriver qu’en passant par la dimension des
+rêves.  Les  habitants  de  Leng  peuvent
+voyager  librement  vers  d’autres
+plans  et  le  font  régulièrement  à
+bord  d’étranges  navires  noirs.
+Ils  recherchent  sans  cesse  de
+nouvelles  espèces  d’esclaves
+et  échangent  des  rubis  contre
+des  services  sortant  de  l’ordinaire
+ou  des  trésors  magiques.  Parfois,
+leurs  visites  sont  bien  plus
+violentes  et  leur  objectif  est
+de  kidnapper  des  victimes
+qui  seront  ensuite  utilisées
+comme  esclaves…  ou  pire.
+Sur  Leng,  les  habitants
+mènent  depuis  longtemps
+la  guerre  aux  araignées
+monstrueuses  locales,  une
+guerre qui déborde parfois
+dans les autres mondes.
+Un  habitant  de  Leng
+pèse  100  kg  et  mesure
+quelque 1,65 m de hauteur.
+</div></td></tr></table>

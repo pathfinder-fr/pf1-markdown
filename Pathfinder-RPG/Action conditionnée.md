@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Action conditionnée
+Title: Action conditionnée
+LastModified: 2024-10-02 15:59
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 3
+- Sort magicien 3
+- Sort psychiste 3
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:mca}**École** [évocation](./Évocation.md) ; **Niveau** [Bard](./Barde.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3  
+
+**Temps d’incantation** 1 minute  
+
+**Composantes** [V, G](./composantes.md)   
+
+**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))   
+
+**Cible** une créature volontaire  
+
+**Durée** 1 minute/niveau (T) ou jusqu’à déchargement  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+
+La cible gagne une action supplémentaire qu’elle peut effectuer quand une condition dictée par le personnage a été remplie. Le personnage dicte cette condition au moment du lancement et la cible précise quelle action préparée se déroule quand cette condition est remplie.   
+
+La condition nécessaire au déclenchement de l’action préparée doit être claire, même si elle peut être d’ordre général. Si elle est compliquée ou alambiquée, l’ensemble de la combinaison risque d’échouer au moment du déclenchement. Imaginons, par exemple, que le déclencheur et l’action soient établis comme suit : « si la cible se fait attaquer alors qu’elle n’a pas d’arme en main, celle-ci dégaine alors une arme. » Si la cible n’a pas d’arme à dégainer au moment où survient le déclencheur, l’action échoue. Si le déclencheur et l’action sont fixés comme suit : « si un allié dans un rayon de 6 mètres tombe [inconscient](./Inconscient.md), la cible se déplace jusqu’à un espace adjacent à cet allié, » mais que la cible est enchaînée à un mur quand survient le déclencheur, et ne peut donc pas atteindre l’allié inconscient, l’action échoue.   
+
+L’action préparée doit être une [action simple](./Action simple.md), une [action de mouvement](./Action de mouvement.md) ou une [action rapide](./Action rapide.md) : elle ne peut pas servir à lancer un sort ou à utiliser un pouvoir surnaturel. Cette action compte comme une action préparée et n’est donc pas décomptée du nombre d’actions que la créature peut entreprendre en un round. Quand la condition se produit, la cible peut décider de ne pas utiliser son action préparée. Une fois la condition activée, le sort est déchargé, que la cible utilise ou non l’action préparée ou que son action soit réussie ou non.   
+
+Ce sort compte comme un sort de *[prévoyance](./Prévoyance.md)* quand il s’agit de lancer en même temps plusieurs effets de prévoyance sur une créature.

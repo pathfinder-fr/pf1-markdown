@@ -1,0 +1,10 @@
+---
+Name: Golarion.Bois Anferita
+Title: Bois d'Anferita
+LastModified: 2010-01-13 21:07
+Categories:
+- Chéliax
+- Géographie
+---
+
+Grande forêt du sud-ouest du [Chéliax](./Chéliax.md), les Bois d'Anferita recouvrent la presque totalité de la péninsule de Corentyn.

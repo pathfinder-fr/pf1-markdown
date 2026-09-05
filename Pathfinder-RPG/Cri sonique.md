@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Cri sonique
+Title: Cri sonique
+LastModified: 2022-06-12 02:38
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 2
+- Sort magicien 2
+- Sort magus 2
+- Sort psychiste 2
+- Sort sanguin 2
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [évocation](./Évocation.md) <nowiki>[</nowiki>son<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** 4,5 m (3 {s:c})
+**Zone** explosion en cône
+**Durée** 1 round/niveau ou jusqu’à déchargement (cf. texte)
+**Jet de sauvegarde** [Réflexes](./Réflexes.md), 1/2 dégâts (cf. texte) ; **Résistance à la magie** oui
+
+Jusqu’à trois fois pendant la durée de ce sort, le personnage peut émettre un cône de son puissant par une [action simple](./Action simple.md). Le premier cône inflige 4d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le deuxième inflige 2d4 points de dégâts de son à toutes les créatures présentes dans la zone. Le troisième inflige 1d4 points de dégâts de son à toutes les créatures présentes dans la zone.
+
+Un jet de [Réflexes](./Réflexes.md) réussi contre un cône permet de réduire de moitié les dégâts de ce cône. Après le troisième cône de son, le sort se termine.
+
+Jusqu’à ce qu’il ait utilisé les trois cônes, le personnage ne peut pas se servir de sa voix à des fins magiques (représentation bardique, incantation verbale, etc.) et il est incapable de parler à un volume inférieur à celui d’un cri.

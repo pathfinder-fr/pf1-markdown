@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Nuée de vescavores
+Title: Nuée de vescavores
+LastModified: 2024-06-26 12:56
+Categories:
+- Monstre
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de vescavores|FP 5}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|*Source : Les royaumes perdus p.50, La colère des justes p.88*}
+{s:BDTexte|**PX** 1 600 px}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([Extraplanaire](./sous-type extraplanaire.md), [Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [nuée](./sous-type nuée.md)) de taille Min, CM}
+{s:BDTexte|**Init** +3; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 c) ; [Perception](./Perception.md) +9}
+{s:BDTexte|**Aura** bourdonnement (4,50 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 17, pris au dépourvu 16 (Dex +3, naturelle +2, taille +4)}
+{s:BDTexte|**pv** 47 (5d10+20)}
+{s:BDTexte|**Réf** +9, **Vig** +7, **Vol** +2}
+{s:BDTexte|**Immunité** dégâts d'arme, poison, [traits des nuées](./traits des nuées.md)}
+{s:BDTexte|**Résistance** feu 10, électricité 10}
+{s:BDTexte|**RM** 16}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, vol 12 m (8 c, bonne)}
+{s:BDTexte|**Corps à corps** nuée (2d6 plus distraction)}
+{s:BDTexte|**Espace occupé** 3 m (2 c) ; **Allonge** 0 m}
+{s:BDTexte|**Attaques spéciales** [distraction](./Distraction (capacité).md) (DD 15), vorace, traumatisant}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 7, **Dex** 17, **Con** 16, **Int** 4, **Sag** 13, **Cha** 12}
+{s:BDTexte|**BBA** +5, **BMO** -, **DMD** -}
+{s:BDTexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +23, [Perception](./Perception.md) +9, [Vol](./Vol.md) +21}
+{s:BDTexte|**Langue** abyssal}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous (Abysses)}
+{s:BDTexte|**Organisation sociale** solitaire, couple, fléau (3-12) ou apocalypse (16-30)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Bourdonnement (Sur).** Une créature sur le même emplacement qu'une nuée de vescavore ou à 4,50 mètres ou moins doit réussir un jet de volonté DD 15 pour ne pas être [confuse](./États préjudiciables.md#confus) pendant 1 round. C'est un effet mental de coercition et d'aliénation mentale. Une créature qui réussit son jet de sauvegarde ne peut pas être affectée par le bourdonnement de cette nuée de vescavores pendant les prochaines 24 heures. Le DD du jet de sauvegarde est basé sur la constitution.}
+{s:BDTexte|**Traumatisant (Sur).** Une créature qui passe plus de 3 rounds dans le même espace qu'une nuée de vescavores doit réussir un jet de Volonté (DD 13) pour ne pas contracter un type de [maladie mentale](./Santé mentale.md) aléatoirement. le DD du jet est basé sur le Charisme.}
+{s:BDTexte|**Vorace (Ext).** Si une nuée de vescavore attaque un objet ou une structure, elle ignore jusqu'à 19 points de solidité (une solidité de 20 ou plus s'applique en totalité). Chaque round pendant lequel une créature occupe le même espace que la nuée, les vescavores commencent à dévorer l'un des objets qu'elle porte. L'objet subit un montant de dégâts égal à la moitié de son total de points de vie et acquiert l'état préjudiciable [brisé](./États préjudiciables.md#Brisé). Si les vescavores attaquent un objet déjà brisé, celui ci est détruit. un objet porté ou magique peut effectuer un jet de réflexes (DD 15) pour tenter d'annuler cet effet. Le DD du jet de sauvegarde est basé sur la Constitution.}
+</div>
+</td><td><div>
+*Cette masse composée de vermines abyssales ressemble à un nuages de vapeurs vertes pâles, crasseuses et bouillonnantes.*
+
+Les vescavores entourent leur proies pour les empêcher de fuir tout en entonnant le chant des Abysses qui plongent les intrus dans la démence grâce à leur pourvoir traumatisant et d'aura de bourdonnement. Lorsqu'ils ses ruent sur leur adversaires, les vescavores dévorent également les armes et les armures pour affaiblir encore d'avantage ceux qui osent s'aventurer dans le nid.
+
+Voir aussi : [Reine vescavore](./Reine vescavore.md)
+
+</div></td></tr></table>

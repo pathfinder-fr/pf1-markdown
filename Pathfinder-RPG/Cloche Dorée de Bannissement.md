@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Cloche Dorée de Bannissement
+Title: Cloche dorée de bannissement
+LastModified: 2024-06-15 23:40
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cloche dorée de bannissement|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 20.000 po ; **Poids** 5 kg
+(((Description)))
+Cette cloche au lustre doré produit un son grave et retentissant qui résonne en parfaite harmonie avec le Plan matériel et provoque des effets néfastes chez les créatures extraplanaires. Les vibrations de la cloche réduisent de 5 points la [réduction des dégâts](./RD.md) et la [résistance à la magie](./Résistance à la magie (capacité).md) de toutes les créatures extraplanaires situées à 9 mètres ou moins (par exemple, une [RD](./RD.md) 10/magie est réduite à 5/magie). La cloche n’est pas accompagnée d’un maillet, son possesseur doit donc la frapper avec une attaque à mains nues (qui compte comme une attaque qui n’inflige aucun dégât et ne nécessite aucun jet). La cloche carillonne pendant 1d6 [rounds](./round.md). On peut étouffer le son avant la fin de cette durée par une [action simple](./Action simple.md). La cloche peut sonner jusqu’à 10 fois par jour.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[bannissement](./Bannissement.md)* ; **Coût** 10.000 po
+</div>

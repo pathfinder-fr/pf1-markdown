@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Fléau du devin
+Title: Fléau du devin
+LastModified: 2024-05-24 22:33
+Categories:
+- Objet mag
+- Objet mag armure
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Fléau du devin|{s:UI}}
+**Aura** [Illusion](./Illusion.md) puissante ; **NLS** 13 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 31 160 po ; **Poids** 7,5 kg
+(((Description)))
+{s:cs}En dehors de sa superbe facture, cette *[armure de cuir](./armure de cuir (armure).md) +4* n'a pas grand-chose qui la distingue des autres armures. Une fois par semaine, lorsqu'une créature vivante porte une armure *fléau du devin*, son porteur peut réciter un mot de commande et passer 1 minute à se concentrer pour que l'armure imite une créature avec laquelle il est familier. La créature imitée doit être d'au maximum une catégorie de taille différente du porteur. L'imitation d'une créature n'a aucun effet visible sur l'armure ou le porteur, mais déjoue les divinations magiques.
+
+Les sorts comme *[scrutation](./scrutation.md)* destinés à observer la créature imitée ciblent le porteur à la place, qui apparaît au scrutateur comme la créature imitée ; la créature imitée a toujours droit d'effectuer tout [jet de sauvegarde](./JDS.md) nécessaire ou d'appliquer sa [résistance à la magie](./RM.md), mais si le sort réussit, le *fléau du devin* redirige tout capteur de scrutation vers son porteur. Les moyens magiques visant à détecter l'emplacement d'une créature considèrent toujours celui du porteur comme l'emplacement réel de la créature imitée, et seuls les sorts de 8e niveau ou plus comme *[localisation suprême](./Localisation suprême.md)* ou *[œil indiscret suprême](./Œil indiscret suprême.md)* peuvent ignorer cet effet. Les sorts tels que *[détection des mensonges](./détection des mensonges.md)* ou *[zone de vérité](./Zone de vérité.md)* réagissent comme si le porteur était la cible imitée et non lui-même, mais uniquement dans le but d'indiquer son identité. Le *fléau du devin* n'affecterait pas, par exemple, une question sur le nom de la mère du porteur.
+
+L'imitation persiste jusqu'à ce que le porteur choisisse une créature différente à imiter ou consacre 1 minute de concentration pour y mettre fin. L'armure reprend sa forme normale lorsqu'elle est retirée, mais la cible de son effet d'imitation reste fixée - lorsqu'un personnage enfile l'armure (que le personnage qui l'enfile soit le dernier porteur ou une personne différente), l'armure recommence immédiatement à imiter la créature qui a été choisie.
+(((Création)))
+**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[détection faussée](./Détection faussée.md)*, *[projection d'image](./Projection dimage.md)* ; **Coût** 15 660 po
+</div>

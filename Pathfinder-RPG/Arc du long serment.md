@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Arc du long serment
+Title: Arc du long serment
+LastModified: 2024-05-21 18:49
+Categories:
+- Objet mag arme
+---
+
+<div class="BD">
+{s:BDTitre|Arc du long serment|{s:AE}}
+**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 25 600 po ; **Poids** 1,5 kg
+(((Description)))
+Cet *[arc long composite](./arc long composite (arme).md) +2* (bonus de [Force](./Force.md) de +2) en bois blanc a été taillé par les [elfes](./Elfe.md). Il murmure « Mes ennemis connaîtront une mort rapide » en elfique dès qu’on le bande. Si le personnage jure à haute voix de tuer sa cible (par une [action libre](./Action libre.md)), l’arc crie en réponse : « Mort à ceux qui m’ont causé du tort ! ». Contre un tel ennemi, l’arc acquiert un bonus d’altération de +5 et ses flèches infligent +2d6 points de dégâts supplémentaires (tandis que leur facteur de critique passe de x3 à x4). Cependant, une fois que le personnage a fait ce serment, l’arc redevient un simple arc [de maître](./arme de maître.md) contre tous les adversaires autres que son ennemi choisi. De plus, le personnage subit un malus de -1 aux [jets d’attaque](./jet dattaque.md) qu’il effectue avec une arme autre que l’arc du long serment. Ces désavantages durent pendant une semaine ou jusqu’à ce que le porteur de l’arc ait tué ou détruit l’ennemi choisi.
+L’arc du long serment ne peut avoir qu’un ennemi choisi à la fois. Une fois que le porteur s’est choisi un ennemi, il ne peut en choisir d’autres tant qu’il n’a pas tué le premier ou que les sept jours ne se sont pas écoulés. Ce pouvoir s’utilise une fois par jour, même si l’ennemi choisi a été tué.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), le créateur doit être [elfe](./Elfe.md) ; **Coût** 13 100 po
+</div>

@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.coups puissants (capacité)
+Title: Coups puissants (Ext)
+LastModified: 2020-11-07 17:32
+Categories:
+- Règle de monstres universelle
+---
+
+L’attaque concernée ajoute 1,5 fois le bonus de [Force](./Force.md) de la créature au lieu de son bonus normal ou de la moitié de son bonus.
+
+*Format :* coups puissants (coup). *Emplacement :* Particularités.

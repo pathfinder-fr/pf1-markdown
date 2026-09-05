@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Armure de la montagne (armure)
+Title: Armure de la montagne
+LastModified: 2023-04-09 19:40
+Categories:
+- Armure
+- Src Armes et équipement
+- Src Art de la guerre
+---
+
+{s:AE}{s:UC}**Prix** 250 po ; **Poids** 20 kg
+**Bonus d'armure** +6 ; **Bonus de Dex maximal** +3 ; **Malus d'armure** -4
+**Risque d'échec des sorts profanes** 30% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
+<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES) ([orientale](./Armes orientales.md))</span>
+---
+Cette armure intermédiaire se compose de centaines de petites pièces d’acier entrecroisées disposées de manière à former l’ancien symbole du terme « montagne ». Les mailles sont ensuite rivées à une armature en tissu ou en cuir. L’armure se porte comme une [cotte de mailles](./cotte de mailles (armure).md) et couvre le torse, les épaules et les cuisses.

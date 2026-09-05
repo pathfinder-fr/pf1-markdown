@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Tempête volcanique
+Title: Tempête volcanique
+LastModified: 2022-07-05 21:10
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 4
+- Sort magicien 4
+- Sort sanguin 4
+- Sort sorcière 4
+- Src Art de la magie
+---
+
+{s:UM}
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M/FD](./composantes.md) (de l'obsidienne et des cendres)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Zone** cylindre (6 m (4 {s:c}) de rayon, 12 m (8 {s:c}) de haut)  
+
+**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** non ; **Résistance à la magie** oui
+
+Ce sort fait pleuvoir des morceaux de roche volcanique brûlante et des paquets de cendres qui infligent 3d6 points de dégâts contondants et 2d6 points de dégâts de feu à toutes les créatures de la zone. Ces dégâts ne s’appliquent qu’une fois, lorsque le personnage lance le sort. Pour le reste de la durée du sort, une épaisse pluie de cendres s’abat sur la zone. Les créatures subissent un malus de -4 aux tests de [Perception](./Perception.md) et toute la zone est transformée en [terrain difficile](./terrain difficile.md). À la fin du sort, les rochers et les cendres disparaissent et ne laissent pas d’effets permanents (en dehors des dégâts infligés).

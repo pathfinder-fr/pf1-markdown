@@ -1,0 +1,213 @@
+---
+Name: Pathfinder-RPG.Aasimar (race)
+Title: Les aasimars
+LastModified: 2025-12-08 15:54
+Categories:
+- Race
+- Src Manuel des races
+---
+
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Aasimar.md) d'un aasimar standard.***
+
+Les aasimars sont des humains ayant du sang de céleste ou d’autres extérieurs Bons dans leur lignée. S’ils ne sont pas toujours bienveillants, les aasimars sont plus enclins aux actes de bonté qu’à faire le mal, et ils gravitent autour des cultes ou des organisations associés aux célestes. Il arrive que l’héritage des aasimars dorme pendant des générations pour se réveiller soudainement à travers l’enfant de deux parents apparemment humains. La plupart des sociétés interprètent les naissances aasimars comme de bons présages, mais il faut savoir que certains tirent profit de la réputation de leur race et piétinent sauvagement les attentes des autres en commettant des actes d’une terrifiante cruauté ou d’une abjecte vénalité. « C’est toujours celui auquel on s’attend le moins » définit l’axiome auquel se conforment ces aasimars maléfiques, qui mènent souvent une double vie en tant que citoyens modèles ou faux héros et dissimulent soigneusement leur corruption. Heureusement, ces quelques aasimars sont l’exception, pas la règle.
+
+**Description physique.** Les aasimars ont une apparence essentiellement humaine, à l’exception de quelques caractéristiques physiques mineures qui trahissent leur héritage particulier. L’aasimar typique a des cheveux brillants comme le métal, des yeux semblables à des joyaux, une peau de couleur chatoyante, voire même un halo doré, étincelant.
+
+**Société.** On ne peut pas vraiment dire des aasimars qu’ils ont une société indépendante bien à eux. En tant que rejetons de l’humanité, ils adoptent les normes sociales qui les entourent, bien que la plupart d’entre eux soient attirés par les organisations qui oeuvrent à la réparation des injustices et à l’apaisement des souffrances. Cet aspect les place parfois du mauvais côté de la loi dans les sociétés les plus tyranniques, mais les aasimars peuvent se montrer prudents et rusés lorsqu’il le faut : ils sont capables de se déguiser pour se cacher et détourner l’attention des oppresseurs. Si les aasimars corrompus peuvent être solitaires ou établir des sociétés secrètes dissimulant leur implication dans le monde du crime, les plus vertueux se réunissent souvent en grand nombre au sein d’organisations d’alignement Bon, tout particulièrement (mais pas toujours) en églises et en ordres religieux.
+
+**Relations.** On trouve surtout les aasimars dans les communautés humaines, où ils se sentent le plus à l’aise. C’est particulièrement vrai pour ceux dont l’ascendance est plus éloignée et qui ne portent que de faibles marques de l’essence de leurs ancêtres célestes. On ignore la raison pour laquelle la marque des célestes est beaucoup plus fortement ressentie par l’humanité que par les autres races, mais il se pourrait que la faculté d’adaptation et les affinités innées de l’humanité avec le changement soient responsables de l’évolution des aasimars en une race distincte. Peut-être que les traits endémiques des autres races sont trop profondément ancrés, trop fortement présents et trop résistants pour changer. Quels que soient les batifolages auxquels les autres races se sont livrées avec les habitants des plans supérieurs, Aasimars la progéniture de ces unions est exceptionnellement rare et n’a jamais engendré d’enfants aasimars.
+
+Néanmoins, même s’ils se tournent généralement vers les civilisations humaines, les aasimars peuvent s’adapter à pratiquement n’importe quel environnement. Ils sont à l’aise en société et ont un charme désarmant. Ils s’entendent bien avec les demi-elfes avec lesquels ils partagent un statut similaire de marginal pas tout à fait humain, mais ils entretiennent souvent des relations moins cordiales avec les demi-orques, qui n’ont aucune patience avec l’excessive beauté physique et verbale des aasimars. Les courtisans elfes rejettent parfois les aasimars, les considérant comme pas assez sophistiqués, et critiquent leur tendance à recourir à leur charme naturel pour réparer leurs impairs. De toutes les races connues, les gnomes trouvent les aasimars comme étant peut-être les plus fascinants et apprécient énormément la diversité de leur apparence ainsi que l’aspect mystique entourant leur héritage céleste.
+
+**Alignement et religion.** Les aasimars sont le plus souvent d’alignement Bon, mais ce n’est pas forcément une règle universelle et ceux qui ont tourné le dos à ces valeurs peuvent tomber dans un abysse indicible de dépravation. Néanmoins, les aasimars privilégient, pour la plupart, les divinités de l’honneur, du courage, de la protection, de la guérison et du refuge, ou des religions simples et prosaïques liées au foyer, à la communauté et à la famille. Certains suivent également la voie des arts, de la musique et du savoir, et trouvent la vérité et la sagesse dans la beauté et l’étude.
+
+**Aventuriers.** Les aasimars deviennent souvent des aventuriers, car ils ne se sentent pas souvent chez eux dans la société humaine et ils ont l’impression qu’une plus grande destinée les attend. Les prêtres, les oracles et les paladins sont nombreux parmi eux, mais il n’est pas rare de trouver des bardes, des ensorceleurs et des invocateurs parmi ceux qui se passionnent pour la magie profane. Les barbares aasimars sont rares, mais ceux qui naissent dans ce genre de tribus finissent souvent par en prendre la tête et encouragent leur clan à embrasser les totems célestes.
+
+**Noms masculins.** Aritian, Beltin, Cernan, Cronwier, Éran, Ilamin, Maudril, Okrin, Parant, Tural, Wyran, Zaigan.
+**Noms féminins.** Arken, Arsinoé, Davina, Drinma, Imésah, Masozi, Nijéna, Niramour, Ondréa, Rhialla, Valtyra.
+
+#### Les aasimars non-humains
+{s:cs}<div class="description">**Source :** Blood of Angels (BoA).  </div>
+Tous les aasimars ne descendent pas des humains. Un aasimar peut naître de n'importe quelle race intelligente, bien que les aasimars humains soient les plus courants. Les aasimars des autres races incarnent généralement les idéaux de beauté et d'habileté de leur race d'origine. Par exemple, les aasimars [halfelins](./Halfelin.md) sont petit, magnifiquement proportionnés et font preuve d'une grâce exceptionnelle. Les aasimars [demi-orques](./Demi-orque.md) sont légèrement plus grands et plus forts que les orcs ordinaires, avec une peau dure et des griffes et défenses métalliques. Ils sont généralement neutres plutôt que mauvais, mais font tout de même preuve d'agressivité et d'incroyables prouesses au combat. Les humanoïdes moins courants, tels que les hommes-lézards, les hommes-félins, les tengus et autres, peuvent également donner naissance à des aasimars, même si, compte tenu de l'aspect exotique de ces races, les membres des races plus courantes peuvent avoir du mal à distinguer ces aasimars de leurs congénères.
+
+
+Il convient de noter que si toute créature se reproduisant avec un céleste peut donner naissance à un demi-céleste, seuls les humanoïdes peuvent donner naissance à des aasimars. Ainsi, s'il est possible de rencontrer un dragon, une licorne ou un griffon à moitié céleste, les enfants de ces créatures seront soit des demi-célestes, soit des membres normaux de leur race. (Lorsque l'on parle de demi-célestes et d'aasimars, il est important de les distinguer à la fois des véritables célestes (anges, azatas, agathions, etc.) et des simples créatures célestes (créatures ayant l'archétype de créature [céleste](./Archétypes.md#CREATURECELESTE), qui sont elles-mêmes des habitants des plans Extérieurs d'alignement bon, mais qui ressemblent à bien des égards à leurs homologues du plan Matériel). La plupart des aasimars ont également du mal à faire comprendre aux gens les distinctions entre les types de créatures célestes, les gens ordinaires regroupant à tort tous ces êtres sous le nom d'« anges ».
+
+Les aasimars non-humains ont les mêmes statistiques que les aasimars humains, à l'exception de la taille. Ainsi, un aasimar halfelin est de [taille P](./taille P.md) mais possède les mêmes statistiques et capacités qu'un aasimar humain - la différence est purement cosmétique. Les aasimars non-humains ne possèdent aucun des traits raciaux de leur race de base. Cependant, ils sont généralement élevés dans le même contexte culturel que les autres membres de leur race de base, et adoptent donc généralement le même style de combat que leurs pairs, utilisent les mêmes types d'armes et d'armures, et étudient les mêmes compétences.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 en [Sagesse](./Sagesse.md), +2 en [Charisme](./Charisme.md).** Les aasimars sont perspicaces, confiants et charmants.
+- **Extérieur natif.** Les aasimars sont des [extérieurs](./type Extérieur.md) de sous-type [natif](./sous-type natif.md).
+- **Taille M.** Les aasimars sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Vitesse normale.** Les aasimars ont une [vitesse de base](./VD.md) de 9 mètres.
+- **Vision dans le noir.** Les aasimars [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
+- **Compétent.** Les aasimars ont un bonus racial de +2 à leurs tests de [Diplomatie](./Diplomatie.md) et de [Perception](./Perception.md).
+- **Pouvoir magique.** Les aasimars peuvent utiliser *[lumière du jour](./Lumière du jour.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour (niveau de lanceur de sorts égal au niveau de personnage de l’aasimar).
+- **Résistance céleste.** Les aasimars ont une [résistance](./Résistance (capacité).md) à l’acide de 5, au froid de 5 et à l’électricité de 5.
+- **Langues supplémentaires.** Les aasimars commencent le jeu en parlant le commun et le céleste. Ceux qui ont un haut score d’[Intelligence](./Intelligence.md) peuvent apprendre d’autres langues parmi celles-ci : draconique, elfique, gnome, halfelin, nain et sylvestre.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+Vous pouvez choisir les traits raciaux suivants à la place des traits raciaux aasimars standard, mais consultez d’abord votre MJ.
+
+<u>*Remplace « compétent » :*</u>
+- **Messager de la vérité.** Il existe certains aasimars dont la langue transcende les frontières. Ils bénéficient d’un bonus de +2 à leurs tests de [Linguistique](./Linguistique.md) et de [Psychologie](./Psychologie.md), et apprennent deux langues chaque fois qu’ils investissent un rang dans la compétence [Linguistique](./Linguistique.md). Ce trait racial remplace compétent.
+
+<u>*Remplace « compétent » et « pouvoir magique » :*</u>
+- **Étincelle immortelle.** Les aasimars ayant ce trait racial défient les pouvoirs de mort. Ils gagnent un bonus de +2 à leurs tests de [Connaissances](./Connaissances.md) (histoire) et à leurs [jets de sauvegarde](./JDS.md) contre les effets de mort, et peuvent utiliser *[résistance à l’âge mineure](./Résistance à lâge mineure.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour. Ce trait racial remplace ceux de compétent et de pouvoir magique.
+- {s:cs}{s:ISR}**Magie des croisades.** De nombreux aasimars considèrent comme un devoir de s'entraîner à défendre le monde contre les fiélons tels que ceux qui envahissent la Plaie du monde. Ces aasimars bénéficient d'un bonus racial de +2 aux tests de [niveau de lanceur de sorts](./NLS.md) pour vaincre la [résistance à la magie](./RM.md) ainsi qu'aux tests de [Connaissances](./Connaissances.md) (plans). Ce trait racial remplace compétent et pouvoir magique.
+- **Né dans les cieux.** Nés dans les royaumes célestes, les aasimars ayant ce trait racial gagnent un bonus de +2 à leurs tests de [Connaissances](./Connaissances.md) (plans) et lancent les sorts du [registre](./Registre.md) Bien ou de la lumière avec un [niveau de lanceur de sorts](./NLS.md) augmenté de +1. Ce trait racial remplace ceux de compétent et de pouvoir magique.
+
+<u>*Remplace « compétent » et « résistance céleste » :*</u>
+- **Croisé céleste.** Certains aasimars accomplissent leur destinée en partant en guerre contre les puissances du Mal absolu. Ces individus reçoivent un bonus d’intuition de +1 à leurs [jets d’attaque](./jet dattaque.md) et à la [CA](./CA.md) contre les [extérieurs](./type Extérieur.md) Mauvais, ainsi qu'un bonus racial de +2 à leurs tests d’[Art de la magie](./Art de la magie.md) et de [connaissances](./Connaissances.md) (plans) pour identifier les extérieurs Mauvais ou les objets ou effets créés par des extérieurs Mauvais ; ils peuvent utiliser ces compétences à cette fin même sans formation. Ce trait racial remplace résistance céleste et compétent.
+
+<u>*Remplace « extérieur natif » et « langue céleste » :*</u>
+- **Enfant de l’humanité.** Certains aasimars ont une ascendance céleste extrêmement éloignée. Un aasimar ayant ce trait racial compte comme un [extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) et un [humanoïde](./type Humanoïde.md) ([humain](./Humain.md)) en ce qui concerne tous les effets relatifs à la race, y compris pour les conditions requises des dons et les sorts affectant les humanoïdes. Il peut se faire passer pour un humain sans avoir besoin d’utiliser la compétence [Déguisement](./Déguisement.md). Ce trait racial remplace la langue céleste et altère le sous-type natif.
+
+<u>*Remplace « pouvoir magique » :*</u>
+- **Incorruptible.** Parfois, certains aasimars développent la capacité à repousser le Mal toujours plus loin. Ceux qui ont ce trait racial peuvent utiliser *[résistance à la corruption](./Résistance à la corruption.md)* contre le Mal comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour. Si un aasimar utilise cette capacité sur lui-même, la durée passe à 1 heure par niveau. Ce trait racial remplace celui de pouvoir magique.
+- {s:cs}{s:ISR}**Promesse oubliée.** Même si beaucoup considèrent la beauté et les pouvoirs célestes des aasimars comme un cadeau, certaines communautés les persécutent pour leur simple différence jusqu'à ce qu'ils sombrent dans les ténèbres. Les forces du mal se réjouissent d'une telle perversion des dons de leur homologue céleste. Tant que l'aasimar reste d'alignement Mauvais, il obtient le trait racial alternatif [tieffelin](./Tieffelin (race).md) la gueule ou la griffe. Ce trait racial remplace pouvoir magique.
+
+<u>*Remplace « résistance céleste » :*</u>
+- **Esprit immortel.** Les aasimars à la volonté particulièrement forte ont un esprit céleste capable de résister aux pouvoirs de mort. Ils bénéficient d’une [résistance](./Résistance (capacité).md) de 5 contre les dégâts d’énergie négative. Ils ne perdent pas de points de vie lorsqu’ils gagnent des [niveaux négatifs](./niveau négatif.md), et bénéficient d’un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les effets de mort, l’[absorption d’énergie](./Absorption dénergie (capacité).md), l’énergie négative et les sorts ou pouvoirs magiques de [nécromancie](./Nécromancie.md). Ce trait racial remplace résistance céleste.
+- **Résistance exaltée.** L’aasimar ayant ce trait racial gagne une [résistance à la magie](./Résistance à la magie (capacité).md) de 5 + son niveau contre les sorts et pouvoirs magiques du [registre](./Registre.md) du Mal, ainsi que contre tous les sorts et pouvoirs magiques que lancent les [extérieurs](./type Extérieur.md) Mauvais. Ce trait racial remplace résistance céleste.
+
+<u>*Remplace « vision dans le noir » :*</u>
+- **Halo.** Certains aasimars ont la capacité de projeter un halo. Un aasimar ayant ce trait racial peut créer une *[lumière](./Lumière.md)* centrée sur sa tête comme [pouvoir magique](./Pouvoirs magiques (capacité).md) à volonté. Lorsqu’il utilise son halo, il bénéficie d’un bonus de circonstances de +2 à ses tests d’[Intimidation](./Intimidation.md) contre les créatures Mauvaises, et à ses [jets de sauvegarde](./JDS.md) contre les effets de [cécité](./aveugle.md) ou d'[éblouissement](./Ébloui.md). Ce trait racial remplace celui de vision dans le noir.
+
+
+#### Héritages alternatifs
+{s:cs}<div class="description">**Source :** Blood of Angels (BoA).  </div>
+La plupart des aasimars ne savent pas exactement d'où viennent leurs pouvoirs célestes, et les qualités similaires de beaucoup de ces êtres touchés par le ciel laissent supposer une force céleste relativement indistincte ou omniprésente dans leur lignée. Certains, cependant, possèdent des traits et des capacités plus uniques hérités de leurs ancêtres suprêmes, des attributs qui indiquent le type précis d'être céleste qui a affecté leurs ancêtres.
+
+Les joueurs peuvent choisir l'un des six héritages suivants pour leurs personnages aasimars à la place des traits raciaux standards des aasimars. Chaque héritage présente de nouveaux bonus de caractéristique, pouvoirs magiques et bonus aux compétences qui remplacent les traits raciaux standards des aasimars. Chaque entrée aborde également les traits de personnalité, les caractéristiques physiques et les lieux d'origine les plus courants (bien que loin d'être omniprésents) des aasimars de l'héritage en question.
+
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Héritage || Alignement habituel || Caractéristiques alternatives || Compétences alternatives || Pouvoir magique alternatif
+|- CLASS="premier"
+| Sang d'[agathion](./Agathion.md) (né de l'idylle) || Neutre Bon || +2 [Constitution](./Constitution.md), +2 [Charisme](./Charisme.md) || [Dressage](./Dressage.md), [Survie](./Survie.md) || *[convocation d'alliés naturels II](./Convocation dalliés naturels II.md)*
+|-
+| COLSPAN="5" | Les aasimars nés de l'idylle, de disposition calme et souvent porteurs de traits animaux, sont de parfaits médiateurs entre l'ordre et le chaos.
+|- CLASS="premier alt"
+| Sang d'[ange](./Ange.md) (né des anges) || n'importe Bon || +2 [Force](./Force.md), +2 [Charisme](./Charisme.md) || [Connaissances](./Connaissances.md) (plans), [Premiers secours](./Premiers secours.md) || *[modification d'apparence](./Modification dapparence.md)*
+|- CLASS="alt"
+| COLSPAN="5" | Ces parangons célestes d'une beauté incroyable sont des champions de la bonté et de la lumière, quelle que soit l'apparence qu'ils empruntent.
+|- CLASS="premier"
+| Sang d'[archon](./Archon.md) (émissaire de l'ordre) || Loyal Bon || +2 [Constitution](./Constitution.md), +2 [Sagesse](./Sagesse.md) || [Intimidation](./Intimidation.md), [Psychologie](./Psychologie.md) || *[flamme éternelle](./Flamme éternelle.md)*
+|-
+| COLSPAN="5" | Les émissaires de l'ordre sont des champions de la justice châtiant les malveillants, et pensent souvent que le chaos est la source de la souffrance des mortels.
+|- CLASS="premier alt"
+| Sang d'[azata](./Azata.md) (béni des muses) || Chaotique Bon || +2 [Dextérité](./Dextérité.md), +2 [Charisme](./Charisme.md) || [Diplomatie](./Diplomatie.md), [Représentation](./Représentation.md) || *[poussière scintillante](./Poussière scintillante.md)*
+|- CLASS="alt"
+| COLSPAN="5" | Les aasimars touchés par les muses sont des exemples de joie et de liberté, et parcourent le monde à la recherche d'individus à libérer.
+|- CLASS="premier"
+| Sang de [garuda](./Garuda.md) (compagnon de la plume) || Chaotique Bon || +2 [Dextérité](./Dextérité.md), +2 [Sagesse](./Sagesse.md) || [Acrobaties](./Acrobaties.md), [Vol](./Vol.md) || *[détection de l'invisibilité](./Détection de linvisibilité.md)*
+|-
+| COLSPAN="5" | Leur plumage rend les compagnons de la plume très vite reconnaissables. Bien qu'ils soient parfois impulsifs, ils ne reculent jamais une fois leur parole donnée.
+|- CLASS="premier alt"
+| Sang de [péri](./Péri.md) (né des cendres) || Neutre Bon || +2 [Intelligence](./Intelligence.md), +2 [Charisme](./Charisme.md) || [Art de la magie](./Art de la magie.md), [Connaissances](./Connaissances.md) (plans) || *[pyrotechnie](./Pyrotechnie.md)*
+|- CLASS="alt"
+| COLSPAN="5" | Maîtres de la magie du feu, les descendants des péri subissent l'influence duale de leur ancêtre déchu, et sont aussi bien amenés à faire le bien que le mal.
+|}
+
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+**[Barde](./Barde.md).** Le barde choisit une [représentation bardique](./représentation bardique.md) ; traitez le personnage comme un barde de +1/6 niveau supplémentaire quand il s’agit de déterminer les effets de cette représentation.
+
+**[Chevalier](./Chevalier.md).** Le chevalier ajoute +1/4 au bonus de dégâts contre les cibles de son [défi](./Chevalier.md#DEFI).
+
+**[Conjurateur](./Conjurateur.md).** Le conjurateur ajoute une [RD](./RD.md) 1/Mal à son [eidolon](./Conjurateur.md#EIDOLON). Chaque fois que le conjurateur choisit cet avantage par la suite, la RD/Mal augmente de +1/2 (maximum RD 10/Mal).
+
+**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur ajoute +1/4 à son [niveau de lanceur de sorts](./NLS.md) lorsqu’il lance des sorts du [registre](./Registre.md) du Bien.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur ajoute +1/2 à ses tests d’[Intimidation](./Intimidation.md), de [Connaissances](./Connaissances.md) et de [Psychologie](./Psychologie.md) contre les [extérieurs](./type Extérieur.md).
+
+**[Oracle](./Oracle.md).** L’oracle ajoute +1/6 à son niveau d’oracle quand il s’agit de déterminer les effets d’une unique [révélation](./Oracle.md#REVELATION).
+
+**[Paladin](./Paladin.md).** Le paladin ajoute +1/6 au bonus de moral aux [jets de sauvegarde](./JDS.md) que lui accordent les auras de paladin.
+
+**[Prêtre](./Prêtre.md).** Le prêtre ajoute +1/2 aux dégâts lorsqu’il utilise de l’énergie positive contre les morts-vivants ou [Canalisation alignée](./Canalisation alignée.md) pour blesser des [extérieurs](./type Extérieur.md) mauvais.
+</td></tr></table>
+
+### Nouvelles règles raciales
+{s:MR}Voici les options accessibles aux aasimars, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+
+#### Dons
+{| CLASS="tablo centre autoalt toutgauche"
+
+|- CLASS="titre"
+| WIDTH="25%" | Dons
+| WIDTH= "6%" | Source
+| WIDTH="25%" | Conditions
+| WIDTH="44%" | Avantages
+
+|- CLASS="premier"
+| [Canalisation de force](./Canalisation de force.md) || <sup>MR</sup> || [Aasimar](./Aasimar (race).md), [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 2d6 || La canalisation d'énergie peut être concentrée sur une unique cible et la repousser ou l'attirer en plus de la blesser
+|-
+| &emsp;[Science de la canalisation de force](./Science de la canalisation de force.md) || <sup>MR</sup> || [Canalisation de force](./Canalisation de force.md), [Aasimar](./Aasimar (race).md), [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 4d6 || L'utilisation de Canalisation de force affecte un cône de 9 m (6 {s:c}) ou une ligne de 18 m (12 {s:c})
+|-
+| &emsp;&emsp;[Canalisation de force supérieure](./Canalisation de force supérieure.md) || <sup>MR</sup> || [Canalisation de force](./Canalisation de force.md), [Science de la canalisation de force](./Science de la canalisation de force.md), [Aasimar](./Aasimar (race).md), [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 6d6 || L'utilisation de Canalisation de force affecte toutes les créatures dans un rayon de 9 m (6 {s:c})
+
+|- CLASS="premier"
+| [Éclat amplifié](./Éclat amplifié.md) || <sup>*ISR*</sup> || [Aasimar](./Aasimar (race).md), pouvoir magique racial *[lumière du jour](./Lumière du jour.md)* || Émet une aura de lumière à proximité d'un allié qui possède ce don
+
+|- CLASS="premier"
+| [Rayonnement divin](./Rayonnement divin.md) || <sup>MR</sup> || [Aasimar](./Aasimar (race).md), *[lumière du jour](./Lumière du jour.md)* pouvoir magique, niveau suffisamment élevé (voir description) || une utilisation supplémentaire du pouvoir lumière du jour avec des effets supérieurs
+
+|- CLASS="premier"
+| [Sang angélique](./Sang angélique.md) || <sup>MR</sup> || [Con](./Constitution.md) 13, [Aasimar](./Aasimar (race).md) || Le personnage est plus difficile à tuer et résistant au Mal
+|-
+| &emsp;[Ailes d'ange](./Ailes dange.md) || <sup>MR</sup> || [Sang angélique](./Sang angélique.md), [Aasimar](./Aasimar (race).md), niveau de personnage 10 || Le personnage obtient des ailes et une vitesse de vol
+|-
+| &emsp;[Chair angélique](./Chair angélique.md) || <sup>MR</sup> || [Sang angélique](./Sang angélique.md), [Aasimar](./Aasimar (race).md) || La peau étincelante du personnage lui offre des effets bénéfiques
+|-
+| &emsp;&emsp;[Ailes métalliques](./Ailes métalliques.md) || <sup>MR</sup> || [Sang angélique](./Sang angélique.md), [Chair angélique](./Chair angélique.md), [Ailes d'ange](./Ailes dange.md), [aasimar](./Aasimar (race).md), personnage de niveau 11 || Le personnage obtient deux attaques d'aile
+
+|- CLASS="premier"
+| [Serviteur céleste](./Serviteur céleste.md) || <sup>MR</sup> || [Aasimar](./Aasimar (race).md), [compagnon animal](./compagnon animal.md), [familier](./familier.md) ou aptitude de classe monture || Le compagnon animal, son familier ou la monture du personnage devient une créature magique céleste
+|}
+
+<table width="100%"><tr><td width="49%">
+#### Archétypes de classes
+- [Purificateur (oracle)](./Purificateur (oracle).md) *(MR)*
+- [Sage gardien (paladin)](./Sage gardien (paladin).md) *(MR)*
+
+#### Équipement
+- [Ambroisie](./Ambroisie (objet).md) *(MR)*
+- [Encens](./Encens (objet).md) *(MR)*
+- [Encensoir céleste](./Encensoir céleste (objet).md) *(MR)*
+- [Huile sainte](./Huile sainte (objet).md)  *(MR)*
+- [Lampe céleste](./Lampe céleste (objet).md) *(MR)*
+
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+#### Objets magiques
+- [Auréole de menace](./Auréole de menace.md) *(MR)*
+- [Bouclier céleste](./Bouclier céleste.md) *(MR)*
+- [Bouclier de l'Élysée](./Bouclier de lÉlysée.md) *(MR)*
+- [Étendard de l'héritier céleste](./Étendard de lhéritier céleste.md) *(ISR)*
+
+#### Sorts
+- [Espace sacré](./Espace sacré.md) *(MR)*
+- [Vérité](./Vérité.md) *(MR)*
+- [Voile du paradis](./Voile du paradis.md) *(MR)*
+
+</td></tr></table>

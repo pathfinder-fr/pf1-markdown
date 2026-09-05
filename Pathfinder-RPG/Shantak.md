@@ -1,0 +1,47 @@
+---
+Name: Pathfinder-RPG.Shantak
+Title: Shantak
+LastModified: 2024-01-24 22:45
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Shantak|FP 8}
+{s:pucem|Créature magique|Montagnes|Froid}
+- *Source : Bestiaire 2* p.250            
+- **PX** 4 800
+- [Créature magique](./type Créature magique.md) de taille TG, CM
+- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3
+(((Défense)))
+- **CA** 21, contact 11, pris au dépourvu 18 (Dex +3, naturelle +10, taille –2)
+- **pv** 104 (11d10+44)
+- **Réf** +10, **Vig** +11, **Vol** +6
+- **Capacités défensives** glissant ; **Immunités** froid, maladie
+(((Attaque)))
+- **VD** 6 m (4 {s:c}), vol 24 m (16 {s:c}) (moyenne)
+- **Corps à corps** morsure, +17 (2d6+8) et 2 serres, +17 (1d8+8 plus [étreinte](./Étreinte.md))
+- **Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})
+(((Statistiques)))
+- **For** 26, **Dex** 17, **Con** 19, **Int** 8, **Sag** 17, **Cha** 10
+- **BBA** +11 ; **BMO** +21 (+25 [lutte](./lutte.md)) ; **DMD** 34 (42 contre la [lutte](./lutte.md))
+- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Virage sur l’aile](./Virage sur laile.md), [Vol stationnaire](./Vol stationnaire.md)
+- **Compétences** [Évasion](./Évasion.md) +11, [Vol](./Vol.md) +13 ; **Modificateurs raciaux** +8 en [Évasion](./Évasion.md)
+- **Langues** aklo
+- **Particularités** ne respire pas, partage des protections, vol stellaire
+(((Écologie)))
+- **Environnement** montagnes froides
+- **Organisation sociale** solitaire, couple ou vol (3–12)
+- **Trésor** aucun
+(((Pouvoirs spéciaux)))
+  - **Glissant** (Ext). Le shantak produit un mucus glissant qui s’infiltre entre ses écailles et lui donne un bonus de +8 aux tests d’[Évasion](./Évasion.md) et à la [DMD](./DMD.md) contre les tentatives de [lutte](./lutte.md). Le mucus impose aussi une pénalité de –5 aux tests d’[Équitation](./Équitation.md) des créatures tentant de monter un shantak.
+  - **Partage des protections** (Sur). Par une action libre, un shantak peut partager sa capacité « ne respire pas » et son immunité contre le froid avec une unique créature qui le touche. Il peut cesser ce partage par une action libre.
+  - **Vol stellaire** (Sur). Un shantak peut survivre dans le vide de l’outre-espace. Il vole à travers l’espace à une vitesse incroyable. Même si les temps de trajet exacts varient d’un cas à l’autre, un voyage au sein d’un même système solaire prend 3d20 heures alors qu’un voyage vers un autre système solaire dure 3d20 jours (ou plus, selon la décision du MJ), pour autant que le shantak connaisse la direction dans laquelle se trouve la destination.
+
+</div>
+<td><div>*Cette sorte d’oiseau plus grand encore qu’un éléphant a une tête vaguement équine et de larges ailes recouverte de mucus.*
+
+Les shantaks parlent avec une voix stridente qui ressemble au bruit que produit le frottement du verre contre la pierre. Ces créatures intelligentes ne peuvent pas être entraînées comme montures : un cavalier potentiel devra utiliser de la diplomatie ou de la magie pour obtenir la coopération d’une monture shantak et, même dans ces cas-là, les shantaks ont la fâcheuse tendance de déposer délibérément leur cavalier dans des zones dangereuses.
+Étrangement, certaines créatures inspirent une peur irrationnelle à de nombreux shantaks. C’est le cas des échalas
+sombres, des créatures sans visage qui habitent sur certaines montagnes isolées, ou encore de certains types de harpies ou de gargouilles qu’on trouve dans les régions plus civilisées. Les shantaks évitent tout affrontement avec ces types de créatures lorsque c’est possible.
+Comme les shantaks sont capables de traverser les gouffres de l’espace, ces espèces d’oiseaux couverts d’écailles sont présents sur de nombreux mondes. Malgré cette capacité plutôt rare, les shantaks ne partent à la recherche de nouveaux mondes que quand ils n’ont pas d’autres choix, car ils savent que chaque tentative de vol vers un monde inconnu leur fait courir le risque de se retrouver perdu à tout jamais dans le vide de l’espace.
+</div></td></tr></table>

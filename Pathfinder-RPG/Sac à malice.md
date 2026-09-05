@@ -1,0 +1,85 @@
+---
+Name: Pathfinder-RPG.Sac à malice
+Title: Sac à malice
+LastModified: 2024-06-13 21:23
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Sac à malice|{s:AE}}
+**Aura** [Invocation](./Invocation.md) faible (gris et rouille) ou modérée (ocre) ; **NLS** 3 (gris), 5 (rouille) ou 9 (ocre) ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 400 po (gris), 8 500 po (rouille) ou 16 000 po (ocre) ; **Poids** —
+(((Description)))
+Ce petit sac a l’air vide et on ne peut plus banal. Quiconque y glisse la main sent une petite boule de poils dans les replis du tissu. Si cette boule est retirée du sac et jetée par terre dans les six mètres, elle se transforme en un animal qui sert pendant dix minutes celui qui l’a sorti du sac (à moins qu’il soit tué avant ou que l’aventurier lui ordonne de retourner dans le sac). À la fin de ce délai, il disparaît automatiquement. L’animal peut exécuter n’importe quel tour décrit dans la compétence [Dressage](./Dressage.md). Chacun des trois modèles de sac contient des animaux différents. Référez-vous aux tables suivantes pour déterminer leur nature.
+
+<table style="width:100%"><tr style="vertical-align: top"><td style="width:33%">
+{| CLASS="tablo centre autoalt" WIDTH="96%"
+|+ Gris
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Animal
+|- CLASS="premier"
+| 01–30
+| CLASS="gauche" | [Chauve-souris](./Chauve-souris.md)
+|-
+| 31-60
+| CLASS="gauche" | [Rat](./Rat.md)
+|-
+| 61-75
+| CLASS="gauche" | [Chat](./Chat.md)
+|-
+| 76-90
+| CLASS="gauche" | [Belette](./Belette.md)
+|-
+| 91-100
+| CLASS="gauche" | [Chien de selle](./Chien.md)
+|}
+</td><td style="width:33%">
+{| CLASS="tablo centre autoalt" WIDTH="96%"
+|+ Rouille
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Animal
+|- CLASS="premier"
+| 01–30
+| CLASS="gauche" | [Glouton](./Glouton.md)
+|-
+| 31–60
+| CLASS="gauche" | [Loup](./Loup.md)
+|-
+| 61–85
+| CLASS="gauche" | [Sanglier](./Sanglier.md)
+|-
+| 86–100
+| CLASS="gauche" | [Léopard](./Léopard.md)
+|}
+</td><td style="width:33%">
+{| CLASS="tablo centre autoalt" WIDTH="96%"
+|+ Ocre
+|- CLASS="titre"
+| 1d100
+| CLASS="gauche" | Animal
+|- CLASS="premier"
+| 01–30
+| CLASS="gauche" | [Grizzly](./Grizzly.md)
+|-
+| 31–60
+| CLASS="gauche" | [Lion](./Lion.md)
+|-
+| 61–80
+| CLASS="gauche" | [Destrier lourd](./Cheval.md)
+|-
+| 81–90
+| CLASS="gauche" | [Tigre](./Tigre.md)
+|-
+| 91–100
+| CLASS="gauche" | [Rhinocéros](./Rhinocéros.md)
+|}
+</td></tr></table>
+
+Le destrier apparaît avec un harnais et une selle. Il accepte la personne l’ayant sorti du sac comme cavalier.
+
+Les animaux tirés du sac sont toujours déterminés aléatoirement. Il est impossible d’en convoquer un second tant que le premier n’a pas disparu. Un sac à malice peut produire jusqu’à dix animaux par semaine. Les informations relatives à ces animaux se trouvent dans le Bestiaire Pathfinder.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[convocation d’alliés naturels II](./Convocation dalliés naturels II.md)* (gris), *[convocation d’alliés naturels III](./Convocation dalliés naturels III.md)* (rouille) ou *[convocation d’alliés naturels V](./Convocation dalliés naturels V.md)* (ocre) ; **Coût** 1 700 po (gris), 4 250 po (rouille) ou 8 000 po (ocre)
+</div>

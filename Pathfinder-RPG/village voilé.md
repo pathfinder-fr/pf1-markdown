@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.village voilé
+Title: Village voilé
+LastModified: 2022-07-06 19:53
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 5
+- Sort hypnotiseur 5
+- Sort magicien 5
+- Sort prêtre 5
+- Sort psychiste 5
+- Sort sorcière 5
+- Src Manuel des races
+---
+
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}
+**École** [Illusion](./Illusion.md) ([chimère](./Présentation des sorts.md#CHIMERE)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki>;
+**Niveau** [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Zone** cube de 3 m de côté par [niveau](./niveau.md)  
+
+**Durée** 1 jour/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md) pour dévoiler ; **Résistance à la magie** non
+
+Le personnage place une illusion sur une zone pour faire croire aux créatures qui la voient ou interagissent avec elle qu’elle a été victime d’une catastrophe ou d’une calamité et qu’ils n’ont aucun intérêt à s’y rendre. Le personnage doit décrire la nature de la catastrophe quand il lance le sort (si c’est un incendie, une tornade, un pillage, une épidémie, etc.) Ensuite, l’illusion se charge de rajouter des détails réalistes. Quand le personnage lance ce sort, il peut immuniser certaines créatures clairement identifiables (grâce à leur race, leur sexe, leur catégorie d’âge, etc.) contre l’illusion. Toutes les créatures qui répondent à ces caractéristiques perçoivent la véritable nature de la zone affectée et non l’illusion. Les créatures qui ne sont pas immunisées et ratent leur jet de sauvegarde considèrent automatiquement que la zone affectée n’a absolument aucun intérêt pour elles et elles poursuivent toujours leur chemin sans l’inspecter plus avant, à moins d’avoir des raisons de soupçonner quelque chose. Les créatures qui ont de bonnes raisons de se douter de la supercherie et qui décident d’examiner les lieux ont droit à un nouveau jet de sauvegarde avec un bonus de +2 quand elles entrent dans le village et interagissent directement avec l’illusion.  
+
+Le personnage peut étendre la zone affectée en lançant le sort à plusieurs reprises. À chaque fois, il doit « attacher » le nouveau sort à une zone déjà voilée en utilisant le même désastre et en accordant l’immunité aux mêmes créatures. Sinon, toute l’illusion disparaît, quelle que soit sa taille.

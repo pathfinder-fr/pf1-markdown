@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Obédience divine
+Title: Obédience divine
+LastModified: 2023-08-02 14:25
+Categories:
+- Don
+- Src Inner Sea Gods
+---
+
+{s:cs}{s:ISG}*Votre vénération pour une divinité est telle qu'une prière quotidienne et des sacrifices mineurs vous octroient des faveurs spéciales.*
+
+**Conditions.** 3 rangs en [Connaissances](./Connaissances.md) (religion), doit vénérer une divinité
+
+**Avantage.** Chaque divinité exige une obédience quotidienne différente, mais aucune obédience ne prend plus d'1 heure par jour à réaliser. Une fois que le personnage a terminé l'obédience, il obtient les avantages d'un pouvoir spécial ou d'une résistance comme indiqué dans l'entrée « Obédience » du [profil de la divinité](./Divinités.md) envers laquelle l'obédience est dirigée.
+
+Si le personnage possède au moins 12 [dés de vie](./DV.md), il obtient également la première faveur octroyée par sa divinité dès qu'il entreprend son obédience. Si le personnage possède au moins 16 dés de vie, il obtient également la deuxième faveur. Si le personnage possède 20 dés de vie ou plus, il obtient également la troisième faveur. À moins qu'une durée spécifique ou qu'un nombre d'utilisations quotidiennes soit listés, les effets d'une faveur sont constants. Si le personnage possède des niveaux dans les classes de prestige d'[évangéliste](./Évangéliste.md), d'[exalté](./Exalté.md), ou de [sentinelle](./Sentinelle.md), il gagne accès à ces faveurs à des niveaux inférieurs dans le cadre de sa classe de prestige. Si le personnage ne possède aucun niveau dans ces classes de prestige, il obtient les faveurs de l'exalté. S'il prend des niveaux dans la classe d'évangéliste ou de sentinelle plus tard, il ne bénéficie plus des faveurs de l'exalté et accède à la place aux faveurs appropriées à la classe.
+
+Si le personnage ne parvient pas à réaliser une obédience quotidienne, il perd tous les avantages et faveurs offertes par ce don jusqu'à sa prochaine obédience.

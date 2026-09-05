@@ -1,0 +1,42 @@
+---
+Name: Golarion.Érastil
+Title: Érastil
+LastModified: 2020-06-30 14:41
+Categories:
+- Religion
+---
+
+{s:Dieu|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png|Le vieux borgne|LB|Agriculture, chasse, commerce et famille|Agriculteur, chasseur et commerçant|Arc long |Bien, Communauté, Faune, Flore, Loi|Archons, Famille, Plume, Poil, Croissance, Foyer|Conversion, Hérésie, Héroïsme, Illumination, Zèle} Érastil est un des plus anciens dieux à l'œuvre en [Avistan](./Avistan.md). Sa religion date d'avant l'âge des Ténèbres quand de petites communautés agricoles et des rassemblements de chasseurs le priaient pour des récoltes abondantes et des chasses réussies. C'est un dieu de la chasse et de l'agriculture qui préfère montrer la voie à suivre à ses disciples au travers d'exemples simples plutôt que par des sermons.
+
+### Histoire
+
+Érastil est une divinité ancienne. Il est apparu quand l'humanité essayait de maîtriser la nature et les créatures sauvages. Les légendes clament que c'est le vieux borgne qui créa le premier arc et qui l'offrit aux humains. Érastil continue de représenter les plaisirs simples que la vie a à offrir.
+
+### Apparence
+
+Érastil apparaît sous les traits d'un trappeur humain armé d'un arc ou d'un grand humanoïde à tête d'élan. Il est souvent représenté chassant les animaux sauvages et autres créatures monstrueuses.
+
+
+### Émissaires
+Les élans, biches et les cerfs sont tenues en haute estime par Érastil. Ceux qui lui plaisent sont souvent récompensés par des récoltes abondantes ou des chasses exceptionnelles. Ceux qui le contrarient par contre rentreront bredouilles de la chasse ou auront leurs récoltes dévastées. Son héraut est appelé le sinistre cerf blanc. Il ressemble à un gigantesque cerf qui a des branches à la place des bois et des plantes grimpantes autour des jambes.
+
+
+### Doctrine
+
+Érastil demande à ses suivants de suivre la tradition et les anciennes coutumes. De nombreux croyants n'entrent jamais dans les villes. Ils ont souvent des vies simples et s'écartent des lieux de civilisation avancée.
+
+### Temples
+
+Cette religion peut être trouvée dans toutes les régions sauvages d'[Avistan](./Avistan.md), mais plus particulièrement en [Andoran](./Andoran.md), [Chéliax](./Chéliax.md), [Galt](./Galt.md), [Isger](./Isger.md), les [terres des Rois des Linnorms](./Terres des Rois des Linnorms.md), [Molthune](./Molthune.md), [Nirmathas](./Nirmathas.md), les [Royaumes Fluviaux](./Royaumes fluviaux.md) et la [Varisie](./Varisie.md). Les sanctuaires d'Érastil sont presque toujours de simples bâtiments en bois qui servent de lieu de rassemblement aux communautés rurales.
+
+
+### Textes sacrés
+
+Ils sont regroupés dans les Paraboles d'Érastil. Ce livre sert de guide et d'almanach aux suivants d'Érastil. Il donne des connaissances sur l'agriculture, sur les étendues sauvages et des conseils pour renforcer les liens familiaux.
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
+- Enfin, le [deuxième volume](./../Aventures/Présentation AP6.md#AP6-2) de la sixième campagne, [Kingmaker](./../Aventures/Présentation AP6.md), contient un article sur Érastil.
+{s:VoirAussiAprès}

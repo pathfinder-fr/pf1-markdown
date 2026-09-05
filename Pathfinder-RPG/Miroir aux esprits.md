@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Miroir aux esprits
+Title: Miroir aux esprits
+LastModified: 2024-06-15 23:36
+Categories:
+- Objet mag merveilleux
+- Src Aventures occultes
+---
+
+<div class="BD">
+{s:BDTitre|Miroir aux esprits|{s:AO}}
+**Aura** [Nécromancie](./Nécromancie.md), modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 18 900 po ; **Poids** 2 kg
+(((Description)))
+Ces miroirs à main insolites permettent à leur utilisateur de communiquer avec les esprits de créatures mortes récemment, malgré l’importante prise de risques. Sur commande, l’utilisateur peut fixer le miroir du regard et prononcer le nom d’un individu mort récemment dans une tentative pour convoquer le reflet de son esprit.
+
+Il y a 70 % de chances qu’une tentative de contact avec un esprit spécifique réussisse. Pour chaque semaine écoulée depuis la mort de la créature désignée, ces chances diminuent de 10 % (jusqu’à un minimum de 0 %). Si la tentative est un échec, le miroir aux esprits cesse de fonctionner pendant 1d4 jours et ne peut plus jamais entrer en contact avec cet esprit. Si la tentative est réussie, l’image de la personne décédée apparaît sur le miroir et l’utilisateur peut lui poser jusqu’à trois questions, comme avec *[appel d’un esprit](./Appel dun esprit.md)*. L’esprit peut également déplacer des objets situés à 6 mètres ou moins du miroir par télékinésie, comme s’il utilisait un *[serviteur invisible](./Serviteur invisible.md)*.
+
+Cette forme de communication est très dangereuse et permet à des esprits malveillants d’agresser l’utilisateur du miroir. Chaque fois que le miroir aux esprits ne parvient pas à entrer en contact avec l’esprit désigné, un autre esprit prend sa place. Cet esprit sème généralement la confusion en donnant des réponses erronées ou en déplaçant des objets alentour, mais il y a 10 % de chances que l’esprit se manifeste sous la forme d’un mort-vivant intangible aléatoire pour s’en prendre à l’utilisateur du miroir.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[appel d’un esprit](./Appel dun esprit.md)* ; **Coût** 9 450 po
+</div>

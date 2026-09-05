@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Botte à talon creux
+Title: Botte à talon creux
+LastModified: 2019-11-29 09:49
+---
+
+{s:cs}
+**(Source: Heroes of the street)**  
+
+**Prix** 10 po; **Poids** 0.5 kg  
+
+**Catégorie** Vêtements  
+
+
+Cette botte contient un creux qui donne un +4 aux jets d'[Escamotage](./Escamotage.md) pour cacher des objets dans la botte en la portant. La botte peut contenir jusqu'à 131 centimètres cube. Mettre ou enlever la botte est une action simple, tout comme retirer ou mettre un objet dans le creux quand la botte est en main. Ajouter un objet ou en retirer un lorsque la botte est portée est une action complexe.

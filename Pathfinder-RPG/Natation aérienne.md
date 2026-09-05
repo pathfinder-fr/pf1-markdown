@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Natation aérienne
+Title: Natation aérienne
+LastModified: 2023-07-21 15:24
+Categories:
+- Sort
+- Sort chaman 3
+- Sort druide 3
+- Sort prêtre 3
+- Sort sanguin 3
+- Sort sorcière 3
+- Src Dieux et magie
+- Src Inner Sea Gods
+---
+
+{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[Air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 3, [Dru](./Druide.md) 3, [Prê](./Prêtre.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, FD](./composantes.md)
+**Portée** contact
+**Cible** créature touchée de taille G ou inférieure
+**Durée** 1 minute/[niveau](./niveau.md)
+**Jet de sauvegarde** aucun (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+
+Ce sort confère à la cible la capacité de nager dans les airs. Les créatures qui ont une vitesse de nage peuvent se déplacer dans l’air à cette vitesse. Celles qui en sont dépourvues doivent faire des tests de [Natation](./Natation.md) afin de se déplacer normalement. En l’absence de vent, l’air a les mêmes effets qu’une eau calme, le vent léger ou modéré a les mêmes effets qu’une eau agitée, et il est impossible de nager dans des [vents plus forts](./Vents.md). Ce sort ne confère pas la capacité de respirer l’air aux créatures qui ne le peuvent pas en temps normal.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Petit bretteur (bretteur)
+Title: Petit bretteur
+LastModified: 2023-05-28 17:13
+Categories:
+- Archétype
+- Archétype bretteur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypebretteur}{s:MCA}*Entre les mains d’un combattant entraîné, une lame bien aiguisée reste dangereuse, quelle que soit la taille son utilisateur. Un petit bretteur se rapproche de ses victimes et exploite sa taille et ses compétences à son avantage.*
+
+#### Exploits
+Le petit bretteur gagne les exploits suivants et chacun d’eux remplace un exploit existant.
+- **Assaut entre les jambes (Ext).** Au niveau 1, si un adversaire d’une taille supérieure occupe un emplacement adjacent au petit bretteur et rate une attaque de corps à corps contre lui, le petit bretteur peut, par une [action immédiate](./Action immédiate.md), dépenser 1 point de panache pour se déplacer de 1,50 mètre et entrer dans une case comprise dans l’emplacement occupé par l’attaquant. Ce déplacement n’est pas défalqué de la vitesse de déplacement du petit bretteur pour le prochain round et ne provoque pas d’[attaques d’opportunité](./AO.md). Lorsque le petit bretteur est sur l’emplacement occupé par l’adversaire, on considère qu’il occupe sa case au sein de l’espace occupé par l’adversaire. Quand le petit bretteur est à l’intérieur de l’espace occupé par son adversaire, ce dernier subit un malus de -4 aux jets d’attaque et aux tests de manoeuvre offensive qui ne sont pas effectués contre le petit bretteur et on considère que les alliés du petit bretteur prennent l’adversaire en tenaille s’ils sont adjacents à cet adversaire et au petit bretteur en même temps. On considère que le petit bretteur prend en tenaille son adversaire quand il est à l’intérieur de l’espace qu’il occupe et s’il est adjacent à un allié qui est lui-même adjacent à l’adversaire. Le petit bretteur peut se déplacer au sein de l’espace occupé par l’adversaire et en sortir sans provoquer d’attaque d’opportunité mais si l’adversaire tente de se déplacer vers un emplacement qui n’est plus occupé par le petit bretteur, ce déplacement provoque une [attaque d’opportunité](./AO.md) de la part du petit bretteur. Cet exploit remplace parade et riposte opportune.
+- **Subtilisation rapide (Ext).** Au niveau 3, le petit bretteur peut, par une [action rapide](./Action rapide.md), dépenser 1 point de panache quand il touche un adversaire de taille supérieure à la sienne avec une arme de corps à corps perforante à une main ou légère pour effectuer contre lui un test de manoeuvre offensive de [subtilisation](./subtilisation.md). L’utilisation de cet exploit ne provoque pas d’[attaque d’opportunité](./AO.md). Cet exploit remplace escrime menaçante.
+- **Frappe au jarret (Ext).** Au niveau 7, si le petit bretteur possède encore 1 point de panache quand il frappe un adversaire de taille supérieure à la sienne avec une arme de corps à corps perforante à une main ou légère, il peut, par une [action rapide](./Action rapide.md), effectuer un test de manoeuvre offensive de [sale coup](./sale coup.md). Au lieu d’infliger l’un des états préjudiciables normalement appliqués suite à la réussite d’un sale coup, cet exploit rend la cible uniquement [chancelante](./Chancelant.md) en cas de réussite au test. Cet exploit remplace frappe handicapante. 
+- **Charge féline (Ext).**  Au niveau 11, si le petit bretteur possède encore 1 point de panache, il peut, quand il [charge](./charge.md) un adversaire de taille supérieure à la sienne, terminer sa charge dans n’importe quelle case atteignable et pas seulement la case la plus proche. Toutes les autres conditions imposées par la charge doivent toujours être satisfaites. Cet exploit remplace blessure hémorragique.

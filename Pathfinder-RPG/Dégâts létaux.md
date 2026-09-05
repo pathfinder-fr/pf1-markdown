@@ -1,0 +1,7 @@
+---
+Name: Pathfinder-RPG.Dégâts létaux
+Title: Dégâts létaux
+LastModified: 2010-06-29 22:57
+---
+
+>>> Pathfinder-RPG.Dégâts non létaux

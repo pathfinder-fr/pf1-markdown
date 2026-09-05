@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.vorpale (propriété)
+Title: vorpale (propriété)
+LastModified: 2025-08-08 22:10
+Categories:
+- Objet mag propriété arme
+- Redirection
+---
+
+>>> Descriptions individuelles des propriétés spéciales des armes#Vorpale

@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Chaudron de linframonde
+Title: Chaudron de l'inframonde
+LastModified: 2024-06-18 17:16
+Categories:
+- Objet mag
+- Objet mag artefact
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Chaudron de l’inframonde|{s:CMy}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 0,5 tonne
+(((Description)))
+Cet énorme chaudron forgé dans du fer noir sert de portail dimensionnel vers un enfer mythique où de puissantes entités viennent pour marchander ou communier avec les mortels mythiques quand ce n’est pas pour les corrompre. Pour activer le chaudron, une créature [mythique](./mythique.md) doit verser un peu de son propre sang dans le bassin noir comme offrande de son [pouvoir mythique](./pouvoir mythique.md). Si la blessure inflige au moins 4 points de dégâts, le chaudron absorbe une utilisation de pouvoir mythique de l’individu à travers elle. Une fois activé, le chaudron se remplit d’une étrange brume rouge qui reste 1d20+10 minutes. Pendant ce laps de temps, les créatures mythiques peuvent entrer dans le chaudron et être transportées jusqu’à un carrefour. Les créatures non-mythiques qui entrent dans le chaudron reçoivent 4d6 points de dégâts par round jusqu’à ce qu’elles en sortent ou meurent.
+
+L’inframonde est une petite zone de 4 kilomètres carré. L’apparence ce ce monde est extrêmement malléable et dépend de la volonté de l’extérieur, quel qu’il soit, qui y patiente. Il ne peut y avoir qu’un seul extérieur à la fois dans l’inframonde. Ses spécificités, ainsi que ses désirs, changent fréquemment et sont donc laissées à l’imagination du [MJ](./MJ.md).
+
+Dans l’inframonde, le temps n’est pas synchronisé avec le Plan matériel : ainsi, une créature [mythique](./mythique.md) peut y rester tant qu’elle le souhaite pour ne ressortir du chaudron que quelques minutes après sa descente. L’inframonde est un carrefour attenant à tous les plans. Les extérieurs peuvent y pénétrer depuis n’importe quel plan mais les mortels ne peuvent pas se rendre sur d’autres plans depuis ce carrefour.
+(((Destruction)))
+Si on utilise le *chaudron de l’inframonde* pour faire bouillir un héros [mythique](./mythique.md) jusqu’à ce que mort s’en suive, le chaudron est détruit.
+</div>

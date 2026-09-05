@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Bois flexible
+Title: Bois flexible
+LastModified: 2020-11-18 21:13
+Categories:
+- Redirection
+---
+
+>>> Matériaux spéciaux#BOISFLEXIBLE

@@ -1,0 +1,86 @@
+---
+Name: Aventures.Aides de jeu AP2
+Title: Aides de Jeu pour La Malédiction du Trône Écarlate
+LastModified: 2022-04-27 01:43
+---
+
+Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP2.md).
+
+<nav class="wiki-toc"></nav>
+
+Vous trouverez [^http://www.cartographersguild.com/finished-maps/22198-curse-crimson-throne-campaign.html#post207848|ici] de nombreuses battlemaps pour jouer les différents volumes de cette campagne.
+
+### Aides de jeu pour Edge of Anarchy/Au bord de l'anarchie
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|COMPAGNON7|Compagnon de route #7|%2fADJ%2fAventures%2fCompagnon7Mini.jpg|%2fADJ%2fAventures%2fCompagnon7.pdf|**(Version 3.5)** Une compilation d'aides de jeu et de traductions pour les MJ jouant Au bord de l'arnarchie (fichier PDF)|Dalvyn|none}</td>
+<td>{s:ADJ|COURSEPOURSUITE|La course poursuite|%2fADJ%2fAventures%2fPoursuiteKMini.jpg|%2fADJ%2fAventures%2fPoursuiteK.jpg|Un plateau de jeu pour jouer la course-poursuite à travers les Tuiles selon les règles présentées dans le Compagnon (fichier JPG)|Dalvyn|none}</td>
+<td>{s:ADJExt|CONVERSION7|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%207.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 7.md))|Feuxfollets|none}</td>
+<td>{s:ADJ|CONVERSION7|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|%2fADJ%2fAventures%2fConversion AP02-01.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|NOTEZEL|Note de Z.|%2fADJ%2fAventures%2fnotezelMini.jpg|%2fADJ%2fAventures%2fnotezel.jpg|La note laissée par Z. lorsqu'elle convoque les PJ (fichier JPG)|lafactrice|none}</td>
+<td>{s:ADJExt|Battlemap 7|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Battlemap%20Pathfinder%207.ashx|Des battlemap pour jouer "Au bord de l'anarchie" sur forum ([page wiki](./Battlemap Pathfinder 7.md))|Lenaingris|none}</td>
+<td>{s:ADJExt|PECHERIE3D|Vue 3d|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Vieille%20p%C3%AAcherie%20en%203D.ashx|Des vues en 3D de la vielle pêcherie ([page wiki](./Vieille pêcherie en 3D.md))|Murt|none}</td>
+<td>{s:ADJExt|CHATEAUKORVOSA3D|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Château Korvosa.ashx|Une vidéo de Château Korvosa lors de la visite des PJs à la Reine([page wiki](./Château Korvosa.md))|Murt|none}</td>
+</tr>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|PECHEBMAP0|Vieille Pêcherie|/ADJ/Aventures/miniPêcherie.jpg|%2fADJ%2fAventures%2fVieille Pêcherie 0.jpg|Battlemap DungeonDraft du rez de la Vieille Pêcherie (fichier JPG)|thetiranide|none}</td>
+<td>{s:ADJ|PECHEBMAP1|Vieille Pêcherie|/ADJ/Aventures/miniPêcherie.jpg|%2fADJ%2fAventures%2fVieille Pêcherie -1.jpg|Battlemap DungeonDraft de l'étage inférieur de la Vieille Pêcherie (fichier JPG)|thetiranide|none}</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+### Aides de jeu pour Seven Days to the Grave/Sept jours pour mourir
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|COMPAGNON8|Compagnon de route #8|%2fADJ%2fAventures%2fCompagnon8Mini.jpg|%2fADJ%2fAventures%2fCompagnon8.pdf|**(Version 1.0)** Une compilation d'aides de jeu et de traductions pour les MJ jouant Sept jours pour mourir (fichier PDF)|Dalvyn & autres|none}</td><td>{s:ADJExt|CONVERSION8|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%208.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 8.md))|Feuxfollets|none}</td>
+<td>{s:ADJ|CONVERSION8|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|%2fADJ%2fAventures%2fConversion AP02-02.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+</tr>
+</table>
+
+
+
+### Aides de jeu pour Escape from Old Korvosa/Il faut fuir !
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJExt|CONVERSION9|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%209.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 9.md))||none}</td>
+<td>{s:ADJ|CONVERSION9|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|%2fADJ%2fAventures%2fConversion AP02-03.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+<td>{s:ADJExt|LABYVIVIFIE|Plans|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Plans%20du%20labyrinthe%20vivifi%C3%A9.ashx|Les plans du Labyrinthe vivifié selon les différentes rotations ([page wiki](./Plans du labyrinthe vivifié.md))|Murt|none}</td>
+</tr>
+</table>
+
+
+
+### Aides de jeu pour A History of Ashes/Histoire de Cendres
+
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|CONVERSION10|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|/ADJ/Aventures/Conversion AP02-04.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+</tr>
+</table>
+
+### Aides de jeu pour Skeletons of Scarwall/Les Squelettes de Balafre
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|CONVERSION11|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|/ADJ/Aventures/Conversion AP02-05.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+<td>{s:ADJExt|Battemap 11|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Battlemap%20Pathfinder%2011.ashx|Des représentations en 3D de château Balafre ([page wiki](./Battlemap Pathfinder 11.md))|Murt|none}</td>
+</tr>
+</table>
+
+
+### Aides de jeu pour Crown of Fangs/La Couronne de Crocs
+{s:ADJStart}
+<tr STYLE="vertical-align: top;">
+<td>{s:ADJ|CONVERSION12|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|/ADJ/Aventures/Conversion AP02-06.pdf|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure (fichier pdf)|Murt|none}</td>
+<td>{s:ADJExt|CHATEAUKORVOSA3D|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Château Korvosa.ashx|Les plans de Château Korvosa([page wiki](./Château Korvosa.md))|Murt|none}</td>
+</table>

@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Sceptre dancrage
+Title: Sceptre d'ancrage
+LastModified: 2024-05-28 18:41
+---
+
+<div class="BD">
+{s:BDTitre|Sceptre d'ancrage|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 5 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 12 000 po; **Poids** 5 kg
+(((Description)))
+Ce sceptre en argent de 1,80 mètres de long est surmonté d’une boule en cuivre d’un côté et d’une pointe en fer à plusieurs dents de l’autre. Trois fois par jour, le personnage peut enfoncer la pointe dans le sable, la boue ou un autre sol meuble par une action de mouvement, dans un sol dense ou dans des graviers par une action simple, ou dans la roche ou d’autres matériaux solides par une action complexe. Une fois ancré, le sceptre émet un champ magnétique qui inhibe toutes les charges électriques dans un rayon de 12 mètres. Toutes les créatures présentes dans la zone gagnent une résistance de 5 à l’électricité et quiconque tente de lancer un sort du registre de l’électricité doit réussir un jet de lanceur de sort (DD 16) ou perdre son sort.
+Pour retirer le sceptre du sol et le désactiver, il faut dépenser le même type d’action que celle qui a servi à l’ancrer.
+(((Création)))
+**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[dissipation de la magie](./Dissipation de la magie.md)*, *[éclair](./Éclair.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* ; **Coût** 6 000 po
+</div>

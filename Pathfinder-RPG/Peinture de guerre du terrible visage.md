@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Peinture de guerre du terrible visage
+Title: Peinture de guerre du terrible visage
+LastModified: 2024-06-07 16:33
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Peinture de guerre du terrible visage|{s:APG}{s:AE}}
+**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 1 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 100 po ; **Poids** —
+(((Description)))
+Ce récipient d’argile de la taille d’un dé à coudre contient assez de pâte humide pour peindre des traits et des volutes de n’importe quelle couleur sur le visage d’une créature. Une fois la peinture de guerre appliquée, le personnage peut lui demander, par une [action rapide](./Action rapide.md), de se disposer en un mélange de couleurs inquiétant qui lui donne momentanément une apparence hideuse et dérangeante. Il choisit une créature située dans les 9 mètres (6 {s:c}) susceptible de voir son visage peint et l’affecte d’un sort de *[frayeur](./Frayeur.md)* ([DD](./DD.md) 11). Une fois la peinture ainsi utilisée, elle perd toute magie et redevient une peinture ordinaire. Une fois la peinture appliquée, le personnage a 24 heures pour utiliser sa magie, après quoi, elle s’évanouit.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[frayeur](./Frayeur.md)* ; **Coût** 50 po
+</div>

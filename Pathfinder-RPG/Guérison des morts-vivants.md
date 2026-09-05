@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Guérison des morts-vivants
+Title: Guérison des morts-vivants
+LastModified: 2024-10-02 16:10
+Categories:
+- Sort magicien 1
+---
+
+{s:MCA}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** contact  
+
+**Cible** une créature morte-vivante touchée (cf. texte)  
+
+**Durée** instantanée  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+
+Quand le personnage touche une créature morte-vivante, il canalise l’énergie négative, qui soigne 1d8 points de dégâts, + 1 point par niveau de lanceur (+5 au maximum). Ce sort n’a aucun effet sur les créatures vivantes, sauf sur celles que l’énergie négative soigne, qui sont elles aussi soignées par ce sort.

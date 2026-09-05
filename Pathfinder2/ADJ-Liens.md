@@ -1,0 +1,33 @@
+---
+Name: Pathfinder2.ADJ-Liens
+Title: Aides de jeu pour Pathfinder 2 (Liens)
+LastModified: 2024-01-14 19:05
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Aides de jeu pour Pathfinder 2</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles](./ADJ.md)
+[Personnages](./ADJ-PJ.md)
+[Pour les MJ](./ADJ-MJ.md)
+[FoundryVTT](./ADJ-FVTT.md)
+[Liens](./ADJ-Liens.md)
+</div>
+</div>
+
+<div class="itemmenu">
+
+{s:ItemPF2|Archives of Nethys|SRD officiel en anglais (également pour Pathfinder 1 et pour Starfinder)|http://2e.aonprd.com/Rules.aspx|https://2e.aonprd.com/Images/NethysLogo.png}
+
+{s:ItemPF2|Easytools|Règles en ligne (aussi [version arbre](https://pf2easy.com/tree/) et [listes de sorts](https://pf2easy.com/spellbook/))|https://pf2easy.com/|/Wiki/public/Upload/ADJ/PF2/pf2easylogo.webp}
+
+{s:ItemPF2|Règles PF2 en VF|Version en ligne des traductions fan made pour Foundry VTT|https://pf2e.pathfinder-fr.org/|/Wiki/public/Upload/Illustrations/Wiki/PF2/LienCheps.webp}
+
+{s:ItemPF2|Pathbuilder 2|[Site](https://pathbuilder2e.com/) de création/gestion des PJ (aussi en version [app mobile](https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en))|https://pathbuilder2e.com/|/Wiki/public/Upload/ADJ/PF2/pathbuilder2.jpg}
+
+{s:ItemPF2|PF2 Tools|Outils pour PF2 : [création/gestion de PJ](http://character.pf2.tools/), [assistant à la création de monstres/PNJ](http://monster.pf2.tools/) et bien d'autres|pf2.tools/|/Wiki/public/Upload/ADJ/PF2/character-pf2-tools.jpg}
+
+</div>

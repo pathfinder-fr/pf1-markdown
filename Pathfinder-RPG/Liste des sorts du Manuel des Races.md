@@ -1,0 +1,98 @@
+---
+Name: Pathfinder-RPG.Liste des sorts du Manuel des Races
+Title: Liste des sorts du Manuel des Races
+LastModified: 2020-08-03 16:00
+---
+
+Page temporaire pour la complétion du glossaire des sorts.
+- ***[Accorder une intuition](./accorder une intuition.md) ([Humain](./Humain.md))*** *(MR)*. Améliore une compétence à laquelle le personnage est déjà formé.
+- ***[Ailes puissantes](./Ailes puissantes.md) ([Strix](./strix (race).md))*** *(MR)*. Améliore les ailes de la cible.
+- ***[Amélioration de piège](./Amélioration de piège.md) ([Kobold](./Kobold (race).md))*** *(MR)*. Renforce un unique piège.
+- ***[Ancre d’ombre](./Ancre dombre.md) ([Wayang](./wayang (race).md))*** *(MR)*. Transforme l'ombre de la cible en une ancre qui bloque ses déplacements.
+- ***[Appel des nixes](./Appel des nixes.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Toutes les créatures dans un rayon de 90 mètres se dirigent vers le lanceur de sort.
+- ***[Barbe de fer](./barbe de fer.md) ([Nain](./Nain.md))*** *(MR)*. Crée une barbe de fer qui protège son porteur et peut être utilisée comme une arme.
+- ***[Bénédiction de chance et de résolution](./bénédiction de chance et de résolution.md) ([Halfelin](./Halfelin.md))*** *(MR)*. La cible résiste mieux à la terreur.
+- ***[Bénédiction de chance et de résolution de groupe](./bénédiction de chance et de résolution de groupe.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Les cibles résistent mieux à la terreur..
+- ***[Bénédiction karmique](./Bénédiction karmique.md) ([Samsaran](./samsaran (race).md))*** *(MR)*. La cible traite l’une des compétences de son choix comme une compétence de classe.
+- ***[Bouclier de pierre](./Bouclier de pierre.md) ([Oréade](./Oréade (race).md))*** *(MR)*. La pierre offre un bonus de +4 à la CA et un bonus de +2 à ses jets de Réflexes.
+- ***[Boule de boue](./Boule de boue.md) ([Gobelin](./Gobelin (race).md))*** *(MR)*. Crée une boule de boue collante qui aveugle une cible.
+- ***[Bricolage alchimique](./Bricolage alchimique.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Le personnage transforme un objet alchimique ou une arme à feu en une autre sorte d'objet alchimique ou une autre arme à feu.
+- ***[Briser les lignes ennemies](./briser les lignes ennemies.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Bonus de distance de charge et lors des manoeuvres de bousculade et renversement.
+- ***[Caméléon](./caméléon.md) ([Elfe](./Elfe.md))*** *(MR)*. Le personnage gagne un bonus de +4 aux tests de Discrétion.
+- ***[Canalisation de vie](./Canalisation de vie.md) ([Dhampir](./Dhampir (race).md))*** *(MR)*. Une créature normalement blessée par la canalisation positive peut temporairement en bénéficier.
+- ***[Chaînes de feu](./Chaînes de feu.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le sort crée une langue de feu qui inflige 1d6 points de dégâts de feu/niveau et une langue de feu secondaire/niveau.
+- ***[Chaleur curative](./Chaleur curative.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux dégâts de feu qu'il peut transformer en énergie curative.
+- ***[Chant du labeur](./chant du labeur.md) ([Nain](./Nain.md))*** *(MR)*. Permet au personnage d’initier une représentation bardique d’inspiration talentueuse.
+- ***[Cierge de mort](./Cierge de mort.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage achève un ennemi pour le transformer en élémentaire de feu.
+- ***[Cœur de l’ennemi](./Cœur-de-lennemi.md) ([Orque](./orque (race).md))*** *(MR)*. Dévore le cœur d'un adversaire sans défense pour gagner en puissance.
+- ***[Communion avec les oiseaux](./Communion avec les oiseaux.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Permet de communiquer avec les oiseaux.
+- ***[Compression](./Compression.md) ([Vishkanya](./vishkanya (race).md))*** *(MR)*. Améliore la flexibilité de la cible, lui permettant de passer dans des espaces étroits plus facilement.
+- ***[Crâne de sentinelle](./Crâne de sentinelle.md) ([Orque](./orque (race).md))*** *(MR)*. Créé une sentinelle macabre à partir de la tête coupée d'un humanoïde ou d'un humanoïde monstrueux.
+- ***[Déchaînement de débris](./Déchaînement de débris.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Anime une zone rocailleuse pour en faire une dangereuse nuée de débris.
+- ***[Double terrifiant](./double terrifiant.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Créé un double menaçant du personnage pour intéragir avec les autres.
+- ***[Éclairs d’obscurité aveuglante](./Éclairs dobscurité aveuglante.md) ([Fetchelin](./Fetchelin (race).md))*** *(MR)*. Créé des éclairs d'énergie négative qui blessent les vivants, soignent les morts-vivants, et qui peuvent aveugler les cibles.
+- ***[Élévation du sol](./élévation du sol.md) ([Nain](./Nain.md))*** *(MR)*. Le sol sous la cible s'élève d'1,5 mètres.
+- ***[Entrave de terre](./Entrave de terre.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Les zones de terre et de pierre sous la cible tentent de l'abattre.
+- ***[Entrave de terre de groupe](./Entrave de terre de groupe.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Comme entrave de terre mais affecte plusieurs cibles.
+- ***[Espace sacré](./Espace sacré.md) ([Aasimar](./Aasimar (race).md))*** *(MR)*. Crée une zone de pouvoir divin contrant les pouvoirs des extérieurs Mauvais.
+- ***[Extraction du demi-sang](./extraction du demi-sang.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Transforme un demi-orque en orque pur sang.
+- ***[Flambée de sang](./Flambée de sang.md) ([Orque](./orque (race).md))*** *(MR)*. Enflamme le sang de ceux qui s'approchent du personnage.
+- ***[Forme cendrée brûlante](./Forme cendrée brûlante.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage se transforme en un tourbillon de cendres.
+- ***[Forme du nuage](./Forme du nuage.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Permet d'adopter la forme d'un nuage colossale.
+- ***[Forme miasmatique](./Forme miasmatique.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Comme état gazeux, mais le corps vaporeux de la cible est dangereux pour les créatures qui le touchent.
+- ***[Fouet de la bouche de l’enfer](./Fouet de la bouche de lenfer.md) ([Tieffelin](./Tieffelin (race).md))*** *(MR)*. Transforme la langue du personnage en un fouet d'énergie.
+- ***[Frappes fébriles](./Frappes fébriles.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Les attaques au corps à corps infligées au personnage rendent ses attaquants fiévreux.
+- ***[Fuite aérienne](./Fuite aérienne.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Le lanceur de sorts réagit à une attaque en devenant brièvement vaporeux et intangible, ce qui permet à l’attaque de le traverser sans le blesser.
+- ***[Fureur solaire](./Fureur solaire.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. La cible maudite endure une chaleur insupportable.
+- ***[Grâce des néréides](./Grâce des néréides.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Confère un bonus de parade à la CA égal au modificateur de Charisme du personnage tant qu'il ne porte pas d'armure.
+- ***[Grâce urbaine](./grâce urbaine.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Le personnage se meut plus facilement dans la foule et entre les bâtiments.
+- ***[Havresombre](./Havresombre.md) ([Fetchelin](./Fetchelin (race).md))*** *(MR)*. Ce sort crée un abri extra-dimensionnel temporaire
+- ***[Implantation de pensées](./Implantation de pensées.md) ([Changelin](./changelin (race).md))*** *(MR)*. Implante des idées dans l'esprit de la cible.
+- ***[Inhalation absorbante](./Inhalation absorbante.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Absorbe un effet gazeux, le conservant sans danger dans le corps du personnage.
+- ***[Jitterbug](./jitterbug.md) ([Gnome](./Gnome.md))*** *(MR)*. Rend la cible nerveuse, lui imposant un malus aux tests de Dextérité, aux tests basés sur la Dextérité, et l'empêchant de retarder une action, d'en préparer ou de se mettre en défense totale.
+- ***[Jumeau de vomi](./Jumeau de vomi.md) ([Gobelin](./Gobelin (race).md))*** *(MR)*. Le lanceur crée un double de lui-même avec lequel il peut échanger sa place.
+- ***[La mort venue d'en bas](./la mort venue den bas.md) ([Gnome](./Gnome.md))*** *(MR)*. La cible obtient un bonus d'esquive à la CA contre les créatures plus grandes qu'elle.
+- ***[Lames de vent](./Lames de vent.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Densifie l'air autour de la cible pour en faire des lames dentées invisibles.
+- ***[Mâchoire féroce](./mâchoire féroce.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Transforme la bouche du personnage en une mâchoire féroce et lui permet de rugir pour démoraliser ses adversaires.
+- ***[Maîtrise des marids](./Maîtrise des marids.md) ([Ondin](./Ondin (race).md))*** *(MR)*. La cible obtient des bonus à l'attaque et aux dégâts quand elle se bat sous l'eau, et des malus quand elle se bat sur terre.
+- ***[Malédiction des ondins](./Malédiction des ondins.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Le corps de la cible perd sa capacité à respirer automatiquement.
+- ***[Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md) ([Humain](./Humain.md))*** *(MR)*. Maudit une créature qui devient alors fiévreuse en permanence et chancelante si elle est proche de l'eau.
+- ***[Nage dans la terre](./Nage dans la terre.md) ([Svirfneblin](./svirfneblin (race).md))*** *(MR)*. Permet à la cible de nager à travers la pierre, la terre, et d'autres terrains.
+- ***[Neuf vies](./Neuf vies.md) ([Homme-félin](./homme-félin (race).md))*** *(MR)*. Annule jusqu'à 9 effets néfastes qui devraient affecter la cible.
+- ***[Nuage de toile](./Nuage de toile.md) ([Drow](./Drow (race).md))*** *(MR)*. Crée un nuage fait de toile d'araignée.
+- ***[Objet fantomatique mineur](./objet fantomatique mineur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme création mineure, mais l'objet créé est une illusion semi-réelle.
+- ***[Objet fantomique majeur](./Objet-fantomique-majeur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme création majeure, mais l'objet créé est une illusion semi-réelle.
+- ***[Onde de feu](./Onde de feu.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage fait jaillir une ligne de feu infligeant 2d6 points de dégâts pendant 1 round par niveau.
+- ***[Parangon soudain](./parangon soudain.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. +2 à la Dextérité et à l'Intelligence, confère un don supplémentaire.
+- ***[Perception du sang](./Perception du sang.md) ([Orque](./orque (race).md))*** *(MR)*. Améliore la capacité de la cible à sentir la présence de sang.
+- ***[Petite sirène](./Petite sirène.md) ([Homme-poisson](./homme-poisson (race).md))*** *(MR)*. Transforme les nageoires, les palmes ou la queue de la cible en une paire de jambes lui permettant de marcher sur la terre ferme.
+- ***[Piste de feu](./Piste de feu.md) ([Gobelin](./Gobelin (race).md))*** *(MR)*. Laisse une traînée de flammes qui suit le personnage à chaque pas.
+- ***[Plumage d'hiver](./Plumage dhiver.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Protège une créature plumée contre le froid pendant une journée.
+- ***[Poing invincible de la terre](./Poing invincible de la terre.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Lance une pierre de la taille d'un poing capacble de canaliser le ki du personnage sur la cible.
+- ***[Poumons d’Aboleth](./Poumons daboleth.md) ([Aquatique](./aquatique (race).md))*** *(MR)*. La cible peut respirer dans l'eau mais plus dans l'air.
+- ***[Projectile de toile](./Projectile de toile.md) ([Drow](./Drow (race).md))*** *(MR)*. Crée une boule de toile capable d'enchevêtrer un adversaire.
+- ***[Protection contre la mort-vivance](./Protection contre la mort-vivance.md) ([Dhampir](./Dhampir (race).md))*** *(MR)*. Confère une immunité contre la transformation en mort-vivant, et limite des effets néfastes de leurs attaques.
+- ***[Protection contre le vol](./Protection contre le vol.md) ([Tengu](./Tengu (race).md))*** *(MR)*. +10 aux tests de Perception pour remarquer quelqu'un qui tente de subtiliser un objet précis.
+- ***[Protégé de la saison](./protégé de la saison.md) ([Elfe](./Elfe.md))*** *(MR)*. Confère des bonus à la cible grâce aux pouvoirs d'une saison.
+- ***[Rayon aveuglant](./Rayon aveuglant.md) ([Dhampir](./Dhampir (race).md))*** *(MR)*. Rayon frappant avec la lumière du soleil, +1 rayon/4 niveaux (max. 3).
+- ***[Rechargement de la magie innée](./rechargement de la magie innée.md) ([Gnome](./Gnome.md))*** *(MR)*. Récupère une utilisation quotidienne d'un pouvoir magique de niveau 0 ou de niveau 1.
+- ***[Régression ancestrale](./Régression ancestrale.md) ([Drow](./Drow (race).md))*** *(MR)*. Transforme un drow en elfe de la surface pour 24h.
+- ***[Reproche déchirant](./Reproche déchirant.md) ([Hobgobelin](./Hobgobelin (race).md))*** *(MR)*. La cible qui attaque le lanceur de sort subi des dégâts non-létaux.
+- ***[Réservoir de résilience](./réservoir de résilience.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Stocke les dégâts subits par le personnage en énergie magique.
+- ***[Retardement des maladies](./Retardement des maladies.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux maladies.
+- ***[Sages murmures](./sages murmures.md) ([Elfe](./Elfe.md))*** *(MR)*. Confère un bonus aux tests de Connaissances selon l'environnement dans lequel le personnage se trouve.
+- ***[Sceau de fuite](./sceau de fuite.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Le personnage peut s'éloigner de créatures plus grandes que lui lorsqu'il esquive leurs attaques.
+- ***[Sentier de la damnation](./Sentier de la damnation.md) ([Tieffelin](./Tieffelin (race).md))*** *(MR)*. Comme porte dimensionnelle, mais une explosion de flamme se manifeste au point de départ du sort.
+- ***[Sommeil de l'amnésique](./sommeil de lamnésique.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Comme sommeil profond, mais n'affecte qu'une seule créature et lui fait perdre ses derners souvenirs.
+- ***[Songe mineur](./songe mineur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme songe, mais délivre un message plus court.
+- ***[Sphère de bourrasques](./Sphère de bourrasques.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Sphère de vent tourbillonante qui roule au sol et souffle les créatures à l'intérieur.
+- ***[Tâche noire](./Tâche noire.md) ([Humain](./Humain.md))*** *(MR)*. Marque la cible qui a alors peur de l'eau et attire la haine des créatures aquatiques.
+- ***[Toucher de combustion](./Toucher de combustion.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage porte une attaque qui inflige 1d6 points de dégâts et qui risque d'enflammer son adversaire.
+- ***[Transe guerrière](./transe guerrière.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Confère la capacité férocité, des points de vies supplémentaires, et un bonus de +4 contre les effets mentaux.
+- ***[Transfert de puissance élémentaire](./Transfert de puissance élémentaire.md) ([Suli](./suli (race).md))*** *(MR)*. Comme transfert de sorts, mais le personnage tranfert sa capacité d'assaut élémentaire à la cible.
+- ***[Vérité](./Vérité.md) ([Aasimar](./Aasimar (race).md))*** *(MR)*. Le lanceur peut communiquer avec toutes les créatures intelligentes.
+- ***[Village voilé](./village voilé.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Rend une lieu sans intérêt à travers les yeux des autres.
+- ***[Voie des vents](./Voie des vents.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Le personnage fait appel à des vents puissants pour dégager un passage devant lui.
+- ***[Voile du paradis](./Voile du paradis.md) ([Aasimar](./Aasimar (race).md))*** *(MR)*. Crée un voile de protection contre les extérieurs Mauvais sur le lanceur.
+- ***[Vol de souffle](./Vol de souffle.md) ([Homme-félin](./homme-félin (race).md))*** *(MR)*. Extrait l'air des poumons d'une créature.
+- ***[Voleuse préhensile](./Voleuse préhensile.md) ([Vanara](./vanara (race).md))*** *(MR)*. Permet à la queue de la cible d'effectuer des manoeuvres de sale coup et de subtilisation.

@@ -1,0 +1,81 @@
+---
+Name: Pathfinder2.ADJ-FVTT
+Title: Aides de jeu pour Pathfinder 2 (Foundry VTT)
+LastModified: 2024-05-31 11:48
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Aides de jeu pour Pathfinder 2</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles](./ADJ.md)
+[Personnages](./ADJ-PJ.md)
+[Pour les MJ](./ADJ-MJ.md)
+[FoundryVTT](./ADJ-FVTT.md)
+[Liens](./ADJ-Liens.md)
+</div>
+</div>
+
+<nav class="wiki-toc"></nav>
+
+### Tutoriels
+
+<div class="itemmenu">
+{s:ItemPF2NoImg|Actualisation des PJ|Tutoriel pour l'actualisation des PJ par Rectulo (Google Doc)|https://docs.google.com/document/d/1F5nxWkZgRvQnHyWUuPtsspW5mao2TR-SDvvWmyf5O7c/edit?usp=sharing}
+
+{s:ItemPF2NoImg|Ascendance personnalisée|Tutoriel pour créer une ascendance ou un héritage personnalisé par Jean-Michel (Fichier PDF)|/Wiki/public/Upload/PF2/FVTT/FVTT11-perso ascendance.pdf}
+
+{s:ItemPF2NoImg|Tuiles aériennes|{s:New}Tutoriel pour placer des tuiles aériennes par Jean-Michel (Fichier PDF)|/Wiki/public/Upload/PF2/FVTT/FVTT11-tuiles aeriennes.pdf}
+</div>
+
+### Boutons inline sur Foundry VTT
+Les boutons "inline" sont des boutons inclus dans un texte. Il peut s'agir d'un journal, de la description d'une capacité de créature/PNJ ou encore de la description d'un objet. La plupart de ces boutons inline peuvent être utilisés de deux manières : soit pour effectuer directement l'action (lancer des dés, placer un gabarit) soit pour afficher dans le chat un bouton que les joueurs pourront cliquer pour effectuer cette action.
+
+<div class="itemmenu">
+{s:ItemPF2|Boutons de jets de dés|Pour créer des boutons permettant de réaliser un jet de dé (dégâts ou autre)|Pathfinder2.FVTT boutons jets.ashx|/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6b.webp}
+
+{s:ItemPF2|Boutons de tests|Pour créer des boutons permettant d'effectuer un test de compétence, un test de Perception, un jet de sauvegarde ou un test nu|Pathfinder2.FVTT boutons tests.ashx|/Wiki/public/Upload/ADJ/PF2/FVTT/bich5a.webp}
+
+{s:ItemPF2|Boutons de gabarit|Pour créer des boutons permettant de placer un gabarit sur le canevas|Pathfinder2.FVTT boutons gabarit.ashx|/Wiki/public/Upload/ADJ/PF2/FVTT/biga1b.webp}
+
+</div>
+
+### Rule Elements sur Foundry VTT (WIP)
+Les "rule elements" permettent de coder certains effets mécaniques qui peuvent être associés à divers types d'éléments Foundry (un don dont l'effet s'applique automatiquement, une arme/armure dont l'effet ne s'applique que quand elle est tenue en main/portée et investie) ou encore sous la forme d'effets qui peuvent être appliqués manuellement (en les faisant glisser sur un jeton ou via la barre de raccourcis).
+
+<div class="itemmenu">
+{s:ItemPF2|Rule Elements (WIP)|Bli bli bli bla bla et l'image n'est pas la bonne|Pathfinder2.RE intro.ashx|/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6b.webp}
+
+</div>
+
+### Macros
+<div class="itemmenu">
+{s:ItemPF2noImg|Journaux consolidés|Une macro pour consolider un dossier de journaux v9 en un seul journal v10 de plusieurs pages|https://pastebin.com/5kGwsZmV}
+
+{s:ItemPF2noImg|Effet visuel de vol|Une macro pour ajouter / enlever à un ou plusieurs tokens un effet visuel simulant le vol ou la lévitation (nécessite le module TokenMagic)|https://pastebin.com/NEWLqjbw}
+
+</div>
+
+Pour intégrer une macro dans Foundry :
+- Créer la macro sous Foundry
+  - Cliquer sur une case libre de la barre de raccourcis.
+  - Dans la fenêtre qui s'ouvre, changer le titre pour la nouvelle macro.
+  - (Éventuellement) changer l'icône pour la macro.
+  - **Important** changer le type de la macro en "script" plutôt que "chat" !!
+- Aller chercher le code de la macro sous Pastebin
+  - Suivre le lien menant vers la page Pastebin pour la macro (en cliquant sur l'image d'une macro).
+  - Une fois sur la page, cliquer sur "raw" en haut à droite pour ne voir que le code de la macro.
+  - Utiliser Ctrl + A pour tout sélectionner, puis Ctrl + C pour tout copier.
+- Finaliser la macro
+  - Sous Foundry, cliquer dans la grande zone en bas de la fenêtre de la macro.
+  - Utiliser Ctrl + V pour y coller tout le code récupéré de Pastebin.
+  - Sauvegarder la macro.
+- La macro est prête à l'emploi, via un clic sur son icône dans la barre de raccourcis.
+
+### Divers
+<div class="itemmenu">
+{s:ItemPF2|Support Papote J-M|Un PDF de notes sur les informations partagées par Jean-Michel lors de la papote Foundry du 23/05/2023, dont la vidéo est disponible sur [Youtube](https://www.youtube.com/@Pathfinder-FR).|/Wiki/public/Upload/ADJ/Foundry/Papote Foundry JM.pdf|/Wiki/public/Upload/ADJ/Foundry/vig Papote JM.webp}
+
+</div>

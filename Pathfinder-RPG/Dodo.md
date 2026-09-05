@@ -1,0 +1,42 @@
+---
+Name: Pathfinder-RPG.Dodo
+Title: Familier, Dodo
+LastModified: 2023-02-24 14:09
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dodo|FP 1/4}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 p. 96*}
+{s:BDTexte|**PX** 100 px}
+{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 11, contact 11, pris au dépourvu 11 (taille +1)}
+{s:BDTexte|**pv** 6 (1d8+2)}
+{s:BDTexte|**Réf** +2, **Vig** +4, **Vol** -1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +1 (1d3-4)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 3, **Dex** 11, **Con** 14, **Int** 2, **Sag** 9, **Cha** 6}
+{s:BDTexte|**BBA** +0, **BMO** -5, **DMD** 5}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +3}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** îles chaudes ou tempérées}
+{s:BDTexte|**Organisation sociale** solitaire, couple, ou pelote (3-6)}
+{s:BDTexte|**Trésor** aucun}
+</div></td>
+<td><div>Les dodos sont des oiseaux terrestres qui occupent généralement
+les îles tropicales isolées et vierges de prédateurs. Leur audace,
+conjuguée à leur maladresse, les pousse à se mettre dans
+des situations où ils deviennent des proies faciles.
+
+Les dodos peuvent servir de [familier](./Familiers.md) aux lanceurs de sort. Un familier dodo offre à son maître un bonus de +4 aux tests d'[initiative](./initiative.md).
+</div></td></tr></table>

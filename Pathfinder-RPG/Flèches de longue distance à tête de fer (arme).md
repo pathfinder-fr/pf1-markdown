@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Flèches de longue distance à tête de fer (arme)
+Title: Flèches de longue distance à tête de fer (20)
+LastModified: 2021-10-04 19:07
+Categories:
+- Arme
+- Src Art de la guerre
+---
+
+{s:UC}**Prix** 1 po ; **Poids** 2 kg
+<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span> ([orientale](./Armes orientales.md))
+---
+Ces flèches ont une utilité tactique : elles servent à lutter de loin contre les troupes ennemies, c’est pourquoi elles se terminent par une tête en fer. Cela les aide à parcourir une grande distance mais les rend moins efficaces au niveau des dégâts. Les flèches de longue distance à tête de fer augmentent le [facteur de portée](./facteur de portée.md) de l’arc de 3 m mais imposent un malus de -1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) par facteur de portée (1 point au minimum). Elles se vendent par 20, dans des carquois en cuir.

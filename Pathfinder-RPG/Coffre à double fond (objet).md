@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Coffre à double fond (objet)
+Title: Coffre à double fond
+LastModified: 2021-10-14 14:41
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 52 po ; **Poids** 12,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ces coffres sont généralement utilisés par les trafiquants transportant des marchandises de contrebande ou les gens qui veulent cacher un trésor. Le compartiment secret fait environ 2,5 centimètres de profondeur. Il en existe différentes sortes qui s'ouvrent de l'intérieur, par le dessous ou par l'arrière. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour repérer le compartiment secret.

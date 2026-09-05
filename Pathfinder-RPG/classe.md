@@ -1,0 +1,7 @@
+---
+Name: Pathfinder-RPG.classe
+Title: classe
+LastModified: 2010-06-20 15:52
+---
+
+>>> Pathfinder-RPG.Classes

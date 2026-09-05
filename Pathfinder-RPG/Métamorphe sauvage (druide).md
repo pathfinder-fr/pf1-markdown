@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Métamorphe sauvage (druide)
+Title: Métamorphe sauvage
+LastModified: 2023-05-28 12:42
+Categories:
+- Archétype
+- Archétype druide
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypedruide}{s:mca}*Un métamorphe sauvage intériorise sa communion et sa maîtrise envers les animaux. Au lieu de nouer un lien avec un compagnon animal ou un aspect de la nature, il modifie sa propre essence ou son être en hommage aux nobles créatures de la nature. Davantage en accord avec la transformation et les corps des animaux qu’un druide classique, un métamorphe sauvage brouille la frontière qui sépare l’humanoïde de l’animal.*
+
+#### Imitation animale (Sur)
+Au niveau 1, un métamorphe sauvage peut, par une [action rapide](./Action rapide.md), bénéficier d’un aspect animal pour gagner un bonus ou un pouvoir spécial en fonction du type d’animal imité. Ceci fonctionne comme l’aptitude de classe [imitation animale](./Chasseur.md#IMITATIONANIMALE) du [Chasseur](./Chasseur.md). Chaque jour, le métamorphe sauvage peut utiliser cette aptitude pendant un nombre de minutes égal à son niveau de druide. Cette durée n’est pas nécessairement consécutive, mais doit être dépensée par fractions d’une minute au minimum. Il peut imiter un seul animal à la fois. Cette aptitude remplace pacte avec la nature.
+
+#### Deuxième imitation animale (Sur)
+Au niveau 9, quand un métamorphe sauvage utilise son aptitude d’imitation animale, il choisit deux aspects animaux différents au lieu d’un seul. Cette aptitude remplace immunité aux venins, mille visages et éternelle jeunesse.

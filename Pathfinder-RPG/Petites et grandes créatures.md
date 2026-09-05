@@ -1,0 +1,71 @@
+---
+Name: Pathfinder-RPG.Petites et grandes créatures
+Title: Créatures de taille inférieure ou supérieure à la moyenne
+LastModified: 2024-08-27 21:47
+Categories:
+- Combat
+---
+
+{s:MenuCombat}Des règles spéciales s’appliquent aux créatures d’une taille supérieure à la [taille M](./taille M.md) ou inférieure à la [taille P](./taille P.md).
+
+{s:Reference|TAILLETPMINI}
+### Créatures de taille TP, Min et I.
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#20) Créatures de taille TP et inférieures : Dans la section Créatures de taille TP et inférieures, il est dit qu’entrer dans l’espace occupé d’une créature provoque une attaque d’opportunité, mais en général les pas de placement n’en provoquent pas. Si une créature de taille TP ou moins fait un pas de placement dans l’espace occupé d’une créature, est-ce qu’elle provoquerait une attaque d’opportunité ?***
+
+Oui. Même avec un [pas de placement](./Pas de placement.md), une <u>[créature de taille TP ou moins](./Petites et grandes créatures.md#TAILLETPMINI)</u> qui entre dans l’espace occupé d’une créature provoque une attaque d’opportunité (sauf si elle utilise une capacité spécifique pour éviter l’attaque d’opportunité comme le don [Éclat du singe](./Éclat du singe.md)). Cela ne veut pas dire qu’une créature de taille TP ou moins qui entre dans l’espace occupé d’une créature et se déplace hors d’une case contrôlée par une action de mouvement provoquent deux attaques d’opportunité de la part de cette créature, pour la même raison que se déplacer hors de plusieurs cases contrôlées par une créature dans la même action de mouvement ne provoque pas deux attaques d’opportunité.
+---
+***[→](./FAQ- Bestiaire.md#13) Créatures TP, Escalade et Natation : Les créatures TP devraient-elles utiliser la Dex plutôt que la For aux tests d'Escalade et de Natation, ou est-ce réservé aux familiers ?***
+
+Toute <u>[créatures de taille TP ou inférieure](./Petites et grandes créatures.md#TAILLETPMINI)</u> devrait utiliser son modificateur de Dex plutôt que son modificateur de For aux tests d'[Escalade](./Escalade.md) et de [Natation](./Natation.md). Cela sera ajouté au *Bestiaire 4* sous la forme d’une nouvelle règle de monstre universelle.}Les créatures de taille très réduite occupent moins d’une case. Cela signifie que plusieurs d’entre elles peuvent tenir dans la même case. Une créature de taille TP occupe un espace de 75 cm de côté, quatre d’entre elles peuvent donc occuper une même case. Vingt-cinq créatures de taille Min ou cent de taille I peuvent se tenir sur une même case.
+
+Les créatures qui occupent un espace inférieur à une case ont généralement une allonge naturelle de 0 mètre et ne peuvent atteindre un ennemi qui se trouve sur une case adjacente. Pour se battre, elles doivent impérativement pénétrer dans l’espace occupé par leur adversaire, ce qui les expose automatiquement à une [attaque d’opportunité](./attaque dopportunité.md) de sa part.
+
+Un personnage peut attaquer ces créatures si besoin et peut donc les attaquer normalement. Comme ces créatures n’ont pas d'allonge naturelle, elles ne contrôlent pas les cases adjacentes. Un personnage peut donc passer à côté d’elles sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md). Ces créatures sont incapables de [prendre un ennemi en tenaille](./prise en tenaille.md).
+
+{s:Reference|TAILLEGTGGIGC}
+### Créatures de taille G, TG, Gig et C.
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#16) Augmentations d’allonge et de taille : La description des créatures de taille G et plus avec des armes à allonge indique qu’elles peuvent frapper jusqu’au double de leur allonge naturelle mais ne peuvent pas frapper dans leur allonge naturelle ou plus proche. Comment calculer ce doublement avant ou après les effets qui modifient mon allonge comme Fente ou *bras long* ?***
+
+Doublez l’allonge de base pour une <u>[créature](./Petites et grandes créatures.md#TAILLEGTGGIGC)</u> de la taille du personnage, puis ajoutez toutes les autres capacités. Donc par exemple, un [ogre](./Ogre.md) avec un sort de *[bras long](./Bras long.md)* qui manie une [pique](./pique (arme).md) et qui utilise le don [Fente](./Fente.md) serait capable d’attaquer les créatures distantes de 4,5m, 6m, 7,5m, ou 9m mais pas les créatures distantes de 0m, 1,5m, ou 3m.}Les créatures de taille très supérieure à la moyenne occupent plusieurs cases.
+
+Les créatures qui occupent plus d’une case ont généralement une allonge naturelle de 3 m ou plus, ce qui signifie qu’elles peuvent atteindre des ennemis qui ne sont pas adjacents.
+
+Contrairement à une personne qui utilise une arme à allonge, une créature bénéficiant d’une allonge naturelle supérieure à 1,50 m menacent aussi les cases adjacentes. Une créature qui dispose d’une allonge naturelle supérieure à la normale bénéficie habituellement d’une [attaque d’opportunité](./attaque dopportunité.md) contre les personnages qui essayent de l’approcher car ils doivent pénétrer dans l’espace qu’elle contrôle et s’y déplacer avant de pouvoir l’attaquer. En revanche, si le personnage fait un [pas de placement](./Pas de placement.md) de 1,50 mètre, il ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+
+Les créatures de taille G ou plus qui utilisent une arme à allonge peuvent attaquer des adversaires situés à une distance égale au double de leur allonge naturelle, en revanche, elles ne peuvent pas frapper quelqu’un se trouvant à une distance égale ou inférieure à leur allonge naturelle.
+
+{s:Reference|TABLEAUTAILLES}
+{s:Desambi|Voir aussi le [tableau des modificateurs de taille à la CA](./Valeurs de combat.md#TABMODTAILLE).}
+{| CLASS="tablo centre autoalt"
+|+ Taille des créatures et échelle
+|- CLASS="titre"
+| Taille de créature || Espace occupé* || Allonge*
+|- CLASS="premier"
+| Infime (I) || 15 cm || 0
+|-
+| Minuscule (Min) || 30 cm || 0
+|-
+| Très petite (TP) || 75 cm || 0
+|-
+| Petite (P) || 1,50 m || 1,50 m
+|-
+| Moyenne (M) || 1,50 m || 1,50 m
+|-
+| Grande (G) (haute) || 3 m || 3 m
+|-
+| Grande (G) (longue) || 3 m || 1,50 m
+|-
+| Très grande (TG) (haute) || 4,50 m || 4,50 m
+|-
+| Très grande (TG) (longue) || 4,50 m || 3 m
+|-
+| Gigantesque (Gig) (haute) || 6 m || 6 m
+|-
+| Gigantesque (Gig) (longue) || 6 m || 4,50 m
+|-
+| Colossale (C) (haute) || 9 m || 9 m
+|-
+| Colossale (C) (longue) || 9 m || 6 m
+|-
+| CLASS="note" COLSPAN="3" | *(*) Ce sont les valeurs types pour des créatures de la taille indiquée. Des exceptions sont possibles.*
+|}

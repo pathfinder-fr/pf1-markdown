@@ -1,0 +1,106 @@
+---
+{}
+---
+
+<style>
+td.Non {
+background-color: #f3efe2;
+}
+td.Oui {
+background-color: #ffc;
+}
+td.Oui, td.Non {
+text-align:center; padding: 1px; border: 1px solid #c7b9b3;
+}
+table.descdivinité tr {
+vertical-align: top;
+}
+table.descdivinité tr:first-child {
+padding: 0 4px 0 0;
+}
+</style><script>
+$(function () {
+let image = "?3?";
+if(image == "" || image == " ") { $('#symbole').html("<i>Aucun symbole connu</i>"); }
+if(image.indexOf("png") == -1) { $('#symbole').html("<i>?3?</i>"); }
+
+let align = "?5?";
+if(align == "Loyal Bon") { highlight("LB"); highlight("NB"); highlight("LN"); };
+if(align == "Loyal Neutre") { highlight("LB"); highlight("LN"); highlight("N"); highlight("LM"); };
+if(align == "Loyal Mauvais") { highlight("LN"); highlight("LM"); highlight("NM"); };
+if(align == "Neutre Bon") { highlight("LB"); highlight("NB"); highlight("CB"); highlight("N"); };
+if(align == "Neutre") { highlight("NB"); highlight("LN"); highlight("N"); highlight("CN"); highlight("NM"); };
+if(align == "Neutre Mauvais") { highlight("N"); highlight("LM"); highlight("NM"); highlight("CM"); };
+if(align == "Chaotique Bon") { highlight("NB"); highlight("CB"); highlight("CN"); };
+if(align == "Chaotique Neutre") { highlight("CB"); highlight("N"); highlight("CN"); highlight("CM"); };
+if(align == "Chaotique Mauvais") { highlight("CN"); highlight("NM"); highlight("CM"); };
+});
+
+function highlight(value) {
+let abbr = value;
+$('#' + abbr).removeClass("Non").addClass("Oui");
+};
+</script><div style="float: right; background-color: #fff; padding: 0 0 6px 12px; width: 260px; max-width:260px">
+<div style="padding: 4px; border: 1px solid #4b3124">
+<table style="background-color: #f3efe2; width: 100%;">
+<tr><td style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 12pt; padding: 2pt; width: 100%">?2?</td></tr>
+<tr><td id="symbole" style="text-align: center"><IMG WIDTH="80%" SRC="/wiki/public/upload/?3?" STYLE="padding: 5px 0 5px 0;" /></td></tr>
+<tr><td style="background-color: #4b3124; padding: 1px"></td></tr>
+<tr><td style="padding: 2px 4px 2px 4px">
+<table class="descdivinité" STYLE="text-align: left; font-size: 90%; width: 100%">
+<tr><td><b>Panthéon</b></td>
+<td>?4?</td>
+</tr>
+<tr><td><b>Alignement</b></td>
+<td>?5?</td>
+</tr>
+<tr><td><b>Alignements de prêtre</b></td>
+<td>
+<div style="background-color: #fff">
+<div style="border: 1px solid #4b3124">
+<table style="width: 100%;">
+<tr>
+<td id="LB" class="Non">[LB](./../Pathfinder-RPG/LB.md)</td>
+<td id="NB" class="Non">[NB](./../Pathfinder-RPG/NB.md)</td>
+<td id="CB" class="Non">[CB](./../Pathfinder-RPG/CB.md)</td>
+<tr>
+<tr>
+<td id="LN" class="Non">[LN](./../Pathfinder-RPG/LN.md)</td>
+<td id="N" class="Non">[N](./../Pathfinder-RPG/N.md)</td>
+<td id="CN" class="Non">[CN](./../Pathfinder-RPG/CN.md)</td>
+<tr>
+<tr>
+<td id="LM" class="Non">[LM](./../Pathfinder-RPG/LM.md)</td>
+<td id="NM" class="Non">[NM](./../Pathfinder-RPG/NM.md)</td>
+<td id="CM" class="Non">[CM](./../Pathfinder-RPG/CM.md)</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr><td><b>Thèmes</b></td>
+<td>?6?</td>
+</tr>
+<tr><td><b>Suivants</b></td>
+<td>?7?</td>
+</tr>
+<tr><td><b>Animal sacré</b></td>
+<td>?8?</td>
+</tr>
+<tr><td><b>Arme de prédilection</b></td>
+<td>?9?</td>
+</tr>
+<tr><td><b>Domaines</b></td>
+<td>?10?</td>
+</tr>
+<tr><td><b>Sous-domaines</b></td>
+<td>?11?</td>
+</tr>
+<tr><td><b>Inquisitions</b></td>
+<td>?12?</td>
+</tr>
+</table></td></tr>
+<tr style="vertical-align: top"><td style="background-color: #4b3124; padding: 1px"></td></tr>
+<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [Profil contextuel de la divinité](./Golarion-?1?.md)</td></tr>
+</table></div></div>

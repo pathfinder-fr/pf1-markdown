@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Masque de la Méduse
+Title: Masque de la méduse
+LastModified: 2024-05-29 20:08
+---
+
+<div class="BD">
+{s:BDTitre|Masque de la méduse|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 11  ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 10 000 po ; **Poids** 0,5 kg
+(((Description)))
+Ce masque ouvragé est en acier plaqué d’or. Des queues de serpent ondulées irradient d’une gemme placée au milieu du front, comme la chevelure d’une méduse. Le masque confère un bonus de +4 aux [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE) contre les effets visuels, y compris les attaques de regard et les illusions visuelles. Une fois par jour et par une [action simple](./Action simple.md), le porteur peut faire naître une lueur vert pâle dans la pierre précieuse. Cette lumière vient alors frapper une créature située à 9 mètres ou moins. Celle-ci doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 pour ne pas être [pétrifiée](./États préjudiciables.md#Pétrifié) pendant 1 minute, comme si elle était sous l’effet du sort *[pétrification](./Pétrification.md)*.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[pétrification](./Pétrification.md)*, *[résistance](./résistance.md)* ; **Coût** 5 000 po
+</div>

@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Vigueur surhumaine
+Title: Vigueur surhumaine
+LastModified: 2021-04-30 20:46
+Categories:
+- Don
+---
+
+*Le personnage est plus résistant aux poisons, aux maladies et autres effets néfastes.*
+
+**Avantage.** Le personnage bénéficie d’un bonus de +2 à tous ses jets de [Vigueur](./Vigueur.md).
+
+{s:CMy}
+### Version mythique
+*La vigueur du personnage est sans pareil.*
+
+**Condition.** Vigueur surhumaine
+
+**Avantage.** Chaque fois que le personnage effectue un jet de [Vigueur](./Vigueur.md) contre un sort, un pouvoir magique ou un pouvoir surnaturel produit par une source [non-mythique](./non-mythique.md), il lance deux fois le dé et conserve le meilleur résultat.

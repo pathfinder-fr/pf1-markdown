@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Héraut du cor (Scalde)
+Title: Héraut du cor
+LastModified: 2023-05-28 19:21
+Categories:
+- Archétype
+- Archétype scalde
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypescalde}{s:mca}''Même les voix les plus puissantes sont souvent couvertes par le vacarme des combats. Que ce soit avec la trompette
+de métal lustré d’une armée de métier ou la corne d’un animal, brute et incurvée, appartenant à des pillards sauvages,
+un héraut du cor produit son chant de rage à grands coups sonores et tonitruants aussi susceptibles de renforcer ses alliés ou que de détruire les remparts d’un château.''
+
+#### Pacte magique (Ext)
+Au niveau 1, un héraut du cor forme un lien puissant avec un cor (instrument de musique). Ceci fonctionne comme le [pacte magique](./pacte magique.md) avec un objet d’un ensorceleur doté du [lignage profane](./lignage Profane.md). À l’identique d’une arme, d’une baguette ou d’un bâton, le héraut doit tenir le cor en main quand il lance des sorts de scalde. Cette aptitude remplace Écriture de parchemins.
+
+#### Riposte vibrante (Sur)
+Au niveau 5, un héraut du cor peut utiliser son chant de rage pour libérer ses alliés d’effets d’enchantement et de terreur. Quand il entame un chant de rage, il peut dépenser 4 rounds de cette aptitude pour conférer à tous les alliés situés à 18 mètres (12 {s:c}) ou moins un nouveau [jet de sauvegarde](./jet de sauvegarde.md) contre un effet d’enchantement ou de terreur en cours. Les alliés gagnent un bonus de +2 sur ce nouveau jet de sauvegarde. Cette aptitude remplace la première utilisation quotidienne de compréhension des sorts obtenue au niveau 5.
+
+#### Son de la corne (Sur)
+Au niveau 7, le cor du héraut améliore ses sorts basés sur le son. Si un sort de scalde appartenant au registre du son est lancé à l’aide du cor, son [DD](./DD.md) augmente de 1. Ces [DD](./DD.md) augmentent de 1 point supplémentaire aux niveaux 13 et 19. Cette aptitude remplace maître du savoir.
+
+#### Explosion sonore dévastatrice (Sur)
+Au niveau 11, un héraut du cor peut utiliser son instrument pour produire une onde de choc d’énergie dévastatrice. Une fois par jour, il peut jouer une note avec le cor qui fonctionne comme un [cor de dévastation](./Cor de dévastation.md) (DD = 10 + 1/2 niveau du héraut du cor + son modificateur de [Charisme](./Charisme.md)).
+
+Au niveau 17, le héraut du cor peut utiliser cette aptitude deux fois par jour et elle fonctionne comme un cor de dévastation supérieure. À la différence d’un véritable cor de dévastation, il n’y a aucun risque de détruire le cor en utilisant cette aptitude. Cette aptitude remplace les deuxièmes et troisièmes utilisations quotidiennes de compréhension des sorts obtenues aux niveaux 11 et 17.
+
+#### Pouvoirs de rage
+Les pouvoirs de rage suivants viennent compléter l’archétype de héraut du cor : [absorption d’énergie](./Pouvoirs de rage.md#ABSORPTIONENERGIE), [éruption d’énergie](./Pouvoirs de rage.md#ERUPTIONDENERGIE), [Fracassement](./Pouvoirs de rage.md#FRACASSEMENT) et [Pas rapides](./Pouvoirs de rage.md#PASRAPIDES), [percussion](./Pouvoirs de rage.md#PERCUSSION), [rage sans peur](./Pouvoirs de rage.md#RAGESANSPEUR), [repousser l'ennemi](./Pouvoirs de rage.md#REPOUSSERLENNEMI), [rugissement de guerre](./Pouvoirs de rage.md#RUGISSEMENTDEGUERRE)

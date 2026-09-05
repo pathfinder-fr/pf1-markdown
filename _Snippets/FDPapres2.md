@@ -1,0 +1,7 @@
+---
+{}
+---
+
+$("#fdp_wiki_div").attr("src","/Wiki/public/Upload/Battlemaps/FDPMain.html");
+</script>
+</nowiki>

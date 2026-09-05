@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Amulette des plans
+Title: Amulette des plans
+LastModified: 2024-05-31 22:56
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Amulette des plans|}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 15 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 120 000 po ; **Poids** —
+(((Description)))
+Cet objet particulier adopte le plus souvent la forme d’une amulette noire et circulaire, même si quiconque la regarde ne voit généralement qu’une tache de couleur sombre et mouvante. Elle permet de lancer le sort *[changement de plan](./Changement de plan.md)*, mais s’avère particulièrement difficile à maîtriser. Le personnage doit réussir un test d’[Intelligence](./Intelligence.md) ([DD](./DD.md) 15) pour que l’amulette l’amène sur le plan choisi (et à l’endroit voulu sur ce plan). En cas d’échec, le trajet s’effectue bel et bien, mais la destination de l’aventurier et de ceux qui l’accompagnent se retrouve déterminée aléatoirement. Lancez 1d100. Sur un résultat de 01–60, les voyageurs se retrouvent dans le plan voulu, mais à un autre endroit, déterminé aléatoirement, tandis que sur un résultat de 61–100, c’est le plan d’arrivée lui-même qui est laissé au hasard.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[changement de plan](./Changement de plan.md)* ; **Coût** 60 000 po
+</div>

@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Lignage Abyssal (sanguin)
+Title: Lignage Abyssal
+LastModified: 2025-02-11 18:45
+Categories:
+- Classe
+- Lignage
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menulignagessanguin}{s:mca}*Il y a des générations, un démon a infecté la lignée du personnage. Son influence ne se manifeste pas dans toute sa famille mais quand il est enragé, il incarne sa présence terrifiante.*
+
+**Dons supplémentaires.** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Force intimidante](./Force intimidante.md), [Robustesse](./Robustesse.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction d’arme](./Science de la destruction.md), [Vigueur surhumaine](./Vigueur surhumaine.md).
+
+
+**Sorts supplémentaires.** *[Rayon affaiblissant](./Rayon affaiblissant.md)* (7), *[force de taureau](./Force de taureau.md)* (10), *[rage](./Rage.md)* (13), *[peau de pierre](./Peau de pierre.md)* (16).
+
+### Pouvoirs de lignage
+Le pouvoir des Abysses court dans les veines du personnage et provoque d’horribles transformations lors de sa [rage sanguine](./Sanguin.md#RAGESANGUINE).
+
+**Griffes (Sur).** À partir du niveau 1, le personnage a des griffes qui poussent dès qu’il devient enragé. Elles fonctionnent comme des [armes naturelles](./armes naturelles.md) qui lui permettent de faire deux attaques de griffe lors d’une [attaque à outrance](./attaque à outrance.md), avec son [bonus de base à l’attaque](./BBA.md) maximal. Ces attaques infligent 1d6 points de dégâts (1d4 si le personnage est de taille P) plus le modificateur de [Force](./Force.md) du sanguin. Dès le niveau 4, ces griffes sont considérées comme des armes magiques vis-à-vis des [réductions de dégâts](./RD.md). À partir du niveau 8, les dégâts passent à 1d8 (1d6 pour un personnage de taille P). Au niveau 12, les griffes deviennent des armes de *[feu](./feu (propriété).md)* qui infligent 1d6 points de dégâts de feu en plus à chaque fois qu’elles touchent.
+
+**Taille démoniaque (Sur).** À partir du niveau 4, quand le personnage entre dans une rage sanguine, il peut grossir et devenir d’une catégorie de taille de plus que d’habitude (comme avec *[agrandissement](./Agrandissement.md)*) même s’il n’est pas humanoïde.
+
+**Résistances démoniaques (Sur).** Au niveau 8, le personnage gagne une [résistance](./Résistance (capacité).md) de 5 contre l’acide, le feu et le froid. À partir du niveau 16, ces résistances passent à 10.
+
+**Rage sanguine abyssale (Sur).** Au niveau 12, le bonus de moral à la [Force](./Force.md) de la rage sanguine augmente de 2 mais le malus à la [CA](./CA.md) passe à –4 au lieu de –2. Au niveau 16, le bonus passe à 4 et au niveau 20 à 6.
+
+**Aura démoniaque (Sur).** Au niveau 16, quand le personnage entre en rage sanguine, il peut exsuder une aura de feu. C’est un rayonnement de 1,50 mètre de rayon centré sur lui qui inflige 2d6 + son modificateur de [Constitution](./Constitution.md) points de dégâts de feu aux créatures qui terminent leur tour dans la zone d’effet.
+
+**Immunités démoniaques (Sur).** Au niveau 20, le personnage est [immunisé](./Immunité (capacité).md) contre l’électricité et le poison. Il bénéficie en permanence de ce pouvoir, pas seulement quand il entre en rage sanguine.

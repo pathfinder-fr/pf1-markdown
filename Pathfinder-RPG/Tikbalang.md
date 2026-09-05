@@ -1,0 +1,106 @@
+---
+Name: Pathfinder-RPG.Tikbalang
+Title: Tikbalang
+LastModified: 2020-09-17 00:27
+Categories:
+- Monstre
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tikbalang|FP 9}
+{s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tropical}
+{s:BDTexte|*Source : Bestiaire 4* p.271}
+{s:BDTexte|**PX** 6 400}
+{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([métamorphe](./sous-type métamorphe.md)) de taille G, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m, [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +18}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 22, contact 13, pris au dépourvu 18 (Dex +3, esquive +1, naturelle +9, taille -1)}
+{s:BDTexte|**pv** 114 (12d10+48)}
+{s:BDTexte|**Réf** +11, **Vig** +10, **Vol** +11}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +18 (2d4+7/19-20) et 2 sabots, +13 (1d8+10)}
+{s:BDTexte|**Distance** 4 épines, +14 (1d6+8)}
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
+{s:BDTexte|**Attaques spéciales** bond, épines, piétinement (1d8+10, DD 23)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 12<sup>e</sup> ; concentration +16)}
+{s:BDSorts|Constant — *[pattes d’araignée](./Pattes daraignée.md)*}
+{s:BDSorts|A volonté — *[invisibilité](./Invisibilité.md)*, *[ventriloquie](./Ventriloquie.md)* (DD 15)}
+{s:BDSorts|3/jour — *[image accomplie](./Image accomplie.md)* (DD 17)}
+{s:BDSorts|1/jour — *[mirage](./mirage.md)* (DD 19), *[vol](./Vol.md)* (sur lui uniquement)}
+{s:BDSorts|1/semaine — *[dédale](./Dédale.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** 11, **Sag** 16, **Cha** 19}
+{s:BDTexte|**BBA** +12, **BMO** +20, **DMD** 34}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md)}
+{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +20, [Déguisement](./Déguisement.md) +6, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +18, [psychologie](./Psychologie.md) +9, [Survie](./Survie.md) +12}
+{s:BDTexte|**Langues** commun, sylvestre}
+{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humanoïde de taille P
+ou M, *[modification d'apparence](./Modification dapparence.md)*), coups puissants (sabots), imitation de sons (sons et voix)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** jungles ou forêts chaudes}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-5)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|POUVOIRS SPÉCIAUX}
+{s:BDTexte|**Épines (Ext).** Par une action simple, un tikbalang peut
+propulser quatre épines depuis sa crinière. Chacune
+inflige 1d6 points de dégâts plus son bonus de Force.
+Cette attaque possède une portée de 36 mètres
+sans facteur de portée. Toutes les cibles doivent se
+situer à 9 mètres ou moins les unes des autres. Un
+tikbalang peut propulser un maximum de 24 épines sur une période de
+24 heures.}
+</div>
+</td><td><div> ''Cette monstruosité associe les caractéristiques physiques d’un cheval
+et d’un humain, avec des naseaux équins, des crocs acérés et de longs
+membres supérieurs se terminant par des doigts griffus.''
+
+Dangereux protecteurs des forêts touffues et des jungles luxuriantes,
+les tikbalangs sont des créatures malveillantes qui aiment
+détourner les voyageurs de leur itinéraire. Ils imitent certains sons
+pour inciter les explorateurs à s’écarter de leur trajet, ou même
+pour séparer un unique voyageur du reste de son groupe et le kidnapper.
+Ils utilisent leurs pouvoirs magiques pour plonger dans la
+confusion les créatures qui traversent la forêt, en créant des illusions
+sur l’itinéraire emprunté pour dissimuler des bifurcations
+importantes ou pour conférer à la jungle dans son ensemble une
+apparence peu familière.
+
+Parfois, un tikbalang traque les intrus et les espionne à distance
+ou depuis la canopée pour obtenir le plus d’informations possibles.
+Il utilise ensuite son pouvoir de changement de forme pour prendre
+l’apparence d’un individu connu de sa cible (un autre membre
+du groupe, par exemple) et incite cette personne à s’enfoncer dans
+les bois pour qu’elle s’y perde. Une fois la victime hors de portée auditive
+de ses compagnons, le tikbalang l’emporte dans les branches
+d’un grand arbre, le ligote avec des lianes et remplit sa bouche
+de feuilles et de mousse pour étouffer ses cris. Le tikbalang peut
+ensuite dévorer son prisonnier, proposer de le libérer si les intrus
+quittent les lieux ou laisser son cadavre sur place en guise de macabre
+avertissement pour les éventuels voyageurs.
+
+Les tikbalangs sont de sinistres créatures toujours à la recherche
+d’un moyen pour mener les explorateurs à
+leur perte, mais il est possible de les acheter ou
+de les calmer pour obtenir un droit de passage
+sans embûche, en leur proposant
+des offrandes ou en accomplissant
+d’étranges actes, comme de
+psalmodier un chant,
+de porter sa tunique
+à l’envers ou de lui
+donner du pain
+et du miel.
+Les souhaits
+précis des tikbalangs
+changent
+tous les
+jours et jamais
+ils n’expliquent
+en quoi ceux-ci
+consistent.  
+
+
+</div></td></tr></table>

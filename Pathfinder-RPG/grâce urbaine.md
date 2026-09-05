@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.grâce urbaine
+Title: Grâce urbaine
+LastModified: 2022-06-14 14:28
+Categories:
+- Règle officielle
+- Sort
+- Sort alchimiste 1
+- Sort barde 1
+- Sort magicien 1
+- Sort rôdeur 1
+- Sort sorcière 1
+- Src Manuel des races
+---
+
+{s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}{s:MR}
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Rôd](./Rôdeur.md) 1, [Sor](./Sorcière.md) 1  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [personnelle](./personnelle.md)  
+
+**Cible** lanceur de sort  
+
+**Durée** 1 minute/[niveau](./niveau.md)  
+
+
+Le personnage ne fait plus qu’un avec la ville qui l’entoure, ce qui lui permet de se déplacer plus facilement dans la foule et entre les bâtiments. Pendant toute la durée du sort, sa vitesse de déplacement de base augmente de 3 mètres. De plus, il n’a pas besoin de dépenser 2 cases de mouvement pour entrer dans une case occupée par la foule, bien que cette dernière lui donne toujours un abri. Ce pouvoir ne lui permet pas d’entrer dans une case occupée par un adversaire sans faire de test d’[Acrobaties](./Acrobaties.md). De plus, le personnage reçoit un bonus de circonstances de +4 aux tests d’Acrobaties pour se déplacer sur une surface urbaine irrégulière comme un toit, des pavés cassés, etc. et aux tests d’[Escalade](./Escalade.md) pour gravir un mur ou une surface artificielle. Quand le personnage fait un test d’Acrobaties pour faire un saut en longueur entre deux bâtiments ou deux structures artificielles, on considère toujours qu’il a fait une course d’élan, quelle que soit la distance qu’il a réellement couverte.

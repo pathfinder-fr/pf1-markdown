@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Frappe miroir
+Title: Frappe miroir
+LastModified: 2022-06-14 00:08
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 1
+- Sort magus 1
+- Sort psychiste 1
+- Sort sanguin 1
+- Src Art de la guerre
+---
+
+{s:UC}
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, F](./composantes.md) (un éclat de miroir)  
+
+**Portée** personnelle  
+
+**Cible** lanceur de sorts  
+
+**Durée** voir texte  
+
+
+Le personnage altère brièvement le cours du temps pour scinder une attaque de corps à corps en deux attaques. Avant la fin de son prochain tour, il fait une attaque au corps à corps, il compare le résultat avec la [CA](./CA.md) de deux adversaires à portée. Si ces deux adversaires prennent le personnage [en tenaille](./prise en tenaille.md), celui-ci gagne un bonus de +2 aux jets d’attaque (et aux jets de confirmation de [coup critique](./coup critique.md), voir plus bas). S’il touche les deux, il inflige la moitié des dégâts à chacun. S’il n’en touche qu’un, il lui inflige les dégâts d’attaque normaux. En cas de [coup critique](./coup critique.md), il peut se contenter d’un jet d’attaque pour confirmer le critique contre les deux adversaires. S’il confirme le critique sur les deux, il inflige à chacun la moitié des dégâts du [coup critique](./coup critique.md). S’il confirme le critique contre un seul adversaire, le coup est juste un coup normal. Le sort expire si le personnage ne l’a pas utilisé avant la fin de son prochain tour.

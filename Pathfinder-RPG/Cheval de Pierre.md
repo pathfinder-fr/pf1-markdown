@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Cheval de Pierre
+Title: Cheval de pierre
+LastModified: 2024-06-15 15:23
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cheval de pierre|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 14 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 10 000 po (coursier), 14 800 po (destrier) ; **Poids** 3 000 kg
+(((Description)))
+Cette sculpture de cheval plutôt grossière est taillée dans un bloc de pierre solide. Un mot de commande donne vie à la statue qui est alors capable de porter des charges et même d’attaquer comme le ferait un véritable cheval du type approprié. Un cheval de pierre est entraîné au combat. Cette monture peut porter 500 kg sans problème et n’a jamais besoin de manger ou de se reposer. Les dégâts qu’elle subit se réparent quand on la nourrit avec des pierres précieuses (1 point de vie soigné par tranche de 50 po de pierres précieuses avalées) ou en lançant un sort de *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)*, puis en utilisant des sorts de soins jusqu’à ce que la totalité des points soient soignés, auquel cas la monture reprend sa forme de pierre. Il existe deux types de chevaux de pierre :
+
+**Coursier.** cet objet possède le profil d’un [cheval léger](./Cheval.md) doté d’une solidité de 10.
+
+**Destrier.** cet objet possède le profil d’un [cheval lourd](./Cheval.md) doté d’une solidité de 10.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*, [transmutation](./Présentation des sorts.md#TRANSMUTATION) de la chair en pierre ; **Coût** 5 000 po (coursier), 7 400 po (destrier)
+</div>

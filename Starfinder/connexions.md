@@ -1,0 +1,190 @@
+---
+Name: Starfinder.connexions
+Title: connexions
+LastModified: 2019-11-28 21:56
+---
+
+Ci-dessous vous trouverez les connexions le plus souvent associées aux mystiques.
+
+<left>
+{| CLASS="tablo toutgauche autoalt" ID="tabexploit"
+|+ Akashique
+| Nom
+| Niv
+| Nom
+| Niv
+|- CLASS="premier"
+| [Savoir Akashique](./Akashique.md#SAVOIRAKASHIQUE)
+| 1
+| [Accès aux Archives Akashiques](./Akashique.md#ACCESAUXARCHIVESAKASHIQUES)
+| 3
+|-
+| [Vision de l'avenir](./Akashique.md#VISIONDELAVENIR)
+| 6
+| [Sonde mentale](./Akashique.md#SONDEMENTAL)
+| 9
+|-
+| [Mémoires télépathiques](./Akashique.md#MEMOIRESTELEPATHIQUES)
+| 12
+| [Palais mémoriel](./Akashique.md#PALAISMEMORIEL)
+| 15
+|-
+| [Emprunt de sort](./Akashique.md#EMPRUNTDESORT)
+| 18
+|}
+</left>
+
+
+<left>
+{| CLASS="tablo toutgauche autoalt" ID="tabexploit"
+|+ Empathe
+| Nom
+| Niv
+| Nom
+| Niv
+|- CLASS="premier"
+| [Empathie](./../Pathfinder-RPG/Empathe.md#EMPATHIE)
+| 1
+| [Lien mental supérieur](./../Pathfinder-RPG/Empathe.md#LIENMENTALSUPERIEUR)
+| 3
+|-
+| [Détection des émotions](./../Pathfinder-RPG/Empathe.md#DETECTIONDESEMOTIONS)
+| 6
+| [Détection des mensonges](./../Pathfinder-RPG/Empathe.md#DETECTIONDESMENSONGES)
+| 9
+|-
+| [Détection des émotions supérieure](./../Pathfinder-RPG/Empathe.md#DETECTIONDESEMOTIONSSUPERIEURE)
+| 12
+| [Rétrocognition](./../Pathfinder-RPG/Empathe.md#RETROCOGNITION)
+| 15
+|-
+| [Maîtrise empathique](./../Pathfinder-RPG/Empathe.md#EMPRUNTDESORT)
+| 18
+|}
+</center>
+
+<right>
+{| CLASS="tablo toutgauche autoalt" ID="tabexploit"
+|+ Guérisseur
+| Nom
+| Niv
+| Nom
+| Niv
+|- CLASS="premier"
+| [Focalisation curative](./Guérisseur.md#FOCALISATIONCURATIVE)
+| 1
+| [Lien de vie](./Guérisseur.md#LIENDEVIE)
+| 3
+|-
+| [Lien du guérisseur](./Guérisseur.md#LIENDUGUERISSEUR)
+| 6
+| [Vol de vie](./Guérisseur.md#VOLDEVIE)
+| 9
+|-
+| [Lien de focalisation](./Guérisseur.md#LIENDEFOCALISATION)
+| 12
+| [Focalisation de la vie](./Guérisseur.md#FOCALISATIONDELAVIE)
+| 15
+|-
+| [Refuser la mort](./Guérisseur.md#REFUSERLAMORT)
+| 18
+|}
+</right>
+
+### Akashique
+
+*Vous êtes connecté aux connaissances collectives de toutes les espèces conscientes qui ont vécu et qui sont consignées dans les Archives akashiques, une bibliothèque astrale qui contient les archives psychiques de chaque moment de l'Histoire. Vous pouvez être un gardien du savoir ancestral, un adepte de l'occulte curieux, un détective à l'intuition développée ou un espion accumulant les secrets.*
+
+**Divinités associées :** Eloritu, Nyarlathotep, Pharasma, Tavalet, Triurne, Weydan, Yaraésa.
+
+**Compétences associées :** Culture et Mysticisme.
+
+**Sort :** 1er-identification, 2e-augure, 3e-don des langues, 4e-divination, 5e-contact avec les plans, 6e-vision mystique.
+
+<div class="article_2col">{s:Reference|SAVOIRAKASHIQUE}
+{s:Reference|SAVOIRAKASHIQUE}
+**Savoir akashique (Ext)**
+
+- Vous gagnez l'aptitude compétence focalisée au niveau 1 (au lieu que se soit au niveau 2). Chaque jour, quand vous récupérez vos emplacements de sorts, vous pouvez puiser dans le Savoir akashique, ce qui vous permet de choisir une compétence de profession et de l'ajouter à votre liste de compétences associées pour votre aptitude de compétence focalisée.
+
+{s:Reference|ACCESAUXARCHIVESAKASHIQUES}
+**Accès aux Archives akashiques (Sur)**
+
+- Vous pouvez avoir accès aux Archives akashiques pour augmenter vos compétences. Vous pouvez dépenser 1 points de persévérance pour tenter un test de compétences comme si votre rang dans cette compétence était égal à votre niveau de mystique.
+
+{s:Reference|VISIONDELAVENIR}
+**Vision de l'avenir (Sur)**
+
+- Une fois par jour, vous pouvez méditer pendant 10 minutes, sans être interrompu, pour avoir une vision des avenirs possibles. A n'importe quel moment au cours des 24 prochaines heures, vous pouvez annoncer que vous utilisez l'avantage accordé par ce pouvoir avant d'effectuer un jet d'initiative , un jet de sauvegarde ou un test de compétence. Vous bénéficiez d'un bonus d'intuition de +4 à ce lancer de dé. Au niveau 11, vous pouvez utiliser ce pouvoir deux fois par jour, mais vous ne pouvez y avoir de nouveau recours tant que vous n'avez pas utilisé votre premier bonus.
+
+{s:Reference|SONDEMENTALE}
+**Sonde mentale (Mag)**
+
+- Vous pouvez utiliser sonde mentale comme un pouvoir magique un nombre de fois par jour égal à votre niveau de mystique. Chaque utilisation dure 1 round. Une créature qui réussit son jet de sauvegarde contre votre sonde mentale est immunisée contre toute nouvelle utilisation de ce pouvoir pendant 24 heures
+
+{s:Reference|MEMOIRESTELEPATHIQUES}
+**Mémoires télépathiques (Sur)**
+
+- A volonté, vous pouvez partager des souvenirs avec vos alliés grâce à votre aptitude de classe lien télépathique. En tant qu'action complexe, vous, ou un allié avec lequel vous avez établi un lien, pouvez envoyer un souvenir d'une durée maximum d'1 minute à autant de personnes qui le désirent et qui sont unies par ce lien. Envoyer un souvenir pertinent revient à réussir une action aider quelqu'un pour un test de compétence (limité à un souvenir par test de compétence).
+
+{s:Reference|PALAISMEMORIEL}
+**Palais mémoriel (Sur)**
+
+- Vous pouvez façonnez une bibliothèque extra dimensionnelle pour y héberger une structure mentale constituée de vos connaissances. Ce palais mémoriel ne dispose que d'une seule entrée scintillante. Vous pouvez y avoir accès une fois par jours, quand vous le faites, l'entrée apparaît à courte portée. Si une créature ou un objet qui ne faisait pas partie du palais quand il a été crée reste à l'intérieur, l'entrée demeure là où elle est apparue pour la première fois. Seuls ceux que vous avez désignés peuvent y pénétrer et l'entrée se ferme et devient invisible derrière vous une fois que vous avez franchi le seuil. Quiconque se trouve à l'intérieur peut ouvrir l'entrée et quitter le palais quand il veut. L'entrée est le seul moyen d'y accéder ou d'en sortir ; même *changement de plan* ou un sort similaire ne fonctionne pas.
+Vous pouvez agencer votre palais comme vous le souhaitez avec un volume maximum correspondant à un cube de 3 mètres d'arête par niveau de mystique. A l'intérieur, l'atmosphère est agréable, douce et sans impureté ; les conditions extérieures n'affectent pas l'intérieur de votre palais et inversement. Il n'y a aucun autre ameublement à part des bibliothèques, des ordinateurs et quelques tables et canapés. Le lieu est entretenu par des bibliothécaires qui sont l'équivalent de *serviteurs invisible*(comme le sort du même nom) et leur nombre est égal à la moitié de votre niveau de mystique. La bibliothèque conserve le même agencement à chaque fois que vous y accédez, bien que vous puissiez modifier son apparence à chaque fois que vous gagnez un niveau ou en vous concentrant pendant 15 minutes. Vous n'avez pas besoin d'être à l'intérieur pour la modifier.
+Quand vous gagnez ce pouvoir, choisissez une compétence que vous pouvez utiliser avec la tâche se rappeler de quelque chose. Consulter votre palais mémoriel confère à tous ceux étudient à l'intérieur, y compris vous, un bonus d'altération a +4 aux tests de compétence pour se souvenir de connaissance de ce type et les créatures à l'intérieur du palais mémoriel peuvent tenter des test de ce type sans être formées. Au niveau 16, puis à chaque niveau suivant, choisissez une autre compétences qui peut être utilisée avec la tâche se rappeler quelque chose et pour laquelle on pourra utiliser le bonus accordé par le palais.
+
+{s:Reference|EMPRUNTDESORT}
+**Emprunt de sort (Sur)**
+
+- Une fois par jour, vous pouvez puiser dans les Archives akashiques pour lancer un sort de mystique ou de technomancien comme s'il était sur votre liste de sorts connus. Cela utilise un emplacement de sort supérieur d'un niveau au niveau du sort utilisé.</div>
+
+
+### Empathe
+
+*Votre connexion vous aide à ressentir les émotions et à remarquer des détails que les autres ne voient pas. Vous pouvez être un diplomate, un enquêteur, un garde du corps télépathe, un psychologue de bord, ou un escroc usant de ses pouvoirs psychiques.*
+
+**Divinités associées :** Abadar, Hylax, Lomédae, Sarenrae, Talavet, Triurne (Casandale)
+
+**Compétences associées :** Perception et Psychologie.
+
+**Sorts :** 1er-Détection des pensées, 2e-zone de vérité, 3e-clairaudience/clairvoyance, 4e-sonde mentale, 5e-télépathie, 6e-vision lucide.
+
+<div class="article_2col">{s:Reference|SAVOIRAKASHIQUE}
+{s:Reference|EMPATHIE}
+**Empathie (Sur)**
+
+En tant qu'action complexe, vous pouvez tenter un test de Psychologie pour lire les émotions d'une créature (DD=20 ou 10 + son modificateur de Bluff, en prenant le meilleur résultat). Si vous réussissez, vous percevez ce qu'elle ressent de manière générale vis à vis des créatures situées à moins de 9 mètres d'elle et vous bénéficiez d'un bonus de circonstances de +2 à vos test de Bluff, Diplomatie, Intimidation et Psychologie contre cette créature pendant 1 heure. Que vous réussissiez ou non, après avoir ouvert votre esprit pour percevoir des émotions, vous subissez pendant 1 minute un malus de -2 à vos jets de sauvegarde contre les effets mentaux.
+
+{s:Reference|LIENMENTALSUPERIEUR}
+**Lien mental supérieur (Sur)**
+
+Chaque jour, vous pouvez utiliser votre pouvoir de lien mental sur la même créature aussi souvent que vous le voulez. De plus, le lien fonctionne dans les deux sens. Cependant, le maximum de 10 minutes de communication par round s'applique toujours.
+
+{s:Reference|DETECTIONDESEMOTIONS}
+**Détection des émotions (Sur)**
+
+Vous pouvez détecter et localiser des créatures qui ont des émotions situées à moins de 18 mètres de vous comme si vous étiez doté de perception aveugle (émotion). Une créature peut tenter de contrôler ses émotions pour éviter d'être détectée par ce pouvoir mais elle doit réussir un test de Bluff avec un DD égal à 10 + votre modificateur de Psychologie. Une créature soumise à un effet émotionnel ne peut éviter d'être détectée. Les créatures soumises aux effets d'antidétection ou à des effets similaires échappent automatiquement à ce pouvoir. A moins que le contraire ne soit indiqué, les créatures artificielles et celles ayant une valeur d'Intelligence de 2 ou moins n'ont pas d'émotions et ne peuvent être détectées de cette manière.
+
+{s:Reference|DETECTIONDESMENSONGES}
+**Détection des mensonges (Mag)**
+
+Vous pouvez utiliser *détections des mensonges* comme un pouvoir magique un nombre de fois par jour égal à votre niveau de mystique. A chaque fois vous devez prendre pour cible une seule créature. Cet effet dure 1 round. Une fois qu'une créature a réussi un jet de sauvegarde contre ce pouvoir, est est immunisée contre ses effets pendants 24 heures.
+
+{s:Reference|DETECTIONDESEMOTIONSSUPERIEURE}
+**Détection des émotions supérieure (Sur)**
+
+Votre pouvoir de détection des émotions est beaucoup plus sensible, comme si vous aviez vision aveugle (émotions)
+
+{s:Reference|RETROCOGNITION}
+**Rétrocognition (Mag)**
+
+Vous pouvez utiliser à volonté rétrocognition comme un pouvoir magique. Quand vous le faites, vous subissez un malus de -2 à vos jets de sauvegarde contre les effets mentaux affectant l'esprit tant que vous vous concentrez sur le pouvoir de retrocognition et pendant une durée équivalente juste après. Vous pouvez dépenser 1 point de persévérance pour annuler cette pénalité.
+
+{s:Reference|MAITRISEEMPATHIQUE}
+**Maîtrise empathique (Mag)**
+
+Vous pouvez dépenser 1 point de persévérance pour utiliser *chirurgie psychique* comme un pouvoir magique. Si vous êtes neutralisé par un effet que chirurgie psychique peut soigner et qu'il vous reste au moins 1 point de persévérance, vous pouvez dépenser 1 point de persévérance pour utiliser ce pouvoir sur vous-même, même si vous êtes incapable d'effectuer la moindre action.
+utilisé.</div>
+
+### Guérisseur

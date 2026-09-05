@@ -1,0 +1,7 @@
+---
+Name: Golarion.océan Obari
+Title: L'océan Obari
+LastModified: 2010-01-24 18:05
+---
+
+Voir la [Géographie de Golarion](./Géographie.md#OCEANOBARI)

@@ -1,0 +1,127 @@
+---
+Name: Pathfinder2.PFS Création de personnage
+Title: Création de personnage [Pathfinder Society]
+LastModified: 2023-10-18 09:45
+---
+
+Version actuelle: 3.03\
+Date de mise à jour de cette version : 21 juillet 2022 – 19h00\
+Lien de la VO : [Character Creation](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Character-Creation)
+
+La suite du guide détaille les étapes de la création d'un personnage Pathfinder Society. Ces étapes reflètent celles du *Livre de Base Pathfinder*, avec quelques règles et avantages supplémentaires spécifiques à la campagne organisée.
+
+<nav class="wiki-toc"></nav>
+
+### Feuilles de Personnage
+
+Il n'y a pas de format standard de feuille de personnage requis.  Les joueurs sont invités à trouver et à utiliser la feuille de personnage qui leur convient le mieux.  Cependant, un joueur doit posséder une feuille de personnage claire et lisible. Il doit pouvoir la donner à un MJ pour qu'il l'examine.
+
+Des feuilles de personnage vierges peuvent être téléchargées sur la page [<u>Pathfinder de Paizo</u>](https://paizo.com/pathfinder), ou en utilisant les liens directs suivants :\
+[<u>Noir et Blanc</u>](https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-BW.pdf)\
+[<u>Couleur</u>](https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-Color.pdf)
+
+Des applications de création de feuilles de personnage sont disponibles via les liens suivants:\
+[https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en_US|*Pathbuilder*]
+[https://www.lonewolfdevel.com/Products/Hero-Lab-Online|*Hero Lab*]
+
+NdT : Plusieurs versions traduites sont disponibles [<u>ici</u>](https://www.pathfinder-fr.org/Wiki/Ressources.Pathfinder2.ashx?NoRedirect=1&NS=Ressources)
+
+
+
+### Ressources
+
+Les joueurs peuvent utiliser n'importe quel livre ou supplément publié par Paizo qu'ils possèdent pour créer leur personnage, tant que les options qu'ils choisissent sont autorisées dans le [Document des Options de Personnage](https://paizo.com/pathfindersociety/characteroptions). Les joueurs vivant ensemble peuvent partager leurs livres. Les options figurant dans le *Livre de Base*, le *Bestiaire (2ème Édition)*, et le *Guide du Monde des Prédictions Perdues* sont toujours utilisables même sans posséder ces livres.
+
+
+
+### Guide de création de personnage
+
+Les étapes suivantes se basent sur la création de personnage classique et ajoutent quelques éléments spécifiques à Pathfinder Society.
+
+#### 1. Trouvez votre concept
+
+Votre personnage est avant tout membre de la Société des Éclaireurs ! Il doit être capable de travailler avec les autres agents et suivre la devise de la Société : **"Explorer, Rapporter, Coopérer"**.
+
+#### 2. Commencer à déterminer vos valeurs de caractéristiques
+
+Pathfinder Society utilise la méthode standard décrite dans la section "Aperçu des valeurs de caractéristiques" du Livre de Base page 20. Votre personnage peut également prendre deux pénalités de caractéristiques supplémentaires pour gagner un bonus de capacité supplémentaire, comme décrit dans le paragraphe 'Pénalités Volontaires' page 26 du Livre de base
+##### Pénalités volontaires
+Parfois, il est très amusant de jouer un personnage avec une pénalité majeure, même si vous jouez une ascendance qui ne devrait pas vous en imposer. Lorsque vous appliquez les primes et pénalités de caractéristique de votre ascendance, vous pouvez appliquer deux pénalités de plus. Dans ce cas, vous pouvez aussi appliquer une prime de caractéristique libre supplémentaire. Vous pouvez attribuer ces pénalités aux caractéristiques de votre choix, mais pendant cette étape, vous ne pouvez pas appliquer plus d’une pénalité à une même valeur de caractéristique, à moins d’appliquer les deux pénalités supplémentaires à une valeur de caractéristique qui reçoit déjà une prime lors de cette étape. La première pénalité annule alors la prime tandis que la seconde réduit la valeur de 2. De même, malgré la règle normale des primes de caractéristique, vous pouvez appliquer deux primes de caractéristique libres à une même valeur si elle reçoit une pénalité lors de cette étape. La première prime annule la pénalité tandis que la seconde augmente la valeur de 2. Par exemple, un nain obtient normalement une prime de caractéristique à la Constitution et la Sagesse, ainsi qu’une pénalité au Charisme. Vous pouvez appliquer une pénalité de caractéristique à l’Intelligence et à la Force ou appliquer les deux à la Sagesse. En revanche, vous ne pouvez pas appliquer l’une des pénalités de caractéristique au Charisme car il reçoit déjà la pénalité des nains lors de cette étape.
+
+
+#### 3. Choisissez une ascendance
+
+Le choix d'ascendance suit les règles du *Livre de Base*, avec de légers changements pour s'adapter aux langues parlées sur Golarion. Les demi-elfes ou demi-orcs non-humains ne sont pas autorisés. Sous réserve de posséder les livres correspondants, les joueurs ont aussi accès aux ascendances suivantes :
+- Léshis (Guide des personnages des prédictions perdues / *Lost Omens Character Guide*)
+- Aasimars, Changelins, Kobolds, Orc, Hommes-rats, Tengus, Tieffelins  (Guide des joueurs Règles avancées / *Advanced Player Guide*)
+Les autres ascendances peuvent être accessibles en utilisant des [Points d'Accomplissement](./PFSP2-Bases-Campagne-Organisée.md#ACHIEVEMENT_POINTS).
+
+##### Ascendances peu communes
+Étant donné que votre ascendance est l'une des premiers éléments que vous choisissez pour votre personnage, et qu'il n'est pas possible de modifier votre ascendance comme vous pourriez le faire pour d'autres options, le seul moyen de sélectionner des ascendances peu communes ou plus rares est d'utiliser un 'boon' qui vous permet de créer un nouveau personnage de cette ascendance.
+
+##### Région d'origine
+A cette étape, vous devriez aussi choisir la région d'où est originaire votre personnage (*Livre de Base* pages 420-429), et dans le cas des humains, son ethnie (*Livre de Base* pages 430-431). Choisissez une contrée (comme la Varisie ou le Taldor). Vous êtes considéré comme un citoyen de cette nation. Vous êtes considéré comme issu de cette nation et plus largement de la région dans laquelle elle se situe en ce qui concerne les pré-requis et [|Conditions d'Accès](./|Conditions-d'Accès.md) des options de personnage peu communes (par exemple les Terres des Sagas pour la Varisie ou les Royaumes Étincelants pour le Taldor). Il y a plus de détails sur les nations de Golarion dans le Guide du Monde des Prédictions Perdues (*Lost Omens World Guide*).
+
+##### Langues
+Tous les membres de la Société des Éclaireurs sont lettrés et parlent la langue commune (le taldorien) en plus des langues conférées par leur ascendance. Tous les personnages de Pathfinder Society ont accès aux langues ordinaires et aux langues régionales peu communes modernes (*Livre de Base* page 432). Tous les personnages de Pathfinder Society ont droit à une langue régionale additionnelle.
+
+
+#### 4. Historique
+
+Les personnages de Pathfinder Society ont accès aux historiques présentés à partir de la page 60 du *Livre de Base*. Les joueurs ayant participé à la 1ère édition de la campagne organisée ont accès à des [Historiques Hérités](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Legacy-Backgrounds).
+
+#### 5. Classe
+
+Toutes les classes sont accessibles. Les personnages Pathfinder Society commencent au niveau 1, bien que certains *boons* que l'on peut obtenir avec des Points d'Accomplissements permettent à certains personnages de débuter au niveau 2 ou 3.
+
+#### 6. Déterminez les scores de caractéristiques
+
+Pathfinder Society utilise la méthode détaillée dans la section "Aperçu des scores de caractéristiques" à la [page 20 du *Livre de base*](https://2e.aonprd.com/Rules.aspx?ID=74). Votre personnage peut également prendre deux pénalités de caractéristiques supplémentaires pour obtenir une prime de caractéristique supplémentaire, comme décrit dans l'encadré "Pénalités Volontaires" à la [page 26 du *Livre de base*](https://2e.aonprd.com/Rules.aspx?ID=86).
+
+#### 7. Enregistrez les détails de votre classe
+
+La campagne Pathfinder Society suit les règles standards pour les détails des classes.
+
+#### 8. Achetez de l'équipement
+
+Tous les personnages de Pathfinder Society commencent avec 15 PO, qu'ils peuvent dépenser pour obtenir leur équipement de départ. Le chapitre 6 du *Livre de Base* contient un large choix d'équipement de départ. Page 289, il y a des kits de classe : un choix d'équipement préconstruit, adapté à chacune des classes de base. Vous pouvez aussi utiliser votre or pour acheter de l'équipement supplémentaire, en suivant les règles du [|Guide d'Achat](./|Guide-d'Achat.md).
+
+#### 9. Calculez vos modificateurs
+
+Calculez vos modificateurs de Perception, de Jets de Sauvegarde, de Frappe et de Compétences en suivant les règles [page 27 du *Livre de Base*](https://2e.aonprd.com/Rules.aspx?ID=89).
+
+#### 10. Finitions
+
+##### Alignement
+
+Les joueurs ne peuvent pas jouer de personnages d'alignement mauvais. Lorsque vous choisissez un alignement, assurez-vous qu'il répond aux exigences d'alignement de la classe de votre personnage.
+
+##### Religion
+
+Les personnages peuvent vénérer n'importe quelle divinité de Golarion, à condition que leur alignement corresponde à l'un des alignements des disciples de la divinité en question. Les champions et les prêtres doivent choisir une divinité officielle, mais les autres classes peuvent adopter l'une des religions ou philosophies présentées à la page 440 du *Livre de Base*  ou dans une autre source homologuée. Les personnages peuvent également être agnostiques ou athées.
+
+Certains personnages peuvent suivre des divinités sans pour autant les vénérer. Suivre une divinité signifie que votre personnage peut, par exemple, porter le symbole sacré de la divinité, assister aux services religieux de la divinité ou accomplir d'autres rituels mais qui ne sont pas récompensés par des sorts ou des pouvoirs divins.
+
+Un personnage peut suivre autant de divinités qu'il le souhaite, mais ne peut vénérer et recevoir le pouvoir que d'une seule d'entre elles.
+
+##### Âge
+
+Les personnages doivent au moins être de jeunes adultes pour être acceptés dans la Société des Éclaireurs.
+
+##### Autres détails
+
+Les aventures Pathfinder Society commencent toujours par la présentation des personnages. Pensez-donc à prendre quelques notes sur l'apparence, la personnalité et les pronoms du vôtre pour les partager aux autres joueurs. Le [|Monde de Golarion](./|Monde-de-Golarion.md) et le *Guides des Personnages des Prédictions Perdues* regorgent d'informations sur le contexte de la campagne et que vous pouvez utiliser.
+
+Pathfinder utilise des tapis quadrillées avec des cases de 1 pouce de côté pour déterminer les déplacements et les positionnements tactiques lors des combats. Ainsi, vous aurez besoin de quelque chose qui représente physiquement votre personnage pour ces phases de jeu. Pathfinder édite un large choix de Pions Pathfinder et collabore avec Reaper Miniatures et Wizkids pour proposer un vaste choix de figurines de jeu. Ainsi vous pourrez trouver la figurine qui correspond à votre personnage.
+
+Pour le jeu numérique, il faut un fichier image. Demandez à votre MJ ses préférences en termes de format et de taille.
+
+#### 11. Appartenance à la Société des Éclaireurs
+
+Pendant leur formation, les Pathfinders initiés atteigne un certain niveau de maîtrise et de connaissances. Afin de représenter cela, tous les personnage commencent par défaut avec une compétence bonus dans laquelle ils sont qualifiés : Connaissance de la Société des Éclaireurs. Si leur historique leur confère déjà cette compétence, ils peuvent choisir entre Connaissance des Universités et Connaissance du Métier d'Éclaireur.
+
+Les agents passent plus ou moins de temps en formation à l'Académie. Cela est représenté par les options supplémentaires d'[|Écoles](./|Écoles.md) dans Options de Personnage Supplémentaires.
+
+
+
+[Retour à la page PFS pour Pathfinder 2](./PFS.md)

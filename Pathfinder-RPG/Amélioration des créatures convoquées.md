@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Amélioration des créatures convoquées
+Title: Amélioration des créatures convoquées
+LastModified: 2024-06-29 00:49
+Categories:
+- Don
+---
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#3) Amélioration des créatures convoquées : Ce don s’applique-t-il aux monstres convoqués par *convocation de monstres* ou *convocation d’alliés naturels* lancés sous forme de pouvoirs magiques ?***
+
+Oui. *(Retour au <u>[don](./Amélioration des créatures convoquées.md)</u>)*}*Les créatures invoquées par le personnage sont plus puissantes et plus résistantes.*
+
+**Condition.** [École renforcée](./École renforcée.md) ([invocation](./Invocation.md)).
+
+**Avantage.** Toutes les créatures que le personnage convoque grâce à un [sort de convocation](./Invocation.md) bénéficient d’un bonus d’altération de +4 en [Force](./Force.md) et en [Constitution](./Constitution.md) pendant la durée du sort qui a permis de les convoquer.
+
+{s:CMy}
+### Version mythique
+*Les sorts d’invocation lancés par le personnage ne convoquent plus uniquement des animaux ordinaires, mais également des créatures mythiques.*
+
+**Condition.** Amélioration des créatures convoquées
+
+**Avantage.** Une créature que le personnage convoque par le biais d’un sort d’invocation est considérée comme mythique dans le cadre de ses interactions avec d’autres créatures mythiques. Elle ne gagne aucune aptitude ou [pouvoir mythique](./pouvoir mythique.md), mais elle peut être affectée par des sorts et des aptitudes mythiques en considérant qu’elle est une créature mythique de [grade](./Grade.md) 1. De plus, si la créature convoquée possède une réduction des dégâts, celle-ci change et devient [RD/épique](./RDépique.md).

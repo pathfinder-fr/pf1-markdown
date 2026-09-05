@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Maîtrise de lévocation darme
+Title: Maîtrise de l'évocation d'arme
+LastModified: 2024-07-23 17:58
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maîtrise dobjet
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut battre ses adversaires à l’aide du pouvoir mystique qui circule dans ses armes.*
+
+**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+
+**Conditions.** 2 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+
+**Avantages.** Par une [action immédiate](./Action immédiate.md), lorsque le personnage manie une arme magique avec une propriété spéciale infligeant des dégâts supplémentaires d’acide, d’électricité, de feu, de froid ou de son au touché, il inflige 1d4 points de dégâts supplémentaires du même type d'énergie chaque fois qu'il touche sa cible avec pendant 1 [round](./round.md).
+
+(((Weapon Evoker Mastery (Item Mastery)
+
+You rack opponents with eldritch power coursing from your magic weapons.
+
+Prerequisites: Use Magic Device 2 ranks, base Fortitude saving throw bonus +3.
+
+Benefit: As a swift action while wielding a magic weapon with a weapon special ability that deals extra acid, cold, fire, electricity, or sonic damage on a hit, you deal an additional 1d4 points of damage of the same type with each hit you make with that weapon for 1 round.)))

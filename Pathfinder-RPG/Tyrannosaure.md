@@ -1,0 +1,54 @@
+---
+Name: Pathfinder-RPG.Tyrannosaure
+Title: Dinosaure, Tyrannosaure
+LastModified: 2022-09-17 23:19
+Categories:
+- Monstre
+- Objet mag sceptre
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tyrannosaure|FP 9}
+{s:pucem|Animal|Forêt-Jungle|Tropical}
+{s:BDTexte|*Source : Bestiaire p.91*}
+{s:BDTexte|**PX** 6.400}
+{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
+{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +37}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 21, contact 7, pris au dépourvu 20 (Dex +1, naturelle +14, taille -4)}
+{s:BDTexte|**pv** 153 (18d8+72)}
+{s:BDTexte|**Réf** +12, **Vig** +15, **Vol** +10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** morsure +20 (4d6+22/19-20 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
+{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (2d8+11, CA 17, pv 15)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 32, **Dex** 13, **Con** 19, **Int** 2, **Sag** 15, **Cha** 10}
+{s:BDTexte|**BBA** +13, **BMO** +28 (+32 pour la lutte), **DMD** 39}
+{s:BDTexte|**Dons** [Course](./Course.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +37 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Particularités** morsure puissante}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêts et plaines chaudes}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|**Morsure puissante (Ext)** Les dégâts de l'attaque de morsure du tyrannosaure sont augmentés du double de son modificateur de Force.}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>''Les membres avant de ce dinosaure bipède aux crocs acérés semblent
+minuscules par rapport au reste de son corps.''
+
+Les tyrannosaures
+sont des prédateurs
+exceptionnels qui
+mesurent 12 mètres de long
+et pèsent 7 000 kg.
+
+#### Le tyrannosaure comme compagnon animal
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 16, Con 10, Int 2, Sag 15, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [étreinte](./Étreinte.md), morsure puissante.
+</div></td></tr></table>

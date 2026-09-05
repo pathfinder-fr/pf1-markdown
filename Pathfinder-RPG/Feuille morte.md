@@ -1,0 +1,45 @@
+---
+Name: Pathfinder-RPG.Feuille morte
+Title: Feuille morte
+LastModified: 2022-06-13 23:19
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 1
+- Sort conjurateur 1
+- Sort magicien 1
+- Sort magus 1
+- Sort occultiste 1
+- Sort psychiste 1
+- Sort sanguin 1
+- Sort spirite 1
+- Src Manuel des joueurs
+---
+
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Spi](./Spirite.md) 1  
+
+**Temps d'incantation** 1 [action immédiate](./Action immédiate.md)  
+
+**Composantes** [V](./composantes.md)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Cibles** un objet ou créature de [taille M](./taille M.md) ou inférieure/[niveau](./niveau.md), distantes de 6 m (4 {s:c}) ou moins les uns des autres, et en état de chute libre.  
+
+**Durée** jusqu’à l’atterrissage ou 1 [round](./round.md)/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+
+Ce sort ralentit la chute des créatures ou des objets affectés, celle-ci passant instantanément à 18 m (12 {s:c}) par round (ce qui correspond à la vitesse à l’impact lorsqu’on tombe de quelques dizaines de centimètres). Les sujets ne subissent pas le moindre dégât à l’atterrissage, pour autant que le sort continue de faire effet. Si le sort échoit avant la fin de la chute, les sujets reprennent une vitesse de chute normale.
+
+*Feuille morte* affecte une ou plusieurs créatures de [taille M](./taille M.md) ou inférieure (y compris leur équipement et les objets qu’ils transportent, jusqu’à un maximum égal à leur [charge maximale](./charge maximale.md)) ou un ou plusieurs objets de taille équivalente. Le sort peut également cibler des créatures ou des objets de plus grande taille, mais une créature ou un objet de [taille G](./taille G.md) compte comme deux créatures (ou objets) de [taille M](./taille M.md), une créature ou un objet de [taille TG](./taille TG.md), comme quatre de [taille M](./taille M.md), et ainsi de suite.
+
+Ce sort n’a aucun effet sur les projectiles sauf si ceux-ci chutent d’une grande hauteur. Si le sort cible un objet qui tombe, la hauteur de la chute n’est pas prise en compte pour calculer les dégâts infligés et les dégâts dépendant de la masse de l’objet sont divisés par deux.
+
+*Feuille morte* ne fonctionne que sur les objets ou créatures en chute libre. Il n’a aucun effet sur un coup d’épée ni sur une créature qui charge ou qui vole.
+
+### Mythique
+{s:CMy}
+Le sort affecte une cible supplémentaire par niveau du personnage. Les cibles n’ont pas besoin d’être positionnées à 6 mètres ou moins les unes des autres.
+
+**[Amplifié](./Amplifié.md) (4ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort absorbe la vélocité des cibles et la transforme en une violente explosion. La vitesse de chute des cibles devient normale (elle n’est plus ralentie) mais elles atterrissent sans subir de dégâts. Lorsqu’une cible atterrit, elle crée un rayonnement de force de 3 mètres de rayon qui inflige 1d6 points de dégâts par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (5d6 maximum, [Réflexes](./Réflexes.md) ½ dégâts, [DD](./DD.md) égal au [DD](./DD.md) de [feuille morte](./Feuille morte.md)). Les cibles du sort ne sont pas affectées par ces explosions.

@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Cataracte
+Title: Cataracte
+LastModified: 2024-07-23 17:41
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maléfice sanglant
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut maudire les yeux d’un ennemi blessé*
+
+**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+
+**Conditions.** [Int](./Int.md) 13, 5 rangs en [Perception](./Perception.md), 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+
+**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour. La créature doit réussir un jet de [Vigueur](./Vigueur.md) ou voir ses yeux devenir laiteux et sa vision s'obscurcir. Pendant 1 [round](./round.md), toute cible à l’encontre de laquelle la créature tente une attaque à distance bénéficie d’un [camouflage](./camouflage.md) lorsqu’il s’agit de résoudre cette attaque.
+
+**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) peuvent utiliser ce maléfice sanglant contre toute créature à qui ils ont infligé des dégâts au cours de la dernière minute. Un chaman ou une sorcière peuvent utiliser ce maléfice sanglant en une [action simple](./Action simple.md).
+
+(((Cataract (blood Hex)
+You can curse the eyes of a wounded enemy.
+
+Prerequisites: Int 13, Perception 5 ranks, Use Magic Device 1 rank.
+
+Benefit: As a full-round action, you can curse a creature you’ve dealt damage to since the beginning of your last turn. The creature must succeed at a Fortitude save or its eyes become milky and its vision is obscured. For 1 round, any target the creature makes a ranged touch attack against gains concealment for the purposes of that attack.
+
+Special: A shaman or witch with this blood hex can use against any creature she has dealt damage to in the past minute. A shaman or witch can use this blood hex as a standard action.)))

@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Pétrifié
+Title: Pétrifié
+LastModified: 2023-02-05 15:20
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Pétrifié

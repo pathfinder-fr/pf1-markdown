@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.Gardien des étendues sauvages
+Title: Gardien des étendues sauvages
+LastModified: 2014-08-30 23:10
+---
+
+*Le lien mystique qui unit le personnage à la nature lui permet de réagir plus rapidement face au danger.*
+
+**Conditions requises.** [Harmonie sauvage](./Harmonie Sauvage.md), [elfe](./Elfe.md).
+
+**Avantages.** Quand le personnage se trouve dans l’environnement choisi pour le don [Harmonie sauvage](./Harmonie Sauvage.md), il gagne un bonus d’esquive de +2 à la [CA](./CA.md). S’il se trouve dans une zone qui compte comme plusieurs environnements, les bonus ne se cumulent pas.

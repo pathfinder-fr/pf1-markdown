@@ -1,0 +1,9 @@
+---
+Name: Golarion.Kélesh
+Title: Kélesh
+LastModified: 2010-01-09 09:35
+---
+
+Le Kélesh (parfois appelé Empire du Padishah du Kélesh ou Empire Kéléshite) est la plus grande nation connue de [Golarion](./Golarion.md). Son centre de gravité est situé sur le continent de [Casmaron](./Casmaron.md) mais ses possessions s'étendent jusqu'à la [Mer Intérieure](./mer Intérieure.md).
+
+Tout au long de son histoire, ses empereurs ont toujours voulu continuer à étendre leur territoire. D'abord en commerçant, puis en annexant les nations plus faibles. Ainsi, les armées kéléshites sont allées jusqu'au [Katapesh](./Katapesh.md). Aujourd'hui, la plupart des pays du [Garund](./Garund.md) ou de l'[Avistan](./Avistan.md) ont repris leur indépendance vis-à-vis du Padishah, excepté le [Qadira](./Qadira.md) qui en est toujours une Satrapie.

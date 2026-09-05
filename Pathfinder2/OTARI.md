@@ -1,0 +1,43 @@
+---
+Name: Pathfinder2.OTARI
+Title: Otari, port de l'île de Kortos
+LastModified: 2025-01-08 21:04
+---
+
+• [Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2](./LORE.md)  
+
+• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)
+
+
+Otari est la "ville de départ" utilisée dans la boîte d'initiation pour Pathfinder 2 ainsi que dans les scénarios du recueil Troubles à Otari et dans la campagne [AP28|Le Donjon des Abominations]. Plusieurs articles permettant d'étoffer la ville ont été publiés sur le blog de Paizo. Leur traduction est disponible ci-dessous.
+
+<div class="itemmenu">
+{s:ItemPF2|L'histoire d'Otari|Un aperçu de l'histoire d'Otari présentée par Oseph Menhémès|/Wiki/Pathfinder2.Otari-Histoire.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/110420_Otari.jpg}
+{s:ItemPF2NoImg|À la Fleur de l'Aube|Activités de temps libre dans la Bibliothèque de la Fleur de l'Aube|/Wiki/Pathfinder2.Otari-FleurAube.ashx}
+{s:ItemPF2NoImg|Nous, zombis !|Une rencontre (Modérée 1) prête à l'emploi|/Wiki/Pathfinder2.Otari-NousZombis.ashx}
+{s:ItemPF2NoImg|Marques de bûcherons|Les marques utilisées par les bûcherons d'Otari|/Wiki/Pathfinder2.Otari-MarquesBûcherons.ashx}
+{s:ItemPF2NoImg|Alchimie à base de rougepoix|De nouvelles bombes made in Otari|/Wiki/Pathfinder2.Otari-AlchimieRougepoix.ashx}
+{s:ItemPF2|Les eaux du Cercle de pierre|Les propriétés des eaux du Cercle de pierre|/Wiki/Pathfinder2.Otari-EauxCerclePierre.ashx|/wiki/public/upload/Illustrations/Wiki/PF2/121520_SivanahEnvironmental.jpg}
+{s:ItemPF2|Au fût du corbeau|Menu du Fût du corbeau par Blakckbiji|/Wiki/public/upload/ADJ/PF2/menu corbeau Otari.webp|/Wiki/public/upload/ADJ/PF2/vig menu corbeau.webp}
+
+</div>
+
+### PNJ liés à Otari
+<div class="itemmenu">
+{s:ItemPF2|Morlibint|Vendeur de livre dans une petite ville|/Wiki/Pathfinder2.Otari-Morlibint.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/111120_MORLIBINT.jpg}
+{s:ItemPF2|Eleukas|Garde courageux|/Wiki/Pathfinder2.Eleukas.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/012021_ELEUKAS.png}
+{s:ItemPF2|Lisavet|Acolyte érudite|/Wiki/Pathfinder2.Lisavet.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/012721_ShroudLisavet.jpg}
+{s:ItemPF2|Wendlyn|Incorrigible voleuse|/Wiki/Pathfinder2.Wendlyn.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/061821_WENDLYN.png}
+{s:ItemPF2|Explose-Bidoche|Gristleburst, pyromane curieux|/Wiki/Pathfinder2.ExploseBidoche.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/070921_Gristleburst.png}
+</div>
+
+### Cartes liées à Otari
+
+Vous pourrez également trouver des liens vers plusieurs cartes refaites par Darny
+{s:new}* pour les scénarios de **Otari en difficulté** sur [ce document](https://drive.google.com/drive/folders/1NP-tIn9T28RCmhYgPb_tKQOTNf5lunga?usp=drive_link) ; et
+- une [carte de Otari](https://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Wiki/PF2/Otari par Darny.jpg) et les environs ;
+- des cartes de taverne par Darny : une [la Rascasse Rebelle](https://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Wiki/PF2/Rascasse rebelle Darny.zip) et [les Tonneaux des Corbeaux](https://www.pathfinder-fr.org/Wiki/public/Upload/Illustrations/Wiki/PF2/Tonneaux des corbeaux Darny.zip).
+
+D'autres cartes :
+- Cartes de **Otari en difficulté** par Narchy : [Lien vers Google Drive](https://drive.google.com/drive/folders/1sdZMH9tqtmry0baOcExCZ_Kx7RtBsNx3)
+- Images pour une énigme de **Menace à Otari** par Narchy : [Lien vers Google Drive](https://drive.google.com/drive/folders/1QPus_P-DRBaiQ43BhcpCYmEGU2lVFiYa)

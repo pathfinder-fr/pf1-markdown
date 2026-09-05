@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Couronne du simurgh
+Title: Couronne du simurgh
+LastModified: 2024-06-17 14:52
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Couronne du simurgh|{s:AE}}
+**Aura** [Divination](./école divination.md) et [Transmutation](./Transmutation.md) <nowiki>[</nowiki>Bien<nowiki>]</nowiki> puissantes ; **NLS** 18 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 0,5 kg
+(((Description)))
+La *couronne du simurgh* offre au porteur la protection du [simurgh](./Simurgh.md) qui l’a créée. La couronne fonctionne seulement sur la créature pour laquelle elle a été spécifiquement forgée. Un simurgh peut créer une *couronne du simurgh* tous les cinq cents ans.
+
+Lorsqu’il porte une *couronne du simurgh*, le personnage est sous les effets constants du sort *[protection contre le Mal](./Protection contre le Mal.md)*. Une fois par jour, le porteur de cette couronne peut dépenser une [action complexe](./Action complexe.md) pour se concentrer et entrer en contact mental avec le simurgh qui a créé la couronne. Si le simurgh accepte cette connexion, le porteur connaît instantanément la distance qui le sépare du simurgh et la direction de celui-ci et peut communiquer avec lui comme le permet le sort *[communication à distance](./Communication à distance.md)*. Si le simurgh se trouve sur le même plan que le porteur et si les deux partis le souhaitent, le porteur de la couronne peut se téléporter jusqu’au simurgh. Mais dix minutes après la téléportation, le porteur de la couronne regagne l’endroit d’où il s’est téléporté (ou la case la plus proche qui soit en sécurité), qu’il le veuille ou non.
+
+Dans un ultime effort ou dans un moment de désespoir absolu, le porteur peut dépenser une [action complexe](./Action complexe.md) pour brandir la couronne dans la lumière du soleil et invoquer le simurgh qui l’a créée. Ceci permet de convoquer le simurgh comme avec un sort de *[convocation de monstres IX](./Convocation de monstres IX.md)*. Le simurgh reste pendant une minute et suit les ordres du porteur. Passé ce temps, le simurgh disparaît et la couronne est détruite.
+(((Destruction)))
+Hormis le fait d’utiliser le pouvoir de convocation de la *couronne du simurgh*, l’autre moyen de détruire cet artefact est de l’emporter sur le Plan de l’ombre.
+</div>

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Protectrice des lignes telluriques (sorcière)
+Title: Protectrice des lignes telluriques
+LastModified: 2017-12-12 22:40
+---
+
+{s:Menuarchétypesorcière}{s:AO}*Certaines sorcières accèdent aux pouvoirs de leur protecteur non pas par le biais d’une relation spéciale avec un familier, mais par son lien direct avec le vaste maillage de lignes telluriques qui traversent les plans. Ces sorcières peuvent s’approprier l’énergie latente de ces lignes telluriques sans même devoir se trouver près d’un des sites qui permettent aux lanceurs de sorts mortels d’accéder à leur puissance.*
+
+#### Puissance des lignes telluriques
+Au lieu de préparer ses sorts, une protectrice des lignes telluriques puise l’énergie d’incantation de ses sorts directement dans les [lignes telluriques](./Les lignes telluriques.md). Une protectrice des lignes telluriques est une lanceuse de sorts spontanés. Elle connaît le même nombre de sorts et dispose du même nombre quotidien d’emplacements de sort qu’un [ensorceleur](./Ensorceleur.md) d’un niveau équivalent à son niveau de sorcière. Les sorts supplémentaires conférés par le protecteur d’une protectrice des lignes telluriques sont ajoutés au répertoire complet de sorts qu’elle connaît, aux niveaux appropriés. Cette aptitude modifie les capacités d’incantation des sorts de la sorcière.
+
+#### Canalisation d’énergie tellurique (Sur)
+Une protectrice des lignes telluriques de niveau 1 sait comment canaliser l’énergie des lignes telluriques pour augmenter la puissance de ses sorts. Par une [action rapide](./Types dactions.md#RAPIDE), elle peut augmenter de 1d4-1 son niveau de lanceur du prochain sort lancé au cours du round. Après avoir accompli une canalisation d’énergie tellurique, la protectrice doit réussir un jet de Vigueur (DD = 10 + niveau du sort lancé + nombre de niveaux de lanceur de sorts supplémentaires conférés) pour ne pas devenir [chancelante](./Chancelant.md) pendant un nombre de minutes égal au niveau du sort lancé. Au niveau 8, le niveau de lanceur de sorts augmente de 1d4. La protectrice des lignes telluriques peut utiliser cette aptitude un nombre de fois par jour égal à 3 + son modificateur de [Charisme](./Charisme.md). Cette aptitude remplace celle de [familier](./Sorcière.md#FAMILIER), ainsi que les [maléfices](./Sorcière.md#MALEFICES) obtenus aux niveaux 1 et 8.

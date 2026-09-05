@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Science de la lacération furieuse
+Title: Science de la lacération furieuse
+LastModified: 2021-04-30 16:18
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:uc}*Le personnage a affûté ses griffes au point de devenir une véritable tornade de dévastation sanglante. *
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Lacération furieuse](./Lacération furieuse.md), [BBA](./BBA.md) +9, attaque spéciale [éventration](./Éventration.md)
+
+**Avantage.** Quand le personnage réussit à éventrer un adversaire, il lui inflige 1d6 points de dégâts de plus. On ne multiplie pas ces dégâts en cas de [coup critique](./coup critique.md).
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Tant que le personnage possède encore au moins un point dans sa réserve d’endurance, les dégâts supplémentaires liés à ce don sont multipliés en cas de [coup critique](./coup critique.md).

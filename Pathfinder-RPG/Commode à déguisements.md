@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Commode à déguisements
+Title: Commode à déguisements
+LastModified: 2024-06-14 23:47
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Commode à déguisements|{s:RSE}{s:UI}}
+**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 7 000 po ; **Poids** 250 kg
+(((Description)))
+{s:cs}{s:Desambi|Cet objet a été modifié dans <u>Ultimate Intrigue</u>, sa traduction a donc été modifiée pour coller à sa plus récente itération.}Cette grande commode en chêne rassemble une armoire à deux portes positionnée au-dessus de trois tiroirs horizontaux. Le personnage peut se concentrer sur un ensemble de vêtements qu’il souhaiterait porter, puis ouvrir l’armoire ou l’un des tiroirs pour récupérer les vêtements confectionnés par magie qu’il a imaginés. Les vêtements créés de cette manière ne peuvent pas avoir de propriétés magiques autre que celles listées ci-après, mais confèrent des avantages basés sur le type de vêtements qu'ils représentent (une tenue pensée pour un climat froid donnera alors un bonus de +2 aux jets de [Vigueur](./Vigueur.md) contre l'exposition à un climat froid, par exemple). La commode ne peut pas créer d'armures.
+
+Les vêtements se transforment en haillons sans valeur au bout de 24 heures. De la même façon, les vêtements retirés de l’ensemble (les boutons, les parures de pierres précieuses ou les bandages confectionnés en déchirant des bandelettes de tissu à partir d’un des vêtements) perdent aussitôt toute leur valeur. Le bureau peut générer jusqu'à quatre tenues complètes par jour (une depuis l'armoire et une pour chacun des trois tiroirs).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[fabrication](./Fabrication.md)*, *[création mineure](./Création mineure.md)*, le créateur doit posséder 5 rangs au moins en [Artisanat](./Artisanat.md) (vêtements) ou [Profession](./Profession.md) (tailleur) ; **Coût** 3 500 po
+</div>

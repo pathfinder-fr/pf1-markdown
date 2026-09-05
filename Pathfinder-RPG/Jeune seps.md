@@ -1,0 +1,51 @@
+---
+Name: Pathfinder-RPG.Jeune seps
+Title: Seps, Jeune seps
+LastModified: 2026-04-02 16:58
+Categories:
+- Monstre
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|Jeune seps}{s:BDTitre|Jeune Seps|FP 2}
+{s:pucem|Créature magique|Désert|Tropical}
+{s:BDTexte|*Source : Bestiaire 4 page 257*}
+- ** 600 PX**
+- [Créature magique](./type Créature magique.md) de taille M, N
+- **Init **+5 ; **Sens **vision dans le noir 18 m, vision nocturne, odorat ; Perception +9
+(((Défense)))
+- **CA **16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)
+- **pv **22 (3d10+6)
+- **Réf **+4, **Vig **+5, **Vol **+2
+(((Attaque)))
+- **VD **6 m
+- **Corps à corps** morsure, +4 (1d6-1 et poison)
+- **Attaques spéciales** sang acide (2d6, DD 13 ; voir seps), poison
+(((Statistiques)))
+- **For **8, **Dex **13, **Con **14, **Int** 1, **Sag **13, **Cha **6
+- **BBA **+3 ; **BMO **+2 ; **DMD **13 (croc-en-jambe impossible)
+- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
+- **Compétences **[Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +9
+- **Modificateurs raciaux** +4 en Perception, +4 en Discrétion
+- **Particularités **liquéfaction (voir seps)
+(((Pouvoirs spéciaux)))
+- **Poison (Ext)**. Morsure – blessure ; JS Vigueur DD 13 ; fréquence 1/round pendant 10 rounds ; effet 1d4 acide et affaiblissement temporaire de 1d2 Con ; guérison 2 JS consécutifs.
+
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de seps
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Jeune seps](./Jeune seps.md) || 2
+|-
+| [Seps](./Seps.md) || 11
+|}
+</div>
+*Ce serpent venimeux est protégé par une lourde carapace et possède des crocs exceptionnellement grands.*
+
+Les seps sont des serpents vivipares. Le petit atteint rapidement les 2,10 mètres de long pour un poids de 5 kilogrammes.
+</div></td></tr></table>

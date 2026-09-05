@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Chasseur de foi (inquisiteur)
+Title: Chasseur de foi
+LastModified: 2023-01-16 23:51
+Categories:
+- Archétype
+- Archétype inquisiteur
+- Src Ultimate Intrigue
+---
+
+{s:Menuarchétypeinquisiteur}{s:cs}{s:UI}*Certains inquisiteurs acharnés brûlent d'une haine particulière pour un ennemi aux convictions spécifiques, et ne reculent devant rien pour traquer ces ennemis de manière obsessionnelle.*
+
+#### Ennemi sacré (Mag, Sur)
+Un chasseur de foi choisi un unique alignement (comme Chaotique Mauvais, et non pas Chaotique ou Mauvais) qui s'oppose directement au sien soit sur l'axe Loi/Chaos soit sur l'axe Bien/Mal (un chasseur de foi Loyal Bon peut donc choisir Chaotique Bon, Chaotique Neutre, Chaotique Mauvais, Neutre Mauvais ou Loyal Mauvais, alors qu'un chasseur de foi Neutre Bon peut seulement choisir Chaotique Mauvais, Neutre Mauvais ou Loyal Mauvais). Les créatures de cet alignement sont ses ennemis sacrés. Il peut détecter les créatures de cet alignement à volonté, comme avec *[détection du Mal](./Détection du Mal.md)*, sauf que cette capacité ne fonctionne que sur les créatures et détecte l'alignement choisi.
+
+Au niveau 6, une fois par jour et par une [action rapide](./Action rapide.md), un chasseur de foi peut châtier un adversaire qu'il peut voir. Si la cible est de l'alignement d'ennemi sacré du chasseur de foi, il gagne un bonus de sainteté de +4 aux [jets d'attaque](./jet dattaque.md) contre cette cible et un bonus de sainteté égal à la moitié de son niveau d'inquisiteur aux [jets de dégâts](./Valeurs de combat.md#DEGATS) effectués contre la cible. Le châtiment ignore toutes les [RD](./RD.md) de la créature si celle-ci est de l'alignement d'ennemi sacré du chasseur de foi. Si le chasseur de foi cible une créature qui n'est pas de son alignement d'ennemi sacré, le châtiment est perdu et n'a aucun effet.
+
+Les effets du châtiment persistent jusqu'à ce que la cible meurt ou que le chasseur de foi se repose et récupère ses utilisations quotidiennes de cette capacité. Au niveau 10 et tous les 4 niveaux d'inquisiteur par la suite, un chasseur de foi peut châtier ses ennemis une fois de plus par jour, jusqu'à un maximum de quatre fois par jour au niveau 18.
+
+Un chasseur de foi n'a pas accès aux jugements de [destruction](./jugements.md#DESTRUCTION) et de [justice](./jugements.md#JUSTICE). Cette capacité remplace [domaine](./Inquisiteur.md#DOMAINE) et modifié [jugement](./Inquisiteur.md#JUGEMENT).
+
+#### Ennemi révélé (Sur)
+Au niveau 2, lorsqu'un chasseur de foi utilise sa capacité ennemi sacré pour identifier l'alignement d'une créature (habituellement lors du troisième round de concentration sur une zone où se trouve la créature), il peut révéler l'aura d'alignement de cette créature, la faisant luire pendant 1 [round](./round.md) par niveau d'inquisiteur pour que quiconque avec une vision classique puisse la voir. En plus de permettre aux autres de reconnaître l'alignement de la créature, exposant potentiellement sa vraie nature, cela leur permet aussi de la localiser facilement grâce à la lueur. Même si une telle créature est [invisible](./Invisible.md), la lueur révélatrice indique la ou les cases de la créature. Le chasseur de foi peut utiliser cette capacité un nombre de fois par jour égal à son modificateur de [Sagesse](./Sagesse.md) (minimum 1), et elle ne lui coûte pas d'action supplémentaire ; elle fait partie de la même action qu'il dépense pour se concentrer sur la détection de sa capacité ennemi sacré. Cette capacité remplace [détection d'alignement](./Inquisiteur.md#DETECTIONDALIGNEMENT).
+
+#### Tueur haineux (Sur)
+Au niveau 5, la capacité [tueur](./Inquisiteur.md#TUEUR) d'un chasseur de foi ne fonctionne que contre les créatures qui sont du type choisi et de son alignement d'ennemi sacré. Cette capacité modifie [tueur](./Inquisiteur.md#TUEUR).

@@ -1,0 +1,41 @@
+---
+Name: Pathfinder-RPG.Biographie du sang
+Title: Biographie du sang
+LastModified: 2022-06-11 23:41
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 2
+- Sort inquisiteur 3
+- Sort magicien 3
+- Sort médium 2
+- Sort occultiste 2
+- Sort prêtre 3
+- Sort psychiste 3
+- Sort sanguin 3
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3  
+
+**Temps d'incantation** 1 minute  
+
+**Composantes** [V, G, M/FD](./composantes.md) (un bout de parchemin)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** le sang d'une créature ou une tache de sang  
+
+**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+
+Le personnage découvre la réponse à une question spécifique qui porte sur une créature tant qu'il a au moins accès à une goutte de son sang. Il peut lancer le sort sur une créature morte ou vivante, mais les êtres vivants ou morts-vivants ont droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour résister au sort. Le sort fonctionne aussi bien avec du sang frais que séché. Quand le personnage lance le sort, la réponse à l'une des quatre questions suivantes apparaît sur la surface plane de son choix (un mur, un bout de papier, etc.).
+
+- Qui es-tu ? (Le nom sous lequel la créature est la plus connue)
+- Qu'es-tu ? (Sexe, race, profession/rôle)
+- Comment a-t-on versé ton sang ? (Bref résumé des évènements qui ont provoqué la blessure, au mieux des connaissances de la victime)
+- Quand ton sang a-t-il été versé ?
+
+Les réponses apparaissent toujours dans un langage que le personnage comprend, même si la créature ne parle pas sa langue ou n'en parle aucune.

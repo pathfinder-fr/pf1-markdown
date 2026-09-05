@@ -1,0 +1,26 @@
+---
+Name: Aventures.Ecailles de Térendélev
+Title: Ecailles de Térendélev
+LastModified: 2021-07-31 12:43
+---
+
+<div class="BD">
+{s:BDTitre|Écailles de Térendélev|}
+{s:BDTexte|*Source : [Aides de jeu AP13|La Colère des Justes], p.493*}
+**Aura** variable  puissante ; **NLS** 19 ; **Emplacement** Aucun ; **Artefact Mineur** ; **Poids** - kg
+(((Description)))
+Ces écailles de dragon d’argent de la taille d’une paume sont des objets uniques et des artefacts mineurs résultant de la mort de Térendélev sous la lame du Roi des tempêtes.\
+Chacune des écailles de Térendélev confère un pouvoir différent à la personne qui le transporte. Les pouvoirs ne s’activent pas si la personne transporte plus d’une écaille.
+(((Capacités)))
+Les pouvoirs des quatre écailles sont décrits ci-dessous ; une créature autre que Mauvaise qui prend en main une écaille comprend immédiatement comment l’utiliser.
+
+**Marche brumeuse.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [Lévitation](./../Pathfinder-RPG/Lévitation.md). Une colonne de nuages tourbillonnants surgit sous l’objet ou la créature visée, puis sa taille augmente ou diminue selon l’altitude choisie par la cible. Cette colonne mesure 1,50 mètre de diamètre (quelle que soit la taille de la cible) et offre un camouflage (20% de chances d’échec) aux objets et créatures qu’elle englobe entièrement.
+
+**Déguisement.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [modification d’apparence](./../Pathfinder-RPG/Modification dapparence.md). Une fois déguisée, la cible gagne un bonus de +4 aux tests de Bluff contre les créatures Mauvaises.
+
+**Résistance.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [Résistance aux énergies destructives](./../Pathfinder-RPG/Résistance aux énergies destructives.md), mais uniquement pour résister à l’électricité ou au froid.
+
+**Arme sacrée.** Trois fois par jour par une action simple, une écaille peut être utilisée pour lancer [Arme alignée](./../Pathfinder-RPG/Arme alignée.md), mais uniquement pour aligner une arme sur la Loi ou le Bien. À la différence d’un sort normal d’arme alignée, cet effet peut être produit sur des mains nues ou des armes naturelles.
+(((Destruction)))
+Khorramzadeh, le Roi des tempêtes, peut détruire chacune des écailles de Térendélev simplement en les dévorant.
+</div>

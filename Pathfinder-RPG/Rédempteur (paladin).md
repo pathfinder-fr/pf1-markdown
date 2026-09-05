@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Rédempteur (paladin)
+Title: Rédempteur
+LastModified: 2020-07-15 19:29
+Categories:
+- Archétype
+- Manuel des races
+- Règles officielles
+---
+
+{s:Menuarchétypepaladin}{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
+*Comme les demi-orques sont souvent des parias, les paladins demi-orques savent que les individus monstrueux ne sont pas forcément maléfiques et que, parfois, les gens sont devenus mauvais à cause des circonstances et de leur manque de chance. Certains paladins demi-orques défendent la cause de ces créatures incomprises, les protègent et tentent de les ramener vers la lumière. On les appelle des rédempteurs.*
+
+#### Châtiment miséricordieux (Sur)
+Au niveau 1, quand un rédempteur [châtie](./Paladin.md#CHATIMENTDUMAL) une créature, il peut décider de lui porter uniquement des attaques [non létales](./Dégâts non létaux.md). Il ne subit pas le malus de -4 habituellement lié à l’utilisation d’armes létales pour un usage non létal. Il ne peut pas utiliser ce pouvoir pour faire des dégâts non létaux à des [Extérieurs](./type Extérieur.md) de [sous-type maléfique](./sous-type Mal.md), à des [dragons](./type Dragon.md) Mauvais ou à des [morts-vivants](./type Mort-vivant.md) (son châtiment leur inflige des dégâts létaux).
+
+#### Bons rapports avec les monstres (Ext)
+Au niveau 1, le rédempteur obtient un bonus de +2 aux tests de [Diplomatie](./Diplomatie.md) pour influencer des créatures communément assimilées à des monstres. Cela comprend, sans s’y limiter, les races « monstrueuses » comme les [gobelins](./Gobelin (race).md) et les [orques](./orque (race).md), les [humanoïdes monstrueux](./type Humanoïde monstrueux.md) et les autres monstres humanoïdes intelligents. Ce pouvoir remplace [détection du Mal](./Paladin.md#DETECTIONDUMAL).
+
+#### Pacte de paix (Mag)
+Au niveau 8, le rédempteur peut obliger une créature vaincue à accepter un pacte de paix qui l’oblige à respecter une condition, comme avec *[mission](./Mission.md)*. Le [niveau de lanceur de sorts](./NLS.md) du rédempteur est égal à son niveau de paladin. Au lieu d’assigner une tâche ou une mission au vaincu, il lui donne juste quelques interdits à respecter, afin de protéger les autres, par exemple : « *Quitte cette ville et n’y reviens jamais* » ou « *N’attaque plus de caravanes.* » Cette interdiction protège une zone de 700 kilomètres carrés au maximum ou un groupe de gens (une tribu ou les habitants d’une ville donnée). L’effet de ce pouvoir dure 1 mois par niveau de paladin. Ce pouvoir remplace [aura de fermeté](./Paladin.md#AURADEFERMETE).
+
+#### Aura de miséricorde (Sur)
+Au niveau 11, un rédempteur peut dépenser deux utilisations de sa capacité de châtiment miséricordieux pour en faire bénéficier tous les alliés qui se trouvent dans un [rayon](./rayon.md) de 3 mètres (2 {s:c}). Les alliés doivent utiliser le châtiment miséricordieux avant le début du prochain tour du rédempteur. Ils bénéficient des bonus du rédempteur pendant 1 minute. Cette action nécessite une [action libre](./Action libre.md). Les créatures Mauvaises ne bénéficient pas de ce pouvoir qui remplace [aura de justice](./Paladin.md#AURADEJUSTICE).
+
+#### Associés
+Le rédempteur peut s’allier avec une créature maléfique tant qu’il pense qu’elle a une chance de connaître la rédemption. Il peut accepter des hommes de main, des suivants et des compagnons d’armes autres que Loyaux Bons
+s’ils désirent le suivre et s’améliorer grâce à lui.

@@ -1,0 +1,56 @@
+---
+Name: Pathfinder-RPG.Nuée de bousiers
+Title: Bousier, Nuée de bousiers
+LastModified: 2023-12-20 17:32
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Nuée de bousiers|FP 3}
+{s:pucem|Vermine|Désert|Tropical}
+{s:BDTexte|*Source : Bestiaire 5 p.49*}
+{s:BDTexte|**PX** 800}
+{s:BDTexte|[Vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille I, N}
+{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 18, contact 18, pris au dépourvu 18 (taille +8)}
+{s:BDTexte|**pv** 22 (4d8+4)}
+{s:BDTexte|**Réf** +1, **Vig** +5, **Vol** +1 ; +4 contre maladie et paralysie}
+{s:BDTexte|**Capacités défensives** traits des nuées ; **Immunités** effets mentaux, armes}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, escalade 3 m, [vol](./Vol (capacité).md) 6 m (maladroite)}
+{s:BDTexte|**Corps à corps** nuée (1d6 plus maladie et distraction)}
+{s:BDTexte|**Espace occupé** 3 m ; **Allonge** 0 m.}
+{s:BDTexte|**Attaques spéciales** [distraction](./Distraction (capacité).md) (DD 13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 1, **Dex** 10, **Con** 13, **Int** —, **Sag** 11, **Cha** 2}
+{s:BDTexte|**BBA** +3 ; **BMO** — ; **DMD** —}
+{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +4, [Vol](./Vol.md) +0 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** déserts chauds}
+{s:BDTexte|**Organisation** solitaire, paire ou infestation (3-6)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[jet de sauvegarde](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [Dex](./Dextérité.md) et de 1d3 [Con](./Constitution.md) ; *guérison* 2 jets de sauvegarde consécutifs.}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de bousier
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Bousier géant](./Bousier géant.md) || 6
+|-
+| [Nuée de bousiers](./Nuée de bousiers.md) || 3
+|}
+</div>*De cette masse d’insectes iridescents d’un noir bleuté se dégage une puanteur nauséabonde. Elle est accompagnée d’un nuage de poussière sale.*
+
+Les bousiers se regroupent souvent en nuées et terrorisent les régions désertiques isolées. Ces vermines sont une menace pour les tombeaux antiques, car elles se frayent un chemin à coups de mandibules à travers les corps enterrés.
+
+Une nuée de bousiers rassemble des milliers d’individus, chacun sali par ses contacts constants avec le crottin et les ca- davres. Alors qu’individuellement ils ne font généralement pas attention aux autres créatures, quand ils se trouvent en nuée, les bousiers infligent des milliers de morsures vives à ceux qui se trouvent sur leur chemin et leur transmettent au passage une maladie infectieuse. Les morsures de la nuée devraient être que le cadets des soucis des victimes de ces coléoptères, car c’est surtout de la maladie qu’elles véhiculent qu’il faut se méfier, sachant qu’elle cause bien plus de morts que l’appétit des insectes.
+
+Certains érudits religieux ont émis la théorie selon laquelle ces bousiers s’assemblent en nuées sous l’influence de la même énergie maléfique qui est à l’origine des morts-vivants. Néanmoins, la plupart des gens considèrent une telle supposition comme une simple superstition. Certains adeptes des dieux de la mort voient dans l’arrivée d’une nuée de bousiers un signe de mauvaise fortune.
+</div></td></tr></table>

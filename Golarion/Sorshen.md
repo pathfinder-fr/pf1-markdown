@@ -1,0 +1,7 @@
+---
+Name: Golarion.Sorshen
+Title: Sorshen
+LastModified: 2010-12-09 12:18
+---
+
+Sorshen était le Seigneur des Rune dirigeant [Eurythnia](./Thassilon.md), domaine thassilonien de la Luxure.

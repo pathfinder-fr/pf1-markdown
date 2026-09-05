@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Armure En Peau de Chat
+Title: Armure en peau de chat
+LastModified: 2024-05-24 22:31
+Categories:
+- Objet mag armure
+---
+
+<div class="BD">
+{s:BDTitre|Armure en peau de chat|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 13 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 18.910 po ; **Poids** 17,5 kg
+(((Description)))
+Cette armure n’est pas fabriquée à partir d’une peau de chat, c’est une armure de cuir d’*[ombre](./ombre (propriété).md)* +1 d’un noir de jais et extrêmement souple qui octroie une part de la grâce et de la chance des félins à celui ou celle qui la porte. Elle n’impose aucun malus d’armure aux tests ni aucun maximum au bonus de [Dextérité](./Dextérité.md). Le porteur bénéficie d’un bonus de compétence de +2 aux tests d’[Acrobaties](./Acrobaties.md) et subit la moitié seulement des dégâts dus aux chutes. Lorsque les points de vie du porteur sont réduits à un montant négatif égal à sa valeur de [Constitution](./Constitution.md) suite à une attaque ou un sort, l’armure tombe en morceaux (elle est détruite) et le porteur subit uniquement la moitié des dégâts infligés par le sort ou l’attaque.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[grâce féline](./Grâce féline.md)*, *[feuille morte](./Feuille morte.md)* et soit *[souhait limité](./Souhait limité.md)*, soit *[souhait](./Souhait.md)*, soit *[miracle](./Miracle.md)*  ; **Coût** 9.535 po
+</div>

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tabard (objet)
+Title: Tabard
+LastModified: 2021-09-22 14:54
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Souvent porté par-dessus une armure, cet habit est généralement sans manche et ouvert sur les flancs. Son large endroit permet de broder des insignes ou des armoiries, mettant ainsi en évidence l’allégeance du porteur.

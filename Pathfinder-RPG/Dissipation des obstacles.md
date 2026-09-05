@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Dissipation des obstacles
+Title: Dissipation des obstacles
+LastModified: 2024-07-23 17:53
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage a maîtrisé l’art de faire disparaître certains sorts lorsqu’ils deviennent un problème pour lui et ses alliés.*
+
+**Avantage.** Le personnage peut dissiper tous les sorts de fosse (tel que *[création de fosse](./Création de fosse.md)*, *[fosse affamée](./Fosse affamée.md)*, *[fosse hérissée de pieux](./Fosse hérissée de pieux.md)* et les sorts similaires qui possèdent le mot *fosse* dans leur nom) ou les sorts de murs (tels que *[mur de feu](./Mur de feu.md)*, *[mur de glace](./Mur de glace.md)* et les sorts similaires qui possèdent le mot *mur* dans leurs noms) qu'il a lancé. Les sorts doivent avoir une durée d’au moins 1 [round](./round.md). Cette capacité fonctionne en suivant les règles normales de mise à terme, permettant au personnage de dissiper les fosses et murs conjurés par une [action simple](./Action simple.md).
+
+**Normal.** Plusieurs sorts de fosse et de murs ne peuvent être dissipés sans l’aide de ce don.
+
+(((Hindrance dismissal
+
+You’ve mastered the art of dismissing certain spells when they become a problem for you or your allies.
+
+Benefit: You can dismiss any pit spell (such as create pit APG , hungry pit APG , spiked pit APG , and similar spells with “pit” in their names) or wall spell (such as wall of fire, wall of ice, and similar spells with “wall” in their names) you cast. The spells must have a duration of at least 1 round. This ability follows the normal rules for dismissing spells, allowing you to dismiss conjured pits and walls as a standard action.
+
+Normal: Several pit and wall spells cannot be dismissed without the use of this feat.)))

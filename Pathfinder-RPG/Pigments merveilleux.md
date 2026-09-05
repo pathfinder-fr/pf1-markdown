@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Pigments merveilleux
+Title: Pigments merveilleux
+LastModified: 2024-06-14 22:53
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Pigments merveilleux|{s:AE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 4 000 po ; **Poids** —
+(((Description)))
+Ces poudres colorées magiques permettent à leur utilisateur de créer des objets permanents en les dessinant en deux dimensions. Ils sont appliqués à l’aide d’un pinceau dont les poils sont des cheveux, de la fourrure, ou une matière du même type. Une fois le dessin achevé, le personnage doit se concentrer pour faire naître l’objet. Un pot de pigments merveilleux permet de créer un objet de 30 m³ maximum en le représentant en deux dimensions sur une surface de 9 m² (un carré de 3 m de côté).
+
+On ne peut dessiner que des objets normaux et inanimés, pas des créatures, quelles qu’elles soient. Les pigments doivent être appliqués sur une surface, ce qui nécessite dix minutes et requiert un test d’[Artisanat](./Artisanat.md) (peinture) de [DD](./DD.md) 15. Ils ne peuvent pas créer des objets magiques. Malgré leur aspect précieux, les objets de valeur dessinés par les pigments (or, platine, gemmes, bijoux, ivoire, etc.) sont en réalité constitués de matériaux vulgaires (fer blanc, plomb, verroterie, os et autres). Le possesseur des pigments peut s’en servir pour créer des armes et des armures non-enchantées, ainsi que tout objet (même la nourriture) dont la valeur ne dépasse pas 2 000 po. Tous les objets créés sont non-magiques. L’effet des pigments est instantané.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création majeure](./Création majeure.md)* ; **Coût** 2 000 po
+</div>

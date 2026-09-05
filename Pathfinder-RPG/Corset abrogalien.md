@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Corset abrogalien
+Title: Corset de guêpes de l'Enfer
+LastModified: 2024-05-24 22:32
+Categories:
+- Objet mag
+- Objet mag armure
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Corset de guêpe des enfers|{s:RSE}}
+**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 9 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 17 175 po ; **Poids** 5 kg
+(((Description)))
+{s:cs}Inventée par la reine de l'Empire diabolique, cette *[armure de cuir cloutée](./armure de cuir cloutée (armure).md) +3* est somptueusement ornée d’un [essaim de guêpes de l’Enfer](./Essaim de guêpes de lEnfer.md) liées. Autrefois classé parmi les pièces vestimentaires les plus spectaculaires de l'Empire, ce corset demande un processus de création aussi légendaire que la protection qu’il offre.
+
+Les guêpes liées au corset annulent les vingt premiers points de dégâts que le personnage reçoit dans une même journée (la protection se réinitialise à minuit). Une fois que les guêpes ont annulé les vingt premiers points de dégâts du jour, elles s’animent, furieuses, et tourbillonnent autour du personnage qui doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 18 ou être [nauséeux](./Nauséeux.md) pendant un [round](./round.md). Après un round d’activité, l’essaim s’en retourne au corset et se met en veille. Et sa capacité à annuler les dégâts ne fonctionne plus jusqu’à ce qu’il la recouvre minuit venu.
+
+L’essaim ne peut pas être pris pour cible indépendamment de l’armure et ne peut pas être tué à moins que l’armure ne soit détruite (pas simplement brisée).
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[allié d’outreplan](./Allié doutreplan.md)*, *[nuée grouillante](./Nuée grouillante.md)*, [NLS](./NLS.md) 9 ; **Coût** 8 675 po
+</div>

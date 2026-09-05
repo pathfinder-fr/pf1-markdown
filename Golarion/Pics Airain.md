@@ -1,0 +1,11 @@
+---
+Name: Golarion.Pics Airain
+Title: Pics d'Airain
+LastModified: 2010-01-22 20:17
+Categories:
+- Géographie
+- Katapesh
+- Osirion
+---
+
+Cette chaîne de montagne est située au [Garund](./Garund.md), à la frontière entre l'[Osirion](./Osirion.md) et le [Katapesh](./Katapesh.md).

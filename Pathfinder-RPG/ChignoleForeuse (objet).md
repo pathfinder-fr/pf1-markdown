@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.ChignoleForeuse (objet)
+Title: Chignole/Foreuse
+LastModified: 2021-09-24 20:16
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 pa ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Une chignole permet de percer des trous de 2,5 centimètres de diamètre dans la pierre, le bois ou le métal par une [action simple](./Action simple.md). Les matériaux plus durs abîment ou brisent la chignole plus rapidement. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour entendre le bruit d'une chignole.

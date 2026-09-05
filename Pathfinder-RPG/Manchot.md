@@ -1,0 +1,47 @@
+---
+Name: Pathfinder-RPG.Manchot
+Title: Manchot
+LastModified: 2026-08-03 09:24
+Categories:
+- Familier
+- Monstre
+- Src Bestiaire 5
+- Src Familiar Folio
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Manchot|FP 1/3}
+{s:pucem|Animal|Aquatique|Froid}
+{s:BDTexte|*Source : [Bestiaire 5 p.121](./Bestiaire 5 (Contenu).md), Familiar Folio p.27*}
+{s:BDTexte|**PX** 135}
+{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 11, contact 10, pris au dépourvu 11 (Dex -1, naturelle +1, taille +1)}
+{s:BDTexte|**pv** 5 (1d8+1)}
+{s:BDTexte|**Réf** +1, **Vig** +3, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m, nage 12 m, glissade 9 m}
+{s:BDTexte|**Corps à corps** morsure, +0 (1d3-1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 9, **Dex** 8, **Con** 13, **Int** 2, **Sag** 12, **Cha** 7}
+{s:BDTexte|**BBA** +0 ; **BMO** -2 ; **DMD** 7}
+{s:BDTexte|**Dons** [Talent](./Talent.md) (Perception)}
+{s:BDTexte|**Compétences** [Natation](./Natation.md) +7, [Perception](./Perception.md) +8}
+{s:BDTexte|**Particularités** [Retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** océans froids}
+{s:BDTexte|**Organisation** solitaire, couple ou colonie (100-1000)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Glissade (Ext).** Sur un terrain couvert de glace ou de neige, un manchot peut se déplacer à une vitesse de 9 mètres en glissant sur son ventre au lieu de marcher.}
+{s:BDTexte|**Familier** Un familier manchot accorde a son maître un bonus de +3 aux jets de Natation.}
+
+</div></td>
+<td><div>''Les traits les plus remarquables de ces oiseaux incapables de voler sont leurs couleurs blanche et noire et leur dandinement lorsqu’ils marchent.
+
+Il existe de nombreuses espèces de manchots, bien que la plupart présentent des caractéristiques similaires. Le trait le plus distinctif du manchot est son plumage en motif de costume, qui lui sert de camouflage lorsqu'il chasse le poisson sous l'eau : son dos et ses nageoires noirs lui permettent de se confondre avec l'eau lorsqu'il est vu d'en haut, tandis que son ventre blanc rappelle le ciel lumineux lorsqu'il est observé depuis les profondeurs.
+
+Un manchot de l'espèce la plus commune mesure environ 90 cm de haut et pèse dans les 30 kg. Les espèces de manchots plus imposantes peuvent atteindre des hauteurs de 1,20 mètre et peser jusqu'à 45 kg.''
+</div></td></tr></table>

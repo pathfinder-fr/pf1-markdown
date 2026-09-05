@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Écailles et peau
+Title: Écailles et peau
+LastModified: 2024-07-23 17:56
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Lorsque la magie transforme le personnage, sa peau se durcit.*
+
+**Condition.** [Con](./Constitution.md) 13
+
+**Avantage.** Lorsque un sort ou un pouvoir magique de transmutation affecte le personnage, son bonus d’armure naturelle augmente de 1. Si le personnage ne possède aucun bonus d’armure naturelle à la [CA](./CA.md), on considère qu’il est à 0 lorsqu’il s’agit de ce don. Le bonus passe à +2 si le [niveau de lanceur de sorts](./NLS.md) de l’effet est de 10 ou plus.
+
+(((Scale and skin
+
+When you are changed by magic, your skin also toughens.
+
+Prerequisite: Con 13.
+
+Benefit: Whenever a transmutation spell or spell-like ability affects you, your natural armor bonus increases by 1. If you have no natural armor bonus to Armor Class, treat your natural armor bonus as 0 for the purposes of this feat. The bonus to your natural armor bonus increases by 2 if the caster level of the effect is 10th or higher.)))

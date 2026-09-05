@@ -1,0 +1,37 @@
+---
+Name: Pathfinder-RPG.Mixture pour bombe rebondissante
+Title: Mixture pour bombe rebondissante
+LastModified: 2025-05-13 15:05
+Categories:
+- Sort
+- Sort alchimiste 3
+- Src Magic Tactics Toolbox
+---
+
+{s:cs}{s:MTT}**École** [Transmutation](./Transmutation.md) ; **Niveau**  [Alch](./Alchimiste.md) 3
+**Temps d'incantation** 1 [action rapide](./Action rapide.md)
+**Composantes** [V, S](./composantes.md)
+**Portée** Personnelle
+**Cibles** Le lanceur de sort
+**Durée** 1 round
+**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+
+En buvant un [extrait](./Alchimiste.md#EXTRAITS) créé avec cette [formule](./Alchimiste.md#FORMULES), vous apportez un changement significatif à votre réserve magique qui modifie la nature de la prochaine [bombe](./Alchimiste.md#BOMBES) que vous créerez et lancerez pendant la durée de cet [extrait](./Alchimiste.md#EXTRAITS). Cet effet sur votre réserve magique n'a aucun effet sur les [découvertes](./Alchimiste.md#DECOUVERTES) que vous utilisez pour modifier vos [bombes](./Alchimiste.md#BOMBES), mais vous ne pouvez avoir qu'un seul effet de mixture (une [formule](./Alchimiste.md#FORMULES) avec « Mixture de bombe » dans son titre) actif à la fois. Si vous buvez un autre mélange de [bombes](./Alchimiste.md#BOMBES), les effets du premier mélange prennent fin et le nouveau devient actif.
+
+Lorsque vous lancez votre prochaine [bombe](./Alchimiste.md#BOMBES), choisissez une cible qui devrait normalement être touchée par les dégâts de la [bombe](./Alchimiste.md#BOMBES). La cible est affectée comme si elle avait été touchée directement par la [bombe](./Alchimiste.md#BOMBES).
+
+(((Bouncing Bomb Admixture
+Source Magic Tactics Toolbox pg. 10
+School transmutation; Level alchemist 3, investigator 3
+Casting
+Casting Time 1 swift action
+Components V, S
+Effect
+Range personal
+Target you
+Duration 1 round
+Saving Throw Will negates (harmless); Spell Resistance no
+Description
+Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of the next bomb you create and throw during this extract’s duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (a formula with “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.
+
+When you throw your next bomb, choose one target that would normally be hit by the bomb’s splash damage. The target is affected as if it suffered a direct hit from the bomb instead.)))

@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Rat
+Title: Rat
+LastModified: 2015-02-24 21:18
+Categories:
+- Bestiaire
+- Monstre
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Rat|FP 1/4}
+{s:BDTexte|*Source : Bestiaire p.137*}
+{s:BDTexte|**PX** 100}
+{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|**pv** 4 (1d8)}
+{s:BDTexte|**Réf** +4, **Vig** +2, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 4,50 m (3 {s:c}), escalade 4,50 m (3 {s:c}), nage 4,50 m (3 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d3-4)}
+{s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 2, **Dex** 15, **Con** 11, **Int** 2, **Sag** 13, **Cha** 2}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** climat tempéré}
+{s:BDTexte|**Organisation sociale** solitaire, couple, nid (3-12) ou meute (13-100)}
+{s:BDTexte|**Trésor** aucun}
+</div>
+</td><td><div>Les rats sont des rongeurs omnivores féconds et discrets qui
+pullulent surtout dans les zones urbaines.
+
+Les rats peuvent servir de familier aux lanceurs de sort. Un familier rat donne à son maître un bonus de +2 aux jets de Vigueur.
+</div></td></tr></table>

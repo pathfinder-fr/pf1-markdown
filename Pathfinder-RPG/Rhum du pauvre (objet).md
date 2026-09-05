@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Rhum du pauvre (objet)
+Title: Rhum du pauvre (la tasse)
+LastModified: 2021-09-22 17:12
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+---
+Boisson forte mêlant du rhum, du vin, de la bière, de l’œuf, du sucre et des épices, le rhum du pauvre est servi chaud dans les tavernes les plus raffinées.

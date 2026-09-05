@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.fragile
+Title: fragile
+LastModified: 2024-01-28 22:40
+Categories:
+- Redirection
+---
+
+>>> Caractéristiques des armes#FRAGILE

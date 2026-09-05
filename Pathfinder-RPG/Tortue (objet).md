@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tortue (objet)
+Title: Tortue
+LastModified: 2021-09-21 13:34
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 3 po ; **Poids** 2 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Ces reptiles arborent une carapace en os à l’intérieur de laquelle ils peuvent se cacher. Ils sont parfois utilisés comme animaux de compagnie ou comme [familiers](./Familiers.md) et, dans certains endroits, on mange leur chair ou on l’utilise pour préparer des médicaments. Voir les statistiques de la [tortue](./Tortue.md).

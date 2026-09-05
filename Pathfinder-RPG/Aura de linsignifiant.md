@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Aura de linsignifiant
+Title: Aura de l'insignifiant
+LastModified: 2024-06-21 15:48
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 3
+- Sort hypnotiseur 3
+- Sort magicien 4
+- Sort médium 2
+- Sort psychiste 3
+- Src Recueil de la Société des Éclaireurs
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Hyp](./Hypnotiseur.md) 3, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 3
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, M](./composantes.md) (une plume blanche)
+**Portée** 9 mètres
+**Cible** créatures non-alliées dans une émanation de 9 mètres de rayon
+**Durée** 1 minute/niveau (T) et instantanée
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+Une sphère de magie invisible entoure le personnage, brouillant l’esprit des créatures de la zone afin qu’elles considèrent ses actions comme inoffensives, même si elles sont très étranges. Par exemple, si le personnage et ses alliés sont en train de battre un garde de la cité pour obtenir des informations, les créatures situées dans la zone d’effet n’y verront rien d’anormal ni aucune raison de s’alarmer. Si l’allié du personnage pointe une arbalète sur la reine depuis un balcon, les créatures affectées trouveront cela normal et ne s’en inquièteront pas. Cet effet est rompu dès que le personnage ou un de ses alliés entreprend une action hostile contre une créature située dans la zone d’effet, mais seulement pour cette créature. Quand le sort se termine (ou que les créatures affectées se déplacent hors de la zone d'effet), les témoins voient les choses normalement mais leurs perceptions restent altérées en ce qui concerne les évènements précédents. Si quelque chose vient donner de l’importance à un événement affecté par le sort (si un représentant de l’autorité pose des questions dessus, par exemple), la cible à droit à un autre jet de [Volonté](./Volonté.md) pour briser l’effet et se souvenir des choses normalement.

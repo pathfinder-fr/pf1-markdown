@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Scarabée de Khépri
+Title: Scarabée du dieu des travailleurs
+LastModified: 2024-06-15 15:07
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Scarabée du dieu des travailleurs|{s:RSE}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 7 800 po ; **Poids** —
+(((Description)))
+{s:Desambi|Cet objet a été modifié dans l'<u>AP#84</u>, sa traduction a donc été modifiée pour coller à sa plus récente itération.}Cette petite statuette bleue est sculptée à l’effigie d'un scarabée bousier, l'animal sacré du dieu de la liberté, du soleil levant et du travail dans l'ancien Osirion. Quand un personnage est en possession de cet objet, il peut, une fois par jour, communiquer avec la vermine comme s’il utilisait *[communication avec les animaux](./Communication avec les animaux.md)* mais les informations qu’elle lui donne sont très limitées. Si le personnage possède la capacité de classe [empathie sauvage](./Druide.md#EMPATHIESAUVAGE), il peut s’en servir sur la vermine comme sur les animaux. Il peut, une fois par jour, utiliser le scarabée pour lancer *[nuée grouillante](./Nuée grouillante.md)* et invoquer des scarabées bousiers (comme une [nuée d’araignées](./Nuée daraignées.md), mais ils infligent la [fièvre des marais](./maladie.md#FIEVREDESMARRAIS) au lieu d’empoisonner leur cible.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Coeur de vermine](./Coeur-de-vermine.md), *[communication avec les animaux](./Communication avec les animaux.md)*, *[nuée grouillante](./Nuée grouillante.md)* ; **Coût** 3 900 po
+</div>

@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Anneau de subsistance
+Title: Anneau de subsistance
+LastModified: 2024-05-25 16:55
+Categories:
+- Objet mag anneau
+---
+
+<div class="BD">
+{s:BDTitre|Anneau de subsistance|}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 500 po ; **Poids** —
+(((Description)))
+Cet anneau nourrit continuellement son porteur. De plus, il le revigore, tant physiquement que mentalement, ce qui a pour conséquence que le personnage n’a plus besoin que de deux heures de sommeil par nuit pour être en pleine forme (au lieu de huit). Cela permet à un lanceur de sort qui a besoin de repos pour préparer ses sorts de le faire après seulement deux heures mais cela ne lui permet pas de les préparer plus d'une fois par jour. L’anneau doit être porté sans discontinuer pendant une semaine pour que son effet commence à se faire sentir. S’il est ôté, il est nécessaire de le porter une nouvelle semaine pour qu’il se réaccorde à son porteur.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[création de nourriture et d’eau](./Création de nourriture et deau.md)* ; **Coût** 1 250 po
+</div>

@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Poussière de restauration
+Title: Poussière de restauration
+LastModified: 2024-06-13 20:28
+Categories:
+- Objet mag merveilleux
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Poussière de restauration|{s:MCA}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 000 po ; **Poids** —
+(((Description)))
+Cette poussière rouge et soyeuse est agréablement chaude au toucher. Quand on en saupoudre un cadavre partiellement décomposé ou un squelette, elle répare et reforme la chair morte et les os, permettant ainsi l’identification ou le rappel à la vie du cadavre comme s’il avait été tué récemment (réinitialisant le décompte des jours qui limite *[rappel à la vie](./Rappel à la vie.md)*). Si plus de la moitié des os ont disparu ou que le sujet est mort depuis plus de cents ans, la poussière n’a aucun effet.
+Une fiole contient assez de *poussière de restauration* pour restaurer un seul cadavre de taille M ou plus petit. On peut restaurer un cadavre de plus grande taille en utilisant plusieurs fioles (2 pour les créatures de taille G, 4 pour les créatures de taille TG, 8 pour les créatures de taille Gig et 16 pour les créatures de taille C).
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[réparation intégrale](./Réparation intégrale.md)* ; **Coût** 1 000 po
+</div>

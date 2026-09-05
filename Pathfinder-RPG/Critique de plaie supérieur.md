@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Critique de plaie supérieur
+Title: Critique de plaie supérieur
+LastModified: 2012-11-16 23:08
+Categories:
+- Art de la Magie
+- Don
+- Don Critiques
+- Règles officielles
+---
+
+{s:um}*Les coups critiques des sorts et pouvoirs magiques affligent la cible d’une malédiction majeure. *
+
+**Conditions.** [Critique de plaie](./Critique de plaie.md), lanceur de sorts niveau 12
+
+**Avantage.** Quand le personnage confirme un [coup critique](./coup critique.md) avec un sort de contact, de contact à distance ou un pouvoir magique, la cible est victime d’une [plaie magique](./Plaies.md) majeure aléatoire.
+
+**Spécial.** Le personnage applique les effets d’un unique don de critique à un [coup critique](./coup critique.md) donné, à moins de posséder [Maîtrise du critique](./Maîtrise du critique.md).

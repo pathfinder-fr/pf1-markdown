@@ -1,0 +1,86 @@
+---
+Name: Pathfinder-RPG.aquatique (race)
+Title: Les aquatiques
+LastModified: 2025-01-12 15:45
+Categories:
+- Règle officielle
+- Src Manuel des races
+---
+
+{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Aquatique.md) d'un aquatique standard.***
+
+Les aquatiques sont les derniers survivants d’une race d’humanoïdes de la surface dont la terre natale fut noyée lors d’un grand cataclysme que l’on doit aux aboleths. Ces derniers secoururent les quelques survivants, les transformant en une race amphibie dont les membres devinrent leurs émissaires sur le monde de la surface. Les aquatiques contemporains demeurent solitaires et méfiants, marqués par la perte de leur ancien héritage et la certitude que les aboleths ne font rien sans attendre quelque profit en retour. Physiquement, les aquatiques ont des sourcils expressifs, la peau pâle, les cheveux sombres et des yeux d’un mauve éclatant. Trois petites branchies marquent chacun des côtés de leur cou, près de l’épaule, mais, en outre, ils ressemblent suffisamment aux humains pour apparaître comme tels (pendant un temps) sans craindre d’être découverts.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 [Constitution](./Constitution.md), +2 [Charisme](./Charisme.md), -2 [Sagesse](./Sagesse.md).** Les aquatiques sont beaux et vigoureux, mais la domination qu’exercent les aboleths sur eux a affaibli leur volonté.
+- **Taille M.** Les aquatiques sont des créatures de [taille M](./taille M.md) et n’ont aucun bonus ni malus de taille.
+- **Aquatique.** Les aquatiques sont des [humanoïdes](./type Humanoïde.md) de sous-type [aquatique](./sous-type aquatique.md).
+- **Vitesse normale.** Les aquatiques ont une [vitesse de base](./VD.md) de 9 mètres sur la terre ferme. En tant que créatures aquatiques, ils ont aussi une [vitesse de nage](./Natation.md#Spécial_2) de 9 mètres, peuvent se déplacer dans l’eau sans faire de test de [Natation](./Natation.md), et considèrent toujours Natation comme une compétence de classe.
+- **Amphibie.** Les aquatiques ont le sous-type [aquatique](./sous-type aquatique.md), mais peuvent [respirer à l’air libre et sous l’eau](./Amphibie (capacité).md).
+- **Résistance à l’enchantement.** Les aquatiques gagnent un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts et effets d’[enchantement](./Enchantement.md) des non-aboleths, mais reçoivent un malus de -2 à leurs jets de sauvegarde contre les sources [aboleths](./Aboleth.md).
+- **Dépendant de l’eau.** Le corps de l’aquatique nécessite d’être constamment immergé dans de l’eau douce ou salée. Les aquatiques qui passent plus d’une journée sans s’immerger complètement dans l’eau risquent une défaillance des organes internes, un dessèchement douloureux de la peau et la mort en 4d6 heures.
+- **Langues.** Les aquatiques commencent le jeu en sachant parler le commun et l’aboleth. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée  peuvent apprendre d’autres langues parmi celles-ci : aklo, aquatique, draconique et elfique.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+{s:MR}Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des aquatiques. Consultez votre MJ avant de prendre ces options.
+
+<u>*Remplace « amphibie » et « dépendant de l'eau », modifie « aquatique » et « vitesse normale » :*</u>
+- **Rescapé.** Certains aquatiques sont des survivants directs de leurs ancêtres humains de la terre. Les aquatiques possédant ce trait racial n’ont pas le trait amphibie, ont le sous-type [humain](./sous-type humain.md) au lieu du sous-type aquatique, n’ont pas de vitesse de nage ni de bonus de [Natation](./Natation.md), ne peuvent pas respirer sous l’eau et n’ont pas le trait racial dépendant de l’eau.
+
+<u>*Remplace « amphibie » et « résistance à l'enchantement » :*</u>
+- {s:cs}{s:ISR}**Aquatique des profondeurs.** Certains aquatiques vivent dans les océans les plus profonds et ne visitent presque jamais la surface au-delà des mers. Ces aquatiques obtiennent la [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres ainsi qu'une [résistance](./Résistance (capacité).md) au froid de 5, afin de survivre aux profondeurs dépourvues de lumière. Ce trait racial remplace amphibie et résistance à l'enchantement.
+
+<u>*Remplace « dépendant de l'eau » :*</u>
+- **Riviérain.** Certains groupes d’aquatiques vivent en colonies le long de grandes rivières et se sont adaptés pour vivre sur la terre plus longtemps. Les aquatiques ayant ce trait sont recouverts d’une fine couche d’huile naturelle qui empêche leur peau de se craqueler, même sans eau. Néanmoins, cette huile naturelle les rend particulièrement sensibles aux flammes, et ils reçoivent [vulnérabilité](./Vulnérabilités (capacité).md) au feu. Ce trait racial remplace dépendant de l’eau.
+
+<u>*Remplace « résistance à l'enchantement » :*</u>
+- **Chasseur de vase.** Les aquatiques possédant ce trait sont issus de lignées qui combattent les aboleths depuis que ces aberrations ont secouru leurs ancêtres humains. Ils reçoivent un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts, pouvoirs magiques et capacités surnaturelles des [aboleths](./Aboleth.md). Ce trait racial remplace résistance à l’enchantement.
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+{s:MR}**[Ensorceleur](./Ensorceleur.md).** Ajoutez un sort connu de la [liste des sorts d’ensorceleur](./Liste des sorts densorceleursmagiciens.md). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort que l’ensorceleur peut lancer.
+
+{s:MR}**[Guerrier](./Guerrier.md).** Ajoutez +1 au [DMD](./DMD.md) du guerrier pour résister à deux manoeuvres offensives choisies par le personnage.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+{s:MR}**[Magicien](./Magicien.md).** Ajoutez un sort de la [liste des sorts de magicien](./Liste des sorts densorceleursmagiciens.md). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’il peut lancer.
+
+{s:MR}**[Roublard](./Roublard.md).** Le roublard gagne 1/6 d’un nouveau [talent de roublard](./Roublard.md#TALENTDEROUBLARD).
+</td></tr></table>
+
+### Nouvelles règles raciales
+Voici les options accessibles aux aquatiques, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+
+<table width="100%"><tr><td width="49%">
+#### Archétypes de classe
+- [Pilleur occulte (roublard)](./Pilleur occulte (roublard).md) *(MR)*
+
+#### Équipement
+- [Couteau de mer](./couteau de mer (arme).md) *(MR)*
+
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+#### Objets magiques
+- [Errani kamaki](./Errani kamaki.md) *(ISR)*
+- [Masque des identités volées](./Masque des identités volées.md) *(ISR)*
+
+#### Sorts
+- [Poumons d'aboleth](./Poumons daboleth.md) *(MR)*
+
+</td></tr></table>

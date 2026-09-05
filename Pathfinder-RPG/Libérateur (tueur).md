@@ -1,0 +1,36 @@
+---
+Name: Pathfinder-RPG.Libérateur (tueur)
+Title: Libérateur
+LastModified: 2023-05-28 19:43
+Categories:
+- Archétype
+- Archétype tueur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypetueur}{s:mca}*Également appelé assassin divin, lame des dieux ou héraut de la colère divine, un libérateur est une arme choisie par un dieu pour châtier ceux qui lui ont déplu. Les divinités malveillantes ont davantage tendance à utiliser des assassins que des libérateurs, mais certaines divinités bienveillantes utilisent ces individus pour gérer les problèmes d’une manière généralement plus subtile que les prêtres, les inquisiteurs, les paladins ou les prêtres combattants.*
+
+#### Armes et armures
+Un libérateur est formé au maniement de l’arme de prédilection de son dieu, en plus des armes que le tueur sait normalement manier. Cette aptitude modifie la section Armes et armures du tueur.
+
+#### Zèle déterminé (Ext)
+Au niveau 2, un libérateur fait peu de cas des tentatives de meurtre ou de contrôle commises sur sa personne par des ennemis aux valeurs morales opposées. Lors d’un round où un libérateur attaque un adversaire dont l’alignement s’écarte d’au moins deux crans du sien (un libérateur Loyal Bon qui attaque un adversaire Chaotique Bon ou Loyal Mauvais, ou un adversaire complètement Neutre sans autre composante d’alignement), il gagne un bonus de +2 aux jets de Volonté effectués contre les aptitudes de cet adversaire. Il bénéficie aussi des avantages conférés par le don Dur à cuire jusqu’à la fin de son prochain tour. Cette aptitude remplace le talent de tueur obtenu au niveau 2.
+
+#### Vrai croyant (Ext)
+Au niveau 6, les blessures mortelles ne peuvent empêcher un libérateur d’accomplir sa mission divine. Lors d’un round où il attaque un adversaire dont l’alignement s’écarte d’au moins deux crans du sien (voir Zèle déterminé ci-dessus) pendant qu’il bénéficie des avantages du don [Dur à cuire](./Dur à cuire.md), il n’est plus [chancelant](./Chancelant.md) si son total de points de vie est négatif et ne perd plus automatiquement 1 point de vie par round.  Cette aptitude remplace le talent de tueur obtenu au niveau 6.
+
+#### Anathème divin (Ext)
+Au niveau 10, un libérateur peut, par une [action libre](./Action libre.md), déclarer qu’une cible étudiée est son anathème divin. L’alignement de la cible étudiée doit s’écarter d’au moins deux crans de celui du libérateur. Contre cette cible, les attaques du libérateur infligent 2d6 points de dégâts supplémentaires. Ces dégâts sont d’origine divine et ne se cumulent pas avec les dégâts supplémentaires infligés par une arme [sainte](./sainte (propriété).md), [impie](./impie (propriété).md) ou dotée d’un effet ou d’une propriété spéciale d’arme similaire. Un libérateur peut désigner et maintenir un seul anathème divin à la fois. Cette aptitude remplace le talent de maître tueur obtenu au niveau 10.
+
+### Talents de tueur
+Les talents de tueur (et les talents de roublard) suivants viennent compléter l’archétype de libérateur : [botte secrète](./Talents (tueur).md#BOTTESECRETE), [dénicheur de pièges](./Talents (tueur).md#DENICHEURDEPIEGES), [maîtrise du terrain](./Talents (tueur).md#MAITRISEDUTERRAIN), [recherche des pièges](./Talents (tueur).md#RECHERCHEDEPIEGES), [roublard en finesse](./Talents (tueur).md#ROUBLARDENFINESSE), [tromper les indiscrets](./Talents (tueur).md#TROMPERLESINDISCRETS).
+
+#### Talents de maître tueur
+Les talents de maître tueur (et les talents de maître roublard) suivants viennent compléter l’archétype de libérateur
+[assassinat](./Talents (tueur).md#ASSASSINAT), [insaisissable](./Talents (tueur).md#INSAISISSABLE), [maître du déguisement](./Talents (tueur).md#MAITREDUDEGUISEMENT), [surprise du chasseur](./Talents (tueur).md#SURPRISEDUCHASSEUR).
+
+
+### Anciens libérateurs.
+Un libérateur qui bafoue le code de conduite imposé par sa divinité perd toutes les aptitudes de classe conférées par cet archétype, à l’exception des formations au maniement des armes (il ne reçoit pas non plus les aptitudes de classe du tueur remplacées par celles de l’archétype). Il ne peut plus gagner de niveaux en tant que libérateur de cette divinité à moins qu’il ne fasse acte de contrition (voir la description du sort de *[pénitence](./Pénitence.md)*).

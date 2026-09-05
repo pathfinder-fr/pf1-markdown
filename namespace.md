@@ -1,0 +1,7 @@
+---
+Name: namespace
+Title: namespace
+LastModified: 2020-02-17 18:24
+---
+
+>>> Guide notions fondamentales#NAMESPACE

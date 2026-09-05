@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Perdu dans la foule
+Title: Perdu dans la foule
+LastModified: 2023-05-04 22:14
+Categories:
+- Don
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
+
+*Le personnage a l’habitude des foules qui grouillent sur les marchés et il sait s’y perdre en un clin d’œil.*
+
+**Avantages.** Le personnage gagne un bonus de circonstances de +2 aux tests de [Discrétion](./Discrétion.md) dans les environnements urbains. Ce bonus passe à +4 dans la foule. Il gagne aussi un bonus d’esquive de +1 à la [CA](./CA.md) quand il est menacé par deux ennemis ou plus.

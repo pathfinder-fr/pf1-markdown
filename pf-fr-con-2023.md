@@ -1,0 +1,192 @@
+---
+Name: pf-fr-con-2023
+Title: Convention Pathfinder-FR automne 2023
+LastModified: 2024-01-27 15:33
+---
+
+<link rel="stylesheet" href="/themes/v2/style/wikipf2.css"><link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,500;0,700;1,500;1,700&family=Fresca&family=Livvic:ital,wght@0,500;0,700;1,500;1,700&family=Suez+One&display=swap" rel="stylesheet"><img src="/Events/baniere-convention-2023.png" class="centre" alt="">
+<hr/>*Du 17 au 19 Novembre 2023, Pathfinder-FR, en collaboration avec Francia-Online, tiendra sa première convention en ligne de jeu organisé (PFS/SFS). Pour cet évènement, une vingtaine de scénarios seront proposés en français sur table virtuelle (VTT) ainsi qu'en parties textuelles sur Discord (PsD).*
+
+<div style="display: flex; justify-content: space-around; align-items: center">
+<img src="/Wiki/public/Upload/Logos/LogoPFS.webp" style="width: 32%"/>
+<img src="/Wiki/public/Upload/Logos/LogoSFS.webp" style="width: 32%"/>
+</div>
+
+''La thématique de cette année sera centrée sur la trame principale de la première saison de la société des éclaireurs (PFS) dans laquelle les origines de la société des éclaireurs sont explorées.
+
+Des scénarios des saisons plus récentes ainsi que des scénarios de la société des explorateurs d'étoiles (SFS) pour le jeu Starfinder seront aussi organisés. Un scénario spécial multi-table sera également proposé, où plusieurs équipes progressent ensemble vers un seul et même objectif.''
+---
+
+<nav class="wiki-toc"></nav>
+<div style="clear: both"></div>
+### L'agenda
+
+La convention en ligne (VTT) se déroule du vendredi 17 au dimanche 18 novembre 2023 et concentre la majorité des scénarios proposés. Il n'était pas possible de proposer en un week-end l'intégralité de la trame principale de cette première saison.
+
+<img src="/Wiki/public/upload/Events/Year_of_the_Open_Road_Logo.png" style="float:right; width: 32%; margin: 0" />Ainsi, quelques scénarios seront proposés pendant le mois d'octobre, à savoir 1-00 "Origin of the open Road", 1-08 "Revolution on the riverside" et 1-11 "Flames of rebellion" durant lesquels, les éclaireurs enquêtent sur les traces des fondateurs de la société des éclaireurs et le célèbre pacte de la route ouverte.
+
+Les parties sur Discord (parties textuelles) dont la durée est plus longue, démarrent à partir de la mi-septembre et s’achèveront au plus tard début février 2024.
+
+A noter que les parties de jeu organisé et les parties "Homebrew" de Pathfinder, Pathfinder 2 et Starfinder sont proposées sur notre serveur Discord Pathfinder-FR en permanence.
+
+### La programmation
+
+La programmation ci-dessous peut encore évoluer d'ici novembre. Les mises à jour seront communiquées ici, sur le Warhorn de l'évènement ainsi que sur le serveur Discord Pathfinder-FR.
+<div style="display:flex; align-items: stretch; justify-content: space-between">
+<div style="width: 78%;">
+#### Programme des parties sur VTT
+**Concernant la programmation des 'parties VTT**', le week-end de la convention connaîtra des temps forts comme la conclusion de la trame principale de la saison 1 de la Pathfinder Society.
+- Dans ***"The lost Legend"***, les éclaireurs entament un périlleux voyage à travers les marécages et les jungles de l'Étendue de Mwangi à la recherche de l'endroit où les membres fondateurs de leur organisation ont formé le Pacte de la Route Ouverte.
+
+- ***"The Perrenial crown"*** est un double épisode qui sera joué sur une journée avec au programme exploration, diplomatie et combat. Rassurez-vous, le maître de jeu organisera avec les participants les temps de pause !! 
+
+- Le scénario spécial interactif ***"The King in Thorns"*** est un scénario multi-table ; plusieurs tables œuvreront ensemble, en même temps, vers un même objectif. Dans les jungles de l'étendue de Mwangi, un grand groupe d'éclaireurs se tient prêt à franchir un portail magique dont les mystères ont déconcerté un groupe de fondateurs de la Société des éclaireurs. Que trouveront-ils au-delà de la porte ? Trois tables sont prévues actuellement pour les niveaux 1-2, 3-4 et 5-6.
+
+- Premier scénario de la Starfinder Society paru, ***"Claim to salvation"***, se déroule juste après l'incident des étoiles écorchées où la majorité des membres de la société des explorateur d'étoiles se sont retrouvés capturés dans une une sphère de Dyson englobant plusieurs systèmes stellaires. Les agents rescapés doivent aller de l'avant et relever la société. La Première Questeuse Luwazi Elsebo envoie une équipe d'éclaireurs expérimentés sur la fausse lune de **Salvation's End** espérant une découverte permettant de stabiliser la société affaiblie.
+- De plus, Nous proposerons le scénario "Menace sous Otari", de la boite d'initiation dans son intégralité
+
+{| CLASS="tablo centre"
+|+ Parties VTT
+|- CLASS="titre"
+| Jour || Slot || Table(s) || Scénario || Niveau
+|- CLASS="premier"
+| Ven 17/11 || 14h-19h || Table 1 || PFS2 Intro: Year of Unfettered Exploration || 1-4
+|-
+| Ven 17/11 || 20h-01h || Table 1 || PFS2 1-20: The Lost Legend || 3-6
+|-
+| Ven 17/11 || 20h-01h || Table 2 || PFS2 5-04: Equal Exchanges – Necessary Introductions || 1-4
+|-
+| Ven 17/11 || 20h-01h || Table 3 || Boite d'initiation partie 1, Niveau supérieur || 1-4
+|-
+| Sam 18/11 || 10h-01h || Table 1 || PFS 1-16 et PFS 1-17 The Perennial Crown || 3-6
+|-
+| Sam18/11 || 10h-12h || Table 2 || PFS2 Quest #1: The Sandstone secret || 1-4
+|-
+| Sam18/11 || 14h-19h || Table 2 || PFS2 5-02: The Blackwood Lost || 3-6
+|-
+| Sam18/11 || 20h-01h || Table 2 || PFS2 1-15: The Blooming Catastrophe || 1-4
+|-
+| Sam18/11 || 20h-01h || Table 3 || Boite d'initiation partie 2, Niveau inférieur || 1-4
+|-
+| Dim 19/11 || 10h-12h || Table 1 || SF Bounty 3: A Green Place || 1
+|-
+| Dim19/11 || 14h-19h || Toutes || Scénario Special interactif : PFS2 2-00: The King in Thorns || 1-8
+|-
+| Dim19/11 || 20h-01h || Table 1 || SFS 1-00: Claim to Salvation || Prétirés niv 5
+|-
+| Dim19/11 || 20h-01h || Table 2 || PFS2 5-03: Heidmarch Heist || 5-8
+|}
+
+
+
+#### Programme des parties sur Discord
+
+**Concernant les parties sur Discord,** profitez de la programmation suivante.
+
+{| CLASS="tablo centre"
+|+ Parties sur discord
+|- CLASS="titre"
+| Scénario || Durée
+|- CLASS="premier"
+| PF2e Quest 15 - In the footsteps of horror || Courte
+|-
+| PF2e Quest 04 - Port Peril Pub Crawl || Courte
+|-
+| SFRPG Drift Case File - A charmed life || Moyenne
+|-
+| PFS2 1-00 Origin of the open road || Moyenne
+|-
+| SFS 1-02 Fugitive on the Red Planet || Moyenne
+|}
+
+La durée des parties sur Discord dépend essentiellement des membres autour de la table, nous vous indiquons à titre informatif les durées observées.
+- Une partie courte correspond au scénarios de type Quests ou bounty et se déroule en moyenne sur 2 semaines
+- Une partie moyenne correspond à un scénario de la société (PFS ou SFS) ou encore les scénario de type one shot ou "Free RPG day" et se déroule en moyenne sur 4 à 6 semaines
+- Une partie longue correspond à un module ou à un tome d'un adventure path et prendra entre 9 et 12 mois.
+
+</div>
+<div style="float: right; margin-left: 12px; padding-left: 12px; border-left: 1px solid #ccc; width: 20%; display: flex; justify-content: space-evenly; flex-direction: column">
+<img src="/wiki/public/upload/Events/pfs-1-16-opal-of-bhopan.jpeg" style="width:100%; border: 1px solid #ccc"/>
+<img src="/Wiki/public/Upload/Illustrations/Separateurs/3.png" style="width: 100%; margin: 6px auto">
+<img src="/wiki/public/upload/Events/pfs-1-17-the-thorned-monarch.jpeg" style="width:100%; border: 1px solid #ccc"/>
+<img src="/Wiki/public/Upload/Illustrations/Separateurs/3.png" style="width: 100%; margin: 6px auto">
+<img src="/wiki/public/upload/Events/sfs-1-00-salvation-end.jpeg" style="width:100%; border: 1px solid #ccc"/>
+<img src="/Wiki/public/Upload/Illustrations/Separateurs/3.png" style="width: 100%; margin: 6px auto">
+<img src="/wiki/public/upload/Events/pfs-1-20-the-lost-legend.jpeg" style="width:100%;  border: 1px solid #ccc"/>
+<img src="/Wiki/public/Upload/Illustrations/Separateurs/3.png" style="width: 100%; margin: 6px auto">
+<img src="/wiki/public/upload/Events/pfs-2-00-king-in-thorn.jpeg" style="width:100%; border: 1px solid #ccc"/>
+</div>
+</div>
+
+
+### Aidez-nous à bien dimensionner l'événement !
+
+Afin de pouvoir adapter l'offre de parties pendant cette convention, nous avons besoin d'en savoir plus sur votre participation ainsi que le niveau de vos personnages. Si vous envisagez de participer à la convention, répondre à ces 2 sondages nous permettra de nous adapter.
+- [Si vous pensez participer à la convention](https://framadate.org/GqBIzz6rfXvuWun7)
+- [Si vous pensez participer au scénario spécial du dimanche 19/11 de 14:00 à 19:00](https://framadate.org/87CRYSFt8WMiesdu)
+
+Attention, cependant, la réponse à ce sondage ne fait pas office d'inscription.
+
+### Inscriptions
+
+Toutes les parties se dérouleront sur [le serveur Discord de Pathfinder-FR](https://discord.gg/uTrTaM92MA)
+
+<img src="/Events/Register.jpg" class="fright cadre" alt="">
+Les inscriptions à la **convention VTT** seront gérées par le site Warhorn.
+Vous pouvez d'ores et déjà vous enregistrer sur [le site warHorn de l'évènement](https://warhorn.net/events/convention-pathfinder-fr-automne-2023). Il suffit de cliquez sur le bouton "Register". Ainsi, vous serez tenu au courant de l'évolution de la convention et de l'ouverture aux enregistrements.
+
+Les inscriptions aux parties à proprement parler seront ouvertes à partir
+- du 16 octobre pour les MJ participants,
+- du 23 octobre pour tout le monde.
+
+Les inscriptions aux **parties PsD** seront publiées sur le canal #recrutement du serveur discord. Les parties qui y sont proposées ne se limitent pas aux parties de la convention : n'hésitez pas à participer à d'autres sessions, surtout si vous débutez !!
+
+Sachez qu'en fonction des inscriptions, des parties additionnelles pourraient-être proposées. N'hésitez pas à vous ajouter dans la waitlist si la partie que vous visez est remplie. En plus de vous permettre d'être sélectionné en cas de désistement, la taille des waitlist détermineront aussi si nous ajoutons des parties additionnelles sur le même créneau.
+Lorsque vous vous connectez sur le serveur Discord de Pathfinder-FR, N'oubliez pas de prendre vos roles dans le canal #règlement-et-rôles afin d'accèder à l'espace convention
+
+
+### Vous débutez ?
+
+Ce sera votre première partie de jeu organisé, ou sur discord ? Ne paniquez pas, Pathfinder-FR s'adresse à tous les joueurs, novices, débutants, confirmés, experts.
+
+#### Qu'est-ce que le jeu organisé ?
+
+La campagne de jeu organisé est une campagne mondiale vivante proposant des parties dites "One-Shots" dans lesquelles vos personnage font partie de la société des éclaireurs (Pathfinder society) ou de la société des explorateurs d'étoiles (Starfinder Society) selon le jeu choisi. Ces explorateurs ou éclaireurs forment une société dont le but est l'exploration, la coopération et la documentation de leurs découvertes.
+
+Contrairement aux parties "One-Shot" traditionnelles, vos personnage sont persistants et évoluent au cours de leurs aventures. La composition de la table (MJ, joueurs) peut donc être différente à chaque session et, afin de s'assurer que les règles soient les mêmes pour tout le monde, un règlement de jeu organisé est en place et décrit (en anglais) sur le site de l'Organized Play Foundation. Ce règlement régit l'accès aux options de personnage ainsi que certains éléments qui, dans les campagnes ou one-shots traditionnels, sont laissés à l'appréciation du MJ.
+
+Pathfinder-FR propose un Wiki dédié au jeu organisé contenant explications et des aides de jeux en français, bien que la meilleure école soit la pratique avec l'une des fréquentes parties proposées sur notre serveur Discord.
+
+Votre personnage commençant au niveau 1, vous pourriez penser que les parties proposées en convention de niveau supérieur ne vous sont pas accessibles. Le règlement du jeu organisé offre la possibilité de participer à ces parties en utilisant un des personnages iconiques officiels, qui sont disponibles en niveau 3 et 5.
+
+### Comment fonctionnent les parties sur Discord ?
+
+Les parties sur Discord (PsD), connues aussi par les anglo-saxons comme Play-by-Post (PbP) ou Play-by-Discord (PbD) se déroulent sur Discord et s'inscrivent dans un temps plus long. Un canal "RP" est utilisé pour la narration et les rencontres, alors qu'un canal "HRP" (Hors RP) permet la communication meta et les questions entre joueurs et maître de jeu.
+
+La boîte à outils utilisée pour jouer une PsD varie d'un MJ à l'autre.
+
+- Chacun pourra lancer les dés via un bot présent sur Discord.
+
+- Le MJ devra pouvoir avoir accès à la feuille de votre personnage ou à un statblock.
+
+- Parfois un document Google (sheet, doc, etc) est utilisé pour rassembler les information essentielles et les phases de combat.
+
+- Parfois le MJ affiche des captures d'écran représentant la zone de combat, demandant à chacun ses actions.
+
+Les parties sur Discord sont parfaites pour les joueurs et MJ ayant peu de temps disponible et souhaitant jouer à leur rythme. De plus une partie sur Discord est l'occasion d'accentuer les éléments narratifs et RP ou encore de prendre le temps de relire une règle avant de déterminer les actions de son personnage.
+
+Bien que ce format de partie soit particulièrement populaire dans le paysage rôlistique mondial, il est moins fréquent en francophonie. Pathfinder-FR propose depuis plus de 10 ans un format de partie par forum, optimisée pour Pathfinder-RPG (la première édition), le format sur Discord à rejoint notre offre depuis peu avec des parties pour Pathfinder 2e édition ainsi que StarFinder RPG.
+
+Les annonces PsD sur notre serveur Discord sont publiées dans le canal #recrutement et sont jouées dans #parties-sur-discord. Ce canal-forum inclut un fil "Partie Discord - Les bases" qui vous aidera à vous familiariser avec les codes des PsD.
+
+<img src="/Events/guide-des-post.jpg" class="centre" alt="">
+
+
+### Comment fonctionnent les parties sur table de jeu virtuel ?
+
+Les deux principales tables de jeu virtuel utilisées par les maître de jeu sont Foundry et Roll20.
+Dans les deux cas, ce sont des plateformes gratuites pour les joueurs. Vous aurez besoin d'un ordinateur, d'un micro. les conversations audio se déroulent sur Discord, il vous faudra donc installer Discord et rejoindre notre serveur
+
+Pour **Roll20** il faudra créer un compte sur [Roll20](https://app.roll20.net/) puis attendre le lien d'invitation à la partie de votre Maître de Jeu, pour pouvoir accéder à la partie et remplir votre fiche de personnage.
+
+Pour **Foundry VTT** il faudra créer un compte sur [TheForge](https://eu.forge-vtt.com/) (si le serveur du Maître de Jeu et hébergé sur TheForge) puis attendre le lien d'invitation à la partie de votre Maître de Jeu. Pour pouvoir accéder à la partie, le MJ vous donnera également un identifiant et un mot de passe pour accéder à la partie en elle-même ensuite vous pourrez remplir votre fiche de personnage.

@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Activation mystérieuse
+Title: Activation mystérieuse
+LastModified: 2020-12-13 15:03
+Categories:
+- Don
+- Recueil de la Société des Éclaireurs
+- Règles officielles
+---
+
+{s:RSE}*Le personnage tire plus de puissance que les autres des objets magiques.*
+
+**Conditions.** 12 rangs en [Utilisation d’objets magiques](./UOM.md).
+
+**Avantage.** Si le personnage dépasse de 5 ou plus le [DD](./DD.md) exigé pour activer un [objet à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) ou [à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) avec un test d’[Utilisation d’objets magiques](./UOM.md), il peut augmenter le [NLS](./NLS.md) de l’objet de 1 quand il détermine les effets du sort. S’il dépasse de 10 ou plus le DD exigé pour activer un objet magique à charges avec un test d’Utilisation d’objets magiques, il peut dépenser une charge de plus pour augmenter le NLS de 2. Il ne peut cependant pas faire passer le NLS d’un objet au-dessus de son propre NLS.

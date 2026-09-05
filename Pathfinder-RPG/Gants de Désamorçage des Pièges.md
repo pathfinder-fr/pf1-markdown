@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Gants de Désamorçage des Pièges
+Title: Gants de désamorçage des pièges
+LastModified: 2024-06-02 17:58
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Armes et équipement
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Gants de désamorçage des pièges|{s:AE}}
+**Aura** [Divination](./école divination.md) faible ; **NLS** 5 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 4.000 po ; **Poids** 0,5 kg
+(((Description)))
+Ces gants en cuir clouté ressemblent à des gants d’artisan mais ils sont renforcés par de multiples bandelettes métalliques rétractables que le porteur peut utiliser pour que l’extrémité de chaque doigt soit dotée d’un outil approprié à l’examen et au désamorçage des pièges. Une fois enfilés, ces gants confèrent un bonus de compétence de +5 aux tests de [Sabotage](./Sabotage.md) pour désamorcer les pièges. De plus, ils octroient un bonus de chance de +1 aux [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE) contre les pièges.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[détection des pièges](./Détection des pièges.md)* ; **Coût** 2.000 po
+</div>

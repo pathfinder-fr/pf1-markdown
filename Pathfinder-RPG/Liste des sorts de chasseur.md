@@ -1,0 +1,555 @@
+---
+Name: Pathfinder-RPG.Liste des sorts de chasseur
+Title: Liste des sorts de chasseur
+LastModified: 2025-01-11 16:04
+Categories:
+- Liste de sorts
+---
+
+{s:MenuMagie}
+Un sort suivi d’un (M) ou d’un (F) dénote la présence d’une [composante matérielle](./composante matérielle.md) ou d’un [focalisateur](./focalisateur.md) qui ne se trouve normalement pas dans une [sacoche à composantes](./Sacoche à composantes (objet).md).
+Un sort suivi d'un (Y) possède une version mythique.
+
+**Ordre de présentation.** Dans la liste, les sorts et leur courte description sont présentées par ordre alphabétique, hormis quand ils appartiennent à une chaîne de sorts particulière.
+
+**[Dés de vie](./dés de vie.md).** Le terme « dés de vie » (ou DV) est synonyme de « niveau de personnage » pour les cibles affectées par les sorts (en effet, nombre de créatures ne peuvent pas progresser dans une classe de personnage ; elles n’ont pas de niveau mais des dés de vie).
+
+**[Niveau de lanceur](./NLS.md).** La puissance d’un sort dépend souvent du niveau de celui qui la jette. Sauf indication contraire, les créatures sans classe ont un niveau de lanceur égal à leur nombre de DV. Dans la description des sorts, le terme « niveau » désigne toujours le niveau de lanceur de celui qui les lance et non le niveau du sort.
+
+**Créatures et personnages.** Les termes « créature » et « personnage » sont considérés comme synonymes dans la description des sorts.
+
+Retour vers le [chasseur](./Chasseur.md).
+
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
+{s:Reference|0}
+### Sorts de niveau 0
+- ***[Assistance divine](./Assistance divine.md)***. +1 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence.
+- ***[Création d'eau](./Création deau.md)***. Crée huit litres d'eau pure/niveau.
+- ***[Détection de la magie](./Détection de la magie.md)***. Détecte sorts et objets magiques à 18 m à la ronde.
+- ***[Détection du poison](./Détection du poison.md)***. Détecte le poison chez une créature ou un petit objet.
+- ***[Diplomatie améliorée](./Diplomatie améliorée.md)*** *(RSE)*. +2 à un unique test de Diplomatie ou d'Intimidation.
+- ***[Étincelles](./Étincelles.md)*** *(MJRA)*. Met le feu à des objets inflammables.
+- ***[Illumination](./Illumination.md)***. Éblouit la cible (-1 aux jets d'attaque).
+- ***[Lecture de la magie](./Lecture de la magie.md)***. Permet de lire parchemins et livres de sorts.
+- ***[Lumière](./Lumière.md)***. Fait briller un objet comme une torche.
+- ***[Purification de nourriture et d'eau](./Purification de nourriture et deau.md)***. Purifie 30 dm³/niveau de nourriture et d'eau.
+- ***[Réparation](./Réparation.md)***. Répare sommairement un objet.
+- ***[Repérage](./Repérage.md)***. Le PJ sait où se trouve le nord.
+- ***[Résistance](./sort Résistance.md)***. Confère +1 aux jets de sauvegarde.
+- ***[Signe de l'aube](./Signe de la Fleur de laube.md)*** *(RSE)*. Transmet un message caché à la cible indiquant l'appartenance du personnage au culte de la déesse du soleil.
+- ***[Stabilisation](./Stabilisation.md)***. Stabilise une créature agonisante.
+- ***[Stimulant](./Stimulant.md)***. Confère 1 pv temporaire à la cible.
+
+{s:Reference|1}
+### Sorts de niveau 1
+- ***[Abondance de munitions](./Abondance de munitions.md)*** *(AG)*. Les munitions non magiques se régénèrent à chaque round.
+- ***[Ailes puissantes](./Ailes puissantes.md) ([Strix](./strix (race).md))*** *(MR)*. Améliore les ailes de la cible.
+- ***[Alarme](./Alarme.md)***. Protège une zone pendant 2 heures/niveau.
+- ***[Alarme d'invisibilité](./Alarme dinvisibilité.md)*** *(MCA)*. Comme *alarme*, mais réagissant uniquement aux créatures invisibles.
+- ***[Anticipation du danger](./Anticipation du danger.md) (Y)*** *(AM)*. La cible gagne un bonus à un test d'initiative.
+- ***[Apaisement des animaux](./Apaisement des animaux.md)***. Calme (2d4 + niveau) DV d'animaux.
+- ***[Appel d'arme](./Appel darme.md)*** *(MMI)*. Récupère l'arme d'un allié à distance.
+- ***[Appel d'un animal](./Appel dun animal.md) (Y)*** *(MJRA)*. Fait venir un animal au personnage.
+- ***[Appel des esprits](./Appel des esprits.md)*** *(MCA)*. Augmente de 1 le nls des sorts de magie des esprits et de domaine lancés.
+- ***[Arc de gravité](./Arc de gravité.md)*** *(MJRA)*. Les flèches causent des dégâts comme si elles étaient d'une catégorie de taille supérieure.
+- ***[Arc-bâton](./Arc-bâton.md)*** *(AG)*. Un arc court peut servir de gourdin et un arc long de bâton.
+- ***[Arme boomerang](./Arme boomerang.md)*** *(AG)*. Donne la propriété boomerang à une arme.
+- ***[Arme désespérée](./Arme désespérée.md)*** *(UI)*. Crée une arme improvisée.
+- ***[Arme improvisée raffinée](./Arme improvisée raffinée.md)*** *(MCA)*. Transforme une arme improvisée en une arme courante ou de guerre de maître.
+- ***[Armure de glace](./Armure de glace.md) ([Gozreh](./Gozreh (technique).md))*** *(ISG)*. Forme une cuirasse de glace temporaire.
+- ***[Ascèse](./Ascèse.md) ([Irori](./Irori (technique).md))*** *(D&M)*. Améliore de la simple nourriture pour qu'elle soit plus riche en nutriments.
+- ***[Aspect du faucon](./Aspect du faucon.md)*** *(MJRA)*. Accorde un bonus aux tests de Perception et aux attaques à distance.
+- ***[Aspect du rossignol](./Aspect du rossignol.md) ([Shélyn](./Shélyn (technique).md))*** *(ISG)*. Transforme la voix en une mélodie claire et plaisante, comme celle d'un rossignol.
+- ***[Baie nourricière](./Baie nourricière.md) (Y)***. 2d4 baies rendant chacune 1 pv (max. 8 pv/24 heures).
+- ***[Barbe de fer](./barbe de fer.md) ([Nain](./Nain.md))*** *(MR)*. Crée une barbe de fer qui protège son porteur et peut être utilisée comme une arme.
+- ***[Bouclier d'onde](./Bouclier donde.md)*** *(MCA)*. L’eau amortit une attaque ou un effet de feu.
+- ***[Bouclier de pierre](./Bouclier de pierre.md) ([Oréade](./Oréade (race).md))*** *(MR)*. La pierre offre un bonus de +4 à la CA et un bonus de +2 à ses jets de Réflexes.
+- ***[Boule de boue](./Boule de boue.md) ([Gobelin](./Gobelin (race).md))*** *(MR)*. Crée une boule de boue collante qui aveugle une cible.
+- ***[Briser les lignes ennemies](./briser les lignes ennemies.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Bonus de distance de charge et lors des manoeuvres de bousculade et renversement.
+- ***[Broussaille distrayante](./Broussaille distrayante.md)*** *(UI)*. Crée une distraction pour que le personnage puisse se cacher.
+- ***[Brume de dissimulation](./Brume de dissimulation.md) (Y)***. Le PJ est entouré de brouillard.
+- ***[Bulle d'air](./Bulle dair.md)*** *(AG)*. Crée une petite poche d’air autour de la tête du personnage ou autour d’un objet.
+- ***[Caméléon](./caméléon.md) ([Elfe](./Elfe.md))*** *(MR)*. Le personnage gagne un bonus de +4 aux tests de Discrétion.
+- ***[Caresse de la mer](./Caresse de la mer.md)*** *(MJRA)*. Vitesse de nage de 9 mètres (6 c).
+- ***[Changement de fonction](./Changement de fonction.md)*** *(MCA)*. L’animal du personnage gagne un nouvel objectif général.
+- ***[Charge de fourmi](./Charge de fourmi.md)*** *(MJRA)*. Triple la capacité de charge d’une créature.
+- ***[Charme-animal](./Charme-animal.md)***. Un animal devient l'ami du PJ.
+- ***[Cœur incassable](./Cœur incassable.md)*** *(CCMI)*. +4 aux jets de sauvegarde contre les effets qui se basent sur des émotions négatives.
+- ***[Communication avec les animaux](./Communication avec les animaux.md)***. Permet de communiquer avec les animaux.
+- ***[Communication sécurisée](./Communication sécurisée.md)*** *(RSE)*. Le personnage peut parler librement avec une créature à 3m ou moins sans pouvoir être espionné.
+- ***[Communion avec les oiseaux](./Communion avec les oiseaux.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Permet de communiquer avec les oiseaux.
+- ***[Connaissances du Borgne](./Connaissances du Borgne.md)*** *(AG)*. Le personnage gagne un bonus de +4 aux tests de Survie et peut suivre une piste alors qu’il se déplace au maximum de sa vitesse.
+- ***[Connaître son ennemi](./Connaître son ennemi.md) (Y)*** *(AM)*. Bonus de +10 à un test de Connaissance des monstres.
+- ***[Conscience accrue](./Conscience accrue.md)*** *(MCA)*. La mémoire et la capacité du personnage à traiter les informations sont améliorées.
+- ***[Convocation d'alliés mineur](./Convocation dalliés mineur.md)*** *(AM)*. Convoque 1d3 animaux TP.
+- ***[Convocation d'alliés naturels I](./Convocation dalliés naturels I.md)***. Appelle une créature luttant pour le PJ.
+- ***[Cor de poursuite](./Cor de poursuite.md)*** *(AM)*. Crée trois notes entendues à des kilomètres.
+- ***[Dard de nausée](./Dard de nausée.md)*** *(MCA)*. Dard empoisonné qui inflige 1d2 points de dégâts et rend la cible nauséeuse.
+- ***[Décomposition de cadavre](./Décomposition de cadavre.md)*** *(AM)*. Transforme un cadavre en squelette bien propre.
+- ***[Défoliant](./défoliant.md)*** *(-)*. Détruit les plantes et supprime le camouflage offert.
+- ***[Démarche aérienne](./Démarche aérienne.md)*** *(MJRA)*. Ignore les pénalités de mouvement en terrain difficile.
+- ***[Désarmement brûlant](./Désarmement brûlant.md)*** *(RSE)*. Rend un objet en métal excessivement chaud, forçant ceux qui le tiennent à le lâcher sous peine de brûler leurs mains.
+- ***[Détection de la faune ou de la flore](./Détection de la faune ou de la flore.md)***. Détecte les espèces de plantes et d'animaux.
+- ***[Détection des aberrations](./Détection des aberrations.md)*** *(MJRA)*. Révèle la présence des aberrations.
+- ***[Détection des collets et des fosses](./Détection des collets et des fosses.md)***. Détecte pièges naturels et primitifs.
+- ***[Détection des fidèles](./Détection des fidèles.md)*** *(UI)*. Détecte les suivants de la divinité du personnage dans la zone d'effet.
+- ***[Diagnostic](./Diagnostic.md)*** *(AM)*. Détecte et identifie les maladies.
+- ***[Dissipation de la fièvre](./Dissipation de la fièvre.md)*** *(AM)*. Supprime les conditions malade, nauséeux et fiévreux.
+- ***[Enchevêtrement](./Enchevêtrement.md) (Y)***. La végétation immobilise tout dans un rayon de 12 m.
+- ***[Endurance aux énergies destructives](./Endurance aux énergies destructives.md) (Y)***. Protège des environnements chauds ou froids.
+- ***[Excavation expéditive](./Excavation expéditive.md)*** *(MJRA)*. Déplace un cube de terre de 1,5 m d’arête.
+- ***[Façonnage de la neige](./Façonnage de la neige.md) ([Ulfe](./../Golarion/Ulfes.md))*** *(MR)*. Donne à la neige toute forme voulue, dont des armes en glace dure.
+- ***[Festin onirique](./Festin onirique.md) ([Desna](./Desna (technique).md))*** *(ISG)*. Nourrit une créature dans son sommeil.
+- ***[Flammes](./Flammes.md)***. 1d6 points de dégâts, +1/niveau, contact ou lancer.
+- ***[Flèche du Borgne](./Flèche du Borgne.md) ([Érastil](./Érastil (technique).md))*** *(D&M)*. Créé une flèche d'électricité crépitante pour blesser les ennemis ou alerter les alliés.
+- ***[Fuite aérienne](./Fuite aérienne.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Le lanceur de sorts réagit à une attaque en devenant brièvement vaporeux et intangible, ce qui permet à l’attaque de le traverser sans le blesser.
+- ***[Gourdin magique](./Gourdin magique.md)***. Transforme bâton ou gourdin en arme +1 (dégâts équivalent à une arme du même type de deux tailles supérieures) pendant 1 minute/niveau.
+- ***[Grâce des néréides](./Grâce des néréides.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Confère un bonus de parade à la CA égal au modificateur de Charisme du personnage tant qu'il ne porte pas d'armure.
+- ***[Grâce urbaine](./grâce urbaine.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Le personnage se meut plus facilement dans la foule et entre les bâtiments.
+- ***[Grand pas](./Grand pas.md)***. Augmente la vitesse de déplacement.
+- ***[Grandes illuminations](./Grandes illuminations.md)*** *(MJRA)*. Comme *illumination* mais touche toutes les créatures dans un rayon de 3 m.
+- ***[Grappin opportun](./Grappin opportun.md)*** *(UI)*. Transforme un objet semblable à une corde en grappin rétractable.
+- ***[Gueule acide](./Gueule acide.md)*** *(MCA)*. L'attaque de morsure du compagnon animal du personnage inflige 1d4 points de dégâts d'acide à l'impact, puis à chaque round pendant 1 + 1 round/4 niveau (+6 maximum).
+- ***[Hostilité forcée](./Hostilité forcée.md)*** *(AG)*. Oblige les adversaires à attaquer le personnage au lieu de ses alliés.
+- ***[Hurlement du chasseur](./Hurlement du chasseur.md)*** *(MJRA)*. Le personnage considère ses adversaires comme des ennemis jurés pendant 1 round/niveau.
+- ***[Infatigable poursuivant](./Infatigable poursuivant.md)*** *(MJRA)*. Le personnage ignore la fatigue quand il court en petites foulées.
+- ***[Invisibilité pour les animaux](./Invisibilité pour les animaux.md)***. Les animaux ne voient pas un sujet/niveau.
+- ***[Javeline épineuse](./Javeline épineuse.md)*** *(MCA)*. Manie une javeline qui rend les adversaires fiévreux quand elle les touche.
+- ***[Lames de plomb](./Lames de plomb.md)*** *(MJRA)*. Les armes de corps à corps causent des dégâts comme si elles étaient d’une catégorie de taille supérieure.
+- ***[Lanterne dansante](./lanterne dansante.md)*** *(MJRA)*. Anime une lanterne qui suit le personnage.
+- ***[Lecture de la météo](./Lecture de la météo.md) ([Gozreh](./Gozreh (technique).md))*** *(D&M)*. Prédit la météo des prochaines 48 heures.
+- ***[Lueur féerique](./Lueur féerique.md) (Y)***. Illumine le sujet (annule flou, camouflage, etc.).
+- ***[Mâchoire féroce](./mâchoire féroce.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Transforme la bouche du personnage en une mâchoire féroce et lui permet de rugir pour démoraliser ses adversaires.
+- ***[Maîtrise des marids](./Maîtrise des marids.md) ([Ondin](./Ondin (race).md))*** *(MR)*. La cible obtient des bonus à l'attaque et aux dégâts quand elle se bat sous l'eau, et des malus quand elle se bat sur terre.
+- ***[Manteau d'ombre](./Manteau dombre.md)*** *(MJRA)*. Réduit les effets de l’exposition au soleil et à la châleur.
+- ***[Marque de chasse](./Marque de chasse.md) ([Érastil](./Érastil (technique).md))*** *(ISG)*. Accorde une capacité surnaturelle pour détecter les traces et autres indices.
+- ***[Messager animal](./Messager animal.md)***. Envoie un animal de taille TP en un lieu donné.
+- ***[Métal solaire](./Métal solaire.md) (Y)*** *(AG)*. L’arme touchée émet une gerbe de flammes.
+- ***[Modification des vents](./Modification des vents.md)*** *(MJRA)*. Augmente/diminue la force des vents.
+- ***[Monture de guerre](./Monture de guerre.md)*** *(AM)*. Un animal devient entraîné au combat.
+- ***[Morsure du froid](./morsure du froid.md)*** *(AM)*. La cible reçoit des dégâts de froid et elle est fatiguée.
+- ***[Morsure magique](./Morsure magique.md) (Y)***. Une arme naturelle du sujet gagne +1 aux jets d'attaque et de dégâts.
+- ***[Négation de l'arôme](./Négation de larôme.md)*** *(MJRA)*. Impossible de traquer le personnage à l’ôdeur.
+- ***[Ordre libérateur](./Ordre libérateur.md)*** *(AG)*. La cible fait un test d’Évasion par une action immédiate avec un bonus.
+- ***[Panse bouillante](./Panse bouillante.md) ([Torag](./Torag (technique).md))*** *(ISG)*. Le lanceur résiste au feu et peut souffler une vague de chaleur.
+- ***[Passage sans traces](./Passage sans traces.md)***. Les sujets (1/niveau) ne laissent pas de traces.
+- ***[Perdre la piste](./Perdre la piste.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)*. Dissimule la piste de la cible lorsqu'elle fuit un poursuivant.
+- ***[Petite brise](./Petite brise.md)*** *(MCA)*. Vent léger qui protège une cible des nuages, des gaz, de la chaleur et des vapeurs.
+- ***[Petites fractures](./Petites fractures.md) ([Torag](./Torag (technique).md))*** *(D&M)*. Fragilise la terre et la pierre.
+- ***[Pierre magique](./Pierre magique.md)***. Trois projectiles ; +1 à l'attaque, 1d6+1 points de dégâts.
+- ***[Pistage des traces](./Pistage des traces.md)*** *(MJRA)*. Le personnage peut découvrir l’apparence d’une créature grâce à ses seules empreintes.
+- ***[Planer](./Planer.md)*** *(MJRA)*. Le personnage ne reçoit pas de dégâts de chute, se déplace à 18 m/round pendant la chute.
+- ***[Plumage d'hiver](./Plumage dhiver.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Protège une créature plumée contre le froid pendant une journée.
+- ***[Poing de pierre](./Poing de pierre.md)*** *(MJRA)*. Les dégâts à mains nues du personnage sont létaux.
+- ***[Poing invincible de la terre](./Poing invincible de la terre.md) (Y) ([Oréade](./Oréade (race).md))*** *(MR)*. Lance une pierre de la taille d'un poing capacble de canaliser le ki du personnage sur la cible.
+- ***[Poison masqué](./Poison masqué.md) (M)*** *(UI)*. Rend plus difficile de détecter un poison ou une créature venimeuse.
+- ***[Poisson-singe](./Poisson-singe.md)*** *(MCA)*. Le personnage gagne une vitesse d’escalade et une vitesse de nage de 3 mètres pendant un certain temps.
+- ***[Poudre affaiblie](./Poudre affaiblie.md)*** *(AG)*. Les munitions de l’arme touchée réduisent sa portée de moitié et imposent un malus de -2 aux jets de dégâts.
+- ***[Poudre mouillée](./Poudre mouillée.md)*** *(AG)*. Les munitions chargées dans l’arme ciblées sont inutilisables.
+- ***[Poussée hydraulique](./Poussée hydraulique.md) (Y)*** *(MJRA)*. Vague d’eau qui bouscule un ennemi.
+- ***[Ralentissement du poison](./Ralentissement du poison.md)***. Neutralise le poison pendant 1 heure/niveau.
+- ***[Rayon de fièvre](./Rayon de fièvre.md)*** *(AM)*. Le rayon rend la cible fiévreuse.
+- ***[Rechargement de la magie innée](./rechargement de la magie innée.md) ([Gnome](./Gnome.md))*** *(MR)*. Récupère une utilisation quotidienne d'un pouvoir magique de niveau 0 ou de niveau 1.
+- ***[Résistance aux énergies destructives](./Résistance aux énergies destructives.md) (Y)***. Protège contre la forme d'énergie choisie à raison de 10 (ou plus) points de dégâts/attaque.
+- ***[Restauration de cadavre](./Restauration de cadavre.md)*** *(AM)*. La chair recouvre un squelette.
+- ***[Sabot du tonnerre](./Sabot du tonnerre.md)*** *(MCA)*. Fait un croc-en-jambe à une créature à portée.
+- ***[Sages murmures](./sages murmures.md) ([Elfe](./Elfe.md))*** *(MR)*. Confère un bonus aux tests de Connaissances selon l'environnement dans lequel le personnage se trouve.
+- ***[Saut](./Saut.md)***. Confère un bonus aux tests d'Acrobaties.
+- ***[Se hérisser](./Se hérisser.md)*** *(MJRA)*. Échange un bonus d'armure naturelle contre un bonus aux attaques avec des armes naturelles.
+- ***[Sens surdéveloppés](./Sens surdéveloppés.md)*** *(MJRA)*. Gagne +2 en Perception et la vision nocturne.
+- ***[Soins légers](./Soins légers.md) (Y)***. Rend 1d8 pv au sujet, +1/niveau (max. +5).
+- ***[Tir longue distance](./Tir longue distance.md)*** *(AG)*. Bonus de +3 m au facteur de portée de toutes les armes à distance.
+- ***[Toucher de combustion](./Toucher de combustion.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage porte une attaque qui inflige 1d6 points de dégâts et qui risque d'enflammer son adversaire.
+- ***[Toucher endothermique](./Toucher endothermique.md) ([Homme-lézard](./Homme-lézard.md))*** *(CM)*. Rend la cible chancelante et réduit sa vitesse de motié, mais lui permet de retenir son souffle plus longtemps.
+- ***[Toucher hémorragique](./Toucher hémorragique.md) ([Zon-kuthon](./Zon-Kuthon (technique).md))*** *(D&M)*. Les blessures de la cible se mettent à saigner abondamment.
+- ***[Vigueur du pesh](./Vigueur du pesh.md) (M)*** *(CSU)*. Augmente la puissance de la cible par la consommation de pesh.
+- ***[Visage du dévoreur](./Visage du dévoreur.md) ([Rovagug](./Rovagug (technique).md))*** *(ISG)*. Le visage de la cible subit une mutation horrible qui lui offre une attaque naturelle.
+
+{s:Reference|2}
+### Sorts de niveau 2
+- ***[Abri de toile](./Abri de toile.md)*** *(AM)*. Crée un abri confortable en toile d'araignée.
+- ***[Accélération du poison](./Accélération du poison.md)*** *(MJRA)*. Accélère le délai d'action du poison ciblé.
+- ***[Alarme sélective](./Alarme sélective.md)*** *(UI)*. Comme *alarme* mais uniquement contre les créatures choisies.
+- ***[Amélioration de piège](./Amélioration de piège.md) ([Kobold](./Kobold (race).md))*** *(MR)*. Renforce un piège ciblé.
+- ***[Ami de la forêt](./Ami de la forêt.md)*** *(AG)*. Les plantes forestières se montrent serviables envers le personnage et ses alliés au lieu d’entraver leurs déplacements.
+- ***[Appel des pierres](./Appel des pierres.md)*** *(MJRA)*. Inflige 2d6 points de dégâts aux créatures dans la zone d'effet et celle-ci devient un terrain difficile.
+- ***[Arme boomerang (partagé)](./Arme boomerang (partagé).md)*** *(AG)*. Comme *arme boomerang* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Arme de cautérisation](./arme de cautérisation.md)*** *(RSE)*. Imprègne une d'arme d'une énergie pernicieuse qui annule les effets de régénération.
+- ***[Arme polyvalente](./Arme polyvalente.md)*** *(MJRA)*. L'arme ignore certaines RD.
+- ***[Armure sans effort](./Armure sans effort.md)*** *(AG)*. L’armure du personnage ne réduit plus sa vitesse de déplacement.
+- ***[Aspect animal](./Aspect animal.md) (Y)*** *(AG)*. Le personnage bénéficie des avantages d’un animal.
+- ***[Aspect de l'ours](./Aspect de lours.md)*** *(MJRA)*. +2 à la CA et aux jets de manœuvre de combat.
+- ***[Assistant de chargement](./Assistant de chargement.md)*** *(AG)*. Charge un tir dans une arme, à chaque round.
+- ***[Blessure sympathique](./Blessure sympathique.md) ([Zon-kuthon](./Zon-Kuthon (technique).md))*** *(D&M)*. Redirige la moitié des dégâts subis sur une autre créature.
+- ***[Bouclier de balles](./Bouclier de balles.md)*** *(MCA)*. Des balles en adamantium interceptent les attaques d’arme à feu.
+- ***[Boule de goudron](./Boule de goudron.md)*** *(AM)*. Un goudron brûlant blesse la cible et réduit sa Dextérité.
+- ***[Bourrasque](./Bourrasque.md) (Y)***. Emporte ou renverse les créatures de taille modeste.
+- ***[Cacher le camp](./Cacher le camp.md)*** *(MJRA)*. Cache toute trace de camp du personnage.
+- ***[Charge de fourmi (partagé)](./Charge de fourmi (partagé).md)*** *(AG)*. Comme *charge de fourmi* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Chien de chasse](./Chien de chasse.md)*** *(MJRA)*. Augmente l’odorat et donne au lanceur de sorts le pouvoir spécial odorat.
+- ***[Chute de température](./Chute de température.md)*** *(AG)*. La zone se couvre d’un froid glacial.
+- ***[Collet](./Collet.md)***. Crée un piège magique tout simple.
+- ***[Communication avec les plantes](./Communication avec les plantes.md)***. Permet de communiquer avec les plantes et les créatures végétales.
+- ***[Contact gelé](./Contact gelé.md)*** *(AM)*. La cible reçoit des dégâts de froid et elle est chancelante.
+- ***[Contrôle de la vermine](./Contrôle de la vermine.md) ([Duergar](./duergar (race).md))*** *(CM)*. Le personnage et ses alliés peuvent contrôler la vermine et la chevaucher.
+- ***[Convocation d'alliés naturels II](./Convocation dalliés naturels II.md)***. Appelle une ou plusieurs créatures luttant pour le PJ.
+- ***[Copain de boue](./Copain de boue.md) ([Gobelin](./Gobelin (race).md))*** *(CM)*. Créé un petit serviteur en boue.
+- ***[Création de carte au trésor](./Création de carte au trésor.md) (M)*** *(MJRA)*. Crée une carte au trésor à partir du cadavre d’une créature.
+- ***[Croissance d'épines](./Croissance dépines.md)***. 1d4 points de dégâts, ralentissement possible.
+- ***[Démarche du caméléon](./Démarche du caméléon.md)*** *(MJRA)*. Bonus de + 4 aux tests de Discrétion et obtient un camouflage.
+- ***[Détection de la magie suprême](./Détection de la magie suprême.md)*** *(UI)*. Comme *détection de la magie* mais révèle plus d'informations.
+- ***[Disque de pierre](./Disque de pierre.md)*** *(MCA)*. Disque volant qui inflige des dégâts contondants ou tranchants.
+- ***[Distorsion du bois](./Distorsion du bois.md)***. Tord le bois (manche d'arme, planche, porte, etc.).
+- ***[Écailles épineuses](./écailles épineuses.md) ([Homme-lézard](./Homme-lézard.md))*** *(CM)*. Confère des piques acérés aux écailles de la cible.
+- ***[Élévation du sol](./élévation du sol.md) ([Nain](./Nain.md))*** *(MR)*. Le sol sous la cible s'élève d'1,5 mètres.
+- ***[Empathie de la meute](./Empathie de la meute.md)*** *(UI)*. Crée un lien empathique avec les alliés.
+- ***[Enchevêtrement répugnant](./Enchevêtrement répugnant.md)*** *(MCA)*. Comme *enchevêtrement*, mais les plantes ont une sève qui rend malade.
+- ***[Endurance aux énergies destructives (partagé)](./Endurance aux énergies destructives (partagé).md)*** *(AG)*. Comme *endurance aux énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Endurance de l'ours](./Endurance de lours.md)***. Confère +4 en Con pendant 1 minute/niveau.
+- ***[Entrave de terre](./Entrave de terre.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Les zones de terre et de pierre sous la cible tentent de l'abattre.
+- ***[Erreur tactique](./erreur tactique.md)*** *(RSE)*. Empêche une créature d'effectuer des attaques d'opportunité.
+- ***[Éruption de flèches](./Éruption de flèches.md)*** *(MJRA)*. Crée un double d’une flèche utilisée pour tuer une créature au round précédent.
+- ***[Esprit protecteur](./Esprit protecteur.md)*** *(MJRA)*. Protège contre les attaques d’opportunité.
+- ***[Éternuement de feu](./Éternuement de feu.md) ([Gobelin](./Gobelin (race).md))*** *(MR)*. Le personnage éternue des flammes pour mettre ses ennemis en feu et les faire tomber à terre.
+- ***[Façonnage du bois](./Façonnage du bois.md)***. Permet de modeler le bois.
+- ***[Férocité du blaireau](./Férocité du blaireau.md)*** *(AM)*. Tant que le personnage se concentre, les armes sont acérées.
+- ***[Festin de cendres](./Festin de cendres.md) (Y)*** *(MJRA)*. La cible souffre d’une faim insatiable.
+- ***[Feu de camp abrité](./Feu de camp abrité.md)*** *(MJRA)*. Crée un abri autour d’un feu de camp.
+- ***[Force de taureau](./Force de taureau.md)***. Confère +4 en Force pendant 1 minute/niveau.
+- ***[Forme d'arbre](./Forme darbre.md)***. Transforme le PJ en arbre pendant 1 heure/niveau.
+- ***[Fouet d'araignées](./Fouet daraignées.md)*** *(MCA)*. Crée un fouet composé d’araignées empoisonnées.
+- ***[Frappes fébriles](./Frappes fébriles.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Les attaques au corps à corps infligées au personnage rendent ses attaquants fiévreux.
+- ***[Froid pénétrant](./Froid pénétrant.md) (Y)*** *(AM)*. La cible est victime d'un froid important.
+- ***[Fureur solaire](./Fureur solaire.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. La cible maudite endure une chaleur insupportable.
+- ***[Grâce féline](./Grâce féline.md)***. Confère +4 en Dex pendant 1 minute/niveau.
+- ***[Guide](./Guide.md)*** *(MJRA)*. Révèle la distance approximative qui sépare le personnage de l’endroit où il a lancé ce sort.
+- ***[Haricot magique](./Haricot magique.md)*** *(MCA)*. Crée une tige de haricot qu’il est facile d’escalader.
+- ***[Hypnose des animaux](./Hypnose des animaux.md)***. Fascine 2d6 DV d'animaux.
+- ***[Immobilisation d'animal](./Immobilisation danimal.md)***. Immobilise un animal pour 1 round/niveau.
+- ***[Intuition de l'ennemi](./Intuition de lennemi.md)*** *(MCA)*. Accorde aux autres un bonus contre les ennemis jurés du personnage.
+- ***[Lame de feu](./Lame de feu.md) (Y)***. Attaque de contact infligeant 1d8 points de dégâts, +1/2 niveaux.
+- ***[Lamentation des derniers jours d'été](./Lamentation des derniers jours dété.md) ([Ulfe](./../Golarion/Ulfes.md))*** *(ISR)*. Enveloppe la cible dans un manteau d'air estival chaud qui blesse les créatures de froid.
+- ***[Langue élémentaire](./Langue élémentaire.md)*** *(MJRA)*. Permet au personnage de parler aux élémentaires et à certaines créatures.
+- ***[Lien vital avec le compagnon](./Lien vital avec le compagnon.md)*** *(MCA)*. Quand son compagnon est blessé, le personnage le sent et quand le personnage est dans une situation désespérée, il peut lancer un appel à son compagnon.
+- ***[Mâchoires d'acier](./Mâchoires dacier.md)*** *(MJRA)*. La créature gagne l’aptitude étreinte avec une attaque naturelle.
+- ***[Marche sur l'onde (partagé)](./Marche sur londe (partagé).md)*** *(AG)*. Comme *marche sur l’onde* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Métal brûlant](./Métal brûlant.md) (Y)***. Chauffe le métal et inflige des dégâts à qui le touche.
+- ***[Métal gelé](./Métal gelé.md) (Y)***. Gèle le métal et inflige des dégâts à qui le touche.
+- ***[Mur de vent](./Mur de vent.md)***. Détourne projectiles, gaz et créatures de taille modeste.
+- ***[Nappe de brouillard](./Nappe de brouillard.md) (Y)***. Brume gênant la visibilité.
+- ***[Nappe de glace](./Nappe de glace.md) ([Géant du froid](./Géant du froid.md))*** *(CM)*. Recouvre une zone de glace, infligeant des dégâts de froid et pouvant faire tomber les créatures s'y trouvant.
+- ***[Nuage euphorisant](./Nuage euphorisant.md) (M)*** *(MCA)*. Brume qui obscurcit la vision et fascine les créatures vivantes.
+- ***[Nuée grouillante](./Nuée grouillante.md) (Y)***. Convoque une nuée de chauves-souris, de rats ou d'araignées.
+- ***[Œil de faucon](./Œil de faucon.md)*** *(MJRA)*. Crée un détecteur magique loin au dessus du personnage.
+- ***[Œil du chasseur](./Œil du chasseur.md)*** *(MJRA)*. +20 aux tests de Perception pour repérer une cible.
+- ***[Parole animale](./Parole animale.md)*** *(MCA)*. Le personnage parle normalement quand il est sous forme animale.
+- ***[Partage de la langue](./Partage de la langue.md)*** *(MJRA)*. Le sujet comprend une langue choisie.
+- ***[Pattes d'araignée](./Pattes daraignée.md) (Y)***. Permet de grimper aux murs.
+- ***[Peau d'écorce](./Peau décorce.md) (Y)***. Confère un bonus d'armure naturelle de +2 (ou plus).
+- ***[Peau en fer](./Peau en fer.md) ([Duergar](./duergar (race).md))*** *(CM)*. La peau du personnage durcit et prend la couleur et la texture du fer.
+- ***[Perception des indices](./Perception des indices.md)*** *(MJRA)*. +5 Perception et Psychologie 10 min/niveau.
+- ***[Perception du sang](./Perception du sang.md) ([Orque](./orque (race).md))*** *(MR)*. Améliore la capacité de la cible à sentir la présence de sang.
+- ***[Pied aérien](./Pied aérien.md)*** *(MCA)*. Le personnage marche sur l’air d’un pas mal assuré, dans certaines limites.
+- ***[Piège à feu](./Piège à feu.md) (M)***. L'objet piégé inflige 1d4 points de dégâts, +1/niveau.
+- ***[Piège indétectable](./Piège indétectable.md) (M)*** *(UI)*. Rend un piège bien plus difficile à détecter.
+- ***[Piste olfactive](./Piste olfactive.md)*** *(MJRA)*. Laisse une piste que les alliés peuvent suivre.
+- ***[Plaie au visage](./Plaie au visage.md)*** *(AG)*. Une arme tranchante inflige des dégâts de saignement à la tête d’un adversaire.
+- ***[Poigne sûre](./Poigne sûre.md)*** *(AG)*. Le personnage gagne un bonus de compétence de +4 aux tests d’Acrobaties et d’Escalade et au DMD.
+- ***[Poison pernicieux](./Poison pernicieux.md) (Y)*** *(AM)*. La cible reçoit un malus de -4 contre le poison.
+- ***[Portail fragile](./Portail fragile.md) ([Rovagug](./Rovagug (technique).md))*** *(D&M)*. Réduit la solidité et les points de résistance des objets dans une zone.
+- ***[Poumons d'Aboleth](./Poumons daboleth.md) ([Aquatique](./aquatique (race).md))*** *(MR)*. La cible peut respirer dans l'eau mais plus dans l'air.
+- ***[Protection contre les énergies destructives](./Protection contre les énergies destructives.md)***. Absorbe 12 points de dégâts/niveau infligés par le type d'énergie choisi.
+- ***[Protection du compagnon](./Protection du compagnon.md)*** *(MCA)*. Comme *protection d’autrui*, mais affecte le compagnon du personnage.
+- ***[Puanteur amplifiée](./Puanteur amplifiée.md) ([Troglodyte](./Troglodyte.md))*** *(CM)*. Améliore la capacité puanteur de la cible.
+- ***[Ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)***. Transforme la pierre en argile et la terre en sable ou en boue.
+- ***[Rapetissement d'animal](./Rapetissement danimal.md)***. Réduit la taille d'un animal consentant.
+- ***[Regard brûlant](./Regard brûlant.md) (Y)*** *(MJRA)*. Inflige 1d6 points de dégâts de feu à une créature.
+- ***[Repérer les faiblesses](./Repérer les faiblesses.md)*** *(AG)*. Le personnage lance deux fois les dés de dégâts des coups critiques et prend les meilleurs.
+- ***[Restauration partielle](./Restauration partielle.md)***. Dissipe effets magiques affaiblissants ou rend 1d4 points de caractéristique perdus.
+- ***[Retardement des maladies](./Retardement des maladies.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux maladies.
+- ***[Rocher magique](./Rocher magique.md) ([Géant du froid](./Géant du froid.md))*** *(CM)*. Comme *pierre magique*, mais avec des rochers.
+- ***[Rythme naturel](./Rythme naturel.md)*** *(MJRA)*. +1 aux jets de dégâts à chaque coup.
+- ***[Sagesse du hibou](./Sagesse du hibou.md)***. Confère +4 en Sag pendant 1 minute/niveau.
+- ***[Savoir du chasseur](./Savoir du chasseur.md)*** *(MMI)*. Permet d'effectuer des tests de Connaissances sans formation pour identifier les monstres, et de faire 20 à ces tests si le personnage y est formé.
+- ***[Sceau de fuite](./sceau de fuite.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Le personnage peut s'éloigner de créatures plus grandes que lui lorsqu'il esquive leurs attaques.
+- ***[Sens aiguisés](./Sens aiguisés.md)*** *(AM)*. Bonus aux tests de Perception.
+- ***[Soldats de la nature](./Soldats de la nature.md)*** *(AG)*. Les plantes voisines aident le personnage quand il se bat.
+- ***[Sphère de bourrasques](./Sphère de bourrasques.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Sphère de vent tourbillonante qui roule au sol et souffle les créatures à l'intérieur.
+- ***[Sphère de feu](./Sphère de feu.md)***. Roule au sol, 3d6 points de dégâts.
+- ***[Tir par ricochet](./Tir par ricochet.md) (Y)*** *(AG)*. L’arme à projectile touchée donne la propriété ricochet à ses munitions.
+- ***[Tout se mange](./Tout se mange.md)*** *(MJRA)*. Transforme les objets de moins de 2,5 kg en nourriture.
+- ***[Transformation de maître](./Transformation de maître.md)*** *(AM)*. Transforme un objet ordinaire en objet de maître.
+- ***[Trident de la nature](./Trident de Gozreh.md) ([Gozreh](./Gozreh (technique).md))*** *(D&M)*. Créé un trident d'électricité fourchu.
+- ***[Vague](./Vague.md)*** *(MJRA)*. Une vague augmente la vitesse de la créature.
+- ***[Vérole](./Vérole.md) (Y)*** *(MJRA)*. Le sujet est fiévreux et subit -4 Dex.
+- ***[Violent nuage d'orage](./Violent nuage dorage.md)*** *(MCA)*. Nuage d’orage volant qui inflige 3d6 points de dégâts d’électricité.
+- ***[Vision végétale](./Vision végétale.md)*** *(MPNJ)*. La cible peut voir à travers les plantes comme si elles étaient invisibles.
+- ***[Vol de souffle](./Vol de souffle.md) ([Homme-félin](./homme-félin (race).md))*** *(MR)*. Extrait l'air des poumons d'une créature.
+
+{s:Reference|3}
+### Sorts de niveau 3
+- ***[Affaiblissement des énergies destructives](./Affaiblissement des énergies destructives.md)*** *(OO)*. Réduit la capacité de la cible à puiser dans un type d'énergie spécifique.
+- ***[Ambassadeur animal](./Ambassadeur animal.md)*** *(UI)*. Offre une conscience temporaire à un messager animal pour qu'il délivre le message du personnage.
+- ***[Animal anthropomorphe](./Animal anthropomorphe.md)*** *(AM)*. Un animal devient bipède.
+- ***[Appel de la foudre](./Appel de la foudre.md) (Y)***. Appelle la foudre (3d6 points de dégâts par éclair).
+- ***[Armes muettes](./Armes muettes.md)*** *(UI)*. Les armes ciblées ne font plus de bruit et font taire leurs victimes.
+- ***[Aspect animal supérieur](./Aspect animal supérieur.md)*** *(AG)*. Comme *aspect animal* mais donne droit à deux avantages animaux.
+- ***[Aspect du cerf](./Aspect du cerf.md)*** *(MJRA)*. +2 à la CA contre les attaques d'opportunités et augmentation de vitesse.
+- ***[Balle dédiée](./Balle dédiée.md) (Y)*** *(AG)*. Les munitions sont plus précises si elles visent un certain type de créature.
+- ***[Barrière explosive](./Barrière explosive.md)*** *(MMI)*. Créé un mur persistant mais instable à partir du sol présent.
+- ***[Bénédiction de la taupe](./Bénédiction de la taupe.md)*** *(AM)*. 1 allié/niveau gagne vision dans le noir et +2 Discrétion.
+- ***[Bulle de vie](./Bulle de vie.md)*** *(MJRA)*. Protège les créatures contre l'environnement.
+- ***[Canaliser le don](./Canaliser le don.md) ([Néthys](./Néthys (technique).md))*** *(D&M)*. Alimente les capacités d'incantation de la cible, lui permettant de lancer un sort sans en dépenser l'emplacement.
+- ***[Comètes vengeresses](./Comètes vengeresses.md)*** *(MMI)*. Créé un groupe de comètes orbitant autour du personnage qui frappent immédiatement ceux qui le ciblent avec des sorts.
+- ***[Comparaison méticuleuse](./Comparaison méticuleuse.md)*** *(UI)*. Détermine si deux choses sont identiques.
+- ***[Contagion](./Contagion.md) (Y)***. Infecte la cible.
+- ***[Contrariété des géants](./Contrariété des géants.md)*** *(MMI)*. Améliore les sens du personnage contre les créatures plus grandes que lui.
+- ***[Contrefaçon instantanée](./Contrefaçon instantanée.md)*** *(UI)*. Manifeste une réplique éphémère d'un objet.
+- ***[Convocation d'alliés naturels III](./Convocation dalliés naturels III.md)***. Appelle une ou plusieurs créatures luttant pour le PJ.
+- ***[Convocation de créature totémique](./Convocation de créature totémique.md) ([Shoanti](./../Golarion/Shoantis.md))*** *(MR)*. Appelle des animaux sacrés de votre clan.
+- ***[Coupe de poussière](./Coupe de poussière.md) (Y)*** *(MJRA)*. Déshydrate une créature.
+- ***[Crachat venimeux](./Crachat venimeux.md)*** *(AM)*. Crache du venin de vipère noire aveuglant.
+- ***[Creusement](./Creusement.md) (Y)*** *(AM)*. La cible gagne une vitesse de creusement de 4,50 m.
+- ***[Croissance végétale](./Croissance végétale.md)***. Fait pousser la végétation, améliore son rendement.
+- ***[Déchaînement de débris](./Déchaînement de débris.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Anime une zone rocailleuse pour en faire une dangereuse nuée de débris.
+- ***[Dégoût](./Dégoût.md)*** *(AO)*. La cible évite un objet ou un lieu.
+- ***[Démarche aérienne de groupe](./Démarche aérienne de groupe.md)*** *(MJRA)*. Comme *démarche aérienne* mais sur plusieurs cibles.
+- ***[Démarche du caméléon suprême](./Démarche du caméléon suprême.md)*** *(MCA)*. Comme *démarche du caméléon*, mais affecte toutes les créatures alentour.
+- ***[Domination d'animal](./Domination danimal.md)***. L'animal obéit aux ordres télépathiques du PJ.
+- ***[Eaux de folie](./Eaux de Lamashtu.md) (M, Y)*** *(CCMI)*. Créé un poison qui a l'apparence d'eau pure et propre.
+- ***[Écailles épineuses supérieures](./Écailles épineuses supérieures.md) ([Homme-lézard](./Homme-lézard.md))*** *(CM)*. Comme *écailles épineuses*, mais avec un bonus d'altération plus élevé.
+- ***[Élan de rapidité](./Élan de rapidité.md)*** *(AG)*. La vitesse du personnage augmente. Quand il se déplace, il ignore les attaques d’opportunité et peut traverser l’espace occupé par des créatures plus grandes que lui.
+- ***[Empire végétal](./Empire végétal.md)***. Influence les actions d'une ou plusieurs créatures végétales.
+- ***[Empoisonnement](./Empoisonnement.md)***. Le sujet perd 1d3 points de Con/round pendant 6 rounds.
+- ***[Enchevêtrement épineux](./Enchevêtrement épineux.md)*** *(MCA)*. Comme *enchevêtrement*, mais les plantes portent des attaques à distance en plus.
+- ***[Ennemi du moment](./Ennemi du moment.md)*** *(MJRA)*. Le personnage considère la cible comme un ennemi juré du type de son choix.
+- ***[Enveloppement des pensées](./Enveloppement des pensées.md)*** *(AO)*. Protège contre la détection de pensées et la modification de mémoire.
+- ***[Exilé par la nature](./Exilé par la nature.md)*** *(MJRA)*. Donne un malus de -10 aux tests de Survie.
+- ***[Extinction des feux](./Extinction des feux.md)***. Éteint les feux.
+- ***[Façonnage de la pierre](./Façonnage de la pierre.md) (Y)***. Permet de modeler la pierre.
+- ***[Faim vampirique](./Faim vampirique.md) ([Urgathoa](./Urgathoa (technique).md))*** *(D&M)*. Confère à la cible les crocs et la soif d'un vampire.
+- ***[Forme de bébé](./Forme de bébé.md)*** *(AG)*. Le personnage transforme un animal ou une créature magique en une version plus jeune et plus mignonne d’elle-même, pour une courte durée.
+- ***[Forme de vermine I](./Forme de vermine I.md) (Y)*** *(AM, LD)*. Prend la forme et les pouvoirs d'une vermine P ou M.
+- ***[Fusion dans la pierre](./Fusion dans la pierre.md)***. Permet d'entrer dans la pierre.
+- ***[Geyser d'air](./Geyser dair.md)*** *(MCA)*. Explosion d’air qui inflige 2d6 points de dégâts contondants et envoie les adversaires dans les airs.
+- ***[Gloire partagée](./Gloire partagée.md)*** *(CMy)*. Les cibles sont traitées comme des créatures mythiques.
+- ***[Grand pas suprême](./Grand pas suprême.md)*** *(MCA)*. Comme *grand pas*, mais la vitesse des autres modes de déplacement est augmentée.
+- ***[Griffes sanglantes](./Griffes sanglantes.md)*** *(MJRA)*. Provoque des dégâts de saignement sur les attaques naturelles.
+- ***[Guérison des maladies](./Guérison des maladies.md)***. Guérit tous les maux du sujet.
+- ***[Infatigables poursuivants](./Infatigables poursuivants.md)*** *(MJRA)*. Comme *infatigable poursuivant* mais affecte plusieurs créatures.
+- ***[Infestation fongique](./Infestation fongique.md)*** *(AM)*. La cible saigne quand on l'attaque.
+- ***[Insectes espions](./Insectes espions.md)*** *(UI)*. Le personnage utilise des coléoptères magiques comme espions.
+- ***[Invasion d'orties](./Invasion dorties.md)*** *(AM)*. Une explosion inflige 3d6 points de dégâts et 1d6 d'acide.
+- ***[Lien mental avec le compagnon](./Lien mental avec le compagnon.md) (Y)*** *(AG)*. Le personnage peut parler avec son compagnon animal et le gère avec une facilité surnaturelle.
+- ***[Linceul de foudre](./Linceul de foudre.md)*** *(MPNJ)*. Créé une zone d'électricité qui hébète les créatures à l'intérieur.
+- ***[Lumière argentée](./Lumière argentée.md)*** *(CSU)*. Créé un éclat lumineux argenté qui affaibli les créatures sensibles à l'argent alchimique.
+- ***[Lumière du jour](./Lumière du jour.md) (Y)***. Vive lumière sur 18 m de rayon.
+- ***[Manteau de vent](./Manteau de vent.md)*** *(MJRA)*. Crée un écran de vents violents autour du personnage.
+- ***[Marche sur l'onde](./Marche sur londe.md)***. Permet de marcher sur l'eau.
+- ***[Mordre la main de son maître](./Mordre la main de son maître.md)*** *(RSE)*. Oblige une création convoquée à attaquer son invocateur.
+- ***[Morsure magique suprême](./Morsure magique suprême.md) (Y)***. Une arme naturelle du sujet gagne +1 à l'attaque et aux dégâts/4 niveaux (max. +5).
+- ***[Mur de saumure](./Mur de saumure.md) ([Homme-poisson](./homme-poisson (race).md))*** *(ISR)*. Crée un mur de 1,5 m d'épaisseur d'eau salée avec un puissant courant.
+- ***[Natation aérienne](./Natation aérienne.md) ([Gozreh](./Gozreh (technique).md))*** *(D&M)*. Permet à la cible de nager dans l'air.
+- ***[Neutralisation du poison](./Neutralisation du poison.md)***. Rend le poison inoffensif.
+- ***[Nuée de crocs](./Nuée de crocs.md) ([Troglodyte](./Troglodyte.md))*** *(CM)*. Appelle une nuée de crocs animés volants.
+- ***[Orbe aqueux](./Orbe aqueux.md)*** *(MJRA)*. Crée une sphère d’eau qui roule.
+- ***[Partage de la langue (partagé)](./Partage de la langue (partagé).md)*** *(AG)*. Comme *partage de la langue* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Pattes d'araignée (partagé)](./Pattes daraignée (partagé).md)*** *(AG)*. Comme *pattes d’araignée* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Peau résineuse](./Peau résineuse.md)*** *(AG)*. Le personnage gagne une RD 5/perforant et un bonus de +4 au DMD contre les tentatives de désarmement.
+- ***[Petite sirène](./Petite sirène.md) ([Homme-poisson](./homme-poisson (race).md))*** *(MR)*. Transforme les nageoires, les palmes ou la queue de la cible en une paire de jambes lui permettant de marcher sur la terre ferme.
+- ***[Pied ancré](./Pied ancré.md)*** *(MCA)*. Les lierres situés sous les pieds du personnage le stabilisent mais le ralentissent.
+- ***[Piège à arme](./Piège à arme.md)*** *(ISG)*. Manifeste un champ invisible qui piège les armes des assaillants.
+- ***[Pieux de glace](./Pieux de glace.md)*** *(MMI)*. Des piques géantes de glace jaillissent du sol.
+- ***[Pistage aérien](./Pistage aérien.md)*** *(UI)*. Le personnage peut traquer les créatures volantes dans les airs.
+- ***[Pluie de grenouilles](./Pluie de grenouilles.md)*** *(AM)*. Convoque une nuée de grenouilles empoisonnées.
+- ***[Poignée de vipères](./Poignée de vipères.md)*** *(UI)*. Protège un contenant avec des vipères convoquées.
+- ***[Projectile empoisonné](./Projectile empoisonné.md)*** *(MJRA)*. La flèche ou le carreau empoisonne la cible.
+- ***[Protection contre les énergies destructives (partagé)](./Protection contre les énergies destructives (partagé).md)*** *(AG)*. Comme *protection contre les énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Protégé de la saison](./protégé de la saison.md) ([Elfe](./Elfe.md))*** *(MR)*. Confère des bonus à la cible grâce aux pouvoirs d'une saison.
+- ***[Puanteur de la proie](./Puanteur de la proie.md)*** *(MCA)*. Les prédateurs animaux doivent réussir un jet de sauvegarde pour ne pas attaquer la cible.
+- ***[Puissantes mâchoires](./Puissantes mâchoires.md)*** *(MJRA)*. Les attaques naturelles infligent les mêmes dégâts que si elles étaient de deux tailles au-dessus.
+- ***[Rabougrissement des plantes](./Rabougrissement des plantes.md)***. Réduit la taille des plantes ou empêche leur croissance.
+- ***[Ralentissement du poison (partagé)](./Ralentissement du poison (partagé).md)*** *(AG)*. Comme *ralentissement du poison* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Répulsif](./Répulsif.md)***. Les insectes, araignées et autres vermines restent à 3 m du PJ.
+- ***[Résistance aux énergies destructives (partagé)](./Résistance aux énergies destructives (partagé).md)*** *(AG)*. Comme *résistance aux énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Respiration aquatique](./Respiration aquatique.md)***. Permet de respirer sous l'eau.
+- ***[Respiration d'air](./Respiration dair.md) ([Sahuagin](./Sahuagin.md))*** *(CM)*. Permet aux cibles de respirer l'air.
+- ***[Sables changeants](./Sables changeants.md)*** *(MJRA)*. Crée un terrain difficile et efface les traces ; peut emporter des créatures ou des objets.
+- ***[Sabot du tonnerre suprême](./Sabot du tonnerre suprême.md)*** *(MCA)*. Fait un croc-en-jambe à plusieurs créatures à portée.
+- ***[Sentier de nénuphars](./Sentier de nénuphars.md)*** *(MJRA)*. Traverse l'eau en marchand sur des nénuphars.
+- ***[Singes fous](./Singes fous.md)*** *(AM)*. Convoque une nuée de singes espiègles.
+- ***[Soins modérés](./Soins modérés.md) (Y)***. Rend 2d8 pv au sujet, +1/niveau (max. +10).
+- ***[Tempête de cendres](./Tempête de cendres.md)*** *(AM)*. Gêne la vision et le mouvement.
+- ***[Tempête de neige](./Tempête de neige.md)***. Réduit la visibilité et gêne les déplacements.
+- ***[Thaumaturgie associative](./thaumaturgie associative.md)*** *(RSE)*. Applique des propriétés métamagiques au sort qu'un allié lance.
+- ***[Torrent hydraulique](./Torrent hydraulique.md) (Y)*** *(MJRA)*. Crée un torrent d'eau qui renverse toutes les créatures qui se trouvent sur son passage.
+- ***[Transe guerrière](./transe guerrière.md) (Y) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Confère la capacité férocité, des points de vies supplémentaires, et un bonus de +4 contre les effets mentaux.
+- ***[Transfert de régénération](./Transfert de régénération.md) ([Troll](./Troll.md))*** *(CM)*. Transfert la régénération naturelle du personnage à un allié.
+- ***[Transport d'animal](./Transport danimal.md)*** *(AO)*. Envoie ou reçoit un animal de taille TP ou inférieure par téléportation.
+- ***[Vélocité du zéphyr](./Vélocité du zéphyr.md) ([Kéléshite](./../Golarion/Kéléshites.md))*** *(ISR)*. +9 mètres à la vitesse de vol (déjà existante) des cibles.
+- ***[Vents capricieux](./Vents capricieux.md)*** *(AM)*. Mur de vent qui bloque des attaques particulières.
+- ***[Vision à travers la pierre](./Vision à travers la pierre.md) ([Nain](./Nain.md))*** *(MR)*. Le personnage voit à travers la pierre comme à travers du verre.
+- ***[Vision dans le noir](./sort Vision dans le noir.md)***. Permet de voir à 18 m sans la moindre luminosité.
+
+{s:Reference|4}
+### Sorts de niveau 4
+- ***[Absorption de toxine](./Absorption de toxine.md)*** *(AG)*. Le personnage est temporairement immunisé contre les maladies et les toxines, il en absorbe une et la transmet à autrui.
+- ***[Amplificateur sensoriel](./Amplificateur sensoriel.md)*** *(OO)*. Stimule les sens de toutes les créatures autour du personnage.
+- ***[Antidétection](./Antidétection.md) (M)***. Protège contre la scrutation et les divinations.
+- ***[Appel des nixes](./Appel des nixes.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Force 24 DV de créatures à s'avancer vers le lanceur de sort.
+- ***[Aspect du loup](./Aspect du loup.md)*** *(MJRA)*. +4 For et Dex, +2 bonus aux attaques de croc-en-jambe.
+- ***[Assaut concerté](./Assaut concerté.md) ([Nain](./Nain.md))*** *(MR)*. Les actes prévus à l’avance sont plus efficaces.
+- ***[Atavisme](./Atavisme.md)*** *(AM)*. Les animaux gagnent l'archétype simple de créature évoluée.
+- ***[Attraction féérique](./Attraction féérique.md) (M)*** *(UI)*. Attire les faveurs d'une fée avec 6 DV ou moins.
+- ***[Balle dédiée supérieure](./Balle dédiée supérieure.md)*** *(AG)*. Comme *balle dédiée* mais inflige 2 points de dégâts par niveau de lanceur de sorts.
+- ***[Bénédiction de Baphomet](./Bénédiction de Baphomet.md)*** *(ISG)*. Transforme la tête de la cible en celle d'un taureau.
+- ***[Bénédiction de la salamandre](./Bénédiction de la salamandre.md)*** *(MJRA)*. La cible gagne guérison accélérée 5, résistance au feu 10 et +2 au DMD.
+- ***[Bosquet reposant](./Bosquet reposant.md)*** *(MJRA)*. Crée des arbres et une petite source.
+- ***[Bouclier de l'aube](./Bouclier de la fleur de laube.md) (Y)*** *(CCMI)*. Créé un bouclier protecteur fait de lumière solaire.
+- ***[Boule de foudre](./Boule de foudre.md)*** *(MJRA)*. Petites sphères de foudre volantes qui infligent chacune 3d6 points de dégâts d'électricité.
+- ***[Caresse vaseuse](./Caresse vaseuse.md)*** *(AM)*. Le contact infeste la cible de vase verte.
+- ***[Chaleur curative](./Chaleur curative.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux dégâts de feu qu'il peut transformer en énergie curative.
+- ***[Chevaucher les vagues](./Chevaucher les vagues.md)*** *(AM)*. La cible peut respirer sous l'eau et nager.
+- ***[Colonne de feu](./Colonne de feu.md) (Y)***. Feu divin (1d6 points de dégâts/niveau).
+- ***[Communication sécurisée suprême](./Communication sécurisée suprême.md)*** *(RSE)*. Le personnage peut parler librement avec un groupe de personnes proches sans pouvoir être espionné.
+- ***[Communion avec la nature](./Communion avec la nature.md)***. Permet de connaître les environs (1,5 km/niveau).
+- ***[Contrôle de l'eau](./Contrôle de leau.md)***. Abaisse ou élève le niveau de l'eau.
+- ***[Convocation d'alliés naturels IV](./Convocation dalliés naturels IV.md)***. Appelle une ou plusieurs créatures luttant pour le PJ.
+- ***[Convocation d'un vol d'aigle](./Convocation dun vol daigle.md) (F)*** *(RSE)*. Appelle des aigles géants comme montures entraînées au combat.
+- ***[Coquille antiplantes](./Coquille antiplantes.md)***. Empêche les plantes animées d'approcher.
+- ***[Corps épineux](./Corps épineux.md)*** *(MJRA)*. Ceux qui attaquent le personnage subissent 1d6+1 points de dégâts/niveau.
+- ***[Croissance animale](./Croissance animale.md)***. Double la taille d'un animal.
+- ***[Dispersion des sièges](./Dispersion des sièges.md) ([Nain](./Nain.md))*** *(ISR)*. Déclenche une explosion qui éloigne et deséquilibre ceux présents dans la zone.
+- ***[Dissipation de la magie](./Dissipation de la magie.md) (Y)***. Annule sorts et effets magiques.
+- ***[Écholocalisation](./Écholocalisation.md)*** *(AM)*. Les sens radars du personnage lui donnent la vision aveugle à 12 mètres.
+- ***[Embourbement](./Embourbement.md)*** *(MCA)*. Enduit les cibles d’une boue épaisse et collante qui les aveugle et agit comme un sort de *lenteur*.
+- ***[Esprit de l'arc](./Esprit de larc.md)*** *(MJRA)*. Convoque un esprit invisible qui tire des flèches à la place du personnage.
+- ***[Étreinte du Monde féerique](./Étreinte du Premier Monde.md) (M)*** *(MMI)*. Imprègne une créature avec l'énergie brute du Monde féerique.
+- ***[Flétrissement végétal](./Flétrissement végétal.md)***. Flétrit une plante ou inflige 1d6 points de dégâts/niveau à une créature végétale.
+- ***[Flot obsidien](./Flot obsidien.md)*** *(AG)*. Transforme une surface en verre fondu.
+- ***[Formation tactique](./Formation tactique.md) ([Nain](./Nain.md))*** *(MR)*. Confère un bonus à la CA aux cibles tant qu’elles restent en formation.
+- ***[Forme de vermine II](./Forme de vermine II.md) (Y)*** *(AM, LD)*. Comme *forme de vermine I* mais TP ou G.
+- ***[Forme du nuage](./Forme du nuage.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Permet d'adopter la forme d'un nuage colossale.
+- ***[Forme véritable](./Forme véritable.md) (Y)*** *(MJRA)*. Dissipe les effets de métamorphose.
+- ***[Geyser](./Geyser.md)*** *(MJRA)*. Crée un geyser d’eau bouillante.
+- ***[Glace insidieuse](./Glace insidieuse.md)*** *(MCA)*. Pellicule de glace qui s’étend lentement sur une surface horizontale.
+- ***[Grand banquet](./Grand banquet.md)*** *(UI)*. Crée un festin luxueux pour 2 créatures/niveau.
+- ***[Inhalation absorbante](./Inhalation absorbante.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Absorbe un effet gazeux, le conservant sans danger dans le corps du personnage.
+- ***[Liberté de mouvement](./Liberté de mouvement.md)***. La cible bouge normalement malgré les entraves.
+- ***[Maîtrise élémentaire](./Maîtrise élémentaire.md) ([Ifrit](./Ifrit (race).md), [Ondin](./Ondin (race).md), [Oréade](./Oréade (race).md), [Suli](./suli (race).md), [Sylphe](./Sylphe (race).md))*** *(ISR)*. Affine la maîtrise de l'essence élémentaire du personnage, offrant un bonus au déplacement et à l'attaque.
+- ***[Manteau de guêpes](./Manteau de guêpes.md) (Y)*** *(AM)*. Une nuée de guêpes défend ou porte le personnage.
+- ***[Marche dans les airs](./Marche dans les airs.md)***. Le sujet marche dans les airs comme sur la terre ferme.
+- ***[Marteau arboricole](./Marteau arboricole.md) (Y)*** *(AM)*. Les branches des arbres attaquent les ennemis.
+- ***[Mémoire ancestrale](./Mémoire ancestrale.md)*** *(CCMI)*. Le personnage implore l'aide de ses ancêtres, obtenant un bonus de +5 aux tests de compétences basés sur l'Intelligence.
+- ***[Nage dans la terre](./Nage dans la terre.md) ([Svirfneblin](./svirfneblin (race).md))*** *(MR)*. Permet à la cible de nager à travers la pierre, la terre, et d'autres terrains.
+- ***[Nuit de lames](./Nuit de lames.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)*. Créé un mur immobile fait de minuscules lames noires.
+- ***[Pacte avec la terre](./Pacte avec la terre.md)*** *(AG)*. Le personnage considère l’endroit où il se trouve comme un environnement de prédilection pour la durée du sort.
+- ***[Pierres acérées](./Pierres acérées.md) (Y)***. 1d8 points de dégâts, lenteur possible.
+- ***[Pistage infaillible](./Pistage infaillible.md)*** *(UI)*. Le personnage peut suivre une piste sans jamais la perdre.
+- ***[Pleine lune](./Pleine lune.md)*** *(MJRA)*. Le sujet est enragé et confus.
+- ***[Poison écrasant](./Poison écrasant.md)*** *(UI)*. Rend un poison plus difficile à combattre.
+- ***[Porte-peste](./Porte-peste.md)*** *(AM)*. Les attaques de la cible transmettent la fièvre des marais.
+- ***[Rappel de compagnon animal](./Rappel de compagnon animal.md) (M)*** *(AM)*. Comme *rappel à la vie* mais pour un compagnon animal.
+- ***[Réincarnation](./Réincarnation.md) (F, M)***. Ramène le sujet à la vie, mais dans un autre corps.
+- ***[Résistance à l'âge mineure](./Résistance à lâge mineure.md)*** *(AM)*. Ignore les malus de l'âge moyen.
+- ***[Rêve vagabond](./Rêve vagabond.md) ([Desna](./Desna (technique).md))*** *(D&M)*. Créé un capteur magique à travers lequel le personnage peut regarder lorsqu'il dort.
+- ***[Rivière de vent](./Rivière de vent.md)*** *(MJRA)*. Créer un vent qui inflige des dégâts non létaux et peut renverser ou repousser des créatures.
+- ***[Rouille](./Rouille.md)***. Fait rouiller le métal d'un simple contact.
+- ***[Sang caustique](./Sang caustique.md)*** *(ISG)*. Imprègne le sang du lanceur d'un acide corrosif qui blesse ceux qui l'attaquent.
+- ***[Sanglantes représailles](./Sanglantes représailles.md) ([Nain](./Nain.md))*** *(MR)*. Le personnage prête un serment en s’infligeant des dégâts, puis obtient un bonus à toute action en rapport avec ce serment.
+- ***[Scrutation](./scrutation.md) (F)***. Permet d'espionner le sujet à distance.
+- ***[Soins importants](./Soins importants.md) (Y)***. Rend 3d8 pv au sujet, +1/niveau (max. +15).
+- ***[Sphère de feu suprême](./Sphère de feu suprême.md)*** *(MCA)*. Boule de feu roulante, qui inflige 6d6 points de dégâts de feu et embrase les cibles.
+- ***[Tempête de grêle](./Tempête de grêle.md) (Y)***. 5d6 points de dégâts dans un cylindre de 12 m de diamètre.
+- ***[Tempête volcanique](./Tempête volcanique.md)*** *(AM)*. Des rochers brûlants infligent 5d6 points de dégâts.
+- ***[Traque spectrale](./Traque spectrale.md)*** *(MCA)*. Confère la vision dans le noir, la perception des vibrations (6 m) et un bonus d'altération de 12 m à la vitesse de base au personnage et à son compagnon animal et leur permet de suivre une piste plus facilement.
+- ***[Trouver la proie](./Trouver la proie.md)*** *(AG)*. Le personnage sent si une créature donnée se trouve dans un rayon de 30 km.
+- ***[Vermine géante](./Vermine géante.md) (Y)***. Transforme les insectes en vermine géante.
+- ***[Violent nuage d'orage suprême](./Violent nuage dorage suprême.md)*** *(MCA)*. Nuage d’orage volant qui inflige 6d6 points de dégâts d’électricité.
+- ***[Vision dans le noir (partagé)](./Vision dans le noir (partagé).md)*** *(AG)*. Comme *vision dans le noir* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Vision dans le noir supérieure](./Vision dans le noir supérieure.md)*** *(AM)*. Vision à 36 mètres dans les ténèbres absolues.
+- ***[Voyage par les arbres](./Voyage par les arbres.md)***. Le PJ entre dans un arbre et ressort par un autre.
+- ***[Zone de flammes instables](./Zone de flammes instables.md)*** *(MMI)*. Créé une zone qui renvoi les effets et les sorts de feu à leur lanceur.
+
+{s:Reference|5}
+### Sorts de niveau 5
+- ***[Aperçu lucide](./Aperçu lucide.md) (M)*** *(UI)*. Comme *vision lucide* mais dure 1 round.
+- ***[Appel de la tempête](./Appel de la tempête.md)***. Comme *appel de la foudre*, mais 5d6 points de dégâts par éclair.
+- ***[Bâton serpent](./Bâton serpent.md)*** *(MJRA)*. Transforme un bâton ou un autre objet de bois en serpents qui combattent pour le personnage.
+- ***[Baume empoisonné](./Baume empoisonné.md)*** *(UI)*. Comme *soins importants* mais inflige un poison à retardement.
+- ***[Bénédiction du chasseur](./Bénédiction du chasseur.md) ([Érastil](./Érastil (technique).md))*** *(ISG)*. Offre les avantages d'un ennemi juré et d'un environnement de prédilection.
+- ***[Contagion supérieure](./Contagion supérieure.md)*** *(AM)*. Infecte une cible avec une maladie magique.
+- ***[Contrôle des vents](./Contrôle des vents.md)***. Modifie la direction et la force du vent.
+- ***[Convocation d'alliés naturels V](./Convocation dalliés naturels V.md)***. Appelle une ou plusieurs créatures luttant pour le PJ.
+- ***[Convocation de kamis](./Convocation de kamis.md) ([Tianais](./../Golarion/Tianais.md))*** *(ISR)*. Comme *convocation d'alliés naturels V*, mais peut convoquer un kodama, 1d3 fukujin ou 1d4+1 shikigami.
+- ***[Creuser un passage](./Creuser un passage.md) ([Kobold](./Kobold (race).md))*** *(ISR)*. Extrait et déplace de la neige, de la poussière et de la roche ou glace meuble ou compacte.
+- ***[Engeance de génie](./Engeance de génie.md) (Y)*** *(MMI)*. Le personnage gagne les pouvoir et l'influence d'un génie.
+- ***[Éveil](./Éveil.md) (M)***. Rend un animal ou un arbre intelligent.
+- ***[Extraction du demi-sang](./extraction du demi-sang.md) ([Demi-orque](./Demi-orque.md))*** *(MR)*. Transforme un demi-orque en orque pur sang.
+- ***[Fléau d'insectes](./Fléau dinsectes.md)***. Nuée de criquets attaquant des créatures.
+- ***[Fouet de mille-pattes](./Fouet de mille-pattes.md)*** *(MCA)*. Crée un fouet composé de mille-pattes empoisonnés.
+- ***[Gorgée de poison](./Gorgée de poison.md)*** *(UI)*. Protège le personnage contre les poisons ingérés, puis permet de les recracher en cône.
+- ***[Lames de vent](./Lames de vent.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Densifie l'air autour de la cible pour en faire des lames dentées invisibles.
+- ***[Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md) ([Humain](./Humain.md))*** *(MR)*. Maudit une créature qui devient alors fiévreuse en permanence et chancelante si elle est proche de l'eau.
+- ***[Manteau des guerriers magiques](./Manteau des guerriers magiques.md) ([Mwangi](./../Golarion/Mwangi.md))*** *(ISR)*. Investi les cibles d'animaux spirituels avec des bonus de *forme bestiale I* uniques.
+- ***[Marche dans les airs (partagé)](./Marche dans les airs (partagé).md)*** *(AG)*. Comme *marche dans les airs* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Métamorphose funeste](./Métamorphose funeste.md) (Y)***. Transforme le sujet en animal inoffensif.
+- ***[Mur d'épines](./Mur dépines.md) (Y)***. Épines blessant quiconque tente de passer.
+- ***[Mur de feu](./Mur de feu.md) (Y)***. 2d4 points de dégâts à moins de 3 m, 1d4 à moins de 6 m ; 2d6 points de dégâts, +1/niveau, en cas de traversée.
+- ***[Peau de pierre](./Peau de pierre.md) (M, Y)***. RD 10/adamantium.
+- ***[Pénitence](./Pénitence.md) (F)***. Permet au sujet d'expier ses fautes.
+- ***[Protection contre la mort](./Protection contre la mort.md)***. Confère une immunité contre les sorts de mort et les effets d'énergie négative.
+- ***[Repos éternel](./Repos éternel.md)*** *(MJRA)*. Impossible de ramener la créature morte à la vie.
+- ***[Réprobation](./Réprobation.md)*** *(AM)*. Les membres de la religion du personnage fuient la cible marquée.
+- ***[Sanctification](./Sanctification.md) (M)***. Rend un site sacré.
+- ***[Sanctification maléfique](./Sanctification maléfique.md) (M)***. Rend un site maudit.
+- ***[Sceau daémonique](./Sceau daémonique.md) (M)*** *(LD)*. Comme *protection contre la mort* mais contre les daémons.
+- ***[Serpent de feu](./Serpent de feu.md) (Y)*** *(MJRA)*. Crée un chemin de feu sinueux de 1,5 m de long/niveau qui inflige 1d6 points de dégâts de feu/niveau.
+- ***[Soins intensifs](./Soins intensifs.md) (Y)***. Rend 4d8 pv au sujet, +1/niveau (max. +20).
+- ***[Terre affamée](./Terre affamée.md) ([Goule](./Goule.md))*** *(CM)*. Envoûte le sol pour qu'il tire les créatures sous la surface.
+- ***[Transfert de voie](./Transfert de voie.md)*** *(CMy)*. Transfer temporairement un pouvoir mythique du personnage à la cible.
+- ***[Transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)***. Affecte deux cubes de 3 m d'arête/niveau.
+- ***[Transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)***. Affecte deux cubes de 3 m d'arête/niveau.
+- ***[Triple aspect](./Triple aspect.md) (F)*** *(MJRA)*. Le personnage paraît plus jeune ou plus âgé.
+
+{s:Reference|6}
+### Sorts de niveau 6
+- ***[Aire de l'aigle](./Aire de laigle.md)*** *(AM)*. Convoque 1 aigle géant/3 niveaux.
+- ***[Arc-en-ciel embrasé](./Arc-en-ciel embrasé.md)*** *(MCA)*. Crée un arc avec des flèches de lumière ou un pont qui aide les alliés mais entrave les adversaires.
+- ***[Bâton à sort](./Bâton à sort.md)***. Permet de stocker un sort dans un bâton.
+- ***[Bois de fer](./Bois de fer.md)***. Rend le bois aussi dur que le fer.
+- ***[Chêne animé](./Chêne animé.md)***. Transforme un chêne en sylvanien.
+- ***[Convocation d'alliés géants I](./Convocation dalliés géants I.md) ([Kellide](./../Golarion/Kellides.md))*** *(ISR)*. Convoque un allié géant (bois, collines, grottes, marais, pierre, rivières ou scories).
+- ***[Convocation d'alliés naturels VI](./Convocation dalliés naturels VI.md)***. Appelle une ou plusieurs créatures luttant pour le PJ.
+- ***[Coquille antivie](./Coquille antivie.md)***. Tient les créatures vivantes à distance (3 m).
+- ***[Dissipation suprême](./Dissipation suprême.md)***. Comme *dissipation de la magie*, mais sur cibles multiples.
+- ***[Éloignement du bois](./Éloignement du bois.md) (Y)***. Repousse les objets en bois.
+- ***[Endurance de l'ours de groupe](./Endurance de lours de groupe.md)***. Comme *endurance de l'ours*, mais affecte un sujet/niveau.
+- ***[Entrave de terre de groupe](./Entrave de terre de groupe.md) ([Oréade](./Oréade (race).md))*** *(MR)*. Comme *entrave de terre* mais affecte plusieurs cibles.
+- ***[Épidémie](./Épidémie.md)*** *(AM)*. Infecte un sujet avec une maladie très contagieuse.
+- ***[Force de taureau de groupe](./Force de taureau de groupe.md) (F)***. Comme *force de taureau*, mais affecte un sujet/niveau.
+- ***[Forme de poussière](./Forme de poussière.md)*** *(AG)*. Le personnage devient temporairement une créature intangible faite de poussière.
+- ***[Fouet de fourmis](./Fouet de fourmis.md)*** *(MCA)*. Crée un fouet composé de fourmis soldats.
+- ***[Germes de feu](./Germes de feu.md) (Y)***. Glands et baies deviennent des projectiles ou des bombes.
+- ***[Glissement de terrain](./Glissement de terrain.md) (Y)***. Fait apparaître tranchées et collines.
+- ***[Grâce féline de groupe](./Grâce féline de groupe.md)***. Comme *grâce féline*, mais affecte un sujet/niveau.
+- ***[Insectes espions suprême](./Insectes espions suprême.md)*** *(UI)*. Le personnage utilise des coléoptères magiques comme espions et partage leurs sens.
+- ***[Mordre la main de son maître de groupe](./Mordre la main de son maître de groupe.md)*** *(RSE)*. Comme *mordre la main de son maître* mais avec plusieurs créatures.
+- ***[Mur de pierre](./Mur de pierre.md) (Y)***. Crée un mur qui peut être façonné.
+- ***[Nappe de goudron](./Nappe de goudron.md)*** *(AG)*. Transforme la couche supérieure du sol en goudron brûlant.
+- ***[Orientation](./Orientation.md)***. Indique comment se rendre à l'endroit choisi.
+- ***[Peau de nuée](./Peau de nuée.md)*** *(MJRA)*. Transforme le corps du lanceur de sorts en une nuée capable d’attaquer.
+- ***[Peau de pierre (partagé)](./Peau de pierre (partagé).md) (M)*** *(AG)*. Comme *peau de pierre* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Pierres commères](./Pierres commères.md)***. Permet de communiquer avec la pierre.
+- ***[Porteur de peste](./Porteur de peste.md) ([Urgathoa](./Urgathoa (technique).md))*** *(ISG)*. Fait de la cible un porteur de nombreuses maladies contagieuses.
+- ***[Régression primale](./Régression primale.md)*** *(AO)*. Une créature devient bestiale et perd son intelligence.
+- ***[Réincarnation d'espion](./Réincarnation despion.md) (F, M)*** *(UI)*. Comme *réincarnation* mais créé un corps similaire à celui de la créature choisie, tout en gardant la partie du corps utilisée.
+- ***[Résistance à l'Affadissement](./Résistance à lAffadissement.md) ([Gnome](./Gnome.md))*** *(ISR)*. Les diminutions de caractéristiques dues à l'Affadissement n'affecte plus les modificateurs du personnage.
+- ***[Résistance à l'âge](./Résistance à lâge.md)*** *(AM)*. Ignore les malus de l'âge avancé.
+- ***[Sagesse du hibou de groupe](./Sagesse du hibou de groupe.md)***. Comme *sagesse du hibou*, mais affecte un sujet/niveau.
+- ***[Sirocco](./Sirocco.md)*** *(MJRA)*. Vent chaud qui inflige 4d6 points de dégâts, fatigue les créatures touchées et les renverse.
+- ***[Soins légers de groupe](./Soins légers de groupe.md)***. Rend 1d8 pv+1/niveau à une créature/niveau.
+- ***[Tempête de peste](./Tempête de peste.md)*** *(AM)*. Un nuage infecte les créatures comme *contagion*.
+- ***[Terraformation](./Terraformation.md) (M)*** *(CMy)*. Dépense des utilisations de pouvoir mythique pour modifier le terrain et le climat environnant.
+- ***[Voie des vents](./Voie des vents.md) ([Sylphe](./Sylphe (race).md))*** *(MR)*. Le personnage fait appel à des vents puissants pour dégager un passage devant lui.
+- ***[Voie végétale](./Voie végétale.md)***. Le PJ entre dans une plante et ressort par une autre.

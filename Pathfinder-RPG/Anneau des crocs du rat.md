@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Anneau des crocs du rat
+Title: Anneau des crocs du rat
+LastModified: 2024-05-25 17:04
+Categories:
+- Objet mag anneau
+- Règle officielle
+- Src Armes et équipement
+---
+
+{s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:Desambi|Cet objet est apparu dans le [Manuel des races](./Manuel des races (Contenu).md) sous le nom "Anneau de crocs de rat".}<div class="BD">
+{s:BDTitre|Anneau des crocs du rat|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 5 000 po ; **Poids** —
+(((Description)))
+Cet anneau en os a la forme d’un rat allongé se mordant la queue. Le porteur gagne une attaque de morsure comptant comme une attaque naturelle principale. Elle inflige 1d4 points de dégâts perforants pour un porteur de taille M ou 1d3 points de dégâts pour un porteur de taille P. Si le porteur garde l’anneau à son doigt pendant une semaine, il prend une apparence qui se rapproche de celle du rat mais il garde les traits de sa race originale (par exemple, un humain pourrait voir ses dents devenir plus proéminentes).
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[morsure magique](./Morsure magique.md)*, *[métamorphose](./métamorphose.md)* ; **Coût** 2 500 po
+</div>

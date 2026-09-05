@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Maître des opérations
+Title: Maître des opérations
+LastModified: 2021-04-30 15:54
+---
+
+{s:MR}*Le hobgobelin intimide ses alliés plus faibles, les forçant à se laisser aller à une férocité téméraire.*
+
+**Catégorie.** Combat
+
+**Conditions.** , [hobgobelin](./Hobgobelin (race).md), [Coup de fouet démoralisant](./Coup de fouet démoralisant.md), 5 rangs en [Intimidation](./Intimidation.md)
+
+**Avantages.** Par une action simple, le hobgobelin encourage un allié, qui doit avoir moins de dés de vie que lui, à se montrer téméraire. Pendant 1 minute, cet allié gagne un bonus de moral de +1 à ses jets d’attaque, à ses jets de dégâts et à ses jets de Volonté contre les effets mentaux. Néanmoins, cet allié subit un malus de -2 à la CA et à ses tests de compétence.
+
+Pour affecter un allié involontaire, le hobgobelin doit réussir un test d’[Intimidation](./Intimidation.md) dont le [DD](./DD.md) est le même que celui utilisé pour démoraliser son allié.
+
+**Spécial.** Si le hobgobelin a 10 rangs ou plus en [Intimidation](./Intimidation.md), le bonus de moral monte à +2.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature dotée d’un maximum de 5 [DV](./DV.md) de plus que lui.

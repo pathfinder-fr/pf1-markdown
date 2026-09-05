@@ -1,0 +1,28 @@
+---
+Name: Aventures.Battlemap Pathfinder 19
+Title: Battlemap Pathfinder 19
+LastModified: 2014-04-21 13:39
+---
+
+#### Vieux relais en ruines
+*Sur la route de Solku qui mène jusqu'à Kelmarane puis en Osirion, plusieurs relais en ruines sont les seuls vestiges de l'époque faste du commerce dans la région. C'est dans un de ces relais que les PJ, accompagnés de Garavel et des chameliers, peuvent se faire attaquer alors qu'ils y ont établi leur camp pour passer la nuit.*
+
+<img src="/ADJ/Aventures/BM AP4 Vieux relais en ruines.png" width="750" class="centre" alt="">
+
+#### Le camp de la Griffe du sultan
+*(battlemap inspirée par le plan de Dalvyn)*
+
+<img src="/ADJ/Aventures/BM camp Griffe du sultan.png" width="750" class="centre" alt="">
+
+''Légende (de gauche à droite) :
+- Chariot d'Eloaïs
+- Chariot de matériel
+- Chariot avec la réserve d'eau
+- Tente des mercenaires
+- Tente de père Zastoran
+- Tente de Dashki (à l'écart des autres)
+- Tente d'Almah et de Garavel
+- Tente des gardes
+- Chariot de matériel
+- Tente d'Hadrod et Hadrah
+- Enclos pour chameau''

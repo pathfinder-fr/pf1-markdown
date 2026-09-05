@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.Pluie, neige, neige fondue et grêle
+Title: Pluie, neige, neige fondue et grêle
+LastModified: 2022-08-02 22:17
+Categories:
+- Maitre du jeu
+- Règle officielle
+- Src Manuel des joueurs
+---
+
+{s:MenuEnvironnement}
+
+Le mauvais temps freine ou met fréquemment un terme aux voyages et rend impossible le déplacement d’un endroit à un autre. Les pluies torrentielles et le blizzard assombrissent autant la [vision](./vision.md) qu’un [brouillard](./Brouillard.md) épais.
+
+Les précipitations se présentent souvent sous la forme de pluie, mais celle-ci peut être remplacée par de la neige, de la neige fondue ou de la grêle si la température de l’air est suffisamment basse. Si une chute brutale de la température (qui doit tomber en dessous de 0° C) est précédée de précipitations, le sol risque de geler.
+
+#### Pluie
+
+Diminue la visibilité de moitié, ce qui se traduit par un malus de -4 aux tests de [Perception](./Perception.md). Elle a un effet identique à un vent violent sur les flammes, les attaques d'arme à distance et les tests de [Perception](./Perception.md).
+
+#### Neige
+
+Tant qu’elle tombe, elle diminue autant la [visibilité](./visibilité.md) que la pluie (-4 aux jets d’attaque d'arme à distance et aux tests de [Perception](./Perception.md)). Pour pénétrer dans une case couverte de neige, il faut utiliser 2 cases de déplacement. De telles précipitations laissent derrière elles une couche de neige de 1d6 x 2,5 cm d’épaisseur.
+
+#### Lourde chute de neige
+
+Même effet que ci dessus, mais entrave la [visibilité](./visibilité.md) au même titre que le [brouillard](./Brouillard.md). De telles précipitations laissent derrière elles une couche de neige de 1d4 x 30 cm d’épaisseur. Les lourdes chutes de neige accompagnées de [vents](./Vents.md) importants ou violents peuvent générer des congères de 1d4 x 5 cm d’épaisseur, surtout si des objets suffisamment gros parviennent à dévier le vent (une hutte ou une tente, par exemple). Il y a 10 % de risques que ces précipitations s’accompagnent d’éclairs (voir « Orage » dans la section sur les [tempêtes](./Tempêtes.md)). La neige a un effet identique à un vent modéré sur les flammes (voir la section sur les [vents](./Vents.md)).
+
+#### Neige fondue
+
+A un effet identique à la pluie tant qu’elle tombe (si ce n’est qu’elle a 75 % de chances de souffler les flammes protégées), et que la neige une fois au sol.
+
+#### Grêle
+
+Ne réduit pas la [visibilité](./visibilité.md), mais le bruit qu’elle fait en tombant rend les tests de [Perception](./Perception.md) basés sur l’ouïe plus ardus (-4). Parfois (5 % de chances), elle est assez violente pour infliger un total de 1 point de dégâts létaux à ceux qui se trouvent en dessous. Une fois au sol, elle a un effet identique à la neige sur la [vitesse de déplacement](./vitesse de déplacement.md).

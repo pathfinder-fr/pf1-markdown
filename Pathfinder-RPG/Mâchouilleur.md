@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Mâchouilleur
+Title: Mâchouilleur
+LastModified: 2024-06-03 17:39
+Categories:
+- Objet mag intelligent
+- Src Armes et équipement
+---
+
+<div style="float:right">**'Retour aux [Objets intelligents](./Objets intelligents.md).
+Retour aux [Objets maudits](./Objets maudits.md).**'</div><div class="BD">
+{s:BDTitre|Mâchouilleur|{s:AE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 17 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** — ; **Poids** 7,5 kg
+(((Caractéristiques)))
+**Alignement** CM ; **Sens** 9 m, perception aveugle
+**Intelligence** 10 ; **Sagesse** 14 ; **Charisme** 13 ; **Ego** 17
+**Langues** parole (abyssal)
+(((Description)))
+La plupart des [sacs dévoreurs](./Sac dévoreur.md) ressemblent à des sacs ordinaires mais *Mâchouilleur* est différent. Il possède plusieurs rangées de dents vicieuses, un caractère exécrable et une folle envie de dévorer tout ce qui se trouve à portée. Cet [objet maudit](./Objets maudits.md) intelligent pense être l’incarnation de la gueule préférée et de l’appendice principal d’une créature qu’il appelle mystérieusement Celui qui dévore tout. Il déteste toutes les créatures à l’exception des démons qu’il considère comme des alliés de la destruction.
+*Mâchouilleur* possède tous les pouvoirs des [sacs dévoreurs](./Sac dévoreur.md) ainsi que les suivants.
+• Le propriétaire de *Mâchouilleur* peut, par une [action simple](./Action simple.md), le faire tournoyer par la courroie, de manière à frapper une créature ou un objet abandonné situé dans un rayon de 1,50 mètre. *Mâchouilleur* (et non son propriétaire) a ensuite droit à une unique attaque de morsure contre la cible, avec un bonus d’attaque de +14. S’il touche, il inflige 1d10+5 points de dégâts et 2 points de saignement. Cela ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). Les aptitudes du propriétaire du sac ne modifient jamais ce type d’attaque.
+• Quand *Mâchouilleur* se trouve en possession d’un être autre qu’un démon, son aura maudite inflige un malus de –1 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md) de son propriétaire et à ses tests de compétence et de caractéristique. Si le propriétaire de *Mâchouilleur* n’est pas un démon et que le sac arrive à prendre le contrôle lors d’un conflit de personnalités, il l’oblige à chercher des victimes pour le nourrir.
+(((Objet magique prévu)))
+[sac sans fond de type III](./Sac sans fond.md)
+</div>

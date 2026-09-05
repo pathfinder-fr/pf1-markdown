@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Ligne (mot de pouvoir)
+Title: Ligne
+LastModified: 2020-05-19 15:42
+Categories:
+- Art de la Magie
+- Mots de pouvoir
+- Règles officielles
+---
+
+{s:UM}
+**Niveau** 1  
+
+**Portée ** 6 mètres (4 {s:c})
+
+Un sort de mots incluant ce [mot cible](./Mots cibles.md) affecte tout ce qui se trouve sur une ligne de 6 mètres (4 {s:c}) de long.
+
+**Augmentation.** La portée passe à 18 mètres (12 {s:c}). Augmenter ce [mot cible](./Mots cibles.md) améliore son niveau de 1.
+
+**Augmentation.** La portée passe à 36 mètres (24 {s:c}). Augmenter ce mot [mot cible](./Mots cibles.md) améliore son niveau de 2.

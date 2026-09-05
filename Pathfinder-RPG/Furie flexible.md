@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Furie flexible
+Title: Furie flexible
+LastModified: 2022-06-14 00:13
+Categories:
+- Sort barde 3
+---
+
+{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 3  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** personnelle  
+
+**Cible** le lanceur de sorts  
+
+**Durée** 1 round/niveau
+
+Le personnage échange l’un de ses pouvoirs de rage du moment contre un autre pouvoir de rage pour lequel il se qualifie. Si le pouvoir de rage accordé par ce sort présente un nombre limite d’utilisation (comme une fois par rage ou un nombre de fois spécifique par jour), toute utilisation de ce pouvoir est décompté de cette limite (y compris pour les lancements ultérieurs de ce sort). Si le personnage échange un pouvoir de rage qu’il doit posséder afin de se qualifier pour un autre de ses pouvoirs de rage, il ne peut plus utiliser les pouvoirs de rage dépendant de celui échangé tant que le sort n’est pas terminé. Par exemple, s’il possède les pouvoirs de rage regard intimidant et hurlement terrifiant mais qu’il échange regard intimidant contre précision étonnante, il ne peut plus utiliser hurlement terrifiant jusqu’à ce que le sort se termine.

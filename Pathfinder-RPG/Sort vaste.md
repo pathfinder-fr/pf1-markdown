@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Sort vaste
+Title: Sort vaste
+LastModified: 2024-07-23 17:57
+Categories:
+- Contenu supplémentaire
+- Don
+- Don métamagie
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Les sorts du personnage couvrent des cibles dans une zone plus vaste.*
+
+**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+
+**Condition.** [NLS](./NLS.md) 3
+
+**Avantage.** Le personnage peut altérer un sort qui affecte des cibles qui ne sont pas distantes de plus de 9 m (6 {s:c} tel que *[rapidité](./Rapidité.md)*). La distance maximale qui doit les séparer des autres cibles passe à 18 m (12 {s:c}). Un sort vaste utilise un emplacement de sort d’un niveau supérieur au niveau normal du sort.
+
+(((Vast spell (Metamagic)
+
+Your spells cover targets across a larger area.
+
+Prerequisite: Caster level 3rd.
+
+Benefit: You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level.)))

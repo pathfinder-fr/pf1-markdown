@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Cacher son odeur
+Title: Cacher son odeur
+LastModified: 2020-12-13 21:02
+Categories:
+- Don
+- Recueil de la Société des Éclaireurs
+- Règles officielles
+---
+
+{s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
+
+*Le personnage a appris comment modifier son fumet et empêcher les créatures de le localiser à l’odeur.*
+
+**Conditions.** 3 rangs en [Discrétion](./Discrétion.md), 3 rangs en [Survie](./Survie.md)
+
+**Avantages.** Personne ne peut utiliser le pouvoir [odorat](./Odorat (capacité).md) pour traquer le personnage (ce qui n’empêche pas de suivre sa piste autrement). Les créatures dotées du pouvoir odorat repèrent le personnage de deux fois moins loin que la normale et sont incapables de repérer sa position exacte.

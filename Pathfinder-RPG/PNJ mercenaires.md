@@ -1,0 +1,117 @@
+---
+Name: Pathfinder-RPG.PNJ mercenaires
+Title: PNJ - Les mercenaires
+LastModified: 2024-08-10 23:23
+Categories:
+- Classe de PNJ
+- Src Guide du maître
+---
+
+{s:GdM}Ceux qui possèdent des talents martiaux et des bras puissants, tels les mercenaires et les sicaires, trouvent facilement un emploi. La plupart de ces combattants travaillent comme simples gardes pour une période déterminée mais ceux qui possèdent des talents spéciaux peuvent devenir des chasseurs d’hommes ou de monstres. Les puissances militaires, des armées en campagne jusqu’aux protecteurs royaux en passant par les associations criminelles, étoffent souvent leurs rangs en embauchant des mercenaires : après tout, ils n’ont aucune raison de mettre en danger leurs propres forces alors que d’autres sont prêts à saigner en échange d’un peu d’or.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|GARDEDECARAVANE}
+{s:BDTitre|Garde de caravane|FP 1}
+{s:BDTexte|**PX** 400}
+{s:BDTexte|Humain [guerrier](./Guerrier.md) 2}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +5 ; **Sens** [Perception](./Perception.md) +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 11, pris au dépourvu 18 (armure +7, bouclier +1, Dex +1)}
+{s:BDTexte|**pv** 16 (2d10+5)}
+{s:BDTexte|**Réf** +1, **Vig** +5, **Vol** +1 ; +1 contre la terreur}
+{s:BDTexte|**Capacités défensives** courage +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 {s:c})}
+{s:BDTexte|**Corps à corps** lance, +5 (1d8+3/×3) ou épée longue, +5 (1d8+3/19–20) ou kukri, +5 (1d4+3/18–20}
+{s:BDTexte|**A distance** arbalète lourde +3 (1d10/19–20)}
+{s:BDTexte|**For** 17, **Dex** 13, **Con** 14, **Int** 10, **Sag** 12, **Cha** 8}
+{s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16}
+{s:BDTexte|**Dons** [Fraternité animale](./Fraternité animale.md), [Rechargement rapide](./Rechargement rapide.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
+{s:BDTexte|**Compétences** [Dressage](./Dressage.md) +5, [Équitation](./Équitation.md) +1, [Intimidation](./Intimidation.md) +3, [Perception](./Perception.md) +4, [Profession](./Profession.md) (conducteur d’animaux) +5, [Psychologie](./Psychologie.md) +3, [Survie](./Survie.md) +5}
+{s:BDTexte|**Langues** commun}
+{s:BDTexte|**Équipement** crevice, targe, arbalète lourde avec 10 carreaux, épée longue, kukri, lance, cheval léger (entraîné au combat) avec selle, 1 po}
+{s:BDTexte|**Faveur** Les gardes de caravane peuvent s’arranger pour permettre aux PJ de voyager avec une caravane (comme invités ou gardes) jusqu’à la destination de leur choix.}
+</div></td>
+<td><div>
+Les gardes de caravane sont des vétérans robustes habitués à repérer les fauteurs de trouble. Ces individus souvent revêches et pugnaces chevauchent, arbalète à la main, sur les flancs des convois mais, en cas de véritable danger, la plupart d’entre eux préfèrent combattre à pied, épée et bouclier en mains.
+
+Les gardes de caravane peuvent servir d’éclaireurs, de messagers et d’avant-garde. En remplaçant les dons Vigilance et Fraternité animale par Combat monté et Tir monté, on en fait des combattants montés efficaces. Si, en plus de cela, on remplace Rechargement rapide par Attaque au galop ou Piétinement, on obtient un guerrier nomade monté de bas niveau. Pour une configuration plus typique, remplacez aussi l’épée longue et l’arbalète lourde par un cimeterre et un arc court composite.
+
+Deux [esclavagistes](./PNJ criminels.md#ESCLAVAGISTE) peuvent utiliser quatre gardes de caravane pour surveiller leur cheptel (FP 7), alors qu’une escouade de six gardes de caravane peut accompagner un [bandit de grand chemin](./PNJ brigands.md#BANDITDEGRANDCHEMIN) (FP 8) ou protéger un groupe de six [vagabonds](./PNJ routes.md#VAGABOND) (FP 8) ou de cinq [pèlerins](./PNJ routes.md#PELERIN) (FP 9). Une troupe de huit gardes de caravane a généralement à sa tête un [mercenaire armé](./PNJ mercenaires.md#MERCENAIREARME) (FP 9). Un [marchand itinérant](./PNJ marchands.md#MARCHANDITINERANT) ou un [prince marchand](./PNJ marchands.md#PRINCEMARCHAND) peut embaucher huit gardes de caravane pour protéger son convoi (FP 8 ou 10).
+</div></td></tr></table>
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MERCENAIREARME}
+{s:BDTitre|Mercenaire armé|FP 7}
+{s:BDTexte|**PX** 3 200}
+{s:BDTexte|Humain [guerrier](./Guerrier.md) 8}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [Perception](./Perception.md) +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 25, contact 12, pris au dépourvu 23 (armure +10, bouclier +3, Dex +2)}
+{s:BDTexte|**pv** 80 (8d10+36)}
+{s:BDTexte|**Réf** +5, **Vig** +10, **Vol** +6 ; +2 contre la terreur}
+{s:BDTexte|**Capacités défensives** courage +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** *épée bâtarde +1*, +14/+9 (1d10+7/17–20) ou gantelet clouté, +11/+6 (1d4+3)}
+{s:BDTexte|**A distance** javeline, +10 (1d6+3)}
+{s:BDTexte|**Attaque spéciale** entraînement aux armes (lames lourdes +1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 15, **Dex** 14, **Con** 16, **Int** 10, **Sag** 12, **Cha** 8}
+{s:BDTexte|**BBA** +8, **BMO** +11 , **DMD** 23}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée bâtarde), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Robustesse](./Robustesse.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (épée bâtarde), [Spécialisation martiale](./Spécialisation martiale.md) (épée bâtarde), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Équitation](./Équitation.md) +8, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +8, [Profession](./Profession.md) (soldat) +5, [Survie](./Survie.md) +10}
+{s:BDTexte|**Langues** commun}
+{s:BDTexte|**Particularités** entraînement aux armures 2}
+{s:BDTexte|**Équipement de combat** potions d’*[arme alignée](./Arme alignée.md)*, de *[force de taureau](./Force de taureau.md)*, et de *[soins légers](./Soins légers.md)* (2) ; Autre équipement *écu en acier +1*, *harnois +1*, *épée bâtarde +1*, gantelet clouté, javelines (5), *cape de résistance +1*, 40 po}
+{s:BDTexte|**Faveur** Un mercenaire armé peut utiliser ses relations pour aider les PJ à acheter des armes ou des armures +1 avec une réduction de prix de 10%, ou utiliser sa réputation pour aider un PJ possédant le don ||Prestige]] et lui octroyer pendant 1 mois un bonus de +1 à son score de Prestige afin de recruter des hommes d’armes comme suivants.}
+</div></td>
+<td><div>
+Les mercenaires armés forment l’élite des soldats de fortune. Ils ne sont loyaux envers rien ni personne, si ce n’est l’argent. La seule règle qu’ils respectent est qu’une fois qu’ils ont été embauchés, ils le restent :
+un mercenaire qui trahit son employeur ne retrouve plus jamais de travail. Mais même cette règle peut être adoucie quand l’employeur en question est sur le point de perdre : un soupçon d’opportunisme peut permettre au mercenaire de vivre (et de combattre) un jour de plus.
+
+On peut utiliser les mercenaires armés comme gardes impériaux d’élite, troupes de choc, maîtres d’armes royaux ou encore directeurs pour les académies de combat. Les individus riches et puissants peuvent aussi les embaucher comme gardes du corps contre un salaire élevé.
+
+Un mercenaire armé rusé peut voyager avec un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT) (FP 8) ou un [médium](./PNJ devins.md#MEDIUM) et deux [acolytes](./PNJ temples.md#ACOLYTE) (FP 8). Une escouade de quatre mercenaires armés peut être embauchée par un [prince marchand](./PNJ marchands.md#PRINCEMARCHAND) (FP 11) ou un [seigneur bandit](./PNJ brigands.md#SEIGNEURBANDIT) (FP 12). Un [chasseur de primes](./PNJ mercenaires.md#CHASSEURDEPRIMES) peut aussi louer les services de deux mercenaires armés pour l’aider à venir à bout d’un ennemi dangereux (FP 12).
+</div></td></tr></table>
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|CHASSEURDEPRIMES}
+{s:BDTitre|Chasseur de primes|FP 11}
+{s:BDTexte|**PX** 12 800}
+{s:BDTexte|Humain [rôdeur](./Rôdeur.md) 12}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +5 ; **Sens** [Perception](./Perception.md) +16}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 22, contact 15, pris au dépourvu 17 (armure +5, bouclier +2, Dex +5)}
+{s:BDTexte|**pv** 98 (12d10+32)}
+{s:BDTexte|**Réf** +13, **Vig** +10, **Vol** +5}
+{s:BDTexte|**Capacités défensives** esquive totale}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** rapière de maître, +18/+13/+8 (1d6+2/18–20) ou matraque de maître, +18/+13/+8 (1d6+2 non létal)}
+{s:BDTexte|**A distance** *arc long composite miséricordieux +1*, +18/+13/+8 (1d8+3/×3 plus 1d6 non létal) ou *arc long composite miséricordieux +1*, +16/+16/+11/+6 (1d8+3/×3 plus 1d6 non létal)}
+{s:BDTexte|**Attaque spéciale** ennemi juré (elfes +2, halfelins +2, humains +6), proie du chasseur}
+{s:BDTexte|**Sorts de rôdeur préparés** (NLS 9 ; Concentration +10)}
+{s:BDSorts|3<sup>e</sup> — *[croissance végétale](./Croissance végétale.md)*}
+{s:BDSorts|2<sup>e</sup> — *[peau d’écorce](./Peau décorce.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*}
+{s:BDSorts|1<sup>er</sup> — *[enchevêtrement](./Enchevêtrement.md)* (DD 12), *[grand pas](./Grand pas.md)*, *[ralentissement du poison](./Ralentissement du poison.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 14, **Dex** 20, **Con** 14, **Int** 10, **Sag** 13, **Cha** 8}
+{s:BDTexte|**BBA** +12, **BMO** +14, **DMD** 29}
+
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Endurance](./Endurance.md), [Feu nourri](./Feu nourri.md), [Frappe décisive](./Frappe décisive.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du tir de précision](./Science du tir de précision.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [Tir rapide](./Tir rapide.md), [Viser](./Viser.md), [Viser juste](./Viser juste.md)}
+{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (pièges) +10, [Connaissances](./Connaissances.md) (folklore local) +1, [Connaissances](./Connaissances.md) (géographie) +5, [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +24, [Dressage](./Dressage.md) +5, [Équitation](./Équitation.md) +12, [Escalade](./Escalade.md) +10, [Intimidation](./Intimidation.md) +14, [Linguistique](./Linguistique.md) +2, [Natation](./Natation.md) +6, [Perception](./Perception.md) +16, [Premiers secours](./Premiers secours.md) +5, [Survie](./Survie.md) +16  (+22 pour suivre une piste)}
+{s:BDTexte|**Langues** commun, elfique, halfelin}
+{s:BDTexte|**Particularités** camouflage, déplacement facilité, empathie sauvage +11, pacte du chasseur (compagnon animal : tigre), pistage accéléré, pistage +6, environnement de prédilection (ville +4, sous terre +2)}
+{s:BDTexte|**Équipement de combat** baguette de *[communication avec les animaux](./Communication avec les animaux.md)* (NLS 1, 50 charges), baguette de *[soins légers](./Soins légers.md)* (NLS 1, 50 charges), sacoches immobilisantes (2) ; **Autre équipement** *chemise de mailles +1*, *targe +1*, *arc long composite miséricordieux +1* <nowiki>[</nowiki>For +2<nowiki>]</nowiki> avec 20 flèches, matraque de maître, rapière de maître, ajonc à feuilles bleues (6 doses), *cape elfique*, *ceinture d’incroyable dextérité +2*, venin de ver pourpre (1 dose), 11 po}
+{s:BDTexte|**Faveur** Un chasseur de primes peut s’arranger pour enlever un PNJ de niveau inférieur ou égal à 10 pour les PJ contre la moitié de son tarif habituel.}
+</div></td>
+<td><div>
+Les chasseurs de primes chassent rarement les animaux ou les bêtes. Au lieu de cela, ils capturent des cibles humanoïdes pour de riches commanditaires. C’est à la fois un sport et un marché lucratif pour eux.
+
+Les chasseurs de prime travaillent souvent seuls mais l’un d’eux peut mener un groupe de « recrutement forcé » composé d’un [mercenaire armé](./PNJ mercenaires.md#MERCENAIREARME), d’un [bourreau](./PNJ donjons.md#BOURREAU) et de deux [esclavagistes](./PNJ criminels.md#ESCLAVAGISTE) (FP 12).
+</div></td></tr></table>

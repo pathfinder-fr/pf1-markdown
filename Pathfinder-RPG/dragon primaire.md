@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.dragon primaire
+Title: Les dragons primaires
+LastModified: 2021-04-18 11:57
+Categories:
+- Src Bestiaire 2
+---
+
+<div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
+<div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
+{| CLASS="tablo autoalt"
+|+ Catégories de dragons
+|- CLASS="titre"
+| Dragons primaires
+|- CLASS="premier"
+| [Dragon de cristal](./Dragon de cristal.md)
+|-
+| [Dragon de magma](./Dragon de magma.md)
+|-
+| [Dragon de saumure](./Dragon de saumure.md)
+|-
+| [Dragon des nuages](./Dragon des nuages.md)
+|-
+| [Dragon Umbral](./Dragon Umbral.md)
+|}
+</div></div><div class="description">**Source :** Bestiaire 2 p.102.</div>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons](./dragon.md).***</li></ul>
+
+Les dragons chromatiques et métalliques sont les plus connus de leurs
+espèces, mais il existe d’autres catégories de dragons véritables. Les
+pages qui suivent présentent cinq dragons primaires, des créatures
+puissantes originaires des plans Élémentaires et du plan des Ombres.
+
+>>> Dragon

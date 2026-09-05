@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Pointe en fer (objet)
+Title: Pointe en fer
+LastModified: 2021-09-16 22:33
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 pc ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette pointe en fer de 30 centimètres sert à garder les portes ouvertes ou fermées et à fixer les cordes pour l'escalade. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 5 pour entendre quelqu'un enfoncer une pointe en fer à coup de [marteau](./Marteau (objet).md).

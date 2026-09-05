@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Malédiction étendue
+Title: Malédiction étendue
+LastModified: 2020-07-25 18:17
+Categories:
+- Don
+- Manuel des races
+---
+
+{s:MR}*La malédiction du halfelin peut affecter des créatures situées plus loin que la normale.*
+
+**Conditions.** Trait [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7)
+
+**Avantage.** La portée de la malédiction du halfelin augmente de 9 mètres.
+
+**Spécial.** Le halfelin peut prendre ce don plusieurs fois. Ses effets se cumulent.

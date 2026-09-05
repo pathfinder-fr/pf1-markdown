@@ -1,0 +1,302 @@
+---
+Name: Pathfinder-RPG.Cinétiste
+Title: Le cinétiste
+LastModified: 2026-02-04 17:42
+Categories:
+- Classe
+- Règle officielle
+- Src Aventures occultes
+---
+
+{s:Menuclassesoccultes}
+<div class="fright">***Voir aussi les [éléments de cinétiste](./Éléments.md).***
+***Voir aussi les [talents sauvages](./talents sauvages.md).***
+{s:PM0|cinétiste}**Voir les archétypes du cinétiste**&emsp;
+<li ID="cinétiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypecinétiste}</li>
+</div>{s:AO}*Les cinétistes sont des conduits vivants d’énergie et de matière élémentaires qui manipulent leur environnement en puisant dans leurs propres réserves physiques. Leurs pouvoirs se révèlent souvent à eux lors d’une expérience particulièrement violente ou traumatisante, événement lors duquel ils se déclenchent spontanément. Leurs pouvoirs sont rarement le fruit d’un héritage et les mentors qui acceptent de les guider sont plutôt rares. Ils doivent donc étudier en profondeur les mystères qui les habitent pour apprendre à contrôler leurs dons.*
+
+{| CLASS="tablo centre autoalt"
+|+ Le cinétiste
+|- CLASS="titre"
+| Niveau
+| BBA
+| Réflexes
+| Vigueur
+| Volonté
+| CLASS="gauche" | Spécial
+|- CLASS="premier"
+| 1
+| +0
+| +2
+| +2
+| +0
+| CLASS="gauche" | [Accumulation de pouvoir](./Cinétiste.md#ACCUMULATIONDEPOUVOIR), [brûlure](./Cinétiste.md#BRÛLURE), [élément de prédilection](./Cinétiste.md#ÉLÉMENTDEPRÉDILECTION), [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE), [injection](./Cinétiste.md#INJECTION)
+|-
+| 2
+| +1
+| +3
+| +3
+| +0
+| CLASS="gauche" | [Défense élémentaire](./Cinétiste.md#DÉFENSEÉLÉMENTAIRE), [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 3
+| +2
+| +3
+| +3
+| +1
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +1, [injection](./Cinétiste.md#INJECTION)
+|-
+| 4
+| +3
+| +4
+| +4
+| +1
+| CLASS="gauche" | [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 5
+| +3
+| +4
+| +4
+| +1
+| CLASS="gauche" | [injection](./Cinétiste.md#INJECTION), [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS), [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE) (extension)
+|-
+| 6
+| +4
+| +5
+| +5
+| +2
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +2, [réserve interne](./Cinétiste.md#RÉSERVEINTERNE) 1, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 7
+| +5
+| +5
+| +5
+| +2
+| CLASS="gauche" | [Extension élémentaire](./Cinétiste.md#EXTENSIONÉLÉMENTAIRE)
+|-
+| 8
+| +6/+1
+| +6
+| +6
+| +2
+| CLASS="gauche" | [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS) 2, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 9
+| +6/+1
+| +6
+| +6
+| +3
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +3, [injection](./Cinétiste.md#INJECTION), [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE) (quintessence)
+|-
+| 10
+| +7/+2
+| +7
+| +7
+| +3
+| CLASS="gauche" | [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 11
+| +8/+3
+| +7
+| +7
+| +3
+| CLASS="gauche" | [injection](./Cinétiste.md#INJECTION), [réserve interne](./Cinétiste.md#RÉSERVEINTERNE) 2, [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS) 3, [surcharge](./Cinétiste.md#SURCHARGE)
+|-
+| 12
+| +9/+4
+| +8
+| +8
+| +4
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +4, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 13
+| +9/+4
+| +8
+| +8
+| +4
+| CLASS="gauche" | [injection](./Cinétiste.md#INJECTION), [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE) (accélération)
+|-
+| 14
+| +10/+5
+| +9
+| +9
+| +4
+| CLASS="gauche" | [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS) 4, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 15
+| +11/+6/+1
+| +9
+| +9
+| +5
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +5, [extension élémentaire](./Cinétiste.md#EXTENSIONÉLÉMENTAIRE)
+|-
+| 16
+| +12/+7/+2
+| +10
+| +10
+| +5
+| CLASS="gauche" | [réserve interne](./Cinétiste.md#RÉSERVEINTERNE) 3, [spécialisation composite](./Cinétiste.md#SPÉCIALISATIONCOMPOSITE), [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 17
+| +12/+7/+2
+| +10
+| +10
+| +5
+| CLASS="gauche" | [injection](./Cinétiste.md#INJECTION), [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE) (double), [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS) 5
+|-
+| 18
+| +13/+8/+3
+| +11
+| +11
+| +6
+| CLASS="gauche" | [Bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) +6, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|-
+| 19
+| +14/+9/+4
+| +11
+| +11
+| +6
+| CLASS="gauche" | [injection](./Cinétiste.md#INJECTION), [maître de la métacinétique](./Cinétiste.md#MAITREDELAMÉTACINÉTIQUE)
+|-
+| 20
+| +15/+10/+5
+| +12
+| +12
+| +6
+| CLASS="gauche" | [Omnicinétique](./Cinétiste.md#OMNICINÉTIQUE), [spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS) 6, [talent sauvage utilitaire](./Cinétiste.md#TALENTSAUVAGEUTILITAIRE)
+|}
+
+**Rôle.** Les cinétistes utilisent généralement leurs pouvoirs pour agresser leurs ennemis à distance mais, étant donné la façon dont leurs talents se développent, ils peuvent canaliser leurs aptitudes cinétiques dans nombre de situations différentes. Les cinétistes sont souvent différents des membres de leur famille et de leurs amis et décident donc souvent de voler de leurs propres ailes en partant seul ou accompagnés d’autres individus dotés eux aussi de pouvoirs extraordinaires.
+
+**Alignement.** Tous.
+
+**Dés de vie.** d8.
+
+**Argent de départ.** 1d6 x 10 po (moyenne 35 po).
+
+### Compétences de classe
+Voici les compétences de classe du cinétiste : [Acrobaties](./Acrobaties.md) (Dex), [Artisanat](./Artisanat.md) (Int), [Discrétion](./Discrétion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag) et [Utilisation des objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+
+**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Descriptif de la classe
+Voici les aptitudes de classe du cinétiste.
+
+{s:ImageDroite|Illustrations/PNJ/Yoon.jpg|45%}
+#### Armes et armures
+Les cinétistes sont formés au maniement de toutes les armes courantes ainsi qu’au port des armures légères. Ils ne sont cependant pas formés au maniement des boucliers.
+
+{s:Reference|ÉLÉMENTDEPRÉDILECTION}
+#### Élément de prédilection (Sur)
+Au niveau 1, le cinétiste choisit un élément principal sur lequel il se focalise. Cet élément détermine la manière dont il accède à la puissance brute du plan Éthéré et lui permet d’obtenir des [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES) spécifiques (voir plus bas) et des compétences de classe supplémentaires.
+
+Il peut choisir entre l’élément de l’Air (aérocinétique), de l’Eau (hydrocinétique), de l’Éther (télécinétique), du Feu (pyrocinétique) ou de la Terre (géocinétique).
+
+Il obtient le talent sauvage utilitaire simple de son élément de prédilection (aérocinétique basique, hydrocinétique basique, télécinétique basique, pyrocinétique basique ou géocinétique basique) en talent sauvage supplémentaire.
+
+{s:OO}**Le bois et la phytocinétique.** Au lieu des cinq éléments de base, un cinétiste peut choisir l'élément du Bois. Les phytocinétistes partagent un puissant lien avec le Premier Monde, et servent de conduit à la vie primordiale. Puisqu’il n’existe pas de "Plan élémentaire du Bois", les phytocinétistes tirent leurs pouvoirs de poches d'énergie vitale qui se forment lorsque les Plans élémentaires se heurtent aux frontières du Premier Monde.
+
+{s:OO}**Le vide et la chaocinétique.** Au lieu des cinq éléments de base, un cinétiste peut choisir l'élément du Vide. Comme l'éther, le vide se forme où l'énergie élémentaire rencontre un autre matériau, dans ce cas la substance du Plan de l'Énergie négative. Les chaocinétistes commandent cette étrange force qui dans certains aspects rappelle la manipulation de l'éther.
+
+*Voir la [liste des éléments](./Éléments.md).*
+
+{s:Reference|TALENTSSAUVAGES}{s:Reference|TALENTSAUVAGEUTILITAIRE}
+#### Talents sauvages
+Un cinétiste utilise des talents sauvages : des aptitudes magiques semblables aux sorts mais qu’il produit à volonté grâce à son talent psychique inné. Les talents sauvages sont, pour l’essentiel, des pouvoirs magiques (certains sont surnaturels) et, sauf indication contraire, il faut accomplir une [action simple](./Action simple.md) pour les activer.
+
+Un talent sauvage possède toujours le ou les registres élémentaires (Air, Eau, Éther, Feu ou Terre) qui correspondent à l’élément qui s’y rapporte. Un talent sauvage que l’on peut utiliser en sélectionnant un [élément](./Éléments.md) parmi une liste qui en comporte plusieurs obtient le registre élémentaire correspondant lorsqu’il est utilisé avec l’élément choisi.
+:: *Par exemple, le talent sauvage de mur possède le registre de la Terre quand il est utilisé par un géocinétiste.*
+
+Chaque talent sauvage possède un niveau de sort effectif. Un cinétiste peut toujours choisir les talents sauvages de niveau 1. Il peut également choisir un talent sauvage d’un niveau supérieur dès que son niveau de cinétiste est au moins égal à deux fois le niveau de sort effectif du talent sauvage.
+
+On considère que le niveau de sort effectif des talents sauvages d’explosion cinétique et de défense est toujours égal à la moitié du niveau de cinétiste (jusqu’à un niveau de sort effectif maximum de 9 pour un cinétiste de niveau 18).
+
+Sauf indication contraire, le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) effectués contre un talent sauvage est égal à 10 + le niveau de sort effectif du talent sauvage + le modificateur de Constitution du cinétiste. Le cinétiste applique son modificateur de Constitution aux tests de concentration effectués quand il utilise des talents sauvages.
+
+En plus des talents sauvages obtenus grâce à ses autres aptitudes de classe, un cinétiste choisit un nouveau talent sauvage utilitaire au niveau 2 et tous les 2 niveaux par la suite parmi ceux de la liste de talents à laquelle il a accès.
+
+Un cinétiste peut uniquement choisir les talents sauvages universels ou ceux qui correspondent à son [élément](./Cinétiste.md#ÉLÉMENTDEPRÉDILECTION). Aux niveaux 6, 10 et 16, un cinétiste peut remplacer l’un de ses talents sauvages utilitaires par un autre de niveau égal ou inférieur. Il ne peut pas remplacer un talent sauvage qui satisfait les conditions d’obtention d’un ou plusieurs de ses autres talents sauvages.
+
+*Voir la [liste des talents sauvages](./talents sauvages.md).*
+
+{s:Reference|BRÛLURE}
+#### Brûlure (Ext)
+Dès le niveau 1, un cinétiste peut puiser dans ses ressources personnelles pour canaliser plus de pouvoir qu’à l’accoutumée. Il outrepasse ainsi les limites que son corps peut normalement endurer en s’infligeant des brûlures. Certains de ses [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES) lui permettent d’accepter une brûlure pour produire un effet plus important tandis que d’autres l’obligent à accepter un certain montant de brûlure pour pouvoir simplement les utiliser.
+
+Pour chaque point de brûlure accepté, le cinétiste subit 1 point de dégât non létal par niveau de personnage. Ces dégâts ne peuvent être soignés par aucun moyen autre que celui qui consiste à se reposer une nuit entière, ce qui élimine toutes les brûlures et les dégâts non létaux qui leur sont associés. Les dégâts non létaux infligés par des brûlures ne peuvent pas être réduits ou redirigés et un cinétiste qui ne peut subir de dégâts non létaux ne peut pas non plus accepter des brûlures.
+
+Un cinétiste peut accepter 1 point de brûlure par round seulement. Cette limite s’élève à 2 points de brûlure au niveau 6 et à un point supplémentaire tous les 3 niveaux par la suite. Un cinétiste ne peut accepter une brûlure si, suite à cette acceptation, son nombre total de points de brûlure est supérieur à 3 + son modificateur de Constitution (mais une source indépendante de sa volonté peut l’obliger à accepter davantage de brûlures). Un cinétiste qui a accepté une brûlure ne bénéficie jamais des avantages conférés par des pouvoirs qui lui permettent d’ignorer ou de modifier les effets obtenus par des dégâts non létaux.
+
+{s:Reference|EXPLOSIONCINÉTIQUE}
+#### Explosion cinétique (Mag)
+Dès le niveau 1, un cinétiste obtient un [talent sauvage d’explosion cinétique](./talents sauvages.md#Explosions_cinétiques_8) de son choix. Cette explosion cinétique doit être une explosion simple associée à son [élément](./.md#ÉLÉMENTDEPRÉDILECTION).
+
+Par une [action simple](./Action simple.md), le cinétiste peut projeter une explosion cinétique sur une cible unique située à 9 mètres (6 {s:c}) ou moins. Il doit avoir au moins une main de libre (ou un appendice préhensile s’il n’a pas de mains) avec laquelle il désigne la cible de l’explosion. Tous les dégâts infligés par l’explosion cinétique sont considérés comme magiques lorsqu’il s’agit d’ignorer la [réduction de dégâts](./RD.md). L’explosion cinétique est considérée comme une arme dans le cadre des dons comme [Arme de prédilection](./Arme de prédilection.md). On ne considère jamais que le cinétiste manie ou empoigne l’explosion cinétique (quels que soient les effets des injections) et il ne peut pas utiliser le don [Frappe décisive](./Frappe décisive.md) avec les explosions cinétiques. Même la moins puissante des explosions cinétiques produit une importante quantité de matière ou d’énergie élémentaire, voilà pourquoi elles infligent toujours leurs dégâts normaux aux nuées de toutes tailles (même si seules les explosions de zone infligent des dégâts supplémentaires aux nuées). Une explosion cinétique préparée peut être utilisée pour contrer n’importe quel sort doté du même registre et d’un niveau égal ou inférieur.
+
+Une explosion cinétique qui inflige des dégâts d’énergie destructive (y compris de force) possède le registre correspondant à cette énergie.
+
+{s:Reference|ACCUMULATIONDEPOUVOIR}
+#### Accumulation de pouvoir (Sur)
+{s:FAQ|***[→](./FAQ- Aventures occultes.md#2) Cinétiste, Accumulation de pouvoir : Je sais qu’accumulation de pouvoir ne peut être utilisé que sur les talents sauvages d’explosion, mais quelles sont les choses qui s’ajoutent aux talents sauvages d’explosion et que je peux réduire grâce à cette capacité ? La description des injections est claire sur ce point, mais pas les autres.***
+
+Un personnage peut réduire le coût en brûlure des [injections](./Cinétiste.md#INJECTIONS), de la [métacinétique](./Cinétiste.md#METACINETIQUE), et même l’augmentation de 1 point de brûlure du à l’utilisation d’une explosion qu’il ne connaît pas par le biais de l'[omnicinétique](./Cinétiste.md#OMNICINETIQUE). Toutes ces choses s’appliquent au coût de l’explosion. Le personnage ne peut toujours pas réduire les talents utilitaires, y compris l’augmentation de brûlure du au changement d’un talent utilitaire par le biais de l’omnicinétique, excepté s’il utilise sa [réserve interne](./Cinétiste.md#RESERVEINTERNE) à la place. '’(Retour à la <u>[capacité](./Cinétiste.md#ACCUMULATIONDEPOUVOIR)</u>)’’}S’il a les deux mains libres (ou tous les appendices préhensiles libres pour les cinétistes aux formes inhabituelles), un cinétiste peut accumuler de l’énergie ou de la matière élémentaire par une [action de mouvement](./Action de mouvement.md). L’accumulation de pouvoir crée une manifestation d’énergie ou de matière tourbillonnante extrêmement bruyante et visible dans un rayon de 6 mètres (4 {s:c}) autour du cinétiste. Elle permet au cinétiste de réduire de 1 point le coût total de brûlure occasionné par un talent sauvage d’explosion utilisé au cours du même round. Le cinétiste peut à la place accumuler du pouvoir pendant un round complet afin de réduire de 2 points le coût total de brûlure occasionné par un talent sauvage d’explosion utilisé au cours du prochain round (jusqu’à un minimum de 0 point). Dans ce cas, il peut également accumuler du pouvoir par une [action de mouvement](./Action de mouvement.md) lors de son prochain tour pour réduire de 3 points le coût de brûlure. Si le cinétiste subit des dégâts pendant ou après l’accumulation de pouvoir et avant d’utiliser l’explosion cinétique qui la déclenche, il doit réussir un test de concentration ([DD](./DD.md) = 10 + dégâts subis + niveau effectif de sort de son explosion cinétique) pour éviter que l’énergie ne se disperse de manière brutale, l’obligeant à accepter un nombre de points de brûlure égal au nombre de points de réduction du coût de brûlure que l’accumulation de pouvoir aurait dû lui conférer. Cette aptitude ne peut jamais réduire le coût de brûlure d’un talent sauvage en dessous de 0.
+
+{s:Reference|INJECTION}
+#### Injection (Sur)
+Dès le niveau 1, un cinétiste obtient un talent sauvage d’injection issu de la liste des options disponibles en fonction de son [élément de prédilection](./.md#ÉLÉMENTDEPRÉDILECTION). Il obtient une injection supplémentaire aux niveaux 3, 5, 9, 11, 13, 17 et 19.
+
+En associant les injections à ses explosions cinétiques, un cinétiste peut modifier ses explosions cinétiques selon ses besoins. Il existe deux types d’injections et chacune modifie à sa façon une explosion cinétique : une injection de substance produit un effet supplémentaire tandis qu’une injection de forme modifie l’explosion cinétique qui se manifeste alors différemment. Chaque injection peut modifier certains types d’explosions cinétiques seulement ; celles-ci sont indiquées dans l’entrée intitulée Explosions associées. Chaque fois que le cinétiste utilise l’un de ses [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES) d’explosion cinétique, il peut appliquer une injection de forme associée et une injection de substance associée. Certaines injections changent l’action nécessaire pour activer une explosion cinétique ou modifient complètement les effets normaux de l’explosion cinétique. Le coût de brûlure indiqué dans l’entrée Brûlure de chaque injection est ajouté à celui de l’explosion cinétique modifié par l’injection.
+
+Le DD des [jets de sauvegarde](./JDS.md) effectués contre l’injection prend pour base le niveau de sort effectif de l’explosion cinétique associée, et non le niveau de l’injection. Le DD des injections de forme se calcule en appliquant le modificateur de [Dextérité](./Dextérité.md) du cinétiste à la place de son modificateur de Constitution.
+
+Quand un cinétiste modifie une explosion cinétique avec une injection de forme et de substance qui autorisent toutes deux des jets de sauvegarde, chaque cible doit effectuer un jet de sauvegarde d’abord contre l’injection de forme. Si la cible réussit son jet de sauvegarde et que celui-ci annule les effets de l’injection, l’explosion cinétique dans son ensemble est annulée ; sinon, la cible doit ensuite effectuer un jet de sauvegarde contre l’injection de substance. Si les injections de forme et de substance d’un cinétiste modifient toutes deux les dégâts de l’explosion cinétique, appliquez d’abord la modification de l’injection de substance.
+
+Aux niveaux 5, 11 et 17, un cinétiste peut remplacer une de ses injections par une autre dont le niveau effectif de sort est égal ou inférieur. Il ne peut pas remplacer une injection qui satisfait les conditions d’obtention d’un ou plusieurs de ses autres talents sauvages.
+
+{s:Reference|DÉFENSEÉLÉMENTAIRE}
+#### Défense élémentaire (Sur)
+Au niveau 2, un cinétiste obtient le talent sauvage de défense de son [élément](./.md#ÉLÉMENTDEPRÉDILECTION).
+
+{s:Reference|BOUILLONNEMENTÉLÉMENTAIRE}
+#### Bouillonnement élémentaire (Ext)
+Au niveau 3, l’énergie liée à l’[élément de prédilection](./Cinétiste.md#ÉLÉMENTDEPRÉDILECTION) du cinétiste traverse son corps chaque fois qu’il accepte une brûlure. Son corps est alors auréolé de feu, de l’eau suinte des pores de sa peau ou un autre effet correspondant au thème de l’élément choisi se manifeste. De plus, il bénéficie d’un bonus aux jets d’attaque effectués avec ses explosions cinétiques égal au nombre total de points de brûlure qu’il possède actuellement, jusqu’à un bonus maximum de +1 tous les 3 niveaux de cinétiste. Il bénéficie également d’un bonus aux jets de dégâts infligés par ses explosions cinétiques égal au double du bonus aux jets d’attaque. Le cinétiste peut réprimer les effets visuels du bouillonnement élémentaire en se concentrant pendant 1 round entier mais, ce faisant, il supprime également tous les autres avantages conférés par cette aptitude. La prochaine fois que le cinétiste utilise un talent sauvage, quel qu’il soit, les effets visuels et les avantages réapparaissent instantanément.
+
+Alors que l’élément se répand toujours davantage dans le corps du cinétiste, celui-ci obtient des avantages toujours plus intéressants. Dès le niveau 6, chaque fois qu’il possède au moins 3 points de brûlure, le cinétiste bénéficie d’un bonus de taille de +2 à deux valeurs de caractéristique physique de son choix. Il gagne également une chance d’ignorer les effets d’un [coup critique](./coup critique.md) ou d’une [attaque sournoise](./attaque sournoise.md) égale à 5 % × son nombre actuel de points de brûlure. Au niveau 11, chaque fois que le cinétiste possède au moins 5 points de brûlure, ces bonus augmentent. Il bénéficie ainsi d’un bonus de taille de +4 à une valeur de caractéristique physique de son choix et d’un bonus de taille de +2 aux deux autres valeurs de caractéristique physique. Au niveau 16, chaque fois que le cinétiste possède au moins 7 points de brûlure, ces bonus augmentent encore. Il bénéficie ainsi d’un bonus de taille de +6 à une valeur de caractéristique physique de son choix, d’un bonus de taille de +4 à une seconde valeur de caractéristique physique de son choix et d’un bonus de taille de +2 à la valeur de caractéristique physique restante.
+
+{s:Reference|SPÉCIALISTEDESINJECTIONS}
+#### Spécialiste des injections (Ext)
+Au niveau 5, chaque fois que le cinétiste utilise une ou plusieurs injections avec une explosion, il réduit le coût de brûlure combiné des injections de 1 point. Cette aptitude ne peut pas réduire le coût total des injections utilisées en dessous de 0. Il réduit le coût de brûlure de 1 point supplémentaire aux niveaux 8, 11, 14, 17 et 20.
+
+{s:Reference|MÉTACINÉTIQUE}
+#### Métacinétique (Sur)
+Au niveau 5, un cinétiste est désormais capable de modifier ses explosions cinétiques, comme avec les dons de métamagie, en acceptant des brûlures. S’il accepte 1 point de brûlure, il peut étendre l’effet de son explosion cinétique (comme s’il utilisait [Extension d’effet](./Extension deffet.md)). Au niveau 9, s’il accepte 2 points de brûlure, il peut produire l’effet maximal de son explosion cinétique comme s’il utilisait [Quintessence des sorts](./Quintessence des sorts.md). Au niveau 13, s’il accepte 3 points de brûlure, il peut accélérer la production de son explosion cinétique comme s’il utilisait [Incantation rapide](./Incantation rapide.md). Au niveau 17, s’il accepte 4 points de brûlure, le cinétiste peut utiliser son explosion cinétique deux fois lors de la même [action simple](./Action simple.md) ou lors de la même [action rapide](./Action rapide.md) s’il utilise également la métacinétique pour accélérer la production de l’explosion. Lorsqu’il utilise une double explosion cinétique, toutes les modifications, comme celles de la métacinétique et des injections, s’appliquent aux deux explosions, mais le cinétiste ne règle le coût de brûlure qu’une seule fois.
+
+{s:Reference|RÉSERVEINTERNE}
+#### Réserve interne (Sur)
+Au niveau 6, l’analyse du cinétiste menée sur son corps et sur les forces élémentaires qui le traversent lui permettent de créer une réserve interne dans laquelle il stocke de l’énergie supplémentaire. Au départ, la réserve est vide et ne se remplit pas de nouveau chaque jour, mais le cinétiste peut accepter 1 point de brûlure pour ajouter 1 point à sa réserve par une [action complexe](./Action complexe.md), jusqu’à un maximum total de 1 point. Ce maximum s’élève à 2 points au niveau 11 et à 3 points au niveau 16. Les points stockés par le cinétiste restent dans sa réserve jusqu’à ce qu’il les dépense. Quand il a l’occasion d’accepter des brûlures, un cinétiste peut dépenser 1 point de sa réserve pour éviter d’accepter 1 point de brûlure. Il ne peut pas dépenser plus d’un point de sa réserve de cette façon par utilisation d’un unique talent sauvage. Les points dépensés de la réserve interne n’activent pas le bouillonnement élémentaire et ne déclenchent pas ses effets supplémentaires. De la même manière, cette réserve peut être utilisée pour dépasser la limite du nombre de points de brûlure que le cinétiste peut accepter au cours d’un round.
+
+{s:Reference|EXTENSIONÉLÉMENTAIRE}
+#### Extension élémentaire (Sur)
+Au niveau 7, Un cinétiste apprend à utiliser un autre élément ou approfondit sa compréhension de son [élément de prédilection](./Cinétiste.md#ÉLÉMENTDEPRÉDILECTION). Il peut choisir n’importe quel élément, y compris son élément de prédilection. Il obtient un des [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES) d’explosion simple de cet élément qu’il ne possède pas déjà. Il obtient également l’ensemble des talents sauvages d’explosion composite dont il satisfait les conditions d’acquisition, ainsi que le talent sauvage simple de l’élément choisi grâce à l’extension élémentaire (par exemple, l’aérocinétique simple s’il choisit l’Air). Il n’obtient pas le talent sauvage de défense de l’élément choisi grâce à l’extension élémentaire.
+
+Si l’élément choisi par le cinétiste grâce à l’extension élémentaire est différent de son élément de prédilection, il considère que son niveau de cinétiste est inférieur de 4 niveaux lorsqu’il s’agit de déterminer les talents sauvages qu’il peut apprendre par le biais de cette aptitude.
+
+Si le cinétiste décide d’approfondir sa compréhension d’un élément qu’il possède déjà, il obtient un talent sauvage utilitaire supplémentaire ou une injection de son choix conféré par cet élément, en respectant les mêmes règles d’acquisition indiquées pour les aptitudes de classe talent sauvage et injection.
+
+Au niveau 15, le cinétiste peut soit choisir un nouvel élément ou approfondir sa compréhension de son élément de prédilection. Il ne peut pas choisir le même élément que celui sélectionné au niveau 7, sauf si c’est son élément de prédilection. Il obtient tous les avantages conférés par son nouvel élément, comme indiqué plus haut. Toutefois, si le cinétiste choisit son élément de prédilection grâce à l’extension élémentaire aux niveaux 7 et 15, sa maîtrise de cet élément augmente. En ce qui concerne les talents sauvages de son élément, le cinétiste bénéficie d’un bonus de +1 aux jets d’attaque et de dégâts, ainsi qu’à son [NLS](./NLS.md) et aux [DD](./DD.md).
+
+{s:Reference|SURCHARGE}
+#### Surcharge (Sur)
+Au niveau 11, quand le cinétiste utilise l’accumulation de pouvoir par une [action de mouvement](./Action de mouvement.md), il peut réduire de 2 points au lieu de 1 le coût total de brûlure d’un unique talent sauvage. Quand il utilise l’accumulation de pouvoir pendant 1 round complet, il peut réduire de 3 points au lieu de 2 le coût total de brûlure d’un unique talent sauvage.
+
+{s:Reference|SPÉCIALISATIONCOMPOSITE}
+#### Spécialisation composite (Sur)
+Au niveau 16, un cinétiste améliore ses créations d’explosion composite. Il réduit de 1 point le coût de brûlure des explosions composites. Cette aptitude ne peut réduire en dessous de 0 le coût d’une telle explosion.
+
+{s:Reference|MAITREDELAMÉTACINÉTIQUE}
+#### Maître de la métacinétique (Sur)
+Au niveau 19, un cinétiste choisit un type de métacinétique, tel qu’extension ou accélération. Il réduit de 1 point le coût de brûlure de cette métacinétique (jusqu’à un minimum de 0).
+
+{s:Reference|OMNICINÉTIQUE}
+#### Omnicinétique (Sur)
+Au niveau 20, le cinétiste transcende la distinction entre les différents éléments et peut fusionner toute création selon son bon vouloir. En acceptant 1 point de brûlure (en plus de tout autre coût de brûlure nécessaire imposé par l’explosion cinétique choisie), il peut utiliser n’importe quel talent sauvage d’explosion qu’il ne connaît pas. En acceptant 1 point de brûlure par une [action simple](./Action simple.md), il peut changer un de ses [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES) en un autre talent sauvage de la même catégorie (comme les explosions simples ou les défenses) pendant 24 heures. Il ignore toutes les conditions ou restrictions liées aux éléments (mais pas les autres conditions ou restrictions).

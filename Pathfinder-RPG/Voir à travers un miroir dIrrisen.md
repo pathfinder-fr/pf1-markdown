@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Voir à travers un miroir dIrrisen
+Title: Voir à travers un miroir de l'Enclave
+LastModified: 2021-07-25 22:17
+Categories:
+- Sort
+- Sort magicien 3
+- Sort sorcière 3
+- Src Citées de Golarion
+---
+
+{s:CSU|1}**École** [Divination](./école divination.md) ([scrutation](./branche scrutation.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Sor](./Sorcière.md) 3
+**Temps d’incantation** 10 minutes
+**Composantes** [V, G, F](./composantes.md) (un miroir)
+**Portée** voir description
+**Effet** capteur magique
+**Durée** 1 minute/[niveau](./niveau.md)
+**Jet de sauvegarde** aucun ; Résistance à la magie non
+
+Grâce à ce sort, quand le personnage regarde dans un miroir proche, il y voit l’image réfléchie par un autre miroir spécifique (de son choix) ou celle d’un individu choisi qui se reflète dans n’importe quel miroir. Cela fonctionne comme un sort de *[scrutation](./scrutation.md)* mais le personnage ne voit que les créatures qui se trouvent sur le même plan que lui. À chaque fois qu’il lance le sort, il peut choisir de voir l’un des trois types de reflets suivants.
+- ***Miroir connu.*** Le reflet est celui que l’on voit dans un miroir connu du personnage.
+- ***Personne connue.*** Le reflet est celui d’une personne connue du personnage, à condition qu’elle se reflète dans un miroir à ce moment là.
+- ***Endroit connu.*** Le reflet est celui d’un endroit connu du personnage, à condition qu’il se reflète à ce moment dans un miroir.
+
+Ce sort donne uniquement des informations visuelles. Le personnage peut transmettre des informations dans les deux sens, la personne qui se reflète dans son miroir peut donc recevoir le reflet du personnage dans son miroir à elle.
+
+Par exemple, Urion Petresky sait que la reine Elvanna possède un miroir dans un couloir près de la salle du trône. Il peut regarder dans son propre miroir à main et voir ce qui se passe dans ce couloir, même si la reine est absente. Sinon, il peut essayer de trouver la reine (où qu’elle soit) en regardant dans son miroir à lui. Si la souveraine se reflète actuellement dans le moindre miroir, il la voit. Il peut aussi lancer le sort directement dans la salle du trône pour l’espionner, en espérant qu’un miroir s’y trouve. Si l’une des conditions n’est pas remplie, Urion ne voit que son reflet.
+
+Ce sort fonctionne uniquement sur les miroirs fabriqués pour servir en tant que tel, il ne fonctionne pas sur les autres surfaces réfléchissantes comme une mare tranquille ou un bouclier en métal poli. Les effets qui bloquent la scrutation bloquent aussi ce sort.

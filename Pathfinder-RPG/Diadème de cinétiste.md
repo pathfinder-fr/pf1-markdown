@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Diadème de cinétiste
+Title: Diadème de cinétiste
+LastModified: 2024-05-29 20:38
+Categories:
+- Objet mag merveilleux
+- Src Aventures occultes
+---
+
+<div class="BD">
+{s:BDTitre|Diadème de cinétiste|{s:AO}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 10 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** 18 000 po (mineur), 50 000 po (normal), 98 000 (majeur) ; **Poids** —
+(((Description)))
+Ce bandeau métallique est orné d’une pierre précieuse luisante en forme de diamant. La couleur de la pierre précieuse confère au porteur du diadème un contrôle accru sur l’élément associé : une pierre précieuse bleue est associée à l’Eau, une pierre précieuse transparente est associée à l’Éther, une pierre précieuse verte est associée à la Terre, une pierre précieuse rouge est associée au Feu et une pierre précieuse blanche est associée à l’Air.  
+
+Porté par un [cinétiste](./Cinétiste.md), cet objet augmente de 1d6 points (mineur), de 2d6 points (normal) ou de 3d6 points (majeur) les dégâts infligés par les [explosions simples](./talents sauvages.md#EXPLOSIONSSIMPLES) et [composites](./talents sauvages.md#EXPLOSIONSCOMPOSITES) du [cinétiste](./Cinétiste.md) dont l’élément correspond à la pierre précieuse incrustée. Dans le cas d’une explosion physique, les dés à six faces lancés pour déterminer les dégâts supplémentaires conférés par le diadème de [cinétiste](./Cinétiste.md) sont remplacés par des dés à huit faces. Ces dés de dégâts supplémentaires ne sont pas multipliés en cas de coup critique et ne sont pas lancés dans le cas d’explosions associées à des injections de forme qui interdisent l’application de dégâts supplémentaires conférés par le [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE), comme dans le cas d’une [arme cinétique](./talents sauvages.md#ARMECINÉTIQUE) ou d’un [fouet cinétique](./talents sauvages.md#FOUETCINÉTIQUE).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être un cinétiste de
+niveau 10 au moins qui a sélectionné l’élément approprié ; **Coût** 9 000 po (mineur), 25 000 po (normal), 49 000 po (majeur)
+</div>

@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Triangulation
+Title: Triangulation
+LastModified: 2025-01-12 14:23
+Categories:
+- Don
+- Don équipe
+- Src Inner Sea Races
+---
+
+{s:cs}{s:ISR}*Votre méfiance envers la magie vous a forcé à développer des tactiques pour combattre les sorcières, les fées et autres adversaires surnaturels. Peu importe à quel point elles se pensent intelligentes, elles ne peuvent pas se cacher.*
+
+**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+
+**Conditions.** [Combat en aveugle](./Combat en aveugle.md), [Maîtrise du combat en aveugle](./Maîtrise du combat en aveugle.md), [Science du combat en aveugle](./Science du combat en aveugle.md), 15 rangs en [Perception](./Perception.md), [humain](./Humain.md) (kellide)
+
+**Avantages.** Lorsque le personnage et un allié qui possède ce don sont à 9 mètres ou moins d'un adversaire [invisible](./Invisible.md) dont il sont conscients de la présence, le personnage localise automatiquement la position de cet adversaire. Lorsque le personnage et un allié qui possède ce don sont à 9 mètres ou moins d'une créature et que le personnage rate cette créature à cause d'un [camouflage](./camouflage.md), il peut relancer son jet de chances de rater.

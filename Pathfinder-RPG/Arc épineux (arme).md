@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Arc épineux (arme)
+Title: Arc épineux
+LastModified: 2021-10-24 17:46
+Categories:
+- Arme
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 50 po ; **Poids** 1 kg ; **Groupes** —
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** 12 m (8 c) ; **Type** P ; **Spécial** —
+<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+---
+Cet arc en bois de rose poli est parsemé d'épines et de petites fleurs ; il est considéré comme un [arc court](./Arc court (arme).md).

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Onguent darmure (objet)
+Title: Onguent d'armure
+LastModified: 2021-09-26 19:49
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 30 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15
+<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+---
+Cet épais lubrifiant donne plus de souplesse aux articulations des armures. L’application de l’onguent prend 1 minute et réduit le [malus d’armure](./malus darmure.md) de 1 (jusqu’à un minimum de -1) pendant 8 heure

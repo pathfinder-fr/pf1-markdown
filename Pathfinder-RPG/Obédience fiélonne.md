@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Obédience fiélonne
+Title: Obédience fiélonne
+LastModified: 2023-03-21 14:48
+Categories:
+- Don
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+{s:cs}{s:BotD}*Votre dévotion à votre protecteur fiélon (que ce soit un dieu, un demi-dieu ou une quasi-divinité) est si grande que vos prières quotidiennes et petits sacrifices vous apporte des faveurs.*
+
+**Conditions.** 3 rangs en [Connaissances](./Connaissances.md) (religion) ; fidèle d'une divinité fiélonne, d'un demi-dieu fiélon ou d'une quasi-divinité fiélonne
+
+**Avantage.** Chaque fiélon exige une obédience différente, mais toutes peuvent être accomplies en une heure ou moins. Le personnage peut combiner le rituel d'obédience avec le temps nécessaire à la préparation de ses sorts pour la journée. Une fois que l'obédience effectuée, le personnage bénéfice d'une capacité spéciale ou d'une résistance comme indiqué dans l'entrée "Obédience" du fiélon dont il a accomplit l'obédience.
+
+Si le personnage possède au moins 12 [DV](./DV.md), il acquiert également la première faveur offerte par le fiélon vénéré. S'il possède au moins 16 DV, il acquiert en plus la deuxième faveur. S'il possède 20 DV ou plus, il acquiert également la troisième et dernière faveur. S'il n'y a pas d'indication de durée ou d'utilisation quotidiennes, les effets des faveurs sont constants.
+
+Lorsque le personnage reçoit des faveurs grâce à Obédience fiélonne, il s'agit généralement des faveurs d'exalté de ce fiélon. Les dons [Disciple damné](./Disciple damné.md) et [Soldat damné](./Soldat damné.md) permettent de choisir la faveur d'évangéliste ou de sentinelle, respectivement. Certaines [classes de prestige](./Classes de prestige.md) modifient également le type de faveur reçu. Quoi qu'il en soit, une fois que le personnage a choisi une faveur, il ne peut normalement pas changer le type de faveur obtenue à l'avenir (à moins que le fait de prendre des niveaux dans une classe de prestige spécifique change rétroactivement ses faveurs).
+
+Les classes de prestige d'[adepte démoniaque](./Adepte démoniaque.md), de [buveur d'âmes](./Buveur dâmes.md) et de [diaboliste](./Diaboliste.md) donnent accès à ces avantages plus tôt grâce à leurs capacités de classe. Pour chacune de ces classes, le personnage doit choisir s'il souhaite recevoir les faveurs d'évangéliste, d'exalté ou de sentinelle ; une fois ce choix fait, il ne peut plus en changer (et les choix de faveur précédents changent rétroactivement, le cas échéant). Si le personnage n'accomplit pas son obédience quotidienne, il perd l'accès à tous les avantages et à toutes les faveurs accordées par ce don jusqu'à sa prochaine obédience.

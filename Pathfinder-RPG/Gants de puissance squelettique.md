@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Gants de puissance squelettique
+Title: Gants de puissance squelettique
+LastModified: 2024-06-02 18:11
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Inner Sea Gods
+---
+
+{s:divin|Urgathoa|%2fPCUP%2fReligion-PNG%2fUrgathoa.png}<div class="BD">
+{s:BDTitre|Gants de puissance squelettique|{s:ISG}}
+**Aura** [Invocation](./Invocation.md) et [Nécromancie](./Nécromancie.md) faible ; **NLS** 3 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 5 400 po ; **Poids** —
+(((Description)))
+{s:cs}Ces gants noirs sont décorés d'images d'os blancs, comme s'ils révélaient les os des mains du porteur. Le gant gauche peut être utilisé une fois par jour pour créer une *[main spectrale](./Main spectrale.md)*, qui fait se détâcher l'image de main osseuse du gant et se manifeste sous la forme d'une main squelettique fantomatique pour la durée de l'effet. Le gant droit peut être utilisé une fois par jour pour lancer un sort de *[blessure modérée](./Blessure modérée.md)*, qui donne aux os de la main une lueur pâle et maladive jusqu'à ce que le sort soit délivré ou déchargé. Si le porteur est une créature vivante, il peut également utiliser le gant droit sur lui-même pour lancer *[soins modérés](./Soins modérés.md)* à la place de *blessure modérée*.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[blessure modérée](./Blessure modérée.md)*, *[main spectrale](./Main spectrale.md)*, *[soins modérés](./Soins modérés.md)* ; **Coût** 2 700 po
+</div>

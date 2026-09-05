@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Huile de troll (objet)
+Title: Huile de troll
+LastModified: 2021-09-19 20:14
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 50 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 30
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+Ce liquide écarlate est visqueux et infect. Si le personnage en boit, il est automatiquement [stabilisé](./Blessures et mort.md#STABLE) pendant 1 heure quand il est réduit à un nombre de [points de vie](./pv.md) négatif (à moins que les dégâts ne soient trop importants et ne le tuent sur le coup) et il a 50% de chances par [round](./round.md) d’annuler tous les effets de [saignement](./Saignement.md) dont il souffre. S’il reçoit des dégâts de feu ou d’acide, les avantages de l’huile de troll sont suspendus pendant 1 round.

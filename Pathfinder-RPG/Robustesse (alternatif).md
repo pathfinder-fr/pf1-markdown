@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Robustesse (alternatif)
+Title: Robustesse (alternatif)
+LastModified: 2013-10-19 17:17
+Categories:
+- Art de la guerre
+- Don
+- Règles officielles
+---
+
+*L’endurance du personnage est au-dessus de la moyenne.*
+
+**Avantage.** Le personnage gagne 1 point de blessure pour
+chaque niveau ou dé de vie qu’il possède.
+
+(((Ce don est une version modifiée du don [Robustesse](./Robustesse.md) pour utilisation avec les règles alternatives «&nbsp;[Blessures et vitalité](./Blessures et vitalité.md)&nbsp;» de l’*Art de la Guerre*)))

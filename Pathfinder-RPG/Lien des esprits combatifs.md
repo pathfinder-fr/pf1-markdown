@@ -1,0 +1,46 @@
+---
+Name: Pathfinder-RPG.Lien des esprits combatifs
+Title: Lien des esprits combatifs
+LastModified: 2022-06-15 19:42
+Categories:
+- Règle officielle
+- Sort
+- Sort hypnotiseur 4
+- Sort inquisiteur 4
+- Sort magicien 6
+- Sort médium 4
+- Sort occultiste 5
+- Sort psychiste 6
+- Src Art de la magie
+---
+
+{s:UM}
+**École** [Divination](./école divination.md) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 6  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [personnelle](./personnelle.md) et courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Cible** lanceur de sorts et un allié  
+
+**Durée** 1 minute/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** oui (inoffensif); **Résistance à la magie** oui (inoffensif)
+
+Le personnage fusionne ses pensées avec celles d'un allié, ce qui leur permet de se battre en tandem, de façon parfaitement coordonnée. Le personnage et son allié font tous deux leur jet d'[initiative](./initiative.md) et utilisent le meilleur jet avant d'y ajouter leur modificateur. Ce sort a trois effet.
+
+:*A distance*. Si le personnage et son allié font tous deux une [attaque à distance](./Valeurs de combat.md#BONUSDATTAQUE) contre la même créature, ils font tous deux un [jet d'attaque](./jet dattaque.md) et prennent tous deux le meilleur dé (plus les bonus).  
+
+
+:*Corps à corps*. Si le personnage et son allié font tous deux une [attaque de corps à corps](./Valeurs de combat.md#BONUSDATTAQUE) contre la même créature, ils font tous deux un [jet d'attaque](./jet dattaque.md) et prennent tous deux le meilleur dé (plus les bonus).  
+
+
+:*Sort*. Si le personnage et son allié lancent tous deux un sort et visent la même zone ou la même créature, les créatures affectées subissent un malus de -2 au [jet de sauvegarde](./jet de sauvegarde.md) contre les sorts.
+
+Le personnage et son allié perdent les avantages de ce sort s'ils ne se voient plus ou si l'un d'eux est [inconscient](./Inconscient.md) ou [sans défense](./Sans défense.md).
+
+### Mythique
+{s:CMy}
+Lorsque le personnage lance ce sort, si l’allié lié utilise une aptitude de [voie mythique](./Création Personnage Mythique.md) contre une créature, le personnage peut utiliser cette même aptitude contre cette créature comme s’il la possédait lui-même. De même, l’allié lié peut utiliser les aptitudes de voie que le personnage utilise contre une créature (même si cet allié n’est pas mythique). Par exemple, si le personnage est un [champion](./Champion Mythique.md) qui attaque un géant du froid en utilisant son aptitude de voie de précision martiale, son allié lié peut utiliser son aptitude de précision martiale lorsqu’il attaque ce géant du froid. Si une aptitude de voie nécessite la dépense de [pouvoir mythique](./pouvoir mythique.md) ou d’autre chose, l’allié lié doit dépenser le coût requis pour que le personnage puisse utiliser cette aptitude.

@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Terbutje en acier (arme)
+Title: Terbutje en acier
+LastModified: 2021-10-24 17:47
+Categories:
+- Arme
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 20 po ; **Poids** 2 kg ; **Groupes** —
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
+<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+---
+Il s'agit d'une arme forgée conçue pour ressembler à un [terbutje classique](./terbutje (arme).md). Il n'est pas aussi fragile que son homologue non métallique.

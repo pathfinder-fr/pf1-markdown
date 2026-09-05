@@ -1,0 +1,75 @@
+---
+Name: Pathfinder-RPG.Linnorm des cairns
+Title: Linnorm, Linnorm des cairns
+LastModified: 2024-09-24 14:13
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Linnorm des cairns|FP 18}
+{s:pucem|Dragon|Forêt-jungle|Froid}
+{s:BDTexte|*Source : Bestiaire 3* p.182}
+{s:BDTexte|**PX** 153.600}
+{s:BDTexte|[Dragon](./type Dragon.md) de taille Gig, CM}
+{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md), [odorat](./odorat.md), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +24}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 35, contact 13, pris au dépourvu 28 (Dex +7, naturelle +22, taille -4)}
+{s:BDTexte|**pv** 290 (20d12+160) ; régénération 10 (fer froid)}
+{s:BDTexte|**Réf** +21, **Vig** +20, **Vol** +17}
+{s:BDTexte|**Capacités défensives** *[liberté de mouvement](./Liberté de mouvement.md)* ; **RD** 15/fer froid ; **Immunité** absorption d’énergie, acide, effets de malédictions, effets mentaux, énergie négative, paralysie, poison, sommeil ; **RM** 29}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c}), escalade 12 m (8 {s:c}), vol 30 m (20 {s:c}) (moyenne)}
+{s:BDTexte|**Corps à corps** morsure, +29 (3d8+13/19-20 plus poison) et 2 griffes, +29 (2d6+13) et queue, +24 (3d6+6 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
+{s:BDTexte|**Attaques spéciales** souffle, [constriction](./constriction.md) (queue, 2d6+19), malédiction mortelle}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 37, **Dex** 24, **Con** 26, **Int** 5, **Sag** 20, **Cha** 27}
+{s:BDTexte|**BBA** +20, **BMO** +37 (+41 [lutte](./lutte.md)), **DMD**54 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (morsure), [Science de l’initiative](./Science de linitiative.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Succession d’enchaînements](./Succession denchaînements.md), [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Perception)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +26, [Escalade](./Escalade.md) +33, [Natation](./Natation.md) +28, [Perception](./Perception.md) +24, [Vol](./Vol.md) +13} {s:BDTexte|**Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) pour sauter, +8 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Langues** aklo, draconique, sylvestre}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** collines froides}
+{s:BDTexte|**Organisation sociale** solitaire}
+{s:BDTexte|**Trésor** triple}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Malédiction mortelle (Sur).** Malédiction de décomposition : JdS [Volonté](./Volonté.md) [DD](./DD.md) 28 ; effet la créature subit un affaiblissement temporaire de 1 point de [Constitution](./Constitution.md) par jour et vieillit à un rythme surnaturel, en prenant un an par jour, subissant tous les malus du [grand âge](./âge.md) sans profiter de ses bénéfices.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; JdS [Vigueur](./Vigueur.md) [DD](./DD.md) 28 ; fréquence 1/round pendant 10 rounds ; effet 4d6 dégâts d’acide et diminution permanente de 1d6 [Con](./Constitution.md) ; guérison 2 réussites consécutives.}
+{s:BDTexte|**Souffle (Sur).** Une fois tous les 1d4 rounds, par une [action simple](./Action simple.md), le linnorm des cairns peut cracher un cône de bile acide de 18 mètres (12 {s:c}) infligeant 18d8 points de dégâts d’acide à toutes les créatures touchées. En outre, cette bile est empreinte d’énergie négative et inflige 1d4 [niveaux négatifs](./niveau négatif.md) à toutes les créatures touchées. Un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 28 réussi permet de réduire les dégâts de moitié et d’annuler complètement les niveaux négatifs. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [linnorms](./Linnorms.md).***</li></ul>*Pâle et horriblement décharnée, cette énorme créature émaciée, ressemblant à un dragon, a deux avant-bras mais pas d’ailes.*
+
+Les linnorms des cairns préfèrent vivre dans les nécropoles,
+parmi les tertres funéraires ou dans des cavernes situées sous la
+terre brûlée des champs de bataille légendaires. Ces linnorms
+se délectent de la chair des morts-vivants : s’ils ne peuvent pas
+consommer les morts-vivants intangibles, les régions qu’ils
+hantent sont généralement vides de tout mort-vivant tangible
+n’ayant pas assez d’intelligence pour échapper aux appétits
+féroces du linnorm des cairns. Une créature morte-vivante
+incroyablement puissante pourrait utiliser le linnorm des cairns
+comme gardien, le manipulant tout en se choisissant un cairn
+ou un tombeau situé en plein coeur du territoire du linnorm. Si
+les linnorms des cairns n’hésitent pas à se nourrir des créatures
+mortes-vivantes qu’ils croisent, certaines anciennes superstitions
+communes à tous les linnorms les empêchent de pénétrer dans
+un tombeau ou dans un site funéraire fermé, à moins que les
+morts-vivants qui y résident ou un prêtre au service de la
+religion associée au site ne les y autorisent. De la même
+manière, un linnorm des cairns piégé dans un tombeau
+suffisamment grand pour l’accueillir préfère ne pas
+quitter les lieux sans une permission
+similaire. Ces limitations sont d’ordre
+purement psychologique et le
+linnorm peut les enfreindre s’il
+y est contraint (par exemple, par
+un ennemi cherchant à utiliser
+l’entrée d’un tombeau comme défense)
+Le linnorm des cairns mesure 18 mètres de long
+et pèse 6 tonnes.
+</div></td></tr></table>

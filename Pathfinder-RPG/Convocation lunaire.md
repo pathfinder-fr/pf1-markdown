@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Convocation lunaire
+Title: Convocation lunaire
+LastModified: 2012-07-22 21:11
+Categories:
+- Art de la Magie
+- Don
+- Règles officielles
+---
+
+{s:um}*Les créatures convoquées par le personnage sont imprégnées de la puissance de la lune. *
+
+**Conditions.** [École renforcée](./École renforcée.md) ([invocation](./Présentation des sorts.md#INVOCATION)), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)*
+
+**Avantage.** Les créatures invoquées émettent autant de luminosité qu’un sort de *[lumière](./Lumière.md)*. Elles sont immunisées contre les effets de confusion et de sommeil, et les armes naturelles sont considérées comme étant en argent quand il s’agit de vaincre la [réduction de dégâts](./RD.md).

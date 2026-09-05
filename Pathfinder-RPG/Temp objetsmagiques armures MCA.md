@@ -1,0 +1,274 @@
+---
+Name: Pathfinder-RPG.Temp objetsmagiques armures MCA
+Title: Armures - Manuel des Joueurs Classes Avancées
+LastModified: 2026-05-15 09:35
+---
+
+<img src="http://img4.hostingpics.net/pics/624463MJCA.gif" title="Manuel des joueurs Classes Avancées - Advanced Class Guide" onmouseover="this.src='http://img4.hostingpics.net/pics/813958MJCAACG.gif'" onmouseout="this.src='http://img4.hostingpics.net/pics/624463MJCA.gif'"/>
+
+
+*Note pour rectulo : je continue la page, l'exemple que je voulais te montrer est juste au dessus*
+
+Edit de rectulo : **super**
+
+
+Les objets magiques de cette section sont répartis entre les différentes catégories présentées dans Armes et équipement Pathfinder JDR afin que vous puissiez utiliser le générateur de trésors détaillé dans ce volume. Si vous dirigez une aventure
+comptant un PNJ qui possède des niveaux dans l’une des classes
+introduites dans le Guide des classes, règles avancées, ou un PJ qui
+possède des niveaux dans l’une de ces classes, pensez à utiliser
+les objets de ce volume avant de faire un jet aléatoire d’après le
+générateur de trésors lorsque vous déterminez les trésors, ou à
+les ajouter à ce générateur.
+
+Edit de rectulo : le texte ci-dessus est globalement inutile après intégration
+
+
+### Propriétés spéciales d'armure
+Voici de nouvelles propriétés spéciales pour les armures ou les boucliers. Consultez la section sur les armures, en page 467 du Manuel des joueurs Pathfinder JdR pour connaître les règles liées aux armures magiques. une armure ou un bouclier doté d’une propriété spéciale doit d’abord bénéficier d’un bonus d’altération de +1 au minimum.
+
+Edit de rectulo : pareil
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Propriétés spéciales d'armure (MCA)
+|- CLASS="titre"
+| Propriété spéciale d’armure +1 || Prix de base <sup>[1](./Temp objetsmagiques armures MCA.md#NOTE1)</sup>
+|- CLASS="premier"
+| [Impondérable](./Temp objetsmagiques armures MCA.md#Impondérable) || +4 000 po
+|- CLASS="alt"
+| [Amorphe](./Temp objetsmagiques armures MCA.md#Amorphe) || +4 500 po
+|-
+| [Reposante](./Temp objetsmagiques armures MCA.md#Reposante) || +4 500 po
+|- CLASS="alt"
+| [Apaisante](./Temp objetsmagiques armures MCA.md#Apaisante) || Bonus +1
+|-
+| [De sauvegarde](./Temp objetsmagiques armures MCA.md#De sauvegarde) || Bonus +1
+|- CLASS="titre"
+| Propriété spéciale d’armure +2 || Prix de base  <sup>[1](./.md#NOTE1)</sup>
+|- CLASS="premier"
+| [De rancune](./Temp objetsmagiques armures MCA.md#De rancune) || +7 000 po
+|- CLASS="alt"
+| [Sans trace](./Temp objetsmagiques armures MCA.md#Sans trace) || +7 500 po
+|-
+| [Vibrante](./Temp objetsmagiques armures MCA.md#Vibrante)<sup>[2](./.md#NOTE2)</sup> || Bonus +2
+|- CLASS="alt"
+| [D’esquive des sorts](./Temp objetsmagiques armures MCA.md#D'esquive des sorts) || Bonus +2
+|- CLASS="titre"
+| Propriété spéciale d’armure +3 || Prix de base  <sup>[1](./.md#NOTE1)</sup>
+|- CLASS="premier"
+| [De perception](./Temp objetsmagiques armures MCA.md#De perception) || Bonus +3
+|- CLASS="note"
+| COLSPAN=5 | {s:Reference|NOTE1} *(1) Ajoutez le bonus d’enchantement de l’armure pour déterminer le prix total.*
+|- CLASS="note"
+| COLSPAN=5 | {s:Reference|NOTE2} *(2)Cette propriété spéciale peut également s’appliquer aux boucliers.*
+|}
+
+</center>
+
+
+
+{s:Reference|Amorphe}
+<div class="BD">
+{s:BDTitre|Amorphe|{s:mca}}
+Une armure dotée de cette propriété spéciale accorde à son porteur
+un bonus de compétence de +5 aux tests d’[Évasion](./Évasion.md) et au DMD contre
+les manoeuvres offensives de lutte. En outre, une fois par jour, sur
+commande, le personnage (ainsi que tout l’équipement qu’il porte)
+peut prendre la forme d’un liquide visqueux capable de traverser
+tous les espaces par lesquels une boue épaisse pourrait en toute
+logique s’écouler. Lorsqu’il utilise ce pouvoir, sa vitesse de déplacement
+est réduite de 3 mètres et il ne peut entreprendre que des
+actions de mouvement. Le personnage peut prendre cette forme
+pendant 1 minute ou jusqu’à ce qu’il dépense une action de mouvement
+pour reprendre sa forme normale. Une armure amorphe doit
+principalement être faite de cuir, de tissu ou d’un autre matériau
+organique.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 8 **Poids** —
+- **Aura** [transmutation](./Transmutation.md) modérée **Prix** 2 250 po ; [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [forme liquide](./Forme liquide.md)<sup>MdJ-RA</sup> ; 
+- **Prix**+4 500 po
+</div>
+
+{s:Reference|Apaisante}
+<div class="BD">
+{s:BDTitre|Apaisante|{s:mca}}
+L’armure apaisante est teintée d’une couleur apaisante, généralement
+en bleu. Par une action rapide, le porteur peut créer une aura de 1,5
+mètre autour de lui qui calme les émotions de tout adversaire agité
+qui le menace. Une créature enragée ou sous un effet d’émotion doit
+réussir un jet de Volonté DD 15, sinon, l’effet d’émotion ou la rage est
+annulé (mais pas dissipé) tant que persiste l’aura. Cette aura peut être
+utilisée un maximum de 10 rounds par jour, sans qu’ils ne soient nécessairement
+consécutifs. Il faut une action rapide pour mettre fin à l’aura.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 5 **Poids** —
+- **Aura** enchantement faible ; **Prix** bonus +1
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [apaisement des émotions](./Apaisement des émotions.md)
+- **Prix**Bonus +1
+</div>
+
+{s:Reference|D'esquive des sorts}
+<div class="BD">
+{s:BDTitre|D'esquive des sorts|{s:mca}}
+L’armure d’esquive des sorts complique les attaques de sorts et de
+pouvoirs magiques puisqu’elles ont plus de mal à toucher le porteur
+qui, bien souvent, se retrouve physiquement écarté de la trajectoire
+des attaques magiques qui le visent. Le porteur gagne un bonus d’esquive
+de +4 à la CA contre les jets d’attaque des sorts et pouvoirs
+magiques (y compris contre les attaques de contact) et contre les
+attaques des créatures invoquées.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 4 **Poids** —
+- **Aura** abjuration faible ; **Prix** bonus +2
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [armure de mage](./Armure de mage.md)
+- **Prix**Bonus +1
+</div>
+
+{s:Reference|De perception}
+<div class="BD">
+{s:BDTitre|De perception|{s:mca}}
+L’armure de perception compense les handicaps du porteur quand
+celui-ci est aveuglé, se trouve dans les ténèbres complètes (à partir du
+moment où il ne possède pas les pouvoirs de vision dans le noir ou de
+vision dans les ténèbres) ou quand il se trouve dans des ténèbres magiques
+(tant qu’il n’a pas le pouvoir vision dans les ténèbres). Quand
+l’un de ces états affecte le porteur, l’armure de perception lui accorde
+aussitôt vision aveugle à 1,5 mètre et perception aveugle à 18 mètres.
+Dès que le porteur peut voir à nouveau, ces sens supplémentaires se
+dissipent. Le porteur ne peut pas profiter de ces pouvoirs en fermant
+simplement les yeux.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 14 **Poids** —
+- **Aura** divination forte ; **Prix** bonus +3
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [vision lucide](./Vision lucide.md)
+- **Prix**Bonus +3
+</div>
+
+{s:Reference|De rancune}
+<div class="BD">
+{s:BDTitre|De rancune|{s:mca}}
+La propriété de cette armure ne fonctionne que si le personnage possède
+le pouvoir de classe panache. Quand un ennemi porte une attaque
+au corps à corps à portée de l’allonge au corps à corps du personnage et
+que cette attaque devrait réduire le personnage à moins de 0 point de
+vie, le personnage peut dépenser 1 point de panache par une action
+immédiate. Cela lui permet d’effectuer une seule attaque au corps à
+corps contre la créature qui l’a réduit à 0 point de vie ou moins. Le
+personnage porte cette attaque avant de tomber inconscient ou mort.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 7 **Poids** —
+- **Aura** enchantement modéré ; **Prix** 3 500 po
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [rapidité](./Rapidité.md)
+- **Prix** +7 000 po
+</div>
+
+{s:Reference|De sauvegarde}
+<div class="BD">
+{s:BDTitre|De sauvegarde|{s:mca}}
+L’armure de sauvegarde accorde au personnage une RD/5 lorsqu’il
+est inconscient, nauséeux, étourdi ou immobilisé. Cette RD se cumule
+avec toute autre RD qu’il possède déjà. Si le personnage est d’une
+manière ou d’une autre capable d’entreprendre des actions simples
+alors qu’il est inconscient, nauséeux ou étourdi, ou s’il est en mesure
+de porter des attaques alors qu’il est immobilisé, l’armure ne lui accorde
+pas cette RD.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 8 **Poids** —
+- **Aura** abjuration modérée ; **Prix** bonus +1
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [peau de pierre](./Peau de pierre.md)
+- **Prix**Bonus +1
+</div>
+
+{s:Reference|Impondérable}
+<div class="BD">
+{s:BDTitre|Impondérable|{s:mca}}
+Une armure impondérable distribue plus efficacement le poids du
+chargement du porteur, l’autorisant ainsi à en porter davantage sans
+souffrir des effets de l’encombrement. La capacité qu’il peut porter est
+augmentée de 50% pour chaque catégorie de charge (légère, intermédiaire
+et lourde).
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 5 **Poids** —
+- **Aura** transmutation modérée ; **Prix** 2 000 po
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [armure sans effort](./Armure sans effort.md)<sup>AG</sup>
+- **Prix** +4 000 po
+</div>
+
+{s:Reference|Reposante}
+<div class="BD">
+{s:BDTitre|Reposante|{s:mca}}
+Une armure reposante permet au porteur de faire passer la quantité
+de sommeil ou de repos ininterrompu dont il a besoin de 8
+heures à 2 heures et le porteur n’est pas [fatigué](./Fatigué.md) lorsqu’il dort avec
+cette armure. Il récupère ses points de vie et de caractéristique puis
+encaisse les maladies, les poisons ou autres afflictions comme s’il
+avait dormi toute la nuit dans un lit confortable, se réveillant frais
+et dispos. Un temps de repos supplémentaire avec cette armure
+n’accorde pas plus de soins (comme le ferait un repos complet dans
+un lit) et le porteur ne peut pas profiter des effets de l’armure plus
+d’une fois par jour.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 5 **Poids** —
+- **Aura** nécromancie faible ; **Prix** 2 250 po
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [sieste](./Sieste.md)<sup>MdJ-RA</sup>
+- **Prix** +4 500 po
+</div>
+
+{s:Reference|Sans trace}
+<div class="BD">
+{s:BDTitre|Sans trace|{s:mca}}
+L’armure sans trace allège le pas du personnage et camoufle ses apparitions.
+Les tests de [Survie](./Survie.md) pour pister le personnage subissent un
+malus de -5 et le personnage gagne un bonus de compétence de +5
+aux tests de [Discrétion](./Discrétion.md). Seules les armures en cuir ou en peau peuvent
+être sans trace.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 5 **Poids** —
+- **Aura** transmutation faible ;**Prix** 3 750 po
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [passage sans trace](./passage sans trace.md)
+- **Prix** +7 500 po
+</div>
+
+{s:Reference|Vibrante}
+<div class="BD">
+{s:BDTitre|Vibrante|{s:mca}}
+Une armure ou un bouclier doté(e) de cette propriété génère des
+vibrations résonnantes désagréables dans les armes qui frappent
+son utilisateur. Par une action immédiate, jusqu’à trois fois par jour,
+quand le porteur est touché par une attaque au corps à corps effectuée
+avec une arme, il peut activer son armure ou son bouclier pour
+renvoyer des vibrations désagréables sur l’arme. L’attaquant doit
+réussir un jet de [Vigueur](./Vigueur.md) DD 16 pour ne pas être hébété pendant
+1 round.
+(((Caractéristiques)))
+- **Emplacement** aucun **NLS** 6 **Poids** —
+- **Aura** évocation modérée ; **Prix** bonus +2
+[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [fracassement](./Fracassement.md)
+- **Prix**Bonus +2
+</div>
+
+### Armures et boucliers spéciaux
+
+<center>
+{| CLASS="tablo col1centre"
+|+ Armures et boucliers spéciaux | MJCA
+|- CLASS="titre"
+| Armure intermédiaire mineure || Prix
+|- CLASS="premier alt"
+| [Bouclier griffu](./Bouclier griffu.md) || 8 158 po
+|-
+| [Armure du traqueur](./Armure du traqueur.md) || 8 575 po
+|- CLASS="titre alt"
+| Armure intermédiaire supérieure || Prix
+|- CLASS="premier"
+| [Peau de pistage infatigable](./Peau de pistage infatigable.md) || 11 165 po
+|- CLASS="titre alt"
+| Grande armure mineure || Prix
+|- CLASS="premier"
+| [Haubert du héros](./Haubert du héros.md) || 16 600 po
+|- CLASS="titre alt"
+| Grande armure supérieure || Prix
+|- CLASS="premier"
+| [Harnois du cadavre](./Harnois du cadavre.md) || 35 650 po
+|}
+</center>

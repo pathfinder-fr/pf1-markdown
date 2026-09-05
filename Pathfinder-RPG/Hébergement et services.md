@@ -1,0 +1,174 @@
+---
+Name: Pathfinder-RPG.Hébergement et services
+Title: Hébergement et services
+LastModified: 2021-10-24 19:13
+Categories:
+- Src Armes et équipement
+---
+
+{s:MenuEquipement}Les prix sont indiqués pour l’hébergement et les services dans une bourgade ou une ville moyenne.
+
+<div class="article_2col">
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
+|+ Hébergement et services
+|- CLASS="titre"
+| Objet || Prix
+|- CLASS="premier"
+| [↓](./Hébergement et services.md#Auberge) [Auberge (bonne)](./Auberge (objet).md) || 2 po
+|-
+| [↓](./Hébergement et services.md#Auberge) [Auberge (modeste)](./Auberge (objet).md) || 2 pa
+|-
+| [↓](./Hébergement et services.md#Auberge) [Auberge (moyenne)](./Auberge (objet).md) || 5 pa
+|-
+| [↓](./Hébergement et services.md#Auberge) [Auberge (suite, de luxe)](./Auberge (objet).md) || 32 po+
+|-
+| [↓](./Hébergement et services.md#Auberge) [Auberge (suite, moyenne)](./Auberge (objet).md) || 16 po
+|-
+| [↓](./Hébergement et services.md#Auberge) [Auberge (suite, petite)](./Auberge (objet).md) || 4 po
+|-
+| [↓](./Hébergement et services.md#Avocat) [Avocat (compétent)](./Avocat (objet).md) || 3 po
+|-
+| [↓](./Hébergement et services.md#Avocat) [Avocat (expérimenté)](./Avocat (objet).md) || 10 po
+|-
+| [↓](./Hébergement et services.md#Avocat) [Avocat (novice)](./Avocat (objet).md) || 5 pa
+|-
+| [↓](./Hébergement et services.md#Bain) [Bain (chaud)](./Bain (objet).md) || 6 pc
+|-
+| [↓](./Hébergement et services.md#Bain) [Bain (froid)](./Bain (objet).md) || 2 pc
+|-
+| [↓](./Hébergement et services.md#Bain) [Bain (public)](./Bain (objet).md) || 2 pa–1 po
+|-
+| [↓](./Hébergement et services.md#Compagnecompagnon) [Compagne/compagnon](./Compagnecompagnon (objet).md) || 5 pc–10 po
+|-
+| [↓](./Hébergement et services.md#Domestique) [Domestique](./Domestique (objet).md) || 1 po
+|-
+| [↓](./Hébergement et services.md#Employé) [Employé (qualifié)](./Employé (objet).md) || 3 pa/jour
+|-
+| [↓](./Hébergement et services.md#Employé) [Employé (sans formation)](./Employé (objet).md) || 1 pa/jour
+|-
+| [↓](./Hébergement et services.md#Infirmière) [Infirmière](./Infirmière (objet).md) || 7 pa
+|-
+| [↓](./Hébergement et services.md#Lancement de sort) [Lancement de sort](./Lancement de sort (objet).md) || Niveau du lanceur de sorts  
+× niveau de sort × 10 po
+|-
+| [↓](./Hébergement et services.md#Lessive) [Lessive (classique)](./Lessive (objet).md) || 1 pa
+|-
+| [↓](./Hébergement et services.md#Lessive) [Lessive (magique)](./Lessive (objet).md) || 1 po
+|-
+| [↓](./Hébergement et services.md#Médecin) [Médecin](./Médecin (objet).md) || 1 po
+|-
+| [↓](./Hébergement et services.md#Messager) [Messager](./Messager (objet).md) || 2 pc/1,5 km
+|-
+| [↓](./Hébergement et services.md#Péage) [Péage (route ou pont)](./Péage (objet).md) || 1 pc
+|-
+| [↓](./Hébergement et services.md#Scribe) [Scribe (carte)](./Scribe (objet).md) || 10 po
+|-
+| [↓](./Hébergement et services.md#Scribe) [Scribe (texte)](./Scribe (objet).md) || 1 po
+|-
+| [↓](./Hébergement et services.md#Valet) [Valet](./Valet (objet).md) || 5 pa
+|}
+</div>
+
+### Description des moyens d'hébergement et des services
+{s:AE}{s:Reference|Auberge}
+#### Auberge
+**Prix** 2 pa (modeste), 5 pa (moyenne), 2 po (bonne), 4 po (suite, petite), 16 po (suite, moyenne), 32 po+ (suite, de luxe)
+---
+Le prix est indiqué pour une nuit en auberge. Les logements modestes offrent une place à même le sol, près d’une cheminée. Les logements standards offrent une place surélevée, un sol chauffé ainsi qu’une couverture et un oreiller. Les logements de qualité offrent une petite chambre privée avec un lit, certaines commodités et un pot de chambre couvert.  
+  
+*Les suites*. Uniquement disponible dans les auberges les plus grandes et les plus luxueuses, la suite comprend la location d’une chambre et d’une petite salle de bain privée. Une petite suite possède une cheminée et un cadenas moyen à l’entrée principale. Une suite moyenne comporte une cheminée, un [bon cadenas](./Cadenas (objet).md) à l’entrée principale et deux grandes chambres ou trois ou quatre plus petites, ainsi que des serviteurs à disposition pour nettoyer, cuisiner, aider à s’habiller ou transmettre des messages.
+
+
+{s:AE}{s:Reference|Avocat}
+#### Avocat
+**Prix** 5 pa (novice), 3 po (compétent), 10 po (expérimenté)
+---
+Un avocat est quelqu’un qui connaît la loi et en a fait son métier. Il rédige et interprète les contrats, représente des clients ou l’état dans les affaires civiles et criminelles, donne des conseils légaux ou préside à des affaires en tant que juge. Un avocat expérimenté connu pour ses victoires peut imposer des tarifs plus élevés qu’un novice ou un avocat compétent mais ordinaire. Le prix est indiqué pour une journée de travail.
+
+
+{s:AE}{s:Reference|Bain}
+#### Bain
+**Prix** 2 pc (froid), 6 pc (chaud), 2 pa–1 po (public)
+---
+Pour les bains froids, on utilise généralement l’eau savonneuse utilisée par quelqu’un d’autre. Un bain chaud est une baignoire pour une personne remplie d’eau chaude, une casserole à la fois. Un bain public est un établissement (comme un sauna ou un spa) fournissant de l’eau chaude, du [savon](./Savon (objet).md) et de l’[eau de Cologne](./ParfumEau de Cologne (objet).md) ou du [parfum](./ParfumEau de Cologne (objet).md). Il peut également donner accès à des piscines, des massages ou d’autres services pour un coût supplémentaire. Pour entrer dans certains bains publics, il faut être membre ou avoir un certain statut social.
+
+
+{s:AE}{s:Reference|Compagne/compagnon}
+#### Compagne/compagnon
+**Prix** 5 pc–10 po
+---
+Qu’il s’agisse d’une prostituée affichée, d’un gigolo, d’une allumeuse, d’une escorte ou d’une maîtresse de luxe, la compagne (ou son équivalent masculin) est à la disposition des aventuriers qui recherchent des relations sexuelles. Une passe d’une heure coûte généralement quelques pièces d’argent plus le prix de la chambre.
+
+
+{s:AE}{s:Reference|Domestique}
+#### Domestique
+**Prix** 1 po
+---
+Ce titre intègre les domestiques, les majordomes, les femmes de chambre, les dames d’honneur, les secrétaires, les intendants, les concierges, les chefs de personnel, le personnel de ménage et les autres serviteurs et employés qualifiés et de confiance travaillant dans l’entourage direct de l’employeur ou dirigeant la maison ou l’entreprise, parfois sans supervision directe. Le prix est indiqué par jour.
+
+
+{s:AE}{s:Reference|Employé}
+#### Employé
+**Prix** 1 pa/jour (sans formation), 3 pa/jour (qualifié)
+---
+La liste qui suit comprend tous les types d’employés normaux qui ne sont pas référencés pour un autre service ou un autre métier de cette section. Les employés sans formation comprennent les crieurs publics, les ouvriers, les bonnes, les pleureuses, les porteurs ou tout autre travailleur subalterne. Les employés qualifiés regroupent les maçons, les mercenaires, les charpentiers, les forgerons, les cuisiniers, les scribes, les peintres, les routiers, etc. Les prix indiqués correspondent au salaire minimum d’un ouvrier compétent, sachant que les experts sont généralement bien mieux payés. Le prix est indiqué pour une journée (en général de 7 à 10 heures de travail par jour). L’équipement standard d’un garde ou d’un mercenaire comprend une [armure de cuir cloutée](./armure de cuir cloutée (armure).md) et un [gourdin](./gourdin (arme).md), une [épée courte](./épée courte (arme).md) ou un [épieu](./épieu (arme).md). La plupart des gardes sont des soldats ou des gardes de la ville qui ne sont pas de service mais il arrive que certains soient des ouvriers sans formation ayant un certain talent pour le combat.
+
+
+{s:AE}{s:Reference|Infirmière}
+#### Infirmière
+**Prix** 7 pa
+---
+Une infirmière est une personne formée aux premiers secours et à la médecine. Une infirmière moyenne est une [experte](./Expert.md) de [niveau](./niveau.md) 1 avec 1 rang en [Premiers secours](./Premiers secours.md) et le don [Talent](./Talent.md) (Premiers secours). Une infirmière expérimentée est de niveau 3 ou 4, a des rangs supplémentaires en Premiers secours et est payée de 2 à 3 fois plus, néanmoins, ces infirmières sont très demandées et sont normalement employées à plein temps par de riches marchands ou des nobles pour s’occuper des enfants et des personnes âgées de la famille. Les infirmières ont généralement un minimum de connaissances sur ce que permettent les soins magiques de la région et sur les endroits où les trouver. Le prix est indiqué par jour.
+
+
+{s:AE}{s:Reference|Lancement de sort}
+#### Lancement de sort
+**Prix** Niveau du lanceur de sorts × niveau de sort × 10 po
+---
+Le prix indique la somme que le personnage doit débourser pour qu’un lanceur de sorts qui lance un sort pour lui. On part du principe que le personnage peut se rendre lui-même jusqu’au lanceur de sorts et que le sort peut être lancé quand il le souhaite (au moins 24 heures plus tard en général, de manière à ce que le lanceur ait le temps de préparer le sort en question, bien que le personnage puisse avoir suffisamment de chance pour trouver quelqu’un qui l’a déjà préparé ou un lanceur de sorts spontanés qui le connaît). Si le personnage souhaite emmener le lanceur de sorts dans un endroit particulier pour lancer le sort (par exemple, pour lancer une *[dissipation de la magie](./Dissipation de la magie.md)* sur le sceau magique d’un donjon), il doit négocier avec lui. Par défaut, les mages refusent ce genre de requête car ils n’aiment pas se retrouver dans des situations dangereuses et imprévues.  
+  
+Le prix est indiqué pour tous les sorts qui ne requièrent pas de composantes matérielles onéreuses. Si le sort nécessite une [composante matérielle](./composantes.md), rajoutez le coût de la composante au prix du sort. Si le sort nécessite un [focalisateur](./composantes.md) (autre que divin), rajoutez 1/10 du coût du focalisateur au prix du sort. Si un sort peut avoir des conséquences dangereuses (comme *[contact avec les plans](./Contact avec les plans.md)* qui risque de diminuer l’[Intelligence](./Intelligence.md) ou le [Charisme](./Charisme.md) du lanceur), le mage exigera sûrement la preuve que le personnage paiera le prix nécessaire pour gérer les conséquences du sort (à condition, bien entendu, qu’il accepte de lancer le sort, ce qui n’est pas garanti). En général, si ces suppléments font passer le prix du sort au-delà de 3 000 po, il n’est généralement pas accessible. Si le sort transporte le lanceur et les personnages sur une certaine distance, le personnage devra sûrement payer deux lancements de sorts : un pour que le lanceur l’emmène et un pour que le lanceur revienne, même s’il ne revient pas avec lui.  
+  
+Les villages et les villes n’ont pas tous un lanceur de sorts de niveau suffisant pour lancer n’importe quel sort. En général, le personnage doit se rendre jusqu’à une [petite bourgade](./Villes.md#Les_communautés_dans_le_jeu_9) (ou un lieu plus grand) pour être à peu près sûr de trouver un lanceur de sorts capable de lancer des sorts de niveau 1, dans une grosse bourgade pour les sorts de niveau 2, dans une petite ville pour les sorts de niveau 3 ou 4, dans une grande ville pour des sorts de niveau 5 ou 6 et dans une métropole pour les sorts de niveau 7 ou 8. Même en métropole, il n’est pas dit qu’il y ait un mage capable de lancer de sorts de niveau 9.
+
+
+{s:AE}{s:Reference|Lessive}
+#### Lessive
+**Prix** 1 pa (classique), 1 po (magique)
+---
+Le prix est indiqué pour un maximum de quatre articles (comme un pantalon, des sous-vêtements, une chemise et une veste ou un gilet). Les articles supplémentaires sont lavés pour 3 pc chacun. Le personnage récupère son linge le lendemain à moins qu’il ne l’apport à la laverie de très bonne heure. Les laveries magiques sont tenus par des mages (généralement des apprentis magiciens) qui lavent les vêtements, magiquement et instantanément, avec un sort de *[prestidigitation](./Prestidigitation.md)*.
+
+
+{s:AE}{s:Reference|Médecin}
+#### Médecin
+**Prix** 1 po
+---
+Un médecin est une personne formée aux soins non-magiques et à la médecine. Un médecin typique est un [expert](./Expert.md) de [niveau](./niveau.md) 3 avec trois rangs en [Premiers secours](./Premiers secours.md), le don [Talent](./Talent.md) (Premiers secours) et des rangs dans une autre compétence pratique comme [Connaissances](./Connaissances.md) (nature) ou [Connaissances](./Connaissances.md) (religion). Un médecin expérimenté est de niveau 5, a des rangs supplémentaires dans les compétences appropriées et est de 5 à 10 fois mieux payé, néanmoins, ces médecins sont très demandés et sont généralement employés à plein temps par la royauté. Un médecin a généralement un minimum de connaissances sur ce que permettent les soins magiques de la région et sur l’endroit où les trouver. Le prix est indiqué par jour.
+
+
+{s:AE}{s:Reference|Messager}
+#### Messager
+**Prix** 2 pc/1,5 km
+---
+Le messager porte des messages écrits ou oraux au destinataire indiqué. Les messages oraux doivent être suffisamment courts pour qu’il les mémorise (environ 25 mots en général). Quelques messagers ont une mémoire exceptionnelle et demandent 5 pa pour transmettre un message oral d’un maximum de 300 mots. La plupart des messagers se rendent seulement dans les divers quartiers de la ville où ils se trouvent ou dans les régions périphériques. Le personnage peut payer les frais de retour du messager s’il souhaite que celui-ci lui rapporte la réponse du destinataire, au cas où ledit destinataire serait trop avare ou trop pauvre pour payer la réponse. En fonction de la région et de la fortune de la ville, le messager peut être à pied ou à cheval. Si le personnage trouve un messager qui se rend déjà à un endroit en particulier, il peut négocier pour payer seulement la moitié du tarif.
+
+
+{s:AE}{s:Reference|Péage}
+#### Péage (route ou pont)
+**Prix** 1 pc
+---
+Les cités et les villes comptent souvent sur les droits de passage pour générer des revenus supplémentaires, pour privilégier les commerçants régionaux par rapport aux marchands itinérants, pour décourager le trafic trop important dans les zones encombrées ou pour couvrir les frais de construction et d’entretien des routes ou des ponts. Les droits de passage sur les ponts sont impopulaires car il est rare que les voyageurs puissent les contourner.
+
+
+{s:AE}{s:Reference|Scribe}
+#### Scribe
+**Prix** 1 po (texte), 10 po (carte)
+---
+Le scribe est un lettré avec une écriture parfaitement lisible, capable de dicter ou de retranscrire des documents. Le personnage doit fournir l’encre et le matériel d’écriture mais le scribe peut également les lui obtenir à moitié prix. Les scribes ne peuvent pas imiter une écriture magique. Les scribes capables de copier une carte avec précision sont rares et pratiquent des tarifs plus élevés. Le prix est indiqué par jour.
+
+
+{s:AE}{s:Reference|Valet}
+#### Valet
+**Prix** 5 pa
+---
+Un valet est un serviteur en bonne santé physique, qui porte la livrée de son employeur et arriver à destination avant lui pour prendre les dispositions nécessaires (comme réserver une auberge ou une maison de noble). Il a un statut inférieur à celui du domestique. Il symbolise le statut social de son employeur et les valets les plus grands ou les plus avenants gagnent mieux leur. Un valet compétent et agréable peut espérer devenir domestique. Le prix est indiqué par jour.

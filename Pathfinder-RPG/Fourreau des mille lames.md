@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Fourreau des mille lames
+Title: Fourreau des mille lames
+LastModified: 2024-06-14 23:13
+Categories:
+- Objet mag merveilleux
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Fourreau des mille lames|{s:MCA}}
+**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 000 po ; **Poids** 1,5 kg
+(((Description)))
+Ce fourreau peut contenir plusieurs armes de corps à corps dans un espace extradimensionnel, y compris des armes qui ne tiendraient normalement pas dans un fourreau. Il peut contenir jusqu’à quatre armes à deux mains. Deux armes de corps à corps légères ou à une main peuvent tenir dans chacun des emplacements d’arme à deux mains, pour une capacité maximale de huit armes de corps à corps légères ou à une main. Seules les armes conçues pour les créatures de même taille que l’utilisateur ou plus petites tiennent dans un fourreau des mille lames. Ce dernier est incapable de stocker des boucliers (même s’ils peuvent servir à porter des attaques au corps à corps), des gantelets, des armes improvisées ou des [baguettes](./Baguettes magiques.md), mais il peut stocker des [sceptres](./Sceptres magiques.md) (qui sont considérés comme des armes à une main) et des [bâtons](./Bâtons magiques.md) (considérés comme des armes à deux mains).
+
+Quand le personnage dégaine une arme du fourreau, s’il ne perd pas sa prise sur elle (c’est-à-dire qu’il la garde en main tout le temps), il peut, par une [action de mouvement](./Action de mouvement.md), l’échanger contre une autre arme du fourreau. Si le personnage possède le don [Arme en main](./Arme en main.md), il peut faire cela par une [action rapide](./Action rapide.md). S’il perd sa prise sur une arme dégainée du fourreau, il ne peut pas échanger cette arme avec une autre tant qu’elle n’a pas été replacée dans le fourreau des mille lames et dégainée à nouveau.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[coffre secret](./Coffre secret.md)* ; **Coût** 2 500 po
+</div>

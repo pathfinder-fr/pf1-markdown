@@ -1,0 +1,54 @@
+---
+Name: Golarion.Nid-du-Faucon
+Title: Nid-du-Faucon
+LastModified: 2021-08-27 14:12
+Categories:
+- Andoran
+- Géographie
+- Ville
+---
+
+{s:Communauté|Nid-du-Faucon (ville)|[Andoran](./Andoran.md)|[Val de Sombrelune](./Val de Sombrelune.md)|NM|Conseil ([Consortium du Bois](./Consortium du Bois.md))|40 550 po|1 400 (petite bourgade)|1,328 humains, 44 halfelins, 14 elfes, 14 autres|• **Thuldrin Kreed**, Maillet du Consortium (humain m, LM, expert 3/roublard 4 (ou 9))
+• **Jaurpaye "Jour de paye" Teedum**, Superviseur du Consortium (humain m, LM, moine 2/ guerrier 3)
+• **Vamros Harg**, magistrat (halfelin m, NM, aristocrate 2/ensorceleur 5)
+• **Deldrin Baleson**, prévôt de Sombrelune (demi-elfe m, LN, expert 3/guerrier 3)}Nid-du-Faucon est une ville du [Val de Sombrelune](./Val de Sombrelune.md), dans la nation de l'[Andoran](./Andoran.md). La communauté se trouve à une courte distance de la [forêt de Sombrelune](./forêt de Sombrelune.md) et n'est guère plus qu'un village de bûcherons, composé presque exclusivement de bûcherons employés par le [Consortium du Bois](./Consortium du Bois.md) et leurs familles. À quelques exceptions près, les bâtiments et leurs habitants appartiennent au Consortium et dépendent totalement des marchandises hors de prix livrées par l'organisation.<sup>(1)</sup>
+
+On dit que dans le passé, des nains se sont installés dans les environs de Nid-du-Faucon ; des rumeurs persistent selon lesquelles les trésors oubliés de leur civilisation déchue restent encore à trouver. Pourtant, aujourd'hui, c'est un endroit pour les désespérés qui n'ont nul part où aller, pour les parias et les fanatiques religieux cherchant à éviter les obstacles causés par leur environnement.<sup>(1)</sup>
+
+#### Histoire
+Nid-du-Faucon est la troisième d'un ensemble de villes forestières à exister dans le [Val de Sombrelune](./Val de Sombrelune.md), chacune construite pour récolter les riches réserves d'ébénite et d'autres bois de construction de la région jusqu'à ce que les forêts se soient épuisées au-delà d'une distance raisonnable de la sécurité relative des villes.<sup>(2)</sup> La ville a été fondée pendant le mandat du général Khastalus au début du 18e siècle AR.<sup>(2)</sup>
+
+Nid-du-Faucon a été fondée par trois familles : les Larkos sévères et silencieux, les courageux Samkils et les brutaux Kreeds. Ces gens endurcis ont résisté au Massacre de la Harpie-Guenaude de 4603 AR, mettant finalement fin à la guerre en mariant un fils Larko à l'une des nombreuses filles de la sorcière Ulizmila.<sup>(3)</sup>
+
+La période de 4631 AR à 4641 AR est connue sous le nom de Misère dans l'histoire de Nid-du-Faucon. Une génération entière des trois familles fondatrices a été assassinée par un [chuchoteur du grenier](./../Pathfinder-RPG/Chuchoteur du grenier.md). Balkri Kreed a rapidement démembré le chuchoteur du grenier responsable, mais pas avant de perdre son fils Talin.<sup>(3)</sup>
+
+Le dernier descendant des Samkils, le jeune Jebrika, a été tué lors du onflit Hobgobelin de 4679 AR. Certains proclament disent qu'il a en réalité été tué par Thalsin Kreed. En 4701 AR, la Querelle des faucons prit fin avec l'incendie de masse du clan Larko, dont la plupart étaient devenus des "gens contre nature", des changelins ou pire, en raison de leurs liens avec les sorcières des terres sauvages les plus profondes de la vallée. L'éradication des Larkos a laissé Thuldrin Kreed et son fils Jurin les seuls descendants survivants des trois familles fondatrices, et les seuls propriétaires des droits de coupe du [Consortium du Bois](./Consortium du Bois.md) de la région.<sup>(3)</sup>
+
+#### Géographie
+Nid-du-Faucon est située à une courte distance au sud de la [forêt de Sombrelune](./forêt de Sombrelune.md), et de nombreux habitants de la communauté travaillent comme bûcherons dans les limites de la forêt à l'emploi du [Consortium du Bois](./Consortium du Bois.md) ; les routes partant de la ville mènent souvent à des camps de bûcherons en bordure de la forêt. Le volcan appelé la [Faille de Droskar](./Faille de Droskar.md) domine la ligne d'horizon au nord-ouest, et sa présence se fait sentir dans toute la région sous la forme de vases, de geysers et de vestiges d'anciennes coulées de lave.<sup>(1)</sup><sup>(2)</sup>
+
+La rivière l'Écume fait office de frontière sud à Nid-du-Faucon, car elle passe au sud-est à travers la plaine de Sombrelune. La colonie possède le seul ferry de la rivière, ce qui aide à sécuriser l'emprise du Consortium sur la région car actuellement aucun pont ne traverse la rivière pour fournir d'autres moyens de passage facile.<sup>(4)</sup>
+
+#### Gouvernement
+La vie à Nid-du-Faucon tourne autour de la récolte d'ébénite et, et par conséquent, le [Consortium du Bois](./Consortium du Bois.md) exerce une influence majeure sur la communauté. le principal représentant du Consortium dans la région, Thuldrin Kreed, maintient le contrôle de la région en refusant l'importation de biens et de services par des moyens autres que ceux qu'il autorise. Croyant fermement que son emprise sur la ville est totale, Kreed n'hésite pas à exploiter son pouvoir et sa position à des fins personnelles, souvent au détriment des citoyens. Cependant, la dissidence existe. Le magistrat Vamros Harg et le shérif Deldrin Baleson aimeraient tous deux voir Kreed démis de ses fonctions d'autorité.<sup>(1)</sup>
+
+Harg dirige les affaires officielles du Tribunal de Nid-du-Faucon, mais tout le monde connaît parfaitement la nature corrompue de la « justice » de la ville. Le magistrat délivre les licences des commerçants, approuve les réclamations minières et forestières, et statue sur les affaires pénales et civiles.
+
+#### Économie
+Nid-du-Faucon est l'une des plus anciennes communautés forestières de l'[Andoran](./Andoran.md) ; la ville est gérée par le [Consortium du Bois](./Consortium du Bois.md), et les bûcherons de la communauté font toujours une apparition à la grande foire andorane annuelle, dans la capitale d'[Almas](./Almas.md). Nid-du-Faucon est également un endroit populaire parmi les aventuriers, qui partent à la recherche de richesses censées rester cachées dans les nombreuses ruines naines de la région.<sup>(1)</sup><sup>(5)</sup>
+
+#### Habitants
+La plupart des habitants de Nid-du-Faucon sont humains, l'exception la plus notable étant le magistrat halfelin Vamros Harg. D'autres personnages notables de la ville incluent Thuldrin Kreed, son bras droit Jaurpaye "Jour de paye" Teedum et le shérif Deldrin Baleson.<sup>(1)</sup>
+
+### Références
+Paizo a publié un article conséquent sur Nid-du-Faucon, y compris une carte et une gazette, dans le chapitre 2 de *[Towns of the Inner Sea](https://pathfinderwiki.com/wiki/Towns_of_the_Inner_Sea)*. De nombreuses informations peuvent également être trouvées dans les aventures *[Hollow's Last Hope](https://paizo.com/download/gamemastery/D0-HollowsLastHope.pdf)* (*[Le Dernier espoir de Nid-du-Faucon](https://www.black-book-editions.fr/news-38.html)*) et *[Crown of the Kobold King](https://paizo.com/products/btpy7yqz?GameMastery-Module-D1-Crown-of-the-Kobold-King)* (*[La Couronne du roi kobold](https://www.black-book-editions.fr/produit.php?id=30)*).
+
+**1.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 29-32. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.31-34
+
+**2.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 9-10. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.12-13
+
+**3.** Judy Bauer, Logan Bonner, Nicolas Logue, et Matt Vancil dans *[Towns of the Inner Sea](https://paizo.com/products/btpy8yoq)* en 2013, p. 15. Paizo inc.
+
+**4.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 17-18. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.19
+
+**5.** Judy Bauer, Logan Bonner, Nicolas Logue, et Matt Vancil dans *[Towns of the Inner Sea](https://paizo.com/products/btpy8yoq)* en 2013, p. 21. Paizo inc.

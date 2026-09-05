@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Soldat damné
+Title: Soldat damné
+LastModified: 2023-03-08 15:54
+Categories:
+- Don
+- Src Book of the Damned
+---
+
+{s:cs}{s:BotD}*Vos faveurs reflètent vos prédilections martiales.*
+
+**Conditions.** [Obédience fiélonne](./Obédience fiélonne.md)
+
+**Avantage.** Lorsque le personnage gagne des faveurs grâce au don [Obédience fiélonne](./Obédience fiélonne.md), il peut choisir une faveur d'exalté ou une faveur de sentinelle, mais une fois cette faveur choisie, elle ne peut plus être changée. Le personnage gagne un bonus de malfaisance de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) des armes avec l'arme de prédilection de sa divinité.

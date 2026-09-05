@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.long feu
+Title: long feu
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Armes à feu#LONGFEU

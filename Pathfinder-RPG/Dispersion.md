@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Dispersion
+Title: Dispersion
+LastModified: 2020-05-02 16:22
+Categories:
+- Redirection
+---
+
+>>> Armes à feu#DISPERSION

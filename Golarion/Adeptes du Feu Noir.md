@@ -1,0 +1,18 @@
+---
+Name: Golarion.Adeptes du Feu Noir
+Title: Les Adeptes du Feu Noir
+LastModified: 2011-01-08 20:17
+Categories:
+- Organisation
+---
+
+{s:Organisation|Adeptes du Feu Noir|Blackfire Adepts|-|-|Éparpillé|Inconnu|mystiques, démonologues, voyageurs planaires|-|-|-}Aux endroits où les frontières entre les plans sont très fins ou déchirés, la réalité elle-même brûle en une flamme noir ébène. Prenant leur nom de ce phénomène, les Adeptes du Feu Noir sont un groupe flottant de mystiques et de voyageurs.
+
+Ils voyagent parmi les nombreux plans du [Grand Au-Delà](./Grand Au-Delà.md) dans le but d'acquérir les sombres pouvoirs des entités d'outre-monde. La plupart des membres réguliers du groupe s'habillent d'une robe rouge bordée de liserés noirs. Leurs dirigeants quant à eux vivent cachés parmi les responsables académiques du monde entier.
+
+Les Adeptes du Feu Noir ont eu, jusqu'au toutes dernières années de l'[Âge du Couronnement](./Histoire.md), une grande influence parmi les [Archi-seigneurs du Nex](./Archi-seigneurs du Nex.md). Ils sont aujourd'hui les ennemis jurés des [Gardiens de la Fissure](./Gardiens-de-la-Fissure.md) qui s'opposent à eux à chaque instant.
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur les Adeptes du Feu Noir dans le supplément
+- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING)
+{s:VoirAussiAprès}

@@ -1,0 +1,44 @@
+---
+Name: Pathfinder-RPG.Archéoptéryx
+Title: Archéoptéryx
+LastModified: 2023-09-29 21:28
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Archéoptéryx|FP 1/4}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 p.96*}
+{s:BDTexte|**PX** 100}
+{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|**pv** 4 (1d8)}
+{s:BDTexte|**Réf** +4, **Vig** +2, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m, escalade 3 m, vol 12 m (médiocre)}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d4-4)}
+{s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 3, **Dex** 15, **Con** 10, **Int** 2, **Sag** 12, **Cha** 7}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Vol](./Vol.md) +6}
+{s:BDTexte|**Particularités** vol difficile}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêts chaudes ou tempérées}
+{s:BDTexte|**Organisation sociale** solitaire, couple, ou nid (4-10)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|**Vol difficile (Sur).** L’archéoptéryx ne peut ni planer ni voler à un angle
+supérieur à 45° lorsqu’il est dans les airs.}
+</div>
+</td><td><div>Les archéoptéryx sont des oiseaux primitifs. Leur tête de
+lézard ne présente pas de bec mais des dents crantées.
+
+Les archéoptéryx peuvent servir de familier aux lanceurs de sort. Un familier archéoptéryx donne à son maître un bonus de +2 aux jets de Réflexe.</div></td></tr></table>

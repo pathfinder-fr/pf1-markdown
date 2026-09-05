@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Cierge du comité
+Title: Cierge du comité
+LastModified: 2024-06-13 00:20
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Cierge du comité|{s:UI}}
+**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 000 po ; **Poids** 0,5 kg
+(((Description)))
+{s:cs}Cette grande bougie bleue est traversée de tourbillons ambrés et dégage un parfum agréable semblable à celui du chèvrefeuille lorsqu'elle est allumée. Toute créature située à 3 mètres ou moins de la bougie bénéficie d'un bonus de +5 aux tests de [Diplomatie](./Diplomatie.md) et de [Psychologie](./Psychologie.md), tout en subissant un malus de -5 aux tests de [Bluff](./Bluff.md) et d'[Intimidation](./Intimidation.md). Ces bonus et malus ne s'appliquent qu'aux tests effectués contre d'autres créatures soumises à l'influence de la bougie. Elle est très appréciée pour les négociations et les pourparlers. La bougie peut brûler pendant un total de 8 heures. Ces heures n'ont pas à être consécutives, mais doivent être dépensées par tranche d'une heure. Une fois les 8 heures utilisées, la bougie est détruite.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[apaisement des émotions](./Apaisement des émotions.md)*, *[charme-personne](./Charme-personne.md)* ; **Coût** 1 000 po
+</div>

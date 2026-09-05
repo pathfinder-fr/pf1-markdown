@@ -1,0 +1,41 @@
+---
+Name: Pathfinder-RPG.Croissance dépines
+Title: Croissance d'épines
+LastModified: 2012-11-01 20:51
+Categories:
+- Manuel des joueurs
+- Règles officielles
+- Sort
+- Sort druide 3
+- Sort rôdeur 2
+---
+
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 3, [Rôd](./Rôdeur.md) 2  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, FD](./composantes.md)  
+
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+
+**Zone d'effet** un carré de 6 m (4 {s:c}) de côté/[niveau](./niveau.md)  
+
+**Durée** 1 heure/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** [Réflexes](./Réflexes.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+Toute la flore recouvrant le sol dans la zone d’effet se solidifie et se hérisse d’épines invisibles.
+
+Si le personnage lance le sort sur une zone de terre nue, les racines se trouvant en profondeur se comportent de la même manière. *Croissance d’épines* peut être lancé pratiquement partout en extérieur, excepté sur l’eau, la glace, une épaisse couche de neige, le sable (désert) ou la roche nue.
+
+Toutes les créatures qui traversent la zone affectée par le sort se voient infligés 1d4 points de dégâts perforants tous les 1,50 m.
+
+Tous les personnages blessés par ce sort doivent réussir un jet de [Réflexes](./Réflexes.md) pour éviter d’être touchés au niveau des pieds ou des jambes, ce qui diminue sa [vitesse de déplacement](./vitesse de déplacement.md) terrestre de moitié.
+
+Cette pénalité dure vingt-quatre heures, sauf si l’éclopé profite d’un sort de soins (qui lui offre aussi la possibilité de récupérer ses points de vie ordinaires). Un membre du groupe peut aussi le soigner, mais il faut bander les plaies (ce qui prend dix minutes) et réussir un test de [Premiers secours](./Premiers secours.md) contre le [DD](./DD.md) du sort.
+
+Les pièges magiques comme *croissance d’épines* sont particulièrement difficiles à détecter.
+
+Seul un [roublard](./Roublard.md) peut réussir à les déceler, en utilisant sa compétence de [Perception](./Perception.md) ([DD](./DD.md) 25 + [niveau du sort](./niveau du sort.md), soit 28 pour *croissance d’épines*, ou 27 dans le cas d’un [rôdeur](./Rôdeur.md)).
+
+*Croissance d’épines* est un piège magique qui ne peut être désamorcé par la compétence [Sabotage](./Sabotage.md).

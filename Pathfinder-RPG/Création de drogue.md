@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Création de drogue
+Title: Création de drogue
+LastModified: 2023-03-12 21:28
+Categories:
+- Sort alchimiste 3
+- Sort druide 3
+- Sort occultiste 3
+- Sort prêtre 4
+- Src Book of the Damned
+---
+
+{s:cs}{s:BotD}**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Alch](./Alchimiste.md) 3, [Dru](./Druide.md) 3, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 4  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 0 m  
+
+**Effet** une dose de drogue/3 [niveaux](./niveau.md)  
+
+**Durée** 1 minute  
+
+**Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** non
+
+Le lanceur de sorts invoque l'une des drogues suivantes : [éther](./Drogues.md#ETHER), [écorchefeuille](./Drogues.md#ECORCHEFEUILLE), [opium](./Drogues.md#OPIUM), [pesh](./Drogues.md#PESH), [purge](./Drogues.md#PURGE), [frisson](./Drogues.md#FRISSON), [zerk](./Drogues.md#ZERK). (À la discrétion du [MJ](./MJ.md), d'autres drogues aux effets similaires peuvent être incluses dans la liste). Les doses de drogue que le personnage créé avec ce sort doivent être utilisées dans la minute qui suit leur invocation, ou elles se dissolvent en une poussière sans valeur ou s'évaporent en vapeurs nocives mais passagères, bien que les effets de la drogue puissent durer beaucoup plus longtemps si elle est consommée avant qu'elle ne se désintègre.
+
+Les drogues créées par ce sort ne peuvent pas être vendues, mais elles peuvent être données à d'autres créatures. Une créature qui prend une dose de l'une de ces drogues doit généralement être consentante ou [sans défense](./Sans défense.md), bien que certaines drogues puissent être inhalées, appliquées sur des blessures, ou secrètement incorporées dans la nourriture si le personnage agit rapidement (voir la description de chaque drogue). Le DD pour résister à une drogue créée par ce sort est basé sur le [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du personnage, et non sur le DD indiqué dans les versions courantes de la drogue. Pour plus d'informations, voir les [Drogues](./Drogues.md).
+
+Un adorateur loyal mauvais de la demi-déesse infernale du destin peut également utiliser ce sort pour créer des doses d'une drogue nommée l'[adyton](./Drogues.md#ADYTON). Un adorateur de la demi-déesse infernale du destin peut créer de l'adyton une fois par semaine, quelque soit son niveau ou le nombre de fois qu'il lance ce sort. Le sort fonctionne autrement comme à l'accoutumée, créant le nombre de doses normal.

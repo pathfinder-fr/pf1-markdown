@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Science de la vigueur surhumaine
+Title: Science de la vigueur surhumaine
+LastModified: 2010-08-01 22:05
+Categories:
+- Don
+---
+
+*Le personnage peut puiser dans ses réserves intérieures pour résister aux maladies, aux poisons et autres effets néfastes.*
+
+**Condition.** [Vigueur surhumaine](./Vigueur surhumaine.md).
+
+**Avantage.** Une fois par jour, le personnage peut relancer un jet de [Vigueur](./Vigueur.md). Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.

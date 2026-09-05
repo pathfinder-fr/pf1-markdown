@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Désarmement sale
+Title: Désarmement sale
+LastModified: 2020-09-03 17:31
+Categories:
+- Contenu supplémentaire
+- Don
+- Don combat
+- Src Dirty Tactics Toolbox
+---
+
+{s:cs|Dirty Tactics Toolbox}
+
+*Vous pouvez faire un sale coup pendant que vous désarmez un ennemi.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Science du désarmement](./Science du désarmement.md), [BBA](./BBA.md) +6
+
+**Avantage.** Le personnage peut tenter d'effectuer une manœuvre de sale coup et une manœuvre de désarmement simultanément contre une cible par une [action complexe](./Action complexe.md). Il ne lance qu'un seul jet pour les deux manœuvres. Si le [BMO](./BMO.md) du personnage est différent pour les deux manœuvres, il prend le modificateur le plus bas. Si le [DMD](./DMD.md) de la cible est différent pour les deux manœuvres, il prend le modificateur le plus haut. Si le personnage réussit son jet, il effectue les deux manœuvres avec succès.
+
+(((Dirty Disarm (Combat)
+
+You can pull dirty tricks while disarming your foes.
+
+Prerequisites: Int 13, Combat Expertise, Improved Dirty Trick, Improved Disarm, base attack bonus +6.
+
+Benefit: You can attempt to perform a dirty trick and a disarm maneuver together against a single target as a full-round action. You attempt a single combat maneuver check for both maneuvers. If your CMB is different for the two types of maneuvers, use the lower of the two bonuses. If your target’s CMD is different against the two types of maneuvers, use the higher CMD. If you succeed at the check, you successfully perform both combat maneuvers.)))

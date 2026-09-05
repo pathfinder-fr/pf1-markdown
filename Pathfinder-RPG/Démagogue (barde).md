@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Démagogue (barde)
+Title: Démagogue
+LastModified: 2016-10-04 16:34
+Categories:
+- Art de la Magie
+- Classe
+- Règles officielles
+---
+
+{s:Menuarchétypebarde}{s:um}*Non content de faire des représentations amusantes et parfois instructives, le démagogue cherche à enflammer son audience et à la pousser dans une direction donnée à l’aide d’intonations et de mots choisis avec soin, au point de déclencher des changements momentanés.*
+
+#### Célèbre
+Au niveau 1, le démagogue devient célèbre dans une région donnée. Ce pouvoir fonctionne comme celui de l’archétype de barde [célébrité](./Célébrité (barde).md) mais le talent du démagogue s’applique aux tests de [Bluff](./Bluff.md) et d’[Intimidation](./Intimidation.md) au lieu des tests de Diplomatie et d’Intimidation. Ce pouvoir remplace [inspiration vaillante](./Barde.md#INSPIRATIONVAILLANTE) +1.
+
+#### Représentation bardique
+Le démagogue obtient les représentations bardiques suivantes.
+- *Rassembler les foules (Ext).* Au niveau 5, le démagogue est capable de rassembler rapidement une foule de gens. Ceci fonctionne comme le pouvoir de rassembler les foules de l’archétype de barde [célébrité](./Célébrité (barde).md). Ce pouvoir remplace [maître du savoir](./Barde.md#MAITREDUSAVOIR).
+
+- * Incitation à la violence (Ext).* Au niveau 6, le démagogue peut profiter de sa représentation pour attiser la fureur d’une foule qu’il vient de fasciner. Ce pouvoir ne met pas un terme à la fascination mais le barde doit dépenser une [action simple](./Action simple.md) pour l’activer (en plus d’utiliser une [action libre](./Action libre.md) pour prolonger l’effet de [fascination](./Barde.md#FASCINATION)). Le barde choisit un nombre de cibles égal à son niveau. Elles doivent faire un jet de [Volonté](./Volonté.md) ([DD](./DD.md) 10 + 1/2 niveau du barde + modificateur de [Charisme](./Charisme.md) du [barde](./Barde.md)) ou se retrouver sous l’emprise d’un sort de *[rage](./Rage.md)* pendant un nombre de rounds égal au niveau du barde. Le barde doit désigner la cible de cette explosion de violence (soit après avoir utilisé ce pouvoir, soit lors de la représentation qui l’a précédé) et, s’ils le peuvent, les membres enragés de la foule attaquent immédiatement la cible. Cette dernière n’a pas besoin d’être présente (« Tuez le roi » convient parfaitement) et il peut s’agir d’un objet aussi bien que d’une personne (« Détruisez la prison » est tout à fait valable). D’autres membres de la foule peuvent suivre l’exemple des enragés mais ne profitent pas des avantages du sort. C’est un effet sonore sujet à un [contrechant](./Barde.md#CONTRECHANT). Si deux bardes ou plus tentent de retourner la foule contre des cibles différentes, ils doivent faire des tests de [Charisme](./Charisme.md) opposés, la foule suivant les indications du vainqueur. Ce pouvoir remplace [suggestion](./Représentations.md#SUGGESTION). 
+
+- *Juste cause (Ext).* Au niveau 18, le démagogue peut soulever l’enthousiasme des foules et les pousser vers un objectif défini. Il doit tout d’abord fasciner la foule, ensuite l’inciter à la violence sans désigner de cible et enfin lui indiquer une juste cause. Au lieu de mettre la foule en colère, il lui donne un but. Une créature fascinée doit réussir un jet de [Volonté](./Volonté.md) ([DD](./DD.md) 10 + 1/2 niveau du barde + modificateur de [Charisme](./Charisme.md) du barde) pour résister. Tous ceux qui échouent sont affectés par une [suggestion de groupe](./Représentations.md#SUGGESTIONDEGROUPE). Il doit s’agir d’une idée plausible qui leur reste en tête pour une journée. Ce pouvoir sert généralement à enflammer une rébellion, à renverser un roi, à construire un bâtiment d’utilité publique (comme un orphelinat) ou à faire un don pécuniaire à une cause. Ce pouvoir remplace [suggestion de groupe](./Représentations.md#SUGGESTIONDEGROUPE).

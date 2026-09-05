@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Gathelain (race)
+Title: Les gathelains
+LastModified: 2025-01-11 18:29
+Categories:
+- Race
+- Src Inner Sea Races
+---
+
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Gathelain.md) d'un gathelain standard.***
+
+Fées énigmatiques du Premier Monde, les gathelains aux ailes végétales sont parmi les races les plus insaississables de la région de la mer Intérieure, et l'une des plus espiègles.
+
+<div class="presentation arrondi">
+<div class=”description”>***Source :*** *Bestiaire 4 p.111*</div>
+Si l'on en croit certaines ballades féeriques, les gathelains étaient l'un des premiers peuples à s'éveiller sur le monde primitif des fées. Ils ont été créés à partir des graines d'un immense arbre magique dont le gui s'est infilitré dans leur chair pour former leurs ailes étranges.
+
+Espiègles et capricieuses, ces créatures ont un tempérament dissonant. Elles ne cherchent qu'à s'amuser et à assouvir leur immense curiosité à l'égard du monde qui les entoure. C'est cette même curiosité qui a poussé nombre d'entre elles à migrer et à s'aventurer sur le Plan matériel. Les gathelains cherchent à se mêler aux gnomes mais ces derniers les trouvent souvent trop indisciplinés, trop volages et trop imprudents à leur goût.
+</div>
+
+{s:Reference|TRAITSSTANDARD}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 [Dextérité](./Dextérité.md), +2 [Charisme](./Charisme.md), -2 [Constitution](./Constitution.md).** Les gathelains sont vifs, ont une personnalité dynamique et engageante mais ils sont assez fragiles.
+- **Fée.** Les gathelains sont des [fées](./type Fée.md) et pas des [humanoïdes](./type Humanoïde.md).
+- **Taille P.** Les gathelains sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d'attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
+- **Vitesse normale.** Les gathelains ont une [vitesse de base](./VD.md) de 9 mètres ainsi qu'une [vitesse de vol](./Vol.md#Spécial_2) de 12 mètres (médiocre).
+- **Vision nocturne.** Les gathelains [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains à faible luminosité.
+- **Armure naturelle.** Les gathelains ont un bonus d'[armure naturelle](./CA.md) de +1.
+- **Pouvoirs magiques.** Les gathelains peuvent utiliser *[démarche aérienne](./Démarche aérienne.md)* et *[enchevêtrement](./Enchevêtrement.md)* comme des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) chacun une fois par jour. Le [niveau de lanceur de sorts](./NLS.md) pour chacun est égal au niveau de personnage du gathelain.
+- **Langues.** Les gathelains commencent le jeu en parlant le commun et le sylvestre. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, elfique, gobelin, halfelin et orque.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des gathelains. Consultez votre MJ avant de prendre ces options.
+
+<u>*Remplace « pouvoirs magiques » :*</u>
+- **Nimbe de vitalité.** Les gathelains conservent parfois une connexion puissante avec le Premier Monde, qui leur permet de canaliser une énergie guérisseuse. Par une [action simple](./Action simple.md) une fois par jour, ils peuvent s'envelopper d'une aura qui leur confère les effets de *[lueur féerique](./Lueur féerique.md)* ainsi qu'une [guérison accélérée 2](./Guérison accélérée (capacité).md). La nimbe dure 3 rounds + 1 round supplémentaire tous les 2 niveaux de personnage du gathelain. Ce trait racial remplace pouvoirs magiques.

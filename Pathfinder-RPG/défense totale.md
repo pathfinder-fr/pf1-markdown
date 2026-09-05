@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.défense totale
+Title: défense totale
+LastModified: 2025-09-01 09:48
+Categories:
+- Redirection
+---
+
+>>> Actions simples#DEFENSETOTALE

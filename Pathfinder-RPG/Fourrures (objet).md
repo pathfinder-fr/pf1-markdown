@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Fourrures (objet)
+Title: Fourrures
+LastModified: 2021-09-22 14:49
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 12 po ; **Poids** 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Équipement de base de la lutte contre le froid, les fourrures animales aident à garder le porteur au chaud. Si le personnage porte assez de fourrures pour couvrir l’ensemble du corps, il gagne un bonus de +2 aux jets de [Vigueur](./Vigueur.md) pour résister aux climats froids. Ce bonus ne se cumule pas avec les bonus accordés par la compétence [Survie](./Survie.md). Les fourrures peuvent compléter une autre tenue.

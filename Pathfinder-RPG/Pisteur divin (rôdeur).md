@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Pisteur divin (rôdeur)
+Title: Pisteur divin
+LastModified: 2023-05-28 13:17
+Categories:
+- Archétype
+- Archétype rôdeur
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétyperôdeur}{s:mca}*Béni par sa divinité, un pisteur divin pourchasse les créatures qui, d’après lui, méritent de subir son châtiment. Et son arme se niche souvent dans ses ennemis jurés.*
+
+#### Alignement
+L’alignement d’un pisteur divin ne doit pas s’écarter de plus d’un cran, sur l’axe de la Loi et du Chaos et sur celui du Bien et du Mal, de celui de sa divinité.
+
+#### Arme de prédilection
+Au niveau 1, un pisteur divin est formé au maniement de l’arme de prédilection de sa divinité. Si cette arme est le combat à mains nues, il gagne à la place [Science du combat à mains nues](./Science du combat à mains nues.md) en don supplémentaire. Cette aptitude remplace empathie sauvage.
+
+#### Bénédictions (Sur)
+Au niveau 4, un pisteur divin se sent particulièrement proche de la philosophie de sa divinité. Il choisit deux [bénédictions](./Bénédictions.md) de [prêtre combattant](./Prêtre combattant.md) parmi celles conférés par sa divinité et gagne les bénédictions mineures de ces bénédictions. Un pisteur divin peut choisir la bénédiction d’un alignement ([Bien](./Bénédiction du bien.md), [Chaos](./Bénédiction du chaos.md), [Loi](./Bénédiction de la loi.md) ou [Mal](./Bénédiction du mal.md)) à condition qu’il possède la même composante d’alignement.
+
+Si un pisteur divin ne vénère pas une divinité en particulier, il peut quand même choisir deux bénédictions qui représentent ses inclinaisons et ses aptitudes, à l’appréciation du MJ.
+
+La restriction quant aux bénédictions d’alignement s’applique toujours dans ce cas. Un pisteur divin remplace le niveau de prêtre combattant par son niveau de rôdeur pour déterminer l’effet des bénédictions.
+
+Au niveau 13, un pisteur divin gagne la bénédiction majeure de chacun des deux domaines choisis. Cette aptitude remplace pacte du chasseur.

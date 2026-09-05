@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Cape de résistance
+Title: Cape de résistance
+LastModified: 2024-06-01 16:14
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cape de résistance|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 5 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 1 000 po (+1), 4 000 po (+2), 9 000 po (+3), 16 000 po (+4) ou 25 000 po (+5) ; **Poids** 0,5 kg
+(((Description)))
+Cette cape protège son porteur, sous la forme d’un bonus de résistance à tous les [jets de sauvegarde](./jet de sauvegarde.md) ([Réflexes](./Réflexes.md), [Vigueur](./Vigueur.md) et [Volonté](./Volonté.md)). Selon le modèle, ce bonus peut varier de +1 à +5.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[résistance](./sort Résistance.md)*, niveau de lanceur de sorts au moins égal à trois fois le bonus de la cape ; **Coût** 500 po (+1), 2 000 po (+2), 4 500 po (+3), 8 000 po (+4) ou 12 500 po (+5)
+</div>

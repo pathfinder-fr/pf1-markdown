@@ -1,0 +1,53 @@
+---
+Name: Pathfinder-RPG.Hyène sanguinaire
+Title: Hyène, Hyène sanguinaire
+LastModified: 2023-01-22 18:00
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Hyène sanguinaire (Hyænodon)|FP 3}
+{s:pucem|Animal|Plaines|Tropical}
+{s:BDTexte|*Source : Bestiaire* p.187}
+{s:BDTexte|**PX** 800}
+{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
+{s:BDTexte|**pv** 26 (4d8+8)}
+{s:BDTexte|**Réf** +6, **Vig** +6, **Vol** +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 15 m (10 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +6 (2d6+6 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 15, **Con** 15, **Int** 2, **Sag** 13, **Cha** 6}
+{s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 20 (24 contre [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md), [Discrétion](./Discrétion.md))}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7 (+11 dans les hautes herbes et les fourrés), [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans les hautes herbes}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** plaines chaudes}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-8)}
+{s:BDTexte|**Trésor** fortuit}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de hyène
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Hyène](./Hyène.md) || 1
+|-
+| [Hyène sanguinaire](./Hyène sanguinaire.md) || 3
+|}
+</div>*Cette immense hyène possède une large tête, des yeux chassieux rouges et une gueule remplie de grandes dents acérées.*
+
+Les hyènes sanguinaires sont plus terrifiantes que leurs cousins de plus petite taille. Lorsqu’elles trouvent une carcasse, les hyènes sanguinaires profitent du repas facile qui leur est offert, mais elles préfèrent généralement chasser leurs proies elles-mêmes. Les meutes de hyènes sanguinaires ne s’arrêtent de bouger et de chasser que pour dormir, se reproduire ou se nourrir.
+
+Les hyènes sanguinaires mesurent 1,80 mètres de hauteur aux épaules et plus de 3,60 mètres de long. Elles pèsent 450 kg. Les [gnolls](./Gnoll.md) se servent parfois de hyènes sanguinaires entraînées pour garder leurs repaires ou, plus souvent, comme montures.
+</div></td></tr></table>

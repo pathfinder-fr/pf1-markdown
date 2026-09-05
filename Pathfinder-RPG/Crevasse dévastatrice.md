@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Crevasse dévastatrice
+Title: Crevasse dévastatrice
+LastModified: 2023-03-21 14:58
+Categories:
+- Sort
+- Sort magicien 8
+- Sort prêtre 8
+- Sort sorcière 8
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+{s:cs}{s:BotD}**École** [Invocation](./Invocation.md) ([appel](./branche appel.md)) <nowiki>[</nowiki>[Chaos](./Registre.md), [Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Prê](./Prêtre.md) 8,  [Sor](./Sorcière.md) 8  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Effet** trou extradimensionnel de 1,5 m de large et 18 m de profondeur, jusqu'à 1,5 m de long par [niveau](./niveau.md) (F)  
+
+**Durée** 1 round/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Réflexes](./Réflexes.md), partiel ; **Résistance à la magie** non
+
+Ce sort déchire une faille dans la réalité, créant un trou extradimensionnel d'une profondeur de 18 mètres. Le personnage doit créer la faille sur une surface horizontale de taille suffisante. Étant donné que la faille s'étend dans les Abysses, elle ne déplace pas le matériau sous-jacent d'origine et ne permet pas d'accéder aux zones sous la surface ; le personnage peut créer la faille sur le pont d'un navire aussi facilement que dans le sol d'un donjon ou la terre d'une forêt. Toute créature de taille G ou plus petite se trouvant dans la zone où la faille est invoquée doit réussir un jet de [Réflexes](./Réflexes.md) pour éviter de tomber dans le trou. En cas de succès, la créature choisit de quel côté de la faille elle reste une fois celle-ci ouverte. Les objets et les structures abandonnés qui peuvent être entièrement engloutis par la faille y tombent automatiquement.
+
+Les murs de la faille sont recouverts de lames acérées comme des rasoirs, tandis que le sol bouillonne de mares d'acide bouillantes, d'étranges vermines masticatrices, d'éclats de glace tordus et de toutes sortes d'autres manifestations chaotiques et mortelles des Abysses. Une créature qui tombe dans la faille subit 6d6 points de dégâts de chute. Toute créature dans la faille (à partir du round où elle y entre) subit 6d6 points de dégâts supplémentaires dus à l'environnement au sein de la faille, même si la créature ne fait que grimper ou voler dans la faille plutôt que de se tenir au fond. Ces dégâts supplémentaires changent d'un round à l'autre et sont choisis au hasard parmi acide, contondant, froid, électricité, feu, perforant, tranchant ou sonore. À chaque round, une créature dans la faille a droit à un jet de [Réflexes](./Réflexes.md) pour réduire de moitié les dégâts infligés lors de ce round. Les murs de la faille ont un DD d'[Escalade](./Escalade.md) de 25.
+
+À la fin de la durée de ce sort, la faille se referme, expulsant violemment toutes les créatures encore à l'intérieur. Ces créatures subissent le double des dégâts dus à l'environnement au sein de la faille pour de ce round et tombent [à terre](./À terre.md) lorsqu'elles sont renvoyées à la surface.
+
+À tout moment pendant la durée du sort, le personnage peut l'utiliser pour invoquer un certain nombre de créatures abyssales à proximité par une [action simple](./Action simple.md). Cela provoque la fermeture de la faille, mettant fin à la durée du sort et renvoyant au sol toutes les créatures qui y étaient tombées, comme indiqué ci-dessus. Lorsque la faille se referme, choisissez l'une des créatures ou groupes de créatures suivants pour qu'elle apparaisse dans la zone ; ces créatures abyssales sont traitées comme si le personnage les avaient convoquées avec *[convocation de monstres VII](./Convocation de monstres VII.md)* et restent pendant un nombre de rounds égal à la durée restante du sort *crevasse dévastatrice*. Le personnage peut choisir de convoquer les créatures ou groupe de créatures suivants : un [bébilith](./Bébilith.md), un [vrock](./Vrock.md), 1d3 [démons des ombres](./Démon des ombres.md), 1d3 [succubes](./Succube.md), 1d4+1 [babaus](./Babau.md) ou 1d4+1 [brimoraks](./Brimorak.md).

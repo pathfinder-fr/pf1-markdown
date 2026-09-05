@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Maîtrise du bouclier de force
+Title: Maîtrise du bouclier de force
+LastModified: 2024-07-23 17:51
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maîtrise dobjet
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut créer des barrières de force avec les objets de l’école d’abjuration.*
+
+**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+
+**Conditions.** 3 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+
+**Avantages.** Le personnage peut faire en sorte de tirer d'un objet dont l’une des conditions de fabrication est un sort d’abjuration de niveau 1 ou supérieur le pouvoir de créer un effet de sort qui fonctionne comme *[bouclier](./Bouclier.md)*, sauf que le bonus de bouclier à la [CA](./CA.md) est égal à 1/3 de son bonus de base de [Vigueur](./Vigueur.md) (minimum +1). Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +6, +9 et +12.
+
+(((Force shield mastery (Item Mastery)
+
+You can create barriers of force with abjuration magic items.
+
+Prerequisites: Use Magic Device 3 ranks, base Fortitude saving throw bonus +3.
+
+Benefit: You can cause an item that has an abjuration spell of 1st level or higher listed in its construction requirements to create a magical effect that functions like shield, except the shield bonus to AC gained is equal to 1/3 your base Fortitude save bonus (minimum +1). You can use this feat once per day, plus an additional time per day when your base Fortitude save bonus reaches +6, +9, and +12.)))

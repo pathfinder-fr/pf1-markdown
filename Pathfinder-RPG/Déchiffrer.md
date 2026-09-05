@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Déchiffrer
+Title: Déchiffrer
+LastModified: 2026-04-14 13:41
+Categories:
+- Mot de pouvoir
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:UM}
+**École** [divination](./Divination.md) ; **Niveau** [alchimiste](./Alchimiste.md) 1, [barde](./Barde.md) 0, [conjurateur](./Conjurateur.md) 0, [prêtre](./Prêtre.md) 0, [druide](./Druide.md) 0, [inquisiteur](./Inquisiteur.md) 0, [magus](./Magus.md) 0, [paladin](./Paladin.md) 1, [rôdeur](./Rôdeur.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 0, [sorcière](./Sorcière.md) 0  
+
+**Durée** 1 minute/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non  
+
+**Restriction de cible** *[personnel](./Personnel (mot de pouvoir).md)*
+
+La cible d’un sort incluant ce mot peut lire un texte écrit dans une langue particulière, dont la langue de la magie. Le mage choisit la langue quand il lance son sort et pendant toute sa durée, la cible peut lire cette langue comme s’il la maîtrisait couramment. S’il choisit la langue magique, la cible peut déchiffrer les parchemins, les glyphes et les autres écritures magiques sans les déclencher. Un sort incluant cet effet ne donne pas la capacité de connaître une langue en observant le texte ; le lanceur doit déjà la connaître ou avoir deviné dans quelle langue le document est écrit pour lancer son sort.  
+
+:**Augmentation :** Ce mot effet peut utiliser le mot cible *[choisi](./Choisi.md)*. Augmenter le mot de la sorte améliore son niveau de 1.

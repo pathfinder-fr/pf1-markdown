@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Maîtrise de lénergie
+Title: Maîtrise de l'énergie
+LastModified: 2022-02-24 19:00
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maîtrise dobjet
+- Src Weapon Masters Handbook
+---
+
+{s:cs}{s:WMH}*Vous pouvez projeter de l’énergie avec les objets magiques de l’école d’évocation.*
+
+**Catégorie :** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+
+**Conditions.** 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +4
+
+**Avantages.** Le personnage peut lancer *[mains brûlantes](./Mains brûlantes.md)* à partir d’un objet dont l’une des conditions de fabrication est un sort du [registre](./Registre.md) acide, froid, l'électricité, ou feu de niveau 1 ou supérieur. Le sort possède le registre correspondant à celui du sort utilisé comme condition et inflige le type de dégâts correspondants au lieu de dégâts de feu. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +6, +8, +10 et +12.
+
+Le personnage peut dépenser deux utilisations quotidiennes de ce don pour lancer *[éclair](./Éclair.md)* par ce biais si le sort qui sert de condition de fabrication est de niveau 3 ou supérieur (infligeant toujours des dégâts du type correspondant à ce dernier).

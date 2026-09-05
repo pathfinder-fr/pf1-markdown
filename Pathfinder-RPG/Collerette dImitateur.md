@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Collerette dImitateur
+Title: Collerette d’imitateur
+LastModified: 2024-05-31 16:15
+---
+
+<div class="BD">
+{s:BDTitre|Collerette d’imitateur|{s:AE}}
+**Aura** [Illusion](./Illusion.md) faible ; **NLS** 5 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 3.500 po ; **Poids** —
+(((Description)))
+Le plus souvent confectionnées en soie de couleur vive, les collerettes d’imitateur sont particulièrement appréciées des artistes et des escrocs. Le porteur d’une telle collerette gagne un bonus de +10 aux tests de [Bluff](./Bluff.md) pour tenter d’imiter la voix d’un individu. De plus, il peut parler à distance pendant 5 minutes, comme s’il utilisait le sort *[ventriloquie](./Ventriloquie.md)*.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[manipulation des sons](./Manipulation des sons.md)*, *[ventriloquie](./Ventriloquie.md)*  ; **Coût** 1.750 po
+</div>

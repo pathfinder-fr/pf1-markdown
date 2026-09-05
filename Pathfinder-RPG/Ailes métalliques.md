@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ailes métalliques
+Title: Ailes métalliques
+LastModified: 2025-08-06 16:23
+Categories:
+- Don
+---
+
+{s:MR}*Les ailes de l’aasimar sont faites d’un métal scintillant.*
+
+**Conditions requises.** [Sang angélique](./Sang angélique.md), [Chair angélique](./Chair angélique.md), [Ailes d'ange](./Ailes dange.md), [aasimar](./Aasimar (race).md), personnage de niveau 11
+
+**Avantages.** L’aasimar gagne deux attaques d’aile. Ce sont des attaques naturelles secondaires infligeant 1d4 points de dégâts tranchants (ou 1d3 si l’aasimar est de taille P).

@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Talisman du Mal absolu
+Title: Talisman du Mal absolu
+LastModified: 2024-06-17 18:42
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Talisman du Mal absolu|{s:AE}}
+**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 18 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** —
+(((Description)))
+Si un lanceur de sorts divins Mauvais possède cet objet, il peut ouvrir une fosse enflammée sous les pieds d’un pratiquant de la magie divine Bon qui se trouve à moins de 30 mètres. La victime est alors engloutie à tout jamais dans les entrailles de la terre. Le porteur du talisman se doit d’être Mauvais. De plus, si sa divinité ne considère pas ses actes comme d’une absolue perversité et d’une parfaite malveillance, sa cible a droit à un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 19) afin d’échapper d’un bond à la chute. La cible doit bien évidemment se trouver sur la terre ferme pour que le talisman fonctionne.
+
+Un *talisman du Mal absolu* possède un total de 6 charges. Si lanceur de sorts divins d’alignement Neutre le touche, il subit 6d6 points de dégâts par [round](./round.md) de contact et 8d6 points de dégâts pour un lanceur de sorts divins Bon. Les autres personnages ne sont pas affectés par le talisman.
+(((Destruction)))
+Le *talisman du Mal absolu* tombe en poussière si on le donne au nouveau-né d’un scélérat qui s’est racheté.
+</div>

@@ -1,0 +1,17 @@
+---
+Name: Golarion.Barbiers Sanglants
+Title: Les Barbiers Sanglants
+LastModified: 2011-03-05 17:26
+Categories:
+- Absalom
+- Organisation
+---
+
+{s:Organisation|Barbiers Sanglants|Bloody Barbers|-|-|[Absalom](./Absalom.md)|Inconnu|Voleurs|-|[Absalom](./Absalom.md)|-}Les Barbiers Sanglants sont une guilde de voleurs qui opèrent à [Absalom](./Absalom.md).
+
+Le groupe n'agit pas dans le district de la Cour de l'Ascendant où les voleurs gagnent plus à faire travailler pour les prêtres de [Norgorber](./Norgorber.md) sous le couvert du Masque Noir.
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur les Barbiers Sanglants dans le supplément
+- [Pathfinder Chronicles: Guide to Absalom](./Publications.md#GUIDETOABSALOM)
+{s:VoirAussiAprès}

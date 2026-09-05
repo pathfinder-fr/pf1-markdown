@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Coffre au trésor (objet)
+Title: Coffre au trésor
+LastModified: 2021-10-14 14:55
+Categories:
+- Équipement
+- Src Pirates de la mer Intérieure
+---
+
+{s:PMI}**Prix** 3 po (taille P), 7 po (taille M), 15 po (taille G), 37 po (taille TG) ; **Poids** 12,5 kg (taille P), 25 kg (taille M), 50 kg (taille G), 125 kg (taille TG)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Un coffre au trésor est un coffre en bois ordinaire traité à la résine pour rendre le bois étanche. Des bandes de métal, le plus souvent en bronze pour éviter l'oxydation, sont fixées autour du coffre pour augmenter sa solidité. Le verrou est également en bronze. Un coffre au trésor a les mêmes statistiques qu'un [coffre en bois](./Coffre (objet).md) ordinaire mais il possède 25 % de [points de résistance](./Exploration.md#DESTRUCTIONOBJET) en plus et son [DD](./DD.md) pour le briser est augmenté de 2. Comparés aux coffres ordinaires, les coffres au trésor sont plus résistants, que ce soit lors des transports maritimes ou quand ils sont enfouis.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Entrave (arme magique)
+Title: Entrave
+LastModified: 2024-05-21 18:28
+Categories:
+- Objet mag arme
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Entrave|{s:AE}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 3 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 12 350 po ; **Poids** 4 kg
+(((Description)))
+Cette *[épée à deux mains](./épée à deux mains (arme).md) +1* est ornée d'un motif représentant une chaîne. Si le personnage touche une créature de la même taille que lui ou plus petite avec cette épée, il peut entamer une action de [lutte](./lutte.md) sans provoquer d'attaque d'opportunité et par une action libre. S'il réussit, la lame de l'épée se transforme en chaîne de métal et s'enroule autour de la cible, ce qui donne au personnage un bonus de +5 aux prochains tests de lutte contre cette cible. Si la cible échappe à son étreinte ou si le personnage décide de la relâcher, la chaîne reprend sa forme d'épée (la poignée apparaît dans la main du personnage).  
+
+Le personnage peut également lâcher la poignée de sa chaîne alors qu'il lutte contre sa cible ou l'immobilise. Dans ce cas, la chaîne reste en place et la cible est [enchevêtrée](./Enchevêtré.md) ([Évasion](./Évasion.md) DD20 pour se glisser hors de la chaîne, briser DD 28, solidité 10, 10 points de vie, [Concentration](./concentration.md) DD 17 pour lancer un sort une fois enchevêtré). Une tierce personne peut saisir la poignée de la chaîne par une action simple et souhaiter qu'elle reprenne sa forme d'épée par une action rapide, libérant ainsi la créature enchaînée. Si la chaîne est détruite, elle reprend sa forme d'épée et acquiert la condition [brisée](./Brisé.md).
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[corde animée](./Corde animée.md)* ; **Coût** 6 350 po
+</div>

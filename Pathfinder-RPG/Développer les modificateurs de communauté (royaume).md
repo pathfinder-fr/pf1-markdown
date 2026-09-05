@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.Développer les modificateurs de communauté (royaume)
+Title: Développer les modificateurs de communauté (règle optionnelle)
+LastModified: 2021-01-04 00:18
+Categories:
+- Règle officielle
+- Src Guide de campagne
+---
+
+{s:MenuGC}{s:GC}Comme expliqué dans la section consacrée aux [bâtiments](./Communautés et quartiers.md#BATIMENTS), dans la ligne « Communauté » d’un bâtiment, vous trouvez un modificateur qui affecte un test de compétence effectué dans la communauté (voir [Les modificateurs de communauté](./Villes.md#Les_modificateurs_de_communauté_2)).
+
+Si le [MJ](./MJ.md) désire que ces modificateurs influent sur tout le royaume, ajoutez les modificateurs de toutes les communautés du pays, divisez-les par 10 et appliquez les ajustements suivants en fonction de l’alignement du royaume : Chaotique +1 Criminalité, Mauvais +1 Corruption, Bon +1 Société, Loyal +1 Loi, Neutre +1 Folklore (appliquez deux fois ce bonus si le royaume est Neutre strict et non Chaotique Neutre ou Loyal Neutre). Utilisez ces modificateurs totaux partout dans votre royaume. Si une communauté possède ses propres modificateurs, utilisez le plus élevé des deux pour tous les jets qui s’y déroulent.

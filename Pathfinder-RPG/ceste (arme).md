@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.ceste (arme)
+Title: Ceste
+LastModified: 2021-10-01 15:12
+Categories:
+- Arme
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 0,5 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine)
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ou P ; **Spécial** [moine](./Caractéristiques des armes.md#MOINE), voir texte
+<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+---
+Le ceste est un gant de cuir ou de tissu épais recouvrant la main du porteur du milieu des doigts au milieu de l’avant-bras. Cette arme de combat rapproché est renforcée de plaques de métal au niveau des doigts et souvent parée de pointes vicieuses au niveau du dos de la main et du poignet. Lorsqu’il porte un ceste, le personnage est considéré comme étant armé et ses  [attaques à mains nues](./mains nues (arme).md) infligent des dégâts létaux. S’il est formé au maniement du ceste, ses attaques à mains nues peuvent infliger des dégâts contondants ou perforants. Les [moines](./Moine.md) sont formés au maniement du ceste. Lorsque le personnage utilise un ceste, ses doigts sont en grande partie libres, ce qui lui permet de manier ou de tenir des objets avec cette main, mais la pression que l’arme exerce sur les jointures lui donne un malus de -2 à tous ses tests basés sur la précision impliquant l’utilisation de sa main (comme ouvrir des serrures). Il n’est pas possible de [désarmer](./désarmement.md) un personnage équipé d’un ceste.

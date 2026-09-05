@@ -1,0 +1,20 @@
+---
+Name: Aventures.Soldat
+Title: soldat d'infanterie
+LastModified: 2023-08-15 11:40
+Categories:
+- PNJ
+---
+
+*Il s'agit de jeunes soldats n'ayant jamais connu la guerre.*
+
+
+<div class="BD">{s:BDTitre|conscrit,humain|FP 1/3} </div>  {s:BDTexte|*Source : *} **XP**:135
+{s:BDTexte|humanoïde taille M}
+{s:BDTexte|LN homme d'arme N1}
+{s:BDTexte|**Init** +1 ; **Sens **perception+3}
+
+
+
+
+<div class="BD"><div class="box">Défense</div></div>

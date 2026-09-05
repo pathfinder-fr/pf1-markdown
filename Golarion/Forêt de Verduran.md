@@ -1,0 +1,92 @@
+---
+Name: Golarion.Forêt de Verduran
+Title: Forêt de Verduran
+LastModified: 2021-08-28 14:31
+Categories:
+- Andoran
+- Géographie
+- Taldor
+---
+
+L<div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
+<div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
+{| CLASS="tablo centre toutgauche autoalt" WIDTH="100%"
+|+ Rencontres aléatoires dans la forêt de Verduran<sup>(10)</sup>
+|- CLASS="titre"
+| WIDTH="22%" | d100
+| WIDTH="76%" | Résultat
+| WIDTH="2%" | FP
+|- Class="premier"
+| 1–6 || 2 [sangliers sanguinaires](./../Pathfinder-RPG/Sanglier sanguinaire.md) || 6
+|-
+| 7–12 || 1d3+1 [trolls de mousse](./../Pathfinder-RPG/Troll de mousse.md) || 6
+|-
+| 13–18 || 1 [tertre errant](./../Pathfinder-RPG/Tertre errant.md) || 6
+|-
+| 19–24 || 1 [ours sanguinaire](./../Pathfinder-RPG/Ours sanguinaire.md) || 7
+|-
+| 25–29 || 1d3+1 [lions sanguinaires](./../Pathfinder-RPG/Lion sanguinaire.md) || 7
+|-
+| 30–35 || 1 [pukwudgie](./../Pathfinder-RPG/Pukwudgie.md) || 7
+|-
+| 36–46 || 2d6+1 [dryades](./../Pathfinder-RPG/Dryade.md) || 8
+|-
+| 47–58 || 1d4+2 [ours-hiboux](./../Pathfinder-RPG/Ours-hibou.md) || 8
+|-
+| 59–64 || 1 [jeune dragon vert](./../Pathfinder-RPG/Jeune dragon vert.md) || 8
+|-
+| 65–70 || L'[Homme-abeille de Bellis](./Pathfinder-RPG-Homme-abeille-de-Bellis.md) || 9
+|-
+| 71–78 || Colonie de bourdons géants (3d6 [bourdons géants](./../Pathfinder-RPG/Abeille géante.md), 1 [abeille reine géante](./../Pathfinder-RPG/Abeille reine géante.md)) || 9
+|-
+| 79–83 || 1d3+1 [géants des bois](./../Pathfinder-RPG/Géant des bois.md) || 9
+|-
+| 84–88 || 1d8+2 [chouettes géantes](./../Pathfinder-RPG/Chouette géante.md) || 10
+|-
+| 89–93 || 1d6+5 [pixies](./../Pathfinder-RPG/Pixie.md) || 10
+|-
+| 94–100 || 1d6+6 [satyres](./../Pathfinder-RPG/Satyre.md) || 10
+|}
+</div></div>La forêt de Verduran est la plus grande forêt d'[Avistan](./Avistan.md) et chevauche les frontières entre l'[Andoran](./Andoran.md), le [Taldor](./Taldor.md) et le [Galt](./Galt.md).<sup>(1)</sup> Bien qu'ils se trouvent à l'intérieur des frontières de ces nations puissantes, les druides de la forêt y maintiennent un haut niveau d'autonomie, en particulier au Taldor.<sup>(2)</sup>
+
+#### Le Verduran en Andoran
+Dans la partie [andorane](./Andoran.md) de la forêt, qui comprend toutes les terres boisées à l'ouest du fleuve Sellen, les druides et les fées sont en constant conflit avec les bûcherons et les travailleurs du bois, et les deux partis en viennent fréquemment aux mains. L'exploitation forestière est une industrie majeure en Andoran, qui est confortable avec l'idée de permettre l'exploitation complète de la zone.<sup>(3)</sup> Une grande partie du côté andoran de la forêt est contrôlée par le puissant [Consortium du Bois](./Consortium du Bois.md), dont la cruauté et la cupidité gardent les pauvres citoyens de [Bellis](./Bellis.md) sous leur emprise.<sup>(4)</sup> Contrairement à ce zèle d'exploitation, les habitants du hameau de [Fusil](./Fusil.md) ont passé un pacte avec les druides et les fées de la forêt il y a des générations, leur permettant de vivre paisiblement dans la forêt, tant qu'ils n'abattent pas un seul de ses arbres.<sup>(5)</sup>
+
+La forêt de Verduran a donné son nom à l'une des cinq régions définies de la nation de l'[Andoran](./Andoran.md), les autres étant la [région d'Almas](./Région-dAlmas.md), [Arthfell](./Arthfell.md), les [Plaines de Carpenden](./Plaines de Carpenden.md) et le [Val de Sombrelune](./Val de Sombrelune.md).
+
+**Communautés.** [Bellis](./Bellis.md), [Fusil](./Fusil.md).
+**Points d'intérêts.** [Fourches Noires](./Fourches Noires.md), [Halte de Diggen](./Halte de Diggen.md).
+
+#### Le Verduran au Taldor
+Grâce au Traité de Bois-sauvage, signé entre les druides indigènes de la [Loge de Bois-sauvage](./Loge-de-Bois-sauvage.md) et l'empire [Taldorien](./Taldor.md) en 3841 AR, un équilibre a été atteint entre les besoins du Taldor en bois et la volonté de préservation des druides.<sup>(2)</sup> Le traité considère la forêt comme une préfecture semi-autonome et autorise une exploitation forestière et une chasse limitées dans la forêt, mais uniquement dans certaines zones définies.<sup>(6)</sup> Le quartier général des druides est situé sur l'[île d'Arenway](./Île-dArenway.md), au confluent de la Fourche de Verduran et du fleuve Sellen au cœur de la forêt.<sup>(7)</sup><sup>(8)</sup> La Loge de Bois-sauvage a permis aux gnomes de construire la colonie de [Wispil](./Wispil.md) dans la forêt afin d'établir une industrie forestière supervisée par les druides. Elle fournit maintenant du bois brut pour les Chantiers navals impériaux de [Cassomir](./Cassomir.md).<sup>(2)</sup>
+
+La forêt de Verduran couvrait autrefois la majeure partie du nord du [Taldor](./Taldor.md), avant que ses étendues orientales ne soient réduites par la nation en pleine croissance et qu'une grande partie des terres s'affaisse pour former des marécages. Aujourd'hui, le [marais de Noirbois](./marais-de-Noirbois.md), les zones humides de la [préfecture de Krearis](./préfecture-de-Krearis.md)<sup>(9)</sup> et le lac Lauchlein<sup>(10)</sup> se dressent sur les terres autrefois couvertes de forêt.
+
+**Communautés.** [Port du Pendu](./Port-du-Pendu.md), [Wispil](./Wispil.md).
+**Points d'intérêts.** [Dunholme](./Dunholme.md), [Guet brumeux](./Guet-brumeux.md), [Île d’Arenway](./Île-darenway.md), [Ruines de Nazilli](./Ruines-de-Nazilli.md), [Visage de Bafra](./Visage-de-Bafra.md).
+
+#### Créatures de Verduran
+Si les druides de Bois-sauvage veillent sur la forêt, elle n'en présente pas moins de nombreux dangers. Ceux-ci incluent des ettercaps, des fées sauvages, des dragons occasionnels et des pirates de rivière le long du fleuve Sellen et de la Fourche de Verduran,<sup>(2)</sup> ainsi que des plantes carnivores conscientes et des nids de vermine géante.<sup>(6)</sup>
+
+Les satyres de Noirbois sont une race tristement célèbre de fées indigènes de la forêt de Verduran. Ils tirent leur nom de l'arôme agréablement sucré de goudron de bois noir qu'ils dégagent. Les satyres de Noirbois prennent un malin plaisir à suivre les nobles seigneurs et dames lors de leur descente du fleuve Sellen, jouant des chansons de la rive de la rivière pour attirer les navires plus près et envoûter tout le monde à bord..<sup>(11)</sup>
+
+### Références
+**1.** James Jacobs et al. dans *[The Inner Sea World Guide](https://paizo.com/products/btpy8ief)* en 2011, p. 72. Paizo inc. ; **VF** *[Cadre de Campagne : La mer Intérieure](https://www.black-book-editions.fr/produit.php?id=2490)*, p.80
+
+**2.** Joshua J. Frost dans *[Taldor, Echoes of Glory](https://paizo.com/products/btpy8853)* en 2009, p. 7-8. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.298
+
+**3.** Hal Maclean, Colin Moulder-McComb, Jason Nelson, Jonathan Keith, et Hank Woon. dans *[Andoran, Spirit of Liberty](https://paizo.com/products/btpy8bc3)* en 2010, p. 9. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.173
+
+**4.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 39. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.39
+
+**5.** Hal Maclean, Colin Moulder-McComb, Jason Nelson, Jonathan Keith, et Hank Woon. dans *[Andoran, Spirit of Liberty](https://paizo.com/products/btpy8bc3)* en 2010, p. 20. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.184
+
+**6.** James Jacobs et al. dans *[The Inner Sea World Guide](https://paizo.com/products/btpy8ief)* en 2011, p. 185. Paizo inc. ; **VF** *[Cadre de Campagne : La mer Intérieure](https://www.black-book-editions.fr/produit.php?id=2490)*, p.180
+
+**7.** Erik Mona et al. dans *[Campaign Setting](https://paizo.com/products/btpy84eo)* en 2008, p. 44. Paizo inc.
+
+**8.** Joshua J. Frost dans *[Taldor, Echoes of Glory](https://paizo.com/products/btpy8853)* en 2009, deuxième de couverture. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.324
+
+**9.** Ray Vallese dans *[Fey Revisited](https://paizo.com/products/btpy8xeb)* en 2013, p. 56-57. Paizo inc.
+
+**10.** Tim Hitchcock et Jason Nelson dans *[Andoran, Birthplace of Freedom](https://paizo.com/products/btpy99gi)* en 2015, p. 49. Paizo Inc.

@@ -1,0 +1,477 @@
+---
+Name: Pathfinder-RPG.Liste des sorts dhypnotiseur
+Title: Liste des sorts d'hypnotiseur
+LastModified: 2025-06-20 17:19
+Categories:
+- Liste de sorts
+- Règle officielle
+- Src Aventures occultes
+---
+
+{s:MenuMagie}
+Un sort suivi d’un (M) ou d’un (F) dénote la présence d’une [composante matérielle](./composante matérielle.md) ou d’un [focalisateur](./focalisateur.md) qui ne se trouve normalement pas dans une [sacoche à composantes](./Sacoche à composantes (objet).md).
+Un sort suivi d'un (Y) possède une version mythique.
+
+**Ordre de présentation.** Dans la liste, les sorts et leur courte description sont présentées par ordre alphabétique, hormis quand ils appartiennent à une chaîne de sorts particulière.
+
+**[Dés de vie](./dés de vie.md).** Le terme « dés de vie » (ou DV) est synonyme de « niveau de personnage » pour les cibles affectées par les sorts (en effet, nombre de créatures ne peuvent pas progresser dans une classe de personnage ; elles n’ont pas de niveau mais des dés de vie).
+
+**[Niveau de lanceur](./NLS.md).** La puissance d’un sort dépend souvent du niveau de celui qui la jette. Sauf indication contraire, les créatures sans classe ont un niveau de lanceur égal à leur nombre de DV. Dans la description des sorts, le terme « niveau » désigne toujours le niveau de lanceur de celui qui les lance et non le niveau du sort.
+
+**Créatures et personnages.** Les termes « créature » et « personnage » sont considérés comme synonymes dans la description des sorts.
+
+Retour vers l'[hypnotiseur](./Hypnotiseur.md).
+
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
+{s:Reference|0}
+### Sorts de niveau 0
+- ***[Allié involontaire](./Allié involontaire.md)*** *(MJRA)*. Le sujet est considéré comme l'allié du personnage pendant 1 round.
+- ***[Aspect de fée hantée](./Aspect de fée hantée.md)*** *(AG)*. Le personnage s’entoure d’illusions inquiétantes.
+- ***[Berceuse](./Berceuse.md)***. Rend les sujets somnolents ; -5 aux tests Perception, -2 aux jets de Volonté contre sommeil.
+- ***[Détection d'importance psychique](./Détection dimportance psychique.md)*** *(AO)*. Trouve les objets à charge psychique.
+- ***[Détection de la magie](./Détection de la magie.md)***. Détecte sorts et objets magiques à 18 m à la ronde.
+- ***[Détection du poison](./Détection du poison.md)***. Détecte le poison chez une créature ou un petit objet.
+- ***[Fatigue](./Fatigue.md)***. Attaque de contact fatiguant la cible.
+- ***[Hébétement](./Hébétement.md)***. Fait perdre 1 action à un humanoïde de 4 DV ou moins.
+- ***[Illumination](./Illumination.md)***. Éblouit la cible (-1 aux jets d'attaque).
+- ***[Lecture de la magie](./Lecture de la magie.md)***. Permet de lire parchemins et livres de sorts.
+- ***[Lumière](./Lumière.md)***. Fait briller un objet comme une torche.
+- ***[Lumières dansantes](./Lumières dansantes.md)***. Crée torches ou autres lueurs.
+- ***[Manipulation à distance](./Manipulation à distance.md)***. Télékinésie limitée (2,5 kg max.).
+- ***[Message](./Message.md)***. Conversation à distance.
+- ***[Ouverture/fermeture](./Ouverturefermeture.md)***. Ouvre ou ferme portes, fenêtres ou objets.
+- ***[Prestidigitation](./Prestidigitation.md)***. Tours de passe-passe.
+- ***[Saignement](./sort Saignement.md)***. Une créature stabilisée agonise à nouveau.
+- ***[Son imaginaire](./Son imaginaire.md)***. Sons illusoires.
+
+{s:Reference|1}
+### Sorts de niveau 1
+- ***[Action interdite](./Action interdite.md)*** *(AM)*. La cible obéit au personnage qui lui interdit de faire quelque chose.
+- ***[Adoration](./Adoration.md)*** *(AG)*. Le personnage gagne un bonus aux tests de Diplomatie et de combat de spectacle.
+- ***[Alignement indétectable](./Alignement indétectable.md)***. Masque l'alignement pendant 24 heures.
+- ***[Altération vocale](./Altération vocale.md)*** *(AM)*. Déguise la voix.
+- ***[Anathème](./Anathème.md)***. Inflige un malus de -2 aux jets d'attaque, aux jets de sauvegarde et aux tests.
+- ***[Anticipation du danger](./Anticipation du danger.md) (Y)*** *(AM)*. La cible gagne un bonus à un test d'initiative.
+- ***[Aphasie](./Aphasie.md)*** *(UI)*. Empêche la cible de comprendre un quelconque langage.
+- ***[Appel d'un animal](./Appel dun animal.md) (Y)*** *(MJRA)*. Fait venir un animal au personnage.
+- ***[Arme déguisée](./Arme déguisée.md)*** *(MCA)*. Change l’apparence d’une arme.
+- ***[Aura magique](./Aura magique.md)***. Crée une fausse aura magique.
+- ***[Bafouiller](./Bafouiller.md)*** *(AM)*. La cible ne peut plus parler de façon intelligible.
+- ***[Blocage mental](./Blocage mental.md)*** *(AO)*. Empêche la cible d’utiliser ses rangs de compétence, ses sorts, ses dons et ses pouvoirs.
+- ***[Bouche magique](./Bouche magique.md) (M)***. Délivre un message quand on la déclenche.
+- ***[Bouffée d'intuition](./Bouffée dintuition.md)*** *(AO)*. Bonus de +8 à l’Int, la Sag ou le Cha pendant un jet puis hébétement pendant 1 round.
+- ***[Boulette](./Boulette.md)*** *(AM)*. La cible reçoit un malus de -20 à son prochain jet d'attaque ou test.
+- ***[Brume de dissimulation](./Brume de dissimulation.md) (Y)***. Le PJ est entouré de brouillard.
+- ***[Calme illusoire](./Calme illusoire.md)*** *(AG)*. On dirait que le personnage est immobile alors qu’il agit.
+- ***[Caméléon](./caméléon.md) ([Elfe](./Elfe.md))*** *(MR)*. Le personnage gagne un bonus de +4 aux tests de Discrétion.
+- ***[Charger un objet](./Charger un objet.md)*** *(AO)*. Imprègne un objet d’énergie psychique et de l’histoire de son propriétaire.
+- ***[Charmant cadeau](./charmant cadeau.md)*** *(MJRA)*. Le sujet accepte immédiatement un objet offert et l’utilise.
+- ***[Charme-personne](./Charme-personne.md)***. La cible devient l'ami du PJ.
+- ***[Combattant pris au dépourvu](./Combattant pris au dépourvu.md)*** *(AM)*. -4 aux tests d'initiative et de Réflexes de la cible.
+- ***[Compréhension des langages](./Compréhension des langages.md)***. Le PJ comprend tous les langages écrits ou parlés.
+- ***[Confusion mineure](./Confusion mineure.md)***. Une créature est confuse pendant 1 round.
+- ***[Conscience accrue](./Conscience accrue.md)*** *(MCA)*. La mémoire et la capacité du personnage à traiter les informations sont améliorées.
+- ***[Corde animée](./Corde animée.md)***. Une corde bouge sur ordre du PJ.
+- ***[Couleurs dansantes](./Couleurs dansantes.md) (Y)***. Assomme, aveugle et/ou étourdit 1d6 créatures.
+- ***[Crime de situation](./Crime de situation.md)*** *(UI)*. Pousse la cible à commettre un acte criminel.
+- ***[Déguisement](./sort Déguisement.md)***. Modifie l'apparence du PJ.
+- ***[Déguisement décrépi](./Déguisement décrépi.md)*** *(AO)*. Donne l’impression qu’un objet n’a aucune valeur.
+- ***[Déjà vu](./Déjà vu.md)*** *(AO)*. Oblige une créature à répéter ses actions.
+- ***[Désir anormal](./Désir anormal.md)*** *(AM)*. La cible est obligée d'en embrasser ou d'en caresser une autre.
+- ***[Détection des charmes](./Détection des charmes.md)*** *(RSE)*. Détece les effets de charme, de coercition et de possession dans la zone d'effet.
+- ***[Détection des morts-vivants](./Détection des morts-vivants.md)***. Révèle les morts-vivants à 18 m ou moins.
+- ***[Détection des passages secrets](./Détection des passages secrets.md)***. Révèle les passages secrets à 18 m ou moins.
+- ***[Diagnostic](./Diagnostic.md)*** *(AM)*. Détecte et identifie les maladies.
+- ***[Disparition](./Disparition.md)*** *(MJRA)*. Comme *invisibilité* pendant 1 round/niveau (Max 5 rounds).
+- ***[Dissimulation d'objet](./Dissimulation dobjet.md)***. Dissimule un objet à la scrutation.
+- ***[Dissipation de la fièvre](./Dissipation de la fièvre.md)*** *(AM)*. Supprime les conditions malade, nauséeux et fiévreux.
+- ***[Écho des pensées](./Écho des pensées.md)*** *(AO)*. Remplace les pensées de surface par un écho mental.
+- ***[Fierté illusoire](./Fierté illusoire.md)*** *(AM)*. La cible a un malus aux jets d'attaque et aux tests mais un bonus contre le charme et la coercition.
+- ***[Fou rire](./Fou rire.md) (Y)***. La cible perd ses actions pendant 1 round/niveau.
+- ***[Frayeur](./Frayeur.md)***. Une créature possédant 5 DV ou moins fuit pendant 1d4 rounds.
+- ***[Graisse](./Graisse.md) (Y)***. Rend glissant un objet ou une zone (3 m de côté).
+- ***[Hallucination auditive](./Hallucination auditive.md)*** *(UI)*. Crée un fantasme qui inclut des éléments auditifs.
+- ***[Hostilité forcée](./Hostilité forcée.md)*** *(AG)*. Oblige les adversaires à attaquer le personnage au lieu de ses alliés.
+- ***[Hypnose](./Hypnose.md)***. Fascine 2d4 DV de créatures.
+- ***[Image silencieuse](./Image silencieuse.md) (Y)***. Illusion visuelle mineure.
+- ***[Implantation de pensées](./Implantation de pensées.md) ([Changelin](./changelin (race).md))*** *(MR)*. Implante des idées dans l'esprit de la cible.
+- ***[Imprécation](./Imprécation.md) (Y)***. Les adversaires subissent -1 à l'attaque et aux jets de sauvegarde contre la terreur.
+- ***[Injonction](./Injonction.md) (Y)***. La cible obéit à un ordre d'un mot pendant 1 round.
+- ***[Innocence](./Innocence.md)*** *(MJRA)*. Gagne +10 aux tests de Bluff pour paraître innocent.
+- ***[Interrogatoire](./Interrogatoire.md)*** *(AM)*. La cible répond aux questions ou souffre.
+- ***[Jitterbug](./jitterbug.md) (Y) ([Gnome](./Gnome.md))*** *(MR)*. Rend la cible nerveuse, lui imposant un malus aux tests de Dextérité, aux tests basés sur la Dextérité, et l'empêchant de retarder une action, d'en préparer ou de se mettre en défense totale.
+- ***[Lecture psychique](./Lecture psychique.md)*** *(AO)*. Lecture des pensées de surface pour obtenir des informations sur un sujet.
+- ***[Lien mental](./Lien mental.md)*** *(AO)*. Communique une grande quantité d’informations en un instant.
+- ***[Lueur féerique](./Lueur féerique.md) (Y)***. Illumine le sujet (annule flou, camouflage, etc.).
+- ***[Maladresse](./Maladresse.md)*** *(MJRA)*. Le sujet perd 1d6+1 Dex/2 niveaux et risque de tomber.
+- ***[Mauvais présage](./mauvais présage.md) (Y)*** *(MJRA)*. La cible lance deux fois les dés pour les tests et les attaques et prend le résultat le moins bon.
+- ***[Mémorisation de page](./Mémorisation de page.md)*** *(MCA)*. La cible mémorise parfaitement une page d’informations.
+- ***[Menteur compulsif](./Menteur compulsif.md)*** *(UI)*. Empêche la cible de dire la vérité.
+- ***[Montée d'adrénaline](./Montée dadrénaline.md)*** *(AO)*. Bonus de +8 à la For, la Dex ou la Con pour un jet puis fatigue pendant 1 round.
+- ***[Mouvement flou](./Mouvement flou.md)*** *(MCA)*. Comme *flou*, mais uniquement quand le personnage se déplace.
+- ***[Offrande exigée](./Offrande exigée.md)*** *(AO)*. Oblige une créature à donner l’objet qu’elle tient.
+- ***[Ordre assassin](./Ordre assassin.md) (Y)*** *(AM)*. La cible est obligée de tuer un allié.
+- ***[Panacée universelle](./Panacée universelle.md)*** *(AM)*. Effet relaxant ou divertissant.
+- ***[Paranoïa](./Paranoïa.md)*** *(AO)*. La cible devient hostile à toutes les créatures.
+- ***[Partage de la langue](./Partage de la langue.md)*** *(MJRA)*. Le sujet comprend une langue choisie.
+- ***[Perception des proches](./Perception des proches.md)*** *(MCA)*. Le personnage lit l’esprit de la cible pour en apprendre plus sur la famille de celle-ci.
+- ***[Poison masqué](./Poison masqué.md) (M)*** *(UI)*. Rend plus difficile de détecter un poison ou une créature venimeuse.
+- ***[Projection télempathique](./Projection télempathique.md)*** *(AO)*. Modifie l’attitude de la cible ou donne des bonus à ceux qui interagissent avec elle.
+- ***[Protection contre le vol](./Protection contre le vol.md) (Y) ([Tengu](./Tengu (race).md))*** *(MR)*. +10 aux tests de Perception pour remarquer quelqu'un qui tente de subtiliser un objet précis.
+- ***[Quintessence](./Quintessence.md)*** *(AO)*. Masque les défauts ou les blessures d’une créature ou d’un objet.
+- ***[Rayon affaiblissant](./Rayon affaiblissant.md) (Y)***. La cible perd 1d6 points de For, +1/2 niveaux.
+- ***[Rayon de fièvre](./Rayon de fièvre.md)*** *(AM)*. Le rayon rend la cible fiévreuse.
+- ***[Rechargement de la magie innée](./rechargement de la magie innée.md) ([Gnome](./Gnome.md))*** *(MR)*. Récupère une utilisation quotidienne d'un pouvoir magique de niveau 0 ou de niveau 1.
+- ***[Regain d'assurance](./Regain dassurance.md)***. +4 aux jets de sauvegarde contre la terreur (un sujet, +1/4 niveaux).
+- ***[Repli expéditif](./Repli expéditif.md) (Y)***. Augmente la vitesse de déplacement de 9 m.
+- ***[Revigorer](./Revigorer.md)*** *(MJRA)*. Soulage temporairement de la fatigue ou de l'épuisement.
+- ***[River le regard](./River le regard.md)*** *(AG)*. Oblige la cible à regarder uniquement le personnage pendant toute la durée du sort.
+- ***[Serviteur invisible](./Serviteur invisible.md)***. Force invisible obéissant au PJ.
+- ***[Silence forcé](./Silence forcé.md)*** *(AM)*. La cible ne peut pas faire de bruit important.
+- ***[Sommeil](./Sommeil.md) (Y)***. Endort 4 DV de créatures.
+- ***[Trou de mémoire](./Trou de mémoire.md) (Y)*** *(MJRA)*. Le sujet oublie les évènements qui se sont déroulés depuis le dernier tour.
+- ***[Ventriloquie](./Ventriloquie.md)***. Permet de parler à distance pendant 1 minute/niveau.
+- ***[Vieillesse apparente](./Vieillesse apparente.md)*** *(UI)*. La cible semble plus vieille.
+- ***[Vol de soins](./Vol de soins.md) (Y)*** *(AG)*. Le personnage siphonne la moitié des soins magiques que la créature visée reçoit.
+
+{s:Reference|2}
+### Sorts de niveau 2
+- ***[Accorder une intuition](./accorder une intuition.md) ([Humain](./Humain.md))*** *(MR)*. Améliore une compétence à laquelle le personnage est déjà formé.
+- ***[Accoutrement honteux](./Accoutrement honteux.md)*** *(UI)*. Force la cible à retirer un équipement.
+- ***[Affliction imaginaire](./Affliction imaginaire.md)*** *(UI)*. Convainc la cible qu'elle subit une affliction.
+- ***[Allié compatissant](./Allié compatissant.md)*** *(AM)*. La cible est obligée d'aider un allié blessé.
+- ***[Ancre d'ombre](./Ancre dombre.md) (Y) ([Wayang](./wayang (race).md))*** *(MR)*. Ancre l'ombre de la cible au sol, ce qui empêche tout déplacement.
+- ***[Anticipation des pensées](./Anticipation des pensées.md)*** *(AO)*. Bonus de plus en plus élevés à la CA et aux jets d’attaque et de dégâts contre une créature.
+- ***[Apaisement des émotions](./Apaisement des émotions.md)***. Calme des créatures.
+- ***[Blocage cognitif](./Blocage cognitif.md)*** *(AO)*. Ajoute une composante intellectuelle à tous les sorts de la cible.
+- ***[Blocage émotionnel](./Blocage émotionnel.md)*** *(AO)*. Ajoute une composante émotionnelle à tous les sorts de la cible.
+- ***[Bouclier de rêves](./Bouclier de rêves.md)*** *(OO)*. Protège l'esprit d'une créature lorsqu'elle est inconsciente.
+- ***[Bredouillement](./Bredouillement.md)*** *(AO)*. La cible est nauséeuse et les créatures proches sont fascinées.
+- ***[Brume crépusculaire](./Brume crépusculaire.md)*** *(MCA)*. Brouillard illusoire qui obscurcit la vision.
+- ***[Brume hantée](./Brume hantée.md)*** *(AM)*. Les créatures sont secouées et subissent des affaiblissements de Sagesse.
+- ***[Catatonie](./Catatonie.md)*** *(AO)*. Une cible consentante semble morte.
+- ***[Cécité/surdité](./Cécitésurdité.md) (Y)***. Rend la cible aveugle ou sourde.
+- ***[Climat de confiance](./Climat de confiance.md)*** *(UI)*. Confère différents bonus lorsque le personnage interagit avec la cible.
+- ***[Coeur dévasté](./Coeur dévasté.md)*** *(MCA)*. Une attaque de contact qui inflige 2d6 points de dégâts et fait chanceler la cible.
+- ***[Communion avec les oiseaux](./Communion avec les oiseaux.md) ([Tengu](./Tengu (race).md))*** *(MR)*. Permet de communiquer avec les oiseaux.
+- ***[Confession](./Confession.md)*** *(MJRA)*. La créature répond honnêtement aux questions ou subit 1d6 point de dégâts /deux niveaux (Max. 5d6).
+- ***[Contact défigurant](./Contact défigurant.md) (Y)*** *(AM, LD)*. La cible est défigurée.
+- ***[Déblocage](./Déblocage.md) (Y)***. Ouvre les portes fermées, même par magie.
+- ***[Dégoût](./Dégoût.md)*** *(AO)*. La cible évite un objet ou un lieu.
+- ***[Déguisement fantomatique](./Déguisement fantomatique.md)*** *(AM)*. La cible ressemble à son propre fantôme.
+- ***[Démarche décalibrée](./Démarche décalibrée.md)*** *(UI)*. Les sons produits par la cible semblent venir d'un autre point de l'espace.
+- ***[Détection de la magie suprême](./Détection de la magie suprême.md)*** *(UI)*. Comme *détection de la magie* mais révèle plus d'informations.
+- ***[Détection de paysage mental](./Détection de paysage mental.md)*** *(AO)*. Perçoit la présence et les attributs d’un paysage mental.
+- ***[Détection de pensées](./Détection de pensées.md)***. Permet d'écouter les pensées superficielles.
+- ***[Détection des angoisses](./Détection des angoisses.md)*** *(UI)*. Révèle les pires angoisses des créatures à 18 m à la ronde.
+- ***[Détection faussée](./Détection faussée.md)***. Abuse les divinations lancées sur la cible (créature ou objet).
+- ***[Discours captivant](./Discours captivant.md)***. Captive à 30 m (+3 m/niveau) à la ronde.
+- ***[Don des langues](./Don des langues.md)***. Permet de parler toutes les langues.
+- ***[Eau rouge](./Eau rouge.md) ([Sahuagin](./Sahuagin.md))*** *(CM)*. Confère la frénésie inspirée par le sang aux créatures dans la zone.
+- ***[Effet placebo](./Effet placebo.md)*** *(AO)*. Supprime temporairement une affliction ou un état préjudiciable.
+- ***[Effroi](./Effroi.md)***. Panique les créatures ayant moins de 6 DV.
+- ***[Engouement téméraire](./Engouement téméraire.md)*** *(AM)*. La cible est obligée de rester à côté d'une autre.
+- ***[Ennui oppressant](./Ennui oppressant.md)*** *(AM)*. La cible perd sa prochaine action.
+- ***[Entremise](./Entremise.md)*** *(UI)*. Pousse deux créatures à tomber amoureuses.
+- ***[Entrer dans une image](./Entrer dans une image.md)*** *(MJRA)*. Transfère la conscience du personnage dans un objet à son effigie.
+- ***[Enveloppement des pensées](./Enveloppement des pensées.md)*** *(AO)*. Protège contre la détection de pensées et la modification de mémoire.
+- ***[Esprit investigateur](./Esprit investigateur.md)*** *(MCA)*. Quand le personnage utilise certaines compétences mentales, fait deux jets et garde le meilleur résultat.
+- ***[Examen approfondi](./Examen approfondi.md)*** *(MCA)*. Le personnage gagne des bonus de compétence lorsqu’il interagit avec la cible.
+- ***[Faux souvenir](./Faux souvenir.md)*** *(UI)*. Implante temporairement un mauvais souvenir dans l'esprit de la cible.
+- ***[Faveur conditionnelle](./Faveur conditionnelle.md)*** *(UI)*. Confère les effets d'un autre sort qui s'inversent si la cible ignore une restriction établie.
+- ***[Flou](./Flou.md)***. Chaque attaque a 20 % de chances de rater la cible.
+- ***[Folle hallucination](./Folle hallucination.md)*** *(AM)*. La cible subit des malus aux actions mentales.
+- ***[Fustiger](./Fustiger.md)*** *(MJRA)*. La cible est secouée et se recroqueville de peur.
+- ***[Grâce féline](./Grâce féline.md)***. Confère +4 en Dex pendant 1 minute/niveau.
+- ***[Hébétement de monstre](./Hébétement de monstre.md)***. Une créature vivante de 6 DV ou moins perd sa prochaine action.
+- ***[Horreur onirique](./Horreur onirique.md)*** *(AO)*. Une créature issue des cauchemars de la cible la distrait et la fatigue.
+- ***[Hurlement d'agonie](./Hurlement dagonie.md)*** *(AM)*. Une douleur à hurler limite les actions de la cible.
+- ***[Hypnose des animaux](./Hypnose des animaux.md)***. Fascine 2d6 DV d'animaux.
+- ***[Idiotie](./Idiotie.md)***. Le sujet perd 1d6 points d'Int, de Sag et de Cha.
+- ***[Image imparfaite](./Image imparfaite.md)***. Comme *image silencieuse*, plus sons limités.
+- ***[Image miroir](./Image miroir.md) (Y)***. Crée des doubles illusoires du PJ.
+- ***[Immobilisation d'animal](./Immobilisation danimal.md)***. Immobilise un animal pour 1 round/niveau.
+- ***[Immobilisation de personne](./Immobilisation de personne.md)***. Immobilise un humanoïde pendant 1 round/niveau.
+- ***[Implantation de lecture factice](./Implantation de lecture factice.md)*** *(AO)*. Imprègne un objet d’une fausse impression psychique.
+- ***[Infliger des souffrances](./Infliger des souffrances.md)*** *(AO)*. La cible subit un malus de –4 aux jets d’attaque ainsi qu’aux tests de compétence et de caractéristique.
+- ***[Interaction anonyme](./Interaction anonyme.md)*** *(MCA)*. Fait oublier aux cibles toutes les informations qu’elles ont apprises sur lui en dehors des plus superficielles.
+- ***[Invective cuisante](./Invective cuisante.md) (Y)*** *(AG)*. Le personnage fait un test d’Intimidation contre tous les adversaires situés dans les 9 m. Ceux qu’il démoralise subissent des dégâts de feu.
+- ***[Invisibilité](./Invisibilité.md) (Y)***. Sujet invisible pendant 1 minute/niveau ou jusqu'à ce qu'il attaque.
+- ***[L'esprit dépasse la matière](./Lesprit dépasse la matière.md)*** *(OO)*. Réattribue les affaiblissements/diminutions d'une caractéristique à une autre.
+- ***[Lancer un duel psychique](./Lancer un duel psychique.md)*** *(AO)*. Initie un duel psychique entre le personnage et une autre créature.
+- ***[Langage caché](./Langage caché.md)*** *(MJRA)*. +10 aux tests de Bluff pour envoyer des messages secrets.
+- ***[Langage codé](./Langage codé.md)*** *(UI)*. Le personnage et les cibles parlent, lisent et écrivent un langage unique.
+- ***[Langue de miel](./Langue de miel.md)*** *(MJRA)*. Le personnage lance 2 dés pour les tests de Diplomatie et conserve le meilleur.
+- ***[Lecture d'objet](./Lecture dobjet.md)*** *(AO)*. Lit les impressions psychiques laissées sur un objet.
+- ***[Lévitation](./Lévitation.md) (Y)***. La cible monte ou descend au gré du PJ.
+- ***[Livre ouvert](./Livre ouvert.md)*** *(UI)*. Maudit la cible pour qu'il soit plus facile d'en apprendre plus sur elle.
+- ***[Localisation d'objet](./Localisation dobjet.md)***. Indique la direction de l'objet cherché.
+- ***[Lueurs hypnotiques](./Lueurs hypnotiques.md)***. Fascine (2d4 + niveau) DV de créatures.
+- ***[Main vagabonde](./Main vagabonde.md)*** *(AG)*. Le personnage peut prendre un objet ou le manipuler de loin.
+- ***[Manteau de calme](./Manteau de calme.md)*** *(MCA)*. Neutralise les effets de rage de ceux qui ont attaqué le personnage.
+- ***[Messager animal](./Messager animal.md)***. Envoie un animal de taille TP en un lieu donné.
+- ***[Messager verrouillé](./Messager verrouillé.md)*** *(MCA)*. La cible est investie d’un message qu’elle ne peut remettre qu’au destinataire voulu.
+- ***[Misérable pitié](./Misérable pitié.md)*** *(AM)*. L'adversaire ne peut pas attaquer une créature pathétique.
+- ***[Modification d'apparence](./Modification dapparence.md)***. Permet d'adopter la forme d'une créature de taille P ou M.
+- ***[Mondanité](./Mondanité.md)*** *(UI)*. La cible utilise les rangs de Connaissances (noblesse) du personnage.
+- ***[Monture de guerre](./Monture de guerre.md)*** *(AM)*. Un animal devient entraîné au combat.
+- ***[Nuage euphorisant](./Nuage euphorisant.md) (M)*** *(MCA)*. Brume qui obscurcit la vision et fascine les créatures vivantes.
+- ***[Partage de la langue (partagé)](./Partage de la langue (partagé).md)*** *(AG)*. Comme *partage de la langue* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Partage des souvenirs](./Partage des souvenirs.md)*** *(AM)*. Partage un souvenir avec la cible.
+- ***[Perception des indices](./Perception des indices.md)*** *(MJRA)*. +5 Perception et Psychologie 10 min/niveau.
+- ***[Piège illusoire](./Piège illusoire.md) (M)***. Confère l'impression qu'un objet est piégé.
+- ***[Poussière scintillante](./Poussière scintillante.md)***. Aveugle, révèle la position des créatures invisibles.
+- ***[Présence cachée](./sort Présence cachée.md)*** *(UI)*. Empêche les autres créatures de remarquer la présence du personnage.
+- ***[Pur dégoût](./Pur dégoût.md)*** *(AM)*. La cible est obligée d'éviter une créature.
+- ***[Pyrotechnie](./Pyrotechnie.md)***. Transforme un feu en fumée étouffante ou en lumière aveuglante.
+- ***[Racontar](./Racontar.md)*** *(UI)*. Trace une rumeur pour suivre sa progression.
+- ***[Rage](./Rage.md)***. Confère +2 en For et en Con, +1 aux jets de Vol, -2 à la CA.
+- ***[Rage jalouse](./Rage jalouse.md)*** *(OO)*. Emplit la cible d'un sentiment d'arrogance injustifiée.
+- ***[Rage morte-vivante](./Rage morte-vivante.md)*** *(MCA)*. Comme *rage*, mais n’affecte que les morts-vivants.
+- ***[Ralentissement du poison](./Ralentissement du poison.md)***. Neutralise le poison pendant 1 heure/niveau.
+- ***[Regard brûlant](./Regard brûlant.md) (Y)*** *(MJRA)*. Inflige 1d6 points de dégâts de feu à une créature.
+- ***[Rejeter la faute](./Rejeter la faute.md)*** *(UI)*. La cible croit qu'une autre créature est responsable de l'action du personnage.
+- ***[Restauration partielle](./Restauration partielle.md)***. Dissipe effets magiques affaiblissants ou rend 1d4 points de caractéristique perdus.
+- ***[Retardement de la douleur](./Retardement de la douleur.md)*** *(AM)*. Ignore la douleur pendant 1 heure/niveau.
+- ***[Retardement des maladies](./Retardement des maladies.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)*. Le personnage obtient une immunité temporaire aux maladies.
+- ***[Sangsue psychique](./Sangsue psychique.md)*** *(OO)*. Ponctionne la force de la cible, la forçant à devenir fatiguée pour renforcer le personnage.
+- ***[Scrupule](./Scrupule.md)*** *(AG)*. La cible a un malus aux tests de caractéristique, de compétence et de Concentration tant qu’elle n’a pas passé un round entier sans rien faire.
+- ***[Silence](./Silence.md) (Y)***. Étouffe tout bruit dans un rayon de 6 m.
+- ***[Simulacre de vie](./Simulacre de vie.md) (Y)***. Confère 1d10 pv temporaires, +1/niveau (max. +10).
+- ***[Son étouffé](./Son étouffé.md)*** *(MCA)*. Les alliés gagnent un bonus aux tests de Discrétion mais sont soumis au risque d’échec des sorts verbaux.
+- ***[Splendeur de l'aigle](./Splendeur de laigle.md)***. Confère +4 en Cha pendant 1 minute/niveau.
+- ***[Suggestion](./Suggestion.md) (Y)***. Force la cible à accomplir un acte décidé par le PJ.
+- ***[Suppression des charmes et de la coercition](./Suppression des charmes et de la coercition.md)*** *(RSE)*. Confère un bonus aux jets de sauvegarde contre, ou supprime, les effets de charme et de coercition.
+- ***[Symbole de miroir](./Symbole de miroir.md) (M)*** *(AM)*. Déclenche une rune qui crée des images miroir.
+- ***[Table silencieuse](./Table silencieuse.md)*** *(MCA)*. Le personnage s’accorde une certaine intimité en étouffant les sons provenant de la zone.
+- ***[Transport d'objet](./Transport dobjet.md)*** *(AO)*. Envoie ou reçoit un petit objet par téléportation.
+- ***[Vent de murmures](./Vent de murmures.md)***. Transmet un court message à 1,5 km de distance/niv.
+- ***[Vocabulaire savant](./Vocabulaire savant.md)*** *(UI)*. La cible peut parler, lire et écrire un ou plusieurs langages pendant 8 heures.
+- ***[Vol de souffle](./Vol de souffle.md) ([Homme-félin](./homme-félin (race).md))*** *(MR)*. Extrait l'air des poumons d'une créature.
+- ***[Vol de voix](./Vol de voix.md)*** *(AM)*. La cible est frappée de la plaie magique coassement.
+
+{s:Reference|3}
+### Sorts de niveau 3
+- ***[Amplificateur sensoriel](./Amplificateur sensoriel.md)*** *(OO)*. Stimule les sens de toutes les créatures autour du personnage.
+- ***[Analyse d'aura](./Analyse daura.md)*** *(AO)*. Déchiffre les auras d’alignement, d’émotion, de santé et de magie d’une créature ou d’un objet.
+- ***[Antidétection](./Antidétection.md) (M)***. Protège contre la scrutation et les divinations.
+- ***[Appel des nixes](./Appel des nixes.md) ([Ondin](./Ondin (race).md))*** *(MR)*. Force 24 DV de créatures à s'avancer vers le lanceur de sort.
+- ***[Aura de l'insignifiant](./Aura de linsignifiant.md)*** *(UI)*. Les actions du personnages paraissent ordinaires pour les créatures affectées.
+- ***[Aura magique suprême](./Aura magique suprême.md)*** *(UI)*. Comme *aura magique* mais affecte les créatures et offre plus de possibilités.
+- ***[Bagou](./Bagou.md)***. Confère +20 aux tests de Bluff ; résiste aux divinations censées détecter les mensonges.
+- ***[Baiser du vampire](./Baiser du vampire.md) (Y)***. 1d6 points de dégâts/2 niveaux, récupérés sous forme de pv par le PJ.
+- ***[Brouillage synaptique](./Brouillage synaptique.md)*** *(AO)*. Empêche la cible de communiquer et l’oblige à agir de manière erratique.
+- ***[Chagrin écrasant](./Chagrin écrasant.md)*** *(AM)*. La cible attristée ne peut pas faire d'action et n'a plus son bonus de Dex.
+- ***[Charme-monstre](./Charme-monstre.md)***. Le monstre croit être l'allié du PJ.
+- ***[Chœur hanté](./Chœur hanté.md)*** *(AM)*. Des esprits infligent des souffrances aux auditeurs.
+- ***[Clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)***. Permet d'entendre ou de voir de loin pendant 1 minute/niveau.
+- ***[Communication à distance](./Communication à distance.md) (Y)***. Transmet un court message n'importe où.
+- ***[Confusion](./Confusion.md) (Y)***. Le sujet se comporte bizarrement pendant 1 round/niv.
+- ***[Contrefaçon instantanée](./Contrefaçon instantanée.md)*** *(UI)*. Manifeste une réplique éphémère d'un objet.
+- ***[Contrôle des créatures convoquées](./Contrôle des créatures convoquées.md)*** *(AM)*. Le personnage dirige un monstre convoqué comme si c'était lui qui l'avait appelé.
+- ***[Coupe de poussière](./Coupe de poussière.md) (Y)*** *(MJRA)*. Déshydrate une créature.
+- ***[Déguisement ajustable](./Déguisement ajustable.md)*** *(MCA)*. Comme *déguisement*, mais le personnage peut changer de déguisement par une action rapide.
+- ***[Délivrance des malédictions](./Délivrance des malédictions.md)***. Libère des malédictions.
+- ***[Déplacement](./Déplacement.md)***. Chaque attaque a 50 % de chances de rater la cible.
+- ***[Désespoir foudroyant](./Désespoir foudroyant.md)***. Les sujets subissent -2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests.
+- ***[Détection de l'invisibilité](./Détection de linvisibilité.md)***. Révèle créatures et objets invisibles.
+- ***[Détection des désirs](./Détection des désirs.md)*** *(UI)*. Révèle les plus grands désirs des créatures à 18 m à la ronde.
+- ***[Dissipation de la magie](./Dissipation de la magie.md) (Y)***. Annule sorts et effets magiques.
+- ***[Domination d'animal](./Domination danimal.md)***. L'animal obéit aux ordres télépathiques du PJ.
+- ***[Don des langues (partagé)](./Don des langues (partagé).md)*** *(AG)*. Comme *don des langues* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Double terrifiant](./double terrifiant.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Créé un double menaçant du personnage pour intéragir avec les autres.
+- ***[Échange d'objet](./Échange dobjet.md)*** *(UI)*. Téléporte l'objet ciblé à la place de l'objet utilisé et vice versa.
+- ***[Ennemi des enchantements](./Ennemi des enchantements.md)*** *(MCA)*. Le personnage dupe les adversaires qui essayent de lancer des enchantements sur lui.
+- ***[Esprit malveillant](./Esprit malveillant.md) (M)*** *(AM)*. La cible est obligée de comploter contre une autre.
+- ***[Faux avenir](./Faux avenir.md) (M)*** *(UI)*. Les divinations qui dévoilent l'avenir de la cible montrent une invention du personnage à la place.
+- ***[Gloire dépréciée](./Gloire dépréciée.md)*** *(CMy)*. Augmente le coût d'utilisation des pouvoirs mythiques de la cible.
+- ***[Guérison de la cécité/surdité](./Guérison de la cécitésurdité.md)***. Soigne la cécité ou la surdité.
+- ***[Hallucination audiovisuelle](./Hallucination audiovisuelle.md)*** *(UI)*. Crée un fantasme qui inclut des éléments auditifs et visuels.
+- ***[Horreur onirique suprême](./Horreur onirique suprême.md)*** *(AO)*. Comme *horreur onirique* en ajoutant des dégâts à la For.
+- ***[Image accomplie](./Image accomplie.md)***. Comme *image silencieuse*, plus sons, odeurs et température.
+- ***[Isoler](./Isoler.md) ([Gobelours](./Gobelours.md))*** *(CM)*. La cible devient invisible et silencieuse mais seulement vis-à-vis de ses alliés.
+- ***[Langue élémentaire](./Langue élémentaire.md)*** *(MJRA)*. Permet au personnage de parler aux élémentaires et à certaines créatures.
+- ***[Lévitation hostile](./Lévitation hostile.md)*** *(AG)*. Fait léviter la créature visée.
+- ***[Loin des yeux](./Loin des yeux.md)*** *(OO)*. Les créatures qui voient le personnage l'oublient dès qu'il quitte leur champ de vision.
+- ***[Malédiction](./sort Malédiction.md)***. -6 à une caractéristique, -4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence, ou 50 % de chances de perdre chaque action.
+- ***[Malédiction conditionnelle](./Malédiction conditionnelle.md)*** *(UI)*. Impose une malédiction difficile à dissiper sans remplir les conditions établies.
+- ***[Malédiction de dégoût](./Malédiction de dégoût.md)*** *(AM)*. Cible fiévreuse quand elle voit le déclencheur.
+- ***[Malédiction de négation magique](./Malédiction de négation magique.md) (M)*** *(AM)*. La cible est affectée par la plaie magique de négation.
+- ***[Message suggestif](./Message suggestif.md)*** *(UI)*. Permet de communiquer comme avec *message* mais lance une *suggestion* sur une des cibles.
+- ***[Mission](./Mission.md)***. Assigne une tâche à une cible de 7 DV ou moins.
+- ***[Modification d'aura](./Modification daura.md)*** *(AO)*. Masque les auras d’alignement, d’émotion, de santé et de magie d’une créature ou d’un objet.
+- ***[Narcissisme suffisant](./Narcissisme suffisant.md)*** *(AM)*. La cible est distraite par sa propre personne.
+- ***[Nodule explosif](./Nodule explosif.md)*** *(AO)*. Place un piège sur un objet, afin d’endommager le mental de la créature qui le touche.
+- ***[Page secrète](./Page secrète.md)***. Modifie une page pour cacher son contenu.
+- ***[Porte sur un paysage mental](./Porte sur un paysage mental.md)*** *(AO)*. Crée un portail permettant d’entrer et de sortir d’un paysage mental.
+- ***[Possession de marionnette](./Possession de marionnette.md)*** *(AM)*. Comme *possession* mais limité à la ligne de mire.
+- ***[Possession spirituelle d'objet inférieure](./Possession spirituelle dobjet inférieure.md)*** *(AO)*. Projette l’âme du personnage dans un objet qu’elle anime.
+- ***[Projection implantée](./Projection implantée.md)*** *(OO)*. Comme *projection télempathique*, mais les effets restent dormants.
+- ***[Pulsation synaptique](./Pulsation synaptique.md)*** *(AO)*. Étourdit les créatures dans un rayon de 9 mètres.
+- ***[Rancune](./Rancune.md) (M)*** *(MJRA)*. Inflige un sort de contact sur la créature qui attaque le personnage.
+- ***[Rayon d'épuisement](./Rayon dépuisement.md)***. Un rayon épuise la cible.
+- ***[Recherche de pensées](./Recherche de pensées.md)*** *(MJRA)*. Détecte les pensées des créatures intelligentes.
+- ***[Reproche déchirant](./Reproche déchirant.md) ([Hobgobelin](./Hobgobelin (race).md))*** *(MR)*. La cible qui attaque le lanceur de sort subi des dégâts non-létaux.
+- ***[Réservoir de résilience](./réservoir de résilience.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Stocke les dégâts subits par le personnage en énergie magique.
+- ***[Revigorer de groupe](./Revigorer de groupe.md)*** *(MJRA)*. Comme *revigorer* mais sur plusieurs créatures.
+- ***[Rupture mythique](./Rupture mythique.md)*** *(CMy)*. Empêche la cible d'utiliser ses pouvoirs mythiques.
+- ***[Saut du bouffon](./Saut du bouffon.md)*** *(MJRA)*. Téléporte la cible à 9 m de sa position initiale.
+- ***[Scrutation](./scrutation.md) (F)***. Permet d'espionner le sujet à distance.
+- ***[Secret dévoilé](./Secret dévoilé.md)*** *(UI)*. Convainc la cible qu'une créature proche connaît son plus grand secret.
+- ***[Simulacre de vie supérieur](./Simulacre de vie supérieur.md)*** *(AM)*. Gagne 2d10 points de vie temporaire + 1/niveau.
+- ***[Sommeil profond](./Sommeil profond.md) (Y)***. Endort 10 DV de créatures.
+- ***[Songe mineur](./songe mineur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme *songe*, mais délivre un message plus court.
+- ***[Sphère d'invisibilité](./Sphère dinvisibilité.md)***. Rend tout le monde invisible à 3 m à la ronde.
+- ***[Suggestion programmée](./Suggestion programmée.md)*** *(MCA)*. Comme *suggestion*, mais uniquement avec un déclencheur et la cible ne se rappelle rien de la suggestion.
+- ***[Symbole de fou-rire](./Symbole de fou-rire.md) (M)*** *(MCA)*. Rune qui une fois déclenchée qui fait perdre leurs actions aux créatures alentour pendant 1 round/niveau.
+- ***[Synesthésie](./Synesthésie.md)*** *(AO)*. La cible se déplace à la moitié de sa vitesse, subit des malus et a du mal à lancer des sorts.
+- ***[Témoin](./Témoin.md)*** *(AM)*. Voir à travers les yeux d'une cible et écouter par ses oreilles.
+- ***[Terreur](./Terreur.md)***. Les sujets fuient pendant 1 round/niveau.
+- ***[Terrible remords](./Terrible remords.md)*** *(AM)*. La créature est obligée de se blesser.
+- ***[Texte illusoire](./Texte illusoire.md) (M)***. Seul le sujet parvient à le déchiffrer.
+- ***[Traîtrise illusoire](./Traîtrise illusoire.md)*** *(UI)*. Une illusion de la cible semble être la source des attaques du personnage.
+- ***[Transport d'animal](./Transport danimal.md)*** *(AO)*. Envoie ou reçoit un animal de taille TP ou inférieure par téléportation.
+- ***[Vision des auras](./Vision des auras.md)*** *(MCA)*. Le personnage peut voir les auras d’alignement.
+- ***[Vision infernale](./Vision infernale.md)*** *(AM, LD)*. Un paysage infernal illusoire secoue les créatures.
+- ***[Voile répugnant](./Voile répugnant.md)*** *(AM)*. La nausée et/ou la fièvre affaiblit les créatures.
+
+{s:Reference|4}
+### Sorts de niveau 4
+- ***[Action interdite supérieure](./Action interdite supérieure.md)*** *(AM)*. Comme *action interdite* mais cible 1 créature/niveau.
+- ***[Annulation d'enchantement](./Annulation denchantement.md) (Y)***. Libère la cible des enchantements, des altérations, des malédictions et de la pétrification.
+- ***[Antidétection (partagé)](./Antidétection (partagé).md) (M)*** *(AG)*. Comme *antidétection* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Assassin imaginaire](./Assassin imaginaire.md) (Y)***. Illusion terrifiante tuant la cible ou lui infligeant 3d6 points de dégâts.
+- ***[Brouillard dense](./Brouillard dense.md) (Y)***. Réduit la visibilité et gêne les déplacements.
+- ***[Charme-personne de groupe](./Charme-personne de groupe.md)*** *(UI)*. Comme *charme-personne* mais affecte plusieurs créatures dans un rayon de 9 m.
+- ***[Convocation d'ombres](./Convocation dombres.md)***. Reproduit les invocations de 3e niveau ou moins ; 20 % sont réelles.
+- ***[Création de paysage mental](./Création de paysage mental.md)*** *(AO)*. Crée un paysage mental immersif.
+- ***[Dénonciation](./Dénonciation.md)*** *(MJRA)*. Fait empirer l’attitude des gens envers une créature cible.
+- ***[Détection de la scrutation](./Détection de la scrutation.md) (Y)***. Détecte l'espionnage magique.
+- ***[Dispense de Charon](./Dispense de Charon.md)*** *(BD)*. Protège contre les dangers de l'eau du Styx.
+- ***[Domination](./Domination.md) (Y)***. Permet de contrôler un humanoïde par télépathie.
+- ***[Effacement d'impression](./Effacement dimpression.md)*** *(AO)*. Efface les impressions psychiques émanant d’un objet.
+- ***[Effacement de l'esprit](./Effacement de lesprit.md)*** *(AO)*. Efface une portion des expériences et de l’esprit de la cible, lui imposant des niveaux négatifs.
+- ***[Effigie majestueuse](./Effigie majestueuse.md)*** *(UI)*. Comme *entrer dans une image* mais offre des avantages sociaux en étant dans l'image.
+- ***[Empoisonnement](./Empoisonnement.md)***. Le sujet perd 1d3 points de Con/round pendant 6 rounds.
+- ***[Énergie négative](./Énergie négative.md) (Y)***. La cible gagne 1d4 niveaux négatifs.
+- ***[Festin de terreur](./Festin de terreur.md)*** *(MCA)*. Les cibles sont paniquées et le personnage gagne des points de vie temporaires.
+- ***[Hallucination complexe](./Hallucination complexe.md)*** *(UI)*. Crée un fantasme qui inclut des éléments auditifs, olfactifs, tactils, thermaux et visuels.
+- ***[Hébétement de groupe](./Hébétement de groupe.md)*** *(AM)*. Comme *hébétement* mais sur plusieurs créatures.
+- ***[Hurlement primitif](./Hurlement primitif.md)*** *(AM)*. Libère des effets d'enchantement et de paralysie.
+- ***[Image de foudre](./Image de foudre.md)*** *(AG)*. Comme *image miroir* mais le double inflige des dégâts électriques quand on le détruit.
+- ***[Immobilisation de monstre](./Immobilisation de monstre.md)***. Immobilise n'importe quelle créature.
+- ***[Injonction suprême](./Injonction suprême.md)***. Comme *injonction*, mais affecte un sujet/niveau.
+- ***[Invisibilité suprême](./Invisibilité suprême.md)***. Comme *invisibilité*, mais continue quand le sujet attaque.
+- ***[Juxtaposition hostile](./Juxtaposition hostile.md)*** *(AG)*. Le personnage crée un lien dimensionnel entre la créature visée et sa personne. Ils échangent de place.
+- ***[Liberté de mouvement](./Liberté de mouvement.md)***. La cible bouge normalement malgré les entraves.
+- ***[Lien des esprits combatifs](./Lien des esprits combatifs.md) (Y)*** *(AM)*. Le personnage et un allié tirent le meilleur de chacun au combat.
+- ***[Lien télépathique](./Lien télépathique.md)***. Permet de communiquer mentalement.
+- ***[Localisation de créature](./Localisation de créature.md)***. Indique la direction d'une créature connue.
+- ***[Malédiction du paria](./Malédiction du paria.md)*** *(UI)*. Maudit la cible pour qu'elle peine à interagir socialement.
+- ***[Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md) ([Humain](./Humain.md))*** *(MR)*. Maudit une créature qui devient alors fiévreuse en permanence et chancelante si elle est proche de l'eau.
+- ***[Malédiction majeure](./Malédiction majeure.md)*** *(AM)*. Comme *malédiction* mais plus difficile à dissiper.
+- ***[Mépris absolu](./Mépris absolu.md)*** *(AM)*. L'attitude de la cible empire de deux crans.
+- ***[Modification de mémoire](./Modification de mémoire.md) (Y)***. Change cinq minutes de souvenirs de la cible.
+- ***[Mur illusoire](./Mur illusoire.md)***. Mur, plancher ou plafond illusoire.
+- ***[Objet fantomatique mineur](./objet fantomatique mineur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme *création mineure*, mais l'objet créé est une illusion semi-réelle.
+- ***[Œil du mage](./Œil du mage.md)***. Œil invisible avançant de 9 m/round.
+- ***[Passager clandestin](./Passager clandestin.md)*** *(AO)*. Comme *possession spirituelle* mais le personnage est juste observateur et ne contrôle pas sa cible.
+- ***[Perception des pensées](./Perception des pensées.md)*** *(AO)*. Détecte automatiquement la présence de créatures conscientes alentour.
+- ***[Placage trompeur](./Placage trompeur.md)*** *(UI)*. La cible semble mentir en permanence.
+- ***[Porte dimensionnelle](./Porte dimensionnelle.md) (Y)***. Téléporte le PJ sur une courte distance.
+- ***[Pulsation synaptique suprême](./Pulsation synaptique suprême.md)*** *(AO)*. Comme *pulsation synaptique* pendant 1d4 rounds.
+- ***[Pulsion de jalousie](./Pulsion de jalousie.md)*** *(AM)*. La cible vole ou désarme autrui.
+- ***[Restauration](./Restauration.md) (M)***. Rend niveaux et points de caractéristique perdus.
+- ***[Sérénité](./Sérénité.md)*** *(AM)*. Sentiment paisible qui blesse les créatures violentes.
+- ***[Sommeil de l'amnésique](./sommeil de lamnésique.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)*. Comme *sommeil profond*, mais n'affecte qu'une seule créature et lui fait perdre ses derners souvenirs.
+- ***[Somnambulisme](./Somnambulisme.md) (M)*** *(MJRA)*. La créature se déplace en dormant.
+- ***[Sonde mentale](./Sonde mentale.md)*** *(AO)*. Tire des réponses des souvenirs d’un sujet.
+- ***[Songe](./Songe.md) (Y)***. Envoie un message à un dormeur.
+- ***[Surcharge synaptique](./Surcharge synaptique.md)*** *(AO)*. Inflige 1d6 points de dégâts par niveau et rend la cible chancelante pendant 1 minute.
+- ***[Télépathie](./Télépathie (sort).md)*** *(AO)*. Communication mentale avec des créatures situées dans un rayon de 30 mètres.
+- ***[Terrain hallucinatoire](./Terrain hallucinatoire.md)***. Transforme un type de terrain en un autre (champ en forêt, etc.).
+- ***[Traîtrise illusoire suprême](./Traîtrise illusoire suprême.md)*** *(UI)*. Une illusion de la cible semble être la source des attaques du personnage tout en dissimulant ces dernières.
+- ***[Vérité](./Vérité.md) ([Aasimar](./Aasimar (race).md))*** *(MR)*. Le lanceur peut communiquer avec toutes les créatures intelligentes.
+- ***[Vive perspective](./Vive perspective.md)*** *(UI)*. Place un capteur de scrutation que le personnage peut utliser pour espionner une créature, un objet ou un lieu.
+- ***[Vol de pouvoir](./Vol de pouvoir.md)*** *(CMy)*. Vol des utilisations de pouvoir mythique à la cible.
+- ***[Zone de silence](./Zone de silence.md)***. Empêche les espions d'entendre des conversations.
+
+{s:Reference|5}
+### Sorts de niveau 5
+- ***[Asile psychique](./Asile psychique.md)*** *(AO)*. Accomplit une tâche mentale de longue haleine dans un paysage mental privé.
+- ***[Bouclier involontaire](./Bouclier involontaire.md) (M)*** *(MJRA)*. La cible partage les blessures reçues par le lanceur de sorts.
+- ***[Brume mentale](./Brume mentale.md)***. Malus de -10 aux tests de Sagesse et jets de Volonté.
+- ***[Cauchemar](./sort Cauchemar.md) (Y)***. Envoie des visions causant fatigue et perte de 1d10 pv.
+- ***[Chirurgie psychique](./Chirurgie psychique.md) (M)*** *(AO)*. Soigne les affaiblissements temporaires et diminutions permanentes d’Int, Sag et Cha et élimine les afflictions et états préjudiciables mentaux.
+- ***[Coffre secret](./Coffre secret.md)***. Coffre caché dans le plan Éthéré.
+- ***[Conseil onirique](./Conseil onirique.md)*** *(AO)*. Conversation entre plusieurs créatures endormies.
+- ***[Débilité](./Débilité.md)***. L'Intelligence et le Charisme de la cible tombent à 1.
+- ***[Déclaration](./Déclaration.md)*** *(UI)*. Transmet un message aux créatures à des kilomètres à la ronde.
+- ***[Double illusoire](./Double illusoire.md) (Y)***. Rend le PJ invisible et crée son double illusoire.
+- ***[Échange d'esprits](./Échange desprits.md)*** *(AO)*. Échange son esprit avec celui d’une autre créature pendant 1 heure par niveau.
+- ***[Ennemi amical](./Ennemi amical.md)*** *(MJRA)*. Redirige l’attaque d’un ennemi.
+- ***[Épidémie de rumeurs](./Épidémie de rumeurs.md)*** *(UI)*. Maudit la cible pour qu'elles attire des rumeurs peu flatteuses.
+- ***[Examen des rêves](./Examen des rêves.md)*** *(AO)*. Lit les pensées d’une créature en plein rêve.
+- ***[Extase](./Extase.md)*** *(AM)*. Annule les émotions néfastes.
+- ***[Faux-semblant](./Faux-semblant.md)***. Modifie l'aspect d'une personne tous les 2 niveaux.
+- ***[Fustiger de groupe](./Fustiger de groupe.md)*** *(MJRA)*. Comme *fustiger* mais le sort affecte plusieurs créatures.
+- ***[Hallucination scénarisée](./Hallucination scénarisée.md)*** *(UI)*. Comme *hallucination complexe* mais sans nécessiter de concentration.
+- ***[Image prédéterminée](./Image prédéterminée.md)***. Comme *image accomplie*, mais sans concentration.
+- ***[Infliger des souffrances de groupe](./Infliger des souffrances de groupe.md)*** *(AO)*. Comme *infliger des souffrances* mais touche une créature par niveau.
+- ***[Leurre](./Leurre.md) (M)***. Illusion abusant la scrutation magique.
+- ***[Magie des ombres](./Magie des ombres.md)***. Reproduit les évocations de 4e niveau ou moins ; 20 % sont réelles.
+- ***[Manteau de rêves](./Manteau de rêves.md)*** *(MJRA)*. Les créatures vivantes situées dans un rayon de 1,5 m s’endorment.
+- ***[Mirage](./mirage.md)***. Comme *terrain hallucinatoire*, plus structures artificielles.
+- ***[Nourrir la haine](./Nourrir la haine.md)*** *(AO)*. Oblige une créature à haïr un type de créature.
+- ***[Objet fantomatique majeur](./Objet fantomatique majeur.md) ([Gnome](./Gnome.md))*** *(MR)*. Comme *création majeure*, mais l'objet créé est une illusion semi-réelle.
+- ***[Œil indiscret](./Œil indiscret.md)***. 1d4 yeux flottants, +1/niveau, servant d'éclaireurs.
+- ***[Passe-muraille](./Passe-muraille.md)***. Permet de se tailler un chemin au travers du bois ou de la pierre.
+- ***[Possession spirituelle](./Possession spirituelle (sort).md)*** *(AO)*. Projette l’âme du personnage dans le corps d’une autre créature.
+- ***[Possession spirituelle d'objet](./Possession spirituelle dobjet.md)*** *(AO)*. Comme *possession spirituelle d’objet inférieure* mais pour un objet plus grand.
+- ***[Réalité subjective](./Réalité subjective.md)*** *(OO)*. Le personnage se convainc qu'une chose est irréelle, ce qui lui permet d'ignorer sa présence.
+- ***[Refouler un souvenir](./Refouler un souvenir.md)*** *(AO)*. Retire une connaissance de l’esprit du personnage.
+- ***[Régression primale](./Régression primale.md)*** *(AO)*. Une créature devient bestiale et perd son intelligence.
+- ***[Sanctuaire secret](./Sanctuaire secret.md)***. Empêche quiconque d'observer ou de scruter une zone pendant 24 heures.
+- ***[Suggestion de groupe](./Suggestion de groupe.md)***. Comme *suggestion*, mais une cible/niveau.
+- ***[Symbole de douleur](./Symbole de douleur.md) (M)***. La rune inflige de terribles douleurs.
+- ***[Symbole de sommeil](./Symbole de sommeil.md) (M)***. La rune plonge les créatures proches dans un sommeil catatonique.
+- ***[Synesthésie de groupe](./Synesthésie de groupe.md)*** *(AO)*. Comme *synesthésie* mais affecte plusieurs créatures.
+- ***[Toile fantasmagorique](./Toile fantasmagorique.md)*** *(MJRA)*. La cible est prise dans une toile d'araignée imaginaire.
+- ***[Traversée des ombres](./Traversée des ombres.md)***. Permet de voyager plus rapidement.
+- ***[Vague de criminalité](./Vague de criminalité.md)*** *(UI)*. Pousse les cibles à commettre des actes criminels.
+- ***[Vagues de fatigue](./Vagues de fatigue.md)***. Plusieurs cibles sont fatiguées.
+- ***[Vengeance pour outrage](./Vengeance pour outrage.md)*** *(AM)*. La cible est obligée de détruire un ennemi.
+- ***[Village voilé](./village voilé.md) ([Halfelin](./Halfelin.md))*** *(MR)*. Rend une lieu sans intérêt à travers les yeux des autres.
+
+{s:Reference|6}
+### Sorts de niveau 6
+- ***[Aliénation mentale](./Aliénation mentale.md)***. La cible souffre en permanence de confusion.
+- ***[Charme-monstre de groupe](./Charme-monstre de groupe.md)***. Comme *charme-monstre*, mais sur 9 m de rayon.
+- ***[Création de paysage mental suprême](./Création de paysage mental suprême.md)*** *(AO)*. Comme *création de paysage mental* mais affecte plus de créatures, sur une plus longue durée et permet les modifications magiques.
+- ***[Danse irrésistible](./Danse irrésistible.md) (Y)***. Force le sujet à danser.
+- ***[Exigence](./Exigence.md)***. Comme *communication à distance*, plus suggestion.
+- ***[Hallucination programmée](./Hallucination programmée.md) (M)*** *(UI)*. Comme *hallucination scénarisée* mais n'apparaît que lorsqu'elle est déclenchée.
+- ***[Image permanente](./Image permanente.md)***. Illusion permanente qui comprend les aspects visuels, sonores et olfactifs et de température.
+- ***[Image programmée](./Image programmée.md) (M)***. Comme *image accomplie*, mais déclenchée par condition.
+- ***[Immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)***. Comme *immobilisation de personne*, mais dans un rayon de 9 m.
+- ***[Instinct criminel](./Instinct criminel.md)*** *(UI)*. Maudit la cible pour qu'elle devienne un criminel désaxé. 
+- ***[Invisibilité de groupe](./Invisibilité de groupe.md)***. Comme *invisibilité*, mais multiples sujets.
+- ***[Juxtaposition hostile supérieure](./Juxtaposition hostile supérieure.md)*** *(AG)*. Le personnage peut viser une créature de plus tous les quatre niveaux de lanceur de sorts.
+- ***[Leurre suprême](./Leurre suprême.md) (M)*** *(UI)*. Comme *leurre* mais se déplace avec la cible.
+- ***[Manteau de doutes](./Manteau de doutes.md)*** *(OO)*. Envoi des spectres de doute paralysant sur ceux qui attaquent le personnage.
+- ***[Mauvais œil](./Mauvais œil.md)***. Cible paniquée, fiévreuse et comateuse.
+- ***[Message suggestif de groupe](./Message suggestif de groupe.md)*** *(UI)*. Permet de communiquer comme avec *message* mais lance une *suggestion* sur chaque cible.
+- ***[Mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md) (Y)***. Aveugle jusqu'à 200 pv de créatures.
+- ***[Poudre d'escampette](./Poudre descampette.md)*** *(MJRA)*. Téléporte un groupe d’alliés et de créatures préétabli en un endroit prédéterminé.
+- ***[Présence écrasante](./Présence écrasante.md)*** *(AM)*. Les créatures s'inclinent devant le personnage comme devant un dieu.
+- ***[Projection d'image](./Projection dimage.md) (M)***. Double illusoire pouvant parler et lancer des sorts.
+- ***[Quête](./Quête.md)***. Comme *mission*, mais affecte n'importe quelle créature.
+- ***[Scrutation suprême](./Scrutation suprême.md)***. Comme *scrutation*, mais plus rapidement et plus longtemps.
+- ***[Symbole de persuasion](./Symbole de persuasion.md) (M)***. La rune charme les créatures proches.
+- ***[Tranquillité euphorique](./Tranquillité euphorique.md)*** *(MJRA)*. Rend une unique créature pacifique et amicale.
+- ***[Traversée onirique](./Traversée onirique.md)*** *(AO)*. Le personnage entre dans la dimension du Rêve pour pénétrer dans les songes de la créature choisie puis ressort près du corps de cette créature, sur le plan où elle dort.
+- ***[Vagues d'épuisement](./Vagues dépuisement.md)***. Plusieurs cibles sont épuisées.
+- ***[Vagues d'extase](./vagues dextase.md)*** *(AM)*. Les créatures sont étourdies et chancelantes de plaisir.
+- ***[Vengeance fantasmagorique](./Vengeance fantasmagorique.md)*** *(MJRA)*. Un fantôme se lève du cadavre et chasse son assassin.
+- ***[Vision lucide](./Vision lucide.md) (M)***. Permet de voir les choses telles qu'elles sont.
+- ***[Voile](./Voile.md)***. Change l'aspect d'un groupe de créatures.

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Griffes du tigre
+Title: Griffes du tigre
+LastModified: 2024-12-20 15:04
+Categories:
+- Don
+- Don combat
+- Don école
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:uc}*Le personnage peut renoncer à faire plusieurs attaques pour en faire une seule aux conséquences dévastatrices. *
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [École du tigre](./École du tigre.md), [BBA](./BBA.md) +6 ou [moine](./Moine.md) de niveau 5
+
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- lArt de la guerre.md#15) Férocité du dragon et Griffes du tigre : Ces deux dons me disent d’ajouter 1/2 de mon bonus de Force aux dégâts. Comment cela affecte-t-il mes dégâts ? Sont-ils réduits à 1/2 ?**'
+
+Non, <u>[Férocité du dragon](./Férocité du dragon.md)</u> devrait dire « Quand le personnage utilise l’École du dragon, il augmente son bonus de [Force](./Force.md) aux dégâts des [attaques à mains nues](./Actions simples.md#ATTAQUEMAINSNUES) d’un montant égal à la moitié de son bonus de Force, pour un total de deux fois son bonus de Force sur la première attaque et 1,5 fois son bonus de Force sur les autres attaques. » et <u>[Griffes du tigre](./Griffes du tigre.md)</u> devrait dire « S’il utilise [Attaque en puissance](./Attaque en puissance.md) sur cette attaque, le personnage augmente son bonus de [Force](./Force.md) sur un des [jets de dégâts](./Valeurs de combat.md#DEGATS) d’un montant égal à la moitié de son bonus de Force, normalement jusqu’à un total de 1,5 fois son bonus de Force. » Ces changements seront reflétés dans un futur errata.}**Avantage.** Quand le personnage utilise l’[École du tigre](./École du tigre.md) et qu’il a les deux mains libres, il peut utiliser l’[attaque à outrance](./attaque à outrance.md) pour faire une unique attaque à mains nues, à deux mains. Le personnage utilise son meilleur [BBA](./BBA.md), lance les dés séparément pour chaque main de l’attaque à mains nues et multiplie les deux s’il réussit un [coup critique](./coup critique.md). S’il utilise [Attaque en puissance](./Attaque en puissance.md) sur cette attaque, le personnage augmente son bonus de [Force](./Force.md) sur un des [jets de dégâts](./Valeurs de combat.md#DEGATS) d’un montant égal à la moitié de son bonus de Force, normalement jusqu’à un total de 1,5 fois son bonus de Force. S’il touche, il peut tenter une [bousculade](./bousculade.md) avec un bonus de +2 au test. Cette bousculade ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) de la part de son adversaire mais le personnage ne peut pas se déplacer avec lui.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Si le personnage réussit son test de manœuvre de [bousculade](./bousculade.md) avec ce don, il peut dépenser 2 points d’endurance pour se déplacer normalement avec sa cible.

@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Fouet de la rivière
+Title: Fouet de la rivière
+LastModified: 2022-06-14 00:03
+Categories:
+- Sort
+- Sort magicien 2
+- Sort magus 2
+- Sort sorcière 2
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>eau<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Sor](./Sorcière.md) 2  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 0 m  
+
+**Effet** fouet d’eau  
+
+**Durée** 1 minute/niveau (T) ou jusqu’à déchargement (cf. texte)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage crée une lanière d’eau claire qui fonctionne comme un fouet adapté à sa taille, à la seule différence qu’il effectue une attaque de contact au corps à corps plutôt qu’une attaque normale. Tout ce que touche le personnage avec le fouet reçoit des dégâts et se fait imbiber d’un demi-litre d’eau. Une créature de sous-type feu reçoit 1d6 points de dégâts supplémentaires. Si la cible est en feu, elle bénéficie d’un bonus de +2 à son prochain jet de sauvegarde pour éteindre les flammes.
+Après que le personnage a réussi des attaques au fouet et touché une créature un nombre de fois égal à son niveau de lanceur, l’eau est épuisée et le sort est déchargé. L’eau créée par ce sort est, outre cela, identique à celle que crée un sort de création d’eau.

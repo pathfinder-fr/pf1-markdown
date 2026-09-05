@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Pendentif du meilleur ami supérieur
+Title: Pendentif du meilleur ami supérieur
+LastModified: 2024-05-31 22:16
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Pendentif du meilleur ami supérieur|{s:UI}}
+**Aura** [Invocation](./Invocation.md) et [Transmutation](./Transmutation.md) modérées ; **NLS** 7 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 9 000 po ; **Poids** —
+(((Description)))
+{s:cs}Fabriqué en platine finement ouvragé, ce pendentif est une version améliorée du *[pendentif du meilleur ami](./Pendentif du meilleur ami.md)*. En plus des capacités habituelles d'un *pendentif du meilleur ami*, cette version peut absorber les [animaux](./type Animal.md) de taille M et G, ainsi que les [élémentaires](./sous-type élémentaire.md), les [créatures magiques](./type Créature magique.md) et les [extérieurs](./type Extérieur.md) de taille P ou TP. Les élémentaires, les créatures magiques et les extérieurs n'ont pas besoin de tests de [Dressage](./Dressage.md) pour accepter d'entrer dans le collier, mais ils peuvent avoir besoin d'autres formes de contrainte, à la discrétion du [MJ](./MJ.md).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[rapetissement d'animal](./Rapetissement danimal.md)* ; **Coût** 4 500 po
+</div>

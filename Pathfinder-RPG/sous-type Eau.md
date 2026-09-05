@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.sous-type Eau
+Title: Eau (sous-type)
+LastModified: 2011-01-09 13:31
+Categories:
+- Bestiaire
+- Monstre
+- Règles officielles
+---
+
+{s:MenuTypes}*Source : Bestiaire* p.313
+
+On utilise généralement ce sous-type pour les Extérieurs liés au plan élémentaire de l’Eau. Les créatures de ce sous-type possèdent toutes une vitesse de nage et peuvent se déplacer dans l’eau sans avoir à réussir de tests de [Natation](./Natation.md). Les créatures de l’Eau peuvent respirer sous l’eau et, en règle générale, elles sont également capables de respirer de l’air. [Natation](./Natation.md) est une compétence de classe pour les créatures de l’Eau.

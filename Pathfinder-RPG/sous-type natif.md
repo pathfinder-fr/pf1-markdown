@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.sous-type natif
+Title: Natif (sous-type)
+LastModified: 2022-10-17 18:46
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+- Type de créature
+---
+
+{s:MenuTypes}*Source : Bestiaire* p.314
+
+Seuls les [Extérieurs](./type Extérieur.md) peuvent acquérir ce sous-type. Il s’agit de créatures possédant des ancêtres mortels ou un lien fort avec le plan Matériel et qui peuvent être rappelées à la vie, réincarnées ou ressuscitées de la même manière que les autres créatures vivantes. Les créatures de ce sous-type sont originaires du plan Matériel. Contrairement aux véritables Extérieurs, les Extérieurs natifs ont besoin de se nourrir et de dormir.

@@ -1,0 +1,476 @@
+---
+Name: Pathfinder-RPG.Scalde
+Title: Le scalde
+LastModified: 2026-07-27 13:58
+Categories:
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:menuclasseshybrides}
+<div class="fright">***Voir aussi les [chants de rage](./Chants de rage.md).***
+***Voir aussi les [chefs d'œuvre](./Chefs doeuvre.md).***
+***Voir aussi la [liste des sorts de barde](./Liste des sorts de bardes.md).***
+{s:PM0|scalde}**Voir les archétypes du scalde**&emsp;
+<li ID="scalde" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypescalde}</li>
+</div>{s:mca}*Les scaldes sont des poètes, des historiens et des gardiens du savoir qui mettent leurs dons oratoires et leurs chants à profit pour plonger leurs alliés dans une rage frénétique. Ils tempèrent leur violence intérieure avec un vernis de civilisation, chroniquent les batailles héroïques et les exploits de leurs plus grands chefs et racontent ces histoires une fois améliorées pour remporter de nouvelles victoires encore plus sanglantes. La poésie du scalde est tout en nuance et s’interprète souvent de plusieurs manières. Ce personnage dispose de divers talents pour imiter la magie des autres lanceurs de sorts.*
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLESCALDE}Le scalde
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" | Spécial
+| COLSPAN="6" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +2
+| +2
+| CLASS="gauche" | [Chant de rage](./Scalde.md#CHANTDERAGE),[écriture de parchemins](./Scalde.md#ECRITUREDEPARCHEMINS), [rage inspirée](./Chants de rage.md#RAGEINSPIREE) +1 (+2 For/Con), [savoir bardique](./Scalde.md#SAVOIRBARDIQUE), [tours de magie](./Scalde.md#TOURSDEMAGIE)
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +3
+| +3
+| CLASS="gauche" | [Érudition](./Scalde.md#ERUDITION), [versatilité artistique](./Scalde.md#VERSATILITEARTISTIQUE)
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +3
+| +3
+| CLASS="gauche" | [Chant de marche](./Chants de rage.md#CHANTDEMARCHE), [pouvoir de rage](./Scalde.md#POUVOIRDERAGE)
+| 3
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [Esquive instinctive](./Scalde.md#ESQUIVEINSTINCTIVE), [rage inspirée](./Scalde.md#RAGEINSPIREE) +2
+| 3
+| 1
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +4
+| +4
+| CLASS="gauche" | [Compréhension des sorts](./Scalde.md#COMPREHENSIONDESSORTS) 1/jour
+| 4
+| 2
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +5
+| +5
+| CLASS="gauche" | [Chant de force](./Chants de rage.md#CHANTDEFORCE), [pouvoir de rage](./Scalde.md#POUVOIRDERAGE)
+| 4
+| 3
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +5
+| +5
+| CLASS="gauche" | [Maître du savoir](./Scalde.md#MAITREDUSAVOIR) 1/jour, [versatilité artistique](./Scalde.md#VERSATILITEARTISTIQUE)
+| 4
+| 3
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +6
+| +6
+| CLASS="gauche" | [Esquive instinctive supérieure](./Scalde.md#ESQUIVEINSTINCTIVESUPERIEURE), [rage inspirée](./Scalde.md#RAGEINSPIREE) +3 (+4 For/Con)
+| 4
+| 4
+| 2
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +6
+| +6
+| CLASS="gauche" | [Pouvoir de rage](./Scalde.md#POUVOIRDERAGE), [réduction de dégâts](./Scalde.md#REDUCTIONDEDEGATS)1/-
+| 5
+| 4
+| 3
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +7
+| +7
+| CLASS="gauche" | [Chant funeste](./Chants de rage.md#CHANTFUNESTE)
+| 5
+| 4
+| 3
+| 1
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +7
+| +7
+| CLASS="gauche" | [Compréhension des sorts](./Scalde.md#COMPREHENSIONDESSORTS) 2/jour
+| 5
+| 4
+| 4
+| 2
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [Pouvoir de rage](./Scalde.md#POUVOIRDERAGE), [rage inspirée](./Scalde.md#RAGEINSPIREE) +4, [versatilité artistique](./Scalde.md#VERSATILITEARTISTIQUE)
+| 5
+| 5
+| 4
+| 3
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +8
+| +8
+| CLASS="gauche" | [Maître du savoir](./Scalde.md#MAITREDUSAVOIR) 2/jour
+| 5
+| 5
+| 4
+| 3
+| 1
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +9
+| +9
+| CLASS="gauche" | [Chant des défunts](./Chants de rage.md#CHANTDESDEFUNTS), [réduction de dégâts](./Scalde.md#REDUCTIONDEDEGATS) 2/-
+| 5
+| 5
+| 4
+| 4
+| 2
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +9
+| +9
+| CLASS="gauche" | [Pouvoir de rage](./Scalde.md#POUVOIRDERAGE)
+| 5
+| 5
+| 5
+| 4
+| 3
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [Rage inspirée](./Scalde.md#RAGEINSPIREE) +5 (+6 For/Con)
+| 5
+| 5
+| 5
+| 4
+| 3
+| 1
+|-
+| 17
+| +12/+7/+2
+| +5
+| +10
+| +10
+| CLASS="gauche" | [Compréhension des sorts](./Scalde.md#COMPREHENSIONDESSORTS) 3/jour, [versatilité artistique](./Scalde.md#VERSATILITEARTISTIQUE)
+| 5
+| 5
+| 5
+| 4
+| 4
+| 2
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +11
+| +11
+| CLASS="gauche" | [Pouvoir de rage](./Scalde.md#POUVOIRDERAGE)
+| 5
+| 5
+| 5
+| 5
+| 4
+| 3
+|-
+| 19
+| +14/+9/+4
+| +6
+| +11
+| +11
+| CLASS="gauche" | [Maître du savoir](./Scalde.md#MAITREDUSAVOIR) 3/jour, [réduction de dégâts](./Scalde.md#REDUCTIONDEDEGATS) 3/-
+| 5
+| 5
+| 5
+| 5
+| 5
+| 4
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +12
+| +12
+| CLASS="gauche" | [Maître scalde](./Scalde.md#MAITRESCALDE), [rage inspirée](./Scalde.md#RAGEINSPIREE) +6
+| 5
+| 5
+| 5
+| 5
+| 5
+| 5
+|}
+
+**Rôle.** Le scalde inspire ses alliés et les pousse souvent à engager l’ennemi au corps à corps. En dehors des combats, c’est un guérisseur et un érudit un peu moins polyvalent qu’un barde mais plus résistant.
+
+**Classes mères.** [Barbare](./Barbare.md) et [barde](./Barde.md).
+
+**Alignement.** Tous.
+
+**Dé de vie.** d8.
+
+**Argent de départ.** 3d6 x 10 po (moyenne 105 po).
+
+{s:ImageDroite|Illustrations/PNJ/Hakon.jpg|30%}
+### Compétences de classes
+Voici les compétences de classe du scalde : [Acrobaties](./Acrobaties.md) (Dex), [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (toutes) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Estimation](./Estimation.md) (Int), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (chant, déclamation, instruments à cordes, percussions, vents) (Cha) et [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+
+**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Descriptif de la classe
+Voici les aptitudes de classe du scalde.
+
+#### Armes et armures
+Le scalde est formé au maniement de toutes les armes courantes et de guerre ainsi qu’au port des armures légères et intermédiaires et au maniement des boucliers (mais pas des pavois).
+
+Il peut lancer des sorts de scalde alors qu’il porte une [armure légère](./armure légère.md) ou [intermédiaire](./armure intermédiaire.md) et même un bouclier sans risquer de voir son sort échouer. Cela n’annule pas les [risques d’échec des sorts profanes](./Caractéristiques des armes.md#RISQUEECHECPROFANE) éventuellement imposés par d’autres classes. Comme les autres lanceurs de sorts profanes, ses sorts à composante gestuelle risquent d’échouer s’il les lance en armure lourde.
+
+{s:Reference|SAVOIRBARDIQUE}
+#### Savoir bardique (Ext)
+Le scalde ajoute la moitié de son niveau de classe (1 au minimum) à tous ses tests de [Connaissances](./Connaissances.md) et peut les faire même sans formation.
+
+{s:Reference|TOURSDEMAGIE}
+#### Tours de magie
+Un scalde connaît un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la table des sorts connus de scalde ci-contre. Il lance ces sorts comme les autres mais il ne les dépense pas lors de l’incantation et peut les lancer de nouveau par la suite.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|TABLESORTSCONNUSSCALDE}Sorts de scalde connus
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| COLSPAN="7" CLASS="avecsoustitre" | Sorts connus
+|- CLASS="soustitre"
+| 0 || 1er || 2e || 3e || 4e || 5e || 6e
+|- CLASS="premier"
+| 1 || 4 || 2 || - || - || - || - || -
+|-
+| 2 || 5 || 3 || - || - || - || - || -
+|-
+| 3 || 6 || 4 || - || - || - || - || -
+|-
+| 4 || 6 || 4 || 2 || - || - || - || -
+|-
+| 5 || 6 || 4 || 3 || - || - || - || -
+|-
+| 6 || 6 || 4 || 4 || - || - || - || -
+|-
+| 7 || 6 || 5 || 4 || 2 || - || - || -
+|-
+| 8 || 6 || 5 || 4 || 3 || - || - || -
+|-
+| 9 || 6 || 5 || 4 || 4 || - || - || -
+|-
+| 10 || 6 || 5 || 5 || 4 || 2 || - || -
+|-
+| 11 || 6 || 6 || 5 || 4 || 3 || - || -
+|-
+| 12 || 6 || 6 || 5 || 4 || 4 || - || -
+|-
+| 13 || 6 || 6 || 5 || 5 || 4 || 2 || -
+|-
+| 14 || 6 || 6 || 6 || 5 || 4 || 3 || -
+|-
+| 15 || 6 || 6 || 6 || 5 || 4 || 4 || -
+|-
+| 16 || 6 || 6 || 6 || 5 || 5 || 4 || 2
+|-
+| 17 || 6 || 6 || 6 || 6 || 5 || 4 || 3
+|-
+| 18 || 6 || 6 || 6 || 6 || 5 || 4 || 4
+|-
+| 19 || 6 || 6 || 6 || 6 || 5 || 5 || 4
+|-
+| 20 || 6 || 6 || 6 || 6 || 6 || 5 || 5
+|}
+</div></div>{s:Reference|SORTS}
+#### Sorts
+Le scalde lance des sorts profanes tirés de la [liste des sorts de barde](./Liste des sorts de bardes.md). Il peut lancer n’importe quel sort connu sans le préparer à l’avance. Tous les sorts de barde possèdent une [composante verbale](./composantes.md) qui peut prendre la forme d’une chanson, d’une déclamation ou d’une musique non-verbale comme des percussions. Pour apprendre ou lancer un sort, le scalde doit posséder une valeur de [Charisme](./Charisme.md) égale ou supérieure à 10 + niveau du sort. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) contre les sorts du scalde est de 10 + niveau du sort + modificateur de Charisme du scalde.
+
+Comme d’autres lanceurs de sorts, le scalde ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour. Ce nombre figure dans la table "[Le scalde](./Scalde.md#TABLESCALDE)". De plus, s’il a une valeur de [Charisme](./Charisme.md) élevée, il reçoit des sorts quotidiens supplémentaires (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+
+L’éventail de sorts du scalde est limité. Au début du jeu, il connaît quatre sorts de niveau 0 et deux de niveau 1. À chaque fois qu’il gagne un niveau dans sa classe, il apprend de nouveaux sorts, comme indiqué dans la table ci-contre. Le Charisme n’affecte pas le nombre de sorts que le scalde connaît, contrairement à son nombre de sorts quotidiens. Les valeurs de la
+table ci-contre sont fixes.
+
+Au niveau 5 puis tous les trois niveaux, le scalde peut remplacer un sort qu’il connaît par un autre. En pratique, il efface l’ancien sort et ajoute le nouveau. Le nouveau sort doit être du même niveau que celui qu’il remplace et d’au moins un niveau de moins que le sort de plus haut niveau que le scalde connaît. Le scalde ne peut échanger qu’un seul sort à chaque fois qu’il en a l’occasion et doit le faire (ou non) quand il obtient ses nouveaux sorts connus lors de sa montée de niveau.
+
+Le scalde n’a pas besoin de préparer ses sorts à l’avance, il peut lancer n’importe quel sort connu quand il le désire, à condition d’avoir encore une utilisation de sort du niveau requis disponible pour la journée.
+
+{s:Reference|CHANTDERAGE}
+#### Chant de rage (Sur)
+{s:FAQ|***[→](./FAQ- Manuel des joueurs - Classes avancées.md#5) Gestion de la colère : Si je suis en rage, en rage unchained, en rage sanguine ou sous toute autre forme de rage similaire, puis-je cumuler autant d'avantages que possible ?***
+
+Non. Lorsqu'un personnage active ou est affecté par une nouvelle forme de rage (comme la <u>[rage](./Barbare.md#RAGE)</u> du barbare, le <u>[chant de rage](./Scalde.md#CHANTDERAGE)</u> du scalde, la <u>[rage sanguine](./Sanguin.md#RAGESANGUINE)</u> du sanguin, et le sort <u>*[rage](./Rage.md)*</u>), il peut choisir entre conserver sa rage actuelle ou accepter la nouvelle rage à la place, de la même façon qu'une créature affectée par plusieurs effets de [métamorphose](./branche métamorphose.md). Si le personnage est soumis aux pulsions d'une rage qu'il est incapable d'arrêter automatiquement par lui-même, comme la rage incontrôlée d'un [sauvage enragé](./Sauvage enragé (barbare).md), il ne peut pas choisir d'y mettre fin pour la remplacer par le nouvel effet de rage. La seule exception à cette règle est la capacité [maître scalde](./Scalde.md#MAITRESCALDE) du scalde, qui permet explicitement au chant de rage du scalde de se cumuler à d'autres effets de rage.}Le scalde est formé à jouer de la musique, déclamer ou donner une représentation similaire pour inspirer ses alliés et les pousser à accomplir des exploits en matière de force et de férocité. Chaque jour, à partir du niveau 1, le scalde peut utiliser ce pouvoir un nombre de rounds égal à 3 + son modificateur de [Charisme](./Charisme.md). Ensuite, à chaque fois qu’il gagne un niveau, il peut utiliser le chant de rage 2 rounds de plus par jour.
+
+Il faut accomplir une [action simple](./Action simple.md) pour entonner le chant de rage mais, ensuite, il suffit d’une [action libre](./Action libre.md) pour le maintenir à chaque round. Une tierce personne ne peut pas interrompre le chant de rage mais il se termine automatiquement si le scalde est tué, [paralysé](./Paralysé.md), [étourdi](./Étourdi.md), [inconscient](./Inconscient.md) ou si quelque chose l’empêche d’accomplir une [action libre](./Action libre.md) par round pour le maintenir. Le chant de rage est assimilé au pouvoir spécial de [représentation bardique](./Barde.md#REPRESENTATIONSBARSIQUES) en ce qui concerne les effets affectant ces représentations. Le scalde peut apprendre les [chefs d’œuvre](./Chefs doeuvre.md) du barde.
+
+Le chant de rage a des composantes auditives mais pas visuelles : pour que le chant affecte les alliés il leur suffit de l’entendre. Un scalde sourd a 20% de chances de rater ses tentatives d’utilisation du chant de rage. S’il rate le test, sa tentative est tout de même décomptée de ses utilisations quotidiennes. Les créatures [sourdes](./Assourdi.md) sont immunisées contre le chant de rage.
+
+Si le chant de rage affecte des alliés, ces derniers doivent accepter ou refuser ses effets quand le scalde commence à chanter et au début de chacun de leur tour tant qu’ils entendent la chanson. Ce n’est pas une action. Un allié inconscient accepte automatiquement les effets du chant. Si un allié accepte les effets du chant de rage, ceux-ci durent jusqu’à la fin de son tour ou jusqu’à ce que le chant s’arrête, selon ce qui se produit en premier.
+
+Au niveau 7, le scalde entame son chant de rage par une [action de mouvement](./Action de mouvement.md) au lieu d’une [action simple](./Action simple.md) et par une [action rapide](./Action rapide.md) au niveau 13.
+
+*Voir la [liste des chants de rage](./Chants de rage.md).*
+
+{s:Reference|ECRITUREDEPARCHEMINS}
+#### Écriture de parchemins
+Au niveau 1, le scalde gagne [Écriture de parchemins](./Écriture de parchemins.md) comme don supplémentaire.
+
+{s:Reference|VERSATILITEARTISTIQUE}
+#### Versatilité artistique (Ext)
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- Manuel des joueurs - Classes avancées.md#11) Scalde, Versatilité artistique : Le scalde peut-il utiliser Représentation (instruments à vent) comme versatilité artistique ? Devrait-elle être une compétence de classe ?**'
+
+Oui, les scaldes devrait avoir [Représentation](./Représentation.md) (instruments à vent) comme compétence de classe, et ils devraient pouvoir l'utiliser comme <u>[versatilité artistique](./Scalde.md#VERSATILITEARTISTIQUE)</u> pour la [Diplomatie](./Diplomatie.md) et le [Dressage](./Dressage.md). Cela sera reflété dans le futur errata.}
+Au niveau 2, le scalde choisit un type de représentation associé à sa classe. Il peut utiliser le bonus qu’il possède dans cette compétence à la place du bonus dans la compétence associée indiquée plus loin. Dans ce cas, il utilise la totalité de son bonus de [Représentation](./Représentation.md), y compris son bonus de compétence de classe, au lieu du bonus de compétence remplacé, qu’il ait investi ou non des rangs dans cette compétence et que celle-ci soit ou non une compétence de classe.
+
+Il choisit un type de [Représentation](./Représentation.md) de remplacement au niveau 7 puis, tous les cinq niveaux par la suite.
+
+Voici les types de Représentation et les compétences qu’elles remplacent : Chant ([Bluff](./Bluff.md), [Psychologie](./Psychologie.md)), déclamation ([Diplomatie](./Diplomatie.md), [Psychologie](./Psychologie.md)), instruments à cordes ([Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md)), percussions ([Dressage](./Dressage.md), [Intimidation](./Intimidation.md)) et vents ([Diplomatie](./Diplomatie.md), [Dressage](./Dressage.md)).
+
+{s:Reference|ERUDITION}
+#### Érudition (Ext)
+Au niveau 2, le scalde résiste aux effets sonores. Il gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les [représentations](./Représentations.md) bardiques et contre les effets dépendant du son ou du langage.
+
+{s:Reference|POUVOIRDERAGE}
+#### Pouvoirs de rage (Ext)
+{s:FAQ|***[→](./FAQ- Manuel des joueurs - Classes avancées.md#10) Scalde, Pouvoirs de rage : La classe de scalde indique « Si le scalde possède des pouvoirs de rage provenant d'une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n'en disposent pas. » que signifie « autre source » exactement ?***
+
+Une autre source implique toute source différente des <u>[pouvoirs de rage](./Scalde.md#POUVOIRSDERAGE)</u> obtenus au niveau 3 et tous les 3 niveuax par la suite. Quelques exemples d'autres sources sont les pouvoirs de rage obtenus grâce à un multiclassage en [barbare](./Barbare.md), les pouvoirs de rage obtenus grâce au don [Pouvoir de rage supplémentaire](./Pouvoir de rage supplémentaire.md), et les pouvoirs de rage obtenus par le biais d'un objet magique.}Au niveau 3 puis tous les trois niveaux, le scalde apprend un [pouvoir de rage](./Pouvoirs de rage.md) qui affecte sa personne et les alliés sous l’influence de sa rage inspirée.
+
+Il ne peut pas apprendre un pouvoir de rage qui s’active par une [action simple](./Action simple.md) ou par une dépense en rounds de rage. Par exemple, il ne peut pas apprendre hurlement terrifiant (puisqu’il faut l’activer par une [action simple](./Action simple.md)), en revanche, il peut choisir [repousser l'ennemi](./Pouvoirs de rage.md#REPOUSSERLENNEMI) (qui remplace une attaque au corps à corps). Sauf indication contraire, le scalde ne peut pas choisir un même pouvoir de rage à plusieurs reprises.
+
+Le scalde choisit les éventuels pouvoirs de rage qu’il ajoute à son chant quand il entame le chant de rage. Tous les alliés affectés bénéficient de ces pouvoirs de rage, en utilisant le niveau du scalde comme niveau de barbare effectif. Le scalde utilise son niveau de classe en guise de niveau de [barbare](./Barbare.md) quand il choisit un pouvoir de rage qui nécessite un niveau de barbare minimum.
+
+Si l’effet du pouvoir de rage dépend du modificateur de caractéristique du scalde (comme [totem spirituel inférieur](./Pouvoirs de rage.md#TOTEMSPIRITUELINFERIEUR)), les alliés affectés utilisent aussi le modificateur de caractéristique du scalde au lieu du leur. Si un pouvoir de rage en exige un autre (comme [perturbateur](./Pouvoirs de rage.md#PERTURBATEUR) qui nécessite [superstition](./Pouvoirs de rage.md#SUPERSTITION)), le scalde ne peut pas accorder ce pouvoir à ses alliés, à moins qu’il ne leur accorde aussi sa condition requise. Grâce à cette aptitude, il peut ajouter plusieurs pouvoirs de rage à la fois à sa rage inspirée (et donc offrir simultanément superstition et perturbateur).
+
+Si un pouvoir de rage s’utilise seulement un certain nombre de fois par jour ou par rage (comme [nouvelle vigueur](./Pouvoirs de rage.md#NOUVELLEVIGUEUR)), chaque allié affecté par le chant de rage inspirée est soumis à cette limitation (les pouvoirs limités à une utilisation par rage étant limités à une utilisation par rage inspirée). Si le scalde possède des pouvoirs de rage provenant d’une autre source, il peut les utiliser durant sa rage inspirée mais ses alliés n’en disposent pas. Il ne peut pas choisir un pouvoir de rage en double, à moins qu’un personnage ne puisse choisir ce pouvoir à plusieurs reprises.
+
+Si le personnage peut devenir enragé grâce à une autre source, il peut utiliser ses pouvoirs de rage de scalde lorsqu’il déchaîne son autre rage.
+
+{s:Reference|ESQUIVEINSTINCTIVE}
+#### Esquive instinctive (Ext)
+À partir du niveau 4, le scalde réagit au danger plus vite que ses sens devraient normalement le lui permettre. Il n’est jamais [pris au dépourvu](./Pris au dépourvu.md) et ne perd pas son bonus de Dextérité à la [CA](./CA.md) si son adversaire est [invisible](./Invisible.md), en revanche, il le perd s’il est [immobilisé](./Immobilisé.md). Même avec ce pouvoir, le scalde perd son bonus de Dextérité à la CA si son adversaire réussit une [feinte](./feinte.md) contre lui.
+
+Si le scalde possède déjà le pouvoir d’esquive instinctive grâce à une autre classe, il gagne automatiquement l’[esquive instinctive supérieure](./Scalde.md#ESQUIVEINSTINCTIVESUPERIEURE) à la place de celle-ci.
+
+{s:Reference|COMPREHENSIONDESSORTS}
+#### Compréhension des sorts (Sur)
+Au niveau 5, le scalde connaît bien la magie des autres lanceurs de sorts et peut utiliser la sienne pour reproduire leurs sorts. Une fois par jour, le scalde peut lancer un sort issu de la [liste du barde](./Liste des sorts de bardes.md), [du prêtre](./Liste des sorts de prêtres.md) ou de [l’ensorceleur/magicien](./Liste des sorts densorceleursmagiciens.md) comme s’il faisait partie de ses sorts de scalde connus.
+
+Pour cela, il doit dépenser un emplacement de sort de scalde du même niveau que le sort lancé. L’incantation d’un sort issu de la compréhension des sorts exige au minimum une [action complexe](./Action complexe.md), quelle que soit la durée d’incantation normale du sort.
+
+Le scalde peut utiliser ce pouvoir deux fois par jour au niveau 11 et trois fois par jour au niveau 17.
+
+{s:Reference|MAITREDUSAVOIR}
+#### Maître du savoir (Ext)
+Au niveau 7, le scalde maîtrise de nombreux savoirs et peut [faire 10](./faire 10.md) à n’importe quel test de [Connaissances](./Connaissances.md) tant qu’il possède des rangs dans cette compétence. Une fois par jour, il peut [faire 20](./faire 10.md) sur un test de [Connaissances](./Connaissances.md) par une [action simple](./Action simple.md) au lieu d’y passer le temps habituellement requis. Il peut utiliser cette aptitude pour faire 20 à un test de Connaissances deux fois par jour à partir du niveau 13 et trois fois par jour à partir du niveau 19.
+
+{s:Reference|ESQUIVEINSTINCTIVESUPERIEURE}
+#### Esquive instinctive supérieure (Ext)
+Au niveau 8, le scalde ne peut plus être [pris en tenaille](./Pris en tenaille.md). Ce pouvoir empêche les créatures de le prendre en tenaille avec une [attaque sournoise](./attaque sournoise.md), à moins que l’assaillant n’ait au moins quatre niveaux dans une classe offrant l’attaque sournoise de plus que la cible n’a de niveaux de scalde.
+
+Si le personnage possède déjà l’esquive instinctive (voir plus haut) grâce à une autre classe, les niveaux qu’il possède dans cette classe se cumulent avec ceux de scalde quand il s’agit de déterminer le niveau nécessaire pour le prendre en tenaille.
+
+{s:Reference|REDUCTIONDEDEGATS}
+#### Réduction de dégâts (Ext)
+Au niveau 9, le scalde gagne une [réduction de dégâts](./RD.md). À chaque fois qu’il subit des dégâts infligée par une attaque naturelle ou une attaque portée avec une arme, soustrayez un point aux dégâts reçus. Cette réduction augmente d’un point aux niveaux 14 et 19. Elle peut réduire les dégâts à 0 mais jamais les faire passer en dessous de 0. De plus, le scalde confère la même [RD](./RD.md) aux alliés sous l’effet de sa rage inspirée.
+
+{s:Reference|MAITRESCALDE}
+#### Maître scalde (Sur)
+Au niveau 20, la rage inspirée du scalde n’inflige plus de malus à la [CA](./CA.md) et ne limite plus l’utilisation des pouvoirs et des compétences. Les alliés possédant des pouvoirs de rage peuvent utiliser les capacités associées (comme les pouvoirs de rage du barbare et les pouvoirs de rage sanguine et de lignage du sanguin) sans restriction. Enfin, quand un allié affecté porte une [attaque à outrance](./attaque à outrance.md), il a droit à une attaque de plus par round (comme avec *[rapidité](./Rapidité.md)*).

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Costume de voleur (objet)
+Title: Costume de voleur
+LastModified: 2021-09-22 14:48
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 1,5 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Intégrant de nombreuses poches dissimulées, ces vêtements donnent un bonus de +2 aux tests d’[Escamotage](./Escamotage.md) pour cacher les petits objets sur soi.

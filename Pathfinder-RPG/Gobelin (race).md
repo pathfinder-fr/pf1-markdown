@@ -1,0 +1,351 @@
+---
+Name: Pathfinder-RPG.Gobelin (race)
+Title: Les gobelins
+LastModified: 2025-01-14 20:06
+Categories:
+- Race
+- Règle officielle
+- Src Manuel des races
+---
+
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Gobelin.md) d'un gobelin standard.***
+
+Les gobelins sont une race de créatures aussi petites que des enfants, mais d’une nature si vorace et destructrice qu’ils sont presque tous méprisés. Lâches et faibles, ils sont souvent manipulés ou asservis par les êtres plus puissants qui ont besoin de fantassins dévastateurs, mais facilement remplaçables. Les gobelins qui comptent sur leur propre intelligence pour survivre vivent aux frontières de la société et se nourrissent des déchets et des membres les plus faibles des peuples civilisés. La plupart des autres races les voient comme de virulents parasites impossibles à exterminer. Les gobelins peuvent manger presque n’importe quoi, mais préfèrent la viande et considèrent la chair humaine et gnome comme un met rare et difficile à se procurer. S’ils craignent les races plus grandes qu’eux, leur mémoire courte et leurs appétits insatiables les poussent souvent à entrer en guerre ou à lancer des attaques contre elles pour satisfaire leurs besoins pernicieux et remplir leurs immenses garde-manger.
+
+**Description physique.** Les gobelins sont d’affreux petits humanoïdes mesurant à peine plus de 90 centimètres. Leur corps décharné est surmonté d’une tête démesurée généralement chauve, avec de grandes oreilles et des yeux rouges perçants, parfois jaunes. Leur couleur de peau varie en fonction de leur environnement ; les couleurs courantes incluent les tons verts, gris et bleus, mais on trouve des gobelins à la peau noire, voire même à la peau pâle. Leur bouche immense aux dents déchiquetées sert bien leurs appétits voraces.
+
+**Société.** Violents, mais féconds, les gobelins vivent dans des structures tribales primitives soumises à de constants changements de pouvoir. Rarement capables de subvenir à leurs propres besoins par l’agriculture ou la chasse et la cueillette, les tribus gobelines vivent là où la nourriture abonde ou près des endroits où elles peuvent la voler. Étant donné qu’ils sont incapables de construire des fortifications dignes de ce nom et ont été rejetés de la plupart des lieux facilement accessibles, les gobelins vivent généralement dans des endroits reculés et désagréables, et leurs pauvres talents pour la construction et la planification les forcent à s’abriter dans des grottes sommaires, des villages délabrés et des structures abandonnées. Certains sont doués avec les outils ou pour l’agriculture, et les rares objets de quelque valeur qu’ils possèdent sont généralement des instruments dont se sont débarrassés des humains ou d’autres cultures civilisées.
+
+Du fait de leurs appétits et de leur piètre faculté d’anticipation, les petites tribus sont dominées par les guerriers les plus forts. Même les chefs gobelins les plus solides savent que leur survie dépend des attaques qu’ils lancent régulièrement pour sécuriser les sources de nourriture et tuer les jeunes membres les plus agressifs de la tribu. Les gobelins hommes et femmes sont aussi laids et vicieux les uns que les autres, et les deux sexes sont tout aussi susceptibles de s’élever à des positions de pouvoir au sein d’une tribu.
+
+Les bébés gobelins sont pratiquement autonomes peu de temps après leur naissance, et ces enfants sont presque traités comme des animaux de compagnie. Beaucoup de tribus élèvent collectivement leurs enfants dans des cages ou des enclos qui permettent aux adultes de les ignorer en grande partie. La mortalité est élevée chez les jeunes gobelins, et lorsque les adultes ne leur donnent pas à manger ou lorsque la nourriture vient à manquer, les jeunes apprennent très tôt que le cannibalisme est parfois le meilleur moyen de survivre au sein des tribus gobelines.
+
+**Relations.** Les gobelins voient généralement les autres êtres comme des sources de nourriture, ce qui fait d’eux de piètres partenaires pour la plupart des races civilisées. Les gobelins survivent souvent aux frontières de la société humaine : ils chassent les faibles ou les voyageurs égarés et attaquent parfois les petits villages pour satisfaire leurs appétits voraces. Ils ressentent une hostilité particulière envers les gnomes et célèbrent la capture ou le massacre de ces créatures en festoyant. De la plupart des races de base, les demi-orques sont les plus tolérants envers les gobelins, car ils partagent avec eux une ascendance commune et font face aux mêmes problèmes d’intolérance. Mais, le plus souvent, les gobelins n’ont pas conscience de la sympathie que leur témoignent les demi-orques et les évitent parce qu’ils sont plus grands, plus méchants et moins goûteux que les autres humanoïdes.
+
+**Alignement et religion.** Les gobelins sont naturellement avides, capricieux et destructeurs, et la plupart d’entre eux sont donc d’alignement Neutre Mauvais ou Chaotique Mauvais. Lorsqu’ils se donnent la peine de vénérer un dieu, ils suivent la déesse des monstres et, dans une moindre mesure, des héros-divins.
+
+**Aventuriers.** Les aventuriers gobelins sont généralement curieux et enclins à explorer le monde, mais ils se font souvent tuer à cause de leurs propres méfaits et de leur stupidité, ou massacrer pour leurs actes de destruction aléatoires. Du fait de leur nature pernicieuse, il leur est presque impossible d’interagir avec les races civilisées : ils partent donc souvent à l’aventure aux frontières de la civilisation ou dans les espaces sauvages. Les individus courageux qui survivent assez longtemps chevauchent souvent des chiens gobelins ou d’autres montures exotiques et se concentrent sur l’archerie pour éviter les affrontements au contact avec les ennemis plus grands qu’eux. Les lanceurs de sorts gobelins préfèrent la magie du feu et les bombes à presque toute autre méthode pour semer le chaos.
+
+**Noms masculins.** Malmuffle, Gogrond, Piépourri, Zobgambille.
+**Noms féminins.** Geedra, Goomluga, Lanceporc, Loukoums.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+4 en [Dextérité](./Dextérité.md), -2 en [Force](./Force.md), -2 en [Charisme](./Charisme.md).** Les gobelins sont rapides, mais faibles et pas vraiment agréables à fréquenter.
+- **Gobelinoïde.** Les gobelins sont des [humanoïdes](./type Humanoïde.md) de sous-type [gobelinoïde](./sous-type gobelinoïde.md).
+- **Taille P.** Les gobelins sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
+- **Rapidité.** Les gobelins sont rapides pour des créatures de leur taille, et ils ont une [vitesse de base](./VD.md) de 9 mètres.
+- **Vision dans le noir.** Les gobelins [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
+- **Compétent.** Bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) et d’[Équitation](./Équitation.md).
+- **Langues.** Les gobelins commencent le jeu en parlant le gobelin. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent choisir d’autres langues parmi celles-ci : commun, draconique, gnoll, gnome, halfelin, nain et orque.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+{s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux gobelins standard, mais consultez d’abord votre MJ.
+
+<u>*Modifie « compétent » :*</u>
+- {s:cs}{s:ISR}**Bricoleur des décharges.** Les gobelins utilisent de l'équipement et des véhicules qui ne devraient techniquement pas fonctionner. Ils bénéficient d'un bonus racial de +2 aux tests de [conduite](./Conduire des véhicules (véhicules).md) ainsi qu'aux tests d'[Artisanat](./Artisanat.md) pour fabriquer ou réparer des armes ou des véhicules sans outils adéquats. Ils peuvent effectuer un test avec n'importe quel matériel qui possède la bonne forme dans certains cas, mais de mauvais outils produisent généralement des objets avec l'attribut [fragile](./Caractéristiques des armes.md#FRAGILE). Ce trait racial modifie compétent, en remplaçant le bonus racial aux tests de [Discrétion](./Discrétion.md).
+
+<u>*Remplace « compétent » :*</u>
+- **Apprentissage martial.** Les armes traditionnelles des gobelins sont le [tranchechien](./tranchechien (arme).md) et le [coupecheval](./Coupecheval (arme).md), spécifiquement conçus pour massacrer les ennemis qu’ils détestent le plus. Ceux qui ont ce trait racial sont formés au maniement du tranchechien et du coupecheval, et traitent toutes les armes dont l’intitulé comprend le mot « gobelin » comme des [armes de guerre](./arme de guerre.md). Ce trait racial remplace compétent.
+- **Charognard urbain.** Les gobelins qui vivent aux frontières des villes humaines survivent en récupérant les déchets et en chassant les animaux égarés. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests de [Perception](./Perception.md) et de [Survie](./Survie.md), et peuvent utiliser Survie pour subsister lorsqu’ils sont en ville. Ce trait racial remplace compétent.
+- **Coureur des arbres.** Dans les forêts et les marais dépourvus de sentiers, il peut être difficile de trouver un terrain sec sur lequel construire. Les tribus de gobelins vivant dans ces zones ont appris à vivre au sommet des arbres. Ceux-ci gagnent un bonus racial de +4 à leurs tests d’[Acrobaties](./Acrobaties.md) et d’[Escalade](./Escalade.md). Ce trait racial remplace compétent.
+- **Grandes oreilles.** Si les gobelins n’ont jamais eu de jolies petites oreilles, ceux-ci ont des oreilles exceptionnellement grandes pouvant percevoir même les sons les plus infimes. Ceux qui ont ce trait racial gagnent un bonus de +4 à leurs tests de [Perception](./Perception.md). Ce trait racial remplace compétent.
+- **Mange-tout.** Élevé sans avoir été nourri convenablement, voire pas du tout, beaucoup de gobelins ont appris à survivre en mangeant tout ce qu’ils trouvaient et peuvent digérer pratiquement n’importe quoi sans se rendre malades. Ceux qui ont ce trait racial gagnent un bonus de +4 à leurs tests de [Survie](./Survie.md) pour subsister, et un bonus racial de +4 aux [jets de sauvegarde](./JDS.md) contre les effets qui rendent [fiévreux](./Fiévreux.md) ou [nauséeux](./Nauséeux.md). Ce trait racial remplace compétent.
+- **Tête dure et grandes dents.** Les gobelins sont connus pour leur tête toute ronde et leurs énormes mâchoires, mais certains ont une tête encore plus grosse et des dents comme des lames de rasoir. Ceux qui ont ce trait racial gagnent une [attaque naturelle](./Attaques naturelles (capacité).md) primaire de morsure infligeant 1d4 points de dégâts. Ce trait racial remplace compétent.
+
+<u>*Remplace « rapidité » :*</u>
+- **Rampant des grottes.** Certains gobelins naissent et sont élevés dans des grottes et voient rarement la lumière du jour. Ceux qui ont ce trait racial gagnent une [vitesse d’escalade](./Escalade.md#Spécial_2) de 3 mètres et un bonus racial de +8 à leurs tests d’[Escalade](./Escalade.md) associés à leur vitesse d’escalade. Ils ont une [vitesse de base](./VD.md) de 6 mètres. Ce trait racial remplace rapidité.
+
+
+#### Variantes de gobelin
+{s:CM}Les gobelins évoluent rapidement (en quelques générations) en réponse aux facteurs environnementaux, comme des ténèbres complètes ou une abondance de nourriture, créant des variantes raciales.
+- **Gobelin surdimensionné.** Quelques gobelins atteignent une taille dépassant de loin celle de leurs congénères. Personne ne sait vraiment pourquoi certains gobelins deviennent de véritables géants parmi les leurs. C’est probablement le résultat d’un coup de chance, de leur régime alimentaire et d’un accès constant à la nourriture. Ce sont de véritables monstres parmi les gobelins, pas seulement en hauteur mais aussi en largeur et en force brute. Si la tribu ne les chasse pas parce qu’ils dévorent toutes ses provisions, ils en prennent souvent le contrôle et les plus puissants d’entre eux deviennent chefs de plusieurs tribus.
+Les gobelins surdimensionnés sont de [taille M](./taille M.md) et atteignent 1,20 à 1,50 m de haut. Ils sont généralement obèses et pèsent entre 110 et 140 kilos. Au lieu des modificateurs raciaux habituels aux caractéristiques, ils ont un bonus de +2 à la [Force](./Force.md) et la [Dextérité](./Dextérité.md) et un malus de –2 au [Charisme](./Charisme.md).
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+{s:MR}**[Alchimiste](./Alchimiste.md).** Le gobelin gagne [résistance](./Résistance (capacité).md) de 1 au feu. Chaque fois que cette récompense est sélectionnée, la résistance au feu augmente de 1. Cette résistance au feu ne se cumule pas avec d’autres types de résistance au feu obtenus différemment.
+
+{s:MR}**[Barbare](./Barbare.md).** Le barbare ajoute +1/2 à ses jets de [confirmation critique](./coup critique.md) de ses attaques à mains nues ou avec des armes naturelles (bonus maximum de +4). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+
+{s:MR}**[Barde](./Barde.md).** Le gobelin ajoute +1 au total de son nombre de rounds consacrés chaque jour à sa [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE).
+
+{s:MR}**[Chevalier](./Chevalier.md).** Le gobelin ajoute +1 [point de vie](./pv.md) à sa [monture](./Chevalier.md#MONTURE). S’il en change ou la remplace, la nouvelle monture gagne ces points de vie supplémentaires.
+
+{s:MR}**[Conjurateur](./Conjurateur.md).** L’invocateur ajoute +1/4 point d’évolution à la réserve de points d’évolution de son [eidolon](./Conjurateur.md#EIDOLON). Ces points d’évolution supplémentaires doivent être dépensés dans des évolutions qui infligent des dégâts de feu ou protègent l’eidolon du feu (par exemple : [attaques d’énergie](./eidolon.md#ATTAQUESDENERGIE), [immunité](./eidolon.md#IMMUNITE), [résistance](./eidolon.md#RESISTANCE), [souffle](./eidolon.md#SOUFFLE), etc.)
+
+{s:MR}**[Druide](./Druide.md).** Le druide ajoute +1 [point de vie](./pv.md) à son [compagnon animal](./Druide.md#PACTEAVECLANATURE). Si jamais il remplace son compagnon animal, le nouveau bénéficie de ces points de vie supplémentaires.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit +1 sort connu dans la [liste de sorts d’ensorceleur](./Liste des sorts densorceleursmagiciens.md). Il doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’il peut lancer, et doit être du [registre](./Registre.md) du feu.
+
+{s:MR}**[Oracle](./Oracle.md).** L’oracle ajoute +1 à ses tests de [concentration](./concentration.md) pour lancer des sorts du [registre](./Registre.md) du feu.
+
+{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier ajoute +1/3 à ses jets de [confirmation critique](./coup critique.md) avec une arme à feu (bonus maximum de +5). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+
+{s:MR}**[Rôdeur](./Rôdeur.md).** Le rôdeur gagne un bonus de +1/2 aux dégâts qu’il inflige aux chiens (et aux créatures canines) et aux chevaux (et autres équidés).
+
+{s:MR}**[Roublard](./Roublard.md).** Le roublard ajoute un bonus de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) de ses [attaques sournoises](./Roublard.md#ATTAQUESOURNOISE) pendant le [round de surprise](./round de surprise.md) ou avant que la cible n’ait agi en combat.
+
+{s:MR}**[Sorcière](./Sorcière.md).** La sorcière ajoute +1 sort choisi dans la [liste des sorts de sorcière](./Liste des sorts de sorcière.md) à son familier. Il doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’elle peut lancer. Si jamais elle remplace son familier, le nouveau bénéficie de ces sorts supplémentaires.
+</td></tr></table>
+
+### Nouvelles règles raciales
+Voici les options accessibles aux gobelins, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+
+#### Dons
+{| CLASS="tablo centre autoalt toutgauche"
+
+|- CLASS="titre"
+| WIDTH="25%" | Dons
+| WIDTH= "6%" | Source
+| WIDTH="25%" | Conditions
+| WIDTH="44%" | Avantages
+
+|- CLASS="premier"
+| [Crame ! Crame ! Crame !](./Crame ! Crame ! Crame !.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Sabotage](./Sabotage.md) || Le personnage inflige plus de dégâts avec les attaques de feu non-magiques, +4 aux jets de Réflexes pour éviter de prendre feu
+
+|- CLASS="premier"
+| [Bruyant encouragement de la monture](./Bruyant encouragement de la monture.md)* || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Équitation](./Équitation.md) || Le personnage peut s’imposer un malus à l’attaque pour conférer un bonus à l’attaque et aux dégâts de sa monture
+
+|- CLASS="premier"
+| [Chantre de guerre](./Chantre de guerre.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), aptitude de classe de [représentation bardique](./représentation bardique.md) || Confère un bonus aux jets de sauvegarde avec l’inspiration vaillante
+
+|- CLASS="premier"
+| [Commandement en base arrière](./Commandement en base arrière.md)* || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Équitation](./Équitation.md) || Le personnage peut encourager ses alliés depuis un abri
+
+|- CLASS="premier"
+| [Distraction en combat](./Distraction en combat.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Acrobaties](./Acrobaties.md), 1 rang en [Évasion](./Évasion.md) || Le personnage peut distraire un ennemi avec des actes imprévisibles
+
+|- CLASS="premier"
+| [Dompteur de feu](./Dompteur de feu.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), BBA +1 || Le personnage résiste davantage au feu
+|-
+| &emsp;[Coeur de feu](./Coeur de feu.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), [dompteur de feu](./Dompteur de feu.md), [niveau](./niveau.md) 5 || Le personnage obtient une résistance au feu 5 et les effets de feu sont plus puissants
+
+|- CLASS="premier"
+| [Haine des lettres](./Haine des lettres.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), aptitude de classe de [rage de berserker](./Barbare.md#RAGE) || Le personnage peut activer une rage supplémentaire quand quelqu’un lit
+
+|- CLASS="premier"
+| [Lancer boomerang](./Lancer boomerang.md) || <sup>*ISR*</sup> || [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), 3 rangs en [Escamotage](./Escamotage.md), sous-type [gobelinoïde](./sous-type gobelinoïde.md) || Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement
+
+|- CLASS="premier"
+| [Main de feu](./Main de feu.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md) || Le personnage manie les torches comme des armes
+
+|- CLASS="premier"
+| [Morsure à la cheville](./Morsure à la cheville.md)* || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Évasion](./Évasion.md) || Le personnage peut effectuer une attaque de morsure gratuite quand il est la cible d’une manœuvre offensive
+
+|- CLASS="premier"
+| [Pieds emmêlés](./Pieds emmêlés.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), [esquive](./Esquive.md), [souplesse du serpent](./Souplesse du serpent.md), [sous les jambes](./Sous les jambes.md), taille M ou moins || Le personnage peut déséquilibrer son adversaire
+
+|- CLASS="premier"
+| [Pistolier gobelin](./Pistolier gobelin.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md) || Le personnage manie les armes à feu de taille M
+
+|- CLASS="premier"
+| [Roulade gobeline](./Roulade gobeline.md)* || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Acrobaties](./Acrobaties.md) || Le personnage peut éviter des dégâts en faisant une roulade en arrière
+
+|- CLASS="premier"
+| [Tout doit brûler !](./Tout doit brûler !.md) || <sup>*ISR*</sup> || [BBA](./BBA.md) +1, [gobelin](./Gobelin (race).md) || Les alliés adjacents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) avec certaines attaques de feu
+
+|- CLASS="premier"
+| [Tueur de chiens, chasseur de chevaux](./Tueur de chiens, chasseur de chevaux.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), 1 rang en [Dressage](./Dressage.md) || +2 aux jets d’attaque, de dégâts et de confirmation critique contre les chiens et les chevaux
+
+|- CLASS="premier"
+| [Vandale](./Vandale.md) || <sup>MR</sup> || [Gobelin](./Gobelin (race).md), aptitude de classe d’[attaque sournoise](./attaque sournoise.md) || Le personnage peut infliger la moitié des dégâts de ses attaques sournoises aux objets abandonnés
+|}
+
+<table width="100%"><tr><td width="49%">
+#### Archétypes de classe
+- [Grinceur sauvage (barbare)](./Grinceur sauvage (barbare).md) *(MR)*
+- [Pyrobombardier (alchimiste)](./Pyrobombardier (alchimiste).md) *(MR)*
+- [Maraudeur ailé (alchimiste)](./maraudeur ailé (alchimiste).md) *(MR)*
+
+#### Équipement
+- [Apaise-tripes (fiole)](./Apaise-tripes (objet).md) *(MR)*
+- [Chausse-trappes (vicieuses)](./Chausse-trappes vicieuses (objet).md) *(MR)*
+- [Cornet à feu](./Cornet à feu (objet).md) *(MR)*
+- [Fétiche tribal](./Fétiche tribal (objet).md) *(MR)*
+- [Gant de jet](./Gant de jet (objet).md) *(MR)*
+- [Graisse de porc](./Graisse de porc (objet).md) *(MR)*
+- [Harnais de vol](./Harnais de vol (objet).md) *(MR)*
+- [Lance-bombe](./Lance-bombe (objet).md) *(MR)*
+- [Lime à croc](./Lime à croc (objet).md) *(MR)*
+- [Marinades gobelines (1 bocal)](./Marinades gobelines (objet).md) *(MR)*
+- [Objet bricolé](./Objet bricolé (objet).md) *(MR)*
+- [Racine veloutée (fiole)](./Racine veloutée (objet).md) *(MR)*
+- [Tranchechien](./tranchechien (arme).md) *(MR)*
+- [Coupecheval](./Coupecheval (arme).md) *(MR)*
+
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+#### Objets magiques
+- [Braise bondissante](./Braise bondissante.md) *(MR)*
+- [Cape de crocs](./Cape de crocs.md) *(MR)*
+- [Harnois gobelin](./Harnois gobelin.md) *(ISR)*
+- [Lame en ferraille](./Lame en ferraille.md) *(ISR)*
+- [Pierre réparatrice](./Pierre réparatrice.md) *(MR)*
+- [Poche explosive](./Poche explosive.md) *(MR)*
+- [Sifflet à chien dévastateur](./Sifflet à chien dévastateur.md) *(MR)*
+- [Torche du chant guerrier](./Torche du chant guerrier.md) *(ISR)*
+
+#### Option de classe
+- Malédictions d'oracle
+  - [Infesté](./malédictions doracle.md#INFESTE) *(MR)*
+- Maléfices de sorcière
+  - [Sorcière de boue](./maléfices.md#Sorcièredeboue) *(MR)*
+
+#### Sorts
+- [Ami du feu](./Ami du feu.md) *(ISR)*
+- [Boule de boue](./Boule de boue.md) *(MR)*
+- [Copain de boue](./Copain de boue.md) *(MR)*
+- [Corps caoutchouteux](./Corps caoutchouteux.md) *(MR)*
+- [Éternuement de feu](./Éternuement de feu.md) *(MR)*
+- [Fouet affaiblissant](./Fouet affaiblissant.md) *(MR)*
+- [Jumeau de vomi](./Jumeau de vomi.md) *(MR)*
+- [Piste de feu](./Piste de feu.md) *(MR)*
+- [Rature](./Rature.md) *(MR)*
+
+</td></tr></table>
+
+{s:cm}
+#### Écologie
+<div style="float: right; margin-left: 10px; margin-right: 0px; max-width: 300px;" class="presentation recentre">
+{s:CM}
+##### Les livres de formules gobelins
+Les gobelins sont tous illettrés, leurs alchimistes sont donc incapables d’utiliser des livres de formules ordinaires. Les leurs sont remplis de tâches de divers fluides, de dessins représentant les matériaux nécessaires et d’autres représentations de la formule basées sur l’odeur, le goût et les pictogrammes. Deux alchimistes gobelins peuvent s’échanger leurs formules aussi facilement que le feraient deux alchimistes ordinaires avec des livres de formules écrites normalement.
+
+Un [alchimiste](./Alchimiste.md) lettré peut apprendre une formule à partir du livre d’un gobelin en passant une journée à l’étudier (au lieu d’une heure) et en réussissant un test d’[Art de la magie](./Art de la magie.md) d’un [DD](./DD.md) = 20 + niveau de la formule (au lieu de 15 + niveau de la formule). En dehors de cela, le processus se déroule comme pour copier une formule tirée du livre d’un autre alchimiste.
+
+Les gobelins ne peuvent apprendre une formule à partir d’un parchemin ou d’un livre écrit dans une langue mais un alchimiste ou un [magicien](./Magicien.md) peut passer une journée à la lui expliquer à l’oral pour qu’il puisse l’apprendre.
+
+</div>La société gobeline se définit par l’anarchie, la couardise et la
+malveillance. Les gobelins sont incapables de réfléchir à long
+terme et se concentrent uniquement sur l’instant présent.
+Ils ne peuvent pas se projeter plus de quelques jours à l’avance. À
+moins qu’ils ne trouvent des individus plus prospères à voler (y
+compris une autre tribu gobeline), ils mènent une vie de misère,
+à grignoter des insectes et à chasser du menu gibier pour remplir
+leur ventre gargouillant. Quand ils se déplacent, ils laissent derrière
+eux un sillage de destruction et de carnage. Ils savent s’adapter à de
+nombreux environnements et sont capables d’évoluer en peu de
+temps (le temps d’une vie humaine, ce qui correspond à quelques
+générations pour eux), afin d’augmenter leurs chances de survie
+dans un environnement donné, ce qui implique qu’ils sont à chaque
+fois un peu plus difficiles à combattre.
+
+Les gobelins n’ont aucun mal à vivre au milieu des ordures
+et ignorent les concepts d’hygiène personnelle et publique, on
+les repère donc facilement à l’odeur. Malheureusement pour les
+aventuriers avides de trésors, les gobelins possèdent rarement des
+trésors dignes de ce nom car ils qualifient ainsi une chope d’étain
+poli, une poignée de cailloux rouges ou même un bâton qui rend
+malade quand on le mâche. Même le trésor du chef (volé aux autres
+gobelins et caché quelque part dans l’antre de la tribu) vaut rarement
+plus de quelques pièces d’or.
+
+Les gobelins sont aussi agiles que des rats mais, curieusement, ils
+sont souvent victimes d’accidents. Dans une bataille, leurs attaques
+sont parfois aussi dangereuses pour eux et leurs alliés que pour leurs
+adversaires. Quand un important groupe de gobelins se retrouve
+sous la direction d’un puissant chef, d’un bandit à la poigne de fer ou
+d’un seigneur de guerre hobgobelin, ces êtres passent du statut de
+dangereuse vermine à celui de véritable menace, mais cela tient plus
+à leur nombre important qu’à leurs talents ou à leur entraînement.
+Les maîtres les plus rusés les utilisent pour distraire l’adversaire
+et semer le chaos, profitant de leurs activités pour camoufler une
+attaque bien plus dévastatrice qu’ils lancent d’ailleurs. Les colons
+et les aventuriers habitués aux gobelins savent qu’il se passe
+quelque chose d’anormal dès que ces petits nuisibles se montrent
+étrangement courageux, compétents et loyaux.
+
+Les gobelins grandissent vite et sont considérés comme des
+adultes dès leurs 5 ans. Grâce à leur taux de reproduction élevé,
+leur maturation rapide et leur physiologie adaptable, les gobelins
+prospèrent sous tous les climats ou presque. En période d’abondance,
+ils se multiplient encore plus rapidement qu’à l’ordinaire, générant
+une surpopulation et augmentation des pillages. Le rôle des parents
+se limite à vérifier que les petits ont à manger et ne s’éloignent pas
+trop. Les jeunes sont souvent attachés avec des chaînes ou des cordes
+ou parqués dans des cages rudimentaires tant qu’ils ne sont pas assez
+grands pour marcher seuls parmi le reste de la tribu. La violence
+entre jeunes est monnaie courante et la tribu a même tendance à
+l’encourager. Les divertissements consistent parfois à regarder les
+petits se battre, armés de couteaux, d’armes de récupération ou juste
+de leurs dents de lait et de leurs griffes.
+
+Une fois que les gobelins sont physiquement adultes, ils sont
+censés se nourrir seuls, ceux qui s’en montrent incapables sont
+condamnés à mourir de faim. Ce sont les talents de chasseur, de
+voleur et de bourreau des faibles qui donnent accès aux places les
+plus influentes dans la tribu. Toute l’espèce est illettrée (à cause d’une
+superstition disant que le fait d’écrire vole les mots qui sont dans la
+tête). Ainsi, même les gobelins qui présentent un certain talent pour
+la magie ou l’alchimie ont peu de chances d’explorer ces sujets. Les
+adeptes de ces arts difficiles sont donc à la fois admirés et redoutés.
+Certains gobelins sont particulièrement doués pour fabriquer des
+armes et des objets mécaniques servant à assassiner et détruire, mais
+bien peu possèdent la patience et le talent des kobolds en matière
+de mécanique.
+
+Les gobelins développent une obsession pour le feu dès leur plus
+jeune âge. Ils n’ont pas besoin de prétexte pour allumer un feu de joie
+et fêter quelque chose et leurs farces les plus courantes consistent à
+mettre le feu à leurs camarades ou à leurs possessions. Les rituels
+religieux, les fêtes, les funérailles, les festins… tout s’accompagne
+d’un immense feu de joie. Et quand les gobelins partent en guerre,
+ils emportent du feu avec eux.
+
+Les gobelins éprouvent une haine viscérale pour les chiens et
+les chevaux, un sentiment qui dépasse de loin l’animosité qu’ils
+éprouvent pour tout ce qui est capable de les tuer. Les chiens et les
+chevaux semblent percevoir cela d’instinct et attaquent les gobelins
+à la moindre occasion. Dès leurs premières interactions avec les
+gobelins, les humains ont appris à tirer parti de cette aversion
+mutuelle et la plupart des villages proches d’un territoire gobelin
+ont des chiens attachés en périphérie de la communauté pour
+l’avertir de leurs aboiements et attaquer si un gobelin tente de se
+faufiler en ville.
+
+Les gobelins sont de nature superstitieuse mais ils n’ont pas de
+religion unificatrice. Quelques chefs de tribu vénèrent un démon
+ou un diable mais ces créatures ne sont souvent qu’une invention en
+laquelle le gobelin croit. D’autres adorent une souche ressemblant à
+un visage, le squelette d’un animal découvert dans une grotte ou un
+vent gémissant. Une tribu peut abandonner ses anciens dieux et en
+adopter de nouveaux quand elle change de chef.
+Les gobelins ont peu de traditions culturelles et aucune histoire
+orale, en dehors des souvenirs des membres les plus âgés de la
+tribu, en revanche, ils adorent chanter : une bonne chanson peut se
+transmettre de tribu en tribu sur des milliers de kilomètres et durer
+des générations. La plupart des gens trouvent la musique gobeline
+grossière et primitive. Elle décrit souvent avec force détails une
+victoire, réelle ou imaginaire, de la tribu.
+
+L’antre d’un gobelin est généralement une simple grotte avec des
+nids délimités par des peaux et de l’herbe coupée. Les « villages »
+les plus évolués sont un ramassis navrant de taudis construits dans
+des ruines ou des épaves ou faits de rebuts. Les gobelins ne portent
+aucun intérêt à l’agriculture et leur artisanat se limite au recyclage des
+déchets des autres communautés qu’ils reconvertissent en armes et
+en armures, dont les épées grossières appelées les « tranchechiens ».
+Tout comme les cafards, une fois que des gobelins se sont
+installés en marge d’une société, il est bien difficile de les éradiquer
+complètement. Certaines communautés ferment délibérément
+les yeux quand des gobelins viennent s’approvisionner dans leurs
+tas d’ordures mais un village qui se montre trop tolérant retrouve
+bientôt ses animaux de compagnie et même ses enfants dans les
+marmites des gobelins.

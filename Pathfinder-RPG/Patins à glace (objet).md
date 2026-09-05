@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Patins à glace (objet)
+Title: Patins à glace
+LastModified: 2021-09-22 14:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Ces bottines à hauteur de mollet sont équipées d’une lame sous la semelle, permettant de se déplacer rapidement sur la glace. Le port de patins permet au personnage de se déplacer sur la glace à sa vitesse normale s’il réussit un test d’[Acrobaties](./Acrobaties.md) [DD](./DD.md) 5 (cela lui permet également de courir et de charger) mais sa vitesse de déplacement est réduite de moitié sur tous les autres terrains. Il faut une [action complexe](./Action complexe.md) pour enfiler ou retirer des patins à glace. On peut patiner avec un seul patin mais le [DD](./DD.md) du test d’[Acrobaties](./Acrobaties.md) monte à 15.

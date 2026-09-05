@@ -1,0 +1,5 @@
+---
+{}
+---
+
+<A HREF="?3?" TARGET="_BLANK"><IMG SRC="/wiki/public/upload/?1?" WIDTH="?2?" STYLE="float: right; margin: 0 0 5px 5px;"/></A>

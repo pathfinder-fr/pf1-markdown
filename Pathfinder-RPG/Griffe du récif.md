@@ -1,0 +1,54 @@
+---
+Name: Pathfinder-RPG.Griffe du récif
+Title: Griffe du récif
+LastModified: 2025-04-12 07:55
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Griffe du récif|FP 1}
+{s:pucem|Aberration|Aquatique|Tempéré}
+- *Source : Bestiaire 2* p.155
+- **PX** 400
+- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN
+- **Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+(((Défense)))
+- **CA** 14, contact 12, pris au dépourvu 13 (Dex +1, naturelle +2, taille +1)
+- **pv** 13 (2d8+4)
+- **Réf** +1, **Vig** +2, **Vol** +4
+- **Capacités défensives** [férocité](./Férocité.md) ; **Résistances** froid 5
+(((Attaque)))
+- **VD** 1,50 m (1 {s:c}), nage 12 m (8 {s:c})
+- **Corps à corps** 2 griffes, +2 (1d4 plus étreinte et poison)
+- **Attaques spéciales** [constriction](./constriction.md) (1d4), frénésie meurtrière
+(((Caractéristiques)))
+- **For** 10, **Dex** 13, **Con** 14, **Int** 5, **Sag** 12, **Cha** 13
+- **BBA** +1, **BMO** +0 (+8 [lutte](./lutte.md)), **DMD** 11 ([croc-en-jambe](./croc-en-jambe.md) impossible)
+- **Dons** [Science de l’initiative](./Science de linitiative.md)
+- **Compétences** [Natation](./Natation.md) +8, [Perception](./Perception.md) +6
+- **Langues** commun (incapable de parler)
+- **Particularités** [amphibie](./Amphibie.md)
+(((Écologie)))
+- **Environnement** milieu aquatique (près des côtes)
+- **Organisation sociale** solitaire, banc (2–5) ou harem (6–11)
+- **Trésor** aucun
+(((Capacités spéciales)))
+- **Étreinte (Ext).** Une griffe du récif peut utiliser sa capacité d’[étreinte](./Étreinte.md) contre n’importe quelle cible, quelle que soit sa taille. Les griffes du récif bénéficient d’un bonus racial de +8 aux tests de [lutte](./lutte.md) (ce bonus remplace le bonus normal de +4 que les créatures dotées de la capacité d’[étreinte](./Étreinte.md) reçoivent).
+- **Frénésie meurtrière (Sur).** Quand une griffe du récif est tuée, son corps est agité de spasmes terrifiants. Au moment même de sa mort, la griffe du récif effectue une attaque à outrance contre une créature située dans la zone qu’elle contrôle. Si plus d’une créature s’y trouve, déterminez aléatoirement la cible de chacune des attaques (il peut aussi s’agir d’une autre griffe du récif ).
+- **Poison (Ext).** Griffe — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [For](./Force.md) ; *guérison* 1 réussite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).
+
+</div>
+</td><td><div>*Des piquants rouge-sang ornent toute la longueur de cette créature terrifiante qui ressemble à un homard à l’avant et à une anguille à l’arrière.*
+
+Les griffes du récif sont des prédateurs vicieux dotés d’une intelligence supérieure à celles des animaux. Elles utilisent surtout leur force et leurs instincts pour survivre, chassant des poissons, des crabes géants, des dauphins et s’en prenant même parfois aux créatures terrestres qui s’approchent à moins d’une centaine de pas du rivage.
+
+Dans les zones habitées, les griffes du récif s’attaquent à ceux qui viennent chercher des trésors sur les plages, aux plongeurs et aux pêcheurs. Ils vont même parfois à l’encontre de leur nature solitaire pour coordonner des attaques avec d’autres griffes du récif. Les griffes du récif doivent cependant rester prudentes car, dans certaines régions, on considère ces abominations comme un met délicieux. De courageux pêcheurs s’aventurent dans les baies et le long des côtes infestées de griffes du récif et les attirent à l’aide de morceaux de viande fraîche avant de découper leurs puissantes pinces à l’aide de haches.
+
+Les griffes du récif ne peuvent pas parler mais elles comprennent les langues utilisées par les humanoïdes qui habitent à proximité de leur territoire de chasse. Elles utilisent cette faculté pour éviter les pêcheurs et pour coordonner leurs attaques. Les griffes du récif ne conservent pas de trésor : c’est le goût de la chair et le croquant des os qu’elles savourent à la manière dont un avare savoure son or.
+
+Une griffe du récif moyenne atteint à peu près un mètre à l’âge adulte et pèse 35 kg. Les femelles se rassemblent pour se reproduire une fois tous les 2 à 3 ans et partent alors chasser le mâle, une chasse qui se termine par la mort du mâle qu’elles réduisent en charpies.
+</div></td></tr></table>

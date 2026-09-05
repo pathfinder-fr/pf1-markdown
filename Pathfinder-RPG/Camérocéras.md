@@ -1,0 +1,53 @@
+---
+Name: Pathfinder-RPG.Camérocéras
+Title: Camérocéras
+LastModified: 2023-12-16 00:28
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Camérocéras|FP 11}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.51*}
+{s:BDTexte|**PX** 12 800}
+{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
+{s:BDTexte|**Init** +6 ; **Sens** [odorat surdéveloppé](./Odorat surdéveloppé (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 25, contact 10, pris au dépourvu 23 (Dex +2, naturelle +15, taille -2)}
+{s:BDTexte|**pv** 152 (16d8+80)}
+{s:BDTexte|**Réf** +12, **Vig** +15, **Vol** +10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 1,50 m, nage 6 m, [propulsion](./Propulsion (capacité).md) 27 m}
+{s:BDTexte|**Corps à corps** tentacules, +19 (4d8+9/19-20 plus [étreinte](./Étreinte (capacité).md)) et morsure, +19 (2d8+9/19-20)}
+{s:BDTexte|**Espace occupé** 4,50 m ; **Allonge** 4,50 m}
+{s:BDTexte|**Attaques spéciales** ceinturage, [constriction](./Constriction (capacité).md) (4d8+13)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 28, **Dex** 14, **Con** 21, **Int** 2, **Sag** 17, **Cha** 5}
+{s:BDTexte|**BBA** +12 ; **BMO** +23 (+27 en [lutte](./lutte.md)) ; **DMD** 35 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md)<sup>S</sup>, [Fente](./Fente.md), [Frappe décisive](./Frappe décisive.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Science du critique](./Science du critique.md) (tentacules), [Talent](./Talent.md) (Discrétion), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Natation](./Natation.md) +17, [Perception](./Perception.md) +15 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Particularités** acclimaté à la pression, coquille, tentacules}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** océans}
+{s:BDTexte|**Organisation** solitaire ou couple}
+{s:BDTexte|**Trésor** fortuit}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Acclimaté à la pression (Ext).** Un camérocéras ne subit aucun dégât infligé par la pression à une profondeur de moins de 1,5 kilomètre, même s’il se retrouve instantanément à une profondeur où la pression est différente.}
+{s:BDTexte|**Ceinturage (Ext).** Par une [action de mouvement](./Action de mouvement.md), un camérocéras peut maintenir sa prise en situation de [lutte](./lutte.md), comme s’il possédait le don [Lutte supérieure](./Lutte supérieure.md), mais s’il le fait, il doit décider d’immobiliser sa cible.}
+{s:BDTexte|**Coquille (Ext).** Par une [action de mouvement](./Action de mouvement.md), un camérocéras peut rentrer ses extrémités dans sa coquille, avec une créature de taille M ou jusqu’à deux créatures de taille P ou plus petites qu’il agrippe, et refermer la coquille en faisant coulisser un « couvercle » amovible sur l’ouverture. Il ne peut pas voir, sentir, ou attaquer des créatures situées à l’extérieur de sa coquille tant qu’il reste enfermé de cette façon, mais son bonus d’armure naturelle à la CA augmente de +6. Il ne peut pas se déplacer, si ce n’est pour nager à la verticale en modifiant la pression des cavités internes ; il perd son bonus de Dextérité à la CA contre des adversaires situés à l’extérieur. Une créature qui échappe à la prise du camérocéras à l’intérieur de sa coquille en sort et celle-ci se referme derrière lui. On peut enfoncer le couvercle de la coquille grâce à un test de manœuvre offensive de lutte, l’attaquer depuis l’intérieur (CA 19) ou l’attaquer depuis l’extérieur en réussissant un test de manœuvre offensive de [destruction](./destruction.md). Le couvercle de la coquille possède une solidité de 10 et 15 points de résistance. Le camérocéras peut sortir de sa coquille par une [action libre](./Action libre.md).}
+{s:BDTexte|**Tentacules (Ext).** Un camérocéras effectue une seule attaque primaire avec l’ensemble de ses tentacules.}
+</div></td>
+<td><div>*De l’extrémité évidée d’un long coquillage en forme de cône surgit une énorme créature dotée d’yeux impassibles au-dessus d’un amas de tentacules.*
+
+Prédateur embusqué primordial que l’on trouve souvent dans les profondeurs océaniques où la lumière du soleil est trop faible pour permettre le développement d’une quelconque flore marine, le camérocéras est un danger sérieux pour ceux qui osent explorer l’océan. Un camérocéras peut survivre jusqu’à une profondeur maximale de 1,5 kilomètre, car sa coquille est suffisamment résistante pour supporter la pression de l’eau à cette profondeur. Il ne peut toutefois pas survivre très longtemps à des profondeurs plus grandes. De temps à autre, la faim pousse ces animaux à remonter vers des eaux moins profondes et plus claires. Quand un camérocéras ceinture ses proies avec ses tentacules, il peut rentrer dans sa coquille avec la créature sans défense et rejoindre le fond de l’océan pour la dévorer en toute tranquillité.
+
+Un camérocéras moyen fait 7,50 mètres de long et la majorité de cette longueur inclut sa longue coquille. Celle-ci est en grande partie creuse et c’est pour cette raison que la plupart des spécimens ne pèsent qu’une tonne environ. En plus des tentacules avec lesquels il attrape ses proies, un camérocéras possède quatre tentacules spéciaux qui lui confèrent un odorat particulièrement développé.
+
+#### Le camérocéras comme [compagnon animal](./liste des compagnons animaux.md)
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 1,50 m, nage 6 m, propulsion 27 m ; **CA** armure naturelle +1 ; **Attaque** tentacules (1d4 plus [étreinte](./Étreinte (capacité).md)), morsure (1d3) ; **Caractéristiques** For 14, Dex 15, Con 11, Int 2, Sag 12, Cha 2 ; **Particularités** [vision nocturne](./Vision nocturne (capacité).md), acclimaté à la pression
+
+**Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** tentacules (1d6 plus [étreinte](./Étreinte (capacité).md)), morsure (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaques spéciales** [constriction](./Constriction (capacité).md) (1d6)
+</div></td></tr></table>

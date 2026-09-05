@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<a href="/Wiki/Pathfinder-RPG.LArt de la guerre (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Ultimate Combat/Art de la Guerre" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoUC.gif" style="opacity: 0.7" loop="infinite" />
+</a>

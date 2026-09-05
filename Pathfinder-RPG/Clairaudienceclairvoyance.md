@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Clairaudienceclairvoyance
+Title: Clairaudience/clairvoyance
+LastModified: 2022-11-17 09:16
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 3
+- Sort chaman 3
+- Sort hypnotiseur 3
+- Sort magicien 3
+- Sort médium 2
+- Sort occultiste 3
+- Sort psychiste 3
+- Sort sorcière 3
+- Sort spirite 3
+- Src Manuel des joueurs
+---
+
+**École** [Divination](./Divination.md) ([scrutation](./branche scrutation.md)) ; **Niveau** [Bard](./Barde.md) 3, [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+
+**Temps d'incantation** 10 minutes  
+
+**Composantes** [V, G, F/FD](./composantes.md) (un petit cornet acoustique ou un œil de verre)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Effet** capteur magique  
+
+**Durée** 1 minute/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+*Clairaudience/clairvoyance* crée un capteur magique invisible grâce auquel le personnage peut se concentrer sur le lieu de son choix et de voir ou d’entendre (selon son désir) ce qui s’y passe comme s’il s’y trouvait. Le personnage n'a pas besoin d'avoir de ligne de vue ou d'effet, mais l’endroit observé doit être connu (le personnage doit s’y être déjà rendu auparavant, à moins qu’il s’agisse d’un lieu évident). Une fois le lieu choisi, le capteur ne bouge plus, mais il peut pivoter dans n’importe quelle direction. A l’opposé d’autres sorts de [scrutation](./branche scrutation.md), celui-ci ne permet pas l’utilisation des sens accrus par magie. Si l’endroit désigné est obscurci magiquement, le personnage ne voit rien. Si cette obscurité est naturelle, il perçoit ce qui se passe dans un rayon de trois mètres autour du point d’effet du sort. *Clairaudience/clairvoyance* ne fonctionne que dans le [plan](./Plans.md) d’existence où le personnage se situe actuellement.

@@ -1,0 +1,59 @@
+---
+Name: Pathfinder-RPG.Adhukaït
+Title: Asura, Adhukaït
+LastModified: 2022-08-01 14:16
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Adhukaït|FP 7}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire 3 page 19*}
+{s:BDTexte|**PX** 3 200}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([asura](./sous-type asura.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [Vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) à 12 cases ; [Perception](./Perception.md) +19}
+{s:BDTexte|**Aura ** insaisissable (6 {s:c})}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 20, contact 14, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +6)}
+{s:BDTexte|**pv** 76 (9d10+27) ; [régénération](./Régénération.md) 5 (armes du Bien, sorts du Bien)}
+{s:BDTexte|**Réf** +11, **Vig** +6, **Vol** +9 ; +2 contre les enchantements, esprit dual}
+{s:BDTexte|**RD** 5/Bien ; **Immunité** effets des malédictions, maladie, poison, prise en tenaille ; **Résistance** acide 10, électricité 10 ; **RM** 18}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** 2 griffes, +9 (1d4+2) et 2 kukris de maître, +15/+10 (1d4+5/18-20)}
+{s:BDTexte|**Attaque spéciale** danse du désastre}
+{s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +9)}
+{s:BDSorts|À volonté — *[feuille morte](./Feuille morte.md)*, *[pattes d’araignée](./Pattes daraignée.md)*, *[Téléportation suprême](./Téléportation suprême.md)* (personnelle plus 25 kilos d’objets uniquement)}
+{s:BDSorts|3/jour — *[clignotement](./Clignotement.md)*, *[croissance d’épines](./Croissance dépines.md)*, *[flou](./Flou.md)*, *[image miroir](./Image miroir.md)*}
+{s:BDSorts|1/jour— *[convocation](./convocation.md)* (niveau 4, 1 adhukaït 35%)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 20, **Dex** 17, **Con** 17, **Int** 13, **Sag** 16, **Cha** 16}
+{s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 28}
+{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15 (+19 pour le saut), [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (plans) +9, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +21, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +19, [Représentation](./Représentation.md) (danse) +14}
+{s:BDTexte|**Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) (pour le saut), +6 en [Évasion](./Évasion.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Langues**  commun, infernal ; [télépathie](./Télépathie.md) à 30 m}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous (Enfer)}
+{s:BDTexte|**Organisation** solitaire, couple ou groupe (3-12)}
+{s:BDTexte|**Trésor** standard (2 kukris de maître, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Danse du désastre (Sur).** Lorsqu’un adhukaït touche avec une attaque à outrance au corps à corps, il peut se déplacer de 3 m avant de porter son attaque suivante. La vitesse normale de l’adhukaït n’entrave pas son déplacement : il peut se déplacer de 3 m après avoir réussi au moins l’une de ses quatre attaques, tant qu’il lui en reste une à faire.}
+{s:BDTexte|**Esprit dual (Sur).** L’adhukaït est une seule créature mais il possède deux esprits différents. Il a donc droit à deux jets de sauvegarde contre les effets mentaux. S’il réussit l’un de ces jets, les effets mentaux ne l’affectent pas.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [asuras](./Asura.md).***</li></ul>
+*Ces deux fiélons couverts de pointes reliés par leurs cavités corporelles et leurs membres s’empalant les uns dans les autres, dansent en faisant tournoyer leurs couteaux jumeaux à lame courbe.*
+
+Aussi connus sous le nom de jumelés, les adhukaïts sont des guerriers asuras spécialisés dans les raids rapides ayant pour objectifs le vol, l’assassinat ou un enlèvement. L’adhukaït est un adepte de l’infiltration et de l’évasion. Quand il s’agit de tuer, ce fiélon est d’une sauvage efficacité, sauf lorsqu’il souhaite prolonger la douleur pour faire enrager ses ennemis ou les briser ses ennemis.
+
+Bien que l’adhukaït semble constitué de deux créatures liées ensemble, il n’est en fait qu’une entité possédant deux esprits. La personnalité et le but de la créature forment un tout, au même titre que sa curieuse forme physique. L’adhukaït mesure 1,80 m et pèse 165 kilos.
+
+Les adhukaïts préfèrent établir leurs repaires dans les coins désolés, tout particulièrement dans les endroits imprégnés de la terreur et des chagrins passés. Dans ces antres, ils gardent les trophées de leurs contrats pour méditer dessus et les étudier. Les adhukaïts gardent également les trésors dérobés dans les temples et autres lieux saints. Au repos, ils restent toujours près de leurs biens mal acquis afin qu’aucun magicien trop curieux ne localise ces trésors perdus.
+
+La légende raconte que les premiers adhukaïts sont nés des restes brisés de deux brigands divins. Ces voleurs, dont l’histoire a oublié le nom, tentèrent un raid sur une résidence céleste. La divinité qui y vivait alors et ses serviteurs massacrèrent les voleurs, broyèrent leurs corps jusqu’à ce qu’ils n’en forment plus qu’une unique masse informe et la jetèrent sur la terre. Quand les cadavres  brisés et entremêlés heurtèrent le monde, ils provoquèrent de terribles séismes et raz-de-marée dans lesquels périrent des milliers d’innocents, y compris de nombreux adorateurs de l’impétueuse divinité qui avait malencontreusement provoqué cette catastrophe. Les premiers adhukaïts se développèrent à partir des vestiges brisés et emmêlés des brigands, sortant du cratère formé par la chute pour servir les asuras en tant que soldats d’élite.
+</div></td></tr></table>

@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Archéologue (barde)
+Title: Archéologue
+LastModified: 2024-11-26 23:39
+Categories:
+- Archétype
+- Archétype barde
+- Classe
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:Menuarchétypebarde}{s:UC}''L’archéologue n’est pas un chercheur qui se complaît dans les
+bureaux, il travaille directement sur le terrain.''
+
+Contrairement aux autres bardes, il sacrifie sa capacité à servir de source d’inspiration pour les autres pour bénéficier d’un éventail de talents dignes d’un roublard. Cet archétype convient également aux roublards qui veulent se concentrer sur l’érudition plutôt que sur les coups de poignard dans le dos.
+
+#### Représentation bardique
+Un archéologue ne dispose pas de la moindre [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) ni d’aucun type de [représentation](./Représentations.md).
+
+#### Chance de l’archéologue (Ext)
+La chance sourit à l’archéologue. Par une [action rapide](./Action rapide.md), il peut faire appel à sa bonne fortune pour gagner un bonus de chance de +1 aux [jets d’attaque](./jet dattaque.md), [de sauvegarde](./jet de sauvegarde.md) et de dégâts des armes et aux tests de compétence. Chaque jour, il peut utiliser ce pouvoir pendant un nombre de rounds égal à 4 + son modificateur de [Charisme](./Charisme.md). Le barde peut maintenir ce bonus par une action libre mais il se dissipe immédiatement si le barde se fait tuer, s’il est [paralysé](./Paralysé.md), [inconscient](./Inconscient.md), [étourdi](./Étourdi.md) ou s’il ne peut pas faire d’action libre. En ce qui concerne les dons, les pouvoirs, les effets et autres éléments qui ont trait aux représentations bardiques, la chance de l’archéologue est considérée comme une représentation. Comme celle-ci, il est impossible de la maintenir en même temps qu’une autre représentation. Le bonus passe à +2 au [niveau](./niveau.md) 5, à +3 au [niveau](./niveau.md) 11 et à +4 au [niveau](./niveau.md) 17.
+
+#### Explorateur rusé (Ext)
+Au niveau 2, l’archéologue gagne un bonus aux tests de [Sabotage](./Sabotage.md) et de [Perception](./Perception.md) égal à la moitié de son niveau de classe. Il peut démanteler des mécanismes complexes en moitié moins de temps que la normale (1 round au minimum) et ouvrir une serrure par une action simple. Au niveau 6, il peut faire 10 à un test de Sabotage, même s’il est distrait ou en danger, et peut désamorcer des pièges magiques. Ce pouvoir remplace la [versatilité artistique](./Versatilité artistique.md).
+
+#### Esquive instinctive (Ext)
+Au [niveau](./niveau.md) 2, l’archéologue obtient l’[esquive instinctive](./esquive instinctive.md), comme le pouvoir de roublard du même nom. Ce pouvoir remplace [érudition](./Barde.md#ERUDITION).
+
+#### Sens des pièges (Ext)
+Au [niveau](./niveau.md) 3, l’archéologue gagne [sens des pièges](./sens des pièges.md) +1, comme le pouvoir de roublard du même nom. Ce bonus augmente de +1 tous les trois niveaux après le 3, avec un maximum de +6 au niveau 18.
+
+#### Talents de roublard
+Au niveau 4, l’archéologue gagne un [talent de roublard](./Roublard.md#TALENTDEROUBLARD). Il gagne un nouveau talent tous les quatre niveaux après le 4. En dehors de ceci, ce pouvoir fonctionne comme celui de [roublard](./Roublard.md).
+
+#### Esquive totale (Ext)
+Au niveau 6, l’archéologue gagne [esquive totale](./esquive totale.md), comme le pouvoir de roublard du même nom.
+
+#### Talent de maître roublard
+Au niveau 12 et ensuite tous les quatre niveaux, l’archéologue peut choisir un [talent de maître roublard](./Roublard.md#TALENTDEMAITREROUBLARD) au lieu d’un [talent de roublard](./Roublard.md#TALENTDEROUBLARD).

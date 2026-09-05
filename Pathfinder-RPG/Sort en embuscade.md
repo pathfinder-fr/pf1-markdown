@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Sort en embuscade
+Title: Sort en embuscade
+LastModified: 2020-09-03 18:35
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Dirty Tactics Toolbox
+---
+
+{s:cs|Dirty Tactics Toolbox}
+
+*Vos sorts sont particulièrement efficaces contre ceux que vous surprenez non préparés*
+
+**Avantage.** Durant le [round de surprise](./round de surprise.md), les adversaires qui n’ont pas encore agit reçoivent un malus de -2 aux [jets de sauvegarde](./JDS.md) contre les sorts lancés par le personnage. Les créatures qui ont déjà agit reçoivent un malus de -1 à la place.
+
+(((Ambuscading Spell
+
+Your spells are particularly effective against those caught unawares.
+
+Benefit: During a surprise round, your opponents that have not yet acted take a –2 penalty on saving throws against spells you cast. Creatures that have already acted take a –1 penalty during the surprise round.)))

@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Douleur bienvenue
+Title: Douleur bienvenue
+LastModified: 2021-03-02 17:30
+Categories:
+- Don
+- Src Dieux et magie
+---
+
+{s:cs}{s:GeM}*Le personnage aime tant souffrir que cela lui confère une plus grande résistance.*
+
+**Conditions.** [Volonté de fer](./Volonté de fer.md), suivant du [dieu de la torture](./../Golarion/Zon-Kuthon.md)
+
+**Avantage.** À chaque fois que le personnage devrait être amené à 0 [point de vie](./pv.md) et en deçà suite à un effet de dégâts continu ou répété (comme le [saignement](./Saignement.md)), il fait un ultime effort pour se débarrasser de cet état préjudiciable. En réussissant un jet de [Volonté](./Volonté.md) [DD](./DD.md) 25, il ignore pour ce tour les dégâts qui l’auraient amené à 0 point de vie ou en deçà. Le DD de chaque jet de Volonté suivant augmente de 1. De plus, les sorts ou les pouvoirs du registre de la [douleur](./Registre.md) n'infligent que la moitié de leurs dégâts (s’il y en a) au personnage.

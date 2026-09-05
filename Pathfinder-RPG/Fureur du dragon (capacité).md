@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.Fureur du dragon (capacité)
+Title: Fureur du dragon (Sur) [Mythique]
+LastModified: 2021-01-31 15:34
+Categories:
+- Règle de monstres universelle
+- Src Campagnes mythiques
+---
+
+Quand un dragon mythique confirme un [coup critique](./coup critique.md) avec une arme naturelle, il ajoute les dégâts de son sang draconique aux dégâts qu’il inflige avec son attaque naturelle.
+
+*Format :* fureur du dragon (1d6 feu) ; *Emplacement :* Attaques spéciales.

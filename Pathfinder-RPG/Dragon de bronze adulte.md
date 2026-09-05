@@ -1,0 +1,50 @@
+---
+Name: Pathfinder-RPG.Dragon de bronze adulte
+Title: Dragon métallique, Dragon de bronze adulte
+LastModified: 2023-02-17 14:35
+Categories:
+- Redirection
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragon de bronze adulte|FP 13}
+{s:pucem|Dragon|Aquatique|Tempéré}
+{s:BDTexte|*Source : Bestiaire*}
+{s:BDTexte|**PX** 25.600}
+{s:BDTexte|[Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md)) de taille TG, LB}
+{s:BDTexte|**Init** +0 ; **Sens** [sens draconiques](./sens draconiques.md) ; [Perception](./Perception.md) +28}
+{s:BDTexte|**Aura** [présence terrifiante](./présence terrifiante (dragon).md) (54 m (36 {s:c}), DD 23)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 28, contact 8, pris au dépourvu 28 (naturelle +20, taille -2)}
+{s:BDTexte|**pv** 184 (16d12+80)}
+{s:BDTexte|**Réf** +10, **Vig** +15, **Vol** +15}
+{s:BDTexte|**Immunités** électricité, paralysie, sommeil ; **RD** 5/magie ; **RM** 24 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c}), nage 18 m (12 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
+{s:BDTexte|**Corps à corps** morsure, +22 (2d8+12), 2 griffes, +22 (2d6+8), 2 ailes, +20 (1d8+4), coup de queue, +20 (2d6+12)}
+{s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour la morsure)}
+{s:BDTexte|**Attaques spéciales** [écrasement](./écrasement.md), souffle ([ligne](./ligne.md) 30 m (20 {s:c}), DD 23, 12d6 électricité), souffle de répulsion}
+{s:BDTexte|**Pouvoirs magiques** (NLS 16<sup>e</sup>)}
+{s:BDSorts|À volonté — *[communication avec les animaux](./Communication avec les animaux.md)*, *[création de nourriture et d'eau](./Création de nourriture et deau.md)*, *[nappe de brouillard](./Nappe de brouillard.md)*}
+{s:BDTexte|**Sorts connus** (NLS 7<sup>e</sup>)}
+{s:BDSorts|3<sup>e</sup> (5/jour) — *[dissipation de la magie](./Dissipation de la magie.md)*, *[lenteur](./Lenteur.md)* (DD 18)}
+{s:BDSorts|2<sup>e</sup> (7/jour) — *[bourrasque](./Bourrasque.md)*, *[flou](./Flou.md)*, *[image miroir](./Image miroir.md)*}
+{s:BDSorts|1<sup>er</sup> (8/jour) — *[alarme](./Alarme.md)*, *[armure de mage](./Armure de mage.md)*, *[bouclier](./Bouclier.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*, *[coup au but](./Coup au but.md)*}
+{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lumière](./Lumière.md)*, *[message](./Message.md)*, *[résistance](./résistance.md)*, deux sorts supplémentaires}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 27, **Dex** 10, **Con** 21, **Int** 20, **Sag** 21, **Cha** 20}
+{s:BDTexte|**BBA** +16, **BMO** +26, **DMD** 36 (40 contre [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Vigilance](./Vigilance.md), [Vol stationnaire](./Vol stationnaire.md)}
+{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +24, [Connaissances](./Connaissances.md) (mystères, géographie) +24, [Diplomatie](./Diplomatie.md) +24, [Discrétion](./Discrétion.md) +11, [Dressage](./Dressage.md)s +21, [Intimidation](./Intimidation.md) +24, [Natation](./Natation.md) +35, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +28, [Vol](./Vol.md) +11}
+{s:BDTexte|**Langues** aquatique, commun, draconique, elfique, gnome, 2 de plus}
+{s:BDTexte|**Particularités** changement de forme, maîtrise des vagues, respiration aquatique}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons métalliques](./dragon métallique.md).***</li><li>***Voir la description des [dragons de bronze](./Dragon de bronze.md).***</li></ul>*Ce dragon élancé est recouvert d’écailles métalliques ternes dont la couleur varie du bronze brillant au bleu marbré.*
+
+Les dragons de bronze s’allient parfois aux voyageurs
+et aux aventuriers dont la cause est juste et qui
+promettent une récompense
+adéquate.
+</div></td></tr></table>

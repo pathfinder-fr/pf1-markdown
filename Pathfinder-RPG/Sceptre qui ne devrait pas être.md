@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Sceptre qui ne devrait pas être
+Title: Sceptre qui ne devrait pas être
+LastModified: 2024-06-03 17:29
+Categories:
+- Objet mag intelligent
+- Src Armes et équipement
+---
+
+<div style="float:right">***Retour aux [Objets intelligents](./Objets intelligents.md).***</div><div class="BD">
+{s:BDTitre|Sceptre qui ne devrait pas être (inférieur)|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 9 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 12 000 po ; **Poids** 4 kg
+(((Caractéristiques)))
+**Alignement** CM ; **Sens** 9 m
+**Intelligence** 5 ; **Sagesse** 10 ; **Charisme** 8 ; **Ego** 3
+**Langues** aucune
+(((Description)))
+Ce sceptre résulte de la fusion entre la magie et l’appendice d’une dangereuse abomination presque dépourvue d’intelligence. Un unique tentacule s’agite à une extrémité. Il abrite l’esprit d’une créature vivante mais il est incapable de communiquer, que ce soit par la parole, par empathie ou par télépathie. Si on le laisse faire, il s’attaque à toutes les créatures à portée. Son propriétaire doit le glisser dans un sac ou une besace quand il dort, sinon, le sceptre tente de s’en prendre à lui ou à autrui.
+Sur ordre du propriétaire, le tentacule effectue une attaque de contact au corps à corps sur une créature adjacente (bonus à l’attaque +8). S’il touche, il inflige 2d8 points de dégâts d’acide. La cible doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 14, sans quoi, elle est [paralysée](./Paralysé.md) pendant 1 [round](./round.md). Cette paralysie est un effet mental de terreur.
+
+La version supérieure du sceptre possède quatre tentacules qui attaquent simultanément la même cible, sur ordre (bonus à l’attaque +12). Ils infligent à eux tous 4d8 points de dégâts d’acide. La victime doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 18 pour ne pas être [paralysée](./Paralysé.md) pour un [round](./round.md) (c’est un effet mental de terreur). Les sceptres supérieurs ont un dessein : servir un maître assoiffé de sang.
+(((Création)))
+**Conditions** *[convocation de monstres III](./Convocation de monstres III.md)* ; **Coût** 6 000 po
+</div>
+
+<div class="BD">
+{s:BDTitre|Sceptre qui ne devrait pas être (supérieur)|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 16 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 40 000 po ; **Poids** 4 kg
+(((Caractéristiques)))
+**Alignement** CN ; **Sens** 36 m, vision dans le noir
+**Intelligence** 10 ; **Sagesse** 10 ; **Charisme** 8 ; **Ego** 6
+**Langues** télépathie (aklo)
+(((Description)))
+Ce sceptre résulte de la fusion entre la magie et l’appendice d’une dangereuse abomination presque dépourvue d’intelligence. Un unique tentacule s’agite à une extrémité. Il abrite l’esprit d’une créature vivante mais il est incapable de communiquer, que ce soit par la parole, par empathie ou par télépathie. Si on le laisse faire, il s’attaque à toutes les créatures à portée. Son propriétaire doit le glisser dans un sac ou une besace quand il dort, sinon, le sceptre tente de s’en prendre à lui ou à autrui.
+Sur ordre du propriétaire, le tentacule effectue une attaque de contact au corps à corps sur une créature adjacente (bonus à l’attaque +8). S’il touche, il inflige 2d8 points de dégâts d’acide. La cible doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 14, sans quoi, elle est [paralysée](./Paralysé.md) pendant 1 [round](./round.md). Cette paralysie est un effet mental de terreur.
+
+La version supérieure du sceptre possède quatre tentacules qui attaquent simultanément la même cible, sur ordre (bonus à l’attaque +12). Ils infligent à eux tous 4d8 points de dégâts d’acide. La victime doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 18 pour ne pas être [paralysée](./Paralysé.md) pour un [round](./round.md) (c’est un effet mental de terreur). Les sceptres supérieurs ont un dessein : servir un maître assoiffé de sang.
+(((Création)))
+**Conditions** *[convocation de monstres V](./Convocation de monstres V.md)* ; **Coût** 20 000 po
+</div>

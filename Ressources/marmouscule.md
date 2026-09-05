@@ -1,0 +1,68 @@
+---
+Name: Ressources.marmouscule
+Title: Marmouscule
+LastModified: 2023-06-24 11:14
+Categories:
+- Monstre maison
+- Règles maison
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Marmouscule|FP 6}
+{s:BDTexte|*Source : Faenil, d'après une idée originale de Steve Jackson dans le livre "les collines maléfiques" *}
+{s:BDTexte|**PX** 2 400}
+{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) de taille TP, CN}
+{s:BDTexte|**Init** +9 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +11}
+{s:BDTexte|**Aura** [zone d’antimagie](./../Pathfinder-RPG/Zone dantimagie.md) (3m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 20, contact 19, pris au dépourvu 12 (Dex +6, naturelle +1, esquive +1, taille +2)}
+{s:BDTexte|**pv** 45 (10d6+10) ; **[Guérison accélérée](./../Pathfinder-RPG/guérison accélérée.md)** 2 (Fer froid)}
+{s:BDTexte|**Réf** +13, **Vig** +4, **Vol** +5}
+{s:BDTexte|**RD** 10/fer froid  ; **RM** 17}
+{s:BDTexte|**Faiblesses** Crainte des armes magiques ; Magie vestigial}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 4,5 m (3 {s:c}), vol 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|**Corps à corps** Rapière, +13 (1d3+6/18-20) et morsure, +8 (1d1-2 plus poison) ou morsure, +13 (1d1-2 plus poison)}
+{s:BDTexte|**Distance** Sarbacane, +13 (1 plus poison)}
+{s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
+{s:BDTexte|**Pouvoirs magiques** (NLS 11e ; concentration +12)}
+{s:BDSorts|Constant — *[zone d’antimagie](./../Pathfinder-RPG/Zone dantimagie.md)*}
+{s:BDSorts|3/jour — *[Assassin imaginaire](./../Pathfinder-RPG/Assassin imaginaire.md)* (DD15)}
+{s:BDSorts|1/jour — *[Changement de plan](./../Pathfinder-RPG/Changement de plan.md)* (personnel plus 2,5 kg uniquement)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 7, **Dex** 22, **Con** 12, **Int** 17, **Sag** 7, **Cha** 13}
+{s:BDTexte|**BBA** +5, **BMO** +1, **DMD** 18}
+{s:BDTexte|**Dons** [Esquive](./../Pathfinder-RPG/Esquive.md), [attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [attaque en vol](./../Pathfinder-RPG/Attaque en vol.md), [attaque spéciale renforcée](./../Pathfinder-RPG/Attaque spéciale renforcée.md) (poison), [escrime gracieuse](./../Pathfinder-RPG/Escrime gracieuse.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +19, [Bluff](./../Pathfinder-RPG/Bluff.md) +14, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) +13, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (géographie) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +7, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +27, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +27, [Évasion](./../Pathfinder-RPG/Évasion.md) +19, [Escamotage](./../Pathfinder-RPG/Escamotage.md) +19, [Perception](./../Pathfinder-RPG/Perception.md) +11, [survie](./../Pathfinder-RPG/Survie.md) +4, [Vol](./../Pathfinder-RPG/Vol.md) +27 }
+{s:BDTexte|**Langues** commun, sylvestre, draconien, elfique, gnome. }
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêts chaudes ou tempérées, Faerie}
+{s:BDTexte|**Organisation sociale** solitaire }
+{s:BDTexte|**Trésor** équipement de PNJ (rapière ou lame incurvée elfique en fer froid, sarbacane avec 20 aiguilles, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Crainte des armes magiques (Ext)** Si une arme magique parvient à infliger des dégâts à un marmouscule alors que celui-ci réprime son aura, il doit réussir un jet de volonté (DD 10 plus le double du bonus d’altération de l’arme) ou devenir [effrayé](./../Pathfinder-RPG/Effrayé.md). Cette frayeur persiste tant que son aura est inactive et 1d4 rounds par la suite.}
+{s:BDTexte|**Formation martiale (Ext)** Les marmouscules sont automatiquement formés au maniement des rapières et des lames incurvées elfiques.}
+{s:BDTexte|**Magie vestigiale (Sur)** A l'exception de *[Changement de plan](./../Pathfinder-RPG/Changement de plan.md)*, Lorsqu’il utilise un sort ou pouvoir magique, le marmouscule a 20% de chance d'échec. De plus un sort ou un pouvoir magique dirigé contre une autre créature a 1% de chance de prendre le marmouscule pour cible. }
+{s:BDTexte|**Poison (Ext)** Poison (Ext) morsure - Blessure ; JS Vigueur DD 18 ; fréquence 1/round pendant 8 rounds ; effet affaiblissement temporaire 1d2 Dex ; guérison 2 JdS réussis consécutivement. Le DD dépend de la Constitution. Si la cible est un jeteur de sort, elle subit également un affaiblissement temporaire de 1d2 dans sa caractéristique principale de jeteur de sort. }
+{s:BDTexte|**Zone d’antimagie (Sur).** La zone d’antimagie du marmouscule s’étend sur 3m de rayon et fonctionne comme [le sort du même nom](./../Pathfinder-RPG/Zone dantimagie.md), mis à part qu’elle peut être confinée uniquement en enfermant le marmouscule dans une boite hermétique en plomb ou en fer froid. Un marmouscule peut couper son aura par une [action de mouvement](./../Pathfinder-RPG/Action de mouvement.md) s’il réussit un jet de volonté DD 12. Par la suite, au début de chacun de ses tours suivants, il devra réussir un jet de volonté DD12 + 1 par nombre de jets précédemment effectués, s’il veut éviter que la zone d’antimagie ne se remette en place. Il peut aussi volontairement la laisser revenir au prix d’une action immédiate. Que cela soit volontaire ou non, lorsque la zone d’antimagie se remet en place, le contrechoc laisse le marmouscule [étourdi](./../Pathfinder-RPG/Étourdi.md) durant un nombre de round égal au double de ceux durant lesquelles elle a été réprimée.}
+
+</div>
+</td>
+<td><div>*Cette petite fée possède une parie d’ailes insectoïdes. A votre vue, ses grands yeux noirs pétillent d’intérêt et se petite bouche se fend d’un large sourire garni de dents pointues.  *
+
+Les marmouscule forment une race de fées marginales. Leur aura d’antimagie et leur caractère déplaisant les stigmatisent au sein du monde féérique comme des parias et des êtres de fréquentation douteuse, et ce, aussi bien au sein de la cour visible que de la cour invisible. Même au sein de leur espèce, ils ont du mal à se supporter les uns les autres et préfèrent mener une vie solitaire. Même leur reproduction, un évènement encore plus rarissime que le marmouscule lui-même, se réalise dans les plus brefs délais, la femelle laissant les œufs qu’elle a pondus au mâle. Ce  dernier se dépêche d’inculquer à ses enfants les rudiments de savoir qui leur permettront de survivre dans le monde avant d’échapper à la présence étouffante de ceux-ci.
+
+Cependant, les marmouscules ont besoin de compagnie, ne fut-ce que pour échapper à leur propre présence. Leur longue errance est généralement assortie de l’objectif de trouver une créature avec laquelle ils pourront établir un véritable lien d’amitié. Les malheureux qui sont choisis par un marmouscules regrettent généralement bien vite d’avoir accepté cette petite fée. Non content d’avoir un tempérament individualiste voire égocentrique très poussé, une conversation des plus inintéressante, un marmouscule et son aura d’antimagie ont l’art de se trouver toujours au mauvais endroit et au mauvais moment : au contact de l’ennemi au moment où un allié tente de le cibler avec un sortillège ; éploré près d’un allié mourant alors que prêtre tente de le soigner magiquement,… Les tentatives pour utiliser son aura de manière tactique sont généralement prises (à tort ou à raison) pour des tentatives d’instrumentalisation du marmouscule, ce qu’il accepte très mal.
+
+Interrogé sur sa zone d’antimagie, un marmouscule répondra qu’autrefois, sa race a développé ses capacités magiques à un très haut point, mais que leurs difficultés à vivre cordialement entre eux ont failli mener la race à l’extinction. Ils implorèrent donc leur déesse de leur accorder le pardon ainsi qu’une nouvelle chance. Au terme du rituel de pardon, la punition de la déesse fut l’isolement de chaque marmouscule dans une zone où il ne pourrait plus utiliser sa magie. C’est depuis lors que les marmouscules se séparèrent pour vivre une vie d’errance solitaire.
+
+Bien qu’ils jurent le contraire, les marmouscule ont la possibilité de réprimer leur zone d’antimagie, et même d’utiliser des pouvoirs magiques dont ils ont perdu la maîtrise. Réprimer cette aura est en réalité un véritable effort conscient qu’ils ont du mal à maintenir et qui les laissent étourdis une fois qu’il prend fin. Ils sont de plus extrêmement vulnérable sans celle-ci, à la fois à la magie mais surtout aux armes enchantées qu’ils craignent par-dessus tout. L’accès à leurs puissants pouvoirs magiques ne compense même pas cette faiblesse car ils ont fini par perdre la maîtrise de ceux-ci, ce qui peut avoir des conséquences catastrophiques pour eux-mêmes. Aussi, ils tenteront toujours de résoudre leurs problèmes de manière pacifique, par la ruse si cela s’avère nécessaire, puis par le combat. Dans ce cas, ils font généralement usage de leur discrétion pour approcher l’ennemi, du vol pour rester hors de portée, et de leur poison pour affaiblir leurs adversaires avant de pouvoir fuir (éventuellement en ayant délesté leur adversaire de certaines de ses possessions). Ils n’utiliseront la magie que si leur survie ou leur liberté est gravement menacée. Dans ces cas-là, ils ne prennent pas le risque d’expérimenter leurs pouvoirs d’attaque et se téléportent à un endroit aléatoire de faerie dès que leur aura est coupée. Une des manières les plus simples pour se débarasser d’un compagnon marmouscule gènant est de l’agripper, de l’enfermer dans une boite hermétique de métal où son aura sera confinée, et d’attendre une minute. Cette situation induit un tel inconfort (voire une telle souffrance) que le marmouscule n’attendra généralement pas tout ce temps pour couper son aura et se téléporter.
+
+De par leur histoire et leur pouvoir, les marmouscules intriguent bien des mages qui souhaitent pouvoir les étudier ou simplement disposer de zones d’antimagies pour défendre leurs tours. Un marmouscule captif peut se vendre jusqu’à 150 000 PO, ce qui inclut le prix de la chaîne dimensionnelle adaptée à sa taille qui l’empêchent de se téléporter au cas où il réprime soin aura.
+
+Les marmouscules sont de petites créatures humanoïdes de 40 centimètres de haut et pesant entre 2,5 et 3 kilogramme.
+</div></td></tr></table>
+
+Retour à la [grotte aux monstres](./Wiki ressources monstres.md) —
+Discuter de cette créature [sur le forum](http://www.pathfinder-fr.org/Forum/yaf_postsm102750_Nouvelle-creature--pour-ceux-qui-ont-joue-aux-livres-dont-nous-etions-les-heros.aspx#post102750)

@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction du mal
+Title: Bénédiction du Mal
+LastModified: 2024-12-11 11:19
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Frappe impie *(mineur)*
+Au niveau 1, le prêtre combattant peut toucher une arme pour la bénir au nom du mal. Pendant une minute, elle prend des teintes noires, orange ou violette et inflige 1d6 points de dégâts supplémentaires contre les créatures Bonnes. Pendant cette durée, elle est considérée comme Mauvaise vis-à-vis de la [réduction de dégâts](./RD.md). Ces dégâts supplémentaires ne se cumulent pas avec ceux de la propriété spéciale d’arme [impie](./impie (propriété).md).
+
+#### Compagnon de combat *(majeur)*
+Au niveau 10, le prêtre combattant peut invoquer un compagnon de combat. Ce pouvoir fonctionne comme *[convocation de monstres IV](./Convocation de monstres IV.md)* et dure une minute mais appelle seulement des extérieurs Mauvais ou des animaux dotés de l’archétype simple de [créature fiélone](./Archétypes.md#CREATUREFIELONE). Ce pouvoir invoque une seule créature, quelle que soit la liste utilisée. Tous les deux niveaux après le niveau 10, le niveau du sort de convocation augmente de 1, pour atteindre au maximum *[convocation de monstres IX](./Convocation de monstres IX.md)* au niveau 20.

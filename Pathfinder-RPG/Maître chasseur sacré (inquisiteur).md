@@ -1,0 +1,37 @@
+---
+Name: Pathfinder-RPG.Maître chasseur sacré (inquisiteur)
+Title: Maître chasseur sacré
+LastModified: 2023-05-28 13:32
+Categories:
+- Archétype
+- Archétype inquisiteur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypeinquisiteur}{s:mca}''Certains inquisiteurs créent un lien puissant avec un compagnon animal et les deux chassent et punissent ceux qui
+menacent leur foi, tel un duo qui inspire la peur. Lorsqu’ils oeuvrent de concert, peu sont ceux qui osent se mettre au travers de leur chemin.''
+
+#### Compagnon animal (Ext)
+Au niveau 1, un maître-chasseur sacré forme un lien avec un [compagnon animal](./compagnon animal.md). Cette aptitude fonctionne comme l’aptitude de classe du [chasseur](./Chasseur.md), en remplaçant le niveau de chasseur par son niveau d’inquisiteur. Cette aptitude remplace jugement 1/jour.
+
+#### Tactique du chasseur (Ext)
+Au niveau 3, un maître-chasseur sacré confère automatiquement ses [dons de travail en équipe](./Dons.md#EQUIPE) à son compagnon animal. Il n’est pas nécessaire que le compagnon animal satisfasse les conditions requises par ces dons. Cette aptitude remplace [tactique solitaire](./Inquisiteur.md#TACTIQUESOLITAIRE).
+
+#### Imitation animale (Sur)
+Au niveau 4, un maître-chasseur sacré peut imiter l’aspect d’un animal par une [action rapide](./Action rapide.md). Cette aptitude fonctionne comme l’aptitude de classe [imitation animale](./Chasseur.md#IMITATIONANIMALE) du chasseur, en remplaçant le niveau de chasseur par le niveau d’inquisiteur du personnage. Cette aptitude remplace les itérations ultérieures de l’aptitude de jugement.
+
+#### Lien empathique renforcé (Sur)
+Au niveau 8, le lien entre le maître-chasseur sacré et son compagnon animal se renforce. Ceci fonctionne comme un lien empathique avec un [familier](./familier.md), sauf que le maître-chasseur sacré peut également voir au travers des yeux de son compagnon par une action rapide et maintenir cette connexion aussi longtemps qu’il le souhaite (tant que le compagnon reste à 1,5 kilomètres ou moins de lui). Il peut y mettre un terme par une action libre. Le maître-chasseur sacré est [aveuglé](./Aveuglé.md) quand il maintient cette connexion. Cette aptitude remplace second jugement.
+
+#### Rappel de compagnon animal (Mag)
+Au niveau 16, un maître-chasseur sacré peut lancer *[rappel de compagnon animal](./Rappel de compagnon animal.md)* comme un pouvoir magique (qui ne se limite pas à son propre compagnon animal uniquement). L’utilisation de ce pouvoir inflige au maître-chasseur sacré un niveau négatif qu’il ne peut supprimer d’aucune façon (pas même avec une *[restauration](./Restauration.md)*), mais celui-ci disparaît automatiquement au bout de 24 heures. Ce pouvoir fonctionne comme *[résurrection](./Résurrection.md)* au lieu de *[rappel à la vie](./Rappel à la vie.md)* mais, en dehors de cela, il fonctionne normalement.
+
+#### Deuxième imitation animale (Ext)
+Au niveau 17, à chaque fois que le maître-chasseur sacré utilise son aptitude d’imitation animale, il choisit deux aspects animaux différents au lieu d’un seul qu’il s’applique à lui-même et il peut assigner deux aspects à son compagnon animal au lieu d’un seul.
+
+Comme dans le cas du premier aspect du compagnon, l’utilisation du deuxième n’est pas défalquée du nombre de minutes quotidiennes dont dispose le maître-chasseur sacré pour bénéficier d’un aspect. Si son compagnon animal meurt et que le maître-chasseur sacré applique cet aspect sur lui-même, celui-ci compte dans le maximum de deux aspects applicables en même temps. Le maître-chasseur sacré peut transférer un seul des aspects de son compagnon mort sur lui-même, pas les deux. Cette aptitude remplace Exterminer.
+
+#### Lien empathique supérieur (Sur)
+Au niveau 20, la portée du lien empathique d’un maître-chasseur sacré avec son compagnon animal s’élève à 15 kilomètres. Si le compagnon animal reste à 1,5 kilomètre ou moins de lui, lui et le maître-chasseur sacré peuvent communiquer par télépathie. Cette aptitude remplace véritable jugement.

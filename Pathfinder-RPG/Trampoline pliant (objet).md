@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Trampoline pliant (objet)
+Title: Trampoline pliant
+LastModified: 2021-09-16 22:50
+Categories:
+- Équipement
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**Prix** 50 po ; **Poids** 5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[Acrobaties](./Acrobaties.md) pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [chute](./Dangers naturels.md#CHUTE).

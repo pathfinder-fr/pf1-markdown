@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Maillebrume
+Title: Maillebrume
+LastModified: 2024-05-24 22:14
+Categories:
+- Objet mag armure
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Maillebrume|{s:AE}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 3 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 2 250 po ; **Poids** 12,5 kg
+(((Description)))
+Les fines mailles de cette chemise de mailles +1 dessinent des nuages moutonnants. Une fois par jour et sur commande, le porteur peut la transformer en un épais brouillard qui occupe sa case et lui offre un [camouflage](./camouflage.md) (20% de chances d’échec) pendant 3 minutes. Ce brouillard se déplace avec le personnage. Les effets qui dispersent ou détruisent la brume obligent l’armure à reprendre sa forme solide sur le corps du personnage. Elle reprend également sa forme initiale si le porteur prononce le mot de commande ou s’il entre dans une zone où la magie du brouillard ne fonctionne pas (sous l’eau par exemple). Si le personnage enfiler une autre armure alors que celle-ci est sous forme de brouillard, elle reprend sa forme solide aux pieds du personnage.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[brume de dissimulation](./Brume de dissimulation.md)* ; **Coût** 1 250 po
+</div>

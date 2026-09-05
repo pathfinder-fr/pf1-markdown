@@ -1,0 +1,64 @@
+---
+Name: Pathfinder-RPG.Cube de force
+Title: Cube de force
+LastModified: 2024-06-17 14:22
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cube de force|{s:AE}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 62 000 po ; **Poids** 0,5 kg
+(((Description)))
+Cet objet de la taille d’un dé à jouer (environ deux centimètres d’arête) peut être taillé dans l’ivoire, l’os, ou dans tout minéral suffisamment dur. Il permet de faire apparaître autour de son possesseur un *[mur de force](./Mur de force.md)* de forme cubique. Chaque face de ce champ de force fait trois mètres de côté. L’écran se déplace avec le personnage et l’immunise contre les attaques indiquées ci-dessous, selon le réglage choisi. Le cube possède 36 charges, restaurées au début de chaque journée. Le personnage doit presser une des faces du cube pour activer ou désactiver le *[mur de force](./Mur de force.md)*. Le propriétaire du cube en presse une face pour activer un type d’écran ou pour désactiver un écran en place. Chaque effet coûte un certain nombre de charges par minute (ou portion de minute) d’utilisation. Tant qu’un écran est actif, la vitesse de son porteur est limitée à la valeur indiquée dans la table.
+
+Quand le *[mur de force](./Mur de force.md)* est activé, toute attaque infligeant plus de 30 points de dégâts oblige le cube à dépenser 1 charge additionnelle pour chaque tranche de 10 points de dégâts supplémentaires.
+
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Face   
+du cube || Charges   
+par minute || Vitesse   
+max.
+| CLASS="gauche" | Effet
+|- CLASS="premier"
+| 1 || 1 || 9 m
+| CLASS="gauche" | Protège du gaz, des vents, etc.
+|-
+| 2 || 2 || 6 m
+| CLASS="gauche" | Protège de la matière non-vivante
+|-
+| 3 || 3 || 4,50 m
+| CLASS="gauche" | Protège de la matière vivante
+|-
+| 4 || 4 || 3 m
+| CLASS="gauche" | Protège de la magie
+|-
+| 5 || 6 || 3 m
+| CLASS="gauche" | Protège de tout
+|-
+| 6 || 0 || Normale
+| CLASS="gauche" | Désactive le cube
+|}
+
+Les sorts qui affectent l’intégrité physique du cube coûte également des charges à celui-ci.
+
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Sort ou effet || Charges supplémentaires
+|- CLASS="premier"
+| *[Cor de dévastation](./Cor de dévastation.md)* || 6
+|-
+| *[Désintégration](./Désintégration.md)* || 6
+|-
+| *[Mur de feu](./Mur de feu.md)* || 2
+|-
+| *[Passe-muraille](./Passe-muraille.md)* || 3
+|-
+| *[Porte de phase](./Porte de phase.md)* || 5
+|-
+| *[Rayons prismatiques](./Rayons prismatiques.md)* || 7
+|}
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[mur de force](./Mur de force.md)* ; **Coût** 31 000 po
+</div>

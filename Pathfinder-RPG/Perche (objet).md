@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Perche (objet)
+Title: Perche
+LastModified: 2021-09-16 22:29
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 pc (standard), 2 pa (pliante) ; **Poids** 4 kg (standard), 5 kg (pliante)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce bâton en bois de 3 mètres de long sert à sonder les fosses, les dalles et les liquides troubles tout en restant à distance de sécurité.  
+  
+*Perche pliante*. Cette perche articulée peut être dépliée et maintenue en place au moyen de broches coulissantes, pour former une perche de 3 mètres de long. Lorsqu'elle est repliée, elle ne mesure que 1 mètre de long. Il faut une [action complexe](./Action complexe.md) pour assembler ou replier cette perche. À cause des gonds et des broches, elle n'est pas aussi solide qu'une perche d'une seule pièce, il vaut mieux l'utiliser pour comme pour sonder le terrain que pour sauter ou escalader quelque chose.

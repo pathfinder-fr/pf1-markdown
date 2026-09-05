@@ -1,0 +1,66 @@
+---
+Name: Pathfinder-RPG.Domaine du Vide
+Title: Domaine du Vide
+LastModified: 2025-02-12 15:32
+Categories:
+- Domaine
+- Règle officielle
+- Src Bestiaire 4
+- Src Book of the Damned
+- Src La mer Intérieure
+---
+
+{s:Menudomaines}{s:CCMI}
+### Pouvoirs accordés
+Le personnage peut faire appel aux ténèbres glacées du vide entre les étoiles pour voler, se rendre sur d’autres mondes ou convoquer des monstres à son service.
+
+**Esprit bien gardé (Ext).** Le personnage gagne un bonus d’intuition de +2 aux [jets de sauvegarde](./JDS.md) contre tous les [effets mentaux](./Registre.md).
+
+**Déchirer le voile (Sur).** Au niveau 8, le personnage peut instiller une part de la folie brute tapie dans les ténèbres extérieures dans les sorts qu’il lance. L’activation de ce pouvoir est une [action rapide](./Action rapide.md) que le personnage doit dépenser lorsqu’il lance un sort visant une seule créature et autorisant un jet de [Volonté](./Volonté.md) pour annuler ou réduire l’effet principal du sort. Si la cible échoue à résister au sort, elle est également [confuse](./Confus.md) pendant un nombre de rounds égal au niveau du sort alors que les visions du vide qui l’assaillent provoquent une démence temporaire.
+
+La victime doit réussir un nouveau jet de sauvegarde à chaque round pour mettre fin à l’effet ; ces jets supplémentaires ne s’appliquent qu’à l’effet de confusion supplémentaire, pas à l’effet initial du sort. Déchirer le voile est un [effet mental](./Registre.md). Le personnage peut utiliser ce pouvoir un nombre de fois par jour égal à la moitié de son niveau de classe.
+
+### Sous-domaines associés
+<table width="100%"><tr><td width="49%">
+<div class="presentation arrondi">
+### Sous-domaine des Étoiles
+{s:plume}<div class="description">***Source :*** *Horror Adventures*</div>**Les étoiles sont alignées (Ext).** *(remplace déchirer le voile)*  Si le personnage prépare ses sorts de prêtres alors que les étoiles lui sont visibles, il peut lancer spontanément n’importe lequel de ses sorts appartenant au sous-domaine des Étoiles en l’échangeant contre un sort préparé de même niveau. Tout sort du sous-domaine des Étoiles que lance le personnage alors que les étoiles lui sont visibles le soigne d’un nombre de points de vie égal au niveau du sort au moment où il le lance.
+</div>
+
+<div class="presentation arrondi">{s:BotD}
+### Sous-domaine de l'Isolation
+{s:plume}**Aura d'isolation (Sur).** *(remplace déchirer le voile)* Par une [action simple](./Action simple.md), le personnage peur manifester une aura de 6 m (4 {s:c}) de rayon au sein de laquelle ses ennemis sont submergés par un sentiment d’isolation et de perte. Ils traitent la zone comme un [terrain difficile](./terrain difficile.md) à cause de leur soudaine apathie. De plus, tant que les ennemis sont dans l'aura, ils ne peuvent ni [prendre en tenaille](./prendre en tenaille.md), ni utiliser ou bénéficier de l’action [aider quelqu’un](./aider qqn.md). L’aura persiste un nombre de rounds égal à 3 + le modificateur de [Sagesse](./Sagesse.md) du personnage, mais ces rounds n'ont pas à être consécutifs. C’est un [effet mental](./Registre.md) d’[émotion](./Registre.md).
+</div>
+</td><td width="2%">
+</td><td width="49%">
+<div class="presentation arrondi">
+### Sous-domaine de la Sombre Tapisserie
+<div class="description">***Source :*** *Horror Adventures*</div>**Venu d’au-delà (Sur).** *(remplace esprit bien gardé)* Une fois par jour, quand le personnage lance un sort de [convocation](./branche convocation.md), une des créatures qu’il invoque est plus puissante que la normale. Cette créature gagne l’archétype simple de créature [évoluée](./Archétypes.md#CREATUREEVOLUEE). Si le personnage convoque plus d’une créature avec un sort, une seule d’entre elles gagne cet archétype. Une créature convoquée qui gagne l’archétype simple de créature évoluée de cette manière présente une apparence troublante, déformée ou anormalement hideuse, apportant avec elle un aperçu du néant qui compose le vide. Ce pouvoir ne fonctionne que sur les sorts de [prêtre](./Prêtre.md) du personnage, il ne fonctionne pas sur les sorts accordés par d’autres classes.
+</div>
+</td></tr></table>
+
+### Sorts de domaine
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
+|- CLASS="titre"
+| WIDTH="4%" | Niv
+| WIDTH="26%" | Domaine du Néant
+| Sous-domaine de l'Isolation || Sous-domaine des Étoiles || Sous-domaine de la Sombre Tapisserie
+|- CLASS="premier"
+| 1er || *[feuille morte](./Feuille morte.md)* || *idem* || *idem* || *idem*
+|-
+| 2e || *[lévitation](./Lévitation.md)* || *idem* || *[lueurs hypnotiques](./Lueurs hypnotiques.md)* || *[convocation de monstres II](./Convocation de monstres II.md)*
+|-
+| 3e || *[vol](./Vol.md)* || *idem* || *idem* ||  *idem*
+|-
+| 4e || *[contrat](./Contrat.md)* || *[désespoir foudroyant](./Désespoir foudroyant.md)* || *idem* || *idem*
+|-
+| 5e || *[vol supérieur](./Vol supérieur.md)* || *idem* || *idem* || *[convocation de monstres V](./Convocation de monstres V.md)*
+|-
+| 6e || *[contrat intermédiaire](./Contrat intermédiaire.md)* || *[mur de force](./Mur de force.md)* || *idem* || *idem*
+|-
+| 7e || *[inversion de la gravité](./Inversion de la gravité.md)* || *idem* || *[rayon de soleil](./Rayon de soleil.md)* || *[aliénation mentale](./Aliénation mentale.md)*
+|-
+| 8e || *[contrat suprême](./Contrat suprême.md)* || *[mur prismatique](./Mur prismatique.md)* || *idem* || *idem*
+|-
+| 9e || *[téléportation interplanétaire](./Téléportation interplanétaire.md)* || *idem* || *[nuée de météores](./Nuée de météores.md)* || *idem*
+|}

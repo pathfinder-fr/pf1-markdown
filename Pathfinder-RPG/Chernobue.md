@@ -1,0 +1,71 @@
+---
+Name: Pathfinder-RPG.Chernobue
+Title: Qlippoth, Chernobue
+LastModified: 2022-10-14 22:20
+Categories:
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire 2"><tr><td>
+<div class="BD">
+{s:BDTitre|Chernobue|FP 12}
+{s:pucem|Extérieur|Souterrain|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire 2* p.230}
+{s:BDTexte|**PX** 19.200}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille G, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 cases) ; [Perception](./Perception.md) +18}
+{s:BDTexte|**Aura** de malchance (9 m)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 27, contact 13, pris au dépourvu 23 (Dex +4, naturelle +14, taille –1)}
+{s:BDTexte|**pv** 150 (12d10+84)}
+{s:BDTexte|**Réf** +10, **Vig** +15, **Vol** +11}
+{s:BDTexte|**Immunités** effets mentaux, froid, poison ; **Résistances** acide 10, électricité 10, feu 10 ; **RD** 10/Loi ; **RM** 23}
+{s:BDTexte|**Faiblesses** vulnérable à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 cases)}
+{s:BDTexte|**Corps à corps** *2 coups*, +19 (1d6+8/19–20 plus affaiblissement temporaire 1 Con) et *morsure*, +19 (2d6+8 plus poison) et 2 tentacules, +14 (1d6+4)}
+{s:BDTexte|**Espace** 3 m (2 cases) ; **Allonge** 1,50 m (1 case) (3 m pour les coups et les tentacules (2 cases))}
+{s:BDTexte|**Attaques spéciales** apparence horrible (DD 20)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 12), concentration +16}
+{s:BDSorts|Constant — *[marche dans les airs](./Marche dans les airs.md)*, *[vision magique](./Vision magique.md)*}
+{s:BDSorts|A volonté — *[marteau du Chaos](./Marteau du chaos.md)* (DD 18), *[ténèbres](./Ténèbres.md)*}
+{s:BDSorts|3/jour — *[confusion](./Confusion.md)* (DD 18), *[dissipation de la magie](./Dissipation de la magie.md)*, *[protection contre la Loi](./Protection contre la Loi.md)*, *[ténèbres](./Ténèbres.md)* en [incantation rapide](./Incantation rapide.md)}
+{s:BDSorts|1/jour — *[changement de plan](./Changement de plan.md)* (DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 26, **Dex** 18, **Con** 24, **Int** 13, **Sag** 17, **Cha** 19}
+{s:BDTexte|**BBA** +12, **BMO** +21, **DMD** 35 (39 contre croc-en-jambe)}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (ténèbres), [Réflexes surhumains](./Réflexes surhumains.md), [Science du critique](./Science du critique.md) (coup)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19 (+23 pour sauter), [Connaissances](./Connaissances.md) (plans) +16, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +19, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18}
+{s:BDTexte|**Langues** abyssal ; télépathie 30 m}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous (Abysses)}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3–6)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Apparence horrible (Sur).** Les créatures qui succombent à l’apparence horrible d’un chernobue sont paralysées de dégoût pendant 2d6 rounds. Une créature paralysée bénéficie d’un nouveau jet de sauvegarde chaque round pour tenter de se libérer de l’effet si elle est située à plus de 9 mètres du qlippoth ou qu’elle n’est plus consciente de sa présence.}
+{s:BDTexte|**Aura de malchance (Sur).** Un chernobue émet une aura de perturbations maléfiques sur un rayon de 9 mètres. Toutes les créatures d’alignement Loyal ou Bon situées dans la zone subissent un malus de –1 aux jets d’attaque et aux jets de dégâts des armes. Les créatures d’alignement Loyal Bon voient ce malus passe à –3 et, la première fois qu’elles pénètrent dans l’aura, elles doivent réussir un jet de Vigueur de DD 20 pour ne pas être fiévreuses tant qu’elles restent dans la zone affectée. Cette capacité dépend du Charisme.}
+{s:BDTexte|**Poison (Sur).** Morsure — blessure ; JdS Vigueur DD 23 ; fréquence 1/round pendant 6 rounds ; effet diminution permanente 1d2 Con ; guérison 1 réussite. L’épais poison orange injecté par un chernobue est à moitié vivant. Dès que la victime empoisonnée est guérie du poison (en réussissant un jet de sauvegarde ou en étant la cible d’un sort de neutralisation du poison ou en ayant attendu que le poison finisse de faire effets), le fluide orange sort violemment du corps de la victime. Cela inflige un affaiblissement temporaire de 1d6 points de Charisme à la victime et la rend inconsciente pendant 2d6 rounds, à moins qu’elle ne réussisse un dernier jet de Vigueur contre un DD de 23. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Vulnérable à la lumière (Ext).** Un chernobue situé dans une zone de lumière vive subit un affaiblissement temporaire de 1 point de Constitution par minute passée dans cette zone.}
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Cette masse huileuse de tiges ornées de gueules et de tentacules agités possède un unique et énorme œil hideux et des mâchoires acérées à la place du ventre.*
+
+Le chernobue est la preuve vivante de la vile fécondité
+des Abysses : une créature
+monstrueuse et aberrante
+mais pourtant bien réelle.
+En transmettant à d’autres
+créatures l’infection abyssale
+qu’ils transportent, les
+chernobues répandent la
+douleur et la malchance
+partout où ils parviennent
+à amener leur corps
+caoutchouteux. Et, grâce à
+leur capacité de changement de
+plan, ils sont tout à fait capable
+d’étendre leur corruption
+à travers tous le multivers. Un
+chernobue mesure 3,90 mètres de
+long et pèse 250 kg.
+</div></td></tr></table>

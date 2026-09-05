@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Poncho (objet)
+Title: Poncho
+LastModified: 2021-09-22 14:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 pa ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Ce vêtement rond en tissu résistant à l’eau (généralement en laine ou en cuir) est doté d’une ouverture à capuche en son centre, ce qui fait qu’il est facile de l’enfiler ou de le retirer et qu’il protège tout le corps contre la pluie et la neige.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Diadème de nod
+Title: Diadème de nod
+LastModified: 2024-06-18 17:23
+Categories:
+- Objet mag
+- Objet mag artefact
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Diadème de nod|{s:CMy}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 20 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** —
+(((Description)))
+Le *diadème de Nod* est un fin bandeau en platine orné d’un gros diamant parfaitement taillé qui repose sur le front du porteur. Quand il dort, le porteur peut créer une poche dans la dimension du rêve et s’y rendre. C’est le porteur qui détermine les qualités de la dimension onirique comme pour le sort *[création de demi-plan](./Création de demi-plan.md)*. Une fois dans cette dimension onirique, on considère que le porteur est éveillé et a le contrôle de sa création. La poche dimensionnelle dure un maximum de 7 jours, après quoi elle se dissipe et le diadème doit se recharger pendant une semaine avant de pouvoir être utilisé à nouveau, quel qu’ait été le temps passé à l’intérieur.
+
+Il y a un risque inhérent à l’utilisation du *diadème de Nod*. Le [MJ](./MJ.md) devrait faire en secret un jet de [Volonté](./Volonté.md) [DD](./DD.md) 20 au nom du porteur chaque fois que celui-ci utilise le diadème. En cas d’échec, quelque élément rebelle, extérieur à la création du porteur ou échappant à son contrôle, s’ajoute à la poche dimensionnelle onirique. Ce pourrait être un [rêve animé](./Rêve animé.md) ou un autre extérieur de n’importe quel alignement qui navigue entres les Plans Éthéré et Astral. Cet élément rebelle n’est pas nécessairement hostile ou inamical.
+(((Destruction)))
+Il est possible de détruire le *diadème de Nod* si le porteur l’utilise pour créer un rêve à l’intérieur d’une autre poche dimensionnelle onirique. Il est impossible de le détruire depuis l’intérieur d’un rêve qu’il a créé.
+</div>

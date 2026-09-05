@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Corde descalade
+Title: Corde d'escalade
+LastModified: 2024-06-13 20:52
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Corde d’escalade|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 000 po ; **Poids** 1,5 kg
+(((Description)))
+Longue de 18 m, cette corde est de l’épaisseur d’une baguette, mais elle est capable de soutenir une charge pouvant aller jusqu’à 1,5 tonne. Sur ordre de son possesseur, elle rampe sur n’importe quelle surface (vers le haut ou le bas, sur les côtés, etc.) à la vitesse de 3 m par round et va s’accrocher là où le personnage le souhaite. Elle se détache et revient de la même manière.
+
+On peut lui ordonner de se transformer en corde à nœuds (et inversement), ce qui a pour effet de faire apparaître de gros nœuds distants de 30 cm environ. La longueur de la corde diminue alors sensiblement (elle tombe à 15 m), mais il devient plus facile d’y grimper (-10 au [DD](./DD.md) des tests d’[Escalade](./Escalade.md)). Le possesseur de la corde doit tenir une de ses extrémités pour faire appel à son enchantement.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[corde animée](./Corde animée.md)* ; **Coût** 1 500 po
+</div>

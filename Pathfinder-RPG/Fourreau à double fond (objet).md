@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Fourreau à double fond (objet)
+Title: Fourreau à double fond
+LastModified: 2021-09-16 20:57
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 45 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+L'espace situé au fond de ce fourreau d'épée est juste assez large pour accueillir une flasque de potion. Sur certains modèles, on y accède depuis l'extérieur, sur d'autres, il s'ouvre de l'intérieur grâce à un petit loquet secret situé au fond du fourreau. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25 pour repérer le compartiment secret ou un test de Perception DD 20 si le personnage peut comparer la longueur de l'épée avec celle du fourreau.

@@ -1,0 +1,54 @@
+---
+Name: Pathfinder-RPG.Bourrasque
+Title: Bourrasque
+LastModified: 2024-10-10 16:39
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 2
+- Sort magicien 2
+- Sort magus 2
+- Sort occultiste 2
+- Sort sanguin 2
+- Src Manuel des joueurs
+---
+
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [San](./Sanguin.md) 2  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 18 m (12 {s:c})  
+
+**Effet** violente rafale de vent en forme de ligne émanant de la main tendue du personnage et atteignant la limite de portée  
+
+**Durée** 1 [round](./round.md)  
+
+**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+Ce sort génère une violente rafale de vent (75 km/h environ) émanant de la main tendue du personnage et qui affecte toutes les créatures situées sur son chemin. Les créatures volantes reçoivent toutes un malus de -4 aux tests de compétence de [Vol](./Vol.md). Les créatures volantes de [taille TP](./taille TP.md) ou inférieure doivent réussir un test de [Vol](./Vol.md) [DD](./DD.md) 25 ou être repoussées de 2d6x3 mètres et subir 2d6 points de dégâts. Les créatures volantes de [taille P](./taille P.md) ou moins doivent réussir un test de [Vol](./Vol.md) [DD](./DD.md) 20 pour se déplacer contre le vent.
+
+Les créatures sur le sol de [taille TP](./taille TP.md) ou inférieure sont emportées par la *bourrasque* sur 1d4 x 3 mètres et subissent 1d4 points de dégâts non-létaux par tranche de 3 mètres.
+
+Les créatures de [taille P](./taille P.md) tombent [à terre](./À terre.md).
+
+Les créatures de [taille M](./taille M.md) ou inférieure sont incapable de se déplacer en avant contre la force du vent à moins de réussir un test de [Force](./Force.md) DD 15.
+
+Les créatures de [taille G](./taille G.md) ou supérieure évoluent normalement au sein d’un effet de *bourrasque*.
+
+*Bourrasque* ne peut repousser une créature au-delà de sa portée.
+
+Quelle que soit sa taille, toute créature présente dans la [zone d’effet](./zone deffet.md) d’une *bourrasque* subit un malus de -4 aux attaques à distance et aux tests de [Perception](./Perception.md).
+
+La force de la *bourrasque* est telle qu’elle éteint instantanément torches, bougies et autres flammes non protégées. Même celles qui sont protégées (les lanternes par exemple) se mettent à danser furieusement et ont 50 % de chances d’être soufflées.
+
+En plus des effets notés ci-dessus, *bourrasque* peut créer les mêmes effets qu’un coup de vent soudain : soulever le sable ou la poussière, propager un incendie, faire tomber ou arracher un auvent, retourner une barque, ou pousser gaz ou brume jusqu’en limite de portée.
+
+On peut user de *[permanence](./Permanence.md)* sur *bourrasque*.
+
+### Mythique
+{s:CMy}
+La puissance du vent augmente pour atteindre celle d’un vent de tempête (100 km/h environ ; Manuel des Joueurs page 445). Tous les effets indiqués dans la description du sort affectent les créatures plus grandes d’une catégorie de taille. Les attaques à distance sont impossibles au sein de la zone d’effet du sort. Le vent éteint automatiquement les flammes non-protégées et a 75% de chances d’éteindre les flammes protégées.
+
+**[Amplifié](./Amplifié.md) (2ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort dure un round de plus et la portée s’élève à 9 mètres. Par une [action rapide](./Action rapide.md) au début de son tour, le personnage peut dépenser une autre utilisation de [pouvoir mythique](./pouvoir mythique.md) pour prolonger la durée d’un round et étendre la portée de 9 mètres supplémentaires.

@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.lumière (propriété)
+Title: lumière (propriété)
+LastModified: 2023-08-29 16:33
+Categories:
+- Objet mag propriété arme
+- Redirection
+---
+
+>>> Descriptions individuelles des propriétés spéciales des armes#Lumière

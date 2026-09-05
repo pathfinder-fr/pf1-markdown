@@ -1,0 +1,69 @@
+---
+Name: Pathfinder-RPG.Ifrit
+Title: Ifrit
+LastModified: 2021-02-19 01:43
+Categories:
+- Monstre
+- Race
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Ifrit|FP 1/2}
+{s:pucem|Extérieur|Ville|Tempéré}
+{s:BDTexte|*Source : Bestiaire 2, p. 170*}
+{s:BDTexte|**PX** 200}
+{s:BDTexte|Ifrit, [ensorceleur](./Ensorceleur.md) 1}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
+{s:BDTexte|**pv** 8 (1d6+2)}
+{s:BDTexte|**Réf** +3, **Vig** +1, **Vol** +0}
+{s:BDTexte|**Résistances** feu 5 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** cimeterre, +0 (1d6/18-20)}
+{s:BDTexte|**Pouvoirs magiques de lignage** (NLS 1 ; concentration +4)}
+{s:BDSorts|6/jour — *[rayon élémentaire](./Domaine du Feu.md) (Mag)* (1d6 feu)}
+{s:BDTexte|**Pouvoirs magiques d’ifrit** (NLS 1 ; concentration +4)}
+{s:BDSorts|1/jour — *[mains brûlantes](./Mains brûlantes.md)* (DD 15)}
+{s:BDTexte|**Sorts d’ensorceleurs connus** (NLS 1 ; concentration +4)}
+{s:BDSorts|1er (4/jour) — *[armure de mage](./Armure de mage.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 15)}
+{s:BDSorts|0 (à volonté) — *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[illumination](./Illumination.md)* (DD 14), *[prestidigitation](./Prestidigitation.md)*}
+{s:BDTexte|**Lignage élémentaire (Feu)**}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 10, **Dex** 16, **Con** 12, **Int** 13, **Sag** 6, **Cha** 17}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 13}
+{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>B</sup>, [Maniement d’une arme de guerre](./Maniement dune arme de guerre.md) (cimeterre)}
+{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +5, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (mystères) +5,}
+{s:BDTexte|**Langues** commun, gnome, igné}
+{s:BDTexte|**Particularités** arcanes de lignage, affinité avec le feu}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** terre ferme}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3–5)}
+{s:BDTexte|**Trésor** équipement de PNJ (cimeterre, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Affinité avec le feu (Ext).** Les ensorceleurs ifrits du lignage élémentaire du Feu fonctionnent comme s’ils avaient 2 points de Charisme en plus pour tout ce qui concerne les sorts et les aptitudes d’[ensorceleurs](./Ensorceleur.md). Les lanceurs de sorts ifrits qui ont accès au domaine du Feu utilisent leurs pouvoirs et sorts de domaine comme si leur NLS était augmenté de 1.}
+</div>
+
+{s:ImageCentre|Bestiaire/Ifrit02.jpg|95%}
+
+</td><td><div>
+*Cet homme musclé à la peau couleur de feu a des cheveux enflammés et son front est orné de cornes tachetées.*
+
+Les ifrits sont des humains dont l’arbre généalogique comporte des  créatures  élémentaires  du  Feu  comme  des  [éfrits](./Efrit.md)  par  exemple. Ils ont des oreilles pointues, des cornes rouges ou tachetées sur le front et des cheveux qui vacillent et ondulent comme des flammes. Tous  les  ifrits  sont  légèrement  pyromanes.  Ils  adorent le  feu  sous  toutes  ses  formes,  ont  tendance  à  être  passionnés et  à  agir  sans  prendre  le  temps  de  réfléchir.  Ils  aiment  tout particulièrement  être  les  premiers  à  frapper  lors  d’un  combat, un trait qui les aide à survivre, mais pas à se faire de nombreux amis.  Les  ifrits  recherchent  généralement  la  compagnie  de sbires  moins  puissants,  qui  sont  plus  faciles  à  intimider  et  à contrôler,  ou  d’individus  calmes  et  calculateurs,  qui  peuvent faire contrepoids à leur tempérament naturel.
+
+#### Les ifrits en tant que PJ
+
+Les  ifrits  sont  caractérisés  par  leurs  niveaux  de  classe  et  ne possèdent aucun DV racial. Ils partagent les traits raciaux suivants :
+- **Dex  +2,  Cha  +2,  Sag –2.** Les  ifrits  sont  passionnés  et  rapides mais également impétueux et destructeurs.
+- **Vision dans le noir.** Les ifrits peuvent voir dans le noir jusqu’à une distance de 18 mètres.
+- **Pouvoir magique.** [Mains brûlantes](./Mains brûlantes.md) 1/jour (NLS égal au nombre de DV de l’ifrit).
+- **Résistance à l'énergie.** Les ifrits bénéficient d’une résistance au feu de 5 points.
+- **Affinité avec le feu.** Voir ci-contre
+- **Langues.** Les ifrits entrent en jeu en sachant parler le commun et  l’igneux.  Les  ifrits  dotés  d’une  Intelligence  élevée  peuvent choisir  des  langues  supplémentaires  parmi  la  liste  suivante  : aérien, aquatique, elfe, gnome, halfelin, nain, terreux.
+
+{s:VoirAussiAvant}La page de la race [Ifrit](./Ifrit (race).md){s:VoirAussiAprès}
+</div></td></tr></table>

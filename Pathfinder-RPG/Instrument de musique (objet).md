@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Instrument de musique (objet)
+Title: Instrument de musique
+LastModified: 2021-09-24 22:24
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po (standard), 100 po (de maître) ; **Poids** 1,5 kg (standard), 1,5 kg (de maître)<sup>[1](./Outils de compétences.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Si le personnage veut donner un spectacle en utilisant la compétence [Représentation](./Représentation.md) associée à un instrument de musique (claviers, percussions, cordes ou vents), il doit avoir l’instrument de musique qui convient, sinon, il ne peut pas utiliser la compétence. Le coût et le poids sont indiqués pour un petit instrument de musique standard que le personnage peut porter à la main, comme un tambour, une lyre, une cloche, une harpe ou une flûte. Les instruments plus grands comme le violoncelle et le piano sont bien entendu plus gros et plus chers.  
+  
+*Instrument de musique de maître.* Ces instruments de qualité supérieure accordent un bonus de circonstances de +2 aux tests de [Représentation](./Représentation.md) pour jouer de l’instrument.

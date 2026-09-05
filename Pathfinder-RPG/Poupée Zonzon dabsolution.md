@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Poupée Zonzon dabsolution
+Title: Poupée zonzon d'absolution
+LastModified: 2024-06-14 23:17
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Inner Sea Gods
+---
+
+{s:divin|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png}<div class="BD">
+{s:BDTitre|Poupée zonzon d'absolution|{s:ISG}}
+**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 000 po ; **Poids** 0,5 kg
+(((Description)))
+{s:cs}Cette poupée de chiffon, créée à l'image d'une créature spécifique choisie au moment de la fabrication, doit être aimée pour activer ses pouvoirs. Cet amour prend la forme de temps passé à prendre soin de la poupée, à la garder sur soi et à l'empêcher d'être abimée ou malmenée.
+
+Pour utiliser les pouvoirs accumulés dans une *poupée Zonzon d'absolution*, son propriétaire doit la donner à la créature à laquelle elle ressemble. En fonction de la durée pendant laquelle le propriétaire de la poupée s'en est occupé, la poupée peut conférer jusqu'à trois effets cumulatifs. Chaque effet dure 24 heures, sauf indication contraire.
+
+Si la poupée est offerte après 1 jour de soins, elle confère à son propriétaire un bonus de sainteté de +5 aux tests de [Diplomatie](./Diplomatie.md) contre la créature à laquelle elle ressemble (ci-après nommée la « créature cible »). Si la poupée est offerte après 1 semaine de soins, son propriétaire peut utiliser la compétence Diplomatie pour modifier l'attitude de la créature cible vers une attitude plus positive, jusqu'à un maximum de trois catégories (au-delà de la limite normale de deux catégories) et ne subit aucun malus en cas d'échec de 5 ou plus à un test de Diplomatie. Enfin, si la poupée est offerte après 1 mois de soins, la créature cible peut l'activer dans les 24 heures pour bénéficier d'un sort de *[pénitence](./Pénitence.md)*. Une fois la poupée offerte et la durée de l'effet expirée, la poupée Zonzon redevient une poupée de chiffon normale dépourvue de pouvoirs magiques.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[pénitence](./Pénitence.md)*, *[splendeur de l'aigle](./Splendeur de laigle.md)* ; **Coût** 3 750 po
+</div>

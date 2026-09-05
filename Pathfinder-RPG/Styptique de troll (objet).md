@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Styptique de troll (objet)
+Title: Styptique de troll
+LastModified: 2021-09-19 20:16
+Categories:
+- Équipement
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:RSE}**Prix** 100 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+Tambouille de sorcière faite de sang de troll, d’extraits de plantes réduites en poudre et de liants alchimiques, le styptique de troll a pour fonction de soigner blessures et saignements sur le terrain, notamment quand la guérison magique n’est pas disponible. Cette poudre est conservée dans de petits paquets, et quand on l’applique directement sur des plaies, elle confère à une créature vivante une [régénération 2](./Régénération (capacité).md) pour 2d4 [rounds](./round.md) et referme toute blessure ouverte dont le sujet souffre ou qu’il reçoit tant que le styptique est actif, et empêche les dégâts continus dus au [saignement](./Saignement.md). C’est une guérison douloureuse qui nécessite de la part de la cible un [jet de sauvegarde](./JDS.md) de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 pour éviter d’être [fiévreux](./Fiévreux.md) pour la durée de la guérison rapide.

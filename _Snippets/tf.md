@@ -1,0 +1,5 @@
+---
+{}
+---
+
+<img style="display:block" onclick="tableFilter(this);" src="/wiki/public/Upload/Battlemaps/Boutons/filter.png" title="Cliquez pour filtrer les données" />

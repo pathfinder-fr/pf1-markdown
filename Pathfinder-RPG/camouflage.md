@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.camouflage
+Title: camouflage
+LastModified: 2025-08-10 10:31
+Categories:
+- Redirection
+---
+
+>>> Modificateurs de combat#CAMOUFLAGE

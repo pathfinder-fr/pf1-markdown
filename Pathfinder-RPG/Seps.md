@@ -1,0 +1,56 @@
+---
+Name: Pathfinder-RPG.Seps
+Title: Seps
+LastModified: 2026-04-02 16:59
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Seps|FP 11}
+{s:pucem|Créature magique|Désert|Tropical}
+{s:BDTexte|*Source : Bestiaire 4 page 257*}
+- **12 800 PX**
+- [Créature magique](./type Créature magique.md) de taille TG, N
+- **Init **+6 ; Sens vision dans le noir 18 m, vision nocturne, odorat ; Perception +17
+(((Défense)))
+- **CA **26, contact 10, pris au dépourvu 24 (Dex +2, naturelle +16, taille -2)
+- **pv** 147 (14d10+70)
+- **Réf** +11, **Vig **+14, **Vol **+6
+- **Capacités défensives** sang acide ; **Immunités **acide, poison
+(((Attaque)))
+- **VD **9 m
+- **Corps à corps** morsure, +23 (3d8+15/19-20 et poison)
+- **Espace **4,50 m ; **Allonge **4,50 m
+- **Attaques spéciales** poison
+(((Statistiques)))
+- **For **30, **Dex **14, **Con **21, **Int **2, **Sag** 11, **Cha **11
+- **BBA **+14 ; **BMO **+26 ; **DMD **38 (croc-en-jambe impossible)
+- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)
+- **Compétences **[Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +17
+- **Modificateurs raciaux** +4 en Perception, +4 en Discrétion
+- **Particularités **liquéfaction
+(((Écologie)))
+- **Environnement **forêts ou déserts tempérés ou chauds
+- **Organisation **solitaire ou nichée (2-5)
+- **Trésor **fortuit (objets imperméables à l’acide)
+(((Pouvoirs spéciaux)))
+- **Liquéfaction (Sur)**. Une créature tuée par le poison d’un seps se dissout en une flaque de liquide acide qui inflige 2d6 points de dégâts d’acide par round aux créatures et aux objets situés dans sa case (y compris à son équipement).
+- **Poison (Ext)**. Morsure – blessure ; JS Vigueur DD 22 ; fréquence 1/round pendant 10 rounds ; effet 1d8 acide et diminution permanente de 1d4 Con ; guérison 2 JS consécutifs.
+- **Sang acide (Ext)**. Une arme naturelle, en bois ou en métal qui inflige des dégâts perforants ou tranchants à un seps subit 4d6 points de dégâts d’acide à moins que le manipulateur de l’arme ne réussisse un jet de Réflexes DD 22. Le DD du jet de sauvegarde est basé sur la Constitution.
+
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de seps
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Jeune seps](./Jeune seps.md) || 2
+|-
+| [Seps](./Seps.md) || 11
+|}
+</div>
+*Ce serpent géant à la carapace épaisse est doté de grands crocs suintant d’un venin qui chuinte au contact du sol.*
+
+Un seps est une créature exotique apparentée au serpent. Ses crocs sécrètent un venin acide si dangereux qu’il peut rapidement dissoudre les proies et les transformer en bouillie liquide. Un seps adulte fait 9 mètres de long pour 750 kilogrammes.
+</div></td></tr></table>

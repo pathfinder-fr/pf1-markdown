@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Moule de cire vierge (objet)
+Title: Moule de cire vierge
+LastModified: 2021-09-16 22:00
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15 po ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cet écrin à double face est rempli de cire molle pour recueillir et imprimer la forme d'un objet que l'on presse entre les deux battants, créant un moule parfait de l'objet. Un artisan compétent peut ainsi faire une copie de l'objet à partir du moule (détruisant le moule dans le processus). Il faut réussir un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 25 pour subrepticement faire une empreinte.

@@ -1,0 +1,16 @@
+---
+Name: Starfinder.Concentration polyvalente
+Title: Concentration polyvalente
+LastModified: 2024-07-04 17:24
+Categories:
+- Don
+- Don combat
+---
+
+*Vous êtes précis avec toutes les armes que vous savez manier.*
+
+**Catégorie :** Combat
+
+**Conditions : ** Arme de prédilection (n’importe quelle arme).
+
+**Avantage : ** les avantages du don Arme de prédilection s’appliquent à toutes les armes dont vous maîtrisez le maniement.

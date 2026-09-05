@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Mur de force
+Title: Mur de force
+LastModified: 2022-06-17 22:31
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 5
+- Sort magus 5
+- Sort occultiste 5
+- Sort psychiste 5
+- Src Manuel des joueurs
+---
+
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 5, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M](./composantes.md) (poudre de quartz)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Effet** mur constitué d’un carré de 3 m (2 {s:c}) de côté/[niveau](./niveau.md)  
+
+**Durée** 1 round /[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Comme son nom l’indique, ce sort génère un *mur de force* invisible. Cette barrière immobile est immunisée contre la *[dissipation de la magie](./Dissipation de la magie.md)* bien qu’une *[disjonction](./Disjonction.md)* la détruise instantanément. Les sorts abîment normalement le *mur de force* mais *[désintégration](./Désintégration.md)* le détruit automatiquement. Les armes et les pouvoirs surnaturels affectent le mur mais celui-ci possède une [solidité](./solidité.md) de 30 et un nombre de [points de vie](./points de vie.md) égal à 20 par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Un *[sceptre d’oblitération](./Sceptre doblitération.md)* ou une *[sphère d’annihilation](./Sphère dannihilation.md)* détruisent immédiatement le mur.
+
+Les sorts ou les souffles ne peuvent pas franchir le mur, quelle que soit leur direction, mais des sorts comme *[porte dimensionnelle](./Porte dimensionnelle.md)* ou *[téléportation](./téléportation.md)* permettent de passer de l’autre côté. Les créatures [éthérées](./Éthéré.md) ne peuvent pas traverser la barrière de face, mais elles peuvent généralement la contourner en passant par le plancher, les murs ou le plafond. Les attaques de regard fonctionnent au travers d’un mur de force.
+
+Le mage peut donner au mur une forme verticale plane dont la surface est égale à un carré de 3 m (2 {s:c}) de côté par [niveau](./niveau.md). Le mur doit être continu et sans rupture lorsqu’il est créé. Si un objet ou une créature se trouve à l’endroit où il est sensé se former, le sort échoue.
+
+On peut user de *[permanence](./Permanence.md)* sur un *mur de force*.
+
+### Mythique
+{s:CMy}
+La solidité du mur s’élève à 40 et ses points de vie à 30 par [niveau de lanceur de sorts](./NLS.md). Un sort de désintégration [non-mythique](./non-mythique.md) ou un sceptre d’annulation dissipe une section de 3 mètres de côté d’un mur de force mythique pendant un round, après quoi le mur se reforme complètement. L’un des versants du mur (choisi par le personnage) repousse les créatures situées à 1,50 mètre ou moins de lui comme le fait un champ de force (en utilisant le [DD](./DD.md) qu’un mur de force aurait s’il autorisait des jets de sauvegarde).

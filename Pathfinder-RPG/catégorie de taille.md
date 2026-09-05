@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.catégorie de taille
+Title: catégorie de taille
+LastModified: 2025-05-15 18:07
+Categories:
+- Redirection
+---
+
+>>> Petites et grandes créatures

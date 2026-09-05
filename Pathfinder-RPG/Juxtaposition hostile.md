@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Juxtaposition hostile
+Title: Juxtaposition hostile
+LastModified: 2022-06-14 22:29
+Categories:
+- Règle officielle
+- Sort
+- Sort conjurateur 4
+- Sort hypnotiseur 4
+- Sort magicien 5
+- Sort psychiste 5
+- Sort sorcière 5
+- Src Art de la guerre
+---
+
+{s:UC}
+**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)); **Niveau** [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 5, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5</br>
+**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
+**Composantes** [V, G, F](./composantes.md) (une pièce)</br>
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))</br>
+**Cible** une créature de la taille du lanceur de sorts ou plus petite</br>
+**Durée** 1 round/[niveau](./niveau.md) ou jusqu’à épuisement</br>
+**Jet de sauvegarde** Volonté pour annuler ; **Résistance à la magie** oui
+
+Le personnage crée un lien dimensionnel avec sa cible. Quand il est victime d’une attaque ou d’un sort qui inflige des dégâts, il peut dépenser une action immédiate pour changer de place avec la cible du sort, par téléportation. La cible du sort devient alors la cible de l’attaque ou du sort offensif initialement destiné au personnage. Si la téléportation ne suffit pas à faire sortir le personnage de la zone d’effet du sort offensif, ce dernier l’affecte normalement. Si la créature cible ne peut pas se tenir dans la case d’arrivée sans s’y faufiler, si le personnage essaie de la téléporter
+dans une case occupée ou encore dans une case où elle ne tient pas, la juxtaposition échoue. Elle échoue aussi si la cible est inconsciente ou morte au moment de l’échange. Le sort expire après que le personnage l’a utilisée une fois.

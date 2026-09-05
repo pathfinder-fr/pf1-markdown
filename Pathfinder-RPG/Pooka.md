@@ -1,0 +1,61 @@
+---
+Name: Pathfinder-RPG.Pooka
+Title: Pooka
+LastModified: 2025-06-26 21:06
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Pooka|FP 2}
+{s:pucem|Fée|Ville|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 page 210*}
+- **600 PX**
+- [Créature féerique](./type Fée.md) de taille TP, CN
+- **Init** +7 ; Sens vision dans le noir à 18 m, vision nocturne ; Perception +8
+(((Défense)))
+- **CA** 16, contact 15, pris au dépourvu 13 (Dex +3, naturelle +1, taille +2)
+- **pv** 18 (4d6+4) ; guérison accélérée 2
+- **Réf** +7, **Vig** +2, **Vol** +5
+- **RD** 5/fer froid ou argent ; **RM** 13
+(((Attaque)))
+- **VD** 9 m, vol 18 m (bonne)
+- **Corps à corps** dague, +7 (1d2/19-20)
+- **Espace** 0,75 m ; **Allonge** 0 m
+- **Attaques spéciales** poison
+- **Pouvoirs magiques** (**NLS** 6 ; concentration +7)
+  - *À volonté* – [détection de la magie](./Détection de la magie.md), [invisibilité](./Invisibilité.md) (sur elle-même uniquement)
+  - *3/jour* – [image miroir](./Image miroir.md) (DD 13), [sommeil](./Sommeil.md) (DD 12)
+  - *1/jour* – [suggestion](./Suggestion.md) (DD 13)
+(((Statistiques)))
+- **For** 10, **Dex** 16, **Con** 13, **Int** 11, **Sag** 12, **Cha** 13
+- **BBA** +2 ; **BMO** +3 ; **DMD** 13
+- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
+- **Compétences** [Bluff](./Bluff.md) +8, [Diplomatie](./Diplomatie.md) +8, [Discrétion](./Discrétion.md) +18, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +6, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +6, [Vol](./Vol.md) +18
+- **Langues** commun, sylvestre ; télépathie (au contact seulement)
+- **Particularités** changement de forme (2 parmi les suivantes : [chat](./Chat.md), [chèvre](./Chèvre.md), lapin (utilisez le profil du [raton laveur](./Raton laveur.md)) ou [corbeau](./Corbeau.md) ; métamorphose)
+(((Écologie)))
+- **Environnement** tous
+- **Organisation** solitaire, couple ou ruse (3-9)
+- **Trésor** standard
+(((Pouvoirs spéciaux)))
+- **Poison (Sur)**. Par une action simple, la pooka peut souffler sur la paume de sa main et créer un nuage de poussière irritante de 1,50 mètre de diamètre. Lorsqu’elle utilise ce pouvoir, la pooka décide si la poussière agit comme un poison inhalé ou comme un breuvage moyennement alcoolisé (l’équivalent de 1 à 2 verres de bière).
+- Poussière de pooka (Sur) : inhalé ; JdS Vigueur DD 13 ; fréquence 1/round pendant 6 rounds ; effet 1d2 Sag et 1d2 Cha (ou intoxication) ; guérison 2 réussites consécutives.
+
+
+
+
+
+
+</div>
+</td><td><div>
+*Cette créature combine les caractéristiques physiques de la jeune fille alerte et du lapin à fourrure noire. Un sourire mauvais et saugrenu éclaire son visage.*
+
+De nature capricieuse, les pookas sont toujours prêtes à s’amuser par pur caprice, sans se soucier de l’identité des individus qui font les frais de leurs facéties. Toujours intrinsèquement chaotiques, certaines pookas sont cruelles, d’autres débonnaires et d’autres encore légèrement déséquilibrées. Il n’y a aucun moyen de connaître le type de pooka auquel on a affaire en la regardant simplement ; c’est n’est qu’en interagissant avec elle que sa véritable nature se révèle.
+
+Il n’est pourtant pas aisé d’engager la conversation avec une pooka. Elles sont intelligentes, mais s’expriment par des phrases simples et saccadées, pleines de métaphores obscures et de références absurdes. La plupart des créatures qui discutent avec les pookas ne les comprennent généralement pas du premier coup et leur demandent souvent de se répéter. Même leur télépathie est emplie de références et d’images étranges. Pour représenter le mot « elfe, » par exemple, la pooka s’appuiera sur le visage d’un elfe qu’elle aura connu il y a longtemps, sur des expressions familières uniquement compréhensibles des natifs de la langue sylvestre, etc. Les pookas apprécient la compagnie d’autrui et jettent souvent leur dévolu sur une créature en particulier, que celle-ci souhaite avoir de la compagnie ou non. Les pookas préfèrent la compagnie des créatures d’alignement chaotique, ne font pas confiance aux créatures d’alignement loyal et trouvent ennuyeuses la plupart des créatures d’alignement neutre.
+
+Lorsqu’elles cherchent à connaître quelqu’un, les pookas lui font des farces et restent à proximité pour en observer les résultats : invisibles, elles se perchent sur l’épaule de l’individu ou s’accrochent à l’un de ses vêtements. Lorsqu’elles communiquent télépathiquement avec leur malheureuse victime (qu’elles qualifient d’« ami »), les réactions erratiques de cette dernière vis-à-vis des farces et de la « voix » mentale de la pooka invisible peuvent la faire passer pour folle. La pooka ne s’offense pas de quelques représailles un peu abruptes, mais elle fuit si on tente de la tuer. Certains pookas peuvent se montrer utiles et les fermiers laissent souvent une partie de leurs récoltes en offrande aux éventuelles pookas du coin. Une pooka satisfaite de ces offrandes pourra laisser le fermier tranquille pendant une année entière, tandis qu’une pooka qui se sent offensée pourra le ridiculiser sans relâche et provoquer des accidents mineurs dans sa ferme.
+
+La pooka mesure 60 centimètres de haut de la pointe des oreilles à la queue et pèse 7,5 kilogrammes au maximum.
+Un lanceur de sorts non-loyal de niveau 7 au moins qui possède le don Familier supérieur peut faire d’une pooka son familier.
+</div></td></tr></table>

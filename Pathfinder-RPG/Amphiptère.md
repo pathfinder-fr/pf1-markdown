@@ -1,0 +1,48 @@
+---
+Name: Pathfinder-RPG.Amphiptère
+Title: Amphiptère
+LastModified: 2023-12-16 00:09
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Amphiptère|FP 4}
+{s:pucem|Dragon|Collines|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.20*}
+{s:BDTexte|**PX** 1 200}
+{s:BDTexte|[Dragon](./type Dragon.md) de taille G, N}
+{s:BDTexte|**Init** +4 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +13}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
+{s:BDTexte|**pv** 42 (5d12+10)}
+{s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +5}
+{s:BDTexte|**Immunités** paralysie, sommeil}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m, [vol](./Vol (capacité).md) 18 m (moyenne)}
+{s:BDTexte|**Corps à corps** queue, +9 (1d8+4) et morsure, +8 (1d10+4 plus [étreinte](./Étreinte (capacité).md)) et 2 ailes, +3 (1d4+2)}
+{s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m (3 m avec la queue)}
+{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (1d10+4), empalement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 11, **Con** 14, **Int** 7, **Sag** 12, **Cha** 9}
+{s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 20 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (queue), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +9, [Vol](./Vol.md) +10 ; **Modificateurs raciaux** +4 en Perception et en Vol}
+{s:BDTexte|**Langues** draconique}
+{s:BDTexte|**Particularités** capacité de vol limitée}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** déserts, collines ou montagnes chaudes ou tempérées}
+{s:BDTexte|**Organisation** solitaire, couple ou escadrille (3-18)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Capacité de vol limitée (Ext).** Les amphiptères ont des ailes mais ils ne peuvent pas vraiment voler. Ils se déplacent habituellement en s’élevant de quelques mètres au-dessus du sol grâce à leurs grandes ailes de chauves-souris et en prenant appui au sol avec leurs pattes griffues pour soulever leur masse. Cette tactique fournit à l’amphiptère une vitesse en vol de 18 mètres et une manœuvrabilité moyenne, mais elle ne lui permet pas de s’élever à plus de 3 mètres du sol ni d’utiliser ses ailes pour voler sur place. En outre, les amphiptères peuvent effectuer un test de [Vol](./Vol.md) DD 15 pour retomber depuis n’importe quelle hauteur sans subir de dégâts de chute, comme s’ils étaient sous l’effet d’un sort de *[feuille morte](./Feuille morte.md)*. Quand il retombe ainsi en toute sécurité, un amphiptère peut effectuer un test de Vol supplémentaire DD 15 pour planer, ce qui lui permet de se déplacer latéralement de 1,50 mètre pour chaque tranche de 3 mètres de descente.}
+{s:BDTexte|**Empalement (Ext).** Si un amphiptère confirme un [coup critique](./coup critique.md) avec son attaque de queue contre une créature de taille inférieure à la sienne, la queue à l’extrémité en pointe empale la créature ciblée. Une créature empalée de la sorte est affublée de l’état préjudiciable [immobilisé en lutte](./Immobilisé.md) (mais l’amphiptère n’est pas affublé de l’état préjudiciable [agrippé](./Agrippé.md)), elle subit 1d6 points de dégâts de [saignement](./Saignement.md) et subit automatiquement les dégâts infligés par la queue de l’amphiptère chaque round pendant lequel elle demeure immobilisée. Un amphiptère ne peut pas utiliser son attaque spéciale de [constriction](./Constriction (capacité).md) contre une créature empalée de la sorte. Il ne peut pas non plus utiliser son attaque de queue tant qu’il empale une créature, mais il n’a pas besoin de réussir un test de manœuvre offensive de [lutte](./lutte.md) pour maintenir sa prise. Un amphiptère peut relâcher une créature empalée par une action libre.}
+</div></td>
+<td><div>*Ce dragon au corps de serpent est doté d’une queue sinueuse à l’extrémité pointue. Sur ses membres antérieurs se déploient des ailes flamboyantes et il n’a pas de pattes arrière.*
+
+Lointains cousins des vouivres, les amphiptères sont tout aussi cruels et violents. Comme elles, ils ont des corps serpentins et des ailes de chauves-souris. Mais à la différence des vouivres, ils doivent utiliser leurs longues griffes situées à l’extrémité de leurs ailes pour prendre de l’élan, bondir maladroitement et soulever leur corps de quelques mètres au-dessus du sol. Leur corps est également plus long et bien plus fin que celui des vouivres et, au lieu du dard empoisonné de ces créatures, les amphiptères ont un large éperon en forme de pointe de flèche à l’extrémité de leur longue queue. Susceptible de transpercer les armures et de briser les os, la queue d’un amphiptère embroche les proies, tel un pêcheur qui harponne les poissons.
+
+Les amphiptères mesurent en moyenne 5,50 mètres de long (leur queue composant la majeure partie de cette longueur) et pèsent dans les 800 kilos.
+</div></td></tr></table>

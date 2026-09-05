@@ -1,0 +1,56 @@
+---
+Name: Pathfinder-RPG.Possession de marionnette
+Title: Possession de marionnette
+LastModified: 2025-06-19 17:20
+Categories:
+- Règle officielle
+- Sort
+- Sort alchimiste 3
+- Sort conjurateur 3
+- Sort hypnotiseur 3
+- Sort magicien 3
+- Sort psychiste 3
+- Sort sorcière 3
+- Src Art de la magie
+---
+
+{s:UM}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, F](./composantes.md) (un bout de papier avec le nom de la cible)
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+**Cible** une créature consentante
+**Durée** 10 minutes/[niveau](./niveau.md) ou jusqu’à ce que le personnage retourne dans son corps
+**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+---
+Le personnage projette son âme hors de son corps, dans celui d’une créature consentante. La *[protection contre le mal](./Protection contre le Mal.md)* et autres sceaux similaires empêchent ce transfert. L’âme de la cible partage son corps avec le personnage, elle est incapable de faire quoi que ce soit mais elle peut tout même utiliser ses sens. Le personnage et la cible peuvent communiquer par [télépathie](./Télépathie.md) comme s’ils utilisaient un langage commun.
+
+Le personnage conserve son [Intelligence](./Intelligence.md), sa [Sagesse](./Sagesse.md), son [Charisme](./Charisme.md), son [niveau](./niveau.md), sa [classe](./classe.md), son [bonus de base à l’attaque](./BBA.md), son bonus aux [jets de sauvegarde](./jet de sauvegarde.md), son [alignement](./Alignement.md) et ses capacités mentales. Le corps conserve sa [Force](./Force.md), sa [Dextérité](./Dextérité.md), sa [Constitution](./Constitution.md), ses [points de vie](./points de vie.md), ses capacités naturelles et ses [attaques naturelles](./attaque naturelle.md) (comme une morsure ou un aiguillon). Un corps avec des membres supplémentaires ne permet pas au personnage de faire des attaques en plus de la normale (ni des attaques plus avantageuses à deux armes). Le personnage ne peut pas activer les [pouvoirs magiques](./pouvoirs magiques.md), [surnaturels](./pouvoirs extraordinaires.md) ou [extraordinaires](./pouvoirs extraordinaires.md) d’un personnage.
+
+Le personnage peut retourner dans son corps par une [action simple](./Action simple.md), ce qui met un terme au sort. Tant que l’âme du personnage possède la cible, son propre corps est [sans défense](./Sans défense.md). Si le corps hôte se fait tuer, le personnage retourne dans son propre corps s’il est à portée et la force vitale de l’hôte se dissipe (ce qui se solde par sa mort). Si le corps hôte se fait tuer alors que le corps du personnage est hors de portée, le personnage meurt comme son hôte. Toute force vitale qui n’a pas d’endroit où aller est considérée comme morte.
+
+
+
+(((
+## Possession
+{s:Desambi|Suivant les règles de [Possession spirituelle](./Possession spirituelle.md) d'Aventures occultes, il est conseillé de remplacer ce sort par [possession spirituelle](./Possession spirituelle (sort).md).}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Sor](./Sorcière.md) 5
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, F (une gemme ou un cristal d'une valeur d'au moins 100Po)](./composantes.md)
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+**Cible** 1 créature
+**Durée** 1 heure/[niveau](./niveau.md) ou jusqu’à ce que le jeteur de sorts réintègre son corps
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+---
+À la fin de l’incantation, l’âme du mage quitte son corps qui reste sans vie, pour aller se loger dans une pierre précieuse que l’on nomme généralement réceptacle magique. À partir de ce moment, le personnage peut tenter de prendre possession d’un corps proche en obligeant l’âme de sa victime à rentrer dans le réceptacle. Le personnage peut revenir dans la gemme quand il le souhaite (auquel cas l’âme chassée réintègre son corps) pour tenter de s’emparer d’un autre corps. Le sort s’achève quand le mage décide de réintégrer son corps (le réceptacle reste alors vide). Le personnage ne peut lancer *possession* que si le réceptacle se situe dans les limites de portée du sort et s’il sait où il se trouve (il n’a pas besoin de le voir). Quand l’âme entre dans la gemme, le corps du personnage devient inerte (il semble mort).
+
+Une fois dans la pierre précieuse, l’âme perçoit toute forme de vie distante de moins de 3 m par [niveau du lanceur de sorts](./NLS.md) (dans le même plan uniquement). Elle peut l’attaquer si elle dispose d’une ligne d’effet dégagée (c’est-à-dire d’une ligne ininterrompue reliant la gemme à la cible). Le personnage ne peut pas découvrir l’identité ni la position exacte des créatures dont il perçoit la présence. Au sein d’un groupe de formes de vie, il perçoit juste une différence d’au moins 4 [DV](./DV.md) et sait si l’énergie qu’il sent est positive ou négative (les [morts-vivants](./type Mort-vivant.md) sont animés d’[énergie négative](./Énergie négative.md), mais seuls ceux qui sont doués d’intelligence possèdent une âme). Le personnage choisit donc s’il veut posséder une créature forte ou faible, mais l’identité exacte de la cible est déterminée aléatoirement.
+
+Toute tentative de possession nécessite une [action complexe](./Action complexe.md). Ce sort est automatiquement bloqué par *[protection contre le Mal](./Protection contre le Mal.md)* et les défenses similaires. Si la cible rate son jet de [Volonté](./Volonté.md), le personnage s’empare de son corps et l’âme de la victime est chassée dans le réceptacle. Si le personnage rate sa tentative de *possession*, il reste dans la gemme et la cible réussit automatiquement tous ses [jets de sauvegarde](./jet de sauvegarde.md) en cas d’attaques ultérieures.
+
+Par contre, si le personnage réussit son attaque, son énergie vitale s’empare du corps de la cible, laquelle voit son âme aspirée dans la pierre précieuse. Le personnage conserve son [Intelligence](./Intelligence.md), sa [Sagesse](./Sagesse.md), son [Charisme](./Charisme.md), son [niveau](./niveau.md), sa [classe](./classe.md), son [bonus de base à l’attaque](./BBA.md), ses bonus de base aux [jets de sauvegarde](./jet de sauvegarde.md), son [alignement](./Alignement.md) et ses facultés mentales. Il acquiert en revanche la [Force](./Force.md), la [Dextérité](./Dextérité.md), la [Constitution](./Constitution.md), les [points de vie](./points de vie.md) et les pouvoirs naturels du corps qu’il occupe. Un corps doté de plusieurs paires de bras (ou autres appendices) n’autorise pas le personnage à porter la moindre attaque supplémentaire ni à accroître son efficacité pour les attaques à deux mains. Il ne peut pas faire appel aux sorts, [pouvoirs magiques, surnaturels ou extraordinaires](./Capacités spéciales.md#TYPES) du corps qu’il possède.
+
+Il suffit d’une [action simple](./Action simple.md) pour que le personnage quitte son corps d’emprunt et retourne dans son réceptacle s’il se trouve à portée. L’âme enfermée dans la gemme réintègre alors automatiquement son corps. Le sort s’achève quand le personnage décide de revenir dans son propre corps et laisse la gemme vide.
+
+Si le corps d’emprunt est tué, l’âme du personnage retourne aussitôt dans la pierre précieuse et chasse celle du défunt qui succombe aussitôt. Si le réceptacle est trop éloigné, le personnage périt en même temps que son hôte. Si l’énergie vitale d’une créature ne trouve pas d’endroit où se réfugier, elle ne peut se maintenir en vie.
+
+Si le sort s’achève alors que l’âme du personnage se trouve dans la gemme, elle réintègre immédiatement son corps ou meurt si celui-ci se trouve hors de portée ou s’il a été détruit. De même, si le sort se termine alors que le personnage possède un hôte, le lanceur de sorts réintègre son corps (ou meurt, voir ci-dessus), tandis que l’âme de sa victime fait de même (cette dernière risquant aussi de mourir si le réceptacle se trouve trop loin de son corps). Détruire la pierre précieuse met un terme au sort qui peut être dissipé, que l’on prenne pour cible la gemme ou le corps hôte.
+)))

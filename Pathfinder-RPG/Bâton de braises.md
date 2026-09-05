@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Bâton de braises
+Title: Bâton de braises
+LastModified: 2024-05-27 16:12
+Categories:
+- Objet mag bâton
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Bâton de braises|{s:mca}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 8 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 13 100 po ; **Poids** 1,5 kg
+(((Description)))
+L’écorce brun-rouge de cette branche de manzanita calcinée n’apparaît que par endroits. Le bâton mesure à peine 90 centimètres de long et est suffisamment équilibré pour servir de gourdin de maître. Quand le personnage lance flammes avec le bâton, il peut décider d’enflammer le bout du bâton plutôt que de faire surgir les flammes de sa main. Cela n’endommage pas le bâton et les dégâts du sort s’ajoutent à toute attaque au corps à corps portée avec le bâton.
+• *[Flammes](./Flammes.md)* (1 charge)
+• *[Rayon ardent](./Rayon ardent.md)* (2 charges)
+• *[Boule de feu](./Boule de feu.md)* (4 charges)
+(((Création)))
+**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[boule de feu](./Boule de feu.md)*, *[flammes](./Flammes.md)*, *[rayon ardent](./Rayon ardent.md)* ; **Coût** 6 700 po
+</div>

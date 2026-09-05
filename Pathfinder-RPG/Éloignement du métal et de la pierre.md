@@ -1,0 +1,30 @@
+---
+Name: Pathfinder-RPG.Éloignement du métal et de la pierre
+Title: Éloignement du métal et de la pierre
+LastModified: 2024-10-10 16:28
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 8
+- Src Manuel des joueurs
+---
+
+**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[Terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 8  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 18 m (12 {s:c})  
+
+**Zone d'effet** [ligne](./ligne.md) de 18 m (12 {s:c}) de long émanant du jeteur de sorts  
+
+**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Ce sort crée de puissantes vagues d’énergie qui se propagent à partir du lanceur de sorts. Tous les objets en métal ou en pierre situés dans la [zone d’effet](./zone deffet.md) sont repoussés jusqu’à la limite la portée du sort. Les objets de métal ou de pierre qui mesurent plus de 7,5 cm de diamètre et sont attachés ne sont pas affectés, de même que ceux qui pèsent plus de 250 kg. Tous les autres sont repoussés, y compris les [objets animés](./Animation dobjets.md), les petits rochers et les créatures en armure métallique. Les objets qui mesurent moins de 7,5 cm de diamètre et sont attachés se plient ou se brisent et les fragments sont ensuite repoussés par les vagues d’énergie. Les objets affectés par le sort s’éloignent du lanceur de sorts à une vitesse de 12 m (8 {s:c}) par round.
+
+Les objets comme les armures métalliques et les épées sont repoussés et entraînent ceux qui les portent avec eux. Même les objets magiques comportant des parties en pierre ou en métal sont déplacés par ce sort, mais une *[zone d’antimagie](./Zone dantimagie.md)* en bloque les effets. Une créature entraînée par l’objet qu’elle tient peut le lâcher. S’il s’agit d’un bouclier, il faut une [action de mouvement](./Action de mouvement.md) pour le détacher, puis une [action libre](./Action libre.md) pour le laisser tomber.
+
+Les vagues d’énergie continuent de balayer la zone dans la direction choisie tout au long de la durée du sort. Une fois le sort lancé, le processus est enclenché et le personnage peut porter son attention sur d’autres choses ou même se déplacer sans que le sort d’*éloignement du métal et de la pierre* n’en soit affecté pour autant.

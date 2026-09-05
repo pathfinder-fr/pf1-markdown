@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.guérison accélérée
+Title: guérison accélérée
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Guérison accélérée (capacité)

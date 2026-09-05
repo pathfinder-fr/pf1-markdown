@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Marques dinterdiction
+Title: Marques d'interdiction
+LastModified: 2025-06-15 15:45
+Categories:
+- Règle officielle
+- Sort
+- Sort paladin 3
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ;** Niveau** [Pal](./Paladin.md) 3
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Cible** un ennemi et un allié
+**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+
+Les *marques d'interdiction* laissent une empreinte magique sur deux créatures, ce qui les empêche de commettre un acte de violence l'une envers l'autre. Quand le personnage incante ce sort, il choisit un allié et un ennemi, tous deux à portée. Ces deux cibles sont alors marquées d'un sceau d'interdiction. Si elles veulent s'attaquer avant la fin de la durée du sort, même avec un sort qui demande de viser sa cible, l'attaquant doit réussir un jet de [Volonté](./Volonté.md). S'il réussit, il peut attaquer normalement, sinon, il ne peut effectuer son attaque et perd son action. Ce sort n'empêche pas les cibles de s'attaquer avec des sorts ou des pouvoirs à effet de zone.

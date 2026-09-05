@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Besace sécurisée du coursier
+Title: Besace sécurisée du coursier
+LastModified: 2024-06-13 00:16
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Besace sécurisée du coursier|{s:UI}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 600 po ; **Poids** 1 kg
+(((Description)))
+{s:cs}Une *besace sécurisée du coursier* se présente sous la forme d'une sacoche en cuir souple typique, dotée d'une bandoulière et d'un rabat à boucle qui peut être fermé pour sceller des documents à l'intérieur. La besace permet de transporter en toute sécurité des documents importants, sensibles ou secrets d'un endroit à un autre, avec un risque minimal qu'ils tombent entre de mauvaises mains. Lorsque des lettres, des écrits, des contrats ou même des parchemins sont placés à l'intérieur de la besace, que la boucle est attachée et que le [mot de commande](./mot de commande.md) est prononcé, la besace scelle les documents en toute sécurité à l'intérieur, les protégeant magiquement pour qu'ils ne puissent plus être retirés. Si le mot de commande de réponse n'est pas prononcé avant d'ouvrir le rabat, la magie de la pochette efface instantanément et complètement tout le texte, ne laissant derrière elle que des pages vierges, comme avec le sort *[effacement](./Effacement.md)*. Si l'on tente de couper ou d'endommager la besace afin de contourner la boucle, la protection magique prend effet, mais la besace elle-même résiste aux dégâts [comme un objet magique](./Règles relatives aux objets magiques.md#DEGATS). Tenter de désactiver la magie de la besace sans essayer de l'ouvrir ne déclenche pas l’*effacement*. La *besace sécurisée du coursier* peut protéger cinq pages d'écriture. Si d'autres pages (ou un livre entier) sont placées à l'intérieur, seules les cinq premières pages sont affectées. Seuls le papier, le parchemin, le vélin et les matériaux similaires sont affectés ; les écrits inscrits sur du bois, de la pierre ou de la cire ne sont pas soumis à la magie de la besace.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[effacement](./Effacement.md)* ; **Coût** 800 po
+</div>

@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Jeu de portes
+Title: Jeu de portes
+LastModified: 2024-06-15 15:51
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Jeu de portes|{s:UI}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 12 150 po ; **Poids** —
+(((Description)))
+{s:cs}Ce jeu de 54 cartes est orné de motifs rappelant des portes et des portails. Par une [action simple](./Action simple.md), l'utilisateur peut appuyer une carte du jeu contre une section de 1,5 m d'un mur. Le mur ne doit pas être magique, peut avoir jusqu'à 60 centimètres d'épaisseur, et doit avoir une [solidité](./solidité.md) de 8 ou moins. Dans un éclair de lumière argentée, la carte se transforme en une porte de bois (solidité 5, 15 pv) et s'incruste dans le mur pendant 5 rounds, son apparence s'adaptant au style de l'architecture environnante. Si l'utilisateur appuie deux cartes contre un mur en même temps, les cartes se transforment en une double porte pendant 10 rounds. La porte peut être ouverte de n'importe quel côté, permettant le passage à travers la section affectée du mur. À la fin de la durée, la porte se détache du mur et se fane en une carte vierge et non magique, laissant le mur intact. Si elle est utilisée lors d'une [course poursuite](./Courses poursuites.md) en milieu urbain, une carte de ce paquet réduit de 5 le [DD](./DD.md) de n'importe quel obstacle basé sur la [Force](./Force.md) ou la [Dextérité](./Dextérité.md) pendant 5 rounds (ou 10 rounds si deux cartes sont utilisées).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création mineure](./Création mineure.md)*, *[passe-muraille](./Passe-muraille.md)* ; **Coût** 6 075 po
+</div>

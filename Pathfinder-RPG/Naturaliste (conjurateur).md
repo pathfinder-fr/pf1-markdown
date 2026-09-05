@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Naturaliste (conjurateur)
+Title: Naturaliste
+LastModified: 2023-05-28 13:30
+Categories:
+- Archétype
+- Archétype conjurateur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypeconjurateur}{s:mca}*Un naturaliste est un conjurateur en harmonie avec le monde naturel qui utilise sa magie comme une loupe pour focaliser divers aspects animaux dans son eidolon. Plus proche du chasseur que des autres lanceurs de sorts profanes, un naturaliste maîtrise de manière instinctive le pouvoir des créatures telles que l’ours, le loup ou le tigre pour faire de son exotique eidolon l’outil vivant parfait pour engager le combat ou mener des opérations discrètes. À terme, il découvre même comment transformer son propre corps.*
+
+#### Appel de la nature (Mag)
+À partir du niveau 1, le naturaliste peut lancer *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* comme un pouvoir magique un nombre de fois par jour égal à 3 + son modificateur de [Charisme](./Charisme.md). Il peut utiliser ce pouvoir magique uniquement pour convoquer des créatures de [type animal](./type Animal.md), [créature magique](./type Créature magique.md) ou [vermine](./type Vermine.md). Ce pouvoir magique fonctionne, par ailleurs, comme l’aptitude de classe convocation de monstres I (le niveau augmentant en fonction de celui du naturaliste et en appliquant les mêmes restrictions). Cette aptitude remplace convocation de monstres I.
+
+#### Imitation animale (Sur)
+Au niveau 4, par une [action rapide](./Action rapide.md), un naturaliste peut améliorer son eidolon en lui ajoutant un [aspect animal](./Chasseur.md#ASPECTANIMAL). Chaque fois qu’il utilise cette aptitude, il peut choisir un aspect animal de [chasseur](./Chasseur.md) et l’appliquer à son eidolon. Son niveau de chasseur dans le cadre de cette aptitude est égal à son niveau de conjurateur -2. Il ne peut pas appliquer un aspect animal sur lui-même (voir Imitation partagée ci-dessous). Cet effet persiste jusqu’à ce que l’eidolon soit révoqué ou renvoyé vers son plan d’origine. Quand un aspect animal est appliqué à un eidolon, sa forme change et subit des transformations physiques superficielles appropriées à l’aspect en question.
+
+- Par exemple, l’application de l’aspect de la chauve-souris agrandit les oreilles et les yeux de l’eidolon, et une peau membraneuse se développe entre ses membres et son corps. Avec l’aspect du cerf, des bois pourraient pousser sur le front de l’eidolon et ses pieds pourraient prendre l’aspect de sabots. Ces transformations physiques ne modifient en rien les pouvoirs magiques et les aptitudes naturelles de l’eidolon. 
+
+Cette aptitude remplace protection d’allié et protection d’allié supérieure.
+
+#### Deuxième imitation animale (Sur)
+Au niveau 10, quand un naturaliste utilise imitation animale, il peut appliquer deux aspects animaux différents à son eidolon. L’eidolon subit des transformations physiques superficielles et appropriées aux aspects choisis. Cette aptitude remplace l’aptitude de classe aspect de l’invocateur.
+
+#### Imitation partagée (Sur)
+Au niveau 14, le naturaliste commence à imiter certaines facettes de la nature sauvage de son eidolon. À chaque fois qu’il utilise imitation animale pour conférer un aspect à son eidolon, il bénéficie également des effets de l’aspect choisi. Le naturaliste conserve cet aspect jusqu’à ce que son eidolon soit révoqué ou renvoyé vers son plan d’origine. Le naturaliste bénéficie des effets d’un seul aspect (il choisit lequel), même si l’eidolon bénéficie de plusieurs aspects. Cette aptitude remplace vies liées.
+
+#### Troisième imitation animale (Sur)
+Au niveau 18, à chaque fois qu’un naturaliste utilise son aptitude d’imitation animale, il peut appliquer trois aspects animaux différents à son eidolon (l’un d’eux reste en place jusqu’à ce que l’invocateur décide de le changer). Cette aptitude remplace aspect supérieur.

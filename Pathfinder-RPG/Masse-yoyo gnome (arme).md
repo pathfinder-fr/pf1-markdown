@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Masse-yoyo gnome (arme)
+Title: Masse-yoyo gnome
+LastModified: 2022-03-20 23:05
+Categories:
+- Arme
+- Src Manuel des races
+---
+
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 20 po ; **Poids** 5 kg ; **Groupes** —
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE), [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE)
+<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+---
+Plus proche d'un fléau que d'une masse, cette arme possède un manche court attaché à une chaîne avec une boule au bout. Cette dernière est propulsée sur sa distance d’allonge grâce à un coup de poignet, qui la ramène au porteur après la frappe.
+
+<div class="description">**Note.** Cet objet n'a officiellement pas de description. Il s'agit d'un oubli de Paizo du à un conflit dans le supplément "Gnomes of Golarion". La courte description physique présente sur cette page est reprise de son équivalent dans la 2nde édition de Pathfinder, pour que vous puissiez la figurer plus facilement lors de vos parties.</div>

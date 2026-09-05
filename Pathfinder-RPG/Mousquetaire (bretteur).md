@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Mousquetaire (bretteur)
+Title: Mousquetaire
+LastModified: 2023-05-28 17:00
+Categories:
+- Archétype
+- Archétype bretteur
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypebretteur}{s:MCA}*Un certain nombre d’organisations et de royaumes recherchent des combattants suffisamment courageux (ou fous) pour manier des armes à feu sur les champs de bataille. La nature audacieuse des bretteurs fait de ces individus les candidats idéaux pour ce genre de tâche.*
+
+#### Armes.
+Un mousquetaire sait manier toutes les armes courantes et de guerre, ainsi que les armes à feu à une et deux mains. Cette aptitude remplace la section Armes du bretteur.
+
+#### Formation de mousquetaire (Ext).
+Au niveau 1, un mousquetaire bénéficie des avantages de l’aptitude [Attaque en finesse](./Attaque en finesse.md) avec une rapière (on considère qu’il possède le don Attaque en finesse pour satisfaire les conditions requises par les dons). Il gagne également les dons [Rechargement rapide](./Rechargement rapide.md) (mousquet) et [Création d’armes à feu](./Création darmes à feu.md) en dons supplémentaires. Cette aptitude remplace finesse du bretteur.
+
+#### Exploit.
+Le mousquetaire gagne l’exploit suivant qui remplace un exploit existant.
+- **Nettoyage rapide (Ext)** Au niveau 1, le mousquetaire peut, par une [action simple](./Action simple.md), dépenser 1 point de panache pour débarrasser une arme à feu qu’il tient en main de la condition [brisée](./Brisé.md) si elle est due à un [long feu](./long feu.md). Cet exploit remplace esquive pleine de panache.

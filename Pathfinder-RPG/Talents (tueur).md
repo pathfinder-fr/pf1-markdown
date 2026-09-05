@@ -1,0 +1,172 @@
+---
+Name: Pathfinder-RPG.Talents (tueur)
+Title: Les talents de tueur
+LastModified: 2024-10-02 17:50
+Categories:
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuclasseshybrides}{s:mca}En prenant de l’expérience, le tueur apprend quelques astuces qui l’aident à perturber ses adversaires. À partir du niveau 2 puis tous les deux niveaux, il gagne un [talent de tueur](./Talents (tueur).md). Sauf indication contraire, il ne peut pas sélectionner un même talent à plusieurs reprises.
+
+Les talents marqués d’un astérisque ajoutent un effet à l’attaque sournoise du tueur. Ce dernier ne peut appliquer qu’un seul de ces talents à une attaque donnée et doit choisir lequel avant d’effectuer son jet d’attaque.
+
+{| CLASS="tablo toutgauche centre autoalt" WIDTH="60%"
+|+ Talents de tueur
+|- CLASS="titre"
+| CLASS="centre" COLSPAN="2" | Talents
+|- CLASS="premier"
+| [Allié étudié](./Talents (tueur).md#ALLIEETUDIE) || [Tromper les indiscrets](./Talents (tueur).md#TROMPERLESINDISCRETS)
+|-
+| [Analyse du sang](./Talents (tueur).md#ANALYSEDUSANG) || [Recherche de pièges](./Talents (tueur).md#RECHERCHEDEPIEGES)
+|-
+| [Coup ralentissant](./Talents (tueur).md#COUPRALENTISSANT)* || [Utilisation des poisons](./Talents (tueur).md#UTILISATIONDESPOISONS)
+|-
+| [Talent de roublard](./Talents (tueur).md#TALENTDEROUBLARD) || [Style de combat du rôdeur](./Talents (tueur).md#STYLEDECOMBATDURODEUR)
+|-
+| [Distance mortelle](./Talents (tueur).md#DISTANCEMORTELLE) || &emsp;
+|-
+|- CLASS="titre"
+| &emsp;
+|- CLASS="titre"
+| CLASS="centre" COLSPAN="2" | Talents de maître
+|- CLASS="premier"
+| [Assassinat](./Talents (tueur).md#ASSASSINAT) || [Déplacement facilité](./Talents (tueur).md#DEPLACEMENTFACILITE)
+|-
+| [Camouflage du tueur](./Talents (tueur).md#CAMOUFLAGEDUTUEUR) || [Talents de maître roublard](./Talents (tueur).md#TALENTSDEMAITREROUBLARD)
+|}
+
+### Description des talents de tueur
+<table width="100%"><tr><td width="49%">
+{s:Reference|ALLIEETUDIE}
+#### Allié étudié (Ext)
+Le tueur peut, par une [action de mouvement](./Action de mouvement.md), étudier un allié ou une créature amicale dans son champ de vision. Il gagne un bonus de +1 aux tests et aux [jets d’attaque](./jet dattaque.md) lorsqu’il effectue l’action [aider quelqu’un](./aider qqn.md) pour améliorer les tests de compétence de cet allié ou augmenter sa [CA](./CA.md). Ce bonus augmente au même rythme que celui de [cible étudiée](./Tueur.md#CIBLEETUDIEE) du tueur. Au niveau 7, un tueur peut étudier un allié par une [action de mouvement](./Action de mouvement.md) ou une [action rapide](./Action rapide.md). L’allié étudié d’un tueur est décompté du nombre de cibles étudiées qu’il peut avoir en même temps.
+
+{s:Reference|ANALYSEDUSANG}
+#### Analyse du sang (Ext)
+S’il peut voir une [cible étudiée](./Tueur.md#CIBLEETUDIEE), un tueur connait le nombre exact de points de vie actuels qu’elle possède. Ce talent fonctionne uniquement contre les cibles vivantes.
+
+{s:reference|COUPRALENTISSANT}
+#### Coup ralentissant* (Ext)
+Si le tueur réussit une attaque sournoise, la vitesse de déplacement de sa cible est diminuée de moitié pendant 1d4 rounds. La victime peut annuler l’effet négatif en réussissant un jet de Vigueur (DD = 10 + 1/2 niveau du tueur + son modificateur d’Intelligence). Si la cible possède plusieurs modes de déplacement, le tueur doit choisir celui qu’il réduit de moitié. Si le tueur affecte la vitesse de vol d’une créature, il réduit également sa manoeuvrabilité d’un cran. Si la créature est en vol à ce moment là, elle tombe, à moins de réussir un test de Vol DD 10. Si le tueur vise une créature qui souffre déjà des effets de ce talent, sa vitesse et sa manoeuvrabilité ne diminuent pas davantage ; en revanche, le tueur peut prolonger la durée de l’effet de 1d4 rounds ou affecter un autre mode de déplacement (dans ce cas, la durée de chaque effet s’écoule indépendamment).
+
+{s:reference|DISTANCEMORTELLE}
+#### Distance mortelle (Ext)
+Le tueur augmente de 3 mètres la distance à partir de laquelle il peut effectuer une attaque sournoise. Il peut choisir ce talent à plusieurs reprises pour cumuler ses effets. Le tueur doit avoir atteint le niveau 4 avant de choisir ce talent.
+
+{s:reference|RECHERCHEDEPIEGES}
+#### Recherche des pièges
+Le tueur obtient Sabotage comme compétence de classe. Il gagne également les pouvoirs de roublard recherche de pièges et sens des pièges. Il utilise son niveau de tueur comme niveau de roublard effectif.
+
+{s:reference|STYLEDECOMBATDURODEUR}
+#### Style de combat de rôdeur (Ext)
+Le tueur choisit un [style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT) de rôdeur (comme archerie ou combat à deux armes). Il obtient un don de combat issu de la première liste de dons de ce style. Il n’a pas besoin de remplir les conditions requises tant que le don appartient à la liste du style de combat choisi.
+
+Au niveau 6, il peut choisir de nouveau ce talent et ajouter à son éventail de choix les dons disponibles pour les rôdeurs de niveau 6 dans le style qu’il a déjà choisi.
+
+De même, au niveau 10, il peut choisir à nouveau ce talent et faire son choix parmi les dons accessibles aux rôdeurs de niveau 10 dans la liste du style choisi.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+{s:reference|TALENTDEROUBLARD}
+#### Talent de roublard
+Un tueur peut choisir l’un des talents de roublard suivant au lieu d’un talent de tueur :
+
+<center>
+{| CLASS="tablo toutgauche autoalt" ID="tabtalroub"
+|+ Talents de roublard
+|- CLASS="titre"
+| COLSPAN="2" | Talents
+|  |
+|- CLASS="premier"
+| [Allié involontaire](./Talents.md#ALLIEINVOLONTAIRE) || [Attaque sanglante](./Talents.md#ATTAQUESANGLANTE)* || [Attaque sournoise puissante](./Talents.md#ATTAQUESOURNOISEPUISSANTE)*
+|-
+| [Attaque surprise](./Talents.md#ATTAQUESURPRISE) || [Audace](./Talents.md#AUDACE) || [Botte secrète](./Talents.md#BOTTESECRETE)
+|-
+| [Camouflage](./Talents.md#CAMOUFLAGE) || [Dénicheur de pièges](./Talents.md#DENICHEURDEPIEGES) || [Difficile à berner](./Talents.md#DIFFICILEABERNER)
+|-
+| [Discret et rapide](./Talents.md#DISCRETETRAPIDE) || [Empoisonnement rapide](./Talents.md#EMPOISONNEMENTRAPIDE) || [Entraînement aux armes à feu](./Talents.md#ENTRAINEMENTAUXARMESAFEU)
+|-
+| [Formation martiale](./Talents.md#FORMATIONMARTIALE) || [Maîtrise du terrain](./Talents.md#MAITRISEDUTERRAIN) || [Mouvement à quatre pattes](./Talents.md#MOUVEMENTAQUATREPATTES)
+|-
+| [Oeil de l’archer](./Talents.md#OEILDELARCHER) || [Réactions lentes](./Talents.md#REACTIONSLENTES)* || [Tir soudain](./Talents.md#TIRSOUDAIN)
+|-
+| [Roublard en finesse](./Talents.md#ROUBLARDENFINESSE) || [Poison persistant](./Talents.md#POISONPERSISTANT)
+|}
+</center>
+
+Les effets des talents basés sur le niveau de roublard appliquent à la place le niveau de tueur. Si le talent de roublard impose une condition, le tueur doit remplir cette condition avant de choisir le talent de roublard. Le tueur peut choisir ce talent à plusieurs reprises mais il doit à chaque fois choisir un talent de roublard différent.
+
+{s:reference|TROMPERLESINDISCRETS}
+#### Tromper les indiscrets
+Un tueur doué de ce talent dissimule ses pensées et ses intentions. Il gagne un bonus de +2 aux tests de Bluff et de Déguisement, ainsi qu’aux jets de sauvegarde pour résister aux sorts et effets permettant de lire dans son esprit
+(comme détection de pensée et détection du mensonge).
+
+{s:reference|UTILISATIONDESPOISONS}
+#### Utilisation des poisons (Ext)
+Le tueur est formé au maniement des poisons et ne peut pas s’empoisonner accidentellement quand il en applique un sur une arme.
+</td></tr></table>
+
+### Description des talents de maître tueur
+À partir du niveau 10 puis tous les deux niveaux, le tueur peut choisir un talent de maître tueur au lieu d’un talent de tueur.
+
+<table width="100%"><tr><td width="49%">
+{s:reference|ASSASSINAT}
+#### Assassinat (Ext)
+Grâce à ce talent, un tueur peut occire les adversaires
+incapables de se défendre. Pour assassiner une cible,
+il doit d’abord l’étudier pendant 1 round par une action simple.
+Au round suivant, s’il réussit une attaque sournoise contre la
+cible et qu’elle ne bénéficie pas de son bonus de Dextérité à
+la CA, l’attaque sournoise peut la tuer. Cette tentative échoue
+automatiquement si la cible identifie le tueur comme étant un
+ennemi. Si le tueur réussit son attaque sournoise, la victime doit
+réussir un jet de Vigueur DD = 10 + 1/2 niveau du tueur + son
+modificateur d’Intelligence. Si la cible rate ce jet, elle meurt,
+sinon, elle subit les dégâts de l’attaque sournoise normale et elle
+est immunisée contre le pouvoir d’assassinat de ce tueur pendant
+24 heures.
+
+{s:reference|CAMOUFLAGEDUTUEUR}
+#### Camouflage du tueur (Ext)
+Le tueur peut utiliser la Discrétion
+pour se cacher au sein de son environnement de prédilection,
+même si ce dernier n’offre, normalement, ni abri ni camouflage.
+Pour choisir ce talent, le tueur doit posséder le talent maîtrise
+du terrain.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+{s:reference|DEPLACEMENTFACILITE}
+#### Déplacement facilité (Ext)
+Un tueur doté de ce pouvoir se déplace
+dans les taillis (qu’il s’agisse d’épineux, de zones broussailleuses,
+de ronciers ou autre) à sa vitesse normale, sans subir
+de dégâts ni souffrir de la moindre gêne. Un environnement
+enchanté ou modifié par magie afin de gêner les déplacements
+affecte le tueur normalement.
+
+{s:reference|TALENTSDEMAITREROUBLARD}
+#### Talents de maître roublard et de maître ninja
+Un tueur peut
+choisir l’un des talents de maître roublard ou de maître ninja
+suivant au lieu d’un talent de maître tueur
+
+<center>
+{| CLASS="tablo toutgauche autoalt" ID="tabtaltueurm"
+|+ Talents de maître roublard et de maître ninja
+|- CLASS="titre"
+| COLSPAN="2" | Talents
+|  |
+|- CLASS="premier"
+| [Attaque sournoise mortelle](./Talents.md#ATTAQUESOURNOISEMORTELLE)* || [Coup assommant](./Talents.md#COUPASSOMMANT) || [Don](./Talents.md#DON)
+|-
+| [Esquive Totale](./Astuces.md#ESQUIVETOTALE) || [Maître du déguisement](./Talents.md#MAITREDUDEGUISEMENT) || [Opportunisme](./Talents.md#OPPORTUNISME)
+|-
+| [Surprise du chasseur](./Talents.md#SURPRISEDUCHASSEUR) || [Tireur discret](./Talents.md#TIREURDISCRET)
+|}
+</center>
+
+Un tueur peut choisir ce talent à plusieurs reprises mais ne peut pas choisir deux fois le même talent de maître roublard ou de maître ninja.
+</td></tr></table>

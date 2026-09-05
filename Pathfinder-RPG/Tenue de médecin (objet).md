@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tenue de médecin (objet)
+Title: Tenue de médecin
+LastModified: 2021-10-25 15:02
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 150 po ; **Poids** 3 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Toute créature portant cette tenue bénéficie d’un bonus de circonstances de +2 aux jets de [Vigueur](./Vigueur.md) contre les maladies transmises par le contact.

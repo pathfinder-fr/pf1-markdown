@@ -1,0 +1,44 @@
+---
+Name: Pathfinder-RPG.Dauphin popoto
+Title: Dauphin popoto
+LastModified: 2026-08-03 08:30
+Categories:
+- Familier
+- Monstre
+- Src Familiar Folio
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Popoto (dauphin)|FP 1/3}
+{s:pucem|Animal|Aquatique|Tropical}
+{s:BDTexte|*Source : Bestiaire p.55*}
+{s:BDTexte|**PX** 135}
+{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [vision aveugle](./vision aveugle.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 14, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
+{s:BDTexte|**pv** 4 (1d8)}
+{s:BDTexte|**Réf** +5, **Vig** +2, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** nage 18 m (12 {s:c})}
+{s:BDTexte|**Corps à corps** Coup +4 (1d3-1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 8, **Dex** 17, **Con** 11, **Int** 2, **Sag** 13, **Cha** 6}
+{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Natation](./Natation.md) +7, [Perception](./Perception.md) +5}
+{s:BDTexte|**Particularités** [Retenir son souffle (capacité)|Retenir son souffle]}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** océans tropicaux}
+{s:BDTexte|**Organisation sociale** solitaire, couple, ou banc (3-5)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|**[Retenir son souffle (capacité)|Retenir son souffle (Ext)]** Un popoto peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.}
+</div>
+</td>
+<td>
+<div>''Ce mammifère élancé possède un museau court ainsi que des marques noires, blanches et grises le long de son corps, avec une nageoire dorsale noire et arrondie.
+
+Les popotos sont la plus petite espèce de dauphins en existance. Ils nagent généralement dans des eaux peu profondes, à proximité des côtes. Ce sont des chasseurs sociaux qui se déplacent en petits bancs, comprenant habituellement de trois à cinq popotos. Tout comme les dauphins de plus grande taille, les popotos sont très appréciés des marins, qui les considèrent comme des porte-bonheur et racontent des histoires de popotos guidant des nageurs perdus jusqu'au rivage ou des groupes repoussant des requins bien plus imposants qu'eux.''
+</div></td></tr></table>

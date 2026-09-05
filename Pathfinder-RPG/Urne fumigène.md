@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Urne fumigène
+Title: Urne fumigène
+LastModified: 2024-06-14 23:19
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Urne fumigène|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 400 po ; **Poids** 0,5 kg
+(((Description)))
+Cette urne métallique a l’allure d’une urne du mauvais génie, mais elle ne fait que dégager de la fumée. Si son bouchon est ôté, un épais nuage noir se forme en 1 round, occupant une étendue de 15 m de rayon autour de l’urne. Si celle-ci n’est pas rebouchée, la fumée se répand au rythme de 3 m par round, jusqu’à ce que le nuage ait atteint un rayon maximal de 30 m. À partir de ce moment, il cesse de croître, mais se renouvelle constamment tant que l’urne est ouverte. Pour chasser la fumée, l’urne doit être rebouchée en prononçant le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE). Un vent modéré (15 km/h) disperse la fumée en 4 rounds et un vent important (30 km/h) en seulement un round.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[pyrotechnie](./Pyrotechnie.md)* ; **Coût** 2 700 po
+</div>

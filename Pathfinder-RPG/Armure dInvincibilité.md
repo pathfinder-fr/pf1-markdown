@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Armure dInvincibilité
+Title: Armure d’invincibilité
+LastModified: 2024-05-24 22:34
+Categories:
+- Objet mag armure
+---
+
+<div class="BD">
+{s:BDTitre|Armure d’invincibilité|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 13 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 137.650 po ; **Poids** 25 kg
+(((Description)))
+L’armure d’invincibilité peut adopter trois formes différentes. Quelle que soit sa forme, son poids reste le même et elle protège comme un harnois solide de [défense intermédiaire](./défense intermédiaire (propriété).md) +2. Par une [action immédiate](./Action immédiate.md), le porteur peut la transformer en armure de plaques lourde qui bloque les attaques tranchantes ([RD](./RD.md) 10/contondant ou perforant), en cotte de mailles épaisse qui bloque les attaques perforantes ([RD](./RD.md) 10/contondant ou tranchant) ou en armure d’écailles métalliques imbriquées qui bloque les attaques contondantes ([RD](./RD.md) 10/perforant ou tranchant). De plus, l’*armure d’invincibilité* octroie au porteur 5 points de résistance à l’acide, au froid, à l’électricité, au feu et au son. Elle est elle-même immunisée contre les dégâts infligés par ces types d’énergies destructives.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[fabrication](./Fabrication.md)*, *[réparation intégrale](./Réparation intégrale.md)* et, soit *[souhait limité](./Souhait limité.md)*, soit *[miracle](./Miracle.md)* ; **Coût** 69.650 po
+</div>

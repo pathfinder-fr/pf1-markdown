@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Clé vernale
+Title: Clé vernale
+LastModified: 2024-06-17 14:50
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Clé vernale|{s:AE}}
+**Aura** [transmutation](./Transmutation.md) puissante ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 2,5 kg
+(((Description)))
+La clé vernale se présente sous la forme de trois orbes entrecroisés, l’un à l’intérieur de l’autre, tous taillés dans une seule pièce de minéral bleu. La clé fut créée pour déverrouiller une prison de jarls mais a pour effet secondaire de protéger la région qui l’entoure contre les ravages de l’hiver.
+
+Sur un rayon de 8 kilomètres entourant la clé vernale, le climat froid (en-dessous de 5 °C) devient modéré, tandis que les grands froids (en-dessous de -18°C) deviennent simplement froids. Les limites de cet effet sont marquées par un vent moyen. La clé doit rester stationnaire (ne pas être utilisée du tout) pour produire cet effet : l’artefact a besoin de 24 heures pour s’harmoniser à son environnement. La clé ne fait qu’améliorer les conditions climatiques naturelles, elle n’a aucun effet sur les environnements extraplanaires et les effets créés magiquement.
+(((Destruction)))
+Le pouvoir de la clé vernale est intrinsèquement lié au Plan élémentaire de l’air où elle a été forgée. Il est impossible de la détruire à moins de la ramener sur son plan d’origine et d’utiliser un [sceptre d’oblitération](./Sceptre doblitération.md) sur elle.
+</div>

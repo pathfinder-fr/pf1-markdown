@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Mugissement de sanglier (objet)
+Title: Mugissement de sanglier
+LastModified: 2023-01-19 18:58
+Categories:
+- Équipement
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}**Prix** 190 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
+<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+---
+Lorsqu'elle est ingérée, cette concoction amère d'une teinte cuivrée accorde 1d4 utilisations d'[inspiration alchimique](./Outils alchimiques.md#INSPIRATION) qui ne peuvent être dépensées que sur les tests d'[Intimidation](./Intimidation.md). Les avantages du mugissement de sanglier durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests de [Diplomatie](./Diplomatie.md) et conserver le pire résultat.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Anneau dexcellence
+Title: Anneau d'excellence
+LastModified: 2024-05-25 16:54
+Categories:
+- Objet mag
+- Objet mag anneau
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Anneau d'excellence|{s:RSE}}
+**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 1 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 000 po ; **Poids** —
+(((Description)))
+<u>***Contenu issu d'un supplément 3.5***</u>
+Ce magnifique anneau en or est rehaussé d’un unique saphir sphérique tenu en place par des broches de platine. Une fois enfilé, l’*anneau d’excellence* protège son porteur contre les effets de terreur, comme s’il était en permanence sous l’effet d’un *[regain d’assurance](./Regain dassurance.md)*. Les membres de la haute société de l'Empire décadent qui portent un *anneau d’excellence* croient souvent que les pouvoirs de l’objet permettent également de réprimer l’anxiété provoquée par les interactions sociales, ce qui améliore leur assurance et leur confiance en soi.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[regain d’assurance](./Regain dassurance.md)* ; **Coût** 1 000 po
+</div>

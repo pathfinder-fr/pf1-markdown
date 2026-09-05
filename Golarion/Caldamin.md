@@ -1,0 +1,15 @@
+---
+Name: Golarion.Caldamin
+Title: Caldamin
+LastModified: 2021-08-26 22:21
+Categories:
+- Andoran
+- Ville
+---
+
+{s:Communauté|Caldamin (ville)|[Andoran](./Andoran.md)|[Forêt de Verduran](./Forêt de Verduran.md)|NB|||550 (petite bourgade)||}Caldamin est une petite bourgade rurale au nord de l'[Andoran](./Andoran.md), nichée entre les [Montagnes des Cinq Rois](./Montagnes-des-Cinq-Rois.md) à l'ouest, la [forêt de Verduran](./Forêt de Verduran.md) à l'est, et la Libellule au sud.<sup>(1)</sup> C'est une communauté banale qui est devenue une sorte d'attraction touristique depuis peu, grâce à la présence de deux créatures extraordinaires ayant élu domicile non loin : un [saccageur rouge](./Pathfinder-RPG-Saccageur-rouge.md) appelé Foreur et un [ravageur gris](./../Pathfinder-RPG/Ravageur gris.md) appelé Berger Gris. Ces deux monstres s'affrontent parfois, et leurs combats sont d'une telle férocité que certains viennent de loin pour les voir de leurs propres yeux.<sup>(2)</sup>
+
+### Références
+**1.** James Jacobs et al dans *[The Inner Sea World Guide](https://paizo.com/products/btpy8ief)* en 2011, p. 44. Paizo inc. ; **VF** *[Cadre de Campagne : La mer Intérieure](https://www.black-book-editions.fr/produit.php?id=2490)*, p.44
+
+**2.** Michael Kortes & J.D. Wiker. dans *[AP#10 A History of Ashes](https://paizo.com/products/btpy82u9)* en 2008, p. 89. Paizo inc. ; **VF** *[AP#10 Histoire de Cendres](https://www.black-book-editions.fr/produit.php?id=52)*, p.89

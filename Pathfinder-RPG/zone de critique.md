@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.zone de critique
+Title: zone de critique
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Tableau récapitulatif des armes#CRITIQUE

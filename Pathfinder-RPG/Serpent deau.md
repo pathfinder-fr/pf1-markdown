@@ -1,0 +1,61 @@
+---
+Name: Pathfinder-RPG.Serpent deau
+Title: Serpent d'eau
+LastModified: 2021-08-04 18:30
+Categories:
+- Monstre
+- Src Guide des Chaînes
+---
+
+<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Serpent d'eau|FP 1}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDtexte|*Source : [Guide des Chaînes p.61](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|**PX** 400}
+{s:BDtexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDtexte|**Init** +2 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDsoustitre|Défense}
+{s:BDtexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
+{s:BDtexte|**pv** 11 (2d8+2)}
+{s:BDtexte|**Réf** +5, **Vig** +4, **Vol** +1}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|**VD** 6 m, escalade 6 m, nage 12 m}
+{s:BDtexte|**Corps à corps** morsure, +4 (1d4-1 plus [poison](./Poison (capacité).md))}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|**For** 8, **Dex** 15, **Con** 12, **Int** 1, **Sag** 13, **Cha** 2}
+{s:BDtexte|**BBA** +1, **BMO** +2, **DMD** 11 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Manœuvres agiles](./Manœuvres agiles.md)}
+{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +7, [Natation](./Natation.md) +7, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
+{s:BDtexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|**Environnement** océan}
+{s:BDtexte|**Organisation sociale** solitaire, couple ou nid (3-8)}
+{s:BDtexte|**Trésor** aucun}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|**Poison (Ext).** *Morsure* — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 12 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d3 [Constitution](./Constitution.md) ; *guérison* 1 réussite}
+</div>
+</td>
+<td>
+<div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de serpent d'eau
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Serpent d'eau](./Serpent deau.md) || 1
+|-
+| [Serpent d'eau géant](./Serpent deau géant.md) || 7
+|}
+</div>
+*Ce serpent aux écailles bleu-vert glisse à la surface de l’eau dans un ballet sinueux de muscles gracieux et agiles.*
+
+Ce vicieux habitant des eaux est un véritable fléau pour les pêcheurs des mers tropicales car il lui arrive de se prendre dans leurs filets. Il s’attaque alors aux marins imprudents quand ils étalent leurs prises sur le pont du navire. Le serpent d'eau suit généralement les bancs de poissons et dévore les retardataires. Il préfère chasser les proies de petite taille plutôt que les ennemis imposants et s’attaque à ces derniers seulement s’il se sent menacé. Son anatomie est particulièrement bien adaptée à son environnement et son unique poumon occupe toute la longueur de son corps.
+
+Un serpent d'eau ordinaire mesure 1,20 mètre de long de la tête à la queue et pèse 5 kilos.
+</div>
+</td>
+</tr>
+</table>

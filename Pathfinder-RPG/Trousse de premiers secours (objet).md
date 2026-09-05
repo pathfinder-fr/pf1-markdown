@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Trousse de premiers secours (objet)
+Title: Trousse de premiers secours
+LastModified: 2021-09-24 22:36
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 50 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Cet ensemble de bandages et d’herbes fournit un bonus de circonstances de +2 aux tests de [Premiers secours](./Premiers secours.md). Une trousse de premiers secours est épuisée après 10 utilisations.

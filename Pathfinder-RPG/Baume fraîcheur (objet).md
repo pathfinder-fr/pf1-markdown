@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Baume fraîcheur (objet)
+Title: Baume fraîcheur
+LastModified: 2021-09-26 19:45
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15
+<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+---
+Cette pâte collante bleu clair devient agréablement froide au toucher quand elle est exposée à la lumière. Il faut une [action complexe](./Action complexe.md) pour en étaler une dose sur le visage et les mains. Elle accorde alors un bonus alchimique de +2 aux [jets de sauvegarde](./JDS.md) pour résister à la chaleur. Dans les zones de [lumière vive](./Exploration.md#VISIONLUMIERE), ce bonus passe à +4, tandis que dans les zones de faible luminosité ou de ténèbres, le bonus est annulé. Une dose de baume fraîcheur dure 1 heure après application. Un pot tout neuf contient 5 doses.

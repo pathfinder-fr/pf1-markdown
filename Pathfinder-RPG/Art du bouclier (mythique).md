@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Art du bouclier (mythique)
+Title: Art du bouclier (mythique)
+LastModified: 2018-07-20 22:42
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Le personnage est passé maître dans l’art de manier le bouclier pour se protéger.*
+
+**Condition.** [Art du bouclier](./Art du bouclier.md)
+
+**Avantage.** Le personnage ajoute le bonus de bouclier et le bonus d’altération du bouclier à sa CA au contact. Par une [action immédiate](./Action immédiate.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ajouter le bonus de bouclier et le bonus d’altération du bouclier à un jet de Vigueur ou de Réflexes juste avant de lancer le dé.

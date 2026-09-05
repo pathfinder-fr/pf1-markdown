@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.veste à outils
+Title: Veste à outils
+LastModified: 2024-06-03 17:00
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Veste à outils|{s:APG}{s:AE}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 1 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 1 800 po ; **Poids** 2,5 kg
+(((Description)))
+Les nombreuses poches de cette veste de cuir fin sont brodées d’artisans souriants qui vaquent à leurs occupations quotidiennes. Une fois par jour, par une [action simple](./Action simple.md), le personnage peut ordonner à la veste de lui fournir tous les outils nécessaires à un test d’[Artisanat](./Artisanat.md). Ils apparaissent dans les innombrables poches de la veste ou, s’ils sont trop lourds, par terre, sur une étagère, sur un établi ou dans une boîte ou un placard qui apparaît non loin. Une fois invoqués, les outils restent pendant 24 heures ou jusqu’à ce qu’une autre créature les touche, selon ce qui se produit en premier.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[convocation d'instrument](./Convocation dinstrument.md)* ; **Coût** 900 po
+</div>

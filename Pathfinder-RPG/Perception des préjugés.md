@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Perception des préjugés
+Title: Perception des préjugés
+LastModified: 2023-01-18 16:37
+Categories:
+- Don
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous pouvez facilement deviner les idées préconçues d'un adversaire.*
+
+**Conditions.** 3 rangs en [Psychologie](./Psychologie.md)
+
+**Avantages.** Le personnage peut effectuer un test de [Psychologie](./Psychologie.md) pour comprendre certains des préjugés d'une personne après 1 minute d'observation. Le [DD](./DD.md) est égal à 20, ou 10 + le bonus en [Bluff](./Bluff.md) de la cible, selon le plus élevé. S'il réussit, il apprend si une fausse information de son choix liée au sujet de la conversation imposerait un malus aux tests de Bluff pour convaincre la cible de la véracité de cette fausse information. S'il rate de 4 ou moins, il n'apprend rien. S'il rate de 5 ou plus, la cible comprend qu'il essaie de lui soutirer des informations. Le personnage peut retenter ce test, mais le DD augmente de 5 pour chaque échec antérieur à ce test contre cette cible.

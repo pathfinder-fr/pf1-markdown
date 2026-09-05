@@ -1,0 +1,474 @@
+---
+Name: Pathfinder-RPG.Chaman
+Title: Le chaman
+LastModified: 2025-03-02 23:15
+Categories:
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuclasseshybrides}
+<div class="fright">***Voir aussi les [esprits du chaman](./Esprits (chaman).md).***
+***Voir aussi les [maléfices du chaman](./Maléfices (chaman).md).***
+***Voir aussi la [liste des sorts de chaman](./Liste des sorts de chaman.md).***
+{s:PM0|chaman}**Voir les archétypes du chaman**
+<li ID="chaman" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechaman}</li>
+</div>{s:mca}*Certains héros parlent aux dieux ou batifolent avec des muses issues d’autres mondes mais le chaman communique avec les esprits du monde et les énergies qui habitent tout être vivant. Ces aventuriers divins utilisent leur pouvoir pour façonner le monde et développer l’influence de leur protecteur spirituel. Ils entretiennent des liens étroits avec les esprits de la nature. Ils nouent des relations privilégiées avec des esprits particuliers et, quand leur puissance se développe, ils apprennent à en appeler d’autres en cas de besoin.*
+
+{| CLASS="tablo centre"
+|+ {s:Reference|TABLECHAMAN}Le chaman
+|- CLASS="titre"
+| ROWSPAN="2" | Niveau
+| ROWSPAN="2" | BBA
+| ROWSPAN="2" | Réflexes
+| ROWSPAN="2" | Vigueur
+| ROWSPAN="2" | Volonté
+| ROWSPAN="2" CLASS="gauche" | Spécial
+| COLSPAN="10" CLASS="avecsoustitre" | Sorts par jour
+|- CLASS="soustitre"
+| 0
+| 1er
+| 2e
+| 3e
+| 4e
+| 5e
+| 6e
+| 7e
+| 8e
+| 9e
+|- CLASS="premier"
+| 1
+| +0
+| +0
+| +0
+| +2
+| CLASS="gauche" | [Esprit](./Chaman.md#ESPRIT), [esprit animal](./Chaman.md#ESPRITANIMAL), [magie des esprits](./Chaman.md#MAGIEDESESPRITS), [oraisons](./Chaman.md#ORAISONS)
+| 3
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 2
+| +1
+| +0
+| +0
+| +3
+| CLASS="gauche" | [Maléfice](./Chaman.md#MALEFICE)
+| 4
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 3
+| +2
+| +1
+| +1
+| +3
+| CLASS="gauche" |
+| 4
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 4
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" | [Esprit errant](./Chaman.md#ESPRITERRANT), [maléfice](./Chaman.md#MALEFICE)
+| 4
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 5
+| +3
+| +1
+| +1
+| +4
+| CLASS="gauche" |
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 6
+| +4
+| +2
+| +2
+| +5
+| CLASS="gauche" | [Maléfice errant](./Chaman.md#MALEFICEERRANT)
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| 7
+| +5
+| +2
+| +2
+| +5
+| CLASS="gauche" |
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 8
+| +6/+1
+| +2
+| +2
+| +6
+| CLASS="gauche" | [Esprit supérieur](./Chaman.md#ESPRITSUPERIEUR), [maléfice](./Chaman.md#MALEFICE)
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+| -
+|-
+| 9
+| +6/+1
+| +3
+| +3
+| +6
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+| -
+|- CLASS="alt"
+| 10
+| +7/+2
+| +3
+| +3
+| +7
+| CLASS="gauche" | [Maléfice](./Chaman.md#MALEFICE)
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+| -
+|-
+| 11
+| +8/+3
+| +3
+| +3
+| +7
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+| -
+|- CLASS="alt"
+| 12
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" | [Esprit errant supérieur](./Chaman.md#ESPRITERRANT), [maléfice](./Chaman.md#MALEFICE)
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+| -
+|-
+| 13
+| +9/+4
+| +4
+| +4
+| +8
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+| -
+|- CLASS="alt"
+| 14
+| +10/+5
+| +4
+| +4
+| +9
+| CLASS="gauche" | [Maléfice errant](./Chaman.md#MALEFICEERRANT) (2 maléfices)
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+| -
+|-
+| 15
+| +11/+6/+1
+| +5
+| +5
+| +9
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+| -
+|- CLASS="alt"
+| 16
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" | [Esprit suprême](./Chaman.md#ESPRIT), [Maléfice](./Chaman.md#MALEFICE)
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+| -
+|-
+| 17
+| +12/+7/+2
+| +5
+| +5
+| +10
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 2
+| 1
+|- CLASS="alt"
+| 18
+| +13/+8/+3
+| +6
+| +6
+| +11
+| CLASS="gauche" | [Maléfice](./Chaman.md#MALEFICE)
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+| 2
+|-
+| 19
+| +14/+9/+4
+| +6
+| +6
+| +11
+| CLASS="gauche" |
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 3
+| 3
+|- CLASS="alt"
+| 20
+| +15/+10/+5
+| +6
+| +6
+| +12
+| CLASS="gauche" | [Esprit errant suprême](./Chaman.md#ESPRITERRANT), [Maléfice](./Chaman.md#MALEFICE), [manifestation](./Chaman.md#MANIFESTATION)
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+| 4
+|}
+
+**Rôle.** Les chamans sont de puissants lanceurs de sorts, capables d’utiliser la magie divine et la puissance de leurs esprits pour aider leurs alliés et détruire leurs ennemis. Ils ne sont pas d’aussi bons guérisseurs que les prêtres mais ils peuvent remplir ce rôle si besoin.
+
+**Classes mères.** [Oracle](./Oracle.md) et [sorcière](./Sorcière.md).
+
+**Alignement.** Tous.
+
+**Dé de vie.** d8.
+
+**Argent de départ.** 3d6 x 10 po (moyenne 105 po).
+
+### Compétences de classe
+Voici les compétences de classe du chaman : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (nature) (Int),  [Connaissances](./Connaissances.md) (plans) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Survie](./Survie.md) (Sag), [Vol](./Vol.md) (Dex)
+
+**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Descriptif de la classe
+Voici les aptitudes de la classe de chaman.
+
+{s:ImageDroite|Illustrations/PNJ/Shardra.jpg|40%}
+#### Armes et armures
+Le chaman est formé au maniement de toutes les [armes courantes](./arme courante.md) et au port des [armures légères](./armure légère.md) et [intermédiaires](./armure intermédiaire.md).
+
+{s:Reference|SORTS}
+#### Sorts
+Le chaman lance des sorts tirés de la [Liste des sorts de chaman](./Liste des sorts de chaman.md). Le chaman choisit et prépare ses sorts à l’avance.
+
+Pour préparer et lancer un sort, le chaman doit avoir une valeur de Sagesse au moins égale à 10 + niveau du sort. Le DD du jet de sauvegarde contre un sort de chaman est de 10 + niveau du sort + modificateur de Sagesse du chaman.
+
+Comme bien d’autres lanceurs de sorts, le chaman ne peut lancer qu’un certain nombre de sorts de chaque niveau par jour.
+Ce nombre figure dans la table ci-dessus. De plus, il reçoit des sorts quotidiens supplémentaires s’il possède une valeur de Sagesse élevée.
+
+Pour préparer ses sorts, le chaman entre en communion avec les esprits animaux. Chacun choisit à quel moment de la journée il doit passer une heure en pleine contemplation silencieuse, en communion avec son esprit animal, afin de régénérer ses sorts quotidiens. Le chaman peut préparer puis lancer n’importe quel sort issu de la liste du chaman, à condition d’avoir accès aux sorts de ce niveau, mais il doit choisir les sorts qu’il prépare lors de sa communion journalière.
+
+{s:Reference|ORAISONS}
+#### Oraisons
+Chaque jour, le chaman peut préparer un certain nombre d’oraisons (ou sorts de niveau 0) indiqué dans la table ci-dessus Le chaman les lance comme les autres mais ils ne sont pas dépensés après l’incantation et il peut donc les réutiliser.
+
+{s:Reference|ESPRIT}{s:Reference|ESPRITSUPERIEUR}{s:Reference|ESPRITSUPREME}
+#### Esprit (Sur)
+Le chaman tisse un lien mystique avec les esprits de son monde. Il forge une relation durable avec l’un d’eux qui lui accorde des pouvoirs et définit une grande partie de ses aptitudes de classe.
+- Au niveau 1, le chaman gagne le pouvoir de l’esprit qu’il a choisi. Il ajoute les sorts de cet esprit à la liste de sorts qu’il lance grâce à sa [magie des esprits](./Chaman.md#MAGIEDESESPRITS). Il ajoute également les maléfices propres à cet esprit à la liste de maléfices qu’il lance grâce à la capacité de classe [maléfice](./Chaman.md#MALEFICE) et [maléfice errant](./Chaman.md#MALEFICEERRANT). 
+- Au niveau 8, le chaman gagne les pouvoirs liés à la version supérieure de l’esprit qu’il a choisi. 
+- Au niveau 16, il gagne les pouvoirs de la version suprême de son esprit.
+
+Si le chaman prend des niveaux dans une autre classe donnant accès à un [mystère](./mystères.md) (comme l’[oracle](./Oracle.md)), l’esprit et le mystère doivent correspondre, même s’il faut pour cela en changer un.
+
+Si le [MJ](./MJ.md) accepte, le chaman peut modifier son ancien esprit ou mystère pour les mettre en conformité.
+
+*Voir la [liste des esprits](./Esprits (chaman).md).*
+
+{s:Reference|ESPRITANIMAL}
+#### Esprit animal (Ext)
+Au niveau 1, le chaman forme un lien étroit avec un esprit animal lié à l’esprit qu’il a choisi. Cet animal forme un lien avec le monde des esprits et le guide sur la voie de l’illumination. L’animal aide aussi le chaman en lui conférant un pouvoir spécial. Chaque jour, le chaman doit entrer en communion avec son esprit animal pour préparer ses sorts. L’esprit animal ne stocke pas les sorts comme le [familier de la sorcière](./Sorcière.md#FAMILIERDELASORCIERE) mais il sert de conduit à la puissance divine. Si l’esprit animal du chaman se fait tuer, le chaman ne peut plus préparer de sorts ni utiliser sa capacité de classe [magie des esprits](./Chaman.md#MAGIEDESESPRITS) tant qu’il n’a pas trouvé un remplaçant.
+
+*Voir la [description des esprits animaux](./Chaman.md#ESPRITANIMALDUCHAMAN).*
+
+{s:Reference|MAGIEDESESPRITS}
+#### Magie des esprits
+Chaque jour, le chaman peut lancer spontanément un petit nombre de sorts en plus de ceux qu’il a préparés en avance. Il a un emplacement de sort par jour pour chaque niveau de sorts de chaman à sa disposition, sans compter les [oraisons](./Chaman.md#ORAISONS). Il peut choisir ces sorts dans la liste offerte par ses esprits (voir les capacités de classe [esprit](./Chaman.md#ESPRIT) et [esprit errant](./Chaman.md#ESPRITERRANT)) au moment de l’incantation. Il peut améliorer ces sorts avec un [don de métamagie](./Dons.md#DONMETAMAGIE) de sa connaissance, en utilisant l’emplacement de sort de niveau supérieur requis et en augmentant le temps d’incantation.
+
+{s:Reference|MALEFICE}
+#### Maléfice
+Le chaman connaît un certain nombre de maléfices qui renforcent sa puissance ou affaiblissent ses ennemis. Il apprend un maléfice au niveau 2 et de nouveaux maléfices aux niveaux 4, 8, 10, 12, 16, 18 et 20. Il peut choisir ses maléfices parmi les maléfices du chaman ou dans la liste de maléfices de l’[esprit](./Chaman.md#ESPRIT) qu’il a choisi. Sauf indication contraire, le chaman ne peut choisir un même maléfice plus d’une fois.
+
+L’utilisation du maléfice est une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./AO.md), sauf indication contraire. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) pour résister au maléfice est de 10 + 1/2 [niveau](./niveau.md) de chaman + son modificateur de [Sagesse](./Sagesse.md).
+
+*Voir la [liste des maléfices](./Maléfices (chaman).md).*
+
+{s:Reference|ESPRITERRANT}
+#### Esprit errant (Sur)
+Au niveau 4, le chaman peut former un lien temporaire avec un esprit autre que celui qu’il a choisi avec sa capacité de classe [esprit](./Chaman.md#ESPRIT). Il doit choisir cet esprit errant chaque jour quand il prépare ses sorts. Tant que cette capacité est active, le chaman bénéficie du pouvoir d’esprit offert par l’esprit errant. Il ajoute également les sorts de cet esprit à la liste de ceux qu’il peut lancer grâce à la [magie des esprits](./Chaman.md#MAGIEDESESPRITS). Il n’ajoute pas les maléfices de l’esprit errant à la liste des maléfices qu’il peut choisir grâce à sa capacité de classe [maléfice](./Chaman.md#MALEFICE). Au niveau 12, le chaman gagne les pouvoirs indiqués dans la version supérieure de l’esprit errant et au niveau 20 il acquiert les pouvoirs de la version suprême de l’esprit errant.
+
+{s:Reference|MALEFICEERRANT}
+#### Maléfice errant
+Au niveau 6, le chaman peut utiliser temporairement un maléfice offert par n’importe lequel de ses esprits. Il doit faire son choix chaque jour, quand il prépare ses sorts. Dans le cadre de cette capacité, il peut choisir n’importe quel maléfice de son [esprit](./Chaman.md#ESPRIT) ou de son [esprit errant](./Chaman.md#ESPRITERRANT). S’il choisit un maléfice de l’esprit errant, il en perd immédiatement l’usage s’il se lie à un autre esprit mais il peut alors en choisir un autre, soit dans la liste de son esprit, soit dans celle de son nouvel esprit errant. Au niveau 14, le chaman peut choisir deux maléfices errants par jour au lieu d’un seul. En dehors de cela, ce pouvoir fonctionne comme le pouvoir de classe de maléfice.
+
+{s:Reference|MANIFESTATION}
+#### Manifestation (Sur)
+Au niveau 20, le chaman se transforme pour incarner le parangon de son [esprit](./Chaman.md#ESPRIT). La nature de cette manifestation dépend de l’esprit, comme décrit dans sa section.
+
+{s:Reference|ESPRITANIMALDUCHAMAN}
+### L'esprit animal du chaman
+En communiant avec les incroyables pouvoirs de son esprit, le chaman tisse un lien précieux avec un serviteur de cet esprit, un être appelé [esprit animal](./Chaman.md#ESPRITANIMAL). Le chaman le choisit pour en faire un intermédiaire et accéder plus facilement à la magie que son esprit lui offre quotidiennement. L’esprit animal confère aussi des pouvoirs spéciaux au chaman. Cette capacité suit les mêmes règles que la capacité de classe du magicien [pacte magique](./Magicien.md#PACTEMAGIQUE) et fonctionne comme un [familier](./Familiers.md), à l’exception de ce qui suit.
+
+Le chaman utilise son niveau de classe comme niveau de [magicien](./Magicien.md) effectif quand il détermine les pouvoirs de son esprit animal. Il choisit son esprit animal dans la liste des [familiers](./Familiers.md) du magicien mais l’esprit animal bénéficie aussi des pouvoirs issus de l’[esprit](./Chaman.md#ESPRIT) choisi. Une fois que le chaman a fait son choix, il ne peut plus le modifier. L’esprit animal du chaman utilise le profil d’un animal donné mais il est considéré comme un [extérieur](./type Extérieur.md) de sous-type [natif](./sous-type natif.md) vis-à-vis des sorts et des pouvoirs qui l’affectent.
+
+Si le chaman possède des niveaux dans une autre classe qui donne accès à un familier, ces niveaux se cumulent avec ses niveaux de chaman quand il s’agit de déterminer les pouvoirs d’esprit animal basés sur le niveau de chaman. Si le chaman a des niveaux dans une autre classe donnant accès à un familier, celui-ci utilise toujours les règles de l’esprit animal, pas celles des familiers des autres classes comme la [sorcière](./Sorcière.md), le [magicien](./Magicien.md) ou l’[ensorceleur](./Ensorceleur.md) de [lignage profane](./lignage Profane.md). Si le chaman a des niveaux de sorcière, son esprit animal lui sert aussi d’intermédiaire pour la puissance de son [protecteur](./Sorcière.md#SORTSDEPROTECTEUR) et lui permet de stocker ses sorts. L’esprit animal du chaman est considéré comme un familier vis-à-vis des sorts, des effets et des pouvoirs qui affectent ce type de créatures.
+
+Si un esprit animal disparaît ou meurt, le chaman peut le remplacer après une période de 24 heures, en réalisant un rituel spécial de huit heures qui consomme 500 po de matériaux par niveau de chaman. Le nouvel esprit animal est obligatoirement du même type que le précédent.
+
+**Esprit animal (Ext).** Au niveau 1, l’esprit animal reçoit des pouvoirs spéciaux basés sur le type d’esprit qu’a choisi le chaman via sa capacité de classe [esprit](./Chaman.md#ESPRIT). Ces pouvoirs influent sur l’apparence de l’esprit animal et lui donnent des capacités spéciales qui l’aident à servir le chaman et l’esprit qu’il représente. Ces pouvoirs figurent dans la section esprit animal de chaque esprit.
+
+**Conduit (Sur).** Si le chaman est de niveau 3 ou plus, son esprit animal peut déclencher des sorts ou des maléfices de contact à sa place. Si le chaman et l’esprit animal sont en contact au moment où le chaman lance le sort de contact, il peut désigner son animal comme le « déclencheur ». L’esprit animal déclenche alors le sort de contact comme le chaman l’aurait fait. Si le chaman lance un autre sort avant le déclenchement du sort de contact, ce dernier se dissipe. Si le chaman active un [maléfice](./Chaman.md#MALEFICE), son esprit animal peut le déclencher sans que les deux soient au contact lors de leur utilisation.

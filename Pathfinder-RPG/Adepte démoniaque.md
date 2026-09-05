@@ -1,0 +1,129 @@
+---
+Name: Pathfinder-RPG.Adepte démoniaque
+Title: Adepte démoniaque
+LastModified: 2023-03-16 17:24
+Categories:
+- Classe de prestige
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+{s:MenuClassesDePrestige}{s:cs}{s:BotD}*De nombreux servants de démons comprennent que l'âme des pécheurs se transforme en démon une fois digérée par les Abysses, mais un adepte démoniaque est incapable d'attendre la mort pour entamer sa transformation. Selon le seigneur démon auquel l'adepte démoniaque est fidèle, son obédience maléfique, l'ensemble de ses pouvoirs, et sa résistance changent. Mais en fin de compte, tous les adeptes démoniaques sont damnés, leurs âmes transformées en démons par les Abysses une fois la mort arrivée.*
+
+{| CLASS="tablo centre autoalt"
+|+ L'adepte démoniaque
+|- CLASS="titre"
+| Niveau || BBA || Réflexes || Vigueur || Volonté
+| CLASS="gauche" | Spécial
+| CLASS="gauche" | Sorts par jour
+|- CLASS="premier"
+| 1 || +0 || +0 || +1 || +0
+| CLASS="gauche" | [Damné](./Adepte démoniaque.md#DAMNE), [marque démoniaque](./Adepte démoniaque.md#MARQUEDEMONIAQUE), [obédience](./Adepte démoniaque.md#OBEDIENCE)
+| CLASS="gauche" | -
+|-
+| 2 || +1 || +1 || +1 || +1
+| CLASS="gauche" | [Esprit démoniaque +2](./Adepte démoniaque.md#ESPRITDEMONIAQUE)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 3 || +2 || +1 || +2 || +1
+| CLASS="gauche" | [Faveur démoniaque 1](./Adepte démoniaque.md#FAVEURDEMONIAQUE)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 4 || +3 || +1 || +2 || +1
+| CLASS="gauche" | [Convocation de démons 1](./Adepte démoniaque.md#CONVOCATIONDEDEMONS)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 5 || +3 || +2 || +3 || +2
+| CLASS="gauche" | [Esprit démoniaque +4](./Adepte démoniaque.md#ESPRITDEMONIAQUE) (résistance)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 6 || +4 || +2 || +3 || +2
+| CLASS="gauche" | [Faveur démoniaque 2](./Adepte démoniaque.md#FAVEURDEMONIAQUE)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 7 || +5 || +2 || +4 || +2
+| CLASS="gauche" | [Esprit démoniaque +6](./Adepte démoniaque.md#ESPRITDEMONIAQUE) (immunités)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 8 || +6 || +3 || +4 || +3
+| CLASS="gauche" | [Convocation de démons 2](./Adepte démoniaque.md#CONVOCATIONDEDEMONS)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 9 || +6 || +3 || +5 || +3
+| CLASS="gauche" | [Faveur démoniaque 3](./Adepte démoniaque.md#FAVEURDEMONIAQUE)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|-
+| 10 || +7 || +3 || +5 || +3
+| CLASS="gauche" | [Forme démoniaque](./Adepte démoniaque.md#FORMEDEMONIAQUE)
+| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Adepte démoniaque.md#SORTSPARJOUR)
+|}
+
+**Dés de vie.** d8.
+
+### Conditions requises
+Pour pouvoir devenir adepte démoniaque, le personnage doit satisfaire aux conditions suivantes :
+
+**Alignement.** Chaotique Mauvais.
+
+**Dons.** [Obédience fiélonne](./Obédience fiélonne.md), [Volonté de fer](./Volonté de fer.md).
+
+**Compétences.** 7 rangs en [Art de la magie](./Art de la magie.md), 7 rangs en [Connaissances](./Connaissances.md) (plans), 7 rang en [Intimidation](./Intimidation.md).
+
+**Langue.** Abyssal.
+
+**Sorts.** Capacité à lancer au moins deux sorts d'[enchantement](./Enchantement.md) de deux niveaux de sort différents.
+
+**Spécial.** Le personnage doit vénérer un [seigneur démon](./Seigneurs démons.md) ou un [seigneur démon naissant](./Seigneurs démons naissants.md). Il doit également avoir été physiquement, mentalement ou spirituellement traumatisé par un démon, soit en étant réduit à des points de vie négatifs par l'attaque physique d'un démon, soit en subissant 10 points ou plus d'affaiblissement temporaire ou de diminution permanente de caractéristique par l'attaque spéciale d'un démon (cette perte peut avoir été infligée par plusieurs attaques, mais le total subi doit être supérieur ou égal à 10), soit en passant au moins 1 journée sous le contrôle d'un démon (par un effet de [charme](./branche charme.md) ou de [coercition](./branche coercition.md), ou une possession démoniaque).
+
+
+### Compétences de classe
+Les compétences de classe de l'adepte démoniaque sont : [Art de la magie](./Art de la magie.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (religion) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Discrétion](./Discrétion.md) (Dex), [Intimidation](./Intimidation.md) (Cha) et [Psychologie](./Psychologie.md) (Sag).
+
+**Rangs de compétence par niveau.** 2 + modificateur d'[Intelligence](./Intelligence.md).
+
+### Capacités de classe
+#### Armes et armures
+Un adepte démoniaque est formé au maniement de toutes les [armes courantes](./armes courantes.md) et de l'arme de prédilection de son protecteur démoniaque.
+
+{s:Reference|SORTSPARJOUR}
+#### Sorts par jour/Sorts connus
+Aux niveaux indiqués, un adepte démoniaque gagne de nouveaux sorts par jour comme s'il avait gagné un niveau dans la classe de lanceur de sorts qui était la sienne avant de devenir un adepte démoniaque. Il ne gagne cependant pas les autres avantages fournis par ce gain de niveau, excepté le nombre de sorts par jour, de sorts connus (dans le cas d'un lanceur de sorts spontanés) et l'augmentation de son [niveau de lanceur de sorts](./NLS.md). Si le personnage possédait plus d'une classe de lanceur de sorts avant de devenir un adepte démoniaque, il doit choisir à quelle classe il ajoute ce nouveau niveau pour ce qui est de déterminer ses sorts par jour.
+
+{s:reference|DAMNE}
+#### Damné (Ext)
+Lorsqu'un adepte démoniaque meurt, son âme est instantanément revendiquée par les Abysses, pour être transformé avec le temps en un démon approprié aux pires péchés qu'il a commis de son vivant. Un personnage qui tente de ressusciter un adepte démoniaque tué doit réussir un test de [niveau de lanceur de sorts](./NLS.md) avec un [DD](./DD.md) égal à 10 + le niveau de personnage de l'adepte démoniaque ou perdre le sort. En cas d'échec, il doit attendre 24 heures avant de pouvoir tenter une nouvelle résurrection, mais d'autres personnages peuvent tenter leur chance si elles le souhaitent.
+
+{s:reference|MARQUEDEMONIAQUE}
+#### Marque démoniaque (Ext)
+Un adepte démoniaque porte la marque de son seigneur démon sous la forme d'un tatouage sur son corps. Une fois par jour, un adepte démoniaque peut puiser dans l'énergie magique de cette marque pour renforcer un sort qu'il lance. Dans ce cas, le sort lancé obtient les [registres](./Registre.md) Chaos et Mal et n'est pas dépensé, ce qui permet à l'adepte démoniaque de lancer ce sort à nouveau plus tard dans la journée.
+
+{s:reference|OBEDIENCE}
+#### Obédience (Ext)
+Pour pouvoir conserver ses aptitudes d'adeptes démoniaque (y compris l'ensemble des capacités de lancement de sorts améliorées grâce à cette classe de prestige), le personnage doit réaliser une obédience quotidienne en l'honneur de son protecteur. Cette cérémonie fait partie intégrante de la méthode utilisée par l'adepte démoniaque pour récupérer ses sorts (comme méditer, prier un seigneur démon, ou étudier un grimoire). Lorsqu'un personnage prend son premier niveau d'adepte démoniaque, il doit décider s'il est un évangéliste, un exalté, ou une sentinelle de son protecteur démoniaque. Ce choix détermine la catégorie des faveurs qu'ils obtient quand il prend des niveaux, et une fois fait, il ne peut pas être changé.
+
+{s:reference|ESPRITDEMONIAQUE}
+#### Esprit démoniaque (Sur)
+Une fois par jour à partir du niveau 2, l'adepte démoniaque peut ouvrir son âme par une [action libre](./Action libre.md) pour qu'un esprit démoniaque vienne le posséder. Cet esprit possède le personnage pendant un nombre de [rounds](./round.md) égal à son niveau d'adepte démoniaque, et lui octroie un bonus de malfaisance de +2 à une caractéristique choisie par l'adepte démoniaque.
+
+Au niveau 5, l'esprit démoniaque octroie un bonus de malfaisance de +4 à une caractéristique, une [résistance](./Résistance (capacité).md) à l'électricité de 10 et un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre le poison.
+
+Au niveau 7, l'esprit démoniaque octroie un bonus de malfaisance de +6 à une caractéristique ainsi qu'une [immunité](./Immunité (capacité).md) à l'électricité et au poison.
+
+Lorsque l'effet arrive à son terme, l'esprit démoniaque quitte le corps du personnage qui devient [confus](./Confus.md) pendant un nombre de [rounds](./round.md) égal à son niveau d'adepte démoniaque. Au début de chaque round de confusion, l'adepte démoniaque peut effectuer un jet de [Volonté](./Volonté.md) [DD](./DD.md) 25 pour mettre immédiatement fin à la confusion.
+
+Esprit démoniaque est un effet de possession, et peut donc être annulé par les sorts de *[protection contre le Mal](./Protection contre le Mal.md)* ou *[protection contre le Chaos](./Protection contre le Chaos.md)*. L'adepte démoniaque peut empêcher ou mettre fin à l'effet de confusion en bénéficiant des effets de l'un de ces sorts, mais être affecté par un tel sort avant que l'esprit démoniaque soit parti met prématurément fin aux avantages qu'il octroyait.
+
+{s:reference|FAVEURDEMONIAQUE}
+#### Faveur démoniaque (Ext, Mag ou Sur)
+Quand un adepte démoniaque prend des niveaux, il obtient des faveurs de son protecteur démoniaque au fur et à mesure que les énergies démoniaques imprègnent de plus en plus profondément son corps et son âme. La nature de ces faveurs varie en fonction du seigneur démon et de la catégorie des faveurs choisis. Chaque seigneur démon offre trois faveurs, chacune plus puissante que la précédente. Au niveau 3, l'adepte démoniaque obtient la première faveur. Au niveau 6, il obtient la deuxième faveur, et au niveau 9 la troisième et dernière faveur. (Voir [Obédience fiélonne](./Obédience fiélonne.md) et la description du seigneur démon ou du seigneur démon naissant pour plus d'informations sur ces faveurs). Lorsqu'une faveur démoniaque permet d'utiliser un pouvoir magique, le [niveau de lanceur de sorts](./NLS.md) de l'adepte démoniaque pour ce pouvoir est égal à son niveau de personnage total. Cette capacité permet à un adepte démoniaque d'obtenir ces faveurs plus tôt qu'à l'accoutumée ; elle ne permet cependant pas d'en utiliser plus lorsque le personnage atteint le nombre de [DV](./DV.md) normalement requis pour les obtenir.
+
+{s:reference|CONVOCATIONDEDEMONS}
+#### Convocation de démons (Mag)
+À partir du niveau 4, un adepte démoniaque peut lancer le sort *[convocation de monstres VI](./Convocation de monstres VI.md)* une fois par jour pour convoquer une [succube](./Succube.md), 1d3 [babaus](./Babau.md) ou 1d4+1 [brimoraks](./Brimorak.md) pour le servir. Au niveau 8, il peut également lancer le sort *[convocation de monstres VIII](./Convocation de monstres VIII.md)* une fois par jour pour convoquer un [hezrou](./Hezrou.md), 1d3 [vrocks](./Vrock.md) ou 1d4+1 [succubes](./Succube.md) pour le servir.
+
+{s:reference|FORMEDEMONIAQUE}
+#### Forme démoniaque (Ext)
+Au niveau 10, l'adepte démoniaque peut se transformer temporairement en un démon unique par une [action simple](./Action simple.md). Son type devient [type Extérieur](./type Extérieur.md) avec les sous-types [Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [Mal](./sous-type Mal.md) et [natif](./sous-type natif.md). Il gagne une [réduction aux dégâts](./RD.md) 10/Bien et fer froid, une [résistance](./Résistance (capacité).md) à l'acide, au froid et au feu de 10 ainsi que la [télépathie](./Télépathie (capacité).md) à 30 mètres. Lorsqu'il acquiert cette capacité, le personnage choisit une altération physique supplémentaire dans la liste suivante qu'il gagne lorsqu'il se transforme : ailes (vitesse de vol de 12 mètres avec une bonne manœuvrabilité), branchies (capacité à respirer dans l'eau et vitesse de nage de 9 mètres), ou une unique [attaque naturelle](./Attaques naturelles (capacité).md) (corne, coup, griffe, morsure, ou queue ; avec les dégâts appropriés à la taille de l'adepte démoniaque). Une fois cette altération physique supplémentaire choisie, elle ne peut plus être changée. Les nouvelles armes naturelles du démon et toutes les armes qu'il manie sont considérées comme alignées sur le Chaos et le Mal en ce qui concerne la réduction de dégâts. L'adepte démoniaque peut conserver cette forme pendant un nombre de minutes égal à son niveau de personnage chaque jour. Cette durée n'est pas nécessairement consécutive mais doit se découper en tranches d'une minute. Reprendre une forme normale est une [action libre](./Action libre.md).
+
+### Anciens adeptes démoniaques
+Si l'alignement d'un adepte démoniaque change et devient autre que Chaotique Mauvais, ou s'il agit contre la volonté de son parrain démoniaque, il perd toutes les aptitudes de cette classe de prestige, en plus de toutes les capacités de lanceur de sorts améliorées par les niveaux acquis dans cette classe (même si ces capacités de lanceur de sorts proviennent d'une classe qui ne dépend pas de l'approbation d'un protecteur divin). Il ne peut plus gagner de niveaux d'adepte démoniaque tant qu'i n' a pas fait acte de contrition (voir *[pénitence](./Pénitence.md)*). Ce sort est également la seule façon pour un adepte de changer de protecteur démoniaque ; le sort de *pénitence* doit obligatoirement être lancé par un adorateur du nouveau seigneur démon choisi.

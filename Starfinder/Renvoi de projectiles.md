@@ -1,0 +1,17 @@
+---
+Name: Starfinder.Renvoi de projectiles
+Title: Renvoi de projectiles
+LastModified: 2024-07-04 17:28
+Categories:
+- Don
+- Don combat
+---
+
+*Vous pouvez utiliser votre arme de corps à corps pour rediriger des attaques.*
+
+**Catégorie :** Combat
+
+**Conditions : ** Déviation de projectiles, bonus de base à l’attaque +16.
+
+**Avantages : ** Quand vous parvenez à dévier une attaque avec le don [Déviation de projectiles](./Déviation de projectiles.md), vous pouvez dépenser 1 point de persévérance supplémentaire pour rediriger l’attaque vers une cible dans un rayon de 18 mètres sur laquelle vous avez une ligne d’effet. Effectuez une attaque à distance avec un malus de -4 contre la classe
+d’armure appropriée de la nouvelle cible. Si votre attaque réussit, la cible subit les dégâts comme si elle avait été la cible de l’attaque initiale.

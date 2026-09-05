@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Kilt (objet)
+Title: Kilt
+LastModified: 2021-09-22 14:52
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 2 pa ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Cette lourde jupe plissée est généralement réservée aux hommes. La plupart présentent un style ou un motif spécifique indiquant l’allégeance à un clan ou à un autre groupe social particulier.

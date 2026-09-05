@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Étreinte (capacité)
+Title: Étreinte (Ext)
+LastModified: 2024-07-21 23:36
+Categories:
+- Règle de monstres universelle
+---
+
+{s:FAQ|***[→](./FAQ- Bestiaire.md#7) Étreinte : Les règles d'étreinte du *Bestiaire* indiquent que la capacité ne fonctionne que sur les créatures plus petites que le monstre, mais les règles d'étreinte du *Bestiaire 2* indique que la capacité fonctionne sur les créatures de la taille du monstre ou inférieure. Laquelle est correcte ?***
+
+Le *Bestiaire 2* est la nouvelle version mise à jour : <u>[étreinte](./Étreinte (capacité).md)</u> fonctionne sur les créatures dont la taille ne dépasse pas celle du monstre doté de la capacité étreinte. La prochaine fois que nous réimprimerons le *Bestiaire* original, nous mettrons à jour toutes les références à l'étreinte et aux capacités similaires pour refléter ce changement.}Si une créature dotée de cette particularité parvient à toucher un adversaire avec l’attaque indiquée (une attaque de griffes ou de morsure généralement), elle lui inflige des dégâts normaux et peut tenter de l’agripper par une [action libre](./Action libre.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). La créature peut choisir de mener la lutte normalement ou d’agripper l’adversaire uniquement avec le membre (ou la partie de son corps) utilisé lors de l’attaque initiale. Dans ce dernier cas, elle accepte un malus de –20 aux tests de [BMO](./BMO.md) pour agripper l’adversaire et pour maintenir la prise par la suite, mais elle ne subit pas l’état préjudiciable « [agrippé](./Agrippé.md) ».
+
+Si la créature parvient à agripper son adversaire, elle ne lui occasionne pas pour autant des dégâts supplémentaires, à moins qu’elle ne dispose également de la capacité de [constriction](./constriction.md). Si elle n’a pas cette capacité, elle inflige à sa victime des dégâts équivalents à ceux de l’attaque initiale chaque fois qu’elle réussit un test de [manoeuvre](./manoeuvre-offensive.md) au cours des rounds qui suivent. Si elle possède la capacité de [constriction](./constriction.md), les dégâts de constriction (indiqués dans la description) s’ajoutent à ceux mentionnés plus haut.
+
+Les créatures qui possèdent la capacité d’étreinte reçoivent un bonus de +4 aux tests de [BMO](./BMO.md) pour agripper un adversaire ou maintenir une prise.
+
+Sauf mention contraire, l'étreinte ne peut être utilisée que contre une créature dont la taille est inférieure ou égale à celle de la créature possédant cette capacité. Si une créature peut utiliser l'étreinte contre une cible de taille supérieure à la sienne, cela est précisé à la ligne "Attaques spéciales" de la créature.
+
+*Format :* étreinte. *Emplacement :* Attaques individuelles et attaques spéciales.
+
+*Format :* étreinte (Colossale). *Emplacement :* Attaques spéciales.

@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.pouvoir extraordinaire
+Title: pouvoir extraordinaire
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Capacités spéciales#TYPES

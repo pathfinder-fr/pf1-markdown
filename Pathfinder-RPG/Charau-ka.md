@@ -1,0 +1,50 @@
+---
+Name: Pathfinder-RPG.Charau-ka
+Title: Charau-ka
+LastModified: 2024-01-06 15:39
+Categories:
+- Monstre
+- Src La mer Intérieure
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Charau-ka|FP 2}
+{s:pucem|Humanoïde|Forêt-Jungle|Tropical}
+{s:BDTexte|*Source : La mer Intérieure p.309*}
+{s:BDTexte|**PX** 600}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) (charau-ka) de taille P, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ;}
+Perception +2
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 12, pris au dépourvu 13 (+1 Dex, +2 naturelle, +1 taille)}
+{s:BDTexte|**pv** 19 (3d8+6)}
+{s:BDTexte|**Réf** +4, **Vig** +3, **Vol** +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, escalade 9 m}
+{s:BDTexte|**Corps à corps** massue, +5 (1d4+3), morsure, +0 (1d3+1)}
+{s:BDTexte|**Distance** rocher, +5 (1d4+2/19-20)}
+{s:BDTexte|**Attaques spéciales** hurlements frénétiques, maîtrise des armes de jet}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 15, **Dex** 13, **Con** 14, **Int** 8, **Sag** 12, **Cha** 11}
+{s:BDTexte|**BBA** +2 ; **BMO** +3 ; **DMD** 14}
+{s:BDTexte|**Dons** [Lancer improvisé](./Lancer improvisé.md)B, [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md),}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +2, [Vol](./Vol.md) +0,}
+Modificateurs raciaux +4 en Discrétion
+{s:BDTexte|**Langues** abyssal, polyglotte}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêt chaude}
+{s:BDTexte|**Organisation** solitaire, couple, patrouille (3-8) ou tribu (9-20 plus 1-3 gorilles sanguinaires, 1-3 guerriers sous-chef de niveau 2, 1 prêtre d’Angazhan de niveau 3-5, et un chef de n’importe quelle classe de niveau 4-8)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Hurlements frénétiques (Sur).** Une fois par jour, un charau-ka peut entrer dans un état de furie hurlante par une [action libre](./Action libre.md). Quand il est dans cet état, le charau-ka rate automatiquement ses tests de [Discrétion](./Discrétion.md) et ne peut plus parler ni lancer de sorts à composante verbale (ni se servir d’un objet qui nécessite un mot de commande) mais il se retrouve sous l’effet d’un sort de *[rapidité](./Rapidité.md)*. Le charau-ka continue de hurler jusqu’à 3 [rounds](./round.md), après quoi, il est [chancelant](./Chancelant.md) pendant 1 [round](./round.md).}
+{s:BDTexte|**Maîtrise des armes de jet (Ext).** Les charau-ka sont maîtres des armes de jet. Ils disposent tous du [Lancer improvisé](./Lancer improvisé.md) comme don bonus. Tous les charau-ka gagnent un bonus racial de +1 avec les armes de jet et leur zone de critique possible est doublée, comme s’ils disposaient du don [Science du critique](./Science du critique.md) pour toutes les armes de jet. Cet effet ne se cumule pas avec tout autre effet qui augmente la zone de critique possible d’une arme.}
+</div></td>
+<td><div>*Cette créature, agile et hurlante, a le visage d’un singe enragé mais marche debout, comme un homme.*
+
+Même si ces dangereux habitants de la jungle se désignent sous le terme de charau-ka, les colons et les explorateurs les appellent souvent hommes-singes. La légende dit que les charau-ka descendent du seigneur démoniaque Angazhan qui transforma les cadavres des premiers humains qui entrèrent en guerre contre son culte et en fit les premiers hommessinges. Les rumeurs selon lesquelles les prêtres charau-ka ont perfectionné un immonde rituel qui oblige les morts à se réincarner en nouveaux charau-ka sont très populaires parmi les explorateurs de la jungle, mais aucune preuve de cette magie n’a encore atteint la civilisation.
+
+Aujourd’hui, les charau-ka sont l’une des espèces les plus fécondes et les plus répandues de l’étendue du Mwangi. Ils ne servent pas tous le roi-gorille et ne vénèrent pas tous Angazhan. Certains sont devenus des monstres féroces à peine mieux organisés que des primates tandis que d’autres se sont tournés vers le culte des autres seigneurs démoniaques ou même d’Ydersius, le dieu-serpent.
+
+Les charau-ka vivent généralement en petites tribus d’une douzaine de membres. Ils ont souvent de dangereuses créatures de la jungle comme animaux de compagnie ou comme gardiens et se reposent sur leurs druides et leurs dresseurs pour les garder sous contrôle. Un village charau-ka type s’étend du sol de la jungle jusqu’à la canopée et inclut habituellement plusieurs structures arboricoles reliées par des lianes ou des ponts de corde.
+</div></td></tr></table>

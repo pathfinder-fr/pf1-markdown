@@ -1,0 +1,65 @@
+---
+Name: Pathfinder-RPG.Créatures mécaniques Léviathan
+Title: Créatures mécaniques Léviathan
+LastModified: 2026-05-15 09:02
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Léviathan mécanique|FP 12}
+{s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3, p.60*}
+{s:BDTexte|**PX** 19 200}
+{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) ([créature mécanique](./sous-type créature mécanique.md)) de taille TG, N}
+{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 28, contact 14, pris au dépourvu 22 (Dex +4, esquive +2, naturelle +14, taille -2)}
+{s:BDTexte|**pv** 128 (16d10+40)}
+{s:BDTexte|**Réf** +11, **Vig** +5, **Vol** +5}
+{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 10/adamantium ; **[Immunité](./Immunité (capacité).md)** feu, [traits des créatures artificielles](./Traits des créatures artificielles (capacité).md)}
+{s:BDTexte|**Faiblesse** [vulnérabilité](./Vulnérabilités (capacité).md) à l’électricité}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m (12 {s:c})}
+{s:BDTexte|**Corps à corps** 2 coups, +25 (1d8+11 plus étreinte) et morsure, +25 (2d6+11)}
+{s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}); Allonge 4,50 m (3 {s:c})}
+{s:BDTexte|**Attaques spéciales** engloutissement (2d8+16 dégâts tranchants plus 2d6 dégâts de feu, CA 17, 20 pv),
+hachoir, souffle (ligne de 18 m (12 {s:c}), 12d8 dégâts de feu, DD 18 1/2 dégâts, utilisable tous les 1d4 rounds, 3/jour)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 33, **Dex** 18, **Con** —, **Int** —, **Sag** 11, **Cha** 1}
+{s:BDTexte|**BBA** +16 ; **BMO** +29 (+33 lutte) ; **DMD** 45 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8 (+12 dans l’eau), [Natation](./Natation.md) +19 ; **Modificateur racial** [Discrétion](./Discrétion.md) +12 (+16 dans l’eau)}
+{s:BDTexte|**Particularités** réactivité, remontage}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous}
+{s:BDTexte|**Organisation sociale** solitaire ou banc (2-4)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs Spéciaux}
+{s:BDTexte|**Engloutissement (Ext).** L’intérieur de léviathan mécanique est rempli de dangereux rouages en rotation et d’eau bouillante : en plus de recevoir des dégâts, la créature engloutie doit [retenir sa respiration](./Dangers naturels.md#NOYADE) pour ne pas se noyer tant qu’elle est dans « l’estomac » du léviathan.}
+{s:BDTexte|**Hachoir (Ext).** Comme le ventre du léviathan est fait d’une myriade de rouages et de pistons
+toujours en mouvement, il inflige 1d8+6 points de dégâts tranchants lorsqu’il réussit un test de [lutte](./Manœuvres offensives.md#LUTTE).}
+{s:BDTexte|**Souffle (Sur).** Le souffle du léviathan mécanique est un puissant jet de vapeur brûlante : il fonctionne aussi bien à la surface que sous l’eau.}
+</div>
+</td>
+<td><div>*Cette construction serpentine, métallique toute en longueur, ressemble à une anguille de métal pourvue de plusieurs membres en forme de pagaies.*
+
+Les léviathans mécaniques fonctionnent aussi bien sur terre que dans l’eau. Les marins hantés par le souvenir de ces
+fourbes machines n’ont pas besoin d’enjoliver leurs récits, la est suffisamment terrifiante pour effrayer même les marins les plus courageux.  
+
+Les nombreuses plaques et les nombreux maillons du léviathan mécanique sont conçus dans un matériau si résistant
+qu’ils ne rouillent jamais, même après une exposition prolongée aux eaux de mer salées qu’il sillonne souvent.  
+
+Les léviathans mécaniques mesurent 7,50 m de long et pèsent un peu plus de 3 tonnes.
+
+### Création
+Lorsque l’on crée ces créatures mécaniques, il faut veiller à bien imperméabiliser les composants. Le créateur doit d’abord fabriquer les pièces mécaniques, d’une valeur de 10 000 po.
+
+- **NLS** 12 ; **Prix** 130 000 po
+- **Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), *[liberté de mouvement](./Liberté de mouvement.md)*, *[métal brûlant](./Métal brûlant.md)*, *[quête](./Quête.md)* et *[souhait limité](./Souhait limité.md)*, le créateur doit avoir un niveau de lanceur de sorts minimum de 12 ; **Compétences** [Artisanat](./Artisanat.md) (mécanique) DD 20 ; **Coût** 70 000 po
+
+</div>
+</td></tr></table>

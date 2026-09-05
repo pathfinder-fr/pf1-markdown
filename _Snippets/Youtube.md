@@ -1,0 +1,9 @@
+---
+{}
+---
+
+<embed
+width="420" height="345"
+src="https://www.youtube.com/v/?1?"
+type="application/x-shockwave-flash">
+</embed>

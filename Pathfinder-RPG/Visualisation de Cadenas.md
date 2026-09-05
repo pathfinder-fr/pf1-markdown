@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Visualisation de Cadenas
+Title: Visualisation de Cadenas
+LastModified: 2018-12-26 14:42
+Categories:
+- Sort
+- Sort alchimiste 1
+- Sort antipaladin 1
+- Sort barde 1
+- Sort inquisiteur 1
+- Sort magicien 1
+---
+
+{s:cs}
+
+**(Source: Heroes of the streets)**
+
+**Ecole** [Divination](./Divination.md) ; **Niveau** [Alc](./Alchimiste.md) 1, [antipaladin](./Antipaladin.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Inq](./Inquisiteur.md) 1  
+
+**Composantes** [V,G,M/FD](./composantes.md)(une petite clé)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** Une créature  
+
+**Durée** 1 heure/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md) annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
+
+
+La cible peut observer durant un round entier une serrure dont elle connait la présence (ou un objet qui inclut une serrure comme une porte ou un coffre) situé dans une portée de 18 m (12 {s:c}) à l'effet de déterminer si elle est ouverte, fermée ou bien bloquée).
+
+Si la créature ciblée est formée à la compétence [Sabotage](./Sabotage.md), en se concentrant sur une serrure pendant 3 rounds, elle peut également déterminer la qualité de la serrure (simple, moyen, bon, ou supérieur). Ce sort ne permet pas à la cible de voir les serrures cachées, comme celles sur les portes secrètes.
+
+(((Locksight
+
+The target can observe for 1 full round a lock that he is aware of (or object that includes a lock, such as a chest or door) that is within 60 feet to automatically determine whether it is open, closed, or jammed.
+
+If the target creature is trained in Disable Device, by concentrating on a lock for 3 rounds, he can also determine the quality of the lock (simple, average, good, or superior). This spell does not enable the target to see hidden locks, such as those on secret doors.)))

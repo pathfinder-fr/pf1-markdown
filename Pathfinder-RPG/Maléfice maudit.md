@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Maléfice maudit
+Title: Maléfice maudit
+LastModified: 2021-04-30 20:04
+Categories:
+- Don
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:um}*Le personnage peut tenter de relancer un maléfice qui n’a pas fonctionné. *
+
+**Condition.** Aptitude à lancer des [maléfices](./Sorcière.md#MALEFICE)
+
+**Avantage.** Quand le personnage vise une créature avec un maléfice qui ne peut pas se lancer plus d’une fois par jour sur la même cible et que cette dernière a réussi son [jet de sauvegarde](./jet de sauvegarde.md) contre le [maléfice](./Sorcière.md#MALEFICE), il peut le lui relancer avant la fin de son prochain tour. En cas d’échec, il ne peut pas relancer ce maléfice sur la cible avant 1 jour.
+
+**Normal.** Le personnage ne peut utiliser ce maléfice qu’une fois par jour sur une même créature.
+
+{s:CMy}
+### Version mythique
+*Les maléfices du personnage irradient de puissance persistante.*
+
+**Condition.** Maléfice maudit
+
+**Avantage.** Quand le personnage cible pour la deuxième fois une créature avec l’un de ces maléfices, celle-ci doit lancer deux [jets de sauvegarde](./JDS.md) et conserver le pire.

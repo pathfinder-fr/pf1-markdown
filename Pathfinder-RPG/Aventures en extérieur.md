@@ -1,0 +1,338 @@
+---
+Name: Pathfinder-RPG.Aventures en extérieur
+Title: Aventures en extérieur
+LastModified: 2024-08-25 15:53
+Categories:
+- Maitre du jeu
+- Règle officielle
+- Src Manuel des joueurs
+---
+
+{s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>En dehors de la sécurité des murs d’une cité, la nature est un endroit dangereux et nombre d’aventuriers se sont perdus dans ces contrées sauvages ou ont succombé aux rigueurs du climat. Les règles suivantes donnent les indications sur la meilleure manière de mener des aventures dans un environnement extérieur.
+
+### Se perdre
+Il y a de nombreuses façons de se perdre en pleine nature. Suivre une route, un sentier, un cours d’eau ou un rivage limite ce risque, toutefois, en voyageant à travers champs et forêts, les personnages risquent d’être désorientés, surtout lorsque la visibilité est mauvaise ou que le terrain est difficile.
+
+**Mauvaise visibilité.** Quand les personnages ne voient pas convenablement à dix-huit mètres au moins, ils risquent de se perdre. S’ils évoluent dans le brouillard, sous la pluie ou sous la neige, ils risquent de perdre leurs repères visuels. De même, s’ils voyagent de nuit, ils savent qu’ils prennent des risques. Tout dépend alors de leurs sources de lumière, de la luminosité de la lune et de leurs éventuels pouvoirs de [vision nocturne](./vision nocturne.md) ou de [vision dans le noir](./vision dans le noir.md).
+
+**Terrain difficile.** Les personnages qui évoluent en forêt, sur la lande, dans les collines ou dans les montagnes peuvent se perdre s’ils s’écartent de leur piste (qu’il s’agisse d’une route ou d’un cours d’eau). Les forêts sont plus particulièrement dangereuses car elles brouillent les repères et empêchent de voir le soleil ou les étoiles.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Terrain || DD du test de Survie
+|- CLASS="premier"
+| Désert ou plaine || 14
+|- CLASS="alt"
+| Environnement urbain, ruines, donjon || 8
+|-
+| Forêt || 16
+|- CLASS="alt"
+| Lande ou colline || 10
+|-
+| Montagne || 12
+|- CLASS="alt"
+| Pleine mer || 18
+|-
+|  |
+|- CLASS="titre"
+| Situation || Modificateur au DD
+|- CLASS="premier"
+| Outils de navigation appropriés (carte, sextant) || +4
+|- CLASS="alt"
+| Mauvaise visibilité || -4
+|}
+</div></div>**Chances de se perdre.** Si les personnages risquent de s’égarer, le personnage de tête doit faire un test de [Survie](./Survie.md). En cas d’échec, le groupe est bel et bien perdu. Le [DD](./DD.md) de ce test dépend du terrain, des conditions de visibilité et de la présence éventuelle d’une carte. Reportez-vous à la table ci-dessous et utilisez le [DD](./DD.md) applicable le plus élevé.
+
+Un personnage doté d’au moins 5 degrés de maîtrise en [Connaissances](./Connaissances.md) (géographie) ou [Connaissances](./Connaissances.md) (folklore local) en rapport avec la région traversée bénéficie d’un bonus de +2 au test.
+
+Effectuez un test par heure (ou fraction d’heure) de déplacement sur courte ou longue distance pour voir si les voyageurs sont perdus. Si les personnages se déplacent en groupe, seul le personnage de tête effectue ce test.
+
+**Effets.** Si le groupe se perd, il n’avance plus dans la bonne direction. Déterminez une nouvelle direction au hasard pour chaque heure de déplacement sur courte ou longue distance. Les personnages continuent de progresser au hasard jusqu’à ce qu’ils tombent sur un repère immanquable ou jusqu’à ce qu’ils se rendent compte qu’ils se sont perdus et qu’ils tentent de retrouver leur chemin.
+- *Reconnaître qu’on s’est perdu.* Une fois par heure de progression aléatoire, chaque personnage du groupe peut faire un test de [Survie](./Survie.md) ([DD](./DD.md) 20, -1 par heure de voyage) pour se rendre compte que le groupe n’avance pas dans la bonne direction. Dans certaines circonstances, les personnages se rendent forcément compte qu’ils sont perdus.
+- *Prendre une nouvelle direction.* Il est bien difficile de déterminer la direction à suivre une fois que le groupe s’est perdu. Pour cela, un personnage doit réussir un test de [Survie](./Survie.md) ([DD](./DD.md) 15, +2 par heure de déplacement erratique). En cas d’échec, le personnage choisit une direction aléatoire en guise de « bonne » direction.
+Une fois qu’ils ont repris leur route, que la direction soit correcte ou non, les personnages peuvent de nouveau se perdre. Si les conditions suggèrent une possibilité d’égarement, effectuez un test par heure de voyage, comme décrit dans la partie « Chances de se perdre », ci-dessus, pour voir s’ils gardent la nouvelle direction ou s’ils progressent de nouveau au hasard.
+- *Directions conflictuelles.* Plusieurs personnages peuvent essayer de retrouver le bon chemin après s’être perdus. Dans ce cas, effectuez un test de [Survie](./Survie.md) en secret pour chaque personnage. Confiez la bonne direction à ceux qui ont réussi le test, et donnez une direction aléatoire (qu’ils penseront être la bonne) aux autres.
+
+**Retrouver sa direction.** Il y a plusieurs façons de retrouver son chemin. Premièrement, si les personnages ont réussi à déterminer une nouvelle direction et s’ils la suivent jusqu’à leur destination, ils ne sont plus perdus. Deuxièmement, les personnages qui progressent dans une direction aléatoire peuvent très bien tomber sur un repère qu’ils reconnaîtront facilement. Troisièmement, si les conditions environnementales s’améliorent soudainement (si le brouillard se dissipe, si le soleil se lève, etc.), les personnages peuvent tenter de suivre une nouvelle direction, avec un bonus de +4 au test de [Survie](./Survie.md). Enfin, certains sorts peuvent indiquer la direction à suivre.
+
+### Forêts
+Les milieux forestiers se divisent en trois catégories : clairsemés, intermédiaires et denses. Une forêt immense regroupe les trois types: de clairsemée à la lisière jusqu’à dense au centre.
+
+La table ci-dessous indique la probabilité que chaque case contienne un élément de terrain.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| ROWSPAN="2" | &emsp;
+| COLSPAN="3" CLASS="avecsoustitre" | Catégories de forêt
+|- CLASS="soustitre"
+| Clairsemée || Intermédiaire || Dense
+|- CLASS="premier"
+| Arbres normaux || 50% || 70% || 80%
+|- CLASS="alt"
+| Arbres massifs || — || 10% || 20%
+|-
+| Broussailles légères || 50% || 70% || 50%
+|- CLASS="alt"
+| Broussailles épaisses || — || 20% || 50%
+|}
+</div></div>
+**Arbres.** Les arbres constituent les éléments principaux d’une forêt. Une créature qui se trouve dans la même case qu’un arbre bénéficie d’un bonus de +2 à la [classe d’armure](./CA.md) et d’un bonus de +1 aux [jets de Réflexes](./jet de sauvegarde.md) (ces bonus ne sont pas cumulables avec d’autres bonus d’abri). En dehors de cela, la présence d’un arbre n’affecte pas l’espace de combat d’une créature car on part du principe que celle-ci tire le meilleur parti possible de cet arbre. Le tronc a une [CA](./CA.md) de 4, une solidité de 5 et 150 pv. Un test d’[Escalade](./Escalade.md) [DD](./DD.md) 15 permet d’y grimper.
+
+Les forêts denses ou intermédiaires abritent également des arbres massifs. Ils occupent une case entière et confèrent un abri aux créatures qui se dissimulent derrière. Ils ont une [CA](./CA.md) de 3, une [solidité](./solidité.md) de 5 et 600 pv. Comme les arbres normaux, il suffit d’un test d’[Escalade](./Escalade.md) [DD](./DD.md) 15 pour y grimper.
+
+**Broussailles.** Plantes, racines et buissons tapissent le sol forestier. Pour entrer dans une case occupée par de légères broussailles, il faut utiliser 2 cases de déplacement mais les créatures qui s’y trouvent bénéficient d’un [camouflage](./camouflage.md). Les broussailles augmentent le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) et [Déplacement silencieux](./Discrétion.md) de +2 à cause des feuilles et des branches. Pour entrer dans une case occupée par des broussailles épaisses, il faut dépenser 4 cases de déplacement mais les créatures qui s’y trouvent bénéficient d’un [camouflage](./camouflage.md) (30 % de chances de rater au lieu des 20 % habituels). Les broussailles épaisses augmentent le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) de 5. En revanche, il est facile de s’y cacher et elles accordent un bonus de +5 aux tests de [Discrétion](./Discrétion.md). On ne peut pas y [courir](./courir.md) ni y [charger](./charge.md). Les cases qui comportent des broussailles sont généralement regroupées. Certaines abritent à la fois un arbre et des broussailles.
+
+**Voûtes forestières.** Les elfes et autres habitants des bois vivent souvent sur des plates-formes qui s’élèvent loin au-dessus du sol. Ces plates-formes de bois sont généralement reliées par des ponts de cordes. Pour atteindre les maisons, il faut grimper aux branches ([Escalade](./Escalade.md), [DD](./DD.md) 15), se servir d’échelles de cordes ([Escalade](./Escalade.md), [DD](./DD.md) 0), ou encore utiliser une sorte de monte-charge (qui s’élève de trente centimètres par point obtenu à un test de [Force](./Force.md), effectué chaque round au prix d’une [action complexe](./Action complexe.md)). Les créatures qui se trouvent sur les plates-formes ou les branches d’une voûte forestière bénéficient d’un abri contre celles qui se trouvent au sol. Dans les forêts denses et intermédiaires, elles disposent également d’un [camouflage](./camouflage.md).
+
+**Autres éléments de forêt.** Les troncs couchés font généralement quatre-vingt-dix centimètres de haut et offrent un abri comparable à un muret. Pour les franchir, il faut dépenser 1,50 m de déplacement. Habituellement, les cours d’eau forestiers font entre un mètre cinquante et trois mètres de large, pour une profondeur d’un mètre cinquante maximum. Des sentiers sinueux sillonnent la plupart des forêts, ce qui permet de s’y déplacer normalement mais sans bénéficier d’un [abri](./abri.md) ni d’un [camouflage](./camouflage.md). Ces chemins sont plus rares dans les forêts denses, et on trouve seulement des pistes laissées par les animaux dans les forêts inexplorées.
+
+**Discrétion et Détection en forêt.** Dans une forêt clairsemée, les personnages peuvent utiliser leur [Perception](./Perception.md) pour détecter une présence à 3d6 x 3 m au maximum. Cette distance passe à 2d8 x 3 m dans une forêt intermédiaire et à 2d6 x 3 m dans une forêt dense.
+
+Comme une case de broussailles offre un [camouflage](./camouflage.md), il est facile d’utiliser la compétence [Discrétion](./Discrétion.md) en forêt. Les troncs et les arbres offrent également un abri et constituent de bonnes cachettes.
+
+Le bruit de fond d’une forêt compliquent les tests de [Perception](./Perception.md) basés sur l’ouïe. Augmentez-les de 2 points tous les trois mètres, et non de 1.
+
+{s:Reference|FEUXFORET}
+#### Les feux de forêt (FP 6)
+Normalement, une simple étincelle est inoffensive mais si le temps est sec et que le vent souffle, elle peut provoquer un incendie. La foudre met souvent le feu aux arbres et elle est à l’origine de nombreux feux de forêt. Quelle que soit la source des flammes, les voyageurs peuvent se retrouver piégés.
+
+Un personnage qui réussit un test de [Perception](./Perception.md) (on considère l’incendie comme une créature de [taille C](./taille.md), ce qui réduit le [DD](./DD.md) de 16 points) voit les flammes jusqu’à 2d6 x 30 m. Si tous les personnages ratent leur test de [Perception](./Perception.md), le feu se rapproche. Ils le remarquent automatiquement quand il a parcouru la moitié de la distance qui le séparait d’eux. Pour peu que l’on bénéficie d’un poste d’observation surélevé, la fumée d’un feu de forêt se voit jusqu’à 3 km.
+
+Les personnages aveugles (ou dans l’impossibilité d’effectuer un test de [Perception](./Perception.md)) sentent la chaleur des flammes (et les détectent automatiquement) quand le feu de forêt se trouve à trente mètres d’eux.
+
+La lisière des flammes (qui est sous le vent) peut progresser plus vite qu’un humain ne court (36 m par round sous un vent modéré). Dès lors qu’une partie de la forêt est dévorée par les flammes, elle brûle pendant 2d4 x 10 minutes, après quoi il ne reste que des braises fumantes. Les personnages rattrapés par un feu de forêt risquent de se faire encercler par les flammes.
+
+Au sein d’un tel incendie, un personnage est confronté à trois dangers : les dégâts dus à la chaleur, le risque de prendre feu et l’inhalation de fumée.
+
+**Dégâts dus à la chaleur.** Être pris dans un feu de forêt est pire encore qu’être exposé à une chaleur extrême (voir [« Dangers de la chaleur »](./Dangers naturels.md#CHALEUR)). Le simple fait de respirer inflige 1d6 points de dégâts de feu par round (pas de [jet de sauvegarde](./jet de sauvegarde.md)). De plus, le personnage doit faire un [jet de Vigueur](./jet de sauvegarde.md) tous les 5 rounds ([DD](./DD.md) 15 +1 par test précédent), sinon il subit 1d4 points de [dégâts non-létaux](./Dégâts non-létaux.md). Un personnage qui retient son souffle peut éviter les dégâts létaux, mais pas les dégâts non-létaux. Toutes les créatures qui portent des vêtements épais ou une armure subissent un malus de -4 aux [jets de sauvegarde](./jet de sauvegarde.md). En outre, celles qui portent une armure métallique ou qui touchent un métal très chaud sont affectées par un effet semblable au sort *[métal brûlant](./Métal brûlant.md)*.
+
+**Prendre feu.** Les personnages piégés par un feu de forêt risquent de prendre feu au moment où la lisière des flammes les rattrape, puis toutes les minutes (voir [« Prendre feu »](./Dangers naturels.md#PRENDREFEU)).
+
+**Inhalation de fumée.** Les feux de forêt dégagent beaucoup de fumée. Un personnage qui en respire doit effectuer un [jet de Vigueur](./jet de sauvegarde.md) par round ([DD](./DD.md) 15 +1 par test précédent) ou passer le round à suffoquer. Un personnage qui suffoque pendant 2 rounds consécutifs reçoit 1d6 points de [dégâts non-létaux](./Dégâts non-létaux.md). De plus, la fumée obscurcit le champ de vision et offre un [camouflage](./camouflage.md) aux personnages qui s’y trouvent.
+
+### Marécages
+Il existe deux types de marécages : les landes sèches et les marais croupis. Tous deux sont souvent bordés de lacs (décrits dans la section [« Milieux aquatiques »](./Aventures en extérieur.md#MILIEUAQUATIQUE)), qui constituent une troisième catégorie de milieu naturel que l’on trouve dans les marécages.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Catégories de marais || Landes || Marais
+|- CLASS="premier"
+| Tourbières peu profondes || 20% || 40%
+|- CLASS="alt"
+| Tourbières profondes || 5% || 20%
+|-
+| Broussailles légères || 30% || 20%
+|- CLASS="alt"
+| Broussailles épaisses || 10% || 20%
+|}
+</div></div>
+**Tourbières.** Si une case fait partie d’une tourbière peu profonde, elle contient trente centimètres de boue ou d’eau stagnante. Pour y entrer, il faut dépenser 2 cases de déplacement et le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) augmente de 2 points.
+
+Une case de tourbière profonde contient environ un mètre vingt d’eau stagnante. Les créatures de [taille M](./taille.md) ou supérieure doivent dépenser 4 cases pour y entrer. Ces personnages peuvent aussi y nager. Les créatures de [taille P](./taille.md) ou inférieure doivent impérativement nager pour se déplacer. Les acrobaties y sont impossibles.
+
+L’eau d’une tourbière profonde offre un [abri](./Modificateurs de combat.md#ABRI) aux créatures de [taille M](./taille.md) ou supérieure. Les créatures plus petites bénéficient d’un [abri supérieur](./Modificateurs de combat.md#ABRI) (bonus de +8 à la [CA](./CA.md), bonus de +4 aux [jets de Réflexes](./jet de sauvegarde.md)). Les créatures de [taille M](./taille.md) ou supérieure peuvent s’accroupir au prix d’une [action de mouvement](./Action de mouvement.md) pour bénéficier de cet [abri supérieur](./Modificateurs de combat.md#ABRI). Toutes les créatures qui en bénéficient subissent en revanche un malus de -10 à l’attaque contre les créatures qui se trouvent hors de l’eau.
+
+Les cases de tourbière profonde sont habituellement regroupées et entourées par un anneau de cases de tourbière peu profonde au contour irrégulier.
+
+Le [DD](./DD.md) des tests de [Discrétion](./Discrétion.md) augmente de 2 points dans les cases de tourbière profonde ou peu profonde.
+
+**Broussailles.** Les buissons, joncs et autres herbes hautes des marécages fonctionnent sur le même principe que les broussailles en forêt ([voir plus haut](./Aventures en extérieur.md#FORETS)). Une case de tourbière ne peut pas accueillir de broussailles.
+
+**Sables mouvants.** Les sables mouvants, qui passent pour des broussailles ou un carré de plaine, paraissent solides et risquent de tromper les personnages imprudents. Un personnage qui s’approche à une allure normale de sables mouvants a droit à un test de [Survie](./Survie.md) [DD](./DD.md) 8 pour repérer le danger. En revanche, les personnages qui courent ou qui chargent n’ont pas la moindre chance de les détecter. Les sables mouvants font généralement six mètres de diamètre, et, à a cause de son élan, un personnage qui court ou charge se projette à 1d2 x 1,50 m à l’intérieur.
+
+**Effets des sables mouvants.** Les personnages piégés par des sables mouvants doivent réussir un test de [Natation](./Natation.md) par round pour ne pas s’enfoncer ([DD](./DD.md) 10) ou pour se déplacer de 1,50 m ([DD](./DD.md) 15). S’ils échouent de 5 points ou plus, ils disparaissent sous la surface et se noient dès qu’ils n’ont plus de souffle (voir la description de la compétence [Natation](./Natation.md)).
+
+Les personnages immergés dans des sables mouvants peuvent remonter à la surface à l’aide d’un test de [Natation](./Natation.md) DD 15 +1 par round passé sous le sable.
+
+**Sauvetage.** Il est difficile de dégager un personnage des sables mouvants. Le sauveteur a besoin d’une branche, d’une hampe de lance, d’une corde ou de quelque autre ustensile pour atteindre la victime. Ensuite, il doit faire un test de [Force](./Force.md) [DD](./DD.md) 15 pour la tirer, cette dernière devant aussi faire un test de [Force](./Force.md) [DD](./DD.md) 10 pour rester accrochée à l’accessoire. En cas d’échec, elle doit effectuer un test de [Natation](./Natation.md) ([DD](./DD.md) 15) pour ne pas couler. Si les deux tests sont couronnés de succès, la victime est halée sur 1,50 m.
+
+**Haies.** Les haies, très répandues dans les landes, sont des enchevêtrements de pierres, de terre et de buissons épineux. Les haies étroites fonctionnent comme des murets et il faut dépenser 3 cases de déplacement pour les franchir. Les haies larges font plus d’un mètre cinquante de haut et occupent des cases entières. Elles offrent un [abri total](./Modificateurs de combat.md#ABRI), tout comme les murs. Pour traverser une case occupée par un tel obstacle, il faut dépenser 4 cases de mouvement. Ceci dit, les créatures qui réussissent un test d’[Escalade](./Escalade.md) ([DD](./DD.md) 10) n’ont besoin d’utiliser que 2 cases de déplacement.
+
+**Autres éléments des marécages.** Certains marécages, en particulier les marais, abritent quelques arbres généralement regroupés en petits bosquets. La plupart possèdent des sentiers qui contournent les tourbières. Comme dans les forêts, les sentiers permettent de se déplacer normalement et n’offrent pas le camouflage fourni par les broussailles.
+
+**Discrétion et Détection en marécages:** Sur la lande, les personnages peuvent utiliser leur [Perception](./Perception.md) pour détecter une présence à 6d6 x 3 m au maximum. Dans un marais, cette distance est de 2d8 x 3 m.
+
+Les broussailles et les tourbières profondes offrent un excellent [camouflage](./camouflage.md), il est donc facile de se dissimuler dans les marécages.
+
+### Collines
+Les collines existent dans la plupart des types de terrains, mais il leur arrive également de dominer les alentours. Ce milieu naturel est divisé en deux groupes : les coteaux et les collines accidentées. Il s’agit généralement d’une zone de transition entre un milieu accidenté, comme une montagne, et une plaine.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Catégories de colline || Coteaux || Colline accidentée
+|- CLASS="premier"
+| Pente douce || 75% || 40%
+|- CLASS="alt"
+| Pente raide || 20% || 50%
+|-
+| Broussailles légères || 5% || 10%
+|- CLASS="alt"
+| Broussailles épaisses || 15% || 15%
+|}
+</div/></div>
+**Pente douce.** Cette pente n’est pas assez raide pour affecter les déplacements, mais les personnages situés en amont bénéficient d’un bonus de +1 aux jets d’attaque au corps à corps.
+
+**Pente raide.** {s:REFERENCE|PENTERAIDE}Les personnages qui gravissent la colline (qui se déplacent donc vers une case de plus haute altitude que la leur) doivent utiliser 2 cases de déplacement pour entrer dans une case de pente raide. Les personnages qui la dévalent en courant ou en chargeant (qui se déplacent donc vers une case de plus faible altitude que la leur) doivent réussir un test d’[Acrobaties](./Acrobaties.md) ([DD](./DD.md) 10) en entrant dans la première case de pente raide. De leur côté, les personnages montés doivent effectuer un test d’[Équitation](./Équitation.md) ([DD](./DD.md) 10). En cas d’échec, l’intéressé trébuche et met un terme à son déplacement 1d2 x 1,50 m plus loin. Les personnages qui échouent de 5 points ou plus se retrouvent à terre dans la case où leur déplacement s’achève. Une pente raide augmente le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) de 2 points.
+
+**À-pic.** Pour gravir un à-pic, il faut réussir un test d’[Escalade](./Escalade.md) [DD](./DD.md) 15. Celui-ci fait généralement 1d4 x 3 m de haut, mais il peut être plus haut. Un à-pic n’est pas parfaitement vertical. Il occupe des cases de 1,50 m s’il fait moins de neuf mètres de haut, et des cases de 3 m dans le cas contraire.
+
+**Broussailles légères.** Les armoises et autres arbustes rabougris poussent sur les collines, mais ils les recouvrent rarement en intégralité, comme c’est le cas dans les forêts ou les marécages. Les broussailles légères offrent un camouflage et augmentent le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) et de [Discrétion](./Discrétion.md) de 2 points.
+
+**Autres éléments des collines.** On trouve des arbres dans les collines. De leur côté, les vallées abritent souvent un cours d’eau (un mètre cinquante à trois mètres de large pour un mètre cinquante de profondeur maximum) ou le lit asséché d’une rivière (tranchée d’un mètre cinquante à trois mètres de large). N’oubliez pas qu’un cours d’eau coule toujours d’amont en aval.
+
+**Discrétion et Détection dans les collines.** Sur une colline, les personnages peuvent utiliser leur [Perception](./Perception.md) pour détecter une présence à 2d10 x 3 m au maximum. Cette distance passe à 2d6 x 3 m dans les collines accidentées.
+
+S’il n’y a pas de broussailles alentour, il est difficile de se cacher sur une colline. Le sommet ou la crête d’une colline confère un [abri](./abri.md) vis-à-vis des créatures situées en aval.
+
+### Montagnes
+Les milieux montagneux se divisent en trois catégories : prairies alpines, montagnes accidentées et hautes montagnes. Quand les personnages s’aventurent dans une zone montagneuse, ils ont de fortes chances d’évoluer tour à tour sur ces trois types de terrain, en commençant par les prairies pour finir au sommet de montagnes menaçantes.
+
+Les montagnes présentent un élément important, la paroi rocheuse, qui apparaît en bordure de cases et non au milieu
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Catégories de montagne || Prairie alpine || Accidentée || Haute
+|- CLASS="premier"
+| Pente douce || 50% || 25% || 15%
+|- CLASS="alt"
+| Pente raide || 40% || 55% || 55%
+|-
+| À-pic || 10% || 15% || 20%
+|- CLASS="alt"
+| Gouffre || — || 5% || 10%
+|}
+</div></div>
+**Pentes douces et raides.** Elles fonctionnent de la même manière que celles décrites dans la section réservée aux [collines](./Aventures en extérieur.md#Collines_7).
+
+**À-pic.** Il fonctionne également de la même manière que celui décrit dans la section réservée aux [collines](./Aventures en extérieur.md#Collines_7), mais fait en règle générale 2d6 x 3 m de haut. Les à-pic dépassant les vingt-quatre mètres occupent un espace horizontal de six mètres.
+
+**Gouffre.** Généralement formés par quelque biais géologique, les gouffres fonctionnent de la même manière que les fosses des donjons. Ils ne sont pas dissimulés et les personnages ne risquent donc pas de tomber dedans accidentellement (sauf dans le cas d’une bousculade). Un gouffre classique possède une profondeur de 2d4 x3 m, une longueur de 6 m au moins, et une largeur allant de 1,50 m à 6 m. Pour s’extirper d’un gouffre, il faut réussir un test d’[Escalade](./Escalade.md) ([DD](./DD.md) 15). En haute montagne, la profondeur d’un gouffre s’élève généralement à 2d8 x 3 m.
+
+**Broussailles légères.** Elles fonctionnent de la même manière que celles décrites dans la section réservée aux [forêts](./Aventures en extérieur.md#Forêts_5).
+
+**Éboulis.** C’est un espace recouvert de cailloux et de pierres. Les éboulis n’entravent pas la [vitesse de déplacement](./vitesse de déplacement.md), mais se montrent parfois traîtres sur une pente. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) augmente de 2 points si les éboulis couvrent une pente douce, et de 5 points s’ils recouvrent une pente raide. Dans chaque cas de figure, le [DD](./DD.md) des tests de [Discrétion](./Discrétion.md) augmente de 2 points.
+
+**Nombreux décombres.** La surface est recouverte de pierres de toutes tailles. Pour pénétrer dans une telle case, il faut utiliser 2 cases de déplacement. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) s’accroit de 5 points, et celui des tests de [Discrétion](./Discrétion.md) augmente de 2 points.
+
+**Paroi rocheuse.** C’est une paroi verticale en pierre. Pour l’escalader, il faut réussir un test d’[Escalade](./Escalade.md) ([DD](./DD.md) 25). Une paroi rocheuse mesure 2d4 x 3 m de haut en zone de montagne accidentée, et 2d8 x 3 m en haute montagne. Les parois rocheuses sont tracées sur les côtés des cases, pas en leur sein.
+
+**Entrée de caverne.** Placées dans les cases d’à-pic et de pente raide, et près d’une paroi rocheuse, les entrées de caverne mesurent en général entre un mètre cinquante et six mètres de large et un mètre cinquante de profondeur. Ensuite, la caverne peut adopter la forme d’une simple grotte ou d’un vaste donjon. Les cavernes utilisées par des monstres disposent généralement de 1d3 salles de 1d4 x 3 m de diamètre.
+
+**Autres attributs des montagnes.** Les prairies alpines naissent généralement à l’altitude où poussent les derniers arbres. La végétation de forêt y est donc rare. Les montagnes disposent parfois d’un cours d’eau (un mètre cinquante à trois mètres de large pour un mètre cinquante de profondeur maximum) ou du lit asséché d’une rivière (tranchée d’un mètre cinquante à trois mètres de large). Les zones situées à une très haute altitude sont généralement plus froides que les basses terres qui les entourent, c’est pourquoi elles peuvent être recouvertes d’une couche de glace (voir plus bas la description du désert).
+
+**Discrétion et Détection en montagne.** En général, la distance à partir de laquelle on peut discerner la présence d’autrui via un test de [Perception](./Perception.md) s’élève à 4d10 x 3 m. Certains sommets et crêtes offrent bien entendu un meilleur point de vue, alors que les vallées encaissées et autres canyons handicapent grandement le champ de vision. Comme la végétation n’entrave guère la vue, les éléments de votre carte restent les principaux repères visibles. Comme c’est le cas pour les collines, les crêtes et les sommets représentent un abri pour les personnages s’y trouvant.
+
+D’un autre côté, la propagation des sons est colossale en montagne. Le [DD](./DD.md) des tests de [Perception](./Perception.md) s’appuyant sur l’ouïe augmente de 1 point par tranche de six mètres et non tous les trois mètres séparant les protagonistes.
+
+{s:Reference|AVALANCHES}
+#### Avalanches (FP 7)
+Entre les hauts sommets et les lourdes chutes de neige, les avalanches représentent un véritable fléau en de nombreuses régions montagneuses. Bien que les avalanches de neige et de glace soient les plus classiques, il existe également des avalanches de pierre et de roche.
+
+Un personnage qui réussit un test de [Perception](./Perception.md) ([DD](./DD.md) 20) peut percevoir une avalanche (considérez-la comme une créature de [taille C](./taille.md)) à 1d10 x 150 m. Si tous les personnages manquent leur test de [Perception](./Perception.md), l’avalanche se rapproche, et ils la distinguent automatiquement lorsqu’elle arrive à la moitié de sa distance originelle. Même si elle n’est pas visible, on peut entendre une avalanche. Lorsque les conditions sont optimales (aucun autre bruit important), tout individu qui réussit un test de [Perception](./Perception.md) ([DD](./DD.md) 15) entend une avalanche ou un glissement de terrain quand il se trouve à 1d6 x 150 m. Le [DD](./DD.md) de ce test s’élève à 20, 25, ou plus encore si les conditions sont peu favorables (au beau milieu d’une tempête de neige, par exemple).
+
+Avalanches et glissements de terrain se composent de deux zones : la coulée (sillage direct du phénomène) et les côtés (les débris retombent sur les victimes). Les personnages pris dans la première subissent automatiquement des dégâts, mais les autres ont une chance de se tirer d’affaire. Les personnages ensevelis sous la coulée subissent 8d6 points de dégâts ([jet de Réflexes](./jet de sauvegarde.md) de [DD](./DD.md) 15 pour réduire les dégâts de moitié). Naturellement, ils sont enterrés (voir ci-dessous). Les personnages se trouvant sur les côtés subissent 3d6 points de dégâts ([jet de Réflexes](./jet de sauvegarde.md) de [DD](./DD.md) 15 pour annuler les dégâts). En cas d’échec, les concernés sont également enterrés.
+
+Les individus enterrés subissent 1d6 points de dégâts non-létaux par minute. Si un personnage s’évanouit, il doit réussir un test de [Constitution](./Constitution.md) ([DD](./DD.md) 15) sans quoi il subit 1d6 points de dégâts létaux par minute jusqu’à ce qu’il soit libéré ou tué. Vous pouvez consulter les règles relatives aux [éboulements](./Donjons.md#Les_éboulements_5) pour déterminer comment déterrer les personnages ensevelis.
+
+Une avalanche courante fait 1d6 x 30 m de large, d’un côté de la coulée à l’autre. La zone d’ensevelissement située au centre du phénomène est deux fois moins large. Pour déterminer l’emplacement des individus par rapport à la coulée, lancez 1d6 x 6 m. Le résultat représente le nombre de mètres séparant le centre du groupe de personnages du centre de la coulée. Les avalanches de neige et de glace dévalent à la vitesse de 150 m par round, contre 75 m pour les glissements de terrain.
+
+{s:Reference|ALTITUDE}
+#### Voyages en montagne
+L’altitude est éreintante, et parfois mortelle, pour les créatures n’en ayant pas l’habitude. Le froid y est extrême et le manque d’oxygène vient à bout des combattants les plus robustes.
+
+**Personnages acclimatés.** Les créatures habituées à l’altitude se sentent habituellement plus à l’aise que les autres. On considère que toute créature dont la ligne « environnement » inclut des montagnes est originaire de la région, et donc acclimatée à l’altitude. Les personnages peuvent aussi s’acclimater en vivant à haute altitude pendant neuf mois. S’ils ne posent pas le pied sur une montagne pendant deux mois, ils doivent se réacclimater par la suite. Les morts-vivants, les créatures artificielles et tous les monstres qui ne respirent pas ne sont pas affectés par les effets de l’altitude.
+
+**Zones d’altitude.** En général, les montagnes se divisent en trois types d’altitudes : le défilé, le col (ou pic) et le sommet.
+- *Défilé (moins de 1 500 m).* La plupart des expéditions en basse montagne ont lieu dans des défilés, régions principalement constituées de prairies alpines et de forêts. Les personnages trouveront sans doute le terrain peu praticable (ce qu’illustrent les modificateurs de déplacement en montagne), mais l’altitude n’a aucun effet.
+- *Col ou pic (de 1 500 à 4 500 m).* Moyenne montagne et cimes de basse montagne se trouvent dans cette catégorie. Les créatures qui ne sont pas acclimatées ont du mal à reprendre leur souffle à cette altitude. Les personnages doivent donc réussir un [jet de Vigueur](./jet de sauvegarde.md) ([DD](./DD.md) 15, +1 par jet précédent) par heure sous peine de quoi ils sont [fatigués](./Fatigué.md). Cette fatigue se dissipe lorsqu’ils redescendent à une altitude normale. Les personnages acclimatés n’ont pas besoin de faire de [jets de Vigueur](./jet de sauvegarde.md).
+- *Sommet (plus de 4 500 m).* Les sommets les plus élevés dépassent 6 000 m d’altitude. A partir de là, les créatures sont sujettes à la [fatigue](./Fatigué.md) et au mal des hauteurs, qu’elles soient accoutumées ou non à une altitude élevée. Le mal des hauteurs se traduit par un manque d’oxygène. Les caractéristiques mentales et physiques s’en trouvent affectées. Après chaque cycle de six heures passées au-dessus de 4 500 m, un personnage doit réussir un [jet de Vigueur](./jet de sauvegarde.md) ([DD](./DD.md) 15, +1 par jet précédent) ou subir un affaiblissement de 1 point à toutes les [caractéristiques](./Caractéristiques.md). Les créatures acclimatées bénéficient d’un bonus de compétence de +4 au [jet de sauvegarde](./jet de sauvegarde.md) visant à résister aux effets de l’altitude et au mal des hauteurs, mais même les montagnards les plus aguerris évitent de rester trop longtemps à plus de 4 500 m d’altitude.
+
+### Déserts
+Les déserts naissent sous les climats chauds, tempérés et froids, et tous partagent une caractéristique commune : la pluie y est rare. Les différentes catégories de désert sont les suivantes : la toundra (désert froid), le désert rocailleux (généralement tempéré) et le désert de sable (souvent chaud).
+
+La toundra se différencie des deux autres catégories de déserts sur deux points. Comme elle possède une couche de neige et de glace, on n’a aucun mal à y trouver de l’eau. En outre, à la moitié de l’été, le permafrost dégèle sur une trentaine de centimètres, transformant la région concernée en une vaste étendue de boue. Dans ce cas, la toundra affecte les déplacements et l’utilisation de compétences de la même manière qu’une tourbière peu profonde ([voir la section consacrée aux marécages](./Aventures en extérieur.md#MARECAGES)), même si on y trouve de l’eau stagnante.
+
+La table ci-dessous indique les éléments que l’on trouve dans chacune des trois catégories. Notez que chaque case ne peut abriter qu’un seul élément. Par exemple, une case de toundra sera occupée par des broussailles légères ou par une couche de glace, mais ne pourra pas accueillir les deux.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Catégories de désert || Toundra || Rocailleux || Sable
+|- CLASS="premier"
+| Broussailles légères || 15% || 5% || 5%
+|- CLASS="alt"
+| Couche de glace || 25% || — || —
+|-
+| Décombres || 5% || 30% || 10%
+|- CLASS="alt"
+| Dunes de sable || — || 30% || 5%
+|-
+| Gouffre || — || — || 50%
+|}
+</div></div>
+**Broussailles légères.** Elles sont constituées d’arbustes rabougris et de cactus, mais elles fonctionnent sur le même principe que dans les autres milieux naturels.
+
+**Couche de glace.** La surface est recouverte d’une couche de glace. Pour pénétrer sur une telle case, il faut utiliser 2 cases de déplacement. Aussi, le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) augmente de 5 points. Si l’on souhaite [courir](./courir.md) ou [charger](./charger.md), il faut réussir un test d’[Acrobaties](./Acrobaties.md) ([DD](./DD.md) 10).
+
+**Décombres.** La surface est recouverte de cailloux, ce qui rend certaines manœuvres risquées. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) s’accroit de 2 points.
+
+**Nombreux décombres.** Les pierres sont en même temps plus nombreuses et plus grosses. Pour pénétrer sur une telle case, il faut utiliser 2 cases de déplacement. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) s’accroit de 5 points, et le [DD](./DD.md) des tests de [Discrétion](./Discrétion.md) augmente de 2 points.
+
+**Dunes de sable.** Façonnées par l’action du vent sur le sable, les dunes fonctionnent de la même manière que les collines, si ce n’est qu’elles se déplacent. Si le vent souffle fort, une dune de sable peut se déplacer de quelques centaines de mètres en une semaine. Les dunes de sable peuvent s’étendre sur des centaines de cases. Elles possèdent toujours une pente douce qui pointe en direction du vent (et d’une pente raide sous le vent).
+
+**Autres éléments des déserts.** De temps en temps, la toundra est bordée de forêts. Du reste, certains arbres sont présents dans les étendues glacées. Les déserts de pierre abritent des plateaux entourés d’à-pic (voir la section consacrée aux [montagnes](./Aventures en extérieur.md#Montagnes_8)) et de pentes raides. Les déserts de sable dissimulent parfois des sables mouvants (voir la section réservée aux [marécages](./Aventures en extérieur.md#Marécages_6)). Cependant, ces derniers se composent d’un mélange de sable fin et de poussière (sans la moindre goutte d’eau). Les déserts sont parcourus de lits asséchés (considérez-les comme des tranchées d’un mètre cinquante de large) qui se remplissent d’eau lorsqu’il pleut.
+
+**Discrétion et Détection dans le désert.** En général, la distance maximale à laquelle on peut percevoir la présence d’autrui via un test de [Perception](./Perception.md) est égale à 6d6 x 6 m. Au-delà, les changements d’élévation (et les distorsions dues à la chaleur dans les déserts de sable) rendent toute détection irréalisable. Dans les déserts de sable, la présence des dunes diminue le champ de vision à 6d6 x 3 m. Le manque d’éléments pouvant servir de camouflage explique qu’il est plus difficile de s’y cacher.
+
+{s:Reference|TEMPETESSABLE}
+#### Les tempêtes de sable
+Un pareil phénomène réduit la visibilité à 1d10 x 1,50 m et inflige un malus de -4 aux tests de [Perception](./Perception.md). Une tempête de sable inflige 1d3 points de dégâts non-létaux par heure d’exposition, et laisse derrière elle une fine pellicule de sable. Le sable s’introduit partout (à l’exception des meilleurs sceaux et coutures). Il irrite la peau et peut endommager l’équipement.
+
+### Plaines
+La civilisation prospère généralement dans les plaines, ce qui explique que celles-ci soient souvent habitées. Elles se divisent en trois catégories : les fermes, les prés et les champs de bataille. Les fermes sont nombreuses dans les régions habitées, alors que les prés représentent les plaines vierges de toute civilisation. Les champs de bataille ont un caractère temporaire jusqu’à ce que la végétation reprenne sa places où qu’ils ne soient transformés en terres de labour. C’est une catégorie à part entière non parce qu’ils sont répandus mais parce que les aventuriers y passent une grande partie de leur temps.
+
+La table ci-dessous indique les proportions de chaque élément selon la catégorie de plaine concernée. Dans le cas d’une ferme, de légères broussailles représentent les cultures céréalières. De fait, les fermes qui cultivent des légumes possèdent moins de broussailles (c’est également le cas entre les récoltes et les semences).
+
+Les éléments suivants ne peuvent pas apparaître dans une même case.
+
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre"
+|- CLASS="titre"
+| Catégories de plaines || Ferme || Pré || Champ de bataille
+|- CLASS="premier"
+| Broussailles légères || 40 % || 20 % || -
+|- CLASS="alt"
+| Broussailles épaisses || - || 10 % || -
+|-
+| Décombres || - || - || 5 %
+|- CLASS="alt"
+| Tranchées || 5 % || - || 5 %
+|-
+| Bermes || - || - || 5 %
+|}
+</div></div>
+**Broussailles.** Que ce soit des cultures ou une simple végétation, les hautes herbes des plaines fonctionnent de la même manière que les broussailles légères des forêts. Les buissons les plus touffus forment des broussailles épaisses dans les prés.
+
+**Décombres.** Sur un champ de bataille, les décombres représentent généralement une structure qui a été ravagée : par exemple, les ruines d’un bâtiment ou les restes d’un mur en pierre. Ils fonctionnent de la même manière que ceux décrits dans la section réservée aux [déserts](./Aventures en extérieur.md#Déserts_9).
+
+**Tranchée.** Souvent creusée avant la bataille pour protéger les soldats, la tranchée fonctionne de la même manière qu’un muret, si ce n’est qu’elle ne confère pas d’[abri](./abri.md) vis-à-vis des adversaires adjacents. Pour sortir d’une tranchée, il faut utiliser 2 cases de déplacement (mais pas de coût supplémentaire pour y entrer). Les créatures situées en dehors de la tranchée gagnent un bonus de +1 aux jets d’attaque pour frapper celles qui s’y trouvent (car elles sont en hauteur). Dans une ferme, les tranchées sont en règle générale des canaux d’irrigation.
+
+**Berme.** Structure défensive des plus classiques, la berme est un muret en pierre qui ralentit les déplacements et offre une certaine protection. Placez-la sur le quadrillage en traçant deux rangées de pentes raides adjacentes (voir la partie réservée aux [collines](./Aventures en extérieur.md#Collines_7)). Un personnage parcourant une berme de 2 cases aura 1 case de montée, puis 1 case de descente. Ce type de berme confère la même protection qu’un muret. Les bermes plus larges confèrent les avantages d’un muret à ceux se situant à 1 case en contrebas.
+
+**Clôtures.** Les clôtures en bois permettent généralement de retenir le bétail ou de gêner les soldats ennemis. Pour franchir cet obstacle, il faut utiliser 1 case de déplacement supplémentaire. La clôture confère également une protection qui fonctionne sur le même principe qu’un muret. Les personnages montés la franchissent sans que leur [vitesse de déplacement](./vitesse de déplacement.md) n’en soit affectée s’ils réussissent un test d’[Équitation](./Équitation.md) ([DD](./DD.md) 15). En cas d’échec, la monture franchit l’obstacle, mais le cavalier est désarçonné.
+
+**Autres attributs des plaines.** Des arbres apparaissent dans la majorité des plaines. Sur les champs de bataille, on les abat souvent pour construire des machines de guerre. Il s’y trouve également des haies (décrites dans la section consacrée aux [marécages](./Aventures en extérieur.md#Marécages_6)). Les plaines abritent également de nombreux cours d’eau (d’un mètre cinquante à six mètres de large et d’un mètre cinquante à trois mètres de profondeur).
+
+**Discrétion et Détection dans les plaines**. En plaine, la distance maximale à laquelle on peut percevoir la présence d’autrui via un test de [Perception](./Perception.md) est égale à 6d6 x 12 m, mais les caractéristiques de votre carte peuvent gêner le champ de vision. Les plaines ne donnent ni bonus ni malus aux tests de Perception. Certains éléments offrent un [abri](./abri.md) ou un [camouflage](./camouflage.md).

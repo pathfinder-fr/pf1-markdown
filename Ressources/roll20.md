@@ -1,0 +1,236 @@
+---
+Name: Ressources.roll20
+Title: Présentation de Roll20
+LastModified: 2020-08-12 23:34
+---
+
+Lien vers l'application: [https://roll20.net]
+
+Roll20 est une application web qui va vous permettre de faire vos parties de JDR en ligne et par navigateur. Il intègre tout ce qu'il faut, dans sa version gratuite, pour jouer sereinement. Noté que les options de paiement vous permette certaines choses spécifiques, comme la lumière dynamique, les SFX (effets spéciaux) ou alors la possibilité de transférer des personnages d'une partie à une autre, tout ceci est totalement facultatif et surtout, ne va concerner que des "gros joueurs" qui font beaucoup de parties via roll20.
+
+Dans ce guide, nous allons principalement parler de tout ce qu'offre la version gratuite, ainsi que quelques petites choses des versions payantes qui pourraient ne pas être claires de prime abord. (Exemple, le transfert de personnage est simplissime, je suis certains que vous parviendrez à le faire. Par contre, utiliser des effets spéciaux ou la lumière dynamique, je suis moins sûr (même si... c'est quand même simple !).
+
+Notez que vous pouvez utiliser Roll20 pour bien plus de jeu que Pathfinder ou de JDR de manière générale.
+
+## Sommaire du guide
+### Créer une partie
+Pour faire votre première partie, rendez-vous dans partie, puis "Démarrer une nouvelle partie". Après avoir donné un nom à votre partie, vous pouvez ajouter des balises. Notez que ceci est utile si vous faites une partie publique et que vous voulez que des inconnus puissent la trouver via une recherche depuis roll20. Si vous invitez vous même vos joueurs, laissez vide.
+
+Vous avez ensuite la possibilité d'utiliser une feuille de personnage. Il s'agit de feuille faite par la communauté ou par l'équipe de roll20, disponible en différente langue (le français est assez souvent disponible).
+
+Pour Pathfinder première édition, testez les et choisissez en fonction de votre convenance. Pour Pathfinder seconde édition, à l'heure de l'écriture de ce guide, n'est disponible que la version faite par le staff de Roll20. Vous pouvez y aller les yeux fermés (Mais cela ne signifie pas que vous aurez exactement tout ce qu'il faut pour **votre** partie. Il faudra attendre des nouvelles feuilles faite par la communauté).
+
+Validez en cliquant sur "Je suis prêt, créer la partie !" et vous serez amenez directement dans votre partie.
+
+#### Gérer votre partie
+En tant que Maître du Jeu, vous voyez tout et avez contrôle sur tout. Vous pourrez ensuite donner des droits au cas par cas. Il existe plusieurs types de droits, mais le tout est limité et très simple. Vous avez les droits "d'édition et de contrôle",
+"les droits de vision" et les "droits de maître du jeu". Si le dernier ne peut être donné que via l'interface de gestion des parties (donc, pas dans la partie, mais dans l'écran qui vous montre toute vos parties en cours (il suffit alors de cliquer sur un joueur pour ouvrir un menu et lui donner ensuite le rôle de Maître du jeu), les deux autres se gèrent en jeu directement.
+
+Dans tous les cas, vous allez maintenant préparer votre première partie ! À gauche, vous avez un petit menu pour gérer les couches de terrain (carte, pion et MJ). Les joueurs ne peuvent interagir qu'avec la couche pion, mais voient la carte. Par contre, la couche MJ, c'est que pour vous. À droite, vous avez le plus important. Dans cette partie, en haut, vous avez un petit menu. Décrivons cela un instant:
+
+- Chat : Pour discuter et taper des commandes. Lors de chaque connexion, un encart vert apparaît avec un lien en spoiler. C'est le lien pour rejoindre la partie, donnez le à qui vous voulez.
+
+- Bibliothèque (invisible pour les joueurs) : Pour gérer vos ressources graphiques. Vous y trouverez vos pions, vos cartes etc... Vous avez accès à une liste gratuite, utile en cas de trou a combler très vite. Une boutique existe avec les créations graphiques de tout un tas d'artistes. Sinon, vous pouvez simplement ajouter un élément en le glissant de votre dossier dans la carte. Il sera uploadé et vous le garderez à vie dans votre bibliothèque. En version gratuite, cette bibliothèque a une taille maximale, mais elle est grande, ne vous inquiétez pas trop. Au besoin, vous pourrez toujours supprimer des éléments.
+
+- Journal : Ici vous avez des feuilles, de notes, de personnages etc... Vous pouvez ranger le tout dans des dossiers. Le bouton "+" vous permet d'ajouter ce dont vous avez besoin. Nous reparlerons des feuilles de personnages plus tard.
+
+- Compendium : Si vous utilisez une feuille de personnage, vous aurez peut-être accès a cet onglet. Il s'agit... des règles. C'est pas mal mais souvent incomplet (et en anglais).
+
+- Jukebox : Pour jouer de la musique pendant la partie, ou jouer des effets sonores.
+
+- Collection : Des macros, des cartes (de jeu) etc...
+
+- Options : Vous pouvez gérer l'utilisation du micro et de la caméra, si vous en avez le besoin. Je vous laisse découvrir les options, c'est parlant et simple.
+
+Ensuite, en haut, vous avez une languette, en cliquant dessus, vous avez accès à la liste des cartes de la partie. Vous pouvez ici modifier le nombre de cases de chaque carte et ses options générales. Vous avez aussi un fanion, c'est là où sont les joueurs. En le bougeant, vous faites passer vos personnages d'une carte à l'autre. Vous pouvez aussi ne déplacer qu'un seul joueur. Pour ça, il faut sélectionner le joueur (en bas à gauche par défaut) et le glisser dans une carte. Pour le faire ensuite rejoindre le groupe, il faut le glisser dans le fanion.
+
+#### Gérer une feuille de personnage
+Il existe deux types de feuilles de personnages, une éditée par la communauté et les vierges. L'utilisation est simple, mais il est important de parler de certains détails qui le sont moins.
+
+Vous pouvez lier un pion à une feuille de personnage, ceci permet de directement faire apparaître le pion sur la carte quand vous glissez la feuille sur la carte. Pour ce faire, il vous faut une feuille de personnage prête et un pion sur la carte. Sélectionner votre pion, faites-le représenter votre feuille de personnage (vous pouvez aussi et dès lors, attribuer une barre à un élément de la feuille de personnage, comme les points de vie. Changer les points de vie de l'un affecte l'autre). Ensuite, sélectionnez votre pion et ouvrez la feuille de personnage et entrez en mode édition. Cliquez sur le bouton pour ajouter un pion. Bravo, vous avez réussi ! (Assurez-vous d'avoir bien le jeton de sélectionné, sinon, cela ne marchera pas).
+
+Vous pouvez ensuite attribuer la feuille de personnage à une ou plusieurs personnes, voir à tout le monde. En mode édition, vous pouvez donner les droits de vue et d'édition/contrôle à qui vous voulez. Toutefois, vous ne pouvez le faire que si la personne s'est connectée au moins une fois à la partie.
+
+Le bouton "show to players" montre la feuille, ou la note, à tous les joueurs et l'affiche. Les droits de la feuille passent alors en visible à tout le monde.
+
+### Macros
+#### Généralités
+Une macro est un "bout de code" générique que vous pouvez écrire "assez facilement" (avec ce tuto tout du moins) qui va vous permettre de lancer des jets de compétences, d'attaque, de faire des animations et plein d'autres choses d'un simple clic sur un bouton. On distingue 2 types de macros : les macros de pions et les macros de barres (ou Macrobar). Les macros générales, accessible à tous, se trouvent dans l'onglet: "Collection".
+
+Lorsque vous créez une macro dans "collection", une fenêtre apparaît alors vous demandant le nom de votre macro, puis le code de votre macro. Enfin, une petite case pour dire si oui ou non, cette macro devra s'afficher comme macro pour pion. Une fois fini, retour dans "Collection", puis cocher: "Afficher la barre rapide de macros ?" et cocher votre macro. Et comme si c'était fait exprès, elle apparaît alors dans la zone des macros générales, sous les avatars dans la partie gauche.
+
+Les macros de pions sont celles qui s'affichent, vous l'aurez compris, lorsqu'on sélectionne un pion sur la carte, la liste des macros apparaît en haut à gauche de l'écran.
+
+#### Jets de dés
+Faire un jet est quand même le but premier des macros, alors regardons comment faire.
+
+@@/roll 1d8 -> Lance un dé à 8 faces
+/r 1d8    -> Lance aussi un dé à 8 faces (pour les feignants^^)
+[1d8](./1d8.md)   -> Lance un dé à 8 faces MAIS permet de faire ce jet dans du texte.@@
+
+
+La dernière méthode est à retenir, car en fait, tout ce qui est entre doubles crochets s'affiche dans une ligne de texte, et permet d'y mettre vos commandes de macros!
+
+Exemple:
+@@Ugluk attaque Francis qui a une CA de 18, et fait [1d20+12](./1d20+12.md)
+
+Ugluk attaque Francis qui a une CA de 18, et fait 25.@@
+
+Notez qu'en plaçant votre souris sur le résultat du dé, vous obtenez le détail du calcul.
+
+#### Maths
+Comme vous l'avez sans doute remarqué, il est possible de faire des maths (faut pas trop pousser non plus). Addition, multiplication, soustraction et division. En plus de faire ces calculs avec des nombres, vous pouvez aussi le faire avec des jets de dés.
+
+@@Petit jet de dé test: [1d20+1d20](./1d20+1d20.md)@@
+
+Encore une fois, mettez votre souris sur le résultat pour voir le détail.
+
+#### Sélecteurs
+Petit chapitre sympa, vous pouvez, avec les macros, sélectionner des attributs, d'autres macros, des compétences et les utiliser.
+
+Pour utiliser une compétence (En fait, il s'agit des macros propres à une fiche d'un personnage)
+
+@@ %{selected|Armes}@@
+
+Pour utiliser un attribut (Force, Santé, Intélligence etc...
+
+@@ @{selected|Santé}@@
+
+Comme vous le voyez, on change juste le début: @ pour attribut et % pour les compétences/macros.
+
+Vous l'avez vu, j'utilise "selected" pour demander à Roll20 d'utiliser l'attribut Santé du personnage actuellement sélectionné. Mais je peux aussi mettre le nom d'un personnage à la place, dans ce cas, pas besoin de sélectionner !
+
+Plus poussé, il est aussi possible d'afficher une fenêtre demander de cliquer sur une cible. Par exemple: J'attaque un Gobelin, ce dernier a une CA. Je vais donc cliquer sur ma Macro pion pour attaquer, avant de lancer le dé, Roll20 m'invite a sélectionner ma cible. Ce qui permet le joli code suivant:
+
+```
+Ugluk attaque Francis qui a une CA de @{target|Target|CA} et fait [[1d20+@{selected|Force}+%{selected|Epée-longue}]] @@
+
+Dans la macro "Epée-longue" je n'ai mis que le bonus à l'attaque que m'offre l'arme (si elle est de maître ou enchantée). (Donc une macro peut aussi juste contenir des valeurs pouvant être utiliser dans d'autre macro).
+Si vous voulez transformer ça en macro générale, vous pouvez faire ça:
+
+```
+Macro générale:
+@{selected|token_name} attaque @{target|Target|token_name} qui a une CA de [Target|CA}](./@{target.md)
+et fait [Epée-longue}](./%{selected.md)
+
+Epée longue:
+[1d20+5](./1d20+5.md) pour [1d8+4](./1d8+4.md) dégâts.@@
+
+
+Et voilà. Notez l'utilisation de token_name pour avoir le nom du pion ! Très pratique.
+
+Enfin, si vous avez un attribut en plusieurs exemplaires, vous pouvez utiliser son INDEX, qui est en gros, son numéro dans l'ordre de création/affichage.
+
+```
+@{selected|repeating_items_$1_itembonus}@@
+
+====Tracker et variables====
+Vous pouvez aussi automatiser vos initiatives dans le Turn Order, via une macro générale. Il vous suffit d'ajouter:
+```
+&{tracker}@@
+
+En ajoutant ":+" ou ":-" vous pouvez aussi ajouter ou diminuer cette valeur. Notez que tout ceci ne fonctionne QUE si votre personnage est DÉJÀ dans le Turn Order, car Roll20 cherchera à remplacer une valeur, mais il n'ajoute rien. Le tracker prend en compte le personnage sélectionné, donc pas besoin de faire de "selected" sur le tracker!
+
+Enfin, il est possible de demander à l'utilisateur d'entrer une valeur et de s'en servir dans une macro. Par exemple, s'il a droit à un bonus situationnel, il peut être intéressant de le prendre en compte.
+
+```
+?{Bonus situationnel|0}@@
+
+Avec ça, une fenêtre s'affiche avec comme titre: "Bonus situationnel" et comme valeur par défaut 0. Si vous ne mettez pas le "|0", il n'y aura pas de valeur par défaut. Vous pouvez dès lors utiliser plusieurs fois votre variable en la rappelant de la même manière, sans que cela n'ouvre une autre fenêtre. Le nom de votre variable servant d'identifiant.
+
+====Couleurs et renommer====
+Chaque joueurs, ou MJ, peut, de manière personnel, changer la couleur de toutes les macros, permettant un code couleur clair et visible histoire de pas se mélanger. Il suffit de faire clic droit sur la macro... De la même façon vous pouvez renommer une macro. Mais attention ! Si votre macro est utilisée ailleurs, maintenant que vous savez comment ça marche... faites gaffe!
+
+====Animation ou SFX====
+Un jet de dé, c'est bien, une animation, c'est mieux ! Il y a plein de commande, mais la seule vraiment important c'est celle-ci:
+
+```
+/fx Ray of Frost @{selected|token_id} @{target|Target|token_id}@@
+
+Un rayon de glace va partir du pion sélectionné vers le pion cible. [https://wiki.roll20.net/FX_Library|La liste des SFX].
+
+Note: Les FX ne sont utilisable qu'avec le plus haut niveau d'abonnement.
+
+#### Menu déroulant
+Et voilà comment faire un menu déroulant qui s'affiche pour donner du choix, comme... une liste de compétence par exemple.
+
+```
+?{Spell|
+   Acrobaties, @{selected|token_name} fait [[1d20+@{selected|acrobaties}]]. | 
+   Artisanat, @{selected|token_name} fait [[1d20+@{selected|Artisanat}]]. | 
+   Bluff, @{selected|token_name} fait [[1d20+@{selected|Bluff}]].
+}@@
+
+
+Assez similaire au code des variables, mais la valeur est derrière une virgule et les choix sont entre "|"
+
+====Texte====
+Je ne vais pas vous donner toute les commandes pour mettre du joli texte dans vos macros, vous trouverez une liste bien plus utile sur le [https://wiki.roll20.net/Text_Chat|wiki de roll20].
+Mais a mon sens, pour vos macros, mettez "/emas" devant votre texte de macro, ça ressortira par rapport a ce qui se diras sur le chat. Normalement "/em" met votre nom devant le message et "/emas" permet de mettre un autre nom, il suffit alors de ne mettre aucun nom et de mettre votre texte et vous pourrez écrire vos textes sans se soucier de qui le lance.
+
+====Le mot de la fin====
+Vous pouvez imbriquer vos macros dans vos macros, faire référence aux attributs de vos personnages (qui, même avec des feuilles préfaites, sont quand même accessible). Avec ces mêmes commandes, vous pouvez, dans vos feuilles prégénérées, modifier/améliorer les macros utilisées. Ou faire les vôtres, vous êtes des pro maintenant.
+
+Il n'y a au final qu'une seule grosse limitation, vous ne pouvez pas modifier un attribut via une macro... Dommage !
+
+===Lumière dynamique===
+Si vous utilisez le premier niveau d'abonnement, une nouvelle couche est disponible: la couche lumière dynamique. Depuis peu, une nouvelle version est sortie et permet d'avoir une gestion presque parfaite de la lumière, le tout en suivant les règles de Pathfinder. En fait, il ne manque que la possibilité d'avoir des zones de "lumière vive".
+
+====Gestion de la page====
+Ce nouvel outil est très simple, mais il y a beaucoup de paramètre. Tout d'abord, vous devez activer la lumière dynamique dont l'onglet associé dans la fenêtre de gestion de carte. Une fois activé, vous avez plusieurs choix.
+
+'''Mode explorateur:''' A l'image du brouillard de guère. La carte reste visible après le passage des PJs. Toutefois, ils ne peuvent voir ce qu'il s'y passe sans y être.
+
+'''Lumière du jour:''' Toute la carte est éclairé.
+
+'''Mettre à jour quand le pion est posé:''' Ne calcul pas le nouveau champ de vision pendant le déplacement du pion, mais met à jour uniquement quand celui-ci est posé.
+
+'''Opacité des ombres pour le MJ:''' Petite barre qui défini a quel points le MJ voit plus ou moins ce que les pions ne peuvent voir.
+
+Personnellement, je préfère une opacité du MJ vers les 60-75%, et je ne coche rien d'autre. (A part la lumière du jour si besoin).
+
+Dans l'onglet principal de la fenêtre de gestion de carte, il y a une case à cocher "'''Restreindre les mouvements'''". Une fois coché, les pions des joueurs ne peuvent pas traverser les murs.
+
+
+====La carte====
+Ça va être rapide. Vous avez une nouvelle option dans les couches: la lumière dynamique (icone de flamme). Là, vous choisissez l'option pinceau, polygone ou forme, et vous dessinez vos murs. Je vous conseille d'utiliser une couleur vive, histoire que, la prochaine où vous irez sur cet onglet, vous ne soyez pas en train de chercher vos murs. Car ils seront invisible, mais en couche MJ. Petit conseil, pour les portes, choisissez une autre couleur vive, afin de les trouver rapidement et pouvoir les bouger au besoin. (En général je prends rouge pour les murs et jaune pour les portes. C'est rapidement et facilement identifiable).
+
+Ces murs, une fois placé, permettrons aussi, si l'option est coché, de limiter le déplacement des pions des PJs. Il sera impossible de traverser un mur et donc de voir des choses qu'il ne faudrait pas, ou pas encore, voir.
+
+====Les pions====
+En ce qui concerne les pions maintenant. L'ancien système de lumière dynamique est toujours présent dans l'onglet avancé, mais il est devenu obsolète. Vous avez par contre un nouvel onglet lumière dynamique. Voyons en détail qui fait quoi.
+
+=====Champ de vision des pions:=====
+'''Champ de vision:''' A cocher, sinon le pion ne peux rien voir.
+
+'''Vision nocturne:''' A cocher le personnage à la vision dans le noir. Là, vous pourrez déterminer le rayon de vision du pion (dans l'unité utilisé par la map, donc pas besoin de faire de math si vous avez réglé en mètre).
+
+'''Limit field of vision (limite du champ de vision):''' Permet ne pas avoir un cercle parfait, mais de découper la vision selon des arcs de cercle. Je déconseille, plus compliqué qu'utile.
+
+=====Lumière émise par le pion:=====
+'''Lumière vive:''' Si coché, le pion émet une lumière normale dans le rayon donné.
+
+'''Lumière atténué:''' Si coché, le pion émet une lumière atténué dans le rayon donné. S'ajoute automatiquement à la lumière vive.
+
+'''Lumière totale:''' Juste un rappel avec l'addition des deux précédents. Prenons l'exemple d'une torche. Elle émet une lumière normale sur 6m, puis une lumière atténué sur 6m de plus. Soit un total de 12. Donc, on met 6m en lumière vive et 6m en lumière atténué et voilà, le pion tiens une torche ! (Vous pouvez utiliser le même principe sur un pion représentant justement une torche ou un feu, et ça vous fait des points lumineux qui éclaireront pour les PJs.
+
+=====Advanced Setting:=====
+'''Light Multiplier:''' En pourcentage, cela permet de définir la manière donc le pion voit la lumière. Prenons l'exemple de la torche et d'un elfe. La vision nocturne permet de voir deux fois plus loin. Donc la torche émet 12m de lumière normale et 12m de lumière atténué. Pas besoin de changer les paramètres de la torche, on laisse 6m et 6m. Par contre, en mettant 200% dans le light multiplier de ce pion, celui verra que la torche émet 12m et 12m.
+
+
+====Fonctionnement====
+* Avoir le champ de vision ne permet pas de voir sans source de lumière. Pour faire une source de lumière, il faut qu'un pion émette de la lumière. Ce pion peut être un personnage, un feu de camp etc... Et au besoin, il peut être placé sur la couche carte. Même sur cette autre couche, les pions des PJ verront quand même sa lumière.
+* Au final, c'est simple, une fois la lumière dynamique activé dans la carte et le champ de vision coché dans le pion, c'est pratiquement fini. On change le light multiplier si le personnage à la vision dans le noir, sinon, on ne touche pas. La vision nocturne représente la vision dans le noir, on y met le rayon comme indiqué dans la fiche et le tour est joué. Si un PJ allume une torche ou équivalant, il suffit de le faire émettre de la lumière en cochant vive et atténué et en mettant 6m et voilà.
+
+===Conseils===
+Pour bien gérer vos parties via Roll20, je vous conseille de vous passer de la vidéo qui peut être assez gourmande en débit (surtout si vous êtes ou avez un joueur dans un village perdu en France sans fibre !). Idem pour le son, Discord est bien plus léger et plus optimisé. Pour ce qui est sonore, un bot musical sur Discord sera d'ailleurs bien meilleurs, vu que vous aurez accès à Youtube. (Donc, vous pourrez uploader vos musiques ou prendre parmi celles qui existent et... il y a de quoi faire).
+
+Niveau carte, beaucoup de ressources sont disponibles et beaucoup de cartes officielles sont accessibles facilement et sans watermark (le logo en surimpression partout, appelé aussi filigrane).
+
+En tant que MJ, un écran secondaire change totalement la vie. Vous avez Roll20 d'un côté, le Wiki de l'autre pour aller chercher des infos, très efficace !
+
+Pour ce qui est de l'immersion, je déconseille de mettre des pions comme ceux utilisés sur forum, mais plutôt ceux où l'on voit tout le personnage. C'est pas toujours pile poil adapté a la représentation du personnage, mais avec un poil d'édition graphique, on peut très vite aboutir a des choses pas trop mal. Idem pour les monstres. Après, c'est plus de temps et de préparation ! Même principe pour les cartes, ajouter des détails permet de mieux visualiser une scène. (Vous avez votre description orale, mais vos joueurs vont utiliser la carte, donc il faut que ce soit bien réfléchi en amont !)
+
+Des conseils pour réaliser des cartes sont facilement trouvables sur Youtube. En vérité, peu importe celle que vous regardez, même s'il ne s'agit pas de Roll20, les "règles" de bases sont toutes les mêmes.
+
+```

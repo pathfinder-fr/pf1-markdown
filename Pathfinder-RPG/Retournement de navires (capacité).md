@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.Retournement de navires (capacité)
+Title: Retournement de navires (Ext)
+LastModified: 2021-02-10 20:34
+Categories:
+- Règle de monstres universelle
+- Src Bestiaire 3
+---
+
+Une créature possédant ce pouvoir spécial peut tenter de retourner un navire en lui rentrant dedans avec une [charge](./charge.md) et en faisant un test de [manœuvre offensive](./Manœuvres offensives.md). Le [DD](./DD.md) de ce test est égal à 25 ou au résultat du test de [Profession](./Profession.md) (marin) du capitaine du navire (le résultat le plus élevé). La créature essayant de retourner un navire plus grand qu’elle reçoit, à son test de manœuvre offensive, un malus de -10 cumulatif par catégorie de [taille](./taille.md) supérieure du navire.
+
+*Format :* retournement de navires ; *Emplacement :* Attaques spéciales

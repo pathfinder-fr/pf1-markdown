@@ -1,0 +1,55 @@
+---
+Name: Pathfinder-RPG.Sha
+Title: Sha
+LastModified: 2024-08-25 16:10
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Sha|FP 4}
+{s:pucem|Créature magique|Désert|Tropical}
+{s:BDTexte|*Source : [Bestiaire 5 p.239](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|**PX** 1 200}
+{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, LM}
+{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), vision dans les tempêtes de sable ; [Perception](./Perception.md) +7}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 14, pris au dépourvu 13 (Dex +4, naturelle +3)}
+{s:BDTexte|**pv** 45 (6d10+12)}
+{s:BDTexte|**Réf** +9, **Vig** +7, **Vol** +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m}
+{s:BDTexte|**Corps à corps** morsure, +10 (2d6+6 plus maladie et [croc-en-jambe](./Croc-en-jambe (capacité).md))}
+{s:BDTexte|**Attaques spéciales** maladie, tempête de sable}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 19, **Con** 14, **Int** 5, **Sag** 15, **Cha** 10}
+{s:BDTexte|**BBA** +6 ; **BMO** +10 ; **DMD** 24 (28 contre le [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Poursuite](./Poursuite.md), [S'avancer](./Savancer.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +7}
+{s:BDTexte|**Langues** infernal (incapable de parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** déserts chauds}
+{s:BDTexte|**Organisation** solitaire, paire ou meute (3-8)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Maladie (Sur).** Les shas sont porteurs de terribles maladies qu’ils transmettent par le biais de leurs morsures et qui font généralement sombrer leurs victimes dans la démence, les transformant en parfaits idiots ou en fous hallucinés.}
+{s:BDTexte|* *Grain de folie* : Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 15 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 [Sagesse](./Sagesse.md) et de 1d4 [Charisme](./Charisme.md) ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Tempête de sable (Sur).** Une fois par jour, par une [action complexe](./Action complexe.md), un sha peut créer une [tempête de sable](./Climat.md#Tempêtes_2). Cette tempête de sable se déchaîne dans un rayon de 30 mètres autour du sha et dure 1 minute par [dés de vie](./DV.md) de la créature (6 minutes pour un sha classique).}
+{s:BDTexte|**Vision dans les tempêtes de sable (Sur).** Un sha peut voir clairement dans une [tempête de sable](./Climat.md#Tempêtes_2) naturelle ou créée par lui-même ou un autre sha qui utilise son pouvoir tempête de sable.}
+
+</div></td>
+<td><div>*La forme inhabituelle de ses yeux, d’un rouge luisant, ses grandes oreilles dressées et sa queue bifide trahissent les origines surnaturelles de ce canidé noir.*
+
+Serviteurs des sombres dieux des déserts, les shas ont fait leur domaine des étendues désolées bordant la civilisation. Quand de faibles lumières rougeâtres apparaissent à l’horizon, les villageois murmurent qu’il s’agit d’un sha qui approche. Il ne s’agit généralement que de leur imagination, mais il arrive néanmoins que des shas s’approchent de communautés afin de garder un oeil sur les humains qui y vivent. Les shas sont animés par le besoin de chasser ceux qui ont cessé de se remémorer et d’honorer leurs dieux. Ce même besoin les pousse à attaquer des caravanes, harceler des villages isolés et hanter des oasis perdues pour y massacrer les humanoïdes qu’ils y rencontrent.
+
+Les shas ont une apparence canine marquée et, à la nuit tombée, on les prend souvent pour des chacals aux yeux reflétant la lueur d’un feu de camp. Leur fourrure noire est couverte d’une couche de poussière et de sable du désert. Leurs yeux, dont les bords se relèvent en spirale, brillent d’une lueur rouge mate. Les explorateurs racontent que l’éclat des yeux d’un sha au beau milieu de la nuit est souvent le seul indicateur d’une attaque imminente de la part de ces créatures. Les shas ont de puissantes mâchoires bordées de dents acérées qui leur permettent de tirer des proies plus grosses qu’eux, d’une manière similaire à un loup. Leur garrot arrive à peu près au niveau de la poitrine d’un humain moyen et ils pèsent entre 50 et 75 kilos.
+
+Quand il est seul, un sha passe ses journées à arpenter les vastes étendues du désert, trottant parmi les monuments oubliés d’un autre temps. Les shas profitent de ces errances pour attaquer les petits convois ou les groupes de nomades qui voyagent à la frontière du désert. Ils approchent leurs proies sous le couvert des tempêtes de sable qu’ils peuvent conjurer de manière innée, afin de prendre celles-ci par surprise, d’en mordre le plus possible et de fuir avant qu’elles puissent s’organiser. Les shas s’assurent ainsi que les survivants qui retourneront à la civilisation sombreront dans la démence et propageront la maladie, ou bien sèmeront le chaos par leurs accès de folie.
+
+Il arrive que les shas se regroupent en meute quand plusieurs d’entre eux se retrouvent à la poursuite d’une même caravane ou d’une proie nomade et, une fois nourris, décident de continuer à chasser ensemble. Mais ces meutes se dissolvent rapidement quand les proies deviennent rares.
+
+#### Sha sacré (FP 6)
+Un sha sacré est un sha qui possède les deux archétypes simples [évolué](./Archétypes.md#CREATUREEVOLUEE) et [fiélon](./Archétypes.md#CREATUREFIELON). Il obtient la capacité de parler et connaît une langue supplémentaire. Lié aux pouvoirs des tempêtes de son dieu, un sha sacré inflige également 1d6 points de dégâts d’électricité supplémentaires grâce à sa morsure.
+</div></td></tr></table>

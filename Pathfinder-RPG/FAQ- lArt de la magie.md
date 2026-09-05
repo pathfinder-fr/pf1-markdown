@@ -1,0 +1,499 @@
+---
+Name: Pathfinder-RPG.FAQ- lArt de la magie
+Title: FAQ de l'Art de la magie
+LastModified: 2024-07-09 17:42
+---
+
+{s:MenuFAQoff}***Voir la [version originale](https://paizo.com/paizo/faq/v5748nruor1fz).***
+- **Classes**
+- [Alchimiste, Bombe de confusion :](./.md#1) Cette découverte devrait-elle autoriser un jet de sauvegarde ?
+
+- [Alchimiste, Bras vestigial/Tentacule :](./.md#2) Que signifie « attaque supplémentaire » pour ces découvertes ?
+
+- [Alchimiste, Chirurgien et *souffle de vie* :](./.md#3) Comment puis-je utiliser cet extrait pour ramener quelqu'un à la vie ?
+
+- [Archétypes et gain de pouvoirs :](./.md#4) Si un archétype comme l'ensorceleur de sang sauvage accorde de nouvelles capacités de classe comme des pouvoirs de lignage, de domaine ou similaires, sans avoir cet archétype, puis-je utiliser des dons comme Étrange héritage ou Bienfait du croyant pour choisir les pouvoirs accordés par cet archétype ?
+
+- ~~[Barde, Frappeson :](./.md#5) La capacité de frappeson paroles étranges est floue. Fonctionne-t-elle plus d'une fois sur la même cible ? Et nécessite-t-elle 30 jets de dés pour être résolue ?~~
+
+- [Conjurateur :](./.md#6) Comment un synthétiseur (page 56) peut-il soigner les dégâts subits par son eidolon ?
+
+- [Conjurateur :](./.md#7) Est-ce qu'un synthétiseur (page 56) conserve quelconque bonus d'armure ou autre avantage de son armure lorsqu'il est fusionné avec son eidolon ?
+
+- [Conjurateur :](./.md#8) Est-ce qu'un synthétiseur (page 56) peut porter des attaques avec son propre corps (grâce à des armes manufacturées, des attaques à mains nues ou des attaques naturelles) et des attaques de son eidolon fusionné dans le même round ?
+
+- [Conjurateur :](./.md#9) Que se passe-t-il lorsqu'un synthétiseur (page 56) subit un affaiblissement ou une diminution de caractéristique alors que l'eidolon est présent ?
+
+- [Conjurateur :](./.md#10) Que se passe-t-il lorsqu'un synthétiseur (page 56) subit un malus, contracte une affliction, ou est soumis à un effet continu lorsque l'eidolon disparaît ?
+
+- [Conjurateur :](./.md#11) Un synthétiseur (page 56) peut-il utiliser des sorts qui n'affectent pas les extérieurs sur lui-même, même s'il est considéré comme de son type ou de type extérieur, « en tenant compte du type le plus désavantageux » ?
+
+- [Conjurateur :](./.md#12) Un synthétiseur (page 56) peut-il utiliser la capacité aspect pour appliquer l'évolution armure naturelle améliorée sur lui-même ? Est-ce qu'elle se cumulerait avec l'armure naturelle améliorée du costume-eidolon ?
+
+- [Conjurateur :](./.md#13) Un synthétiseur (page 56) profite-t-il de l'évolution compétent même si l'eidolon n'a pas de compétences propres ? Qu'en est-il de l'évolution augmentation de caractéristique appliquée à une caractéristique mentale ?
+
+- [Conjurateur :](./.md#14) Un synthétiseur (page 56) utilise-t-il son propre nombre de Dés de vie ou celui de son eidolon dans le cadre des évolutions basées sur le nombre de DV, comme souffle et toile ? Qu'en est-il de son BBA dans le cadre des attaques ?
+
+- [Conjurateur :](./.md#15) Un synthétiseur (page 56) qui choisit l'évolution engloutissement utilise-t-il ses propres points de vie ou les points de vie temporaires de l'eidolon pour déterminer les pvs de l'« estomac » ?
+
+- ~~[Druide :](./.md#16) Pour le compagnon coléoptère (page 31), quelles devraient être les dégâts de morsure après le développement de niveau 4 ?~~
+
+- [Magus, Combat magique :](./.md#17) Dans le cadre du combat magique, l'arme dans mon autre main peut-elle être une attaque à mains nues ou une arme naturelle ?
+
+- [Magus, Combat magique :](./.md#18) Un magus peut-il utiliser le combat magique (page 10) avec des tours de magie ?
+
+- [Magus, Combat magique :](./.md#19) Dans le cadre du combat magique, suis-je obligé d'utiliser l'arme dans mon autre main, ou puis-je utiliser d'autres formes d'armes (comme des pointes d'armure ou des morsures) tant que la main qui incante le sort reste libre ?
+
+- [Magus, Combat magique :](./.md#20) Le combat magique compte-t-il comme une attaque à outrance dans le cadre de *rapidité* et d'autres effets ?
+
+- [Magus, Combat magique :](./.md#21) Lorsque j'utilise le combat magique, combien d'attaques d'arme puis-je porter ?
+
+- [Magus, Combat magique :](./.md#22) Quels sorts puis-je lance dans le cadre du combat magique ?
+
+- [Magus, Frappe magique :](./.md#23) Si je lance un sort qui autorise plusieurs attaques de contact, puis-je délivrer tous ces contacts à travers mon arme ?
+
+- [Magus, Frappe magique :](./.md#24) Un magus peut-il utiliser frappe magique (page 10) pour lancer un sort de contact, se déplacer, puis porter une attaque au corps à corps avec une arme pour délivrer le sort de contact, tout ça dans le même round ?
+
+- [Magus, Lame noire :](./.md#25) Puis-je utiliser Création d'armes et armures magiques pour augmenter le bonus d'altération de ma lame ?
+
+- [Magus, Lame noire :](./.md#26) Une lame noire peut-elle être détruite ?
+
+- [Moine :](./.md#27) Un moine qinggong peut-il sélectionner un second archétype si le personnage ne remplace pas les capacités modifiées par ce second archétype ?
+
+- ~~[Oracle :](./.md#28) À propos de la révélation arme de bois du mystère du bois (page 68) et de la révélation arme de fer du mystère du métal (page 69), combien de temps dure l'arme créée ?~~
+
+- [Ensorceleur :](./.md#29) Un ensorceleur de lignage sage (page 42) utilise-t-il son Int ou son Cha pour déterminer son nombre d'utilisations quotidiennes de carreau magique ?
+
+- ~~[Ensorceleur :](./.md#30) Dans la liste des dons supplémentaires du lignage maestro, où puis-je trouver le don Motif mystique ?~~
+
+- ~~[Ensorceleur :](./.md#31) Dans la liste des dons supplémentaires du lignage rakshasa (page 38), où puis-je trouver Tromperie et Motif mystique ?~~
+
+- ~~[Ensorceleur :](./.md#32) Est-ce qu'un ensorceleur de niveau 20 avec le lignage shaitan (page 39) obtient une immunité à l'électricité et la capacité d'utiliser *changement de plan* pour se rendre dans le plan de l'Eau ?~~
+
+- [Ensorceleur, Sang mêlé et Sang sauvage :](./.md#33) Puis-je choisir les deux archétypes sur un même personnage ?
+
+- ~~[Sorcière :](./.md#34) Quel sort le protecteur de la lumière (page 87) accorde-t-il au niveau 18 ?~~
+
+- ~~[Sorcière :](./.md#35) Quel sort le protecteur de la démence (page 87) accorde-t-il au niveau 6 ?~~
+
+- ~~[Sorcière, maléfice cicatrice :](./.md#36) Est-ce que le maléfice cicatrice (page 86) a un effet sur la Diplomatie de la cible, ses autres compétences sociales, ou n'importe quel autre effet ?~~
+
+- [Sorcière, maléfice tombe de glace :](./.md#37) Quelle est la portée de ce maléfice ? Peut-il affecter les objets ? La cible a-t-elle besoin de boire ? Peut-il affecter une créature immunisée au froid ? Si la cible réussit son jet de sauvegarde, est-elle tout de même emprisonnée ? Combien de temps dure-t-il ?
+
+
+- **Dons et sorts**
+- ~~[Antagoniste :](./.md#38) Le DD pour utiliser le don Antagoniste (page 143) est listé comme étant égal au nombre de DV de la cible + son modificateur de Sagesse. Est-ce correct ?~~
+
+- ~~[Choisir son destin :](./.md#39) Où puis-je trouver le sort '’choisir son destin'’, mentionné dans le protecteur de sorcière des ancêtres et l’un des grimoires du chapitre 2 ?~~
+
+- ~~[Critique de plaie (page 150) :](./.md#40) Quelles sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 145).~~
+
+- ~~[Froide frappe de glace (page 228) :](./.md#41) Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?~~
+
+- ~~[Infestation de vers (page 229) :](./.md#42) Que signifie la ligne « Temps de préparation » ?~~
+
+- ~~[Jugement renforcé (page 154) :](./.md#43) Quels sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 146).~~
+
+- ~~[Sort thrénodique (page 158) :](./.md#44) Quels sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 147).~~
+
+- [Terrible remords :](./.md#45) Si je réussis mon jet de sauvegarde contre *terrible remords* (page 247), suis-je paralysé pendant la durée du sort ?
+
+- ~~[Tours de magie/Oraisons :](./.md#46) Où se trouvent tous les nouveaux sorts de niveau 0 mentionnés dans les grimoires ?~~
+
+
+- **Règles magiques**
+- [Une créature pour armure (page 114) :](./.md#47) Comment les attaques peuvent-elles cibler une créature-armure ? Est-ce que je bénéficie de ses résistances, immunités et autres défenses ? Quels sont les « avantages » et les « inconvénients » mentionnés dans cette section ? La porter affecte-t-il ma vitesse ?
+
+
+### Réponses sur les classes
+{s:Reference|1}
+#### Alchimiste, Bombe de confusion : Cette découverte devrait-elle autoriser un jet de sauvegarde ?
+Oui. La cible de la <u>[bombe](./découvertes.md#BOMBEDECONFUSION)</u> a droit à un jet de sauvegarde contre l'effet de *[confusion](./Confusion.md)* (Volonté, annule ; DD égal à celui de la bombe).
+
+Cela sera mis à jour dans la prochaine impression de l’*Art de la magie*.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|2}
+#### Alchimiste, Bras vestigial/Tentacule : Que signifie « attaque supplémentaire » pour ces découvertes ?
+Cela signifie « supplémentaire » dans le sens « plus que le personnage ne serait capable de porter s'il ne possédait pas cette découverte ».
+
+Par exemple, un alchimiste de bas niveau utilisant le combat à deux armes pourrait porter deux attaques par round (une avec chaque arme). S'il choisissait la découverte <u>[tentacule](./découvertes.md#TENTACULE)</u>, il pourrait porter à son tour
+- deux attaques d'arme et aucune attaque de tentacule,
+- une attaque d'arme avec sa main gauche et une attaque secondaire de tentacule, ou
+- une attaque d'arme avec sa main droite et une attaque secondaire de tentacule.
+
+Il ne pourra jamais porter une attaque d'arme avec sa main gauche, une attaque d'arme avec sa main droite et une attaque de tentacule dans le même tour car la découverte tentacule indique qu'elle « ne permet pas de faire une attaque ou une action supplémentaire au cours du round ». Cette formulation indique que le tentacule n'est pas une arme naturelle standard et qu'elle ne suit pas les règles habituelles relatives à l'utilisation d'armes naturelles (qui devrait normalement autoriser le personnage à porter une attaque d'arme naturelle en plus de ses autres attaques).
+
+De la même façon, si le personnage choisissait la découverte <u>[bras vestigial](./découvertes.md#BRASVESTIGIAL)</u> et portait une arme dans la main de ce bras, il pourrait porter à son tour
+- une attaque d'arme avec sa main gauche et une avec sa main droite,
+- une attaque d'arme avec sa main droite et une avec son bras vestigial, ou
+- une attaque d'arme avec sa main gauche et une avec son bras vestigial.
+
+Il ne pourra jamais porter une attaque d'arme avec sa main gauche, une attaque d'arme avec sa main droite et une attaque d'arme avec son bras vestigial dans le même tour car la découverte bras vestigial indique qu'elle « ne permet pas de faire une attaque ou une action supplémentaire dans un round ».
+La même restriction s'appliquerait si la race du personnage avait des griffes ou s'il possédait une autre capacité ajoutant des griffes à ses membres : le texte de chacune des découvertes indique qu'elles n'offrent aucune attaques supplémentaires par round, qu'elles soient portées par des armes naturelles, des armes manufacturées, ou par des armes naturelles ajoutées à un membre qui n'en avait pas déjà.
+
+Souvenez-vous que ces deux découvertes n'ont pas de prérequis de niveau, et ne sont donc pas particulièrement puissantes ; offrir des attaques supplémentaires par round de façon permanente est bien au-delà des limites d'une découverte disponible à des alchimistes de niveau 2.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|3}
+#### Alchimiste, Chirurgien et *souffle de vie* : Comment puis-je utiliser cet extrait pour ramener quelqu'un à la vie ?
+L'économie d'action normale empêche le <u>[chirurgien](./Chirurgien (alchimiste).md)</u> d'utiliser sa capacité de classe vaincre la mort (qui ajoute *[souffle de vie](./Souffle de vie.md)* à son livre de formules).
+Normalement, saisir un extrait et le boire est une action simple.
+Normalement, faire boire une potion à une créature inconsciente est une action complexe (les règles ne précisent pas l'action nécessaire pour le faire sur une créature morte, mais c'est vraisemblablement la même).
+Puisque *souffle de vie* doit être utilisé jusqu'à 1 round après la mort pour ramener la cible à la vie, ces conditions d'action impliquent que le chirurgien ne peut jamais utiliser cet extrait pour ramener quelqu'un à la vie.
+Afin que vaincre la mort puisse remplir sa fonction (permettre à l'archétype de ressusciter les morts), elle sera modifiée pour permettre au chirurgien de saisir et de faire boire une infusion de *souffle de vie* à une autre créature par une action complexe.
+Cela sera mis à jour dans la prochaine impression de l’*Art de la magie*.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|4}
+#### Archétypes et gain de pouvoirs : Si un archétype comme l'ensorceleur de sang sauvage accorde de nouvelles capacités de classe comme des pouvoirs de lignage, de domaine ou similaires, sans avoir cet archétype, puis-je utiliser des dons comme Étrange héritage ou Bienfait du croyant pour choisir les pouvoirs accordés par cet archétype ?
+Non. Ces pouvoirs n'existent que pour les <u>[archétypes](./Classes.md#ARCHETYPES)</u> qui les accordent. Ce point est particulièrement important puisque dans certains cas, l'archétype peut remplacer des capacités non-parallèles en accordant ces pouvoirs. Par exemple, un [ensorceleur](./Ensorceleur.md) [féerique](./lignage Féerique.md) avec l'archétype de [sang sauvage](./Sang sauvage (ensorceleur).md) remplace son arcane de lignage et son pouvoir de niveau 1 pour obtenir un nouveau pouvoir de niveau 1, mais un non-ensorceleur utilisant un don pour gagner ce même pouvoir de niveau 1 ne posséderait pas l'arcane de lignage à la base.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|5}
+#### --Barde, Frappeson : La capacité de frappeson paroles étranges est floue. Fonctionne-t-elle plus d'une fois sur la même cible ? Et nécessite-t-elle 30 jets de dés pour être résolue ?
+Remplacez le texte de <u>[paroles étranges](./Frappeson (barde).md)</u> par le suivant « Au niveau 6, le frappeson peut utiliser une [action simple](./Action simple.md) pour démarrer une représentation et prononcer un mot par tranche de 4 niveaux de barde tout en chargeant ces mots d'énergie sonique. Chaque mot inflige 4d6 points de dégâts de son sous la forme d'une [attaque de contact](./attaque de contact.md) à distance avec une portée de 9 mètres (6 c). Le barde ajoute son modificateur de Charisme aux dégâts pour chacun des mots mystiques. Il peut diriger plusieurs mots sur une même cible, les combinant en une attaque unique plus puissante et n'appliquant la résistance aux énergies et les bonus aux jets de dégâts qu'une seule fois. Le frappeson peut diriger tous les mots vers une unique cible ou viser des cibles différentes, mais il les prononce tous simultanément. Chaque mot lui coûte 1 round de représentation bardique. » Ces changements seront reflété dans le prochain errata.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|6}
+#### Conjurateur : Comment un synthétiseur (page 56) peut-il soigner les dégâts subits par son eidolon ?
+Puisque l'eidolon confère des points de vie temporaires au <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> plutôt que d'avoir sa propre réserve de points de vie classiques, les effets qui soignent les dégâts subits ne restaurent pas les points de vie temporaires de l'eidolon. Cela implique techniquement qu'un personnage est incapable de soigner l'eidolon. Pour remédier à cela, les effets qui soignent spécifiquement les eidolons (comme *[régénération d'eidolon](./Régénération deidolon.md)*) restaurent les points de vie temporaires de l'eidolon d'un synthétiseur. Comprenez que cette restriction ne fait pas de ces sorts une « taxe » obligatoire pour les synthétiseurs, mais un avantage qui leur permet d'utiliser les points de vie de leur eidolon comme tampon entre eux et les dégâts qu'ils subissent, contrairement aux autres conjurateurs qui peuvent être ciblés séparément de leur eidolon.
+
+Même l'évolution [guérison accélérée](./eidolon.md#GUERISONACCELEREE), ou d'autres effets de guérison accélérée ou de régénération, restaurent des points de vie et non des points de vie temporaires, donc ils soignent le conjurateur, pas les points de vie temporaires conférés par l'eidolon.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|7}
+#### Conjurateur : Est-ce qu'un synthétiseur (page 56) conserve quelconque bonus d'armure ou autre avantage de son armure lorsqu'il est fusionné avec son eidolon ?
+Non. L'eidolon est, dans les faits, l'armure du <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u>, et toute autre armure que le synthétiseur porte ne fonctionne pas tant que l'eidolon est présent. Heureusement, cela ne signifie pas que le synthétiseur doit retirer son armure lorsqu'il porte l'eidolon, et lorsque l'eidolon est banni/renvoyé/tué, l'amure que portait le conjurateur refait immédiatement effet.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|8}
+#### Conjurateur : Est-ce qu'un synthétiseur (page 56) peut porter des attaques avec son propre corps (grâce à des armes manufacturées, des attaques à mains nues ou des attaques naturelles) et des attaques de son eidolon fusionné dans le même round ?
+Oui, mais les attaques naturelles du personnage fusionné sont toujours sujettes à la colonne Attaques max du tableau pour un eidolon de son niveau. Par exemple, un <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> de niveau 1 est limité à 3 attaques naturelles par round, qu'elles proviennent de l'eidolon, du synthétiseur ou d'une combinaison des deux.
+
+Si le synthétiseur souhaite utiliser les attaques naturelles de son eidolon et utiliser ses propres armes manufacturées ou naturelles dans le même round, son eidolon doit avoir suffisamment de membres pour supporter toutes ces attaques. Par exemple, un gnome synthétiseur fusionné avec un eidolon bipède avec deux bras a accès à deux bras pour porter des attaques ; si le synthétiseur souhaite porter deux attaques de griffe avec les griffes de son eidolon et également porter des attaques d'arme (comme avec une dague ou un bâton), il doit alouer plus d'évolutions de bras à son eidolon pour tenir ces armes (comme une extension des bras du conjurateur) ; un eidolon avec deux bras ne peut pas porter deux attaques de griffe et porter une attaque de dague ou de bâton dans un même round.
+
+N'oubliez pas que le synthétiseur est toujours soumis aux règles relatives à la combinaison d'attaques d'arme manufacturées et naturelles lors d'un même round (ce qui implique que les attaques naturelles sont toujours considérées comme secondaires et subissent donc un malus de -5 à l'attaque).
+
+N'oubliez pas non plus que le conjurateur porte l'eidolon comme un « costume » biologique et englobant, et que la forme de l'eidolon limite ce que le conjurateur peut faire. Si l'eidolon n'a pas de bras, le conjurateur ne peut pas utiliser ses propres bras pour manipuler des objets, porter des attaques, lancer des sorts à composante gestuelle, ou toute autre chose nécessitant des bras - pendant la fusion, les membres du conjurateur sont piégés dans le costume-eidolon sans bras, et il ne peut pas les utiliser pour manipuler des objets. Le conjurateur n'est pas capable d'étendre les parties de son corps en dehors du costume-eidolon ; s'il veut pouvoir manipuler des objets avec des bras, l'eidolon a besoin de bras (bien que les tentacules conviennent pour les tâches simples).
+
+(Note : C'est une question d'ambiance et de préférence du joueur si le synthétiseur flotte immobile dans le costume-eidolon et que ses membres bougent à son commandement mental, si le synthétiseur bouge ses propres bras et que les bras du costume-eidolon répètent ce mouvement, ou si le costume-eidolon est plus serré et que les membres enveloppant la chair bougent en réponse directe aux propres mouvements du synthétiseur).
+
+Note : Cela clarifie une FAQ précédente où les attaques d'arme du conjurateur comptaient dans le nombre d'attaques du tableau.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|9}
+#### Conjurateur : Que se passe-t-il lorsqu'un synthétiseur (page 56) subit un affaiblissement ou une diminution de caractéristique alors que l'eidolon est présent ?
+L'eidolon subit les affaiblissements et les diminutions de For, de Dex et de Con, tandis que le <u>[conjurateur](./Synthétiseur (conjurateur).md)</u> subit les affaiblissements et les diminutions d'Int, de Sag et de Cha. Si ces malus amènent la For ou la Dex de l'eidolon à 0, le conjurateur/eidolon fusionné est sans défense (mais il peut toujours le renvoyer). Si ces malus amènent la Con de l'eidolon à 0, il meurt et retourne sur son plan d'origine. Si l'eidolon part (qu'il soit banni, renvoyé ou tué), le conjurateur reprend immédiatement ses propres valeurs de For, de Dex et de Con.
+
+Il n'y a pas de « débordement » si un affaiblissement ou une diminution de caractéristique devrait amener une valeur à moins de 0 ; si un eidolon avec une Constitution de 1 subit 3 points d'affaiblissement de Con et meurt, le conjurateur ne subit pas les 2 points d'affaiblissement de Con « excédentaires ». Cependant, les effets continus (comme l'affaiblissement d'un poison actif) affecteraient le conjurateur (non-fusionné) après la disparition de l'eidolon.
+
+Aussi, n'oubliez pas que l'eidolon ne guérit pas naturellement. Comme les dégâts aux points de vie, tout affaiblissement ou diminution de caractéristique subits par l'eidolon persistent lorsqu'il est banni/renvoyé/tué et qu'il est réinvoqué. L'exception étant un eidolon tué par un affaiblissement de Con (qui, au moment d'être réinvoqué, serait toujours à 0 Con et disparaîtrait immédiatement) ; dans cette situation, l'eidolon réinvoqué est soigné de 1 point d'affaiblissement ou de diminution afin que son nombre d'affaiblissement ou de diminution soit de 1 inférieur à sa valeur totale de Constitution, lui permettant de survivre.
+
+Les effets qui soignent les affaiblissements et les diminutions fonctionnent sur les caractéristiques de l'eidolon lorsqu'il est présent.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|10}
+#### Conjurateur : Que se passe-t-il lorsqu'un synthétiseur (page 56) subit un malus, contracte une affliction, ou est soumis à un effet continu lorsque l'eidolon disparaît ?
+Ces effets persistent sur le <u>[conjurateur](./Synthétiseur (conjurateur).md)</u> après le départ de l'eidolon. Par exemple, un *[rayon affaiblissant](./Rayon affaiblissant.md)* ciblant le personnage fusionné continue d'affecter le conjurateur après le départ de l'eidolon, comme le ferait un sort de *[malédiction](./sort Malédiction.md)* ou de *[flèche acide](./Flèche acide.md)*, ou même les effets d'un poison actif. Ces effets s'appliquent au personnage dans sa globalité, et le fait que l'eidolon disparaîsse ne signifie pas que le conjurateur est libéré de l'effet (les affaiblissements de caractéristique sont comptés séparément, comme décrit dans [une autre FAQ](./.md#9), car s'agit d'une statistique différente que le conjurateur « emprunte » à l'eidolon). Si l'état ou l'effet se termine (parce qu'il est arrivé au terme de sa durée, qu'il a été dissipé/neutralisé/soigné, etc) pendant que l'eidolon est absent, il ne refait pas surface lorsque l'eidolon est réinvoqué. Cela s'applique aussi bien aux effets hostiles que bénéfiques - un conjurateur invisible n'est pas soudainement rendu visible si son eidolon disparaît, et il ne redevient pas invisible si la durée s'est terminée pendant que l'eidolon était absent.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|11}
+#### Conjurateur : Un synthétiseur (page 56) peut-il utiliser des sorts qui n'affectent pas les extérieurs sur lui-même, même s'il est considéré comme de son type ou de type extérieur, « en tenant compte du type le plus désavantageux » ?
+Oui, car la capacité tranfert des sorts de l'eidolon normal indique « Le conjurateur peut lui lancer un sort même si, normalement, il ne devrait pas affecter les créatures de type Extérieur. », et l'archétype <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> ne la modifie pas.
+
+Note : Il s'agit d'une révision d'une question précédente qui utilisait *agrandissement* comme extemple. FAQ en attente sur la magie de changement de taille et le synthétiseur (à cause de la limitation de la règle « l'eidolon doit être au moins de la même taille que le synthétiseur »).
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|12}
+#### Conjurateur : Un synthétiseur (page 56) peut-il utiliser la capacité aspect pour appliquer l'évolution armure naturelle améliorée sur lui-même ? Est-ce qu'elle se cumulerait avec l'armure naturelle améliorée du costume-eidolon ?
+Un <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> peut utiliser [aspect](./Conjurateur.md#ASPECT) pour augmenter sa propre armure naturelle. Cependant, lorsqu'il est fusionné, il obtient le bonus d'armure naturelle de l'eidolon, donc cette augmentation ne se cumule pas avec son propre bonus d'armure naturelle.
+
+(Utiliser la capacité de cette façon reste utile lorsque l'eidolon est banni, mort ou renvoyé.)
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|13}
+#### Conjurateur : Un synthétiseur (page 56) profite-t-il de l'évolution compétent même si l'eidolon n'a pas de compétences propres ? Qu'en est-il de l'évolution augmentation de caractéristique appliquée à une caractéristique mentale ?
+Si l'eidolon du <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> possède l'évolution [compétent](./eidolon.md#COMPETENT), le synthétiseur obtient le bonus à cette compétence.
+
+Si le synthétiseur applique l'évolution [augmentation de caractéristique](./eidolon.md#AUGMENTATIONDECARACTERISTIQUE) à l'une des caractéristiques mentales de l'eidolon, elle n'a aucun effet sur le synthétiseur puisqu'il utilise ses propres valeurs de caractéristiques mentales.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|14}
+#### Conjurateur : Un synthétiseur (page 56) utilise-t-il son propre nombre de Dés de vie ou celui de son eidolon dans le cadre des évolutions basées sur le nombre de DV, comme souffle et toile ? Qu'en est-il de son BBA dans le cadre des attaques ?
+Le <u>[synthétiseur](./Synthétiseur (conjurateur).md)</u> utilise les DV de l'eidolon pour déterminer les effets des évolutions, et pas son nombre de DV de conjurateur ou son nombre total de DV.
+
+Lorsqu'il est fusionné, le conjurateur utilise le BBA de l'eidolon à la place de son BBA de classe, et ajoute le BBA offert par d'autres sources normalement. Par exemple, un guerrier 19/conjurateur 1 a un BBA total de +19 (+19 du guerrier, +0 du conjurateur), qui passe à +20 lorsqu'il est fusionné avec son eidolon (+19 du guerrier, +1 de l'eidolon de niveau 1).
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|15}
+#### Conjurateur : Un synthétiseur (page 56) qui choisit l'évolution engloutissement utilise-t-il ses propres points de vie ou les points de vie temporaires de l'eidolon pour déterminer les pvs de l'« estomac » ?
+On utilise les points de vie du <u>[conjurateur](./Synthétiseur (conjurateur).md)</u> pour déterminer cela. Évidemment, ce n'est pas le conjurateur qui englouti la cible, elle est simplement contenue dans le costume-eidolon, mais les pvs de l'« estomac » sont basés sur des pvs réels, pas des pvs temporaires, donc il est plus facile d'utiliser ceux du conjurateur plutôt que de créer une exception spécifique pour qu'ils soient basés sur les points de vie temporaires du costume-eidolon. Par ailleurs, cela signifie que les effets qui augmentent les points de vie du conjurateur (comme *[endurance de l'ours](./Endurance de lours.md)*) augmentent aussi les pvs de l'« estomac ».
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|16}
+#### --Druide : Pour le compagnon coléoptère (page 31), quelles devraient être les dégâts de morsure après le développement de niveau 4 ?
+Les dégâts devraient être de 1d8.
+
+Mise à jour : Page 31, Coléoptère géant, remplacez les dégâts de morsure après le développement de niveau 4 par « 1d8 ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|17}
+#### Magus, Combat magique : Dans le cadre du combat magique, l'arme dans mon autre main peut-elle être une attaque à mains nues ou une arme naturelle ?
+Oui, tant que l'arme est une arme de corps à corps légère ou à une main et qu'elle est associée à cette main. Par exemple, les attaques à mains nues, les griffes et les coups sont des des armes de corps à corps légères associées à une main, et peuvent donc être utilisées en <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u>. Un coup de queue n'est pas associé à une main, et ne peut donc pas être utilisé en combat magique.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|18}
+#### Magus, Combat magique : Un magus peut-il utiliser le combat magique (page 10) avec des tours de magie ?
+Oui. Il n'est pas limité aux sorts de 1er niveau ou plus. *(Retour à la <u>[capacité](./Magus.md#COMBATMAGIQUE)</u>)*
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|19}
+#### Magus, Combat magique : Dans le cadre du combat magique, suis-je obligé d'utiliser l'arme dans mon autre main, ou puis-je utiliser d'autres formes d'armes (comme des pointes d'armure ou des morsures) tant que la main qui incante le sort reste libre ?
+Le personnage doit spécifiquement utiliser l'arme de corps à corps légère ou à une main tenue dans son autre main. *(Retour à la <u>[capacité](./Magus.md#COMBATMAGIQUE)</u>)*
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|20}
+#### Magus, Combat magique : Le combat magique compte-t-il comme une attaque à outrance dans le cadre de *rapidité* et d'autres effets ?
+Oui.
+
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* interagit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u> de porter l'attaque supplémentaire offerte par *rapidité*.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|21}
+#### Magus, Combat magique : Lorsque j'utilise le combat magique, combien d'attaques d'arme puis-je porter ?
+Un personnage peut porter autant d'attaques d'arme qu'il aurait normalement pu s'il effectuait une attaque à outrance avec cette arme. Par exemple, si le personnage est un [magus](./Magus.md) de niveau 8 (BBA +6/+1), il peut porter deux attaques d'arme en utilisant le <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u>.
+
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le [combat magique](./Magus.md#COMBATMAGIQUE) de porter l'attaque supplémentaire offerte par *rapidité*.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|22}
+#### Magus, Combat magique : Quels sorts puis-je lance dans le cadre du combat magique ?
+Le texte de la capacité pertinent ici est :
+
+« Lors d'une action complexe, il peut porter toutes les attaques autorisées avec son arme avec un malus de -2 et lancer tout sort de la liste de magus dont l'incantation n'excède pas une action simple (tout jet d'attaque inclus dans le sort subit également le malus de -2). »
+
+Le sort lancé dans le cadre du <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u> doit être un sort de magus connu par le personnage, et doit être un sort de magus préparé dans l'un de ses emplacements de sort de magus.
+
+(D'autres capacités de magus peuvent modifier les sorts éligibles dans le cadre du combat magique. Par exemple, l'arcane de magus [études diversifiées](./arcanes.md#ETUDESDIVERSIFIEES) indique explicitement que le magus peut utiliser le combat magique pour lancer des sorts de la classe de lanceur de sorts non-magus choisie.)
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|23}
+#### Magus, Frappe magique : Si je lance un sort qui autorise plusieurs attaques de contact, puis-je délivrer tous ces contacts à travers mon arme ?
+Oui. Par exemple, si un personnage lançait *[contact glacial](./Contact glacial.md)* (qui autorise plusieurs attaques de contact), il pourrait utiliser <u>[frappe magique](./Magus.md#FRAPPEMAGIQUE)</u> pour lancer et délivrer le sort à travers son arme, puis utiliser des attaques d'arme ultérieures pour délivrer les attaques de contact restantes du sort (au rythme d'une attaque de contact par attaque d'arme).
+
+Si le personnage peut porter plusieurs attaques par round avec cette arme (comme avec un BBA de +6 ou supérieur), il peut utiliser l'arme pour délivrer plusieurs attaques de contact du sort par round, tant qu'il lui reste des attaques de contact du sort à utiliser.
+
+Par exemple, si le personnage est un magus de niveau 8 (BBA +6/+1) et qu'il lance *contact glacial*, il peut utiliser jusqu'à 8 attaques de contact du sort. S'il porte deux attaques d'arme lors du même round, il peut délivrer deux attaques de contact du sort par round (une pour chaque attaque d'arme réussie).
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|24}
+#### Magus, Frappe magique : Un magus peut-il utiliser frappe magique (page 10) pour lancer un sort de contact, se déplacer, puis porter une attaque au corps à corps avec une arme pour délivrer le sort de contact, tout ça dans le même round ?
+Oui. À part délivrer le sort avec une arme de corps à corps au lieu d'une attaque de contact au corps à corps, la capacité <u>[frappe magique](./Magus.md#FRAPPEMAGIQUE)</u> ne modifie pas les règles relatives aux [sorts de contact en situation de combat](./Actions simples.md#LANCERSORT) (*Manuel des joueurs* p.185). Donc, comme quand on lance un sort de contact, un magus peut utiliser frappe magique pour lancer un sort de contact, s'approcher d'un ennemi, puis (par une action libre) porter une attaque au corps à corps avec son arme pour délivrer le sort.
+
+Sur une note similaire, le fait que le magus touche l'arme qu'il tient ne compte pas comme « toucher quelqu'un ou quelque chose » dans le cadre du déchargement du sort. Un magus pourrait même utiliser la capacité frappe magique, rater son attaque au corps à corps pour délivrer le sort, être désarmé par un adversaire (ou lâcher l'arme volontairement, quelque soit la raison), et continuer de retenir la charge dans sa main, comme un lanceur de sorts normal. De plus, le magus désarmé pourrait prendre une arme (même celle qu'il a lâché) avec cette main sans décharger automatiquement le sort, puis essayer d'utiliser l'arme pour délivrer ce sort. Cependant, si le magus touche autre chose qu'une arme avec cette main (comme l'utiliser pour saisir une potion), le sort se décharge normalement.
+
+Concrètement, la frappe magique offre plus d'options au magus lorsqu'il s'agit de délivrer des sorts de contact ; elle n'est pas sensée lui rendre cette entreprise plus difficile.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|25}
+#### Magus, Lame noire : Puis-je utiliser Création d'armes et armures magiques pour augmenter le bonus d'altération de ma lame ?
+Non, et un personnage ne peut pas non plus utiliser ce don pour ajouter d'autres propriétés (comme *[feu](./feu (propriété).md)*) à la <u>[lame noire](./Lamelié (magus).md)</u>. Il peut cependant utiliser sa réserve magique pour ajouter temporairement des propriétés à sa lame noire.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|26}
+#### Magus, Lame noire : Une lame noire peut-elle être détruite ?
+Oui.
+L'immunité de l'arme à l'état préjudiciable [brisé](./Brisé.md) tant qu'elle a au moins 1 point dans sa réserve magique n'empêche que les effets spécifiques de l'état brisé. Une <u>[lame noire](./Lamelié (magus).md)</u> peut toujours subir des dégâts -et même être détruite- lorsqu'elle a 1 point ou plus dans sa réserve magique, elle ne subit simplement pas les malus imposés par l'état brisé.
+
+Le nom d'une capacité de classe (dans ce cas, « incassable ») est un texte d'ambiance, pas un texte de règles.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|27}
+#### Moine : Un moine qinggong peut-il sélectionner un second archétype si le personnage ne remplace pas les capacités modifiées par ce second archétype ?
+Oui. Cependant, l'autre archétype a la priorité sur les diverses capacités offertes à chaque niveau, et le personnage ne peut pas retarder l'obtention d'une capacité que l'autre archétype remplace ; il doit laisser le second archétype remplacer la capacité prévue au niveau de classe prévu.
+
+Par exemple, l'archétype [moine de la main qui guérit](./Moine de la main qui guérit (moine).md) remplace
+plénitude physique (niveau 7)
+corps de diamant (niveau 11)
+paume vibratoire (niveau 15)
+perception de l'être (niveau 20).
+Un <u>[moine qinggong](./Moine qinggong (moine).md)</u> qui souhaite également choisir l'archétype moine de la main qui guérit doit laisser l'archétype de la main qui guérit remplacer chacune de ces quatre capacités aux niveaux prévus. Le moine qinggong est toujours libre de remplacer n'importe quelle capacité de moine standard aux autres niveaux listés dans l'archétype moine qinggong (chute ralentie au niveau 4, sauts puissants au niveau 5, etc), tant que sélectionner ces capacités n'interfère pas avec l'obtention des capacités de moine de la main qui guérit aux niveaux prévus.
+Notez que si le second archétype remplace une capacité de moine standard, le personnage ne peut pas sélectionner la capacité remplacée à un niveau de moine ultérieur. Par exemple, le moine qinggong/de la main qui guérit ne peut jamais sélectionner plénitude physique, même après le niveau 7. Dans les faits, le personnage a sélectionné plénitude physique au niveau 7 et l'a immédiatement remplacé par une capacité de la main qui guérit ; étant donné que l'archétype qinggong ne permet à un personnage de sélectionner une capacité plus tard que s'il a « choisit un pouvoir de ki différent à la place du pouvoir habituel » (ce qui n'est pas arrivé), cette option n'est pas accessible à ce personnage.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|28}
+#### --Oracle : À propos de la révélation arme de bois du mystère du bois (page 68) et de la révélation arme de fer du mystère du métal (page 69), combien de temps dure l'arme créée ?
+L'arme dure 1 minute par niveau d'oracle. Pour les deux révélation, supprimez la dernière phrase concernant les minutes non-consécutives et les tranches de 1 minute.
+
+Mise à jour : Page 68, révélation arme de bois, supprimez la phrase « cette durée n'a pas besoin d'être consécutive, mais doit être utilisée par tranche de 1 minute. ». Page 69, révélation arme de fer, supprimez la phrase « cette durée n'a pas besoin d'être consécutive, mais doit être utilisée par tranche de 1 minute. ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|29}
+#### Ensorceleur : Un ensorceleur de lignage sage (page 42) utilise-t-il son Int ou son Cha pour déterminer son nombre d'utilisations quotidiennes de carreau magique ?
+Un ensorceleur <u>[sage](./lignage Profane.md)</u> utilise son Int pour déterminer le nombre d'utilisations quotidiennes de ses pouvoirs de lignage, ce qui inclut carreau magique. Ainsi, que le carreau magique indique l'Int ou le Cha, l'ensorceleur sage doit se baser sur son Int.
+Le pouvoir de lignage indique le Cha parce qu'il s'agit de la terminologie standard pour les pouvoirs de lignage (car tous les autres ensorceleurs se basent sur leur Cha), et parce qu'il existe peut-être un moyen pour un non-ensorceleur d'avoir accès à ce pouvoir de lignage, auquel cas il devrait être basé sur le Cha (comme les autres pouvoirs de lignage d'ensorceleur) et non l'Int.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|30}
+#### --Ensorceleur : Dans la liste des dons supplémentaires du lignage maestro, où puis-je trouver le don Motif mystique ?
+Le don Motif mystique a été abandonné lors du développement (il devait modifier l'apparence des sorts du personnage et augmenter le DD d'Art de la magie pour les reconnaître, ce qui n'apportait pas suffisamment d'avantages comparé au prix d'un don). Remplacez-le par Représentation obsédante** (un don du *Manuel des joueurs - Règles avancées*).
+
+Mise à jour : Page 37, dons supplémentaires du <u>[lignage maestro](./lignage Maestro.md)</u>, remplacez « Motif mystique » par « Représentation obsédante** ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|31}
+#### --Ensorceleur : Dans la liste des dons supplémentaires du lignage rakshasa (page 38), où puis-je trouver Tromperie et Motif mystique ?
+Le don Tromperie devrait être le don Fourberie.
+
+Le don Motif mystique a été abandonné lors du développement (il devait modifier l'apparence des sorts du personnage et augmenter le DD d'Art de la magie pour les reconnaître, ce qui n'apportait pas suffisamment d'avantages comparé au prix d'un don). Remplacez-le par Extension d'effet.
+
+Mise à jour : Page 38, dons supplémentaires du <u>[lignage rakshasa](./lignage Rakshasa.md)</u>, remplacez « Tromperie » par « Fourberie ». Supprimez « Motif mystique » et ajoutez « Extension d'effet » à la liste des dons supplémentaires.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|32}
+#### --Ensorceleur : Est-ce qu'un ensorceleur de niveau 20 avec le lignage shaitan (page 39) obtient une immunité à l'électricité et la capacité d'utiliser *changement de plan* pour se rendre dans le plan de l'Eau ?
+Non, cette capacité devrait se référer à l'acide et au plan de la Terre.
+
+Mise à jour : Page 39, changez la dernière capacité du lignage shaitan de « immunisé contre l'électricité » à « immunisé contre l'acide ». Remplacez « plan de l'Eau » par « plan de la Terre ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|33}
+#### Ensorceleur, Sang mêlé et Sang sauvage : Puis-je choisir les deux archétypes sur un même personnage ?
+Non, car les règles relatives aux archétypes indiquent qu'aucune des capacités de classe alternatives ne peut remplacer ou modifier la même capacité de classe qu'une autre capacité de classe alternative. Puisque les archétypes d'ensorceleur <u>[sang mêlé](./Sang mêlé (ensorceleur).md)</u> et <u>[sang sauvage](./Sang sauvage (ensorceleur).md)</u> remplace tous les deux l'arcane de lignage et les pouvoirs de lignage, ils ne sont pas compatibles.
+
+Notez que le MJ a toute latitude pour autoriser cette combinaison. Seulement, le personnage ne devrait pas pouvoir utiliser la capacité de l'archétype sang mêlé à choisir un pouvoir de lignage de niveau inférieur s'il a été remplacé par l'archétype sang sauvage. Par exemple, un ensorceleur de sang sauvage brutal ([abyssal](./lignage Abyssal.md)) remplace « force de l'Abysse » par « ailes des Abysses » au niveau 9 ; le personnage « paye » pour l'archétype sang sauvage en perdant « force de l'Abysse », et ne peut donc pas utiliser son lignage sauvage pour choisir « force de l'Abysse » comme pouvoir de lignage de niveau 15 ou 20.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|34}
+#### --Sorcière : Quel sort le protecteur de la lumière (page 87) accorde-t-il au niveau 18 ?
+Le sort du niveau 18 devrait être *[corps enflammé](./Corps enflammé.md)*.
+
+Mise à jour : page 87, protecteur de sorcière de la lumière, remplacez le niveau 18 « explosion de lumière » par « corps enflammé ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|35}
+#### --Sorcière : Quel sort le protecteur de la démence (page 87) accorde-t-il au niveau 6 ?
+Le sort du niveau 6 devrait être *[cacophonie distrayante](./Cacophonie distrayante.md)*.
+
+Mise à jour : page 87, protecteur de sorcière de la démence, remplacez « folle hallucination » par « cacophonie distrayante ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|36}
+#### --Sorcière, Maléfice cicatrice : Est-ce que le maléfice cicatrice (page 86) a un effet sur la Diplomatie de la cible, ses autres compétences sociales, ou n'importe quel autre effet ?
+<u>[Ce maléfice](./maléfices.md#Cicatrice)</u> a besoin d'une clarification et d'un petit coup de pouce.
+
+Premièrement, la phrase « Ces cicatrices ne gênent en rien les mouvements ni les pouvoirs de la cible » vient préciser qu'il est impossible de créer une cicatrice sur les yeux de la cible pour la rendre aveugle, les oreilles pour la rendre sourde, ou la bouche et le nez pour l'empêcher de respirer. En revanche, des cicatrices larges et visibles peuvent avoir un effet positif ou négatif pour la cible, selon avec qui elle intéragit - une culture tribal pourrait voir la scarification comme la marque d'un combattant redoutable, tandis que les hautes sphères d'une noblesse citadine pourrait les voir comme le signe d'une enfance pauvre ou d'une vie de baroudeur peu recommandable. Plutôt que d'essayer de refleter ces situations dans les mécaniques de jeu, le MJ devrait utiliser la règle de l'aval du MJ (*Manuel des joueurs p.408*) pour modifier les tests de Bluff, de Déguisement, de Diplomatie ou d'Intimidation de façon appropriée aux interactions avec la cible scarifiée.
+
+Deuxièmement, la cicatrice est une malédiction magique, et elle devrait persister dans les changements de forme (dont la [lycanthropie](./Lycanthrope, archétype.md), la capacité de monstre [changement de forme](./Changement de forme (capacité).md), les sorts de [métamorphose](./branche métamorphose.md), etc).
+
+Troisièmement, le maléfice a besoin d'une porter. Toucher la cible pour la scarifier semble thématiquement approprié, donc la sorcière doit réussir une attaque de contact au corps à corps.
+
+Quatrièmement, le maléfice devrait profiter d'une petite amélioration mécanique. Ainsi, scarifier une créature avec ce maléfice a deux avantages : la sorcière peut utiliser n'importe lequel de ses maléfices sur cette créature à une portée de 1,5 km, et la sorcière est considérée comme ayant une partie du corps de la cible dans le cadre de *[scrutation](./scrutation.md)* et autres sorts de divination.
+
+L'ouvrage sera mis à jour avec ces modifications, même si la formulation exacte dépendra de l'espace disponible au moment de la mise en page.
+
+Mise à jour : Maléfice de sorcière cicatrice, page 86), ajoutez les notes à propos des modifications aux compétences, de la persistences dans les changements de forme, de l'attaque de contact au corps à corps, de l'augmentation de portée pour les autres maléfices, et du bonus à la scrutation.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|37}
+#### Sorcière, Maléfice tombe de glace : Quelle est la portée de ce maléfice ? Peut-il affecter les objets ? La cible a-t-elle besoin de boire ? Peut-il affecter une créature immunisée au froid ? Si la cible réussit son jet de sauvegarde, est-elle tout de même emprisonnée ? Combien de temps dure-t-il ?
+Comme la plupart des maléfices majeurs, <u>[sa](./maléfices.md#Tombedeglace)</u> portée est de 18 m.
+
+Dans la seconde impression de l’*Art de la magie*, le texte dit « Une tempête de glace enveloppe la cible… », il n'affecte donc que les créatures, pas les objets.
+
+La cible n'a besoin ni de manger, ni de respirer, ni de boire.
+
+Le postulat de base pour les effets est que si la créature annule les dégâts de l'effet, elle n'est pas sujette aux effets supplémentaires de l'attaque (comme lorsqu'une RD annule les dégâts d'une arme empoisonnée, la créature de ne pas être sujette au poison). Ainsi, une créature immunisée au froid ne subit aucun dégât du maléfice et ne peut donc pas être emprisonnée.
+
+Une cible qui réussit son jet de sauvegarde réduit les dégâts de moitié et n'est pas emprisonnée.
+
+Dans un milieu tempéré, la glace dure 1 minute par niveau de sorcière. Dans un environnement tropical, cette durée pourrait être réduite de moitié. Dans un environnement froid où la glace et la neige persistent sans fondre, elle pourrait durer indéfiniment.
+
+Les futurs impressions de l’*Art de la magie* inclueront ces clarifications.
+
+
+### Réponses sur les dons et les sorts
+{s:Reference|38}
+#### --Antagoniste : Le DD pour utiliser le don Antagoniste (page 143) est listé comme étant égal au nombre de DV de la cible + son modificateur de Sagesse. Est-ce correct ?
+Non. Le DD pour utiliser le don <u>[Antagoniste](./Antagoniste.md)</u> devrait être de 10 + le nombre de DV de la cible + son modificateur de Sagesse.
+
+Mise à jour : (page 143), dans le don Antagoniste, dans la section avantages, dans le premier paragraphe, deuxième phrase, remplacez « DD égal aux dés de vie de la cible » par « DD égal à 10 + le nombre de DV de la cible ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|39}
+#### --Choisir son destin : Où puis-je trouver le sort '’choisir son destin'’, mentionné dans le protecteur de sorcière des ancêtres et l’un des grimoires du chapitre 2 ?
+Le sort a été abandonné lors du développement. Dans le protecteur de sorcière des ancêtres (page 87) et le grimoire Bibliothèque du danseur de peaux (page 126), remplacez-le par '’[ennemi subconscient](./Ennemi subconscient.md)’’.
+
+Mise à jour : Page 87, remplacez '’choisir son destin'’ par '’ennemi subconscient'’. Page 126, remplacez '’choisir son destin'’ par '’ennemi subconscient'’.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|40}
+#### --Critique de plaie (page 150) : Quelles sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 145).
+Le texte de la <u>[page 150](./Critique de plaie.md)</u> est correct. De la même façon, le texte de [Maîtrise du critique de plaie](./Maîtrise du critique de plaie.md) (page 155) et de [Critique de plaie supérieur](./Critique de plaie supérieur.md) (page 150) ne devrait pas lister Don pour les critiques dans leur prérequis, tout comme leur entrée dans le tableau à la page 145.
+
+Mise à jour : Page 155, Maîtrise du critique de plaie, retirez « Don pour les critiques » des Conditions. Page 150, Critique de plaie, retirez « Don pour les critiques » des Conditions. Page 145, Critique de plaie/Critique de plaie supérieur/Maîtrise du critique de plaie, retirez « Don pour les critiques » des Conditions.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|41}
+#### --Froide frappe de glace (page 228): Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?
+Les Composantes devraient être : V, G.
+Le Temps d’incantation est 1 action rapide.
+La Portée devrait être 9 m et la Zone d’effet devrait être une ligne de 9 m. Toutes les références à un « cône » dans la description du sort devraient indiquer « ligne ».
+
+Mise à jour : Page 228, <u>*[froide frappe de glace](./Froide frappe de glace.md)*</u>, après Temps d’incantation, ajoutez une ligne avec « Composantes V, G ». Remplacez la Portée par « 9 m ». Remplacez la Zone d’effet par « ligne de 9 m ». Remplacez les deux itérations de « cône » dans la description du sort par « ligne ».
+
+Modification : Retrait de la composante M dans cette FAQ.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|42}
+#### --Infestation de vers (page 229): Que signifie la ligne « Temps de préparation » ?
+Cette ligne est un reliquat d’un sous-système abandonné lors du développement. Elle n’a aucun effet sur la version imprimée du sort, vous pouvez donc l’ignorer pour ce sort et tous les autres où elle apparaîtrait.
+
+Mise à jour : Page 229, '’[infestation de vers](./Infestation de vers.md)’’, supprimez la ligne Temps de préparation.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|43}
+#### --Jugement renforcé (page 154) : Quels sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 146).
+Le texte à la page 154 est correct.
+
+Mise à jour : Page 146, [Jugement renforcé](./Jugement renforcé.md), supprimez « deux jugements par jour » des Conditions.-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|44}
+#### --Sort thrénodique (page 158): Quels sont les conditions de ce don ? Le tableau ne correspond pas à la description du don (page 147).
+Le texte à la page 158 est correct.
+
+Mise à jour : Page 147, [Sort thrénodique](./Sort thrénodique.md), remplacez « École renforcée (enchantement) » par « École renforcée (nécromancie) ».-- Les textes ont été corrigés sur ce point.
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|45}
+#### Terrible remords : Si je réussis mon jet de sauvegarde contre *terrible remords* (page 247), suis-je paralysé pendant la durée du sort ?
+Non. Le sort manque de clarté sur ce point. Un personnage ciblé par <u>*[terrible remords](./Terrible remords.md)*</u> ne lance un jet de sauvegarde qu’au début de son tour. À son tour, le personnage doit effectuer un jet de sauvegarde de Volonté. Sur une réussite, il est emporté par le chagrin et ne peut pas agir, mais le sort se termine. Sur un échec, il s’inflige les dégâts indiqués, mais peut agir normalement.
+
+Mise à jour : Page 247, dans la description du sort *terrible remords*, remplacez la dernière phrase par la suivante.
+
+« Si la créature réussit son [jet de sauvegarde](./JDS.md), elle est emportée par le chagrin pendant 1 round, durant lequel elle ne peut pas agir et subit un malus de -2 à la [CA](./CA.md), après quoi le sort se termine. »
+
+<div style="border-top:1px dashed #4b3124">
+{s:Reference|46}
+#### --Tours de magie/Oraisons : Où se trouvent tous les nouveaux sorts de niveau 0 mentionnés dans les grimoires ?
+Les sorts de niveau 0 ont été abandonnés lors du développement. Les futures impressions de l'’’Art de la magie'’ ne les mentionneront plus. Ces tours de magie sont apparus plus tard sur le [blog de Paizo](http://paizo.com/paizo/blog/v5748dyo5lc7e).
+
+Mise à jour : Retirez la ligne 0 — des grimoires aux pages 121, 122, 123, 124 (deux livres), 125, 126 et 127.-- Les textes ont été corrigés sur ce point.
+
+
+### Réponses sur les règles magiques
+{s:Reference|47}
+#### Une créature pour armure (page 114) : Comment les attaques peuvent-elles cibler une créature-armure ? Est-ce que je bénéficie de ses résistances, immunités et autres défenses ? Quels sont les « avantages » et les « inconvénients » mentionnés dans cette section ? La porter affecte-t-il ma vitesse ?
+La <u>[créature pour armure](./Créatures artificielles.md#Les_modifications_complexes_4)</u> est traitée comme une [cuirasse](./cuirasse (armure).md) en terme de CA. Si quelque chose cible le personnage, il doit d’abord atteindre sa CA. Si cette chose le touche, l’attaque doit passer outre la RD, la solidité et les points de vie de la créature artificielle. Dans les faits, la créature-armure agit comme une réserve de points de vie temporaires : le personnage ne subit aucun dégât des attaques qui ciblent sa CA jusqu’à ce que la créature artificielle soit détruite.
+
+Les attaques qui ignorent la CA ignorent aussi sa protection et affectent le personnage normalement (ce qui inclut la plupart des zones d’effet). Si la créature artificielle est résistante ou immunisée à une attaque en particulier, l’attaque ignore sa protection et affecte le personnage normalement. Concrètement, la créature-armure est utile pour mitiger les dégâts des attaques au corps à corps et à distance, mais ne protège pas un personnage comme s’il était véritablement la créature artificielle qu’il porte.
+
+Par exemple, un [golem de bois](./Golem de bois.md) est immunisé à et est soignée par le froid ; si un personnage porte un golem de bois comme armure, le toucher avec un *[rayon de givre](./Rayon de givre.md)* ne blesse pas l’armure, soigne l’armure si l’attaque inflige au moins 3 points de dégâts de froid, et inflige 1d3 points de dégâts de froid au personnage. Pour les mêmes raisons, le personnage ne gagne pas les faiblesses de la créature artificielle ; ce n’est pas parce qu’un golem de bois est vulnérable au feu que le personnage subit 150% de dégâts de feu lorsqu’il porte un golem de bois comme armure.
+
+Les « avantages » font références au fait que la créature-armure est traitée comme une cuirasse et qu’elle agit comme une réserve de points de vie contre les attaques au corps à corps et à distance. Les « inconvénients » font référence au fait que la créature-armure est traitée comme une cuirasse.
+
+Étant donné que la section « compte comme une cuirasse » n’indique pas qu’elle affecte la vitesse du personnage (vraisemblablement parce que la créature artificielle est partiellement animée et capable de l’aider à se mouvoir), elle ne l’affecte pas.
+
+Mise à jour : Page 114 — Dans la modification Une créature pour armure, dans le premier paragraphe, dans la deuxième phrase, remplacez « touche d’abord la créature » par « inflige des dégâts à la créature ». Dans la troisième phrase, remplacez « récupère les inconvénients » par « conserve les inconvénients ».

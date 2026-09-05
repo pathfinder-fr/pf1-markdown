@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Critique sournois
+Title: Critique sournois
+LastModified: 2020-09-03 17:29
+Categories:
+- Contenu supplémentaire
+- Don
+- Don combat
+- Don critique
+- Src Dirty Tactics Toolbox
+---
+
+{s:cs|Dirty Tactics Toolbox}
+
+*Vos coups critiques sont particulièrement mortels.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+
+**Condition.** [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +9, capacité de classe [attaque sournoise](./attaque sournoise.md)
+
+**Avantage.** Lorsque le personnage confirme un coup critique sur une attaque sournoise, il peut lancer un nombre supplémentaire de dés d'attaques égal au multiplicateur critique de son arme.
+
+**Spécial.** Le personnage peut appliquer les effets d'un unique don de critique à un coup critique à moins qu'il ne dispose du don [Maîtrise du critique](./Maîtrise du critique.md).
+
+(((Sneaking Critical (Combat, Critical)
+
+Your critical hits are particularly deadly.
+
+Prerequisites: Critical Focus, base attack bonus +9, sneak attack class feature.
+
+Benefit: Whenever you confirm a critical hit on a sneak attack, you can roll an additional number of sneak attack dice equal to your weapon’s critical modifier.
+
+Special: You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery.)))

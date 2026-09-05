@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Bouclier désarmant (armure)
+Title: Bouclier désarmant (bois/acier)
+LastModified: 2021-10-15 23:01
+Categories:
+- Armure
+- Src Manuel des races
+---
+
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 37/50 po ; **Poids** 7,5/10 kg
+**Bonus de bouclier** +2 ; **Bonus de Dex maximal** — ; **Malus d'armure** -3
+**Risque d'échec des sorts profanes** 15% ; **Vitesse** —/—
+<span class="Catégorie">**Catégorie** [Boucliers](./Tableau récapitulatif des armures.md#TABBOUCLIERS)</span>
+---
+Une dizaine de tiges en bois ou en métal est fixée sur la face avant de ce lourd bouclier. Le personnage peut l’utiliser pour [désarmer](./désarmement.md) ses adversaires.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Anneau guide de Droskar
+Title: Anneau guide de Droskar
+LastModified: 2024-05-25 16:57
+Categories:
+- Objet mag
+- Objet mag anneau
+- Src Dieux et magie
+---
+
+{s:divin|Droskar|%2fPCUP%2fReligion-PNG%2fDroskar.png}<div class="BD">
+{s:BDTitre|Anneau guide de Droskar|{s:ISG}{s:GeM}}
+**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 600 po ; **Poids** —
+(((Description)))
+Cet anneau d’or est déformé et désagréable à porter pendant de longues périodes. Il porte un symbole grossier d’un feu brûlant sous une arche. Le personnage peut utiliser *[charme-personne](./Charme-personne.md)* une fois par jour.
+
+Si le personnage est un suivant de [Droskar](./Droskar (technique).md), à chaque fois qu’il fabrique un objet magique, il peut choisir de payer la moitié de son coût de fabrication ; il travaille sur l’objet normalement mais au moment de l’achever, il y a 50% de chance qu’il soit inutile, non-magique et sans valeur. Par exemple, si créer des bracelets magiques coûte normalement 1 000 po, il peut choisir de ne payer que 500 po mais il y a 50% de chance que les raccourcis qu’il a pris pendant sa fabrication aboutissent à un objet sans valeur.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[charme-personne](./Charme-personne.md)*, *[fabrication](./Fabrication.md)* ; **Coût** 1 300 po
+</div>

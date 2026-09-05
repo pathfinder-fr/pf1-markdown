@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Métacinétique étendue
+Title: Métacinétique étendue
+LastModified: 2024-07-23 17:47
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut augmenter la force destructrice de ses explosions cinétiques de nouvelles façons.*
+
+**Conditions.** Capacités de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) et [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE)
+
+**Avantage.** Le personnage choisi un des dons de métamagie suivants : [Sort perturbateur](./Sort perturbateur.md), [Sort ectoplasmique](./Sort ectoplasmique.md), [Sort furieux](./Sort furieux.md), [Sort miséricordieux](./Sort miséricordieux.md), ou [Sort transperçant](./Sort transperçant.md).
+
+En acceptant 1 point de brûlure, le personnage peut modifier son explosion cinétique comme s'il utilisait ce don de métamagie.
+
+**Spécial.** Ce don peut être sélectionner à plusieurs reprises en choisissant un don de métamagie différent à chaque fois.
+
+(((Expanded Metakinesis
+
+You can augment the destructive force of your kinetic blast in new ways.
+
+Prerequisites: Kinetic blastOA class feature, metakinesis OA class feature.
+
+Benefit: Select one of the following metamagic feats: Disrupting Spell APG , Ectoplasmic Spell APG , Furious Spell OA, Merciful Spell APG , or Piercing Spell UM . By accepting 1 point of burn, you can alter your kinetic blast as if using the selected metamagic feat.
+
+Special: This feat can be chosen multiple times. Each time, you select a different metamagic feat.)))

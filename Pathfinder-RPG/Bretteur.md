@@ -1,0 +1,237 @@
+---
+Name: Pathfinder-RPG.Bretteur
+Title: Le bretteur
+LastModified: 2024-10-02 16:32
+Categories:
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuclasseshybrides}
+<div class="fright">***Voir aussi les [exploits du bretteur](./Exploits (bretteur).md).***
+***Voir aussi les [bravades](./Bravades.md).***
+{s:PM0|bretteur}**Voir les archétypes du bretteur**&emsp;
+<li ID="bretteur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypebretteur}</li>
+</div>{s:MCA}*De nombreux guerriers mènent leurs combats engoncés dans de lourdes armures, de larges et puissantes armes au poing mais les bretteurs privilégient la vitesse, l’agilité et le panache. Ils entrent et sortent de la mêlée en un éclair, épuisant leurs adversaires avec des feintes et des fentes. Il leur sufft d’un simple geste du poignet pour détourner les puissantes attaques qui leur sont destinées d’un vif mouvement de leur lame. Leurs parades habiles et leurs ripostes dévastatrices élèvent le carnage au rang d’art. Certains sont arrogants et insouciants mais, sous ce masque, ce sont des gens entièrement dévoués à leur art. Les bretteurs appartenant aux races de petite taille aiment tout particulièrement prouver qu’il suffit d’un bon dosage de discipline et d’audace pour contrebalancer la force et la taille et ils n’aiment rien tant que vaincre de grosses brutes pataudes et tyranniques.*
+
+{| CLASS="tablo centre autoalt"
+|+ Le bretteur
+|- CLASS="titre"
+| Niveau
+| BBA
+| Réflexes
+| Vigueur
+| Volonté
+| CLASS="gauche" | Spécial
+|- CLASS="premier"
+| 1
+| +1
+| +2
+| +0
+| +0
+| CLASS="gauche" | [Exploits](./Bretteur.md#EXPLOITS), [finesse du bretteur](./Bretteur.md#FINESSEDUBRETTEUR), [panache](./Bretteur.md#PANACHE)
+|-
+| 2
+| +2
+| +3
+| +0
+| +0
+| CLASS="gauche" | [Charmante vie](./Bretteur.md#CHARMANTEVIE) 3/jour
+|-
+| 3
+| +3
+| +3
+| +1
+| +1
+| CLASS="gauche" | [Agilité](./Bretteur.md#AGILITE) +1, [exploits](./Bretteur.md#EXPLOITS)
+|-
+| 4
+| +4
+| +4
+| +1
+| +1
+| CLASS="gauche" | [Don supplémentaire](./Bretteur.md#DONSUPPLEMENTAIRE)
+|-
+| 5
+| +5
+| +4
+| +1
+| +1
+| CLASS="gauche" | [Entraînement aux armes du bretteur](./Bretteur.md#ENTRAINEMENTAUXARMES) 1
+|-
+| 6
+| +6/+1
+| +5
+| +2
+| +2
+| CLASS="gauche" | [Charmante vie](./Bretteur.md#CHARMANTEVIE) 4/jour
+|-
+| 7
+| +7/+2
+| +5
+| +2
+| +2
+| CLASS="gauche" | [Agilité](./Bretteur.md#AGILITE) +2, [exploits](./Bretteur.md#EXPLOITS)
+|-
+| 8
+| +8/+3
+| +6
+| +2
+| +2
+| CLASS="gauche" | [Don supplémentaire](./Bretteur.md#DONSUPPLEMENTAIRE)
+|-
+| 9
+| +9/+4
+| +6
+| +3
+| +3
+| CLASS="gauche" | [Entraînement aux armes du bretteur](./Bretteur.md#ENTRAINEMENTAUXARMES) 2
+|-
+| 10
+| +10/+5
+| +7
+| +3
+| +3
+| CLASS="gauche" | [Charmante vie](./Bretteur.md#CHARMANTEVIE) 5/jour
+|-
+| 11
+| +11/+6/+1
+| +7
+| +3
+| +3
+| CLASS="gauche" | [Agilité](./Bretteur.md#AGILITE) +3, [exploits](./Bretteur.md#EXPLOITS)
+|-
+| 12
+| +12/+7/+2
+| +8
+| +4
+| +4
+| CLASS="gauche" | [Don supplémentaire](./Bretteur.md#DONSUPPLEMENTAIRE)
+|-
+| 13
+| +13/+8/+3
+| +8
+| +4
+| +4
+| CLASS="gauche" | [Entraînement aux armes du bretteur](./Bretteur.md#ENTRAINEMENTAUXARMES) 3
+|-
+| 14
+| +14/+9/+4
+| +9
+| +4
+| +4
+| CLASS="gauche" | [Charmante vie](./Bretteur.md#CHARMANTEVIE) 6/jour
+|-
+| 15
+| +15/+10/+5
+| +9
+| +5
+| +5
+| CLASS="gauche" | [Agilité](./Bretteur.md#AGILITE) +4, [exploits](./Bretteur.md#EXPLOITS)
+|-
+| 16
+| +16/+11/+6/+1
+| +10
+| +5
+| +5
+| CLASS="gauche" | [Don supplémentaire](./Bretteur.md#DONSUPPLEMENTAIRE)
+|-
+| 17
+| +17/+12/+7/+2
+| +10
+| +5
+| +5
+| CLASS="gauche" | [Entraînement aux armes du bretteur](./Bretteur.md#ENTRAINEMENTAUXARMES) 4
+|-
+| 18
+| +18/+13/+8/+3
+| +11
+| +6
+| +6
+| CLASS="gauche" | [Charmante vie](./Bretteur.md#CHARMANTEVIE) 7/jour
+|-
+| 19
+| +19/+14/+9/+4
+| +11
+| +6
+| +6
+| CLASS="gauche" | [Agilité](./Bretteur.md#AGILITE) +5, [exploits](./Bretteur.md#EXPLOITS)
+|-
+| 20
+| +20/+15/+10/+5
+| +12
+| +6
+| +6
+| CLASS="gauche" | [Don supplémentaire](./Bretteur.md#DONSUPPLEMENTAIRE), [maîtrise des armes du bretteur](./Bretteur.md#MAITRISEDESARMES)
+|}
+
+{s:ImageDroite|Illustrations/PNJ/Jirelle.jpg|30%}
+**Rôle.** Le bretteur combine un jeu de jambes fantaisiste avec des fentes rapides et précises. Il va et vient parmi ses adversaires qu’il harcèle et déstabilise. Ces combattants rapides et agiles servent de protecteurs aux lanceurs de sorts, aident les roublards et les tueurs à prendre leurs ennemis en tenaille et attendent patiemment une occasion de briller et de porter le coup de grâce à une quelconque brute épaisse. Ils affrontent la mort avec un humour narquois et s’en moquent avec beaucoup de finesse.
+
+**Classes mères.** [Guerrier](./Guerrier.md) et [pistolier](./Pistolier.md).
+
+**Alignement.** Tous.
+
+**Dé de vie.** d10.
+
+**Argent de départ.** 5d6 x 10 po (moyenne 175 po).
+
+### Compétences de classe
+Voici les compétences de classe du bretteur : [Acrobaties](./Acrobaties.md) (Dex), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (folklore local) (Int), [Connaissances](./Connaissances.md) (noblesse) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Escamotage](./Escamotage.md) (Dex), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag) et [Représentation](./Représentation.md) (Cha).
+
+**Rangs de compétence par niveau ** 4 + modificateur d’[Intelligence](./Intelligence.md).
+
+### Descriptif de la classe
+Voici les aptitudes de classe du bretteur.
+
+#### Armes et armures
+Le bretteur est formé au maniement de toutes les [armes courantes](./arme courante.md) et [de guerre](./arme de guerre.md), ainsi qu’au port des [armures légères](./armure légère.md) et au maniement des [targes](./targe (armure).md).
+
+{s:Reference|PANACHE}
+#### Panache (Ext)
+Le bretteur n’est pas un simple guerrier à l’[armure légère](./armure légère.md), c’est un combattant audacieux qui se bat avec panache, ce panache étant la monnaie fluctuante qui lui permet d’accomplir des actions d’éclat lors d’un affrontement. Chaque matin, le bretteur gagne un nombre de points de panache égal à son modificateur de [Charisme](./Charisme.md) (1 au minimum). Ce panache augmente et diminue au cours de la journée mais ne peut pas dépasser la valeur du modificateur de Charisme du bretteur (1 au minimum), à moins d’utiliser un don ou un objet magique qui modifie ce minimum. Le bretteur dépense du panache pour accomplir des exploits (voir plus bas) et le récupère de diverses manières.
+
+**Coup critique avec une arme perforante légère ou à une main de corps à corps.** Le bretteur récupère un point de panache à chaque fois qu’il confirme un [coup critique](./coup critique.md) avec une arme perforante légère ou à une main de corps à corps. Ce n’est pas le cas s’il confirme ce coup critique contre une créature sans défense ou qui n’est pas consciente du danger, ou qui possède moins de [DV](./DV.md) que la moitié du niveau de personnage du bretteur.
+
+**Coup de grâce avec une arme perforante légère ou à une main de corps à corps.** Le bretteur récupère un point de panache quand il fait tomber une créature à 0 [point de vie](./pv.md) ou moins lors d’une attaque portée en plein combat avec une arme perforante légère ou à une main de corps à corps. Il ne récupère pas de panache s’il détruit un objet abandonné, s’il réduit une créature [sans défense](./Sans défense.md) ou qui n’est pas consciente du danger à 0 point de vie ou moins ou encore s’il réduit une créature possédant moins de DV que la moitié de son niveau de personnage à 0 point de vie ou moins.
+
+
+{s:Reference|EXPLOITS}
+#### Exploits
+{s:Desambi|L’[audace](./Pistolier.md#AUDACE) du pistolier et le [panache](./Bretteur.md#PANACHE) du bretteur représentent deux voies d’accès au même réservoir héroïque. Les personnages possédant les capacités de classe audace et panache fusionnent ces deux ressources dans une grande réserve commune contenant à la fois l’audace et le panache.
+
+En ce qui concerne les conditions requises par un [don](./Dons.md), un personnage disposant de la capacité de classe panache remplit les mêmes conditions que s’il utilisait l’audace et vice versa. Vis-à-vis des dons, des objets magiques et autres effets, un utilisateur de panache dépense et gagne des points de panache au lieu de points d’audace et inversement.}Le bretteur dépense ses points de [panache](./Bretteur.md#PANACHE) pour accomplir des exploits. Ces derniers lui confèrent souvent un bonus ou un effet temporaire mais certains appliquent des effets à plus long terme. Certains exploits font effet tant que le bretteur possède au moins un point de panache mais ne lui demandent aucune dépense pour les maintenir. Le bretteur ne peut pas accomplir un exploit accessible à partir d’un niveau supérieur au sien. Sauf indication contraire, le bretteur peut accomplir un exploit à plusieurs reprises, tant qu’il dépense ou possède le nombre de points de panache requis.
+
+*Voir la [liste des exploits](./Exploits (bretteur).md).*
+
+{s:Reference|FINESSEDUBRETTEUR}
+#### Finesse du bretteur (Ext)
+Au niveau 1, le bretteur bénéficie des avantages conférés par le don [Attaque en finesse](./Attaque en finesse.md) avec les armes de corps à corps perforantes légères ou à une main. De plus, il peut utiliser sa valeur de [Charisme](./Charisme.md) au lieu de sa valeur d’[Intelligence](./Intelligence.md) vis-à-vis des conditions requises pour les [dons de combat](./Dons.md#DONCOMBAT). On considère qu’un bretteur avec cette aptitude possède le don Attaque en finesse quand il s’agit de remplir les conditions requises par d’autres dons.
+
+{s:Reference|CHARMANTEVIE}
+#### Charmante vie (Ext)
+À partir du niveau 2, le bretteur développe un don spécial pour se sortir des situations délicates. Trois fois par jour, il peut, par une [action immédiate](./Action immédiate.md) et avant d’effectuer un [jet de sauvegarde](./JDS.md), ajouter son modificateur de [Charisme](./Charisme.md) au résultat de ce jet de sauvegarde. Il doit choisir de faire cela avant de lancer le dé. Au niveau 6 puis tous les quatre niveaux, il a droit à une utilisation de ce pouvoir supplémentaire par jour (pour un maximum de sept fois par jour au niveau 18).
+
+{s:Reference|AGILITE}
+#### Agilité (Ext)
+Au niveau 3, le bretteur gagne un bonus d’esquive de +1 à la [CA](./CA.md) tant qu’il ne porte pas d’armure ou seulement une [armure légère](./armure légère.md). S’il perd son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md), il perd aussi ce bonus d’esquive. Ce bonus augmente de 1 tous les quatre niveaux après le troisième (pour un maximum de +5 au niveau 19).
+
+{s:Reference|DONSUPPLEMENTAIRE}
+#### Don supplémentaire
+Au niveau 4 puis tous les quatre niveaux, le bretteur gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les [dons de combat](./Dons de combat.md). Il considère ses niveaux de bretteur comme des niveaux de guerrier quand il s’agit de remplir les conditions requises.
+
+De plus, quand le bretteur atteint le niveau 4 puis tous les quatre niveaux, il peut apprendre un nouveau don à la place d’un autre qu’il connaît déjà. En pratique, il perd l’usage de l’ancien don pour bénéficier du nouveau. Il ne peut pas abandonner
+un don qui sert de condition requise pour un autre ou pour une classe de prestige ou une aptitude. Le bretteur ne peut échanger qu’un seul don à chaque niveau autorisé et doit décider de cela au moment où il choisit le nouveau don supplémentaire du niveau.
+
+{s:mca}**Les bravades.** Les bravades sont similaires aux exploits en ce qu’elles confèrent au [pistolier](./Pistolier.md) ou au [bretteur](./Bretteur.md) des pouvoirs supplémentaires basés sur son [audace](./Pistolier.md#AUDACE) ou son [panache](./Bretteur.md#PANACHE). Toutefois, à la différence des exploits, les bravades s’activent quand la réserve de point que les membres de ces classes utilisent est vide et deviennent inactives dès que la réserve de ces personnages contient au moins un point. Les bravades confèrent aux personnages un avantage et un nouveau pouvoir qui leur permet de regagner des points ou d’augmenter les possibilités de récupération des points d’audace ou de panache.
+
+Une bravade se choisit à la place de l’un des dons supplémentaires qu’un [pistolier](./Pistolier.md#DONSUPPLÉMENTAIRE) ou un [bretteur](./Bretteur.md#DONSUPPLEMENTAIRE) gagne au niveau 4 et tous les 4 niveaux par la suite. Un pistolier ou un bretteur peut posséder plusieurs bravades, mais seule l’une d’elles peut être active en même temps dès que la réserve du personnage ne contient plus aucun point d’audace ou de panache. Une fois la bravade active choisie, le pistolier ou le bretteur ne peut plus en changer à moins que sa réserve de points de panache ou d’audace ne soit de nouveau vide.
+
+{s:Reference|ENTRAINEMENTAUXARMES}
+#### Entraînement aux armes du bretteur (Ext)
+Au niveau 5, le bretteur gagne un bonus de +1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) réalisés avec une arme de corps à corps perforante légère ou à une main. Tant qu’il manie une arme de ce type, il bénéficie des avantages conférés par le don [Science du critique](./Science du critique.md). Ces bonus à l’attaque et aux dégâts augmentent de +1 tous les quatre niveaux après le 5<sup>ème</sup>, pour un maximum de +4 au niveau 17.
+
+{s:Reference|MAITRISEDESARMES}
+#### Maîtrise des armes du bretteur (Ext)
+Au niveau 20, le bretteur confirme automatiquement les [coups critiques](./coup critique.md) infligés avec une arme de corps à corps perforante légère ou à une main. De plus, le [facteur de critique](./coup critique.md) de ses armes augmente de 1 (×2 devient ×3, etc.).

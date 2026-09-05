@@ -1,0 +1,55 @@
+---
+Name: Pathfinder-RPG.Actions de mouvement
+Title: Actions de mouvement
+LastModified: 2024-08-29 15:45
+Categories:
+- Combat
+---
+
+{s:MenuCombat}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>À l’exception des mouvements spécifiques liés aux compétences, la plupart des actions de mouvement ne nécessitent pas de test.  Pour déterminer si une action de mouvement provoque ou non une [attaque d'opportunité](./attaque dopportunité.md), référez-vous au tableau des "[Actions de mouvement en combat](./Types dactions.md#MOUVEMENT)".
+
+{s:Reference|DEPLACEMENT}
+### Déplacement
+L’action de mouvement la plus courante consiste à se déplacer sur une distance égale à sa vitesse. Si le personnage effectue une action de ce type pendant son tour, il ne peut pas faire de [pas de placement](./Pas de placement.md).
+
+La plupart des formes de déplacement utilisent ce type d’action, y compris l’[escalade](./Escalade.md) (à un quart de la vitesse de base) et la [nage](./Natation.md) (à un quart de la vitesse de base).
+
+**Escalade accélérée.** Le personnage peut grimper à la moitié de sa vitesse de base lors d’une action de mouvement avec un malus de -5 au test d’[Escalade](./Escalade.md).
+
+**Ramper.** Un personnage peut ramper sur 1,50 m lors d’une action de mouvement. Il s’expose alors à une [attaque d’opportunité](./attaque dopportunité.md) de la part de tous les adversaires qui le menacent, en tout point de son déplacement.
+
+{s:Reference|DIRIGERREDIRIGERSORT}
+### Diriger ou rediriger un sort
+Un personnage peut rediriger les effets de certains sorts vers une nouvelle cible ou zone d’effet une fois le sort lancé, ce qui demande une action de mouvement, ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) et ne nécessite aucune concentration.
+
+{s:Reference|DEGAINERRENGAINERARME}
+### Dégainer ou rengainer une arme
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#23) Dégainer et rengainer des objets semblables à des armes : Je sais que je peux dégainer ou rengainer un objet semblable à une arme par une action de mouvement en utilisant l’action « Dégainer ou rengainer une arme », mais si j’ai un BBA de +1 ou plus, puis-je dégainer un objet semblable à une arme avec un déplacement classique ?***
+
+Oui. Comme explicité dans le [tableau page 183](./Types dactions.md#NOTE3), quand un personnage a un [BBA](./BBA.md) de +1 ou plus, il peut combiner l’action de <u>[dégainer ou rengainer une arme](./Actions de mouvement.md#DEGAINERRENGAINERARME)</u> (pour dégainer une arme) avec une [action de mouvement](./Action de mouvement.md). Ainsi toutes les règles pour dégainer ou rengainer une arme s’appliquent, y compris la capacité de dégainer un objet semblable à une arme.}Une action de mouvement permet de dégainer une arme pour se battre avec ou de la ranger pour avoir une main libre. Cette action s’applique aussi à des objets assimilés aux armes et rangés à portée de main, comme les [baguettes](./Baguettes magiques.md). Par contre, si une arme ou un objet similaire est rangé au fond d’un sac ou dans un autre endroit difficile d’accès, il faut une action du type « [manipuler un objet](./Actions de mouvement.md#MANIPULERUNOBJET) » pour le récupérer.
+
+Si le personnage a un [bonus de base à l’attaque](./bonus de base à lattaque.md) de +1 ou plus, il peut dégainer une arme par une [action libre](./Action libre.md) combinée à un déplacement normal. S’il dispose du don [Combat à deux armes](./Combat à deux armes.md), il peut dégainer deux armes légères ou à une main aussi rapidement que s’il en dégainait une seule.
+
+Une [action libre](./Action libre.md) suffit pour rechercher une munition d’arme à distance, comme une flèche, un carreau, une bille ou un shuriken.
+
+{s:Reference|MANIPULERUNOBJET}
+### Manipuler un objet
+Dans la plupart des cas, déplacer ou manipuler un objet est une action de mouvement.
+
+Cela permet de récupérer un objet dans un sac ou de l’y ranger, de ramasser un objet à terre, de déplacer un objet lourd ou d’ouvrir une porte. Le tableau "[Actions de mouvement en combat](./Types dactions.md#MOUVEMENT)" propose des exemples de ce type d’action et indique si elles provoquent ou non une [attaque d’opportunité](./attaque dopportunité.md).
+
+{s:Reference|MONTERDESCENDREDESELLE}
+### Monter ou descendre de selle
+Une action de mouvement est nécessaire pour monter ou descendre de sa monture.
+
+**Se mettre en selle ou mettre pied à terre rapidement.** Le personnage peur se mettre en selle ou mettre pied à terre par une [action libre](./Action libre.md), à condition de réussir un test d’[Équitation](./Équitation.md) DD 20. S’il rate ce test, cela lui demande automatiquement une action de mouvement (le personnage ne peut pas tenter cette manœuvre sans avoir au moins une action de mouvement disponible au cours du round).
+
+{s:Reference|PREPARERBOUCLIER}
+### Préparer ou détacher un bouclier
+Le personnage utilise une action de mouvement pour s’attacher un bouclier au bras afin de bénéficier de son bonus à la [CA](./CA.md), ou pour le détacher et le lâcher un bouclier afin d’avoir une main libre. Si le personnage a un [bonus de base à l’attaque](./BBA.md) de +1 ou plus, il peut préparer ou détacher un bouclier par une [action libre](./Action libre.md) combinée à un déplacement normal.
+
+Le personnage peut lâcher un bouclier tenu en main (s’il n’est pas attaché) par une [action libre](./Action libre.md).
+
+{s:Reference|SERELEVER}
+### Se relever
+Un personnage à terre peut se relever par une action de mouvement qui provoque une [attaque d’opportunité](./attaque dopportunité.md).

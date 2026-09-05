@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Maître des merveilles
+Title: Maître des merveilles
+LastModified: 2020-07-18 20:41
+Categories:
+- Don
+- Manuel des races
+---
+
+{s:MR}*Après avoir vu tant de merveilles dans le monde, le personnage sait comment exacerber le chaos d’un sceptre merveilleux.*
+
+**Conditions.** [Volonté de fer](./Volonté de fer.md), membre des Chercheurs de merveilles, [gnome](./Gnome.md)
+
+**Avantage.** Lorsqu’il active un [sceptre merveilleux](./Sceptre merveilleux.md), le personnage lance 1d100 pour déterminer l’effet que le sceptre devrait créer. S’il le souhaite, il peut lancer de nouveau 1d100 et garder ce second résultat. Le personnage peut utiliser cette capacité une seule fois par [round](./round.md).

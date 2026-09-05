@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Apaise-tripes (objet)
+Title: Apaise-tripes (fiole)
+LastModified: 2021-09-19 20:09
+Categories:
+- Équipement
+- Src Manuel des races
+---
+
+{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+La consommation de cette fiole de liquide bleuâtre insipide accorde un bonus alchimique de +5 aux [jets de sauvegarde](./JDS.md) pour éviter d’être [nauséeux](./Nauséeux.md) ou [fiévreux](./Fiévreux.md) pendant 1 heure. Si le [gobelin](./Gobelin (race).md) est déjà nauséeux, il peut boire de l’apaise-tripes par une [action de mouvement](./Action de mouvement.md). Sa consommation lui donne droit à un second jet de sauvegarde (sans le bonus de +5). Les gobelins utilisent souvent l’apaise-tripes pour pouvoir avaler la viande ou d’autres formes de nourriture avariées ou dans un état de décomposition avancé.

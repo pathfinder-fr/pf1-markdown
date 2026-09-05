@@ -1,0 +1,8 @@
+---
+{}
+---
+
+<div class="TitreSectionRessources" style="width: 846px; height: 105px; border-bottom: 2px solid #e7dfc6">
+<p class="right" style="text-align: center; padding-top: 80px">[*Retour au menu des ressources*](./../ADJ/MainPage.md)</p>
+<img src="Public/Upload/?1?" style="padding-left: 248px; width: 350px">
+</div>

@@ -1,0 +1,11 @@
+---
+Name: Golarion.Bois-frisson
+Title: Bois-frisson
+LastModified: 2010-11-17 16:12
+Categories:
+- Géographie
+- Plaie du Monde
+- Ustalav
+---
+
+Bois-frisson est une grande forêt inhabitée du nord de l'[Avistan](./Avistan.md). Elle est située à cheval sur les territoires de la [Plaie du Monde](./Plaie du monde.md) et de l'[Ustalav](./Ustalav.md).

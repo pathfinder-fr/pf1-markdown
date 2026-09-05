@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Mémoire collective
+Title: Mémoire collective
+LastModified: 2020-12-13 15:04
+Categories:
+- Don
+- Don équipe
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:RSE}*Le personnage et ses alliés savent mettre rapidement leurs souvenirs en commun pour se rappeler des faits essentiels.*
+
+**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+
+**Avantage.** Quand un allié, qui dispose aussi de ce don, se trouve à 9 m du personnage ou moins et qu’il tente un test de [Connaissances](./Connaissances.md), le personnage peut utiliser l’action [aider quelqu’un](./aider qqn.md) par une [action libre](./Action libre.md), pour améliorer son test.
+
+Pour utiliser ce don, le personnage doit posséder au moins un rang dans la compétence de Connaissances que son allié utilise.
+
+S’il réussit ce test, il apprend automatiquement les mêmes informations que son allié, comme si c’était lui qui avait fait le test. À partir du moment où il a utilisé ce don, que son action soit réussie ou non, le personnage ne peut pas faire de test de Connaissances pour obtenir la même information que celle que cherchait son allié.

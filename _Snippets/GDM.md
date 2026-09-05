@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<a href="/Wiki/Pathfinder-RPG.Guide du maître (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Gamemastery Guide/Guide du maître" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoGDM.gif" style="opacity: 0.7" loop="infinite" />
+</a>

@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Manuel dorigamis animaux
+Title: Manuel d'origamis animaux
+LastModified: 2024-06-15 22:09
+Categories:
+- Objet mag merveilleux
+- Src Aventures occultes
+---
+
+<div class="BD">
+{s:BDTitre|Manuel d'origamis animaux|{s:AO}}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 13 500 po ; **Poids** 7.5 kg
+(((Description)))
+Cet imposant manuel à la reliure métallique contient de fines pages de cuivre sur lesquelles sont inscrits des symboles magiques et les points de pliage précis à réaliser pour créer divers origamis animaux. Dès qu’une ou plusieurs pages de cuivre sont arrachées et pliées, elles grandissent par magie pour prendre la forme origamique et approximative de la créature correspondante. Une fois créée, chaque créature origamique bénéficie d’un semblant de vie, comme si son animation était due à une animation d’objets, et obéit aux ordres de son créateur.  
+
+L’utilisateur peut plier les pages pour créer une incroyable diversité de [créatures artificielles animées](./Objet animé.md) de taille P, M et G. La création d’une créature de taille P nécessite une page, celle d’une créature de taille M deux pages et celle d’une créature de taille G quatre pages. Chaque créature artificielle créée par le manuel est construite avec le nombre de points de construction (PC) et de points de vie indiqué par défaut pour une créature de sa taille. Toutefois, tous les origamis animés acquièrent gratuitement la capacité métal conférée par les points de construction.  
+
+Le manuel ne peut pas créer des créatures artificielles composées d’autres métaux ou de pierre, mais il est possible d’ajouter des PC à une création au prix d’une page par point. Cette possibilité applique toutes les règles de la création d’objets animés et les origamis d’animaux ne peuvent jamais sélectionner la même capacité de PC plus d’une fois. Le manuel contient toutes les instructions pour créer une infinie diversité de créatures fantastiques, uniquement limitée par l’imagination et l’ingéniosité de son utilisateur. Par exemple, l’utilisateur peut effectuer les pliages avec deux pages pour créer un animal semblable à un gorille de taille M, puis arracher trois pages supplémentaires pour lui conférer les capacités d’attaque supplémentaire, de constriction et d’étreinte, pour un total de cinq pages.  
+
+La création d’un origami animal nécessite l’accomplissement d’une [types dactions#action complexe](./Types dactions.md#action complexe). Chaque origami reste animé pendant une heure avant de s’effondrer en copeaux de cuivre irrécupérables. Les manuels d’origamis animaux nouvellement créés contiennent 50 pages, mais la plupart de ceux que l’on découvre ne contiennent plus que 2d20 + 10 pages intactes.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[animation d'objets](./Animation dobjets.md)* ; **Coût** 6 750 po
+</div>

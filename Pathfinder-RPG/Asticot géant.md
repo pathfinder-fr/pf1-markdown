@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Asticot géant
+Title: Parasite, Asticot géant
+LastModified: 2022-09-08 13:51
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Asticot géant|FP 3}
+{s:BDTexte|*Source : Bestiaire 3 page 212*}
+{s:BDTexte|**PX** 800}
+{s:BDTexte|[Vermine](./type Vermine.md) de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [perception aveugle](./Perception aveugle (capacité).md) à 9 m (6 {s:c}); [Perception](./Perception.md) +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 12, pris au dépourvu 14 (Dex +1, naturelle +3, taille +1)}
+{s:BDTexte|**pv** 34 (4d8+16)}
+{s:BDTexte|**Réf** +2, **Vig** +8, **Vol** +1}
+{s:BDTexte|**[Immunités](./Immunité (capacité).md)** effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 plus poison et étreinte)}
+{s:BDTexte|**Attaques spéciales** double morsure, [étreinte](./Étreinte (capacité).md) (M)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 14, **Dex** 12, **Con** 18, **Int** —, **Sag** 10, **Cha** 1}
+{s:BDTexte|**BBA** +3 ; **BMO** +4 (+8 lutte) ; **DMD** 15}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous}
+{s:BDTexte|**Organisation** solitaire, couple ou nid (3-8)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Double morsure (Ext).** Un asticot qui agrippe un ennemi et décide de le blesser avec un test de lutte supplémentaire inflige deux fois les dégâts normaux de sa morsure (2d6+6 pour la plupart des asticots), en plus de lui injecter une dose de poison supplémentaire à chaque test réussi.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* Vigueur DD 16 ; *fréquence* 1/round pendant 5 rounds ; *effet* affaiblissement temporaire de 1d3 For ; guérison 1 réussite.}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de parasite
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Asticot géant](./Asticot géant.md) || 3
+|-
+| [Nuée d'asticots](./nuée dasticots.md) || 7
+|}
+</div>*Cet asticot blafard qui se tortille fait la même taille qu’un gros chien. Sa gueule circulaire frémit, haletante, au bout de son corps qui pulse.*
+
+Les asticots sont des parasites abjects et écœurants qui se nourrissent de la chair et se servent des cadavres comme nids où se développer. Si l’asticot peut se nourrir de la chair morte, il recherche surtout la chair des vivants. Heureusement, les nuées d’asticots se rencontrent rarement puisqu’il leur faut infester des carcasses de créature de taille TG, ou plus grandes, pendant de nombreuses semaines avant de développer le nombre d’asticots nécessaire pour constituer une nuée. Dans certains cas, l’asticot continue de se nourrir et de se développer, atteignant alors une taille énorme et devenant un asticot géant.
+</div></td></tr></table>

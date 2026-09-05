@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction de la faune
+Title: Bénédiction de la faune
+LastModified: 2024-12-11 00:25
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Fureur animale *(mineur)*
+Au niveau 1, le prêtre combattant peut toucher un allié pour lui conférer des caractéristiques animales. L’allié gagne deux attaques de griffes qui infligent chacune 1d6 points de dégâts si l’allié est de taille M (1d4 s’il est de taille P), ou bien une attaque de morsure qui inflige 1d8 points de dégâts s’il est de taille M (1d6 s’il est de taille P). Ce sont des attaques naturelles principales qui remplacent celles éventuellement possédées par l’allié. Cet effet dure une minute.
+
+#### Compagnon de combat *(majeur)*.
+Au niveau 10, le prêtre combattant peut invoquer un compagnon de combat. Cette bénédiction fonctionne comme *[convocation d’alliés naturels V](./Convocation dalliés naturels V.md)* et dure une minute. Il permet d’invoquer un animal seulement, peu importe la liste utilisée. Tous les deux niveaux après le niveau 10, le niveau du sort de convocation augmente de 1, pour atteindre au maximum *[convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md)* au niveau 18.

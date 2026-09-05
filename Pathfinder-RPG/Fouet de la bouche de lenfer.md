@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Fouet de la bouche de lenfer
+Title: Fouet de la bouche de l’enfer
+LastModified: 2020-07-10 01:38
+Categories:
+- Manuel des races
+- Règles officielles
+- Sort
+- Sort magicien 4
+- Sort sanguin 4
+- Sort sorcière 4
+---
+
+{s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}{s:MR}
+**École** [Transmutation](./Transmutation.md) (acide, électricité ou feu) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V,G](./composantes.md)  
+
+**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+
+**Cible** lanceur de sort  
+
+**Durée** [1 round/niveau (T)](./Présentation des sorts.md#DUREE)
+
+Lorsque le personnage [lance ce sort](./Lancer des sorts.md), sa langue se transforme en un fouet d’énergie infligeant des dégâts d’acide, d’électricité ou de feu. Le lanceur choisit quel type de dégâts d’énergie le sort inflige lorsqu’il le lance. Il attaque avec sa langue comme s’il s’agissait d’un fouet, à la seule différence qu’il porte des [attaques de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) et peut blesser les créatures ayant une [armure](./Tableau récapitulatif des armures.md) ou des [bonus d’armure naturelle](./Valeurs de combat.md#BONUSARMURENATURELLE). Une attaque de contact réussie avec la langue inflige 1d8 points de dégâts d’énergie par tranche de 2 [niveaux de lanceur de sorts](./Lancer des sorts.md#NLS) (maximum de 5d8 points de dégâts au niveau 10). Lorsque le sort est actif, le lanceur ne peut pas parler, ni lancer de sorts à [composante verbale](./Présentation des sorts.md#COMPOSANTES), ni [activer d’objets nécessitant un mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE). Le sort est du registre acide, électricité ou feu, en fonction du type d’énergie que choisit le lanceur au moment de l’incantation.

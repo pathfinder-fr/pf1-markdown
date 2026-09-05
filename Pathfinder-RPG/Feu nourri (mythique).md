@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Feu nourri (mythique)
+Title: Feu nourri (mythique)
+LastModified: 2018-07-21 00:32
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Le personnage peut tirer sans problème un barrage de flèches sur sa cible.*
+
+**Conditions.** [Feu nourri](./Feu nourri.md)
+
+**Avantage.** Lorsqu’il effectue une [attaque à outrance](./attaque à outrance.md) avec un arc en utilisant [Feu nourri](./Feu nourri.md), le personnage peut tirer deux flèches à chaque fois lors de sa première et de sa deuxième attaque au lieu de deux flèches uniquement lors de la première attaque.

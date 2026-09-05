@@ -1,0 +1,13 @@
+---
+Name: Golarion.Jalrune
+Title: Jalrune [Jalrune River]
+LastModified: 2010-01-09 13:58
+Categories:
+- Géographie
+- Qadira
+- Taldor
+---
+
+Fleuve servant de frontière au [Taldor](./Taldor.md) et au [Qadira](./Qadira.md).
+
+Il a été traversé à de nombreuses reprises par les armées qadiranes de l'Empire du [Kélesh](./Kélesh.md) lors de la grande guerre qui vit s'affronter les deux nations.

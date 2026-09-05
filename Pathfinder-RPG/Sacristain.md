@@ -1,0 +1,56 @@
+---
+Name: Pathfinder-RPG.Sacristain
+Title: Kyton, Sacristain
+LastModified: 2021-04-06 00:03
+Categories:
+- Monstre
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Sacristain|FP 10}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire 4 page 171*}
+- **9 600 PX**
+- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM
+- **Init **+3 ; **Sens **vision dans le noir à 18 m ; Perception +17
+(((Défense)))
+- **CA **22, contact 13, pris au dépourvu 19 (Dex +3, naturelle +9)
+- **pv **126 (12d10+60) ; régénération 5 (armes et sorts du Bien, argent)
+- **Réf **+7, **Vig** +13, **Vol** +10
+- **RD **10/argent ou Bien ; **Immunités** froid ; **RM **21
+(((Attaque)))
+- **VD **9 m
+- **Corps à corps** chaîne cloutée de maître, +18/+13/+8 (2d4+7) ou 2 griffes, +17 (1d4+5)
+- **Espace **1,50 m ; **Allonge **1,50 m (3 m avec la chaîne cloutée)
+- **Attaques spéciales** hurlement des ombres, regard déstabilisant (9 m, DD 18)
+(((Statistiques)))
+- **For **20, **Dex **16, **Con **21, **Int **13, **Sag **14, **Cha** 15
+- **BBA **+12 ; **BMO **+17 (+19 en bousculade) ; **DMD **30 (32 contre la bousculade)
+- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Succession d’enchaînements](./Succession denchaînements.md)
+- **Compétences **[Acrobaties](./Acrobaties.md) +15, [Bluff](./Bluff.md) +17, [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +17, [Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17
+- **Langues **commun, infernal
+(((Écologie)))
+- **Environnement **quelconque (plan de l’Ombre)
+- **Organisation **solitaire, paire, peloton de gardes  du corps (1d4 plus 1 kyton d’un FP inférieur (généralement un ostiarius)) ou suite (2d6 plus 1 kyton d’un FP supérieur)
+- **Trésor **standard
+(((Pouvoirs spéciaux)))
+- **Hurlement des ombres (Sur)**. Une fois par heure par une action simple, le sacristain peut faire fi des entraves qui maintiennent sa bouche fermée pour émettre une cacophonie de hurlements et de ténèbres traumatisants surgis des tréfonds du plan de l’Ombre. Des ténèbres profondes couvrent toute la zone sur un rayon de 7,50 mètres autour du sacristain. Les créatures à l’intérieur de cette zone sont assourdies tant qu’elles y restent et doivent réussir un jet de Volonté DD 18 pour ne pas être confuses. L’effet de confusion persiste tant que la créature reste dans la zone d’effet du hurlement des ombres et pendant 1d4 rounds après l’avoir quittée. Une créature qui tombe dans l’inconscience alors qu’elle subit les effets de cette confusion doit réussir un jet de Volonté supplémentaire DD 18 pour ne pas se voir affligée d’une folie déterminée aléatoirement (utilisez la table page 250 du Guide du maître Pathfinder JdR pour la déterminer). Le hurlement des ombres du sacristain dure 3 rounds et reste centré sur le kyton, même si celui-ci se déplace. Le sacristain peut mettre fin au hurlement quand il le souhaite. Ce hurlement prend également fin si le sacristain est tué ou s’il est affecté par un sort de verrou dimensionnel, ce qui l’empêche d’utiliser ce pouvoir tant que le sort est actif. Le DD du jet de sauvegarde est basé sur le Charisme. 
+- **Regard déstabilisant (Ext)**. Une créature qui succombe au regard déstabilisant du sacristain devient chancelante pendant 1 round.
+
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>*Des chaînes et des objets perforants torturent la chair de cet être exsangue. Son visage et sa bouche portent les marques de souffrance les plus inquiétantes.*
+
+
+Chaque kyton se considère comme une sorte d’artiste, couchant encore et encore ses visions avant-gardistes sur différents supports : la chair, les esprits, l’obscurité et d’autres matières naturelles et délicates.
+Mais pour chaque chef-d’oeuvre, d’innombrables tentatives échouent. Les sacristains sont sans doute l’un des échecs les plus utiles des kytons.
+
+Nés de lambeaux de chair imparfaite, de chaînes tordues et d’esprits meurtris, les sacristains sont définitivement liés aux chirurgiens-sculpteurs kytons qui les ont créés. Ils n’ont aucune volonté propre et leur esprit est formaté pour servir, ce qui fait d’eux des serviteurs extrêmement loyaux.
+
+Plus que de simples automates, ils forment une caste d’esclaves redoutables créés pour prendre un plaisir extatique à servir les membres de leur race. À l’intérieur de leur bouche est fixé un portail miniature et permanent menant au plan de l’Ombre. Les effets de ce portail sont réduits mais il ne cesse de hurler la musique des royaumes kytons, gouvernés par une torture noire et des plaisirs inavouables.
+
+Lorsqu’il se sent menacé, le sacristain ouvre grand la bouche pour séduire ses adversaires du chant collectif des siens. Sans ce pouvoir, ces brutes seraient bien incapables d’y parvenir.
+
+L’aspect des sacristains peut varier mais ils ont toujours l’apparence d’humanoïdes torturés et mutilés aux caractéristiques physiques redondantes ou absentes. Ils mesurent entre 1,80 et 2,40 mètres et pèsent entre 40 et 80 kilogrammes.
+</div></td></tr></table>

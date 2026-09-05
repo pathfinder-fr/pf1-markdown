@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Stoïque
+Title: Stoïque
+LastModified: 2017-05-06 17:52
+Categories:
+- Cadre de campagne La Mer intérieure
+- Don
+---
+
+{s:ccmi}*Le personnage sait d’expérience que la vie est une suite d’épreuves impitoyables et que la peur doit être vaincue. *
+
+**Conditions**. [Volonté de fer](./Volonté de fer.md)
+
+**Avantages**. Le personnage gagne un bonus de +1 à tous les [jets de sauvegarde](./JDS.md) contre les effets de peur. S’il réussit un [jet de sauvegarde](./JDS.md) contre un tel effet, il est immunisé contre les effets de peur émanant de la même cible pendant les 24 heures suivantes.

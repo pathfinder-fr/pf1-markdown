@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Manœuvres de tir ami
+Title: Manœuvres de tir ami
+LastModified: 2015-06-05 19:30
+Categories:
+- Don
+- Don Combat
+- Don Equipe
+- Manuel de tactiques à distance
+- Règles officielles
+---
+
+*Le personnage et ses équipiers anticipent les attaques à distances de chacun d’entre eux et ainsi évitent de se gêner lors de leurs attaques.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#EQUIPE)
+
+**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)
+
+**Avantages.** Les alliés qui possèdent également ce don ne fournissent pas d’[abri mou](./abri.md) aux ennemis, permettant au personnage de faire des [attaques d’opportunités](./attaque dopportunité.md) contre l’un d’eux même si ses alliés le font bénéficier d’un abri mou contre les attaques de cet adversaire. Dans le cas où un allié qui possède ce don lance un sort à zone d’effet et que le personnage se trouve dans son aire d’effet, si ce sort permet un jet de sauvegarde de réflexes pour éviter l’effet (tel que [Boule de feu](./Boule de feu.md)), le personnage gagne un bonus d’esquive de +4 pour ce [jet de sauvegarde](./jet de sauvegarde.md).

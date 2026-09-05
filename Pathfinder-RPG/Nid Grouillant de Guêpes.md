@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Nid Grouillant de Guêpes
+Title: Nid grouillant de guêpes
+LastModified: 2024-06-12 23:56
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Nid grouillant de guêpes|{s:AE}}
+**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1.000 po ; **Poids** 2 kg
+(((Description)))
+Cette réplique d’un nid de guêpes de la taille d’une main est fabriquée en papier. Elle est extrêmement fragile et se range dans une caisse rigide et rembourrée. Quand elle est placée par terre, chaque créature qui traverse la case qu’elle occupe a 50% de chance de marcher dessus et de l’activer. Le nid peut également être lancé (facteur de portée de 3 mètres), il se déclenche lorsqu’il touche une surface solide ou une créature. Une fois déclenché, le nid crée une [nuée de guêpes](./Nuée de guêpes.md) qui attaque la créature la plus proche et la poursuit jusqu’à ce qu’elle tue sa cible, qu’elle meurt elle-même ou qu’elle soit incapable d’atteindre sa cible, auquel cas elle attaque la deuxième créature la plus proche. Si la nuée ne peut attaquer aucune créature, elle attend sur place jusqu’à ce qu’une créature se présente. Elle se disperse 9 minutes après son apparition.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[fléau d’insectes](./Fléau dinsectes.md)* ; **Coût** 500 po
+</div>

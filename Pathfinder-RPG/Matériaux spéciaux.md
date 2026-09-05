@@ -1,0 +1,484 @@
+---
+Name: Pathfinder-RPG.Matériaux spéciaux
+Title: Les matériaux spéciaux
+LastModified: 2024-07-07 23:50
+Categories:
+- Règle officielle
+- Src Armes et équipement
+- Src Manuel des joueurs
+---
+
+{s:MenuEquipement}
+<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>On peut fabriquer des armes et des armures à partir de matériaux ayant des propriétés spéciales naturelles. Si le personnage fabrique une arme ou une armure avec plus d’un matériau spécial, il ne bénéficie que des avantages du matériau qui prévaut. Néanmoins, on peut fabriquer une arme double en créant chacune des têtes avec un matériau différent.
+
+Chacun des matériaux spéciaux présentés ci-dessous a un effet défini en jeu. Certaines créatures ont une [réduction de dégâts](./RD.md) qui les rend résistantes à tout sauf à un certain type de dégâts, comme ceux qu’infligent les armes d’alignement Mauvais ou les armes contondantes. D’autres sont vulnérables aux armes faites avec un matériau particulier. Les personnages peuvent porter plusieurs types d’armes, en fonction des types de créatures qu’ils rencontrent le plus souvent.
+
+{s:ae}{s:Reference|ACIERARDENT}{s:Reference|ACIERGLACÉ}
+### Acier ardent et acier glacé
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en acier ardent  
+ ou en acier glacé || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munitions (pièce) || +15 po
+|- CLASS="alt"
+| Armure légère || +1 000 po
+|-
+| Armure intermédiaire || +2 500 po
+|- CLASS="alt"
+| Armure lourde || +3 000 po
+|-
+| Arme || +600 po
+|}
+</center></div></div>
+#### Acier ardent
+Les nains ont découvert le secret de la fabrication de l’acier ardent en cherchant à fabriquer des outils pour la forge. Il ne leur a pas fallu longtemps pour adapter ses propriétés uniques aux armes et aux armures. L’acier ardent canalise la chaleur dans une seule direction, pour protéger son porteur ou son utilisateur. Lorsqu’il sert fabriquer des armures, la chaleur est canalisée loin du porteur, lui offrant une protection limitée. Les armures en acier ardent accordent une résistance de 2 au feu.
+
+Les armes en acier ardent canalisent également la chaleur loin du porteur mais elles ne lui accordent aucune résistance aux énergies destructives. Au lieu de cela, la lame absorbe et canalise la chaleur dans les parties en contact avec l’ennemi. Si l’arme est exposée à 10 points de dégâts de feu ou plus (à cause de la boule de feu d’un adversaire ou si on la plonge dans un feu de camp pendant 1 round), elle rajoute +1d4 points de dégâts de feu à ses attaques pour les deux rounds suivants. Si le porteur porte une armure en acier ardent et utilise une arme en acier ardent, ces dégâts supplémentaires passent à +1d6 points de dégâts de feu et durent 4 rounds. Ces dégâts supplémentaires ne se cumulent pas avec les dégâts de feu des altérations d’armes comme de feu.
+
+Les armes et les armures en acier ardent sont toujours considérées comme des armes et des armures de maître. Le coût de la propriété de maître est inclus dans les prix indiqués.
+
+L’acier ardent a le même nombre de points de vie et la même [solidité](./solidité.md) que l’acier.
+
+#### Acier glacé
+Ce matériau est fabriqué à partir de la même substance que l’acier ardent, avec une différence subtile dans l’alignement du métal au moment de la forge. Plutôt que de canaliser la chaleur loin du porteur, il la canalise vers lui. L’acier glacé fonctionne comme l’acier ardent, à la seule différence que ses effets s’appliquent aux dégâts de froid plutôt qu’aux dégâts de feu. Cela signifie que les armes en acier glacé sont moins utiles que leurs homologues en acier ardent puisqu’il y a très peu de sources non-magiques de froid capables d’imprégner le métal de suffisamment d’énergie de froid pour infliger des dégâts supplémentaires.
+
+Les armes et armures en acier glacé sont toujours considérées comme des armes et des armures de maître. Le coût de la propriété de maître est inclus dans les prix indiqués.
+
+L’acier glacé a le même nombre de points de vie et la même [solidité](./solidité.md) que l’acier.
+
+{s:ae}{s:Reference|ACIERVIVANT}
+### Acier Vivant
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en  
+acier vivant || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munitions (pièce) || +10 po
+|- CLASS="alt"
+| Armure légère || +500 po
+|-
+| Armure intermédiaire || +1 000 po
+|- CLASS="alt"
+| Armure lourde || +1 500 po
+|-
+| Arme || +500 po
+|- CLASS="alt"
+| Bouclier || +100 po
+|-
+| Autres objets || +250 po/0,5 kg
+|}
+</center></div></div>
+Certains arbres absorbent de puissants minéraux par leurs racines, de la même manière que d’autres absorbent l’eau du sol. Bien que ces arbres émoussent les scies et les haches utilisées pour les abattre et ne craignent pas le feu, ils finissent par succomber au temps et aux éléments. Lorsqu’ils sont convenablement récoltés, ces arbres morts produisent des pépites de métal que l’on appelle de l’acier vivant. Ce métal vert brillant se répare lentement de lui-même. Un objet en acier vivant se soigne à raison de 2 [points de vie](./pv.md) par jour ou de 1 point de vie par jour s’il est [brisé](./Brisé.md).
+
+Il n’y a pas d’intérêt significatif à fabriquer des objets partiellement en acier vivant s’ils ne sont pas principalement composés de métal.
+
+Les armures et les boucliers en acier vivant peuvent endommager les armes en métal qui les frappent. Lorsque le porteur d’une arme en métal fait un 1 naturel sur un [jet d’attaque](./jet dattaque.md) contre une créature portant une armure en acier vivant ou maniant un bouclier en acier vivant, l’arme doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 20 ou se [briser](./Brisé.md). Si l’arme est déjà brisée, elle est alors détruite. L’acier vivant ne peut pas abîmer les armes en adamantium de cette manière.
+
+L’acier vivant a 35 [points de vie](./pv.md) par section de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 15.
+
+{s:Reference|ADAMANTIUM}
+### Adamantium
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Type d’objet en  
+adamantium || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munitions (pièce) || +60 po
+|-
+| Arme (ou bouclier) || +3 000 po
+|-
+| Armure légère || +5 000 po
+|-
+| Armure intermédiaire || +10 000 po
+|-
+| Armure lourde || +15 000 po
+|}</div></div>
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#1) Adamantium : L’adamantium indique qu’il ignore les solidités inférieures à 20, mais la solidité indique que l’adamantium ignore les solidités de 20 ou moins. Quelle règle dois-je utiliser ?***
+
+Utilisez « inférieures à 20 » de la description sur l’<u>[adamantium](./../Golarion/adamantium.md)</u>. L’adamantium, qui a une solidité de 20, est assez résistant pour tenir contre de l’adamantium (c’est aussi pour ça qu’une armure en adamantium confère une RD/— plutôt qu’une RD/adamantium).
+---
+***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#1) Adamantium : Quelle est la solidité d’une arme en métal faite d’adamantium ?***
+
+La réponse est différente si l’arme est entièrement en <u>[adamantium](./../Golarion/adamantium.md)</u>, ou faite en partie d’adamantium et en partie d’un autre matériau.
+
+La [table 7-12](./Exploration.md#POINTDERESISTANCE) à la page 175 du Manuel des joueurs liste la [solidité](./solidité.md) et les [points de résistance](./Exploration.md#POINTDERESISTANCE) des armes ordinaires. La table part du principe que l’arme en question est faite de cuir, de bois et/ou d’acier, suivant le plus approprié.
+Selon la [table 7-13](./Exploration.md#TABSOLIDITEMATIERES), l’acier a une solidité de 10, ce qui justifie qu’une arme entièrement faite d’acier ait une solidité de 10.
+
+Les armes avec un manche ont habituellement un manche en bois plutôt qu’en métal. Même une arme avec une tête en acier comme une [hache d’armes](./Hache darmes (arme).md) a un manche en bois, donc même si sa tête est faite d’un matériau avec une solidité de 10, sa partie la plus faible est le manche, qui a une solidité de 5, l’arme est donc listée dans la table 7-12 comme ayant une solidité de 5 (parce qu’on part du principe qu’un personnage vise les parties plus vulnérables quand il tente de détruire un objet).
+
+Pour une arme entièrement faite d’un matériau (comme une lame à une main), si ce matériau n’est pas celui habituel pour cette arme, on utilise la solidité de ce matériau dans la table 7-13 plutôt que la solidité par défaut de la table 7-12. Par exemple, une épée longue en bois a une solidité de 5, une épée longue en verre a une solidité de 1, et une épée longue en [adamantium](./../Golarion/adamantium.md) a une solidité de 20.
+
+Pour une arme qui n’est pas entièrement faite d’un seul matériau (comme une arme avec un manche en bois et une tête en métal), si ce matériau n’est pas celui habituel pour cette arme, on utilise la solidité du matériau le plus faible présent dans l’arme dans la table 7-13 plutôt que la solidité par défaut de la table 7-12. Par exemple, une hache d’armes avec un manche en glace (solidité 0) et une tête en acier (solidité 10) a une solidité globale de 0 parce qu’elle est aussi élevée que sa partie la plus faible. De même, une hache d’armes avec un manche en glace et une tête en adamantium a une solidité de 0, comme son équivalent de glace. (« On utilise la solidité du matériau le plus faible » est une formulation relative, puisqu’une hache d’armes inclut probablement un minimum de cuir, mais ses matériaux principaux sont le bois et l’acier, donc le bois est son matériau le plus faible).
+
+Notez que le « point faible » d’une arme avec un manche n’affecte pas les propriétés du matériau dont sa tête est faite. Une hache d’armes avec un manche en bois et une tête en adamantium compte toujours comme de l’adamantium dans le cadre de ses attaques, est toujours une arme de maître et a toujours un bonus d’altération de +1 aux jets d’attaque, même s’il est aussi simple de la détruire qu’une hache d’armes en acier classique. Le MJ est toujours libre de décider que les dégâts infligés à la tête d’une arme (en la plongeant dans une mare d’acide par exemple) utilisent la solidité de la tête plutôt que la solidité du manche.}Ce métal d’une dureté exceptionnelle, issu des roches tombées du ciel, permet de fabriquer armes et des armures. Les armes en adamantium ont la faculté d’ignorer jusqu’à 20 points de [solidité](./solidité.md) lorsqu’on les utilise pour [détruire l’arme d’un adversaire ou pour briser un objet](./destruction.md). Les armures en adamantium confèrent à leur propriétaire une [réduction de dégâts](./RD.md) dont la valeur dépend du type d’[armure](./Tableau récapitulatif des armures.md) : 1/– pour les [armures légères](./armure légère.md), 2/– pour les [armures intermédiaires](./armure intermédiaire.md) et 3/– pour les [armures lourdes](./armure lourde.md). L’adamantium est une matière si coûteuse que les armes, armures et boucliers en adamantium sont forcément des [armes de maîtres](./arme de maître.md) ou des [armures de maître](./armure de maître.md). Le coût de cette qualité supérieure est déjà compris dans les prix fournis dans la table ci-contre. Les armes et munitions en adamantium bénéficient donc d’un bonus d’altération de +1 aux [jets d’attaque](./jet dattaque.md), tandis que les armures et boucliers en adamantium imposent un malus d’armure aux tests réduit de 1 point par rapport à leur équivalent ordinaire. Seuls les armes, les armures et les boucliers qui possèdent des parties métalliques peuvent contenir de l’adamantium. Par exemple, on peut fabriquer des flèches en adamantium, mais pas des bâtons.
+
+Les armes et les armures d'adamantium qui sont normalement fabriquées en acier voient leur nombre de points de vie augmenté d'un tiers en plus de la normale. L'adamantium possède 40 points de vie par 2,50 cm d'épaisseur et une solidité de 20.
+
+{s:Reference|ARGENT}
+### Argent alchimique
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en argent  
+alchimique || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munitions (pièce) || +2 po
+|- CLASS="alt"
+| Arme légère || +20 po
+|-
+| Arme à une main (ou  
+1 tête d’arme double) || +90 po
+|- CLASS="alt"
+| Arme à deux mains (ou  
+2 têtes d’arme double) || +180po
+|}
+</center></div></div>
+Un processus complexe mêlant métallurgie et alchimie permet de lier de l’argent à une arme en acier afin qu’elle puisse passer la réduction de dégâts de créatures telles que les lycanthropes. Quand le personnage réussit un jet d’attaque avec une arme tranchante ou perforante en argent alchimique, il subit un malus de -1 au jet de dégâts (avec un minimum de 1 point de dégâts). Le processus visant à renforcer un objet avec de l’argent alchimique ne s’applique pas aux objets qui ne sont pas en métal et ne fonctionne pas sur les métaux rares comme l’adamantium, le fer froid et le mithral.
+
+L’argent alchimique a 10 points de vie par tranche de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 8.
+
+{s:ClearRight}{s:racial|Vanara (race)|vanaras|Illustrations/PNJ/Vanara.jpg}{s:MR}{s:ae}{s:Reference|BOISFOUETTANT}{s:Reference|BOISFLEXIBLE}
+### Bois flexible
+Les menuisiers vanaras fabriquent ce matériau extrêmement souple au cours d’un processus très long. Le bois flexible est en réalité un composé de fibres de bois pliables tissées et fusionnées pour former une unité solide mais flexible. Seules les armes en bois ou les armes ayant des parties en bois (comme les haches et les lances) peuvent être fabriquées en bois flexible. Une créature maniant une arme en bois flexible gagne un bonus de +2 au [DMD](./DMD.md) lorsqu’elle se défend contre les tentatives de [destruction](./destruction.md) d’arme.
+
+Les points de vie d’une arme en bois flexible augmentent de +5. Le bois flexible perd ses capacités spéciales s’il est sous l’effet d’un sort de *[bois de fer](./Bois de fer.md)*.
+
+Les armes en bois flexible coûtent 500 po de plus que les armes normales de même type.
+
+{s:ae}{s:Reference|BOISVERT}
+### Bois vert
+Le secret du bois vert repose dans sa récolte. Chaque branche est récupérée, avec ses feuilles, sur un arbre animé par un sylvanien et soigneusement coupée pour éviter de tuer l’arbre. Une dryade s’adresse ensuite au bois et le façonne, attirant le vert vivant des feuilles dans le grain du bois.
+
+Le bois qui en résulte reste en vie tant qu’il reçoit au moins 4,5 litres d’eau (+4,5 litres d’eau par tranche de 5 kg) par semaine et reste en contact avec un sol fertile pendant 1 heure. Tout objet entièrement ou principalement fait de bois (comme un arc ou une lance) et fabriqué avec du bois vert est considéré comme un objet de maître. On ne peut pas utiliser de bois vert pour fabriquer des objets normalement non-composés de bois. Ceux qui comportent seulement une petite partie de bois (comme la hache d’armes ou la masse d’armes) ne bénéficient pas des avantages spéciaux du bois vert. Quand il est trempé et en contact avec le sol fertile, le bois vert vivant se soigne à raison de 1 [point de vie](./pv.md) par heure. Il répare même les entailles et fait repousser les parties manquantes. Si l’arme est [brisée](./Brisé.md), elle se répare pendant sa première heure de contact avec le sol fertile.
+Les objets en bois vert ne reçoivent qu’un quart des dégâts de feu.
+
+Le bois vert peut être altéré ou amélioré par la magie du bois comme *[bois de fer](./Bois de fer.md)*, *[façonnage du bois](./Façonnage du bois.md)* et *[distorsion du bois](./Distorsion du bois.md)*. La durée de ces effets est doublée sur un objet en bois vert.
+
+Pour déterminer le prix d’un objet en bois vert, référez-vous au poids original et rajoutez 50 po par tranche de 0,5 kg au prix par rapport à la version de maître de l’objet. Les objets en ébénite ne peuvent pas être fabriqués en bois vert.
+
+Le bois vert a le même nombre de points de vie et la même solidité que le bois.
+
+{s:ae}{s:Reference|BRONZEÉLYSÉEN}
+### Bronze Élyséen
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en bronze  
+élyséen || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munitions (pièce) || +20 po
+|- CLASS="alt"
+| Armure légère || +1 000 po
+|-
+| Armure intermédiaire || +2 000 po
+|- CLASS="alt"
+| Armure lourde || +3 000 po
+|-
+| Arme || +1 000 po
+|}
+</center></div></div>C’est à l’aube des temps que les titans ont forgé les premières barres de bronze élyséen et les ont offertes aux héros tueurs de monstres des races inférieures. Ce métal conserve la teinte cuivrée de son homologue mais il est aussi dur que l’acier.
+
+Une arme en bronze élyséen ajoute un bonus de +1 aux jets de dégâts de l’arme contre les [créatures magiques](./type Créature magique.md) et les [humanoïdes monstrueux](./type Humanoïde monstrueux.md). Ces dégâts sont multipliés sur un [coup critique](./coup critique.md). Si le personnage inflige des dégâts à une créature magique ou à un humanoïde monstrueux avec une arme en bronze élyséen, il gagne un bonus de +1 à ses jets d’attaque contre les créatures du type blessé (par exemple, contre les chimères, mais pas contre toutes les créatures magiques) pendant les prochaines 24 heures ou jusqu’à ce que l’arme inflige des dégâts à un autre type de créatures magiques ou d’humanoïdes monstrueux.
+
+Les armures en bronze élyséen protègent leur porteur contre les armes naturelles ou les attaques à mains nues des créatures magiques et des humanoïdes monstrueux, lui donnant une [réduction de dégâts](./RD.md) comme si elles étaient en adamantium (1/— pour les armures légères, 2/— pour les armures intermédiaires, 3/— pour les armures lourdes). Elles ne fournissent pas ce type de protection contre les créatures d’un autre type.
+
+Le bronze élyséen a le même nombre de points de vie et la même solidité que l’acier.
+
+{s:ae}{s:Reference|CRINDEGRIFFON}
+### Crin de griffon
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en crin  
+de griffon || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure légère || +200 po
+|- CLASS="alt"
+| Autres objets || +50 po/0,5 kg
+|}
+</center></div></div>
+Ce matériau rêche, allant du brun-doré au brun-noir, est tissé à partir de la crinière de créatures magiques léonines,  principalement des griffons, mais aussi des chimères et des manticores. Il est exceptionnellement solide et léger.
+
+Le fait de porter une cape, une robe, un vêtement, une armure matelassée ou un vêtement rembourré en crin de griffon accorde un bonus de compétence de +2 aux tests de [Vol](./Vol.md). Si un objet en crin de griffon se voit accordé la capacité magique de voler, le coût de l’ajout de cette propriété magique est réduit de 10% mais ceci ne réduit pas le coût des autres capacités de l’objet.
+
+Le crin de griffon a deux fois plus de [points de vie](./pv.md) qu’un vêtement normal et une [solidité](./solidité.md) de 1.
+
+{s:ae}{s:Reference|CRISTALDESANG}
+### Cristal de sang
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en cristal  
+de sang || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munition (pièce) || +30 po
+|- CLASS="alt"
+| Arme || +1 500 po
+|}
+</center></div></div>
+Dans les entrailles de la terre, de mystérieuses radiations pervertissent le quartz autrefois ordinaire, le transformant en une pierre assoiffée de sang.
+
+Si un personnage réussit une attaque avec une arme tranchante ou perforante en cristal de sang, et que la cible souffre d’un effet de [saignement](./Saignement.md), elle reçoit 1 point de dégâts supplémentaire. Ceci n’augmente pas le nombre de dégâts de l’effet de saignement.
+
+Le cristal de sang vire a une teinte rose pâle qui se fonce et prend une teinte rouge profond à mesure qu’il se sature de sang. On peut fabriquer des armes perforantes ou tranchantes entièrement ou partiellement composées de métal avec du cristal de sang. Le cristal de sang non-raffiné vaut 500 po pour 250 grammes.
+
+Les armes faites en cristal de sang ont 1,5 fois leur nombre normal de points de vie. On ne peut pas fabriquer des armures ou des boucliers en cristal de sang car ils se nourriraient du sang de leur propriétaire porteur.
+
+Le cristal de sang a 10 points de vie par tranche de 2,5 centimètres d’épaisseur et une solidité de 10.
+
+{s:Reference|EBENITE}
+### Ébénite
+Ce bois magique et rare est aussi dur que le bois normal mais très léger.
+
+Tout objet entièrement ou principalement fait de bois (comme un arc ou une lance) fabriqués avec de l’ébénite est considéré comme un objet de maître et pèse moitié moins lourd qu’un objet normal de même type. On ne peut pas utiliser de l’ébénite pour fabriquer des objets qui ne sont pas habituellement composés de bois. Ceux qui comprennent seulement en petite partie du bois (comme la hache d’armes ou la masse d’armes) ne bénéficient pas des avantages de l’ébénite.
+
+Le malus d’armure d’un bouclier en ébénite est réduit de 2 par rapport à celui d’un bouclier normal de même type.
+
+Pour déterminer le prix d’un objet en ébénite, référez-vous au poids original et ajoutez 10 po par tranche de 0,5 kg par rapport au prix de la version de maître de l’objet.
+
+L’ébénite a 10 [points de vie](./points de résistance.md) par section de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 5.
+
+{s:Reference|FERFROID}
+### Fer froid
+Ce fer, extrait des profondeurs de la terre et connu pour son efficacité contre les [démons](./sous-type démon.md) et les créatures féeriques, est forgé à basse température afin de préserver ses propriétés délicates.
+
+Les armes en fer froid coûtent deux fois plus cher que leurs homologues standards.
+
+L’ajout d’altérations magiques à une arme en fer froid augmente également son prix de 2 000 po. Cette augmentation s’applique lors de la première altération de l’objet, non à chaque ajout de capacité. Les objets sans partie métallique ne peuvent pas être fabriqués en fer froid. Une flèche peut être fabriquée en fer froid, pas un bâton.
+
+Une [arme double](./arme double.md) dont une moitié est faite en fer froid coûte 50% plus cher que la normale.
+
+Le fer froid a 30 points de vie par section de 2,5 centimètres d’épaisseur et une solidité de 10.
+
+{s:Reference|MITHRAL}
+
+### Mithral
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en mithral || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure légère || +1 000 po
+|- CLASS="alt"
+| Armure intermédiaire || +4 000 po
+|-
+| Armure lourde || +9 000 po
+|- CLASS="alt"
+| Bouclier || +1 000 po
+|-
+| Autre objet || +1 000 po/kg
+|}
+</center></div></div>
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#13) Armure en mithral : De quoi est-il question quand le texte indique qu’une armure en mithral est comptée comme d’une catégorie plus légère dans le cadre d’« autres limitations » ?***
+
+Cela signifie qu’une armure en <u>[mithral](./mithral.md)</u> permet à son porteur de l’utiliser quand ses propres capacités spéciales ou de classe lui imposent de porter une armure légère ; autrement dit, le personnage portant l’armure est moins limité. Par exemple, un [barde](./Barde.md) peut lancer des sorts dans une [cuirasse](./cuirasse (armure).md) en mithral sans [risque d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE), un barbare peut utiliser son [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE) dans un [harnois](./harnois (armure).md) en mithral, un rôdeur peut utiliser son [style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT) dans un harnois en mithral, les [lutteurs](./Lutteur.md), [bretteurs](./Bretteur.md) et [pistoliers](./Pistolier.md) peuvent conserver leur bonus d’esquive dans une cuirasse en mithral, un roublard conserve son [esquive totale](./Roublard.md#ESQUIVETOTALE) dans une cuirasse en mithral, un lutteur peut utiliser son [déluge](./Lutteur.md#DELUGEDECOUPSDULUTTEUR) dans une cuirasse en mithral, les personnages sans [Endurance](./Endurance.md) peuvent dormir dans une cuirasse en mithral sans être fatigués, etc. Cela ne change pas la véritable catégorie de l’armure, ce qui implique qu’on peut toujours stocker une créature d’une catégorie de taille supérieure dans un harnois *[niche](./niche (propriété).md)* en mithral, et qu’il est impossible d’altérer une cuirasse en mithral avec une propriété spéciale réservée aux armures légères, comme *[pugilat](./pugilat (propriété).md)* (bien qu’il soit possible de l’altérer avec une propriété spéciale réservée aux armures intermédiaires), etc.
+---
+***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#27) Mithral : Quel poids utiliser pour déterminer le prix d’une arme en mithral ou d’un objet qui n’est pas une armure ?***
+
+Pour déterminer le prix supplémentaire du <u>[mithral](./mithral.md)</u> (comparé au prix normal de l’objet), on utilise le poids de l’objet original n’étant pas en mithral et on le multiplie par 500 po tous les 500 grammes.
+
+Par exemple, une [dague](./dague (arme).md) en acier pèse 500 grammes pour une créature de taille M. Pour avoir son équivalent en mithral, on multiplie ce poids (500 g) par 500 po/500g, ou +500 po. Lorsqu’on ajoute le prix de l’objet original (2 po), le prix total d’une dague en mithral est de 502 po.
+
+Il y a probablement quelques prix d’objets en mithral incohérents dans les manuels, et ils seront traités dans de futurs impressions de ces ouvrages, le cas échéant.
+---
+***[→](./FAQ- lArt de la guerre.md#27) Armes : Il y a des armes de corps à corps dans l’Art de la guerre (pages 131 à 132) avec un poids de « — ». Si ces armes sont principalement faites de métal (comme le kerambit), comment calculer le coût de la version mithral de ces armes ?***
+
+Traitez ces armes comme pesant 0,25 kg dans le cadre de la création d’une version <u>[mithral](./mithral.md)</u> de l’arme.}Le mithral est un métal rare et argenté plus léger que l’acier mais tout aussi solide. Lorsqu’il est forgé comme l’acier, il peut servir à créer des armures exceptionnelles. Il sert parfois à fabriquer d’autres objets.
+
+La plupart des armures en mithral sont une catégorie en dessous de la normale en termes de poids en ce qui concerne le déplacement et les autres limitations. Les armures lourdes sont traitées comme des armures intermédiaires et les armures intermédiaires sont traitées comme des armures légères mais les armures légères restent des armures légères. Cette réduction ne s’applique pas à la formation au port de l’armure concernée. Un personnage portant un harnois en mithral doit être formé au port des armures lourdes, sinon, il a un malus d’armure à tous ses jets d’attaque et ses tests de compétence impliquant un déplacement. Les chances d’échec des sorts pour les armures et les boucliers en mithral sont réduites de 10%. Le bonus de Dextérité maximum est augmenté de 2 et le malus d’armure est réduit de 3 (jusqu’à un minimum de 0, cette réduction comprend celle due en tant qu'objet de maître).
+
+Un objet en mithral pèse deux fois moins lourd que le même objet fait en un autre métal.
+
+Avec une arme, cet allègement ne change pas la catégorie de taille de l’arme ni ne facilite son maniement (que ce soit une arme légère, à une main ou à deux mains). Il n’y a pas d’intérêt significatif à fabriquer des objets partiellement en mithral s’ils ne sont pas principalement composés de métal. (on peut fabriquer une épée longue en mithral, pas un bâton.) Les armes en mithral comptent comme des armes en argent quand il s’agit de passer la [réduction de dégâts](./RD.md).
+
+Les armes et armures en mithral sont toujours des armes et des [armures de maître](./Caractéristiques des armures.md#ARMURESMAITRE). Le coût de la propriété de maître est inclus dans les prix indiqués.
+
+Le mithral a 30 [points de vie](./pv.md) par section de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 15.
+
+{s:ae}{s:Reference|PEAUDANGE}
+### Peau d'ange
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en peau  
+d'ange || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure légère || +1 000 po
+|- CLASS="alt"
+| Armure intermédiaire || +2 000 po
+|}
+</center></div></div>
+La peau préservée d’un ange conserve une partie de sa grâce céleste et peut être utilisée pour faire une armure de cuir, de peau ou de cuir cloutée.
+
+La peau d’ange dégage une aura modérée de Bien qui masque les auras malveillantes. Si la personne qui porte la peau d’ange émet une aura Mauvaise, sa force diminue de 10 dés de vie. Les auras réduites à moins de 1 dé de vie sont indétectables avec [détection du Mal](./Paladin.md#DETECTIONDUMAL) ou autre. La créature n’apparaît pas comme Mauvaise, même si cela n’a aucun effet sur les autres aspects de son alignement. Par exemple, une faible créature Chaotique Mauvaise portant une armure en peau d’ange sera détectée comme Chaotique mais pas non comme Mauvaise.
+
+Les sorts et les capacités surnaturelles ayant des effets spéciaux lorsqu’ils sont lancés sur ou contre les créatures d’alignement Mauvais (même les effets bénéfiques) ont 20% de chances de traiter un porteur Mauvais comme un porteur Neutre. Pour les effets durables, tels que [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL), on effectue ce jet quand on utilise l’effet pour la première fois sur la créature : si l’effet traite la cible comme une créature d’alignement Neutre, il le fait pour le reste de sa durée. Si l’effet durable s’applique à une zone et si le porteur quitte cette zone, il faut refaire le jet de chance.
+
+Les objets à magie permanente comme les armes [saintes](./sainte (propriété).md) traitent toujours le porteur comme Mauvais.
+
+Les armures faites en peau d’ange sont toujours des armures de maître. Le prix de la propriété de maître est inclus dans les prix indiqués ci-contre.
+
+La peau d’ange a 5 [points de vie](./pv.md) par tranche de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 5.
+
+{s:ae}{s:Reference|PEAUDANGUILLE}
+### Peau d'anguille
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en peau  
+d'anguille || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure légère || +1 200 po
+|- CLASS="alt"
+| Armure intermédiaire || +1 800 po
+|}
+</center></div></div>
+Ce matériau souple offre autant de protection que le cuir mais il est plus flexible et résiste à l’électricité.
+
+On peut fabriquer des armures de cuir, de peau ou de cuir clouté avec de la peau d’anguille. Le malus d’armure de ces armures est réduit de 1 (jusqu’à un minimum de 0) et le bonus de [Dextérité](./Dextérité.md) maximal est augmenté de 1. En outre, le fait de porter de la peau d’anguille accorde au porteur une résistance de 2 à l’électricité.
+
+Une armure en peau d’anguille est toujours considérée comme une armure de maître et le coût de la propriété de maître est inclus dans les prix indiqués.
+
+La peau d’anguille a le même nombre de [points de vie](./pv.md) et la même [solidité](./solidité.md) que le cuir.
+
+{s:Reference|PEAUDEDRAGON}
+### Peau de dragon
+Il arrive que les armuriers travaillent avec de la peau de dragon pour fabriquer des armures ou des boucliers de maître.
+
+Un seul dragon a suffisamment de peau pour fabriquer une armure de maître intégrale en peau pour une créature plus petite que le dragon d’une catégorie de taille. En sélectionnant uniquement les écailles et les morceaux de peau de choix, l’armurier peut fabriquer une crevice intégrale de maître pour une créature plus petite que le dragon de trois catégories de taille ou une cuirasse de maître ou un harnois complet de maître pour une créature plus petite que le dragon de quatre catégories de taille. Dans tous les cas, il y a suffisamment de peau pour fabriquer une rondache ou un écu de maître en plus de l’armure, à condition que le dragon soit de taille G ou plus grand.
+
+Si la peau de dragon vient d’un dragon qui était immunisé contre un type d’énergie, l’armure est également immunisée contre ce type d’énergie, bien que ceci n’offre aucune protection au porteur. Si l’armure ou le bouclier se voit accordé, plus tard, la capacité de protéger le porteur contre ce type d’énergie, le prix de cette protection est réduit de 25%.
+
+Les armures en peau de dragon n’étant pas faites de métal, les druides peuvent les porter sans malus.
+
+Une armure en peau de dragon coûte deux fois plus cher qu’une armure de maître de même type mais sa fabrication ne prend pas plus de temps que pour une armure ordinaire de ce type (doublez tous les résultats d’[Artisanat](./Artisanat.md)).
+
+La peau de dragon a 10 points de vie par tranche de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 10. La peau de dragon fait généralement entre 1,25 et 2,5 centimètres d’épaisseur.
+
+{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:ae}{s:Reference|RACINEDEWY}
+### Racine de wy
+La racine du bois de wy a une particularité. Lorsqu’une arme en racine de wy confirme un [coup critique](./coup critique.md), elle absorbe une partie de la force vitale de la créature touchée. La victime n’est pas blessée et l’arme en racine de wy gagne 1 [point de vie](./point de vie.md).
+
+Par une [action rapide](./Action rapide.md), un porteur ayant une réserve de ki ou une réserve magique peut absorber 1 point de vie de l’arme en racine de wy et le convertir en 1 point de ki ou en 1 point de réserve magique.
+
+La plupart des armes en racine de wy ne peuvent gagner au plus qu'un point de vie par jour et ne peuvent en contenir qu'un seul à la fois, mais il existe de la racine de wy de meilleure qualité. Les armes en racine de wy les plus puissantes peuvent gagner jusqu’à 3 points de vie par jour, et en contenir jusqu'à trois à la fois. Tout point de vie non dépensé se dissipe au crépuscule. Une créature ne peut convertir des points de vie que d'une seule arme en racine de wy par jour.
+
+La racine de wy peut servir à fabriquer n’importe quelle arme de corps à corps entièrement faite de bois ou une arme de corps à corps ayant un manche en bois.
+
+Pour fabriquer une arme en racine de wy pouvant contenir 1 point de vie, le prix de l’arme augmente de 1 000 po, pour en fabriquer une pouvant contenir jusqu’à 2 points de vie il augmente de 2 000 po et pour une arme pouvant contenir jusqu’à 3 points de vie il augmente de 4 000 po.
+
+{s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:ae}{s:Reference|TISSUDESOMBREFEUILLE}
+### Tissu de sombrefeuille
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en  
+sombrefeuille || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure intermédiaire || +1 500 po
+|- CLASS="alt"
+| Armure légère || +750 po
+|-
+| Autre objet || +750 po/kg
+|- CLASS="alt"
+| Habit || +500 po
+|}
+</center></div></div>Le tissu de sombrefeuille est un matériau souple que l’on obtient en tissant des feuilles et de fines bandes d’écorce d’ébénite avant de soumettre le tissu obtenu à un processus alchimique particulier. Le matériau final est aussi solide que la peau tannée mais bien plus léger, ce qui en fait un excellent matériau pour créer des armures.
+
+Les chances d’échec des sorts pour les armures en tissu de sombrefeuille baissent de 10% (jusqu’à un minimum de 5%), le bonus de Dextérité maximal augmente de 2 et le malus d’armure baisse de 3 (jusqu’à un minimum de 0).
+
+Un objet en tissu de sombrefeuille pèse deux fois moins que le même objet en cuir, en fourrure ou en peau. Il n’y a pas grand intérêt à fabriquer des parties d’objet en tissu de sombrefeuille s’ils ne sont pas principalement composés de cuir, de fourrure ou de peau.
+
+Ainsi, on fabrique surtout des armures matelassées, des armures de cuir, des armures de cuir cloutées et des armures en peau avec du tissu de sombrefeuille (mais on peut choisir d’autres types d’armures faites de cuir ou de peau). Le tissu de sombrefeuille conservant sa souplesse, il ne peut pas servir à fabriquer des objets rigides comme des boucliers ou des armures en métal.
+
+Les armures en tissu de sombrefeuille sont toujours des armures de maître. Le coût de la propriété de maître est inclus dans les prix indiqués.
+
+Le tissu de sombrefeuille a 20 points de vie par section de 2,5 centimètres d’épaisseur et une solidité de 10.
+
+{s:AMH}{s:Reference|VERREDUVIDE}
+### Verre du vide
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Type d’objet en  
+verre du vide || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Armure légère || +1 000 po
+|-
+| Armure intermédiaire || +2 000 po
+|-
+| Armure lourde || +4 500 po
+|-
+| Arme || +1 000 po
+|-
+| Bouclier || +3 000 po
+|}
+</div></div>
+{s:cs}Le verre du vide est originaire d'un monde inconnu bien au-delà de Golarion. Il est apporté sur Golarion en petites quantités par des [grioths](./Grioth.md), une race d'extraterrestres psychiques. Le verre du vide résonne avec l'esprit d'une créature, renforçant la pensée et les défenses mentales. Toute armure normalement fabriquée en métal peut être faite de verre du vide. Une armure légère en verre du vide ou un bouclier en verre du vide confère un bonus de résistance de +1 à tous les [jets de sauvegarde](./JDS.md) contre les [effets mentaux](./effet mental.md) magiques. Ce bonus passe à +2 pour une armure intermédiaire en verre du vide et à +3 pour une armure lourde en verre du vide. Une arme perforante ou tranchante en verre du vide inflige 1 point de dégât supplémentaire par attaque réussie ; les armes contondantes ne gagnent aucun avantage.
+
+Le verre du vide a 30 [points de vie](./pv.md) par section de 2,5 centimètres d’épaisseur et une [solidité](./solidité.md) de 10. Un demi-kilo de verre du vide brut et non travaillé vaut 100 pièces d'or.
+
+{s:ae}{s:Reference|VIRIDIUM}
+### Viridium
+<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Type d’objet en  
+viridium || Modif. au   
+prix de l'objet
+|- CLASS="premier"
+| Munition (pièce) || +20 po
+|- CLASS="alt"
+| Arme légère || +200 po
+|}
+</center></div></div>Ce verre volcanique de teinte vert foncé ressemble à de l’obsidienne mais il se forme seulement quand la lave en fusion est souillée par de rares minéraux anormaux. Ces derniers viennent des profondeurs de la terre et dégagent des émanations toxiques pour les êtres vivants. On peut fragmenter le viridium pour lui donner le tranchant du rasoir, mais même en infime quantité, il peut entraîner des maladies dégénérescentes s’il entre dans le réseau sanguin.
+
+En cas d’attaque réussie avec une arme en viridium, la victime contracte la [lèpre](./Maladies.md#LÈPRE) ([Vigueur](./Vigueur.md) [DD](./DD.md) 12 annule). Sur un [coup critique](./coup critique.md) réussi, un infime fragment de viridium se brise dans son corps, l’affectant comme de l’[extrait de sanvert](./Poisons.md#Extraitdesanvert) ([Vigueur](./Vigueur.md) [DD](./DD.md) 13 annule).
+
+Une créature portant une arme en viridium doit faire un [jet de sauvegarde](./jet de sauvegarde.md) toutes les 24 heures ou contracter la lèpre, à moins de conserver l’arme dans un espace extra-dimensionnel (comme un [Carquois efficace](./Carquois efficace.md)) ou dans un fourreau doublé de plomb.
+
+Les vases, les plantes et les extérieurs sont immunisés contre les émanations mortelles du viridium.
+
+Les armes en viridium ont une solidité moitié moindre que l’arme de base et ont la propriété [fragile](./fragile.md).
+
+On peut renforcer le viridium par magie pour un coût supplémentaire de +1 000 po pour une arme ou de +20 po pour une munition. Ceci débarrasse l’objet de son caractère fragile mais n’affecte aucunement ses capacités.

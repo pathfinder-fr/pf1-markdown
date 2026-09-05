@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Désamorçage coopératif
+Title: Désamorçage coopératif
+LastModified: 2023-01-18 16:15
+Categories:
+- Don
+- Don équipe
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous savez travailler avec un allié pour désactiver les pièges plus efficacement.*
+
+**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+
+**Conditions.** 1 rang en [Sabotage](./Sabotage.md), capacité de classe [recherche des pièges](./Roublard.md#RECHERCHEDESPIEGES)
+
+**Avantages.** Lorsque le personnage utilise la compétence [Sabotage](./Sabotage.md) et rate son test sur un piège, un unique allié adjacent qui possède ce don et qui est également à portée du piège peut effectuer un test de Sabotage contre le même mécanisme par une [action immédiate](./Action immédiate.md). L'allié doit être resté adjacent pendant le processus de désamorçage et doit soit avoir aidé le personnage lors de son test de Sabotage, soit n'avoir entrepris aucune action pendant celui-ci. Si l'allié du personnage réussit son test, sa propre tentative est considérée comme une réussite. Si son allié échoue, sa tentative est considérée comme un échec de 5 ou plus, même si le test d'origine avait raté de 4 ou moins.

@@ -1,0 +1,22 @@
+---
+Name: Golarion.Sivanah
+Title: Sivanah, le Septième Voile
+LastModified: 2023-02-03 09:51
+Categories:
+- Religion
+---
+
+{s:Dieu|Sivanah|%2fPCUP%2fReligion-PNG%2fSivanah.png|Déesse de l'illusion, le Septième Voile|N|Illusions, Réflexions, Mystères|Illusionnistes|Écharpe à lames|Folie, Magie, Runes, Savoir, Tromperie|Glyphes, Insanité, Mémoire, Pensée, Protéens, Supercherie|} Sivanah est la déesse de la magie des illusions. On l'appelle aussi le Septième Voile, un nom venant de la tenue dans laquelle on la dépeint généralement. Son symbole représente un cercle constitué de six voiles aux couleurs passées liés bout à bout.
+L'apparence réelle de Sivanah est cachée sous ses sept voiles, chacun étant lié à une race ([humain](./../Pathfinder-RPG/Humain.md), [elfe](./../Pathfinder-RPG/Elfe.md), [halfling](./halfling.md), [gnome](./../Pathfinder-RPG/Gnome.md), [aranea](./aranea.md) et [naga](./naga.md)). On prétend que sa vraie forme appartient à une septième race, inconnue. Elle peut apparaître sous l'apparence des races citées en portant le voile correspondant. La déesse communique avec ses fidèles à travers les miroirs, les reflets de l'eau et parfois même  leur propre ombre.
+
+### Église de Sivanah
+Le culte de Sivanah est populaire dans les régions du [Nex](./Nex.md), de l'[Irrisen](./Irrisen.md) ainsi que dans les cités du [Katapesh](./Katapesh.md). Alors qu'il est proscrit au [Nidal](./Nidal.md), banni par les prêtres de [Zon-Kuthon](./Zon-Kuthon.md).
+Elle est aussi très largement vénérée parmi les illusionnistes et les gnomes de [Golarion](./Golarion.md), puisqu'elle représente leur école de magie préférée. On dit que les illusionnistes qui lui sont fidèles sont capables de reproduire des soins magiques en utilisant leur sort de conjuration d'ombre.
+
+### Domaine
+La déesse s'est installée dans le plus improbable des endroits : le [Maelström](./Maelström.md). Son royaume est très difficile à localiser, semblant ne pas rester au même endroit, mais peut être aperçu comme une multitude de surfaces miroitantes. Sivanah protège son royaume des (native proteans), qui lui vouent des pensées hostiles. L'origine exacte de ce conflit est inconnue, mais de nombreuses spéculations circulent, comme celle qui prétend que Sivanah leur vola quelque chose, ou encore qu'elle fut un jour un [keketar](./keketar.md), un (risen demon) ou un [azata](./../Pathfinder-RPG/Azata.md) déchu.
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+{s:VoirAussiAprès}

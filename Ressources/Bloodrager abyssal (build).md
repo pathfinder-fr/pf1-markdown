@@ -1,0 +1,273 @@
+---
+Name: Ressources.Bloodrager abyssal (build)
+Title: Sanguin abyssal (build)
+LastModified: 2022-03-16 22:45
+---
+
+<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+***Voir le [sujet de discussion](https://www.pathfinder-fr.org//Forum/yaf_postst11866_Thou-shalt-fear-my-wrath---abyssal-bloodrager.aspx)***</div>
+
+<nav class="wiki-toc"></nav>
+
+*Le build présenté ici est un [++Pathfinder-RPG.sanguin|sanguin] de lignage [++Pathfinder-RPG.lignage abyssal (sanguin)|abyssal], [++Pathfinder-RPG.Tieffelin (race)|tieffelin] scion de démon, qui alterne entre une arme à allonge et des attaques naturelles au combat.*
+
+### A propos du build
+
+#### 1. Rôle du personnage
+
+En préambule, un mot sur le gameplay du sanguin : parce qu'il dispose de quelques sorts, certains ont tendance à le ranger du côté des "gish", c'est-à-dire des combattants mêlant armes et magie profane. En réalité, sa progression de sorts est très faible et sa liste de sorts presque exclusivement tournée vers le combat. C'est donc avant tout un barbare avec des pouvoirs spéciaux et quelques sorts, et non un gish comme peuvent l'être le magus ou le champion occultiste.
+
+##### 1.1 Base du build
+
+A première vue, le lignage abyssal ne semble pas très bon : ses pouvoirs de lignage sont globalement médiocres, ses dons bonus pas terribles et ses sorts de lignage sont presque tous moisis. Mais il est sauvé par ses pouvoirs de lignage de bas niveau, à savoir les griffes et surtout [++Pathfinder-RPG.lignage abyssal (sanguin).ashx#Taille_démoniaque_Sur_1|Taille démoniaque] qui permet de bénéficier du sort [++Pathfinder-RPG.agrandissement|agrandissement] tant qu’on est en rage (y compris si on n’est pas humanoïde, ce qui fait bien l'affaire du tieffelin). Par rapport à la plupart des options permettant de s'agrandir, Taille démoniaque est à la fois plus rapide (elle s'active en action libre avec la rage) et plus fiable, car alignée sur le nombre de rounds de rage qui augmente mécaniquement avec les niveaux. C'est une excellente capacité d'agrandissement et son seul défaut, qui est que l’agrandissement peut devenir gênant dans un environnement confiné (petites pièces, couloirs...) puisqu'on ne peut reprendre sa taille normale qu’en sortant de rage, peut être contourné si on arrive à faire du "rage cycling". Tout le build est axé autour de cette capacité.
+
+##### 1.2 Concept
+
+Le concept de base est d'associer combat avec une arme à allonge, pour profiter au mieux de la taille G, et combat aux armes naturelles. L’arme à allonge propose tout ce que les armes naturelles ne proposent pas et inversement. Les deux modes d'attaques se complètent à deux niveaux :
+- Ils permettent de couvrir les deux modes du combat de mêlée : le mode "ennemis dispersés", où il faut se déplacer avant d’attaquer et qui privilégie les grosses attaques à deux mains, et le mode "ennemis en pack" qui favorise les attaques à outrance.
+- Les zones de contrôle des deux styles de combat sont parfaitement complémentaires et couvrent tout le champ jusqu'à 4 cases de distance en taille G, puisque les armes naturelles menacent jusqu'à 3 m et les armes à allonge de 3 à 6 m.
+
+*(Pour une analyse détaillée des règles et des tactiques liées au combat à allonge, on pourra se reporter à [http://www.pathfinder-fr.org/Forum/posts/t14073-Le-combat-a-allonge|ce guide] qui lui est dédié)*
+
+On ira ensuite chercher des dons, des pouvoirs et des propriétés d'armes qui tirent profit de cette allonge pour provoquer le plus possible d'attaques supplémentaires (qui se font généralement à BBA complet et ne sont donc pas soumises à la perte d'efficacité des attaques itératives), l'objectif final étant de nettoyer le champ de bataille en décimant les ennemis par un très grand nombre d'attaques très puissantes :
+
+- des attaques d'opportunité classiques obtenues grâce à l'allonge de 6 m ;
+- des attaques d'opportunité obtenues quand un adversaire pénètre l'espace contrôlé avec [++Pathfinder-RPG.pouvoirs de rage.ashx#COUPINATTENDU|Coup inattendu] ;
+- une seconde attaque d'opportunité à -5 dès que la première se déclenche grâce à la propriété d'arme [++Pathfinder-RPG.fortuite (propriété)|fortuite] ;
+- des attaques supplémentaires quand on tue un ennemi avec [++Pathfinder-RPG.Enchaînement final|Enchaînement final] ;
+- des attaques supplémentaires quand on démoralise un ennemi avec [++Pathfinder-RPG.Blessant|Blessant], ce qui devrait arriver une fois par tour grâce à [++Pathfinder-RPG.Rossée du cornugon|Rossée du cornugon].  
+
+Quant aux attaques naturelles, on a déjà tout ce qu'il faut pour en obtenir de bonnes : tieffelin propose une attaque de morsure, le premier pouvoir du lignage donne des griffes en rage, et on pourra obtenir des cornes au niveau 8 via l'archétype [++Pathfinder-RPG.Primitif (Sanguin)|Primitif] et le pouvoir de rage [++Pathfinder-RPG.pouvoirs de rage.ashx#TOTEMFIELONMINEUR|Totem fiélon mineur]. Quatre attaques naturelles primaires, dont trois dès le niveau 1, sont suffisantes pour ce qu'on veut en faire, étant donné que ce sera le mode d'attaque secondaire. Cependant, les attaques de corne et de morsure pourront toutes deux être employées comme attaques naturelles secondaires en complément des attaques à l'arme à allonge, pour peu qu'on trouve des ennemis à portée.
+
+Tous ces dons, pouvoirs et capacités sont commentées plus en détail ci-dessous.
+
+#### 2. Race, caractéristiques et traits
+
+##### 2.1 Race
+
+C’est au niveau des races qu’on peut trouver de bonnes attaques de morsure, et ce sont les deux mêmes qui reviennent à chaque fois : demi-orque et tieffelin. Les choses se goupillent bien : on pense tout de suite au tieffelin pour des raisons thématiques évidentes, et il se trouve que c’est techniquement le meilleur choix.
+
+**Traits raciaux**
+- La variante de [++Pathfinder-RPG.Tieffelin (race)|tieffelin] "scion de démon", qui donne +2 FOR, +2 CHA et -2 INT, est idéale pour le sanguin. A noter que depuis le supplément [https://paizo.com/products/btpy8qzz?Pathfinder-Player-Companion-Blood-of-Fiends|Blood of fiends], il n'est plus nécessaire de prendre le don [https://www.d20pfsrd.com/feats/general-feats/fiendish-heritage|Fiendish heritage] pour avoir accès aux variantes de tieffelin.
+- **Extérieur natif** : n’étant pas humanoïde, le perso est immunisé à plein de sorts pénibles de l’école d’enchantement, tels que Hébétement, Charme-personne, Immobilisation de personne, Domination... Pour un barbare qui craint traditionnellement ces sorts, c’est un réel avantage.
+- **La gueule ou la griffe** : donne une excellente morsure à 1d6 en remplacement du pouvoir magique journalier de fracassement.
+- **Résistance des fiélons** : trois résistances élémentaires à 5, c’est bien, et ça va permettre de se passer du pouvoir de lignage de niveau 8 comme on l'a vu.
+- **Compétent** : le bonus en Sabotage ne servira probablement jamais ; en revanche, le bonus en Perception est appréciable puisque c'est la compétence la plus testée du jeu.
+- **Magie des fiélons** : le sanguin ayant comme classes-mères barbare et ensorceleur, on peut raisonnablement demander au MJ d'accorder ce pouvoir au sanguin. Ça ne le fera pas lancer des sorts nécessitant un JS, mais ça pourra lui donner un sort quotidien en plus... Ce qui serait d'autant mieux que le sanguin a un nombre de sorts quotidien très faible.
+
+##### 2.2 Caractéristiques
+
+Le personnage souffre un peu de sa dépendance multi-attributs bien que son charisme n'ait pas besoin d'être très élevé compte tenu de sa faible progression de sorts (à moyen et haut niveau, on compensera par des objets). En 25 points, on lui préférera d'ailleurs la sagesse, un +1 au jet de Volonté étant toujours bon à prendre.
+
+Voici trois exemples de répartition selon les barèmes de points les plus couramment pratiqués :
+
+- **Répartition (25 pts)** : For 18 (16+2) Dex 14 Con 14 Int 10 (12-2) Sag 12 Cha 13 (11+2) (For +1 aux niveaux 4-8-12-16 / Cha +1 au niveau 20)
+- **Répartition (20 pts)** : For 17 (15+2) Dex 14 Con 14 Int 10 (12-2) Sag 10 Cha 13 (11+2) (For +1 aux niveaux 4, 8, 12, 16 et 20)
+- **Répartition (15 pts)** : For 17 (15+2) Dex 14 Con 13 Int 8 (10-2) Sag 10 Cha 12 (10+2) (For +1 aux niveaux 4, 12 et 16, Con +1 au niveau 8)
+
+##### 2.3 Traits de personnage
+
+Aucun trait n'est indispensable au build. On en trouvera une courte sélection ci-dessous :
+
+- [++Pathfinder-RPG.Traits de combat.ashx#REACTIF|Réactif] (combat) : classique - un peu trop, sans doute - mais c’est clairement un des meilleurs traits et l'initiative du perso est médiocre.
+- [++Pathfinder-RPG.Traits de magie.ashx#INDEMNE|Indemne] (magie) : les résistances élémentaires passent de 5 à 7. Avec trois résistances différentes, ce trait est intéressant.
+- [++Pathfinder-RPG.Traits de foi.ashx#FOIINEBRANLABLE|Foi inébranlable] (foi) : Le JS Volonté est le plus important, et un +1 est toujours bon à prendre.
+
+##### 2.4 Bonus de classe de prédilection
+
+La classe de prédilection est celle de Sanguin. Ce type de perso n'ayant jamais assez de points de vie, on optera pour le PV supplémentaire.
+
+#### 3. Plan de carrière
+
+##### 3.1 La question du "rage cycling"
+
+Comme pour tout personnage disposant de la rage, être en mesure de faire du "rage cycling" (c'est-à-dire être en mesure d'activer ou désactiver la rage à volonté sans subir de fatigue) simplifie le gameplay tout en ouvrant un large panel d'options de jeu. C'est encore plus vrai avec une rage permettant de s'agrandir à volonté. Acquérir le plus rapidement possible l'immunité à la fatigue est donc un des principaux objectifs du build. Il existe de nombreux moyens d'y parvenir :
+
+- [++Pathfinder-RPG.Sanguin.ashx#RAGESANGUINESANSFATIGUE|Rage sanguine sans fatigue] : attendre le niveau 17 de sanguin est clairement le moyen le plus simple puisqu'on n'a rien à faire. Malheureusement, ce pouvoir arrive beaucoup trop tard.
+
+- [++Pathfinder-RPG.Corde de Ténacité|Corde de ténacité] : cet excellente ceinture inflige des dégâts non-létaux lorsqu'on sort de rage. Elle souffre toutefois de deux problèmes : d'abord elle est chère, et comme c'est une ceinture, elle renchérit l'acquisition des boosts de caractéristiques physiques, dont les coûts sont tous multipliés par 1,5. Or, comme tout combattant, le perso souffre déjà d'une grand dépendance à l'équipement, et donc aux ressources financières. Ensuite, elle interfère avec le sort Barrière protectrice et le pouvoir de rage Égratignure qui jouent déjà avec les dégâts non-létaux, et en multiplier les sources risque d'être contre-productif : on veut plus de résilience, pas tomber inconscient à cause des dégâts non-létaux !
+
+- [++Pathfinder-RPG.Oracle|Oracle] avec la malédiction [++Pathfinder-RPG.malédictions doracle.ashx#Boiteux_0|boiteux] : 1 niveau d'oracle, pris au niveau 9, donne immédiatement l'immunité recherchée (en raison de la manière dont le niveau de la malédiction est calculé) au prix d'une perte de 3 m de vitesse de déplacement. On veillera donc à posséder à ce moment une armure qui ne gêne pas les déplacements (une cuirasse en mithral idéalement) afin de conserver une VD de 9 m au moins. On s'orientera vers le mystère des [++Pathfinder-RPG.Mystère des batailles|batailles] pour son choix de révélations adapté aux capacités du personnage, mais aussi parce que c’est un des rares mystères à proposer plusieurs révélations relativement indépendantes du niveau d'oracle : **Charge surprise** permet, une fois par jour, de porter une attaque à outrance tout en se déplaçant, ou de faire un déplacement en action immédiate : à la fois offensive et défensive, cette révélation est probablement le meilleur choix ; **Vision de guerre** est plus ou moins équivalente, en termes d’efficacité, à science de l’initiative, qu’on a d’ailleurs du mal à faire rentrer dans le plan de carrière ; **Lucidité sur le champ de bataille** augmente la résilience du personnage contre un certain nombre de conditions pénibles.
+
+Bien qu'il impose un niveau de retard sur la progression de sanguin, le dip d'oracle est peut-être la solution à privilégier pour trois raisons : c'est la solution qui arrive le plus tôt, elle ne coûte pas de ressources, et elle propose quelques options sympathiques (un +2 au JS Volonté bienvenu, l'excellent Charge surprise, la possibilité d'utiliser des baguettes de sorts divins...). On considérera donc ce niveau d'oracle comme intégré à la progression de carrière pour la suite du build.
+
+
+##### 3.2 Dons et capacités de classe
+
+**3.2.1 Archétypes de classe**
+
+Le sanguin est une classe qui, une fois n’est pas coutume, propose pas mal de bons archétypes.
+
+Le [++Pathfinder-RPG.Primitif (Sanguin)|primitif] est indispensable dans ce build : il permet de substituer les pouvoirs de lignage médiocres des niveaux 8, 12 et 16 de sanguin par des pouvoirs de rage de barbare (le niveau de sanguin se substituant au niveau de barbare pour le respect des prérequis). Chaque pouvoir de lignage abandonné donnant droit à deux pouvoirs de rage, cet archétype est de très loin le meilleur de toute la classe. En fait, il rend presque obsolète la classe de barbare à lui tout seul. Petite précision : l'archétype ne confère pas la capacité de classe Pouvoir de rage, donc il ne qualifie pas pour le don Pouvoir de rage supplémentaire.
+
+Le [https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Bloodrager%20Urban%20Bloodrager|sanguin urbain] (urban bloodrager, non traduit) est un autre excellent archétype, meilleur que son équivalent barbare (il ne perd ni le port des armures intermédiaires, ni le déplacement accéléré). La rage sanguine contrôlée a deux gros avantages : elle règle le problème de la mort subite en sortie de rage quand le perso a pris une tannée, et elle limite la perte de CA en rage avec Taille démoniaque. Magie adoptée, qui permet d'emprunter quelques sorts au barde ou au magus, est aussi une bonne option.
+
+Si on préfère verser dans l'ultraviolence au détriment de la défense, le [++Pathfinder-RPG.Métamorphe sanguin (Sanguin)|Métamorphe sanguin] permet de considérer les griffes obtenues en rage comme d’une catégorie de taille supérieure, ce qui se traduit à terme par 1d6 dommages supplémentaires pour chaque attaque griffe. Le maintien du bonus de constitution en rage permet d'envisager le don Brute enragée à haut niveau, pour encore plus de dégâts.
+
+Ces deux derniers archétypes sont compatibles avec le primitif, mais incompatibles entre eux. Dans la suite du texte, on assumera que la combinaison par défaut est primitif + sanguin urbain.
+
+**3.2.2 Pouvoirs de rage**
+
+Comme indiqué plus haut, passé le niveau 4, les pouvoirs du lignage abyssal ne présentent pas beaucoup d'intérêt. Voici pourquoi :
+
+- **Résistances démoniaques** (niveau 8) : ce pouvoir n'ajoute qu'une résistance à l'acide de 5 aux résistances raciales existantes, et il faut attendre le niveau 16 pour qu'il s'avère meilleur : on s'en débarrassera donc sans regret.
+- **Rage sanguine abyssale** (niveau 12) : ce pouvoir donne un bonus de force en rage. Il peut être tentant de le garder mais il s'accompagne d'un nouveau malus à la CA qui s'ajoute aux autres, et les dégâts supplémentaires sont anecdotiques par rapport à la masse de dommages qu'on fait déjà.
+- **Aura démoniaque** (niveau 16) : s'immoler dans une aura de feu, quand on est un tieffelin badass, personne ne contestera que ça en jette grave. Malheureusement, les dommages infligés sont anecdotiques pour un pouvoir de ce niveau, et pourraient gêner les alliés qui ne sont pas forcément bien protégés contre le feu. On doit pouvoir y renoncer sans problème, le pire étant finalement de renoncer à la coolitude qu'il apporte.
+
+On pourra donc choisir entre quatre et six pouvoirs de rage selon le nombre de pouvoirs de lignage qu'on abandonne. On trouvera ci-dessous, listés par ordre décroissant de priorité, une sélection de pouvoirs de rage intéressants :
+
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#TOTEMFIELONMINEUR|Totem fiélon mineur] : procure l’attaque de corne qui complète la panoplie des armes naturelles, il est donc indispensable de le prendre dès que possible.
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#ESPRITVIDE|Esprit vide] : tout ce qui augmente la résistance aux sorts et effets ciblant la Volonté est bon à prendre ; fonctionne une fois par rage, donc profite énormément du rage cycling (qu'on pourra débloquer dès le niveau suivant). Pouvoir relancer un jet de Volonté est vraiment bien, mais pouvoir le faire à chaque round est encore mieux.
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#COUPINATTENDU|Coup inattendu] : permet de faire une AO si un ennemi rentre dans notre zone de contrôle, donc étend considérablement les possibilités de déclenchement des attaques d'opportunité ; fonctionne une fois par rage lui aussi, ce qui signifie potentiellement une fois par round.
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#VIGUEURINTERNE|Vigueur interne] : immunise à deux états préjudiciables fréquemment rencontrés et pénibles pour le combattant. Toutefois, ce type d'effet donnant généralement lieu à un jet de Vigueur, et le JS Vigueur du personnage étant plutôt élevé, ce pouvoir est loin d'être indispensable. 
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#REFLEXESRAPIDES|Réflexes rapides] : vient en complément ou en supplément d’attaques réflexes. Mentionné ici car totalement dans le thème du build, mais il n'est pas sûr que ça vaille un pouvoir de rage...
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#PICDEFORCE|Pic de force] : en action immédiate, rend trivial n'importe quel jet de manœuvre ou de lutte. Tout autant offensif que défensif, ce pouvoir profite à fond du rage cycling. Bonne synergie avec Repousser l'ennemi.
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|Repousser l'ennemi] : permet de faire une bousculade sur une attaque et non plus en action simple. On peut ainsi faire une attaque à outrance, tenter une bousculade sur sa dernière attaque en combo avec Pic de force, et cueillir l'adversaire au round suivant avec une AO ou avec Coup inattendu tout en lui interdisant l'attaque à outrance. 
+- [++Pathfinder-RPG.pouvoirs de rage.ashx#EGRATIGNURE|Égratignure] : seul pouvoir de la liste inaccessible au niveau 8, fonctionne en combo avec le sort barrière protectrice (cf. infra) en profitant du JS Vigueur élevé. Si une attaque fait 20 dégâts, ce pouvoir peut les transformer en 10 dégâts non-létaux, et Barrière protectrice intervient ensuite pour les réduire à 5 dégâts non-létaux. Fait des miracles avec du rage cycling.
+
+**3.2.3 Dons**
+
+**Les indispensables**
+
+- [++Pathfinder-RPG.Attaques réflexes|Attaques réflexes] : avec une arme à allonge et agrandi, on va contrôler jusqu’à 4 cases, ce qui signifie potentiellement plein d’AO. Et comme on va tâcher de provoquer des AO par d’autres moyens, ce don est  vraiment à la base du build et il faut le prendre dès que possible.
+- [++Pathfinder-RPG.Attaque en puissance|Attaque en puissance] : indispensable à tout combattant à deux mains. Ce don arrive vraiment tard (au niveau 6) si on le prend par le lignage, mieux vaut le prendre "à la main" dès le niveau 3.
+- [++Pathfinder-RPG.Frappe magique|Frappe magique] : un boost aux dégâts et l'assurance d'avoir toujours une arme magique, ce don est largement supérieur à la spécialisation martiale du guerrier. A noter que le sanguin n’a pas de niveau de lanceur avant le niveau 4, à partir duquel son niveau de lanceur de sorts est égal à son niveau de classe.
+- [++Pathfinder-RPG.Frappe magique sanguine|Frappe magique sanguine] : permet d’utiliser frappe magique sans manger l’action rapide. Très utile dans la mesure où on risque de finir avec pas mal de capacités ou d'objets qui consomment l'action rapide. 
+
+**Les combos**
+
+- [++Pathfinder-RPG.Enchaînement|Enchaînement] + [++Pathfinder-RPG.Enchaînement final|Enchaînement final] : Enchaînement final est un très bon don qui rajoute des attaques sans consommer d’AO, et ce d’autant plus facilement qu’on a de l’allonge. Il n’a contre lui que son pré-requis, qui est médiocre. Il se trouve qu'Enchaînement est dans la liste des dons de lignage, autant en profiter.
+- [++Pathfinder-RPG.Rossée du cornugon|Rossée du cornugon] + [++Pathfinder-RPG.Force intimidante|Force intimidante] + [++Pathfinder-RPG.Blessant|Blessant] : Rossée du Cornugon est assez dans le thème du build, et c’est un excellent don qui permet au sanguin de faire du débuff en action libre. Force intimidante donne un gros bonus aux tests d'intimidation mais n’aurait sans doute pas été pris s’il n’avait pas été disponible en don de lignage. Quant à Blessant, il permet, par une action rapide, de faire une attaque supplémentaire sur un ennemi qu'on vient d'intimider. Les trois ensemble permettent de faire quasiment à coup sûr une attaque supplémentaire à chaque round.
+- [++Pathfinder-RPG.Art du bouclier|Art du bouclier] + [https://aonprd.com/FeatDisplay.aspx?ItemName=Unhindering%20Shield|Unhindering shield] (non traduit) : quel que soit le niveau du perso, maintenir sa CA à peu près à niveau sera une préoccupation constante si on veut lui éviter de se faire toucher tout le temps. Avec l'équipement adéquat, ces deux dons ensemble lui offrent jusqu'à 7 points de CA (targe 1 pt ; Art du bouclier 1 pt ; bonus d'altération jusqu'à 5 pts) sans compromettre ses capacités offensives. Le sanguin urbain n'octroie pas le maniement des boucliers (qui est un prérequis pour Art du bouclier), mais on peut prendre un dip de guerrier sur un niveau impair pour bénéficier des deux dons d'un coup, et ainsi récupérer le maniement malgré tout. Dans le cas contraire, le niveau d'oracle pris au niveau 9 octroie lui aussi le maniement des boucliers.
+
+**Les autres dons**
+
+Dans cette catégorie, on liste des dons sympas qu’on n’a pas la place de caser à bas ou moyen niveau, ou qui représentent des options alternatives :
+
+- [++Pathfinder-RPG.Arme en main|Arme en main] : utile pour dégainer l’arme et faire une attaque à outrance, il ne permet pas de la ranger quand elle nous gêne. On est toujours obligé de la laisser tomber à terre quand on passe aux armes naturelles.
+- [++Pathfinder-RPG.Arme naturelle supérieure|Arme naturelle supérieure] : permet de gagner, à terme, 1d6 dommages sur les griffes. Problème : c'est un don de monstre, donc le MJ ne sera peut-être pas d'accord. Ne fonctionne qu'avec le sanguin urbain car ne se cumule pas avec la capacité du métamorphe sanguin.
+- [++Pathfinder-RPG.Armure de la Fosse|Armure de la Fosse] : colle bien avec la thématique et donne 2 points d'armure naturelle, sachant que l’emplacement d’amulette est pris. Un des rares dons qui donnent 2 points de CA d'un coup, sans prérequis ni contrepartie.
+- [++Pathfinder-RPG.Fente|Fente] : son principal défaut est de pas pouvoir servir pour faire des AO, et d’aggraver le problème de CA. A considérer néanmoins.
+- [++Pathfinder-RPG.Science de linitiative|Science de l'initiative] : agir en premier est toujours une bonne chose, ce don est donc utile à tous les personnages.
+- [++Pathfinder-RPG.Brute enragée|Brute enragée] : au prix de l'action rapide et d'une dépense accrue en rounds de rage, ajoute le modificateur de constitution aux dommages sur toutes les attaques du round. Le nombre de rounds de rage disponibles au niveau 13 (environ 30) rend ce don réellement utilisable. Il n'est toutefois intéressant qu'avec le métamorphe sanguin, dont la rage booste le bonus de constitution ; avec le sanguin urbain, ce bonus sera probablement trop faible. De plus, Brute enragée est incompatible avec Blessant, et ce dernier est bien plus offensif.
+
+##### 3.3 Sorts
+
+Comme toujours avec les lanceurs de sorts secondaires (voire tertiaires ici), on évitera absolument tout sort à jet de sauvegarde et on se contentera essentiellement de buffs offensifs ou défensifs. Quelques rares sorts de contrôle ou utilitaires parsèment la liste de sorts du sanguin et sont également à considérer.
+
+**3.3.1 Sorts de niveau 1**
+
+- [++Pathfinder-RPG.Rayon affaiblissant|Rayon affaiblissant] (lignage) : monocible, demande un JS vigueur... On n'aura presque jamais l'usage de ce sort.
+- [++Pathfinder-RPG.Bouclier|Bouclier] : un bonus de 4 points à la CA est une bonne défense à bas niveau, et l'immunité aux projectiles magiques peut s'avérer utile. Pourra être remplacé par un autre sort si on opte pour une targe à plus haut niveau.
+- [++Pathfinder-RPG.Repli expéditif|Repli expéditif] : augmente la VD en combat et hors combat. La mobilité, c'est important.
+- [https://www.d20pfsrd.com/magic/all-spells/c/cheetah-s-sprint/|Cheetah's sprint] donne de l'explosivité là où repli expéditif joue plus sur la durée. On se sentira plus à l'aise avec l'un ou l'autre sort selon sa façon de jouer.
+- [++Pathfinder-RPG.Bras long|Bras long] (ACG) : augmente l'allonge d'une case pendant 1 min/niv. Meilleur que Fente car fonctionne aussi en dehors du tour du perso.
+- [++Pathfinder-RPG.Projectile magique|Projectiles magiques] : il peut être utile de disposer d'une arme à distance fiable. Projectile magique touche à coup sûr et blesse les intangibles, et le perso a une bonne progression de NLS.
+- [++Pathfinder-RPG.Bouclier de pierre|Bouclier de pierre] : en action immédiate, un bonus de +4 à la CA contre les attaques d'un ennemi pendant un round entier. A utiliser contre l'attaque à outrance du big boss.
+
+**3.3.2 Sorts de niveau 2**
+
+- [++Pathfinder-RPG.Force de taureau|Force de taureau] (lignage) : arrive trop tard pour être utile. Au niveau où on le touche, on aura déjà certainement une ceinture de force +2.
+- [++Pathfinder-RPG.Aspect animal|Aspect animal] (UC) : grâce à ce sort très polyvalent, on peut acquérir une vitesse d'escalade ou de nage, courir plus vite... Et affronter toutes sortes d'environnements bien que la durée soit relativement courte. Un bon sort de mobilité, utilisable en combat et hors combat.
+- [++Pathfinder-RPG.Barrière protectrice|Barrière protectrice] : à lancer en début de journée, ce sort convertit la moitié des dégâts subis en dégâts non-létaux. De fait, il permet à lui seul de régler le problème de la mort subite du sanguin, et double l'efficacité des sorts de soins lancés sur lui. Indispensable, à prendre dès le niveau 7.
+- [++Pathfinder-RPG.Détection de linvisibilité|Détection de l'invisibilité] : c'est une capacité iconique des démons et ce sort permet d'en bénéficier sur une longue durée.
+- [++Pathfinder-RPG.Image miroir|Image miroir] : Un des meilleurs sorts de défense. A haut niveau, on peut le lancer à la Rage de grand sanguin. Grâce à lui, avoir une bonne CA est beaucoup moins important.
+- [++Pathfinder-RPG.Peau en fer|Peau en fer] : donne de 4 à 7 points d'armure naturelle et permet d'annuler un coup critique ou une attaque sournoise. Se cumule avec bouclier pour faire monter au besoin votre CA dans la stratosphère. Un excellent sort.
+- [++Pathfinder-RPG.Résistance aux énergies destructives|Résistance aux énergies destructives] : il arrivera un moment où les petites résistances raciales ne suffiront plus. Ce sort est là pour y remédier.
+- [++Pathfinder-RPG.Simulacre de vie|Simulacre de vie] : donne des PV sur une longue durée, et les PV sont toujours un problème pour un barbare. Ce sort, de portée personnelle, est un autre bon candidat pour la Rage de grand sanguin puisque son effet disparaît rapidement.
+- [++Pathfinder-RPG.Héroïsme|Héroïsme] (via Magie adoptée) : c'est LE buff de longue durée qui rend la vie plus facile, et le sanguin urbain permet de l'avoir en sort de niveau 2. Le seul problème est l'encombrement des bons sorts de ce niveau.
+- [++Pathfinder-RPG.Invisibilité|Invisibilité] (via Magie adoptée) : absent de la liste de sorts du sanguin, ce sort ouvre un vaste champ d'options tactiques, aussi bien pour la furtivité (dont le perso est absolument dépourvu), pour approcher l'ennemi sans être détecté ou, au contraire, pour faire retraite sans être attaqué.
+
+**3.3.3 Sorts de niveau 3**
+
+- [++Pathfinder-RPG.Rage|Rage] (lignage) : absolument nul et non avenu, ce sort ne servira probablement jamais.
+- [++Pathfinder-RPG.Arme magique suprême|Arme magique suprême] : à lancer au début de la journée, permet de se contenter d'un +1 minimal sur l'arme et de privilégier les propriétés spéciales intéressantes. L'arme est +3 à partir du niveau 12.
+- [++Pathfinder-RPG.Héroïsme|Héroïsme] : si on ne le prend pas comme sort de niveau 2, il reste intéressant au niveau 3.
+- [++Pathfinder-RPG.Tempête de neige|Tempête de neige] : bloque les lignes de vue et gêne les déplacements. Utile pour venir au contact d'archers ou de lanceurs de sorts, même si on est soi-même gêné.
+- [++Pathfinder-RPG.sort Vol|Vol] : indispensable pour maîtriser le terrain d'un point de vue tactique. Utilisable aussi bien en combat que hors-combat. Peut être émulé par des objets cependant.
+- [++Pathfinder-RPG.Rapidité|Rapidité] : à prendre si ce sort manque aux possibilités du groupe, mais ce n'est pas vraiment le rôle du personnage de buffer ses copains.
+- [++Pathfinder-RPG.Canaliser la vigueur|Canaliser la vigueur] : alternative de portée personnelle à Rapidité, avec une bonne polyvalence, les deux options "+ 6 au JS" étant excellentes.
+- [https://aonprd.com/SpellDisplay.aspx?ItemName=Bit%20of%20Luck|Bit of luck] (via Magie adoptée) : longue durée, et rajoute des d8 aux jets d'attaque, suffisamment de fois pour que ce soit vraiment intéressant. Attention, ce sort est normalement réservé aux hommes-félins, à voir avec le MJ.
+
+**3.3.4 Sorts de niveau 4**
+
+- [++Pathfinder-RPG.Peau de pierre|Peau de pierre] (lignage) : enfin un bon sort de lignage ! Au niveau où on y accède, le coût des composantes matérielles devient négligable.
+- [https://www.d20pfsrd.com/magic/all-spells/d/dimensional-blade|Dimensional blade] (Melee Tactics Toolbox) : pendant 1 round, toutes les attaques sont des attaques de contact. C'est l'utilisation en action rapide qui m'a convaincu d'adjoindre ce sort à la liste.
+- [++Pathfinder-RPG.Tentacules noirs|Tentacules noirs] : un autre contrôle de champ de bataille sans JS ni RM. Grâce à notre allonge supérieure, on doit pouvoir frapper sans crainte une partie des créatures agrippées dans la zone. Ne fonctionnera pas bien sur des gros monstres.
+
+#### 4. Équipement
+
+##### 4.1 Arme et armure
+
+Pour l'arme à allonge, on choisira quelque chose de simple et d'efficace parmi les armes de guerre. Le meilleur choix est sans doute le [++Pathfinder-RPG.Marteau de Lucerne (arme)|marteau de lucerne] : son gros dé de dégâts passe à 3d6 en taille G, il possède deux types de dégâts (C et P) et la propriété Réception peut être utile. La [++Pathfinder-RPG.Bardiche (arme)|bardiche] est également un bon choix mais lui reste inférieure.
+
+Pour les enchantements, on privilégiera l'ordre suivant : d'abord +1, puis [++Pathfinder-RPG.furieuse (propriété)|furieuse], puis [++Pathfinder-RPG.fortuite (propriété)|fortuite]. On n'aura probablement pas les ressources nécessaires pour financer un bonus d'altération supérieur, mais on se reposera sur Arme magique suprême pour cela. La propriété furieuse donne déjà un gros boost, et fortuite permet de multiplier les attaques d'opportunité, chaque première AO du round donnant une seconde AO gratuite.
+
+Pour l'armure, on optera pour une cuirasse dès que possible, puis une cuirasse agile en mithral. On l'enchantera ensuite avec un simple bonus d'altération, peu de propriétés d'armures étant réellement intéressantes pour leur coût. Si on opte pour une targe, on se contentera également d'un bonus d'altération aussi gros que possible.
+
+##### 4.2 Objets divers
+
+- Amulette : des poings invincibles avec l'enchantement [++Pathfinder-RPG.furieuse (propriété)|furieuse]. Pour 4000 po on aura ainsi un +2 sur toutes les armes naturelles. Pour les versions supérieures de l'amulette on ne prendra que des augmentations d'altération, et on complétera autant que faire se peut par une propriété d'[++Pathfinder-RPG.Amulette dArmure Naturelle|armure naturelle] selon la règle [https://www.pathfinder-fr.org//Wiki/Pathfinder-RPG.Cr%C3%A9ation%20dobjets%20magiques.ashx#Ajout_de_nouvelles_propri%C3%A9t%C3%A9s_10|prévue à cet effet]. En la payant à + 50% du coût, on n'aura sans doute pas les moyens de l'augmenter au-delà de +2.
+
+- Ceinture : de force d'abord, puis de dextérité, et enfin de constitution dans l'ordre de priorité.
+
+- Bandeau : de charisme pour atteindre 18 et ainsi avoir un sort en bonus pour chaque niveau de sort. Le reste en Sagesse pour booster le JS Volonté.
+
+- Cape : de résistance. Pas très cher et extrêmement utile.
+
+- Anneau : de protection, jusqu'à +3 si possible, mais tout bonus de CA est bon à prendre.
+
+- vêtement : l'excellent [++Pathfinder-RPG.Maillot de Sprinter|maillot de sprinter] permet de faire un déplacement par une action rapide, mais il faut alors terminer son tour. Permet donc de frapper avec de l'allonge, puis de se désengager, tout en continuant à menacer avec les attaques d'opportunité. Ce n'est qu'une fois par jour, mais c'est une solide option tactique pour une somme modique.
+
+- runes de pouvoir : avec le faible nombre de sorts quotidien du perso, les [++Pathfinder-RPG.Objets merveilleux sans emplacement.ashx#Rune de pouvoir|runes de pouvoir] s'avéreront très utiles, et elles ne consomment aucun emplacement.
+
+- bottes : de [++Pathfinder-RPG.Bottes de Rapidité|rapidité] ou [++Pathfinder-RPG.Bottes Ailées|ailées] selon les besoins et les sorts connus.
+
+### Évolution proposée
+
+
+{| CLASS="tablo autoalt" width="100%"
+|+ Évolution du *sanguin abyssal*
+|- CLASS="titre"
+| Niveau || Classe || BBA || NLS || Dons, capacités de classe
+|- CLASS="premier"
+| 01 || [++Pathfinder-RPG.Sanguin|Sanguin] 1 || +1 || - || [++Pathfinder-RPG.Attaques réflexes|Attaques réflexes];
+|-
+| 02 || [++Pathfinder-RPG.Sanguin|Sanguin] 2 || +2 || - || &nbsp;
+|-
+| 03 || [++Pathfinder-RPG.Sanguin|Sanguin] 3 || +3 || - || [++Pathfinder-RPG.Attaque en puissance|Attaque en puissance];
+|-
+| 04 || [++Pathfinder-RPG.Sanguin|Sanguin] 4 || +4 || 4 || Pouvoir de lignage : [++Pathfinder-RPG.lignage abyssal (sanguin).ashx#Taille_démoniaque_Sur_1|Taille démoniaque];
+|-
+| 05 || [++Pathfinder-RPG.Sanguin|Sanguin] 5 || +5 || 5 || [++Pathfinder-RPG.Frappe magique|Frappe magique];
+|-
+| 06 || [++Pathfinder-RPG.Sanguin|Sanguin] 6 || +6 || 6 || don de lignage : [++Pathfinder-RPG.Enchaînement|Enchaînement];
+|-
+| 07 || [++Pathfinder-RPG.Sanguin|Sanguin] 7 || +7 || 7 || [++Pathfinder-RPG.Enchaînement final|Enchaînement final];
+|-
+| 08 || [++Pathfinder-RPG.Sanguin|Sanguin] 8 || +8 || 8 || Pouvoirs de rage : [++Pathfinder-RPG.pouvoirs de rage.ashx#TOTEMFIELONMINEUR|Totem fiélon mineur], [++Pathfinder-RPG.pouvoirs de rage.ashx#ESPRITVIDE|Esprit vide];
+|-
+| 09 || [++Pathfinder-RPG.Oracle|Oracle] 1 || +8 || 8 || [++Pathfinder-RPG.Rossée du cornugon|Rossée du cornugon];
+|-
+| 10 || [++Pathfinder-RPG.Sanguin|Sanguin] 9 || +9 || 9 || Don de lignage : [++Pathfinder-RPG.Force intimidante|Force intimidante];
+|-
+| 11 || [++Pathfinder-RPG.Sanguin|Sanguin] 10 || +10 || 10 || [++Pathfinder-RPG.Blessant|Blessant];
+|-
+| 12 || [++Pathfinder-RPG.Sanguin|Sanguin] 11 || +11 || 11 || [++Pathfinder-RPG.Sanguin.ashx#RAGEDEGRANDSANGUIN|Rage de grand sanguin];
+|-
+| 13 || [++Pathfinder-RPG.Sanguin|Sanguin] 12 || +12 || 12 || [++Pathfinder-RPG.Frappe magique sanguine|Frappe magique sanguine] ; Don de lignage : [++Pathfinder-RPG.Robustesse|Robustesse]; Pouvoirs de rage : [++Pathfinder-RPG.pouvoirs de rage.ashx#EGRATIGNURE|Égratignure], [++Pathfinder-RPG.pouvoirs de rage.ashx#COUPINATTENDU|Coup inattendu];
+|-
+| 14 || [++Pathfinder-RPG.Sanguin|Sanguin] 13 || +13 || 13 || &nbsp;
+|-
+| 15 || [++Pathfinder-RPG.Guerrier|Guerrier] 1 || +14 || 13 || [++Pathfinder-RPG.Art du bouclier|Art du bouclier] ; don bonus : [https://aonprd.com/FeatDisplay.aspx?ItemName=Unhindering%20Shield|Unhindering shield];
+|-
+| 16 || [++Pathfinder-RPG.Sanguin|Sanguin] 14 || +15 || 14 || &nbsp;
+|-
+| 17 || [++Pathfinder-RPG.Sanguin|Sanguin] 15 || +16 || 15 || [++Pathfinder-RPG.Science de linitiative|Science de l'initiative] ; Don de lignage : [++Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine];
+|-
+| 18 || [++Pathfinder-RPG.Sanguin|Sanguin] 16 || +17 || 16 || Pouvoirs de rage : [++Pathfinder-RPG.pouvoirs de rage.ashx#PICDEFORCE|Pic de force], [++Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|Repousser l'ennemi];
+|-
+| 19 || [++Pathfinder-RPG.Sanguin|Sanguin] 17 || +18 || 17 || [++Pathfinder-RPG.Armure de la Fosse|Armure de la Fosse];
+|-
+| 20 || [++Pathfinder-RPG.Sanguin|Sanguin] 18 || +19 || 18 || Don de lignage : [++Pathfinder-RPG.Science de la bousculade|Science de la bousculade];
+|}

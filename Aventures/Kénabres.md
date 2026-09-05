@@ -1,0 +1,91 @@
+---
+Name: Aventures.Kénabres
+Title: Kénabres
+LastModified: 2021-07-29 01:23
+Categories:
+- Campagne
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Kénabres|}
+{s:BDTexte|*Source : [Aides de jeu AP13#CHUTEDEKENABRES|La Colère des Justes], p.349*}
+[Grande Ville](./../Pathfinder-RPG/Villes.md#Le_profil_d'une_communauté_1), LB
+**Corruption** +0 ; **Criminalité** +1 ; **Economie** +3; **Loi** +4 ; **Folklore** +2 ; **Société** +3
+**Avantage de ville** :
+[Lieu Saint](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
+[Insulaire](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
+[Raciste (Tieffelins)](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
+[Emplacement stratégique](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
+[déchiré par la guerre](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5)
+**Danger** +10
+(((Démographie)))
+**Gouvernement** : autocratie
+**Population** : 12330 (11714 humains, 370 halfelins, 123 demi-elfes, 123 autres)
+(((PNJ Importants)))
+**Prélat**, [Hulrun Shappok](./Kénabres-Hulrun-Shappok.md) : humain de grand age (m) inquisiteur de Iomédae 13, LN
+**Grand prêtre du Temple de Iomédae**, [Nestrin Alodae](./Kénabres-Nestrin-Alodae.md) : humain vénérable (m) prêtre de Iomédae 11, LB
+**Grand prêtre de la Cathédrale Saint Clydwell**, [Eterrius Sunnestier](./Kénabres-Eterrius-Sunnestier.md) : demi-elfe (m) prêtre de Iomédae 9, LB
+**Protecteur de la ville**, [Térendélev](./Kénabres-Térendélev.md) : dragon d'argent vénérable (f), LB
+(((PNJ Secondaires)))
+[Hatherelm Arir](./Kénabres-Hatherelm-Arir.md), dramaturge de l'amphithéâtre d'Alodae : humain (m) noble 1 /barde 8, NB
+[Chun Dawei](./Kénabres-Chun-Dawei.md), capitaine des gardes du campement des croisés : humain (m) guerrier 7, LB
+[Kimroth Otai](./Kénabres-Kimroth-Otai.md), propriétaire du Coeur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
+[Quednys Orlun](./Kénabres-Quednys-Orlun.md), propriétaire du Librairium de l'aile noire brisée : vieil humain (m) magicien 6, LB
+[Fenna](./Fenna.md), bibliothécaire du Librairium de l'aile noire brisée : humain (f) magicien 1, N
+[Caelda Halse](./Kénabres-Caelda-Halse.md), forgeron de la porte sud : aasimar (f) expert 3/guerrier 2, N
+[Crocis](./Kénabres-Crocis.md), jardinier du parc de Pierrevraie : demi-elfe (m) druide 5, N
+[Julanie Nalti](./Kénabres-Julanie-Nalti.md), responsable de la grue et des entrepôts : humain (f) expert 2/Guerrier 2, LN
+[Veserda la Chouette](./Kénabres-Veserda-la-Chouette.md), contact des adeptes de la flamme noire : humain (f) oracle 6 / adepte de la flamme noire 3, CM
+[Liotr Lamebuse](./Kénabres-Liotr-Lamebuse.md) humain (m), chef des chasseur de sorcières : inquisiteur de Iomédae 5, LN
+[Ciar Cobelen](./Kénabres-Ciar-Cobelen.md), commandant des Croisés de la Lumière éternelle : humain (m) paladin de Iomédae 10, LB
+[Miammir](./Kénabres-Miammir.md), savante des Croisés de l'Ordre de la lance enflammée : demi-elfe (f) magicien 7/paladin 3, LB
+[Ashus Striegher](./Kénabres-Ashus-Striegher.md), commandant des Croisés de l'Ordre de l'épée de l'Aube : humain(m) prêtre de Iomédae 9/paladin de iomédae 2, LB
+[Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), capitaine des Croisés du Guet de l'Aigle : demi-orque (f) paladin de Iomédae 5, LB
+[Beltran Ravenken](./Kénabres-Beltran-Ravenken.md), porte-parole des Gardiens des failles : humain (f) barde 6/gardien des failles 3, N
+[Faxon](./Ap13-Faxon.md), chef du chapitre des Templiers du Labyrinthe d'Ivoire : tieffelin (m) sorcière 5, CM
+[Aigon Topaze](./Kénabres-Aigon-Topaze.md) propriétaire des Solutions Topaze : humain (m) magicien 1, CM
+(((Place du marché)))
+**Valeur de base** 9600 po ; **Limite d'achat** 40000 po ; **Incantation** 7
+**Objets faibles** : 4d4
+**Objets intermédiaires** : 3d4
+**Objets puissants** : 2d4
+(((Bâtiments Notables)))
+**Amphithéâtre Alodae** (1) : C'est ici que les habitants viennent s'offrir de rares distractions.
+**Cathédrale Saint Clydwell** (2) : Où sont célébrés tous les évènements religieux majeurs. La cathédrale fut érigée en l'honneur du paladin Clydwell qui se sacrifia pour piéger les démons dans la Plaie du Monde.
+**Place Clydwell** (3) : C'est sur cette large place située juste à l'ouest de la cathédrale que sont organisés les traditionnels festivals de la ville.
+**Garnison Grise** (3 bis) : Située en face de la Cathédrale Saint Clydwell, la Garnison, qui tient son nom de sa facade trapue en pierre grise, est un musée entretenu par plusieurs conservateurs âgés qui, par sens du devoir et par respect pour l'histoire, maintiennent l'établissement opérationnel.
+**Campement des croisés** (4) : L'afflux constant de croisés en attente d'une occasion pour tuer les démons a engendré des problèmes de logistique.
+**Cœur du défenseur** (5) : L'énorme auberge du district de la Porte et quartier général de grand nombres de compagnies mercenaires.
+**Hall des héros** (6) : Le Hall des héros immortalise les champions les plus vénérés de Kénabres. Des statues de pierre représentant des héros couronnés de ce lauriers sont alignés dans le couloir central de cette bâtisse.
+**L'Ecu** (7) : qui surplombe les pompes à eau à l'ouest du district de l'anneau. Cet énorme bouclier de pierre gravées de 7 mètres de long contient la Pierre Gardienne de la ville.
+**Librairium de l'aile noire brisée** (8) : Surnommée Noire-Aile par ses habitants, il s'agit du plus grand centre de documentation en démonologie et énergies planaires de tout Mendev. Il propose aussi un musée où sont exposés, entre autres, des ossements démoniaques.
+**Porte Nord** (9) : Ouvre sur un quartier résidentiel parsemé de petites boutiques et de temples. Un grand marché, le marché de la porte Nord, d'étend non loin des portes. Les Solutions Topaze y vend des ustensiles alchimiques et des potions.
+**Porte Sud** (10) : Ouvre sur un quartier résidentiel et plusieurs forgerons sont installés près du marché de la porte Sud.
+**Temple de Iomédae** (11) : Deuxième plus grand temple de Kénabres après la Cathédrale Saint Clydwell. Les offices sont célébrés deux fois par semaine.
+**Tour d'Estrode** (12) : Bibliothèque et Laboratoire loué par la ville.
+**Parc de pierrevraie** (13) : Le parc contient un monument de granit et de quart rose construit en l'honneur du *Matin Sanglant*.
+**Taudis des Rempardiers** (14) : Ce taudis accueille les habitants les plus pauvres et les plus désespérés.
+**Place des entrepôts** (15) : Un grand treuil a manivelle sert à faire passer les marchandises au dessus des remparts.
+**Pompes à eau** (16) : chacune des trois pompes amène l'eau à un réservoir différent.
+</div>
+</td><td><div>
+#### Aperçu de Kénabres
+La ville de Kénabres domine la Plaie du Monde depuis les hauteurs des falaises à l'est du Sellen occidental. C'est un lieu de rassemblement pour les croisés qui se rendent dans la Plaie du Monde et le foyer d'un groupe de défenseurs résolus, même si parfois trop zélés.
+Avant que la Plaie ne s'ouvre dans le monde et ne vomisse ses hordes démoniaques sur le Sarkaris condamné, Kénabres était une petite ville frontalière industrieuse. Les habitants de l'ancienne Kénabres commerçaient en amont et en aval du fleuve dont ils tiraient l'eau à l'aide d'un ingénieux système de pompes et de tuyaux. Quand la Plaie du Monde est apparue, la ville a été envahie par les réfugiés. Au départ, les Kénabresiens les ont aimablement accueillis. Ils ont réfréné leurs élans hospitaliers quand un infiltrateur démoniaque déguisé en réfugié a massacré soixante-deux habitants au début de l'an 4607 AR. Après cela, les immigrants étaient tous suspects et soigneusement examinés, obligés de se soumettre sans cesse à des tests gênants pour prouver leur humanité.
+Malgré les difficultés qu'il y avait à se faire accepter à Kénabres, les réfugiés ont continué d'affluer depuis le Sarkaris. Un siècle après l'ouverture de la Plaie du Monde, la bourgade est devenue une petite ville. En s'agrandissant, elle s'est dotée d'une série de murailles, créant plusieurs districts physiquement distincts. Aujourd'hui, les douze mille habitants vivent presque tous derrière les murs tandis que les croisés qui se rassemblent là campent hors la ville, au nord de ses murailles.
+Après la Deuxième croisade, l'Église de Iomédae a construit un fort de pierre pour abriter la pierre de garde de Kénabres. Cette pierre est une des nombreuses placées le long de la frontière avec la Plaie du Monde. Elles empêchent les démons de traverser la ligne qui sépare une pierre de la suivante tant que les prêtres chargés de s'en occuper alimentent son pouvoir avec des prières et des rituels. Entre la pierre de garde et ses murailles, Kénabres est donc une forteresse relativement sûre… du moins, elle l'était jusqu'à ce que la corruption commence à la ronger de l'intérieur. La chasse aux sorcières fait partie des traditions de Kénabres, depuis que les membres de la Première croisade ont fait montre d'un excès de zèle déplacé.
+Les « sorcières » brûlées depuis sur le bûché étaient principalement des gens qui affichaient simplement une religion ou une apparence différente. Les chasseurs de sorcières arborent ostensiblement le blason de l'Église de Iomédae mais ils édictent souvent leurs propres lois et prennent les mesures qu'ils estiment nécessaires pour empêcher les démons de corrompre les habitants ou de prendre possession d'eux. Depuis la Quatrième croisade, les chasseurs de sorcières ont perdu un peu d'influence mais ils restent prêts à réagir à la moindre menace démoniaque, réelle ou imaginaire.
+Les personnages élevés à Kénabres ont toujours vécu au milieu des préparatifs de guerre et sous la menace constante d'un assaut. Même les aventuriers les plus jeunes ont vu la ville grossir et changer durant leur courte vie et regardé une foule de croisés, toujours changeants, traverser leur bourgade. Vivre sous la menace constante des démons, ce n'est pas la même chose que de vivre dans un pays déchiré par la guerre : il est bien difficile de comprendre l'ennemi ou de se comparer à lui, et il est tout aussi malaisé d'analyser ses motivations et de les exploiter. Grandir sous l'ombre d'une telle menace, voilà qui teinte à coup sûr la tournure d'esprit d'un jeune aventurier.
+
+#### Rumeurs
+*[Aponavicius](./AP13-Aponavicius.md)*, la marilith qui règne sur Drezen depuis que ses armées l'ont prise. Elle lance fréquemment des assauts contre Kenabres.
+*[Areelu Vorlesh](./AP13-Areelu-Vorlesh.md)*, la sorcière responsable de l'ouverture de la Plaie du Monde. Il se murmure qu'elle serait vivante et attendrait son heure dans les profondeurs des abysses.
+*[Deskari](./Pathfinder-RPG-Deskari.md)*, le seigneur démon des gouffres, infections et insectes. Il est la force abyssale principalement responsable de l'ouverture de la Plaie du Monde.
+*[Minagho](./AP13-Minagho.md)*, une démone lilitu qui convertirait des croisés en démons.
+*[Staunton Vhane](./AP13-Staunton Vhane.md)*, un nain traitre à sa cause. Celui qui passait pour un paladin était en fait un anti-paladin qui quitta la ville suite à la révélation de son vrai visage.
+*Les templiers du labyrinthe d'ivoire*, des cultistes de Baphometh qui ont pour mission de corrompre les croisés.
+
+</div></td></tr></table>
+
+{s:ImageExtLien|http://www.pathfinder-fr.org/wiki/public/upload/Parties/Partie%20S-210/Kenabres.png|800px|centre cadre}

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.cape dimmolation
+Title: Cape d'immolation
+LastModified: 2024-06-18 18:35
+Categories:
+- Objet mag
+- Objet mag maudit
+- Règle officielle
+- Src Armes et équipement
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+{s:BDTitre|Cape d'immolation|{s:AE}}
+**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 12 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Poids** 0,5 kg
+(((Description)))
+{s:Desambi|Cape d'immolation est aussi le nom d'un [objet merveilleux](./Cape dimmolation CMy.md).}Cette cape semble être un habit de belle facture qui dégage une magie protectrice. On peut la manier et l’examiner sans danger mais, dès qu’on l’enfile, elle s’embrase et brûle sans que cela ne l’abîme, en immolant simplement son propriétaire. Elle lui inflige 1d6 points de dégâts de feu par [round](./round.md) et on ne peut pas l’enlever tant que personne n’a levé sa malédiction. On peut éteindre temporairement les flammes en les noyant ou en les étouffant mais la cape s’embrase de nouveau dès qu’elle se trouve au contact de l’air. Des sorts comme *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* et autres protègent le personnage contre les flammes tant qu’ils sont actifs.
+(((Objet magique prévu)))
+N'importe quelle [cape magique](./Objets merveilleux portés sur les épaules.md)
+</div>

@@ -1,0 +1,66 @@
+---
+Name: Pathfinder-RPG.Escargot fléau
+Title: Escargot fléau
+LastModified: 2024-02-12 00:40
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Escargot fléau|FP 4}
+{s:pucem|Créature magique|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3 p.112*}
+{s:BDTexte|**PX** 1 200 px}
+{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [odorat](./odorat.md), [perception aveugle](./perception aveugle.md) à 9 m (6 {s:c}), [Perception des vibrations](./Perception des vibrations.md) à 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 18 , contact 8 , pris au dépourvu  18 (Dex -1, naturelle +10, taille -1)}
+{s:BDTexte|**pv** 30 (4d10+8)}
+{s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +2}
+{s:BDTexte|**'Capacités défensives** distorsion de la magie, rétraction ; **Immunité** poison ; **Résistance** feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m (2 {s:c}), escalade 3m (2 {s:c})}
+{s:BDTexte|**Corps à corps** 4 coups, +7 (1d4+3)}
+{s:BDTexte|**Espace occupé** 3 m (2 {s:c}), escalade 3m (2 {s:c}) ; **Allonge** 3 m (2 {s:c}), escalade 3m (2 {s:c})}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 16, **Dex** 8, **Con** 14, **Int** 5, **Sag** 12, **Cha** 8}
+{s:BDTexte|**BBA** +4, **BMO** +8, **DMD** 17 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque en puissance](./Attaque en puissance.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +0, [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +5}
+{s:BDTexte|**Langue** gastérofléau (écriture de bave, langue des signes, ne peut pas parler)}
+{s:BDTexte|**Particularités** corde visqueuse, mucus, succion}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** souterrains}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou attroupement (3-30)}
+{s:BDTexte|**Trésor** standard (coquille d’une valeur de 800 po, autre trésor)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Corde visqueuse (Ext).** L’escargot fléau peut transformer son mucus en une sorte de corde de 18 m (12 {s:c}) de long au maximum, puis utiliser cette corde pour se suspendre au plafond indéfiniment en supportant jusqu’à 500 kilos supplémentaires, ou pour descendre en toute sécurité de 6 m (4 {s:c}) par [round](./round.md). Il peut remonter cette corde à une vitesse de 3 m (2 {s:c}) par [round](./round.md). Une fois que l’escargot brise la corde, le mucus se décompose en 1d4 [rounds](./round.md). Tant que cette corde visqueuse n’a pas été détruite, les autres créatures peuvent s’en servir pour escalader en réussissant un test d’[Escalade](./Escalade.md) de [DD](./DD.md) 20.}
+{s:BDTexte|**Distorsion de la magie (Sur).** Chaque fois que l’escargot fléau est la cible d’un sort, il y a 80% de chances que ce sort produise un effet aléatoire plutôt que d’affecter l’escargot. Seuls les sorts ciblant directement l’escargot fléau sont distordus, ce pouvoir n’affecte pas les sorts à zone d’effet. Lorsqu’un sort est distordu, lancez 1d10 et reportez-vous à la table ci-contre.}
+{s:BDTexte|**Mucus (Ext).** Par une [action libre](./Action libre.md), l’escargot fléau peut sécréter un mucus qui recouvre son espace pendant 10 minutes. Ce mucus peut se présenter sous deux formes  : glissant ou collant. Un personnage qui tente de se déplacer sur une zone recouverte de mucus glissant doit faire un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 14 par [round](./round.md) ou tomber à terre. Le mucus collant transforme les cases qu’il occupe en [terrain difficile](./terrain difficile.md). Une case ne peut être affectée que par un seul type de mucus à la fois. Les escargots fléaux peuvent se déplacer sur n’importe quel type de mucus très facilement. Une case de mucus exposée au feu sèche et redevient normale. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Rétraction (Ext).** Par une [action rapide](./Action rapide.md), l’escargot fléau peut se rétracter dans sa coquille, augmentant son armure naturelle d’un bonus de +6, mais il ne peut pas se déplacer ni attaquer lorsqu’il est ainsi rétracté. Il peut revenir à la normale par une [action libre](./Action libre.md).}
+{s:BDTexte|**Succion (Ext).** Le pied de l’escargot fléau adhère si bien aux surfaces que sa vitesse d’escalade de 3 mètres (2 {s:c}) s’applique même aux surfaces parfaitement lisses et aux plafonds, sans risque de tomber à moins que l’escargot fléau ne soit activement immobilisé et détaché lors d’un test de lutte.}
+
+{s:ImageCentre|Bestiaire/Escargot fleau.jpg|90%}
+</div></td>
+<td><div>
+*La coquille de cet énorme escargot est haute en couleurs et sa tête est pourvue de quatre tentacules se terminant tous par un gourdin en forme de masse d’armes.*
+
+Les escargots fléaux sont des gastéropodes intelligents qui se nourrissent de champignons, de moisissures et de vermines, même s’ils peuvent attaquer des créatures plus grandes pour se défendre. Connus pour leur coquille capable de déformer la magie et pour leurs tentacules en forme de massues, les escargots fléaux errent lentement dans les cavernes souterraines, écrivant de grandes épopées avec leurs traces de bave.
+
+<center>
+{| CLASS="tablo toutgauche"
+|+ Effets de la "Distorsion de la magie"
+|-
+| 1-3 || Le sort fait long-feu. Pendant les 1d4 [rounds](./round.md) suivants, le lanceur doit réussir un test de [concentration](./concentration.md) de [DD](./DD.md) 15 pour réussir à lancer ses sorts.
+|-
+| 4-6 || Le sort fait long-feu. La créature la plus proche de l’escargot fléau est affecté comme si elle était la cible originelle du sort.
+|-
+| 7-9 || Le sort échoue. Rien ne se passe.
+|-
+| 10 || Le sort revient sur le lanceur (comme un *[renvoi des sorts](./Renvoi des sorts.md)*).
+|}
+</center>
+</div></td></tr></table>

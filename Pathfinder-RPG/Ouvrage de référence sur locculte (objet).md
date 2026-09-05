@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ouvrage de référence sur locculte (objet)
+Title: Ouvrage de référence sur l'occulte
+LastModified: 2021-09-24 22:32
+Categories:
+- Équipement
+- Src Aventures occultes
+---
+
+{s:AO}**Prix** 80 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+La taille et la forme de ces ouvrages sont très diverses. Ils peuvent prendre la forme de manuscrits enluminés et reliés ou de collections de journaux, de notes et de parchemins rédigés à plusieurs mains. Lorsqu’il est utilisé comme référence (une action qui nécessite généralement 1d4 minutes de recherche en lisant son contenu), un ouvrage de référence sur l’occulte confère un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) en rapport avec le sujet occulte abordé par le texte. Parmi les thèmes occultes souvent abordés dans les ouvrages de référence, on trouve la projection astrale, les [auras](./Auras.md), les rêves, les [lignes telluriques](./Les lignes telluriques.md), les [esprits des médiums](./Médium.md#ESPRIT) et les [rituels](./Rituels occultes.md). Les ouvrages de référence sur l’occulte qui abordent ces sujets de manière plus globale, comme les esprits dans leur ensemble, fournissent un aperçu mais pas suffisamment de détails pour conférer un quelconque bonus.

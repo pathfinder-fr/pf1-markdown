@@ -1,0 +1,19 @@
+---
+Name: Golarion.Bureau du Lord-Maire
+Title: Le bureau du Lord-Maire de Magnimar
+LastModified: 2022-02-16 14:18
+Categories:
+- Organisation
+- Varisie
+---
+
+{s:Organisation|Bureau du Seigneur-Maire|Office of the Lord-Mayor|-|-|Immeuble du Fronton, [Magnimar](./Magnimar.md)|Seigneur-Maire Haldmeer Grobaras|-|-|Local|-}Le Bureau du Seigneur-Maire est l'une des deux entités dirigeante de [Magnimar](./Magnimar.md) avec le [Conseil des Huissiers](./Conseil-des-Huissiers.md), même si en raison des constantes querelles qui gangrènent le conseil, le Seigneur-Maire est de loin la personnalité politique la plus puissante de la ville.
+
+En théorie, le Seigneur-Maire doit suivre les décisions du [Conseil des Huissiers](./Conseil-des-Huissiers.md), mais le maire actuel les a ignoré superbement en plusieurs occasions. Le Seigneur-Maire est autorisé à prendre ses propres décisions pour résoudre les problèmes les plus importants et les plus urgents. Ces décrets n'ont alors pas besoin de l'approbation du conseil.
+
+Le Seigneur-Maire actuel est Haldmeer Grobaras, incarnation des pires abus d'un tel poste : il a fait sien le Clos Rebelle, propriété la plus cossue de la ville, il ne porte que les vêtements chélaxiens les plus fin et les plus chers et prend les décisions les plus importantes en fonction du montant des pots-de-vin que chacune des parties lui offre. La raison pour laquelle Haldmeer Grobaras n'a pas fait plus de dégâts à la cité est son assistant Valanni Krinst. Celui-ci, qui doit mettre les décrets du Lord-Maire en application, en ignore ou transforme la plus grande part.
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur le Bureau du Seigneur-Maire dans le supplément
+- [Les meurtres des Écorcheurs](./../Aventures/Présentation AP1.md#AP1-2), second volume de la campagne [L'Éveil des Seigneurs des Runes](./../Aventures/Présentation AP1.md)
+{s:VoirAussiAprès}

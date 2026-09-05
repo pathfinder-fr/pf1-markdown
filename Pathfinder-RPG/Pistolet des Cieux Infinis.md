@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Pistolet des Cieux Infinis
+Title: Pistolet des cieux infinis
+LastModified: 2024-05-21 19:08
+---
+
+<div class="BD">
+{s:BDTitre|Pistolet des cieux infinis|{s:AE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 73.300 po ; **Poids** 2 kg
+(((Description)))
+Le symbole de l’infini est gravé de chaque côté de la crosse en nacre de ce pistolet +5 et son barillet est gravé en or des motifs de la lune, des planètes et des étoiles sur l’acier froid et noir du pistolet, tel un ciel nocturne. Il n’est nullement besoin de recharger ce pistolet. Après avoir tiré, le pistolet se recharge de lui-même en créant magiquement une balle et de la poudre noire. Il est impossible de faire long feu avec cette arme.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[assistant de chargement](./Assistant de chargement.md)*  ; **Coût** 37.300 po
+</div>

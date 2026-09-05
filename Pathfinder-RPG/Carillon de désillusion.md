@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Carillon de désillusion
+Title: Carillon de désillusion
+LastModified: 2024-06-16 19:20
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Carillon de désillusion|{s:CMy}}
+**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 35 000 po ; **Poids** 1 kg
+(((Description)))
+Quand on le frappe, ce lourd tube de fer émet un son dissonant et concentre la lumière environnante sur lui. Le [niveau de luminosité](./Exploration.md) diminue d'un cran (jusqu'à un minimum de faible luminosité) dans un rayon de 18 mètres centré sur le point où le carillon a été sonné. Son écho résonne pendant 1 minute au cours de laquelle les créatures situées dans la zone ne bénéficient d'aucun bonus de moral mais gagnent un bonus de +4 aux jets de [Volonté](./Volonté.md) pour percer les illusions à jour. Quand ce temps est écoulé, la suppression des bonus de moral prend fin et le niveau de la lumière ambiante retourne à la normale. Si le porteur dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) alors qu'il frappe le carillon, la zone d'effet s'étend à un rayon de 36 mètres et chaque ennemi mythique qui s'y trouve perd une utilisation de pouvoir mythique, en plus des effets normaux du carillon. On peut faire sonner le carillon trois fois par jour : ensuite, il ne produit plus aucun son ni effet.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Artisan mythique](./Artisan mythique (mythique).md), *[apaisement des émotions](./Apaisement des émotions.md)*, *[ténèbres](./Ténèbres.md)* ; **Coût** 17 500 po
+</div>

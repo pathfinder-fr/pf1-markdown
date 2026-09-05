@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Fiole (objet)
+Title: Fiole
+LastModified: 2021-09-16 20:55
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Les fioles sont faites en verre ou en acier et ont une contenance de 30 millilitres.

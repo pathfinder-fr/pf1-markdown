@@ -1,0 +1,213 @@
+---
+Name: Guide dintégration pour les ouvrages officiels
+Title: Guide d'intégration pour les ouvrages officiels
+LastModified: 2021-06-10 19:25
+Categories:
+- Guide Wiki
+---
+
+<nav class="wiki-toc"></nav><div class="fright">{s:MenuGuide}</div>
+Avec l'arrêt des publications de Black Book Editions sur la gamme Pathfinder 1, il est important de mettre en place une méthode d'intégration fixe et claire pour que tous les contributeurs puissent être les plus autonomes possible dans l'intégration de nouveau contenu.
+
+### Introduction
+Plusieurs mots d'ordre vont diriger ce guide :
+#### 1. Organisation
+Une des parties les plus importante, c'est d'être organisé. Ainsi, il n'est pas bienvenue d'intégrer un don de tel supplément, puis un archétype d'un autre. Lorsqu'on entame n'importe quelle intégration, si le contenu vient d'un nouvel ouvrage, on pose la [base](./.md#BASE) qui facilitera le travail pour tout le reste. Cette base, elle peut être mise en place par un membre du staff, parce que c'est tout de même un gros travail de comparatif de sources (décrit dans le paragraphe "[Base](./.md#BASE)").
+
+#### 2. Cohérence
+Une des raisons pour lesquelles ce guide existe, créer une cohérence dans les travaux. Il est mille fois plus facile de travailler avec des présentations cohérentes, qui se font écho à toutes, comme ça, on sait ce qu'on cherche, et on le trouve facilement. Le plus gros conseil qui ressort de ce mot d'ordre : Si vous avez un doute sur une mise en page, fouinez dans ce qui existe déjà, et récupérer directement la forme que vous voulez (on pensera notamment aux descriptifs de sorts, de dons et aux blocs descriptifs d'objets).
+
+#### 3. Communication
+En général, on travail sur le wiki "quand on a le temps", et ce n'est en aucun cas un mal. Mais un point très important est de communiquer ce qu'il se passe. L'idéal est d'avoir un sujet sur le forum qui traite de l'intégration en court, mais quand on travail sur une intégration et qu'on est peu (voire seul), ça donne l'impression de se donner des nouvelles à soi même. Pour remédier à ça, n'hésitez pas à mettre à jour la page temporaire de l'intégration (voir [base](./.md#BASE) pour communiquer vos changements en temps réel et plus particulièrement, aux intéressés.
+
+{s:Reference|BASE}
+### La page de contenu de l'intégration
+Avant toute chose, on créé la page de contenu qui guidera tout les contributeurs sur ce qu'implique l'intégration du supplément voulu. Cette page, dont le titre fixe est "Nom de louvrage (Contenu)", présente absolument tous les noms de ce que contient l'ouvrage.
+
+En haut de page, on présente l'ouvrage :
+@@[Nom de l'ouvrage en VO](./Lien-vers-la-boutique-Paizo.md) a été publié en Mois 20XX par Paizo inc.
+Traduit et publié en français par Black Book Editions sous le nom d’[Nom de l'ouvrage en VF](./Lien-vers-la-boutique-BBE.md), en Mois 20XX.
+
+<nav class="wiki-toc"></nav>
+
+```
+'''''Notes.'''''  
+ - Si un Errata a été publié en VO, ajouter la mention suivante à la la fin de la première phrase : ", puis réimprimé en ''Mois 20XX'' afin d’y intégrer l’errata ''Nom de l'Errata '' publié en ''Mois 20XX''.". Et, s'il a été publié en VF, ajouter la mention suivante à la fin de la seconde phrase : ", puis réimprimé en Mois 20XX afin d’y intégrer l’errata cité.".  
+ - En cas d'Errata, on ajoute tout en haut de page (séparé d'une ligne avec la présentation de l'ouvrage) "'''''Errata ? intégré à ce contenu. (Jour, mois et année de l'écriture de cette mention)'''''".  
+ - Attention aux liens vers les boutiques officielles, on met l'ouvrage classique, pas les versions de poche.
+
+Ensuite, on liste les entrées qui ont du nouveau contenu (Inutile de mettre les entrées où rien ne s'ajoutera, mais voici un condensé de ce que ça pourrait donner, vous pouvez tout à fait le copier pour vous en servir de base (si on a un doute sur l'emplacement d'une entrée, on regarde si ça n'a pas été fait quelque part) :
+
+@@===Afflictions===
+====Poisons====
+<div class="article_3col">
+
+</div>
+
+
+===Archétypes===
+<div class="article_3col">
+[[Inventeur alchimiste (alchimiste)]],  
+[[Roi de lévasion (roublard)|Roi de l'évasion (roublard)]].
+</div>
+
+
+===Classes===
+<div class="article_3col">
+
+</div>
+
+
+===Dons===
+Les dons marqués d'un astérisque (*) sont des dons de combat, ceux marqués d'un M sont des dons de métamagie et ceux marqués d'un E sont des dons d'équipe.  
+<div class="article_3col">
+
+</div>
+
+
+===Équipement===
+====Équipement d'aventurier====
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Armes alchimiques====</div>
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Outils alchimiques====</div>
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Remèdes alchimiques====</div>
+<div class="article_3col">
+
+</div>
+
+
+===Objets magiques===
+====Artefacts====
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Objets maudits====</div>
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Objets merveilleux====</div>
+<div class="article_3col">
+'''Aucun (Sans emplacement).'''  
+
+  
+'''Corps.'''  
+
+  
+'''Cou.'''  
+
+  
+'''Épaules.'''  
+
+  
+'''Front.'''  
+
+  
+'''Mains.'''  
+
+  
+'''Pieds.'''  
+
+  
+'''Poignets.'''  
+
+  
+'''Taille.'''  
+
+  
+'''Tête.'''  
+
+  
+'''Torse.'''  
+
+  
+'''Yeux.'''  
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Propriétés spéciales====</div>
+<div class="article_3col">
+'''Armes.'''  
+
+  
+'''Armures.'''  
+
+</div>
+
+
+===Options de classe===
+====Arcanes de magus====
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Découvertes d'alchimiste====</div>
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Pouvoirs de rage du barbare====</div>
+<div class="article_3col">
+
+</div>
+
+<div style="border-top:1px solid #4b3124">
+====Talents de roublard====</div>
+<div class="article_3col">
+'''Talents.'''  
+
+  
+'''Talents de maître.'''  
+
+</div>
+
+
+===Règles officielles===
+<div class="article_3col">
+
+</div>
+
+
+===Rituels occultes===
+<div class="article_3col">
+
+</div>
+
+
+===Sorts===
+<div class="article_3col">
+
+</div>@@
+'''''Notes.'''''  
+ - Ne pas oublier de mettre deux espaces après chaque ligne (hors div, /div et titres) pour forcer un retour à la ligne.  
+ - La phrase de départ sous l'entrée des dons dépend de ce qui s'y trouve : s'il n'y a pas de dons d'équipe, il n'y a pas de E, donc on ne précise pas sa signification. De plus, il peut y avoir besoin de préciser d'autres types de dons :  
+* '''Liste des caractères utilisés pour définir les types de dons (tenir à jour).''' *, combat. M, métamagie. E, équipe. R, regard. B, panache. P, mots de pouvoir. C, école.
+
+ - Comme montré dans l'exemple des Archétypes, on oubli pas de bien séparer le lien s'il y a un nom avec une apostrophe.  
+ - Si plusieurs ouvrages anglais sont présents dans un ouvrage français, on sépare bien le contenu par rapport aux ouvrages anglais. Un bon exemple ce cette séparation : [[++Pathfinder-RPG.Manuel des joueurs - Classes Avancées (Contenu)|Manuel des joueurs - Classes Avancées (Contenu)]].
+
+
+===L'intégration finale===
+Quand tout est fait (que la page de contenu est pleine, et que les options/objets qui n'ont pas de pages individuelles ont leur contenu explicité sur la page temporaire), il est tant de contacter le staff pour pouvoir compléter : mettre à jour les snippets et les tableaux récapitulatifs des options de classe. Puis faire ce que vous avez mit "À faire" sous chaque chapitre dans la page temporaire, parce que oui, on préférera tout intégrer en même temps pour éviter les projets inachevés qui émerges des années plus tard !
+
+```

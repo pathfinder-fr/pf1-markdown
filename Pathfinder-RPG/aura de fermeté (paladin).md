@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.aura de fermeté (paladin)
+Title: Aura de fermeté
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Paladin#AURADEFERMETE

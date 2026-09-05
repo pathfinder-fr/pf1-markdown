@@ -1,0 +1,13 @@
+---
+Name: Golarion.Kerse
+Title: Kerse
+LastModified: 2010-03-07 15:40
+Categories:
+- Druma
+- Géographie
+- Ville
+---
+
+Située au bord du lac d'[Encarthan](./Encarthan.md), Kerse est la capitale du [Druma](./Druma.md) et sa ville la plus peuplée.
+
+La ville est réputée pour la richesse de ses constructions et de leurs décorations. Leur protection, et par extension celle des habitants, est assurée par la Ligue des Mercenaires qui patrouille à longueur de journée dans les rues de la ville.

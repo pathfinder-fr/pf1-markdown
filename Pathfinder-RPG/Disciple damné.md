@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Disciple damné
+Title: Disciple damné
+LastModified: 2023-03-08 15:53
+Categories:
+- Don
+- Src Book of the Damned
+---
+
+{s:cs}{s:BotD}*Vos diverses expériences influencent votre choix de faveur.*
+
+**Conditions.** [Obédience fiélonne](./Obédience fiélonne.md)
+
+**Avantage.** Lorsque le personnage gagne des faveurs grâce au don [Obédience fiélonne](./Obédience fiélonne.md), il peut choisir une faveur d'évangéliste ou une faveur d'exalté, mais une fois cette faveur choisie, elle ne peut plus être changée. De plus, le personnage choisi deux compétences ; il gagne un bonus de malfaisance de +2 aux tests effectués avec ces compétences.

@@ -1,0 +1,53 @@
+---
+Name: Pathfinder-RPG.Compétences fusionnées, Représentation
+Title: Compétences fusionnées, Représentation
+LastModified: 2021-10-05 23:28
+Categories:
+- Src Pathfinder unchained
+---
+
+{s:MenuPathfinderunchained}{s:PU}*Le personnage peut susciter une réaction émotionnelle en réalisant une prestation musicale, oratoire ou physique. Sa capacité à se produire de manière convaincante et sa connaissance des arts scéniques lui permettent également d’améliorer la crédibilité de ses déguisements. Cette compétence englobe à elle seule toutes les formes de représentations (à la différence de ce qui est décrit dans le Manuel des Joueurs).*
+
+**Caractéristique associée :** [Charisme](./Charisme.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
+
+**Fonctions.** [Impressionner un public](./Compétences fusionnées, Représentation.md#IMPRESSIONNERUNPUBLIC), [se déguiser](./Compétences fusionnées, Représentation.md#SEDEGUISER).
+
+**Compétences de base.** [Déguisement](./Déguisement.md), [Représentation](./Représentation.md) (toutes).
+
+{s:Reference|IMPRESSIONNERUNPUBLIC}
+### Impressionner un public
+<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+<center>
+{| CLASS="tablo autoalt"
+|- CLASS="titre"
+| Qualité de la  
+représentation || DD du test de  
+Représentation || Argent gagné
+|- CLASS="premier"
+| Quelconque (semblable  
+à la mendicité) || 10 || 1d10 pc/jour
+|-
+| Agréable || 15 || 1d10 pa/jour
+|-
+| Excellente || 20 || 3d10 pa/jour
+|-
+| Mémorable || 25 || 1d6 po/jour
+|-
+| Extraordinaire || 30 || 3d6 po/jour
+|}
+</center></div></div>Le personnage peut impressionner un public par le biais d’une déclamation, d’un chant, d’une pièce de théâtre ou d’une autre œuvre artistique. S’il réalise sa prestation dans une cité florissante, il gagne de l’argent pour chaque journée de représentation. Le montant gagné dépend du résultat du test de Représentation.
+
+**Action.** Entre une soirée et une journée entière.
+
+**Nouvelles tentatives.** Oui, mais le [DD](./DD.md) augmente de 2 pour chaque représentation quelconque précédente face au même public.
+
+**Instrument de musique de maître.** Un [instrument de musique de maître](./Instrument de musique (objet).md) confère un bonus de +2 aux tests de Représentation effectués pour impressionner un public.
+
+{s:Reference|SEDEGUISER}
+### Se déguiser
+Cette fonction de la compétence de Représentation s’utilise de la même façon que la compétence de base de [Déguisement](./Déguisement.md).
+
+**Action.** 1d3 × 10 minutes. L’utilisation de la magie (telle que le sort de *[déguisement](./Déguisement.md)*) réduit cette durée au temps nécessaire pour lancer le sort ou déclencher l’effet.
+
+**Nouvelles tentatives.** Oui, mais les cibles sont plus prudentes quand elles savent que quelqu’un a déjà tenté de se déguiser.

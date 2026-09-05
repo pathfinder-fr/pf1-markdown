@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tenue royale (objet)
+Title: Tenue royale
+LastModified: 2021-09-22 14:59
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 200 po ; **Poids** 7,5 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Les tenues royales sont ostentatoires, avec des pierres précieuses, de l’or, de la soie et de la fourrure en quantité. Elles sont rarement conçues pour être portées dans la vie de tous les jours ou pour se protéger du climat (elles ne peuvent pas non plus s’enfiler sans aide) puisque quiconque porte ce genre de vêtement est censé avoir de nombreux serviteurs pour veiller à tous ses besoins. Cette tenue n’inclut que les vêtements, pas de sceptre, de couronne, d’anneau ni d’autres accessoires royaux.

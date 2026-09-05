@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Poil à gratter (objet)
+Title: Poil à gratter
+LastModified: 2021-10-04 15:14
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 60 po ; **Poids** 1 kg ; **DD d'Artisanat (alchimie)** 25
+<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+---
+Cette fine poudre grise provoque des démangeaisons incontrôlables jusqu’à ce que la cible ait passé au moins 1 [round](./round.md) à s’en débarrasser. Pour lancer un sachet de poil à gratter, il faut faire une attaque d’[aspersion](./arme à aspersion.md) avec un [facteur de portée](./facteur de portée.md) de 3 mètres. Les créatures qui se trouvent sur la case au moment de l’impact doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 12 pour résister à la poudre, tandis que les créatures adjacentes doivent réussir un jet de Vigueur de DD 8. Les créatures qui ratent ce jet reçoivent un malus de -2 à leurs [jets d’attaque](./jet dattaque.md), à leurs [jets de sauvegarde](./JDS.md), à leurs tests de [compétence](./Compétences.md) et à leurs tests de [caractéristique](./Caractéristiques.md) tant qu’elles ne se sont pas débarrassées de la poudre. Il s’agit d’un effet de poison. La fabrication de cet objet requiert un test d’[Artisanat](./Artisanat.md) (alchimie) DD 25.

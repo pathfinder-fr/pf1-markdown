@@ -1,0 +1,61 @@
+---
+Name: Pathfinder-RPG.Père grenouille
+Title: Grenouille, Père grenouille
+LastModified: 2023-12-20 17:36
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Père grenouille|FP 5}
+{s:pucem|Animal|Marais|Tropical}
+{s:BDTexte|*Source : Bestiaire 5 p.145*}
+{s:BDTexte|**PX** 1 600}
+{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
+{s:BDTexte|**Init** +1 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 18, contact 9, pris au dépourvu 17 (Dex +1, naturelle +9, taille -2)}
+{s:BDTexte|**pv** 57 (6d8+30)}
+{s:BDTexte|**Réf** +8, **Vig** +10, **Vol** +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, nage 9 m}
+{s:BDTexte|**Corps à corps** morsure, +8 (3d6+9 plus [étreinte](./Étreinte (capacité).md)) et langue, +8 (étreinte)}
+{s:BDTexte|**Espace occupé** 4,50 m ; **Allonge** 3 m (9 m avec la langue)}
+{s:BDTexte|**Attaques spéciales** [attirer](./Attirer (capacité).md) (langue, 3 m), [engloutissement](./Engloutissement (capacité).md) (2d6 dégâts contondants, CA 14, 5 pv), [engloutissement rapide](./Engloutissement rapide (capacité).md), langue}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 23, **Dex** 13, **Con** 20, **Int** 1, **Sag** 10, **Cha** 6}
+{s:BDTexte|**BBA** +4 ; **BMO** +12 ; **DMD** 23 (27 contre les crocs-en-jambe)}
+{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Acrobaties), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12 (+20 pour sauter), [Discrétion](./Discrétion.md) +2, [Natation](./Natation.md) +14, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** +4 en Acrobaties (+12 pour sauter), +4 en Discrétion, +4 en Perception}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** eaux ou marais chauds}
+{s:BDTexte|**Organisation** solitaire ou couple}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Langue (Ext).** La langue d’un père grenouille est une attaque primaire dont l’allonge est égale à trois fois celle de sa morsure. Son attaque de langue n’inflige aucun point de dégâts, mais il peut l’utiliser pour étreindre une créature. La grenouille n’est pas affublée de l’état préjudiciable [agrippé](./Agrippé.md) lorsqu’elle étreint une créature avec sa langue.}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de grenouille
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Grenouille géante](./Grenouille géante.md) || 1
+|-
+| [Grenouille goliath](./Grenouille goliath.md) || 3
+|-
+| [Grenouille venimeuse](./Grenouille venimeuse.md) || 1/2
+|-
+| [Père grenouille](./Père grenouille.md) || 5
+|}
+</div>*Cet amphibien éléphantesque possède une langue grotesquement longue et des yeux de fouine.*
+
+Les pères grenouilles engloutissent des nids entiers de vermines monstrueuses et tout le bétail qui s’aventure trop près de leur marais. ils engloutissent aussi volontiers toute proie qui croise leur chemin. Leur longue langue collante leur permet de capturer et de maîtriser leur proie pour l’analyser afin de déterminer si elle est consommable. Une proie sur laquelle un père grenouille a jeté son dévolu a peu de chances de s’en sortir, car les muscles puissants de sa gorge lui permettent d’engloutir rapidement toutes les créatures, même les plus grandes.
+
+#### Le père grenouille comme [compagnon animal](./liste des compagnons animaux.md)
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; **Particularités** [attirer](./Attirer.md), langue, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [respiration aquatique](./Respiration aquatique (capacité).md).
+
+**Développement au niveau 4 :** **Caractéristiques** For +1, Dex +2 ; **Particularités** [engloutissement](./Engloutissement.md).
+</div></td></tr></table>

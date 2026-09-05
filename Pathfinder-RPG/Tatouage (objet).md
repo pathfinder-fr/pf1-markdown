@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tatouage (objet)
+Title: Tatouage
+LastModified: 2021-09-16 22:46
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pc–20 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Le prix d'un tatouage dépend de sa qualité, de sa taille et du nombre de couleurs utilisées. Un tatouage de la taille d'une pièce de monnaie à l'encre bleue qui s'effacera au bout de 10 ans coûte 1 pc, un tatouage de la taille de la main à l'encre noire qui ne s'effacera pas coûte 1 pa et un tatouage couvrant le dos nécessite plusieurs séances et coûte 10 po. Chaque couleur supplémentaire coûte autant qu'un tatouage de la même taille. Si ces prix sont une indication de base, les tatouages (comme toute autre réalisation artistique) peuvent coûter bien plus cher en fonction de la renommée de l'artiste.

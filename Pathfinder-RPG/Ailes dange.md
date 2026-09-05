@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ailes dange
+Title: Ailes d'ange
+LastModified: 2015-05-24 18:42
+Categories:
+- Don
+---
+
+{s:MR}*Des ailes à plumes poussent dans le dos du personnage.*
+
+**Conditions requises.** [Sang angélique](./Sang angélique.md), [Aasimar](./Aasimar (race).md), niveau de personnage 10.
+
+**Avantages.** L’aasimar gagne une paire d’ailes aux plumes étincelantes qui lui accordent une vitesse de vol de 9 mètres ([manoeuvrabilité](./Vol.md#SPECIAL) moyenne) s’il porte une armure légère ou non-encombrante, de 6 mètres (manoeuvrabilité médiocre) s’il porte une armure ou une charge intermédiaire ou lourde. Il considère [Vol](./Vol.md) comme une compétence de classe.

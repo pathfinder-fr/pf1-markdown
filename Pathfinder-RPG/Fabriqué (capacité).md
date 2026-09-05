@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Fabriqué (capacité)
+Title: Fabriqué (capacité)
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> sous-type Inévitable#FABRIQUE

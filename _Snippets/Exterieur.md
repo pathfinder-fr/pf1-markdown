@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<div style="float:right; padding: 4px 4px 4px 4px;">
+<img title="Extérieur" class="opachover" src="{UP}/Projets/Puces pour monstres/exterieur.png" style="opacity: 1" />
+</div>

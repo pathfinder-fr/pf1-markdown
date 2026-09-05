@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.ParfumEau de Cologne (objet)
+Title: Parfum/Eau de Cologne
+LastModified: 2021-09-16 22:21
+Categories:
+- Équipement
+- Src Armes et équipement
+- Src La mer Intérieure
+---
+
+{s:AE}**Prix** 1 po/dose (ordinaire), 5 po/dose (A&E), 10 po/dose (rare), 100 po/dose (exotique) ; **Poids** — (ordinaire), — (A&E), — (rare), — (exotique)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+La plupart des parfums et eaux de Cologne sont fabriqués à partir d'huiles essentielles de fleurs. Un parfum ou une eau de Cologne peut (si le [MJ](./MJ.md) donne son accord) accorder un bonus de circonstances de +1 à différents tests de compétences basées sur le [Charisme](./Charisme.md).  
+  
+{s:CCMI}*Ordinaire.* Le parfum et l'eau de Cologne sont des accessoires ordinaires pour ceux qui veulent éviter d'indisposer les autres par leur odeur.  
+*Exotique.* Les parfums et l'eau de Cologne exotiques sont vendus dans des fioles contentant dix doses, chacune durant vingt-quatre heures au cours desquelles le personnage gagne un bonus de circonstance de +2 aux tests de [Diplomatie](./Diplomatie.md) (sauf contre les créatures que le [MJ](./MJ.md) considère comme indifférentes au parfum).

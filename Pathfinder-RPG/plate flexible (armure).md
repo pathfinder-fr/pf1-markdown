@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.plate flexible (armure)
+Title: Plate flexible
+LastModified: 2021-10-10 19:43
+Categories:
+- Armure
+- Src La mer Intérieure
+---
+
+{s:CCMI}**Prix** 1.200 po ; **Poids** 25 kg
+**Bonus d'armure** +7 ; **Bonus de Dex maximal** +1 ; **Malus d'armure** -5
+**Risque d'échec des sorts profanes** 35% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
+<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES)</span>
+---
+Cette armure lourde est similaire à un [harnois](./harnois (armure).md) mais elle est un peu plus légère et sacrifie une part de protection pour bénéficier d’une meilleure flexibilité et d’une plus grande mobilité.

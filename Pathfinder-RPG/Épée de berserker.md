@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Épée de berserker
+Title: Épée de berserker
+LastModified: 2024-06-18 18:26
+Categories:
+- Objet mag maudit
+- Src Armes et équipement
+---
+
+<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+{s:BDTitre|Épée de berserker|{s:AE}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 8 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 4 kg
+(((Description)))
+Cette épée ressemble à une [épée à deux mains](./épée à deux mains (arme).md) +2 mais, quand son propriétaire s’en sert dans un véritable combat, il devient berserker (et profite de tous les avantages et inconvénients du pouvoir de [rage](./Barbare.md#RAGEDEBERSERKER) du [barbare](./Barbare.md)). Il attaque la créature la plus proche et continue de se battre jusqu’à ce qu’il tombe mort, inconscient ou qu’il n’y ait plus une seule créature vivante à moins de 9 mètres. Beaucoup de gens considèrent cette épée comme un objet maudit mais d’autres la voient comme une bénédiction.
+(((Objet magique prévu)))
+[épée à deux mains](./épée à deux mains (arme).md) +2, autre [arme magique](./Armes magiques.md)
+</div>

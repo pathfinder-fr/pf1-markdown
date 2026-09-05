@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Sacoche de familier (objet)
+Title: Sacoche de familier
+LastModified: 2021-09-16 22:38
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 25 po ; **Poids** 3 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette sacoche renforcée offre un [abri total](./abri total.md) à toute créature de taille TP ou plus petite qu'on y place. Elle comporte des aérations (que l'on peut fermer avec des bouchons de liège si le personnage doit plonger sous l'eau) et deux réceptacles pour la nourriture et l'eau.

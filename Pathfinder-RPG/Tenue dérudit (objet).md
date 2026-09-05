@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tenue dérudit (objet)
+Title: Tenue d'érudit
+LastModified: 2021-09-22 14:58
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 3 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Parfaite pour l’érudit, cette tenue inclut une robe, une ceinture, une casquette, des chaussures souples et, éventuellement, une écharpe.

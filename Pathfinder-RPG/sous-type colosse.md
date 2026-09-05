@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.sous-type colosse
+Title: Colosse (sous-type)
+LastModified: 2022-10-17 17:36
+---
+
+{s:MenuTypes}*Source : Bestiaire 4* p.309
+
+Les [colosses](./Colosse.md) sont des créatures artificielles mythiques de taille Gig ou plus. Sauf indication contraire dans le profil, voici leurs traits :
+- **Accélération mythique (Mag).** Le colosse peut utiliser une [action rapide](./Action rapide.md) pour dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) afin de lancer ou d’activer un [pouvoir magique](./Pouvoirs magiques (capacité).md) par une [action libre](./Action libre.md).
+- **Antimagie sélective (Sur).** Un colosse génère une *[zone d’antimagie](./Zone dantimagie.md)* (comme le sort du même nom) permanente dans un rayon égal à son allonge. Cette zone ignore généralement les écoles de magie indiquées ou les sorts du [registre](./Registre.md) mentionné. Cette aura n’affecte pas les pouvoirs magiques et surnaturels du colosse. 
+- **Coincé sous le pied (Ext).** Quand un colosse se trouve sous sa forme normale, il peut réaliser une unique attaque de corps à corps à corps par une [action rapide](./Action rapide.md), avec son bonus d’attaque le plus élevé, contre une créature d’au moins trois catégories de taille de moins que lui. Cette attaque inflige un montant de points de dégâts égal au double de son attaque de coup plus 1,5 fois son modificateur de [Force](./Force.md). Si le colosse touche sa cible, il a droit d’effectuer un test de [lutte](./lutte.md) par une [action libre](./Action libre.md). Cela ne provoque pas d’[attaque d’opportunité](./AO.md). Si le colosse réussit son test, la victime est [immobilisée](./Immobilisé.md) et, chaque round, au début du tour du colosse, elle subit un montant de dégâts égal à l’attaque de coup du colosse, jusqu’à ce qu’elle parvienne à se dégager ou que le colosse quitte l’espace qu’elle occupe. Le colosse n’a pas besoin d’effectuer des tests de lutte pour continuer à immobiliser sa cible mais il ne peut pas faire de test pour la déplacer, lui infliger des dégâts supplémentaires ou l’attacher. Avec cette attaque, le colosse peut immobiliser au maximum deux créatures à la fois.
+- **Création mythique (Ext).** La création de colosse est réservée aux créatures dotées d’un [grade](./Grade.md) ou d’un [rang mythique](./Rang mythique.md) égal ou supérieur à celui du colosse qu’elles veulent fabriquer. 
+- **Forme alternative (Ext).** Les colosses peuvent changer d’apparence. Cette transformation n’a rien de magique, c’est pourquoi la *[vision lucide](./Vision lucide.md)* et les magies similaires ne permettent pas de la détecter.
+- **Résilience mythique (Ext).** Un colosse peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action rapide](./Action rapide.md) pour doubler sa résistance aux dégâts pendant 1 [round](./round.md).

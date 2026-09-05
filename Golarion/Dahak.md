@@ -1,0 +1,20 @@
+---
+Name: Golarion.Dahak
+Title: Dahak, le Dragon Destructeur
+LastModified: 2020-06-30 14:48
+Categories:
+- Religion
+---
+
+{s:Dieu|Dahak|%2fPCUP%2fReligion-PNG%2fDahak.png|L'imposteur, Père du chagrin, éternelle destruction|CM|Destruction, dragons, mal et traîtrise|Dragons chromatiques|Morsure, fléau|Chaos, Destruction, Mal, Créatures à écailles, Duperie|Catastrophe, Démons, Dragons, Rage, Supercherie, Voleurs|}
+Universellement haï par les dragons chromatiques comme métalliques, Dahak possède assez de puissance divine pour constituer une menace pour Apsu et ses enfants. Aucun dragon ne fait confiance à Dahak mais les offres de pouvoirs et de vie éternelle tentent de nombreux dragons maléfiques.
+
+Sous la forme de l'éternelle destruction, Dahak peut faire tomber une pluie de pierre autour de lui, ce qui a poussé certaines personnes à penser, à tort, qu'il est à l'origine de la pluie d'étoiles.
+
+Couvert d'arêtes osseuses, d'épines et de longues cornes incurvées, Dahak porte de nombreuses cicatrices sur ses écailles d'un brun sanglant, dues à son combat avec Apsu. Elles le font souffrir en permanence et alimentent sa haine.
+
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+{s:VoirAussiAprès}

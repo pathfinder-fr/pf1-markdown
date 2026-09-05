@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Incertitude
+Title: Incertitude
+LastModified: 2024-07-23 17:57
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maléfice sanglant
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Lorsque le personnage verse le sang de son adversaire cette créature commence à douter de ses compétences.*
+
+**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+
+**Conditions.** [Int](./Int.md) 13; 5 rangs en [Intimidation](./Intimidation.md), en [Diplomatie](./Diplomatie.md), et en [Bluff](./Bluff.md)
+
+**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut diminuer la confiance que se porte une créature à qui il a infligé des dégâts dans la minute. Cette créature doit réussir un test de [Volonté](./Volonté.md) ou subir une pénalité de -6 aux tests de l'une des compétences suivantes au choix du personnage : [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md). Cette affliction dure jusqu'à ce que le sujet soit totalement guéri de ses points de vie, jusqu'à une durée maximale de 1 heure.
+
+**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) disposant de ce maléfice sanglant peut l'utiliser par une [action simple](./Action simple.md). De plus, si un chaman ou une sorcière utilise ce maléfice sanglant, il s'applique aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et d'[Intimidation](./Intimidation.md).
+
+(((Uncertainty (blood Hex)
+When you draw a foe’s blood in combat, that creature begins to doubt its skills.
+
+Prerequisites: Int 13; Bluff, Diplomacy, and Intimidate 5 ranks.
+
+Benefit: As a full-round action, you can diminish the confidence of a creature you’ve dealt damage to within the last minute. That creature must succeed at a Will save or take a –6 penalty on skill checks for one of the following skills of your choice: Bluff, Diplomacy, or Intimidate. This ability lasts until the subject is healed of all hit point damage, up to a maximum of 1 hour.
+
+Special: A shaman or witch with this blood hex can use it as a standard action. Additionally, if a shaman or witch uses this blood hex, the target takes the penalty on Bluff, Diplomacy, and Intimidate checks.)))

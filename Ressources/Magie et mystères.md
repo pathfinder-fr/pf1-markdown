@@ -1,0 +1,57 @@
+---
+Name: Ressources.Magie et mystères
+Title: Magie et mystères
+LastModified: 2012-01-21 17:12
+---
+
+<div class="gauche presentation">
+<ul><sub>*Proposé par Faenil*</sub></ul>
+<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Voir aussi [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) et [connaissance des mystères](./../Pathfinder-RPG/Connaissances.md)</ul>
+</div>
+
+Art de la magie et connaissance des mystères sont deux compétences qui se partagent la gestion de la connaissance de la magie dans pathfinder. La justification de la répartition des différentes tâches réalisables entre ces deux compétences obéis à une logique ludique et non pas à une logique réaliste.
+Pour inverser cela, je propose la règle suivante.
+L'art de la magie représente la capacité du lanceur de sort à interagir avec la magie pure.
+Connaissance des mystères représente la connaissance du personnage des différentes tradition magiques et des manières de pratiquer la magie profane.
+Connaissance de la religion représente la connaissance du personnage des différentes tradition religieuses et des manières de pratiquer la magie divine.
+
+Le tableau ci dessous reprend les différentes tâches relatives à ces deux compétences en se basant sur le principe ci-dessus.
+
+<center>
+{| CLASS="tablo"
+|+ Test relatifs aux sorts et à la magie
+|- CLASS="titre"
+| Tâche || Compétence || DD du test
+|-
+| Apprendre un sort à partir d’un grimoire ou d’un parchemin || Art de la magie || 15 + niveau du sort
+|- CLASS="alt"
+| Identifier un sort divin lorsqu’il est lancé || Connaissances (religion)  || 15 + niveau du sort
+|-
+| Identifier les auras magiques avec un sort de *détection de la magie* || Art de la magie || 15 + niveau du sort
+|- CLASS="alt"
+| Identifier les propriétés d’un objet magique   
+ en utilisant le sort de *détection de la magie* || Art de la magie || 15 + NLS de l’objet magique
+|-
+| Identifier un sort profane lorsqu’il est lancé || Connaissances (mystères)  || 15 + niveau du sort
+|- CLASS="alt"
+| Préparer un sort à partir d’un grimoire emprunté || Connaissances (mystères) || 15 + niveau de sort
+|-
+| Déchiffrer un parchemin divin || Connaissances (religion) || 20 + niveau du sort
+|- CLASS="alt"
+| Déchiffrer un parchemin profane ou un grimoire || Connaissances (mystères) || 20 + niveau du sort
+|-
+| Identifier un effet de sort déjà actif || Art de la magie || 20 + niveau du sort
+|- CLASS="alt"
+| Identifier un sort lancé en utilisant une composante matérielle || Connaissances (mystères)   
+ ou Connaissances (religion) || 20
+|-
+| Reconnaître des matériaux créés par magie || Art de la magie || 20 + niveau du sort
+|- CLASS="alt"
+| Identifier un sort ayant pris le personnage pour cible || Art de la magie || 25 + niveau du sort
+|-
+| Fabriquer un objet magique || Art de la magie || Variable selon les objets
+|}
+</center>
+
+Petite précaution, avec cette variante, il vaut mieux accorder la compétence connaissance des religions à la classe de druide.

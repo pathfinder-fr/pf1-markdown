@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Sort de recherche
+Title: Sort de recherche
+LastModified: 2015-06-05 19:29
+Categories:
+- Don
+- Don Métamagie
+- Manuel de tactiques à distance
+- Règles officielles
+---
+
+*Le personnage peut lancer un sort qui contourne les barrières pour atteindre la destination voulue.*
+
+**Catégorie.** [métamagie](./Dons.md#METAMAGIE)
+
+**Avantages.** Un sort de recherche peut contourner les obstacles pour atteindre la cible désignée. Le personnage peut définir lui-même le chemin à emprunter ou identifier la cible de manière non-ambiguë afin de laisser le sort déterminer son propre chemin. Cependant, le sort échoue si pour atteindre sa cible il doit se déplacer sur une distance qui excède sa portée maximale. Un jet d’[attaque à distance](./Attaque à distance.md) réalisé pour lancer un tel sort ne prend pas en compte les bonus d’[abris](./abri.md) et  de [camouflage](./camouflage.md) de la cible. Afin de bénéficier de ce don, le sort sélectionné doit avoir une portée supérieur à un sort de contact et cibler au moins une créature, ou il doit requérir une attaque de contact à distance. Un sort de recherche utilise un [emplacement de sort](./emplacement de sort.md) d’un niveau égal au niveau actuel du sort + 2.

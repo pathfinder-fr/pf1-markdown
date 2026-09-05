@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Cape des secrets
+Title: Cape des secrets
+LastModified: 2018-12-12 17:22
+Categories:
+- Sort
+- Sort antipaladin 1
+- Sort barde 1
+- Sort inquisiteur 1
+- Sort magicien 1
+- Sort prêtre 1
+- Sort sorcière 1
+---
+
+{s:cs}
+**(Source: Heroes of the street)**
+
+**Ecole** [illusion](./Illusion.md) ([chimère](./branche chimère.md)); **Niveau** [antipaladin](./Antipaladin.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Inq](./Inquisiteur.md) 1, [Prê](./Prêtre.md) 1, [Sor](./Sorcière.md) 1  
+
+**Temps d'incantation** 1 minute  
+
+**Composantes** [V,G](./composantes.md)  
+
+**Portée** courte (7.5m + 1.5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Zone d'effet** Une émanation d'un rayon de 1,5m (1{s:c}) autour d'un point  
+
+**Durée** 10 minutes/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non  
+
+
+Ce sort forme une bulle invisible qui filtre toutes les paroles venant de l'intérieur de la bulle. Les personnes qui se trouvent en dehors entendent une version totalement différente de la conversation qui s'y tient. La bulle déguise aussi les mouvements de la bouche pour correspondre à la fausse conversation.
+
+Toute créature écoutant à la conversation pendant au moins une minute peut tenter un jet de [psychologie](./Psychologie.md) de [DD](./DD.md)15 pour réaliser que la conversation entendue ne fait aucun sens. La bulle aussi cache aussi les [composants](./composantes.md) verbaux des sorts lancés depuis l'intérieur de la bulle. Il est donc impossible d'identifier ces sorts seulement avec les [composants](./composantes.md) verbaux et quiconque tente un test d'[Art de la magie](./Art de la magie.md) pour identifier un sort lancé depuis la bulle subit un malus de -5 sur le test. De plus, la bulle rend tous les sorts et effets dépendant du langage utilisés de l'intérieur de la bulle inefficaces contre les créatures qui se trouvent en dehors de la zone.
+
+(((This spell forms an invisible bubble that filters all speech coming from inside the affected area so that creatures outside hear a completely different version of the conversation. The bubble also disguises lip movements to match the false conversation.
+
+Any creature listening to the conversation for at least 1 round can attempt a DC 15 Sense Motive check to realize that the apparent conversation doesn’t actually make any sense. The bubble also obscures the verbal components of spells cast within the area so it’s impossible to identify spells by their verbal components alone, and anyone outside the bubble attempting a Spellcraft check to identify a spell cast within the bubble takes a –5 penalty on the check. Furthermore, the bubble renders any language-dependent spells and effects used within the bubble ineffective against creatures outside the area.)))

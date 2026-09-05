@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Gant de fauconnerie (objet)
+Title: Gant de fauconnerie
+LastModified: 2021-09-21 13:37
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Le fauconnier porte ce gant, composé de plusieurs couches de cuir épais, à sa main non-directrice pour donner au faucon un endroit où se poser avant et après la chasse. Le gant est également doté d’un mousqueton et d’un anneau pour attacher le faucon.

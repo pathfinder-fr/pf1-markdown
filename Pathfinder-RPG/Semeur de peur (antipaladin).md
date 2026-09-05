@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Semeur de peur (antipaladin)
+Title: Semeur de peur
+LastModified: 2020-10-05 17:44
+Categories:
+- Archétype
+- Archétype antipaladin
+- Règle officielle
+- Src Codex monstrueux
+---
+
+{s:menuarchétypepaladin}{s:cm}**Cet archétype est réservé aux [gobelours](./Gobelours.md)**
+
+*Le semeur de peur ne se contente pas de causer douleur, chagrin et confusion. Il veut répandre la terreur chez ses ennemis et contaminer avec elle des populations entières. Cet archétype est uniquement accessible à la classe alternative d’antipaladin.*
+
+#### Cruauté effrayante (Sur)
+Le semeur de peur doit choisir la [cruauté](./Antipaladin.md#CRUAUTE) secoué au niveau 3, hébété au niveau 6 et effrayé au niveau 9. Au niveau 12, il gagne la cruauté paniqué.
+- **Paniqué.** La cible est [paniquée](./Paniqué.md) pendant 1 [round](./round.md) par tranche de quatre niveaux d’antipaladin. L’antipaladin doit posséder les cruautés secoué et effrayé avant de pouvoir choisir celle-ci. Ce pouvoir de classe modifie le pouvoir de [cruauté](./Antipaladin.md#CRUAUTE).
+
+#### Se nourrir de la peur (Sur)
+À partir du niveau 2, quand, pour la première fois du [round](./round.md), une créature rate son [jet de sauvegarde](./JDS.md) contre un effet de terreur induit par un sort, un pouvoir magique ou un pouvoir surnaturel du gobelours (y compris un pouvoir rendant sa victime secouée, effrayée ou paniquée), ce dernier est soigné de 1 point de vie par tranche de deux niveaux d’antipaladin.
+Si le semeur de peur possède tous ses points de vie quand ce pouvoir se déclenche, il gagne à la place un nombre équivalent de points de vie temporaires. Ces points de vie persistent une minute. Les points de vie temporaires issus de ce pouvoir ne se cumulent pas, mais chaque gain réinitialise la durée.
+
+Chaque jour, l’antipaladin peut utiliser ce pouvoir un nombre de fois égal à la moitié de son niveau d’antipaladin plus son bonus de [Charisme](./Charisme.md). Ce pouvoir remplace [toucher de corruption](./Antipaladin.md#TOUCHERDECORRUPTION).

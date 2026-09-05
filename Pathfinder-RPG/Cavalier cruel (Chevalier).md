@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Cavalier cruel (Chevalier)
+Title: Cavalier cruel
+LastModified: 2020-07-13 19:20
+Categories:
+- Archétype
+- Manuel des races
+---
+
+{s:Menuarchétypechevalier}{s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}
+*Le cavalier cruel chevauche un coursier bestial, une monture qu’il a maîtrisée tout seul. Il piétine ses ennemis, laisse des corps désarticulés dans son sillage et la peur chevauche à ses côtés.*
+
+#### Coursier brutal (Ext)
+La monture du cavalier cruel est exceptionnellement grande et féroce. Elle gagne un bonus de +2 en [Force](./Force.md) mais reçoit un malus de -2 en [Dextérité](./Dextérité.md). Autrement, cette capacité fonctionne comme celle de [monture](./Chevalier.md#MONTURE) du cavalier qu’elle altère.
+
+#### Déchaînement (Ext)
+Au niveau 3, le cavalier cruel gagne le don supplémentaire [Piétinement](./Piétinement.md). Il reçoit un bonus de +2 à ses tentatives de [renversement](./renversement.md) alors qu’il est sur sa monture. En outre, sa monture gagne un bonus de +2 à ses [jets de dégâts](./Valeurs de combat.md#DEGATS) lorsqu’elle effectue des attaques de sabot ou utilise sa capacité de monstre [piétinement](./Piétinement (capacité).md), et ce même quand il n’effectue pas un renversement. Cette capacité remplace [charge de cavalerie](./Chevalier.md#CHARGEDECAVALERIE).
+
+#### Effroyable cavalier (Ext)
+Au niveau 4, le cavalier cruel gagne un bonus égal à 1/2 son niveau pour ses tests d’[Intimidation](./Intimidation.md) lorsqu’il est sur sa monture. Une fois par [round](./round.md) par une [action libre](./Action libre.md), il peut faire un test d’[Intimidation](./Intimidation.md) pour démoraliser un ennemi qu’il a piétiné ou chargé alors qu’il était sur sa monture. Cette capacité remplace [dresseur expérimenté](./Chevalier.md#DRESSEUREXPERIMENTE).
+
+#### Présence cruelle (Ext)
+Au niveau 5, le cavalier cruel inspire l’effroi lorsqu’il est sur sa monture. Tant qu’il chevauche, ses ennemis dans un rayon de 18 mètres reçoivent un malus de -2 à leurs [jets de sauvegarde](./JDS.md) contre la terreur. Au niveau 10 et tous les cinq niveaux après cela, ce malus augmente de -1. Cette capacité remplace [bannière](./Chevalier.md#BANNIERE).
+
+#### Déchaînement mortel (Ext)
+Au niveau 11, le cavalier cruel sur sa monture ne provoque plus d’[attaque d’opportunité](./attaque dopportunité.md) lorsqu’il tente de renverser une créature. Il peut faire une seule attaque de corps à corps contre la créature par une [action libre](./Action libre.md) s’il a réussi son renversement. Cette capacité remplace [charge puissante](./Chevalier.md#CHARGEPUISSANTE).
+
+#### Terreur (Ext)
+Au niveau 14, le cavalier cruel peut cabrer sa monture par une [action simple](./Action simple.md), semant la terreur parmi ses ennemis. Les ennemis situés dans un rayon de 18 mètres qui voient le cavalier cruel doivent réussir un jet de [Volonté](./Volonté.md) ([DD](./DD.md) 10 + 1/2 le niveau du cavalier cruel + son modificateur de [Charisme](./Charisme.md)) ou être [secoués](./Secoué.md) pendant 1 [round](./round.md) par niveau du cavalier cruel. Les créatures ayant la moitié du nombre de dés de vie du cavalier cruel ou moins sont [effrayées](./Effrayé.md) à la place. Un adversaire qui réussit son [jet de sauvegarde](./JDS.md) est immunisé à la capacité de terreur de ce cavalier cruel pendant 24 heures. Cette capacité est un effet mental de terreur remplaçant [grande bannière](./Chevalier.md#GRANDEBANNIERE).
+
+#### Déchaînement implacable (Ext)
+Au niveau 20, le cavalier cruel monté peut renverser jusqu’à quatre créatures en une seule manœuvre offensive de [renversement](./renversement.md). Chaque tentative effectuée contre une créature après la première subit un malus cumulatif de -5 (par exemple, la quatrième tentative de renversement subirait un malus de -15). Si une tentative de renversement échoue, le cavalier cruel ne peut plus faire de tentative de renversement lors de ce round. Les attaques effectuées par le cavalier cruel ou sa monture comme partie du renversement, comme celles que permettent le don [Piétinement](./Piétinement.md) ou la capacité déchaînement mortel, bénéficient d’un bonus de +4 pour toucher, et tout critique potentiel de ces attaques est automatiquement confirmé. Cette capacité remplace [charge suprême](./Chevalier.md#CHARGESUPREME).

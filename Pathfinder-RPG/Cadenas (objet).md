@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Cadenas (objet)
+Title: Cadenas
+LastModified: 2021-09-16 19:54
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 20 po (simple), 40 po (moyen), 80 po (bon), 150 po (supérieure) ; **Poids** 0,5 kg (simple), 0,5 kg (moyen), 0,5 kg (bon), 0,5 kg (supérieure)
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Il peut s'agir d'un cadenas, d'une serrure de porte ou de coffre ou de tout autre type de verrou à clé. Le [DD](./DD.md) pour ouvrir un cadenas avec la compétence [Sabotage](./Sabotage.md) dépend de la qualité du cadenas : simple (DD 20), moyen (DD 25), bon (DD 30) ou supérieur (DD 40).

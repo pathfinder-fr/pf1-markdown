@@ -1,0 +1,5 @@
+---
+{}
+---
+
+<a href="?3?" style="text-align:center"><img src="/wiki/public/upload/?1?" width="?2?" style="float: none; margin: 5px; border: 1px solid #4b3124"/></a>

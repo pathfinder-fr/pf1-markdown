@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.sale coup
+Title: sale coup
+LastModified: 2026-06-24 15:37
+Categories:
+- Redirection
+---
+
+>>> Manœuvres offensives#SALECOUP

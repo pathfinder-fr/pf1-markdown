@@ -1,0 +1,43 @@
+---
+Name: Pathfinder-RPG.Titan
+Title: Titan
+LastModified: 2023-02-23 20:02
+Categories:
+- Src Bestiaire 2
+- Src Bestiaire 3
+- Src Bestiaire 4
+---
+
+<div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
+<div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
+{| CLASS="tablo autoalt"
+|+ Les principaux titans
+|- CLASS="titre"
+| Nom || &nbsp; || FP
+|- CLASS="premier"
+| [Titan hécatonchire](./Titan hécatonchire.md) || &nbsp; || 24
+|-
+| [Titan de l’Élysée](./Titan de lÉlysée.md) || &nbsp; || 21
+|-
+| [Titan thanatotique](./Titan thanatotique.md) || &nbsp; || 22
+|-
+| **Membres Mythiques** || **FP** || **RMY**
+|- CLASS="premier"
+| [Danave](./Danave.md) || 24 || 9
+|-
+| [Titan fomorien](./Titan fomorien.md) || 22 || 8
+|}
+</div></div><div class="description">**Source :** Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.</div>
+*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)/[Bien](./sous-type Bien.md))*
+
+Les titans sont des êtres puissants et assez semblables aux
+dieux, dotés de pouvoirs qui dépassent ceux des autres races et
+dont l’histoire est antérieure aux plus vieilles races mortelles.
+Mais la race a décliné et, aujourd’hui, les survivants n’existent
+plus que dans les contrées les plus reculées de l’Élysée et des
+royaumes thanatotiques des Abysses, même si leur image a
+survécu aux millénaires et que leur progéniture, tout comme
+leurs myriades d’héritiers, occupent à présent
+les lieux où ils régnaient autrefois.
+
+Voir aussi [Gigas infernal](./Gigas-infernal.md)

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Bâton du dragon
+Title: Bâton du dragon
+LastModified: 2024-05-27 16:33
+---
+
+<div class="BD">
+{s:AE}{s:BDTitre|Bâton du dragon|}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 13 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 81 000 po ; **Poids** 3,5 kg
+(((Description)))
+Taillé dans un grand os de dragon, enveloppé d’écailles et surmonté d’une redoutable silhouette de dragon, ce bâton irradie de pouvoir. Chaque bâton du dragon est lié à un type de dragon chromatique : noir, bleu, vert, rouge ou blanc. Tous les sorts que permet de lancer le bâton sont liés à ce choix. Si le porteur utilise son bâton pour lancer *[forme draconique II](./Forme draconique II.md)*, il doit endosser la forme du type de dragon lié au bâton. Tout type d’énergie lié aux sorts du bâton doit également correspondre au type de dragon (les noir et vert sont liés à l’acide, le bleu est lié à l’électricité, le rouge est lié au feu, et le blanc est lié au froid). Le bâton permet d’utiliser les sorts suivants.
+• *[vol](./sort Vol.md)* (1 charge)
+• *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* (1 charge)
+• *[souffle de dragon](./Souffle de dragon.md)* (2 charges)
+• *[forme draconique II](./Forme draconique II.md)* (4 charges)
+
+En plus de ces pouvoirs, le porteur d’un bâton du dragon reçoit également un bonus d’armure naturelle de +2 à la [CA](./CA.md) et la capacité de porter une attaque principale naturelle de morsure qui inflige 1d8 points de dégâts s’il est de taille M. Ces bonus sont des effets de métamorphose et sont remplacés par les effets gagnés lors du lancement de *[forme draconique II](./Forme draconique II.md)* ou d’autres sorts similaires.
+(((Création)))
+**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[vol](./sort Vol.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*, *[souffle de dragon](./Souffle de dragon.md)*, *[forme draconique II](./Forme draconique II.md)*, *[modification d'apparence](./Modification dapparence.md)* ; **Coût** 40 500 po
+</div>

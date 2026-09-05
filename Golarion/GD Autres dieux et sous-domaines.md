@@ -1,0 +1,96 @@
+---
+Name: Golarion.GD Autres dieux et sous-domaines
+Title: Des sous-domaines pour tous !
+LastModified: 2011-02-17 12:53
+---
+
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbvp) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
+L'Advanced Player's Guide (Manuel des joueurs — règles avancées) a introduit un nouveau concept pour les prêtres : les sous-domaines. On trouve dans ce livre des listes de sous-domaines pour les 20 divinités principales. C'est très bien, tant qu'on se cantonne à celles-là, mais que se passe-t-il si on vénère [Besmara](./Besmara.md) ? Ou Zura ? Ou le Prince Perdu ? Ou Ymen ?
+
+Cet article répond à ces questions. Ci-dessous se trouve une liste des sous-domaines disponibles à toutes les autres divinités qui sont mentionnées dans le Guide du monde : la mer Intérieure. Les érudits de Golarion les plus observateurs noteront qu'il existe encore plus de divinités que celles citées ci-dessous mais, pour ne pas avoir un article kilométrique, on se limite ici aux divinités qui sont citées dans le Guide du monde : la mer Intérieure.
+
+<table class="page espace-col deuxcol"><tr><td>
+### Les autres divinités
+- **[Achaékek](./Achaékek.md)** : Sang, Diables, Meurtre, Supercherie, Tactique, Voleurs
+- **[Apsu](./Apsu.md)** : Archon, Commerce, Construction, Dragons, Exploration, Labeur
+- **[Besmara](./Besmara.md)** : Océans, Protéens, Supercherie, Tactique, Tempêtes, Voleurs
+- **[Dahak](./Dahak.md)** : Catastrophe, Démons, Dragons, Rage, Supercherie, Voleurs
+- **[Ghlaunder](./Ghlaunder.md)** : Catastrophe, Démons, Nuages, Poil, Rage, Vents
+- **[Groétus](./Groétus.md)** : Catastrophe, Étoiles, Insanité, Nuit, Perte, Protéens
+- **[Gyronna](./Golarion-Gyronna.md)** : Cauchemars, Démons, Insanité, Rage
+- **[Hanspur](./Golarion-Hanspur.md)** : Commerce, Exploration, Meurtre, Protéens
+- **[Kurgess](./Kurgess.md)** : Agathions, Commerce, Destin, Famille, Foyer, Résolution
+- **[Milani](./Milani.md)** : Azatas, Défense, Liberté, Pureté, Restauration, Révolution
+- **[Sivanah](./Sivanah.md)** : Glyphes, Insanité, Mémoire, Pensée, Protéens, Supercherie
+- **[Zyphus](./Zyphus.md)** : Catastrophe, Daémons, Meurtre, Morts-vivants, Pourriture, Sang
+
+### Les dieux déchus, faux ou oubliés
+- **Aroden** : Aucun
+- **Esprit du Paon** : Aucun
+- **Grands anciens** : Cauchemars, Étoiles, Insanité, Langage, Mémoire, Toile sombre
+- **Lissala** : Commandement, Diables, Glyphes, Langage, Mémoire, Pensée
+- **Razmir** : Aucun
+- **Ydersius** : Commandement, Démons, Martyr, Sauriens, Tactique
+
+### Les Anciens
+- **Conte Ranalc** : Exploration, Martyr, Nuit, Perte
+- **Imbrex** : Famille, Foyer, Métal, Résolution
+- **Magdh** : Destin, Glyphes, Malédiction, Pensée
+- **Mère Verte** : Cavernes, Croissance, Luxure, Pourriture
+- **Ng** : Commerce, Exploration, Pensée, Saisons
+- **Prince Perdu** : Ancêtres, Insanité, Martyr, Mémoire
+- **Ragadahn** : Ancêtres*, Dragons, Océans, Sauriens
+- **Roi-Lanterne** : Amour, Luxure, Supercherie, Voleurs
+- **Shyka** : Catastrophe, Divin, Insanité, Profane
+
+### Les seigneurs élémentaires
+- **Ayrzul** : Cavernes, Métal
+- **Hshurha** : Nuages, Vents
+- **Kelizandri** : Glace, Océans
+- **Ymeri** : Cendres, Fumée
+
+</td><td>
+### Les seigneurs empyréens
+- **Andoletta** : Archon, Défense, Mémoire, Pureté
+- **Arshea** : Agathions, Amour, Liberté, Luxure
+- **Korada** : Agathions, Pureté, Restauration, Résurrection
+- **Ragathiel** : Archon, Commandement, Martyr, Rage
+- **SinCendresakti** : Azatas, Commerce, Destin, Exploration
+- **Valani** : Azatas, Croissance*, Saisons, Tempêtes
+
+### Les archidiables
+- **Baalzebul** : Diables, Meurtre, Morts-vivants, Vents
+- **Barbatos** : Commerce, Diables, Divin, Profane
+- **Belial** : Catastrophe, Diables, Luxure, Rage
+- **Dispater** : Commandement, Diables, Supercherie, Voleurs
+- **Geryon** : Diables, Férocité, Océans, Résolution
+- **Mammon** : Construction, Diables, Labeur, Métal
+- **Méphistophélès** : Diables, Langage, Mémoire, Pensée
+- **Moloch** : Cendres, Diables, Fumée, Tactique
+
+### Les cavaliers de l’Apocalypse
+- **Apollyon** : Catastrophe, Démons, Nuit, Perte
+- **Charon** : Démons, Glace, Mémoire, Morts-vivants
+- **Szuriel** : Démons, Férocité, Sang, Tactique
+- **Trelmarixian** : Démons, Insanité, Pourriture*, Saisons
+
+### Les seigneurs démons
+- **Abraxas** : Démons, Mémoire, Pensée, Profane
+- **Angazhan** : Croissance, Démons, Poil, Pourriture
+- **BapFoyert** : Démons, Férocité, Poil, Résolution
+- **Cyth-V’sug** : Cavernes, Croissance, Démons, Pourriture
+- **Dagon** : Catastrophe, Démons, Océans, Rage
+- **Deskari** : Catastrophe, Démons, Sang, Tactique
+- **Gogunta** : Démons, Meurtre, Morts-vivants, Océans
+- **Kostchtchie** : Démons, Férocité, Glace*, Tactique
+- **Nocticula** : Démons, Luxure, Nuit, Perte
+- **Orcus** : Démons, Divin, Meurtre, Morts-vivants
+- **Pazuzu** : Démons, Nuages, Supercherie, Vents
+- **Shax** : Commandement, Démons, Martyr, Rage
+- **Socothbenoth** : Commerce, Démons, Exploration, Luxure
+- **Zura** : Démons, Meurtre, Morts-vivants, Sang*
+
+
+
+</td></tr></table>
+*(*) Même si les suivants de ces dieux ne devraient pas avoir accès à ce sous-domaine, on fait une exception dans le cas où le sous-domaine correspond parfaitement au thème du dieu choisi.*

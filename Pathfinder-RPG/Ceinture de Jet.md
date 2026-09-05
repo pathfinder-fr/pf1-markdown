@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Ceinture de Jet
+Title: Ceinture de jet
+LastModified: 2024-05-25 16:27
+---
+
+<div class="BD">
+{s:BDTitre|Ceinture de jet|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 8 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 14 000 po ; **Poids** 0,5 kg
+(((Description)))
+Cette épaisse ceinture de cuir porte une boucle de bronze étincelant en forme de poing. Elle octroie à son porteur un bonus d’altération de +2 à la Force et lui permet d’appliquer son modificateur de Force (à la place du modificateur de [Dextérité](./Dextérité.md)) en bonus aux [jets d’attaque](./jet dattaque.md) à distance effectués avec des armes de jet. De plus, le facteur de portée des armes de jet lancées par le porteur est augmenté de 3 mètres. Le bonus de Force est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[force de taureau](./Force de taureau.md)*, *[tir longue distance](./Tir longue distance.md)* ; **Coût** 7 000 po
+</div>

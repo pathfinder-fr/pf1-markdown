@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction de la destruction
+Title: Bénédiction de la destruction
+LastModified: 2024-12-11 00:24
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Attaques destructrices *(mineur)*
+Au niveau 1, le prêtre combattant peut toucher un allié pour le bénir au nom de la destruction. Pendant une minute, cet allié gagne un bonus de moral aux dégâts des armes égal à la moitié du niveau du prêtre combattant (1 au minimum).
+
+#### Coeur du carnage *(majeur)*
+Au niveau 10, le prêtre combattant peut toucher un allié pour lui conférer un pouvoir encore plus destructeur. Pendant une minute, l’allié gagne un bonus d’intuition de +4 aux [jets d’attaque](./jet dattaque.md) pour confirmer les [coups critiques](./coup critique.md) et il a 50% de chances de traiter les coups critiques et les attaques sournoises portés contre lui comme des coups normaux.

@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Casque Batracien
+Title: Casque batracien
+LastModified: 2024-05-29 19:54
+---
+
+<div class="BD">
+{s:BDTitre|Casque batracien|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 26 000 po ; **Poids** 1.5 kg
+(((Description)))
+Ce casque de bronze à l’aspect huileux a été forgé en forme de tête de grenouille. Trois fois par jour et par une [action rapide](./Action rapide.md), le casque éjecte une langue de force magique qui s’étire jusqu’une cible visible située à 6 mètres ou moins. Si la cible est un objet abandonné qui pèse 125 kg ou moins, la langue le tire vers le porteur sur une distance de 6 mètres. Si la cible est une créature d’une taille équivalente ou inférieure à celle du porteur, ce dernier peut effectuer un test de [manœuvre](./BMO.md) par une [action libre](./Action libre.md) pour tirer la créature vers lui sur une distance de 6 mètres. Si la cible est une créature d’une taille supérieure à celle du porteur, un objet abandonné pesant plus de 125 kg ou une structure inamovible telle qu’un mur, le porteur est tiré sur 6 mètres vers la cible. Ce déplacement ne provoque pas d’[attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE). L’objet ou la créature s’arrête si le déplacement passe par une case occupé par un objet solide ou une créature.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[télékinésie](./Télékinésie.md)* ; **Coût** 13 000 po
+</div>

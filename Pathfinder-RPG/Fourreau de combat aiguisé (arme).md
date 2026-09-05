@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Fourreau de combat aiguisé (arme)
+Title: Fourreau de combat aiguisé
+LastModified: 2021-10-24 17:47
+Categories:
+- Arme
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 10 po ; **Poids** 0,5 kg ; **Groupes** —
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** voir texte
+<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+---
+Ce [fourreau de combat](./Fourreau de combat (arme).md) a une lame tranchante sur le bord extérieur, permettant au personnage de l'utiliser comme une arme classique.

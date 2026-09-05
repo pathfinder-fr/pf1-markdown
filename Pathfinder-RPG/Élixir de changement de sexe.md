@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Élixir de changement de sexe
+Title: Élixir de changement de sexe
+LastModified: 2024-06-13 20:32
+Categories:
+- Objet mag merveilleux
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Élixir de changement de sexe|{s:MCA}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 250 po ; **Poids** —
+(((Description)))
+Lorsqu’il boit cet élixir, le personnage change de manière permanente sa physiologie pour adopter un ensemble de caractéristiques sexuelles de son choix.  Si sa physiologie change drastiquement et si ses traits s’ajustent pour prendre ses nouvelles caractéristiques, le personnage reste reconnaissable comme le même individu. Le personnage n’a qu’un contrôle mineur sur les détails spécifiques de sa nouvelle apparence et l’élixir n’apporte aucun avantage aux tests de [Déguisement](./Déguisement.md) ou autres tests similaires.
+
+La magie de l’élixir est instantanée et ne peut pas être dissipée, mais s’il boit un second *élixir de changement de sexe*, le personnage peut au choix retrouver ses anciennes caractéristiques sexuelles et son apparence ou en adopter de nouvelles.. L’élixir n’a aucun effet sur les créatures enceintes ou dont la race ne présente aucune différenciation de genre. La plupart des races ont un large spectre de caractéristiques sexuelles différentes, certaines classiques, d’autres plus rares. Ainsi, la plupart des créatures peuvent choisir à quel point l'élixir peut les changer. Une créature qui absorberait l’élixir de manière non consentante peut choisir de ne rien changer du tout.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[métamorphose](./métamorphose.md)* ; **Coût** 1 125 po
+</div>

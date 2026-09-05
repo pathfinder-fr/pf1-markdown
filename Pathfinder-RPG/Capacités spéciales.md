@@ -1,0 +1,226 @@
+---
+Name: Pathfinder-RPG.Capacités spéciales
+Title: Les capacités spéciales
+LastModified: 2024-08-27 22:03
+---
+
+{s:MenuCombat}<div style="float: right; padding: 0 0 8px 8px; max-width:300px"><nav class="wiki-toc"></nav></div>{s:Reference|TYPES}Les capacités spéciales suivantes incluent les règles communément appliquées à un certain nombre de créatures, de sorts et de pièges.
+
+**Pouvoirs extraordinaires (Ext).** Les pouvoirs extraordinaires ne sont pas magiques, mais ils sont si spécialisés qu’on ne peut pas les maîtriser sans avoir suivi la formation appropriée. Ces pouvoirs ne sont en rien affectés par les sorts ou effets interdisant l’usage de la magie.
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#30) Pouvoirs magiques et niveau de sort : Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?***
+
+Le niveau de sort effectif de ces <u>[pouvoirs magiques](./Capacités spéciales.md#TYPES)</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis.
+
+Par exemple, un ensorceleur de lignage élémentaire de niveau 1 a Rayon élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 1 étant le niveau 1, ce pouvoir magique compte comme un sort de niveau 1. Un ensorceleur de lignage élémentaire de niveau 9 a Explosion élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 9 étant le niveau 4, ce pouvoir magique compte comme un sort de niveau 4.
+---
+***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#25) Pouvoirs magiques : Comment savoir si un pouvoir magique est divin ou profane ?***
+
+La [règle de monstre universelle](./Pouvoirs magiques (capacité).md) pour les <u>[pouvoirs magiques](./Capacités spéciales.md#TYPES)</u> dit : « Certains pouvoirs magiques imitent des sorts qui fonctionnent différemment selon la classe du lanceur. Par défaut, on suppose que les pouvoirs magiques des monstres se basent sur la version disponible aux ensorceleurs/magiciens. Si le sort ne figure pas dans la liste des ensorceleurs/magiciens, on examine alors les autres listes dans l’ordre suivant : prêtre, druide, barde, paladin et enfin rôdeur. »
+
+Pour les pouvoirs magiques obtenus par la race ou le type d’une créature (dont les races de PJ), la même règle s’applique : les pouvoirs magiques de la créature sont supposément leur version pour ensorceleur/magicien. S'ils ne figurent pas dans la liste des ensorceleurs/magiciens, on examine alors les autres listes dans l’ordre suivant : prêtre, druide, barde, paladin et enfin rôdeur.
+
+Pour les pouvoirs magiques obtenus par une classe, utilisez le type de sorts (divins ou profanes) de cette classe pour déterminer si le pouvoir magique est divin ou profane. Si la classe ne lance pas de sorts, utilisez la règle ci-dessus pour les pouvoirs magiques obtenus par la race ou le type.
+---
+***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#26) Pouvoirs magiques comme sorts : Est-ce qu’une créature avec un pouvoir magique compte comme possédant ce sort dans sa liste dans le cadre de l’activation d’un objet à potentiel magique ou à fin d’incantation ?***
+
+Non. Un <u>[pouvoir magique](./Capacités spéciales.md#TYPES)</u> n’est pas un sort, posséder un sort en tant que pouvoir magique n'est pas la même chose qu'avoir un sort sur une liste de sorts de classe, et par conséquent ne permet pas à une créature d’activer un  objet à potentiel magique ou à fin d’incantation.
+---
+***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#27) Pouvoirs magiques et Création d’objet : Puis-je utiliser un pouvoir magique pour satisfaire une condition de fabrication d’un objet ?***
+
+Oui. Dans le *Manuel des joueurs* [pages 466-467](./Descriptions des objets magiques.md), section Conditions de fabrication, le paragraphe 2 dit, « Une condition de sort requis peut aussi être remplie par l’intermédiaire d’un autre lanceur de sorts, d’un pouvoir magique ou d’un objet a fin d’incantation ou a potentiel magique. »
+Par exemple, un démon avec le don [Création d’armes et armures magiques](./Création darmes et armures magiques.md) qui possède *boule de feu* comme <u>[pouvoir magique](./Capacités spéciales.md#TYPES)</u> peut fabriquer une *épée de [feu](./feu (propriété).md) +1*, qui a *boule de feu* comme condition de fabrication.
+---
+***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#28) Pouvoirs magiques, incantation, et prérequis : Est-ce qu’une créature avec un pouvoir magique compte comme étant capable de lancer ce sort dans le cadre de prérequis ou de conditions ?***
+
+Uniquement si le prérequis cite explicitement le nom d’un sort. Par exemple, le don [Agilité dimensionnelle](./Agilité dimensionnelle.md) a « Capacité de classe pas chassé ou capacité à lancer *porte dimensionnelle* » comme prérequis ; un [barghest](./Barghest.md) possède *porte dimensionnelle* comme [pouvoir magique](./Pouvoirs magiques (capacité).md), donc le barghest remplit le prérequis « capacité à lancer *porte dimensionnelle* » pour ce don. En revanche, la *porte dimensionnelle* du barghest ne remplit pas les prérequis comme « capacité à lancer des sorts de niveau 4 » ou « capacité à lancer des sorts profanes ». *(Retour à la <u>[règle](./Capacités spéciales.md#TYPES)</u>)*}**Pouvoirs magiques (Mag).** Les pouvoirs magiques agissent comme des sorts. Ils sont assujettis à la [résistance à la magie](./RM.md) et à une éventuelle *[dissipation de la magie](./Dissipation de la magie.md)*. Ils ne fonctionnent pas là où la magie est supprimée ou réprimée (comme dans une *[zone d’antimagie](./Zone dantimagie.md)*). Les pouvoirs magiques ne peuvent être [contrés](./contresort.md) et ne peuvent servir à [contrer](./contresort.md) d'autres sorts. Voir aussi la [règle universelle de monstre](./Pouvoirs magiques (capacité).md) associée.
+
+**Pouvoirs surnaturels (Sur).** Les pouvoirs surnaturels sont magiques mais n’agissent pas comme des sorts. Ces pouvoirs ne sont pas soumis à la [résistance à la magie](./RM.md) mais ne fonctionnent pas au sein d’une *[zone d’antimagie](./Zone dantimagie.md)* ou dans tout autre endroit où la magie est supprimée ou réprimée. Les effets d’un pouvoir surnaturel ne peuvent pas être dissipés et ils ne peuvent pas être affectés par un [contresort](./contresort.md). Voir la Table ci-après pour un résumé des pouvoirs spéciaux.
+
+{| CLASS="tablo centre autoalt"
+|+ Les types de pouvoirs spéciaux
+|- CLASS="titre"
+| &emsp; || Extraordinaire || Magique || Surnaturel
+|- CLASS="premier"
+| [Attaque d’opportunité](./attaque dopportunité.md) || Non || Oui || Non
+|-
+| *[Dissipation de la magie](./Dissipation de la magie.md)* || Non || Oui || Non
+|-
+| [Résistance à la magie](./RM.md) || Non || Oui || Non
+|-
+| *[Zone d’antimagie](./Zone dantimagie.md)* || Non || Oui || Oui
+|}
+
+*Attaque d’opportunité* : l’utilisation de ce type de pouvoir provoque-t-elle une [attaque d’opportunité](./attaque dopportunité.md), au même titre que le fait de lancer un sort ?
+
+*Dissipation* : une *[dissipation de la magie](./Dissipation de la magie.md)* ou un sort similaire peuvent-ils dissiper les effets de ce type de pouvoir ?
+
+*Résistance à la magie* : la [résistance à la magie](./RM.md) protège-t-elle contre un pouvoir de ce type ?
+
+*Zone d’antimagie* : est-ce qu’une *[zone d’antimagie](./Zone dantimagie.md)* réprime ce type de pouvoir ?
+
+{s:Reference|CARACTERISTIQUES}{s:Reference|BONUSCARAC}
+### Les bonus aux valeurs de caractéristique
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Générale).md#1) Augmentations temporaires de caractéristiques et capacités de monstres : ces augmentations affectent-elles le DD des capacités surnaturelles des monstres et des PJ basées sur la caractéristique concernée ?***
+
+Bien que la description des bonus temporaires aux caractéristiques ne mentionne que l'augmentation du DD des sorts, c'est une formulation héritée d'un jeu plus ancien dont la terminologie n'a pas été mise à jour quand de nouvelles notions ont été ajoutées aux règles. Les augmentations temporaires de caractéristiques devraient affecter le DD des capacités surnaturelles basées sur ces caractéristiques, telles que l'attaque de [regard](./Regard (capacité).md) de la [méduse](./Méduse.md) ou les [maléfices](./Sorcière.md#MALEFICE) de la sorcière.
+---
+***[→](./FAQ- Manuel des joueurs (Générale).md#2) Augmentations temporaires et permanentes de caractéristiques : pourquoi les bonus temporaires s'appliquent-ils seulement à certaines choses ?***
+
+Les bonus temporaires à une caractéristique devraient s'appliquer à tout ce qui relève de cette caractéristique, exactement comme les bonus permanents le font. Il n'y avait pas assez d'espace dans la section dédiée du glossaire et il n'a pas été possible de lister tout ce qu'un bonus de caractéristique peut affecter dans le jeu.
+
+L'objectif de la règle sur les valeurs temporaires de caractéristiques est de permettre au joueur de ne pas avoir à tout recalculer pour son personnage à chaque fois que ce dernier bénéficie d'une *[force de taureau](./Force de taureau.md)* ou d'un sort similaire ; la règle se contente de résumer les effets les plus communs associés aux caractéristiques.
+
+Par exemple, quand un personnage bénéficie d'une *force de taureau*, il l'utilise la plupart du temps pour le combat, donc le glossaire mentionne les tests de compétences basées sur la Force, les jets d'attaque au corps-à-corps, les jets de dégâts des armes basés sur la Force, le BMO et le DMD. Il ne mentionne pas les jets d'attaque au corps-à-corps qui utilisent la Dextérité à la place de la Force (comme lorsqu'on utilise [Attaque en finesse](./Attaque en finesse.md)) ou les situations dans lesquelles le bonus de Force devrait être divisé par deux ou multiplié (comme avec les armes tenues dans la main non-directrice ou à deux mains). On ne se sert généralement pas de ce sort pour une augmentation de 1 min/niveau du poids transportable, et donc ce dernier n'est pas mentionné, mais le bonus s'y applique bien, de même qu'aux tests de Force pour enfoncer des portes.
+
+Il faut voir la chose avec la même optique qu'un archétype de créature qui a des « règles rapides » et des « règles de reconstruction » ; elles sont censées créer des monstres à peu près équivalents en termes de statistiques, mais les règles rapides opèrent un raccourci qui néglige certains détails par rapport aux règles de reconstruction. De la même façon, la règle sur les valeurs de caractéristiques temporaires est prévue pour être un raccourci destiné à accélérer le jeu, pas comme la manière la plus précise d'appliquer le bonus.
+
+Un bonus de caractéristique temporaire devrait affecter tous les jets et statistiques de jeu qu'un bonus permanent affecte.}*Certains sorts et pouvoirs améliorent les valeurs de caractéristique. Les augmentations de caractéristique sont temporaires quand elles ont une durée de moins de vingt-quatre heures et permanentes au-delà.*
+
+Pour chaque tranche de deux points dans une caractéristique, appliquez un bonus de +1 aux [compétences](./Compétences.md) et aux statistiques dépendant de cette [caractéristique](./caractéristique.md).
+
+:**La Force.** Les augmentations temporaires à la [Force](./Force.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique, aux [jets d’attaque](./jet dattaque.md) de corps à corps et aux [jet de dégâts](./jet de dégâts.md) d’une arme s’ils dépendent de la [Force](./Force.md). Ce bonus s’applique également au [bonus de manœuvre offensive](./BMO.md) (si le personnage est au moins de [taille P](./taille P.md)) et à son score de [Manœuvre défensive](./DMD.md).
+
+:**La Dextérité.** Les augmentations temporaires à la [Dextérité](./Dextérité.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique, aux [jets d’attaque](./jet dattaque.md) à distance, aux jets d’[initiative](./initiative.md) et aux jets de [Réflexes](./Réflexes.md). Ce bonus s’applique également à la [classe d’armure](./CA.md), au [Bonus de manœuvre offensive](./BMO.md) (si le personnage est au au plus de [taille TP](./taille TP.md)) et au [bonus de Manœuvre défensive](./DMD.md).
+
+:**La Constitution.** Les augmentations temporaires à la [Constitution](./Constitution.md) accordent un bonus aux jets de [Vigueur](./Vigueur.md). De plus, il convient de multiplier le nombre total des [DV](./DV.md) du personnage par ce bonus, et d’ajouter le résultat à ses [points de vie](./pv.md). Lorsque le bonus ne s’applique plus, enlevez les points de vie ainsi ajoutés.
+
+:**L’Intelligence.** Les augmentations temporaires à l’[Intelligence](./Intelligence.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique. Ce bonus s’applique également au [DD](./DD.md) des sorts dépendant de l’[Intelligence](./Intelligence.md).
+
+:**La Sagesse.** Les augmentations temporaires à la [Sagesse](./Sagesse.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique, ainsi qu’aux jets de [Volonté](./Volonté.md). Ce bonus s’applique également au [DD](./DD.md) des sorts dépendant de la Sagesse.
+
+:**Le Charisme.** Les augmentations temporaires au [Charisme](./Charisme.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique. Ce bonus s’applique également au [DD](./DD.md) des sorts dépendant du [Charisme](./Charisme.md), ainsi qu’au [DD](./DD.md) d’une [canalisation](./canalisation.md) d’énergie.
+
+**Les bonus permanents.** Les bonus aux caractéristiques dont la durée est supérieure à un jour augmentent la caractéristique à laquelle ils s’appliquent au bout de vingt-quatre heures. Ce bonus s’applique aux [compétences](./Compétences.md) et aux statistiques dépendant de cette caractéristique. Il est possible d’ainsi obtenir, entre autres, des [rangs](./rang.md) de compétence et des [points de vie](./pv.md) supplémentaires. Ces bonus devront être notés séparément, au cas où ils viendraient à disparaître.
+
+### Affaiblissements temporaires, pénalité et diminutions permanentes de caractéristiques
+Ce texte a été reporté sur la [règle universelle de monstre](./affaiblissement temporaire (capacité).md) associée.
+
+### Les afflictions
+Voir la [page dédiée](./Afflictions.md).
+
+### Absorption d’énergie et niveaux négatifs
+Ce texte a été reporté sur la [règle universelle de monstre](./Absorption dénergie (capacité).md) associée.
+
+{s:Reference|ATTAQUESMORT}
+### Attaques de mort
+Dans la plupart des cas, ce type d’attaque autorise un jet de [Vigueur](./Vigueur.md). Si celui-ci est raté, la victime meurt immédiatement.
+- *[Rappel à la vie](./Rappel à la vie.md)* ne fonctionne pas sur une personne tuée par une attaque de mort.
+- Les attaques de mort tuent immédiatement. Il est impossible de [stabiliser](./Stabilisation.md) l’état de la victime pour la maintenir en vie.
+- Si une telle précision est nécessaire, un personnage mort est considéré comme ayant un total de points de vie négatif égal à son score de Constitution, et ce, quelle que soit la nature de son décès.
+- Le sort *[protection contre la mort](./Protection contre la mort.md)* protège le sujet contre ce type d’agression.
+
+{s:Reference|CHARMECOERCITION}
+### Charme et coercition
+*Nombre de sorts et d’effets magiques embrument l’esprit du sujet, qui se retrouve incapable de faire la différence entre ses alliés et ses adversaires, quand il n’est pas purement et simplement convaincu que ses meilleurs amis sont devenus ses pires ennemis. Les enchantements sont divisés en deux catégories : les charmes et les coercitions.*
+
+**Charme.** Un enchantement de type charme permet de se faire un ami de la créature affectée et de lui suggérer comment se comporter, mais la domination exercée sur elle n’est pas totale et la victime ne sert pas aveuglément le lanceur de sorts. Cette branche comprend les divers sorts de charme. La victime est libre d’agir comme elle le souhaite, mais ses perceptions sont modifiées par le sort.
+- Une créature charmée n’hérite pas de la possibilité de comprendre magiquement la langue de son nouvel ami.
+- Une créature charmée garde son [alignement](./Alignement.md) et ses allégeances, si ce n’est qu’elle considère l’individu qui l’a charmée comme son ami et qu’elle appuie ses propositions et ses suggestions.
+- Une créature charmée ne lutte contre ses anciens alliés que si ces derniers menacent son nouvel ami, et encore prend-elle garde à ne pas les blesser si possible (comme elle le ferait si elle tentait de s’interposer dans une lutte entre deux amis).
+- Une créature charmée a droit à un test de [Charisme](./Charisme.md) opposé contre le charmeur pour résister à une instruction l’incitant à faire quelque chose qu’elle ne ferait pas, même pour un bon ami. En cas de réussite, elle peut désobéir à l’ordre, mais reste charmée.
+- Une créature charmée n’obéit jamais à un ordre suicidaire ou lui faisant courir un danger manifeste et immédiat.
+- Si le charmeur lui donne un ordre auquel elle est farouchement opposée, elle a droit à un nouveau [jet de sauvegarde](./jet de sauvegarde.md). Si c’est un succès, elle se libère de l’emprise de son maître.
+- Tout individu charmé se faisant attaquer par son maître ou les alliés de celui-ci est automatiquement libéré des effets du charme.
+
+La coercition est une influence autrement plus puissante, puisqu’elle neutralise purement et simplement le libre arbitre de la victime ou change sa façon de penser. Un sort de charme fait que le sujet prend le lanceur de sorts pour son ami ; avec un sort de coercition, il ne peut que lui obéir et devient son esclave.
+
+Que le personnage soit sous l’influence d’un sort de charme ou de coercition, il ne révèle rien à son maître de sa propre initiative.
+
+### Immunité et vulnérabilité aux énergies
+Ce texte a été reporté sur les règles universelles de monstre [immunité](./Immunité (capacité).md) et [vulnérabilité](./Vulnérabilités (capacité).md).
+
+{s:Reference|INVISIBILITE}
+### L'invisibilité
+<div style="float:right; margin:8px 6px 0px 10px">**'Voir aussi le sort [invisibilité](./Invisibilité.md).
+Voir aussi l'état préjudiciable [invisible](./Invisible.md).**'</div>La faculté de se déplacer sans être vu confère un avantage important, mais qui est loin d’être déterminant. Les créatures invisibles ne peuvent pas être vues, mais rien n’empêche de les entendre, de les sentir, ou tout simplement d’avoir la sensation qu’il y a quelqu’un à proximité.
+
+Ni le sens de la vue, ni la vision dans le noir ne permettent de détecter une créature invisible.
+
+L’invisibilité ne confère pas en soi l’immunité contre les [coups critiques](./coup critique.md), mais elle protège contre les dommages supplémentaires d’[ennemi juré](./ennemi juré.md) et contre les [attaques sournoises](./attaque sournoise.md).
+
+En général, on peut repérer une créature invisible en mouvement et distante de moins de 9 m pour peu que l’on réussisse un test de [Perception](./Perception.md) ([DD](./DD.md) 20). L’observateur éprouve la sensation qu’il y a quelqu’un (ou quelque chose) à proximité, mais sans savoir exactement où se trouve la créature en question. Si la créature invisible est immobile (ou ne bouge presque pas), il est bien plus difficile de la détecter ([DD](./DD.md) +20). Localiser précisément la créature ou l’objet est presque impossible (+20 au [DD](./DD.md) du test de [Perception](./Perception.md)) et, même si le personnage réussit ce test, la créature invisible bénéficie toujours d’un [camouflage](./camouflage.md) total (50% de risque de rater). Certains modificateurs s’appliquent au [DD](./DD.md) si la créature est en train de bouger ou fait quelque chose de bruyant.
+
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| La créature invisible... || Mod. au DD du test de Perception
+|- CLASS="premier"
+| Se bat ou parle || -20
+|-
+| Se déplace à la moitié de sa vitesse || -5
+|-
+| Se déplace à sa vitesse normale || -10
+|-
+| Court ou charge || -20
+|-
+| Ne bouge pas || +20 (*)
+|-
+| Utilise sa Discrétion || Jet de discrétion +20
+|-
+| Est éloignée || +1 par tranche de 3 m
+|-
+| Derrière un obstacle (porte) || +5
+|-
+| Derrière un obstacle (mur de pierre) || +15
+|-
+| Localiser précisément la créature invisible || +20
+|  |
+|}
+
+Le personnage peut tâtonner à sa recherche, c’est-à-dire user d’une [action simple](./Action simple.md) pour effectuer une attaque à mains nues ou avec une arme, dans une zone équivalente à deux pas de déplacement. Si une créature invisible s’y trouve, il a toujours 50% de chance de la manquer. S’il réussit, il ne fait aucun dégât mais parvient à localiser sa position avec précision. Si cette créature se déplace et quitte l’endroit où elle était, le personnage devra recommencer.
+
+Si le personnage est attaqué par une créature invisible, il localise précisément sa position, en tout cas tant qu’elle ne bouge pas à nouveau. Néanmoins, si elle a une allonge plus grande qu’un pas de déplacement, le personnage a une vague idée d’où elle se trouve mais ne peut déterminer sa position exacte.
+
+Si le personnage tente d’attaquer une créature invisible dont il a localisé la position exacte, il porte son attaque normalement mais celle-ci aura toujours les effets du [camouflage](./camouflage.md) total (50% de chance de rater). Dans le cas où la créature est particulièrement lente ou grande, ce pourcentage peut être diminué.
+
+Dans le cas contraire, le joueur doit préciser l’endroit où il lancera l’attaque. Si sa cible est bien là, l’attaque se déroulera normalement. Sinon, faites un lancer factice de chance de rater et dites-lui qu’il ne l’a pas touchée, quel que soit le résultat. De cette façon, le personnage ne saura pas s’il a raté parce qu’elle n’était pas là ou bien parce que vous avez réussi votre jet.
+
+Si un personnage invisible attrape un objet visible, celui-ci continuera de l’être, sauf s’il arrive à le cacher sur lui (dans une poche, sous une cape), ce qui le rend invisible. Un personnage peut recouvrir un objet de farine pour le localiser, jusqu’à ce que celle-ci soit tombée ou ôtée.
+
+Les créatures invisibles peuvent être pistées normalement car celles-ci laissent des traces. Les empreintes de pas dans le sable, la boue ou d’autres endroits mous donnent à leurs adversaires des indices sur leur localisation.
+
+Une créature invisible dans l’eau la trouble et agite celle-ci et peut ainsi être localisée. Mais comme on ne peut pas la voir facilement, elle bénéficie toujours du bonus de [camouflage](./camouflage.md).
+
+Le pouvoir d’odorat n’est pas affecté par l’invisibilité et permet donc de détecter une créature invisible comme si elle ne l’était pas.
+
+Le don [Combat en aveugle](./Combat en aveugle.md) augmente les chances de toucher. Jouez la chance de rater deux fois. En cas d’échec des deux jets, le personnage n’atteint pas sa cible. Vous pouvez aussi utiliser une chance de rater de 25 % à la place de lancer deux fois les dés.
+
+Un personnage qui bénéficie de la [vision aveugle](./vision aveugle.md) peut attaquer ou interagir avec une créature invisible normalement.
+
+Une torche allumée invisible continue de produire de la lumière, tout comme un objet invisible qui bénéficie d’un sort de *[lumière](./Lumière.md)* ou similaire.
+
+Les créatures [éthérées](./Éthéré.md) (à l’exemple des fantômes du Bestiaire Pathfinder RPG) sont invisibles. Puisqu’elles ne sont pas physiquement présentes, les jets de [Perception](./Perception.md) auditive, les pouvoirs d’odorat et de [vision aveugle](./vision aveugle.md), et le don [Combat en aveugle](./Combat en aveugle.md) ne fonctionnent pas. Les créatures [intangibles](./Intangible.md) sont majoritairement invisibles. L’odorat, le don [Combat en aveugle](./Combat en aveugle.md) et la [vision aveugle](./vision aveugle.md) ne donnent pas la possibilité de les localiser ou de les attaquer, mais la [Perception](./Perception.md) auditive le peut.
+
+Les créatures invisibles n’ont pas la possibilité d’utiliser des attaques de [regard](./Regard.md).
+
+Elles ne peuvent pas non plus empêcher les sorts de [divination](./Divination.md).
+
+On peut détecter et même voir des créatures invisibles. Il est donc conseillé d’être discret, même si l’on est invisible.
+
+### Odorat
+Ce texte a été reporté sur la [règle universelle de monstre](./Odorat (capacité).md) associée.
+
+### Paralysie
+Ce texte a été reporté sur la [règle universelle de monstre](./Paralysie (capacité).md) associée.
+
+### Peur
+Ce texte a été reporté sur la [règle universelle de monstre](./Terreur (capacité).md) associée.
+
+### Réduction de dégâts
+Ce texte a été reporté sur la [règle universelle de monstre](./Réduction de dégâts (capacité).md) associée.
+
+### Résistance à la canalisation
+Ce texte a été reporté sur la [règle universelle de monstre](./Résistance à la canalisation (capacité).md) associée.
+
+### Résistance à la magie
+Ce texte a été reporté sur la [règle universelle de monstre](./Résistance à la magie (capacité).md) associée.
+
+{s:Reference|VISIONDANSLENOIR}
+### Vision dans le noir
+Ce texte a été reporté sur la [règle universelle de monstre](./vision dans le noir (capacité).md) associée.
+
+### Vision et perception aveugle
+Ce texte a été reporté sur les règles universelles de monstre [vision aveugle](./Vision aveugle (capacité).md) et [perception aveugle](./Perception aveugle (capacité).md).
+
+### Vision nocturne
+Ce texte a été reporté sur la [règle universelle de monstre](./Vision nocturne (capacité).md) associée.

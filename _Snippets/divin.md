@@ -1,0 +1,20 @@
+---
+{}
+---
+
+<script>
+$(function () {
+let image = "?2?";
+if(image == "" || image == " ") { $('#symbole1').html(""); }
+});
+</script>
+<div class="presentation navmenudroite" style="margin-bottom:5px">
+<table width="80px"><tr style="vertical-align: top">
+<td id="symbole1" style="text-align:center;"><abbr title="Cette option est plus spécifique, voire réservée, aux aux fidèles de la divinité indiquée. Discutez avec votre MJ de sa disponibilité pour votre personnage."><a href="./Pathfinder-RPG.?1? (technique).ashx"><img src="/wiki/public/upload/?2?" style="max-height:70px; max-width:70px"></a></abbr></td>
+</tr><tr style="vertical-align: top">
+<td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
+commune chez  
+les fidèles  
+de [?1?](./?1?-(technique).md).</div></td>
+</tr></table>
+</div>

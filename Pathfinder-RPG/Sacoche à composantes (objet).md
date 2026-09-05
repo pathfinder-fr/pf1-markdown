@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Sacoche à composantes (objet)
+Title: Sacoche à composantes
+LastModified: 2021-09-24 22:33
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+On considère qu’un lanceur de sorts ayant une sacoche à composantes a tous les [matériaux](./composantes.md) et [focalisateurs](./composantes.md) nécessaires pour lancer ses sorts, à l’exception des composantes ayant un coût spécifique, des focalisateurs divins et des focalisateurs qui ne rentrent pas dans une sacoche. La plupart des sacoches à composantes sont étanches et peuvent se porter en bandoulière ou à la ceinture.

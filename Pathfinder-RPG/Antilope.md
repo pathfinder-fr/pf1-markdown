@@ -1,0 +1,96 @@
+---
+Name: Pathfinder-RPG.Antilope
+Title: Animal de troupeau, Antilope
+LastModified: 2021-02-23 17:56
+Categories:
+- Bestiaire 3
+- Monstre
+- Règles officielles
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Antilope|FP 1/2}
+{s:pucem|Animal|Plaines|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3 page 13*}
+{s:BDTexte|**PX** 200}
+{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
+{s:BDTexte|**pv** 6 (1d8+2)}
+{s:BDTexte|**Réf** +7, **Vig** +4, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 18 m (12 {s:c})}
+{s:BDTexte|**Corps à corps** corne, +1 (1d4)}
+{s:BDTexte|**Attaques spéciales**  [charge puissante](./Charge puissante.md) (corne, 1d4+2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 10, **Dex** 17, **Con** 14, **Int** 2, **Sag** 13, **Cha** 7}
+{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12 (16 contre le croc-en-jambe)}
+{s:BDTexte|**Dons** [Course](./Course.md), [Réflexes surhumains](./Réflexes surhumains.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +5}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** plaines chaudes ou tempérées}
+{s:BDTexte|**Organisation** solitaire, couple ou troupeau (3-50)}
+{s:BDTexte|**Trésor** aucun}
+
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'animal de troupeau
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Antilope](./Antilope.md) || 1/2
+|-
+| [Auroch](./Auroch.md) || 2
+|-
+| [Bélier](./Bélier.md) || 1
+|-
+| [Bison](./Bison.md) || 4
+|-
+| [Cerf](./Cerf.md) || 1
+|-
+| [Dromadaire](./Dromadaire.md) || 1
+|-
+| [Élan](./Élan.md) || 1
+|-
+| [Élan des rivières](./Élan des rivières.md) || 2
+|-
+| [Girafe](./Girafe.md) || 3
+|}
+</div>*Cet animal gracieux possède de longues pattes fines et une paire de solides cornes pointues, arquées vers l’arrière de sa tête.*
+
+Une antilope moyenne mesure un peu moins de 90
+centimètres au garrot, pour 1,20 mètre de long et 30 kilos. Chez
+certaines espèces, les mâles et les femelles sont pourvus de
+cornes, chez d’autres, elles sont le seul apanage des mâles. Les
+femelles n’ayant pas de cornes ont les mêmes caractéristiques
+que les autres mais n’ont pas d’attaque efficace.
+Les antilopes paissent en larges troupeaux, toujours à
+l’affût des prédateurs. Le moindre signe de menace peut
+conduire le troupeau entier à s’enfuir vers des pâturages plus
+sûrs. Les antilopes se battent rarement, sauf entre elles lors
+de la saison de reproduction ou quand elles sont acculées par
+un prédateur.
+
+Les caractéristiques présentées ci-dessus
+fonctionnent très bien pour de nombreuses espèces
+d’antilopes, mais aussi pour les herbivores de petite
+taille, comme les daims, et que l’on trouve partout
+dans le monde. Évidemment, toutes les antilopes ne sont pas
+de taille P. Vous pouvez créer des caractéristiques
+pour des antilopes de plus grande taille, pour
+des créatures comme les oryx et les grands
+koudous, en rajoutant 2 DV à l’antilope présentée
+ci-dessus et en [augmentant](./Archétypes-ashx.md#Créature_géante_FP_+B_5) sa catégorie
+de taille pour la faire passer à M.
+Toutes les antilopes de cette taille
+sont des créatures de FP 1.
+
+#### L'antilope comme compagnon animal
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 17, Con 14, Int 2, Sag 13, Cha 5 ; **Particularités** [vision nocturne](./vision nocturne.md).
+
+**Développement au niveau 4.** **Caractéristiques** For +2, Dex +2, Con +2 ; **Attaques spéciales** [charge puissante](./Charge puissante (capacité).md) (corne, 2d4).
+</div></td></tr></table>

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.sous-type kami
+Title: Kami (sous-type)
+LastModified: 2022-10-17 18:30
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 3
+---
+
+{s:MenuTypes}*Source : Bestiaire 3* p.302
+
+Les [kamis](./Kami.md) sont une race d’[extérieurs](./type Extérieur.md) [natifs](./sous-type natif.md) qui protègent ce qu’ils appellent leurs « pupilles » (des animaux, des plantes, des objets, voire même des lieux) contre les blessures et le déshonneur. Tous les kamis sont des [extérieurs](./type Extérieur.md) de [sous-type natif](./sous-type natif.md). Sauf précision contraire dans l’entrée de la créature, les kamis ont les traits suivants :
+- [Immunité](./Immunité (capacité).md) contre le [saignement](./Saignement.md), les [effets mentaux](./effet mental.md), la pétrification et les effets de [métamorphose](./branche métamorphose.md).
+- [Résistance](./Résistance (capacité).md) à l’acide 10, à l’électricité 10, et au feu 10.
+- Bien qu’ils soient des extérieurs natifs, les kamis ne mangent pas, ne boivent pas et ne respirent pas.
+- [Télépathie](./Télépathie (capacité).md).
+- **Fusion avec le pupille (Sur).** Par une [action simple](./Action simple.md), le kami peut fusionner son corps et son esprit avec son pupille. Lorsqu’il est fusionné, le kami peut observer la région qui l’entoure en utilisant ses sens, comme s’il utilisait son propre corps, aussi bien qu’en utilisant ceux de son pupille. Il ne contrôle pas le pupille, ne peut pas communiquer avec lui et ne peut entreprendre aucune action autre que quitter le pupille par une [action simple](./Action simple.md). Le kami doit être adjacent à son pupille pour fusionner avec lui ou en émerger. Si le pupille est une créature, une plante ou un objet, le kami peut émerger sur lui, à condition que le corps du kami fasse au moins une catégorie de [taille](./taille.md) de moins que celui du pupille. Si le pupille est un lieu, le kami peut émerger à n’importe quel endroit au sein de ce lieu.
+- *Guérison accélérée (Ext).* Tant que le kami est à moins de 36 mètres de son pupille, il gagne une [guérison accélérée](./Guérison accélérée (capacité).md). Son niveau de guérison accélérée dépend de son type.
+- **Pupille (Sur).** Le kami a un pupille spécifique : une créature ayant une valeur d’[Intelligence](./Intelligence.md) de 2 ou moins (généralement un [animal](./type Animal.md) ou une [vermine](./type Vermine.md)), une plante inanimée (pas une créature de [type plante](./type Plante.md)), un objet ou un lieu. Le type de pupille est indiqué entre parenthèses dans le profil du kami. Plusieurs des capacités du kami ne fonctionnent que lorsqu’il est fusionné avec son pupille ou situé à moins de 36 mètres d’elle. Si le pupille du kami est transportable et voyage avec lui sur un autre plan, le kami ne gagne pas le [sous-type extraplanaire](./sous-type extraplanaire.md) sur cet autre plan tant qu’il reste dans un rayon de 36 mètres autour de son pupille. Si le pupille est détruit alors que le kami est fusionné avec, le kami meurt (sans [jet de sauvegarde](./jet de sauvegarde.md)). S’il est détruit alors que le kami est à l’extérieur, le kami perd sa capacité à fusionner avec son pupille et sa [guérison accélérée](./Guérison accélérée (capacité).md), devenant [fiévreux](./Fiévreux.md) de manière permanente.

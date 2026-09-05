@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Anneau des crocs de force
+Title: Anneau des crocs de force
+LastModified: 2024-05-25 17:21
+Categories:
+- Objet mag
+- Objet mag anneau
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Anneau des crocs de force|{s:APG}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 8 000 po ; **Poids** —
+(((Description)))
+Cet anneau annule tout sort ou pouvoir magique de force qui vise son propriétaire en l’absorbant, ce qui lui donne un nombre de charges égal au niveau de sort de l’effet absorbé. L’anneau contient un maximum de 9 charges. Si un effet de force dépasse la limite de charge de l’anneau, l’anneau ne l’absorbe pas et n’annule pas son effet qui touche le personnage normalement. Le personnage peut ordonner à l’anneau de lancer un *[projectile magique](./Projectile magique.md)* (1d4+1 points de dégâts de force) par charge mais pas plus de 5 projectiles par round.
+(((Création)))
+**Conditions** [Augmentation d'intensité](./Augmentation dintensité.md), [Création d'anneaux magiques](./Création danneaux magiques.md), *[projectile magique](./Projectile magique.md)* ; **Coût** 4 000 po
+</div>

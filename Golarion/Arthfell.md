@@ -1,0 +1,12 @@
+---
+Name: Golarion.Arthfell
+Title: Arthfell
+LastModified: 2010-02-19 22:20
+Categories:
+- Andoran
+- Géographie
+---
+
+Cette vieille forêt d'épineux de l'est de l'[Andoran](./Andoran.md) est l'un des bois les plus tristement célèbres de cette contrée. Réputé pour ses cercles druidiques, ses bandes de loups-garous et bien d'autres dangers, la forêt n'est que très rarement traversée par les voyageurs bien que la civilisation rogne constamment sur son territoire.
+
+La forêt fut, il y a bien longtemps, beaucoup plus étendue et occupait l'ensemble du [Val de Sombrelune](./Val de Sombrelune.md), jusqu'à la chaîne des [Cinq Rois](./Cinq Rois.md). Mais un accord entre Narven, le Rois de la Forêt, et le baron Nyes de Sombrelune autorisa ce dernier à exploiter les partie nord de la forêt. Cela eut pour résultat de couper le bois en deux et de former deux zones distinctes, la forêt d'Arthfell d'une part et la [forêt de Sombrelune](./Foret Sombrelune.md) d'autre part.

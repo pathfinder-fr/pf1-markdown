@@ -1,0 +1,77 @@
+---
+Name: Pathfinder2.ADJ-MJ
+Title: Aides de jeu pour Pathfinder 2 (MJ)
+LastModified: 2026-03-24 21:26
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Aides de jeu pour Pathfinder 2</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles](./ADJ.md)
+[Personnages](./ADJ-PJ.md)
+[Pour les MJ](./ADJ-MJ.md)
+[FoundryVTT](./ADJ-FVTT.md)
+[Liens](./ADJ-Liens.md)
+</div>
+</div>
+
+<div class="itemmenu">
+{s:ItemPF2NoImg|Glossaire créatures Remaster|Glossaire des créatures pré- et post-remaster par Joe Jinis (Doc Proton)|https://drive.proton.me/urls/1S8R2PYCB0#tQupugwqXNSP}
+
+</div>
+
+
+### Liens
+
+- Site permettant de générer divers éléments aléatoires pour PF2 (dont des tables de loot) : [Leitknight Gaming](https://www.leitknightgaming.com/loot2)
+
+- Google Sheet reprenant tous les trésors parus en VO et permettant de faire des tirages aléatoires individuels ou encore pour le stock d'un magasin : [Lien](https://docs.google.com/spreadsheets/d/1BfUZXtaIVuBp6qIsVvPQW-45NEpv3VZUFBGCqsOAWc4/edit#gid=823734984)
+
+- Google Sheet permettant de modifier le niveau d'un monstre donné : [Lien](https://docs.google.com/spreadsheets/d/18zsPLqWy8CLnGbCcGgaR8cT55qnedhTBE_rspnLqA0Q/edit#gid=2007578940)
+
+- Google Sheet permettant de prévoir les rencontres et l'évolution en XP des personnages : [Lien](https://docs.google.com/spreadsheets/d/147Qwk0-nl1tvDNCyYBzXXskMAaU4MQJ53RYa4qVEIbI/edit)
+
+- Document Word proposant un formatage pour les monstres, objets et pièges : [Lien](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/2e_template.docx)
+
+- Application mobile pour la construction de rencontres : [MonsterLair](https://play.google.com/store/apps/details?id=de.enduni.monsterlair)
+
+- Gabarits pour les effets de zone utilisables avec Roll20 par Elmios : [Fichier Zip](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/GabaritsRoll20.zip)
+
+- Table de rencontres aléatoire au Mwangi par Jason Tondro (développeur Pathfinder et Starfinder) : [Lien](./rencontresKaava.md)
+
+
+### Conversion de Pathfinder 1 vers Pathfinder 2
+
+Globalement, il n'y a pas de formules miracles pour convertir une aventure PF1 en une aventure PF2. Il faut plutôt "réinventer" l'aventure en question en suivant les lignes directrices de PF2, ce qui revient grosso modo à :
+- Recréer les **rencontres** en utilisant le système de budget de PF2, en utilisant les versions PF2 des créatures ou en en construisant de nouvelles (à partir de rien ou en utilisant une autre créature PF2 et en changeant sa description) ;
+- Revoir les **pièges, afflictions, hantises...** en utilisant le système de PF2 et en adaptant les DDs aux seuils de PF2 ;
+- Reconstruire tout le **trésor/loot** en utilisant les tables de PF2 indiquant le nombre d'objets à donner par niveau et s'inspirant thématiquement des objets donnés en PF1.
+
+Quelques ressources disponibles :
+- Guide de conversion et de création d'aventures en Pathfinder 2 (y compris les règles pour la création de monstres, PNJ et pièges du *Guide de maîtrise*) : [Fichier PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/ConvCréa PF2.pdf)
+
+- Guide de conversion PF1 -> PF2 par Eliwir, avec conseils et exemples : [Lien Google Doc](https://docs.google.com/document/d/17XuFTsO9yHFWZZuWvdGuc0iQJoEvZVlsjicUWlB8nVk/edit) (dont la traduction est intégrée dans le guide de conversion et de création d'aventures en Pathfinder 2)
+
+- Serveur Discord *A Series of Dice-Based Events* qui regroupe plusieurs fans anglophones qui s'attachent à la conversion en PF2 des campagnes et aventures PF1 (principalement les officielles) : [https://discord.gg/eEHAyHW](https://discord.gg/eEHAyHW)
+
+- Sur Pathfinder Infinite, on peut trouver quelques compilations reprenant le travail de conversion des fans du serveur Discord A Series of Dice-Based Events (la plupart du temps en "pay what you want") : [https://www.pathfinderinfinite.com/browse.php?filters=100112_100116_0_0_0_0&src=fid100116|Pathfinder Infinite]
+
+- Quelques conseils et une aide à la conversion des DD et sommes de monnaie en ligne : [https://pf2easy.com/index.php?id=9675&name=Converting%20Adventures%20from%201st%20Edition|Aide à la conversion sur Pf2easy]
+
+### Boîte à outils du MJ
+
+**Ressources provenant du blog de Paizo :**
+- [Le couloir tombal](./CouloirTombal.md) (Piège 4)
+- [Perdu dans le labyrinthe](./PerduLabyrinthe.md)
+- [Kobold en approche !](./KoboldsEnApproche.md) (Rencontre modérée 4)
+- [Les masques des gardiens des secrets](./MasquesGardiensSecrets.md) (Objet 3)
+- [Urok, infiltrateur kobold](./UrokInfiltrateurKobold.md) (PNJ 9)
+- [Chéa, étudiante du déploiement des vents](./CheaDeploiementVents.md) (PNJ 9)
+- [L'élixir miraculeux de Phinelli](./Phinelli.md) (Rencontre difficile 3)
+- [Gardien divin de Brigh](./GardienDivin.md) (Créature 10 - monstre bonus pour le Bestiaire 3)
+
+**Autres ressources :**
+- [Feu-follet révisé](./BetterWillOWisp.md) (Créature 6 - par <nowiki>@Rulelord2e</nowiki> sur Reddit/Pathfinder 2

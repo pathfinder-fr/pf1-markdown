@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Flammes
+Title: Flammes
+LastModified: 2024-10-10 16:29
+Categories:
+- Règle officielle
+- Sort
+- Sort chaman 1
+- Sort druide 1
+- Src Manuel des joueurs
+---
+
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 0 m  
+
+**Effet** flammes dans la paume du personnage  
+
+**Durée** 1 minute/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Des flammes aussi brillantes qu’une torche apparaissent dans la main du lanceur de sorts, sans toutefois le brûler, ni lui ni son équipement.  
+
+Une de leurs fonctions est d’émettre de la lumière, mais le lanceur de sorts peut également les lancer ou les amener au contact d’ennemis pour brûler ceux-ci. Une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) réussie inflige 1d6 points de dégâts de feu, +1 par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (jusqu’à un maximum de +5). Le personnage peut également projeter les *flammes* jusqu’à une distance de trente-six mètres (24 cases). Pour ce faire, il doit effectuer une [attaque de contact à distance](./attaque de contact à distance.md) (sans aucun malus de distance) pour infliger des dégâts égaux à ceux de l’attaque au corps à corps. De nouvelles *flammes* apparaissent dans la main du personnage dès que les premières ont été lancées. Chaque attaque consomme 1 minute de la durée du sort. Si une attaque réduit le temps restant à 0 minute (ou moins), le sort prend fin dès que le résultat de l’attaque a été appliqué.  
+
+Ce sort ne fonctionne pas sous l’eau.

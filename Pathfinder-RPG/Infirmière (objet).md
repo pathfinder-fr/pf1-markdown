@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Infirmière (objet)
+Title: Infirmière
+LastModified: 2021-09-26 17:33
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 7 pa
+<span class="Catégorie">**Catégorie** [Hébergement et services](./Hébergement et services.md)</span>
+---
+Une infirmière est une personne formée aux premiers secours et à la médecine. Une infirmière moyenne est une [experte](./Expert.md) de [niveau](./niveau.md) 1 avec 1 rang en [Premiers secours](./Premiers secours.md) et le don [Talent](./Talent.md) (Premiers secours). Une infirmière expérimentée est de niveau 3 ou 4, a des rangs supplémentaires en Premiers secours et est payée de 2 à 3 fois plus, néanmoins, ces infirmières sont très demandées et sont normalement employées à plein temps par de riches marchands ou des nobles pour s’occuper des enfants et des personnes âgées de la famille. Les infirmières ont généralement un minimum de connaissances sur ce que permettent les soins magiques de la région et sur les endroits où les trouver. Le prix est indiqué par jour.

@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Homme-félin modèle
+Title: Homme-félin modèle
+LastModified: 2014-09-15 22:40
+Categories:
+- Don
+- Manuel des races
+- Règles officielles
+---
+
+{s:mr}*Les caractéristiques félines de l’homme-félin sont plus précises et marquées que celles des autres membres de sa race.*
+
+**Conditions.** [Homme-félin](./homme-félin (race).md)
+
+**Avantages.** L’homme-félin peut prendre le don [Aspect bestial](./Aspect bestial.md) même s’il ne remplit pas les conditions requises. De plus, sa nature féline se manifeste de l’une des manières suivantes. Il choisit sa manifestation lorsqu’il prend ce don et ne peut plus en changer.  
+
+- *Griffes acérées (Ext).* Si le personnage n’a pas le trait racial griffes du félin ou la manifestation griffes bestiales lui venant du don Aspect bestial, il gagne le trait racial griffes du félin. S’il a le trait racial griffes du félin ou la manifestation griffes bestiales, les dégâts de son attaque de griffe passent à 1d6.  
+
+- *Sens améliorés (Ext).* Si le personnage a [vision nocturne](./vision nocturne.md), il gagne le trait racial d’homme-félin [odorat](./odorat.md). S’il a le trait racial odorat, il gagne vision nocturne.  
+
+- *Super sprinter (Ext).* Le personnage gagne un bonus racial de 3 mètres (2 {s:c}) à sa [vitesse de déplacement](./VD.md) lorsqu’il [charge](./charge.md), court ou bat en retraite. S’il a le trait racial sprinter, son bonus racial de vitesse quand il charge, court ou bat en retraite est augmenté à 6 mètres (4 {s:c}). 
+
+**Spécial.** L’homme-félin peut prendre ce don plusieurs fois. Ses effets ne se cumulent pas. À chaque fois qu’il le prend, il doit choisir une manifestation différente.

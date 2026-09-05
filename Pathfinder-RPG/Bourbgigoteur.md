@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Bourbgigoteur
+Title: Bourbgigoteur
+LastModified: 2024-01-10 20:52
+Categories:
+- Monstre
+- Règle officielle
+- Src Codex monstrueux
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bourbgigoteur|FP 1}
+{s:pucem|Aberration|Marais|Tempéré}
+{s:BDTexte|*Source : [Codex monstrueux p.16](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|**PX** 400}
+{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille P, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 12, contact 12, pris au dépourvu 11 (Dex +1, taille +1)}
+{s:BDTexte|**pv** 16 (3d8+3)}
+{s:BDTexte|**Réf** +2, **Vig** +2, **Vol** +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, nage 12 m}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d4+1), langue –1 contact (langue gluante)}
+{s:BDTexte|**Espace occupé** 1,50 m ; **Allonge** 1,50 m (3 m avec la langue)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 13, **Dex** 12, **Con** 13, **Int** 3, **Sag** 12, **Cha** 6}
+{s:BDTexte|**BBA** +2 ; **BMO** +2 ; **DMD** 13}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5, [Discrétion](./Discrétion.md) +9 (+17 dans les marais), [Natation](./Natation.md) +13, [Perception](./Perception.md) +1 (+5 dans les marais) ; **Modificateurs raciaux** +4 en Perception dans les marais, +8 en Discrétion dans les marais}
+{s:BDTexte|**Langues** bourbiérin (incapable de parler)}
+{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md), déplacement facilité (marais)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** marais tempérés}
+{s:BDTexte|**Organisation** solitaire, couple ou meute (3-6)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Déplacement facilité (marais) (Ext).** Tant que le bourbgigoteur se trouve dans un marais, il peut se déplacer sur n’importe quel terrain naturel difficile à sa vitesse normale. Les terrains modifiés par magie l’affectent normalement.}
+{s:BDTexte|**Langue gluante (Ext).** Quand le bourbgigoteur touche une créature avec son attaque de langue, sa victime ne peut pas s’éloigner à plus de 3 mètres de lui et subit un malus de –2 à la [CA](./CA.md) tant que la langue reste attachée (ce malus ne se cumule pas si la victime est attachée à plusieurs langues). La victime peut se débarrasser de la langue en réussissant un test opposé de [Force](./Force.md) par une [action simple](./Action simple.md) ou en infligeant 2 points de dégâts tranchants à la langue ([CA](./CA.md) 11, les dégâts n’étant pas décomptés des points de vie du bourbiérin). Le bourbgigoteur ne peut pas s’éloigner à plus de 3 mètres de la cible à laquelle il est attaché. Il peut lâcher prise par une [action libre](./Action libre.md). Tout comme le bourbiérin, le bourbgigoteur ne peut pas attirer sa cible à lui avec sa langue.}
+
+</div></td>
+<td><div>**Ces créatures accompagnent souvent les [bourbiérins](./Bourbiérin.md).**
+
+*Cette bête d’un vert jaunâtre ressemble à un têtard hypertrophié qui n’a pas fini sa maturation. Il a deux grands yeux globuleux qui ressortent de chaque côté de la tête et une bouche béante qui révèle des crocs acérés.*
+
+Les bourbgigoteurs, aussi appelés chiens-crapauds, sont les avortons dégénérés de prêtres-rois, ceux qui ont survécu à leur régime empoisonné de libellules mais ne se sont pas développés correctement. On dirait des têtards de la taille d’un chien, à mi-chemin de leur métamorphose. Leur corps bulbeux n’a que deux grandes pattes et une queue effilée ornée d’une crête. Ils sont à peine plus intelligents que des chiens et passent la majeure partie de leur courte et violente vie à servir de compagnons de chasse et de chiens de garde à leurs maîtres crapauds.
+
+Un bourbgigoteur peut vivre jusqu’à vingt ans, mais entre les prédateurs du marais et la cruauté de ses maîtres, il est bien rare qu’il atteigne les dix ans. Les bourbgigoteurs ont toujours les mêmes teintes que les bourbiérins avec lesquels ils vivent et sont donc généralement gris, verts ou noirs. Tout comme les bourbiérins, ils perdent leur couleur en vieillissant et les plus vieux sont gris pâle, voire blancs. Un bourbgigoteur ordinaire mesure 1,10 mètre de long (sans compter la queue qui fait près de 1,80 mètre). La plupart des bourbgigoteurs pèsent dans les trente kilos mais les aventuriers et les érudits parlent de spécimens plus imposants.
+
+Même si leurs maîtres bourbiérins les maltraitent, les bourbgigoteurs possèdent une étrange affinité avec eux et ressentent une intense loyauté envers leur tribu. Certains érudits pensent que ce phénomène est une version primitive de l’instinct tribal ou des inclinaisons religieuses des bourbiérins tandis que d’autres observateurs supposent que ces créatures se croient capables d’évoluer et de devenir de véritables bourbiérins si elles vouent une dévotion sans faille à leurs maîtres.
+</div></td></tr></table>

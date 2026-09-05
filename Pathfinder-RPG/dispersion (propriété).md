@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.dispersion (propriété)
+Title: dispersion (propriété)
+LastModified: 2021-01-18 21:02
+Categories:
+- Objet mag propriété arme
+- Redirection
+---
+
+>>> Descriptions individuelles des propriétés spéciales des armes#Dispersion

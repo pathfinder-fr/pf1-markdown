@@ -1,0 +1,116 @@
+---
+Name: Starfinder.Races
+Title: Races
+LastModified: 2021-08-05 16:33
+---
+
+### Présentation
+
+Le jeu de rôle Starfinder ne se limite pas à rencontrer des extraterrestres, il permet aussi d’en jouer. Dans Starfinder, le mot « race » désigne une espèce intelligente, douée de la conscience de soi, dont les membres peuvent être considérés comme des personnages et non de simples monstres. Bien que toutes les races ne soient pas appropriées pour des personnages joueurs, bon nombre d’entre elles le sont ; toute créature dotée de traits raciaux peut faire partie d’une race jouable si votre MJ l’approuve.
+
+Déterminer sa race est un des choix les plus importants lors de la création d’un personnage puisqu’une fois que c’est fait, vous ne pouvez plus en changer. En plus de son aspect culturel, pour chaque race est indiqué le nombre de points de vie que vous obtenez au niveau 1 ainsi que plusieurs traits raciaux qui modifient vos caractéristiques ou vous accordent des capacités supplémentaires. Les modificateurs aux valeurs de caractéristiques sont les plus importants. Ces bonus et pénalités ne sont appliqués qu’au moment de déterminer vos valeurs de caractéristiques et sont le reflet des aptitudes et désavantages naturels de votre race.
+Par exemple, globalement, les vesks sont plus forts que les autres et les ysokis sont plus faibles. Si vous savez déjà quelle classe vous voulez jouer, c’est souvent une bonne idée de comparer sa valeur de caractéristique essentielle aux modificateurs de valeurs de caractéristiques accordées par les différentes races quand vous en choisissez une.
+Ainsi, vous évitez de vous retrouver accidentellement avec des modificateurs raciaux qui rendent votre personnage difficile à jouer. Certains bonus accordés par des races se marient parfaitement avec certaines classes comme par exemple les bonus de Force et de Constitution des vesks qui en font de parfaits soldats. Cependant, n’hésitez pas à vous éloigner des schémas évidents si vous avez une autre idée en tête, car chaque race présentée ici compte des membres de chacune des classes au sein de sa société.
+
+
+### Les races de Starfinder
+<div class="presentation navmenu">
+### Les races de base
+<center><table width="91%">
+<tr style="vertical-align: bottom">
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Amiri.jpg|95%|./Starfinder.Androïdes.ashx|150px|50}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Lem.jpg|95%|./Starfinder.Humains.ashx|150px|50}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Lini.jpg|95%|./Starfinder.Kasathas.ashx|150px|65}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Seoni.jpg|95%|./Starfinder.Lashuntas.ashx|150px|92}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Valéros.jpg|95%|./Starfinder.Shirrens.ashx|150px|50}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Ezren.jpg|95%|./Starfinder.Vesks.ashx|150px|45}</td>
+<td width="13%">{s:ImageMenu|Illustrations/PNJ/Sajan.jpg|95%|./Starfinder.Ysokis.ashx|150px|65}</td>
+</tr>
+<tr style="vertical-align: top">
+<td align="center">[Androïdes](./Androïdes.md)</td>
+<td align="center">[Humains](./Humains.md)</td>
+<td align="center">[Kasathas](./Kasathas.md)</td>
+<td align="center">[Lashuntas](./Lashuntas.md)</td>
+<td align="center">[Shirrens](./Shirrens.md)</td>
+<td align="center">[Vesks](./Vesks.md)</td>
+<td align="center">[Ysokis](./Ysokis.md)</td>
+</tr>
+</table>
+</center>
+</div>
+
+- **[Androïdes](./Androïdes.md).** Les androïdes sont des créatures artificielles, composées d’éléments aussi bien biologiques qu’artificiels, qui, à l’origine, ont été créées par les humains pour être des serviteurs. Ils sont aujourd’hui affranchis et libres de poursuivre leur propre destinée parmi les étoiles.
+- **[Humains](./Humains.md).** Présents presque partout dans les Mondes du Pacte, les humains se sont répandus à travers les étoiles depuis la disparition de leur monde natal de Golarion. Ils ont la réputation d’être curieux, tenaces et d’avoir une grande faculté d’adaptation.
+- **[Kasathas](./Kasathas.md).** Ancienne race d’êtres dotés de quatre bras, venus d’un lointain système stellaire, les kasathas sont de fervents traditionalistes dont les coutumes leur confèrent vis-à-vis des autres races une aura de sagesse et de mystère.
+- **[Lashuntas](./Lashuntas.md).** Les lashuntas ont des dons psychiques naturels. Ils regroupent en fait deux races : une est constituée d’individus grands et maigres et l’autre d’individus petits et puissants. Les deux fascinent tout autant les autres races et elles se consacrent à l’érudition pour atteindre la perfection.
+- **[Shirrens](./Shirrens.md).** Autrefois intégrés à une terrifiante intelligence collective qui dévore tout sur son passage, les shirrens insectoïdes ont muté et sont parvenus à échapper à son emprise. Ce sont aujourd’hui des individus indépendants épris de la liberté de choix mais qui conservent un fort attachement communautaire.
+- **[Vesks](./Vesks.md).** Voués à la conquête et à la domination, les vesks reptiliens viennent très récemment de mettre un terme à leur longue guerre contre les autres races des Mondes du Pacte. Cependant, beaucoup se méfient encore d’eux malgré leur sens de l’honneur et leur utilité au combat.
+- **[Ysokis](./Ysokis.md).** Passionnés et bagarreurs, les ysokis sont des êtres évoquant des rats. Ce sont des experts aussi bien dans l’art de se fourrer dans le pétrin que de s’en sortir. Leur amour de la technologie, de l’exploration et des aventures les pousse à voyager à travers la galaxie.
+
+
+
+#### Les races exotiques
+Le système abrite également de nombreuses autres races civilisées mais moins présentes et si l’on prend en compte celles qui existent au-delà des Mondes du Pacte, absolument tout est possible !
+
+
+### Langages
+
+La myriade de peuples au sein des Mondes du Pacte parlent une très grande variété de langages allant de la langue du commerce, répandue dans tout le système, appelée le commun, aux obscurs dialectes extraterrestres en passant par les anciennes langues des autres plans de la réalité. Sur de nombreux mondes, on trouvera une langue parlée sur toute la planète, la plupart des races ont une langue raciale et chaque langue majeure des Mondes du Pacte se décline également sous forme de langage des signes et sous forme écrite (comprenant à la fois une version tactile et visuelle).
+
+Un personnage commence le jeu en sachant lire et parler le commun, sa langue raciale (s’il y en a une) et la langue de sa planète natale (s’il y en a une). Il peut aussi choisir dans la liste ci-dessous un nombre de langages supplémentaires égal à son bonus d’Intelligence. Un personnage peut apprendre la version tactile et le langage des signes associés à une langue qu’il connaît soit en tant que langage supplémentaire, soit en attribuant un rang à la compétence Culture. Un personnage qui commence le jeu en étant aveugle connaît automatiquement les versions tactiles de toutes les langues qu’il connaît ; un personnage qui commence le jeu en étant sourd connaît automatiquement les langages des signes de ces langues. Un nombre incroyable de langues sont parlées au sein des Mondes du Pacte et toutes ne sont pas compréhensibles ou reproductibles par les autres races sans avoir recours à des technologies complexes ; certaines des langues les plus fréquemment parlées dans les Mondes du Pacte sont présentées ci-dessous.
+
+#### Langages les plus répandus
+Le commun, la langue commerciale la plus répandue des Mondes du Pacte, est, semble-t-il, basé sur au moins une des anciennes langues humaines de Golarion. Les autres langages les plus répandus dans le système (et ceux qui les utilisent le plus souvent) sont indiqués ci-dessous.
+- Akitonien (habitants d’Akiton)
+- Aklo (habitants d’Aucturn, Sombre Domaine)
+- Bréthédien (habitants de Bréthéda, de Liavara et de leurs lunes)
+- Castrovélien, également appelé lashunta (lashuntas, habitants de Castrovel)
+- Éoxien (habitants d’Éox)
+- Kasatha (kasathas)
+- Shirren (shirrens)
+- Triaxien (habitants de Triaxus)
+- Vercite (habitants of Verces)
+- Vesk (vesk, habitants du Veskarium)
+- Ysoki (ysoki)
+
+#### Autres langages
+Les langages suivants sont moins répandus mais les érudits, les lanceurs de sorts et ceux qui font des affaires sur les mondes de ceux qui les parlent y sont souvent confrontés.
+- Abyssal (démons, extérieurs chaotiques mauvais, habitants des Abysses)
+- Aérien (habitants du plan de l’Air)
+- Aquatique (habitants du plan de l’Eau)
+- Arkanen (habitants d’Arkanen et d’Osoro)
+- Azlant (Azlant, habitants de l’Empire stellaire azlant)
+- Céleste (anges, extérieurs d’alignement Bon, habitants des plans d’alignement Bon)
+- Draconique (dragons, humanoïdes reptiliens, draconiens triaxiens)
+- Drow (drow, nombreux habitants d’Apostae)
+- Nain (nains)
+- Elfe (drow, elfes, demi-elfes)
+- Gnome (gnomes)
+- Gobelin (gobelours, goblins, hobgobelins)
+- Halfelin (halfelins)
+- Igné (habitants du plan du Feu)
+- Infernal (diables, extérieurs loyaux mauvais, habitants des Enfers)
+- Kalo (kalo, habitants de Kalo-Mahoï)
+- Nchaki (habitants de Nchak)
+- Orque (orques, demi-orques)
+- Sarcésien (sarcésiens)
+- Shobhad (shobhads)
+- Terreux (habitants du plan de la Terre)
+
+### Caractéristiques générales
+Sur la table ci-dessous sont indiquées des fourchettes de base pour déterminer le poids, la taille et l’âge de votre personnage. Bien que la plupart des individus se situent dans la moyenne des fourchettes proposées pour leur race, d’autres peuvent être exceptionnellement plus grands ou plus petits. Le sexe joue un rôle significatif pour la taille et la forme de certaines races mais, même pour celles-ci, n’hésitez pas à définir le personnage qui vous convient le mieux. Les facteurs environnementaux peuvent aussi jouer un rôle pour déterminer votre taille et votre forme. Un personnage issu d’un milieu à faible gravité sera probablement plus grand et plus mince tandis qu’un personnage qui a grandi sur un monde à forte gravité peut être plus petit et plus costaud à cause de la pression exercée sur son corps.
+
+L’âge de la maturité indiqué sur la table représente l’âge auquel un membre d’une race sera probablement considéré comme un adulte. C’est une généralisation basée sur des facteurs physiques et culturels, sachant que cette valeur peut changer en fonction des traditions. L’âge maximum indiqué inclut un élément aléatoire pour traduire l’imprévisibilité de la mort et c’est l’estimation de la longévité d’un individu n’ayant recours ni à la magie, ni à la technologie. En bénéficiant de technologies adéquates de prolongation de la vie, des individus de toutes les races peuvent devenir presque immortels.
+
+De plus, la plupart des races présentées ici sont de taille M ; elles occupent un espace et ont une Allonge de 1,50 m et une vitesse de déplacement au sol de 9 mètres par round. Bien que les ysokis soient des humanoïdes de taille P, ils ont la même Allonge, occupent le même espace et ont la même vitesse de déplacement que les créatures de taille M.
+
+### Informations sur les races
+Vous trouverez ci-dessous des précisions sur quelques éléments essentiels des races.
+
+- **Modificateurs aux valeurs de caractéristiques :** ce sont les modificateurs à appliquer aux caractéristiques au cours de l’étape de création d’un personnage. Par exemple, les modificateurs pour les androïdes sont de +2 en Dextérité et en Intelligence mais de -2 en Charisme. 
+
+- **Points de vie :** ce sont les points de vie supplémentaires que vous obtenez en fonction de votre race, au niveau 1.
+
+- **Traits raciaux :** sur la première page consacrée à chaque race sont indiqués les pouvoirs spéciaux que vous obtenez quand vous interprétez un personnage de cette race. Vous les obtenez toutes automatiquement, vous n’avez pas à faire un choix. 
+
+- **Interpréter un personnage de cette race :** ces quelques notes vous donnent des éléments de base pour savoir comment commencer avec un personnage de cette race et comment définir sa place dans cet univers. Bien entendu, comme pour les détails culturels, il ne s’agit que de suggestions basées sur un individu moyen de ce type. Les personnalités sont très variables et votre personnage peut être assez éloigné des suggestions indiquées, surtout s’il a été élevé au sein d’une culture différente ou dans des circonstances anormales.

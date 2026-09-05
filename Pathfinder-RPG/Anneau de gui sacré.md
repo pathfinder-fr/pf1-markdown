@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Anneau de gui sacré
+Title: Anneau de gui sacré
+LastModified: 2024-05-25 17:10
+Categories:
+- Objet mag
+- Objet mag anneau
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Anneau de gui sacré|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 6 000 po ; **Poids** —
+(((Description)))
+Ce tout petit anneau de gui vivant s’enroule autour du doigt du porteur de son propre chef. Le porteur gagne un bonus de compétence de +2 à ses tests de Dressage, de Connaissances (nature) et d’empathie sauvage. S’il possède la capacité déplacement facilité, il peut se déplacer sans effort, sans mal et sans entrave, à travers la végétation manipulée ou créée par la magie. Ceci ne permet pas au porteur de traverser les objets ou les créatures solides. De plus, le porteur peut utiliser [gourdin magique](./Gourdin magique.md) une fois par jour.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[gourdin magique](./Gourdin magique.md)*, *[passage sans trace](./passage sans trace.md)* ; **Coût** 3 000 po
+</div>

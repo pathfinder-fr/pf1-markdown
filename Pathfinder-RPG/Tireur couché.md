@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Tireur couché
+Title: Tireur couché
+LastModified: 2024-07-07 23:28
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:uc}*Quand le personnage est couché, il est plus à même d'éviter les attaques qui le visent.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [BBA](./BBA.md) +1
+
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- lArt de la guerre.md#17) Tireur couché : Que fait ce don ? Il dit que le personnage ne subit pas de malus en tirant tout en étant à terre, mais il n’existe pas de tel malus.**'
+
+Vous avez bien raison sur ce point. Actuellement, <u>[le don](./Tireur couché.md)</u> ne fonctionne pas comme il a été prévu de le faire. Pour corriger ce problème, opérez les changements suivants.
+
+Retirez la condition [Arme de prédilection](./Arme de prédilection.md) de ce don. Le paragraphe Avantages du don devrait être modifié comme suit :
+
+« **Avantage.** S'il est [à terre](./À terre.md) depuis la fin de son dernier tour, le malus à la [CA](./CA.md) contre les attaques au corps à corps effectuées contre le personnage est réduit à -2. De plus, le bonus à la [CA](./CA.md) contre les attaques à distance effectuées contre lui est augmenté à +6. »
+
+Enfin, supprimez le paragraphe Spécial de ce don.}**Avantage.** S'il est [à terre](./À terre.md) depuis la fin de son dernier tour, le malus à la [CA](./CA.md) contre les attaques au corps à corps effectuées contre le personnage est réduit à -2. De plus, le bonus à la [CA](./CA.md) contre les attaques à distance effectuées contre lui est augmenté à +6.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Tant que le personnage a au moins 1 point d’endurance dans sa réserve, il bénéficie des bonus de ce don même s’il n’est pas couché depuis la fin de son dernier tour.

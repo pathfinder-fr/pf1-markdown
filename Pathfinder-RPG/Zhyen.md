@@ -1,0 +1,75 @@
+---
+Name: Pathfinder-RPG.Zhyen
+Title: Zhyen
+LastModified: 2024-01-06 15:58
+Categories:
+- Monstre
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Zhyen|FP 1/2}
+{s:pucem|Extérieur|Désert|Tempéré}
+{s:BDTexte|*Source : Recueil de la Société des Éclaireurs p.290*}
+{s:BDTexte|[Extérieur](./type Extérieur.md) (air, terre, feu ou eau) de taille TP, N}
+{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 14, pris au dépourvu 15 (+2 Dex, +3 naturelle, +2 taille)}
+{s:BDTexte|**pv** 9 (2d8)}
+{s:BDTexte|**Réf** +4, **Vig** +0, **Vol** +4}
+{s:BDTexte|**Résistances** acide 5, froid 5, électricité 5, feu 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m, [vol](./Vol (capacité).md) 9 m (parfaite), nage 9 m (pour un zhyen de l’eau)}
+{s:BDTexte|**Corps à corps** contact au corps à corps, +1 (1d4 dégâts d’acide, de froid, d’électricité ou de feu)}
+{s:BDTexte|**Espace occupé** 75 cm ; **Allonge** 0 m}
+{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2)}
+{s:BDSorts|À volonté — *[manipulation à distance](./Manipulation à distance.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|1/jour — *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[fatigue](./Fatigue.md)*}
+{s:BDSousTitre|Tactique}
+{s:BDTexte|**Avant le combat** Les zhyens n’engagent pas le combat d’eux-mêmes, à moins d’être convoqués.}
+{s:BDTexte|**Pendant le combat** Le zhyen préfère éviter les attaques au moyen d’une action de [défense totale](./défense totale.md) mais, s’il est acculé, il attaque jusqu’à ce qu’il puisse s’enfuir.}
+{s:BDTexte|**Moral** Pas habitué et généralement pas préparé au combat, le zhyen tente de fuir quand il est réduit à la moitié de ses points de vie ou moins.}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 6, **Dex** 14, **Con** 10, **Int** 9, **Sag** 14, **Cha** 12}
+{s:BDTexte|**BBA** +1 ; **BMO** -3; **DMD** 9}
+{s:BDTexte|**Dons** [Course](./Course.md)}
+{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +0, [Connaissances](./Connaissances.md) (mystères) +0, [Connaissances](./Connaissances.md) (plans) +3, [Discrétion](./Discrétion.md) +14, Nage +6, [Perception](./Perception.md) +6, [Vol](./Vol.md) +6}
+{s:BDTexte|**Langues** aérien, aquatique, commun, igné, terreux}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** Tous les déserts ou plans élémentaires}
+{s:BDTexte|**Organisation** Solitaire ou gang (1 zhyen et 2-4 [méphites](./Méphite.md))}
+{s:BDTexte|**Trésor** Aucun}
+</div></td>
+<td><div>*Ce petit génie flotte dans les airs. Il mesure à peine 30 centimètres mais il n’a pas de jambes qui permettraient d’estimer sa véritable taille. Des volutes de lumière élémentaire s’échappent de ses yeux et il s’incline, prêt à vous servir.*
+
+Le zhyen est un génie mineur qui sert de messager et de serviteur aux êtres supérieurs. Ils savent que les génies sont supérieurs aux lanceurs de sorts mortels mais ils servent souvent de familiers à de puissants mages, notamment aux amis des génies que l’on appelle les daivrat (cf. p.280). Ils peuvent être convoqués grâce à un sort de convocation de monstres II.
+
+Tous les zhyens ressemblent à des djinns miniatures jusqu’à la taille, toujours musculeux et séduisants. Sous la taille, ils n’ont pas de forme du tout, ils se terminent par une « queue » composée de l’élément de prédilection du génie : des volutes de brumes pour l’air, une vague mouvante pour l’eau, une traînée de flammes pour le feu ou une chute apparemment infinie de pierres pour la terre. Cette apparence se reflète également dans le teint du zhyen mais n’a aucune influence sur ses pouvoirs ou ses capacités.
+
+#### Écologie
+Les zhyens vivent sur le plan élémentaire correspondant à leur type élémentaire. Certains érudits spécialistes des plans pensent que ces génies miniatures sont des portions de ces plans ayant développé une conscience et s’étant libérées de la trame élémentaire. D’autres disent qu’il s’agit de génies mineurs, sorter de rejetons des grandes races. D’autres encore affirment que les zhyens naissent quand un puissant génie désire un compagnon agréable et réfléchi, un peu comme les mages humains créent des homoncules.
+
+En réalité, les zhyens voient le jour de toutes ces façons. Quel que soit le moteur de sa création, le zhyen apparaît toujours complètement formé et cohérent et il ne lui faut que quelques minutes pour s’habituer à son environnement et en apprendre ce qu’il a besoin de savoir. S’il « naît » près d’une autre créature douée de conscience, le zhyen crée un lien affectif avec elle tant que son compagnon ne refuse pas de le traiter avec bienveillance ou ne s’en révèle pas incapable.
+
+N’ayant pas besoin de manger (bien qu’ils aiment le faire) et insensibles à la rudesse de l’environnement, les zhyens n’ont généralement pas de foyers permanents, préférant sillonner les frontières des royaumes élémentaires. Pourtant, ce sont des êtres curieux sans cesse en quête de distractions. Sur les plans, les zhyens satisfont leur curiosité en explorant les frontières où un domaine ou un élément se mêle à un autre. Leur curiosité les conduit souvent à se retrouver captifs d’êtres plus puissants.
+
+Les zhyens sont avant tout attirés par les endroits où des forces opposées se heurtent et fusionnent. Sur le Plan matériel, ils sont attirés par les littoraux et les chutes d’eau, par les hauts pics montagneux et, assez étrangement, par les bouilloires et les cocottes. La plupart des zhyens ne peuvent pas rester sur le Plan matériel sauf s’ils sont au service d’un puissant lanceur de sorts et préfèrent de loin ce type de servitude confortable à une situation d’esclave auprès d’un maître éfrit ou shaitan.
+
+Les zhyens n’ont ni prédateurs ni proies naturels. Bien qu’ils puissent être mâles ou femelles, ils sont en réalité asexués et ne se reproduisent pas. Ils ne vieillissent pas non plus.
+
+#### Habitat et société
+Comme les zhyens sont plus petits et moins puissants que les autres génies, ils sont presque dans l’incapacité de bâtir quelque société que ce soit dans les plans. La plupart d’entre eux finissent donc comme serviteurs auprès de génies plus puissants, employés comme messagers et favoris dans les cours des grandes races de génies. Les zhyens n’apprécient pas d’être traités de la sorte mais, étant donné leur faiblesse relative par rapport aux autres génies, ils sont incapables de changer leur statut.
+
+Il arrive parfois qu’un zhyen convoqué sur le Plan matériel soit ébloui par les diverses merveilles du monde des mortels et cherche à y revenir. Ces zhyens répondent aux convocations et aux invocations aussi souvent que possible et peuvent éventuellement chercher à rejoindre définitivement ce monde en tant que familiers d’un daivrat. Le fait d’être au service d’un daivrat permet au zhyen de satisfaire sa curiosité et son besoin d’exploration tout en profitant d’un maître en mesure de le protéger contre les génies plus puissants qui cherchent à exploiter les créatures plus faibles.
+
+Une fois convoqués sur le Plan matériel, les zhyens cherchent souvent un moyen de prolonger leur séjour au-delà du temps imposé par la magie les ayant amenés là. Ils découvrent parfois des objets magiques mineurs qui leur permettent de rester dans le monde des mortels et veillent souvent sur leurs mortels préférés et leurs descendants, leur apportant une aide mineure quand ils peuvent le faire sans être repérés.
+
+Les zhyens ne recherchent pas la compagnie de leurs pairs de même type élémentaire, même sur le Plan matériel, et ils trouvent que ceux des autres types sont des curiosités amusantes et d’étranges connaissances au mieux. Ils ont une affinité particulière avec les méphites, notamment avec ceux qui représentent des éléments mixtes.
+
+#### Les jocta
+Certains zhyens connaissent un malheureux destin et sont asservis par des génies cruels et maléfiques ou par des maîtres mortels qui les exploitent et s’en servent généralement de bouffons ou de cible pour des plaisanteries humiliantes. Avec le temps, cela pèse sur l’esprit du zhyen, le corrompant de l’intérieur jusqu’à ce que son corps subisse une transformation physique reflétant sa souffrance intérieure. Le zhyen se voit alors pousser des jambes à la place de sa moitié élémentaire, il devient complètement chauve et sa peau prend une couleur et un grain plus ternes, plus humains. La créature qui en résulte est un vilain petit génie appelé un jocta. La transformation libère le jocta des sorts de lien grâce auxquels il a été asservi en tant que zhyen. La plupart prennent la fuite aussitôt pour ne pas être liés de nouveau. La plupart des jocta sont Chaotiques Neutres ou Neutres Mauvais.
+
+Le jocta conserve toutes ses capacités de zhyen et peut passer de la taille TP à la taille P et vice et versa à volonté par une action libre (il s’agit d’une capacité surnaturelle). On peut convoquer les jocta comme les zhyens, voire même les lier comme familiers, mais ils sont sombres et peu coopératifs et adorent plus que tout retourner vers leur ancien « maître » pour lui dérober quelques objets de valeur, monétaire ou affective, avant de s’éclipser à nouveau.
+</div></td></tr></table>

@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Amplification brûlante
+Title: Amplification brûlante
+LastModified: 2024-07-23 17:41
+Categories:
+- Contenu supplémentaire
+- Don
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut dépenser un peu de l’énergie de ses sorts de feu pour permettre à ses flammes de rester suffisamment longtemps pour mettre le feu à ses adversaires.*
+
+**Avantage.** Lorsque le personnage lance un sort possédant le [registre](./Registre.md) feu, il peut choisir choisir de subir une pénalité de -1 au [jet d’attaque](./jet dattaque.md) du sort et réduire le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de 1 pour que les cibles ayant subit des dégâts de feu [prennent feu](./Dangers naturels.md#PRENDREFEU). Les cibles qui ont pris feu ne subissent pas de dégâts de brûlure avant leur prochain tour et chaque cible peut tenter un jet de [Réflexes](./Réflexes.md) pour éteindre le feu avant de subir des dégâts chaque [round](./round.md).
+
+Plutôt que le [DD](./DD.md) normal de 15 pour éteindre le feu, les cibles doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 10 + niveau du sort + le modificateur de la caractéristique d'incantation du personnage.
+
+Le personnage doit choisir d’utiliser ce don avant de lancer le [jet d’attaque](./jet dattaque.md) ou avant que ses cibles ne tentent leur [jet de sauvegarde](./JDS.md).
+
+Ce don n’a pas d’effet sur les sorts qui ne permettent pas un jet de sauvegarde ou qui ne nécessitent pas de jet d’attaque.
+
+(((Burning amplification
+
+You can expend some of the energy of your fire spells to make the flames linger long enough to cause your opponents to catch ablaze.
+
+Benefit: Whenever you cast a spell with the fire descriptor, you can take a –1 penalty on the spells’ attack rolls and reduce the spell’s saving throw DC by 1 to cause any target that is dealt fire damage to catch on fire (Pathfinder RPG Core Rulebook 444). The targets do not take burning damage for catching on fire until their next turn, and each target can attempt a Reflex saving throw to put out the fire before being damaged each round. Rather than the normal DC 15 Reflex saving throw to put the fire out, the target must succeed at a Reflex saving throw with a DC equal 10 + the spell’s level + the modifier of your spellcasting ability score. You must choose to use this feat before making an attack roll or before your targets attempt their saving throws. This feat has no effect on spells that neither allow a saving throw nor require an attack roll.)))

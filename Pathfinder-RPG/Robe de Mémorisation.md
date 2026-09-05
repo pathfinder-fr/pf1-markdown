@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Robe de Mémorisation
+Title: Robe de mémorisation
+LastModified: 2024-05-30 15:24
+---
+
+<div class="BD">
+{s:BDTitre|Robe de mémorisation|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 17 ; **Emplacement** [corps](./Objets merveilleux portés sur le corps.md) ; **Prix** 5.000 po ; **Poids** 0,5 kg
+(((Description)))
+Cette robe de soie bleue et légère est entièrement couverte de minuscules runes brodées. Si son porteur est un lanceur de sorts spontanés, il peut, une fois par jour, utiliser un emplacement de sort pour lancer un sort écrit (issu d’un parchemin ou d’un grimoire, par exemple) comme s’il le connaissait. Ce sort doit faire partie de sa liste de sorts. Il doit être d’un niveau égal ou inférieur à l’emplacement dépensé et du même type (profane ou divin). Le lanceur de sorts doit également comprendre le langage écrit (en tentant de le déchiffrer avec [Linguistique](./Linguistique.md) ou grâce à une *[lecture de la magie](./Lecture de la magie.md)*) et porter l’objet sur lui. Le personnage n’a pas besoin de faire d’action pour activer la robe mais l’incantation du sort s’effectue normalement, en prenant en compte le temps d’incantation, les focaliseurs ou les composantes nécessaires, etc. L’utilisation d’une robe de mémorisation ne détruit pas la source écrite du sort. Le porteur doit porter la *robe de mémorisation* pendant 24 heures consécutives avant de pouvoir activer cette capacité.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[mémorisation](./Mémorisation.md)*, le créateur doit être un lanceur de sorts spontanés  ; **Coût** 2.500 po
+</div>

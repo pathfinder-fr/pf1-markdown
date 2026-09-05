@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Griffe du tyran
+Title: Griffe du tyran
+LastModified: 2024-06-17 14:25
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Griffe du tyran|{s:CMy}}
+**Aura** [Abjuration](./Abjuration.md) et [Divination](./école divination.md) modérées ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 70 000 po ; **Poids** —
+(((Description)))
+Cette broche macabre s’accroche sur une cape. On raconte que le tyran qui murmure aurait offert ces broches à des sbires hautement privilégiés mais néanmoins indignes de confiance. Quand on la porte, la *griffe du tyran* accorde un bonus de parade de +3 à la [CA](./CA.md) et un bonus de résistance de +3 aux [jets de sauvegarde](./JDS.md). Par une [action libre](./Action libre.md), après avoir raté un jet de sauvegarde, le porteur peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour réduire de moitié les dégâts reçus suite au jet de sauvegarde raté, quels qu’ils soient.
+
+Quand une *griffe du tyran* est créée, elle est harmonisée à un diamant noir coordonné d’une valeur minimale de 1 000 po. Le créateur de la *griffe du tyran* peut dépenser deux utilisations de [pouvoir mythique](./pouvoir mythique.md) sur n’importe quelle distance pour utiliser *[scrutation](./scrutation.md)* (comme le sort) sur le porteur de la broche en observant à travers le diamant noir tandis que la broche fait office de capteur pour la scrutation.
+(((Création)))
+**Conditions** [Artisan mythique](./Artisan mythique.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[bouclier de la foi](./Bouclier de la foi.md)*, *[résistance](./sort Résistance.md)*, *[scrutation](./scrutation.md)* ; **Coût** 35 500 po
+</div>

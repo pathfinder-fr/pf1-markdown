@@ -1,0 +1,13 @@
+---
+Name: Golarion.Vigil
+Title: Vigil
+LastModified: 2010-05-02 16:35
+Categories:
+- Dernier-Rempart
+- Géographie
+- Ville
+---
+
+Capitale de [Dernier-Rempart](./Dernier-Rempart.md), Vigil a été fondée par les croisés pour surveiller l'ensemble des frontières du nord du pays.
+
+Elle abrite le château du Seigneur-Vigile Ulthun II ainsi que le Collège de Guerre des croisés qui a formé l'ensemble des officiers qui ont mené la croisade contre le Tyran qui murmure.

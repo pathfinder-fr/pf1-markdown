@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Corps dombre
+Title: Corps d'ombre
+LastModified: 2024-06-21 16:40
+Categories:
+- Sort
+- Sort magicien 7
+- Sort sorcière 7
+- Sort spirite 5
+- Src Aventures occultes
+---
+
+{s:AO}** École **[Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Sor](./Sorcière.md) 7, [Spi](./Spirite.md) 5  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** personnelle  
+
+**Cible** lanceur de sorts  
+
+**Durée** 1 minute/niveau (T)
+
+Le personnage échange la matière grossière de son corps physique contre l’essence immatérielle du plan de l’Ombre, devenant une ombre vivante. Sous une [lumière vive](./Exploration.md#VISIONLUMIERE) ou normale, il apparaît comme une ombre indépendante mais en cas de faible lumière ou d’obscurité, il gagne un [camouflage total](./camouflage total.md). Ce camouflage est seulement normal et non total contre les créatures dotées de vision dans le noir. Le corps d’ombre est intangible mais ne permet pas de voler ni de traverser des objets ou des créatures solides. En revanche, le personnage peut se déplacer à sa vitesse sur n’importe quelle surface, horizontale, verticale ou liquide, et le terrain difficile ne le ralentit pas. Sa taille ne change pas.
+
+Il peut parler, lancer des sorts et accomplir des actions mentales mais, comme il est dépourvu de substance physique, il ne peut pas manipuler d’objet ni porter d’attaque physique. Il peut livrer un sort ou un effet de contact comme s’il effectuait une attaque de contact intangible. L’équipement du personnage fusionne avec son corps d’ombre, il est donc dans l’incapacité de lancer des sorts à [composante matérielle](./composantes.md), à moins de les avoir préparés avec [Dispense de composantes matérielles](./Dispense de composantes matérielles.md).

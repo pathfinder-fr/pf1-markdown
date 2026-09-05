@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Hache darmes (arme)
+Title: Hache d'armes
+LastModified: 2021-10-01 15:53
+Categories:
+- Arme
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10 po ; **Poids** 3 kg ; **Groupes** [haches](./groupe darmes.md#Haches)
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** —
+<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+---
+Le manche de cette hache est suffisamment long pour que le personnage la manie à une main ou à deux mains. La tête peut se composer d’une lame ou de deux, leur forme allant de la demi-lune aux bords angulaires comme des versions plus étroites des haches de bûcheron. Le manche en bois peut être protégé et renforcé de bandes de métal que l’on appelle des fers.

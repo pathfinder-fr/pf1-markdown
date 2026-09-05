@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Mot de pouvoir aveuglant
+Title: Mot de pouvoir aveuglant
+LastModified: 2022-06-17 22:19
+Categories:
+- Règle officielle
+- Sort
+- Sort hypnotiseur 6
+- Sort magicien 7
+- Sort psychiste 7
+- Sort sorcière 7
+- Src Manuel des joueurs
+---
+
+**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V](./composantes.md)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Zone d'effet** 1 créature dotée de 200 [pv](./pv.md) ou moins  
+
+**Durée** voir description  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Le personnage prononce un mot qui [aveugle](./Aveuglé.md) une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [points de vie](./points de vie.md) actuel de la créature affectée. Une créature dotée de plus de 200 [points de vie](./points de vie.md) n’est pas affectée.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Points de vie || Durée
+|- CLASS="premier"
+| Jusqu’à 50 || [Permanente](./permanente.md)
+|- CLASS="alt"
+| 51–100 || 1d4+1 minutes
+|-
+| 101–200 || 1d4+1 [rounds](./round.md)
+|}
+</center>
+
+{c:sort} {c:sort magicien 7} {c:manuel des joueurs} {c:règles officielles}
+
+### Mythique
+{s:CMy}
+Considérez que le total actuel de points de vie de la cible est diminué d’un montant égal à 5 fois le [grade](./Grade.md) du personnage. Par exemple, un [archimage](./Archimage Mythique.md) de [grade](./Grade.md) 3 qui lance un mot de pouvoir aveuglant mythique considérera une créature avec 60 pv comme une créature avec 45 pv et le sort l’aveuglera donc de manière permanente.
+
+Le personnage peut cibler une créature dotée d’un montant de points de vie supérieur à la limite imposée par le sort. Elle agit alors comme si tous ses adversaires bénéficiaient d’un camouflage (20% de risques d’échec) pendant 1d4 rounds.
+
+**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), la magie du mot continue d’affaiblir la cible. Si le total actuel des points de vie de la cible baisse avant le début du prochain tour du personnage, assez pour changer de tranche dans le cadre des effets produit par ce sort, celui-ci affecte la créature en fonction de ce nouveau total de points de vie. Par exemple, une créature qui se trouve dans la tranche de 101-200 pv et bascule à 80 pv est immédiatement aveuglée pendant 1d4+1 minutes au lieu de 1d4+1 rounds. L’intensité des effets du sort ne diminue pas si la cible récupère des points de vie.

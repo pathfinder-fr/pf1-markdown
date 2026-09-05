@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Lentille de Galundari
+Title: Lentille de Galundari
+LastModified: 2024-06-18 17:49
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Lentille de Galundari|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) surpuissante ; **NLS** 22 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 5 kg
+(((Description)))
+À son niveau le plus bas, la *lentille de Galundari* fonctionne comme le point focal d’un sort de cercle magique tourné vers l’intérieur, du type choisi par le lanceur. Le rayon du cercle magique varie mais peut contenir un extérieur invoqué par un sort de *[contrat intermédiaire](./Contrat intermédiaire.md)*, quelle que soit sa taille. Si la lentille augmente l’efficacité du sort de *[contrat intermédiaire](./Contrat intermédiaire.md)*, elle ne permet pas de lancer le sort : il faut qu’un individu lance le sort en se servant de la lentille comme focalisateur supplémentaire.
+
+La cible du *[contrat intermédiaire](./Contrat intermédiaire.md)* a droit au jet de [Volonté](./Volonté.md) normal pour résister mais dès qu’elle apparaît dans le cercle magique de la lentille, elle ne peut plus s’échapper : la lentille empêche l’extérieur d’utiliser ses sorts de résistance ou son [Charisme](./Charisme.md) pour se libérer et l’emprisonne sur place comme le ferait un sort d’*[ancre dimensionnelle](./Ancre dimensionnelle.md)*. Une fois dans le cercle magique de la lentille, l’extérieur est piégé indéfiniment, jusqu’à ce qu’il accepte de répondre aux ordres de l’utilisateur ou qu’une créature douée de conscience ne touche sa prison avec l’intention de le libérer (auquel cas, l’extérieur est aussitôt libre). Même un 1 aux tests de [Charisme](./Charisme.md) pour contraindre l’extérieur à servir ne le libère pas.
+
+Si la lentille n’accorde pas de bonus à l’utilisateur sur ses tests de [Charisme](./Charisme.md) pour influencer les créatures piégées dans sa prison, elle lui offre une nouvelle manière de les utiliser : il peut les enfermer à l’intérieur de la lentille, ce qui transforme l’artefact en une sorte de machine magique. L’utilisateur doit alors forcer l’extérieur à accepter d’offrir ce service, comme indiqué pour le sort de *[contrat intermédiaire](./Contrat intermédiaire.md)*.
+
+L’extérieur reçoit un bonus de +10 à son test opposé de [Charisme](./Charisme.md) pour résister à la contrainte. Ce bonus est réduit de 1 pour chaque semaine que l’extérieur passe emprisonné (minimum de 0). La lentille ne peut contenir qu’un seul extérieur à la fois et ne peut pas utiliser son effet de cercle magique tant qu’un extérieur est piégé en son sein.
+
+Si un extérieur accepte de se lier à la lentille, il est emprisonné dans la lentille et ne peut pas s’en libérer de lui-même. Tant que le personnage porte la lentille, il peut utiliser n’importe lequel des pouvoirs magiques de l’extérieur. Il a accès à ces pouvoirs avec une fréquence limitée : autant de fois par jour que l’extérieur a de dés de vie, au même rythme que celui-ci avait le droit de les employer.
+
+Les dés de vie de l’extérieur deviennent une réserve de points d’âme à laquelle l’utilisateur a accès, chaque dé de vie équivalant à 1 point d’âme. Le porteur de la lentille peut utiliser les pouvoirs magiques de l’extérieur emprisonné en dépensant un nombre de points d’âme égal au niveau de sort du pouvoir. Si la lentille n’a plus suffisamment de points d’âme pour utiliser un pouvoir magique, le personnage n’y a pas accès. Si l’extérieur emprisonné ne peut utiliser un pouvoir magique qu’un certain nombre de fois sur une période donnée, le porteur ne peut pas l’utiliser plus souvent dans le même laps de temps, même si la lentille a suffisamment de points d’âme pour cela.
+
+La lentille régénère chaque jour son total de points d’âme. On peut libérer l’extérieur emprisonné dans la lentille en dépensant 1 point d’âme. L’extérieur relâché est épuisé mais il n’est pas contrôlé par le porteur de la lentille. Lorsqu’il est dans la lentille, l’extérieur peut également communiquer par télépathie avec une créature qui touche l’artefact mais il n’a aucun contrôle sur le porteur.
+
+<u>***Voir aussi l'[histoire et les implications de cet artefact](./../Golarion/Lentille de Galundari.md).***</u>
+(((Destruction)))
+La *lentille de Galundari* ne peut être détruite que si un dieu en est libéré. Si c’est théoriquement possible, on ne sait pas exactement si un dieu peut être emprisonné dans la lentille par des moyens ordinaires mais la libération d’un tel être serait si explosive qu’elle détruirait la lentille.
+</div>

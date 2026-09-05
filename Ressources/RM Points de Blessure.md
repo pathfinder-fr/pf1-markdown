@@ -1,0 +1,7 @@
+---
+Name: Ressources.RM Points de Blessure
+Title: Points de Blessure
+LastModified: 2011-02-28 23:03
+---
+
+voir par [là](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1906)

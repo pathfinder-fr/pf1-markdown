@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Broyeur de métal (lutteur)
+Title: Broyeur de métal
+LastModified: 2023-05-28 18:29
+Categories:
+- Archétype
+- Archétype lutteur
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypelutteur}{s:mca}*Le broyeur de métal étudie la destruction et la pratique tel un art. Il sait que chaque défense cache un point de rupture et peut briser ces défenses à l’aide de frappes minutieusement préparées.*
+
+#### Compétences de classe
+[Connaissances](./Connaissances.md) (ingénierie) est une compétence de classe pour le broyeur de métal mais [Connaissances](./Connaissances.md) (exploration souterraine) ne l’est plus.
+
+#### Exploitation des points faibles (Ext)
+Au niveau 5, un broyeur de métal peut, par une [action rapide](./Action rapide.md), observer une créature ou un objet pour trouver son point faible en réussissant un test de [Sagesse](./Sagesse.md), auquel il ajoute son niveau de lutteur, contre un [DD](./DD.md) égal à 10 + la solidité de l’objet ou le [FP](./FP.md) de la cible. En cas de réussite à ce test, le broyeur de métal gagne un bonus de +2 aux jets d’attaque jusqu’à la fin de son tour et toutes les attaques qu’il effectue jusqu’à la fin de son tour ignorent la [RD](./RD.md) de la créature ou la [solidité](./solidité.md) de l’objet observé.
+
+Un broyeur de métal peut, à la place, utiliser cette aptitude par une [action rapide](./Action rapide.md) pour analyser les mouvements et les expressions d’une créature située à 9 mètres (6 {s:c}) ou moins, ce qui lui confère un bonus aux tests de [Psychologie](./Psychologie.md) et aux jets de [Réflexes](./Réflexes.md), ainsi qu’un bonus d’esquive à la [CA](./CA.md) contre l’adversaire analysé. Ce bonus est égal à la moitié de son niveau de lutteur et il en bénéficie jusqu’au début de son prochain tour. Cette aptitude remplace frappe du lutteur.
+
+#### Entraînement à la destruction (Ext)
+Au niveau 3, un broyeur de métal bénéficie d’un entraînement supplémentaire aux manoeuvres offensives de destruction. Il gagne un bonus de +2 quand il effectue des tests de [manoeuvre offensive](./manoeuvre-offensive.md) de [destruction](./destruction.md) et un bonus de +2 à son [DMD](./DMD.md) quand il se défend contre cette manoeuvre.
+
+Au niveau 7, ces bonus augmentent de +1 et il gagne un bonus de +2 aux tests de manoeuvre offensive de [désarmement](./désarmement.md) et un bonus de +2 à son [DMD](./DMD.md) quand il se défend contre une manoeuvre de désarmement. Aux niveaux 11, 15 et 19, tous ces bonus augmentent de +1. Cette aptitude modifie entraînement aux manoeuvres offensives.

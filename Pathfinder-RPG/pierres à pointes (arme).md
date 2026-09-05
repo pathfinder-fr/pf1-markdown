@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.pierres à pointes (arme)
+Title: Pierres à pointes (10)
+LastModified: 2021-10-04 19:07
+Categories:
+- Arme
+- Src Manuel des races
+---
+
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 1 po ; **Poids** 2,5 kg
+<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+---
+Une fine couche d’argile cuite recouvre les pointes et les bords déchiquetés de cette balle spéciale. Un utilisateur formé sait comment fendre l’argile (par une [action libre](./Action libre.md)) afin qu’elle s’écaille au niveau des pointes ou des bords lorsqu’il tire, infligeant des dégâts perforants ou tranchants.

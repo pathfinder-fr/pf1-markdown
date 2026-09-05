@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Camisole de force (objet)
+Title: Camisole de force
+LastModified: 2021-09-22 14:45
+Categories:
+- Équipement
+- Src Aventures occultes
+---
+
+{s:AO}**Prix** 5 po (standard), 50 po (de maître) ; **Poids** 0,5 kg (standard), 0,5 kg (de maître)<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Fabriqué dans du tissu résistant sur lequel sont cousues des lanières de cuir, cet outil de contention empêche complètement celui qui le porte de bouger les bras. Entraver convenablement une créature avec une camisole de force prend une minute. Cette créature doit être consentante ou sans défense. Le temps nécessaire pour poser la camisole peut être réduit à cinq [rounds](./round.md) mais, dans ce cas, le [DD](./DD.md) pour s’en débarrasser diminue lui aussi de 5. Une créature qui porte une camisole de force est affublée de l’état préjudiciable [agrippé](./Agrippé.md), mais elle peut tout de même se déplacer. Elle doit réussir un test d’[Évasion](./Évasion.md) DD 28 (DD 30 dans le cas d’une camisole de qualité supérieure) si elle souhaite s’en débarrasser.

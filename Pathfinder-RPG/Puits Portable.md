@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Puits Portable
+Title: Puits portable
+LastModified: 2024-06-15 23:43
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Puits portable|{s:AE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 20 000 po ; **Poids** —
+(((Description)))
+Ce cercle de tissu est tissé à l’aide de toile d’araignée de phase mêlée de fils d’éther et de rayons de lumière stellaire, créant un espace extradimensionnel portable. Une fois déployé, il fait 1,80 mètre de diamètre, mais on peut le replier sur lui-même, auquel cas il ne prend pas plus de place qu’un mouchoir de poche. Étalé à plat, il s’ouvre sur un espace extradimensionnel de trois mètres de profondeur. Ce trou peut être refermé du dedans ou du dehors, en repliant les bords du tissu. Quelle que soit la méthode choisie, l’entrée disparaît, mais tout ce qui se trouve à l’intérieur du puits continue d’exister, voyageant avec le *puits portable*. Dans le puits, il n’y a pas d’air en dehors de celui qui entre quand il est ouvert. Ce volume d’oxygène permet à une créature de taille M ou à deux de taille P de respirer pendant dix minutes. Le poids du cercle de tissu ne change pas, même si le puits est rempli. Chaque *puits portable* s’ouvre sur un espace extradimensionnel différent. Si un [sac sans fond](./Sac sans fond.md) est placé dans un puits portable, cela produit une déchirure dans le Plan astral. Les deux objets sont aspirés dans le vide et perdus à jamais. Si un *puits portable* replié est rangé dans un [sac sans fond](./Sac sans fond.md), l’interaction entre les deux objets ouvre un *[portail](./Portail.md)* à destination du Plan astral. Le puits, le sac et tout ce qui se trouve à trois mètres à la ronde sont aspirés par la faille ainsi créée et expédiés dans le plan Astral (le puits et le sac sont irrémédiablement détruits lors de l’opération).
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[changement de plan](./Changement de plan.md)* ; **Coût** 10 000 po
+</div>

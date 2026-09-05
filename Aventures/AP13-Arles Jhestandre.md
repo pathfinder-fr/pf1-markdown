@@ -1,0 +1,60 @@
+---
+Name: Aventures.AP13-Arles Jhestandre
+Title: Arles Jhestandre
+LastModified: 2021-07-28 01:03
+Categories:
+- Campagne
+- PNJ
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Arles Jhestandre|FP 4}
+{s:BDTexte|*Source : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.82*}
+{s:BDTexte|**PX**1 200}
+{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) [paladin](./../Pathfinder-RPG/Paladin.md) ([déchu](./../Pathfinder-RPG/Paladin.md#ANCIENPALADIN))de Iomédae 4}
+{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, NB}
+{s:BDTexte|**Init** +0 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +1}
+{s:BDTexte|**Aura** ~~Bien (modérée)~~ (déchu)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 21, contact 9, pris au dépourvu 21(+9 armure, +2 bouclier) }
+{s:BDTexte|**pv** 40 (4d10+12) }
+{s:BDTexte|**Réf** +2, **Vig** +7, **Vol** +6}
+{s:BDTexte|**Capacités défensives** ~~grâce divine +2~~ (déchu) }
+{s:BDTexte|**Immunités** ~~maladies~~, ~~terreur~~ (déchu)}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m}
+{s:BDTexte|**Corps à corps** épée longue de maître en fer froid, +8 (1d8+3/19-20)}
+{s:BDTexte|**A distance**  arc long composite de maître, +5 (1d8+3/x3)}
+{s:BDSousTitre|Magie}
+{s:BDTexte|**Attaque spéciale** ~~canalisation de l’énergie positive (DD15, 2d6)~~ (déchu)}
+{s:BDTexte|**Pouvoirs magiques de Paladin**  (NLS 4 ; concentration +7)}
+{s:BDSorts|~~À volonté — [détection du Mal](./../Pathfinder-RPG/Détection du Mal.md)~~ (déchu)}
+{s:BDSorts|~~2/j — [châtiment du mal](./../Pathfinder-RPG/châtiment du Mal.md) (+3 à l’attaque et à la CA, +4 aux dégâts)~~ (déchu) }
+{s:BDSorts|~~7/j — [[++Pathfinder-RPG.paladin#IMPOSITIONDESMAINS]|imposition des mains]] (2d6), grâce (fiévreux)~~ (déchu)}
+{s:BDTexte|**Sorts de paladin préparés**  (NLS 1 ; concentration +4) }
+{s:BDSorts|1<sup>er</sup> — ~~[restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)~~ (déchu)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 16, **Dex** 10, **Con** 14, **Int** 10, **Sag** 13, **Cha** 16 }
+{s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 17}
+{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue) , [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Imposition des mains supplémentaire](./../Pathfinder-RPG/Imposition des mains supplémentaire.md)}
+{s:BDTexte|**Compétences**  Connaissance (religion) +7, Diplomatie +10, Psychologie +8, Survie +2}
+{s:BDTexte|**Pénalité d’armure** –6}
+{s:BDTexte|**Langues** commun, Mendevien}
+{s:BDTexte|**Particularités** code de conduite }
+{s:BDTexte|**Tactiques** battre en retraite, spécialiste de l'encerclement, standard }
+{s:BDSousTitre|Équipement}
+{s:BDTexte|baguette de soins légers (15 charges)}
+{s:BDTexte|eau bénite}
+{s:BDTexte|harnois de maître}
+{s:BDTexte|écu en bois}
+{s:BDTexte|épée longue de maître en fer froid}
+{s:BDTexte|arc long composite (For +4) de maître et 20 flèches de fer froid}
+{s:BDTexte|bâton éclairant (2), sac à dos, symbole sacré en argent, ration de survie (4)}
+{s:BDTexte|cheval léger (entraîné au combat) avec selle de guerre}
+{s:BDTexte|44 po}
+</div>
+</td><td><div>
+Arles est un vétéran qui a participé à plusieurs conflits et chacun d'eux s'est plutôt mal terminé. Ses convictions religieuses ont été ébranlées, et même s'il dissimule cela à ses frères d'armes, les [Chevalier de Kénabres](./AP13-Chevalier de Kénabres.md), il ne peut les cacher à Iomédae.
+Il prétend que leur mission est sans espoir et prédit une mort atroce pour tous ceux qui y participent.
+</div></td></tr></table>

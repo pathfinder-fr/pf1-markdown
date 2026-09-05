@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Changement de focalisation efficace
+Title: Changement de focalisation efficace
+LastModified: 2017-11-28 17:58
+---
+
+{s:AO}*Le personnage est plus doué que les autres quand il s’agit de faire passer sa focalisation mentale d’un instrument à l’autre.*
+
+**Conditions.** [Occultiste](./Occultiste.md) de niveau 7.
+
+**Avantage.** Deux fois par jour, quand le personnage fait passer sa [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) d’un instrument à l’autre, il peut ajouter autant de points au nouvel instrument qu’il en a retirés à l’ancien.
+
+**Normal.** Quand le personnage enlève des points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) à un instrument, il peut ajouter le même montant –1 à un autre.
+
+**Spécial.** Le personnage peut choisir ce don à plusieurs reprises, ses effets se cumulent.

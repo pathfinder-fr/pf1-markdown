@@ -1,0 +1,155 @@
+---
+Name: Pathfinder2.FVTT boutons jets
+Title: Boutons inline pour les jets de dés sur Foundry VTT
+LastModified: 2023-05-25 13:57
+---
+
+• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+
+• Autres types de boutons inline : [Boutons de jets de dés](./FVTT boutons jets.md) - [Boutons de tests](./FVTT boutons tests.md) - [Boutons de gabarit](./FVTT boutons gabarit.md)
+
+<nowiki><style>
+1. content #PageContentDiv code {
+background-color: #e7dfc6;padding: 2px 5px 4px 5px;border-radius:6px;font-family:Consolas;font-weight: bold;
+}
+1. content #PageContentDiv .example {
+margin-left: auto; margin-right: auto; width: 98%;margin-top: 4px;
+}
+1. content #PageContentDiv .example tr {
+background-color: #f3efe2;
+}
+1. content #PageContentDiv .example td {
+padding: 8px;
+border: 2px solid #e7dfc6;
+text-align: left;
+}
+1. content #PageContentDiv .example tr td:nth-of-type(2) {
+width: 280px;
+text-align: center;
+}
+1. content #PageContentDiv .example tr td:nth-of-type(2) img {
+width: 280px;
+}
+</style></nowiki>
+<nav class="wiki-toc"></nav>
+
+### Syntaxe de base
+Le format général pour insérer un bouton de jet de dés est `[/r 1d6+3](.//r-1d6+3.md)`.
+
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r 1d6+3](.//r-1d6+3.md)`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd1b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd1.webp"/>
+</td></tr>
+</table>
+
+### Libellé
+Par défaut, le texte affiché correspond à la formule du lancer de dé. On peut toutefois remplacer celui par un autre libellé en ajoutant celui-ci entre accolades après les doubles-crochets. Ce texte est également utilisé comme titre du jet de dé dans le chat.
+
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r 1d6+3](.//r-1d6+3.md){durée de l'effet}`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd2b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd2.webp"/>
+</td></tr>
+</table>
+
+### Lancers cachés
+Par défaut, le lancer de dé est visible de tous. Pour forcer un jet secret, il suffit de remplacer `/r` par `/br` (pour blind roll).
+
+<table class="example">
+<tr>
+<td>**Code**  
+`[/br 1d6+3](.//br-1d6+3.md)`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd3b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd3.webp"/>
+</td></tr>
+</table>
+
+### Dégâts typés
+Si le jet de dés correspond à des dégâts, on peut indiquer leur type en ajoutant celui-ci (en anglais) entre crochets juste après la formule. Si le type s'applique à une formule plus complexe (avec un modificateur fixe ou combinant plusieurs types de dés), il faut encadrer cette formule dans des parenthèses. Il est également possible de combiner plusieurs types différents dans un même jet de dés en séparant les parties par des virgules.
+
+Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison`, `bludgeoning`, `slashing`, `piercing`, `poison`, `precision`.
+
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r 1d12[acid](.//r-1d12[acid.md)]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd4b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd4.webp"/>
+</td></tr>
+</table>
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r (1d8+4)[fire](.//r-(1d8+4)[fire.md)]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd5b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd5.webp"/>
+</td></tr>
+</table>
+<table class="example">
+<tr>
+<td>**Code**  
+`[[/r 1d6[slashing],2d4[cold],7[precision]]]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6.webp"/>
+</td></tr>
+</table>
+
+### Dégâts persistants
+On peut préciser que le jet correspond à des dégâts persistants avec le type `bleed` pour des saignements ou le qualificatif `persistent` dans les autres cas. Quand le résultat d'un tel lancer est appliqué à une créature, celle-ci ne subit aucun dégât immédiatement mais l'effet correspondant aux dégâts persistants lui est appliqué. Il est également possible de combiner dégâts immédiats et dégâts persistants.
+
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r 2d6[bleed](.//r-2d6[bleed.md)]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd7b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd7.webp"/>
+</td></tr>
+</table>
+<table class="example">
+<tr>
+<td>**Code**  
+`[/r 3d4[electricity,persistent](.//r-3d4[electricity,persistent.md)]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd8b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd8.webp"/>
+</td></tr>
+</table>
+<table class="example">
+<tr>
+<td>**Code**  
+`[[/r (1d8+2)[fire],1d4[fire,persistent]]]`</td>
+<td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd9b.webp"/></td>
+</tr>
+<tr><td>
+**Affichage**  
+<img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd9.webp"/>
+</td></tr>
+</table>

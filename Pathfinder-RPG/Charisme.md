@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Charisme
+Title: Le Charisme
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Caractéristiques#CHARISME

@@ -1,0 +1,178 @@
+---
+Name: Pathfinder-RPG.Moyens de transport
+Title: Moyens de transport
+LastModified: 2023-11-09 22:18
+Categories:
+- Règle officielle
+- Src Armes et équipement
+- Src Manuel des joueurs
+---
+
+{s:MenuEquipement}On peut acheter un véhicule ou acheter le droit de monter à bord. Les véhicules qui suivent comprennent à la fois les véhicules communs et les véhicules exotiques que l’on peut acheter ou louer. La table présente les véhicules par catégories (Transports terrestres et Transports maritimes) et indique leur coût à l’achat ou pour une utilisation.
+
+<table width="100%"><tr><td width="50%" style="padding-right:10px">
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
+|+ Moyens de transport terrestres
+|- CLASS="titre"
+| Objet || Prix || Passage (1,5 km)
+|- CLASS="premier"
+| [↓](./Moyens de transport.md#Char) [Char (intermédiaire)](./Char (objet).md) || 75 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Char) [Char (léger)](./Char (objet).md) || 50 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Char) [Char (lourd)](./Char (objet).md) || 100 po || 3 cp
+|-
+| [↓](./Moyens de transport.md#Chariot) [Chariot (intermédiaire)](./Chariot (objet).md) || 100 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Chariot) [Chariot (léger)](./Chariot (objet).md) || 50 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Chariot) [Chariot (lourd)](./Chariot (objet).md) || 200 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Charrette) [Charrette](./Charrette (objet).md) || 15 po || 1 cp
+|-
+| [↓](./Moyens de transport.md#Diligence) [Diligence](./Diligence (objet).md) || 100 po || 3 cp
+|-
+| [↓](./Moyens de transport.md#Traîneau) [Traîneau](./Traîneau (objet).md) || 100 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Traîneau à chiens) [Traîneau à chiens](./Traîneau à chiens (objet).md) || 20 po || 3 cp
+|}
+</td><td width="50%" style="vertical-align:top; border-left:solid 1px #002564; padding-left:10px">
+{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
+|+ Moyens de transport maritimes
+|- CLASS="titre"
+| Objet || Prix || Passage (1,5 km)
+|- CLASS="premier"
+| [↓](./Moyens de transport.md#Bateau à voiles) [Bateau à voiles](./Bateau à voiles (objet).md) || 10.000 po || 2 pa
+|-
+| [↓](./Moyens de transport.md#Bateau de guerre) [Bateau de guerre](./Bateau de guerre (objet).md) || 25.000 po || 2 pa
+|-
+| [↓](./Moyens de transport.md#Canot) [Canot](./Canot (objet).md) || 500 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Chaloupe) [Chaloupe](./Chaloupe (objet).md) || 50 po || 2 cp
+|-
+| [↓](./Moyens de transport.md#Drakkar) [Drakkar](./Drakkar (objet).md) || 10.000 po || 5 cp
+|-
+| [↓](./Moyens de transport.md#Galère) [Galère](./Galère (objet).md) || 30.000 po || 1 pa
+|-
+| [↓](./Moyens de transport.md#Jonque) [Jonque](./Jonque (objet).md) || 15.000 po || 1 pa
+|-
+| [↓](./Moyens de transport.md#Quillard) [Quillard](./Quillard (objet).md) || 3.000 po || 1 pa
+|-
+| [↓](./Moyens de transport.md#Radeau) [Radeau](./Radeau (objet).md) || — || 1 cp
+|}
+</td></tr></table>
+
+### Description des moyens de transport terrestres
+{s:AE}{s:Reference|Char}
+#### Char
+**Prix** 50 po (léger), 75 po (intermédiaire), 100 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 3 cp (lourd)
+---
+Ce véhicule à deux roues est tiré par un cheval. Il existe trois types de chars.  
+  
+*Chars légers.* Ces chars sont souvent utilisés pour les courses ou comme plateforme pour un archer chargeant sur un champ de bataille à grande vitesse.  
+*Chars intermédiaires.* Ces chars sont utilisés en combat pour briser les formations d’infanterie ou comme plateformes de combat très rapides.  
+*Chars lourds.* Ce type de chars est généralement utilisé comme plateforme de combat ou pour transporter rapidement du matériel sur le champ de bataille.
+
+
+{s:AE}{s:Reference|Chariot}
+#### Chariot
+**Prix** 50 po (léger), 100 po (intermédiaire), 200 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 2 cp (lourd)
+---
+Ce véhicule ouvert à quatre roues sert à transporter des chargements lourds. Il est livré avec un harnais permettant de le tracter. Il existe trois types courants de chariots.  
+  
+*Chariot léger.* Les chariots de ce type sont surtout utilisés par les fermiers et les artisans qui transportent leurs marchandises sur de courtes distances ou par les marchands à l’intérieur ou à proximité des villes.  
+*Chariot intermédiaire.* Les chariots de ce type sont généralement utilisés pour les travaux lourds, souvent en agriculture, dans l’exploitation minière ou sur les chantiers de construction. Un chariot intermédiaire peut accueillir jusqu’à 1 tonne de chargement et doit être tiré par quatre créatures de taille M ou deux créatures de taille G.  
+*Chariot lourd.* Les chariots de ce type sont de gros véhicules à quatre roues surtout utilisés comme caravanes pour le transport de marchandises sur de longues distances. Un chariot lourd peut accueillir jusqu’à 2 tonnes de chargement et doit être tiré par huit créatures de taille M ou quatre créatures de taille G.
+
+
+{s:AE}{s:Reference|Charrette}
+#### Charrette
+**Prix** 15 po ; **Passage (1,5 km)** 1 cp
+---
+Ce véhicule à deux roues est tiré par un cheval ou un autre animal de bât et sert souvent à transporter des marchandises sur de courtes distances. Elle est livrée avec un harnais.
+
+
+{s:AE}{s:Reference|Diligence}
+#### Diligence
+**Prix** 100 po ; **Passage (1,5 km)** 3 cp
+---
+{s:Desambi|Cet objet était nommé "Cariole" dans le <u>Manuel des joueurs</u>.}Ce véhicule à quatre roues peut accueillir jusqu’à quatre personnes dans la cabine et deux conducteurs en dehors. En général, il est tiré par deux chevaux (ou d’autres bêtes de somme). La diligence est livrée avec un harnais permettant de la tracter.
+
+
+{s:AE}{s:Reference|Traîneau}
+#### Traîneau
+**Prix** 100 po ; **Passage (1,5 km)** 2 cp
+---
+Ce chariot est généralement pourvu de patins, ce qui en fait un moyen de transport idéal sur la glace et la neige. En général, il faut deux [chevaux](./Cheval (objet).md) (ou d’autres bêtes de somme) pour le tirer. Le traîneau est livré avec un harnais permettant de le tracter.
+
+
+{s:AE}{s:Reference|Traîneau à chiens}
+#### Traîneau à chiens
+**Prix** 20 po ; **Passage (1,5 km)** 3 cp
+---
+Ce traîneau est conçu pour être tracté sur la neige et la glace par un groupe de chiens d’attelage dressés. La plupart des traîneaux sont équipés de patins à l’arrière pour accueillir un meneur de chiens. Le traîneau peut supporter une capacité égale à la somme de celles que tous les chiens peuvent tracter.
+
+
+
+### Description des moyens de transport maritimes
+{s:AE}{s:Reference|Bateau à voiles}
+#### Bateau à voiles
+**Prix** 10.000 po ; **Passage (1,5 km)** 2 pa
+---
+{s:Desambi|Cet objet était nommé "Navire de haute mer" dans le <u>Manuel des joueurs</u>.}Ce grand navire adapté à la haute mer mesure de 22,50 à 27 mètres de long, 6 mètres de large et accueille un équipage de 20 personnes. Il peut transporter 150 tonnes de marchandises. Il est pourvu de deux mâts à voiles carrées et peut effectuer des voyages en mer. Il se déplace à environ 3,2 km/h.
+
+
+{s:AE}{s:Reference|Bateau de guerre}
+#### Bateau de guerre
+**Prix** 25.000 po ; **Passage (1,5 km)** 2 pa
+---
+{s:Desambi|Cet objet était nommé "Vaisseau de guerre" dans le <u>Manuel des joueurs</u>.}Ce navire de 30 mètres de long n’a qu’un seul mât mais on peut utiliser des rames pour le propulser. Il accueille un équipage de 60 à 80 rameurs. Ce navire peut transporter 160 soldats mais pas sur de longues distances puisqu’il n’y a pas de place pour stocker des vivres pour autant de monde. Le bateau de guerre ne peut pas voyager en haute mer et doit rester près des côtes. Il n’accueille pas de cargaisons. Il se déplace à une vitesse d’environ 4 km/h avec les rames ou la voile.
+
+
+{s:AE}{s:Reference|Canot}
+#### Canot
+**Prix** 500 po ; **Passage (1,5 km)** 2 cp
+---
+Les canots équipent généralement le pont des grands navires. Ils permettent de transporter les passagers et les marchandises.
+
+
+{s:AE}{s:Reference|Chaloupe}
+#### Chaloupe
+**Prix** 50 po ; **Passage (1,5 km)** 2 cp
+---
+{s:Desambi|Cet objet était nommé "Barque" dans le <u>Manuel des joueurs</u>.}Ce bateau de 2,50 à 6 mètres de long avec deux rames accueille deux ou trois passagers de taille M. On peut le transporter sur le pont d’un navire plus grand ou l’amarrer à un quai. La chaloupe se déplace à une vitesse d’environ 2,5 km/h.
+
+
+{s:AE}{s:Reference|Drakkar}
+#### Drakkar
+**Prix** 10.000 po ; **Passage (1,5 km)** 5 cp
+---
+Ce navire de 22,50 mètres de long avec 40 rames nécessite un équipage total de 50 personnes. Il n’a qu’un seul mât à voile carrée et peut accueillir jusqu’à 500 tonnes de marchandises ou 120 soldats. Le drakkar peut voyager en mer. Il se déplace à une vitesse d’environ 4,8 km/h avec les rames ou la voile.
+
+
+{s:AE}{s:Reference|Galère}
+#### Galère
+**Prix** 30.000 po ; **Passage (1,5 km)** 1 pa
+---
+{s:Desambi|Cet objet était nommé "Trirème" dans le <u>Manuel des joueurs</u>.}Ce trois-mâts accueille 70 rames de chaque côté et nécessite un équipage total de 200 personnes. La galère mesure 39 mètres de long et 6 mètres de large et peut accueillir 150 tonnes de chargement ou 250 soldats. Pour 8 000 po de plus, elle peut être équipée d’un bélier et de plateformes de combat à l’avant, à l’arrière et au milieu du navire. Elle ne peut pas voyager en haute mer et reste près des côtes. Elle se déplace à une vitesse d’environ 6 km/h avec les rames ou les voiles.
+
+
+{s:AE}{s:Reference|Jonque}
+#### Jonque
+**Prix** 15.000 po ; **Passage (1,5 km)** 1 pa
+---
+Ce navire à fond plat est équipé de deux ou trois mâts avec des voiles de jonques, ce qui permet à un petit équipage de le manoeuvrer facilement. La jonque a un haut pont de dunette et n’a pas de quille.
+
+
+{s:AE}{s:Reference|Quillard}
+#### Quillard
+**Prix** 3.000 po ; **Passage (1,5 km)** 1 pa
+---
+{s:Desambi|Cet objet était nommé "Bateau à fond plat" dans le <u>Manuel des joueurs</u>.}Il s’agit d’un navire mesurant de 15 à 22,50 mètres de long et de 4,50 à 6 mètres de large. Une dizaine de rames viennent en renfort de son mât unique à voile carrée. Il faut un équipage de 8 à 15 personnes pour le manœuvrer et il peut transporter de 40 à 50 tonnes de marchandises ou 100 soldats. Il peut voyager en mer aussi bien que sur les fleuves (grâce à son fond plat). Il se déplace à une vitesse d’environ 1,5 km/h.
+
+
+{s:AE}{s:Reference|Radeau}
+#### Radeau
+**Prix** — ; **Passage (1,5 km)** 1 cp
+---
+Transport maritime le plus simple et primitif, le radeau est un simple bateau plat sans coque, souvent fait de rondins de bois attachés entre eux. On le propulse généralement au moyen de deux ou quatre rames.

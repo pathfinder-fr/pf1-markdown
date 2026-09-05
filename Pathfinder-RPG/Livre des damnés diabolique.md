@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Livre des damnés diabolique
+Title: Livre des damnés diabolique
+LastModified: 2024-06-18 17:50
+Categories:
+- Objet mag
+- Objet mag artefact
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+<div class="BD">
+{s:BDTitre|Livre des damnés diabolique|{s:BotD}}
+**Aura** Surpuissante, toutes les écoles <nowiki>[</nowiki>[Loi, Mal](./Registre.md)<nowiki>]</nowiki> ; **NLS** 25 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 6 kg
+(((Description)))
+{s:cs}Ce feuillet relié de chair contient des pages du *[Livre des damnés](./../Golarion/Livre des damnés.md)* liées à l'Enfer et à ses habitants infernaux. Ses plus de feuilles de parchemin sèches et jaunies sont couvertes de symboles et de diagrammes impies, d’explications de rites répugnants, de descriptions de l'Enfer et de ses tourments, de vitupérations d’innombrables divinités, de prières aux archidiables, d’enquêtes sur la vie diabolique, d’hérésies et d’apocryphes vulgaires pour chaque divinité et d’une magie maléfique supposée avoir disparu du monde il y a longtemps.
+
+Une créature d'alignement Bon qui touche ce chapitre du *Livre des damnés* acquiert un [niveau négatif](./niveau négatif.md), qui ne peut être retiré jusqu’à ce qu’elle passe au moins 24 heures à plus de 3 mètres de l’ouvrage. Une créature non-Loyal Mauvaise qui tente de le lire doit réussir un jet de [Volonté](./Volonté.md) DD 15 pour éviter que son alignement ne soit modifié d’un cran vers Loyal Mauvais.
+
+Ceux qui osent lire cette partie du *Livre des damnés* se rendent compte qu’il contient une profusion de connaissances impies. Tout personnage qui peut lire l’infernal et passe un total de 30 jours (pas nécessairement consécutifs) à étudier le livre découvre de nombreuses révélations infâmes et gagne un certain nombre d’avantages. Les lecteurs se rendent compte que l’ouvrage contient des exemplaires de chaque sort du registre du [Mal](./Registre.md) ainsi que *[création de drogue](./Création de drogue.md)* et *[sacrifice](./Sacrifice.md)*. Une partie importante de ce volume contient des listes des vrais noms de fiélons cachés dans des métaphores et des codes complexes, permettant à quelqu'un qui n'a accès qu'à cette partie du *Livre des damnés* d'accomplir le rituel de [manifestation évidente](./Exemples de rituels occultes.md#MANIFESTATIONEVIDENTE), mais avec un malus de -4 aux tests de compétences impliqués en raison de la nature incomplète de ces listes. Les descriptions de l'Enfer que l’on peut y trouver sont si précises que les tentatives de téléportations magiques (comme *[changement de plan](./Changement de plan.md)* ou *[téléportation](./téléportation.md)*) vers ou depuis ce plan mènent toujours le lanceur à l’endroit voulu (sans risquer un incident).
+
+En dehors de son contenu littéral, cette partie du *Livre des damnés* est elle-même un puissant objet magique impie. À son niveau le plus basique, cet ouvrage est le centre d’un effet permanent de *[sanctification maléfique](./Sanctification maléfique.md)* permanent et d’*[attirance](./Attirance.md)* harmonisé de façon à attirer toutes les créatures Loyales Mauvaises. De plus, tout diable supérieur utilisant *[scrutation](./scrutation.md)* ou un sort similaire peut examiner le *Livre des damnés* sans risquer d’être détecté par le porteur.
+
+Une personne en possession de ces pages gagne également un certain nombre d'avantages. Tant qu’il porte le livre, le possesseur lance tous les sorts du registre du [Mal](./Registre.md) comme si son [niveau de lanceur de sorts](./NLS.md) était supérieur de deux niveaux et il reçoit un bonus de +2 aux tests de compétences basées sur le [Charisme](./Charisme.md) effectués pour interagir avec des extérieurs Loyal Mauvais (ces bonus sont considérés comme des bonus de malfaisance et ne se cumulent pas avec des bonus similaires accordés par d'autres partie du Livre des damnés). Trois fois par jour, il peut utiliser le livre pour lancer l’un des sorts suivants : *[contrat suprême](./Contrat suprême.md)*, *[convocation de monstres VII](./Convocation de monstres VII.md)*, *[décret](./Décret.md)*, *[portail](./Portail.md)* (pour invoquer une gueule des Enfers uniquement), *[profanation](./Profanation.md)*, *[rayon de feu infernal](./Rayon de feu infernal.md)* et *[ténèbres maudites](./Ténèbres maudites.md)*. Une fois par jour, le porteur peut poser au livre une question relative aux Enfers, aux créatures Loyales Mauvaise ou à tout autre sujet impie puis ouvrir le livre au hasard pour trouver la réponse, qui lui est révélée comme s’il avait lancé *[vision mystique](./Vision mystique.md)*.
+
+À chaque fois que le porteur utilise l'un des sorts quotidiens de l’artefact ou le pouvoir de *vision mystique*, il y a un risque cumulatif de 1% qu’un puissant diable le remarque et cherche à le manipuler pour l'utiliser dans ses objectifs impies ou réclame simplement son âme aux Enfers.
+(((Destruction)))
+La partie diabolique du *Livre des Damnés* peut être détruite en frottant chaque page avec de l'eau récoltée dans le Maelström avant de donner les pages trempées à manger à un protéen (qui est généralement détruit dans le processus de consommation du puissant artefact Loyal). À moins que les trois autres parties du *Livre des damnés* ne soient également détruites dans les 24 heures, cette partie réapparaît indemne à un endroit aléatoire et obscur du multivers.
+</div>

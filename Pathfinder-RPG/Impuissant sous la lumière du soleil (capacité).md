@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.Impuissant sous la lumière du soleil (capacité)
+Title: Impuissant sous la lumière du soleil (Ext)
+LastModified: 2021-07-22 19:46
+Categories:
+- Règle de monstres universelle
+---
+
+Si la créature est exposée à la lumière du soleil (un sort de *[lumière du jour](./Lumière du jour.md)* ou équivalent ne suffit pas), elle ne peut pas attaquer et elle est [chancelante](./Chancelant.md).
+
+*Format :* impuissant sous la lumière du soleil.* Emplacement :* Faiblesses.

@@ -1,0 +1,55 @@
+---
+Name: Aventures.Déradnu
+Title: Déradnu
+LastModified: 2021-09-26 19:37
+Categories:
+- PNJ
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Déradnu|FP 5}
+{s:BDTexte|*Source : [Aides de jeu AP13#HERITAGEPIERREDEGARDE|La Colère des Justes], p.62 ; [Minotaure](./../Pathfinder-RPG/Minotaure.md) et [archetype fiélon](./../Pathfinder-RPG/Archétypes.md#CREATUREFIELON)*}
+{s:BDTexte|**PX** 1 600}
+{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille G, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [++Pathfinder-RPG.vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m ; [++Pathfinder-RPG.Perception](./../Pathfinder-RPG/Perception.md) +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 9, pris au dépourvu 14 (naturelle +5, taille -1)}
+{s:BDTexte|**pv** 45 (6d10+12)}
+{s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +5}
+{s:BDTexte|**Capacités défensives** instinct}
+{s:BDTexte|**résistances** feu 10, froid 10}
+{s:BDTexte|**RM** 10}
+{s:BDTexte|**RD** 5/bien}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m}
+{s:BDTexte|**Corps à corps** grande hache +9/+4 (3d6+6/x3) et corne +4 (1d6+2)}
+{s:BDTexte|**Espace** 3 m ; **Allonge** 3 m }
+{s:BDTexte|**Attaques spéciales** [charge puissante](./../Pathfinder-RPG/Charge puissante.md) (corne +11, 2d6+6)}
+{s:BDTexte|**Attaques spéciales** *châtiment du Bien* (1/jour) par une [action rapide](./../Pathfinder-RPG/Action rapide.md) (ajouter un bonus de +5 aux [dégâts](./../Pathfinder-RPG/jet de dégâts.md) contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose).}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 19, **Dex** 10, **Con** 15, **Int** 7, **Sag** 10, **Cha** 8}
+{s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 21}
+{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Science de la bousculade](./../Pathfinder-RPG/Science de la bousculade.md), [Vigueur surhumaine](./../Pathfinder-RPG/Vigueur surhumaine.md)}
+{s:BDTexte|**Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +2, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +5, [Perception](./../Pathfinder-RPG/Perception.md) +10, [Survie](./../Pathfinder-RPG/Survie.md) +10}
+{s:BDTexte|**Modificateurs raciaux** +4 en [Perception](./../Pathfinder-RPG/Perception.md), +4 en [Survie](./../Pathfinder-RPG/Survie.md)}
+{s:BDTexte|**Langues** abyssal}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Instinct (Ext).** Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[dédale](./../Pathfinder-RPG/Dédale.md)* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [pris au dépourvu](./../Pathfinder-RPG/Pris au dépourvu.md).}
+{s:BDSousTitre|Equipement de combat}
+{s:BDTexte|[Grande hache](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREDEUXMAINS)}
+{s:BDTexte|[Cor de Lucidité Martiale](./../Pathfinder-RPG/Objets merveilleux sans emplacement.md#Cor de Lucidité Martiale)}
+{s:BDTexte|6 figurines en ivoire de femme humanoïde possédant des traits animaux déroutants(45 po chaque)}
+</div>
+</td><td><div class="BD">Le garde du corps personnel de [Jeslyn](./AP13-Jeslyn.md) est un effroyable minotaure fiélon. Sa fourrure rouge sang et ses yeux jaunes et luisants ne laissent aucun doute sur sa nature abyssale.
+
+### Tactique
+**Avant le combat**\
+Pour donner l'alerte, il souffle dans son **cor de lucidité martiale** dès qu'il voit les personnages.\
+**Moral**\
+Déradnu se bat jusqu'à la mort..
+
+### Trésor
+2 casques historiques de la Première Croisade\
+6 [torches éternelles](./../Pathfinder-RPG/Torche éternelle (objet).md)
+</div></td></tr></table>

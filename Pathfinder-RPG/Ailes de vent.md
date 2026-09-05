@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ailes de vent
+Title: Ailes de vent
+LastModified: 2015-04-13 06:15
+Categories:
+- Don
+---
+
+{s:MR}*Les vents portent le sylphe, l’emmenant où il veut aller.*
+
+**Conditions requises.** [Pas aérien](./Pas aérien.md), niveau 9, [Sylphe](./Sylphe (race).md).
+
+**Avantages.** Le bonus du sylphe à ses jets de sauvegarde contre les effets du registre air ou électricité et contre les effets infligeant des dégâts d’électricité passe à +4. En outre, le sylphe gagne une vitesse de vol surnaturelle égale à sa vitesse de base (bonne manœuvrabilité). Il ne peut voler avec cette capacité que s’il porte une armure légère ou pas d’armure.

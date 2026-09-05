@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Dents acérées
+Title: Dents acérées
+LastModified: 2016-06-02 20:53
+Categories:
+- Don
+---
+
+{s:cm}*L’homme-rat est pourvu de dents particulièrement solides et acérées.*
+
+**Conditions** [Homme-rat](./Homme-rat (race).md)
+
+**Avantages.** L’homme-rat gagne une attaque de morsure. Il s’agit d’une attaque naturelle principale qui inflige 1d3 points de dégâts.

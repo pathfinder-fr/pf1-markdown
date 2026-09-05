@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Feu dartifice toux de dragon (objet)
+Title: Feu d'artifice (toux de dragon)
+LastModified: 2021-10-04 15:09
+Categories:
+- Équipement
+- Src Navires de la mer Intérieure
+---
+
+{s:CSU|11}**Prix** 40 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
+<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+---
+Une fois allumé, ce tube de bois d’une trentaine de centimètres de long commence à émettre un sifflement et des nuages de fumée. Il part ensuite dans les airs un [round](./round.md) plus tard, en ligne droite et à une vitesse de 27 mètres pendant 1d6 rounds avant d’exploser en un nuage de fumée épaisse et colorée. Les cases traversées par le feu d’artifice pendant son envol sont remplies de fumée (traitez cet effet comme le sort de *[nappe de brouillard](./Nappe de brouillard.md)*, sauf qu’un [vent modéré](./Vents.md) ou plus fort disperse la fumée en un round). Au moment où il explose, le feu d’artifice produit une zone semblable sur un rayon de 4,50 mètres autour du point d’explosion. Cette fumée pique les yeux et brûle les poumons. Les créatures qui commencent leur tour dans une case enfumée doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 pour ne pas être [fiévreuses](./Fiévreux.md) pendant 1d4 rounds.

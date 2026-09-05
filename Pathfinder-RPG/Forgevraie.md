@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Forgevraie
+Title: Forgevraie
+LastModified: 2024-06-18 17:25
+Categories:
+- Objet mag
+- Objet mag artefact
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Forgevraie|{s:CMy}}
+**Aura** [Transmutation](./Transmutation.md) surpuissante ; **NLS** 25 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 250 kg
+(((Description)))
+Constituée d’adamantium météoritique, cette énorme enclume connue sous le nom de *Forgevraie* apparaît et disparaît au gré de caprices inexplicables (peut-être ceux d’une puissance supérieure, peut-être les siens). Une créature ayant suffisamment de pouvoir et de connaissances peut lier la *Forgevraie* à un lieu fixe pour mieux tirer profit de sa puissance.
+
+Il faut un talent exceptionnel et du [pouvoir mythique](./pouvoir mythique.md) pour travailler à la *Forgevraie*. Les créatures non-mythiques sont affectées par le sort *[débilité](./Débilité.md)* ([DD](./DD.md) 30) si elles osent se servir de la forge et elles ne peuvent pas en utiliser les pouvoirs même si elles réussissent leur [jet de sauvegarde](./JDS.md).
+
+Si une créature [mythique](./mythique.md) travaille dur à la *Forgevraie*, elle peut créer des [armes](./Armes magiques.md) et des [armures magiques](./Armures magiques.md) d’une valeur maximale égale à son [grade mythique](./Grade.md) au carré multiplié par 2 000 po, ignorant le coût non-magique de l’objet créé. Par exemple, un personnage de grade 10 pourrait créer une arme magique avec des bonus équivalents à une altération de +10, d’une valeur de 200 000 po plus le coût de l’arme en elle-même. L’objet forgé doit être au moins partiellement composé de métal, comme une [lance](./lance (arme).md) ou une [cuirasse](./cuirasse (armure).md). La création d’un tel objet coûte moitié moins cher en matière première que d’ordinaire. Cependant, pour créer des objets intégrant des matériaux exotiques (comme l’[adamantium](./../Golarion/adamantium.md)), le créateur doit utiliser et avoir accès à la quantité normale de matériaux.
+
+Quels que soient les matériaux entrant dans la composition, pour les objets non-magiques, il faut une journée de labeur pour forger une arme légère ou à une main, un bouclier ou une armure légère, 2 jours pour forger une armure intermédiaire ou une arme à deux mains et 3 jours pour forger une armure lourde. Pour les objets ayant des propriétés magiques, portez au carré le nombre de jour de labeur et multipliez le résultat par 1 000 pour déterminer le total de la valeur en pièces d’or. Par exemple, pour réaliser un objet ayant des propriétés magiques et d’une valeur de 144 000 po ou moins, il faut 12 jours de travail. Le créateur doit travailler sans relâche à l’objet, ne pouvant pas dormir tant que son œuvre n’est pas achevée, mais la magie de la forge le maintient éveillé et en pleine forme. Si le travail est interrompu plus d’une heure à la fois ou plus de 2 heures dans une journée, l’objet est ruiné et la moitié de la valeur des matières premières est perdue.
+
+En plus de fabriquer des armes et des armures normales et magiques, la *Forgevraie* peut réparer les objets magiques brisés, généralement en moitié moins de jours qu’il n’en faut pour les fabriquer complètement. Elle peut même réparer ou créer des [artefacts](./Artefacts.md), bien que ce genre de tâches nécessite des mois de préparation pour rassembler les matériaux appropriés, suivis de semaines de labeur à la forge.
+
+La forge ne tolère qu’un seul travailleur à la fois. Tandis qu’il s’affaire, la *Forgevraie* se nourrit de son [pouvoir mythique](./pouvoir mythique.md) et de son énergie vitale, les investissant dans l’objet créé. La fabrication d’objets non-magiques présente moins de risques. Le créateur doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 25 au début de chaque jour de travail pour ne pas recevoir deux [niveaux négatifs](./niveau négatif.md) permanents. Pour les objets magiques, le DD de sauvegarde est égal à 25 plus le nombre de jours ouvrés jusqu’alors. Au début de chaque jour de labeur, le créateur doit dépenser un nombre d’utilisations de pouvoir mythique égal au nombre de jours ouvrés jusqu’alors plus un.
+
+Si le créateur accumule un nombre de [niveaux négatifs](./niveau négatif.md) égal à son niveau de personnage ou s’il épuise son [pouvoir mythique](./pouvoir mythique.md), son travail l’achève à la fin de la journée. En principe, le travail en cours est ruiné mais si cela arrive lors du dernier jour de travail, le créateur finit l’objet alors qu’il meurt. Son âme intègre l’objet, en faisant un [objet intelligent](./Objets intelligents.md) doué de la personnalité du défunt et, éventuellement, de certaines de ses capacités, selon décision du [MJ](./MJ.md).
+
+Les créatures immunisées contre l’absorption de niveaux, que ce soit grâce à une protection magique ou de par leur nature, ne peuvent pas utiliser la *Forgevraie*.
+(((Destruction)))
+Il est possible de détruire la *Forgevraie* en détruisant d’abord chacun des objets qu’elle a forgés puis en la brisant d’un unique coup porté avec un [marteau des éclairs](./Marteau des éclairs.md).
+</div>

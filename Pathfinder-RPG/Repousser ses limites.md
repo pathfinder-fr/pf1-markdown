@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Repousser ses limites
+Title: Repousser ses limites
+LastModified: 2020-11-24 16:36
+Categories:
+- Don
+- Don combat
+- Src Pathfinder unchained
+---
+
+{s:Desambi|Ce don est prévu pour fonctionner avec le système de [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0) introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}*Même quand le personnage est fatigué, il continue de se battre et parvient à renverser des situations désespérées.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Con](./Con.md) 13, [Endurance combative](./Endurance combative.md), [BBA](./BBA.md) +5
+
+**Avantages.** Le personnage gagne une deuxième [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0) dotée d’un nombre de points d’endurance égal à son modificateur de [Constitution](./Constitution.md). Le personnage peut dépenser ces points d’endurance secondaires uniquement quand sa réserve principale est vide ou quand il est [fatigué](./Fatigué.md), même si en temps normal il ne peut pas utiliser son endurance sous l’effet de la fatigue. Il dépense les points de sa réserve secondaire comme bon lui semble mais il est [épuisé](./Épuisé.md) dès qu’elle tombe à 0 et le reste tant qu’il n’a pas récupéré au moins 1 point dans sa réserve d’endurance principale. Même s’il reste des points dans sa réserve secondaire, il est fatigué tant qu’il n’en a plus dans sa réserve principale. La réserve secondaire se remplit de nouveau uniquement après une nuit de repos complète.

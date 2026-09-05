@@ -1,0 +1,27 @@
+---
+Name: Pathfinder2.MainPage
+Title: Wiki de ressources pour Pathfinder 2
+LastModified: 2025-01-08 21:04
+---
+
+<div class="itemmenu">
+{s:TilePF2Ext|http://pf2e.pathfinder-fr.org/|Règles PF2 en VF (traduction fan made)|/Wiki/public/Upload/Illustrations/Wiki/PF2/LienCheps.webp}
+{s:TilePF2|ADJ|Aides de jeu|Logos/PFS2/PF2Logo.png}
+{s:TilePF2|FAN|Créations de fans|Illustrations/Wiki/desk.png}
+{s:TilePF2|LORE|Lore et monde de Golarion|Illustrations/Blog/miniAbsalom.jpg}
+{s:TilePF2|AP|Aventures officielles|Logos/PFS2/PFAP New Logo.png}
+{s:TilePF2|Publications|Autres publications|Logos/PFS2/bookPF2.png}
+{s:TilePF2|PFS|Campagne organisée Pathfinder Society|Logos/PFS2/PFSLogo2ndMerged.png}
+{s:TilePF2|OTARI|Otari|Illustrations/Wiki/PF2/110420_Otari.jpg}
+</div>
+
+### Liens extérieurs
+
+<div class="itemmenu">
+{s:TilePF2Ext|https://discord.gg/MYqudHH|Serveur Discord Pathfinder-FR|https://www.pathfinder-fr.org/images/Pathfinder/logos/discord_icon.png}
+</div>
+
+---
+Cette partie du site Pathfinder-FR regroupe diverses ressources liées à **Pathfinder 2**, la nouvelle version du jeu de rôle Pathfinder créé par [Paizo](http://www.paizo.com/), dont les premières sorties datent d'août 2019.
+
+Le jeudi 12 janvier 2023, Paizo a lancé le projet de création d'une nouvelle licence ouverte, l'Open RPG Creative License (ORC). Vous pouvez lire l'annonce [sur le blog de Paizo](https://paizo.com/community/blog/v5748dyo6si7v) ou une traduction en français [sur ce site](./Annonce ORC.md).

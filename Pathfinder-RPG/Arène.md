@@ -1,0 +1,120 @@
+---
+Name: Pathfinder-RPG.Arène
+Title: Arène
+LastModified: 2015-11-01 00:50
+Categories:
+- Guide du maître
+- Règles officielles
+---
+
+Qu’il s’agisse de guerriers exotiques se donnant en spectacle ou de criminels doués forcés à se battre pour survivre, les combattants de l’arène doivent affronter des dangers pour l’amusement des nombreux spectateurs. Ces personnages peuvent remplir divers rôles et être des alliés un jour puis des ennemis le lendemain. Dans tous les cas, ces individus vivent pour le combat et survivent uniquement grâce à leur brutalité et à leur talent à faire couler le sang sur le sable de l’arène, la cour de la prison, le champ de bataille et partout où ils passent.
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|GLADIATEUR}
+{s:BDTitre|Gladiateur|FP 5}
+{s:BDTexte|**PX** 1 600}
+{s:BDTexte|Humain [barbare](./Barbare.md) 3 / [guerrier](./Guerrier.md) 3}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 21, contact 12, pris au dépourvu 17 (armure +7, bouclier +2, Dex +3, esquive +1, rage -2)}
+{s:BDTexte|**pv** 57 (6 DV ; 3d12+3d10+21)}
+{s:BDTexte|**Réf** +5, **Vig** +9, **Vol** +5 ; +1 contre la terreur}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** trident de maître, +13/+8 (1d8+5) ou trident de maître, +11/+6 (1d8+5) et *rondache en acier +1* avec pointes de bouclier de maître, +10 (1d6+5)}
+{s:BDTexte|**A distance** trident de maître, +11 (1d8+5) ou javeline, +9 (1d6+5)}
+{s:BDTexte|**Attaque spéciale** pouvoirs de rage (repousser l’ennemi), rage (9 rounds/jour)}
+{s:BDSousTitre|Tactiques}
+{s:BDTexte|**Profil de base** lorsqu’il n’est pas en rage : **CA** 23, contact 14, pris au dépourvu 19 (armure +7, bouclier +2, Dex +3, esquive +1) ; **pv** 45 ; **Vig** +7, **Vol** +3 ; **Corps à corps** trident de maître, +11/+6 (1d8+3) ou trident de maître, +9/+4 (1d8+3) et *rondache en acier +1* avec pointes de bouclier de maître, +8 (1d6+3) ; **Distance** trident de maître, +11 (1d8+3) ou javeline, +9 (1d6+3) ; **For** 16, **Con** 13, **BMO** +9, **DMD** 23 ; **Compétences** [Escalade](./Escalade.md) +6, [Natation](./Natation.md) +6}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 20, **Dex** 16, **Con** 17, **Int** 8, **Sag** 12, **Cha** 10}
+{s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 25}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (trident), [Art du bouclier](./Art du bouclier.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Esquive](./Esquive.md), [Science du coup de bouclier](./Science du coup de bouclier.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+14 pour sauter), [Escalade](./Escalade.md) +8, [Intimidation](./Intimidation.md) +5, [Natation](./Natation.md) +8, [Perception](./Perception.md) +10}
+{s:BDTexte|**Langues** commun}
+{s:BDTexte|**Particularités** entraînement aux armures 1, déplacement accéléré}
+{s:BDTexte|**Équipement** *cuirasse +1*, *rondache en acier +1* avec pointes de maître, javelines (5), trident de maître, 1 po}
+{s:BDTexte|**Faveur** Les gladiateurs peuvent donner libre-accès à l’arène même en-dehors des heures d’ouverture et peuvent aider les PJ à acheter des armes exotiques non magiques avec une réduction de prix de 10%.}
+</div>
+</td><td><div>
+Les gladiateurs se distinguent autant par leur style de combat que par leur nation d’origine, mais tous cherchent à verser le sang pour la gloire et la fortune. Bon nombre d’entre eux mettent en avant la rapidité et la protection plutôt que la force brute. Ils jaugent leur adversaire avant de se lancer au combat avec une fureur sanguinaire, épée et bouclier au clair. On peut les utiliser comme gardes du corps, comme « policiers anti-émeute » dans une ville ou comme tirailleurs d’élite dans une armée.
+
+En remplaçant [Esquive](./Esquive.md) par [Maniement d’une arme exotique](./Maniement dune arme exotique.md), on crée un maître d’armes exotiques.
+
+En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter leur dernière victoire avec deux [ivrognes](./PNJ-ivrogne.md) (FP 6).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|MAITREDESBETES}
+{s:BDTitre|Maître des bêtes|FP 6}
+{s:BDTexte|**PX** 2 400}
+{s:BDTexte|Humain [rôdeur](./Rôdeur.md) 7}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +11}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +5, bouclier +1, Dex +1)}
+{s:BDTexte|**pv** 59 (7d10+21)}
+{s:BDTexte|**Réf** +6, **Vig** +7, **Vol** +3}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** *marteau de guerre +1*, +12/+7 (1d8+5/×3) ou *marteau de guerre +1*, +10/+5 (1d8+5/×3) et *hachette +1*, +10/+5 (1d6+5/×3) }
+{s:BDTexte|**A distance** arc long composite, +8/+3 (1d8/×3)}
+{s:BDTexte|**Attaque spéciale** ennemi juré (animaux +2, humains +4)}
+{s:BDTexte|**sorts de rôdeur préparés** (NLS 4 ; concentration +5)}
+{s:BDSorts|1<up>er</sup> — *[communication avec les animaux](./Communication avec les animaux.md)*, *[grand pas](./Grand pas.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 13, **Con** 14, **Int** 10, **Sag** 12, **Cha** 8}
+{s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 22}
+{s:BDTexte|**Dons** [Combat à deux armes](./Combat à deux armes.md), [Défense à deux armes](./Défense à deux armes.md), [Double frappe](./Double frappe.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Fente](./Fente.md), [S’avancer](./Savancer.md), [Science du combat à deux armes](./Science du combat à deux armes.md)}
+{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +10, [Dressage](./Dressage.md) +9, [Équitation](./Équitation.md) +10, [Escalade](./Escalade.md) +11, [Natation](./Natation.md) +10, [Perception](./Perception.md) +11, [Premiers secours](./Premiers secours.md) +5, [Survie](./Survie.md) +11 (+14 pour suivre une piste)}
+{s:BDTexte|**Langues** commun}
+{s:BDTexte|**Particularités** déplacement facilité, empathie sauvage +6, pacte du chasseur (compagnon animal), pistage +3, environnement de prédilection (ville +2)}
+{s:BDTexte|**Équipement** *chemise de mailles +1*, arc long composite avec 20 flèches, *hachette +1*, *marteau de guerre +1*, 26 po}
+{s:BDTexte|**Faveur** Les maîtres des bêtes peuvent aider les PJ à chasser une proie humanoïde ou animale.}
+</div>
+</td><td><div>
+Les maîtres des bêtes sont des combattants exotiques et des dompteurs qui ravissent le cœur des foules avec l’aide de leurs animaux lorsqu’ils se battent en duo contre des créatures plus grandes. Cela se termine généralement mal pour leurs compagnons animaux, mais, après tout, ce ne sont pas les bêtes à dompter et à entraîner qui manquent. Les maîtres des bêtes peuvent servir de chasseurs de prime de bas niveau (en combattant avec deux matraques), de garde-chasse royaux ou de chasseurs de gros gibier en campagne.
+
+Parmi les compagnons animaux typiques des gladiateurs maîtres des bêtes, on trouve les crocodiles, les dinosaures, les gorilles, les gros félins, les hyènes, les loups, les ours, les rhinocéros et les varans. Des maîtres des bêtes montés sur des compagnons rocs peuvent aussi former une force d’attaque aérienne.
+
+On peut rencontrer un maître des bêtes seul avec son animal, occupé à chasser ou à échanger des histoires avec un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) et un [trappeur](./PNJ-trappeur.md) (FP 8) ou encore dans un trio avec un [chasseur de primes](./PNJ-chasseur-de-primes.md) (FP 12).
+</div></td></tr></table>
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:Reference|CHAMPION}
+{s:BDTitre|Champion|FP 9}
+{s:BDTexte|**PX** 6 400}
+{s:BDTexte|Humain [barbare](./Barbare.md) 5 / [guerrier](./Guerrier.md) 5}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [Perception](./Perception.md) +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 10, pris au dépourvu 15 (armure +7, Dex +2, rage -2)}
+{s:BDTexte|**pv** 105 (10 DV, 5d12+5d10+45)}
+{s:BDTexte|**Réf** +4, **Vig** +12, **Vol** +4 ; +1 contre la terreur}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c})}
+{s:BDTexte|**Corps à corps** *épée à deux mains vicieuse en adamantium +1*, +19/+14 (2d6+13/17–20 plus 2d6 vicieux) ou gantelet clouté, +16/+11 (1d3+6)}
+{s:BDTexte|**A distance** javeline, +12 (1d6+6)}
+{s:BDTexte|**Attaque spéciale** entraînement aux armes (lames lourdes +1), pouvoirs de rage (pic de force +5, regard intimidant), rage (14 rounds/jour)}
+{s:BDSousTitre|Tactiques}
+{s:BDTexte|**Profil de base** lorsqu’il n’est pas en rage : **CA** 19, contact 12, pris au dépourvu 17 ; **pv** 85 ; **Vig** +10, **Vol** +2 ; **Corps à corps** ''épée à deux
+mains vicieuse en adamantium +1'', +17/+12 (2d6+10/17–20 plus 2d6 vicieux) ou gantelet clouté, +14/+9 (1d3+4) ; **Distance** javeline, +12 (1d6+4) ; **For** 18, **Con** 14, **BMO** +14 (+18 [destruction](./destruction.md)), **DMD** 26 (28 contre la [destruction](./destruction.md)) ; **Compétences** [Escalade](./Escalade.md) +8, [Natation](./Natation.md) +7}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 22, **Dex** 14, **Con** 18, **Int** 8, **Sag** 10, **Cha** 12}
+{s:BDTexte|**BBA** +10, **BMO** +16 (+20 [destruction](./destruction.md)), **DMD** 28 (30 contre la [destruction](./destruction.md))}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée à deux mains), [Attaque en puissance](./Attaque en puissance.md), [Briser les défenses](./Briser les défenses.md), [Démonstration](./Démonstration.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Force intimidante](./Force intimidante.md), [Science de la destruction](./Science de la destruction.md), [Science du critique](./Science du critique.md) (épée à deux mains), [Spécialisation martiale](./Spécialisation martiale.md) (épée à deux mains)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13 (+17 pour sauter), [Dressage](./Dressage.md) +5, [Équitation](./Équitation.md) +4, [Escalade](./Escalade.md) +10, [Intimidation](./Intimidation.md) +18 (+20 en rage), [Natation](./Natation.md) +9, [Perception](./Perception.md) +4, [Survie](./Survie.md) +5}
+{s:BDTexte|**Langues** commun}
+{s:BDTexte|**Particularités** entraînement aux armures 1, déplacement accéléré}
+{s:BDTexte|**Équipement** *cuirasse +1*, *épée à deux mains vicieuse en adamantium +1*, javelines (5), gantelet clouté, 15 po}
+{s:BDTexte|**Faveur** Un champion peut présenter les PJ à un [général](./PNJ Général.md), à un [prince marchand](./PNJ-Prince-marchand.md) ou à un [noble](./PNJ-Noble.md) qui fait partie de ses fans, octroyant ainsi un bonus de +10 aux tests de [Diplomatie](./Diplomatie.md) envers cette personne. Il peut aussi ordonner à un [gladiateur](./PNJ Gladiateur.md) d’aider les PJ pendant 24 heures.}
+</div>
+</td><td><div>
+Le champion est le maître de l’arène. Il laisse derrière lui un sillage d’armes en ruines, de corps détruits et de rêves brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule et la terreur qu’il inspire chez ses ennemis le font exulter.
+
+On peut également utiliser le champion comme chef barbare ou capitaine mercenaire. On peut le rencontrer seul ou en compagnie de deux [gladiateurs](./PNJ Gladiateur.md) (FP 10).
+</div></td></tr></table>

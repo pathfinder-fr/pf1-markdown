@@ -1,0 +1,23 @@
+---
+Name: ADJ.RèglesSupp
+Title: RèglesSupp
+LastModified: 2017-04-30 19:45
+---
+
+{s:itemadj|ESPACERESTREINT|Combattre dans un espace restreint|ADJ%2fPathfinder-RPG%2fEspaceRestreintMini.jpg|%2fADJ%2fPathfinder-RPG%2fEspaceRestreint.pdf|Quelques règles de combat dans les espaces restreints, inspirées par les versions précédentes de D&D|fichier PDF|Mériadec}
+
+{s:itemadj|ARMURERIE|L'armurerie|ADJ%2fPathfinder-RPG%2fArmurerieMini.jpg|%2fADJ%2fPathfinder-RPG%2fArmurerie.pdf|Un recueil d'armes, d'armures et d'autres objets magiques ou non pour Pathfinder-RPG|fichier PDF|[Necromancers of the Northwest](http://www.necromancers-online.com/)}
+
+
+PLAYTESTS
+
+{s:itemadj|PREVIEWAPG|(Advanced Player's Guide)  
+6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|**(version 4.3)** Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[Advanced Player's Guide](./../Golarion/Publications.md#Suppléments_de_règles_1), actuellement en playtest|fichier PDF|Dalvyn et Rectulo}
+{s:itemadj|PREVIEWBESTIAIRE|(Bestiaire)  
+plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [cette page](./../Golarion/Publications.md) pour plus d'informations sur le Bestiaire)|fichier PDF|Dalvyn}
+{s:itemadj|PREVIEWUM|(Ultimate Magic)  
+Playtest des règles|ADJ%2fPathfinder-RPG%2fUMPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUM2Playtest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Magic, comme la nouvelle classe de base de magus et le système de magie par mots de pouvoir|fichier PDF|Dalvyn}
+{s:itemadj|PREVIEWUC|(Ultimate Combat)  
+Playtest des règles|ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUCPlaytest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Combat : les règles pour les armes à feu et les classes/variantes de pistoléro, de ninja et de samouraï  |fichier PDF|Pathfinder-FR & BBE}
+{s:itemadj|PREVIEWUC2|(Ultimate Combat)  
+Playtest des règles 2|ADJ%2fPathfinder-RPG%2fUCPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUCPlaytest2.pdf|La seconde version du playtest de l'Ultimate Combat concernant la classe de pistoléro et les règles des armes à feu|fichier PDF|Pathfinder-FR & BBE}

@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Mage blanc (arcaniste)
+Title: Mage blanc
+LastModified: 2023-05-28 16:52
+Categories:
+- Archétype
+- Archétype arcaniste
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypearcaniste}{s:MCA}*Un mage blanc est un arcaniste touché par la grâce d’une puissance divine qui lui permet de soigner autrui.*
+
+#### Soins spontanés (Sur)
+Au niveau 1, un mage blanc peut dépenser 1 point de son [réservoir arcanique](./réservoir arcanique.md) pour utiliser l’un de ses emplacements de sort afin de lancer un sort de soins (c’est-à-dire n’importe quel sort dont la désignation contient le mot « soins ») issu de la [liste des sorts de prêtre](./Liste des sorts de prêtres.md), comme s’ils étaient préparés et faisaient partie de sa liste de sorts. L’arcaniste doit être capable de lancer le niveau de sort concerné.
+
+Au niveau 10, le mage blanc peut dépenser 5 points de son réservoir arcanique et un [emplacement de sort](./emplacement de sort.md) de niveau 5 au moins pour lancer souffle de vie.
+
+Cette aptitude remplace les exploitations d’arcaniste obtenues aux niveaux 1 et 9.
+
+#### Exploitation supérieure
+Au niveau 11, un mage blanc peut choisir l’exploitation supérieure suivante.
+- **Guérison accélérée (Sur).** Un mage blanc peut dépenser 1 point de son réservoir arcanique et un [emplacement de sort](./emplacement de sort.md) de niveau 2 au moins pour conférer à ses alliés le pouvoir de [guérison accélérée](./guérison accélérée.md). Les alliés situés à 9 mètres (6 {s:c}) ou moins gagnent une guérison accélérée d’un montant égal à la moitié du niveau de l’emplacement de sort sacrifié. Cet effet dure un nombre de rounds égal au modificateur de [Charisme](./Charisme.md) de l’arcaniste (minimum 1).

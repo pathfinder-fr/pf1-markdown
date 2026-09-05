@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Anneau du bélier
+Title: Anneau du bélier
+LastModified: 2024-05-25 17:18
+Categories:
+- Objet mag anneau
+---
+
+<div class="BD">
+{s:BDTitre|Anneau du bélier|}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 8 600 po ; **Poids** —
+(((Description)))
+L’anneau du bélier est un bijou de métal dur (le plus souvent du fer, ou un alliage ferreux). Il est décoré d’une tête de bélier ou de bouc.
+
+Le porteur de l’anneau peut l’utiliser pour générer une force soudaine prenant la forme d’une tête de bélier (ou de bouc) vaguement visible. Les dégâts subis par la cible dépendent du nombre de charges dépensées par l’utilisateur : 1d6 points pour 1 charge, 2d6 points pour 2 charges ou 3d6 points de dégâts pour 3 charges (le maximum). Cet assaut est considéré comme une attaque à distance avec une portée maximale de 15 m et sans malus de portée. L’anneau est particulièrement utile pour faire tomber des ennemis se tenant au bord d’un gouffre.
+
+La force délivrée par le coup est considérable, et les cibles qui se trouvent à 9 m ou moins du personnage sont repoussées comme sous le coup d’une [bousculade](./bousculade.md) (le bélier est de taille G et a une [Force](./Force.md) de 25). Le coup est considéré comme ayant un [BMO](./BMO.md) de +17. La tentative de [bousculade](./bousculade.md) bénéficie d’un bonus de +1 si 2 charges sont utilisées ou de +2 si 3 charges sont dépensées.
+
+L’anneau du bélier est également à même d’enfoncer les portes comme un individu ayant une valeur de [Force](./Force.md) de 25 (pour 1 charge). Sa valeur de [Force](./Force.md) effective passe à 27 pour 2 charges et à 29 pour 3 charges.
+
+L’anneau a au maximum 50 charges. Quand celles-ci sont épuisées, il devient un objet non magique.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[force de taureau](./Force de taureau.md)*, *[télékinésie](./Télékinésie.md)* ; **Coût** 4 300 po
+</div>

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Cristal prismatique (objet)
+Title: Cristal prismatique
+LastModified: 2021-09-16 20:45
+Categories:
+- Équipement
+- Src Aventures occultes
+---
+
+{s:AO}**Prix** 30 po ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cet éclat de cristal brille de toutes les couleurs de l'arc-en-ciel. Un cristal prismatique peut être utilisé comme focalisateur lors de l'utilisation de l'extension de compétence occulte [lecture des auras](./Extensions de compétences occultes.md#LECTUREDESAURAS) et permet de réduire à cinq minutes le temps nécessaire à la lecture d'une aura (qui prend dix minutes en temps normal). Porté par des créatures dotées de capacités psychiques, ces cristaux diffusent également de la lumière à courte portée, ce qui augmente d'un cran l'[intensité de la lumière](./Exploration.md#VISIONLUMIERE) sur un rayon de 3 mètres (une zone plongée dans l'obscurité devient faiblement éclairée et une zone faiblement éclairée devient normalement éclairée). Un cristal prismatique n'augmente pas l'intensité lumineuse d'une zone déjà normalement éclairée.

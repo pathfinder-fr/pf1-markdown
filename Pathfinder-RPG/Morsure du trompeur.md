@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Morsure du trompeur
+Title: Morsure du trompeur
+LastModified: 2020-12-13 20:08
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:RSE}*Les coups à mains nues du personnage font saigner son adversaire.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md)
+
+**Avantages.** Lorsqu’il blesse un adversaire avec une attaque à mains nues, le personnage inflige 1d4 points de dégâts de [saignement](./Saignement.md) supplémentaires.
+
+**Spécial.** Cette capacité ne se cumule pas avec d’autres capacités spéciales, attaques ou objets permettant au personnage d’infliger des dégâts de saignement.

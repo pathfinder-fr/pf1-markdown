@@ -1,0 +1,51 @@
+---
+Name: Pathfinder-RPG.Archon excendré
+Title: Archon, Excendré
+LastModified: 2023-12-20 17:16
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Excendré|FP 12}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire 5 p.36*}
+{s:BDTexte|**PX** 19 200}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([archon](./sous-type archon.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille TG, LB}
+{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, *[vision lucide](./Vision lucide.md)*, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +28}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 29, contact 12, pris au dépourvu 25 (Dex +4, naturelle +17, taille -2 ; parade +2 contre le Mal)}
+{s:BDTexte|**pv** 147 (14d10+70)}
+{s:BDTexte|**Réf** +10, **Vig** +16, **Vol** +16 ; +4 contre le poison}
+{s:BDTexte|**RD** 10/Mal ; **Immunités** acide, électricité, feu, froid, pétrification ; **RM** 23}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, [vol](./Vol (capacité).md) 27 m (bonne)}
+{s:BDTexte|**Corps à corps** épée longue de feu +3, +25/+20/+15 (3d6+15/19-20 plus 1d6 feu)}
+{s:BDTexte|**Espace occupé** 4,50 m ; **Allonge** 4,50 m}
+{s:BDTexte|**Attaques spéciales** censure de texte}
+{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 15 ; [concentration](./concentration.md) +20)}
+{s:BDSorts|Constant — *[détection du Mal](./Détection du Mal.md)*, *[vision lucide](./Vision lucide.md)*}
+{s:BDSorts|À volonté — *[châtiment sacré](./Châtiment sacré.md)* (DD 19), *[détection de pensées](./Détection de pensées.md)* (DD 17), détection des mensonges (DD 19), *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 20), *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement), *[localisation d'objet](./Localisation dobjet.md)*, *[localisation de créature](./Localisation de créature.md)*, *[modification de mémoire](./Modification de mémoire.md)* (DD 19), *[protection contre le Mal](./Protection contre le Mal.md)* (DD 16), *[refouler un souvenir](./Refouler un souvenir.md)* (DD 21), *[soins légers](./Soins légers.md)*, *[stabilisation](./Stabilisation.md)*, *[zone de vérité](./Zone de vérité.md)* (DD 17)}
+{s:BDSorts|3/jour — *[boule de feu](./Boule de feu.md)* (DD 18), *[changement de plan](./Changement de plan.md)* (DD 20), *[colonne de feu](./Colonne de feu.md)* (DD 20), *[rejet du Mal](./Rejet du Mal.md)* (DD 20)}
+{s:BDSorts|1/jour — *[localisation suprême](./Localisation suprême.md)* (DD 23), *[orientation](./Orientation.md)* (DD 21)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 30, **Dex** 19, **Con** 20, **Int** 16, **Sag** 25, **Cha** 21}
+{s:BDTexte|**BBA** +14 ; **BMO** +26 ; **DMD** 40}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
+{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +10, [Connaissances](./Connaissances.md) (géographie) +17, [Connaissances](./Connaissances.md) (histoire, mystères, plans, religion) +20, [Intimidation](./Intimidation.md) +22, [Linguistique](./Linguistique.md) +10, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +28}
+{s:BDTexte|**Langues** abyssal, aklo, céleste, commun, draconique, elfe, gnome, infernal, nain ; [télépathie](./Télépathie (capacité).md) 30 m, langage universel}
+{s:BDTexte|**Particularités** changement de taille, [ne respire pas](./Ne respire pas (capacité).md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous (Paradis)}
+{s:BDTexte|**Organisation** solitaire, couple ou inquisition (3-6)}
+{s:BDTexte|**Trésor** standard (*[épée longue](./épée longue (arme).md) de [feu](./feu (propriété).md) +3*, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Censeur de texte (Sur).** Un excendré peut tenter de dérober ou de modifier par magie un texte situé à 30 mètres ou moins par une simple. Si personne ne porte ce texte sur lui, la tentative est automatiquement réussie. Une créature en possession d’un texte doit effectuer un jet de [Volonté](./Volonté.md) [DD](./DD.md) 22 pour annuler ce pouvoir. Un texte dérobé est directement téléporté dans la main de l’excendré. Un texte modifié est définitivement corrigé selon les souhaits de l’excendré – il est possible de détecter cette modification par magie, mais elle ne peut pas être dissipée ou inversée, à moins d’utiliser un *[souhait](./Souhait.md)* ou un *[miracle](./Miracle.md)*. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Changement de taille.** Un excendré peut changer de forme pour adopter une version de taille P, M ou G de lui-même. Cela ne modifie pas ses caractéristiques, seulement sa taille (et donc les dégâts de ses armes).}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [archons](./Archon.md).***</li></ul>*Cet humanoïde imposant n’a pas de bouche et porte une épée tout aussi enflammée que ses ailes.*
+
+Les excendrés sont les censeurs du Paradis qui passent les plans au peigne fin à la recherche de textes contenant des informations trop maléfiques ou dangereuses pour permettre leur existence. Ils accordent peu d’intérêt à la vie des individus ou aux hérésies ordinaires et s’attachent avant tout à protéger de la corruption les mortels dans leur ensemble.
+</div></td></tr></table>

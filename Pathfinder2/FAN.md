@@ -1,0 +1,99 @@
+---
+Name: Pathfinder2.FAN
+Title: Créations de fans pour Pathfinder 2
+LastModified: 2025-08-20 22:28
+---
+
+• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+
+
+<nav class="wiki-toc"></nav>
+
+### Aventures converties
+
+<div class="itemmenu">
+{s:ItemPF2|Nid-du-Faucon|Conversion de l'aventure "Le dernier espoir de Nid-du-Faucon" (niveau 1)|/Wiki/public/Upload/ADJ/PF2/Conversion%20D0%20PF2.pdf|/Wiki/public/Upload/Illustrations/Wiki/PF2/img/vig Conversion NdF.webp}
+</div>
+
+### Aventures créées pour PF2
+
+<div class="itemmenu">
+{s:ItemPF2|L'Escorte|**Scénario d'initiation** à Pathfinder 2 autour d'Otari par la communauté de Pathfinder-FR (version PDF)|/Wiki/public/Upload/PF2/CreaFans/Escorte.pdf|/Wiki/public/Upload/PF2/CreaFans/Img/Escorte small.webp}
+
+{s:ItemPF2|L'Escorte|**Carte du repaire avec grille** pour l'Escorte, par Uncle Fepster... (fichier png et fichier xcf pour Gimp)|/Wiki/public/Upload/PF2/CreaFans/Escorte - Repaire avec grille.zip|/Wiki/public/Upload/PF2/CreaFans/Img/Escorte small.webp}
+
+{s:ItemPF2|L'Escorte|**Module Foundry** pour l'Escorte, par jean-michel, Carter, Sasmira... Version sans référence à Golarion compatible v13 du **20/08/2025**|https://gitlab.com/sasmira/pf2e-l-escorte|/Wiki/public/Upload/PF2/CreaFans/Img/Escorte small.webp}
+
+{s:ItemPF2|L'Escorte|Figurines à imprimer, par AlphaRastor|/Wiki/public/Upload/PF2/CreaFans/ADJ/Figurines_2D_lescorte.png|/Wiki/public/Upload/PF2/CreaFans/ADJ/Figurines_2D_lescorte_mini.png}
+
+
+{s:ItemPF2NoImg|Les héros de Pointesable|Campagne du niveau 1 à 20 par MJAjani (sur le forum Pathfinder-FR)|<nowiki>https://www.pathfinder-fr.org/Forum/posts/t17668~~Scenario~~Campagne---Les-Heros-de-Pointesable</nowiki>}
+
+{s:ItemPF2NoImg|La vengeance de l'honneur|Par Stotorm, un scénario one-shot pour des aventuriers de niveau 1 à 3|https://scribe.pf2.tools/v/Xq45BmOx-la-vengeance-de-l-honneur}
+
+{s:ItemPF2NoImg|Les démons de minuit|Par Stotorm, un scénario one-shot pour des aventuriers de niveau 1|https://scribe.pf2.tools/v/6PhyCoLQ-les-d-mons-de-minuit}
+
+{s:ItemPF2NoImg|Pour une poignée d'or|Par Stotorm, un scénario one-shot pour des aventuriers de niveau 2, mettant en scène un PNJ iconique de la campagne l'Âge des cendres|https://scribe.pf2.tools/v/R1V0R6d9-pour-une-poign-e-d-or}
+
+{s:ItemPF2|L'Acolyte perdue|Par Toonsa, un scénario et monde FoundryVTT, one-shot pour des aventuriers de niveau 1, se déroulant à Otari et pouvant servir pour une initiation|https://www.dropbox.com/sh/c8w7x3gy6cjgngp/AADaaHADn1dG-nyOYbYSXN-Ka?dl=0|/Wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig Acolyte Perdue.webp}
+
+{s:ItemPF2|One night at the Crooked Hand|Aventures d'initiation (payante) par Wheldrake sur DriveThruRPG (épisode 1)|https://www.drivethrurpg.com/product/289095/Pirates-and-Plunder-One-night-at-The-Crooked-Hand-PF2|https://d1vzi28wh99zvq.cloudfront.net/images/15549/289095-thumb140.jpg}
+
+{s:ItemPF2|Secrets of the Brotherhood|Aventure d'initiation (payante) par Wheldrake sur DriveThruRPG (épisode 2)|https://www.drivethrurpg.com/product/294371/Pirates-and-Plunder-Episode-2-Secrets-of-the-Brotherhood-PF2|https://d1vzi28wh99zvq.cloudfront.net/images/15549/294371-thumb140.jpg}
+
+<div>
+
+
+
+
+### Règles supplémentaires
+
+- Ascendance de centaure par MJAjani & Woolsei : [Ascendance Centaure](https://scribe.pf2.tools/v/jCyoMsLV-ascendance-centaure)
+
+- Classe de samouraï par MJAjani : [lien](./<nowiki>https://www-pathfinder-fr-org//Forum/posts/t17492~~Classe~~Le-Samourai--Classe-Homebrew</nowiki>.md)
+
+- Classe de chevalier noir (inspirée de Final Fantasy) par MJAjani : [lien direct dernière version](https://scribe.pf2.tools/v/tCLVRMjJ-chevalier-noir), [lien vers forum](./<nowiki>https://www-pathfinder-fr-org/Forum/posts/m749522~~Classe~~Le-Chevalier-Noir--Classe-Homebrew</nowiki>.md)
+
+- Classes hybrides (alternative au multiclassage via archétypes) par jean-michel p : [Gabarit général](https://scribe.pf2.tools/v/8wpT1moz-gabarit-de-classe-hybride) et deux exemples : [Agent sacré](https://scribe.pf2.tools/v/ZrYjswT2-agent-sacr) et [Sacré filou](https://scribe.pf2.tools/v/o0oVVC3w-sacr-filou)
+
+
+### PNJs et créatures prêts à l'emploi
+
+PNJs et créatures créées par les fans :
+
+- *[Personnage-type](./PF2 PersoType.md) (code à recopier pour créer la page des autres PNJs et créatures)*
+- [Gobelin demi-fiélon](./GobelinDemiFielon.md) (niveau 0)
+
+PNJs et créatures provenant du blog de Paizo :
+
+- [Eleukas, garde courageux](./Eleukas.md) (niveau 2)
+- [Explose-Bidoche (Gristleburst), pyromane curieux](./ExploseBidoche.md) (niveau 2)
+- [Lisavet, acolyte érudite](./Lisavet.md) (niveau 2)
+- [Wendlyn, incorrigible voleuse](./Wendlyn.md) (niveau 2)
+- [Morlibint, vendeur de livre dans une petite ville](./Otari-Morlibint.md) (niveau 4)
+
+
+''Pour ajouter un PNJ / une créature :  
+
+(1) Ouvrir la page "Personnage-type" dans un autre onglet  
+
+(2) Ouvrir cette page en mode édition  
+
+(3) Ajouter un lien pour la nouvelle créature en suivant le format des autres liens et en indiquant le nom du PNJ / de la créature ainsi que son niveau entre parenthèses  
+
+(4) Sauvegarder la page modifiée  
+
+(5) Cliquer sur le lien rouge que vous venez d'ajouter et choisir de créer une nouvelle page  
+
+(6) Dans "Page Title", indiquer le nom du PNJ / de la créature  
+
+(7) Ouvrir le "Personnage-type" en mode édition ; copier-coller tout le code de la page dans la nouvelle page créée  
+
+(8) Modifier le code de la nouvelle page créée pour coller à la nouvelle créature  
+
+(9) Sauvegarder la page modifiée''
+
+
+### Autres ressources
+
+- Blog de Ron Lundeen, où il construit une campagne (niveau 1 -> 20) Pathfinder 2 : [lien](http://www.runamokgames.com/design-diary.php)

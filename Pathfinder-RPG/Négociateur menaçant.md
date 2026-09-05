@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Négociateur menaçant
+Title: Négociateur menaçant
+LastModified: 2023-01-18 16:36
+Categories:
+- Don
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Ceux que vous intimidez savent que vous allez mettre vos menaces à exécution.*
+
+**Conditions.** [Négociateur stressant](./Négociateur stressant.md), [Persuasion](./Persuasion.md), [Talent](./Talent.md) (Intimidation)
+
+**Avantages.** Lorsque le personnage réussit à utiliser la compétence [Intimidation](./Intimidation.md) pour forcer un adversaire à être amical envers lui, la durée du changement d'attitude est de 2d6 heures.
+
+**Normal.** Modifier l'attitude d'une créature avec l'[Intimidation](./Intimidation.md) passe normalement son attitude à amicale pendant 1d6×10 minutes.

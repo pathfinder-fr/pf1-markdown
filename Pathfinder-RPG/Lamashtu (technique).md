@@ -1,0 +1,72 @@
+---
+Name: Pathfinder-RPG.Lamashtu (technique)
+Title: Lamashtu
+LastModified: 2023-07-05 15:01
+Categories:
+- Divinité
+- Src Inner Sea Gods
+---
+
+{s:DieuTech|Lamashtu|Lamashtu,  
+La Mère des monstres|%2fPCUP%2fReligion-PNG%2fLamashtu.png|[Divinités principales](./Divinités.md#PRINCIPALES), [Seigneurs démons](./Divinités.md#SEIGNEURSDEMONS), [Divinités du Tian Xia](./Divinités.md#TIANXIA)
+|Chaotique Mauvais|Folie, cauchemars et monstres
+|cultes [humains](./Humain.md) secrets, déments, [derros](./Derro.md), [gnolls](./Gnoll.md), [gobelins](./Gobelin.md), [gobelours](./Gobelours.md), [harpies](./Harpie.md), [lamies](./Lamie.md), [méduses](./Méduse.md), [minotaures](./Minotaure.md), monstres, [morlocks](./Morlock.md), [ogres](./Ogre.md), parias|Chacal
+|[Cimeterre à deux mains](./cimeterre à deux mains (arme).md)
+|[Chaos](./Domaine du Chaos.md), [Duperie](./Domaine de la Duperie.md), [Folie](./Domaine de la Folie.md), [Force](./Domaine de la Force.md), [Mal](./Domaine du Mal.md)
+|[Cannibalisme](./Domaine du Mal.md), [Cauchemars](./Domaine de la Folie.md), [Corruption](./Domaine du Mal.md), [Démons (Chaos)](./Domaine du Chaos.md), [Démons (Mal)](./Domaine du Mal.md), [Émeutes](./Domaine du Chaos.md), [Férocité](./Domaine de la Force.md), [Insanité](./Domaine de la Folie.md), [Supercherie](./Domaine de la Duperie.md), [Vérité](./Domaine de la Folie.md), [Voleurs](./Domaine de la Duperie.md)
+|[Hérésie](./Inquisitions.md#HERESIE), [Oubli](./Inquisitions.md#OUBLI), [Possession](./Inquisitions.md#POSSESSION), [Vengeance](./Inquisitions.md#VENGEANCE)}{s:cs}{s:ISG}Lamashtu est la mère et la patronne de nombreuses créatures difformes et malformées qui rampent, glissent ou s'agitent sur, au-dessus ou au-dessous de la surface de Golarion. Son symbole impie est une tête de chacal à trois yeux, qui peut être représentée de multiples façons, et son animal sacré est le chacal.
+
+### Obédience
+Sacrifier une créature vivante non consentante au nom de la Mère des monstres. Faire durer le processus pour inspirer un maximum de terreur et de souffrance à la victime. Le coup mortel porté par le personnage doit être sauvage et destructeur - il ne doit pas accorder une mort digne à sa victime. Une fois la créature morte, retirer l'un de ses os et l'aiguiser. Utiliser l'os pour se couper assez profondément pour laisser une cicatrice. Abandonner la forme mutilée de la créature sacrifiée à l'air libre, là où les charognards pourraient la dévorer ou les voyageurs pourraient la voir et connaître le pouvoir de Lamashtu. Gain d'un bonus d'armure naturelle de +1 à la CA.
+
+#### Faveurs ([Obédience divine](./Obédience divine.md))
+**[Évangéliste](./Évangéliste.md) :**
+: **1.** ***Invocateur sauvage (Mag).*** *[convocation de monstres I](./Convocation de monstres I.md)* 3/jour, *[nuée grouillante](./Nuée grouillante.md)* 2/jour ou *[convocation d'alliés naturels III](./Convocation dalliés naturels III.md)* 1/jour.
+: **2.** ***Eidolon terrifiant (Sur).*** L'eidolon du personnage gagne l'évolution [présence terrifiante](./eidolon.md#PRESENCETERRIFIANTE) gratuitement, si le personnage le souhaite. Chaque fois qu'il prend un niveau dans la classe de [conjurateur](./Conjurateur.md) (ou dans la classe de prestige d'[évangéliste](./Évangéliste.md), si la classe alignée possède la capacité de classe [eidolon](./Conjurateur.md#EIDOLON)) et qui'il décide de réattribuer ses points d'évolution, il peut choisir de réattribuer ou de retirer l'évolution présence terrifiante. Une fois ce choix fait, il ne peut plus être modifié jusqu'à ce que le personnage prenne un niveau approprié. Si le personnage ne possède pas la capacité de classe eidolon, il gagne à la place la capacité de lancer *[convocation de monstres V](./Convocation de monstres V.md)* une fois par jour comme un [pouvoir magique](./Pouvoirs magiques (capacité).md).
+: **3.** ***Allié vicié (Mag).*** Une fois par jour par une [action simple](./Action simple.md), le personnage peut convoquer un [barégare](./Barégare.md). Le barégare suit parfaitement ses ordres pendant 1 minute par [Dé de vie](./DV.md) du personnage, avant de disparaître et de retourner aux Abysses. Le barégare ne suit pas les ordres qui le pousseraient à commettre des actes Bons, Loyaux ou autrement bénéfiques. De tels ordres leur valent non seulement dégout et mépris de la part du barégare, mais peuvent aussi l'amener à attaquer le personnage s'ils sont particulièrement flagrant.
+
+**[Exalté](./Exalté.md) :**
+: **1.** ***Terreur hurlante (Mag).*** *[frayeur](./Frayeur.md)* 3/jour, *[folle hallucination](./Folle hallucination.md)* 2/jour ou *[terreur](./Terreur.md)* 1/jour.
+: **2.** ***Pensées démentes (Sur).*** L'esprit du personnage est constamment assaillit par des chuchotements sombres et des pensées troublantes. Il obtient un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets mentaux de [coercition](./branche coercition.md) et contre les sorts et effets de [divination](./école divination.md) qui tentent de lire dans ses pensées. Quiconque cible le personnage avec un tel sort ou effet doit réussir un jet de [Volonté](./Volonté.md) (DD = 10 + le modificateur de [Sagesse](./Sagesse.md) du personnage + la moitié de son nombre de [DV](./DV.md)) ou subir 1d4 points d'[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de Sagesse.
+: **3.** ***Transformation monstrueuse (Mag).*** Une fois par jour, le personnage peut lancer *[métamorphose funeste](./Métamorphose funeste.md)*, excepté que la cible est changée en une forme horriblement mutée de l'animal choisi. La cible subit un malus de -4 à son [jet de sauvegarde](./JDS.md) pour résister au sort (si la nouvelle forme s'avère fatale pour la créature, elle bénéficie tout de même d'un bonus de +4 à son jet de sauvegarde, ce qui annule ce malus). En plus des autres effets du sort, le sujet souffre constamment de sa forme distordue et défigurée, et subit 1d6 points de dégâts [non létaux](./Blessures et mort.md#NONLETAL) chaque round. Cette agonie constante impose un malus de -2 à tous les tests de [caractéristique](./Caractéristiques.md) et de [compétence](./Compétences.md), ainsi qu'à tous les [jets d'attaque](./jet dattaque.md), [de dégâts](./Valeurs de combat.md#DEGATS) et [de sauvegarde](./JDS.md) de la cible.
+
+**[Sentinelle](./Sentinelle.md) :**
+: **1.** ***Combattant féroce (Mag).*** *[poing de pierre](./Poing de pierre.md)* 3/jour, *[endurance de l'ours](./Endurance de lours.md)* 2/jour ou *[morsure magique suprême](./Morsure magique suprême.md)* 1/jour.
+: **2.** ***Mâchoires bestiales (Ext).*** La mâchoire du personnage s'élargit légèrement et des canines proéminentes y apparaissent. Le personnage gagne une attaque de morsure qui inflige 1d4 points de dégâts s'il est de taille M ou 1d3 points de dégâts s'il est de taille P, plus la moitié de son modificateur de [Force](./Force.md). Lorsqu'elle fait partie d'une [attaque à outrance](./attaque à outrance.md), l'attaque de morsure est effectuée avec son [bonus de base à l'attaque](./BBA.md) - 5. Le personnage peut également effectuer une attaque de morsure dans le cadre de l'action visant à maintenir ou à se libérer d'une [lutte](./lutte.md). Cette attaque est résolue avant que le test de lutte ne soit fait. Si l'attaque de morsure touche, le personnage obtient un bonus de +2 à son test de lutte et à tout autre test de lutte contre la même créature lors de ce round.
+: **3.** ***Forme meurtrie (Sur).*** Le personnage est recouvert d'un épiderme armorié d'épaisses cicatrices. Il subit un malus de -2 aux tests de [Charisme](./Charisme.md) et aux tests de [compétence](./Compétences.md) basés sur le Charisme, mais gagne une [RD](./RD.md) 5/-. Si le personnage possédait déjà une réduction de dégâts impossible à ignorer (comme avec la capacité de classe [réduction de dégâts](./Barbare.md#REDUCTIONDEGATS) du barbare), il augmente cette réduction de dégâts de 5.
+
+#### Faveurs ([Obédience fiélonne](./Obédience fiélonne.md))
+**[Évangéliste](./Évangéliste.md) :**
+: **1.** ***Don du dément (Mag).*** *[confusion mineure](./Confusion mineure.md)* 3/jour, *[idiotie](./Idiotie.md)* 2/jour ou *[convocation de monstres III](./Convocation de monstres III.md)* 1/jour.
+: **2.** ***Tératome (Ext).*** Le personnage gagne une déformation bénéfique. En général, cette déformation se manifeste sous la forme d'un tentacule, d'une queue, d'une griffe ou d'une morsure qui lui confère une [attaque naturelle secondaire](./Attaques naturelles (capacité).md) infligeant 1d6 (1d4 s'il est de taille P) points de dégâts. Le personnage gagne également une attaque spéciale qui s'applique à cette attaque, choisie parmi la liste suivante : [croc-en-jambe](./Croc-en-jambe (capacité).md), [étreinte](./Étreinte (capacité).md), [saignement](./Saignement (capacité).md) (3), ou augmentation de l'allonge de 1.5 m.
+: **3.** ***Troisième œil (Sur).*** Un troisième œil s'ouvre sur le front du personnage. Cet œil lui confère une [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (s'il possédait déjà une vision dans le noir, l'œil augmente sa portée de 18 m) ainsi qu'un bonus de malfaisance de +4 aux tests de [Perception](./Perception.md). Trois fois par jour, le personnage peut, par une [action rapide](./Action rapide.md), activer une [attaque de regard](./Regard (capacité).md) qui dure 1 round. Cette attaque a une portée de 9 m et rend définitivement fou ceux qui ne parviennent pas à résister à ses effets grâce à un jet de [Volonté](./Volonté.md), comme avec le sort *[aliénation mentale](./Aliénation mentale.md)* (DD = 10 + le modificateur de [Charisme](./Charisme.md) du personnage + la moitié de son nombre de [DV](./DV.md)).
+
+**[Exalté](./Exalté.md) :**
+: **1.** ***Terreur hurlante (Mag).*** *[frayeur](./Frayeur.md)* 3/jour, *[folle hallucination](./Folle hallucination.md)* 2/jour ou *[eaux de Lamashtu](./Eaux de Lamashtu.md)* 1/jour.
+: **2.** ***Pensées démentes (Sur).*** L'esprit du personnage est constamment assaillit par des chuchotements sombres et des pensées troublantes. Il obtient un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets mentaux de [coercition](./branche coercition.md) et contre les sorts et effets de [divination](./école divination.md) qui tentent de lire dans ses pensées. Quiconque cible le personnage avec un tel sort ou effet doit réussir un jet de [Volonté](./Volonté.md) (DD = 10 + le modificateur de [Sagesse](./Sagesse.md) du personnage + la moitié de son nombre de [DV](./DV.md)) ou subir 1d4 points d'[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de Sagesse.
+: **3.** ***Transformation monstrueuse (Mag).*** Une fois par jour, le personnage peut lancer *[métamorphose funeste](./Métamorphose funeste.md)* par une [action rapide](./Action rapide.md), excepté que la cible est changée en une forme horriblement mutée de l'animal choisi. En plus des effets normaux du sort, la cible subit une agonie constante due à ses déformations qui lui impose un malus de -2 à tous les tests de [caractéristique](./Caractéristiques.md) et de [compétence](./Compétences.md), ainsi qu'à tous les [jets d'attaque](./jet dattaque.md), [de dégâts](./Valeurs de combat.md#DEGATS) et [de sauvegarde](./JDS.md).
+
+**[Sentinelle](./Sentinelle.md) :**
+: **1.** ***Combattant féroce (Mag).*** *[poing de pierre](./Poing de pierre.md)* 3/jour, *[endurance de l'ours](./Endurance de lours.md)* 2/jour ou *[morsure magique suprême](./Morsure magique suprême.md)* 1/jour.
+: **2.** ***Mâchoires bestiales (Ext).*** Le corps du personnage réagit à sa dévotion envers la Reine Démone, sa mâchoire s'élargit légèrement et des canines proéminentes y apparaissent. Le personnage gagne une attaque de morsure qui inflige 1d4 points de dégâts s'il est de taille M ou 1d3 points de dégâts s'il est de taille P, plus la moitié de son modificateur de [Force](./Force.md). Lorsqu'elle fait partie d'une [attaque à outrance](./attaque à outrance.md), l'attaque de morsure est effectuée avec son [bonus de base à l'attaque](./BBA.md) - 5. Le personnage peut également effectuer une attaque de morsure dans le cadre de l'action visant à maintenir ou à se libérer d'une [lutte](./lutte.md). Cette attaque est résolue avant que le test de lutte ne soit fait. Si l'attaque de morsure touche, le personnage obtient un bonus de +2 à son test de lutte et à tout autre test de lutte contre la même créature lors de ce round.
+: **3.** ***Forme meurtrie (Sur).*** Le personnage est recouvert d'un épiderme armorié d'épaisses cicatrices. Il subit un malus de -2 aux tests de [Charisme](./Charisme.md) et aux tests de [compétence](./Compétences.md) basés sur le Charisme, mais gagne une [RD](./RD.md) 5/-. Si le personnage possédait déjà une réduction de dégâts impossible à ignorer (comme avec la capacité de classe [réduction de dégâts](./Barbare.md#REDUCTIONDEGATS) du barbare), il augmente cette réduction de dégâts de 5.
+
+### Règles uniques aux suivants
+**Lancement de sorts ([druide](./Druide.md)).**
+• *[Métamorphose funeste](./Métamorphose funeste.md)* peut être préparé comme un sort de 5e niveau.
+
+**Lancement de sorts ([prêtre](./Prêtre.md)/[prêtre combattant](./Prêtre combattant.md)).**
+• *[Cauchemar](./sort Cauchemar.md)* peut être préparé comme un sort de 6e niveau.
+• *[Métamorphose funeste](./Métamorphose funeste.md)* peut être préparé comme un sort de 5e niveau.
+
+**Convocations étendues.**
+• *[Convocation de monstres III](./Convocation de monstres III.md).* [Worg](./Worg.md) [fiélon](./Archétypes.md#CREATUREFIELONNE) - CM
+• *[Convocation de monstres V](./Convocation de monstres V.md).* [Barghest](./Barghest.md) - CM (sous-type [Chaos](./sous-type Chaos.md) plutôt que [Loi](./sous-type Loi.md))
+• *[Convocation de monstres VIII](./Convocation de monstres VIII.md).* [Distordu](./Distordu.md) - CM
+• *[Convocation de monstres VIII](./Convocation de monstres VIII.md).* [Destrier noir](./Destrier noir.md) - NM
+• Les [druides](./Druide.md) et les [rôdeurs](./Rôdeur.md) peuvent utiliser les sorts de *[convocation d'alliés naturels](./Convocation dalliés naturels.md)* pour convoquer les animaux [fiélons](./Archétypes.md#CREATUREFIELONNE) d'une *[convocation de monstres](./Convocation de monstres.md)* de même niveau.
+
+### Options de personnage thématiques
+<div class="article_2col">
+*À VENIR*
+</div>

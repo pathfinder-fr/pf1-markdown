@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.immunité à la magie
+Title: immunité à la magie
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Immunité (capacité)

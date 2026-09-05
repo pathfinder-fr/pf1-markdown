@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Livre généalogique (objet)
+Title: Livre généalogique
+LastModified: 2021-09-16 21:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 50 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce recueil comprend des arbres généalogiques, des descriptions des traits communs que l'on trouve dans certaines familles nobles, des blasons, des rumeurs calomnieuses et des exploits ancestraux. Il donne aux lecteurs une vision très claire de l'aristocratie et un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) (noblesse).

@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Coeur du métal
+Title: Coeur du métal
+LastModified: 2022-06-12 01:30
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 3
+- Sort magus 3
+- Sort occultiste 3
+- Sort sorcière 3
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>terre<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [Sor](./Sorcière.md) 3  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)   
+
+**Composantes** [V, G, M](./composantes.md) (un morceau d’adamantium d’une valeur de 100 po ou un morceau de fer froid ou d’argent d’une valeur de 20 po)   
+
+**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))   
+
+**Cible** une arme par niveau   
+
+**Durée** 1 minute/niveau (cf. texte)   
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage dote les armes ciblées des propriétés de l’adamantium, du fer froid ou de l’argent, selon la composante matérielle utilisée, avec les effets suivants.
+- *Adamantium.* Les armes passent la RD/adamantium et ignorent les solidités inférieures à 20.
+- *Argent.* Les armes passent la RD/argent.
+- *Fer froid.* Les armes passent la RD/fer froid.
+
+Aucun des autres avantages ou inconvénients de ces types de métaux ne s’applique. Par exemple, une arme qui se voit octroyer les propriétés de l’adamantium ne sera pas automatiquement de maître. Ce sort est capable d’affecter les armes qui ne sont pas en métal. Si le personnage accorde aux armes ciblées la propriété de *fer froid*, le sort dure moitié moins longtemps que la normale.

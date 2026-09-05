@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Biscuit chinois (objet)
+Title: Biscuit chinois
+LastModified: 2021-09-22 17:01
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pc ; **Poids** —
+<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+---
+Ce biscuit est fait d’une pâte dure entortillée autour d’une petite bande de papier sur lequel est inscrite une maxime énigmatique.

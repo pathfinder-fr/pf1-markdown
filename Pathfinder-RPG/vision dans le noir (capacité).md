@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.vision dans le noir (capacité)
+Title: Vision dans le noir (Ext ou Sur)
+LastModified: 2024-08-27 19:11
+Categories:
+- Règle de monstres universelle
+- Src Bestiaire 4
+---
+
+{s:Desambi|Vision dans le noir est également le nom d'un [sort](./sort Vision dans le noir.md).}La vision dans le noir est un pouvoir extraordinaire offrant la possibilité de voir en l’absence de source de lumière. La portée est indiquée dans la description de chaque créature. La vision dans le noir se fait uniquement en noir et blanc (elle ne permet pas de distinguer les couleurs). Il est impossible de percevoir ce que l’on ne verrait pas sous un éclairage normal: les objets invisibles le restent et les illusions ne disparaissent pas. Elle rend vulnérable aux agressions de type attaques de [regard](./Regard.md). La présence de lumière n’entrave pas la vision dans le noir.
+
+#### Capacité de monstre
+Une créature dotée de vision dans le noir voit dans l’[obscurité totale](./Exploration.md), le plus souvent jusqu’à 18 mètres. Dans ce rayon, la créature voit aussi clairement qu’une créature avec une vision normale dans une zone de lumière vive. La créature voit en noir et blanc, mais cette capacité fonctionne par ailleurs comme une vision normale.
+
+*Format :* vision dans le noir à 18 m ; *Emplacement :* Sens

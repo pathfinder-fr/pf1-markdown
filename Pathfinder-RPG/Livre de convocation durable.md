@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Livre de convocation durable
+Title: Livre de convocation durable
+LastModified: 2024-06-12 20:49
+---
+
+<div class="BD">
+{s:BDTitre|Livre de convocation durable|{s:AE}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 17 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 750 po (inférieur), 2 750 po (intermédiaire), 6 126 po (supérieur) ; **Poids** 0.5 kg
+(((Description)))
+Les pages de ce livre à la couverture de cuir sont couvertes de runes évoquant les extérieurs et la magie d’invocation. Le livre augmente le potentiel des sorts de [convocation de monstres](./Convocation de monstres.md). Son utilisateur peut appliquer le don [Extension de durée](./Extension de durée.md) quand il lance un sort de ce type. Cela ne modifie pas l’emplacement du sort altéré. Le livre est considéré comme un [sceptre de métamagie](./Sceptre de métamagie.md) quand il s’agit d’associer plusieurs effets métamagiques à un sort. Un livre de convocation durable intermédiaire peut améliorer les sorts de niveau 6 ou moins, un livre inférieur les sorts de niveau 3 ou moins et un livre supérieur les sorts de niveau 9 ou moins. Chaque livre est associé à un alignement particulier (il y a autant de chances qu’il soit associé au Chaos, au Mal, au Bien ou à la Loi) et fonctionne uniquement lorsqu’il est utilisé pour convoquer une créature de cet alignement. Une fois utilisé, le livre s’effrite en une pile de cendres froides et il est détruit.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Extension de durée](./Extension de durée.md), [convocation de monstres I](./Convocation de monstres I.md) ; **Coût** 375 po (inférieur), 1 375 po (intermédiaire), 3 063 po (supérieur)
+</div>

@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Cornes de Naraga
+Title: Cornes de Naraga
+LastModified: 2024-06-18 17:18
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Cornes de Naraga|{s:AE}}
+**Aura** [Nécromancie](./Nécromancie.md) surpuissante ; **NLS** 22 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 4 kg
+(((Description)))
+Quand le porteur des *cornes de Naraga* touche une créature vivante (même si c’est en lançant un sort ou en portant une attaque de contact), ce contact inflige 5d6 points de dégâts d’énergie négative supplémentaires à la cible et le porteur récupère ces points de vie comme s’il avait lancé un *[baiser du vampire](./Baiser du vampire.md)*. Le porteur de ce casque est immunisé contre l’acide et voit parfaitement dans les ténèbres en tout genre, même magiques. Quand elles sont portées par une créature morte-vivante, les *cornes de Naraga* réduisent de moitié tous les dégâts d’énergie positive qu’elle reçoit.
+
+Une fois par jour, le porteur peut ordonner au casque de se transformer en un [vénérable dragon noir](./Dragon noir.md#_2) qui lui obéit sans poser de question pendant une heure avant de redevenir un casque. Le fait de tuer le dragon ne détruit pas le casque mais l’empêche de se transformer en dragon noir pendant une semaine. Quand le casque est sous forme de dragon, son porteur ne profite d’aucun avantage qu’il confère habituellement.
+
+<u>***Voir aussi l'[histoire et les implications de cet artefact](./../Golarion/Cornes de Naraga.md).***</u>
+(((Destruction)))
+On peut détruire les *cornes de Naraga* en les écrasant entre les mâchoires du crâne d’un vénérable dragon noir en plein milieu du désert quand le soleil est à son zénith.
+</div>

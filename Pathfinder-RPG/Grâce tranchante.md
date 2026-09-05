@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Grâce tranchante
+Title: Grâce tranchante
+LastModified: 2025-06-01 01:07
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:mca} *Le personnage peut poignarder ses ennemis avec son épée ou d’autres armes tranchantes.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Dex](./Dex.md) 13, [Attaque en finesse](./Attaque en finesse.md), [Arme de prédilection](./Arme de prédilection.md) (arme choisie).
+
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- Manuel des joueurs - Classes avancées.md#6) Grâce tranchante : Dans l'errata de la 2nde impression, que signifie exactement « Le personnage n'obtient pas les avantages de ce don lorsqu'il combat à deux armes, lorsqu'il utilise un déluge de coups, ou lorsqu'une autre main est autrement occupée. » ? Puis-je utiliser un bouclier ? Une targe ? Puis-je utiliser le déluge de coups ? Le déluge du lutteur ? Le combat à deux armes ? Le combat magique ? Une attaque avec une arme naturelle ? Que se passe-t-il si je lance l'arme ? Et comment fonctionne l’*élégance de l'épéiste* ?**'
+
+<u>[Grâce tranchante](./Grâce tranchante.md)</u> n'est pas compatible avec la plupart des boucliers, mais les [targes](./targe (armure).md) fonctionnent car elles n'occupent pas la main. Le [déluge de coups](./Moine.md#DELUGEDECOUPS), le [déluge de coups du lutteur](./Lutteur.md#DELUGEDECOUPSDULUTTEUR), le [combat à deux armes](./Actions spéciales.md#COMBAT2ARMES) et le [combat magique](./Magus.md#COMBATMAGIQUE) ne fonctionnent pas avec Grâce tranchante. Attaquer avec des armes naturelles au-delà de l'arme que le personnage utiliser avec Grâce tranchante ne fonctionne pas non plus. Grâce tranchante ne fonctionne qu'avec les attaques de corps à corps, et pas avec les attaques de jet avec une arme de corps à corps. L’*[élégance de l'épéiste](./Élégance de lépéiste.md)* devrait avoir une phrase supplémentaire indiquant que « La main qui tient une *élégance de l'épéiste* est considérée comme libre dans le cadre des capacités qui nécessite une main libre, bien que le personnage ne puisse pas tenir un autre objet dans cette main. »}**Avantage.** Le personnage choisit un type d’arme tranchante légère ou à une main (comme l’épée longue). Quand il manie cette arme à une main, il peut la traiter comme une arme de corps à corps perforante à une main pour tous les dons et pouvoirs de classe nécessitant une telle arme (comme l’attaque précise du bretteur ou du duelliste) et il peut ajouter son modificateur de [Dextérité](./Dextérité.md) plutôt que son modificateur de [Force](./Force.md) aux dégâts de cette arme. L’arme doit être appropriée à la taille du personnage.
+
+Le personnage n'obtient pas les avantages de ce don lorsqu'il combat à deux armes, lorsqu'il utilise un déluge de coups, ou lorsqu'une autre main est autrement occupée.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Le personnage peut dépenser 2 points d’endurance pour choisir une autre arme tranchante légère ou à une main qu’il considère comme l’arme choisie pour la Grâce tranchante jusqu’au début de son prochain tour.

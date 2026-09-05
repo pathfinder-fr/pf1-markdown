@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Chance insolente
+Title: Chance insolente
+LastModified: 2014-08-31 21:56
+Categories:
+- Don
+- Manuel des races
+- Règles officielles
+---
+
+{s:mr}*Parfois, le personnage parvient à ignorer des sorts et des attaques qui tueraient une créature moins puissante.*
+
+**Conditions.** [humain](./Humain.md).
+
+**Avantages.** Une fois par jour, une fois que le personnage a fait 1 à un [jet de sauvegarde](./jet de sauvegarde.md) ou que quelqu’un a confirmé un critique contre lui, il peut refaire son jet de sauvegarde ou obliger la créature qui a confirmé le critique à refaire son jet de confirmation. Cet effet ne se cumule pas avec d’autres effets qui permettent de refaire un [jet de sauvegarde](./jet de sauvegarde.md) ou un [jet d’attaque](./jet dattaque.md). Le personnage ne peut relancer le dé qu’une seule fois.
+
+**Spécial.** Si le personnage utilise le système de [points héroïques](./Points héroïques.md), il peut aussi dépenser 1 point d’héroïsme pour obliger un adversaire à relancer son jet de confirmation de coup critique contre lui.

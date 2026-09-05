@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Rhomphaia (arme)
+Title: Rhomphaia
+LastModified: 2021-10-01 16:11
+Categories:
+- Arme
+- Src Armes et équipement
+- Src Art de la guerre
+---
+
+{s:AE}{s:UC}**Prix** 15 po ; **Poids** 5 kg ; **Groupes** —
+**Dégâts** 1d6 (P), 2d4 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ou T ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE), [fragile](./Caractéristiques des armes.md#FRAGILE), [réception](./Caractéristiques des armes.md#RECEPTION)
+<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ([primitive](./Armes et armures primitives.md))
+; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+---
+Cette arme de l’Âge de bronze est une des premières armes d’hast se composant d’une longue lame à un tranchant fixée sur un solide bâton, parfois légèrement incurvée. Elle sert à la fois d’arme de taille et d’estoc.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Frappe structurelle
+Title: Frappe structurelle
+LastModified: 2023-01-18 16:23
+Categories:
+- Don
+- Don combat
+- Don panache
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous utilisez votre connaissance de la façon dont les choses s'assemblent pour trouver des moyens de percer les défenses de n'importe quel ennemi.*
+
+**Catégorie :** [combat](./Dons.md#DONCOMBAT), [panache](./Dons.md#DONPANACHE)
+
+**Conditions.** 5 rangs en [Connaissances](./Connaissances.md) (ingénierie), capacité de classe [attaque précise](./Duelliste.md#ATTAQUEPRECISE) ou exploit [attaque précise](./Exploits-(bretteur)-.md#ATTAQUEPRECISE)
+
+**Avantages.** Lorsqu'il utilise l'attaque précise du [bretteur](./Bretteur.md) ou du [duelliste](./Duelliste.md), le personnage peut porter une unique attaque par une [action simple](./Action simple.md) contre un adversaire qui serait autrement immunisé aux dégâts de son attaque précise. S'il touche, il inflige les dégâts de son attaque précise normalement contre cet adversaire. Lorsque le personnage utilise l'exploit attaque précise du bretteur, il peut dépenser 1 point de [panache](./Bretteur.md#PANACHE) par une [action rapide](./Action rapide.md) pour infliger les dégâts normaux de son attaque précise sur une unique attaque contre un adversaire qui devrait y être immunisé. Si le personnage possède les deux capacités, il peut utiliser n'importe laquelle des options afin d'appliquer les dégâts totaux des deux versions d'attaque précise.
+
+De plus, contre les adversaires avec une chance d'immunité contre l'attaque précise du personnage (comme un adversaire portant une arme avec la propriété spéciale *[défense](./défense légère (propriété).md)*), ce don réduit leur chance d'annuler l'attaque précise de 10 %.

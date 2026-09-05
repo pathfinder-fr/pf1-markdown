@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Skis (objet)
+Title: Skis
+LastModified: 2021-09-22 14:54
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** 10 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Les skis sont des planches en bois de 1,50 à 1,80 mètres de long pour un porteur de taille M, légèrement recourbées à l’avant, avec des rainures tracées sur la longueur de la semelle et un crochet en bois ou en métal à lacets sur la face supérieure, pour maintenir la chaussure du porteur. Les skis permettent de se déplacer sur la neige et la glace à vitesse normale mais la vitesse de déplacement du personnage est réduite à 1,50 mètre sur tous les autres terrains. Le personnage utilise normalement une paire de bâtons à pointe pour s’aider à avancer et garder son équilibre lorsqu’il skie mais on peut les remplacer par des [javelines](./javeline (arme).md), des [épieux](./épieu (arme).md), voire même des branches d’arbres taillées, si le personnage ne trouve rien de plus approprié. Il faut une [action complexe](./Action complexe.md) pour enfiler ou retirer un ski mais on peut couper les lacets par une [action de mouvement](./Action de mouvement.md) (il faudra alors les réparer ou les remplacer si le personnage veut réutiliser les skis).

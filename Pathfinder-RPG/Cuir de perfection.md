@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Cuir de perfection
+Title: Cuir de perfection
+LastModified: 2024-05-24 22:19
+Categories:
+- Objet mag
+- Objet mag armure
+- Src Inner Sea Gods
+---
+
+{s:divin|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png}<div class="BD">
+{s:BDTitre|Cuir de perfection|{s:ISG}}
+**Aura** [Divination](./école divination.md), [Nécromancie](./Nécromancie.md), et [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 3 860 po ; **Poids** 7,5 kg
+(((Description)))
+{s:cs}Cette *[armure de cuir](./armure de cuir (armure).md) +1* porte généralement le symbole de la main ouverte d'[Irori](./Irori (technique).md) au niveau du cou et des mantras méditatifs le long des manches. Le porteur peut utiliser *[assistance divine](./Assistance divine.md)*, *[fatigue](./Fatigue.md)* et *[poing de pierre](./Poing de pierre.md)* une fois par jour.
+(((Création)))
+**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[assistance divine](./Assistance divine.md)*, *[fatigue](./Fatigue.md)*, *[poing de pierre](./Poing de pierre.md)* ; **Coût** 2 010 po
+</div>

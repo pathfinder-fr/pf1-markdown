@@ -1,0 +1,51 @@
+---
+Name: Pathfinder-RPG.Dragonne
+Title: Dragonne
+LastModified: 2023-02-22 14:43
+Categories:
+- Monstre
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dragonne|FP 7}
+{s:pucem|Créature magique|Plaines|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3*}
+{s:BDTexte|**PX** 3 200}
+{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 20, contact 12, pris au dépourvu 17 (Dex +3, naturelle +8, taille -1)}
+{s:BDTexte|**pv** 76 (9d10+27)}
+{s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m, vol 9 m (médiocre)}
+{s:BDTexte|**Corps à corps** morsure, +13 (1d8+5) et 2 griffes, +13 (1d6+5)}
+{s:BDTexte|**Espace** 3 m ; **Allonge** 3 m}
+{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), rugissement}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 21, **Dex** 17, **Con** 17, **Int** 6, **Sag** 12, **Cha** 12}
+{s:BDTexte|**BBA** +9, **BMO** +15, **DMD** 27 (32 contre le [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +12, [Vol](./Vol.md) +5 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Langues** draconien}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** déserts tempérés}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou troupe (5-10)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Rugissement (Sur)** Une dragonne peut émettre un rugissement dévastateur tous les 1d4 [rounds](./round.md) en une [action simple](./Action simple.md). Toutes les créatures, exceptées d'autres dragonnes, situées dans un rayon de 24 cases doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 17 ou être [fatiguées](./Fatigué.md). Les créatures situées à 6 cases ou moins qui ratent leur [jet de sauvegarde](./jet de sauvegarde.md) deviennent [sourdes](./sourd.md) pendant 2d4 [rounds](./round.md). C'est un effet de son. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+</div>
+</td><td><div>*Cette créature ressemble à un lion mais possède les ailes et les écailles d'un dragon d'airain et une crinière sauvage de même couleur.*
+
+Les dragonnes combinent les instincts sauvages des lions avec la ruse des dragons d'airain, mêlant les caractéristiques les plus féroces de ces nobles créatures en une forme de prédateur à la fois mortel et effrayant.
+
+L'origine des dragonnes a fait couler beaucoup d'encre. Il n'y a que peu de chances pour que ces créatures proviennent du croisement entre des dragons et des lions et cela pour plusieurs raisons : ces deux créatures ne partagent que très rarement un même territoire, et peu de créatures aussi intelligentes que des dragons d'airain choisissent de se mélanger avec de simples lions ; de plus, les capacités des dragonnes diffèrent de manière significative de celles des dragons métalliques. Il reste bien évidemment possible qu'elles proviennent d'expériences de croisements effectuées par des êtres venus d'ailleurs ou encore d'accidents magiques mais rares sont les explications satisfaisantes qui ont fait surface.
+
+De nombreuses créatures craignent ces chasseurs féroces, et elles ont bien à raison, mais la plupart des dragonnes ne sont pas maléfiques : elles sont avant tout très protectrices de leur territoire et cherchent à défendre leur demeure et leur terrain de chasse contre les intrus. Les créatures qui s'aventurent trop près du repaire d'une dragonne sont généralement mis en garde par le féroce rugissement de la créature puis, si cela ne suffit pas à les décourager, elle recourt à ses griffes et ses crocs. Ceux qui tentent de s'établir sur le territoire d'une dragonne se voient constamment harassés jusqu'à ce qu'ils choisissent de partir ou que la dragonne soit tuée. Ces prédateurs intimidants passent la majorité de leur temps sur le sol, et ce même lorsqu'ils combattent, car leurs ailes ne leur permettent pas de voler très agilement. C'est généralement depuis les airs qu'ils partent en chasse d'intrus et de proies mais ils se posent ensuite avant de charger et de bondir sur leurs ennemis.
+
+Malgré leur dangerosité, les dragonnes peuvent former des liens très solides avec ceux qu'ils considèrent comme des membres de leur meute et en viennent même parfois à adopter des créatures d'autres races. Un personnage possédant le don [Prestige](./Prestige.md) peut prendre une dragonne comme compagnon d'arme. Le personnage doit avoir un niveau de prestige correspondant à un niveau 10. La plupart des compagnons d'arme dragonne gagnent des niveaux en tant que barbare, guerrier ou rôdeur.
+
+Une dragonne mesure entre 3 mètres et 3, 60 mètres de long et peut peser jusqu'à 600 kg.
+</td></tr></table>

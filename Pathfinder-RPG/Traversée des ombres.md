@@ -1,0 +1,38 @@
+---
+Name: Pathfinder-RPG.Traversée des ombres
+Title: Traversée des ombres
+LastModified: 2022-07-05 22:04
+Categories:
+- Règle officielle
+- Sort
+- Sort alchimiste 6
+- Sort barde 5
+- Sort hypnotiseur 5
+- Sort magicien 6
+- Sort spirite 6
+- Src Manuel des joueurs
+---
+
+**École** [Illusion](./Illusion.md) ([ombre](./branche ombre.md)) <nowiki>[</nowiki>[ombre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 6, [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Spi](./Spirite.md) 6  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cibles** jusqu’à 1 créature touchée/[niveau](./niveau.md)  
+
+**Durée** 1 heure/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+On ne peut faire appel à ce sort que dans une zone de faible luminosité. Le lanceur de sorts et ceux qu’il touche sont alors transportés par une voie d’ombre jusqu’en bordure du [plan Matériel](./plan Matériel.md), à proximité du [plan de l’Ombre](./Plans.md). L’effet du sort est principalement illusoire, mais la voie empruntée est quasi-réelle. Le personnage peut emmener plusieurs compagnons avec lui, à condition que tous se touchent au moment de l’incantation.
+
+La région d’ombre atteinte permet de se déplacer à une vitesse de 75 km/h, en évoluant normalement aux frontières du [plan de l’Ombre](./plan de lombre.md) mais cela correspond à une vitesse bien plus élevée dans le [plan Matériel](./plan Matériel.md). Le personnage peut donc utiliser cette incantation pour se rendre dans le [plan de l’Ombre](./plan de lombre.md), se déplacer rapidement et revenir dans le [plan Matériel](./plan Matériel.md) après avoir parcouru une distance considérable.
+
+À cause du flou qui existe entre le [plan de l’Ombre](./plan de lombre.md) et le [plan Matériel](./plan Matériel.md), le personnage ne peut pas discerner les détails topographiques des régions qu’il traverse, tout comme il ne saurait dire où se terminera son périple. Il ne peut pas estimer les distances avec précision, ce qui empêche de se servir de ce sort pour faire de la reconnaissance ou de l’espionnage. Au terme du sort, le personnage est éjecté à 1d10x30 mètres dans une direction horizontale aléatoire par rapport à l’endroit recherché. Si cela doit le faire apparaître dans un objet solide, il est repoussé de 1d10x30 mètres dans la même direction. Si cela devait à nouveau le faire apparaître dans un objet solide, le personnage et tous ses compagnons sont éjectés vers l’espace libre le plus proche, mais ils sont alors [fatigués](./Fatigué.md) (pas de [jet de sauvegarde](./jet de sauvegarde.md)).
+
+*Traversée des ombres* permet également de se rendre dans les plans jouxtant le [plan de l’Ombre](./plan de lombre.md), mais pour cela, il faut s’aventurer dans ce plan pour gagner la frontière qu’il partage avec un autre. Le passage par le [plan de l’Ombre](./plan de lombre.md) prend 1d4 heures.
+
+Toute créature touchée par le lanceur de sorts au moment de l’incantation est emportée avec lui. Elle peut choisir de suivre le lanceur de sorts, errer seule dans le [plan de l’Ombre](./plan de lombre.md) ou rentrer à tâtons dans le [plan Matériel](./plan Matériel.md) (50% de chances qu’elle erre et 50 % qu’elle rentre dans le [plan Matériel](./plan Matériel.md) si le personnage l’abandonne ou si elle se perd). Les créatures refusant d’accompagner le mage ont droit à un jet de [Volonté](./Volonté.md). En cas de succès, elles résistent à l’effet du sort.

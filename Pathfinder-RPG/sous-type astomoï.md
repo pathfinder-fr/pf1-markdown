@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.sous-type astomoï
+Title: Astomoï (sous-type)
+LastModified: 2020-12-01 18:02
+Categories:
+- Src Bestiaire 5
+---
+
+{s:MenuTypes}*Source : Bestiaire 5* p.313
+
+Ce sous-type s’applique à tous les [astomoïs](./Astomoï.md) et créatures apparentées.

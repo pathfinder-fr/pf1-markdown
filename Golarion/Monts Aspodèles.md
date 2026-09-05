@@ -1,0 +1,24 @@
+---
+Name: Golarion.Monts Aspodèles
+Title: Monts Aspodèles
+LastModified: 2021-08-27 20:11
+Categories:
+- Andoran
+- Géographie
+---
+
+Les Monts Asphodèles forment la frontière occidentale entre l'[Andoran](./Andoran.md) et son rival [Chéliax](./Chéliax.md). Contrairement aux [montagnes des Cinq Rois](./montagnes-des-Cinq-Rois.md) au nord de l'Andoran, les Asphodèles ne sont pas une chaîne particulièrement haute, mais leurs plus hauts sommets sont connus pour atteindre plus de 2 700 mètres de haut. Les pentes escarpées des montagnes forment une frontière substantielle entre l'Andoran et le Chéliax, avec un seul passage praticable, la [croisée des Aspodèles](./croisée-des-Aspodèles.md), dominé par la ville fortifiée de [Falaise de Piren](./Falaise de Piren.md). Comme les montagnes riches en fer sont revendiquées par les deux nations voisines, l'Andoran maintient également une présence militaire dans la croisée des Aspodèles, bien que le reste des montagnes soit peu habité, infesté de monstres et ne soit pas connu pour détenir d'importantes richesses minérales.<sup>(1)</sup><sup>(2)</sup>
+
+**Communautés.** [Falaise de Piren](./Falaise de Piren.md).
+**Points dintérêts.** [Cavernes de Pierrechandelle](./Cavernes de Pierrechandelle.md), [Chutes de cristal](./Chutes de cristal.md).
+
+#### Histoire
+Les Monts Aspodèles ont été le théâtre d'une campagne militaire entière, appelée la campagne des Aspodèles, menée pendant les guerres expansionnistes du [Taldor](./Taldor.md). Après que la Quatrième Armée d'exploration eut nettoyé les plaines et créé la province taldorienne d'Andoran en 1707 AR, les tribus [kellides](./Kellides.md) locales vivant dans les monts Aspodèles continuèrent à résister aux envahisseurs pendant plus de 400 ans. Les attaques de ces nations montagnardes se sont poursuivies jusqu'en 2133 AR, lorsque la Septième Armée d'exploration a vaincu la plus puissante tribu kellide s'opposant au règne du Taldor, les [Isgeri](./Isger.md).<sup>(3)</sup>
+
+
+### Références
+**1.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 8. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.11
+
+**2.** Tim Hitchcock et Jason Nelson dans *[Andoran, Birthplace of Freedom](https://paizo.com/products/btpy99gi)* en 2015, p. 21. Paizo Inc.
+
+**3.** Mark Moreland dans *[Taldor, the First Empire](https://paizo.com/products/btpy9sxj)* en 2017, p. 9. Paizo Inc.

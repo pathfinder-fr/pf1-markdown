@@ -1,0 +1,52 @@
+---
+Name: Golarion.Harsk
+Title: Harsk
+LastModified: 2022-10-22 20:56
+Categories:
+- Personnalité
+---
+
+<p class="description">**Source** : [blog Paizo](http://paizo.com/paizo/blog/tags/meetTheIconics/v5748dyo5la3q) ; **Auteur** : James Sutter</p>
+
+{s:ImageDroite|/Illustrations/PNJ/Harsk.jpg|45%}Tout les nains ne sont pas destinés à travailler à la mine. Lorsqu'il était jeune, Harsk dépensait chaque moment de temps libre, en pleine air, sous le ciel immense du sud-est Varisien, particulièrement la nuit sous les étoiles, grâce à sa vue perçante, il devenait un chasseur hors pair.  Bien que généralement, il ne s'intéressait pas aux traditions familiales, comme les travaux manuels, son héritage génétique lui suffit pour construire sa propre arbalète, une lourde, une arme de haute précision, que peu de gens sont capables de faire fonctionner correctement. Il évitait ses semblables, d'ailleurs peu de chose le rendait aussi heureux, que d'être accroupi dans un bois avec son arbalète, en écoutant le vent dans les feuilles des arbres en attendant un cerf ou une proie plus grosse qui errait dans le coin.
+
+Tout cela a changé, il y a de cela vingt ans, quand son frère ainé, un excellent capitaine nommé Sigur, dirigea une bande de guerriers nain venant de [Janderhoff](./Janderhoff.md) contre un petit groupe de géants qui était descendu des [Monts de l'Esprit](./Monts-de-lEsprit.md) pour faire des raids dans la plaine et piller à tout va. Hors l'affection qui lui portait,  Sigur proposa à son frère moins expérimentés de venir avec lui, comme éclaireur, pour avoir la chance de prouver qu'il pouvait seconder son frère.. Calme et paisible de nature, Harsk, refusa, ne voyant pas l'honneur que lui faisait son frère, il ne comprit cela que plusieurs jours après que la compagnie soit partie.  Voyageant léger et rapidement, Harsk rattrapa son frère rapidement... Mais pas assez vite. Sous-estimant la taille et la qualité du groupe de Géant, Sigur conduit sa bande en plein dans une embuscade, il n'y eu aucun survivant.
+
+Avec le sang de son frère, encore frais sur ses mains, Harsk devint fou de rage, Cette nuit-là, il s'avança dans le camp des géants comme un fantôme vengeur, les tuant les uns après les autres avec son arbalète en se fondant dans la forêt, disparaissant et réapparaissant ailleurs, tirant sur une autre victime, à chaque apparition. Lorsque le dernier géant s'écroula dans la poussière, Harsk prit la hache de son frère et glissa dans les arbres, s'engageant à tout jamais a devenir la voix de la justice, dans les endroits sauvages, de garder un certain équilibre et d'éviter le sacrifice d'hommes nobles comme son frère.
+
+Harsk, comme beaucoup de ses semblables, est bourru et taciturne, mais il a mis fin avec la plupart des liens qu'il avait avec la société naine. Il est solitaire, et préfère  passer son temps à l'extérieur, communiant avec la nature, mais en certaines occasions, il peut se rendre dans d'autres endroits, s'il a de bonnes raisons. Il ne boit pas de bière, il préfère un bon thé bien chaud pour garder ses sens aiguisés, malgré le stéréotype pour les humains qui voudrait que tout nain soit un buveur de bière. Il ne perd jamais de vue la hache de son frère, il s'en sert en dernier recours, sachant que ses qualités sont plutôt dans la chasse et le fait de disparaître dans l'obscurité.
+
+<table width="100%"><tr style="vertical-align: top"><td width="49%">
+<center>
+<div class="BD">
+{s:BDTitre|Harsk|(niveau 1)}
+- Nain (m) rôdeur 1
+- Humanoïde (nain) de taille M, LN
+- **Divinité** [Torag](./Torag.md)
+- **Origine** [Druma](./Druma.md)
+- **Init** +3 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 12 cases, [Perception](./../Pathfinder-RPG/Perception.md) +6
+(((Défense)))
+- **CA** 15, **contact** 13, **dépourvu** 12 (armure +2, Dex +3)
+- **pv** 12 (1d10+2)
+- **Réf** +5, **Vig** +4, **Vol** +2 ; +2 contre les poisons, les sorts et les pouvoirs magiques
+(((Attaque)))
+- **Vitesse** 4 cases
+- **Corps à corps** grande hache +3 (1d12+3/×3)
+- **Distance** arbalète lourde +4 (1d10/19–20)
+
+</div>
+</center>
+</td><td width="2%"></td><td width="49%">
+<center>
+<div class="BD">
+(((Caractéristiques)))
+- **For** 14, **Dex** 16, **Con** 15, **Int** 10, **Sag** 14, **Cha** 6
+- **BBA** +1 ; **BMO** +3 ; **DMD** 16 (20 contre le croc-en-jambe et la bousculade)
+- **Don** [Rechargement rapide](./../Pathfinder-RPG/Rechargement rapide.md) (arbalète lourde)
+- **Compétences** [Connaissances](./../Pathfinder-RPG/Connaissances.md) (géographie) +4, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +4, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +6, [Dressage](./../Pathfinder-RPG/Dressage.md) +2, [Perception](./../Pathfinder-RPG/Perception.md) +6, [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) +6, [Survie](./../Pathfinder-RPG/Survie.md) +6
+- **Langues** commun, nain
+- **Équipement de combat** antitoxine, bâton fumigène, sacoche immobilisante ; **Autre équipement** armure de cuir, grande hache, arbalète lourde avec 30 carreaux, *anneau de dextérité +1*, sac à dos, rations (4), sifflet, théière, 31 po
+
+</div>
+</center>
+</td></tr></table>

@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Anneau d’audace pure
+Title: Anneau d’audace pure
+LastModified: 2024-05-25 17:12
+Categories:
+- Objet mag
+- Objet mag anneau
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Anneau d’audace pure|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) et [Évocation](./Évocation.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 6 840 po ; **Poids** —
+(((Description)))
+Cet anneau est forgé à partir de balles d’arme à feu fondues, d’où son côté à la fois rudimentaire et impressionnant. Deux fois par jour, par une action libre, lorsque le porteur regagne de l’audace, il peut décider de la stocker dans son anneau d’audace pure plutôt que de regagner des points d’audace. Il peut ainsi stocker un maximum de 2 points d’audace dans l’anneau. Il peut les dépenser de l’une des manières suivantes. Une fois par jour, sans avoir besoin de dépenser d’action, le porteur peut dépenser 1 point d’audace stocké dans l’anneau pour bénéficier d’un bonus d’intuition de +2 en initiative. Une fois par jour, par une action simple, le porteur peut dépenser 2 points d’audace stockés dans l’anneau pour activer un *[bouclier pare-balles](./Bouclier pare-balles.md)*, comme le sort (L’Art de la guerre). Tous les points d’audace stockés dans l’anneau disparaissent en début de journée.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[anticipation du danger](./Anticipation du danger.md)*, *[bouclier pare-balles](./Bouclier pare-balles.md)*, le créateur doit avoir la capacité de classe audace ; **Coût** 3 420 po
+</div>

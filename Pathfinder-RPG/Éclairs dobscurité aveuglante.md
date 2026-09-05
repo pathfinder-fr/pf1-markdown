@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Éclairs dobscurité aveuglante
+Title: Éclairs d'obscurité aveuglante
+LastModified: 2022-06-12 18:02
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 3
+- Sort magus 3
+- Sort sanguin 3
+- Sort sorcière 3
+- Src Manuel des races
+---
+
+{s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}{s:MR}
+**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ombre ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** V, G  
+
+**Portée** moyenne (30 m + 3 m/niveau)  (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+
+**Effet** un éclair d’énergie ou plus  
+
+**Durée** instantanée  
+
+**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour annuler ; voir description ; **Résistance à la magie** oui
+
+Le lanceur de sorts crée un ou plusieurs éclairs d’énergie négative investis d’ombre originaires du plan de l’Ombre.
+
+Il peut tirer un éclair plus un par tranche de quatre niveaux au-delà du 5e (jusqu’à un maximum de trois éclairs au niveau 13) sur une même cible ou plusieurs, mais tous les éclairs doivent être lancés sur des cibles situées dans un rayon de 9 m (6 {s:c}) l’une de l’autre et nécessitent une attaque de contact à distance pour toucher. Chaque éclair inflige 4d6 points de dégâts aux créatures vivantes ou soignent 4d6 points de dégâts aux créatures mortes-vivantes.
+
+De plus, l’énergie de l’éclair se diffuse sur la peau de la créature, ce qui peut l’aveugler pour un court moment. Une créature touchée par un éclair doit réussir un jet de [Réflexes](./Réflexes.md) ou être [aveuglée](./Aveuglé.md) pendant 1 round.

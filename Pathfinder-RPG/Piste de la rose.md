@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Piste de la rose
+Title: Piste de la rose
+LastModified: 2023-07-26 16:54
+Categories:
+- Sort
+- Sort barde 2
+- Sort prêtre 2
+- Src Dieux et magie
+---
+
+{s:divin|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png}{s:GeM}**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) ; **Niveau** [Bard](./Barde.md) 2, [Prê](./Prêtre.md) 2
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** contact
+**Cible** une rose touchée
+**Durée** 1 heure/[niveau](./niveau.md) (T)
+**Jet de sauvegarde** non ; **Résistance à la magie** non
+
+Ce sort crée une piste illusoire qui prend la forme d’une fragrance brumeuse et visible, venant de la rose utilisée en composante matérielle du sort. Lorsque le personnage lance ce sort, le parfum de la rose laisse une légère illusion teintée de rose qui ondoie et flotte dans la zone. Seuls le personnage et jusqu’à six créatures qu’il désigne au moment où il lance le sort, peuvent la voir. Le personnage doit bien connaître les créatures qu’il désigne, et pas seulement les avoir rencontrées ou en avoir entendu parler une fois. Lorsque le personnage se déplace, ce parfum illusoire laisse une piste, bien qu’il n’y ait aucun signe révélateur de la direction qu’il a prise si les créatures désignées par le sort perdent la piste à un moment. Le sort est généralement utilisé par les alliés triés sur le volet du lanceur pour revenir sur leurs pas. Il est également utile pour se déplacer dans des labyrinthes ou des complexes souterrains labyrinthiques sans laisser derrière soi une piste visible.

@@ -1,0 +1,12 @@
+---
+Name: Golarion.Bordure
+Title: Bordure [The Border]
+LastModified: 2010-01-09 15:06
+Categories:
+- Géographie
+- Taldor
+---
+
+Petite forêt du sud du [Taldor](./Taldor.md).
+
+Elle est située à cheval sur les berges du fleuve [Jalrune](./Jalrune.md).

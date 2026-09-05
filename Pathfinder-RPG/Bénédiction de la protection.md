@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction de la protection
+Title: Bénédiction de la protection
+LastModified: 2024-12-11 00:27
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Défense améliorée *(mineur)*
+Au niveau 1, le prêtre combattant obtient un bonus de sainteté de +1 aux [jets de sauvegarde](./JDS.md) et à la [CA](./CA.md) pendant une minute. Ce bonus passe à +2 au niveau 10 et à +3 au niveau 20.
+
+#### Aura de protection *(majeur)*
+Au niveau 10, le prêtre combattant peut émettre une aura de protection de 9 mètres (6 {s:c}) pendant 1 minute. Le prêtre et les alliés situés au sein de cette aura gagnent une résistance de 10 contre l’acide, le froid, l’électricité, le feu et le son. Au niveau 15, cette résistance passe à 20.

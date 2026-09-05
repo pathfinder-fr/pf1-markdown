@@ -1,0 +1,148 @@
+---
+Name: Pathfinder-RPG.Artisanat
+Title: Artisanat
+LastModified: 2024-07-24 05:12
+Categories:
+- Compétence
+---
+
+{s:MenuCompétences}
+
+**Caractéristique associée** : [Intelligence](./Intelligence.md)
+
+**Formation nécessaire** : non
+
+*Le personnage est entraîné à créer un type spécifique d’objets (comme les armures ou les armes).*
+
+Comme [Connaissances](./Connaissances.md), [Profession](./Profession.md) ou [Représentation](./Représentation.md), la compétence d’Artisanat regroupe en fait plusieurs compétences distinctes. Chaque personnage peut posséder plusieurs compétences d’Artisanat et investir des points de compétences séparément dans chacune d’elles. Les compétences d’Artisanat les plus courantes sont les suivantes :
+
+alchimie, arcs, armes, armures, bijoux, calligraphie, constructions en bois (ou menuiserie), constructions en pierre, engins de siège, étoffes, joaillerie, livres, mécanique (ou mécanismes à engrenages), navires, paniers, peintures, pièges, poteries, sculptures, serrures, souliers, travail du cuir, travail de la forge (ou ferronnerie), travail du verre et vêtements.
+
+Chaque forme de la compétence d’Artisanat vise à créer quelque chose. Si un travail n’a pas pour résultat final la production de quelque chose, c’est sans doute plutôt une forme de Profession.
+
+### Test de compétence
+Le personnage peut vivre de son artisanat, auquel cas il gagne un nombre de pièces d’or égal à la moitié du résultat de son [test de compétence](./test de compétence.md) pour chaque semaine entièrement consacrée au travail. Il sait comment utiliser au mieux les outils de sa spécialité, accomplir les tâches habituelles, superviser le travail de la main-d’œuvre et régler les problèmes courants (les assistants et ouvriers non-qualifiés sont payés en moyenne 1 pa par jour).
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#28) Multiplicateurs de coût pour les objets : Lorsqu’un objet a un multiplicateur de coût, par exemple pour sa taille, sa forme inhabituelle, ou sa composition, est-ce qu’il s’applique avant ou après les coûts additionnels comme celui d’un objet de maître ou de l’utilisation d’un matériau spécial ?***
+
+On ajoute d’abord le coût total de l’objet de base, en incluant tout matériau spécial. Puis on le multiplie par tout multiplicateur impliquant la taille et la forme inhabituelle sur la [table 6-8](./Caractéristiques des armures.md#ARMURESINHABITUELLES). Ensuite, on ajoute le coût additionnel d’un objet de maître, s’il ne fait pas déjà partie du matériau spécial. Enfin, on applique tout multiplicateur pour la réduction de prix comme le multiplicateur de coût de 1/3 d’une fabrication d’objet. Par exemple, une [chemise de mailles](./chemise de mailles (armure).md) coûte 100 po et une chemise de mailles en [mithral](./mithral.md) coûte 1.100 po après l’ajout de +1.000 po pour le mithral. Si on applique le multiplicateur de coût de 1/3 d’une fabrication d’objet avec la compétence <u>[Artisanat](./Artisanat.md)</u>, le multiplicateur de coût de la table 6-8 basé sur la taille et le type de carrure, ou les deux, on applique ces multiplicateurs au coût total de 1.100 po de la chemise de mailles en mithral. Cela signifie qu’une chemise de mailles en mithral fabriquée pour un géant des runes coûte 8.800 po et une chemise de mailles en mithral fabriquée pour la tarasque coûte 35.200 po. D’autre part, une [épée à deux mains](./épée à deux mains (arme).md) de taille G de maître en [fer froid](./fer froid.md) coûte 500 po (50 po pour l’épée à deux mains, doublé pour le fer froid, doublé à nouveau pour la taille G, puis additionné au coût d’une arme de maître en dernier puisqu’il n’est pas inclus dans le fer froid).}Mais l’utilité principale de cette compétence est de permettre au personnage de fabriquer un objet correspondant à la branche d’artisanat choisie. Le [DD](./DD.md) dépend de la complexité de l’objet créé. Le temps nécessaire à la fabrication est déterminé par le [DD](./DD.md), le résultat du test de compétence et le prix de l’objet (ce dernier indique également le prix des matières premières nécessaires à la fabrication de l’objet).
+
+Dans certains cas, il est possible d’utiliser le sort *[fabrication](./Fabrication.md)* pour obtenir le même résultat que si on avait utilisé la compétence d’Artisanat, mais sans qu’aucun test soit nécessaire. Dans le cas d’objets requérant une grande maîtrise, il reste cependant nécessaire de réussir un test d’Artisanat.
+
+Lorsqu’il est utilisé en conjonction avec une forme d’Artisanat liée au travail du bois (et que le test de compétence est réussi), le sort *[bois de fer](./Bois de fer.md)* permet de créer des objets en bois aussi résistants que l’acier.
+
+Le sort *[création mineure](./Création mineure.md)* requiert un test d’Artisanat réussi (utilisant la forme d’artisanat adéquate) pour créer un objet complexe.
+
+Quelle que soit la spécialité choisie, il est conseillé d’utiliser les outils d’artisan appropriés. Dans le cas où le personnage se sert d’outils improvisés ou de qualité inférieure, il subit un malus de circonstances de -2 au test de compétence. À l’inverse, s’il dispose d’[outils de maître artisan](./Trousses doutils et de compétences.md#Outils d'artisan), il bénéficie d’un bonus de circonstances de +2.
+
+Pour déterminer le temps et le coût de fabrication d’un objet, il faut suivre les étapes suivantes :
+
+:: 1. Trouver le prix de l’objet en pièces d’argent (1 po vaut 10 pa).
+
+:: 2. Trouver le [DD](./DD.md) correspondant à l’objet dans la table ci-après.
+
+:: 3. Dépenser un tiers du prix de l’objet pour acheter les matières premières.
+
+:: 4. Effectuer un test sous la compétence appropriée, lequel représente une semaine de travail. Si le test réussit, multipliez son résultat par le [DD](./DD.md). Si le produit obtenu est égal ou supérieur au prix de l’objet en pa, l’objet est terminé (si le produit obtenu est le double ou le triple du prix, l’objet est terminé en deux ou trois fois moins de temps, etc.). Si le produit obtenu n’atteint pas le prix de l’objet, le travail n’est pas terminé. Notez le produit calculé puis faites un nouveau test d’Artisanat pour la semaine suivante. Le processus se poursuit ainsi de semaine en semaine jusqu’à ce que le total atteigne ou dépasse le prix de l’objet.
+
+:: En cas de test de compétence raté de 1 à 4 points, la fabrication de l’objet ne progresse pas de toute la semaine. Si le test est raté d’au moins 5 points, la moitié des matières premières sont gâchées : il faudra donc payer à nouveau la moitié de la somme versée pour celles-ci.
+
+**Progression quotidienne.** Il est possible de déterminer le travail accompli chaque jour plutôt que chaque semaine. Dans ce cas, le total (résultat du test de compétence × DD) doit être divisé par le nombre de jours d’une semaine.
+
+{s:Reference|OBJETMAITRE}
+**Fabrication d’objets de maître ou de qualité supérieure.** Le personnage peut fabriquer un objet de maître (c’est-à-dire une [arme de maître](./arme de maître.md), une [armure de maître](./armure de maître.md), un [bouclier de maître](./armure de maître.md) ou des [outils](./Trousses doutils et de compétences.md) si bien réalisés qu’ils procurent un bonus à leur utilisateur). Pour ce faire, le personnage crée l’aspect « de maître » à part, comme s’il s’agissait d’un objet distinct. Cet aspect possède son propre prix (300 po pour une arme de maître, 150 po pour une armure ou un bouclier de maître ; voir la liste des prix des autres objets de maître [ici](./Marchandises et services.md)) et son propre [DD](./DD.md) d’Artisanat, qui est de 20. Une fois l’objet standard et l’aspect « de maître » terminés, l’objet de maître est fabriqué. Le prix à acquitter pour l’aspect « de maître » est égal à un tiers du prix indiqué, exactement comme pour les matières premières.
+
+{s:Reference|REPARATIONDOBJET}
+**Réparation d’objets.** En règle générale, on répare un objet en réussissant un [test de compétence](./test de compétence.md) dont le [DD](./DD.md) est le même que celui de la fabrication. Le coût de la réparation se monte à un cinquième du prix de l’objet.
+
+{| CLASS="tablo centre autoalt"
+|+ Formes d’Artisanat
+|- CLASS="titre"
+| Objet || Forme d’artisanat || DD du test d’Artisanat
+|- CLASS="premier"
+| [acide](./Armes alchimiques.md#Acide) || alchimie || 15
+|-
+| [allume-feu](./Outils alchimiques.md#Allume-feu), [bâton fumigène](./Outils alchimiques.md#Bâton fumigène) ou [feu grégeois](./Armes alchimiques.md#Feu grégeois) || alchimie || 20
+|-
+| [antitoxine](./Remèdes alchimiques.md#Antitoxine), [bâton éclairant](./Outils alchimiques.md#Bâton éclairant), [pierre tonnerre](./Armes alchimiques.md#Pierre tonnerre) ou [sacoche immobilisante](./Armes alchimiques.md#Sacoche immobilisante) || alchimie || 25
+|-
+| [armure ou bouclier](./Tableau récapitulatif des armures.md) || armures || 10 + bonus de [CA](./CA.md)
+|-
+| [arc long, arc court ou flèches](./Tableau récapitulatif des armes.md) || arcs || 12
+|-
+| [arc long composite ou arc court composite](./Tableau récapitulatif des armes.md) || arcs || 15
+|-
+| [arc long composite ou arc court composite avec une limite de Force](./Tableau récapitulatif des armes.md) || arcs || 15 + (2 × limite)
+|-
+| [piège mécanique](./Conception de pièges.md) || pièges || variable*
+|-
+| [arbalète ou carreaux](./Tableau récapitulatif des armes.md) || armes || 15
+|-
+| [arme courante](./Tableau récapitulatif des armes.md) (corps à corps ou à distance) || armes || 12
+|-
+| [arme de guerre](./Tableau récapitulatif des armes.md) (corps à corps ou à distance) || armes || 15
+|-
+| [arme exotique](./Tableau récapitulatif des armes.md) (corps à corps ou à distance) || armes || 18
+|-
+| objet très simple (cuillère en bois) || variable || 5
+|-
+| objet courant (pot de fer) || variable || 10
+|-
+| objet de qualité (cloche) || variable || 15
+|-
+| objet complexe ou de qualité supérieure (serrure) || variable || 20
+|-
+| Arme fragile
+| Arme ou arc normal
+| -5
+|-
+| Arme à feu à une main
+| Arme à feu
+| 20
+|-
+| Arme à feu à deux mains
+| Arme à feu
+| 20
+|-
+| Arme à feu de siège lourde
+| Arme à feu
+| 25
+|-
+| Arme à feu de siège intermédiaire
+| Arme à feu
+| 30
+|-
+| Arme à feu de siège légère
+| Arme à feu
+| 35
+|-
+| Engin de siège à distance léger
+| Engin de siège
+| 20
+|-
+| Engin de siège à distance intermédiaire
+| Engin de siège
+| 25
+|-
+| Engin de siège à distance lourd
+| Engin de siège
+| 30
+|-
+| COLSPAN="3" CLASS="note" | *(*) Des règles spécifiques régissent la création des [pièges](./Conception de pièges.md).*
+|}
+
+### Action
+
+**Sans objet.** Les tests d’Artisanat se font à la semaine ou à la journée (voir ci-dessus).
+
+### Nouvelles tentatives
+
+Oui, mais chaque fois que le test est raté d’au moins 5 points, la moitié des matières premières sont gâchées et il faut les racheter.
+
+### Spécial
+
+Le personnage peut choisir d’ajouter +10 au [DD](./DD.md) indiqué pour créer un objet. Cela lui permet de le fabriquer plus rapidement (puisque le résultat du test sera multiplié par un DD plus élevé afin de déterminer la progression). Le personnage doit effectuer ce choix avant de réaliser le test hebdomadaire ou quotidien.
+
+Pour fabriquer un objet à l’aide de la compétence Artisanat (alchimie), il faut disposer d’un équipement d’alchimiste. Si le travail s’effectue en ville, le coût du matériel est compris dans celui des ingrédients, mais il est particulièrement difficile, voire impossible, de se procurer l’équipement requis dans les endroits trop reculés. Acheter et approvisionner régulièrement un laboratoire d’alchimiste confère un bonus de circonstances de +2 aux tests d’Artisanat (alchimie) car le personnage travaille dans des conditions parfaites mais le coût à acquitter pour utiliser la compétence n’est pas réduit pour autant.
+
+Les [gnomes](./Gnome.md) reçoivent un bonus de +2 à une compétence d’Artisanat ou de [Profession](./Profession.md) de leur choix.

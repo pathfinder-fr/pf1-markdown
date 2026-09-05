@@ -1,0 +1,11 @@
+---
+Name: Golarion.le Cénotaphe
+Title: le Cénotaphe
+LastModified: 2010-11-11 23:22
+Categories:
+- Belkzen
+- Géographie
+- Ville
+---
+
+Le Cénotaphe est une ancienne colonne monumentale fabriquée en pierre noire qui s'élève sur une falaise à la limite sud des [Monts Kodar](./Monts Kodar.md), à l'ouest du territoire de [Belkzen](./Belkzen.md).

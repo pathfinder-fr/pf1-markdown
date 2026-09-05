@@ -1,0 +1,726 @@
+---
+Name: Pathfinder-RPG.Liste des sorts (suite)
+Title: Liste des sorts (suite)
+LastModified: 2025-06-20 17:22
+Categories:
+- Liste de sorts
+- Sort
+- Src Art de la magie
+- Src Manuel des joueurs
+- Src Manuel des joueurs - Règles avancées
+- Src Manuel des races
+---
+
+{s:MenuMagie}<nav class="wiki-toc"></nav>
+### E
+- ***[Eau améliorée](./Eau améliorée.md) ([Cayden Cailéan](./Cayden Cailéan (technique).md))*** *(D&M)* (Bard 1, Pal 1, Prê 1). Transforme de l'eau en une boisson alcoolisée.
+- ***[Eau rouge](./Eau rouge.md) ([Sahuagin](./Sahuagin.md))*** *(CM)* (Hyp 2, Ens/Mag 2, Prê 2, Psy 2). Confère la frénésie inspirée par le sang aux créatures dans la zone.
+- ***[Eaux de folie](./Eaux de Lamashtu.md) (M, Y)*** *(CCMI)* (Alch 2, Apal 2, Dru 3, Prê 3, Sor 3). Créé un poison qui a l'apparence d'eau pure et propre.
+- ***[Écailles épineuses](./écailles épineuses.md) ([Homme-lézard](./Homme-lézard.md))*** *(CM)* (Alch 2, Cham 2, Dru 2, Ens/Mag 2, Rôd 2, San 2, Sor 2). Confère des piques acérés aux écailles de la cible.
+- ***[Écailles épineuses supérieures](./Écailles épineuses supérieures.md) ([Homme-lézard](./Homme-lézard.md))*** *(CM)* (Alch 4, Cham 3, Dru 3, Ens/Mag 3, Rôd 3, San 4, Sor 3). Comme *écailles épineuses*, mais avec un bonus d'altération plus élevé.
+- ***[Échange d'esprits](./Échange desprits.md)*** *(AO)* (Con 5, Hyp 5, Ens/Mag 6, Méd 3, Occ 4, Psy 5, Sor 6, Spi 4). Échange son esprit avec celui d’une autre créature pendant 1 heure par niveau.
+- ***[Échange d'esprits majeur](./Échange desprits majeur.md) (M)*** *(AO)* (Psy 9). Échange définitivement l’esprit du personnage avec celui d’une autre créature.
+- ***[Échange d'objet](./Échange dobjet.md)*** *(UI)* (Bard 3, Con 3, ConU 3, Hyp 3, Ens/Mag 4). Téléporte l'objet ciblé à la place de l'objet utilisé et vice versa.
+- ***[Échapper au temps](./Échapper au temps.md) (M)*** *(MJRA)* (Alch 5, Psy 7). Place temporairement le personnage en animation suspendue.
+- ***[Échec annoncé](./Échec annoncé.md)*** *(AM)* (Ens/Mag 8, Occ 6, Psy 8, Sor 8). La cible est secouée et fiévreuse de façon permanente et peut même recevoir une plaie magique.
+- ***[Écho des pensées](./Écho des pensées.md)*** *(AO)* (Hyp 1, Psy 1). Remplace les pensées de surface par un écho mental.
+- ***[Écholocalisation](./Écholocalisation.md)*** *(AM)* (Alch 4, Bard 4, Dru 4, Ens/Mag 5, Occ 4, Psy 5). Les sens radars du personnage lui donnent la vision aveugle à 12 mètres.
+- ***[Éclair](./Éclair.md) (Y)*** (Ens/Mag 3, Magus 3, Occ 3, San 3, Sor 3). 1d6 points de dégâts d'électricité/niveau.
+- ***[Éclair multiple](./Éclair multiple.md) (Y)*** (Ens/Mag 6, Magus 6, Occ 6, Sor 7). 1d6 pts de dégâts/niveau et 1 éclair secondaire/niveau.
+- ***[Éclairs d'obscurité aveuglante](./Éclairs dobscurité aveuglante.md) ([Fetchelin](./Fetchelin (race).md))*** *(MR)* (Ens/Mag 3, Magus 3, San 3, Sor 3). Créé des éclairs d'énergie négative qui blessent les vivants, soignent les morts-vivants, et qui peuvent aveugler les cibles.
+- ***[Éclat du chaos](./Éclat du chaos.md)*** *(AM)* (Prê 2). Blesse et hébète peut-être les créatures Loyales.
+- ***[Éclat intenable](./Éclat intenable.md)*** *(MCA)* (Alch 4, Ens/Mag 4, Occ 4, Psy 4, Sor 4). Le corps lumineux du personnage éblouit ou aveugle les autres.
+- ***[Éclats déchirants](./Éclats déchirants.md)*** *(MCA)* (Ens/Mag 1, Magus 1, Occ 1, Psy 1, San 1, Sor 1). L’objet détruit explose, infligeant 1d6 points de dégâts aux créatures adjacentes.
+- ***[Éclats éthérés](./Éclats éthérés.md)*** *(AO)* (Occ 4, Psy 5, Spi 4). Emplit une zone d’éclats invisibles qui ralentissent les mouvements et blessent les créatures.
+- ***[Écran](./Écran.md)*** (Ens/Mag 8, Psy 8). Empêche de voir dans une zone, même par scrutation.
+- ***[Écuyer spirituel](./Écuyer spirituel.md)*** *(AMH)* (Apal 2, Cham 2, Inq 2, Pal 2, Prê 2, Spi 2). Manifeste un allié de force qui assiste le lanceur au combat.
+- ***[Effacement](./Effacement.md)*** (Bard 1, Ens/Mag 1, Occ 1, Psy 1). Efface un texte, même magique.
+- ***[Effacement d'impression](./Effacement dimpression.md)*** *(AO)* (Hyp 4, Méd 3, Occ 3, Psy 5, Spi 4). Efface les impressions psychiques émanant d’un objet.
+- ***[Effacement de l'esprit](./Effacement de lesprit.md)*** *(AO)* (Hyp 4, Ens/Mag 4, Méd 4, Occ 4, Psy 4, Spi 4). Efface une portion des expériences et de l’esprit de la cible, lui imposant des niveaux négatifs.
+- ***[Effet placebo](./Effet placebo.md)*** *(AO)* (Hyp 2, Méd 2, Psy 2). Supprime temporairement une affliction ou un état préjudiciable.
+- ***[Effigie majestueuse](./Effigie majestueuse.md)*** *(UI)* (Bard 4, Hyp 4, Ens/Mag 4, Méd 4, Occ 4, Prê 4, Spi 4). Comme *entrer dans une image* mais offre des avantages sociaux en étant dans l'image.
+- ***[Efforts coordonnés](./Efforts coordonnés.md)*** *(MJRA)* (Bard 3, Inq 3, Psy 4). Accorde un don de travail en équipe dont dispose le personnage.
+- ***[Effroi](./Effroi.md)*** (Apal 2, Bard 2, Cham 2, Hyp 2, Ens/Mag 2, Méd 2, Occ 2, Psy 2, Sor 2, Spi 2). Panique les créatures ayant moins de 6 DV.
+- ***[Élan de rapidité](./Élan de rapidité.md)*** *(AG)* (Alch 3, Apal 3, Inq 3, Magus 3, Méd 3, Pal 3, Psy 3, Rôd 3, San 3). La vitesse du personnage augmente. Quand il se déplace, il ignore les attaques d’opportunité et peut traverser l’espace occupé par des créatures plus grandes que lui.
+- ***[Élévation du sol](./élévation du sol.md) ([Nain](./Nain.md))*** *(MR)* (Dru 2, Magus 2, Prê 2, Rôd 2). Le sol sous la cible s'élève d'1,5 mètres.
+- ***[Éloignement du bois](./Éloignement du bois.md) (Y)*** (Dru 6). Repousse les objets en bois.
+- ***[Éloignement du métal et de la pierre](./Éloignement du métal et de la pierre.md)*** (Dru 8). Repousse le métal et la pierre.
+- ***[Embourbement](./Embourbement.md)*** *(MCA)* (Cham 4, Dru 4). Enduit les cibles d’une boue épaisse et collante qui les aveugle et agit comme un sort de *lenteur*.
+- ***[Empathie de la meute](./Empathie de la meute.md)*** *(UI)* (Con 3, ConU 3, Dru 3, Inq 3, Ens/Mag 3, Méd 2, Rôd 2, San 3, Spi 3). Crée un lien empathique avec les alliés.
+- ***[Empire végétal](./Empire végétal.md)*** (Cham 4, Dru 4, Rôd 3). Influence les actions d'une ou plusieurs créatures végétales.
+- ***[Empoisonnement](./Empoisonnement.md)*** (Apal 4, Cham 4, Dru 3, Hyp 4, Occ 4, Prê 4, Sor 4). Le sujet perd 1d3 points de Con/round pendant 6 rounds.
+- ***[Emprisonnement](./Emprisonnement.md)*** (Ens/Mag 9, Psy 9). Emprisonne la cible au centre de la terre.
+- ***[Emprunt de chance](./Emprunt de chance.md) ([Oracle](./Oracle.md) uniquement)*** *(MJRA)* (Méd 3, Prê 3, Psy 3). Relance immédiatement un test ou une attaque mais fait pire aux deux suivants.
+- ***[Emprunt de compétence](./Emprunt de compétence.md)*** *(MJRA)* (Bard 1, Méd 1, Psy 1). Test de compétence avec le rang de quelqu’un d’autre.
+- ***[Emprunt temporel](./Emprunt temporel.md) (Y)*** *(CMy)* (Alch 6, Bard 6, Ens/Mag 6, Magus 6). Le personnage peut effectuer des actions rapides supplémentaires au prix d'affaiblissements temporaires en Constitution.
+- ***[Enceinte parfaite du mercenaire](./Enceinte parfaite dÉchéan.md) (M)*** *(MPNJ)* (Ens/Mag 9). Créé une combinaison de *mur de force* et de *zone d'antimagie*.
+- ***[Enchevêtrement](./Enchevêtrement.md) (Y)*** (Cham 1, Dru 1, Rôd 1). La végétation immobilise tout dans un rayon de 12 m.
+- ***[Enchevêtrement épineux](./Enchevêtrement épineux.md)*** *(MCA)* (Cham 3, Dru 3, Rôd 3, Sor 3). Comme *enchevêtrement*, mais les plantes portent des attaques à distance en plus.
+- ***[Enchevêtrement flamboyant](./Enchevêtrement flamboyant.md)*** *(MJRA)* (Pal 2). Le châtiment du mal du personnage enchevêtre également son ennemi.
+- ***[Enchevêtrement répugnant](./Enchevêtrement répugnant.md)*** *(MCA)* (Cham 2, Dru 2, Rôd 2). Comme *enchevêtrement*, mais les plantes ont une sève qui rend malade.
+- ***[Endurance aux énergies destructives](./Endurance aux énergies destructives.md) (Y)*** (Alch 1, Cham 1, Con 1, ConU 1, Dru 1, Ens/Mag 1, Pal 1, Prê 1, Psy 1, Rôd 1, San 1, Spi 1). Protège des environnements chauds ou froids.
+- ***[Endurance aux énergies destructives (partagé)](./Endurance aux énergies destructives (partagé).md)*** *(AG)* (Alch 3, Dru 2, Ens/Mag 2, Pal 2, Prê 2, Psy 2, Rôd 2). Comme *endurance aux énergies destructives* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Endurance de l'ours](./Endurance de lours.md)*** (Alch 2, Cham 2, Con 2, ConU 2, Dru 2, Ens/Mag 2, Magus 2, Méd 2, Prê 2, Psy 2, Rôd 2, San 2). Confère +4 en Con pendant 1 minute/niveau.
+- ***[Endurance de l'ours de groupe](./Endurance de lours de groupe.md)*** (Cham 6, Con 4, ConU 6, Dru 6, Ens/Mag 6, Magus 6, Prê 6, Psy 6). Comme *endurance de l'ours*, mais affecte un sujet/niveau.
+- ***[Énergie négative](./Énergie négative.md) (Y)*** (Hyp 4, Ens/Mag 4, San 4, Sor 4, Spi 4). La cible gagne 1d4 niveaux négatifs.
+- ***[Engeance de génie](./Engeance de génie.md) (Y)*** *(MMI)* (Con 5, ConU 5, Dru 5, Ens/Mag 5, Prê 5). Le personnage gagne les pouvoir et l'influence d'un génie.
+- ***[Engin de siège magique](./Engin de siège magique.md)*** *(AG)* (Apal 2, Inq 2, Ens/Mag 2, Occ 2, Pal 2, Prê 2). L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts.
+- ***[Engin de siège magique supérieur](./Engin de siège magique supérieur.md)*** *(AG)* (Apal 4, Inq 4, Ens/Mag 4, Occ 4, Pal 4, Prê 5). L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts par tranche de quatre niveaux de lanceur de sorts.
+- ***[Engouement téméraire](./Engouement téméraire.md)*** *(AM)* (Bard 2, Hyp 2, Ens/Mag 3, Psy 3, Sor 3). La cible est obligée de rester à côté d'une autre.
+- ***[Ennemi amical](./Ennemi amical.md)*** *(MJRA)* (Bard 5, Hyp 5, Psy 7). Redirige l’attaque d’un ennemi.
+- ***[Ennemi contondant](./Ennemi contondant.md) (Y)*** *(MJRA)* (Ens/Mag 6, Occ 6, Psy 6, Spi 6). Permet au personnage d’user de télékinésie pour se servir d’une créature comme d’une arme.
+- ***[Ennemi des enchantements](./Ennemi des enchantements.md)*** *(MCA)* (Alch 4, Hyp 3, Inq 4, Ens/Mag 4, Occ 4, Prê 4, Psy 4, Sor 4). Le personnage dupe les adversaires qui essayent de lancer des enchantements sur lui.
+- ***[Ennemi du moment](./Ennemi du moment.md)*** *(MJRA)* (Rôd 3). Le personnage considère la cible comme un ennemi juré du type de son choix.
+- ***[Ennemi subconscient](./Ennemi subconscient.md)*** (Ens/Mag 9, Psy 9). Comme *assassin imaginaire*, mais dans un rayon de 9 m.
+- ***[Ennui oppressant](./Ennui oppressant.md)*** *(AM)* (Bard 2, Hyp 2, Ens/Mag 2, Méd 2, Psy 2). La cible perd sa prochaine action.
+- ***[Entrave](./Entrave.md) (M)*** (Con 6, Ens/Mag 8, Psy 8). Diverses possibilités pour emprisonner une créature.
+- ***[Entrave de terre](./Entrave de terre.md) ([Oréade](./Oréade (race).md))*** *(MR)* (Dru 2, Sor 2). Les zones de terre et de pierre sous la cible tentent de l'abattre.
+- ***[Entrave de terre de groupe](./Entrave de terre de groupe.md) ([Oréade](./Oréade (race).md))*** *(MR)* (Dru 6, Sor 6). Comme *entrave de terre* mais affecte plusieurs cibles.
+- ***[Entremise](./Entremise.md)*** *(UI)* (Bard 2, Hyp 2, Ens/Mag 3, Sor 3). Pousse deux créatures à tomber amoureuses.
+- ***[Entrer dans une image](./Entrer dans une image.md)*** *(MJRA)* (Bard 2, Hyp 2, Ens/Mag 3, Méd 3, Occ 2, Prê 3, Psy 3). Transfère la conscience du personnage dans un objet à son effigie.
+- ***[Enveloppe éthérée](./Enveloppe éthérée.md)*** *(AO)* (Psy 5, Spi 4). Enveloppe l’inconscient du personnage dans un cocon sur le plan Éthéré.
+- ***[Enveloppement des pensées](./Enveloppement des pensées.md)*** *(AO)* (Alch 2, Bard 2, Cham 2, Hyp 2, Inq 2, Méd 2, Psy 2, Rôd 3, Sor 2). Protège contre la détection de pensées et la modification de mémoire.
+- ***[Enveloppement éthéré](./Enveloppement éthéré.md)*** *(AO)* (Psy 7, Spi 5). Comme *enveloppe éthérée* mais peut affecter une créature non consentante.
+- ***[Épée de force](./Épée de force.md) (F)*** (Ens/Mag 7, Psy 7). Lame d'énergie flottante qui frappe les adversaires.
+- ***[Épée impie](./Épée impie.md)*** *(AM)* (Apal 4). L'arme devient +5 et inflige +2d6 points de dégâts contre le bien.
+- ***[Épée sainte](./Épée sainte.md)*** (Pal 4). L'arme devient +5 et inflige +2d6 points de dégâts contre le Mal.
+- ***[Épidémie](./Épidémie.md)*** *(AM)* (Dru 6, Ens/Mag 7, Prê 6, Sor 6). Infecte un sujet avec une maladie très contagieuse.
+- ***[Épidémie de rumeurs](./Épidémie de rumeurs.md)*** *(UI)* (Bard 5, Hyp 5, Ens/Mag 7, Prê 7, Psy 7, Sor 7, Spi 5). Maudit la cible pour qu'elles attire des rumeurs peu flatteuses.
+- ***[Épiphanie livresque](./épiphanie livresque.md)*** *(RSE)* (Bard 2, Ens/Mag 2, Magus 2, Prê 2). Remplit un livre vide de connaissances provenants du monde entier sur un sujet précis.
+- ***[Épreuve de l'acide et du feu](./Épreuve de lacide et du feu.md) ([Troll](./Troll.md))*** *(CM)* (Cham 3, Ens/Mag 3, Magus 3, Prê 3, San 3, Sor 3). Couvre la cible d'un acide brûlant.
+- ***[Équipage de squelettes](./Équipage de squelettes.md)*** *(PMI)* (Con 4, ConU 4, Ens/Mag 4, Prê 3, Sor 4). Transforme des cadavres en membres d'équipage squelettiques obéissants.
+- ***[Équipage invisible](./Équipage invisible.md)*** *(PMI)* (Bard 4, Con 5, ConU 5, Ens/Mag 5, Sor 5). Créé un membre d'équipage invisible par niveau pour veiller au fonctionnement d'un navire.
+- ***[Équité](./Équité.md) ([Abadar](./Abadar (technique).md))*** *(D&M)* (Inq 2, Pal 2, Prê 1). Oblige des créatures à conclure une affaire de façon équitable.
+- ***[Erreur malencontreuse](./Erreur malencontreuse.md)*** *(ISG)* (Inq 2, Prê 2, Sor 2). Empêche la cible de confirmer un coup critique.
+- ***[Erreur tactique](./erreur tactique.md)*** *(RSE)* (Bard 2, Inq 2, Rôd 2). Empêche une créature d'effectuer des attaques d'opportunité.
+- ***[Éruption caustique](./Éruption caustique.md)*** *(AM)* (Ens/Mag 7). Explosion de 1d6 acide/niveau qui persiste.
+- ***[Éruption de flèches](./Éruption de flèches.md)*** *(MJRA)* (Ens/Mag 2, Rôd 2). Crée un double d’une flèche utilisée pour tuer une créature au round précédent.
+- ***[Éruption de pustules](./Éruption de pustules.md)*** *(AM)* (Alch 3, Ens/Mag 3, San 3, Sor 3). Des bubons acides explosent quand le personnage est attaqué.
+- ***[Éruption ectoplasmique](./Éruption ectoplasmique.md)*** *(AO)* (Psy 7, Spi 6). Inflige 6d6 points de dégâts et enchevêtre les créatures dans un rayon de 3 mètres. Repousse les créatures éthérées et intangibles sur le plan Matériel.
+- ***[Espace sacré](./Espace sacré.md) ([Aasimar](./Aasimar (race).md))*** *(MR)* (Pal 2, Prê 2). Crée une zone de pouvoir divin contrant les pouvoirs des extérieurs Mauvais.
+- ***[Espoir](./Espoir.md)*** (Bard 3). Les sujets bénéficient de +2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests de compétences.
+- ***[Esprit de l'arc](./Esprit de larc.md)*** *(MJRA)* (Rôd 4). Convoque un esprit invisible qui tire des flèches à la place du personnage.
+- ***[Esprit endormi](./Esprit endormi.md)*** *(AO)* (Cham 4, Inq 4, Méd 2, Occ 3, Prê 5, Sor 5, Spi 3). L’esprit habitant une créature ou un objet entre en dormance.
+- ***[Esprit impénétrable](./Esprit impénétrable.md)*** (Ens/Mag 8, Psy 7, Sor 8). Sujet immunisé contre les sorts mentaux et la scrutation.
+- ***[Esprit impénétrable (partagé)](./Esprit impénétrable (partagé).md)*** *(AG)* (Ens/Mag 9, Psy 8, Sor 9). Comme *esprit impénétrable* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Esprit investigateur](./Esprit investigateur.md)*** *(MCA)* (Alch 2, Bard 2, Hyp 2, Ens/Mag 2, Méd 2, Occ 2, Psy 2, Sor 2). Quand le personnage utilise certaines compétences mentales, fait deux jets et garde le meilleur résultat.
+- ***[Esprit malveillant](./Esprit malveillant.md) (M)*** *(AM)* (Bard 3, Hyp 3, Ens/Mag 4, Psy 4). La cible est obligée de comploter contre une autre.
+- ***[Esprit protecteur](./Esprit protecteur.md)*** *(MJRA)* (Rôd 2). Protège contre les attaques d’opportunité.
+- ***[Estoc sonore](./Estoc sonore.md)*** *(AM)* (Bard 4, Ens/Mag 5, Psy 5). Le bruit éloigne la cible.
+- ***[État gazeux](./État gazeux.md) (Y)*** (Alch 3, Bard 3, Ens/Mag 3, Magus 3, Méd 3, Occ 3, Psy 3, Spi 3). Le sujet devient intangible et peut voler lentement.
+- ***[Éternuement de feu](./Éternuement de feu.md) ([Gobelin](./Gobelin (race).md))*** *(MR)* (Alch 2, Dru 2, Ens/Mag 2). Le personnage éternue des flammes pour mettre ses ennemis en feu et les faire tomber à terre.
+- ***[Éther condensé](./Éther condensé.md)*** *(AO)* (Ens/Mag 5, Psy 4, Spi 3). Crée une conjonction planaire qui ralentit les déplacements, impose un malus à la CA et aux jets de Réflexes et inflige des chances de rater aux attaques à distance.
+- ***[Étincelles](./Étincelles.md)*** *(MJRA)* (Bard 0, Dru 0, Ens/Mag 0, Magus 0, Occ 0, Prê 0, Sor 0). Met le feu à des objets inflammables.
+- ***[Étrange fièvre](./Étrange fièvre.md)*** *(AM)* (Inq 3, Ens/Mag 3, Psy 3, Sor 3). La cible est atteinte de la plaie étrange fièvre.
+- ***[Étreinte du Monde féerique](./Étreinte du Premier Monde.md) (M)*** *(MMI)* (Bard 4, Dru 4). Imprègne une créature avec l'énergie brute du Monde féerique.
+- ***[Éveil](./Éveil.md) (M)*** (Cham 6, Dru 5). Rend un animal ou un arbre intelligent.
+- ***[Éveil de créature artificielle](./Éveil de créature artificielle.md) (M)*** *(AO)* (Cham 6, Ens/Mag 7, Occ 5, Prê 7, Psy 6). Donne une conscience humaine à une créature artificielle.
+- ***[Éveiller les dévorés](./Éveiller les dévorés.md)*** *(BD)* (Cham 5, Inq 4, Ens/Mag 5, Prê 5, Psy 5, Sor 5, Spi 5). Inflige 1d8 dégâts non létaux/niveau à un daémon et le rend confus.
+- ***[Évolution](./Évolution.md)*** *(MJRA)* (Con 3, ConU 3). Accorde à l’eidolon une évolution coûtant 4 points d’évolution.
+- ***[Évolution mineure](./Évolution mineure.md)*** *(MJRA)* (Con 2, ConU 2). Accorde à l’eidolon une évolution coûtant 2 points d’évolution.
+- ***[Évolution supérieure](./Évolution supérieure.md)*** *(MJRA)* (Con 4, ConU 4). Accorde deux évolutions à l’eidolon pour un total de 6 points d’évolution.
+- ***[Examen approfondi](./Examen approfondi.md)*** *(MCA)* (Alch 2, Bard 2, Cham 2, Hyp 2, Inq 2, Méd 2, Psy 2). Le personnage gagne des bonus de compétence lorsqu’il interagit avec la cible.
+- ***[Examen des rêves](./Examen des rêves.md)*** *(AO)* (Bard 6, Hyp 5, Ens/Mag 6, Méd 4, Psy 5). Lit les pensées d’une créature en plein rêve.
+- ***[Excavation expéditive](./Excavation expéditive.md)*** *(MJRA)* (Dru 1, Ens/Mag 1). Déplace un cube de terre de 1,5 m d’arête.
+- ***[Exécution](./Exécution.md)*** (Apal 4, Cham 6, Prê 5, Sor 6, Spi 5). Attaque de contact qui inflige 12d6 points de dégâts +1 pts par niveau.
+- ***[Exigence](./Exigence.md)*** (Hyp 6, Ens/Mag 8, Psy 8, Sor 8). Comme *communication à distance*, plus suggestion.
+- ***[Exilé par la nature](./Exilé par la nature.md)*** *(MJRA)* (Dru 3, Sor 3). Donne un malus de -10 aux tests de Survie.
+- ***[Exploiter la beauté intérieure](./Exploiter la beauté intérieure.md) ([Shélyn](./Shélyn (technique).md))*** *(D&M)* (Bard 1, Prê 1, Sor 1). Confère un bonus d'intuition de +2 aux tests relatifs au Charisme.
+- ***[Explosion de gloire](./Explosion de gloire.md) ([Iomédae](./Iomédae (technique).md))*** *(D&M)* (Inq 4, Pal 4, Prê 5). Confère aux alliés un bonus aux jets d'attaque et de sauvegarde contre la peur, ainsi que des points de vie temporaires.
+- ***[Explosion de lumière](./Explosion de lumière.md)*** (Cham 8, Dru 8, Ens/Mag 8). Aveugle à moins de 3 m, 6d6 points de dégâts.
+- ***[Expression du psychonaute](./Expression du psychonaute.md)*** *(OO)* (Psy 2). Bonus de +4 à une valeur de caractéristique aléatoire et malus de -2 à une autre.
+- ***[Extase](./Extase.md)*** *(AM)* (Bard 5, Hyp 5, Ens/Mag 7, Prê 6, Psy 6). Annule les émotions néfastes.
+- ***[Extinction des feux](./Extinction des feux.md)*** (Dru 3). Éteint les feux.
+- ***[Extraction du demi-sang](./extraction du demi-sang.md) ([Demi-orque](./Demi-orque.md))*** *(MR)* (Alch 5, Dru 5, Ens/Mag 5, Prê 5, Psy 5, Sor 5). Transforme un demi-orque en orque pur sang.
+
+### F
+- ***[Fabrication](./Fabrication.md)*** (Ens/Mag 5, Occ 5, Psy 5). Transforme les matières premières en produit fini.
+- ***[Fabrication de balles](./Fabrication de balles.md) (M)*** *(AG)* (Ens/Mag 1). Convertit 0,5 kg de métal en munitions.
+- ***[Fabrication de déguisement](./Fabrication de déguisement.md)*** *(UI)* (Alch 1, Apal 1, Bard 1, Inq 1, Ens/Mag 1, Psy 1, Sor 1). Crée un déguisement instantanément.
+- ***[Façonnage de cadavre](./Façonnage de cadavre.md)*** *(MJRA)* (Ens/Mag 1, Occ 1). Donne à un cadavre l’apparence d’une autre créature.
+- ***[Façonnage de la neige](./Façonnage de la neige.md) ([Ulfe](./../Golarion/Ulfes.md))*** *(MR)* (Dru 1, Ens/Mag 2, Prê 2). Donne à la neige toute forme voulue, dont des armes en glace dure.
+- ***[Façonnage de la pierre](./Façonnage de la pierre.md) (Y)*** (Cham 3, Dru 3, Ens/Mag 4, Occ 3, Prê 3). Permet de modeler la pierre.
+- ***[Façonnage du bois](./Façonnage du bois.md)*** (Cham 2, Dru 2, Occ 2). Permet de modeler le bois.
+- ***[Faim de la goule](./Faim de la goule.md) ([Urgathoa](./Urgathoa (technique).md))*** *(D&M)* (Apal 2, Ens/Mag 2, Prê 2, Sor 2). Éveille une faim surnaturelle chez la cible, la forçant à chercher de la chair humanoïde.
+- ***[Faim vampirique](./Faim vampirique.md) ([Urgathoa](./Urgathoa (technique).md))*** *(D&M)* (Apal 3, Dru 3, Ens/Mag 3, Prê 3, Sor 3). Confère à la cible les crocs et la soif d'un vampire.
+- ***[Fardeau de l'oracle](./Fardeau de loracle.md) ([Oracle](./Oracle.md) uniquement)*** *(MJRA)* (Prê 2). La créature est affectée par les effets négatifs de la malédiction de l’oracle.
+- ***[Fatigue](./Fatigue.md)*** (Cham 0, Hyp 0, Ens/Mag 0, Occ 0, Sor 0). Attaque de contact fatiguant la cible.
+- ***[Faux alibi](./Faux alibi.md) ([Norgorber](./Norgorber (technique).md))*** *(SS)* (Bard 3, Inq 3, Prê 3). Modifie les souvenirs de la cible d'une façon prédéfinie.
+- ***[Faux avenir](./Faux avenir.md) (M)*** *(UI)* (Bard 3, Cham 4, Hyp 3, Ens/Mag 5, Méd 3, Prê 4, Psy 4, Sor 4, Spi 4). Les divinations qui dévoilent l'avenir de la cible montrent une invention du personnage à la place.
+- ***[Faux souvenir](./Faux souvenir.md)*** *(UI)* (Bard 2, Hyp 2, Psy 2). Implante temporairement un mauvais souvenir dans l'esprit de la cible.
+- ***[Faux-semblant](./Faux-semblant.md)*** (Bard 5, Hyp 5, Ens/Mag 5, Méd 4, Occ 5, Psy 5). Modifie l'aspect d'une personne tous les 2 niveaux.
+- ***[Faveur conditionnelle](./Faveur conditionnelle.md)*** *(UI)* (Apal 1, Bard 2, Hyp 2, Inq 2, Occ 2, Pal 1, Prê 2, Sor 2). Confère les effets d'un autre sort qui s'inversent si la cible ignore une restriction établie.
+- ***[Faveur divine](./Faveur divine.md) (Y)*** (Inq 1, Pal 1, Prê 1). Confère un bonus de +1 tous les 3 niveaux aux jets d'attaque et de dégâts.
+- ***[Férocité du blaireau](./Férocité du blaireau.md)*** *(AM)* (Dru 3, Ens/Mag 2, Occ 2, Prê 3, Rôd 2). Tant que le personnage se concentre, les armes sont acérées.
+- ***[Festin de cendres](./Festin de cendres.md) (Y)*** *(MJRA)* (Dru 2, Occ 2, Psy 2, Sor 2). La cible souffre d’une faim insatiable.
+- ***[Festin de terreur](./Festin de terreur.md)*** *(MCA)* (Bard 4, Cham 5, Hyp 4, Ens/Mag 5, Psy 5, Sor 5, Spi 5). Les cibles sont paniquées et le personnage gagne des points de vie temporaires.
+- ***[Festin des héros](./Festin des héros.md)*** (Bard 6, Inq 6, Prê 6). Nourriture pour une créature/niveau ; confère des bonus au combat.
+- ***[Festin onirique](./Festin onirique.md) ([Desna](./Desna (technique).md))*** *(ESR2/6)* (Cham 1, Dru 1, Prê 1, Rôd 1). Nourrit une créature dans son sommeil.
+- ***[Feu de camp abrité](./Feu de camp abrité.md)*** *(MJRA)* (Bard 3, Dru 2, Ens/Mag 3, Occ 2, Rôd 2). Crée un abri autour d’un feu de camp.
+- ***[Feu du jugement](./Feu du jugement.md)*** *(MJRA)* (Pal 3). Les créatures châtiées souffrent reçoivent des dégâts quand elles attaquent.
+- ***[Feuille morte](./Feuille morte.md) (Y)*** (Bard 1, Con 1, ConU 1, Ens/Mag 1, Magus 1, Occ 1, Psy 1, San 1, Spi 1). Ralentit la chute.
+- ***[Fierté illusoire](./Fierté illusoire.md)*** *(AM)* (Bard 1, Hyp 1, Ens/Mag 1, Méd 1, Psy 1, Sor 1). La cible a un malus aux jets d'attaque et aux tests mais un bonus contre le charme et la coercition.
+- ***[Final étourdissant](./Final étourdissant.md)*** *(MJRA)* (Bard 5). Étourdit les créatures pendant 1 round.
+- ***[Final héroïque](./Final héroïque.md) (F, M)*** *(MJRA)* (Bard 4). Les sujets affectés par une performance de barde peuvent faire une action.
+- ***[Final purificateur](./Final purificateur.md)*** *(MJRA)* (Bard 3). Dissipe un effet négatif.
+- ***[Final revigorant](./Final revigorant.md)*** *(MJRA)* (Bard 3). Soigne les alliés de 2d6 points de dégâts.
+- ***[Final salvateur](./Final salvateur.md) (Y)*** *(MJRA)* (Bard 1). Le sujet relance un jet de sauvegarde raté.
+- ***[Flambée de sang](./Flambée de sang.md) ([Orque](./orque (race).md))*** *(MR)* (Alch 2, Apal 1, Ens/Mag 2, Magus 2, Prê 2, Psy 2, San 2, Sor 2). Enflamme le sang de ceux qui s'approchent du personnage.
+- ***[Flamme contagieuse](./Flamme contagieuse.md)*** *(MJRA)* (Ens/Mag 6, Magus 6, Occ 6). Rayon qui inflige 4d6 points de dégâts de feu avant de passer à une nouvelle cible.
+- ***[Flamme éternelle](./Flamme éternelle.md) (M)*** (Inq 3, Ens/Mag 2, Occ 2, Prê 3, Psy 3). Torche permanente ne dégageant aucune chaleur.
+- ***[Flammes](./Flammes.md)*** (Cham 1, Dru 1). 1d6 points de dégâts, +1/niveau, contact ou lancer.
+- ***[Flammes de la vengeance](./Flammes de la vengeance.md)*** *(MJRA)* (Pal 4). Les créatures châtiées subissent 3d8 points de dégâts.
+- ***[Flammes du fidèle](./Flammes du fidèle.md) (Y)*** *(MJRA)* (Inq 2). Donne le pouvoir de feu à une arme.
+- ***[Fléau d'insectes](./Fléau dinsectes.md)*** (Cham 5, Con 4, ConU 5, Dru 5, Prê 5). Nuée de criquets attaquant des créatures.
+- ***[Fléau des cavaliers](./Fléau des cavaliers.md)*** *(LD)* (Ens/Mag 9, Prê 9). Fait exploser une zone avec une énergie qui déchire les âmes, infligeant 1d4 niveaux négatifs et 1d6 dégâts d'acide/niveau.
+- ***[Flèche acide](./Flèche acide.md)*** (Ens/Mag 2, Magus 2, San 2). Attaque de contact à distance ; 2d4 points de dégâts pendant 1 round + 1 round/3 niveaux.
+- ***[Flèche de ki](./Flèche de ki.md)*** *(AM)* (Bard 1, Ens/Mag 1, Psy 1, Sor 1). La flèche inflige les mêmes dégâts que les coups à mains nues.
+- ***[Flèche de l'aube](./Flèche de laube.md) (Y)*** *(AG)* (Inq 3, Occ 3, Pal 3, Prê 3). Les munitions ciblées émettent une énergie radieuse.
+- ***[Flèche de loi](./Flèche de loi.md)*** *(AM)* (Pal 2, Prê 2). Blesse et hébète peut-être les créatures Chaotiques.
+- ***[Flèche du Borgne](./Flèche du Borgne.md) ([Érastil](./Érastil (technique).md))*** *(D&M)* (Dru 1, Inq 1, Magus 1, Pal 1, Prê 2, Rôd 1, San 1). Créé une flèche d'électricité crépitante pour blesser les ennemis ou alerter les alliés.
+- ***[Flèche sacrée](./Flèche sacrée.md)*** *(AG)* (Pal 2). Imprègne un projectile de puissance sacrée.
+- ***[Flèches enflammées](./Flèches enflammées.md)*** (Ens/Mag 3, Magus 3, Occ 3, San 3). Les flèches infligent 1d6 points de dégâts de feu.
+- ***[Fléchettes d'argent](./Fléchettes dargent.md)*** *(MCA)* (Ens/Mag 3, Magus 3, San 3, Sor 3). Cône de fléchettes en argent qui inflige 1d6 points de dégâts perforants par niveau, mais moins contre les cibles en armure.
+- ***[Flétrissement végétal](./Flétrissement végétal.md)*** (Cham 5, Dru 4, Ens/Mag 5, Sor 5). Flétrit une plante ou inflige 1d6 points de dégâts/niveau à une créature végétale.
+- ***[Flétrissure](./Flétrissure.md)*** (Cham 8, Ens/Mag 8, Sor 8). 1d6 points de dégâts/niveau dans un rayon de 9 m.
+- ***[Flexibilité extrême](./Flexibilité extrême.md)*** *(MCA)* (Alch 2, Ens/Mag 2, Magus 2, Méd 2, Psy 2, San 2, Sor 2). Le personnage gagne un bonus à la CA, aux tests d’Évasion et quand il est en lutte.
+- ***[Flot obsidien](./Flot obsidien.md)*** *(AG)* (Con 3, ConU 4, Dru 4, Ens/Mag 4). Transforme une surface en verre fondu.
+- ***[Flottabilité](./Flottabilité.md)*** *(MCA)* (Bard 2, Cham 2, Ens/Mag 2, Psy 2, Sor 2). Les cibles flottent sans mal sur l’eau.
+- ***[Flou](./Flou.md)*** (Alch 2, Bard 2, Con 2, ConU 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Psy 2, Spi 2). Chaque attaque a 20 % de chances de rater la cible.
+- ***[Folle hallucination](./Folle hallucination.md)*** *(AM)* (Bard 2, Hyp 2, Ens/Mag 2, Psy 2, Sor 2). La cible subit des malus aux actions mentales.
+- ***[Fonts de magie des esprits](./Fonts de magie des esprits.md) (M)*** *(MCA)* (Cham 3). Quand ils lancent les sorts de l’esprit du personnage, ses alliés gagnent d’autres bonus.
+- ***[Force de taureau](./Force de taureau.md)*** (Alch 2, Apal 2, Cham 2, Con 2, ConU 2, Dru 2, Ens/Mag 2, Magus 2, Méd 2, Pal 2, Prê 2, Psy 2, San 2). Confère +4 en Force pendant 1 minute/niveau.
+- ***[Force de taureau de groupe](./Force de taureau de groupe.md) (F)*** (Cham 6, Con 4, ConU 6, Dru 6, Ens/Mag 6, Magus 6, Prê 6, Psy 6). Comme *force de taureau*, mais affecte un sujet/niveau.
+- ***[Force décuplée](./Force décuplée.md) ([Nain](./Nain.md))*** *(MR)* (Pal 4, Prê 4). Comme *force de taureau*, mais confère un bonus d’altération de +8 à la Force.
+- ***[Force du colosse](./Force du colosse.md)*** (Inq 5, Prê 5). Accroît la taille du PJ et lui confère des bonus au combat.
+- ***[Formation tactique](./Formation tactique.md) ([Nain](./Nain.md))*** *(MR)* (Pal 3, Prê 3, Rôd 4). Confère un bonus à la CA aux cibles tant qu’elles restent en formation.
+- ***[Forme akashique](./Forme akashique.md)*** *(AO)* (Psy 9). Stocke une copie du corps du personnage dans les Annales akashiques et le restaure sous cette forme à sa mort.
+- ***[Forme bestiale I](./Forme bestiale I.md) (Y)*** (Alch 3, Ens/Mag 3, Magus 3, San 3). Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille P ou M.
+- ***[Forme bestiale II](./Forme bestiale II.md) (Y)*** (Alch 4, Ens/Mag 4, Magus 4, San 4). Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille TP, P, M ou G.
+- ***[Forme bestiale III](./Forme bestiale III.md) (Y)*** (Alch 5, Ens/Mag 5, Magus 5). Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille Min, TP, P, M, G ou TG ou d'une créature magique de taille P ou M.
+- ***[Forme bestiale IV](./Forme bestiale IV.md) (Y)*** (Alch 6, Ens/Mag 6, Magus 6). Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille Min, TP, P, M, G ou TG ou d'une créature magique de taille TP, P, M ou G.
+- ***[Forme cendrée brûlante](./Forme cendrée brûlante.md) (Y) ([Ifrit](./Ifrit (race).md))*** *(MR)* (Alch 4, Ens/Mag 4). Le personnage se transforme en un tourbillon de cendres.
+- ***[Forme d'arbre](./Forme darbre.md)*** (Cham 2, Dru 2, Rôd 3). Transforme le PJ en arbre pendant 1 heure/niveau.
+- ***[Forme de bébé](./Forme de bébé.md)*** *(AG)* (Dru 3, Ens/Mag 3, Sor 3). Le personnage transforme un animal ou une créature magique en une version plus jeune et plus mignonne d’elle-même, pour une courte durée.
+- ***[Forme de géant I](./Forme de géant I.md)*** (Alch 6, Ens/Mag 7). Le lanceur de sorts se transforme en géant de taille G.
+- ***[Forme de géant II](./Forme de géant II.md)*** (Ens/Mag 8). Le lanceur de sorts se transforme en géant TG.
+- ***[Forme de poussière](./Forme de poussière.md)*** *(AG)* (Alch 5, Dru 6, Prê 6, Psy 6, Sor 6). Le personnage devient temporairement une créature intangible faite de poussière.
+- ***[Forme de vase I](./Forme de vase I.md)*** *(-)* (Alch 5, Ens/Mag 5, Magus 5). Le lanceur de sorts se transforme en vase de taille P ou M.
+- ***[Forme de vase II](./Forme de vase II.md)*** *(-)* (Alch 6, Ens/Mag 6, Magus 6). Le lanceur de sorts se transforme en vase de taille G.
+- ***[Forme de vase III](./Forme de vase III.md)*** *(-)* (Ens/Mag 7). Le lanceur de sorts se transforme en vase de taille TG.
+- ***[Forme de vermine I](./Forme de vermine I.md) (Y)*** *(AM, LD)* (Alch 4, Dru 3, Ens/Mag 4, Magus 4, San 4, Sor 3). Prend la forme et les pouvoirs d'une vermine P ou M.
+- ***[Forme de vermine II](./Forme de vermine II.md) (Y)*** *(AM, LD)* (Alch 5, Dru 4, Ens/Mag 5, Magus 5, Sor 4). Comme *forme de vermine I* mais TP ou G.
+- ***[Forme draconique I](./Forme draconique I.md) (Y)*** (Alch 6, Ens/Mag 6, Magus 6). Transforme le lanceur de sorts en dragon de taille M.
+- ***[Forme draconique II](./Forme draconique II.md) (Y)*** (Ens/Mag 7). Le lanceur de sorts se transforme en dragon de taille G.
+- ***[Forme draconique III](./Forme draconique III.md) (Y)*** (Ens/Mag 8). Transforme le lanceur de sorts en dragon TG.
+- ***[Forme du nuage](./Forme du nuage.md) ([Sylphe](./Sylphe (race).md))*** *(MR)* (Dru 4, Ens/Mag 4, Rôd 4). Permet d'adopter la forme d'un nuage colossale.
+- ***[Forme éthérée](./Forme éthérée.md)*** (Con 5, ConU 6, Ens/Mag 7, Prê 7, Psy 6). Le PJ passe dans le plan Éthéré pour 1 round/niveau.
+- ***[Forme liquide](./Forme liquide.md)*** *(MJRA)* (Alch 4, Ens/Mag 6, Psy 6). Gagne RD 10/tranchant, augmente l’allonge de 3 m et peut respirer sous l’eau.
+- ***[Forme miasmatique](./Forme miasmatique.md) ([Sylphe](./Sylphe (race).md))*** *(MR)* (Alch 4, Ens/Mag 4). Comme *état gazeux*, mais le corps vaporeux de la cible est dangereux pour les créatures qui le touchent.
+- ***[Forme sonique](./Forme sonique.md)*** *(MCA)* (Alch 6, Bard 6, Ens/Mag 6, Psy 6). Le personnage se transforme en une créature de son semi-solide.
+- ***[Forme végétale I](./Forme végétale I.md)*** (Alch 5, Ens/Mag 5). Le lanceur de sorts se transforme en plante de taille P ou M.
+- ***[Forme végétale II](./Forme végétale II.md)*** (Alch 6, Ens/Mag 6). Le lanceur de sorts se transforme en plante de taille G.
+- ***[Forme végétale III](./Forme végétale III.md)*** (Ens/Mag 7). Le lanceur de sorts se transforme en plante de taille G.
+- ***[Forme véritable](./Forme véritable.md) (Y)*** *(MJRA)* (Dru 4, Ens/Mag 4, Occ 4, Psy 4). Dissipe les effets de métamorphose.
+- ***[Formule universelle](./Formule universelle.md) (M)*** *(MJRA)* (Alch 4). Remplace tout extrait de niveau 3 ou moins.
+- ***[Forteresse intellectuelle I](./Forteresse intellectuelle I.md)*** *(AO)* (Psy 4). Suppression des effets d’émotion et de terreur dans un rayon de 6 mètres par une action immédiate.
+- ***[Forteresse intellectuelle II](./Forteresse intellectuelle II.md)*** *(AO)* (Psy 5). Comme *forteresse intellectuelle I* mais réduit les dégâts des effets mentaux.
+- ***[Forteresse intellectuelle III](./Forteresse intellectuelle III.md)*** *(AO)* (Psy 6). Comme *forteresse intellectuelle II* et retire partiellement les effets de terreur et d’émotion.
+- ***[Fosse acide](./Fosse acide.md) (F)*** *(MJRA)* (Con 4, ConU 4, Ens/Mag 4). Crée une fosse avec de l’acide au fond.
+- ***[Fosse affamée](./Fosse affamée.md) (F)*** *(MJRA)* (Con 5, ConU 5, Ens/Mag 5). Comme *création de fosse* mais inflige 4d6 points de dégâts à ceux sur lesquels elle se referme.
+- ***[Fosse hérissée de pieux](./Fosse hérissée de pieux.md) (F)*** *(MJRA)* (Con 3, ConU 3, Ens/Mag 3). Comme *création de fosse* mais elle est remplie de pieux.
+- ***[Fou rire](./Fou rire.md) (Y)*** (Bard 1, Hyp 1, Ens/Mag 2, Méd 2, Psy 2). La cible perd ses actions pendant 1 round/niveau.
+- ***[Fouet affaiblissant](./Fouet affaiblissant.md) ([Gobelin](./Gobelin (race).md))*** *(MR)* (Ens/Mag 2, Sor 2). Paralyse un ennemi en affaiblissant ses caractéristiques physiques.
+- ***[Fouet d'araignées](./Fouet daraignées.md)*** *(MCA)* (Bard 2, Con 2, ConU 2, Dru 2, Ens/Mag 2, Sor 2). Crée un fouet composé d’araignées empoisonnées.
+- ***[Fouet d'ego I](./Fouet dego I.md)*** *(AO)* (Psy 3). Une créature reçoit un malus de -2 à l’Int, la Sag ou le Cha et est chancelante pendant 1 round.
+- ***[Fouet d'ego II](./Fouet dego II.md)*** *(AO)* (Psy 4). Comme *fouet d’ego I* mais avec un malus de –4 et chancellement pendant 1d4 rounds.
+- ***[Fouet d'ego III](./Fouet dego III.md)*** *(AO)* (Psy 5). Comme *fouet d’ego I* mais avec un malus de –5 et chancellement pendant 1d6 rounds.
+- ***[Fouet d'ego IV](./Fouet dego IV.md)*** *(AO)* (Psy 6). Comme *fouet d’ego I* mais avec un malus de –8 et chancellement pendant 1d8 rounds.
+- ***[Fouet d'ego V](./Fouet dego V.md)*** *(AO)* (Psy 7). Comme *fouet d’ego I* mais avec un malus de –10 et chancellement pendant 1d10 rounds.
+- ***[Fouet de fourmis](./Fouet de fourmis.md)*** *(MCA)* (Bard 6, Con 6, ConU 6, Dru 6, Ens/Mag 6, Sor 6). Crée un fouet composé de fourmis soldats.
+- ***[Fouet de l'astradaémon](./Fouet de lastradaémon.md)*** *(BD)* (Ens/Mag 6, Magus 5, Prê 6, Sor 6). Transforme les mains du lanceur en griffes redoutables qui infligent des niveaux négatifs.
+- ***[Fouet de la bouche de l'enfer](./Fouet de la bouche de lenfer.md) ([Tieffelin](./Tieffelin (race).md))*** *(MR)* (Ens/Mag 4, San 4, Sor 4). Transforme la langue du personnage en un fouet d'énergie.
+- ***[Fouet de la rivière](./Fouet de la rivière.md)*** *(MCA)* (Ens/Mag 2, Magus 2, Sor 2). Crée un fouet composé d’eau que le personnage manie comme une arme.
+- ***[Fouet de mille-pattes](./Fouet de mille-pattes.md)*** *(MCA)* (Bard 5, Con 5, ConU 5, Dru 5, Ens/Mag 5, Sor 5). Crée un fouet composé de mille-pattes empoisonnés.
+- ***[Fouet fantôme](./Fouet fantôme.md)*** *(AO)* (Inq 2, Ens/Mag 2, Magus 2, Occ 2, Prê 2, Psy 2, Sor 2, Spi 2). Crée un fouet spectral qui traverse les objets.
+- ***[Fouette-lame](./Fouette-lame.md)*** *(MCA)* (Magus 1, San 1). Le personnage utilise son arme comme un fouet pour faire un croc-en-jambe à un adversaire.
+- ***[Foulée urbaine](./Foulée urbaine.md)*** *(UI)* (Bard 2, Con 3, ConU 3, Ens/Mag 3, Magus 3, Occ 3). Lie deux entrées afin que passer dans l'une téléporte à l'autre.
+- ***[Fracassement](./Fracassement.md) (Y)*** (Bard 2, Ens/Mag 2, Magus 2, Occ 2, Prê 2, Psy 2, San 2). Endommage objets ou créatures cristallines.
+- ***[Fractionnement des soins et des blessures](./Fractionnement des soins et des blessures.md) ([Néthys](./Néthys (technique).md))*** *(ISG)* (Bard 3, Ens/Mag 3, Prê 3, San 3). Soigne le lanceur avec le prochain sort de dégâts qu'il incante.
+- ***[Frappe de la corneille sanglante](./Frappe de la corneille sanglante.md) (Y)*** *(AM)* (Prê 4). Les frappes à mains nues créent des corneilles qui infligent des dégâts de feu et d'énergie négative.
+- ***[Frappe douloureuse](./Frappe douloureuse.md)*** *(MJRA)* (Ens/Mag 3, Psy 2, San 3, Sor 3, Spi 3). Inflige 1d6 points de dégâts non létaux pendant 1 round par niveau.
+- ***[Frappe douloureuse de groupe](./Frappe douloureuse de groupe.md)*** *(MJRA)* (Ens/Mag 5, Psy 4, Sor 5, Spi 5). Comme *frappe douloureuse* mais affecte plusieurs créatures.
+- ***[Frappe miroir](./Frappe miroir.md)*** *(AG)* (Ens/Mag 1, Magus 1, Psy 1, San 1). Le personnage frappe plusieurs adversaires lors d’une seule attaque.
+- ***[Frappe percutante](./Frappe percutante.md)*** *(MMI)* (Inq 4, Magus 4, Pal 4, Prê 4). Frappe une créature avec une puissance hors du commun, infligeant des dégâts supplémentaires en plus de la bousculer.
+- ***[Frappes fébriles](./Frappes fébriles.md) ([Homme-rat](./Homme-rat (race).md))*** *(MR)* (Alch 2, Apal 2, Dru 2, Magus 3, Rôd 4, Sor 2). Les attaques au corps à corps infligées au personnage rendent ses attaquants fiévreux.
+- ***[Frayeur](./Frayeur.md)*** (Apal 1, Bard 1, Cham 1, Hyp 1, Inq 1, Ens/Mag 1, Méd 1, Occ 1, Prê 1, Psy 1, San 1, Sor 1, Spi 1). Une créature possédant 5 DV ou moins fuit pendant 1d4 rounds.
+- ***[Frissonnement du temps](./Frissonnement du temps.md)*** *(MCA)* (Con 2, ConU 2, Ens/Mag 2, Magus 2, Psy 2). Les créatures alentour sont affectées par rapidité ou par lenteur chaque round.
+- ***[Froid pénétrant](./Froid pénétrant.md) (Y)*** *(AM)* (Dru 2, Ens/Mag 2, San 2, Sor 2). La cible est victime d'un froid important.
+- ***[Froide frappe de glace](./Froide frappe de glace.md)*** *(AM)* (Ens/Mag 6, Occ 6, Prê 6). Cône d'éclats de glace qui inflige 1d6 points de dégâts de froid/niveau.
+- ***[Fuite aérienne](./Fuite aérienne.md) ([Sylphe](./Sylphe (race).md))*** *(MR)* (Bard 1, Dru 1, Ens/Mag 1, Magus 1, San 1). Le lanceur de sorts réagit à une attaque en devenant brièvement vaporeux et intangible, ce qui permet à l’attaque de le traverser sans le blesser.
+- ***[Fuite du barde](./Fuite du barde.md)*** *(MJRA)* (Bard 5). Le personnage et ses alliés s’échappent en urgence en se téléportant en sûreté.
+- ***[Fureur de Rovagug](./Fureur de Rovagug.md) ([Rovagug](./Rovagug (technique).md))*** *(D&M)* (Inq 2, Ens/Mag 2, Prê 2, San 2, Sor 2). Créé un tremblement de terre mineur pour faire tomber des créatures.
+- ***[Fureur solaire](./Fureur solaire.md) ([Ifrit](./Ifrit (race).md))*** *(MR)* (Dru 2, Sor 2). La cible maudite endure une chaleur insupportable.
+- ***[Furie flexible](./Furie flexible.md)*** *(MCA)* (Bard 3). Change un pouvoir de rage pour un autre.
+- ***[Fusion avec le familier](./Fusion avec le familier.md)*** *(AM)* (Cham 4, Ens/Mag 4, Sor 4). Possession du familier.
+- ***[Fusion dans la pierre](./Fusion dans la pierre.md)*** (Dru 3, Prê 3, Psy 3). Permet d'entrer dans la pierre.
+- ***[Fustiger](./Fustiger.md)*** *(MJRA)* (Hyp 2, Inq 2). La cible est secouée et se recroqueville de peur.
+- ***[Fustiger de groupe](./Fustiger de groupe.md)*** *(MJRA)* (Hyp 5, Inq 5). Comme *fustiger* mais le sort affecte plusieurs créatures.
+
+### G
+- ***[Gardien de la foi](./Gardien de la foi.md)*** *(MCA)* (Pal 4, Prê 4). La cible est protégée par un bouclier de la foi et par un sort de protection, et elle peut transférer les effets à une autre créature.
+- ***[Germes de feu](./Germes de feu.md) (Y)*** (Cham 6, Dru 6). Glands et baies deviennent des projectiles ou des bombes.
+- ***[Geyser](./Geyser.md)*** *(MJRA)* (Dru 4, Ens/Mag 5, Magus 5). Crée un geyser d’eau bouillante.
+- ***[Geyser d'air](./Geyser dair.md)*** *(MCA)* (Cham 4, Dru 3, Ens/Mag 3, Magus 3, San 3, Sor 3). Explosion d’air qui inflige 2d6 points de dégâts contondants et envoie les adversaires dans les airs.
+- ***[Glace bénie](./Glace bénie.md) (M)*** *(AM)* (Prê 5). Crée un mur ou des javelots d'eau bénie gelée.
+- ***[Glace insidieuse](./Glace insidieuse.md)*** *(MCA)* (Con 3, ConU 4, Dru 4, Ens/Mag 4). Pellicule de glace qui s’étend lentement sur une surface horizontale.
+- ***[Glace maudite](./Glace maudite.md) (M)*** *(AM)* (Prê 5). Crée un mur ou des javelots d'eau maudite gelée.
+- ***[Glissement de terrain](./Glissement de terrain.md) (Y)*** (Dru 6, Ens/Mag 6). Fait apparaître tranchées et collines.
+- ***[Globe d'invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)*** (Ens/Mag 4, Occ 4, Psy 4). Bloque les sorts de 3e niveau ou moins.
+- ***[Globe d'invulnérabilité renforcée](./Globe dinvulnérabilité renforcée.md) (Y)*** (Ens/Mag 6, Occ 6, Psy 6). Comme *globe d'invulnérabilité partielle*, mais bloque aussi les sorts du 4e niveau.
+- ***[Gloire dépréciée](./Gloire dépréciée.md)*** *(CMy)* (Hyp 3, Ens/Mag 3, Méd 1, Prê 3, Psy 3, Sor 3). Augmente le coût d'utilisation des pouvoirs mythiques de la cible.
+- ***[Gloire partagée](./Gloire partagée.md)*** *(CMy)* (Bard 2, Con 2, ConU 2, Dru 3, Ens/Mag 3, Méd 1, Prê 3, Psy 3, Sor 3). Les cibles sont traitées comme des créatures mythiques.
+- ***[Glyphe de garde](./Glyphe de garde.md) (M, Y)*** (Inq 3, Prê 3, Sor 3). Inscription affectant ceux qui la touchent.
+- ***[Glyphe de garde suprême](./Glyphe de garde suprême.md) (M)*** (Inq 6, Prê 6). Comme *glyphe de garde*, mais avec un sort du 6e niveau ou des dégâts de 10d8 max.
+- ***[Glyphe de maléfice](./Glyphe de maléfice.md) (M)*** *(MCA)* (Cham 3, Sor 3). Inscription qui lance le maléfice du personnage sur ceux qui le franchissent.
+- ***[Glyphe de maléfice suprême](./Glyphe de maléfice suprême.md) (M)*** *(MCA)* (Cham 5, Sor 5). Inscription qui lance le maléfice ou maléfice majeur du personnage sur ceux qui le franchissent.
+- ***[Gorgée de poison](./Gorgée de poison.md)*** *(UI)* (Alch 5, Cham 5, Dru 5, Sor 5). Protège le personnage contre les poisons ingérés, puis permet de les recracher en cône.
+- ***[Gourdin magique](./Gourdin magique.md)*** (Dru 1). Transforme bâton ou gourdin en arme +1 (dégâts équivalent à une arme du même type de deux tailles supérieures) pendant 1 minute/niveau.
+- ***[Goutte d'orchidée](./Goutte dorchidée.md) (M)*** *(MMI)* (Alch 3). Ajoute un puissant effet guérisseur aux mutagènes du personnage.
+- ***[Grâce](./Grâce (sort).md)*** *(MJRA)* (Pal 1, Prê 2). Les mouvements ne provoquent pas d’attaque d’opportunité.
+- ***[Grâce défensive](./Grâce défensive.md) ([Enquêteur](./Enquêteur.md) uniquement)*** *(MCA)* (Alch 5). Le personnage peut lancer un dé d'inspiration sans en dépenser d'utilisation pour obtenir un bonus d'esquive à la CA à chaque round, et devient immunisé aux dégâts de précision.
+- ***[Grâce des néréides](./Grâce des néréides.md) ([Ondin](./Ondin (race).md))*** *(MR)* (Dru 1, Sor 1). Confère un bonus de parade à la CA égal au modificateur de Charisme du personnage tant qu'il ne porte pas d'armure.
+- ***[Grâce du Pugwampi](./Grâce du Pugwampi.md)*** *(MMI)* (Bard 2, Ens/Mag 3, Sor 3). Impose les effets de l'aura de malchance des pugwampis à une créature.
+- ***[Grâce féline](./Grâce féline.md)*** (Alch 2, Bard 2, Con 2, ConU 2, Dru 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Psy 2, Rôd 2, San 2). Confère +4 en Dex pendant 1 minute/niveau.
+- ***[Grâce féline de groupe](./Grâce féline de groupe.md)*** (Bard 6, Con 4, ConU 6, Dru 6, Ens/Mag 6, Magus 6, Psy 6). Comme *grâce féline*, mais affecte un sujet/niveau.
+- ***[Grâce urbaine](./grâce urbaine.md) ([Demi-elfe](./Demi-elfe.md))*** *(MR)* (Alch 1, Bard 1, Ens/Mag 1, Rôd 1, Sor 1). Le personnage se meut plus facilement dans la foule et entre les bâtiments.
+- ***[Graisse](./Graisse.md) (Y)*** (Bard 1, Con 1, ConU 1, Hyp 1, Ens/Mag 1, Magus 1). Rend glissant un objet ou une zone (3 m de côté).
+- ***[Grand banquet](./Grand banquet.md)*** *(UI)* (Bard 4, Cham 4, Dru 4, Prê 4). Crée un festin luxueux pour 2 créatures/niveau.
+- ***[Grand pas](./Grand pas.md)*** (Dru 1, Rôd 1). Augmente la vitesse de déplacement.
+- ***[Grand pas suprême](./Grand pas suprême.md)*** *(MCA)* (Dru 3, Rôd 3). Comme *grand pas*, mais la vitesse des autres modes de déplacement est augmentée.
+- ***[Grand tertre](./Grand tertre.md)*** (Cham 9, Dru 9). Appelle 1d4+2 tertres errants luttant pour le PJ.
+- ***[Grandes illuminations](./Grandes illuminations.md)*** *(MJRA)* (Bard 1, Dru 1, Ens/Mag 1, Magus 1, Psy 1, San 1). Comme *illumination* mais touche toutes les créatures dans un rayon de 3 m.
+- ***[Grappin opportun](./Grappin opportun.md)*** *(UI)* (Inq 1, Ens/Mag 1, Rôd 1). Transforme un objet semblable à une corde en grappin rétractable.
+- ***[Griffes sanglantes](./Griffes sanglantes.md)*** *(MJRA)* (Dru 4, Rôd 3). Provoque des dégâts de saignement sur les attaques naturelles.
+- ***[Guérison de destrier](./Guérison de destrier.md)*** (Pal 3). Guérison suprême sur la monture du PJ.
+- ***[Guérison de la cécité/surdité](./Guérison de la cécitésurdité.md)*** (Alch 3, Cham 3, Hyp 3, Pal 3, Prê 3, Sor 3, Spi 3). Soigne la cécité ou la surdité.
+- ***[Guérison des maladies](./Guérison des maladies.md)*** (Alch 3, Cham 3, Dru 3, Inq 3, Prê 3, Rôd 3, Sor 3, Spi 3). Guérit tous les maux du sujet.
+- ***[Guérison des morts-vivants](./Guérison des morts-vivants.md)*** *(MCA)* (Ens/Mag 1). Soigne un mort-vivant de 1d8 pv + 1/niveau (+5 au maximum).
+- ***[Guérison des morts-vivants de groupe](./Guérison des morts-vivants de groupe.md)*** *(MCA)* (Ens/Mag 5, Spi 5). Soigne les morts-vivants de 1d8 pv + 1/niveau, affectant 1 mort-vivant/niveau.
+- ***[Guérison diabolique](./Guérison diabolique.md)*** *(CCMI)* (Con 1, ConU 1, Ens/Mag 1, Magus 1, Prê 1, San 1, Sor 1). Guérison accéléré 1 pour une minute.
+- ***[Guérison diabolique supérieure](./Guérison diabolique supérieure.md)*** *(CCMI)* (Con 4, ConU 4, Ens/Mag 4, Magus 4, Prê 4, Sor 4). Comme *guérison diabolique*, mais confère une guérison accélérée 4.
+- ***[Guérison suprême](./Guérison suprême.md) (Y)*** (Alch 6, Cham 7, Dru 7, Inq 6, Occ 6, Prê 6, Sor 7, Spi 6). Soigne 10 points de dégâts/niveau, les maladies et les troubles mentaux.
+- ***[Guérison suprême de groupe](./Guérison suprême de groupe.md)*** (Cham 9, Prê 9). Comme *guérison suprême*, mais sur plusieurs sujets.
+- ***[Gueule acide](./Gueule acide.md)*** *(MCA)* (Dru 1, Rôd 1). L'attaque de morsure du compagnon animal du personnage inflige 1d4 points de dégâts d'acide à l'impact, puis à chaque round pendant 1 + 1 round/4 niveau (+6 maximum).
+- ***[Guide](./Guide.md)*** *(MJRA)* (Cham 2, Prê 3, Psy 3, Rôd 2, Sor 3). Révèle la distance approximative qui sépare le personnage de l’endroit où il a lancé ce sort.
+
+### H
+- ***[Habileté en selle](./Habileté en selle.md)*** *(MJRA)* (Pal 2). Bonus aux dégâts quand le personnage se déplace sur sa monture.
+- ***[Hallucination audiovisuelle](./Hallucination audiovisuelle.md)*** *(UI)* (Bard 3, Hyp 3, Ens/Mag 3, Magus 3, Méd 2, Occ 3, Psy 3). Crée un fantasme qui inclut des éléments auditifs et visuels.
+- ***[Hallucination auditive](./Hallucination auditive.md)*** *(UI)* (Bard 1, Hyp 1, Ens/Mag 1, Magus 1, Méd 1, Occ 1, Psy 1). Crée un fantasme qui inclut des éléments auditifs.
+- ***[Hallucination complexe](./Hallucination complexe.md)*** *(UI)* (Bard 4, Hyp 4, Ens/Mag 4, Magus 4, Méd 3, Occ 4, Psy 4, Sor 4). Crée un fantasme qui inclut des éléments auditifs, olfactifs, tactils, thermaux et visuels.
+- ***[Hallucination permanente](./Hallucination permanente.md)*** *(UI)* (Ens/Mag 7, Psy 7). Comme *hallucination scénarisée* mais permanent.
+- ***[Hallucination programmée](./Hallucination programmée.md) (M)*** *(UI)* (Bard 6, Hyp 6, Ens/Mag 6, Magus 6, Occ 6, Psy 6). Comme *hallucination scénarisée* mais n'apparaît que lorsqu'elle est déclenchée.
+- ***[Hallucination scénarisée](./Hallucination scénarisée.md)*** *(UI)* (Bard 5, Hyp 5, Ens/Mag 5, Magus 5, Méd 4, Occ 5, Psy 5). Comme *hallucination complexe* mais sans nécessiter de concentration.
+- ***[Halo de gloire](./Halo de gloire.md)*** *(MJRA)* (Pal 4). Un dernier sursaut soigne les créatures bonnes et blesse les mauvaises.
+- ***[Halo indésirable](./Halo indésirable.md) ([Sarenraé](./Sarenraé (technique).md))*** *(ISG)* (Ens/Mag 1, Pal 1, Prê 1). Manifeste un halo autour d'une cible, l'empêchant de se cacher dans l'obscurité.
+- ***[Haricot magique](./Haricot magique.md)*** *(MCA)* (Dru 2, Sor 2). Crée une tige de haricot qu’il est facile d’escalader.
+- ***[Harmonie profane](./Harmonie profane.md)*** *(MJRA)* (Bard 3). Accorde la métamagie aux sorts profanes et +1 au DD.
+- ***[Havresombre](./Havresombre.md) ([Fetchelin](./Fetchelin (race).md))*** *(MR)* (Ens/Mag 4, Psy 4). Ce sort crée un abri extra-dimensionnel temporaire
+- ***[Hébétement](./Hébétement.md)*** (Bard 0, Cham 0, Con 0, ConU 0, Hyp 0, Inq 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Psy 0, Sor 0, Spi 0). Fait perdre 1 action à un humanoïde de 4 DV ou moins.
+- ***[Hébétement de groupe](./Hébétement de groupe.md)*** *(AM)* (Bard 4, Con 4, ConU 4, Hyp 4, Inq 4, Ens/Mag 4, Méd 3, Occ 4, Psy 3, Sor 4). Comme *hébétement* mais sur plusieurs créatures.
+- ***[Hébétement de monstre](./Hébétement de monstre.md)*** (Bard 2, Con 1, ConU 1, Hyp 2, Ens/Mag 2, Méd 2, Occ 2, Psy 2, San 2, Sor 2). Une créature vivante de 6 DV ou moins perd sa prochaine action.
+- ***[Héroïsme](./Héroïsme.md) (Y)*** (Alch 3, Bard 2, Con 3, ConU 3, Inq 3, Ens/Mag 3, Méd 2, Psy 3, San 3, Sor 3, Spi 3). Confère +2 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence.
+- ***[Héroïsme insipide](./Héroïsme insipide.md)*** *(UI)* (Bard 3, Con 4, ConU 4, Inq 4, Ens/Mag 4, Méd 3, Psy 4, San 4, Sor 4, Spi 4). Comme *héroïsme* mais le personnage peut en inverser les effets à tout moment.
+- ***[Héroïsme insipide suprême](./Héroïsme insipide suprême.md)*** *(UI)* (Bard 6, Ens/Mag 7, Psy 7, Sor 7). Comme *héroïsme suprême* mais le personnage peut en inverser les effets à tout moment.
+- ***[Héroïsme suprême](./Héroïsme suprême.md)*** (Bard 5, Con 5, ConU 6, Ens/Mag 6, Psy 6, Sor 6, Spi 6). Confère un bonus de +4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence ; immunité contre la terreur ; pv temporaires.
+- ***[Heurt de pierres](./Heurt de pierres.md)*** *(MJRA)* (Dru 9, Ens/Mag 9). Inflige 20d6 points de dégâts aux créatures cibles.
+- ***[Horreur onirique](./Horreur onirique.md)*** *(AO)* (Bard 2, Hyp 2, Ens/Mag 3, Méd 1, Psy 2). Une créature issue des cauchemars de la cible la distrait et la fatigue.
+- ***[Horreur onirique suprême](./Horreur onirique suprême.md)*** *(AO)* (Bard 4, Hyp 3, Ens/Mag 5, Méd 2, Psy 4). Comme *horreur onirique* en ajoutant des dégâts à la For.
+- ***[Hostilité forcée](./Hostilité forcée.md)*** *(AG)* (Bard 1, Con 1, ConU 1, Hyp 1, Inq 1, Méd 1, Pal 1, Prê 1, Psy 1, Rôd 1, Sor 1). Oblige les adversaires à attaquer le personnage au lieu de ses alliés.
+- ***[Hurlement d'agonie](./Hurlement dagonie.md)*** *(AM)* (Hyp 2, Inq 2, Ens/Mag 3, Psy 2, San 3, Sor 3, Spi 3). Une douleur à hurler limite les actions de la cible.
+- ***[Hurlement du chasseur](./Hurlement du chasseur.md)*** *(MJRA)* (Rôd 1). Le personnage considère ses adversaires comme des ennemis jurés pendant 1 round/niveau.
+- ***[Hurlement perçant](./Hurlement perçant.md)*** *(AM)* (Bard 2, Psy 2). La cible est chancelante à cause d'un son douloureux.
+- ***[Hurlement primitif](./Hurlement primitif.md)*** *(AM)* (Bard 4, Hyp 4). Libère des effets d'enchantement et de paralysie.
+- ***[Hypercognition](./Hypercognition.md)*** *(AO)* (Alch 3, Bard 3, Ens/Mag 4, Méd 2, Psy 2). Le mage se souvient rapidement de tout ce qu’il sait sur un sujet.
+- ***[Hypnose](./Hypnose.md)*** (Bard 1, Hyp 1, Ens/Mag 1, Occ 1, Psy 1, Sor 1). Fascine 2d4 DV de créatures.
+- ***[Hypnose des animaux](./Hypnose des animaux.md)*** (Bard 2, Dru 2, Hyp 2, Psy 2). Fascine 2d6 DV d'animaux.
+
+### I
+- ***[Identification](./Identification.md)*** (Alch 1, Bard 1, Con 1, ConU 1, Ens/Mag 1, Méd 1, Occ 1, Psy 1, Sor 1, Spi 1). Bonus de +10 pour identifier un objet magique.
+- ***[Idiotie](./Idiotie.md)*** (Hyp 2, Ens/Mag 2, Méd 2, Psy 2, San 2, Sor 2, Spi 2). Le sujet perd 1d6 points d'Int, de Sag et de Cha.
+- ***[Illumination](./Illumination.md)*** (Bard 0, Dru 0, Hyp 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Psy 0). Éblouit la cible (-1 aux jets d'attaque).
+- ***[Image accomplie](./Image accomplie.md)*** (Bard 3, Hyp 3, Ens/Mag 3, Magus 3, Méd 3, Occ 3, Psy 3). Comme *image silencieuse*, plus sons, odeurs et température.
+- ***[Image de foudre](./Image de foudre.md)*** *(AG)* (Bard 4, Hyp 4, Ens/Mag 4, Occ 4, San 4). Comme *image miroir* mais le double inflige des dégâts électriques quand on le détruit.
+- ***[Image dérobée](./Image dérobée.md) (F)*** *(RSE)* (Bard 3, Ens/Mag 3). Stocke des images dans une gemme.
+- ***[Image imparfaite](./Image imparfaite.md)*** (Bard 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Psy 2). Comme *image silencieuse*, plus sons limités.
+- ***[Image miroir](./Image miroir.md) (Y)*** (Bard 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Psy 2, San 2). Crée des doubles illusoires du PJ.
+- ***[Image permanente](./Image permanente.md)*** (Bard 6, Hyp 6, Ens/Mag 6, Occ 6, Psy 6). Illusion permanente qui comprend les aspects visuels, sonores et olfactifs et de température.
+- ***[Image prédéterminée](./Image prédéterminée.md)*** (Bard 5, Hyp 5, Ens/Mag 5, Méd 4, Occ 5, Psy 5). Comme *image accomplie*, mais sans concentration.
+- ***[Image programmée](./Image programmée.md) (M)*** (Bard 6, Hyp 6, Ens/Mag 6, Psy 6). Comme *image accomplie*, mais déclenchée par condition.
+- ***[Image psychique](./Image psychique.md)*** *(AO)* (Psy 9). Crée une illusion parfaite du personnage.
+- ***[Image silencieuse](./Image silencieuse.md) (Y)*** (Bard 1, Hyp 1, Ens/Mag 1, Magus 1, Méd 1, Occ 1, Psy 1). Illusion visuelle mineure.
+- ***[Immobilisation d'animal](./Immobilisation danimal.md)*** (Dru 2, Hyp 2, Psy 2, Rôd 2). Immobilise un animal pour 1 round/niveau.
+- ***[Immobilisation de monstre](./Immobilisation de monstre.md)*** (Bard 4, Con 4, ConU 5, Hyp 4, Inq 4, Ens/Mag 5, Méd 4, Occ 4, Psy 5, Sor 5). Immobilise n'importe quelle créature.
+- ***[Immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)*** (Ens/Mag 9, Psy 9, Sor 9). Comme *immobilisation de monstre*, mais sur 9 m de rayon.
+- ***[Immobilisation de morts-vivants](./Immobilisation de morts-vivants.md)*** (Inq 3, Ens/Mag 3). Stoppe les morts-vivants pendant 1 round/niveau.
+- ***[Immobilisation de personne](./Immobilisation de personne.md)*** (Apal 2, Bard 2, Cham 2, Hyp 2, Inq 2, Ens/Mag 3, Méd 2, Occ 3, Prê 2, Psy 2, San 3, Sor 2). Immobilise un humanoïde pendant 1 round/niveau.
+- ***[Immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)*** (Hyp 6, Ens/Mag 7, Psy 7, Sor 7). Comme *immobilisation de personne*, mais dans un rayon de 9 m.
+- ***[Immolation spontanée](./Immolation spontanée.md)*** *(AG)* (Ens/Mag 2, Psy 2). La cible subit 3d6 points de dégâts de feu et s’enflamme.
+- ***[Immortalité](./Immortalité.md) (Y)*** *(CMy)* (Alch 4, Inq 4, Ens/Mag 4, Méd 4, Prê 4, Psy 4, Sor 4). Empêche la mort par perte de points de vie tant que le sort persiste.
+- ***[Immunité contre les sorts](./Immunité contre les sorts.md)*** (Alch 4, Inq 4, Occ 4, Prê 4, Psy 4, Spi 4). Immunise le sujet contre 1 sort/4 niveaux.
+- ***[Immunité contre les sorts (partagé)](./Immunité contre les sorts (partagé).md)*** *(AG)* (Inq 5, Occ 5, Prê 5, Psy 5). Comme *immunité contre les sorts* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Immunité contre les sorts suprême](./Immunité contre les sorts suprême.md)*** (Prê 8, Psy 8). Comme *immunité contre les sorts*, mais jusqu'au 8e niveau.
+- ***[Immunité contre les sorts suprême (partagé)](./Immunité contre les sorts suprême (partagé).md)*** *(AG)* (Prê 9, Psy 9). Comme *immunité contre les sorts suprême* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Impasse égarée](./Impasse égarée.md) ([Samsaran](./samsaran (race).md))*** *(ISR)* (Bard 4, Ens/Mag 4). Enchante la zone d'effet pour désorienter ceux qui s'y déplacent.
+- ***[Implantation de lecture factice](./Implantation de lecture factice.md)*** *(AO)* (Hyp 2, Occ 2, Psy 2). Imprègne un objet d’une fausse impression psychique.
+- ***[Implantation de pensées](./Implantation de pensées.md) ([Changelin](./changelin (race).md))*** *(MR)* (Bard 1, Hyp 1, Ens/Mag 1, Psy 1, Sor 1). Implante des idées dans l'esprit de la cible.
+- ***[Implosion](./Implosion.md)*** (Prê 9, Psy 9). Inflige 10 pts de dégâts/niveau à une créature/round.
+- ***[Imprécation](./Imprécation.md) (Y)*** (Apal 1, Cham 1, Hyp 1, Inq 1, Prê 1). Les adversaires subissent -1 à l'attaque et aux jets de sauvegarde contre la terreur.
+- ***[Imprégner d'aura](./imprégner daura.md)*** *(AM)* (Prê 2). La cible imite l'aura du prêtre.
+- ***[Incantation assurée](./incantation assurée.md)*** *(RSE)* (Bard 1, Inq 1, Ens/Mag 1, Prê 1, Sor 1). Le personnage considère son NLS comme supérieur de 5 afin de passer la résistance à la magie avec le prochain sort qu'il lance.
+- ***[Infatigable poursuivant](./Infatigable poursuivant.md)*** *(MJRA)* (Inq 1, Rôd 1). Le personnage ignore la fatigue quand il court en petites foulées.
+- ***[Infatigables poursuivants](./Infatigables poursuivants.md)*** *(MJRA)* (Inq 4, Rôd 3). Comme *infatigable poursuivant* mais affecte plusieurs créatures.
+- ***[Infestation de vers](./Infestation de vers.md)*** *(AM)* (Inq 4, Ens/Mag 4, Prê 4, Psy 4, Sor 4). Des vers infligent des dégâts et un affaiblissement de Dex.
+- ***[Infestation fongique](./Infestation fongique.md)*** *(AM)* (Dru 3). La cible saigne quand on l'attaque.
+- ***[Infliger des souffrances](./Infliger des souffrances.md)*** *(AO)* (Apal 2, Hyp 2, Inq 2, Ens/Mag 3, Méd 2, Occ 2, Psy 2, Sor 3, Spi 2). La cible subit un malus de –4 aux jets d’attaque ainsi qu’aux tests de compétence et de caractéristique.
+- ***[Infliger des souffrances de groupe](./Infliger des souffrances de groupe.md)*** *(AO)* (Apal 4, Hyp 5, Inq 5, Ens/Mag 7, Méd 4, Occ 5, Psy 6, Sor 7, Spi 5). Comme *infliger des souffrances* mais touche une créature par niveau.
+- ***[Inhalation absorbante](./Inhalation absorbante.md) ([Sylphe](./Sylphe (race).md))*** *(MR)* (Alch 4, Dru 4, Ens/Mag 4, San 4). Absorbe un effet gazeux, le conservant sans danger dans le corps du personnage.
+- ***[Injection](./Injection.md) (Y)*** *(AG)* (Alch 2, Ens/Mag 3, Psy 3). Le personnage peut administrer une infusion, un élixir, un poison ou une potion par une attaque de contact.
+- ***[Injonction](./Injonction.md) (Y)*** (Apal 1, Hyp 1, Inq 1, Méd 1, Occ 1, Prê 1, Psy 1, Sor 1). La cible obéit à un ordre d'un mot pendant 1 round.
+- ***[Injonction suprême](./Injonction suprême.md)*** (Hyp 4, Inq 5, Méd 4, Occ 5, Prê 5, Psy 5). Comme *injonction*, mais affecte un sujet/niveau.
+- ***[Innocence](./Innocence.md)*** *(MJRA)* (Bard 1, Hyp 1). Gagne +10 aux tests de Bluff pour paraître innocent.
+- ***[Innombrables yeux](./Innombrables yeux.md)*** *(AM)* (Alch 3, Inq 3, Ens/Mag 3, Occ 3, Psy 3, San 3, Sor 3). Des yeux supplémentaires donnent la vision à 360°.
+- ***[Insectes espions](./Insectes espions.md)*** *(UI)* (Con 3, ConU 3, Dru 3, Ens/Mag 4, Rôd 3, Sor 4). Le personnage utilise des coléoptères magiques comme espions.
+- ***[Insectes espions suprême](./Insectes espions suprême.md)*** *(UI)* (Con 6, ConU 6, Dru 6, Ens/Mag 7, Sor 7). Le personnage utilise des coléoptères magiques comme espions et partage leurs sens.
+- ***[Insinuation du ça I](./Insinuation du ça I.md)*** *(AO)* (Psy 2). Rend une créature confuse pendant la durée de la concentration + 1 round.
+- ***[Insinuation du ça II](./Insinuation du ça II.md)*** *(AO)* (Psy 3). Comme *insinuation du ça I* mais affecte deux créatures et l’effet de confusion est plus important.
+- ***[Insinuation du ça III](./Insinuation du ça III.md)*** *(AO)* (Psy 4). Comme *insinuation du ça I* mais affecte trois créatures et l’effet de confusion est plus puissant.
+- ***[Insinuation du ça IV](./Insinuation du ça IV.md)*** *(AO)* (Psy 5). Comme *insinuation du ça I* mais affecte quatre créatures et l’effet de confusion est au choix du personnage.
+- ***[Inspection](./Inspection.md)*** *(MJRA)* (Bard 0, Inq 0, Méd 0, Occ 0, Psy 0). Voit la zone comme s'il l'examinait.
+- ***[Inspiration brillante](./Inspiration brillante.md)*** *(MJRA)* (Bard 6, Psy 8). Le personnage lance deux d20 et choisit le meilleur.
+- ***[Inspiration galante](./Inspiration galante.md)*** *(MJRA)* (Bard 2). Bonus d’attaque de +2d4 aux jets d’attaque ratés ou aux tests de compétence ratés.
+- ***[Inspiration opportune](./Inspiration opportune.md)*** *(MJRA)* (Bard 1). Donne un bonus sur un test/jet d’attaque raté.
+- ***[Instant de gloire](./Instant de gloire.md)*** *(AG)* (Bard 1, Ens/Mag 1, Prê 1, Psy 1). Double un bonus de moral.
+- ***[Instinct criminel](./Instinct criminel.md)*** *(UI)* (Apal 4, Bard 6, Hyp 6, Ens/Mag 8, Psy 8). Maudit la cible pour qu'elle devienne un criminel désaxé. 
+- ***[Instrument d'agonie](./Instrument dagonie.md)*** *(AG)* (Inq 2, Prê 2). L’arme émet une fureur divine qui donne un bonus aux tests d’Intimidation.
+- ***[Interaction anonyme](./Interaction anonyme.md)*** *(MCA)* (Bard 2, Hyp 2, Psy 2, Sor 2). Fait oublier aux cibles toutes les informations qu’elles ont apprises sur lui en dehors des plus superficielles.
+- ***[Interdiction](./Interdiction.md) (M)*** (Inq 6, Occ 6, Prê 6). Bloque les déplacements planaires, blesse les créatures d'un alignement différent.
+- ***[Interdiction du fou](./Interdiction du fou.md)*** *(MJRA)* (Bard 6, Psy 8). Les ennemis qui approchent à portée d’une émanation centrée sur le personnage sont confus.
+- ***[Interrogatoire](./Interrogatoire.md)*** *(AM)* (Hyp 1, Inq 1, Ens/Mag 1, Psy 1, Sor 1). La cible répond aux questions ou souffre.
+- ***[Interrogatoire supérieur](./Interrogatoire supérieur.md)*** *(AM)* (Inq 4, Psy 4). Comme *interrogatoire* mais avec plus de douleur et de questions.
+- ***[Intuition de l'ennemi](./Intuition de lennemi.md)*** *(MCA)* (Rôd 2). Accorde aux autres un bonus contre les ennemis jurés du personnage.
+- ***[Invasion d'orties](./Invasion dorties.md)*** *(AM)* (Dru 3). Une explosion inflige 3d6 points de dégâts et 1d6 d'acide.
+- ***[Invective cuisante](./Invective cuisante.md) (Y)*** *(AG)* (Alch 2, Bard 2, Hyp 2, Inq 2). Le personnage fait un test d’Intimidation contre tous les adversaires situés dans les 9 m. Ceux qu’il démoralise subissent des dégâts de feu.
+- ***[Inversion de la gravité](./Inversion de la gravité.md) (Y)*** (Dru 8, Ens/Mag 7, Psy 7). Objets et créatures tombent vers le haut.
+- ***[Invisibilité](./Invisibilité.md) (Y)*** (Alch 2, Apal 2, Bard 2, Con 2, ConU 2, Hyp 2, Inq 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Psy 2, Spi 2). Sujet invisible pendant 1 minute/niveau ou jusqu'à ce qu'il attaque.
+- ***[Invisibilité de groupe](./Invisibilité de groupe.md)*** (Con 5, ConU 6, Hyp 6, Ens/Mag 7, Psy 7). Comme *invisibilité*, mais multiples sujets.
+- ***[Invisibilité pour les animaux](./Invisibilité pour les animaux.md)*** (Cham 1, Dru 1, Rôd 1). Les animaux ne voient pas un sujet/niveau.
+- ***[Invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)*** (Inq 1, Prê 1). Les morts-vivants ne voient pas les sujets (1/niveau).
+- ***[Invisibilité suprême](./Invisibilité suprême.md)*** (Alch 4, Apal 4, Bard 4, Con 3, ConU 4, Hyp 4, Inq 4, Ens/Mag 4, Magus 4, Méd 3, Occ 4, Psy 4, Spi 4). Comme *invisibilité*, mais continue quand le sujet attaque.
+- ***[Invocation héroïque](./Invocation héroïque.md)*** *(AG)* (Ens/Mag 9, Psy 9, Sor 9). Des créatures bénéficient de bonus aux jets d’attaque et de dégâts, de points de vie temporaires et d’une immunité contre les effets de peur et de charme.
+- ***[Invocation instantanée](./Invocation instantanée.md) (M)*** (Ens/Mag 7, Psy 7, Sor 7). L'objet préparé apparaît dans la main du PJ.
+- ***[Invocation instantanée suprême](./Invocation instantanée suprême.md) (M)*** *(UI)* (Ens/Mag 8, Psy 8, Sor 8). Comme *invocation instantanée* mais pour plusieurs objets et créatures.
+- ***[Isoler](./Isoler.md) ([Gobelours](./Gobelours.md))*** *(CM)* (Apal 3, Bard 3, Hyp 3, Inq 3, Ens/Mag 3, Psy 3, Sor 3). La cible devient invisible et silencieuse mais seulement vis-à-vis de ses alliés.
+
+### J
+- ***[Jauge de sort](./Jauge de sort.md) ([Néthys](./Néthys (technique).md))*** *(D&M)* (Bard 2, Inq 2, Ens/Mag 2, Prê 2, Sor 2). Révèle certains des sorts préparés de la cible.
+- ***[Javeline épineuse](./Javeline épineuse.md)*** *(MCA)* (Cham 1, Dru 1, Rôd 1). Manie une javeline qui rend les adversaires fiévreux quand elle les touche.
+- ***[Jet d'acide](./Jet dacide.md) (M)*** *(AM)* (Ens/Mag 5, Magus 5). 1d6 points de dégâts d'acide/niveau plus 1 round d'acide.
+- ***[Jet de flammes](./Jet de flammes.md)*** *(MJRA)* (Ens/Mag 4, Magus 4, San 4). Des flammes jaillissent et infligent 2d6 points de dégâts.
+- ***[Jeunesse apparente](./Jeunesse apparente.md)*** *(AM)* (Alch 1, Bard 1, Ens/Mag 1, Méd 1, Occ 1, Psy 1, Sor 1). La cible semble plus jeune.
+- ***[Jitterbug](./jitterbug.md) (Y) ([Gnome](./Gnome.md))*** *(MR)* (Bard 1, Hyp 1, Ens/Mag 2, Psy 2). Rend la cible nerveuse, lui imposant un malus aux tests de Dextérité, aux tests basés sur la Dextérité, et l'empêchant de retarder une action, d'en préparer ou de se mettre en défense totale.
+- ***[Jouer d'un instrument](./Jouer dun instrument.md)*** *(AM)* (Bard 1). Le personnage joue d'un instrument comme s'il avait appris.
+- ***[Joueur de flûte](./Joueur de flûte.md)*** *(MJRA)* (Bard 6). Oblige des créatures similaires similaires à vous suivre.
+- ***[Jugement par anticipation](./Jugement par anticipation.md) ([Pharasma](./Pharasma (technique).md))*** *(D&M)* (Inq 2, Prê 2, Sor 1). Montre à une créature la récompense ou la punition qui l'attend après la mort.
+- ***[Juggernaut mortel](./Juggernaut mortel.md)*** *(AG)* (Apal 3, Inq 3, Pal 3, Prê 3). La puissance du personnage augmente à chaque fois qu’il tue.
+- ***[Jumeau](./Jumeau.md)*** *(MJRA)* (Alch 6). Crée un double contrôlable du personnage .
+- ***[Jumeau de ficelle](./Jumeau de ficelle.md)*** *(RSE)* (Ens/Mag 3). Créé un *simulacre* du personnage en tissu et en ficelle.
+- ***[Jumeau de vomi](./Jumeau de vomi.md) (Y) ([Gobelin](./Gobelin (race).md))*** *(MR)* (Alch 3, Con 3, ConU 3, Ens/Mag 4, Magus 3, Psy 4). Le lanceur crée un double de lui-même avec lequel il peut échanger sa place.
+- ***[Juxtaposition hostile](./Juxtaposition hostile.md)*** *(AG)* (Con 4, ConU 5, Hyp 4, Ens/Mag 5, Psy 5, Sor 5). Le personnage crée un lien dimensionnel entre la créature visée et sa personne. Ils échangent de place.
+- ***[Juxtaposition hostile supérieure](./Juxtaposition hostile supérieure.md)*** *(AG)* (Con 6, Hyp 6, Ens/Mag 7, Psy 7, Sor 7). Le personnage peut viser une créature de plus tous les quatre niveaux de lanceur de sorts.
+
+### L
+- ***[L'esprit dépasse la matière](./Lesprit dépasse la matière.md)*** *(OO)* (Hyp 2, Psy 2, Spi 2). Réattribue les affaiblissements/diminutions d'une caractéristique à une autre.
+- ***[La mort venue d'en bas](./la mort venue den bas.md) ([Gnome](./Gnome.md))*** *(MR)* (Bard 3, Ens/Mag 2, San 2). La cible obtient un bonus d'esquive à la CA contre les créatures plus grandes qu'elle.
+- ***[Lame de feu](./Lame de feu.md) (Y)*** (Cham 2, Dru 2). Attaque de contact infligeant 1d8 points de dégâts, +1/2 niveaux.
+- ***[Lame de sombre triomphe](./Lame de sombre triomphe.md)*** *(AM)* (Apal 3). L'arme liée devient spectrale.
+- ***[Lame de triomphe éclatant](./Lame de triomphe éclatant.md)*** *(AM)* (Pal 3). L'arme liée devient spectrale.
+- ***[Lame du crépuscule](./Lame du crépuscule.md)*** *(MJRA)* (Ens/Mag 3, Occ 3, Psy 3, San 3, Sor 3, Spi 3). Couteau flottant qui attaque avec le personnage.
+- ***[Lame éblouissante](./Lame éblouissante.md)*** *(MPNJ)* (Bard 1, Ens/Mag 1). Rend une arme brillante et éblouissante, facilitant les désarmements et les feintes au combat.
+- ***[Lame éblouissante de groupe](./Lame éblouissante de groupe.md)*** *(MPNJ)* (Ens/Mag 3). Comme *lame éblouissante*, mais affecte plusieurs armes.
+- ***[Lame spirituelle](./Lame spirituelle (sort).md)*** *(AO)* (Cham 4, Méd 4, Occ 4, Spi 3). Donne la propriété spectrale et un autre pouvoir lié aux émotions à une arme.
+- ***[Lamentation des derniers jours d'été](./Lamentation des derniers jours dété.md) ([Ulfe](./../Golarion/Ulfes.md))*** *(ISR)* (Bard 2, Rôd 2). Enveloppe la cible dans un manteau d'air estival chaud qui blesse les créatures de froid.
+- ***[Lamentation du lâche](./Lamentation du lâche.md)*** *(MJRA)* (Inq 4). Si le sujet n’attaque pas le personnage, il reçoit un malus.
+- ***[Lames de plomb](./Lames de plomb.md)*** *(MJRA)* (Occ 1, Rôd 1). Les armes de corps à corps causent des dégâts comme si elles étaient d’une catégorie de taille supérieure.
+- ***[Lames de vent](./Lames de vent.md) ([Sylphe](./Sylphe (race).md))*** *(MR)* (Dru 5, Ens/Mag 5, Magus 5, Sor 5). Densifie l'air autour de la cible pour en faire des lames dentées invisibles.
+- ***[Lance de lumière](./Lance de lumière.md)*** *(MJRA)* (Pal 2). Crée une colonne de lumière.
+- ***[Lance de pureté](./Lance de pureté.md)*** *(AM)* (Prê 2). Blesse et hébète peut-être les créatures mauvaises.
+- ***[Lancer un duel psychique](./Lancer un duel psychique.md)*** *(AO)* (Hyp 2, Méd 2, Occ 2, Psy 2, Spi 2). Initie un duel psychique entre le personnage et une autre créature.
+- ***[Langage caché](./Langage caché.md)*** *(MJRA)* (Bard 2, Hyp 2, Inq 3, Méd 2, Psy 2, Sor 2). +10 aux tests de Bluff pour envoyer des messages secrets.
+- ***[Langage codé](./Langage codé.md)*** *(UI)* (Bard 2, Hyp 2, Ens/Mag 2, Méd 2, Occ 2, Psy 2). Le personnage et les cibles parlent, lisent et écrivent un langage unique.
+- ***[Langue de miel](./Langue de miel.md)*** *(MJRA)* (Bard 2, Hyp 2, Inq 2, Pal 1). Le personnage lance 2 dés pour les tests de Diplomatie et conserve le meilleur.
+- ***[Langue élémentaire](./Langue élémentaire.md)*** *(MJRA)* (Bard 3, Dru 2, Hyp 3, Ens/Mag 2, Prê 3). Permet au personnage de parler aux élémentaires et à certaines créatures.
+- ***[Lanterne dansante](./lanterne dansante.md)*** *(MJRA)* (Bard 1, Cham 1, Ens/Mag 1, Prê 1, Rôd 1, Sor 1). Anime une lanterne qui suit le personnage.
+- ***[Lanternes macabres](./Lanternes macabres.md)*** *(RSE)* (Ens/Mag 2, Sor 2). Créé une version de *lumières dansantes* qui gène la discrétion et interfère avec les illusions dans les zones normalement ou faiblement éclairées .
+- ***[Le roi et la tour](./Le roi et la tour.md)*** *(MJRA)* (Pal 4). Le personnage échange instantanément de place avec un allié.
+- ***[Lecture d'objet](./Lecture dobjet.md)*** *(AO)* (Hyp 2, Méd 1, Occ 1, Psy 2, Spi 2). Lit les impressions psychiques laissées sur un objet.
+- ***[Lecture de la magie](./Lecture de la magie.md)*** (Apal 1, Bard 0, Cham 0, Con 0, ConU 0, Dru 0, Hyp 0, Inq 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Pal 1, Prê 0, Psy 0, Rôd 1, Sor 0, Spi 0). Permet de lire parchemins et livres de sorts.
+- ***[Lecture de la météo](./Lecture de la météo.md) ([Gozreh](./Gozreh (technique).md))*** *(D&M)* (Bard 1, Cham 1, Dru 1, Prê 1, Rôd 1, Sor 1). Prédit la météo des prochaines 48 heures.
+- ***[Lecture du destin](./Lecture du tourment.md) (Y)*** *(CCMI)* (Bard 3, Cham 3, Ens/Mag 3, Sor 3). Le personnage utilise un jeu du destin pour prédire le futur.
+- ***[Lecture psychique](./Lecture psychique.md)*** *(AO)* (Bard 2, Hyp 1, Inq 2, Ens/Mag 2, Méd 1, Occ 1, Psy 1, Spi 1). Lecture des pensées de surface pour obtenir des informations sur un sujet.
+- ***[Lecture rapide](./Lecture rapide de Kreighton.md)*** *(RSE)* (Bard 1, Ens/Mag 1, Magus 1, Prê 1). Le personnage a une compréhension partielle d'un livre comme s'il l'avait parcouru pendant 1 heure.
+- ***[Légende substantielle](./Légende substantielle.md)*** *(CMy)* (Bard 5, Prê 6). Amplifie la puissance mythique des cibles, les soignants quand elles dépensent du pouvoir mythique.
+- ***[Légion de la tombe](./Légion de la tombe.md)*** *(RSE)* (Ens/Mag 8, Prê 8). Appelle 1d4+2 momies évoluées.
+- ***[Lenteur](./Lenteur.md) (Y)*** (Bard 3, Con 2, ConU 3, Ens/Mag 3, Magus 3, Méd 2, Occ 3, Psy 3, San 3, Spi 3). 1 cible/niveau n'a droit qu'à une action/round, -1 à la CA et aux jets d'attaque, de dégâts et de Réflexes.
+- ***[Les yeux du séducteur](./Les yeux du séducteur.md) ([Calistria](./Calistria (technique).md))*** *(D&M)* (Bard 2, Ens/Mag 2, Sor 2). Bonus aux tests relatifs au Charisme envers ceux qui peuvent trouver le personnage attirant.
+- ***[Leurre](./Leurre.md) (M)*** (Bard 5, Hyp 5, Ens/Mag 5, Méd 4, Occ 5, Psy 5, Spi 5). Illusion abusant la scrutation magique.
+- ***[Leurre suprême](./Leurre suprême.md) (M)*** *(UI)* (Bard 6, Hyp 6, Ens/Mag 7, Psy 7). Comme *leurre* mais se déplace avec la cible.
+- ***[Lévitation](./Lévitation.md) (Y)*** (Alch 2, Cham 2, Con 2, ConU 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Psy 2, Sor 2, Spi 2). La cible monte ou descend au gré du PJ.
+- ***[Lévitation hostile](./Lévitation hostile.md)*** *(AG)* (Hyp 3, Ens/Mag 3, Méd 2, Occ 3, Psy 3, San 3, Sor 3, Spi 3). Fait léviter la créature visée.
+- ***[Libération](./Libération.md)*** *(MJRA)* (Con 1, ConU 1). Enlève les restrictions de distance sur l’eidolon.
+- ***[Liberté de mouvement](./Liberté de mouvement.md)*** (Alch 4, Bard 4, Dru 4, Hyp 4, Inq 4, Méd 4, Occ 4, Prê 4, Psy 4, Rôd 4, Spi 4). La cible bouge normalement malgré les entraves.
+- ***[Lien avec l'invocateur](./Lien avec linvocateur.md)*** *(AG)* (Con 4, ConU 4, Ens/Mag 5, Occ 4, Prê 4, Psy 5, Sor 5). La cible subit des dégâts à chaque fois que ses créatures invoquées en reçoivent.
+- ***[Lien de vie](./Lien de vie.md)*** *(AG)* (Con 1, ConU 1). Le personnage se lie encore plus étroitement avec son eidolon et peut utiliser le pouvoir lien vital pour partager ses points de vie avec lui.
+- ***[Lien de vie supérieur](./Lien de vie supérieur.md)*** *(AG)* (Con 5, ConU 5). Le personnage peut transférer 3d6 points de vie à son eidolon par une action rapide.
+- ***[Lien des esprits combatifs](./Lien des esprits combatifs.md) (Y)*** *(AM)* (Hyp 4, Inq 4, Ens/Mag 6, Méd 4, Occ 5, Psy 6). Le personnage et un allié tirent le meilleur de chacun au combat.
+- ***[Lien mental](./Lien mental.md)*** *(AO)* (Cham 1, Hyp 1, Ens/Mag 1, Méd 1, Occ 1, Psy 1, Spi 1). Communique une grande quantité d’informations en un instant.
+- ***[Lien mental avec le compagnon](./Lien mental avec le compagnon.md) (Y)*** *(AG)* (Dru 3, Rôd 3). Le personnage peut parler avec son compagnon animal et le gère avec une facilité surnaturelle.
+- ***[Lien sacré](./Lien sacré.md) (F, Y)*** *(MJRA)* (Inq 2, Pal 2, Prê 3). Lance les sorts de soins de contact de loin.
+- ***[Lien télépathique](./Lien télépathique.md)*** (Hyp 4, Inq 5, Ens/Mag 5, Méd 4, Psy 4, Sor 5, Spi 5). Permet de communiquer mentalement.
+- ***[Lien vital avec le compagnon](./Lien vital avec le compagnon.md)*** *(MCA)* (Dru 2, Ens/Mag 2, Rôd 2, Sor 2). Quand son compagnon est blessé, le personnage le sent et quand le personnage est dans une situation désespérée, il peut lancer un appel à son compagnon.
+- ***[Limite infranchissable](./Limite infranchissable.md)*** *(MCA)* (Ens/Mag 1, Magus 1, San 1). Le personnage augmente son nombre d’attaques d’opportunité par round.
+- ***[Linceul de foudre](./Linceul de foudre.md)*** *(MPNJ)* (Dru 3, Ens/Mag 3). Créé une zone d'électricité qui hébète les créatures à l'intérieur.
+- ***[Litanie d'éloquence](./Litanie déloquence.md)*** *(AG)* (Apal 2, Inq 3, Pal 2). Fascine une créature pendant 1 round.
+- ***[Litanie d'enchevêtrement](./Litanie denchevêtrement.md)*** *(AG)* (Apal 2, Inq 3, Pal 2). Enchevêtre une créature pendant un round.
+- ***[Litanie de défense](./Litanie de défense.md)*** *(AG)* (Apal 2, Inq 2, Pal 2). Double le bonus d’altération d’une armure.
+- ***[Litanie de faiblesse](./Litanie de faiblesse.md)*** *(AG)* (Apal 1, Inq 1). Une cible est fatiguée pour 1 round.
+- ***[Litanie de folie](./Litanie de folie.md)*** *(AG)* (Apal 4, Inq 6). Une cible est confuse pour au moins 1 round.
+- ***[Litanie de fuite](./Litanie de fuite.md)*** *(AG)* (Apal 3, Inq 4, Pal 3). Téléporte un allié agrippé pour le libérer.
+- ***[Litanie de paresse](./Litanie de paresse.md)*** *(AG)* (Apal 1, Inq 1, Pal 1). Une cible n’est plus en mesure de faire des attaques d’opportunité pendant 1 round.
+- ***[Litanie de prévention](./Litanie de prévention.md)*** *(AG)* (Apal 2, Inq 3, Pal 2). Deux attaques d’opportunité de plus pendant 1 round.
+- ***[Litanie de tonnerre](./Litanie de tonnerre.md)*** *(AG)* (Apal 4, Inq 5, Pal 4). Une cible est sourde jusqu’à ce qu’on la débarrasse de cette condition et elle est confuse pour 1 round.
+- ***[Litanie de vengeance](./Litanie de vengeance.md)*** *(AG)* (Apal 4, Inq 5, Pal 4). Les alliés qui attaquent la cible de ce sort gagnent un bonus de +5 aux jets de dégâts pendant 1 round.
+- ***[Litanie de vertu](./Litanie de vertu.md)*** *(AG)* (Inq 3, Pal 2). Une unique créature Mauvaise reçoit plus de dégâts de la part des créatures qui possède une aura Bonne.
+- ***[Litanie de vision](./Litanie de vision.md)*** *(AG)* (Apal 3, Inq 4, Pal 3). Le personnage distingue les créatures et les objets invisibles situés dans les 9 m autour de lui.
+- ***[Livre ouvert](./Livre ouvert.md)*** *(UI)* (Apal 2, Bard 2, Hyp 2, Inq 2, Ens/Mag 3, Psy 2, Sor 3). Maudit la cible pour qu'il soit plus facile d'en apprendre plus sur elle.
+- ***[Localisation d'objet](./Localisation dobjet.md)*** (Bard 2, Hyp 2, Inq 3, Ens/Mag 2, Méd 2, Occ 2, Prê 3, Psy 2, Sor 3, Spi 3). Indique la direction de l'objet cherché.
+- ***[Localisation de créature](./Localisation de créature.md)*** (Bard 4, Con 3, ConU 4, Hyp 4, Ens/Mag 4, Méd 3, Occ 4, Psy 4, Sor 4, Spi 4). Indique la direction d'une créature connue.
+- ***[Localisation suprême](./Localisation suprême.md)*** (Cham 8, Con 6, Ens/Mag 8, Prê 8, Psy 8, Sor 8). Localise précisément une créature ou un objet.
+- ***[Localité égarée](./Localité égarée.md) ([Samsaran](./samsaran (race).md))*** *(ISR)* (Ens/Mag 9). Comme *impasse égarée*, mais couvre une zone bien plus grande.
+- ***[Loin des yeux](./Loin des yeux.md)*** *(OO)* (Hyp 3, Méd 3, Psy 4). Les créatures qui voient le personnage l'oublient dès qu'il quitte leur champ de vision.
+- ***[Loup fantomatique](./loup fantomatique.md) ([Orque](./orque (race).md))*** *(MR)* (Con 2, ConU 2, Ens/Mag 4, Psy 4, San 4). Appelle une monture loup sanguinaire faite de fumée noire dont émane une aura de peur.
+- ***[Lueur d'arc-en-ciel](./Lueur darc-en-ciel.md)*** (Bard 4, Ens/Mag 4, Psy 4). Fascine jusqu'à 24 DV de créatures.
+- ***[Lueur féerique](./Lueur féerique.md) (Y)*** (Dru 1, Hyp 1). Illumine le sujet (annule flou, camouflage, etc.).
+- ***[Lueurs hypnotiques](./Lueurs hypnotiques.md)*** (Bard 2, Hyp 2, Ens/Mag 2, Psy 2). Fascine (2d4 + niveau) DV de créatures.
+- ***[Lumière](./Lumière.md)*** (Bard 0, Cham 0, Con 0, ConU 0, Dru 0, Hyp 0, Inq 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Prê 0, Psy 0, Sor 0, Spi 0). Fait briller un objet comme une torche.
+- ***[Lumière argentée](./Lumière argentée.md)*** *(CSU)* (Bard 3, Dru 3, Ens/Mag 3, Pal 3, Prê 3). Créé un éclat lumineux argenté qui affaibli les créatures sensibles à l'argent alchimique.
+- ***[Lumière brûlante](./Lumière brûlante.md) (Y)*** (Inq 3, Prê 3). 1d8 points de dégâts/2 niveaux ; plus contre les morts-vivants.
+- ***[Lumière de l'Héritière](./Lumière de Iomédae.md)*** *(MMI)* (Inq 3, Pal 2, Prê 3). Illumine tous les morts-vivants dans la zone et les rends plus vulnérables à l'énergie positive.
+- ***[Lumière du jour](./Lumière du jour.md) (Y)*** (Bard 3, Cham 3, Dru 3, Inq 3, Ens/Mag 3, Magus 3, Occ 3, Pal 3, Prê 3). Vive lumière sur 18 m de rayon.
+- ***[Lumière du jugement](./Lumière du jugement.md)*** *(AG)* (Inq 4). Le personnage gagne un effet supplémentaire tant que son jugement est actif.
+- ***[Lumières dansantes](./Lumières dansantes.md)*** (Bard 0, Cham 0, Hyp 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Psy 0, Sor 0). Crée torches ou autres lueurs.
+
+### M
+- ***[Mâchoire féroce](./mâchoire féroce.md) ([Demi-orque](./Demi-orque.md))*** *(MR)* (Apal 1, Dru 2, Inq 2, Magus 2, Prê 2, Psy 2, Rôd 1). Transforme la bouche du personnage en une mâchoire féroce et lui permet de rugir pour démoraliser ses adversaires.
+- ***[Mâchoires d'acier](./Mâchoires dacier.md)*** *(MJRA)* (Dru 2, Rôd 2). La créature gagne l’aptitude étreinte avec une attaque naturelle.
+- ***[Magie des ombres](./Magie des ombres.md)*** (Bard 5, Hyp 5, Ens/Mag 5, Spi 5). Reproduit les évocations de 4e niveau ou moins ; 20 % sont réelles.
+- ***[Magie des ombres suprême](./Magie des ombres suprême.md)*** (Ens/Mag 8). Comme *magie des ombres*, mais jusqu'au 7e niveau ; 60 % sont réelles.
+- ***[Main broyeuse](./Main broyeuse.md)*** (Ens/Mag 9, Psy 9). Main géante qui abrite, pousse ou attaque.
+- ***[Main du berger](./Main du berger.md)*** (Méd 2, Prê 3, Psy 3, Spi 3). Guide le sujet jusqu'au PJ.
+- ***[Main ectoplasmique](./Main ectoplasmique.md)*** *(OO)* (Occ 5, Psy 5, Spi 4). Manifeste une main fantomatique animée qui accomplit la volonté du personnage.
+- ***[Main impérieuse](./Main impérieuse.md)*** (Ens/Mag 6, Magus 6, Occ 6, Psy 6). Main repoussant les adversaires.
+- ***[Main interposée](./Main interposée.md)*** (Ens/Mag 5, Magus 5, Occ 5, Psy 5). Abri contre un adversaire.
+- ***[Main rouge de l'assassin](./Main rouge de lassassin.md)*** *(UI)* (Bard 4, Inq 4, Ens/Mag 5, Méd 3, Occ 4, Pal 4, Prê 4, Psy 5, Sor 5, Spi 4). Teint en rouge la main du meurtrier du cadavre utilisé.
+- ***[Main spectrale](./Main spectrale.md)*** (Ens/Mag 2, Méd 2, Occ 2, Psy 2, Sor 2, Spi 2). Main désincarnée portant des attaques de contact.
+- ***[Main vagabonde](./Main vagabonde.md)*** *(AG)* (Bard 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Occ 2, Prê 2, Psy 2, Spi 2). Le personnage peut prendre un objet ou le manipuler de loin.
+- ***[Mains brûlantes](./Mains brûlantes.md) (Y)*** (Cham 1, Ens/Mag 1, Magus 1, Occ 1, San 1, Sor 1). 1d4 points de dégâts de feu/niveau (max. 5d4).
+- ***[Maîtrise des marids](./Maîtrise des marids.md) ([Ondin](./Ondin (race).md))*** *(MR)* (Dru 1, Ens/Mag 1, Prê 1, Rôd 1, San 1, Sor 1). La cible obtient des bonus à l'attaque et aux dégâts quand elle se bat sous l'eau, et des malus quand elle se bat sur terre.
+- ***[Maîtrise élémentaire](./Maîtrise élémentaire.md) ([Ifrit](./Ifrit (race).md), [Ondin](./Ondin (race).md), [Oréade](./Oréade (race).md), [Suli](./suli (race).md), [Sylphe](./Sylphe (race).md))*** *(ISR)* (Dru 4, Ens/Mag 4, Magus 4, Rôd 4, San 4). Affine la maîtrise de l'essence élémentaire du personnage, offrant un bonus au déplacement et à l'attaque.
+- ***[Maladresse](./Maladresse.md)*** *(MJRA)* (Bard 1, Hyp 1, Ens/Mag 1, San 1, Spi 1). Le sujet perd 1d6+1 Dex/2 niveaux et risque de tomber.
+- ***[Malchance de l'artisan](./Malchance de lartisan.md)*** *(MJRA)* (Ens/Mag 1, Occ 1). Le sujet perd -5 au prochain test d’Artisanat.
+- ***[Malédiction](./sort Malédiction.md)*** (Apal 3, Cham 3, Hyp 3, Ens/Mag 4, Méd 2, Occ 3, Prê 3, San 4, Sor 3, Spi 3). -6 à une caractéristique, -4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence, ou 50 % de chances de perdre chaque action.
+- ***[Malédiction conditionnelle](./Malédiction conditionnelle.md)*** *(UI)* (Apal 4, Cham 4, Hyp 3, Inq 4, Ens/Mag 5, Méd 3, Occ 4, Prê 4, Psy 5, Sor 4, Spi 5). Impose une malédiction difficile à dissiper sans remplir les conditions établies.
+- ***[Malédiction de dégoût](./Malédiction de dégoût.md)*** *(AM)* (Bard 3, Hyp 3, Ens/Mag 5, Occ 4, Psy 6, Sor 5). Cible fiévreuse quand elle voit le déclencheur.
+- ***[Malédiction de l'eau](./Malédiction de leau.md) (M)*** (Apal 1, Inq 1, Prê 1). Crée de l'eau maudite.
+- ***[Malédiction de négation magique](./Malédiction de négation magique.md) (M)*** *(AM)* (Hyp 3, Inq 4, Ens/Mag 4, Occ 4, Prê 5, Psy 4, Sor 4). La cible est affectée par la plaie magique de négation.
+- ***[Malédiction des ondins](./Malédiction des ondins.md) ([Ondin](./Ondin (race).md))*** *(MR)* (Ens/Mag 1, Sor 1). Le corps de la cible perd sa capacité à respirer automatiquement.
+- ***[Malédiction du paria](./Malédiction du paria.md)*** *(UI)* (Bard 4, Cham 6, Hyp 4, Inq 4, Prê 6, Sor 6). Maudit la cible pour qu'elle peine à interagir socialement.
+- ***[Malédiction du sommeil brûlant](./Malédiction du sommeil brûlant.md)*** *(MCA)* (Cham 4, Ens/Mag 4, Psy 4, Sor 4). La créature prendra feu la prochaine fois qu’elle dormira pendant une heure.
+- ***[Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md) ([Humain](./Humain.md))*** *(MR)* (Dru 5, Hyp 4, Sor 5). Maudit une créature qui devient alors fiévreuse en permanence et chancelante si elle est proche de l'eau.
+- ***[Malédiction majeure](./Malédiction majeure.md)*** *(AM)* (Cham 5, Hyp 4, Ens/Mag 6, Occ 5, Prê 5, Psy 6, Sor 5, Spi 5). Comme *malédiction* mais plus difficile à dissiper.
+- ***[Manipulation à distance](./Manipulation à distance.md)*** (Bard 0, Con 0, ConU 0, Hyp 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Psy 0, Spi 0). Télékinésie limitée (2,5 kg max.).
+- ***[Manipulation des sons](./Manipulation des sons.md)*** (Bard 3). Altère les sons ou en crée de nouveaux.
+- ***[Manoeuvre télékinétique](./Manoeuvre télékinétique.md)*** *(AO)* (Ens/Mag 4, Magus 4, Psy 3, Spi 4). Manoeuvre offensive télékinétique.
+- ***[Manoir resplendissant](./Manoir resplendissant.md) (F)*** *(UI)* (Ens/Mag 9, Psy 9). Crée un manoir opulent de plusieurs étages.
+- ***[Manoir somptueux](./Manoir somptueux.md) (F)*** (Ens/Mag 7, Psy 7). Demeure extradimensionnelle.
+- ***[Manteau d'ombre](./Manteau dombre.md)*** *(MJRA)* (Dru 1, Rôd 1). Réduit les effets de l’exposition au soleil et à la châleur.
+- ***[Manteau de calme](./Manteau de calme.md)*** *(MCA)* (Cham 3, Hyp 2, Inq 3, Pal 3, Prê 3, Psy 3). Neutralise les effets de rage de ceux qui ont attaqué le personnage.
+- ***[Manteau de colère](./Manteau de colère.md)*** *(MJRA)* (Pal 3, Prê 3). La cible gagne +1/quatre niveaux à tous les jets de sauvegarde.
+- ***[Manteau de doutes](./Manteau de doutes.md)*** *(OO)* (Hyp 6, Psy 8). Envoi des spectres de doute paralysant sur ceux qui attaquent le personnage.
+- ***[Manteau de guêpes](./Manteau de guêpes.md) (Y)*** *(AM)* (Dru 4, Sor 4). Une nuée de guêpes défend ou porte le personnage.
+- ***[Manteau de rêves](./Manteau de rêves.md)*** *(MJRA)* (Bard 5, Cham 7, Hyp 5, Ens/Mag 6, Occ 6, Psy 6, Sor 6). Les créatures vivantes situées dans un rayon de 1,5 m s’endorment.
+- ***[Manteau de vent](./Manteau de vent.md)*** *(MJRA)* (Dru 3, Ens/Mag 3, Magus 3, Occ 3, Rôd 3, San 3, Spi 3). Crée un écran de vents violents autour du personnage.
+- ***[Manteau des guerriers magiques](./Manteau des guerriers magiques.md) ([Mwangi](./../Golarion/Mwangi.md))*** *(ISR)* (Cham 5, Dru 5, Ens/Mag 5). Investi les cibles d'animaux spirituels avec des bonus de *forme bestiale I* uniques.
+- ***[Manteau du Chaos](./Manteau du Chaos.md) (F)*** (Prê 8). +4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts de la Loi.
+- ***[Manteau marin](./Manteau marin.md)*** *(MJRA)* (Dru 8, Ens/Mag 8). Enveloppe la créature d’une couche d’eau protectrice.
+- ***[Marche dans les airs](./Marche dans les airs.md)*** (Alch 4, Dru 4, Occ 4, Prê 4). Le sujet marche dans les airs comme sur la terre ferme.
+- ***[Marche dans les airs (partagé)](./Marche dans les airs (partagé).md)*** *(AG)* (Alch 5, Dru 5, Occ 5, Prê 5). Comme *marche dans les airs* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Marche sur l'onde](./Marche sur londe.md)*** (Cham 3, Méd 2, Prê 3, Psy 3, Rôd 3, Sor 3). Permet de marcher sur l'eau.
+- ***[Marche sur l'onde (partagé)](./Marche sur londe (partagé).md)*** *(AG)* (Prê 2, Psy 4, Rôd 2). Comme *marche sur l’onde* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Marionnette de peau](./Marionnette de peau.md)*** *(AM)* (Alch 2, Ens/Mag 2, Occ 2, Psy 2, Sor 2). Anime et possède la peau du personnage comme une créature séparée.
+- ***[Marionnette martiale](./Marionnette martiale.md)*** *(MMI)* (Bard 3). Prend un contrôle partiel des membres d'une créature.
+- ***[Marque](./Marque.md)*** *(MJRA)* (Inq 0). Crée une marque permanente sur la cible.
+- ***[Marque d'évidente morale](./Marque dévidente morale.md)*** *(MCA)* (Prê 3). Les autres créatures peuvent déterminer l’alignement de la cible.
+- ***[Marque de chasse](./Marque de chasse.md) ([Érastil](./Érastil (technique).md))*** *(KM2/6)* (Dru 1, Pal 1, Prê 1, Rôd 1, San 1). Accorde une capacité surnaturelle pour détecter les traces et autres indices.
+- ***[Marque de la justice](./Marque de la justice.md)*** (Inq 5, Pal 4, Prê 5, Sor 5). Définit une condition maudissant la cible.
+- ***[Marque du dieu reptile](./Marque du dieu reptile.md) ([Troglodyte](./Troglodyte.md))*** *(CM)* (Apal 4, Inq 4, Prê 4). Marque une créature avec une malédiction acide.
+- ***[Marque fantôme](./Marque fantôme.md) (M)*** *(UI)* (Bard 4, Occ 3, Sor 4, Spi 4). Permet à un objet de se transformer en marque et vice versa.
+- ***[Marque noire](./Marque noire.md)*** *(PMI)* (Ens/Mag 5, Prê 4, Sor 4). Inflige une malédiction crainte des pirates qui rend la victime plus vulnérable.
+- ***[Marque supérieure](./Marque supérieure.md)*** *(MJRA)* (Inq 4). Crée une marque permanente sur la cible.
+- ***[Marques d'interdiction](./Marques dinterdiction.md)*** *(MJRA)* (Pal 3). 2 créatures doivent réussir des jets de Volonté si elles veulent s’attaquer.
+- ***[Marteau arboricole](./Marteau arboricole.md) (Y)*** *(AM)* (Dru 4). Les branches des arbres attaquent les ennemis.
+- ***[Marteau de réparation](./Marteau de réparation.md) ([Torag](./Torag (technique).md))*** *(ISG)* (Con 5, ConU 5, Ens/Mag 5, Prê 6). Libère une vague d'énergie qui répare les objets et les créatures artificielles.
+- ***[Marteau du chaos](./Marteau du chaos.md) (Y)*** (Inq 4, Prê 4). Blesse et ralentit les créatures Loyales (1d8 pts de dégâts/2 niveaux).
+- ***[Marteau du Mort](./Marteau de Geb.md)*** *(MMI)* (Ens/Mag 4, Sor 4). Rassemble les restes de morts-vivants détruits à proximité en un amas pour les lancer sur les adversaires.
+- ***[Mauvais œil](./Mauvais œil.md)*** (Alch 6, Bard 6, Hyp 6, Ens/Mag 6, Sor 6, Spi 6). Cible paniquée, fiévreuse et comateuse.
+- ***[Mauvais présage](./mauvais présage.md) (Y)*** *(MJRA)* (Hyp 1, Méd 1, Psy 1, Sor 1). La cible lance deux fois les dés pour les tests et les attaques et prend le résultat le moins bon.
+- ***[Membre fantôme](./Membre fantôme.md)*** *(OO)* (Psy 6, Spi 5). Crée une manifestation psychique semi-visible d'un membre, permettant à une créature de remplacer des parties manquantes de son corps.
+- ***[Mémoire ancestrale](./Mémoire ancestrale.md)*** *(CCMI)* (Alch 5, Cham 5, Dru 4, Prê 5). Le personnage implore l'aide de ses ancêtres, obtenant un bonus de +5 aux tests de compétences basés sur l'Intelligence.
+- ***[Mémorisation](./Mémorisation.md) (F) ([Magicien](./Magicien.md) uniquement)*** (Ens/Mag 4). Permet de préparer des sorts supplémentaires ou d'en récupérer un que l'on vient de lancer. Magiciens uniquement.
+- ***[Mémorisation de page](./Mémorisation de page.md)*** *(MCA)* (Bard 1, Hyp 1, Ens/Mag 1, Occ 1, Psy 1, Sor 1). La cible mémorise parfaitement une page d’informations.
+- ***[Menottes scellées](./Menottes scellées.md)*** *(AM)* (Inq 4, Ens/Mag 6, Psy 6, Spi 6). La cible est limitée à un certain périmètre.
+- ***[Menteur compulsif](./Menteur compulsif.md)*** *(UI)* (Bard 1, Hyp 1, Ens/Mag 2, Psy 2, Sor 2). Empêche la cible de dire la vérité.
+- ***[Mépris absolu](./Mépris absolu.md)*** *(AM)* (Apal 3, Bard 4, Hyp 4, Ens/Mag 6, Psy 5). L'attitude de la cible empire de deux crans.
+- ***[Message](./Message.md)*** (Bard 0, Con 0, ConU 0, Hyp 0, Ens/Mag 0, Méd 0, Occ 0, Psy 0, Sor 0, Spi 0). Conversation à distance.
+- ***[Message suggestif](./Message suggestif.md)*** *(UI)* (Bard 3, Hyp 3, Ens/Mag 4, Méd 3, Occ 4, Psy 3, Sor 4). Permet de communiquer comme avec *message* mais lance une *suggestion* sur une des cibles.
+- ***[Message suggestif de groupe](./Message suggestif de groupe.md)*** *(UI)* (Bard 6, Hyp 6, Ens/Mag 7, Occ 6, Psy 6, Sor 7). Permet de communiquer comme avec *message* mais lance une *suggestion* sur chaque cible.
+- ***[Messager animal](./Messager animal.md)*** (Bard 2, Cham 2, Dru 2, Hyp 2, Psy 2, Rôd 1). Envoie un animal de taille TP en un lieu donné.
+- ***[Messager verrouillé](./Messager verrouillé.md)*** *(MCA)* (Bard 2, Cham 3, Hyp 2, Ens/Mag 3, Psy 3, Sor 3, Spi 3). La cible est investie d’un message qu’elle ne peut remettre qu’au destinataire voulu.
+- ***[Métal brûlant](./Métal brûlant.md) (Y)*** (Dru 2, Occ 2, Psy 2). Chauffe le métal et inflige des dégâts à qui le touche.
+- ***[Métal gelé](./Métal gelé.md) (Y)*** (Dru 2, Occ 2, Psy 2). Gèle le métal et inflige des dégâts à qui le touche.
+- ***[Métal solaire](./Métal solaire.md) (Y)*** *(AG)* (Pal 1, Prê 1, Rôd 1). L’arme touchée émet une gerbe de flammes.
+- ***[Métamorphe ajustable](./Métamorphe ajustable.md)*** *(MCA)* (Alch 4, Bard 4, Cham 4, Con 4, ConU 4, Ens/Mag 4, Magus 4, Méd 4, Psy 4, Sor 4). Comme *modification d’apparence*, mais le personnage peut changer de forme par une action rapide.
+- ***[Métamorphose](./métamorphose.md)*** (Alch 5, Ens/Mag 5). Change la forme du sujet.
+- ***[Métamorphose animale](./Métamorphose animale.md)*** (Cham 8, Dru 8). Un allié/niveau se transforme en un animal choisi.
+- ***[Métamorphose du familier](./Métamorphose du familier.md)*** *(MCA)* (Cham 3, Ens/Mag 3, Sor 3). Donne au familier du personnage la forme d’un autre animal.
+- ***[Métamorphose funeste](./Métamorphose funeste.md) (Y)*** (Cham 5, Con 4, ConU 5, Dru 5, Ens/Mag 5, Magus 5, Sor 5). Transforme le sujet en animal inoffensif.
+- ***[Métamorphose suprême](./Métamorphose suprême.md)*** (Ens/Mag 7). Donne une nouvelle forme, plus puissante, à une cible consentante.
+- ***[Métamorphose universelle](./Métamorphose universelle.md)*** (Ens/Mag 8). Transforme n'importe quoi en n'importe quoi d'autre.
+- ***[Microcosme](./Microcosme.md)*** *(AO)* (Psy 9). Piège les créatures dans un paysage mental caché de façon permanente, pendant que leur corps pourrit dans le monde réel.
+- ***[Miracle](./Miracle.md)*** (Prê 9). Demande l'aide du dieu.
+- ***[Mirage](./mirage.md)*** (Bard 5, Hyp 5, Ens/Mag 5, Psy 5). Comme *terrain hallucinatoire*, plus structures artificielles.
+- ***[Miroir de déplacement](./Miroir de déplacement.md)*** *(MCA)* (Ens/Mag 4, Occ 4, Psy 4, Sor 4, Spi 4). Miroir qui devient une porte dimensionnelle à usage multiple.
+- ***[Mise à mal](./Mise à mal.md) (Y)*** (Cham 7, Inq 6, Occ 6, Prê 6, Sor 7, Spi 6). Inflige 10 points de dégâts/niveau.
+- ***[Mise à mort](./Mise à mort.md) (Y)*** (Apal 1, Inq 2, Prê 2, Sor 2, Spi 2). Achève une créature mourante ; le PJ gagne temporairement 1d8 pv, +2 en Force et +1 niveau de lanceur de sorts.
+- ***[Misérable pitié](./Misérable pitié.md)*** *(AM)* (Bard 2, Hyp 2, Ens/Mag 2, Psy 2, Sor 2). L'adversaire ne peut pas attaquer une créature pathétique.
+- ***[Mission](./Mission.md)*** (Bard 3, Hyp 3, Inq 4, Ens/Mag 4, Psy 4, Sor 4). Assigne une tâche à une cible de 7 DV ou moins.
+- ***[Mixture pour bombe à décharge de foudre](./Mixture pour bombe à décharge de foudre.md)*** *(AG)* (Alch 3). La bombe du personnage est agrémentée d’un sceau qui inflige des dégâts électriques à chaque fois que les cibles touchées se déplacent de 1,50 (M).
+- ***[Mixture pour bombe ciblée](./Mixture pour bombe ciblée.md)*** *(AG)* (Alch 1). Améliore une bombe qui inflige plus de dégâts à une unique créature.
+- ***[Mixture pour bombe d'emprisonnement](./Mixture pour bombe demprisonnement.md)*** *(AG)* (Alch 6). La bombe du personnage crée une cage de force qui piège les créatures qui se trouvent dans le rayon d’aspersion.
+- ***[Mixture pour bombe d'ombre](./Mixture pour bombe dombre.md)*** *(AG)* (Alch 2). La bombe du personnage recouvre sa cible d’une substance sombre qui lui donne un camouflage mais limite sa visibilité.
+- ***[Mixture pour bombe de vipère](./Mixture pour bombe de vipère.md)*** *(AG)* (Alch 4). La bombe du personnage invoque des vipères qui mordent les victimes touchées par la bombe ou son aspersion.
+- ***[Mixture pour bombe languide](./Mixture pour bombe languide.md)*** *(AG)* (Alch 5). Les créatures touchées par la bombe ou ses aspersions sont fatiguées.
+- ***[Modification d'apparence](./Modification dapparence.md)*** (Alch 2, Bard 2, Cham 2, Con 2, ConU 2, Hyp 2, Ens/Mag 2, Magus 2, Méd 2, Psy 2, Sor 2). Permet d'adopter la forme d'une créature de taille P ou M.
+- ***[Modification d'aura](./Modification daura.md)*** *(AO)* (Hyp 3, Méd 3, Occ 3, Psy 4, Spi 4). Masque les auras d’alignement, d’émotion, de santé et de magie d’une créature ou d’un objet.
+- ***[Modification de mémoire](./Modification de mémoire.md) (Y)*** (Bard 4, Hyp 4, Méd 4, Psy 5). Change cinq minutes de souvenirs de la cible.
+- ***[Modification des vents](./Modification des vents.md)*** *(MJRA)* (Dru 1, Ens/Mag 1, Occ 1, Spi 1). Augmente/diminue la force des vents.
+- ***[Moment de prescience](./Moment de prescience.md)*** (Ens/Mag 8, Psy 8, Sor 8). Bonus d'intuition sur un jet d'attaque, un test ou un jet de sauvegarde.
+- ***[Mondanité](./Mondanité.md)*** *(UI)* (Bard 1, Hyp 2, Inq 2, Ens/Mag 2, Méd 1, Occ 2, Pal 1, Prê 2, Psy 2). La cible utilise les rangs de Connaissances (noblesse) du personnage.
+- ***[Montée d'adrénaline](./Montée dadrénaline.md)*** *(AO)* (Hyp 1, Psy 1, Spi 1). Bonus de +8 à la For, la Dex ou la Con pour un jet puis fatigue pendant 1 round.
+- ***[Monture](./Monture.md)*** (Con 1, ConU 1, Ens/Mag 1, Magus 1, Occ 1, San 1, Sor 1). Appelle un cheval pendant 2 heures/niveau.
+- ***[Monture (partagé)](./Monture (partagé).md)*** *(AG)* (Con 2, ConU 2, Ens/Mag 2, Magus 2, Occ 2, Sor 2). Comme *monture* mais la durée d’effet se divise entre les créatures touchées.
+- ***[Monture de guerre](./Monture de guerre.md)*** *(AM)* (Apal 1, Bard 2, Dru 2, Hyp 2, Inq 1, Pal 1, Rôd 1). Un animal devient entraîné au combat.
+- ***[Mordre la main de son maître](./Mordre la main de son maître.md)*** *(RSE)* (Con 3, ConU 3, Dru 3, Inq 3, Ens/Mag 4, Sor 4). Oblige une création convoquée à attaquer son invocateur.
+- ***[Mordre la main de son maître de groupe](./Mordre la main de son maître de groupe.md)*** *(RSE)* (Con 6, ConU 6, Dru 6, Inq 6, Ens/Mag 7, Sor 7). Comme *mordre la main de son maître* mais avec plusieurs créatures.
+- ***[Morsure du froid](./morsure du froid.md)*** *(AM)* (Cham 1, Dru 1, Magus 1, San 1, Sor 1). La cible reçoit des dégâts de froid et elle est fatiguée.
+- ***[Morsure magique](./Morsure magique.md) (Y)*** (Con 1, ConU 1, Dru 1, Rôd 1, Spi 1). Une arme naturelle du sujet gagne +1 aux jets d'attaque et de dégâts.
+- ***[Morsure magique suprême](./Morsure magique suprême.md) (Y)*** (Con 3, ConU 3, Dru 3, Rôd 3, Spi 3). Une arme naturelle du sujet gagne +1 à l'attaque et aux dégâts/4 niveaux (max. +5).
+- ***[Mort rampante](./Mort rampante.md)*** (Cham 7, Con 5, ConU 6, Dru 7). Nuée de mille-pattes tuant tout sur son passage.
+- ***[Mot de fermeté](./Mot de fermeté.md)*** *(AM)* (Pal 1). Les alliés relancent un jet de sauvegarde contre le charme ou la peur.
+- ***[Mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md) (Y)*** (Hyp 6, Ens/Mag 7, Psy 7, Sor 7). Aveugle jusqu'à 200 pv de créatures.
+- ***[Mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md) (Y)*** (Ens/Mag 8, Psy 8, Sor 8). Étourdit une créature de 150 pv ou moins.
+- ***[Mot de pouvoir mortel](./Mot de pouvoir mortel.md) (Y)*** (Ens/Mag 9, Psy 9, Sor 9). Tue un adversaire doté de 100 pv ou moins.
+- ***[Mot de rappel](./Mot de rappel.md)*** (Dru 8, Prê 6, Psy 7). Téléporte le PJ à un endroit choisi à l'avance.
+- ***[Motif scintillant](./Motif scintillant.md)*** (Ens/Mag 8, Psy 8). Les couleurs frappent de confusion, d'étourdissement ou d'inconscience.
+- ***[Mouvement flou](./Mouvement flou.md)*** *(MCA)* (Alch 1, Bard 1, Con 1, ConU 1, Hyp 1, Ens/Mag 1, Magus 1, Occ 1, Psy 1, San 1). Comme *flou*, mais uniquement quand le personnage se déplace.
+- ***[Mur d'épines](./Mur dépines.md) (Y)*** (Cham 5, Dru 5). Épines blessant quiconque tente de passer.
+- ***[Mur de cécité/surdité](./Mur de cécité surdité.md)*** *(MCA)* (Bard 4, Ens/Mag 4, Prê 5, Psy 4, Sor 4). Mur translucide qui aveugle ou assourdit les créatures qui le traversent.
+- ***[Mur de fer](./Mur de fer.md) (M, Y)*** (Con 5, ConU 6, Ens/Mag 6, Magus 6, Occ 6). 30 pv/4 niveaux ; peut s'effondrer sur les adversaires.
+- ***[Mur de feu](./Mur de feu.md) (Y)*** (Cham 5, Con 3, ConU 4, Dru 5, Ens/Mag 4, Magus 4, Occ 4, San 4). 2d4 points de dégâts à moins de 3 m, 1d4 à moins de 6 m ; 2d6 points de dégâts, +1/niveau, en cas de traversée.
+- ***[Mur de force](./Mur de force.md) (Y)*** (Ens/Mag 5, Magus 5, Occ 5, Psy 5). Mur immunisé contre les dégâts.
+- ***[Mur de glace](./Mur de glace.md) (Y)*** (Con 3, ConU 4, Ens/Mag 4, Magus 4, Occ 4, San 4). Crée un mur ou un hémisphère de glace.
+- ***[Mur de lave](./Mur de lave.md)*** *(MJRA)* (Dru 8, Ens/Mag 8). Un mur blesse les ennemis qui tentent de le franchir et envoie régulièrement de la lave sur les cibles voisines.
+- ***[Mur de nausées](./Mur de nausées.md)*** *(MCA)* (Bard 3, Ens/Mag 3, Psy 3). Les créatures qui traversent le mur sont nauséeuses et risquent de tomber à terre.
+- ***[Mur de pierre](./Mur de pierre.md) (Y)*** (Cham 6, Con 4, ConU 5, Dru 6, Ens/Mag 5, Magus 5, Occ 5, Prê 5). Crée un mur qui peut être façonné.
+- ***[Mur de saumure](./Mur de saumure.md) ([Homme-poisson](./homme-poisson (race).md))*** *(ISR)* (Cham 4, Dru 4, Ens/Mag 4, Magus 4, Rôd 3). Crée un mur de 1,5 m d'épaisseur d'eau salée avec un puissant courant.
+- ***[Mur de son](./Mur de son.md)*** *(AM)* (Bard 4, Ens/Mag 5, Magus 4, Psy 5, San 4, Spi 5). Mur de son qui dévie et blesse les créatures.
+- ***[Mur de suppression](./Mur de suppression.md) (M)*** *(MJRA)* (Ens/Mag 9, Psy 9). Crée un mur qui désactive la magie.
+- ***[Mur de vent](./Mur de vent.md)*** (Cham 3, Con 2, ConU 3, Dru 3, Ens/Mag 3, Magus 3, Occ 3, Prê 3, Rôd 2, San 3, Spi 3). Détourne projectiles, gaz et créatures de taille modeste.
+- ***[Mur ectoplasmique](./Mur ectoplasmique.md)*** *(AO)* (Ens/Mag 5, Prê 5, Psy 5, Spi 5). Des murs d’esprits bloquent les déplacements sur les plans Matériel et Éthéré et sèment la terreur.
+- ***[Mur illusoire](./Mur illusoire.md)*** (Hyp 4, Ens/Mag 4, Occ 4, Psy 4). Mur, plancher ou plafond illusoire.
+- ***[Mur prismatique](./Mur prismatique.md)*** (Ens/Mag 8, Psy 8). Mur à effets magiques variés.
+- ***[Murmure sacré](./Murmure sacré.md)*** *(MJRA)* (Pal 3). Un murmure qui rend les créatures mauvaises fiévreuses et offre un bonus aux bonnes.
+- ***[Murmures dorés](./Murmures dorés.md) (M)*** *(RSE)* (Ens/Mag 3, Prê 4). Met une pièce de monnaie sur écoute.
+- ***[Musique des sphères](./Musique des sphères.md)*** *(MMI)* (Bard 5, Prê 6). Amplifie la musique des sphères dans une zone pour conférer une guérison accélérée, une résistance, et des bonus aux jets de sauvegarde des créatures qui s'y trouvent.
+- ***[Mythes et légendes](./Mythes et légendes.md) (F)*** (Bard 4, Inq 6, Ens/Mag 6, Méd 4, Occ 6, Psy 6, Sor 6, Spi 6). Révèle l'histoire d'un lieu, d'un individu ou d'un objet.
+
+### N
+- ***[Nage dans la terre](./Nage dans la terre.md) ([Svirfneblin](./svirfneblin (race).md))*** *(MR)* (Alch 4, Cham 4, Dru 4, Ens/Mag 4, San 4). Permet à la cible de nager à travers la pierre, la terre, et d'autres terrains.
+- ***[Nappe de brouillard](./Nappe de brouillard.md) (Y)*** (Cham 2, ConU 2, Dru 2, Ens/Mag 2, Magus 2, Sor 2). Brume gênant la visibilité.
+- ***[Nappe de glace](./Nappe de glace.md) ([Géant du froid](./Géant du froid.md))*** *(CM)* (Dru 2, Ens/Mag 2, Magus 2, Rôd 2, Sor 2). Recouvre une zone de glace, infligeant des dégâts de froid et pouvant faire tomber les créatures s'y trouvant.
+- ***[Nappe de goudron](./Nappe de goudron.md)*** *(AG)* (Con 5, ConU 6, Dru 6, Ens/Mag 6). Transforme la couche supérieure du sol en goudron brûlant.
+- ***[Narcissisme suffisant](./Narcissisme suffisant.md)*** *(AM)* (Bard 3, Hyp 3, Ens/Mag 5, Psy 5, Sor 5). La cible est distraite par sa propre personne.
+- ***[Natation aérienne](./Natation aérienne.md) ([Gozreh](./Gozreh (technique).md))*** *(D&M)* (Cham 3, Dru 3, Prê 3, San 3, Sor 3). Permet à la cible de nager dans l'air.
+- ***[Négation de l'arôme](./Négation de larôme.md)*** *(MJRA)* (Alch 1, Dru 1, Occ 1, Rôd 1). Impossible de traquer le personnage à l’ôdeur.
+- ***[Négation de l'invisibilité](./Négation de linvisibilité.md)*** (Inq 3, Occ 3, Prê 3, Spi 3). Dissipe l'invisibilité sur 1,50 m/niveau.
+- ***[Négligence](./Négligence.md) ([Halfelin](./Halfelin.md))*** *(ISR)* (Bard 3). Aide le personnage a paraître petit et insignifiant, améliorant sa Discrétion.
+- ***[Neuf vies](./Neuf vies.md) ([Homme-félin](./homme-félin (race).md))*** *(MR)* (Prê 8, Sor 8). Annule jusqu'à 9 effets néfastes qui devraient affecter la cible.
+- ***[Neutralisation du poison](./Neutralisation du poison.md)*** (Alch 4, Bard 4, Cham 4, Dru 3, Inq 4, Pal 4, Prê 4, Rôd 3, Sor 4, Spi 4). Rend le poison inoffensif.
+- ***[Nodule explosif](./Nodule explosif.md)*** *(AO)* (Hyp 3, Méd 3, Occ 2, Psy 3). Place un piège sur un objet, afin d’endommager le mental de la créature qui le touche.
+- ***[Note pétrifiante](./Note pétrifiante.md)*** *(MJRA)* (Bard 5). Paralyse les créatures qui écoutent la chanson.
+- ***[Note tangible](./Note tangible.md)*** *(MJRA)* (Bard 1). Matérialise une note de musique.
+- ***[Nourrir la haine](./Nourrir la haine.md)*** *(AO)* (Apal 4, Hyp 5, Inq 5, Psy 6, Spi 5). Oblige une créature à haïr un type de créature.
+- ***[Nuage de toile](./Nuage de toile.md) ([Drow](./Drow (race).md))*** *(MR)* (Ens/Mag 4, Sor 4). Nuage de toile d'araignée sur un espace de 6 m de rayon et de 6 m de haut.
+- ***[Nuage euphorisant](./Nuage euphorisant.md) (M)*** *(MCA)* (Dru 2, Hyp 2, Ens/Mag 2, Magus 2, Psy 2, Sor 2). Brume qui obscurcit la vision et fascine les créatures vivantes.
+- ***[Nuage incendiaire](./Nuage incendiaire.md)*** (Con 6, Ens/Mag 8). Nuage infligeant 6d6 points de dégâts de feu/round.
+- ***[Nuage nauséabond](./Nuage nauséabond.md) (Y)*** (Cham 3, ConU 3, Ens/Mag 3, Magus 3, San 3, Sor 3). Vapeurs nocives, 1 round/niveau.
+- ***[Nuée d'élémentaires](./Nuée délémentaires.md)*** (Cham 9, Dru 9, Sor 9). Appelle plusieurs élémentaires.
+- ***[Nuée de crocs](./Nuée de crocs.md) ([Troglodyte](./Troglodyte.md))*** *(CM)* (Con 3, ConU 3, Dru 3, Ens/Mag 3, Psy 3, Sor 3). Appelle une nuée de crocs animés volants.
+- ***[Nuée de météores](./Nuée de météores.md) (Y)*** (Ens/Mag 9). Quatre sphères explosives infligeant 6d6 points de dégâts de feu chacune.
+- ***[Nuée de papier](./Nuée de papier.md)*** *(AO)* (Ens/Mag 5, Magus 5, Occ 4). Des bouts de papier infligent 1d6 points de dégâts par niveau et ont un effet de sort si le personnage a déchiré un parchemin.
+- ***[Nuée distordante](./Nuée distordante.md) ([Drow](./Drow (race).md))*** *(ISR)* (Con 3, Ens/Mag 3, Sor 3). Comme *nuée grouillante*, mais la nuée rend les créatures plus vulnérables aux transmutations et inflige un malus à la Dex.
+- ***[Nuée grouillante](./Nuée grouillante.md) (Y)*** (Bard 2, Cham 2, Con 2, ConU 2, Dru 2, Ens/Mag 2, Sor 2). Convoque une nuée de chauves-souris, de rats ou d'araignées.
+- ***[Nuées d'orage](./Nuées dorage.md)*** *(MJRA)* (Cham 8, Dru 8, Ens/Mag 8, Prê 8, Sor 8). 1d8 dégâts par niveau (max 20d8) aux cibles.
+- ***[Nuit de lames](./Nuit de lames.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)* (Apal 4, Con 3, ConU 3, Inq 3, Ens/Mag 3, Rôd 4). Créé un mur immobile fait de minuscules lames noires.
+- ***[Nuit polaire](./Nuit polaire.md)*** *(AM)* (Cham 9, Dru 9, Prê 9, Sor 9). De froides ténèbres paralysent les créatures et leur infligent des dégâts.
+
+### O
+- ***[Objet fantomatique mineur](./objet fantomatique mineur.md) ([Gnome](./Gnome.md))*** *(MR)* (Hyp 4, Ens/Mag 4, Psy 4). Comme *création mineure*, mais l'objet créé est une illusion semi-réelle.
+- ***[Objet fantomatique majeur](./Objet fantomatique majeur.md) ([Gnome](./Gnome.md))*** *(MR)* (Hyp 5, Ens/Mag 5, Psy 5). Comme *création majeure*, mais l'objet créé est une illusion semi-réelle.
+- ***[Œil de faucon](./Œil de faucon.md)*** *(MJRA)* (Cham 2, Dru 2, Psy 2, Rôd 2). Crée un détecteur magique loin au dessus du personnage.
+- ***[Œil du chasseur](./Œil du chasseur.md)*** *(MJRA)* (Inq 3, Rôd 2). +20 aux tests de Perception pour repérer une cible.
+- ***[Œil du mage](./Œil du mage.md)*** (Alch 4, Hyp 4, Ens/Mag 4, Occ 4, Psy 4, Sor 4). Œil invisible avançant de 9 m/round.
+- ***[Œil du mitrailleur](./Œil du mitrailleur.md)*** *(MJRA)* (Alch 1). Augmente la portée des armes de jet ; +1 attaque.
+- ***[Œil indiscret](./Œil indiscret.md)*** (Hyp 5, Ens/Mag 5, Occ 5, Psy 5, Sor 5, Spi 5). 1d4 yeux flottants, +1/niveau, servant d'éclaireurs.
+- ***[Œil indiscret suprême](./Œil indiscret suprême.md)*** (Ens/Mag 8, Psy 8, Sor 8). Comme *œil indiscret*, les yeux bénéficiant d'une vision lucide.
+- ***[Œil vigilant](./Œil vigilant.md) ([Nain](./Nain.md))*** *(MR)* (Pal 1, Prê 1). Comme *protection d’autrui*, mais dure moins longtemps et nécessite une ligne de vue direct avec la créature liée.
+- ***[Œuf empoisonné](./Œuf empoisonné.md) ([Norgorber](./Norgorber (technique).md))*** *(D&M)* (Bard 1, Cham 1, Inq 1, Ens/Mag 1, Magus 1, Prê 1, Sor 1). Transforme un unique œuf en une dose de poison de petit mille-pattes.
+- ***[Offrande exigée](./Offrande exigée.md)*** *(AO)* (Apal 1, Bard 2, Hyp 1, Inq 2, Ens/Mag 2, Occ 2, Psy 2, Sor 2). Oblige une créature à donner l’objet qu’elle tient.
+- ***[Ombre du doute](./Ombre du doute.md) ([Tieffelin](./Tieffelin (race).md))*** *(ISR)* (Apal 4, Bard 4). Instille chez un adversaire une aura de doutes alimentée par ses angoisses personnelles.
+- ***[Onde de feu](./Onde de feu.md) (Y) ([Ifrit](./Ifrit (race).md))*** *(MR)* (Ens/Mag 3, Magus 3, San 3). Le personnage fait jaillir une ligne de feu infligeant 2d6 points de dégâts pendant 1 round par niveau.
+- ***[Orbe aqueux](./Orbe aqueux.md)*** *(MJRA)* (Con 3, ConU 3, Dru 3, Ens/Mag 3, Magus 3, San 3). Crée une sphère d’eau qui roule.
+- ***[Orbe du néant](./Orbe du néant.md) (M, Y)*** *(AM)* (Ens/Mag 8, Prê 8, Psy 8). Une sphère inflige des niveaux négatifs.
+- ***[Orbe en fusion](./Orbe en fusion.md)*** *(MCA)* (Ens/Mag 2, Magus 2, San 2, Sor 2). Arme à aspersion de métal en fusion qui inflige 2d6 points de dégâts de feu en plus de dégâts continus.
+- ***[Ordre assassin](./Ordre assassin.md) (Y)*** *(AM)* (Apal 1, Hyp 1, Méd 1, Occ 1, Prê 1, Psy 1). La cible est obligée de tuer un allié.
+- ***[Ordre libérateur](./Ordre libérateur.md)*** *(AG)* (Bard 1, Dru 1, Ens/Mag 1, Méd 1, Occ 1, Pal 1, Prê 1, Psy 1, Rôd 1). La cible fait un test d’Évasion par une action immédiate avec un bonus.
+- ***[Orientation](./Orientation.md)*** (Bard 6, Cham 6, Dru 6, Inq 6, Occ 6, Prê 6, Psy 6, Sor 6, Spi 6). Indique comment se rendre à l'endroit choisi.
+- ***[Os protecteur](./Os protecteur.md) ([Pharasma](./Pharasma (technique).md))*** *(D&M)* (Inq 2, Ens/Mag 2, Magus 2, Prê 2, Sor 2). Anime un os qui flotte autour du personnage et bloque les attaques physiques.
+- ***[Oubliette aliénante](./Oubliette aliénante.md) ([Zon-Kuthon](./Zon-Kuthon (technique).md))*** *(ISG)* (Ens/Mag 7, Prê 7, Sor 7). Transporte la cible vers une prison sinistre dans un demi-plan effroyable.
+- ***[Ouvert/fermé](./Ouvertfermé.md)*** *(UI)* (Bard 1, Inq 1, Ens/Mag 1, Sor 1). Manipule l'apparence d'une porte pour qu'elle paraisse fermée ou ouverte.
+- ***[Ouverture/fermeture](./Ouverturefermeture.md)*** (Bard 0, Con 0, ConU 0, Hyp 0, Ens/Mag 0, Magus 0, Méd 0, Occ 0, Psy 0, Spi 0). Ouvre ou ferme portes, fenêtres ou objets.
+
+
+<div style="text-align:right">***Vers le [début](./Liste des sorts.md) de la liste (A–D).***  
+
+***Vers la [fin](./Liste des sorts (fin).md) de la liste (P-Z).***</div>

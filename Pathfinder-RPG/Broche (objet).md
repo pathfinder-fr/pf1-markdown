@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Broche (objet)
+Title: Broche
+LastModified: 2021-09-22 14:45
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** variable ; **Poids** —
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Ce petit bijou permet de maintenir un vêtement en place, comme une cape ou une pèlerine. De nombreuses organisations offrent une broche spéciale comme symbole d’appartenance au groupe ou pour récompenser des réussites spéciales.

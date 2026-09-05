@@ -1,0 +1,32 @@
+---
+Name: Pathfinder-RPG.Ramollissement de la terre et de la pierre
+Title: Ramollissement de la terre et de la pierre
+LastModified: 2024-08-25 15:33
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 2
+- Src Manuel des joueurs
+---
+
+**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, FD](./composantes.md)  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Zone d'effet** 1 carré de 3 m de côté/[niveau](./niveau.md) (voir description)  
+
+**Durée** [instantanée](./instantanée.md)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Au terme de l’incantation, la pierre et la terre comprises dans la [zone d’effet](./zone deffet.md) se ramollissent, à condition qu’elles soient encore à l’état brut (autrement dit, qu’on ne les ait pas travaillées). La terre humide se transforme en boue épaisse, la terre sèche en sable ou en terre friable et la roche en argile meuble facile à modeler. Le sort affecte une zone de 3 m de côté, sur une profondeur allant de 30 cm à 1,20 m, selon la résistance du sol. Il n’affecte pas la pierre magique, enchantée ou ouvragée, ni les créatures de terre ou de pierre.
+
+Les individus pris dans la boue doivent faire un jet de [Réflexes](./Réflexes.md), sinon ils sont incapables de se déplacer, de combattre ou de lancer des sorts pendant 1d2 [rounds](./round.md). S’ils réussissent leur [jet de sauvegarde](./jet de sauvegarde.md), ils peuvent se déplacer à la moitié de leur [vitesse de déplacement](./vitesse de déplacement.md) normale, mais ils ne peuvent ni [courir](./Actions complexes.md#COURIR) ni [charger](./charge.md). La pierre transformée en argile n’entrave pas les déplacements, en revanche, elle permet aux personnages de creuser des passages ou de dégager des endroits auxquels ils ne pouvaient pas accéder.
+
+Ce sort ne fonctionne pas sur la pierre travaillée mais il permet d’affecter des surfaces verticales (parois de falaise, murs de grotte naturelle, etc.) ou horizontales (plafonds de grotte). Cela provoque généralement un éboulement restreint car la matière affectée se détachant d’elle-même de son support (considérez cela comme un [éboulements](./Donjons.md#Les_éboulements_5) sans coulée).
+
+Un personnage peut infliger quelques dégâts à une structure en ramollissant le sol sur lequel elle repose, ce qui le tasse mais il n’a aucune chance de saper ainsi des structures solidement construites. Elles seront, au mieux, légèrement endommagées.

@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Combattant intuitif (oracle)
+Title: Combattant intuitif
+LastModified: 2023-05-28 13:36
+Categories:
+- Archétype
+- Archétype oracle
+---
+
+{s:Menuarchétypeoracle}{s:mca}*Les dons uniques du combattant intuitif ne proviennent pas d’étranges révélations magiques, mais de sa faculté d’adaptation au coeur des batailles grâce à l’application de nouvelles techniques de combat. Le combattant intuitif est un maître du combat, aussi dévoué qu’un guerrier et aussi flexible qu’un lutteur.*
+
+#### Flexibilité martiale (Ext)
+Au niveau 1, un combattant intuitif peut effectuer une [action de mouvement](./Action de mouvement.md) pour bénéficier des avantages d’un don de combat qu’il ne possède pas. Cet effet dure une minute. Le combattant intuitif doit par ailleurs satisfaire toutes les conditions requises par ce don. Il peut utiliser cette aptitude un nombre de fois par jour égal à 3 + la moitié de son niveau d’oracle.
+
+Le combattant intuitif peut utiliser cette aptitude à nouveau avant que la durée n’arrive à son terme pour remplacer le don de combat par un autre de son choix. Si un don de combat est doté d’une limite en termes d’utilisations quotidiennes ([Coup étourdissant](./Coup étourdissant.md) par exemple), toutes les utilisations de ce don de combat dépensées pendant qu’il utilise cette aptitude sont défalquées du nombre d’utilisations quotidiennes du don. Aux niveaux suivants, quand il acquiert plusieurs dons grâce
+à cette aptitude, il peut les utiliser pour satisfaire les conditions d’autres dons également obtenus grâce à elle. Ce faisant, il ne peut pas remplacer un don qui sert de condition requise pour un autre, à moins de remplacer également le don qui le mentionne dans ses conditions requises. Chaque don choisi de cette façon compte comme une utilisation quotidienne de cette aptitude.
+
+Au niveau 7, un combattant intuitif peut utiliser cette aptitude pour bénéficier des avantages de deux dons de combat en
+même temps. Il peut choisir un don par une [action rapide](./Action rapide.md) ou deux dons par une [action de mouvement](./Action de mouvement.md).
+
+Au niveau 11, un combattant intuitif peut utiliser cette aptitude pour bénéficier des avantages de trois dons de combat en même temps. Il peut choisir un don par une [action libre](./Action libre.md), deux dons par une action rapide ou trois dons par une action de mouvement.
+
+Au niveau 15, un combattant intuitif peut utiliser cette aptitude pour bénéficier des avantages d’un don de combat par une
+action immédiate ou de trois de combat par une action rapide.
+
+Cette aptitude remplace les révélations obtenues aux niveaux 1, 7, 11 et 15
+
+#### Mystères recommandés
+Bataille, métal, nature, os.

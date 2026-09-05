@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Vermine En Papier Plié
+Title: Vermine en papier plié
+LastModified: 2024-06-07 16:45
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Vermine en papier plié|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 300 po ; **Poids** —
+(((Description)))
+Ce papier épais est plié pour ressembler vaguement à une vermine de la taille d’une main, telle qu’un scarabée, une araignée ou un cafard. Il suffit de plier deux endroits clés du papier pour que le pliage se multiplie en et donne naissance à des centaines de répliques de la même taille que lui. Ces répliques couvrent une zone de 3 mètres de côté et agissent comme une [nuée de rats](./Nuée de rats.md) à l’exception des points suivants : elles possèdent une vulnérabilité au feu, sont considérées comme une créature artificielle et ne possèdent pas la capacité spéciale de maladie. La nuée de papier n’attaque pas son créateur mais il ne la contrôle pas pour autant et elle attaque toutes les créatures proches. Au bout de 5 [rounds](./round.md), elle se froisse et tombe inerte. Sa magie disparaît après la première activation.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*  ; **Coût** 150 po
+</div>

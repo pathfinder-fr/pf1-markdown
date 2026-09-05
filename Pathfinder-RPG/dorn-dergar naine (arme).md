@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.dorn-dergar naine (arme)
+Title: Dorn-dergar naine
+LastModified: 2021-10-01 18:08
+Categories:
+- Arme
+- Src Manuel des races
+---
+
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**Prix** 50 po ; **Poids** 7,5 kg ; **Groupes** —
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE)
+<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+---
+Cette arme exotique est une chaîne lourde de 3 mètres de long dotée à une extrémité d’un poids en forme de boule de fer solide de la taille d’un gros poing. En ajustant la longueur de la chaîne, l’arme peut être utilisée comme une arme de corps à corps ordinaire ou comme une arme à [allonge](./Caractéristiques des armes.md#ALLONGE). Il est possible de changer la manière de manipuler l’arme par une [action de mouvement](./Action de mouvement.md). Même si cette arme est tombée en désuétude depuis des siècles, la dorn-dergar est parfois manipulée par les [nains](./Nain.md) qui s’efforcent d’appliquer les anciennes coutumes de leur peuple.

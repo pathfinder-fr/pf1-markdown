@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.bombe acide (découverte)
+Title: Bombe acide (découverte)
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> découvertes#BOMBEACIDE

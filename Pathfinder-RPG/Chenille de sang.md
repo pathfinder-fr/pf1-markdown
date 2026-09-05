@@ -1,0 +1,44 @@
+---
+Name: Pathfinder-RPG.Chenille de sang
+Title: Chenille de sang
+LastModified: 2023-12-20 16:52
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chenille de sang|FP 4}
+{s:pucem|Vermine|Forêt-Jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.58*}
+{s:BDTexte|**PX** 1 200}
+{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 9, pris au dépourvu 19 (naturelle +10, taille -1)}
+{s:BDTexte|**pv** 37 (5d8+15)}
+{s:BDTexte|**Réf** +1, **Vig** +7, **Vol** +1}
+{s:BDTexte|**Capacités défensives** poils ; **Immunités** effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, escalade 9 m}
+{s:BDTexte|**Corps à corps** morsure, +8 (2d6+6) et poils, +3 (1d8+3 plus poison)}
+{s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
+{s:BDTexte|**Attaques spéciales** poison, [toile](./Toile (capacité).md) (+2 distance, DD 15, 5 pv)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 22, **Dex** 11, **Con** 17, **Int** —, **Sag** 11, **Cha** 2}
+{s:BDTexte|**BBA** +3 ; **BMO** +10 ; **DMD** 20 (croc-en-jambe impossible)}
+{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +14}
+{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêts chaudes ou tempérées}
+{s:BDTexte|**Organisation** solitaire, couple ou couvée (3-12)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Poils (Ext).** Une créature qui agresse une chenille avec une arme de corps à corps sans allonge ou une attaque naturelle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 16 pour ne pas subir les dégâts équivalents à ceux qu’infligent les poils de la chenille. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Dextérité](./Dextérité.md) et inclut un bonus racial de +4.}
+{s:BDTexte|**Poison (Ext).** Poils — blessure ; *[JdS](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 15 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* 1d4 [Force](./Force.md) ; *guérison* 1 réussite.}
+</div></td>
+<td><div>*Une multitude de poils pointus et venimeux recouvrent le corps de cette énorme chenille.*
+
+Les chenilles de sang sont parmi les plus gros spécimens de chenilles géantes. Ces imposantes vermines se nourrissent de viande avariée, à la façon des papillons qui se nourrissent de fruits pourris. Derrière leurs mandibules se trouvent des filières qui leur permettent de produire de la soie que les chenilles crachent pour tisser des toiles et immobiliser leurs proies. Leur venin affaiblit les muscles des créatures empoisonnées, ce qui permet aux chenilles de maîtriser et de dévorer même des proies imposantes, fortes et agiles.
+</div></td></tr></table>

@@ -1,0 +1,13 @@
+---
+Name: Golarion.Sturnidae
+Title: Sturnidae
+LastModified: 2010-11-17 15:30
+Categories:
+- Géographie
+- Ustalav
+- Ville
+---
+
+Le village de Sturnidae est situé dans le comté de [Barstoi](./Barstoi.md) en [Ustalav](./Ustalav.md).
+
+A proximité du village se trouve un territoire désert connu sous le nom des Sillons (the Furrows).

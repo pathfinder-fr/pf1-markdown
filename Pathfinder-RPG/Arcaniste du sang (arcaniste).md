@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Arcaniste du sang (arcaniste)
+Title: Arcaniste du sang
+LastModified: 2023-05-28 16:51
+Categories:
+- Archétype
+- Archétype arcaniste
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypearcaniste}{s:MCA}*Bien que la plupart des arcanistes possèdent un don magique inné mais rudimentaire, l’arcaniste du sang dispose des complets pouvoirs d’un lignage.*
+
+#### Lignage
+Un arcaniste du sang choisit un des [lignages](./Lignages.md) proposés par l’aptitude d’[ensorceleur](./Ensorceleur.md) du même nom. Il acquiert les arcanes et les pouvoirs de ce lignage en remplaçant le niveau d’[ensorceleur](./Ensorceleur.md) par son niveau d’arcaniste. L’arcaniste du sang ne gagne pas la compétence de classe, les dons ou les sorts supplémentaires conférés par son lignage. Si l’arcaniste du sang gagne des niveaux dans une autre classe qui lui confère un lignage, ces lignages doivent être du même type, même si cela l’oblige à changer le lignage de l’une de ses classes. À la discrétion du MJ, l’arcaniste du sang peut modifier son premier lignage pour le rendre conformes à l’autre.
+
+Cette aptitude remplace les exploitations d’arcaniste obtenues aux niveaux 1, 3, 9 et 15, ainsi que la [suprématie magique](./Arcaniste.md#SUPREMATIEMAGIQUE). Un arcaniste du sang ne peut choisir l’exploitation d’arcaniste [développement du lignage](./Exploitations.md#DEVELOPPEMENTDULIGNAGE)

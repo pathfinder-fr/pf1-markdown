@@ -1,0 +1,12 @@
+---
+{}
+---
+
+<div class="itemPF2">
+<div>
+<a href="?3?"><h3>?1?</h3></a>
+<p>?2?</p>
+</div>
+<div class="itemimg">
+<a href="?3?"><img src="/Wiki/fontawesome/svgs/regular/file-lines.svg" style="opacity:0.5" /></a></div>
+</div>

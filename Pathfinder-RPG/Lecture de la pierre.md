@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Lecture de la pierre
+Title: Lecture de la pierre
+LastModified: 2023-08-07 18:36
+Categories:
+- Don
+- Src Dieux et magie
+- Src Inner Sea Gods
+---
+
+{s:ISG}{s:GeM}*Même les légers mouvements et vibrations de la pierre peuvent prévenir le personnage des ennuis qui le guettent.*
+
+**Conditions.** 4 rangs en [Connaissances](./Connaissances.md) (exploration souterraine)
+
+**Avantage.** Lorsque le personnage est dans un environnement majoritairement souterrain ou montagneux, il bénéficie d’un bonus de +3 aux tests de [Perception](./Perception.md). S’il possède 10 rangs ou plus en [Connaissances](./Connaissances.md) (exploration souterraine), ce bonus passe à +6.

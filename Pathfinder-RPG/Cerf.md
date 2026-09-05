@@ -1,0 +1,97 @@
+---
+Name: Pathfinder-RPG.Cerf
+Title: Animal de troupeau, Cerf
+LastModified: 2020-09-17 19:14
+Categories:
+- Bestiaire 4
+- Monstre
+- Règles officielles
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Cerf|FP 1}
+{s:pucem|Animal|Forêt-jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 page 12*}
+{s:BDTexte|**PX** 400}
+{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
+{s:BDTexte|**pv** 15 (2d8+6)}
+{s:BDTexte|**Réf** +6, **Vig** +6, **Vol** +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 15 m (10 {s:c})}
+{s:BDTexte|**Corps à corps** bois, +2 (1d6+1) et 2 sabots, -3 (1d4)}
+{s:BDTexte|**Attaque spéciale**  [charge puissante](./Charge puissante.md) (corne, 1d4+2)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 13, **Dex** 17, **Con** 16, **Int** 2, **Sag** 15, **Cha** 8}
+{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 15 (19 contre le croc-en-jambe)}
+{s:BDTexte|**Dons** [Course](./Course.md), [Talent](./Talent.md) (Acrobaties)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Perception](./Perception.md) +6}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** terrestre}
+{s:BDTexte|**Organisation** solitaire, couple, ou troupeau (3-20)}
+{s:BDTexte|**Trésor** aucun}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'animal de troupeau
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Antilope](./Antilope.md) || 1/2
+|-
+| [Auroch](./Auroch.md) || 2
+|-
+| [Bélier](./Bélier.md) || 1
+|-
+| [Bison](./Bison.md) || 4
+|-
+| [Cerf](./Cerf.md) || 1
+|-
+| [Dromadaire](./Dromadaire.md) || 1
+|-
+| [Élan](./Élan.md) || 1
+|-
+| [Élan des rivières](./Élan des rivières.md) || 2
+|-
+| [Girafe](./Girafe.md) || 3
+|}
+</div>''Gracieux et majestueux, ce puissant animal est couronné de grands
+bois.''
+
+Véritables seigneurs des
+étendues sauvages, les cerfs
+foulent avec grâce les prairies
+et les fourrés des forêts les plus
+profondes. Vivant sous tous les climats
+et dans la plupart des environnements, ils
+forment des troupeaux aux liens très étroits
+pour se protéger mutuellement. Ces créatures
+sont souvent victimes des prédateurs et
+beaucoup d’humanoïdes les chassent pour
+leur viande et leur peau. Ce ne sont pas des
+mangeurs difficiles : ils se nourrissent de toutes
+sortes de végétaux. Dans les régions où vivent des
+humanoïdes, les cerfs sont des plaies en cela qu’ils
+paissent dans les champs et détruisent les
+jardins à la recherche de nourriture.
+Le profil ci-dessus présente un cerf
+(mâle). Contrairement au caribou
+et aux autres animaux de même
+type, il est très rare que la
+biche porte des bois : elle n’a
+donc pas d’attaque de bois. Les
+cerfs mesurent environ 1,80
+mètre de long, du museau à la
+queue, et peuvent peser jusqu’à
+175 kilogrammes.
+
+
+#### Le cerf comme compagnon animal
+
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 15 m (10 {s:c}) ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 19, Con 14, Int 2, Sag 15, Cha 8 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+
+**Développement au niveau 4.** **Taille** M ; **Attaque** corne (1d6) et 2 sabots (1d4) ; **Caractéristiques** For +2, Dex -2, Con +2.
+</div></td></tr></table>

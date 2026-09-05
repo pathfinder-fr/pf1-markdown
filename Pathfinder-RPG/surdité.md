@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.surdité
+Title: surdité
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Assourdi

@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Lanceur de sorts acrobatique
+Title: Lanceur de sorts acrobatique
+LastModified: 2023-01-18 16:33
+Categories:
+- Don
+- Don combat
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vos mouvements habiles empêchent les ennemis de perturber vos incantations.*
+
+**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Magie de guerre](./Magie de guerre.md), [Talent](./Talent.md) (Acrobaties)
+
+**Avantages.** Lorsqu'il réussit un test d'[Acrobaties](./Acrobaties.md) pour traverser une zone contrôlée sans provoquer d'[attaque d'opportunité](./AO.md) ou pour se déplacer à travers l'espace occupé par un ennemi, les créatures privées d'attaque d'opportunité par son test d'Acrobaties sont aussi privée d'attaque d'opportunité contre lui lorsqu'il lance un sort pendant le reste de son tour.
+
+**Normal.** Lancer un sort à portée d'allonge d'un ennemi provoque des [attaques d'opportunité](./AO.md) même après avoir réussi un test d'Acrobaties pour traverser une zone contrôlée.

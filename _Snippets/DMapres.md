@@ -1,0 +1,7 @@
+---
+{}
+---
+
+$("#dm_wiki_div").attr("src","/Wiki/public/Upload/Districtmaps/DMMain.html");
+</script>
+</nowiki>

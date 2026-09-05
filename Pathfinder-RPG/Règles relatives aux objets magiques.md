@@ -1,0 +1,218 @@
+---
+Name: Pathfinder-RPG.Règles relatives aux objets magiques
+Title: Règles relatives aux objets magiques
+LastModified: 2024-07-14 23:39
+Categories:
+- Objet mag
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:MenuObjetsMagiques}
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
+''Le degré de banalité des objets magiques dans son univers de campagne est laissé au choix du MJ. Il n’y a pas de raison pour qu’ils soient plus rares que ceux que l’on trouve dans les règles de base et on peut les intégrer tout aussi facilement dans une campagne.
+
+Un [MJ](./MJ.md) désireux de rajouter un élément inattendu dans sa prochaine rencontre ou dans son prochain trésor peut facilement utiliser les propriétés spécifiques des trésors présentés dans le wiki.
+
+Comme les joueurs ont tendance à feuilleter les règles quand ils équipent leur personnage, beaucoup deviennent assez familiers avec les trésors et effets qu’elles renferment.
+
+C’est pourquoi, en créant de nouveaux objets magiques, le [MJ](./MJ.md) pourra surprendre et intriguer ses joueurs, même les plus expérimentés.''
+
+{s:Reference|OBJMAGIQUESDETECTION}
+### Objets magiques et *détection de la magie*
+Le sort *[détection de la magie](./Détection de la magie.md)* permet d’identifier l’[école](./Présentation des sorts.md#ECOLES) à laquelle est affilié un objet magique : il s’agit de celle du sort placé dans une [potion](./Potions magiques.md), une huile, un [parchemin](./Parchemins magiques.md) ou une [baguette](./Baguettes magiques.md), ou de celle du ou des sorts faisant partie des conditions de création pour les autres types d’objets. La description de chaque objet magique précise l’[école](./Présentation des sorts.md#ECOLES) à laquelle celui-ci est affilié ainsi que l’intensité de son aura.
+
+Pour les objets que vous concevez et qui requièrent plusieurs sorts pour leur création, une *[détection de la magie](./Détection de la magie.md)* se concentre sur le sort dont le niveau est le plus élevé. Si aucun sort n’est exigé dans les conditions de création, la règle suivante est en vigueur.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Nature de l’objet || École
+|- CLASS="premier"
+| Arme ou objet d’attaque || [Évocation](./Présentation des sorts.md#EVOCATION)
+|- CLASS="alt"
+| Armure ou objet de protection || [Abjuration](./Présentation des sorts.md#ABJURATION)
+|-
+| Objet conférant un bonus à une caractéristique, à un test de compétence, etc. || [Transmutation](./Présentation des sorts.md#TRANSMUTATION)
+|}
+</center>
+
+{s:Reference|UTILISER}
+### Utilisation des objets magiques
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#20) Effets de sorts : Lorsque j’utilise un objet magique comme un *anneau d’invisibilité* ou un *couvre-chef de déguisement* qui peut être activé pour bénéficier des effets d’un sort, est-ce que la formulation « comme le sort » inclut aussi la durée du sort ?***
+
+Oui, de tels <u>[effets d’objet](./Règles relatives aux objets magiques.md#UTILISER)</u> ont une durée, indiquée par la durée du sort et le niveau de lanceur de sorts de l’objet. Si l’objet n’a pas de limite d’utilisations quotidiennes, en revanche, le porteur peut simplement utiliser l’objet à nouveau pour réinitialiser sa durée.
+---
+***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#29) Objets magiques, porteurs, et durées : Si un objet magique confère un effet avec une durée au porteur, puis-je le mettre, activer l’effet, le retirer, et conserver l’effet actif ?***
+
+Non, dès qu’il retire un <u>[objet qui confère un effet](./Règles relatives aux objets magiques.md#UTILISER)</u> au porteur, le personnage n’est plus le porteur, et donc toute durée restante expire immédiatement. Cela s’applique aussi si l’objet affecte le propriétaire, celui qui le manie, etc. Si l’effet de l’objet ne spécifie pas que le bénéficiaire est le porteur (ou le propriétaire, celui qui le manie, etc), alors sauf précision contraire, il reste actif jusqu’à ce que l’objet soit retiré.
+---
+***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#21) Objets comme sorts : Est-ce qu’utiliser une potion, un parchemin, un bâton, ou une baguette compte comme « lancer un sort » dans le cadre de dons ou de capacités spéciales comme Amélioration des créatures convoquées, École renforcée, la capacité d’un évocateur à infliger des dégâts supplémentaires avec des sorts d’évocation, les pouvoirs de lignage, etc ?***
+
+Non. Sauf mention contraire, les dons et les capacités qui modifient les sorts lancés n’affectent que les véritables incantations, pas l’<u>[utilisation d’objets magiques](./Règles relatives aux objets magiques.md#UTILISER)</u> qui simulent un lancer de sort ou qui fonctionnent comme un lancer de sort.
+---
+***[→](./FAQ- Manuel des joueurs - Règles avancées.md#67) Augmentations de niveau effectif grâce aux objets magiques : Plusieurs objets du MRA augmentent le niveau effectif du personnage pour certaines capacités de classe, comme le *collier de sérénité* pour les moines, la *robe de l'héritage magique* pour les ensorceleurs, et le *bracelet de châtiment argenté* pour les paladins. Qu'est ce que cela implique exactement ?***
+
+Le [collier](./collier de sérénité.md) indique qu'il affecte « sa réserve de ki et les effets basés sur les pouvoirs qui en découlent (comme le fait d'ignorer la résistance aux dégâts) ». Ainsi, l'augmentation du niveau effectif de moine pour la capacité [réserve de ki](./Moine.md#RESERVEDEKI) augmente uniquement le nombre de points de ki et le type de RD que les attaques à mains nues du moine ignorent. Les autres capacités qui dépendent des points de ki (plénitude physique, pas chassé et désertion de l'âme) ne font pas partie de la capacité réserve de ki, et la magie n'affecte donc ni ces capacités ni le moment où le moine y a accès.
+La [robe](./Robe de lHéritage Magique.md) indique « considère que son niveau d'ensorceleur augmente de +4 lorsqu'il s'agit de déterminer les pouvoirs de lignage qu'il peut utiliser, ainsi que leurs effets ». Notez que pouvoirs de lignage, arcane de lignage, sorts de lignage, et dons de lignage sont trois capacités distinctes de la classe d'ensorceleur, la robe n'affecte que les pouvoirs de lignage.
+Le [bracelet](./bracelet de châtiment argenté.md) indique « considère que son niveau de paladin est augmenté de 4 niveaux pour tout ce qui concerne son pouvoir de châtiment du mal ». Puisque les seuls aspects de [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL) qui dépendent du niveau sont le bonus aux jets d'attaque et le nombre d'utilisations quotidiennes, ce sont les deux choses que le bracelet affectent.}Pour pouvoir utiliser un objet, il s’agit tout d’abord de l’activer, ce qui est parfois aussi simple que de passer un anneau à son doigt. Certains objets fonctionnent en permanence dès lors qu’ils sont portés. Dans la plupart des cas, cependant, l’utilisation d’un objet nécessite une [action simple](./Action simple.md) (qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md)). La situation est différente pour les [objets à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION), qui sont considérés comme des sorts en situation de combat : leur utilisation provoque donc une [attaque d’opportunité](./attaque dopportunité.md).
+
+Sauf indication contraire dans la description de l’objet, activer un objet magique nécessite une [action simple](./Action simple.md). Lorsqu’un objet reproduit précisément l’effet d’un sort, cependant, son temps d’activation est égal au temps d’incantation du sort en question (sauf indication contraire). Les quatre types d’objets magiques sont présentés ci-dessous.
+
+{s:Reference|OBJETSAFINDINCANTATION}
+#### Objets à fin d’incantation
+C’est ainsi que sont activés les [parchemins](./Parchemins magiques.md). Un [parchemin](./Parchemins magiques.md) est une incantation magique pratiquement achevée. L’étape de préparation a déjà été effectuée par l’auteur du [parchemin](./Parchemins magiques.md) et il ne reste plus à l’utilisateur qu’à finir l’incantation (en prononçant les dernières incantations, en réalisant les derniers gestes, etc.) Afin d’utiliser ce type d’objet sans risque, le sort doit être présent sur la liste des sorts d’une des classes de l’utilisateur ; par ailleurs, celui-ci doit être d’un niveau suffisant dans cette classe pour avoir en théorie accès au sort. Si son niveau n’est pas assez élevé, un incident peut avoir lieu. Activer un objet à fin d’incantation est une [action simple](./Action simple.md) qui provoque une [attaque d’opportunité](./attaque dopportunité.md), comme si le personnage lançait un sort.
+
+{s:Reference|OBJETSAPOTENTIELMAGIQUE}
+#### Objets à potentiel magique
+Cette méthode est identique à la précédente, mais en plus simple encore. Le personnage n’a même pas besoin d’achever l’incantation ; il lui suffit d’avoir les connaissances magiques adéquates et de prononcer le mot déclenchant le pouvoir. Il suffit que le ou les sorts fassent partie de la liste de sorts auxquels le personnage a droit grâce à sa classe, y compris si le personnage n’est pas encore capable de lancer des sorts, comme c’est le cas par exemple le cas pour un [paladin](./Paladin.md) de niveau 3. Le personnage doit tout de même déterminer quel est le sort contenu dans l’objet avant de pouvoir l’utiliser. Activer un objet à potentiel magique est une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+
+{s:Reference|OBJETSAMOTDECOMMANDE}
+#### Objets à mot de commande
+Si aucune méthode d’activation n’est suggérée dans la description de l’objet ou via la nature de celui-ci, il est généralement nécessaire de connaître un mot de commande. Avec un objet à mot de commande, le pouvoir se déclenche dès que l’utilisateur prononce le mot prévu ; il n’est pas nécessaire de posséder la moindre connaissance en matière de magie.
+
+Le mot de commande peut être un mot on ne peut plus normal, mais le personnage risque alors d’activer son objet par accident s’il prononce le mot au cours d’une conversation. Habituellement, le mot ne veut rien dire, et il ne s’agit même quelquefois d’un mot ou d’une phrase tiré d’une langue morte. Activer un objet à mot de commande est une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+
+Quelquefois, le mot de commande activant l’objet est mentionné sur celui-ci. Il est parfois camouflé par un dessin ou une décoration rajouté ultérieurement, à moins que l’objet présente un symbole permettant de retrouver le mot de commande lui-même.
+
+Les compétences [Connaissances](./Connaissances.md) (histoire) et [Connaissances](./Connaissances.md) (mystères) peuvent permettre d’identifier les mots de commande ou de déchiffrer les indices à son sujet. Un test de compétence réussi ([DD](./DD.md) 30) est nécessaire pour trouver le mot de commande. En cas d’échec, réussir un second test ([DD](./DD.md) 25) peut fournir un indice utile. Les sorts *[identification](./Identification.md) et *[analyse d’enchantement](./Analyse denchantement.md) permettent d’obtenir le mot de commande d’un objet.
+
+{s:Reference|OBJETSAUSAGE}
+#### Objets à usage
+Simplement se servir normalement de ce type d’objet permet à son pouvoir de prendre effet : il peut s’agir de boire une [potion](./Potions magiques.md), de porter un vêtement, d’utiliser une arme ou un bouclier, de regarder à travers une lentille, d’éparpiller de la poudre, de porter un [anneau](./Anneaux magiques.md), ou encore de mettre un chapeau. C’est le mode d’activation le plus simple existant.
+
+De nombreux objets à usage sont des objets que l’on porte (vêtements, bijoux, etc.). Les objets à fonctionnement continu sont pratiquement constamment des objets portés. Certains doivent simplement être en possession du personnage (c’est-à-dire sur lui) pour fonctionner, mais d’autres objets destinés à être portés doivent malgré tout être activés. Même si cette activation nécessite de quelquefois un [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) (voir ci-dessus), le personnage doit généralement juste souhaiter mentalement que l’objet fonctionne. La description de l’objet indique généralement si un [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) est nécessaire ou non dans une telle situation.
+
+Sauf indication contraire, l’activation d’un objet à usage est soit une [action simple](./Action simple.md), soit une [action immédiate](./Action immédiate.md) et elle ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md), sauf si l’utilisation de l’objet implique une action qui offre pour sa part une [attaque d’opportunité](./attaque dopportunité.md) à l’adversaire. Si un certain temps est nécessaire entre le moment où le personnage décide d’utiliser l’objet et celui où le pouvoir se déclenche, l’activation est une [action simple](./Action simple.md). Par contre, si le pouvoir de l’objet prend effet chaque fois qu’on s’en sert, l’activation n’est pas considérée comme une action.
+
+Posséder un objet à usage n’implique pas que l’on sache ce que cet objet fait. Le personnage doit savoir quel est le pouvoir de l’objet (ou du moins en avoir une certaine idée) afin de pouvoir l’activer, sauf si les conséquences de l’utilisation sont automatiquement appliquées, comme c’est le cas pour une [potion](./Potions magiques.md) ou une [arme](./Armes magiques.md).
+
+#### Taille des objets magiques
+Lorsqu'on découvre un habit ou un bijou magique, la plupart du temps, la taille ne devrait pas être un problème. De nombreux vêtements magiques sont conçus pour s'adapter facilement ou par magie au gabarit du porteur. La taille ne devrait pas empêcher les personnages de tout type d'utiliser un objet magique.
+
+Il pourrait y avoir de rares exceptions, tout spécialement avec les objets spécifiques à une race.
+
+**Taille des armures et des armes.** Les armures et les armes trouvées ont 30% de chance d'être de taille P (01–30), 60% de chance d'être de taille M (31–90) et 10% de chance d'être d'une autre taille 91–100).
+
+{s:Reference|SURLECORPS}
+### Les objets magiques portés sur le corps
+La plupart des objets magiques doivent être portés pour qu’une personne bénéficie de leurs pouvoirs. Cependant, un seul objet peut être porté sur (ou par-dessus) un endroit précis du corps, que l’on appellera « emplacement ». Une créature humanoïde est ainsi capable d’avoir quinze objets magiques en même temps.
+
+Une silhouette humanoïde peut être équipée magiquement avec un objet de chacun des groupes suivants, lesquels sont liés à la partie du corps sur laquelle l’objet est portée.
+
+<center>
+{| CLASS="tablo"
+|- CLASS="titre"
+| Emplacement
+| CLASS="gauche" | Description
+|- CLASS="premier"
+| Armure
+| CLASS="gauche" | une armure.
+|- CLASS="alt"
+| Sur la tête
+| CLASS="gauche" | une couronne, un casque, un couvre-chef, un masque ou un diadème.
+|-
+| Sur le front
+| CLASS="gauche" | un bandeau ou un phylactère.
+|- CLASS="alt"
+| Devant les yeux
+| CLASS="gauche" | des lentilles, un monocle ou une paire de lunettes.
+|-
+| Autour du cou
+| CLASS="gauche" | une amulette, une broche, un charme, un collier, un médaillon ou un scarabée.
+|- CLASS="alt"
+| Sur les épaules
+| CLASS="gauche" | une cape, une écharpe ou un manteau.
+|-
+| Sur le torse
+| CLASS="gauche" | une chasuble, une chemise, un gilet ou une veste.
+|- CLASS="alt"
+| Sur le corps
+| CLASS="gauche" | un manteau ou une robe.
+|-
+| Autour de la taille
+| CLASS="gauche" | une ceinture ou un ceinturon.
+|- CLASS="alt"
+| Sur les bras ou les poignets
+| CLASS="gauche" | une paire de bracelets.
+|-
+| Aux mains
+| CLASS="gauche" | une paire de gants ou de gantelets.
+|- CLASS="alt"
+| Bouclier
+| CLASS="gauche" | un bouclier.
+|-
+| Aux pieds
+| CLASS="gauche" | une paire de bottes ou de chaussures.
+|- CLASS="alt"
+| Aux doigts
+| CLASS="gauche" | deux anneaux (un sur chaque main ou les deux sur la même main).
+|}
+</center>
+
+Un personnage peut bien évidemment posséder plusieurs objets d’un même type, mais, dans ce cas-ci, le dernier objet ajouté ne fonctionne pas, le ou les autres continuant à agir normalement.
+
+Certains objets peuvent être portés sans occuper d’emplacement. La description des objets précise s’ils possèdent cette propriété.
+
+{s:Reference|JDS}
+### Jet de sauvegarde contre les objets magiques
+Les objets magiques produisent des sorts ou manifestent des pouvoirs magiques identiques à des sorts. Lorsqu’ils permettent un jet de sauvegarde, celui-ci est calculé de la façon suivante : 10 + niveau du sort ou de l’effet + modificateur de caractéristique correspondant à la valeur de caractéristique minimale pour lancer le sort en question.
+
+Les [bâtons](./Bâtons magiques.md) sont une exception à cette règle. Leurs effets sont déterminés comme si l’utilisateur lançait lui-même le sort, y compris pour le niveau de lanceur de sorts et tous les modificateurs au [DD](./DD.md) des jets de sauvegarde.
+
+Dans la plupart des cas, le [DD](./DD.md) associé aux divers effets produits par l’objet est indiqué dans la description de celui-ci, surtout lorsque ces effets ne correspondent pas exactement à des sorts existants (ce qui rend son niveau plus difficile à déterminer rapidement).
+
+{s:Reference|DEGATS}
+### Dégâts infligés aux objets magiques
+Un objet magique n’a besoin d’effectuer un jet de sauvegarde que dans le cas où il n’est pas porté ou tenu, celui où il est ciblé spécifiquement ou encore si son porteur obtient un 1 naturel sur un jet de sauvegarde. Les objets magiques devraient toujours avoir droit à un jet de sauvegarde contre les sorts capables de les endommager, même dans le cas où ceux-ci n’offrent généralement aucun jet de sauvegarde aux objets non magiques. Les objets magiques utilisent le même bonus de base pour tous les jets de sauvegarde ([Réflexes](./Réflexes.md), [Vigueur](./Vigueur.md) ou [Volonté](./Volonté.md)). Celui-ci se monte à 2 + moitié du niveau de lanceur de sorts de l’objet (arrondi à l’entier inférieur). L’unique exception à cette règle sont les [objets intelligents](./Objets intelligents.md), puisque leur valeur de [Sagesse](./Sagesse.md) est prise en compte pour leurs jets de [Volonté](./Volonté.md).
+
+Sauf indication contraire, les objets magiques sont endommagés de la même manière que les objets normaux du même type. S’ils sont seulement détériorés, ils continuent de fonctionner, mais ils perdent tout pouvoir une fois détruits. Si l’on inflige à un objet magique des dégâts supérieurs à la moitié de ses points de vie, il est [cassé](./Brisé.md) et peut ne pas fonctionner correctement.
+
+#### Réparer les objets endommagés
+Il arrive que les objets magiques soient endommagés au cours d’une aventure, plus particulièrement les [armes](./Armes magiques.md) et les [boucliers](./Armures magiques.md). Il est possible de réparer un objet magique avec la compétence [Artisanat](./Artisanat.md) appropriée, et le coût est le même que pour un objet ordinaire. Le sort *[réparation intégrale](./Réparation intégrale.md)* permet de réparer un objet magique endommagé (ou même détruit).
+
+{s:Reference|CHARGESOBJETSMAGIQUES}
+#### Charges, doses et usage limité
+La puissance de beaucoup d’objets magiques, le plus souvent des [bâtons](./Bâtons magiques.md) et des [baguettes](./Baguettes magiques.md), est limitée par leur nombre de charges. Généralement, ce type d’objet possède un maximum de 50 charges (10 pour les [bâtons](./Bâtons magiques.md)). Dans le cadre d’un trésor déterminé aléatoirement, il convient de lancer 1d100 et de diviser le résultat par 2 afin d’obtenir le nombre de charges restantes (arrondir à l’entier inférieur, au minimum 1 charge). Si l’objet possède un nombre de charges maximal autre que 50, déterminer les charges restantes de façon proportionnelle au total obtenu.
+
+Le prix de vente indiqué est toujours indiqué en estimant que l’objet est pleinement chargé (ce qui est le cas au moment où il est créé). Dans le cas d’un objet qui ne vaut plus rien quand toutes ses charges sont épuisées (pratiquement la totalité des objets à charges), son prix de vente diminue proportionnellement au nombre de charges utilisées. Si l’objet reste utile une fois vidé de ses charges, seule la partie de sa valeur correspondant à ses charges est diminuée.
+
+{s:Reference|ACHETER}
+### Acheter des objets magiques
+Les objets magiques ont une grande valeur. Simple marchand de [potions](./Potions magiques.md) ou forgeron spécialisé dans les [armes magiques](./Armes magiques.md), chaque grande ville a au moins un ou deux marchands d’objets magiques. Bien sûr, on ne trouve pas partout tous les objets décrits ici.
+
+Ce qui suit aidera le [MJ](./MJ.md) à déterminer quels sont les objets que l’on peut trouver au sein d’une communauté spécifique, dans une campagne ayant un niveau moyen de magie, sauf exception notable à la discrétion du [MJ](./MJ.md). Ce dernier devra garder une trace de tous les objets disponibles pour chaque marchand et simuler de nouvelles acquisitions en remplissant ses stocks.
+
+{s:Reference|TABLEOBJETSMAGIQUESDISPONIBLES}
+<center>
+{| CLASS="tablo"
+|+ Objets magiques disponibles
+|- CLASS="titre"
+| Taille || Valeur de base || Mineur || Moyen || Majeur
+|- CLASS="premier"
+| Lieu-dit || 50 po || 1d4 objets || — || —
+|- CLASS="alt"
+| Hameau || 200 po || 1d6 objets || — || —
+|-
+| Village || 500 po || 2d4 objets || 1d4 objets || —
+|- CLASS="alt"
+| Petite bourgade || 1 000 po || 3d4 objets || 1d6 objets || —
+|-
+| Grosse bourgade || 2 000 po || 3d4 objets || 2d4 objets || 1d4 objets
+|- CLASS="alt"
+| Petite ville || 4 000 po || 4d4 objets || 3d4 objets || 1d6 objets
+|-
+| Grande ville || 8 000 po || 4d4 objets || 3d4 objets || 2d4 objets
+|- CLASS="alt"
+| Métropole || 16 000 po || * || 4d4 objets || 3d4 objets
+|-
+| CLASS="note" COLSPAN="5" | *(*) Dans une capitale, pratiquement l’intégralité des objets magiques mineurs sont disponibles.*
+|}
+</center>
+
+Leur nombre et leur type dépendent en grande partie de la taille de l’endroit où on les trouve, comme indiqué dans la Table "[Objets magiques disponibles](./Règles relatives aux objets magiques.md#TABLEOBJETSMAGIQUESDISPONIBLES)", à la colonne « Valeur de base ». Il y a 75 % de chances pour qu’un objet d’un prix équivalent ou inférieur y soit facilement disponible à la vente. De plus, un certain nombre, déterminé au hasard, d’objets magiques répartis dans chaque catégorie (mineur, moyen et majeur), est également disponible. Reportez-vous à la Table "[Détermination aléatoire dobjets magiques](./Détermination aléatoire dobjets magiques.md)" pour en avoir les quantités et la nature ([potion](./Potions magiques.md), [parchemin](./Parchemins magiques.md), [anneau](./Anneaux magiques.md), [armes](./Armes magiques.md), etc.) exactes, puis aux tables spécifiques pour déterminer précisément quel est l’objet. Relancez les dés à chaque fois que vous tombez sur un objet magique dont la valeur est inférieure à la <u>valeur de base</u> de la communauté.
+
+Si la magie est peu présente dans votre campagne, réduisez de moitié la valeur de base et le nombre d’objets disponibles dans chaque communauté. Il se pourrait aussi très bien qu’il n’y ait aucun objet magique à vendre. Si vous adoptez cette optique, n’oubliez pas d’adapter les défis que vos joueurs doivent relever, pour qu’ils n’aient pas trop à pâtir de cette absence.
+
+Si la magie est au contraire très présente, multipliez cette valeur de base et le nombre d’objets disponibles par deux, ou bien considérez que votre ville est d’une catégorie supérieure à sa taille réelle. Dans les campagnes où la magie est chose très commune, il est possible d’acheter n’importe quel objet dans une cité.
+
+En ce qui concerne l’équipement ordinaire, seules les pièces particulièrement chères, comme un harnois, ou faites dans un matériau rare, comme une épée longue en adamantium, sont réellement difficiles à trouver. Dans ce cas, et toujours à la discrétion du MJ, suivez les indications relatives à la valeur de base pour avoir une idée de leur disponibilité.

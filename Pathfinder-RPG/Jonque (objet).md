@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Jonque (objet)
+Title: Jonque
+LastModified: 2023-11-09 22:19
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15.000 po ; **Passage (1,5 km)** 1 pa
+<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+---
+Ce navire à fond plat est équipé de deux ou trois mâts avec des voiles de jonques, ce qui permet à un petit équipage de le manoeuvrer facilement. La jonque a un haut pont de dunette et n’a pas de quille.

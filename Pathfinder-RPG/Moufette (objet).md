@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Moufette (objet)
+Title: Moufette
+LastModified: 2021-09-21 13:28
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10 po ; **Poids** 5 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Ces créatures sont connues pour l’odeur extrêmement répugnante qu’elles dégagent pour éloigner les prédateurs. On garde parfois les moufettes comme animaux de compagnie mais généralement après leur avoir retiré leurs glandes exocrines.Voir les statistiques de la [moufette](./Moufette.md).

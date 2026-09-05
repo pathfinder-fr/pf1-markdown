@@ -1,0 +1,36 @@
+---
+Name: Golarion.Réseau Campanule
+Title: Le Réseau Campanule
+LastModified: 2020-05-10 10:18
+Categories:
+- Organisation
+---
+
+{s:Organisation|Réseau Campanule|Bellflower Network|CB|L'émancipation des esclaves halfelins|Quelque part au [Chéliax](./Chéliax.md)|Le Fermier|-|-|[Chéliax](./Chéliax.md)|}Le Réseau Campanule est une organisation ultra secrète qui agit dans l'ombre du [Chéliax](./Chéliax.md). Son but principal est de libérer les [halfelins](./halfelins.md) du joug de l'esclavage en les évacuant depuis les principales villes du [Chéliax](./Chéliax.md) vers l'[Andoran](./Andoran.md) ou le [Rahadoum](./Rahadoum.md). Son nom est issu de la campanule bleue que ses membres portent de manière détournée pour se reconnaître.
+
+### Fonctionnement
+L'organisation est née il y a une dizaine d'années. Elle est très fortement divisée et ses membres ne connaissent pas personnellement les autres membres de l'organisation. Chacun à une tâche particulière qui empêche de faire tomber l'ensemble du réseau. Certains vont "kidnapper" les esclaves halfelins dans les fermes auxquelles ils sont attachés, d'autres vont les convoyer vers des caches qui sont gérées par une troisième personne. C'est là que les quatrièmes viennent les récupérer pour amener les halfelins à des passeurs qui leur feront passer les frontières.
+
+### Le Fermier
+Personne ne connaît réellement celui qui se fait appeler *Le Fermier*. Certains prétendent qu'il s'agit d'un unique halfelin, d'autres qu'ils sont plusieurs à se partager le rôle. La rumeur la plus sérieuse fait état d'un ancien esclave de [Corentyn](./Corentyn.md) qui aurait tué son ancien maître et se serait enfui d'abord au [Rahadoum](./Rahadoum.md) puis en [Andoran](./Andoran.md).
+
+Enfin, les plus récents racontars indiquent que le réseau aurait été créé par les [Chevaliers de l'Aigle](./Chevaliers de lAigle.md) d'[Andoran](./Andoran.md) avec pour objectif masqué de repérer les différents axes entre les villes chélaxiennes. Cette étude montrerait les velléités andoranes de commencer une guerre contre le [Chéliax](./Chéliax.md).
+
+### Un langage "fleuri"
+En raison de leur extrême nécessité de discrétion, les membres du réseau ont mis en place un langage codé qui leur permet de communiquer sans éveiller les soupçons des autorités chélaxiennes. Voici les principaux termes utilisés :
+- Une *Grange* : Une cache secrète, comme une maison, un commerce ou une vrai écurie, où les esclaves sont cachés durant le jour.
+- Une *Récolte* : Un groupe d'esclaves escorté vers la liberté.
+- Une *Ferme* : Un lieu où les esclaves sont retenus contre leurs grés, telle la propriété d'un noble chélaxien.
+- *Le Fermier* : Dirigeant du Réseau Campanule.
+- *Brouter* : Observer un lieu où sont emprisonnés les esclaves.
+- Une *Pleine lune* : Le meilleur moment pour se déplacer, par extension, la nuit. Ce terme signifie aussi la nuit à laquelle un esclave commence son voyage vers la liberté.
+- *Irriguer* : Tuer un esclavagiste ou un propriétaire d'esclaves.
+- *Cueillir* : Libérer un esclave.
+- Un *Rang* : Un chemin entre deux caches secrètes.
+- *Planter* : Acheminer des esclaves le long d'un *rang*.
+- Un *Cultivateur* : Celui qui *plante* la *récolte* le long d'un *rang*.
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur le Réseau Campanule dans le supplément
+- [Pathfinder Chronicles: Faction Guide](./Publications.md#FactionGUIDE)
+{s:VoirAussiAprès}

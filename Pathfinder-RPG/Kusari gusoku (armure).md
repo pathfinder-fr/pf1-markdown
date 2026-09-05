@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Kusari gusoku (armure)
+Title: Kusari gusoku
+LastModified: 2021-10-10 19:41
+Categories:
+- Armure
+- Src Armes et équipement
+- Src Art de la guerre
+---
+
+{s:AE}{s:UC}**Prix** 350 po ; **Poids** 22,5 kg
+**Bonus d'armure** +7 ; **Bonus de Dex maximal** +1 ; **Malus d'armure** -7
+**Risque d'échec des sorts profanes** 35% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
+<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES) ([orientale](./Armes orientales.md))</span>
+---
+Le kusari gusoku ressemble à l’armure [tatami-do](./Tatami-do (armure).md) mais le katabira (sorte de veste de mailles) se porte à la place du plastron.

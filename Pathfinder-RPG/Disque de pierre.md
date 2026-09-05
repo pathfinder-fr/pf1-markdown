@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Disque de pierre
+Title: Disque de pierre
+LastModified: 2022-06-12 14:50
+Categories:
+- Sort druide 2
+- Sort magicien 2
+- Sort magus 2
+- Sort sanguin 2
+- Sort sorcière 2
+---
+
+{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>terre<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M](./composantes.md) (une pincée de terre ou de métal)  
+
+**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+
+**Effet** un ou plusieurs disques de pierre  
+
+**Durée** instantanée  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage crée un disque de pierre qui vole en direction d’un ennemi. Il peut créer un disque, puis un de plus aux niveaux de lanceur 7 et 11. Pour chaque disque qu’il crée, il décide si son bord est émoussé (infligeant des dégâts contondants) ou acéré (infligeant des dégâts tranchants). Pour toucher et infliger 4d6 points de dégâts, il faut effectuer une attaque à distance avec chaque disque. Il est possible de lancer les disques sur plus d’une cible, mais aucune cible ne doit se trouver à plus de 9 mètres (6 {s:c}) des autres et les disques doivent être lancés simultanément.
+Au niveau de lanceur 5, les disques comptent comme des armes magiques en argent. Au niveau de lanceur 10, ils comptent également comme des armes en fer froid. Au niveau de lanceur 15, ils comptent également comme des armes en adamantium.

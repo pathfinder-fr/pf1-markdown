@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Armure du prince démoniaque
+Title: Armure du prince démoniaque
+LastModified: 2024-06-18 17:09
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Armure du prince démoniaque|{s:AE}}
+**Aura** [Nécromancie](./Nécromancie.md) surpuissante ; **NLS** 22 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 40 kg
+(((Description)))
+Cette armure ressemble à une *[armure démoniaque](./Armure démoniaque.md)* en plus massif et en plus dangereux. C’est un [harnois](./harnois (armure).md) de *[défense lourde](./défense lourde (propriété).md)* +5 qui permet à son propriétaire d’effectuer des attaques de griffes qui infligent 2d10 points de dégâts. Elles sont considérées comme des armes +3 Chaotiques et Mauvaises en ce qui concerne la résistance aux dégâts. De plus, les ennemis touchés doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 20 pour ne pas être victimes d’un sort de *[contagion](./Contagion.md)*. Les griffes sont soudées à l’armure, on ne peut donc pas désarmer leur propriétaire. Tant que ce dernier porte l’armure, il bénéficie des traits démoniaques suivants.
+• [Vision dans le noir](./Capacités spéciales.md#VISIONDANSLENOIR) 18 mètres. Si le personnage dispose déjà de ce pouvoir, sa portée augmente de 18 mètres.
+• Pas besoin de respirer ni de manger.
+• Immunité contre l’électricité et le poison.
+• Résistance acide 10, froid 10 et feu 10.
+• Télépathie et aptitude à parler l’abyssal, le céleste et le draconique.
+(((Destruction)))
+L’*armure du prince démoniaque* se dissout si on l’immerge dans les larmes d’un seigneur démoniaque. L’armure est détruite si un ange boit ensuite cette immonde décoction.
+</div>

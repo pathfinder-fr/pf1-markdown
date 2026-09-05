@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Cuillère nourrissante
+Title: Cuillère nourrissante
+LastModified: 2024-06-14 23:18
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Cuillère nourrissante|{s:AE}}
+**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 400 po ; **Poids** —
+(((Description)))
+Si cet ustensile de table d’apparence anodine est placé dans un récipient vide, celui-ci se remplit d’un épais gruau, aussi immonde que nourrissant. Même s’il donne l’impression de mâcher du carton tiède détrempé, il contient tous les éléments nécessaires pour subvenir aux besoins d’une créature herbivore, carnivore ou omnivore. Chaque jour, la cuillère peut en produire assez pour nourrir jusqu’à quatre humains.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création de nourriture et d’eau](./Création de nourriture et deau.md)* ; **Coût** 2 700 po
+</div>

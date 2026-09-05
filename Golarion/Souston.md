@@ -1,0 +1,25 @@
+---
+Name: Golarion.Souston
+Title: Souston
+LastModified: 2021-08-26 22:21
+Categories:
+- Andoran
+- Ville
+---
+
+{s:Communauté|Souston (ville)|[Andoran](./Andoran.md)|[Paines de Carpenden](./Paines-de-Carpenden.md)||||920 (petite bourgade)||}Souston est un petit village [andoran](./Andoran.md) de pêcheurs au bord de la [mer intérieure](./mer Intérieure.md), à environ 386 kilomètres à l'est de la capitale d'[Almas](./Almas.md). La ville se compose de petites cabanes aux couleurs vives qui s'accrochent à la côte en pente douce.<sup>(1)</sup><sup>(2)</sup>
+
+#### Histoire
+Selon les traditions locales, la ville a été fondée par un capitaine [chélaxien](./Chéliax.md) nommé Erin Souston lorsque son navire s'est écrasé contre les rochers à proximité lors d'un épais brouillard. L'ancre qui marque encore l'entrée du port de Souston proviendrait de l'épave de son navire.<sup>(3)</sup>
+
+La colonie n'est pas particulièrement remarquable, mais est néanmoins la cible de raids de pirates ou d'esclaves de temps en temps. Lors de ces attaques, les villageois se barricadent à l'intérieur de leurs caves ou dans des grottes voisines et attendent que la menace passe.<sup>(2)</sup> Souston a été incendiée à trois reprises par ces attaques, et à chaque fois les habitants ont reconstruit leur ville. Les raids peuvent être encouragés par une rumeur persistante selon laquelle le capitaine Souston aurait caché un trésor de valeur dans la ville, mais personne n'en a jamais trouvé la trace.<sup>(3)</sup>
+
+#### Économie
+La plupart des moins de 1 000 habitants de Souston vivent des produits de la mer ou pratiquent une agriculture de subsistance.<sup>(3)</sup>
+
+### Références
+**1.** Hal Maclean, Colin Moulder-McComb, Jason Nelson, Jonathan Keith, et Hank Woon. dans *[Andoran, Spirit of Liberty](https://paizo.com/products/btpy8bc3)* en 2010, deuxième de couverture. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.196
+
+**2.** Hal Maclean, Colin Moulder-McComb, Jason Nelson, Jonathan Keith, et Hank Woon. dans *[Andoran, Spirit of Liberty](https://paizo.com/products/btpy8bc3)* en 2010, p. 20. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.184
+
+**3.** Tim Hitchcock et Jason Nelson dans *[Andoran, Birthplace of Freedom](https://paizo.com/products/btpy99gi)* en 2015, p. 16-17. Paizo Inc.

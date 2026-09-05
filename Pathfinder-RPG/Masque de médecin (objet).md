@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Masque de médecin (objet)
+Title: Masque de médecin
+LastModified: 2021-10-25 15:01
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 50 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Ce masque protecteur confère un bonus de circonstances de +1 aux jets de [Vigueur](./Vigueur.md) contre les toxines volatiles et les effets basés sur l’odorat. À la Cité-état diabolique, porter un masque de médecin en public quand on n’est ni guérisseur ni physicien est un crime mineur.

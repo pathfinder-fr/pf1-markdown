@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Longue vue (objet)
+Title: Longue vue
+LastModified: 2021-09-16 21:53
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1.000 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Une longue vue permet d'observer les objets avec un grossissement de deux fois leur taille. Les personnages utilisant une longue vue reçoivent un malus de -1 à leurs tests de [Perception](./Perception.md) par tranche de 6 mètres de distance jusqu'à la cible, si celle-ci est visible.

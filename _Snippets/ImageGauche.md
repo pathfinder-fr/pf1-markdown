@@ -1,0 +1,5 @@
+---
+{}
+---
+
+<IMG SRC="/wiki/public/upload/?1?" WIDTH="?2?" STYLE="float: left; margin: 0 5px 5px 0;"/>

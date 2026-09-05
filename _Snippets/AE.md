@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<a href="/Wiki/Pathfinder-RPG.Armes et équipement (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Ultimate Equipment/Armes et Équipement" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoAE.gif" style="opacity: 0.7" loop="infinite" />
+</a>

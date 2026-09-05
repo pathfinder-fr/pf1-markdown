@@ -1,0 +1,46 @@
+---
+Name: Pathfinder-RPG.Récupération
+Title: Récupération
+LastModified: 2024-06-21 15:47
+Categories:
+- Sort
+- Sort magicien 9
+- Sort prêtre 9
+- Src Pirates de la mer Intérieure
+---
+
+{s:PMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Prê](./Prêtre.md) 9
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, M](./composantes.md)
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+**Cible** une épave
+**Durée** voir description
+**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+
+<div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
+<div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
+{| CLASS="tablo centre toutgauche autoalt"
+|- CLASS="titre"
+| Taille || Durée
+|- CLASS="premier"
+| Radeau || 1 minute
+|-
+| Chaloupe || 1 minute
+|-
+| Quillard || 10 minutes
+|-
+| Drakkar || 1 heure
+|-
+| Bateau à voiles || 2 heures
+|-
+| Bateau de guerre || 3 heures
+|-
+| Galion || 4 heures
+|}
+</div></div>Une force invisible rassemble les restes d’une épave. Les morceaux de coque, les voiles déchirées, les mâts brisés et les figures de proue détruites se ressoudent pour reconstruire le navire d’origine. Le bois pourri redevient solide et les voiles redeviennent intactes alors que les cordages du gréement ondulent autour des mâts pour reprendre leur position d’origine.
+
+Il faut un temps variable pour que le bateau se reconstruise. Cette durée dépend de la taille du navire.
+
+À la fin de cette durée, une bulle d’air se forme autour du navire réparé. S’il est immergé, il revient rapidement à la surface en produisant moult éclaboussures avant de se stabiliser sur l’eau.
+
+Même si le sort nécessite du temps de réparation, ses effets sont instantanés. Un navire qui a bénéficié des effets de ce sort ne peut pas être dissipé pour le ramener à l’état d’épave. Toutefois, avant la fin de la durée du sort pendant que le navire subit les réparations, le sort de *récupération* peut être dissipé pour interrompre le processus. Le navire reste alors dans l’état où il se trouvait au moment où le sort a été interrompu et ce, tant qu’un nouveau sort de *récupération* n’a pas été lancé (il continue néanmoins de subir l’érosion du temps et de son environnement normalement). La durée d’un nouveau sort de *récupération* est modifiée par les réparations déjà effectuées.

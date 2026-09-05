@@ -1,0 +1,44 @@
+---
+Name: Aventures.AP13-Berrexi
+Title: Berrexi
+LastModified: 2019-10-14 19:01
+Categories:
+- Campagne
+- PNJ
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Berrexi|FP 1}
+{s:BDTexte|*Source : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.82*}
+{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) [Guerrier](./../Pathfinder-RPG/Guerrier.md) 1}
+{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, CM}
+{s:BDTexte|**Init **+2 ; **sens **Détection 0, Perception auditive 0}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (+5 armure, +2 Dex)}
+{s:BDTexte|**pv** 16 (1d10+6) }
+{s:BDTexte|**Réf **+2, **Vig **+4, **Vol **+1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD **6 m}
+{s:BDTexte|**Corps à corps** épée longue, +3 (1d8+3/19–20), épée courte, +2 (1d6+1/19–20)}
+{s:BDTexte|            *ou* épée longue, +5 (1d8+3/19–20)}
+{s:BDTexte|            *ou* épée courte, +4 (1d6+3/19–20)  }
+{s:BDTexte|**À distance** arc court, +3 (1d6/×3)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 16, **Dex** 15, **Con** 14, **Int** 12, **Sag** 10, **Cha** 11 }
+{s:BDTexte|**BBA** +1; **BMO** +4; **DMD **16}
+{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue), [Combat à deux armes](./../Pathfinder-RPG/Combat à deux armes.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md)}
+{s:BDTexte|**Compétences** Dressage +7, Équitation +10, Intimidation +7}
+{s:BDTexte|**Langues** Commun, Varisien}
+{s:BDSousTitre|Équipement de combat}
+{s:BDTexte|acide, feu grégeois}
+{s:BDTexte|armure d’écailles}
+{s:BDTexte|épée longue}
+{s:BDTexte|épée courte}
+{s:BDTexte|arc court et 20 flèches}
+{s:BDTexte|sac à dos, paillasse, pied-de-biche, grappin, corde en chanvre (15 m), choppe en terre cuite, torche (3), ration de survie (2), outre}
+{s:BDTexte|6 po}
+</div>
+</td><td><div class="BD">
+Un guerrier humain malfaisant, mais ordinaire.
+</div></td></tr></table>

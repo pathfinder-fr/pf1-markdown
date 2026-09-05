@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.tueuse (propriété)
+Title: tueuse (propriété)
+LastModified: 2023-07-11 13:56
+Categories:
+- Objet mag propriété arme
+- Redirection
+---
+
+>>> Descriptions individuelles des propriétés spéciales des armes#Tueuse

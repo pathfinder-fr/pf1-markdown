@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Mourant
+Title: Mourant
+LastModified: 2026-04-19 16:24
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Mourant

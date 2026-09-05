@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Sort brusque
+Title: Sort brusque
+LastModified: 2024-07-23 17:40
+Categories:
+- Contenu supplémentaire
+- Don
+- Don métamagie
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Les sorts du personnage rendent ses alliés plus rapides que la normale*
+
+**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+
+**Condition.** [Dex](./Dex.md) 13
+
+**Avantage.** Le personnage peut modifier les sorts qui accordent un type de déplacement qu’elle ne possède pas à une créature pour augmenter la vitesse de ce type de déplacement de 3 m (2 {s:c}). Un sort brusque utilise un emplacement de sort du même niveau que le sort normal.
+
+(((Brisk spell (Metamagic)
+
+Your movement spells make allies swifter than normal.
+
+Prerequisite: Dex 13+.
+
+Benefit: You can alter spells that grant a creature a movement type it doesn’t normally have to increase the speed for that movement type by 10 feet. A brisk spell uses a spell slot equal to the spell’s normal spell level.)))

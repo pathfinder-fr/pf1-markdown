@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Anneaux de servitude
+Title: Anneaux de servitude
+LastModified: 2024-05-25 17:46
+Categories:
+- Objet mag
+- Objet mag anneau
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Anneaux de servitude|{s:UI}}
+**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 18 200 po ; **Poids** —
+(((Description)))
+{s:cs}Ces anneaux sont forgés par paire et établissent une connexion mentale entre les deux créature qui les portent, désignant l'une d'elle comme le maître et l'autre comme le servant. Le prix et le coût sont ceux d'une paire liée. Les créatures qui portent des *anneaux de servitude* peuvent comprendre les paroles l'une de l'autre. Le porteur de l'anneau maître obtient un bonus de compétence de +6 aux tests de [Psychologie](./Psychologie.md) contre le servant et est constamment au courant de l'emplacement et de l'état général du porteur de l'anneau servant, comme avec le sort *[rapport](./Rapport.md)*.
+
+De plus, une fois par jour, le porteur de l’*anneau de servitude* maître peut imposer sa volonté au porteur de l'anneau servant, lui suggérant ou lui interdisant l'accomplissement d'une action comme s'il était soumis à une *[mission](./Mission.md)* ([Volonté](./Volonté.md) [DD](./DD.md) 16 annule). Autrement, cet effet peut être utilisé comme un contrat entre les deux créatures : tant que le porteur de l'anneau maître est une cible valide à *mission*, il peut accepter une *mission* dictée par le porteur de l'anneau servant. Dans ce cas, aucun porteur n'a droit à un [jet de sauvegarde](./JDS.md) et tous deux sont forcés à accepter le contrat établi par la *mission*. Si le porteur de l'anneau servant ne souhaite pas accepter un tel contrat, il peut toujours choisir une mission comme “me libérer de ma mission”.
+
+Tant qu'une *[mission](./Mission.md)* imposée par un *anneau de servitude* est active, aucun des anneaux ne peut être retiré. Si l'un des anneaux est détruit, les effets de la *mission* persistent, mais l'anneau survivant ne peut pas créer de nouvelle *mission* tant que l'anneau manquant n'est pas réparé ou remplacé. Si une mission mutuelle est acceptée et que l'une des missions se termine, les deux le sont simultanément.
+
+Une créature peut être forcée à enfiler un *anneau de servitude*, mais seulement si elle est [sans défense](./Sans défense.md).
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[détection des pensées](./détection des pensées.md)*, *[mission](./Mission.md)*, *[partage de la langue](./Partage de la langue.md)*, *[rapport](./Rapport.md)*, *[sanctuaire](./Sanctuaire.md)* ; **Coût** 9,100 po
+</div>

@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Charme de contrôle daluum
+Title: Charme de contrôle d’aluum
+LastModified: 2024-05-31 22:51
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src La mer Intérieure
+---
+
+<div class="BD">
+{s:BDTitre|Charme de contrôle d’aluum|{s:CCMI}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 20 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 20 000 po ; **Poids** –
+(((Description)))
+{s:cs}Ce pendentif contient un cristal luisant gravé de runes discrètes. Ces charmes furent créés par les dirigeants du Bazar du bizarre pour contrôler les créatures artificielles appelées des [aluums](./Aluum.md) et ils sont très recherchés sur le marché noir. Au Bazar du bizarre, toute personne en possession d’un *charme de contrôle aluum* se rend coupable d’un crime grave puni par des décennies d’emprisonnement, l’exil ou la mort. Chaque charme est lié à un aluum spécifique, mais sa magie lui permet de modérément fonctionner sur les autres. Si le personnage utilise le charme sur l’aluum auquel il est lié, il peut le contrôler comme il le ferait pour une créature humanoïde sous l’effet d’un *[charme-personne](./Charme-personne.md)*. Cet effet fonctionne aussi sur les autres aluums, mais ils ont droit à un jet de [Volonté](./Volonté.md) [DD](./DD.md) 16 pour y résister. Si l’aluum échoue, il se lie au charme et l’aluum qui lui était précédemment associé n’est plus lié. Un charme ne peut se lier qu’à un aluum à la fois. En ce qui concerne cet effet, si le personnage ordonne à l’aluum d’attaquer un dirigeant du Bazar du bizarre ou une personne qui, à l’évidence, appartient au gouvernement du pays ou s’il lui demande d’abîmer un bâtiment de la capitale, cela va à l’encontre de la nature de la créature et elle a droit à un nouveau [jet de sauvegarde](./JDS.md) avec un bonus de +2 pour résister aux effets du charme. Si l’aluum résiste, il n’est plus lié et attaque généralement la personne qui a tenté de le contrôler.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Création de créatures artificielles](./Création de créatures artificielles.md), *[capture d'âme](./Capture dâme.md)* ; **Coût** 10 000 po
+</div>

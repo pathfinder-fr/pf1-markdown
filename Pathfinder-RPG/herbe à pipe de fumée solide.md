@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.herbe à pipe de fumée solide
+Title: Herbe à pipe de fumée solide
+LastModified: 2024-06-12 23:56
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Manuel des races
+---
+
+{s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}<div class="BD">
+{s:BDTitre|Herbe à pipe de fumée solide|{s:MR}}
+**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 000 po ; **Poids** —
+(((Description)))
+Quand quelqu’un fume cette herbe magique dans une pipe, elle produit une fumée d’un blanc laiteux que le fumeur peut transformer en objet. Si un halfelin tire sur la pipe par une [action complexe](./Action complexe.md), il peut façonner la fumée pour lui donner la forme d’un objet de moins de 2,5 kg et d'un volume maximum de 30 dm³. Le halfelin peut dépenser d’autres actions complexes au cours des [rounds](./round.md) suivants pour augmenter le poids de l’objet 2,5 kg et son volume de 30 dm³ de plus. S’il veut fabriquer un objet complexe, il doit réussir le test d’[Artisanat](./Artisanat.md) approprié. Si le halfelin arrête de tirer sur la pipe avant d’avoir terminé son objet, la fumée se dissipe et la pipe s’éteint. Les objets créés avec l’herbe à pipe de fumée solide durent 24 heures avant de se dissiper. Tant qu’ils existent, ils ont la même solidité, les mêmes points de vie et les mêmes qualités que les objets manufacturés qu’ils imitent, mais ils ont une apparence floue et indistincte. Une pincée d’herbe à pipe de fumée solide permet de fumer pendant 3 rounds. On ne peut utiliser qu’une pincée d’herbe pour faire un objet de grande taille, ce qui veut dire qu’il ne peut pas dépasser 7,5 kg pour un volume de 90 dm³.
+
+Le halfelin ne peut pas dupliquer un objet précis ni en remplacer un. Par exemple, il peut façonner un cadenas et sa clef, mais il ne peut pas souffler la fumée dans une serrure existante pour créer une clef capable de l’ouvrir.
+
+La fumée est caustique et étouffe les non-halfelins. Elle ne leur accorde aucun avantage et, à chaque fois qu’ils dépensent une [action simple](./Action simple.md) pour fumer l’herbe, ils sont [fiévreux](./Fiévreux.md) pendant 1 round.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[création mineure](./Création mineure.md)*, le créateur doit être un [halfelin](./Halfelin.md) ; **Coût** 500 po
+</div>

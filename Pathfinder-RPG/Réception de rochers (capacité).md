@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Réception de rochers (capacité)
+Title: Réception de rochers (Ext)
+LastModified: 2010-11-09 14:58
+---
+
+Les créatures qui possèdent cette capacité (elles doivent être au moins de taille G) peuvent attraper les rochers ou les projectiles de forme similaire de [taille P](./taille P.md), [M](./taille M.md) ou [G](./taille G.md). Une fois par round, lorsqu’elles devraient normalement être touchées par un rocher, elles peuvent effectuer un jet de [Réflexes](./Réflexes.md) pour réceptionner le projectile (par une [action libre](./Action libre.md)). Le [DD](./DD.md) est de 15 pour un rocher de taille P, 20 pour un rocher de taille M et 25 pour un rocher de taille G. Si le projectile offre un bonus magique aux [jets d’attaque](./jet dattaque.md), celui-ci s’applique aussi au DD. Les créatures surprises ne peuvent pas tenter de réceptionner un projectile.
+
+*Format :* réception de rochers. *Emplacement :* Capacités défensives.

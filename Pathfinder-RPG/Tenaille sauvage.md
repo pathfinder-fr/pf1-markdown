@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Tenaille sauvage
+Title: Tenaille sauvage
+LastModified: 2025-01-15 18:55
+Categories:
+- Combat
+- Don combat
+- Don équipe
+- Règle officielle
+- Src Champions of Corruption
+---
+
+{s:plume}<div class="description">**Source :** Champions of Corruption</div>
+*Quand vous prenez un adversaire en tenaille, vous utilisez votre positionnement pour lui infliger des blessures graves, mais vous avez peu de considération quant au bien-être de votre partenaire, alors que vous tranchez profondément avec sauvagerie.*
+
+**Catégorie.** [général](./Dons.md#DONGENERAL), [équipe](./Dons.md#DONEQUIPE)
+
+**Condition.** [Attaque en puissance](./Attaque en puissance.md), [bonus de base à l'attaque](./BBA.md) +4
+
+**Avantage.** Quand vous prenez un ennemi en tenaille avec un allié qui possède également ce don, vous pouvez vous employer dans vos attaques de manière à infliger plus de dégâts à votre adversaire, au risque que ces attaques ne blessent votre allié aussi.
+Quand vous choisissez d'utiliser ce don, calculez le résultat de votre jet d'attaque contre la CA de votre adversaire et de votre allié. Si vous touchez l'adversaire, vous infligez des dégâts bonus comme si vous utilisiez [attaque en puissance](./Attaque en puissance.md). Si vous touchez votre allié, il ne subit aucun dégât de votre attaque à part ces dégâts supplémentaires. Il est possible de toucher à la fois votre ennemi et votre partenaire avec une attaque.
+Les dégâts bonus accordés par ce don s'additionnent avec ceux de l'attaque en puissance.

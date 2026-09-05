@@ -1,0 +1,18 @@
+---
+Name: Golarion.Marche du Trône
+Title: Marche du Trône
+LastModified: 2010-11-13 17:28
+Categories:
+- Géographie
+- Razmiran
+- Ville
+---
+
+Marche du Trône est une cité très récente. Elle a été fondée il y a 35 ans, en 4672 AR pour servir de nouvelle capitale au [Razmiran](./Razmiran.md) et de lieu de résidence à [Razmir](./Razmir.md), le dieu vivant.
+
+
+La ville est divisée en deux quartiers principaux : les Marches et les Pierres.
+
+C'est dans le quartier des Marches que se sont installés [Razmir](./Razmir.md) et les prêtres de haut rang où ils vivent dans la débauche et la décadence. Les bâtiments de ce quartier ont été construits à partir des matériaux les plus fins - bois exotique et pierres hors de prix provenant de tou l'[Avistan](./Avistan.md) - et la plupart d'entre eux sont couverts de représentations de [Razmir](./Razmir.md) dans sa plus grande gloire masquée.
+
+Le quartier des Pierres est quant à lui gangréné par la plus grande pauvreté et la maladie. C'est ici que vivent des milliers de croyants de bas étage qui essaient d'obtenir audience de la part de leur Dieu. Tous ces habitants prient pour faire partie du Choix des Élus, un rite où cinq croyants sont censés être choisis pour discuter avec [Razmir](./Razmir.md). Ce rituel est bien évidemment une imposture qui permet à [Razmir](./Razmir.md) de donner à son peuple de faux espoirs.

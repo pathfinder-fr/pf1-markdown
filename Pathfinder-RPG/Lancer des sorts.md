@@ -1,0 +1,231 @@
+---
+Name: Pathfinder-RPG.Lancer des sorts
+Title: Lancer des sorts
+LastModified: 2024-08-28 15:46
+Categories:
+- Magie
+---
+
+{s:MenuMagie}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>Un sort est un effet magique utilisable une seule fois. Il existe deux types de sorts : les sorts profanes (lancés par les [bardes](./Barde.md), les [ensorceleurs](./Ensorceleur.md) et les [magiciens](./Magicien.md)) et les sorts divins (lancés par les [prêtres](./Prêtre.md) et les [druides](./Druide.md) ainsi que par les [rôdeurs](./Rôdeur.md) et [paladins](./Paladin.md) expérimentés). Certains lanceurs de sorts choisissent leurs sorts parmi un répertoire limité de sorts connus alors que d'autres ont accès à une large variété de sorts.
+
+La plupart des lanceurs de sorts préparent leurs sorts à l'avance (à partir d'un [grimoire](./Magicien.md#GRIMOIRE) ou en priant) mais certains peuvent lancer des sorts de manière spontanée, sans avoir à les préparer. Malgré ces différences dans l'apprentissage et la préparation des sorts, lorsqu'il s'agit de les lancer, tous les lanceurs de sorts pratiquent de manière similaire.
+
+### Le choix du sort
+Il faut d’abord déterminer quel sort lancer. Si le personnage est un [prêtre](./Prêtre.md), un [druide](./Druide.md), un [magicien](./Magicien.md), mais aussi un [paladin](./Paladin.md) ou [rôdeur](./Rôdeur.md) expérimenté, il fait son choix parmi les sorts qu’ils ont préparés en début de journée et qu’ils n’ont pas encore lancés (voir « [Préparation des sorts de magicien](./Magie-profane-ashx.md#Préparation_des_sorts_de_magicien_5) » et « [Préparation des sorts divins](./Magie-divine-ashx.md#Préparation_des_sorts_divins_0) »).
+
+Les [bardes](./Barde.md) et les [ensorceleurs](./Ensorceleur.md) peuvent lancer n’importe quel sort connu, du moment que leur niveau leur permet de le faire.
+
+Pour jeter un sort, le personnage doit être en mesure de parler (si l’incantation nécessite des [composantes verbales](./composante verbale.md)), de bouger les mains (si elle s’accompagne de [composantes gestuelles](./composante gestuelle.md)) et de manipuler des [composantes matérielles](./composante matérielle.md) ou un [focalisateur](./focalisateur.md) s’il y a lieu. Il doit également se [concentrer](./Lancer des sorts.md#CONCENTRATION) sur le sort.
+
+Lorsqu’un sort propose plusieurs versions, le personnage choisit celle qu’il désire utiliser au moment de l’incantation ; il n’a pas besoin de préparer (ou d’apprendre, pour les [bardes](./Barde.md) et [ensorceleurs](./Ensorceleur.md)) une version spécifique du sort.
+
+Une fois qu’un sort préparé a été lancé, le personnage ne peut plus s’en servir tant qu’il ne l’a pas préparé à nouveau (s’il l’a choisi plusieurs fois, il peut lancer une fois chaque copie). Chaque fois qu’un [barde](./Barde.md) ou un [ensorceleur](./Ensorceleur.md) lance un sort, il est déduit de son quota quotidien, mais il peut le lancer à plusieurs reprises s’il le souhaite tant qu’il n’a pas atteint sa limite.
+
+{s:Reference|CONCENTRATION}
+### La concentration
+{s:Reference|TESTCONCENTRATION}
+#### Test de Concentration
+Le personnage doit se concentrer pour lancer un sort. S’il est interrompu en cours d’incantation, il doit réussir un test de Concentration sous peine de perdre son sort. Quand le personnage fait un test de Concentration, il lance 1d20 et ajoute son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) et le modificateur de caractéristique qu’il utilise pour déterminer les sorts bonus du même type que celui qu’il lance :
+- Les [druides](./Druide.md), les [prêtres](./Prêtre.md) et les [rôdeurs](./Rôdeur.md) ajoutent leur modificateur de [Sagesse](./Sagesse.md) ;
+- les [bardes](./Barde.md), les [ensorceleurs](./Ensorceleur.md) et les [paladins](./Paladin.md) ajoutent leur modificateur de [Charisme](./Charisme.md) 
+- et enfin les [magiciens](./Magicien.md) ajoutent leur modificateur d’[Intelligence](./Intelligence.md). 
+
+Plus l’interruption a des chances de distraire le personnage et plus le niveau du sort que le lanceur de sort tente de lancer est élevé, plus le [DD](./DD.md) est élevé (voir la Table "[DD des tests de concentration](./Lancer des sorts.md#TABLEDDTESTSCONCENTRATION)"). Si le personnage rate son test, il perd son sort, comme s’il l’avait lancé sans résultat.
+
+{s:Reference|BLESSURE}
+#### Blessure
+À chaque fois que le personnage subit des dégâts en cours d’incantation, il doit faire un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION). Le [DD](./DD.md) est alors égal à 10 + le nombre de points de dégâts encaissés + le niveau du sort que le personnage tente de jeter. En cas d’échec, le sort est perdu et n’a aucun effet. L’interruption intervient pendant l’incantation si elle a lieu entre le moment où le personnage commence à lancer son sort et celui où il le lance vraiment (dans le cas d’une incantation qui dure 1 round entier ou plus) ou si elle vient en réponse à son intention de jeter un sort ([attaque d’opportunité](./attaque dopportunité.md) ou attaque [préparée](./préparée.md)).
+
+Si le personnage subit des dégâts continus, comme ceux causés par une flèche acide ou parce qu’il se tient dans de la lave, on considère que la moitié des dégâts sont reçus pendant l’incantation. Le personnage doit donc réussir un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) [DD](./DD.md) 10 + la moitié des derniers dégâts infligés par la source continue + le niveau du sort. Si les derniers dégâts reçus étaient les derniers infligés par l’effet, ils ne sont plus pris en compte car ils ne risquent plus de distraire le personnage.
+
+{s:Reference|ENCHEVETREMENT}
+#### Enchevêtrement
+Enfin, si le personnage souhaite lancer un sort alors qu’il est pris dans un filet, englué par une [sacoche immobilisante](./Sacoche immobilisante (objet).md) ou suite à un sort aux effets similaires, il doit réussir un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) ([DD](./DD.md) 15 + niveau du sort) pour pouvoir lancer un sort, ce dernier étant perdu en cas d’échec.
+
+{s:Reference|INCANTATIONSURLADEFENSIVE}
+#### Incantation sur la défensive
+Lorsqu’un personnage souhaite lancer un sort sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md) de la part de l’adversaire, il doit réussir un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) ([DD](./DD.md) 15 + deux fois le niveau du sort). Le sort est perdu en cas d’échec.
+
+{s:Reference|INTEMPERIES}
+#### Intempéries
+Un personnage doit faire un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) quand il veut lancer un sort par mauvais temps. Sous une pluie battante ou sous des chutes de neige fondue, le [DD](./DD.md) est égal à 5 + niveau du sort. En cas de grêle, de tempête de sable ou de débris, le [DD](./DD.md) est égal à 10 + niveau du sort. Dans tous les cas, si le personnage rate son test, le sort est perdu. Si le mauvais temps a été obtenu par magie, utilisez les règles données dans la description de ce sort.
+
+{s:Reference|LUTTEETIMMOBILISATION}
+#### Lutte et immobilisation
+Il est difficile de lancer un sort lorsqu'on est [agrippé](./Agrippé.md) ou [immobilisé](./Immobilisé.md) en situation de [lutte](./lutte.md) : cela nécessite un test de concentration contre un DD égal à 10 + le [BMO](./BMO.md) de la personne qui agrippe + le niveau du sort qu'on tente de lancer. Les créatures qui sont [immobilisées](./Immobilisé.md) en [lutte](./lutte.md) peuvent seulement lancer des sorts qui ne nécessitent pas de une [composante gestuelle](./composante gestuelle.md).
+
+{s:Reference|MOUVEMENTSVIOLENTS}
+#### Mouvements violents
+Si le personnage monte à cheval, s’il voyage à bord d’un chariot roulant sur un chemin cahoteux, s’il est secoué dans une barque par gros temps, ballotté dans la cale d’un bateau sur une mer démontée ou dans toute situation où il est ainsi malmené, il doit réussir un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) à chaque fois qu’il essaye de faire appel à sa magie ([DD](./DD.md) 10 + niveau du sort qu’il essaie de jeter) pour ne pas perdre son sort.
+
+{s:Reference|MOUVEMENTSTRESVIOLENTS}
+#### Mouvements très violents
+Quand un personnage se trouve sur un cheval lancé au galop, à bord d’un chariot roulant à tombeau ouvert, dans une barque prise dans des rapides, sur le pont d’un navire en pleine tempête, ou dans toute situation équivalente, il doit faire un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) ([DD](./DD.md) 15 + niveau du sort) pour ne pas perdre son sort. Si le mouvement est extrêmement violent, comme lors d’un tremblement de terre, le [DD](./DD.md) est égal à 20 + niveau du sort lancé.
+
+{s:Reference|SORT}
+#### Sort
+Si le personnage est la cible d’un sort alors que lui-même tente d’en lancer un, il doit réussir un [test de Concentration](./Lancer des sorts.md#TESTCONCENTRATION) afin de terminer son incantation. Si le sort qui l’agresse lui inflige des dégâts, le [DD](./DD.md) passe à 10 + points de dégâts subis + niveau du sort qu’il tente de jeter. Si le sort adverse sert juste à le distraire, le [DD](./DD.md) est égal au [DD](./DD.md) du jet de sauvegarde du sort de l’agresseur + le niveau du sort que le personnage essaie de lancer. Pour les sorts n’autorisant pas de jet de sauvegarde, on prend en compte le [DD](./DD.md) que son jet de sauvegarde devrait avoir s’il en permettait un (10 + niveau du sort + valeur de caractéristique du lanceur de sorts).
+
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|TABLEDDTESTSCONCENTRATION}DD des tests de concentration
+|- CLASS="titre"
+| Situation || DD du test de concentration
+|- CLASS="premier"
+| [Incantation sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE) || 15 + niveau du sort x2
+|-
+| [Blessé pendant l’incantation](./Lancer des sorts.md#BLESSURE) || 10 + dégâts reçus + niveau du sort
+|-
+| [Dégâts continus pendant l’incantation](./Lancer des sorts.md#BLESSURE) || 10 + 1/2 dégâts reçus + niveau du sort
+|-
+| [Affecté par un sort qui ne blesse pas pendant l’incantation](./Lancer des sorts.md#SORT) || DD du sort + niveau du sort
+|-
+| [Agrippé ou immobilisé pendant l’incantation](./Lancer des sorts.md#LUTTEETIMMOBILISATION) || 10 + BMO de l’adversaire + niveau du sort
+|-
+| [Mouvement violent pendant l’incantation](./Lancer des sorts.md#MOUVEMENTVIOLENT) || 10 + niveau du sort
+|-
+| [Mouvement très violent pendant l’incantation](./Lancer des sorts.md#MOUVEMENTTRESVIOLENT) || 15 + niveau du sort
+|-
+| [Mouvement extrêmement violent pendant l’incantation](./Lancer des sorts.md#MOUVEMENTTRESVIOLENT) || 20 + niveau du sort
+|-
+| [Vent et pluie ou neige fondue pendant l’incantation](./Lancer des sorts.md#INTEMPERIES) || 5 + niveau du sort
+|-
+| [Vent et grêle ou débris pendant l’incantation](./Lancer des sorts.md#INTEMPERIES) || 10 + niveau du sort
+|-
+| [Intempérie causée par un sort](./Lancer des sorts.md#INTEMPERIES) || voir le sort
+|-
+| [Enchevêtré pendant l’incantation](./Lancer des sorts.md#ENCHEVETREMENT) || 15 + niveau du sort
+|}
+
+{s:Reference|CONTRESORT}
+### Les contresorts
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#7) Dissipation : Si j’utilise un sort « diamétralement opposé » pour contrer ou dissiper un autre sort (*bénédiction* contre *imprécation*, *rapidité* contre *lenteur*, etc), est-ce que mon sort a un effet autre que la dissipation ?***
+
+Cela dépend si le sort est utilisé comme un <u>[contresort](./Lancer des sorts.md#CONTRESORT)</u> ou comme une <u>[dissipation](./Lancer des sorts.md#COMBINAISON)</u>.
+
+S’il est utilisé comme un contresort, le sort n’a pas d’autre effet que de contrer le sort ciblé. S’il est utilisé comme une dissipation, il peut rester des « résidus » du sort ciblé ou de celui du personnage, selon qu’il affecte plus ou moins de cibles que le sort de son adversaire.
+
+Exemple de contresort : Le personnage est un magicien de niveau 5, son adversaire est un ensorceleur de niveau 6. À son tour, le personnage prépare une action de contresort. L’ensorceleur commence à incanter *[lenteur](./Lenteur.md)*. Le personnage réussit son test d’Art de la magie pour identifier le sort et lance *[rapidité](./Rapidité.md)* comme contresort contre lui. La *rapidité* contre la *lenteur*, et aucun des deux sorts n’a d’effet.
+
+Exemple de dissipation : Le personnage est un magicien de niveau 5, son adversaire est un ensorceleur de niveau 6. À son tour, l’ensorceleur lance *[lenteur](./Lenteur.md)* et cible 6 alliés du personnage ; les 6 ratent leur jet de sauvegarde et sont ralentis. À son tour, le personnage lance *[rapidité](./Rapidité.md)* et cible 5 de ses alliés ; cela dissipe automatiquement (sans test de niveau de lanceur de sorts requis) le sort de *lenteur* sur ces alliés, les laissant sans effet de *lenteur* ou de *rapidité* (le 6ème allié est toujours affecté par la *lenteur*). Notez que cela ne supprime pas seulement l’effet de *lenteur* pendant la durée de la *rapidité* du personnage – l’effet est complètement dissipé sur ces 5 alliés. Notez qu’il importe peu que la cible ait normalement un [jet de sauvegarde](./JDS.md) ou une [résistance à la magie](./RM.md) pour annuler ou éviter le sort utilisé lors de la dissipation (comme quand *lenteur* est lancé pour dissiper une *rapidité* déjà active) ; pour accélérer le jeu et empêcher des applications déséquilibrées de cette méthode de dissipation, le sort « diamétralement opposé » dissipe automatiquement son contraire, que la créature affectée par ce contraire le veuille ou non.}Un personnage peut utiliser n’importe quel sort comme contresort. Dans ce cas, le personnage utilise son énergie magique pour empêcher quelqu’un d’autre de se servir du même sort. Cette technique fonctionne même si un sort appartient à la magie profane et l’autre à la magie divine.
+
+#### Comment marchent les contresorts ?
+Pour utiliser un contresort, le personnage doit choisir sa cible en [préparant son action](./action préparée.md). Il attend donc que son adversaire commence à lancer un sort (il peut tout de même se déplacer, le fait de préparer un contresort étant une [action simple](./Action simple.md)).
+
+Si la cible choisie tente de faire appel à sa magie, le personnage doit faire un test d’[Art de la magie](./Art de la magie.md) ([DD](./DD.md) 15 + niveau du sort adverse). Il s’agit là d’une [action libre](./Action libre.md). En cas de succès, il identifie le sort adverse ce qui lui permet d’essayer de le contrer. En cas d’échec, il en est incapable.
+
+Il ne lui reste plus qu’à jeter un sort approprié. En règle générale, un personnage ne peut utiliser un sort que pour contrer le même sort lancé par un adversaire. Si le personnage est capable de lancer ce sort (ou s’il l’a préparé en début de journée et peut encore le lancer), il modifie légèrement son incantation pour en faire un contresort. À partir du moment où la cible est à portée, les deux sorts s’annulent l’un l’autre, sans dommages.
+
+#### Contresorts et métamagie
+Les [dons de métamagie](./Dons.md#DONMETAMAGIE) ne sont pas pris en compte lorsqu’il s’agit de déterminer si un sort peut être contré ou non.
+
+#### Exceptions
+Certains sorts sont capables de contrer d’autres sorts spécifiques, souvent s’ils ont des effets diamétralement opposés.
+
+#### Dissipation de la magie en tant que contresort
+*[Dissipation de la magie](./Dissipation de la magie.md)* peut également servir de contresort, sans qu’il soit nécessaire d’identifier l’incantation récitée par le lanceur de sorts adverse. Cependant, *[Dissipation de la magie](./Dissipation de la magie.md)* ne fonctionne pas toujours comme contresort (voir la description du sort).
+
+{s:reference|NLS}
+### Le niveau de lanceur de sorts (NLS)
+La puissance d’un sort dépend souvent du niveau de lanceur de sorts de celui qui le lance. Elle est généralement égale à son niveau de classe dans la classe utilisée pour lancer le sort.
+
+
+{| CLASS="tablo"
+|+ NLS
+|- CLASS="titre"
+| Niveau   
+du sort || Niveau du [druide](./Druide.md),   
+[magicien](./Magicien.md), [prêtre](./Prêtre.md) || Niveau de l'[ensorceleur](./Ensorceleur.md) || Niveau du [barde](./Barde.md) || Niveau du [paladin](./Paladin.md)*,   
+[rôdeur](./Rôdeur.md)*
+|- CLASS="premier"
+| 0 || 1 || 1 || 1 || 4**
+|- CLASS="alt"
+| 1er || 1 || 1 || 1 || 5
+|-
+| 2e || 3 || 4 || 4 || 8
+|- CLASS="alt"
+| 3e || 5 || 6 || 7 || 11
+|-
+| 4e || 7 || 8 || 10 || 14
+|- CLASS="alt"
+| 5e || 9 || 10 || 13 || —
+|-
+| 6e || 11 || 12 || 16 || —
+|- CLASS="alt"
+| 7e || 13 || 14 || — || —
+|-
+| 8e || 15 || 16 || — || —
+|- CLASS="alt"
+| 9e || 17 || 18 || — || —
+|- CLASS="note"
+| COLSPAN="5" | *(*) Le [niveau du lanceur de sorts](./NLS.md) est égal au niveau de la classe de personnage -3.  
+(**) Aucun sort sauf sorts bonus octroyés par un Charisme (Paladin) ou une Sagesse (Rodeur) élevée.*
+|}
+
+Exemple : pour lancer des sorts de niveau 2, un prêtre doit être de niveau 3.
+Donc, pour lancer un sort de niveau 2, le NLS minimum est de 3.
+
+Comme le montre le tableau, le NLS peut varier selon les classes (par exemple un paladin débloque ses sorts de niveau 2 bien plus tard que le prêtre).
+
+
+Un personnage peut lancer un sort à un niveau de lanceur de sorts inférieur au sien à condition de modifier tous ses paramètres en même temps (et en conservant le niveau de lanceur de sorts minimal permettant de faire appel à ce sort).
+
+Quand une aptitude de classe, un pouvoir de domaine ou quelque autre pouvoir spécial modifie le niveau de lanceur de sorts, l’ajustement s’applique aux différents paramètres du sort (comme la portée, la durée et les dégâts infligés) mais aussi au test de niveau de lanceur de sorts destiné à vaincre la résistance à la magie de la victime et au niveau de lanceur de sorts utilisé dans le cadre des tests de dissipation (ce qui concerne le test de dissipation et le [DD](./DD.md) de ce test).
+
+### L’échec des sorts
+Lorsqu’on tente de lancer un sort dans des conditions où l’une de ses caractéristiques ne peut se conformer aux conditions en vigueur, il échoue automatiquement et le sort est perdu.
+
+Les sorts peuvent également échouer si le personnage se déconcentre ou quand s’il porte une armure alors qu’il tente de faire une incantation à composante gestuelle.
+
+### L’effet du sort
+Une fois que l’on sait quelles créatures (ou objets ou zones) sont affectées et si elles ont ou non réussi leur jet de sauvegarde, il reste à appliquer les effets du sort.
+
+### Les effets spéciaux
+Nombre d’effets spéciaux de sort sont gérés en fonction de l’école de magie à laquelle ils se rattachent. Certaines caractéristiques particulières ne dépendent pas de l’école de magie.
+
+#### Attaques
+Certaines descriptions de sorts font référence à une attaque. Toutes les actions de combat offensives, même celles qui n’infligent aucun point de dégâts sont considérées comme des attaques. La [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) est assimilée à une attaque si elle est destinée à blesser des créatures. Les sorts qui permettent un jet de sauvegarde, qui infligent des dégâts, blessent ou entravent leur cible sont aussi considérés comme des attaques. Les sorts de convocation de monstres ou d’alliés ne sont pas considérés comme des sorts d’attaque, car ils ne blessent personne.
+
+{s:Reference|TYPEDEBONUS}
+#### Types de bonus
+Les bonus sont répartis en diverses catégories selon leur nature. Cette précision est extrêmement importante, car, dans la grande majorité des cas, deux bonus de même type ne se cumulent pas. À l’exception des bonus d’esquive, de la plupart des bonus de circonstances et des bonus raciaux, on applique uniquement le meilleur bonus d’un type donné (voir « [Combinaison d’effets magiques](./Lancer des sorts.md#COMBINAISON) », ci-après). La même règle s’applique aussi aux malus : un personnage subissant deux malus de même type ne tient compte que du plus important, bien que la plupart des malus n’aient pas de type et se cumulent ainsi toujours. Des bonus ne possédant pas de type se cumulent, tant qu’ils ne sont pas causés par la même source.
+
+{s:Reference|RAMENERMORTSALAVIE}
+#### Ramener les morts à la vie
+Plusieurs sorts permettent de ramener les morts à la vie. Lorsqu’une créature vivante meurt, son âme abandonne son corps, quitte le [plan Matériel](./Plans.md) et traverse le [plan Astral](./Plans.md) pour se rendre dans le domaine de son dieu. Si la créature ne vénérait aucune divinité, son âme se rend automatiquement dans le plan correspondant à son alignement. Pour ramener quelqu’un à la vie, il faut donc ranimer son corps, mais aussi aller rechercher son âme et la ramener. Voir aussi la section sur les [plans](./Plans.md).
+
+**Perte de niveau.** Toute créature ramenée à la vie gagne généralement un ou plusieurs niveaux négatifs (voir le chapitre "[Absorption d'énergie et niveaux négatifs](./Capacités spéciales.md#NIVEAUNEG)"). Ces niveaux infligent un malus à la plupart des jets du personnage jusqu’à ce qu’on l’en débarrasse à l’aide d’un sort comme *[restauration](./Restauration.md)*. Si le personnage était de niveau 1 au moment de sa mort, il perd 2 points de [Constitution](./Constitution.md) au lieu de gagner un niveau négatif.
+
+**Empêcher le retour à la vie.** Les ennemis des personnages peuvent s’arranger pour compliquer leur retour à la vie. Le simple fait de conserver la dépouille empêche les compagnons du défunt de le récupérer à l’aide de *[rappel à la vie](./Rappel à la vie.md)* ou de *[résurrection](./Résurrection.md)*. De même, *[capture d’âme](./Capture dâme.md)* interdit tout retour à la vie tant que l’âme n’a pas été libérée.
+
+**Faire revivre quelqu’un qui ne le souhaite pas.** Nulle âme ne peut être ramenée à la vie si elle ne le souhaite pas. Elle connaît automatiquement le nom, l’alignement et le dieu (le cas échéant) de celui qui la rappelle et peut refuser de revenir.
+
+{s:Reference|COMBINAISON}
+### Combinaison d’effets magiques
+Les sorts et effets magiques fonctionnent généralement comme indiqué dans leur description, et ce même si d’autres effets agissent simultanément dans la même zone ou sur le même individu. Un sort n’est jamais affecté par un autre, sauf dans des cas très particuliers. Quand un sort affecte les autres de quelle que façon que ce soit, la description le précise toujours. Il faut tout de même tenir compte de plusieurs règles quand divers sorts ou effets magiques fonctionnent au même endroit.
+
+#### Cumul
+À quelques rares exceptions près, les sorts qui confèrent des bonus ou des malus aux [jets d’attaque](./jet dattaque.md), [de dégâts](./jet de dégâts.md), [de sauvegarde](./jet de sauvegarde.md), etc. ne sont pas cumulables avec eux-mêmes. En règle générale, deux bonus du même type ne se cumulent jamais, même s’ils proviennent de sorts ou d’effets qui ne découlent pas d’un sort (voir « [Types de bonus](./Lancer des sorts.md#TYPEDEBONUS) », ci-dessus).
+
+**Bonus de types différents.** Par contre, les effets de plusieurs sorts s’additionnent si les bonus conférés sont différents. Les bonus qui ne sont pas nommés s’additionnent entre eux et avec n’importe quel autre bonus nommé.
+
+**Même effet, puissance différente.** Dans le cas où deux sorts ou effets similaires fonctionnent dans la même zone ou sur la même cible, mais à des intensités différentes, le plus puissant s’impose.
+
+**Même effet, résultats différents.** Le même sort peut avoir des effets différents lorsqu’on le jette à plusieurs reprises. Dans ce cas, le dernier sort lancé prend le pas sur les autres. Ceux-ci ne sont pas dissipés ni supprimés, mais leur effet n’a plus d’impact tant que celui qui les a supplantés fait effet.
+
+**Un effet fait disparaître les autres.** Il arrive qu’un sort annule l’effet d’un autre sort jeté avant sans pour autant le dissiper. Les deux sorts sont actifs, mais l’un rend l’autre caduc.
+
+**Effets multiples de contrôle mental.** Il arrive qu'un sort de contrôle mental en rende un autre inutile, comme un sort qui empêche la cible d’agir. Si le contrôle mental ne prive pas la cible de sa capacité d’action, il n’interfère habituellement pas avec les autres. Quand une créature se retrouve sous le contrôle de deux lanceurs de sorts, elle fait de son mieux pour obéir aux deux, à condition que les instructions qu’elle reçoit de part et d’autre le lui permettent. Si elle reçoit simultanément des ordres contradictoires, les lanceurs de sorts en compétition doivent faire un test de [Charisme](./Charisme.md) opposé pour déterminer à qui la cible obéit.
+
+#### Sorts à effets opposés
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#7) Dissipation : Si j’utilise un sort « diamétralement opposé » pour contrer ou dissiper un autre sort (*bénédiction* contre *imprécation*, *rapidité* contre *lenteur*, etc), est-ce que mon sort a un effet autre que la dissipation ?***
+
+Cela dépend si le sort est utilisé comme un <u>[contresort](./Lancer des sorts.md#CONTRESORT)</u> ou comme une <u>[dissipation](./Lancer des sorts.md#COMBINAISON)</u>.
+
+S’il est utilisé comme un contresort, le sort n’a pas d’autre effet que de contrer le sort ciblé. S’il est utilisé comme une dissipation, il peut rester des « résidus » du sort ciblé ou de celui du personnage, selon qu’il affecte plus ou moins de cibles que le sort de son adversaire.
+
+Exemple de contresort : Le personnage est un magicien de niveau 5, son adversaire est un ensorceleur de niveau 6. À son tour, le personnage prépare une action de contresort. L’ensorceleur commence à incanter *[lenteur](./Lenteur.md)*. Le personnage réussit son test d’Art de la magie pour identifier le sort et lance *[rapidité](./Rapidité.md)* comme contresort contre lui. La *rapidité* contre la *lenteur*, et aucun des deux sorts n’a d’effet.
+
+Exemple de dissipation : Le personnage est un magicien de niveau 5, son adversaire est un ensorceleur de niveau 6. À son tour, l’ensorceleur lance *[lenteur](./Lenteur.md)* et cible 6 alliés du personnage ; les 6 ratent leur jet de sauvegarde et sont ralentis. À son tour, le personnage lance *[rapidité](./Rapidité.md)* et cible 5 de ses alliés ; cela dissipe automatiquement (sans test de niveau de lanceur de sorts requis) le sort de *lenteur* sur ces alliés, les laissant sans effet de *lenteur* ou de *rapidité* (le 6ème allié est toujours affecté par la *lenteur*). Notez que cela ne supprime pas seulement l’effet de *lenteur* pendant la durée de la *rapidité* du personnage – l’effet est complètement dissipé sur ces 5 alliés. Notez qu’il importe peu que la cible ait normalement un [jet de sauvegarde](./JDS.md) ou une [résistance à la magie](./RM.md) pour annuler ou éviter le sort utilisé lors de la dissipation (comme quand *lenteur* est lancé pour dissiper une *rapidité* déjà active) ; pour accélérer le jeu et empêcher des applications déséquilibrées de cette méthode de dissipation, le sort « diamétralement opposé » dissipe automatiquement son contraire, que la créature affectée par ce contraire le veuille ou non.}Les sorts ayant des effets opposés fonctionnent normalement et totalement, leurs bonus, malus et autres s’appliquent dans l’ordre où les sorts prennent effet. Certains sorts s’annulent ou se contrent réciproquement. Dans ce cas, la description de chacun le précise.
+
+#### Effets instantanés
+Les sorts à effet instantané s’ajoutent lorsqu’ils visent simultanément une même cible.

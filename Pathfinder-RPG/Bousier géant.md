@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Bousier géant
+Title: Bousier, Bousier géant
+LastModified: 2023-12-20 17:33
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Bousier géant|FP 6}
+{s:pucem|Vermine|Désert|Tropical}
+{s:BDTexte|*Source : Bestiaire 5 p.49*}
+{s:BDTexte|**PX** 2 400}
+{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +4}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)}
+{s:BDTexte|**pv** 67 (9d8+27)}
+{s:BDTexte|**Réf** +4, **Vig** +9, **Vol** +3 ; +4 contre maladie et paralysie}
+{s:BDTexte|**Immunités** effets mentaux}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m, escalade 6 m, [vol](./Vol (capacité).md) 6 m (moyenne)}
+{s:BDTexte|**Corps à corps** morsure, +13 (2d4+12 plus maladie et double morsure)}
+{s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,5 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 27, **Dex** 12, **Con** 16, **Int** —, **Sag** 10, **Cha** 1}
+{s:BDTexte|**BBA** +6 ; **BMO** +15 ; **DMD** 26 (34 contre le crocs-en-jambe)}
+{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +16, [Perception](./Perception.md) +4, [Vol](./Vol.md) -1 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** déserts chauds}
+{s:BDTexte|**Organisation** solitaire ou nuée (3-9)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Double morsure (Ext).** Les bousiers infligent 1d4+6 points de dégâts supplémentaires et 1 point d’affaiblissement temporaire de [Force](./Force.md) pour chaque morsure réussie. Ces dégâts sont doublés contre les créatures qui ne sont pas protégées par une armure ou une armure naturelle. Les créatures qui portent des armures lourdes ou qui ont un bonus d’armure naturelle supérieur ou égal à +10 sont immunisées contre ces dégâts supplémentaires, tout comme les créatures qui ne sont pas faites de chair ou qui sont immunisées contre les coups critiques.}
+{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[jet de sauvegarde](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 17 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [Dex](./Dextérité.md) et de 1d3 [Con](./Constitution.md) ; *guérison* 2 jets de sauvegarde consécutifs.}
+</div></td>
+<td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de bousier
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Bousier géant](./Bousier géant.md) || 6
+|-
+| [Nuée de bousiers](./Nuée de bousiers.md) || 3
+|}
+</div>*Ce scarabée brillant est aussi gros qu’une vache. Sa solide carapace d’un noir bleuté est pleine de poussière et de crottin.*
+
+Les bousiers sont de petits insectes dotés de six pattes. Sur leurs pattes avant se trouvent des mandibules effilées dont ils se servent pour creuser. Il s’agit d’insectes principalement coprophages qui se nourrissent de crottin. Un bousier peut passer des jours à pousser une unique boule de crottin dans le désert, jusqu’à ce qu’il trouve l’endroit idéal pour l’enterrer et y déposer ses œufs. Du fait de leur comportement consistant à creuser le sol pour y déposer la vie, les bousiers sont associés avec les rites d’inhumation. On raconte que leur connexion avec les morts donne aux bousiers des pouvoirs plus importants que ceux des scarabées normaux, mais il n’existe encore aucune preuve qui vienne étayer cette hypothèse.
+</div></td></tr></table>

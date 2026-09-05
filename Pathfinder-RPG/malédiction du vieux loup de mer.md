@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.malédiction du vieux loup de mer
+Title: Malédiction du vieux loup de mer
+LastModified: 2024-10-02 16:00
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 5
+- Sort hypnotiseur 4
+- Sort sorcière 5
+- Src Manuel des races
+---
+
+{s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}
+**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki>; **Niveau** [Dru](./Druide.md) 5, [Hyp](./Hypnotiseur.md) 4, [Sor](./Sorcière.md) 5  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, F](./composantes.md) (une fiole d'eau de mer)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** une créature  
+
+**Durée** permanente  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+La cible se sent constamment comme sur une mer agitée, ce qui la rend fiévreuse en permanence. À chaque fois qu’elle se trouve sur l’eau ou dans l’eau à plus de 1,5 kilomètre du rivage, le mal de mer la rend chancelante. Il est impossible de dissiper cette malédiction, mais on peut l’annuler avec une *[délivrance des malédictions](./Délivrance des malédictions.md)* ou une *[annulation d’enchantement](./Annulation denchantement.md)*.

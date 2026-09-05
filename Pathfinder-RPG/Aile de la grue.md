@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Aile de la grue
+Title: Aile de la grue
+LastModified: 2023-10-24 14:18
+Categories:
+- Don
+- Don combat
+- Règle officielle
+- Src Art de la guerre
+---
+
+{s:uc}*Le personnage se déplace avec la vivacité et la finesse d’un chasseur aviaire. Ses larges parades et ses mouvements gracieux lui permettent de dévier sans mal les attaques de mêlée.*
+
+
+**Catégorie. **[Pathfinder-RPG.dons|combat]
+
+**Conditions. **[Pathfinder-RPG.École de la grue|École de la grue], [Pathfinder-RPG.Esquive|Esquive], [Pathfinder-RPG.Science du combat à mains nues|Science du combat à mains nues], [Pathfinder-RPG.BBA|BBA] +5 ou [Pathfinder-RPG.moine|moine] de niveau 5
+
+**Avantage.** Lorsqu'il [combat sur la défensive](./Actions simples.md#COMBATSURLADEFENSIVE) avec au moins une main libre, le personnage gagne un bonus d'esquive de +4 à la CA contre les attaques au corps à corps. Si une attaque le rate de 4 ou moins, il perd ce bonus d'esquive jusqu'au début de son prochain tour.
+S'il utilise l'action de [défense totale](./défense totale.md), il peut dévier une unique attaque au corps à corps qui aurait dû le toucher. Une attaque déviée de cette façon n'inflige pas de dégâts et n'a pas d'autres effet (considérez que l'attaque est ratée). Le personnage ne dépense pas d'action en utilisant ce don, mais doit être conscient de l'attaque et ne pas être [pris au dépourvu](./Pris au dépourvu.md).
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Quand le personnage se [bat sur la défensive](./combat sur la défensive.md) et dispose d’au moins une main libre, il peut dépenser 5 points d’endurance pour affecter un second adversaire avec l’aile de la grue. Il gagne également un bonus d’esquive de +2 à la [CA](./CA.md) contre ses attaques.

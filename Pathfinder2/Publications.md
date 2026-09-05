@@ -1,0 +1,93 @@
+---
+Name: Pathfinder2.Publications
+Title: Publications pour Pathfinder 2 (livres de base)
+LastModified: 2024-08-13 15:45
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Publications relatives à Pathfinder 2</p>
+<a href="/Wiki/Pathfinder2.MainPage.ashx" title="Retour à la page principale pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles de base](./../Golarion/Publications.md)
+[Suppléments](./PublicationsRA.md)
+[Lost Omens (monde)](./PublicationsLO.md)
+</div>
+</div>
+
+<nav class="wiki-toc"></nav>
+
+### Livres du Remaster
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO12001_180.png|Player Core / Livre du joueur}
+Le premier livre du joueur couvre toutes les règles dont un joueur a besoin pour apprendre à jouer. Huit ascendances, huit classes de personnages et des centaines de dons et de sorts pour créer des personnages uniques prêts à affronter de périlleuses aventures dans un monde influencé par la magie et le mal !
+- Ascendances : Humain, nain, elfe, gnome, gobelin, halfelin, léchi et orque
+- Classes : Barde, prêtre, druide, guerrier, rôdeur, roublard, sorcier et magicien
+- Une présentation générale du monde des Présages perdus
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO12002_180.png|GM Core / Livre du MJ}
+Laissez libre cours à votre imagination, créez des mondes et des aventures exceptionnels avec le nouveau Livre du MJ pour Pathfinder 2e édition ! Ce livre de 336 pages propose aux MJ tout ce dont ils ont besoin pour créer des récits passionnants, qu'il s'agisse d'une exploration de donjon pour une soirée ou d'une aventure épique sur plusieurs années. Ces pages contiennent des conseils précis pour créer de nouveaux dangers et monstres, des outils pour construire des rencontres équilibrées et des règles pour récompenser les personnages qui ont surmonté les défis que vous avez placés devant eux ! Le Livre du MJ contient également une horde d'objets magiques et de trésors pour aguicher et récompenser vos joueurs, de la simple potion de guérison aux armes et armures magiques ou artefacts, y compris des dizaines de tout nouveaux objets !
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO12003-HC_180.png|Monster Core / Livre des monstres}
+Ce sont les ennemis qu'ils affrontent qui définissent les héros, qu'il s'agisse de squelettes branlants ou de dragons terrifiants, chaque ennemi laisse sa marque dans leur légende sans cesse grandissante. Rendez cette légende encore plus mémorable avec des ennemis issus du Livre des monstres pour Pathfinder 2e édition ! Ce livre de 376 pages est rempli d'un large éventail de monstres utiles pour toutes les campagnes de Pathfinder, et propose aux MJ de nombreuses menaces à placer sur le chemin de leurs aventuriers, quel que soit leur niveau d'expérience. Ce tome aux illustrations magnifiques inclut également des conseils pour lire les descriptions des monstres et les ajuster pour les faire coller à vos histoires !
+- Plus de 400 monstres individuels, allant d'animaux courants comme les loups et les ours à des ennemis surnaturels terrifiants comme les géants des runes ou le faucheur !
+- Huit tout nouveaux dragons pour opposer vos joueurs
+- Des archétypes simples pour personnaliser vos monstres et les rendre plus ou moins puissants avec de simples ajustements
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO12004-HC_180.png|Player Core 2/ Livre du joueur 2}
+Survivre dans un monde influencé par la magie et le mal nécessite plus qu'un peu de chance aux dés ! Le livre du joueur 2 étend les options proposées aux joueurs de Pathfinder.
+- Ascendances : homme-félin, gnoll/kholo, hobgobelin, kobold, homme-lézard, homme-rat, tengu, ainsi que des héritages polyvalents comme le dhampir, le crépusculaire et un nouvel héritage draconique
+- Classes : alchimiste, barbare, champion, investigateur, moine, oracle, ensorceleur et bretteur
+- Plus de 40 archétypes pour personnaliser l'histoire et les capacités de vos personnages
+
+{s:ClearRight}
+
+### Livres pré-Remaster
+
+**Avertissement : Ces livres s'ils restent largement compatibles avec la gamme de PF2 remaster ne sont plus à jour. Certaines de leurs options nécessiteront un peu de travail d'adaptation.**
+
+#### Livres de base
+{s:LivrePF2|http://paizo.com/image/product/catalog/PZO/PZO2101_180.jpeg|Core Rulebook / Livre de base}
+Ce guide complet de 640 pages fournit tout ce dont vous avez besoin pour vous lancer dans un monde d'aventure fantastique sans limites! Choisissez parmi des ascendances comme les elfes, les humains et les gobelins et des classes comme l'alchimiste, le combattant et l'ensorceleur pour créer un héros de votre propre conception, destiné à devenir une légende! Les nouvelles règles sont plus faciles à apprendre et plus rapides à jouer, et elles offrent une personnalisation plus approfondie que jamais!
+
+Ce volume indispensable contient les règles de base pour les joueurs et les Maîtres du Jeu, et est votre première étape dans un nouveau voyage héroïque!
+
+Date de sortie US : 01/08/2019 — Date de sortie FR : 20/12/2019
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2103_180.jpeg|Gamemastery Guide / Guide du maître}
+Que vous soyez un maître du jeu novice ou expérimenté, vous pouvez toujours trouver de nouvelles façons d'affiner votre maîtrise du jeu. Ce livre de règles de 256 pages contient une multitude de nouvelles informations, outils et règles à ajouter à votre jeu. À l'intérieur de ce livre, vous trouverez des conseils pratiques pour construire vos propres aventures, concevoir des villes et créer des personnages. Vous trouverez un système de règles pour des courses poursuites dramatiques, organiser des tournois et des duels mortels. Ce livre comprend également plus de 40 pages d'exemples de personnages non joueurs, du simple garde de la ville au cultiste maléfique.
+
+Date de sortie US : 26/02/2020 — Date de sortie FR : 14/12/2020
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2105_180.jpeg|Advanced Player's Guide}
+Repoussez les limites de ce qui est possible avec le Guide du joueur avancé de Pathfinder! Ce livret de règles  de 272 pages contient de nouvelles options de règles passionnantes pour les joueurs, ajoutant encore plus de choix! À l'intérieur, vous trouverez de nouvelles ascendances, et quatre nouvelles classes: l'investigateur, l'oracle, le bretteur et la sorcière ! Le guide du joueur avancé comprend également de nouvelles options pour toutes les classes du livre de base et plein de nouveaux historiques, dons généraux, sorts, objets et 40 archétypes pour personnaliser votre expérience de jeu!.
+
+Date de sortie US : 30/07/2020 — Date de sortie FR : Octobre 2021
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2106_180.png|Pathfinder Beginner Box / Boîte d'initiation}
+Faites vos premiers pas dans un monde merveilleux d'aventures fantastiques ! La boîte d'initiation à Pathfinder contient tout ce dont vous avez besoin pour apprendre comment jouer au jeu de rôle Pathfinder, y compris des règles pour créer votre propre héros fantastiques et des outils pour créer vos propres histoires. Serez-vous un courageux guerrier qui chargera au combat ou un roublard sournois qui se déplacera sans bruit pour frapper ses ennemis depuis les ombres ? Ou peut-être serez-vous un magicien érudit capable de manipuler d'incroyables sorts ou un prêtre sage et pieux utilisant les pouvoirs de son dieu pour façonner le monde en quelque chose de meilleur ? Tout cela ne dépend que de vous !
+
+À l'intérieur, vous trouverez une vaste boîte à outil remplie de tout ce dont vous avez besoin pour commencer, y compris des règles pour la création de personnages, une aventure d'introduction, des conseils pour construire votre propre campagne, des feuilles de personnage, une carte en couleurs, des pions pour les personnages et de dés. Cette boîte de luxe est une introduction idéale au jeu de rôle Pathfinder qui ouvre la voir à une vie entière d'aventures !
+
+La boîte contient : un Livret du héros de 80 pages comprenant des règles pour la création de personnages, une aventure solo, des compétences, des sorts et de l'équipement ; un Manuel du maître du jeu de 96 pages comprenant une aventure d'introduction, plus de 20 pages de monstres, des règles pour bâtir votre propre aventure et des objets magiques ; quatre personnages préconstruits pour vous permettre de vous lancer immédiatement dans le jeu et quatre feuilles de personnages vierges si vous voulez bâtir vos propres héros ; plus de 100 pions pour personnages et monstres que vous pourrez utiliser sur la carte en couleurs double-face ; 4 cartes de référence pour aider les joueurs à se souvenir de leurs actions ; un set complet de dés y compris un d20, un d12, un d10, un d8, un d6 et un d4.
+
+Date de sortie US : 15/10/2020 — Date de sortie FR : Juin 2021
+
+{s:ClearRight}
+#### Bestiaires
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2102_180.jpeg|Bestiaire 1}
+Ce livre présente plus de 400 créatures à utiliser dans le jeux de rôle Pathfinder. Vous pouvez trouver des ennemis familiers comme les orcs, les dragons et les vampires mais aussi de nouvelles horreurs comme le nilith, le mukradi à 3 têtes, ainsi que des serviteurs pour les invocateurs de tout alignement.
+
+Date de sortie US : 01/08/2019 — Date de sortie FR : 01/03/2020
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2104_180.jpeg|Bestiaire 2}
+Ce livre présente plus de 350 créatures à utiliser dans le jeux de rôle Pathfinder. Des créatures classiques en revenant vers les monstres préférés comme les dragons primaux, à de nouvelles menaces qui mettront à l'épreuve les plus courageux des héros. Ce livre de monstres à été conçu pour défier les personnages de tous niveaux.
+
+Date de sortie US : 27/05/2020 — Date de sortie FR : Août 2021
+
+{s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZO/PZO2107_180.png|Bestiaire 3}
+Avec plus de 300 monstres à la fois classiques et tout nouveaux, ce livre de règles à couverture rigide de 320 pages complète la collection de créatures commencées avec les deux premiers volumes du Bestiaire. Ce recueil de monstres indispensable conçu pour défier des personnages de tous niveaux est un compagnon essentiel pour vos parties de Pathfinder, avec des créatures classiques telles que les créatures mécaniques et les fées voleuses de dents, des monstres plébiscités tels que les dragons impériaux et les puissants titans ainsi que de tout nouveaux dangers provenant de tous les coins de Golarion.
+
+Date de sortie US : 07/04/2021

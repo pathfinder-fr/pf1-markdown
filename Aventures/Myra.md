@@ -1,0 +1,34 @@
+---
+Name: Aventures.Myra
+Title: Mistle
+LastModified: 2025-10-13 11:11
+Categories:
+- PNJ
+---
+
+<div class="BD">
+{s:BDTitre|Mistle|FP 2}
+- Elfe Rôdeur
+- Humanoïde de taille M, Féminin, CM
+- **Init** +4 ; **Sens** Perception +6, vision nocturne
+(((Capacités défensives)))
+- **CA** 19, contact 11, dépourvu 15
+- **PV** 27
+- **Réf** +7, **Vig** +4, **Vol** +2
+- **Forces** Immunité elfiques
+(((Capacités offensives)))
+- **VD** 9m ( 6cases)
+- **Corps à corps ** Épée longue, 1d8 (19-20 x2)
+- **Distance** Arc elfique composite, 1d10 (1-9m : +9) (19-20 x2)
+(((Caractéristiques)))
+- **For** 15, **Dex** 16, **Con** 12, **Int** 14, **Sag** 14, **Cha** 20
+- **BBA** +2, **BMO** +4, **DMD** 18, **Res. à la magie** +2
+- **Compétences** Acrobates +6, Art de la magie +7, Connaissance (Nature) +7, Discrétion +9, Escamotage +6, Perception +6, Survie +7, Utilisation d'objet magiques +2
+- **Dons** Robuste, Tir à bout portant
+- **Capacités spéciales** 1er ennemis juré, Pistage, Empathie sauvage, Vision nocturne, Immunité elfiques, Armes familière, Don de style combat : Combat à distance
+- **Langues** Commun, elfique
+</div>
+
+<p class="space">&nbsp;</p>
+
+<img src="https://i.pinimg.com/736x/57/38/16/573816b6e0ea148a111c78a5146d7530.jpg">

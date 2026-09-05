@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.Nécromancie (école)
+Title: L'école de Nécromancie
+LastModified: 2024-09-28 17:17
+---
+
+{s:MenuÉcoles}{s:Desambi|Plus d'information sur les sorts de cette école [ici](./Présentation des sorts.md#NECROMANCIE).}*Les nécromanciens sont des magiciens terrifiants et souvent craints qui commandent aux morts-vivants et utilisent les sombres pouvoirs de la non-vie contre leurs ennemis.*
+
+**Emprise sur les morts-vivants (Sur).** Le nécromancien reçoit [Contrôle des morts-vivants](./Contrôle des morts-vivants.md) ou [Renvoi des morts-vivants](./Renvoi des morts-vivants.md) comme [don supplémentaire](./Magicien.md#DONSUPPLEMENTAIRE). Chaque jour, il peut canaliser de l’énergie un nombre de fois égal à 3 + son modificateur d’[Intelligence](./Intelligence.md), mais seulement pour utiliser le don choisi. Il peut acquérir d’autres dons permettant d’améliorer ce pouvoir (comme [Canalisation supplémentaire](./Canalisation supplémentaire.md) et [Science de la canalisation](./Science de la canalisation.md)) mais pas ceux qui le modifient (comme [Canalisation alignée](./Canalisation alignée.md) et [Canalisation élémentaire](./Canalisation élémentaire.md)). Le [DD](./DD.md) du jet de sauvegarde contre ces dons est égal à 10 + la moitié du niveau de [magicien](./Magicien.md) du nécromancien + le modificateur de [Charisme](./Charisme.md) du nécromancien. Lorsque le nécromancien atteint le niveau 20, les [morts-vivants](./type Mort-vivant.md) ne peuvent plus ajouter leur [résistance à la canalisation](./Résistance à la canalisation (capacité).md) à leur [jet de sauvegarde](./jet de sauvegarde.md) contre ce pouvoir.
+
+**Toucher du tombeau (Mag).** Par une [action simple](./Action simple.md), le nécromancien peut porter une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) visant à [secouer](./Secoué.md) une créature vivante pendant un nombre de rounds égal à la moitié de son niveau de [magicien](./Magicien.md) (1 round au minimum). S’il touche à nouveau une créature déjà [secouée](./Secoué.md) par ce pouvoir, elle devient [effrayée](./Effrayé.md) pour 1 round si elle possède un nombre de [DV](./DV.md) inférieur au niveau de [magicien](./Magicien.md) du nécromancien. Chaque jour, le nécromancien peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur d’[Intelligence](./Intelligence.md).
+
+**Perception de la vie (Sur).** Au niveau 8, le nécromancien peut acquérir le pouvoir de [vision aveugle](./vision aveugle.md) avec une portée de 3 m (2 cases) chaque jour pendant un nombre total de rounds égal à son niveau de [magicien](./Magicien.md). Ce pouvoir lui permet seulement de détecter et de distinguer les créatures vivantes et les [morts-vivants](./type Mort-vivant.md). Les [créatures artificielles](./type Créature artificielle.md) et les autres créatures qui ne sont ni vivantes ni [mortes-vivantes](./type Mort-vivant.md) ne sont pas visibles. La portée de ce pouvoir augmente de 3 m (2 cases) au niveau 12, ainsi que tous les quatre niveaux au-delà du niveau 12. Ces rounds ne doivent pas forcément être consécutifs.
+
+### Champs d'étude magiques
+
+{s:APG}Les [magiciens](./Magicien.md) qui se spécialisent dans une école de magie peuvent choisir de restreindre davantage encore leur domaine d’étude. Les [magiciens](./Magicien.md) qui choisissent un champ d’étude magique conservent les sorts en bonus de leur école de spécialisation et doivent toujours sélectionner deux écoles opposées mais certains de leurs pouvoirs d’école de magie sont modifiés ou remplacés. Ils doivent accepter toutes les modifications imposées par leur champ d’étude. Une fois un champ d’étude choisi, cette décision ne peut plus être modifiée.
+
+<table class="page espace-col deuxcol"><tr style="vertical-align: top"><td>
+<div class="presentation arrondi">
+### Morts-vivants
+**Pouvoirs remplacés.** Le pouvoir d’école suivant remplace *Toucher du tombeau*.
+
+**Renforcement d’un mort-vivant (Mag).** Par une [action simple](./Action simple.md), le [magicien](./Magicien.md) peut toucher une créature morte-vivante et lui transmettre de l’énergie négative. Elle gagne un bonus impie de +1 aux jets d’attaque et jets de sauvegarde ainsi que 1 point de vie temporaire par [DV](./DV.md) et un bonus de +2 à sa [résistance à la canalisation](./Résistance à la canalisation (capacité).md). Le bonus aux jets d’attaque et jets de sauvegarde augmente de +1 par tranche de cinq [niveaux](./niveau.md) de [magicien](./Magicien.md). Ces bonus persistent pendant un nombre de [rounds](./round.md) égal à la moitié du [niveau](./niveau.md) du [magicien](./Magicien.md) (minimum 1 [round](./round.md)). Les bonus et les points de vie temporaires sont immédiatement dissipés si la créature pénètre dans la zone d’un sort de *[consécration](./Consécration.md)*. Le [magicien](./Magicien.md) peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur d’[Intelligence](./Intelligence.md).
+</div>
+</td><td>
+<div class="presentation arrondi">
+### Vie
+**Pouvoirs remplacés.** Les pouvoirs d’école suivants remplacent *Emprise sur les morts-vivants* et *Toucher du tombeau*.
+
+**Magie de vie (Sur).** Chaque fois que le [magicien](./Magicien.md) lance un sort visant plusieurs cibles, affectant les créatures au sein d’une zone ou nécessitant un jet d’attaque, il peut guérir les créatures affectées par le sort d’un total de 1 point de vie par [niveau](./niveau.md) du sort. Ces points de vie peuvent être distribués entre les cibles du sort au gré du [magicien](./Magicien.md). S’il désigne un mort-vivant comme « bénéficiaire » d’une partie de ces soins, celui-ci subit 1 point de dégât par point de vie assigné. Au [niveau](./niveau.md) 11, le total de points de vie guéris passe à 2 points par [niveau](./niveau.md) du sort. La guérison se produit au moment où le sort est lancé et ne produit aucun effet sur les créatures qui pénètrent dans la zone une fois que le sort est déjà en place. Au [niveau](./niveau.md) 20, le total de points de vie guéris passe à 3 points par [niveau](./niveau.md) du sort.
+
+**Partage d’essence (Mag).** Par une [action simple](./Action simple.md), le [magicien](./Magicien.md) peut choisir de partager son énergie vitale avec une créature vivante qu’il touche. Il subit 1d6 points de dégâts non létaux + 1 point par tranche de deux [niveaux](./niveau.md) de [magicien](./Magicien.md). Cette quantité ne peut toutefois jamais égaler ni dépasser le nombre de points de vie qu’il lui reste (les points de dégât excédentaires sont annulés). Le bénéficiaire du sort gagne un nombre de points de vie temporaires égal à la quantité de dégâts que le [magicien](./Magicien.md) a effectivement subis. Ces points de vie temporaires persistent pendant 1 heure. Le [magicien](./Magicien.md) ne peut pas utiliser cette capacité pour s’octroyer des points de vie temporaires à lui-même. Il peut l’utiliser un nombre de fois par jour égal à 3 + son modificateur d’[Intelligence](./Intelligence.md). Cette capacité n’a aucun effet si le [magicien](./Magicien.md) est [immunisé](./Immunité (capacité).md) aux dégâts non létaux.
+</div>
+</table>

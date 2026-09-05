@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Convocation de gardien ancestral
+Title: Convocation de gardien ancestral
+LastModified: 2020-07-28 14:11
+Categories:
+- Manuel des races
+- Sort
+- Sort barde 3
+- Sort prêtre 3
+---
+
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Bard](./Barde.md) 3, [Prê](./Prêtre.md) 3
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, F/FD](./composantes.md) (une effigie en pierre ou en métal de l’ancêtre du personnage)
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+**Effet** deux esprits d’ancêtres convoqués
+**Durée** 1 round/niveau (T)
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Le personnage peut demander aux esprits de deux ancêtres qu’ils se manifestent dans le monde des mortels pour attaquer ses ennemis. Chaque esprit ressemble à un nain translucide, sage et puissant, doté d’une arme naine traditionnelle de son choix. Ces esprits se déplacent et attaquent selon les choix du personnage et chacun détient les pouvoirs d’une *[arme spirituelle](./Arme spirituelle.md)*, sauf qu’ils peuvent attaquer des cibles différentes et infliger des dégâts physiques (de type contondant, perforant ou tranchant, en fonction de l’arme brandie par l’esprit) à la place des dégâts de force. Comme toute créature convoquée par le biais d’une *[convocation de monstres](./Convocation de monstres I.md)*, les ancêtres du personnage ne meurent pas vraiment si leur manifestation est détruite.

@@ -1,0 +1,20 @@
+---
+Name: Starfinder.Tableau récapitulatif des armures
+Title: Tableau récapitulatif des armures
+LastModified: 2021-08-30 13:52
+Categories:
+- Règles officielles
+---
+
+### Les armures
+
+<center>
+{| CLASS="tablo"
+|+ Tableau récapitulatif des armures courantes
+|- CLASS="titre"
+| [Armures](./../Pathfinder-RPG/Caractéristiques des armures.md#Armures) || Niveau  || Prix || BONUS CAE || BONUS CAC || BONUS DEX MAX || MALUS AUX TESTS || Modificateur de Vitesse || Emplacement d'amélioration || Volume
+|- CLASS="premier"
+| COLSPAN="10" | **ARMURES LÉGÈRES**
+|-
+|}
+</center>

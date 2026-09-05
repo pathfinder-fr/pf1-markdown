@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Guerrier rancunier
+Title: Guerrier rancunier
+LastModified: 2021-04-30 15:45
+---
+
+*L’orque éprouve une grande colère à l’égard de tous ceux qui osent l’attaquer, et cette fureur rend ses propres attaques d’autant plus puissantes.*
+
+**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Orque](./orque (race).md).
+
+**Avantages.** L’orque gagne un bonus de moral de +1 à ses jets d’attaque et de dégâts contre les créatures qui l’ont attaqué au cours de ce combat.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Quand le personnage touche une créature qui l’a attaqué lors du combat en cours, il peut dépenser jusqu’à 2 points d’endurance pour lui infliger un nombre de points de dégâts supplémentaires égal au double du nombre de points d’endurance dépensés.

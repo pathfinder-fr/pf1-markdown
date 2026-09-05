@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Bagarreur étrange (ensorceleur)
+Title: Bagarreur étrange
+LastModified: 2023-05-28 12:44
+Categories:
+- Archétype
+- Archétype ensorceleur
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypeensorceleur}{s:mca}*Un bagarreur étrange est toujours prêt à se battre et à prouver qu’il est tout aussi robuste qu’un adepte des arts guerriers. Vétéran de nombreuses bagarres contre des adversaires qui se méfiaient des manifestations de sa magie, le bagarreur étrange a la peau dure et maîtrise un style de combat qui associe armes et sorts.*
+
+#### Flexibilité martiale (Ext)
+Au niveau 1, un bagarreur étrange gagne l’aptitude de classe [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) du [lutteur](./Lutteur.md), en remplaçant le niveau de lutteur par son niveau d’ensorceleur pour déterminer le nombre d’utilisations quotidiennes. Le bagarreur considère [Frappe magique](./Frappe magique.md) et [Magie de guerre](./Magie de guerre.md) comme des dons de combat dans le cadre de cette aptitude.
+
+Au niveau 9, un bagarreur étrange peut utiliser cette aptitude pour bénéficier des avantages de deux dons de combat en même
+temps. Il peut choisir un don par une [action de mouvement](./Action de mouvement.md) ou deux dons par une [action simple](./Action simple.md). Il peut utiliser l’un de ces dons pour satisfaire une condition requise par le deuxième. Toutefois, il ne peut pas remplacer un don qui satisfait la condition d’un autre, à moins de remplacer aussi les dons qui le mentionnent dans leurs conditions requises. Chaque don choisi de cette façon compte comme une utilisation quotidienne de cette aptitude.
+
+Au niveau 15, un bagarreur étrange peut utiliser cette aptitude pour bénéficier des avantages de trois dons de combat en même temps. Il peut choisir un don par une [action rapide](./Action rapide.md), deux dons par une action de mouvement ou trois dons par une action simple. Il peut utiliser l’un des dons pour satisfaire une condition du deuxième ou troisième don et utiliser le deuxième don pour satisfaire une condition du troisième don. Chaque don choisi de cette façon compte comme une utilisation quotidienne de cette aptitude.
+
+Cette aptitude remplace les pouvoirs de lignage de l’ensorceleur obtenus aux niveaux 1, 9 et 15.
+
+#### Armes de lignage
+Si le pouvoir de lignage de niveau 1 devrait normalement conférer au bagarreur étrange des attaques naturelles (comme une attaque de morsure ou de griffes), il peut prendre ce pouvoir lorsqu’il atteint le niveau 3 au lieu de prendre son pouvoir de lignage de niveau 3.

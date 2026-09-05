@@ -1,0 +1,102 @@
+---
+Name: Pathfinder-RPG.vanara (race)
+Title: Les vanaras
+LastModified: 2025-01-11 14:50
+Categories:
+- Race
+- Règle officielle
+- Src Manuel des races
+---
+
+{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Vanara.md) d'un vanara standard.***
+
+Les vanaras sont des humanoïdes simiesques intelligents qui vivent au fond des forêts chaudes et des jungles luxuriantes. Le corps du vanara est recouvert d’une fine fourrure douce et il n’est pas rare de trouver des individus avec une fourrure couleur noisette, ivoire ou même dorée. Malgré leur fourrure, les vanaras peuvent avoir de longs cheveux, à la manière des humains, et hommes comme femmes se donnent beaucoup de mal pour porter des coiffures élaborées lors des fêtes importantes. La chevelure du vanara est de la même couleur que sa fourrure. Tous les vanaras ont une longue queue préhensile et des pieds semblables à des mains, capables de mouvements articulés. Les vanaras sont légèrement plus petits et plus légers que les humains standard.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 [Dextérité](./Dextérité.md), +2 [Sagesse](./Sagesse.md), -2 [Charisme](./Charisme.md).** Les vanaras sont agiles et perspicaces, mais également assez espiègles.
+- **Vanara.** Les vanaras sont des [humanoïdes](./type Humanoïde.md) de sous-type [vanara](./sous-type vanara.md).
+- **Taille M.** Les vanaras sont des créatures de [taille M](./taille M.md) et n’ont aucun bonus ni malus de taille.
+- **Vitesse normale.** Les vanaras ont une [vitesse de base](./VD.md) de 9 mètres et une [vitesse d’escalade](./Escalade.md#SPECIAL) de 9 mètres.
+- **Vision nocturne.** Les vanaras [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
+- **Agilité.** Les vanaras ont un bonus racial de +2 à leurs tests d’[Acrobaties](./Acrobaties.md) et de [Discrétion](./Discrétion.md).
+- **Queue préhensile.** Le vanara a une longue queue souple qu’il peut utiliser pour porter des objets. Il ne peut pas manier d’arme avec sa queue, mais celle-ci lui permet de récupérer de petits objets rangés sur sa personne par une [action rapide](./Action rapide.md).
+- **Langues.** Les vanaras commencent le jeu en parlant le commun et le vanara. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, céleste, elfique, gnome, gobelin et sylvestre.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+{s:MR}Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des vanaras. Consultez votre MJ avant de prendre ces nouvelles options.
+
+<u>*Remplace « queue préhensile » :*</u>
+- {s:cs}{s:ISR}**Fauteur de troubles dangereux.** Les familles vanaras qui cherchent à imiter le Roi Singe apprennent à leurs membres que les opportunités inattendues valent la peine de prendre de grands risques. Ces vanaras peuvent décider de lancer deux fois leurs tests d'[Utilisation d'objets magiques](./Utilisation dObjets Magiques.md). S'ils le font, ils conservent le meilleur résultat à moins que l'un des deux lancés soit un 1 naturel, auquel cas le test est un échec automatique. Ce trait racial remplace queue préhensile.
+- **Pèlerine blanche.** Les rares clans à pèlerine blanche ont plus en commun avec les babouins de la savane qu’avec les singes de la jungle auxquels ressemblent la plupart des vanaras. Leur charpente voûtée leur accorde un bonus racial de +4 au [DMD](./DMD.md) lorsqu’ils résistent à une [bousculade](./bousculade.md) ou à un [croc-en-jambe](./croc-en-jambe.md). Ces vanaras ont généralement une épaisse crinière de poils sur la tête et les épaules (que l’on appelle une « pèlerine »), ainsi qu’une queue plus courte. Ce trait racial remplace queue préhensile.
+
+<u>*Modifie « vitesse normale » :*</u>
+- **Étranger des arbres.** Certains vanaras passent leur vie parmi les humains dans des centres d’apprentissage plutôt que dans leurs demeures arboricoles traditionnelles. Ces vanaras traitent toutes les compétences de [Connaissances](./Connaissances.md) comme des compétences de classe, mais perdent leur trait racial de vitesse d’escalade.
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+**[Alchimiste](./Alchimiste.md).** L'alchimiste rajoute +1/2 aux dégâts de ses [bombes](./Alchimiste.md#BOMBES).
+
+**[Druide](./Druide.md).** Le druide rajoute un bonus de +1/2 à ses tests d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) et un bonus de +1/2 à ses tests de [Dressage](./Dressage.md).
+
+**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1 à son [DMD](./DMD.md) lorsqu’il résiste à une tentative de [repositionnement](./repositionnement.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+
+**[Moine](./Moine.md).** Le moine rajoute un bonus de +1 à ses tests d’[Acrobaties](./Acrobaties.md) pour sauter.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+**[Rôdeur](./Rôdeur.md).** Le rôdeur rajoute un bonus d’esquive de +1/4 à la [CA](./CA.md) contre ses [ennemis jurés](./Rôdeur.md#ENNEMIJURE).
+
+**[Roublard](./Roublard.md).** Le roublard gagne 1/6 d’un nouveau [talent de roublard](./Roublard.md#TALENTDEROUBLARD).
+</td></tr></table>
+
+### Nouvelles règles raciales
+{s:MR}Voici les options accessibles aux vanaras, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+#### Dons
+Les vanaras ont accès à ce don.
+
+<center>
+{| CLASS="tablo autoalt toutgauche"
+
+|- CLASS="titre"
+| WIDTH="25%" | &nbsp;
+| WIDTH= "6%" | Source
+| WIDTH="25%" | Conditions
+| WIDTH="44%" | Avantages
+
+|- CLASS="premier"
+| [Trapéziste des arbres](./Trapéziste des arbres.md) || <sup>MR</sup> || [vanara](./vanara (race).md), 1 rang en Acrobaties || Le vanara utilise sa queue pour se suspendre et améliorer sa défense contre les manœuvres offensives de croc-en-jambe, de bousculade et de repositionnement
+|}
+</center>
+<div class="wiki-row"><div class="wiki-col wiki-col-6">
+#### Archétypes de classes
+Cet archétype de classe est accessible aux vanaras :
+- [Moine des cimes (moine)](./Moine des cimes (moine).md)
+
+#### Équipement
+Les vanaras ont accès à l’équipement suivant :
+- [Bois fouettant](./Matériaux spéciaux.md#BOISFOUETTANT)
+
+</div><div class="wiki-col wiki-col-6">
+#### Objets magiques
+Les vanaras ont accès à cet objet magique :
+- [Ceinturon méridien](./Ceinturon Méridien.md)
+
+#### Sorts
+Les vanaras ont accès à ce sort :
+- ***[Voleuse préhensile](./Voleuse préhensile.md)*** *(MR)* ([Alch 3](./Alchimiste.md), [Apal 3](./Barde.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Magus 3](./Magus.md)). Permet à la queue de la cible d'effectuer des manoeuvres de sale coup et de subtilisation.
+
+</div></div>

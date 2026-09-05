@@ -1,0 +1,129 @@
+---
+Name: Pathfinder-RPG.Déplacement et position
+Title: Déplacement et position
+LastModified: 2024-08-27 21:47
+Categories:
+- Combat
+---
+
+{s:MenuCombat}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>Les figurines sont à l’échelle 30 mm. Cela signifie que la figurine d’un [humain](./Humain.md) de 1,80 m de haut mesure à peu près 30 mm. Sur le quadrillage, les cases de 2,50 cm de côté correspondent à des zones carrées de 1,50 m de coté.
+
+{s:Reference|VITESSEDEPLACEMENT}
+### Déplacement tactique
+La vitesse de déplacement du personnage est déterminée par sa race et son armure (voir la Table "[Vitesse de déplacement tactique](./Déplacement et position.md#TABLEVITESSEDEPLACEMENT)" ci-dessous). On appelle parfois la vitesse de déplacement sans armure « vitesse de déplacement de base ».
+
+**Charge portée.** Un personnage qui porte une [lourde charge](./charge lourde.md), d’importantes richesses ou un camarade blessé risque d’être ralenti (voir la page [Poids transportable](./Poids transportable.md) pour plus de détails).
+
+**Déplacements contrariés.** Un [terrain difficile](./terrain difficile.md), des obstacles ou une visibilité réduite peuvent gêner le déplacement.
+
+**Déplacement au combat.** En règle générale, au cours d’un round, le personnage peut se déplacer sur une distance égale à sa vitesse de déplacement et effectuer une action (une [action de mouvement](./Action de mouvement.md) ou une [action simple](./Action simple.md)).
+
+S’il ne fait que bouger (c’est-à-dire qu’il utilise ses deux actions du round pour se déplacer), il se déplace sur le double de sa vitesse.
+
+Si le personnage [court](./Course.md) pendant tout le round, sa vitesse de déplacement est multipliée par quatre (par trois s’il porte une armure lourde). Si l’aventurier exécute une [action complexe](./Action complexe.md), son déplacement se limite à un [pas de placement](./Pas de placement.md) de 1,50 m.
+
+**Bonus à la vitesse de déplacement.** Un [barbare](./Barbare.md) a un bonus de +3 m à la vitesse de déplacement (sauf s’il porte une armure lourde). De même, un [moine](./Moine.md) suffisamment expérimenté bénéficie d’une vitesse de déplacement plus importante (sauf s’il porte une armure, quelle qu’elle soit). De plus, de nombreux sorts peuvent modifier la vitesse de déplacement d’un personnage. On applique toujours les modificateurs à la vitesse de déplacement avant de déterminer les effets du port de l’armure ou de l’encombrement. De plus, des modificateurs multiples de même type ne se cumulent pas entre eux.
+
+{s:Reference|TABLEVITESSEDEPLACEMENT}
+<center>
+{| CLASS="tablo"
+|+ Vitesse de déplacement tactique
+|- CLASS="titre"
+| Race || Pas d'armure ou armure légère || Armure intermédiaire ou lourde
+|- CLASS="premier"
+| [Humain](./Humain.md), [demi-elfe](./Demi-elfe.md), [demi-orque](./Demi-orque.md), [elfe](./Elfe.md) || 9 m (6 cases) || 6 m (4 cases)
+|- CLASS="alt"
+| [Nain](./Nain.md) || 6 m (4 cases) || 6 m (4 cases)
+|-
+| [Gnome](./Gnome.md), [halfelin](./Halfelin.md) || 6 m (4 cases) || 4,50 m (3 cases)
+|}
+</center>
+
+<table><tr style="vertical-align: top">
+<td><img src="http://www.pathfinder-fr.org/images/pathfinder/wiki/PRPG/MvtTactique.jpg"></td><td>
+<div style="background-color: #f3efe2; padding: 6px; margin: 0 0 0 2px">
+Le premier déplacement du [guerrier](./Guerrier.md) lui coûte 1,50 m (ou une case). Le prochain lui coûtera la même chose mais le troisième (sa seconde diagonale) lui demande 3 m. Ensuite, il se déplace sur un [terrain difficile](./terrain difficile.md) qui lui coûte également 3 m. À ce stade (en #6) il a parcouru 9 m (une [action de mouvement](./Action de mouvement.md)). Le dernier déplacement se fait en diagonale sur un [terrain difficile](./terrain difficile.md) et lui coûte donc 4,50 m. Il doit ainsi utiliser son [action simple](./Action simple.md) du tour pour aller aussi loin.
+
+Les déplacements de l’[ogre](./Ogre.md) de taille G lui coûtent 6 m de déplacement au total (ou 4 cases). Il ne peut pas couper l’angle pour se rendre là et doit donc le contourner, comme indiqué.
+</div></td></tr></table>
+
+### Mesurer les distances
+En règle générale, les distances se mesurent en partant du principe qu’une case mesure 1,50 m.
+
+**Diagonales.** Lorsqu’on mesure les distances, la première diagonale compte pour 1 case, la seconde compte pour 2, la troisième pour 1, la quatrième pour 2, et ainsi de suite.
+
+On ne peut pas franchir un tournant en le coupant en diagonale (même avec un [pas de placement](./Pas de placement.md)). On peut passer en diagonale à côté d’une créature, même si c’est un adversaire.
+
+On ne peut pas traverser un obstacle infranchissable, comme une fosse, en diagonale.
+
+**Créature la plus proche.** Lorsqu’il faut déterminer la créature ou la case la plus proche d’un endroit et que deux créatures (ou deux cases) sont à égale distance, le personnage détermine la plus proche au hasard, en lançant un dé.
+
+{s:Reference|PASSERSANSSARRETER}
+### Passer sans s’arrêter
+Dans la plupart des cas, le personnage n’a aucun mal à traverser une case inoccupée. Pourtant, le [terrain difficile](./terrain difficile.md) et certains effets de sorts gênent les mouvements dans ces cases.
+
+**Allié.** À moins que le personnage ne soit en train de [charger](./charge.md), il peut traverser un espace occupé par un personnage amical. Lorsqu’il passe à travers une case occupée par un personnage amical, celui-ci ne procure pas d’[abri](./Modificateurs de combat.md#ABRI).
+
+**Adversaire.** Un personnage ne peut traverser l’espace occupé par un adversaire, sauf si ce dernier est [sans défense](./Sans défense.md). Dans ce cas, il ne subit pas de malus. Certaines créatures, en particulier celles de très grande taille, présentent un obstacle même lorsqu’elles sont [sans défense](./Sans défense.md). Dans ce cas, les cases traversées comptent comme 2 cases.
+
+**S’arrêter.** Il est impossible de s’arrêter dans l’espace occupé par une créature si elle n’est pas [sans défense](./Sans défense.md).
+
+**Renversement.** Pendant son mouvement, le personnage peut essayer de traverser un espace occupé par un ennemi (voir le chapitre "[Renversement](./Manœuvres offensives.md#RENVERSEMENT)" pour plus de détails).
+
+**Acrobaties.** Si le personnage entraîné peut utiliser la compétence [Acrobaties](./Acrobaties.md) pour traverser un espace occupé par un ennemi (voir la compétence [Acrobaties](./Acrobaties.md)).
+
+**Créature de taille très réduite.** Une créature de [taille TP](./taille TP.md), [Min](./taille Min.md) ou [I](./taille I.md) peut pénétrer dans un espace occupé ou le traverser mais elle s’expose alors à une [attaque d’opportunité](./attaque dopportunité.md).
+
+**Espace occupé par une créature plus grande ou plus petite de trois catégories de taille.** N’importe qui peut traverser un espace occupé par une créature plus grande de trois catégories de taille.
+
+De même, n’importe qui peut traverser un espace occupé par une créature plus petite que lui de trois catégories de taille. Les créatures qui se déplacent à travers une case occupée provoquent des [attaques d’opportunité](./attaque dopportunité.md) de la part de l’occupant.
+
+**Exceptions.** Certaines créatures ne se plient pas aux règles précédentes. Il est impossible de traverser l’espace d’une créature qui emplit totalement l’espace qu’il occupe, même avec la compétence [Acrobaties](./Acrobaties.md) ou des capacités spéciales similaires.
+
+
+### Terrain et obstacles
+Des plantes enchevêtrées aux pierres brisées, toutes sortes de particularités liées au terrain viennent entraver les déplacements du personnage.
+
+{s:Reference|TERRAINDIFFICILE}
+#### Terrain difficile
+
+Un terrain difficile comme une végétation abondante, un sol inégal, des escaliers particulièrement raides, etc. gêne les déplacements. Chaque case de terrain difficile compte comme 2 cases de déplacement. Chaque mouvement en diagonale sur un terrain difficile compte comme 3 cases de déplacement. Il est impossible de [courir](./Course.md) ou de [charger](./charge.md) sur un terrain difficile.
+
+Si une créature occupe plusieurs cases avec des caractéristiques de terrain diverses, elle prend en compte le plus pénalisant.
+
+Les créatures volantes et les créatures [intangibles](./Intangible.md) ne sont pas gênées par les terrains difficiles.
+
+#### Obstacles
+
+Comme les [terrains difficiles](./Déplacement et position.md#TERRAINDIFFICILE), les obstacles peuvent gêner le mouvement. Si un obstacle gêne le déplacement sans l’interdire, comme un muret ou un lit de branchages, chaque case de terrain obstrué compte pour 2 cases de déplacement. Le personnage doit payer ce prix pour franchir l’obstacle, en plus de celui nécessaire pour atteindre la case libre de l’autre côté. Si un personnage ne dispose pas d’une distance de mouvement suffisante pour franchir l’obstacle et arriver sur une case libre, il ne peut franchir l’obstacle. Certains obstacles nécessitent un test de compétence.
+
+En revanche, certains obstacles bloquent complètement le passage. Un personnage ne peut franchir un tel obstacle.
+
+Les créatures volantes et les créatures [intangibles](./Intangible.md) sont capables d’éviter la majorité des obstacles.
+
+{s:Reference|SESERRER}
+#### Se serrer
+Dans certains cas, une créature peut avoir à se serrer pour entrer dans un endroit moins large que l’espace qu’elle occupe. Un personnage peut se faufiler dans un espace au moins moitié aussi large que celui qu’il occupe habituellement. Dans ces conditions, chaque case de mouvement compte double. Une créature obligée de se serrer reçoit un malus de -4 aux [jets d’attaque](./jet dattaque.md) et à la [CA](./CA.md).
+
+Quand une créature de [taille G](./taille G.md) (qui occupe normalement quatre cases) se serre dans un espace qui fait seulement 1 case de large, sa figurine occupe deux cases, centrée sur la ligne entre les deux cases. Pour une créature plus grande, il faut la centrer de la même manière sur l’espace dans lequel elle se faufile.
+
+Une créature peut se serrer pour traverser l’espace occupé par un adversaire, mais elle ne peut s’arrêter dans un espace occupé.
+
+Si le personnage veut se serrer dans un espace d’une largeur inférieure à la moitié de son espace habituel, il doit utiliser la compétence [Évasion](./Évasion.md). Dans ces conditions, il ne peut pas attaquer, il subit un malus de -4 à la [CA](./CA.md) et il perd son éventuel bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md).
+
+### Règles spéciales sur le mouvement
+Voici quelques règles concernant des cas particuliers de déplacement.
+
+#### S’arrêter accidentellement dans un espace illégal
+
+Il arrive qu’un personnage achève son déplacement dans une case où il n’a pas le droit de s’arrêter. Dans ce cas, il faut poser sa figurine sur le dernier espace légal qu’elle a occupé, ou sur l’espace légal le plus proche s’il en existe un.
+
+#### Coût de déplacement doublé
+
+Si le mouvement du personnage est gêné, d’une façon ou d’une autre, le coût de ses déplacements est doublé. Par exemple, chaque case de mouvement sur un [terrain difficile](./terrain difficile.md) compte comme 2 cases de déplacement et chaque case de mouvement en diagonale sur un [terrain difficile](./terrain difficile.md) compte comme 3 cases de déplacement (comme si le personnage se déplaçait deux fois en diagonal).
+
+Si le coût du mouvement est doublé deux fois, alors chaque case de mouvement compte comme 4 cases de déplacement (ou 6 en diagonale). Si ce coût est doublé trois fois, chaque case de mouvement compte comme 8 cases de déplacement (ou 12 en diagonale), et ainsi de suite. C’est une exception à la règle générale qui dit que doubler deux fois revient à tripler.
+
+#### Déplacement minimum
+
+Quels que soient les malus au déplacement, le personnage peut toujours avancer de 1,50 m (1 case) au prix d’une [action complexe](./Action complexe.md), dans n’importe quelle direction, même en diagonale. Cette action ne lui permet pas de traverser une zone infranchissable ou de se déplacer s’il est en incapable. Ce mouvement provoque des [attaques d’opportunité](./attaque dopportunité.md) (malgré la distance parcourue, ce n’est pas un [pas de placement](./Pas de placement.md)).

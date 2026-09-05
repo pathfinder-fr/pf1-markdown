@@ -1,0 +1,13 @@
+---
+{}
+---
+
+<div class="presentation navmenudroite" style="margin-bottom:5px">
+<table width="80px"><tr style="vertical-align: top">
+<td><abbr title="Cette option est plus spécifique, voire réservée, aux membres de la race indiquée. Discutez avec votre MJ de sa disponibilité pour votre personnage."><a href="./Pathfinder-RPG.Humain.ashx"><img src="/wiki/public/upload/Illustrations/PNJ/Humain.jpg" width="80%" style="float:center; margin: 0px -50px 0px 7px; border: 1px solid #4b3124"></a></abbr></td>
+</tr><tr style="vertical-align: top">
+<td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
+commune chez  
+les [?3?](./Golarion-?1?.md).</div></td>
+</tr></table>
+</div>

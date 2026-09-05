@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Hydromel de linnorm (objet)
+Title: Hydromel de linnorm (la chope)
+LastModified: 2021-10-24 20:10
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 5 pc ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+---
+Boisson préférée des peuples du nord, cet hydromel de miel a voyagé avec eux dans les terres du sud. Il est doux et fort et, selon les bardes nordiques, est une aide non négligeable pour chanter.

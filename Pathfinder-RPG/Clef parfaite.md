@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Clef parfaite
+Title: Clef parfaite
+LastModified: 2024-06-18 17:17
+Categories:
+- Objet mag artefact
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Clef parfaite|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 16 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 0,25 kg
+(((Description)))
+Cette clef de platine ouvre presque toutes les serrures et toutes les portes au moindre contact. Il suffit que la clef entre en contact avec une serrure [DD](./DD.md) 40 ou moins pour qu’elle s’ouvre. Quand une créature tente d’enfoncer une porte dotée d’un [DD](./DD.md) de 28 contre une telle manœuvre alors qu’elle tient la clef en main, elle brise la serrure et la porte s’ouvre. Dans tous les autres cas de figure, la *clef parfaite* donne un bonus de +10 aux tests de [Sabotage](./Sabotage.md) pour ouvrir les serrures et un bonus de +10 aux tests pour enfoncer les portes.
+(((Destruction)))
+On dit qu’il existe une serrure impossible quelque part dans les plans, dotée d’un mécanisme si parfait que seule la *clef parfaite* peut l’ouvrir. Si on la glisse dans la serrure impossible, elle l’ouvre mais est détruite au passage.
+</div>

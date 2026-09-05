@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Scorpion à queue verte (objet)
+Title: Scorpion à queue verte
+LastModified: 2021-09-21 13:33
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15 po ; **Poids** 0,25 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+Vivant généralement dans les régions forestières, ces scorpions de taille TP ont des pinces trop petites pour être dangereuses pour les créatures plus grosses que les insectes mais leur dard reste empoisonné. On les garde parfois comme animaux de compagnie ou comme [familiers](./Familiers.md). Les scorpions à queue verte utilisés comme [familiers](./Familiers.md) ont une valeur d’[Intelligence](./Intelligence.md) et perdent le trait dépourvu d’intelligence. Voir les statistiques du [scorpion à queue verte](./Scorpion vert.md).

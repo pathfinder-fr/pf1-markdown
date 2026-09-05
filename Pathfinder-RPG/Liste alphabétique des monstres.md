@@ -1,0 +1,1979 @@
+---
+Name: Pathfinder-RPG.Liste alphabétique des monstres
+Title: Liste alphabétique des monstres
+LastModified: 2025-02-22 10:07
+Categories:
+- Liste de monstres
+---
+
+{s:MenuOpposition}<div class="fright">***Voir aussi le [glossaire vo/vf des monstres](https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit#gid=279475795).***</div>Abréviations des sources intégrées : [l'Art de la Magie](./LArt de la magie (Contenu).md) (AM), [Bestiaire](./Bestiaire (Contenu).md) (B1), [Bestiaire 2](./Bestiaire 2 (Contenu).md) (B2), [Bestiaire 3](./Bestiaire 3 (Contenu).md) (B3), [Bestiaire 4](./Bestiaire 4 (Contenu).md) (B4), [Bestiaire 5](./Bestiaire 5 (Contenu).md) (B5), [Cadre de Campagne: La mer Intérieure](./La Mer Intérieure (Contenu).md) (CCMI), [Cités perdues de Golarion](./Courts suppléments univers (Contenu).md#2) (CPG), [Guide de la Plaie du monde](./Courts suppléments univers (Contenu).md#5) (GPM), [Guide des Chaînes](./Courts suppléments univers (Contenu).md#6) (GDC), [Guide du Katapesh](./Courts suppléments univers (Contenu).md#8) (GK), [Irrisen, pays de l'hiver éternel](./Courts suppléments univers (Contenu).md#10) (IPHE), [Livre des Damnés](./Livre des damnés 1 (Contenu).md) (LD).
+
+Autres listes de monstres : [liste par FP](./Liste des monstres par FP.md) ([avec familles](./Liste des monstres par FP avec familles.md)), [liste par milieu naturel](./Liste des monstres par milieu naturel.md) ([avec familles](./Liste des monstres par milieu naturel avec familles.md)) et [liste par type](./Liste des monstres par type.md).
+
+<nav class="wiki-toc"></nav>
+
+<ul style="margin-top:0px;padding-left:0px">
+### A
+<div class="article_3col">
+- [Aallip](./Aallip.md) *(B2)* - 3  
+- [Aasimar](./Aasimar.md) *(B1)* - 1/2  
+- [Aathérièxa](./Aathérièxa.md) *(B5)* - 7  
+- [Abaia](./Abaia.md) *(B4)* - 10  
+- Abeille
+  - [Abeille géante](./Abeille géante.md) *(B2)* - 1  
+  - [Abeille reine géante](./Abeille reine géante.md) *(B2)* - 5  
+- [Achaïéraï](./Achaïéraï.md) *(B2)* - 5  
+- [Adaro](./Adaro.md) *(B3)* - 3  
+- [Adlet](./Adlet.md) *(B3)* - 10  
+- Aéon
+  - [Akhana](./Akhana.md) *(B2)* - 12  
+  - [Bythos](./Bythos.md) *(B2)* - 16  
+  - [Lipika](./Lipika.md) *(B5)* - 18  
+  - [Othaos](./Othaos.md) *(B5)* - 5  
+  - [Paraclétus](./Paraclétus.md) *(B2)* - 2  
+  - [Pléroma](./Pléroma.md) *(B2)* - 20  
+  - [Thélétos](./Thélétos.md) *(B2)* - 7  
+- Agathion
+  - [Avoral](./Avoral.md) *(B2)* - 9  
+  - [Cervinal](./Cervinal.md) *(B5)* - 17  
+  - [Cétacéal](./Cétacéal.md) *(B2)* - 15  
+  - [Draconal](./Draconal.md) *(B2)* - 20  
+  - [Léonal](./Léonal.md) *(B2)* - 12  
+  - [Reptial](./Reptial.md) *(B5)* - 4  
+  - [Silvanshie](./Silvanshie.md) *(B2)* - 2  
+  - [Vulpinal](./Vulpinal.md) *(B2)* - 6  
+- [Ahkhat](./Ahkhat.md) *(B5)* - 4  
+- [Ahool](./Ahool.md) *(B5)* - 9  
+- [Ahuizotl](./Ahuizotl.md) *(B3, KM4/6)* - 6  
+- Aigle
+  - [Aigle](./Aigle.md) *(B1)* - 1/2  
+  - [Aigle géant](./Aigle géant.md) *(B1)* - 3  
+- [Akaname](./Akaname.md) *(B5)* - 1  
+- [Akata](./Akata.md) *(B2, RT2/6)* - 1  
+- [Akhlut](./Akhlut.md) *(B3)* - 13  
+- Alghollthu
+  - [Aboleth](./Aboleth.md) *(B1)* - 7  
+- [Almiraj](./Almiraj.md) *(B4)* - 1  
+- [Alpluachre](./Alpluachre.md) *(B4)* - 1/2  
+- [Alraune](./Alraune.md) *(B3)* - 13  
+- [Aluum](./Aluum.md) *(B5, GK, MI)* - 10  
+- [Amarok](./Amarok.md) *(B5)* - 12  
+- Âme brisée
+  - [Lillende à l'âme brisée](./lillende à lâme brisée.md) *(B4)* - 9  
+- [Âme-en-peine](./Âme-en-peine.md) *(B1)* - 5  
+- [Âme-en-peine draconique](./Âme-en-peine draconique.md) *(B5)* - 17  
+- Amibe
+  - [Amibe géante](./Amibe géante.md) *(B2)* - 1  
+  - [Nuée d'amibes](./Nuée damibes.md) *(B2)* - 1  
+- [Amphiptère](./Amphiptère.md) *(B5)* - 4  
+- [Amphisbène](./Amphisbène.md) *(B2)* - 4  
+- [Androïde](./Androïde.md) *(B5, BMI)* - 1  
+- [Anémone de mer géante](./Anémone de mer géante.md) *(B3)* - 2  
+- [Anémos](./Anémos.md) *(B5)* - 18  
+- Ange
+  - [Balisse](./Balisse.md) *(B5)* - 8  
+  - [Cassisien](./Cassisien.md) *(B2)* - 2  
+  - [Choral](./Choral.md) *(B5)* - 6  
+  - [Dapsara](./Dapsara.md) *(ISG)* - 4  
+  - [Déva astral](./Déva astral.md) *(B1)* - 14  
+  - [Déva monadique](./Déva monadique.md) *(B2)* - 12  
+  - [Déva movanique](./Déva movanique.md) *(B2)* - 10  
+  - [Empyréen](./Empyréen.md) *(B5)* - 20  
+  - [Iophanite](./Iophanite.md) *(ISG)* - 4  
+  - [Planétar](./Planétar.md) *(B1)* - 16  
+  - [Solar](./Solar.md) *(B1)* - 23  
+- Anguille
+  - [Anguille des sables](./Anguille des sables.md) *(GK)* - 5  
+  - [Anguille électrique](./Anguille électrique.md) *(B1)* - 2  
+  - [Murène géante](./Murène géante.md) *(B1)* - 5  
+- Animal de troupeau
+  - [Antilope](./Antilope.md) *(B3)* - 1/2  
+  - [Auroch](./Auroch.md) *(B1)* - 2  
+  - [Bélier](./Bélier.md) *(B2)* - 1  
+  - [Bison](./Bison.md) *(B1)* - 4  
+  - [Cerf](./Cerf.md) *(B4)* - 1  
+  - [Dromadaire](./Dromadaire.md) *(B2)* - 1  
+  - [Élan](./Élan.md) *(B3, KM1/6)* - 1  
+  - [Girafe](./Girafe.md) *(B4)* - 3  
+- [Ankheg](./Ankheg.md) *(B1)* - 3  
+- [Ankou](./Ankou.md) *(B4, KM6/6)* - 14  
+- [Aoandon](./Aoandon.md) *(B4)* - 12  
+- [Apallie](./Apallie.md) *(B5)* - 2  
+- [Âpresoif](./Âpresoif.md) *(B5, GPM)* - 6  
+- [Aquatique](./Aquatique.md) *(CCMI)* - 1/3  
+- [Araignée de Leng](./Araignée de Leng.md) *(B2)* - 14  
+- [Araignée de phase](./Araignée de phase.md) *(B1)* - 5  
+- [Araignée géante démoniaque](./Araignée géante démoniaque.md) *(GPM)* - 2  
+- Araignée
+  - [Araignée géante](./Araignée géante.md) *(B1)* - 1  
+  - [Araignée goliath](./Araignée goliath.md) *(B4)* - 11  
+  - [Araignée lunaire](./Araignée lunaire.md) *(B5, TE)* - 2  
+  - [Araignée ogre](./Araignée ogre.md) *(B3)* - 5  
+  - [Araignée-crabe géante](./Araignée-crabe géante.md) *(B3)* - 1/2  
+  - [Nuée d'araignées](./Nuée daraignées.md) *(B1)* - 1  
+  - [Tarentule géante](./Tarentule géante.md) *(B2)* - 8  
+  - [Veuve noire géante](./Veuve noire géante.md) *(B2)* - 3  
+- [Aranéa](./Aranéa.md) *(B2)* - 4  
+- [Arbre à pendus](./Arbre à pendus.md) *(B2)* - 7  
+- [Arbre-lotus](./Arbre-lotus.md) *(B5)* - 20  
+- Archon
+  - [Archon annonciateur](./Archon annonciateur.md) *(B3)* - 2  
+  - [Archon bouclier](./Archon bouclier.md) *(B2)* - 10  
+  - [Archon canin](./Archon canin.md) *(B1)* - 4  
+  - [Archon cervidé](./Archon cervidé.md) *(ISG)* - 4  
+  - [Archon des portails](./Archon des portails.md) *(B5)* - 17  
+  - [Archon étoile](./Archon étoile.md) *(B2)* - 19  
+  - [Archon excendré](./Archon excendré.md) *(B5)* - 12  
+  - [Archon légionnaire](./Archon légionnaire.md) *(B3)* - 7  
+  - [Archon lumineux](./Archon lumineux.md) *(B1)* - 2  
+  - [Archon messager](./Archon messager.md) *(B1)* - 14  
+- Armure fantôme
+  - [Armure fantôme gardienne](./Armure fantôme gardienne.md) *(B4, CP5/6)* - 2  
+  - [Armure fantôme géante](./Armure fantôme géante.md) *(B4, CP5/6)* - 4  
+- [Ascomoïde](./Ascomoïde.md) *(B3)* - 5  
+- [Astomoï](./Astomoï.md) *(B5)* - 1/2  
+- Asura
+  - [Adhukaït](./Adhukaït.md) *(B3, CV4/6)* - 7  
+  - [Aghasura](./Aghasura.md) *(B3)* - 11  
+  - [Asurendra](./Asurendra.md) *(B3)* - 20  
+  - [Nikaramsa](./Nikaramsa.md) *(BD)* - 14  
+  - [Tripurasura](./Tripurasura.md) *(B3)* - 2  
+  - [Upasunda](./Upasunda.md) *(B3)* - 9  
+- [Ataxien](./Ataxien.md) *(ISG)* - 4  
+- [Athach](./Athach.md) *(B2)* - 12  
+- [Atomie](./Atomie.md) *(B3)* - 1  
+- [Attrape-mouches géant](./Attrape-mouches géant.md) *(B1)* - 10  
+- [Aurumvorax](./Aurumvorax.md) *(B2)* - 9  
+- [Aveugleur](./Aveugleur.md) *(B2)* - 2  
+- [Axiomite](./Axiomite.md) *(B2)* - 8  
+- Azata
+  - [Bralani](./Bralani.md) *(B1)* - 6  
+  - [Brijidine](./Brijidine.md) *(B2)* - 17  
+  - [Gancanagh](./Gancanagh.md) *(B5)* - 4  
+  - [Ghaéle](./Ghaéle.md) *(B1)* - 13  
+  - [Lillende](./Lillende.md) *(B1)* - 7  
+  - [Lyrakien](./Lyrakien.md) *(B2, ESR2/6)* - 2  
+  - [Raélis](./Raélis.md) *(B5)* - 10  
+  - [Thyrlien](./Thyrlien.md) *(ISG)* - 4  
+- [Azer](./Azer.md) *(B2)* - 2  
+- [Azruverda](./Azruverda.md) *(B3)* - 13  
+
+</div>
+
+
+### B
+<div class="article_3col">
+- [Babélien](./Babélien.md) *(B1)* - 5  
+- [Babouin](./Babouin.md) *(B2)* - 1/2  
+- [Bagiennik](./Bagiennik.md) *(B5)* - 6  
+- [Bakekujira](./Bakekujira.md) *(B4, SS5/6)* - 17  
+- [Baku](./Baku.md) *(B3)* - 8  
+- [Bandersnatch](./Bandersnatch.md) *(B3)* - 17  
+- [Banshie](./Banshie.md) *(B2, RT5/6)* - 13  
+- [Barégare](./Barégare.md) *(B3)* - 12  
+- Barghest
+  - [Barghest](./Barghest.md) *(B1)* - 4  
+  - [Barghest noble](./Barghest noble.md) *(B1)* - 7  
+- [Barometz](./Barometz.md) *(B4)* - 15  
+- [Basidirond](./Basidirond.md) *(B1)* - 5  
+- [Basilic](./Basilic.md) *(B1)* - 5  
+- [Bâtard](./Bâtard.md) *(B2)* - 1  
+- [Bateau d'ossements](./Bateau dossements.md) *(B5)* - 18  
+- [Baykok](./Baykok.md) *(B3)* - 9  
+- [Bébilith](./Bébilith.md) *(B1)* - 10  
+- Béhémoth
+  - [Béhémoth des tempêtes](./Béhémoth des tempêtes.md) *(B3)* - 22  
+  - [Béhémoth du tonnerre](./Béhémoth du tonnerre.md) *(B3)* - 18  
+  - [Béhémoth thalassique](./Béhémoth thalassique.md) *(B3)* - 20  
+- [Béhir](./Béhir.md) *(B1)* - 8  
+- Belette
+  - [Belette géante](./Belette géante.md) *(B4, RH1/6)* - 1  
+  - [Belette sanguinaire](./Belette sanguinaire.md) *(B4)* - 3  
+- [Berbalang](./Berbalang.md) *(B3)* - 6  
+- [Bête du Chaos](./Bête du Chaos.md) *(B2)* - 7  
+- [Bête lunaire](./Bête lunaire.md) *(B3)* - 11  
+- [Bhole](./Bhole.md) *(B4)* - 17  
+- [Bhuta](./Bhuta.md) *(B3)* - 11  
+- [Bisha ga tsuku](./Bisha ga tsuku.md) *(B5)* - 9  
+- Blaireau
+  - [Blaireau](./Blaireau.md) *(B2)* - 1/2  
+  - [Blaireau sanguinaire](./Blaireau sanguinaire.md) *(B2)* - 2  
+- [Bodak](./Bodak.md) *(B2)* - 8  
+- [Boisvivant](./Boisvivant.md) *(B2)* - 8  
+- [Bondisseur aquatique](./Bondisseur aquatique.md) *(B5)* - 2  
+- [Bonze des mers](./Bonze des mers.md) *(B3)* - 15  
+- Bourbiérin
+  - [Bourbiérin](./Bourbiérin.md) *(B1, ESR2/6)* - 2  
+- Bousier
+  - [Bousier géant](./Bousier géant.md) *(B5)* - 6  
+  - [Nuée de bousiers](./Nuée de bousiers.md) *(B5)* - 3  
+- [Bréthédien](./Bréthédien.md) *(B4, MPML)* - 5  
+- [Brume affamée](./Brume affamée.md) *(B3)* - 6  
+- [Brume des tranchées](./Brume des tranchées.md) *(B5, RH5/6)* - 10  
+- [Brume vampirique](./Brume vampirique.md) *(B2)* - 3  
+- [Buggane](./Buggane.md) *(B4)* - 5  
+- [Bulette](./Bulette.md) *(B1)* - 7  
+- [Bulle du chaudron](./Bulle du chaudron.md) *(B4)* - 1  
+- [Bunyip](./Bunyip.md) *(B2)* - 3  
+- [Burleev](./Burleev.md) *(ISG)* - 4  
+
+</div>
+
+
+### C
+<div class="article_3col">
+- Cafard
+  - [Cafard géant](./Cafard géant.md) *(B2)* - 1/2  
+  - [Nuée de cafards](./Nuée de cafards.md) *(B2)* - 2  
+- [Calikang](./Calikang.md) *(CCMI, CV5/6)* - 12  
+- Calmar
+  - [Calmar](./Calmar.md) *(B1)* - 1  
+  - [Calmar géant](./Calmar géant.md) *(B1)* - 9  
+- [Camérocéras](./Camérocéras.md) *(B5)* - 11  
+- [Capitaine de la garde rejeton de la cosse](./capitaine de la garde rejeton de la cosse.md) *(B4)* - 8  
+- [Capramace](./Capramace.md) *(B5, GFR)* - 7  
+- [Carrosse mortel](./Carrosse mortel.md) *(B5)* - 14  
+- [Caryatide](./Caryatide.md) *(B3)* - 3  
+- [Catoblépas](./Catoblépas.md) *(B2)* - 12  
+- [Caulborne](./Caulborne.md) *(B3)* - 7  
+- Cavalier de Baba Yaga
+  - [Cavalier blanc](./Cavalier Blanc.md) *(IPHE)* - 11  
+  - [Cavalier noir](./Cavalier noir.md) *(IPHE)* - 13  
+  - [Cavalier rouge](./Cavalier rouge.md) *(IPHE)* - 12  
+- [Cavalier glacé](./Cavalier glacé.md) *(B3)* - 8  
+- [Cécaëlia](./Cécaëlia.md) *(B3)* - 5  
+- [Célédon](./Célédon.md) *(B5)* - 1  
+- [Centaure](./Centaure.md) *(B1)* - 3  
+- [Céphalophore](./Céphalophore.md) *(B4)* - 8  
+- [Cératioïde / Lophidien](./Cératioïde.md) *(B3, KM2/6)* - 3  
+- [Cerbère](./Cerbère.md) *(B3, CV4/6)* - 6  
+- [Cérynitis](./Cérynitis.md) *(B5)* - 7  
+- Cétacé
+  - [Baleine](./Baleine.md) *(B2)* - 10  
+  - [Baleine bleue](./Baleine bleue.md) *(B5, SS5/6)* - 12  
+  - [Grande baleine blanche](./Grande baleine blanche.md) *(B2)* - 14  
+  - [Narval](./Narval.md) *(B5, SS5/6)* - 3  
+- [Cétus](./Cétus.md) *(B5)* - 13  
+- [Chair affamée](./Chair affamée.md) *(B4)* - 3  
+- [Chalkost](./Chalkost.md) *(ISG)* - 4  
+- [Champignon cérébré](./Champignon cérébré.md) *(B3)* - 3  
+- [Champignon fantôme](./Champignon fantôme.md) *(B3)* - 3  
+- [Changelin](./Changelin.md) *(B4, CP1/6)* - 1/2  
+- [Changepeau](./Changepeau.md) *(B5)* - 1/2  
+- [Chapeau rouge](./Chapeau rouge.md) *(B2, ESR4/6)* - 6  
+- [Charau-ka](./Charau-ka.md) *(CCMI)* - 2  
+- [Charda](./Charda.md) *(B2, RT6/6)* - 7  
+- [Charognier](./charognier.md) *(B4)* - 1  
+- [Charybde](./Charybde.md) *(B2)* - 13  
+- [Chat infernal](./Chat infernal.md) *(B2)* - 7  
+- Chauves-souris
+  - [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) *(B1)* - 2  
+  - [Mobat](./Mobat.md) *(B2)* - 3  
+  - [Nuée de chauves-souris](./Nuée de chauves-souris.md) *(B1)* - 2  
+  - [Skaveling](./Skaveling.md) *(B2, DO)* - 5  
+- Chenille
+  - [Chenille à corne](./Chenille à corne.md) *(B5)* - 1  
+  - [Chenille de sang](./Chenille de sang.md) *(B5)* - 4  
+- [Chérufe](./Chérufe.md) *(B5)* - 13  
+- [Cheval draconique](./Cheval draconique.md) *(B2)* - 9  
+- Cheval
+  - [Cheval](./Cheval.md) *(B1)* - 1  
+  - [Poney](./Poney.md) *(B1)* - 1/2  
+- [Chevalier tombal humain](./Chevalier tombal humain.md) *(B3)* - 11  
+- [Chevelure animée](./Chevelure animée.md) *(B5)* - 1/2  
+- [Chickcharney](./Chickcharney.md) *(GDC)* - 3  
+- [Chien de la mort](./Chien de la mort.md) *(B4)* - 2  
+- [Chien de Tindalos](./../Aventures/Chien de Tindalos.md) *(B2, ESR4/6)* - 7  
+- [Chien esquiveur](./Chien esquiveur.md) *(B2)* - 2  
+- [Chien gobelin](./Chien gobelin.md) *(B1, ESR1/6)* - 1  
+- [Chien hurleur](./Chien hurleur.md) *(B1)* - 3  
+- [Chien lunaire](./Chien lunaire.md) *(B5)* - 9  
+- Chien
+  - [Chien](./Chien.md) *(B1)* - 1/3  
+  - [Chien de selle](./Chien de selle.md) *(B1)* - 1  
+- [Chimère](./Chimère.md) *(B1)* - 7  
+- [Chose de peaux recousues](./Chose de peaux recousues.md) *(B4)* - 5  
+- [Chose très ancienne](./Chose très ancienne.md) *(B4, CP4/6)* - 5  
+- Chouette
+  - [Chouette géante](./Chouette géante.md) *(B3)* - 5  
+  - [Grand-duc](./Grand-duc.md) *(B3)* - 1/2  
+- [Chuchoteur du grenier](./Chuchoteur du grenier.md) *(B2, ESR1/6)* - 4  
+- [Chupacabra](./Chupacabra.md) *(B2, HF1/6)* - 3  
+- [Chuspiki](./Chuspiki.md) *(B5)* - 2  
+- Chuul
+  - [Chuul](./Chuul.md) *(B1)* - 7  
+- [Cobra de fer](./Cobra de fer.md) *(B1)* - 2  
+- [Cockatrice](./Cockatrice.md) *(B1)* - 3  
+- Coléoptère
+  - [Charançon géant](./Charançon géant.md) *(B1)* - 4  
+  - [Coléoptère goliath](./Coléoptère goliath.md) *(B2)* - 8  
+  - [Coléoptère tranchoir](./Coléoptère tranchoir.md) *(B2)* - 4  
+  - [Punaise de feu](./Punaise de feu.md) *(B1)* - 1/3  
+- [Collecteur d'ombres](./Collecteur dombres.md) *(B5)* - 8  
+- [Corbie sanguinaire](./Corbie sanguinaire.md) *(B3, MM)* - 1  
+- Corneille-sorcière  
+  - [Grande corneille-sorcière](./Grande corneille-sorcière.md) *(B5, RH1/6)* - 3  
+- [Couatl](./Couatl.md) *(B1)* - 10  
+- [Couleur tombée du ciel](./Couleur tombée du ciel.md) *(B4, CP4/6)* - 10  
+- Crabe
+  - [Crabe géant](./Crabe géant.md) *(B1)* - 2  
+  - [Crabe mangeur de requins](./Crabe mangeur de requins.md) *(B3)* - 7  
+  - [Crabe naufrageur](./Crabe naufrageur.md) *(B3)* - 13  
+  - [Nuée de crabes](./Nuée de crabes.md) *(B1)* - 4  
+- Crapaud
+  - [Crapaud des glaciers](./Crapaud des glaciers.md) *(B2)* - 6  
+  - [Crapaud géant](./Crapaud géant.md) *(B2)* - 2  
+- Créature boréale
+  - [Guenaude annis boréale](./Guenaude annis boréale.md) *(IPHE)* - 7  
+  - [Loup boréal](./Loup boréal.md) *(IPHE)* - 2  
+  - [Manticore boréale](./Manticore boréale.md) *(IPHE)* - 6  
+- Créature cauchemardesque
+  - [Ettercap cauchemardesque](./Ettercap cauchemardesque.md) *(B4)* - 4  
+- Créature d'ombrefeu
+  - [Élémentaire du Feu d'ombrefeu](./Élémentaire du Feu dombrefeu.md) *(B5, TE)* - 7  
+- [Créature d'osier](./Créature dosier.md) *(B4)* - 13  
+- Créature de l'ombre
+  - [Enlaceur de l'ombre](./enlaceur de lombre.md) *(B4)* - 13  
+- [Créature des cryptes](./Créature des cryptes.md) *(B2)* - 5  
+- Créature diabolique
+  - [Ensorceleuse diabolique](./ensorceleuse diabolique.md) *(B4)* - 13  
+- Créature distordue
+  - [Drider](./Drider.md) *(B1)* - 7  
+  - [Ghonhatine](./Ghonhatine.md) *(B4, RT4/6)* - 10  
+  - [Grothlut](./Grothlut.md) *(B4)* - 3  
+  - [Halsora](./Halsora.md) *(B4)* - 7  
+  - [Irnakurse](./Irnakurse.md) *(B4, RT4/6)* - 9  
+- Créature ectoplasmique
+  - [Humain ectoplasmique](./Humain ectoplasmique.md) *(B4)* - 1/2  
+- Créature empaillée
+  - [Grizzly empaillé](./Grizzly empaillé.md) *(B5)* - 3  
+- Créature féerique
+  - [Crapaud féerique géant](./Crapaud féerique géant.md) *(B3)* - 3  
+- Créature fongique
+  - [Nymphe fongique](./Nymphe fongique.md) *(B4)* - 8  
+- Créature foo
+  - [Chien foo](./Chien foo.md) *(B3)* - 2  
+  - [Lion foo](./Lion foo.md) *(B3)* - 4  
+- Créature mécanique
+  - [Cheval mécanique](./Cheval mécanique.md) *(B4)* - 6  
+  - [Dragon mécanique](./Dragon mécanique.md) *(B4)* - 16  
+  - [Espion mécanique](./Espion mécanique.md) *(B3)* - 1/2  
+  - [Familier mécanique](./Familier mécanique.md) *(B5)* - 2  
+  - [Goliath mécanique](./Goliath mécanique.md) *(B3)* - 19  
+  - [Léviathan mécanique](./Léviathan mécanique.md) *(B3)* - 12  
+  - [Mage mécanique](./Mage mécanique.md) *(B4)* - 9  
+  - [Serviteur mécanique](./Serviteur mécanique.md) *(B3)* - 2  
+  - [Soldat mécanique](./Soldat mécanique.md) *(B3)* - 6  
+- Créature momifiée
+  - [Gynosphinx momifié](./Gynosphinx momifié.md) *(B4)* - 9  
+- Créature pestiférée
+  - [Cheval pestiféré](./cheval pestiféré.md) *(GPM, B5)* - 2  
+- [Crevette-mante géante](./Crevette-mante géante.md) *(B5)* - 9  
+- [Cristal carnivore](./Cristal carnivore.md) *(B3)* - 11  
+- Crocodile
+  - [Crocodile](./Crocodile.md) *(B1)* - 2  
+  - [Crocodile sanguinaire](./Crocodile sanguinaire.md) *(B1)* - 9  
+- [Croquemitaine](./Croquemitaine.md) *(B3)* - 10  
+- [Crysmal](./Crysmal.md) *(B2)* - 3  
+- [Cube gélatineux](./Cube gélatineux.md) *(B1)* - 3  
+- [Cuero](./Cuero.md) *(B5)* - 5  
+- Cyclope
+  - [Cyclope](./Cyclope.md) *(B1)* - 5  
+  - [Cyclope kabandha](./Cyclope kabandha.md) *(B5)* - 9  
+  - [Grand cyclope](./Grand cyclope.md) *(B3, KM3/6)* - 12  
+- [Cygne trompette](./Cygne trompette.md) *(B4)* - 1/3  
+- [Cytillipattes](./Cytillipattes.md) *(B5)* - 6  
+
+</div>
+
+
+### D
+<div class="article_3col">
+- [D'ziriak](./Dziriak.md) *(B2)* - 3  
+- Daémon
+  - [Astradaémon](./Astradaémon.md) *(B2)* - 16  
+  - [Cacodaémon](./Cacodaémon.md) *(B2)* - 2  
+  - [Ceustodaémon](./Ceustodaémon.md) *(B2)* - 6  
+  - [Crucidaémon](./Crucidaémon.md) *(B3)* - 15  
+  - [Derghodaémon](./Derghodaémon.md) *(B2)* - 12  
+  - [Érodaémon](./Érodaémon.md) *(LD)* - 11  
+  - [Hydrodaémon](./Hydrodaémon.md) *(B2)* - 8  
+  - [Lacridaémon](./Lacridaémon.md) *(LD)* - 3  
+  - [Leukodaémon](./Leukodaémon.md) *(B2, MTE2/6)* - 9  
+  - [Méladaémon](./Méladaémon.md) *(B2)* - 11  
+  - [Obcisidaémon](./Obcisidaémon.md) *(LD)* - 19  
+  - [Oléthrodaémon](./Oléthrodaémon.md) *(B2)* - 20  
+  - [Phasmadaémon](./Phasmadaémon.md) *(LD)* - 17  
+  - [Piscodaémon](./Piscodaémon.md) *(B2)* - 10  
+  - [Purrodaémon](./Purrodaémon.md) *(B2)* - 18  
+  - [Sanguidaémon](./Sanguidaémon.md) *(LD)* - 9  
+  - [Sepsidaémon](./Sepsidaémon.md) *(BD)* - 7  
+  - [Suspiridaémon](./Suspiridaémon.md) *(LD)* - 7  
+  - [Témerdaémon](./Témerdaémon.md) *(LD)* - 14  
+  - [Thanadaémon](./Thanadaémon.md) *(B2)* - 13  
+  - [Vénédaémon](./Vénédaémon.md) *(LD)* - 5  
+  - [Vulnudaémon](./Vulnudaémon.md) *(B3)* - 4  
+- [Dame des cygnes](./Dame des cygnes.md) *(B4)* - 6  
+- Dauphin
+  - [Dauphin](./Dauphin.md) *(B1)* - 1/2  
+  - [Orque épaulard](./Orque épaulard.md) *(B1)* - 5  
+- [Décapité](./Décapité.md) *(B4)* - 1/3  
+- [Décapus](./Décapus.md) *(B2)* - 4  
+- [Delgèthe](./Delgèthe.md) *(B5, LMA)* - 6  
+- Demi-céleste
+  - [Licorne demi-céleste](./Licorne demi-céleste.md) *(B1)* - 4  
+- Demi-dragon
+  - [Dracolisque](./Dracolisque.md) *(B1)* - 7  
+- Demi-fiélon
+  - [Minotaure demi-fiélon](./Minotaure demi-fiélon.md) *(B1)* - 6  
+- [Demi-liche](./Demi-liche.md) *(B3)* - 14  
+- Démodande
+  - [Démodande caoutchouteux](./Démodande caoutchouteux.md) *(B5)* - 17  
+  - [Démodande filandreux](./Démodande filandreux.md) *(B5, CJ5/6)* - 15  
+  - [Démodande goudronneux](./Démodande goudronneux.md) *(B3)* - 13  
+  - [Démodande hirsute](./Démodande hirsute.md) *(B3)* - 18  
+  - [Démodande squameux](./Démodande squameux.md) *(BD)* - 20  
+  - [Démodande visqueux](./Démodande visqueux.md) *(B3)* - 16  
+- Démon
+  - [Abrikandilu](./../Aventures/abrikandilu.md) *(B5, GPM)* - 3  
+  - [Ariès](./Ariès.md) *(B3)* - 4  
+  - [Babau](./Babau.md) *(B1)* - 6  
+  - [Balor](./Balor.md) *(B1)* - 20  
+  - [Brimorak](./Brimorak.md) *(LD)* - 5  
+  - [Cambion](./Cambion.md) *(B5, WR4/6)* - 2  
+  - [Coloxe](./Coloxe.md) *(B3)* - 12  
+  - [Démon des ombres](./Démon des ombres.md) *(B1)* - 7  
+  - [Dérakni](./Dérakni.md) *(GPM)* - 10  
+  - [Dretch](./Dretch.md) *(B1)* - 2  
+  - [Gallu](./Gallu.md) *(GPM)* - 19  
+  - [Ghalzarokh](./Ghalzarokh.md) *(BD)* - 15  
+  - [Gibrileth](./Gibrileth.md) *(GPM)* - 11  
+  - [Glabrezu](./Glabrezu.md) *(B1)* - 13  
+  - [Hezrou](./Hezrou.md) *(B1)* - 11  
+  - [Incube](./Incube.md) *(B3)* - 6  
+  - [Kalavakus](./Kalavakus.md) *(B2)* - 10  
+  - [Kithangien](./Kithangien.md) *(GPM)* - 9  
+  - [Lilitu](./Lilitu.md) *(GPM)* - 17  
+  - [Marilith](./Marilith.md) *(B1)* - 17  
+  - [Nabasu](./Nabasu.md) *(B1)* - 8  
+  - [Nalfeshnie](./Nalfeshnie.md) *(B1)* - 14  
+  - [Omox](./Omox.md) *(B2, RT4/6)* - 12  
+  - [Oolioddroo](./Oolioddroo.md) *(GPM)* - 13  
+  - [Quasit](./Quasit.md) *(B1)* - 2  
+  - [Séraptis](./Séraptis.md) *(B5, LD)* - 15  
+  - [Shemhazian](./Shemhazian.md) *(B2, ESR5/6)* - 16  
+  - [Succube](./Succube.md) *(B1)* - 7  
+  - [Swaithe](./Swaithe.md) *(ISG)* - 4  
+  - [Vavaki](./Vavaki.md) *(LD)* - 18  
+  - [Vermlek](./Vermlek.md) *(LD)* - 3  
+  - [Vrock](./Vrock.md) *(B1)* - 9  
+  - [Vrolikai](./Vrolikai.md) *(B2)* - 19  
+- [Derhii](./Derhii.md) *(B3, CPG)* - 5  
+- [Derro](./Derro.md) *(B1)* - 3  
+- [Désenchanteur](./Désenchanteur.md) *(B3, MM)* - 3  
+- [Destrachan](./Destrachan.md) *(B2)* - 8  
+- [Destrier diabolique](./Diable de Pointesable.md) *(CCMI, ESR1/6)* - 8  
+- Destrier noir
+  - [Cauchemar](./Cauchemar.md) *(B1)* - 11  
+  - [Destrier noir](./Destrier noir.md) *(B1)* - 5  
+- [Dévoreur](./Dévoreur.md) *(B1)* - 11  
+- [Dévoreur d'âmes](./Dévoreur dâmes.md) *(B2)* - 7  
+- [Dévoreur d'araignées](./Dévoreur daraignées.md) *(B3)* - 5  
+- [Dévoreur d'intellect](./Dévoreur dintellect.md) *(B1, DO)* - 8  
+- [Dévoreur de pensées](./Dévoreur de pensées.md) *(B5)* - 2  
+- Dévoreur draconique
+  - [Dracosire rouge](./Dracosire Rouge.md) *(B2)* - 22  
+- [Dhabba](./Dhabba.md) *(GK)* - 1  
+- [Dhampir](./Dhampir.md) *(B2)* - 1/2  
+- Diable
+  - [Diable accusateur (Zébub)](./Diable accusateur.md) *(B2)* - 3  
+  - [Diable apostat (Deimavigga)](./Diable apostat.md) *(B5, LD)* - 17  
+  - [Diable barbelé (Hamatula)](./Diable barbelé.md) *(B1)* - 11  
+  - [Diable barbu (Barbazu)](./Diable barbu.md) *(B1)* - 5  
+  - [Diable belliciste (Lévaloch)](./Diable belliciste.md) *(B5, LD)* - 7  
+  - [Diable bourreau (Munagola)](./Diable bourreau.md) *(BD)* - 11  
+  - [Diable complice (Hespérien)](./Diable complice.md) *(ISG)* - 4  
+  - [Diable cornu (Cornugon)](./Diable cornu.md) *(B1)* - 16  
+  - [Diable de l'hérésie (Ayngavhaul)](./Diable de lhérésie.md) *(B5, LD)* - 12  
+  - [Diable de l'ost majeur (Magaav)](./Diable de lost Majeur.md) *(B4, LD)* - 6  
+  - [Diable de l'ost mineur (Gaav)](./Diable de lost mineur.md) *(LD)* - 3  
+  - [Diable de la noyade (Sarglagon)](./Diable de la noyade.md) *(B4, SS6/6)* - 8  
+  - [Diable des contrats (Phistophilius)](./Diable des contrats.md) *(B3, MTE6/6)* - 10  
+  - [Diable des glaces (Gélugon)](./Diable des glaces.md) *(B1)* - 13  
+  - [Diable immolateur (Puragaus)](./Diable immolateur.md) *(B2)* - 19  
+  - [Diable némésis (Advodaze)](./Diable némésis.md) *(B4, CV6/6)* - 18  
+  - [Diable osseux (Osyluth)](./Diable osseux.md) *(B1)* - 9  
+  - [Diable trompeur (Bdellavritra)](./Diable trompeur.md) *(B2, MTE6/6)* - 16  
+  - [Diable vestale (Gylou)](./Diable vestale.md) *(B2)* - 14  
+  - [Diablotin](./Diablotin.md) *(B1)* - 2  
+  - [Diantrefosse](./Diantrefosse.md) *(B1)* - 20  
+  - [Érinye](./Érinye.md) *(B1)* - 8  
+  - [Lémure](./Lémure.md) *(B1)* - 1  
+- [Dibbouk](./Dibbouk.md) *(B3)* - 15  
+- Dinosaure
+  - [Allosaure](./Allosaure.md) *(B2)* - 7  
+  - [Ankylosaure](./Ankylosaure.md) *(B1)* - 6  
+  - [Brachiosaure](./Brachiosaure.md) *(B1)* - 10  
+  - [Cératosaure](./Cératosaure.md) *(B5)* - 5  
+  - [Compsognathus](./Compsognathus.md) *(B2)* - 1/2  
+  - [Déinonychus](./Déinonychus.md) *(B1)* - 3  
+  - [Dimétrodon](./Dimétrodon.md) *(B3)* - 3  
+  - [Dimorphodon](./Dimorphodon.md) *(B4)* - 1  
+  - [Diplodocus](./Diplodocus.md) *(B4)* - 12  
+  - [Élasmosaure](./Élasmosaure.md) *(B1)* - 7  
+  - [Iguanodon](./Iguanodon.md) *(B3)* - 6  
+  - [Pachycéphalosaure](./Pachycéphalosaure.md) *(B3)* - 4  
+  - [Parasaurolophus](./Parasaurolophus.md) *(B2)* - 4  
+  - [Plésiosaure](./Plésiosaure.md) *(B5)* - 2  
+  - [Ptéranodon](./Ptéranodon.md) *(B1)* - 3  
+  - [Spinosaure](./Spinosaure.md) *(B3)* - 11  
+  - [Stégosaure](./Stégosaure.md) *(B1)* - 7  
+  - [Styracosaure](./Styracosaure.md) *(B4)* - 5  
+  - [Thérizinosaure](./Thérizinosaure.md) *(B5)* - 10  
+  - [Tricératops](./Tricératops.md) *(B1)* - 8  
+  - [Troodon](./Troodon.md) *(B5)* - 1  
+  - [Tylosaure](./Tylosaure.md) *(B2)* - 8  
+  - [Tyrannosaure](./Tyrannosaure.md) *(B1)* - 9  
+  - [Vélociraptor](./Vélociraptor.md) *(B4)* - 2  
+- [Distordu](./Distordu.md) *(GPM)* - 8  
+- Div
+  - [Aghash](./Aghash.md) *(B3)* - 4  
+  - [Akvan](./Akvan.md) *(B3)* - 20  
+  - [Bushyasta](./Bushyasta.md) *(BD)* - 6  
+  - [Doru](./Doru.md) *(B3, HF1/6)* - 2  
+  - [Ghawwas](./Ghawwas.md) *(B3, HF4/6)* - 10  
+  - [Païraka](./Païraka.md) *(B3, HF2/6)* - 7  
+  - [Sépide](./Sépide.md) *(B3, HF5/6)* - 14  
+  - [Shira](./Shira.md) *(B3, HF3/6)* - 12  
+- [Djidjinis](./Djidjinis.md) *(B5)* - 16  
+- [Dogue d'ombre](./Dogue dombre.md) *(B2)* - 5  
+- [Doppelganger](./Doppelganger.md) *(B1)* - 3  
+- [Doppledrek](./Doppledrek.md) *(B5)* - 5  
+- [Dorvae](./Dorvae.md) *(B4)* - 11  
+- [Dossenus](./dossenus.md) *(B4)* - 1  
+- [Draconien](./Draconien.md) *(B5, MPML)* - 9  
+- Dragon chromatique blanc
+  - [Dragon blanc adulte](./Dragon blanc adulte.md) *(B1)* - 10  
+  - [Dragon blanc vénérable](./Dragon blanc vénérable.md) *(B1)* - 15  
+  - [Jeune dragon blanc](./Jeune dragon blanc.md) *(B1)* - 6  
+- Dragon chromatique bleu
+  - [Dragon bleu adulte](./Dragon bleu adulte.md) *(B1)* - 13  
+  - [Dragon bleu vénérable](./Dragon bleu vénérable.md) *(B1)* - 18  
+  - [Jeune dragon bleu](./Jeune dragon bleu.md) *(B1)* - 9  
+- Dragon chromatique noir
+  - [Dragon noir adulte](./Dragon noir adulte.md) *(B1)* - 11  
+  - [Dragon noir vénérable](./Dragon noir vénérable.md) *(B1)* - 16  
+  - [Jeune dragon noir](./Jeune dragon noir.md) *(B1)* - 7  
+- Dragon chromatique rouge
+  - [Dragon rouge adulte](./Dragon rouge adulte.md) *(B1)* - 14  
+  - [Dragon rouge vénérable](./Dragon rouge vénérable.md) *(B1)* - 19  
+  - [Jeune dragon rouge](./Jeune dragon rouge.md) *(B1)* - 10  
+- Dragon chromatique vert
+  - [Dragon vert adulte](./Dragon vert adulte.md) *(B1)* - 12  
+  - [Dragon vert vénérable](./Dragon vert vénérable.md) *(B1)* - 17  
+  - [Jeune dragon vert](./Jeune dragon vert.md) *(B1)* - 8  
+- [Dragon corde](./Dragon corde.md) *(B5)* - 5  
+- Dragon ésotérique astral
+  - [Dragon astral adulte](./Dragon astral adulte.md) *(B5)* - 13  
+  - [Dragon astral vénérable](./Dragon astral vénérable.md) *(B5)* - 18  
+  - [Jeune dragon astral](./Jeune dragon astral.md) *(B5)* - 9  
+- Dragon ésotérique des cauchemars
+  - [Dragon des cauchemars adulte](./Dragon des cauchemars adulte.md) *(B5)* - 10  
+  - [Dragon des cauchemars vénérable](./Dragon des cauchemars vénérable.md) *(B5)* - 15  
+  - [Jeune dragon des cauchemars](./Jeune dragon des cauchemars.md) *(B5)* - 6  
+- Dragon ésotérique des rêves
+  - [Dragon des rêves adulte](./Dragon des rêves adulte.md) *(B5)* - 14  
+  - [Dragon des rêves vénérable](./Dragon des rêves vénérable.md) *(B5)* - 19  
+  - [Jeune dragon des rêves](./Jeune dragon des rêves.md) *(B5)* - 10  
+- Dragon ésotérique éthéré
+  - [Dragon éthéré adulte](./Dragon éthéré adulte.md) *(B5)* - 11  
+  - [Dragon éthéré vénérable](./Dragon éthéré vénérable.md) *(B5)* - 16  
+  - [Jeune dragon éthéré](./Jeune dragon éthéré.md) *(B5)* - 7  
+- Dragon ésotérique occulte
+  - [Dragon occulte adulte](./Dragon occulte adulte.md) *(B5)* - 10  
+  - [Dragon occulte vénérable](./Dragon occulte vénérable.md) *(B5)* - 15  
+  - [Jeune dragon occulte](./Jeune dragon occulte.md) *(B5)* - 6  
+- Dragon impérial chtonien
+  - [Dragon chtonien adulte](./Dragon chtonien adulte.md) *(B3)* - 11  
+  - [Dragon chtonien vénérable](./Dragon chtonien vénérable.md) *(B3)* - 16  
+  - [Jeune dragon chtonien](./Jeune dragon chtonien.md) *(B3)* - 7  
+- Dragon impérial des forêts
+  - [Dragon des forêts adulte](./Dragon des forêts adulte.md) *(B3)* - 14  
+  - [Dragon des forêts vénérable](./Dragon des forêts vénérable.md) *(B3)* - 19  
+  - [Jeune dragon des forêts](./Jeune dragon des forêts.md) *(B3)* - 10  
+- Dragon impérial des mers
+  - [Dragon des mers adulte](./Dragon des mers adulte.md) *(B3)* - 12  
+  - [Dragon des mers vénérable](./Dragon des mers vénérable.md) *(B3)* - 17  
+  - [Jeune dragon des mers](./Jeune dragon des mers.md) *(B3)* - 8  
+- Dragon impérial du ciel
+  - [Dragon du ciel adulte](./Dragon du ciel adulte.md) *(B3)* - 13  
+  - [Dragon du ciel vénérable](./Dragon du ciel vénérable.md) *(B3)* - 18  
+  - [Jeune dragon du ciel](./Jeune dragon du ciel.md) *(B3)* - 9  
+- Dragon impérial souverain
+  - [Dragon souverain adulte](./Dragon souverain adulte.md) *(B3)* - 15  
+  - [Dragon souverain vénérable](./Dragon souverain vénérable.md) *(B3)* - 20  
+  - [Jeune dragon souverain](./Jeune dragon souverain.md) *(B3)* - 11  
+- Dragon métallique d'airain
+  - [Dragon d'airain adulte](./Dragon dairain adulte.md) *(B1)* - 11  
+  - [Dragon d'airain vénérable](./Dragon dairain vénérable.md) *(B1)* - 16  
+  - [Jeune dragon d'airain](./Jeune dragon dairain.md) *(B1)* - 7  
+- Dragon métallique d'argent
+  - [Dragon d'argent adulte](./Dragon dargent adulte.md) *(B1)* - 14  
+  - [Dragon d'argent vénérable](./Dragon dargent vénérable.md) *(B1)* - 19  
+  - [Jeune dragon d'argent](./Jeune dragon dargent.md) *(B1)* - 10  
+- Dragon métallique d'or
+  - [Dragon d'or adulte](./Dragon dor adulte.md) *(B1)* - 15  
+  - [Dragon d'or vénérable](./Dragon dor vénérable.md) *(B1)* - 20  
+  - [Jeune dragon d'or](./Jeune dragon dor.md) *(B1)* - 11  
+- Dragon métallique de bronze
+  - [Dragon de bronze adulte](./Dragon de bronze adulte.md) *(B1)* - 13  
+  - [Dragon de bronze vénérable](./Dragon de bronze vénérable.md) *(B1)* - 18  
+  - [Jeune dragon de bronze](./Jeune dragon de bronze.md) *(B1)* - 9  
+- Dragon métallique de cuivre
+  - [Dragon de cuivre adulte](./Dragon de cuivre adulte.md) *(B1)* - 12  
+  - [Dragon de cuivre vénérable](./Dragon de cuivre vénérable.md) *(B1)* - 17  
+  - [Jeune dragon de cuivre](./Jeune dragon de cuivre.md) *(B1)* - 8  
+- Dragon primaire de cristal
+  - [Dragon de cristal adulte](./Dragon de cristal adulte.md) *(B2)* - 10  
+  - [Dragon de cristal vénérable](./Dragon de cristal vénérable.md) *(B2)* - 15  
+  - [Jeune dragon de cristal](./Jeune dragon de cristal.md) *(B2)* - 6  
+- Dragon primaire de magma
+  - [Dragon de magma adulte](./Dragon de magma adulte.md) *(B2)* - 12  
+  - [Dragon de magma vénérable](./Dragon de magma vénérable.md) *(B2)* - 17  
+  - [Jeune dragon de magma](./Jeune dragon de magma.md) *(B2)* - 8  
+- Dragon primaire de saumure
+  - [Dragon de saumure adulte](./Dragon de saumure adulte.md) *(B2)* - 11  
+  - [Dragon de saumure vénérable](./Dragon de saumure vénérable.md) *(B2)* - 16  
+  - [Jeune dragon de saumure](./Jeune dragon de saumure.md) *(B2)* - 7  
+- Dragon primaire des nuages
+  - [Dragon des nuages adulte](./Dragon des nuages adulte.md) *(B2)* - 13  
+  - [Dragon des nuages vénérable](./Dragon des nuages vénérable.md) *(B2)* - 18  
+  - [Jeune dragon des nuages](./Jeune dragon des nuages.md) *(B2)* - 9  
+- Dragon primaire umbral
+  - [Dragon umbral adulte](./Dragon umbral adulte.md) *(B2)* - 14  
+  - [Dragon umbral vénérable](./Dragon umbral vénérable.md) *(B2)* - 19  
+  - [Jeune dragon umbral](./Jeune dragon umbral.md) *(B2)* - 10  
+- Dragon sidéral du néant
+  - [Dragon du néant adulte](./Dragon du néant adulte.md) *(B4)* - 13  
+  - [Dragon du néant vénérable](./Dragon du néant vénérable.md) *(B4)* - 18  
+  - [Jeune dragon du néant](./Jeune dragon du néant.md) *(B4)* - 9  
+- Dragon sidéral du vortex
+  - [Dragon du vortex adulte](./Dragon du vortex adulte.md) *(B4)* - 14  
+  - [Dragon du vortex vénérable](./Dragon du vortex vénérable.md) *(B4)* - 19  
+  - [Jeune dragon du vortex](./Jeune dragon du vortex.md) *(B4)* - 10  
+- Dragon sidéral lunaire
+  - [Dragon lunaire adulte](./Dragon lunaire adulte.md) *(B4)* - 13  
+  - [Dragon lunaire vénérable](./Dragon lunaire vénérable.md) *(B4)* - 18  
+  - [Jeune dragon lunaire](./Jeune dragon lunaire.md) *(B4)* - 9  
+- Dragon sidéral solaire
+  - [Dragon solaire adulte](./Dragon solaire adulte.md) *(B4)* - 13  
+  - [Dragon solaire vénérable](./Dragon solaire vénérable.md) *(B4)* - 18  
+  - [Jeune dragon solaire](./Jeune dragon solaire.md) *(B4)* - 9  
+- Dragon sidéral temporel
+  - [Dragon temporel adulte](./Dragon temporel adulte.md) *(B4)* - 15  
+  - [Dragon temporel vénérable](./Dragon temporel vénérable.md) *(B4)* - 20  
+  - [Jeune dragon temporel](./Jeune dragon temporel.md) *(B4)* - 11  
+- [Dragon-tortue](./Dragon-tortue.md) *(B1)* - 9  
+- Dragon
+  - [Dragon épineux](./Dragon épineux.md) *(CCMI)* - 16  
+  - [Dragon féerique](./Dragon féerique.md) *(B1)* - 2  
+- [Dragonne](./Dragonne.md) *(B2)* - 7  
+- Drake
+  - [Drake d'ombre](./Drake dombre.md) *(B4)* - 2  
+  - [Drake de brume](./Drake de brume.md) *(B4)* - 5  
+  - [Drake de l'éther](./Drake de léther.md) *(B5)* - 10  
+  - [Drake de lave](./Drake de lave.md) *(B4)* - 9  
+  - [Drake des crevasses](./Drake des crevasses.md) *(B3)* - 9  
+  - [Drake des flammes](./Drake des flammes.md) *(B2, CVS)* - 5  
+  - [Drake des forêts](./Drake des forêts.md) *(B2, RT3/6)* - 4  
+  - [Drake des jungles](./Drake des jungles.md) *(B5)* - 6  
+  - [Drake des mers](./Drake des mers.md) *(B2)* - 6  
+  - [Drake des rivières](./Drake des rivières.md) *(B3)* - 3  
+  - [Drake des tertres](./Drake des tertres.md) *(B4)* - 7  
+  - [Drake du désert](./Drake du désert.md) *(B3)* - 8  
+  - [Drake du froid](./Drake du froid.md) *(B2)* - 7  
+- [Draugr](./Draugr.md) *(B2)* - 2  
+- Drow
+  - [Drow](./Drow.md) *(B1)* - 1/3  
+  - [Drow noble](./Drow noble.md) *(B1)* - 3  
+- [Dryade](./Dryade.md) *(B1)* - 3  
+- Duergar
+  - [Duergar](./Duergar.md) *(B1)* - 1/3  
+- [Dullahan](./Dullahan.md) *(B2)* - 7  
+- [Duppy](./Duppy.md) *(B5, GDC)* - 7  
+- [Dwiergeth](./Dwiergeth.md) *(B5, GPM)* - 13  
+
+</div>
+
+
+### E
+<div class="article_3col">
+- [Echalas sombre](./Echalas sombre.md) *(B4)* - 4  
+- [Écheneis](./Écheneis.md) *(B5)* - 1  
+- [Écorché](./Écorché.md) *(B3)* - 16  
+- [Égrégore](./Égrégore.md) *(B5)* - 10  
+- [Eidolon libéré](./Eidolon libéré.md) *(B3)* - 8  
+- [Einherji](./Einherji.md) *(B4)* - 10  
+- Élémentaire d'aether
+  - [Élémentaire d'aether de taille G](./Élémentaire daether de taille G.md) *(B5)* - 5  
+  - [Élémentaire d'aether de taille M](./Élémentaire daether de taille M.md) *(B5)* - 3  
+  - [Élémentaire d'aether de taille P](./Élémentaire daether de taille P.md) *(B5)* - 1  
+  - [Élémentaire d'aether de taille TG](./Élémentaire daether de taille TG.md) *(B5)* - 7  
+  - [Élémentaire d'aether noble](./Élémentaire daether noble.md) *(B5)* - 9  
+  - [Seigneur élémentaire d'aether](./Seigneur élémentaire daether.md) *(B5)* - 11  
+- Élémentaire de l'Air
+  - [Élémentaire de l'Air de taille G](./Élémentaire de lAir de taille G.md) *(B1)* - 5  
+  - [Élémentaire de l'Air de taille M](./Élémentaire de lAir de taille M.md) *(B1)* - 3  
+  - [Élémentaire de l'Air de taille P](./Élémentaire de lAir de taille P.md) *(B1)* - 1  
+  - [Élémentaire de l'Air de taille TG](./Élémentaire de lAir de taille TG.md) *(B1)* - 7  
+  - [Élémentaire de l'Air noble](./Élémentaire de lAir noble.md) *(B1)* - 9  
+  - [Seigneur élémentaire de l'Air](./Seigneur élémentaire de lAir.md) *(B1)* - 11  
+- Élémentaire de l'Eau
+  - [Élémentaire de l'Eau de taille G](./Élémentaire de lEau de taille G.md) *(B1)* - 5  
+  - [Élémentaire de l'Eau de taille M](./Élémentaire de lEau de taille M.md) *(B1)* - 3  
+  - [Élémentaire de l'Eau de taille P](./Élémentaire de lEau de taille P.md) *(B1)* - 1  
+  - [Élémentaire de l'Eau de taille TG](./Élémentaire de lEau de taille TG.md) *(B1)* - 7  
+  - [Élémentaire de l'Eau noble](./Élémentaire de lEau noble.md) *(B1)* - 9  
+  - [Seigneur élémentaire de l'Eau](./Seigneur élémentaire de lEau.md) *(B1)* - 11  
+- Élémentaire de l'éclair
+  - [Élémentaire de l'éclair de taille G](./Élémentaire de léclair de taille G.md) *(B2)* - 5  
+  - [Élémentaire de l'éclair de taille M](./Élémentaire de léclair de taille M.md) *(B2)* - 3  
+  - [Élémentaire de l'éclair de taille P](./Élémentaire de léclair de taille P.md) *(B2)* - 1  
+  - [Élémentaire de l'éclair de taille TG](./Élémentaire de léclair de taille TG.md) *(B2)* - 7  
+  - [Élémentaire de l'éclair noble](./Élémentaire de léclair noble.md) *(B2)* - 9  
+  - [Seigneur élémentaire de l'éclair](./Seigneur élémentaire de léclair.md) *(B2)* - 11  
+- Élémentaire de la boue
+  - [Élémentaire de la boue de taille G](./Élémentaire de la boue de taille G.md) *(B2)* - 5  
+  - [Élémentaire de la boue de taille M](./Élémentaire de la boue de taille M.md) *(B2)* - 3  
+  - [Élémentaire de la boue de taille P](./Élémentaire de la boue de taille P.md) *(B2)* - 1  
+  - [Élémentaire de la boue de taille TG](./Élémentaire de la boue de taille TG.md) *(B2)* - 7  
+  - [Élémentaire de la boue noble](./Élémentaire de la boue noble.md) *(B2)* - 9  
+  - [Seigneur élémentaire de la boue](./Seigneur élémentaire de la boue.md) *(B2)* - 11  
+- Élémentaire de la glace
+  - [Élémentaire de la glace de taille G](./Élémentaire de la glace de taille G.md) *(B2)* - 5  
+  - [Élémentaire de la glace de taille M](./Élémentaire de la glace de taille M.md) *(B2)* - 3  
+  - [Élémentaire de la glace de taille P](./Élémentaire de la glace de taille P.md) *(B2)* - 1  
+  - [Élémentaire de la glace de taille TG](./Élémentaire de la glace de taille TG.md) *(B2)* - 7  
+  - [Élémentaire de la glace noble](./Élémentaire de la glace noble.md) *(B2)* - 9  
+  - [Seigneur élémentaire de la glace](./Seigneur élémentaire de la glace.md) *(B2)* - 11  
+- Élémentaire de la Terre
+  - [Élémentaire de Terre de taille G](./Élémentaire de Terre de taille G.md) *(B1)* - 5  
+  - [Élémentaire de Terre de taille M](./Élémentaire de Terre de taille M.md) *(B1)* - 3  
+  - [Élémentaire de Terre de taille P](./Élémentaire de Terre de taille P.md) *(B1)* - 1  
+  - [Élémentaire de Terre de taille TG](./Élémentaire de Terre de taille TG.md) *(B1)* - 7  
+  - [Élémentaire de Terre noble](./Élémentaire de Terre noble.md) *(B1)* - 9  
+  - [Seigneur élémentaire de Terre](./Seigneur élémentaire de Terre.md) *(B1)* - 11  
+- Élémentaire du Feu
+  - [Élémentaire du Feu de taille G](./Élémentaire du Feu de taille G.md) *(B1)* - 5  
+  - [Élémentaire du Feu de taille M](./Élémentaire du Feu de taille M.md) *(B1)* - 3  
+  - [Élémentaire du Feu de taille P](./Élémentaire du Feu de taille P.md) *(B1)* - 1  
+  - [Élémentaire du Feu de taille TG](./Élémentaire du Feu de taille TG.md) *(B1)* - 7  
+  - [Élémentaire du Feu noble](./Élémentaire du Feu noble.md) *(B1)* - 9  
+  - [Seigneur élémentaire du Feu](./Seigneur élémentaire du Feu.md) *(B1)* - 11  
+- Élémentaire du magma
+  - [Élémentaire du magma de taille G](./Élémentaire du magma de taille G.md) *(B2)* - 5  
+  - [Élémentaire du magma de taille M](./Élémentaire du magma de taille M.md) *(B2)* - 3  
+  - [Élémentaire du magma de taille P](./Élémentaire du magma de taille P.md) *(B2)* - 1  
+  - [Élémentaire du magma de taille TG](./Élémentaire du magma de taille TG.md) *(B2)* - 7  
+  - [Élémentaire du magma noble](./Élémentaire du magma noble.md) *(B2)* - 9  
+  - [Seigneur élémentaire du magma](./Seigneur élémentaire du magma.md) *(B2)* - 11  
+- Éléphant
+  - [Éléphant](./Éléphant.md) *(B1)* - 7  
+  - [Mastodonte](./Mastodonte.md) *(B1)* - 9  
+- [Encantado](./Encantado.md) *(B5)* - 8  
+- [Enfant lumineux](./Enfant lumineux.md) *(B2)* - 12  
+- [Enfouisseur des sables](./Enfouisseur des sables.md) *(B2)* - 4  
+- [Enlaceur](./Enlaceur.md) *(B1)* - 12  
+- [Entrave du mage](./Entrave du mage.md) *(B5)* - 1/2  
+- [Épouvantail](./Épouvantail.md) *(B2)* - 4  
+- [Erlkönig](./Erlkönig.md) *(B4)* - 18  
+- [Escarboucle](./Escarboucle.md) *(B3, KM1/6)* - 1  
+- [Escargot Fléau](./Escargot fléau.md) *(B3, MM)* - 4  
+- Esprit du foyer
+  - [Domovoï](./Domovoï.md) *(B5, RH1/6)* - 3  
+  - [Dvorovoï](./Dvorovoï.md) *(B5, RH1/6)* - 4  
+  - [Ovinnik](./Ovinnik.md) *(B5, RH1/6)* - 2  
+- [Esprit follet](./Esprit follet.md) *(B3)* - 1/3  
+- [Esprit follet liminal](./Esprit follet liminal.md) *(B5)* - 2  
+- [Esprit purulent](./Esprit purulent.md) *(B4)* - 8  
+- [Essaim de guêpes de l'Enfer](./Essaim de guêpes de lEnfer.md) *(B3)* - 8  
+- [Étiainen](./Étiainen.md) *(B5)* - 1  
+- [Étranger blafard](./Étranger blafard.md) *(B3)* - 10  
+- [Étrangleur](./Étrangleur.md) *(B1)* - 2  
+- [Ettercap](./Ettercap.md) *(B1)* - 3  
+- [Ettin](./Ettin.md) *(B1)* - 6  
+
+</div>
+
+
+### F
+<div class="article_3col">
+- [Fachan](./Fachan.md) *(B4)* - 5  
+- Familier
+  - [Araignée écarlate](./Araignée écarlate.md) *(B4, AM)* - 1/4  
+  - [Archéoptéryx](./Archéoptéryx.md) *(B4)* - 1/4  
+  - [Belette](./Belette.md) *(B1)* - 1/2  
+  - [Caïman nain](./Caïman nain.md) *(B5, SS1/6)* - 1/3  
+  - [Chat](./Chat.md) *(B1)* - 1/4  
+  - [Chauve-souris](./Chauve-souris.md) *(B1)* - 1/8  
+  - [Chèvre](./Chèvre.md) *(B3, AM)* - 1/3  
+  - [Chouette](./Chouette.md) *(B1)* - 1/3  
+  - [Cochon](./Cochon.md) *(B3, AM)* - 1/3  
+  - [Corbeau](./Corbeau.md) *(B1)* - 1/6  
+  - [Crabe royal](./Crabe royal.md) *(AM)* - 1/4  
+  - [Crapaud](./Crapaud.md) *(B1)* - 1/8  
+  - [Dodo](./Dodo.md) *(B4, B5, SS1/6)* - 1/4  
+  - [Écureuil volant](./Écureuil volant.md) *(B3)* - 1/3  
+  - [Faucon](./Faucon.md) *(B1)* - 1/3  
+  - [Grive](./Grive.md) *(AM)* - 1/3  
+  - [Hérisson](./Hérisson.md) *(AM)* - 1/8  
+  - [Lézard](./Lézard.md) *(B1)* - 1/6  
+  - [Loutre](./Loutre.md) *(B3)* - 1/4  
+  - [Manchot](./Manchot.md) *(B5)* - 1/3  
+  - [Mille-pattes domestique](./Mille-pattes domestique.md) *(AM)* - 1/8  
+  - [Ornithorynque](./Ornithorynque.md) *(B4)* - 1/6  
+  - [Paresseux](./Paresseux.md) *(B4)* - 1/6  
+  - [Petit panda](./Petit panda.md) *(B5)* - 1/2  
+  - [Phoque](./Phoque.md) *(B5, SS1/6)* - 1/3  
+  - [Pieuvre à anneaux bleus](./Pieuvre à anneaux bleus.md) *(AM)* - 1/2  
+  - [Poulet](./Poulet.md) *(B5)* - 1/6  
+  - [Rat](./Rat.md) *(B1)* - 1/4  
+  - [Rat-âne](./Rat-âne.md) *(AM)* - 1/4  
+  - [Raton laveur](./Raton laveur.md) *(B3)* - 1/2  
+  - [Renard](./Renard.md) *(B3, AM)* - 1/4  
+  - [Roussette](./Roussette.md) *(B5)* - 1/3  
+  - [Singe](./Singe.md) *(B1)* - 1/4  
+  - [Trilobite](./Trilobite.md) *(B5)* - 1/4  
+  - [Tuatara](./Tuatara.md) *(B4)* - 1/4  
+  - [Vipère](./Vipère.md) *(B1)* - 1/2  
+- [Fantôme humain](./Fantôme humain.md) *(B1)* - 7  
+- [Fantôme libéré](./Fantôme libéré.md) *(B5)* - 4  
+- [Farfadet](./Farfadet.md) *(B2)* - 2  
+- [Fastachi](./Fastachi.md) *(B5)* - 11  
+- Faucheuse
+  - [Faucheuse](./Faucheuse.md) *(B5, CP6/6)* - 22  
+  - [Mort partielle / Faucheuse mineure](./Faucheuse mineure.md) *(B5, CP6/6)* - 16  
+- [Faune](./Faune.md) *(B3)* - 1  
+- [Félin des mers](./Félin des mers.md) *(B4, SS2/6)* - 4  
+- Félin
+  - [Guépard](./Guépard.md) *(B1)* - 2  
+  - [Léopard](./Léopard.md) *(B1)* - 2  
+- [Fer de hache](./Fer de hache.md) *(B3)* - 2  
+- [Festrog](./Festrog.md) *(B3)* - 1  
+- [Fetchelin](./Fetchelin.md) *(B2)* - 1/2  
+- [Feu de Saint-Elme](./Feu de Saint-Elme.md) *(B4, SS3/6)* - 4  
+- [Feu follet](./Feu follet.md) *(B1)* - 6  
+- [Fext](./Fext.md) *(B5, RH5/6)* - 10  
+- [Fiélon sargasse](./Fiélon sargasse.md) *(B3)* - 9  
+- [Filles de la Maladie](./Filles dUrgathoa.md) *(CCMI, MTE2/6)* - 8  
+- [Firbolg](./Firbolg.md) *(B5)* - 4  
+- [Fléau des forêts](./Fléau des Arbres.md) *(CCMI, RT5/6)* - 25  
+- [Fléau des mers](./Fléau des mers.md) *(GDC)* - 6  
+- [Fléau parasitaire](./Fléau parasitaire.md) *(B5)* - 5  
+- [Fleur de lune](./Fleur de lune.md) *(B2, RT2/6)* - 8  
+- [Flot glacial](./Flot glacial.md) *(B4)* - 4  
+- [Flumph](./Flumph.md) *(B3, MM)* - 1  
+- [Foetus en bocal](./Foetus en bocal.md) *(B4)* - 1  
+- [Fongoïde violet](./Fongoïde violet.md) *(B1)* - 3  
+- [Forlarren](./Forlarren.md) *(B2)* - 2  
+- Formien
+  - [Contremaître formien](./Contremaître formien.md) *(B4)* - 7  
+  - [Guerrière formienne](./Guerrière formienne.md) *(B4)* - 3  
+  - [Myrmarque formien](./Myrmarque formien.md) *(B4)* - 10  
+  - [Ouvrier formien](./Ouvrier formien.md) *(B4)* - 1/2  
+  - [Reine formienne](./Reine formienne.md) *(B4)* - 17  
+- Fourmi
+  - [Fourmi chevalière](./Fourmi chevalière.md) *(B5)* - 4  
+  - [Fourmi géante](./Fourmi géante.md) *(B1)* - 2  
+  - [Fourmi mégapon](./Fourmi mégapon.md) *(B5)* - 6  
+  - [Nuée de fourmis soldats](./Nuée de fourmis soldats.md) *(B1)* - 5  
+- Fourmilion
+  - [Fourmilion adulte géant](./Fourmilion adulte géant.md) *(B3)* - 6  
+  - [Fourmilion géant](./Fourmilion géant.md) *(B3)* - 5  
+- [Froghémoth](./Froghémoth.md) *(B1)* - 13  
+- [Fumigon](./Fumigon.md) *(B2)* - 6  
+
+</div>
+
+
+### G
+<div class="article_3col">
+- [Gaki](./Gaki.md) *(B4)* - 7  
+- [Gale chagrine](./Gale chagrine.md) *(B5)* - 6  
+- [Galvo](./Galvo.md) *(B4, SS5/6)* - 9  
+- Gar
+  - [Gar](./Gar.md) *(B2)* - 1  
+  - [Gar géant](./Gar géant.md) *(B2)* - 6  
+- Gardien divin
+  - [Hydre gardienne divine](./hydre gardienne divine.md) *(B4)* - 5  
+- [Gardien pharaonique](./Gardien pharaonique.md) *(B5)* - 11  
+- [Gardien tombal](./Gardien tombal.md) *(B3)* - 5  
+- Gargouille
+  - [Gargouille](./Gargouille.md) *(B1)* - 4  
+- [Garou-chacal](./Garou-chacal.md) *(B3)* - 2  
+- [Garuda](./Garuda.md) *(B3)* - 9  
+- [Gashadokuro](./Gashadokuro.md) *(B4, RJ6/6)* - 13  
+- [Gathelain](./Gathelain.md) *(B4)* - 1/2  
+- Géant du feu
+  - [Géant du feu](./Géant du feu.md) *(B1)* - 10  
+- Géant du froid
+  - [Géant du froid](./Géant du froid.md) *(B1)* - 9  
+- Géant
+  - [Géant de cendre](./Géant de cendre.md) *(B3)* - 11  
+  - [Géant de la jungle](./Géant de la jungle.md) *(B3)* - 10  
+  - [Géant de la lune](./Géant de la lune.md) *(B5)* - 15  
+  - [Géant de la taïga](./Géant de la taïga.md) *(B2, ESR4/6)* - 12  
+  - [Géant de pierre](./Géant de pierre.md) *(B1)* - 8  
+  - [Géant des bois](./Géant des bois.md) *(B2)* - 6  
+  - [Géant des collines](./Géant des collines.md) *(B1)* - 7  
+  - [Géant des éclipses](./Géant des éclipses.md) *(B5)* - 19  
+  - [Géant des falaises](./Géant des falaises.md) *(B4)* - 9  
+  - [Géant des grottes](./Géant des grottes.md) *(B3)* - 6  
+  - [Géant des marais](./Géant des marais.md) *(B2, ESR5/6)* - 8  
+  - [Géant des nuages](./Géant des nuages.md) *(B1)* - 11  
+  - [Géant des océans](./Géant des océans.md) *(B4)* - 14  
+  - [Géant des rivières](./Géant des rivières.md) *(B4)* - 6  
+  - [Géant des runes](./Géant des runes.md) *(B2, ESR6/6)* - 17  
+  - [Géant des scories](./Géant des scories.md) *(B4)* - 7  
+  - [Géant des tempêtes](./Géant des tempêtes.md) *(B1)* - 13  
+  - [Géant du désert](./Géant du désert.md) *(B3)* - 9  
+  - [Géant du soleil](./Géant du soleil.md) *(B5)* - 16  
+- [Geist](./Geist.md) *(B4)* - 9  
+- [Gelée ocre](./Gelée ocre.md) *(B1)* - 5  
+- Génie
+  - [Djinn](./Djinn.md) *(B1)* - 5  
+  - [Efrit](./Efrit.md) *(B1)* - 8  
+  - [Jann](./Jann.md) *(B1)* - 4  
+  - [Marid](./Marid.md) *(B1)* - 9  
+  - [Shaitan](./Shaitan.md) *(B1, RT6/6)* - 7  
+- [Gholdako](./Gholdako.md) *(B4, GDC)* - 10  
+- [Ghoran](./Ghoran.md) *(B5, BMI)* - 1  
+- [Ghorazagh](./Ghorazagh.md) *(B3, CV5/6)* - 13  
+- [Ghul](./Ghul.md) *(B3, GK)* - 5  
+- [Girallon](./Girallon.md) *(B1)* - 6  
+- [Girtablilu](./Girtablilu.md) *(B3)* - 8  
+- [Globster](./Globster.md) *(B3)* - 5  
+- [Glouton](./Glouton.md) *(B1)* - 2  
+- [Glouton sanguinaire](./Glouton sanguinaire.md) *(B1)* - 4  
+- [Glutineux](./Glutineux.md) *(B3, MM)* - 3  
+- Gnoll
+  - [Gnoll](./Gnoll.md) *(B1)* - 1  
+- Gobelin
+  - [Gobelin](./Gobelin.md) *(B1)* - 1/3  
+- Gobelours
+  - [Gobelours](./Gobelours.md) *(B1)* - 2  
+- Golem
+  - [Golem alchimique](./Golem alchimique.md) *(B2)* - 9  
+  - [Golem canon](./Golem canon.md) *(B3)* - 15  
+  - [Golem d'adamantium](./Golem dadamantium.md) *(B2)* - 19  
+  - [Golem d'argile](./Golem dargile.md) *(B1)* - 10  
+  - [Golem d'os](./Golem dos.md) *(B3)* - 8  
+  - [Golem de bois](./Golem de bois.md) *(B1)* - 6  
+  - [Golem de chair](./Golem de chair.md) *(B1)* - 7  
+  - [Golem de charogne](./Golem de charogne.md) *(B2, MTE1/6)* - 4  
+  - [Golem de cire](./Golem de cire.md) *(B4)* - 3  
+  - [Golem de corail](./Golem de corail.md) *(B4, GDC)* - 9  
+  - [Golem de cristal](./Golem de cristal.md) *(B5)* - 11  
+  - [Golem de cuivre](./Golem de cuivre.md) *(B3, HF6/6)* - 14  
+  - [Golem de fer](./Golem de fer.md) *(B1)* - 13  
+  - [Golem de glace](./golem de glace.md) *(B1)* - 5  
+  - [Golem de mithral](./Golem de mithral.md) *(B2)* - 16  
+  - [Golem de pacotille](./Golem de pacotille.md) *(B4)* - 4  
+  - [Golem de pierre](./Golem de pierre.md) *(B1)* - 11  
+  - [Golem de plomb](./Golem de plomb.md) *(B5)* - 10  
+  - [Golem de sang](./Golem de sang.md) *(B4)* - 6  
+  - [Golem de verre](./Golem de verre.md) *(B2)* - 8  
+  - [Golem fossile](./Golem fossile.md) *(B3)* - 12  
+  - [Golem mécanique](./Golem mécanique.md) *(B2)* - 12  
+- [Gorgone](./Gorgone.md) *(B1)* - 8  
+- [Gorynych](./Gorynych.md) *(B3)* - 15  
+- [Gouivre](./Gouivre.md) *(B4, CV6/6)* - 12  
+- Goule
+  - [Goule](./Goule.md) *(B1)* - 1  
+  - [Goule de Leng](./Goule de Leng.md) *(B5)* - 10  
+- Grand Ancien
+  - [Bokrug](./Bokrug.md) *(B4)* - 27  
+  - [Cthulhu](./Cthulhu.md) *(B4)* - 30  
+  - [Hastur](./Hastur.md) *(B4)* - 29  
+- Gremlin
+  - [Fuath](./Fuath.md) *(B3)* - 1  
+  - [Haniver](./Haniver.md) *(B4, CV1/6)* - 1/2  
+  - [Hobkins](./Hobkins.md) *(B5)* - 1/2  
+  - [Jinkin](./Jinkin.md) *(B2, DO, HF1/6)* - 1  
+  - [Monaciello](./Monaciello.md) *(B4)* - 1  
+  - [Nuglub](./Nuglub.md) *(B2)* - 2  
+  - [Nuno](./Nuno.md) *(B5)* - 1/2  
+  - [Pugwampi](./Pugwampi.md) *(B2, HF1/6)* - 1/2  
+  - [Tristefripe](./Tristefripe.md) *(B4)* - 1/3  
+  - [Vexgit](./Vexgit.md) *(B2, HF1/6)* - 1  
+- Grenouille
+  - [Grenouille géante](./Grenouille géante.md) *(B1)* - 1  
+  - [Grenouille goliath](./Grenouille goliath.md) *(B5)* - 3  
+  - [Grenouille venimeuse](./Grenouille venimeuse.md) *(B1)* - 1/2  
+  - [Père grenouille](./Père grenouille.md) *(B5)* - 5  
+- [Grick](./Grick.md) *(B2)* - 3  
+- [Griffe du récif](./Griffe du récif.md) *(B2, MTE1/6)* - 1  
+- [Griffon](./Griffon.md) *(B1)* - 4  
+- [Grig](./Grig.md) *(B2)* - 1  
+- [Grindylow](./Grindylow.md) *(B2)* - 1/2  
+- [Grioth](./Grioth.md) *(B5, ID)* - 1  
+- [Grippli](./Grippli.md) *(B2)* - 1/2  
+- [Grodair](./Grodair.md) *(B3, KM6/6)* - 5  
+- [Grootslang](./Grootslang.md) *(B3)* - 16  
+- [Gryph](./Gryph.md) *(B2)* - 1  
+- [Guécube](./Guécube.md) *(B3)* - 8  
+- Guenaude
+  - [Guenaude annis](./Guenaude annis.md) *(B3)* - 6  
+  - [Guenaude arctique](./Guenaude arctique.md) *(B4)* - 7  
+  - [Guenaude de sang](./Guenaude de sang.md) *(B4)* - 8  
+  - [Guenaude des tempêtes](./Guenaude des tempêtes.md) *(B5, RH6/6)* - 7  
+  - [Guenaude marine](./Guenaude marine.md) *(B1)* - 4  
+  - [Guenaude noire](./Guenaude noire.md) *(B1)* - 9  
+  - [Guenaude verte](./Guenaude verte.md) *(B1)* - 5  
+- [Guêpe belliciste](./Guêpe belliciste.md) *(GPM, B5)* - 7  
+- Guêpe
+  - [Guêpe géante](./Guêpe géante.md) *(B1)* - 3  
+  - [Nuée de guêpes](./Nuée de guêpes.md) *(B1)* - 3  
+- [Gug](./Gug.md) *(B2, MTE5/6)* - 10  
+
+</div>
+
+
+### H
+<div class="article_3col">
+- [Habitant de la lumière](./Habitant de la lumière.md) *(B2)* - 5  
+- [Habitant de Leng](./Habitant de Leng.md) *(B2, ESR6/6)* - 8  
+- [Hamadryade](./Hamadryade.md) *(B4)* - 15  
+- [Harceleur caustique](./Harceleur caustique.md) *(B5, TE)* - 7  
+- [Harionago](./Harionago.md) *(B4)* - 11  
+- [Harpie](./Harpie.md) *(B1)* - 4  
+- [Heikegani](./Heikegani.md) *(B5)* - 4  
+- Héraut
+  - [Arcanotheign](./Arcanotheign.md) *(ISG)* - 15  
+  - [Basiléus](./Basiléus.md) *(ISG)* - 15  
+  - [Gueule de la Mère](./Gueule de la Mère.md) *(ISG)* - 15  
+  - [Intendante de l'écheveau](./Intendante de lécheveau.md) *(ISG)* - 15  
+  - [L'Esprit de l'Adoration](./LEsprit de lAdoration.md) *(ISG)* - 15  
+  - [La Bête perforante](./La Bête perforante.md) *(ISG)* - 15  
+  - [La Ménothérienne](./La Ménothérienne.md) *(ISG)* - 15  
+  - [La Première Lame](./La Première Lame.md) *(ISG)* - 15  
+  - [Le Grand Défenseur](./Le Grand Défenseur.md) *(ISG)* - 15  
+  - [Le Prince enchaîné](./Le Prince enchaîné.md) *(ISG)* - 15  
+  - [Le Terrible cerf blanc](./Le Terrible Cerf blanc.md) *(ISG)* - 15  
+  - [Le Vieil Homme](./Le Vieil Homme.md) *(ISG)* - 15  
+  - [Main de l'Héritière](./Main de lHéritière.md) *(ISG)* - 15  
+  - [Messager de la loi](./Messager de la loi.md) *(ISG)* - 15  
+  - [Monarque nocturne](./Monarque nocturne.md) *(ISG)* - 15  
+  - [Personnification de la fureur](./Personnification de la fureur.md) *(ISG)* - 15  
+  - [Seigneur solaire Thalachos](./Seigneur solaire Thalachos.md) *(ISG)* - 15  
+  - [Tarasque](./Tarasque.md) *(ISG)* - 25  
+  - [Thaïs](./Thaïs.md) *(ISG)* - 15  
+  - [Yethazmari](./Yethazmari.md) *(ISG)* - 15  
+- [Hippocampe](./Hippocampe.md) *(B2)* - 1  
+- Hippocampe
+  - [Hippocampe géant](./Hippocampe géant.md) *(B4)* - 3  
+  - [Hippocampe tueur](./Hippocampe tueur.md) *(B4)* - 5  
+- [Hippogriffe](./Hippogriffe.md) *(B2)* - 2  
+- Hippopotame
+  - [Hippopotame](./Hippopotame.md) *(B2)* - 5  
+  - [Hippopotame béhémoth](./Hippopotame béhémoth.md) *(B2)* - 10  
+- Hobgobelin
+  - [Hobgobelin](./Hobgobelin.md) *(B1)* - 1/2  
+- [Hodag](./Hodag.md) *(B3, KM2/6)* - 6  
+- [Homme-brindille](./Homme-brindille.md) *(B2)* - 3  
+- [Homme-félin](./Homme-félin.md) *(B3)* - 1/2  
+- Homme-lézard
+  - [Homme-lézard](./Homme-lézard.md) *(B1)* - 1  
+- [Homme-phalène](./Homme-phalène.md) *(B2, RT4/6)* - 6  
+- [Homme-poisson](./Homme-poisson.md) *(B1)* - 1/3  
+- [Homme-poisson des profondeurs](./Homme-poisson des profondeurs.md) *(B5)* - 3  
+- Homme-rat
+  - [Homme-rat](./Homme-rat.md) *(B3)* - 1/3  
+- Homme-serpent
+  - [Homme-serpent](./Homme-serpent.md) *(B2, DO)* - 4  
+- [Homoncule](./Homoncule.md) *(B1)* - 1  
+- [Horreur chasseresse](./Horreur chasseresse.md) *(B1)* - 11  
+- [Huldre](./Huldre.md) *(B4)* - 4  
+- [Humbaba](./Humbaba.md) *(B3)* - 19  
+- [Hundun](./Hundun.md) *(B5)* - 21  
+- [Hurleur](./Hurleur.md) *(B2)* - 3  
+- [Hutte sentinelle](./Hutte sentinelle.md) *(IPHE)* - 8  
+- [Hyakume](./Hyakume.md) *(B4)* - 15  
+- [Hydre](./Hydre.md) *(B1)* - 4  
+- Hydromètre
+  - [Hydromètre géant](./Hydromètre géant.md) *(B4)* - 1  
+  - [Nymphe d'hydromètre](./Nymphe dhydromètre.md) *(B4)* - 1/4  
+- Hyène
+  - [Hyène](./Hyène.md) *(B1)* - 1  
+  - [Hyène sanguinaire](./Hyène sanguinaire.md) *(B1)* - 3  
+- [Hypnalis](./Hypnalis.md) *(B4)* - 5  
+
+</div>
+
+
+### I
+<div class="article_3col">
+- [Ichor immortel](./Ichor immortel.md) *(B4)* - 17  
+- [Ichtyocentaure](./Ichtyocentaure.md) *(B5)* - 5  
+- [Ifrit](./Ifrit.md) *(B2)* - 1/2  
+- [Ijiraq](./Ijiraq.md) *(B4)* - 9  
+- [Iku-turso](./Iku-turso.md) *(B3)* - 8  
+- [Incutilis](./Incutilis.md) *(B4, SS1/6)* - 2  
+- Indigeste
+  - [Indigeste](./Indigeste.md) *(B5, ESR1/6)* - 1/4  
+  - [Nuée d'indigestes](./Nuée dindigestes.md) *(B5)* - 5  
+- Inévitable
+  - [Arbitre](./Arbitre.md) *(B2)* - 2  
+  - [Kolyarut](./Kolyarut.md) *(B2)* - 12  
+  - [Lhaksharut](./Lhaksharut.md) *(B2)* - 20  
+  - [Marut](./Marut.md) *(B2)* - 15  
+  - [Zélékhut](./Zélékhut.md) *(B2)* - 9  
+- Insecte tueur
+  - [Grand insecte tueur](./Grand insecte tueur.md) *(B5)* - 5  
+  - [Insecte tueur géant](./Insecte tueur géant.md) *(B5)* - 3  
+- [Isitoq](./Isitoq.md) *(B4)* - 1/2  
+- [Isonade](./Isonade.md) *(B5)* - 15  
+
+</div>
+
+
+### J
+<div class="article_3col">
+- [Jabberwocky](./Jabberwocky.md) *(B2)* - 23  
+- [Jack Talons-à-ressort](./Jack Talons-à-ressort.md) *(B4, CP1/6)* - 3  
+- [Jinmenju](./Jinmenju.md) *(B4, RJ6/6)* - 11  
+- [Jorôgumo](./Jorôgumo.md) *(B3)* - 12  
+- [Jube-jube](./Jube-jube.md) *(B3)* - 15  
+- [Juggernaut](./Juggernaut.md) *(B4)* - 11  
+- [Jyoti](./Jyoti.md) *(B2)* - 9  
+
+</div>
+
+
+### K
+<div class="article_3col">
+- Kaiju
+  - [Agyra](./Agyra.md) *(B4)* - 27  
+  - [Bézravnis](./Bézravnis.md) *(B4)* - 26  
+  - [Mogaru](./Mogaru.md) *(B4)* - 28  
+- [Kamadan](./Kamadan.md) *(B3)* - 4  
+- Kami
+  - [Dunagh](./Dunagh.md) *(B5, FF)* - 4  
+  - [Jinushigami](./Jinushigami.md) *(B3)* - 20  
+  - [Kodama](./Kodama.md) *(B3)* - 5  
+  - [Shikigami](./Shikigami.md) *(B3)* - 2  
+  - [Toshigami](./Toshigami.md) *(B3)* - 15  
+  - [Zuishin](./Zuishin.md) *(B3)* - 10  
+- [Kangourou](./Kangourou.md) *(B3)* - 1/2  
+- [Kappa](./Kappa.md) *(B3)* - 2  
+- [Kapré](./Kapré.md) *(B4, SS4/6)* - 10  
+- [Karkadann](./Karkadann.md) *(B5)* - 4  
+- Karkinoï
+  - [Karkinoï](./Karkinoï.md) *(B4)* - 6  
+- [Karumzek](./Karumzek.md) *(ISG)* - 4  
+- [Kasatha](./Kasatha.md) *(B4)* - 1/2  
+- [Kawa akago](./Kawa akago.md) *(B5)* - 3  
+- [Kech](./Kech.md) *(B3)* - 3  
+- [Kelpie](./Kelpie.md) *(B2)* - 4  
+- [Kétesthius](./Kétesthius.md) *(B5)* - 13  
+- [Khala](./Khala.md) *(B5, IPHE)* - 17  
+- [Kikimore](./Kikimore.md) *(B5)* - 5  
+- [Kirin](./Kirin.md) *(B3)* - 7  
+- [Kitsune](./Kitsune.md) *(B4)* - 1/2  
+- Kobold
+  - [Kobold](./Kobold.md) *(B1)* - 1/4  
+- [Kongamato](./Kongamato.md) *(B3)* - 15  
+- [Korred](./Korred.md) *(B2)* - 4  
+- [Kraken](./Kraken.md) *(B1)* - 18  
+- [Krenshar](./Krenshar.md) *(B2)* - 1  
+- [Kurobozu](./Kurobozu.md) *(B5)* - 6  
+- [Kuru](./Kuru.md) *(GDC)* - 1/2  
+- Kyton
+  - [Augure](./monstre Augure.md) *(B3)* - 2  
+  - [Ermite](./Ermite.md) *(B3)* - 20  
+  - [Interlocuteur](./Interlocuteur.md) *(B3)* - 12  
+  - [Kyton](./Kyton.md) *(B1)* - 6  
+  - [Lampadarius](./Lampadarius.md) *(ISG)* - 4  
+  - [Oïtos](./Oïtos.md) *(BD)* - 11  
+  - [Ostiarius](./Ostiarius.md) *(B4)* - 5  
+  - [Sacristain](./Sacristain.md) *(B4)* - 10  
+
+</div>
+
+
+### L
+<div class="article_3col">
+- [Lamhigyn](./Lamhigyn.md) *(B5, CJ4/6)* - 3  
+- [Lamie](./Lamie.md) *(B1)* - 6  
+- [Lamie matriarche](./Lamie matriarche.md) *(B2, B4, ESR2/6)* - 8  
+- [Lammasu](./Lammasu.md) *(B3)* - 8  
+- [Lampade](./Lampade.md) *(B4)* - 5  
+- [Larabai](./Larabai.md) *(B5, GDC)* - 11  
+- [Larme du soleil fou](./Larme de Nuruugal.md) *(CPG)* - 6  
+- [Larve stellaire de Cthulhu](./Larve stellaire de Cthulhu.md) *(B4, CP4/6)* - 20  
+- Léchi
+  - [Léchi attrape-mouche](./Léchi attrape-mouche.md) *(B5)* - 4  
+  - [Léchi calebasse](./Léchi calebasse.md) *(B3)* - 1  
+  - [Léchi d'algues](./Léchi dalgues.md) *(B3)* - 3  
+  - [Léchi de feuilles](./Léchi de feuilles.md) *(B3)* - 1/2  
+  - [Léchi fongique](./Léchi fongique.md) *(B3, KM4/6)* - 2  
+  - [Léchi lotus](./Léchi lotus.md) *(B5)* - 5  
+- [Leucrotta](./Leucrotta.md) *(B2, RT5/6)* - 5  
+- [Léviathan astral](./Léviathan astral.md) *(B4)* - 18  
+- Lézard de vase
+  - [Lézard de vase](./Lézard de vase.md) *(B5)* - 1/4  
+  - [Lézard de vase géant](./Lézard de vase géant.md) *(B5)* - 2  
+- [Lézard voltaïque](./Lézard voltaïque.md) *(B1)* - 2  
+- Lézard
+  - [Caméléon géant](./Caméléon géant.md) *(B3)* - 3  
+  - [Gecko géant](./Gecko géant.md) *(B3, ESR1/6)* - 1  
+  - [Lézard à collerette géant](./Lézard à collerette géant.md) *(B1)* - 5  
+  - [Varan](./Varan.md) *(B1)* - 2  
+- [Liane meurtrière](./Liane meurtrière.md) *(B1)* - 3  
+- [Liane-serpent](./Liane-serpent.md) *(B2)* - 13  
+- Libellule géante
+  - [Libellule géante](./Libellule géante.md) *(B2)* - 4  
+  - [Nymphe de libellule géante](./Nymphe de libellule géante.md) *(B2)* - 3  
+- [Liche](./Liche.md) *(B1)* - 12  
+- [Licorne](./Licorne.md) *(B1)* - 3  
+- [Limace géante](./Limace géante.md) *(B1)* - 8  
+- [Limon de poudre noire](./Limon de poudre noire.md) *(B5, GFR)* - 14  
+- Linnorm
+  - [Linnorm de la taïga](./Linnorm de la taïga.md) *(B3)* - 19  
+  - [Linnorm de roche](./Linnorm de roche.md) *(B3)* - 21  
+  - [Linnorm des cairns](./Linnorm des cairns.md) *(B3)* - 18  
+  - [Linnorm des falaises](./Linnorm des falaises.md) *(B1)* - 14  
+  - [Linnorm des fjords](./Linnorm des fjords.md) *(B3)* - 16  
+  - [Linnorm des glaces](./Linnorm des glaces.md) *(B1)* - 17  
+  - [Linnorm des lacs](./Linnorm des lacs.md) *(B1)* - 20  
+- Lion
+  - [Lion](./Lion.md) *(B1)* - 3  
+  - [Lion sanguinaire](./Lion sanguinaire.md) *(B1)* - 5  
+- [Locathah](./Locathah.md) *(B2)* - 1/2  
+- [Lorelei](./Lorelei.md) *(B4, SS6/6)* - 12  
+- [Lotus funéraire](./Lotus funéraire.md) *(B5, CJ6/6)* - 13  
+- Loup
+  - [Loup](./Loup.md) *(B1)* - 1  
+  - [Loup sanguinaire](./Loup sanguinaire.md) *(B1)* - 3  
+- [Lukwata](./Lukwata.md) *(B3)* - 11  
+- [Lunarme](./Lunarme.md) *(B4)* - 6  
+- [Lusque](./Lusque.md) *(B5, GDC)* - 17  
+- [Lutin](./Lutin.md) *(B2)* - 1  
+- [Lutin des dents](./Lutin des dents.md) *(B4)* - 1/4  
+- Lycanthrope
+  - [Chauve-souris garou](./Chauve-souris garou.md) *(B4, CP3/6)* - 3  
+  - [Crocodile garou](./Crocodile garou.md) *(B4, SS4/6)* - 3  
+  - [Loup-garou](./Loup-garou.md) *(B1)* - 2  
+  - [Ours-garou](./Ours-garou.md) *(B2)* - 4  
+  - [Rat-garou](./Rat-garou.md) *(B1)* - 2  
+  - [Requin garou](./Requin garou.md) *(B4, GDC)* - 3  
+  - [Sanglier-garou](./Sanglier-garou.md) *(B2)* - 2  
+  - [Tigre-garou](./Tigre-garou.md) *(B2)* - 4  
+
+</div>
+
+
+### M
+<div class="article_3col">
+- [Maénade](./Maénade.md) *(B4)* - 8  
+- [Maftet](./Maftet.md) *(B3, RT3/6)* - 6  
+- [Magmatique](./Magmatique.md) *(B3)* - 3  
+- Main rampante
+  - [Main rampante](./Main rampante.md) *(B2)* - 1/2  
+  - [Main rampante géante](./Main rampante géante.md) *(B2)* - 5  
+- [Manananggal](./Manananggal.md) *(B3)* - 7  
+- Manasaputra
+  - [Manu](./Manu.md) *(B5)* - 12  
+  - [Manu maharishi](./Manu maharishi.md) *(B5)* - 16  
+  - [Manu rishi](./Manu rishi.md) *(B5)* - 14  
+  - [Pitri crépusculaire](./Pitri crépusculaire.md) *(B5)* - 18  
+- [Mandragore](./Mandragore.md) *(B2, RT5/6)* - 4  
+- [Manitou](./Manitou.md) *(B4)* - 15  
+- [Mante géante](./Mante géante.md) *(B1)* - 3  
+- [Mante obscure](./Mante obscure.md) *(B1)* - 1  
+- [Manteleur](./Manteleur.md) *(B1)* - 5  
+- [Manticore](./Manticore.md) *(B1)* - 5  
+- [Marchand de sable](./Marchand de sable.md) *(B2)* - 3  
+- [Mécafantôme](./Mécafantôme.md) *(B4)* - 5  
+- [Méduse](./Méduse.md) *(B1)* - 7  
+- Méduse
+  - [Méduse à tête de mort](./Méduse à tête de mort.md) *(B3)* - 1  
+  - [Méduse géante](./Méduse géante.md) *(B2)* - 7  
+  - [Méduse saphir](./Méduse saphir.md) *(B3)* - 11  
+  - [Nuée de méduses](./Nuée de méduses.md) *(B2)* - 6  
+- Mégafaune
+  - [Archelon](./Archelon.md) *(B3)* - 5  
+  - [Arsinoithérium](./Arsinoithérium.md) *(B2)* - 7  
+  - [Baluchithérium](./Baluchithérium.md) *(B3)* - 8  
+  - [Basilosaure](./Basilosaure.md) *(B3)* - 12  
+  - [Chalicothérium](./Chalicothérium.md) *(B5)* - 6  
+  - [Glyptodonte](./Glyptodonte.md) *(B2)* - 6  
+  - [Kaprosuchus](./Kaprosuchus.md) *(B5)* - 5  
+  - [Mégalania](./Mégalania.md) *(B3)* - 7  
+  - [Mégalocéros](./Mégalocéros.md) *(B2, KM1/6)* - 4  
+  - [Mégathérium](./Mégathérium.md) *(B2)* - 5  
+  - [Moa](./Moa.md) *(B5)* - 2  
+  - [Uintathérium](./Uintathérium.md) *(B5)* - 7  
+- [Méphite](./Méphite.md) *(B1)* - 3  
+- [Mercane](./Mercane.md) *(B2)* - 5  
+- Merrow
+  - [Merrow d'eau de mer](./Merrow deau de mer.md) *(B2)* - 6  
+  - [Merrow d'eau douce](./Merrow deau douce.md) *(B2)* - 3  
+- [Mi-go](./Mi-go.md) *(B4, CP4/6)* - 6  
+- [Mihstu](./Mihstu.md) *(B2)* - 8  
+- Mille-pattes
+  - [Mille-pattes à queue fouettante](./Mille-pattes à queue fouettante.md) *(B2)* - 3  
+  - [Mille-pattes géant](./Mille-pattes géant.md) *(B1)* - 1/2  
+  - [Mille-pattes titanesque](./Mille-pattes titanesque.md) *(B2)* - 9  
+  - [Nuée de mille-pattes](./Nuée de mille-pattes.md) *(B1)* - 4  
+- [Mimique](./Mimique.md) *(B1)* - 4  
+- [Minotaure](./Minotaure.md) *(B1)* - 4  
+- [Mirage vivant](./Mirage vivant.md) *(B5)* - 9  
+- [Mite](./Mite.md) *(B1)* - 1/4  
+- [Mngwa](./Mngwa.md) *(B5)* - 7  
+- [Mobogo](./Mobogo.md) *(B3, MTE6/6)* - 10  
+- [Mohrg](./Mohrg.md) *(B1)* - 8  
+- [Moisissure esclavagiste](./Moisissure esclavagiste.md) *(B4)* - 3  
+- [Moisissure jaune](./Moisissure jaune.md) *(B1)* - 2  
+- [Moisissure vaseuse](./Moisissure vaseuse.md) *(B2)* - 2  
+- Molosse infernal
+  - [Molosse infernal](./Molosse infernal.md) *(B1)* - 3  
+  - [Molosse nessien](./Molosse nessien.md) *(B1)* - 9  
+- [Momie](./Momie.md) *(B1)* - 5  
+- Momie
+  - [Momie des marais](./Momie des marais.md) *(B5)* - 4  
+  - [Seigneur momie humain](./Seigneur momie humain.md) *(B5)* - 10  
+- [Morlock](./Morlock.md) *(B1, DO)* - 2  
+- Morse
+  - [Morse](./Morse.md) *(B4)* - 3  
+  - [Morse empereur](./Morse empereur.md) *(B4)* - 8  
+- [Mouche géante](./Mouche géante.md) *(B2, MTE2/6)* - 1  
+- Moufette
+  - [Moufette](./Moufette.md) *(B3)* - 1/4  
+  - [Moufette géante](./Moufette géante.md) *(B3)* - 3  
+- Moustique
+  - [Moustique géant](./Moustique géant.md) *(B2)* - 6  
+  - [Nuée de moustiques](./Nuée de moustiques.md) *(B2)* - 3  
+- [Mur vivant](./Mur vivant.md) *(B4)* - 4  
+- [Muse](./Muse.md) *(B5)* - 16  
+- Mutant
+  - [Orque mutant](./Orque mutant.md) *(B5)* - 7  
+- [Mycéloïde](./Mycéloïde.md) *(B3)* - 4  
+
+</div>
+
+
+### N
+<div class="article_3col">
+- Naga
+  - [Naga aquatique](./Naga aquatique.md) *(B3)* - 7  
+  - [Naga corrupteur](./naga corrupteur.md) *(B1)* - 9  
+  - [Naga gardien](./Naga gardien.md) *(B1)* - 10  
+  - [Naga lunaire](./Naga lunaire.md) *(B3)* - 6  
+  - [Naga royal](./Naga royal.md) *(B3, CV3/6)* - 11  
+  - [Naga ténébreux](./Naga ténébreux.md) *(B1)* - 8  
+- [Nagaji](./Nagaji.md) *(B4)* - 1/2  
+- [Nécroforgé](./Nécroforgé.md) *(B4)* - 3  
+- [Nécrophage](./Nécrophage.md) *(B1)* - 3  
+- [Nécrophage des glaces](./Nécrophage des glaces.md) *(B2)* - 17  
+- [Nécrophidius](./Nécrophidius.md) *(B2)* - 3  
+- [Neh-thalggu](./Neh-thalggu.md) *(B2)* - 8  
+- [Nemhain](./Nemhain.md) *(B5)* - 15  
+- [Néothélide](./Néothélide.md) *(B1, DO)* - 15  
+- [Népendis](./Népendis.md) *(B4)* - 9  
+- [Néphilim](./Néphilim.md) *(B3, HF5/6)* - 8  
+- [Néréide](./Néréide.md) *(B2)* - 10  
+- [Ningen](./Ningen.md) *(B5)* - 16  
+- [Ningyo](./Ningyo.md) *(B4)* - 1  
+- [Nirento](./Nirento.md) *(GDC)* - 4  
+- [Nirento ancestral](./Nirento ancestral.md) *(GDC)* - 6  
+- [Nixe](./Nixe.md) *(B3)* - 1  
+- [Norne](./Norne.md) *(B3)* - 18  
+- [Nuckelavee](./Nuckelavee.md) *(B3, KM4/6)* - 9  
+- [Nue](./Nue.md) *(B3)* - 10  
+- [Nuée de singes](./Nuée de singes.md) *(B2)* - 2  
+- [Nycar](./Nycar.md) *(B4)* - 2  
+- [Nymphe](./Nymphe.md) *(B1)* - 7  
+
+</div>
+
+
+### O
+<div class="article_3col">
+- [Objet animé](./Objet animé.md) *(B1)* - 3  
+- Obscurien
+  - [Caligni](./Caligni.md) *(B5)* - 1/2  
+  - [Danseur obscur](./Danseur obscur.md) *(B4)* - 1  
+  - [Fureteur obscur](./Fureteur obscur.md) *(B1)* - 2  
+  - [Suppliant obscur](./Suppliant obscur.md) *(B4)* - 5  
+  - [Traqueur obscur](./Traqueur obscur.md) *(B1)* - 4  
+  - [Tueur obscur](./Tueur obscur.md) *(B2)* - 3  
+- [Obscurité du désespoir](./Obscurité du désespoir.md) *(B5)* - 9  
+- [Océanide](./Océanide.md) *(B4)* - 7  
+- [Octopode laineux](./Octopode laineux.md) *(B5)* - 3  
+- Ogre
+  - [Ogre](./Ogre.md) *(B1)* - 3  
+- [Ogrelin humain](./Ogrelin Humain.md) *(B2)* - 2  
+- [Oiseau-tonnerre](./Oiseau-tonnerre.md) *(B2)* - 11  
+- [Oma](./Oma.md) *(B4, MPML)* - 16  
+- Ombre
+  - [Ombre](./Ombre.md) *(B1)* - 3  
+  - [Ombre supérieure](./Ombre supérieure.md) *(B1)* - 8  
+- [Ondin](./Ondin.md) *(B2)* - 1/2  
+- Oni
+  - [Esprit Oni](./Esprit Oni.md) *(B3)* - 2  
+  - [Kuwa](./Kuwa.md) *(B3)* - 4  
+  - [Najikai](./Najikai.md) *(BD)* - 8  
+  - [Ogre mage](./Ogre mage.md) *(B1)* - 8  
+  - [Yai de glace](./Yai de glace.md) *(B3)* - 14  
+  - [Yai de l'eau](./Yai de leau.md) *(B3)* - 18  
+  - [Yai du feu](./Yai du feu.md) *(B3)* - 15  
+  - [Yai du vide](./Yai du vide.md) *(B3)* - 20  
+- [Orang-pendak](./Orang-pendak.md) *(B5)* - 1/2  
+- [Oréade](./Oréade.md) *(B2)* - 1/2  
+- [Orm aquatique](./Orm aquatique.md) *(B2)* - 10  
+- Orque
+  - [Orque](./Orque.md) *(B1)* - 1/3  
+- [Orsheval](./Orsheval.md) *(ISG)* - 4  
+- [Ostovite](./Ostovite.md) *(B5)* - 1  
+- [Otyugh](./Otyugh.md) *(B1)* - 4  
+- [Ours-hibou](./Ours-hibou.md) *(B1)* - 4  
+- Ours
+  - [Grizzly](./Grizzly.md) *(B1)* - 4  
+  - [Ours polaire](./Ours polaire.md) *(B5, RH1/6)* - 5  
+  - [Ours polaire sanguinaire](./Ours polaire sanguinaire.md) *(B5)* - 8  
+  - [Ours sanguinaire](./Ours sanguinaire.md) *(B1)* - 7  
+- Oursin géant
+  - [Oursin chasseur](./Oursin chasseur.md) *(B5)* - 1  
+  - [Oursin lancier](./Oursin lancier.md) *(B5)* - 4  
+- [Owb](./Owb.md) *(B4)* - 6  
+- [Oxydeur](./Oxydeur.md) *(B1)* - 3  
+
+</div>
+
+
+### P
+<div class="article_3col">
+- [Pantin des âmes](./Pantin des âmes.md) *(B4)* - 7  
+- [Papillon sinistre](./Papillon sinistre.md) *(B2)* - 4  
+- [Papinijuwari](./Papinijuwari.md) *(B5)* - 13  
+- Parasite
+  - [Asticot géant](./Asticot géant.md) *(B3, CV1/6)* - 3  
+  - [Nuée d'asticots](./nuée dasticots.md) *(B3, CV1/6)* - 7  
+- [Parchemin protecteur](./Parchemin protecteur.md) *(B5)* - 3  
+- [Parde](./Parde.md) *(B4)* - 3  
+- [Pavbagha](./Pavbagha.md) *(ISG)* - 4  
+- [Peau déchiquetée](./Peau déchiquetée.md) *(B4)* - 2  
+- [Pech](./Pech.md) *(B2)* - 3  
+- [Pêcheur des grottes](./Pêcheur des grottes.md) *(B1)* - 2  
+- [Pégase](./Pégase.md) *(B1)* - 3  
+- [Pélude](./Pélude.md) *(B4, KM3/6)* - 10  
+- [Penanggalan](./Penanggalan.md) *(B3)* - 5  
+- [Péri](./Péri.md) *(B3)* - 14  
+- [Péryton](./Péryton.md) *(B2, HF1/6)* - 4  
+- [Petit-gris](./Petit-gris.md) *(B5)* - 4  
+- [Pétitionnaire humain](./Pétitionnaire humain.md) *(B2)* - 1  
+- [Pétrole effervescent](./Pétrole effervescent.md) *(B5)* - 6  
+- [Peuchen](./Peuchen.md) *(B5)* - 10  
+- [Phoenix](./Phoenix.md) *(B1)* - 15  
+- [Phycomide](./Phycomide.md) *(B2)* - 4  
+- Pieuvre
+  - [Pieuvre](./Pieuvre.md) *(B1)* - 1  
+  - [Pieuvre géante](./Pieuvre géante.md) *(B1)* - 8  
+- [Pipeau](./Pipeau.md) *(B3, MM)* - 8  
+- Pirate mort-vivant
+  - [Capitaine draugr](./Capitaine draugr.md) *(GDC)* - 4  
+  - [Capitaine fantôme](./Capitaine fantôme.md) *(GDC)* - 7  
+  - [Pirate draugr](./Pirate draugr.md) *(GDC)* - 3  
+- [Pixie](./Pixie.md) *(B1)* - 4  
+- [Plankta](./Plankta.md) *(B5)* - 17  
+- [Plante flagelleuse](./Plante flagelleuse.md) *(B4)* - 2  
+- [Poisson diable](./Poisson diable.md) *(B2, MTE1/6)* - 4  
+- [Polong](./Polong.md) *(B5)* - 8  
+- [Poltergeist](./Poltergeist.md) *(B2)* - 2  
+- [Polype volant](./Polype volant.md) *(B4)* - 14  
+- [Pooka](./Pooka.md) *(B4)* - 2  
+- [Popobala](./Popobala.md) *(B3)* - 15  
+- Porc-épic
+  - [Porc-épic](./Porc-épic.md) *(B3)* - 1/4  
+  - [Porc-épic géant](./Porc-épic géant.md) *(B3)* - 2  
+- [Pouding noir](./Pouding noir.md) *(B1)* - 7  
+- [Poupée de garde](./Poupée de garde.md) *(IPHE)* - 3  
+- [Poupée des âmes](./Poupée des âmes.md) *(B2, MTE1/6)* - 2  
+- Profond
+  - [Hybride profond](./Hybride profond.md) *(B5)* - 1/2  
+  - [Profond](./Profond.md) *(B5)* - 1  
+  - [Seigneur profond](./Seigneur profond.md) *(B5)* - 14  
+- Protéen
+  - [Imentesh](./Imentesh.md) *(B2, HF4/6)* - 10  
+  - [Kékétar](./Kékétar.md) *(B2)* - 17  
+  - [Naunet](./Naunet.md) *(B2, HF4/6)* - 7  
+  - [Ver du néant](./Ver du néant.md) *(B2)* - 2  
+- [Pseudo-dragon](./Pseudo-dragon.md) *(B1)* - 1  
+- [Psychémentaire](./Psychémentaire.md) *(B5)* - 8  
+- [Psychépore](./Psychépore.md) *(B5)* - 7  
+- Psychopompe
+  - [Ahmuuth](./Ahmuuth.md) *(ISG)* - 4  
+  - [Catrina](./Catrina.md) *(B4)* - 5  
+  - [Morrigna](./Morrigna.md) *(B4, CP6/6)* - 13  
+  - [Nosoï](./Nosoï.md) *(B4, CP5/6)* - 2  
+  - [Vanth](./Vanth.md) *(B4, CP5/6)* - 7  
+  - [Yamaraj](./Yamaraj.md) *(B4, CP6/6)* - 20  
+- Puce
+  - [Puce cyclopéenne](./Puce cyclopéenne.md) *(B4)* - 2  
+  - [Puce géante](./Puce géante.md) *(B4)* - 1/2  
+- [Pukwudgie](./Pukwudgie.md) *(B3)* - 7  
+- [Pumassue](./Pumassue.md) *(B5)* - 3  
+- [Pyrauste](./Pyrauste.md) *(B5)* - 1/4  
+
+</div>
+
+
+### Q
+<div class="article_3col">
+- [Qallupilluk](./Qallupilluk.md) *(B4, RJ, 3/6)* - 7  
+- Qlippoth
+  - [Augnagar](./augnagar.md) *(B2)* - 14  
+  - [Chernobue](./Chernobue.md) *(B2)* - 12  
+  - [Cythnigot](./Cythnigot.md) *(B2)* - 2  
+  - [Deinochos](./Deinochos.md) *(BD)* - 5  
+  - [Iathavos](./Iathavos.md) *(B2)* - 20  
+  - [Nyogoth](./Nyogoth.md) *(B2)* - 10  
+  - [Shoggti](./Shoggti.md) *(B2)* - 7  
+  - [Thognorok](./Thognorok.md) *(ISG)* - 4  
+  - [Thulgant](./Thulgant.md) *(B2)* - 18  
+
+</div>
+
+
+### R
+<div class="article_3col">
+- [Racine hématophage / Racine-sangsue](./Racine hématophage.md) *(B5, LMA)* - 4  
+- Raie des profondeurs
+  - [Capuche du bourreau](./capuche du bourreau.md) *(B4, MM)* - 2  
+  - [Piégeuse](./piégeuse.md) *(B4, MM)* - 8  
+  - [Traqueur-du-dessus](./Traqueur-du-dessus.md) *(B4, MM)* - 7  
+- [Raie manta feuillue](./Raie manta feuillue.md) *(B4)* - 1  
+- Raie
+  - [Raie à aiguillon](./Raie à aiguillon.md) *(B2, B4)* - 1/2  
+  - [Raie manta](./Raie manta.md) *(B2, B4)* - 1  
+- Rakshasa
+  - [Dandasuka](./Dandasuka.md) *(B3)* - 5  
+  - [Maharadjah](./Maharadjah.md) *(B3, MTE3/6)* - 20  
+  - [Maraï](./Maraï.md) *(B3)* - 8  
+  - [Orsatka](./Orsatka.md) *(BD)* - 13  
+  - [Rakshasa](./Rakshasa.md) *(B1)* - 10  
+  - [Raktavarna](./Raktavarna.md) *(B3, MTE1/6)* - 2  
+  - [Tataka](./Tataka.md) *(B3)* - 15  
+- [Ramidreju](./Ramidreju.md) *(B5)* - 1/2  
+- [Rampant des failles](./Rampant des failles.md) *(B5, GPM)* - 15  
+- [Rampant fongique](./Rampant fongique.md) *(B2, RT1/6)* - 3  
+- [Rast](./Rast.md) *(B2)* - 5  
+- [Rat royal](./Rat royal.md) *(B4)* - 5  
+- Rat
+  - [Nuée de rats](./Nuée de rats.md) *(B1)* - 2  
+  - [Rat sanguinaire](./Rat sanguinaire.md) *(B1)* - 1/3  
+- [Ratelin](./Ratelin.md) *(B4, RJ2/6)* - 2  
+- [Ravageur gris](./Ravageur gris.md) *(B2)* - 8  
+- [Réceptacle des âmes](./Réceptacle des âmes.md) *(B4)* - 12  
+- [Reflet spirituel](./Reflet spirituel.md) *(B4)* - 2  
+- [Reine sanglante](./Reine sanglante.md) *(GDC)* - 23  
+- [Reine sorcière / Reine flétrie](./Reine sorcière.md) *(B5, RH6/6)* - 15  
+- [Rejeton de Yog-Sothoth](./Rejeton de Yog-Sothoth.md) *(B4)* - 10  
+- [Rejeton du péché](./Rejeton du péché.md) *(B2, ESR1/6)* - 2  
+- [Rémorhaz](./Rémorhaz.md) *(B1)* - 7  
+- [Renard serpentin](./Renard serpentin.md) *(B4)* - 2  
+- [Reptoïde](./Reptoïde.md) *(B5)* - 1/2  
+- Requin
+  - [Grand requin blanc](./Grand requin blanc.md) *(B4, SS3/6)* - 4  
+  - [Requin](./Requin.md) *(B1)* - 2  
+  - [Requin bouledogue](./Requin bouledogue.md) *(B4)* - 2  
+  - [Requin sanguinaire](./Requin sanguinaire.md) *(B1)* - 9  
+- [Rêve animé](./Rêve animé.md) *(B2)* - 8  
+- [Revenant](./Revenant.md) *(B2, ESR2/6)* - 6  
+- Rhinocéros
+  - [Rhinocéros](./Rhinocéros.md) *(B1)* - 4  
+  - [Rhinocéros laineux](./Rhinocéros laineux.md) *(B1)* - 6  
+- [Rhu-chalik](./Rhu-chalik.md) *(B5)* - 6  
+- Robot
+  - [Annihilateur](./Annihilateur.md) *(B5, BMI)* - 16  
+  - [Machiniste](./Machiniste.md) *(B5, BMI)* - 4  
+  - [Myrmidon](./Myrmidon.md) *(B5, BMI)* - 11  
+  - [Terraformeur](./Terraformeur.md) *(B5)* - 7  
+- [Roc](./Roc.md) *(B1)* - 9  
+- [Roi maudit](./Roi maudit.md) *(B5)* - 10  
+- [Rokurokubi](./Rokurokubi.md) *(B4, RJ6/6)* - 14  
+- [Roseau étrangleur](./Roseau étrangleur.md) *(B5)* - 9  
+- [Roussalka](./Roussalka.md) *(B3)* - 12  
+- Rukh
+  - [Jeune rukh](./Jeune rukh.md) *(B4, HF3/6)* - 3  
+  - [Rukh](./Rukh.md) *(B4, HF3/6)* - 10  
+
+</div>
+
+
+### S
+<div class="article_3col">
+- [Sabosan](./Sabosan.md) *(B3)* - 5  
+- [Sagari](./Sagari.md) *(B3)* - 1/2  
+- [Saguaroi](./Saguaroi.md) *(B4)* - 5  
+- Sahkil
+  - [Esipil](./Esipil.md) *(B5)* - 2  
+  - [Kimenhul](./Kimenhul.md) *(B5)* - 20  
+  - [Nucol](./Nucol.md) *(BD)* - 4  
+  - [Pakalchi](./Pakalchi.md) *(B5)* - 9  
+  - [Qolok](./Qolok.md) *(B5)* - 16  
+  - [Wihsaak](./Wihsaak.md) *(B5)* - 6  
+- Sahuagin
+  - [Sahuagin](./Sahuagin.md) *(B1)* - 2  
+- [Salamandre](./Salamandre.md) *(B1)* - 6  
+- [Samsaran](./Samsaran.md) *(B4)* - 1/2  
+- Sanglier
+  - [Sanglier](./Sanglier.md) *(B1)* - 2  
+  - [Sanglier sanguinaire](./Sanglier sanguinaire.md) *(B1)* - 4  
+- [Sangoï](./Sangoï.md) *(B5, RH3/6)* - 7  
+- Sangsue
+  - [Nuée de sangsues](./Nuée de sangsues.md) *(B1)* - 4  
+  - [Sangsue géante](./Sangsue géante.md) *(B1)* - 2  
+- [Sarcovalt](./Sarcovalt.md) *(ISG)* - 4  
+- [Sard](./Sard.md) *(B2)* - 19  
+- [Sasquatch](./Sasquatch.md) *(B3)* - 2  
+- [Satyre](./Satyre.md) *(B1)* - 4  
+- Sauterelle
+  - [Nuée de sauterelles](./Nuée de sauterelles.md) *(B4)* - 2  
+  - [Sauterelle géante](./Sauterelle géante.md) *(B4)* - 3  
+- [Saxra](./Saxra.md) *(B5)* - 18  
+- [Sayone](./Sayone.md) *(B4)* - 12  
+- [Scéaduinar](./Scéaduinar.md) *(B2)* - 7  
+- [Scitalise](./Scitalise.md) *(B5)* - 12  
+- [Scories d'éclats métalliques](./Scories déclats métalliques.md) *(B4)* - 8  
+- [Scorpion piégeur démoniaque](./Scorpion piégeur démoniaque.md) *(GPM)* - 9  
+- Scorpion
+  - [Scorpion dard-vert](./Scorpion dard-vert.md) *(B4)* - 1/4  
+  - [Scorpion des cavernes](./Scorpion des cavernes.md) *(B2)* - 1  
+  - [Scorpion empereur géant](./Scorpion empereur géant.md) *(B4)* - 11  
+  - [Scorpion fantomatique](./Scorpion fantomatique.md) *(B3)* - 1/2  
+  - [Scorpion géant](./Scorpion géant.md) *(B1)* - 3  
+  - [Scorpion noir](./Scorpion noir.md) *(B2)* - 15  
+  - [Scorpion piégeur](./Scorpion piégeur.md) *(B3)* - 8  
+- [Sculpture végétale vivante / Topiaire vivante](./Sculpture végétale vivante.md) *(B4, CP5/6)* - 4  
+- [Scylla](./Scylla.md) *(B2)* - 16  
+- Seigneur animal
+  - [Seigneur félin](./Seigneur félin.md) *(B3)* - 11  
+- [Seigneur de boue](./Seigneur de boue.md) *(B4)* - 6  
+- Seigneur démon
+  - [Dagon](./Dagon.md) *(B4)* - 28  
+  - [Kostchtchie](./Kostchtchie.md) *(B4)* - 26  
+  - [Pazuzu](./Pazuzu.md) *(B4)* - 30  
+- Seigneur empyréen
+  - [Cernunnos](./Cernunnos.md) *(B4)* - 30  
+  - [Korada](./Korada.md) *(B4)* - 26  
+  - [Vildéïs](./Vildéïs.md) *(B4)* - 28  
+- [Selkie](./Selkie.md) *(B4, RJ2/6)* - 5  
+- Seps
+  - [Jeune seps](./Jeune seps.md) *(B4)* - 2  
+  - [Seps](./Seps.md) *(B4)* - 11  
+- [Serpent creux](./Serpent creux.md) *(B3)* - 16  
+- Serpent d'eau
+  - [Serpent d'eau](./Serpent deau.md) *(GDC)* - 1  
+  - [Serpent d'eau géant](./Serpent deau géant.md) *(GDC)* - 7  
+- [Serpent de mer](./Serpent de mer.md) *(B1)* - 12  
+- [Serpent des profondeurs](./Serpent des profondeurs.md) *(B3)* - 19  
+- [Serpent gobelin](./Serpent gobelin.md) *(B3, ESR1/6)* - 1  
+- Serpent
+  - [Anaconda géant](./Anaconda géant.md) *(B2)* - 10  
+  - [Cobra impérial](./Cobra impérial.md) *(B2)* - 5  
+  - [Nuée de serpents](./Nuée de serpents.md) *(B3)* - 2  
+  - [Nuée de serpents venimeux](./Nuée de serpents venimeux.md) *(B3)* - 4  
+  - [Serpent constricteur](./Serpent constricteur.md) *(B1)* - 2  
+  - [Serpent venimeux](./Serpent venimeux.md) *(B1)* - 1  
+- [Serviteur aérien](./Serviteur aérien.md) *(B5)* - 11  
+- [Seugathi](./Seugathi.md) *(B2, DO)* - 6  
+- [Sha](./Sha.md) *(B5)* - 4  
+- [Shabti](./Shabti.md) *(B5)* - 1/2  
+- [Shaé](./Shaé.md) *(B3)* - 4  
+- [Shantak](./Shantak.md) *(B2)* - 8  
+- [Shasalqu](./Shasalqu.md) *(B5)* - 3  
+- [Shedu](./Shedu.md) *(B3)* - 9  
+- [Shinigami](./Shinigami.md) *(B3)* - 17  
+- [Shobhad](./Shobhad.md) *(B4, MPML)* - 4  
+- [Shoggoth](./Shoggoth.md) *(B1)* - 19  
+- [Shriezyx](./Shriezyx.md) *(B4)* - 4  
+- [Shulsaga](./Shulsaga.md) *(B4)* - 3  
+- [Siabraé](./Siabraé.md) *(GPM)* - 15  
+- [Silène](./Silène.md) *(B5)* - 19  
+- [Simurgh](./Simurgh.md) *(B3, HF6/6)* - 18  
+- Singe
+  - [Gorille](./Gorille.md) *(B1)* - 2  
+  - [Gorille sanguinaire](./Gorille sanguinaire.md) *(B1)* - 3  
+  - [Mégaprimate](./Mégaprimate.md) *(B5)* - 8  
+- [Sirène](./Sirène.md) *(B2, RT2/6)* - 5  
+- [Sirène des algues](./Sirène des algues.md) *(B4, SS6/6)* - 13  
+- [Siyokoy](./Siyokoy.md) *(B3)* - 10  
+- [Skulk](./Skulk.md) *(B2)* - 1  
+- [Skum](./Skum.md) *(B1)* - 2  
+- [Sleipnir](./Sleipnir.md) *(B3)* - 11  
+- [Slurk](./Slurk.md) *(B2, CRK)* - 2  
+- [Snallygaster](./Snallygaster.md) *(B4)* - 3  
+- [Soldat de terre-cuite](./Soldat de terre-cuite.md) *(B3)* - 6  
+- Solifuge
+  - [Solifuge albinos des cavernes](./Solifuge albinos des cavernes.md) *(B2, DO)* - 4  
+  - [Solifuge géant](./Solifuge géant.md) *(B2)* - 1  
+- [Somalcygot](./Somalcygot.md) *(B5)* - 12  
+- [Songeur / Contemplatif d'Ashok](./Songeur.md) *(B4, MPML)* - 2  
+- [Sorcewyrd](./Sorcewyrd.md) *(B2, RT2/6)* - 6  
+- [Sorcière de feu](./Sorcière de feu.md) *(B2, ESR5/6)* - 9  
+- [Soucouyante](./Soucouyante.md) *(GDC)* - 8  
+- [Spectre](./Spectre.md) *(B1)* - 7  
+- [Spectre des tempêtes](./Spectre des tempêtes.md) *(B5, RH4/6)* - 15  
+- Sphinx
+  - [Androsphinx](./Androsphinx.md) *(B3)* - 9  
+  - [Criosphinx](./Criosphinx.md) *(B3)* - 7  
+  - [Gynosphinx](./gynosphinx.md) *(B1)* - 8  
+  - [Hiéracosphinx](./Hiéracosphinx.md) *(B3)* - 5  
+- [Spore de mu](./Spore de mu.md) *(B2)* - 21  
+- Spriggan
+  - [Spriggan de taille G](./Spriggan de taille G.md) *(B2)* - 3  
+  - [Spriggan de taille M](./Spriggan de taille M.md) *(B2)* - 3  
+- Squelette
+  - [Champion squelette](./Champion squelette.md) *(B1)* - 2  
+  - [Squelette humain](./Squelette humain.md) *(B1)* - 1/3  
+- [Strige](./Strige.md) *(B1)* - 1/2  
+- [Strix](./Strix.md) *(CCMI, CV1/6)* - 1/3  
+- Stymphalide
+  - [Stymphalide](./Stymphalide.md) *(B3, CV2/6)* - 8  
+- [Su](./Su.md) *(B5)* - 8  
+- [Suli](./Suli.md) *(B3)* - 1/2  
+- [Supplicié de Gibet](./Supplicié de Gibet.md) *(B4)* - 16  
+- [Svartalfar](./Svartalfar.md) *(B4)* - 8  
+- [Svirfneblin](./Svirfneblin.md) *(B1)* - 1  
+- [Sylphe](./Sylphe.md) *(B2)* - 1/2  
+- [Sylvanien](./Sylvanien.md) *(B1)* - 8  
+- [Syricte](./Syricte.md) *(B5)* - 12  
+
+</div>
+
+
+### T
+<div class="article_3col">
+- [Taniniver](./Taniniver.md) *(B4)* - 18  
+- [Tanuki](./Tanuki.md) *(B3)* - 4  
+- [Taotieh](./Taotieh.md) *(B3)* - 11  
+- [Tatzlwyrm](./Tatzlwyrm.md) *(B3, DENF, KM1/6)* - 2  
+- Taupe cérébrale
+  - [Reine taupe cérébrale](./Reine taupe cérébrale.md) *(B5)* - 5  
+  - [Taupe cérébrale](./Taupe cérébrale.md) *(B5)* - 1  
+- [Tendricule](./Tendricule.md) *(B2)* - 6  
+- Ténébreux
+  - [Ailé ténébreux](./Ailé ténébreux.md) *(B2)* - 14  
+  - [Marcheur ténébreux](./Marcheur ténébreux.md) *(B2)* - 16  
+  - [Rampant ténébreux](./Rampant ténébreux.md) *(B2)* - 18  
+  - [Vague ténébreuse](./Vague ténébreuse.md) *(B2)* - 20  
+- [Tengu](./Tengu.md) *(B1)* - 1/2  
+- [Tentamort](./Tentamort.md) *(B2)* - 4  
+- Termite
+  - [Nuée de termites](./Nuée de termites.md) *(B5)* - 6  
+  - [Termite géant](./Termite géant.md) *(B5)* - 3  
+- [Tertre errant](./Tertre errant.md) *(B1)* - 6  
+- [Tête de citrouille](./Tête de citrouille.md) *(B4)* - 1  
+- [Thoqqua](./Thoqqua.md) *(B2)* - 2  
+- [Thrasfyr](./Thrasfyr.md) *(B2)* - 17  
+- Thriae
+  - [Bâtisseuse thriae](./Bâtisseuse thriae.md) *(B5)* - 14  
+  - [Danseuse thriae](./Danseuse thriae.md) *(B5)* - 6  
+  - [Oracle thriae](./Oracle thriae.md) *(B3)* - 11  
+  - [Reine thriae](./Reine thriae.md) *(B3)* - 18  
+  - [Soldat thriae](./Soldat thriae.md) *(B3)* - 4  
+- [Thylacine](./Thylacine.md) *(B3, KM1/6)* - 1/2  
+- [Tibérolithe](./Tibérolithe.md) *(B4, SS2/6)* - 10  
+- [Tieffelin](./Tieffelin.md) *(B1)* - 1/2  
+- Tigre
+  - [Tigre](./Tigre.md) *(B1)* - 4  
+  - [Tigre sanguinaire (Smilodon)](./Tigre sanguinaire.md) *(B1)* - 8  
+- [Tikbalang](./Tikbalang.md) *(B4)* - 9  
+- Tique
+  - [Nuée de tiques](./Nuée de tiques.md) *(B2)* - 9  
+  - [Tique géante](./Tique géante.md) *(B2)* - 1  
+- Titan
+  - [Titan de l'Élysée](./Titan de lÉlysée.md) *(B2)* - 21  
+  - [Titan hécatonchire](./Titan hécatonchire.md) *(B3)* - 24  
+  - [Titan thanatotique](./Titan thanatotique.md) *(B2)* - 22  
+- [Tiyanak](./Tiyanak.md) *(B5)* - 6  
+- [Tizhéruk](./Tizhéruk.md) *(B5, LMA)* - 5  
+- [Toile mortelle](./../Aventures/Toile Mortelle.md) *(B3, ESR4/6)* - 6  
+- [Tojanida](./Tojanida.md) *(B3, MM)* - 5  
+- [Tombelié](./Tombelié.md) *(B5)* - 4  
+- [Tophet](./Tophet.md) *(B3, HF3/6)* - 10  
+- Tortue de mer
+  - [Tortue de mer](./Tortue de mer.md) *(AM)* - 1/6  
+  - [Tortue happante](./Tortue happante.md) *(B2)* - 1/3  
+  - [Tortue happante géante](./Tortue happante géante.md) *(B2)* - 9  
+- Tortue
+  - [Tortue géante](./Tortue géante.md) *(B4)* - 1  
+  - [Tortue immense](./Tortue immense.md) *(B4)* - 8  
+- [Totenmaske](./Totenmaske.md) *(B2, ESR3/6)* - 7  
+- [Traqueur gluant](./Traqueur gluant.md) *(B2)* - 4  
+- [Traqueur invisible](./Traqueur invisible.md) *(B1)* - 7  
+- [Traqueur sans visage](./Traqueur sans visage.md) *(B2, ESR2/6)* - 4  
+- [Tristesource](./Tristesource.md) *(B4)* - 4  
+- [Triton](./Triton.md) *(B2)* - 2  
+- Troglodyte
+  - [Troglodyte](./Troglodyte.md) *(B1)* - 1  
+- Troll
+  - [Troll](./Troll.md) *(B1)* - 5  
+  - [Troll de mousse](./Troll de mousse.md) *(B3)* - 3  
+  - [Troll de pierre](./Troll de pierre.md) *(B2)* - 6  
+  - [Troll des glaces](./Troll des glaces.md) *(B2)* - 4  
+  - [Troll jötun](./Troll jötun.md) *(B3)* - 15  
+- [Trollosse](./Trollosse.md) *(B3, KM2/6)* - 3  
+- [Trox](./Trox.md) *(B4)* - 2  
+- [Tsaalgrend](./Tsaalgrend.md) *(B5)* - 2  
+- Tsukumogami
+  - [Boroboroton](./Boroboroton.md) *(B5)* - 5  
+  - [Kasa-obake](./Kasa-obake.md) *(B5)* - 4  
+  - [Koto-furunishi](./Koto-furunishi.md) *(B5)* - 2  
+- Tulpe
+  - [Tulpe humain](./Tulpe humain.md) *(B5)* - 6  
+- [Tunche](./Tunche.md) *(B4)* - 17  
+- [Tupilaq](./Tupilaq.md) *(B3)* - 7  
+- [Turul](./Turul.md) *(B5)* - 19  
+- [Tzitzimitl](./Tzitzimitl.md) *(B3)* - 19  
+
+</div>
+
+
+### U
+<div class="article_3col">
+- [Uræus](./Uræus.md) *(B5)* - 5  
+- [Urannagal](./Urannagal.md) *(B5, GPM)* - 8  
+- [Urdefhan](./Urdefhan.md) *(B2, DO)* - 3  
+- [Ursikke](./Ursikke.md) *(B5, RH4/6)* - 10  
+
+</div>
+
+
+### V
+<div class="article_3col">
+- Vahana
+  - [Vahana makara](./Vahana makara.md) *(B5)* - 9  
+- [Valkyrie](./Valkyrie.md) *(B3)* - 12  
+- [Valravn](./Valravn.md) *(B5)* - 16  
+- Vampire
+  - [Jiang-shi](./Jiang-shi.md) *(B3)* - 6  
+  - [Nosferatu](./Nosferatu.md) *(B4)* - 10  
+  - [Vampire](./Vampire.md) *(B1)* - 9  
+- [Vanara](./Vanara.md) *(B3)* - 1/2  
+- [Vargouille](./Vargouille.md) *(B1)* - 2  
+- [Vase carnivore](./Vase carnivore.md) *(B2)* - 13  
+- [Vase cérébrale](./Vase cérébrale.md) *(B3)* - 7  
+- [Vase coupe-gorge](./Vase coupe-gorge.md) *(B3)* - 8  
+- [Vase d'émotion](./Vase démotion.md) *(B5)* - 6  
+- [Vase d'œil de guenaude](./Vase dœil de guenaude.md) *(B5, RH6/6)* - 3  
+- [Vase de magma](./Vase de magma.md) *(B2)* - 7  
+- [Vase de plasma](./Vase de plasma.md) *(B3)* - 16  
+- [Vase des jardins](./Vase des jardins.md) *(B3)* - 2  
+- [Vase grise](./Vase grise.md) *(B1)* - 4  
+- [Vase luxuriante](./Vase luxuriante.md) *(B5)* - 6  
+- [Vase putride](./Vase putride.md) *(B5, CJ4/6)* - 11  
+- Vautour
+  - [Vautour](./Vautour.md) *(B3)* - 1/2  
+  - [Vautour géant](./Vautour géant.md) *(B3)* - 4  
+- [Vède](./Vède.md) *(B5, IPHE)* - 5  
+- Veela
+  - [Veela de l'air](./Veela de lair.md) *(B5)* - 7  
+  - [Veela de l'eau](./Veela de leau.md) *(B5)* - 7  
+  - [Veela de la terre](./Veela de la terre.md) *(B5)* - 7  
+  - [Veela du feu](./Veela du feu.md) *(B5)* - 7  
+- [Végépygmée](./Végépygmée.md) *(B1, DO)* - 1/2  
+- [Vémérak](./Vémérak.md) *(B2, DO)* - 14  
+- [Vendenoptérix](./Vendenoptérix.md) *(ISG)* - 4  
+- [Ver de guerre](./Ver de guerre.md) *(B4, KM5/6)* - 16  
+- [Ver du froid](./Ver du froid.md) *(B2)* - 12  
+- [Ver géant / Asticot géant](./Ver géant.md) *(B2, MTE2/6)* - 1/2  
+- [Ver mortel](./Ver mortel.md) *(B2)* - 6  
+- [Ver pourpre](./Ver pourpre.md) *(B1)* - 12  
+- [Ver ténébreux](./Ver ténébreux.md) *(B2)* - 8  
+- [Ver-qui-marche](./ver-qui-marche.md) *(B2)* - 14  
+- Vescavore
+  - [Nuée de vescavores](./Nuée de vescavores.md) *(B5)* - 5  
+  - [Reine vescavore](./Reine vescavore.md) *(B5, CJ2/6)* - 9  
+- [Videsprit](./Videsprit.md) *(B5)* - 11  
+- [Viflin](./Viflin.md) *(B2)* - 3  
+- [Virebois](./Virebois.md) *(B4)* - 1/2  
+- [Viscosité grise](./Viscosité grise.md) *(B5)* - 14  
+- [Vishap](./Vishap.md) *(B5)* - 19  
+- [Vishkanya](./Vishkanya.md) *(B3)* - 1/2  
+- [Vodyanoi](./Vodyanoi.md) *(B3)* - 5  
+- [Voix des damnés](./Voix des damnés.md) *(BD)* - 25  
+- [Voleur de corps](./Voleur de corps.md) *(B4)* - 14  
+- Vollute
+  - [Vollute de l'aether](./Vollute de laether.md) *(B5)* - 2  
+  - [Vollute de l'air](./Vollute de lair.md) *(B5)* - 2  
+  - [Vollute de l'eau](./Vollute de leau.md) *(B5)* - 2  
+  - [Vollute de la terre](./Vollute de la terre.md) *(B5)* - 2  
+  - [Vollute du feu](./Vollute du feu.md) *(B5)* - 2  
+- [Voonith](./Voonith.md) *(B3)* - 4  
+- [Vouivre](./Vouivre.md) *(B1)* - 6  
+- [Vouivre de l'Annihilatrice](./Vouivre dAashaq.md) *(GDC)* - 8  
+- [Vukodlak](./Vukodlak.md) *(B5)* - 3  
+
+</div>
+
+
+### W
+<div class="article_3col">
+- [Wakandagi](./Wakandagi.md) *(B5)* - 14  
+- [Wayang](./Wayang.md) *(B4)* - 1/2  
+- [Wécufe](./Wécufe.md) *(B3)* - 2  
+- [Wendigo](./Wendigo.md) *(B2, ESR6/6)* - 17  
+- [Wikkawak](./Wikkawak.md) *(B4)* - 4  
+- [Wivaran](./Wivaran.md) *(B4)* - 1/2  
+- Worg
+  - [Loup arctique](./Loup arctique.md) *(B1)* - 5  
+  - [Worg](./Worg.md) *(B1)* - 2  
+
+</div>
+
+
+### X
+<div class="article_3col">
+- [Xacarba](./Xacarba.md) *(B2, RT6/6)* - 15  
+- [Xanthos](./Xanthos.md) *(B4)* - 14  
+- [Xénoptéride](./Xénoptéride.md) *(B4)* - 7  
+- [Xiao](./Xiao.md) *(B5)* - 2  
+- [Xill](./Xill.md) *(B1)* - 6  
+- [Xocothien](./Xocothien.md) *(ISG)* - 4  
+- [Xorn](./Xorn.md) *(B1)* - 6  
+- [Xtabay](./Xtabay.md) *(B2)* - 1/2  
+
+</div>
+
+
+### Y
+<div class="article_3col">
+- [Yangèthe](./Yangèthe.md) *(B5, ID)* - 9  
+- [Yaoguai](./Yaoguai.md) *(B4)* - 7  
+- [Yéti](./Yéti.md) *(B1)* - 4  
+- [Yhohm](./Yhohm.md) *(ISG)* - 4  
+- [Yithien](./Yithien.md) *(B3)* - 9  
+- [Ypotrille](./Ypotrille.md) *(B4)* - 15  
+- [Yrthak](./Yrthak.md) *(B2)* - 9  
+- [Yuki-onna](./Yuki-onna.md) *(B3)* - 8  
+
+</div>
+
+
+### Z
+<div class="article_3col">
+- [Zentragt](./Zentragt.md) *(ISG)* - 4  
+- Zombi
+  - [Seigneur zombi](./seigneur zombi.md) *(B4, CP3/6)* - 3  
+  - [Zombi humain](./Zombi humain.md) *(B1)* - 1/2  
+  - [Zombi juju humain](./Zombi juju humain.md) *(B2)* - 2  
+- [Zomok](./Zomok.md) *(B4, KM6/6)* - 16  
+- [Zoog](./Zoog.md) *(B3)* - 1  
+- [Zouvembi](./Zouvembi.md) *(B3)* - 4  
+- [Zygopensée](./Zygopensée.md) *(B5)* - 18  
+
+</div>
+</ul>

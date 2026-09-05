@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Pic à cornichons (objet)
+Title: Pic à cornichons
+LastModified: 2021-10-24 18:55
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 2 pc ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Un pic à cornichons n’est rien de plus qu’un pique coincé au bout d’un bâton, utilisé le plus souvent par des [gobelins](./Gobelin (race).md) pour saisir des objets au fond d’un tonneau.

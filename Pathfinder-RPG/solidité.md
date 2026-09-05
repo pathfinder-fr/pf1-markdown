@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.solidité
+Title: solidité
+LastModified: 2026-06-27 13:50
+Categories:
+- Redirection
+---
+
+>>> Exploration#SOLIDITE

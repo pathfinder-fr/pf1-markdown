@@ -1,0 +1,33 @@
+---
+Name: Pathfinder-RPG.Regard douloureux multiple
+Title: Regard douloureux multiple
+LastModified: 2024-07-23 17:54
+Categories:
+- Contenu supplémentaire
+- Don
+- Don combat
+- Don regard
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le regard hypnotique du personnage cause une douleur inouïe à ses victimes.*
+
+**Catégorie** [combat](./Dons.md#DONCOMBAT), [regard](./Dons.md#DONREGARD)
+
+**Conditions.** [Hypnotiseur](./Hypnotiseur.md) de niveau 3, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX)
+
+**Avantage.** Le personnage peut utiliser son regard douloureux une fois de plus par [round](./round.md).
+
+**Spécial.** Ce don peut être pris une fois par un [hypnotiseur](./Hypnotiseur.md) de niveau 3 puis une fois de plus au niveau 9 et au niveau 15. Ses effets se cumulent. Un hypnotiseur peut prendre ce don à la place d’une amélioration de [regard impudent](./Hypnotiseur.md#REGARDIMPUDENT).
+
+(((Manifold stare (combat, stare)
+
+Your hypnotic gaze causes tremendous pain in its victims.
+
+Prerequisites: Mesmerist level 3rd, painful stare class feature.
+
+Benefit: You can trigger your painful stare one additional time per round.
+
+Special: This feat can be taken once by a 3rd-level mesmerist, and again when he reaches 9th and 15th levels. Its effects stack. A mesmerist can take this feat in place of a bold stare improvement.)))

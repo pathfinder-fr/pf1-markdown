@@ -1,0 +1,289 @@
+---
+Name: Pathfinder-RPG.Inquisitions
+Title: Les inquisitions d'inquisiteur
+LastModified: 2025-01-15 19:00
+Categories:
+- Classe
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:Menuclassessupplémentaires}
+<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
+{s:um}*La plupart des gens ont une vision stéréotypée de l’inquisiteur affublé d’un mélange d’habits officiels et de divers outils indispensables aux aventuriers. Bien souvent, sa parole est aussi respectée que la loi divine. Mais ce ne sont là que les aspects les plus superficiels de l’inquisiteur. Sa vie est rythmée par les connaissances secrètes, un danger constant et l’étrange politique des mortels et des extérieurs. Son chemin est jalonné de nombreux embranchements et autant de spécialisations qui proposent toutes une méthode différente pour débusquer les ennemis de la foi et les vaincre.*
+
+Même si les [inquisiteurs](./Inquisiteur.md) adoptent souvent des domaines ouverts aux prêtres de leur religion, ils ont accès à des connaissances spéciales ignorées des prêtres et des autres agents de leur religion. Ces objectifs divins, que l’on appelle des inquisitions, fournissent aux inquisiteurs les outils indispensables à la lutte contre les ennemis de la foi. L’inquisiteur peut choisir une inquisition au lieu d’un domaine.
+
+Si un pouvoir d’inquisition autorise un [jet de sauvegarde](./JDS.md), le [DD](./DD.md) est égal à 10 + 1/2 niveau de l’inquisiteur + modificateur de [Sagesse](./Sagesse.md). Sauf indication contraire, le [niveau de lanceur de sorts](./NLS.md) des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) est égal à son niveau d’inquisiteur.
+
+Les inquisitions sont faites pour les inquisiteurs, pas pour les autres classes qui ont accès aux domaines. Un [prêtre](./Prêtre.md) ou une classe avec un domaine peut choisir une inquisition à la place (en accord avec sa divinité) mais elle ne donne pas d’emplacement de sort de domaine ni de sort de domaine, les inquisitions sont donc un mauvais choix pour les autres classes. Celles-ci utilisent le niveau de classe adéquat comme niveau d’inquisiteur effectif en ce qui concerne les pouvoirs qu’accorde l’inquisition (les prêtres utilisent leur niveau de prêtre comme niveau d’inquisiteur etc.)
+
+### Inquisition de bannissement
+{s:plume}<div class="description">**Source :** Blood of Angels (BoA).</div>*La dévotion du personnage à sa divinité n'a d'égal que sa haine des fiélons, et il sait renvoyer les extérieurs malveillants à leurs plans d'origine.*
+
+**Juste colère (Sur).** Lorsque le personnage fait une attaque de contact à mains nues contre une créature d'[alignement](./Alignement.md) Mauvais, elle doit faire un jet de [Volonté](./Volonté.md) ou être [secouée](./Secoué.md) pour 1d4 tours. Si la créature touchée est un extérieur, elle est [effrayée](./Effrayé.md) et non secouée. Le personnage peut utiliser ce pouvoir un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+
+**Toucher de renvoi (Sur).** Au niveau 8, le personnage peut utiliser [renvoi](./Renvoi.md) en tant que pouvoir magique une fois par jour en effectuant une attaque de contact à mains nues contre un Extérieur mauvais. Le [DD](./DD.md) de ce pouvoir est augmenté de 2.
+
+### Inquisition de cavalerie
+{s:plume}<div class="description">**Source :** Magical Marketplace (MaM).</div>*Le personnage suit la voie de la chevalerie, défendant son honneur et chevauchant un noble destrier.*
+
+**Monture (Ext).** Ce pouvoir fonctionne comme celui du [chevalier](./Chevalier.md).
+
+**Fidèle destrier (Sur).** Au niveau 8, quand le personnage rend un [jugement](./jugements.md), sa monture bénéficie également de l'effet d'un jugement. Au niveau 16, elle bénéficie de l'effet de deux jugements.
+
+{s:UM}{s:Reference|COLERE}
+### Inquisition de colère
+*La divinité protectrice de l’inquisiteur lui accorde une rage sacrée (ou impie) qui lui permet de remporter une victoire sanglante.*
+
+**Réplique haineuse (Ext).** Une fois par jour, par une [action immédiate](./Action immédiate.md), juste après que le personnage s’est fait toucher au corps à corps, il peut faire une attaque de mêlée contre la créature qui l’a touché. Cette attaque utilise son [bonus d’attaque maximal](./BBA.md), même si le personnage a déjà attaqué au cours du round.
+
+**Colère divine (Ext).** Au niveau 6, le personnage peut entrer en [rage](./Rage.md) comme un [barbare](./Barbare.md). Son niveau de barbare effectif est égal à son niveau d’inquisiteur -3. S’il possède également des niveaux de barbare, ces niveaux se cumulent pour déterminer la puissance de l’effet de rage. L’inquisiteur n’obtient aucun pouvoir de rage grâce à cette inquisition mais, s’il en possède déjà avec une autre classe, il peut les appliquer à ses rages d’inquisiteur. Chaque jour, il peut entrer en rage pendant un nombre de rounds égal à son bonus de [Sagesse](./Sagesse.md) plus 1 round par niveau d’inquisiteur au-delà du 4.
+
+{s:UM}{s:Reference|CONVERSION}
+### Inquisition de conversion
+*Le personnage possède de puissants pouvoirs de persuasion. Sa langue de miel renforcée par l’argumentation divine lui permet de ranger les indifférents comme les opposants à son avis.*
+
+**Charme de la sagesse (Ext).** Le personnage utilise son modificateur de [Sagesse](./Sagesse.md) au lieu de son modificateur de [Charisme](./Charisme.md) quand il fait un test de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) ou d’[Intimidation](./Intimidation.md).
+
+**Parole convaincante (Mag).** Au niveau 8, le personnage peut, une fois par jour, prononcer une parole inspirée par la sagesse divine et ainsi rallier une créature à sa cause. La cible doit se trouver dans sa ligne de mire et doit l’entendre. Si elle rate son [jet de sauvegarde](./jet de sauvegarde.md), elle est affectée par une *[domination](./Domination.md)* de personne d’une durée de 1 minute seulement.
+
+{s:UI}{s:Reference|CRIMINALITE}
+### Inquisition de criminalité
+{s:cs}*Les connexions du personnage avec le monde de la pègre s'étendent au-delà du plan physique, et sa criminalité spirituelle lui offre ainsi des pouvoirs insidieux.*
+
+**Esprits criminels (Mag).** Le personnage peut toucher une créature et emplir son esprit de pulsions criminelles. Ce pouvoir fonctionne comme *[crime de situation](./Crime de situation.md)*, mais une cible qui rate son [jet de sauvegarde](./JDS.md) et agit selon sa pulsion s'en débarrasse et devient immunisée aux effets de la capacité esprits criminels du personnage pendant 24 heures. Le personnage peut utiliser cette capacité un nombre de fois par jour égal à son modificateur de [Sagesse](./Sagesse.md) (minimum 1).
+
+**Âme de voleur (Ext).** Au niveau 8, le personnage gagne [Science de la subtilisation](./Science de la subtilisation.md), [Subtilisation supérieure](./Subtilisation supérieure.md) et [Subtilisation rapide](./Subtilisation rapide.md) comme dons supplémentaires, même s'il n'en remplit pas les conditions.
+
+### Inquisition de damnation
+{s:plume}<div class="description">**Source :** Blood of Fiends (BoF).</div>*La perspective d'un au-delà de tourments est capable de faire frisonner même les individus les plus endurcis - ne serait-ce qu'un moment.*
+
+**Crainte des flammes (Sur).** Le personnage peut donner à une créature dans un rayon de 15 mètres (12 {s:c}) une chance d'éviter une éternité de souffrance en lui ordonnant d'effectuer une action dont la durée ne dépasse pas un round. Les créatures d'[alignement](./Alignement.md) Bon ou Neutre qui refusent sont [secouées](./Secoué.md) pour un tour (un jet de [Volonté](./Volonté.md) annule cet effet) et les créatures d'alignement Mauvais qui obéissent reçoivent un bonus de morale de +2 à tous les tests et lancers de dé pour un tour. C'est un effet mental dépendant du langage. Le personnage peut utiliser ce pouvoir un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+
+**Collecteur d'âmes (Mag).** Au niveau 8, le personnage peut, une fois par jour, invoquer par une [action simple](./Action simple.md) un fiélon illusoire pour plonger temporairement une créature vivante et intelligente dans un univers de douleur et de tourments. Ce pouvoir fonctionne comme celui d'[assassin imaginaire](./Assassin imaginaire.md) si ce n'est que les créatures qui échouent leur jet de [Vigueur](./Vigueur.md) sont [paralysées](./Paralysé.md) pour un nombre de rounds égal à 1d4 + niveau d'[Inquisiteur](./Inquisiteur.md) au lieu de mourir.
+
+{s:UM}{s:Reference|DESTIN}
+### Inquisition du destin
+*Le destin est un puissant outil pour ceux qui font justice au nom de leur dieu. Le personnage sait lire les fils du destin et ce sont eux qui le guident.*
+
+**Augure (Mag).** Une fois par jour, l’inquisiteur peut lancer *[augure](./Augure.md)* comme un pouvoir magique.
+
+**Agent du destin (Sur).** Au niveau 8, quand le personnage utilise son pouvoir d’*[augure](./Augure.md)*, ses bénéfices se prolongent jusqu’à la fin de son prochain combat. Si le résultat du sort est « fortune », tous les effets de soins utilisés sur le personnage soignent 1d10 [points de vie](./pv.md) de plus. Si le résultat est « péril », ses attaques de corps à corps infligent +1d6 points de dégâts. Si le résultat est « fortune et péril » ou « rien », le personnage gagne un bonus d’intuition de +2 à la [CA](./CA.md).
+
+{s:UM}{s:Reference|EMPRISONNEMENT}
+### Inquisition d’emprisonnement
+*Parfois, il vaut mieux capturer ses ennemis que les tuer, car l’inquisiteur peut les punir pour leurs crimes ou les torturer pour obtenir des informations.*
+
+**Frappe de la prison (Sur).** Des chaînes spectrales s’enroulent autour de la cible pendant une courte période, après une frappe dévastatrice. À chaque fois que le personnage confirme un [coup critique](./coup critique.md) avec une arme de corps à corps ou à distance (y compris les sorts qui nécessitent des jets d’attaque), il peut décider d’[enchevêtrer](./Enchevêtré.md) la cible pendant 1d4 rounds ([Vigueur](./Vigueur.md), annule). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Prison divine.** Au niveau 8, chaque jour, quand l’inquisiteur réussit une attaque de corps à corps, il peut affecter sa cible avec *[immobilisation de monstre](./Immobilisation de monstre.md)* ([Volonté](./Volonté.md), annule).
+
+### Inquisition d’excommunication
+{s:plume}<div class="description">**Source :** Faiths and Philosophies (FaP).</div>*Le personnage peut repousser l'influence de serviteurs divins égarés.*
+
+**Toucher de silence (Sur).** Par une attaque de contact au corps à corps, le personnage peut rendre une créature silencieuse pour un tour, comme avec un sort de [silence](./Silence.md). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Excommunication.** Au niveau 8, le personnage peut, une fois par jour, retirer par une [action simple](./Action simple.md) l'usage de la parole à une créature unique dans un rayon de 9 mètres (6 {s:c}). Un jet de [Volonté](./Volonté.md) annule cet effet. Une créature qui échoue ce jet a droit à un second jet de sauvegarde au tour suivant. Si elle y échoue également, elle est privée de la parole et ne peut plus parler, lancer de sorts à composante verbale, écrire, mimer, ou communiquer de quelque manière que ce soit excepté pour répondre par l'affirmative ou la négative pour un jour.
+
+{s:UM}{s:Reference|FERVEUR}
+### Inquisition de ferveur
+*Seule une personne aussi passionnée et vertueuse que l’inquisiteur peut faire respecter la justice.*
+
+**Feux de la foi (Mag).** L’inquisiteur peut déchaîner une colonne de feu sacré ou impie qui brûle une cible située à 9 mètres (6 {s:c}), comme une attaque de contact à distance. La cible subit 1d6 points de dégâts de feu plus la moitié du niveau de l’inquisiteur (avec un minimum de +1). Si l’inquisiteur est Bon, les flammes ne blessent que les cibles non Bonnes. S’il est Mauvais, elles ne blessent que les créatures non Mauvaises.
+
+Si l’inquisiteur n’est ni Bon ni Mauvais, il doit décider si les flammes blesseront des cibles Bonnes ou Mauvaises. Une fois qu’il a pris cette décision, il ne peut plus en changer (mais s’il change d’alignement, les effets des flammes se modifient en conséquence). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Action fervente (Ext).** Au niveau 8, une fois par jour, par une [action rapide](./Action rapide.md), l’inquisiteur peut faire une attaque de corps à corps avec son [bonus d’attaque](./BBA.md) maximal, se déplacer à sa [vitesse de base](./VD.md) ou lancer un sort d’inquisiteur préparé (d’un niveau de sort inférieur de 1 au sort de plus haut niveau qu’il puisse lancer) comme avec [Incantation rapide](./Incantation rapide.md).
+
+{s:UM}{s:Reference|HERESIE}
+### Inquisition d’hérésie
+*Il est souvent bien difficile de différencier les hérétiques des fidèles. L’inquisiteur utilise sa duplicité, sa discrétion et les propres arguments des hérétiques pour les débusquer et les traîner devant la justice.*
+
+**Infiltration vertueuse (Ext).** Le personnage utilise son modificateur de [Sagesse](./Sagesse.md) au lieu de son modificateur de [Charisme](./Charisme.md) quand il fait ses tests de [Bluff](./Bluff.md) et d’[Intimidation](./Intimidation.md).
+
+**Infiltration bénie (Ext).** Au niveau 4, quand le personnage fait un test de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) ou de [Discrétion](./Discrétion.md), il peut lancer le dé à deux reprises et choisir le meilleur résultat. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à son bonus de [Sagesse](./Sagesse.md).
+
+**Parole anathème (Mag).** Au niveau 8, une fois par jour, le personnage peut prononcer l’anathème contre une unique créature située dans les 18 mètres (12 {s:c}) (jet de [Volonté](./Volonté.md), annule). Ceci fonctionne comme *[malédiction](./malédiction.md)* et dure 1 minute, ce qui donne à la cible un malus de -4 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./jet de sauvegarde.md) et aux tests de [caractéristique](./Caractéristiques.md) et de [compétence](./Compétences.md).
+
+{s:UM}{s:Reference|HEROISME}
+### Inquisition d’héroïsme
+*Il faut du courage pour affronter les ennemis de sa religion.*
+
+**Caresse de résolution (Mag).** Chaque jour, le personnage peut utiliser *[regain d’assurance](./Regain dassurance.md)* sur une créature un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Sans peur (Sur).** Au niveau 8, l’inquisiteur est immunisé contre la peur.
+
+{s:UM}{s:Reference|ILLUMINATION}
+### Inquisition d’illumination
+*Bien souvent, l’illumination la plus pure et la plus inébranlable représente la meilleure arme de l’inquisiteur, car la lumière et la sagesse débusquent les erreurs.*
+
+**Caresse de l’illumination (Mag).** La main de l’inquisiteur brille d’une lueur divine. Il peut alors toucher une créature, par une [action simple](./Action simple.md), et lui donner un bonus à un unique jet de [Volonté](./Volonté.md), test de [Connaissances](./Connaissances.md), test de [Perception](./Perception.md) ou test de [Psychologie](./Psychologie.md). Ce bonus est égal à 1/2 du niveau de l’inquisiteur. Ce pouvoir persiste 1 heure ou jusqu’à ce que la cible choisisse de l’appliquer à un jet. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Aura d’illumination (Sur).** Au niveau 4, le personnage émet une aura de lumière normale de 9 mètres (6 {s:c}) de [rayon](./rayon.md). Les alliés situés à l’intérieur reçoivent un bonus d’intuition de +2 aux tests de [compétence](./Compétences.md). Ce pouvoir compte comme un effet de lumière de niveau 2 quand il s’agit de contrer ou de dissiper un effet d’obscurité. Chaque jour, l’inquisiteur peut utiliser son aura un nombre de fois égal à son niveau d’inquisiteur. Ces rounds ne sont pas nécessairement consécutifs.
+
+{s:UM}{s:Reference|JUSTICE}
+### Inquisition de justice
+*Certaines personnes doivent apprendre que se soumettre à son destin revient à se soumettre à la justice de l’inquisiteur.*
+
+**Force judicieuse (Sur).** Si le personnage ou un allié situé dans les 3 mètres (2 {s:c}) fait un [coup critique](./coup critique.md) avec une attaque de corps à corps ou à distance, il peut, par une [action immédiate](./Action immédiate.md), ajouter un bonus de +4 au jet de confirmation. Ceci ne se cumule pas avec le [Don pour les critiques](./Don pour les critiques.md). Chaque jour, l’inquisiteur peut utiliser ce pouvoir un nombre de fois égal à son bonus de [Sagesse](./Sagesse.md).
+
+**Chaînes de justice (Sur).** Au niveau 6, une fois par jour, le personnage peut enchaîner un adversaire situé dans les 18 mètres (12 {s:c}) avec des chaînes spectrales ([Volonté](./Volonté.md), annule).
+
+Quand le personnage reçoit des dégâts de la part d’un ennemi, la cible enchaînée subit les mêmes dégâts. Lorsque la cible enchaînée reçoit des dégâts d'un des alliés du personnage, celui-ci subit les mêmes dégâts. L’inquisiteur et sa cible ne sont pas physiquement attachés ensemble et ils peuvent tous deux mettre un terme à l’effet en brisant la ligne d’effet ou en sortant du rayon de portée du pouvoir. Le personnage peut renvoyer les chaînes par une [action simple](./Action simple.md).
+
+{s:UM}{s:Reference|ORDRE}
+### Inquisition de l’ordre
+*La plupart des inquisiteurs combattent les aberrations et les créatures démoniaques mais aussi le chaos de l’hérésie. Ils se reposent sur les maximes et les atours de la loi pour les aider dans leur lutte.*
+
+**Manteau contre le chaos (Mag).** Le personnage peut utiliser *[protection contre le chaos](./Protection contre le Chaos.md)* sur sa personne ou sur autrui, comme un pouvoir magique. Chaque jour, il peut lancer ce pouvoir un nombre de minutes égal à son niveau d’inquisiteur (1 au minimum). Cette durée n’est pas forcément continue mais doit se découper en segments d’une minute.
+
+**Ordre impérieux (Mag).** Au niveau 8, l’inquisiteur peut utiliser *[injonction suprême](./Injonction suprême.md)* mais elle n’affecte qu’une cible. Chaque jour, il peut se servir de ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+{s:UM}{s:Reference|OUBLI}
+### Inquisition d’oubli
+*Certains inquisiteurs croient qu’en dehors de la foi, il n’y a que l’oubli. Mais quelques serviteurs du divin en savent assez sur les ténèbres au-delà de la religion pour les utiliser comme outil et comme arme.*
+
+**Ancre vitale (Sur).** Le personnage émet une aura de 3 mètres (2 {s:c}) qui aide les créatures mourantes à s’accrocher à la vie. Au sein de cette aura, toute créature à l’agonie (y compris l’inquisiteur) ajoute le bonus de [Sagesse](./Sagesse.md) du personnage à ses tests de [stabilisation](./Stabilisation.md) (en plus des éventuels autres modificateurs).
+
+**Yeux de l’oubli (Mag).** Au niveau 8, le personnage peut utiliser *[débilité](./Débilité.md)* comme attaque de [regard](./Regard.md) contre une créature ([Volonté](./Volonté.md), annule). Cet effet dure 1d4 rounds. Au niveau 8, le personnage peut utiliser ce pouvoir une fois par jour et ensuite une fois de plus tous les quatre niveaux.
+
+### Inquisition de péché
+{s:plume}<div class="description">**Source :** Blood of Fiends (BoF).</div>*Le personnage sait comment éveiller les sept péchés d'autrui et les manipuler pour satisfaire ses propres desseins.*
+
+**Sens du péché (Ext).** Par une [action complexe](./Action complexe.md), le personnage peut déterminer quel péché influence plus fortement une cible en lisant son esprit. Il bénéficie alors d'un bonus de +4 au prochain test dépendant du [Charisme](./Charisme.md) envers cette personne pourvu qu'il y incorpore une tentation en lien avec ce péché. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (1 au minimum).
+
+**Succomber à la tentation (Sur).** Au niveau 8, le personnage peut, une fois par jour par une [action simple](./Action simple.md), forcer un individu à succomber à son plus grand vice. La créature ciblée ne doit pas avoir été ciblée précédemment par le sens du péché, et a droit à un jet de [Volonté](./Volonté.md) pour annuler l'effet. Si elle échoue, pendant les prochaines 24 heures, dès que la créature a la possibilité de satisfaire ce péché, elle doit céder à la tentation ou faire un autre jet de [Volonté](./Volonté.md), devenant [fiévreuse](./Fiévreux.md) pour une minute si elle échoue. C'est un [effet mental](./effet mental.md).
+
+{s:UM}{s:Reference|PERSEVERANCE}
+### Inquisition de persévérance
+*Le dieu de l’inquisiteur l’a choisi pour sa persévérance. Il a juré de poursuivre tous les ennemis de la foi, jusqu’aux confins de la terre si nécessaire. Il reçoit [S’avancer](./Savancer.md) comme don supplémentaire.*
+
+**Marche acharnée (Ext).** Par une [action rapide](./Action rapide.md), le personnage peut augmenter sa vitesse de 3 mètres (2 {s:c}). Cette augmentation compte comme un bonus d’altération et affecte la distance de saut, comme il se doit. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (1 au minimum).
+
+**Force intérieure (Sur).** Au niveau 6, le personnage peut, une fois par jour, se soigner par une [action rapide](./Action rapide.md). Il récupère 1d6 [points de vie](./pv.md) par tranche de deux niveaux d’inquisiteur. Quand il se sert de ce pouvoir, il peut également se débarrasser de l’une des conditions suivantes : [aveugle](./aveugle.md), [chancelant](./Chancelant.md), [confus](./Confus.md), [effrayé](./Effrayé.md), [étourdi](./Étourdi.md), [fiévreux](./Fiévreux.md), [nauséeux](./Nauséeux.md), [secoué](./Secoué.md) ou [sourd](./sourd.md).
+
+
+### Inquisition de possession
+{s:plume}<div class="description">**Source :** Blood of Fiends (BoF).</div>*Le personnage peut investir le corps d'êtres inférieurs et les plier à sa volonté.*
+
+**Contrôle de soi (Ext).** Le personnage possède un contrôle remarquable de lui-même et gagne un bonus de +2 aux jets de sauvegarde contre les effets de [charme](./charme.md) et de [coercition](./coercition.md).
+
+**Possession d'animal (Sur).** Au niveau 4, une fois par jour par une [action simple](./Action simple.md), le personnage peut posséder le corps d'un animal à moins de 9 mètres (6 {s:c}) de lui pendant un nombre de rounds égal à son niveau d'[inquisiteur](./Inquisiteur.md). Pendant ce temps, le corps du personnage est sans défense. Le personnage peut se déplacer de n'importe quelle distance tant qu'il reste dans le même plan que son corps. Le personnage peut interrompre cet effet par une [action libre](./Action libre.md). Si l'animal ou le corps reçoit des dommages, ou si le personnage tente de faire faire à l'animal une action illogique, l'effet s'interrompt immédiatement.
+
+**Vol de corps (Sur).** Au niveau 10, le personnage peut, une fois par jour, par une [action immédiate](./Action immédiate.md) lorsqu'il devient [inconscient](./Inconscient.md) après être passé en dessous de 0 points de vie, projeter son âme hors de son corps et la faire posséder le corps d'une créature à moins de 9 mètres (6 {s:c}) de lui. Ce pouvoir fonctionne comme un sort de [possession](./Possession.md) si ce n'est que le corps sert de réceptacle et que l'esprit de la cible n'est pas envoyée dans un réceptacle, seulement étouffé pendant la durée du sort. Le corps d'origine continue de saigner tant qu'il n'est pas stabilisé, et si ses PV passent en dessous d'une valeur négative égal au à la [Constitution](./Constitution.md) du personnage, l'effet s'interrompt prématurément et le personnage meurt.
+
+{s:UC}{s:Reference|POUDRENOIRE}
+### Inquisition de la poudre noire
+**Pouvoirs accordés.** L’inquisiteur gagne [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (armes à feu) et [Création d’armes à feu](./Création darmes à feu.md) comme dons supplémentaires. Quand il utilise une [arme à feu](./arme à feu.md) et touche un lanceur de sorts profane ou une créature qui utilise des pouvoirs magiques, la victime doit réussir un jet de [Vigueur](./Vigueur.md). Si elle échoue, elle reçoit un malus de -4 aux tests de [Concentration](./concentration.md) pendant 1 round.
+
+### Inquisition de récupération
+{s:plume}<div class="description">**Source :** Champions of Purity (CoP).</div>*Là ou certains chassent les secrets, le personnage traque des objets plus tangibles.*
+
+**Recherche concentrée (Ext).** Le personnage peut, une fois par jour, choisir un personnage ou un objet comme objet de sa concentration. Ce pouvoir prend une minute de [concentration](./concentration.md) pendant lequel il visualise l'objet ou la personne (s'il en est capable) ou médite sur sa description (dans le cas contraire). Jusqu'à ce qu'il ait choisi une nouvelle cible, il gagne un bonus égal à la moitié de son niveau d'[inquisiteur](./Inquisiteur.md) sur ses tests de [Perception](./Perception.md) pour le voir et l'entendre, et de [Survie](./Survie.md) pour le pister, ou pister une créature en sa possession. Ce pouvoir se cumule avec les bonus de pistage de l'inquisiteur.
+
+**Localiser la cible (Mag).** Au niveau 8, une fois par jour, l'inquisiteur peut utiliser [localisation d'objet](./Localisation dobjet.md) ou [localisation de créature](./Localisation de créature.md) en tant que pouvoir magique sur l'objet de sa concentration. La portée de cet effet est d'un kilomètre par niveau.
+
+### Inquisition de rédemption
+{s:plume}<div class="description">**Source :** Faiths and Philosophies (FaP).</div>*Le personnage s'adresse à ses frères égarés et leur donne une chance de se racheter du conflit avec la véritable foi, même si ce différend passe par la violence.*
+
+**Sensibilité patiente (Ext).** Le personnage gagne un bonus de +2 aux tests de [Diplomatie](./Diplomatie.md), [Psychologie](./Psychologie.md) et [Perception](./Perception.md).
+
+**Merci du rédempteur (Ext).** Au niveau 4, toute arme maniée par l'inquisiteur gagne la propriété [miséricordieuse](./miséricordieuse (propriété).md) tant qu'il la manie.
+
+**Seconde chance (Mag).** Au niveau 8, une fois par jour, l'inquisiteur peut par une [action simple](./Action simple.md) lancer un sort de [pénitence](./Pénitence.md), ciblant une unique créature ayant manqué à la foi d'une religion partagée avec l'inquisiteur, ou souhaitant prendre l'alignement du personnage. Si le sort de [pénitence](./Pénitence.md) demandait normalement une offrande à cause d'une transgression volontaire, l'inquisiteur doit accepter à la place un niveau négatif permanent. En plus de l'effet d'un sort de [pénitence](./Pénitence.md), la cible reçoit également l'effet d'un sort de [soins intensifs](./Soins intensifs.md).
+
+### Inquisition de réforme
+{s:plume}<div class="description">**Source :** Faiths and Philosophies (FaP).</div>*Le personnage parle avec une éloquence divine.*
+
+**Rhétorique inspirée (Ext).** Le personnage utilise sa [Sagesse](./Sagesse.md) et non son [Charisme](./Charisme.md) pour ses tests de [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) et [Représentation](./Représentation.md) (Arts oratoires), et [Représentation](./Représentation.md) (Arts oratoires) est toujours une compétence de classe pour lui.
+
+**Correction bénie (Ext).** Au niveau 4, si le personnage doit effectuer un test de [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) ou [Représentation](./Représentation.md) (Arts oratoires), il peut lancer le dé deux fois et choisir le résultat le plus favorable. Il peut utiliser ce pouvoir un nombre de fois par jour égal à son modificateur de [Sagesse](./Sagesse.md).
+
+**Eveiller le mécontentement (Sur).** Au niveau 8, l'inquisiteur peut énoncer une intense tirade condamnant les erreurs des individus au pouvoir et réclamant une réforme, faisant subir à la cible du discours l'effet d'un [charme-personne](./Charme-personne.md) (DD 10 + 1/2 niveau d'[Inquisiteur](./Inquisiteur.md) + modificateur de [Sagesse](./Sagesse.md)). Il peut utiliser ce pouvoir un nombre de fois par jour égal à son modificateur de [Sagesse](./Sagesse.md).
+
+### Inquisition de repos éternel
+{s:plume}<div class="description">**Source :** Champions of Purity (CoP).</div>*Les morts sont voués au repos - et les voir se déplacer est une aberration que rien n'excuse. Le personnage s'applique à protéger ce saint repos.*
+
+**Dissiper l'animation (Mag).**Le personnage peut utiliser [destruction de mort-vivant](./Destruction de mort-vivant.md) comme pouvoir magique, ajoutant son modificateur de [Sagesse](./Sagesse.md) aux dégâts infligés. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (minimum 1).
+
+**Déchirer l'animation (Sur).** Au niveau 8, quand l’inquisiteur ajoute à son arme la propriété tueuse de morts-vivants, il lui ajoute également la propriété [destruction](./destruction (propriété).md). Le DD pour y résister est égal à 10 + 1/2 niveau d'[inquisiteur](./Inquisiteur.md) + modificateur de [Sagesse](./Sagesse.md)
+
+### Inquisition de restauration
+{s:plume}<div class="description">**Source :** Magical Marketplace (MaM).</div>*Le personnage est un guérisseur, non seulement pour les individus mais aussi pour les sites sacrés souillés par la corruption.*
+
+**Guérir les brisés (Sur).**Le personnage peut toucher une créature ou un objet et la soigner de 1d4 points +1 pour chaque deux niveaux d'[inquisiteur](./Inquisiteur.md). Ce pouvoir ne peut être utilisé que sur un objet cassé ou un individu dont les points de vie sont inférieurs à la moitié des points de vie maximum. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (minimum 1).
+
+**Dissiper l'impureté (Sur).** Au niveau 8, le personnage choisit un [alignement](./Alignement.md) opposé au sien, sur l'axe Bien/Mal ou Loi/Chaos. Une fois fait, ce choix ne peut plus être changé. Le personnage ajoute son bonus de [Sagesse](./Sagesse.md) aux tests de lanceur de sort pour percer la [RM](./RM.md) de créatures avec cet alignement, dissiper les sorts avec cet alignement, et retirer les [maladies](./Maladies.md), [malédictions](./Malédictions.md) et [poisons](./Poisons.md). Un [inquisiteur](./Inquisiteur.md) neutre ne bénéficie que de ce dernier bonus.
+
+### Inquisition de révélation
+{s:plume}<div class="description">**Source :** Blood of Angels (BoA).</div>*Le mal emprunte souvent le visage d'un saint. Le personnage est un expert dans l'art de déceler ceux dont l'apparence est trompeuse, et utilise ses pouvoirs pour révéler le véritable visage des indignes.*
+
+**Brûler le voile (Sur).** Par une [action simple](./Action simple.md), le personnage peut effectuer une attaque de contact à mains nues envers une cible. Cette cible subit alors 1d4 points de dégâts de feu +1 par deux niveaux d'[inquisiteur](./Inquisiteur.md). Si la cible est sous un effet de [métamorphose](./métamorphose.md) ou d'une illusion modifiant l'apparence, la elle subit à la place 1d6 points de dégâts de feu +1 par deux niveaux d'[inquisiteur](./Inquisiteur.md).  Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (minimum 1).
+
+**Révéler l'apparence (Sur).** Au niveau 8, une fois par jour en invoquant le nom de sa divinité par une [action simple](./Action simple.md), le personnage peut tenter de forcer une cible  à moins de 9 mètres (6 {s:c}) à renoncer à tous ses effets de métamorphose. La cible doit faire un jet de [Volonté](./Volonté.md) pour annuler. Si elle échoue, au prochain tour, elle est contrainte de dissiper tous ses effets de changement d'apparence et d'adopter sa véritable forme. Si elle en est incapable pour une raison ou une autre, elle est [chancelante](./Chancelant.md) pour un round. C'est un effet mental de [coercition](./coercition.md).
+
+{s:UI}{s:Reference|SECRET}
+### Inquisition de secret
+{s:cs}*Le personnage a appris à garder ses secrets près de lui, et ceux de ses ennemis encore plus près.*
+
+**Détection des secrets (Sur).** Le personnage apprend à détecter les secrets de n'importe quelle créature, et pas juste ses pensées. Chaque fois qu'il lance *[détection des angoisses](./Détection des angoisses.md)*, *[détection des désirs](./Détection des désirs.md)* ou *[détection des pensées](./détection des pensées.md)* ou utilise n'importe lequel de ses sorts comme un pouvoir magique, il peut choisir d'obtenir les effets d'un des deux autres sorts à la place. Le personnage n'est jamais submergé par la haute valeur de caractéristique d'une cible de ces sorts.
+
+**Livre fermé (Mag).** Au niveau 8, il devient difficile pour les ennemis du personnage de dévoiler ses secrets. Le personnage est sous un effet d’*[antidétection](./Antidétection.md)* constant, comme s'il avait lancé le sort sur lui-même.
+
+{s:UM}{s:Reference|TACTIQUE}
+### Inquisition de tactique
+*Souvent, ce sont les froids esprits tactiques qui remportent la victoire. Un sacrifice approprié et soigneusement calculé peut inspirer les alliés d’autrui à rejoindre la cause de l’inquisiteur.*
+
+**Mise en scène de l’inquisiteur (Sur).** Au début de son tour, l’inquisiteur peut entrer dans un état de réflexion tranquille et renoncer à faire la moindre action (ni [simple](./Action simple.md), ni de [mouvement](./Action de mouvement.md), ni [rapide](./Action rapide.md), ni [immédiate](./Action immédiate.md), ni [libre](./Action libre.md), pas plus que des [attaques d’opportunité](./attaque dopportunité.md)) pour tout le [round](./round.md). Il choisit alors un allié situé dans les 9 mètres (6 {s:c}) et lui accorde les bénéfices d’un sort de *[rapidité](./Rapidité.md)* pour 1 round. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md) (minimum 1).
+
+**Donner l’initiative (Ext).** Au niveau 8, l’inquisiteur et ses alliés situés à moins de 9 mètres (6 {s:c}) ajoutent le bonus de [Sagesse](./Sagesse.md) de l’inquisiteur à leurs tests d’initiative.
+
+{s:UM}{s:Reference|TORTURE}
+### Inquisition de torture
+*Ce n’est que par la douleur que la vérité et la justice font surface. Et si cela ne fonctionne pas, l’inquisiteur a au moins appliqué la vengeance divine.*
+
+**Présence du tortionnaire (Ext).** Le personnage gagne un bonus de +2 quand il utilise la compétence [Intimidation](./Intimidation.md). Ce bonus s’ajoute à celui de [Regard sévère](./Inquisiteur.md#REGARDSEVERE).
+
+**Caresse du tortionnaire (Ext).** L’inquisiteur peut utiliser *[fatigue](./Fatigue.md)* comme un pouvoir magique. Ce pouvoir reste sans effet sur les créatures immunisées contre les effets de douleur. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Précision critique (Ext).** Au niveau 8, quand le personnage menace de faire un [coup critique](./coup critique.md), il peut dépenser une utilisation de sa caresse du tortionnaire pour ajouter un bonus de +4 au jet de confirmation. Ceci ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+
+{s:UC}{s:Reference|TUEURDESORTS}
+### Inquisition de tueur de sorts
+*Beaucoup de fidèles et d’ordres religieux sont souvent en conflit avec les pratiquants de la magie profane, c’est pourquoi ils ont créé des inquisitions et entraîné des régiments pour les combattre.*
+
+**Pouvoirs accordés.** L’inquisiteur gagne [Perturbateur](./Perturbateur.md) comme don supplémentaire, même s’il ne remplit pas les conditions requises. Quand il triomphe d’un ennemi (qu’il le réduise à 0 [point de vie](./pv.md) ou moins, qu’il le fasse prisonnier ou qu’il accepte une trêve), il gagne un bonus sacré ou impie de +2 à la [CA](./CA.md) pendant 1 minute par niveau. Le personnage gagne un bonus sacré s’il est Bon, impie s’il est Mauvais. S’il est Neutre, il choisit le type de bonus au moment où il apprend cette inquisition. Il ne peut pas changer d’avis par la suite. Quand l’inquisiteur touche une créature qui a des niveaux d’[alchimiste](./Alchimiste.md) ou d’une classe de lanceurs de sorts profanes ou encore une créature qui possède des pouvoirs magiques, il peut sacrifier son bonus pour rendre sa victime [chancelante](./Chancelant.md).
+
+À chaque tour, la victime a droit à un jet de [Vigueur](./Vigueur.md) contre l’effet (y compris lors du tour où elle subit la condition pour la première fois). Un jet de sauvegarde réussit met fin à l'état chancelant.
+
+{s:UM}{s:Reference|VENGEANCE}
+### Inquisition de vengeance
+*La vengeance n’est rien d’autre que la justice dépouillée de tout artifice. L’inquisiteur a juré de faire ainsi justice, sans contrainte.*
+
+**Divine vengeance (Mag).** Par une [action simple](./Action simple.md), le personnage peut désigner une créature située dans les 9 mètres (6 {s:c}) pour indiquer qu’elle est la cible de la colère divine. Il lui arrive alors une mésaventure ou un accident en accord avec l’environnement, comme une branche qui lui tombe dessus, des pierres qui chutent d’une voûte ou autre incident non magique. Quelle que soit la cause de l’accident, il inflige 1d6 points de dégâts + 1 par tranche de deux niveaux d’inquisiteur (jet de [Réflexes](./Réflexes.md), 1/2 dégâts). C’est au MJ de décider si ces dégâts sont de nature contondante, tranchante ou perforante. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Ultime vengeance (Sur).** Au niveau 8, l’inquisiteur peut, une fois par jour, faire une attaque de corps à corps contre un adversaire à portée en réponse à une attaque qui devrait faire tomber ses [points de vie](./pv.md) dans le négatif. Une fois l’attaque portée, l’inquisiteur subit les effets normaux de celle dont il est victime et qui a déclenché ce pouvoir. Les effets qui tuent le personnage ou ne font pas passer ses points de vie en négatif (comme les diminutions ou les [affaiblissements](./affaiblissement temporaire.md) de caractéristique, les niveaux négatifs ou la *[désintégration](./Désintégration.md)*) ne déclenchent pas ce pouvoir.
+
+{s:UM}{s:Reference|VERITE}
+### Inquisition de vérité
+*Pour trouver la vérité, il faut arracher l’honnêteté aux autres, de gré ou de force.*
+
+**Véritable chemin de la justice (Mag).** Par une [action simple](./Action simple.md), le personnage peut toucher une créature et lui donner un bonus d’intuition à un [jet d’attaque](./jet dattaque.md), un test de [compétence](./Compétences.md), de [caractéristique](./Caractéristiques.md) ou un [jet de sauvegarde](./jet de sauvegarde.md) avant que ce ne soit à nouveau son tour. Ce bonus est égal à la moitié du niveau de l’inquisiteur (1 au minimum) et dure 1 round. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Sagesse](./Sagesse.md).
+
+**Étreinte de l’honnêteté (Sur).** Au niveau 8, toute créature en [lutte](./lutte.md) contre l’inquisiteur ou [immobilisée](./Immobilisé.md) par ses soins est affectée par une *[zone de vérité](./Zone de vérité.md)* ([Volonté](./Volonté.md), annule). En dehors des combats, le personnage peut utiliser ce pouvoir en touchant sa cible des deux mains. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à son niveau d’inquisiteur. Ces rounds ne sont pas nécessairement consécutifs. L’effet se termine dès que le personnage arrête de lutter contre sa cible, de l’immobiliser ou de la toucher.
+
+### Inquisition de vraie mort
+{s:plume}<div class="description">**Source :** Blood of Angels (BoA).</div>*Le personnage voit les mort-vivants comme une perversion de l'ordre naturel, une insulte à la magie, ou un esclavage injuste du corps des défunts, et s'est juré de détruire ces abominations.*
+
+**Retour à la tombe (Sur).** Lorsque le personnage lance des sorts de soins pour blesser un mort vivant, il ajoute 2 dommages par niveau d'[inquisiteur](./Inquisiteur.md) au lieu d'un. La limite des dégâts infligés de la sorte n'est pas modifiée.
+
+**Rite sacré (Sur).** Au niveau 8, le personnage gagne le droit d'accomplir un rituel funéraire sacré. Ce rituel prend un jour entier, durant lequel le personnage brûle de l'encens en prononçant des paroles sacrées. Au bout d'un jour, le personnage doit assister à l'enterrement du cadavre. Ce dernier doit s'effectuer dans les 24 heures suivant la fin du rituel. Une fois le corps enterré, il ne peut plus être transformé en mort-vivant, comme s'il bénéficiait d'un sort de [sanctification](./Sanctification.md) avec un [NLS](./NLS.md) égal au niveau de l'[inquisiteur](./Inquisiteur.md).
+
+{s:UM}{s:Reference|ZELE}
+### Inquisition de zèle
+*L’inquisiteur doit faire preuve d’un zèle sans faille pour que la volonté de son dieu soit exécutée.*
+
+**Excès de zèle (Mag).** Une fois par jour, quand le personnage tombe à 0 [point de vie](./pv.md) ou moins, il guérit un nombre de points de vie égal à son niveau d’inquisiteur + modificateur de [Sagesse](./Sagesse.md).
+
+**Fléau de l’ennemi (Ext).** Au niveau 8, le personnage choisit une religion rivale ou ennemie de la sienne. Il considère ses membres comme des [ennemis jurés](./Rôdeur.md#ENNEMIJURE) (comme le pouvoir du [rôdeur](./Rôdeur.md)) et gagne donc un bonus de +2 aux jets appropriés. Au niveau 13, ce bonus passe à +4 et au niveau 18 il est de +6. Ces bonus ne se cumulent pas avec d’autres bonus d’ennemi juré (on applique uniquement le plus élevé).

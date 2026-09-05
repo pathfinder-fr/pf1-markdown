@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Gantelet du Cobra de Fer
+Title: Gantelet du cobra de fer
+LastModified: 2024-06-02 18:15
+---
+
+<div class="BD">
+{s:BDTitre|Gantelet du cobra de fer|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 8.000 po ; **Poids** 0,5 kg
+(((Description)))
+Ce gantelet d’écailles métalliques qui monte jusqu’au coude a un renflement au niveau du poignet, comme le capuchon d’un cobra. Trois fois par jour, son porteur peut le transformer en [cobra de fer](./Cobra de fer.md), qui ondule depuis son poignet et obéit à ses ordres. Le gantelet a dès lors l’aspect d’un simple brassard d’écailles. Quiconque porte ce brassard est le maître du cobra de fer. Ce dernier s’anime pendant une durée maximale de 1 heure par jour. Si le serpent entend son maître lui ordonner de reprendre sa forme de gantelet (une [action simple](./Action simple.md)), il le rejoint au plus vite, grimpe sur son bras et, par une [action libre](./Action libre.md), reprend sa forme inanimée. Si la durée d’animation est dépassée avant qu’il n’atteigne son maître, il reprend sa forme de gantelet, mais fusionne automatiquement avec le brassard dès que les deux parties entrent en contact. S’il est tué sous forme de cobra, il reprend sa forme de gantelet et ne peut plus être utilisé pendant 24 heures. Si le gantelet est détruit, le serpent l’est également. Le porteur peut réapprovisionner le réservoir à poison du cobra de fer quelle que soit sa forme.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*, *[localisation suprême](./Localisation suprême.md)*, *[quête](./Quête.md)* ; **Coût** 4.000 po
+</div>

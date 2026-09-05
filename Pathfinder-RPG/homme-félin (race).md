@@ -1,0 +1,149 @@
+---
+Name: Pathfinder-RPG.homme-félin (race)
+Title: Les hommes-félins
+LastModified: 2025-01-10 18:17
+Categories:
+- Règle officielle
+- Src Manuel des races
+---
+
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Homme-félin.md) d'un homme-félin standard.***
+
+Les hommes-félins sont une race d’explorateurs qui adorent faire de nouvelles expériences, mais cela ne se limite pas simplement à rechercher de nouveaux horizons dans de lointaines contrées. Nombreux sont ceux qui considèrent le développement et l’évolution personnels comme des aventures tout aussi valables. Si la plupart des hommes-félins sont des créatures agiles, compétentes et souvent dynamiques, certains préfèrent se consacrer à la contemplation silencieuse et aux études. Ces individus cherchent à trouver de nouvelles solutions à de vieux problèmes et à remettre en question même les certitudes philosophiques les mieux établies de leur temps. Ils sont curieux de nature et la culture des hommes-félins ne cherche jamais à décourager la curiosité, mais plutôt à la nourrir et à l’encourager. Nombre d’entre eux sont considérés comme des extravertis originaux par les membres des autres races, mais les tribus d’hommes-félins n’ont aucun problème avec les comportements quelque peu bizarres, l’excentricité ou la témérité. À l’exception des plus concentrés sur leur vie intérieure tous apprécient d’être au centre de l’attention, mais pas aux dépens de leur tribu, qu’il s’agisse de celle où ils ont vu le jour ou de celle qu’ils ont choisie en se liant d’amitié avec d’autres créatures. Les hommes-félins sont généralement généreux et loyaux envers leur famille et leurs amis.
+
+**Description physique.** En général, les hommes-félins sont minces et élancés, d’une taille située à mi-chemin entre celle des nains et des humains. S’ils sont clairement humanoïdes, ils ont de nombreuses caractéristiques félines, comme un fin manteau de douce fourrure, des pupilles en fente et une queue lisse et efflée. Ils ont les oreilles pointues, mais, contrairement à celles des elfes, les leurs sont plus arrondies, plus félines. Ils manipulent les objets tout aussi facilement que n’importe quel autre humanoïde, mais leurs doigts se terminent sur de petites griffes acérées et rétractables. Ces griffes ne sont généralement pas assez puissantes pour être utilisées comme armes, mais certains membres de cette espèce (que ce soit un défaut de naissance ou le résultat d’années d’affûtage) peuvent s’en servir à des fins mortelles. Il n’est pas rare qu’ils aient des moustaches de félin, mais ce n’est pas une règle universelle. La couleur de leurs yeux et de leurs cheveux varie grandement d’un individu à l’autre.
+
+**Société.** Si l’expression de l’individualité constitue un aspect important de la culture des hommes-félins, il est atténué par un sens profond de la communauté et de l’effort de groupe. Lorsqu’ils vivent dans la nature, les hommes-félins sont un peuple tribal de chasseurs-cueilleurs. La poursuite du pouvoir personnel ne passe jamais avant la santé et le bien-être de la tribu. Plus d’une race a sous-estimé ce peuple en apparence doux pour découvrir bien trop tard que leur cohésion leur donnait également beaucoup de force.
+
+Les hommes-félins préfèrent être dirigés par les membres les plus compétents : il s’agit généralement d’un conseil de sous-chefs choisis par leurs pairs, par consensus ou élections. Les hommes-Félins sous-chefs choisissent ensuite un chef qui dirige la tribu lorsque celle-ci est menacée et qui devient le médiateur des disputes entre sous-chefs. Le chef est le membre le plus compétent de la tribu et est souvent doué de pouvoirs magiques. Les hommes-félins qui s’installent dans des zones urbaines, plus civilisées, s’attachent à conserver une structure tribale similaire, mais considèrent souvent leurs amis extérieurs à la tribu, même ceux des autres races, comme une partie étendue de leur clan. Au sein des groupes d’aventuriers, les hommes-félins qui ne se considèrent pas comme un choix évident pour prendre la place de chef s’inclinent souvent devant la personne qui se rapproche le plus de leur idéal culturel de dirigeant.
+
+**Relations.** Dotés d’une grande faculté d’adaptation et curieux, les hommes-félins s’entendent bien avec presque toutes les races qui font preuve d’une bonne volonté réciproque. Ils s’habituent facilement aux halfelins, aux humains et surtout aux elfes. Les hommes-félins et les elfes partagent la même nature passionnée, ainsi que le même amour de la musique, de la danse et des bonnes histoires ; les communautés elfes prennent garde à ne pas se montrer condescendantes avec leurs amis félins. Les gnomes font des compagnons parfaits pour les hommes-félins, ces derniers appréciant grandement leurs qualités étranges et obsessionnelles. Les hommes-félins tolèrent les kobolds tant que ces êtres reptiliens respectent leurs frontières. La nature sauvage des orques suscite autant de perplexité que de répugnance chez les hommes-félins, ces derniers ne comprenant pas leur brutalité et leur propension à l’autodestruction. Les demi-orques, quant à eux, intriguent les hommes-félins, tout particulièrement ceux qui cherchent à atteindre l’excellence et à dépasser la nature délétère et odieuse de leurs farouches semblables. Les hommes-félins voient souvent les gobelins et les hommes-rats comme de la vermine, ils méprisent leurs tendances pernicieuses et leur propension à la prolifération.
+
+**Alignement et religion.** La communauté et la coopération désintéressée étant au coeur de leur culture, tout comme la curiosité bon enfant et la volonté de s’adapter aux coutumes de nombreuses autres races, la plupart des hommes-félins sont généralement d’alignement Bon. La grande majorité d’entre eux est également Chaotique, la sagesse n’étant pas leur plus grande vertu ; néanmoins, il y a des exceptions. Et pour cause, les dieux Desna, Cayden Cailéan et Shélyn parlent tous à l’âme de ces créatures, et de nombreuses tribus décrivent ces deux derniers dieux comme des hommes-félins. Leur quête de perfection personnelle a conduit beaucoup d’entre eux à explorer différentes philosophies, y compris le culte d’Irori.
+
+**Aventuriers.** Les hommes-félins sont des pisteurs-nés et le fait que leurs tribus soient composées de chasseurs-cueilleurs les pousse souvent à devenir des rôdeurs et des druides. Toutefois ce genre de rôles ne répond pas toujours à leur amour de l’art et du spectacle, qu’il s’agisse de chant, de danse ou d’écriture. Les légendes des hommes-félins font également mention d’une riche tradition de héros qui furent de grands ensorceleurs. Les hommes-félins qui intériorisent leur soif d’aventures deviennent souvent des magiciens et des moines, nombre de ces derniers empruntant la voie du gardien agile. Si les hommes-félins chevaliers et inquisiteurs sont rares (la dévotion constante à une cause est souvent un concept impossible à concilier avec la façon de penser des hommes-félins), ceux qui choisissent ces voies ne sont jamais regardés avec mépris. Les hommes-félins comprennent que l’exploration et la connaissance de soi peuvent conduire sur bien des chemins et acceptent presque toutes les professions et manières de vivre.
+
+**Noms masculins.** Carruth, Drewan, Férus, Gerran, Nyktan, Rouqar, Zithembè.
+**Noms féminins.** Alyara, Duline, Hoya, Jilyana, Milah, Miniri, Siphélèle, Tiyéri.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 en [Dextérité](./Dextérité.md), +2 en [Charisme](./Charisme.md), -2 en [Sagesse](./Sagesse.md).** Les hommes-félins sont sociables et agiles, mais manquent souvent de bon sens.
+- **Homme-félin.** Les hommes-félins sont des [humanoïdes](./type Humanoïde.md) de sous-type [homme-félin`](./sous-type homme-félin.md).
+- **Taille M.** Les hommes-félins sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les hommes-félins ont une [vitesse de base](./VD.md) de 9 mètres.
+- **Vision nocturne.** Les hommes-félins [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
+- **Chance féline (Sur).** Une fois par jour, lorsqu’un homme-félin fait un jet de [Réflexes](./Réflexes.md), il peut le relancer et conserver le meilleur résultat. Il doit décider de l’utilisation de cette capacité avant de faire son jet.
+- **Chasseur-né.** Les hommes-félins reçoivent un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md), de [Perception](./Perception.md) et de [Survie](./Survie.md).
+- **Sprinter.** Les hommes-félins gagnent un bonus racial de +3 mètres à leur vitesse lorsqu’ils [chargent](./charge.md), [courent](./courir.md) ou [battent en retraite](./battre en retraite.md).
+- **Langues.** Les hommes-félins commencent le jeu en parlant le commun et le félin. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : elfique, gnoll, gnome, gobelin, halfelin, orque et sylvestre.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+{s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux standard des hommes-félins, mais consultez d’abord votre MJ.
+
+<u>*Remplace « chance féline » et « sprinter » :*</u>
+- {s:cs}{s:ISR}**Traqueur de la jungle.** Les hommes-félins vivent souvent dans des forêts profondes, comme la jungle de Valashmaï, et ils ont développé un équilibre naturel qui participe à leurs prouesses de chasse dans ces environnements dangereux. De tels hommes-félins bénéficient d'un bonus racial de +2 aux tests d'[Acrobaties](./Acrobaties.md) et peuvent ignorer la première case de [terrain difficile](./terrain difficile.md) causé par de la végétation à chaque round. Ce trait racial remplace chance féline et sprinter.
+
+<u>*Remplace « chasseur-né » :*</u>
+- **Curiosité.** Les hommes-félins sont naturellement curieux du monde qui les entoure, mais certains le sont plus que d’autres. Ceux-ci gagnent un bonus de +4 à leurs tests de [Diplomatie](./Diplomatie.md) pour recueillir des informations et ils traitent toujours [Connaissances](./Connaissances.md) (histoire) et [Connaissances](./Connaissances.md) (folklore local) comme des compétences de classe. S’ils choisissent une classe ayant l’une de ces deux compétences de Connaissances comme compétence de classe, ils gagnent un bonus racial de +2 à ces compétences à la place. Ce trait racial remplace chasseur-né.
+- **Félin rusé.** Les dispositions généralement amicales des hommes-félins n’excluent pas la ruse. Certains d’entre eux considèrent les obstacles sociaux comme un jeu. Ces hommes-félins reçoivent un bonus racial de +2 à leurs tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et de [Psychologie](./Psychologie.md). Ce trait racial remplace chasseur-né.
+- **Griffes du félin.** Certains hommes-félins ont des griffes plus solides et plus développées que les autres membres de leur race, et peuvent s’en servir pour attaquer. Les hommes-félins ayant ce trait racial ont une paire de griffes qu’ils peuvent utiliser comme des [armes naturelles](./Attaques naturelles (capacité).md). Ils s'agit d'attaques primaires infligeant 1d4 points de dégâts. Ce trait racial remplace chasseur-né.
+
+<u>*Remplace « sprinter » :*</u>
+- **Chute agile.** Certains hommes-félins ont un équilibre étonnant et une conscience aigüe de leur propre centre de gravité. Ceux qui ont ce trait racial retombent toujours sur leurs pattes, même quand ils reçoivent des dégâts létaux à la suite d’une [chute](./Dangers naturels.md#CHUTE). De plus, ils gagnent un bonus de +1 au [DMD](./DMD.md) contre les manœuvres de [croc-en-jambe](./croc-en-jambe.md). Ce trait racial remplace sprinter.
+- **Grimpeur.** Les hommes-félins chasseurs sont très doués pour chasser leurs proies depuis les arbres et autres hauteurs. Ceux qui ont ce trait racial ont une [vitesse d’escalade](./Escalade.md#Spécial_#2) de 6 mètres (ainsi qu’un bonus racial de +8 aux tests d’[Escalade](./Escalade.md) associés à leur vitesse d’escalade). Ce trait racial remplace sprinter.
+
+<u>*Remplace « vision nocturne » :*</u>
+- **Odorat.** Certains hommes-félins privilégient l’odorat à la vue. Ceux qui ont ce trait racial gagnent la capacité [odorat](./Odorat (capacité).md). Ce trait racial remplace celui de vision nocturne.
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+**[Barde](./Barde.md).** Le barde rajoute +1/2 à son bonus de [savoir bardique](./Barde.md#SAVOIRBARDIQUE).
+
+**[Chevalier](./Chevalier.md).** Le chevalier rajoute +1/4 à son bonus de [bannière](./Chevalier.md#BANNIERE).
+
+**[Druide](./Druide.md).** Le druide rajoute +1 [point de vie](./pv.md) à son [compagnon animal](./Druide.md#PACTEAVECLANATURE). Si jamais il remplace son compagnon animal, le nouveau bénéficie de ces points de vie supplémentaires.
+
+**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un pouvoir de [lignage](./Ensorceleur.md#LIGNAGE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [Charisme](./Charisme.md). Il peut l’utiliser 1/2 fois de plus par jour.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+**[Oracle](./Oracle.md).** L’oracle choisit un nouveau sort connu dans la [liste de sorts d’oracle](./Liste des sorts de prêtres.md). Il doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’il peut lancer.
+
+**[Rôdeur](./Rôdeur.md).** Le rôdeur choisit une arme de la liste suivante : [arc court](./Arc court (arme).md), [arc long](./Arc long (arme).md), [épée longue](./épée longue (arme).md), [épieu](./épieu (arme).md), [griffes](./Attaques naturelles (capacité).md) ou [kukri](./kukri (arme).md). Il rajoute +1/2 à ses jets de [confirmation critique](./coup critique.md) quand il utilise cette arme (bonus maximum de +4). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+
+**[Roublard](./Roublard.md).** Le roublard rajoute un bonus de +1/2 à ses tests de [Bluff](./Bluff.md) pour [feinter](./feinte.md) et à ses tests d’[Escamotage](./Escamotage.md) pour voler à la tire.
+</td></tr></table>
+
+### Nouvelles règles raciales
+{s:MR}Voici les options accessibles aux hommes-félins, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+#### Dons
+Ces dons sont accessibles aux hommes-félins :
+
+<center>
+{| CLASS="tablo autoalt toutgauche"
+
+|- CLASS="titre"
+| WIDTH="25%" | &nbsp;
+| WIDTH= "6%" | Source
+| WIDTH="25%" | Conditions
+| WIDTH="44%" | Avantages
+
+|- CLASS="premier"
+| [Chat noir](./Chat noir.md) || <sup>MR</sup> || [Homme-félin](./homme-félin (race).md) || une fois par jour, la créature qui touche l'homme félin doit refaire son attaque avec une pénalité
+|- CLASS="premier"
+| [Frappe leste](./Frappe leste.md) || <sup>MR</sup> || [Homme-félin](./homme-félin (race).md), [Dex](./Dextérité.md) 13, [BBA](./BBA.md)+1, trait racial sprinter || pas de malus de -2 à la CA avec les dons [Enchaînement](./Enchaînement.md) et [Fente](./Fente.md) ou pendant une charge
+|-
+| &emsp;[Bond griffu](./Bond griffu.md) || <sup>MR</sup> || [Homme-félin](./homme-félin (race).md), [For](./Force.md) 13, [Dex](./Dextérité.md) 15, [Frappe leste](./Frappe leste.md), [BBA](./BBA.md)+10, trait racial griffes du félin ou [Aspect bestial](./Aspect bestial.md) || L'homme félin peut attaquer à outrance avec ses griffes lors d'une charge
+|- CLASS="premier"
+| [Grâce du chat](./Grâce du chat.md) || <sup>MR</sup> || [Homme-félin](./homme-félin (race).md), [Dex](./Dextérité.md) 13 || +2 au DMD contre les manoeuvres offensives de bousculade, de lutte, de renversement, de repositionnement et de croc-en-jambe
+|- CLASS="premier"
+| [Homme-félin modèle](./Homme-félin modèle.md) || <sup>MR</sup> || [Homme-félin](./homme-félin (race).md) || L'[Aspect bestial](./Aspect bestial.md) de l'homme félin est plus manifeste et lui accorde des avantages
+|}
+</center>
+<div class="wiki-row"><div class="wiki-col wiki-col-6">
+#### Archétypes de classes
+Ces archétypes raciaux sont accessibles aux hommes-félins :
+- [Félin cambrioleur (roublard)](./Félin cambrioleur (roublard).md)
+- [Gardien agile (moine)](./Gardien agile (moine).md)
+
+#### Équipement
+Les hommes-félins ont accès à l’équipement suivant :
+- [Bottes de velours](./Bottes de velours (objet).md)
+- [Griffes métalliques](./Griffes métalliques (objet).md)
+- [Trousse de marquage olfactif](./Trousse de marquage olfactif (objet).md)
+
+#### Objets magiques
+Ces objets magiques sont spécifiques aux hommes-félins :
+- [Couronne Œil-de-chat](./Couronne Œil-de-chat.md)
+- [Griffes métalliques de lacération](./Griffes métalliques de lacération.md)
+- [Bottes de casse-cou](./Bottes de Casse-cou.md)
+
+</div><div class="wiki-col wiki-col-6">
+#### Sorts
+Ces sorts sont réservés aux hommes-félins :
+- ***[Neuf vies](./Neuf vies.md)*** *(MR)* ([Prê 8](./Prêtre.md), [Sor 8](./Sorcière.md)). Annule jusqu'à 9 effets néfastes qui devraient affecter la cible.
+- ***[Vol de souffle](./Vol de souffle.md)*** *(MR)* ([Bard 2](./Barde.md), [Dru 2](./Druide.md), [Hyp 2](./Hypnotiseur.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Psy 2](./Psychiste.md), [San 2](./Sanguin.md), [Sor 2](./Sorcière.md)). Extrait l'air des poumons d'une créature.
+
+#### Talents de roublard
+Tous les roublards qui répondent aux conditions requises indiquées peuvent prendre ces nouveaux talents de roublard, mais ils sont plus courants chez les hommes-félins.
+- [Chance désarmante](./Talents.md#CHANCEDESARMANTE)
+- [Chute gracieuse](./Talents.md#CHUTEGRACIEUSE)
+- [Évaluateur acharné](./Talents.md#EVALUATEURACHARNE)
+- [Griffes vicieuses](./Talents.md#GRIFFESVICIEUSES)
+- [Griffure mortelle](./Talents.md#GRIFFUREMORTELLE)
+- [Grimpeur félin](./Talents.md#GRIMPEURFELIN)
+</div></div>

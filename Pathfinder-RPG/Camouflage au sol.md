@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Camouflage au sol
+Title: Camouflage au sol
+LastModified: 2022-12-17 18:35
+Categories:
+- Don
+- Règle officielle
+- Src Ranged Tactics Toolbox
+---
+
+*Le personnage est encore plus difficile à repérer quand il est à plat ventre.*
+
+**Conditions.** -
+
+**Avantages.** Si le personnage est [couché](./À terre.md) depuis la fin de son dernier tour, la pénalité des jets de [perception](./Perception.md) pour que d’autres le repèrent augmente de +1 tous les 6m (4c) qui séparent le personnage de l’observateur, pour un maximum de +5 à 30m (20c). Cette pénalité s’ajoute aux modificateurs normaux de distance.

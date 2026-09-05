@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Grand œuvre
+Title: Grand œuvre
+LastModified: 2023-01-11 18:35
+Categories:
+- Don
+- Don histoire
+- Règle officielle
+- Src Guide de campagne
+---
+
+{s:GC}*Vous cherchez à créer un véritable chef d’œuvre.*
+
+**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+
+**Conditions.** Vous devez avoir vendu cinq œuvres d’art ou plus de votre création pour une valeur totale d’au moins 5 000 po, avoir donné au moins cinq représentations devant un public de 50 spectateurs ou plus et présenter une superbe prestation au minimum (voir la description de la compétence [Représentation](./Représentation.md)) ou encore avoir l’[historique](./Générateur dhistorique.md) Virtuose.
+
+**Avantages.** Choisissez une unique compétence d’[Artisanat](./Artisanat.md) ou de [Représentation](./Représentation.md). Quand vous choisissez de [faire 10](./faire 10.md), considérez que vous avez fait 15.
+
+**Objectif.** Vendre une unique œuvre d’art de votre conception pour un minimum de 25 000 po ou donner au moins dix représentations devant un parterre de cent spectateurs ou plus en obtenant à chaque fois un résultat sublime ou mieux, ou encore avoir comme mécène le dirigeant d’un pays ou d’une ville de 100 000 âmes minimum. Dans ces trois cas, vous devez arriver à vos fins en utilisant la compétence choisie.
+
+**Avantage de réussite.** Vous gagnez un bonus de +5 aux tests de la compétence que vous avez choisie et vous gagnez un bonus de +2 aux tests d’Artisanat et de Représentation dans lesquels vous avez investi au moins un rang.

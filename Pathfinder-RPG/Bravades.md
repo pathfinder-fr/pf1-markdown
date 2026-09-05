@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Bravades
+Title: Les bravades du bretteur/pistolier
+LastModified: 2024-10-02 16:34
+Categories:
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuclassessupplémentaires}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MCA}Les bravades sont similaires aux exploits en ce qu’elles confèrent au [pistolier](./Pistolier.md) ou au [bretteur](./Bretteur.md) des pouvoirs supplémentaires basés sur son [audace](./Pistolier.md#AUDACE) ou son [panache](./Bretteur.md#PANACHE). Toutefois, à la différence des exploits, les bravades s’activent quand la réserve de point que les membres de ces classes utilisent est vide et deviennent inactives dès que la réserve de ces personnages contient au moins un point. Les bravades confèrent aux personnages un avantage et un nouveau pouvoir qui leur permet de regagner des points ou d’augmenter les possibilités de récupération des points d’audace ou de panache.
+
+Une bravade se choisit à la place de l’un des dons supplémentaires qu’un [pistolier](./Pistolier.md#DONSUPPLÉMENTAIRE) ou un [bretteur](./Bretteur.md#DONSUPPLEMENTAIRE) gagne au niveau 4 et tous les 4 niveaux par la suite. Un pistolier ou un bretteur peut posséder plusieurs bravades, mais seule l’une d’elles peut être active en même temps dès que la réserve du personnage ne contient plus aucun point d’audace ou de panache. Une fois la bravade active choisie, le pistolier ou le bretteur ne peut plus en changer à moins que sa réserve de points de panache ou d’audace ne soit de nouveau vide.
+
+#### Agilité désespérée (Ext)
+Quand cette bravade est active, le personnage gagne un bonus d’esquive de +2 à la [CA](./CA.md). Il récupère 1 point d’[audace](./Pistolier.md#AUDACE) ou de [panache](./Bretteur.md#PANACHE) quand les ennemis effectuent des attaques au corps à corps ou à distance contre lui et que ces attaques échouent trois fois d’affilée. Les attaques n’ont pas besoin de provenir du même ennemi.
+
+#### Course effrénée (Ext)
+Quand cette bravade est active, la [vitesse de déplacement](./VD.md) du personnage augmente de 3 mètres et le personnage conserve son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) quand il [court](./courir.md). Il récupère 1 point d’[audace](./Pistolier.md#AUDACE) ou de [panache](./Bretteur.md#PANACHE) la première fois qu’il se situe à plus de 30 mètres de l’ennemi le plus proche.
+
+#### Effusion de sang (Ext)
+Quand cette bravade est active, la [zone de critique](./coup critique.md) des armes à feu (pour les [pistoliers](./Pistolier.md)) ou des armes de corps à corps perforantes à une main ou légères (pour les [bretteurs](./Bretteur.md)) augmentent de 1 (20/×4 devient 19-20/×4, 19-20/×2 devient 18-20/×2, etc.). Cet effet ne se cumule pas avec les effets similaires qui modifient les probabilités de coup critique d’une arme.
+
+#### Esquive désespérée (Ext)
+Lorsque cette bravade est active, le personnage gagne la capacité de classe [esquive totale](./Roublard.md#ESQUIVETOTALE). S’il possède déjà cette capacité, il peut effectuer deux jets de [Réflexes](./Réflexes.md) lorsque cette bravade est active et conserver le meilleur résultat. Le personnage récupère 1 point d’[audace](./Pistolier.md#AUDACE) ou de [panache](./Bretteur.md#PANACHE) s’il réussit deux jets de Réflexes conférés par l’utilisation de cette bravade.

@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Monocle impeccable
+Title: Monocle impeccable
+LastModified: 2024-05-24 22:47
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Monocle impeccable|{s:UI}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [yeux](./Objets merveilleux portés sur les yeux.md) ; **Prix** 8 750 po ; **Poids** —
+(((Description)))
+{s:cs}Avec un *monocle impeccable* placé sur son œil, un artiste ou un artisan est capable d'atteindre une excellence systématique, car ses lentilles à facettes grossissent et révèlent les imperfections qu'il peut corriger. Le porteur d'un *monocle impeccable* bénéficie d'un bonus de compétence de +5 aux tests de toute compétence d'[Artisanat](./Artisanat.md) dans laquelle il est formé. Le porteur peut également créer des objets de maître en deux fois moins de temps que la normale (lors de la fabrication d'un objet, seul le temps de fabrication de la partie « de maître » de l'objet est réduit de moitié). Le porteur du monocle bénéficie également d'un bonus de compétence de +5 aux tests de [Linguistique](./Linguistique.md) pour détecter les contrefaçons et aux tests de [Perception](./Perception.md) pour voir à travers les déguisements. Le monocle confère en outre à son porteur un bonus de compétence de +2 aux [jets de sauvegarde](./JDS.md) pour dévoiler les illusions, grâce à son attention exceptionnelle aux détails.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[chance de l'artisan](./Chance de lartisan.md)* ; **Coût** 4 375 po
+</div>

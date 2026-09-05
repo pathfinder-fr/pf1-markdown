@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Serre-tête de Protection des Âmes
+Title: Serre-tête de protection des âmes
+LastModified: 2024-05-29 19:57
+---
+
+<div class="BD">
+{s:BDTitre|Serre-tête de protection des âmes|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 11 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 30 000 po ; **Poids** 0,5 kg
+(((Description)))
+Aucune inscription ni ornementation ne décore ce simple serre-tête en fer froid : il est toutefois toujours légèrement frais au toucher. Ce serre-tête protège l’âme et l’identité de son porteur contre les intrusions mystiques. Le porteur est immunisé contre les effets qui s’en prennent aux âmes (tels que le sort de *[séquestration](./Séquestration.md)*) ou qui sont déjoués par le sort d’*[antidétection](./Antidétection.md)* (mais à la différence de ce sort, il n’autorise pas l’auteur de la divination à tenter un test de [niveau de lanceur de sorts](./NLS.md) pour ignorer son effet). Si le porteur meurt, il ne peut être ramené magiquement à la vie (sauf par le biais d’un *[miracle](./Miracle.md)*, d’un *[souhait](./Souhait.md)* ou d’une intervention divine) à moins de lui retirer le serre-tête.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[antidétection](./Antidétection.md)*, *[séquestration](./Séquestration.md)* ; **Coût** 15 000 po
+</div>

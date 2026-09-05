@@ -1,0 +1,184 @@
+---
+Name: Convergences-fr printemps 2024
+Title: ConVergence FR 2024
+LastModified: 2025-09-14 11:34
+---
+
+---
+Du Vendredi 15 au samedi 17, la région Francia et la communauté Pathfinder-FR vous invitent à **ConVergence FR**, un grand rassemblement de joueurs et maîtres de jeu du monde francophone, qui sera organisé en ligne. Convention de jeu organisé (SFS et PFS), ce sera l'occasion de jouer à **Pathfinder 2** et **Starfinder** tout le week-end, de se plonger dans ces mondes incroyablement riches élaborés par de talentueux écrivains.
+<div style="display: flex; justify-content: space-around; align-items: center">
+<img src="/Wiki/public/Upload/Logos/LogoPFS.webp" style="width: 32%"/>
+<img src="/Wiki/public/Upload/Logos/LogoSFS.webp" style="width: 32%"/>
+</div>
+Impatients de démarrer, nous vous proposeront quelques aventures la semaine avant le grand évènement, non seulement sur des plateformes dédiées en ligne mais aussi sous forme de  parties sur discord (parties en mode texte).<hr>
+
+
+## Informations Utiles
+Toutes les parties seront centralisées sur [le serveur Discord de Pathfinder-FR](https://discord.gg/uTrTaM92MA).
+
+Retrouvez la section "Convention ConVergence FR" sur le serveur pour vous attribuer le rôle d'Éclaireur depuis le canal #règlement-et-rôles.  Ce rôle ainsi que les autres nous permettront de communiquer avec vous et vous permettront d'accéder aux salons vocaux de la convention.
+
+<img src="/Events/Register.jpg" class="fright cadre" alt="">
+À l'exception des parties sur Discord, les inscriptions à la **Convention** seront gérées par le site Warhorn. Vous pouvez d'ores et déjà vous enregistrer sur [le site Warhorn de l'évènement](https://warhorn.net/events/convergence-fr-printemps-2024). Il suffit de cliquez sur le bouton "Register". Ainsi, vous serez tenus au courant de l'évolution de la convention et de l'ouverture aux enregistrements.
+
+L'ouverture des inscriptions aux parties est prévue à partir
+- du 16 février pour les MJs participants,  
+  
+
+- du 25 février pour tout le monde.
+
+<div style="clear: both"></div>Les inscriptions aux **Parties PsD** seront publiées sur le canal #recrutement du serveur Discord. Les parties qui y sont proposées ne se limitent pas aux parties de la convention&nbsp;: n'hésitez pas à participer à d'autres sessions, surtout si vous débutez !!
+
+
+
+
+## Une Programmation Exceptionnelle
+Comme nous vous le disions en introduction, la thématique principale de ConVergence FR 2024 sera la saison en cours; l'Année de l'Exploration sans Entraves.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/8022a8d5-f979-49de-bbb2-04fcdafa005d/PZOPFS0005_PFSYEAR5_2000.png|84%|centre}
+
+De la Grande Loge d'Absalom aux prairies d'Arcadie en passant par Nex, Qadira, le Labyrinthe de la Route Ouverte vous emmènera dans tous les recoins de Golarion où vous découvrirez toute sorte créatures, de personnages hauts en couleur et  peut-être rencontrerez-vous la Maîtresse du Labyrinthe en personne.
+
+
+#### Les Parties sur Discord
+Les Parties sur Discord (PsD) sont des parties en mode texte offrant aux personnes ayant moins de temps de quand-même s'adonner à leur passe-temps.  
+
+
+<div style="display:flex; justify-content:space-between; width: 84%; margin-left: auto; margin-right: auto">
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0001E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0003E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFB0004E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZO/PZOSFS0103E.jpg|24%|}
+</div>
+
+Les scénarios suivants seront proposés et ce dés février :
+
+{| CLASS="tablo centre"
+|+ Parties sur discord
+|- CLASS="titre"
+| Scénario || Durée
+|- CLASS="premier"
+| PFS2 Quest #01 : The SandStone Secret || Courte
+|-
+| PFS2 Quest #03 : Grehunde's Gorget || Courte
+|-
+| SFS Scenario #01-03 : Yesteryear's Truth || Moyenne
+|-
+| PFS2 Bounty #04 : Cat's craddle || Courte
+|-
+|}
+
+La durée des Parties sur Discord dépend essentiellement des membres autour de la table, nous vous indiquons à titre informatif les durées observées.
+- Une partie courte correspond aux scénarios de type Quests ou Bounty et se déroule en moyenne sur 2 semaines,
+- Une partie moyenne correspond à un Scénario de la société (PFS ou SFS) ou encore les scénarios de type "One Shot" ou "Free RPG Day" et se déroule en moyenne sur 4 à 6 semaines,
+- Une partie longue correspond à un module ou à un tome d'un Adventure Path et prendra entre 9 et 12 mois.
+
+
+
+#### Le Warm-Up
+
+La semaine précédent la convention, du **Lundi 11 au Jeudi 14 Mars**, nous vous proposerons des parties en soirées, juste pour s'échauffer et parce que nous ne pouvons pas attendre. Ce sera aussi l'occasion d'accueillir **Njini** comme nouveau MJ, Vous ne la connaissez sans doute pas, mais si vous jouez à Pathfinder 2 sur Foundry en français c'est grâce à son travail acharné de traduction ainsi qu'à tous ses coéquipiers.
+
+<div style="display:flex; justify-content:space-between; width: 84%; margin-left: auto; margin-right: auto">
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0015E.jpg|32%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZO/PZOSFS0614E.jpg|32%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0503E.jpg|32%|}
+</div>
+
+- Le **Lundi 11 Mars**, Njini nous proposera la Quest #15 "***The Footsteps of Horror***" (Sur les Traces de l'Horreur) pour niveaux 1 à 4 où les éclaireurs devront explorer les sous-sols autrefois occupés par une liche.  
+  
+
+- Le **Mardi 12 Mars**, Nous proposerons le Scénario PFS2 #05-03 "***The Heidmarch Heist***" (Le Casse du Manoir Heidmarch) pour niveaux 5 à 8 dans laquelle une équipe d'éclaireurs venu pour remplir une mission de routine se retrouvera au coeur d'une enquête et devra chercher un traître parmi les siens.  
+  
+
+- Le **Mercredi 13 Mars** nous emmènerons des explorateurs d'étoiles, starfinders, sur l'Idari, un vaisseau de colons Kassathas devenu membre à part entière de l'alliance des Mondes du Pacte. Dans le Scénario SFS #06-14 "***The Missing***" (Les Disparus), pour niveaux 1 à 4 qui sera en plus le premier scénario se déroulant sur l'Idari jamais proposé dans l'histoire de la Starfinder Society.
+
+<img src="/Events/convergences-fr-Q01-2024/Idari.webp" class="centre" alt="">
+- Enfin, le **Jeudi 14 Mars** nous entamerons une des trames principales de la Saison 5 "***Equal Exchanges***" (Échanges Équitables) avec sa première partie dans le Scénario PFS2 #05-04 "***Equal Exchanges - Necessary Introduction***" (Échanges Équitables - des Présentations Indispensables) pour niveaux 1 à 4. On vous en dit plus un peu plus loin ... Patience.
+
+
+### Vous débutez ?
+
+Ce sera votre première partie de jeu organisé, ou sur discord ? Ce n’est pas un problème, Pathfinder-FR s'adresse à tous les joueurs, novices, débutants, confirmés, experts. Vous trouverez également de l’aide et des réponses à vos questions.
+
+
+#### Qu'est-ce que le Jeu Organisé ?
+
+La campagne de jeu organisé est une campagne mondiale vivante proposant des parties dites "One-Shots" dans lesquelles vos personnage font partie de la Société des Éclaireurs (Pathfinder society) ou de la Société des Explorateurs d'Étoiles (Starfinder Society) selon le jeu choisi. Ces explorateurs ou éclaireurs forment une société dont le but est l'exploration, la coopération et la documentation de leurs découvertes.
+
+Contrairement aux parties "One-Shot" traditionnelles, vos personnage sont persistants et évoluent au cours de leurs aventures. La composition de la table (MJ, joueurs) peut donc être différente à chaque session et, afin de s'assurer que les règles soient les mêmes pour tout le monde, un règlement de jeu organisé est en place et décrit (en anglais) sur le site de l'Organized Play Foundation. Ce règlement régit l'accès aux options de personnage ainsi que certains éléments qui, dans les campagnes ou one-shots traditionnels, sont laissés à l'appréciation du MJ.
+
+Pathfinder-FR propose un Wiki dédié au jeu organisé contenant explications et des aides de jeux en français, bien que la meilleure école soit la pratique avec l'une des fréquentes parties proposées sur notre serveur Discord.
+
+Votre personnage commençant au niveau 1, vous pourriez penser que les parties proposées en convention de niveau supérieur ne vous sont pas accessibles. Le règlement du jeu organisé offre la possibilité de participer à ces parties en utilisant un des personnages iconiques officiels, qui sont disponibles en niveau 3 et 5.
+
+
+### Comment fonctionnent les Parties sur Discord ?
+
+Les Parties sur Discord (PsD), connues aussi par les anglo-saxons comme Play-by-Post (PbP) ou Play-by-Discord (PbD) se déroulent sur Discord et s'inscrivent dans un temps plus long. Un canal "RP" est utilisé pour la narration et les rencontres, alors qu'un canal "HRP" (Hors RP) permet la communication meta et les questions entre joueurs et maître de jeu.
+
+La Boîte à Outils utilisée pour jouer une PsD varie d'un MJ à l'autre.
+- Chacun pourra lancer les dés via un bot présent sur Discord.
+- Le MJ doit pouvoir avoir accès à la feuille de votre personnage ou à un statblock.
+- Parfois un document Google (sheet, doc, etc) est utilisé pour rassembler les informations essentielles et les phases de combat.
+- Parfois le MJ affiche des captures d'écran représentant la zone de combat, demandant à chacun ses actions.
+
+Les Parties sur Discord sont parfaites pour les joueurs et MJ ayant peu de temps disponible et souhaitant jouer à leur rythme. De plus une partie sur Discord est l'occasion d'accentuer les éléments narratifs et RP ou encore de prendre le temps de relire une règle avant de déterminer les actions de son personnage.
+
+Bien que ce format de partie soit particulièrement populaire dans le paysage rôlistique mondial, il est moins fréquent en francophonie. Pathfinder-FR propose depuis plus de 10 ans un format de partie par forum, optimisée pour Pathfinder-RPG (la première édition), le format sur Discord à rejoint notre offre depuis peu avec des parties pour Pathfinder 2e édition ainsi que StarFinder RPG.
+
+Les annonces PsD sur notre serveur Discord sont publiées dans le canal #recrutement et sont jouées dans #parties-sur-discord. Ce canal-forum inclut un fil "Partie Discord - Les bases" qui vous aidera à vous familiariser avec les codes des PsD.
+
+<img src="/Events/guide-des-post.jpg" class="centre" alt="">
+
+
+#### La Convention VTT
+Le point central de cet événement sera la Convention VTT, prévue du **Vendredi 15 au Dimanche 17 Mars**.
+
+Nous avons élaboré un programme diversifié, rassemblant plusieurs scénarios de la saison en cours, des scénarios liés au Labyrinthe de la Route Ouverte ainsi que des sessions pour les joueurs débutants. En voici quelques moments clés.
+
+
+##### Le Matin, des Quests et des Bounties
+Quests et Bounties seront proposés les samedi et dimanche matin. Ces scénarios courts pour personnage de bas niveaux sont idéals pour les débutants et démarreront à 10:00.
+
+<div style="display:flex; justify-content:space-between; width: 84%; margin-left: auto; margin-right: auto">
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFB0010E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0014E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0016E.jpg|24%|}
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0013E.jpg|24%|}
+</div>
+
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/abbc7d7b-2fea-43a5-bb20-fea4b44e0e63/PZOPFS0417_THEWATERFALL_1200x1500.png|30%|fright} <h4 class="separator">Des Échanges Équitables</h4>
+Architecte de la défaite de la vil guenaude Aslynn (saison 4), le membre du Décimverat, "La Cascade" (The Waterfall), est devenue un élément incontournable de la Grande Loge, commençant à tenir d'étranges réunions isolées avec les dirigeants et semblant mettre au point un plan.
+
+Dans la trame des "Échanges Équitables", les éclaireurs assistent "La Cascade"
+- Dans ***"Necessary Introduction"*** (des Présentations Indispensables), pour niveaux 1-4 et proposé le jeudi 14 mars. "La Cascade" dépêche une équipe d'agents à Hwanggot pour rencontrer le dragon du monde souterrain, Valashinaz (Treasure Vault).
+.  
+
+- Dans ***"Skymetal Hoard"*** (Pour un Paquet de Metal-Étoile) pour niveaux 5 à 8 , proposé le samedi 16 mars. Dans le cadre d'un accord secret entre le dragon du monde souterrain Valashinaz et "La Cascade", un groupe d'éclaireurs est envoyé sur une petite île au large de Minata pour pour recueillir une collection de métal-étoile dans un temple abandonné de Valashinaz.
+  
+
+- Dans ***"The Hidden Current"*** pour niveaux 7 à 10, proposé le dimanche 17 mars. Un mystérieux laboratoire abandonné est découvert dans l'océan Arcadien, avec des signes évidents d'expérimentations occultes ayant eu lieu à un moment donné. "La Cascade", étrangement fascinée par cette nouvelle découverte, envoie un groupe d'éclaireurs pour enquêter et rassembler toutes les recherches qu'ils peuvent trouver à l'intérieur.
+
+La suite et fin de cette trame, ne sera pas sortie pour la convention et nous la proposerons dés sa sortie !!
+<div style="clear: both"></div>
+
+##### Un Spécial Royal
+{s:ImageExt|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0499E.jpg|25%|fright}
+  
+
+Sollicités par la Reine de Kyonin elle-même, la Société des Éclaireurs doit enquêter sur un noble elfe obsédé par les démons et sur ses plans inquiétants pour une ville isolée dans les forêts de Kyonin. En échange, la société obtiendra l'autorisation d'opérer à nouveau au sein de la nation.
+  
+
+
+La Société des Éclaireurs décide d'y envoyer plusieurs groupes car le voyage est périlleux. Une fois les éclaireurs arrivés, la ville est assiégée par une puissance qui dépasse tous les elfes, quels que soient leurs plans et leur ambition. Les équipes d'éclaireurs doivent travailler ensemble efficacement et rapidement pour empêcher la corruption de la forêt et de la ville !
+  
+
+
+Le scénario Spécial Interactif de cette convention, "***Call of the Forest***" (l'Appel de la Forêt) propose une expérience unique, multi-table où plusieurs tables œuvreront ensemble, en même temps, vers un même objectif. Nous avons prévu 5 tables qui rassembleront des équipes différentes pour cette expédition (niveaux 1 à 8).
+  
+
+<div style="clear: both"></div>
+##### D'autres Scénarios
+La programmation de **ConVergence FR** ne s'arrête évidemment pas à ces quelques scénarios que nous venons de mettre en avant. Pour consulter le programme complet, connectez-vous sur le Warhorn, inscrivez-vous à la convention et consultez l'agenda !! Que ce soit l'introduction de la saison 5, le scénario ***The Crocodile's Smile*** (le Sourire du Crocodile), une aventure sous-marine avec ***Crashing Waves*** (les Vagues Déferlantes),*** Mistress of the Maze*** (la Maîtresse du Labyrinthe) ou encore ***Star Sugar Superstar*** pour Starfinder (oui !! aider une rock-star futuriste), il ne fait aucun doute que vous allez passer un bon moment de rire et de rencontres avec des tas de personnes passionnées qui vous feront vivre des histoires incroyables.

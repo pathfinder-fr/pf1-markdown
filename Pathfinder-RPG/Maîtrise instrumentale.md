@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Maîtrise instrumentale
+Title: Maîtrise instrumentale
+LastModified: 2024-07-23 17:53
+Categories:
+- Contenu supplémentaire
+- Don
+- Don maîtrise dobjet
+- Src Magic Tactics Toolbox
+---
+
+{s:cs|Magic Tactics Toolbox}
+
+*Le personnage peut utiliser ses instruments pour déverrouiller les secrets de la maîtrise des reliques et d'autres objets puissants.*
+
+**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+
+**Conditions.** Capacités de classe [instruments](./Occultiste.md#INSTRUMENTS) et [focalisaiton mentale](./Occultiste.md#FOCALISATIONMENTALE)
+
+**Avantages.** Dans le cadre de l'utilisation de dons de maîtrise d'objets, le personnage considère ses [instruments](./Occultiste.md#INSTRUMENTS) comme des objets magiques contenant tous les sorts qu'il connaît de chaque [école instrumentale](./Occultiste.md#INSTRUMENTS) associée à l'instrument comme des conditions de fabrication. Lorsqu'il utilise un instrument pour activer un don de maîtrise d'objets, il peut dépenser un nombre de points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) égal à la moitié du bonus de base de [Vigueur](./Vigueur.md) requis pour utiliser ce don pour l'activer sans en dépenser d'utilisation quotidienne. Un [occultiste](./Occultiste.md) avec ce don peut sélectionner un don de maîtrise d'objets à la place d'un [pouvoir de focalisation](./Occultiste.md#POUVOIRDEFOCALISATION) tant qu'il en rempli les conditions.
+
+(((Implement Mastery (Item Mastery)
+
+You can use your implements to unlock secrets of mastering relics and other items of power.
+
+Prerequisites: ImplementsOA class feature, mental focusOA class feature.
+
+Benefit: For the purposes of using item mastery feats, you treat your implements as magic items with all spells that you know from each implement’s associated implement school functioning as their effective construction requirements. When using an implement to activate an item mastery feat, you can spend a number of points of mental focus equal to half of the feat’s base Fortitude save bonus prerequisite to activate the feat without counting the use against the item mastery feat’s total number of daily uses. Special: An occultist who has this feat can select item mastery feats in place of focus powers, provided he meets the feats’ prerequisites.)))

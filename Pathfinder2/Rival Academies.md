@@ -1,0 +1,117 @@
+---
+Name: Pathfinder2.Rival Academies
+Title: Les académies rivales
+LastModified: 2025-01-22 17:39
+---
+
+• [Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2](./LORE.md)  
+
+• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)
+
+
+La Convocation des six Écoles approche à grands pas avec l’arrivée future de Pathfinder Lost Omens : Rival Academies ! Avec la prochaine publication du livre, le 5 mars, il est temps de dévoiler quelques secrets à propos de ces écoles.
+
+La Convocation est en essence une excuse pour présenter ce que ces six écoles sponsors ont à offrir et un endroit propice à l’échange de savoirs afin qu’ils perdurent après la disparition de ceux qui les ont découverts. Mais aucun académique n’admettra que les recherches qu’il expose ne sont pas les plus novatrices, ou que ses plans pour éradiquer les démons est moins efficace que ceux de ses rivaux !
+
+Ainsi, les six écoles de la Convocation se rassemblent dans un esprit de partage de connaissances et de compétition, le tout accompagné d’invités. Mais qui sont ces écoles, où leur enseignement se déroule-t-il le reste de l’année, et quels secrets amènent-elles ?
+
+<nav class="wiki-toc"></nav>
+
+## L’académie de la Réclamation
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/423d339e-3342-4ee0-a30b-4d08ccc919f0/PZO13004%20AcademyOfReclemationIntro_2000x1333.jpg|40%|fright cadre}
+L’académie de la Réclamation peut sembler être un regroupement étrange pour ce rassemblement d’érudits. Située à la frontière des territoires du Sarkoris envahis de démons, elle est si nouvelle qu’elle vient à peine de célébrer ses premiers diplômés. Sa localisation, dans la cité-forteresse de Nérosyan, lui offre quelques avantages surprenants ; les anciens baraquements pour croisés ont été transformés en quartiers temporaires pour les invités et les râteliers d’armes des armureries ont été remplacés par des bibliothèques.
+
+Malgré cela, l’existence de l’académie est intimement liée à l’histoire de la nation. Les habitants du Sarkoris se sont retrouvés éparpillés pendant une centaine d’années et leurs territoires envahis par des vagues incessantes de démons provenant de la Plaie du Monde. C’est seulement lorsque le portail vers les Failles extérieures a été fermé que le processus de guérison des terres et des habitants a vraiment pu commencer.
+
+L’académie de la Réclamation cherche à rassembler les savoirs qui ont été dispersés en même temps que les Sarkoriens. La magie et même les noms des anciens dieux de ces terres doivent être retrouvés, de même que les histoires, les savoir-faire et les traditions qui définissent les clans du Sarkoris. Et, même si c’est un peu plus controversé, l’académie embrasse également tout ce que les descendants de l’ancien Sarkoris ont appris pendant leur long exil, allant même jusqu’à établir une nouvelle école de magie.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/9a9cf938-43cf-41df-b5f8-a91837a9d984/PZO13004_ReclamationArchetype_1667x2000.png|25%|fleft cadre}{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/f8984dae-8949-4031-b467-d490fb751491/PZO13004_DiarraRomagne_1667x2000.png|25%|fleft cadre}
+On pourrait facilement penser que l’académie de la Réclamation est hantée par la tristesse et le sentiment de perte, mais ce serait une erreur. Le travail nécessaire pour rétablir les Sarkoriens et leurs alliés est ample mais, il y a de cela à peine quelques années, les armées démoniaques et les énergies maléfiques des Failles extérieures semblaient infinies. Chaque jour est désormais un pas en avant, et chaque démon tué ou portion de terrain purifiée constitue un progrès notoire vers la guérison de la nation.
+
+La charge de répandre ce message d‘espoir revient principalement à Diarra Romagne, qui fait l’une de ses rares apparitions lors de la Convocation, et passe le plus clair de son temps à aller partout où on peut trouver des descendants de réfugiés sarkoriens. Et, même si tout le monde n’est pas forcément en situation de rejoindre l’académie, rares sont ceux qui refusent de partager l’histoire de leur famille lorsqu’ils sont accueillis avec un sourire et un plat de petits biscuits.
+
+L’accomplissement dont l’académie est sans doute la plus fière est la redécouverte des rites d’Isthralei, un ancien dieu du Sarkoris dédié à la protection des voyageurs en échange de leurs histoires. Les Chroniqueurs des feux de camp qui pratiquent ces rites sont devenus en quelque sorte des représentants officieux de l’académie, qui acceptent de prendre en charge des étudiants visiteurs au nom d’Isthralei.
+
+
+## Cobyslarni
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/c794d28f-2b8e-4819-bc8f-f53f7cc137b6/PZO13004_CobyslarniIntro_2000x1333.jpg|40%|fright cadre}
+Sur le terrain où la Convocation se déroule, aucune école n’attire plus l’attention que Cobyslarni. Une gigantesque créature éléphantine est tout simplement arrivée un jour, portant l’école sur son dos, et s’est établie dans une section suffisamment grande du terrain. Cette ancienne créature, également nommée Cobyslarni, est à la fois le directeur de l’école et littéralement son fondateur.
+
+L’école passe la plupart du temps au sein du royaume féerique du Monde Premier, réalisant des excursions vers d’autres plans selon les plans mystérieux de son directeur. Les étudiants de Cobyslarni proviennent eux aussi de tous les plans, même s’il s’agit majoritairement de fées. Le curriculum se concentre sur la magie des fées, plus particulièrement les pouvoirs liés aux serments et aux accords. Le plus basique de ces accords, passé entre les étudiants et leurs mentors, forme la base de la structure de Cobyslarni, aussi chaotique et peu organisée qu’elle puisse paraître aux yeux des étrangers.
+
+Avec un tel nombre d’étudiants visitant l’Univers pour la première fois, le choc culturel est des plus extrêmes. Le temps et le terrain de Golarion peuvent sembler très étouffants aux étudiants fées, de même que le fait que la mort y constitue une menace bien réelle. Et, pendant ce temps, les autres participants à la Convention continuent à se demander si l’oiseau qui critique leur exposition est un professeur offrant des commentaires honnêtes ou un familier qui déverse des insultes aléatoires.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/aedc4161-352f-47dd-9b42-14290d8d56d0/PZO13004_CobyslarniExhibit_2000x1333.jpg|40%|fleft cadre}
+À côté de nombreuses expositions d’étudiants relatives à la magie et aux arts des fées, Cobyslarni a également ouvert les portes au Répositoire des échos, une archive extradimensionnelle remplies de choses prélevées dans des rêves oubliés. Les guides souriants y sont toujours prêts à offrir des conseils parfois cryptiques mais même les étudiants de Cobyslarni y croisent souvent des gremlins et des cauchemars plongés dans la brume avant de pouvoir localiser quelques rites oubliés ou histoires perdues dans les limbes du temps.
+
+Mais ce n’est bien sûr pas l’unique source d’information que Cobyslarni amène à la Convention. L’école visite de nombreux royaumes distants, ses étudiants apprenant des secrets étranges et passant des pactes avec des entités mystérieuses. De nombreux étudiants sont devenus des sorciers en rencontrant des créatures puissantes prêtes à participer à un tel pacte ; certains, bien que rares, sont même parvenus à attirer l’attention du directeur lui-même.
+Les étudiants qui s’intéressent plus particulièrement à la magie des pactes deviennent généralement des pactisants [pactbinders] et se lient personnellement par magie à de nombreuses entités ou même à des concepts abstraits. Les pactisants de Cobyslarni représentent une large variété de pactes qui peuvent concerner tant des Anciens du royaume des fées que des individus féeriques plus simples, suite aux nombreux voyages effectués par l’école.
+
+## L’académie kitharodienne
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/e4c102fd-e2cb-4ebc-ac33-b92ae4b622b0/PZO13004_KitharodianIntro_2000x1333.png|40%|fright cadre}
+Pendant plusieurs milliers d’années, l’empire du Taldor a représenté une force impactante, et l’académie kitharodienne est dédiée à tout ce qui permet de raconter cette histoire à travers des chansons, de la poésie, des pièces de théâtre et des opéras. Autant le Taldor peut être considéré comme une puissance militaire et commerciale dans la région de la mer Intérieure, autant Kitharodian peut être vue comme une puissance culturelle.
+
+Mais l’académie et sa nation sont liées à la fois pour le meilleur et pour le pire. Le Taldor a décliné au fil des siècles, devenant de plus en plus isolé et de plus en plus recentré sur ses gloires d’antan, et Kitharodian a suivi le même chemin. Certaines des histoires sont contées et re-contées, polies jusqu’à ce qu’elles brillent comme de l’or. Et, parallèlement, les étudiants sont sans cesse comparés aux artistes qui ont brillé au cours des siècles passés.
+
+Même si de nombreux étudiants kitharodiens organisent de grandes productions relatant les histoires des empereurs du passé, tout le monde sait qu’ils orientent plutôt leur travail d’acteurs pour servir l’impératrice actuelle. Et, même si l’école le nie avec véhémence, tout particulièrement lors d’événements internationaux comme la Convocation, bon nombre de ses étudiants vont travailler comme espions dans les rangs des Lames du lion après leurs études.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/dfec81c0-4b6e-40c6-8a44-7897a8665ed3/PZO13004_KitharodianExhibit_2000x1333.jpg|40%|fleft cadre}
+La Convocation représente une opportunité précieuse pour Kith, comme les étudiants aiment à l’appeler, lui permettant d’étendre ses activités vers de nouveaux sujets. Parmi ceux-ci, on compte des histoires provenant de pays lointains mais aussi des événements plus récents comme la fermeture de la Plaie du Monde. Et cela leur donne également l’occasion de montrer leurs spectacles plus-que-rôdés à des gens qui ne les ont pas encore vus des centaines de fois.
+
+Le fait de partager ces histoires et les techniques utilisées pour les raconter est une mission des plus importantes pour Kith, qui se demande combien de temps encore l’empire restera pertinent. Ainsi, peut-être que, même quand il ne le sera plus, leurs histoires continueront de garder bien vivantes leurs personnalités plus grandes que nature, tant les héroïques que celles des comédies sombres. Les meilleurs des étudiants kitharodiens parviennent à incarner ces rôles comme s’ils étaient des réceptacles vivants pour les empereurs du passé.
+
+Leur habitude de raconter les mêmes histoires encore et encore les a conduits à une certaine forme étrange d’innovation, les poussant sans cesse à rechercher des inspirations nouvelles et des outils innovants. Et, même si l’inspiration puisée dans la lueur des flirts au clair de lune ou dans le vacarme des soirées chaotiques est de nature éphémère, les outils développés par ces artistes sont aussi utiles dans les ombres que sous les feux de la scène.
+
+## Magaambya
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/01657568-7382-439c-8d2b-cb116486f59b/PZO13004_MagaambyaIntro_2000x1319.jpg|40%|fright cadre}
+Quand la civilisation des humains s’est extirpée de l’âge des Ténèbres il y a de cela des milliers d’années, la Magaambya était l’une des premières lueurs qui sont apparues. Fondée par le Vieux-Mage Jatembe et ses dix Guerriers magiques au sein des jungles de l’Étendue mwangie, l’école continue d’épouser sa tradition de plus ancienne école de magie de la région de la mer Intérieure.
+
+L’école a récemment commencé à adopter un rôle plus actif dans le monde de manière générale. Les Magaambyens considèrent la Convocation comme un élément de cet effort global, une extension des travaux de leurs enseignants pour offrir leur aide aux Sarkoriens éparpillés et contribuer à la collection de leurs histoires.
+
+Les cinq branches d’étude de l’école sont toutes représentées parmi les délégués magaabyens. L’école considère ces cinq branches comme faisant partie d’un tout, mais chacune d’elles adopte des rôles très différents à la fois au sein de la Magaabya et dans la Convocation. Le branche Uzunjati des conteurs d’histoire est la plus connue à l’extérieur de l’école, mais les Branches d’émeraude sont formés pour gérer les situations sociales complexes et les mages de la Tempête et du Soleil se sont préparés à affronter les démons de cet autre continent.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/d70c6e7f-cd25-4ebf-b6c9-ef1c044646a7/PZO13004_MagaambyaExhibit_TreeOfStories_2000x1319.jpg|40%|fleft cadre}
+Les étudiants magaambyens ont placé sur le terrain de la Convocation un symbole vivant de leurs enseignements, qui devrait perdurer bien longtemps après qu’ils aient repris leurs masques et leurs artefacts et soient retournés chez eux. Même si cet arbre semble incongru au sein des rudes hivers du nord, les histoires contées à l’abri de ses branchages traversent sans peine les frontières des saisons.
+
+La présence des Uzunjati à la Convocation se ressent également sous d’autres formes, à travers les histoires qu’ils transmettent et les magies que ces histoires renferment. Ils ramènent même, en cadeau offert à leurs hôtes, une geste datant de l’ancien Sarkoris, une geste que leurs récits et leur magie ont ramenée à la vie.
+
+Mais les cinq branches de la Magaambya partage des enseignements communs au sein de l’école de magie de la Sagesse enracinée. Au fil des millénaires, les cinq branches ont grandi dans des directions différentes à partir de ce tronc commun, qu’il s’agisse d’explorer la théorie de la magie en tant que Porteur de cascades ou les frontières du monde physique en tant que Scribe de la pluie.
+
+## Le Monastère des Vagues que Rien ne Brise
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/fb8e61ba-67eb-4144-a0c1-2bc7341ec3cd/PZO13004_UnbreakingWavesIntro_2000x1319.jpg|40%|fright cadre}
+En tant qu’une des Maisons de la Perfection, le Monastère des Vagues que Rien ne Brise cherche l’illumination et l’inspiration martiale dans l’un des éléments. Dans leur cas, il s’agit du progrès flexible mais inarrêtable de l’eau, qui coule autour et érode tous les obstacles.
+
+Pendant des siècles, seules trois Maisons de la Perfection ont existé à Jalmeray, représentant l’Air, la Terre et le Feu. Le Monastère des Vagues que Rien ne Brise avait été détruit par l’un de ses rivaux et emporté dans les mers par un puissant tsunami. C’est seulement récemment que leurs enseignements sont revenus à la surface, avec l’aide de la Société des Éclaireurs. Même si la reconstruction n’a pas encore permis au monastère d’atteindre sa puissance d’antan, son passé l’a incité à participer à la Convocation pour éviter qu’une perte tragique similaire ne se répète.
+
+Au-delà de leur connexion philosophique avec les éléments, chaque Maison de la Perfection acquiert bon nombre de leurs techniques directement des génies associés avec leur élément. Dans le cas des Vagues que Rien ne Brise, ce sont des faydhaans qu’ils apprennent, des créatures réputées pour leur nature diplomatique et leurs modes de pensée flexibles.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/0791a6be-7e1c-4b61-9347-84a4cdcff9c6/PZO13004_SwordmasterGanhil_1600x2000.png|25%|fleft cadre}{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/0d176b4d-163a-458c-b4f6-a6dd382e9274/PZO13004_UnbreakingWavesMagus_1600x2000.png|25%|fleft cadre}
+Les bâtiments et les rangs du monastère sont reconstitués petit à petit, et il en va de même pour ses techniques. D’anciens parchemins redécouverts et autrefois considérés comme perdus sous les flots servent de fondations sur lesquelles la reconstruction s’appuie, mais des nouveaux membres et des idées novatrices permettent également de revitaliser le curriculum de l’école.
+
+Les principales techniques des Vagues que Rien ne Brise sont encore utilisées aujourd’hui par des moines, qui accroissent leurs capacités grâce à leur compréhension des vagues et de la respiration. Les vagues métaphoriques et philosophiques peuvent également devenir des forces réellement écrasantes entre les mains d’un moins expérimenté. Mais, même au sein des habitudes monastiques traditionnelles de l’ordre, de nouvelles postures et techniques sont ajoutées dans le but de pouvoir tenir tête à leurs anciens rivaux du Monastère du Fer Inflexible.
+
+Ces nouvelles approches sont particulièrement visibles chez ceux qui étudient le Maelström Renaissant. En combinant des sorts et des techniques de faydhaans avec l’ingéniosité des mortels, un magus peut utiliser la puissance de l’eau pour transformer n’importe quel outil en arme et tirer parti de cette transformation en les envoyant se briser sur leurs ennemis.
+
+## L’université de Lepidstadt
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/e6a55a85-1325-4183-afc0-ca4421312533/PZO13004_UniversityOfLepidstadtIntro_2000x1319.jpg|40%|fright cadre}
+Même si elle est au premier front en ce qui concerne les progrès en médecine et en technologie, l’université de Lepidstadt n’est pas toujours bien considérée dans son Ustalav natif. De nombreuses voix la voient comme un repaire pour les pilleurs de tombe et les expérimentations monstrueuses, mais les étudiants en médecine trouvent ces résultats plutôt instructifs.
+
+Les étudiants de l’université, même ceux qui se concentrent sur des champs d’étude moins controversés, voient la Convocation comme une bouffée d’air frais. Bien sûr, les Kiths sont bruyants, et les Magaambyans posent parfois des questions qui mettent mal à l’aise, au sujet du contenu exact de l’exposition mise en place par Lepidstadt, mais la pression n’est pas aussi constante et les jugements bien moins rapides. Malheureusement, cela ne peut pas durer éternellement : tôt ou tard, les étudiants devront retourner dans leurs halls d’étude mal éclairés et affronter à nouveau ces sinistres rumeurs.
+
+Certains étudiants ont une raison de plus pour célébrer l’événement. L’université a autrefois accepté des Sarkoriens qui fuyaient les démons ayant envahi leur territoire, alors même que l’Ustalav en général n’était pas vraiment un pays des plus accueillants. Bon nombre de descendants de ces réfugiés sarkoriens, qui font partie de la délégation de Lepidstadt, profitent de l’occasion pour visiter leurs terres ancestrales pour la première fois.
+
+{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/5ef8924d-ee4a-489c-beaf-a887c07928c4/PZO13004_ProfessorCherisNefritius-Sincoth_1600x2000.png|25%|fleft cadre}{s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/e2c5e26b-32a3-4a6f-b414-3a54d9a161a6/PZO13004_LepidstadtSurgeon_1600x2000.png|25%|fleft cadre}
+La loi, la théologie et même la magie arcanique sont des sujets enseignés à Lepidstadt, mais c’est surtout pour la médecine que l’université est connue. Les chirurgiens de Lepidstadt figurent parmi les meilleurs au monde, à la fois pour leurs capacités à soigner et leur compréhension théorique. Ils attribuent cette situation aux expériences pratiques consistant à démanteler des cadavres et à pratiquer leur art sur des volontaires. Quant à savoir si les dernières techniques inventées peuvent être utilisées pour ouvrir les veines d’un ennemi ou pour agiter des chairs mortes en une parodie de vie… c’est une question qu’il vaut mieux laisser pour les récits autour du feu de camp.
+
+L’École de la Science a également commencé à se faire un nom, même si elle est assaillie par de nombreuses controverses. Un certain nombre de bobines stasiennes recouvertes d’arcs électriques et interagissant avec des énergies occultes subtiles ont été introduites en secret dans l’école pour servir à des expériences. Les découvertes les plus récentes sont liées à l’utilisation de ces bobines pour façonner du verre et créer une variété de gadgets qui peuvent repousser les créatures provenant d’autres mondes ou dérober une partie de leur aura.
+
+Mais leur œuvre la plus complexe est sans doute leur exposition, une merveille scientifique et occulte qui a la forme d’une lourde commode garnie de bobines stasiennes. L’électricité, via des formes, des symboles et une voix craquante, semble répondre aux questions qu’on lui pose. Et, même si les étudiants de Lepidstadt eux-mêmes ne sont pas certains de ce qui se trouve exactement à l’intérieur, ils demandent que les gens cessent de tenter de l’exorciser !
+
+---
+Cette page est la traduction de deux articles publiés sur le blog de Paizo à l'adressse [https://paizo.com/community/blog/v5748dyo6xwzn?The-Rival-Academies](https://paizo.com/community/blog/v5748dyo6xwzn?The-Rival-Academies) et [https://paizo.com/community/blog/v5748dyo6y3xn](https://paizo.com/community/blog/v5748dyo6y3xn) et écrits par Landon Winkler.

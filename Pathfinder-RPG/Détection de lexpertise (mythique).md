@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Détection de lexpertise (mythique)
+Title: Détection de l'expertise (mythique)
+LastModified: 2021-01-17 16:42
+Categories:
+- Don
+- Don mythique
+- Src Campagnes mythiques
+---
+
+{s:cmy}
+*Le personnage peut intuitivement sentir les aptitudes magiques d’une créature d’un simple regard.*
+
+**Condition.** [Détection de l’expertise](./Détection de lexpertise.md)
+
+**Avantage.** Le personnage gagne immédiatement les avantages conférés par [Détection de l’expertise](./Détection de l’expertise.md) (sans avoir besoin d’observer une créature pendant trois rounds) lorsqu’il utilise les moyens divinatoires indiqués dans la description de ce don. Les créatures [non-mythiques](./non-mythiques.md) ne peuvent pas effectuer de jet de [Volonté](./Volonté.md) pour résister à cet effet.

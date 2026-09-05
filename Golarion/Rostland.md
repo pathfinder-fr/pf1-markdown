@@ -1,0 +1,16 @@
+---
+Name: Golarion.Rostland
+Title: Le Rostland
+LastModified: 2012-02-23 15:14
+Categories:
+- Brevoy
+- Géographie
+---
+
+Le Rostland est la partie méridionale du [Brévoy](./Brévoy.md).
+
+Contrairement à l'[Issie](./Issie.md), son rival du nord, les terres du Rostland sont vallonnées et fertiles, ce qui ne manque pas d'attiser la jalousie des voisins moins chanceux.
+
+Fondé il y a plusieurs siècles par des explorateurs du [Taldor](./Taldor.md), le Rostland est toujours dirigé par les Seigneurs de l'Epée, une confrérie martiale farouchement indépendante soumise au [Pacte de l'Épée](./Pacte-de-l'Épée.md)
+
+La société du Rostland est profondément traditionnelle et les coutumes locales forment le socle des lois. Toute personne qui ne les respecte pas à la lettre peut rapidement avoir des ennuis sérieux. A l'inverse, n'importe quel étranger qui se plie aux traditions du Rostland est très vite intégré et traité comme un ami fidèle.

@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Souvenir
+Title: Souvenir
+LastModified: 2023-01-11 18:38
+Categories:
+- Don
+- Don histoire
+- Règle officielle
+- Src Guide de campagne
+---
+
+{s:GC}*Vous cherchez une personne chère à votre coeur, une personne disparue mais, vous l’espérez, encore en vie.*
+
+**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+
+**Conditions.** Un proche parent, une épouse ou une autre personne chérie n’est jamais rentré d’un voyage, a été capturé ou a disparu sans laissé de trace. Sinon, vous devez avoir l’[historique](./Générateur dhistorique.md) Désastre majeur.
+
+**Avantages.** Vous êtes si déterminé que tous les dégâts [non létaux](./Blessures et mort.md#NONLETAL) que vous subissez sont réduits d’un point (1 point au minimum). Vous gagnez également un bonus de +1 aux jets de [Volonté](./Volonté.md).
+
+**Objectif.** Retrouver l’être cher perdu et, au passage, infliger une défaite décisive à un adversaire de valeur qui se mettait en travers de votre chemin.
+
+**Avantage de réussite.** Au lieu du bonus de +1 au jet de Volonté, vous gagnez un bonus de +1 à tous les [jets de sauvegarde](./JDS.md). Si vous retrouvez la personne décédée, vous perdez tous les avantages de ce don jusqu’à ce que vous enterriez sa dépouille et que vous apportiez, si besoin, le repos à son âme. Une fois le corps enseveli, vous récupérez l’avantage de réussite mais vous ne récupérez pas votre capacité à réduire les dégâts non létaux.

@@ -1,0 +1,7 @@
+---
+Name: Pathfinder-RPG.Dex
+Title: Dex
+LastModified: 2010-06-30 22:42
+---
+
+>>> Pathfinder-RPG.Dextérité

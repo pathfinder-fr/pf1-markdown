@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Ceinture À Lame
+Title: Ceinture à lame
+LastModified: 2024-05-25 16:19
+---
+
+<div class="BD">
+{s:BDTitre|Ceinture à lame|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible  ; **NLS** 1 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 2.000 po ; **Poids** 1,5 kg
+(((Description)))
+Cette ceinture est constituée de plusieurs longueurs de cuir attachées les unes aux autres par d’épais clous métalliques. Sur commande, le porteur peut transformer la ceinture en une arme de corps à corps tranchante et/ou perforante de maître de son choix. Tant qu’il tient l’arme en main, il peut également prononcer un mot de commande pour que la ceinture reprenne sa forme d’origine. De plus, la ceinture peut être enchantée comme une arme de corps à corps tranchante et perforante, en remplaçant le coût de l’arme de maître par celui de la ceinture.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[arme magique](./Arme magique.md)*  ; **Coût** 1.000 po
+</div>

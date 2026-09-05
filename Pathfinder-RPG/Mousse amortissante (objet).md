@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Mousse amortissante (objet)
+Title: Mousse amortissante
+LastModified: 2021-09-26 19:49
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 25 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20
+<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+---
+Quand on jette ce liquide blanc laiteux au sol, il bouillonne et se transforme en un voile de mousse semi-solide d’une épaisseur de 30 centimètres. Le personnage peut passer une minute à appliquer une flasque de mousse amortissante sur une zone de 3 mètres de rayon ou la lancer comme une [arme à aspersion](./arme à aspersion.md). La mousse ne gêne pas les mouvements mais réagit fortement à une brusque pression. Une créature qui tombe sur un voile de mousse amortissante ignore les premiers 1d6 points de dégâts de la [chute](./Dangers naturels.md#CHUTE) et convertit les seconds 1d6 points de la chute en dégâts [non létaux](./Blessures et mort.md#NONLETAL). Un voile de mousse amortissante se dissout au bout de 10 minutes ou lorsqu’il est exposé à au moins 4,5 litres d’eau.

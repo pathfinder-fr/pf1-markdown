@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Hameçon (objet)
+Title: Hameçon
+LastModified: 2021-09-16 21:36
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pa ; **Poids** —
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce petit crochet en métal n'est rien de plus qu'une aiguille rigide et recourbée.

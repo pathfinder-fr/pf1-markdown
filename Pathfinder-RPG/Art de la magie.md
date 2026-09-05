@@ -1,0 +1,56 @@
+---
+Name: Pathfinder-RPG.Art de la magie
+Title: Art de la magie
+LastModified: 2024-07-04 15:28
+Categories:
+- Compétence
+---
+
+{s:MenuCompétences}
+
+**Caractéristique associée** : [Intelligence](./Intelligence.md)
+
+**Formation nécessaire** : oui
+
+*L’art de lancer des sorts n’a pas beaucoup de secrets pour le personnage. Il sait identifier les objets magiques, les fabriquer et reconnaître les sorts que d’autres personnes lancent.*
+
+### Test de compétence
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#13) Identifier des sorts : Qu’est ce que j’identifie exactement quand j’utilise l’Art de la magie pour identifier un sort ? Est-ce que ce sont les composantes, puisque que les pouvoirs magiques, par exemple, n’en ont pas ? Si je peux seulement identifier les composantes, est-ce que ça signifie qu’il m’est impossible de faire une attaque d’opportunité contre quelqu’un qui utilise un pouvoir magique (ou un sort sans composante verbale, gestuelle, ou matérielle) ou de préparer une action pour tirer une flèche afin de perturber l’incantation d’un pouvoir magique ? S’il y a autre chose, comment puis-je savoir ce que c’est ?***
+
+Même si ce n’est pas directement indiqué dans le <u>*[Manuel des joueurs](./Art de la magie.md)*</u>, beaucoup d’éléments du jeu partent du principe que chaque sort a ses propres manifestations, qu’il produise un effet visuel évident, comme *[boule de feu](./Boule de feu.md)*, ou non. Vous pouvez trouver des exemples pour vous donner une idée de comment décrire la manifestation d’un sort dans plusieurs illustrations des produits Pathfinder, mais au final, il revient à votre groupe, ou même à l’esthétique d’un lanceur de sort particulier, de décrire les détails exacts. Quoi qu’il en soit, ces manifestations sont toujours clairement magiques, même pour un non-initié ; cela empêche les lanceurs de sorts qui utilisent les pouvoirs magiques, la magie psychique, ou des méthodes similaires de faire fi des règles face aux non-initiés hors combat. Des capacités particulières existent (et vont probablement apparaître dans *L'Art de l'intrigue*) pour faciliter spécifiquement l’usage de méthodes sournoises afin de camoufler ces manifestations et de tromper les gens en toute discrétion, mais elles offrent toujours à un observateur une chance de détecter la ruse.}On utilise cette compétence chaque fois qu’il est question des connaissances ou du savoir-faire du personnage dans le domaine de l’incantation des sorts ou de la [création d’objets magiques](./Création dobjets magiques.md). Elle permet également d’identifier les propriétés des objets magiques à l’aide de sorts tels que *[détection de la magie](./Détection de la magie.md)* ou *[identification](./Identification.md)*. Le [DD](./DD.md) du test dépend de la tâche tentée.
+
+<center>
+{| CLASS="tablo"
+|+ DD des tests d’Art de la magie
+|- CLASS="titre"
+| Tâche || DD du test d’Art de la magie
+|- CLASS="premier"
+| Identifier un sort lorsqu’il est lancé || 15 + [niveau du sort](./Niveau de sort.md)
+|- CLASS="alt"
+| Apprendre un sort à partir d’un grimoire ou d’un parchemin || 15 + [niveau du sort](./Niveau de sort.md)
+|-
+| Préparer un sort à partir d’un grimoire emprunté || 15 + [niveau du sort](./Niveau de sort.md)
+|- CLASS="alt"
+| Identifier les propriétés d’un objet magique en utilisant le sort de détection de la magie || 15 + [NLS](./NLS.md) de l’objet magique
+|-
+| Déchiffrer un parchemin || 20 + [niveau du sort](./Niveau de sort.md)
+|- CLASS="alt"
+| Fabriquer un objet magique || Variable selon les objets
+|}
+</center>
+
+### Action
+
+Identifier un sort au moment où il est lancé ne requiert aucune action mais le personnage doit être capable de voir l’incantation. Cela signifie que les malus dus à la distance, à de mauvaises conditions de visibilité ou à d’autres facteurs associés à la compétence de [Perception](./Perception.md) s’appliquent également à ce test. Apprendre un sort à partir d’un grimoire prend une heure par niveau du sort (les sorts de niveau 0 requièrent trente minutes). Préparer un sort à partir d’un grimoire emprunté n’allonge pas le temps nécessaire à la préparation des sorts. Les jets d’Art de la magie réalisés dans le cadre de la fabrication d’un objet sont intégrés au procédé de création. Tenter de déterminer les propriétés d’un objet magique prend trois [rounds](./round.md) par objet à identifier et n’est possible que si le personnage peut examiner l’objet en question sous toutes les coutures.
+
+### Nouvelles tentatives
+
+Les tests visant à identifier un sort ne peuvent pas être répétés. Si le test échoue lorsque le personnage tente d’apprendre un sort à partir d’un grimoire ou d’un parchemin, il doit patienter au moins une semaine avant de pouvoir réessayer. En cas d’échec lorsque le personnage tente de préparer un sort à partir d’un grimoire emprunté, il ne peut réessayer avant le lendemain. Lorsque le personnage utilise un sort de *[détection de la magie](./Détection de la magie.md)* ou d’*[identification](./Identification.md)* pour apprendre les propriétés d’objets magiques, il ne peut examiner chaque objet qu’une seule fois par jour. Les tentatives supplémentaires apportent toujours les mêmes réponses.
+
+### Spécial
+
+Les [magiciens](./Magicien.md) spécialisés dans une [école](./../Golarion/Écoles de magie.md) gagnent un bonus de +2 aux tests d’Art de la magie visant à identifier, apprendre ou préparer des sorts de leur école de spécialisation. Ils subissent également un malus de -5 aux mêmes tests lorsque ceux-ci portent sur des sorts des écoles opposées du spécialiste.
+
+Les [elfes](./Elfe.md) bénéficient d’un bonus racial de +2 aux tests d’Art de la magie pour identifier les propriétés des objets magiques.
+
+Un personnage disposant du don [Aptitude magique](./Aptitude magique.md) bénéficie d’un bonus aux tests d’Art de la magie.

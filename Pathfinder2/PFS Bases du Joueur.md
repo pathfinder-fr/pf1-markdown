@@ -1,0 +1,332 @@
+---
+Name: Pathfinder2.PFS Bases du Joueur
+Title: Bases du Joueur [Pathfinder Society]
+LastModified: 2023-10-17 22:55
+---
+
+Version actuelle: 3.03\
+Date de mise à jour de cette version : 19 juillet 2022 – 16h00\
+Lien de la VO : [Player Basics](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Player-Basics)
+
+<nav class="wiki-toc"></nav>
+
+
+### Créer son propre personnage
+
+Le processus de création d'un personnage suit les lignes directrices du *Livre de Base Pathfinder*, avec quelques règles et bonus supplémentaires spécifiques à la campagne. Les personnages commencent au niveau 1, à moins qu'ils n'aient des [|*Boons*](./|*Boons*.md) modifiant leur niveau de départ. La page [Création de personnage](./PFS Création de personnage.md) contient des instructions détaillées pour vous aider à créer votre propre personnage Pathfinder Society et explique les étapes supplémentaires liées à la campagne. Lisez attentivement ces règles, car elles garantissent que les personnages soient adaptés à la campagne organisée.
+
+N'oubliez pas d'enregistrer votre personnage sur [<u>paizo.com</u>](https://paizo.com/) !
+
+**Options de personnage** : Toutes les ascendances, historiques et classes du *Livre de Base Pathfinder* sont autorisées lors de la création d'un personnage. Il est possible que vous ayez besoin de dépenser des [|*Achievement Points*](./|*Achievement-Points*.md) pour débloquer certaines ascendances ou options d'autres livres avant de les utiliser dans la campagne organisée. Vous pouvez obtenir plus de renseignements sur les ressources autorisées à cet endroit [*Character Options Document*](https://paizo.com/pathfindersociety/characteroptions).
+
+**Rareté** : Certaines options de jeu ont le trait de rareté peu commun, rare ou unique. Les options sans trait de rareté sont considérées comme ordinaires. Le principe de Rareté est expliqué à la [page 13 du *Livre de Base*](http://2e.aonprd.com/Rules.aspx?ID=36).
+
+**Accessibilité** : Les joueurs peuvent débloquer des options peu communes ou rares en remplissant certaines conditions liées à la campagne. Si vous remplissez la condition d'accessibilité requise par ces options, alors cette option devient librement accessible  pour vous. Les personnages de Pathfinder Society sont membres de la Société des Éclaireurs dans le monde de Golarion. Ainsi, ils ont accès à toutes les options nécessitant d'être membre de la Société des Éclaireurs.
+
+La page [https://paizo.com/pathfindersociety/characteroptions#opco__rarity_access_availability|*The Pathfinder Society Character Options*] détaille la manière de débloquer les options peu communes ou rares.
+
+La page [https://paizo.com/pathfindersociety/faq|*Pathfinder Society FAQ*] contient des détails sur certaines options de personnages spécifiques.
+
+**Pions** : En mode combat, chaque PJ est généralement représenté par un pion. Les Compagnons Animaux, les animaux achetés et les créatures invoquées, ainsi que toute autres créatures dont la position influe sur le combat sont également généralement représentées par une sorte de pion. À l'exception des créatures temporaires qui ne restent pas plus d'une ou deux rencontres, comme celles créées par les sorts d'invocation, aucun personnage ne peut utiliser plus de deux pions par aventure. Les familiers qui restent dans la case de leur propriétaire pendant le mode combat n'ont pas besoin de pions.
+
+
+#### Soins négatifs
+La Société des Éclaireurs essaie de soutenir ses nouvelles recrues mortes-vivantes ou assimilées en leur fournissant des options de soins appropriées. Chaque fois qu'un PNJ de la Société des Éclaireurs ou un PNJ allié fournit une potion de guérison ou un sort de guérison (sous la forme d'un sort directement lancé, d'une baguette, d'un parchemin, d'un effet d'un boon, y compris d'un boon promotionnel, ou d'un autre effet similaire), un PJ qui compte sur des soins négatifs peut recevoir à la place une Huile de non-vie (Guide du joueur avancé 258? [https://2e.aonprd.com/Equipment.aspx?ID=718|*Oil of unlife*]) ou un sort de Mise à mal (Livre de base 359 [https://www.aonprd.com/SpellDisplay.aspx?ItemName=harm|*Harm*]) d'un niveau égal. Le joueur doit faire cette demande au moment où la guérison est fournie. Demander une huile de non-vie de cette manière ne nécessite pas que le joueur possède le Guide du Joueur Avancé, mais il doit fournir les règles soit de ce livre, soit du document de référence Pathfinder (paizo.com/prd). Les trésors trouvés au cours de l'aventure et les cadeaux offerts par des PNJ non affiliés à la Société ne sont pas affectés.
+
+
+#### Reconstruire son personnage
+
+Après avoir joué avec votre personnage, vous pourriez avoir envie d'en modifier certains aspects. Pas d'inquiétude ! Tant que vous ne débutez pas une partie en ayant accumulé 12 XP ou plus, vous pouvez reconstruire entièrement votre personnage. Il conserve sa Réputation et son numéro de personnage. Une fois que vous débutez une partie en étant au niveau 2, il y a toujours des méthodes pour modifier les choix de votre personnage en utilisant vos [|Achievement Points](./|Achievement-Points.md) ou le [|Réapprentissage](./|Réapprentissage.md).
+
+
+
+### Guide d'achat
+
+Vous pouvez toujours acheter les objets suivants tant que vous êtes dans des communautés d'au moins 5000 habitants (les scénarios peuvent toutefois ajouter des limitations ou autorisations supplémentaires).
+
+- Tout objet ordinaire présent dans les publications Pathfinder officielles dont le niveau est inférieur ou égal à celui de votre personnage (minimum 2).
+- Tout objet peu commun présent dans les publications Pathfinder officielles dont le niveau est inférieur ou égal à celui de votre personnage (minimum 2). Votre personnage doit avoir accès à cet objet peu commun (cf. l'onglet Accessibilité plus haut).
+- Tout objet listé sur les Chroniques de votre personnage dont le niveau est inférieur ou égal à celui de votre personnage +2. Les Armes et les Armures présentes sur les Chroniques peuvent être améliorées en suivant les règles habituelles d'amélioration. Vous avez accès à tout objet présent sur une Chronique.
+- Tout objet ou service acheté avec des *Achievement Points*
+
+Toute arme ou armure basique à laquelle votre personnage a accès peut s'acheter dans sa version en métal précieux, tant que vous avez accès aux armes et armures fabriqués dans ce type de métal précieux. L'arme ou l'armure en question doit toujours respecté les pré-requis listés pour ce type de métal précieux.
+
+L'[|Infamie](./|Infamie.md) peut réduire le niveau de votre personnage qui s'applique quand vous achetez de l'équipement.
+
+
+#### Sorts
+
+Tout lanceur de sort préparé peut utiliser l'activité Apprendre un Sort pour apprendre les sorts ordinaire ou les autres sorts auxquels ils ont accès en demandant aux tuteurs de la Grande Loge. Il n'y a pas de surcoût en matériaux en plus du coût normal de l'activité Apprendre en Sort. Si un personnage a accès à un parchemin spécifique, il peut l'acheter et apprendre le sort écrit dessus.
+
+#### Service d'Incantation
+
+Tout Éclaireur de la Société a accès aux services d'incantation permettant de faire disparaître les afflictions, et ce dans n'importe quelle loge. Les services d'incantation ont toujours pour résultat un succès, mais jamais un succès critique. Si un service d'incantation repose sur un Test de Contre, il doit être acheté à un niveau au-dessus de l'effet qu'il essaye de contrer. Les tarifs du service d'incantation sont détaillés dans l'annexe [|Tarifs du Service d'Incantation](./|Tarifs-du-Service-d'Incantation.md). Les MJ doivent utiliser ces tarifs, sauf si le scénario donne une indication contraire.
+
+#### Pas d'échange de PJ à PJ
+
+Dans la Société des Éclaireurs, vous ne pouvez jamais transférer de façon permanente des objets ou de l'or entre PJ, mais vous pouvez permettre à un autre PJ d'emprunter des objets pour la durée d'une aventure. Les objets empruntés sont rendus à la fin du scénario dans l'état où ils se trouvent à la fin du scénario. Cela signifie qu'un PJ ne peut pas acheter, vendre, échanger ou donner des objets à un autre PJ. Cette règle n'affecte pas la capacité des PJ à mettre en commun leur or pour supprimer des afflictions.
+
+#### Formules
+
+La Société des Éclaireurs peut vendre à ses agents toute formule d'objet auquel ils ont accès, excepté les objets en quantité limitée. Ceux-ci, tout comme les objets Uniques, sont tellement ésotériques que la Société n'en connaît pas la formule et qu'il n'est pas possible d'utiliser la rétro-ingénierie pour la trouver, même avec un niveau de compétence Légendaire.
+
+#### Revendre son équipement
+
+Votre équipement ne peut être revendu qu'à la moitié de son prix d'achat. Tout objet obtenu par un achat groupé, comme les kits de classe, ou comme les runes d'un objet magique, ne peut être revendu qu'en revendant l'ensemble des éléments dont il fait partie. Les objets en partie utilisés ne peuvent pas être revendus. Les *boons* de reconstruction (*rebuild boons*) mentionnant des valeurs de kit font exception à la règle de revente à moitié-prix.
+
+#### Graver et transférer des runes
+
+La Société dispose d'un spécialiste de la gravure et du transfert de runes à la Grande Loge. Il peut réaliser cette tâche pour tout agent de la Société des Éclaireurs digne de ce nom. Ce service est gratuit et ne nécessite pas de test, mais il est uniquement possible avant le briefing de mission ou après celle-ci sauf exception mentionnée dans le scénario. Cependant, seul le service de transfert de rune est gratuit. Les personnages doivent toujours le coût matériel de 10% et fournir la rune.
+
+
+
+
+### Aventures
+
+Il y a deux types d’aventures écrites pour la campagne Pathfinder Society.
+
+- **Quêtes Pathfinder Society** : aventures courtes écrites pour Pathfinder Society prévues pour être jouées en 1 heure.
+
+- **Scénarios Pathfinder Society** : ce sont les aventures les plus courantes écrites pour Pathfinder Society. Il faut environ 4-5 heures pour les jouer.
+
+Les règles concernant les types d'aventures supplémentaires sont détaillées dans l'Annexe [|Aventures Supplémentaires](./|Aventures-Supplémentaires.md).
+
+#### Tags de scénarios
+
+Les tags sont des marqueurs qui apparaissent à la fois sur la page d'achat d'un scénario et sur sa page de garde. Ils donnent des informations clés sur le contenu du scénario.
+
+- **Exclusif** : Les scénarios portant ce tag sont destinés à être exécutés dans un environnement différent de celui d'une table habituelle. Ces scénarios contiennent des règles spécifiques sur qui peut les faire jouer, où et comment.
+
+- **Faction** : Les scénarios avec ce tag sont en rapport avec les objectifs d'une ou plusieurs factions et peuvent récompenser les joueurs avec des points de Réputation supplémentaires pour une [|Faction](./|Faction.md).
+
+- **Glyphe** : Les scénarios avec ce tag contribuent à l'une des façons dont les MJ peuvent gagner 5 Glyphes (Voir [|Glyphes de MJ](./|Glyphes-de-MJ.md)).
+
+- **Intrigue Principale** (*Metaplot*) : Ces scénarios font avancer l'intrigue principale de la saison.
+
+- **Rejouable** (*Repeatable*) : Les scénarios avec ce tag peuvent être rejoués un nombre illimité de fois (mais une seule fois par personnage). Les MJ reçoivent une Chronique à chaque fois qu'ils exécutent un scénario avec ce tag, mais ne peuvent appliquer ses bénéfices qu'une seule fois à un personnage donné.
+
+#### Niveaux
+
+Les scénarios de Pathfinder Society sont conçus pour que des joueurs de différents niveaux puissent participer ensemble à une aventure donnée. La catégorie de niveau d'une aventure figure sur sa page de garde. La difficulté de l'aventure est proportionnelle au niveau des joueurs et se calcule grâce au système de [|Points de Défi](./|Points-de-Défi.md) (*Challenge Points*).
+
+
+
+### Nombre de joueurs réglementaire
+
+**Nombre minimum** : Les aventures Pathfinder Society sont écrites pour 4 joueurs (ou plus). Toutefois, lorsqu'il s'avère impossible de trouver 4 joueurs, les MJ peuvent effectuer les ajustements suivants.
+- **Aventures de niveau minimum inférieur ou égal à 5** : les MJ peuvent organiser une partie avec 2 ou 3 joueurs, et compléter avec des personnages iconiques pré-tirés de niveau approprié afin d'atteindre le seuil de 4.
+Les MJ peuvent décider de jouer ces personnages eux-mêmes ou les confier à un ou plusieurs joueurs, tant que ceux-ci sont d'accord et se sentent à l'aise avec le fait de gérer 2 personnages.
+Les personnages iconiques pré-tirés sont disponibles aux niveaux 1, 3 et 5. Les classes du Livre de Base et du Guide du Joueur Avancé sont disponibles en pré-tiré.
+
+- **Aventures de niveau minimum supérieur ou égal à 7** : Ces aventures peuvent être jouées à 3 joueurs, mais seulement si les joueurs sont d'accord. Bien que jouer en "Mode Difficile" soit sans doute enthousiasmant, il faut savoir que l'aventure sera vraiment plus difficile car celles-ci sont conçues pour 4 joueurs.
+
+- **Tous niveaux** : Si, malgré ces ajustements, il n'y a toujours pas assez de joueurs, et si il y a un autre joueur disponible ayant déjà joué le scénario, celui-ci peut rejoindre la partie mais n'aura pas de récompenses en fin de partie (XP, Or, Réputation, etc...).
+
+**Rejouer sans récompenses** : Un joueur peut rejouer une aventure pour permettre d'atteindre le nombre de joueurs réglementaire. Rejouer ne donne pas de récompenses. Toutefois, les joueurs dans ce cas doivent quand même noter l'or ou les objets qu'ils utilisent et peuvent obtenir une Chronique vierge avec seulement ces indications. C'est une exception à la règle qu'une même Chronique ne peut être attribuée qu'à un seul personnage.
+
+**Enregistrement des parties** : Les MJ n'enregistrent pas les numéros de campagne organisée des joueurs rejouant une partie sans récompenses.
+
+**Nombre maximum de joueurs** : Il ne peut y avoir 7 joueurs ou plus à une table. Si il y a 7 personnes qui se présentent à un évènement organisé, vous pouvez essayer de voir si l'une d'entre elle souhaiterait être MJ pour une autre partie, si les circonstances le permettent.
+
+
+
+### Avant l'aventure
+
+Avant que la partie ne débute, il faut choisir un personnage. Cela peut être l'un de vos personnages existants ou un personnage pré-tiré, avec la contrainte que leur niveau doit être compris dans la catégorie de niveaux de l'aventure. Si vous utilisez un personnage pré-tiré, il faut aussi choisir un de vos personnages de niveau inférieur, un personnage de niveau 1, ou un tout nouveau personnage auquel vous attribuerez les récompenses de partie (cf. [|Appliquer les récompenses de partie](./|Appliquer-les-récompenses-de-partie.md) dans la section Après l'aventure ci-dessous).
+
+Le MJ va vous transmettre une feuille d'inscription sur laquelle il faudra noter le nom de votre personnage, votre Numéro de Campagne Organisée, le Numéro de Personnage, son niveau, la faction qu'il soutient et sa vitesse de progression, ainsi qu'un moyen de vous contacter pour vous transmettre la Chronique après la partie. Si vous utilisez un personnage pré-tiré, alors le numéro de personnage à inscrire est celui du personnage auquel vous souhaiterez appliquer les récompenses de cette aventure. Le choix de faction et de Vitesse de Progression font partie des [|Options de personnage supplémentaires](./|Options-de-personnage-supplémentaires.md). Vous pouvez laisser ces champs vierges si vous voulez rester sur les choix par défaut.
+
+#### Un personnage par aventure
+
+Vous pouvez avoir autant de personnages que vous le souhaitez dans la campagne Pathfinder Society. Toutefois, vous ne pouvez jouer qu'un seul de vos personnages par aventure (à l'exception des scénarios avec le tag **Rejouable**).
+
+#### Une aventure par personnage
+
+Un personnage ne peut participer qu'à une aventure à la fois, du moment où l'aventure commence jusqu'au moment où une Chronique lui est attribuée. Les personnages engagés dans une aventure en mode Play-by-Post ou Play-by-Discord sont considérés comme actifs et ne peuvent pas participer à d'autres aventures en même temps.
+
+#### Rejouer les aventures
+
+Si vous rejouez une aventure ou si vous jouez une aventure que vous avez déjà masterisée, veuillez suivre ces deux recommandations supplémentaires :
+- **Prévenez le MJ** : Bien que le rôle d'un MJ soit d'être adaptable, ils gardent le droit de ne pas vouloir vous inclure dans la partie s'ils se sentent mal à l'aise d'avoir un joueur qui connaît déjà le scénario.
+- **Pas de spoilers** : Évitez d'utiliser vos connaissances préalables pour révéler des éléments de l'intrigue ou anticiper certaines situations. Cela peut être un motif d'exclusion de la partie par le MJ. De manière générale, prenez soin de faire la distinction entre vos connaissances et celles de votre personnage. Si vous hésitez sur certaines situations, n'hésitez pas à en discuter en privé avec le MJ.
+
+
+
+### Pendant l'aventure
+
+Typiquement, chaque aventure commence par un briefing, soit sous la forme d'une lettre, soit d'une convocation par un capitaine d'aventures, ou par une offre d'embauche d'un employeur.
+
+**Points d'héroïsme** : Juste après le briefing, le MJ va distribuer les Points d'Héroïsme de départ. Les règles concernant les Points d'Héroïsme sont décrite [page 467 du Livre de Base](https://2e.aonprd.com/Rules.aspx?ID=427). Certaines récompenses, comme les [|Glyphes de MJ](./|Glyphes-de-MJ.md), les [|Pièces de Campagne](./|Pièces-de-Campagne.md) et l'[|Ordre du Guide](./|Ordre-du-Guide.md) peuvent conférer des Points d'Héroïsme supplémentaires aux joueurs.
+
+**Consommables de départ** : Dans un scénario Pathfinder Society, les personnages reçoivent aussi des cadeaux de leurs amis et de leur réseau avant de partir en mission. Les Éclaireurs reçoivent les [potions de guérison](https://2e.aonprd.com/Equipment.aspx?ID=186) ci-dessous au début de l'aventure, en fonction de leur niveau (LDB page 565). Les personnages dont la guérison repose sur l'énergie négative peuvent remplacer toute potion du tableau par son équivalent en énergie négative.
+NB : les personnages utilisant l'Option de Personnage Supplémentaire des [|écoles](./|écoles.md) ont accès à des Consommables de Départ différents et doivent les choisir au même moment.
+Si ces objets ne sont pas utilisés pendant l'aventure, ils sont rendus à la fin. Les objets consommables des personnages pré-tirés sont déjà inclus dans leur équipement et ne reçoivent pas d'objet supplémentaire lors de cette étape.
+
+{s:Reference|TABLEAU_1}
+{| CLASS="tablo centre autoalt toutgauche"
+|+ Consommables de Départ
+|- CLASS="titre"
+| Niveau du PJ || Objets
+|- CLASS="premier"
+| Niveau 1-2
+| Potion de guérison mineure (LDB 565)
+|- CLASS="alt"
+| Niveau 3-4
+| Potion de guérison mineure x2 (LDB 565)
+|-
+| Niveau 5-6
+| Potion de guérison inférieure (LDB 565)
+|- CLASS="alt"
+| Niveau 7-8
+| Potion de guérison inférieure x2 (LDB 565)
+|-
+| Niveau 9-10
+| Potion de guérison moyenne (LDB 565)
+|- CLASS="alt"
+| Niveau 11-12
+| Potion de guérison moyenne x2 (LDB 565)
+|- CLASS="alt"
+| Niveau 13-14
+| Potion de guérison moyenne x3 (LDB 565)
+|- CLASS="alt"
+| Niveau 15-16
+| Potion de guérison supérieure (LDB 565)
+|- CLASS="alt"
+| Niveau 17-18
+| Potion de guérison supérieure x2 (LDB 565)
+|- CLASS="alt"
+| Niveau 19-20
+| Potion de guérison supérieure x3 (LDB 565)
+|}
+
+**Achats** : Souvent, ce moment sera la seule opportunité pour les personnages de réaliser des achats.
+
+Souvenez-vous que votre personnage fait partie de la Société des Éclaireurs ! Il travaille auprès de ses collègues et amis en respectant la devise
+
+**"Explorer, Rapporter, Coopérer"**
+
+#### Trésors
+
+Au cours de l'aventure, les personnages trouveront ou gagneront des Packs de Trésor (*Treasure Bundles*). Ceci est une unité de mesure représentant la répartition égale des gains d'une aventure. En général, un scénario procurera 8 Packs de Trésor. Toutefois les personnages chanceux ou jouant intelligemment trouveront jusqu'à 2 Packs de Trésor supplémentaires.
+
+Les personnages peuvent aussi trouver des objets spécifiques permanents ou consommables. Ceux-ci peuvent être utilisés pendant l'aventure et figurent souvent comme objets disponibles à l'achat sur les Chroniques.
+
+#### Infamie
+
+L'infamie représente la mauvaise réputation d'un personnage, accumulée par des actes mal intentionnés ou criminels. Certains scénarios préciseront les actions qui pourront provoquer une pénalité d'infamie. Les MJ peuvent aussi choisir de sanctionner un comportement mal intentionné ou criminel ainsi.
+
+**Avertissements** : Le MJ doit avertir le joueur que son action entraînera une pénalité d'Infamie. Cet avertissement peut se faire en RP ou hors-jeu mais doit être clair. Si le PJ réalise tout de même son action, le MJ pourra appliquer la pénalité.
+
+**Effets de l'Infamie** : Chaque point d'Infamie réduit le niveau du personnage de 1 en ce qui concerne l'équipement qu'il peut acheter.
+
+Si un PJ termine une partie avec 3 points d'Infamie, ils sont exclus de la Société des Éclaireurs et ne sont plus jouables dans le cadre de la campagne. Le MJ doit indiquer que le personnage est décédé lorsqu'il enregistre la partie.
+
+**L'Infamie n'est pas là pour encadrer les actions des joueurs. Les joueurs qui ne respectent pas les normes de la communauté peuvent subir des mesures disciplinaires décrites dans les [|Attentes et Règles de la Communauté](./|Attentes-et-Règles-de-la-Communauté.md).**
+
+
+
+### Après l'aventure
+
+#### Afflictions
+
+La Société des Éclaireurs prend soin de ses membres en soignant la plupart des afflictions non permanentes dont ils sont atteints et en réparant leur équipement endommagé pour qu'il retourne à l'état dans lequel il était au début du scénario.
+
+Les afflictions suivantes ne sont pas gérées automatiquement et doivent être soignées à la fin du scénario ou les personnages cessent d'être utilisables dans le cadre de la campagne organisée :
+- Mort
+- Afflictions permanentes, dont les effets de métamorphose et de pétrification
+- Malédictions
+
+Les autres personnages peuvent utiliser leurs sorts, leurs dons ou leurs capacités de classe pour aider les autres à guérir de leurs afflictions. Ils peuvent aussi fournir des consommables ou utiliser leur or mais sans obligation. L'or gagné pendant l'aventure peut être utilisé mais doit être dès lors déduit de la Chronique par le MJ. Les tarifs de retrait des afflictions sont décrits dans l'annexe [|Tarifs du Service d'Incantation](./|Tarifs-du-Service-d'Incantation.md). Si un personnage ne peut guérir d'une affliction, le MJ doit le noté comme décédé lors de l'enregistrement de la partie.
+
+**Personnages pré-tirés** : Les règles concernant les afflictions s'appliquent aussi aux personnages pré-tirés et par extension au personnage auquel la Chronique va s'appliquer. Si cela doit entraîner le décès du personnage, l'effet s'applique immédiatement.
+
+En ce qui concerne l'ordre de paiement, les joueurs doivent d'abord utiliser l'or du groupe, puis les ressources des personnages Pathfinder Society, puis vendre l'équipement du personnage pré-tiré. Si cet équipement doit être vendu pour guérir d'une affliction, les possessions d'un personnage de niveau 1 valent 7,5 PO, celles d'un personnage de niveau 3 valent 37,5 PO et celles d'un personnage de niveau 5 valent 135 PO.
+#### Sorts persistants ou permanents
+
+Tous les sorts persistants ou permanents cessent automatiquement à la fin de l'aventure, après s'être occupé des afflictions, mis à part *Flamme Éternelle* et *Page Secrète*. Les personnages peuvent maintenir une incantation de chacun de ces sorts jusqu'à leur prochaine aventure. Il faut enregistrer ces sorts maintenus avec l'équipement du personnage, en notant le numéro de campagne organisée et de personnage du lanceur de sort, son niveau et son DD. Les sorts remplacés par d'autres incantations, contrés ou perdus doivent être rayés des Chroniques.
+
+#### Réputation
+
+La Réputation mesure à quel point votre personnage est influent au sein de la Société des Éclaireurs. Vous pouvez consulter la page [|Factions et Réputation](./|Factions-et-Réputation.md) pour plus de détails sur la Réputation.
+
+#### Trésor
+
+Dans un jeu de rôle habituel, les personnages se répartissent entre eux l'or et les objets qu'ils trouvent. Dans le cadre de Pathfinder Society, la Société des Éclaireur récompense ses agents avec une quantité d'or dépendant de leurs niveaux respectifs. Concernant les objets magiques, plutôt que devoir choisir qui les garde, chaque personnage obtiennent l'accès auxdits objets, via les objets notés sur les Chroniques. Les règles expliquant l'achat des ces objets sont détaillées dans le [|Guide d'Achat](./|Guide-d'Achat.md) plus haut.
+
+#### Temps d'Intermède
+
+Entre les aventures, chaque personnage peut réaliser des activités durant un temps d'intermède. Les Scénarios et les Quêtes confèrent deux jours de temps d'intermède par point d'expérience obtenu. Les Primes (*Bounties*) sont des missions réalisées pendant le temps d'intermède et ne donnent donc pas de temps d'intermède supplémentaire. Les autres types d'aventure donnent une certaines quantité de temps d'intermède décrite dans leurs documents d'homologation (*sanctioning document*). La plupart des personnages occuperont leur temps d'intermède en Gagnant un Revenu à travers un test de Représentation, d'Artisanat ou de Connaissance et en consultant le tableau ci-dessous.
+
+Les joueurs sont responsables des tests et de la traçabilité de leur temps d'intermède. Ils peuvent choisir de ne pas utiliser leur temps d'intermède s'ils préfèrent simplifier leur expérience de jeu. A l'opposé, les joueurs souhaitant approfondir cette partie du jeu trouveront l'ensemble des règles du temps d'intermède dans la section [|Options de personnage supplémentaires](./|Options-de-personnage-supplémentaires.md).
+
+Ci-dessous un exemple de l'or obtenu en Gagnant un Revenu pendant les 8 jours de temps d'intermède conférés par un scénario. Pour consulter un tableau similaire pour les quêtes et les autres tranches de niveau, consultez la page en VO, section *After the Adventure*/*Downtime* : [Player Basics](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Player-Basics#Before_the_Adventure)
+
+{| CLASS="tablo centre autoalt toutgauche"
+|+ Gagner un Revenu - niveau 1 à 4 (8 jours)
+|- CLASS="titre"
+| Niveau du PJ || DD || Echec || Qualifié || Expert
+|- CLASS="premier"
+| 1-2
+| 14
+| 8 pc
+| 4 pa
+| 4 pa
+|- CLASS="alt"
+| 3
+| 15
+| 16 pc
+| 16 pa
+| 16 pa
+|- CLASS="alt"
+| 4
+| 16
+| 32 pc
+| 24 pa
+| 24 pa
+|- CLASS="alt"
+| 5*
+| -
+| 40 pa
+| 40 pa
+| -
+|}
+
+- En cas de succès critique votre gain se réfère au niveau supérieur
+
+
+
+### Monter en niveau
+
+Les personnages gagnent des Points d'Expérience (XP) à chaque aventure. Au bout de 12 XP ils montent d'un niveau.
+
+Ce rythme de progression correspond à la vitesse de progression lente décrite dans le Livre de Base, [page 509](https://2e.aonprd.com/Rules.aspx?ID=574). La montée de niveau se produit après que toutes les récompenses de l'aventure aient été calculées, dont le temps d'intermède. Toutefois, les personnages peuvent acheter de l'équipement après leur montée en niveau. Les personnages ayant suffisamment d'XP doivent monter en niveau avant le début de leur prochaine partie. Leur total d'XP **n'est pas réinitialisé** à chaque niveau.
+
+
+
+### Traçabilité
+
+Le suivi des personnages de la campagne organisée repose sur une bonne traçabilité afin de bien s'y retrouver lors des parties. Il y a plusieurs méthodes qui existent mais la plus répandue repose sur les Chroniques. Toutes les aventures publiées ou homologuées dans le cadre de la campagne organisée contiennent une Chronique vierge. Toutefois, les joueurs peuvent choisir une autre méthode de suivi et avoir les Chroniques en secours.
+
+Après l'aventure, les joueurs reçoivent tous une Chronique de la part du MJ. La Chronique contient un résumé de l'aventure; elle garde la trace des choix éventuels des joueurs pouvant impacter le futur de la campagne, et une liste des objets principaux trouvés lors de l'aventure. Il y a aussi un encadré pour prendre des notes, noter les achats, et l'obtention ou le traitement d'afflictions. Les joueurs utilisant d'autres méthodes de traçabilité doivent s'assurer de noter au moins les informations figurant sur les Chroniques.
+
+#### Format de traçabilité
+
+Les joueurs peuvent garder les informations de leurs parties sous forme digitale ou manuscrite. Si ils choisissent le format digital, ils doivent être prêts à autoriser le MJ à utiliser leur appareil si il souhaite vérifier leur historique de parties. Si ils choisissent le format manuscrit, ils doivent avoir leurs documents sur eux à chaque partie.
+
+
+
+### Appliquer les récompenses d'une aventure
+
+Les Chroniques, ainsi que les informations qu'elle contiennent, sont associées aux personnages qui ont été marqués sur la feuille d'inscription. Les informations de la Chronique s'appliquent lorsque celle-ci est ajoutée à l'historique du personnage. Les récompenses s'appliquent immédiatement sauf lors des circonstances suivantes :
+- **Aventures et Campagnes Pathfinder homologuées (Sanctioned Pathfinder Adventures and Adventure Paths)** : Ce type d'aventure délivre généralement une chronique avec 12 XP ou plus. Les personnages doivent intégrer les points d'XP par séries de 4, pour pouvoir monter en niveau entre deux séries si besoin.
+
+- **Personnages pré-tirés** : Les Chroniques appliquées à un nouveau personnage ou un personnage de niveau 1 peuvent s'appliquer immédiatement, dès le niveau 1, ou attendre que le personnage atteigne le niveau du personnage pré-tiré utilisé. Les Chroniques de pré-tiré appliquée à un personnage de niveau supérieur à 1 doivent attendre que le personnage atteigne le niveau en question. 
+Si les Chroniques de pré-tirés sont utilisées pour personnage de niveau 1, les limitations suivantes s'appliquent :
+  - Le personnage obtient la quantité d'or correspondant à son niveau
+  - Les personnages débloquent tout *boon* ou objet lorsqu'ils atteignent le niveau effectif de la Chronique
+  - Le temps d'intermède se base sur les capacités et compétences du personnage de niveau 1
+
+Les Chroniques s'appliquent dans le même ordre que les parties jouées. Intégrez toutes les récompenses et faites les tests du temps d'intermède avant d'appliquer la Chronique suivante. Appliquer plusieurs Chroniques d'affilée peut permettre de monter plusieurs niveaux successivement. On ne peut pas appliquer à un personnage une Chronique dont le niveau est inférieur au niveau du personnage. Dans ce cas de figure les Chroniques sont perdues.
+
+
+[Retour à la page PFS pour Pathfinder 2](./PFS.md)

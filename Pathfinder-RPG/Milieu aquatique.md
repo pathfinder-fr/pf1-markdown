@@ -1,0 +1,67 @@
+---
+Name: Pathfinder-RPG.Milieu aquatique
+Title: Le milieu aquatique
+LastModified: 2024-08-21 17:55
+Categories:
+- Maitre du jeu
+- Règle officielle
+- Src Manuel des joueurs
+---
+
+{s:MenuEnvironnement}<div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>Les milieux aquatiques sont généralement les moins favorables pour les PJ car ceux ci ne peuvent pas y respirer. Les milieux aquatiques ne possèdent pas autant de diversité que les milieux terrestres. Le fond de l’océan abrite de nombreuses merveilles, parmi lesquelles les équivalents sous-marins des éléments terrestres décrits ci-dessus. Cependant, si les personnages passent par-dessus bord parce qu’ils sont victimes d’une action de bousculade, ils ne s’intéresseront sans doute pas au lit de varech situé quelques dizaines de mètres en dessous. Les milieux aquatiques sont divisés en deux familles: les cours d’eau (ruisseaux, rivières, etc.) et les étendues d’eau (lacs, océans, etc.).
+
+**Cours d’eau.** Les rivières larges et calmes avancent de quelques kilomètres par heure, aussi fonctionnent-elles sur le même principe que l’eau stagnante. Toutefois, certains cours d’eau sont plus rapides. Tout ce qui flotte à leur surface suit le courant à une vitesse de 3 à 12 m par round. Les rapides entrainent les nageurs à la vitesse de 18 à 27 m par round. Les rivières au débit rapide ont constamment un courant violent ([Natation](./Natation.md) ([DD](./DD.md) 15)) ou prennent la forme d’un torrent (Natation (DD 20)). Si un personnage se situe dans un cours d’eau, déplacez-le en direction de l’aval à la fin de son tour. S’il essaye de garder sa position, il doit passer tout ou une partie de son tour de jeu à nager à contre-courant.
+- *Emporté.* Un personnage entrainé par un courant qui se déplace de 18 m (ou plus) par round doit effectuer un test de Natation (DD 20) par round pour rester à la surface de l’eau. Si le personnage réussit le test de 5 points au moins, il réussit à s’accrocher à un rocher, un arbre ou un écueil, et le courant ne l’emporte plus. Pour rejoindre la berge, il faut réussir trois tests de Natation (D 20) d’affilée. Les personnages accrochés à un rocher, une branche ou un écueil ne peuvent s’en sortir seuls (à moins de se laisser entrainer par le courant et de nager). Les autres ont la possibilité de les aider comme s’ils étaient pris au piège de sables mouvants (voir la section consacrée aux marécages).
+
+**Étendues d'eau.** Dans le cas d’un lac ou d’un océan, il faut simplement avoir une vitesse de déplacement à la nage ou réussir des tests de [Natation](./Natation.md) (DD 10 en eau calme, DD 15 en eau agitée et DD 20 dans le cas d’une mer démontée). S’ils sont immergés, les personnages doivent trouver le moyen de respirer. Dans le cas contraire, ils risquent la noyade. Sous l’eau, les personnages se déplacent comme s’ils volaient en jouissant d’une manœuvrabilité parfaite.
+
+**Discrétion et Perception sous l'eau.** champ de vision est lié à la clarté de l’eau. Les créatures peuvent voir jusqu’à 4d8 x 3 l si l’eau est claire, et jusqu’à 1d8 x 3 m si elle est trouble. Les cours d’eau sont toujours troubles, excepté dans le cas de larges rivières au cours lent. Il est ardu de trouver un [abri](./abri.md) ou un [camouflage](./camouflage.md) sous l’eau (sauf dans le cas des fonds marins). Les tests de Perception ne s’en trouvent pas affectés.
+- *Invisibilité.* Une créature [invisible](./Invisible.md) laisse dans son sillage une trace quand elle se déplace dans l’eau. Elle profite d’un [camouflage](./camouflage.md) (20 % de chances de rater).
+
+{s:Reference|COMBATSOUSEAU}{s:Reference|COMBATSOUSMARIN}
+### Combats sous-marins
+Les créatures terrestres rencontrent les pires difficultés dès lors qu’il s’agit de combattre sous l’eau. Celle-ci modifie la classe d’armure, les jets d’attaque, les jets de dégâts et les déplacements. Dans certains cas, l’adversaire jouit même d’un bonus à l’attaque. Tous les effets sont indiqués dans la Table 13-7. Ils sont valables dès que le personnage nage, marche alors qu’il a de l’eau jusqu’à la poitrine ou parcoure le fond.
+
+**Attaques à distance sous l’eau.** Les [armes de jet](./arme de jet.md) sont inefficaces, même si elles sont maniées depuis la terre ferme. Les autres [attaques à distance](./Actions simples.md#ATTAQUEDISTANCE) subissent un malus de -2 à l’attaque tous les 1,50 m d’eau qu’il leur faut traverser (en plus des malus normaux dus à la distance).
+
+**Attaques depuis la terre.** Les personnages qui nagent, flottent ou ont de l’eau jusqu’à la poitrine bénéficient d’un [abri amélioré](./abri.md) (bonus de +8 à la [CA](./CA.md) et bonus de +4 aux jets de [Réflexes](./Réflexes.md)) par rapport aux adversaires situés sur la terre ferme. Les créatures terrestres qui bénéficient d’une *[liberté de mouvement](./Liberté de mouvement.md)* ignorent cet abri quand elles utilisent des [attaques de corps à corps](./Actions simples.md#ATTAQUECORPSACORPS) contre une cible située dans l’eau. Une créature totalement submergée bénéficie d’un [abri total](./abri.md) contre les adversaires sur la terre ferme sauf si l’adversaire est affecté par *liberté de mouvement*. Les effets magiques ne sont pas affectés, sauf s’ils demandent un [jet d’attaque](./jet dattaque.md) (traité comme n’importe quel autre effet) ou s'il s'agit d'effets de feu.
+
+**Feu.** Les feux classiques (ce qui inclut les [feux grégeois](./Feu grégeois (objet).md)) ne brûlent pas sous l’eau. Les sorts et effets magiques affichant le [registre](./Registre.md) du feu sont inefficaces, à moins que le personnage ne réussisse un test de [niveau de lanceur de sorts](./NLS.md) (DD 15 + niveau du sort). S’il réussit, le sort crée une bulle de vapeur au lieu de flammes, mais il fonctionne normalement. Sauf indication contraire, un feu de nature surnaturelle reste sans effet sous l’eau. La surface d’un corps d’eau stoppe la ligne d’effet des sorts de feu. Si le personnage réussit un test de niveau de lanceur de sorts pour pouvoir utiliser son sort sous l’eau, la surface n’en stoppe pas moins la ligne d’effet.
+
+**Lancer des sorts.** Lancer un sort peut être une chose délicate pour ceux qui ne possèdent pas la faculté de respirer sous l’eau. Ceux-ci doivent pour y parvenir réussir un test de [concentration](./concentration.md) DD 15 + niveau du sort (en plus du test de niveau de lanceur de sort quand il s’agit d’un sort de feu lancé sous l’eau). Les créatures qui respirent sous l’eau ne sont pas concernées. À la discrétion du MJ, certains sorts peuvent fonctionner différemment sous l’eau.
+
+{| CLASS="tablo centre autoalt" WIDTH="96%"
+|+ {s:Reference|AJUSTEMENTCOMBATSOUSLEAU}Ajustement de combat sous l’eau
+|- CLASS="titre"
+| ROWSPAN="2" | Conditions
+| COLSPAN="2" CLASS="avecsoustitre" | Attaque/Dommages
+| ROWSPAN="2" | Déplacement
+| ROWSPAN="2" | Déséquilibre<sup>[1](./Milieu aquatique.md#NOTE1)</sup>
+|- CLASS="soustitre"
+| Tranchants ou contondants || Perforants
+|- CLASS="premier"
+| *[Liberté de mouvement](./Liberté de mouvement.md)* || normale/normaux || normale/normaux || normal || non
+|-
+| Possède une [VD](./VD.md) de nage || -2/demi || normale || normale || non
+|-
+| Test de [Natation](./Natation.md) réussi || -2/demi<sup>[2](./Milieu aquatique.md#NOTE2)</sup> || normal || quart ou demi<sup>[3](./Milieu aquatique.md#NOTE3)</sup> || non
+|- CLASS="alt"
+| Pied sûr<sup>[4](./Milieu aquatique.md#NOTE4)</sup> || -2/demi<sup>[2](./Milieu aquatique.md#NOTE2)</sup> || normal || demi || non
+|-
+| Aucune || -2/demi<sup>[2](./Milieu aquatique.md#NOTE2)</sup> || -2/demi || normal || oui
+|- CLASS="note"
+| COLSPAN="5" | {s:Reference|NOTE1}*(1) Les personnages qui se débattent dans l’eau (en général parce qu’ils ont raté leur test de [Natation](./Natation.md)) ont du mal à combattre efficacement. Une créature déséquilibrée perd son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md). Dans le même temps, ses adversaires bénéficient d’un bonus de +2 à l’attaque.*
+|- CLASS="note"
+| COLSPAN="5" | {s:Reference|NOTE2}*(2) Une créature dénuée d’un effet de liberté de mouvement ou d’une vitesse de déplacement à la nage effectue ses tests de lutte avec un malus de -2, mais inflige des dégâts normaux lors d’une lutte.*
+|- CLASS="note"
+| COLSPAN="5" | {s:Reference|NOTE3}*(3) En cas de réussite, un test de [Natation](./Natation.md) permet de se déplacer au quart de sa vitesse habituelle ([action de mouvement](./Action de mouvement.md)) ou à la moitié de cette même vitesse ([action complexe](./Action complexe.md)).*
+|- CLASS="note"
+| COLSPAN="5" | {s:Reference|NOTE4}*(4) Les personnages ont le pied sûr quand ils marchent au fond de l’eau. On ne peut marcher au fond de l’eau que si l’on est suffisamment chargé pour se laisser couler (8 kg au moins pour les créatures de taille M, deux fois plus pour chaque catégorie de taille en plus, et moitié moins pour chaque catégorie de taille en moins).*
+|}
+
+### Inondations
+Les inondations sont fréquentes dans de nombreuses régions sauvages.
+
+De plus au printemps, les ruisseaux et rivières peuvent être engorgés par la fonte des neiges. D’autres événements catastrophiques (pluies torrentielles, digues brisées, etc.) peuvent également provoquer des inondations.
+
+Lors d’une inondation, les rivières deviennent plus larges, plus profondes et beaucoup plus rapides. En cas d’inondation printanière, le niveau de la rivière monte de 1d10 x 30 cm et sa largeur augmente de 1d4 x 50 %. Les gués disparaissent pendant des jours, les ponts sont parfois emportés et même les bacs ont du mal à traverser le cours d’eau. Une rivière en crue rend les tests de Natation plus difficiles d’un cran (une eau calme devient une eau agitée, et une eau agitée devient un torrent). Les rivières sont moitié plus rapides.

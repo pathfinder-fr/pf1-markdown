@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Anneau daffaiblissement des énergies
+Title: Anneau d'affaiblissement des énergies
+LastModified: 2024-05-25 17:53
+Categories:
+- Objet mag
+- Objet mag anneau
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Anneau d’affaiblissement des énergies|{s:CMy}}
+**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 10 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 31 500 po ; **Poids** —
+(((Description)))
+Quand le porteur est sur le point de recevoir des dégâts d’acide, de froid, d’électricité ou de feu, cet anneau en argent et en cuivre galonné se tortille comme un serpent. Il offre une résistance de 5 à l’acide, au froid, à l’électricité et au feu. Le porteur peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action immédiate](./Action immédiate.md) lorsqu’il reçoit des dégâts de ce type afin d’augmenter sa résistance au point de gagner l’immunité pour cette seule attaque ou ce seul effet. Une fois par jour, quand le porteur reçoit des dégâts de l’un des types d’énergie cités, il peut également accorder une résistance de 5 contre le type d’énergie dont il est la cible à tous ses alliés dans un rayon de 6 mètres. Cette résistance dure 1 minute.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), [Artisan mythique](./Artisan mythique (mythique).md), *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*, *[protection d’autrui](./Protection dautrui.md)* ; **Coût** 15 750 po
+</div>

@@ -1,0 +1,42 @@
+---
+Name: Pathfinder-RPG.Chat
+Title: Chat
+LastModified: 2017-05-16 16:42
+Categories:
+- Bestiaire
+- Monstre
+- Règles officielles
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Chat|FP 1/4}
+{s:pucem|Animal|Ville|Tempéré}
+{s:BDTexte|*Source : Bestiaire p.135*}
+{s:BDTexte|**PX** 100}
+{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
+{s:BDTexte|**pv** 3 (1d8-1)}
+{s:BDTexte|**Réf** +4, **Vig** +1, **Vol** +1}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** 2 griffes +4 (1d2-4), morsure +4 (1d3-4)}
+{s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 3, **Dex** 15, **Con** 8, **Int** 2, **Sag** 12, **Cha** 7}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre le croc-en-jambe)}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +6, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** plaines tempérées ou chaudes ou ville}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}
+{s:BDTexte|**Trésor** aucun}
+</div>
+</td><td><div>Un chat adulte pèse généralement entre 2,5 et 7,5 kg.
+
+Les chats peuvent servir de familier aux lanceurs de sort. Un familier chat donne à son maître un bonus de +3 aux tests de Discrétion.
+</div>
+{s:ImageCentre|Bestiaire/Chat_Spooky.jpg|70%}
+</td></tr></table>

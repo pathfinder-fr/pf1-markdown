@@ -1,0 +1,149 @@
+---
+Name: Pathfinder-RPG.Liste de sorts des aventures occultes
+Title: Liste de sorts des aventures occultes
+LastModified: 2019-10-20 22:39
+---
+
+- [Analyse d’aura](./Analyse daura.md). Déchiffre les auras d’alignement, d’émotion, de santé et de magie d’une créature ou d’un objet.
+- [Anticipation des pensées](./Anticipation des pensées.md). Bonus de plus en plus élevés à la CA et aux jets d’attaque et de dégâts contre une créature.
+- [Apaisement des esprits](./Apaisement des esprits.md). Diffère l’action hostile d’une apparition ou d’un mort-vivant intangible.
+- [Appel d’un esprit](./Appel dun esprit.md). Manifeste l’esprit d’une créature. 
+- [Asile psychique](./Asile psychique.md). Accomplit une tâche mentale de longue haleine dans un paysage mental privé.
+- [Barrière mentale I](./Barrière mentale I.md). Bonus de bouclier de +4 à la CA et résistance au coup mental pendant 1 round par une action immédiate.
+- [Barrière mentale II](./Barrière mentale II.md). Comme barrière mentale I mais +6 CA. 
+- [Barrière mentale III](./Barrière mentale III.md). Comme barrière mentale I mais +8 CA. 
+- [Barrière mentale IV](./Barrière mentale IV.md). Comme barrière mentale III plus 25 % de chances d’éviter les coups critiques et les attaques * sournoises.
+- [Barrière mentale V](./Barrière mentale V.md). Comme barrière mentale III plus 50 % de chances d’éviter les coups critiques et les attaques sournoises.
+- [Bilocation](./Bilocation.md). Existe à deux endroits à la fois. 
+- [Blocage cognitif](./Blocage cognitif.md). Ajoute une composante intellectuelle à tous les sorts de la cible.
+- [Blocage émotionnel](./Blocage émotionnel.md). Ajoute une composante émotionnelle à tous les sorts de la cible.
+- [Blocage mental](./Blocage mental.md). Empêche la cible d’utiliser ses rangs de compétence, ses sorts, ses dons et ses pouvoirs.
+- [Bouclier des pensées I](./Bouclier des pensées I.md). Bonus de +4 aux jets de sauvegarde contre les effets mentaux par une action immédiate.
+- [Bouclier des pensées II](./Bouclier des pensées II.md). Comme bouclier des pensées I mais +6 aux jets de sauvegarde.
+- [Bouclier des pensées III](./Bouclier des pensées III.md). Comme bouclier des pensées I mais +8 aux jets de sauvegarde et étourdit les créatures qui lisent dans les pensées du personnage pendant 1 round.
+- [Bouclier des pensées IV](./Bouclier des pensées IV.md). Comme bouclier des pensées III mais étourdit pendant 1d4 rounds et résistance aux sorts de broyage psychique.
+- [Bouclier des pensées V](./Bouclier des pensées V.md). Comme bouclier des pensées IV mais dure 1 round par niveau.
+- [Bouffée d’intuition](./Bouffée dintuition.md). Bonus de +8 à l’Int, la Sag ou le Cha pendant un jet puis hébétement pendant 1 round.
+- [Bredouillement](./Bredouillement.md). La cible est nauséeuse et les créatures proches sont fascinées.
+- [Brouillage synaptique](./Brouillage synaptique.md). Empêche la cible de communiquer et l’oblige à agir de manière erratique.
+- [Broyage psychique I](./Broyage psychique I.md). Rend une cible fiévreuse et la met à l’agonie ou lui inflige 3d6+1 points de dégâts par niveau en cas de jet de sauvegarde réussi.
+- [Broyage psychique II](./Broyage psychique II.md). Comme broyage psychique I mais inflige 5d6+1 points de dégâts par niveau sur un jet de sauvegarde et il est plus difficile de résister.
+- [Broyage psychique III](./Broyage psychique III.md). Comme broyage psychique I mais inflige 7d6+1 points de dégâts par niveau sur un jet de sauvegarde et il est plus difficile de résister.
+- [Broyage psychique IV](./Broyage psychique IV.md). Comme broyage psychique I mais inflige 9d6+1 points de dégâts par niveau sur un jet de sauvegarde et pas de jet de sauvegarde à 1/2 pv ou moins.
+- [Broyage psychique V](./Broyage psychique V.md). Comme broyage psychique IV mais inflige 11d6+1 points de dégâts par niveau sur un jet de sauvegarde.
+- [Catatonie](./Catatonie.md). Une cible consentante semble morte.
+- [Cercle thaumaturgique](./Cercle thaumaturgique.md). Comme cercle magique mais affecte un sous-type ou une race d’extérieur sans se baser sur l’alignement.
+- [Chaînes intangibles](./Chaînes intangibles.md). Agrippe les créatures intangibles et inflige un montant de dégâts de 1d8 + Int. 
+- [Charger un objet](./Charger un objet.md). Imprègne un objet d’énergie psychique et de l’histoire de son propriétaire.
+- [Chasser les esprits](./Chasser les esprits.md). Inflige 1d6 points de dégâts par niveau à une apparition ou un esprit et la ou le rend chancelant.
+- [Chirurgie psychique](./Chirurgie psychique.md). Soigne les affaiblissements temporaires et diminutions permanentes d’Int, Sag et Cha et élimine les afflictions et états préjudiciables mentaux.
+- [Conseil onirique](./Conseil onirique.md). Conversation entre plusieurs créatures endormies.
+- [Contempler de loin](./Contempler de loin.md). Réception des impressions psychiques d’un endroit éloigné.
+- [Corps d’ombre](./Corps dombre.md). Change le corps en ombre vivante. 
+- [Coup mental I](./Coup mental I.md). Inflige mentalement 1d6 points de dégâts par niveau.
+- [Coup mental II](./Coup mental II.md). Comme coup mental I mais inflige 1d8 points de dégâts par niveau (5d8 au maximum).
+- [Coup mental III](./Coup mental III.md). Comme coup mental II mais 10d8 points de dégâts au maximum.
+- [Coup mental IV](./Coup mental IV.md). Comme coup mental II mais 15d8 points de dégâts au maximum et cible fatiguée pendant 1 round.
+- [Coup mental V](./Coup mental V.md). Comme coup mental IV mais la cible est épuisée ou fatiguée pendant 1 round.
+- [Coup mental VI](./Coup mental VI.md). Comme coup mental IV mais 20d8 points de dégâts au maximum et la cible est épuisée et étourdie pendant 1 round.
+- [Création de paysage mental suprême](./Création de paysage mental suprême.md). Comme création de paysage mental mais affecte plus de créatures, sur une plus longue durée et permet les modifications magiques.
+- [Création de paysage mental](./Création de paysage mental.md). Crée un paysage mental immersif.
+- [Dégoût](./Dégoût.md). La cible évite un objet ou un lieu.
+- [Déguisement décrépi](./Déguisement décrépi.md). Donne l’impression qu’un objet n’a aucune valeur.
+- [Déjà vu](./Déjà vu.md). Oblige une créature à répéter ses actions.
+- [Détection d’importance psychique](./Détection dimportance psychique.md). Trouve les objets à charge psychique.
+- [Détection de paysage mental](./Détection de paysage mental.md). Perçoit la présence et les attributs d’un paysage mental.
+- [Diviser l’esprit](./Diviser lesprit.md). Compartimente l’esprit, ce qui permet de lancer deux fois le dé sur les jets de Volonté et les tests d’Intelligence et de faire des actions mentales supplémentaires.
+- [Échange d’esprits majeur](./Échange desprits majeur.md). Échange définitivement l’esprit du personnage avec celui d’une autre créature.
+- [Échange d’esprits](./Échange desprits.md). Échange son esprit avec celui d’une autre créature pendant 1 heure par niveau.
+- [Écho des pensées](./Écho des pensées.md). Remplace les pensées de surface par un écho mental.
+- [Éclats éthérés](./Éclats éthérés.md). Emplit une zone d’éclats invisibles qui ralentissent les mouvements et blessent les créatures.
+- [Effacement d’impression](./Effacement dimpression.md). Efface les impressions psychiques émanant d’un objet.
+- [Effacement de l’esprit](./Effacement de lesprit.md). Efface une portion des expériences et de l’esprit de la cible, lui imposant des niveaux négatifs.
+- [Effet placebo](./Effet placebo.md). Supprime temporairement une affliction ou un état préjudiciable.
+- [Enveloppe éthérée](./Enveloppe éthérée.md). Enveloppe l’inconscient du personnage dans un cocon sur le plan Éthéré.
+- [Enveloppement des pensées](./Enveloppement des pensées.md). Protège contre la détection de pensées et la modification de mémoire.
+- [Enveloppement éthéré](./Enveloppement éthéré.md). Comme enveloppe éthérée mais peut affecter une créature non consentante.
+- [Éruption ectoplasmique](./Éruption ectoplasmique.md). Inflige 6d6 points de dégâts et enchevêtre les créatures dans un rayon de 3 mètres. Repousse les créatures éthérées et intangibles sur le plan Matériel.
+- [Esprit endormi](./Esprit endormi.md). L’esprit habitant une créature ou un objet entre en dormance.
+- [Éther condensé](./Éther condensé.md). Crée une conjonction planaire qui ralentit les déplacements, impose un malus à la CA et aux jets de Réflexes et inflige des chances de rater aux attaques à distance.
+- [Éveil de créature artificielle](./Éveil de créature artificielle.md). Donne une conscience humaine à une créature artificielle.
+- [Examen des rêves](./Examen des rêves.md). Lit les pensées d’une créature en plein rêve.
+- [Forme akashique](./Forme akashique.md). Stocke une copie du corps du personnage dans les Annales akashiques et le restaure sous cette forme à sa mort.
+- [Forteresse intellectuelle I](./Forteresse intellectuelle I.md). Suppression des effets d’émotion et de terreur dans un rayon de 6 mètres par une action immédiate.
+- [Forteresse intellectuelle II](./Forteresse intellectuelle II.md). Comme forteresse intellectuelle I mais réduit les dégâts des effets mentaux.
+- [Forteresse intellectuelle III](./Forteresse intellectuelle III.md). Comme forteresse intellectuelle II et retire partiellement les effets de terreur et d’émotion.
+- [Fouet d’ego I](./Fouet dego I.md). Une créature reçoit un malus de -2 à l’Int, la Sag ou le Cha et est chancelante pendant 1 round.
+- [Fouet d’ego II](./Fouet dego II.md). Comme fouet d’ego I mais avec un malus de –4 et chancellement pendant 1d4 rounds.
+- [Fouet d’ego III](./Fouet dego III.md). Comme fouet d’ego I mais avec un malus de –5 et chancellement pendant 1d6 rounds.
+- [Fouet d’ego IV](./Fouet dego IV.md). Comme fouet d’ego I mais avec un malus de –8 et chancellement pendant 1d8 rounds.
+- [Fouet d’ego V](./Fouet dego V.md). Comme fouet d’ego I mais avec un malus de –10 et chancellement pendant 1d10 rounds. 
+- [Fouet fantôme](./Fouet fantôme.md). Crée un fouet spectral qui traverse les objets. 
+- [Horreur onirique suprême](./Horreur onirique suprême.md). Comme horreur onirique en ajoutant des dégâts à la For.
+- [Horreur onirique](./Horreur onirique.md). Une créature issue des cauchemars de la cible la distrait et la fatigue.
+- [Hypercognition](./Hypercognition.md). Le mage se souvient rapidement de tout ce qu’il sait sur un sujet.
+- [Image psychique](./Image psychique.md). Crée une illusion parfaite du personnage. 
+- [Implantation de lecture factice](./Implantation de lecture factice.md). Imprègne un objet d’une fausse impression psychique.
+- [Infliger des souffrances de groupe](./Infliger des souffrances de groupe.md). Comme infliger des souffrances mais touche une créature par niveau.
+- [Infliger des souffrances](./Infliger des souffrances.md). La cible subit un malus de –4  aux jets d’attaque ainsi qu’aux tests de compétence et de caractéristique.
+- [Insinuation du ça I](./Insinuation du ça I.md). Rend une créature confuse pendant la durée de la concentration + 1 round.
+- [Insinuation du ça II](./Insinuation du ça II.md). Comme insinuation du ça I mais affecte deux créatures et l’effet de confusion est plus important.
+- [Insinuation du ça III](./Insinuation du ça III.md). Comme insinuation du ça I mais affecte trois créatures et l’effet de confusion est plus puissant.
+- [Insinuation du ça IV](./Insinuation du ça IV.md). Comme insinuation du ça I mais affecte quatre créatures et l’effet de confusion est au choix du personnage.
+- [Lame spirituelle](./Lame spirituelle (sort).md). Donne la propriété spectrale et un autre pouvoir lié aux émotions à une arme.
+- [Lancer un duel psychique](./Lancer un duel psychique.md). Initie un duel psychique entre le personnage et une autre créature.
+- [Lecture d’objet](./Lecture dobjet.md). Lit les impressions psychiques laissées sur un objet.
+- [Lecture psychique](./Lecture psychique.md). Lecture des pensées de surface pour obtenir des informations sur un sujet.
+- [Lien mental](./Lien mental.md). Communique une grande quantité d’informations en un instant.
+- [Manoeuvre télékinétique](./Manoeuvre télékinétique.md). Manoeuvre offensive télékinétique.
+- [Microcosme](./Microcosme.md). Piège les créatures dans un paysage mental caché de façon permanente, pendant que leur corps pourrit dans le monde réel.
+- [Modification d’aura](./Modification daura.md). Masque les auras d’alignement, d’émotion, de santé et de magie d’une créature ou d’un objet.
+- [Montée d’adrénaline](./Montée dadrénaline.md). Bonus de +8 à la For, la Dex ou la Con pour un jet puis fatigue pendant 1 round.
+- [Mur ectoplasmique](./Mur ectoplasmique.md). Des murs d’esprits bloquent les déplacements sur les plans Matériel et Éthéré et sèment la  terreur.
+- [Nodule explosif](./Nodule explosif.md). Place un piège sur un objet, afin d’endommager le mental de la créature qui le touche.
+- [Nourrir la haine](./Nourrir la haine.md). Oblige une créature à haïr un type de créature.
+- [Nuée de papier](./Nuée de papier.md). Des bouts de papier infligent 1d6 points de dégâts par niveau et ont un effet de sort si le personnage a déchiré un parchemin.
+- [Offrande exigée](./Offrande exigée.md). Oblige une créature à donner l’objet qu’elle tient.
+- [Paranoïa](./Paranoïa.md). La cible devient hostile à toutes les créatures.
+- [Paroles de la tombe](./Paroles de la tombe.md). Oblige un cadavre à bafouiller.
+- [Passager clandestin](./Passager clandestin.md). Comme possession spirituelle mais le personnage est juste observateur et ne contrôle pas sa cible.
+- [Perception des pensées](./Perception des pensées.md). Détecte automatiquement la présence de créatures conscientes alentour.
+- [Piège ectoplasmique](./Piège ectoplasmique.md). Des volutes d’ectoplasme agrippent une créature et l’attachent au personnage.
+- [Piéger un esprit](./Piéger un esprit.md). Piège une créature intangible ou une apparition dans un miroir.
+- [Poings éthérés](./Poings éthérés.md). Les griffes, les coups à mains nues et les sorts de contact du personnage affectent les créatures éthérées.
+- [Porte sur un paysage mental](./Porte sur un paysage mental.md). Crée un portail permettant d’entrer et de sortir d’un paysage mental.
+- [Possession spirituelle d’objet inférieure](./Possession spirituelle dobjet inférieure.md). Projette l’âme du personnage dans un objet qu’elle anime.
+- [Possession spirituelle d’objet suprême](./Possession spirituelle dobjet suprême.md). Comme possession spirituelle d’objet mais pour un objet plus puissant ou une créature artificielle.
+- [Possession spirituelle d’objet](./Possession spirituelle dobjet.md). Comme possession spirituelle d’objet inférieure mais pour un objet plus grand.
+- [Possession spirituelle suprême](./Possession spirituelle suprême.md). Comme possession mais le corps du personnage disparaît.
+- [Possession spirituelle](./Possession spirituelle (sort).md). Projette l’âme du personnage dans le corps d’une autre créature.
+- [Projectile télékinétique](./Projectile télékinétique.md). Lance un objet par télékinésie et inflige 1d6 points de dégâts à la cible et à l’objet.
+- [Projection télempathique](./Projection télempathique.md). Modifie l’attitude de la cible ou donne des bonus à ceux qui interagissent avec elle.
+- [Pulsation synaptique suprême](./Pulsation synaptique suprême.md). Comme pulsation synaptique pendant 1d4 rounds.
+- [Pulsation synaptique](./Pulsation synaptique.md). Étourdit les créatures dans un rayon de 9 mètres.
+- [Quintessence](./Quintessence.md). Masque les défauts ou les blessures d’une créature ou d’un objet.
+- [Refouler un souvenir](./Refouler un souvenir.md). Retire une connaissance de l’esprit du personnage.
+- [Régression primale](./Régression primale.md). Une créature devient bestiale et perd son intelligence.
+- [Rétrocognition](./Rétrocognition.md). Obtention d’impressions psychiques issues d’évènements passés et concernant un lieu.
+- [Sonde mentale](./Sonde mentale.md). Tire des réponses des souvenirs d’un sujet.
+- [Surcharge synaptique](./Surcharge synaptique.md). Inflige 1d6 points de dégâts par niveau et rend la cible chancelante pendant 1 minute.
+- [Synesthésie de groupe](./Synesthésie de groupe.md). Comme synesthésie mais affecte plusieurs créatures.
+- [Synesthésie](./Synesthésie.md). La cible se déplace à la moitié de sa vitesse, subit des malus et a du mal à lancer des sorts.
+- [Talisman instrumental](./Talisman instrumental.md). Comme contingence mais intègre un sort dans un instrument.
+- [Télépathie](./Télépathie (sort).md). Communication mentale avec des créatures situées dans un rayon de 30 mètres.
+- [Tempête télékinétique](./Tempête télékinétique.md). Inflige 1d6 points de dégâts par niveau et hébétement et étourdissement dans un rayon de 12 mètres.
+- [Tête explosive](./Tête explosive.md). Fait exploser la tête d’une créature possédant 20 pv ou moins et inflige des dégâts dans un rayon de 3 mètres autour d’elle.
+- [Tour de volonté de fer I](./Tour de volonté de fer I.md). Par une action immédiate, donne aux créatures dans un rayon de 3 mètres une résistance à la magie contre la magie psychique et les effets mentaux.
+- [Tour de volonté de fer II](./Tour de volonté de fer II.md). Comme tour de volonté de fer I mais dure 2 rounds.
+- [Tour de volonté de fer III](./Tour de volonté de fer III.md). Comme tour de volonté de fer I mais dure 3 rounds.
+- [Tour de volonté de fer IV](./Tour de volonté de fer IV.md). Comme tour de volonté de fer I mais dure 4 rounds.
+- [Tour de volonté de fer V](./Tour de volonté de fer V.md). Comme tour de volonté de fer I mais dure 5 rounds.
+- [Transfert d’affliction](./Transfert daffliction.md). Retire une affliction et l’applique sur une autre créature.
+- [Transport d’animal](./Transport danimal.md). Envoie ou reçoit un animal de taille TP ou inférieure par téléportation.
+- [Transport d’objet](./Transport dobjet.md). Envoie ou reçoit un petit objet par téléportation.
+- [Traversée onirique](./Traversée onirique.md). Le personnage entre dans la dimension du Rêve pour pénétrer dans les songes de la créature choisie puis ressort près du corps de cette créature, sur le plan où elle dort.
+- [Vie scellée suprême](./Vie scellée suprême.md). Comme vie scellée mais ajoute une protection contre la mort et une immunité au transfert d’âme.
+- [Vie scellée](./Vie scellée.md). Empêche une créature de transférer une part de force vitale vers autrui ou d’en recevoir.
+- [Voyage onirique](./Voyage onirique.md). Comme traversée onirique mais plus flexible et affecte plus de créatures.
+- [Zèle contagieux](./Zèle contagieux.md). Donne des bonus et des points de vie temporaires se propageant d’une créature à l’autre.
+- [Zèle inébranlable](./Zèle inébranlable.md). Donne un avantage lors des tentatives suivant un test raté et protège contre les effets d’émotion et de terreur.

@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.épée du bouffon
+Title: Épée du bouffon
+LastModified: 2024-06-18 18:26
+Categories:
+- Objet mag
+- Objet mag maudit
+- Règle officielle
+- Src Armes et équipement
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+{s:BDTitre|Épée du bouffon|{s:AE}}
+**Aura** [Divination](./école divination.md) modérée ; **NLS** 10 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 1 kg
+(((Description)))
+Cette arme ressemble à une épée de précision et se comporte comme telle jusqu’à ce que son propriétaire l’utilise lors d’un vrai combat. Elle lui impose alors un malus de –10 aux tests de [Discrétion](./Discrétion.md). Elle l’empêche aussi de mentir ou de tenter le moindre subterfuge. À chaque fois qu’il tente de le faire, il doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 sinon, il laisse échapper la vérité ou fait quelque chose qui évente involontairement sa ruse. Il faut recourir à la magie pour débarrasser le personnage de l’épée une fois la malédiction activée.
+(((Objet magique prévu)))
+[épée de précision](./Épée de précision.md)
+</div>

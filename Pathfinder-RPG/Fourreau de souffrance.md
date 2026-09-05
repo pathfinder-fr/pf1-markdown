@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Fourreau de souffrance
+Title: Fourreau de souffrance
+LastModified: 2024-06-13 20:37
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Inner Sea Gods
+---
+
+{s:divin|Zon-Kuthon|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png}<div class="BD">
+{s:BDTitre|Fourreau de souffrance|{s:ISG}}
+**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 500 po ; **Poids** 0,5 kg
+(((Description)))
+{s:cs}Ce fourreau en cuir noir robuste est entouré de chaînes noires de jais qui permettent de l'accrocher facilement à la ceinture. Un *fourreau de souffrance* confère à son porteur la connaissance des techniques de torture avancées utilisées par les cultistes dépravés du Seigneur de Minuit. Il grandit ou rétrécit pour s'adapter à n'importe quelle arme blanche adaptée à une créature de taille M ou P. Trois fois par jour, le porteur peut déclarer qu'il tente de porter un coup douloureux avec une attaque de corps à corps. Si l'attaque touche, l'adversaire doit réussir un jet de [Vigueur](./Vigueur.md) DD 11 ou être affecté par un *[rayon de fièvre](./Rayon de fièvre.md)*. Le porteur peut dépenser une utilisation de coup douloureux du fourreau par une [action immédiate](./Action immédiate.md) pour s'affecter lui-même avec l'effet de *rayon de fièvre* et échouer volontairement au jet de sauvegarde, ce qui lui permet de relancer un jet de sauvegarde raté contre un [effet mental](./effet mental.md).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[rayon de fièvre](./Rayon de fièvre.md)* ; **Coût** 1 250 po
+</div>

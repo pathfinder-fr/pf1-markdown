@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Perception de la vie (capacité)
+Title: Perception de la vie (Sur)
+LastModified: 2011-12-26 21:31
+---
+
+La créature peut détecter les créatures vivantes situées dans un rayon de 18 mètres et en déterminer l’emplacement précis, comme si elle disposait de la capacité de [vision aveugle](./vision aveugle.md).
+
+*Format :* perception de la vie. *Emplacement :* Sens.

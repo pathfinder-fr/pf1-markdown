@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.Silence
+Title: Silence
+LastModified: 2023-11-06 15:03
+Categories:
+- Règle officielle
+- Sort
+- Sort antipaladin 2
+- Sort barde 2
+- Sort hypnotiseur 2
+- Sort inquisiteur 2
+- Sort prêtre 2
+- Sort psychiste 2
+- Src Manuel des joueurs
+---
+
+**École** [Illusion](./Illusion.md) ([hallucination](./Présentation des sorts.md#HALLUCINATION)) ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2   
+
+**Temps d'incantation** 1 [round](./round.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+
+**Zone d'effet** [émanation](./émanation.md) de 6 m (4 {s:c}) de rayon, centrée sur une créature, un objet ou un point donné  
+
+**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ou aucun (objet) ; **Résistance à la magie** oui (voir description) ou non (objet)
+
+À la fin de l’incantation, un silence absolu s’abat sur la zone choisie par le personnage. Tous les sons cessent d’exister : les conversations s’arrêtent, il est impossible de jeter le moindre sort à [composante verbale](./composante verbale.md) et nul bruit n’entre ni ne sort de la zone. Un personnage peut lancer *silence* n’importe où (pas besoin de prendre un objet pour cible), mais sa [zone d’effet](./zone deffet.md) reste stationnaire, à moins d’être jeté sur une créature (auquel cas, la zone d’effet se déplace avec). Un individu qui ne veut pas être pris pour [cible](./cible.md) par le sort peut y échapper en réussissant un jet de [Volonté](./Volonté.md) (et, le cas échéant, grâce à sa [résistance à la magie](./RM.md)). Les objets détenus par une créature ont eux aussi droit à un [jet de sauvegarde](./jet de sauvegarde.md) (et à un éventuel test de résistance à la magie), de même que les objets magiques qui émettent des bruits mais ce n’est pas le cas des objets qui n’appartiennent à personne ou des points qui ne correspondent à rien de solide. Les créatures qui se trouvent dans la zone du silence sont immunisées contre les attaques, les sorts et les effets du registre du [son](./Registre.md) ou basés sur le langage.
+
+### Mythique
+{s:CMy}
+Ce sort s’applique également à la télépathie et coupe net toute tentative de communication mentale à l’intérieur de la zone d’effet. Au moment de l’incantation, le personnage peut décider de s’immuniser à son propre effet de silence mythique et peut désigner jusqu’à une créature par grade qui bénéficiera également de cette immunité. Les créatures immunisées au silence mythique peuvent ainsi être normalement affectées par des effets de son.

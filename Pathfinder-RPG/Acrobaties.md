@@ -1,0 +1,176 @@
+---
+Name: Pathfinder-RPG.Acrobaties
+Title: Acrobaties
+LastModified: 2024-06-29 01:29
+Categories:
+- Compétence
+- Règle officielle
+- Src Manuel des joueurs
+---
+
+{s:MenuCompétences}
+
+**Caractéristique associée** : [Dextérité](./Dextérité.md)
+
+**Formation nécessaire** : non
+
+**Malus d’armure** : oui
+
+*Le personnage peut garder son équilibre lorsqu’il marche sur des surfaces étroites ou un sol traître. Il peut également se baisser, se retourner, sauter ou effectuer un roulé-boulé pour éviter les coups ou traverser certains obstacles.*
+
+### Test de compétence
+**Éviter les chutes.** Le personnage peut utiliser la compétence d’Acrobaties pour éviter de tomber lorsqu’il se déplace sur une surface étroite ou sur un sol irrégulier. Un test réussi lui permet de se déplacer à mi-vitesse ; un seul test suffit pour chaque [round](./round.md). Reportez-vous à la table suivante pour déterminer le [DD](./DD.md) de base, qui sera ensuite modifié par les modificateurs aux [tests](./../Golarion/Test.md) d’Acrobaties. Lorsque le personnage utilise la compétences d’Acrobaties de cette manière, il est considéré comme [pris au dépourvu](./Pris au dépourvu.md) et il perd son bonus de Dextérité à la [CA](./CA.md) (s’il en a un). S’il subit des dégâts alors qu’il utilise cette compétence, il doit immédiatement réaliser un nouveau [test](./../Golarion/Test.md) de compétence contre le [DD](./DD.md) initial pour éviter de chuter ou de tomber à terre.
+
+{| CLASS="tablo centre autoalt"
+|+ DD aux test d'acrobatie en fonction de la largeur de la surface
+|- CLASS="titre"
+| Largeur de la surface
+| DD de base du test d’Acrobaties
+|- CLASS="premier"
+| plus de 90 cm
+| 0*
+|-
+| de 30 cm à 90 cm
+| 5*
+|-
+| de 15 cm à 30 cm
+| 10
+|-
+| de 5 cm à 15 cm
+| 15
+|-
+| moins de 5 cm
+| 20
+|-
+| COLSPAN="2" CLASS="note" | *(*) Aucun test d’Acrobaties n’est nécessaire pour se déplacer   
+sur ces surfaces, à moins que les modificateurs des   
+surfaces accroissent le [DD](./DD.md) au-delà de 9.*
+|}
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#1) Acrobaties : Comment Acrobaties fonctionne lorsqu’on l’utilise pour éviter des attaques d’opportunité ? Quand lancer le test ? Combien de tests faire ?***
+
+L'<u>[Acrobaties](./Acrobaties.md)</u> permet à un personnage de faire des tests pour se déplacer dans l’espace contrôlé de ses adversaires sans provoquer d’[attaques d’opportunité](./AO.md). Il doit faire un test au moment où il quitte une case contrôlée par un ennemi, mais seulement une fois par ennemi. Le DD (qui est basé sur le [Degré de Manœuvre Défensive](./DMD.md) de chaque adversaire) augmente de +2 pour chaque adversaire après le premier au cours du même round. Le DD augmente de +5 si le personnage tente de traverser l’espace occupé par un adversaire. Dans le cas où le personnage se déplace hors d’une case contrôlée par deux adversaires en même temps, c’est lui qui décide quel test lancer en premier.
+
+Par exemple, un roublard est pris en tenaille par un simple gobelin et un antipaladin terrifiant. Le roublard s’éloigne d’eux, provoquant une attaque d’opportunité de la part de chacun d'eux, mais utilise Acrobaties pour tenter de les éviter. Il doit se déplacer à mi-vitesse en étant menacé par ces adversaires et peut choisir quel test il effectue en premier. S’il rate un test, il provoque une attaque d’opportunité de la part de cet adversaire. S’il réussit, il ne provoque pas d’attaque d’opportunité pour s’être déplacé dans l’espace contrôlé de cet adversaire à ce tour.
+---
+**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- Manuel des joueurs (Dons et compétences).md#2) Acrobaties : Que se passe-t-il si je rate le test en utilisant cette compétence pour me déplacer dans l’espace occupé par un ennemi ?**'
+
+Le personnage perd son [action de mouvement](./Action de mouvement.md) et provoque une [attaque d'opportunité](./AO.md). (Note : Cela signifie qu’un personnage peut tenter <u>[cette manœuvre](./Acrobaties.md)</u> jusqu’à deux fois par round, une fois par une action de mouvement et une fois par une action simple).
+
+Mise à jour : Page 88 — Dans la compétence Acrobaties, à la fin du troisième paragraphe, ajouter la phrase suivante : « Si le personnage tente de se déplacer à travers l'espace occupé par un ennemi et échoue à son test d'Acrobaties, son action de mouvement est perdue et il provoque une attaque d'opportunité. »}**Éviter une attaque d'opportunité.** Le personnage peut également utiliser la compétence d’Acrobaties pour traverser l’[espace contrôlé](./espace contrôlé.md) par un ennemi sans provoquer d’[attaque d'opportunité](./attaque dopportunité.md) de la part de celui-ci. Ce mouvement s’accomplit normalement à mi-vitesse, mais le personnage peut choisir de se déplacer à sa vitesse entière en augmentant le [DD](./DD.md) du test de 10. Les personnages dont la vitesse est réduite parce qu’ils portent une [charge](./Encombrement.md) ou une [armure intermédiaire](./armure intermédiaire.md) ou [lourde](./armure lourde.md) ne peuvent pas utiliser la compétence d’Acrobaties de cette manière. Cette restriction ne s’applique que si la vitesse du personnage est effectivement réduite : si une capacité lui permet de conserver sa vitesse entière, le personnage peut alors utiliser la compétence d’Acrobaties pour se faufiler à côté d’ennemis sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md). Un personnage [à terre](./À terre.md) peut également utiliser la compétence d’Acrobaties de cette manière mais il lui faut alors une [action complexe](./Action complexe.md) pour se déplacer de 1,50 m (1 case) et le [DD](./DD.md) est augmenté de 5. Si le personnage tente de se déplacer à travers l'espace occupé par un ennemi et échoue à son test d'Acrobaties, son action de mouvement est perdue et il provoque une attaque d'opportunité.
+
+{| CLASS="tablo centre autoalt"
+|+ tests d'acrobaties en espace contrôlé
+|- CLASS="titre"
+| Situation
+| DD de base du test d’Acrobaties*
+|- CLASS="premier"
+| traverser une zone contrôlée par un ennemi
+| [degré de manœuvres défensives](./DMD.md) de l’ennemi
+|-
+| traverser l’espace occupé par un ennemi
+| [degré de manœuvres défensives](./DMD.md) de l’ennemi + 5
+|-
+| COLSPAN="2" CLASS="note" | *(*) Ce [DD](./DD.md) permet d’éviter une [attaque d’opportunité](./attaque dopportunité.md) causée par le mouvement. Pour chaque ennemi   
+supplémentaire (au-delà du premier) dont on tente d’éviter une [attaque d’opportunité](./attaque dopportunité.md) au cours du   
+[round](./round.md), le [DD](./DD.md) augmente de 2.*
+|}
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#29) Sauter : Si je veux sauter au dessus d’un trou de 3m, le DD est-il de 10, comme le tableau l’indique, ou est-il plus élevé, puisque je dois me déplacer d’un total de 4,5m pour atteindre une case hors du trou ?***
+
+Le DD est toujours de 10 pour <u>[sauter](./Acrobaties.md#SAUTER)</u> au dessus d’un trou de 3 mètres. Le personnage se déplace d’un total de 4,5 mètres lorsqu’il fait ce saut, mais tout ce mouvement ne fait pas partie du saut. Une façon de visualiser cela serait de se dire que le personnage marche/court sur les 0,75m du centre de sa case jusqu’au bord du trou, qu’il saute par dessus le trou jusqu’au bord de la case de l’autre côté, puis qu’il avance de 0,75m jusqu’au centre de cette nouvelle case.}{s:Reference|SAUTER}**Sauter.** Enfin, le personnage peut utiliser la compétence d’Acrobaties pour sauter ou pour amortir une chute. Pour calculer le [DD](./DD.md) de base, on divise la distance à traverser par 30 cm (dans le cas d’un saut horizontal) ou la hauteur à atteindre par 7,5 cm (dans le cas d’un saut vertical). Ces [DD](./DD.md) sont doublés si le personnage ne dispose pas d’au moins 3 m (2 cases) d’élan. Les seuls modificateurs d’Acrobaties qui s’appliquent pour ces tests sont ceux qui se rapportent à la surface à partir de laquelle le personnage effectue le saut. Si le test échoue de 4 points ou moins, le personnage peut tenter un jet de [Réflexes](./Réflexes.md) de DD 20 pour se rattraper au bord. Si le test échoue de 5 points ou plus, le personnage ne parvient pas à sauter assez loin/haut et il chute ou tombe à terre (dans le cas d’un saut vertical). Les créatures qui possèdent une [vitesse de déplacement](./vitesse de déplacement.md) au sol de plus de 9 m (6 cases) bénéficient d’un bonus racial aux tests d’Acrobaties relatifs à des sauts ; ce bonus est de +4 pour chaque tranche de 3 m (2 cases) de vitesse au-delà de 9 m (6 cases). Les créatures qui possèdent une [vitesse de déplacement](./vitesse de déplacement.md) au sol de moins de 9 m (6 cases) reçoivent quant à elles un malus racial aux tests d’Acrobaties relatifs à des sauts ; ce malus vaut -4 pour chaque tranche de 3 m (2 cases) de vitesse au-dessous de 9 m (6 cases). Un saut ne permet pas de se déplacer au-delà de la distance maximale qu’il est possible de parcourir en un round. Dans le cas d’un saut avec élan, le résultat du test d’Acrobaties indique la distance parcourue (en unités de 30 cm) et, dans le cas d’un échec, la distance à laquelle le personnage est retombé. Cette distance est divisée par deux dans le cas d’un saut en longueur sans élan.
+
+Lorsque le personnage se laisse tomber d’une certaine hauteur (ou en cas d’une chute résultant d’un saut raté), un test d’Acrobaties de [DD](./DD.md) 15 lui permet d’ignorer les trois premiers mètres de la hauteur de chute, mais il se retrouve quand même à terre si la chute lui inflige des dégâts. Les règles relatives à la chute se trouvent [ici](./Dangers naturels.md#CHUTES).
+
+<table width="100%"><tr style="vertical-align: top"><td width="49%">
+{| CLASS="tablo centre autoalt"
+|+ tests de saut en longueur
+|- CLASS="titre"
+| Saut en longueur || DD du test d’Acrobaties
+|- CLASS="premier"
+| 1,50 m (1 case) || 5
+|-
+| 3,00 m (2 cases) || 10
+|-
+| 4,50 m (3 cases) || 15
+|-
+| 6,00 m (4 cases) || 20
+|-
+| plus de 6 m || +5 par 1,50 m (1 case)
+|}
+</td><td width="2%"></td><td width="49%">
+{| CLASS="tablo centre autoalt"
+|+ Tests de saut en hauteur
+|- CLASS="titre"
+| Saut en hauteur || DD du test d’Acrobaties
+|- CLASS="premier"
+| 30 cm || 4
+|-
+| 60 cm || 8
+|-
+| 90 cm || 12
+|-
+| 120 cm || 16
+|-
+| plus de 120 cm || +4 par 30 cm
+|}
+</td></tr></table>
+
+### Modificateurs
+
+De nombreuses circonstances peuvent modifier les chances de réussite d’un test d’Acrobaties. Les modificateurs suivants s’appliquent aux [DD](./DD.md) de tous les tests d’Acrobaties. Ils se cumulent entre eux mais, pour chaque type de circonstances, seul le modificateur le plus important s’applique.
+
+<center>
+{| CLASS="tablo"
+|+ Modificateurs de circonstances du test d'Acrobaties
+|- CLASS="titre"
+| Circonstances du test d’Acrobaties
+| Modificateur au DD
+|- CLASS="premier"
+| surface légèrement encombrée (décombres épars, sable)
+|  +2
+|- CLASS="alt"
+| surface très encombrée (sol d’une caverne, décombres nombreux)
+| +5
+|-
+| surface légèrement glissante (sol humide)
+| +2
+|- CLASS="alt"
+| surface très glissante (verglas, glace)
+| +5
+|-
+| surface légèrement en pente (moins de 45°)
+| +2
+|- CLASS="alt"
+| surface en pente forte (plus de 45°)
+| +5
+|-
+| surface légèrement instable (bateau sur des eaux agitées)
+| +2
+|- CLASS="alt"
+| surface très instable (navire pris dans une tempête)
+| +5
+|-
+| surface extrêmement instable (tremblement de terre)
+| +10
+|- CLASS="alt"
+| mouvement à pleine vitesse sur des surfaces étroites ou difficiles
+| +5*
+|-
+| COLSPAN="2" CLASS="note" | *(*) Ce modificateur ne s’applique pas dans le cas de sauts.*
+|}
+</center>
+
+### Action
+
+**Sans objet.** Les tests d’Acrobaties font partie d’une autre action (comme un mouvement) ou se font en réaction à une situation.
+
+### Spécial
+
+Un personnage possédant un [rang](./rang.md) de 3 ou plus en Acrobaties bénéficie d’un bonus d’esquive de +3 à la [CA](./CA.md) lorsqu’il [combat sur la défensive](./combattre sur la défensive.md) (au lieu du bonus normal de +2) et d’un bonus d’esquive de +6 à la [CA](./CA.md) lorsqu’il décide de se mettre en [défense totale](./défense totale.md) (au lieu du bonus normal de +4). Un personnage possédant le don [Voltigeur](./Voltigeur.md) obtient un bonus aux tests d’Acrobaties.
+
+{s:VoirAussiAvant}
+- [FAQ Compétences](./FAQ Compétences.md)
+{s:VoirAussiAprès}

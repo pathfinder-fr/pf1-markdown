@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Bouclier donde
+Title: Bouclier d'onde
+LastModified: 2024-02-21 21:32
+Categories:
+- Règle officielle
+- Sort
+- Sort chaman 1
+- Sort druide 1
+- Sort magicien 1
+- Sort magus 1
+- Sort sanguin 1
+- Sort sorcière 1
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[Eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1</br>
+**Temps d’incantation** 1 action immédiate</br>
+**Composantes** [V](./composantes.md)</br>
+**Portée** personnelle</br>
+**Cible** le lanceur de sorts</br>
+**Durée** 1 [round](./round.md) ou jusqu’à déchargement
+
+Le personnage crée un violent torrent d’eau qui dessine grossièrement les contours d’un bouclier. L’eau protège le personnage contre une attaque physique ou une attaque de feu, lui accordant une [RD](./RD.md)/— et une résistance au feu égale à la moitié de son niveau de lanceur (1 au minimum) contre cette attaque. Une fois que le sort a réduit les dégâts d’une attaque contre le personnage, il est déchargé.

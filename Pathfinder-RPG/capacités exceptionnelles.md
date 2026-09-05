@@ -1,0 +1,7 @@
+---
+Name: Pathfinder-RPG.capacités exceptionnelles
+Title: capacités exceptionnelles
+LastModified: 2010-06-29 23:37
+---
+
+>>> Pathfinder-RPG.Pouvoir exceptionnel

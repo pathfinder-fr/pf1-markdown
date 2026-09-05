@@ -1,0 +1,57 @@
+---
+Name: Pathfinder-RPG.Baguettes magiques
+Title: Les baguettes magiques
+LastModified: 2025-07-12 03:10
+Categories:
+- Objet mag baguette
+---
+
+{s:MenuObjetsMagiques}
+Une baguette est un fin bout de bois contenant un sort unique du 4e niveau ou moins. Toute baguette nouvellement créée contient 50 charges, et chaque charge permet de lancer le sort une fois. Une baguette déchargée n’est rien de plus qu’un petit bout de bois. Le prix d’une baguette est égal au niveau du sort x le niveau de lanceur de sorts du créateur x 750 po. Le coût total de création inclut les coûts de base et les coûts supplémentaires, dont ceux des composantes. La Table "[Coût des baguettes](./Baguettes magiques.md#DETERMINATION)" donne des exemples de prix pour un niveau de lanceur de sorts minimum. Notez que certains sorts apparaissent à des niveaux différents pour différents types de lanceurs de sorts. Le niveau de ces sorts dépend du niveau du personnage qui a fabriqué la baguette.
+
+**Présentation.** La plupart des baguettes mesurent entre 15 et 30 cm de long, pour une épaisseur dépassant rarement le demi-centimètre. Elles pèsent dans les 25 g. Elles sont généralement taillées dans le bois, même si certaines sont en os, en métal, voire en cristal. Les baguettes ont habituellement une [CA](./CA.md) de 7, 5 [points de vie](./points de vie.md), une [solidité](./solidité.md) de 5 et le test de [Force](./Force.md) pour les casser a un [DD](./DD.md) de 16.
+
+**Activation.** Toutes les baguettes sont des [objets à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) ; cela signifie que leur utilisation implique généralement une [action simple](./Action simple.md) ne provoquant pas d’[attaque d’opportunité](./attaque dopportunité.md). Si le sort contenu dans la baguette a un [temps d’incantation](./temps dincantation.md) supérieur à 1 [action simple](./Action simple.md), le délai d’activation de la baguette est équivalent. Pour activer une baguette, il faut la tenir en main (ou quoi que ce soit qui y corresponde, pour les créatures non-humanoïdes) et la pointer dans la direction des cibles ou de la zone à affecter. Il est possible d’utiliser une baguette même en étant [agrippé](./Immobilisé.md) en situation de lutte ou englouti.
+
+**Propriétés spéciales.** Lancer un dé. Sur un 01–30, un indice sur les fonctions de la baguette figure quelque part à sa surface (dessin, inscription, etc.), et sur 31–100, elle n’a aucune propriété spéciale.
+
+<table width="100%"><tr><td width="49%">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|DETERMINATION}Baguettes
+|- CLASS="titre"
+| Faible || Intermédiaire || Puissante || Niveau   
+du sort || Niveau   
+du lanceur
+|- CLASS="premier"
+| 01–05 || — || — || 0 || 1
+|-
+| 06–60 || — || — || 1er || 1
+|-
+| 61–100 || 01–60 || — || 2e || 3
+|-
+| — || 61–100 || 01–60 || 3e || 5
+|-
+| — || — || 61–100 || 4e || 7
+|}
+</td><td width="2%">
+</td><td width="49%">
+{| CLASS="tablo centre autoalt"
+|+ Coût des baguettes
+|- CLASS="titre"
+| Niveau   
+du sort || Prêtre,   
+druide,   
+magicien || Ensorceleur || Barde || Paladin,   
+rôdeur
+|- CLASS="premier"
+| 0 || 375 po || 375 po || 375 po || —
+|-
+| 1er || 750 po || 750 po || 750 po || 750 po
+|-
+| 2e || 4 500 po || 6 000 po || 6 000 po || 6 000 po
+|-
+| 3e || 11 250 po || 13 500 po || 15 750 po || 15 750 po
+|-
+| 4e || 21 000 po || 24 000 po || 30 000 po || 30 000 po
+|}
+</td></tr></table>

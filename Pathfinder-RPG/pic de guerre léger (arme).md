@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.pic de guerre léger (arme)
+Title: Pic de guerre léger
+LastModified: 2021-10-01 15:47
+Categories:
+- Arme
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 4 po ; **Poids** 1,5 kg ; **Groupes** [haches](./groupe darmes.md#Haches)
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×4 ; **Portée** — ; **Type** P ; **Spécial** —
+<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+---
+Cette arme, dérivée de la pioche, est pourvue d'une tête avec une pointe légèrement incurvée pour percer les armures et d'un contrepoids semblable à un marteau.

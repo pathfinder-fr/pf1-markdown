@@ -1,0 +1,381 @@
+---
+Name: Pathfinder-RPG.Classes
+Title: Les classes
+LastModified: 2025-01-24 19:44
+Categories:
+- Classe
+- Src Art de la guerre
+- Src Art de la magie
+- Src Manuel des joueurs
+- Src Manuel des joueurs - Classes avancées
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:Reference|CLASSESDEBASE}
+<div class="presentation navmenu">
+### Les classes de base
+<div style="text-align: right; font-size: 80%; font-weight: bold;">Voir aussi les [classes supplémentaires](./Classes.md#CLASSESSUPPLEMENTAIRES) et les [classes hybrides](./Classes.md#CLASSESHYBRIDES)</div>
+<table width=95%><tr>
+<center><table width="95%"><tr style="vertical-align: bottom">
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Amiri.jpg|95%|./Pathfinder-RPG.Barbare.ashx|150px|50|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Lem.jpg|95%|./Pathfinder-RPG.Barde.ashx|150px|50|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Lini.jpg|95%|./Pathfinder-RPG.Druide.ashx|150px|65|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Seoni.jpg|95%|./Pathfinder-RPG.Ensorceleur.ashx|150px|92|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Valéros.jpg|95%|./Pathfinder-RPG.Guerrier.ashx|150px|50|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Ezren.jpg|95%|./Pathfinder-RPG.Magicien.ashx|150px|45|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Sajan.jpg|95%|./Pathfinder-RPG.Moine.ashx|150px|65|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Seelah.jpg|95%|./Pathfinder-RPG.Paladin.ashx|150px|60|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Kyra.jpg|95%|./Pathfinder-RPG.Prêtre.ashx|150px|62|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Harsk.jpg|95%|./Pathfinder-RPG.Rôdeur.ashx|150px|53|10}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Merisiel.jpg|95%|./Pathfinder-RPG.Roublard.ashx|150px|62|0}</td>
+</tr><tr style="vertical-align: top">
+<td align="center">[Barbare](./Barbare.md)  
+([unchained](./Barbare unchained.md))</td>
+<td align="center">[Barde](./Barde.md)</td>
+<td align="center">[Druide](./Druide.md)</td>
+<td align="center">[Ensorceleur](./Ensorceleur.md)</td>
+<td align="center">[Guerrier](./Guerrier.md)</td>
+<td align="center">[Magicien](./Magicien.md)</td>
+<td align="center">[Moine](./Moine.md)  
+([unchained](./Moine unchained.md))</td>
+<td align="center">[Paladin](./Paladin.md)</td>
+<td align="center">[Prêtre](./Prêtre.md)</td>
+<td align="center">[Rôdeur](./Rôdeur.md)</td>
+<td align="center">[Roublard](./Roublard.md)  
+([unchained](./Roublard unchained.md))</td>
+</tr></table></center>
+</div>
+
+Le *Manuel des joueurs* de Pathfinder-Jdr propose 11 classes de base :
+- [Barbare|le barbare], un combattant brutal qui provient des frontières de la civilisation. *Pathfinder unchained* en propose une [version révisée](./Barbare unchained.md) qui vise à être mieux équilibrée pour les parties.
+- [Barde|le barde], qui utilise ses capacités ainsi que ses sorts pour donner du courage à ses alliés, troubler ses ennemis et se construire une réputation.
+- [Druide|le druide], à la fois lanceur de sorts vénérant la nature, ami des animaux et métamorphe doué.
+- [Ensorceleur|l'ensorceleur], un lanceur de sorts venu au monde avec un don inné pour la magie, qui possède d’étranges et mystérieux pouvoirs.
+- [Guerrier|le guerrier], un maître en matière d’armes et d’armures de toutes sortes à la fois courageux et vaillant.
+- [Magicien|le magicien] qui, à force d'étudier sans cesse, parvient à maîtriser la magie et acquiert d'incroyables pouvoirs.
+- [Moine|le moine], qui étudie les arts martiaux et s’entraîne à faire de son corps sa meilleure arme et sa meilleure défense. *Pathfinder unchained* en propose une [version révisée](./Moine unchained.md) qui vise à être mieux équilibrée pour les parties.
+- [Paladin|le paladin], un chevalier à l’armure étincelante, un individu dévoué à la loi et au bien.
+- [Prêtre|le prêtre] qui, fidèle et dévoué à son dieu, peut soigner les blessures, ramener les morts à la vie et attirer sur ses ennemis les foudres divines.
+- [Rôdeur|le rôdeur], à la fois pisteur et chasseur, une créature des étendues sauvages qui excelle lorsqu’il s’agit de débusquer ses ennemis jurés.
+- [Roublard|le roublard], à la fois voleur et éclaireur, un opportuniste capable de porter des coups terribles contre les ennemis qu’il parvient à surprendre. *Pathfinder unchained* en propose une [version révisée](./Roublard unchained.md) qui vise à être mieux équilibrée pour les parties.
+
+{s:Desambi|FAQ : [FAQ sur les classes](./FAQ Classes.md#FAQGENERALECLASSES).}
+
+{s:Reference|CLASSESSUPPLEMENTAIRES}
+<div class="presentation navmenu">
+### Les classes supplémentaires
+<div style="text-align: right; font-size: 80%; font-weight: bold;">Voir aussi les [classes de base](./Classes.md#CLASSESSDEBASE) et les [classes hybrides](./Classes.md#CLASSESHYBRIDES)</div>
+<table width=95%><tr>
+<center><table width="95%"><tr style="vertical-align: bottom">
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Damiel.jpg|95%|./Pathfinder-RPG.Alchimiste.ashx|150px|55|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Urgraz.jpg|95%|./Pathfinder-RPG.Antipaladin.ashx|150px|35|30}</td>
+<td width="9%"><a href="./Pathfinder-RPG.Chasseur de vampire.ashx" style="display:block; text-align:center; width:95%; height:150px; padding:0; border:1px solid #4b3124; background-image: url('/wiki/public/upload/Illustrations/PNJ/Chasseur%20de%20vampire.jpg'); background-size: 120px; background-position: 60% 50%"></a></td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Alain.jpg|95%|./Pathfinder-RPG.Chevalier.ashx|150px|50|10}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Balazar.jpg|95%|./Pathfinder-RPG.Conjurateur.ashx|150px|30|40}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Imrijka.jpg|95%|./Pathfinder-RPG.Inquisiteur.ashx|150px|40|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Red%20raven.jpg|95%|./Pathfinder-RPG.Justicier.ashx|150px|35|-2}</td>
+</tr><tr style="vertical-align: top">
+<td align="center">[Alchimiste](./Alchimiste.md)</td>
+<td align="center">[Antipaladin](./Antipaladin.md)</td>
+<td align="center">[Chasseur de vampire](./Chasseur de vampire.md)</td>
+<td align="center">[Chevalier](./Chevalier.md)</td>
+<td align="center">[Conjurateur](./Conjurateur.md)  
+([unchained](./conjurateur unchained.md))</td>
+<td align="center">[Inquisiteur](./Inquisiteur.md)</td>
+<td align="center">[Justicier](./Justicier.md)</td>
+</tr><tr style="vertical-align: bottom">
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Seltyiel.jpg|95%|./Pathfinder-RPG.Magus.ashx|150px|45|25}</td>
+<td width="9%">{s:ImageMenu|PCUP/Iconics/Zova.jpeg|95%|./Pathfinder-RPG.Métamorphe.ashx|150px|46|-4}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Reiko.jpg|95%|./Pathfinder-RPG.Ninja.ashx|150px|50|0}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Alahazra.jpg|95%|./Pathfinder-RPG.Oracle.ashx|150px|45|10}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Lirianne.jpg|95%|./Pathfinder-RPG.Pistolier.ashx|150px|65|5}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Hayato.jpg|95%|./Pathfinder-RPG.Samouraï.ashx|150px|45|30}</td>
+<td width="9%">{s:ImageMenu|Illustrations/PNJ/Feiya.jpg|95%|./Pathfinder-RPG.Sorcière.ashx|150px|50|0}</td>
+</tr><tr style="vertical-align: top">
+<td align="center">[Magus](./Magus.md)</td>
+<td align="center">[Métamorphe](./Métamorphe.md)</td>
+<td align="center">[Ninja](./Ninja.md)</td>
+<td align="center">[Oracle](./Oracle.md)</td>
+<td align="center">[Pistolier](./Pistolier.md)</td>
+<td align="center">[Samouraï](./Samouraï.md)</td>
+<td align="center">[Sorcière](./Sorcière.md)</td>
+</tr></table></center>
+</div>
+{s:APG}
+Le *Manuel des joueurs Règles avancées* de Pathfinder-JdR propose six classes supplémentaires :
+- l'[alchimiste](./Alchimiste.md), un maître de l’alchimie qui utilise des extraits pour augmenter ses pouvoirs, des mutagènes pour améliorer ses capacités physiques et des bombes pour détruire ses ennemis.
+- le [chevalier](./Chevalier.md), un courageux guerrier monté sur son puissant destrier qui utilise sa ruse, son charme et la force de ses armes pour se rallier des compagnons et atteindre ses objectifs.
+- le [conjurateur](./Conjurateur.md), qui se lie à une mystérieuse créature appelée un eidolon et concentre ses pouvoirs sur le lien qu’il entretient avec elle, afin d’améliorer cet étrange compagnon venu d’un autre monde. *Pathfinder unchained* en propose une [version révisée](./conjurateur unchained.md) qui vise à être mieux équilibrée pour les parties.
+- l'[inquisiteur](./Inquisiteur.md), fléau des infidèles et chasseur d’horreurs qui traque tous les ennemis de la foi avec une sombre conviction et tout un arsenal de bénédictions divines.
+- l'[oracle](./Oracle.md), qui, grâce aux mystères sacrés, canalise l’énergie divine à travers son corps et son âme, mais le prix à payer est terrifiant.
+- la [sorcière](./Sorcière.md), qui rôde à la frontière des lieux civilisés. Le puissant lien qu’elle possède avec sa divinité protectrice lui permet de bénéficier d’étranges pouvoirs mystiques par l’intermédiaire d’un familier bien spécial.
+
+Il propose également la classe modifiée d'[antipaladin](./Antipaladin.md).
+
+{s:um}
+L<nowiki>'</nowiki>*Art de la Magie* propose une classe supplémentaire :
+- le [magus](./Magus.md) allie les talents de mêlée à la magie profane, il manie sorts et armes comme combattant de première ligne et se montre capable de flamboyantes démonstrations de magie dont les autres classes sont bien incapables.
+
+{s:uc}
+L<nowiki>'</nowiki>*Art de la Guerre* propose trois classes supplémentaires
+- le [ninja](./Ninja.md) est une version alternative à la classe du roublard qui améliore ses réflexes grâce à des pouvoirs mystiques pour devenir un espion ou un assassin de premier ordre.
+- le [pistolier](./Pistolier.md) un combattant rare, connu pour préférer l'art mystérieux de la poudre noire aux arcs et aux lames traditionnelles.
+- le [samouraï](./Samouraï.md) est une version alternative de la classe du chevalier, un guerrier discipliné avec un sens de l'honneur et une volonté aussi développés que ses talents de combattant.
+
+Ultimate intrigue propose la classe de :
+- le [Justicier](./Justicier.md) un combattant capable de d'emprunter deux identités
+
+Ultimate wilderness propose une classe supplémentaire :
+- le [Métamorphe](./Métamorphe.md) capable de tirer de la nature les pouvoirs qui lui permettent de combattre ses ennemis
+
+The world of vampire hunter propose une classe supplémentaire :
+- Le [Chasseur de vampire](./Chasseur de vampire.md) spécialisé dans le combat contre les morts-vivants n'hésitant pas à emprunter leurs pouvoirs sombres
+
+{s:Reference|CLASSESHYBRIDES}
+<div class="presentation navmenu">
+### Les classes hybrides
+<div style="text-align: right; font-size: 80%; font-weight: bold;">Voir aussi les [classes de base](./Classes.md#CLASSESSDEBASE) et les [classes supplémentaires](./Classes.md#CLASSESSUPPLEMENTAIRES)</div>
+<table width=95%><tr>
+<center><table width="95%"><tr style="vertical-align: bottom">
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Enora.jpg|95%|./Pathfinder-RPG.Arcaniste.ashx|150px|10|0}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Jirelle.jpg|95%|./Pathfinder-RPG.Bretteur.ashx|150px|70|-5}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Shardra.jpg|95%|./Pathfinder-RPG.Chaman.ashx|150px|50|0}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Adowyn.jpg|95%|./Pathfinder-RPG.Chasseur.ashx|150px|50|10}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Quinn.jpg|95%|./Pathfinder-RPG.Enquêteur.ashx|150px|40|5}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Kess.jpg|95%|./Pathfinder-RPG.Lutteur.ashx|150px|50|0}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Oloch.jpg|95%|./Pathfinder-RPG.Prêtre combattant.ashx|150px|50|35}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Crowe.jpg|95%|./Pathfinder-RPG.Sanguin.ashx|150px|60|-10}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Hakon.jpg|95%|./Pathfinder-RPG.Scalde.ashx|150px|65|-4}</td>
+<td width="10%">{s:ImageMenu|Illustrations/PNJ/Zadim.jpg|95%|./Pathfinder-RPG.Tueur.ashx|150px|40|-4}</td>
+</tr><tr style="vertical-align: top">
+<td align="center">[Arcaniste](./Arcaniste.md)</td>
+<td align="center">[Bretteur](./Bretteur.md)</td>
+<td align="center">[Chaman](./Chaman.md)</td>
+<td align="center">[Chasseur](./Chasseur.md)</td>
+<td align="center">[Enquêteur](./Enquêteur.md)</td>
+<td align="center">[Lutteur](./Lutteur.md)</td>
+<td align="center">[Prêtre combattant](./Prêtre combattant.md)</td>
+<td align="center">[Sanguin](./Sanguin.md)</td>
+<td align="center">[Scalde](./Scalde.md)</td>
+<td align="center">[Tueur](./Tueur.md)</td>
+</tr></table></center>
+</div>
+{s:MCA}
+Nombre de héros empruntent une voie unique et choisissent de devenir un féroce guerrier, un prêtre dévoué ou un puissant magicien mais certains ont envie de prendre plusieurs chemins et ils ont du mal à trouver un équilibre parmi les aptitudes qu’offrent les différentes classes. Les classes hybrides sont là pour répondre à ce problème et mêler les caractéristiques de deux classes en leur ajoutant des règles pour qu’elles fonctionnent sans heurts.
+
+#### Les classes mères
+Chaque classe hybride est basée sur deux autres. Un personnage peut se multiclasser dans ces classes mères mais cela débouche souvent sur des pouvoirs redondants qui ne se cumulent pas, sauf indication contraire. Si une aptitude de classe demande au personnage de faire un choix unique pour le restant de sa vie (comme de choisir un lignage), il doit faire de même pour sa classe mère et sa classe hybride (en choisissant le même lignage, par exemple).
+
+Les dix nouvelles classes du *Manuel des classes avancées* sont toutes des hybrides de deux classes pré-existantes issues du *Manuel des Joueurs*, du *Manuel des Joueurs : règles avancées*, de *L’Art de la guerre* et de *L’Art de la magie.*
+- [Arcaniste](./Arcaniste.md). Mêlant la puissance de l’ensorceleur avec la polyvalence du magicien, l’arcaniste puise dans un réservoir de pouvoir pour plier la magie à sa volonté.
+- [Bretteur](./Bretteur.md). Le bretteur combine les prouesses du guerrier avec la détermination du pistolier pour devenir un combattant spécialisé dans les acrobaties au corps à corps.
+- [Chaman](./Chaman.md). Le chaman puise dans la puissance divine de l’oracle et lance des maléfices de sorcière pour entrer en communion avec son esprit animal et détruire ses ennemis.
+- [Chasseur](./Chasseur.md). Le druide et le rôdeur ont tous deux un compagnon animal mais le chasseur développe cette relation au maximum
+et forme un duo redoutable avec son féroce allié.
+- [Enquêteur](./Enquêteur.md). Entre la ruse du roublard et les prouesses magiques de l’alchimiste, l’enquêteur n’a pas son pareil pour résoudre les problèmes.
+- [Lutteur](./Lutteur.md). Le lutteur se concentre sur le combat à mains nues et associe la maîtrise martiale du moine à l’entraînement spécialisé du guerrier.
+- [Prêtre combattant](./Prêtre combattant.md). Le prêtre combattant conjugue la puissance divine du prêtre et les compétences martiales du guerrier pour affronter les ennemis de sa religion.
+- [Sanguin](./Sanguin.md). Alliant la frénésie du barbare avec la puissance du lignage de l’ensorceleur, le sanguin fait appel à ses pouvoirs innés pour se doter de facultés extraordinaires.
+- [Scalde](./Scalde.md). Le scalde partage sa fureur par ses chants aussi bien que ses actes et traduit la rage qui bouillonne dans le coeur du barbare dans ses représentations de barde pour inspirer le même sentiment chez les autres.
+- [Tueur](./Tueur.md). Mêlant les coups précis du roublard avec l’entraînement spécifique du rôdeur, le tueur traque ses ennemis avec une efficacité redoutable.
+
+
+
+{s:Reference|CLASSESOCCULTES}
+<div class="presentation navmenu">
+### Les classes occultes
+<div style="text-align: right; font-size: 80%; font-weight: bold;">Voir aussi les [Classes de base](./Classes.md#CLASSESDEBASE), [classes supplémentaires](./Classes.md#CLASSESSUPPLEMENTAIRES)  les [classes hybrides](./Classes.md#CLASSESHYBRIDES)</div>
+<table width=95%><tr>
+<center><table width="95%"><tr style="vertical-align: bottom">
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Yoon.jpg|95%|./Pathfinder-RPG.Cinétiste.ashx|150px|50|10}</td>
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Meligaster.jpg|95%|./Pathfinder-RPG.Hypnotiseur.ashx|150px|65|0}</td>
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Erasmus.jpg|95%|./Pathfinder-RPG.Médium.ashx|150px|65|0}</td>
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Mavaro1.jpg|95%|./Pathfinder-RPG.Occultiste.ashx|150px|92|0}</td>
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Rivani.jpg|95%|./Pathfinder-RPG.Psychiste.ashx|150px|50|0}</td>
+<td width="16%">{s:ImageMenu|Illustrations/PNJ/Estra.jpg|95%|./Pathfinder-RPG.Spirite.ashx|150px|45|0}</td>
+</tr><tr style="vertical-align: top">
+<td align="center">[Cinétiste](./Cinétiste.md)</td>
+<td align="center">[Hypnotiseur](./Hypnotiseur.md)</td>
+<td align="center">[Médium](./Médium.md)</td>
+<td align="center">[Occultiste](./Occultiste.md)</td>
+<td align="center">[Psychiste](./Psychiste.md)</td>
+<td align="center">[Spirite](./Spirite.md)</td>
+</tr></table></center>
+</div>
+
+{s:AO}Où sont les héros qui peuvent sauver le monde des menaces inexplicables de l’occulte ? Directement dans ce chapitre, qui décrit six nouvelles classes de base occultes ! Non seulement ces classes s’intègrent parfaitement aux parties dont les thèmes suggérés tout au long des pages de ce livre sont occultes, mais elles proposent également cette même variété de thèmes, de concepts et de styles de jeu auquel les autres classes de base du jeu de rôle Pathfinder vous ont habitué. Ces classes peuvent ainsi s’épanouir dans presque tous les types de campagne et d’ambiance, de l’enquête horrifique la plus noire à l’exploration enjouée et humoristique d’un donjon. Voici un rapide aperçu de certaines des caractéristiques les plus intéressantes et emblématiques de chaque classe.
+- [Cinétiste](./Cinétiste.md). Maîtres des éléments, les cinétistes exercent un pouvoir étrange et difficilement contrôlable alors que leur enveloppe corporelle peine à contenir la puissance rugissante des plans élémentaires. Un cinétiste manipule les éléments lors des affrontements pour détruire ses ennemis mais aussi en dehors des combats pour soutenir son équipe. En outrepassant les limites raisonnables des forces de son corps, il peut augmenter la puissance de ses aptitudes au-delà de ses capacités normales. Si vous souhaitez jouer un personnage mystique qui ne lance pas de sorts mais qui peut augmenter la puissance de ses aptitudes en cas d’urgence s’il accepte d’en payer le prix prélevé sur ses forces vitales, le cinétiste est une classe susceptible de vous intéresser.
+- [Hypnotiseur](./Hypnotiseur.md). Experts du mentalisme et menteurs invétérés, les hypnotiseurs utilisent leur regard inquiétant pour affaiblir leurs ennemis et implantent des inductions hypnotiques dans l’esprit de leurs alliés pour les préparer aux  situations désavantageuses. L’hypnotiseur occupe le même rôle de soutien d’un barde mais, au lieu de renforcer et de protéger ses alliés, il affaiblit et neutralise ses ennemis. Si vous aimez jouer un personnage plein de ressources qui peut soutenir son groupe en chamboulant un peu les attentes de ses membres par votre attitude plus offensive, l’hypnotiseur est certainement une classe qui peut vous intéresser.
+- [Médium](./Médium.md). Dans le plan Astral, des entités de pensée pure prennent forme et vie grâce aux histoires de celles qui les ont précédées. Le médium canalise ces esprits légendaires, les versions idéalisées des protagonistes à l’origine de ces histoires, et exploite les divers pouvoirs de ces esprits pour modifier les siens et remplir les fonctions nécessaires à son groupe. Si vous aimez les personnages polyvalents qui peuvent accomplir exactement ce dont leur groupe a besoin en fonction des situations, et si vous appréciez le roleplay interactif avec les esprits et les inconvénients qu’ils engendrent quand ils prennent le dessus, le médium est certainement une classe qui peut vous intéresser.
+- [Occultiste](./Occultiste.md). Détenteur de connaissances ésotériques mais toujours étroitement rattaché au monde physique et à ses privilèges, les occultistes accèdent à la magie grâce à la puissance de leurs instruments. Ceux-ci peuvent être des objets magiques, voire des objets ordinaires mais importants d’un point de vue psychique, comme le doigt squelettique d’un saint, une dague utilisée lors de 99 sacrifices rituels ou un collier autrefois porté par la mère de l’occultiste. Armé des pouvoirs de résonance concentrés dans ses instruments, de ses sorts psychiques, d’une large gamme de compétences, de sa capacité à lire les objets et à créer de puissants cercles de contrôle, l’occultiste peut toujours tourner à son avantage la plupart des situations. Si vous aimez jouer des personnages complets dont les aptitudes sont liées à quelques objets particuliers, la classe d’occultiste devrait vous intéresser. 
+- [Psychiste](./Psychiste.md). Redoutables et énigmatiques, les psychistes sont les principaux lanceurs de sorts du monde occulte et les seuls capables de lancer certains sortilèges psychiques particulièrement puissants.
+Chaque psychiste pratique sa magie par le biais d’une discipline qu’il choisit et qui lui confère des pouvoirs spéciaux. Sa maîtrise de l’amplification phrénique lui permet de modifier et d’ajuster ses sorts à la volée en fonction des besoins. Si vous aimez jouer des lanceurs de sorts similaires aux ensorceleurs, capables de s’adapter à de nombreuses situations en modifiant ses pouvoirs, la classe de psychiste devrait vous intéresser.
+- [Spirite](./Spirite.md). Quand des émotions fortes empêchent les morts de quitter le monde des mortels, ils sombrent inévitablement dans le plan de l’Énergie négative qui les corrompt en les transformant en morts-vivants. Un spirite retient l’un de ces esprits avant la fin de sa transformation et lui fournit un refuge sûr en échange de son aide précieuse. Si vous voulez disposer d’un compagnon capable de changer de forme et qui peut même fusionner avec votre personnage pour augmenter son potentiel, la classe de spirite devrait vous intéresser.
+
+
+{s:Reference|ARCHETYPES}{s:apg}
+### Archétypes et variantes de classe
+{s:uc}
+#### Comment utiliser les archétypes ?
+Chaque classe de base de Pathfinder JdR se fonde sur une idée centrale, un concept initial qui représente l’idée que l’on se fait communément de cette classe et qui sert de squelette pour créer un grand nombre de typologies de personnages. Toutefois, ce « point de départ » a suffisamment de potentiel pour permettre d’innombrables interprétations et divers affinements. Par exemple, un membre de la classe de barde peut être un archéologue passionné, un bretteur téméraire ou un derviche à la grâce dangereuse. Chaque choix doit être représenté par certains éléments de background, des options de classe et des règles spécifiques comme les dons, qui permettent de reproduire au mieux le personnage que le joueur s’imagine et qui l’aident à accomplir des objectifs particuliers.
+
+Certains concepts de personnages se rapprochent trop des classes déjà existantes pour que l’on en crée une nouvelle,
+mais ils sont suffisamment intéressants pour apparaître régulièrement dans les parties. C’est pour cette raison que
+Pathfinder JdR a créé les archétypes  : des ensembles de modifications préétablis que l’on peut appliquer facilement
+à une classe pour la personnaliser.
+
+Les options diffèrent en fonction des classes mais tous les archétypes sont faits pour tirer le meilleur parti de leur classe, pour imiter les pouvoirs et les talents des classiques du médiéval-fantastique et pour donner un peu plus de liberté aux joueurs qui veulent créer un personnage précis.
+
+{s:apg}
+#### Aptitudes de classe alternatives
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#2) Archétype : Si un archétype remplace une capacité de classe par une version plus spécifique de cette capacité (ou qui fonctionne de manière similaire à la capacité remplacée), est-ce que la capacité de l'archétype compte comme la capacité originale pour les règles qui améliorent cette dernière ?***
+
+Cela dépend de la façon dont la capacité de l'<u>[archétype](./Classes.md#ARCHETYPES)</u> est formulée. Si celle-ci indique qu'elle fonctionne comme la capacité standard, elle compte comme cette capacité. Si elle requiert de faire un choix spécifique à la capacité standard, elle compte comme cette capacité. Dans tous les autres cas, la capacité de l'archétype ne compte pas comme la capacité standard. Le fait que le nom de la capacité de l'archétype soit différent de celui de la capacité standard n'est pas important pour déterminer si elle compte comme cette dernière, c'est la description et les mécanismes de jeu de la capacité de l'archétype qui importent.
+
+*Exemple :* l'archétype de guerrier [dragon](./Dragon (guerrier).md) (*l'Art de la guerre*) a une capacité appelée "entraînement à la lance", qui demande que le dragon sélectionne les lances comme groupe d'armes et qui fait référence  au bonus d'entraînement aux armes (bien que ce bonus suive une progression légèrement différente de celle de l'entraînement aux armes standard). Cette capacité compte donc comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes, comme les [gants de duelliste](./gants de duelliste.md) (*Manuel des joueurs : règles avancées*) qui augmentent le bonus d'entraînement aux armes du porteur.
+
+*Exemple :* l'archétype de guerrier [archer](./Archer (guerrier).md) confère plusieurs capacités (comme "expert archer") qui remplacent l'entraînement aux armes et n'y font pas référence dans leur description. En conséquence, ces capacités ne comptent pas comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes (comme les gants de duelliste). C'est même le cas pour la capacité "expert archer" qui confère un bonus qui augmente tous les quatre niveaux de guerrier, exactement comme l'entraînement aux armes.
+---
+***[→](./FAQ- lArt de la magie.md#4) Archétypes et gain de pouvoirs : Si un archétype comme l'ensorceleur de sang sauvage accorde de nouvelles capacités de classe comme des pouvoirs de lignage, de domaine ou similaires, sans avoir cet archétype, puis-je utiliser des dons comme Étrange héritage ou Bienfait du croyant pour choisir les pouvoirs accordés par cet archétype ?***
+
+Non. Ces pouvoirs n'existent que pour les <u>[archétypes](./Classes.md#ARCHETYPES)</u> qui les accordent. Ce point est particulièrement important puisque dans certains cas, l'archétype peut remplacer des capacités non-parallèles en accordant ces pouvoirs. Par exemple, un [ensorceleur](./Ensorceleur.md) [féerique](./lignage Féerique.md) avec l'archétype de [sang sauvage](./Sang sauvage (ensorceleur).md) remplace son arcane de lignage et son pouvoir de niveau 1 pour obtenir un nouveau pouvoir de niveau 1, mais un non-ensorceleur utilisant un don pour gagner ce même pouvoir de niveau 1 ne posséderait pas l'arcane de lignage à la base.
+---
+***[→](./FAQ- Manuel des joueurs - Règles avancées.md#11) Archétypes, cumul et modifications : Qu'est ce qui compte comme la modification d'une capacité de classe dans le cadre du cumul d'archétype ?***
+
+En général, si une capacité de classe offre plusieurs sous-capacités, il est possible de cumuler deux <u>[archétypes](./Classes.md#ARCHETYPES)</u> qui changent deux sous-capacités différentes. Cela inclut deux archétypes de barde qui modifient ou remplacent des représentations bardiques différentes (bien que représentation bardique soit une seule capacité de classe) ou deux archétypes de guerrier qui remplacent l'entraînement aux armes obtenu à différents niveaux (parfois écrit « entraînement aux armes I, II, III ou IV ») bien qu'ils soient tous rattachés à la capacité de classe entraînement aux armes. Cependant, si quelque chose modifie la façon dont la capacité de classe parente fonctionne, comme un archétype de mime qui rendrait toutes les représentations bardiques silencieuses, avec uniquement des composantes visuelles à la place des composantes auditives, il serait impossible de cumuler cet archétype avec un archétype qui modifie ou remplace n'importe quelle sous-capacité associée. Cela s'applique même à une modification aussi légère qu'ajouter 1 round quotidien de représentation bardique , ajouter un don bonus supplémentaire à une liste de dons bonus sélectionnables, ou ajouter une compétence de classe supplémentaire à une classe. Comme toujours, chaque MJ est libre de trancher pour permettre de petites superpositions au cas par cas, mais la règle sous-jacente existe à cause du caractère imprévisible des conséquences de telles combinaisons.}La plupart des options présentées dans les archétypes incluent un grand nombre d’aptitudes de classe alternatives. Lorsqu’un personnage opte pour une classe, il doit également choisir entre les aptitudes présentées dans la classe de base ou celles des archétypes. Chacune de ces nouvelles aptitudes remplace alors
+l’une de celles de la classe d’origine.
+
+*Par exemple, le [coup élémentaire](./Moine.md#COUPELEMENTAIRE) du [moine des quatre vents](./Moine des quatre vents (moine).md) remplace le [coup étourdissant](./Coup étourdissant.md) du moine présenté dans la classe de base de [moine](./Moine.md).*
+
+Le personnage doit prendre toutes les aptitudes de classe d’un archétype, ce qui lui interdira à jamais d’en sélectionner d’autres plus familières. Il ne perd cependant pas au change car elles sont d’égale puissance.
+
+Toutes les autres aptitudes de classe figurant dans la classe de base et qui ne sont pas reprises par l'archétype restent inchangées. Un personnage peut les acquérir normalement lorsqu’il atteint le niveau approprié (sauf indication contraire). Choisir une aptitude de classe alternative ne revient pas à choisir celle qui lui a été substituée, même lorsqu’on réunit les prérequis nécessaires.
+
+Un personnage peut sélectionner plusieurs archétypes et ainsi cumuler des aptitudes de classe alternatives
+supplémentaires, mais aucune d’entre elles ne peut remplacer ou modifier une aptitude de classe préexistante
+et en faire une nouvelle aptitude de classe alternative.
+
+*Par exemple, un paladin ne peut être à la fois un [hospitalier](./Hospitalier (paladin).md) et un [fléau des morts-vivants](./Fléau des morts-vivants (paladin).md) car ces deux archétypes modifient l’aptitude [Châtiment du mal](./Paladin.md#CHATIMENTDUMAL) et remplacent celle d’[Aura de justice](./Paladin.md#AURADEJUSTICE). Il pourra cependant être un [fléau des morts-vivants](./Fléau des morts-vivants (paladin).md) et un [guerrier de la lumière sainte](./Guerrier de la lumière sainte (paladin).md) puisqu’aucun des deux archétypes ne remplace ou modifie une même aptitude de classe.*
+
+{s:uc}Si un archétype remplace une aptitude de classe qui fait partie d’une série d’améliorations ou d’ajouts (comme l’entraînement aux armes du guerrier ou l’ennemi juré du rôdeur), la prochaine fois que le personnage devra améliorer
+cette aptitude de base, il apprendra l’aptitude du niveau le plus faible, celle qui a été remplacée dans l’archétype. En pratique, cela retarde l’acquisition de toutes les aptitudes de cette série jusqu’à ce que le personnage ait atteint un niveau qui lui permette de les améliorer. Par exemple, si un archétype remplace le bonus d’attaque sournoise du roublard de +2d6 au niveau 3, ce roublard ne verra pas son attaque sournoise passer de +1d6 à +3d6 au niveau 5, l’attaque passera simplement à +2d6, comme s’il venait de bénéficier de l’amélioration du niveau 3. Cet ajustement se poursuit à chaque niveau qui voit une amélioration de l’attaque sournoise, jusqu’au niveau 19 où le roublard passe à +9d6 au lieu du +10d6 du roublard ordinaire.
+
+#### Adapter des personnages existants
+Les joueurs dans ce cas doivent vérifier avec leur [MJ](./MJ.md) si ces aptitudes de classe alternatives sont disponibles ou non dans son univers de jeu et si c’est le cas, s’ils ont la possibilité de recréer leurs personnages afin de les prendre en compte. Ces options sont équilibrées par rapport à celles présentées dans les classes de base.
+
+Les joueurs choisissant de modifier leurs personnages ne devraient pas être avantagés par rapport aux autres membres de leur groupe. Tant que le MJ ne voit pas d’inconvénient à ajuster rétroactivement les spécificités d’un personnage, cela ne devrait pas bouleverser le cours des prochaines aventures.
+
+Le passage au niveau supérieur entre deux scénarii reste le meilleur moment pour faire ces changements drastiques. Cependant, le joueur devra toujours le faire sous la tutelle de son MJ, qui voudra peut-être intégrer ces importants changements à sa campagne.
+
+Le MJ peut faire quelques concessions pour ceux qui, lors de la création de leurs personnages, n’ont pas eu à leur disposition ces aptitudes de classe alternatives, mais les PJ doivent rester l’un des éléments les plus stables d’une campagne. Les modifier ou les recréer constamment peut se révéler problématique. Si le MJ souhaite s’adapter et permettre à des joueurs qui se lassent de leurs personnages de faire ces changements, le système d’aptitudes alternatives ne doit pas être détourné au profit de quelques-uns, qui feront et déferont leur créature selon l’option la plus favorable du moment. Refondre un personnage à la lumière de règles allégées ou nouvelles est de temps en temps acceptable, mais le MJ ne devrait pas avoir l’impression de se montrer inéquitable ou d’enfreindre les règles s’il refuse ces changements ou s’il n’autorise pas certaines options. S’il doit toujours aider ses joueurs pour ce qui est de la gestion de leurs personnages, lui seul sait au final ce qui convient le mieux à sa campagne.
+
+#### Les archétypes de classe
+Voici la liste de tous les archétypes présents sur le site.
+Les personnages peuvent en choisir plusieurs s’ils réunissent les conditions imposées.
+
+<table>
+<th></th><th></th><th>Classes de base</th><th></th><th></th>
+<tr>
+<td width="32%">{s:Menuarchétypebarbare}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypebarde}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypedruide}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeensorceleur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypeguerrier}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypemagicien}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypemoine}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypemoineunchained}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypepaladin}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeprêtre}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétyperôdeur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétyperoublard}</td>
+</tr>
+</table>
+
+
+<table>
+<th></th><th></th><th>Classes supplémentaires</th><th></th><th></th>
+<tr>
+<td width="32%">{s:Menuarchétypealchimiste}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypechevalier}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypeconjurateur}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeconjurateurunchained}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypeinquisiteur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypejusticier}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeoracle}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypemagus}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypepistolier}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypesorcière}</td>
+<td width="2%"></td>
+<td width="32%"></td>
+<td width="2%"></td>
+<td width="32%"></td>
+</tr>
+</table>
+
+
+<table>
+<th></th><th></th><th>Classes hybrides</th><th></th><th></th>
+<tr>
+<td width="32%">{s:Menuarchétypearcaniste}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypebretteur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypechaman}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypechasseur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypeenquêteur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypelutteur}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeprêtrecombattant}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypesanguin}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypescalde}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypetueur}</td>
+<td width="2%"></td>
+<td width="32%"></td>
+<td width="2%"></td>
+<td width="32%"></td>
+</tr>
+</table>
+
+
+<table>
+<th></th><th></th><th>Classes occultes</th><th></th><th></th>
+<tr>
+<td width="32%">{s:Menuarchétypecinétiste}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypehypnotiseur}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypemédium}</td>
+</tr><tr>
+<td width="32%">{s:Menuarchétypeoccultiste}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypepsychiste}</td>
+<td width="2%"></td>
+<td width="32%">{s:Menuarchétypespirite}</td>
+</tr>
+</table>

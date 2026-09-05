@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Bouteille (objet)
+Title: Bouteille
+LastModified: 2021-09-16 19:51
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette bouteille en verre a une contenance d'environ un demi-litre. Elle est fermée par un bouchon de liège.

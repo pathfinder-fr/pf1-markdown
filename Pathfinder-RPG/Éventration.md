@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Éventration
+Title: Éventration
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Éventration (capacité)

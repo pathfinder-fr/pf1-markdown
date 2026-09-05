@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Boîte à secrets (objet)
+Title: Boîte à secrets
+LastModified: 2021-09-22 15:19
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po–1.000 po ; **Poids** 0,5 kg–2,5 kg
+<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+---
+Cette boîte contient des pièces amovibles, des panneaux secrets ou des codes et des mécanismes de verrouillage curieux. Selon son modèle, elle s’ouvre avec un test de [Sabotage](./Sabotage.md), de [Connaissances](./Connaissances.md) (ingénierie), de [Linguistique](./Linguistique.md) ou simplement d’[Intelligence](./Intelligence.md). Le [DD](./DD.md) du test dépend de la complexité de la boîte mais il se situe généralement entre 15 et 20 (on peut réessayer une fois par jour). Il arrive qu’il faille faire plusieurs tests de compétence à différentes étapes du casse-tête. Si la boîte à secrets a été construite pour qu’une personne spécifique soit en mesure de l’ouvrir, cette personne reçoit un bonus de circonstances de +5 au test.

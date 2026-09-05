@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Aide exceptionnelle
+Title: Aide exceptionnelle
+LastModified: 2021-07-17 18:06
+Categories:
+- Don
+- Don équipe
+- Règles officielles
+- Src Distant Shores
+---
+
+{s:cs}<div class="description"**Source :** Distant Shores</div>
+*Vous êtes toujours prêt à donner un coup de pouce à votre allié*
+
+**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+
+**Condition.** [Esprit lié](./Esprit lié.md)
+
+**Avantage.** Quand vous utilisez l'action aider autrui pour donner un bonus au test de compétence d'un allié, le bonus passe à +4 au lieu de +2.
+
+**Normal** Quand un personnage utilise aider autrui pour donner un bonus à un test de compétence, il accorde un bonus de +2.

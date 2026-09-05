@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Fétiche tribal (objet)
+Title: Fétiche tribal
+LastModified: 2021-09-24 22:07
+Categories:
+- Équipement
+- Src Manuel des races
+---
+
+{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**Prix** 5 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+---
+Les fétiches tribaux varient en fonction des tribus. Ce sont généralement de petits objets en bois ou en pierre gravés de symboles religieux, des porte-bonheurs ou de curieux objets naturels sculptés pour ressembler à un symbole significatif pour les [gobelins](./Gobelin (race).md) (comme un gland dans lequel sont plantés des crocs de loup, un champignon séché couvert de taches en forme de crâne ou une pierre sur laquelle est gravé un lézard). Un gobelin peut utiliser un fétiche tribal comme un [focalisateur divin](./composantes.md) pour lancer des sorts divins.

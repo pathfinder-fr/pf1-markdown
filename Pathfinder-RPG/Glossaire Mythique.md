@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Glossaire Mythique
+Title: Glossaire mythique
+LastModified: 2024-07-21 22:58
+Categories:
+- Règle officielle
+- Src Campagnes mythiques
+---
+
+{s:MenuMythique}{s:CMy}Les règles mythiques utilisent plusieurs termes nouveaux. Certains existent déjà mais ont rarement été utilisés. Ces termes méritent d’être rappelés pour faciliter votre compréhension des règles.
+
+{s:Reference|ASCENSION}**Ascension.** Le moment de l’ascension survient lorsqu’un individu ordinaire devient un personnage mythique. Cet événement est généralement un moment critique de l’histoire en cours qui aide à définir l’origine d’un personnage mythique et la source de son pouvoir. Dès qu’un personnage a expérimenté l’ascension, il gagne son premier grade mythique et peut choisir une voie mythique.
+
+{s:Reference|EPREUVEMYTHIQUE}**Épreuve mythique.**  (On emploie plus simplement le terme d’ « épreuve »). Une épreuve est une tâche difficile que doivent accomplir les héros mythiques. Généralement, c’est le point culminant d’une partie de l’histoire vécue par les héros et un événement marquant de leur légende. Un personnage mythique doit accomplir une ou plusieurs épreuves pour pouvoir gagner un nouveau grade mythique. Les épreuves et la progression dans les voies mythiques sont distinctes des PX et de la progression en niveaux des personnages. Elles se basent sur de grands accomplissements au cours de l’histoire plutôt que sur des rencontres individuelles.
+
+{s:Reference|FAVEURMYTHIQUE}**Faveur.** Lorsqu’un personnage mythique accomplit une tâche particulièrement difficile, le MJ peut le récompenser en lui octroyant une faveur. Une faveur représente un bienfait donné par la source de pouvoir du personnage. Une fois acquise, elle permet au personnage d’utiliser ses pouvoirs mythiques une fois de plus par jour. Un personnage mythique peut recevoir plusieurs faveurs par session de jeu en guise de récompense, mais pas plus d’une par rencontre.
+
+{s:Reference|GRADE}**Grade mythique.** (On emploie plus simplement le terme de « grade »). Au fur et à mesure que les personnages mythiques montent en grades, leur puissance augmente et ils obtiennent de nouvelles aptitudes. Pour monter en grade et à la différence
+de l’accumulation de points d’expérience, les personnages doivent réussir des épreuves difficiles prévues au cours de la campagne. Les grades mythiques s’échelonnent de 1 à 10. Les personnages qui atteignent le 10<sup>ème</sup> grade sont au sommet de leur puissance mythique et peuvent, à certains égards, être comparés à des dieux mineurs.
+
+{s:Reference|MEP}**Montée en puissance.** La montée en puissance est une aptitude de base que possèdent tous les personnages mythiques. Elle permet de lancer un dé et d’ajouter le résultat obtenu à celui d’un d20 pour améliorer les chances de réussite après avoir pris connaissance du résultat.
+
+{s:Reference|MYTHIQUE} **Mythique.** Capable d’utiliser des aptitudes inconcevables pour les mortels ordinaires, un personnage ou un monstre mythique est partie prenante d’une histoire dont l’envergure dépasse la plupart des gens ordinaires. Une attaque, un sort ou un autre effet est considéré comme mythique s’il provient d’une source mythique, telle qu’un personnage ou une créature doté d’un grade ou d’un rang mythique.
+
+{s:Reference|NONMYTHIQUE}**Non-mythique.** Les attaques, sorts ou effets produits par un personnage ou une créature qui ne possède aucune aptitude mythique sont considérés comme non-mythiques. Ce terme peut également désigner un personnage sans grade mythique ou une créature sans rang mythique.
+
+{s:Reference|POUVOIRMYTHIQUE}**Pouvoir mythique.** Tous les personnages mythiques peuvent utiliser cette aptitude mythique de base pour influer sur le destin et déclencher d’autres aptitudes. Au niveau le plus fondamental, le pouvoir mythique sert à utiliser l’aptitude de montée en puissance, mais il peut également être utilisé pour mettre en œuvre d’autres aptitudes mythiques.
+
+{s:Reference|RANGMYTHIQUE}**Rang mythique.** (On emploie plus simplement le terme de « rang »). Similaires aux grades, les rangs mythiques sont utilisés pour décrire le niveau approximatif de pouvoir mythique détenu par un monstre. Toutes les créatures dotées d’un rang mythique sont considérées comme mythiques au regard de leurs dons, sorts, objets magiques et autres aptitudes. Les rangs mythiques s’échelonnent de 1 à 10.
+
+{s:FAQ|***[→](./FAQ- Campagnes mythiques.md#7) RD/épique : Comment les nouvelles règles qui permettent d'ignorer la RD/épique (page 7) intéragissent-elles avec une arme dotée de propriétés spéciales qui ont des bonus d'altération variables comme *furieuse* et *tueuse* ?***
+
+En principe, il y a deux façons d'ignorer la <u>[RD/épique](./Glossaire Mythique.md#RDEPIQUE)</u> avec des armes magiques.
+La première méthode est présentée dans les [règles de monstres universelles](./Réduction de dégâts (capacité).md) du *Bestiaire* : Le personnage peut utiliser une arme qui possède un bonus d'altération effectif de +6 ou plus. Pathfinder-JdR ne possède pas encore d'armes avec un bonus d'altération de +6 ou plus permanent (bien qu'il soit possible d'atteindre un bonus d'altération de +6 ou plus temporairement grâce à certaines capacités de classe ou effets magiques).
+La deuxième méthode est présentée dans *Campagnes mythiques* : Le personnage peut utiliser une arme qui a un total « plus équivalent » de +6 ou plus. Par exemple, une *[épée longue](./épée longue (arme).md) [vorpale](./vorpale (propriété).md) +1* et une *épée longue [acérée](./acérée (propriété).md) de [froid](./froid (propriété).md) de [foudre](./foudre (propriété).md) de [feu](./feu (propriété).md) +2* sont des armes magiques équivalentes à +6.
+Une arme avec un bonus d'altération conditionnel ou variable, comme *[furieuse](./furieuse (propriété).md)* ou *[tueuse](./tueuse (propriété).md)*, utilise la plus avantageuse des deux options. De base, elle inclut le plus équivalent grâce à son bonus d'altération et ses propriétés spéciales, et lorsque le bonus d'altération conditionnel ou variable s'active, elle l'ajoute aussi à son total.
+Par exemple, une *épée longue tueuse de morts-vivants +3* est une arme équivalente à +4, ce qui n'est pas suffisant en soit pour ignorer la RD/épique. Lorsqu'elle est utilisée contre une créature morte-vivante, son bonus d'altération est augmenté de +2, en faisant une arme équivalente à +6 (bonus d'altération de base de +3, équivalent de *tueuse* de +1, bonus d'altération conditionnel contre les morts-vivants de *tueuse* de +2) et est donc capable d'ignorer la RD/épique de cette créature morte-vivante. (Une autre façon de le voir est que lorsque la propriété *tueuse* est active, le personnage ajoute son bonus d'altération conditionnel de +2 au bonus équivalent à +4 de l'arme, ce qui en fait une arme équivalente à +6.)}{s:Reference|RDEPIQUE}**RD/épique**. La RD/épique est un type de réduction des dégâts qui s’ignore seulement grâce à une arme possédant un bonus d’altération supérieur ou égal à +6 . Les armes possédant des propriétés spéciales sont également considérées comme épique dans le cadre de la réduction des dégâts si le bonus total de toutes leurs propriétés (y compris le bonus d’altération) est supérieur ou égal à +6.
+
+{s:Reference|VOIEMYTHIQUE}**Voie mythique.** (Souvent désigné par le terme plus simple de « voie »). Le thème des aptitudes mythiques d’un personnage est défini par sa voie mythique : archimage, champion, filou, hiérophante, maréchal ou protecteur. Chaque voie propose un certain nombre d’aptitudes spéciales qui lui sont associées et que le personnage peut sélectionner au fur et à mesure de sa progression en grades.

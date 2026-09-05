@@ -1,0 +1,159 @@
+---
+Name: Pathfinder-RPG.Homme-lézard
+Title: Homme-lézard
+LastModified: 2020-10-13 01:03
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Homme-lézard|FP 1}
+{s:pucem|humanoïde|Marais|Tempéré}
+{s:BDTexte|*Source : Bestiaire* p.182}
+{s:BDTexte|**PX** 400}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([reptilien](./sous-type reptilien.md)) de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +1}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 17, contact 10, pris au dépourvu 17 (bouclier +2, naturelle +5)}
+{s:BDTexte|**pv** 11 (2d8+2)}
+{s:BDTexte|**Réf** +0, **Vig** +4, **Vol** +0}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c}), nage 4,50 m (3 {s:c})}
+{s:BDTexte|**Corps à corps** morgenstern, +2 (1d8+1), morsure, +0 (1d4) ou griffe, +2 (1d4+1), morsure, +2 (1d4+1)}
+{s:BDTexte|**Distance** javeline, +1 (1d6+1)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 13, **Dex** 10, **Con** 13, **Int** 9, **Sag** 10, **Cha** 10}
+{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 12}
+{s:BDTexte|**Dons** [Attaques multiples](./Attaques multiples.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +2, [Natation](./Natation.md) +8, [Perception](./Perception.md) +1 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4}
+{s:BDTexte|**Langues** draconique}
+{s:BDTexte|**Particularités** retenir son souffle}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** marais tempérés}
+{s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-12) ou tribu (13-60)}
+{s:BDTexte|**Trésor** équipement de PNJ (bouclier lourd en bois, morgenstern, 3 javelines)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Retenir son souffle (Ext)** Un homme-lézard peut retenir sa respiration pendant un nombre de rounds égal à 4 fois sa valeur de [Constitution](./Constitution.md) avant de courir le risque de se noyer.}
+</div>
+
+
+{s:ImageCentre|Bestiaire/Homme-lézard.jpg|90%}
+
+</td><td><div>*Cet humanoïde reptilien possède des écailles vertes, un museau court doté de dangereuses dents et une longue queue d’alligator.*
+
+Les hommes-lézards sont de fiers et puissants prédateurs
+reptiliens dont les villages sont disséminés dans les profondeurs
+des marais et des marécages. Ils ne semblent pas vouloir coloniser
+les terres plus sèches et se contentent des armes et des rituels
+simples qu’ils emploient depuis des millénaires.
+
+De nombreuses races les considèrent comme des sauvages sans culture mais leurs
+communautés isolées abritent un peuple haut en couleurs, avec
+des traditions et une histoire orale remontant à une époque où les
+humains ne se tenaient pas encore debout sur deux jambes.
+La plupart des hommes-lézards mesurent entre
+1,80 mètres et 2,10 mètres et pèsent de 100 kg à 125 kg.
+
+Leurs muscles puissants sont recouverts d’écailles grises, vertes
+ou brunes. Certaines espèces possèdent de petites crêtes
+dorsales ou des collerettes de couleur vive. Ce sont tous
+d’excellents nageurs qui se déplacent en agitant leurs
+puissantes queues de 1,20 mètre. Ils sont tout à fait à
+l’aise dans l’eau, mais peuvent également respirer
+à l’air libre.
+
+Ils retournent systématiquement vers les monticules où ils vivent en groupe pour se reproduire et pour
+dormir. Comme leur sang reptilien les rend léthargiques lorsqu’il
+fait froid, la plupart des hommes-lézards chassent et travaillent
+pendant la journée et se retirent dans leur demeure la nuit, pour
+se pelotonner contre les autres membres de la tribu et partager la
+chaleur de larges feux de tourbe.
+
+Les hommes-lézards sont généralement d’alignement Neutre
+mais leur comportement distant, leur rejet ferme des « dons »
+de la civilisation et leur légendaire férocité au combat font que la
+plupart des humanoïdes en ont une piètre opinion. Les hommes-lézards
+ont de bonnes raisons d’adopter ces traits cependant, car
+leur rythme de reproduction est très faible à côté de celui des
+humanoïdes à sang chaud, et les tribus qui ne défendraient pas leur
+territoire marécageux jusqu’à la mort se retrouveraient rapidement
+submergées par des hordes de mammifères.
+
+Quant à leur tendance à consommer les corps des amis et des ennemis défunts, les hommes-lézards
+la justifient par le bon sens : la vie dans les marais étant
+difficile, ils ne peuvent pas se permettre de gaspiller quoi que ce soit.
+L’homme-lézard présenté ici vit dans un environnement
+marécageux. On peut trouver des tribus d’hommes-lézards dans
+d’autres milieux, mais ils perdent alors leur vitesse de nage et
+gagnent une vitesse d’escalade de 4,50 mètres.
+</div></td></tr></table>
+
+{s:CM}
+### Écologie
+Les hommes-lézards forment une race antique dont les origines se perdent dans la nuit des temps. Ils disent qu’ils sont aussi âgés que le monde et qu’ils sont apparus en même temps que les dinosaures. À cause de cette croyance, leur culture s’est ancrée dans ses traditions et s’accroche à des technologies archaïques. Pourtant, cela ne les empêche pas de lutter, bien que leur nombre diminue car ils préfèrent se retirer au cœur des marais plutôt que d’interagir avec un monde où les espèces à sang chaud se reproduisent bien plus vite qu’eux et les rendent quantité négligeable.
+
+Les femelles pondent à peine une poignée d’œufs au cours de leur vie. Ces œufs sont très délicats et, entre les modifications de l’habitat, la rareté de la nourriture et les prédateurs, ils arrivent rarement à terme. En cas de famine, il arrive même que la tribu mange une couvée plutôt que de la laisser éclore et donner naissance à de nouvelles bouches à nourrir.
+
+Les œufs viables demandent des soins constants. Comme chez de nombreux reptiles, les jeunes encore dans leur coquille changent de sexe en réponse aux changements de température. La tribu manipule souvent ce paramètre pour conserver la parité sexuelle, un élément essentiel dont dépend la survie de la prochaine génération. Contrairement aux œufs délicats dont ils sont issus, les jeunes hommes-lézards sont très résistants et éclosent avec des crocs et des griffes fonctionnels.
+
+Une race affligée d’un taux de reproduction si faible ne peut se permettre de perdre ses membres lors d’une guerre. Les
+hommes-lézards s’allient parfois avec d’autres espèces de reptiles ou d’amphibiens, mais veillent à choisir uniquement des créatures dont la présence n’appauvrira pas les ressources du territoire. Un unique dragon, un cercle de nagas, un troupeau de dinosaures herbivores… toutes ces créatures peuvent cohabiter confortablement avec une tribu d’hommes-lézards mais si cette dernière devait partager son domaine avec de nombreux [gripplis](./grippli (race).md) ou [bourbiérins](./Bourbiérin.md), le conflit serait inévitable.
+
+À l’exception de l’héritier homme-lézard (voir page 136), la plupart des hommes-lézards vivent entre 60 et 80 ans. Les mâles et les femelles grandissent toute leur vie et les rares individus qui parviennent à transcender le processus de vieillissement (comme les druides ou les alchimistes de haut niveau) atteignent parfois une taille G, autour de leur premier siècle. La taille et les connaissances de ces individus leur assurent une place de dirigeant au sein de leur société, bien qu’ils ne bénéficient jamais de la révérence spirituelle réservée aux héritiers, considérés comme des vestiges du passé ressuscité.
+
+Un vieil homme-lézard participe à la vie de la tribu jusqu’à sa mort. Peu de communautés ont assez de ressources pour entretenir des membres inactifs, les anciens deviennent donc des professeurs, des guérisseurs ou des nourrices. Même les jeunes travaillent dès qu’ils ont la dextérité nécessaire pour tisser des filets de pêche, préparer la nourriture ou surveiller leurs jeunes frères et sœurs. Comme ces tâches sont indispensables à la survie de la tribu, un adulte supervise les jeunes mais ces derniers disposent d’un niveau d’autonomie et de responsabilité qui dépasse de loin celui des humains de leur âge.
+
+La plupart des hommes-lézards vivent dans des campements robustes construits dans les marais tempérés. Pour un étranger, ces communautés semblent sans défense, mais en réalité, les hommes-lézards veillent à s’installer dans des portions de rivière ou de marais faciles à défendre : elles sont dotées de plusieurs entrées immergées, d’itinéraires de fuite et d’accès par voie de terre pour les créatures qui ne savent pas nager. Ce type de camp abrite généralement une seule tribu, qui vit des ressources disponibles à proximité et lance quelques expéditions de chasse au loin en cas de disette. Les hommes-lézards sont actifs de jour car ils n’ont pas de vision nocturne et préfèrent se retirer dans la douce chaleur et la sécurité de leur foyer une fois la nuit tombée.
+
+Les hommes-lézards sont des créatures très isolationnistes. Ils commercent et s’allient seulement avec les groupes qu’ils connaissent depuis longtemps. Même s’ils n’étaient pas aussi xénophobes, ils travaillent tant pour assurer la sécurité de leur tribu et pour la nourrir qu’ils n’ont guère le temps de fraterniser avec des étrangers. Les rencontres avec les hommes-lézards sont donc brèves et abruptes, les astuces diplomatiques d’un émissaire ne lui servant à rien face à un chaman qui doit encore préparer à manger, lancer des sorts protecteurs sur sa couvée et guérir les plaies de ses guerriers. Pourtant, les gens qui passent assez de temps avec les hommes-lézards découvrent la riche tradition orale de ces êtres qui se transmettent des milliers d’années de savoir et de sagesse.
+
+Les hommes-lézards acceptent rarement des étrangers dans leur camp et les rencontrent plutôt dans un campement intermédiaire ou dans un site naturel. Ils n’imposent pas de pratiques religieuses ou culturelles à leurs alliés ou partenaires commerciaux et ils en attendent autant en retour. En revanche, ils ont des exigences écologiques qui débouchent parfois sur quelques frictions. Les humanoïdes confondent souvent ces exigences avec des superstitions ou de l’animisme de « sauvage » mais il est bien rare que les hommes-lézards accordent une signification religieuse à la terre. Quand ils décident de protéger un site naturel, c’est afin de préserver leur environnement car le moindre changement de l’habitat peut avoir des conséquences mortelles.
+
+Les hommes-lézards ne sont pas maléfiques mais leur sens pratique dégoûte parfois les autres races, en particulier quand il les pousse à s’adonner au cannibalisme. Pour un homme-lézard, de la viande reste de la viande et, pendant une période de famine, ce serait une insulte aux guerriers tombés au combat que de laisser pourrir leur chair plutôt que d’en nourrir la tribu.
+
+Ce pragmatisme inné se manifeste aussi dans leurs relations sociales. Il y a autant de crimes, de machinations politiques et de querelles internes dans les campements d’hommes-lézards que dans les communautés humaines, mais leur sens des lois naturelles les empêche de sombrer dans le chaos. La justice tribale est équitable et rapide, la plupart des désaccords se réglant par un combat sans mort entre les partis concernés. Parfois, ces disputes se soldent par un duel par procuration, chaque camp se choisissant un champion.
+
+{s:CM}
+### Nouvelles règles raciales
+Les règles suivantes présentent un archétype, une malédiction d’oracle, des dons et des sorts très prisés des hommes-lézards.
+#### Dons
+Voici quelques dons améliorant les capacités naturelles des hommes-lézards, bien que l’[Adaptation aquatique](./Adaptation aquatique.md) soit aussi accessible aux individus mutés ou uniques de n’importe quelle race, à condition de remplir les conditions requises.
+<center>
+{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
+
+|- CLASS="titre"
+| WIDTH="30%" | Dons
+| WIDTH="3%" | Src
+| WIDTH="30%" | Conditions
+| WIDTH="37%" | Avantages
+
+|- CLASS="premier"
+| [Adaptation aquatique](./Adaptation aquatique.md) || <sup>CM</sup> || Pouvoir [retenir son souffle](./Retenir son souffle (capacité).md) || Respire aussi bien l'eau que l'air
+
+|- CLASS="premier"
+| [Dangereuse queue](./Dangereuse queue.md)* || <sup>CM</sup> || [BBA](./BBA.md) +5, [homme-lézard](./Homme-lézard.md) || Gain d'une attaque de queue
+
+|- CLASS="premier"
+| [Nage rapide](./Nage rapide.md) || <sup>CM</sup> || [Homme-lézard](./Homme-lézard.md), vitesse de nage || +4,5 m à la vitesse de nage
+|}
+</center>
+<div class="wiki-row"><div class="wiki-col wiki-col-6">
+#### Archétypes de classes
+Les druides, sages et révérés, préservent le passé des hommeslézards.
+- [Gardien antique (druide)](./Gardien antique (druide).md)
+
+#### Malédictions d'oracle
+Voici une malédiction d’oracle accessible aux hommes-lézards.
+- [Sang froid](./malédictions doracle.md#SANGFROID)
+
+</div><div class="wiki-col wiki-col-6">
+#### Sorts
+Ces sorts sont réservés aux RACE :
+- ***[Écailles épineuses](./écailles épineuses.md)*** *(CM)* ([Alch 2](./Alchimiste.md), [Cham 2](./Chaman.md), [Dru 2](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Rôd 2](./Rôdeur.md), [San 2](./Sanguin.md), [Sor 2](./Sorcière.md)). Confère des piques acérés aux écailles de la cible.
+- ***[Écailles épineuses supérieures](./Écailles épineuses supérieures.md)*** *(CM)* ([Alch 4](./Alchimiste.md), [Cham 3](./Chaman.md), [Dru 3](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Rôd 3](./Rôdeur.md), [San 4](./Sanguin.md), [Sor 3](./Sorcière.md)). Comme écailles épineuses, mais avec un bonus d'altération plus élevé.
+- ***[Toucher endothermique](./Toucher endothermique.md)*** *(CM)* ([Cham 1](./Chaman.md), [Dru 1](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 1](./Magicien.md), [Sor 1](./Sorcière.md)). Rend la cible chancelante et réduit sa vitesse de motié, mais lui permet de retenir son souffle plus longtemps.
+
+</div></div>

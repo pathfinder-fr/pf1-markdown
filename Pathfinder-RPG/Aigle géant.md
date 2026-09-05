@@ -1,0 +1,72 @@
+---
+Name: Pathfinder-RPG.Aigle géant
+Title: Aigle, Aigle géant
+LastModified: 2020-09-17 18:50
+Categories:
+- Bestiaire
+- Monstre
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aigle géant|FP 3}
+{s:pucem|Créature magique|Montagnes|Tempéré}
+{s:BDTexte|*Source : Bestiaire page 9*}
+{s:BDTexte|**PX** 800}
+{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, NB}
+{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
+{s:BDTexte|**pv** 26 (4d10+4)}
+{s:BDTexte|**Réf** +7, **Vig** +5, **Vol** +3}
+{s:BDTexte|**Capacités défensives** [esquive totale](./esquive totale.md) }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 3 m (2 {s:c}), vol 24 m (16 {s:c}) (moyenne)}
+{s:BDTexte|**Corps à corps** 2 griffes +7 (1d8+4), morsure +7 (1d6+4)}
+{s:BDTexte|**Espace** 2 ; **Allonge** 1}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 18, **Dex** 17, **Con** 12, **Int** 10, **Sag** 15, **Cha** 11}
+{s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 22}
+{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Vigilance](./Vigilance.md)}
+{s:BDTexte|**Compétences** [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +4, [Vol](./Vol.md) +8}
+{s:BDTexte|**Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Langues** aérien (ne peut pas parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** montagne tempérée}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou aire (3-12)}
+{s:BDTexte|**Trésor** aucun}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'aigle
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Aigle](./Aigle.md) || 1/2
+|-
+| [Aigle géant](./Aigle géant.md) || 3
+|}
+</div>''Les plumes brunes et dorées de cet immense aigle brillent dans la lumière.
+Son bec acéré et ses serres incurvées sont jaune foncé.''
+
+Un aigle géant moyen mesure à peu près
+4,50 mètres, possède une envergure d’ailes
+allant jusqu’à 9 mètres et ressemble en
+tout point à une version géante de
+son cousin de taille normale.
+Il pèse 250 kg.
+
+Les aigles
+géants sont plus
+que de simples animaux : ils
+possèdent une intelligence supérieure
+et se considèrent comme les gardiens et les
+protecteurs de leur territoire montagneux.
+Ils développent des amitiés durables avec
+ceux qui les respectent eux et leurs
+domaines.
+</div>
+
+
+{s:ImageDroite|Bestiaire/Aigle_geant_img.jpg|100%}
+</td></tr></table>

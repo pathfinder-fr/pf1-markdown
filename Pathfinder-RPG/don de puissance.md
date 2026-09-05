@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.don de puissance
+Title: don de puissance
+LastModified: 2020-02-18 10:33
+Categories:
+- Campagne mythique
+- Redirection
+---
+
+>>> Aptitudes de la voie du Maréchal Mythique#DONDEPUISSANCE

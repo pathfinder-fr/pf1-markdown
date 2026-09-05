@@ -1,0 +1,7 @@
+---
+{}
+---
+
+<a href="/Wiki/Pathfinder-RPG.Magie de la Mer Intérieure (Contenu).ashx" style="float:right; padding: 4px 4px 2px 8px;">
+<img title="Source : Inner Sea Magic/Magie de la Mer Intérieure" class="opachover" src="/Wiki/public/Upload/Illustrations/Logos/logoMMI.gif" style="opacity: 0.7" loop="infinite" />
+</a>

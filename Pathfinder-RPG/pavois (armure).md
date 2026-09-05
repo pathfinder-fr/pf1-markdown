@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.pavois (armure)
+Title: Pavois
+LastModified: 2021-10-10 19:47
+Categories:
+- Armure
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 30 po ; **Poids** 22,5 kg
+**Bonus de bouclier** +4 ; **Bonus de Dex maximal** +2 ; **Malus d'armure** -10
+**Risque d'échec des sorts profanes** 50% ; **Vitesse** —/—
+<span class="Catégorie">**Catégorie** [Boucliers](./Tableau récapitulatif des armures.md#TABBOUCLIERS)</span>
+---
+Cet énorme bouclier en bois est presque aussi grand que son utilisateur. Dans la plupart des situations, il fournit le bonus de bouclier indiqué à la [CA](./CA.md) mais on peut aussi utiliser une [action simple](./Action simple.md) pour bénéficier d’un [abri total](./abri total.md) jusqu’au début de son prochain tour. Lorsque le personnage utilise le pavois de cette façon, il doit choisir un côté de son espace. Ce côté est traité comme un mur solide pour les attaques ne visant que lui. Il bénéficie d’un abri total contre les attaques passant de ce côté mais n’a aucun abri contre les attaques qui viennent d’ailleurs. Néanmoins, le bouclier n’offre pas d’abri contre les sorts ciblés. Un lanceur de sorts peut lancer un sort sur le personnage en visant le bouclier qu’il tient. Le personnage ne peut pas porter de coup avec un pavois ni utiliser sa main tenant le bouclier pour quoi que ce soit d’autre.   
+  
+Lorsqu’il utilise un pavois en combat, le personnage reçoit un malus de -2 à ses [jets d’attaque](./jet dattaque.md) à cause de l’encombrement du bouclier.

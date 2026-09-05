@@ -1,0 +1,153 @@
+---
+Name: Pathfinder-RPG.Balor
+Title: Démon, Balor
+LastModified: 2021-07-15 15:52
+Categories:
+- Monstre
+- Règles officielles
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td width="50%">
+<div class="BD">
+{s:BDTitre|Balor|FP 20}
+{s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
+{s:BDTexte|*Source : Bestiaire p.62*}
+{s:BDTexte|**PX** 307.200}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM}
+{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)*, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +38}
+{s:BDTexte|**Aura** *[aura maudite](./Aura maudite.md)* (DD 26), corps enflammé}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 36, contact 20, pris au dépourvu 29 (Dex +7, naturelle +16, parade +4, taille -1)}
+{s:BDTexte|**pv** 370 (20d10+260)}
+{s:BDTexte|**Réf** +17, **Vig** +29, **Vol** +25}
+{s:BDTexte|**Immunités** électricité, feu, poison ; **RD** 15/fer froid et Bien ; **Résistances** acide 10, froid 10 ; **RM** 31 }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 12 m (8 {s:c}), vol 27 m (18 {s:c}) (bonne)}
+{s:BDTexte|**Corps à corps** *épée longue vorpale maudite +1*, +31/+26/+21/+16 (2d6+13), *fouet vorpal de feu +1*, +30/+25/+20 (1d4+7 et 1d6 feu et enchevêtrement) ou 2 coups +31 (1d10+12)}
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c}) (6 m (4 {s:c}) pour le fouet)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 20<sup>e</sup>)}
+{s:BDSorts|Constant — *[aura maudite](./Aura maudite.md)* (DD 26), *[vision lucide](./Vision lucide.md)*}
+{s:BDSorts|À volonté — *[dissipation suprême](./Dissipation suprême.md)*, *[domination universelle](./Domination universelle.md)* (DD 27), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[télékinésie](./Télékinésie.md)* (DD 23), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|3/jour — *[télékinésie](./Télékinésie.md)*en [incantation rapide](./Incantation rapide.md)  (DD 23)}
+{s:BDSorts|1/jour — *[blasphème](./Blasphème.md)* (DD 25), *[convocation](./convocation.md)* (niveau 9, un démon de FP inférieur ou égal à 19 <nowiki>[</nowiki>au choix<nowiki>]</nowiki>, 100%), *[implosion](./Implosion.md)* (DD 27), *[tempête de feu](./Tempête de feu.md)* (DD 26)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 35, **Dex** 25, **Con** 36, **Int** 24, **Sag** 24, **Cha** 27}
+{s:BDTexte|**BBA** +20, **BMO** +33, **DMD** 54}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat à deux armes](./Combat à deux armes.md), [Combat à deux armes supérieur](./Combat à deux armes supérieur.md), [Enchaînement](./Enchaînement.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[télékinésie](./Télékinésie.md)*), [Science de l'initiative](./Science de linitiative.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [Volonté de fer](./Volonté de fer.md) }
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +27, [Bluff](./Bluff.md) +31, [Connaissances](./Connaissances.md) (histoire) +27, [Connaissances](./Connaissances.md) (noblesse) +27, [Connaissances](./Connaissances.md) (plans) +30, [Connaissances](./Connaissances.md) (religion) +27, [Diplomatie](./Diplomatie.md) +31, [Discrétion](./Discrétion.md) +26, [Intimidation](./Intimidation.md) +31, [Perception](./Perception.md) +38, [Psychologie](./Psychologie.md) +30, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +31, [Vol](./Vol.md) +32 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Particularités** attaque vorpale, dernier sursaut, maîtrise des fouets}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** quelconque (Abysse)}
+{s:BDTexte|**Organisation sociale** solitaire ou groupe de combat (1 balor et 2-5 [glabrezus](./Glabrezu.md))}
+{s:BDTexte|**Trésor** standard (*épée longue +1 maudite*, *fouet +1 de feu*, autres trésors)}
+{s:BDSousTitre|Particularités}
+{s:BDTexte|**Attaque vorpale (Sur)** Toutes les armes tranchantes maniées par un balor (y compris l'épée longue et le fouet qu'ils utilisent généralement) gagnent la propriété [vorpale](./vorpale (propriété).md). Une fois lâchées par le balor, elles conservent cette qualité pendant 1 heure avant de retourner à leur état normal (magique ou pas).}
+{s:BDTexte|**Corps enflammé (Sur)** Des flammes dansent sur tout le corps du balor. un individu qui frappe un balor avec une arme naturelle ou à mains nues subit 1d6 points de dégâts de feu. Les créatures qui agrippent un balor ou sont [agrippées](./Agrippé.md) par lui subissent 6d6 points de dégâts de feu par round tant que cette situation persiste.}
+{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un balor est tué, il provoque une explosion de feu aveuglante qui inflige 100 points de dégâts (50% de dégâts de feu et 50% de dégâts maudits) à tout ce qui se trouve dans un rayon de 30 m (20 {s:c}) (un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 33 permet de diviser les dégâts par deux). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Enchevêtrement (Ext)** Si un balor frappe un ennemi de taille inférieure ou égale à M avec son fouet, il peut immédiatement effectuer un test de [lutte](./lutte.md) sans provoquer d'[attaque d'opportunité](./attaque dopportunité.md). S'il réussit ce test, il attire l'ennemi dans un emplacement adjacent au sien et l'ennemi devient [agrippé](./Agrippé.md) (mais pas le balor.}
+{s:BDTexte|**Maîtrise des fouets (Ext)** Lorsqu'un balor combat avec deux armes, il traite les fouets comme des armes légères et ceux-ci peuvent infliger des dégâts létaux à ses ennemis quel que soit leur bonus d'armure ou d'armure naturelle.}
+</div>
+
+{s:ImageCentre|Bestiaire/Balor.jpg|95%}
+</td><td width="50%"><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+*Les cornes de ce fiélon ailé, ses crocs, sa peau qui semble produire des flammes, tout en lui incarne la forme démoniaque parfaite.*
+
+Lorsque les gens racontent à voix basse des histoires à faire peur
+parlant de démons, la plupart imaginent une silhouette gigantesque
+de feu et de chair, un cauchemar cornu armé d’un fouet enflammé
+et d’une épée qui brille dans le ciel nocturne à la recherche de sa
+prochaine victime. Les créatures démoniaques qui effraient ces
+gens sont les balors, et leur peur est justifiée car rares sont les
+démons qui peuvent rivaliser avec la force et la brutalité des balors.
+
+Dans les Abysses, la plupart des balors servent les seigneurs
+démons comme généraux ou capitaines et commandent de vastes
+légions de démons (d’autres balors, les seigneurs balors, sont
+encore plus puissants, voir plus loin). Même s’ils laissent souvent
+leurs sbires obéissants et obséquieux se charger des batailles,
+on aurait tort de penser que ce sont des couards : lorsqu’ils ont
+l’occasion de se joindre au combat, peu d’entre eux choisissent de
+résister à cette tentation.
+
+Au combat, les balors utilisent leurs pouvoirs magiques contre
+les ennemis qui choisissent sagement d’éviter le corps à corps. Ils
+ont une préférence pour les effets destructeurs comme tempête de
+feu ou implosion et réservent domination universelle pour les rares
+ennemis qu’ils désirent capturer vivants. Souvent, ils utilisent
+télékinésie pour désarmer les adversaires qui utilisent des armes à
+distance ou pour attirer des ennemis jusqu’au corps à corps (une
+télékinésie en incantation rapide permet à un balor de mettre cette
+tactique en pratique puis d’infliger un round entier d’attaques
+à l’ennemi déconcerté).
+
+Les balors réduits à 50 points de vie ou
+moins tentent quasiment toujours de fuir en se téléportant mais,
+si cela leur est impossible et qu’ils ne peuvent pas s’envoler non
+plus, ils se positionnent de sorte que, s’ils venaient à être tués, leur capacité de dernier sursaut cause autant de dégâts que possible
+dans les rangs de leurs ennemis.
+
+Un balor mesure 4,20 mètres de hauteur et pèse 2 250 kg. Seules
+les âmes mortelles les plus cruelles peuvent résulter en la création
+d’un balor. Contrairement aux autres types de démons, la naissance
+d’un balor nécessite souvent plusieurs âmes maléfiques puissantes.
+
+**Les seigneurs balors**
+
+Il existe des balors plus horribles encore que les spécimens habituels
+qui ont pour maître un seigneur démon : ceux qui occupent eux-mêmes
+le rang de maître. Les seigneurs balors dirigent généralement
+des régions qui ne dépassent pas en taille la moitié du royaume
+où ils résident (car seuls les véritables seigneurs démons peuvent
+commander tout un royaume abyssal). Même si de nombreux
+seigneurs balors dirigent des zones encore plus réduites (comparables
+en taille à un continent), leur pouvoir reste impressionnant.
+
+Les seigneurs balors sont généralement des monstres dont
+le FP se situe entre 21 et 25 (le même intervalle de FP que les
+divers seigneurs démons naissants, les seigneurs démons eux-mêmes
+correspondant à des FP supérieurs ou égaux à 26) ; ils
+peuvent donc tout à fait faire office d’ennemis finaux pour une
+longue compagne.
+
+La plupart des seigneurs démons possèdent
+plusieurs niveaux de barbare, de guerrier ou de rôdeur (toutefois,
+les seigneurs démons rôdeurs ne développent jamais de lien avec
+des animaux), mais certains choisissent plutôt des niveaux de
+barde, de roublard, d’ensorceleur ou de magicien. On n’a jamais
+vu de seigneur balor prêtre (ils estiment devoir être vénérés plutôt
+que de vénérer eux-mêmes), mais certaines rumeurs parlent de
+puissants seigneurs balors prêtres qui serviraient directement
+des seigneurs démons ou même des divinités maléfiques.
+
+En plus des avantages accordés par leurs niveaux de classe,
+les seigneurs balors bénéficient d’une capacité supplémentaire
+unique qui vient s’ajouter à celles de leur race et de leur classe.
+Voici trois exemples de capacités de seigneur balor, mais c’est
+loin d’être une liste exhaustive de tous les pouvoirs étranges que
+peuvent manifester ces puissantes créatures.
+
+**Buveur de vie (Sur).** Chaque fois que le seigneur balor tue un
+ennemi vivant, il bénéficie des effets d’un sort de guérison suprême
+(NLS 20). Cette capacité peut être utilisée une fois par round.
+
+**Engloutissement d’âme (Sur).** Par une action simple, le seigneur
+balor peut inhaler l’âme d’une créature vivante distante d’au plus
+9 mètres. La cible doit réussir un jet de Vigueur (DD 10 + la moitié
+du nombre de DV raciaux du seigneur balor + son modificateur
+de Charisme) pour éviter de mourir. Le corps d’une créature
+humanoïde tuée de cette manière se transforme immédiatement
+en un démon contrôlé par le seigneur balor (un babau, une
+succube ou un démon des ombres, au choix du seigneur démon).
+
+**Maître de la magie (Sur).** Le seigneur balor possède des
+pouvoirs magiques supplémentaires (l’équivalent de 20 niveaux de
+sorts appartenant aux 1er, 2e, 3e et 4e niveaux, utilisables à volonté
+et l’équivalent de 20 niveaux de sorts appartenant aux 5e, 6e, 7e et
+8e niveaux, utilisables 3 fois par jour).
+</div>
+
+{s:ImageCentre|Bestiaire/Balor_img02.jpg|95%}
+
+</td></tr></table>

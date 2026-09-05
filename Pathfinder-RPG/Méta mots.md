@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Méta mots
+Title: Les méta mots
+LastModified: 2024-08-28 16:27
+Categories:
+- Mot de pouvoir
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:MenuMagie}{s:UM}Ces mots modifient spécifiquement d’autres éléments de mot et utilisent le format suivant.
+
+**Nom.** Le nom du [méta mots|méta mot].
+
+**Niveau.** Cette ligne donne le niveau minimum d’un sort contenant le [méta mots|méta mot]. Les sorts d’un niveau inférieur ne peuvent l’utiliser.
+
+**Description.** Ce paragraphe décrit ce que le [méta mots|méta mot] modifie et comment il change le sort.
+
+Liste des méta mots :
+- [Augmentation](./Augmentation.md)
+- [Attention](./Attention.md)
+- [Calme](./Calme.md)
+- [Déformation mentale](./Déformation mentale.md)
+- [Distant](./Distant.md)
+- [Irrésistible](./Irrésistible.md)
+- [Long](./Long.md)
+- [Manifestation](./Manifestation.md)
+- [Pénétration](./Pénétration.md)
+- [Simple](./Simple.md)

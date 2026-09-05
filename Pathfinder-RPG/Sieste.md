@@ -1,0 +1,27 @@
+---
+Name: Pathfinder-RPG.Sieste
+Title: Sieste
+LastModified: 2022-06-26 10:58
+Categories:
+- Règle officielle
+- Sort
+- Sort prêtre 3
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Prê](./Prêtre.md) 3  
+
+**Temps d'incantation** 1 minute  
+
+**Composantes** [V, G, M](./composantes.md) (un petit oreiller de soie d'une valeur de 100 po)  
+
+**Portée** 9 m (6 {s:c})  
+
+**Zone** émanation de 9 m (6 {s:c}) de rayon  
+
+**Durée** 8 heures  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+
+Le personnage réduit la quantité de repos ou de sommeil ininterrompu dont les créatures situées dans la zone d'effet du sort ont besoin pour guérir de leurs blessures, récupérer leurs sorts et autres pouvoirs spéciaux et la fait passer à 2 heures au lieu des 8 habituelles. De plus, si les créatures continuent de dormir ou de se reposer au-delà des 2 heures nécessaires, chaque tranche de 2 heures de sommeil supplémentaire compte comme un jour de repos en ce qui concerne la récupération de points de vie, les [affaiblissements](./affaiblissement temporaire.md) de caractéristique temporaires, les maladies, les [poisons](./Poisons.md) et autres afflictions. Ce qui veut dire qu'une période de repos de 8 heures équivaut à 4 jours de guérison naturelle et de [jets de sauvegarde](./jet de sauvegarde.md), alors que les maladies ou afflictions similaires suivent leur cours. Si les dormeurs souffrent des effets d'une maladie, d'un poison ou d'une affliction, ils font des rêves réalistes qui les mettent sur le chemin de la guérison. Si les choses se passent mal, ils peuvent se réveiller à tout instant pour chercher une meilleure alternative. Si les créatures s'éveillent ou sont dérangées pendant cette période de 8 heures, elles peuvent se rendormir mais ne bénéficient plus des effets de la récupération accélérée. Une créature ne peut bénéficier des effets de ce sort qu'une fois par semaine.

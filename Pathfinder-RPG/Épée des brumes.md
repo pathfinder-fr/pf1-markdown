@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Épée des brumes
+Title: Épée des brumes
+LastModified: 2024-06-17 14:57
+Categories:
+- Objet mag
+- Objet mag artefact
+- Src Campagnes mythiques
+---
+
+<div class="BD">
+{s:BDTitre|Épée des brumes|{s:CMy}}
+**Aura** [Invocation](./Invocation.md) et [Transmutation](./Transmutation.md) puissantes ; **NLS** 20 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 6 kg
+(((Description)))
+Forgée par de puissantes créatures féeriques du Premier Monde comme cadeau pour des champions mortels, l’*épée des brumes* est une *[épée à deux mains](./épée à deux mains (arme).md) [gardienne](./gardienne (propriété).md) +6* en acier, d’un bleu étincelant, dont le pommeau représente une tête de cerf. D’étranges et anciennes gravures runiques encerclent la chappe tandis que les quillons prennent la forme de lianes épineuses. Quiconque manie cette arme bénéficie de [vision nocturne](./Vision nocturne (capacité).md), de [résistance à l’appel de la nature](./Druide.md#RESISTANCEALAPPELDELANATURE) (comme le pouvoir de classe du [druide](./Druide.md)) et de la capacité à parler et à comprendre le sylvestre.
+
+Le porteur peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour permettre à la lame de surmonter la [solidité](./solidité.md) de n’importe quel objet solide et à trancher dans les matériaux même les plus résistants comme dans du beurre, et ce pendant 1 minute.
+
+Une fois par semaine, il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour entrer dans le Monde féerique depuis le Plan matériel ou vice versa.
+(((Destruction)))
+Si on la plonge dans le sang de ses créateurs féeriques, l’*épée des brumes* fond mystérieusement pour former une mare de plomb inutile.
+</div>

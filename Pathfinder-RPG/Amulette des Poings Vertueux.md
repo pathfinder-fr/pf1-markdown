@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Amulette des Poings Vertueux
+Title: Amulette des poings vertueux
+LastModified: 2024-05-31 16:18
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Armes et équipement
+---
+
+<div class="BD">
+{s:BDTitre|Amulette des poings vertueux|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 4 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 4.000 po ; **Poids** 0,25 kg
+(((Description)))
+Cette amulette en or est utilisée par les sectes religieuses pour aider les fidèles à capturer des fugitifs ou à se défendre sans blesser trop grièvement les gens qu’ils cherchent à convertir. Lorsque le porteur de cette amulette utilise ses pouvoirs divins de représailles (tels que le châtiment d’un [prêtre](./Prêtre.md) ou d’un [paladin](./Paladin.md) ou le jugement de châtiment d’un [inquisiteur](./Inquisiteur.md)), l’amulette lui permet d’effectuer des attaques à mains nues au corps à corps comme s’il possédait le don [Science du combat à mains nues](./Science du combat à mains nues.md).
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Science du combat à mains nues](./Science du combat à mains nues.md), *[poing de pierre](./Poing de pierre.md)*  ; **Coût** 2.000 po
+</div>

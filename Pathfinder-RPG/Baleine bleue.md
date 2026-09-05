@@ -1,0 +1,50 @@
+---
+Name: Pathfinder-RPG.Baleine bleue
+Title: Baleine bleue
+LastModified: 2023-12-16 00:08
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Baleine bleue|FP 12}
+{s:pucem|Animal|Aquatique|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.43*}
+{s:BDTexte|**PX** 19 200}
+{s:BDTexte|[Animal](./type Animal.md) de taille C, N}
+{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +27}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 26, contact 1, pris au dépourvu 26 (Dex -1, naturelle +25, taille -8)}
+{s:BDTexte|**pv** 184 (16d8+112)}
+{s:BDTexte|**Réf** +9, **Vig** +17, **Vol** +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** nage 12 m}
+{s:BDTexte|**Corps à corps** queue, +21 (8d6+24 plus étourdissement)}
+{s:BDTexte|**Espace occupé** 9 m ; **Allonge** 9 m}
+{s:BDTexte|**Attaques spéciales** [retournement de navires](./Retournement de navires (capacité).md)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 42, **Dex** 8, **Con** 25, **Int** 2, **Sag** 13, **Cha** 6}
+{s:BDTexte|**BBA** +12 ; **BMO** +36 ; **DMD** 45 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (queue), [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Natation](./Natation.md) +35, [Perception](./Perception.md) +27 ; **Modificateurs raciaux** +12 en Perception}
+{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** océans}
+{s:BDTexte|**Organisation** solitaire, couple ou banc (3-18)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Étourdissement (Ext).** La queue de la baleine assène de puissants coups étourdissants. Une créature touchée par une telle attaque doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 34, sans quoi elle est [étourdie](./Étourdi.md) pendant 1 [round](./round.md). Si le coup est un critique et que la cible rate son [jet de sauvegarde](./jet de sauvegarde.md), elle est également [étourdie](./Étourdi.md) pendant 1d4 [rounds](./round.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Force](./Force.md).}
+{s:BDTexte|**Queue (Ext).** La queue de la baleine bleue est une attaque primaire et ajoute 1,5 fois son bonus de [Force](./Force.md) aux jets de dégâts.}
+{s:BDTexte|**Retenir son souffle (Ext).** Une baleine bleue peut retenir son souffle pendant un nombre de rounds égal à 10 fois sa valeur de [Constitution](./Constitution.md).}
+</div></td>
+<td><div>*Cette énorme créature a une nageoire caudale horizontale et une immense gueule garnie de fanons.*
+
+Malgré leur taille, les baleines bleues sont des créatures paisibles tant que rien ne les menace. Elles mangent des millions de minuscules invertébrés appelés du krill, qu’elles aspirent au travers de leurs fanons par grosses goulées. Ces énormes mammifères vivent dans nombre de mers et d’océans. Une baleine bleue adulte mesure 30 mètres de long pour 200 tonnes.
+
+#### La baleine bleue comme [compagnon animal](./liste des compagnons animaux.md)
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** nage 24 m ; **CA** armure naturelle +1 ; **Attaque** queue (1d8) ; **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./Vision nocturne (capacité).md), [retenir son souffle](./Retenir son souffle (capacité).md)
+
+**Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** queue (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4
+</div></td></tr></table>

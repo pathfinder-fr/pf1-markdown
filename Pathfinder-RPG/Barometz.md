@@ -1,0 +1,94 @@
+---
+Name: Pathfinder-RPG.Barometz
+Title: Barometz
+LastModified: 2023-10-22 19:17
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 4
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Barometz|FP 15}
+{s:pucem|Plante|Forêt-Jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire 4 page 19*}
+- 51 200 PX
+- **Plante** de taille Gig, N
+- **Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +27
+(((Défense)))
+- **CA** 31, contact 11, pris au dépourvu 26 (Dex +5, naturelle +20, taille -4)
+- **pv** 253 (22d8+154)
+- **Réf** +12, **Vig** +20, **Vol** +11
+- **Immunités** électricité, [traits des plantes](./Traits des plantes.md)
+(((Attaque)))
+- **VD** 12 m (8 {s:c})
+- **Corps à corps** corne, +23 (5d10+15/19-20)
+- **Espace** 6 m ; Allonge 6 m
+- **Attaque spéciale** [charge puissante](./Charge puissante.md) (corne, 10d10+15), [piétinement](./Piétinement.md) (5d10+15, DD 31)
+(((Statistiques)))
+- **For** 30, **Dex** 21, **Con** 24, **Int** 2, **Sag** 15, **Cha** 9
+- **BBA** +16 ; **BMO** +30 (+34 bousculade et renversement) ; **DMD** 45 (47 contre bousculade et renversement, 49 contre croc-en-jambe)
+- **Dons** [Arme de prédilection](./Arme de prédilection.md) (corne), [Attaque en puissance](./Attaque en puissance.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Renversement supérieur](./Renversement supérieur.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (corne), [Science du renversement](./Science du renversement.md), [Volonté de fer](./Volonté de fer.md)
+- **Compétences** [Perception](./Perception.md) +27 
+(((Écologie)))
+- **Environnement** forêts
+- **Organisation** solitaire ou au service d’un druide
+- **Trésor** aucun
+
+</div>
+</td><td><div>
+''La laine de cet énorme bélier vert est en réalité un enchevêtrement de
+tiges et ses cornes sont des branches aux pointes acérées.''
+
+Ces énormes mastodontes végétaux ne sont pas le fruit de la nature,
+ce sont les druides qui les font pousser pour servir de protecteurs
+et appliquer sauvagement leur jugement. Le barometz est taillé en
+forme de robuste bélier et possède un certain degré d’intelligence car
+des esprits de la nature sont liés à sa silhouette verdoyante.
+Le barometz est généralement au service des puissants druides qui l’ont
+cultivé. Il les aide à protéger les forêts originelles sacrées.
+
+#### Faire pousser un barometz
+
+La culture du barometz n’est pas sans rappeler la construction
+d’une créature artificielle mais elle ne fait pas appel au don
+Création de créatures artificielles. Il faut cinq cultivateurs. En
+général, il s’agit de puissants druides mais n’importe qui peut le
+faire, à condition de réussir les tests de Connaissances requis et
+de lancer les sorts appropriés.
+Il faut un an pour faire pousser le corps. Un des créateurs, souvent
+celui qui deviendra le maître du barometz, cultive un chêne
+dans lequel il taillera les cornes. Une fois qu’il les a coupées, il
+les façonne et les renforce avec le sort bois de fer. Quatre cultivateurs
+plantent chacun un arbre et entrelacent leurs branches
+pour former une treille. C’est sur ce support que se développe
+la peau faite de pierre et de lierre, en laissant assez de place à la
+végétation qui formera le gros du barometz. Chaque cultivateur
+doit effectuer un test de Connaissances (nature) DD 25 quand
+il façonne le corps. Si l’un d’eux échoue, les plantes se fanent et
+meurent et il faut recommencer tout le processus.
+S’ils réussissent leurs tests, ils doivent mener un rituel spécial
+un jour après la fin de la culture. Ce rituel demande vingt-quatre
+heures et doit se dérouler sous la houlette de la créature qui
+deviendra le maître du barometz. À l’apogée de la cérémonie, il
+y a 50% de chances que la tentative de création du barometz soit
+couronnée de succès. Si ce dernier test se solde par un échec,
+c’est qu’il n’y a pas d’esprit naturel assez proche pour répondre à
+l’appel. Le corps végétal du bélier pourrit et il faut recommencer
+à zéro avec de nouveaux matériaux. Si le MJ le désire, les chances
+de réussite peuvent passer à 75% ou même 100% dans les zones
+où les esprits de la nature sont particulièrement nombreux. La
+découverte d’un tel site, très rare, peut servir d’objectif à une
+aventure à part entière.
+
+
+#### Construction
+
+- **NLS **15 ; **Prix **80 500
+
+- **Conditions requises** 15 rangs en [Connaissances](./Connaissances.md) (nature), [croissance végétale](./Croissance végétale.md), [enchevêtrement](./Enchevêtrement.md), [bois de fer](./Bois de fer.md), [convocation d’alliés naturels VII](./Convocation dalliés naturels VII.md) ; **Compétences **[Connaissances](./Connaissances.md) (nature) DD 25 ; 
+- **Coût **40 200 po
+
+
+</div></td></tr></table>

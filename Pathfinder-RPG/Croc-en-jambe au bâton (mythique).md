@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Croc-en-jambe au bâton (mythique)
+Title: Croc-en-jambe au bâton (mythique)
+LastModified: 2018-07-20 23:23
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Le personnage manipule son précieux bâton aussi bien pour attaquer que pour se défendre.*
+
+**Condition.** [Croc-en-jambe au bâton](./Croc-en-jambe au bâton.md)
+
+**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) à son DMD contre les manœuvres de [croc-en-jambe](./croc-en-jambe.md) et aux tests de manoeuvre de [croc-en-jambe](./croc-en-jambe.md) effectués avec un bâton. Lorsque le personnage manipule un bâton et qu’un adversaire dans sa zone de menace tente en vain de lui faire un [croc-en-jambe](./croc-en-jambe.md), cet adversaire provoque une attaque d’opportunité de la part du personnage. Le personnage doit utiliser son bâton lorsqu’il effectue cette attaque d’opportunité.

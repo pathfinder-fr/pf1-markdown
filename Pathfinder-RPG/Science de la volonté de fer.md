@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Science de la volonté de fer
+Title: Science de la volonté de fer
+LastModified: 2010-08-01 22:05
+Categories:
+- Don
+---
+
+*Les pensées limpides du personnage lui permettent de résister aux attaques mentales.*
+
+**Condition.** [Volonté de fer](./Volonté de fer.md).
+
+**Avantage.** Une fois par jour, le personnage peut relancer un jet de [Volonté](./Volonté.md). Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.

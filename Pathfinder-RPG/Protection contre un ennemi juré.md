@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Protection contre un ennemi juré
+Title: Protection contre un ennemi juré
+LastModified: 2011-07-16 21:43
+Categories:
+- Don
+- Manuel des joueurs, règles avancées
+- Règles officielles
+---
+
+{s:apg}*Le personnage se sert de sa ruse pour se protéger contre les attaques de ses proies.*
+
+**Condition.** Aptitude de classe d’[ennemi juré](./ennemi juré.md).
+
+**Avantage.** Le personnage choisit un type d’ennemi juré. Il ajoute la moitié de son bonus d’ennemi juré à son [DMD](./DMD.md) et à sa [CA](./CA.md) (en tant que bonus d’[esquive](./Esquive.md)) contre les attaques de ce type d’ennemi.
+
+**Spécial.** Le personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois que le personnage gagne ce don, il s’applique à un nouveau type d’ennemi juré.

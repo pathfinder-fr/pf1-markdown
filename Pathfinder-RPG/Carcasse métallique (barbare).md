@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Carcasse métallique (barbare)
+Title: Carcasse métallique
+LastModified: 2013-03-24 18:17
+Categories:
+- Art de la guerre
+- Classe
+- Règles officielles
+---
+
+{s:Menuarchétypebarbare}{s:UC}*Certains barbares délaissent les armures de peau et de cuir normalement si appréciées par leurs pairs. Ils préfèrent les armures plus lourdes, même créées par des gens plus civilisés, car elles leur offrent une meilleure protection et une plus grande stabilité lors des combats.*
+
+#### Armes et armures
+Une carcasse métallique est formée au port des armures lourdes.
+
+#### Posture indomptable (Ext)
+Une carcasse métallique gagne un bonus de +1 aux tests de [manœuvre offensive](./BMO.md) et au [DMD](./DMD.md) contre les tentatives de [bousculade](./bousculade.md). Elle gagne le même bonus aux jets de [Réflexes](./Réflexes.md) pour éviter un piétinement. Elle gagne aussi un bonus de +1 à la CA contre les attaques de charge ainsi qu’aux jets d’attaque et de dégâts contre des créatures qui chargent. Ce pouvoir remplace le [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE).
+
+#### Rapidité en armure (Ext)
+Au niveau 2, la carcasse métallique se déplace plus vite quand elle possède une armure intermédiaire et une armure lourde. Elle se déplace alors 1,50 m (1 {s:c}) plus vite, sans dépasser sa [vitesse maximale](./VD.md). Ce pouvoir remplace [esquive instinctive](./esquive instinctive.md).
+
+#### Solide comme l’acier (Ext)
+Au niveau 3, la carcasse métallique apprend à utiliser son armure pour se protéger des coups les plus dangereux. Quand elle porte une armure lourde, elle gagne un bonus de +1 à la CA contre les jets de confirmation de coup critique. Ce bonus augmente de +1 tous les trois niveaux au-delà du 3 (avec un maximum de +6 au niveau 18). Ce pouvoir remplace [sens des pièges](./sens des pièges.md).
+
+#### Science de la rapidité en armure (Ext)
+Au niveau 5, la vitesse de déplacement de la carcasse métallique dépasse la vitesse normale de sa race de +3 m. Ce bonus fonctionne quelle que soit l’armure qu’elle porte, même une lourde, mais pas si elle porte une charge lourde. Ce bonus s’applique avant de modifier la vitesse de déplacement de la carcasse à cause d’une charge ou d’une armure. Ce bonus se cumule avec les autres bonus de vitesse du barbare. Ce pouvoir remplace [esquive instinctive supérieure](./esquive instinctive supérieure.md).
+
+#### Pouvoirs de rage
+Voici les pouvoirs de rage qui viennent compléter l’archétype de carcasse métallique : [attaque dominatrice](./Attaque dominatrice (rage).md), [avance dominatrice](./Avance dominatrice (rage).md), [coup inattendu](./Coup inattendu (rage).md), [esquive réflexe](./esquive réflexe (rage).md), [posture défensive](./Posture défensive (rage).md), [poursuite](./Poursuite (rage).md), [réduction de dégâts accrue](./Réduction de dégâts accrue (rage).md), [vantardise](./Vantardise (rage).md), [vie préservée](./Vie préservée (rage).md), [vie préservée supérieure](./vie préservée supérieure (rage).md).

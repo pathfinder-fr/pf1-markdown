@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Feinte à distance
+Title: Feinte à distance
+LastModified: 2023-01-18 16:22
+Categories:
+- Don
+- Don combat
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous pouvez tromper vos ennemis sur votre objectif avec des attaques à distance.*
+
+**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [BBA](./BBA.md) +2, 3 rangs en [Bluff](./Bluff.md)
+
+**Avantages.** Le personnage peut [feinter](./feinte.md) avec une arme à distance en lançant une arme de jet ou en tirant une flèche, un carreau, une balle ou un autre type de munition ; cette feinte prend la même action qu'une feinte normale, mais selon l'arme utilisée, peut nécessiter de recharger ou de dégainer une autre arme ensuite. Lorsque le personnage utilise une feinte à distance, il prive sa cible de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) contre ses attaques au corps à corps ou à distance pendant la même durée que d'habitude. Si ses feintes privent un adversaire de son bonus de Dextérité à la CA contre d'autres attaques que les siennes, cela ne s'applique qu'aux attaques de corps à corps.
+
+**Normal.** Un personnage ne peut [feinter](./feinte.md) qu'avec une arme de corps à corps, et seulement contre une créature qu'il menace avec cette arme.

@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Blanchenuit (objet)
+Title: Blanchenuit
+LastModified: 2021-10-24 19:58
+Categories:
+- Équipement
+- Src Adventurers Armory
+---
+
+{s:cs}{s:AA}**Prix** 75 po ; **Poids** —
+<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+---
+Cette plaquette traitée se dissout en une pâte crayeuse lorsqu'elle est placée sous la langue et donne ensuite à l'utilisateur un soudain sursaut d'énergie. Il élimine les effets de la [fatigue](./Fatigué.md) pendant les 8 heures suivantes ; lorsque l'effet de la drogue prend fin, l'utilisateur est [épuisé](./Épuisé.md). La blanchenuit rend ses consommateurs nerveux et incapables de se concentrer ; ils subissent un malus de -2 à tous les tests de [compétence](./Compétences.md) jusqu'à ce que ses effets se dissipent.

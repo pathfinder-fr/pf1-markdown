@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Fléau des morts-vivants (paladin)
+Title: Fléau des morts-vivants
+LastModified: 2011-10-02 16:10
+Categories:
+- Classe
+- Manuel des joueurs, règles avancées
+- Règles officielles
+---
+
+{s:Menuarchétypepaladin}{s:APG}*Les morts-vivants sont des abominations aux yeux des justes et des vertueux. Il n’est donc pas surprenant de constater que certains paladins se dévouent entièrement à l’éradication de ces horreurs maudites.*
+
+Le fléau des morts-vivants possède les aptitudes de classe suivantes.
+
+#### Châtiment du Mal (Sur)
+Cette capacité fonctionne comme l’[aptitude de paladin de même nom](./Paladin.md#CHATIMENTDUMAL), si ce n’est que le fléau des morts-vivants n’inflige pas 2 points de dégâts par niveau lors de la première attaque réussie contre les [dragons](./type Dragon.md) et les [Extérieurs](./type Extérieur.md) maléfiques. Par contre, il inflige 2 points de dégâts par niveau lors de toutes les attaques de châtiment effectuées contre un [mort-vivant](./type Mort-vivant.md) Maléfique.
+
+#### Aura de vie (Sur)
+Au niveau 8, un fléau des [morts-vivants](./type Mort-vivant.md) irradie une aura de vie de 3 mètres (2 {s:c}) de rayon qui affaiblit les morts-vivants. Ces derniers subissent une pénalité de –4 aux jets de [Volonté](./Volonté.md) pour résister à l’énergie positive. De plus, l’énergie négative ne permet pas aux morts-vivants situés dans l’aura de récupérer des points de vie. Cette capacité remplace [Aura de fermeté](./Paladin.md#AURADEFERMETE).
+
+#### Éradication des morts-vivants (Sur)
+Au niveau 11, un fléau des morts-vivants peut, par une [action simple](./Action simple.md), sacrifier une utilisation de sa capacité de châtiment du Mal et porter une unique [attaque au corps à corps](./attaque au corps à corps.md) contre un mort-vivant. Si l’attaque touche, le mort-vivant doit réussir un jet de [Volonté](./Volonté.md) pour ne pas être détruit. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est égal à 10 + la moitié du niveau du fléau des morts-vivants + son modificateur de [Charisme](./Charisme.md).
+
+Les morts-vivants qui possèdent (au moins) deux fois plus de [dés de vie](./DV.md) que le fléau des morts-vivants ne sont pas affectés par cette capacité. Si l’attaque échoue, le châtiment du Mal est perdu et sans effet. Cette capacité remplace [Aura de justice](./Paladin.md#AURADEJUSTICE).

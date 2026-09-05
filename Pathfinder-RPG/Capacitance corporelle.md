@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Capacitance corporelle
+Title: Capacitance corporelle
+LastModified: 2022-06-12 00:48
+Categories:
+- Règle officielle
+- Sort
+- Sort alchimiste 1
+- Sort magicien 1
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:MCA}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>électricité<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, M](./composantes.md) (une bobine en fer)
+**Portée** personnelle
+**Cible** le lanceur de sorts
+**Durée** 1 minute/[niveau](./niveau.md) ou jusqu’à déchargement (cf. texte)
+
+Si le personnage reçoit des dégâts d’électricité alors que ce sort est actif, une partie de l’énergie est stockée dans sa peau, comme on maintient la charge pour un sort de contact. Le personnage peut libérer cette électricité stockée en effectuant une attaque de contact au corps à corps.
+
+Il bénéficie d’un bonus de +3 au jet d’attaque si son adversaire porte une armure en métal, manie une arme en métal ou est constitué de métal. La cible de cette attaque de contact reçoit un nombre de dégâts d’électricité égal à la moitié du nombre de dégâts d’électricité que le personnage a reçu après avoir lancé ce sort (par exemple, s’il a réussi un jet de sauvegarde pour réduire de moitié les dégâts d’un éclair et a reçu 15 points de dégâts d’électricité, il inflige 7 points de dégâts d’électricité sur son attaque de contact suivante). Ce sort est déchargé quand le personnage touche sa cible avec une attaque de contact au corps à corps et inflige les dégâts. S’il reçoit des dégâts d’électricité plusieurs fois alors que ce sort est actif, utilisez le nombre de dégâts d’électricité le plus important pour déterminer les dégâts de l’attaque de contact au corps à corps.

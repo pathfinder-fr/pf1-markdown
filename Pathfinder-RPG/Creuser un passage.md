@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Creuser un passage
+Title: Creuser un passage
+LastModified: 2026-03-28 20:14
+Categories:
+- Sort
+- Sort druide 5
+- Sort magicien 5
+- Src Inner Sea Races
+---
+
+{s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:cs}{s:ISR}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, F](./composantes.md) (une pioche miniature en diamant valant 500 po)
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 niveaux)
+**Zone d'effet** terre ou roche meuble dans jusqu'à un cube de 1.5 mètres/niveau
+**Durée** instantanée
+**Jet de sauvegarde** voir texte ; **Résistance à la magie** non
+
+Le personnage peut extraire et déplacer une quantité de neige, de terre, de poussière, de sable, de morceaux de glace ou de roche meuble ou compactée (chacun n'excédant pas 1.5 mètre de diamètre) dont le volume équivaut à un cube de 1.5 mètre d'arête par niveau. Si le personnage est enterré, il peut ouvrir un espace autour de lui et utiliser les cubes restants pour creuser un tunnel. Ce sort est autrement similaire à *[excavation expéditive](./Excavation expéditive.md)*. *Creuser un passage* n'a aucun effet sur les créatures de terre, la roche solide et la glace solide.

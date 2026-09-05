@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Protection contre la mort-vivance
+Title: Protection contre la mort-vivance
+LastModified: 2022-06-21 20:33
+Categories:
+- Règle officielle
+- Sort
+- Sort inquisiteur 5
+- Sort prêtre 5
+- Src Manuel des races
+---
+
+{s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}
+**École** [Nécromancie](./Nécromancie.md) ;
+**Niveau** [Inq](./Inquisiteur.md) 5, [Prê](./Prêtre.md) 5  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** une créature touchée  
+
+**Durée** 10 minutes/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+
+La cible devient résistante aux effets des attaques d’absorption d’énergie et d’absorption de sang portées par les créatures [mortes-vivantes](./type Mort-vivant.md), et ne peut pas être transformée en morte-vivante si elle est tuée alors que ce sort est actif.
+
+Si le nombre de dés de vies du mort-vivant qui l’attaque est inférieur ou égal au niveau de lanceur de sorts du lanceur, le mort-vivant doit faire un jet de [Vigueur](./Vigueur.md) (contre le [DD](./DD.md) du sort) à chaque attaque pour que ces capacités spéciales agissent. Le sort protège simplement contre l’affaiblissement temporaire de [Constitution](./Constitution.md) qu’inflige l’absorption de sang et contre les niveaux négatifs qu’inflige l’absorption d’énergie, mais pas contre les autres effets de ces attaques.

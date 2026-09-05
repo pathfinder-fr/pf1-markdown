@@ -1,0 +1,53 @@
+---
+Name: Pathfinder-RPG.Dunagh
+Title: Kami, Dunagh
+LastModified: 2023-12-20 17:03
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Dunagh|FP 4}
+{s:pucem|Extérieur|Ville|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.106*}
+{s:BDTexte|**PX** 1 200}
+{s:BDTexte|[Extérieur](./type Extérieur.md) ([intangible](./sous-type intangible.md), [kami](./sous-type kami.md), [natif](./sous-type natif.md)) de taille M, LN}
+{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à à 18 m ; [Perception](./Perception.md) +13}
+{s:BDTexte|**Aura** destin (6 m, DD 15)}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 16, contact 16, pris au dépourvu 13 (Dextérité +3, parade +3)}
+{s:BDTexte|**pv** 37 (5d10+10); [guérison accélérée](./Guérison accélérée (capacité).md) 2}
+{s:BDTexte|**Réf** +7, **Vig** +3, **Vol** +7}
+{s:BDTexte|**Capacités défensives** [intangible](./Intangible (capacité).md); **Immunités** saignement, effets mentaux des sorts, pétrification, métamorphose ; **Résistances** acide 10, froid 10, électricité 10, feu 10}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** [vol](./Vol (capacité).md) 9 m (parfaite)}
+{s:BDTexte|**Corps à corps** contact intangible, +8 (2d6 froid plus malédiction des dunagh)}
+{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +8)}
+{s:BDSorts|À volonté — *[manipulation à distance](./Manipulation à distance.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** -, **Dex** 17, **Con** 14, **Int** 11, **Sag** 17, **Cha** 16}
+{s:BDTexte|**BBA** +5 ; **BMO** +8 ; **DMD** 21}
+{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
+{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (folklore local) +8, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +13, [Vol](./Vol.md) +19}
+{s:BDTexte|**Langues** commun ; [télépathie](./Télépathie (capacité).md) 30 m}
+{s:BDTexte|**Particularités** fusion avec le pupille, pupille (foyer)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** urbain}
+{s:BDTexte|**Organisation** solitaire}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Aura du destin (Sur).** Une dunagh qui a fusionné avec son pupille ou qui se trouve à 36 mètres de lui ou moins, émet une aura du destin dans un rayon de 6 mètres. Tout ennemi baigné par cette aura et amené à lancer un d20 (comme pour un [jet d'attaque](./jet dattaque.md), un test de compétence ou un [jet de sauvegarde](./JDS.md)) en lance deux et conserve le pire résultat. Les alliés désignés par la dunagh et situés au sein de son aura lancent également 2d20 mais conservent le meilleur résultat. Il s’agit d’un effet mental affectant le moral qui ne peut agir contre les fées. La dunagh peut neutraliser et réactiver cette aura à volonté par une [action libre](./Action libre.md).}
+{s:BDTexte|**Malédiction des dunaghs (Sur).** Toute créature touchée par une dunagh doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 ou subir la malédiction des dunaghs. À chaque fois que la victime utilise un d20, chaque 20 obtenu au dé est considéré comme un 1. La créature maudite ne peut jamais faire 20. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) est basé sur le [Charisme](./Charisme.md).}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kamis](./Kami.md).***</li></ul>*Cette femme spectrale tient une urne d’argent et flotte dans les airs avec une grâce irréelle et une forte présence.*
+
+Les dunaghs, comme la plupart des kamis, sont des esprits protecteurs natifs du continent oriental. Contrairement aux autres membres de leur espèce, cependant, ils se sont attachés il y a bien longtemps à des caravanes qui se sont rendues dans la Calotte glaciaire avant de s’établir sur les Terres des rois des linnorms où on peut le plus souvent les trouver de nos jours. Attirées par la grande dévotion d’un clan ou d’une famille, les dunaghs sont les protectrices du foyer et veillent aussi bien sur la demeure de cette famille que sur ses occupants.
+
+La plupart des dunaghs préfèrent se montrer discrètes et vaquant à leurs occupations lorsque les habitants sont absents. Parfois, elles aident « leur » famille en rangeant la maison, en verrouillant les portes et en fermant les fenêtres laissées ouvertes quand il fait froid dehors.
+
+Quand une famille sur laquelle veille une dunagh s’éteint, la créature sombre dans une profonde déprime et reste dans le dernier lieu habité par ceux et celles sur lesquels elle veillait. Elle devient alors un esprit rancunier qui chasse quiconque tente de pénétrer ou de s’installer dans l’ancien foyer de ses protégés.
+
+Les dunaghs préfèrent fusionner avec leur pupille, mais quand elles apparaissent, elles prennent une apparence fantomatique proche de celles des personnes qu’elles protègent.
+</div></td></tr></table>

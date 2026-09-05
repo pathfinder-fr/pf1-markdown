@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.sous-type géant
+Title: Géant (sous-type)
+LastModified: 2011-01-09 13:32
+Categories:
+- Bestiaire
+- Monstre
+- Règles officielles
+---
+
+{s:MenuTypes}*Source : Bestiaire* p.313
+
+Les géants sont des humanoïdes dotés d’une grande force et appartenant généralement à une catégorie de taille supérieure ou égale à G. Ils possèdent des [DV](./DV.md) raciaux et ne les remplacent jamais par des niveaux de classe (contrairement à d’autres humanoïdes). Ils jouissent de la capacité de [vision nocturne](./vision nocturne.md) et [Intimidation](./Intimidation.md) et
+[Perception](./Perception.md) sont des compétences de classe pour eux.

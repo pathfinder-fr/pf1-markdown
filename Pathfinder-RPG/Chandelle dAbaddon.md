@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Chandelle dAbaddon
+Title: Chandelle d'Abaddon
+LastModified: 2024-06-15 15:19
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+<div class="BD">
+{s:BDTitre|Chandelle d'Abaddon|{s:BotD}}
+**Aura** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> puissante ; **NLS** 13 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 9 000 po ; **Poids** 500 g
+(((Description)))
+{s:cs}Fabriquée à partir d'une cire pâle d'un vert laiteux, modelée pour ressembler à une colonne d'âmes hurlantes et frappée du symbole impie d'une des Quatre Cavaliers, une *chandelle d'Abaddon* est une aubaine pour les lanceurs de sorts maléfiques, mais également pour quiconque souhaite convoquer ou interagir avec les daémons. Une fois allumée, elle dégage une lumière tamisée et inquiétante dans un rayon de 4,50 mètres qui ressemble à l'éclipse perpétuelle qui règne sur Abaddon. Cette bougie baisse le niveau de luminosité existant dans la zone à [lumière faible](./Exploration.md#VISIONLUMIERE) ; cet effet fonctionne comme un sort de 6e niveau du registre des [ténèbres](./Registre.md). Un lanceur de sorts se trouvant dans cette zone bénéficie d'un bonus de +2 au [niveau de lanceur de sorts](./NLS.md) lorsqu'il lance des sorts du registre du [Mal](./Registre.md). La lumière agit également comme un *[cercle magique contre le Mal](./cercle magique contre le Mal.md)*, mais uniquement contre les daémons. Dans la zone éclairée, la guérison naturelle ne fonctionnent pas et il faut réussir un test de niveau de lanceur de sorts DD 25 pour que les soins magiques fonctionnent normalement.
+
+Une bougie peut brûler pendant un maximum de 4 heures mais à chaque fois qu'on l'allume, son espérance de vie diminue d'au moins 10 minutes, même si la bougie a été allumé pendant moins de 10 minutes. Comme il est possible de l'éteindre simplement en soufflant la flamme, les utilisateurs la mettent souvent dans une lanterne pour la protéger des courants d'air et des intempéries, ce qui n'interfère en rien avec ses propriétés magiques.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[cercle magique contre le Mal](./cercle magique contre le Mal.md)*, *[profanation](./Profanation.md)*, le créateur doit être d'alignement Mauvais ; **Coût** 4 500 po
+</div>

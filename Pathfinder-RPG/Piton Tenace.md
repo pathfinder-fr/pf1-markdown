@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Piton Tenace
+Title: Piton tenace
+LastModified: 2024-06-07 16:33
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Piton tenace|{s:AE}}
+**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 100 po ; **Poids** 0,25 kg
+(((Description)))
+Ce piton en adamantium fait 15 cm de long. Par une [action simple](./Action simple.md), son possesseur peut le planter à la main dans un matériau non-vivant tel que le métal, la pierre ou le bois. Il peut l’enfoncer au travers de plusieurs objets, tant que l’épaisseur totale ne dépasse pas la longueur du piton. Une fois planté, celui-ci reste fermement en place comme s’il avait été planté à l’aide d’un marteau (jet de [Force](./Force.md) [DD](./DD.md) 20 pour le retirer). La créature qui l’a planté peut le retirer par une [action de mouvement](./Action de mouvement.md). Une fois déplanté, le piton ne laisse aucun trou ou signe de sa présence. Il peut supporter une charge de 250 kg. S’il est utilisé pour maintenir une porte close, augmentez le [DD](./DD.md) pour briser la porte de +2. S’il est coincé dans une serrure, cette dernière ne peut être ouverte à moins de retirer le piton. Une fois déplanté, la magie du piton disparaît et celui-ci devient un piton en fer ordinaire.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[verrou du mage](./Verrou du mage.md)*, *[réparation](./Réparation.md)*  ; **Coût** 50 po
+</div>

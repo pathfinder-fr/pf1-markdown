@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Sceptre de focalisation
+Title: Sceptre de focalisation
+LastModified: 2024-05-28 19:38
+Categories:
+- Objet mag sceptre
+- Src Aventures occultes
+---
+
+<div class="BD">
+{s:BDTitre|Sceptre de focalisation|{s:AO}}
+**Aura** modérée, pas d'école ; **NLS** 10 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 5 000 po ; **Poids** 0,5 kg
+(((Description)))
+Une fois par jour, un [occultiste](./Occultiste.md) en possession d’un sceptre de focalisation peut transférer sa [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) en utilisant son aptitude de [transfert de focalisation](./Occultiste.md#TRANSFERTDEFOCALISATION) sans perdre de points de focalisation. Il peut transférer des points de focalisation d’un instrument vers le sceptre, puis du sceptre vers un autre instrument, en y consacrant deux fois plus de temps que celui normalement nécessaire pour effectuer le transfert (car il effectue deux transferts). L’[occultiste](./Occultiste.md) doit transférer les points de focalisation stockés dans le sceptre en l’espace de 10 minutes s’il ne veut pas les perdre.  
+
+Si un occultiste fait du sceptre de focalisation l’un de ses instruments pour la journée en cours, il peut, à la place, utiliser son pouvoir pour transférer des points de focalisation dans le sceptre et les laisser dans l’objet ou transférer les points de focalisation déjà stockés dans le sceptre vers un autre instrument. Dans un cas comme dans l’autre, aucun point de focalisation n’est perdu lors du transfert et le personnage doit y consacrer le temps normal, et non deux fois plus de temps. Si le sceptre de focalisation n’est pas l’un des instruments de l’[occultiste](./Occultiste.md) pour la journée en cours, les points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) stockés dans le sceptre restent inutilisables tant qu’ils n’ont pas été transférés vers un instrument.  
+
+Tous les points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) transférés dans le sceptre appartiennent toujours à l’[occultiste](./Occultiste.md) qui les a transférés. Le sceptre ne peut pas être utilisé pour transférer des points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) entre deux utilisateurs.
+(((Création)))
+**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), le créateur doit être un [occultiste](./Occultiste.md) de niveau 10 au moins ; **Prix** 2 500 po
+</div>

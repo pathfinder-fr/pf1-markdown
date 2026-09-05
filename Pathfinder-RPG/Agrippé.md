@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Agrippé
+Title: Agrippé
+LastModified: 2025-01-14 19:24
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Agrippé

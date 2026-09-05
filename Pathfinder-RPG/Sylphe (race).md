@@ -1,0 +1,152 @@
+---
+Name: Pathfinder-RPG.Sylphe (race)
+Title: Les sylphes
+LastModified: 2025-01-15 18:14
+Categories:
+- Race
+- Src Manuel des races
+---
+
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Sylphe.md) d'un style standard.***
+
+Enfants des descendants d’humains et d’êtres élémentaires de l’air comme les djinns, les sylphes sont une race timide et solitaire consumée par une intense curiosité. Ils passent leur vie à se fondre dans la foule pour passer inaperçus tandis qu’ils épient et écoutent les gens qui les entourent. Ils définissent ce passe-temps comme « l’écoute du vent » et il est devenu, pour nombre d’entre eux, une obsession. Les sylphes comptent sur le caractère compétent et calculateur de leur intellect et sur les connaissances qu’ils glanent en écoutant aux portes pour échapper au danger.
+
+**Description physique.** Les sylphes sont généralement pâles et minces au point de paraître délicats, mais leur corps gracile est souvent plus résistant qu’il n’en a l’air. Beaucoup peuvent facilement passer pour des humains avec un petit effort, mais les rosaces bleues compliquées qui couvrent leur peau trahissent leur ascendance élémentaire. Les sylphes portent également des signes plus subtils de leur héritage, comme une légère brise qui les suit où qu’ils aillent. Ces signes sont plus marqués lorsque le sylphe est sujet à une passion ou à une colère intense, des bourrasques de vent spontanées ébouriffant ses cheveux ou des souffles chauds arrachant de petits objets à leurs étagères.
+
+**Société.** Les sylphes naissent généralement de parents humains et sont donc élevés selon les coutumes humaines. La plupart d’entre eux n’apprécient pas l’attention qui leur est portée lorsqu’ils grandissent dans les sociétés humaines, il n’est donc pas rare qu’ils quittent leur foyer peu de temps après leur majorité. Mais il est rare qu’ils abandonnent complètement la civilisation, préférant trouver une nouvelle ville ou un nouveau village où ils pourront passer inaperçus aux yeux des foules (et les épier). Un sylphe tombant par hasard sur un autre sylphe passé inaperçu développera aussitôt une obsession pour son confrère : il l’épiera et en apprendra autant que possible sur lui. Le sylphe ne se présentera à l’autre qu’après avoir soigneusement pesé le pour et le contre et établi un plan pour prévoir toutes les issues potentielles. Il est rare que deux sylphes découvrent en même temps la présence l’un de l’autre au sein d’une communauté. Il s’ensuit, après cela, une sorte de jeu du chat et de la souris, une danse tortueuse au cours de laquelle chacun des deux sylphes épie l’autre, chacun essayant de prendre l’avantage sur l’autre. Les sylphes qui se rencontrent ainsi deviennent toujours d’inséparables amis ou des ennemis jurés.
+
+**Relations.** Les sylphes adorent se mêler des affaires des autres races, mais n’éprouvent pas l’envie de s’associer véritablement à la plupart d’entre elles. Ils peuvent, dans une certaine mesure, s’entendre avec les elfes qui ont la même tendance à se montrer distants, mais ils gâchent souvent toute relation possible en violant le concept d’intimité de ces derniers. Les nains se méfient profondément des sylphes, qu’ils considèrent comme des êtres frivoles et Sylphes indignes de confiance. Ils forment d’excellents partenariats avec les halfelins et se reposent sur le courage de ces petites créatures ainsi que sur la capacité de ce peuple à dissimuler leurs propres défauts. Les sylphes s’amusent de l’agacement qu’ils provoquent chez les ifrits et trouvent les oréades trop ennuyeux pour leur accorder une réelle attention.
+
+**Alignement et religion.** Les sylphes ne s’intéressent guère aux lois et aux traditions, ce genre de restrictions interdisant souvent toutes les choses qu’ils adorent (la manipulation et le secret). Ceci ne signifie pas que les sylphes s’opposent à la loi, simplement qu’ils recourent aux moyens les plus pratiques à leur disposition pour mener leurs objectifs à bien, qu’ils soient légaux ou non. La plupart des sylphes sont donc généralement d’alignement Neutre. Ils sont naturellement attirés par les cultes mystérieux et par les divinités du secret, du voyage ou du savoir.
+
+**Aventuriers.** Le besoin inné des sylphes à aller au fond des choses conduit nombre d’entre eux à vivre une vie d’aventurier. Un sylphe qui tombe sur la piste d’un mystère ne trouvera pas le repos tant qu’il n’aura pas découvert jusqu’au dernier indice, suivi chaque piste et découvert le coeur même du problème. Ces sylphes se font beaucoup d’ennemis en fouinant dans les affaires des autres et s’en remettent souvent à leurs talents de roublard ou de magicien pour se défendre.
+
+**Noms masculins.** Akaash, Eydan, Hanuum, Siival, Vasaam.
+**Noms féminins.** Inam, Keeya, Lissi, Nava, Radaya, Téna.
+
+{s:Reference|TRAITSSTANDARDS}
+### Traits raciaux standards
+<div class="presentation arrondi ombre espaceliste">
+- **+2 en [Dextérité](./Dextérité.md), +2 en [Intelligence](./Intelligence.md), -2 en [Constitution](./Constitution.md).** Les sylphes sont vifs et perspicaces, mais minces et délicats.
+- **Extérieur natif.** Les sylphes sont des [extérieurs](./type Extérieur.md) de sous-type [natif](./sous-type natif.md).
+- **Taille M.** Les sylphes sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les sylphes ont une [vitesse de base](./VD.md) de 9 mètres.
+- **Vision dans le noir.** Les sylphes [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
+- **Pouvoir magique.** Les sylphes peuvent utiliser *[feuille morte](./Feuille morte.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) 1/jour ([niveau de lanceur de sorts](./NLS.md) égal au niveau de personnage du sylphe).
+- **Résistance élémentaire.** Les sylphes ont une [résistance](./Résistance (capacité).md) de 5 à l’électricité.
+- **Affinité avec l’air.** Les [ensorceleurs](./Ensorceleur.md) sylphes de [lignage élémentaire (air)](./lignage Élémentaire.md) considèrent leur valeur de [Charisme](./Charisme.md) comme supérieur de 2 points pour tous les sorts et pouvoirs magiques de l’ensorceleur. Les lanceurs de sorts sylphes du [domaine de l’Air](./Domaine de lAir.md)  utilisent leurs pouvoirs et sorts de domaine à un niveau de lanceur de sorts augmenté de +1.
+- **Langues.** Les sylphes commencent le jeu en parlant le commun et l’aérien. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aquatique, elfique, gnome, halfelin, igné, nain et terreux.
+
+</div>
+
+{s:Reference|TRAITSALTERNATIFS}
+### Traits raciaux alternatifs
+{s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux sylphes standard, mais consultez d’abord votre MJ.
+
+<u>*Remplace « affinité avec l'air » :*</u>
+- **Intuition des airs.** Les lanceurs de sorts sylphes découvrent parfois que leur héritage élémentaire fait que les créatures de l’air sont plus disposées à les servir. Les sorts *[convocation de monstres](./Convocation de monstres I.md)* et *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* durent 2 rounds de plus que la normale lorsqu’ils les utilisent pour convoquer des créatures de sous-type [Air](./sous-type Air.md). Ce trait racial remplace affinité avec l’air.
+- **Tempête dans le sang.** Un sylphe ayant ce trait racial gagne [guérison accélérée 2](./Guérison accélérée (capacité).md) pendant 1 round chaque fois qu’il reçoit des dégâts d’électricité (que ces dégâts passent sa résistance à l’électricité ou non). Il peut récupérer jusqu’à 2 [points de vie](./pv.md) par niveau par jour avec cette capacité, après quoi elle cesse de fonctionner. Ce trait racial remplace affinité avec l’air.
+- **Baiser du vent.** La brise semble suivre la plupart des sylphes où qu’ils aillent, mais certains peuvent contrôler les vents mieux que d’autres. Un sylphe ayant ce trait racial s’entoure de vents tourbillonnants et gagne ainsi un bonus racial de +2 à la [CA](./CA.md) contre les attaques à distance non-magiques. Le sylphe peut apaiser ou relancer ces vents par une [action rapide](./Action rapide.md). Une fois par jour, il peut canaliser ce vent en une bourrasque pour tenter une manoeuvre offensive de [bousculade](./bousculade.md) ou de [croc-en-jambe](./croc-en-jambe.md) contre une créature située dans un rayon de 9 mètres. Qu’il réussisse ou non, les vents s’épuisent et ne lui donnent plus de bonus à la CA pendant 24 heures. Il s’agit d’une [capacité surnaturelle](./Capacités spéciales.md). Ce trait racial remplace affinité avec l’air.
+
+<u>*Remplace « extérieur natif » et « langues » :*</u>
+- {s:cs}{s:ISR}**Presque humain.** Quelques ifrits, ondins, oréades, sulis et sylphes ont une apparence bien plus proche de celle de leurs ancêtres humains ; en fait, il peuvent même ne pas se rendre compte de leur véritable race. De tels descendants de génie paraissent humains, à l'exception de quelques caractéristiques mineures comme une couleur d'yeux inhabituelle, et comptent comme des [humanoïdes](./type Humanoïde.md) ([humain](./sous-type humain.md)) aussi bien que des [extérieurs](./type Extérieur.md) ([natif](./sous-type natif.md)) en toute circonstance (y compris pour les sorts qui affectent les humanoïdes comme *[charme-personne](./Charme-personne.md)* ou *[agrandissement](./Agrandissement.md)*). Ces descendants de génie ne savent pas automatiquement parler leur langue élémentaire associée (mais peuvent l'apprendre grâce à une valeur d'[Intelligence](./Intelligence.md) élevée). Ce trait racial remplace le type, le sous-type et les langues des descendants de génie.
+
+<u>*Remplace « pouvoir magique » :*</u>
+- **Murmure du vent.** Certains sylphes sont particulièrement menus, comme s’ils étaient constitués d’air davantage que de chair. Ceux qui ont ce trait racial gagnent un bonus racial de +4 à leurs tests de [Discrétion](./Discrétion.md). Ce trait racial remplace celui de pouvoir magique.
+- **Parle-ciel.** Les sylphes ayant ce trait racial se sentent une affinité avec les créatures de l’air et peuvent utiliser *[communication avec les animaux](./Communication avec les animaux.md)* une fois par jour pour parler aux oiseaux ou autres [animaux](./type Animal.md) qui volent. Leur [niveau de lanceur de sorts](./NLS.md) pour ces effets est égal à leur niveau. Ce trait racial remplace celui de pouvoir magique.
+- **Flair climatique.** Certains sylphes sont en telle harmonie avec l’air et le ciel qu’ils peuvent percevoir les changements de condition atmosphérique les plus subtils. Ceux qui ont ce trait racial peuvent dépenser une [action complexe](./Action complexe.md) pour prédire le climat d’une zone pendant 24 heures. Ces prédictions sont toujours précises, mais ne peuvent pas prendre en compte les sorts ou effets surnaturels qui pourraient altérer la météo. Ce trait racial remplace celui de pouvoir magique.
+
+<u>*Remplace « pouvoir magique » et « résistance élémentaire » :*</u>
+- {s:cs}{s:ISR}**Énigmatique.** Certains sylphes bénéficient d'un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets de [divination](./école divination.md) et d'[enchantement](./Enchantement.md). Ce trait racial remplace pouvoir magique et résistance élémentaire.
+
+<u>*Remplace « résistance élémentaire » :*</u>
+- **Résilience assourdissante.** Les sylphes ayant ce trait racial gagnent une [résistance](./Résistance (capacité).md) de 5 au son. Ce trait racial remplace résistance élémentaire.
+- **Comme le vent.** Un sylphe ayant ce trait racial gagne un bonus de +1,5 mètre à sa [vitesse de base](./VD.md). Ce trait racial remplace résistance élémentaire.
+
+
+### Bonus alternatifs de classe de prédilection
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+
+Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
+
+Enfin, à chaque fois que le personnage les choisit, nombre d’avantages alternatifs ajoutent seulement +1/2, +1/3, +1/4 ou +1/6 (au lieu de +1) à un jet ou à une aptitude de classe (comme un ajout au nombre de rages sanguines quotidiennes du sanguin ou au total de points de panache du bretteur). Quand le personnage applique cet avantage à un jet de dé, il arrondit toujours à l’inférieur (0 au minimum). Il devra donc en choisir certains à plusieurs reprises avant d’en tirer le moindre bénéfice.
+
+Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
+
+<table width="100%"><tr><td width="49%">
+{s:MR}**[Druide](./Druide.md).** Le druide rajoute un bonus de +1/2 à ses tests de [Connaissances](./Connaissances.md) (nature) relatifs au climat et aux [animaux](./type Animal.md) volants.
+
+{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un pouvoir du [lignage djinn](./lignage Djinn.md) ou [élémentaire (air)](./lignage Élémentaire.md) qu’il peut utiliser. Il considère son niveau de classe comme supérieur de +1/6 (jusqu’à un maximum de +2) quand il s’agit de déterminer les effets de ce pouvoir.
+
+{s:MR}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur rajoute un bonus de +1/2 à ses tests de [Discrétion](./Discrétion.md) lorsqu’il est immobile ainsi qu'à ses tests opposés de [Perception](./Perception.md).
+
+{s:MR}**[Magicien](./Magicien.md).** Le magicien choisit un [pouvoir d'école](./Magicien.md#ECOLEDEMAGIE) des écoles élémentaires de l’[air](./Air (école).md) ou du [bois](./Bois (école).md) qu’il peut utiliser. Il considère son niveau de classe comme supérieur de +1/6 (jusqu’à un maximum de +2) quand il s’agit de déterminer les effets de ce pouvoir.
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124" width="1%"></td>
+</td><td width="49%">
+{s:MR}**[Oracle](./Oracle.md).** L'oracle rajoute un bonus de 1/6 à son niveau d'oracle afin de déterminer les effets d'une [révélation](./Oracle.md#REVELATION).
+
+{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre rajoute un bonus de 1/2 à ses jets de [Connaissances](./Connaissances.md) (plans) relatifs au Plan de l'Air et aux créatures avec le sous-type [Air](./sous-type Air.md).
+
+{s:MR}**[Roublard](./Roublard.md).** Le roublard rajoute un bonus de 1/2 à ses jets d'[Acrobaties](./Acrobaties.md) pour sauter, ainsi qu'un bonus de 1/2 à ses jets de [Psychologie](./Psychologie.md).
+
+{s:MR}**[Sorcière](./Sorcière.md).** La sorcière rajoute un bonus de 1/2 aux jets de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md) effectués par son [familier](./Sorcière.md#FAMILIERDELASORCIERE). Si le sylphe remplace son familier, le nouveau familier bénéficie également de ces bonus de compétences.
+</td></tr></table>
+
+### Nouvelles règles raciales
+Voici les options accessibles aux sylphes, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
+
+#### Dons
+{| CLASS="tablo centre autoalt toutgauche"
+
+|- CLASS="titre"
+| WIDTH="25%" | Dons
+| WIDTH= "6%" | Source
+| WIDTH="25%" | Conditions
+| WIDTH="44%" | Avantages
+
+|- CLASS="premier"
+| [Contemplateur des nuages](./Contemplateur des nuages.md) || <sup>MR</sup> || [Sylphe](./Sylphe (race).md) || Voit à travers les brumes, les brouillards et les nuages
+
+|- CLASS="premier"
+| [Flot des éléments](./Flot des éléments.md) || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
+
+|- CLASS="premier"
+| [Frappe élémentaire](./Frappe élémentaire.md) || <sup>*ISR*</sup> || [Ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Inflige +1 dégât de l'énergie liée à la race du personnage
+
+|- CLASS="premier"
+| [Pas aérien](./Pas aérien.md) || <sup>MR</sup> || [Sylphe](./Sylphe (race).md) || +2 aux jets de sauvegarde contre les effets d'air et l'électricité, ignore 9 m de hauteur lors d'une chute
+|-
+| &emsp;[Ailes de vent](./Ailes de vent.md) || <sup>MR</sup> || [Sylphe](./Sylphe (race).md), [Pas aérien](./Pas aérien.md), niveau 9 || Bonus aux jets de sauvegarde contre les effets d'air et d'électricité, gain d'une vitesse de vol surnaturelle
+
+|- CLASS="premier"
+| [Souffle intérieur](./Souffle intérieur.md) || <sup>MR</sup> || [Sylphe](./Sylphe (race).md), niveau 11 || Le personnage n'a plus besoin de respirer
+|}
+
+<table width="100%"><tr><td width="49%">
+#### Archétypes de classe
+- [Druide du ciel (druide)](./Druide du ciel (druide).md) *(MR)*
+- [Témoin des vents (magicien)](./Témoin des vents (magicien).md) *(MR)*
+
+#### Équipement
+- [Cape-aile](./Cape-aile (objet).md) *(MR)*
+- [Souffle élémentaire](./Souffle élémentaire (objet).md) *(MR)*
+
+</td><td width="1%">
+<td style="border-left:1px solid #4b3124;width=" width="1%"></td>
+</td><td width="49%">
+#### Objets magiques
+- [Rafale de nuages (propriété d'armure)](./rafale de nuages (propriété).md) *(MR)*
+- [Élixir d’exhalation impérieuse](./Élixir dexhalation impérieuse.md) *(MR)*
+
+#### Sorts
+- [Forme du nuage](./Forme du nuage.md) *(MR)*
+- [Forme miasmatique](./Forme miasmatique.md) *(MR)*
+- [Fuite aérienne](./Fuite aérienne.md) *(MR)*
+- [Inhalation absorbante](./Inhalation absorbante.md) *(MR)*
+- [Lames de vent](./Lames de vent.md) *(MR)*
+- [Maîtrise élémentaire](./Maîtrise élémentaire.md) *(ISR)*
+- [Sphère de bourrasques](./Sphère de bourrasques.md) *(MR)*
+- [Voie des vents](./Voie des vents.md) *(MR)*
+
+</td></tr></table>

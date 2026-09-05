@@ -1,0 +1,63 @@
+---
+Name: Pathfinder-RPG.Caligni
+Title: Obscurien, Caligni
+LastModified: 2023-12-16 00:26
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Caligni|FP 1/2}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 5 p.194*}
+{s:BDTexte|**PX** 200}
+Caligni roublard 1
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type-obscurien.md)) de taille M, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [vision dans les ténèbres](./Vision dans les ténèbres (capacité).md) ; [Perception](./Perception.md) +3}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (armure +2, Dex +3)}
+{s:BDTexte|**pv** 12 (1d8+4)}
+{s:BDTexte|**Réf** +5, **Vig** +3, **Vol** -1}
+{s:BDTexte|**Faiblesses** sensible à la lumière}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m}
+{s:BDTexte|**Corps à corps** épée courte, +1 (1d6+1/19-20)}
+{s:BDTexte|**Distance** fléchette, +3 (1d4+1)}
+{s:BDTexte|**Attaques spéciales** attaque sournoise +1d6, dernier sursaut}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 13, **Dex** 17, **Con** 16, **Int** 10, **Sag** 8, **Cha** 10}
+{s:BDTexte|**BBA** +0 ; **BMO** +1 ; **DMD** 14}
+{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +4, [Connaissances](./Connaissances.md) (exploration souterraine) +4, [Déguisement](./Déguisement.md) +4, [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +5, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +3}
+{s:BDTexte|**Langues** commun, obscurien}
+{s:BDTexte|**Particularités** recherche de pièges +1}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** sous terre}
+{s:BDTexte|**Organisation** solitaire, famille (2-4) ou communauté d’obscuriens (2-4 plus 20‑40 autres obscuriens)}
+{s:BDTexte|**Trésor** équipement de PNJ (épée courte, fléchettes [10], armure de cuir, outils de cambrioleur, autres trésors)}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**Dernier sursaut (Sur).** Quand un caligni est tué, son corps brûle en produisant une explosion de lumière ardente. Toutes les créatures situées dans un rayonnement de 1,50 mètre doivent chacune réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + 1/2 dés de vie du caligni + bonus de [Constitution](./Constitution.md) du caligni) pour ne pas être hébétées pendant 1d4 [rounds](./round.md). La taille du cadavre du caligni est réduite à un tiers de celle d’origine. Il est flétri et il est impossible d’identifier l’individu à qui il correspond. Un rappel à la vie ou des sorts similaires lancés sur ce cadavre permettent de ramener normalement un caligni à la vie.}
+{s:BDTexte|**Sensible à la lumière.** Les calignis sont [éblouis](./Ébloui.md) dans les zones de [lumière vive](./Exploration.md#VISIONLUMIERE).}
+{s:BDTexte|**Vision dans les ténèbres (Sur).** Les calignis voient parfaitement dans les ténèbres en tous genres, y compris les ténèbres profondes.}
+</div></td>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [obscuriens](./obscurien.md).***</li></ul>*Sous ses vêtements en lambeaux, on distingue la peau crayeuse et plus sombre aux extrémités de cet humanoïde mince.*
+
+Le nom « caligni » est un ancien terme utilisé par les races collectivement appelées obscuriens aujourd’hui. Certaines communautés d’obscuriens l’utilisent encore pour se désigner eux-mêmes. Il y a un nombre incalculable de générations, ces habitants souterrains aspiraient à poursuivre de grands projets et auraient pu y parvenir sans la dégénération planifiée et imposée par les [owbs](./Owb.md), leurs contrôleurs (Bestiaire 4 Pathfinder JdR p. 202). Mais même encore aujourd’hui, des obscuriens ressemblent parfois, de façon troublante et depuis leur naissance, aux anciens que les traqueurs obscurs imitent toujours. Si l’on se réfère à l’époque antérieure à la corruption imposée par les owbs, ces individus, simplement appelés « caligni », descendent probablement d’une quelconque race d’obscuriens et sont, pour leur peuple, le témoignage de leurs rêves à moitié oubliés.
+
+La naissance d’un caligni est un signe capital célébré par de nombreux obscuriens. Et pourtant, il n’est pas rare qu’un adolescent caligni menace les clans-castes de la société obscurienne ou offense un suzerain owb. Par conséquent, la plupart des calignis n’atteignent pas l’âge adulte au sein de la société obscurienne. Certains sont victimes d’accidents douteux ou d’assassinats mystérieux. Les calignis les plus malins anticipent la trahison des leurs et partent en quête d’une demeure ailleurs dans l’Ombreterre. Ceux-là se servent de leurs compétences apprises auprès d’autres obscuriens pour satisfaire leurs besoins ou ceux d’alliés moins fourbes.
+
+Les calignis mesurent près de 1,80 mètre pour un poids de 65 kilos seulement. On les confond souvent avec les traqueurs obscurs, même si leur morphologie est souvent plus détaillée et chaque individu plus facilement reconnaissable sous leurs épais vêtements. Leur peau grise et décolorée devient aussi sombre que l’obsidienne aux extrémités. Les calignis vieillissent au même rythme que les demi-elfes et ne donnent généralement pas naissance à d’autres calignis, mais à d’autres membres plus ordinaires d’obscuriens, le plus souvent des fureteurs obscurs.
+
+La plupart des aventuriers calignis deviennent roublards ou tueurs, en suivant l’entraînement de leurs frères traqueurs et fureteurs obscurs. Certains deviennent alchimistes et les plus pervers communient avec les owbs en tant qu’invocateurs ou magiciens spécialistes de l’invocation.
+
+### Personnages calignis
+Les calignis se définissent par leurs niveaux de classe – ils ne possèdent pas de dés de vie raciaux. Tous les calignis possèdent les traits raciaux suivants.
+- **+2 en Dextérité, +2 en Constitution, -2 en Intelligence.** Les calignis sont rapides et résistants, mais des générations d’isolement et d’oppression ont fait d’eux des individus lents à accepter de nouvelles idées.
+- **Vitesse normale.** Les calignis ont une vitesse de base de 9 mètres.
+- **Vision dans les ténèbres.** Voir le profil ci-contre.
+- **Sensible à la lumière.** Voir le profil ci-contre.
+- **Dernier sursaut.** Voir le profil ci-contre.
+
+</div></td></tr></table>

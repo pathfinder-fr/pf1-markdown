@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.arme exotique
+Title: arme exotique
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Caractéristiques des armes#ARMEEXOTIQUE

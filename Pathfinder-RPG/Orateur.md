@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Orateur
+Title: Orateur
+LastModified: 2016-06-22 23:59
+Categories:
+- Don
+- Manuel des Classes avancées
+- Règles officielles
+---
+
+{s:mca} *Le personnage est capable de mettre au point des argumentations et des instructions bien plus convaincantes que leur contenu ne pourrait le laisser entendre.*
+
+**Conditions.** [Talent](./Talent.md) ([Linguistique](./Linguistique.md)).
+
+**Avantage.** Le personnage peut faire un test de [Linguistique](./Linguistique.md) plutôt qu’un test de [Bluff](./Bluff.md) pour faire croire un mensonge ou dissimuler des informations, plutôt qu’un test de [Diplomatie](./Diplomatie.md) pour altérer l’attitude d’une créature, ou plutôt qu’un test d’[Intimidation](./Intimidation.md) pour forcer une créature à coopérer. Il doit proférer son discours dans une langue que la cible comprend.

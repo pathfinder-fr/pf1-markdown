@@ -1,0 +1,29 @@
+---
+Name: Ressources.Feu bleu
+Title: Feu bleu
+LastModified: 2020-04-27 17:41
+Categories:
+- Règles maison
+---
+
+<div style="float:right"><sub>*Proposé par Faenil*</sub>  
+
+*Retour à l'[index des règles maison](./RM Index.md).*  
+
+*Voir aussi les [.Outils alchimiques](./../Pathfinder-RPG/Outils alchimiques.md).*  
+
+</div><div class="BD">
+
+
+{s:BDTitre|Feu bleu|}
+**Aura** Non magique ; **Emplacement** — ; **Prix** 5 po ; **Poids** 500 g
+(((Description)))
+Cette substance ne peut se retrouver que dans des endroits dont la température se trouve perpétuellement sous 0°C. Il s’agit d’une gelée bleue, conservée dans des flasques à l’abri de l’air et élaborée par les alchimistes à partir de microorganismes phosphorescents. Elle est particulièrement utilisées par des créatures du froid pouvant voir dans les lieux faiblement éclairés, comme par exemple les géants du givre.{br}
+Dans une bouteille en verre et scellée, elle produit autant de lumière qu’une bougie ([éclairage](./Pathfinder-RPG-Exploration-ashx.md#VISIONLUMIERE) faible dans un rayon de 1,5 m) sans jamais s’arrêter. {br}
+Une fois en contact avec l’air, cette substance produit une lumière diffuse correspondant à un éclairage faible dans un rayon de 6m. Cette lumière fonctionne durant cinq jours. Une flasque d’un demi-litre est suffisante pour créer quatre points de lumières ponctuels, ou une ligne de 6 m. {br}
+Un alchimiste peut utiliser un catalyseur simple (via un jet d’[alchimie](./../Pathfinder-RPG/Artisanat.md) DD 10) pour accélérer le phénomène. Dès lors, il n’est possible d’allumer ainsi un seul point lumineux avec un demi-litre de cette substance qui se met à produire d’étranges flammes bleues et froides éclairant autant qu'une torche. La réaction consomme l’intégralité de la substance en six heures. Ces flammes peuvent infliger 1D6 dégâts de froids aux créatures vulnérables au froid (généralement, les créatures du sous-type du feu), mais elles ne font quasiment aucun mal aux autres. {br}
+Si cette substance est emmenée dans un endroit plus chaud que 5 °C, elle perd rapidement sa consistance gélatineuse et ses propriétés.
+
+(((Fabrication)))
+**Conditions** [alchimie](./../Pathfinder-RPG/Artisanat.md) DD 17, les créatures ayant le sous type froid bénéficient d'un bonus de +2 pour cette création.
+</div>

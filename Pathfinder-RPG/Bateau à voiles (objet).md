@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Bateau à voiles (objet)
+Title: Bateau à voiles
+LastModified: 2023-11-09 22:19
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10.000 po ; **Passage (1,5 km)** 2 pa
+<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+---
+{s:Desambi|Cet objet était nommé "Navire de haute mer" dans le <u>Manuel des joueurs</u>.}Ce grand navire adapté à la haute mer mesure de 22,50 à 27 mètres de long, 6 mètres de large et accueille un équipage de 20 personnes. Il peut transporter 150 tonnes de marchandises. Il est pourvu de deux mâts à voiles carrées et peut effectuer des voyages en mer. Il se déplace à environ 3,2 km/h.

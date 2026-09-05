@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.école divination
+Title: Divination
+LastModified: 2026-01-12 20:52
+Categories:
+- Redirection
+- Sort chaman 4
+- Sort inquisiteur 4
+- Sort médium 3
+---
+
+>>> Présentation des sorts#DIVINATION

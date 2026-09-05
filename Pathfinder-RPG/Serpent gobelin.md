@@ -1,0 +1,51 @@
+---
+Name: Pathfinder-RPG.Serpent gobelin
+Title: Serpent gobelin
+LastModified: 2026-04-26 01:45
+Categories:
+- Src Bestiaire 3
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Serpent gobelin|FP 1}
+{s:pucem|Aberration|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 3*}
+{s:BDTexte|**PX** 400}
+{s:BDTexte|[Aberration](./type Aberration.md) de taille P, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
+{s:BDTexte|**pv** 13 (2d8+4)}
+{s:BDTexte|**Réf** +2, **Vig** +2, **Vol** +4}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c}), nage 6 m (4 {s:c}), creusement 1,5 m (1 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d4+3)}
+{s:BDTexte|**Attaques spéciales** souffle de gobelin}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 14, **Dex** 15, **Con** 14, **Int** 9, **Sag** 12, **Cha** 13}
+{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**Dons** [Fente](./Fente.md), [Talent](./Talent.md) ([Bluff](./Bluff.md))}
+{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +6, [Connaissances](./Connaissances.md) (folklore local) +3, [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +5}
+{s:BDTexte|**Langues** commun, gobelin}
+{s:BDTexte|**Particularités** empathie avec les serpents +7}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** souterrains et marais}
+{s:BDTexte|**Organisation sociale** solitaire, couple, équipe (3-12 plus 1-6 [serpents venimeux](./Serpent venimeux.md))}
+{s:BDTexte|**Trésor** normal}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Souffle de gobelin (Ext)** Une fois tous les 1d4 rounds, le serpent gobelin peut projeter un crachat répugnant. Toute créature qui se trouve à moins d'1,50 mètre du serpent doit réussir un jet de [Vigueur](./Vigueur.md) DD 13 ou être fiévreuse pendant 1d6 rounds. Le DD du jet de sauvegarde est lié à la [Constitution](./Constitution.md). Une créature qui réussit son jet de sauvegarde ne peut plus être affectée par le souffle de ce serpent gobelin pendant 24 heures. Un sort de *[ralentissement](./Ralentissement du poison.md)* ou de *[neutralisation du poison](./Neutralisation du poison.md)* guérit une créature affectée. Les créatures immunisées au poison ne sont pas affectées et celles qui résistent au poison bénéficient de leur bonus habituel pour ce jet de sauvegarde.}
+{s:BDTexte|**Empathie avec les serpents (Ext)** Ce pouvoir fonctionne comme le pouvoir d'[empathie sauvage](./empathie sauvage.md) du druide, sauf qu'il permet au serpent gobelin de communiquer verbalement avec les serpents et les reptiles similaires et de s'en faire comprendre. Les serpents gobelins ont un bonus racial de +4 à ces tests. Son bonus de base est égal à ses dés de vie raciaux.}
+</div>
+</td><td><div>*Le corps de ce serpent noir aux écailles graisseuses, se termine par une tête de gobelin, grise, dépourvue de lèvres mais dotée de crochets de serpent.*
+
+Brutes et prédateurs entêtés, les serpents gobelins sont des créatures violentes, impulsives et toujours affamées. Mais lorsque leur roublardise instinctive prend le dessus, ces créatures démentes font preuve de toute la discrétion et de toute la ruse meurtrière des serpents associées au caractère destructeur et capricieux des gobelins.
+
+Égoïstes et cruels, les serpents gobelins ne se soucient que de leur prochain repas et se laissent aller à leur arrogance injustifiée. Comme les gobelins, ils peuvent facilement manger l’équivalent de leur poids chaque jour, mais les serpents gobelins sont aussi paresseux et plus enclins à se contenter d’un repas facile plutôt qu’à faire des efforts pour l’obtenir. En conséquence, ils mangent presque tout ce qui est à leur portée et facile d’accès, qu’il s’agisse de charognes ou de déchets (auxquels ils doivent leur haleine épouvantable). Les serpents gobelins adorent la viande fraîche mais ils préfèrent de loin que d’autres la leur apportent plutôt que d’aller chasser et tuer eux-mêmes.
+
+Appréciant la compagnie des serpents, les serpents gobelins sont souvent accompagnés de plusieurs petits serpents venimeux dont ils se servent pour protéger leurs repaires et pour augmenter leurs réserves de nourriture. Ils sont extrêmement jaloux des nagas dont ils envient la majesté serpentine et la maîtrise de la magie. On sait que certains serpents gobelins habiles et audacieux se font passer pour des nagas et demandent des tributs et de la nourriture aux créatures naïves qui redoutent les prétendues capacités magiques de ces « nagas ». Certains érudits ont noté quelques similitudes mineures entre les serpents gobelins et les nagas et sont allés jusqu’à supposer que les serpents gobelins étaient peut-être une espèce particulièrement faibles de naga, une théorie que la plupart des nagas n’apprécient pas du tout.
+
+Bien que les serpents gobelins ne soient pas aussi intelligents que les gobelins, leur apparence terrifiante leur permet de tenir des positions exagérément importantes au sein de la société gobeline. Les gobelins craintifs s’inclinent généralement devant ces bêtes, attitude qui flatte l’arrogance naturelle et le complexe de supériorité des serpents gobelins. Les serpents gobelins affiliés aux tribus gobelines traitent souvent leurs compagnons gobelins au mieux comme des serviteurs, au pire comme des esclaves.
+
+Les serpents gobelins partagent les mêmes sentiments que les gobelins : ils ont peur des chevaux (qui pourraient facilement piétiner et écraser un serpent gobelin imprudent) et adorent le feu (même si, sans bras, ils ont peu de chances de déclencher des incendies). En revanche, ils ne sont pas aussi superstitieux. Les serpents gobelins qui en ont l’opportunité s’adonnent volontiers à la magie et il n’est pas rare pour un serpent gobelin ayant des niveaux de classe d’adepte, de prêtre, d’oracle ou d’ensorceleur de faire office de chaman ou de grand prêtre au sein d’une tribu gobeline.
+</div></td></tr></table>

@@ -1,0 +1,131 @@
+---
+Name: Pathfinder-RPG.Drow
+Title: Drow
+LastModified: 2024-01-14 23:14
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Drow|FP 1/3}
+{s:pucem|Humanoïde|Souterrain|tempéré}
+{s:BDTexte|*Source : Bestiaire p.118*}
+{s:BDTexte|**PX** 135}
+{s:BDTexte|Drow [homme d'armes](./Homme darme.md) 1}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([elfe](./sous-type elfe.md)) de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) (36 m (24 {s:c})) ; [Perception](./Perception.md) +2}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (armure +2, bouclier +1, Dex +2)}
+{s:BDTexte|**pv** 5 (1d10)}
+{s:BDTexte|**Réf** +2, **Vig** +2, **Vol** -1 ; +2 contre les enchantements}
+{s:BDTexte|**Immunités** sommeil ; **RM** 7 }
+{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** rapière, +3 (1d6/18-20)}
+{s:BDTexte|**Distance** arbalète de poing, +3 (1d4/19-20 et poison)}
+{s:BDTexte|**Pouvoirs magiques** (NLS 1<sup>er</sup>)}
+{s:BDSorts|1/jour — *[lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[ténèbres](./Ténèbres.md)*}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 11, **Dex** 15, **Con** 10, **Int** 10, **Sag** 9, **Cha** 10}
+{s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 13}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2, [Perception](./Perception.md) +2 ; **Modificateurs raciaux** [Perception](./Perception.md) +2}
+{s:BDTexte|**Langues** commun des profondeurs, elfique}
+{s:BDTexte|**Particularités** utilisation des poisons}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** souterrain}
+{s:BDTexte|**Organisation sociale** couple, escouade (3-4), patrouille (5-8) ou groupe de combat (10-40)}
+{s:BDTexte|**Trésor** équipement de PNJ (arbalète de poing avec 20 carreaux, armure de cuir, poison drow <nowiki>[</nowiki>2 doses<nowiki>]</nowiki>, rapière, rondache en acier, 3d6 po, autres trésors)}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Utilisation des poisons (Ext).** Les drows sont maîtres dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner par accident. Ils optent généralement pour une toxine qui rend les victimes inconscientes, un poison qui facilite la capture d'esclaves. *Poison drow* - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/minute pendant 2 minutes ; *effet principal* [inconscience](./Inconscient.md) pendant 1 minute ; *effet secondaire* [inconscience](./Inconscient.md) pendant 2d4 heures ; *guérison* 1 réussite.}
+
+{s:ImageDroite|Bestiaire/Drow.jpg|90%}
+</div></td>
+<td><div>><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de drow
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Capitaine de la maison drow](./Capitaine de la maison drow.md) || 6
+|-
+| [Champion démoniaque drow](./Champion démoniaque drow.md) || 9
+|-
+| [Drow](./Drow.md) || 1/3
+|-
+| [Drow noble](./Drow noble.md) || 3
+|-
+| [Éclaireur drow](./Éclaireur drow.md) || 1
+|-
+| [Empoisonneur drow](./Empoisonneur drow.md) || 11
+|-
+| [Garde de la maison drow](./Garde de la maison drow.md) || 2
+|-
+| [Maître éclaireur drow](./Maître éclaireur drow.md) || 7
+|-
+| [Matrone drow](./Matrone drow.md) || 15
+|-
+| [Prêtresse drow](./Prêtresse-drow.md) || 5
+|}
+</div>*Cet elfe à la peau noire adopte une posture martiale. Ses cheveux sont couleur d’argent et ses yeux, blancs et dénués de pupilles.*
+
+Si les drows appartiennent à la famille des elfes, ils ne sont, au mieux,
+que des cousins dépravés et maléfiques. Ces créatures rusées qu’on
+appelle parfois elfes noirs hantent les grottes et les tunnels du monde
+souterrain où ils dirigent de larges cités enfouies en employant la
+peur et la force. Les drows, qui vénèrent des démons et réduisent en
+esclavage la plupart des races qu’ils rencontrent, figurent parmi les
+habitants du monde souterrain les plus craints et les plus haïs.
+
+Les drows sont un peu plus petits et plus minces que leurs cousins
+de la surface mais, à part cela, ils possèdent un physique similaire. La
+coloration sombre de leur peau va du noir au pourpre pâle. La plupart
+d’entre eux ont des cheveux blancs ou argentés et des yeux blancs ou
+rouges (mais on rencontre parfois d’autres couleurs).
+
+La société des drows est gouvernée par des [drows nobles](./Drow noble.md) puissants eux-mêmes
+dirigés par des matrones sadiques et dangereuses qui ne
+cessent de comploter et de mettre sur pied des machinations visant les
+maisons rivales ou les autres membres de leur famille. La majorité des
+drows sont des soldats de base ou des citoyens décadents et possèdent
+les caractéristiques présentées ci-dessus.
+
+Au combat, les drows se montrent terriblement impitoyables et ne
+connaissent ni la pitié ni l’honneur. Ils préfèrent tendre des embuscades
+ou attirer leurs ennemis dans des situations qui leur seront défavorables.
+Si le combat tourne mal pour les drows, ils n’hésiteront pas à fuir et à
+utiliser des esclaves ou des sbires pour retenir leurs adversaires.
+
+#### Les drows en tant que PJ
+
+Les drows ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont :
+- **+2 Dextérité, +2 Charisme, -2 Constitution.** Les drows sont agiles et manipulateurs.  
+
+- **Apprentissage martial.** Les drows sont formés à l'utilisation des arbalètes de poing, des épées courtes et des rapières.  
+
+- **Aveuglés par la lumière.** Un drow exposé de manière abrupte à la lumière est [aveuglé](./Aveuglé.md) pendant 1 round. Au cours des rounds suivants, il reste [ébloui](./Ébloui.md) tant qu'il demeure dans la zone affectée.  
+
+- **Immunités des drows.** Les drows sont immunisés contre les effets magiques de sommeil et bénéficient d'un bonus racial de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts d'[enchantement](./Enchantement.md).  
+
+- **Pouvoirs magiques.** Les drows peuvent lancer *[lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)* et  *[ténèbres](./Ténèbres.md)* une fois par jour chacun, avec un [NLS](./NLS.md) égal à leur niveau total.  
+
+- **Résistance à la magie.** Les drows possèdent une [résistance à la magie](./RM.md) égale à 6 + leur niveau de classe.  
+
+- **Sens aiguisés.** Les drows bénéficient d'un bonus racial de +2 aux tests de [Perception](./Perception.md).  
+
+- **Taille M.** Les drows sont des créatures de [taille](./taille.md) M, ce qui ne leur apporte ni bonus ni malus.  
+
+- **Utilisation des poisons.** Voir description ci-dessus.  
+
+- **Vision dans le noir.** Les drows peuvent voir dans le noir jusqu'à 36 m (24 {s:c}).  
+
+- **Vitesse normale.** La vitesse de déplacement de base des drows est de 9 m (6 {s:c}).  
+
+- **Langues.** Les drow parlent automatiquement le commun des profondeurs et l'elfe. S'ils disposent d'une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : abyssal, aklo, aqueux, commun, draconique, gnome, gobelin et langue signée des drows.
+
+{s:VoirAussiAvant}La page de la race [Drow](./Drow (race).md){s:VoirAussiAprès}
+</div></td></tr></table>

@@ -1,0 +1,43 @@
+---
+Name: Pathfinder-RPG.Mur de feu
+Title: Mur de feu
+LastModified: 2022-06-17 22:29
+Categories:
+- Règle officielle
+- Sort
+- Sort adepte 4
+- Sort chaman 5
+- Sort conjurateur 3
+- Sort druide 5
+- Sort magicien 4
+- Sort magus 4
+- Sort occultiste 4
+- Sort sanguin 4
+- Src Manuel des joueurs
+---
+
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau**  [Cham](./Chaman.md) 5, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 4, [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Occ](./Occultiste.md) 4, [San](./Sanguin.md) 4  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M/FD](./composantes.md) (un peu de phosphore)  
+
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+
+**Effet** rideau de feu opaque long de 6 m (4 {s:c})/[niveau](./niveau.md) ou anneau de feu d’un diamètre de 1,50 m (1 {s:c})/2 [niveaux](./niveau.md) ; dans les deux cas, 6 m de hauteur  
+
+**Durée** [concentration](./Présentation des sorts.md#DUREE) + 1 [round](./round.md)/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui
+
+Un rideau immobile de flammes violettes se constitue au terme de l’incantation. Un côté du mur, choisi par le personnage, dégage une importante chaleur infligeant 2d4 points de dégâts de feu à toutes les créatures situées à 3 m (2 {s:c}) ou moins des flammes, et 1d4 points à celles se trouvant entre 3 et 6 m (2 à 4 {s:c}) de distance. Le mur inflige ces dégâts lorsqu’il apparaît et à chaque [round](./round.md) où un individu se trouve dans la zone d’effet du sort au tour du personnage. De plus, il inflige 2d6 points de dégâts de feu, +1 par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (jusqu’à un maximum de +20) à tous les personnages qui le traversent. Ces dégâts sont doublés pour les [morts-vivants](./type Mort-vivant.md).
+
+Si le personnage fait apparaître le mur à l’endroit où se trouvent une ou plusieurs créatures, ces dernières subissent des dégâts identiques à la traversée des flammes. Si une portion de mur de 1,50 m (1 case) de large subit au moins 20 points de dégâts de froid en 1 [round](./round.md), elle disparaît (on ne divise pas par quatre les dégâts infligés par le froid, comme cela est normalement le cas pour les objets).
+
+On peut user de *[permanence](./Permanence.md)* sur un sort de *mur de feu*. Un *mur de feu* permanent soufflé par des dégâts de froid est inactif pendant dix minutes, puis redevient parfaitement opérationnel.
+
+### Mythique
+{s:CMy}
+Les dégâts infligés par le mur s’élèvent à 2d6 points de dégâts de feu aux créatures situées à 3 mètres ou moins, 1d6 points de dégâts de feu à celles situés entre 3 et 6 mètres et 2d8 points de dégâts de feu + 1 point de dégâts de feu par [niveau de lanceur de sorts](./NLS.md) (+20 maximum) aux créatures qui le traversent. Les créatures qui traversent le mur (et celles qui se trouvent à 1,50 mètre ou moins de celui-ci au moment de sa création) doivent réussir un jet de [Réflexes](./Réflexes.md) pour ne pas prendre feu. Pour éteindre le feu, il faut réussir un test avec le même [DD](./DD.md) que le jet de sauvegarde contre le sort.
+
+**[Amplifié](./Amplifié.md) (5ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut déplacer le mur de 1,50 mètre dans la direction de son choix par une [action de mouvement](./Action de mouvement.md) pendant son tour. Le déplacement du mur dans un obstacle ininflammable (tel qu’un mur de pierre) détruit la partie du mur qui chevauche l’obstacle.

@@ -1,0 +1,39 @@
+---
+Name: Pathfinder-RPG.Jeune dragon noir
+Title: Dragon chromatique, Jeune dragon noir
+LastModified: 2023-02-17 14:26
+Categories:
+- Redirection
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Jeune dragon noir|FP 7}
+{s:pucem|Dragon|Marais|Tropical}
+{s:BDTexte|*Source : Bestiaire p.100.*}
+{s:BDTexte|**PX** 3.200}
+{s:BDTexte|[Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md)) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [sens draconiques](./sens draconiques.md) ; [Perception](./Perception.md) +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (Dex +2, naturelle +9)}
+{s:BDTexte|**pv** 76 (8d12+24)}
+{s:BDTexte|**Réf** +8, **Vig** +9, **Vol** +7}
+{s:BDTexte|**Immunités** acide, paralysie, sommeil }
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 18 m (12 {s:c}), nage 12 m (8 {s:c}), vol 45 m (30 {s:c}) (moyenne)}
+{s:BDTexte|**Corps à corps** morsure, +13 (1d8+6), 2 griffes, +12 (1d6+4), 2 ailes, +7 (1d4+2)}
+{s:BDTexte|**Attaques spéciales** souffle ([ligne](./ligne.md) de 18 m (12 {s:c}), DD 17, 6d6 acide)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 19, **Dex** 14, **Con** 17, **Int** 10, **Sag** 13, **Cha** 10}
+{s:BDTexte|**BBA** +8, **BMO** +12, **DMD** 24 (28 contre [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Vigilance](./Vigilance.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +16, [Dressage](./Dressage.md) +8, [Intimidation](./Intimidation.md) +11, [Natation](./Natation.md) +23, [Perception](./Perception.md) +14, [Vol](./Vol.md) +13}
+{s:BDTexte|**Langues** draconique}
+{s:BDTexte|**Particularités** communication avec les reptiles, déplacement facilité (marais), [respiration aquatique](./Respiration aquatique.md)}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons chromatiques](./dragon chromatique.md).***</li><li>***Voir la description des [dragons noirs](./Dragon noir.md).***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
+</div>
+
+{s:ImageDroite|Bestiaire/Dragon noir.jpg|90%}
+
+</td></tr></table>

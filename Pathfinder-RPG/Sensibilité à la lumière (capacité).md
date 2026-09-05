@@ -1,0 +1,10 @@
+---
+Name: Pathfinder-RPG.Sensibilité à la lumière (capacité)
+Title: Sensibilité à la lumière (Ext)
+LastModified: 2010-11-09 15:01
+---
+
+Les créatures sensibles à la lumière sont [éblouies](./Ébloui.md) lorsqu’elles sont exposées à une lumière vive comme
+celle du soleil ou celle produite par un sort de *[lumière du jour](./Lumière du jour.md)*.
+
+*Format :* sensibilité à la lumière. *Emplacement :* Faiblesses.

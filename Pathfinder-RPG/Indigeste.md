@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Indigeste
+Title: Indigeste
+LastModified: 2023-02-21 18:32
+Categories:
+- Monstre
+- Src Bestiaire 5
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Indigeste|FP 1/4}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+{s:BDTexte|*Source : [Bestiaire 5 p.155](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|**PX** 100}
+{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille TP, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
+{s:BDTexte|**pv** 9 (2d8)}
+{s:BDTexte|**Réf** +1, **Vig** +0, **Vol** +1}
+{s:BDTexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** acide 5}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m, escalade 6 m, nage 6 m}
+{s:BDTexte|**Corps à corps** morsure, +3 (1d3-3 plus 1 acide)}
+{s:BDTexte|**Espace occupé** 75 cm ; **Allonge** 0 m}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 4, **Dex** 12, **Con** —, **Int** 3, **Sag** 9, **Cha** 11}
+{s:BDTexte|**BBA** +1 ; **BMO** +0 ; **DMD** 7 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>S</sup>, [Talent](./Talent.md) (Perception)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +9, [Perception](./Perception.md) +6}
+{s:BDTexte|**Langues** commun (incapable de parler)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** tous}
+{s:BDTexte|**Organisation** solitaire ou meute (2-5)}
+{s:BDTexte|**Trésor** aucun}
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes d'indigeste
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Indigeste](./Indigeste.md) || 1/4
+|-
+| [Nuée d'indigestes](./Nuée dindigestes.md) || 5
+|}
+</div>*Un mélange d’os et de fragments de crâne à demi-liquéfiés flotte dans une gelée jaune et brune.*
+
+Les indigestes forment une bouillie animée, un mélange de morceaux d’humanoïde impossibles à assimiler. Ils apparaissent quand une immense créature engloutit sa proie vivante puis succombe à une magie nécromantique révoltante. Les souffrances endurées lors de son agonie lui arrachent une étincelle de conscience primitive qui s’en va animer les vestiges humanoïdes gélatineux encore présents dans son estomac. Ces restes se transforment alors en un mort-vivant visqueux, avide de digérer à son tour autrui. Si la créature assassinée digérait plusieurs créatures, ce phénomène donne naissance à une nuée d’indigestes. Un indigeste est un prédateur implacable qui chasse en embuscade. Il ondule et rampe dans les zones sombres du monde, en quête de nourriture.
+</div></td></tr></table>

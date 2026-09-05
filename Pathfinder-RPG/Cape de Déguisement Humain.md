@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Cape de Déguisement Humain
+Title: Cape de déguisement humain
+LastModified: 2024-06-01 16:14
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Armes et équipement
+- Src Manuel des races
+---
+
+{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:Desambi|Cet objet est apparu dans le [Manuel des races](./Manuel des races (Contenu).md) sous le nom "Cape d'apparence humaine".}<div class="BD">
+{s:BDTitre|Cape de déguisement humain|{s:MR}{s:AE}}
+**Aura** [Illusion](./Illusion.md) faible ; **NLS** 1 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 900 po ; **Poids** 0,5 kg
+(((Description)))
+Cette cape toute simple sert seulement aux individus appartenant à une race semi-humaine, comme les [demi-orques](./Demi-orque.md) ou les [demi-elfes](./Demi-elfe.md). Elle modifie l’apparence de son utilisateur comme un [couvre-chef de déguisement](./Couvre-chef de déguisement.md), mais uniquement en cachant ou en modifiant ses caractéristiques non humaines, de façon à le faire passer pour un humain de sang pur. Il conserve les traits qui ne dépareraient pas sur un [humain](./Humain.md). Par exemple, un demi-orque qui porte cette cape perd sa teinte de peau grise ou verdâtre et ses oreilles pointues, voit ses défenses disparaître et ressemble à une version humaine de sa personne. De même, les demi-elfes qui portent la cape ont des oreilles rondes, des yeux humains et aucun trait qui indique leur origine elfique. Le propriétaire de la cape n’a aucun contrôle sur le déguisement et ceux qui le fréquentent sous son apparence normale peuvent le reconnaître sous son apparence humaine.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[déguisement](./sort Déguisement.md)* ; **Coût** 450 po
+</div>

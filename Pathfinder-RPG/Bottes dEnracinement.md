@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Bottes dEnracinement
+Title: Bottes d’enracinement
+LastModified: 2024-05-31 23:06
+---
+
+<div class="BD">
+{s:BDTitre|Bottes d’enracinement|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 8 000 po ; **Poids** 1 kg
+(((Description)))
+Plus le porteur de ces bottes reste longtemps au même endroit (sur la terre ferme) et plus il sera difficile de l’en déloger. Il gagne un bonus de circonstance cumulatif de +1 au [DMD](./DMD.md) pour chaque [round](./round.md) pendant lequel il reste dans la même case (+10 maximum).
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[corps élémentaire I](./Corps élémentaire I.md)* ; **Coût** 4 000 po
+</div>

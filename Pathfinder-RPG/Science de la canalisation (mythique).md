@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Science de la canalisation (mythique)
+Title: Science de la canalisation (mythique)
+LastModified: 2018-07-20 23:49
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Le personnage est un intermédiaire sans pareil du pouvoir divin.*
+
+**Condition.** [Science de la canalisation](./Science de la canalisation.md)
+
+**Avantage.** Les créatures [non-mythiques](./non-mythiques.md) qui subissent des dégâts infligés par la canalisation d’énergie du personnage doivent effectuer deux jets de sauvegarde et conserver le pire.

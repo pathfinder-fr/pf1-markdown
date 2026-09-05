@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Maître des morts-vivants (mythique)
+Title: Maître des morts-vivants (mythique)
+LastModified: 2018-07-21 00:16
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Grâce à sa nature mythique effrayante, le personnage règne sans partage sur les morts-vivants.*
+
+**Condition.** [Maître des morts-vivants](./Maître des morts-vivants.md)
+
+**Avantage.** Lorsqu’il lance animation des morts ou utilise le don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), le personnage ajoute son [grade](./Grade.md) à son niveau de lanceur de sorts pour déterminer le nombre de dés de vie de morts-vivants animés. Cet effet se cumule avec le niveau de lanceur de sorts augmenté par le don [Maître des morts-vivants](./Maître des morts-vivants.md). Lorsqu’il lance [animation des morts](./Animation des morts.md), la durée du sort est triplée au lieu d’être doublée.

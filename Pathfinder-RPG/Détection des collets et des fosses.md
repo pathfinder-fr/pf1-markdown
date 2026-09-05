@@ -1,0 +1,40 @@
+---
+Name: Pathfinder-RPG.Détection des collets et des fosses
+Title: Détection des collets et des fosses
+LastModified: 2022-06-12 14:33
+Categories:
+- Règle officielle
+- Sort
+- Sort druide 1
+- Sort occultiste 1
+- Sort rôdeur 1
+- Src Manuel des joueurs
+---
+
+**École** [Divination](./Divination.md) ; **Niveau** [Dru](./Druide.md) 1, [Occ](./Occultiste.md) 1, [Rôd](./Rôdeur.md) 1  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 18 m (12 {s:c})  
+
+**Zone d'effet** [émanation](./émanation.md) en forme de cône  
+
+**Durée** [concentration](./Présentation des sorts.md#JETSDESAUVEGARDE), jusqu’à 10 minutes/[niveau](./niveau.md) (T)  
+
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Grâce à *détection des collets et des fosses*, le lanceur de sorts peut repérer les fosses, les poids en équilibre prêts à tomber sur toute personne passant sous eux, les collets ainsi que les pièges mécaniques fabriqués à partir de matériaux naturels. Il ne permet pas de repérer les pièges complexes comme des trappes cachés par exemple.
+
+Il met en évidence certains dangers naturels comme les sables mouvants (qui entrent dans la catégorie des collets), les trous dans le sol (fosses) et les amas de rochers menaçant de tomber (poids en équilibre) mais il ne révèle cependant pas les autres situations potentiellement dangereuses. Le sort ne repère pas les pièges magiques (sauf ceux qui fonctionnent comme une fosse, un collet ou un poids en équilibre ; voir le sort de *[collet](./Collet.md)*), ni les pièges mécaniques complexes, ni ceux qui ont été désamorcés ou rendus inactifs.
+
+Les informations révélées par le sort dépendent du temps que le personnage passe à étudier la zone :
+
+Premier [round](./round.md) : présence ou absence de pièges.
+
+Deuxième [round](./round.md) : nombre de pièges et l’emplacement de chacun d’eux. Si un piège se trouve hors du champ de vision du lanceur de sort, il apprend la direction dans laquelle il se trouve mais pas sa position exacte.
+
+Chaque [round](./round.md) supplémentaire : catégorie générale et mode de déclenchement d’un piège spécifique examiné attentivement par le lanceur de sort.
+
+Le personnage peut pivoter sur lui-même pour examiner une nouvelle zone chaque [round](./round.md). Le sort fonctionne à travers les barrières si celles-ci ne sont pas trop épaisses : il est bloqué par 30 cm de pierre, 2,5 cm de métal, une mince feuille de plomb ou 90 cm de bois ou de terre.

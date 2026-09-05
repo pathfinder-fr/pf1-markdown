@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Parchemin planaire
+Title: Parchemin planaire
+LastModified: 2024-06-15 23:36
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Parchemin planaire|{s:UI}}
+**Aura** [Évocation](./Évocation.md) et [Invocation](./Invocation.md) modérées ; **NLS** 11 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 18 000 po ; **Poids** 0,5 kg
+(((Description)))
+{s:cs}Ressemblant à du papier ordinaire, un *parchemin planaire* est utilisé lors de négociations avec des [extérieurs](./type Extérieur.md) via des sorts comme *[allié d'outreplan](./Allié doutreplan.md)* ou *[contrat intermédiaire](./Contrat intermédiaire.md)*. L'utilisation du parchemin dans le cadre des négociations confère à l'utilisateur un bonus de +2 au test de [Charisme](./Charisme.md) pour contraindre l'extérieur appelé si un tel test est nécessaire.
+
+Un *parchemin planaire* offre une certaine autonomie aux extérieurs appelés pour des missions plus longues via *[allié d'outreplan](./Allié doutreplan.md)*. L'utilisation du *parchemin planaire* passe le temps de service d'un *allié d'outreplan* de 1 jour par [niveau de lanceur de sorts](./NLS.md) à 1 semaine par niveau de lanceur de sorts pour les tâches de longue durée (sans augmenter le coût du paiement que l'extérieur exige). Un extérieur dont la durée de service a été augmentée de cette manière n'est pas lié au plan sur lequel il a été appelé. Une fois les négociations terminées, il peut retourner sur son plan d'origine, mais il est toujours tenu d'accomplir les services qu'il a accepté d'accomplir.
+
+Que l'extérieur ait été appelé via une magie d’*[allié d'outreplan](./Allié doutreplan.md)* ou de *[contrat intermédiaire](./Contrat intermédiaire.md)*, il maintient toujours un lien avec le *parchemin planaire* pour la durée de son service. Tout écrit ajouté au parchemin est instantanément transmis à l'extérieur lié, comme avec *[communication à distance](./Communication à distance.md)* (sans risque d'échec si l'extérieur se trouve sur un autre plan). Ces écrits disparaissent du parchemin 1 heure après avoir été inscrits.
+
+Enfin, une fois qu'un extérieur est forcé à servir par un *parchemin planaire*, le parchemin est inscrit d'un symbole visible uniquement par la créature qui a effectué la négociation, ou par la *[vision lucide](./Vision lucide.md)*. La lecture de cette écriture est une [action complexe](./Action complexe.md), semblable à la lecture d'un [parchemin magique](./Parchemins magiques.md). Lire cet écrit à haute voix convoque immédiatement l'extérieur lié à l'endroit où se trouve le parchemin.
+
+Un *parchemin planaire* ne peut être utilisé que pour une seule négociation, et se transforme ensuite en un morceau de parchemin non magique.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[communication à distance](./Communication à distance.md)*, *[contrat intermédiaire](./Contrat intermédiaire.md)* ; **Coût** 9 000 po
+</div>

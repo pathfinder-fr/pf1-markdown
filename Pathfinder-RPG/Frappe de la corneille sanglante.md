@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Frappe de la corneille sanglante
+Title: Frappe de la corneille sanglante
+LastModified: 2023-08-03 17:29
+Categories:
+- Règle officielle
+- Sort
+- Sort prêtre 4
+- Src Art de la magie
+---
+
+{s:UM}
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki>; **Niveau** [Prê](./Prêtre.md) 4  
+
+**Temps d’incantation** 1 round  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+
+**Cible** une créature  
+
+**Durée** [instantanée](./instantanée.md)  
+
+**Jet de sauvegarde** non; **Résistance à la magie** oui
+
+Les attaques à mains nues du personnage libèrent des décharges d'énergies qui prennent la forme de traits de feu ou de corneilles à l'éclat rouge qui s'envolent immédiatement pour frapper la cible du personnage. Ce dernier peut faire une attaque à mains nues ou un [déluge de coups](./Moine.md#DELUGEDECOUPS) contre la cible comme si elle se trouvait dans la zone qu'il menace. Chaque attaque réussie inflige les mêmes dégâts que l'attaque à mains nues mais se divise pour moitié en dégâts de feu et pour moitié en dégâts d'énergie négative (cette dernière ne guérit pas les morts-vivants). Par exemple un [moine](./Moine.md) de [niveau](./niveau.md) 14 peut utiliser [déluge de coups](./Moine.md#DELUGEDECOUPS) pour attaquer 5 fois. Il crée une corneille par attaque réussie contre la cible et chacune inflige 2d6 points de dégâts (plus les modificateurs applicables à l'attaque à mains nues).
+
+### Mythique
+{s:CMy}
+On considère que le personnage possède le don [Science du critique](./Science du critique.md) (combat à mains nues) lorsqu’il combat à mains nues par le biais de ce sort. Appliquez le [grade](./Grade.md) du personnage plus son niveau de [moine](./Moine.md) (le cas échéant) pour déterminer les dégâts des coups à mains nues qu’il inflige par le biais de ce sort. Les dégâts de feu produits par le sort ignorent les résistances au feu.

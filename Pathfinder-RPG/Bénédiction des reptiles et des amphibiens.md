@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Bénédiction des reptiles et des amphibiens
+Title: Bénédiction des reptiles et des amphibiens
+LastModified: 2024-12-11 00:28
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Contact squameux *(mineur)*
+Au niveau 1, le personnage peut toucher un allié par une [action simple](./Action simple.md) pour le doter d’écailles de reptile. Pendant 1 minute, l’allié gagne un bonus d’altération de +1 à son [armure naturelle](./CA.md). Au niveau 5 et tous les 5 niveaux par la suite, ce bonus augmente de +1 (jusqu’à un maximum de +5 au niveau 20).
+
+#### Crochet de serpent *(majeur)*
+Au niveau 10, le personnage peut, par une action simple]], se doter de crochets à venin pendant 1 minute. Ces crocs confèrent une attaque de morsure qui inflige 1d4 points de dégâts pour un prêtre combattant de taille M (1d3 pour un prêtre combattant de taille P). Si cette attaque touche, elle inocule également à l’adversaire touché un venin incapacitant. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de ce poison est égal à 10 + la moitié du niveau de prêtre combattant du personnage + son modificateur de [Constitution](./Constitution.md).
+
+<div class="BD">
+{s:BDTitre|Venin de serpent (Ext)}
+- **Type** poison, blessure ; **JDS** Vigueur (DD 10 + 1/2 niveau de prêtre combattant du personnage + son modificateur de Constitution)  
+- **Fréquence**  1/round pendant 4 rounds  
+- **Effet** 1d2 [Constitution](./Constitution.md) ; **Guérison** 1 réussite
+
+</div>

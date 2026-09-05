@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Sablier de la Dernière Chance
+Title: Sablier de la dernière chance
+LastModified: 2024-06-15 15:35
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Sablier de la dernière chance|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) et [Invocation](./Invocation.md) modérées ; **NLS** 11 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 10 000 po ; **Poids** —
+(((Description)))
+Ce minuscule sablier est rempli de sable rouge sang. Le sable coule dans un sens seulement et sa magie s’active lorsqu’on le retourne. Pendant une durée limitée, il confère à une créature ciblée située à 9 mètres ou moins une *[liberté de mouvement](./Liberté de mouvement.md)* (comme le sort du même nom) et suspend les états préjudiciables suivants : [aveuglement](./Aveuglé.md), [confusion](./Confus.md), [hébétement](./Hébété.md), [éblouissement](./Ébloui.md), [assourdissement](./Assourdi.md), maladie, [épuisement](./Épuisé.md), [fatigué](./Fatigué.md), *[débilité](./Débilité.md)*, *[aliénation mentale](./Aliénation mentale.md)*, [nausée](./Nauséeux.md), poison, [fièvre](./Fiévreux.md) et [étourdissement](./Étourdi.md). Ces effets sont suspendus et non dissipés, ils réapparaissent lorsque le sablier est désactivé ou lorsque le temps imparti s’est écoulé. Cette période de suspension n’est pas défalquée de la durée des effets suspendus. Une [action rapide](./Action rapide.md) suffit pour mettre fin aux effets du sablier. Celui-ci peut être utilisé pendant une durée maximale de 5 [rounds](./round.md) avant que sa magie ne se disparaisse. Ces rounds ne sont pas nécessairement consécutifs.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[liberté de mouvement](./Liberté de mouvement.md)*, *[guérison suprême](./Guérison suprême.md)* ; **Coût** 5 000 po
+</div>

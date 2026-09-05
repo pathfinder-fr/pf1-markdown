@@ -1,0 +1,42 @@
+---
+Name: Pathfinder-RPG.Attaque éclair
+Title: Attaque éclair
+LastModified: 2024-06-29 00:50
+Categories:
+- Don
+- Don combat
+---
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#4) Attaque éclair : Puis-je utiliser Attaque éclair pour porter une attaque depuis la case d’un allié ?***
+
+Utilisons un diagramme d’un couloir de 1,5m de largeur pour nous aider à visualiser cette question. Les points sont des cases vides. A est le personnage qui agit. Les nombres sont des alliés de A. X est le monstre.
+
+• • • • • A 1 2 3 X
+
+En utilisant le diagramme comme modèle, la question est : « Puis-je utiliser <u>[Attaque éclair](./Attaque éclair.md)</u> pour me déplacer de A à 3, porter une attaque sur le monstre depuis la case de 3, puis retourner à A et finir mon tour ? »
+
+La réponse est « oui ». La clé pour comprendre cela est la règle générale : « Il est impossible de s’arrêter dans l’espace occupé par une créature si elle n’est pas sans défense ». [Attaque éclair](./Attaque éclair.md) est une action complexe ; ce n’est pas une action de mouvement, puis une attaque, puis une autre action de mouvement. C’est un unique mouvement continu au milieu duquel une attaque est portée. Ainsi, avec Attaque éclair le personnage ne termine pas son mouvement tant qu’il ne s’arrête pas pour le tour.
+
+Pour le voir d’une autre façon, si le personnage voulait simplement se déplacer de A à 3 puis retourner à A, ce serait un mouvement légal puisqu’il ne termine pas son mouvement sur 3, il s’arrête de retour à A. Avec Attaque éclair, le personnage ne termine pas non plus son mouvement sur 3 ; le don lui donne la capacité de porter une attaque pendant ce mouvement continu de A à 3 à A (que cette attaque arrive alors qu’il est sur une case occupée ou non).
+
+(Même avec une vitesse de 4,5m, un personnage se déplaçant de 4,5m de A à 3 puis de 4,5m de 3 à A ne termine pas son mouvement sur 3...utiliser une action de mouvement pour se déplacer de 4,5m puis une action simple pour se déplacer de 4,5m n’implique pas qu’il s’arrête à mi-distance dans son mouvement pour changer d’actions.)}*Le personnage peut s’approcher d’un adversaire, le frapper et battre en retraite avant que ce dernier n’ait le temps de réagir.*
+
+**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+
+**Conditions.** [Dex](./Dextérité.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [bonus de base à l’attaque](./BBA.md) de +4.
+
+**Avantage.** Par une action complexe, le personnage peut se déplacer à sa [vitesse de base](./vitesse de déplacement.md) et faire une attaque de corps à corps sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md) de la part de sa cible. Il peut se déplacer avant et après l’attaque, mais il doit parcourir au moins trois mètres avant d’attaquer et la distance parcourue au total ne doit pas dépasser sa [vitesse de base](./vitesse de déplacement.md). Le personnage ne peut pas utiliser ce don pour attaquer un ennemi qui se trouve sur une case adjacente à la sienne au début du tour.
+
+**Normal.** Le personnage ne peut pas se déplacer avant et après une attaque.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don par une [action simple](./Action simple.md) au lieu d’une [action complexe](./Action complexe.md).
+
+{s:CMy}
+### Version mythique
+*Le personnage traverse le champ de bataille à grande vitesse, tel une tornade indistincte de lames et d’acier.*
+
+**Condition.** Attaque éclair, [BBA](./BBA.md) +6
+
+**Avantage.** Lorsqu’il utilise Attaque éclair, le personnage n’a plus besoin de parcourir au moins 3 mètres avant d’effectuer la première attaque. S’il dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il entame une Attaque éclair, le déplacement qu’il effectue pendant l’Attaque éclair ne provoque pas d’attaque d’opportunité.

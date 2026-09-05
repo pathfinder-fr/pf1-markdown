@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Télépathie
+Title: Télépathie
+LastModified: 2020-02-18 10:33
+Categories:
+- Redirection
+---
+
+>>> Télépathie (capacité)

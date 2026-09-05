@@ -1,0 +1,11 @@
+---
+Name: Golarion.Brastlewark
+Title: Brastlewark
+LastModified: 2010-01-13 22:01
+Categories:
+- Chéliax
+- Géographie
+- Ville
+---
+
+Cette ville de l'est du [Chéliax](./Chéliax.md) contient la plus importante communauté Gnome du pays. Elle est située au sud de la chaîne d'[Aspodell](./Aspodell.md), à quelques encablures de la source du fleuve [Brastle](./Brastle.md).

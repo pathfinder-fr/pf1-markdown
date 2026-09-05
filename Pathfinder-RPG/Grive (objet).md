@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Grive (objet)
+Title: Grive
+LastModified: 2021-09-21 13:24
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 pa ; **Poids** 0,2 kg
+<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+---
+On garde parfois ces petits oiseaux grassouillets comme animaux de compagnie mais ils sont souvent utilisés comme [familiers](./Familiers.md) par les lanceurs de sorts. Ils sont connus pour leur chant magnifique et capacité à parler. Voir les statistiques de la [grive](./Grive.md).

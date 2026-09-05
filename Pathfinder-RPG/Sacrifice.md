@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Sacrifice
+Title: Sacrifice
+LastModified: 2023-03-13 22:56
+Categories:
+- Sort
+- Sort magicien 4
+- Sort prêtre 4
+- Src Book of the Damned
+- Src Livre des damnés
+---
+
+{s:cs}{s:BotD}**École** [Enchantement](./Enchantement.md) ([charme](./charme.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 4
+**Temps d'incantation** 1 minute
+**Composantes** [V, G, M](./composantes.md) (voir texte)
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Cible** un [extérieur](./type Extérieur.md) ou [élémentaire](./sous-type élémentaire.md) convoqué (voir texte)
+**Durée** [instantanée](./instantanée.md), 1 heure ou 1 jour (voir texte)
+**Jet de sauvegarde** aucun ; **Résistance à la magie** non
+
+Le personnage fait un sacrifice pour faciliter l'invocation et le contrôle d'une créature appelée par le biais d’*[allié majeur d'outreplan](./Allié majeur doutreplan.md)*, de *[contrat intermédiaire](./Contrat intermédiaire.md)* ou d'un sort similaire. Un sacrifice peut-être effectué de plusieurs façons.
+- ***Consolidation.*** Si le personnage fait un sacrifice au cours du round qui précède la création d'un cercle magique et la préparation d'un diagramme d'invocation amplifie la puissance de sa magie de protection, augmentant le [DD](./DD.md) de tous les tests de [Charisme](./Charisme.md) que la créature réalisera pour essayer de s'échapper. Cet effet dure une journée.
+- ***Incitation.*** Faire un sacrifice au cours du round qui précède l'invocation augmente le [DD](./DD.md) du jet de [Volonté](./Volonté.md) que doit faire un extérieur pour résister à l'invocation.
+- ***Négociation.*** Si le personnage dédie directement son sacrifice à l'être invoqué, il gagne un bonus aux tests de [Charisme](./Charisme.md) opposés à ceux de la créature pour l'obliger à le servir pendant l'heure qui suit.
+- ***Paiement.*** Si le personnage dédie directement son sacrifice à l'être invoqué, il a le droit de payer ses services autrement qu'avec de l'or.
+
+Le personnage peut effectuer plusieurs sacrifices pour influer sur une seule invocation, mais les bonus obtenus par ce sort ne se cumulent pas. Ainsi, bien que le personnage puisse faire plusieurs sacrifices pour faciliter l'invocation et les négociations avec une créature, il ne peut pas faire des sacrifices multiples (même de type différents) pour améliorer le même effet pour une invocation spécifique.
+
+Un sacrifice peut consister en n'importe quelle chose qu'apprécie la créature ciblée, y compris des trésors, des créatures vivantes ou des offrandes éphémères. Si ce sort n'est pas fondamentalement Mauvais, les créatures Bonnes se montrent plus sélectives dans les offrandes qu'elles acceptent, dédaignant généralement les sacrifices de sang. De nombreux sacrifices sont des actes fondamentalement Mauvais, comme par exemple tuer un innocent pieux pour invoquer un fiélon. Certaines créatures pourraient rejeter certains types de sacrifice, annulant ainsi les avantages de ce sort, puisque l'offrande doit plaire à la cible (peu d'Extérieurs s'intéressent à 2 000 po de parchemins, tandis que 2 000 po de diamants seraient avidement convoités). C'est au MJ de déterminer les sacrifices qui seront jugés plaisants par les créatures.
+
+La table ci-dessous propose quelques offrandes communes, ainsi que le bonus qu'elles accordent et la valeur équivalente en po de l'offrande, en vue de l'utilisation d’*[allié majeur d'outreplan](./Allié majeur doutreplan.md)*. Plusieurs de ces sacrifices impliquent la perte de points de caractéristiques, de niveaux, de vies et même des changements d'alignement. Tout changement lié à ces sacrifices (perte de points de caractéristiques ou de niveaux, ou changement d'alignement) ne peut pas être rétabli, guéri ou défait par un sort ou un effet inférieur à un *[miracle](./Miracle.md)* ou un *[souhait](./Souhait.md)*. Il en va de même pour les créatures tuées au cours du sacrifice : il est impossible de les ressusciter avec une magie moins puissante que ces sorts. Tout objet sacrifié au nom de ce sort est réellement détruit ou déplacé dans une propriété extraplanaire au choix de la créature invoquée. Les bonus et valeurs indiquées dans la table des sacrifices sont des indications concernant les offrandes ; certain types de trésor ou de vies peuvent avoir plus de valeur pour certaines créatures et des sacrifices extraordinaires (comme celui d'un artefact puissant ou la vie d'un paladin de haut niveau) peuvent générer des bonus plus importants.
+
+Le personnage ne peut pas faire de sacrifices plus importants que ceux indiqués dans la table pour obtenir des bonus ou des valeurs en or plus importants. Par exemple, un personnage ne pourrait pas s'imposer deux niveaux négatifs permanents pour obtenir un bonus de +16, ni obtenir un avantage plus important en exécutant 20 DV de créatures lors de l'invocation d'une créature possédant 10 DV.
+
+{| CLASS="tablo centre autoalt"
+|- CLASS="titre"
+| Type || Sacrifice || Bonus obtenu || Valeur en po
+|- CLASS="premier"
+| Trésors || 100 po/[DV](./DV.md) de la cible || +1 || Égale
+|-
+| Vies<sup>1</sup> || une créature vivante avec un nombre de [DV](./DV.md) égal à ceux de la cible || +2 || 200 po/DV
+|-
+| Corps/esprit<sup>1</sup> || [Diminution permanente](./affaiblissement temporaire (capacité).md) de 1 point de caractéristique || +4 || 500 po/point
+|-
+| Mœurs<sup>2</sup> || L'[alignement](./Alignement.md) change d'un cran vers celui de la cible || +6 || 1000 po/cran
+|-
+| Âme<sup>1</sup> || Un [niveau négatif](./niveau négatif.md) permanent || +8 || 2500 po
+|- CLASS="note"
+| COLSPAN="4" | *(1) Lorsqu'il est utilisé pour sacrifier une vie, un corps, un esprit ou une âme autres que ceux du lanceur de sorts, il s'agit d'un acte maléfique.*
+|- CLASS="note"
+| COLSPAN="4" | *(2) Un personnage ne peut sacrifier que sa propre morale, et ne peut le faire qu'une fois par vie.*''
+|}

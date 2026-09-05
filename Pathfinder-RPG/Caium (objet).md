@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Caium (objet)
+Title: Caium (la gourde)
+LastModified: 2021-09-22 17:03
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+---
+Le processus de production de cette bière, fabriquée à partir de racine de manioc ou de maïs, nécessite une mastication intensive.

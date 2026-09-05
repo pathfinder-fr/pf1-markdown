@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Lance de lumière
+Title: Lance de lumière
+LastModified: 2022-06-15 19:23
+Categories:
+- Règle officielle
+- Sort
+- Sort paladin 2
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[bien, lumière](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Pal](./Paladin.md) 2  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+
+**Effet** lance de lumière  
+
+**Durée** 1 [round](./round.md) + 1 [round](./round.md)/[niveau](./niveau.md) (T)
+
+Le personnage crée un glorieux fuseau de vive lumière qui agit comme une *lance [sainte](./sainte (propriété).md) +1* adaptée à sa taille. Il doit avoir une main libre au moment où il lance ce sort et, une fois que la lance s'est matérialisée, il peut la changer de main ou la poser à terre sans mettre un terme prématuré au sort. Tant que le personnage tient la *lance de lumière*, il peut choisir, par une [action simple](./Action simple.md), de ne pas attaquer mais de lever la lance, comme un phare de lumière et de vérité, ce qui crée une zone vivement éclairée d'un rayon de 30 mètres (20 {s:c}). Si le personnage garde sa lance en l'air pendant 1 [round](./round.md) supplémentaire ou plus, elle envoie un rayon de vive lumière vers les cieux, rayon qui devient de plus en plus visible alors qu'il continue de monter vers le ciel. Sous couvert de la nuit ou des ténèbres, si rien n'arrête ce rayon, il devient visible à 3 kilomètres de plus pour chaque round où le personnage lève sa lance vers les cieux (3 kilomètres au deuxième round, 6 au troisième, etc.).

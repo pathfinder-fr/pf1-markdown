@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Bille de force
+Title: Bille de force
+LastModified: 2024-06-13 20:41
+Categories:
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Bille de force|{s:AE}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 000 po ; **Poids** —
+(((Description)))
+Cette petite bille noire ressemble à une perle ternie. Il est possible de la lancer à une distance de 18 m sans aucun malus de portée. En cas d’impact, elle explose et libère une violente décharge d’énergie qui inflige 5d6 points de dégâts de force à toutes les créatures comprises dans un rayon de 3 m.
+
+Elle génère par ailleurs un effet similaire à celui du sort *[sphère d’isolement](./Sphère disolement.md)* (jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 16 pour annuler) dans un rayon de 3 m et pour une durée de dix minutes. La cible est enfermée dans un globe de force chatoyant, à condition qu’elle ne soit pas plus grande que la [zone d’effet](./zone deffet.md). La sphère est insensible à tous les types de dégâts. Seuls un *[sceptre d’oblitération](./Sceptre doblitération.md)*, un *[sceptre d’annulation](./Sceptre dannulation.md)*, un sort de *[désintégration](./Désintégration.md)* ou une *[dissipation de la magie](./Dissipation de la magie.md)* ciblée détruisent la sphère, sans que la créature prisonnière encoure le moindre danger. Rien ne peut traverser la paroi de la sphère, dans un sens ou dans l’autre (mais le prisonnier peut respirer normalement). Le sujet peut se débattre, mais la sphère est fixe et ne peut être déplacée ni depuis l’extérieur ni depuis l’intérieur.
+
+L’explosion détruit totalement la bille, cet objet est donc à usage unique.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[sphère d’isolement](./Sphère disolement.md)* ; **Coût** 1 500 po
+</div>

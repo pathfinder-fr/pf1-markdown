@@ -1,0 +1,55 @@
+---
+Name: Pathfinder-RPG.Tortue de mer
+Title: Tortue de mer
+LastModified: 2020-09-22 16:39
+Categories:
+- Monstre
+- Src Art de la magie
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Tortue de mer|FP 1/6}
+{s:pucem|Animal|Aquatique|Tempéré}
+- *Source : Art de la Magie p.120*
+- **PX** 65
+- [Animal](./type Animal.md) de taille TP, N
+- **Init** -2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4
+(((Défense)))
+- **CA** 16, contact 10, pris au dépourvu 16 (Dex –2, naturelle +6, taille +2)
+- **pv** 3 (1d8-1)
+- **Réf** +0, **Vig** +1, **Vol** +1
+(((Attaque)))
+- **VD** 1,50 m (1 {s:c}), nage 6 m (4 {s:c})
+- **Corps à corps** morsure, -2 (1d3–4)
+- **Espace** 0,8 m (1/2 {s:c}) ; **Allonge** 0
+(((Statistiques)))
+- **For** 3, **Dex** 6, **Con** 8, **Int** 2, **Sag** 12, **Cha** 3
+- **BBA** +0 ; **BMO** –4 ; **DMD** 2 (6 contre [croc-en-jambe](./croc-en-jambe.md))
+- **Dons** [Talent](./Talent.md) ([Perception](./Perception.md))
+- **Compétences** [Natation](./Natation.md) +10, [Perception](./Perception.md) +4
+- **Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)
+(((Écologie)))
+- **Environnement** forêts tempérées ou tropicales, océans, rivières
+- **Organisation sociale** solitaire
+- **Trésor** aucun
+(((Pouvoirs spéciaux)))
+- **Carapace protectrice (Ext).** Une tortue peut se retirer dans sa carapace par une [action rapide](./Action rapide.md), ce qui lui donne un bonus de +2 à l’[armure naturelle](./Valeurs de combat.md). Tant que la tortue est dans sa carapace, elle ne peut entreprendre aucune action à part en sortir, ce qu’elle peut faire à son tour par une [action libre](./Action libre.md).
+
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de tortue de mer
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Tortue de mer](./Tortue de mer.md) || 1/6
+|-
+| [Tortue happante](./Tortue happante.md) || 1/3
+|-
+| [Tortue happante géante](./Tortue happante géante.md) || 9
+|}
+</div>Les tortues sont des reptiles très lents dotés d’une solide carapace dans laquelle elles peuvent se retirer quand elles se sentent menacées. Beaucoup de tortues possèdent des nageoires et sont plus à l’aise dans l’eau que sur terre. On peut également utiliser ce profil pour une tortue terrestre qui a des pattes au lieu de nageoires et vit dans les régions arides.
+
+Les tortues peuvent servir de familier aux lanceurs de sort. Un familier tortue donne à son maître un bonus d’armure naturelle de +1 à la CA.
+</div></td></tr></table>

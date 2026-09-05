@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Bateau de guerre (objet)
+Title: Bateau de guerre
+LastModified: 2023-11-09 22:19
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 25.000 po ; **Passage (1,5 km)** 2 pa
+<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+---
+{s:Desambi|Cet objet était nommé "Vaisseau de guerre" dans le <u>Manuel des joueurs</u>.}Ce navire de 30 mètres de long n’a qu’un seul mât mais on peut utiliser des rames pour le propulser. Il accueille un équipage de 60 à 80 rameurs. Ce navire peut transporter 160 soldats mais pas sur de longues distances puisqu’il n’y a pas de place pour stocker des vivres pour autant de monde. Le bateau de guerre ne peut pas voyager en haute mer et doit rester près des côtes. Il n’accueille pas de cargaisons. Il se déplace à une vitesse d’environ 4 km/h avec les rames ou la voile.

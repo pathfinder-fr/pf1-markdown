@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Bâton de toxines
+Title: Bâton de toxines
+LastModified: 2024-05-27 16:22
+Categories:
+- Objet mag
+- Objet mag bâton
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:APG}{s:BDTitre|Bâton des toxines|}
+**Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 34 200 po ; **Poids** 2,5 kg
+(((Description)))
+Ce bâton de chêne enveloppé de cigüe dégage une très légère odeur de pourriture et de corruption. Il permet de lancer les sorts suivants :
+• *[brume mortelle](./Brume mortelle.md)* (2 charges)
+• *[nuage nauséabond](./Nuage nauséabond.md)* (1 charge)
+(((Création)))
+**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[brume mortelle](./Brume mortelle.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* ; **Coût** 17 100 po
+</div>

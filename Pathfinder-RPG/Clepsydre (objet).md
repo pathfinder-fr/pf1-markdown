@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Clepsydre (objet)
+Title: Clepsydre
+LastModified: 2021-09-16 20:39
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 1.000 po ; **Poids** 100 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce gros instrument encombrant indique l'heure avec une marge d'erreur d'une demi-heure par jour à partir du moment de son dernier réglage. Elle requiert une source d'eau et doit être maintenue immobile puisque c'est le flux régulier des gouttes d'eau qui tombent qui marque le temps.

@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction du vide
+Title: Bénédiction du vide
+LastModified: 2024-12-11 00:28
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Contact étouffant *(mineur)*
+Au niveau 1, s’il réussit une attaque de contact au corps à corps, le personnage peut absorber l’air présent dans les poumons d’un adversaire, ce qui l’empêche de parler, d’utiliser des armes de souffle, de lancer des sorts à [composantes verbales](./composantes.md) ou de faire quoi que ce soit nécessitant du souffle et ce, pendant 1 [round](./round.md). Si la cible rate son jet de [Vigueur](./Vigueur.md), elle est également [chancelante](./Chancelant.md) pendant 1 round]] alors qu’elle tente de reprendre son souffle. Si la cible était en train de retenir son souffle, elle ne peut plus et doit de nouveau respirer lors de son tour pour ne pas risquer l’[asphyxie](./Dangers naturels.md#ASPHYXIE) ou l’[inconscience](./Inconscient.md). Les créatures qui n’ont pas besoin de respirer ne sont pas affectées. Que le [jet de sauvegarde](./JDS.md) soit réussi ou non, la cible est immunisée contre le contact étouffant d’un même personnage pendant les 24 prochaines heures.
+
+#### Suppression de la gravité *(majeur)*
+Au niveau 10, le personnage peut, par une [action simple](./Action simple.md), toucher un allié pour lui permettre d’ignorer les effets de la gravité pendant 1 minute (comme avec le sort de *[vol](./sort Vol.md)*). L’allié gagne une vitesse de déplacement en vol de 12 mètres avec une manœuvrabilité moyenne. Il est également immunisé contre les conditions environnementales dangereuses (comme avec le sort de *[bulle de vie](./Bulle de vie.md)*) pendant 1 minute.

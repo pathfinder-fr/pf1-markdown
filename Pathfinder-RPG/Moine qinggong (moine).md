@@ -1,0 +1,154 @@
+---
+Name: Pathfinder-RPG.Moine qinggong (moine)
+Title: Moine qinggong
+LastModified: 2026-06-22 11:21
+Categories:
+- Archétype
+- Archétype moine
+- Classe
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:Menuarchétypemoine}{s:um}
+*Le moine qinggong est un maître du ki qu’il utilise pour accomplir des acrobaties surhumaines ou pour frapper ses adversaires avec une décharge d’énergie surnaturelle. Certains obtiennent une telle maîtrise du ki grâce à une discipline extrême, d’autres en ingérant (intentionnellement ou non) des herbes rares et d’étranges fruits mystiques tandis que quelques rares individus obtiennent leurs pouvoirs d’un maître qinggong mourant.*
+
+#### Pouvoirs de ki
+{s:FAQ|***[→](./FAQ- lArt de la magie.md#27) Moine : Un moine qinggong peut-il sélectionner un second archétype si le personnage ne remplace pas les capacités modifiées par ce second archétype ?***
+
+Oui. Cependant, l'autre archétype a la priorité sur les diverses capacités offertes à chaque niveau, et le personnage ne peut pas retarder l'obtention d'une capacité que l'autre archétype remplace ; il doit laisser le second archétype remplacer la capacité prévue au niveau de classe prévu.
+
+Par exemple, l'archétype [moine de la main qui guérit](./Moine de la main qui guérit (moine).md) remplace
+plénitude physique (niveau 7)
+corps de diamant (niveau 11)
+paume vibratoire (niveau 15)
+perception de l'être (niveau 20).
+Un <u>[moine qinggong](./Moine qinggong (moine).md)</u> qui souhaite également choisir l'archétype moine de la main qui guérit doit laisser l'archétype de la main qui guérit remplacer chacune de ces quatre capacités aux niveaux prévus. Le moine qinggong est toujours libre de remplacer n'importe quelle capacité de moine standard aux autres niveaux listés dans l'archétype moine qinggong (chute ralentie au niveau 4, sauts puissants au niveau 5, etc), tant que sélectionner ces capacités n'interfère pas avec l'obtention des capacités de moine de la main qui guérit aux niveaux prévus.
+Notez que si le second archétype remplace une capacité de moine standard, le personnage ne peut pas sélectionner la capacité remplacée à un niveau de moine ultérieur. Par exemple, le moine qinggong/de la main qui guérit ne peut jamais sélectionner plénitude physique, même après le niveau 7. Dans les faits, le personnage a sélectionné plénitude physique au niveau 7 et l'a immédiatement remplacé par une capacité de la main qui guérit ; étant donné que l'archétype qinggong ne permet à un personnage de sélectionner une capacité plus tard que s'il a « choisit un pouvoir de ki différent à la place du pouvoir habituel » (ce qui n'est pas arrivé), cette option n'est pas accessible à ce personnage.}Un moine qinggong peut choisir un pouvoir de ki pour lequel il remplit les conditions requises à la place de l’un des pouvoirs de moine suivants : [chute ralentie](./Moine.md#CHUTERALENTIE) (4), [sauts puissants](./Moine.md#SAUTSPUISSANTS) (5), [plénitude physique](./Moine.md#PLENITUDEPHYSIQUE) (7), [corps de diamant](./Moine.md#CORPSDEDIAMANT) (11), [pas chassé](./Moine.md#PASCHASSE) (12), [âme de diamant](./Moine.md#AMEDEDIAMANT) (13), [paume vibratoire](./Moine.md#PAUMEVIBRATOIRE) (15), [éternelle jeunesse](./Moine.md#ETERNELLEJEUNESSE) (17), [langage du soleil et de la lune](./Moine.md#LANGAGEDUSOLEILETDELALUNE) (17), [désertion de l’âme](./Moine.md#DESERTIONDELAME) (19) et [perfection de l’être](./Moine.md#PERFECTIONDELETRE) (20). Ce pouvoir remplace celui auquel le moine a renoncé pour choisir le [pouvoir de ki](./Pouvoirs de ki.md).
+
+<nav class="wiki-toc"></nav>*Les pouvoirs de ki puisent dans le ki du moine. La classe de base de [moine](./Moine.md) possède plusieurs pouvoirs de ce type, comme plénitude physique, pas chassé et désertion de l’âme. Le moine qinggong peut en apprendre d’autres qui viennent souvent remplacer un pouvoir sans lien avec le ki comme la pureté physique.*
+
+Les pouvoirs de ki se divisent en trois catégories : les dons, les pouvoirs de moine et les sorts.
+
+*Les dons.* Ces pouvoirs de ki reproduisent les effets d’un don spécifique. Le [moine](./Moine.md) n’a pas besoin de remplir les conditions requises par le don pour choisir le pouvoir de ki correspondant. Par exemple, un moine qinggong peut choisir Attaque éclair comme pouvoir de ki même s’il ne remplit pas les conditions requises pour choisir ce don. Le [moine](./Moine.md) active un pouvoir de ki à son tour, par une action libre. On considère qu’il dispose alors du don choisi jusqu’à son prochain tour. Certains pouvoirs de ki qui imitent un don s’activent par une action immédiate, ce qui est indiqué dans la liste des pouvoirs de ki.
+
+*Les pouvoirs de moine.* Certains pouvoirs de ki sont des pouvoirs de [moine](./Moine.md) ordinaire du Manuel des Joueurs. Même si le moine qinggong choisit un pouvoir de ki différent à la place du pouvoir habituel, il peut le choisir plus tard, comme un pouvoir de ki.
+
+*Les sorts.* Ces pouvoirs de ki reproduisent les effets d’un sort ou d’un pouvoir magique. Le [moine](./Moine.md) utilise son niveau de classe comme niveau de lanceur de sorts et sa Sagesse pour déterminer le bonus aux tests de concentration.
+
+**Conditions requises.** Tous les pouvoirs de ki exigent un niveau de [moine](./Moine.md) minimum. Tant que le [moine](./Moine.md) ne l’a pas atteint, il ne peut pas choisir le pouvoir.
+
+**Activation.** La plupart des pouvoirs de ki nécessitent une dépense en point de ki. Ceux qui demandent 0 point peuvent être utilisés même si le [moine](./Moine.md) n’a plus le moindre point de ki dans sa réserve.
+
+Le [jet de sauvegarde](./jet de sauvegarde.md) contre les pouvoirs de ki de [moine](./Moine.md) est égal à 10 +1/2 niveau du moine + bonus de [Sagesse](./Sagesse.md).
+
+Les dons marqués d’une croix (†) sont des pouvoirs de ki qui s’activent par une [action immédiate](./Action immédiate.md).
+
+{s:Reference|1}
+### Pouvoirs de ki de niveau 4
+- ***[Arme en main](./Arme en main.md)*** (1 point de ki)
+- ***[Attaque en puissance](./Attaque en puissance.md)*** (1 point de ki)
+- ***[Augure](./Augure.md)*** (1 point de ki)
+- ***[Chute ralentie](./Moine.md#CHUTERALENTIE)*** (pouvoir de [moine](./Moine.md), 0 point de ki)
+- ***[Coup au but](./Coup au but.md)*** (sur soi uniquement, 1 point de ki)
+- ***[Démarche aérienne](./Démarche aérienne.md)*** (**APG**) (sur soi uniquement, 1 point de ki)
+- ***[Déplacement acrobatique](./Déplacement acrobatique.md)*** (1 point de ki)
+- ***[Flèche de ki](./Flèche de ki.md)*** (**APG**) (1 point de ki)
+- ***[Lancer improvisé](./Lancer improvisé.md)*** (1 point de ki)
+- ***[Message](./Message.md)*** (1 point de ki)
+- ***[Peau d’écorce](./Peau décorce.md)*** (sur soi uniquement, 1 point de ki)
+- ***[Poussée hydraulique](./Poussée hydraulique.md)*** (**APG**) (1 point de ki)
+- ***[Rayon ardent](./Rayon ardent.md)*** (2 points de ki)
+- ***[Refuser la mort](./Refuser la mort.md)*** (**UM**) † (0 point de ki)
+- ***[Se relever avec le ki](./Se relever avec le ki.md)*** (**UM**) † (0 point de ki)
+
+{s:Reference|2}
+### Pouvoirs de ki de niveau 6
+- ***[Attaque éclair](./Attaque éclair.md)*** (1 point de ki)
+- ***[État gazeux](./État gazeux.md)*** (sur soi uniquement, 1 point de ki)
+- ***[Guérison des maladies](./Guérison des maladies.md)*** (2 points de ki)
+- ***[Manteau de vent](./Manteau de vent.md)*** (**APG**) (sur soi uniquement, 2 points de ki)
+- ***[Parade de projectiles](./Parade de projectiles.md)*** † (1 point de ki)
+- ***[Pas de côté](./Pas de côté.md)*** (**APG**) † (1 point de ki)
+- ***[Récupération héroïque](./Récupération héroïque.md)*** (**APG**) † (1 point de ki)
+- ***[Sauts puissants](./Moine.md#SAUTSPUISSANTS)*** (pouvoir de moine, 1 point de ki)
+- ***[Torrent hydraulique](./Torrent hydraulique.md)*** (**APG**) (2 points de ki)
+
+{s:Reference|3}
+### Pouvoirs de ki de niveau 8
+- ***[De la soie à l’acier](./De la soie à lacier.md)***  (**UM**) (1 point de ki)
+- ***[Démarche de l’araignée](./Démarche de laraignée.md)*** (**APG**) (1 point de ki)
+- ***[Empoisonnement](./Empoisonnement.md)*** (2 points de ki)
+- ***[Neutralisation du poison](./Neutralisation du poison.md)*** (3 points de ki)
+- ***[Partage des souvenirs](./Partage des souvenirs.md)*** (**UM**) (0 point de ki)
+- ***[Glissade](./Glissade.md)*** (**UM**) † (1 point de ki) **ERREUR DANS UM : BBE a mis "Pas coulé" pour "Glissade"**
+- ***[Plénitude physique](./Moine.md#PLENITUDEPHYSIQUE)*** (pouvoir de moine, niveau 7, 2 points de ki)
+- ***[Restauration](./Restauration.md)*** (sur soi uniquement, 2 points de ki)
+- ***[Souffle de dragon](./Souffle de dragon.md)*** (**APG**) (2 points de ki)
+- ***[Attaque en rotation](./Attaque en rotation.md)*** (2 points de ki)
+
+{s:Reference|4}
+
+
+### Pouvoirs de ki de niveau 10
+- ***[Avance et frappe](./Avance et frappe.md)*** (**APG**) † (2 points de ki)
+- ***[Bousculade supérieure](./Bousculade supérieure.md)*** (2 points de ki)
+- ***[Comme le vent](./Comme le vent.md)*** (2 points de ki)
+- ***[Crachat venimeux](./Crachat venimeux.md)*** (**UM**) (2 points de ki)
+- ***[Désarmement supérieur](./Désarmement supérieur.md)*** (2 points de ki)
+- ***[Destruction d’arme supérieure](./Destruction darme supérieure.md)*** (2 points de ki)
+- ***[Détonation discordante](./Détonation discordante.md)*** (**APG**) (2 points de ki)
+- ***[Feinte supérieure](./Feinte supérieure.md)*** (2 points de ki)
+- ***[Fente](./Fente.md)*** (1 point de ki)
+- ***[Pas de l’ombre](./Pas de lombre.md)*** (**UM**) (1 point de ki)
+- ***[Sangsue de ki](./Sangsue de ki.md)*** (**UM**) (0 point de ki)
+- ***[Science du combat en aveugle](./Science du combat en aveugle.md)*** (**APG**) † (1 point de ki)
+
+{s:Reference|5}
+### Pouvoirs de ki de niveau 12
+- ***[Corps de diamant](./Moine.md#CORPSDEDIAMANT)*** (pouvoir de moine)
+- ***[Coup mémorable](./Coup mémorable.md)*** (**APG**) (2 points de ki)
+- ***[Lancer ki](./Lancer ki.md)*** (**APG**) (2 points de ki)
+- ***[Lien des esprits combatifs](./Lien des esprits combatifs.md)*** (**UM**) (4 points de ki)
+- ***[Maîtrise des armes improvisées](./Maîtrise des armes improvisées.md)*** (2 points de ki)
+- ***[Pas chassé](./Moine.md#PASCHASSE)*** (pouvoir de moine, 2 points de ki)
+- ***[Poing élémentaire](./Poing élémentaire.md)*** (**APG**) (2 points de ki)
+- ***[Traversée des ombres](./Traversée des ombres.md)*** (3 points de ki)
+
+{s:Reference|6}
+### Pouvoirs de ki de niveau 14
+- ***[Âme de diamant](./Moine.md#AMEDEDIAMANT)*** (pouvoir de moine)
+- ***[Coup désarmant](./Coup désarmant.md)*** (**APG**) (2 points de ki)
+- ***[Cri ki](./Cri ki.md)*** (**UM**) (3 points de ki)
+- ***[Estoc sonore](./Estoc sonore.md)*** (**UM**) (2 points de ki)
+- ***[Frappe de la corneille sanglante](./Frappe de la corneille sanglante.md)*** (**UM**) (2 points de ki)
+- ***[Froide frappe de glace](./Froide frappe de glace.md)*** (**UM**) (3 points de ki)
+- ***[Pas léger](./Pas léger.md)*** (**APG**) (3 points de ki)
+- ***[Science du lancer ki](./Science du lancer ki.md)*** (**APG**) (2 points de ki)
+
+{s:Reference|7}
+### Pouvoirs de ki de niveau 16
+- ***[Cheveux étrangleurs](./Cheveux étrangleurs.md)*** (**UM**) (3 points de ki)
+- ***[Maîtrise du combat en aveugle](./Maîtrise du combat en aveugle.md)*** (**APG**) † (2 points de ki)
+- ***[Comme l’éclair](./Comme léclair.md)*** (3 points de ki)
+- ***[Critique sanglant](./Critique sanglant.md)*** (3 points de ki)
+- ***[Frappe puissante](./Frappe puissante.md)*** (2 points de ki)
+- ***[Paume vibratoire](./Moine.md#PAUMEVIBRATOIRE)*** (pouvoir de moine, 2 points de ki)
+- ***[Science de la frappe décisive](./Science de la frappe décisive.md)*** (2 points de ki)
+
+{s:Reference|8}
+### Pouvoirs de ki de niveau 18
+- ***[Éternelle jeunesse](./Moine.md#ETERNELLEJEUNESSE)*** (pouvoir de moine, 0 point de ki)
+- ***[Langue du soleil et de la lune](./Moine.md#LANGUEDUSOLEILETDELALUNE)*** (pouvoir de moine, 0 point de ki)
+
+{s:Reference|9}
+### Pouvoirs de ki de niveau 20
+- ***[Critique assourdissant](./Critique assourdissant.md)*** (3 points de ki)
+- ***[Critique aveuglant](./Critique aveuglant.md)*** (3 points de ki)
+- ***[Critique fatiguant](./Critique fatigant.md)*** (3 points de ki)
+- ***[Critique handicapant](./Critique handicapant.md)*** (**APG**) (3 points de ki)
+- ***[Désertion de l’âme](./Moine.md#DESERTIONDELAME)*** (pouvoir de moine, 3 points de ki)
+- ***[Frappe puissante supérieure](./Frappe puissante supérieure.md)*** (3 points de ki)
+- ***[Perfection de l’être](./Moine.md#PERFECTIONDELETRE)*** (pouvoir de moine, niveau 20)
+
+{s:Reference|10}

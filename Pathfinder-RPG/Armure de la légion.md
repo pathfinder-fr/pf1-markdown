@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Armure de la légion
+Title: Armure de la légion
+LastModified: 2024-05-24 22:30
+Categories:
+- Objet mag
+- Objet mag armure
+- Src Armor Masters Handbook
+---
+
+<div class="BD">
+{s:BDTitre|Armure de la légion|{s:AMH}}
+**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 7 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 13 400 po ; **Poids** 17,5 kg
+(((Description)))
+{s:cs}Cette *[crevice](./crevice (armure).md) +2* dorée est ornée d'images d'êtres célestes levant leurs armes. Une *armure de la légion* est généralement portée par des [anges](./Ange.md) et des [archons](./Archon.md) de haut rang combattant directement les forces du mal sur le plan Matériel.
+
+Une fois par jour et par une [action simple](./Action simple.md), le porteur d'une *armure de la légion* peut lancer le sort *[allié spirituel](./Allié spirituel.md)* avec une durée de 1 minute. Cet allié prend généralement l'apparence d'un imposant guerrier angélique. À tout moment pendant que l'allié spirituel de l'armure est invoqué, le porteur d'une *armure de la légion* peut annuler l'effet par une action simple, faisant ainsi exploser l'allié spirituel avec un chœur de voix tonitruant et des trompettes retentissantes. Les créatures d'alignement Mauvais dans un rayon de 30 mètres sont [secouées](./Secoué.md) par cet effet à moins qu'elles ne réussissent un jet de [Volonté](./Volonté.md) [DD](./DD.md) 20.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[allié spirituel](./Allié spirituel.md)*, *[frayeur](./Frayeur.md)* ; **Coût** 6 900 po
+</div>

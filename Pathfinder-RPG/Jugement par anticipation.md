@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Jugement par anticipation
+Title: Jugement par anticipation
+LastModified: 2023-07-21 15:00
+Categories:
+- Sort
+- Sort inquisiteur 2
+- Sort prêtre 2
+- Sort sorcière 1
+- Src Dieux et magie
+- Src Inner Sea Gods
+---
+
+{s:divin|Pharasma|%2fPCUP%2fReligion-PNG%2fPharasma.png}{s:ISG}{s:GeM}**École** [Divination](./école divination.md) ; **Niveau** [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 1
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, FD](./composantes.md)
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Cible** une créature humanoïde
+**Durée** 1d4 [rounds](./round.md)
+**Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
+
+Le personnage montre à une créature les effets que sa vie a eus jusque là et ce à quoi elle peut s’attendre quand elle sera soumise au regard impartial de la déesse qui juge les défunts, à la fin de sa vie. Selon l’alignement de la créature et son degré d’adhésion à cette éthique, le personnage peut lui donner un bref aperçu de la récompense ou de la punition qui l’attend lorsqu’elle mourra, en lui montrant une image mentale du plan auquel elle est destinée dans le Grand Au-delà. Si la cible est d’alignement Bon, elle devra faire un [jet de sauvegarde](./jet de sauvegarde.md) pour ne pas être [fascinée](./Fasciné.md) pendant 1d4 rounds. Si elle est d’alignement Neutre, elle devra faire un jet de sauvegarde pour ne pas être en proie à la [confusion](./Confus.md) pendant 1d4 rounds. Si elle est d’alignement Mauvais, elle devra faire un jet de sauvegarde pour ne pas être [secouée](./Secoué.md) pendant 1d4 rounds.

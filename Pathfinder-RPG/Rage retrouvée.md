@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Rage retrouvée
+Title: Rage retrouvée
+LastModified: 2020-06-09 17:04
+Categories:
+- Don
+- Manuel des Classes avancées
+- Règles officielles
+---
+
+{s:mca} *Le personnage regagne des rounds de rage de berserker ou de chant de rage quand il se débarrasse d’un ennemi.*
+
+**Conditions.** Pouvoir de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER) ou [chant de rage](./Scalde.md#CHANTDERAGE).
+
+**Avantage.** Chaque fois que le personnage réduit un ennemi à 0 point de vie ou moins alors qu’il est en rage ou utilise chant de rage, il regagne 1 round de rage de berserker ou de chant de rage (selon son choix, s’il possède les deux pouvoirs) à partir du moment où le nombre de dés de vie que possède l’adversaire est égal ou supérieur à la moitié du niveau du personnage.
+
+Il ne peut pas utiliser ce don pour regagner plus de rounds de rage de berserker ou de chant de rage que son nombre maximal par jour, et ne peut pas s'en servir pour excéder son nombre maximal de rounds quotidien.

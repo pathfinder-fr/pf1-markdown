@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Volière aux esprits
+Title: Volière aux esprits
+LastModified: 2024-06-15 23:29
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Navires de la mer Intérieure
+---
+
+<div class="BD">
+{s:BDTitre|Volière aux esprits|{s:CSU|11}}
+**Aura** [Divination](./école divination.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 16 000 po ; **Poids** 2,5 kg
+(((Description)))
+Cette boîte en osier renforcée est ornée d’images de hiboux, de corbeaux et autres oiseaux futés. Elle est assez grande pour que trois oiseaux de taille Min puissent se percher à l’intérieur. Un oiseau de type animal enfermé à l’intérieur de la volière pendant 24 heures s’harmonise à la magie de l’objet et commence à émettre la même aura que lui. En prononçant un [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) et en se concentrant sur le lien entre leurs esprits, l’utilisateur peut ordonner à un oiseau relâché de voler vers un emplacement connu (comme avec un *[messager animal](./Messager animal.md)*) ou dans une direction spécifique. L’oiseau vole tout droit à sa vitesse normale. Pendant l’heure suivante, tout en maintenant un contact physique avec la volière, l’utilisateur peut scruter en bénéficiant des sens de l’oiseau et en considérant l’animal comme le capteur d’un sort de *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*. Pendant la scrutation, l’utilisateur ne perçoit plus son environnement direct, mais peut retrouver ses sens ou ceux de l’oiseau par une [action de mouvement](./Action de mouvement.md).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[messager animal](./Messager animal.md)*, le créateur doit posséder 5 rangs au moins en [Dressage](./Dressage.md) ; **Coût** 8 000 po
+</div>

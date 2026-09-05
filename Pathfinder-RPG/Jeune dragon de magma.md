@@ -1,0 +1,46 @@
+---
+Name: Pathfinder-RPG.Jeune dragon de magma
+Title: Dragon primaire, Jeune dragon de magma
+LastModified: 2023-02-17 14:38
+Categories:
+- Redirection
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Jeune Dragon de magma|FP 8}
+{s:pucem|Dragon|Montagnes|Extraplanaire}
+- *Source : Bestiaire 2, p.106*
+- **PX** 4 800
+- [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md)) de taille M, CN
+- **Init** +6 ; **Sens** [sens draconiques](./sens draconiques.md) ; [Perception](./Perception.md) +14
+(((Défense)))
+- **CA** 22, contact 12, pris au dépourvu 20 (Dex +2, naturelle +10)
+- **pv** 85 (9d12+27)
+- **Réf** +8, **Vig** +11, **Vol** +10
+- **Immunités** feu, paralysie, sommeil
+- **Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid
+(((Attaque)))
+- **VD** 12 m (8 {s:c}), vol 45 m (30 {s:c}) (moyenne)
+- **Corps à corps** morsure, +14 (1d8+7 plus 3 feu) et 2 griffes, +14 (1d6+5) et 2 ailes, +9 (1d4+2)
+- **Espace** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)
+- **Attaques spéciales** souffle ([cône](./cône.md) de 9 m (6 {s:c}), 6d6 feu, DD 17)
+- **Pouvoirs magiques** (NLS 9 ; concentration +10)
+  - À volonté — *[mains brûlantes](./Mains brûlantes.md)* (DD 12)
+- **Sorts connus** (NLS 1 ; concentration +2)
+  - 1<sup>er</sup> (4/jour) — *[graisse](./Graisse.md)* (DD 12), *[grandes illuminations](./Grandes illuminations.md)*<sup>*</sup> (DD 12)
+  - 0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[étincelles](./Étincelles.md)*<sup>*</sup>, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[saignement](./Saignement.md)* (DD 11)
+(((Caractéristiques)))
+- **For** 21, **Dex** 14, **Con** 17, **Int** 14, **Sag** 14, **Cha** 13
+- **BBA** +9, **BMO** +14, **DMD** 26 (30 contre le [croc-en-jambe](./croc-en-jambe.md))
+- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
+- **Compétences** [Acrobaties](./Acrobaties.md) +11 (+15 pour sauter), [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +13, [Natation](./Natation.md) +14, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14, [Vol](./Vol.md) +14
+- **Langues** commun, draconique, igné
+- **Particularités** chaleur extrême
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons primaires](./dragon primaire.md).***</li><li>***Voir la description des [dragons de magma](./Dragon de magma.md).***</li></ul>*Des filets de lave et des veines incandescentes semblent serpenter entre les écailles noires de ce dragon ainsi que sur les membranes de ses ailes.*
+</div>
+
+{s:ImageCentre|Bestiaire/Dragon de magma.jpg|90%}
+
+</td></tr></table>

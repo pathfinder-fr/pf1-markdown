@@ -1,0 +1,91 @@
+---
+Name: Pathfinder-RPG.Catoblépas
+Title: Catoblépas
+LastModified: 2021-02-14 21:38
+Categories:
+- Bestiaire 2
+- Monstre
+- Règles officielles
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Catoblépas|FP 12}
+{s:pucem|Créature magique|Marais|Tempéré}
+- *Source : Bestiaire 2, p.57*
+- **PX** 19 200
+- [Créature magique](./type Créature magique.md) de taille G, N
+- **Init** –1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +25
+- **Aura** [puanteur](./Puanteur (capacité).md) (9 m (6 {s:c}), DD 23, 10 rounds)
+(((Défense)))
+- **CA** 27, contact 8, pris au dépourvu 27 (Dex –1, naturelle +19, taille –1)
+- **pv** 161 (14d10+84)
+- **Réf** +8, **Vig** +15, **Vol** +8
+- **RM** 23
+(((Attaque)))
+- **VD** 12 m (8 {s:c}), nage 6 m (4 {s:c})
+- **Corps à corps** morsure, +18 (3d6+5) et cornes, +18 (2d8+5/19–20) et 2 sabots, +16 (1d8+2)
+- **Espace** 4,50 m (3 {s:c}) ; Allonge 4,50 m (3 {s:c})
+- **Attaques spéciales** [piétinement](./Piétinement.md) (4d6+7, DD 22), [souffle](./Souffle.md) ([cône](./cône.md) de 18 m (12 {s:c}), poison, Vigueur DD 23, utilisable tous les 1d4 rounds)
+(((Statistiques)))
+- **For** 20, **Dex** 8, **Con** 22, **Int** 5, **Sag** 15, **Cha** 10
+- **BBA** +14 ; **BMO** +20 ; **DMD** 29 (33 contre [croc-en-jambe](./croc-en-jambe.md))
+- **Dons** [Attaques multiples](./Attaques multiples.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (cornes), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)
+- **Compétences** [Natation](./Natation.md) +13, [Perception](./Perception.md) +25
+- **Langues** aklo
+(((Écologie)))
+- **Environnement** marécages
+- **Organisation sociale** solitaire, couple ou troupeau (3–6)
+- **Trésor** fortuit
+(((Pouvoirs spéciaux)))
+- **Souffle empoisonné (Ext).** L’horrible et nauséabond souffle qu’émettent les catoblépas prend la forme d’un cône de gaz empoisonné de 18 mètres (12 {s:c}). Souffle — contact ; *JdS* Vigueur DD 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 Con ; *guérison* 3 réussites consécutives. Le DD dépend de la Constitution.
+
+</div>
+</td><td><div>*Cette hideuse créature possède une tête de sanglier, de courts bois de cerf, le corps épais d’un boeuf recouvert d’épines et des sabots fendus au bout de ses pattes trapues.*
+
+Le catoblépas est une
+créature extrêmement
+agressive capable de renverser
+des arbres, des barrières et
+même de petites maisons pour
+pouvoir dévorer ce qui attire son
+attention, qu’il s’agisse de plantes,
+d’animaux ou d’êtres humains. Ces
+créatures préfèrent les marais, mais
+certaines vont parfois quérir leur nourriture dans les plaines
+et les forêts pendant quelque temps avant de revenir profiter
+de l’effet de flottaison que leur procure l’eau boueuse de leur
+environnement préféré. Rares sont les créatures qui traînent à
+proximité du terrain de chasse d’un catoblépas, du fait de son
+agressivité et de son souffle empoisonné. Seuls les prédateurs
+attirés par les matières en décomposition, comme les vases et les
+otyughs exceptionnellement grands, montrent un quelconque
+intérêt à chasser le catoblépas.
+
+Les catoblépas s’intéressent principalement aux activités
+suivantes : chasser et assurer leur domination sur les créatures
+inférieures qui se trouvent sur leur territoire. Ces créatures,
+facilement repérables par leur odeur, tolèrent la présence
+d’animaux sauvages, de tribus d’humanoïdes et même de
+prédateurs qu’elles peuvent contrôler par la force tant que ceux-ci
+fuient ou se soumettent dès qu’elles apparaissent. Les catoblépas
+n’hésitent pas à combattre les créatures des marais de taille G
+comme les crocodiles ou même les froghémoths. Certaines
+tribus humanoïdes prétendent connaître des techniques pour
+domestiquer un catoblépas et en faire un animal de garde, mais vu
+la nature peu commode et l’intelligence réduite de ces créatures,
+il y a fort à parier que ces procédés utilisent de la magie : les
+catoblépas n’ont pas grand chose à gagner dans ces alliances et
+peuvent aisément détruire tout un village à l’aide de leur souffle.
+Certaines histoires rapportent que les catoblépas utiliseraient
+parfois leur souffle sous l’eau afin de créer un nuage de bulles
+bouillonnant qui tue tous les poissons d’une région donnée,
+tarissant ainsi la source de nourriture des autres créatures locales.
+
+L’odorat du catoblépas est affaibli à cause de sa propre puanteur,
+de sorte qu’il lui est difficile de reconnaître d’autres odeurs
+similaires comme le musc de putois (cela ne l’immunise pas
+contre les effets dépendant de l’odeur cependant).
+
+Un catoblépas mesure 4,50 mètres de long et pèse 1 100 kg.
+</div></td></tr></table>

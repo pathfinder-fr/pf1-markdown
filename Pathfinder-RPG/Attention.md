@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.Attention
+Title: Attention
+LastModified: 2021-07-28 22:27
+Categories:
+- Mot de pouvoir
+---
+
+{s:UM}**Niveau** 1
+
+Un sort incluant ce méta mot ne requiert aucune [composante](./composante.md) gestuelle.

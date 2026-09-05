@@ -1,0 +1,16 @@
+---
+Name: Starfinder.Combat adaptif
+Title: Combat adaptif
+LastModified: 2024-07-04 17:27
+Categories:
+- Don
+- Don combat
+---
+
+*Vous pouvez adapter votre style de combat aux conditions d’une bataille en cours.*
+
+**Catégorie :** Combat
+
+**Conditions :** Trois dons de combat ou plus.
+
+**Avantage :** Choisissez trois dons de combat que vous n’avez pas mais dont vous remplissez les conditions. Une fois par jour par une action de mouvement, vous pouvez bénéficier des avantages de l’un de ces dons pendant 1 minute. Chaque fois que vous gagnez un niveau, vous pouvez remplacer l’un des trois dons sélectionnés par un don différent que vous n’avez pas mais dont vous remplissez les conditions.

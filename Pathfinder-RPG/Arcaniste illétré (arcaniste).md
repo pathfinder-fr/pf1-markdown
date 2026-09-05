@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Arcaniste illétré (arcaniste)
+Title: Arcaniste illétré
+LastModified: 2023-05-28 16:51
+Categories:
+- Archétype
+- Archétype arcaniste
+- Classe
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypearcaniste}{s:MCA}*Certains arcanistes stockent leurs sorts en murmurant leurs secrets à des familiers au lieu de les coucher sur le papier.*
+
+#### Familier
+Un arcaniste illettré n’a pas de grimoire. À la place, il dispose d’un [familier](./familier.md) dans lequel il stocke ses sorts, comme une [sorcière](./Sorcière.md), sans toutefois obtenir un protecteur comme elle.
+
+Considérez son niveau d’arcaniste comme son niveau de sorcière pour déterminer les aptitudes et les avantages conférés par le familier.
+
+Tous les éléments qui devraient permettre à un arcaniste illettré d’ajouter des sorts dans son grimoire lui permettent à la place de les ajouter dans son familier. Cette aptitude remplace grimoire.
+
+#### Sorts de sorcière
+Un arcaniste illettré suit une tradition magique différente. Il utilise la [liste des sorts de sorcière](./Liste des sorts de sorcière.md) et non celle des ensorceleurs/magiciens. Cette aptitude modifie l’aptitude de classe sorts.

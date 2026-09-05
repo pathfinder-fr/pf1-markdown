@@ -1,0 +1,26 @@
+---
+Name: Pathfinder-RPG.Faveur conditionnelle
+Title: Faveur conditionnelle
+LastModified: 2023-01-24 20:13
+Categories:
+- Sort antipaladin 1
+- Sort barde 2
+- Sort hypnotiseur 2
+- Sort inquisiteur 2
+- Sort occultiste 2
+- Sort paladin 1
+- Sort prêtre 2
+- Sort sorcière 2
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}**École**  [Abjuration](./Abjuration.md) ; **Niveau** [Antipal](./Antipaladin.md) 1, [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Occ](./Occultiste.md) 2, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 2
+**Temps d'incantation** 1 [action rapide](./Action rapide.md)
+**Composantes** [V](./composantes.md)
+**Cibles** une créature
+**Durée** 1 jour/niveau (T)
+**Jet de sauvegarde** aucun (voir description) ; **Résistance à la magie** oui
+
+Le personnage doit lancer ce sort immédiatement après avoir lancé un autre sort sur la même créature, prononçant une promesse ou une interdiction à propos d'un comportement spécifique et liant la cible au sort jumelé. Si le personnage ne lance pas de sort jumelé, *faveur conditionnelle* n'a aucun effet. Le sort jumelé doit être de l'école de l'[abjuration](./Abjuration.md), de l'[enchantement](./Enchantement.md), de l'[invocation (guérison)](./branche guérison.md) ou de la [transmutation](./Transmutation.md), et doit être lancé sur une créature consentante. Si le bénéficiaire enfreint la promesse ou ignore l'interdiction alors que *faveur conditionnelle* est actif, le sort jumelé est supprimé comme s'il n'avait jamais été lancé. Si le sort était un sort de guérison, les points de dégâts ou les états soignés reviennent immédiatement, même si la cible a pu profiter d'un repos suffisant ou d'autres soins. Les [poisons](./Poisons.md), les [maladies](./Maladies.md), les [malédictions](./malédiction.md), les [affaiblissements temporaires](./affaiblissement temporaire (capacité).md) et les [niveaux négatifs](./niveau négatif.md) éliminés par le sort jumelé reviennent également.
+
+*Faveur conditionnelle* considère l'esprit de la condition du personnage et ne se déclenche pas à cause d'une transgression due à des conséquences involontaires ou des circonstances que la cible ne pouvait pas prévoir avec sa connaissance actuelle de la situation. Par exemple, si l'interdiction empêche la cible de poser la main sur un membre de la royauté, toucher un prince déguisé ne compte pas comme une transgression si la cible ne reconnaît pas le prince, tout comme toucher un membre de la royauté en étant sous l'emprise d'une domination. La cible du sort sait toujours à l'avance si une action lui ferait perdre les avantages du sort jumelé.

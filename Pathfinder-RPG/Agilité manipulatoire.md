@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Agilité manipulatoire
+Title: Agilité manipulatoire
+LastModified: 2023-01-18 16:00
+Categories:
+- Don
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}*Vous pouvez utiliser votre agilité pour manipuler les personnes aussi bien que les petits objets.*
+
+**Conditions.** 1 rang en [Bluff](./Bluff.md), 1 rang en [Escamotage](./Escamotage.md)
+
+**Avantages.** Le personnage peut utiliser l’[Escamotage](./Escamotage.md) à la place du [Bluff](./Bluff.md) lors des tests pour [feinter](./feinte.md) en combat, ainsi que pour les tests visant à transmettre des messages secrets sans être vu (grâce à des gestes et un langage corporel adéquat). Dans les deux cas, l’effet devient visuel et ne fonctionne pas si la cible ou le destinataire est aveugle ou ne peut autrement pas voir le personnage. Dans le cas des messages secrets, les limitations des mouvements de main et du langage corporel peuvent impacter ce qu’il est possible de transmettre ou non, à la discrétion du [MJ](./MJ.md).

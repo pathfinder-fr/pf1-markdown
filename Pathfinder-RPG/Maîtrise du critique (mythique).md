@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Maîtrise du critique (mythique)
+Title: Maîtrise du critique (mythique)
+LastModified: 2018-07-21 00:15
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*Les coups critiques du personnage sont d’une nature polyvalente et dévastatrice.*
+
+**Condition.** [Don pour les critiques (mythique)](./Don pour les critiques (mythique).md), [Maîtrise du critique](./Maîtrise du critique.md)
+
+**Avantage.** Lorsqu’il utilise [Maîtrise du critique](./Maîtrise du critique.md), le personnage augmente le nombre de dons de critique qu’il peut appliquer pour chaque tranche de trois [grades](./grades.md).

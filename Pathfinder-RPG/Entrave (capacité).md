@@ -1,0 +1,12 @@
+---
+Name: Pathfinder-RPG.Entrave (capacité)
+Title: Entrave (Ext ou Sur)
+LastModified: 2012-01-08 11:38
+---
+
+La créature possède une capacité qui permet d’entraver les mouvements d’un adversaire, généralement à l’aide d’une attaque physique utilisant de la glace, de la boue, de la lave ou une toile. L’adversaire ciblé doit réussir un jet de Vigueur pour ne pas être [enchevêtré](./Enchevêtré.md) pendant la durée indiquée.
+Un adversaire déjà [enchevêtré](./Enchevêtré.md) par cette capacité et pris à nouveau pour cible doit réussir le jet de Vigueur ou se retrouver [sans défense](./Sans défense.md) pendant la durée indiquée. Le DD du jet de sauvegarde dépend de la Constitution.
+Un adversaire rendu [sans défense](./Sans défense.md) par cette capacité reste conscient mais ne peut entreprendre aucune action physique (sauf tenter de se libérer) tant que le matériel qui l’entrave n’a pas été enlevé. Un test de [concentration](./concentration.md) contre un DD de 20 lui permet d’utiliser un sort ou un pouvoir magique ne comportant que des composantes verbales.
+Une créature [enchevêtrée](./Enchevêtré.md) peut utiliser une action complexe pour tenter de se libérer en réussissant un test de Force (contre le même DD que celui du jet de sauvegarde de l’attaque entravante). Si la créature est [sans défense](./Sans défense.md), le DD augmente de +5. La créature est immédiatement libérée si le matériel qui entrave ses mouvements est détruit.
+
+*Format :* entrave (DD 13, 1d10 minutes, solidité 5, 10 pv). *Emplacement :* Attaques spéciales et attaques individuelles.

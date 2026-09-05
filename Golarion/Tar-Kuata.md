@@ -1,0 +1,13 @@
+---
+Name: Golarion.Tar-Kuata
+Title: Tar-Kuata [Tar-Kuata]
+LastModified: 2009-12-28 22:24
+Categories:
+- Géographie
+- Osirion
+- Ville
+---
+
+Ville du Sud-est d'[Osirion](./Osirion.md).
+
+Elle est située dans la chaîne rocheuse du [Mur Barrière](./Mur-Barrière.md), à la limite de la région des [Empreintes de Rovagug](./Empreintes de Rovagug.md).

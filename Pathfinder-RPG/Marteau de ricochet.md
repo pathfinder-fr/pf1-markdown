@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Marteau de ricochet
+Title: Marteau de ricochet
+LastModified: 2024-05-21 18:41
+Categories:
+- Objet mag arme
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Marteau de ricochet|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 20 301 po ; **Poids** 1 kg
+(((Description)))
+Ce *marteau léger [boomerang](./boomerang (propriété).md) +1* frappe plusieurs adversaires au cours d'un même lancer. Si son propriétaire bénéficie de plusieurs attaques grâce à un [bonus de base à l'attaque](./BBA.md) élevé, il peut le lancer de telle manière qu'il rebondisse sur la première cible, en frappe une deuxième etc. Un coup de plus par attaque supplémentaire. La distance qui sépare les cibles compte dans la portée maximale de l'arme et tient compte des malus de distance. Par exemple, un guerrier nain de niveau 6 qui utilise son [BBA](./BBA.md) de +6 peut lancer le marteau sur une cible distante de 6 mètres (donc dans le premier facteur de portée et sans malus de distance). S'il la touche, le marteau rebondit grâce à l'attaque au BBA +1 et file vers une seconde cible distante de 12 mètres par rapport à la première (donc à trois facteurs de portée, avec un malus de -4). Le marteau ricoche seulement s'il touche sa cible, s'il la rate, il poursuit sa course, n'attaque plus personne pendant le round et revient normalement dans la main du personnage, comme n'importe quelle arme *[boomerang](./boomerang (propriété).md)*. Comme les attaques issues du ricochet sont considérées comme des attaques indépendantes, les modificateurs qui s'appliquent à une seule attaque (comme un *[coup au but](./Coup au but.md)*) ne sont valables que pour la première. Les attaques par ricochet comptent comme les attaques supplémentaires du personnage pour le round.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[télékinésie](./Télékinésie.md)* ; **Coût** 10 301 po
+</div>

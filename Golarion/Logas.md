@@ -1,0 +1,13 @@
+---
+Name: Golarion.Logas
+Title: Logas
+LastModified: 2010-04-26 18:07
+Categories:
+- Géographie
+- Isger
+- Ville
+---
+
+Logas est la seconde ville de l'[Isger](./Isger.md) en terme de population.
+
+Située à proximité de la forêt des Chants d'Oiseaux, d'où sont sorties les tribus gobelines qui ont dévasté le pays lors des guerres du Sang Gobelin. La cité vit encore avec la hantise de voir les hordes gobelines ressortir de la forêt et recommencer leurs massacres.

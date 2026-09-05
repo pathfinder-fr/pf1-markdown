@@ -1,0 +1,71 @@
+---
+Name: Pathfinder-RPG.Diable apostat
+Title: Diable, Diable apostat (Deimavigga)
+LastModified: 2023-03-21 14:42
+Categories:
+- Monstre
+- Src Bestiaire 5
+- Src Livre des damnés
+---
+
+<table class="Bestiaire">
+<tr>
+<td>
+<div class="BD">
+{s:BDtitre|Diable apostat (deimavigga)|FP 17}
+{s:pucem|Extérieur|Ville|Extraplanaire}
+{s:BDtexte|*Source : Bestiaire 5 p.82*}
+{s:BDtexte|**PX** 102 400}
+{s:BDtexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
+{s:BDtexte|**Init** +14 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +28}
+{s:BDsoustitre|Défense}
+{s:BDtexte|**CA** 46, contact 20, pris au dépourvu 36 (armure +14, Dex +10, naturelle +12)}
+{s:BDtexte|**pv** 261 (18d10+162) ; [régénération](./Régénération (capacité).md) 5}
+{s:BDtexte|**Réf** +16, **Vig** +20, **Vol** +20}
+{s:BDtexte|**RD** 10/Bien et argent ; **Immunités** feu, poison ; **Résistances** acide 10, froid 10 ; **RM** 27}
+{s:BDsoustitre|Attaque}
+{s:BDtexte|**VD** 9 m, vol 18 m (parfaite)}
+{s:BDtexte|**Corps à corps** 2 griffes, +28 (1d8+9/19-20 plus diminution permanente 1d6 Sagesse)}
+{s:BDtexte|**Espace occupé** 1,50 m ; **Allonge** 3 m}
+{s:BDtexte|**Attaques spéciales** allonge infinie, vérité obsédante}
+{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 18 ; [concentration](./concentration.md) +27)}
+{s:BDsorts|À volonté — *[image accomplie](./Image accomplie.md)* (DD 22), *[mirage](./mirage.md)* (DD 24), *[modification d’apparence](./Modification dapparence.md)*, *[songe](./Songe.md)* (DD 24), *[téléportation suprême](./Téléportation suprême.md)* (lui-même plus 25 kg d’objets seulement), *[ventriloquie](./Ventriloquie.md)* (DD 19)}
+{s:BDsorts|3/jour — *[aliénation mentale](./Aliénation mentale.md)* (DD 26), *[blasphème](./Blasphème.md)* (DD 26), *[domination](./Domination.md)* (DD 24), *[idiotie](./Idiotie.md)*, *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 24), *[voile](./Voile.md)* (DD 25)}
+{s:BDsorts|1/jour — *[brume mentale](./Brume mentale.md)* (DD 24), [convocation](./Convocation (capacité).md) (niveau 8, 1d6 [diables osseux](./Diable osseux.md) ou 2d4 [diables barbus](./Diable barbu.md) 50% ou 1 [diable des glaces](./Diable des glaces.md) 20%), *[écran](./Écran.md)* (DD 27)}
+{s:BDsoustitre|Caractéristiques}
+{s:BDtexte|**For** 28, **Dex** 31, **Con** 28, **Int** 21, **Sag** 24, **Cha** 28}
+{s:BDtexte|**BBA** +18, **BMO** +28, **DMD** 47}
+{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaques réflexes](./Attaques réflexes.md), [Expertise du combat](./Expertise du combat.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Persuasion](./Persuasion.md), [Science du critique](./Science du critique.md) (griffe), [Science du désarmement](./Science du désarmement.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
+{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +28, [Bluff](./Bluff.md) +30, [Connaissances](./Connaissances.md) (histoire) +26, [Connaissances](./Connaissances.md) (plans) +26, [Connaissances](./Connaissances.md) (religion) +26, [Déguisement](./Déguisement.md) +27, [Diplomatie](./Diplomatie.md) +34, [Discrétion](./Discrétion.md) +36, [Intimidation](./Intimidation.md) +34, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +28, [Vol](./Vol.md) +18}
+{s:BDtexte|**Langues** abyssal, céleste, commun, draconique, infernal ; oraison implacable, [télépathie](./Télépathie (capacité).md) à 30 m}
+{s:BDtexte|**Particularités** armure fusionnée, évangélisation, forme malléable, oraison implacable}
+{s:BDsoustitre|Écologie}
+{s:BDtexte|**Environnement** tous (Enfers)}
+{s:BDtexte|**Organisation sociale** solitaire}
+{s:BDtexte|**Trésor** double (*[harnois](./harnois (armure).md) d’[ombre](./ombre (propriété).md) +5*, autres trésors)}
+{s:BDsoustitre|Pouvoirs spéciaux}
+{s:BDtexte|**Allonge infinie (Sur).** Les griffes d’un deimavigga tranchent la réalité même et lui permettent d’effectuer des attaques au corps à corps contre les créatures dont il perçoit la présence, c’est-à-dire les créatures situées à 30 mètres ou moins, la plupart du temps. La zone de contrôle du diable reste la même (une zone de 3 mètres autour de lui) et il ne peut pas effectuer d’[attaques d’opportunité](./AO.md) contre les créatures situées au-delà. Ce pouvoir reste utile, quelles que soient les distances ; un deimavigga peut donc utiliser la magie divinatoire pour détecter les créatures distantes et les attaquer, même si plusieurs kilomètres les séparent ou s’ils se trouvent sur des plans différents. Le sort d’*[interdiction](./Interdiction.md)*, ou une magie similaire, qui empêche le voyage planaire, protège contre les griffes d’un deimavigga. Le sort d’*[ancre dimensionnelle](./Ancre dimensionnelle.md)* empêche également un deimavigga d’utiliser ce pouvoir pendant toute la durée du sort. Une créature attaquée peut riposter jusqu’au début du prochain tour du deimavigga et frapper les griffes du diable avec des armes ou des sorts comme s’il était physiquement présent, mais les griffes du deimavigga bénéficient, dans ce cas, d’un bonus de taille à la [CA](./CA.md), en considérant qu’elles sont de deux catégories de taille inférieures au deimavigga, et la créature attaquée ne peut pas tenter de lutter contre les griffes ou les empêcher de disparaître hors d’atteinte à la fin du [round](./round.md).}
+{s:BDtexte|**Armure fusionnée (Ext).** L’armure d’un deimavigga fait partie intégrante de son corps, comme une seconde peau. Un deimavigga ignore la réduction de la vitesse de déplacement de son armure, le bonus de Dex maximum et le [malus d’armure](./malus darmure.md) aux tests.}
+{s:BDtexte|**Diminution permanente de Sagesse (Sur).** Un deimavigga inflige une [diminution permanente](./affaiblissement temporaire (capacité).md) de 1d6 points de [Sagesse](./Sagesse.md) chaque fois qu’il réussit à toucher une créature avec son attaque de griffe (un deimavigga ne se soigne pas pour autant quand il inflige cette diminution permanente de Sagesse).}
+{s:BDtexte|**Évangélisation (Sur).** Les paroles des deimaviggas empoisonnent l’esprit. Chaque [round](./round.md) pendant lequel un deimavigga parle (par une [action libre](./Action libre.md)), toutes les créatures autres que les diables avec une valeur d’[Intelligence](./Intelligence.md) de 3 ou plus et situées à 9 mètres ou moins doivent chacune réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 28 pour ne pas devenir vulnérables à son discours blasphématoire. Le DD de ce jet de Volonté augmente de 1 pour chaque round consécutif lors duquel une créature écoute le discours d’un même deimavigga. Les créatures doivent écouter un deimavigga pour être affectées par son oraison. On considère que les créatures sourdes et celles engagées dans un combat contre le deimavigga ou d’autres créatures ne sont pas à l’écoute. Les victimes ne peuvent pas simplement déclarer qu’elles n’écoutent pas, à moins qu’elles n’appliquent des mesures concrètes pour bloquer leur perception auditive. Une victime qui rate son [jet de sauvegarde](./JDS.md) peut être affectée par le pouvoir hérétique des paroles d’un deimavigga. Le diable peut discourir pour affecter un auditeur en reproduisant les effets de l’un des sorts suivants : *[apaisement des émotions](./Apaisement des émotions.md)* (DD 21), *[charme-monstre](./Charme-monstre.md)* (DD 23), *[confusion](./Confusion.md)* (DD 23), *[désespoir foudroyant](./Désespoir foudroyant.md)* (DD 23), *[discours captivant](./Discours captivant.md)* (DD 21), *[injonction](./Injonction.md)* (DD 20), *[modification de mémoire](./Modification de mémoire.md)* (DD 23), *[rage](./Rage.md)* (DD 22), *[sommeil profond](./Sommeil profond.md)* (DD 22) ou *[suggestion](./Suggestion.md)* (DD 22). Les victimes peuvent toujours effectuer des jets de sauvegarde contre ces effets magiques, mais si elles les ratent, elles ne sont pas conscientes du pouvoir que le diable exerce sur elles. Un deimavigga peut affecter plusieurs victimes avec différents effets de sort lors du même round. C’est un effet mental de son. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDtexte|**Forme malléable (Sur).** Un deimavigga contrôle parfaitement sa forme physique et, s’il prend une autre forme contre sa volonté, il peut reprendre sa forme normale par une [action libre](./Action libre.md).}
+{s:BDtexte|**Oraison implacable (Sur).** Le discours d’un deimavigga est toujours parfaitement limpide et ne peut pas être réduit au silence ou déformé. Même dans les zones extrêmement bruyantes, dans l’eau ou dans le néant où l’air est absent, ou dans des zones de silence magique, la voix de ces diables est toujours normalement audible. Tous comprennent les deimaviggas, comme si ces diables parlaient en permanence toutes les langues à la fois.}
+{s:BDtexte|**Vérité obsédante (Sur).** Par une [action simple](./Action simple.md), trois fois par jour, un deimavigga peut murmurer une vérité multiverselle et fondamentale, mais terrifiante, à l’intention d’une créature située à 1,50 mètre ou moins. La cible doit effectuer un jet de [Volonté](./Volonté.md) [DD](./DD.md) 28 pour que cette vérité prononcée par le diable ne s’enracine pas dans sa psyché. Les extérieurs et les élémentaires bénéficient d’un bonus de +2 à leur [jet de sauvegarde](./JDS.md) contre ce pouvoir. Au début, les paroles du deimavigga ne semblent produire aucun effet. Toutefois, chaque fois que la victime tente de se reposer, elle doit effectuer un jet de Volonté DD 28 supplémentaire pour ne pas être affectée par un effet similaire au sort de *[cauchemar](./sort Cauchemar.md)* (même si elle n’est techniquement pas en train de dormir). Après une nuit remplie de rêves douloureux et saisissants, et de lutte contre les paroles du diable, la victime doit encore effectuer un autre jet de Volonté DD 28 pour ne pas voir son alignement changer d’une catégorie vers Loyal Mauvais. C’est en désapprenant les paroles prononcées par le deimavigga qu’une victime peut se libérer de cet effet et seul un sort tel qu’un miracle, une *[modification de mémoire](./Modification de mémoire.md)* ou un *[souhait](./Souhait.md)* peut y parvenir.}
+</div>
+</td>
+<td>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+*Un sinistre masque de métal lévite au-dessus d’une armure dont les ornements changent et se tortillent, et de longues lames forment des doigts sur des mains gantées de fer.*
+
+
+Imposants, terrifiants et insensibles, les deimaviggas cherchent à détourner les fidèles de leur dieu, en utilisant la logique pour faire du prosélytisme en faveur de l’athéisme, de la liberté d’esprit des mortels et de l’ordre proposé par les Enfers. Leur masque en perpétuel changement prononce des paroles venimeuses et confère un semblant de vérité à leurs mensonges trompeurs. Ces redoutables intellectuels dénoncent toutes les divinités (à l’exception d’Asmodéus, dont ils vantent subtilement les capacités à apporter l’ordre tout en minimisant sa nature divine) et savent que ceux qui se détournent de leur divinité sont à même de succomber aux sirènes du diabolisme. Au lieu d’essayer d’influencer l’âme des mortels au cas par cas, ces fourbes diables endossent le rôle de prophètes de la raison, en changeant leur apparence grâce à de multiples illusions, pour faire l’apologie des vertus et des libertés qu’il est possible de vivre en se libérant des exigences imposées par les divinités égocentriques. Il arrive que l’un d’eux focalise ses arguments sur une âme particulièrement pieuse, en prenant plaisir à plonger un des plus dévoués serviteurs d’une divinité dans une inexorable crise de croyance. Les deimaviggas se soucient peu des divinités affectées par leurs déprédations, et détournent les adorateurs de toutes les divinités, qu’elles soient pures ou impies.
+
+Sous leur aspect naturel, les deimaviggas font 2,10 mètres de haut pour à peine 60 kilos. Mais lorsqu’ils se déguisent, ils prennent le plus souvent la forme de vénérables sages dont la longue vie leur a permis de comprendre les vérités fondamentales de l’univers, de prêtres qui ont « concrétisé leur folie » et rejeté leur ancien dogme ou même d’ « anges » de la vérité. Même s’ils préfèrent combattre par la parole et non par des moyens physiques, les deimaviggas attaquent ceux qui tentent de percer leur déguisement et de dévoiler leurs illusions, ou ceux qui font autant preuve d’éloquence qu’eux. Toutefois, lorsque c’est possible, ils préfèrent tuer discrètement et se débarrasser en secret des cadavres.
+
+Les deimaviggas préfèrent passer la plupart de leur temps sur le plan Matériel pour influencer les âmes des mortels faibles et corruptibles. Là, ils se rendent dans les grandes cités habitées par les mortels où leur hérésie peut être entendue par le plus grand nombre, ou dans des petites communautés dont les habitants isolés peuvent aisément accepter leur philosophie blasphématoire. Aux Enfers, cependant, ils s’attardent en Caina où ils tourmentent les âmes des créatures piégées sur les îles éparses de ce royaume, développant et testant leurs arguments compliqués et souvent déroutants.
+
+Plutôt solitaires dans leur démarche, ces diables au discours venimeux oeuvrent rarement aux côtés des leurs, même si leur statut les autorise à contrôler les fiélons inférieurs. Ils considèrent que leurs arguments sont plus convaincants lorsqu’ils sont prononcés par un seul et même individu et que la présence de séides, même les plus obéissants, complique leurs efforts. Ils se soumettent néanmoins à la hiérarchie des Enfers et se mettent au service d’un supérieur si tels sont les ordres. Les diantrefosses et les ducs infernaux ont parfois des deimaviggas à leur service, en tant que majordomes personnels, espions et semeurs de dissension. Toutefois, même parmi les diables, ces fiélons énigmatiques sont considérés comme des êtres particulièrement troublants.
+</div>
+</td>
+</tr>
+</table>

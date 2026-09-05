@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Poussière de lassassin
+Title: Poussière de l'assassin
+LastModified: 2024-06-12 20:49
+Categories:
+- Objet mag merveilleux
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Poussière de l’assassin|{s:MCA}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 7 500 po ; **Poids** —
+(((Description)))
+Lorsqu’elle entre en contact avec la peau, cette fine poussière provoque des brûlures et des fourmillements. Quand on en saupoudre un cadavre ou un squelette inanimé, elle désintègre la chair morte et les os, les transformant en une fine poudre brune semblable à celle que laisse un sort de désintégration. La *poussière de l’assassin* se présente sous forme d’une petite fiole pouvant traiter huit cadavres de taille P, quatre cadavres de taille M ou un cadavre de taille G. Un squelette compte comme un demi-cadavre de sa taille. Cette poussière n’a aucun effet sur les créatures vivantes et mortes-vivantes.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[désintégration](./Désintégration.md)* ; **Coût** 375 po
+</div>

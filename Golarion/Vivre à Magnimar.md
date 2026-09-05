@@ -1,0 +1,947 @@
+---
+Name: Golarion.Vivre à Magnimar
+Title: Vivre à Magnimar
+LastModified: 2019-11-07 16:39
+Categories:
+- Géographie
+- Non-officiel
+- Organisation
+- Personnalité
+---
+
+{s:Creafan}{s:Ville|Magnimar||La Cité des Monuments|Ville traditionnelle (maire)|N|40.000 po|32.856.000 po|16.428|81% humains, 5% halfelins, 4% nains, 4% elfes, 3% gnomes, 2% demi-elfes, 1% demi-orques|{s:DescElem|**[Haldmeer Grobaras](./Haldmeer-Grobaras.md)**, seigneur-maire (humain m, N, noble 9)} {s:DescElem|**Verrine Caiteil**, porte-parole du Conseil des Anciens (elfe f, NB, noble 5/barde 2)} {s:DescElem|**Juste Seigneur Bayl Argentine**, chef de la Cour de Justice (humain m, LN, noble 6/guerrier 3)} {s:DescElem|**Réméria Callinova**, dirigeante du Conseil Varisien (humaine f, CB, expert 4/roublard 2)} {s:DescElem|**Dame Vammiéra Symirkova**, maîtresse des Gargouilles (humaine f, NM, noble 2/roublard 6/ensorceleur 4)} {s:DescElem|**Princesse Sabriyya Kalméralm**, dirigeante de facto du Bazar des Voiles (humaine f, CN, roublard 12)}|l'[Arvensoar](./Arvensoar.md), l'[Irarche](./Irarche.md)} **Blason et couleurs.** Les couleurs de Magnimar sont le bleu et le blanc. Le blason est un écu dont la partie inférieure est bleue avec du blanc au-dessus et une tour en premier plan, représentant l’Arvensoar.
+
+**Ressources.** [PF2, Les meurtres des écorcheurs](./../Aventures/Présentation AP1.md#AP1-2) ; [Rapport d'éclaireurs sur Magnimar](./Aides de jeu.md#REMAGNIMAR), Recueil d’informations par Ekmule (sur aidedd.org).
+
+#### Bref historique de la ville
+
+La naissance de [Magnimar](./Magnimar.md) est liée à une mort, celle d’[Aroden](./Aroden.md). Le [Chéliax](./Chéliax.md), dépourvu de son guide divin, fut le théâtre de terribles guerres intestines pour le pouvoir. Ce tremblement de terre politique eut des répercussions dans ses colonies, notamment dans la cité de [Korvosa](./Korvosa.md). Suite à un massacre perpétré par des diables, une grande partie de la population voulut se défaire de la tutelle de l’empire décadent. Durant l’hiver 4607, le sang coula à flot dans la ville chéliaxienne. Les indépendantistes korvosiens, malgré une farouche résistante, furent mis à mal. Et quand les premiers rayons de soleil percèrent les couches de gels, l’exode débuta pour fuir les persécutions chélaxiennes.
+
+En 4608, les premiers colons commencèrent à s’installer à l’embouchure du fleuve [Yondabakari](./Yondabakari.md), à l’endroit où Alcaydian Indros avais vaincu un dragon de mer un quart de siècle auparavant ([PF2](./../Aventures/Présentation AP1.md#AP1-2), page 64). Les premières relations avec les [Varisiens](./Varisiens.md) furent tendues, car les Korvosiens c’était installé sur un site sacré du peuple nomade. Ce n’est qu’au bout de deux ans que les relations se détendirent, avec la construction de l’Arvensoar ([PF2](./../Aventures/Présentation AP1.md#AP1-2), page 60). Au cours du siècle qui suivit, la ville de [Magnimar](./Magnimar.md) n’a eu de cesse de s’agrandir, au point de se révéler comme une sérieuse concurrente de [Korvosa](./Korvosa.md), et d’étendre son influence sur toute la côte ouest de la [Varisie](./Varisie.md).
+
+Si aucun conflit ouvert n’existe entre les deux cités, les escarmouches n’ont cessé de croître ses dernières années et il existe de nombreux points de tensions diplomatiques. Le succès de Magnimar est dû, en grande partie, aux Varisiens qui ont ouvert de nombreuses voies commerciales dans les terres, facilitant ainsi les échanges. Un marchand posant le pied dans le port de [Magnimar](./Magnimar.md) peut facilement trouver un convoi qui transportera ses biens jusqu’en [Ustalav](./Ustalav.md). Ajouté à un système de taxation assez faible et à une relative sécurité, tous ces atouts ont contribué à l’expansion rapide de la Cité des Monuments.
+
+#### Démographie de Magnimar
+
+Même si la principale ethnie habitant [Magnimar](./Magnimar.md) est d’origine [korvosienne](./Korvosa.md), les [Varisiens](./Varisiens.md) constituent une part importante de la population... quand ils sont présents. Durant les belles saisons, la grande majorité du peuple nomade est sur les routes, ne rentrant que pour s’approvisionner en marchandise ou quand le temps est trop rude. Bien entendu, certains [Varisiens](./Varisiens.md) se sont sédentarisés, mais ce n’est qu’une infime partie. Aux premières neiges, [Magnimar](./Magnimar.md) a tendance à souffrir d’un problème de surpopulation et il devient difficile de se loger.
+
+Hormis ses deux ethnies, on peut croiser presque tous les peuples. Les royaumes de l’est passent souvent par [Magnimar](./Magnimar.md) pour se rendre dans le sud, et vice-versa. Les taxes et les lois moins contraignantes que [Korvosa](./Korvosa.md) rendent la cité des monuments plus attrayante. Même le [Chéliax](./Chéliax.md) utilise son port à des fins commerciales, bien que les membres de cet empire soient souvent sous la surveillance étroite des Mouches et des Cafards (voir le chapitre sur le pouvoir politique). Ainsi, il n’est pas rare de voir un marchand de la [mer Intérieure](./mer Intérieure.md) commercer avec un noble d’[Ustalav](./Ustalav.md) ou un habitant du ^[Dernier-Rempart](./Dernier-Rempart.md).
+
+Si ce mélange constant est une corne d’abondance pour le commerce et la culture, c’est aussi un panier de crabes où les alliances politiques se font et se défont, quelques fois avec des gorges tranchées. Aucune nation ne possède d’ambassade officielle, le Conseil Varisien s’y opposant, mais plusieurs possèdent des commerces qui jouent ce rôle. Il n’existe pas de discrimination raciale envers les races non humaines : ils jouissent des mêmes droits et devoirs. Mis à part une enclave naine qui s’est installée au pied de la falaise, il n’existe pas de communauté raciale. Toutefois, la plupart des demi-orques vivent dans les quartiers pauvres de la ville.
+
+#### Se loger à Magnimar
+
+Il est possible de vivre à [Magnimar](./Magnimar.md) quels que soit ses revenus, mais pas dans les mêmes endroits. Ainsi, dans les Ombres vous pouvez très bien dormir dans la rue sans que personne ne proteste, mais vous ne trouverez pas de logement de qualité. C’est l’exact inverse dans le quartier d’Albâtre où les mendiants sont éconduits sans ménagement. Dans le tableau des quartiers, il est précisé un coût de la vie minimum et maximum possible dans cet endroit ainsi que les tarifs correspondant. Cette notion fait référence au livre des règles de Pathfinder-RPG, page 411 en VF. Sauf pour la vie miséreuse, il existe dans chacun des quartiers une auberge capable d’offrir les prestations adaptées à chacun des niveaux.
+
+#### Commercer à Magnimar
+
+Les lois de [Magnimar](./Magnimar.md) sont très permissives en matière de commerce. Ajoutées à la circulation continuelle des marchands et des marchandises, qui limite toutes formes de corporatisme, le résultat est que l’on peut trouver de tout et faire de très bonnes affaires dans la Cité des Monuments. Mais, il ne faut pas hésiter à farfouiller, même dans les recoins les plus sombres.
+
+En vous aidant des listes ci-dessous, attribuez une valeur de disponibilité à l’article que les PJ recherchent. Ces listes ont, avant tout, un but indicatif. Libre à vous de les modifier en fonction de votre style de jeu, notamment selon votre approche de la magie. Une fois le DD déterminé, un test réussi de Connaissance (folklore local) permet de trouver la boutique le vendant. Par tranche de 5 points de réussite au-delà du DD, le prix est diminué de 10%. Il est majoré de 10% par tranche de 3 points d’échec et introuvable au-delà de 10 points d'échec.
+
+Quant aux objets qui ne sont pas dans ces listes, ils ne sont pas traditionnellement vendus et en acquérir un devrait donner lieu à une petite quête pour le PJ.
+
+<center>
+<table CELLSPACING="15">
+<tr>
+<th>DD des objets très communs</th>
+<th>DD des objets communs</th>
+</tr>
+<tr>
+<td>5 Nourriture et objets courants  
+
+7 Matériel d'aventurier de 10 po ou moins  
+
+7 Habits : paysan, moine, explorateur, voyage  
+
+9 Armes courantes légères</td>
+<td>10 Matériel d’aventurier de 10 à 9999 po  
+
+12 Matériel de classes inférieur à 70 po  
+
+12 Habits, tous autre que noble et royal  
+
+13 Armes courantes  
+
+13 Armures légères  
+
+14 Animal et équipement inférieur à 100 po</td>
+</tr>
+<tr>
+<th>DD des objets rares</th>
+<th>DD des objets très rares</th>
+</tr>
+<tr>
+<td>15 Matériel de classes supérieur à 70 po  
+
+19 Habits : noble et royal  
+
+19 Armes courantes de maître  
+
+17 Armes de guerre  
+
+17 Armures intermédiaires ou légères de maître  
+
+18 Animal et équipement inférieur à 200 po  
+
+18 Objet magique inférieur à 150 po  
+
+19 Poisons, inférieur à 200 po</td>
+<td>22 Clepsydre et longue-vue  
+
+23 Armes de guerre de maître  
+
+21 Armes exotiques  
+
+21 Armures lourdes ou intermédiaires de maître  
+
+22 Cheval de guerre entraîné  
+
+23 Objet magique inférieur à 500 po  
+
+24 Poisons, inférieur à 1000 po</td>
+</tr>
+</table>
+</center>
+
+#### Les lois de Magnimar
+
+**La structure judiciaire.** La loi de [Magnimar](./Magnimar.md) est appliquée en premier lieu par les gardes de la ville qui patrouillent. Ils ont le pouvoir d’arrêter quiconque enfreint les règles et les déférer devant les assesseurs des juges. Ils n’ont pas le pouvoir de prononcer une peine, mais peuvent exécuter un jugement. S’ils obéissent au pouvoir judiciaire, ils sont tout de même sous l’autorité militaire et le pouvoir du Seigneur-Maire prévaut.
+
+Les "Mouches", nom donné aux assesseurs des juges, sont avant tout des enquêteurs agissant sous le pouvoir direct des juges. Leurs missions sont assez vastes, impliquant un grands nombres de situations comme un cambriolage, un meurtre ... Tous les actes délictuels peuvent donner lieu à leurs interventions. Ils ne s’affichent que rarement en public, leur discrétion étant leur principal atout. Ils sont souvent accusés d’être le bras armé des juges, ce qui n’est pas totalement faux.
+
+Enfin, il y a les juges, qui appliquent les lois de [Magnimar](./Magnimar.md). Siégeant dans la très estimée Cour de Justice, ils s’occupent prioritairement des crimes de sang ou des crimes visant l’intégrité de la ville. Si, dans les textes, cet organisme est indépendant, dans les faits, c’est le Conseil des Guides qui vote le budget de la justice et nomme les juges, ce qui donne lieu à de nombreux bras de fer entre les juges et le Seigneur-maire, les Mouches et les Cafards se livrant à une guerre souterraine d’influence.
+
+**Les principaux délits.** Le vol, et tous les délits qui peuvent y être associés, sont punis par la restitution du bien ou de son équivalent en or et d’une amende. Les cas de récidives peuvent donner lieu à une peine de prison. Les crimes de sang, y compris le viol, sont toujours punis d’emprisonnement ainsi que d’une forte amende, les biens du criminel pouvant être saisis à cette occasion.
+
+**La propriété à Magnimar.** La notion de propriété est l’un des aspects majeurs des lois de [Magnimar](./Magnimar.md). Du moment que vous possédez un bien, vous avez tous les droits dessus. Seul un cas de danger imminent pour la ville peut prévaloir sur ce droit fondamental. Mais c’est dans la notion d’un "bien" que les lois sont très larges. En effet, il peut être question d’un objet ou d’un bâtiment mais cela s’applique aussi aux êtres vivants, y compris soi-même, ou un mort (les vêtements de pudeur sont cependant exclus).
+
+Ce droit entraîne plusieurs effets, certains pervers, d’autres cocasses. Ainsi, dans les faits, l’esclavagisme n’est pas interdit à Magnimar : un esclave est la propriété d’autrui à la condition que lui-même ne possède rien. C’est la raison pour laquelle les vêtements visant à préserver la pudeur, comme un pagne, ne sont pas considérés comme des biens. Si l’esclave venait à posséder un bien, il est immédiatement reconnu capable, au sens légal du terme, et peut s’affranchir de son maître. Cette loi a donné naissance aux "Forgeurs de liberté", un mouvement qui estampille des objets aux noms des esclaves et qui les leur offre en public. L’autre effet de cette loi au sujet du pagne, ce sont les "Dévoileurs d’intimités", nom donné aux jeunes personnes retirant les draps cachant les parties génitales dans les saunas et qui agissent en toute impunité. Et enfin, il y a les tire-laines qui ôtent les vêtements de personnes pauvres pour en faire des esclaves.
+
+Cette loi a aussi des effets dans l’art de la nécromancie. Les morts deviennent la propriété des ascendants ou des descendants, même s’ils devaient se mouvoir à nouveau. Même si ce phénomène est très mineur, il est possible de voir des morts-vivants errer en toute quiétude à [Magnimar](./Magnimar.md). La puissante Église de [Pharasma](./Pharasma.md) essaye, sans succès à ce jour, d’obtenir un décret pour faire entrave à ce phénomène en se déclarant comme unique possesseur des morts.
+
+Enfin, le dernier effet de la loi sur la propriété est que nulle substance n’est réellement interdite à [Magnimar](./Magnimar.md). Il est possible de posséder des poisons et des drogues, tant qu’on n'en fait pas le commerce et qu'on ne les utilise pas sur autrui. Un célèbre empoisonneur est sortie blanchi d’un procès en réussissant à convaincre le juge que ses victimes étaient consentantes pour utiliser leurs poisons. Actuellement, il sert de nourriture aux poissons dans le [Yondabakari](./Yondabakari.md).
+
+**Les Enfers.** C’est la prison de [Magnimar](./Magnimar.md). Elle se situe sous la très estimée Cour de Justice. Elle se divise en deux parties. La première, très classique, avec ses geôles plus ou moins exiguës, sert à détenir les individus en attente de jugement ou condamnés à des peines inférieurs à un an. La seconde est une vaste caverne dont l’accès ne se fait que par un puits haut d’une vingtaine de mètres aménagé pour le passage d’un monte-charge. Les prisonniers sont descendus par ce moyen, ainsi que les vivres.
+
+À l’intérieur même des Enfers, il n’y a aucun gardien ; les condamnés sont livrés à eux mêmes. Un registre est censé être tenu mais son usage n’a été que récemment réintroduit par l’impulsion du juge Bayl Argentine. Ce qui veut dire que des prisonniers croupissent bien au-delà de leurs peines. A l’intérieur, une nouvelle forme de "civilisation" s’est mise en place. Les tribus règnent en maître sur ce lieu de désolation, les conflits et les morts étant monnaie courante. On raconte que les juges détiennent le pouvoir de maîtriser des créatures dans les Enfers qui leurs servent à la fois d’espions et de gardiens. Il est dit aussi que les Enfers seraient le principal lieu de culte de divinités maléfiques.
+
+<div STYLE="float: right; padding: 5px; margin: 0 0 10px 10px; border: 1px solid #aaa; text-align: center; width: 200px; background-color: #fff">
+Organisation : les Mouches
+<div WIDTH="100%" style="background-color: #666666; color: #EEEEEE; padding: 1px;"></div>
+<table CELLSPACING="7" STYLE="text-align: left; font-size: x-small; width: 100%;">
+<tr STYLE="vertical-align: top;">
+<td STYLE="width: 33%;"><b>Structure</b></td>
+<td>pyramidale (juge)</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td><b>Puissance</b></td>
+<td>5 ([Magnimar](./Magnimar.md))</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td><b>Points de ressources</b></td>
+<td>40</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td><b>Domaines d'activité</b></td>
+<td>Magie divine 0  
+
+Magie profane 2  
+
+Militaire 1  
+
+Infiltration 5</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td><b>Grades</b></td>
+<td>Larve 1  
+
+Lucilie 2  
+
+Mouche 3  
+
+Stomoxe 4  
+
+Juge 5</td>
+</tr>
+<tr STYLE="vertical-align: top;">
+<td><b>Membres éminents</b></td>
+<td>Juge Bayle Argentine (LN, humain, noble 6/guerrier 3)</td>
+</tr>
+</table>
+</div>**Les mouches.** D’une manière générale, les Mouches sont essentiellement des roublards avec des talents de magie en illusion. Plus ils montent en grade, plus ils se spécialisent dans des activités telles que l’infiltration, les interrogatoires, les enquêtes. Même si les juges sont les dirigeants de cette structure, ils n’ont pas été forcément des mouches, bien que ce soit le cas pour une bonne moitié d’entre eux. Ils proviennent plutôt de la haute société de [Magnimar](./Magnimar.md).
+
+Les *larves* sont des informateurs recrutés par un grade plus élevé. Les aides qu’ils peuvent recevoir sont directement en lien avec les informations qu’ils peuvent fournir, mais cela prend souvent la forme d’un certain laxisme sur des activités illégales, une nouvelle identité, de l’or ou l’abandon de poursuites judiciaires.
+
+Les *lucilies* sont les nouvelles recrues. De l’équipement peut être fourni, un peu d’or pour acheter un informateur mais rarement plus. Leurs pouvoirs sont restreints et ils n’ont aucune autorité sur la garde, bien que ces derniers évitent de leur faire obstruction. Leur paie varie entre 10 et 20 po par mois.
+
+Les *mouches*, les assesseurs des juges, constituent la grande majorité des membres de cette organisation. Ils possèdent des pouvoirs étendus, pouvant donner des ordres aux patrouilles de [Magnimar](./Magnimar.md), perquisitionner un domicile, mettre aux fers un individu, etc. Ils ne rendent des comptes pour leurs actes qu’aux juges. La plupart d’entre eux utilisent des artifices pour masquer leur véritable identité afin d’éviter les représailles et pour pouvoir s’infiltrer plus facilement. Au total, ils sont une cinquantaine. Leur rémunération oscille entre 30 et 50 po.
+
+Les *stomoxes* sont, tout au plus, une dizaine. Ce sont d’anciennes mouches utilisées pour des missions délicates où la sécurité de [Magnimar](./Magnimar.md) peut être mis en péril. Leurs pouvoirs sont réels, ils ne peuvent être accusés de crimes de sang dans le cadre de leurs fonctions. Quand ils sont conviés à une réunion avec les juges, ils sont toujours masqués, une marque magique permet de les identifier. Il n’existe pas de système de paie pour eux, mais une cassette est mise à leurs dispositions. Personne ne vérifie l’usage qu’ils en font. C’est le Haut Juge qui attribue cette fonction.
+
+Les *juges*, comme indiqué précédemment, sont nommés par le conseil des guides de [Magnimar](./Magnimar.md). Si, auparavant, tous étaient d'anciennes Mouches, la volonté actuelle est de séparer un peu ces deux pouvoirs. Ils sont élus à vie et ne peuvent être révoqués que par leurs pairs avec l’aval du Seigneur-Maire. C’est un poste qui est très convoité, donnant de larges pouvoirs et une indépendance très forte par rapport au pouvoir politique. En plus d’un logement de fonction dans le quartier de Marbre, ils sont payés environ 200 po par mois.
+
+**Les Cafards de Magnimar.** Le Seigneur-Maire, en plus de son autorité naturelle sur l’armée, possède ses propres espions. Couramment surnommés les Cafards, ils ont pour mission d’identifier et, si possible, d’annihiler toutes menaces qui viseraient [Magnimar](./Magnimar.md). Le [Chéliax](./Chéliax.md) est bien évidemment au centre de leurs attentions. Ils craignent particulièrement un coup d’état mené en sous-main par l’empire infernal. Mais ce n’est pas la seule menace qui pèse sur la cité et les membres du Conseil des Guides ayant des penchants politiques trop marqués sont aussi étroitement surveillés, de même que les cultes liés de trop près aux puissances infernales. Ils ont souvent été accusés d’assassinats politiques, une rumeur qui n’est pas totalement dénuée de sens, mais le meurtre est généralement utilisé en derniers recours : ils préfèrent maîtriser leurs opposants plutôt que de prendre le risque de les voir se transformer en martyrs. Même si [Magnimar](./Magnimar.md) ne tombe pas dans les mêmes excès sécuritaires que sa sœur ennemie, la cité dispose tout de même d’une structure visant à préserver son indépendance.
+
+
+#### Les fêtes de Magnimar
+
+**Les équinoxes du printemps (le 20 du mois de Pharast) et d'automne (le 20 du mois de Rovagug).** Ces deux dates donnent lieux à de grandes festivités dans [Magnimar](./Magnimar.md) car ce sont aussi les dates où les [Varisiens](./Varisiens.md) partent et rentrent de leurs pérégrinations. Une semaine avant et après ces deux dates, les rues débordent d’étales, le port se remplit de bateaux venus de tous les horizons, les pièces et les marchandises changent sans cesse de mains. Une douce effervescence règne dans la ville et, le jour de l’équinoxe, des fêtes sont organisées un peu partout, souvent en l’honneur de [Desna](./Desna.md). Seuls les esclavagistes se font oublier pendant cette période, car les Forgeurs de liberté sont particulièrement actifs. En terme de jeu, les tests liés au commerce bénéficient d’un bonus de +2 pendant cette période.
+
+**La nuit de l’exil (le 5 du mois de Zon-Kuthon).** Ce jour marque la nuit où la répression a débuté dans les rues de [Korvosa](./Korvosa.md) contre ceux qui réclamaient leur indépendance. C’est un jour de deuil, où les commerces sont fermés, l’église de [Pharasma](./Pharasma.md) organisant des prières en l’honneur de ceux qui sont morts pour la liberté. La nuit, des représentations symboliques du pouvoir [chélaxien](./Chéliax.md) et de ses sbires sont conspuées et brûlées. Des gens se baladent avec des mannequins représentant les monarques de [Korvosa](./Korvosa.md) et du [Chéliax](./Chéliax.md), la foule, souvent alcoolisée plus que de raison, n’hésitant pas à les rouer de coups et à les déchiqueter. Il est vivement conseillé aux personnes ayant des origines chélaxiennes de se cloîtrer dans leur demeure cette nuit-là, les débordements étant assez fréquents. Pour le pouvoir en place, c’est l’occasion de prouver au peuple la volonté d’indépendance de [Magnimar](./Magnimar.md).
+
+**Le jour de la dette (le 1er du mois d’Abadar).** C’est une tradition à [Magnimar](./Magnimar.md), ce jour-là, les créanciers doivent être remboursés. Un peu partout dans la ville, des jeux s’organisent, souvent dégradants pour les participants, afin de récolter de l’argent pour rembourser ses dettes. Ce jour férié est aussi surnommé "la fête des bras cassés" car un nombre impressionnant de personnes se retrouvent avec des membres brisés. À cette occasion, la plupart des gardes patrouillent en ville, ne laissant qu’un effectif minimum pour assurer la sécurité extérieure.
+
+#### Où prier à Magnimar
+
+La plupart des cultes possèdent des lieux de pière. [Magnimar](./Magnimar.md) étant elle-même laïque, la tolérance est la règle. Toutefois, certaines divinités comme [Lamashtu](./Lamashtu.md) ou [Rovagug](./Rovagug.md) ne possèdent pas d’endroits consacrés "officiels". Ici sont présentés les cultes les plus influents.
+
+**Pharasma.** L’église de [Pharasma](./Pharasma.md) possède deux lieux de cultes dans [Magnimar](./Magnimar.md). Le premier, et le plus somptueux, se situe dans le quartier de Marbre, en face du Cénotaphe ; le second, dans la Pierre d’Angle. Les deux bâtiments ont la même structure architecturale. Ils sont dotés de deux entrées. La première, orientée vers à l’est et pourvue de larges vitraux offrant une bonne luminosité, est dédiée à la maternité. Des sages-femmes y officient, prodiguant soins et conseils pré et post-partum. La partie ouest est beaucoup plus sombre. Elle est dédiée à l’accueil des morts et à leur incinération, qui est la coutume à [Magnimar](./Magnimar.md). Ils offrent des services comme la préservation des corps et les autopsies. Peu touchée par les problèmes de nécromancie, même si la loi sur la propriété des cadavres l’ulcère, l’église de [Pharasma](./Pharasma.md) n’entretient pas de troupes régulières contre ce fléau. Malgré tout, elle apporte son soutien à tous les groupes d’aventuriers qui auraient à combattre ce genre de menace en fournissant eau bénite et des soins.
+
+**Abadar.** Le Maître du Premier Coffre-Fort possède aussi une église dans le Panorama. Bien que sa taille soit plus modeste que celle de [Korvosa](./Korvosa.md), son influence est très importante au vu des services qu’elle rend. Elle gère, notamment, les créances et les héritages et elle sert de conseiller aux juges lors de différends commerciaux. Il est intéressant de savoir que les trois principaux membres de l’église d’[Abadar](./Abadar.md) siègent au conseil des guides.
+
+**Iomédae.** Le temple d’[Iomédae](./Iomédae.md) se situe au pied de l’Arvensoar, un nombre non négligeable de gardes vénérant cette divinité. Leurs convictions sont souvent mises à rude épreuve face à la réalité et au laxisme ambiant de la cité. Les membres du culte sont plutôt rétifs à l’idée de fournir une aide à des aventuriers, préférant un cadre plus légal.
+
+**Desna.** La Déesse de la Liberté ne saurait être emprisonnée entre quatre murs dans une ville ayant une forte population varisienne. Par contre, il existe de nombreux autels disséminés un peu partout en ville, et les fêtes des équinoxes lui sont clairement dédiées. Trouver un prêtre de [Desna](./Desna.md) durant la belle saison est, au minimum, difficile.
+
+**Gozreh.** Il n’existe qu’un seul prêtre de [Gozreh](./Gozreh.md) à [Magnimar](./Magnimar.md). Sa principale activité consiste à s’occuper des parcs publics, à bénir les bateaux partants pour un long voyage, et à enseigner aux nombreux fidèles qui le suivent sans cesse. Le plus simple pour croiser sa route est de rechercher un vieil homme sans nom et se baladant dans son plus simple appareil.
+
+#### Se balader dans Magnimar
+
+Si les grandes artères permettent de se déplacer facilement dans la Cité des Monuments, l’urbanisation se fait de façon chaotique en dehors de ces grands axes. Cheminer dans certaines ruelles de la cité peut se révéler une vraie gageure, notamment durant les périodes froides où la population augmente de façon substantielle. Pour se rendre à un endroit précis, utilisez la compétence Connaissance (folklore local) en appliquant les modificateurs du tableau ci-dessous. Un échec implique une rencontre aléatoire (voir la section du même nom), ainsi qu’une perte de 10 minutes par point d’échec.
+
+<center>
+<table>
+<tr>
+<th>DD</th>
+<th>Circonstances</th>
+</tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">15</td><td>DD de base</td></tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">+5</td><td>pendant la nuit</td></tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">Mod</td><td>en fonction du quartier le plus mauvais traversé</td></tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">+1</td><td>par quartier traversé</td></tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">+2</td><td>présence d'un demi-orque</td></tr>
+<tr><td STYLE="text-align: center; padding: 0 3px 0 3px;">-5</td><td>bâtiment connu (église, Arvensoar, etc.)</td></tr>
+</table>
+</center>
+
+#### Les rencontres aléatoires
+
+Quand les personnages échouent un test pour se déplacer dans la ville, ils font une rencontre aléatoire. En fonction de la marge d’échec, ils font une rencontre plus ou moins difficile, voir le tableau ci-dessous. Plutôt que de livrer une table de rencontre, voilà quelques idées pour mettre en scène ses rencontres triés par FP.
+
+<center>
+<table>
+<tr>
+<th>Facteur de puissance</th>
+<th>Marge d'échec</th>
+</tr>
+<tr><td STYLE="padding: 0 3px 0 3px;">Niveau moyen du groupe - 1</td><td>de -1 à -5</td></tr>
+<tr><td STYLE="padding: 0 3px 0 3px;">Niveau moyen du groupe</td><td>de -6 à -10</td></tr>
+<tr><td STYLE="padding: 0 3px 0 3px;">Niveau moyen du groupe + 1</td><td>au-delà de -11<td></tr>
+</table>
+</center>
+
+**Saleté de bestioles (FP jusqu’à 1).** Les rues de [Magnimar](./Magnimar.md), hormis dans sa partie haute et sur les grandes artères, ne sont pas pourvues de système d’égouts. Cela veut dire que bon nombre de déchets traînent dans les rues, faisant la joie des nuisibles. Certains d’entre eux peuvent être particulièrement agressifs, animés par une maladie du type de la rage ou défendant simplement leur territoire. Vous pouvez utiliser des insectes ou des animaux pour ce genre de rencontre (mille-pattes, araignées, rats, chiens, etc.).
+
+**Le problème cardiaque (FP 1 et plus).** Un vieil homme, visiblement très riche, se promène en compagnie de gardes du corps encagoulés et dégageant une forte odeur âcre sur leur passage. Soudainement, l’homme devient blême et il se tient la poitrine dans une expression douloureuse avant de s’effondrer. Malheureusement pour lui, ses gardes du corps sont des zombies qui, obéissant aux ordres qu'ils ont reçus, attaquent toutes personnes voulant lui prêter secours. Plutôt que d'engager des serviteurs, le vieil homme pingre a acheté un parchemin d’*animation des morts*. Maintenant, il lui reste quelques rounds à vivre, sauf si un test de Premiers secours (DD 15) est réussi. Par contre, voyant ses zombies détruits, il engagera des poursuites contre les PJ pour se faire rembourser.
+
+**Les détrousseurs de vêtements (FP 2).** Alors qu’ils se baladent dans les rues pauvres de [Magnimar](./Magnimar.md), les PJ voient trois individus armés de rasoir de combat se précipiter sur un jeune homme visiblement affolé. Les coups ne visent pas l’individu lui-même, mais ses vêtements (-4 aux jets d’attaque, 10 PV) visant le mettre à nu. Le jeune homme s’appelle Ungluck et c’est un joueur invétéré, malheureusement peu doué. Endetté jusqu’au cou, il doit 25 po. Un de ses créanciers a engagé des voleurs de vêtements pour se rembourser en le vendant comme esclave. Les agresseurs sont des combattants de niveau 1.
+
+**Un colis pour les Heidmarch (FP au choix).** Le couple Heidmarch s’occupe de la ménagerie du Seigneur-Maire, veillant à ce qu’elle se renouvelle régulièrement. Des créatures issues des quatre coins de Golarion sont convoyées et il arrive, par malchance, que la cage ne soit pas assez solide et laisse s’échapper la bête juste au moment où les PJ sont dans le coin. Ramener la créature vivante donne droit à une forte récompense.
+
+**A la gloire de Cayden Cailéan (FP 3).** Le vin de liane meurtrière est une boisson particulièrement appréciée et chère. Profitant de ce marché juteux, certaines personnes font pousser cette dangereuse plante sur les toits de maisons dans des zones peu habitées de Magnimar. A force de chercher leur chemin dans les ruelles étriquées, les PJ finissent par passer dans un de ces endroits.
+
+
+
+### La loi et ses défenseurs
+
+**<u>Les juges</u>**
+
+Nombre : 13
+
+Le juge Bayl Argentine chef des juges humain cheliaxien(h)
+
+Le juge Ronce-fer elfe(h)
+
+Le juge Gaspard humaine Varisien(f)
+
+**<u>La garde de la justice</u>**
+
+Nombre : 30
+
+Commandant de la garde de justice Kahyl Triste-Lune : demi-elfe(f)
+
+
+
+
+
+### Les défenseurs de la ville
+
+**Commandant des armées** Isméir odinburge humain Cheliaxien(h)
+
+**<u>La garde de la ville :</u>**
+
+Nombre : 400 gardes
+
+<u>Chef :</u> Capitaine Acacia uriana humain Shoanti(f)
+
+<u>Les gradés :</u>
+
+Sergent Tijac Brosh Gnome (h)
+
+Sergent Tazarus demi-orc(f)
+
+
+<u>**La milice**</u>
+
+Nombre : 500 miliciens
+
+<u>Chef :</u> le capitaine Xael Furi humain Tian (h)
+
+<u>Gradé :</u>
+
+Sergent Daspien Brulecuivre nain(h)
+
+
+**<u>L’armée régulière</u>**
+
+Nombre : 400 soldats
+
+<u>Chef secondaire :</u>
+
+
+Le capitaine Voljo Verrimek humain Cheliaxien(h)
+
+Commandant Wynmred nain(m)
+
+<u>Gradé :</u>
+
+Sergent Zaxoria humaine cheliaxien(f)
+
+
+**<u>Les chevaliers Infernaux de l’ordre de la pointe :</u>**
+
+Nombre : 50
+
+<u>Chef :</u> Paralicteur Dairéan humain Chéliaxien(h)
+
+<u>Gradé :</u>
+
+Maralicteur Varadrilar tieflin(h)
+
+Maralicteur Wratys Oturak humain cheliaxien(h)
+
+<u>Armiger :</u> 35
+
+
+### La criminalité :
+
+**<u>Les écailles nocturnes :</u>**
+
+<u>Secteur :</u> sur le rivage à la pointe du phare jusqu’à la pointe déchiquetée zone (14 et 15)
+
+<u>Activité :</u> Contrebande, d’extorsion, de petits larcins et de cambriolages occasionnels
+
+<u>Chef :</u> Therhyn Raccas demi elfe(h)
+
+<u>Nombre de membre :</u> 100
+
+<u>Sous chef/Allié :</u>
+
+Fasélya humain Varisien (f) activité : Contrebande
+
+Siov Cassimeel Humain Cheliaxien(h)  activité : rabatteur
+
+
+<u>**Les gargouillis**</u>
+
+<u>Secteur :</u> sur le rivage exclusivement
+
+<u>Activité :</u> vols et rackette
+
+<u>Chef :</u> Dame Vammiera Symirkova humain cheliaxien(f) 80 ans
+
+<u>Nombre de membre :</u> 60
+
+<u>Sous chef :</u>
+
+Mizmina Symirkova humain cheliaxien(f)activité : membre d'élite et bras droit
+
+Waz Bradik humain varisien(h) activité : rackette
+
+
+<u>**Les pendus**</u>
+
+<u>Secteur :</u> La pointe déchiquetée, pointe du phare, le pied du pont
+
+<u>Activité :</u> Rackette, drogue, contrebande
+
+<u>Chef :</u> Jaster Frallino humain Varisien (h)
+
+<u>Nombre de membre :</u> 81
+
+<u>Description :</u> les pendus est un groupe puissant et rivale de la sczarni. Sa puissance est connue partout en ville pour les méfaits perpétrés dans la ville de Magnimmar.
+
+<u>Sous chef :</u>
+
+Rassimeri Jaijarko Varisien (h)
+
+Vadrez le boucher Varisien (h)
+
+
+
+
+
+<u>**Les filles de la tour**</u>
+
+<u>Secteur :</u> Les docks, Pointe du phare, Les marches
+
+<u>Activité :</u> Prostitution, vole
+
+<u>Chef :</u> Riya Xarisk humain Varisien (f)
+
+<u>Nombre de membre :</u> 28
+
+<u>Description :</u> Les filles de la tour sont une bande organisée de varisien dont l’activité première reste le vol et la prostitution. Dirigée par la fameuse Riya Xarisk, cette bande s’occupe à protéger les femmes de la ville.
+
+<u>Sous chef :</u>
+
+Bark dit « le protecteur » nain(h)
+
+
+
+<u>**La cour de Sabriyya Kalmeralm Reine du marché du bazar des voiles :**</u>
+
+<u>Secteur :</u> Le bazar des voiles
+
+<u>Activité :</u>
+
+<u>Chef :</u> Sabriyya Kalmeralm humain Keleshite (f)
+
+<u>Nombre de membre :</u> 20
+
+<u>Description :</u> La cour de la princesse du marché est un gang renommé pour sécuriser le bazar des voiles. Le groupe protège tous les commerçants et les clients venant faire du commerce en ce lieu. Très connu pour son efficacité et les problèmes qu’elle règle tous les jours en ce labyrinthe chaotique des étals et des échoppes.
+
+<u>Sous chef : </u>
+
+Araky Branchmonde Ulfen (h)
+
+
+
+
+### Le quartier D’albâtre :
+
+<u>**Fort Indros :**</u>
+
+Commandé par le commandant Wynmerd
+
+Ce fort est bardé de trébuchet, de baliste. Il y a beaucoup d’ingénieur, d’archer et de soldat (environ 150)
+
+<u>**Manoir de la famille Bazillion**</u>
+
+La demeure de la famille Bazillion est aussi un monument à lui seul. Fait de marbre et sculpté entièrement, la beauté de ce bâtiment égale leur puissance commerciale. Cette famille noble orgueilleuse détient une flotte de navire marchand faisant route vers toutes les villes prêtes à faire des échanges commerciaux. (Corporation de l’Aspis)
+
+
+### Le quartier de Marbre :
+
+<u>**Le manoir du vent **</u>
+
+Le manoir du mage Prius Twar Humain Cheliaxien (h)est une des curiosités du quartier. En effet, son manoir est en lévitation ainsi que de nombreuses sculptures. Pour s’y promener, il est fort recommander de savoir voler.
+
+Prius prend très peu d’élève et demande une fortune pour recevoir ses enseignements.
+
+Les deux apprentis de Prius sont :
+
+Jorden  Fratus Cheliaxien (h) (famille membre de la corporation de l’Aspis)
+
+Un jeune homme avec un caractère d’acier et d’une froideur rare. Calculateur et endoctriné par la famille pour être un leader d’une branche de la corporation.
+
+Vélie Bazillion Humain Taldans (f) La jeune Bazillion apprend le dur métier de mage pour être utile à la famille.
+
+On raconte que ce puissant mage a une fille cachée mais ce n'est surement qu'une rumeur.
+
+### Le district du pont :
+
+**<u>La compagnie du golem d’Irarche :</u>**
+
+Mené par le puissant mage Toth Bhreacher Humain Garundi(h). Cette usine pour façonner des golems et autres créatures artificiels magiques est immense. L’endroit est très sécurisé et seul des employés sous contrats peuvent y pénétrer. De puissant golem veillent sur eux.
+
+Les golems de pierre présent son plus puissant que la moyenne grâce à l’utilisation de la pierre de l’irarche. Les golems obtiennent un bonus de +4 en force, +2 en dextérité et +2 points de vie par dés de vie.
+
+
+<u>**L’atelier des merveilles de Beaunuage**</u>
+
+Ce magasin est réputé pour ses objets exotiques magiques ou non. L’halfelin Bratus Beaunuage (illusioniste 7) est des plus chaleureux et un être extrêmement curieux.
+
+Son magasin dispose de sortilège et de nombreux objets magiques allant jusqu’à 6000 pièce d’or. Il est protégé par un garde animé qui décourage facilement les gredins tentant de l’intimider. Mais sa femme Mézile halfelin(f) et sa fille Halfelin Dizia l’aide en permanence pour gérer son affaire.
+
+
+### Le quartier central :
+
+<u>**Monument :**</u> La gloire du fondateur
+
+<u>**Le hall de guilde :**</u>
+
+<u>Maître :</u> Oradif OmbreMontagne Nain (h)
+
+<u>Personnage important : </u>
+
+Jacildria Quildarmo humain Taldan(f)
+
+<u>Description :</u> Le hall de guilde est un lieu administratif grouillant où les commerçants viennent déposer les transactions récentes ou bien embaucher un comptable, un scribe ou toutes autres personnes capables de les aider dans le commerce.
+
+<u>Garde :</u> Milice de 20 hommes guidé par le sergent Bratius Ferio humain cheliaxien (h)
+
+
+<u>**Fronton**</u>
+
+<u>Maitre : </u>Le juge Bayl Argentine humain cheliaxien(h)
+
+Description : Le fronton est la résidence des juges actifs de la ville. La façade est couverte de gargouilles aux visages sévère et de statue de juge morose. En dessous de ce bâtiment se trouve les chambres étouffantes des enfers. La seule prison de Magnimmar.
+Personnage important :
+
+<u>Garde :</u>
+
+30 soldats
+
+
+
+### Le naos :
+
+**<u>La triodea :</u>** théâtre connu de Magnimmar à la place de l’étoile
+
+<u>Maître :</u> Dustin Versade humain Varisien (h)et Kassiel Lylmrain elfe(h)
+<u>Artiste :</u> Diyl Lunecroc Humain Varisien(h)
+
+
+<u>**La salle capitulaire des novices éclaireurs de Varisia :**</u> Au nord du théâtre
+
+<u>Maître :</u> Canayven Heidmarch humain Taldan(h) et Sheila Heidmarch humain vudrani (f)
+
+<u>Eclaireur sur place :</u>
+
+Almya Gorangal humain Cheliaxien (f)
+
+Joadric Heimurl humain Kellide (h)
+
+Korack Xorn nain(h)
+
+
+
+**<u>L’auberge de la bonne humeur :</u>**
+
+<u>Maître :</u> Wazul Riddar halfelin (h) et Okia Riddar(f)
+
+<u>Employé(e) :</u>
+
+Balzac humain Shoanti (h)
+
+
+### Le panorama
+
+**<u>Au tisseran d’or</u>**
+
+<u>Maître :</u> Tristan Mazarelii humain Varisien(h) et son compagnon Nakar des tempêtes shoanti(h)
+
+
+
+**<u>Quartier général de la société Aspis :</u>**
+<u>Maître :</u> Mazarl Fratus demi-elfe(h)
+
+Faselia Vork humain Cheliaxien(f) (conseillère)
+
+<u>Employé(e) :</u>
+
+Bragon huk Azlante (h)
+
+
+**<u>L’armurerie des titans :</u>**
+
+<u>Maîtres :</u> Corialia Yrfilding elfe(f) Eclaireur 3/Expert 2, Wazlor Brisemonde demi-orc Barbare 5/Expert 2, Barargdar Pratch nain(h) Ensorceleur lignage élémentaire terre 9, Viza Titari humain cheliaxien (f) prêtre de Gorum 6.
+
+<u>Employé(e) :</u>
+
+
+**<u>Au dépôt de Corki :</u>**
+
+<u>Maître :</u> Corkiana Kikilia gnome(f) dit l'hérisson, la perdu, la tête en l’aire, l’emmerdeuse
+
+
+
+### La grande arche
+
+<u>Monument :</u> Les gardiens (statues des jumelles de 60 mètres)
+
+<u>A la bonne affaire :</u>
+
+<u>Maître :</u> Gaerl Lamn cheliaxien
+
+Marchand de nourriture et de matériel de paysan
+
+<u>**Personnalité errante :**</u>
+
+Fakirl Rougechant demi-elfe(h) barde 3/prêtre de desna 1 : Artiste ambulant chantant les louanges de Desna et compte des histoires de voyage.
+
+**<u>Chapelle dédié à la déesse Desna : Le chant du voyageur</u>**
+
+Celle-ci est nettoyée par tous les voyageurs qui lui laissent de nombreuses offrandes pendant l’été.
+
+**<u>Le bazar des voiles :</u>**
+
+<u>Marchand</u> Vaful Asaan Garundi(h)
+
+Sa spécialité, c’est les fruits exotiques, vin et autres alcool venant de contré lointaine.
+Marié à Wazia Asaan Aasimar(f) ensorceleuse lignage céleste
+
+
+
+<u>Marchand</u> Rudock Taldan(h)
+
+Vendeur d’animaux exotiques
+
+Il est entouré d’homme de mains (Homme d’arme 1)
+
+Il fait parti de la tristement célèbre corporation de l’Aspis.
+
+
+<u>Marchand</u> Dorn Joruk Cheliaxien(h)
+
+Vendeur de minerai en tout genre. Il est difficile de commercer avec lui. C’est un marchand avec la langue particulièrement habile pour négocier.
+
+Il fait parti de la tristement célèbre corporation de l’Aspis.
+
+### Les docks :
+
+**<u>Au ventre bien tendu :</u>**
+
+<u>Maitre :</u> Saz bafron humain Shoanti(h)
+Un établissement vendant des mets locaux aux marins et étrangers de passage. C’est une sorte de restaurent ouvert. Sa cuisine est particulièrement bonne et pas cher. Croyant de Sarenae, il est souvent à l’écoute des malheureux.
+
+**<u>Personnalité errante :</u>**
+Ho’Kara brisenuit demi-orc(f)
+
+Chasseuse de prime bien connue des autorités. Elle est presque aussi redouté qu’un chevalier infernal.
+
+**<u>Le vieux croc (Auberge)</u>**
+
+<u>Maître :</u> La vieille mère Grottle humain varisien(f)
+
+<u>Habitué :</u>
+
+**Voor’na** varisienne diseuse de bonne aventure Ensorceleuse 2 lignage profane/prêtresse de Pharasma 2
+
+Voor’na aime cet endroit ainsi que la taverne des tempête pour son commerce.
+
+**Sergent Tijak** gnome(h) Faisant partie de la milice, il adore parler et chanter en buvant de nombreux alcools.
+
+**Gotrei** humain Ulfen(h) barbare 5 un homme puissant qui s’amuse aux bras de fer et autres jeux où les muscles sont important pour gagner. Cependant il est loin d’être une brute sans cervelle. Venant des contrées du nord, il a le crâne rasé et il est tatoué sur une grande partie de son corps.
+
+
+### Le pied de la falaise :
+
+**<u>La cage dorée</u>**
+
+<u>Maitre :</u> Jayleen « Colombe du Matin » Colomatin humain(f)
+
+Salle de danse à la mode.
+
+<u>Autre artistes :</u>
+
+Maze gnome(h) Barde 2
+
+
+
+**<u>Au fumoir de Bradak</u>**
+
+<u>Maitre :</u> Bradak Jean furet humain Varisien Expert 6
+
+Ce bâtiment est un lieu où l’on fume de nombreuses herbes mais il est surtout apprécié pour les narguilés de très bonne qualité.
+
+<u>Employé(e)s :</u>
+
+Cayiisa humain Keleshites(f)
+
+Fridik Bristekker nain(h)
+
+<u>Habitué:</u>
+
+Kook Versable demi-orc
+
+Zaz « Boom Boom » gnome(h)
+
+<u>**A la lune rose :**</u>
+
+<u>Maitre :</u> Vazakia Rubie Tiefelin(f) moine 9
+
+Un bordel pour les gens qui ont les moyens. La dirigeante est une beauté exotique aux yeux couleurs rubis étincelante. Sa couleur de peau ébène est d’une beauté frappante. Mais elle reste intouchable par la force car rare ont eu la chance ne serait ce de l’effleurer dans un combat. Sa maison close est celle où les hommes et les femmes travaillant dans le commerce du plaisir se sentent les rassurés. Mais les places sont difficiles à obtenir pour y travailler.
+
+<u>Employé(e)s :</u>
+
+Yrwine « Etoile» humain Cheliaxien(f)
+
+Tira « Sucre » humain Shoanti(f)
+
+Blaze « Flamme » humain Varisien(h)
+
+Ezielle « Kiki » halfelin(h)
+
+
+<u>Habitué:</u>
+
+### La pierre d’angle
+
+**<u>Le temple-forteresse d’Iomédae</u>**
+
+<u>Maitre :</u> La chapelaine Tira Ronnova humain azlante(f) prêtre 7/paladin 2 (Chef du troisième cercle de Iomedae)
+
+<u>Les chevaliers de l’épée du troisième cercle</u> : (nombre 20)
+
+Durven Froidargent nain(h) Paladin de Iomedae 4
+Tara Radtag humain varisien(f) Guerrier 2/Prêtre de Iomedae 2
+Galvin halfelin(h) Eclaireur 3/Elu divin de Iomedae 3
+
+
+
+
+<u>Jeune disciple :</u> Chevalier de l’épée du 4 ème cercle
+
+<u>Maitre :</u> Chevalier de l’épée Theriant d'Argon humain cheliax(h) Paladin de Iomedae 3
+
+<u>Jeune chevalier de l’épée :</u> Nombre 18
+
+Les jeunes chevaliers du cercle sont en apprentissage pour la plus part et rare sont ceux qui ont atteint leur premier niveau dans la prêtrise ou dans la classe de paladin.
+
+
+
+<u>**La pierre des Oracles**</u> (Ecole de magie d’abjuration et de divination)
+
+<u>**Maître :**</u> Leis Nivlandis demi-elfe(m) magicien 11
+
+<u>Professeur :</u>
+
+Maîtresse Xaphina Galadiel elfe Magicien Divination 7
+
+Maître Tarn Bagron humain Cheliaxien(h) Magicien abjurateur 6
+
+Maître Iodik Saz humain Varisien(h) Magicien Divination 10
+
+<u>Élève :</u>
+
+
+
+
+
+<u>**Les gardiens**</u>
+
+C’est un groupe de druide et de prêtre s’occupant des parcs et de la nature dans l’enceinte de Magnimar. Ils préservent et protège la flore du parc contre toute tentative de dégradation.
+
+La plus connu de ces gardiens reste la druidesse humain varisien(f) Raviel Tempête Druide 7.
+
+### Les marches
+
+**<u>Eglise d’abadar</u>**
+
+<u>Maître :</u> Gardien du commerce Syvisil’elthai elfe (f) Prêtre d’Abadar 6
+
+<u>Suivant :</u> 10 prêtres de niveau 1 à 3
+
+
+**<u>Le temple du soleil étincelant (temple de sarenae)</u>**
+
+<u>Maître :</u> Aile du matin Ashi Garosa humain varisien(h) Prêtre de Sarenae 3/voleur 1
+
+<u>Suivant :</u> 3 prêtres de niveau 1 à 2
+
+
+L’auberge du voyageur
+Maître : Raxs humain cheliaxien(h) expert 3 et Marise Tavernier humain cheliaxien (f) Expert 4
+
+
+
+**<u>La taverne de l’étranger</u>**
+
+<u>Maître :</u> Hourk Warizia demi-orc (h) Expert 2/Barbare 4 et Trishia Warizia Varisien (f) Expert 3
+
+
+### La pointe du Phare
+
+<u>Monument :</u> Statue « Le guet de la Wyrm »
+
+<u>**Taverne  le serpent des mers**</u>
+
+<u>Maître :</u> Barduk « le borgne roux » Synos humain cheliaxien(h) Guerrier 2/Expert 4
+
+<u>Activité :</u> Beuverie, bagarre, jeu de couteau
+
+<u>Habitué :</u>
+
+
+**<u>Taverne : A la chopine du marin</u>**
+
+<u>Maîtresse :</u> Reillya Terysi’llia elfe(f) Ensorceleuse lignage draconique (bronze) 2/Voleuse 2/ barde 1
+
+<u>Description :</u> c’est une elfe aux cheveux dorés et aux yeux vert émeraude. Son visage est défiguré par un coup de griffe qui traverse la totalité de son visage. Son corps est couvert de cicatrice. Elle est très respectée par les marins et les guerriers.
+
+<u>Activité :</u> Fête, Combat à mains nues.
+
+<u>Habitué :</u>
+
+Joran Kila humain Taldan(h) : Videur Guerrier 2 (force 16)
+
+
+
+
+### La pointe déchiquetée
+
+**<u>Le temple du désir :</u>**
+
+<u>Maître :</u> Balsas humain varisien(h) Voleur 2 (pion) Rassimeri Jaijarko Humain Tianais(h) Voleur 6/Maitre espion 2(Codex aventureux) (Vrai maître)
+
+<u>Description :</u> lieu de débauche et de consommateur de drogue. Il est le lieu de désespérés et des plaisirs interdit.
+Les combats à mort sont organisés avec les malheureux ne pouvant plus payer leurs dettes.
+
+<u>Habitué :</u>
+
+
+
+**<u>L’usine alchimique de Gartro</u>**
+
+<u>Maître :</u> Gartro Humain varisien(h) Magicien transmutation 6
+
+Gartro est un alchimiste de talent mais cruel. Il emploie les infortunés  de la pointe déchiquetée pour manipulé et fabriqué des élixirs dangereux en grande quantité.  Mais malgré cela, il vend très bien ses produits car essentiel pour de nombreux commerces.
+Personnalité :
+Radok demi-orc(h) garde du corps de Gartro barbare 4 (Force 18)
+
+
+**<u>L’auberge des perdus</u>**
+
+<u>Maître :</u> Fezel Gras Humain cheliaxien(h) Voleur 2/Expert 1 et Doris Gras Humain cheliaxien(f) Homme d’arme 1/Expert 1
+
+
+**<u>Cimetière du repos de la dame du destin :</u>**
+
+Maître : Gardien du repos Kesilielle Humain shoanti(f) Prêtresee de Pharasma 4
+
+
+### Rivargent
+
+**<u>Aquaretum</u>** (Musée marin)
+
+<u>Maître :</u> Nireed Wadincoast
+
+
+<u>**La boutique d’Arthur :**</u>
+
+<u>Maitre :</u> Arthur Langlier humain cheliaxien(h) expert 2 et Dalia Langlier cheliaxien(f) expert 2/ensorceleuse  lignage mort-vivant 1
+
+Une très bonne boutique qualité/prix pour des vêtements de toutes sortes. (Sauf les plus riches)
+
+<u>Empolyée :</u> Vagielle Langlier humain chelixien(f) Ensorceleuse lignage mort-vivant 1
+
+
+**<u>L’armurerie des crocs de Varisie :</u>**
+
+<u>Maître :</u> Le maître forgeron Norkul Coeuracier halfelin(h) expert 3/prêtre de Torag 1 et Frie Cœuracier halfelin(f) Expert 2
+
+<u>Employés :</u> apprenti Dizit Coeuracier (pas de niveau encore trop jeune) Halfelin(h) et apprentie zaza Tachion demi-elfe(f)  Expert 1
+
+
+
+<u>**Les fiers de hache (Mercenaire)**</u>
+
+<u>Maître :</u> Oprack humain Varisien(h) Rodeur 3, Quati humain Cheliaxien(f) Evocateur 3, Warak nain(h) Guerrier 3, Alisys elfe(f) rodeur 3, Xavros humain Kellid(h) Barbare 3, BorBorg Ogre(h) Barbare 2
+
+<u>Employés :</u>
+
+14 mercenaires de niveau 1 (classes variables)
+
+### L’île de Kyver
+
+**<u>Chantier Naval d’Aspsis</u>**
+
+<u>Maître :</u> Travis Demont humain cheliaxien(h) Expert 2/Transmutateur 6 et Quatesis tiefelin(h) Roublard 3/Prêtre d’asmodeus 1
+
+<u>Employés :</u>
+
+Maître de chantier humain Keleshite(h) Riddle Mark Expert 6
+
+Maître de la sécurité Zanick Demi-orc/shoanti(h) Rodeur 5
+
+
+### Ordellia
+
+<u>**Théâtre de la rose et du chevalet :**</u>
+
+<u>Maître :</u> Brafis Nain(h) Barde 3/guerrier 1
+
+<u>Employés :</u>
+
+Dortu Grismont humain Cheliaxien(h) Roublard 2
+
+Malki Rosevent humain Cheliaxien(f) Barde 4
+
+
+
+**La tour d’Ordelia (Caserne de la milice locale)**
+
+<u>Maître :</u> Maréchal Vivirielle Elza’niz elfe(f) Guerrier 7
+
+<u>Sous officier :</u>
+
+Gardien Akopzia keleshite Paladin de Iomadae 3
+
+Gardien Yu Zing Yang humain Tianais Guerrier 1/Roublard 2
+
+<u>Milice :</u>
+
+40 miliciens de niveau 1 à 2
+
+
+**<u>Au bon tonneau d’ordelia :</u>**
+
+<u>Maître :</u> Tarantula demi-orc(f) Roublard 2/Expert 2 (Charisme 16)
+
+<u>Employés :</u>
+
+Gizelle humain varisien(f) Expert 1
+
+Frederion humain varisien(h) Expert1
+
+Etarile humain shoanti(f) Expert 1/barbare 1
+
+
+### Le pied du pont
+
+<u>**Maison close : A la diablesse du désir**</u>
+
+<u>Maître :</u> Orion Balus Barbare 5 (Réel maîtresse des lieux : Ezulie Tiefelin(f) Prêtresse de Nocticula 7 ensorceleuse lignage abyssal 2)
+
+<u>Employés :</u>
+
+
+
+
+
+<u>**Le tripot du renard**</u>
+
+<u>Maître :</u>  Wator Nain(h) Expert 2/Voleur 2
+
+<u>Garde :</u> 12
+
+
+
+**<u>Auberge de la fosse</u>**
+
+Prêt de la fosse qui est une décharge publique.
+
+<u>Maîtresse :</u> Valia Halfelin(f) barde 3/Voleur 1
+
+<u>Employé :</u>
+
+Robin humain varisien(h) Expert 1
+
+Maril humain shoanti (f) Expert 1/homme d’arme 1
+
+Ysdron Gnome (h) voleur 1
+
+Pyra demi-elfe (h) Expert 1

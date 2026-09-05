@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Anti-vermine (objet)
+Title: Anti-vermine
+LastModified: 2021-09-19 20:09
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 5 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+---
+Cette pâte blanche à l’odeur infecte repousse la vermine lorsqu’elle est étalée sur la peau. La [vermine](./type Vermine.md) de taille normale (taille I) évite le personnage. Les [nuées](./sous-type nuée.md) de vermines doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 afin de pénétrer sur la case du personnage. L’anti-vermine n’a aucun effet répulsif sur la vermine de taille P ou plus grande mais si une vermine qui attaque a le choix entre une cible couverte d’anti-vermine et une autre, elle choisira en principe l’autre. Une fois appliqué, l’anti-vermine reste efficace pendant 4 heures ou jusqu’à ce que le personnage passe 1 [round](./round.md) à se nettoyer. L’anti-vermine compte comme une forte odeur, ce qui permet aux créatures ayant la capacité [odorat](./Odorat (capacité).md) de le détecter sur de grandes distances.

@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Sphère pourpre
+Title: Pierre ioun, Sphère pourpre
+LastModified: 2024-06-01 17:17
+Categories:
+- Objet mag
+- Objet mag pierre ioun
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Pierre ioun sphère pourpre|{s:RSE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 24 000 po (normale), 16 000 po (défectueuse), 12 000 po (ébréchée) ; **Poids** –
+(((Description)))
+- ***Normale.*** Cette pierre vous accorde un bonus d’altération de +2 en [Intelligence](./Intelligence.md). Les bonus de multiples sphères écarlates se cumulent (jusqu’à un bonus d’altération maximum de +6 en Intelligence).
+
+
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 par pierre en [Intelligence](./Intelligence.md), jusqu’à un cumul total de +4. Ces pierres ne se cumulent pas avec des *pierres ioun sphères pourpres* non défectueuses.
+
+
+- ***Ébréchée.*** Individuellement, cette pierre n’a aucun effet ; quand on en utilise en paires, chaque paire accorde un bonus d’altération de +2 en [Intelligence](./Intelligence.md). Les bonus de *sphères pourpres* multiples (ébréchées ou non) se cumulent, jusqu’à un bonus d’altération maximum de +6.
+
+(((Pouvoir de résonance)))
+Bonus de compétence +1 sur une compétence de [Connaissances](./Connaissances.md) unique (choisie par le créateur de la pierre).
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[ruse du renard](./Ruse du renard.md)*, le créateur doit être de niveau 12 ; **Coût** 12 000 po (normale), 8 000 po (défectueuse), 6 000 po (ébréchée)
+</div>

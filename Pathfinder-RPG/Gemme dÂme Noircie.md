@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Gemme dÂme Noircie
+Title: Gemme d’âme noircie
+LastModified: 2024-06-15 15:53
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Gemme d’âme noircie|{s:AE}}
+**Aura** [Nécromancie](./Nécromancie.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 12.000 po ; **Poids** —
+(((Description)))
+Cette gemme sombre s’harmonise avec l’âme de son propriétaire. Si une créature la garde sur elle pendant toute une semaine, la gemme absorbe de façon inoffensive une partie de l’essence vitale de son porteur. Si elle est séparée de son porteur pendant au moins 1 journée, l’harmonisation disparaît. Si le propriétaire gagne un ou plusieurs niveaux négatifs, la gemme d’âme noircie absorbe l’un d’entre eux et annule l’effet. L’absorption ne fonctionne que si la gemme est portée par l’individu avec lequel elle est harmonisée. Si la gemme est utilisée comme focalisateur supplémentaire pour ramener à la vie la créature avec laquelle elle est harmonisée, le coût en niveaux négatifs lié à la résurrection est réduit de 1 (1 niveau au minimum), mais seulement si le sort est lancé dans les 24 heures qui suivent sa mort. L’absorption d’un niveau négatif (infligé par une attaque ou par la résurrection de la créature harmonisée) détruit la partie de l’âme absorbée par la gemme. Cela ne produit aucun effet nuisible sur la créature mais il faut ré-harmoniser la gemme pendant 1 semaine supplémentaire pour qu’elle puisse de nouveau fonctionner. Une créature ne peut posséder qu’une seule gemme d’âme noircie à la fois.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[protection contre la mort](./Protection contre la mort.md)*, *[restauration](./Restauration.md)* ; **Coût** 6.000 po
+</div>

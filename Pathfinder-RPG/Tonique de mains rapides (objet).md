@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Tonique de mains rapides (objet)
+Title: Tonique de mains rapides
+LastModified: 2023-01-19 19:01
+Categories:
+- Équipement
+- Src Ultimate Intrigue
+---
+
+{s:cs}{s:UI}**Prix** 250 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
+<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+---
+Lorsqu'elle est ingérée, cette concoction amère de couleur rouille accorde 1d4 utilisations d'[inspiration alchimique](./Outils alchimiques.md#INSPIRATION) qui ne peuvent être dépensées que sur les tests d'[Escamotage](./Escamotage.md) et de [Sabotage](./Sabotage.md). Les avantages du tonique de mains rapides durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests d'[Acrobaties](./Acrobaties.md) et d'[Évasion](./Évasion.md) et conserver le pire résultat.

@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Chercheur psychique (oracle)
+Title: Chercheur psychique
+LastModified: 2023-05-28 13:35
+Categories:
+- Archétype
+- Archétype oracle
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétypeoracle}{s:mca}*Un chercheur psychique cherche à révéler les choses cachées au sein du monde qui l’entoure en percevant et en communiant avec les résidus d’énergie mentale, les apparitions et les esprits vivants et fragmentés qui occupent les objets ou les lieux.*
+
+#### Sorts supplémentaires
+*[augure](./Augure.md)* (niveau 4), *[localisation d’objet](./Localisation dobjet.md)* (niveau 6), *[divination](./Divination.md)* (niveau 8), *[orientation](./Orientation.md)* (niveau 12), *[localisation suprême](./Localisation suprême.md)* (niveau 16), *[prémonition](./Prémonition.md)* (niveau 18).
+
+Ces sorts remplacent les sorts de mystères supplémentaires normalement conférés aux oracles aux niveaux indiqués.
+
+#### Inspiration (Ext)
+Au niveau 2, un chercheur psychique dispose d’une [réserve d’inspiration](./Enquêteur.md#RESERVEDINSPIRATION), comme avec l’aptitude de classe de l’[enquêteur](./Enquêteur.md). Il remplace le niveau d’enquêteur par son niveau d’oracle pour déterminer les effets de cette aptitude.
+
+Il peut utiliser gratuitement l’inspiration sur les tests de [Diplomatie](./Diplomatie.md), de [Connaissances](./Connaissances.md) (mystères, histoire, folklore local, noblesse, plans, religion) et de [Psychologie](./Psychologie.md) sans dépenser une utilisation d’inspiration, à condition qu’il soit formé à leur utilisation.
+
+Les points de la réserve d’inspiration d’un chercheur psychique reviennent à leur maximum chaque jour, généralement quand il récupère ses sorts. Les points de cette réserve sont déterminés en fonction de son modificateur de [Charisme](./Charisme.md) et non d’[Intelligence](./Intelligence.md). Cette aptitude remplace le sort de mystère obtenu au niveau 2.
+
+
+#### Talent psychique (Sur)
+Au niveau 3, un chercheur psychique maîtrise si bien ses intuitions surnaturelles qu’elles lui confèrent un nouveau [talent d’enquêteur](./Talents (enquêteur).md) qu’il peut choisir parmi les suivants : connaissance des objets, empathie, incroyable inspiration, inspiration tenace, pistage perspicace (sauf qu’il utilise Psychologie à la place de Perception ou de Survie), souvenir eidétique, vigilance inspirée. À chaque fois qu’un chercheur psychique peut choisir une nouvelle révélation, il peut, à la place, choisir un talent d’enquêteur ou de roublard de la liste ci-dessus. Cette aptitude remplace la révélation obtenue au niveau 3.
+
+#### Mystères recommandés
+[Ancêtres](./Mystère des ancêtres.md), [nature](./Mystère de la nature.md), [savoir](./Mystère du savoir.md).

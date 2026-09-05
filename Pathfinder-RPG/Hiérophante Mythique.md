@@ -1,0 +1,73 @@
+---
+Name: Pathfinder-RPG.Hiérophante Mythique
+Title: Le hiérophante mythique
+LastModified: 2026-01-12 00:51
+Categories:
+- Règle officielle
+- Src Campagnes mythiques
+---
+
+{s:MenuMythique}{s:CMy}*Les individus qui font usage du pouvoir divin se rapprochent peu à peu de leur dieu. Certains espèrent devenir les serviteurs immortels de leur divinité, d’autres aspirent à la déification. Les objectifs d’un hiérophante peuvent être similaires, canalisant l’énergie divine de manière directe ou indirecte, que celle-ci soit conférée par une divinité, l’esprit de la nature ou le pouvoir de la vie elle-même. Au final, le hiérophante tient davantage de l’intermédiaire de la puissance divine que du simple dévot.*
+
+**Rôle.** Le rôle du hiérophante au sein d’un groupe consiste à représenter sa divinité en soignant et en soutenant ses alliés grâce aux miracles qu’elle lui confère. Ce rôle est tout aussi primordial si le hiérophante sert la nature et utilise ses pouvoirs octroyés par cette voie pour protéger les contrées sauvages et déchaîner sa colère sur ceux qui osent la dégrader.
+
+**Classes.** Les membres des classes qui font usage de la magie divine, plus particulièrement les prêtres, les druides et les oracles, trouveront utile la voie du hiérophante. Même ceux qui possèdent des aptitudes de lanceur de sorts divins limitées, comme les inquisiteurs et les paladins, apprécieront quelques options proposées par cette voie.
+
+**Bonus en points de vie** À chaque fois que le personnage acquiert un grade de hiérophante, il gagne 4 points de vie supplémentaires. Ces points de vie s’ajoutent au total maximum du personnage et n’affectent pas son nombre total de dé de vie ou ses autres caractéristiques.
+
+### Caractéristiques du hiérophante
+<div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
+<div style="border: 1px solid #4b3124; padding: 4px">
+{| CLASS="tablo centre autoalt"
+|+ {s:Reference|TABLEHIEROPHANTE}Le Hiérophante
+|- CLASS="titre"
+| Grade || Caractéristiques de la voie
+|- CLASS="premier"
+| 1 || [Montée en puissance divine](./Hiérophante Mythique.md#MONTEEENPUISSANCEDIVINE), [aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 2 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 3 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 4 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 5 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 6 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 7 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 8 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 9 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE)
+|-
+| 10 || [Aptitude de voie](./Hiérophante Mythique.md#APTITUDEDEVOIE), [réceptacle divin](./Hiérophante Mythique.md#RECEPTACLEDIVIN)
+|-
+|}
+</div></div>Au fur et à mesure que le hiérophante monte en [grades](./grades.md), il obtient les aptitudes suivantes :
+
+{s:Reference|MONTEEENPUISSANCEDIVINE}
+#### Montée en puissance divine
+Choisissez l’une des aptitudes suivantes. Ce choix est définitif.
+- ***Fureur bestiale (Sur).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour octroyer à son [compagnon animal](./Druide.md#PACTEAVECLANATURE), son [compagnon d’armes](./Prestige.md), son [eidolon](./Conjurateur.md#EIDOLON), son [familier](./Magicien.md#PACTEMAGIQUE) ou sa [monture](./Chevalier.md#MONTURE) fidèle une fraction de ce pouvoir. Par une [action immédiate](./Action immédiate.md), la créature bénéficiaire peut se déplacer d’une distance égale ou inférieure à sa vitesse de déplacement et effectuer une attaque avec l’une de ses armes naturelles. Lorsqu’elle effectue cette attaque, vous faites deux jets pour la créature et conservez le meilleur résultat. Les éventuels dégâts infligés par cette attaque ignorent toutes les [réductions des dégâts](./RD.md). Une créature affectée par cette aptitude peut effectuer ces actions en plus de celles qu’elle entreprend pendant son tour.
+
+- ***Résurgence de bénédiction (Sur).*** Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour lancer n’importe quel sort divin sans dépenser un emplacement de sort ni un sort préparé. S’il prépare ses sorts, celui qu’il souhaite lancer doit faire partie de ceux qu’il a préparés ; si c’est un lanceur de sorts spontanés, ce sort doit faire partie de sa liste de sorts connus. Il ne peut appliquer aucun [don de métamagie](./Dons.md#DONMETAMAGIE) à ce sort. Si le sort autorise un [jet de sauvegarde](./JDS.md), les créatures [non-mythiques](./non-mythiques.md) effectuent deux jets et conservent le pire résultat. Si le sort soigne des dégâts ou requiert que le personnage effectue un test de [niveau de lanceur de sorts](./NLS.md) pour soigner une [affliction](./affliction.md) ou pour supprimer un [état préjudiciable](./état préjudiciable.md), effectuez deux jets et conserver le meilleur résultat.
+
+{s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
+
+[→](./FAQ- Campagnes mythiques.md#5) Aptitudes de lancement de sorts : Pourquoi les aptitudes de voie « arcane libre » et « sort inspiré » ont un texte légèrement différent ?**'
+
+Ces deux aptitudes devraient fonctionner de la même manière et (au-delà d'affecter les sorts <u>[divins](./Hiérophante Mythique.md#MONTEEENPUISSANCEDIVINE)</u> ou <u>[profanes](./Archimage Mythique.md#ARCANEDELARCHIMAGE)</u>) avoir le même texte de règles. Elles ont également besoin de clarifications quant aux sorts qui peuvent être lancés grâce à chacune.
+Le texte proposé pour ces deux aptitudes (en attendant un errata officiel de *Campagnes mythiques*) est :
+« ***Arcane libre (Sur).*** Par une [action simple](./Action simple.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour lancer n'importe quel sort profane sans dépenser de sort préparé ou d'emplacement de sort. Le sort doit faire partie de la liste de sa classe de lanceur de sorts profanes, doit être d'un niveau qu'il est capable de lancer avec cette classe de lanceur de sorts profanes, et doit avoir un temps d'incantation de « 1 action simple » (ou moins). Le personnage n'a pas besoin d'avoir préparé le sort ou de l'avoir dans sa liste de sorts connus. Lorsqu'il lance un sort de cette façon, le personnage considère son [niveau de lanceur de sorts](./NLS.md) comme supérieur de 2 niveaux dans le cadre de tous les effets dépendant du niveau. Le personnage peut appliquer n'importe quels [dons de métamagie](./Dons.md#DONMETAMAGIE) qu'il possède à ce sort, mais son niveau ajusté total ne doit pas excéder celui du sort profane de plus haut niveau que le personnage est capable de lancer grâce à cette classe de lanceur de sorts. »
+« ***Sort inspiré (Sur).*** Par une [action simple](./Action simple.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour lancer n'importe quel sort divin sans dépenser de sort préparé ou d'emplacement de sort. Le sort doit faire partie de la liste de sa classe de lanceur de sorts divins (ou de la liste de sorts d'un [domaine](./Prêtre.md#DOMAINE) ou d'un [mystère](./Oracle.md#MYSTERE) qu'il possède), doit être d'un niveau qu'il est capable de lancer avec cette classe de lanceur de sorts divins, et doit avoir un temps d'incantation de « 1 action simple » (ou moins). Le personnage n'a pas besoin d'avoir préparé le sort ou de l'avoir dans sa liste de sorts connus. Lorsqu'il lance un sort de cette façon, le personnage considère son [niveau de lanceur de sorts](./NLS.md) comme supérieur de 2 niveaux dans le cadre de tous les effets dépendant du niveau. Le personnage peut appliquer n'importe quels [dons de métamagie](./Dons.md#DONMETAMAGIE) qu'il possède à ce sort, mais son niveau ajusté total ne doit pas excéder celui du sort divin de plus haut niveau que le personnage est capable de lancer grâce à cette classe de lanceur de sorts. »}
+- ***Sort inspiré (Sur).*** Par une [action simple](./Action simple.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour lancer n’importe quel sort divin sans dépenser de sort préparé ou d’emplacement de sort. Le sort doit faire partie de la liste de sa classe de lanceur de sorts divins (ou de la liste de sorts d’un [domaine](./Prêtre.md#DOMAINE) ou d’un [mystère](./Oracle.md#MYSTERE) qu’il possède), doit être d’un niveau qu’il est capable de lancer avec cette classe de lanceur de sorts divins, et doit avoir un temps d’incantation de « 1 action simple » (ou moins). Le personnage n’a pas besoin d’avoir préparé le sort ou de l’avoir dans sa liste de sorts connus. Lorsqu’il lance un sort de cette façon, le personnage considère son [niveau de lanceur de sorts](./NLS.md) comme supérieur de 2 niveaux dans le cadre de tous les effets dépendant du niveau. Le personnage peut appliquer n’importe quels [dons de métamagie](./Dons.md#DONMETAMAGIE) qu’il possède à ce sort, mais son niveau ajusté total ne doit pas excéder celui du sort divin de plus haut niveau que le personnage est capable de lancer grâce à cette classe de lanceur de sorts.
+
+{s:Reference|APTITUDEDEVOIE}
+#### Aptitude de voie
+Au 1<sup>er</sup> [grade](./Grade.md) et tous les [grades](./grades.md) par la suite, choisissez une nouvelle [aptitude de voie](./aptitude de voie.md) parmi la liste des [aptitudes de voie du Hiérophante](./Aptitudes de la voie du Hiérophante Mythique.md) ou parmi la liste des [aptitudes de voie universelles](./Aptitudes de voie universelles Mythique.md). Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un [grade](./Grade.md) mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
+
+{s:Reference|RECEPTACLEDIVIN}
+
+#### Réceptacle divin (Ext)
+Au 10<sup>ème</sup> [grade](./Grade.md), à chaque fois que le personnage lance un sort qui cible une ou plusieurs créatures [non-mythiques](./non-mythiques.md), celles-ci doivent effectuer deux jets pour chaque [jet de sauvegarde](./JDS.md) associé au sort et conserver le pire résultat. Lorsque le personnage est la cible d’un sort ou d’un effet qui soigne les points de dégâts, le soin lui permet de récupérer le montant maximum possible. Il gagne également une [RD 10/épique](./RDépique.md). Une fois par [round](./round.md) lorsqu’il subit plus de 20 points de dégâts (après application de la réduction des dégâts), le personnage récupère une utilisation de [pouvoir mythique](./pouvoir mythique.md).

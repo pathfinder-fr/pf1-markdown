@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Ceintures de chaîne (objet)
+Title: Ceintures de chaîne
+LastModified: 2021-09-22 14:46
+Categories:
+- Équipement
+- Src Manuel des races
+---
+
+{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}**Prix** 15 po ; **Poids** 0,125 kg<sup>[1](./Vêtements.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+---
+Si les [ondins](./Ondin (race).md) ne s’habillent que légèrement, ils portent souvent des ceintures de 3 mètres de long se composant d’une fine chaîne nouée autour de la taille. Les ceintures sont pourvues de maillons à charnière auxquels le porteur peut attacher divers objets comme des outils, de petites armes et d’autres objets de valeur, y compris des maillons en argent et en platine, ou de petites plaques en or martelées incrustées de pierres précieuses. Portée correctement, la ceinture peut soutenir jusqu’à 15 kilos de petits objets. Un ondin en train de nager peut défaire la ceinture par une [action rapide](./Action rapide.md) s’il doit l’enlever pour réduire le poids qu’il porte.

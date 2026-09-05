@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Trousse darmurier (objet)
+Title: Trousse d'armurier
+LastModified: 2021-09-24 20:12
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Cette petite trousse comprend tous les outils dont le personnage a besoin pour créer, réparer et restaurer des [armes à feu](./Armes à feu.md), à l'exception des matériaux bruts nécessaires. Sans cette trousse, le personnage ne peut pas fabriquer ou entretenir correctement les armes à feu.

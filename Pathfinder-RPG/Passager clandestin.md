@@ -1,0 +1,45 @@
+---
+Name: Pathfinder-RPG.Passager clandestin
+Title: Passager clandestin
+LastModified: 2026-06-12 17:20
+Categories:
+- Sort
+- Sort conjurateur 4
+- Sort hypnotiseur 4
+- Sort magicien 4
+- Sort médium 2
+- Sort occultiste 3
+- Sort psychiste 4
+- Sort sorcière 4
+- Sort spirite 3
+- Src Aventures occultes
+---
+
+{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Con](./Conjurateur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Hyp](./Hypnotiseur.md) 4, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 3
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** [moyenne](./courte.md) (30 m + 3 m/niveau)
+**Cible** 1 créature
+**Durée** 1 heure/niveau ([T](./Présentation des sorts.md#DUREE)) ; voir texte
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+---
+Le personnage projette discrètement son âme dans le corps de son hôte, afin d’observer ce qui l’entoure. Cela lui permet de l’affecter modérément. Le sort fonctionne comme une *[possession spirituelle](./Possession spirituelle (sort).md)* mais l’hôte conserve le contrôle absolu de son corps et ignore qu’il est victime d’une [possession](./Possession spirituelle.md). Le personnage ne peut pas communiquer directement avec son hôte mais il peut lui lancer des sorts à effet mental ou de nouveau passager clandestin tant qu’il peut lancer ces sorts sous forme d’action purement mentale. Même s’il lance un sort qui affecte normalement plusieurs cibles ou une zone, il n’affecte que l’hôte. Si ce dernier réussit un jet de sauvegarde contre un sort ainsi lancé, il comprend immédiatement qu’il est possédé et s’il le savait déjà, il a droit à un nouveau jet de sauvegarde contre le passager clandestin. *[Protection contre le Mal](./Protection contre le Mal.md)* et les effets similaires ne chassent pas le personnage de son hôte mais ils l’empêchent de lancer de nouveaux sorts depuis l’hôte tant que leur durée n’a pas expiré.
+
+
+
+(((
+## Possession spirituelle
+{s:Desambi|Ce sort suit les règles de [Possession spirituelle](./Possession spirituelle.md) d'Aventures occultes, et a pour vocation de remplacer l'ancien sort *[possession](./Possession.md)*.}{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Con](./Conjurateur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Hyp](./Hypnotiseur.md) 5, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 4
+**Temps d’incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G](./composantes.md)
+**Portée** [moyenne](./courte.md) (30 m + 3 m/niveau)
+**Cible** 1 créature
+**Durée** 1 h/niveau ([T](./Présentation des sorts.md#DUREE))
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+---
+Le personnage tente de prendre possession d’une créature en projetant son âme dans le corps de celle-ci. La cible doit se trouver dans le rayon d’action du sort et le personnage doit savoir où elle se trouve, bien qu’il n’ait pas besoin de la voir ni d’avoir une ligne d’effet jusqu’à elle. Quand le personnage termine l’incantation et transfère son âme, son corps semble mort. S’il n’arrive pas à prendre possession de son hôte, le sort se termine.
+
+Si le personnage réussit, sa force vitale occupe le corps de l’hôte tandis que l’âme de ce dernier est emprisonnée dans son corps avec le personnage, bien qu’elle reste en mesure d’utiliser ses propres sens (mais qu’elle soit incapable d’exercer la moindre influence ni même de recourir à des capacités purement mentales). Le personnage peut communiquer par télépathie avec son hôte comme s’ils partageaient un langage commun, mais cette communication fonctionne seulement si le personnage donne son accord. Le personnage conserve son [Intelligence](./Intelligence.md), sa [Sagesse](./Sagesse.md), son [Charisme](./Charisme.md), ses niveaux, ses classes, son bonus de base à l’attaque, ses bonus aux jets de sauvegarde, son alignement et ses capacités mentales. Le corps conserve sa [Force](./Force.md), sa [Dextérité](./Dextérité.md), sa [Constitution](./Constitution.md), ses points de vie ainsi que ses capacités naturelles et automatiques. Un corps doté de membres supplémentaires ne permet pas au personnage de porter plus d’attaques que d’habitude (ni de porter des attaques à deux armes plus avantageuses). Le personnage ne peut pas activer les pouvoirs extraordinaires, surnaturels ou magiques du corps ni lancer ses sorts.
+
+Le personnage peut regagner son corps librement, par une [action simple](./Action simple.md), quelle que soit la distance qui l’en sépare, tant qu’il se trouve sur le même plan. Si le corps de l’hôte se fait tuer, le personnage réintègre son propre corps et la force vitale de l’hôte le quitte (il meurt). Si le corps du personnage se fait tuer, le personnage succombe quand le sort expire ou quand le corps de son hôte se fait tuer. Le personnage peut lancer ce sort sur une autre cible alors qu’il se trouve dans le corps de la première. La durée du sort se réinitialise alors. Il retourne tout de même dans son corps d’origine (et non dans un corps intermédiaire) quand il utilise une [action simple](./Action simple.md) pour mettre fin au sort ou quand ce dernier expire. Le retour dans le corps d’origine met fin au sort. Les créatures dont l’âme sert aussi de corps (comme les morts-vivants intangibles ou les extérieurs non natifs) utilisent les effets de la *[possession spirituelle suprême](./Possession spirituelle suprême.md)*.
+)))

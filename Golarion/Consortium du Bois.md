@@ -1,0 +1,25 @@
+---
+Name: Golarion.Consortium du Bois
+Title: Le Consortium du Bois
+LastModified: 2011-09-27 22:07
+Categories:
+- Andoran
+- Organisation
+---
+
+{s:Organisation|Le Consortium du Bois|Lumber Consortium|-|Le profit par la vente de bois|[Orégent](./Orégent.md), en [Andoran](./Andoran.md)|Conseil d'administration|bûcherons, gardes, marchands|-|National ([Andoran](./Andoran.md)|Vente de bois}Le Consortium du bois est une entreprise qui possède le monopole de l'exploitation des bois feuillus en [Andoran](./Andoran.md). Vestige du passé lorsque l'[Andoran](./Andoran.md) était sous la dépendance du [Chéliax](./Chéliax.md), le Consortium du Bois a vu sa richesse et son influence décliner avec l'arrivée de la démocratie. Néanmoins, il continue à exercer une forte pression sur des petites communautés, particulièrement dans les zones les moins développées du pays. La principale zone d'abattage du Consortium se situe dans et autour du [Val de Sombrelune](./Val de Sombrelune.md) où son pouvoir est le plus notable.
+
+#### Histoire
+Le Consortium du Bois a été fondé en 1853 AR pour fournir au [Taldor](./Taldor.md) un approvisionnement constant en bois de construction.
+
+#### Structure
+Le Consortium du Bois est dirigé par un conseil d'administration qui siège à [Orégent](./Orégent.md). Chacun de ses membres possède un pouvoir de contrôle sur la compagnie. Ils supervisent les opérations de l'organisation, préparant les actions à long-terme ou mettant au point les stratégies à grande échelle et laissant la gestion quotidienne à des contremaîtres locaux connus sous le nom de marteleurs. Au plus haut de son histoire, le Consortium employait une douzaine de marteleurs, mais ils ne sont maintenant plus que deux.
+
+Il est impossible de gravir les échelons du Consortium sans faire fortune sur le dos des bûcherons et au détriment des forêts ou des indigènes des régions exploitées. Bien qu'ils n'ont jamais été réputés pour leur bon cœur, les administrateurs sont devenus de plus en plus sadiques et cruels à mesure que leur pouvoir s'est érodé. Certaines rumeurs échangées sous le manteau disent même que certains administrateurs de l'entreprise sont aux ordres du sinistre et mystérieux [Consortium Aspis](./Consortium Aspis.md).
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur le Consortium du Bois dans les suppléments
+- [Cadre de campagne : la mer Intérieure](./Publications.md#CAMPAIGNSETTING2)
+- [Recueil du val de Sombrelune](./Publications.md#RECUEILVAL)
+- [Pathfinder Companion: Andoran, Spirit of Liberty](./Publications.md#COMPANIONANDORAN)
+{s:VoirAussiAprès}

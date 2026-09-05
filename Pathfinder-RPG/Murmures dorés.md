@@ -1,0 +1,23 @@
+---
+Name: Pathfinder-RPG.Murmures dorés
+Title: Murmures dorés
+LastModified: 2024-06-21 15:46
+Categories:
+- Règle officielle
+- Sort
+- Sort magicien 3
+- Sort prêtre 4
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:cs}{s:RSE}**École** [Divination](./école divination.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Prê](./Prêtre.md) 4
+**Temps d'incantation** 1 [round](./round.md)
+**Composantes** [V, G, M](./composantes.md) (poudre de pierres précieuses d’une valeur de 100 po)
+**Portée** contact
+**Cible** une pièce d’or ou de platine
+**Durée** 1 jour/niveau (T)
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+
+*Développé par les prêtres du dieu de la civilisation pour appréhender les voleurs et les arnaqueurs, ce sort a ensuite été utilisé par diverses autres religions et a été modifié pour pouvoir être pratiqué par des lanceurs de sorts profanes grâce aux efforts combinés d'un Explorateur maître des sorts et d'un autre maître des parchemins. Les Explorateurs utilisent le plus souvent ce sort pour remonter la piste des pots-de-vin et des achats illicites jusqu’à leur principal commanditaire, tout particulièrement lorsqu’ils suspectent l’influence des agents du Consortium.*
+
+Les *murmures dorés* permettent au personnage de transformer une pièce de monnaie en ustensile magique pour espionner. Lorsqu’il utilise un sort ou un objet de [divination (scrutation)](./branche scrutation.md), tel que *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[scrutation](./scrutation.md)* ou une *[boule de cristal](./Boule de cristal.md)*, le personnage peut choisir de cibler une pièce de monnaie sur laquelle il a lancé un sort de *murmures dorés* à la place d’une créature ou d’un emplacement (même s’il n’est normalement pas autorisé à prendre un objet pour cible). Les limites de portée imposées par l’effet de scrutation s’appliquent toujours. Si la pièce est tenue en main ou transportée par une créature, son propriétaire peut effectuer le [jet de sauvegarde](./JDS.md) approprié pour résister à l’effet. Le lanceur du sort *murmures dorés* considère la pièce comme un objet familier. Les impressions psychiques résiduelles laissées par d’autres manipulateurs de la pièce augmentent la difficulté de détection de l’enchantement et protègent les *murmures dorés* contre les tentatives de détection effectués par le biais d’une *[détection de la magie](./Détection de la magie.md)*, d’une *[vision magique](./Vision magique.md)* et autres effets similaires, à moins que le lanceur de ces sorts ne réussisse un test de [niveau de lanceur de sorts](./NLS.md) (1d20 + niveau de lanceur de sorts) contre un [DD](./DD.md) de 11 + le niveau de lanceur de sorts de celui qui a lancé *murmures dorés*. Le capteur de scrutation créé en lançant un sort de divination (scrutation) afin d’observer ou d’écouter les alentours de la pièce peut être détecté normalement.

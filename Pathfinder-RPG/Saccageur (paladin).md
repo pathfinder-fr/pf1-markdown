@@ -1,0 +1,21 @@
+---
+Name: Pathfinder-RPG.Saccageur (paladin)
+Title: Saccageur
+LastModified: 2025-01-15 18:55
+Categories:
+- Archétype
+- Archétype antipaladin
+---
+
+{s:Menuarchétypepaladin}{s:plume}<div class="description">**Source :** Inner Sea Combat (ISC).</div>*Le saccageur vénère de sombres dieux de la destruction. Quand d'autres cherchent le pouvoir, la richesse ou la vengeance, le saccageur n'aspire qu'à la guerre et au carnage. A cause de leur nature destructive, la plupart de leurs vies sont courtes, mais intenses, emplies de sang et de massacres, jusqu'à ce que quelqu'un parvienne à les arrêter.*
+
+Cet archétype est seulement accessible à la classe alternative d’[antipaladin](./Antipaladin.md).
+
+#### Aura de sang (Sur)
+Au niveau 3, le saccageur émet une aura malsaine infligeant aux ennemis dans une zone de trois mètres (2 {s:c}) autour de lui une pénalité de -4 aux tests de [Constitution](./Constitution.md) et [Premiers Secours](./Premiers secours.md) pour arrêter le saignement et se [stabiliser](./Stabilisation.md). Cette capacité fonctionne seulement lorsque l’antipaladin est conscient. Ce pouvoir remplace l’[aura de lâcheté](./Antipaladin.md#AURADELACHETE).
+
+#### Aura de putréfaction (Sur)
+Au niveau 8, l'aura du saccageur fait saigner les blessures de tous les ennemis dans une zone de trois mètres (2 {s:c}) autour de lui. Les ennemis blessés dans cette zone subissent 1 point dégâts de saignement par round. Cette capacité fonctionne seulement lorsque l’antipaladin est conscient. Ce pouvoir remplace l’[aura de désespoir](./Antipaladin.md#AURADEDESESPOIR).
+
+#### Aura d'extinction (Sur)
+Au niveau 14, l'aura du saccageur fait échouer tous les sorts, pouvoirs surnaturels et magiques de guérison dans une zone de trois mètres (2 {s:c}) autour de lui. Les effets passifs, ou déjà en effet, ne sont pas affectés. Les lanceurs de sorts peuvent tenter d'ignorer cette aura en faisant un test de [lanceur de sorts](./NLS.md) (DD 11 + niveau de saccageur). Cette capacité fonctionne seulement lorsque l’antipaladin est conscient. Ce pouvoir remplace l’[aura de péché](./Antipaladin.md#AURADEPECHE).

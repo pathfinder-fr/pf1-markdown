@@ -1,0 +1,24 @@
+---
+Name: Pathfinder-RPG.Chasseur sauvage (rôdeur)
+Title: Chasseur sauvage
+LastModified: 2025-05-08 20:37
+Categories:
+- Archétype
+- Archétype rôdeur
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menuarchétyperôdeur}{s:MCA}*Un chasseur sauvage cherche à imiter les animaux qui l’entourent pour se protéger pendant qu’il traque ses proies. Au lieu d’étudier les caractéristiques et le comportement de ses ennemis jurés, un chasseur sauvage étudie ceux de divers animaux et incorpore leurs attributs dans ses stratégies de chasse.*
+
+#### Imitation animale (Sur)
+Au niveau 1, un chasseur sauvage peut, par une [action rapide](./Action rapide.md), imiter l’aspect d’un animal pour gagner un bonus ou un pouvoir spécial en fonction du type d’animal imité. Ceci fonctionne comme l’aptitude de classe [imitation animale](./Chasseur.md#IMITATIONANIMALE) du [chasseur](./Chasseur.md), sauf qu’elle s’applique uniquement au chasseur sauvage et pas à un compagnon animal (voir imitation partagée ci-dessous). Le chasseur sauvage peut utiliser cette aptitude pendant 1 minute par jour et par niveau de rôdeur. Cette durée n’est pas nécessairement consécutive mais doit être dépensée par période d’une minute au minimum. Il ne peut imiter qu’un seul animal à la fois. Cette aptitude remplace toutes les occurrences de l’aptitude de classe ennemi juré.
+
+#### Imitation partagée (Sur)
+Au niveau 7, un chasseur sauvage peut partager son imitation animale actuelle avec une créature correspondant à son pacte du chasseur.
+
+Si son pacte concerne un compagnon animal, celui-ci bénéficie automatiquement des avantages de l’imitation animale actuellement active sur le chasseur sauvage.
+
+Si son pacte concerne ses compagnons, il peut, par une action rapide, choisir un allié pour le faire bénéficier des avantages de son imitation animale actuellement active ; cet effet persiste jusqu’à ce que le pacte du chasseur prenne fin, jusqu’à ce que l’imitation animale prenne fin sur le chasseur sauvage ou quand le chasseur sauvage choisit un compagnon différent.
+
+Cette aptitude remplace déplacement facilité et pistage accéléré.

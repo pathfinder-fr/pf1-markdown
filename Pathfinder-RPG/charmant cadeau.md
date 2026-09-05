@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.charmant cadeau
+Title: Charmant cadeau
+LastModified: 2024-02-23 01:08
+Categories:
+- Sort
+- Sort hypnotiseur 1
+- Sort psychiste 1
+- Sort sorcière 1
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V,G,F](./composantes.md) (l'objet à offrir)  
+
+**Portée** 1,50 m (1 {s:c})  
+
+**Cible** 1 créature   
+
+**Durée** 1 [round](./round.md)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+
+Le personnage offre un objet à une créature adjacente et la pousse à l'utiliser ou à le consommer. Si la cible rate son jet de sauvegarde, elle accepte immédiatement l'objet offert, en laissant tomber ce qu'elle porte si nécessaire. Au prochain tour, elle consomme ou enfile l'objet, comme il convient selon le type d'objet. Par exemple, la créature mangera une pomme, boira une potion, mettra un anneau à son doigt ou brandira une épée dans sa main libre. Si la cible est physiquement incapable d'accepter l'objet offert, le sort échoue. Une fois la durée du sort écoulée, la cible n'a plus aucune obligation de continuer de consommer ou d'utiliser l'objet, mais elle aura sûrement du mal à se débarrasser d'un objet maudit.

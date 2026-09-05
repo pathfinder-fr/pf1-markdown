@@ -1,0 +1,20 @@
+---
+Name: Golarion.Cercle
+Title: Le Cercle
+LastModified: 2011-03-05 17:45
+Categories:
+- Katapesh
+- Organisation
+---
+
+{s:Organisation|Le Cercle|The Circle|LM|Trouver le Cercle|Sommet de la Montagne Pâle|Le Sorcier|Gnolls|-|Locale ([Pics Audacieux](./Pics-dAirain.md))|-}
+Le repaire de la tribu gnoll du Cercle est situé sur les pentes de la Montagne Pâle. Les flancs de la montagne abritent des mines peu profondes et les ruines de cités troglodytiques effondrées. Le chef de la tribu est le Sorcier, un humain prêtre de [Rovagug](./Rovagug.md) et émissaire du Roi-Charognard. Les autres membres notables de la tribu sont le flind Badilur, maître-escalavgiste et homme demain du Sorcier, le guerrier Lakkickkish et le roublard Purkor.
+
+Cette tribu a été donnée au mystérieux Sorcier par le Roi-Charognard lui-même en échange de la découverte une ancienne relique démoniaque, une amulette, considérée comme étant une arme puissante. Dans le but de retrouver l'amulette, la tribu excave les anciennes ruines situées près du sommet de la montagne.
+
+La tribu est constituée de 38 gnolls, 9 flinds, plusieurs chiens sauvages entraînés et presque deux douzaines d'esclaves.
+
+{s:VoirAussiAvant}
+Vous trouverez plus d'informations sur la tribu du Cercle dans le supplément
+- [Howl of the Carrion King/Le Hurlement du Roi Charognard](./../Aventures/Présentation AP4.md#AP4-1)
+{s:VoirAussiAprès}

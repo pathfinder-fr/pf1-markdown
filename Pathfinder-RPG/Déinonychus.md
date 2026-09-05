@@ -1,0 +1,62 @@
+---
+Name: Pathfinder-RPG.Déinonychus
+Title: Dinosaure, Déinonychus
+LastModified: 2021-04-17 16:23
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Déinonychus|FP 3}
+{s:pucem|Animal|Forêt-Jungle|Tempéré}
+{s:BDTexte|*Source : Bestiaire p.89*}
+{s:BDTexte|**PX** 800}
+{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
+{s:BDTexte|**pv** 34 (4d8+16)}
+{s:BDTexte|**Réf** +6, **Vig** +8, **Vol** +2}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 18 m (12 {s:c})}
+{s:BDTexte|**Corps à corps** 2 serres, +5 (1d8+2), morsure, +5 (1d6+2), griffes avant, +0 (1d4+1)}
+{s:BDTexte|**Attaques spéciales** [bond](./Bond.md)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 15, **Dex** 15, **Con** 19, **Int** 2, **Sag** 12, **Cha** 14}
+{s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 17}
+{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md)}
+{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+22 pour le saut), [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +14 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** forêts chaudes}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
+{s:BDTexte|**Trésor** aucun}
+</div>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce dinosaure de couleur vive semble féroce et dangereux. Des grandes griffes en forme de serpes terminent chacune de ses pattes.*
+
+Aussi rapide et agile que mortel, le déinonychus
+chasse généralement en
+groupes, poursuivant sa proie
+en compagnie de plusieurs
+de ses frères avant de l’éventrer
+et de la déchiqueter à
+l’aide de ses griffes.
+
+Vous pouvez appliquer l’archétype
+simple « jeune » pour obtenir un
+profil convenant aux vélociraptors,
+plus petits et plus agiles. À l’inverse,
+vous pouvez accroître la taille du
+déinonychus jusqu’à G et lui donner un
+total de 8 DV ou simplement lui appliquer les
+archétypes simples « géant » et « évolué » pour créer
+un formidable mégaraptor.
+
+#### Le déinonychus comme compagnon animal
+
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d6), morsure (1d4) ; **Caractéristiques** For 11, Dex 17, Con 17, Int 2, Sag 12, Cha 14 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+
+**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaque spéciale** [bond](./Bond.md).
+</div></td></tr></table>

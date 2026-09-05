@@ -1,0 +1,43 @@
+---
+Name: Golarion.Torag
+Title: Torag
+LastModified: 2020-06-30 14:46
+Categories:
+- Religion
+---
+
+{s:Dieu|Torag|%2fPCUP%2fReligion-PNG%2fTorag.png|Le Père de la Création|LB|Forge, protection, et stratégie|Nain, forgeron, garde|Marteau de guerre|Artisanat, Terre, Bien, Protection, Loi|Archons, Cavernes, Constructions, Défense, Métal, Labeur|Conversion, Emprisonnement, Hérésie, Tactique} Torag est un dieu stoïque et sérieux qui apprécie l'honneur, les plans et l'acier bien trempé. C'est un dieu distant qui accorde ses pouvoirs à ses prêtres, mais qui laisse ses suivants choisir leur voie dans la vie.
+
+### Histoire
+
+Les nains croient que Torag a créé le monde dans son immense forge, le frappant encore et encore de son marteau jusqu'à ce qu'il ait la forme désirée. Les nains seraient nés des rocs et des étincelles projetés par cette création.
+
+### Apparence
+
+Torag est décrit comme un nain puissant et avisé, créant dans sa forge une arme ou un bouclier. C'est un stratège accompli, il a un plan pour chaque situation possible. Il est représenté en armure complète tenant son marteau de guerre Kaglemros.
+
+### Émissaires
+
+Torag apprécie les créatures liées à la Terre, spécialement les créatures fouisseuses telles que le blaireau. Il déteste les chauves-souris et exècre encore plus les rejetons de [Rovagug](./Rovagug.md).
+
+
+### Doctrine
+
+La moitié des prêtres de Torag sont nains, mais de plus en plus d'humains embrassent cette religion. Tout acte de création et d'utilisation de forge est considéré comme une prière à Torag.
+
+### Temples
+
+Cette religion est très répandue sur les terres naines et beaucoup moins dans les royaumes humains excepté dans les terres nordiques des [Ulfes](./Ulfes.md). Les temples sont circulaires et englobent une forge en leur centre. Ils sont bâtis contre les murailles des cités pour éviter toutes nuisances sonores et pour en surveiller plus facilement les défenses.
+
+### Textes sacrés
+
+Les livres de Torag sont des volumes solides, qui peuvent résister à toutes les épreuves que pourrait subir leur possesseur.
+
+Marteau et pinces : La forge des métaux et autres nobles artisanats. Ce livre est cerclé de métal avec des pages intérieures en cuir laqué.
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
+- Enfin, le [deuxième volume](./../Aventures/Présentation AP11.md#AP11-2) de la onzième campagne, [Shattered Star](./../Aventures/Présentation AP11.md), contient un article qui détaille ce dieu.
+{s:VoirAussiAprès}

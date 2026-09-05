@@ -1,0 +1,14 @@
+---
+Name: Starfinder.Combat à plusieurs armes
+Title: Combat à plusieurs armes
+LastModified: 2024-07-04 17:26
+Categories:
+- Don
+- Don combat
+---
+
+*Vous savez comment combattre avec plusieurs armes légères en même temps et comment exploiter l’avantage conféré par vos attaques multiples.*
+
+**Catégorie :** Combat
+
+**Avantage :** Lorsque vous effectuez une attaque à outrance avec au moins deux armes légères ou deux armes de corps à corps d’agent , réduisez de 1 le malus de l’attaque à outrance.

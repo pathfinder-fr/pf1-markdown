@@ -1,0 +1,13 @@
+---
+Name: Golarion.Courtaud
+Title: Courtaud
+LastModified: 2010-11-17 16:34
+Categories:
+- Géographie
+- Ustalav
+- Ville
+---
+
+Courtaud est une petite ville située à l'ouest du comté de [Lozeri](./Lozeri.md) en [Ustalav](./Ustalav.md), à la lisière de la forêt de [Bois-frisson](./Bois-frisson.md).
+
+Une rumeur circule dans ses rues indiquant qu'une bête nommée le Diable Gris s'est etablie dans la forêt de [Bois-frisson](./Bois-frisson.md) et qu'elle s'attaque à la population. Mais le conseil municipal de Courtaud ne semble pas y prêter attention.

@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Haramaki (armure)
+Title: Haramaki
+LastModified: 2021-10-10 19:30
+Categories:
+- Armure
+- Src Armes et équipement
+- Src Art de la guerre
+---
+
+{s:AE}{s:UC}**Prix** 3 po ; **Poids** 0,5 kg
+**Bonus d'armure** +1 ; **Bonus de Dex maximal** — ; **Malus d'armure** 0
+**Risque d'échec des sorts profanes** 0% ; **Vitesse** 9 m/6 m (6 c/4 c)
+<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES) ([orientale](./Armes orientales.md))</span>
+---
+Aussi appelé chauffe-nombril, le haramaki est une simple ceinture large en soie bordée de mailles ou articulée de plaques de métal et nouée sur l’estomac pour le protéger.

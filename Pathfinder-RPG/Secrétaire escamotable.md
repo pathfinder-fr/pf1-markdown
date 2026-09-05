@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.Secrétaire escamotable
+Title: Secrétaire escamotable
+LastModified: 2024-06-14 23:18
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Secrétaire escamotable|{s:RSE}}
+**Aura** [Évocation](./Évocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 400 po ; **Poids** 1 kg
+(((Description)))
+Les Éclaireurs sont souvent amenés à prendre des notes durant leurs aventures, mais rencontrent parfois des difficultés à trouver un endroit confortable pour ce faire. Le *secrétaire escamotable* tente de satisfaire à ce besoin. Il peut être plié pour former un cube de bois laqué de 7,5 centimètres d’arête, ce qui facilite son transport. Une fois par jour, un unique mot de commande provoque le dépliage de ce cube de bois qui prend en un [round](./round.md) la forme d’un secrétaire ouvragé adapté à un utilisateur de taille M ou P. Il contient quatre fioles d’encre, deux plumes à encre et cinquante feuilles de papier vierge. Le secrétaire se ravitaille de lui-même en encre, plumes et papier à chaque fois qu’il est déplié. Une fois déplié, un hémisphère de six mètres de rayon se forme autour du secrétaire ; cet effet est identique à celui généré par le sort d’*[abri](./sort Abri.md)*. Une fois activé, l’effet d’abri du secrétaire reste en place pendant dix heures ou jusqu’à ce que l’objet soit replié ou déplacé de plus de quelques dizaines de centimètres. Bien entendu, l’effet est également utile pour fournir un emplacement idéal où installer le campement et la plupart des groupes d’aventuriers possèdent un secrétaire escamotable pour bénéficier de ce seul effet.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[réduction d’objet](./Réduction dobjet.md)*, *[abri](./abri.md)* ; **Coût** 2 700 po
+</div>

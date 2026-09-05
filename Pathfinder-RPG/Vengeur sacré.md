@@ -1,0 +1,147 @@
+---
+Name: Pathfinder-RPG.Vengeur sacré
+Title: Le vengeur sacré
+LastModified: 2024-07-13 17:52
+Categories:
+- Classe de prestige
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:MenuClassesDePrestige}
+
+{s:APG}''De nombreuses religions comptent dans leurs rangs un ordre religieux militant, qu’il s’agisse de guerriers saints ou de sombres chevaliers, qui mettent leur vie et leur âme immortelle en danger au nom de leur foi. Ce sont des parangons de bataille qui assènent leurs sermons à la pointe de leur épée. Ces hommes et ces femmes sont des conduits vivants pour la puissance divine qui s’imprègne dans leur sang qu’ils versent volontiers s’ils peuvent ainsi servir la gloire de leur dieu ou punir les infidèles, les hérétiques et les ennemis de la religion.
+
+Les vengeurs sacrés sont souvent des prêtres ou des guerriers/prêtres mais bien des paladins (ou même des paladins/prêtres) choisissent également cette voie. Dans tous les cas, elle leur offre la possibilité d’affiner leurs dons de combattants et de le mêler à la puissance de leur ministère.''
+
+<center>
+{| CLASS="tablo"
+|+ Le vengeur sacré
+|- CLASS="titre"
+| Niveau || BBA || Réflexes || Vigueur || Volonté
+| CLASS="gauche" | Spécial
+| CLASS="gauche" | Sorts par jour
+|- CLASS="premier"
+| 1 || +1 || +0 || +1 || +1
+| CLASS="gauche" | [Canalisation d’énergie](./Vengeur sacré.md#CANALISATIONDENERGIE), [bouclier du vengeur](./Vengeur sacré.md#BOUCLIERDUVENGEUR)
+| CLASS="gauche" | -
+|- CLASS="alt"
+| 2 || +2 || +1 || +1 || +1
+| CLASS="gauche" | [Stigmate](./Vengeur sacré.md#STIGMATE)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|-
+| 3 || +3 || +1 || +2 || +2
+| CLASS="gauche" | [Guérison miraculeuse](./Vengeur sacré.md#GUERISONMIRACULEUSE) (extension d’effet)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|- CLASS="alt"
+| 4 || +4 || +1 || +2 || +2
+| CLASS="gauche" | [Colère divine](./Vengeur sacré.md#COLEREDIVINE)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|-
+| 5 || +5 || +2 || +3 || +3
+| CLASS="gauche" | [Sang enflammé](./Vengeur sacré.md#SANGENFLAMME), [Châtiment aligné](./Vengeur sacré.md#CHATIMENTALIGNE)
+| CLASS="gauche" | -
+|- CLASS="alt"
+| 6 || +6 || +2 || +3 || +3
+| CLASS="gauche" | [Canalisation polyvalente](./Vengeur sacré.md#CANALISATIONPOLYVALENTE)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|-
+| 7 || +7 || +2 || +4 || +4
+| CLASS="gauche" | [Jugement divin](./Vengeur sacré.md#JUGEMENTDIVIN)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|- CLASS="alt"
+| 8 || +8 || +3 || +4 || +4
+| CLASS="gauche" | [Guérison miraculeuse](./Vengeur sacré.md#GUERISONMIRACULEUSE) (quintessence)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|-
+| 9 || +9 || +3 || +5 || +5
+| CLASS="gauche" | [Pluie de sang](./Vengeur sacré.md#PLUIEDESANG)
+| CLASS="gauche" | -
+|- CLASS="alt"
+| 10 || +10 || +3 || +5 || +5
+| CLASS="gauche" | [Vengeance divine](./Vengeur sacré.md#VENGEANCEDIVINE)
+| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
+|}
+</center>
+
+**Rôle.** Le vengeur sacré a des pouvoirs de lanceur de sorts substantiels mais pas aussi concentrés que ceux d’un [prêtre](./Prêtre.md) ou d’un [paladin](./Paladin.md). Il possède des talents de combattant importants et ses pouvoirs de guérison sont prodigieux. Toute personne dont les croyances correspondent à celle du vengeur trouvera en lui un excellent allié.
+
+**Alignement.** Les vengeurs loyaux sont un peu plus répandus que les autres, mais on en trouve de tout alignement.
+
+**Dé de vie.** d10
+
+### Conditions requises
+Pour devenir un vengeur sacré, il faut satisfaire aux conditions suivantes :
+
+**Bonus de base à l’attaque.** +5.
+
+**Compétences.** Connaissances (religion) 5 rangs.
+
+**Dons.** [Canalisation alignée](./Canalisation alignée.md) ou [Canalisation élémentaire](./Canalisation élémentaire.md)
+
+**Sorts.** Capacité à lancer des sorts divins de niveau 1.
+
+**Spécial.** pouvoir de classe canalisation d’énergie.
+
+
+### Compétences de classe
+Voici les compétences de classe de vengeur sacré  :  [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For),[Premiers secours](./Premiers secours.md) (Sag), [Psychologie](./Psychologie.md) (Sag).
+
+**Nombre de rangs par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md)
+
+### Caractéristiques de classe
+Voici les caractéristiques de la classe de prestige de vengeur sacré.
+
+#### Armes et armures
+Un vengeur sait manier toutes les [armes courantes et de guerre](./Tableau récapitulatif des armes.md) et il est formé au port de toutes les armures et de tous les boucliers (sauf le pavois).
+
+
+#### Sorts par jour
+Aux niveaux indiqués, le personnage gagne de nouveaux sorts par jour comme s’il avait également gagné un niveau dans une classe de lanceur de sorts divins à laquelle il appartenait avant de choisir cette classe de prestige. En revanche, il ne bénéficie pas des autres avantages de cette classe, seulement des sorts par jour, des sorts connus et de l’augmentation de niveau de lanceur de sorts effectif. Si le personnage appartenait à plusieurs classes de lanceur de sorts divins avant de devenir un vengeur, il doit choisir celle à laquelle il veut ajouter son niveau de vengeur pour déterminer son nombre de sorts par jour.
+
+{s:Reference|CANALISATIONDENERGIE}
+#### Canalisation d’énergie (Sur)
+Les niveaux de vengeur se cumulent avec tout autre niveau de classe qui permet de canaliser de l’énergie.
+
+{s:Reference|BOUCLIERDUVENGEUR}
+#### Bouclier du vengeur (Sur)
+{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#58) Vengeur sacré : Cette classe possède une capacité qui lui donne un bonus de sainteté à la CA jusqu'à ce que le personnage « se fasse toucher au combat ». Une attaque de contact compte-t-elle comme un « toucher » ? Qu'en est-il des sorts comme *projectile magique* ou *boule de feu* ?***
+
+La <u>[capacité](./Vengeur sacré.md#BOUCLIERDUVENGEUR)</u> dure jusqu'à ce qu'un adversaire réussisse un [jet d'attaque](./jet dattaque.md) contre la Classe d'Armure du vengeur sacré.}Par une [action simple](./Action simple.md), un vengeur peut canaliser de l’énergie dans son [bouclier](./Bouclier.md). Ce dernier lui offre alors un bonus sacré (s’il s’agit d’énergie positive) ou de malfaisance (s’il s’agit d’énergie négative) à la [CA](./CA.md) égal au nombre de dés lancés par le personnage quand il canalise de l’énergie. Ce bonus dure 24 heures ou jusqu’à ce que le personnage se fasse toucher au combat. Si quelqu’un d’autre s’empare du bouclier, il ne bénéficiera pas pour autant du bonus, en revanche, le vengeur n’a pas besoin de porter son bouclier pour qu’il conserve son pouvoir.
+
+{s:Reference|STIGMATE}
+#### Stigmate (Sur)
+Un vengeur verse volontairement son sang au nom de sa foi. Il est marqué de scarifications appropriées à sa divinité. Par une [action simple](./Action simple.md) et par la seule force de sa volonté, il peut arrêter le flot de sang ou le faire redémarrer. Au niveau 6, c’est une [action de mouvement](./Action de mouvement.md) et au niveau 10 une [action rapide](./Action rapide.md). Un stigmate actif inflige au vengeur des dégâts de [saignement](./Saignement.md) égaux à la moitié de son niveau de classe. La magie de guérison ne peut pas y mettre un terme. Tant que les stigmates saignent, le vengeur gagne un bonus sacré ou de malfaisance (selon qu’il canalise de l’énergie positive ou négative) égal à la moitié de son niveau de classe. À chaque activation des stigmates, le personnage doit décider si son bonus s’applique aux [jets d’attaque](./jet dattaque.md), [de dégâts](./jet de dégât.md) des armes, à la [CA](./CA.md), aux tests de [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) ou aux [jets de sauvegarde](./jet de sauvegarde.md). Il doit désactiver ses stigmates et les réactiver s’il veut changer la cible du bonus.
+
+Tant que les stigmates saignent, le personnage ignore tout drain de sang ou dégâts de [saignement](./Saignement.md) issu d’une autre source et il peut utiliser *[saignement](./sort Saignement.md)* et *[stabilisation](./Stabilisation.md)* à volonté par une [action simple](./Action simple.md).
+
+{s:Reference|GUERISONMIRACULEUSE}
+#### Guérison miraculeuse (Sur)
+Au niveau 3, tout sort de soin que le vengeur lance sur sa propre personne bénéficie d’une [Extension d’effet](./Extension deffet.md), en revanche, il n’est pas considéré comme un sort de plus haut niveau et ne demande pas un temps d’incantation plus important que la normale. Si le vengeur se lance un sort de soin qui affecte plusieurs créatures, ce pouvoir ne s’applique qu’à lui. Au niveau 8, les sorts de soins bénéficient de la [Quintessence des sorts](./Quintessence des sorts.md) plutôt que de l’Extension d’effet.
+
+{s:Reference|COLEREDIVINE}
+#### Colère divine (Mag)
+Au niveau 4, quand le vengeur confirme un [coup critique](./coup critique.md), il peut sacrifier un emplacement de sort de niveau 1 préparé ou disponible pour lancer l’[anathème](./Anathème.md) sur la cible, par une [action immédiate](./Action immédiate.md) (en utilisant le niveau de lanceur de sorts du vengeur). Le DD du jet de sauvegarde augmente de +2 si le multiplicateur de critique de son arme est de x3 et de +4 s’il est de x4. Le vengeur peut également utiliser ce pouvoir en réponse à un coup critique, même si l’attaque le met hors de combat ou le tue.
+
+{s:Reference|SANGENFLAMME}
+#### Sang enflammé (Sur)
+Au niveau 5, quand les stigmates du personnage saignent, son sang se déverse sur son arme comme une énergie liquide sacrée ou malfaisante. S’il utilise le [Châtiment canalisé](./Châtiment canalisé.md), ses dégâts sont augmentés de 1d6 et, si la cible rate son [jet de sauvegarde](./jet de sauvegarde.md), elle est [fiévreuse](./Fiévreux.md) et subit 1d6 points de dégâts de [saignement](./Saignement.md) par round à son tour. La cible peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) à chaque round pour se débarrasser de l’effet de [fièvre](./Fiévreux.md) et de [saignement](./Saignement.md).
+
+{s:Reference|CHATIMENTCANALISE}{s:Reference|CHATIMENTALIGNE}
+#### Châtiment canalisé
+Au niveau 5, le vengeur gagne [Châtiment canalisé](./Châtiment canalisé.md) comme don supplémentaire.
+
+{s:Reference|CANALISATIONPOLYVALENTE}
+#### Canalisation polyvalente (Sur)
+Au niveau 6, la canalisation d’énergie du vengeur peut affecter un cône de 9 mètres (6 cases) ou une ligne de 36 mètres (24 cases).
+
+{s:Reference|JUGEMENTDIVIN}
+#### Jugement divin (Mag)
+Au niveau 7, quand l’attaque au corps à corps d’un vengeur réduit une créature à -1 [point de vie](./pv.md) ou moins, il peut sacrifier un sort de niveau 2 préparé ou disponible pour lancer *[mise à mort](./Mise à mort.md)* sur la cible, par une [action immédiate](./Action immédiate.md) (en utilisant le niveau de lanceur de sorts du vengeur). Comme le vengeur applique la sentence divine, ce n’est pas un acte maléfique. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) augmente de +2 si le multiplicateur de critique de son arme est de x3 et de +4 s’il est de x4.
+
+{s:Reference|PLUIEDESANG}
+#### Pluie de sang (Sur)
+Au niveau 9, quand les stigmates du vengeur saignent, ses canalisations d’énergie offensives s’accompagnent d’une pluie d’énergie liquide sacrée ou malfaisante qui augmente les dégâts de 1d6. Les créatures qui ratent leur jet de sauvegarde sont fiévreuses et subissent 1d6 points de dégâts de [saignement](./Saignement.md) par round à leur tour. La cible peut tenter un nouveau jet de sauvegarde à chaque round pour se débarrasser de l’effet de fièvre et de [saignement](./Saignement.md).
+
+{s:Reference|VENGEANCEDIVINE}
+#### Vengeance divine (Mag)
+Au niveau 10, quand le vengeur confirme un [coup critique](./coup critique.md), il peut sacrifier un emplacement de sort de niveau 3 préparé ou disponible pour lancer *[malédiction](./sort Malédiction.md)* sur la cible, par une [action immédiate](./Action immédiate.md) (en utilisant le [niveau de lanceur de sorts](./NLS.md) du vengeur). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) augmente de +2 si le multiplicateur de critique de son arme est de x3 et de +4 s’il est de x4. Le vengeur peut également utiliser ce pouvoir en réponse à un [coup critique](./coup critique.md), même si l’attaque le met hors de combat ou le tue.

@@ -1,0 +1,52 @@
+---
+Name: Pathfinder-RPG.Sapeur alchimique (Alchimiste)
+Title: Sapeur alchimique
+LastModified: 2023-05-28 13:26
+Categories:
+- Archétype
+- Archétype alchimiste
+---
+
+{s:Menuarchétypealchimiste}{s:cs}**Source : Ultimate intrigue**
+
+*Les Sapeurs alchimique sont entraînés à la création d'explosifs.*
+
+#### Alchimie diminuée
+Un sapeur alchimiste peut préparer un extrait de moins de chaque niveau par rapport à la normale. Si cela réduit le nombre à 0, il peut préparer un extrait de ce niveau uniquement si son intelligence élevée lui permet la création d'extraits supplémentaires de ce niveau.
+
+#### Compétences de classe
+Un sapeur alchimique ajoute [Connaissances](./Connaissances.md) (ingénierie) et [Discrétion](./Discrétion.md) à sa liste de compétences de classe.
+
+Cela altère les compétences de classe de l'[alchimiste](./Alchimiste.md).
+
+#### Bombe de démolition (Sur)
+Au niveau 1, un sapeur alchimique peut créer une bombe de démolition. Cette bombe inflige deux fois plus de dégâts qu'une bombe normale, la première moitié inflige des dégâts contondants et perçants, le seconde des dégâts de feu. Cette bombe ignore un nombre de points de solidité égaux à 1/2 du niveau de sapeur alchimique (minimum 1). Cela compte comme une comme une aptitude qui modifie la bombe du sapeur alchimique, cela ne se cumule donc pas avec d'autres [découvertes](./découvertes.md) qui modifient les bombes. Le sapeur alchimique ne peut pas utiliser sa bombe de démolition avec la découverte [bombes rapides](./découvertes.md#BOMBESRAPIDES). Un sapeur alchimique ne peut se servir d'une utilisation par jour de sa compétence de classe bombes pour créer une bombe de démolition. Il peut créer une bombe de démolition supplémentaire à partir du niveau 5 et une de plus tous les quatre niveaux après.
+
+Ce pouvoir modifie [bombes](./Alchimiste.md#BOMBES).
+
+#### Bombe à retardement (Sur)
+Un sapeur alchimique gagne la découverte [bombe à retardement](./découvertes.md#BOMBEARETARDEMENT) au niveau 1. Il ne peut apprendre les découvertes [mutagène](./découvertes.md#MUTAGENE) et [cognatogène](./découvertes.md#COGNATOGENE) avant le niveau 8.
+
+Ce pouvoir remplace [mutagène](./Alchimiste.md#MUTAGENES).
+
+#### Maître ingénieur (Ext)
+Au niveau 2, un sapeur alchimique ajoute 1/2 de son niveau d'alchimiste à ses tests de [Connaissances](./Connaissances.md) (ingénierie), [Artisanat](./Artisanat.md) (constructions en pierre) et [Artisanat](./Artisanat.md) (pièges).
+
+Ce pouvoir remplace la [résistance aux poisons](./Alchimiste.md#RESISTPOISON).
+
+#### Bombe camouflée (Ext)
+Au niveau 3, un sapeur alchimique devient capable de cacher ses bombes. Lorsqu'il déploie une [bombe à retardement](./découvertes.md#BOMBEARETARDEMENT) ou une mine de proximité (voir plus bas), le sapeur alchimique peut camoufler la bombe en dépensant un [round](./round.md) complet. Les créatures recherchant les pièges doivent réussir un test de [Perception](./Perception.md) ([DD](./DD.md) = 10 + le [niveau](./niveau.md) de sapeur alchimique + son modificateur d'[Intelligence](./Intelligence.md)) pour dénicher les bombes camouflées.
+
+Ce pouvoir remplace [alchimie rapide](./Alchimiste.md#ALCHIMIERAPIDE).
+
+#### Mine de proximité (Sur)
+Au niveau 6, un sapeur alchimique peut dépenser deux utilisations de sa compétence de classe bombes (Sur) pour préparer un piège spécifique appelé une mine de proximité. Cette bombe spéciale reste inactive 1 round après avoir quitté la possession du sapeur alchimique, après ce délai elle s'arme. Lorsqu'une créature entre sur une case contenant une mine de proximité armée, elle explose, causant des dégâts de bombe habituels à toutes les créatures dans la case ([DD](./DD.md) = 10 + 1/2 la moitié du niveau d'alchimiste du sapeur alchimique + son modificateur d'[Intelligence](./Intelligence.md) ; [jet de Réflexes](./jet de sauvegarde.md) pour réduire les dégâts de moitié) et des dégâts d'éclaboussure sur les cases adjacentes à ce carré. Une mine de proximité peut être désarmée en réussissant un test de [Sabotage](./Sabotage.md) ([DD](./DD.md) = 10 + 1/2 niveau d'alchimiste du sapeur alchimique + son modificateur d'[Intelligence](./Intelligence.md)) ; sinon, elle reste active jusqu'à ce que l'alchimiste prépare son prochain lot de bombes quotidiennes.
+
+Si le sapeur alchimique dépense quatre utilisations de sa compétence de classe bombes, la mine de proximité fait autant de dégâts qu'une bombe de démolition ; cela ne compte pas comme une utilisation quotidienne de la compétence bombe de démolition. A part la modification de bombe de démolition, les [découvertes](./découvertes.md) qui modifient la mine de proximité ne sont pas applicables.
+
+Ce pouvoir remplace la [découverte](./Alchimiste.md#DECOUVERTES) gagnée au niveau 6.
+
+#### Détonation sélective (Sur)
+Au niveau 10, lorsqu'un sapeur alchimique place une mine de proximité, il peut désigner un nombre d'alliés égal à son modificateur d'intelligence, leur permettant de passer en sécurité par une case équipée d'une mine de proximité armée sans la faire détoner. Si une autre créature active le piège alors qu'un allié est proche, l'allié prend tout de même les dégâts normaux.
+
+Ce pouvoir remplace l'[immunité aux poisons](./Alchimiste.md#RESISTPOISON) du niveau 10.

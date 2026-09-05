@@ -1,0 +1,14 @@
+---
+Name: Pathfinder-RPG.Chaînes infernales
+Title: Chaînes infernales
+LastModified: 2023-08-02 15:01
+Categories:
+- Don
+- Src Inner Sea Gods
+---
+
+{s:cs} {s:ISG} *Le personnage peut canaliser les chaînes de l'Enfer sur ses ennemis.*
+
+**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 5d6, suivant d'un archidiable, d'un duc infernal, d'un malebranche ou d'une reine catin
+
+**Avantage.** Une fois par jour, lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) négative pour blesser les créatures vivantes, il peut essayer d'affecter les créatures blessées avec une *[ancre dimensionnelle](./Ancre dimensionnelle.md)*. Les créatures blessées doivent réussir un [jet de sauvegarde](./JDS.md) de [Volonté](./Volonté.md) ([DD](./DD.md) égal au DD de la canalisation) en plus du jet de Volonté classique visant à réduire de moitié les dégâts de la canalisation d'énergie. Ceux qui ratent leur jet de sauvegarde contre l'énergie canalisée subissent un malus de -4 à leur jet de sauvegarde contre l'effet d’*[ancre dimensionnelle](./Ancre dimensionnelle.md)*. Ceux qui échouent leur deuxième jet de Volonté sont affectés par une *ancre dimensionnelle* pendant un nombre de minutes égal au modificateur de [Charisme](./Charisme.md) du personnage (minimum 1 minute).

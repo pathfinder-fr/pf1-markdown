@@ -1,0 +1,315 @@
+---
+Name: Pathfinder2.CalcArtisanat
+Title: Calculette pour l'artisanat PF2
+LastModified: 2023-06-18 18:05
+---
+
+<div class="topmenu"><div class="topmenutitre">
+<p>Règles et variantes sur l'artisanat</p>
+<a href="/Wiki/Pathfinder2.ADJ.ashx" title="Retour aux aides de jeu pour PF2">
+<i class="fa fa-arrow-left" aria-hidden="true"></i> ADJ PF2</a>
+</div>
+<div class="contenumenuPF2">
+[Règles de base (WIP)](./ArtisanatCR.md)
+[Variante Treasure Vault](./ArtisanatTV.md)
+[Calculette](./CalcArtisanat.md)
+[Artisanat naturel](./ArtisanatTVN.md)
+[Artisanat narratif](./ArtisanatTVS.md)
+</div>
+</div>
+
+<nowiki>
+<style>
+fieldset {background-color: #f3efe2; border: 1px solid #002564; margin-bottom: 12px; padding-bottom: 0; padding-top: 0;}
+legend {color: #002564; font-family: 'Suez One', serif; font-size: 130%;}
+input[type="number"] {width: 80px;}
+input[type="radio"], input[type="checkbox"] {display: none;}
+label[for] {border: 1px solid #4b3124; padding: 2px 4px;}
+label[for]:hover {background-color: white;}
+input:checked+label {background-color: lemonchiffon;}
+1. dDetails td, #dDetails th {font-family: 'Livvic', sans-serif; background-color: transparent; padding: 0 20px;}
+1. dDetails table tr:hover {background-color: lemonchiffon;}
+1. dDetails tr:nth-child(2n+3) {background-color: lightgray;}
+.resultDie {margin-bottom: 8px;}
+.resultDie td {font-family: 'Livvic'; font-size: 120%; text-align: center; border: 1px solid black; width: 24px;}
+.resultDie0 {background-color: red; color: white;}
+.resultDie1 {background-color: orange;}
+.resultDie2 {background-color: lightgreen;}
+.resultDie3 {background-color: blue; color: white;}
+1. error {color: red;}
+</style>
+<form>
+<fieldset>
+<legend>Personnage artisan</legend>
+<p>
+Niveau : <input id="iLvlC" type="number" min="0" max="20" value="1" /> &nbsp; &nbsp;
+Modificateur en Artisanat : <input id="iSkillMod" type="number" min="0" max="40" value="5" />
+</p>
+<p>Degré de maîtrise :
+<input type="radio" id="bProf0" name="bProf" value="0"><label for="bProf0">Non entraîné</label>
+<input type="radio" id="bProf1" name="bProf" value="1" checked><label for="bProf1">Entraîné/qualifié</label>
+<input type="radio" id="bProf2" name="bProf" value="2"><label for="bProf2">Expert</label>
+<input type="radio" id="bProf3" name="bProf" value="3"><label for="bProf3">Maître</label>
+<input type="radio" id="bProf4" name="bProf" value="4"><label for="bProf4">Légendaire</label>
+</p>
+</fieldset>
+<fieldset>
+<legend>Objet créé</legend>
+<p>Niveau : <input id="iLvlI" type="number" min="0" max="20" value="0" /> &nbsp; &nbsp;
+Prix : <input id="iPrice" type="number" min="0" value="1" />
+<select id="sPriceUnit">
+<option value="100" selected>po</option>
+<option value="10">pa</option>
+<option value="1">pc</option>
+</select> &nbsp; &nbsp;
+Quantité : <input id="iBatchSize" type="number" min="1" value="1" />
+</p>
+</p>
+<p>Rareté :
+<input type="radio" id="bRarity0" name="bRarity" value="0" checked><label for="bRarity0">Courant</label>
+<input type="radio" id="bRarity1" name="bRarity" value="1"><label for="bRarity1">Peu commun</label>
+<input type="radio" id="bRarity2" name="bRarity" value="2"><label for="bRarity2">Rare</label>
+<input type="radio" id="bRarity3" name="bRarity" value="3"><label for="bRarity3">Unique</label> &nbsp; &nbsp;
+Type :
+<input type="radio" id="bType0" name="bType" value="0" checked><label for="bType0">Consommable</label>
+<input type="radio" id="bType1" name="bType" value="1"><label for="bType1">Permanent</label>
+</p>
+</fieldset>
+<fieldset>
+<legend>Options</legend>
+<p>Utiliser la variante Treasure Vault :
+<input type="radio" id="bTV0" name="bTV" value="0" checked><label for="bTV0">Non</label>
+<input type="radio" id="bTV1" name="bTV" value="1"><label for="bTV1">Oui</label>
+<input type="radio" id="bTV2" name="bTV" value="2"><label for="bTV2">Oui + Quick Setup</label>
+</p>
+<p>Accélérer la création initiale :
+<input type="radio" id="bRush0" name="bRush" value="0" checked><label for="bRush0">Non</label>
+<input type="radio" id="bRush1" name="bRush" value="1"><label for="bRush1">-1 jour (DD +5)</label>
+<input type="radio" id="bRush2" name="bRush" value="2"><label for="bRush2">-2 jours (DD +10)</label>
+<input type="radio" id="bRush3" name="bRush" value="3"><label for="bRush3">-3 jours (DD +15)</label>
+</p>
+<p>Accélérer la création secondaire :
+<input type="checkbox" id="bRushFinish" name="bRushFinish"><label for="bRushFinish">Oui</label> &nbsp; &nbsp;
+Modificateur au DD : <input id="iMod" type="number" min="-10" max="10" value="0" />
+</p>
+</fieldset>
+<fieldset>
+<legend>Résultat</legend><div id="dSummary"></div>
+</fieldset>
+<fieldset>
+<legend>Détails</legend><div id="dDetails"></div>
+</fieldset>
+</form>
+
+<script>
+const earnIncomeValues = [
+[1, 5, 5, 5, 5],
+[2, 20, 20, 20, 20],
+[4, 30, 30, 30, 30],
+[8, 50, 50, 50, 50],
+[10, 70, 80, 80, 80],
+[20, 90, 100, 100, 100],
+[30, 150, 200, 200, 200],
+[40, 200, 250, 250, 250],
+[50, 250, 300, 300, 300],
+[60, 300, 400, 400, 400],
+[70, 400, 500, 600, 600],
+[80, 500, 600, 800, 800],
+[90, 600, 800, 1000, 1000],
+[100, 700, 1000, 1500, 1500],
+[150, 800, 1500, 2000, 2000],
+[200, 1000, 2000, 2800, 2800],
+[250, 1300, 2500, 3600, 4000],
+[300, 1500, 3000, 4500, 5500],
+[400, 2000, 4500, 7000, 9000],
+[600, 3000, 6000, 10000, 13000],
+[800, 4000, 7500, 15000, 20000],
+[800, 5000, 9000, 17500, 30000],
+];
+const dcByLevel = [
+14, 15, 16, 18, 19, 20, 22, 23, 24, 26, 27, 28, 30,
+31, 32, 34, 35, 36, 38, 39, 40, 42, 44, 46, 48, 50,
+];
+const dcModByRarity = [
+0, 2, 5, 10,
+];
+
+function setupTimeTV (lvlC, lvlI, isPermanent, quickSetupAllowed = true) {
+const lvlDiff = lvlC - lvlI;
+if (lvlDiff <= 0)
+return isPermanent ? 6 : 4;
+if (lvlDiff <= 2)
+return isPermanent ? 5 : 3;
+if (lvlDiff <= 5 || !quickSetupAllowed)
+return isPermanent ? 4 : 2;
+return isPermanent ? 3 : 1;
+}
+
+function costToString (cost) {
+if (cost <= 0)
+return "0";
+let res = "";
+if (cost >= 100) {
+const gp = Math.floor(cost / 100);
+res += gp + " po ";
+cost -= gp * 100;
+}
+if (cost >= 10) {
+const sp = Math.floor(cost / 10);
+res += sp + " pa ";
+cost -= sp * 10;
+}
+if (cost > 0) {
+res += cost + "pc";
+}
+return res;
+}
+
+function update () {
+const lvlC = Number(document.getElementById("iLvlC").value);
+const prof = Number(document.querySelector("input[name='bProf']:checked").value);
+const skillMod = Number(document.getElementById("iSkillMod").value);
+
+const lvlI = Number(document.getElementById("iLvlI").value);
+const rarity = Number(document.querySelector("input[name='bRarity']:checked").value);
+const batchSize = Number(document.getElementById("iBatchSize").value);
+let price = Number(document.getElementById("iPrice").value) * batchSize;
+const priceUnit = Number(document.getElementById("sPriceUnit").value);
+price *= priceUnit;
+const isPermanent = document.querySelector("input[name='bType']:checked").value == "1";
+
+const optTV = Number(document.querySelector("input[name='bTV']:checked").value);
+const rush = Number(document.querySelector("input[name='bRush']:checked").value);
+const rushFinish = document.getElementById("bRushFinish").checked;
+const dcMod = Number(document.getElementById("iMod").value);
+
+const assuranceResult = 10 + lvlC + prof * 2;
+let dc = dcByLevel[lvlI] + dcModByRarity[rarity] + dcMod;
+if (optTV != 0) {
+dc += rush * 5;
+}
+let dcOutput = "" + dc;
+if (assuranceResult >= dc + 10) {
+dcOutput += " (réussite critique automatique avec Assurance)";
+} else if (assuranceResult >= dc) {
+dcOutput += " (réussite automatique avec Assurance)";
+}
+
+let outputDie = '<p><strong>Résultats en fonction du lancer de dé :</strong></p><table class="resultDie"><tr>';
+let statDie = [0, 0, 0, 0];
+for (let dieResult = 1 ; dieResult <= 20 ; dieResult++) {
+let res;
+if (dieResult + skillMod >= dc) {
+if (dieResult + skillMod >= dc + 10)
+res = 3;
+else
+res = 2;
+} else {
+if (dieResult + skillMod <= dc - 10)
+res = 0;
+else
+res = 1;
+}
+if (dieResult == 1 && res > 0) res--;
+if (dieResult == 20 && res < 3) res++;
+statDie[res]++;
+outputDie += `<td class="resultDie${res}">${dieResult}</td>`;
+}
+for (let i = 0 ; i < 4 ; i++) statDie[i] *= 5;
+outputDie += "</tr></table>";
+outputDie += `<p>Réussite : ${statDie[2]+statDie[3]}% (dont ${statDie[3]}% de réussite critique) - Échec : ${statDie[1]}% - Échec critique : ${statDie[0]}%</p>`;
+
+const setup = optTV == 0 ? 4 : setupTimeTV(lvlC,lvlI,isPermanent,optTV == 2) - rush;
+const setupCost = price / 2;
+let redPerDay = earnIncomeValues[lvlC][prof];
+let redPerDayCrit = earnIncomeValues[lvlC+1][prof];
+if (optTV != 0 && rushFinish) {
+redPerDay *= 2;
+redPerDayCrit *= 2;
+}
+let outputSetup = "";
+if (setup > 1)
+outputSetup = setup + " jours";
+else if (setup == 1)
+outputSetup = "1 jour";
+else if (optTV == 2 && !isPermanent && lvlI <= lvlC - 6)
+outputSetup = "2 heures";
+else
+outputSetup = "4 heures";
+
+let summary =
+`<p><strong>DD</strong> : ${dcOutput}  
+\
+<strong>Préparation initiale</strong> : ${outputSetup} ; ${costToString(setupCost)} de matières premières  
+\
+<strong>Coût restant</strong> : ${costToString(setupCost)}— <strong>Réduction</strong> : ${costToString(redPerDay)} par jour supplémentaire (${costToString(redPerDayCrit)} si réussite critique)`;
+if (rushFinish) {
+summary += `  
+<strong>Test nu en fin de création</strong> : DD ${10+lvlI-(prof == 0 ? 0 : lvlC+2*prof)}`;
+}
+summary += "</p>" + outputDie;
+
+let errors = "";
+if (lvlC < lvlI)
+errors += "Erreur : le niveau du personnage est inférieur au niveau de l'objet !  
+";
+if (prof == 3 && lvlC < 7)
+errors += "Erreur : un personnage doit être de niveau 7 ou plus pour être maître !  
+";
+else if (prof == 4 && lvlC < 13)
+errors += "<p>Erreur : un personnage doit être de niveau 13 ou plus pour être légendaire !  
+";
+if (rush == 1 && prof < 2)
+errors += "Erreur : un personnage doit être expert pour pouvoir accélérer la création initiale de 1 jour !  
+";
+else if (rush == 2 && prof < 3)
+errors += "Erreur : un personnage doit être maître pour pouvoir accélérer la création initiale de 2 jours !  
+";
+else if (rush == 3 && prof < 4)
+errors += "Erreur : un personnage doit être légendaire pour pouvoir accélérer la création initiale de 3 jours !  
+";
+if (optTV == 2 && prof < 3)
+errors += "Erreur : un personnage doit être maître pour pouvoir bénéficier du don Quick Setup !  
+";
+if (rushFinish && prof < 2)
+errors += "Erreur : un personnage doit être expert pour pouvoir accélérer la création secondaire !  
+";
+document.getElementById("dSummary").innerHTML = `${summary}<p id="error">${errors}</p>`;
+
+let remainingCost = price - setupCost;
+let remainingCostCrit = remainingCost;
+let nbDays = 1;
+let details = "<table><tr><th>Jours de travail</th><th>Reste à payer (réussite)</th><th>Reste à payer (réussite critique)</th></tr>";
+while (remainingCostCrit > 0) {
+remainingCost -= redPerDay;
+remainingCostCrit -= redPerDayCrit;
+if (remainingCostCrit < 0) {
+remainingCostCrit = 0;
+if (remainingCost < 0) remainingCost = 0;
+}
+details += `<tr><td>${outputSetup} + ${nbDays}</td><td>${costToString(remainingCost)}</td><td>${costToString(remainingCostCrit)}</td></tr>`;
+nbDays++;
+}
+while (remainingCost > 0) {
+remainingCost -= redPerDay;
+if (remainingCost < 0) remainingCost = 0;
+details += `<tr><td>${outputSetup} + ${nbDays}</td><td>${costToString(remainingCost)}</td></td><td></tr>`;
+nbDays++;
+}
+details += "</table>";
+document.getElementById("dDetails").innerHTML = details;
+
+}
+
+window.addEventListener("load", () => {
+update();
+for (const id of [
+"iLvlC", "bProf0", "bProf1", "bProf2", "bProf3", "bProf4", "iSkillMod",
+"iLvlI", "bRarity0", "bRarity1", "bRarity2", "bRarity3", "iPrice", "sPriceUnit", "bType0", "bType1",
+"bTV0", "bTV1", "bTV2", "bRush0", "bRush1", "bRush2", "bRush3", "bRushFinish", "iMod", "iBatchSize",
+])
+document.getElementById(id).addEventListener("change", update);
+});
+
+</script>
+</nowiki>

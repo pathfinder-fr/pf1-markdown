@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Fétiche ailé (objet)
+Title: Fétiche ailé
+LastModified: 2021-09-26 18:25
+Categories:
+- Équipement
+- Src Dieux et magie
+---
+
+{s:GeM}**Prix** 50 po ; **Poids** — ; **Divinité associée** [Déesse qui juge les défunts](./../Golarion/Pharasma.md)
+<span class="Catégorie">**Catégorie** [Focalisateurs de canalisation](./Focalisateurs de canalisation.md)</span>
+---
+Cette amulette est composée d’une dague émoussée enveloppée de plumes. Lorsqu’elle est activée, elle protège son porteur des créatures mortes-vivantes. La première fois que le porteur est sujet à l’attaque d’une créature morte-vivante requérant un [jet de sauvegarde](./JDS.md) (tel que [maladie](./Maladie (capacité).md), [paralysie](./Paralysie (capacité).md) ou [absorption d’énergie](./Absorption dénergie (capacité).md)), l’amulette lui confère un bonus sacré (s’il est activé avec de l’énergie positive) ou profane (s’il est activé avec de l’énergie négative) sur le jet de sauvegarde effectué pour résister à cette attaque. Ce bonus est égal au nombre de dés que le prêtre qui l’active lance afin de déclencher son pouvoir de canalisation d’énergie. L’amulette reste chargée pendant une heure ou jusqu’à ce que sa magie soit utilisée.

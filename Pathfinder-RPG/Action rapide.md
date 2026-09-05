@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Action rapide
+Title: Action rapide
+LastModified: 2025-07-25 15:20
+Categories:
+- Redirection
+---
+
+>>> Types dactions#RAPIDE

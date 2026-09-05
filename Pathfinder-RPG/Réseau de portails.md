@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Réseau de portails
+Title: Réseau de portails
+LastModified: 2024-06-17 18:35
+---
+
+<div class="BD">
+{s:BDTitre|Réseau de portails|{s:AO}}
+**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 32 tonnes
+(((Description)))
+Des runes sont gravées sur cet immense anneau de fer. Au sein du réseau, chaque portail est lié à au moins un autre portail et transporte instantanément une créature qui le traverse vers l’autre, n’importe où sur le même plan ou vers un autre plan. Des créatures de taille G ou plus petites peuvent traverser les portails d’un réseau. Les créatures de taille TG ne sont pas transportées, même si elles parviennent à se faufiler à travers l’anneau. Si le portail de destination est obstrué par un objet inamovible, le réseau ne fonctionne plus.
+
+On différencie les diverses destinations des réseaux qui rassemblent plus de deux portails grâce à des focalisateurs sélectionnés par les créateurs des portails. Parmi les focalisateurs les plus courants, on trouve des gemmes, des objets magiques mineurs et des runes gravées avec soin. Certains portails ne fonctionnent pas si on les traverse sans posséder le focalisateur adéquat, tandis que d’autres transportent les créatures qui les traversent vers une destination par défaut. Les créatures peuvent partager la possession d’un focalisateur en restant en contact les unes avec les autres au moment de franchir le portail. Les portails liés à plusieurs focalisateurs respectent une priorité prédéfinie (et établie à la création du réseau de portails) qui détermine quels focalisateurs sont prioritaires par rapport aux autres.
+
+Les réseaux de portails fonctionnent indéfiniment. Une fois un portail activé, une insondable obscurité emplit l’espace à l’intérieur de l’anneau pendant un round après le passage de la dernière créature. Une créature ne ressort pas par l’autre portail tant qu’elle n’a pas complètement traversé le premier. Elle ne peut donc pas voir le portail d’arrivée et la zone de destination tant qu’elle n’a pas complètement franchi le seuil du portail de départ.
+
+Si un réseau de portails nécessite la possession d’un focalisateur, seules les créatures en possession de cet objet ou en contact physique avec ceux qui le possèdent peuvent traverser un portail, même si celui-ci est déjà activé. Obstruer un portail (en construisant un mur contre son ouverture, par exemple) empêche quiconque de le traverser, mais ce n’est pas le cas d’une créature qui se tient sur le seuil d’un portail ; une créature qui bloque le passage d’un portail est poussée sur le côté quand une créature le traverse.
+(((Destruction)))
+La destruction complète d’un réseau de portails nécessite le lancement d’une [sphère d’annihilation](./Sphère dannihilation.md) à travers l’un de ses portails. Ce lancement détruit la sphère (comme indiqué dans les conditions de destruction d’une [sphère d’annihilation](./Sphère dannihilation.md)), sauf qu’une déchirure se produit toujours dans la trame de l’espace.
+</div>

@@ -1,0 +1,19 @@
+---
+Name: Pathfinder-RPG.armure dinsultes
+Title: Armure d'insultes
+LastModified: 2024-05-24 22:30
+Categories:
+- Objet mag armure
+- Règle officielle
+- Src Manuel des joueurs - Règles avancées
+---
+
+<div class="BD">
+{s:BDTitre|Armure d'insultes|{s:AE}}
+**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 7 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 16 175 po ; **Poids** 10 kg
+(((Description)))
+Chaque morceau de métal de cette *armure de cuir cloutée +1* ressemble plus à un visage méprisant qu'à un simple clou. Une fois par jour, le propriétaire de l'armure peut ordonner aux bouches de déverser un torrent d'insultes contre toutes les créatures hostiles qui se trouvent à moins de 18m et sont capables de voir et d'entendre le porteur de l'armure. Toutes ces créatures doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 16 ou souffrir d'une irrésistible envie d'attaquer le porteur pendant les 7 rounds qui suivent. Si, une fois son tour venu, la créature ne peut pas attaquer le porteur de l'armure ou si cela la met en danger (si elle doit traverser une case menacée, charger dans une fosse etc.) elle peut agir normalement.
+C'est un effet mental sonore qui n'a aucun effet sur les créatures qui n'utilisent pas de langage oral.
+(((Création)))
+**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[confusion](./Confusion.md)* ; **Coût** 7 675 po
+</div>

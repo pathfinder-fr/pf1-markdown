@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Baignoire pliante (objet)
+Title: Baignoire pliante
+LastModified: 2021-09-16 19:46
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 15 po ; **Poids** 10 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Après 10 minutes d'assemblage, cet ensemble de lattes en bois forme un support pour une toile en tissu cylindrique étanche. Il peut accueillir suffisamment d'eau pour qu'une créature de taille M puisse s'y baigner confortablement sans les risques liés aux baignades dans les lacs, les rivières ou autres étendues d'eau.

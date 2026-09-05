@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Pilule à accent
+Title: Pilule à accent
+LastModified: 2024-06-07 16:43
+Categories:
+- Objet mag
+- Objet mag merveilleux
+- Src Ultimate Intrigue
+---
+
+<div class="BD">
+{s:BDTitre|Pilule à accent|{s:UI}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 300 po ; **Poids** —
+(((Description)))
+{s:cs}Cette petite pilule blanche a la consistance d'une amande durcie. Lorsqu'elle est consommée telle quelle, une *pilule à accent* n'a aucun effet sur la créature qui l'ingère. Pour fonctionner, la pilule doit d'abord être imbibée du sang ou de la salive d'une créature vivante. Une fois imbibée, la pilule passe du blanc au brun terne. La consommation d'une pilule imbibée confère à la créature qui la consomme le ton exact et les manières verbales de la créature dont le sang ou la salive a été utilisé pour imbiber la pilule. Dans le cadre d'un déguisement, elle confère à l'utilisateur un bonus de +15 aux tests de [Déguisement](./Déguisement.md) pour faire croire à un auditeur qu'il est la créature dont le sang ou la salive a maculé la pilule ; comme avec *[altération vocale](./Altération vocale.md)*, ce bonus ne s'applique qu'à une personne qui entend la voix sans voir l'utilisateur. Cet effet dure 24 heures.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[altération vocale](./Altération vocale.md)*, le créateur doit avoir 5 rangs en [Artisanat](./Artisanat.md) (alchimie) ; **Coût** 150 po
+</div>

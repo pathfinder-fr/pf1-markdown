@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Panier (objet)
+Title: Panier
+LastModified: 2021-09-16 22:01
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 4 pa ; **Poids** 0,5 kg
+<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+---
+Ce grand panier est doté d'un couvercle et a une contenance d'environ 60 litres.

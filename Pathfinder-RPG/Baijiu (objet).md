@@ -1,0 +1,13 @@
+---
+Name: Pathfinder-RPG.Baijiu (objet)
+Title: Baijiu (la bouteille)
+LastModified: 2021-09-22 17:02
+Categories:
+- Équipement
+- Src Armes et équipement
+---
+
+{s:AE}**Prix** 10 po ; **Poids** 1 kg
+<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+---
+Cet alcool clair, distillé à partir du sorgo, est extrêmement fort. Les gens finissent souvent par l’apprécier à la longue et non de suite car il a une saveur corrosive.

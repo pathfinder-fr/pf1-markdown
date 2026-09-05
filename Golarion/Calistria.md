@@ -1,0 +1,42 @@
+---
+Name: Golarion.Calistria
+Title: Calistria
+LastModified: 2020-06-30 14:40
+Categories:
+- Religion
+---
+
+{s:Dieu|Calistria|%2fPCUP%2fReligion-PNG%2fCalistria.png|La Savoureuse Piqûre|CN|Luxure, Tromperie, Vengeance|Elfes, Prostituées|Fouet|Chance, Chaos, Charme, Connaissance, Duperie|Azatas, Malédiction, Supercherie, Luxure, Mémoire, Voleurs|Conversion, Ferveur, Hérésie, Torture}Calistria est une déesse aux mille visages et qui a de multiples desseins, notamment la luxure et la vengeance. Les elfes la tiennent en grand respect car pour eux elle incarne les us et coutumes de leur race.
+
+### Histoire
+
+Calistria n'est pas simplement vengeresse, mais surtout très rancunière quand on lui a causé du tort. Elle va prendre tout son temps pour améliorer ses chances de succès, et savourer ainsi sa vengeance. Ses manœuvres pour atteindre son but ont été bien répertoriées mais diverses sources contradictoires font qu'on a du mal à discerner la vérité historique du fantasme.
+
+
+### Apparence
+
+Elle est représentée comme une elfe d'une très grande beauté, ayant une silhouette élancée et vêtue de tenues provocantes. Elle est souvent dépeinte accompagnée de guêpes géantes.
+
+
+### Émissaires
+
+Calistria tient en haute estime les guêpes de toute sorte. Tous ceux qui déplaisent à la déesse peuvent se voir assaillir par des essaims de ces insectes. Ceux qu'elle apprécie seront dorlotés dans ses salons de massage. Son héraut, Menotherian, est une guêpe noire de la taille d'un ours mais peut aussi se transformer en une elfe d'une grande beauté. Elle est l'incarnation des trois aspects de la déesse : luxure, vengeance et tromperie.
+
+### Doctrine
+
+Les suivants de sa religion ont des activités variées : prostituées, espions... Mais toujours ils ont à cœur de suivre les machinations de leur déesse. Ils font commerce de connaissance ou de leur corps pour atteindre leur but ultime : la vengeance de torts passés. Cela les amène souvent à voyager dans le monde entier.
+
+### Temples
+
+Cette religion se retrouve un peu partout mais elle est bien implantée à [Absalom](./Absalom.md), [Galt](./Galt.md), [Kyonin](./Kyonin.md), [Nex](./Nex.md), les [Royaumes Fluviaux](./Royaumes fluviaux.md), les [Entraves](./Entraves.md), [Taldor](./Taldor.md), et la [Varisie](./Varisie.md). Dans les royaumes humains, les temples abritent des prostituées sacrées et agissent comme un centre de rassemblement d'informations. Dans les terres elfiques, les temples ressemblent plus à des guildes de voleurs.
+
+### Textes sacrés
+
+Le livre du plaisir : Ce livre détaille les différentes passions sacralisées par la déesse sous l'aspect du feu inextinguible.
+
+{s:VoirAussiAvant}
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
+- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
+- Enfin, le [cinquième volume](./../Aventures/Présentation AP3.md#AP3-5) de la troisième campagne, [Le Retour des Ténèbres](./../Aventures/Présentation AP3.md), contient un article qui détaille ce dieu.
+{s:VoirAussiAprès}

@@ -1,0 +1,46 @@
+---
+Name: Pathfinder-RPG.lignage aquatique
+Title: Lignage Aquatique
+LastModified: 2024-09-28 16:09
+Categories:
+- Lignage
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:MenuLignages}{s:APG}*L’héritage familial de l’ensorceleur trouve son origine dans les profondeurs des océans. Il descend peut-être d’un empire qui a quitté les fonds marins à l’arrivée de tribus de nomades aquatiques ou encore de créatures ichthyiques dont les rejetons se sont infiltrés dans des villages isolés du bord de mer. Le chant de la mer murmure dans les veines de l’ensorceleur et place sous son contrôle les vagues et toutes les créatures qui y résident.*
+
+**Compétence de classe.** [Natation](./Natation.md).
+
+{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#25) Ensorceleur, Lignage aquatique : Le lignage d'ensorceleur aquatique (page 92) est-il censé obtenir *geyser* comme sort bonus au niveau d'ensorceleur 9, bien que ce soit normalement un sort de 5e niveau d'ensorceleur/magicien indisponible aux ensorceleurs avant le niveau 10 ?***
+
+Oui, et l'ensorceleur l'apprend comme un sort de 4e niveau. Notez que *[geyser](./Geyser.md)* est également un sort de druide de 4e niveau (accessible aux personnages de niveau 7), donc le fait que l'[ensorceleur](./Ensorceleur.md) <u>[aquatique](./lignage aquatique.md)</u> l'obtienne au niveau 9 comme un sort profane de 4e niveau n'est pas si puissant.}**Sorts supplémentaires.** *[Poussée hydraulique](./Poussée hydraulique.md)* (niveau 3), *[vague](./Vague.md)* (niveau 5), *[orbe aqueux](./Orbe aqueux.md)* (niveau 7), *[geyser](./Geyser.md)* (niveau 9), *[contrôle de l’eau](./Contrôle de leau.md)* (niveau 11), *[forme bestiale IV](./Forme bestiale IV.md)* (niveau 13), *[convocation de monstres VII](./Convocation de monstres VII.md)* (niveau 15), *[manteau marin](./Manteau marin.md)* (niveau 17), *[vague mondiale](./Vague mondiale.md)* (niveau 19).
+
+**Dons supplémentaires.** [Athlétisme](./Athlétisme.md), [Esquive](./Esquive.md), [Incantation silencieuse](./Incantation silencieuse.md), [Maîtrise du combat défensif](./Maîtrise du combat défensif.md), [Préparation de potions](./Préparation de potions.md), [Robustesse](./Robustesse.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Natation](./Natation.md)).
+
+**Arcanes de lignage.** Chaque fois que l’[ensorceleur](./Ensorceleur.md) lance un sort du [registre de l’Eau](./Registre.md), son [NLS](./NLS.md) effectif est augmenté de 1 et les créatures convoquées qui possèdent une vitesse de nage ou appartiennent au sous-type aquatique ou Eau gagnent un bonus de moral de +1 aux jets d’attaque et de dégâts.
+
+### Pouvoirs de lignage
+*Les capacités magiques que la mer octroie à l’ensorceleur instillent en lui des changements à la fois mystiques et physiques lorsque ses pouvoirs se développent.*
+
+**Toucher déshydratant (Mag).** Dès le [niveau](./niveau.md) 1, l’[ensorceleur](./Ensorceleur.md) peut effectuer par une [action simple](./Action simple.md) une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) qui inflige 1d6 points de dégâts non létaux +1 par tranche de deux [niveaux](./niveau.md) d’[ensorceleur](./Ensorceleur.md) et qui rend la cible [fiévreuse](./Fiévreux.md) pendant 1 [round](./round.md). Les vases, les plantes et les créatures possédant le sous-type aquatique ou Eau subissent des dégâts létaux au lieu de non létaux. L’[ensorceleur](./Ensorceleur.md) peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Charisme](./Charisme.md).
+
+**Adaptation aquatique (Ext).** Au [niveau](./niveau.md) 3, l’[ensorceleur](./Ensorceleur.md) gagne une vitesse de nage de 9 m (6 {s:c}). Au [niveau](./niveau.md) 9, il gagne la particularité [Amphibie](./Amphibie (capacité).md) et développe une couche de graisse qui lui accorde un bonus d’armure naturelle de +1 et une résistance au froid de 5 points. Lorsqu’il est plongé dans l’eau, il gagne la capacité de [perception aveugle](./Perception aveugle (capacité).md) à 9 m (6 {s:c}). Au [niveau](./niveau.md) 15, il gagne une vitesse de nage de 18 m (12 {s:c}) et la capacité de [vision aveugle](./Vision aveugle (capacité).md) à 18 m (12 {s:c}) dans l’eau.
+
+**Télépathie aquatique (Sur).** Au [niveau](./niveau.md) 9, l’[ensorceleur](./Ensorceleur.md) acquiert la capacité de [télépathie](./Télépathie (capacité).md) (30 m (20 {s:c})) et peut communiquer avec toutes les créatures qui possèdent une vitesse de nage ou appartiennent au sous-type aquatique ou Eau, quelle que soit leur [Intelligence](./Intelligence.md). Il peut lancer *[suggestion](./Suggestion.md)* sur ces mêmes créatures un nombre de fois par jour égal à son modificateur de [Charisme](./Charisme.md). Cette capacité est télépathique et ne nécessite aucune composante sonore ou visuelle. Au [niveau](./niveau.md) 15, une fois par jour, il peut lancer un appel télépathique et demander un service à une créature dotée d’une vitesse de nage ou appartenant au sous-type aquatique ou Eau comme s’il utilisait *[exigence](./Exigence.md)* ou *[allié suprême d’outreplan](./Allié suprême doutreplan.md)*.
+
+**Soulèvement des profondeurs (Mag).** Au [niveau](./niveau.md) 15, l’[ensorceleur](./Ensorceleur.md) peut soulever de l’eau comme avec un sort de *[contrôle de l’eau](./Contrôle de leau.md)* sans que la présence d’eau ne soit nécessaire. L’eau ainsi créée est stationnaire et ne coule pas hors de la zone où elle est créée. Elle reste en place 1 [round](./round.md) par [niveau](./niveau.md) d’[ensorceleur](./Ensorceleur.md) puis disparaît. Au [niveau](./niveau.md) 20, les dimensions de cet effet sont doublées. L’[ensorceleur](./Ensorceleur.md) peut utiliser cette capacité une fois par jour.
+
+**Créature des profondeurs (Ext).** Au [niveau](./niveau.md) 20, l’[ensorceleur](./Ensorceleur.md) acquiert la capacité de [perception aveugle](./Perception aveugle (capacité).md) à 18 m (12 {s:c}) et son corps se recouvre de petites écailles glissantes qui lui donnent une [RD](./RD.md) 10/perforant, une [résistance au froid](./Résistance (capacité).md) de 20 points et un effet continu de *[liberté de mouvement](./Liberté de mouvement.md)*. Sous l’eau, il bénéficie des capacités d’[esquive instinctive](./esquive instinctive.md) et de [vision aveugle](./Vision aveugle (capacité).md) à 36 m (24 {s:c}) et il est [immunisé](./Immunité (capacité).md) contre les dégâts dus à la pression en eaux profondes.
+
+{s:um}
+## Lignage sauvage Né de la mer
+*Les pouvoirs du personnage vont et viennent, comme la marée.*
+
+Certains ensorceleurs de [sang sauvage](./Sang sauvage (ensorceleur).md) possèdent des mutations qui leur donnent des pouvoirs alternatifs qui remplacent, aux niveaux donnés, ceux du lignage originel.
+
+**Arcane de lignage.** Quand l’ensorceleur se trouve dans un plan d’eau assez grand pour qu’il y flotte, son [niveau de lanceur de sorts](./NLS.md) effectif augmente de 1.
+
+### Pouvoirs de lignage
+Le personnage préfère utiliser l’eau pour attaquer plutôt que de l’absorber.
+
+**Explosion aqueuse (Mag).** Par une [action simple](./Action simple.md), le personnage peut lancer un trait d’eau sur un ennemi distant de 9 mètres (6 {s:c}), comme une [attaque de contact à distance](./attaque de contact à distance.md). L’ennemi tombe à terre et, si le personnage le désire, est repoussé à 1,50 mètre (1 {s:c}) de lui. Un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 10 + 1/2 [niveau](./niveau.md) d’[ensorceleur](./Ensorceleur.md) + modificateur de [Charisme](./Charisme.md)) annule cet effet. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [Charisme](./Charisme.md). Ce pouvoir de lignage remplace toucher déshydratant.

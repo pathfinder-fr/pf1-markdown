@@ -1,0 +1,58 @@
+---
+Name: Pathfinder-RPG.Crocodile sanguinaire
+Title: Crocodile, Crocodile sanguinaire
+LastModified: 2020-09-18 04:56
+Categories:
+- Monstre
+- Src Bestiaire
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Crocodile sanguinaire|FP 9}
+{s:pucem|Animal|Marais|Tropical}
+{s:BDTexte|*Source : Bestiaire p.52*}
+{s:BDTexte|**PX** 6.400}
+{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
+{s:BDTexte|**Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 21, contact 6, pris au dépourvu 21 (naturelle +15, taille -4)}
+{s:BDTexte|**pv** 138 (12d8+84)}
+{s:BDTexte|**Réf** +8, **Vig** +15, **Vol** +8}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 6 m (4 {s:c}), nage 9 m (6 {s:c}) ; sprint}
+{s:BDTexte|**Corps à corps** morsure +18 (3d6+13/19-20 et [étreinte](./Étreinte.md)) et coup de queue +13 (4d8+6)}
+{s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
+{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (3d6+13, CA 16, 13 pv), tournoiement mortel (3d6+19 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 37, **Dex** 10, **Con** 25, **Int** 1, **Sag** 14, **Cha** 2}
+{s:BDTexte|**BBA** +9, **BMO** +26 (+30 pour la lutte), **DMD** 36 (40 contre le croc-en-jambe)}
+{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md), [Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +0 (+8 dans l'eau), [Natation](./Natation.md) +21, [Perception](./Perception.md) +14 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 dans l'eau}
+{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** rivières et marais chauds}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
+{s:BDTexte|**Trésor** aucun}
+{s:BDSousTitre|Capacités spéciales}
+{s:BDTexte|**Retenir son souffle (Ext)** Un crocodile peut retenir son souffle pendant un nombre de rounds égal à 4 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.}
+{s:BDTexte|**Sprint (Ext)** Une fois par minute pendant 1 round, un crocodile peut accroître sa [vitesse de déplacement](./vitesse de déplacement.md) au sol jusqu'à 12 m (8 {s:c}).}
+{s:BDTexte|**Tournoiement mortel (Ext)** Lorsqu'un crocodile a [agrippé](./Agrippé.md) un ennemi de taille inférieure ou égale à la sienne, il peut effectuer un "tournoiement mortel" en réussissant un test de [lutte](./lutte.md). Tout en restant attaché à sa victime, il recroqueville ses pattes puis tourne rapidement sur lui-même, agitant sa prise dans tous les sens. Le crocodile inflige des dégâts de morsure et met son adversaire [à terre](./À terre.md). En cas de réussite, il maintient sa prise.}
+</div>
+</td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
+{| CLASS="tablo autoalt"
+|+ Variantes de crocodile
+|- CLASS="titre"
+| Nom || FP
+|- CLASS="premier"
+| [Crocodile](./Crocodile.md) || 2
+|-
+| [Crocodile sanguinaire](./Crocodile sanguinaire.md) || 9
+|}
+</div>*Ce mastodonte reptilien, un crocodile de taille monstrueuse, semble assez grand pour avaler un cheval d’une seule bouchée.*
+
+L’immense sarcosuchus ou crocodile sanguinaire est un prédateur
+énorme capable d’attraper et d’avaler des proies aussi imposantes
+que certains des plus
+grands dinosaures.
+</div></td></tr></table>

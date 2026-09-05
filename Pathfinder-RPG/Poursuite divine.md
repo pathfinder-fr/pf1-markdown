@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Poursuite divine
+Title: Poursuite divine
+LastModified: 2022-06-21 20:17
+Categories:
+- Règle officielle
+- Sort
+- Sort inquisiteur 5
+- Src Art de la magie
+---
+
+{s:UM}
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Inq](./Inquisiteur.md) 5  
+
+**Temps d’incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** [personnelle](./personnelle.md)  
+
+**Cible** lanceur de sorts  
+
+**Durée** 1 minute/[niveau](./niveau.md), voir texte
+
+Le personnage choisit une créature qu’il a blessée et qui se trouve dans les 18 mètres. Si elle a une vitesse de creusement, d’escalade, de nage ou de vol, il en bénéficie pendant la durée du sort, à la même vitesse et avec la même manœuvrabilité que la créature choisie. Si le personnage acquiert ainsi une vitesse de creusement ou de nage, il peut respirer sous terre ou sous l’eau. Si la créature s’éloigne de plus de 300 mètres du personnage, le sort se termine. Si celle-ci possède plusieurs types de mouvement, le personnage en choisit un.
+
+### Mythique
+{s:CMy}
+La vitesse de déplacement du type conféré par le sort s’élève à 9 mètres. Cet ajustement est considéré comme un bonus d’altération. Le personnage gagne un bonus aux tests de [Perception](./Perception.md) et de [Survie](./Survie.md) effectués envers la créature sélectionnée. C’est un bonus de sainteté si le personnage est Bon et un bonus de malfaisance si le personnage est Mauvais ; s’il est Neutre, choisissez l’un ou l’autre.

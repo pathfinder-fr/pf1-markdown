@@ -1,0 +1,31 @@
+---
+Name: Pathfinder-RPG.Prestidigitation
+Title: Prestidigitation
+LastModified: 2022-06-21 20:23
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 0
+- Sort hypnotiseur 0
+- Sort magicien 0
+- Sort magus 0
+- Sort médium 0
+- Sort psychiste 0
+- Src Manuel des joueurs
+---
+
+**École** Universel ; **Niveau** [Bard](./Barde.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Psy](./Psychiste.md) 0  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G](./composantes.md)  
+
+**Portée** 3 m  
+
+**Cible, effet ou zone d’effet** voir description  
+
+**Durée** 1 heure  
+
+**Jet de sauvegarde** voir description ; **Résistance à la magie** non
+
+Ce terme regroupe toute une série de tours de magie mineurs que les novices lancent pour s’entraîner. Une fois l’incantation achevée, ces sorts permettent de générer des effets magiques très simples et très limités pendant une heure. Par exemple, le personnage peut, une fois par [round](./round.md), soulever très lentement un objet ne pesant pas plus de cinq cents grammes, colorier, nettoyer ou salir un objet ne faisant pas plus de trente centimètres de côté, mais aussi chauffer, refroidir ou donner du goût à cinq cents grammes de matière inerte. Ces tours sont trop anodins pour blesser qui que ce soit, ou même pour troubler la [concentration](./concentration.md) d’un autre jeteur de sorts. Ils permettent aussi de créer de petits objets mais ceux-ci ont toujours l’air grossiers et artificiels. Les objets créés par *prestidigitation* sont trop fragiles pour servir d’armes, d’outils ou de [composantes matérielles](./composante matérielle.md) pour d’autres sorts. Enfin, ces tours mineurs ne sont pas assez puissants pour reproduire les effets d’autres sorts. Tout changement d’état qu’ils apportent (mis à part le fait de déplacer un objet, de le salir ou de le nettoyer) dure une heure tout au plus.

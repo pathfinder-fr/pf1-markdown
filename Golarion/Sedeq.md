@@ -1,0 +1,11 @@
+---
+Name: Golarion.Sedeq
+Title: Sedeq
+LastModified: 2010-01-05 19:38
+Categories:
+- Géographie
+- Qadira
+- Ville
+---
+
+Ville du Sud du [Qadira](./Qadira.md), Sedeq compte environ 90 000 habitants. La moitié d'entre eux sont des esclaves entraînés à servir les nobles Qadirans et étrangers qui viennent dans la ville pour profiter de son luxe et de son calme. La ville a été conçue dès son origine comme site de villégiature pour les riches Qadirans qui souhaitent fuir la chaleur et le stress de [Katheer](./Katheer.md).

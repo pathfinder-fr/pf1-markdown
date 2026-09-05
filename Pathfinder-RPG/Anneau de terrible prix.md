@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Anneau de terrible prix
+Title: Anneau de terrible prix
+LastModified: 2024-05-25 17:49
+Categories:
+- Objet mag
+- Objet mag anneau
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+<div class="BD">
+{s:BDTitre|Anneau de terrible prix|{s:RSE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 20 000 po ; **Poids** —
+(((Description)))
+{s:cs}*Ces anneaux présentaient autrefois le visage souriant de l'ancien roi de l'Empire devenu diabolique et ont été forgés en nombre limité pour célébrer la fin de son règne. Après la mort du dernier des Premiers hommes, les anneaux ont été abandonnés ou perdus. Récemment, plusieurs d’entre eux ont refait surface mais ils ont été modifiés par des moyens inconnus. Le visage du roi arbore désormais une expression douloureuse et des flammes menaçantes apparaissent derrière lui.*
+
+Par une [action simple](./Action simple.md), le personnage peut charger l’anneau d’un bonus de malfaisance de +1 en sacrifiant deux de ses [points de vie](./pv.md). Ces points de vie sont perdus et ne peuvent pas être restaurés par quelque moyen que ce soit tant que le pouvoir de l’anneau n’a pas été dépensé. Le personnage peut faire cela plusieurs fois pour stocker un bonus de malfaisance maximum de +5.
+
+Par une [action immédiate](./Action immédiate.md), il peut ajouter le bonus de malfaisance stocké à n’importe quel [jet d’attaque](./jet dattaque.md), [jet de dégâts](./Valeurs de combat.md#DEGATS), [test de compétence](./Compétences.md) ou [jet de sauvegarde](./JDS.md), ce qui décharge l’énergie de l’anneau. Il doit annoncer qu’il utilise l’anneau après avoir lancé les dés mais avant de connaître le résultat du jet. Il doit dépenser tout le pouvoir de l’anneau en une seule fois. Une fois que la charge a été dépensée, le personnage peut soigner ses [points de vie](./pv.md) perdus normalement. L’anneau ne s’abîme pas quand il se décharge et le personnage peut à nouveau le recharger en sacrifiant d’autres points de vie.
+
+La charge de l’anneau peut venir de différents donneurs mais aucun d’eux ne peut regagner ses [points de vie](./pv.md) sacrifiés tant que la charge n’a pas été dépensée ou que l’anneau n’a pas été détruit, c’est pourquoi les propriétaires d’un *anneau de terrible prix* conservent jalousement leur bien.
+(((Création)))
+**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[aide](./Aide.md)*, *[baiser du vampire](./Baiser du vampire.md)*, *[résistance](./sort Résistance.md)* ; **Coût** 10 000 po
+</div>

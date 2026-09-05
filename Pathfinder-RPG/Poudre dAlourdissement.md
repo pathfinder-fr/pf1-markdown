@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Poudre dAlourdissement
+Title: Poudre d’alourdissement
+LastModified: 2024-06-14 02:58
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Poudre d’alourdissement|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3.600 po ; **Poids** 1,5 kg
+(((Description)))
+Également appelé extrait magnétique, cette poudre grise à gros grains est stockée dans un fragile flacon en céramique gravé de runes en terreux. Un flacon nouvellement crée contient suffisamment de poudre pour 10 applications parcimonieuses. On peut aussi lancer le flacon entier comme une arme d’aspersion avec un facteur de portée de 3 mètres. Lorsque la poudre est appliquée sur un objet, son poids augmente de 50 kg. Les effets produits par plusieurs applications se cumulent et perdurent tant que les particules métalliques n’ont pas été retirées de l’objet (ce qui nécessite une [action complexe](./Action complexe.md) par application) ou tant que celui-ci n’a pas subit 5 points de dégâts d’électricité par application. Une créature qui est la cible directe d’un flacon lancé doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) 10 + 1 par application restante dans le flacon), sinon, la charge qu’elle transporte devient lourde et il est incapable de voler pendant 2d4 [rounds](./round.md). Les cibles situées dans la zone d’aspersion doivent réussir le même [jet de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE), sinon, leur charge devient intermédiaire pendant 2d4 [rounds](./round.md). Le nettoyage ou les dégâts d’électricité neutralisent les effets de la poudre ainsi lancée, comme décrit plus haut.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[lenteur](./Lenteur.md)*, *[façonnage de la pierre](./Façonnage de la pierre.md)* ; **Coût** 1.800 po
+</div>

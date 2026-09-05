@@ -1,0 +1,25 @@
+---
+Name: Pathfinder-RPG.Armée de Khain
+Title: Armée du Roi goule
+LastModified: 2024-06-20 17:17
+Categories:
+- Sort
+- Sort magicien 5
+- Sort prêtre 5
+- Sort sorcière 5
+- Src Magie de la mer Intérieure
+---
+
+{s:MMI}**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Sor](./Sorcière.md) 5
+**Temps d'incantation** 1 [action simple](./Action simple.md)
+**Composantes** [V, G, M/FD](./composantes.md) (une poignée de dents de goule)
+**Portée** 1,50 m
+**Effet** 1d4+1 goules et 1 blême
+**Durée** 1 round/niveau
+**Jet de sauvegarde** [Vigueur](./Vigueur.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** non
+
+*Créé à l’origine par le Prêtre-roi goule du seigneur démon des cannibales, pour que ses séides puissent renforcer leurs troupes lors des combats contre leurs ennemis, l’armée du Roi goule est devenue un sort apprécié de nombreux nécromanciens dans toute la Terre des pharaons et au-delà.*
+
+En éparpillant une poignée de dents de goule sur le sol, le personnage provoque autour de lui la levée hors du sol de 1d4+1 [goules](./Goule.md) menées par un [blême](./Blême.md). Les goules et leur chef blême doivent apparaître dans des cases adjacentes au personnage et suivent ensuite de manière infaillible ses ordres prononcés à voix haute.
+
+Si l’une des goules est détruite avant la fin de la durée du sort, elle explose en une gerbe de chair pourrie et d’énergie nécromantique qui inflige 1d6 points de dégâts d’énergie négative à toutes les cibles adjacentes. Comme à l’accoutumée, ces dégâts d’énergie négative soignent à la place les morts-vivants touchés. Si le blême est détruit de cette façon, il inflige le double des dégâts d’énergie négative infligés par une goule. La réussite d’un jet de [Vigueur](./Vigueur.md) diminue de moitié les dégâts d’énergie négative infligés. À la fin de la durée de ce sort, les morts-vivants restants tombent en poussière et disparaissent brusquement, sans infliger de dégâts d’énergie négative supplémentaires.

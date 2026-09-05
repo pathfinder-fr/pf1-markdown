@@ -1,0 +1,43 @@
+---
+Name: Pathfinder-RPG.Talisman instrumental
+Title: Talisman instrumental
+LastModified: 2025-04-05 20:18
+Categories:
+- Sort
+- Sort occultiste 3
+- Src Aventures occultes
+---
+
+{s:AO}**École** [Évocation](./Évocation.md) ; **Niveau** [Occ](./Occultiste.md) 3
+**Temps d’incantation** 10 minutes
+**Composantes** [V](./composantes.md)
+**Portée** [personnelle](./personnelle.md)
+**Cible** le lanceur de sorts
+**Durée** 1 h/niveau (T) ou jusqu’à déchargement
+---
+Ce sort fonctionne comme *[prévoyance](./Prévoyance.md)* mais le personnage intègre un sort dont le niveau ne dépasse pas un quart du sien (arrondi à l’inférieur, sort de niveau 3 au maximum) dans un instrument comportant au moins 2 points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE). L’école du sort doit correspondre à celle de l’instrument et le sort doit affecter uniquement le personnage. Le talisman instrumental réduit de points 2 la focalisation mentale investie dans l’instrument choisi, y compris quand il s’agit de déterminer ses pouvoirs de résonance. Quand le personnage rafraîchit ses points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE), ce sort se dissipe automatiquement, même si sa durée n’a pas expiré. Contrairement à *[prévoyance](./Prévoyance.md)*, le personnage peut avoir plusieurs talismans instrumentaux actifs à la fois mais un même instrument ne peut contenir qu’un seul sort de ce type. De plus, si le personnage a un talisman instrumental actif ou plus, il ne peut pas utiliser un effet de contingence.
+
+
+
+(((
+## Prévoyance
+**École** [Évocation](./Évocation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 6
+**Temps d'incantation** au moins 10 minutes (voir description)
+**Composantes** [V, G, M](./composantes.md) (vif-argent et un cil venant d’une créature capable de lancer des sorts)[, F](./composantes.md) (statuette d’ivoire représentant le lanceur de sorts (1 500 po))
+**Portée** [personnelle](./personnelle.md)
+**Cible** le jeteur de sorts
+**Durée** 1 jour/[niveau](./niveau.md) (T) ou jusqu’à utilisation
+---
+Ce sort permet d’en lancer un autre, qui prend effet au moment où la condition déterminée lors de l’incantation de *prévoyance* se réalise. Les deux sorts sont jetés à la suite l’un de l’autre et le temps d’incantation indiqué (dix minutes) représente un minimum : si le sort associé prend plus longtemps, on utilise son temps d’incantation.
+
+Le sort déclenché à retardement par *prévoyance* doit affecter le personnage et il ne peut pas dépasser un tiers du [niveau de lanceur de sorts](./NLS.md) du personnage (arrondi à l’entier inférieur, 6e niveau maximum).
+
+Les conditions de déclenchement du sort doivent être explicites, même si elles peuvent rester d’ordre général. Dans tous les cas, le second sort prend effet à la seconde même où la condition est remplie. Si cette dernière est par trop complexe, le sort échoue. Le sort associé ne se déclenche que lorsque la condition est remplie, même si le personnage souhaite en bénéficier à un autre moment.
+
+Un personnage ne peut avoir qu’une *prévoyance* active à la fois. S’il en lance une seconde, la première se dissipe instantanément.
+
+### Version mythique
+{s:CMy}Le personnage peut lancer ce sort sur lui-même ou sur une créature consentante comme s’il avait une portée de contact. Le sort associé placé sur cette créature doit être lancé par le personnage, non par elle. Il affecte cette créature lorsqu’il se déclenche. Une créature ne peut bénéficier que d’un seul sort de prévoyance à la fois, à moins qu’elle connaisse également le sort de prévoyance mythique. Le nombre de sorts associés que le personnage peut placer sur lui-même est égal à 1 + la moitié de son [grade](./Grade.md).
+
+**[Amplifié](./Amplifié.md) (5ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le temps d’incantation change et s’étend sur un round complet plus le temps d’incantation du sort associé, mais la durée de la prévoyance mythique diminue pour devenir une heure par niveau ou jusqu’au déclenchement.
+)))

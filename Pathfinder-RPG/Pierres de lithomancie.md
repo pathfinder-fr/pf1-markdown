@@ -1,0 +1,20 @@
+---
+Name: Pathfinder-RPG.Pierres de lithomancie
+Title: Pierres de lithomancie
+LastModified: 2024-06-15 15:50
+Categories:
+- Objet mag merveilleux
+- Src Aventures occultes
+---
+
+<div class="BD">
+{s:BDTitre|Pierres de lithomancie|{s:AO}}
+**Aura** [Divination](./école divination.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 12 000 po ; **Poids** 1 kg
+(((Description)))
+Ce jeu de pierres de lithomancie rassemble quinze pierres semi précieuses de tailles et de formes diverses, chacune symbolisant un élément, une émotion et diverses présences spirituelles issues des plans extérieurs. Une fois par jour, le possesseur d’un jeu de pierres de lithomancie peut formuler une question dans sa tête, lancer les pierres sur le sol et tenter une lecture à l’aide d’un test de [Connaissances](./Connaissances.md) (plans) pour obtenir une réponse. Le test prend une minute et le DD dépend de la période de temps qui sépare la question de la réponse. Le DD d’une question qui porte sur les 30 prochaines minutes s’élève à 20. Une question qui porte sur le lendemain s’élève à 30 et une question qui porte sur la semaine suivante s’élève à 40. Le MJ effectue le test en secret. Si l’utilisateur des pierres rate le test de 5 points ou plus, il effectue une lecture erronée ou trompeuse. S’il rate le test de moins de 5 points, il n’obtient aucun résultat. Un test réussi révèle des informations similaires à celles obtenues grâce à la réussite d’un *[augure](./Augure.md)* (pour une lecture à propos des 30 prochaines minutes) ou d’une *[divination](./Divination.md)* (pour une lecture plus éloignée dans le temps). C’est la position des pierres les unes par rapport aux autres qui permet au lithomancien d’obtenir la réponse.  
+
+En plus de cette fonction, les pierres de lithomancie peuvent être utilisées comme focalisateur supplémentaire lors de l’incantation d’un *[augure](./Augure.md)*, d’une *[divination](./Divination.md)* ou de sorts similaires, afin d’augmenter de 10 % (jusqu’à un maximum de 90 %) les chances d’obtenir des informations correctes.
+(((Création)))
+**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[divination](./Divination.md)*, le créateur doit posséder
+5 rangs au moins en Connaissances (plans) ; **Coût** 6 000 po
+</div>

@@ -1,0 +1,9 @@
+---
+Name: Pathfinder-RPG.Nauséeux
+Title: Nauséeux
+LastModified: 2025-03-31 16:54
+Categories:
+- Redirection
+---
+
+>>> États préjudiciables#Nauséeux

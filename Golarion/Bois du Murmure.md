@@ -1,0 +1,12 @@
+---
+Name: Golarion.Bois du Murmure
+Title: Bois du Murmure [Whisper Wood]
+LastModified: 2010-01-13 21:49
+Categories:
+- Chéliax
+- Géographie
+---
+
+Le Bois du Murmure tire son nom de la rivière qui circule en son sein. On y trouve aussi la ville de [Senara](./Senara.md).
+
+Cette forêt du centre-est du [Chéliax](./Chéliax.md) ne semble pas aussi douce que son nom pourrait le laisser entendre. On dit qu'une porte menant directement aux enfers y serait présente et constamment ouverte, ouvrant ainsi l'accès aux cohortes de diables et de démons qui circulent dans le pays.

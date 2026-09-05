@@ -1,0 +1,50 @@
+---
+Name: Pathfinder-RPG.Troll de pierre
+Title: Troll de pierre
+LastModified: 2013-02-06 19:53
+Categories:
+- Bestiaire 2
+- Monstre
+- Règles officielles
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Troll de pierre|FP 6}
+{s:pucem|Humanoïde|Souterrain|Tempéré}
+{s:BDTexte|*Source : Bestiaire 2* p.277}
+{s:BDTexte|**PX** 2 400}
+{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md), [Terre](./sous-type Terre.md)) de taille G, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDSousTitre|Défense}
+{s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille –1)}
+{s:BDTexte|**pv** 80 (7d8+49) ; [régénération](./Régénération.md) 5 (acide ou son)}
+{s:BDTexte|**Réf** +3, **Vig** +12, **Vol** +3}
+{s:BDTexte|**Faiblesses** pétrification sous la lumière du soleil}
+{s:BDSousTitre|Attaque}
+{s:BDTexte|**VD** 9 m (6 {s:c})}
+{s:BDTexte|**Corps à corps** morsure, +11 (1d8+7) et 2 griffes, +12 (1d6+7)}
+{s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
+{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes, 1d6+9)}
+{s:BDSousTitre|Caractéristiques}
+{s:BDTexte|**For** 25, **Dex** 12, **Con** 24, **Int** 5, **Sag** 9, **Cha** 6}
+{s:BDTexte|**BBA** +5 ; **BMO** +13 ; **DMD** 24}
+{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Force intimidante](./Force intimidante.md), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +6}
+{s:BDTexte|**Langues** géant}
+{s:BDSousTitre|Écologie}
+{s:BDTexte|**Environnement** sous terre}
+{s:BDTexte|**Organisation sociale** solitaire ou bande (2–5)}
+{s:BDTexte|**Trésor** standard}
+{s:BDSousTitre|Pouvoirs spéciaux}
+{s:BDTexte|**pétrification sous la lumière du soleil (Ext).** Un troll de pierre exposé à la lumière naturelle du soleil devient [chancelant](./Chancelant.md) et doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 20 chaque [round](./round.md) pour ne pas être [pétrifié](./Pétrifié.md) de manière permanente. Un sort de *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* (ou un effet similaire) peut ramener un troll [pétrifié](./Pétrifié.md) à son état normal, mais s’il reste exposé à la lumière du soleil, il doit immédiatement continuer à faire des [jets de sauvegarde](./JDS.md) pour ne pas être [pétrifié](./Pétrifié.md) à nouveau. Les sorts qui produisent une lumière solaire puissante tels que *[explosion de lumière](./Explosion de lumière.md)* ou *[rayon de soleil](./Rayon de soleil.md)* ne peuvent pas [pétrifier](./Pétrifié.md) un troll de pierre bien que le troll soit tout de même [chancelant](./Chancelant.md) pendant 1d4 [rounds](./round.md) après avoir été exposé à un tel effet.}
+</div>
+</td><td><div>
+*Cette créature corpulente a des yeux perçants et une peau de pierre incrustée de petits cristaux. Sa mâchoire inférieure est décorée de grandes dents cristallines.*
+
+
+Les trolls de pierre sont des cousins des trolls normaux et des trolls des glaces qui s’établissent loin en-dessous de la surface, dans des grottes souterraines. Ils ne sortent que très rarement de leurs repaires enfouis car ils possèdent un point faible qui n’a pas d’équivalent au sein des autres espèces de trolls  : la lumière du soleil les transforme en statues de pierre. Les trolls de pierre ont une peau ressemblant à de la roche, incrustée de cristaux, mais à part cela, ils possèdent les caractéristiques typiques des trolls : une posture voûtée, de longs bras, une mâchoire inférieure beaucoup plus avancée que la mâchoire supérieure et de puissantes capacités de régénération. Vu la nature cristalline de leur peau, les trolls de pierre sont beaucoup plus susceptibles aux dégâts de son que les autres trolls. En contrepartie, ils sont capables de régénérer les blessures causées par le feu. Les trolls de pierre sont plus grands et plus forts que les trolls normaux. Ils mesurent généralement entre 4,50 mètres et 4,80 mètres et pèsent au moins 600 kg.
+
+Les trolls de pierre aiment la chair d’humanoïde mais dévorent n’importe quel type de nourriture qu’ils parviennent à attraper. La plupart des créatures souterraines font tout leur possible pour éviter les trolls de pierre car ces créatures voraces dévorent tout ce qui est plus ou moins comestible et qui passe sur leur territoire. Les trolls de pierre se nourrissent aussi parfois de pierres et de minerais mais ces mets ne semblent pas vraiment apaiser leur énorme appétit. Il s’agit plutôt de compléments alimentaires qui viennent s’ajouter à leur diète normale et qui leur permettent de renforcer leur peau, leurs dents et leurs griffes. Les trolls de pierre semblent apprécier particulièrement le goût de certaines
+formations de cristal. Lorsqu’un troll en découvre une, il se jette généralement sur elle et dévore goulûment ces délices cristallins.
+</div></td></tr></table>

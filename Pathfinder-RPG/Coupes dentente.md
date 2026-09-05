@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Coupes dentente
+Title: Coupes d'entente
+LastModified: 2024-06-15 15:09
+Categories:
+- Objet mag merveilleux
+- Src Manuel des joueurs - Classes avancées
+---
+
+<div class="BD">
+{s:BDTitre|Coupes d’entente|{s:MCA}}
+**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 8 000 po ; **Poids** 0,5 kg (la paire)
+(((Description)))
+Ces coupes en bois sont semblables à celles que l’on trouve dans de nombreuses tavernes et se présentent toujours par paire : l’une est une coupe-maître tandis que l’autre est une coupe-cible. Quand l’utilisateur de la coupe-maître partage un verre avec quelqu’un buvant dans la coupe-cible, l’utilisateur de la coupe-maître bénéficie d’un avantage surnaturel quand il tente de développer de bons rapports avec la créature buvant dans la coupe-cible. Cinq minutes après avoir partagé un verre et discuté avec l’utilisateur de la coupe-cible, l’utilisateur de la coupe-maître gagne un bonus de +5 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et de [Psychologie](./Psychologie.md) contre l’utilisateur de la coupe-cible. Les deux personnages doivent partager une boisson issue d’une même source (par exemple, deux coupes d’une même bouteille de vin, du même bol de punch ou remplies à la même source d’eau) et passer 5 minutes à discuter ensemble. Le bonus dure 1 heure ou jusqu’à ce que les deux utilisateurs s’éloignent de plus de 4,5 mètres l’un de l’autre (ce qui advient en premier). Une fois qu’une créature a utilisé la coupe-cible, cette créature ne peut plus être affectée par la même coupe-cible pendant 1 journée.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[charme-personne](./Charme-personne.md)* ; **Coût** 4 000 po
+</div>

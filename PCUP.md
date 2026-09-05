@@ -1,0 +1,30 @@
+---
+Name: PCUP
+Title: Pathfinder Community Use Policy (PCUP)
+LastModified: 2022-10-21 09:27
+---
+
+La "Licence d'utilisation de Pathfinder pour la communauté" est une licence qui permet aux fans de Pathfinder de parler du monde de Golarion (même s'il s'agit de la propriété intellectuelle de Paizo), de créer des sites web à son sujet et même de réutiliser certaines illustrations appartenant à Paizo (en gros, les illustrations du "Community Use Pack" et celles qui apparaissent sur le [blog de Paizo](http://paizo.com/paizo/blog)). C'est grâce à cette licence que les wikis [Golarion](./Golarion/MainPage.md) et [Aventures](./Aventures/MainPage.md) peuvent exister.
+
+La PCUP a été adaptée par Black Book Édition pour les éditions françaises et est disponible [sur leur site](http://www.black-book-editions.fr/index.php?site_id=175).
+
+Vous trouverez ci-dessous le texte des licences que le site s'est engagé à respecter.
+
+### Pathfinder Community Use Policy
+
+Licence complète : [http://paizo.com/communityuse](http://paizo.com/communityuse)
+
+(((This website uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content.
+
+This website is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit [http://paizo.com/communityuse](http://paizo.com/communityuse). For more information about Paizo Publishing and Paizo products, please visit [http://paizo.com](http://paizo.com/).)))
+
+(((Ce site utilise des marques déposées et/ou des copyrights appartenant à Paizo Publishing, LLC selon les règles de la Community Use Policy de Paizo. Il nous est expressément interdit de rendre payant l’utilisation ou l’accès à son contenu.
+
+Ce site n’est pas publié, supporté ni approuvé de manière spécifique par Paizo Publishing. Pour plus d’informations
+sur la Community Use Policy de Paizo, veuillez vous référer au site [http://paizo.com/communityuse](http://paizo.com/communityuse). Pour plus d’informations au sujet des produits de Paizo Publishing et de Paizo, veuillez visiter le site [http://paizo.com](http://paizo.com/).)))
+
+### Conditions d’utilisations pour les fans BBE
+
+Licence complète : [http://www.black-book-editions.fr/texte.php?id=6](http://www.black-book-editions.fr/texte.php?id=6)
+
+(((Ce site utilise des marques déposées et/ou des droits d’auteurs qui sont la propriété de Black Book Editions et de Paizo Publishing comme l’y autorisent les conditions d’utilisation de Black Book Editions. Ce site n’est pas publié par Black Book Editions ni Paizo Publishing et n’a pas reçu son aval ni une quelconque approbation de sa part. Pour de plus amples informations sur Black Book Editions, consultez [http://www.black-book-editions.fr](http://www.black-book-editions.fr/).)))

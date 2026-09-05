@@ -1,0 +1,29 @@
+---
+Name: Pathfinder-RPG.Tout se mange
+Title: Tout se mange
+LastModified: 2022-07-05 21:32
+Categories:
+- Règle officielle
+- Sort
+- Sort rôdeur 2
+- Src Manuel des joueurs - Règles avancées
+---
+
+{s:APG}
+**École** [Transmutation](./Transmutation.md) ; **Niveau** [Rôd](./Rôdeur.md) 2  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V, G, M](./composantes.md) (une pincée de sel et de poivre)  
+
+**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+
+**Cible** objet touché qui pèse jusqu'à 0,5 kg/[niveau](./niveau.md)  
+
+**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+
+**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+
+Le personnage peut transformer un objet qui pèse jusqu'à 0,5 kg par niveau de lanceur de sorts en une substance comestible que toute créature vivante peut mâcher, avaler et digérer en toute sécurité. Quelle que soit la nature originelle de cette nourriture, elle n'a pas de goût et possède une consistance légèrement caoutchouteuse. Une livre de cet aliment suffit à nourrir une créature de taille M pendant une journée.
+
+Les objets de même nature qui se trouvent très proches les uns des autres, comme une pile de rochers, comptent comme un seul objet en ce qui concerne ce sort. Le personnage ne peut pas utiliser ce sort pour transformer des objets magiques ou dotés de qualités exceptionnelles. On considère que tous les objets ont une [solidité](./solidité.md) de 0 quand il s'agit de les manger mais ils conservent leur [solidité](./solidité.md) naturelle pour le reste : ils ne deviennent pas plus vulnérables aux tentatives de destruction d'arme, de bris ou toute action typiquement dirigée contre un objet. Les objets comme du charbon ardent ou une torche enflammée continuent de produire de l'énergie même après la transformation en nourriture et, si une créature tente d'en manger, elle reçoit les dégâts adéquats.

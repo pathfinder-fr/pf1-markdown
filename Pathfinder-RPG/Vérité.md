@@ -1,0 +1,35 @@
+---
+Name: Pathfinder-RPG.Vérité
+Title: Vérité
+LastModified: 2022-07-06 19:48
+Categories:
+- Règle officielle
+- Sort
+- Sort barde 4
+- Sort hypnotiseur 4
+- Sort magicien 5
+- Sort prêtre 6
+- Sort psychiste 5
+- Sort sorcière 5
+- Src Manuel des races
+---
+
+{s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}
+**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 4, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+
+**Temps d'incantation** 1 [action simple](./Action simple.md)  
+
+**Composantes** [V](./composantes.md)  
+
+**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+
+**Cible** Lanceur de sorts  
+
+**Durée** 1 minute/[niveau](./niveau.md)  
+
+**Jet de sauvegarde** aucun; **Résistance à la magie** non
+
+
+Le lanceur de sorts peut communiquer avec toutes les créatures qui ne sont pas dépourvues d’intelligence. Tant qu’il peut être entendu, toutes les créatures comprennent ce qu’il dit, chacune l’entendant comme s’il parlait sa langue ou utilisait un autre mode de communication naturel, et le lanceur de sorts comprend leurs réponses comme si ces créatures parlaient sa langue natale. Il peut poser des questions et recevoir des réponses, mais ce sort ne rend pas les créatures plus amicales ou plus coopératives qu’elles ne le sont normalement, et les êtres non doués de sensations risquent de donner des réponses limitées.
+
+Lorsque le lanceur de sorts utilise *vérité*, les [effets basés sur son langage](./Créer un sort.md#DEPENDANTDULANGAGE) peuvent affecter toutes les créatures qui ne sont pas dépourvues d’intelligence.

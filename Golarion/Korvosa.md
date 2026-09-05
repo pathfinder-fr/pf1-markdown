@@ -1,0 +1,134 @@
+---
+Name: Golarion.Korvosa
+Title: Korvosa
+LastModified: 2022-10-15 14:38
+Categories:
+- Géographie
+- Varisie
+- Ville
+---
+
+{s:Ville|Korvosa| ||Grande ville|LN|40 000 PO|36 972 000 PO|18486|90% humains, 4% nains, 2% halfelins, 2% elfes, 1% demi-elfes, 1% autres|{s:DescElem|**le roi [Éodred Arabsti II](./Éodred-Arabsti-II.md)**, dirigeant de Korvosa} {s:DescElem|**la reine [Iléosa Arabsti](./Iléosa-Arabsti.md)**, épouse du roi } {s:DescElem|**le sénéchal [Néolandus Kalepopolis](./Néolandus-Kalepopolis.md)**, gardien du château de Korvosa} {s:DescElem|**la maréchale [Cressida Kroft](./Cressida-Kroft.md)**, chef de la garde de Korvosa } {s:DescElem|**l'amiral [Marcus Thalassinus Endrin](./Marcus-Thalassinus-Endrin.md)**, chef de la Compagnie du Sable } {s:DescElem|**le licteur [Server DiVri](./Server-DiVri.md)**, chef de l'[Ordre de la Pointe](./Ordre de la Pointe.md)} {s:DescElem|**le seigneur [Glorio Arkona](./Glorio-Arkona.md)**, dirigeant de facto de la Veille Korvosa} {s:DescElem|**[Toff Ornelos](./Toff-Ornelos.md)**, directeur de l'[Académie](./Académie.md) }}
+
+### Histoire de la ville
+Korvosa est la plus ancienne des cités-états de [Varisie](./Varisie.md), elle faisait autrefois partie du [Chéliax](./Chéliax.md) mais est maintenant indépendante. A l'origine, la ville servait de position défensive depuis laquelle les colons et explorateurs rentraient en [Varisie](./Varisie.md), pour enfin croître avec le passage du temps et des évenements en ce centre de commerce cosmopolite qu'on connait aujourd'hui. Korvosa est construire sur les ruines de la ville [Thassilonienne](./Thassilonienne.md) de [Xin-Eurythnia](./Xin-Eurythnia.md), la capitale de l'[Eurythnia](./Eurythnia.md), sur laquelle régnait [Sorshen](./Sorshen.md), le [Seigneur des runes](./Seigneur-des-runes.md) de la Luxure.
+
+#### Fondation de la ville
+Avant l'arrivée de l'Empire du [Chéliax](./Chéliax.md), Korvosa n'était pas plus qu'un site sacré pour les [Shoantis](./Shoantis.md). La protection de ce lieu ainsi que de la pyramide qui se trouvait là, était d'une grande importance pour les tribus barbares. Cependant, en 4407 AR, un groupe de marines chélaxiens sous le commandement du Maréchal [Jakthion Korvosa](./Jakthion-Korvosa.md) élirent le site pour commencer la construction d'un poste de défense. Une fois terminé, le [Fort Korvosa](./Fort-Korvosa.md) faisait office d'arrêt régulier pour les explorateurs, colons et chasseurs de la région. Le poste de commerce ainsi que ses défenses seront renforcés plus tard suite à un raid de [Shoantis](./Shoantis.md) qui brula la majorité des construction pendant ce qu'on appelera par la suite [le Grand Incendie](./le-Grand-Incendie.md).
+
+#### Guerre des cousins
+La Guerre des cousins a commencé en 4502 AR, suite à une insulte envers une des familles nobles de Korvosa. Le conflit mis fin à l'existance de la colonie en tant que position militaire. Cependant, ce fut également le début d'une croissance de sa population ainsi que de sa puissance économique. Peu après, Korvosa fut reconnue comme une vrai colonie de l'[Empire Chéliaxien](./Empire-Chéliaxien.md).
+
+#### Mort d'Aroden
+En 4606 AR, la mort d'[Aroden](./Aroden.md) plongea le [Chéliax](./Chéliax.md) dans une guerre civile; plusieurs colonies de l'Empire, Korvosa incluse, souffrirent pendant que leurs liens au pays disparurent sans crier gare. Le gouvernement de la ville a réussit à maintenir la prospérité dans la région depuis le déclin de l'Empire, mais la récupération de la ville depuis le chaos issu de l'absence soudaine de l'Empire fut lent; sa population n'est qu'une fraction de ce que la ville de Korvosa aurait pu être en considérant sa taille. Néanmoins, sur le plan de la puissance politique, Korvosa est aujourd'hui l'équivalente de [Magnimar](./Magnimar.md), même si c'est loin en dessous du niveau considéré comme approprié pour sa classe régnante décadente.
+
+
+### Géographie
+
+Korvosa se situe sur le double méandre du fleuve Jeggare dans le sud-est de la [Varisie](./Varisie.md) juste devant l'embouchure du fleuve qui se jette dans la [Baie des Conquérants](./Baie-des-Conquérants.md). La majorité de la ville se trouve sur la presqu'île. Deux petits quartiers : Le [Camp des voleurs](./Camp-des-voleurs.md) et [Rive Est](./Rive-Est.md) se trouve du côté est du fleuve [Jeggare](./Jeggare.md).
+
+#### Districts
+
+##### Rive Est
+Ce quartier est le seul district qui se trouve de l'autre côté de la rivière Jeggare. Il est connecté au reste de la ville par le Haut Pont, et est le foyer de plusieurs familles nobles liées à l'armée. Dans ce quartier se trouve également la deuxième école de magie : L'Université Theumanexus.
+
+##### La Grisaille
+Ce quartier est le cimetière de Korvosa. Les seuls habitants vivants de ce quartier sont les prêtres de Pharasma qui veuille sur ce quartier et résident dans la Grande Cathédrale de Pharasma.
+
+##### Les Hauteurs
+Les Hauteurs se situent sur la côte Ouest de la ville. C'est le foyer des maisons nobles les plus puissantes de la ville, dont le monarque, car le Château Korvosa se situe dans ce quartier. L'Académie, le plus gros collège de magie de Korvosa (et de rennomée mondiale) se trouve également dans ce quartier. Des plus hauts points de ce district, il est possible d'avoir une vue plongeante sur le reste de la ville, de façon littérale et figurée.
+
+##### Le Médian
+Le Médian est le quartier dont parlent les touristes quand ils parlent de Korvosa. Situé dans la partie du sud-est de la ville, ce quartier abrite la majorité des marchands, des magasins et des institutions financières de Korvosa. Les criminels qui profiteraient de cette accumulation de richesse sont tenus en respect par la présence des QG de la garde de Korvosa et celui de la Compagnie du sable.
+
+##### Pointe Nord
+Pointe Nord était le premier quartier développé de la ville. Etant au nord de la ville, c'est le foyer des familles descendantes des premiers colons, en plus d'être le quartier où on peut trouver la majorité de l'administration de la ville, notamment le hall de ville, les tribunaux et la Banque d'Abadar.
+
+##### La Vieille Korvosa
+Comme son nom l'indique, La Veille Korvosa est le quartier le plus ancien mais aussi le plus pauvre et surpeuplé de la ville.
+
+##### Rive Sud
+Le quartier le plus récent de la ville, Rive Sud, n'a été construit il y a une dizaine d'années seulement. Etant au sud de la ville à côté de la Grisaille, ce quartier ne souffre pas de surpopulation. Grâce à ça, ce quartier est très prisé par les nouveaux riches. C'est également dans ce quartier que se trouve le Panthéon Multiple
+
+##### Les Tuiles
+Construites sur les toits des zones les plus denses de Korvosa, se trouvent des chemins, des habitations et même des magasins! A cause de la surpopulation de la ville, cette zone acceuille ses habitants les plus pauvres. De plus, les Tuiles offrent une voie rapide au dessus des ruelles bondées pour ceux qui veulent éviter les foules.
+
+#### Voisinnage
+
+La zone d'influence de Korvosa s'étend sur la partie sud-est de la [Varisie](./Varisie.md). Cette zone inclus plusieurs villages et régions dont [Abken](./Abken.md), [Baslwief](./Baslwief.md), [Biston](./Biston.md), le [Val Sanglant](./Val sanglant.md), [Harse](./Harse.md), [Melfesh](./Melfesh.md), la [Baie de Palin](./Baie de Palin.md), [Sirathu](./Sirathu.md) et [Veldraine](./Veldraine.md).
+
+
+
+
+
+
+
+### Gouvernement
+Le gouvernement de Korvosa est constitué de trois branches officielles, chacune avec sa propre sphère d'influence. De plus,
+les familles nobles de Korvosa n'ont qu'un pouvoir limité sur le gouvernement.
+
+##### Symboles
+Les couleurs traditionnels de Korvosa (vu dans le drapeau et dans les uniformes différents des organisations de la ville) sont rouge, noir et argent. Le rouge et le noir sont les couleurs du [Chéliax](./Chéliax.md), même si le drapeau Korvosa utilise un rouge plus sombre que son ancien maître. L'argent est le symbole de l'importance de la ville. La mascotte officielle de la ville, est l'hippogriffe, dont des douzaines résident dans la [Grande Tour](./Grande-Tour.md) et servent de montures aux marines de la [Compagnie du Sable](./Compagnie-du-Sable.md). La divise de la ville est "Trosker ep Styrk", qui est une forme archaïque de Taldan qui veut dire "Fidélité et Force".
+
+##### Taxes
+Personne n'aime payer de taxes, et les habitants de Korvosa ne font pas exception à cette règle. Comparé aux autres villes, cependant, le gouvernement de la ville n'impose que peu de taxes à ses citoyens.
+
+#### Monarchie
+Depuis leur couronnement suite au déclin de l'Empire du [Chéliax](./Chéliax.md), les monarques de Korvosa ont servi comme les principaux diplomates et défenseurs de la ville. La couronne a servi la population depuis le fameux trône écarlate depuis que Korvosa a gagné son indépendance de façon inattendue. L'autorité de la monarchie a toujours été limité, notamment parce que le contrôle de la ville est partagé entre plusieurs groupes qui existaient avant l'existence de la monarchie.
+
+##### Le Conseil des Pairs
+Le monarque est conseillé par le [Conseil des Pairs](./Conseil-des-Pairs.md), qui est composé des têtes des cinq Grandes Maisons de Korvosa. Les 21 maisons nobles restantes sont constituées des Familles des Docks, chacune contrôlant un ou plusieurs quais de la ville. Une bonne partie des familles nobles raffolent de la culture [chéliaxienne](./chéliaxienne.md) et utilise les us et coutumes du [Chéliax](./Chéliax.md) et n'hésites pas à l'exhiber à la population qui se considère comme le modèle de la culture [Varisienne](./Varisienne.md).
+
+
+#### Arbitres
+
+Les arbitres de Korvosa jouent le rôle de juges, ils gèrent les disputent et les crimes tout en déterminant les chatiments que ces affaires méritent. Ils ont aussi la responsabilité de toute la législation et des omissions faites par les autres branches du gouvernement. L'arbitre la plus connue est très certainement [Zenobia Zenderholm](./Zenobia-Zenderholm.md), aussi connue sour le nom de "La juge des pendaisons". Elle est à juste titre crainte par tous les criminels pour ses verdicts sévères.
+
+#### Magistrats
+Les magistrats de Korvosa sont en charge de la gestion quotidienne de la ville. Les 23 individus qui font partie de cet organisme s'occupent principalement de tout ce qui tache à la taxation, la bureaucratie, les bévues économiques ainsi que les travaux publics. [Garrick Tann](./Garrick-Tann.md), le Magistrat du Commerce, est un des moins populaires, car une de ses tâches est la collecte des taxes. En contraste, [Syl Gar](./Syl-Gar.md), le Magistrat des Dépenses, est le plus populaire, car il est responsable de dépenser les taxes dans l'intérêt de la ville. [Mercer Cucuteni](./Mercer-Cucuteni.md) est l'actuel Magistrat du Tourisme, responsable de rendre la ville aussi attirante et intéressante que possible pour les étrangers. [Lolia Perenne](./Lolia-Perenne.md) est la Magistrate de la Régulation, elle et son équipe passent la plupart de leur temps à chercher les diverses méthodes que les clients et marchands utilisent pour se tromper les uns les autres.
+
+### Organisation militaire
+
+Les ressources militaires de la ville sont séparées en trois instances distinctes, chacune chargée de la protection de la ville et ses habitants mais avec des méthodes différentes.
+
+#### La garde de Korvosa
+La garde de Korvosa sert tout d'abbord la ville de Korvosa, le souverain de la ville en second et [Abadar](./Abadar.md) en troisième. Elle maintient l'ordre en ville mais se transforme en force militaire dès que la ville est menacée par une force extérieure. La garde est aidée par le temple d'[Abadar](./Abadar.md) et travaille main dans la main avec L'[Ordre de la Pointe](./Ordre de la Pointe.md), et la [Compagnie du Sable](./Compagnie-du-Sable.md). Les traditions chéliaxiennes restent fortement ancrées dans les moeurs de la garde. La maréchale Cressida Kroft est l'actuelle dirigeante de la garde et de ses quelques 700 soldats.
+
+Les membres de la garde servent de policiers en ville. De plus, les gardes font souvent l'intermédiaire entre le peuple et les intérets du temple d'Abadar local ou ceux du gouvernement.
+
+
+#### La Compagnie du Sable
+La Compagnie du Sable est une compagnie de marines montés sur hippogriffes d'élite. Ils répondent directement au monarche de Korvosa, et leurs ordres sont donnés directement par le sénéchal du château de Korvosa. Leur mission est de défendre les cieux ainsi que les eaux de la ville, même s'ils ont déjà aidé la garde de Korvosa pour maintenir l'ordre dans la ville. Les deux organisations travaillent souvent ensemble et les marines comptent sur les gardes pour la coopération avec les [chevaliers infernaux](./Chevaliers Infernaux.md) et l'Académie, car ces deux factions ne sont pas en bons termes avec la Compagnie du Sable.
+
+Occasionnellement, la Compagnie organise des frappes préventives sur les enemis de la ville. Ils sont connnus pour placer des espions dans les endroits clés de la région pour garder les enemis potentiels à l'oeil, tel que les pirates, les contrebandiers ou les raids shoantis. Une faille à cette tactique a été exploitée quand le corps mutilé d'un agent a été retrouvé sur le marché le plus bondé de Korvosa, un avertissement de [Clegg Zincher](./Clegg-Zincher.md), un seigneur du crime de [Port-Énigme](./Port-Énigme.md).
+
+##### Chevaucheurs d'hippogriffes
+
+Les marines de la Compagnie du Sable se forment à l'Académie Militaire d'Endrin, basée à la Grande Tour du quartier des Hauteurs. Les marines sont souvent des [rangers](./rangers.md) ou des [paladins](./paladins.md) qui chevauchent les hippogriffes avec beaucoup de talent et d'agilité après avoir créé un lien puissant avec ses montures si particulières. Ils sont incroyablement loyaux à la Compagnie et envers leurs pairs.
+
+#### L'Ordre de la Pointe
+
+Les [chevaliers infernaux](./Chevaliers Infernaux.md) de L'[Ordre de la Pointe](./Ordre de la Pointe.md) sont des mercenaires alliés au gouvernement de Korvosa, et poursuivent leurs idéaux d'ordre et de loi de façon inflexible depuis la [Citadelle de Vraid](./Citadelle-de-Vraid.md) non loin. Ils sont complètement fanatiques quand confrontés à des situations ou des évennements qui ne correspondent pas à leur vision rigide du monde. Malgré ça, ils soutiennent la ville tant qu'ils sont rémunérés.
+
+### Economie
+
+Malgré sa position excentrée par rapport aux autres villes majeures d'[Avistan](./Avistan.md), Korvosa est néanmoins un acteur majeur sur le plan commercial dans [Golarion](./Golarion.md). De plus, la ville est une porte d'entrée pour le commerce en [Varisie](./Varisie.md). L'export principal de la ville est le fruit de mer (les quais de St. Alika sont reconnus pour leurs bancs d'huitres), le caviar, et d'autres fruits de mer de grande qualité. Toujours dans le département de la nouriture de qualité, Korvosa exporte des l'écorce de thilieu au Chéliax à des prix démentiels. La ville exporte également des biens produits dans des zones vassalisées et c'est également le seul port qui exporte les produits de [Janderhoff](./Janderhoff.md). Grace à l'impressionante banque d'[Abadar](./Abadar.md), Korvosa est également une ville important sur le plan bancaire et frappe sa propre monnaie. Et grâce à l'[Académie](./Académie.md), Korvosa est un gros fournisseur en objet magique, plus particulièrement les objets de bas niveau de l'école de conjuration. La famille Arkona importe un gros nombre d'objets magiques du [Vudra](./Vudra.md), qui sont à leurs tours redistribués à travers le nord et l'ouest de l'[Avistan](./Avistan.md). Finalement, même si le gouvernement rechigne à l'admettre, Korvosa a un marché impressionnant de drogue, malgré le fait qu'ils importent la majorité des biens.
+
+Les sources de nouriture de Korvosa sont les fermes aux alentours ainsi que les communautés vassales environnantes, en plus d'importer les aliments qui ne poussent pas dans les environs. Le vin est un import majeur, par exemple, ainsi que les fruits tropicaux et sub-tropicaux. La majorité des imports, sont des biens manufacturés. Malgré la présence de [La Forge](./La-Forge.md), la capacité de Korvosa à produire des produits finis prend du retard par rapport aux nombres de demandes, et comme chaque bonne colonie, elle importe des biens de son pays mère. Les textiles sont un bon exemple.
+
+#### Guildes
+
+Si on suit la charte de Korvosa, aucune guilde ou syndicat d'artisans / marchands ne peut opérer dans l'enceinte de la ville. La seule exception à ça, c'est la [Société Céruléenne](./Société-Céruléenne.md), la guilde des voleurs de la ville. Cette loi a été créé pour éviter que les groupes imposent leurs prix, ainsi que pour que la ville puisse garder le contrôle sur sa force de travail. La plupart des artisans dans la ville sont indépendants et apprennent leurs métiers auprès d'un maître pendant leur jeunesse. Parce que Korvosa se repose lourdement sur ses fonctionnements, certains droits et protections sont garantis aux travailleurs.
+
+
+### Religion
+
+Il existe des temples d'[Abadar](./Abadar.md), [Asmodéus](./Asmodéus.md), [Pharasma](./Pharasma.md), [Sarenrae](./Sarenrae.md), [Shélyn](./Shélyn.md) en ville. Les autres religions possèdent des petits autels quelques part en ville.
+
+### Crime
+La ville fait de son mieux pour réguler le crime en ville, pour ça, elle a accepté qu'une guilde des voleurs ([La Société Céruléenne](./La-Société-Céruléenne.md)) s'installe en ville (malgré le fait que les artisans n'aient pas le droit de former de guilde). Il y a également une série de seigneurs du crime indépendants et d'organisations criminelles en ville, tel que la [Sczarni](./Sczarni.md).
+
+
+### Magie
+
+Korvosa acceuille une des écoles de magie les plus célèbres d'[Avistan](./Avistan.md), l'[Académie](./Académie.md), ainsi qu'une autre plus petite : L'[Université Theumanexus](./Université-Theumanexus.md). Une plétore de fournisseurs en biens magiques résident en ville également (que ça soit des objets ou des composants).

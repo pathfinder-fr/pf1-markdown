@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Conscrit taldorien
+Title: Conscrit de l'Empire décadent
+LastModified: 2020-12-14 16:07
+Categories:
+- Don
+- Règle officielle
+- Src Recueil de la Société des Éclaireurs
+---
+
+{s:cs}{s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
+
+*Un entraînement constants au service de son seigneur a amélioré les compétences du personnage en matière de maniement des armes.*
+
+**Conditions.** Le personnage doit être un serf de l'Empire décadent au service d’un seigneur
+
+**Avantages.** Lorsqu’il se sert d’un outil agricole (tel qu’une [hachette](./hachette (arme).md), une [pique](./pique (arme).md), une fourche ou une [faux](./faux (arme).md)) comme d’une arme, le personnage bénéficie d’un bonus de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS). Lorsqu’il combat aux côtés d’autres conscrits, il gagne également un bonus de +1 aux tests d’[initiative](./initiative.md).

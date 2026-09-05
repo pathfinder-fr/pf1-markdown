@@ -1,0 +1,16 @@
+---
+Name: Pathfinder-RPG.Bénédiction de la duperie
+Title: Bénédiction de la duperie
+LastModified: 2024-12-11 00:25
+Categories:
+- Bénédiction
+- Règle officielle
+- Src Manuel des joueurs - Classes avancées
+---
+
+{s:Menubénédictions}{s:MCA}
+#### Double *(mineur)*
+Au niveau 1, le prêtre combattant peut créer un double illusoire de sa personne par une [action de mouvement](./Action de mouvement.md). Ce double fonctionne comme une unique image miroir et dure un nombre de rounds égal à son niveau de prêtre combattant ou jusqu’à ce qu’il soit détruit ou dissipé. Le prêtre ne peut pas avoir plus d’un double à la fois. Ce pouvoir ne se cumule pas avec le sort *[image miroir](./Image miroir.md)*.
+
+#### Invisibilité suprême *(majeur)*
+Au niveau 10, le prêtre combattant peut devenir invisible (comme avec *[invisibilité suprême](./Invisibilité suprême.md)*) pendant un round par une [action rapide](./Action rapide.md).

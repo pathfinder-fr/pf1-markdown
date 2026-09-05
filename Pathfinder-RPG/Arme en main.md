@@ -1,0 +1,34 @@
+---
+Name: Pathfinder-RPG.Arme en main
+Title: Arme en main
+LastModified: 2021-04-29 18:43
+Categories:
+- Don
+- Don Combat
+---
+
+*Le personnage peut tirer son arme bien plus vite que la plupart des gens.*
+
+**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+
+**Condition.** [bonus de base à l’attaque](./BBA.md) +1.
+
+**Avantage.** Le personnage peut dégainer une arme à l’aide d’une [action libre](./Action libre.md) au lieu d’une [action de mouvement](./Action de mouvement.md). Il peut aussi dégainer une arme cachée (voir la compétence [Escamotage](./Escamotage.md)) par une [action de mouvement](./Action de mouvement.md).
+
+Grâce à ce don, un personnage qui combat avec des armes de jet bénéficie de la totalité de ses attaques (ces armes fonctionnent alors plus ou moins comme un arc).
+
+Le personnage ne peut pas utiliser ce don pour sortir rapidement un objet alchimique, une potion, un parchemin ou une baguette.
+
+**Normal.** Sans ce don, il faut une [action de mouvement](./Action de mouvement.md) pour dégainer ou, pour les personnages avec un [bonus de base à l’attaque](./BBA.md) au moins égal à +1, une [action libre](./Action libre.md) combinée à un déplacement. Sans ce don, il faut une [action simple](./Action simple.md) pour dégainer une arme cachée.
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Tant que le personnage a au moins 1 point d’endurance dans sa réserve, il peut rengainer son arme par une [action rapide](./Action rapide.md).
+
+{s:CMy}
+### Version mythique
+*Le personnage peut dégainer n’importe quel objet et pas seulement des armes.*
+
+**Condition.** Arme en main
+
+**Avantage.** Le personnage peut utiliser Arme en main pour dégainer des objets de n’importe quel type et pas seulement des armes, à condition qu’ils soient rangés ou dissimulés sur sa personne. Par une [action de mouvement](./Action de mouvement.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour sortir jusqu’à deux objets dissimulés. Il doit avoir les deux mains libres pour pouvoir agir de la sorte.

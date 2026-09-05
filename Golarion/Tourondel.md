@@ -1,0 +1,7 @@
+---
+Name: Golarion.Tourondel
+Title: Tourondel
+LastModified: 2010-02-07 22:56
+---
+
+Cette rivière qui prend sa source au Val sanglant, délimite la frontière nord du [Nirmathas](./Nirmathas.md).

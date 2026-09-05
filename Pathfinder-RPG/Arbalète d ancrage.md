@@ -1,0 +1,22 @@
+---
+Name: Pathfinder-RPG.Arbalète d ancrage
+Title: Arbalète d'ancrage
+LastModified: 2026-05-06 12:23
+Categories:
+- Objet mag
+- Objet mag arme
+- Src Heroes of the Street
+---
+
+{s:cs}
+**(Source: Heroes of the Streets)**
+
+<div class="BD">
+{s:BDTitre|Arbalète d'ancrage|{s:HotS}}
+**Aura** : [Divination](./Divination.md) forte ; **NLS** : 12  ; **Prix** : 21,335 po ; **Poids** 4,5 kg
+(((Description)))
+Avec une [action simple](./Action simple.md), cette arbalète légère +1 traqueuse peut générer des carreaux de force qui se solidifient brièvement pour ancrer dans les coins et murs de la structure, traçant une ligne de force qui relie le carreau à l'arbalète. Avec une [action de mouvement](./Action de mouvement.md), le porteur de l'arme peut tirer l'arbalète à l'ancre, portant rapidement le porteur au point d'ancrage. Le carreau de force a une portée maximale de 24m(16{s:c}) et ne peut s'ancrer que sur une structure capable de supporter le poids du porteur de l'arme. Si il n y a pas de plateforme appropriée pour permettre au porteur pour atterrir juste à côté du point d'ancrage, alors le porteur doit réussir un jet d'[Escalade](./Escalade.md) (DD approprié pour grimper la surface auquel le carreau est ancré) ou tomber immédiatement. Le carreau disparaît soit au bout de 1d4 tours, soit après que l'arbalète soit tirée au carreau(le porteur a le temps d’atterrir), soit après qu'un autre carreau soit tiré, n'importe celui qui arrive en premier. Les carreaux de force n'infligent pas de dégâts, et les créatures autre que le porteur ne sont pas affectés par le carreau de force.
+(((Création)))
+[Création d'armes et armures magiques](./Création darmes et armures magiques.md), [Lévitation](./Lévitation.md), [Vision lucide](./Vision lucide.md)
+**Prix** : 10,835 po
+</div>

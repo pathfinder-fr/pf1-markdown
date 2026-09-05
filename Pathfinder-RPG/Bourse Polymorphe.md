@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Bourse Polymorphe
+Title: Bourse polymorphe
+LastModified: 2024-06-14 22:57
+Categories:
+- Objet mag
+- Objet mag merveilleux
+---
+
+<div class="BD">
+{s:BDTitre|Bourse polymorphe|{s:AE}}
+**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5.000 po ; **Poids** 0,5 kg
+(((Description)))
+Cette bourse en cuir est le plus souvent décorée de motifs druidiques. À l’intérieur, il existe un espace extradimensionnel qui peut contenir 10 dm3 ou 20 kg de matériel. Il fonctionne par ailleurs comme un petit [sac sans fond](./Sac sans fond.md). Si son porteur utilise un effet de *[métamorphose](./métamorphose.md)* ou de forme animale pour se transformer en animal, en dragon, en élémentaire, en créature magique, en plante ou en vermine, la bourse ne fusionne pas avec son nouveau corps. Elle se place automatiquement à un endroit facilement accessible sur son corps (fixée à une ceinture ou à une corde attachée au cou), ce qui permet à son porteur d’accéder aux objets rangés à l’intérieur même quand il est transformé.
+(((Création)))
+**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[métamorphose](./métamorphose.md)*, *[coffre secret](./Coffre secret.md)* ; **Coût** 2.500 po
+</div>

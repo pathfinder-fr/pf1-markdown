@@ -1,0 +1,15 @@
+---
+Name: Pathfinder-RPG.Accessoires de mode
+Title: Accessoires de mode
+LastModified: 2019-11-29 09:34
+---
+
+{s:cs}
+**(Source: Heroes of the street)**  
+
+**Prix** 20 po; **Poids** 2 kg  
+
+**Catégorie** Vêtements  
+
+
+Ces accessoires permettent à un costume d'artiste, un habit de cour ou de noble, de correspondre au summum du style dans une ville particulière pendant 2d4 mois. Vous gagnez un +2 sur vos jets de [Diplomatie](./Diplomatie.md) pour faire des demandes aux habitants de cette ville en portant ces accessoires et un habit approprié. Le bonus s'applique aussi sur les jets de [Bluff](./Bluff.md) et de [Déguisement](./Déguisement.md) pour convaincre les autres que vous venez de cette ville.

@@ -1,0 +1,17 @@
+---
+Name: Pathfinder-RPG.Fente (mythique)
+Title: Fente (mythique)
+LastModified: 2018-07-21 00:32
+Categories:
+- Campagne mythique
+- Don
+- Don mythique
+- Règles officielles
+---
+
+{s:cmy}
+*La longue portée des frappes réalisées par le personnage lui permet de renforcer ses défenses contre les adversaires qu’il parvient à toucher.*
+
+**Conditions.** [Fente](./Fente.md)
+
+**Avantage.** Chaque fois que le personnage utilise [Fente](./Fente.md) et touche une créature à l’aide d’une attaque au corps à corps, il ne subit plus le malus de -2 à la CA contre cette créature. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il utilise Fente pour annuler le malus de -2 à sa CA quel que soit le résultat de son attaque et pour gagner un bonus de +2 aux jets d’attaque d’opportunité effectués pendant toute la durée de [Fente](./Fente.md).

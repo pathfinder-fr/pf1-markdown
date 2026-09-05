@@ -1,0 +1,116 @@
+---
+Name: Pathfinder-RPG.Cartes merveilleuses
+Title: Cartes merveilleuses
+LastModified: 2024-06-17 14:48
+Categories:
+- Objet mag artefact
+---
+
+<div class="BD">
+{s:BDTitre|Cartes merveilleuses|{s:AE}}
+**Aura** toutes les écoles, puissantes ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** —
+(((Description)))
+En général, on trouve les *cartes merveilleuses* dans une boîte en bois ou dans une bourse de cuir. Chaque jeu comprend un certain nombre de cartes ou de plaques, en ivoire ou en vélin. Elles sont ornées de glyphes, de lettres et de symboles. Dès que quelqu’un en sort une du paquet, il est affecté par sa magie, pour le meilleur ou pour le pire.
+Quand un personnage veut tirer des *cartes merveilleuses* de son jeu, il doit d’abord annoncer combien il compte en prendre et doit les tirer à moins d’une heure d’intervalle. Il ne peut pas en prendre plus que ce qu’il a annoncé. S’il refuse de tirer le nombre de cartes annoncé (ou si quelque chose l’en empêche), les cartes sortent du jeu de leur propre chef. S’il tire le **Fou** ou le **Bouffon**, il peut choisir d’en piocher de nouvelles.
+À chaque fois qu’il prend une carte dans le paquet, elle est immédiatement remplacée (ce qui permet de la tirer à plusieurs reprise), sauf dans le cas du **Bouffon** et du **Fou** qui sont défaussés. Un jeu de *cartes merveilleuses* contient 22 cartes. Vous pouvez les représenter par des cartes de tarot, comme indiqué dans la deuxième colonne de la table donnée plus bas. Si vous n’avez pas de jeu de tarot, utilisez un jeu de cartes ordinaires, comme indiqué dans la troisième colonne de cette même table. Vous trouverez également dans cette table le résumé des effets de chaque carte.
+
+- **Balance.** Le personnage adopte un alignement radicalement différent. S’il ne se comporte pas conformément à ce nouvel alignement, il gagne un [niveau négatif](./niveau négatif.md).
+- **Bouffon.** Cette carte est toujours défaussée une fois sortie, comme le **Fou** et contrairement aux autres. Le nouveau tirage est facultatif.
+- **Chevalier.** Le [guerrier](./Guerrier.md) surgit de nulle part et sert fidèlement le personnage jusqu’à sa mort. Il est de la même race (ou espèce) et du même sexe que le personnage. Si ce dernier possède le don [Prestige](./Prestige.md), il peut le choisir comme compagnon d’armes.
+- **Clef.** Le personnage doit pouvoir utiliser l’arme offerte. Elle apparaît soudainement dans sa main.
+- **Comète.** Pour que la carte fasse effet, le personnage doit vaincre seul le ou les prochains monstres rencontrés. S’il y parvient, il gagne assez de [PX](./PX.md) pour atteindre le prochain niveau.
+- **Crâne.** Une [âme-en-peine effroyable](./Âme-en-peine.md) apparaît. Le personnage doit l’affronter seul, si d’autres lui viennent en aide, d’autres [âmes-en-peine effroyables](./Âme-en-peine.md) apparaissent pour les combattre. Si le personnage se fait tuer, personne ne peut le ressusciter, pas même à l’aide d’un *[souhait](./Souhait.md)* ou d’un *[miracle](./Miracle.md)*.
+- **Donjon.** Cette carte est synonyme d’*[emprisonnement](./Emprisonnement.md)*, soit par le sort du même nom, soit par un puissant individu. Dans les deux cas, la victime est dépouillée de tout son équipement et ne peut plus tirer de cartes.
+- **Étoile.** Le personnage gagne 2 points dans la caractéristique de son choix. Il ne peut pas les répartir dans deux caractéristiques.
+- **Euryale.** Le visage de gorgone peint sur cette carte porte une malédiction que seule peut lever la carte des **Parques** ou une divinité, sinon, le malus de –1 à tous les [jets de sauvegarde](./JDS.md) est permanent.
+- **Flammes.** Un [Extérieur](./type Extérieur.md), motivé par la colère, la jalousie, l’envie ou autre devient l’ennemi du personnage et cette inimitié ne prend fin qu’à la mort d’un des deux. Déterminez qui est cet [Extérieur](./type Extérieur.md) au hasard. Il attaque le personnage (ou le harcèle) dans les 1d20 jours.
+- **Fou.** La perte de [PX](./PX.md) et le nouveau tirage sont obligatoires. Cette carte est toujours défaussée après utilisation, comme le **Bouffon** et contrairement aux autres.
+- **Gemme.** Cette carte est synonyme de richesses. Les bijoux sont en or serti de gemmes (2 000 po pièce) et les gemmes valent 1 000 po chacune.
+- **Idiot.** Cette carte fait perdre immédiatement 1d4+1 points d’[Intelligence](./Intelligence.md). Le nouveau tirage est facultatif.
+- **Lune.** Cette carte représente une pierre de lune avec le nombre de *[souhaits](./Souhait.md)* approprié représentés par des rayons en son sein. Parfois, elle représente une lune dont la phase représente le nombre de *[souhaits](./Souhait.md)* (pleine = 4, gibbeuse = 3, demi = 2 et quart = 1). Ce sont les mêmes *[souhaits](./Souhait.md)* que ceux octroyés par le sort de magicien de niveau 9 et il faut les utiliser avant que ne s’écoule un nombre de minutes égal au nombre de *[souhaits](./Souhait.md)* reçus.
+- **Le Néant.** Cette carte noire est synonyme de désastre immédiat. Le corps du personnage continue de fonctionner, comme s’il était plongé dans le coma, mais son esprit est piégé ailleurs, dans un objet sur une planète ou un plan éloigné, peut-être en possession d’un [Extérieur](./type Extérieur.md). Il est impossible de le ramener avec un *[souhait](./Souhait.md)* ou
+un *[miracle](./Miracle.md)*, ces sorts révèlent seulement le plan où il se trouve. Il ne peut plus tirer de cartes.
+- **Les Parques.** Cette carte permet à un personnage d’éviter un événement, même instantané, s’il le désire, car il défait et retisse la trame de la réalité. En revanche, cela ne permet de déclencher un événement, juste d’empêcher quelque chose d’arriver ou d’inverser un événement passé. Cette inversion vaut seulement pour la personne qui tire la carte, ses camarades subissent toujours la situation.
+- **Roublard.** Quand un PJ tire cette carte, un de ses amis PNJ (de préférence un compagnon d’armes) devient définitivement hostile envers lui. S’il n’a pas de compagnon d’armes, il s’attire l’inimitié d’un puissant individu (ou d’une communauté ou d’un ordre religieux). L’ennemi garde le secret sur sa haine jusqu’à ce qu’il puisse la révéler avec un effet dévastateur.
+- **Ruine.** Comme son nom l’indique, cette carte provoque la perte de toutes les possessions non-magiques du personnage.
+- **Serres.** Quand le personnage tire cette carte, il perd instantanément et définitivement tous ses objets magiques, à l’exception du jeu de cartes.
+- **Soleil.** Le personnage lance les dés jusqu’à obtenir un objet utile dans la table des objets merveilleux de puissance intermédiaire.
+- **Trône.** Le personnage devient un véritable chef aux yeux des autres. Le château apparaît dans n’importe quelle zone dégagée de son choix (mais il doit décider où le placer dans l’heure qui suit le tirage de la carte).
+- **Vizir.** Cette carte permet au personnage de faire appel à une immense source de sagesse pour résoudre un unique problème ou répondre à une question. Il doit faire sa requête dans l’année. Quant à savoir si les informations acquises lui seront d’une quelconque utilité, c’est un tout autre problème.
+
+(((Destruction)))
+On peut détruire cet artefact si on le perd lors d’un pari avec une divinité de la Loi. Cette dernière doit ignorer la nature des cartes.
+</div>
+
+{| CLASS="tablo centre autoalt"
+|+ Jeu de cartes merveilleuses
+|- CLASs="titre"
+| Plaque || Lame de Tarot || Carte à jouer
+| CLASS="gauche" | Effet
+|- CLASS="premier"
+| Balance || XI. La Justice || 2 de pique
+| CLASS="gauche" | Changement immédiat d’[alignement](./Alignement.md).
+|-
+| Bouffon || XII. Le Pendu || Joker (noir et blanc)
+| CLASS="gauche" | Gagne 10 000 [PX](./PX.md) ou tire deux nouvelles cartes.
+|-
+| Chevalier || Valet d’épée || Valet de cœur
+| CLASS="gauche" | Gagne les services d’un [guerrier](./Guerrier.md) de niveau 4.
+|-
+| Clef || V. Le Pape || Dame de cœur
+| CLASS="gauche" | Gagne une puissante [arme magique](./Armes magiques.md).
+|-
+| Comète || 2 d’épée || 2 de carreau
+| CLASS="gauche" | Gagne un niveau en cas de victoire contre le prochain monstre.
+|-
+| Crâne || XIII. La Mort || Valet de trèfle
+| CLASS="gauche" | Triompher d’une [âme-en-peine effroyable](./Âme-en-peine.md) ou être détruit à jamais.
+|-
+| Donjon || 4 d’épée || As de pique
+| CLASS="gauche" | Le personnage est emprisonné.
+|-
+| Étoile || XVII. L’Étoile || Valet de carreau
+| CLASS="gauche" | Gain immédiat d’un bonus inné de +2 à une valeur de caractéristique.
+|-
+| Euryale || 10 d’épée || Dame de pique
+| CLASS="gauche" | -1 à tous les [jets de sauvegarde](./JDS.md).
+|-
+| Flammes || XV. Le Diable || Dame de trèfle
+| CLASS="gauche" | Un [Extérieur](./type Extérieur.md) devient votre ennemi.
+|-
+| Fou || 0. Le Fou || Joker (couleur)
+| CLASS="gauche" | Perte de 10 000 PX et obligation de tirer une nouvelle carte.
+|-
+| Gemme || 7 de coupe || 2 de cœur
+| CLASS="gauche" | Gagne au choix 25 bijoux ou 50 gemmes.
+|-
+| Idiot || I. Le Bateleur || As de trèfle
+| CLASS="gauche" | Perd 1d4+1 points d'[Intelligence](./Intelligence.md). Peut tirer une nouvelle carte.
+|-
+| Lune || XVIII. La Lune || Dame de carreau
+| CLASS="gauche" | Vous avez droit à 1d4 *[souhaits](./Souhait.md)*.
+|-
+| Néant || 8 d’épée || Roi de trèfle
+| CLASS="gauche" | Le corps continue de fonctionner mais l’âme est piégée ailleurs.
+|-
+| Parques || 3 de coupe || As de cœur
+| CLASS="gauche" | Évite une situation de votre choix, une seule fois.
+|-
+| Roublard || 5 d’épée || Valet de pique
+| CLASS="gauche" | Un de vos amis se retourne contre vous.
+|-
+| Ruine || XVI. La Tour || Roi de pique
+| CLASS="gauche" | Perte immédiate de toutes les richesses et propriétés terriennes.
+|-
+| Serres || Dame de denier || 2 de trèfle
+| CLASS="gauche" | Tous vos objets magiques disparaissent définitivement.
+|-
+| Soleil || XIX. Le Soleil || Roi de carreau
+| CLASS="gauche" | Gain d’un [objet merveilleux](./Objets merveilleux.md) de puissance intermédiaire et de 50 000 [PX](./PX.md).
+|-
+| Trône || 4 de bâton || Roi de cœur
+| CLASS="gauche" | Gain d’un petit château et d’un bonus de +6 aux tests de [Diplomatie](./Diplomatie.md).
+|-
+| Vizir || IX. L’Ermite || As de carreau
+| CLASS="gauche" | Réponse à votre prochain dilemme.
+|}

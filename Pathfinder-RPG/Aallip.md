@@ -1,0 +1,54 @@
+---
+Name: Pathfinder-RPG.Aallip
+Title: Aallip
+LastModified: 2023-10-22 19:10
+Categories:
+- Monstre
+- Règle officielle
+- Src Bestiaire 2
+---
+
+<table class="Bestiaire"><tr><td>
+<div class="BD">
+{s:BDTitre|Aallip (ou Allip)|FP 3}
+{s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
+- *Source : Bestiaire 2, p.7*
+- **XP** 800
+- [Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM
+- **Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +7
+- **Aura** babil (12 cases, DD 15)
+  - (((Défense)))
+- **CA** 14, contact 14, pris au dépourvu 13 (Dex +1, parade +3)
+- **pv** 30 (4d8+12)
+- **Réf** +4, **Vig** +4, **Vol** +4
+- **Capacités défensives** [intangible](./Intangible.md), [résistance à la canalisation](./résistance à la canalisation.md) +2 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) 
+  - (((Attaque)))
+- **VD** vol 6 (parfait)
+- **Corps à corps** contact intangible +4 ([affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md))
+- **Attaques spéciales** babil, toucher de folie
+  - (((Caractéristiques)))
+- **For** —, **Dex** 12, **Con** —, **Int** 11, **Sag** 11, **Cha** 16
+- **BBA** +3, **BMO** +4, **DMD** 17
+- **Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)
+- **Compétences** [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +7, [Vol](./Vol.md) +16
+- **Langues** aklo, commun
+- **Particularités** démence
+  - (((Écologie)))
+- **Environnement** tous
+- **Organisation sociale** solitaire, couple ou hantise (4-6)
+- **Trésor** fortuit
+  - (((Particularités)))
+- **Babil (Sur)** L'aallip bougonne et geint en permanence, ce qui provoque un effet hypnotique affectant toutes les créatures saines d'esprit à 18 m (12 {s:c}) à la ronde. Celles qui ratent un [jet de sauvegarde](./jet de sauvegarde.md) de [Volonté](./Volonté.md) ([DD](./DD.md) 15) sont [fascinées](./Fasciné.md) pendant 2d4 rounds. L'aallip peut s'approcher d'une créature fascinée sans rompre l'effet, mais toute attaque de sa part stoppe la fascination. C'est un effet de son et mental de type [coercition](./coercition.md). Les créatures réussissant leur jet de sauvegarde sont immunisées contre le babil de l'aallip pour 24 heures. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).
+- **Démence (Sur)** Quiconque cible l'aallip avec un pouvoir télépathique, de lecture des pensées ou de contrôle mental entre en contact avec l'esprit torturé du mort-vivant et subit un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md).
+- **Toucher de folie (Sur)** Le contact d'un aallip provoque un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md), si la cible échoue un [jet de sauvegarde](./jet de sauvegarde.md) de [Volonté](./Volonté.md) ([DD](./DD.md) 15). Si l'attaque est [critique](./coup critique.md), elle provoque en plus une [diminution permanente](./diminution permanente.md) de 1 point de [Sagesse](./Sagesse.md) (à la place du double de l'[affaiblissement temporaire](./affaiblissement temporaire.md) de [Sagesse](./Sagesse.md)). A chaque attaque réussie, l'aallip gagne 5 points de vie temporaires. Le DD du jet de sauvegarde dépend du Charisme.
+
+{s:ImageCentre|Bestiaire/Allip01.jpg|90%}
+
+
+</td><td><div>
+*Une nuée noire et maléfique bouillonne dans les airs, donnant naissance à des mâchoires squelettiques qui hurlent et jacassent. Des griffes d’ombre jaillissent parfois de ce nuage aux formes changeantes et tentent de s’emparer des vivants.*
+
+Ceux qui succombent à la folie et prennent leur propre vie se perdent parfois sur les chemins de l’au delà et restent piégés entre la vie et la mort. Ces malheureux que l’on appelle des aallips souffrent encore de la folie, violente et incurable, qui les torturait de leur vivant et ils déchargent leur terreur, leur confusion et leur rage sur les vivants. Ils se jettent sur tous ceux qu’ils rencontrent (peut être par colère, mais aussi parce qu’ils ne se rendent pas compte de leur nature destructrice) et ils mettent un terme violent à toute vie, répandant ainsi la psychose qui a provoqué leur propre suicide.
+
+Au combat, les aallips attaquent sans relâche l’adversaire vivant le plus proche et se reposent sur leur babil pour approcher leur proie avant d’utiliser leur aliénation mentale. Beaucoup deviennent d’une rare férocité quand ils se rendent compte de la terreur que les vivants éprouvent à la vue de leur forme spectrale, ou quand ils sont confrontés à leur nature intangible. Les victimes qu’ils réduisent à 0 point de Sagesse tombent en catatonie et meurent généralement de faim avant de devenir à leur tour des aallips. Les aallips attaquent généralement au hasard, mais il leur arrive de se mettre en quête de ceux qui les firent sombrer dans la folie, comme un tuteur cruel, un maître tyrannique ou un époux violent. Quand l’aallip a trouvé celui qui, selon lui, lui a causé du tort, il ignore tout autre cible et l’attaque sans relâche jusqu’à ce qu’il l’ai plongé dans un état catatonique. Malheureusement, ces âmes tourmentées se rendent bien vite compte que la vengeance ne suffit pas à leur apporter le repos et leur folie ne fait que croître une fois qu’ils découvrent qu’ils sont piégés dans un monde qui ne leur offre plus la possibilité de se venger.
+</div></td></tr></table>

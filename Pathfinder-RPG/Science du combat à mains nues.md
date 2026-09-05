@@ -1,0 +1,28 @@
+---
+Name: Pathfinder-RPG.Science du combat à mains nues
+Title: Science du combat à mains nues
+LastModified: 2024-06-18 19:05
+Categories:
+- Don
+- Don combat
+---
+
+*Le personnage sait se battre sans armes.*
+
+**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+
+**Avantage.** Le personnage est considéré comme armé même s’il n’a pas d’arme. Cela signifie qu’il ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) quand il attaque un adversaire armé à mains nues. Les [attaques à mains nues](./Actions simples.md#ATTAQUEMAINSNUES) du personnage peuvent infliger des [dégâts létaux](./Dégâts létaux.md) ou [non-létaux](./Dégâts non-létaux.md), à sa guise.
+
+**Normal.** Sans ce don, un personnage qui se bat à mains nues est considéré comme étant [désarmé](./attaque à mains nues.md) et inflige seulement des [dégâts non-létaux](./Dégâts non-létaux.md).
+
+{s:PU}
+#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+Quand le personnage inflige des [dégâts non-létaux](./Blessures et mort.md#NONLETAL) à mains nues, il peut dépenser 5 points d’endurance pour infliger un montant de dégâts supplémentaires égal au double du nombre de points d’endurance dépensés.
+
+{s:CMy}
+### Version mythique
+*Les frappes à mains nues du personnage sont plus puissantes que celles d’autrui.*
+
+**Condition.** Science du combat à mains nues
+
+**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) aux dégâts qu’il inflige à mains nues. Par une [action rapide](./Action rapide.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ignorer la solidité des objets qu’il frappe à mains nues. Cet effet dure un nombre de rounds égal à son [grade](./Grade.md). Si la solidité d’un objet est supérieure à 15, le personnage ne peut pas l’ignorer, même en partie.

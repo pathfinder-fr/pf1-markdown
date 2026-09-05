@@ -1,0 +1,13 @@
+---
+Name: Starfinder.Compétences synergiques
+Title: Compétences synergiques
+LastModified: 2024-07-04 17:28
+Categories:
+- Don
+---
+
+*Vous savez comment exploiter les avantages de deux compétences qui fonctionnent bien ensemble.*
+
+**Avantage :** choisissez deux compétences. Elles deviennent des compétences de classe pour vous. Si l’une ou les deux sont déjà des compétences de classe, vous bénéficiez à la place d’un bonus d’intuition de +2 aux tests de ces compétences.
+
+**Spécial : **  Vous pouvez prendre ce don plusieurs fois mais ses effets ne se cumulent pas. Il s’applique à chaque fois à deux compétences différentes.

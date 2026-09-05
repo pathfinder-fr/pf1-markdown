@@ -1,0 +1,18 @@
+---
+Name: Pathfinder-RPG.Barrière
+Title: Barrière
+LastModified: 2026-04-25 01:39
+Categories:
+- Mot de pouvoir
+- Règle officielle
+- Src Art de la magie
+---
+
+{s:UM}
+**Niveau** 3  
+
+**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+
+Une barrière visible de 3 mètres (2 {s:c}) de long par [niveau de lanceur de sorts](./NLS.md) et de 3 mètres (2 {s:c}) de haut apparaît. Elle n’empêche pas les créatures de passer à travers elle ou de la toucher, sauf indication contraire dans la description de l’effet. Elles sont cependant soumises aux effets du sort si elles la touchent, la traversent ou si elles sont situées sur l’espace occupé par la barrière au moment où celle-ci se forme. Le mur doit être droit et ancré sur une surface solide lors de son invocation.
+
+**Augmentation.** La barrière mesure 6 mètres (4 {s:c}) de long par [niveau de lanceur de sorts](./NLS.md) et jusqu’à 6 mètres (4 {s:c}) de haut, et elle prend la forme que le personnage désire, mais elle doit cependant rester verticale.
