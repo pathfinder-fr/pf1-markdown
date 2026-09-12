@@ -9,42 +9,113 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Bien qu'elle opère principalement dans la principauté des Landes lugubres, l'agence des Insomniaques prodigue des services d'investigation et de protection à tout client dans le continent. Que ce soit pour garder des aristocrates dans l'Empire décadent, protéger des reliques venant des grands marchés, ou pour infiltrer les plus grands gangs de l'asile de pierre, les agents des Insomniaques suivent toujours les termes du contrat avec le plus grand professionnalisme et une efficacité incroyable. Cependant, de tous les agents des Insomniaques, les détectives sont les plus connus et respectés. Célèbres dans le monde entier pour leur logique infaillible et leur sens de l'observation inégalé, les détectives des Insomniaques sont capables de résoudre les mystères les plus complexes qui troublent les citoyens du monde – tant que quelqu'un est prêt à fournir l'argent pour payer pour une telle enquête.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le détective des Insomniaques 
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [[Détective des Insomniaques#FINLIMIER|Fin limier]], [[Détective des Insomniaques#THAUMATURGIECRIMINALISTIQUE|thaumaturgie criminalistique]], [[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +1d6
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Détective des Insomniaques#SUIVRELESINDICES|Suivre les indices]]
-|-
-| 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [[Détective des Insomniaques#EXAMENDEDUCTIF|Examen deductif]] 3/jour
-|-
-| 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[Détective des Insomniaques#SENSDUDETAIL|Sens du détail]], [[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +2d6
-|-
-| 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [[Détective des Insomniaques#HEMATOMANCIE|Hématomancie]] 3/jour
-|-
-| 6 || +4 || +3 || +2 || +3
-| CLASS="gauche" | [[Détective des Insomniaques#MAINTENANTQUEJYREPENSE|Maintenant que j'y repense...]]
-|-
-| 7 || +5 || +4 || +2 || +4
-| CLASS="gauche" | [[Détective des Insomniaques#DETECTIONDUMENSONGE|Détection du mensonge]], [[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +3d6
-|-
-| 8 || +6 || +4 || +3 || +4
-| CLASS="gauche" | [[Détective des Insomniaques#RIPOSTEINTUITIVE|Riposte intuitive]]
-|-
-| 9 || +6 || +5 || +3 || +5
-| CLASS="gauche" | [[Détective des Insomniaques#PERCERLATROMPERIE|Percer la tromperie]]
-|-
-| 10 || +7 || +5 || +3 || +5
-| CLASS="gauche" | [[Détective des Insomniaques#RECONSTRUCTION|Reconstruction]], [[Détective des Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +4d6
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le détective des Insomniaques</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Détective des Insomniaques#FINLIMIER|Fin limier]], [[Détective des
+      Insomniaques#THAUMATURGIECRIMINALISTIQUE|thaumaturgie criminalistique]], [[Détective des
+      Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +1d6
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#SUIVRELESINDICES|Suivre les indices]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#EXAMENDEDUCTIF|Examen deductif]] 3/jour</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Détective des Insomniaques#SENSDUDETAIL|Sens du détail]], [[Détective des
+      Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +2d6
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#HEMATOMANCIE|Hématomancie]] 3/jour</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#MAINTENANTQUEJYREPENSE|Maintenant que j'y repense...]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Détective des Insomniaques#DETECTIONDUMENSONGE|Détection du mensonge]], [[Détective des
+      Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +3d6
+    </td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#RIPOSTEINTUITIVE|Riposte intuitive]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Détective des Insomniaques#PERCERLATROMPERIE|Percer la tromperie]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Détective des Insomniaques#RECONSTRUCTION|Reconstruction]], [[Détective des
+      Insomniaques#ATTAQUESOURNOISE|attaque sournoise]] +4d6
+    </td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d8.
 

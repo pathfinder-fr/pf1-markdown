@@ -10,63 +10,142 @@ Categories:
 
 Parce que la voie pour devenir un champion occultiste exige des talents martiaux et magiques, les personnages qui souhaitent l'emprunter sont au départ toujours multiclassés, comme les [[guerrier|guerriers]]/[[magicien|mages]] ou les [[rôdeur|rôdeurs]]/[[ensorceleur|ensorceleurs]]. Ils sont présents là où l'étude des arcanes est aussi importante que celle des arts martiaux.''
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le champion occultiste
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]],   
-[[champion occultiste#ENTRAINEMENTDIVERSIFIE|entraînement diversifié]]
-| CLASS="centre" | —
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le champion occultiste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]],   
+[[champion
+      occultiste#ENTRAINEMENTDIVERSIFIE|entraînement diversifié]]
+    </td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|-
-| 3 || +3 || +1 || +2 || +1
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +1
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|-
-| 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +2
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|-
-| 7 || +7 || +2 || +4 || +2
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +3
-| CLASS="centre" | —
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="centre">—</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|-
-| 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [[champion occultiste#SORTILEGEDEVASTATEUR|Sortilège dévastateur]]
-| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[champion occultiste#SORTILEGEDEVASTATEUR|Sortilège dévastateur]]</td>
+    <td CLASS="gauche">
+      [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
  de sorts profanes existante]]
-|}
+    </td>
+  </tr>
+</table>
+
 
 **Rôle.** Les champions occultistes unissent les talents des classes combattantes et des utilisateurs de sorts. Leur magie s'abat sur les rangs ennemis et, l'instant d'après, l'acier de leurs lames taille en pièces les survivants, et ils sont aussi à l'aise au cœur de la mêlée que lorsqu'ils déchaînent leur puissance magique sur ceux restés bien à l'abri derrière leurs compatriotes. Leur polyvalence est un atout majeur lorsque l'issue de la bataille est incertaine.
 

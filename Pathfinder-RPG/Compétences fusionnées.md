@@ -161,33 +161,33 @@ Cette section décrit toutes les compétences fusionnées, leur fonctionnement e
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-{.tablo .centre .autoalt}
-| Rareté du monstre | DD du test de compétence |
-| --- | --- |
-| Commun (gobelin) | 5 + [[FP]] du monstre |
-| La plupart des monstres | 10 + [[FP]] du monstre |
-| Rare (tarasque) | 15 + [[FP]] du monstre |</div></div>Le personnage peut utiliser certaines compétences pour identifier les monstres, leurs pouvoirs spéciaux et leurs vulnérabilités. Un test réussi lui permet de connaitre quelques informations utiles à propos d’un monstre particulier. Pour chaque tranche de 5 points entre son résultat et le [[DD]] du test, il se souvient d’une information utile en plus.
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Rareté du monstre</td><td>DD du test de compétence</td></tr>
+  <tr CLASS="premier"><td>Commun (gobelin)</td><td>5 + [[FP]] du monstre</td></tr>
+  <tr><td>La plupart des monstres</td><td>10 + [[FP]] du monstre</td></tr>
+  <tr><td>Rare (tarasque)</td><td>15 + [[FP]] du monstre</td></tr>
+</table></div></div>Le personnage peut utiliser certaines compétences pour identifier les monstres, leurs pouvoirs spéciaux et leurs vulnérabilités. Un test réussi lui permet de connaitre quelques informations utiles à propos d’un monstre particulier. Pour chaque tranche de 5 points entre son résultat et le [[DD]] du test, il se souvient d’une information utile en plus.
 
 
 {s:ClearRight}<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-{.tablo .centre .autoalt}
-| Type de créature | Compétence |
-| --- | --- |
-| Aberration | [[Compétences fusionnées, Nature|Nature]] |
-| Animal | [[Compétences fusionnées, Nature|Nature]] |
-| Créature artificielle | [[Compétences fusionnées, Art de la magie|Art de la magie]] |
-| Créature magique | [[Compétences fusionnées, Art de la magie|Art de la magie]] |
-| Dragon | [[Compétences fusionnées, Art de la magie|Art de la magie]] |
-| Extérieur | [[Compétences fusionnées, Religion|Religion]] |
-| Fée | [[Compétences fusionnées, Nature|Nature]] |
-| Humanoïde monstrueux | [[Compétences fusionnées, Nature|Nature]] |
-| Humanoïde | [[Compétences fusionnées, Société|Société]] |
-| Mort-vivant | [[Compétences fusionnées, Religion|Religion]] |
-| Plante | [[Compétences fusionnées, Nature|Nature]] |
-| Vase | [[Compétences fusionnées, Nature|Nature]] |
-| Vermine | [[Compétences fusionnées, Nature|Nature]] |</div></div>La liste ci-contre indique la compétence à utiliser pour chaque type de monstres.
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Type de créature</td><td>Compétence</td></tr>
+  <tr CLASS="premier"><td>Aberration</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Animal</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Créature artificielle</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr>
+  <tr><td>Créature magique</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr>
+  <tr><td>Dragon</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr>
+  <tr><td>Extérieur</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr>
+  <tr><td>Fée</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Humanoïde monstrueux</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Humanoïde</td><td>[[Compétences fusionnées, Société|Société]]</td></tr>
+  <tr><td>Mort-vivant</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr>
+  <tr><td>Plante</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Vase</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>Vermine</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+</table></div></div>La liste ci-contre indique la compétence à utiliser pour chaque type de monstres.
 
 
 **Action.** Aucune.

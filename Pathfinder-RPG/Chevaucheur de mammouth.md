@@ -9,42 +9,128 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Des déserts arctiques peu accueillants du grand nord viennent les chevaucheurs de mammouth, des guerriers redoutables qui ont dressé les grandes bêtes qui errent dans la nature froide afin qu'ils servent de destriers fidèles. Renforcés par leurs terres sans merci, les chevaucheurs de mammouth savent maîtriser leur environnement grâce à leur détermination tenace et leur volonté inébranlable, combattant aux côtés de leurs compagnons bestiaux pour abattre du gros gibier et bâtir leur rude existence dans le nord glacial.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le chevaucheur de mammouth
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+2 For, +2 Con), [[Chevaucheur de mammouth#DESTRIER|destrier]], [[Chevaucheur de mammouth#COERCITIONSAUVAGE|coercition sauvage]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Chevaucheur de mammouth#SURVIVANTNE|Survivant né]], [[Chevaucheur de mammouth#CHASSEURDECOLOSSES|chasseur de colosses]]
-|-
-| 3 || +3 || +1 || +2 || +1
-| CLASS="gauche" |  [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+4 For), [[Chevaucheur de mammouth#CHEVAUCHEMENTECLAIRE|chevauchement éclair]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]] +1
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +1
-| CLASS="gauche" | [[Chevaucheur de mammouth#MEFIANCEENVERSLAMAGIE|Méfiance envers la magie]], [[Chevaucheur de mammouth#BRAVOURE|bravoure]]
-|-
-| 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" |  [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+6 For, +4 Con), [[Chevaucheur de mammouth#DEVOTIONVAILLANTE|dévotion vaillante]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]] +2
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +2
-| CLASS="gauche" | [[Chevaucheur de mammouth#SURVIVANTNE|Survivant né]], [[Chevaucheur de mammouth#INSTINCTDUCHASSEUR|instinct du chasseur]]
-|-
-| 7 || +7 || +2 || +4 || +2
-| CLASS="gauche" |  [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+8 For), [[Chevaucheur de mammouth#ALLONGEDUDESTRIER|allonge du destrier]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]] +3
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +3
-| CLASS="gauche" | [[Chevaucheur de mammouth#PUISSANCECOMBINEE|Puissance combinée]]
-|-
-| 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" |  [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+10 For, +6 Con), [[Chevaucheur de mammouth#ASSAUTPULVERISANT|assaut pulvérisant]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]] +4
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [[Chevaucheur de mammouth#SEIGNEURMAMMOUTH|Seigneur mammouth]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le chevaucheur de mammouth</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+2 For, +2 Con), [[Chevaucheur de
+      mammouth#DESTRIER|destrier]], [[Chevaucheur de mammouth#COERCITIONSAUVAGE|coercition sauvage]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#SURVIVANTNE|Survivant né]], [[Chevaucheur de mammouth#CHASSEURDECOLOSSES|chasseur de
+      colosses]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+4 For), [[Chevaucheur de
+      mammouth#CHEVAUCHEMENTECLAIRE|chevauchement éclair]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier
+      robuste]] +1
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#MEFIANCEENVERSLAMAGIE|Méfiance envers la magie]], [[Chevaucheur de
+      mammouth#BRAVOURE|bravoure]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+6 For, +4 Con), [[Chevaucheur de
+      mammouth#DEVOTIONVAILLANTE|dévotion vaillante]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]]
+      +2
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#SURVIVANTNE|Survivant né]], [[Chevaucheur de mammouth#INSTINCTDUCHASSEUR|instinct du
+      chasseur]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+8 For), [[Chevaucheur de
+      mammouth#ALLONGEDUDESTRIER|allonge du destrier]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]]
+      +3
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chevaucheur de mammouth#PUISSANCECOMBINEE|Puissance combinée]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Chevaucheur de mammouth#DESTRIERGIGANTESQUE|Destrier gigantesque]] (+10 For, +6 Con), [[Chevaucheur de
+      mammouth#ASSAUTPULVERISANT|assaut pulvérisant]], [[Chevaucheur de mammouth#DESTRIERROBUSTE|destrier robuste]]
+      +4
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chevaucheur de mammouth#SEIGNEURMAMMOUTH|Seigneur mammouth]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d12.
 

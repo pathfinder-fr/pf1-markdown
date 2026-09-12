@@ -77,61 +77,60 @@ créer un antre à un méchant que les PJ n’étaient pas censés suivre.
 #### Type de donjon
 <center>
 
-<p class="tablo-caption">Type de donjon</p>
-
-{.tablo .autoalt .toutgauche}
-| d% | Décor du donjon |
-| --- | --- |
-| 01-02 | un labyrinthe de haies |
-| 03-04 | une embarcation fluviale |
-| 05-06 | la tombe d’un magicien |
-| 07-08 | le repaire d’un bandit |
-| 09-10 | une vaste mine à présent abandonnée |
-| 11-12 | un casino abandonné |
-| 13-14 | un vieux théâtre |
-| 15-16 | un donjon enveloppé d’un linceul de brume qui piège les PJ |
-| 17-18 | des salles où la gravité s’inverse régulièrement |
-| 19-20 | un donjon qui bouge dans le sens des aiguilles d’une montre |
-| 21-22 | des gorges calcaires incroyablement étroites |
-| 23-24 | plans reliés par des portails |
-| 25-26 | le ventre d’une créature marine dévoreuse de navires |
-| 27-28 | un dangereux marais plein de tourbières |
-| 29-30 | le quartier général d’un esclavagiste |
-| 31-32 | des rapides et des canaux qui traversent une vallée |
-| 33-34 | un arbre géant creusé de trous et de crevasses |
-| 35-36 | un iceberg qui fond |
-| 37-38 | un palais de verre infesté de monstres |
-| 39-40 | un donjon qui s’inonde progressivement |
-| 41-42 | l’après‑vie |
-| 43-44 | un rêve |
-| 45-46 | d’anciens sentiers verdoyants submergés qui relient des royaumes féeriques |
-| 47-48 | un cauchemar |
-| 49-50 | un obélisque de fer de grande taille |
-| 51-52 | un marais flottant qui contient des tombes englouties |
-| 53-54 | le château d’un géant maléfique |
-| 55-56 | un clocher partiellement submergé |
-| 57-58 | un château flottant qui apparaît seulement de nuit |
-| 59-60 | une gigantesque chandelle creuse qui fond lentement |
-| 61-62 | un cimetière de squelettes géants |
-| 63-64 | un glacier d’eau empoisonnée |
-| 65-66 | une ville morte‑vivante où la vie continue |
-| 67-68 | l’énorme crâne d’un ancien dragon |
-| 69-70 | un navire de fer englouti sous un marécage |
-| 71-72 | une forêt d’épineux enchevêtrés |
-| 73-74 | un temple infesté d’insectes géants |
-| 75-76 | une tombe volcanique |
-| 77-78 | un bateau de fer vivant |
-| 79-80 | un labyrinthe qui coule |
-| 81-82 | une infinité de ponts de pierre qui enjambent un vide de brume violette |
-| 83-84 | une immense toile |
-| 85-86 | des tunnels de rats géants |
-| 87-88 | un homme de fer colossal en marche |
-| 89-90 | un labyrinthe de fer vivant |
-| 91-92 | ce qui se trouve sous la bonde de l’évier d’un magicien |
-| 93-94 | un jardin de champignons empoisonnés |
-| 95-96 | une tombe douée de conscience |
-| 97-98 | une nuée d’orage solide |
-| 99-100 | un sablier géant qui se remplit lentement de sable |</center>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Type de donjon</caption>
+  <tr CLASS="titre"><td>d%</td><td>Décor du donjon</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>un labyrinthe de haies</td></tr>
+  <tr><td>03-04</td><td>une embarcation fluviale</td></tr>
+  <tr><td>05-06</td><td>la tombe d’un magicien</td></tr>
+  <tr><td>07-08</td><td>le repaire d’un bandit</td></tr>
+  <tr><td>09-10</td><td>une vaste mine à présent abandonnée</td></tr>
+  <tr><td>11-12</td><td>un casino abandonné</td></tr>
+  <tr><td>13-14</td><td>un vieux théâtre</td></tr>
+  <tr><td>15-16</td><td>un donjon enveloppé d’un linceul de brume qui piège les PJ</td></tr>
+  <tr><td>17-18</td><td>des salles où la gravité s’inverse régulièrement</td></tr>
+  <tr><td>19-20</td><td>un donjon qui bouge dans le sens des aiguilles d’une montre</td></tr>
+  <tr><td>21-22</td><td>des gorges calcaires incroyablement étroites</td></tr>
+  <tr><td>23-24</td><td>plans reliés par des portails</td></tr>
+  <tr><td>25-26</td><td>le ventre d’une créature marine dévoreuse de navires</td></tr>
+  <tr><td>27-28</td><td>un dangereux marais plein de tourbières</td></tr>
+  <tr><td>29-30</td><td>le quartier général d’un esclavagiste</td></tr>
+  <tr><td>31-32</td><td>des rapides et des canaux qui traversent une vallée</td></tr>
+  <tr><td>33-34</td><td>un arbre géant creusé de trous et de crevasses</td></tr>
+  <tr><td>35-36</td><td>un iceberg qui fond</td></tr>
+  <tr><td>37-38</td><td>un palais de verre infesté de monstres</td></tr>
+  <tr><td>39-40</td><td>un donjon qui s’inonde progressivement</td></tr>
+  <tr><td>41-42</td><td>l’après‑vie</td></tr>
+  <tr><td>43-44</td><td>un rêve</td></tr>
+  <tr><td>45-46</td><td>d’anciens sentiers verdoyants submergés qui relient des royaumes féeriques</td></tr>
+  <tr><td>47-48</td><td>un cauchemar</td></tr>
+  <tr><td>49-50</td><td>un obélisque de fer de grande taille</td></tr>
+  <tr><td>51-52</td><td>un marais flottant qui contient des tombes englouties</td></tr>
+  <tr><td>53-54</td><td>le château d’un géant maléfique</td></tr>
+  <tr><td>55-56</td><td>un clocher partiellement submergé</td></tr>
+  <tr><td>57-58</td><td>un château flottant qui apparaît seulement de nuit</td></tr>
+  <tr><td>59-60</td><td>une gigantesque chandelle creuse qui fond lentement</td></tr>
+  <tr><td>61-62</td><td>un cimetière de squelettes géants</td></tr>
+  <tr><td>63-64</td><td>un glacier d’eau empoisonnée</td></tr>
+  <tr><td>65-66</td><td>une ville morte‑vivante où la vie continue</td></tr>
+  <tr><td>67-68</td><td>l’énorme crâne d’un ancien dragon</td></tr>
+  <tr><td>69-70</td><td>un navire de fer englouti sous un marécage</td></tr>
+  <tr><td>71-72</td><td>une forêt d’épineux enchevêtrés</td></tr>
+  <tr><td>73-74</td><td>un temple infesté d’insectes géants</td></tr>
+  <tr><td>75-76</td><td>une tombe volcanique</td></tr>
+  <tr><td>77-78</td><td>un bateau de fer vivant</td></tr>
+  <tr><td>79-80</td><td>un labyrinthe qui coule</td></tr>
+  <tr><td>81-82</td><td>une infinité de ponts de pierre qui enjambent un vide de brume violette</td></tr>
+  <tr><td>83-84</td><td>une immense toile</td></tr>
+  <tr><td>85-86</td><td>des tunnels de rats géants</td></tr>
+  <tr><td>87-88</td><td>un homme de fer colossal en marche</td></tr>
+  <tr><td>89-90</td><td>un labyrinthe de fer vivant</td></tr>
+  <tr><td>91-92</td><td>ce qui se trouve sous la bonde de l’évier d’un magicien</td></tr>
+  <tr><td>93-94</td><td>un jardin de champignons empoisonnés</td></tr>
+  <tr><td>95-96</td><td>une tombe douée de conscience</td></tr>
+  <tr><td>97-98</td><td>une nuée d’orage solide</td></tr>
+  <tr><td>99-100</td><td>un sablier géant qui se remplit lentement de sable</td></tr>
+</table></center>
 
 
 

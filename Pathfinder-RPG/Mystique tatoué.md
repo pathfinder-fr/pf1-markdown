@@ -9,53 +9,111 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Les mystiques tatoués des Terres sauvages sont renommés à travers tout le continent pour les œuvres d’art qu’ils portent sur leur corps et la puissante magie qu’ils invoquent à l'aide de ces dessins. Beaucoup apprennent la technique du tatouage de leurs ancêtres, cet art ayant été transmis de génération en génération par les vagabonds et les diseurs de bonne aventure des Terres sauvages. Les autres sont nés avec ce que le monde appelle les “tatouages de naissance” - des tâches de naissance très colorées et sophistiquées. Ceux bénis par un tel tatouage finissent toujours par devenir des mystiques tatoués. Quelle que soit la manière dont la fascination pour cet art commence, ceux qui cherchent les pouvoirs du mystique tatoué se tourneront constamment vers les runes de l’ancien Empire du péché et l’étude de la magie, en combinant les deux en une forme dangereuse et élaborée d’art magique.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le mystique tatoué
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEDEFAMILIER|Tatouage de familier]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Mystique tatoué#ARTISTEDUTATOUAGEMAGIQUE|Artiste du tatouage magique]] 
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Mystique tatoué#TATOUEUREXPERIMENTE|Tatoueur expérimenté]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Mystique tatoué#MAITRISEDUTATOUAGE|Maîtrise du tatouage]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-CLASS="alt"
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGESPUISSANTS|Tatouages puissants]] 
-| CLASS="gauche" | -
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le mystique tatoué</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEDEFAMILIER|Tatouage de familier]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Mystique tatoué#ARTISTEDUTATOUAGEMAGIQUE|Artiste du tatouage magique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUEUREXPERIMENTE|Tatoueur expérimenté]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mystique tatoué#MAITRISEDUTATOUAGE|Maîtrise du tatouage]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGESPUISSANTS|Tatouages puissants]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie** d6.
 

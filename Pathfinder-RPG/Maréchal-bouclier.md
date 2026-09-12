@@ -9,42 +9,107 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Les maréchaux-boucliers sont les chefs de ceux qui font respecter la loi du Grand Duché de la Terre sans magie, capitale de l’armurerie du continent. Ils mènent des enquêtes à la fois ouvertes et discrètes sur les crimes perpétrés dans la Terre sans magie, ainsi que sur divers événement ailleurs dans le monde pouvant menacer la domination du pays sur le commerce d’armes. Contrebande, espionnage industriel et sabotage inquiètent grandement le parlement au pouvoir au pays, et les maréchaux-boucliers sont leurs armes principales pour combattre ces criminels. L'habileté avec laquelle ces derniers manient leurs armes à feu fétiches fait des maréchaux une force sur laquelle on peut compter, et leurs insignes d'argent à la forme d'un bouclier et ornés de fusils croisés suffit pour ouvrir presque toutes les portes du Grand Duché et pour demander des comptes à tout citoyen.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le maréchal-bouclier
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +1 || +0 || +1
-| CLASS="gauche" | [[Maréchal-bouclier#SENSDUDETAIL|Sens du détail]], [[Maréchal-bouclier#JUGEMENTLEGAL|jugement légal]] (1/jour)
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Maréchal-bouclier#SENSDUDANGER|Sens du danger]], [[Maréchal-bouclier#MARECHALPISTOLIER|maréchal-pistolier]]
-|-
-| 3 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[Maréchal-bouclier#RUSELABYRINTHIQUE|Ruse labyrinthique]] 
-|- CLASS="alt"
-| 4 || +4 || +2 || +1 || +2
-| CLASS="gauche" | [[Maréchal-bouclier#JUGEMENTLEGAL|Jugement légal]] (2/jour)
-|-
-| 5 || +5 || +3 || +2 || +3
-| CLASS="gauche" | [[Maréchal-bouclier#COMMANDANTURBAIN|Commandant urbain]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +2 || +3
-| CLASS="gauche" | [[Maréchal-bouclier#CHASSEURAUPISTOLET|Chasseur au pistolet]]
-|-
-| 7 || +7 || +4 || +2 || +4
-| CLASS="gauche" | [[Maréchal-bouclier#JUGEMENTLEGAL|Jugement légal]] (3/jour)
-|- CLASS="alt"
-| 8 || +8 || +4 || +3 || +4
-| CLASS="gauche" | [[Maréchal-bouclier#DOUBLEPERIL|Double péril]]
-|-
-| 9 || +9 || +5 || +3 || +5
-| CLASS="gauche" | [[Maréchal-bouclier#PROIEDUCHASSEUR|Proie du chasseur]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +3 || +5
-| CLASS="gauche" | [[Maréchal-bouclier#GRANDMARECHALBOUCLIER|Grand maréchal-bouclier]], [[Maréchal-bouclier#JUGEMENTLEGAL|jugement légal]] (4/jour)
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le maréchal-bouclier</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Maréchal-bouclier#SENSDUDETAIL|Sens du détail]], [[Maréchal-bouclier#JUGEMENTLEGAL|jugement légal]] (1/jour)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Maréchal-bouclier#SENSDUDANGER|Sens du danger]], [[Maréchal-bouclier#MARECHALPISTOLIER|maréchal-pistolier]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#RUSELABYRINTHIQUE|Ruse labyrinthique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#JUGEMENTLEGAL|Jugement légal]] (2/jour)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#COMMANDANTURBAIN|Commandant urbain]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#CHASSEURAUPISTOLET|Chasseur au pistolet]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#JUGEMENTLEGAL|Jugement légal]] (3/jour)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#DOUBLEPERIL|Double péril]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Maréchal-bouclier#PROIEDUCHASSEUR|Proie du chasseur]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Maréchal-bouclier#GRANDMARECHALBOUCLIER|Grand maréchal-bouclier]],
+      [[Maréchal-bouclier#JUGEMENTLEGAL|jugement légal]] (4/jour)
+    </td>
+  </tr>
+</table>
+
 
 **Dés de vie.** d10.
 

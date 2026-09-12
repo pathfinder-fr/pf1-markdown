@@ -10,42 +10,106 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:RSE}*L’agent de terrain dispose d’un large éventail de compétences et sait garder la tête froide en toute circonstance. Il est une bénédiction pour tous les groupes d’aventuriers.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ L'agent de terrain des Explorateurs
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]], [[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|formation d’explorateur]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]
-|-
-| 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]
-|-
-| 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]]
-|-
-| 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]
-|-
-| 6 || +4 || +3 || +2 || +3
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]
-|-
-| 7 || +5 || +4 || +2 || +4
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]]
-|-
-| 8 || +6 || +4 || +3 || +4
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]
-|-
-| 9 || +6 || +5 || +3 || +5
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]
-|-
-| 10 || +7 || +5 || +3 || +5
-| CLASS="gauche" | [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]], [[Agent de terrain des Éclaireurs#DÉCOUVERTEDESLÉGENDES|découverte des légendes]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>L'agent de terrain des Explorateurs</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]], [[Agent de terrain des
+      Éclaireurs#FORMATIONDEXPLORATEUR|formation d’explorateur]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Agent de terrain des Éclaireurs#FORMATIONDEXPLORATEUR|Formation d’explorateur]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Agent de terrain des Éclaireurs#AMÉLIORATIONDEGUIDE|Amélioration de guide]], [[Agent de terrain des
+      Éclaireurs#DÉCOUVERTEDESLÉGENDES|découverte des légendes]]
+    </td>
+  </tr>
+</table>
+
 
 **Dés de vie.** d8
 

@@ -10,42 +10,105 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:APG}*Dans chaque armée, on trouve des chefs qui surpassent les mercenaires au cœur de pierre, les vétérans couturés de cicatrices et les instructeurs chevronnés, pas tant par leurs dons pour les armes que par leur capacité à inspirer et diriger les autres. Les hérauts sont exactement ce genre de capitaine : ce sont des guerriers talentueux à n’en pas douter, mais ils se sont surtout attachés à développer leurs dons de chefs et à s’en servir autant que de leur épée pour remporter la victoire. Les hérauts puisent dans les réserves de courage, de compétence, de bravoure et de persévérance de ceux qui les servent, même si ces gens ignoraient disposer de telles ressources, et les alliés du héraut finissent souvent par gravir la pente qui mène à la victoire en suivant sa glorieuse bannière (bien souvent abîmée).*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le héraut
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1 
-| CLASS="gauche" | 1er [[Héraut#ORDREEXALTANT|ordre exaltant]] (+1), [[Héraut#SCIENCEDUPRESTIGE|science du prestige]], [[Héraut#VOIXDELAUTORITE|voix de l’autorité]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1 
-| CLASS="gauche" | [[Héraut#MARCHEAISEE|Marche aisée]]
-|-
-| 3 || +3 || +1 || +2 || +2 
-| CLASS="gauche" | 2e [[Héraut#ORDREEXALTANT|ordre exaltant]]
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2 
-| CLASS="gauche" | [[Héraut#ORDREEXALTANT|Ordre exaltant]] (+2), [[Héraut#INSPIRATIONGLORIEUSE|inspiration glorieuse]]
-|-
-| 5 || +5 || +2 || +3 || +3 
-| CLASS="gauche" | 3e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BANNIERE|bannière]]
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3 
-| CLASS="gauche" | [[Héraut#DONDETRAVAILENEQUIPE|Don de travail en équipe]]
-|-
-| 7 || +7 || +2 || +4 || +4 
-| CLASS="gauche" | 4e [[Héraut#ORDREEXALTANT|ordre exaltant]] (+3), [[Héraut#DEFIEPROUVANT|défi éprouvant]]
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4 
-| CLASS="gauche" | [[Héraut#ORDRESPERSISTANTS|Ordres persistants]]
-|-
-| 9 || +9 || +3 || +5 || +5 
-| CLASS="gauche" | 5e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BAROUDDHONNEUR|baroud d’honneur]]
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +5 
-| CLASS="gauche" | [[Héraut#ORDRESCOMPLEXES|Ordres complexes]], [[Héraut#ORDREEXALTANT|ordre exaltant]] (+4)
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le héraut</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      1er [[Héraut#ORDREEXALTANT|ordre exaltant]] (+1), [[Héraut#SCIENCEDUPRESTIGE|science du prestige]],
+      [[Héraut#VOIXDELAUTORITE|voix de l’autorité]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Héraut#MARCHEAISEE|Marche aisée]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">2e [[Héraut#ORDREEXALTANT|ordre exaltant]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Héraut#ORDREEXALTANT|Ordre exaltant]] (+2), [[Héraut#INSPIRATIONGLORIEUSE|inspiration glorieuse]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">3e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BANNIERE|bannière]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Héraut#DONDETRAVAILENEQUIPE|Don de travail en équipe]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">4e [[Héraut#ORDREEXALTANT|ordre exaltant]] (+3), [[Héraut#DEFIEPROUVANT|défi éprouvant]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Héraut#ORDRESPERSISTANTS|Ordres persistants]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">5e [[Héraut#ORDREEXALTANT|ordre exaltant]], [[Héraut#BAROUDDHONNEUR|baroud d’honneur]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Héraut#ORDRESCOMPLEXES|Ordres complexes]], [[Héraut#ORDREEXALTANT|ordre exaltant]] (+4)</td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d10
 

@@ -11,42 +11,111 @@ Categories:
 
 Les sentinelles affrontent fréquemment les ennemis de leur divinité ou les champions de religions rivales, et collaborent parfois avec d'autres sentinelles pour entreprendre de grandes quêtes ou surmonter des obstacles difficiles. Certaines inspirent des ordres de guerriers uniques dédiés à leur foi, et les champions légendaires de la foi sont souvent des sentinelles.'' 
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ La sentinelle
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0 
-| CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +1, [[Sentinelle#OBEDIENCE|obédience]]
-|-
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Sentinelle#DONSUPPLEMENTAIRE|Don supplémentaire]]
-|-
-| 3 || +3 || +1 || +2 || +1 
-| CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +2, [[Sentinelle#FAVEURDIVINE|faveur divine]] 1
-|-
-| 4 || +4 || +1 || +2 || +1 
-| CLASS="gauche" | [[Sentinelle#VIVACITEDIVINE|Vivacité divine]] +2
-|-
-| 5 || +5 || +2 || +3 || +2 
-| CLASS="gauche" | [[Sentinelle#FRAPPEALIGNEE|Frappe alignée]], [[Sentinelle#PILIER|pilier]]
-|-
-| 6 || +6 || +2 || +3 || +2 
-| CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +3, [[Sentinelle#FAVEURDIVINE|faveur divine]] 2
-|-
-| 7 || +7 || +2 || +4 || +2 
-| CLASS="gauche" | [[Sentinelle#COMBATTANTEXPERIMENTE|Combattant expérimenté]], [[Sentinelle#DONSUPPLEMENTAIRE|don supplémentaire]]
-|-
-| 8 || +8 || +3 || +4 || +3 
-| CLASS="gauche" | [[Sentinelle#MENEURVERTUEUX|Meneur vertueux]], [[Sentinelle#VIVACITEDIVINE|vivacité divine]] +4
-|-
-| 9 || +9 || +3 || +5 || +3 
-| CLASS="gauche" | [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +4, [[Sentinelle#FAVEURDIVINE|faveur divine]] 3
-|-
-| 10 || +10 || +3 || +5 || +3 
-| CLASS="gauche" | [[Sentinelle#GUERRIERINARRETABLE|Guerrier inarrêtable]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>La sentinelle</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +1, [[Sentinelle#OBEDIENCE|obédience]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Sentinelle#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +2, [[Sentinelle#FAVEURDIVINE|faveur divine]] 1
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Sentinelle#VIVACITEDIVINE|Vivacité divine]] +2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sentinelle#FRAPPEALIGNEE|Frappe alignée]], [[Sentinelle#PILIER|pilier]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +3, [[Sentinelle#FAVEURDIVINE|faveur divine]] 2
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Sentinelle#COMBATTANTEXPERIMENTE|Combattant expérimenté]], [[Sentinelle#DONSUPPLEMENTAIRE|don
+      supplémentaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Sentinelle#MENEURVERTUEUX|Meneur vertueux]], [[Sentinelle#VIVACITEDIVINE|vivacité divine]] +4
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Sentinelle#ARMESYMBOLIQUE|Arme symbolique]] +4, [[Sentinelle#FAVEURDIVINE|faveur divine]] 3
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sentinelle#GUERRIERINARRETABLE|Guerrier inarrêtable]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d10.
 

@@ -10,27 +10,69 @@ Categories:
 
 {s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>Il arrive que le temps joue un rôle important dans une aventure. La table ci-dessous tient lieu de base à la création de votre table de détermination aléatoire du temps. Voici quel est le sens des termes indiqués sur cette table :
 
-{s:ClearRight}{| CLASS="tablo centre autoalt" WIDTH="90%"
-|+ {s:reference|DETERMINATIONALEATOIREDUCLIMAT}Détermination aléatoire du climat
-|- CLASS="titre"
-| d% || Temps || Région froide || Région tempérée<sup>[[Climat#NOTE1|1]]</sup> || Désert
-|- CLASS="premier"
-| 01–70 || Normal || [[Climat#FROID|Froid]], [[Climat#TEMPSCALME|temps calme]] || Normal pour la saison<sup>[[Climat#NOTE2|2]]</sup> || [[Climat#TRESCHAUD|Très chaud]], [[Climat#TEMPSCALME|temps calme]]
-|-
-| 71–80 || Anormal || [[Climat#VAGUEDECHALEUR|Vague de chaleur]] (01–30) ou   
-[[Climat#COUPDEFROID|coup de froid]] (31-100) || [[Climat#VAGUEDECHALEUR|Vague de chaleur]] (01–50) ou   
-[[Climat#COUPDEFROID|coup de froid]] (51-100) || [[Climat#TRESCHAUD|Très chaud]], [[Climat#VENTEUX|venteux]]
-|-
-| 81–90 || Mauvais || [[Climat#PRECIPITATIONS|Précipitations]] (neige) || [[Climat#PRECIPITATIONS|Précipitations]] (normales pour la saison) || [[Climat#TRESCHAUD|Très chaud]], [[Climat#VENTEUX|venteux]]
-|-
-| 91–99 || Tempête || [[Climat#TEMPETE|Tempête de neige]] || [[Climat#TEMPETE|Orage, Tempête de neige]] || [[Climat#TEMPETE|Tempête de sable]]
-|-
-| 100 || Violente tempête || [[Climat#VIOLENTE|Blizzard]] || [[Climat#VIOLENTE|Cyclone, blizzard, ouragan, tornade]] || [[Climat#TROMBESDEAU|Trombes d’eau]]
-|- CLASS="note"
-| COLSPAN="5" | {s:Reference|NOTE1}(1) Les régions tempérées comprennent les forêts, collines, marécages, montagnes, plaines et mers chaudes.
-|- CLASS="note"
-| COLSPAN="5" | {s:Reference|NOTE2}(2) [[Climat#FROID|Froid]] pendant l’hiver, [[Climat#CHAUD|chaud]] pendant l'été, [[Climat#TEMPERE|tempéré]] pendant l'automne et le printemps. En hiver, les régions marécageuses sont toujours légèrement plus chaudes que les autres.
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt" WIDTH="90%">
+  <caption>{s:reference|DETERMINATIONALEATOIREDUCLIMAT}Détermination aléatoire du climat</caption>
+  <tr CLASS="titre">
+    <td>d%</td>
+    <td>Temps</td>
+    <td>Région froide</td>
+    <td>Région tempérée<sup>[[Climat#NOTE1|1]]</sup></td>
+    <td>Désert</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01–70</td>
+    <td>Normal</td>
+    <td>[[Climat#FROID|Froid]], [[Climat#TEMPSCALME|temps calme]]</td>
+    <td>Normal pour la saison<sup>[[Climat#NOTE2|2]]</sup></td>
+    <td>[[Climat#TRESCHAUD|Très chaud]], [[Climat#TEMPSCALME|temps calme]]</td>
+  </tr>
+  <tr>
+    <td>71–80</td>
+    <td>Anormal</td>
+    <td>[[Climat#VAGUEDECHALEUR|Vague de chaleur]] (01–30) ou   
+[[Climat#COUPDEFROID|coup de froid]] (31-100)</td>
+    <td>[[Climat#VAGUEDECHALEUR|Vague de chaleur]] (01–50) ou   
+[[Climat#COUPDEFROID|coup de froid]] (51-100)</td>
+    <td>[[Climat#TRESCHAUD|Très chaud]], [[Climat#VENTEUX|venteux]]</td>
+  </tr>
+  <tr>
+    <td>81–90</td>
+    <td>Mauvais</td>
+    <td>[[Climat#PRECIPITATIONS|Précipitations]] (neige)</td>
+    <td>[[Climat#PRECIPITATIONS|Précipitations]] (normales pour la saison)</td>
+    <td>[[Climat#TRESCHAUD|Très chaud]], [[Climat#VENTEUX|venteux]]</td>
+  </tr>
+  <tr>
+    <td>91–99</td>
+    <td>Tempête</td>
+    <td>[[Climat#TEMPETE|Tempête de neige]]</td>
+    <td>[[Climat#TEMPETE|Orage, Tempête de neige]]</td>
+    <td>[[Climat#TEMPETE|Tempête de sable]]</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>Violente tempête</td>
+    <td>[[Climat#VIOLENTE|Blizzard]]</td>
+    <td>[[Climat#VIOLENTE|Cyclone, blizzard, ouragan, tornade]]</td>
+    <td>[[Climat#TROMBESDEAU|Trombes d’eau]]</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE1}(1) Les régions tempérées comprennent les forêts, collines, marécages, montagnes, plaines
+      et mers chaudes.
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE2}(2) [[Climat#FROID|Froid]] pendant l’hiver, [[Climat#CHAUD|chaud]] pendant l'été,
+      [[Climat#TEMPERE|tempéré]] pendant l'automne et le printemps. En hiver, les régions marécageuses sont toujours
+      légèrement plus chaudes que les autres.
+    </td>
+  </tr>
+</table>
+
 - {s:Reference|FROID}**Froid** : de -15° C à 5° C le jour, 5° C à 10° C de moins la nuit.
 - {s:Reference|TEMPERE}**Tempéré** : de 5° C à 15° C pendant le jour, 5° C à 10° C de moins pendant la nuit.
 - {s:Reference|CHAUD}**Chaud** : de 15° C à 30° C le jour, 5° C à 10° C de moins la nuit.

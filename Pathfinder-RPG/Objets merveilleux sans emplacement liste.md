@@ -6560,33 +6560,22 @@ Ordinaire 1 000 PO Incendiaire 2 250 PO [[Création dobjets merveilleux|Créatio
 **Aura** [[Présentation des sorts#TRANSMUTATION|Transmutation]] modérée ; **NLS** 10 ; **Emplacement** aucun ; **Prix** variable ; **Poids** variable   
 <div style="float:right"; padding: 0 0 10px 0">*[[Tapis Volant|Page de l'objet]]*</div>
 (((Description)))
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau" 
-|+ Tapis volant
-|- 
-| **taille**
-| **capacité de transport** 
-| **vitesse**
-| **Poids**
-| **Prix**
-|- 
-| 1,50 m × 1,50 m 
-| 100 kg
-| 12 m 
-| 4 kg 
-| 20 000 po 
-|-
-| 1,50 m × 3 m 
-| 200 kg 
-| 12 m 
-| 5 kg 
-| 35 000 po 
-|-
-| 3 m × 3 m
-| 400 kg 
-| 12 m 
-| 7,5 kg
-| 60 000 po 
-|}</div>
+
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">
+<table class="tablo toutgauche autoalt" id="CacheLumièreTableau">
+  <caption>Tapis volant</caption>
+  <tr>
+    <td>**taille**</td>
+    <td>**capacité de transport**</td>
+    <td>**vitesse**</td>
+    <td>**Poids**</td>
+    <td>**Prix**</td>
+  </tr>
+  <tr><td>1,50 m × 1,50 m</td><td>100 kg</td><td>12 m</td><td>4 kg</td><td>20 000 po</td></tr>
+  <tr><td>1,50 m × 3 m</td><td>200 kg</td><td>12 m</td><td>5 kg</td><td>35 000 po</td></tr>
+  <tr><td>3 m × 3 m</td><td>400 kg</td><td>12 m</td><td>7,5 kg</td><td>60 000 po</td></tr>
+</table></div>
+
 Ce tapis se déplace dans les airs comme s’il était affecté par un sort de *[[Vol supérieur]]* de durée illimitée. La taille, la capacité de transport et la vitesse de déplacement des divers modèles de tapis volants sont indiquées sur la table ci- contre. Chaque tapis est réalisé avec goût et application. Ils s’activent par un mot de commande propre à chacun. Si le tapis est assez proche de son propriétaire pour l’entendre, ce dernier peut l’activer en prononçant le mot de commande, qu’il se trouve dessus ou non. Il peut ensuite diriger le tapis à la voix. 
 Un tapis volant peut porter jusqu’au double de sa capacité, mais cela réduit sa vitesse à 9 mètres (6 {s:c}). Un tapis volant est capable de faire du [[vol stationnaire]] sans faire de test et confère un bonus de +5 aux autres tests de Vol. 
 (((Création)))

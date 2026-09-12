@@ -470,70 +470,264 @@ interférant avec les mouvements des mains nécessaires pour
 les sorts à composantes gestuelles, ils donnent de surcroît les
 plus importants [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]].
 
-<center>{s:Reference|TABPROFILSBRAS}{| CLASS="tablo"
-|+ Profils des bras d'armure
-|- CLASS="titre"
-| ROWSPAN="2" | Type d’armure
-| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
-| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
-| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
-| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
-| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTEBRAS1|1]])</sup>
-|- CLASS="soustitre"
-| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
-|- CLASS="premier"
-| COLSPAN="9" | Armures légères
-|-
-| &nbsp; [[Description des pièces darmure#BRASBOIS|De bois]] || 5&nbsp;po || +0 || +3 || -1 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASCUIR|De cuir]] || 2&nbsp;po || +0 || +6 || 0  || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASCUIRCLOUTE|De cuir cloutée]] || 5&nbsp;po || +0 || +5 || 0 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASREMBOURRÉS|Habits rembourrés]] || 25&nbsp;po || +0 || +8 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASLAMELLAIRECUIR|Lamellaire, cuir]] || 15&nbsp;po || +0 || +3 || -1 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASMATELASSÉ|Matelassée]] || 1&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1&nbsp;kg
-|- CLASS="premier"
-| COLSPAN="9" | Armures intermédiaires
-|-
-| &nbsp; [[Description des pièces darmure#BRASÉCAILLES|D’écailles]] || 10&nbsp;po || +1 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASKIKKO|Kikko]] || 5&nbsp;po || +0 || +5 || -1 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASLAMELLAIREACIER|Lamellaire, acier]] || 25&nbsp;po || +1 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASLAMELLAIRECORNE|Lamellaire, corne]] || 25&nbsp;po || +1 || +5 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASMAILLES|De mailles]] || 25&nbsp;po || +1 || +2 || -3 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASMONTAGNE|De la montagne]] || 50&nbsp;po || +1 || +3 || -2 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASPEAU|De peau]] || 2&nbsp;po || +0 || +4 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|- CLASS="premier"
-| COLSPAN="9" | Armures lourdes
-|-
-| &nbsp; [[Description des pièces darmure#BRASCLIBANION|De clibanion]] || 50&nbsp;po || +1 || +0 || -4 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASCREVICE|De crevice]] || 50&nbsp;po || +1 || +1 || -3 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASKUSARIGUSOKU|Kusari gusoku]] || 50&nbsp;po || +1 || +1 || -3 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASLAMELLAIREFER|Lamellaire, fer]] || 50&nbsp;po || +1 || +0 || -4 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASOYOROI|O-yoroi]] || 250&nbsp;po || +1 || +2 || -5 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASPLAQUES|De plaques]] || 375&nbsp;po || +1 || +1 || -7 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#BRASPLAQUESFLEXIBLES|De plaques flexibles]] || 425&nbsp;po || +1 || +0 || -7 || 40% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#BRASTATAMIDO|Tatami-Do]] || 100&nbsp;po || +1 || +3 || -5 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| CLASS="note" COLSPAN="9" | {s:Reference|NOTEBRAS1}*(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des pièces d’armure des personnages de taille G doivent être doublés.*
-|}</center>
+
+<center>{s:Reference|TABPROFILSBRAS}
+<table CLASS="tablo">
+  <caption>Profils des bras d'armure</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type d’armure</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#PRIX|Prix]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">[[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTEBRAS1|1]])</sup></td>
+  </tr>
+  <tr CLASS="soustitre"><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6m&nbsp;(4&nbsp;{s:c})</td></tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures légères</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASBOIS|De bois]]</td>
+    <td>5&nbsp;po</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>-1</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASCUIR|De cuir]]</td>
+    <td>2&nbsp;po</td>
+    <td>+0</td>
+    <td>+6</td>
+    <td>0</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASCUIRCLOUTE|De cuir cloutée]]</td>
+    <td>5&nbsp;po</td>
+    <td>+0</td>
+    <td>+5</td>
+    <td>0</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASREMBOURRÉS|Habits rembourrés]]</td>
+    <td>25&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASLAMELLAIRECUIR|Lamellaire, cuir]]</td>
+    <td>15&nbsp;po</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>-1</td>
+    <td>20%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASMATELASSÉ|Matelassée]]</td>
+    <td>1&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>5%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures intermédiaires</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASÉCAILLES|D’écailles]]</td>
+    <td>10&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>25%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASKIKKO|Kikko]]</td>
+    <td>5&nbsp;po</td>
+    <td>+0</td>
+    <td>+5</td>
+    <td>-1</td>
+    <td>20%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASLAMELLAIREACIER|Lamellaire, acier]]</td>
+    <td>25&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>25%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASLAMELLAIRECORNE|Lamellaire, corne]]</td>
+    <td>25&nbsp;po</td>
+    <td>+1</td>
+    <td>+5</td>
+    <td>-2</td>
+    <td>25%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASMAILLES|De mailles]]</td>
+    <td>25&nbsp;po</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>-3</td>
+    <td>30%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASMONTAGNE|De la montagne]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>30%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASPEAU|De peau]]</td>
+    <td>2&nbsp;po</td>
+    <td>+0</td>
+    <td>+4</td>
+    <td>-2</td>
+    <td>20%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures lourdes</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASCLIBANION|De clibanion]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>-4</td>
+    <td>40%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASCREVICE|De crevice]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-3</td>
+    <td>35%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASKUSARIGUSOKU|Kusari gusoku]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-3</td>
+    <td>35%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASLAMELLAIREFER|Lamellaire, fer]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>-4</td>
+    <td>40%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASOYOROI|O-yoroi]]</td>
+    <td>250&nbsp;po</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>-5</td>
+    <td>35%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASPLAQUES|De plaques]]</td>
+    <td>375&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-7</td>
+    <td>35%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#BRASPLAQUESFLEXIBLES|De plaques flexibles]]</td>
+    <td>425&nbsp;po</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>-7</td>
+    <td>40%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#BRASTATAMIDO|Tatami-Do]]</td>
+    <td>100&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-5</td>
+    <td>35%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td CLASS="note" COLSPAN="9">
+      {s:Reference|NOTEBRAS1}*(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des
+      personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des
+      pièces d’armure des personnages de taille G doivent être doublés.*
+    </td>
+  </tr>
+</table></center>
+
 
 {s:Reference|JAMBES}
 #### Jambes d'armure
@@ -542,70 +736,259 @@ porteurs et octroient d’importants malus d’armure aux
 tests, mais elles sont en revanche moins gênantes pour les
 lanceurs de sorts que les bras d’armures lourdes.
 
-<center>{s:Reference|TABPROFILSJAMBES}{| CLASS="tablo"
-|+ Profils des jambes d'armure
-|- CLASS="titre"
-| ROWSPAN="2" | Type d’armure
-| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
-| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
-| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
-| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
-| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTEJAMBES1|1]])</sup>
-|- CLASS="soustitre"
-| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
-|- CLASS="premier"
-| COLSPAN="9" | Armures légères
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESBOIS|De bois]] || 5&nbsp;po || +1 || +3 || -1 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESCUIR|De cuir]] || 3&nbsp;po || +0 || +6 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESCUIRCLOUTÉ|De cuir cloutée]] || 5&nbsp;po || +1 || +5 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESREMBOURRÉES|Habits rembourrés]] || 25&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECUIR|Lamellaire, cuir]] || 15&nbsp;po || +1 || +2 || -1 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESMATELASSÉES|Matelassée]] || 1&nbsp;po || +0 || +8 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 1,5&nbsp;kg
-|- CLASS="premier"
-| COLSPAN="9" | Armures intermédiaires
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESÉCAILLES|D’écailles]] || 10&nbsp;po || +1 || +3 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESKIKKO|Kikko]] || 10&nbsp;po || +1 || +3 || -1 || 10% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREACIER|Lamellaire, acier]] || 25&nbsp;po || +1 || +3 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECORNE|Lamellaire, corne]] || 25&nbsp;po || +1 || +3 || -2 || 10% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 2,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESMAILLES|De mailles]] || 25&nbsp;po || +0 || +2 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESMONTAGNE|De la montagne]] || 50&nbsp;po || +1 || +3 || -2 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESPEAU|De peau]] || 3&nbsp;po || +1 || +4 || -2 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3&nbsp;kg
-|- CLASS="premier"
-| COLSPAN="9" | Armures lourdes
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESCLIBANION|De clibanion]] || 50&nbsp;po || +1 || +0 || -4 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 7&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESCREVICE|De crevice]] || 50&nbsp;po || +1 || +1 || -3 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESKUSARIGUSOKU|Kusari gusoku]] || 100&nbsp;po || +1 || +1 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREFER|Lamellaire, fer]] || 50&nbsp;po || +1 || +1 || -4 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESOYOROI|O-yoroi]] || 300&nbsp;po || +1 || +2 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 2,5&nbsp;kg
-|- CLASS="alt"
-| &nbsp; [[Description des pièces darmure#JAMBESPLAQUES|De plaques]] || 925&nbsp;po || +1 || +1 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#JAMBESTATAMIDO|Tatami-do]] || 150&nbsp;po || +1 || +3 || -3 || 15% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup> || 2,5&nbsp;kg
-|-
-| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTEJAMBES1}*(1) Les&nbsp;poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les&nbsp;poids des pièces d’armure des personnages de taille G doivent être doublés.*
-|-
-| CLASS="note" COLSPAN="9" | {s:Reference|NOTEJAMBES2}*(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa vitesse de déplacement au lieu de la quadrupler.*
-|}</center>
+
+<center>{s:Reference|TABPROFILSJAMBES}
+<table CLASS="tablo">
+  <caption>Profils des jambes d'armure</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type d’armure</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#PRIX|Prix]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">[[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTEJAMBES1|1]])</sup></td>
+  </tr>
+  <tr CLASS="soustitre"><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6m&nbsp;(4&nbsp;{s:c})</td></tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures légères</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESBOIS|De bois]]</td>
+    <td>5&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-1</td>
+    <td>5%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>3&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESCUIR|De cuir]]</td>
+    <td>3&nbsp;po</td>
+    <td>+0</td>
+    <td>+6</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESCUIRCLOUTÉ|De cuir cloutée]]</td>
+    <td>5&nbsp;po</td>
+    <td>+1</td>
+    <td>+5</td>
+    <td>0</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESREMBOURRÉES|Habits rembourrés]]</td>
+    <td>25&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>5%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECUIR|Lamellaire, cuir]]</td>
+    <td>15&nbsp;po</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>-1</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESMATELASSÉES|Matelassée]]</td>
+    <td>1&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>1,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures intermédiaires</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESÉCAILLES|D’écailles]]</td>
+    <td>10&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESKIKKO|Kikko]]</td>
+    <td>10&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-1</td>
+    <td>10%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREACIER|Lamellaire, acier]]</td>
+    <td>25&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESLAMELLAIRECORNE|Lamellaire, corne]]</td>
+    <td>25&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>10%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESMAILLES|De mailles]]</td>
+    <td>25&nbsp;po</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>-2</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESMONTAGNE|De la montagne]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>15%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESPEAU|De peau]]</td>
+    <td>3&nbsp;po</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>-2</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>3&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures lourdes</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESCLIBANION|De clibanion]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>-4</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESCREVICE|De crevice]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-3</td>
+    <td>15%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESKUSARIGUSOKU|Kusari gusoku]]</td>
+    <td>100&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-3</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESLAMELLAIREFER|Lamellaire, fer]]</td>
+    <td>50&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-4</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESOYOROI|O-yoroi]]</td>
+    <td>300&nbsp;po</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>-3</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#JAMBESPLAQUES|De plaques]]</td>
+    <td>925&nbsp;po</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>-3</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#JAMBESTATAMIDO|Tatami-do]]</td>
+    <td>150&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-3</td>
+    <td>15%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTEJAMBES2|2]])</sup></td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td CLASS="note alt" COLSPAN="9">
+      {s:Reference|NOTEJAMBES1}*(1) Les&nbsp;poids indiqués correspondent à des pièces d’armure conçues pour des
+      personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et
+      les&nbsp;poids des pièces d’armure des personnages de taille G doivent être doublés.*
+    </td>
+  </tr>
+  <tr>
+    <td CLASS="note" COLSPAN="9">
+      {s:Reference|NOTEJAMBES2}*(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa
+      vitesse de déplacement au lieu de la quadrupler.*
+    </td>
+  </tr>
+</table></center>
+
 
 {s:Reference|TRONC}
 #### Pectoral d'armures
@@ -613,85 +996,360 @@ Le pectoral d’armure est la pièce qui procure la plus
 grande protection, mais aussi généralement celle qui entrave
 le plus son porteur.
 
-<center>{s:Reference|TABPROFILSTRONC}{| CLASS="tablo"
-|+ Profils des pièces d'armure pectorales
-|- CLASS="titre"
-| ROWSPAN="2" | Type d’armure
-| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]
-| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]
-| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]
-| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
-| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTETRONC1|1]])</sup>
-|- CLASS="soustitre"
-| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
-|- CLASS="premier"
-| COLSPAN="9" | Armures légères
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALSOIE|Armure cérémonielle de soie]] || 30&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALBOIS|De bois]] || 10&nbsp;po || +1 || +3 || -1 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALCUIR|De cuir]] || 5&nbsp;po || +1 || +6 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALCUIRCLOUTE|De cuir cloutée]] || 15&nbsp;po || +1 || +5 || 0 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#CUIRASSELAMELLAIRE|Cuirasse lamellaire]] || 15&nbsp;po || +2 || +4 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 3,5&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALREMBOURRE|Habits rembourrés]] || 50&nbsp;po || +0 || +8 || 0 || 10% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#HARAMAKI|Haramaki]] || 3&nbsp;po || +1 || +10 || 0 || 0% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 0,5&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECUIR|Lamellaire, cuir]] || 30&nbsp;po || +2 || +3 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALMATELASSE|Matelassée]] || 3&nbsp;po || +0 || +8 || 0 || 5% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 2,5&nbsp;kg
-|- CLASS="premier" 
-| COLSPAN="9" | Armures intermédiaires
-|-
-| &nbsp; [[Description des pièces darmure#ARMUREQUATREMIROIRS|Armure quatre-miroirs]] || 20&nbsp;po || +5 || +4 || -5 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 18&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#DOMARU|Do-maru]] || 200&nbsp;po || +5 || +4 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 13,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALECAILLES|D’écailles]] || 30&nbsp;po || +2 || +3 || -2 || 25% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALKIKKO|Kikko]] || 15&nbsp;po || +2 || +4 || -3 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 7&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREACIER|Lamellaire, acier]] || 100&nbsp;po || +1 || +3 || -5 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECORNE|Lamellaire, corne]] || 50&nbsp;po || +2 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALMAILLES|De mailles]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 100&nbsp;po || +4 || +4 || -2 || 30% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 11&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALMONTAGNE|De la montagne]] || 150&nbsp;po || +3 || +3 || -4 || 30% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALPEAU|De peau]] || 10&nbsp;po || +2 || +4 || -2 || 20% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 7&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#VESTERENFORCEE|Veste renforcée]] || 50&nbsp;po || +4 || +3 || -2 || 20% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 9&nbsp;kg
-|- CLASS="premier" 
-| COLSPAN="9" | Armures lourdes
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALCLIBANION|De clibanion]] || 100&nbsp;po || +4 || 0 || -3 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 11&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALCREVICE|De crevice]] || 150&nbsp;po || +4 || +1 || -2 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 9&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALKUSARIGUSOKU|Kusari gusoku]] || 200&nbsp;po || +4 || +1 || -7 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 9&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREFER|Lamellaire, fer]] || 100&nbsp;po || +4 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 7&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#MANTEAUDEPIERRE|Manteau de pierre]] || 500&nbsp;po || +8 || 0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 20,5&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALOYOROI|O-yoroi]] || 750&nbsp;po || +5 || +2 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALPLAQUES|De plaques]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 200&nbsp;po || +6 || +3 || -4 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
-|- CLASS="alt" 
-| &nbsp; [[Description des pièces darmure#PECTORALPLAQUESFLEXIBLES|De plaques flexibles]]<sup>([[Pièces darmures#NOTETRONC3|3]])</sup> || 400&nbsp;po || +6 || +3 || -4 || 25% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 11&nbsp;kg
-|-
-| &nbsp; [[Description des pièces darmure#PECTORALTATAMIDO|Tatami-do]] || 500&nbsp;po || +4 || +4 || -6 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup> || 13,5&nbsp;kg
-|-
-| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTETRONC1}*(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des pièces d’armure des personnages de taille G doivent être doublés.*
-|-
-| CLASS="note" COLSPAN="9" | {s:Reference|NOTETRONC2}*(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa vitesse de déplacement au lieu de la quadrupler.*
-|-
-| CLASS="note alt" COLSPAN="9" | {s:Reference|NOTETRONC3}*(3) Quand elles sont portées seules, la catégorie de poids (légère, intermédiaire, lourde) de ces pièces d’armure doit être abaissée d’un niveau. Une pièce d’armure de mailles protégeant le tronc portée seule est une chemise de mailles (armure légère), une pièce d’armure de plaques flexibles protégeant le tronc est une cuirasse (armure intermédiaire).*
-|}</center>
+
+<center>{s:Reference|TABPROFILSTRONC}
+<table CLASS="tablo">
+  <caption>Profils des pièces d'armure pectorales</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type d’armure</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#PRIX|Prix]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#BONUSDEXMAX|Bonus de{br} Dex max]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#MALUSARMURE|Malus {br}d’armure{br} aux tests]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#RISQUEECHECPROFANE|Risque {br}d’échec des{br} sorts profanes]]</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">[[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]</td>
+    <td ROWSPAN="2">[[Caractéristiques des armures#POIDS|Poids]]<sup>([[Pièces darmures#NOTETRONC1|1]])</sup></td>
+  </tr>
+  <tr CLASS="soustitre"><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6m&nbsp;(4&nbsp;{s:c})</td></tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures légères</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALSOIE|Armure cérémonielle de soie]]</td>
+    <td>30&nbsp;po</td>
+    <td>+1</td>
+    <td>+10</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALBOIS|De bois]]</td>
+    <td>10&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-1</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALCUIR|De cuir]]</td>
+    <td>5&nbsp;po</td>
+    <td>+1</td>
+    <td>+6</td>
+    <td>0</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALCUIRCLOUTE|De cuir cloutée]]</td>
+    <td>15&nbsp;po</td>
+    <td>+1</td>
+    <td>+5</td>
+    <td>0</td>
+    <td>15%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#CUIRASSELAMELLAIRE|Cuirasse lamellaire]]</td>
+    <td>15&nbsp;po</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>0</td>
+    <td>5%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>3,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALREMBOURRE|Habits rembourrés]]</td>
+    <td>50&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>10%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#HARAMAKI|Haramaki]]</td>
+    <td>3&nbsp;po</td>
+    <td>+1</td>
+    <td>+10</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>0,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECUIR|Lamellaire, cuir]]</td>
+    <td>30&nbsp;po</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>20%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALMATELASSE|Matelassée]]</td>
+    <td>3&nbsp;po</td>
+    <td>+0</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>5%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>2,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures intermédiaires</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#ARMUREQUATREMIROIRS|Armure quatre-miroirs]]</td>
+    <td>20&nbsp;po</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>-5</td>
+    <td>30%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>18&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#DOMARU|Do-maru]]</td>
+    <td>200&nbsp;po</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>-4</td>
+    <td>25%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>13,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALECAILLES|D’écailles]]</td>
+    <td>30&nbsp;po</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>25%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALKIKKO|Kikko]]</td>
+    <td>15&nbsp;po</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>-3</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREACIER|Lamellaire, acier]]</td>
+    <td>100&nbsp;po</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>-5</td>
+    <td>25%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>11&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALLAMELLAIRECORNE|Lamellaire, corne]]</td>
+    <td>50&nbsp;po</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>-4</td>
+    <td>25%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>9&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>
+      &nbsp; [[Description des pièces darmure#PECTORALMAILLES|De mailles]]<sup>([[Pièces darmures#NOTETRONC3|3]])
+      </sup>
+    </td>
+    <td>100&nbsp;po</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>-2</td>
+    <td>30%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>11&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALMONTAGNE|De la montagne]]</td>
+    <td>150&nbsp;po</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>-4</td>
+    <td>30%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>9&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALPEAU|De peau]]</td>
+    <td>10&nbsp;po</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>-2</td>
+    <td>20%</td>
+    <td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#VESTERENFORCEE|Veste renforcée]]</td>
+    <td>50&nbsp;po</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>-2</td>
+    <td>20%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>9&nbsp;kg</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">Armures lourdes</td></tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALCLIBANION|De clibanion]]</td>
+    <td>100&nbsp;po</td>
+    <td>+4</td>
+    <td>0</td>
+    <td>-3</td>
+    <td>40%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>11&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALCREVICE|De crevice]]</td>
+    <td>150&nbsp;po</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>-2</td>
+    <td>35%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>9&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALKUSARIGUSOKU|Kusari gusoku]]</td>
+    <td>200&nbsp;po</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>-7</td>
+    <td>35%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>9&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALLAMELLAIREFER|Lamellaire, fer]]</td>
+    <td>100&nbsp;po</td>
+    <td>+4</td>
+    <td>0</td>
+    <td>-7</td>
+    <td>40%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>7&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#MANTEAUDEPIERRE|Manteau de pierre]]</td>
+    <td>500&nbsp;po</td>
+    <td>+8</td>
+    <td>0</td>
+    <td>-7</td>
+    <td>40%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>20,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&nbsp; [[Description des pièces darmure#PECTORALOYOROI|O-yoroi]]</td>
+    <td>750&nbsp;po</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>-6</td>
+    <td>35%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>13,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>
+      &nbsp; [[Description des pièces darmure#PECTORALPLAQUES|De plaques]]<sup>([[Pièces darmures#NOTETRONC3|3]])
+      </sup>
+    </td>
+    <td>200&nbsp;po</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>-4</td>
+    <td>35%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>13,5&nbsp;kg</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      &nbsp; [[Description des pièces darmure#PECTORALPLAQUESFLEXIBLES|De plaques flexibles]]<sup>([[Pièces
+      darmures#NOTETRONC3|3]])</sup>
+    </td>
+    <td>400&nbsp;po</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>-4</td>
+    <td>25%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td>
+    <td>11&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td>&nbsp; [[Description des pièces darmure#PECTORALTATAMIDO|Tatami-do]]</td>
+    <td>500&nbsp;po</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>-6</td>
+    <td>35%</td>
+    <td>6&nbsp;m&nbsp;(4&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})<sup>([[Pièces darmures#NOTETRONC2|2]])</sup></td>
+    <td>13,5&nbsp;kg</td>
+  </tr>
+  <tr>
+    <td CLASS="note alt" COLSPAN="9">
+      {s:Reference|NOTETRONC1}*(1) Les poids indiqués correspondent à des pièces d’armure conçues pour des
+      personnages de taille M. Les pièces d’armure des personnages de taille P pèsent moitié moins, et les poids des
+      pièces d’armure des personnages de taille G doivent être doublés.*
+    </td>
+  </tr>
+  <tr>
+    <td CLASS="note" COLSPAN="9">
+      {s:Reference|NOTETRONC2}*(2) Lorsqu’un personnage court en&nbsp;portant cette pièce d’armure, il triple sa
+      vitesse de déplacement au lieu de la quadrupler.*
+    </td>
+  </tr>
+  <tr>
+    <td CLASS="note alt" COLSPAN="9">
+      {s:Reference|NOTETRONC3}*(3) Quand elles sont portées seules, la catégorie de poids (légère, intermédiaire,
+      lourde) de ces pièces d’armure doit être abaissée d’un niveau. Une pièce d’armure de mailles protégeant le
+      tronc portée seule est une chemise de mailles (armure légère), une pièce d’armure de plaques flexibles
+      protégeant le tronc est une cuirasse (armure intermédiaire).*
+    </td>
+  </tr>
+</table></center>

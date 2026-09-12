@@ -9,53 +9,123 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Protecteurs de l’intégrité et de la stabilité du grand au-delà, les gardiens des failles peuvent se trouver partout dans le multivers, à combattre leurs ennemies jurés, les [[Adepte de la Flamme noire|adeptes de la Flamme noire]]. Ils voyagent dans le grand au-delà en tant que guides et gardiens, assermentés à protéger les frontières entre les plans et à punir les malfaiteurs qui chercheraient à utiliser des passerelles planaires pour leurs propres desseins maléfiques.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le gardien des failles
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +1 
-| CLASS="gauche" | [[Gardien des failles#CONTRECONVOCATION|Contre-convocation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1 
-| CLASS="gauche" | [[Gardien des failles#CANALISATIONPLANAIRE|Canalisation planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|-
-| 3 || +2 || +1 || +2 || +2 
-| CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +1
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|- CLASS="alt"
-| 4 || +3 || +1 || +2 || +2 
-| CLASS="gauche" | [[Gardien des failles#CONTRETELEPORTATION|Contre-téléportation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|-
-| 5 || +3 || +2 || +3 || +3 
-| CLASS="gauche" | [[Gardien des failles#FLEAUPLANAIRE|Fléau planaire]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +4 || +2 || +3 || +3 
-| CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +2
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|-
-| 7 || +5 || +2 || +4 || +4 
-| CLASS="gauche" | [[Gardien des failles#SCIENCEDELACONTRETELEPORTATION|Science de la contre-téléportation]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|- CLASS="alt"
-| 8 || +6 || +3 || +4 || +4 
-| CLASS="gauche" | [[Gardien des failles#PURGEPLANAIRE|Purge planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|-
-| 9 || +6 || +3 || +5 || +5 
-| CLASS="gauche" | [[Gardien des failles#ERADICATION|Éradication]] +3
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 10 || +7 || +3 || +5 || +5 
-| CLASS="gauche" | [[Gardien des failles#CONTRETELEPORTATIONSUPERIEURE|Contre-téléportation supérieure]], [[Gardien des failles#GUIDEPLANAIRE|guide planaire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]] 
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le gardien des failles</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Gardien des failles#CONTRECONVOCATION|Contre-convocation]], [[Gardien des failles#GUIDEPLANAIRE|guide
+      planaire]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Gardien des failles#CANALISATIONPLANAIRE|Canalisation planaire]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Gardien des failles#ERADICATION|Éradication]] +1</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Gardien des failles#CONTRETELEPORTATION|Contre-téléportation]], [[Gardien des failles#GUIDEPLANAIRE|guide
+      planaire]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Gardien des failles#FLEAUPLANAIRE|Fléau planaire]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Gardien des failles#ERADICATION|Éradication]] +2</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Gardien des failles#SCIENCEDELACONTRETELEPORTATION|Science de la contre-téléportation]], [[Gardien des
+      failles#GUIDEPLANAIRE|guide planaire]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Gardien des failles#PURGEPLANAIRE|Purge planaire]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Gardien des failles#ERADICATION|Éradication]] +3</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Gardien des failles#CONTRETELEPORTATIONSUPERIEURE|Contre-téléportation supérieure]], [[Gardien des
+      failles#GUIDEPLANAIRE|guide planaire]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie.**d8.
 

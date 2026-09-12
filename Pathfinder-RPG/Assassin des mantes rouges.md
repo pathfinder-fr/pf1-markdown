@@ -10,43 +10,160 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:CCMI}*Les initiés de l'ordre des assassins pourpres commencent leur entraînement en tant que roublard ou se multiclassent guerrier/roublard car la discrétion et le don pour les armes sont des prérequis pour rejoindre cet ordre.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Assassin pourpre
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| ROWSPAN="2" | BBA
-| ROWSPAN="2" | Réflexes
-| ROWSPAN="2" | Vigueur
-| ROWSPAN="2" | Volonté
-| ROWSPAN="2" | Spécial
-| COLSPAN="4" CLASS="avecsoustitre" | Sorts par jour
-|- CLASS="soustitre"
-| 1er
-| 2e
-| 3e
-| 4e
 
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +1 || [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[assassin des mantes rouges#COMBATAUSABRE|combat au sabre]] 1 || 1 || – || – || –
-|-
-| 2 || +1 || +1 || +1 || +1 || [[assassin des mantes rouges#ATTAQUEDELAMANTE|Attaque de la mante]] || 2 || – || – || –
-|-
-| 3 || +2 || +2 || +1 || +2 || [[assassin des mantes rouges#LINCEULÉCARLATE|Linceul écarlate]] || 3 || – || – || –
-|-
-| 4 || +3 || +2 || +1 || +2 || [[assassin des mantes rouges#APPELDUNEMANTE|Appel d’une mante]], [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +2d6 || 3 || 1 || – || –
-|-
-| 5 || +3 || +3 || +2 || +3 || [[assassin des mantes rouges#COMBATAUSABRE|combat au sabre]] 2, [[assassin des mantes rouges#PERCEPTIONDELARÉSURRECTION|Perception de la résurrection]] || 4 || 2 || 0 || –
-|-
-| 6 || +4 || +3 || +2 || +3 || [[assassin des mantes rouges#FORMEDEMANTE|Forme de mante]] || 4 || 3 || – || –
-|-
-| 7 || +5 || +4 || +2 || +4 || [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +3d6, [[assassin des mantes rouges#COMBATAUSABRE|combat au sabre]] 3 || 4 || 3 || 1 || –
-|-
-| 8 || +6 || +4 || +3 || +4 || [[assassin des mantes rouges#MANTESANGLANTE|Mante sanglante]], [[assassin des mantes rouges#SESTOMPER|S’estomper]] || 4 || 4 || 2 || –
-|-
-| 9 || +6 || +5 || +3 || +5 || [[assassin des mantes rouges#ESSAIFATAL|Essaim fatal]] || 5 || 4 || 3 || –
-|-
-| 10 || +7 || +5 || +3 || +5 || [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +4d6, [[assassin des mantes rouges#MANTEMORTELLE|Mante mortelle]] || 5 || 4 || 3 || 1
-|}
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Assassin pourpre</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>
+      [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[assassin des mantes
+      rouges#COMBATAUSABRE|combat au sabre]] 1
+    </td>
+    <td>1</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>[[assassin des mantes rouges#ATTAQUEDELAMANTE|Attaque de la mante]]</td>
+    <td>2</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>[[assassin des mantes rouges#LINCEULÉCARLATE|Linceul écarlate]]</td>
+    <td>3</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>
+      [[assassin des mantes rouges#APPELDUNEMANTE|Appel d’une mante]], [[assassin des mantes
+      rouges#ATTAQUESOURNOISE|Attaque sournoise]] +2d6
+    </td>
+    <td>3</td>
+    <td>1</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>
+      [[assassin des mantes rouges#COMBATAUSABRE|combat au sabre]] 2, [[assassin des mantes
+      rouges#PERCEPTIONDELARÉSURRECTION|Perception de la résurrection]]
+    </td>
+    <td>4</td>
+    <td>2</td>
+    <td>0</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>[[assassin des mantes rouges#FORMEDEMANTE|Forme de mante]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>
+      [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +3d6, [[assassin des mantes
+      rouges#COMBATAUSABRE|combat au sabre]] 3
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>
+      [[assassin des mantes rouges#MANTESANGLANTE|Mante sanglante]], [[assassin des mantes
+      rouges#SESTOMPER|S’estomper]]
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>[[assassin des mantes rouges#ESSAIFATAL|Essaim fatal]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>
+      [[assassin des mantes rouges#ATTAQUESOURNOISE|Attaque sournoise]] +4d6, [[assassin des mantes
+      rouges#MANTEMORTELLE|Mante mortelle]]
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+</table>
+
 
 **Alignement.** Loyal Mauvais
 

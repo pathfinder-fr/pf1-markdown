@@ -10,42 +10,121 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:RSE}*À entendre parler la plupart des guerriers, les batailles sont gagnées par le courage et la persévérance, par le fer acéré et les muscles puissants. L’étudiant de la guerre sait que la clef de la victoire réside dans l’esprit du combattant, l’entraînement qui guide la lame et le fait de savoir quand et où frapper. Tout érudit martial dévoué à son domaine peut rejoindre cette classe de prestige, mais les compagnies d'Explorateurs se taillent la part du lion. Les bibliothèques des Explorateurs sont le pain quotidien de l’aspirant étudiant de la guerre. Là demeurent d’obscurs manuels de combat, des bestiaires moisis et des récits détaillés de batailles. Armé de ces textes et endurci par une routine et un entraînement constants, l’étudiant de la guerre remplit son répertoire d’astuces et de techniques conçues pour exploiter toutes les faiblesses et annuler tous les avantages des ennemis qu’il a étudiés.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ l'étudiant De la guerre
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +0 || +1 
-| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +1 (action de mouvement)
-|- 
-| 2 || +2 || +1 || +1 || +1 
-| CLASS="gauche" | [[Étudiant de la guerre#DONDECOMBAT|Don de combat]], [[Étudiant de la guerre#LESPRITPLUSFORTQUELEMÉTAL|L’esprit plus fort que le métal]]
-|- 
-| 3 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 1/jour, [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]]
-|- 
-| 4 || +4 || +1 || +1 || +2 
-| CLASS="gauche" | [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +2
-|- 
-| 5 || +5 || +2 || +2 || +3
-| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#DONDECOMBAT|Don de combat]]
-|- 
-| 6 || +6 || +2 || +2 || +3
-| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 2/jour, [[Étudiant de la guerre#COUPÉLOQUENT|Coup éloquent]]
-|- 
-| 7 || +7 || +2 || +2 || +4 
-| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +3 (action rapide)
-|- 
-| 8 || +8 || +3 || +3 || +4
-| CLASS="gauche" | [[Étudiant de la guerre#DONDECOMBAT|Don de combat]]
-|- 
-| 9 || +9 || +3 || +3 || +5
-| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 3/jour, [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#NÉMÉSIS|Némésis]]
-|- 
-| 10 || +10 || +3 || +3 || +5
-| CLASS="gauche" | [[Étudiant de la guerre#COUPMORTEL|Coup mortel]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>l'étudiant De la guerre</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la
+      guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +1 (action de mouvement)
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#DONDECOMBAT|Don de combat]], [[Étudiant de la
+      guerre#LESPRITPLUSFORTQUELEMÉTAL|L’esprit plus fort que le métal]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 1/jour, [[Étudiant de la
+      guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la
+      guerre#DONDECOMBAT|Don de combat]]
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 2/jour, [[Étudiant de la guerre#COUPÉLOQUENT|Coup
+      éloquent]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la
+      guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +3 (action rapide)
+    </td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Étudiant de la guerre#DONDECOMBAT|Don de combat]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 3/jour, [[Étudiant de la
+      guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#NÉMÉSIS|Némésis]]
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Étudiant de la guerre#COUPMORTEL|Coup mortel]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d10.
 

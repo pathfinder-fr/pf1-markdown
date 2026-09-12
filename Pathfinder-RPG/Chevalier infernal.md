@@ -6,42 +6,121 @@ LastModified: 2021-07-02 23:18
 
 {s:Menuclassesdeprestige}{s:cs}{s:ccmi}*Tous ceux qui rejoignent la Légion ne disposent pas du potentiel nécessaire pour devenir un véritable Légionnaire infernal mais ceux qui y parviennent sont dotés de nombreux pouvoirs, au fur et à mesure qu’ils gagnent en puissance.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le Légionnaire infernal
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0 
-| CLASS="gauche" | [[Chevalier Infernal#AURADELOI|aura de Loi]], [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 1/jour, [[Chevalier Infernal#DÉTECTIONDUCHAOS|détection du chaos]], [[Chevalier Infernal#COHORTE|cohorte]] 
-|-
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 1, [[Chevalier Infernal#DÉTECTIONDESMENSONGES|détection des mensonges]]
-|-
-| 3 || +3 || +1 || +2 || +1 
-| CLASS="gauche" | [[Chevalier Infernal#DISCIPLINE|discipline]] 1, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 1
-|-
-| 4 || +4 || +1 || +2 || +1 
-| CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 2/jour
-|-
-| 5 || +5 || +2 || +3 || +2 
-| CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 2
-|-
-| 6 || +6 || +2 || +3 || +2 
-| CLASS="gauche" | [[Chevalier Infernal#DISCIPLINE|discipline]] 2, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 2
-|-
-| 7 || +7 || +2 || +4 || +2 
-| CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 3/jour, [[Chevalier Infernal#HÉRAUTDELALOI|héraut de la loi]]
-|-
-| 8 || +8 || +3 || +4 || +3 
-| CLASS="gauche" | [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 3 (vitesse de course)
-|-
-| 9 || +9 || +3 || +5 || +3 
-| CLASS="gauche" | [[Chevalier Infernal#ARMUREINFERNALE|armure infernale]], [[Chevalier Infernal#DISCIPLINE|discipline]] 3, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 3
-|-
-| 10 || +10 || +3 || +5 || +3 
-| CLASS="gauche" | [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 4/jour, [[Chevalier Infernal#LÉGIONNAIREDESENFERS|Légionnaire des Enfers]]
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le Légionnaire infernal</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#AURADELOI|aura de Loi]], [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]]
+      1/jour, [[Chevalier Infernal#DÉTECTIONDUCHAOS|détection du chaos]], [[Chevalier Infernal#COHORTE|cohorte]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 1, [[Chevalier
+      Infernal#DÉTECTIONDESMENSONGES|détection des mensonges]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#DISCIPLINE|discipline]] 1, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 1
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 2/jour</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 2</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#DISCIPLINE|discipline]] 2, [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 2
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 3/jour, [[Chevalier Infernal#HÉRAUTDELALOI|héraut
+      de la loi]]
+    </td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#ARMUREDELÉGIONNAIREINFERNAL|armure de Légionnaire infernal]] 3 (vitesse de course)
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#ARMUREINFERNALE|armure infernale]], [[Chevalier Infernal#DISCIPLINE|discipline]] 3,
+      [[Chevalier Infernal#FORCEDEVOLONTÉ|force de volonté]] 3
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Chevalier Infernal#CHÂTIMENTDUCHAOS|châtiment du Chaos]] 4/jour, [[Chevalier
+      Infernal#LÉGIONNAIREDESENFERS|Légionnaire des Enfers]]
+    </td>
+  </tr>
+</table>
+
 
 **Alignement.** Tout alignement Loyal.
 

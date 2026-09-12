@@ -196,37 +196,22 @@ Un roublard qui maîtrise ce talent peut effectuer n’importe quels tests de [[
 
 {s:UC}{s:Reference|CONTACTSAUMARCHENOIR}
 #### Contacts au marché noir (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="marcheNoirTableau" 
-|+ Marché noir
-|- 
-| **Taille de la  
-communauté**
-| **DD**
-|- Class="premier"
-| Lieu-dit
-| 10
-|- 
-| Hameau
-| 12
-|- 
-| Village
-| 15
-|- 
-| Petite ville
-| 18
-|- 
-| Grande ville
-| 20
-|- 
-| Petite cité
-| 25
-|- 
-| Grande cité
-| 30
-|- 
-| Capitale
-| 35
-|}</div>Grâce à ce talent, le roublard peut obtenir de meilleurs objets magiques grâce à ses contacts au marché noir.
+
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">
+<table class="tablo toutgauche autoalt" id="marcheNoirTableau">
+  <caption>Marché noir</caption>
+  <tr><td>**Taille de la  
+communauté**</td><td>**DD**</td></tr>
+  <tr Class="premier"><td>Lieu-dit</td><td>10</td></tr>
+  <tr><td>Hameau</td><td>12</td></tr>
+  <tr><td>Village</td><td>15</td></tr>
+  <tr><td>Petite ville</td><td>18</td></tr>
+  <tr><td>Grande ville</td><td>20</td></tr>
+  <tr><td>Petite cité</td><td>25</td></tr>
+  <tr><td>Grande cité</td><td>30</td></tr>
+  <tr><td>Capitale</td><td>35</td></tr>
+</table></div>Grâce à ce talent, le roublard peut obtenir de meilleurs objets magiques grâce à ses contacts au marché noir.
+
 Il considère toutes les villes comme d’une taille de plus qu’elles ne le sont réellement quand il s’agit de déterminer la [[Règles relatives aux objets magiques#ACHETER|valeur de base maximale (en pièces d’or) des objets à vendre]], ainsi que le nombre d’objets magiques mineurs, moyens et majeurs à disposition. Si la ville est déjà une capitale, il a accès à tous les objets mineurs et moyens et à 3d8 objets majeurs.
 
 Un test de [[Diplomatie]] réussi lui permet de faire comme si la ville était de deux tailles de plus qu’elle ne l’est.
@@ -247,28 +232,19 @@ Un roublard disposant de ce talent peut utiliser une [[action rapide]] pour déc
 
 {s:APG}{s:Reference|DEGUISEMENTRAPIDE}
 #### Déguisement rapide (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="déguisementrapideTableau" 
-|+ déguisement
-|-
-| **Déguisement rapide**
-| **temps**
-|- Class="premier"
-| Catégorie d’âge différente 
-| 1 minute
-|-
-| Catégorie de taille différente  
-| 1 minute
-|- 
-| Petits détails seulement 
-| 1 action  
-complexe
-|-
-| Race différente  
-| 1 minute
-|- 
-| Sexe différent 
-| 1 minute
-|}</div>Un roublard disposant de ce talent peut utiliser les objets qu’il a à portée de main et quelques objets apparemment banals qu’il cache sur lui pour créer des déguisements étonnamment efficaces tout en réduisant le temps nécessaire à leur fabrication. Le temps nécessaire au roublard pour modifier son apparence de cette manière dépend de la complexité du déguisement, comme indiqué sur la table ci-contre. Les temps sont cumulatifs, de sorte que si une roublarde veut se déguise en un homme d’une race différente, cela lui demande 2 minutes.
+
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">
+<table class="tablo toutgauche autoalt" id="déguisementrapideTableau">
+  <caption>déguisement</caption>
+  <tr><td>**Déguisement rapide**</td><td>**temps**</td></tr>
+  <tr Class="premier"><td>Catégorie d’âge différente</td><td>1 minute</td></tr>
+  <tr><td>Catégorie de taille différente</td><td>1 minute</td></tr>
+  <tr><td>Petits détails seulement</td><td>1 action  
+complexe</td></tr>
+  <tr><td>Race différente</td><td>1 minute</td></tr>
+  <tr><td>Sexe différent</td><td>1 minute</td></tr>
+</table></div>Un roublard disposant de ce talent peut utiliser les objets qu’il a à portée de main et quelques objets apparemment banals qu’il cache sur lui pour créer des déguisements étonnamment efficaces tout en réduisant le temps nécessaire à leur fabrication. Le temps nécessaire au roublard pour modifier son apparence de cette manière dépend de la complexité du déguisement, comme indiqué sur la table ci-contre. Les temps sont cumulatifs, de sorte que si une roublarde veut se déguise en un homme d’une race différente, cela lui demande 2 minutes.
+
 
 {s:Reference|DENICHEURDEPIEGES}
 #### Dénicheur de pièges (Ext)
@@ -455,28 +431,19 @@ Un roublard disposant de ce talent peut appliquer deux doses de [[poison]] en m�
 
 {s:UC}{s:Reference|COLPORTEURDERUMEURS}
 #### Colporteur de rumeurs (Ext)
-<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">{| class="tablo toutgauche autoalt" id="CacheLumièreTableau" 
-|+ Colporteur de rumeurs
-|- 
-| **Taille de la  
-communauté**
-| **DD**
-|- class="premier" 
-| Petite ville
-| 18
-|-
-| Grande ville
-| 20
-|- 
-| Petite cité
-| 25
-|- 
-| Grande cité
-| 30
-|- 
-| Capitale
-| 35
-|}</div>Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).  
+
+<div style="float: right; margin-left: 10px; margin-right: -5px; max-width: 300px;" class="presentation recentre">
+<table class="tablo toutgauche autoalt" id="CacheLumièreTableau">
+  <caption>Colporteur de rumeurs</caption>
+  <tr><td>**Taille de la  
+communauté**</td><td>**DD**</td></tr>
+  <tr class="premier"><td>Petite ville</td><td>18</td></tr>
+  <tr><td>Grande ville</td><td>20</td></tr>
+  <tr><td>Petite cité</td><td>25</td></tr>
+  <tr><td>Grande cité</td><td>30</td></tr>
+  <tr><td>Capitale</td><td>35</td></tr>
+</table></div>Un roublard doté de ce talent peut tenter de répandre une rumeur dans une petite ville ou dans une agglomération plus importante grâce à un test de [[Bluff]]. Chaque semaine, il peut faire cela un nombre de fois égal à son modificateur de [[Charisme]] (0 au minimum).
+
 Le [[DD]] est basé sur la taille de la ville et il faut une semaine pour que la rumeur se propage. En cas de réussite, la communauté accepte la rumeur comme un fait avéré. Si le roublard bat le [[DD]] de 5 ou plus, il réduit le temps que la nouvelle met pour se répandre de 1d4 jours. En cas d’échec, la rumeur n’a aucun poids mais si le roublard rate son test de 5 ou plus, c’est la rumeur inverse ou une théorie opposée qui se répand sur le sujet.
 
 {s:APG}{s:Reference|COUPASSOMMANT}

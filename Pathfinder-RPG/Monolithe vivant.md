@@ -10,43 +10,111 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:Desambi|Cette classe de prestige a été modifiée dans <u>People of the Sands</u>, sa traduction a donc été modifiée pour coller à sa plus récente itération.}{s:RSE}*La Terre des pharaons regorge de sentinelles de pierre, gardiens aussi solides qu’une montagne, venus des temps anciens, gardiens dont le regard implacable glace le cœur des mécréants, réconforte les âmes troublées et terrifie les pilleurs de tombe. On dit que ce sont les antiques sphinx, juges des dieux et gardiens divins de la Terre des pharaons, qui ont donné leurs pouvoirs aux monolithes vivants en accordant à quelques mortels la patience et la force éternelle de la pierre. Les légendes disent que les premiers monolithes vivants étaient des statues animées d’un semblant de vie mais aujourd’hui, la majorité de ces parangons du désert sont des mortels qui ont volontairement endossé le rôle des guerriers immortels grâce à leur dévotion et à un rituel.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ Le Monolithe vivant
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
 
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +0
-| CLASS="gauche" | [[Monolithe vivant#PIERREDAME|Pierre d'âme]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Monolithe vivant#SANGDEPIERRE|Sang de pierre]]
-|-
-| 3 || +2 || +1 || +2 || +1
-| CLASS="gauche" | [[Monolithe vivant#RENFORCEMENTDELACHAIR|Renforcement de la chair]] (RD 1/—, 10%)
-|-
-| 4 || +3 || +1 || +2 || +1
-| CLASS="gauche" | [[Monolithe vivant#STABILITE|Stabilité]], [[Monolithe vivant#VISIONDELATOMBE|vision de la tombe]]
-|-
-| 5 || +3 || +2 || +3 || +2
-| CLASS="gauche" | [[Monolithe vivant#PIERREKASUPERIEURE|Pierre ka supérieure]], [[Monolithe vivant#RENFORCEMENTDELACHAIR|renforcement de la chair]] (RD 2/—, 20%)
-|-
-| 6 || +4 || +2 || +3 || +2
-| CLASS="gauche" | [[Monolithe vivant#HARMONISATIONDELAPIERRE|Harmonisation de la pierre]]
-|-
-| 7 || +5 || +2 || +4 || +2
-| CLASS="gauche" | [[Monolithe vivant#CONVOCATIONDESPHINX|Convocation de sphinx]]
-|-
-| 8 || +6 || +3 || +4 || +3
-| CLASS="gauche" | [[Monolithe vivant#COMMUNIONAVECLAPIERRE|Communion avec la pierre]], [[Monolithe vivant#RENFORCEMENTDELACHAIR|renforcement de la chair]] (RD 3/—, 30%)
-|-
-| 9 || +6 || +3 || +5 || +3
-| CLASS="gauche" | [[Monolithe vivant#ASSOMPTIONDELAPIERRE|Assomption de la pierre]]
-|-
-| 10 || +7 || +3 || +5 || +3
-| CLASS="gauche" | [[Monolithe vivant#PIERREETERNELLE|Pierre éternelle]], [[Monolithe vivant#PIERREKASUPREME|Pierre ka suprême]], [[Monolithe vivant#JUGEMENTDUMONOLITHE|jugement du monolithe]]
-|}
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>Le Monolithe vivant</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Monolithe vivant#PIERREDAME|Pierre d'âme]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Monolithe vivant#SANGDEPIERRE|Sang de pierre]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Monolithe vivant#RENFORCEMENTDELACHAIR|Renforcement de la chair]] (RD 1/—, 10%)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Monolithe vivant#STABILITE|Stabilité]], [[Monolithe vivant#VISIONDELATOMBE|vision de la tombe]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Monolithe vivant#PIERREKASUPERIEURE|Pierre ka supérieure]], [[Monolithe
+      vivant#RENFORCEMENTDELACHAIR|renforcement de la chair]] (RD 2/—, 20%)
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Monolithe vivant#HARMONISATIONDELAPIERRE|Harmonisation de la pierre]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Monolithe vivant#CONVOCATIONDESPHINX|Convocation de sphinx]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Monolithe vivant#COMMUNIONAVECLAPIERRE|Communion avec la pierre]], [[Monolithe
+      vivant#RENFORCEMENTDELACHAIR|renforcement de la chair]] (RD 3/—, 30%)
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Monolithe vivant#ASSOMPTIONDELAPIERRE|Assomption de la pierre]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Monolithe vivant#PIERREETERNELLE|Pierre éternelle]], [[Monolithe vivant#PIERREKASUPREME|Pierre ka suprême]],
+      [[Monolithe vivant#JUGEMENTDUMONOLITHE|jugement du monolithe]]
+    </td>
+  </tr>
+</table>
+
 
 
 **Dés de vie.** d8.

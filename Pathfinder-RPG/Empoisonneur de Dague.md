@@ -9,43 +9,127 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*L'utilisation du poison est une méthode commune à travers les cultures et régions du monde, mais l'art atteint son apogée dans la capitale pourrissante des Royaumes indépendants déchirés par la guerre. Les membres de la guilde des empoisonneurs de la capitale des Royaumes indépendants font constamment des expériences avec leurs poisons, en créant des centaines de toxines puissantes soit pour les revendre, soit pour les utiliser dans leurs propres desseins sinistres.*
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ L'empoisonneur de la guilde
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
 
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +0
-| CLASS="gauche" | [[Empoisonneur de Dague#MAITRESDESPOISONS|Maître des poisons]], [[Empoisonneur de Dague#RESISTANCEAUXPOISONS|résistance aux poisons]] +2, [[Empoisonneur de Dague#EMPOISONNEMENTRAPIDE|empoisonnement rapide]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Empoisonneur de Dague#APOTHICAIRETOXIQUE|Apothicaire toxique]] +1d6, [[Empoisonneur de Dague#RUSETOXIQUE|ruse toxique]]
-|-
-| 3 || +2 || +1 || +2 || +1
-| CLASS="gauche" | [[Empoisonneur de Dague#USINEDEPOISONS|Usine de poisons]], [[Empoisonneur de Dague#PIEGEUR|piégeur]] +1
-|-
-| 4 || +3 || +1 || +2 || +1
-| CLASS="gauche" | [[Empoisonneur de Dague#RESISTANCEAUXPOISONS|Résistance aux poisons]] +4, [[Empoisonneur de Dague#RUSETOXIQUE|ruse toxique]]
-|-
-| 5 || +3 || +2 || +3 || +2
-| CLASS="gauche" | [[Empoisonneur de Dague#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Empoisonneur de Dague#TOXINETRAITRESSE|toxine traîtresse]]
-|-
-| 6 || +4 || +2 || +3 || +2
-| CLASS="gauche" | [[Empoisonneur de Dague#EMPOISONNEMENTVELOCE|Empoisonnement véloce]], [[Empoisonneur de Dague#RUSETOXIQUE|ruse toxique]], [[Empoisonneur de Dague#PIEGEUR|piégeur]] +2
-|-
-| 7 || +5 || +2 || +4 || +2
-| CLASS="gauche" | [[Empoisonneur de Dague#RESISTANCEAUXPOISONS|Résistance aux poisons]] +6
-|-
-| 8 || +6 || +3 || +4 || +3
-| CLASS="gauche" | [[Empoisonneur de Dague#TOXICOLOGIEINSTANTANEE|Toxicologie instantanée]], [[Empoisonneur de Dague#RUSETOXIQUE|ruse toxique]]
-|-
-| 9 || +6 || +3 || +5 || +3
-| CLASS="gauche" | [[Empoisonneur de Dague#IMMUNITEAUXPOISONS|Immunité aux poisons]], [[Empoisonneur de Dague#PIEGEUR|piégeur]] +3
-|-
-| 10 || +7 || +3 || +5 || +3
-| CLASS="gauche" | [[Empoisonneur de Dague#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Empoisonneur de Dague#RUSETOXIQUE|ruse toxique]]
-|}
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>L'empoisonneur de la guilde</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#MAITRESDESPOISONS|Maître des poisons]], [[Empoisonneur de
+      Dague#RESISTANCEAUXPOISONS|résistance aux poisons]] +2, [[Empoisonneur de
+      Dague#EMPOISONNEMENTRAPIDE|empoisonnement rapide]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#APOTHICAIRETOXIQUE|Apothicaire toxique]] +1d6, [[Empoisonneur de
+      Dague#RUSETOXIQUE|ruse toxique]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#USINEDEPOISONS|Usine de poisons]], [[Empoisonneur de Dague#PIEGEUR|piégeur]] +1
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#RESISTANCEAUXPOISONS|Résistance aux poisons]] +4, [[Empoisonneur de
+      Dague#RUSETOXIQUE|ruse toxique]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Empoisonneur de
+      Dague#TOXINETRAITRESSE|toxine traîtresse]]
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#EMPOISONNEMENTVELOCE|Empoisonnement véloce]], [[Empoisonneur de Dague#RUSETOXIQUE|ruse
+      toxique]], [[Empoisonneur de Dague#PIEGEUR|piégeur]] +2
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Empoisonneur de Dague#RESISTANCEAUXPOISONS|Résistance aux poisons]] +6</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#TOXICOLOGIEINSTANTANEE|Toxicologie instantanée]], [[Empoisonneur de
+      Dague#RUSETOXIQUE|ruse toxique]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#IMMUNITEAUXPOISONS|Immunité aux poisons]], [[Empoisonneur de Dague#PIEGEUR|piégeur]]
+      +3
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Empoisonneur de Dague#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Empoisonneur de Dague#RUSETOXIQUE|ruse
+      toxique]]
+    </td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d8
 

@@ -11,54 +11,113 @@ Categories:
 
 Grâce à une méditation régulière, une réflexion profonde et une grande étude de la religion, l'exalté a forgé une connexion unique avec sa divinité. Même si les exaltés de chaque foi partagent certaines capacités, chacun reçoit des capacités spéciales qui dépendent des enseignements spécifiques de la religion. Un exalté de [[Torag (technique)|Torag]] agit et se montre différemment qu'un exalté de [[Lamashtu (technique)|Lamashtu]], par exemple. Cependant, tous les exaltés se conduisent avec dévotion et passion, en inspirant le fanatisme par leurs mots et leurs actes partout où ils vont.''
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ L'exalté
-|- CLASS="titre"
 
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Exalté#MARQUEDIVINE|Marque divine]], [[Exalté#OBEDIENCE|obédience]], [[Exalté#ERUDIT|érudit]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Exalté#VITALITE|Vitalité]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 1]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Exalté#ORATEURRELIGIEUX|Orateur religieux]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Exalté#PRATIQUEETENDUE|Pratique étendue]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 2]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [[Exalté#ASPECTDELADIVINITE|Aspect de la divinité]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [[Exalté#VISIONARDENTE|Vision ardente]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [[Exalté#FAVEURDIVINE|Faveur divine 3]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|-
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [[Exalté#REALISERUNMIRACLE|Réaliser un miracle]]
-| CLASS="gauche" | [[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]] 
-|}
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>L'exalté</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Exalté#MARQUEDIVINE|Marque divine]], [[Exalté#OBEDIENCE|obédience]], [[Exalté#ERUDIT|érudit]]
+    </td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Exalté#VITALITE|Vitalité]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Exalté#FAVEURDIVINE|Faveur divine 1]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Exalté#ORATEURRELIGIEUX|Orateur religieux]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Exalté#PRATIQUEETENDUE|Pratique étendue]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Exalté#FAVEURDIVINE|Faveur divine 2]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Exalté#ASPECTDELADIVINITE|Aspect de la divinité]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Exalté#VISIONARDENTE|Vision ardente]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Exalté#FAVEURDIVINE|Faveur divine 3]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Exalté#REALISERUNMIRACLE|Réaliser un miracle]]</td>
+    <td CLASS="gauche">[[Exalté#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td>
+  </tr>
+</table>
+
 
 **Dé de vie.** d8
 

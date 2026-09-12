@@ -132,6 +132,6 @@ CA).
     <td class="gauche">6</td>
     <td class="gauche">11</td>
   </tr>
-</table> </center>
+</table></center>
 
 </div></td></tr></table>

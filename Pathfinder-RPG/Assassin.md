@@ -10,42 +10,121 @@ Categories:
 
 Si presque n'importe qui est capable de devenir un assassin, les [[roublard|roublards]] sont les plus à même de remplir ce rôle de par leurs compétences et leur vision des choses. Ce sont de précieux alliés au cœur de la mêlée, mais ils excellent surtout dans des situations plus clandestines. Les meilleurs assassins sont ceux dont leurs victimes n'ont jamais soupçonné l'existence.''
 
-{s:ClearRight}{| CLASS="tablo centre autoalt"
-|+ L'assassin
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +0
-| CLASS="gauche" | [[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[assassin#ATTAQUEMORTELLE|attaque mortelle]], [[assassin#UTILISATIONDUPOISON|utilisation du poison]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+1), [[assassin#ESQUIVEINSTINCTIVE|esquive instinctive]]
-|-
-| 3 || +2 || +2 || +1 || +1
-| CLASS="gauche" | [[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +2d6
-|- CLASS="alt"
-| 4 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+2), [[assassin#ARMESDISSIMULEES|armes dissimulées]], [[assassin#VRAIEMORT|vraie mort]]
-|-
-| 5 || +3 || +3 || +2 || +2
-| CLASS="gauche" | [[assassin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[assassin#ATTAQUESOURNOISE|attaque sournoise]] +3d6
-|- CLASS="alt"
-| 6 || +4 || +3 || +2 || +2
-| CLASS="gauche" | [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+3), [[assassin#MORTSILENCIEUSE|mort silencieuse]]
-|-
-| 7 || +5 || +4 || +2 || +2
-| CLASS="gauche" | [[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +4d6
-|- CLASS="alt"
-| 8 || +6 || +4 || +3 || +3
-| CLASS="gauche" | [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+4), [[assassin#DISCRETIONTOTALE|discrétion totale]]
-|-
-| 9 || +6 || +5 || +3 || +3
-| CLASS="gauche" | [[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[assassin#MORTRAPIDE|mort rapide]]
-|- CLASS="alt"
-| 10 || +7 || +5 || +3 || +3
-| CLASS="gauche" | [[assassin#ANGEDELAMORT|Ange de la mort]], [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+5)
-|}
+
+{s:ClearRight}
+<table CLASS="tablo centre autoalt">
+  <caption>L'assassin</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[assassin#ATTAQUEMORTELLE|attaque mortelle]],
+      [[assassin#UTILISATIONDUPOISON|utilisation du poison]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+1),
+      [[assassin#ESQUIVEINSTINCTIVE|esquive instinctive]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+2),
+      [[assassin#ARMESDISSIMULEES|armes dissimulées]], [[assassin#VRAIEMORT|vraie mort]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[assassin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[assassin#ATTAQUESOURNOISE|attaque
+      sournoise]] +3d6
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+3),
+      [[assassin#MORTSILENCIEUSE|mort silencieuse]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+4),
+      [[assassin#DISCRETIONTOTALE|discrétion totale]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[assassin#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[assassin#MORTRAPIDE|mort rapide]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[assassin#ANGEDELAMORT|Ange de la mort]], [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre
+      les poisons]] (+5)
+    </td>
+  </tr>
+</table>
+
 
 **Rôle.** Les assassins sont souvent solitaires et considèrent leurs compagnons au mieux comme des débiteurs. Leurs missions les amènent parfois, et plus ou moins longtemps, à croiser la route d'aventuriers, mais rares sont ceux qui se sentent à l'aise quand un assassin professionnel surveille leurs arrières durant un combat. Ils préfèrent de loin laisser ce tueur froid partir en éclaireur ou préparer des embuscades.
 
