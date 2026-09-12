@@ -1,0 +1,70 @@
+/*****************************************/
+/* TABLEAUX MARKDOWN (md->html uniquement) */
+/*****************************************/
+
+/* Ce fichier ne concerne QUE le rendu md->html (markdown-static) : il n'est volontairement pas
+   référencé par le rendu de référence ScrewTurn (flipleaf-v1), pour ne pas modifier son
+   comportement visuel. Il complète custom.css (partagé par les deux rendus) pour les tableaux
+   ScrewTurn convertis en tableaux Markdown "pipe" (GFM) plutôt qu'en HTML littéral.
+
+   Markdig (utilisé par markdown-static) ne permet pas d'attacher une classe CSS à une ligne de
+   tableau (<tr>) ni à une cellule (<td>) individuelle via la syntaxe d'attributs "{...}" : les
+   classes de ligne ScrewTurn CLASS="titre"/"premier" sont donc retranscrites de façon
+   positionnelle (ligne d'en-tête native du tableau "pipe", et première ligne du corps du
+   tableau) plutôt que par une classe explicite. Voir WikiMarkdownConverter.TryBuildPipeTableMarkdown. */
+
+/* Équivalent positionnel de tr.titre (custom.css) : la ligne d'en-tête ScrewTurn CLASS="titre"
+   devient la ligne d'en-tête native du tableau Markdown (<thead><th>...</th></thead>). */
+#PageContentDiv table.tablo thead th {
+  border-top: 0;
+  background-color: transparent;
+  font-weight: bold;
+  padding: 0 4px 4px 4px;
+  text-align: center;
+}
+#PageContentDiv table.toutgauche thead th {
+  text-align: left;
+}
+#PageContentDiv table.tablo thead th:first-child {
+  text-align: left;
+}
+#PageContentDiv table.col1centre thead th:first-child {
+  text-align: center;
+}
+#PageContentDiv table.autoalt thead th {
+  background-color: #fff;
+}
+
+/* Équivalent positionnel de tr.premier (custom.css) : première ligne du corps du tableau. */
+#PageContentDiv table.tablo tbody tr:first-child td {
+  border-top: 2px solid black;
+}
+
+/* Légende de tableau (remplace <caption>, non disponible pour les tableaux "pipe" GFM) : reprend
+   le style de "table.tablo caption" défini dans custom.css. */
+#PageContentDiv .tablo-caption {
+  background-color: #4b3124;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 4px;
+  margin-bottom: 6px;
+}
+
+/* Bas de page de contenu (Dernière mise à jour & lien vers la source Markdown GitHub) */
+footer.page-footer {
+  clear: both;
+  margin: 30px 0 10px 0;
+  padding-top: 10px;
+  border-top: 1px solid #d0c5b4;
+  font-size: 0.85em;
+  color: #665;
+}
+footer.page-footer a {
+  color: #4b3124;
+  text-decoration: underline;
+}
+footer.page-footer a:hover {
+  color: #8b1b11;
+}
+

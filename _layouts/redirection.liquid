@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1" />
+    <title>Redirection : {{ page.title | default: title }} - Pathfinder-Fr</title>
+    <meta http-equiv="refresh" content="0; url={{ target_url }}" />
+    <link rel="canonical" href="{{ target_url }}" />
+    <script type="text/javascript">
+        window.location.replace("{{ target_url_js | default: target_url }}");
+    </script>
+    <link rel="shortcut icon" href="{{ relative_root }}favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/shared.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/sueetie.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/wiki.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/markdown.css" />
+</head>
+<body>
+    <table id="wrapper">
+        <tr>
+            <td id="margin-l" rowspan="2"></td>
+            <td id="page">
+                <div id="header">
+                    <div id="banner">
+                        <span>Pathfinder-Fr</span>
+                    </div>
+                </div>
+                <div id="container">
+                    <div id="content">
+                        <div id="PageHeaderDiv">
+                            <h1 class="pagetitle">Redirection : {{ page.title | default: title }}</h1>
+                        </div>
+                        <div id="PageContentDiv">
+<div class="redirection-notice">
+    <p>Cette page a été déplacée ou est un alias vers :</p>
+    <p><a href="{{ target_url }}"><strong>{{ page.title | default: title }} &rarr; {{ target_url }}</strong></a></p>
+    <p><em>Redirection automatique en cours...</em></p>
+</div>
+                        </div>{% if page.last_modified or page.github_url %}
+<footer class="page-footer" style="clear: both; margin: 30px 0 10px 0; padding-top: 10px; border-top: 1px solid #d0c5b4; font-size: 0.85em; color: #665;">
+    {% if page.last_modified %}Dernière mise à jour le <span title="{{ page.last_modified }}">{{ page.last_modified }}</span>{% endif %}{% if page.last_modified and page.github_url %} &bull; {% endif %}{% if page.github_url %}<a href="{{ page.github_url }}" target="_blank" rel="noopener noreferrer">Afficher le source Markdown</a>{% endif %}
+</footer>{% endif %}
+                    </div>
+                </div>
+            </td>
+            <td id="margin-r" rowspan="2"></td>
+        </tr>
+    </table>
+</body>
+</html>

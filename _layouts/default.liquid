@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1" />
+    <title>{{ page.title | default: title }} - Pathfinder-Fr</title>
+    <link rel="shortcut icon" href="{{ relative_root }}favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/shared.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/sueetie.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/wiki.css" />
+    <link rel="stylesheet" type="text/css" href="{{ relative_root }}css/markdown.css" />
+</head>
+<body>
+    <table id="wrapper">
+        <tr>
+            <td id="margin-l" rowspan="2"></td>
+            <td id="page">
+                <div id="header">
+                    <div id="banner">
+                        <span>Pathfinder-Fr</span>
+                    </div>
+                    <div id="nav">
+                        <ul>
+                            <li id="HomeTab"><a href="{{ relative_root }}index.html" class="home"><span>Accueil</span></a></li>
+                            <li id="BlogTab"><a href="/Blog/" class="blog"><span>Blog</span></a></li>
+                            <li id="WikiTabber">
+                                <span class="bullet"><a href="{{ relative_root }}index.html" class="wikis bullet"><span>Wikis</span></a></span>
+                                <ul class="sub sub-wikis">
+                                    <li><a href="{{ relative_root }}Pathfinder-RPG/MainPage.html" class="wiki-pfrpg"><span>Pathfinder-RPG</span></a></li>
+                                    <li><a href="{{ relative_root }}Golarion/MainPage.html" class="wiki-golarion"><span>Golarion</span></a></li>
+                                    <li><a href="{{ relative_root }}Ressources/MainPage.html" class="wiki-informations"><span>Ressources</span></a></li>
+                                    <li><a href="{{ relative_root }}Aventures/MainPage.html" class="wiki-aventures"><span>Aventures</span></a></li>
+                                    <li><a href="{{ relative_root }}Starfinder/MainPage.html" class="wiki-starfinder"><span>Starfinder</span></a></li>
+                                </ul>
+                            </li>
+                            <li id="ForumsTab"><span class="bullet"><a href="/Forum/" class="forum bullet"><span>Forum</span></a></span></li>
+                            <li id="MediaTab"><span class="bullet"><a href="/Media/" class="galerie"><span>Galerie</span></a></span></li>
+                            <li id="PartiesTab">
+                                <span class="bullet"><a href="/Wiki/Parties.MainPage.ashx" class="parties"><span>Parties</span></a></span>
+                                <ul class="sub sub-parties">
+                                    <li><a href="/Wiki/Parties.MainPage.ashx" class="parties-wiki"><span>Wikis</span></a></li>
+                                    <li><a href="/Forum/yaf_forum7_Parties-sur-forum.aspx" class="parties-forum"><span>Forums</span></a></li>
+                                </ul>
+                            </li>
+                            <li id="SearchTab"><a href="/Search/" class="search"><span>Recherche</span></a></li>
+                            <li id="ContactTab"><a href="/Blog/Contact.aspx" class="contact"><span>Contact</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="container">
+                    <div id="container-tl">
+                        <div id="sidebar">
+                        </div>
+                        <div id="container-tr">
+                            <div id="content">
+                                <div id="PageHeaderDiv">
+                                    <h1 class="pagetitle">{{ page.title | default: title }}</h1>
+                                </div>
+                                <div id="PageContentDiv">
+{{ content | raw }}
+                                </div>{% if page.last_modified or page.github_url %}
+<footer class="page-footer" style="clear: both; margin: 30px 0 10px 0; padding-top: 10px; border-top: 1px solid #d0c5b4; font-size: 0.85em; color: #665;">
+    {% if page.last_modified %}Dernière mise à jour le <span title="{{ page.last_modified }}">{{ page.last_modified }}</span>{% endif %}{% if page.last_modified and page.github_url %} &bull; {% endif %}{% if page.github_url %}<a href="{{ page.github_url }}" target="_blank" rel="noopener noreferrer">Afficher le source Markdown</a>{% endif %}
+</footer>{% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+            <td id="margin-r" rowspan="2"></td>
+        </tr>
+        <tr>
+            <td id="footer">
+                <div id="footerlinks">
+                    <span id="HomeFooterLink">
+                        <a href="{{ relative_root }}index.html">Accueil</a>
+                    </span>
+                    <span id="BlogsFooterLink">
+                        &bull; <a href="/Blog/">Blog</a>
+                    </span>
+                    <span id="ForumsFooterLink">
+                        &bull; <a href="/Forum/">Forums</a>
+                    </span>
+                    <span id="MediaFooterLink">
+                        &bull; <a href="/Media/">Galerie</a>
+                    </span>
+                    <span id="WikiFooterLink">
+                        &bull; <a href="{{ relative_root }}index.html">Wikis</a>
+                    </span>
+                    <span id="ContactUsFooterLink">
+                        &bull; <a href="/Blog/contact.aspx">Nous contacter</a>
+                    </span>
+                    <span id="SearchFooterLink">
+                        &bull; <a href="/Search/">Recherche</a>
+                    </span>
+                </div>
+                <p>La gamme Pathfinder est une cr&eacute;ation de <a href="http://www.paizo.com/" target="_blank">Paizo Publishing</a> traduite en fran&ccedil;ais par <a href="http://www.black-book-editions.fr/">Black Book Editions</a>.</p>
+                <p>Ce site se base sur les licences <a href="/Wiki/OGL.ashx">Open Game License</a>, <a href="/Wiki/PCUP.ashx">Pathfinder Community Use Policy et les conditions d'utilisation BBE</a>.</p>
+            </td>
+        </tr>
+    </table>
+    <script type="text/javascript" src="{{ relative_root }}lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="{{ relative_root }}js/site.js"></script>
+</body>
+</html>
